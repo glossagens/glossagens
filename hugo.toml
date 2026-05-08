@@ -1,4 +1,4 @@
-baseURL = "https://glossagens.github.io/"
+baseURL = "https://glossagens.github.io/glossagens/"
 locale = "de-CH"
 title = "Glossagens"
 theme = "hextra"
