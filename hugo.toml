@@ -1,0 +1,50 @@
+baseURL = "https://glossagens.github.io/"
+locale = "de-CH"
+title = "Glossagens"
+theme = "hextra"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+  description = "Öffentlicher juristischer Gesetzeskommentar"
+  displayUpdatedDate = true
+  dateFormat = "2. January 2006"
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+
+  [params.editURL]
+    enable = true
+    base = "https://github.com/glossagens/glossagens/edit/main/content/"
+
+  [params.footer]
+    displayCopyright = false
+    displayPoweredBy = false
+
+[menu]
+  [[menu.main]]
+    name = "Kommentar"
+    pageRef = "/kommentar"
+    weight = 1
+  [[menu.main]]
+    name = "Über"
+    pageRef = "/ueber"
+    weight = 2
+  [[menu.main]]
+    name = "Einreichung"
+    pageRef = "/einreichung"
+    weight = 3
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/glossagens/glossagens"
+    weight = 4
+    [menu.main.params]
+      type = "icon"
+      icon = "github"

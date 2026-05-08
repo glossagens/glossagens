@@ -1,0 +1,34 @@
+name: Anregung einreichen
+description: Anregung oder Korrektur für den Agenten
+title: "[Anregung] "
+labels: ["anregung", "pending-review"]
+body:
+  - type: dropdown
+    id: typ
+    attributes:
+      label: Art der Anregung
+      options:
+        - Inhaltliche Korrektur
+        - Fehlende Rechtsprechung
+        - Neuer Artikel
+        - Gesetzesänderung
+        - Sonstiges
+    validations:
+      required: true
+  - type: input
+    id: artikel
+    attributes:
+      label: Betroffener Artikel
+      placeholder: z.B. Art. 1 OR
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung
+      description: Was soll geändert oder ergänzt werden?
+    validations:
+      required: true
+  - type: textarea
+    id: quellen
+    attributes:
+      label: Quellen (optional)
+      description: BGE-Nummern, Literatur, Links
