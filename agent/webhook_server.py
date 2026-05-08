@@ -92,10 +92,6 @@ async def github_webhook(
 
     # Nur relevante Events verarbeiten
     if x_github_event == "issues" and action == "opened":
-        labels = [l["name"] for l in event["issue"].get("labels", [])]
-        if "anregung" not in labels and "pending-review" not in labels:
-            return {"status": "ignored"}
-
         item_id = _enqueue(
             type_="issue",
             github_id=event["issue"]["number"],
