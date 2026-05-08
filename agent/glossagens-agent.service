@@ -1,0 +1,14 @@
+[Unit]
+Description=Glossagens Agent (Webhook + Queue)
+After=network.target
+
+[Service]
+User=glossagens
+WorkingDirectory=/opt/glossagens/agent
+EnvironmentFile=/opt/glossagens/.env
+ExecStart=/opt/glossagens/venv/bin/uvicorn webhook_server:app --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
