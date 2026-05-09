@@ -1,0 +1,71 @@
+---
+title: Art. 147 StPO — Teilnahmerecht bei Beweiserhebungen
+weight: 147
+date: 2026-05-09
+lastmod: 2026-05-09
+description: "Kommentar zu Art. 147 StPO: Teilnahmerecht der Parteien bei Beweiserhebungen, Fragepflicht, Wiederholungsverlangen und Verwertungsverbot bei Verletzung des Teilnahmerechts."
+tags: ["Teilnahmerecht", "Beweiserhebung", "rechtliches Gehör", "Verwertungsverbot", "Verteidigungsrechte", "Privatklägerschaft"]
+agent_verified: true
+---
+
+## Gesetzestext
+
+> **Art. 147 — Im Allgemeinen**
+>
+> 1 Die Parteien haben das Recht, bei Beweiserhebungen durch die Staatsanwaltschaft und die Gerichte anwesend zu sein und einvernommenen Personen Fragen zu stellen. Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Artikel 159.
+>
+> 2 Wer sein Teilnahmerecht geltend macht, kann daraus keinen Anspruch auf Verschiebung der Beweiserhebung ableiten.
+>
+> 3 Die Partei oder ihr Rechtsbeistand können die Wiederholung der Beweiserhebung verlangen, wenn der Rechtsbeistand oder die Partei ohne Rechtsbeistand aus zwingenden Gründen an der Teilnahme verhindert waren. Auf eine Wiederholung kann verzichtet werden, wenn sie mit unverhältnismässigem Aufwand verbunden wäre und dem Anspruch der Partei auf rechtliches Gehör, insbesondere dem Recht, Fragen zu stellen, auf andere Weise Rechnung getragen werden kann.
+>
+> 4 Beweise, die in Verletzung der Bestimmungen dieses Artikels erhoben worden sind, dürfen nicht zulasten der Partei verwertet werden, die nicht anwesend war.
+
+## I. Zweck und Gehalt
+
+Das Teilnahmerecht dient der Gewährleistung des rechtlichen Gehörs und der Verteidigungsrechte. Es ermöglicht den Parteien, die Beweiserhebung unmittelbar zu kontrollieren und durch Fragen zu beeinflussen, was eine transparente und widersprüchliche Beweisaufnahme sicherstellt (BBl 2006 1085 ff.). Das Teilnahmerecht ist Ausfluss des Anspruchs auf rechtliches Gehör (Art. 107 Abs. 1 lit. b StPO) und kann nur unter den gesetzlich vorgesehenen Voraussetzungen eingeschränkt werden (Art. 108, Art. 146 Abs. 4, Art. 149 Abs. 2 lit. b StPO; BGE 139 IV 25 E. 4.2; BGE 143 IV 397 E. 3.3.1; BGE 141 IV 220 E. 4.4).
+
+## II. Träger des Teilnahmerechts
+
+### 1. Beschuldigte
+
+Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten, Zeugen und Auskunftspersonen teilzunehmen (BGE 139 IV 25 E. 4.2; BGE 141 IV 220 E. 4). Dieses Recht umfasst sowohl die Anwesenheit als auch das Fragerecht gegenüber den einvernommenen Personen.
+
+### 2. Privatklägerschaft
+
+Auch die Privatklägerschaft hat als Partei ein Teilnahmerecht gemäss Art. 147 Abs. 1 StPO i.V.m. Art. 107 Abs. 1 lit. b und Art. 104 Abs. 1 lit. b StPO. Das Teilnahmerecht der Privatklägerschaft umfasst namentlich Einvernahmen von Mitbeschuldigten und Auskunftspersonen (BGer 6B_764/2015 v. 6.1.2016 E. 1.5; BSTGER BB.2019.287 v. 17.4.2019; BSTGER BB.2024.125 v. 11.12.2024). Die Privatklägerschaft kann ihr Teilnahmerecht geltend machen, sofern sie nicht durch eine Geheimhaltungspflicht (Art. 108 StPO) davon ausgeschlossen ist (BS_APPELLATIONSGERICHT BES.2016.110 v. 30.11.2016).
+
+### 3. Verteidigung
+
+Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Art. 159 StPO (vgl. Abs. 1 Satz 2). Der Verzicht des Beschuldigten auf sein Teilnahmerecht bei Beweiserhebungen durch die Staatsanwaltschaft kann auch vom Verteidiger erklärt werden (BGE 143 IV 397).
+
+## III. Umfang und Grenzen
+
+### 1. Kein Anspruch auf Verschiebung (Abs. 2)
+
+Wer sein Teilnahmerecht geltend macht, kann daraus keinen Anspruch auf Verschiebung der Beweiserhebung ableiten. Die Beweisaufnahme soll nicht unnötig verzögert werden.
+
+### 2. Wiederholungsverlangen (Abs. 3)
+
+Die Partei oder ihr Rechtsbeistand können die Wiederholung der Beweiserhebung verlangen, wenn:
+- der Rechtsbeistand aus zwingenden Gründen an der Teilnahme verhindert war, oder
+- die Partei ohne Rechtsbeistand aus zwingenden Gründen verhindert war.
+
+Auf eine Wiederholung kann verzichtet werden, wenn sie mit unverhältnismässigem Aufwand verbunden wäre und dem Anspruch der Partei auf rechtliches Gehör, insbesondere dem Recht, Fragen zu stellen, auf andere Weise Rechnung getragen werden kann.
+
+### 3. Einschränkung bei Bandenkriminalität
+
+In der politischen Debatte zur Revision der StPO wurde diskutiert, das Teilnahmerecht bei Einvernahmen von Mitbeschuldigten insbesondere bei Bandenkriminalität einzuschränken, um Absprachen zu verhindern. Der Nationalrat lehnte dies jedoch ab, da dies das faire Verfahren und die Verteidigungsrechte zu stark gefährden würde (vgl. parlament.ch, Debattenverlauf 2022; Ruckstuhl, Verteidigung und Verfahrensrechte, in: Die revidierte Strafprozessordnung, Geth [Hrsg.], 2023, S. 98 f. Rz. 3.61 ff.; Wohlers, Das Teilnahmerecht der Parteien bei Beweiserhebungen im strafprozessualen Vorverfahren, in: Strafprozessrecht, 10 Jahre Schweizerische StPO, Jeker/Held/Jeanneret [Hrsg.], 2022, S. 361 ff. Rz. 17 ff.).
+
+## IV. Verwertungsverbot (Abs. 4)
+
+Beweise, die in Verletzung der Bestimmungen dieses Artikels erhoben worden sind, dürfen nicht zulasten der Partei verwertet werden, die nicht anwesend war. Dies gilt insbesondere bei Verletzung des Teilnahmerechts des Beschuldigten an Einvernahmen von Mitbeschuldigten (BGE 143 IV 457; BGE 141 IV 220). Das Verwertungsverbot bezweckt den Schutz der Verteidigungsrechte und stellt sicher, dass die betroffene Partei nicht aufgrund von Beweisen belastet wird, zu deren Erhebung sie nicht beiziehen konnte.
+
+## V. Rechtsprechung
+
+### Leitentscheide
+
+- **BGE 143 IV 397** — Verzicht auf das Teilnahmerecht: Der Verzicht des Beschuldigten kann auch vom Verteidiger erklärt werden. ([ Entscheiddetailseite](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397))
+- **BGE 139 IV 25** — Recht auf Teilnahme bei der Einvernahme von Mitbeschuldigten, Zeugen und Auskunftspersonen. ([Entscheiddetailseite](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25))
+- **BGE 141 IV 220** — Recht auf Teilnahme des Beschuldigten an Einvernahmen von Mitbeschuldigten in vereinigten Verfahren; Verwertungsverbot bei Verletzung. ([Entscheiddetailseite](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220))
+- **BGE 143 IV 457** — Teilnahmerecht an Einvernahmen von Mitbeschuldigten im gleichen Verfahren; Verwertungsverbot (Art. 147 Abs. 4 StPO). ([Entscheiddetailseite](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_457))
+- **BGE 140 IV 172** — Kein Teilnahmerecht an Einvernahmen in getrennt geführten Verfahren gegen andere beschuldigte Personen. ([Entscheiddetailseite](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_172))
