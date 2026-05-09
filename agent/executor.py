@@ -153,6 +153,20 @@ Antworte mit: PFAD: content/kommentar/.../art-xxx.md\n\nINHALT:\n<markdown>"""
         branch=branch,
     )
 
+    # _index.md für neues Gesetz anlegen falls nötig
+    law_dir = "/".join(path.split("/")[:3])  # z.B. content/kommentar/stpo
+    index_path = f"{law_dir}/_index.md"
+    try:
+        gh.get_file(index_path, branch)
+    except Exception:
+        law_name = law_dir.split("/")[-1].upper()
+        gh.create_or_update_file(
+            path=index_path,
+            content=f"---\ntitle: {law_name}\nweight: 1\n---\n",
+            message=f"Neues Gesetz: {law_name}",
+            branch=branch,
+        )
+
     pr_nr = gh.create_pr(
         title=f"Einreichung #{issue_nr}: {title}",
         body=f"Automatisch erstellt aus Issue #{issue_nr}.\n\nOriginal-Einreichung: {item['url']}",
