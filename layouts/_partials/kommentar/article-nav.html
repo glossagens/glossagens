@@ -1,0 +1,39 @@
+{{- $parent := .Parent -}}
+{{- $siblings := slice -}}
+{{- if $parent -}}
+  {{- $siblings = (where $parent.Sections "Kind" "section").ByWeight -}}
+{{- end -}}
+{{- $idx := -1 -}}
+{{- range $i, $p := $siblings -}}
+  {{- if eq $p.RelPermalink $.RelPermalink -}}{{- $idx = $i -}}{{- end -}}
+{{- end -}}
+{{- $prev := "" -}}
+{{- $next := "" -}}
+{{- if ge $idx 1 -}}{{- $prev = index $siblings (sub $idx 1) -}}{{- end -}}
+{{- if and (ge $idx 0) (lt $idx (sub (len $siblings) 1)) -}}{{- $next = index $siblings (add $idx 1) -}}{{- end -}}
+
+<nav class="hx:mt-12 hx:pt-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800 hx:flex hx:flex-col hx:sm:flex-row hx:gap-3 hx:justify-between not-prose" aria-label="Artikelnavigation">
+  {{- with $prev -}}
+    <a href="{{ .RelPermalink }}" class="hx:flex hx:flex-col hx:flex-1 hx:p-4 hx:rounded-lg hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:hover:bg-gray-50 hx:dark:hover:bg-neutral-900 hx:no-underline hx:transition-colors">
+      <span class="hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">← Zurück</span>
+      <span class="hx:font-medium hx:mt-1">{{ .Title }}</span>
+    </a>
+  {{- else -}}
+    <span class="hx:flex-1 hx:hidden hx:sm:block"></span>
+  {{- end -}}
+
+  {{- with $parent -}}
+    <a href="{{ .RelPermalink }}" class="hx:flex hx:items-center hx:justify-center hx:px-4 hx:py-2 hx:rounded-lg hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:hover:bg-gray-50 hx:dark:hover:bg-neutral-900 hx:no-underline hx:text-sm hx:font-medium hx:text-center hx:transition-colors" aria-label="Zur Übersicht">
+      ↑ Übersicht
+    </a>
+  {{- end -}}
+
+  {{- with $next -}}
+    <a href="{{ .RelPermalink }}" class="hx:flex hx:flex-col hx:flex-1 hx:p-4 hx:rounded-lg hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:hover:bg-gray-50 hx:dark:hover:bg-neutral-900 hx:no-underline hx:transition-colors hx:text-right">
+      <span class="hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">Weiter →</span>
+      <span class="hx:font-medium hx:mt-1">{{ .Title }}</span>
+    </a>
+  {{- else -}}
+    <span class="hx:flex-1 hx:hidden hx:sm:block"></span>
+  {{- end -}}
+</nav>

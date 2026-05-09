@@ -1,0 +1,23 @@
+{{- $gesetze := .Sections -}}
+{{- if $gesetze -}}
+<div class="hextra-cards hx:mt-6 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 2;">
+  {{- range $gesetze.ByWeight -}}
+    {{- $articleCount := len (where .Sections "Kind" "section") -}}
+    {{- $subtitle := .Description -}}
+    {{- if not $subtitle -}}
+      {{- $subtitle = printf "%d kommentierte Artikel" $articleCount -}}
+    {{- else -}}
+      {{- $subtitle = printf "%s · %d kommentierte Artikel" $subtitle $articleCount -}}
+    {{- end -}}
+    {{ partial "shortcodes/card" (dict
+      "page"     $
+      "link"     .RelPermalink
+      "title"    .Title
+      "subtitle" $subtitle
+      "icon"     "book-open"
+    ) }}
+  {{- end -}}
+</div>
+{{- else -}}
+<p><em>Noch keine Gesetze kommentiert.</em></p>
+{{- end -}}

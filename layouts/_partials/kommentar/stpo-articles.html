@@ -1,0 +1,62 @@
+{{- /*
+  Gruppiert StPO-Artikel nach Teilen der Systematik.
+  Artikelnummer = .Weight.
+*/ -}}
+
+{{- $teile := slice
+  (dict "name" "1. Teil — Geltungsbereich und Grundsätze"      "from"   1 "to"  11)
+  (dict "name" "2. Teil — Strafbehörden"                       "from"  12 "to" 103)
+  (dict "name" "3. Teil — Parteien und andere Verfahrensbeteiligte" "from" 104 "to" 138)
+  (dict "name" "4. Teil — Beweismittel"                        "from" 139 "to" 195)
+  (dict "name" "5. Teil — Zwangsmassnahmen"                    "from" 196 "to" 298)
+  (dict "name" "6. Teil — Vorverfahren"                        "from" 299 "to" 327)
+  (dict "name" "7. Teil — Hauptverfahren, erstinstanzliches Urteil" "from" 328 "to" 351)
+  (dict "name" "8. Teil — Besondere Verfahren"                 "from" 352 "to" 378)
+  (dict "name" "9. Teil — Rechtsmittel"                        "from" 379 "to" 415)
+  (dict "name" "10. Teil — Verfahrenskosten, Entschädigung und Genugtuung" "from" 416 "to" 436)
+  (dict "name" "11. Teil — Schlussbestimmungen"                "from" 437 "to" 457)
+-}}
+
+{{- $articles := where .Sections "Kind" "section" -}}
+
+{{- if not $articles -}}
+  <p><em>Noch keine Artikel kommentiert.</em></p>
+{{- else -}}
+  <p class="hx:text-sm hx:text-gray-500 hx:dark:text-gray-400 hx:mt-2">
+    {{ len $articles }} kommentierte Artikel · gruppiert nach Systematik der StPO
+  </p>
+
+  {{- range $teile -}}
+    {{- $teil := . -}}
+    {{- $matches := where $articles "Weight" ">=" $teil.from -}}
+    {{- $matches = where $matches "Weight" "<=" $teil.to -}}
+    {{- if $matches -}}
+      <h2 class="hx:mt-10 hx:mb-3 hx:text-xl hx:font-semibold hx:tracking-tight hx:border-b hx:border-gray-200 hx:dark:border-neutral-800 hx:pb-2">
+        {{ $teil.name }}
+      </h2>
+      <div class="hextra-cards hx:mt-4 hx:gap-3 hx:grid not-prose" style="--hextra-cards-grid-cols: 2;">
+        {{- range $matches.ByWeight -}}
+          {{- /* Titel kürzen: alles nach „— " als Subtitle, „Art. X" als Title. */ -}}
+          {{- $t := .Title -}}
+          {{- $head := $t -}}
+          {{- $sub := "" -}}
+          {{- if in $t " — " -}}
+            {{- $parts := split $t " — " -}}
+            {{- $head = index $parts 0 -}}
+            {{- $sub  = index $parts 1 -}}
+          {{- else if in $t " – " -}}
+            {{- $parts := split $t " – " -}}
+            {{- $head = index $parts 0 -}}
+            {{- $sub  = index $parts 1 -}}
+          {{- end -}}
+          {{ partial "shortcodes/card" (dict
+            "page"     $
+            "link"     .RelPermalink
+            "title"    $head
+            "subtitle" $sub
+          ) }}
+        {{- end -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

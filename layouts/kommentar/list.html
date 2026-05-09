@@ -1,4 +1,6 @@
 {{ define "main" }}
+  {{- $logical := strings.TrimPrefix "/" (strings.TrimSuffix "/" .Path) -}}
+  {{- $depth := len (split $logical "/") -}}
   <div class='hx:mx-auto hx:flex hextra-max-page-width'>
     {{ partial "sidebar.html" (dict "context" .) }}
     {{ partial "toc.html" . }}
@@ -8,12 +10,33 @@
         <div class="content">
           {{ if .Title }}<h1>{{ .Title }}</h1>{{ end }}
           {{ .Content }}
-          {{- $rs := .GetPage "rechtsprechung" -}}
-          {{- if $rs -}}
-          <div style="margin-top:2rem;padding:0.75rem 1rem;border:1px solid #e5e7eb;border-radius:0.5rem;background:#f9fafb">
-            📋 <a href="{{ $rs.RelPermalink }}"><strong>{{ $rs.Title }}</strong></a>
-          </div>
-          {{- end -}}
+
+          {{/* ============ /kommentar/ — Gesetzes-Übersicht ============ */}}
+          {{ if eq $depth 1 }}
+            {{ partial "kommentar/gesetze-grid.html" . }}
+
+          {{/* ============ /kommentar/{gesetz}/ — Artikel-Übersicht ============ */}}
+          {{ else if eq $depth 2 }}
+            {{ $section := path.Base .Path }}
+            {{ if eq $section "stpo" }}
+              {{ partial "kommentar/stpo-articles.html" . }}
+            {{ else }}
+              {{ partial "kommentar/articles-flat.html" . }}
+            {{ end }}
+
+          {{/* ============ /kommentar/{gesetz}/art-X/ — Artikelseite ============ */}}
+          {{ else }}
+            {{- $rs := .GetPage "rechtsprechung" -}}
+            {{- if $rs -}}
+              <div class="hx:mt-8 hx:p-4 hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:rounded-lg hx:bg-gray-50 hx:dark:bg-neutral-900">
+                <a href="{{ $rs.RelPermalink }}" class="hx:no-underline hx:flex hx:items-center hx:gap-2 hx:font-semibold">
+                  <span aria-hidden="true">📋</span>
+                  <span>{{ $rs.Title }}</span>
+                </a>
+              </div>
+            {{- end -}}
+            {{ partial "kommentar/article-nav.html" . }}
+          {{ end }}
         </div>
         <div class="hx:mt-16"></div>
         {{ partial "components/last-updated.html" . }}

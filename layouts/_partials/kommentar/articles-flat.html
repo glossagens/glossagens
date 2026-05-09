@@ -1,0 +1,27 @@
+{{- $articles := where .Sections "Kind" "section" -}}
+{{- if $articles -}}
+<div class="hextra-cards hx:mt-6 hx:gap-3 hx:grid not-prose" style="--hextra-cards-grid-cols: 2;">
+  {{- range $articles.ByWeight -}}
+    {{- $t := .Title -}}
+    {{- $head := $t -}}
+    {{- $sub := "" -}}
+    {{- if in $t " — " -}}
+      {{- $parts := split $t " — " -}}
+      {{- $head = index $parts 0 -}}
+      {{- $sub  = index $parts 1 -}}
+    {{- else if in $t " – " -}}
+      {{- $parts := split $t " – " -}}
+      {{- $head = index $parts 0 -}}
+      {{- $sub  = index $parts 1 -}}
+    {{- end -}}
+    {{ partial "shortcodes/card" (dict
+      "page"     $
+      "link"     .RelPermalink
+      "title"    $head
+      "subtitle" $sub
+    ) }}
+  {{- end -}}
+</div>
+{{- else -}}
+<p><em>Noch keine Artikel kommentiert.</em></p>
+{{- end -}}
