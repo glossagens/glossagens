@@ -28,7 +28,7 @@ tools:
 Create and maintain legal commentary articles for the Glossagens Hugo site at `/opt/glossagens/`.
 
 Articles are stored as **Hugo Page Bundles** — each article gets its own directory:
-- `content/kommentar/{gesetz}/art-{NNN}/index.md` — commentary
+- `content/kommentar/{gesetz}/art-{NNN}/_index.md` — commentary
 - `content/kommentar/{gesetz}/art-{NNN}/rechtsprechung.md` — case law overview
 
 ---
@@ -77,7 +77,7 @@ Continuously research which topics and decisions are still **missing** from the 
 │  LOOP-ITERATION N                                     │
 │                                                       │
 │  1. BESTANDSAUFNAHME                                  │
-│     Lies index.md und rechtsprechung.md               │
+│     Lies _index.md und rechtsprechung.md               │
 │     Inventar:                                         │
 │     - Welche Themen/Absätze sind kommentiert?         │
 │     - Welche Entscheide bereits zitiert?              │
@@ -141,13 +141,13 @@ Continuously research which topics and decisions are still **missing** from the 
 
 2. **Pfade ableiten:**
    - Ordner:               `/opt/glossagens/content/kommentar/{gesetz}/art-{NNN}/`
-   - Kommentardatei:       `index.md`
+   - Kommentardatei:       `_index.md`
    - Rechtsprechungsdatei: `rechtsprechung.md`
 
 3. **Bestandsaufnahme:** Ordner scannen. Bestehende `.md`-Dateien lesen.
 
 4. **BEKANNTE_ENTSCHEIDE-Inventar** erstellen (für Duplikationsvermeidung):
-   Alle Urteilsreferenzen aus `index.md` und `rechtsprechung.md` extrahieren:
+   Alle Urteilsreferenzen aus `_index.md` und `rechtsprechung.md` extrahieren:
    ```
    BEKANNTE_ENTSCHEIDE = [
      "BGE 144 IV 202",
@@ -334,7 +334,7 @@ git push origin main
 
 ---
 
-## Frontmatter `index.md`
+## Frontmatter `_index.md`
 
 ```yaml
 ---
@@ -395,10 +395,10 @@ Vor jedem Commit durchlaufen:
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
 
 **Struktur:**
-- [ ] Page Bundle korrekt: `art-{NNN}/index.md` + `art-{NNN}/rechtsprechung.md`?
+- [ ] Page Bundle korrekt: `art-{NNN}/_index.md` + `art-{NNN}/rechtsprechung.md`?
 - [ ] Alle 7 Frontmatter-Felder: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`?
 - [ ] `agent_verified: false` in `rechtsprechung.md`?
-- [ ] `agent_verified: true` in `index.md` (nur nach Verifikation)?
+- [ ] `agent_verified: true` in `_index.md` (nur nach Verifikation)?
 
 **Inhalt:**
 - [ ] Gesetzeswortlaut im Blockquote?
@@ -410,7 +410,7 @@ Vor jedem Commit durchlaufen:
 KOMMENTAR-STATUS: {ABBREV} Art. {N}
 ────────────────────────────────────
 Bearbeitete Dateien:
-  - index.md [erstellt / ergänzt]
+  - _index.md [erstellt / ergänzt]
   - rechtsprechung.md [erstellt / ergänzt]
 
 Neue Entscheide integriert:
@@ -476,9 +476,9 @@ Aktualisierungsdatum: {DATUM}
 
 ## Pitfalls
 
-- **Page Bundle vs. Flat File**: Immer `art-{NNN}/index.md` — nie `art-{NNN}.md`
+- **Page Bundle vs. Flat File**: Immer `art-{NNN}/_index.md` — nie `art-{NNN}.md`
 - **rechtsprechung.md**: Liegt im Bundle (`art-{NNN}/rechtsprechung.md`), nicht daneben
-- **agent_verified**: In `rechtsprechung.md` immer `false`; in `index.md` erst nach Verifikation `true`
+- **agent_verified**: In `rechtsprechung.md` immer `false`; in `_index.md` erst nach Verifikation `true`
 - **Citation strings**: Nie selbst konstruieren — immer aus `citation_string_de` des MCP-Tools
 - **get_law**: Braucht `abbreviation`, nicht SR-Nummer (obwohl beides funktioniert)
 - **StPO vs. StGB**: Nachfragen wenn unklar, beide beginnen mit «St»

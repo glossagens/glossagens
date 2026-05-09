@@ -127,11 +127,11 @@ Every article is a Hugo Page Bundle — create a directory, not a flat file:
 
 ```
 content/kommentar/stpo/art-025/
-  index.md           ← main commentary
+  _index.md          ← main commentary (Branch Bundle!)
   rechtsprechung.md  ← case law subpage
 ```
 
-### `index.md` frontmatter + structure
+### `_index.md` frontmatter + structure
 
 ```yaml
 ---
@@ -191,8 +191,8 @@ agent_verified: false
 The Hermes agent runs two checks automatically — build both correctly to avoid rejection:
 
 **1. Structure check (automated, no LLM):**
-- Files must be in a Page Bundle directory, not flat: `art-025/index.md` ✓ — `art-025.md` ✗
-- `index.md` must contain all 7 frontmatter fields: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
+- Files must be in a Page Bundle directory, not flat: `art-025/_index.md` ✓ — `art-025.md` ✗
+- `_index.md` must contain all 7 frontmatter fields: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
 - Structural errors cause immediate rejection with an explanatory comment
 
 **2. Quality check (LLM):**

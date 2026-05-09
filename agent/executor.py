@@ -96,12 +96,12 @@ def _execute_issue(item: dict, instruction: str) -> str:
 
     system_prompt = """Du bist ein juristischer Redaktor für einen öffentlichen Gesetzeskommentar (Glossagens).
 Du erstellst und aktualisierst Kommentare zu Schweizer Gesetzesartikeln im Markdown-Format.
-Artikel werden als Hugo Page Bundles gespeichert: content/kommentar/{gesetz}/art-{NNN}/index.md
+Artikel werden als Hugo Page Bundles gespeichert: content/kommentar/{gesetz}/art-{NNN}/_index.md
 Schreibe präzise, quellenbasiert und im Stil eines akademischen Kommentars.
 Verwende keine erfundenen Zitate. Neue Rechtsprechungshinweise nur als Paraphrase mit Vorbehalt."""
 
-    # Versuche bestehenden Artikel zu finden (Page Bundle: art-NNN/index.md)
-    article_path = gh.article_path(title)  # gibt art-NNN/index.md zurück falls vorhanden
+    # Versuche bestehenden Artikel zu finden (Page Bundle: art-NNN/_index.md)
+    article_path = gh.article_path(title)  # gibt art-NNN/_index.md zurück falls vorhanden
     existing_content = None
     if article_path:
         try:
@@ -129,7 +129,7 @@ Anweisung: {instruction}
 
 Bestimme das betroffene Gesetz und die Artikelnummer. Erstelle den Kommentartext.
 Antworte mit:
-PFAD: content/kommentar/<gesetz>/art-<NNN>/index.md
+PFAD: content/kommentar/<gesetz>/art-<NNN>/_index.md
 
 INHALT:
 <markdown>"""
@@ -143,14 +143,15 @@ INHALT:
         index_path = article_path
     else:
         m = re.search(r"PFAD:\s*(content/[^\n]+)", new_content)
-        index_path = m.group(1).strip() if m else f"content/kommentar/todo/art-{issue_nr}/index.md"
+        index_path = m.group(1).strip() if m else f"content/kommentar/todo/art-{issue_nr}/_index.md"
         m2 = re.search(r"INHALT:\s*(.+)", new_content, re.DOTALL)
         new_content = m2.group(1).strip() if m2 else new_content
 
-    # Sicherstellen, dass Pfad auf index.md im Bundle endet
-    if not index_path.endswith("/index.md"):
-        # Flat-File-Pfad korrigieren: art-001.md → art-001/index.md
-        index_path = re.sub(r"(art-\d+)\.md$", r"\1/index.md", index_path)
+    # Sicherstellen, dass Pfad auf _index.md im Bundle endet
+    if not index_path.endswith("/_index.md"):
+        # Flat-File-Pfad korrigieren: art-001.md → art-001/_index.md
+        index_path = re.sub(r"(art-\d+)\.md$", r"\1/_index.md", index_path)
+        index_path = re.sub(r"(art-\d+)/index\.md$", r"\1/_index.md", index_path)
 
     gh.create_or_update_file(
         path=index_path,
@@ -193,11 +194,11 @@ def _verify_pr_structure(diff: str) -> list[str]:
     added_files = re.findall(r"^\+\+\+ b/(content/kommentar/.+)$", diff, re.MULTILINE)
 
     for path in added_files:
-        # Neue Artikel müssen als Page Bundle vorliegen: .../art-NNN/index.md
+        # Neue Artikel müssen als Page Bundle vorliegen: .../art-NNN/_index.md
         if re.search(r"/art-\d+\.md$", path):
-            errors.append(f"Flat-File statt Page Bundle: {path} → sollte {path[:-3]}/index.md sein")
-        # Frontmatter-Pflichtfelder prüfen (nur für index.md)
-        if path.endswith("/index.md"):
+            errors.append(f"Flat-File statt Page Bundle: {path} → sollte {path[:-3]}/_index.md sein")
+        # Frontmatter-Pflichtfelder prüfen (nur für _index.md)
+        if path.endswith("/_index.md"):
             file_section = re.search(
                 rf"\+\+\+ b/{re.escape(path)}.+?(?=\ndiff |\Z)", diff, re.DOTALL
             )
@@ -233,7 +234,7 @@ Beurteile ob die Änderung:
 (1) sachlich korrekt ist und keine erfundenen Zitate enthält
 (2) den akademischen Zitierstil einhält
 (3) kohärent mit dem bestehenden Kontext ist
-(4) dem Hugo Page Bundle Format entspricht (index.md im art-NNN/ Verzeichnis)
+(4) dem Hugo Page Bundle Format entspricht (_index.md im art-NNN/ Verzeichnis)
 Antworte mit APPROVE oder REJECT, gefolgt von einer Begründung (max. 2 Sätze).""",
         user=f"Diff:\n{diff[:4000]}",
     )

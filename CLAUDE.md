@@ -49,7 +49,7 @@ content/
 ├── kommentar/{gesetz}/
 │   ├── _index.md                     ← Gesetzesübersicht
 │   └── art-{nr}/                     ← Page Bundle pro Artikel
-│       ├── index.md                  ← Hauptkommentar
+│       ├── _index.md                 ← Hauptkommentar (Branch Bundle, nicht index.md!)
 │       └── rechtsprechung.md         ← Rechtsprechungsübersicht
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
@@ -78,10 +78,10 @@ static/
 
 **Wichtig für den Agenten**: Neue Artikel immer als Page Bundle erstellen:
 1. Verzeichnis `content/kommentar/{gesetz}/art-{nr}/` anlegen
-2. `index.md` für den Kommentar
+2. `_index.md` für den Kommentar (Branch Bundle — nicht `index.md`!)
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
 
-### Frontmatter-Schema — Kommentarartikel (`index.md`)
+### Frontmatter-Schema — Kommentarartikel (`_index.md`)
 
 ```yaml
 ---
@@ -114,7 +114,7 @@ agent_verified: false  # wird separat verifiziert
 Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
 
 1. **Strukturprüfung** (automatisch, kein LLM):
-   - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/index.md`)
+   - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/_index.md`)
    - Alle 7 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
 
 2. **Inhaltsprüfung** (LLM):

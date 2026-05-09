@@ -101,10 +101,10 @@ def add_label(issue_number: int, label: str):
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def article_path(ref: str) -> str | None:
-    """'Art. 1 OR' → 'content/kommentar/or/art-001.md'"""
+    """'Art. 1 OR' → 'content/kommentar/or/art-001/_index.md'"""
     m = re.match(r"art\.\s*(\d+)\s+(\w+)", ref.strip(), re.IGNORECASE)
     if not m:
         return None
     nr = int(m.group(1))
     law = m.group(2).lower()
-    return f"content/kommentar/{law}/art-{nr:03d}.md"
+    return f"content/kommentar/{law}/art-{nr:03d}/_index.md"
