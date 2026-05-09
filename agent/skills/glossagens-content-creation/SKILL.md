@@ -1,7 +1,7 @@
 ---
 name: glossagens-content-creation
-description: Create legal commentary articles for the Glossagens Hugo site — fetch statute text, doctrine, and leading cases, then write Hugo markdown with proper frontmatter.
-version: 1.0.0
+description: Create legal commentary articles for the Glossagens Hugo site — fetch statute text, doctrine, and leading cases, then write Hugo Page Bundle markdown with proper frontmatter including a rechtsprechung subpage.
+version: 2.0.0
 author: Hermes Agent
 tools:
   - mcp_opencaselaw_get_law
@@ -16,6 +16,10 @@ tools:
 # Glossagens Content Creation
 
 Create legal commentary articles for the Glossagens Hugo site at `/opt/glossagens/`.
+
+Articles are stored as **Hugo Page Bundles** — each article gets its own directory containing two files:
+- `index.md` — the commentary
+- `rechtsprechung.md` — case law overview
 
 ## Workflow
 
@@ -32,10 +36,17 @@ For each article, make **parallel calls**:
 - `get_law(abbreviation='<LAW>', article='<N>', language='de')` — verbatim statute text
 - `get_doctrine(query='Art. <N> <ABBREV>')` — leading cases + commentary
 - `get_commentary(abbreviation='<ABBREV>', article='<N>', language='de')` — OnlineKommentar commentary (if available)
+- `find_leading_cases(query='Art. <N> <ABBREV>')` — top BGE decisions
 
-### 3. Write article markdown
+### 3. Create article Page Bundle
 
-File naming: `art-001.md`, `art-002.md`, etc. (zero-padded to 3 digits)
+Directory naming: `art-001/`, `art-002/`, etc. (zero-padded to 3 digits)
+
+```bash
+mkdir -p /opt/glossagens/content/kommentar/<law>/art-<NNN>/
+```
+
+#### 3a. Write `index.md` (main commentary)
 
 **Frontmatter template:**
 ```yaml
@@ -69,14 +80,36 @@ agent_verified: true
 
 {For complex norms: a summary table with columns like Voraussetzung | Erläuterung}
 
-## Leitentscheide
-
-{For each leading case from get_doctrine:}
-- **{BGE citation}** — {one-line regeste/rule summary}. {Link if available}
-
 ## Literatur
 
 {References to commentary sources, if get_commentary returned results}
+```
+
+#### 3b. Write `rechtsprechung.md` (case law subpage)
+
+**Frontmatter template:**
+```yaml
+---
+title: "Rechtsprechung zu Art. {N} {ABBREV}"
+weight: 99
+date: {YYYY-MM-DD}
+lastmod: {YYYY-MM-DD}
+description: "Übersicht der Entscheide zu Art. {N} {ABBREV} – {Kurztitel}"
+tags: ["Rechtsprechung", "{ABBREV}", "{topic1}"]
+agent_verified: false
+---
+```
+
+**Content structure (German):**
+```markdown
+## Leitentscheide
+
+{For each leading case from find_leading_cases / get_doctrine:}
+- **{BGE citation}** — {one-line regeste/rule summary}. {Link if available}
+
+## Weitere Entscheide
+
+{Additional decisions from search_decisions if relevant — grouped by sub-topic if many}
 ```
 
 ### 4. Verify Hugo build
@@ -127,6 +160,9 @@ git push origin main
 
 ## Pitfalls
 
+- **Page Bundle vs flat file**: Always create a directory `art-<NNN>/` with `index.md` inside — never `art-<NNN>.md` as a flat file. Hugo will not render flat files alongside bundles correctly.
+- **rechtsprechung.md goes inside the bundle**: Path is `art-<NNN>/rechtsprechung.md`, not `art-<NNN>-rechtsprechung.md` or a sibling directory.
+- **agent_verified on rechtsprechung.md**: Always set `agent_verified: false` — it is verified separately.
 - **StPO vs StGB**: User might say "StPO" (Strafprozessordnung) or "StGB" (Strafgesetzbuch) — always clarify which they mean. Both start with "St".
 - **get_law requires abbreviation, not SR number**: Use `abbreviation='StPO'`, not `sr_number='312.0'` (though both work).
 - **Commentary may be unavailable**: Not all laws have OnlineKommentar entries. If `get_commentary` returns nothing, skip the Literatur section.
