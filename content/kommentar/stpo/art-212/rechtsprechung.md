@@ -52,10 +52,10 @@ agent_verified: false
 
 ---
 
-### BGE 142 IV 389, E. 4
-- **Thema**: Untersuchungshaft gegenüber Jugendlichen
-- **Kernaussage**: Art. 27 JStPO regelt die Voraussetzungen der Untersuchungs- und Sicherheitshaft gegenüber Jugendlichen und stellt eine ausreichende gesetzliche Grundlage im Sinne von Art. 31 Abs. 1 BV dar. Die Untersuchungs- und Sicherheitshaft muss nicht nur auf Strafen, sondern auch auf Massnahmen angerechnet werden, weshalb Art. 212 Abs. 3 StPO die Tragweite von Art. 27 JStPO nicht einschränkt.
-- **Einschlägig für**: Abs. 3 (Anrechnung der Haft), jugendstrafrechtlicher Bezug
+### BGE 142 IV 389, E. 4 und Regeste
+- **Thema**: Untersuchungshaft gegenüber Jugendlichen; Anrechnung auf Massnahmen
+- **Kernaussage**: Art. 27 JStPO regelt die Voraussetzungen der Untersuchungs- und Sicherheitshaft gegenüber Jugendlichen und stellt eine ausreichende gesetzliche Grundlage im Sinne von Art. 31 Abs. 1 BV dar. Nach der Regeste muss die Untersuchungs- und Sicherheitshaft nicht nur auf Strafen, sondern auch auf Massnahmen angerechnet werden; weshalb Art. 212 Abs. 3 StPO die Tragweite von Art. 27 JStPO nicht einschränkt. E. 4 selbst konkretisiert: Untersuchungshaft gegenüber Jugendlichen ist nur ausnahmsweise und nur zulässig, wenn keine Ersatzmassnahme in Betracht kommt.
+- **Einschlägig für**: Abs. 3 (Anrechnung der Haft auf Massnahmen), jugendstrafrechtlicher Bezug
 
 ---
 
@@ -90,9 +90,9 @@ agent_verified: false
 ---
 
 ### BGer 1B_345/2013 vom 28.10.2013
-- **Thema**: Freie Kognition im Zwangsmassnahmenbeschwerdeverfahren
-- **Kernaussage**: Die Auslegung und Anwendung der in der StPO geregelten Voraussetzungen für Grundrechtsbeschränkungen prüft das Bundesgericht mit freier Kognition (Art. 95 lit. a BGG). Die nach Art. 98 BGG vorgeschriebene Beschränkung der Rügegründe und das Rügeprinzip nach Art. 106 Abs. 2 BGG sind auf strafprozessuale Zwangsmassnahmen nicht anwendbar.
-- **Einschlägig für**: Abs. 1 (Verfahren bei Zwangsmassnahmen)
+- **Thema**: Freie Kognition im Zwangsmassnahmenbeschwerdeverfahren; Zuständigkeit
+- **Kernaussage**: Die Beschwerde gegen strafprozessuale Zwangsmassnahmen ist gemäss Art. 78 Abs. 1 und 2 lit. b BGG zulässig. Die Auslegung und Anwendung der in der StPO geregelten Voraussetzungen für Grundrechtsbeschränkungen prüft das Bundesgericht mit freier Kognition (Art. 95 lit. a BGG). Die nach Art. 98 BGG vorgeschriebene Beschränkung der Rügegründe und das Rügeprinzip nach Art. 106 Abs. 2 BGG sind auf strafprozessuale Zwangsmassnahmen nicht anwendbar.
+- **Einschlägig für**: Abs. 1 (Verfahren bei Zwangsmassnahmen), Beschwerdezulässigkeit
 
 ---
 
@@ -104,9 +104,9 @@ agent_verified: false
 ---
 
 ### BGer 1B_186/2022 vom 09.05.2022
-- **Thema**: Entlassung aus Sicherheitshaft
-- **Kernaussage**: Zwangsmassnahmen können im Strafverfahren ergriffen werden, wenn sie gesetzlich vorgesehen sind, ein hinreichender Tatverdacht vorliegt und sie verhältnismässig sind (Art. 197 Abs. 1 StPO). Sicherheitshaft ist nur zulässig bei dringendem Tatverdacht gemäss Art. 221 Abs. 1 StPO.
-- **Einschlägig für**: Abs. 1 (Grundsatz der Freiheit), Verbindung zu Art. 197 StPO
+- **Thema**: Entlassung aus Sicherheitshaft; freie Kognition bei Zwangsmassnahmen
+- **Kernaussage**: Zwangsmassnahmen können im Strafverfahren ergriffen werden, wenn sie gesetzlich vorgesehen sind, ein hinreichender Tatverdacht vorliegt und sie verhältnismässig sind (Art. 197 Abs. 1 StPO). Das Bundesgericht überprüft Zwangsmassnahmen mit freier Kognition.
+- **Einschlägig für**: Abs. 1 (Grundsatz der Freiheit), Verbindung zu Art. 197 StPO, Verfahren (freie Kognition)
 
 ---
 

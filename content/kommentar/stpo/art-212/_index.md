@@ -18,6 +18,8 @@ agent_verified: false
 >
 > 3 Untersuchungs- und Sicherheitshaft dürfen nicht länger dauern als die zu erwartende Freiheitsstrafe.
 
+*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. April 2025).*
+
 ## I. Bedeutung und Funktion
 
 Art. 212 StPO ist die zentrale Bestimmung im Zwangsmassnahmenrecht der Strafprozessordnung. Er statuiert drei Grundsätze von grundlegender Bedeutung:
@@ -48,7 +50,7 @@ Die massgeblichen Voraussetzungen für die Anordnung von Zwangsmassnahmen ergebe
 
 ### 3. Freie Kognition
 
-Das Bundesgericht überprüft Entscheide über strafprozessuale Zwangsmassnahmen mit **freier Kognition** (Art. 196 lit. a-c StPO; [BGE 140 IV 57], E. 2.2). Die nach Art. 98 BGG vorgeschriebene Beschränkung der Rügegründe und das Rügeprinzip nach Art. 106 Abs. 2 BGG sind auf Zwangsmassnahmen **nicht** anwendbar. Dies wurde in ständiger Praxis bestätigt (z.B. [BGer 1B_345/2013], [BGer 1B_177/2021]).
+Das Bundesgericht überprüft Entscheide über strafprozessuale Zwangsmassnahmen mit **freier Kognition** (Art. 196 lit. a-c StPO; [BGE 140 IV 57], E. 2.2). Die nach Art. 98 BGG vorgeschriebene Beschränkung der Rügegründe und das Rügeprinzip nach Art. 106 Abs. 2 BGG sind auf Zwangsmassnahmen **nicht** anwendbar. Diese Praxis wird in ständiger Rechtsprechung bestätigt ([BGer 1B_177/2021]; [BGer 1B_186/2022]).
 
 ## III. Aufhebungsgründe (Abs. 2)
 
@@ -103,7 +105,7 @@ Das Bundesgericht hat wiederholt betont, dass das Verhältnismässigkeitsprinzip
 
 ### 3. Jugendstrafrechtliche Besonderheit
 
-Art. 212 Abs. 3 StPO schränkt die Tragweite von Art. 27 JStPO nicht ein. Die Untersuchungs- und Sicherheitshaft muss nicht nur auf Strafen, sondern auch auf Massnahmen angerechnet werden ([BGE 142 IV 389], E. 4).
+Art. 212 Abs. 3 StPO schränkt die Tragweite von Art. 27 JStPO nicht ein. Nach der Regeste von BGE 142 IV 389 muss die Untersuchungs- und Sicherheitshaft nicht nur auf Strafen, sondern auch auf Massnahmen angerechnet werden. E. 4 des Entscheids präzisiert, dass Untersuchungshaft gegenüber Jugendlichen nur ausnahmsweise und nur dann angeordnet werden darf, wenn keine Ersatzmassnahme in Betracht kommt ([BGE 142 IV 389], E. 4 und Regeste).
 
 ### 4. Sicherheitshaft bei Landesverweisung
 
