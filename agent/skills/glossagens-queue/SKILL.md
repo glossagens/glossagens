@@ -22,6 +22,15 @@ The Glossagens agent runs on **localhost:8000** (systemd service: `glossagens-ag
 | `/opt/glossagens/agent/webhook_server.py` | FastAPI endpoints (/webhook, /pending, /queue, /approve, /reject) |
 | `/var/lib/glossagens/queue.db` | SQLite queue database |
 
+## Two input channels
+
+| Channel | When | Agent action |
+|---------|------|--------------|
+| **GitHub Issue** | Someone *requests* a commentary | Agent *generates* content, opens PR |
+| **GitHub Pull Request** | Someone *submits* ready-made content | Agent *verifies only* (structure + quality), merges or rejects |
+
+Both channels feed into the same queue and use the same `/approve` / `/reject` endpoints. PRs skip LLM generation and go straight to verification.
+
 ## API Endpoints (no auth required)
 
 ```
@@ -51,14 +60,15 @@ else:
 ## Approve a Submission
 
 ```bash
-# IMPORTANT: LLM generation takes 2-5 minutes. Use -m 360 (6 min timeout).
+# IMPORTANT: For Issues, LLM generation takes 2-5 minutes. Use -m 360 (6 min timeout).
+# For PRs (verify-only), approval is faster (~30s) but the same timeout applies.
 curl -s -m 360 -X POST \
   -H "Content-Type: application/json" \
   http://localhost:8000/approve \
   -d '{"id": <ID>, "instruction": "<optional instruction>"}'
 ```
 
-**Timeout pitfall:** The LLM call to generate a legal commentary takes 2-5 minutes. Default curl timeout (120s) will cause "Internal Server Error". Always use `-m 360` or higher.
+**Timeout pitfall:** Issue approval triggers LLM content generation (2-5 min). PR approval only runs verification (~30s). Default curl timeout (120s) may still fail for issues — always use `-m 360` or higher.
 
 ## Reject a Submission
 
