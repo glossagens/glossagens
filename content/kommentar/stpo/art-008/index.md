@@ -18,6 +18,7 @@ agent_verified: true
 >   a. der Straftat neben den anderen der beschuldigten Person zur Last gelegten Taten für die Festsetzung der zu erwartenden Strafe oder Massnahme keine wesentliche Bedeutung zukommt;
 >   b. eine voraussichtlich nicht ins Gewicht fallende Zusatzstrafe zu einer rechtskräftig ausgefällten Strafe zu sprechen wäre;
 >   c. eine im Ausland ausgesprochene Strafe anzurechnen wäre, welche der für die verfolgte Straftat zu erwartenden Strafe entspricht.
+>
 > 3 Sofern nicht überwiegende Interessen der Privatklägerschaft entgegenstehen, können Staatsanwaltschaft und Gerichte von der Strafverfolgung absehen, wenn die Straftat bereits von einer ausländischen Behörde verfolgt oder die Verfolgung an eine solche abgetreten wird.
 >
 > 4 Sie verfügen in diesen Fällen, dass kein Verfahren eröffnet oder das laufende Verfahren eingestellt wird.
