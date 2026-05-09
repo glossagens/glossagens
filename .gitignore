@@ -3,3 +3,8 @@ public/
 resources/
 agent/openwebui_tools.py
 Makefile
+venv/
+.env
+.env.save
+__pycache__/
+*.pyc
