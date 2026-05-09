@@ -204,6 +204,7 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 >
 > Maximal 15 Ergebnisse. Nur Entscheide melden, die NICHT in der Bekannten-Liste stehen.
 > WICHTIG: citation_string_de aus dem Tool-Ergebnis verwenden — nie selbst konstruieren.
+> VERLINKUNG: Rechtsquellen (Entscheide, Gesetze) müssen zwingend auf die Originalquelle verlinkt werden (Markdown-Link: [Zitat](URL)), sofern das Tool eine URL liefert.
 
 ### Subagent-Vorlage B: Kantonale Rechtsprechung und EGMR
 
@@ -228,6 +229,8 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > KERNAUSSAGE: [2–4 Sätze]
 > STATUS: NEU
 > ```
+>
+> VERLINKUNG: Alle Entscheide und Gesetze müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern möglich.
 
 ### Subagent-Vorlage C: Materialien und Lehre
 
@@ -248,6 +251,8 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > KERNAUSSAGE: [2–3 Sätze]
 > RELEVANT FÜR: [Absatz / Thema]
 > ```
+>
+> VERLINKUNG: Alle Quellen (Botschaften, Kommentare, Entscheide) müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern eine URL (z.B. Fedlex, Bger.ch) verfügbar ist.
 
 ---
 
@@ -381,6 +386,7 @@ agent_verified: true
 - **Lehre**: Nur wenn keine Rspr. existiert oder eine Kontroverse dokumentiert werden muss
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
 - **Sprache**: Deutsch, konzis, praxisnah
+>- **Verlinkung**: Alle Verweise auf Rechtsquellen (BGE, BGer, kantonale Entscheide, Gesetze, Botschaften) müssen zwingend als Markdown-Links auf die Originalquelle (z.B. [BGE 140 III 86](URL)) ausgestaltet werden, sofern eine URL verfügbar ist. Dies gilt sowohl für den Kommentar-Haupttext als auch für die Rechtsprechungsübersicht.
 
 ---
 
@@ -392,6 +398,7 @@ Vor jedem Commit durchlaufen:
 - [ ] Alle citation_strings aus Tool-Ergebnissen — nicht selbst konstruiert?
 - [ ] Gesetzestext verbatim aus `get_law` — nicht aus dem Gedächtnis?
 - [ ] Direkte Zitate nur aus `get_erwaegung` oder `get_regeste`?
+- [ ] Alle Rechtsquellen (Entscheide, Gesetze, Materialien) auf Originalquelle verlinkt?
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
 
 **Struktur:**
