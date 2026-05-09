@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 1**
+>
 > 1 Dieses Gesetz regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht durch die Strafbehörden des Bundes und der Kantone.
+>
 > 2 Die Verfahrensvorschriften anderer Bundesgesetze bleiben vorbehalten.
 
 ## I. Bedeutung und Funktion

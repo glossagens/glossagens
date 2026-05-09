@@ -11,8 +11,11 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 10**
+>
 > 1 Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig.
+>
 > 2 Das Gericht würdigt die Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
+>
 > 3 Bestehen unüberwindliche Zweifel an der Erfüllung der tatsächlichen Voraussetzungen der angeklagten Tat, so geht das Gericht von der für die beschuldigte Person günstigeren Sachlage aus.
 
 ## I. Bedeutung und Funktion

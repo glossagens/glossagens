@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 5**
+>
 > 1 Die Strafbehörden nehmen die Strafverfahren unverzüglich an die Hand und bringen sie ohne unbegründete Verzögerung zum Abschluss.
+>
 > 2 Befindet sich eine beschuldigte Person in Haft, so wird ihr Verfahren vordringlich durchgeführt.
 
 ## I. Bedeutung und Funktion

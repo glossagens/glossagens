@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 2**
+>
 > 1 Die Strafrechtspflege steht einzig den vom Gesetz bestimmten Behörden zu.
+>
 > 2 Strafverfahren können nur in den vom Gesetz vorgesehenen Formen durchgeführt und abgeschlossen werden.
 
 ## I. Bedeutung und Funktion

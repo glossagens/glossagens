@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 1**
+>
 > 1. Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
+>
 > 2. Sie kann eine ausdrückliche oder stillschweigende sein.
 
 ## I. Bedeutung und Funktion

@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 3**
+>
 > 1 Die Strafbehörden achten in allen Verfahrensstadien die Würde der vom Verfahren betroffenen Menschen.
+>
 > 2 Sie beachten namentlich:
 >   a. den Grundsatz von Treu und Glauben;
 >   b. das Verbot des Rechtsmissbrauchs;

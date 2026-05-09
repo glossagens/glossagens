@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 9**
+>
 > 1 Eine Straftat kann nur gerichtlich beurteilt werden, wenn die Staatsanwaltschaft gegen eine bestimmte Person wegen eines genau umschriebenen Sachverhalts beim zuständigen Gericht Anklage erhoben hat.
+>
 > 2 Das Strafbefehls- und das Übertretungsstrafverfahren bleiben vorbehalten.
 
 ## I. Bedeutung und Funktion

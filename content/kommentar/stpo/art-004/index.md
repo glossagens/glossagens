@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 4**
+>
 > 1 Die Strafbehörden sind in der Rechtsanwendung unabhängig und allein dem Recht verpflichtet.
+>
 > 2 Gesetzliche Weisungsbefugnisse nach Artikel 14 gegenüber den Strafverfolgungsbehörden bleiben vorbehalten.
 
 ## I. Bedeutung und Funktion

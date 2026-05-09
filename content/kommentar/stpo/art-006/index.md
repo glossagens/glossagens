@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 6**
+>
 > 1 Die Strafbehörden klären von Amtes wegen alle für die Beurteilung der Tat und der beschuldigten Person bedeutsamen Tatsachen ab.
+>
 > 2 Sie untersuchen die belastenden und entlastenden Umstände mit gleicher Sorgfalt.
 
 ## I. Bedeutung und Funktion

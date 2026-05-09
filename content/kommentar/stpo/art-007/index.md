@@ -11,7 +11,9 @@ agent_verified: true
 ## Gesetzestext
 
 > **Art. 7**
+>
 > 1 Die Strafbehörden sind verpflichtet, im Rahmen ihrer Zuständigkeit ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten oder auf Straftaten hinweisende Verdachtsgründe bekannt werden.
+>
 > 2 Die Kantone können vorsehen, dass:
 >   a. die strafrechtliche Verantwortlichkeit der Mitglieder ihrer gesetzgebenden und richterlichen Behörden sowie ihrer Regierungen für Äusserungen im kantonalen Parlament ausgeschlossen oder beschränkt wird;
 >   b. die Strafverfolgung der Mitglieder ihrer Vollziehungs- und Gerichtsbehörden wegen im Amt begangener Verbrechen oder Vergehen von der Ermächtigung einer nicht richterlichen Behörde abhängt.
