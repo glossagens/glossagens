@@ -19,20 +19,26 @@ Glossagens ist ein öffentlicher, juristisch fundierter Gesetzeskommentar, der d
 
 ### Datenfluss
 
+Zwei Eingangskanäle — beide landen in derselben Queue:
+
 ```
-Öffentliche Einreichung (GitHub Issue)
-        ↓
-Hermes Agent (Hetzner) empfängt Webhook
-        ↓
-LLM-Analyse via externer API (Nous-Hermes)
-        ↓
-Agent erstellt PR gegen main
-        ↓
-verify-pr.yml triggert Verifikations-Webhook
-        ↓
+Kanal A: Anregung (GitHub Issue)          Kanal B: Fertiger Beitrag (Pull Request)
+         ↓                                          ↓
+Hermes Agent empfängt Webhook             Hermes Agent empfängt Webhook
+         ↓                                          ↓
+LLM generiert Kommentartext               Strukturprüfung (Page Bundle, Frontmatter)
+         ↓                                          ↓
+Agent erstellt PR gegen main              LLM-Qualitätsprüfung (Inhalt, Zitate)
+         ↓                                          ↓
+verify-pr.yml triggert Verifikations-     bei Bestehen: Merge
+Webhook                                   bei Ablehnung: PR-Kommentar + Schliessen
+         ↓
 bei Bestehen: Merge → GitHub Pages Deploy
 bei Ablehnung: PR-Kommentar + Schliessen
 ```
+
+**Kanal A (Issue)**: Für Anregungen — der Agent generiert den Inhalt selbständig.  
+**Kanal B (PR)**: Für fertige Beiträge von Menschen oder externen Agenten — der Agent verifiziert nur, generiert nichts.
 
 ### Content-Struktur
 
@@ -48,7 +54,22 @@ content/
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
 
-pending/                              ← Zwischenlager für ungeprüfte Einreichungen
+agent/
+├── executor.py                       ← Issue- und PR-Verarbeitungslogik
+├── webhook_server.py                 ← FastAPI-Endpoints (/webhook, /queue, /approve, /reject)
+├── github_client.py                  ← GitHub API-Wrapper
+├── requirements.txt
+├── .env.example
+├── glossagens-agent.service          ← systemd-Unit für Hetzner
+└── skills/
+    ├── glossagens-content-creation/  ← Skill für Hermes: Artikel erstellen
+    │   └── SKILL.md
+    └── glossagens-queue/             ← Skill für Hermes: Queue verwalten
+        └── SKILL.md
+
+static/
+└── agent-skill.md                    ← Öffentlicher Contributor-Skill (für externe Agenten)
+
 .github/
 ├── workflows/deploy.yml              ← GitHub Pages Deploy
 ├── workflows/verify-pr.yml           ← Webhook an Hermes bei PR
@@ -88,15 +109,28 @@ agent_verified: false  # wird separat verifiziert
 ---
 ```
 
-## GitHub Secrets (noch zu setzen)
+## PR-Verifikation durch Hermes
+
+Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
+
+1. **Strukturprüfung** (automatisch, kein LLM):
+   - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/index.md`)
+   - Alle 7 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
+
+2. **Inhaltsprüfung** (LLM):
+   - Sachliche Korrektheit, keine erfundenen Zitate
+   - Akademischer Zitierstil
+   - Kohärenz mit bestehendem Kontext
+
+Bei Strukturfehler: sofortiger Reject ohne LLM-Call.  
+Bei Bestehen beider Stufen: automatischer Merge + Deploy.
+
+## GitHub Secrets
 
 - `HERMES_WEBHOOK_URL` — Endpoint auf dem Hetzner-Server
 - `HERMES_API_KEY` — Auth-Token für den Webhook
 
 ## Offene nächste Schritte
 
-- [ ] GitHub Repo erstellen (`glossagens/glossagens`)
-- [ ] GitHub Pages aktivieren (Settings → Pages → Source: GitHub Actions)
-- [ ] Secrets setzen
-- [ ] Webhook-Endpoint auf Hetzner implementieren
 - [ ] Weitere Gesetze/Artikel befüllen
+- [ ] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen

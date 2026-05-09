@@ -173,6 +173,22 @@ agent_verified: false
 {Additional decisions from search_decisions, grouped by sub-topic if many}
 ```
 
+### What Hermes checks when reviewing your PR
+
+The Hermes agent runs two checks automatically — build both correctly to avoid rejection:
+
+**1. Structure check (automated, no LLM):**
+- Files must be in a Page Bundle directory, not flat: `art-025/index.md` ✓ — `art-025.md` ✗
+- `index.md` must contain all 7 frontmatter fields: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
+- Structural errors cause immediate rejection with an explanatory comment
+
+**2. Quality check (LLM):**
+- No fabricated citations or invented statute text
+- Academic citation style
+- Coherent with existing context
+
+`agent_verified` must be `false` in your PR — Hermes sets it to `true` after a successful merge.
+
 ## Anti-hallucination rules (CRITICAL)
 
 These apply whether you submit via issue or PR:
