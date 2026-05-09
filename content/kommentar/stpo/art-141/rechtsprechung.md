@@ -3,145 +3,183 @@ title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
 lastmod: 2026-05-09
-description: "Übersicht der Entscheide zu Art. 141 StPO – Verwertbarkeit rechtswidrig erlangter Beweise"
-tags: ["Rechtsprechung", "StPO", "Beweisverwertungsverbot", "Fernwirkung"]
+description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
+tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: false
 ---
 
-## Leitentscheide (BGE)
+# Rechtsprechung zu Art. 141 StPO
 
-### BGE 137 I 218, E. 2.3–2.4
-- **Thema**: Beweisverwertungsverbot — Interessenabwägung und Fernwirkung
-- **Kernaussage**: Das Bundesgericht führt eine Güterabwägung zwischen dem öffentlichen Interesse an der Wahrheitsfindung und dem privaten Interesse an der Unverwertbarkeit durch. Je schwerer die Straftat, desto eher überwiegt das öffentliche Interesse. Zur Fernwirkung: Ein Folgebeweis ist unverwertbar, wenn er ohne den rechtswidrigen Primärbeweis nicht hätte erhoben werden können (E. 2.4.1).
-- **Einschlägig für**: Abs. 2, Abs. 4
-
-### BGE 139 IV 128, E. 1.6–1.7
-- **Thema**: Durchsuchung eines I-Phones bei polizeilicher Anhaltung — Ordnungsvorschrift vs. Gültigkeitsvorschrift
-- **Kernaussage**: Die Kontrolle eines I-Phones überschreitet den Zweck der Anhaltung (Art. 215 StPO) und stellt eine Durchsuchung von Aufzeichnungen dar (Art. 246 StPO). Mangels vorsätzlicher Übertretung der Zuständigkeitsordnung liegt nur eine Ordnungsvorschriftverletzung vor — der Beweis ist nach Art. 141 Abs. 3 StPO verwertbar.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-### BGE 141 IV 289
-- **Thema**: Verfahren bei Unverwertbarkeit — Aktenbereinigung
-- **Kernaussage**: Der alleinige Umstand, dass ein unverwertbares Beweismittel in den Akten bleibt, stellt grundsätzlich keinen nicht wieder gutzumachenden Rechtsnachteil dar. Ausnahmen gelten, wenn das Gesetz ausdrücklich die Vernichtung vorsieht (vgl. Art. 141 Abs. 5 StPO) oder die Unverwertbarkeit offensichtlich feststeht.
-- **Einschlägig für**: Abs. 5
-
-### BGE 142 IV 23
-- **Thema**: Blutprobe durch örtlich nicht zuständige Kantonspolizei
-- **Kernaussage**: Die Verletzung der örtlichen Zuständigkeit bei Blutprobenentnahme ist bloss eine Ordnungsvorschriftverletzung nach Art. 141 Abs. 3 StPO. Die Zuständigkeitsordnung dient der Wahrung der kantonalen Souveränität; ihrer Missachtung kommt gegenüber dem Strafverfolgungsinteresse ein geringeres Gewicht zu.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-### BGE 143 IV 387, E. 4.2–4.4
-- **Thema**: Systematische private Observation — Verwertbarkeit rechtswidrig erlangter Beweise
-- **Kernaussage**: Von Privaten rechtswidrig erlangte Beweise unterliegen der Interessenabwägung nach Art. 141 Abs. 2 StPO. Prüfungsstufen: hypothetische rechtmässige Erreichbarkeit durch staatliche Behörden und Schwere der Straftat.
-- **Einschlägig für**: Abs. 2
-
-### BGE 144 IV 189
-- **Thema**: Unverwertbarkeit von Erklärungen im abgekürzten Verfahren
-- **Kernaussage**: Art. 362 Abs. 4 StPO statuiert einen gesetzlichen Fall der Unverwertbarkeit im Sinne von Art. 141 Abs. 1 zweiter Satz StPO. Scheitert das abgekürzte Verfahren, sind die dabei abgegebenen Erklärungen unverwertbar. Art. 141 Abs. 5 StPO (Aktenbereinigung) kommt zum Tragen.
-- **Einschlägig für**: Abs. 1 (Satz 2), Abs. 5
-
-### BGE 146 I 11, E. 4.2–4.3
-- **Thema**: AFV-Aufzeichnungen mangels gesetzlicher Grundlage
-- **Kernaussage**: Rechtswidrig (mangels gesetzlicher Grundlage) erhobene polizeiliche Beweismittel sind nach Art. 141 Abs. 2 StPO zu prüfen. Im konkreten Fall Verwertung verneint, da Fahren ohne Berechtigung keine schwere Straftat i.S.v. Art. 141 Abs. 2 StPO.
-- **Einschlägig für**: Abs. 2
-
-### BGE 147 IV 9, E. 1.3–1.4
-- **Thema**: Schwere Straftat bei Landfriedensbruch — private Videoaufnahmen
-- **Kernaussage**: Massgebend für «schwere Straftat» i.S.v. Art. 141 Abs. 2 StPO ist nicht das abstrakte Strafmass, sondern die Schwere der konkreten Tat. Von Privaten rechtswidrig erlangte Beweismittel: hypothetische rechtmässige Erreichbarkeit + Interessenabwägung.
-- **Einschlägig für**: Abs. 2
-
-### BGE 147 IV 16, E. 5
-- **Thema**: Dashcam-Aufnahmen — private Beweiserhebung und DSG
-- **Kernaussage**: Zweistufige Prüfung bei privater Beweiserhebung: (1) Prüfung eines Rechtfertigungsgrundes nach Art. 13 DSG; (2) falls rechtswidrig, Anwendung von Art. 141 Abs. 2 StPO. Bei Dashcam-Aufnahmen ist ein privater Rechtfertigungsgrund i.S.v. Art. 13 Abs. 1 DSG in der Regel abzulehnen — Verkehrskontrolle ist staatliche Aufgabe.
-- **Einschlägig für**: Abs. 2
-
-### BGE 148 IV 205
-- **Thema**: Verdeckte Ermittlung — Selbstbelastungsfreiheit und absolutes Verwertungsverbot
-- **Kernaussage**: Beweise, die durch verdeckte Ermittler unter übermässiger Druckausübung und unter Umgehung des Selbstbelastungsprivilegs erlangt wurden, sind absolut unverwertbar nach Art. 141 Abs. 1 StPO. Der Einsatz einer Wahrsagerin als verdeckte Ermittlerin zur gezielten Erpressung eines Geständnisses überschreitet die Grenzen zulässiger Einwirkung.
-- **Einschlägig für**: Abs. 1
+Art. 141 StPO regelt die Beweisverwertungsverbote und bildet das zentrale Scharnier zwischen der Pflicht zur Wahrheitsermittlung (Art. 139 StPO) und dem Schutz der Individualrechte bei Rechtsverstössen bei der Beweiserhebung. Die Rechtsprechung des Bundesgerichts hat die drei Stufen des Verwertungsverbots (absolut, relativ, keines) sowie die Fernwirkung und die Aktenbereinigung in einer langen und differenzierenden Linie ausgeformt. Die nachfolgende Übersicht ordnet die entscheidenden BGE und die wichtigsten unveröffentlichten Bundesgerichtsentscheide nach den Absätzen von Art. 141 StPO.
 
 ---
 
-## Weitere Bundesgerichtsentscheide
+## 1. Absolutes Beweisverwertungsverbot (Art. 141 Abs. 1)
 
-### BGer, 1B_535/2021 vom 19.5.2022
-- **Thema**: Zugangscode zum Mobiltelefon bei Hausdurchsuchung
-- **Kernaussage**: Die Erfragung des Zugangscodes stellt keine Einvernahme i.S.v. Art. 157 ff. StPO dar, sondern eine begleitende Massnahme der Hausdurchsuchung (Art. 245 Abs. 2 StPO). Kein offensichtliches Beweisverwertungsverbot nach Art. 141 Abs. 1 StPO.
-- **Einschlägig für**: Abs. 1
+Art. 141 Abs. 1 StPO ordnet ein absolutes Beweisverwertungsverbot an, wenn die Beweiserhebung die Menschenwürde (Art. 3 StPO) oder den Grundsatz *nemo tenetur* (Selbstbelastungsfreiheit) verletzt hat. Absolute Verwertungsverbote sind ausnahmslos; eine Interessenabwägung findet nicht statt.
 
-### BGer, 6B_576/2025 vom 19.2.2026
-- **Thema**: Systematische Darstellung von Art. 141 StPO
-- **Kernaussage**: Übersichtliche Darstellung des dreistufigen Systems: Abs. 1 (absolutes Verbot), Abs. 2 (relatives Verbot mit Interessenabwägung), Abs. 3 (Ordnungsvorschriften → verwertbar).
-- **Einschlägig für**: Abs. 1–3
+### Nemo tenetur — Selbstbelastungsfreiheit
 
-### BGer, 6B_462/2025 vom 25.3.2026
-- **Thema**: Rechtswidrige Observation
-- **Kernaussage**: Von Privaten rechtswidrig erlangte Beweismittel sind nur verwertbar, wenn sie von den Strafverfolgungsbehörden rechtmässig hätten erhoben werden können und eine Interessenabwägung für die Verwertung spricht.
-- **Einschlägig für**: Abs. 2
+**BGE 151 IV 73** (vom 15. Januar 2025, 16 Zitate) — *Erfragung des Zugangscodes/PIN bei Hausdurchsuchung*: Die Erfragung des Zugangscodes zu einem Mobiltelefon im Rahmen einer Hausdurchsuchung stellt eine Beschuldigteneinvernahme i.S.v. Art. 157 ff. StPO dar. Wurde der Beschuldigte nicht gemäss Art. 158 StPO belehrt, resultiert eine Verletzung des *nemo tenetur*-Grundsatzes, die zu einem absoluten Beweisverwertungsverbot nach Art. 158 Abs. 2 i.V.m. Art. 141 Abs. 1 StPO führt. Die Strafverfolgungsbehörden müssen darlegen, dass das Handy auch ohne den Code hätte ausgelesen werden können (Fernwirkung nach Art. 141 Abs. 4 n.F. ab 1.1.2024). → E. 2.3 ff.
 
-### BGer, 6B_116/2023 vom 10.11.2023
-- **Thema**: Mobiltelefondaten einer Drittperson
-- **Kernaussage**: Beweise von Drittpersonen, die mit Einwilligung der Polizei gesichert wurden, sind verwertbar, wenn hypothetische rechtmässige Erreichbarkeit durch staatliche Behörden gegeben ist.
-- **Einschlägig für**: Abs. 2
+**BGE 142 IV 207** (vom 30. Mai 2016, 538 Zitate) — *Nemo tenetur bei beschuldigter Bank / FINMA-Auskunft*: Eine Bank, die als beschuldigte Partei einer strafrechtlichen Massnahme unterworfen ist, kann sich auf den *nemo tenetur*-Grundsatz berufen. Werden jedoch bankinterne Dokumente im Rahmen eines bankenaufsichtsrechtlichen FINMA-Auskunftsverfahrens ohne strafbewehrten Zwang erlangt, greift das Selbstbelastungsprivileg nicht; die Beweise sind verwertbar. → E. 4 ff. (Art. 141 Abs. 1 StPO).
 
-### BGer, 6B_355/2022 vom 27.3.2023
-- **Thema**: Voicemail auf Anrufbeantworter des Ehepartners
-- **Kernaussage**: Aufzeichnung auf dem eigenen Anrufbeantworter der Geschädigten ist verwertbar. Prüfung unter Art. 141 StPO und Fernmeldegeheimnis (Art. 321 StGB).
-- **Einschlägig für**: Abs. 2
+**BGer 1B_535/2021** (vom 19. Mai 2022) — *Zugangscode bei Hausdurchsuchung (Vorläufer BGE 151 IV 73)*: Vorab-Entscheid zur Frage der Erfragung von Zugangscodes. Der Entscheidungslinie folgte BGE 151 IV 73.
 
-### BGer, 6B_299/2012 vom 20.9.2012
-- **Thema**: DNA-Profil — Fernwirkung bei gelöschten/bereits existierenden Daten
-- **Kernaussage**: Ein mittelbar erlangter Folgebeweis ist nach Art. 141 Abs. 4 StPO unverwertbar, wenn er ohne den rechtswidrigen Primärbeweis nicht möglich gewesen wäre. Hier wäre das Gutachten auch ohne das möglicherweise unverwertbare DNA-Profil erstellt worden können (Art. 73quater aBStP bot eigene Grundlage).
-- **Einschlägig für**: Abs. 4
+### Verdeckte Ermittlung
 
-### BGer, 6B_865/2025 vom 9.3.2026
-- **Thema**: Folgeverwertungsverbot bei Aussagen nach Vorhalt unverwertbarer Einvernahmen
-- **Kernaussage**: Aussagen in der Hauptverhandlung, die auf Vorhalt unverwertbarer polizeilicher Einvernahmen beruhen, sind Folgebeweise i.S.v. Art. 141 Abs. 4 StPO und unverwertbar, wenn sie ohne diesen Vorhalt nicht in dieser Form ergangen wären.
-- **Einschlägig für**: Abs. 4, Abs. 5
+**BGE 148 IV 205** (vom 24. März 2022, 1583 Zitate) — *Verdeckte Ermittlung und Selbstbelastungsfreiheit*: Beweismittel, die im Rahmen einer verdeckten Ermittlung erlangt wurden, sind grundsätzlich verwertbar, wenn die Garantien von Art. 140 Abs. 1 StPO eingehalten wurden. Übt ein verdeckter Ermittler jedoch übermässigen Druck auf den Beschuldigten aus, verletzt dies den *nemo tenetur*-Grundsatz und führt zu einem absoluten Beweisverwertungsverbot nach Art. 141 Abs. 1 StPO. → E. 5 ff.
+
+### Verletzung von Teilnahmerechten
+
+**BGE 143 IV 457** (vom 16. November 2017, 220 Zitate) — *Teilnahmerecht nach Art. 147 Abs. 1 StPO*: Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten im gleichen Verfahren teilzunehmen. Bei Verletzung des Teilnahmerechts sind belastende Aussagen von Mitbeschuldigten nicht verwertbar (Bestätigung von BGE 141 IV 220 E. 4 f.; Art. 147 Abs. 4 StPO). → E. 4 f.
+
+### Fehlende STA-Anordnung und ZMGER-Genehmigung
+
+**BGE 145 IV 42** (vom 20. Dezember 2018, 66 Zitate) — *Polizeiliche Videoüberwachung am Arbeitsplatz*: Eine polizeiliche Videoüberwachung von Angestellten in Geschäftsräumen zwecks Aufklärung einer Straftat stellt eine strafprozessuale Zwangsmassnahme unter Einsatz technischer Überwachungsgeräte dar. Sie muss von der Staatsanwaltschaft angeordnet und vom Zwangsmassnahmengericht genehmigt werden. Fehlen sowohl STA-Anordnung als auch ZMGER-Genehmigung, greift das absolute Beweisverwertungsverbot nach Art. 281 Abs. 4 i.V.m. Art. 277 Abs. 2 i.V.m. Art. 141 Abs. 1 StPO. Die Einwilligung der Hausherrin ändert daran nichts. → E. 3 ff.
 
 ---
 
-## Kantonale Entscheide
+## 2. Relatives Beweisverwertungsverbot (Art. 141 Abs. 2)
 
-### SH_OBERGERICHT 50/2023/21 und 35 vom 20.6.2024
-- **Kanton**: Schaffhausen
-- **Thema**: Verwertbarkeit bei Verletzung des Konfrontationsrechts
-- **Kernaussage**: Mangelnde Verwertbarkeit von Aussagen eines als Auskunftsperson einvernommenen Zeugen bei Verletzung des Konfrontationsrechts (Art. 6 Ziff. 3 lit. d EMRK i.V.m. Art. 141 StPO und Art. 307 Abs. 2 StPO).
+Art. 141 Abs. 2 StPO ordnet ein relatives Beweisverwertungsverbot an, wenn die Beweiserhebung entweder eine Gültigkeitsvorschrift (Gültigkeitsverletzung) oder eine Strafbarkeitsvorschrift (strafbare Beweiserlangung) verletzt hat. Im Falle der Gültigkeitsverletzung ist der Beweis nur verwertbar, wenn die strafverfolgte Person eine schwere Straftat im konkreten Fall begangen hat. Bei strafbarer Beweiserlangung ist der Beweis nur verwertbar, wenn die schwere Straftat kumulativ auch mit rechtmässigen Mitteln hätte bewiesen werden können.
 
-### SG_KANTONSGERICHT AK.2014.227 vom 23.7.2014
-- **Kanton**: St. Gallen
-- **Thema**: Zuständigkeit bei Beweisverboten nach Art. 141 StPO
-- **Kernaussage**: Das Sachgericht hat abschliessend darüber zu entscheiden, ob streitige Beweise verwertbar sind. Kein rechtlich geschütztes Interesse an einem Beschwerdeentscheid, solange kein krasser Fall eines eindeutigen Beweisverwertungsverbots vorliegt.
+### 2.1 Gültigkeitsverletzung — Schwere Straftat und Interessenabwägung
 
-### SO_GERICHTE STBER.2021.55 vom 18.10.2022
-- **Kanton**: Solothurn
-- **Thema**: Private Observationen und EMRK-Widrigkeit
-- **Kernaussage**: Private Observationen verstossen grundsätzlich gegen Art. 8 EMRK und Art. 13 Abs. 1 bzw. Art. 36 Abs. 1 BV. Die strafprozessuale Verwertbarkeit ist nach Art. 140 und Art. 141 StPO durch Interessenabwägung zu beurteilen.
+**BGE 147 IV 9** (vom 1. September 2020, 283 Zitate) — *Rechtswidrige Videoaufnahmen bei Landfriedensbruch*: Für die Frage, ob eine schwere Straftat i.S.v. Art. 141 Abs. 2 StPO vorliegt, ist nicht das abstrakt angedrohte Strafmass, sondern die Schwere der konkreten Tat entscheidend. Das öffentliche Interesse an der Wahrheitsfindung wiegt beim Tatbestand des Landfriedensbruchs grundsätzlich schwer; die Videoaufnahmen sind verwertbar. → E. 1.4.2, E. 2.
 
-### TG_GERICHTE RBOG-2022-41 vom 10.2.2022
-- **Kanton**: Thurgau
-- **Thema**: Fernwirkung von Beweisverwertungsverboten
-- **Kernaussage**: Ermöglicht ein nach Art. 141 Abs. 2 StPO unverwertbarer Beweis die Erhebung eines weiteren Beweises, so ist dieser nicht verwertbar, wenn er ohne die vorhergehende Beweiserhebung nicht hätte erlangt werden können (kantonale Anwendung der BGer-Praxis zur Fernwirkung).
+**BGE 143 IV 387** (vom 16. August 2017, 294 Zitate) — *Private Observationen durch Privatdetektive*: Für systematische private Observationen im Strafprozess besteht keine gesetzliche Grundlage. Die rechtswidrig erhobenen Beweismittel sind nach Art. 141 Abs. 2 StPO auf Verwertbarkeit zu prüfen. → E. 2.3 ff.
 
-### SH_OBERGERICHT 51/2011/34 vom 2.3.2012
-- **Kanton**: Schaffhausen
-- **Thema**: Verwertbarkeit altrechtlicher Beweise nach Übergang zur StPO
-- **Kernaussage**: Altrechtlich erhobene Beweismittel im neuen bundesrechtlichen Verfahren verwertbar, soweit sie nach altem Recht ordnungsgemäss erhoben wurden (Art. 141 Abs. 5 StPO i.V.m. Art. 448 Abs. 2 StPO).
+**BGE 146 I 11** (vom 7. Oktober 2019, 421 Zitate) — *AFV-Aufzeichnungen (automatische Fahrzeugfahndung)*: Die Erhebung und Aufbewahrung von Aufzeichnungen der automatischen Fahrzeugfahndung stellen einen Grundrechtseingriff dar (Recht auf Privatsphäre, informationelle Selbstbestimmung). Die Verwertbarkeit richtet sich nach Art. 141 Abs. 2 StPO. → E. 3.1 ff.
 
----
+**BGE 151 IV 18** (vom 3. Oktober 2024, 45 Zitate) — *Art. 263 Abs. 2 StPO als Gültigkeitsvorschrift*: Das Erfordernis der nachträglichen schriftlichen Bestätigung der mündlich angeordneten Beschlagnahme nach Art. 263 Abs. 2 StPO kann als Gültigkeitsvorschrift i.S.v. Art. 141 Abs. 2 StPO qualifiziert werden. Der Schutzzweck-Test entscheidet: Ist die verletzte Vorschrift so erheblich, dass ihr Ziel nur bei Ungültigkeit der Massnahme erreicht wird? → E. 4.4.3.
 
-## EGMR-Entscheide
+**BGE 139 IV 128** (vom 14. Februar 2013, 382 Zitate) — *Polizeiliche Anhaltung, iPhone-Durchsuchung*: Die Kontrolle eines iPhones bei polizeilicher Anhaltung geht über den Zweck der Anhaltung hinaus und stellt eine Durchsuchung von Aufzeichnungen dar. Ob das Fehlen eines STA-Durchsuchungsbefehls eine Gültigkeits- oder nur eine Ordnungsvorschriftenverletzung darstellt, hängt von den konkreten Umständen ab. → E. 1.6.
 
-### EGMR, Schmid-Laffer gegen Schweiz (41269/08), 16.6.2015
-- **Thema**: Recht auf Schweigen und Selbstbelastungsfreiheit (Art. 6 Abs. 1 EMRK)
-- **Kernaussage**: Fehlender Hinweis auf das Schweigerecht bei polizeilicher Einvernahme. Der EGMR prüfte, ob die Verwertung solcher Aussagen den fair-trial-Grundsatz verletzt.
-- **Einschlägig für**: Abs. 1 (nemo tenetur)
+**BGE 137 I 218** (vom 14. April 2011, 418 Zitate) — *Verlorene Filmkamera / «fishing expedition»*: Auswertung einer verloren gegangenen Filmkamera, um ihren Eigentümer zu ermitteln. Frage offengelassen, ob anlehnend an eine verpönte Beweisausforschung (*fishing expedition*) auf diese Weise erlangte Indizien unter ein absolutes Beweisverwertungsverbot fallen. → E. 2.3.2.
 
-### EGMR, Chambaz gegen Schweiz (11663/04), 5.4.2012
-- **Thema**: Selbstbelastungsfreiheit — Strafen für Nichtabgabe steuerbelastender Dokumente
-- **Kernaussage**: Administrative Sanktionen für Nichtabgabe von Dokumenten, die auch strafrechtlich belastend sind, verletzen Art. 6 Abs. 1 EMRK (nemo tenetur).
-- **Einschlägig für**: Abs. 1
+### 2.2 Strafbare Weise erlangte Beweise
+
+**BGE 147 IV 16** (vom 13. November 2020, 237 Zitate) — *Von Privaten in strafbarer Weise erlangte Beweise (DSG-Verletzung)*: Beweise, die unter Verletzung des DSG oder des ZGB erlangt wurden, können als in strafbarer Weise erlangte Beweise i.S.v. Art. 141 Abs. 2 StPO qualifiziert werden. Die Rechtswidrigkeit und allfällige Rechtfertigungsgründe sind zu prüfen. → E. 1.2, E. 2.
+
+### 2.3 Abgekürztes Verfahren
+
+**BGE 144 IV 189** (vom 25. April 2018, 433 Zitate) — *Abgekürztes Verfahren und Beweisverwertungsverbot*: Art. 362 Abs. 4 StPO ist sinngemäss anwendbar, wenn das bereits eingeleitete abgekürzte Verfahren noch vor der gerichtlichen Beurteilung beendet wird. Erklärungen, welche die Parteien im Hinblick auf das abgekürzte Verfahren abgegeben haben, unterliegen einem Verwertungsverbot im ordentlichen Verfahren. → E. 5.2.1 ff.
+
+**BGE 148 IV 137** (vom 3. März 2022, 305 Zitate) — *Ausstand/Mehrfachbefassung nach gescheitertem abgekürztem Verfahren*: Betrifft insbesondere die Frage der Befangenheit bei Richtern, die sich im gescheiterten abgekürzten Verfahren bereits mit der Sache befasst haben (Art. 56 lit. f StPO, Art. 30 Abs. 1 BV). → E. 5.
+
+### 2.4 Online-Recherche
+
+**BGE 143 IV 270** (vom 24. Mai 2017, 230 Zitate) — *Online-Recherche Facebook / kein Beweisverwertungsverbot*: Die vorläufige Sicherstellung von Chat-Verläufen auf einem digitalen sozialen Netzwerk ist keine heimliche Zwangsmassnahme und verstösst nicht gegen Art. 141 StPO. Die Sicherstellung im Rahmen einer Online-Recherche rechtfertigt kein Beweisverwertungsverbot. → E. 3 ff.
 
 ---
 
-*Letzte Aktualisierung: 2026-05-09*
+## 3. Von Privaten rechtswidrig erlangte Beweise (analog Art. 141 Abs. 2)
+
+Die Rechtsprechung wendet Art. 141 Abs. 2 StPO analog auf Beweise an, die von Privaten rechtswidrig erlangt und den Strafverfolgungsbehörden übergeben wurden. Voraussetzung der Verwertbarkeit ist kumulativ, dass die Strafverfolgungsbehörden den Beweis rechtmässig hätten erlangen können **und** eine Interessenabwägung für die Verwertung spricht (dasselbe Massstab wie bei staatlich erhobenen Beweisen).
+
+**BGE 146 IV 226** (vom 26. September 2019, 205 Zitate) — *Private Dashcam-Aufnahmen*: Von Privaten rechtswidrig erlangte Beweismittel sind nur verwertbar, wenn sie von den Strafverfolgungsbehörden rechtmässig hätten erlangt werden können und kumulativ dazu eine Interessenabwägung für deren Verwertung spricht. Bei der Interessenabwägung ist derselbe Massstab wie bei staatlich erhobenen Beweisen anzuwenden (schwere Straftat i.S.v. Art. 141 Abs. 2 StPO). → E. 2.2 ff.
+
+**BGE 143 IV 387** (vom 16. August 2017, 294 Zitate) — *Private Observationen durch Privatdetektive*: Für systematische private Observationen im Strafprozess besteht keine gesetzliche Grundlage. Die Frage der Verwertbarkeit der rechtswidrig erhobenen Beweismittel ist nach Art. 141 Abs. 2 StPO zu prüfen. → E. 2.3 ff. Vgl. auch EGMR *Schmid-Laffer* (2009) — Observation durch Privatdetektive ohne gesetzliche Grundlage verstösst gegen Art. 8 EMRK.
+
+**BGE 147 IV 16** (vom 13. November 2020, 237 Zitate) — *DSG-Verletzung durch Private*: Beweise, die von Privaten unter Verletzung des DSG oder des ZGB erlangt wurden, können als strafbar erlangt i.S.v. Art. 141 Abs. 2 StPO qualifiziert werden. → E. 1.2.
+
+**BGer 6B_462/2025** (vom 25. März 2026) — *Rechtswidrige Observation, Beweisverwertungsverbot*: Aktuelle Anwendung der Grundsätze zu privaten Observationen und Verwertbarkeit.
+
+---
+
+## 4. Ordnungsvorschriften (Art. 141 Abs. 3) — mit Schutzzweck-Test
+
+Art. 141 Abs. 3 StPO bestimmt, dass blossen Ordnungsvorschriftenverletzungen keine Beweisverwertungsverbote folgen. Die Abgrenzung zwischen Gültigkeits- und Ordnungsvorschrift entscheidet über die Anwendbarkeit von Abs. 2 oder Abs. 3. Der Bundesgericht entwickelt hierfür den **Schutzzweck-Test**: Ist die verletzte Vorschrift so erheblich, dass ihr Ziel nur bei Ungültigkeit der Massnahme erreicht wird, handelt es sich um eine Gültigkeitsvorschrift (Abs. 2); andernfalls um eine Ordnungsvorschrift (Abs. 3).
+
+**BGE 139 IV 128** (vom 14. Februar 2013, 382 Zitate) — *iPhone-Durchsuchung: STA-Befehl als Ordnungsvorschrift*: Unter den konkreten Umständen stellte das Fehlen eines STA-Durchsuchungsbefehls bei der iPhone-Durchsuchung eine blosse Ordnungsvorschriftenverletzung dar (Art. 141 Abs. 3 StPO). → E. 1.6.
+
+**BGE 144 IV 302** (vom 2. August 2018, 304 Zitate) — *Selbstständiger Aktenbeizug durch Sachverständige*: Der Beizug von Akten einer Behörde oder Klinik durch sachverständige Personen ohne Beantragung bei der Verfahrensleitung ist keine einfache Erhebung i.S.v. Art. 185 Abs. 4 StPO, sondern eine Ergänzung der Akten nach Art. 185 Abs. 3 StPO. Der selbstständige Aktenbeizug ohne Beantragung stellt eine Ordnungsvorschriftenverletzung dar (Art. 141 Abs. 3 StPO). → E. 3.1 ff.
+
+**BGE 151 IV 18** (vom 3. Oktober 2024, 45 Zitate) — *Schutzzweck-Test für die Qualifikation*: Das Bundesgericht begründet den Schutzzweck-Test als massgebliches Kriterium für die Qualifikation einer verletzten Vorschrift als Gültigkeits- oder Ordnungsvorschrift. → E. 4.4.3.
+
+**BGer 6B_299/2012** (vom 20. September 2012) — *Systematische Darstellung Art. 141 Abs. 1–3*: Frühe systematische Darstellung der dreistufigen Struktur der Beweisverwertungsverbote durch das Bundesgericht.
+
+**BGer 6B_116/2023** (vom 2023) — *Qualifizierte grobe Verkehrsregelverletzung, Beweisverwertungsverbot*: Frage der Qualifikation einer Verfahrensvorschriftenverletzung als Ordnungs- oder Gültigkeitsvorschrift im Verkehrsstrafrecht.
+
+---
+
+## 5. Fernwirkung (Art. 141 Abs. 4)
+
+### 5.1 Neues Recht (ab 1. Januar 2024)
+
+Mit der Änderung von Art. 141 Abs. 4 StPO (in Kraft seit 1. Januar 2024) erfasst die Fernwirkung nunmehr ausdrücklich sowohl absolute (Abs. 1) als auch relative (Abs. 2) Beweisverwertungsverbote. Das Gesetz verzichtet auf eine strikte Fernwirkung bei absoluten Verwertungsverboten und stattdessen auf den hypothetischen Ermittlungsverlauf ab: Hätten die Strafverfolgungsbehörden den Beweis auch ohne die Rechtsverletzung erlangt, entfällt die Unverwertbarkeit der Folgebeweise (hypothetisch rechtmässiger Ermittlungsverlauf).
+
+**BGE 151 IV 73** (vom 15. Januar 2025, 16 Zitate) — *Fernwirkung nach neuem Recht*: Art. 141 Abs. 4 StPO erfasst jetzt ausdrücklich Abs. 1 und Abs. 2. Bei absolutem Beweisverwertungsverbot gibt es keine strikte Fernwirkung mehr, sondern es ist auf den hypothetischen Ermittlungsverlauf abzustellen. Die Strafverfolgungsbehörden müssen darlegen, dass das Handy auch ohne den rechtswidrig erlangten Code hätte ausgelesen werden können. → E. 2.5.2.
+
+**BGer 6B_576/2025** (vom 19. Februar 2026) — *Vollständige systematische Darstellung Art. 141 StPO*: Aktuelle systematische Gesamtdarstellung der Beweisverwertungsverbote durch das Bundesgericht, die insbesondere die neuen Regeln zur Fernwirkung nach der StPO-Änderung von 2024 anwendet.
+
+**BGer 6B_865/2025** (vom 9. März 2026) — *Folgeverwertungsverbot, Vorhalten unverwertbarer Aussagen*: Anwendung der Fernwirkungsregel bei Vorhalten unverwertbarer Aussagen im Rahmen der Einvernahme.
+
+### 5.2 Altes Recht (vor dem 1. Januar 2024)
+
+Vor der Gesetzesänderung galt folgende Rechtsprechung zur Fernwirkung:
+
+**BGE 133 IV 329** (vom 9. Oktober 2007, 107 Zitate) — *Grundsatzentscheid Fernwirkung (BÜPF)*: Das in Art. 9 Abs. 3 BÜPF verankerte Verwertungsverbot erstreckt sich auch auf mittelbar erlangte Beweise (Folgebeweise), wenn diese ohne den rechtswidrig beschafften primären Beweis nicht hätten erlangt werden können. Ein Geständnis, das mit an Sicherheit grenzender Wahrscheinlichkeit auch ohne den illegalen Zufallsfund erlangt worden wäre, ist jedoch verwertbar. → E. 4.5.
+
+**BGE 138 IV 169** (vom 12. Juli 2012, 160 Zitate) — *Fernwirkung vor StPO-Änderung*: Erkenntnisse aus nicht genehmigten Telefonüberwachungen sind absolut unverwertbar. Es liegt keine Fernwirkung des Beweisverwertungsverbots gemäss BGE 133 IV 329 E. 4.5 und Art. 141 Abs. 4 StPO vor, wenn die Folgebeweise mit grosser Wahrscheinlichkeit auch ohne den Primärbeweis erlangt worden wären; bloss theoretische Möglichkeiten genügen nicht. → E. 3.1.
+
+---
+
+## 6. Aktenbereinigung (Art. 141 Abs. 5)
+
+Art. 141 Abs. 5 StPO regelt die Entfernung unverwertbarer Beweismittel aus den Akten. Die Frage, ob ein Beweismittel aus den Akten zu entfernen ist oder ob sein Verbleib in den Akten einen irreparablen Nachteil darstellt, hat die Rechtsprechung differenziert beantwortet.
+
+**BGE 141 IV 289** (vom 29. Juli 2015, 804 Zitate) — *Aktenentfernung / nicht wieder gutzumachender Rechtsnachteil*: Der alleinige Umstand, dass ein Beweismittel, dessen Verwertbarkeit der Beschwerdeführer bestreitet, in den Untersuchungsakten verbleibt, stellt grundsätzlich keinen nicht wieder gutzumachenden Nachteil rechtlicher Natur dar. Das Verbleiben eines unverwertbaren Beweises in den Akten ist nicht irreparabel, solange das Sachgericht über die Verwertbarkeit ohnehin zu befinden hat. → E. 1.
+
+**BGE 143 IV 475** (vom 5. Oktober 2017, 361 Zitate) — *StPO-Beschwerde gegen Aktenentfernungsentscheid der STA*: Es hält nicht vor Bundesrecht stand, wenn eine letzte kantonale Instanz auf eine StPO-Beschwerde gegen die (Nicht-)Entfernung angeblich unverwertbarer Beweismittel durch die Staatsanwaltschaft nicht eintritt, weil es an einem nicht wieder gutzumachenden Nachteil bzw. an einem rechtlich geschützten Interesse fehle. Die Beschwerde ist zulässig. → E. 2.
+
+---
+
+## 7. Verfahrensrechtliche Aspekte (Zuständigkeit, Beschwerde)
+
+### 7.1 Zuständigkeit für Beweisverwertungsverbote
+
+Die Zuständigkeit für die Beurteilung von Beweisverwertungsverboten liegt bei der Sachrichterin bzw. dem Sachrichter (erstinstanzliches Gericht). Eine Beschwerdeinstanz darf nicht vorgreifend über Beweisverbote entscheiden, solange das Sachgericht noch nicht darüber befunden hat.
+
+Kantonsgericht St. Gallen, Anklagekammer AK.2014.227 (2014) — *Zuständigkeit für Beweisverbote liegt beim Sachgericht*: Die Beurteilung von Beweisverwertungsverboten obliegt dem Sachgericht; die Beschwerdeinstanz hat sich zurückzuhalten.
+
+Kantonsgericht Basel-Landschaft, 470 19 121 (2019) — *Kein Voreingreifen der Beschwerdeinstanz*: Die Beschwerdeinstanz darf nicht vorgreifend in die Kompetenz des Sachgerichts eingreifen.
+
+### 7.2 Beschwerde gegen Aktenbereinigungsentscheide
+
+**BGE 143 IV 475** (vom 5. Oktober 2017, 361 Zitate) — Die StPO-Beschwerde gegen einen Aktenentfernungsentscheid der Staatsanwaltschaft ist zulässig; Nichteintreten mangels irreparablen Nachteils verletzt Bundesrecht. → E. 2.
+
+### 7.3 Anwendungsbereich über das Kernstrafverfahren hinaus
+
+Kantonsgericht Solothurn, STBER.2021.55 (2022) — *Private Observationen, EMRK-Widrigkeit*: Eine EMRK-Widrigkeit (Art. 8 EMRK) infolge fehlender gesetzlicher Grundlage für private Observationen führt nicht automatisch zu einem strafprozessualen Beweisverwertungsverbot nach Art. 141 StPO. Der EGMR entwickelt keine eigenständige Doktrin zu Beweisverwertungsverboten im Sinne der StPO. Vgl. auch EGMR *Chambaz* (2022).
+
+Verwaltungsrekurskommission St. Gallen, IV-2015/197 (2020) — *Warnungsentzugsverfahren*: Die Beweisverwertungsverbotsregeln der StPO (Art. 141) gelten im strafähnlichen Warnungsentzugsverfahren sinngemäss.
+
+Kantonsgericht Basel-Stadt, BES.2023.12 (2023) — *Verwertbarkeit Zeugeneinvernahme*: Anwendungsfall der Verwertbarkeitsprüfung bei Zeugeneinvernahme.
+
+---
+
+## 8. EGMR-Rechtsprechung
+
+Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der Beweisverwertungsverbote. Der EGMR prüft im Rahmen von Art. 6 EMRK (fair trial), ob die Gesamtheit des Verfahrens fair ist; ein einzelner Beweisfehler führt nicht automatisch zur Verfahrensungleichheit.
+
+**EGMR, *Schmid-Laffer* gegen Schweiz** (2009) — *Observation durch Privatdetektive ohne gesetzliche Grundlage*: Systematische Observationen durch Privatdetektive ohne gesetzliche Grundlage verletzen Art. 8 EMRK (Recht auf Achtung des Privatlebens). Ob daraus ein strafprozessuales Beweisverwertungsverbot folgt, beurteilt sich nach nationalem Recht.
+
+**EGMR, *Chambaz* gegen Schweiz** (2022) — *Keine eigenständige EGMR-Doktrin zu Beweisverwertungsverboten*: Der EGMR entwickelt keine eigenständige, der StPO-Systematik (absolut/relativ/Ordnungsvorschrift) entsprechende Doktrin zu Beweisverwertungsverboten. Die Fairness des Gesamtverfahrens steht im Vordergrund.
+
+---
+
+## 9. Ausgewählte unveröffentlichte Bundesgerichtsentscheide
+
+| Geschäftsnummer | Datum | Kurzinhalt |
+|---|---|---|
+| BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |
+| BGer 6B_865/2025 | 09.03.2026 | Folgeverwertungsverbot; Vorhalten unverwertbarer Aussagen |
+| BGer 6B_462/2025 | 25.03.2026 | Rechtswidrige Observation, Beweisverwertungsverbot |
+| BGer 1B_535/2021 | 19.05.2022 | Zugangscode bei Hausdurchsuchung (Vorläuferentscheid zu BGE 151 IV 73) |
+| BGer 6B_1061/2020 | 2022 | Landfriedensbruch, Videoaufnahmen |
+| BGer 6B_116/2023 | 2023 | Qualifizierte grobe Verkehrsregelverletzung, BVV-Verwertbarkeit |
+| BGer 6B_477/2019 | 2019 | Tarnkontrollschilder, Legalitätsprinzip |
+| BGer 6B_893/2015 | 2016 | Pornografie, Beweiserhebungs- und Beweisverwertungsverbot |
+| BGer 6B_299/2012 | 20.09.2012 | Systematische Darstellung Art. 141 Abs. 1–3 |
