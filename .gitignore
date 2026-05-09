@@ -2,3 +2,4 @@ public/
 .hugo_build.lock
 resources/
 agent/openwebui_tools.py
+Makefile

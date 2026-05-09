@@ -44,13 +44,26 @@ Currently covered:
 
 ## Step 2: Research the article (if submitting a new commentary)
 
-Use the opencaselaw MCP to gather source material. Make parallel calls:
+Use the opencaselaw MCP to gather source material. Make **parallel calls** in one message:
 
 ```
 get_law(abbreviation='<ABBREV>', article='<N>', language='de')
 get_doctrine(query='Art. <N> <ABBREV>')
 get_commentary(abbreviation='<ABBREV>', article='<N>', language='de')
 find_leading_cases(query='Art. <N> <ABBREV>')
+find_citations(article='Art. <N> <ABBREV>')
+search_materialien(query='Art. <N> <ABBREV>')
+```
+
+For deep research on a complex article, run **three subagents in parallel**, each with a focused mandate:
+
+- **Subagent A**: BGer leading cases — `find_leading_cases` + `find_citations` + `search_decisions`
+- **Subagent B**: Cantonal courts — `search_decisions` with specific cantons via `list_courts`
+- **Subagent C**: Materials + doctrine — `search_materialien` + `get_commentary` + `get_doctrine`
+
+Give each subagent a list of already-known decisions to **avoid duplicates**:
+```
+KNOWN_DECISIONS = ["BGE 144 IV 202", "BGer 6B_1040/2019 v. 3.8.2020", ...]
 ```
 
 Law abbreviation → SR number mapping:
