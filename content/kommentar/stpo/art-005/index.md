@@ -45,10 +45,8 @@ Befindet sich die beschuldigte Person in **Untersuchungshaft oder Sicherheitshaf
 
 ## IV. Rechtsprechung
 
-| Entscheidung | Grundaussage |
-|-------------|-------------|
-| BGE 139 IV 25 | Beschleunigungsgebot bei Einvernahme von Mitbeschuldigten |
-| BGE 138 IV 186 | Fristenstillstand und Beschleunigungsgebot |
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

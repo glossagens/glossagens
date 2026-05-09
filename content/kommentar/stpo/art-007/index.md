@@ -56,7 +56,8 @@ Die Kantone können vorsehen, dass die **Strafverfolgung von Regierungs- und Ger
 
 ## IV. Rechtsprechung
 
-Laufend ergänzt durch den autonomen Agenten auf Basis aktueller Bundesgerichtsentscheide.
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

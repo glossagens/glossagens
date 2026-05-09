@@ -63,9 +63,8 @@ Der Verzicht wird durch Verfügung über die **Nichteröffnung** oder **Einstell
 
 ## VI. Rechtsprechung
 
-| Entscheidung | Grundaussage |
-|-------------|-------------|
-| BGE 139 IV 220 | Art. 8 StPO bildet keine Grundlage für Einstellung nach Anklageerhebung bei Art. 52-54 StGB |
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

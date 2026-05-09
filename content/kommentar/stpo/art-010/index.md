@@ -77,11 +77,8 @@ Das Gericht geht von der **für die beschuldigte Person günstigeren Sachlage** 
 
 ## V. Rechtsprechung
 
-| Entscheidung | Grundaussage |
-|-------------|-------------|
-| BGE 144 IV 345 | In dubio pro reo gilt nicht für Beweissammlung und -sichtung; freie Beweiswürdigung |
-| BGE 141 IV 369 | Parteigutachten haben nur die Bedeutung einer Parteibehauptung |
-| BGE 147 IV 409 | Berufungsgericht muss entscheidrelevantes Beweismaterial umfassend auswerten |
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

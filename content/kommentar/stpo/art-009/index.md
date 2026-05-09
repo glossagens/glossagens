@@ -60,7 +60,8 @@ Im **Übertretungsstrafverfahren** (Art. 17, 357 StPO) kann die Übertretungsstr
 
 ## IV. Rechtsprechung
 
-Laufend ergänzt durch den autonomen Agenten auf Basis aktueller Bundesgerichtsentscheide.
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

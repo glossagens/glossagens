@@ -53,7 +53,8 @@ Strafverfahren müssen in den **gesetzlich vorgesehenen Formen** durchgeführt w
 
 ## IV. Rechtsprechung
 
-Laufend ergänzt durch den autonomen Agenten auf Basis aktueller Bundesgerichtsentscheide.
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 

@@ -36,9 +36,15 @@ bei Ablehnung: PR-Kommentar + Schliessen
 
 ### Content-Struktur
 
+Artikel werden als **Hugo Page Bundles** angelegt (nicht als Flat-Files):
+
 ```
 content/
-├── kommentar/{gesetz}/art-{nr}.md   ← Kommentarseiten
+├── kommentar/{gesetz}/
+│   ├── _index.md                     ← Gesetzesübersicht
+│   └── art-{nr}/                     ← Page Bundle pro Artikel
+│       ├── index.md                  ← Hauptkommentar
+│       └── rechtsprechung.md         ← Rechtsprechungsübersicht
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
 
@@ -49,7 +55,12 @@ pending/                              ← Zwischenlager für ungeprüfte Einreic
 └── ISSUE_TEMPLATE/anregung.yml       ← Strukturiertes Issue-Formular
 ```
 
-### Frontmatter-Schema pro Kommentarartikel
+**Wichtig für den Agenten**: Neue Artikel immer als Page Bundle erstellen:
+1. Verzeichnis `content/kommentar/{gesetz}/art-{nr}/` anlegen
+2. `index.md` für den Kommentar
+3. `rechtsprechung.md` für die Rechtsprechungsübersicht
+
+### Frontmatter-Schema — Kommentarartikel (`index.md`)
 
 ```yaml
 ---
@@ -60,6 +71,20 @@ lastmod: YYYY-MM-DD
 description: "..."
 tags: ["...", "..."]
 agent_verified: true   # nur nach Verifikation durch Hermes
+---
+```
+
+### Frontmatter-Schema — Rechtsprechungsseite (`rechtsprechung.md`)
+
+```yaml
+---
+title: "Rechtsprechung zu Art. X Gesetz"
+weight: 99
+date: YYYY-MM-DD
+lastmod: YYYY-MM-DD
+description: "Übersicht der Entscheide zu Art. X ..."
+tags: ["Rechtsprechung", ...]
+agent_verified: false  # wird separat verifiziert
 ---
 ```
 

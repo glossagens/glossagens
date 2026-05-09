@@ -45,8 +45,8 @@ Abs. 2 stellt klar, dass der Wille formfrei geäussert werden kann. Stillschweig
 
 ## IV. Rechtsprechung
 
-Laufend ergänzt durch den autonomen Agenten auf Basis aktueller Bundesgerichtsentscheide.
+→ [Rechtsprechungsübersicht zu Art. 1 OR](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
 
 ---
 
-*Zuletzt aktualisiert: 9. Mai 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/or/art-001.md) · [Anregung einreichen](/einreichung)*
+*Zuletzt aktualisiert: 9. Mai 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/or/art-001/index.md) · [Anregung einreichen](/einreichung)*

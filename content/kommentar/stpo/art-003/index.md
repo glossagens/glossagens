@@ -62,11 +62,8 @@ Verstösse führen zu **Beweisverwertungsverboten** (Art. 141 StPO).
 
 ## IV. Rechtsprechung
 
-| Entscheidung | Grundaussage |
-|-------------|-------------|
-| BGE 139 IV 179 | Haftverlängerungsentscheid erfordert ausreichende Begründung (Art. 3 Abs. 2 lit. c StPO) |
-| BGE 139 IV 25 | Recht auf Teilnahme bei Einvernahme von Mitbeschuldigten und Zeugen |
-| BGE 148 IV 205 | Verwertbarkeit von Beweisen aus verdeckter Ermittlung; Beweisverwertungsverbot |
+→ [Rechtsprechungsübersicht](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+
 
 ---
 
