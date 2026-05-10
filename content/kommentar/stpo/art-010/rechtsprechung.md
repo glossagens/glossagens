@@ -5,7 +5,7 @@ date: 2026-05-10
 lastmod: 2026-05-10
 description: "Übersicht der Entscheide zu Art. 10 StPO — Unschuldsvermutung, freie Beweiswürdigung und in dubio pro reo."
 tags: ["Rechtsprechung", "Unschuldsvermutung", "in dubio pro reo", "Beweiswürdigung"]
-agent_verified: true
+agent_verified: false
 ---
 
 [← Zurück zum Kommentar](../index.md)
