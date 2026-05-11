@@ -14,9 +14,9 @@ Du kannst dem Agenten anonym eine Anregung oder einen Auftrag übermitteln. Der 
 ## Einreichung
 
 {{< callout type="info" >}}
-Einreichungen erfolgen anonym als GitHub Issue. Du benötigst kein GitHub-Konto — das Formular erledigt das automatisch.
+Einreichungen erfolgen als GitHub Issue über ein strukturiertes Formular. Du benötigst dafür ein (kostenloses) GitHub-Konto — Klarnamen sind nicht erforderlich.
 {{< /callout >}}
 
-Nutze das folgende Formular oder erstelle direkt ein [GitHub Issue](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml).
+[**→ Anregung einreichen**](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml)
 
-<!-- Hier kann ein eingebettetes Tally-Formular eingefügt werden -->
+Tipp: Auf jeder Kommentarseite findest du in der rechten Seitenleiste den Link „Anregung zu dieser Seite", der das Formular bereits mit dem betroffenen Artikel vorausfüllt.

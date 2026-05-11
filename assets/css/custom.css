@@ -1,0 +1,317 @@
+/* =====================================================================
+   Glossagens — Editorial Theme
+   Übernimmt die Designsprache von bger-update.ch:
+   warm-papierig, akademisch-redaktionell, flach, Trennlinien statt Karten.
+   ===================================================================== */
+
+:root {
+  /* Editorial-Palette */
+  --gg-ink:     #1a1a1a;
+  --gg-ink-2:   #333333;
+  --gg-paper:   #faf7f2;
+  --gg-paper-2: #f3ede2;
+  --gg-rule:    #d9d3c7;
+  --gg-hair:    #ece6d8;
+  --gg-muted:   #6b6357;
+  --gg-accent:  #8b1a1a;
+
+  /* Hextra-Primärfarbe → Bordeaux (hsl 0 69% 32%) */
+  --primary-hue: 0;
+  --primary-saturation: 69%;
+  --primary-lightness: 32%;
+}
+
+/* Dark Mode wird im Editorial-Look bewusst zurückgenommen (Papier bleibt warm) */
+.dark {
+  --primary-hue: 0;
+  --primary-saturation: 55%;
+  --primary-lightness: 55%;
+}
+
+/* =====================================================================
+   Body & Grundtypografie
+   ===================================================================== */
+html, body {
+  background: var(--gg-paper);
+}
+.dark, .dark body {
+  background: #181715;
+}
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  color: var(--gg-ink);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "ss01", "cv11";
+}
+.dark body { color: #e8e3d8; }
+
+/* Headlines — Fraunces, kein Tracking-Wide */
+h1, h2, h3, h4, h5, h6,
+.hextra-card h3,
+article h1, article h2, article h3, article h4 {
+  font-family: 'Fraunces', 'Iowan Old Style', Georgia, serif !important;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.18;
+}
+
+article h1 { font-weight: 800; letter-spacing: -0.025em; }
+
+/* Body-Prose */
+.hextra-content p,
+article p,
+.content p {
+  font-family: 'Inter', sans-serif;
+  color: var(--gg-ink-2);
+}
+.dark .hextra-content p, .dark article p { color: #d3cebf; }
+
+/* Links: dezent, Akzentfarbe nur auf Hover */
+.content a,
+article a,
+main a:not(.hextra-card):not(.hx-nav-link) {
+  color: var(--gg-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--gg-rule);
+  transition: border-color 0.15s, color 0.15s;
+}
+.content a:hover,
+article a:hover,
+main a:not(.hextra-card):not(.hx-nav-link):hover {
+  color: var(--gg-accent);
+  border-bottom-color: var(--gg-accent);
+}
+.dark .content a, .dark article a {
+  color: #ece6d8;
+  border-bottom-color: #3a3530;
+}
+
+/* =====================================================================
+   Navbar & Footer — flach, Linie statt Schatten
+   ===================================================================== */
+.hextra-navbar,
+nav.hextra-nav,
+header nav {
+  background: var(--gg-paper) !important;
+  border-bottom: 1px solid var(--gg-ink);
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+}
+.dark .hextra-navbar,
+.dark nav.hextra-nav,
+.dark header nav {
+  background: #181715 !important;
+  border-bottom-color: #2d2925;
+}
+
+/* Brand-Titel als Zeitungskopf */
+.hextra-navbar a[href="/"],
+.hextra-navbar a.hx-flex span,
+header nav a.hx-flex span {
+  font-family: 'Fraunces', serif;
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+}
+
+/* Footer schlicht */
+footer {
+  background: var(--gg-paper) !important;
+  border-top: 1px solid var(--gg-rule);
+  color: var(--gg-muted);
+}
+.dark footer { background: #181715 !important; border-top-color: #2d2925; }
+
+/* =====================================================================
+   Cards, Boxen, Callouts — Radius 0, kein Schatten, Linien
+   ===================================================================== */
+.hextra-card,
+.hextra-feature-card,
+.hextra-callout,
+.hextra-cards .hextra-card,
+.hx-rounded,
+.hx-rounded-md,
+.hx-rounded-lg,
+.hx-rounded-xl {
+  border-radius: 0 !important;
+}
+
+.hextra-card {
+  background: transparent !important;
+  border: 1px solid var(--gg-rule) !important;
+  box-shadow: none !important;
+  transition: border-color 0.15s, background 0.15s;
+}
+.hextra-card:hover {
+  background: var(--gg-paper-2) !important;
+  border-color: var(--gg-ink) !important;
+}
+.dark .hextra-card {
+  border-color: #3a3530 !important;
+}
+.dark .hextra-card:hover {
+  background: #221f1c !important;
+  border-color: #6b6357 !important;
+}
+
+.hextra-card h3 {
+  font-family: 'Fraunces', serif !important;
+  font-weight: 600 !important;
+}
+
+/* Callouts: linke Akzentkante statt Box mit Radius */
+.hextra-callout {
+  border: 1px solid var(--gg-rule);
+  border-left: 4px solid var(--gg-accent);
+  background: var(--gg-paper-2) !important;
+  box-shadow: none !important;
+}
+
+/* =====================================================================
+   Sidebar
+   ===================================================================== */
+aside.hextra-sidebar,
+.sidebar-container {
+  background: transparent !important;
+  border-right: 1px solid var(--gg-rule);
+}
+.dark aside.hextra-sidebar { border-right-color: #2d2925; }
+
+.hextra-sidebar a {
+  border-radius: 0 !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 13.5px;
+}
+
+/* Sticky-Bottom-Blöcke (Edit-Link, Theme-Toggle) im Sidebar/TOC
+   → kein weisses Kasten-Overlay, kein weisser Schlagschatten */
+.hextra-toc .hx\:sticky.hx\:bottom-0,
+.hextra-sidebar .hx\:sticky.hx\:bottom-0,
+aside .hx\:sticky.hx\:bottom-0 {
+  background: var(--gg-paper) !important;
+  box-shadow: none !important;
+  border-top-color: var(--gg-rule) !important;
+}
+.dark .hextra-toc .hx\:sticky.hx\:bottom-0,
+.dark .hextra-sidebar .hx\:sticky.hx\:bottom-0,
+.dark aside .hx\:sticky.hx\:bottom-0 {
+  background: #181715 !important;
+  border-top-color: #2d2925 !important;
+}
+
+/* =====================================================================
+   Code-Blöcke (sparsam, Papier-Hintergrund)
+   ===================================================================== */
+pre, code {
+  border-radius: 0 !important;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+pre {
+  background: var(--gg-paper-2) !important;
+  border: 1px solid var(--gg-rule);
+}
+.dark pre { background: #221f1c !important; border-color: #3a3530; }
+
+:not(pre) > code {
+  background: var(--gg-paper-2);
+  border: 1px solid var(--gg-hair);
+  padding: 1px 5px;
+  font-size: 0.88em;
+}
+.dark :not(pre) > code { background: #221f1c; border-color: #3a3530; }
+
+/* =====================================================================
+   Tabellen — Zeitungs-Listing-Stil
+   ===================================================================== */
+.content table,
+article table {
+  border-collapse: collapse;
+  font-size: 14px;
+  width: 100%;
+}
+.content table th,
+article table th {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: var(--gg-muted);
+  border-bottom: 1px solid var(--gg-ink);
+  text-align: left;
+  padding: 8px 10px;
+}
+.content table td,
+article table td {
+  border-bottom: 1px solid var(--gg-hair);
+  padding: 8px 10px;
+  vertical-align: top;
+}
+
+/* =====================================================================
+   Hervorhebung: Zitate als Editorial-Blocks
+   ===================================================================== */
+blockquote {
+  border-left: 3px solid var(--gg-ink);
+  background: transparent;
+  margin: 1.4em 0;
+  padding: 0.2em 0 0.2em 1.2em;
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 17px;
+  color: var(--gg-ink-2);
+}
+.dark blockquote { border-left-color: #ece6d8; color: #d3cebf; }
+
+/* =====================================================================
+   Buttons — flach, Linie statt Fläche
+   ===================================================================== */
+button, .hextra-btn, a.button {
+  border-radius: 0 !important;
+}
+
+/* =====================================================================
+   Article-Header (Page-Titel)
+   ===================================================================== */
+article > h1:first-child,
+.content > h1:first-child {
+  border-top: 4px double var(--gg-ink);
+  border-bottom: 1px solid var(--gg-ink);
+  padding: 18px 0 14px;
+  margin-bottom: 24px;
+  font-size: 34px;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+}
+.dark article > h1:first-child,
+.dark .content > h1:first-child {
+  border-top-color: #ece6d8;
+  border-bottom-color: #ece6d8;
+}
+
+/* =====================================================================
+   Suche
+   ===================================================================== */
+.hextra-search input,
+input[type="search"] {
+  border-radius: 0 !important;
+  background: var(--gg-paper-2) !important;
+  border: 1px solid var(--gg-rule) !important;
+  font-family: 'Inter', sans-serif;
+}
+.dark .hextra-search input,
+.dark input[type="search"] {
+  background: #221f1c !important;
+  border-color: #3a3530 !important;
+}
+
+/* =====================================================================
+   Selection
+   ===================================================================== */
+::selection {
+  background: var(--gg-accent);
+  color: var(--gg-paper);
+}

@@ -166,11 +166,19 @@ INHALT:
     try:
         gh.get_file(law_index_path, branch)
     except Exception:
-        law_name = law_dir.split("/")[-1].upper()
+        law_abbrev = law_dir.split("/")[-1].upper()
+        law_content = f"""---
+title: "{law_abbrev} — Gesetzestitel"
+weight: 1
+description: "Bundesgesetz ... (SR ...)"
+---
+
+Kommentar zum Bundesgesetz. Tippe auf einen Artikel, um den Kommentar zu öffnen.
+"""
         gh.create_or_update_file(
             path=law_index_path,
-            content=f"---\ntitle: {law_name}\nweight: 1\n---\n",
-            message=f"Neues Gesetz: {law_name}",
+            content=law_content,
+            message=f"Neues Gesetz: {law_abbrev}",
             branch=branch,
         )
 
@@ -206,7 +214,17 @@ def _verify_pr_structure(diff: str) -> list[str]:
                 added_lines = "\n".join(
                     l[1:] for l in file_section.group().splitlines() if l.startswith("+")
                 )
-                for field in ["title:", "weight:", "date:", "lastmod:", "description:", "tags:", "agent_verified:"]:
+                # Unterscheide zwischen Artikel-Kommentaren und Gesetzesübersichten
+                is_article = re.search(r"/art-\d+/_index\.md$", path)
+
+                if is_article:
+                    # Artikel-Kommentar: 7 Felder erforderlich
+                    required_fields = ["title:", "weight:", "date:", "lastmod:", "description:", "tags:", "agent_verified:"]
+                else:
+                    # Gesetzesübersicht: 3 Felder erforderlich
+                    required_fields = ["title:", "weight:", "description:"]
+
+                for field in required_fields:
                     if field not in added_lines:
                         errors.append(f"Fehlendes Frontmatter-Feld '{field}' in {path}")
 
