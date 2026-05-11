@@ -144,7 +144,10 @@ Continuously research which topics and decisions are still **missing** from the 
    - Kommentardatei:       `_index.md`
    - Rechtsprechungsdatei: `rechtsprechung.md`
 
-3. **Bestandsaufnahme:** Ordner scannen. Bestehende `.md`-Dateien lesen.
+3. **Bestandsaufnahme:**
+   - Prüfe: Existiert `content/kommentar/{gesetz}/_index.md` (Gesetzesübersicht)?
+   - Falls NEIN: Vor dem ersten Artikel anlegen (siehe Teil C.5)
+   - Falls JA: Ordner scannen. Bestehende `.md`-Dateien lesen.
 
 4. **BEKANNTE_ENTSCHEIDE-Inventar** erstellen (für Duplikationsvermeidung):
    Alle Urteilsreferenzen aus `_index.md` und `rechtsprechung.md` extrahieren:
@@ -390,6 +393,34 @@ agent_verified: true
 
 ---
 
+# TEIL C.5 — GESETZESÜBERSICHT (_index.md FÜR GESETZESORDNER)
+
+Für jedes neue Gesetz: Zuerst einen Ordner `content/kommentar/{gesetz}/` anlegen und darin eine `_index.md` für die Gesetzesübersicht.
+
+**Pfad:** `/opt/glossagens/content/kommentar/{gesetz}/_index.md`
+
+**Frontmatter:**
+```yaml
+---
+title: "{ABBREV} — {Gesetzestitel}"
+weight: {N}
+description: "Bundesgesetz ... (SR {SRNR})"
+---
+```
+
+**Inhalt (eine bis zwei Zeilen):**
+```markdown
+Kommentar zum [Bundesgesetz ... vom ... (SR {SRNR})](https://www.fedlex.admin.ch/eli/cc/.../de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+```
+
+**Wichtig:**
+- **Kein `date`, `lastmod`, `tags`, `agent_verified`** — das ist nur für Artikel-Kommentare (`art-{NNN}/_index.md`)!
+- **Weight** bestimmt die Reihenfolge im Menü (OR=1, StPO=2, BewG=3, EMRK=4, ZGB=5, etc.)
+- **Description** sollte die SR-Nummer und Rechtsgebiet kurz nennen
+- **Link auf Fedlex** (wenn die Datei die offizielle Norm enthält)
+
+---
+
 # TEIL D — QUALITÄTSKONTROLLE
 
 Vor jedem Commit durchlaufen:
@@ -402,6 +433,7 @@ Vor jedem Commit durchlaufen:
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
 
 **Struktur:**
+- [ ] **Gesetzesübersicht vorhanden?** `content/kommentar/{gesetz}/_index.md` mit minimalem Frontmatter (title, weight, description)?
 - [ ] Page Bundle korrekt: `art-{NNN}/_index.md` + `art-{NNN}/rechtsprechung.md`?
 - [ ] Alle 7 Frontmatter-Felder: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`?
 - [ ] `agent_verified: false` in `rechtsprechung.md`?
@@ -483,6 +515,8 @@ Aktualisierungsdatum: {DATUM}
 
 ## Pitfalls
 
+- **Gesetzesübersicht vergessen**: Für jedes neue Gesetz MUSS zuerst `content/kommentar/{gesetz}/_index.md` angelegt werden — sonst zeigt Hugo keine Menü-Übersicht und die Artikel sind schwer zu finden
+- **Falsches Frontmatter in Gesetzesübersicht**: Keine `date`, `lastmod`, `tags`, `agent_verified` — nur `title`, `weight`, `description` (siehe Teil C.5)
 - **Page Bundle vs. Flat File**: Immer `art-{NNN}/_index.md` — nie `art-{NNN}.md`
 - **rechtsprechung.md**: Liegt im Bundle (`art-{NNN}/rechtsprechung.md`), nicht daneben
 - **agent_verified**: In `rechtsprechung.md` immer `false`; in `_index.md` erst nach Verifikation `true`
