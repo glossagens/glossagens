@@ -52,6 +52,14 @@
           {{- $historyURL := replace $editURL "/edit/" "/commits/" -}}
           <a class="hx:inline-block hx:rounded-sm hx:text-xs hx:font-medium hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50 hx:hextra-focus-visible-inset" href="{{ $historyURL }}" target="_blank" rel="noreferrer">Änderungsverlauf</a>
         {{- end -}}
+
+        {{/* Anregung zu dieser Seite — nur auf Kommentar-Seiten */}}
+        {{- if hasPrefix .RelPermalink "/kommentar/" -}}
+          {{- $artikel := .Title -}}
+          {{- $issueTitle := printf "[Anregung] %s" $artikel -}}
+          {{- $suggestURL := printf "https://github.com/glossagens/glossagens/issues/new?template=anregung.yml&title=%s&artikel=%s" ($issueTitle | urlquery) ($artikel | urlquery) -}}
+          <a class="hx:inline-block hx:rounded-sm hx:text-xs hx:font-medium hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50 hx:hextra-focus-visible-inset" href="{{ $suggestURL | safeURL }}" target="_blank" rel="noreferrer">Anregung zu dieser Seite</a>
+        {{- end -}}
         {{/* Scroll To Top */}}
         <button id="backToTop" tabindex="-1" class="hx:cursor-pointer hx:transition-all hx:duration-75 hx:opacity-0 hx:text-xs hx:font-medium hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50">
           <span>
