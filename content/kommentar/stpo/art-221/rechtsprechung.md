@@ -4,35 +4,116 @@ weight: 99
 date: 2026-05-11
 lastmod: 2026-05-11
 description: "Übersicht der Entscheide zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft"
-tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "qualifizierte Wiederholungsgefahr"]
-agent_verified: false
+tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft"]
+agent_verified: true
 ---
 
-## Leitentscheide
+# Rechtsprechungssammlung zu Art. 221 StPO
 
-- **[BGE 137 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_13)** — Grundstein der richterrechtlichen qualifizierten Wiederholungsgefahr. Auch ohne frühere gleichartige Vortaten kann Wiederholungsgefahr bejaht werden, wenn die Sicherheit anderer nicht weniger gefährdet ist als bei Ausführungsgefahr. Teleologische Auslegung des Vortatenerfordernisses mit grosser Zurückhaltung.
+## Bundesgerichtsentscheide (BGE)
 
-- **[BGE 143 IV 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_9)** — Leitentscheid zur Wiederholungsgefahr mit Praxisänderung: Eine ungünstige (statt sehr ungünstige) Rückfallprognose genügt. Drei konstitutive Elemente: Vortatenerfordernis, erhebliche Sicherheitsgefährdung, ungünstige Rückfallprognose. Umgekehrte Proportionalität. Bei Kindern strenger Massstab.
+### [BGE 117 Ia 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_Ia_69)
+- **Datum**: 14. Februar 1991
+- **Thema**: Art. 221 Abs. 1 lit. a StPO; Fluchtgefahr; Indizien
+- **Kernaussage**: Die Schwere der zu erwartenden Sanktion allein rechtfertigt Fluchtgefahr nicht. Massgebend sind die konkreten Umstände (familiäre Bindungen, berufliche Situation etc.; E. 3c).
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr)
 
-- **[BGE 150 IV 149](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_149)** — Erster Leitentscheid zu Art. 221 Abs. 1bis StPO (neues Recht). Kumulative Voraussetzungen bestätigt. Delikte nach lit. a sind per se unmittelbar sicherheitsgefährdend. Umgekehrte Proportionalität gilt weiterhin. Keine sehr hohe Eintretenswahrscheinlichkeit bei drohenden schweren Gewaltverbrechen erforderlich.
+---
 
-- **[BGE 150 IV 360](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_360)** — Zweiter Leitentscheid zu Art. 221 Abs. 1bis StPO. Ausnahmecharakter bestätigt. «Unmittelbar» = Bedrohung muss akut sein, Verbrechen drohen in naher Zukunft. Auch ohne Vorstrafen kann Haft angeordnet werden. Ersatzmassnahmen auf Mitwirkungsbereitschaft beruhend sind ungenügend.
+### [BGE 137 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_13)
+- **Datum**: 14. März 2011
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; qualifizierte Wiederholungsgefahr; teleologische Auslegung
+- **Kernaussage**: Grundstein der richterrechtlichen qualifizierten Wiederholungsgefahr. Auch ohne frühere gleichartige Vortaten kann Wiederholungsgefahr bejaht werden, wenn die Sicherheit anderer nicht weniger gefährdet ist als bei Ausführungsgefahr (Abs. 2). Teleologische Auslegung des Vortatenerfordernisses mit grosser Zurückhaltung (E. 4.3).
+- **Einschlägig für**: Abs. 1 lit. c (Wiederholungsgefahr), Abs. 1bis (qualifizierte Wiederholungsgefahr — Vorgeschichte)
 
-## Weitere Entscheide
+---
 
-### Fluchtgefahr (Abs. 1 lit. a)
+### [BGE 137 IV 84](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_84)
+- **Datum**: 6. April 2011
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; Vortatenerfordernis; Sprachfassungsvergleich
+- **Kernaussage**: Die deutsche und italienische Fassung von Art. 221 Abs. 1 lit. c StPO ist missglückt; massgeblich ist die französische Fassung («des crimes ou des délits graves»). Neben rechtskräftiger Verurteilung genügt auch ein glaubhaftes Geständnis oder eine erdrückende Beweislage (E. 3.2).
+- **Einschlägig für**: Abs. 1 lit. c (Vortatenerfordernis, Deliktsschwere)
 
-- **[BGE 117 Ia 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_Ia_69)** — Schwere der zu erwartenden Sanktion allein rechtfertigt Fluchtgefahr nicht. Konkrete Umstände massgebend (E. 3c).
-- **[BGE 145 IV 503](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_503)** — Auch bei 82-jähriger verurteilter Person mit 18 Jahren Freiheitsstrafe kann Fluchtgefahr bejaht werden. Elektronischer Fussring ungenügend.
+---
 
-### Kollusionsgefahr (Abs. 1 lit. b)
+### [BGE 137 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_122)
+- **Datum**: 16. Mai 2011
+- **Thema**: Art. 221 Abs. 1 lit. a und b StPO; Fluchtgefahr und Kollusionsgefahr; Ersatzmassnahmen
+- **Kernaussage**: Die theoretische Möglichkeit von Verdunkelungshandlungen genügt nicht; konkrete Indizien sind erforderlich. Je weiter das Verfahren fortgeschritten, desto höhere Anforderungen an Kollusionsgefahr. Fluchtgefahr kann Aufenthaltsbeschränkung als Ersatzmassnahme rechtfertigen (E. 3.1, 4.2).
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr), Abs. 1 lit. b (Kollusionsgefahr)
 
-- **[BGE 137 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_122)** — Theoretische Möglichkeit genügt nicht; konkrete Indizien erforderlich. Je weiter das Verfahren, desto höhere Anforderungen.
-- **[BGer 1B_612/2021 vom 24. November 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_612_2021)** — Nach dem erstinstanzlichen Hauptverfahren fehlen regelmässig konkrete Verdunkelungsgefahren.
-- **[BGer 7B_231/2025 vom 2. April 2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_231_2025)** — Kollusionsgefahr bei Betrug verneint. Zirkelschluss unzulässig: Haft allein rechtfertigt keine Kollusionsgefahr.
+---
 
-### Wiederholungsgefahr (Abs. 1 lit. c)
+### [BGE 143 IV 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_9)
+- **Datum**: 23. November 2016
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; Haftgrund der Wiederholungsgefahr; Praxisänderung
+- **Kernaussage**: Leitentscheid zur Wiederholungsgefahr. Praxisänderung: Vom zwingenden Erfordernis der «sehr ungünstigen» Rückfallprognose wird abgerückt; eine «ungünstige» Rückfallprognose ist notwendig und grundsätzlich auch ausreichend. Drei konstitutive Elemente: (1) Vortatenerfordernis, (2) erhebliche Sicherheitsgefährdung, (3) ungünstige Rückfallprognose. Umgekehrte Proportionalität bestätigt. Bei Kindern strenger Massstab (E. 2.5–2.10).
+- **Einschlägig für**: Abs. 1 lit. c (Wiederholungsgefahr, Rückfallprognose, umgekehrte Proportionalität)
 
-- **[BGE 137 IV 84](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_84)** — Sprachfassungsvergleich: massgeblich ist die französische Fassung. Neben rechtskräftiger Verurteilung genügt Geständnis oder erdrückende Beweislage.
-- **[BGE 146 IV 136](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_136)** — Vermögensdelikte nur ausnahmsweise erhebliche Sicherheitsgefährdung. Eigenständige Tragweite der Sicherheitsgefährdung. Gewerbsmässiger Betrug ohne besonders schwere Schäden verneint.
-- **[BGer 1B 195/2023 vom 27. April 2023](https://mcp.opencaselaw.ch/entscheid/bger_1B_195_2023)** — Ersttäter mit mittelgradiger Rückfallgefahr: Wiederholungsgefahr verneint, da Risiken nicht untragbar hoch.
+---
+
+### [BGE 145 IV 503](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_503)
+- **Datum**: 17. September 2019
+- **Thema**: Art. 221 Abs. 1 lit. a StPO; Fluchtgefahr bei hohem Strafmass
+- **Kernaussage**: Auch bei einer 82-jährigen verurteilten Person (18 Jahre Freiheitsstrafe) kann konkrete Fluchtgefahr bejaht werden. Elektronischer Fussring als ungenügend. Fluchtwahrscheinlichkeit steigt mit der Höhe der zu erwartenden Sanktion (E. 3.2).
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr)
+
+---
+
+### [BGE 146 IV 136](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_136)
+- **Datum**: 29. Januar 2020
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; Wiederholungsgefahr bei Vermögensdelikten; erhebliche Sicherheitsgefährdung
+- **Kernaussage**: Vermögensdelikte können nur ausnahmsweise eine erhebliche Sicherheitsgefährdung begründen, wenn sie die Geschädigten besonders hart treffen. Bei gewerbsmässigem Betrug ohne besonders schwere Einzelschäden und ohne Gewaltanwendung verneint. Die erhebliche Sicherheitsgefährdung hat eigenständige Tragweite. Umgekehrte Proportionalität bestätigt (E. 2.2–2.8).
+- **Einschlägig für**: Abs. 1 lit. c (Wiederholungsgefahr, Vermögensdelikte, erhebliche Sicherheitsgefährdung)
+
+---
+
+### [BGE 150 IV 149](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_149)
+- **Datum**: 5. März 2024 (7B_155/2024)
+- **Thema**: Art. 221 Abs. 1bis StPO; qualifizierte Wiederholungsgefahr (erster Leitentscheid zum neuen Recht)
+- **Kernaussage**: Erste Anwendung von Art. 221 Abs. 1bis StPO. Kumulative Voraussetzungen: (a) qualifizierte Anlasstat (kein Vortatenerfordernis), (b) ernsthafte und unmittelbare Gefahr eines gleichartigen schweren Verbrechens. Delikte nach lit. a sind per se unmittelbar sicherheitsgefährdend. Umgekehrte Proportionalität gilt weiterhin. Keine «sehr hohe» Eintretenswahrscheinlichkeit bei drohenden schweren Gewaltverbrechen erforderlich. Prüfung sowohl nach altem als auch nach neuem Recht (E. 3.1–3.2).
+- **Einschlägig für**: Abs. 1bis (qualifizierte Wiederholungsgefahr, Anlasstat, Prognoseelement, umgekehrte Proportionalität, intertemporales Recht)
+
+---
+
+### [BGE 150 IV 360](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_360)
+- **Datum**: 25. Juni 2024 (7B_583/2024, 7B_653/2024)
+- **Thema**: Art. 221 Abs. 1bis StPO; qualifizierte Wiederholungsgefahr; Unmittelbarkeit; Ersatzmassnahmen
+- **Kernaussage**: Abs. 1bis ist ein ausnahmsweise zulässiger Haftgrund. «Schweres Verbrechen» in lit. b bezieht sich auf die in lit. a genannten geschützten Rechtsgüter. «Unmittelbar» heisst: Bedrohung muss akut sein, Verbrechen drohen in naher Zukunft. Auch ohne Vorstrafen kann Haft angeordnet werden, wenn psychiatrisches Gutachten ein unmittelbares Risiko belegt. Ersatzmassnahmen, die auf der Mitwirkungsbereitschaft beruhen, sind ungenügend (E. 4.2–5.2).
+- **Einschlägig für**: Abs. 1bis (qualifizierte Wiederholungsgefahr, Unmittelbarkeit, Ersatzmassnahmen)
+
+---
+
+## Weitere Bundesgerichtsentscheide (nicht publiziert)
+
+### [BGer, 7B 1440/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1440_2024) vom 5. Februar 2025, E. 3
+- **Thema**: qualifizierte Wiederholungsgefahr
+- **Kernaussage**: Art. 221 Abs. 1bis StPO erlaubt ausnahmsweise Untersuchungshaft, wenn der Beschuldigte dringend verdächtigt ist, durch ein Verbrechen oder schweres Vergehen die physische, psychische oder sexuelle Integrität einer Person schwer beeinträchtigt zu haben, und wenn die ernsthafte und unmittelbare Gefahr besteht, er werde ein gleichartiges schweres Verbrechen begehen. Eine vorherige Verurteilung ist nicht erforderlich. Die Gefährprognose muss auf konkrete Umstände und expertise gestützt sein.
+- **Einschlägig für**: Art. 221 Abs. 1bis (insbesondere lit. a und b)
+
+### [BGer, 7B_671/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_671_2024) vom 10. Juli 2024, E. 2.2.2
+- **Thema**: qualifizierte Wiederholungsgefahr
+- **Kernaussage**: Für die Annahme qualifizierter Wiederholungsgefahr nach Art. 221 Abs. 1bis StPO ist keine vorherige Verurteilung erforderlich. Es reicht aus, dass die beschuldigte Person dringend verdächtigt ist, durch ein Verbrechen oder schweres Vergehen die Integrität einer Person schwer beeinträchtigt zu haben, und dass eine ernsthafte und unmittelbare Gefahr besteht, sie werde ein gleichartiges schweres Verbrechen verüben. Bei der Prognose ist das Schwere des drohenden Verbrechens gegen dessen Eintrittswahrscheinlichkeit abzuwägen (umgekehrte Proportionalität).
+- **Einschlägig für**: Art. 221 Abs. 1bis lit. b (ernsthafte und unmittelbare Gefahr für ein gleichartiges schweres Verbrechen)
+
+### BGer 7B 252/2024 vom 18. März 2024, E. 2.1
+- **Thema**: Ausführungsgefahr
+- **Kernaussage**: Ausführungsgefahr nach Art. 221 Abs. 2 StPO liegt vor, wenn ernsthaft zu befürchten ist, dass die Person ihre Drohung, ein schweres Verbrechen auszuführen, wahrmacht. Dieser Haftgrund ist selbstständig und setzt keinen dringenden Tatverdacht voraus. Die Drohung muss nicht notwendigerweise Angst oder Schrecken beim Opfer auslösen; es reicht die Ernsthaftigkeit der Drohung und eine ungünstige Legalprognose.
+- **Einschlägig für**: Art. 221 Abs. 2 (Drohung, ein schweres Verbrechen auszuführen)
+
+### [1B_612/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_612_2021) vom 24. November 2021
+- **Thema**: Art. 221 Abs. 1 lit. b StPO; Kollusionsgefahr nach erstinstanzlichem Hauptverfahren
+- **Kernaussage**: Nach dem erstinstanzlichen Hauptverfahren, in dem die Zeugenaussagen bereits feststehen, fehlen regelmässig konkrete Verdunkelungsgefahren.
+- **Einschlägig für**: Abs. 1 lit. b (Kollusionsgefahr)
+
+### 1B_195/2023 vom 27. April 2023
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; Wiederholungsgefahr bei Ersttäter
+- **Kernaussage**: Bei einem Ersttäter mit «mittelgradiger» Rückfallgefahr wurde die Wiederholungsgefahr verneint, da die Risiken nicht «untragbar hoch» waren. Bestätigt die restriktive Handhabung des Haftgrunds.
+- **Einschlägig für**: Abs. 1 lit. c (Wiederholungsgefahr, Ersttäter)
+
+### 7B_231/2025 vom 2. April 2025
+- **Thema**: Art. 221 Abs. 1 lit. b StPO; Kollusionsgefahr; Zirkelschlussverbot
+- **Kernaussage**: Kollusionsgefahr wurde bei qualifiziertem Betrug verneint: keine Vier-Augen-Delikte, kein familiäres Umfeld, kein kriminelles Netzwerk. Zirkelschluss unzulässig: Haft allein rechtfertigt keine Kollusionsgefahr.
+- **Einschlägig für**: Abs. 1 lit. b (Kollusionsgefahr, Zirkelschlussverbot)
+
+*Letzte Aktualisierung: 11. Mai 2026*
