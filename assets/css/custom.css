@@ -67,7 +67,9 @@ article p,
   font-family: 'Inter', sans-serif;
   color: var(--gg-ink-2);
 }
-.dark .hextra-content p, .dark article p { color: #d3cebf; }
+.dark .hextra-content p, 
+.dark article p, 
+.dark .content p { color: #d3cebf; }
 
 /* Links: dezent, Akzentfarbe nur auf Hover */
 .content a,
@@ -84,9 +86,17 @@ main a:not(.hextra-card):not(.hx-nav-link):hover {
   color: var(--gg-accent);
   border-bottom-color: var(--gg-accent);
 }
-.dark .content a, .dark article a {
+.dark .content a,
+.dark article a,
+.dark main a:not(.hextra-card):not(.hx-nav-link) {
   color: #ece6d8;
   border-bottom-color: #3a3530;
+}
+.dark .content a:hover,
+.dark article a:hover,
+.dark main a:not(.hextra-card):not(.hx-nav-link):hover {
+  color: #e26d6d;
+  border-bottom-color: #e26d6d;
 }
 
 /* =====================================================================
@@ -169,6 +179,11 @@ footer {
   background: var(--gg-paper-2) !important;
   box-shadow: none !important;
 }
+.dark .hextra-callout {
+  border-color: #3a3530;
+  border-left-color: #e26d6d;
+  background: #221f1c !important;
+}
 
 /* =====================================================================
    Sidebar
@@ -244,11 +259,20 @@ article table th {
   text-align: left;
   padding: 8px 10px;
 }
+.dark .content table th,
+.dark article table th {
+  color: #a39c91;
+  border-bottom-color: #ece6d8;
+}
 .content table td,
 article table td {
   border-bottom: 1px solid var(--gg-hair);
   padding: 8px 10px;
   vertical-align: top;
+}
+.dark .content table td,
+.dark article table td {
+  border-bottom-color: #3a3530;
 }
 
 /* =====================================================================
