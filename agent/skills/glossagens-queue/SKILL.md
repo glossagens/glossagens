@@ -22,14 +22,11 @@ The Glossagens agent runs on **localhost:8000** (systemd service: `glossagens-ag
 | `/opt/glossagens/agent/webhook_server.py` | FastAPI endpoints (/webhook, /pending, /queue, /approve, /reject) |
 | `/var/lib/glossagens/queue.db` | SQLite queue database |
 
-## Two input channels
+## Input channel
 
-| Channel | When | Agent action |
-|---------|------|--------------|
-| **GitHub Issue** | Someone *requests* a commentary | Agent *generates* content, opens PR |
-| **GitHub Pull Request** | Someone *submits* ready-made content | Agent *verifies only* (structure + quality), merges or rejects |
+Only **GitHub Issues** are queued. The agent generates a commentary from an Issue and opens a PR. PRs are **not** auto-queued and are **not** auto-verified by the agent — the owner decides on PRs directly (this chat). PR merges go through `gh pr merge` or `/approve` on a manually-enqueued PR row, which now performs a plain merge with no LLM verification and no auto-close.
 
-Both channels feed into the same queue and use the same `/approve` / `/reject` endpoints. PRs skip LLM generation and go straight to verification.
+The webhook reconciles PR state: if a PR is closed/merged on GitHub, any stale queue row for that PR is marked `executed`/`closed` automatically. `/pending` also reconciles live against GitHub before returning results, so already-merged PRs never appear as pending.
 
 ## API Endpoints (no auth required)
 
@@ -60,15 +57,16 @@ else:
 ## Approve a Submission
 
 ```bash
-# IMPORTANT: For Issues, LLM generation takes 2-5 minutes. Use -m 360 (6 min timeout).
-# For PRs (verify-only), approval is faster (~30s) but the same timeout applies.
+# Issue approval triggers LLM content generation (2-5 min). Use -m 360.
 curl -s -m 360 -X POST \
   -H "Content-Type: application/json" \
   http://localhost:8000/approve \
   -d '{"id": <ID>, "instruction": "<optional instruction>"}'
 ```
 
-**Timeout pitfall:** Issue approval triggers LLM content generation (2-5 min). PR approval only runs verification (~30s). Default curl timeout (120s) may still fail for issues — always use `-m 360` or higher.
+**Approve semantics:**
+- **Issue items:** LLM generates the commentary and opens a PR. 2–5 min runtime, use `-m 360`.
+- **PR items (only if manually inserted into the queue):** plain merge, no LLM verification, no auto-close. If the merge fails (conflicts etc.), use `gh pr merge` directly.
 
 ## Reject a Submission
 

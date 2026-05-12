@@ -194,76 +194,16 @@ Kommentar zum Bundesgesetz. Tippe auf einen Artikel, um den Kommentar zu öffnen
     return f"PR #{pr_nr} erstellt: {index_path}"
 
 
-def _verify_pr_structure(diff: str) -> list[str]:
-    """Prüft Page-Bundle-Struktur im Diff. Gibt Liste von Fehlern zurück."""
-    import re
-    errors = []
-
-    added_files = re.findall(r"^\+\+\+ b/(content/kommentar/.+)$", diff, re.MULTILINE)
-
-    for path in added_files:
-        # Neue Artikel müssen als Page Bundle vorliegen: .../art-NNN/_index.md
-        if re.search(r"/art-\d+\.md$", path):
-            errors.append(f"Flat-File statt Page Bundle: {path} → sollte {path[:-3]}/_index.md sein")
-        # Frontmatter-Pflichtfelder prüfen (nur für _index.md)
-        if path.endswith("/_index.md"):
-            file_section = re.search(
-                rf"\+\+\+ b/{re.escape(path)}.+?(?=\ndiff |\Z)", diff, re.DOTALL
-            )
-            if file_section:
-                added_lines = "\n".join(
-                    l[1:] for l in file_section.group().splitlines() if l.startswith("+")
-                )
-                # Unterscheide zwischen Artikel-Kommentaren und Gesetzesübersichten
-                is_article = re.search(r"/art-\d+/_index\.md$", path)
-
-                if is_article:
-                    # Artikel-Kommentar: 7 Felder erforderlich
-                    required_fields = ["title:", "weight:", "date:", "lastmod:", "description:", "tags:", "agent_verified:"]
-                else:
-                    # Gesetzesübersicht: 3 Felder erforderlich
-                    required_fields = ["title:", "weight:", "description:"]
-
-                for field in required_fields:
-                    if field not in added_lines:
-                        errors.append(f"Fehlendes Frontmatter-Feld '{field}' in {path}")
-
-    return errors
-
-
 def _execute_pr_merge(item: dict) -> str:
-    """Verifiziert PR-Inhalt (Struktur + Qualität) und merged bei Bestehen."""
+    """Merged den PR ohne autonome Verifikation.
+
+    Der Owner entscheidet über PRs direkt (z. B. via Telegram-Chat). `/approve`
+    bedeutet hier ausschliesslich: jetzt mergen. Keine LLM-Verifikation, kein
+    automatisches Schliessen.
+    """
     pr_nr = item["github_id"]
-    diff = gh.get_pr_diff(pr_nr)
-
-    # 1. Strukturelle Prüfung (Page Bundle, Frontmatter)
-    struct_errors = _verify_pr_structure(diff)
-    if struct_errors:
-        error_list = "\n".join(f"- {e}" for e in struct_errors)
-        msg = f"Strukturprüfung fehlgeschlagen:\n{error_list}"
-        gh.comment_issue(pr_nr, msg)
-        gh.close_pr(pr_nr)
-        return f"PR #{pr_nr} abgelehnt (Struktur): {'; '.join(struct_errors)}"
-
-    # 2. Inhaltliche Prüfung durch LLM
-    verdict = generate(
-        system="""Du prüfst Änderungen an einem juristischen Gesetzeskommentar (Glossagens).
-Beurteile ob die Änderung:
-(1) sachlich korrekt ist und keine erfundenen Zitate enthält
-(2) den akademischen Zitierstil einhält
-(3) kohärent mit dem bestehenden Kontext ist
-(4) dem Hugo Page Bundle Format entspricht (_index.md im art-NNN/ Verzeichnis)
-Antworte mit APPROVE oder REJECT, gefolgt von einer Begründung (max. 2 Sätze).""",
-        user=f"Diff:\n{diff[:4000]}",
-    )
-
-    if verdict.upper().startswith("APPROVE"):
-        gh.merge_pr(pr_nr, f"Verifiziert: {verdict}")
-        return f"PR #{pr_nr} gemerged. Begründung: {verdict}"
-    else:
-        gh.comment_issue(pr_nr, f"Inhaltliche Verifikation fehlgeschlagen:\n\n{verdict}")
-        gh.close_pr(pr_nr)
-        return f"PR #{pr_nr} abgelehnt (Inhalt): {verdict}"
+    gh.merge_pr(pr_nr, "Approved by owner")
+    return f"PR #{pr_nr} gemerged."
 
 
 # ── Reject ────────────────────────────────────────────────────────────────────

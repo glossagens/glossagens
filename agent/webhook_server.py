@@ -113,26 +113,23 @@ async def github_webhook(
         )
         return {"status": "queued", "id": item_id}
 
-    elif x_github_event == "pull_request" and action == "opened":
-        item_id = _enqueue(
-            type_="pr",
-            github_id=event["pull_request"]["number"],
-            title=event["pull_request"]["title"],
-            body=event["pull_request"]["body"] or "",
-            url=event["pull_request"]["html_url"],
-        )
-        send_email(
-            subject=f"Neuer PR #{item_id}: {event['pull_request']['title']}",
-            body=(
-                f"Neuer Pull Request zur Verifikation:\n\n"
-                f"Titel: {event['pull_request']['title']}\n"
-                f"URL:   {event['pull_request']['html_url']}\n\n"
-                f"Freigeben: approve {item_id}\n"
-                f"Ablehnen:  reject {item_id} <Begründung>"
-            ),
-        )
-        return {"status": "queued", "id": item_id}
+    elif x_github_event == "pull_request" and action in ("closed", "merged"):
+        # Wenn ein PR auf GitHub geschlossen/gemerged wird, lokale Queue-Zeilen
+        # mit derselben github_id als 'executed' markieren, damit sie nicht
+        # weiter in /pending auftauchen.
+        pr_nr = event["pull_request"]["number"]
+        merged = event["pull_request"].get("merged", False)
+        with db() as conn:
+            conn.execute(
+                "UPDATE queue SET status = ?, result = ? "
+                "WHERE type = 'pr' AND github_id = ? AND status IN ('pending','processing')",
+                ("executed" if merged else "closed", "merged" if merged else "closed on github", pr_nr),
+            )
+        return {"status": "reconciled", "pr": pr_nr}
 
+    # PRs werden bewusst nicht eingequeued: der Owner entscheidet direkt über
+    # PRs (z. B. via Chat) und merged manuell. Issues bleiben der einzige
+    # Eingangskanal für die Queue.
     return {"status": "ignored"}
 
 
@@ -147,11 +144,44 @@ def _enqueue(type_: str, github_id: int, title: str, body: str, url: str) -> int
 
 @app.get("/pending")
 def list_pending():
+    """Listet pending Items und reconciled PR-Einträge gegen GitHub.
+
+    PRs, die in der lokalen Queue noch als pending stehen, aber auf GitHub
+    bereits gemerged oder geschlossen wurden (z. B. manueller Merge ausserhalb
+    des Agents), werden lokal als 'executed'/'closed' markiert und aus der
+    Antwort entfernt.
+    """
+    import github_client as gh
+
     with db() as conn:
-        rows = conn.execute(
+        rows = [dict(r) for r in conn.execute(
             "SELECT * FROM queue WHERE status = 'pending' ORDER BY created_at DESC"
-        ).fetchall()
-    return [dict(r) for r in rows]
+        ).fetchall()]
+
+    still_pending = []
+    for item in rows:
+        if item["type"] == "pr" and item["github_id"]:
+            try:
+                st = gh.get_pr_state(item["github_id"])
+            except Exception:
+                still_pending.append(item)
+                continue
+            if st["merged"]:
+                _mark(item["id"], "executed", "merged on github")
+                continue
+            if st["state"] == "closed":
+                _mark(item["id"], "closed", "closed on github")
+                continue
+        still_pending.append(item)
+    return still_pending
+
+
+def _mark(item_id: int, status: str, result: str):
+    with db() as conn:
+        conn.execute(
+            "UPDATE queue SET status = ?, result = ? WHERE id = ?",
+            (status, result, item_id),
+        )
 
 
 @app.get("/queue")
