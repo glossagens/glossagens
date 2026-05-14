@@ -8,3 +8,4 @@ venv/
 .env.save
 __pycache__/
 *.pyc
+agent/skills/
