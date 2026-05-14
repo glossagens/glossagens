@@ -1,4 +1,15 @@
+---
+title: Art. 47 StGB — Strafzumessung
+weight: 1
+date: 2026-05-14
+lastmod: 2026-05-14
+description: "Kommentar zu Art. 47 StGB: Grundsätze der Strafzumessung, Verschulden und Täterkomponenten."
+tags: ["Strafzumessung", "Verschulden", "StGB", "Sanktionen"]
+agent_verified: true
+---
+
 # Art. 47 StGB
+
 
 ## Gesetzestext
 

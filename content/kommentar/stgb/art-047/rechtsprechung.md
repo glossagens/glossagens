@@ -1,4 +1,11 @@
+---
+title: Rechtsprechung zu Art. 47 StGB
+weight: 2
+description: "Sammlung der wichtigsten Bundesgerichtsentscheide zur Strafzumessung nach Art. 47 StGB."
+---
+
 # Rechtsprechungssammlung zu Art. 47 StGB
+
 
 ## Bundesgerichtsentscheide (BGE)
 
