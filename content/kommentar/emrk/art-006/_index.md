@@ -40,7 +40,7 @@ agent_verified: false
 - Art. 32 Abs. 2 BV: Verteidigungsrechte → Art. 6 Abs. 3 EMRK
 - Art. 10 StPO: Unschuldsvermutung und freie Beweiswürdigung → Art. 6 Abs. 2 EMRK
 
-**6** **Völkerrechtliche Parallelbestimmungen** Neben der EMRK enthalten weitere völkerrechtliche Abkommen strafverfahrensrechtliche Mindestgarantien: Art. 14 UNO-Pakt II (Verfahrensgarantien weitgehend parallel zu Art. 6 EMRK), Art. 7 EMRK (keine Strafe ohne Gesetz) und Art. 2 ZP VII EMRK (Berufungsrecht). Die Schweiz ist an diese Bestimmungen gleichermassen gebunden. Nach der Praxis des Bundesgerichts ist Art. 6 EMRK lex specialis gegenüber Art. 14 UNO-Pakt II, soweit beide Bestimmungen dieselben Garantien enthalten (BGE 127 I 38, E. 2c).
+**6** **Völkerrechtliche Parallelbestimmungen** Neben der EMRK enthalten weitere völkerrechtliche Abkommen strafverfahrensrechtliche Mindestgarantien: Art. 14 UNO-Pakt II (Verfahrensgarantien weitgehend parallel zu Art. 6 EMRK), Art. 7 EMRK (keine Strafe ohne Gesetz) und Art. 2 ZP VII EMRK (Berufungsrecht). Die Schweiz ist an diese Bestimmungen gleichermassen gebunden. Nach der Praxis des Bundesgerichts ist Art. 6 EMRK lex specialis gegenüber Art. 14 UNO-Pakt II, soweit beide Bestimmungen dieselben Garantien enthalten ([BGE 127 I 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_38), E. 2c).
 
 ### Materialien und Gesetzgebungsgeschichte
 

@@ -2,7 +2,7 @@
 title: "Art. 221 — Voraussetzungen für Untersuchungs- und Sicherheitshaft"
 weight: 221
 date: 2026-05-11
-lastmod: 2026-05-11
+lastmod: 2026-05-15
 description: "Kommentar zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft (Fluchtgefahr, Kollusionsgefahr, Wiederholungsgefahr, qualifizierte Wiederholungsgefahr, Ausführungsgefahr)"
 tags: ["StPO", "Untersuchungshaft", "Sicherheitshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 agent_verified: true
@@ -109,6 +109,12 @@ agent_verified: true
 ## Abs. 2 — Ausführungsgefahr
 
 **27** **Begriff und Voraussetzungen** Haft ist auch zulässig, wenn die ernsthafte und unmittelbare Gefahr besteht, eine Person werde ihre Drohung, ein schweres Verbrechen auszuführen, wahrmachen (Art. 221 Abs. 2 StPO). Die Bestimmung wurde im Rahmen der Revision vom 17. Juni 2022 neu gefasst (in Kraft seit 1. Januar 2024). Vorausgesetzt ist eine konkrete Drohung mit einem schweren Verbrechen sowie die ernsthafte und unmittelbare Gefahr der Ausführung. Der Haftgrund der Ausführungsgefahr ist der präventivste aller Haftgründe und steht der polizeilichen Sicherheitsmassnahme am nächsten (BBl 2006 1132 ad Art. 220).
+
+**28** **Ernsthafte und unmittelbare Gefahr** Die rein hypothetische Möglichkeit der Verübung von Delikten sowie die Wahrscheinlichkeit, dass nur geringfügige Straftaten verügt werden, reichen nicht aus, um Haft wegen Ausführungsgefahr zu begründen. Erforderlich ist eine sehr ungünstige Prognose. Massgeblich sind die konkreten Umstände des Einzelfalls, namentlich psychiatrische Gutachten, der bisherige Lebenslauf und die Art der drohenden Tat ([BGer 7B_427/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_427_2026), E. 3.2).
+
+**29** **Ersatzmassnahmen statt Haft bei Ausführungsgefahr** Besteht Ausführungsgefahr, so ist als Erstes zu prüfen, ob mildere Massnahmen (Art. 237 StPO) geeignet sind, die Gefahr zu bändigen. Strafprozessuale Haft darf nur als ultima ratio angeordnet oder aufrechterhalten werden. Wo sie durch mildere Massnahmen ersetzt werden kann, muss von ihrer Anordnung oder Aufrechterhaltung abgesehen werden. Ein Rayon- und Kontaktverbot (Art. 237 Abs. 2 lit. c und g StPO) kann die bestehende Ausführungsgefahr vermindern ([BGE 140 IV 19](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_19)). Ein gewisses Restrisiko, dass die angedrohte Straftat trotz Ersatzmassnahmen ausgeführt wird, besteht immer und wurde vom Gesetzgeber in Kauf genommen. Entscheidend ist, ob dieses Risiko mit den angeordneten Ersatzmassnahmen ausreichend reduziert werden kann ([BGer 7B_427/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_427_2026), E. 4.3.6).
+
+**30** **Psychiatrische Gutachten** Bei der Beurteilung der Ausführungsgefahr sind psychiatrische Gutachten von zentraler Bedeutung. Enthält ein Gutachten jedoch Hinweise, die die Prognose relativieren — etwa dass keine Eigen- oder Fremdgefährdung besteht oder dass ambulante Massnahmen ausreichend wären —, so darf das Gericht diese Hinweise nicht unbeachtet lassen. Vielmehr muss es die Geeignetheit von Ersatzmassnahmen anhand des aktuellen Gutachtens prüfen und darf nicht allein auf eine frühere, ungünstigere Prognose abstellen ([BGer 7B_427/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_427_2026), E. 4.3.3–4.3.5).
 
 ---
 
