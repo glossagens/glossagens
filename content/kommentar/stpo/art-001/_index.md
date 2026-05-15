@@ -46,7 +46,7 @@ Abs. 2 erkennt den **Vorrang besonderer Verfahrensvorschriften** anderer Bundesg
 | Bundesgesetz über das Bundesstrafgericht | Verfahren vor dem Bundesstrafgericht |
 | Betäubungsmittelgesetz | Einzelne verfahrensrechtliche Sonderregeln |
 
-Im Ordnungsbussenverfahren enthalten weder das Ordnungsbussengesetz noch die -verordnung eigene Zustellungsvorschriften; die StPO ist dort jedoch grundsätzlich nicht anwendbar (BGE 145 IV 252).
+Im Ordnungsbussenverfahren enthalten weder das Ordnungsbussengesetz noch die -verordnung eigene Zustellungsvorschriften; die StPO ist dort jedoch grundsätzlich nicht anwendbar ([BGE 145 IV 252](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_252)).
 
 ## IV. Abgrenzungen
 

@@ -26,7 +26,7 @@ Art. 11 StPO verankert den Grundsatz *ne bis in idem* als zwingendes Verfahrensh
 
 #### Tatidentität („gleiche Straftat")
 
-Für die Sperrwirkung des *ne bis in idem* muss **Identität der Tat** vorliegen. Die Rechtsprechung fragt nach dem **identischen oder im Wesentlichen gleichen Lebenssachverhalt** — nicht nach der rechtlichen Qualifikation (BGE 122 I 257; BGE 137 I 363). Verschiedene rechtliche Würdigungen desselben Sachverhalts ändern nichts an der Tatidentität.
+Für die Sperrwirkung des *ne bis in idem* muss **Identität der Tat** vorliegen. Die Rechtsprechung fragt nach dem **identischen oder im Wesentlichen gleichen Lebenssachverhalt** — nicht nach der rechtlichen Qualifikation ([BGE 122 I 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_I_257); [BGE 137 I 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363)). Verschiedene rechtliche Würdigungen desselben Sachverhalts ändern nichts an der Tatidentität.
 
 #### Rechtskraft
 
@@ -39,15 +39,15 @@ Vorläufige polizeiliche Ermittlungshandlungen zur Klärung der Tatidentität be
 
 #### Teileinstellung
 
-Die **Teileinstellung** wirft besondere Fragen auf: Sie kommt nur in Betracht, wenn mehrere Lebensvorgänge oder Taten im prozessualen Sinn zu beurteilen sind. Bezüglich bloss anderer rechtlicher Würdigung desselben Lebensvorgangs scheidet Teileinstellung aus (BGE 144 IV 362). Eine explizite Teileinstellung, die lediglich einzelne erschwerende Tatvorwürfe betrifft, führt nicht zur ne-bis-in-idem-Sperrwirkung für die gleichzeitig angeklagten Vorwürfe (BGE 148 IV 124).
+Die **Teileinstellung** wirft besondere Fragen auf: Sie kommt nur in Betracht, wenn mehrere Lebensvorgänge oder Taten im prozessualen Sinn zu beurteilen sind. Bezüglich bloss anderer rechtlicher Würdigung desselben Lebensvorgangs scheidet Teileinstellung aus ([BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362)). Eine explizite Teileinstellung, die lediglich einzelne erschwerende Tatvorwürfe betrifft, führt nicht zur ne-bis-in-idem-Sperrwirkung für die gleichzeitig angeklagten Vorwürfe ([BGE 148 IV 124](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124)).
 
 ### Konkurrenzverhältnisse
 
-Bei **echter Konkurrenz** verschiedener Taten entfaltet eine Teileinstellung keine Sperrwirkung für das aufrechterhaltene Verfahren (LU_GERICHTE 2N 15 133). Dagegen kann eine Teileinstellung bei **Idealkonkurrenz** (derselbe Lebenssachverhalt, verschiedene Qualifikationen) Sperrwirkung entfalten (BGE 144 IV 362).
+Bei **echter Konkurrenz** verschiedener Taten entfaltet eine Teileinstellung keine Sperrwirkung für das aufrechterhaltene Verfahren (LU_GERICHTE 2N 15 133). Dagegen kann eine Teileinstellung bei **Idealkonkurrenz** (derselbe Lebenssachverhalt, verschiedene Qualifikationen) Sperrwirkung entfalten ([BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362)).
 
 ### Parallelität Straf- und Verwaltungsverfahren
 
-Die im Strassenverkehrsrecht verankerte **Parallelität von Straf- und Verwaltungsverfahren** (Busse + Administrativmassnahme) hält vor Art. 4 Ziff. 1 Prot. 7 EMRK stand, sofern zwischen den beiden Verfahren ein hinreichend enger zeitlicher und materieller Zusammenhang besteht (BGE 137 I 363; EGMR Rivard c. Suisse).
+Die im Strassenverkehrsrecht verankerte **Parallelität von Straf- und Verwaltungsverfahren** (Busse + Administrativmassnahme) hält vor Art. 4 Ziff. 1 Prot. 7 EMRK stand, sofern zwischen den beiden Verfahren ein hinreichend enger zeitlicher und materieller Zusammenhang besteht ([BGE 137 I 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363); EGMR Rivard c. Suisse).
 
 ### Ausnahmen (Abs. 2)
 

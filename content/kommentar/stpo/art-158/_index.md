@@ -30,29 +30,29 @@ Art. 158 StPO konkretisiert die verfassungsrechtlichen guarantees des rechtliche
 
 #### Erstmaligkeit («erste Einvernahme»)
 
-Die Belehrungspflicht besteht nur bei der **ersten Einvernahme** als beschuldigte Person. Grundsätzlich muss die ausführliche Belehrung nicht vor jeder weiteren Einvernahme wiederholt werden (BGer 6B_518/2014).
+Die Belehrungspflicht besteht nur bei der **ersten Einvernahme** als beschuldigte Person. Grundsätzlich muss die ausführliche Belehrung nicht vor jeder weiteren Einvernahme wiederholt werden ([BGer 6B_518/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_518_2014)).
 
-**Erweiterung des Verfahrensgegenstands**: Der Begriff der «ersten Einvernahme» ist an den Verfahrensgegenstand gebunden. Erweitert sich dieser im Verlauf des Verfahrens, muss die beschuldigte Person erneut nach Abs. 1 belehrt werden (BGer 6B_359/2021).
+**Erweiterung des Verfahrensgegenstands**: Der Begriff der «ersten Einvernahme» ist an den Verfahrensgegenstand gebunden. Erweitert sich dieser im Verlauf des Verfahrens, muss die beschuldigte Person erneut nach Abs. 1 belehrt werden ([BGer 6B_359/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_359_2021)).
 
 #### Materieller Einvernahmebegriff
 
-Der **BGE 151 IV 73** prägt den materiellen Einvernahmebegriff: Die Erfragung des Zugangscodes zu einem Mobiltelefon der beschuldigten Person durch die Polizei im Rahmen einer Hausdurchsuchung stellt eine eigentliche Beschuldigteneinvernahme dar. Die überwiegende Lehre befürwortet einen materiellen Einvernahmebegriff hinsichtlich der Belehrungspflicht. Informelle polizeiliche Befragungen sind nur im Anfangsstadium zulässig; sobald die Rollenverteilung klar ist, ist Art. 158 Abs. 1 StPO anwendbar (BGer 6B_1067/2023).
+Der **[BGE 151 IV 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_73)** prägt den materiellen Einvernahmebegriff: Die Erfragung des Zugangscodes zu einem Mobiltelefon der beschuldigten Person durch die Polizei im Rahmen einer Hausdurchsuchung stellt eine eigentliche Beschuldigteneinvernahme dar. Die überwiegende Lehre befürwortet einen materiellen Einvernahmebegriff hinsichtlich der Belehrungspflicht. Informelle polizeiliche Befragungen sind nur im Anfangsstadium zulässig; sobald die Rollenverteilung klar ist, ist Art. 158 Abs. 1 StPO anwendbar ([BGer 6B_1067/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1067_2023)).
 
 #### Rollenwechsel (Auskunftsperson → beschuldigte Person)
 
-Wechselt die prozessuale Rolle von der Auskunftsperson (Art. 178 f. StPO) zur beschuldigten Person, so ist bei der nun folgenden Einvernahme **zwingend** nach Art. 158 Abs. 1 StPO zu belehren (BGer 6B_1025/2016).
+Wechselt die prozessuale Rolle von der Auskunftsperson (Art. 178 f. StPO) zur beschuldigten Person, so ist bei der nun folgenden Einvernahme **zwingend** nach Art. 158 Abs. 1 StPO zu belehren ([BGer 6B_1025/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_1025_2016)).
 
 ### Die einzelnen Hinweispflichten (Abs. 1 lit. a–d)
 
 #### lit. a — Deliktsvorhalt
 
-Der Beschuldigte muss darüber aufgeklärt werden, dass gegen ihn ein **Vorverfahren eingeleitet** worden ist und welche **Straftaten Gegenstand des Verfahrens** bilden. Vorzuhalten ist der konkrete äussere Lebenssachverhalt und der daran geknüpfte Deliktsvorwurf — nicht die genaue rechtliche Würdigung (BGE 141 IV 20; BGer 6B_1214/2019; BGer 6B_157/2016).
+Der Beschuldigte muss darüber aufgeklärt werden, dass gegen ihn ein **Vorverfahren eingeleitet** worden ist und welche **Straftaten Gegenstand des Verfahrens** bilden. Vorzuhalten ist der konkrete äussere Lebenssachverhalt und der daran geknüpfte Deliktsvorwurf — nicht die genaue rechtliche Würdigung ([BGE 141 IV 20](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_20); [BGer 6B_1214/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1214_2019); [BGer 6B_157/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_157_2016)).
 
-Der Vorhalt muss so konkret sein, dass die beschuldigte Person den gegen sie gerichteten Vorwurf **erfassen und sich verteidigen** kann. Ein knapper Vorhalt, der im Verlauf der Einvernahme konkretisiert wird, genügt, wenn die beschuldigte Person hinreichend informiert ist (BGer 6B_1214/2019).
+Der Vorhalt muss so konkret sein, dass die beschuldigte Person den gegen sie gerichteten Vorwurf **erfassen und sich verteidigen** kann. Ein knapper Vorhalt, der im Verlauf der Einvernahme konkretisiert wird, genügt, wenn die beschuldigte Person hinreichend informiert ist ([BGer 6B_1214/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1214_2019)).
 
 #### lit. b — Aussage- und Mitwirkungsverweigerungsrecht
 
-Der Hinweis auf das **Aussageverweigerungsrecht** konkretisiert den nemo-tenetur-Grundsatz. Er umfasst nicht nur das Selbstbelastungsprivileg, sondern auch das **spezifische Aussageverweigerungsrecht** bezüglich naher Angehöriger (Art. 168 Abs. 1 lit. a i.V.m. Art. 177 Abs. 3 Satz 1 StPO). Fehlt dieser spezifische Hinweis, entsteht ein partielles Beweisverwertungsverbot (BGer 1B_56/2021).
+Der Hinweis auf das **Aussageverweigerungsrecht** konkretisiert den nemo-tenetur-Grundsatz. Er umfasst nicht nur das Selbstbelastungsprivileg, sondern auch das **spezifische Aussageverweigerungsrecht** bezüglich naher Angehöriger (Art. 168 Abs. 1 lit. a i.V.m. Art. 177 Abs. 3 Satz 1 StPO). Fehlt dieser spezifische Hinweis, entsteht ein partielles Beweisverwertungsverbot ([BGer 1B_56/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_56_2021)).
 
 #### lit. c — Verteidigerbestellung
 
@@ -68,28 +68,28 @@ Die Sanktion bei fehlender oder mangelhafter Belehrung ist das **absolute Beweis
 
 1. **Kein Heilung**: Eine nachträgliche Belehrung heilt den Mangel nicht für die bereits gemachten Aussagen.
 2. **Keine Ausnahme**: Keine Durchbrechung des Verwertungsverbots, auch nicht bei schweren Straftaten (Unterschied zu Art. 141 Abs. 2 StPO).
-3. **Aktenentfernung**: Die unverwertbaren Aussagen sind auf Verlangen aus den Akten zu entfernen (Art. 141 Abs. 5 StPO; BGer 1B_48/2016).
+3. **Aktenentfernung**: Die unverwertbaren Aussagen sind auf Verlangen aus den Akten zu entfernen (Art. 141 Abs. 5 StPO; [BGer 1B 48/2016](https://mcp.opencaselaw.ch/entscheid/bger_1B_48_2016)).
 4. **Fernwirkung**: Nach der Änderung von Art. 141 Abs. 4 StPO (in Kraft seit 1.1.2024) sind auch die «Früchte des vergifteten Baumes» grundsätzlich unverwertbar (BGE 151 IV 73).
 
 ### Relative Wirkung
 
-Die Belehrungspflicht dient dem Schutz der **befragten Person**. Ein Dritter oder Mitbeschuldigter kann sich nicht auf einen Belehrungsmangel bei der Einvernahme eines Mitbeschuldigten berufen (BGer 6B_926/2023).
+Die Belehrungspflicht dient dem Schutz der **befragten Person**. Ein Dritter oder Mitbeschuldigter kann sich nicht auf einen Belehrungsmangel bei der Einvernahme eines Mitbeschuldigten berufen ([BGer 6B_926/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_926_2023)).
 
 ### Protokollierung
 
-Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 IV 20 E. 1.3.3). Die Bestimmungen über die Protokollierung von Einvernahmen sind zwingender Natur.
+Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; [BGE 141 IV 20](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_20) E. 1.3.3). Die Bestimmungen über die Protokollierung von Einvernahmen sind zwingender Natur.
 
 ### Kasuistik
 
 | Sachverhalt | Belehrung erforderlich? | Unverwertbar? | Quelle |
 |---|---|---|---|
 | PIN-Code-Erfragung ohne Belehrung | Ja (materieller Einvernahmebegriff) | Ja (absolut) | BGE 151 IV 73 |
-| Vorhalt: "Körperverletzung am [Datum] an [Ort]" | Ja, genügt | Nein | BGer 6B_157/2016 |
-| Fehlender Hinweis auf spezifisches Zeugnisverweigerungsrecht bezüglich Ehegatten | Ja | Ja (partiell) | BGer 1B_56/2021 |
-| Einvernahme als Polizeirapport ohne Belehrung | Ja | Ja | BGer 6B_234/2019 |
-| Erweiterter Verfahrensgegenstand ohne erneute Belehrung | Ja (erneut) | Ja | BGer 6B_359/2021 |
-| Informelle Befragung am Tatort (Anfangsstadium) | Nein | Nein | BGer 6B_1067/2023 |
-| Rollenwechsel: Auskunftsperson → beschuldigte Person | Ja | Ja | BGer 6B_1025/2016 |
+| Vorhalt: "Körperverletzung am [Datum] an [Ort]" | Ja, genügt | Nein | [BGer 6B_157/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_157_2016) |
+| Fehlender Hinweis auf spezifisches Zeugnisverweigerungsrecht bezüglich Ehegatten | Ja | Ja (partiell) | [BGer 1B_56/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_56_2021) |
+| Einvernahme als Polizeirapport ohne Belehrung | Ja | Ja | [BGer 6B_234/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_234_2019) |
+| Erweiterter Verfahrensgegenstand ohne erneute Belehrung | Ja (erneut) | Ja | [BGer 6B_359/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_359_2021) |
+| Informelle Befragung am Tatort (Anfangsstadium) | Nein | Nein | [BGer 6B_1067/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1067_2023) |
+| Rollenwechsel: Auskunftsperson → beschuldigte Person | Ja | Ja | [BGer 6B_1025/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_1025_2016) |
 
 ## Literatur
 

@@ -10,27 +10,27 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
-### BGE 148 IV 124
+### [BGE 148 IV 124](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124)
 - **Thema**: Teileinstellung / Anklageergänzung
-- **Kernaussage**: Eine explizite Teileinstellungsverfügung, die lediglich einzelne erschwerende Tatvorwürfe betrifft (nicht den ganzen Lebenssachverhalt), führt nicht zur ne-bis-in-idem-Sperrwirkung für die gleichzeitig angeklagten Vorwürfe. Entscheidend ist, dass die Teileinstellung auf die gleichzeitig erhobene Anklage Bezug nimmt und als solche deklariert wird. Präzisierung von BGE 144 IV 362.
+- **Kernaussage**: Eine explizite Teileinstellungsverfügung, die lediglich einzelne erschwerende Tatvorwürfe betrifft (nicht den ganzen Lebenssachverhalt), führt nicht zur ne-bis-in-idem-Sperrwirkung für die gleichzeitig angeklagten Vorwürfe. Entscheidend ist, dass die Teileinstellung auf die gleichzeitig erhobene Anklage Bezug nimmt und als solche deklariert wird. Präzisierung von [BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362).
 - **Einschlägig für**: Abs. 1 (Tatidentität bei Teileinstellung)
 
-### BGE 144 IV 362
+### [BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362)
 - **Thema**: Teileinstellung / Sperrwirkung
 - **Kernaussage**: Eine Teileinstellung kommt nur in Betracht, wenn mehrere Lebensvorgänge oder Taten im prozessualen Sinn zu beurteilen sind. Bezüglich bloss anderer rechtlicher Würdigung desselben Lebensvorgangs scheidet Teileinstellung aus. Wird das Verfahren trotzdem teilweise eingestellt und erwächst die Teileinstellung in Rechtskraft, steht deren Sperrwirkung einer Verurteilung wegen des gleichen Lebenssachverhalts entgegen.
 - **Einschlägig für**: Abs. 1 (Sperrwirkung der Teileinstellung)
 
-### BGE 143 IV 104
+### [BGE 143 IV 104](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_104)
 - **Thema**: Art. 55a StGB / ne bis in idem / Unteilbarkeit
 - **Kernaussage**: Verurteilung eines Ehegatten wegen Tätlichkeiten in einem abgetrennten Raub-Verfahren verstösst gegen Art. 55a StGB und ne bis in idem, wenn das Strafverfahren wegen gegenseitiger Tätlichkeiten zuvor in Anwendung von Art. 55a StGB rechtskräftig eingestellt wurde. Das unbenutzte Verstreichenlassen der Widerrufsfrist gemäss Art. 55a Abs. 2 StGB kommt einem Strafantragsrückzug gleich, mit der Folge der Unteilbarkeit.
 - **Einschlägig für**: Abs. 1 (Tatidentität / Unteilbarkeit)
 
-### BGE 137 I 363
+### [BGE 137 I 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363)
 - **Thema**: Parallelität Straf-/Verwaltungsverfahren / SVG
 - **Kernaussage**: Die im SVG verankerte Parallelität von Straf- und Verwaltungsverfahren (strafrechtliche Busse + Administrativmassnahme Führerausweisentzug) hält auch im Lichte des EGMR-Urteils Zolotukhin vor Art. 4 Ziff. 1 des 7. Zusatzprotokolls zur EMRK stand. Zwischen den beiden Verfahren besteht ein hinreichend enger zeitlicher und materieller Zusammenhang, der sie als Aspekte eines einheitlichen Systems qualifiziert.
 - **Einschlägig für**: Abs. 1 (Parallelität Straf-/Verwaltungsverfahren)
 
-### BGE 122 I 257
+### [BGE 122 I 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_I_257)
 - **Thema**: Steuerbetrug vs. Steuerhinterziehung / Idealkonkurrenz
 - **Kernaussage**: Zwischen Steuerhinterziehung und Steuerbetrug besteht Idealkonkurrenz (Änderung der Rechtsprechung). Kein Verstoss gegen ne bis in idem bei Verurteilung wegen Steuerhinterziehung nach Einstellung des Steuerbetrug-Verfahrens, da die Tatidentität („gleiche Straftat") anhand identischer oder im Wesentlichen gleicher Tatsachen beurteilt wird, nicht der rechtlichen Qualifikation.
 - **Einschlägig für**: Abs. 1 (Tatidentität bei unterschiedlichen Qualifikationen)

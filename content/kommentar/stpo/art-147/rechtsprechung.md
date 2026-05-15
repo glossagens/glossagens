@@ -10,42 +10,42 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
-### BGE 150 IV 345, E. 1.6.3.2
+### [BGE 150 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345), E. 1.6.3.2
 - **Thema**: Unverwertbarkeit, Konfrontationsanspruch
 - **Kernaussage**: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war, bleibt auch nach einer rechtskonformen Wiederholung der Einvernahme zu Lasten der beschuldigten Person unverwertbar. Anpassung der Rechtsprechung.
 - **Einschlägig für**: Art. 147 Abs. 1 und Abs. 4; Konfrontationsanspruch (Art. 6 Ziff. 3 lit. d EMRK)
 
 ---
 
-### BGE 143 IV 457, E. 4 f.
+### [BGE 143 IV 457](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_457), E. 4 f.
 - **Thema**: Teilnahmerecht, Verwertungsverbot
-- **Kernaussage**: Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten im gleichen Verfahren teilzunehmen. Bei Verletzung des Teilnahmerechts sind belastende Aussagen von Mitbeschuldigten nicht verwertbar (Bestätigung der Rechtsprechung BGE 141 IV 220 E. 4 f.).
+- **Kernaussage**: Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten im gleichen Verfahren teilzunehmen. Bei Verletzung des Teilnahmerechts sind belastende Aussagen von Mitbeschuldigten nicht verwertbar (Bestätigung der Rechtsprechung [BGE 141 IV 220](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220) E. 4 f.).
 - **Einschlägig für**: Art. 147 Abs. 1 und Abs. 4
 
 ---
 
-### BGE 143 IV 397
+### [BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397)
 - **Thema**: Verzicht auf das Teilnahmerecht
 - **Kernaussage**: Der Verzicht des Beschuldigten auf sein Teilnahmerecht bei Beweiserhebungen durch die Staatsanwaltschaft kann auch vom Verteidiger erklärt werden. Soweit der bei Einvernahmen anwesende Verteidiger gegen die Abwesenheit des Beschuldigten nicht opponiert und keinen Antrag auf dessen Teilnahme stellt, darf angenommen werden, dieser habe auf sein Teilnahmerecht verzichtet.
 - **Einschlägig für**: Art. 147 Abs. 1
 
 ---
 
-### BGE 141 IV 220, E. 4 f.
+### [BGE 141 IV 220](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220), E. 4 f.
 - **Thema**: Teilnahmerecht an Einvernahmen von Mitbeschuldigten
 - **Kernaussage**: Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten in vereinigten Verfahren teilzunehmen. Bei Verletzung des Teilnahmerechts sind belastende Aussagen von Mitbeschuldigten nicht verwertbar.
 - **Einschlägig für**: Art. 147 Abs. 1 und Abs. 4
 
 ---
 
-### BGE 140 IV 172, E. 1.2
+### [BGE 140 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_172), E. 1.2
 - **Thema**: Teilnahmerecht in getrennten Verfahren
 - **Kernaussage**: Der Anspruch beschuldigter Personen auf Teilnahme an Beweiserhebungen gilt nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen.
 - **Einschlägig für**: Art. 147 Abs. 1
 
 ---
 
-### BGE 139 IV 25, E. 4
+### [BGE 139 IV 25](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25), E. 4
 - **Thema**: Grundrechtstragweite des Teilnahmerechts
 - **Kernaussage**: Verfahrensregeln der getrennten Einvernahmen und der Parteiöffentlichkeit von Beweiserhebungen. Das Teilnahmerecht kann nur unter den gesetzlich vorgesehenen Voraussetzungen eingeschränkt werden.
 - **Einschlägig für**: Art. 147 Abs. 1; Art. 107 Abs. 1 lit. b; Art. 108 StPO
@@ -54,14 +54,14 @@ agent_verified: false
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_14/2021 vom 28.7.2021
+### [BGer 6B_14/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2021) vom 28.7.2021
 - **Thema**: Konfrontations- und Teilnahmerecht
 - **Kernaussage**: Detaillierte Ausführung zum Verhältnis von Konfrontationsanspruch und Teilnahmerecht. Eine belastende Zeugenaussage ist grundsätzlich nur verwertbar, wenn die beschuldigte Person wenigstens einmal angemessene und hinreichende Gelegenheit hatte, Fragen an den Belastungszeugen zu stellen. Beschränkt sich die Wiederholung der Einvernahme im Wesentlichen auf eine formale Bestätigung der früheren Aussagen, wird es dem Beschuldigten verunmöglicht, seine Verteidigungsrechte wirksam wahrzunehmen.
 - **Einschlägig für**: Art. 147 Abs. 1 und Abs. 4; Konfrontationsanspruch (Art. 6 Ziff. 3 lit. d EMRK)
 
 ---
 
-### BGer 6B_764/2015 vom 6.1.2016, E. 1.5
+### [BGer 6B_764/2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_764_2015) vom 6.1.2016, E. 1.5
 - **Thema**: Privatklägerschaft, Teilnahmerecht
 - **Kernaussage**: Das Teilnahmerecht der Privatklägerschaft umfasst namentlich Einvernahmen von Mitbeschuldigten und Auskunftspersonen.
 - **Einschlägig für**: Art. 147 Abs. 1; Privatklägerschaft

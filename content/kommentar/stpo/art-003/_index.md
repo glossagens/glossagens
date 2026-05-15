@@ -51,14 +51,14 @@ Keine Partei darf ihre Verfahrensrechte **zweckwidrig oder schikanös** ausüben
 ### 3. Gleichbehandlung und rechtliches Gehör (lit. c)
 
 - **Gleichbehandlung**: Keine willkürliche Ungleichbehandlung von Verfahrensbeteiligten
-- **Rechtliches Gehör**: Anspruch auf Äusserung before entscheidwesentlichen Tatsachen und auf Berücksichtigung der Vorbringen (vgl. Art. 29 Abs. 2 BV; BGE 139 IV 179)
+- **Rechtliches Gehör**: Anspruch auf Äusserung before entscheidwesentlichen Tatsachen und auf Berücksichtigung der Vorbringen (vgl. Art. 29 Abs. 2 BV; [BGE 139 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_179))
 
 ### 4. Beweiserhebungsverbote (lit. d)
 
 Methoden, welche die **Menschenwürde verletzen**, sind bei der Beweiserhebung untersagt. Dies betrifft namentlich:
 - **Folter** und unmenschliche Behandlung
 - **Erniedrigende Einvernahmemethoden**
-- **Verdeckte Ermittlungen** ohne ausreichende Rechtsgrundlage (BGE 148 IV 205)
+- **Verdeckte Ermittlungen** ohne ausreichende Rechtsgrundlage ([BGE 148 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_205))
 
 Verstösse führen zu **Beweisverwertungsverboten** (Art. 141 StPO).
 

@@ -10,21 +10,21 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
-### BGE 143 IV 380, E. 1
+### [BGE 143 IV 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_380), E. 1
 - **Thema**: Gerichtsnotorische Tatsachen / Offenkundigkeit im Internet
 - **Kernaussage**: Im Internet gelten als gerichtsnotorische Tatsachen i.S.v. Art. 139 Abs. 2 StPO grundsätzlich nur Informationen, welchen aufgrund ihrer leichten Zugänglichkeit und verlässlichen Quellen ein offizieller Anstrich anhaftet (z.B. Bundesamt für Statistik, Handelsregistereintrag, Wechselkurse, SBB-Fahrplan). Eine Definition aus dem Wiktionnaire allein ist nicht gerichtsnotorisch. Die Gerichtsnotorität ist mit Zurückhaltung zu bejahen, da sie eine Ausnahme vom Beweisführungsgrundsatz darstellt. Falls eine Tatsache nicht gerichtsnotorisch ist, müssen die Parteien dazu angehört werden.
 - **Einschlägig für**: Art. 139 Abs. 2 StPO (offenkundige / der Strafbehörde bekannte Tatsachen)
 
 ---
 
-### BGE 147 IV 534, E. 2.5.1
+### [BGE 147 IV 534](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_534), E. 2.5.1
 - **Thema**: Rechtsgenügend erwiesen / antizipierte Beweiswürdigung
 - **Kernaussage**: Über Tatsachen, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind, wird nicht Beweis geführt (Art. 139 Abs. 2 StPO). Die Strafbehörden können ohne Verletzung des rechtlichen Gehörs (Art. 29 Abs. 2 BV) auf die Abnahme weiterer Beweise verzichten, wenn sie in vorweggenommener (antizipierter) Beweiswürdigung annehmen können, ihre Überzeugung werde durch weitere Beweiserhebungen nicht geändert. Die Rüge unzulässiger antizipierter Beweiswürdigung prüft das Bundesgericht als Tatfrage nur unter dem Aspekt der Willkür (Art. 97 Abs. 1 BGG).
 - **Einschlägig für**: Art. 139 Abs. 2 StPO (rechtsgenügend erwiesen); antizipierte Beweiswürdigung
 
 ---
 
-### BGE 144 IV 345, E. 2.2.3
+### [BGE 144 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_345), E. 2.2.3
 - **Thema**: In-dubio pro reo / Beweiserhebung vs. Beweiswürdigung
 - **Kernaussage**: Der Grundsatz der freien Beweiswürdigung lässt keinen Raum für eine Anwendung der Regel *in dubio pro reo* auf die Sammlung und Sichtung der Beweismittel. *In dubio pro reo* wird erst anwendbar, nachdem alle aus Sicht des urteilenden Gerichts notwendigen Beweise erhoben und ausgewertet worden sind. Nur das Übergehen offensichtlich erheblicher Zweifel kann eine Verletzung des In-dubio-Grundsatzes begründen. Auf das einzelne Indiz ist der In-dubio-Grundsatz nicht anwendbar.
 - **Einschlägig für**: Art. 139 Abs. 1 StPO (Wahrheitsfindung / Wissenschaft und Erfahrung); Abgrenzung zur Beweiswürdigung
@@ -33,28 +33,28 @@ agent_verified: false
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_574/2021 vom 22. November 2021, E. 1.2
+### [BGer 6B_574/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_574_2021) vom 22. November 2021, E. 1.2
 - **Thema**: Untersuchungsgrundsatz / antizipierte Beweiswürdigung
 - **Kernaussage**: Die Strafbehörden setzen zur Wahrheitsfindung alle nach dem Stand von Wissenschaft und Erfahrung geeigneten Beweismittel ein, die rechtlich zulässig sind (Art. 139 Abs. 1 StPO). Über Tatsachen, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind, wird nicht Beweis geführt (Art. 139 Abs. 2 StPO). Die Vorinstanz muss eine antizipierte Beweiswürdigung rechtsgenüglich begründen — rein formelhafte Verweise genügen nicht. Es muss eine hypothetische Würdigung des möglichen Inhalts der beantragten Beweise vorgenommen werden.
 - **Einschlägig für**: Art. 139 Abs. 1 und 2 StPO; Art. 6 StPO (Untersuchungsgrundsatz)
 
 ---
 
-### BGer 6B_1057/2013 vom 19. Mai 2014, E. 2.3
+### [BGer 6B_1057/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_1057_2013) vom 19. Mai 2014, E. 2.3
 - **Thema**: Polizeirapport als zulässiges Beweismittel
 - **Kernaussage**: Die Strafbehörden setzen zur Wahrheitsfindung alle nach dem Stand von Wissenschaft und Erfahrung geeigneten Beweismittel ein, die rechtlich zulässig sind (Art. 139 Abs. 1 StPO). Der Polizeirapport ist ein zulässiges Beweismittel i.S.v. Art. 100 Abs. 1 lit. b StPO. Eine belastende Zeugenaussage ist jedoch grundsätzlich nur verwertbar, wenn der Beschuldigte den Belastungszeugen wenigstens einmal in direkter Konfrontation befragen konnte (Konfrontationsrecht).
 - **Einschlägig für**: Art. 139 Abs. 1 StPO (rechtlich zulässige Beweismittel)
 
 ---
 
-### BGer 6B_1051/2019 vom 9. April 2020, E. 4.2
+### [BGer 6B_1051/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1051_2019) vom 9. April 2020, E. 4.2
 - **Thema**: Beweisermittlungsantrag vs. Beweisantrag
 - **Kernaussage**: Die Strafbehörden sind verpflichtet, von Amtes wegen alle bedeutsamen Tatsachen abzuklären (Art. 6 Abs. 1 StPO) und zur Wahrheitsfindung alle geeigneten Beweismittel einzusetzen (Art. 139 Abs. 1 StPO). Abzugrenzen ist der Beweisantrag (konkreter Sachbeweis) vom blossen Beweisermittlungsantrag (Suchen nach belastendem/entlastendem Material). Bei letzterem besteht keine Pflicht zur Beweiserhebung nach Art. 139 StPO.
 - **Einschlägig für**: Art. 139 Abs. 1 StPO (Wahrheitsfindungspflicht); Abgrenzung Beweisantrag/Beweisermittlungsantrag
 
 ---
 
-### BGer 1B_387/2022 vom 22. Februar 2023
+### [BGer 1B_387/2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_387_2022) vom 22. Februar 2023
 - **Thema**: Beweisantragsablehnung / antizipierte Beweiswürdigdigung
 - **Kernaussage**: Rüge, dass der Einzelrichter Beweisanträge mit der Begründung abgelehnt habe, der Sachverhalt erscheine hinreichend geklärt, was gegen die Wahrheitsfindungspflicht (Art. 139 Abs. 1 StPO) verstosse und eine unzulässige antizipierte Beweiswürdigung darstelle.
 - **Einschlägig für**: Art. 139 Abs. 1 StPO (Wahrheitsfindungspflicht)

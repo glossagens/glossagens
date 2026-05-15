@@ -25,21 +25,21 @@ agent_verified: true
 
 ### Bedeutung
 
-Art. 107 StPO konkretisiert den verfassungsrechtlichen Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) und den konventionsrechtlichen Anspruch (Art. 6 Ziff. 1 EMRK) im strafprozessualen Kontext. Der Anspruch ist **formeller Natur** — seine Verletzung führt unabhängig von der materiellen Begründetheit des Rechtsmittels zur Gutheissung der Beschwerde und zur Aufhebung des angefochtenen Entscheids (BGE 144 IV 302 E. 3.1; BGer 1B_429/2019 E. 2.2).
+Art. 107 StPO konkretisiert den verfassungsrechtlichen Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) und den konventionsrechtlichen Anspruch (Art. 6 Ziff. 1 EMRK) im strafprozessualen Kontext. Der Anspruch ist **formeller Natur** — seine Verletzung führt unabhängig von der materiellen Begründetheit des Rechtsmittels zur Gutheissung der Beschwerde und zur Aufhebung des angefochtenen Entscheids ([BGE 144 IV 302](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_302) E. 3.1; [BGer 1B_429/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_429_2019) E. 2.2).
 
 ### Die einzelnen Gehörsrechte (Abs. 1 lit. a–e)
 
 #### lit. a — Akteneinsicht
 
-Das **Akteneinsichtsrecht** ist ein zentrales Teilrecht des rechtlichen Gehörs. Grundsätzlich hat die beschuldigte Person vor ihrer ersten polizeilichen Einvernahme keinen Anspruch auf Einsicht in die Akten des Strafverfahrens (BGE 137 IV 172). Die Privatklägerin hat als Partei das Recht auf Einsicht in die Akten des Haftprüfungsverfahrens (BGE 138 IV 78). Eine vorläufige Beschränkung der Akteneinsicht bewirkt grundsätzlich keinen nicht wieder gutzumachenden Rechtsnachteil, da sie in der Regel auch noch bei der Anfechtung des Endentscheids wirksam gerügt werden kann (BGer 7B_523/2023). Der Beizug von Akten durch eine sachverständige Person verletzt das rechtliche Gehör, wenn diese Akten nicht ediert werden (BGE 144 IV 302 E. 3.1).
+Das **Akteneinsichtsrecht** ist ein zentrales Teilrecht des rechtlichen Gehörs. Grundsätzlich hat die beschuldigte Person vor ihrer ersten polizeilichen Einvernahme keinen Anspruch auf Einsicht in die Akten des Strafverfahrens ([BGE 137 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_172)). Die Privatklägerin hat als Partei das Recht auf Einsicht in die Akten des Haftprüfungsverfahrens ([BGE 138 IV 78](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_78)). Eine vorläufige Beschränkung der Akteneinsicht bewirkt grundsätzlich keinen nicht wieder gutzumachenden Rechtsnachteil, da sie in der Regel auch noch bei der Anfechtung des Endentscheids wirksam gerügt werden kann ([BGer 7B_523/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_523_2023)). Der Beizug von Akten durch eine sachverständige Person verletzt das rechtliche Gehör, wenn diese Akten nicht ediert werden ([BGE 144 IV 302](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_302) E. 3.1).
 
-**Siegelung**: Berechtigt zur Siegelung sind Personen, die ein rechtlich geschütztes Interesse an der Geheimhaltung haben. Die Strafbehörde hat von Amtes wegen den geheimnisschutzberechtigten Personen die Möglichkeit einzuräumen, ein Siegelungsbegehren zu stellen (BGE 140 IV 28).
+**Siegelung**: Berechtigt zur Siegelung sind Personen, die ein rechtlich geschütztes Interesse an der Geheimhaltung haben. Die Strafbehörde hat von Amtes wegen den geheimnisschutzberechtigten Personen die Möglichkeit einzuräumen, ein Siegelungsbegehren zu stellen ([BGE 140 IV 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_28)).
 
 #### lit. b — Teilnahmerecht
 
-Der Anspruch beschuldigter Personen auf **Teilnahme an Beweiserhebungen** gilt grundsätzlich auch für die Einvernahme von Mitbeschuldigten (BGE 139 IV 25). Ausnahmen vom Grundsatz der Parteiöffentlichkeit sind eng zu begrenzen. Der Anspruch gilt jedoch nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen (BGE 140 IV 172).
+Der Anspruch beschuldigter Personen auf **Teilnahme an Beweiserhebungen** gilt grundsätzlich auch für die Einvernahme von Mitbeschuldigten ([BGE 139 IV 25](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25)). Ausnahmen vom Grundsatz der Parteiöffentlichkeit sind eng zu begrenzen. Der Anspruch gilt jedoch nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen ([BGE 140 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_172)).
 
-**Verzicht**: Der Verzicht auf das Teilnahmerecht kann auch vom Verteidiger erklärt werden. Wenn der anwesende Verteidiger der Abwesenheit des Beschuldigten nicht opponiert, darf auf einen Verzicht geschlossen werden (BGE 143 IV 397).
+**Verzicht**: Der Verzicht auf das Teilnahmerecht kann auch vom Verteidiger erklärt werden. Wenn der anwesende Verteidiger der Abwesenheit des Beschuldigten nicht opponiert, darf auf einen Verzicht geschlossen werden ([BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397)).
 
 #### lit. c — Rechtsbeistand
 
@@ -47,7 +47,7 @@ Das Recht, einen **Rechtsbeistand beizuziehen**, konkretisiert die Verteidigungs
 
 #### lit. d — Äusserungsrecht
 
-Zum Anspruch auf rechtliches Gehör gehört, dass die Behörde die Vorbringen des Betroffenen **tatsächlich hört, prüft und berücksichtigt** (BGer 6B_210/2024 E. 1.2.2). Daraus folgt die **Begründungspflicht** (Art. 81 Abs. 3 StPO): Das Gericht muss sich nicht mit allen Parteistandpunkten einlässlich auseinandersetzen, jedoch wenigstens kurz die Überlegungen nennen, von denen es sich hat leiten lassen (BGer 6B_453/2016 E. 1.2). Der aus Art. 184 Abs. 3 StPO fliessende Anspruch, sich zur sachverständigen Person und zu den Gutachterfragen zu äussern, kann durch nachträgliche Akteneinsicht geheilt werden (BGE 148 IV 22).
+Zum Anspruch auf rechtliches Gehör gehört, dass die Behörde die Vorbringen des Betroffenen **tatsächlich hört, prüft und berücksichtigt** ([BGer 6B_210/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_210_2024) E. 1.2.2). Daraus folgt die **Begründungspflicht** (Art. 81 Abs. 3 StPO): Das Gericht muss sich nicht mit allen Parteistandpunkten einlässlich auseinandersetzen, jedoch wenigstens kurz die Überlegungen nennen, von denen es sich hat leiten lassen ([BGer 6B_453/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_453_2016) E. 1.2). Der aus Art. 184 Abs. 3 StPO fliessende Anspruch, sich zur sachverständigen Person und zu den Gutachterfragen zu äussern, kann durch nachträgliche Akteneinsicht geheilt werden ([BGE 148 IV 22](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_22)).
 
 #### lit. e — Beweisanträge
 
@@ -59,17 +59,17 @@ Abs. 2 verpflichtet die Strafbehörden, rechtsunkundige Parteien auf ihre Rechte
 
 ### Verfahrensfairness
 
-Die Verletzung des rechtlichen Gehörs und der Verfahrensfairness können durchgehend an zahlreichen Stellen der Beschwerde erhoben werden (BGer 6B_149/2022 E. 2.1). Die Fairnessgarantie umfasst alle Gehörsrechte und verbietet insbesondere Überraschungsentscheide.
+Die Verletzung des rechtlichen Gehörs und der Verfahrensfairness können durchgehend an zahlreichen Stellen der Beschwerde erhoben werden ([BGer 6B_149/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_149_2022) E. 2.1). Die Fairnessgarantie umfasst alle Gehörsrechte und verbietet insbesondere Überraschungsentscheide.
 
 ### Kasuistik
 
 | Gehörsrecht | Verletzung | Heilung möglich? | Quelle |
 |---|---|---|---|
-| Akteneinsicht vor erster Einvernahme | Verweigerung | Nein (aber kein Nachteil) | BGE 137 IV 172 |
-| Akteneinsicht bei Sachverständigenakten | Fehlende Edition | Heilbar durch nachtr. Einsicht | BGE 144 IV 302 |
-| Teilnahmerecht bei Mitbeschuldigten | Getrenntes Verfahren | Nein (kein Anspruch) | BGE 140 IV 172 |
-| Verzicht auf Teilnahme | Verteidiger schweigt | Ja (konkludenter Verzicht) | BGE 143 IV 397 |
-| Begründungspflicht | Unzureichende Begründung | Nein (Aufhebung) | BGer 6B_453/2016 |
+| Akteneinsicht vor erster Einvernahme | Verweigerung | Nein (aber kein Nachteil) | [BGE 137 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_172) |
+| Akteneinsicht bei Sachverständigenakten | Fehlende Edition | Heilbar durch nachtr. Einsicht | [BGE 144 IV 302](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_302) |
+| Teilnahmerecht bei Mitbeschuldigten | Getrenntes Verfahren | Nein (kein Anspruch) | [BGE 140 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_172) |
+| Verzicht auf Teilnahme | Verteidiger schweigt | Ja (konkludenter Verzicht) | [BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397) |
+| Begründungspflicht | Unzureichende Begründung | Nein (Aufhebung) | [BGer 6B_453/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_453_2016) |
 
 ## Literatur
 

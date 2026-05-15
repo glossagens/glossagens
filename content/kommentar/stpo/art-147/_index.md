@@ -24,21 +24,21 @@ agent_verified: true
 
 ### I. Zweck und Gehalt
 
-Das Teilnahmerecht dient der Gewährleistung des rechtlichen Gehörs und der Verteidigungsrechte. Es ermöglicht den Parteien, die Beweiserhebung unmittelbar zu kontrollieren und durch Fragen zu beeinflussen, was eine transparente und widersprüchliche Beweisaufnahme sicherstellt (BBl 2006 1085 ff.). Das Teilnahmerecht ist Ausfluss des Anspruchs auf rechtliches Gehör (Art. 107 Abs. 1 lit. b StPO) und kann nur unter den gesetzlich vorgesehenen Voraussetzungen eingeschränkt werden (Art. 108, Art. 146 Abs. 4, Art. 149 Abs. 2 lit. b StPO; BGE 139 IV 25 E. 4.2; BGE 143 IV 397 E. 3.3.1; BGE 141 IV 220 E. 4.4).
+Das Teilnahmerecht dient der Gewährleistung des rechtlichen Gehörs und der Verteidigungsrechte. Es ermöglicht den Parteien, die Beweiserhebung unmittelbar zu kontrollieren und durch Fragen zu beeinflussen, was eine transparente und widersprüchliche Beweisaufnahme sicherstellt (BBl 2006 1085 ff.). Das Teilnahmerecht ist Ausfluss des Anspruchs auf rechtliches Gehör (Art. 107 Abs. 1 lit. b StPO) und kann nur unter den gesetzlich vorgesehenen Voraussetzungen eingeschränkt werden (Art. 108, Art. 146 Abs. 4, Art. 149 Abs. 2 lit. b StPO; [BGE 139 IV 25](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25) E. 4.2; [BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397) E. 3.3.1; [BGE 141 IV 220](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220) E. 4.4).
 
 ### II. Träger des Teilnahmerechts
 
 #### 1. Beschuldigte
 
-Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten, Zeugen und Auskunftspersonen teilzunehmen (BGE 139 IV 25 E. 4.2; BGE 141 IV 220 E. 4). Dieses Recht umfasst sowohl die Anwesenheit als auch das Fragerecht gegenüber den einvernommenen Personen.
+Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten, Zeugen und Auskunftspersonen teilzunehmen ([BGE 139 IV 25](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25) E. 4.2; [BGE 141 IV 220](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220) E. 4). Dieses Recht umfasst sowohl die Anwesenheit als auch das Fragerecht gegenüber den einvernommenen Personen.
 
 #### 2. Privatklägerschaft
 
-Auch die Privatklägerschaft hat als Partei ein Teilnahmerecht gemäss Art. 147 Abs. 1 StPO i.V.m. Art. 107 Abs. 1 lit. b und Art. 104 Abs. 1 lit. b StPO. Das Teilnahmerecht der Privatklägerschaft umfasst namentlich Einvernahmen von Mitbeschuldigten und Auskunftspersonen (BGer 6B_764/2015 vom 6.1.2016 E. 1.5; BSTGER BB.2019.287 vom 17.4.2019; BSTGER BB.2024.125 vom 11.12.2024). Die Privatklägerschaft kann ihr Teilnahmerecht geltend machen, sofern sie nicht durch eine Geheimhaltungspflicht (Art. 108 StPO) davon ausgeschlossen ist (BS_Appellationsgericht BES.2016.110 vom 30.11.2016).
+Auch die Privatklägerschaft hat als Partei ein Teilnahmerecht gemäss Art. 147 Abs. 1 StPO i.V.m. Art. 107 Abs. 1 lit. b und Art. 104 Abs. 1 lit. b StPO. Das Teilnahmerecht der Privatklägerschaft umfasst namentlich Einvernahmen von Mitbeschuldigten und Auskunftspersonen ([BGer 6B_764/2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_764_2015) vom 6.1.2016 E. 1.5; BSTGER BB.2019.287 vom 17.4.2019; BSTGER BB.2024.125 vom 11.12.2024). Die Privatklägerschaft kann ihr Teilnahmerecht geltend machen, sofern sie nicht durch eine Geheimhaltungspflicht (Art. 108 StPO) davon ausgeschlossen ist (BS_Appellationsgericht BES.2016.110 vom 30.11.2016).
 
 #### 3. Verteidigung
 
-Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Art. 159 StPO (vgl. Abs. 1 Satz 2). Der Verzicht des Beschuldigten auf sein Teilnahmerecht bei Beweiserhebungen durch die Staatsanwaltschaft kann auch vom Verteidiger erklärt werden (BGE 143 IV 397 E. 3).
+Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Art. 159 StPO (vgl. Abs. 1 Satz 2). Der Verzicht des Beschuldigten auf sein Teilnahmerecht bei Beweiserhebungen durch die Staatsanwaltschaft kann auch vom Verteidiger erklärt werden ([BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397) E. 3).
 
 ### III. Umfang und Grenzen
 
@@ -55,7 +55,7 @@ Die Partei oder ihr Rechtsbeistand können die Wiederholung der Beweiserhebung v
 
 Auf eine Wiederholung kann verzichtet werden, wenn sie mit unverhältnismässigem Aufwand verbunden wäre und dem Anspruch der Partei auf rechtliches Gehör, insbesondere dem Recht, Fragen zu stellen, auf andere Weise Rechnung getragen werden kann.
 
-Beschränkt sich die Wiederholung der Einvernahme im Wesentlichen auf eine formale Bestätigung der früheren Aussagen, wird es dem Beschuldigten verunmöglicht, seine Verteidigungsrechte wirksam wahrzunehmen (BGer 6B_14/2021 vom 28.7.2021). In diesem Fall genügt die formale Wiederholung nicht den Anforderungen des Konfrontationsanspruchs (Art. 6 Ziff. 3 lit. d EMRK).
+Beschränkt sich die Wiederholung der Einvernahme im Wesentlichen auf eine formale Bestätigung der früheren Aussagen, wird es dem Beschuldigten verunmöglicht, seine Verteidigungsrechte wirksam wahrzunehmen ([BGer 6B_14/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2021) vom 28.7.2021). In diesem Fall genügt die formale Wiederholung nicht den Anforderungen des Konfrontationsanspruchs (Art. 6 Ziff. 3 lit. d EMRK).
 
 #### 3. Einschränkung bei Bandenkriminalität
 
@@ -63,20 +63,20 @@ In der politischen Debatte zur Revision der StPO wurde diskutiert, das Teilnahme
 
 ### IV. Verwertungsverbot (Abs. 4)
 
-Beweise, die in Verletzung der Bestimmungen dieses Artikels erhoben worden sind, dürfen nicht zulasten der Partei verwertet werden, die nicht anwesend war. Dies gilt insbesondere bei Verletzung des Teilnahmerechts des Beschuldigten an Einvernahmen von Mitbeschuldigten (BGE 143 IV 457; BGE 141 IV 220). Das Verwertungsverbot bezweckt den Schutz der Verteidigungsrechte und stellt sicher, dass die betroffene Partei nicht aufgrund von Beweisen belastet wird, zu deren Erhebung sie nicht beiziehen konnte.
+Beweise, die in Verletzung der Bestimmungen dieses Artikels erhoben worden sind, dürfen nicht zulasten der Partei verwertet werden, die nicht anwesend war. Dies gilt insbesondere bei Verletzung des Teilnahmerechts des Beschuldigten an Einvernahmen von Mitbeschuldigten ([BGE 143 IV 457](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_457); BGE 141 IV 220). Das Verwertungsverbot bezweckt den Schutz der Verteidigungsrechte und stellt sicher, dass die betroffene Partei nicht aufgrund von Beweisen belastet wird, zu deren Erhebung sie nicht beiziehen konnte.
 
-Der Bundesgerichtshof hat in BGE 150 IV 345 seine Rechtsprechung angepasst: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO unverwertbar ist, bleibt auch nach einer rechtskonformen Wiederholung der Einvernahme zu Lasten der beschuldigten Person unverwertbar. Der Anschluss eines formellen Konfrontationsanspruchs gemäss Art. 6 Ziff. 3 lit. d EMRK an das Teilnahmerecht nach Art. 147 Abs. 1 StPO ändert daran nichts.
+Der Bundesgerichtshof hat in [BGE 150 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345) seine Rechtsprechung angepasst: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO unverwertbar ist, bleibt auch nach einer rechtskonformen Wiederholung der Einvernahme zu Lasten der beschuldigten Person unverwertbar. Der Anschluss eines formellen Konfrontationsanspruchs gemäss Art. 6 Ziff. 3 lit. d EMRK an das Teilnahmerecht nach Art. 147 Abs. 1 StPO ändert daran nichts.
 
 ### V. Konfrontationsanspruch und Teilnahmerecht
 
-Eine belastende Zeugenaussage ist grundsätzlich nur verwertbar, wenn die beschuldigte Person wenigstens einmal angemessene und hinreichende Gelegenheit hatte, Fragen an den Belastungszeugen zu stellen (BGer 6B_14/2021 vom 28.7.2021; BGE 150 IV 345 E. 1.6.3.2). Beschränkt sich die Wiederholung der Einvernahme im Wesentlichen auf eine formale Bestätigung der früheren Aussagen, wird es dem Beschuldigten verunmöglicht, seine Verteidigungsrechte wirksam wahrzunehmen.
+Eine belastende Zeugenaussage ist grundsätzlich nur verwertbar, wenn die beschuldigte Person wenigstens einmal angemessene und hinreichende Gelegenheit hatte, Fragen an den Belastungszeugen zu stellen ([BGer 6B_14/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2021) vom 28.7.2021; [BGE 150 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345) E. 1.6.3.2). Beschränkt sich die Wiederholung der Einvernahme im Wesentlichen auf eine formale Bestätigung der früheren Aussagen, wird es dem Beschuldigten verunmöglicht, seine Verteidigungsrechte wirksam wahrzunehmen.
 
-Auf das Konfrontationsrecht kann vorgängig oder im Nachhinein ausdrücklich oder stillschweigend verzichtet werden, wobei der Verzicht des Beschuldigten auch von seinem Verteidiger ausgehen kann (ZH Obergericht SB240156 vom 8.5.2025; BGE 143 IV 397 E. 3).
+Auf das Konfrontationsrecht kann vorgängig oder im Nachhinein ausdrücklich oder stillschweigend verzichtet werden, wobei der Verzicht des Beschuldigten auch von seinem Verteidiger ausgehen kann (ZH Obergericht SB240156 vom 8.5.2025; [BGE 143 IV 397](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397) E. 3).
 
 ### VI. Abgrenzungen
 
 - **Teilnahmerecht vs. Akteneinsicht**: Das Teilnahmerecht (Art. 147 StPO) und das Recht auf Akteneinsicht (Art. 101 StPO) sind selbstständige Verfahrensrechte. Die Geheimhaltungspflicht nach Art. 108 StPO kann beide Rechte vorübergehend einschränken (BS_Appellationsgericht BES.2016.110 vom 30.11.2016).
-- **Teilnahmerecht in getrennten Verfahren**: Der Anspruch beschuldigter Personen auf Teilnahme an Beweiserhebungen gilt nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen (BGE 140 IV 172 E. 1.2).
+- **Teilnahmerecht in getrennten Verfahren**: Der Anspruch beschuldigter Personen auf Teilnahme an Beweiserhebungen gilt nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen ([BGE 140 IV 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_172) E. 1.2).
 
 ## Literatur
 

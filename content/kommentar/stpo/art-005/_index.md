@@ -35,7 +35,7 @@ Die Strafbehörden müssen ein Verfahren **unverzüglich** an die Hand nehmen, w
 Bei ungerechtfertigter Verfahrensverzögerung kommen in Betracht:
 - **Haftentlassung** bei überlanger Untersuchungshaft (Art. 223 StPO)
 - **Verfahrenseinstellung** in extremen Fällen (Art. 5 EMRK)
-- **Angemessene Strafminderung** (BGE 139 IV 25)
+- **Angemessene Strafminderung** ([BGE 139 IV 25](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25))
 
 ## III. Verschärftes Beschleunigungsgebot bei Haft (Abs. 2)
 
