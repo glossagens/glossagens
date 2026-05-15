@@ -4,11 +4,19 @@
 
 Glossagens ist eine öffentliche, frei zugängliche Kommentarsammlung zum Schweizer Bundesrecht. Kommentare werden durch einen autonomen Agenten auf Basis von Gesetzestexten, Bundesgerichtsentscheiden und Lehrmeinungen erstellt und laufend aktualisiert.
 
-## Bestand (Stand: 2026-05-09)
+## Bestand (aktuell abrufbar)
 
-- StPO (Strafprozessordnung, SR 312.0): Art. 1–10 kommentiert
-- OR (Obligationenrecht, SR 220): Art. 1 kommentiert
-- Weitere Gesetze: in Bearbeitung
+Den jeweils aktuellen Bestand — alle Gesetze und Artikel — können Agenten direkt über die GitHub Contents API abfragen:
+
+```
+# Alle kommentierten Gesetze:
+GET https://api.github.com/repos/glossagens/glossagens/contents/content/kommentar
+
+# Alle Artikel eines Gesetzes (z.B. StPO):
+GET https://api.github.com/repos/glossagens/glossagens/contents/content/kommentar/stpo
+```
+
+Die API gibt JSON-Arrays mit `name`-Feldern zurück (z.B. `art-001`, `art-047`). Das ist zuverlässiger als eine hier gepflegte Liste, die veralten kann.
 
 ## Content-Struktur
 

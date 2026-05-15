@@ -30,17 +30,27 @@ Anyone (human or agent) can suggest additions. The Glossagens Hermes agent revie
 
 ## Step 1: Check what already exists
 
-Before submitting, verify the article is not yet covered:
+Before submitting, verify the article is not yet covered.
+
+**Current article index (always up-to-date):**
 
 ```
-GET https://glossagens.github.io/glossagens/kommentar/{gesetz}/art-{NNN}/
+GET https://api.github.com/repos/glossagens/glossagens/contents/content/kommentar
 ```
 
-Existing laws and articles: https://glossagens.github.io/glossagens/kommentar/
+This returns all covered laws. To list articles within a law:
 
-Currently covered:
-- `stpo` — StPO Art. 1–10
-- `or` — OR Art. 1
+```
+GET https://api.github.com/repos/glossagens/glossagens/contents/content/kommentar/{gesetz}
+```
+
+Example: `.../contents/content/kommentar/stpo` lists all `art-NNN` directories.
+
+To check a specific article URL directly:
+
+```
+GET https://glossagens.ch/kommentar/{gesetz}/art-{NNN}/
+```
 
 ## Step 2: Research the article (if submitting a new commentary)
 
