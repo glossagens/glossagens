@@ -2,9 +2,9 @@
 title: "Rechtsprechung zu Art. 139 StPO"
 weight: 99
 date: 2025-05-09
-lastmod: 2025-05-09
+lastmod: 2026-05-16
 description: "Übersicht der Entscheide zu Art. 139 StPO – Grundsätze der Beweisführung"
-tags: ["Rechtsprechung", "StPO", "Beweisrecht", "Wahrheitsfindung", "antizipierte Beweiswürdigung"]
+tags: ["Rechtsprechung", "StPO", "Beweisrecht", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Gerichtskundigkeit"]
 agent_verified: false
 ---
 
@@ -32,6 +32,13 @@ agent_verified: false
 ---
 
 ## Weitere Bundesgerichtsentscheide
+
+### [BGer 6B_615/2024 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_615_2024), E. 2.4
+- **Thema**: Geoportail-Daten als gerichtskundig / Konfrontation entbehrlich
+- **Kernaussage**: Das Bundesgericht erstreckte die Rechtsprechung zu gerichtsnotorischen Tatsachen im Internet (vgl. BGE 143 IV 380) auf kantonale Geoportale. Über das kantonale Geoportal «GéoPortail Jura» frei zugängliche Grundbuch- und Eigentumsdaten weisen einen offiziellen Anstrich auf, stammen aus nicht-streitigen Quellen (Grundbuch, Art. 970 Abs. 2 ZGB) und können als gerichtskundig i.S.v. Art. 139 Abs. 2 StPO qualifiziert werden. Die Konfrontation der Parteien mit diesen Daten war entbehrlich, soweit der Beschwerdeführer selbst entsprechende Auszüge ins Verfahren eingebracht hatte (vgl. auch [BGer 6B_725/2024 vom 13. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_725_2024), E. 1.1).
+- **Einschlägig für**: Art. 139 Abs. 2 StPO (offenkundige / gerichtskundige Tatsachen); Art. 107 StPO (rechtliches Gehör)
+
+---
 
 ### [BGer 6B_574/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_574_2021) vom 22. November 2021, E. 1.2
 - **Thema**: Untersuchungsgrundsatz / antizipierte Beweiswürdigung
@@ -98,4 +105,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 9. Mai 2025*
+*Letzte Aktualisierung: 16. Mai 2026*
