@@ -2,7 +2,7 @@
 title: "Art. 248 — Siegelung"
 weight: 248
 date: 2026-05-16
-lastmod: 2026-05-16T16:10:00
+lastmod: 2026-05-16T16:20:00
 description: "Kommentar zu Art. 248 StPO – Siegelung von Aufzeichnungen und Gegenständen, Geheimnisschutz, Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
 tags: ["StPO", "Siegelung", "Entsiegelung", "Zwangsmassnahmen", "Geheimnisschutz", "Beschlagnahme", "Art. 264 StPO", "Durchsuchung"]
 agent_verified: true
@@ -99,6 +99,16 @@ Diese Auslegung steht im Einklang mit der Lehre (Graf, Jusletter 2021, N. 22 ff.
 - mindestens die Personalien der Patientinnen und Patienten sowie allfällige Fotos und Videos von Patienten konsequent anonymisiert werden (vgl. [BGer 1B_91/2016 vom 4. August 2016](https://mcp.opencaselaw.ch/entscheid/bger_1B_91_2016), E. 5.7).
 
 **11e** **Erleichterte Substanziierungspflicht** Die Substanziierungspflicht der siegelungsberechtigten Person darf bei Betroffenheit von Berufsgeheimnissen Dritter (z.B. Patientendaten) nicht gleich streng gehandhabt werden wie bei ausschliesslich eigenen Geheimnisrechten der beschuldigten Person ([BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 5.3).
+
+### Beschwerdelegitimation und Eintretensvoraussetzungen
+
+**11f** **Beschwerdelegitimation** Als beschwerdeführende Person im Verfahren vor Bundesgericht ist nur zuzulassen, wer eigene gesetzlich geschützte Geheimnisrechte geltend macht ([BGer 7B_66/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_66_2026), E. 3.2; vgl. [BGer 7B_662/2024 vom 9. Oktober 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_662_2024), E. 2.5; [BGer 1B_531/2022 vom 20. Januar 2023](https://mcp.opencaselaw.ch/entscheid/bger_1B_531_2022), E. 1.1).
+
+**11g** **Teilbarer Entsiegelungsentscheid** Der angefochtene Entscheid schliesst das Verfahren gegenüber der beschwerdeführenden Person ab, soweit damit sichergestellte Aufzeichnungen und Gegenstände zur Durchsuchung und weiteren Verwendung im Strafverfahren freigegeben werden ([BGer 7B_66/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_66_2026), E. 2.2). Soweit die Vorinstanz lediglich prozessleitend eine Triage anordnet, handelt es sich um einen Zwischenentscheid, der nur unter den restriktiven Voraussetzungen von Art. 93 Abs. 1 lit. a BGG anfechtbar ist ([BGer 7B_12/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_12_2026), E. 2.1; [BGer 7B_66/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_66_2026), E. 2.3.3; [BGer 7B_17/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_17_2026), E. 2.2).
+
+**11h** **Triage als nicht anfechtbarer Zwischenentscheid** Prozessleitende Verfügungen im Entsiegelungsverfahren — namentlich die Anordnung einer Triage zur Aussonderung geschützter Daten — sind grundsätzlich nicht geeignet, einen nicht wieder gutzumachenden Nachteil zu bewirken, weshalb auf dagegen geführte Beschwerden in der Regel nicht einzutreten ist ([BGer 7B_12/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_12_2026), E. 2.1; [BGer 7B_66/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_66_2026), E. 2.3.3; [BGer 7B_254/2025 vom 16. Februar 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_254_2025), E. 2.1).
+
+**11i** **Widersprüchliche Dispositiv-Ziffern** Das Bundesgericht hat mit Urteil [BGer 7B_12/2026 vom 24. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_12_2026) die Beschwerde gutgeheissen, soweit die Vorinstanz in ihren Dispositiv-Ziffern widersprüchliche Anordnungen betreffend dieselben Asservate getroffen hatte (Freigabe ohne Triage einerseits, Triage andererseits). Die Sache wurde zur neuen Entscheidung an die Vorinstanz zurückgewiesen (E. 4). Die Vorinstanz hat über die massgeblichen Asservate eindeutig zu befinden.
 
 ### Siegelungsfrist und Siegelungswirkung
 

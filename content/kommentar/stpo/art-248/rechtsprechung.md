@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 248 StPO"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-05-16T16:10:00
+lastmod: 2026-05-16T16:20:00
 description: "Rechtsprechungsübersicht zu Art. 248 StPO — Siegelung und Entsiegelung nach alter und neuer Fassung"
 tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
 agent_verified: true
@@ -106,6 +106,25 @@ Kantonal letztinstanzlicher Entscheid über die Entsiegelung von Datenträgern; 
 **Datum:** 3. März 2026 | **Docket:** 7B_1170/2025
 
 Das nach Art. 248a StPO zuständige Entsiegelungsgericht entscheidet endgültig (Abs. 4 und 5); bei Entscheiden nach Art. 248a Abs. 1 lit. a StPO entscheidet das Zwangsmassnahmengericht als einzige kantonale Instanz im Sinne von Art. 80 Abs. 2 BGG. Dies gilt nicht bloss für den eigentlichen Entsiegelungsentscheid, sondern auch für prozessuale Vorfragen.
+
+### 10a. BGer 7B_66/2026, 7B_12/2026, 7B_17/2026, 7B_65/2026 — Beschwerdelegitimation, Triage und Eintretensvoraussetzungen
+
+**Datum:** 24. April 2026 | **Dockets:** 7B_66/2026, 7B_12/2026, 7B_17/2026, 7B_65/2026
+
+**Kernsatz:** Vier Entscheide vom 24. April 2026 klären zentrale verfahrensrechtliche Fragen der Entsiegelung: (1) Beschwerdelegitimation setzt eigene gesetzlich geschützte Geheimnisrechte voraus (7B_66/2026, E. 3.2); (2) prozessleitende Triage-Anordnungen sind grundsätzlich nicht selbstständig anfechtbare Zwischenentscheide (7B_12/2026, E. 2.1; 7B_66/2026, E. 2.3.3; 7B_17/2026, E. 2.2); (3) ein Entsiegelungsentscheid, der Aufzeichnungen zur Durchsuchung freigibt, schliesst das Verfahren gegenüber der beschwerdeführenden Person ab (7B_66/2026, E. 2.2); (4) bei widersprüchlichen Dispositiv-Ziffern (Freigabe ohne Triage vs. Triage) wird die Beschwerde gutgeheissen und die Sache zurückgewiesen (7B_12/2026, E. 4).
+
+**Erwägungen:**
+- **7B_66/2026, E. 3.2:** Siegelungsverfahren gelangt nur zur Anwendung, wenn gesetzliche Geheimnisschutzgründe substanziiert angerufen werden.
+- **7B_12/2026, E. 2.1:** Prozessleitende Triage-Anordnung als nicht selbstständig anfechtbarer Zwischenentscheid.
+- **7B_12/2026, E. 4:** Widersprüchliche Dispositiv-Ziffern führen zur Gutheissung und Rückweisung.
+- **7B_17/2026, E. 2.2:** Nichteintreten auf Beschwerde gegen prozessleitende Triage-Anordnung.
+- **7B_65/2026:** Nichteintreten; Geheimnisschutzgründe im Entsiegelungsverfahren; Beschwerdelegitimation.
+
+### 10b. BGer 7B_254/2025 — Nichteintreten auf Triage-Beschwerde
+
+**Datum:** 16. Februar 2026 | **Docket:** 7B_254/2025
+
+**Kernsatz:** Prozessleitende Verfügungen im Entsiegelungsverfahren — namentlich die Anordnung einer Triage — sind grundsätzlich nicht geeignet, einen nicht wieder gutzumachenden Nachteil zu bewirken. Auf dagegen geführte Beschwerden wird in der Regel nicht eingetreten.
 
 ---
 
