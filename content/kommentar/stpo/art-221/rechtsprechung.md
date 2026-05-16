@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-05-11
-lastmod: 2026-05-11
+lastmod: 2026-05-16
 description: "Übersicht der Entscheide zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft"
 tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft"]
 agent_verified: true
@@ -116,4 +116,14 @@ agent_verified: true
 - **Kernaussage**: Kollusionsgefahr wurde bei qualifiziertem Betrug verneint: keine Vier-Augen-Delikte, kein familiäres Umfeld, kein kriminelles Netzwerk. Zirkelschluss unzulässig: Haft allein rechtfertigt keine Kollusionsgefahr.
 - **Einschlägig für**: Abs. 1 lit. b (Kollusionsgefahr, Zirkelschlussverbot)
 
-*Letzte Aktualisierung: 11. Mai 2026*
+### [BGer 7B_438/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_438_2026) vom 29. April 2026
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; einfache Wiederholungsgefahr; Unmittelbarkeit der Sicherheitsgefährdung; Vortatenerfordernis
+- **Kernaussage**: Bestätigung der umgekehrten Proportionalität bei der Rückfallprognose: Je schwerer die drohenden Taten und je höher die Gefährdung der Sicherheit anderer, desto geringere Anforderungen an die Rückfallgefahr. Das Vortatenerfordernis ist erfüllt, wenn die Vortaten noch im Strafregister eingetragen sind; der zeitliche Abstand allein genügt nicht zum Ausschluss. Für die Unmittelbarkeit der Sicherheitsgefährdung nach Art. 221 Abs. 1 lit. c StPO ist nicht der Zeitpunkt einer etwaigen Drohung massgebend, sondern ob im Beurteilungszeitpunkt eine akute Bedrohung vorliegt. Mit der Eröffnung eines erstinstanzlichen Verurteilungsurteils kann sich die Gefährdungssituation entscheidend verändern (E. 3.1.3, 3.2.4).
+- **Einschlägig für**: Abs. 1 lit. c (einfache Wiederholungsgefahr, Vortatenerfordernis, Unmittelbarkeit, umgekehrte Proportionalität)
+
+### [BGer 7B_380/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_380_2026) vom 28. April 2026
+- **Thema**: Art. 221 Abs. 1 lit. a StPO; Fluchtgefahr; freiwillige Stellung; Ersatzmassnahmen im Schengenraum
+- **Kernaussage**: Die Schwere der drohenden Sanktion (Freiheitsstrafe und Landesverweisung) ist ein starkes Indiz für Fluchtgefahr, genügt aber für sich allein nicht. Eine freiwillige Stellung entkräftet die Fluchtgefahr nicht, wenn sie unter dem Eindruck der laufenden internationalen Fahndung und der unmittelbaren Entdeckungsgefahr erfolgte und zeitliche Verzögerungen aufwies. Bei ausgeprägter Fluchtgefahr sind Ersatzmassnahmen (Aufenthaltsbeschränkung) im Schengenraum regelmässig ungenügend, da stellenweise fehlende Personenkontrollen eine Flucht ins Ausland nicht verhindern (Bestätigung von BGE 145 IV 503, E. 3.2; E. 2.2.3–2.2.5).
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr, freiwillige Stellung, Schengenraum, Ersatzmassnahmen)
+
+*Letzte Aktualisierung: 16. Mai 2026*
