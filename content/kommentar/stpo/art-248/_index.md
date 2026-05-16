@@ -2,7 +2,7 @@
 title: "Art. 248 — Siegelung"
 weight: 248
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: 2026-05-16T16:10:00
 description: "Kommentar zu Art. 248 StPO – Siegelung von Aufzeichnungen und Gegenständen, Geheimnisschutz, Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
 tags: ["StPO", "Siegelung", "Entsiegelung", "Zwangsmassnahmen", "Geheimnisschutz", "Beschlagnahme", "Art. 264 StPO", "Durchsuchung"]
 agent_verified: true
@@ -58,6 +58,15 @@ Die Formulierung «oder aus anderen Gründen» eröffnete einen weiter gefassten
 - **lit. c**: Gegenstände und Unterlagen aus dem Verkehr der beschuldigten Person mit Zeugnisverweigerungsberechtigten (Zeugnisverweigerungsrecht);
 - **lit. d**: Gegenstände und Unterlagen aus dem Verkehr einer anderen Person mit ihrer Anwältin oder ihrem Anwalt (anwaltliches Berufsgeheimnis).
 
+**6a** **Siegelungsberechtigung auch von Nichtbeschuldigten** Nach der Rechtsprechung des Bundesgerichts sind auch Personen siegelungsberechtigt, die sich auf Siegelungsgründe im Sinne von Art. 264 Abs. 1 lit. a–c StPO berufen, im Strafverfahren aber nicht beschuldigt sind ([BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 3.1). Das Bundesgericht begründet dies wie folgt:
+
+- Art. 197 Abs. 2 StPO als Konkretisierung des Verfassungsprinzips der Verhältnismässigkeit (Art. 5 Abs. 2 und Art. 36 Abs. 2 BV) verlangt, dass Zwangsmassnahmen, welche in die Grundrechte nicht beschuldigter Personen eingreifen, besonders zurückhaltend einzusetzen sind.
+- Ein Ausschluss von im Strafverfahren nicht beschuldigter Personen vom Siegelungsverfahren hinsichtlich der Entsiegelungsgründe von Art. 264 Abs. 1 lit. a–c StPO stünde im klaren Widerspruch zu Art. 197 Abs. 2 StPO.
+- Für eine Schlechterstellung von Nichtbeschuldigten gegenüber beschuldigten Personen bestehen keine sachlichen Gründe; die Gesetzesmaterialien enthalten keinen Hinweis auf einen bewussten Ausschluss.
+- Dies gilt zumindest dann, wenn die betreffenden Personen Inhaberinnen bzw. Inhaber der interessierenden Aufzeichnungen und Gegenstände sind.
+
+Diese Auslegung steht im Einklang mit der Lehre (Graf, Jusletter 2021, N. 22 ff.; Lumengo Paka/Aeschbacher, forumpoenale 2023, S. 459; Bommer/Goldschmid, N. 50 zu Art. 264 StPO) und schliesst eine umstrittene Frage, die bisher offen gelassen wurde ([BGer 7B_1154/2024 vom 2. Oktober 2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1154_2024), E. 2.4.3). A.A.: Pahud, ZStrR 140/2022, S. 330 f.
+
 **7** **Kein Schutz von Geschäftsgeheimnissen** Geschäftsgeheimnisse und «Geschäftsschutzinteressen» bilden nach neuem Recht kein Entsiegelungshindernis. Der Gesetzgeber hat bewusst darauf verzichtet, Geschäftsgeheimnisse in den Katalog der Art. 264 StPO aufzunehmen ([BGE 151 IV 30, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-1) und E. 2.4.2). In Art. 264 StPO nicht genannte Geheimnisinteressen sind nicht im Entsiegelungsverfahren vorzubringen. Die Verfahrensleitung hat jedoch auf entsprechenden begründeten Antrag hin zu prüfen, ob sich eine Einschränkung des Akteneinsichtsrechts der Parteien zur Wahrung privater Geheimhaltungsinteressen als erforderlich erweist (Art. 108 Abs. 1 lit. b StPO; Art. 102 Abs. 1 StPO; [BGE 151 IV 30, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-3)).
 
 **8** **Kein Schutz durch das Bankkundengeheimnis** Das Bankkundengeheimnis (Art. 47 BankG) gehört nicht zu den in Art. 264 StPO genannten Beschlagnahmehindernissen und bildet somit kein Entsiegelungshindernis ([BGE 151 IV 30, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-1)). Dies galt bereits unter dem alten Recht (vgl. [BGE 142 IV 207, E. 9–12](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207#e-9)), ist nun aber durch den abschliessenden Verweis auf Art. 264 StPO klarstellend im Gesetzestext verankert.
@@ -68,11 +77,28 @@ Die Formulierung «oder aus anderen Gründen» eröffnete einen weiter gefassten
 
 **10** **Smartphones und digitale Datenträger** Bei der (vollständigen) Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind. Dies vermag für sich allein jedoch noch keine schutzwürdigen Geheimnisinteressen im Sinne von Art. 248 Abs. 1 StPO und damit auch keinen nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG zu begründen ([BGE 151 IV 344, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-4) und E. 2.7). Die beschuldigte Partei hat zusätzlich darzutun oder es muss ohne Weiteres erkennbar sein, dass das Interesse am Schutz ihrer Persönlichkeit gegenüber dem Strafverfolgungsinteresse überwiegen könnte.
 
-**11** **Drei Konstellationen der Verhältnismässigkeitsprüfung** Das Bundesgericht unterscheidet bei der Angemessenheitsprüfung drei Konstellationen (vgl. [BGE 151 IV 350, E. 2.5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-4); Heimgartner, Strafprozessuale Beschlagnahme, 2011, S. 201):
+**11** **Drei Konstellationen der Verhältnismässigkeitsprüfung** Das Bundesgericht unterscheidet bei der Angemessenheitsprüfung drei Konstellationen (vgl. [BGE 151 IV 350, E. 2.5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-4); [BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 4.4.1; Heimgartner, Strafprozessuale Beschlagnahme, 2011, S. 201):
 
 - **Schwere Straftaten**: Die Untersuchung kann Straftaten zum Gegenstand haben, die derart schwer wiegen, dass das öffentliche Interesse an ihrer Aufklärung allfällige Interessen der beschuldigten Person am Schutz ihrer persönlichen Daten grundsätzlich ohne Weiteres überwiegt und die streitigen Privatgeheimnisse vollumfänglich zu entsiegeln sind ([BGE 151 IV 344, E. 2.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-8); [BGE 151 IV 350, E. 2.5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-4)).
 - **Bagatellfälle**: In eigentlichen Bagatellfällen ist das Interesse der beschuldigten Person am Schutz ihrer persönlichen Daten regelmässig höher zu gewichten, so dass eine Einschränkung oder ein Ausschluss der Durchsuchung in Betracht fällt.
 - **Mittlere Konstellationen**: In den dazwischenliegenden Fällen ist eine sorgfältige Interessenabwägung vorzunehmen, wobei unter Umständen eine teilweise Entsiegelung oder die Aussonderung offensichtlich nicht untersuchungsrelevanter Dateien angebracht ist.
+
+### Deliktskonnex und Verhältnismässigkeit der Entsiegelung
+
+**11a** **Deliktskonnex** Für die Entsiegelung muss ein Deliktskonnex bestehen: Die Durchsuchung muss zur Klärung des Tatverdachts geeignet und für die Strafuntersuchung potenziell beweiserheblich sein. Die potenzielle Beweiserheblichkeit ist nicht für die Gesamtheit der sichergestellten Elemente, sondern für jede Sicherstellung einzeln zu prüfen ([BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 4.3.1; [BGE 151 IV 350, E. 2.5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-3)).
+
+### Arztgeheimnis und Entsiegelung
+
+**11b** **Arztgeheimnis als Durchsuchungshindernis** Ärztinnen und Ärzte sowie ihre Hilfspersonen können das Zeugnis über Geheimnisse verweigern, die ihnen infolge ihres Berufes anvertraut worden sind (Art. 171 Abs. 1 StPO). Das strafbewehrte Arztgeheimnis (Art. 321 StGB) ist ein wichtiges Rechtsinstitut, das aus dem verfassungsrechtlichen Anspruch auf Privatsphäre (Art. 13 BV, Art. 8 EMRK) fliesst und dem Schutz des besonderen Vertrauensverhältnisses zwischen Arzt und Patient dient.
+
+**11c** **Bedeutung bei Nichtbeschuldigten** Das strafprozessuale Durchsuchungshindernis ist auch dann von Bedeutung, wenn offensichtlich schützenswerte Arztgeheimnisse tangiert sind und die Aufzeichnungen nicht beschuldigte Patientinnen und Patienten betreffen ([BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 5.3). Bei einer uneingeschränkten Entsiegelung und Durchsuchung durch die Staatsanwaltschaft blieben die Geheimnisinteressen der betroffenen Patienten völlig ungeschützt.
+
+**11d** **Angemessene Wahrung der Patientengeheimnisse** Die angemessene Wahrung der schutzwürdigen Geheimnisrechte von mitbetroffenen Patientinnen und Patienten setzt voraus, dass:
+
+- die sich auf dem Gerät befindlichen Patientendaten vor der Entsiegelung ausgesondert werden; oder
+- mindestens die Personalien der Patientinnen und Patienten sowie allfällige Fotos und Videos von Patienten konsequent anonymisiert werden (vgl. [BGer 1B_91/2016 vom 4. August 2016](https://mcp.opencaselaw.ch/entscheid/bger_1B_91_2016), E. 5.7).
+
+**11e** **Erleichterte Substanziierungspflicht** Die Substanziierungspflicht der siegelungsberechtigten Person darf bei Betroffenheit von Berufsgeheimnissen Dritter (z.B. Patientendaten) nicht gleich streng gehandhabt werden wie bei ausschliesslich eigenen Geheimnisrechten der beschuldigten Person ([BGer 7B_558/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025), E. 5.3).
 
 ### Siegelungsfrist und Siegelungswirkung
 
@@ -122,4 +148,4 @@ Die Formulierung «oder aus anderen Gründen» eröffnete einen weiter gefassten
 
 ## Literatur
 
-DONATSCH, ANDREAS, in: Donatsch/Simonek, StPO Kommentar, 3. Aufl. 2024, Art. 248; HEIMGARTNER, STEFAN, Strafprozessuale Beschlagnahme, 2011; PIQUEREZ, FRANÇOIS-BOVET, JEAN-PIERRE, in: Piquerez/Bovet, Code de procédure pénale, 3. Aufl. 2024, Art. 248; ROBERT, DENIS, in: Commentaire romand, Code de procédure pénale, 2. Aufl. 2024, Art. 248; ROTH, HERBERT, in: BSK StPO, 3. Aufl. 2023, Art. 248; SCHREIBER, BENJAMIN, in: Praxiskommentar StPO, 4. Aufl. 2023, Art. 248.
+DONATSCH, ANDREAS, in: Donatsch/Simonek, StPO Kommentar, 3. Aufl. 2024, Art. 248; GRAF, DAMIAN, StPO-Revision: Neues zur Siegelung, Jusletter 16. August 2021; HEIMGARTNER, STEFAN, Strafprozessuale Beschlagnahme, 2011; LUMENGO PAKA/AESCHBACHER, StPO-Revision: Die Neuerungen im Siegelungs- und Entsiegelungsverfahren, forumpoenale 2023, S. 459; PIQUEREZ, FRANÇOIS-BOVET, JEAN-PIERRE, in: Piquerez/Bovet, Code de procédure pénale, 3. Aufl. 2024, Art. 248; ROBERT, DENIS, in: Commentaire romand, Code de procédure pénale, 2. Aufl. 2024, Art. 248; ROTH, HERBERT, in: BSK StPO, 3. Aufl. 2023, Art. 248; SCHREIBER, BENJAMIN, in: Praxiskommentar StPO, 4. Aufl. 2023, Art. 248.

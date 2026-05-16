@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 248 StPO"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: 2026-05-16T16:10:00
 description: "Rechtsprechungsübersicht zu Art. 248 StPO — Siegelung und Entsiegelung nach alter und neuer Fassung"
 tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
 agent_verified: true
@@ -41,7 +41,19 @@ agent_verified: true
 - **E. 2.7:** Bei Smartphones tangiert die Durchsuchung regelmässig persönliche Aufzeichnungen, doch ist substanziiert darzulegen, dass das Persönlichkeitsinteresse überwiegt.
 - **E. 2.8:** Angesichts der Schwere des Tatvorwurfs (Kokainhandel) überwiegt das Strafverfolgungsinteresse das Persönlichkeitsinteresse ohne Weiteres.
 
-### 3. BGE 151 IV 350 — Verhältnismässigkeit der Durchsuchung von Privatgeheimnissen
+### 3. BGer 7B_558/2025 — Nichtbeschuldigte sind siegelungsberechtigt; Arztgeheimnis; Verhältnismässigkeit
+
+**Datum:** 20. April 2026 | **Docket:** 7B_558/2025
+
+**Kernsatz:** Auch Personen, die sich auf Siegelungsgründe im Sinne von Art. 264 Abs. 1 lit. a–c StPO berufen, im Strafverfahren aber nicht beschuldigt sind, sind siegelungsberechtigt (E. 3.1). Ein Ausschluss von Nichtbeschuldigten widerspräche Art. 197 Abs. 2 StPO. Bei der Verhältnismässigkeitsprüfung «im engeren Sinne» sind drei Konstellationen zu unterscheiden: Schwerverbrechen (vollumfängliche Entsiegelung), Bagatellfälle (Geheimhaltungsinteresse überwiegt), Mittelschwere Delikte (zeitlich/sachlich eingeschränkte Entsiegelung; E. 4.4.1). Das Durchsuchungshindernis des Arztgeheimnisses ist auch bei Nichtbeschuldigten von Bedeutung; bei Betroffenheit von Berufsgeheimnissen Dritter ist die Substanziierungspflicht nicht gleich streng zu handhaben (E. 5.3).
+
+**Erwägungen:**
+- **E. 3.1:** Siegelungsberechtigung auch von Nichtbeschuldigten; Widerspruch zu Art. 197 Abs. 2 StPO bei Ausschluss.
+- **E. 4.3.1:** Deliktskonnex; Beweiserheblichkeit ist für jede Sicherstellung einzeln zu prüfen.
+- **E. 4.4.1:** Drei Konstellationen der Verhältnismässigkeit (Schwerverbrechen, Bagatellfälle, Mittelschwere Delikte).
+- **E. 5.3:** Arztgeheimnis bei Nichtbeschuldigten; er leichterte Substanziierungspflicht bei Berufsgeheimnissen Dritter.
+
+### 4. BGE 151 IV 350 — Verhältnismässigkeit der Durchsuchung von Privatgeheimnissen
 
 **Datum:** 13. August 2025 | **Signatur:** BGE 151 IV 350
 
@@ -59,37 +71,37 @@ agent_verified: true
 
 ## II. Weitere Bundesgerichtsentscheide zum neuen Recht
 
-### 4. 7B_921/2023 — Altrechtliches Siegelungsbegehren, neurechtlicher Entscheid
+### 5. 7B_921/2023 — Altrechtliches Siegelungsbegehren, neurechtlicher Entscheid
 
 **Datum:** 8. April 2025 | **Docket:** 7B_921/2023
 
 Altrechtliches Siegelungsbegehren; Entsiegelungsentscheid nach neuem Recht. Das Bundesgericht wendet die neurechtlichen Bestimmungen an, wenn der Entscheid nach dem 1. Januar 2024 ergeht.
 
-### 5. 7B_294/2023 — Übergangsrecht
+### 6. 7B_294/2023 — Übergangsrecht
 
 **Datum:** 3. Dezember 2024 | **Docket:** 7B_294/2023
 
 Übergangsrechtliche Fragestellung; Entsiegelung unter alter und neuer Rechtslage.
 
-### 6. 7B_313/2024, 7B_473/2024, 7B_314/2024 — Mehrfache Entsiegelungsverfahren (Bundesanwaltschaft)
+### 7. 7B_313/2024, 7B_473/2024, 7B_314/2024 — Mehrfache Entsiegelungsverfahren (Bundesanwaltschaft)
 
 **Datum:** 24. September 2024 | **Dockets:** 7B_313/2024, 7B_473/2024, 7B_314/2024
 
 Entsiegelungsgesuche der Bundesanwaltschaft in Strafsachen wegen qualifizierten Betrugs und Geldwäscherei. Verweis auf BGE 151 IV 30.
 
-### 7. 7B_145/2025 — Entsiegelung und Durchsuchung
+### 8. 7B_145/2025 — Entsiegelung und Durchsuchung
 
 **Datum:** 25. März 2025 | **Docket:** 7B_145/2025
 
 Entsiegelung und Durchsuchung eines Mobiltelefons; Anwendung von Art. 248a Abs. 1 lit. a und Abs. 4 StPO.
 
-### 8. 7B_1135/2024 — Zuständigkeit nach Art. 248a StPO
+### 9. 7B_1135/2024 — Zuständigkeit nach Art. 248a StPO
 
 **Datum:** 17. März 2026 | **Docket:** 7B_1135/2024
 
 Kantonal letztinstanzlicher Entscheid über die Entsiegelung von Datenträgern; Zuständigkeit des Zwangsmassnahmengerichts nach Art. 248a Abs. 1 lit. a und Abs. 4 i.V.m. Art. 380 StPO.
 
-### 9. 7B_1170/2025 — Entsperrung und Spiegelung von Datenträgern
+### 10. 7B_1170/2025 — Entsperrung und Spiegelung von Datenträgern
 
 **Datum:** 3. März 2026 | **Docket:** 7B_1170/2025
 
@@ -99,7 +111,7 @@ Das nach Art. 248a StPO zuständige Entsiegelungsgericht entscheidet endgültig 
 
 ## III. Leitentscheide zum alten Recht (vor 1. Januar 2024)
 
-### 10. BGE 144 IV 74 — Unterscheidung zwischen entsiegelungsrelevanten und nicht entsiegelungsrelevanten Gegenständen
+### 11. BGE 144 IV 74 — Unterscheidung zwischen entsiegelungsrelevanten und nicht entsiegelungsrelevanten Gegenständen
 
 **Datum:** 17. Januar 2018 | **Signatur:** BGE 144 IV 74
 
@@ -107,7 +119,7 @@ Das nach Art. 248a StPO zuständige Entsiegelungsgericht entscheidet endgültig 
 
 **Wichtig:** Dieser Entscheid bleibt auch unter dem neuen Recht von Bedeutung, da die Unterscheidung zwischen entsiegelungsrelevanten und nicht entsiegelungsrelevanten Gegenständen weiterhin gilt.
 
-### 11. BGE 142 IV 207 — Nemo tenetur, Bankgeheimnis, Untersuchungsrelevanz
+### 12. BGE 142 IV 207 — Nemo tenetur, Bankgeheimnis, Untersuchungsrelevanz
 
 **Datum:** 30. Mai 2016 | **Signatur:** BGE 142 IV 207
 
@@ -115,13 +127,13 @@ Das nach Art. 248a StPO zuständige Entsiegelungsgericht entscheidet endgültig 
 
 **Wichtig unter dem neuen Recht:** Dieser Entscheid befasste sich mit dem Bankkundengeheimnis als Entsiegelungshindernis unter dem alten Recht. Nach neuem Recht ist das Bankkundengeheimnis explizit kein Entsiegelungshindernis mehr (vgl. [BGE 151 IV 30, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-1)).
 
-### 12. BGE 141 IV 77 — Akzessorische Prüfung der Zwangsmassnahmenvoraussetzungen
+### 13. BGE 141 IV 77 — Akzessorische Prüfung der Zwangsmassnahmenvoraussetzungen
 
 **Signatur:** BGE 141 IV 77
 
 **Kernsatz:** Im Entsiegelungsverfahren können die allgemeinen Zwangsmassnahmenvoraussetzungen (Art. 197 StPO) akzessorisch mitgeprüft werden. Diese Praxis wurde unter dem neuen Recht bestätigt, jedoch eingeschränkt: Ohne substanziierte Geheimnisrechte nach Art. 248 Abs. 1 i.V.m. Art. 264 StPO findet keine akzessorische Prüfung statt ([BGE 151 IV 30, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-4-3)).
 
-### 13. BGer 1B_241/2022, 1B_395/2022, 1B_461/2022, 1B_551/2022 — Altrechtliche Siegelungsverfahren
+### 14. BGer 1B_241/2022, 1B_395/2022, 1B_461/2022, 1B_551/2022 — Altrechtliche Siegelungsverfahren
 
 Mehrere Entscheide der I. öffentlich-rechtlichen Abteilung aus den Jahren 2022–2023 befassen sich mit Siegelungs- und Entsiegelungsfragen unter dem alten Recht. Sie bleiben für die Auslegung der fortgeltenden Bestimmungen von Bedeutung.
 
@@ -129,13 +141,13 @@ Mehrere Entscheide der I. öffentlich-rechtlichen Abteilung aus den Jahren 2022�
 
 ## IV. Bundesstrafgerichtliche Praxis
 
-### 14. BB.2024.123, BB.2024.99 — Siegelung und aufschiebende Wirkung
+### 15. BB.2024.123, BB.2024.99 — Siegelung und aufschiebende Wirkung
 
 **Gericht:** Bundesstrafgericht | **Signaturen:** BB.2024.123, BB.2024.99
 
 Siegelung (Art. 248 Abs. 1 StPO) und aufschiebende Wirkung (Art. 387 StPO) im Bundesstrafgerichtsverfahren.
 
-### 15. RR.2024.136, RR.2024.137 — Internationale Rechtshilfe und Siegelung
+### 16. RR.2024.136, RR.2024.137 — Internationale Rechtshilfe und Siegelung
 
 **Gericht:** Bundesstrafgericht | **Signaturen:** RR.2024.136, RR.2024.137
 
@@ -145,13 +157,13 @@ Internationale Rechtshilfe in Strafsachen an Belgien; Entsiegelung (Art. 9 IRSG 
 
 ## V. Kantonale Praxis
 
-### 16. BS 2025 37 — Kantonales Zwangsmassnahmengericht (Zug)
+### 17. BS 2025 37 — Kantonales Zwangsmassnahmengericht (Zug)
 
 **Datum:** 31. Oktober 2025 | **Signatur:** BS 2025 37
 
 Anwendung von Art. 248a Abs. 3 StPO (nicht erstreckbare Frist von 10 Tagen für Einwände); Entsiegelung und Durchsuchung eines Laptops.
 
-### 17. SBK.2023.348 — Beschwerdekammer Aargau (Übergangsrecht)
+### 18. SBK.2023.348 — Beschwerdekammer Aargau (Übergangsrecht)
 
 **Datum:** 30. Januar 2024 | **Signatur:** SBK.2023.348
 
@@ -161,13 +173,13 @@ Per 1. Januar 2024 wurde die bisher geltende Bestimmung zur Siegelung (Art. 248 
 
 ## VI. Altrechtliche Leitentscheide (auszugsweise)
 
-### 18. BGer 1B_303/2022, 1B_284/2022 — Altrechtliche Siegelung und Durchsuchung
+### 19. BGer 1B_303/2022, 1B_284/2022 — Altrechtliche Siegelung und Durchsuchung
 
 **Datum:** 19. Dezember 2022 | **Dockets:** 1B_303/2022, 1B_284/2022
 
 Stellt die Untersuchungsbehörde im Vorverfahren ein Entsiegelungsgesuch, hat der Entsiegelungsrichter auf entsprechende substanziierte Vorbringen von Siegelungsberechtigten hin zu prüfen, ob schutzwürdige Geheimnisinteressen oder andere gesetzliche Entsiegelungshindernisse einer Durchsuchung entgegenstehen (altrechtlich Art. 248 Abs. 2–4 StPO).
 
-### 19. BGer 7B_86/2022 — Mobiltelefone und Siegelung
+### 20. BGer 7B_86/2022 — Mobiltelefone und Siegelung
 
 **Datum:** 13. Juli 2023 | **Docket:** 7B_86/2022
 
