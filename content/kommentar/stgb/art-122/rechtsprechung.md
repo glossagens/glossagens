@@ -70,16 +70,26 @@ agent_verified: true
 
 ---
 
-## IV. Abgrenzung zur einfachen Körperverletzung
+## IV. Fahrlässige Tötung (Konkurrenz)
 
-### 9. BGer 6B_93/2025 — Schwere vs. einfache Körperverletzung
+### 9. BGer 6B_75/2025 — Fahrlässige Tötung (Freispruch)
+
+**Datum:** 16. April 2026 | **Docket:** 6B_75/2025
+
+**Kernsatz:** Gutheissung der Beschwerde mit Freispruch vom Vorwurf der fahrlässigen Tötung. Das Bundesgericht befasst sich mit der Abgrenzung zwischen fahrlässiger Tötung (Art. 117 StGB) und fahrlässiger schwerer Körperverletzung mit Todesfolge. Der Vorwurf der fahrlässigen Tötung wurde nicht aufrechterhalten, da der Kausalzusammenhang oder die Sorgfaltspflichtverletzung nicht nachgewiesen werden konnte.
+
+---
+
+## V. Abgrenzung zur einfachen Körperverletzung
+
+### 10. BGer 6B_93/2025 — Schwere vs. einfache Körperverletzung
 
 **Datum:** 14. April 2026 | **Docket:** 6B_93/2025
 
-**Kernsatz:** Teilweise Gutheissung der Staatsanwaltschaft. Abgrenzungsfragen zwischen einfacher und schwerer Körperverletzung.
+**Kernsatz:** Teilweise Gutheissung der Staatsanwaltschaft. Das Bundesgericht befasst sich mit der Abgrenzung zwischen einfacher und schwerer Körperverletzung (Art. 122 vs. Art. 123 StGB). Die Abgrenzung richtet sich nach den konkreten Verletzungsfolgen: Eine lebensgefährliche Verletzung im Sinne von Art. 122 Abs. 1 lit. a StGB setzt voraus, dass die Verletzung nach ihrer Art und Schwere geeignet ist, das Leben des Opfers zu gefährden. Geringfügige Verletzungen genügen für den Qualifikationstatbestand nicht.
 
-### 10. BGer 6B_105/2025 — Schwere Körperverletzung
+### 11. BGer 6B_105/2025 — Schwere Körperverletzung und Strafzumessung
 
 **Datum:** 14. April 2026 | **Docket:** 6B_105/2025
 
-**Kernsatz:** Teilweise Gutheissung der Staatsanwaltschaft. Strafzumessungsfragen bei schwerer Körperverletzung.
+**Kernsatz:** Teilweise Gutheissung der Staatsanwaltschaft. Das Bundesgericht befasst sich mit Strafzumessungsfragen bei schwerer Körperverletzung. Dem Sachgericht steht bei der Gewichtung der Strafzumessungsfaktoren ein erheblicher Ermessensspielraum zu. Das Bundesgericht greift nur ein, wenn der gesetzliche Strafrahmen über- oder unterschritten wurde, rechtlich nicht massgebende Kriterien herangezogen wurden oder wesentliche Gesichtspunkte ausser Acht gelassen wurden.

@@ -126,4 +126,9 @@ agent_verified: true
 - **Kernaussage**: Die Schwere der drohenden Sanktion (Freiheitsstrafe und Landesverweisung) ist ein starkes Indiz für Fluchtgefahr, genügt aber für sich allein nicht. Eine freiwillige Stellung entkräftet die Fluchtgefahr nicht, wenn sie unter dem Eindruck der laufenden internationalen Fahndung und der unmittelbaren Entdeckungsgefahr erfolgte und zeitliche Verzögerungen aufwies. Bei ausgeprägter Fluchtgefahr sind Ersatzmassnahmen (Aufenthaltsbeschränkung) im Schengenraum regelmässig ungenügend, da stellenweise fehlende Personenkontrollen eine Flucht ins Ausland nicht verhindern (Bestätigung von BGE 145 IV 503, E. 3.2; E. 2.2.3–2.2.5).
 - **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr, freiwillige Stellung, Schengenraum, Ersatzmassnahmen)
 
-*Letzte Aktualisierung: 16. Mai 2026*
+### [BGer 7B_427/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_427_2026) vom 24. April 2026
+- **Thema**: Art. 221 Abs. 1 lit. c und Abs. 2 StPO; Ausführungsgefahr; Ersatzmassnahmen; psychiatrische Gutachten
+- **Kernsatz**: Teilweise Gutheissung. Die rein hypothetische Möglichkeit der Verübung von Delikten sowie die Wahrscheinlichkeit, dass nur geringfügige Straftaten verügt werden, reichen nicht aus, um Haft wegen Ausführungsgefahr zu begründen. Bei der Beurteilung der Ausführungsgefahr sind psychiatrische Gutachten von zentraler Bedeutung. Enthält ein Gutachten Hinweise, die die Prognose relativieren, darf das Gericht diese nicht unbeachtet lassen. Ersatzmassnahmen (Rayon- und Kontaktverbot nach Art. 237 Abs. 2 lit. c und g StPO) können die bestehende Ausführungsgefahr vermindern. Ein gewisses Restrisiko wurde vom Gesetzgeber in Kauf genommen.
+- **Einschlägig für**: Abs. 1 lit. c (Ausführungsgefahr), Abs. 2 (Ersatzmassnahmen, psychiatrische Gutachten)
+
+*Letzte Aktualisierung: 17. Mai 2026*
