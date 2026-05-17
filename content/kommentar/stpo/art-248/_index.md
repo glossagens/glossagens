@@ -1,10 +1,10 @@
 ---
-title: "Art. 248 — Siegelung"
+title: "Art. 248 StPO — Siegelung"
 weight: 248
-date: 2026-05-16
-lastmod: 2026-05-16T16:20:00
-description: "Kommentar zu Art. 248 StPO – Siegelung von Aufzeichnungen und Gegenständen, Geheimnisschutz, Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
-tags: ["StPO", "Siegelung", "Entsiegelung", "Zwangsmassnahmen", "Geheimnisschutz", "Beschlagnahme", "Art. 264 StPO", "Durchsuchung"]
+date: 2026-05-17
+lastmod: 2026-05-17
+description: "Kommentar zu Art. 248 StPO — Siegelung von Aufzeichnungen und Gegenständen, Beschlagnahme von Speichermedien, Smartphone-Durchsuchung, Geheimnisschutz und Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
+tags: ["StPO", "Beschlagnahme", "Speichermedien", "Smartphone", "Durchsuchung", "Privatsphäre", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
 agent_verified: true
 ---
 

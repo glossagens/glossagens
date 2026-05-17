@@ -1,8 +1,8 @@
 ---
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
-date: 2026-05-11
-lastmod: 2026-05-16
+date: 2026-05-17
+lastmod: 2026-05-17
 description: "Übersicht der Entscheide zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft"
 tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft"]
 agent_verified: true
@@ -81,6 +81,30 @@ agent_verified: true
 - **Thema**: Art. 221 Abs. 1bis StPO; qualifizierte Wiederholungsgefahr; Unmittelbarkeit; Ersatzmassnahmen
 - **Kernaussage**: Abs. 1bis ist ein ausnahmsweise zulässiger Haftgrund. «Schweres Verbrechen» in lit. b bezieht sich auf die in lit. a genannten geschützten Rechtsgüter. «Unmittelbar» heisst: Bedrohung muss akut sein, Verbrechen drohen in naher Zukunft. Auch ohne Vorstrafen kann Haft angeordnet werden, wenn psychiatrisches Gutachten ein unmittelbares Risiko belegt. Ersatzmassnahmen, die auf der Mitwirkungsbereitschaft beruhen, sind ungenügend (E. 4.2–5.2).
 - **Einschlägig für**: Abs. 1bis (qualifizierte Wiederholungsgefahr, Unmittelbarkeit, Ersatzmassnahmen)
+
+---
+
+### [BGE 151 IV 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_185)
+- **Datum**: 2025
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; einfache Wiederholungsgefahr; Vortatenerfordernis; Praxisänderung
+- **Kernaussage**: Praxisänderung zur einfachen Wiederholungsgefahr: Die beschuldigte Person kann nur wegen einfacher Wiederholungsgefahr inhaftiert werden, wenn sie bereits zuvor wegen mindestens zwei gleichartigen Straftaten **rechtskräftig verurteilt** worden ist. Die in [BGE 137 IV 84, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_84#e-3-2) etablierte Rechtsprechung, wonach sich die Vortaten auch aus dem hängigen Verfahren ergeben konnten, lässt sich unter dem neuen Recht (seit 1. Januar 2024) nicht weiterführen. Wortlaut, systematische Stellung, Zweck und Materialien sprechen für ein rechtkräftiges Vortatenerfordernis (E. 2.3.1–2.11).
+- **Einschlägig für**: Abs. 1 lit. c (Vortatenerfordernis, einfache Wiederholungsgefahr, Praxisänderung)
+
+---
+
+### [BGE 151 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_207)
+- **Datum**: 5. Februar 2025
+- **Thema**: Art. 221 Abs. 1bis lit. a StPO; qualifizierte Wiederholungsgefahr; qualifizierte Anlasstat
+- **Kernaussage**: Die qualifizierte Anlasstat nach Art. 221 Abs. 1bis lit. a StPO ist auf Verbrechen und schwere Vergehen gegen hochwertige Rechtsgüter wie Leib und Leben oder die sexuelle Integrität eingeschränkt. Massgeblich ist nicht nur der abstrakte Strafrahmen, sondern auch die konkrete Tatbegehung: die Anlasstat muss als gegen solche hochwertige Rechtsgüter gerichtetes schweres Delikt zu qualifizieren sein. Ob das Delikt tatsächlich zu einer schweren Beeinträchtigung geführt hat oder ob die Auswirkungen aufgrund glücklicher Umstände ausgeblieben sind, ist nicht erheblich (E. 4.4).
+- **Einschlägig für**: Abs. 1bis lit. a (qualifizierte Anlasstat, hochwertige Rechtsgüter)
+
+---
+
+### [BGE 151 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_277)
+- **Datum**: 4. März 2025
+- **Thema**: Art. 221 Abs. 1bis StPO; qualifizierte Wiederholungsgefahr; Betäubungsmitteldelikte; abstrakte Gefährdungsdelikte
+- **Kernaussage**: Haft wegen qualifizierter Wiederholungsgefahr setzt voraus, dass sich die untersuchte Anlasstat gegen hochrangige Individualrechtsgüter (Leib, Leben oder sexuelle Integrität) richtet. Betäubungsmitteldelikte sind abstrakte Gefährdungsdelikte, die dem Schutz der öffentlichen Gesundheit dienen; sie richten sich im Normalfall nicht gegen ein Individualrechtsgut und können grundsätzlich keine qualifizierte Wiederholungsgefahr begründen (E. 2.3.8, 2.4.1–2.4.2). Im konkreten Fall wurde die qualifizierte Wiederholungsgefahr bei einem gross angelegten Kokainhandel verneint. Zudem fehlten zwei rechtskräftige Vortaten für die einfache Wiederholungsgefahr nach Art. 221 Abs. 1 lit. c StPO (E. 2.6).
+- **Einschlägig für**: Abs. 1bis (qualifizierte Wiederholungsgefahr, Betäubungsmitteldelikte, abstrakte Gefährdungsdelikte)
 
 ---
 

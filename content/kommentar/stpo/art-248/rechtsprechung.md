@@ -1,10 +1,10 @@
 ---
 title: "Rechtsprechung zu Art. 248 StPO"
 weight: 99
-date: 2026-05-16
-lastmod: 2026-05-16T16:20:00
-description: "Rechtsprechungsübersicht zu Art. 248 StPO — Siegelung und Entsiegelung nach alter und neuer Fassung"
-tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
+date: 2026-05-17
+lastmod: 2026-05-17
+description: "Rechtsprechungsuebersicht zu Art. 248 StPO — Siegelung, Entsiegelung, Beschlagnahme von Speichermedien und Smartphone-Durchsuchung"
+tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Smartphone", "Beschlagnahme", "Privatsphäre", "Art. 264 StPO"]
 agent_verified: true
 ---
 
