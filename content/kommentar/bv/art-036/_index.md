@@ -2,7 +2,7 @@
 title: "Art. 36 BV — Einschränkung von Grundrechten"
 weight: 36
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Kommentar zu Art. 36 BV: Verhältnismässigkeit, öffentliches Interesse, Wesensgehalt"
 tags: ["BV", "Grundrechte", "Verhältnismässigkeit", "öffentliches Interesse", "Wesensgehalt", "Einschränkung"]
 agent_verified: true
@@ -67,13 +67,13 @@ Wie das Bundesgericht in BGE 148 I 19 festgehalten hat, sind Grundrechtseinschr�
 
 Jede Grundrechtseinschränkung bedarf einer **gesetzlichen Grundlage**. Der Gesetzesvorbehalt verlangt, dass der Eingriff auf einer generell-abstrakten Norm beruht, die vom demokratisch legitimierten Gesetzgeber erlassen wurde. Dies sichert die demokratische Legitimation und die Vorsehbarkeit staatlichen Handelns.
 
-Die gesetzliche Grundlage muss **hinreichend bestimmt** sein: Das Gesetz muss Art, Umfang und Dauer des Eingriffs so konkret regeln, dass die betroffenen Personen ihr Verhalten einrichten können. Unbestimmte Rechtsbegriffe und Ermessensspielräume sind grundsätzlich zulässig, sofern der Gesetzgeber die Voraussetzungen und den Rahmen des Eingriffs ausreichend umschreibt.
+Die gesetzliche Grundlage muss **hinreichend bestimmt** sein: Das Gesetz muss Art, Umfang und Dauer des Eingriffs so konkret regeln, dass die betroffenen Personen ihr Verhalten einrichten können. Unbestimmte Rechtsbegriffe und Ermessensspielräume sind grundsätzlich zulässig, sofern der Gesetzgeber die Voraussetzungen und den Rahmen des Eingriffs ausreichend umschreibt. So entschied das Bundesgericht in BGE 142 II 307, dass weder Art. 321 Ziff. 2 StGB noch Art. 13 BGFA die für die Entbindung vom Anwaltsgeheimnis massgeblichen Kriterien nennen; die massgeblichen Kriterien sind ausschliesslich dem Bundesrecht zu entnehmen, wobei mindestens die Voraussetzungen für einen strafrechtlichen Rechtfertigungsgrund vorliegen müssen (E. 4.2 f.).
 
 ### Qualifizierter Gesetzesvorbehalt bei schwerwiegenden Eingriffen
 
 Schwerwiegende Einschränkungen müssen **im Gesetz selbst** vorgesehen sein (Abs. 1 Satz 2). Das bedeutet, dass der Gesetzgeber die wesentlichen Elemente des Eingriffs in formellem Gesetz regeln muss und diese nicht an die Exekutive delegieren kann. Massgebend für die Schwere des Eingriffs ist die Intensität der Grundrechtsbeeinträchtigung.
 
-Das Bundesgericht hat den qualifizierten Gesetzesvorbehalt insbesondere bei Eingriffen in die persönliche Freiheit, die Privatsphäre und die Versammlungsfreiheit als erforderlich erachtet. So entschied es in BGE 147 I 450, dass Art. 40 EpG die formell-gesetzliche Grundlage für ein Veranstaltungsverbot bildet (E. 3.2.2).
+Das Bundesgericht hat den qualifizierten Gesetzesvorbehalt insbesondere bei Eingriffen in die persönliche Freiheit, die Privatsphäre und die Versammlungsfreiheit als erforderlich erachtet. So entschied es in BGE 147 I 450, dass Art. 40 EpG die formell-gesetzliche Grundlage für ein Veranstaltungsverbot bildet (E. 3.2.2). In BGE 127 I 6 bejahte das Bundesgericht den qualifizierten Gesetzesvorbehalt für die medikamentöse Zwangsbehandlung in einer psychiatrischen Klinik und prüfte das kantonale Psychiatriegesetz mit freier Kognition; angesichts der Schwere des Eingriffs in die persönliche Freiheit musste die Rechtsgrundlage einem formellen Gesetz entsprechen (E. 6 f.). In BGE 139 I 16 hielt das Bundesgericht fest, dass die mit der Ausschaffungsinitiative in die Bundesverfassung aufgenommenen Art. 121 Abs. 3–6 BV mangels hinreichender Bestimmtheit nicht direkt anwendbar sind, sondern der Umsetzung durch den Gesetzgeber bedürfen; sie haben keinen Vorrang vor den Grundrechten oder den Garantien der EMRK (E. 4.3).
 
 ### Notstandsausnahme
 
@@ -83,7 +83,7 @@ Die polizeiliche Generalklausel ermöglicht Eingriffe auch ohne ausdrückliche g
 - **Unmittelbar**: Die Gefahr muss gegenwärtig oder unmittelbar bevorstehend sein
 - **Nicht anders abwendbar**: Es darf kein milderes Mittel geben, um die Gefahr abzuwenden; die polizeiliche Notstandsmassnahme ist das Ultima Ratio
 
-Die Notstandsausnahme rechtfertigt nur den Eingriff im Einzelfall; sie ermächtigt nicht zu generell-abstrakten Regelungen.
+Die Notstandsausnahme rechtfertigt nur den Eingriff im Einzelfall; sie ermächtigt nicht zu generell-abstrakten Regelungen. In BGE 136 IV 97 befasste sich das Bundesgericht mit der polizeilichen Generalklausel im Zusammenhang mit einem länger dauernden Hungerstreik eines Strafgefangenen: Mit Rücksicht auf die Subsidiarität der Vollzugsunterbrechung durfte die Strafvollzugsbehörde diese nicht anordnen, solange keine Anhaltspunkte dafür bestanden, dass einer Gefahr für die Gesundheit des Betroffenen nicht durch Zwangsernährung begegnet werden konnte (E. 6). Das Beispiel verdeutlicht, dass auch im Rahmen der Notstandsausnahme das Subsidiaritätsprinzip gilt: Erst wenn mildere Mittel nicht zur Verfügung stehen, kommt eine schwerere Massnahme in Betracht.
 
 ## III. Öffentliches Interesse (Abs. 2)
 
@@ -101,7 +101,7 @@ Typische öffentliche Interessen sind der Schutz der öffentlichen Sicherheit, d
 
 Neben dem öffentlichen Interesse anerkennt Art. 36 Abs. 2 BV ausdrücklich den **Schutz von Grundrechten Dritter** als legitimes Einschränkungsziel. Dies ermöglicht die Lösung von Grundrechtskollisionen: Wenn die Ausübung eines Grundrechts die Grundrechte Dritter beeinträchtigt, kann die Einschränkung des ersteren durch den Schutz der letzteren gerechtfertigt sein.
 
-Die Kollisionslösung erfolgt im Rahmen der Verhältnismässigkeitsprüfung: Je intensiver der Eingriff in das eine Grundrecht, desto gewichtiger muss das schutzwürdige Interesse des anderen sein. Das Bundesgericht wendet diese Abwägung namentlich im Bereich der Meinungs- und Versammlungsfreiheit an.
+Die Kollisionslösung erfolgt im Rahmen der Verhältnismässigkeitsprüfung: Je intensiver der Eingriff in das eine Grundrecht, desto gewichtiger muss das schutzwürdige Interesse des anderen sein. Das Bundesgericht wendet diese Abwägung namentlich im Bereich der Meinungs- und Versammlungsfreiheit an. In BGE 129 I 173 legte das Bundesgericht dar, dass das Recht der Angehörigen, den Bestattungsort zu bestimmen, zwar durch die persönliche Freiheit geschützt ist, jedoch nicht absoluten Schutz geniesst; eine Abwägung der gegenläufigen Grundrechtsinteressen im Rahmen von Art. 36 BV ist erforderlich, wobei namentlich der postmortale Persönlichkeitswille des Verstorbenen gegen die Interessen der überlebenden Angehörigen abzuwägen ist (E. 2.2).
 
 ## IV. Verhältnismässigkeit im engeren Sinn (Abs. 3)
 
@@ -115,13 +115,13 @@ Die Verhältnismässigkeitsprüfung umfasst drei Elemente:
 
 Die Einschränkung muss **geeignet** sein, das verfolgte Ziel zu erreichen. Eine Massnahme ist geeignet, wenn sie den erstrebten Erfolg zumindest fördern oder der Zielerreichung dienlich sein kann. Absolute Geeignetheit wird nicht verlangt; es genügt, dass die Massnahme objektiv geeignet ist, das angestrebte Ziel zu fördern.
 
-In BGE 148 I 33 bejahte das Bundesgericht grundsätzlich die Eignung von Beschränkungen zwischenmenschlicher Kontakte zur Eindämmung der Covid-19-Pandemie, stellte jedoch klar, dass die Beschränkung auf 15 Personen einen schweren Eingriff in die Versammlungsfreiheit darstellt (E. 5.1).
+In BGE 148 I 33 bejahte das Bundesgericht grundsätzlich die Eignung von Beschränkungen zwischenmenschlicher Kontakte zur Eindämmung der Covid-19-Pandemie, stellte jedoch klar, dass die Beschränkung auf 15 Personen einen schweren Eingriff in die Versammlungsfreiheit darstellt (E. 5.1). In BGE 138 I 274 verneinte das Bundesgericht die Eignung eines generellen Verbots von Plakaten mit aussenpolitischen Themen im Bahnhof zur Wahrung der öffentlichen Ordnung; ein solches pauschales Verbot ist als Zensurmassnahme ungeeignet und verletzt die Meinungsausserungsfreiheit (E. 3.4).
 
 ### 2. Erforderlichkeit
 
 Die Einschränkung muss **erforderlich** sein, d.h. es darf kein milderes, gleich geeignetes Mittel geben, das den Grundrechtseingriff weniger stark belastet. Die Erforderlichkeit verlangt, dass der Staat das schonendste Mittel wählt, das den angestrebten Zweck noch erreichen kann.
 
-In BGE 148 I 33 fiel die Erforderlichkeitsprüfung mit der Voraussetzung zusammen, dass die epidemiologische Lage die Massnahme erfordert (E. 5.5.4). In BGE 151 I 194 hielt das Bundesgericht fest, dass der Verzicht auf staatlichen Zwang bei der Einführung des elektronischen Behördenverkehrs nicht gleichermassen geeignet wäre, das öffentliche Interesse an einer effizienten Verwaltung zu verwirklichen; das Erfordernisgebot wurde daher nicht verletzt (E. 6.4).
+In BGE 148 I 33 fiel die Erforderlichkeitsprüfung mit der Voraussetzung zusammen, dass die epidemiologische Lage die Massnahme erfordert (E. 5.5.4). In BGE 151 I 194 hielt das Bundesgericht fest, dass der Verzicht auf staatlichen Zwang bei der Einführung des elektronischen Behördenverkehrs nicht gleichermassen geeignet wäre, das öffentliche Interesse an einer effizienten Verwaltung zu verwirklichen; das Erfordernisgebot wurde daher nicht verletzt (E. 6.4). In BGE 143 I 310 hielt das Bundesgericht fest, dass die sofortige und unwiederbringliche Löschung von Bildaufnahmen verdeckter Ermittler auf Datenträgern der Beschuldigten zwar geeignet war, deren Enttarnung zu verhindern, jedoch unverhältnismässig war, weil die Staatsanwaltschaft zumindest Kopien der Aufnahmen hätte sichern und zu den Akten geben müssen; das mildere Mittel war nicht geprüft worden (E. 3.4).
 
 ### 3. Angemessenheit (Verhältnismässigkeit im engsten Sinn / Zumutbarkeit)
 
@@ -170,15 +170,26 @@ Die EMRK enthält in Art. 8–11 Abs. 2 eigene Schrankenbestimmungen, die neben 
 
 | Entscheidung | Jahr | Kernsatz |
 |---|---|---|
+| BGE 127 I 6 | 2001 | Medikamentöse Zwangsbehandlung; qualifizierter Gesetzesvorbehalt; Kerngehalt der persönlichen Freiheit |
+| BGE 129 I 173 | 2000 | Recht der Angehörigen auf Bestattungsort; Abwägung der gegenläufigen Grundrechtsinteressen |
+| BGE 132 II 485 | 2006 | Entzug einer Fernmeldekonzession; öffentliches Interesse und Verhältnismässigkeit von Aufsichtsmassnahmen |
+| BGE 135 I 71 | 2009 | Vortatenerfordernis bei Wiederholungsgefahr; Haft als ultima ratio |
+| BGE 135 I 79 | 2009 | Dispensation vom Schwimmunterricht; Kerngehalt der Religionsfreiheit; Verhältnismässigkeit |
+| BGE 136 IV 97 | 2010 | Polizeiliche Generalklausel; Hungerstreik; Subsidiarität und Verhältnismässigkeit |
+| BGE 138 I 274 | 2012 | Plakatierung im Bahnhof; Zensurverbot; Meinungsfreiheit als öffentliches Interesse |
+| BGE 139 I 16 | 2013 | Ausschaffungsinitiative; Verhältnismässigkeit aufenthaltsbeendender Massnahmen |
+| BGE 141 IV 305 | 2015 | Ersatzforderung bei illegalem Abbruch; Eigentumsgarantie und Verhältnismässigkeit |
+| BGE 142 II 307 | 2016 | Entbindung vom Anwaltsgeheimnis; Bestimmtheitsgebot; qualifizierter Gesetzesvorbehalt |
+| BGE 143 I 21 | 2017 | Familiennachzug; Verhältnismässigkeit und Kindeswohl |
+| BGE 143 I 310 | 2017 | Verdeckte Ermittler; Löschung von Bildaufnahmen; Erforderlichkeit |
+| BGE 147 I 372 | 2021 | DNA-Profil und erkennungsdienstliche Erfassung bei friedlicher Kundgebung; chilling effect und Verhältnismässigkeit |
 | BGE 147 I 450 | 2021 | Verhältnismässigkeitsgrundsatz als harmonisierende Konkretisierung konfligierender Verfassungsprinzipien; Covid-19-Veranstaltungsverbot verhältnismässig |
 | BGE 148 I 33 | 2020 | Covid-19-Beschränkung auf 15 Personen bei Kundgebungen; schwerer Eingriff in Versammlungsfreiheit; Erforderlichkeit als Teilgehalt der Verhältnismässigkeit |
 | BGE 148 I 19 | 2021 | Covid-19-Beschränkung auf 300 Personen; gesetzliche Grundlage und Verhältnismässigkeit der Teilnehmerbeschränkung |
-| BGE 149 I 248 | 2023 | Partielles Bettelverbot als Grundrechtseingriff; Kerngehalt der persönlichen Freiheit nicht verletzt |
-| BGE 147 I 372 | 2021 | DNA-Profil und erkennungsdienstliche Erfassung bei friedlicher Kundgebung; chilling effect und Verhältnismässigkeit |
-| BGE 132 II 485 | 2006 | Entzug einer Fernmeldekonzession; öffentliches Interesse und Verhältnismässigkeit von Aufsichtsmassnahmen |
 | BGE 149 I 218 | 2022 | Präventive verdeckte Fahndung; schwere Grundrechtseingriffe ohne Einzelfallprüfung verfassungswidrig |
-| BGE 151 I 194 | 2025 | Obligatorium zum elektronischen Behördenverkehr; leichter Eingriff in Wirtschaftsfreiheit; Eignung, Erforderlichkeit und Zumutbarkeit |
+| BGE 149 I 248 | 2023 | Partielles Bettelverbot als Grundrechtseingriff; Kerngehalt der persönlichen Freiheit nicht verletzt |
 | BGE 151 I 137 | 2025 | Automatische Fahrzeugfahndung; Gesetzgebungskompetenz und Verhältnismässigkeit des Grundrechtseingriffs |
+| BGE 151 I 194 | 2025 | Obligatorium zum elektronischen Behördenverkehr; leichter Eingriff in Wirtschaftsfreiheit; Eignung, Erforderlichkeit und Zumutbarkeit |
 | BGE 151 I 257 | 2025 | Versammlungsfreiheit bei WEF-Kundgebung; Grundrechtsbeschränkung durch verschobene Route; Eignung und Erforderlichkeit |
 
 ## Weiterführende Hinweise

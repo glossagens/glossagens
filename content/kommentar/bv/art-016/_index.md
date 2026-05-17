@@ -2,7 +2,7 @@
 title: "Art. 16 — Meinungs- und Informationsfreiheit"
 weight: 16
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
 agent_verified: true
@@ -61,16 +61,21 @@ Der Schutzbereich umfasst insbesondere:
 - **Symbolische Meinungsäusserungen**: Demonstrationen, Kundgebungen, Streikaktionen (vgl. BGE 134 IV 216)
 - **Plakatierung**: Das Aushängen von Plakaten zu aussenpolitischen Themen ist eine Form der Meinungsäusserung, die in den Schutzbereich von Art. 16 Abs. 2 BV fällt (BGE 138 I 274, E. 2.2.1)
 - **Digitale Meinungsäusserungen**: Kommentare in sozialen Medien (vgl. BGE 149 I 2, E. 2.3.1: Grundrechtsbindung der SRG auch im übrigen publizistischen Angebot betreffend Löschung von Benutzerkommentaren)
+- **Plakatierung**: Das Aushängen von Plakaten zu aussenpolitischen Themen im Bahnhof fällt in den Schutzbereich der Meinungsäusserungsfreiheit; ein generelles Verbot solcher Plakate ist als Zensurmassnahme unzulässig (BGE 138 I 274, E. 2.2.1 und 3.4). Hingegen besteht kein direkter grundrechtlicher Anspruch auf Zurverfügungstellung eines Fahrzeugs der städtischen Verkehrsbetriebe als Werbeträger (BGE 127 I 84, E. 4c und 4d)
 
 ##### c) Schutzbereichsgrenzen
 
-Nicht jede Äusserung fällt unter den Schutzbereich der Meinungsfreiheit. Einer Person zu unterstellen, sie habe Sympathien für das Nazi-Regime, ist selbst für einen Politiker ehrverletzend und fällt nicht unter den Schutz der Meinungsäusserungsfreiheit (BGE 137 IV 313). Bettelei fällt nach der Rechtsprechung nicht unter den Schutz der Meinungsfreiheit, sondern unter die persönliche Freiheit bzw. den Schutz des Privatlebens (BGE 149 I 248).
+Nicht jede Äusserung fällt unter den Schutzbereich der Meinungsfreiheit. Einer Person zu unterstellen, sie habe Sympathien für das Nazi-Regime, ist selbst für einen Politiker ehrverletzend und fällt nicht unter den Schutz der Meinungsäusserungsfreiheit (BGE 137 IV 313). Die Freiheit der Meinungsäusserung verbietet es nicht, in der politischen Auseinandersetzung eine Herabsetzung oder Diskriminierung im Sinne von Art. 261bis Abs. 4 StGB zu bejahen, sofern die Äusserung im Gesamtzusammenhang sachlich bleibt und sich auf objektive Umstände stützt (BGE 131 IV 23, E. 3). Auch pornographische Darstellungen werden von Art. 10 EMRK erfasst, selbst wenn sie keinen informativen Gehalt aufweisen; die Bestrafung wegen des Vertriebs harte pornographischer Erzeugnisse verstösst jedoch nicht gegen die Meinungsäusserungsfreiheit (BGE 128 IV 201, E. 1). Der Aufruf zu strafbaren Handlungen — wie die Anstiftung zur Hinderung einer Amtshandlung bei Manifestationen — fällt nicht in den Schutzbereich der Meinungsäusserungsfreiheit (BGE 127 IV 115, E. 2 und 3). Bettelei fällt nach der Rechtsprechung nicht unter den Schutz der Meinungsfreiheit, sondern unter die persönliche Freiheit bzw. den Schutz des Privatlebens (BGE 149 I 248).
 
 #### 2. Informationsfreiheit (Abs. 3)
 
 Abs. 3 gewährleistet das Recht, Informationen frei zu empfangen, aus allgemein zugänglichen Quellen zu beschaffen und zu verbreiten. Die Informationsfreiheit schützt sowohl die Informationsbeschaffung als auch die Weitergabe von Informationen. Sie setzt -- anders als die Meinungsfreiheit -- nicht voraus, dass es sich um eine Meinungsäusserung handelt; auch die Weitergabe rein faktischer Informationen wird geschützt.
 
-Der Begriff der "allgemein zugänglichen Quellen" ist weit zu verstehen und umfasst Quellen, die grundsätzlich für jedermann zugänglich sind. Die Informationsfreiheit begründet nach der Rechtsprechung einen Anspruch auf Akteneinsicht ausserhalb eines Verfahrens unter bestimmten Voraussetzungen (vgl. BGE 129 I 249). Ein zentraler Anwendungsfall betrifft den Zugang zu Verwaltungsakten und amtlichen Informationen (vgl. BGE 144 I 170: Zugang zu Unterlagen der IV-Stelle betreffend externe medizinische Gutachten).
+Der Begriff der "allgemein zugänglichen Quellen" ist weit zu verstehen und umfasst Quellen, die grundsätzlich für jedermann zugänglich sind. Archivierte Akten während der Schutzfrist gehören jedoch nicht zu den allgemein zugänglichen Quellen im Sinne von Art. 16 Abs. 3 BV (BGE 127 I 145, E. 4c und 4d). Die Informationsfreiheit begründet nach der Rechtsprechung einen Anspruch auf Akteneinsicht ausserhalb eines Verfahrens unter bestimmten Voraussetzungen (vgl. BGE 129 I 249). Ein zentraler Anwendungsfall betrifft den Zugang zu Verwaltungsakten und amtlichen Informationen (vgl. BGE 144 I 170: Zugang zu Unterlagen der IV-Stelle betreffend externe medizinische Gutachten).
+
+Der Grundsatz der Justizöffentlichkeit konkretisiert die Informationsfreiheit im Bereich gerichtlicher Verfahren (BGE 137 I 16, E. 2.2). Der verfassungsrechtliche Anspruch auf Kenntnisnahme von Urteilen erstreckt sich grundsätzlich auf das ganze Urteil mit Sachverhalt, rechtlichen Erwägungen und Dispositiv, eingeschlossen den Spruchkörper (BGE 139 I 129, E. 3.6). Ein vollständiger Ausschluss der Medien von einer Berufungsverhandlung verstösst gegen den Grundsatz der Justizöffentlichkeit und die Medien- und Informationsfreiheit; weniger weitgehende Massnahmen wie Auflagen oder Teilausschlüsse sind vorzuziehen (BGE 143 I 194, E. 3.6 und 3.7).
+
+Das Öffentlichkeitsgesetz des Bundes (BGÖ) begründet einen gerichtlich durchsetzbaren subjektiven Anspruch auf Zugang zu amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen (BGE 142 II 313, E. 3). Das Verhältnis des Transparenzgebots zu besonderen Vertraulichkeitsregeln lässt sich nicht generell festlegen, sondern ist von Fall zu Fall zu ermitteln.
 
 #### 3. Zensurverbot
 
@@ -108,6 +113,8 @@ In BGE 151 I 257 hat das Bundesgericht entschieden, dass die Verschiebung einer 
 
 Art. 35 Abs. 2 BV ordnet die Grundrechtsbindung der Rechtsanwendung an. Träger von öffentlich-rechtlichen Aufgaben sind auch bei privatrechtlichem Handeln grundrechtsgebunden, wenn sie in einem engen Sachzusammenhang mit einer grundrechtlichen Gewährleistung stehen. So hat das Bundesgericht die SRG in ihrem übrigen publizistischen Angebot als grundrechtsgebunden qualifiziert (BGE 149 I 2, E. 2.3.1), und auch die SBB sind bei der Verwaltung öffentlicher Sachen grundrechtsgebunden (BGE 138 I 274, E. 2.2.1).
 
+Eine unbefristete Verschwiegenheitsauflage der FINMA, die den Verfügungsadressaten verbietet, den Inhalt der Verfügung Dritten mitzuteilen, stellt einen schweren Eingriff in das informationelle Selbstbestimmungsrecht und die Meinungsäusserungsfreiheit dar, der einer ausreichenden gesetzlichen Grundlage bedarf (BGE 141 I 201, E. 4). Die FINMA verfügt über keine hinreichende gesetzliche Grundlage für einen solchen Eingriff.
+
 ### VIII. Meinungsäusserungsfreiheit im Arbeitsverhältnis
 
 Besondere Herausforderungen ergeben sich bei der Meinungsäusserungsfreiheit von öffentlich-rechtlich Angestellten. In BGE 136 I 332 hat das Bundesgericht die Verletzung der Meinungsäusserungsfreiheit eines Dozenten einer staatlichen Hochschule bejaht, dem wegen Verteilung eines Flugblatts an die Mitglieder des Kantonsrates ein Verweis erteilt und eine Leitungsfunktion entzogen worden war. Die Massnahme stellte eine unzulässige Einschränkung der Meinungsäusserungsfreiheit dar, da der Dozent in seiner Eigenschaft als Staatsangestellter nicht auf sein Grundrecht verzichtet.
@@ -116,7 +123,15 @@ Besondere Herausforderungen ergeben sich bei der Meinungsäusserungsfreiheit von
 
 Die Meinungs- und Informationsfreiheit (Art. 16 BV) wird durch die Medienfreiheit (Art. 17 BV) ergänzt. Die Medienfreiheit gewährleistet die Unabhängigkeit von Radio und Fernsehen sowie die redaktionelle Freiheit. Die Grundrechtsbindung der SRG im Werbebereich hat das Bundesgericht in BGE 139 I 306 bejaht: Die Weigerung der SRG, eine Werbebotschaft auszustrahlen, stellt einen Grundrechtseingriff dar, der den Anforderungen von Art. 36 BV standhalten muss.
 
-### X. Internationale Bezüge
+### X. Informationelles Selbstbestimmungsrecht und digitale Meinungsäusserung
+
+Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellt einen Eingriff in die Grundrechte der Betroffenen dar, insbesondere in das Recht auf Achtung des Privatlebens, das den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4). Die Intensität dieses Grundrechtseingriffs ist jedoch zu relativieren: Die gespeicherten Daten betreffen nicht den Inhalt der Kommunikation und werden von den Fernmeldeunternehmen weder gesichtet noch miteinander verknüpft (BGE 144 I 126, E. 5). Die sechsmonatige Aufbewahrungsdauer ist unter den gegebenen datenschutzrechtlichen Garantien verhältnismässig (BGE 144 I 126, E. 8).
+
+Im digitalen Raum ist die Publikation von Personendaten auch bei öffentlich zugänglichen Orten dem Persönlichkeitsschutz unterworfen. Bilder von Privatbereichen wie umfriedeten Höfen und Gärten, die dem Einblick eines gewöhnlichen Passanten verschlossen bleiben, dürfen ohne Zustimmung der Betroffenen grundsätzlich nicht veröffentlicht werden, soweit sie von einer Kamerahöhe von über 2 m aufgenommen wurden (BGE 138 II 346, E. 10.7). Bei sensiblen Einrichtungen ist vor der Aufschaltung im Internet die vollständige Anonymisierung von Personen und Kennzeichen vorzunehmen (BGE 138 II 346, E. 10.6.4).
+
+Polizeiliche Massnahmen, die in die Informations- und Pressefreiheit eingreifen, unterliegen ebenfalls den Anforderungen von Art. 36 BV. Die Verweigerung des Zugangs nach Davos gegenüber einem Journalisten anlässlich des Weltwirtschaftsforums berührt den Journalisten in der Meinungs- und Informationsfreiheit gemäss Art. 16 BV in Verbindung mit der in Art. 17 BV garantierten Pressefreiheit (BGE 130 I 388, E. 3). Das Bundesverfassungsrecht räumt jedoch keinen Anspruch auf gerichtliche Überprüfung von Eingriffen in Grundrechte infolge polizeilicher Realakte ein (BGE 130 I 388, E. 4).
+
+### XI. Internationale Bezüge
 
 Art. 16 BV steht im Dialog mit folgenden völkerrechtlichen Gewährleistungen:
 - **Art. 10 EMRK**: Meinungsfreiheit als Konventionsrecht; Mindeststandard für die Auslegung von Art. 16 BV
@@ -124,7 +139,39 @@ Art. 16 BV steht im Dialog mit folgenden völkerrechtlichen Gewährleistungen:
 - **Art. 19 UNO-Pakt II**: Recht auf freie Meinungsäusserung und Informationsfreiheit
 - **Art. 21 UNO-Pakt II**: Versammlungsrecht (vgl. BGE 143 I 147, E. 3.1)
 
-### XI. Literatur
+## Leitentscheide
+
+| Entscheidung | Jahr | Kernsatz |
+|---|---|---|
+| BGE 127 I 84 | 2001 | Kein grundrechtlicher Anspruch auf Nutzung eines Fahrzeugs der städtischen Verkehrsbetriebe als Werbeträger; Grundrechtsbindung bei privatrechtlichem Handeln staatlicher Unternehmen |
+| BGE 127 I 145 | 2001 | Informationsfreiheit begründet keinen Anspruch auf Einsicht in archivierte Strafakten während der Schutzfrist |
+| BGE 127 IV 115 | 2001 | Aufruf zu Amtshinderung bei Manifestationen nicht durch Meinungsfreiheit geschützt |
+| BGE 128 IV 201 | 2002 | Bestrafung des Vertriebs harte Pornographie verstösst nicht gegen Meinungsäusserungsfreiheit |
+| BGE 129 I 249 | 2001 | Anspruch auf Akteneinsicht ausserhalb eines Verfahrens; Abwägung der Informationsfreiheit gegen andere Interessen |
+| BGE 130 I 388 | 2004 | Verweigerung des Zugangs nach Davos gegenüber einem Journalisten; Meinungs- und Informationsfreiheit bei polizeilichen Realakten |
+| BGE 131 IV 23 | 2004 | Rassendiskriminierung und Meinungsäusserungsfreiheit; sachliche Kritik geschützt, Aberkennung der Gleichwertigkeit nicht |
+| BGE 132 I 256 | 2006 | Kundgebungsbewilligung bei drohender Gegendemonstration; Appellwirkung der Meinungsäusserungsfreiheit |
+| BGE 134 IV 216 | 2008 | Meinungsäusserungsfreiheit und Nötigung bei Streikblockaden; Abgrenzung grundrechtlich geschützter Aktivitäten |
+| BGE 136 I 332 | 2010 | Meinungsäusserungsfreiheit eines öffentlich-rechtlichen Angestellten; Verweis und Entzug einer Leitungsfunktion unzulässig |
+| BGE 137 I 16 | 2010 | Justizöffentlichkeit konkretisiert Informationsfreiheit; Anspruch auf Einsicht in Einstellungsverfügung |
+| BGE 137 IV 313 | 2011 | Grenzen der Meinungsäusserungsfreiheit; ehrverletzende Äusserungen fallen nicht in den Schutzbereich |
+| BGE 138 I 274 | 2012 | Plakatierung im Bahnhof; Zensurverbot; Grundrechtsbindung der SBB bei Verwaltung öffentlicher Sachen |
+| BGE 138 II 346 | 2012 | Google Street View; Persönlichkeitsschutz bei Publikation von Personendaten im Internet |
+| BGE 139 I 129 | 2013 | Justizöffentlichkeit bei archivierten Urteilen; Anspruch auf Kenntnisnahme einschliesslich Spruchkörper |
+| BGE 139 I 306 | 2013 | Grundrechtsbindung der SRG im Werbebereich; Zensurproblematik bei Ausstrahlung von Werbebotschaften |
+| BGE 141 I 201 | 2015 | FINMA-Verschwiegenheitsauflage; schwerer Grundrechtseingriff ohne ausreichende gesetzliche Grundlage |
+| BGE 143 I 147 | 2017 | Kostenauferlegung bei Kundgebungen; chilling effect der Meinungs- und Versammlungsfreiheit |
+| BGE 143 I 194 | 2017 | Vollständiger Medienausschluss bei Strafverfahren verletzt Justizöffentlichkeit und Informationsfreiheit |
+| BGE 144 I 126 | 2018 | Vorratsdatenspeicherung; Randdatenspeicherung verhältnismässig unter Datenschutzgarantien |
+| BGE 144 I 170 | 2018 | Zugang zu IV-Unterlagen; Informationsfreiheit und Akteneinsicht |
+| BGE 142 II 313 | 2016 | BGÖ; subjektiver Anspruch auf Zugang zu amtlichen Dokumenten |
+| BGE 147 I 372 | 2021 | DNA-Profil bei friedlicher Kundgebung; chilling effect; Verhältnismässigkeit erkennungsdienstlicher Massnahmen |
+| BGE 148 I 33 | 2020 | Covid-19-Beschränkung auf 15 Personen; schwerer Eingriff in Versammlungsfreiheit |
+| BGE 149 I 2 | 2023 | SRG und Löschung von Benutzerkommentaren; Grundrechtsbindung im übrigen publizistischen Angebot |
+| BGE 149 I 248 | 2023 | Partielles Bettelverbot; Bettelei fällt nicht unter Schutzbereich der Meinungsfreiheit |
+| BGE 151 I 257 | 2025 | Versammlungsfreiheit bei WEF-Kundgebung; Routenverschiebung als unverhältnismässiger Eingriff |
+
+### XII. Literatur
 
 - Raphaela Cueni, Kommentierung zu Art. 16 BV, in: Stefan Schlegel/Odile Ammann (Hrsg.), Onlinekommentar zur Bundesverfassung (onlinekommentar.ch)
 - Kiener/Kälin/Wyttenbach, Grundrechte, 3. Aufl. 2018

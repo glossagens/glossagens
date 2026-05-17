@@ -2,7 +2,7 @@
 title: "Art. 30 BV — Gerichtliche Verfahren"
 weight: 30
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Kommentar zu Art. 30 BV: Anspruch auf gesetzlichen, zuständigen, unabhängigen und unparteiischen Richter; Ausnahmegerichtsverbot; Wohnsitzrichter; Öffentlichkeit von Gerichtsverhandlung und Urteilsverkündung."
 tags: ["BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Ausnahmegericht", "Wohnsitzrichter", "Öffentlichkeit", "rechtliches Gehör", "EMRK"]
 agent_verified: true
@@ -64,6 +64,10 @@ Nicht unter Art. 30 BV fallen rein administrative Verfahren, in denen eine Behö
 
 Massgebend für die Anwendbarkeit von Art. 30 BV ist, ob die entscheidende Behörde als **Gericht** im Sinne der Verfassung fungiert. Eine Behörde handelt als Gericht, wenn sie unabhängig und unparteiisch entscheidet, den Parteien das rechtliche Gehör gewährt und ihr Verfahren den grundlegenden Anforderungen eines gerichtlichen Verfahrens entspricht.
 
+### Strafrechtsähnliche Sanktionen
+
+Die Garantien von Art. 30 BV finden auch auf Sanktionen Anwendung, die einen strafrechtlichen oder strafrechtsähnlichen Charakter aufweisen, auch wenn sie formal dem Verwaltungsrecht zugeordnet sind. In BGE 139 I 72 stellte das Bundesgericht fest, dass kartellrechtliche Sanktionen nach Art. 49a KG einen strafrechtlichen bzw. strafrechtsähnlichen Charakter haben, weshalb die Garantien von Art. 30 und 32 BV sowie Art. 6 und 7 EMRK bei solchen Sanktionen anwendbar sind (E. 2). Die Anforderungen von Art. 6 EMRK können in einem Kartellsanktionsverfahren auch erst im Verwaltungsgerichtsverfahren erfüllt werden (E. 4).
+
 ## III. Anspruch auf den gesetzlichen Richter (Abs. 1 Satz 1, 1. Alternative)
 
 ### Bedeutung
@@ -85,6 +89,10 @@ Der Begriff des gesetzlichen Richters umfasst drei Elemente:
 Der Anspruch auf den gesetzlichen Richter wird verletzt, wenn eine Sache willkürlich einem anderen als dem nach Gesetz zuständigen Gericht zugewiesen wird. Dies gilt sowohl für positive Zuweisungen (Verweisung an ein unzuständiges Gericht) als auch für die Nicht-Zuweisung an das zuständige Gericht.
 
 Kantonale Zuständigkeitsregeln, die sachlich gerechtfertigt sind und den Grundsatz der Rechtsgleichheit wahren, verletzen Art. 30 Abs. 1 BV nicht. Ein Verstoss liegt hingegen vor, wenn die Zuständigkeit nach unsachlichen Kriterien bestimmt wird oder wenn die Gerichtsorganisation den Zweck hat, bestimmte Fälle bestimmten Richtern zuzuleiten.
+
+### Wahlgerichte
+
+Werden neben den ordentlichen Gerichten auch Wahlgerichte vorgesehen, bei denen die Parteien durch Anrufung wählen können, welches Gericht zuständig sein soll, so wirft dies die Frage auf, ob mit der Wahl des Wahlgerichts auf die Geltendmachung von Ausstandsgründen verzichtet wird. In BGE 136 I 207 entschied das Bundesgericht am Beispiel des Handelsgerichts des Kantons Zürich, dass wer in Ausübung einer gesetzlichen Wahlmöglichkeit nicht das ordentliche Gericht, sondern das Handelsgericht anruft, dadurch nicht den Anspruch auf Ablehnung desselben verwirkt. Wer einen Ablehnungsgrund nicht unverzüglich nach dessen Kenntnisnahme geltend macht, verwirkt jedoch den Anspruch auf seine spätere Anrufung (E. 3.4). Die Zusammensetzung des Handelsgerichts mit zwei hauptamtlichen Oberrichtern und drei Fachrichtern, die Firmeninhaber oder leitende Angestellte sein müssen, erweckte nicht den Anschein der Befangenheit oder der Parteilichkeit (E. 3.5).
 
 ## IV. Unabhängigkeit
 
@@ -108,9 +116,15 @@ In BGE 137 I 1 hat das Bundesgericht entschieden, dass die Bekanntgabe der einem
 
 Auch Personen mit unterstützender Funktion können in den Schutzbereich von Art. 30 Abs. 1 BV fallen. In BGE 140 I 271 bejahte das Bundesgericht eine Verletzung von Art. 30 Abs. 1 BV, weil der Schreiber der Steuerrekurskommission des Kantons Wallis gleichzeitig den Rechtsdienst im kantonalen Departement für Finanzen und Institutionen leitete, dem auch die kantonale Steuerverwaltung angegliedert war. Diese Funktionskumulation verstiess gegen die Unabhängigkeitsgarantie (E. 8).
 
+### Untersuchungsrichter
+
+Die Unabhängigkeit des Untersuchungsrichters beurteilt sich nach anderer Massgabe als die des Entscheidrichters. In BGE 127 I 196 stellte das Bundesgericht fest, dass die Unabhängigkeit eines Untersuchungsrichters, der seine Strafuntersuchungs- und Anklagefunktion wahrnimmt, nicht nach Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK, sondern nach Art. 29 Abs. 1 BV zu beurteilen ist (E. 2b). Hinsichtlich der Unparteilichkeit im Sinne von Unabhängigkeit und Unbefangenheit kommt Art. 29 Abs. 1 BV allerdings ein mit Art. 30 Abs. 1 BV weitgehend übereinstimmender Gehalt zu. Der Untersuchungsrichter hat sich vorverurteilender Äusserungen zu enthalten; bezeichnet er den Beschuldigten vor Abschluss der Untersuchung vorweg als Betrüger, so ist der Ausstand zu gewähren (E. 2e).
+
 ### Administrativgutachten
 
 Das Bundesgericht hat sich in BGE 137 V 210 eingehend mit der Frage befasst, ob die Einholung von Administrativ- und Gerichtsgutachten bei MEDAS (Medizinische Abklärungsstellen) mit Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar ist. Es stellte fest, dass die Wahrung eines fairen Verwaltungs- und Beschwerdeverfahrens durch den Einsatz von MEDAS-Gutachten grundsätzlich gewährleistet ist, sofern die Unabhängigkeit der Gutachter und die Waffengleichheit der Parteien gesichert sind. Das Bundesgericht hielt fest, dass die IV-Organe nicht verpflichtet sind, ein MEDAS-Gutachten einzuholen, und dass die versicherte Person kein absolutes Recht auf Begutachtung durch eine MEDAS hat (E. 5).
+
+Ergänzend befasste sich das Bundesgericht in BGE 136 V 376 mit der Beweistauglichkeit von Administrativgutachten der MEDAS unter den Aspekten der Unabhängigkeit sowie der Verfahrensfairness und Waffengleichheit. Es stellte fest, dass aus der formellen Parteieigenschaft der Durchführungsstelle der Invalidenversicherung im gerichtlichen Prozess nicht gefolgert werden darf, die Beweiserhebungen der Verwaltung im vorausgehenden nichtstreitigen Verfahren seien Parteihandlungen (E. 4).
 
 ## V. Unparteiischkeit und Anschein der Befangenheit
 
@@ -119,6 +133,10 @@ Das Bundesgericht hat sich in BGE 137 V 210 eingehend mit der Frage befasst, ob 
 Der Anspruch auf einen **unparteiischen Richter** verlangt, dass der Richter ohne Einwirken sachfremder Umstände entscheidet und auch den Anschein der Voreingenommenheit vermeidet. Liegen bei objektiver Betrachtungsweise Gegebenheiten vor, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit zu begründen vermögen, so ist die Garantie von Art. 30 Abs. 1 BV verletzt (BGE 126 I 68, E. 3).
 
 Massgebend ist die **objektive Sichtweise**: Es kommt nicht darauf an, ob der Richter tatsächlich befangen ist, sondern ob bei objektiver Betrachtungsweise Umstände vorliegen, die den Anschein der Befangenheit begründen. Die Garantie des unparteiischen Richters soll nicht nur die tatsächliche Unparteiischkeit, sondern auch das Vertrauen in die Justiz gewährleisten.
+
+### Nähe zu Verfahrensbeteiligten
+
+Der Anschein der Befangenheit kann sich auch aus der besonderen Nähe von Angehörigen der Gerichtsperson zu einer Verfahrenspartei ergeben. In BGE 140 III 221 fasste das Bundesgericht die in der Rechtsprechung entwickelten Grundsätze zur Befangenheit einer Gerichtsperson zusammen (E. 4) und bejahte den Anschein der Befangenheit einer Oberrichterin wegen besonderer Nähe ihres Ehemannes und ihres Schwagers zu einer mit einer Verfahrenspartei eng verbundenen Person. Über ihren Ehemann und ihren Schwager bestand eine derartige Nähe zu dem die Regressforderung bestreitenden Beschwerdegegner, dass die Oberrichterin wegen des Anscheins der Befangenheit hätte in Ausstand treten müssen (E. 5.2.4). Gestützt auf Art. 48 ZPO hat eine betroffene Gerichtsperson einen möglichen Ausstandsgrund von sich aus vorgängig offenzulegen.
 
 ### Strafanzeige und Zivilklage durch den Richter
 
@@ -138,6 +156,8 @@ In BGE 141 IV 178 wurde die Ausstandspflicht zweier verfahrensleitender Staatsan
 
 Eine gewisse Besorgnis der Voreingenommenheit kann bei Vorbefassung des Richters entstehen. Ob ein Richter durch seine Mitwirkung an früheren Entscheidungen in einem Mass festgelegt ist, das ihn nicht mehr als unvoreingenommen erscheinen lässt, ist im Einzelfall zu beurteilen. Die blosse Vorbefassung als solche führt nicht zwangsläufig zur Befangenheit — massgebend ist, ob die konkret zu entscheidende Rechtsfrage trotz Vorbefassung als offen erscheint (BGE 126 I 68, E. 3).
 
+Mehrfache Funktionen desselben Richters im selben Zivilprozessverfahren können ebenfalls die Frage der Vorbefassung aufwerfen. In BGE 131 I 113 fasste das Bundesgericht die Rechtsprechung aus dem Blickwinkel des Anspruchs auf ein unbefangenes Gericht zusammen (E. 3.1-3.6) und stellte fest, dass mehrfache Funktionen des Zivilrichters, der sich in demselben Verfahren wiederholt mit einer Streitsache zu befassen hat, für sich allein nicht ohne weiteres einen Ausstandsgrund begründen (E. 3.6). Ein Richter erscheint nicht schon deswegen als voreingenommen, weil er ein Gesuch um unentgeltliche Recht-pflege wegen Aussichtslosigkeit der Rechtsbegehren abgewiesen hat; damit eine unzulässige Vorbefassung vorliegt, müssen noch weitere tatsächliche Gesichtspunkte hinzukommen (E. 3.7.1).
+
 ### Prüfungsmassstab
 
 Bei der Geltendmachung der Verletzung des Anspruchs auf den unparteiischen Richter prüft das Bundesgericht:
@@ -148,6 +168,10 @@ Bei der Geltendmachung der Verletzung des Anspruchs auf den unparteiischen Richt
 ### Amterkumulation
 
 Die Amterkumulation (die Ausübung mehrerer Ämter durch dieselbe Person) kann den Anschein der Befangenheit begründen, wenn die kumulierten Funktionen so beschaffen sind, dass eine Person in einem Verfahren eine Rolle einnimmt, die mit der Funktion als Richter unvereinbar ist. Das Bundesgericht hat die Amterkumulation in verschiedenen Konstellationen geprüft und fallweise beurteilt, ob die kumulierten Funktionen den Anschein der Befangenheit begründen (BGE 131 I 24).
+
+Die Kumulation eines richterlichen Nebenamts mit der Tätigkeit als Parteivertreter wirft besondere Fragen auf. In BGE 133 I 1 verneinte das Bundesgericht den Anschein der Befangenheit in einem Fall, in dem ein Anwalt als nebenamtlicher Richter an einer Rechtsmittelinstanz mitwirkte und in einem anderen Verfahren als Parteivertreter auftrat. Der Umstand, dass der Anwalt ein derartiges richterliches Nebenamt ausübt, tangiert im konkreten Fall das Gebot der Waffengleichheit der Parteien nicht (E. 5.3). Die Frage der Waffengleichheit ist nur unter konkreten Umständen zu prüfen, etwa wenn die Gefahr der Einschüchterung des Gegenanwalts dargetan ist.
+
+Ergänzend entschied das Bundesgericht in BGE 139 I 121, dass der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage stellt. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte die in BGE 133 I 1 begründete Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
 
 ## VI. Ausnahmegerichte (Abs. 1 Satz 2)
 
@@ -239,6 +263,18 @@ Die Rechtsprechung des Bundesgerichts und des EGMR zu diesen Bestimmungen ist we
 | BGE 141 IV 178 | 2015 | Anschein der Befangenheit des Staatsanwalts; Ausstandspflicht wegen wiederholter krasser Verfahrensfehler |
 | BGE 140 I 271 | 2014 | Unabhängigkeitsgarantie; Schreiber der Steuerrekurskommission; Amterkumulation verletzt Art. 30 Abs. 1 BV |
 | BGE 126 II 377 | 2000 | Art. 30 BV verlangt keinen generellen gerichtlichen Rechtsschutz; Abgrenzung zu Art. 29a BV |
+| BGE 140 III 221 | 2019 | Zusammenfassung der Grundsätze zur Befangenheit; Anschein der Befangenheit wegen Nähe der Angehörigen |
+| BGE 136 V 376 | 2010 | Beweistauglichkeit von MEDAS-Gutachten; Unabhängigkeit und Waffengleichheit |
+| BGE 133 I 1 | 2007 | Nebenamtlicher Richter als Parteivertreter; Waffengleichheit |
+| BGE 139 I 121 | 2013 | Ausstandsbegehren gegen sämtliche Gerichtsmitglieder; Ersatzrichteramt des Parteivertreters |
+| BGE 131 I 113 | 2001 | Mehrfache Funktionen des Richters im Zivilprozess; Vorbefassung bei unentgeltlicher Rechtspflege |
+| BGE 134 I 238 | 2008 | Referentensystem und Meinungsbildung; vorläufige Einschätzung zulässig |
+| BGE 137 I 227 | 2011 | Richterliche Einwirkung auf Verteidiger; Befangenheit des Spruchkörpers |
+| BGE 144 I 159 | 2018 | Facebook-Freundschaft als Ablehnungsgrund; alleiniges Faktum genügt nicht |
+| BGE 127 I 196 | 2001 | Anspruch auf unabhängigen Untersuchungsrichter; vorverurteilende Äusserungen |
+| BGE 136 I 207 | 2010 | Handelsgericht als Wahlgericht; Verwirkung bei verspäteter Geltendmachung |
+| BGE 139 I 72 | 2013 | Art. 30 BV anwendbar auf kartellrechtliche Sanktionen mit strafrechtlichem Charakter |
+| BGE 142 I 188 | 2016 | Anspruch auf öffentliche Verhandlung im Kindesschutzverfahren |
 
 ## Weiterführende Hinweise
 

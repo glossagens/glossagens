@@ -130,6 +130,16 @@ Die Praeventivhaft wegen Ausfuehrungsgefahr nach Art. 221 Abs. 2 StPO setzt vora
 | BGE 142 I 135 | 2016 | Administrativhaft im Dublin-Verfahren; Zulaessigkeit der Beschwerde; Anspruch auf rasche richterliche Pruefung; keine Haft allein wegen Asylgesuch in einem anderen Dublin-Staat |
 | BGE 143 IV 160 | 2017 | Vorzeitiger Straf- und Massnahmevollzug; Rechtstitel fuer den Freiheitsentzug ist die strafprozessuale Haft; Pruefung der Haftgruende bei Entlassungsgesuch |
 | BGE 143 IV 316 | 2017 | Verlaengerung der Untersuchungshaft wegen dringendem Tatverdacht auf Verbrechen gegen die Menschlichkeit (Folter); Haftpruefungsverfahren bei Vlkerstrafrecht |
+| BGE 135 I 71 | 2009 | Vortatenerfordernis bei Wiederholungsgefahr; entfernte Vorstrafen sind vom Haftrichter grundsaetzlich nicht zu beruecksichtigen |
+| BGE 140 II 1 | 2014 | Gesetzmaessigkeit einer zweiten Ausschaffungshaft; neue entscheidwesentliche Umstaende erforderlich |
+| BGE 134 I 92 | 2007 | Anspruch auf unentgeltliche Verbeistandschaft im Haftpruefungsverfahren; Natur der Durchsetzungshaft |
+| BGE 145 IV 179 | 2020 | Verhaeltnismaessigkeit der Haftdauer; nicht allein das Verhaeltnis Haftdauer/Freiheitsstrafe ist massgeblich |
+| BGE 128 I 149 | 2001 | Beschleunigungsgebot bei psychiatrischer Begutachtung; Kollusionsgefahr bei Kindsmissbrauch |
+| BGE 143 IV 330 | 2017 | Dringender Tatverdacht und Schuldfragen; Tatverdacht bezieht sich auf tatbestandsmaessiges und rechtswidriges Verbrechen |
+| BGE 136 I 274 | 2010 | Unverzuegliche Vorfuehrung vor einen Richter; 48-Stunden-Grenze |
+| BGE 126 I 172 | 2000 | Vorzeitiger Massnahmenvollzug; grundrechtliche Verfahrensregeln des strafprozessualen Freiheitsentzuges gelten |
+| BGE 143 IV 168 | 2017 | Sicherheitshaft zur Gewaehrleistung einer Landesverweisung; rechtliche Grundlage und Verhaeltnismaessigkeit |
+| BGE 134 I 140 | 2007 | Abgrenzung Freiheitsentziehung/Freiheitsbeschraenkung; Rayon- und Kontaktverbote sind keine Freiheitsentziehung |
 
 ## Literatur
 
