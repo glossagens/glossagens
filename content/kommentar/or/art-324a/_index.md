@@ -2,7 +2,7 @@
 title: "Art. 324a OR — Verhinderung an der Arbeitsleistung"
 weight: 324
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Kommentar zu Art. 324a OR: Lohnfortzahlung bei unverschuldeter Verhinderung an der Arbeitsleistung aus in der Person des Arbeitnehmers liegenden Gründen, insb. Kausalität und Mehrfachursachen."
 tags: ["OR", "Arbeitsrecht", "Verhinderung", "Arbeitsleistung", "Kausalität", "Lohnfortzahlung"]
 agent_verified: true
@@ -42,7 +42,7 @@ Der Begriff der Verhinderung umfasst jede tatsächliche Unmöglichkeit der Arbei
 
 ### II. In der Person des Arbeitnehmers liegende Grunde
 
-Die in Art. 324a Abs. 1 OR genannten Grunde -- Krankheit, Unfall, Erfuellung gesetzlicher Pflichten oder Ausuebung eines oeffentlichen Amtes -- sind nicht abschliessend (BGE 152 III 23, E. 2.3.1). Eine Arbeitsverhinderung im Sinne dieser Bestimmung kann sich auch aus aeusseren Umstaenden ergeben, etwa durch eine fuerorgerische Unterbringung (Art. 426 ZGB) oder eine angeordnete Untersuchungshaft, sofern dem Arbeitnehmer kein Verschulden vorgeworfen werden kann (BGE 152 III 23, E. 2.3.1 unter Hinweis auf Trezzini, Commentario pratico al contratto di lavoro, 2020, N. 10 zu Art. 324a OR; Longchamp, in: Commentaire du contrat de travail, 2. Aufl. 2022, N. 17; Rehbinder/Stoeckli, Berner Kommentar, 2010, N. 11; Streiff/von Kaenel/Rudolph, Arbeitsvertrag, 7. Aufl. 2012, N. 19). Gegenteiliges gilt in der Regel im Falle einer Verurteilung (BGE 114 II 274, E. 5).
+Die in Art. 324a Abs. 1 OR genannten Grunde -- Krankheit, Unfall, Erfuellung gesetzlicher Pflichten oder Ausuebung eines oeffentlichen Amtes -- sind nicht abschliessend (BGE 152 III 23, E. 2.3.1). Eine Arbeitsverhinderung im Sinne dieser Bestimmung kann sich auch aus aeusseren Umstaenden ergeben, etwa durch eine fuerorgerische Unterbringung (Art. 426 ZGB) oder eine angeordnete Untersuchungshaft, sofern dem Arbeitnehmer kein Verschulden vorgeworfen werden kann (BGE 152 III 23, E. 2.3.1 unter Hinweis auf Trezzini, Commentario pratico al contratto di lavoro, 2020, N. 10 zu Art. 324a OR; Longchamp, in: Commentaire du contrat de travail, 2. Aufl. 2022, N. 17; Rehbinder/Stoeckli, Berner Kommentar, 2010, N. 11; Streiff/von Kaenel/Rudolph, Arbeitsvertrag, 7. Aufl. 2012, N. 19). Gegenteiliges gilt in der Regel im Falle einer Verurteilung (BGE 114 II 274, E. 5). Ebenfalls als unverschuldet gilt die Arbeitsverhinderung infolge Verweigerung des Militaerdienstes aus Gewissensgruenden, da seit der Verfassungsrevision von 1992 die Gewissensfreiheit verfassungsrechtlich verankert ist und eine Qualifizierung als Verschulden nicht mehr in Betracht faellt (BGE 122 III 268, E. 3).
 
 Beim Grund der Krankheit bildet nicht die gesundheitliche Beeintraechtigung als solches die Voraussetzung fuer den Anspruch auf Lohnfortzahlung, sondern die daraus resultierende Arbeitsunfaehigkeit bzw. Unzumutbarkeit der Fortsetzung der Arbeit (Paerli/Petrik, a.a.O., Rz. 154).
 
@@ -58,7 +58,7 @@ Die Leistungspflicht nach Art. 324a OR setzt in jedem Fall einen natuerlichen Ka
 
 #### 2. Mehrfachverursachung und Kausalketten
 
-Fuer die Bejahung des natuerlichen Kausalzusammenhangs ist nicht erforderlich, dass die Krankheit die alleinige oder unmittelbare Ursache der Arbeitsverhinderung ist; es genuegt, dass sie zusammen mit anderen Bedingungen den Arbeitnehmer an der Leistungserbringung gehindert hat, d.h. nicht weggedacht werden kann, ohne dass auch die eingetretene Arbeitsverhinderung entfiele (BGE 152 III 23, E. 2.3.2).
+Fuer die Bejahung des natuerlichen Kausalzusammenhangs ist nicht erforderlich, dass die Krankheit die alleinige oder unmittelbare Ursache der Arbeitsverhinderung ist; es genuegt, dass sie zusammen mit anderen Bedingungen den Arbeitnehmer an der Leistungserbringung gehindert hat, d.h. nicht weggedacht werden kann, ohne dass auch die eingetretene Arbeitsverhinderung entfiele (BGE 152 III 23, E. 2.3.2; 4A_232/2019, E. 3.2).
 
 Liegen in einem konkreten Fall mehrere Gruende fuer eine Arbeitsverhinderung vor, so ist fuer die jeweilige Zeitperiode zu beurteilen, aus welchem Grund der Arbeitnehmer an der Arbeitsleistung verhindert ist und ob der jeweilige Grund als verschuldet oder unverschuldet zu gelten hat (BGE 152 III 23, E. 2.3.3):
 
@@ -70,7 +70,17 @@ Liegen in einem konkreten Fall mehrere Gruende fuer eine Arbeitsverhinderung vor
 
 Der Lohnfortzahlungsanspruch besteht nur, wenn das Arbeitsverhaeltnis mehr als drei Monate gedauert hat oder fuer mehr als drei Monate eingegangen wurde (Art. 324a Abs. 1 OR). Die Dauer von mehr als drei Monaten berechnet sich ab dem Tag der Arbeitsaufnahme (BGE 131 III 623, E. 2.3). Wird der Arbeitnehmer ohne Verschulden innert der ersten drei Monate an der Arbeitsleistung verhindert, so hat er im Rahmen eines unbefristeten Arbeitsvertrags mit einer Kuendigungsfrist von drei oder weniger Monaten keinen Lohnanspruch vor dem ersten Tag des vierten Monats (Karenzfrist) (BGE 131 III 623, E. 2.4).
 
-Abweichungen von dieser Regelung sind durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag moeglich, sofern sie fuer den Arbeitnehmer mindestens gleichwertig sind (Art. 324a Abs. 4 OR). Art. 324a Abs. 2 OR erlaubt es den Vertragsparteien, durch eine Vereinbarung, die keiner besonderen Form bedarf, dem Arbeitnehmer die Deckung des Lohnausfalls waehrend der Karenzfrist zuzusichern (BGE 131 III 623, E. 2.5.2).
+Abweichungen von dieser Regelung sind durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag moeglich, sofern sie fuer den Arbeitnehmer mindestens gleichwertig sind (Art. 324a Abs. 4 OR). Art. 324a Abs. 2 OR erlaubt es den Vertragsparteien, durch eine Vereinbarung, die keiner besonderen Form bedarf, dem Arbeitnehmer die Deckung des Lohnausfalls waehrend der Karenzfrist zuzusichern (BGE 131 III 623, E. 2.5.2). Die Lohnfortzahlungspflicht nach Art. 324a OR endet mit der Beendigung des Arbeitsverhaeltnisses, sofern nicht ausdruecklich etwas anderes vereinbart wurde (BGE 113 II 263, E. 3).
+
+### VI. Krankentaggeldversicherung und Gleichwertigkeit (Abs. 4)
+
+Art. 324a Abs. 4 OR ermoeglicht abweichende Regelungen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag, sofern diese fuer den Arbeitnehmer mindestens gleichwertig sind. Die Gleichwertigkeit verlangt, dass die Krankentaggeldversicherung mindestens 80% des Lohnes deckt, die Taggeldleistungen waehrend mindestens 720 Tagen innerhalb von 900 Tagen erbracht werden und die Praemien haelftisch zwischen Arbeitgeber und Arbeitnehmer geteilt werden (BGE 135 III 640, E. 4). Bestimmungen ueber die Krankentaggeldversicherung nach Art. 324a Abs. 4 OR qualifizieren als Lohnbestimmungen im Sinne von Art. 20 Abs. 1 LSE (BGE 124 III 126, E. 3; BGE 135 III 640, E. 3).
+
+Die Schriftform nach Art. 324a Abs. 4 OR wird nur gewahrt, wenn die wesentlichen Elemente der Krankentaggeldversicherung — versicherter Lohnanteil, Leistungsdauer, Selbstbehaltstage und Praemienteilung — in der schriftlichen Vereinbarung selbst enthalten sind oder durch Bezugnahme auf ein Betriebsreglement oder die allgemeinen Versicherungsbedingungen einbezogen werden (4A_98/2014, E. 3).
+
+Bei Kollektiv-Krankentaggeldversicherung nach VVG haengt der Taggeldanspruch nicht von der Gruppenzugehoerigkeit ab; er ueberdauert das Ende der Versicherungszugehoerigkeit (BGE 127 III 106, E. 3). Der versicherte Arbeitnehmer hat einen eigenstaendigen Anspruch gegenueber dem Versicherer (Art. 87 VVG); der Arbeitgeber ist fuer Taggeldansprueche nicht passiv legitimiert und handelt lediglich als Zahlstelle (4A_514/2018, E. 3). Die gesetzliche Lohnfortzahlungspflicht lebt nicht wieder auf, wenn die Versicherung ihre Zahlungen einstellt (4A_514/2018, E. 4).
+
+Verletzt der Arbeitgeber seine Fuerpflicht (Art. 328 OR) dadurch, dass er eine zugesagte Krankentaggeldversicherung nicht abschliesst oder beim Wechsel des Versicherers eine Taggeldluecke entsteht, haftet er dem Arbeitnehmer nach Art. 97 OR auf Ersatz des Schadens. Der Arbeitnehmer ist so zu stellen, als waere die Versicherung ordnungsgemaess abgeschlossen worden, auch ueber das Ende des Arbeitsverhaeltnisses hinaus (4C.230/2000; 4C.9/2006).
 
 ## Beweislast
 
@@ -90,6 +100,8 @@ Art. 324a OR ist eine der meistzitierten Bestimmungen des Arbeitsvertragsrechts.
 
 - **Krankheit und Unfall**: Krankheits- oder unfallbedingte Arbeitsunfaehigkeit ist der haufigste Anwendungsfall. Die Frage des Verschuldens bei Suchterkrankungen ist durch BGE 152 III 23, E. 2.3.1, und BGE 145 V 215, E. 4 ff., geklaert.
 
+- **Arbeitszeugnis und Kuedigung wegen Krankheit**: Ist der Arbeitnehmer aufgrund seiner Krankheit fuer die bisherige Taetigkeit nicht mehr geeignet, muss die Krankheit im qualifizierten Arbeitszeugnis erwaehnt werden, wenn sie die Eignung fuer die bisherige Taetigkeit materiell in Frage stellte und tatsaechlicher Kuedigungsgrund war. Eine Kuedigung wegen Krankheit ist nach Ablauf der Sperrfrist grundsaetzlich zulaessig (BGE 136 III 510, E. 4 und 5).
+
 - **Karenzfrist**: Die Dreimonatskarenzfrist bei unbefristeten Arbeitsvertraegen mit kurzer Kuendigungsfrist ist in der Praxis von grosser Bedeutung (BGE 131 III 623, E. 2.4).
 
 - **Kausalitaet bei Mehrfachverursachung**: Die Unterscheidung zwischen unabhaengig voneinander bestehenden Verhinderungsgruenden und Kausalketten ist entscheidend fuer die Anspruchsbegruendung (BGE 152 III 23, E. 2.3.3 und E. 2.3.4).
@@ -104,9 +116,21 @@ Art. 324a OR ist eine der meistzitierten Bestimmungen des Arbeitsvertragsrechts.
 |---|---|---|---|
 | BGE 152 III 23 | 2026 | Kausalitaet bei Mehrfachverursachung; Alkoholsucht und Fuehrerausweisentzug | Natuerlicher Kausalzusammenhang zwischen unverschuldetem Verhinderungsgrund und Ausbleiben der Arbeitsleistung bei mehreren moeglichen Ursachen |
 | BGE 150 III 22 | 2023 | Betriebsrisiko und Coronavirus | Arbeitsverhinderung als Folge von Corona-Massnahmen faellt nicht in die Risikosphäre des Arbeitgebers (Art. 324 OR), sondern stellt objektive Gruende im Sinne von Art. 91 OR dar |
+| 4A_232/2019 | 2019 | Natuerlicher Kausalzusammenhang (Mitverursachung) | Condicio-sine-qua-non-Test bei Art. 324a OR; Mitverursachung genuegt; Krankheit muss nicht alleinige oder unmittelbare Ursache sein |
+| 4A_514/2018 | 2018 | Kollektiv-Krankentaggeldversicherung | Eigenstaendiger Anspruch des versicherten Arbeitnehmers gegenueber dem Versicherer (Art. 87 VVG); Arbeitgeber nicht passiv legitimiert; gesetzliche Lohnfortzahlungspflicht lebt nicht wieder auf |
 | BGE 145 V 215 | 2019 | Suchterkrankung als Krankheit | Primaere Abhaengigkeitssyndrome sind wie saemtliche psychischen Erkrankungen grundsatzlich einem strukturierten Beweisverfahren zu unterziehen |
 | BGE 143 V 385 | 2016 | Krankentaggeldversicherung und Art. 324a OR | Von der Krankenversicherung ausgerichtete Entschaedigungen gelten nur als Lohn, wenn sie den vom Arbeitgeber nach Art. 324a OR geschuldeten Lohn ersetzen |
+| 4A_98/2014 | 2014 | Schriftform nach Art. 324a Abs. 4 OR | Krankentaggeldklausel wahrt Schriftform nur bei Aufnahme der wesentlichen Elemente in die schriftliche Vereinbarung oder Bezugnahme auf Betriebsreglement/AVB |
+| BGE 136 III 510 | 2010 | Krankheit im Arbeitszeugnis; Kuedigung wegen Krankheit | Krankheit muss im qualifizierten Arbeitszeugnis erwaehnt werden, wenn sie Eignung fuer bisherige Taetigkeit in Frage stellte; Kuedigung nach Sperrfrist grundsaetzlich zulaessig |
+| BGE 135 III 640 | 2009 | Krankentaggeldversicherung und Gleichwertigkeit (Abs. 4) | Krankentaggeldversicherung nach Art. 324a Abs. 4 OR als Lohnbestimmung i.S.v. Art. 20 Abs. 1 LSE; Gleichwertigkeit erfordert mind. 80% Taggeld, 720 Tage/900 Tage, haelftige Praemienteilung |
 | BGE 133 III 185 | 2007 | Kausalkette: Psychische Erkrankung und Straftat | Arbeitsunfaehigkeit infolge psychischer Erkrankung, die kausal fuer Brandstiftungen war, bleibt krankheitsbedingt; Anstaltsaufenthalt funktionell als Klinikaufenthalt |
+| 4C.9/2006 | 2006 | Fuerpflicht beim Wechsel der Krankentaggeldversicherung | Wechsel der Krankentaggeldversicherung mit Taggeldluecke verletzt Fuerpflicht (Art. 328 OR); Arbeitgeber muss kontinuierliche Deckung sicherstellen oder Schadenersatz leisten |
 | BGE 131 III 623 | 2005 | Karenzfrist und Dauer des Arbeitsverhaeltnisses | Dauer von mehr als drei Monaten berechnet sich ab dem Tag der Arbeitsaufnahme; Karenzfrist bei unbefristeten Vertraegen mit kurzer Kuendigungsfrist |
+| BGE 127 III 318 | 2001 | GAV-Krankentaggeldversicherung | Obligationen des Arbeitgebers aus Kollektivversicherung ueberdauern Beendigung des Arbeitsverhaeltnisses; Arbeitgeberhaftung fuer Nichteinloesung der Versicherungszusage (Art. 97 OR) |
+| BGE 127 III 106 | 2001 | Kollektiv-Krankentaggeldversicherung nach VVG | Taggeldanspruch haengt nicht von Gruppenzugehoerigkeit ab; Anspruch ueberdauert Ende der Versicherungszugehoerigkeit |
+| 4C.230/2000 | 2000 | Arbeitgeberhaftung bei Nichteinloesung der Versicherungszusage | Arbeitnehmer ist so zu stellen, als waere die Versicherung ordnungsgemaess abgeschlossen worden (Art. 97 OR), auch ueber Ende des Arbeitsverhaeltnisses hinaus |
 | BGE 126 III 75 | 2000 | Gefahrtragung bei unverschuldeter Unmoeglichkeit | Die Folgen der unverschuldeten nachtraeglichen Unmoeglichkeit der vom Arbeitnehmer versprochenen Leistung sind in Art. 324a und 324b OR geregelt |
+| BGE 124 III 126 | 1997 | Personalverleiher und Lohnfortzahlung | Lohnfortzahlungspflicht des Verleihers; Art. 324a OR-Fragen als Lohnbestimmungen i.S.v. Art. 20 Abs. 1 LSE; Vertrauensschutz bei fehlendem Versicherungsschutz |
+| BGE 122 III 268 | 1996 | Militaerdienstverweigerung aus Gewissensgruenden | Arbeitsverhinderung infolge Militaerdienstverweigerung aus Gewissensgruenden ist unverschuldet i.S.v. Art. 324a Abs. 1 OR |
 | BGE 114 II 274 | 1988 | Verschulden bei Verurteilung | Im Falle einer Verurteilung fehlt es in der Regel an der Unverschuldetheit der Arbeitsverhinderung |
+| BGE 113 II 263 | 1987 | Ende der Lohnfortzahlungspflicht | Lohnfortzahlungspflicht nach Art. 324a OR endet mit Beendigung des Arbeitsverhaeltnisses, sofern nicht ausdruecklich etwas anderes vereinbart |

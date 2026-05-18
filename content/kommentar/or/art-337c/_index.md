@@ -2,7 +2,7 @@
 title: "Art. 337c OR — Abfindung bei ungerechtfertigter Entlassung"
 weight: 337
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Kommentar zu Art. 337c OR: Abfindung bei ungerechtfertigter Entlassung — Anspruchsvoraussetzungen, Berechnung des Lohnersatzes, Anrechnungspflicht, Entschädigung sui generis und Kumulierungsverbot."
 tags: ["OR", "Abfindung", "ungerechtfertigte Entlassung", "Arbeitsrecht"]
 agent_verified: true
@@ -14,6 +14,37 @@ agent_verified: true
 > ¹ Entlässt der Arbeitgeber den Arbeitnehmer fristlos ohne wichtigen Grund, so hat dieser Anspruch auf Ersatz dessen, was er verdient hätte, wenn das Arbeitsverhältnis unter Einhaltung der Kündigungsfrist oder durch Ablauf der bestimmten Vertragszeit beendigt worden wäre.  
 > ² Der Arbeitnehmer muss sich daran anrechnen lassen, was er infolge der Beendigung des Arbeitsverhältnisses erspart hat und was er durch anderweitige Arbeit verdient oder zu verdienen absichtlich unterlassen hat.  
 > ³ Der Richter kann den Arbeitgeber verpflichten, dem Arbeitnehmer eine Entschädigung zu bezahlen, die er nach freiem Ermessen unter Würdigung aller Umstände festlegt; diese Entschädigung darf jedoch den Lohn des Arbeitnehmers für sechs Monate nicht übersteigen.
+
+## Leitentscheide
+
+| Entscheidung | Jahr | Thema | Regeste-Kern |
+|---|---|---|---|
+| BGE 112 II 41 | 1993 | Gestuftes Arbeitsverhältnis | Schutzbestimmungen über fristlose Auflösung auch auf gestufte Arbeitsverhältnisse anwendbar |
+| BGE 116 II 300 | 1992 | Regelanspruch | Ungerechtfertigte fristlose Entlassung hat regelmässig eine Entschädigung zur Folge |
+| BGE 117 II 270 | 1992 | Lohnersatz, Rechtsnatur | Anspruch aus Abs. 1 hat Schadenersatzcharakter; umfasst auch Abgeltung nicht bezogener Ferientage |
+| BGE 118 II 139 | 1992 | Anrechnungspflicht bei Freistellung | Art. 337c Abs. 2 OR analog auf Freistellung anwendbar; befreiter Arbeitnehmer muss anderweitigen Verdienst anrechnen lassen |
+| BGE 119 II 157 | 1993 | Pönale Funktion | Entschädigung nach Art. 336a OR hat pönalen Charakter; Grundlage für das Verständnis auch von Art. 337c Abs. 3 OR |
+| BGE 120 II 243 | 1993 | Mitverschulden, Herabsetzung | Abs. 1 nicht analog Art. 44 OR herabsetzbar; Mitverschulden nur bei Abs. 3 massgeblich |
+| BGE 121 III 64 | 1994 | Kumulierungsverbot | Keine Kumulierung von Entschädigungen nach Art. 336a und 337c Abs. 3 OR |
+| BGE 123 III 391 | 1997 | Rechtsnatur, sui generis | Entschädigung ist sui generis mit Genugtuungs- und pönaler Komponente |
+| BGE 123 V 5 | 1997 | AHV-Pflicht | Lohnersatz nach Abs. 1 ist AHV-pflichtig; Entschädigung nach Abs. 3 nicht |
+| BGE 124 III 25 | 1997 | Schwerer Treuepflichtverletzung | Arbeitgeber kann Umstände nachschieben, die bei Ausspruch der Kündigung bereits vorlagen, aber noch nicht bekannt waren |
+| BGE 128 III 271 | 1998 | Ferien, Anrechnungspflicht | Beweislast für Anrechnung beim Arbeitgeber; analoge Anwendung von Art. 42 Abs. 2 OR |
+| BGE 129 III 380 | 2003 | Wichtiger Grund | Sofortige Auflösung auch bei Vorfall ohne Vertragsverletzung möglich, wenn untragbare Situation |
+| BGE 133 III 657 | 2007 | Keine Analogie zugunsten des Arbeitnehmers | Art. 337c Abs. 3 OR nicht analog auf berechtigte fristlose Kündigung durch Arbeitnehmer anwendbar |
+| BGE 135 III 405 | 2009 | Abschliessende Regelung | Art. 337c OR regelt die finanziellen Folgen abschliessend; nur bei eigenständiger Persönlichkeitsverletzung zusätzliche Ansprüche |
+| BGE 137 III 303 | 2011 | Berechtigtes Beschäftigungsinteresse | Art. 49 OR (Genugtuung) kann bei schwerer Persönlichkeitsverletzung kumulativ angewendet werden |
+| BGE 138 I 113 | 2012 | Verwirkung | Verspätete Aussprechung kann zur Verwirkung des Kündigungsrechts führen |
+| BGE 142 III 579 | 2016 | Nachschieben von Kündigungsgründen | Ergänzender Grund muss nicht gleichartig sein; fehlerhafte Übersetzung des französischen "un semblable motif" korrigiert |
+| BGE 144 III 235 | 2018 | Schiedsfähigkeit | Ansprüche aus Art. 337c OR sind der Schiedsfähigkeit zugänglich |
+| BGE 147 III 475 | 2021 | Vorbereitungshandlungen | Vorbereitungshandlungen für künftige Tätigkeit sind erlaubt; fristlose Kündigung war ungerechtfertigt |
+| BGE 148 II 551 | 2023 | Steuerbarkeit, Art. 336a OR | Entschädigung nach Art. 336a OR als Ganze steuerfrei (Genugtuung nach Art. 24 lit. g DBG) |
+| BGE 152 II 19 | 2025 | Steuerbarkeit, Art. 337c Abs. 3 OR | Entschädigung immer als Ganze zu beurteilen; nicht in jedem Fall Genugtuung |
+| 4A_511/2010 | 2010 | Beweislast, Regelanspruch | Beweislast für Anrechnung beim Arbeitgeber; Entschädigung nach Abs. 3 die Regel |
+| 4A_56/2016 | 2016 | Erste-Reaktion-Prinzip | Arbeitgeber, der nur Abmahnung ausspricht, daran gebunden; spätere Eskalation unzulässig |
+| 4A_372/2016 | 2017 | Verspätete fristlose Kündigung | Verspätete fristlose Kündigung hat dieselben Folgen wie ungerechtfertigte |
+| 4A_431/2017 | 2018 | Krankheit, Lohnersatz | Kündigungsfrist wird nicht durch nachfolgende Krankheit gehemmt |
+| 4A_173/2018/4A_179/2018 | 2019 | Bemessung bei hohem Einkommen | Allein hohes Einkommen kein Hinderungsgrund für volle Entschädigung; bei schwerem Verschulden regelmässig 4–6 Monatslöhne |
 
 ## Systematik
 
@@ -41,11 +72,19 @@ Art. 337c OR setzt voraus, dass der Arbeitgeber das Arbeitsverhältnis fristlos 
 
 Die Entlassung muss ohne wichtigen Grund erfolgt sein. Ein wichtiger Grund im Sinne von Art. 337 Abs. 2 OR liegt vor, wenn dem Kündigenden nach Treu und Glauben die Fortsetzung des Arbeitsverhältnisses nicht mehr zugemutet werden darf (BGE 129 III 380). Das Vorliegen eines wichtigen Grundes ist eine Tatfrage, die das Bundesgericht nur unter dem Gesichtspunkt der Willkür überprüft.
 
-Besonders bedeutsam ist die Frage, ob ein zunächst vorhandener wichtiger Grund durch verzögerte Aussprechung verwirkt werden kann. Im öffentlichen Personalrecht hat das Bundesgericht präzisiert, dass auch bei Vorliegen sachlich hinreichender Gründe das Kündigungsrecht verwirkt sein kann, wenn die fristlose Entlassung nicht rechtzeitig ausgesprochen wird (BGE 138 I 113, E. 6.3 und 6.4). Ist der wichtige Grund zwar vorhanden, das Kündigungsrecht aber infolge verspäteter Aussprechung verwirkt, so liegt gleichwohl eine ungerechtfertigte fristlose Entlassung vor — ein Umstand, der für die steuerliche Beurteilung der Entschädigung von Bedeutung ist (BGE 152 II 19, E. 6.3).
+Besonders bedeutsam ist die Frage, ob ein zunächst vorhandener wichtiger Grund durch verzögerte Aussprechung verwirkt werden kann. Im öffentlichen Personalrecht hat das Bundesgericht präzisiert, dass auch bei Vorliegen sachlich hinreichender Gründe das Kündigungsrecht verwirkt sein kann, wenn die fristlose Entlassung nicht rechtzeitig ausgesprochen wird (BGE 138 I 113, E. 6.3 und 6.4). Ist der wichtige Grund zwar vorhanden, das Kündigungsrecht aber infolge verspäteter Aussprechung verwirkt, so liegt gleichwohl eine ungerechtfertigte fristlose Entlassung vor — ein Umstand, der für die steuerliche Beurteilung der Entschädigung von Bedeutung ist (BGE 152 II 19, E. 6.3). Eine verspätete fristlose Kündigung hat dieselben Rechtsfolgen wie eine ungerechtfertigte; sie kann nicht in eine ordentliche Kündigung umgedeutet werden (Urteil 4A_372/2016 vom 27. März 2017, E. 4).
+
+Eng verwandt ist die Frage des Nachschiebens von Kündigungsgründen. Das Bundesgericht hat klargestellt, dass der Arbeitgeber Umstände nachschieben kann, die bei Ausspruch der Kündigung bereits vorlagen, aber noch nicht bekannt waren (BGE 124 III 25, E. 3c). Dagegen können nachträglich erst entstandene Gründe eine fristlose Entlassung nicht rechtfertigen (Urteil 4A_511/2010 vom 21. Oktober 2010, E. 3). Beim Nachschieben von Gründen muss der ergänzende Grund nicht gleichartig sein wie der ursprünglich genannte; die in der Lehre teilweise vertretene Gegenauffassung beruhte auf einer fehlerhaften Übersetzung des französischen "un semblable motif" und wurde vom Bundesgericht korrigiert (BGE 142 III 579, E. 5.3).
+
+Dem Erste-Reaktion-Prinzip kommt erhebliche Bedeutung zu: Ein Arbeitgeber, der auf ein Fehlverhalten des Arbeitnehmers zunächst nur mit einer Abmahnung reagiert, ist an diese Wahl gebunden und kann dieselben Sachverhalte nicht nachträglich zur Begründung einer fristlosen Entlassung heranziehen (Urteil 4A_56/2016 vom 25. Mai 2016, E. 5).
 
 ### III. Arbeitnehmerschutz bei gestuftem Arbeitsverhältnis
 
 Art. 337c OR ist auch auf gestufte Arbeitsverhältnisse anwendbar, bei denen sich jemand verpflichtet, nicht nur seine eigene Arbeitsleistung zu erbringen, sondern auch diejenige Dritter zu beschaffen (BGE 112 II 41, E. 1a). Das Bundesgericht hat klargestellt, dass die Rechtsnatur eines Vertrags über die Anstellung eines Orchesters kein einfacher Arbeitsvertrag ist, sondern ein gestuftes Arbeitsverhältnis, auf das die Schutzbestimmungen über die fristlose Auflösung anwendbar sind (BGE 112 II 41).
+
+### IV. Freistellung und Vorbereitungshandlungen
+
+Wird der Arbeitnehmer freigestellt, so finden die Regeln über die Anrechnungspflicht nach Art. 337c Abs. 2 OR analog Anwendung: Der freigestellte Arbeitnehmer muss sich anderweitigen Verdienst anrechnen lassen (BGE 118 II 139, E. 3). Vorbereitungshandlungen für eine künftige berufliche Tätigkeit nach Beendigung des Arbeitsverhältnisses sind dem Arbeitnehmer nach Massgabe von Art. 321a OR grundsätzlich gestattet und stellen keinen wichtigen Grund für eine fristlose Entlassung dar. Dies gilt auch dann, wenn der Arbeitnehmer während einer Freistellung Vorbereitungen für ein konkurrierendes Unternehmen trifft, solange diese nicht über blosse Vorbereitungshandlungen hinausgehen (BGE 147 III 475, E. 5.3).
 
 ## Rechtsfolgen
 
@@ -57,11 +96,15 @@ Der Lohnersatz umfasst sämtliche Vergütungsbestandteile, einschließlich Natur
 
 Der Anspruch nach Abs. 1 kann nicht in analoger Anwendung von Art. 44 OR herabgesetzt werden; ein Mitverschulden des Arbeitnehmers fällt als Herabsetzungsgrund einzig bei der Entschädigung nach Abs. 3 in Betracht (BGE 120 II 243, E. 3).
 
+Die fristlose Entlassung beendet das Arbeitsverhältnis sofort. Die Kündigungsfrist, deren Ablauf für die Berechnung des Lohnersatzes nach Abs. 1 massgeblich ist, wird nicht durch eine nachträgliche Erkrankung des Arbeitnehmers gehemmt. Massgeblich für die Berechnung des "entgangenen Verdienstes" ist das, was dem Arbeitnehmer bei ordentlicher Beendigung tatsächlich zugestanden hätte (Urteil 4A_431/2017 vom 24. Januar 2018, E. 4).
+
 ### II. Anrechnungspflicht nach Abs. 2
 
 Der Arbeitnehmer muss sich auf den Lohnersatz anrechnen lassen, was er infolge der Beendigung des Arbeitsverhältnisses erspart hat und was er durch anderweitige Arbeit verdient oder zu verdienen absichtlich unterlassen hat. Die Anrechnungspflicht bezweckt, eine ungerechtfertigte Bereicherung des Arbeitnehmers auszuschliessen (BGE 128 III 271, E. 4).
 
-Die Beweislast für die Anrechnungspflicht obliegt dem Arbeitgeber, der geltend macht, dass der Arbeitnehmer Ersparnisse oder anderweitigen Verdienst hat. Hinsichtlich des Beweises der Anzahl bezogener Ferientage wendet das Bundesgericht ein Regelbeweismass an und lässt die analoge Anwendung von Art. 42 Abs. 2 OR zu, wenn der Beweis mit genügender Sicherheit nicht auf andere Weise geführt werden kann (BGE 128 III 271, E. 2b).
+Die Anrechnungspflicht nach Abs. 2 findet analog auch bei Freistellung Anwendung: Ein freigestellter Arbeitnehmer, der während der Freistellungszeit anderweitigen Verdienst erzielt, muss sich diesen auf den weiterhin geschuldeten Lohn anrechnen lassen (BGE 118 II 139, E. 3).
+
+Die Beweislast für die Anrechnungspflicht obliegt dem Arbeitgeber, der geltend macht, dass der Arbeitnehmer Ersparnisse oder anderweitigen Verdienst hat (Urteil 4A_511/2010 vom 21. Oktober 2010, E. 5). Hinsichtlich des Beweises der Anzahl bezogener Ferientage wendet das Bundesgericht ein Regelbeweismass an und lässt die analoge Anwendung von Art. 42 Abs. 2 OR zu, wenn der Beweis mit genügender Sicherheit nicht auf andere Weise geführt werden kann (BGE 128 III 271, E. 2b).
 
 ### III. Entschädigung nach Abs. 3 (sui generis)
 
@@ -69,7 +112,9 @@ Abs. 3 gewährt dem Richter das Ermessen, den Arbeitgeber zur Zahlung einer Ents
 
 #### 1. Regelanspruch
 
-Eine ungerechtfertigte fristlose Entlassung hat nach neuerem Recht regelmässig eine Entschädigung zur Folge; ausnahmsweise kann davon abgesehen werden (BGE 116 II 300, E. 5). Das Bundesgericht hat klargestellt, dass die Entschädigung nach Abs. 3 grundsätzlich geschuldet ist, wenn die fristlose Entlassung ungerechtfertigt ist.
+Eine ungerechtfertigte fristlose Entlassung hat nach neuerem Recht regelmässig eine Entschädigung zur Folge; ausnahmsweise kann davon abgesehen werden (BGE 116 II 300, E. 5). Das Bundesgericht hat klargestellt, dass die Entschädigung nach Abs. 3 grundsätzlich geschuldet ist, wenn die fristlose Entlassung ungerechtfertigt ist. Die Zubilligung der Entschädigung ist die Regel; von ihrer Versagung sind aussergewöhnliche Umstände erforderlich (Urteil 4A_511/2010 vom 21. Oktober 2010, E. 4).
+
+Die Entschädigung nach Abs. 3 ist nicht analog auf die berechtigte fristlose Kündigung durch den Arbeitnehmer nach Art. 337b OR anwendbar. Das Bundesgericht hat dies ausdrücklich verneint: Der Gesetzgeber hat die beiden Situationen bewusst unterschiedlich geregelt; punitive Sanktionen des Arbeitgebers sind dem Schweizer Arbeitsrecht fremd (BGE 133 III 657, E. 5.2 und 5.3).
 
 #### 2. Bemessungsfaktoren
 
@@ -85,7 +130,7 @@ Bei der Bemessung der Entschädigung sind alle Umstände zu berücksichtigen, na
 - deren soziale Situation und Stellung im Unternehmen,
 - die ökonomischen Auswirkungen der Kündigung.
 
-Diese Bemessungskriterien gelten auch im Anwendungsbereich des öffentlichen Personalrechts (BGE 152 II 19, E. 3.3.3; Urteil 4A_7/2018 vom 18. April 2018, E. 4.3).
+Diese Bemessungskriterien gelten auch im Anwendungsbereich des öffentlichen Personalrechts (BGE 152 II 19, E. 3.3.3; Urteil 4A_7/2018 vom 18. April 2018, E. 4.3). Ein alleine hohes Einkommen des Arbeitnehmers stellt keinen hinreichenden Grund dar, um die Entschädigung unter den Regelanspruch zu senken; bei schwerem Verschulden des Arbeitgebers erreicht die Entschädigung regelmässig vier bis sechs Monatslöhne (Urteil 4A_173/2018/4A_179/2018 vom 8. Februar 2019, E. 7.5).
 
 #### 3. Höchstbetrag
 
@@ -93,11 +138,11 @@ Die Entschädigung darf den Lohn des Arbeitnehmers für sechs Monate nicht über
 
 ### IV. Abschliessende Regelung
 
-Art. 337c OR regelt vertragsrechtlich abschliessend die finanziellen Folgen einer ungerechtfertigten Entlassung in Form von Schadenersatz (Abs. 1) sowie einer Entschädigung *sui generis* (Abs. 3). Verlangt der Arbeitnehmer zusätzlichen Schadenersatz wie etwa einen entgangenen Gewinn nach ordentlicher Beendigung des Vertrags, so hat er entweder eine Persönlichkeitsverletzung zu beweisen, die über jene wegen ungerechtfertigter Entlassung hinausgeht, oder die Verletzung einer anderen, nicht aus Art. 328 OR folgenden Vertragspflicht (BGE 135 III 405, E. 3.1 und 3.2).
+Art. 337c OR regelt vertragsrechtlich abschliessend die finanziellen Folgen einer ungerechtfertigten Entlassung in Form von Schadenersatz (Abs. 1) sowie einer Entschädigung *sui generis* (Abs. 3). Verlangt der Arbeitnehmer zusätzlichen Schadenersatz wie etwa einen entgangenen Gewinn nach ordentlicher Beendigung des Vertrags, so hat er entweder eine Persönlichkeitsverletzung zu beweisen, die über jene wegen ungerechtfertigter Entlassung hinausgeht, oder die Verletzung einer anderen, nicht aus Art. 328 OR folgenden Vertragspflicht (BGE 135 III 405, E. 3.1 und 3.2). In Fällen schwerer Persönlichkeitsverletzung kann Art. 49 OR (Genugtuung) jedoch kumulativ neben Art. 337c OR angerufen werden, sofern die Voraussetzungen von Art. 49 OR eigenständig erfüllt sind (BGE 137 III 303, E. 5.3).
 
 ## Kumulierungsverbot
 
-Eine ungerechtfertigte fristlose Entlassung, die unter Umständen erfolgt ist, welche einer missbräuchlichen Kündigung entsprechen, gibt keinen Anspruch auf beide der in Art. 336a und 337c Abs. 3 OR vorgesehenen Entschädigungen. Das Kumulierungsverbot gilt auch dann, wenn der Arbeitgeber nacheinander eine missbräuchliche Kündigung und eine ungerechtfertigte fristlose Entlassung ausgesprochen hat. In diesem Fall besteht lediglich ein Anspruch auf die Entschädigung gemäss Art. 337c Abs. 3 OR, die gegenüber der Entschädigung nach Art. 336a OR lex specialis ist (BGE 121 III 64, E. 2 und 3).
+Eine ungerechtfertigte fristlose Entlassung, die unter Umständen erfolgt ist, welche einer missbräuchlichen Kündigung entsprechen, gibt keinen Anspruch auf beide der in Art. 336a und 337c Abs. 3 OR vorgesehenen Entschädigungen. Das Kumulierungsverbot gilt auch dann, wenn der Arbeitgeber nacheinander eine missbräuchliche Kündigung und eine ungerechtfertigte fristlose Entlassung ausgesprochen hat. In diesem Fall besteht lediglich ein Anspruch auf die Entschädigung gemäss Art. 337c Abs. 3 OR, die gegenüber der Entschädigung nach Art. 336a OR lex specialis ist (BGE 121 III 64, E. 2 und 3). Dem Kumulierungsverbot liegt die Erwägung zugrunde, dass die Entschädigung nach Art. 336a OR und jene nach Art. 337c Abs. 3 OR von gleicher Natur sind und dieselben Zwecke verfolgen — eine Erkenntnis, die das Bundesgericht erstmals in BGE 119 II 157 mit der Feststellung des pönalen Charakters der Entschädigung nach Art. 336a OR begründete und die seither in BGE 123 III 391 bestätigt wurde.
 
 Das Kumulierungsverbot gilt indessen nur für die Entschädigungen nach Art. 336a und 337c Abs. 3 OR. Der Lohnersatz nach Art. 337c Abs. 1 OR bleibt daneben geschuldet und kann mit der Entschädigung nach Art. 337c Abs. 3 OR kumuliert werden.
 

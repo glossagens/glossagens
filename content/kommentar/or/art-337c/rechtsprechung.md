@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 337c OR"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-18
 description: "Uebersicht der Leitentscheide zu Art. 337c OR — Abfindung bei ungerechtfertigter Entlassung, Lohnersatz, Entschaedigung sui generis, Kumulierungsverbot und Steuerbehandlung."
 tags: ["Rechtsprechung", "OR", "Abfindung", "ungerechtfertigte Entlassung", "Arbeitsrecht"]
 agent_verified: false
@@ -20,6 +20,10 @@ Art. 337c OR regelt vertragsrechtlich abschliessend die finanziellen Folgen eine
 
 Das Bundesgericht analysierte die Rechtsnatur der Entschädigung nach Art. 336a OR und stellte deren doppelte Funktion — punitiv und reparativ — fest. Da die Entschädigung auch geschuldet ist, wenn der Arbeitnehmer keinen Schaden erlitten hat, handelt es sich nicht um Schadenersatz, sondern um eine Entschädigung *sui generis*. Diese Rechtsnatur gilt sinngemäss auch für die Entschädigung nach Art. 337c Abs. 3 OR (E. 3b/bb).
 
+**BGE 119 II 157** — *Pönaler Charakter der Entschädigung nach Art. 336a OR*
+
+Das Bundesgericht bejahte in diesem Entscheid erstmals den pönalen Charakter der Entschädigung nach Art. 336a OR und verneinte die Kumulierbarkeit mit dem nach dem alten Recht geschuldeten Schadenersatz. Die rein pönale Betrachtungsweise wurde zwar in BGE 123 III 391 korrigiert, wo das Bundesgericht der Entschädigung neben der pönalen auch eine Genugtuungsfunktion zuerkannte. Der Entscheid bleibt jedoch als Grundlage für das Verständnis des pönalen Elements bedeutsam, das auch der Entschädigung nach Art. 337c Abs. 3 OR innewohnt (E. 3).
+
 ### II. Kumulierungsverbot
 
 **BGE 121 III 64** — *Verbot der Kumulierung der Entschädigungen für missbräuchliche Kündigung (Art. 336a OR) und für ungerechtfertigte fristlose Entlassung (Art. 337c Abs. 3 OR)*
@@ -36,6 +40,18 @@ Das Bundesgericht klärte die Rechtsnatur des Anspruchs aus Art. 337c Abs. 1 OR:
 
 Das Bundesgericht befasste sich mit der Beweislastverteilung bezüglich der Anzahl bezogener Ferientage (E. 2a) und der analogen Anwendung von Art. 42 Abs. 2 OR (E. 2b). Hinsichtlich der Anrechnungspflicht nach Art. 337c Abs. 2 OR stellte es klar, dass der Grundsatz gilt, wonach sich der Arbeitnehmer nicht auf diese Weise bereichern darf (E. 4).
 
+**BGE 118 II 139** — *Anrechnungspflicht bei Freistellung*
+
+Art. 337c Abs. 2 OR findet analoge Anwendung auf die Freistellung: Wird der Arbeitnehmer von der Arbeitspflicht freigestellt, so muss er sich den anderweitig erzielten Verdienst auf den weiterhin geschuldeten Lohn anrechnen lassen. Die Anrechnungspflicht bezweckt auch hier die Verhinderung einer ungerechtfertigten Bereicherung (E. 3).
+
+**Urteil 4A_511/2010 vom 21. Oktober 2010** — *Beweislast für Anrechnung und Entschädigungsanspruch*
+
+Das Bundesgericht hielt fest, dass die Beweislast für Abzüge nach Art. 337c Abs. 2 OR beim Arbeitgeber liegt. Hinsichtlich der Entschädigung nach Art. 337c Abs. 3 OR bekräftigte das Gericht, dass die Zubilligung der Entschädigung die Regel ist und ihre Versagung aussergewöhnliche Umstände erfordert. Nachträglich entstandene Gründe können eine fristlose Entlassung nicht rechtfertigen (E. 3 und 4).
+
+**Urteil 4A_431/2017 vom 24. Januar 2018** — *Kündigungsfrist und nachfolgende Krankheit; Berechnung des Lohnersatzes*
+
+Die fristlose Entlassung beendet das Arbeitsverhältnis sofort. Die für die Berechnung des Lohnersatzes nach Art. 337c Abs. 1 OR massgebliche Kündigungsfrist wird nicht durch eine nach der Entlassung eintretende Krankheit des Arbeitnehmers gehemmt. Massgeblich für die Berechnung des entgangenen Verdienstes ist, was dem Arbeitnehmer bei ordnungsgemässer Beendigung tatsächlich zugestanden hätte (E. 4).
+
 **BGE 120 II 243** — *Schadenersatz bei ungerechtfertigter fristloser Entlassung; Mitverschulden*
 
 Der Anspruch gemäss Art. 337c Abs. 1 OR kann nicht in analoger Anwendung von Art. 44 OR herabgesetzt werden. Ein Mitverschulden des Arbeitnehmers fällt als Herabsetzungsgrund einzig bei der Entschädigung gemäss Art. 337c Abs. 3 OR in Betracht (E. 3). Diese Differenzierung beruht auf dem unterschiedlichen Charakter der beiden Ansprüche: Abs. 1 gewährt reinen Schadenersatz, bei dem eine Herabsetzung wegen Mitverschuldens des Geschädigten systematisch nicht vorgesehen ist, während Abs. 3 eine Ermessensentschädigung darstellt, bei der das Mitverschulden als Bemessungsfaktor zu berücksichtigen ist.
@@ -50,6 +66,14 @@ Eine ungerechtfertigte fristlose Entlassung hat nach neuem Recht regelmässig ei
 
 Das Bundesgericht wandte Art. 337c Abs. 1 OR auf ein gestuftes Arbeitsverhältnis an, das die Anstellung eines Dancing-Orchesters zum Gegenstand hatte. Es klärte die Rechtsnatur eines Vertrags betr. die Anstellung eines Künstlers oder Orchesters (E. 1a) und bejahte die Anwendbarkeit der Schutzbestimmungen über die fristlose Auflösung auf gestufte Arbeitsverhältnisse.
 
+**BGE 133 III 657** — *Keine analoge Anwendung von Art. 337c Abs. 3 OR auf berechtigte fristlose Kündigung durch den Arbeitnehmer*
+
+Das Bundesgericht verneinte ausdrücklich die analoge Anwendung von Art. 337c Abs. 3 OR auf die berechtigte fristlose Kündigung durch den Arbeitnehmer nach Art. 337b OR. Der Gesetzgeber habe die Situationen bewusst unterschiedlich geregelt: Während der ungerechtfertigt entlassene Arbeitnehmer einen Anspruch auf Entschädigung habe, stehe dem fristlos kündigenden Arbeitnehmer eine solche Entschädigung nicht zu. Punitive Sanktionen des Arbeitgebers seien dem Schweizer Arbeitsrecht fremd (E. 5.2 und 5.3). Hinsichtlich des berechtigten Interesses an tatsächlicher Beschäftigung (hier: eines professionellen Fussballspielers) hielt das Bundesgericht fest, dass Art. 337c OR dem Arbeitnehmer ein solches berechtigtes Interesse einräumt (E. 4).
+
+**Urteil 4A_173/2018/4A_179/2018 vom 8. Februar 2019** — *Bemessung der Entschädigung bei hohem Einkommen*
+
+Das Bundesgericht befasste sich mit der Bemessung der Entschädigung nach Art. 337c Abs. 3 OR für einen CEOs mit hohem Einkommen. Es hielt fest, dass ein sehr hohes Einkommen allein kein entscheidender Grund ist, um die Entschädigung unter den Regelanspruch zu senken. In Fällen schweren Verschuldens des Arbeitgebers erreicht die Entschädigung regelmässig vier bis sechs Monatslöhne. Die Bemessung richtet sich nach den allgemeinen Kriterien, wobei das Mitverschulden des Arbeitnehmers und die Schwere der Persönlichkeitsverletzung den massgeblichen Rahmen vorgeben (E. 7.5).
+
 ### V. Fristlose Entlassung — Wichtiger Grund und Verwirkung
 
 **BGE 129 III 380** — *Wichtiger Grund für eine fristlose Auflösung des Arbeitsverhältnisses*
@@ -59,6 +83,30 @@ Eine sofortige Vertragsauflösung kann sich auch wegen eines Vorfalls rechtferti
 **BGE 138 I 113** — *Rechtzeitigkeit der fristlosen Entlassung durch den Arbeitgeber*
 
 Das Bundesgericht fasste die Kriterien zusammen, die hinsichtlich der Erklärungsfrist für die fristlose Kündigung im privatrechtlichen (E. 6.3) und im öffentlich-rechtlichen (E. 6.4) Arbeitsverhältnis zu berücksichtigen sind. Eine verspätete Aussprechung der fristlosen Kündigung kann zur Verwirkung des Kündigungsrechts führen, selbst wenn objektiv ein wichtiger Grund vorliegt. Mit Blick auf die Besonderheiten der Kündigung eines öffentlich-rechtlichen im Vergleich zu einem privatrechtlichen Arbeitsverhältnis sind im öffentlichen Dienst längere Reaktionszeiten hinzunehmen.
+
+**BGE 124 III 25** — *Schwere Treuepflichtverletzung; Nachschieben von Umständen*
+
+Ein Depotmanager, der Schmiergelder angenommen und Unternehmensressourcen missbraucht hatte, wurde fristlos entlassen. Das Bundesgericht hielt fest, dass der Arbeitgeber bei der Begründung der fristlosen Entlassung auch Umstände ins Feld führen kann, die ihm bei Ausspruch der Kündigung bereits bekannt waren, aber noch nicht als Kündigungsgrund genannt wurden. Der Arbeitgeber ist nicht darauf beschränkt, nur die Gründe geltend zu machen, die er ursprünglich genannt hat (E. 3c).
+
+**BGE 142 III 579** — *Nachschieben von Kündigungsgründen; keine Gleichartigkeitsvoraussetzung*
+
+Das Bundesgericht korrigierte die in der Lehre teilweise vertretene Auffassung, dass nachgeschobene Kündigungsgründe gleichartig sein müssen wie die ursprünglich genannten. Diese Auffassung beruhte auf einer fehlerhaften Übersetzung des französischen "un semblable motif", das nicht "gleichartig" sondern "vergleichbar" bedeutet. Ein ergänzender Grund muss nicht denselben Typus aufweisen wie der ursprüngliche; massgeblich ist allein, ob er bei Ausspruch der Kündigung bereits objektiv vorlag und dem Arbeitgeber bekannt war oder hätte bekannt sein müssen (E. 5.3).
+
+**Urteil 4A_56/2016 vom 25. Mai 2016** — *Erste-Reaktion-Prinzip*
+
+Das Bundesgericht stellte das Erste-Reaktion-Prinzip auf: Ein Arbeitgeber, der auf ein Fehlverhalten des Arbeitnehmers zunächst nur mit einer Abmahnung reagiert, ist an diese Entscheidung gebunden. Er kann dieselben Sachverhalte nicht nachträglich zur Begründung einer fristlosen Entlassung heranziehen, wenn ihm die relevanten Tatsachen bereits bei der Abmahnung bekannt waren. Das Erste-Reaktion-Prinzip dient dem Vertrauensschutz des Arbeitnehmers (E. 5).
+
+**Urteil 4A_372/2016 vom 27. März 2017** — *Verspätete fristlose Kündigung*
+
+Eine verspätete fristlose Kündigung hat dieselben Rechtsfolgen wie eine ungerechtfertigte fristlose Entlassung. Sie kann nicht in eine ordentliche Kündigung umgedeutet werden; Art. 324a OR findet nicht anstelle von Art. 337c OR Anwendung. Dem Arbeitnehmer stehen somit die Ansprüche aus Art. 337c Abs. 1 und 3 OR zu (E. 4).
+
+**BGE 147 III 475** — *Vorbereitungshandlungen nach Freistellung; ungerechtfertigte fristlose Entlassung*
+
+Ein CEO war nach Freistellung fristlos entlassen worden, weil er Vorbereitungshandlungen für eine künftige berufliche Tätigkeit getroffen hatte. Das Bundesgericht hielt fest, dass Vorbereitungshandlungen für eine künftige Beschäftigung nach Massgabe von Art. 321a OR grundsätzlich zulässig sind und keinen wichtigen Grund für eine fristlose Entlassung darstellen. Die fristlose Kündigung war daher ungerechtfertigt (E. 5.3).
+
+**BGE 137 III 303** — *Berechtigtes Interesse an tatsächlicher Beschäftigung; kumulative Genugtuung*
+
+Im Fall eines professionellen Fussballspielers erkannte das Bundesgericht ein berechtigtes Interesse an der tatsächlichen Beschäftigung an. Es hielt zudem fest, dass in Fällen schwerer Persönlichkeitsverletzung Art. 49 OR (Genugtuung) kumulativ neben den vertragsrechtlichen Ansprüchen nach Art. 337c OR angerufen werden kann, sofern die Voraussetzungen von Art. 49 OR eigenständig erfüllt sind (E. 5.3).
 
 ### VI. Steuerbehandlung
 
