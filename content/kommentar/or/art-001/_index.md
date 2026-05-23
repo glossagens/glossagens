@@ -1,54 +1,54 @@
 ---
-title: Art. 1 OR — Vertragsschluss
+title: "Art. 1 OR – Vertragsschluss"
 weight: 1
-date: 2026-05-09
-lastmod: 2026-05-09
-description: "Kommentar zu Art. 1 OR: Zustandekommen des Vertrages durch Antrag und Annahme."
-tags: ["Vertragsschluss", "Konsens", "Antrag", "Annahme"]
-agent_verified: true
+date: 2026-05-23
+lastmod: 2026-05-23
+description: "Übereinstimmende gegenseitige Willensäusserung als Grundlage des Vertragsabschlusses"
+tags: ["OR", "Vertragsrecht", "Konsens", "Willensäusserung", "Vertragsschluss"]
+agent_verified: false
 ---
 
-## Gesetzestext
+## Art. 1 OR – Vertragsschluss
 
-> **Art. 1**
->
-> 1. Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
->
-> 2. Sie kann eine ausdrückliche oder stillschweigende sein.
+### Gesetzestext
 
-## I. Bedeutung und Funktion
+1 Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
+2 Sie kann eine ausdrückliche oder stillschweigende sein.
 
-Art. 1 OR bildet das Fundament des schweizerischen Vertragsrechts. Die Norm statuiert das **Konsensprinzip**: Ein Vertrag kommt zustande, wenn zwei oder mehr Parteien ihren Willen übereinstimmend äussern.
+### Systematische Einordnung
 
-## II. Voraussetzungen des Vertragsschlusses
+Art. 1 OR ist die Grundnorm des schweizerischen Vertragsrechts. Er definiert den Konsens – die übereinstimmende Willensäusserung – als konstitutives Element jedes Vertrages. Ohne Konsens kein Vertrag. Die Norm gilt für alle Vertragstypen des OR und darüber hinaus.
 
-### 1. Übereinstimmung (Konsens)
+### Der Konsensbegriff
 
-Die Willensäusserungen müssen sich decken. Zu unterscheiden ist zwischen:
+Der Konsens besteht aus zwei korrespondierenden Willensäusserungen: Angebot (Antrag) und Annahme. Die übereinstimmung beider Erklärungen in essentialia (wesentliche Punkte) begründet den Vertrag. Dissens in non essentialia führt nicht zur Nichtigkeit, sondern kann ergänzend geregelt werden.
 
-- **Subjektivem Konsens**: tatsächliche Übereinstimmung des inneren Willens
-- **Objektivem Konsens**: Übereinstimmung nach dem Vertrauensprinzip (Art. 18 OR)
+### Ausdrückliche und stillschweigende Willensäusserung
 
-### 2. Gegenseitigkeit
+**Ausdrücklich (Abs. 2):** Die Willensäusserung wird durch Worte (mündlich, schriftlich) oder eindeutige Zeichen erklärt. Der Erklärungsempfänger muss den Willen unmittelbar erkennen können.
 
-Beide Parteien müssen eine Willenserklärung abgeben. Einseitige Rechtsgeschäfte fallen nicht unter Art. 1 OR.
+**Stillschweigend (Abs. 2):** Eine Willensäusserung kann durch konkludentes Handeln erfolgen. Massgeblich ist, ob das Verhalten bei objektiver Betrachtung auf einen Vertragsschlusswillen schliessen lässt. Schweigen als solches gilt grundsätzlich nicht als Annahme, es sei denn, eine besondere Rechtsbeziehung oder Verkehrssitte rechtfertigt dies.
 
-### 3. Ausdrückliche oder stillschweigende Äusserung
+### Willensmängel und Auslegung
 
-Abs. 2 stellt klar, dass der Wille formfrei geäussert werden kann. Stillschweigende Annahme ist möglich, sofern die Umstände darauf schliessen lassen.
+Stimmen innerer Wille und erklärter Wille nicht überein, stellt sich die Frage der Willensmängel (Art. 23–31 OR) und der Auslegung (Art. 18 OR in der Fassung von SR 220). Das Bundesgericht wendet die Vertrauenstheorie an: massgeblich ist der objektive Empfängerhorizont.
 
-## III. Abgrenzungen
+### AGB und Formularverträge
 
-| Institut | Grundlage | Abgrenzung zu Art. 1 OR |
-|----------|-----------|------------------------|
-| Vertragsähnliche Verhältnisse | Art. 2 ff. OR | Kein vollständiger Konsens |
-| Einseitige Rechtsgeschäfte | Art. 468 ff. OR | Keine Gegenseitigkeit |
-| Realverträge | z.B. Art. 305 OR | Übergabe als Tatbestandsmerkmal |
+Bei vorformulierten Vertragsbedingungen (AGB) ist die übereinstimmende Willensäusserung durch die AGB-Inhaltskontrolle begrenzt (BGE 135 III 1). Ungewöhnliche Klauseln, mit denen der Partner nicht rechnen musste, werden nicht Vertragsbestandteil (Ungewöhnlichkeitsregel).
 
-## IV. Rechtsprechung
+### Vertragsschluss durch konkludentes Handeln
 
-→ [Rechtsprechungsübersicht zu Art. 1 OR](rechtsprechung/) — laufend ergänzt durch den autonomen Agenten.
+Die Praxis anerkennt zahlreiche Fallgruppen konkludenten Vertragsschlusses: Bestätigungsschreiben (kaufmännischer Verkehr), Schweigen auf ein Angebot bei bestehender Geschäftsbeziehung, Ingebrauchnahme einer Leistung ohne Widerspruch.
 
----
+### Verhältnis zu anderen Normen
 
-*Zuletzt aktualisiert: 9. Mai 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/or/art-001/index.md) · [Anregung einreichen](/einreichung)*
+- **Art. 2–5 OR**: Handlungs- und Geschäftsfähigkeit
+- **Art. 7 OR**: Form des Vertrages
+- **Art. 23–31 OR**: Willensmängel
+- **Art. 18 OR (ZGB-SR)**: Auslegung
+
+### Weiterführende Literatur
+
+- OnlineKommentar OR, Art. 1
+- von Büren, Schweizerisches Obligationenrecht, Allgemeiner Teil
