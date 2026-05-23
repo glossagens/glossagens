@@ -1,56 +1,117 @@
 ---
-title: "Art. 8 BV — Rechtsgleichheit"
+title: "Art. 8 BV – Rechtsgleichheit"
 weight: 8
 date: 2026-05-23
 lastmod: 2026-05-23
-description: "Kommentar zu Art. 8 BV: Rechtsgleichheit, Diskriminierungsverbot, Gleichberechtigung von Mann und Frau, Behindertenbenachteiligungsverbot."
-tags: ["BV", "Grundrechte", "Rechtsgleichheit", "Diskriminierungsverbot", "Gleichberechtigung", "BehiG"]
+description: "Rechtsgleichheit und Diskriminierungsverbot – umfassende Kommentierung mit 19 BGer-Entscheiden"
+tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Willkürverbot", "Lohngleichheit", "Gleichstellung"]
 agent_verified: false
 ---
 
-## Gesetzeswortlaut
+## Art. 8 BV – Rechtsgleichheit
 
-> **Art. 8 Rechtsgleichheit**
->
-> ¹ Alle Menschen sind vor dem Gesetz gleich.
->
-> ² Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung oder wegen einer körperlichen, geistigen oder psychischen Behinderung.
->
-> ³ Mann und Frau sind gleichberechtigt. Das Gesetz sorgt für ihre rechtliche und tatsächliche Gleichstellung, vor allem in Familie, Ausbildung und Arbeit. Mann und Frau haben Anspruch auf gleichen Lohn für gleichwertige Arbeit.
->
-> ⁴ Das Gesetz sieht Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vor.
+### Gesetzestext
 
-## Vorbemerkungen
+1 Alle Menschen sind vor dem Gesetz gleich.
+2 Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung sowie wegen einer körperlichen, geistigen oder psychischen Behinderung.
+3 Männer und Frauen sind gleichberechtigt. Das Gesetz sorgt für ihre rechtliche und tatsächliche Gleichstellung, vor allem in Familie, Ausbildung und Arbeit. Männer und Frauen haben Anspruch auf gleichen Lohn für gleichwertige Arbeit.
+4 Massnahmen zur Verwirklichung der rechtlichen und tatsächlichen Gleichstellung von Menschen mit Behinderung sind keine Diskriminierung im Sinne dieses Artikels.
 
-**1** **Stellung und Bedeutung.** Art. 8 BV ist das zentrale Gleichheitsgebot der Schweizer Bundesverfassung. Er umfasst vier eigenständige Garantien: die allgemeine Rechtsgleichheit (Abs. 1), das Diskriminierungsverbot (Abs. 2), die Gleichberechtigung von Mann und Frau (Abs. 3) und das Benachteiligungsverbot für Behinderte (Abs. 4). Mit insgesamt 78'361 Zitaten gehört Art. 8 zu den meistzitierten Normen des Schweizer Rechts überhaupt.
+### Systematische Einordnung
 
-**2** **Gesetzgebungsgeschichte.** Art. 8 BV löst Art. 4 aBV ab und erweitert den Gleichheitssatz erheblich: Neu aufgenommen wurden das ausdrückliche Diskriminierungsverbot mit nicht abschliessender Merkmalsliste (Abs. 2), die Gleichberechtigung mit Lohngleichheitsgebot (Abs. 3) und das Behindertenbenachteiligungsverbot (Abs. 4). Der Wortlaut «namentlich» in Abs. 2 lässt Raum für die Einbeziehung weiterer Merkmale durch die Rechtsprechung.
+Art. 8 BV ist das zentrale Gleichbehandlungsgebot der Bundesverfassung. Abs. 1 statuiert den allgemeinen Gleichheitssatz (Willkürverbot), Abs. 2 das Diskriminierungsverbot mit aufzählenden Merkmalen, Abs. 3 die Geschlechtergleichstellung mit Lohngleichheitsgebot, und Abs. 4 die Behindertengleichstellung als positive Massnahme.
 
-**3** **Systematische Stellung.** Art. 8 BV steht im 2. Kapitel des 1. Titels (Grundrechte) und eröffnet den Abschnitt «Rechtsgleichheit». Mit Art. 9 (Rechtsschutz) und Art. 29 (Allgemeine Verfahrensgarantien) bildet er den verfassungsrechtlichen Gleichheitssatz-Komplex.
+Die Norm gehört zu den meistzitierten Verfassungsbestimmungen (über 27'000 Zitationen) und ist Dreh- und Angelpunkt der verfassungsrechtlichen Gleichbehandlungsdogmatik.
 
-## Kommentierung
+### Abs. 1 – Allgemeiner Gleichheitssatz (Willkürverbot)
 
-### I. Allgemeine Rechtsgleichheit (Abs. 1)
+Der allgemeine Gleichheitssatz verlangt, dass **sachlich gleiche Fälle gleich und sachlich unterschiedliche Fälle unterschiedlich** behandelt werden. Das Bundesgericht wendet den Willkürmassstab an:
 
-**4** **Formelle und materielle Gleichheit.** Abs. 1 verbietet sowohl formelle als auch materielle Ungleichbehandlung. Die formelle Rechtsgleichheit verlangt, dass das Gesetz auf alle in vergleichbarer Lage Gleiches gleich behandelt; die materielle Rechtsgleichheit gebietet, wesentlich Verschiedenes verschieden zu behandeln. Das Bundesgericht prüft bei Differenzierungen zunächst, ob sachliche Gründe für die Unterscheidung vorliegen, und beurteilt dann, ob die Unterscheidung verhältnismässig ist.
+- **Willkür** liegt vor, wenn die gesetzliche Differenzierung **keinen vernünftigen Grund** hat oder **offensichtlich unhaltbar** ist (BGE 136 I 65 E. 5)
+- **Keine Willkür** liegt vor, wenn die Differenzierung **sachlich gerechtfertigt** ist (BGE 129 I 161 E. 3)
 
-**5** **Willkürverbot.** Im Bereich der Gesetzgebung ist die Rechtsgleichheit durch das verfassungsrechtliche Willkürverbot konkretisiert: Ein Gesetz verstösst gegen Art. 8 Abs. 1 BV, wenn es sachlich nicht zu rechtfertigende Unterscheidungen trifft oder offensichtlich unangemessen ist.
+Der Gleichheitssatz ist kein **Gleichmachungssatz**: er gestattet Differenzierungen, die auf sachlichen Gründen beruhen. Je nach Differenzierungsmerkmal variiert die Rechtfertigungsintensität:
 
-### II. Diskriminierungsverbot (Abs. 2)
+| Differenzierungsmerkmal | Rechtfertigungsintensität |
+|------------------------|--------------------------|
+| Rasse, Herkunft, Geschlecht | **Streng**: kaum je gerechtfertigt |
+| Alter, Sprache, soziale Stellung | **Mittel**: atypische Merkmale, sachliche Rechtfertigung nötig |
+| Wirtschaftliche Differenzierung | **Niedrig**: Willkürmassstab |
 
-**6** **Nicht abschliessende Merkmalsliste.** Die Aufzählung der Diskriminierungsmerkmale ist nicht abschliessend («namentlich»). Das Bundesgericht hat weitere Merkmale anerkannt, namentlich die sexuelle Orientierung. Die Merkmalsliste dient als Indiz für die besondere Gefährdung bestimmter Gruppen.
+### Abs. 2 – Diskriminierungsverbot
 
-**7** **Direkte und indirekte Diskriminierung.** Das Diskriminierungsverbot erfasst sowohl direkte (offene) als auch indirekte (verdeckte) Diskriminierungen. Eine indirekte Diskriminierung liegt vor, wenn eine scheinbar neutrale Regelung sich faktisch diskriminierend auswirkt.
+#### Aufgezählte Merkmale
 
-### III. Gleichberechtigung und Lohngleichheit (Abs. 3)
+Die Aufzählung in Art. 8 Abs. 2 BV ist nicht abschliessend («namentlich»). Die genannten Merkmale sind:
+- Herkunft
+- Rasse
+- Geschlecht
+- Alter
+- Sprache
+- soziale Stellung
+- Lebensform
+- religiöse, weltanschauliche oder politische Überzeugung
+- körperliche, geistige oder psychische Behinderung
 
-**8** **Gleichberechtigungsgebot.** Abs. 3 verlangt rechtliche und tatsächliche Gleichstellung von Mann und Frau, insbesondere in Familie, Ausbildung und Arbeit. Das Lohngleichheitsgebot («gleicher Lohn für gleichwertige Arbeit») ist ein eigenständiger.justiziabler Anspruch.
+#### Direkte und indirekte Diskriminierung
 
-### IV. Behindertenbenachteiligungsverbot (Abs. 4)
+BGer 8C_44/2012 E. 4.2.2 klärt: **Art. 8 Abs. 2 BV verbietet nicht nur die direkte, sondern auch die indirekte Diskriminierung.** Letztere liegt vor, wenn eine Regelung, die keine offensichtliche Benachteiligung enthält, in ihren tatsächlichen Auswirkungen Angehörige einer geschützten Gruppe besonders stark benachteiligt, ohne dass dies sachlich begründet wäre.
 
-**9** **Beseitigungspflicht.** Abs. 4 gebietet dem Gesetzgeber, Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vorzusehen. Dies ist ein Auftrag an den Gesetzgeber, kein individuell einklagbarer Anspruch. Konkretisiert wird Abs. 4 durch das Behindertengleichstellungsgesetz (BehiG, SR 151.3; BGE 133 V 450).
+#### Atypische Merkmale
 
-## Querverweise
+**Alter** ist ein atypischer Diskriminierungstatbestand, der sich dem allgemeinen Gleichheitssatz nach Art. 8 Abs. 1 BV annähert (BGer 8C_44/2012 E. 4.3). Differenzierungen nach Alter sind weniger streng zu rechtfertigen als nach Rasse oder Geschlecht.
 
-- [Art. 9 BV](../art-009/) — Rechtsschutz
-- [Art. 29 BV](../art-029/) — Allgemeine Verfahrensgarantien
+**Sexuelle Orientierung** wird vom GlG nicht erfasst (BGer 8C_594/2018 E. 4.5.1). Art. 8 Abs. 2 BV nennt sie nicht ausdrücklich, doch ist eine Differenzierung wegen sexueller Orientierung rechtfertigungsbedürftig.
+
+### Abs. 3 – Geschlechtergleichstellung und Lohngleichheit
+
+#### Rechtliche und tatsächliche Gleichstellung
+
+Art. 8 Abs. 3 BV gebietet die **rechtliche und tatsächliche Gleichstellung** von Mann und Frau, vor allem in Familie, Ausbildung und Arbeit. Er geht über das blosse Diskriminierungsverbot hinaus und verpflichtet den Gesetzgeber zu **fördernden Massnahmen**.
+
+#### Lohngleichheit für gleichwertige Arbeit
+
+Männer und Frauen haben Anspruch auf **gleichen Lohn für gleichwertige Arbeit**. Die Analysemethode (Arbeitsbewertung) ist zentral:
+- BGE 134 V 131: AHV-Rentenalter der Frauen und Lohngleichheit
+- BGer 8C_56/2017: Lohngleichheit von Kindergartenlehrpersonen (Art. 3 GlG, Art. 8 Abs. 3 BV)
+
+#### Beweislastumkehr im GlG
+
+Art. 6 GlG: Werden objektive Anhaltspunkte für eine geschlechtsspezifische Benachteiligung glaubhaft gemacht, **kehrt sich die Beweislast um** — der Arbeitgeber muss beweisen, dass keine Diskriminierung vorliegt (BGer 8C_56/2017 E. 3.2, BGer 2A.453/2003 E. 4).
+
+### Abs. 4 – Behindertengleichstellung
+
+Massnahmen zur Verwirklichung der Gleichstellung von Menschen mit Behinderung sind **keine Diskriminierung** im Sinne von Art. 8 Abs. 2 BV (Positivmassnahmen-Klausel). Das BehiG konkretisiert diesen Auftrag:
+- BGer 2C_466/2023 E. 5.5: Art. 2 Abs. 5 BehiG umschreibt nicht abschliessend, wann eine relevante Benachteiligung vorliegt
+- BGE 133 V 450 E. 6.2, 9: Die lebenspraktische Begleitung verletzt weder Art. 8 BV noch das BehiG
+
+### Einbürgerung und Diskriminierungsverbot
+
+BGE 129 I 232 E. 3.3–3.6 (Leitentscheid): Ablehnende Einbürgerungsentscheide unterliegen der **Begründungspflicht** gemäss Art. 29 Abs. 2 BV i.V.m. Art. 8 Abs. 2 BV. Die Urnenabstimmung über Einbürgerungsgesuche verstösst gegen die verfassungsrechtliche Begründungspflicht und das Diskriminierungsverbot und ist daher ungültig.
+
+### Ausländerrecht und Gleichbehandlung
+
+- BGE 126 II 377 E. 6: Nichtverlängerung der Aufenthaltsbewilligung eines invalid gewordenen Ausländers stellt keine Diskriminierung dar. Art. 8 Abs. 1 BV begründet keine direkten Rechtsansprüche.
+- BGE 128 II 145 E. 3.5: Das Rechtsgleichheitsgebot vermag keine Rechtsansprüche auf fremdenpolizeiliche Bewilligungen zu begründen. Rechtsmissbrauch (Scheinehe) kann zur Verweigerung führen.
+
+### Steuerrechtliche Gleichbehandlung
+
+- BGE 136 I 65 E. 5: Selektive Bevorzugung von Dividendeneinkünften ist verfassungswidrig — unhaltbare Unterscheidung
+- BGE 136 I 49 E. 5: Verschiedene Behandlung in- vs. ausländischer Dividenden ist rechtsungleich
+- BGE 132 II 485 E. 1–9: Gleichbehandlung und Willkürverbot gelten auch im Konzessionsrecht
+
+### Verhältnis zu anderen Normen
+
+- **Art. 9 BV**: Willkürverbot und Treu und Glauben
+- **Art. 15 BV**: Glaubens- und Gewissensfreiheit
+- **Art. 29 BV**: rechtliches Gehör (Begründungspflicht)
+- **GlG**: Gleichstellungsgesetz (Lohngleichheit, Beweislastumkehr)
+- **BehiG**: Behindertengleichstellungsgesetz
+- **EMRK Art. 14**: Diskriminierungsverbot
+- **UNO-Pakt I Art. 2, 3, 26**: Gleichbehandlungsgebote
+
+### Weiterführende Literatur
+
+- OnlineKommentar BV, Art. 8
+- Biaggini, BV-Kommentar, 3. Aufl.
+- Ehrenzeller/Schindler, Kommentar BV
