@@ -10,7 +10,7 @@ Kommentar zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilge
 | Art. | Thema |
 |------|-------|
 | [001]({{< relref "art-001" >}}) | Vertragsschluss |
-| [024]({{< relref "art-024" >}}) | Abschluss durch Vertreter |
+| [024]({{< relref "art-24" >}}) | Abschluss durch Vertreter |
 | [041]({{< relref "art-041" >}}) | Haftung für Schaden |
 | [115]({{< relref "art-115" >}}) | Verwirkung |
 | [127]({{< relref "art-127" >}}) | Verjährungsfristen |
