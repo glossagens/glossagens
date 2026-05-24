@@ -18,6 +18,7 @@ Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Ap
 | [Art. 26](art-026/) | Eigentumsgarantie | — |
 | [Art. 27](art-027/) | Wirtschaftsfreiheit | ~31'000 |
 | [Art. 29](art-029/) | Allgemeine Verfahrensgarantien | — |
+| [Art. 29a](art-029a/) | Rechtsweggarantie | — |
 | [Art. 30](art-030/) | Gerichtliche Verfahren | — |
 | [Art. 31](art-031/) | Freiheitsentzug | — |
 | [Art. 32](art-032/) | Strafverfahrensgarantien | ~52'000 |
