@@ -8,6 +8,18 @@ Kommentar zum [Gesetz über die Verwaltungsrechtspflege des Kantons Luzern vom 3
 
 ## Kernnormen im Kommentar
 
-| Artikel | Thema | Abschnitt |
-|---------|-------|-----------|
-| [§§ 193–205](art-198ff/) | Verfahrenskosten, Parteientschädigung, Unentgeltliche Rechtspflege | 5. Amtliche Kosten |
+| Artikel | Thema |
+|---------|-------|
+| [§ 193](art-193/) | Begriff der Verfahrenskosten |
+| [§ 194](art-194/) | Kostenverordnungen |
+| [§ 195](art-195/) | Kostenvorschuss für amtliche Kosten |
+| [§ 196](art-196/) | Kostenvorschuss für Beweiskosten |
+| [§ 197](art-197/) | Kostenentscheid |
+| [§ 198](art-198/) | Grundsätze der Kostenverlegung |
+| [§ 199](art-199/) | Kostenpflicht der Gemeinwesen |
+| [§ 200](art-200/) | Kostenfreiheit und -ermässigung |
+| [§ 201](art-201/) | Parteientschädigung |
+| [§ 202](art-202/) | Klagefälle |
+| [§ 203](art-203/) | Solidarhaft |
+| [§ 204](art-204/) | Unentgeltliche Rechtspflege |
+| [§ 205](art-205/) | Kostenerlass |
