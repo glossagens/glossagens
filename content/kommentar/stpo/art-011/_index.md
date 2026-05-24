@@ -1,83 +1,110 @@
 ---
-title: "Art. 11 — Verbot der doppelten Strafverfolgung"
+title: "Art. 11 StPO — Verbot der doppelten Strafverfolgung"
 weight: 11
 date: 2026-05-09
-lastmod: 2026-05-09
-description: "Kommentar zu Art. 11 StPO – Verbot der doppelten Strafverfolgung (ne bis in idem)"
-tags: ["StPO", "ne bis in idem", "Doppelverfolgungsverbot", "Verfahrensgrundsätze"]
+lastmod: 2026-05-24
+description: "Kommentar zu Art. 11 StPO: Ne-bis-in-idem-Grundsatz, sachliche und rechtliche Identität, Sperrwirkung, Teileinstellung, Wiederaufnahme und transnationales ne bis in idem."
+tags: ["ne bis in idem", "doppelte Strafverfolgung", "Tatidentität", "Sperrwirkung", "Lebenssachverhalt", "Rechtskraft", "Wiederaufnahme"]
 agent_verified: true
 ---
 
-## Gesetzeswortlaut
+## Gesetzestext
 
-> **Art. 11 StPO — Verbot der doppelten Strafverfolgung**
+> **Art. 11**
 >
 > 1 Wer in der Schweiz rechtskräftig verurteilt oder freigesprochen worden ist, darf wegen der gleichen Straftat nicht erneut verfolgt werden.
 >
 > 2 Vorbehalten bleiben die Wiederaufnahme eines eingestellten oder nicht anhand genommenen Verfahrens und die Revision.
 
-## Kommentierung
+*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. Januar 2024).*
 
-### Bedeutung
+## I. Bedeutung und Funktion
 
-Art. 11 StPO verankert den Grundsatz *ne bis in idem* als zwingendes Verfahrenshindernis. Die Norm hat Verfassungsrang (Art. 25 BV) und ist konventionsrechtlich in Art. 4 Ziff. 1 des 7. Zusatzprotokolls zur EMRK sowie Art. 14 Abs. 7 UNO-Pakt II verankert. Der Grundsatz verbietet die erneute Strafverfolgung derselben Person wegen derselben Straftat nach rechtskräftigem Abschluss eines Strafverfahrens.
+Art. 11 StPO kodifiziert den Grundsatz **ne bis in idem** — das Verbot der doppelten Strafverfolgung. Er konkretisiert völkerrechtliche Garantien (Art. 4 Ziff. 1 des 7. Zusatzprotokolls zur EMRK, Art. 14 Abs. 7 UNO-Pakt II) und verfassungsrechtliche Grundsätze (Art. 8 Abs. 1 und Art. 29 Abs. 1 BV) für das Schweizer Strafverfahren. Der Grundsatz gilt sowohl im nationalen wie im transnationalen Kontext.
 
-### Voraussetzungen
+## II. Voraussetzungen (Abs. 1)
 
-#### Tatidentität („gleiche Straftat")
+### 1. Tat- und Täteridentität
 
-Für die Sperrwirkung des *ne bis in idem* muss **Identität der Tat** vorliegen. Die Rechtsprechung fragt nach dem **identischen oder im Wesentlichen gleichen Lebenssachverhalt** — nicht nach der rechtlichen Qualifikation ([BGE 122 I 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_I_257); [BGE 137 I 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363)). Verschiedene rechtliche Würdigungen desselben Sachverhalts ändern nichts an der Tatidentität.
+Voraussetzung für die Sperrwirkung des ne bis in idem ist **Tat- und Täteridentität** ([BGer 6B_1056/2015, E. 1.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_1056_2015); Art. 4 Ziff. 1 7. ZP EMRK, Art. 14 Abs. 7 UNO-Pakt II, Art. 11 Abs. 1 StPO).
 
-#### Rechtskraft
+### 2. Sachliche Identität (Lebenssachverhaltsbegriff)
 
-Die Sperrwirkung setzt **Rechtskraft** des früheren Entscheids voraus. Dies umfasst:
-- **Verurteilungen** und **Freisprüche** (Abs. 1)
-- **Einstellungsverfügungen** (Art. 310 f. StPO)
-- **Nichtanhandnahmeverfügungen** (Art. 310 StPO), sofern sie in Rechtskraft erwachsen (PKG 2019 16; BKBES.2019.137)
+Massgeblich für die «gleiche Tat» ist der **historische Lebenssachverhalt**, nicht die rechtliche Qualifikation. Seit der Übernahme der EGMR-Doktrin (*Zolotukhin v. Russland*, Nr. 14939/03, 10.2.2009, § 82) genügt **einfache Identität**: identische oder im Wesentlichen gleiche Tatsachen ([BGE 144 IV 362, E. 1.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362#e-1-3-2); [BGE 137 I 363, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363#e-2-4)).
 
-Vorläufige polizeiliche Ermittlungshandlungen zur Klärung der Tatidentität begründen noch keine Sperrwirkung (BGer 7B_1053/2024).
+Das Konkurrenzverhältnis zwischen anwendbaren Strafnormen bleibt **ohne Bedeutung** ([BGer 6B_888/2019, E. 1.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_888_2019)).
 
-#### Teileinstellung
+### 3. Rechtliche Identität
 
-Die **Teileinstellung** wirft besondere Fragen auf: Sie kommt nur in Betracht, wenn mehrere Lebensvorgänge oder Taten im prozessualen Sinn zu beurteilen sind. Bezüglich bloss anderer rechtlicher Würdigung desselben Lebensvorgangs scheidet Teileinstellung aus ([BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362)). Eine explizite Teileinstellung, die lediglich einzelne erschwerende Tatvorwürfe betrifft, führt nicht zur ne-bis-in-idem-Sperrwirkung für die gleichzeitig angeklagten Vorwürfe ([BGE 148 IV 124](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124)).
+Eine andere rechtliche Würdigung desselben Lebensvorgangs hindert die erneute Verfolgung nicht — es muss darüber **einheitlich entschieden** werden. Wegen ein und derselben Tat im prozessualen Sinn kann nicht aus einem rechtlichen Gesichtspunkt verurteilt und aus einem anderen das Verfahren eingestellt werden ([BGE 144 IV 362, E. 1.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362#e-1-3-1)).
 
-### Konkurrenzverhältnisse
+Eine Verfahrenseinstellung erfolgt immer in Bezug auf einen **Tatvorwurf** und nicht hinsichtlich eines bestimmten Straftatbestandes ([BGE 148 IV 124, E. 2.6.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124#e-2-6-6)).
 
-Bei **echter Konkurrenz** verschiedener Taten entfaltet eine Teileinstellung keine Sperrwirkung für das aufrechterhaltene Verfahren (LU_GERICHTE 2N 15 133). Dagegen kann eine Teileinstellung bei **Idealkonkurrenz** (derselbe Lebenssachverhalt, verschiedene Qualifikationen) Sperrwirkung entfalten ([BGE 144 IV 362](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362)).
+### 4. Strafbefehl als Anklageersatz
 
-### Parallelität Straf- und Verwaltungsverfahren
+Der Strafbefehl erfüllt eine Doppelfunktion als Anklageersatz und als rechtskräftiges Urteil. Eine möglichst genaue und umfassende Umschreibung des Sachverhalts ist wegen des Verbots der doppelten Strafverfolgung erforderlich ([BGE 140 IV 188, E. 1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_188#e-1-4)).
 
-Die im Strassenverkehrsrecht verankerte **Parallelität von Straf- und Verwaltungsverfahren** (Busse + Administrativmassnahme) hält vor Art. 4 Ziff. 1 Prot. 7 EMRK stand, sofern zwischen den beiden Verfahren ein hinreichend enger zeitlicher und materieller Zusammenhang besteht ([BGE 137 I 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363); EGMR Rivard c. Suisse).
+## III. Sperrwirkung der Einstellungsverfügung
 
-### Ausnahmen (Abs. 2)
+### 1. Einstellungsverfügung gleich Freispruch
 
-Abs. 2 nennt zwei Ausnahmen vom ne-bis-in-idem-Verbot:
-1. **Wiederaufnahme** eines eingestellten oder nicht angenommenen Verfahrens (Art. 310 Abs. 2 StPO)
-2. **Revision** (Art. 410 ff. StPO)
+Eine rechtskräftige Einstellungsverfügung kommt einem freisprechenden Endentscheid gleich (Art. 320 Abs. 4 StPO). Der Schuldspruch verstösst gegen Art. 55a StGB und den Grundsatz ne bis in idem, wenn die Strafverfahren wegen gegenseitiger Tätlichkeiten rechtskräftig eingestellt wurden ([BGE 143 IV 104, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_104#e-4-4)).
 
-Neue Tatsachen können die Sperrwirkung einer Nichtanhandnahme durchbrechen (UE250081 vom 19.06.2025, Zürcher Obergericht).
+### 2. Teileinstellung
 
-### EGMR-Rechtsprechung
+Eine Teileinstellung kommt grundsätzlich nur in Betracht, wenn **mehrere Lebensvorgänge oder Taten im prozessualen Sinn** vorliegen, die einer separaten Erledigung zugänglich sind. Soweit es sich lediglich um eine andere rechtliche Würdigung desselben Lebensvorgangs handelt, scheidet eine teilweise Verfahrenseinstellung aus ([BGE 144 IV 362, E. 1.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_362#e-1-3-1)).
 
-#### Nachträgliche Verwahrung
+Wird das Verfahren dennoch teilweise eingestellt und erwächst die Teileinstellung in Rechtskraft, so steht deren Sperrwirkung einer Verurteilung wegen des gleichen Lebenssachverhalts entgegen (E. 1.4).
 
-Die EGMR-Pionierentscheide **W.A. c. Suisse** (Nr. 38958/16, 2021) und **Mehenni c. Suisse** (Nr. 40516/19, 2024) haben die schweizerische Praxis zur nachträglichen Verwahrung als ne-bis-in-idem-Verletzung qualifiziert. Die nachträgliche Verwahrung nach vollständiger Verbüssung der Freiheitsstrafe stellt keine zulässige Wiederaufnahme im Sinne von Art. 4 Abs. 2 Prot. 7 EMRK dar.
+### 3. Präzisierung durch BGE 148 IV 124
 
-#### Tatidentität bei aufeinanderfolgenden Qualifikationen
+Teileinstellungsverfügungen, die nicht den ganzen Lebenssachverhalt, sondern lediglich einzelne erschwerende Tatvorwürfe betreffen, führen **nicht** zur Sperrwirkung hinsichtlich der gleichzeitig zur Anklage gebrten Vorwürfe. Entscheidend ist, dass die Teileinstellungsverfügung auf die gleichzeitig erhobene oder bereits hängige Anklage Bezug nimmt und als solche deklariert wird ([BGE 148 IV 124, E. 2.6.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124#e-2-6-6)).
 
-**Veloso de Oliveira c. Suisse** (Nr. 25711/94, 1998): Aufeinanderfolgende Verurteilungen wegen verschiedener Qualifikationen desselben Sachverhalts verletzen Art. 4 Prot. 7 EMRK.
+## IV. Wiederaufnahme und Revision (Abs. 2)
 
-### Kasuistik
+### 1. Wiederaufnahme nach Nichtanhandnahme
 
-| Sachverhalt | Sperrwirkung | Quelle |
-|---|---|---|
-| Neue Verfolgung nach Freispruch | Ja (Sperrwirkung) | Art. 11 Abs. 1 |
-| Verwaltung + Strafverfahren (SVG) | Nein (einheitliches System) | BGE 137 I 363; EGMR Rivard |
-| Nachträgliche Verwahrung | Ja (EMRK-Verletzung) | EGMR W.A.; EGMR Mehenni |
-| Teileinstellung bei mehreren Taten | Nein (bei echten Konkurrenz) | BGE 148 IV 124 |
-| Nichtanhandnahme + neue Tatsachen | Nein (Sperrwirkung durchbrochen) | UE250081 |
+Die Voraussetzungen für die Verfahrenswiederaufnahme nach Art. 323 Abs. 1 StPO finden aufgrund des Verweises in Art. 310 Abs. 2 StPO auch auf durch Nichtanhandnahme erledigte Strafverfahren Anwendung, jedoch mit **geringeren Anforderungen** als nach einer Einstellung ([BGE 141 IV 194, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_194#e-2-3)).
 
-## Literatur
+### 2. Keine Wiederaufnahme bei Verjährungsänderung
 
-- OnlineKommentar.ch, Art. 11 StPO (Donatsch, Hans)
-- Botschaft zur StPO, BBl 2006 1085 ff.
+Die rückwirkende Änderung der Verjährungsfristen erlaubt **keine Wiederaufnahme** von bereits rechtskräftig eingestellten Verfahren ([BGE 141 IV 93, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_93#e-2-3)).
+
+### 3. Ergänzende Ermittlungen
+
+Ergänzende Ermittlungen nach Art. 309 Abs. 2 StPO zur Klärung der Tatidentität verletzen das Verbot der doppelten Strafverfolgung **nicht**, solange die Identität von Tat und Täter noch streitig ist und formell noch kein Verfahren eröffnet wurde ([BGer 7B_1053/2024, E. 1.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_1053_2024)).
+
+## V. Verfahrensstellung nach rechtskräftiger Verurteilung
+
+Eine Person, die in einem getrennten Verfahren für eine damit zusammenhängende Straftat rechtskräftig verurteilt wurde, ist grundsätzlich in analoger Anwendung von Art. 162 ff. StPO als Zeuge oder Zeugin einzuvernehmen ([BGE 144 IV 97, E. 2 und 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_97)).
+
+## VI. Straf- und Verwaltungsverfahren
+
+Die im SVG verankerte Parallelität von Straf- und Verwaltungsverfahren hält auch im Lichte des EGMR-Urteils *Zolotukhin gegen Russland* vor dem 7. Zusatzprotokoll zur EMRK stand. Straf- und Verwaltungsverfahren verfolgen unterschiedliche Zwecke, sodass die Verfahrensparallelität den Grundsatz ne bis in idem nicht verletzt ([BGE 137 I 363, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_363#e-2-4); EGMR, *Rivard c. Suisse*, Nr. 21563/12, 4.10.2016).
+
+## VII. Transnationales ne bis in idem
+
+- **Art. 54 SDÜ**: Im Schengen-Raum bewirkt der Strafantritt in der Schweiz, dass das gegen den Beschuldigten in einem anderen Schengen-Staat geführte Verfahren nicht weitergeführt werden darf ([BGer 6B_1019/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1019_2019)).
+- **Art. 4 Ziff. 1 7. ZP EMRK**: Gewährleistet das ne bis in idem auf völkerrechtlicher Ebene — Schutz vor erneuter Strafverfolgung in demselben Staat.
+- Der Strafanspruch erlischt in der Schweiz in Nachachtung des Grundsatzes ne bis in idem, wenn der Richter des ersuchten Staates aus materiellrechtlichen Gründen freigesprochen oder das Verfahren eingestellt hat ([BGer 1C_353/2012](https://mcp.opencaselaw.ch/entscheid/bger_1C_353_2012); Art. 5 lit. a Ziff. 1 i.V.m. Art. 89 Abs. 1 IRSG).
+
+## VIII. Abgrenzung zu anderen Normen
+
+| Norm | Verhältnis zu Art. 11 StPO |
+|---|---|
+| Art. 55a StGB | Strafklageverbrauch bei rechtskräftiger Verurteilung/Freisprechung |
+| Art. 8 Abs. 1 BV | Inhaltliche Garantie des ne bis in idem |
+| Art. 4 Ziff. 1 7. ZP EMRK | Völkerrechtliche Garantie |
+| Art. 14 Abs. 7 UNO-Pakt II | Völkerrechtliche Garantie (enger als 7. ZP EMRK) |
+| Art. 54 SDÜ | Transnationales ne bis in idem im Schengen-Raum |
+| Art. 310 StPO | Nichtanhandnahme — Einstellung mit geringeren Wiederaufnahmeanforderungen |
+| Art. 319 StPO | Einstellungsverfügung — Sperrwirkung |
+| Art. 323 StPO | Wiederaufnahme des Verfahrens |
+
+## IX. Rechtsprechung
+
+→ [Rechtsprechungsübersicht](rechtsprechung/)
+
+---
+
+*Zuletzt aktualisiert: 24. Mai 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-011/_index.md) · [Anregung einreichen](/einreichung)*
