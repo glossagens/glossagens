@@ -96,4 +96,21 @@ agent_verified: true
 
 **KERNAUSSAGE:** Qualifikation eines Entscheids über vorsorgliche Massnahmen als End- oder Zwischenentscheid. Bejahung der Eignung, einen nicht wieder gutzumachenden Nachteil gemäss Art. 93 Abs. 1 lit. a BGG zu bewirken. Prüfung unter Art. 29 BV-Verfahrensgarantien.
 
-**EINSCHLÄGIG FÜR:** Art. 29 Abs. 1 BV (gerechte Behandlung innert angemessener Frist)
+### BGE 150 I 174
+- **Thema**: Rechtliches Gehör bei Kostenauferlegung an Rechtsvertreter
+- **Kernaussage**: Als Teilaspekt eines fairen Verfahrens verankert Art. 29 Abs. 2 BV den Anspruch auf rechtliches Gehör. Eine Kostenauferlegung zulasten eines Rechtsvertreters im Rahmen einer Rückweisung ist ein Endentscheid (Art. 90 BGG) und verletzt das rechtliche Gehör, wenn der Vertreter keine Möglichkeit hatte, sich vorab zur Kostenbelastung zu äussern.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; rechtliches Gehör; Überraschungsverbot; Kostenauferlegung
+
+---
+
+### BGE 150 I 183
+- **Thema**: Verfügungsbegriff und Beschwerdefrist im Beschaffungswesen (SIMAP-Publikation)
+- **Kernaussage**: Die Beschwerdefrist beginnt grundsätzlich mit der individuellen Zustellung der Zuschlagsverfügung, auch wenn die summarische Begründung ungenügend ist. Die nachträgliche SIMAP-Publikation hat keinen Einfluss auf den Lauf der Beschwerdefrist. Massgebend ist der materielle Verfügungsbegriff.
+- **Einschlägig für**: Art. 29 Abs. 1 BV; Verfahrensgarantien; Beschwerdefrist; Zugang zum Recht
+
+---
+
+### BGE 150 IV 345
+- **Thema**: Teilnahmerecht und Konfrontationsanspruch — Anpassung der Rechtsprechung (Unverwertbarkeit)
+- **Kernaussage**: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO unverwertbar ist, bleibt auch nach einer Wiederholung der Einvernahme unter Wahrung des Teilnahmerechts unverwertbar. Die nachträgliche Gewährung des Konfrontationsanspruchs heilt die Verletzung nicht — Anpassung der Rechtsprechung.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Art. 147 StPO; rechtliches Gehör; Unverwertbarkeit; Konfrontationsanspruch

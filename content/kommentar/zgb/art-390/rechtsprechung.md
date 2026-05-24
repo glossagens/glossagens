@@ -114,4 +114,21 @@ Art. 390 Abs. 1 Ziff. 1 ZGB erfasst auch krankheitsbedingte kognitive Einschrän
 
 Subsidiarität: Vollmacht an Vertrauensperson mangels Einsicht in Hilfsbedürftigkeit nicht möglich. Verhältnismässigkeit: «Massnahmen nach Mass» (Art. 391 ZGB); konkrete Aufgabenumschreibung genügt.
 
-*Einschlägig für:* Art. 390 Abs. 1 Ziff. 1 ZGB (psychische Störung), Subsidiarität bei Einsichtsmangel
+### BGE 151 III 529 (= BGer 5A 674/2023) vom 31. Juli 2024
+- **Thema**: Nichtvalidierung des Vorsorgeauftrags und Errichtung einer Vertretungsbeistandschaft
+- **Kernaussage**: Die Beistandschafterrichtung nach Art. 390 ZGB erfolgt subsidiär, wenn kein geeigneter Vorsorgeauftrag vorliegt (Art. 389 Abs. 1 Ziff. 2 ZGB). Über die Eignung der beauftragten Person ist prognostisch aufgrund objektiv feststellbarer Kriterien zu entscheiden; Massstab ist die Gefährdung der Interessen der auftraggebenden Person.
+- **Einschlägig für**: Art. 390 ZGB i.V.m. Art. 389 Abs. 1 Ziff. 2 ZGB; Art. 363 Abs. 2 Ziff. 3 ZGB; Subsidiarität der Beistandschaft
+
+---
+
+### BGer 5A_624/2024 vom 27. August 2025
+- **Thema**: Eignung des Vorsorgebeauftragten bei Familienkonflikten; teilweise Validierung mit ergänzender Beistandschaft
+- **Kernaussage**: Das Selbstbestimmungsrecht der auftraggebenden Person ist möglichst weitgehend zu respektieren; die Eignung der beauftragten Person ist nur zurückhaltend zu verneinen. Anders zu gewichten ist das Selbstbestimmungsrecht jedoch, wenn sich für die Wahl der beauftragten Person massgebliche Umstände nach der Errichtung des Vorsorgeauftrags erheblich verändert haben. Eine teilweise Validierung des Vorsorgeauftrags mit ergänzender Vertretungsbeistandschaft ist möglich.
+- **Einschlägig für**: Art. 390 ZGB; Art. 394 i.V.m. Art. 395 ZGB; Art. 363 Abs. 2 Ziff. 4 ZGB; Selbstbestimmungsrecht
+
+---
+
+### BGer 5A_651/2025 vom 30. Oktober 2025
+- **Thema**: Ablehnungsrecht der betroffenen Person bei Beistandernennung (Art. 401 Abs. 3 ZGB)
+- **Kernaussage**: Das Ablehnungsrecht der betroffenen Person (Art. 401 Abs. 3 ZGB) ist nicht absolut, aber grundsätzlich zu beachten. Es setzt die Urteilsfähigkeit der betroffenen Person hinsichtlich dieser Frage voraus, wobei keine hohen Anforderungen zu stellen sind. Ein nahestehender Angehöriger hat keine Beschwerdelegitimation nach Art. 76 Abs. 1 BGG, wenn ihm kein eigenes schutzwürdiges Interesse nachgewiesen werden kann.
+- **Einschlägig für**: Art. 390 ZGB; Art. 401 Abs. 3 ZGB; Selbstbestimmungsrecht; Beschwerdelegitimation

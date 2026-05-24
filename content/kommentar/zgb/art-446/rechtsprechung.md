@@ -100,4 +100,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 23.05.2026*
+### BGer 5A_778/2024 vom 9. April 2025
+- **Thema**: Dreistufige Rügestruktur bei Verletzung des Untersuchungsgrundsatzes (Art. 446 Abs. 1 ZGB)
+- **Kernaussage**: Art. 446 Abs. 1 ZGB erforscht die Erwachsenenschutzbehörde den Sachverhalt von Amtes wegen. Wer die Verletzung der Untersuchungsmaxime rügen will, muss (1) aufzeigen, dass das Gericht den Sachverhalt unvollständig und damit willkürlich festgestellt hat, (2) die Tatsachen behaupten, die das Gericht abzuklären unterlassen hat, und (3) darlegen, inwiefern die behaupteten Tatsachen für den Ausgang des Verfahrens entscheidend sind.
+- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Untersuchungsgrundsatz; Rügeobliegenheit
+
+---
+
+### BGer 5A_451/2025 vom 22. Januar 2026
+- **Thema**: Untersuchungsgrundsatz gilt auch in der gerichtlichen Beschwerdeinstanz (Art. 450 ff. ZGB)
+- **Kernaussage**: Der Untersuchungsgrundsatz nach Art. 446 Abs. 1 ZGB gilt nicht nur im Verfahren vor der Erwachsenenschutzbehörde, sondern auch vor der gerichtlichen Beschwerdeinstanz (Art. 450 ff. ZGB). Der Beschwerdeführer muss jedoch in einem ersten Schritt dartun, dass die vorinstanzlichen Sachverhaltsfeststellungen willkürlich sind, bevor die Behörde von Amtes wegen weiterermittelt.
+- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Art. 450 ff. ZGB; Untersuchungsgrundsatz; Beschwerdeinstanz
+
+---
+
+### BGer 5A_858/2024 vom 4. November 2025
+- **Thema**: Untersuchungsgrundsatz gilt nicht im bundesgerichtlichen Verfahren
+- **Kernaussage**: Der Untersuchungsgrundsatz nach Art. 446 Abs. 1 ZGB (i.V.m. Art. 314 Abs. 1 ZGB im Kindesschutz) findet im Verfahren vor Bundesgericht keine Anwendung. Die Untersuchungsmaxime wird durch die Art. 106 und 107 BGG begrenzt.
+- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Art. 314 Abs. 1 ZGB; Untersuchungsgrundsatz; Bundesgericht
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

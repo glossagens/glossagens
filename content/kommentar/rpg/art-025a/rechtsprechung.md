@@ -71,3 +71,34 @@ Eine Erschliessungsstrasse ist als Eisenbahnanlage i.S.v. Art. 18 Abs. 1 EBG zu 
 Begleitmassnahmen zur Bahnübergangsanierung fallen unter das eisenbahnrechtliche Plangenehmigungsverfahren (Art. 18 EBG) und unterliegen dem Koordinationsgebot nach Art. 25a RPG.
 
 *Einschlägig für:* Art. 18 EBG, Art. 25a RPG — Eisenbahnanlagen und Koordination
+
+---
+
+### BGer 1C_310/2025 vom 12. November 2025
+
+**Verletzung des Koordinationsgebots bei Strassenausbau und Rodung**
+
+Das Koordinationsgebot (Art. 25a RPG) verlangt eine materielle und formelle Koordination der Verfügungen. In materieller Hinsicht sind sie inhaltlich abzustimmen (Art. 25a Abs. 2 lit. d RPG) und dürfen keine Widersprüche enthalten (Art. 25a Abs. 3 RPG). In formeller Hinsicht sorgt die verantwortliche Behörde für eine gemeinsame öffentliche Auflage (Art. 25a Abs. 2 lit. b RPG) und möglichst gemeinsame Eröffnung (Art. 25a Abs. 2 lit. d RPG). Weder materielle noch formelle Koordination erfolgt → Verletzung von Art. 25a RPG.
+
+*Einschlägig für:* Art. 25a Abs. 2 und 3 RPG; materielle und formelle Koordination; gemeinsame Auflage
+
+---
+
+### BGer 1C_235/2024 vom 13. März 2026
+
+**Einheit des Bauentscheids, Nebenbestimmungen und Koordinationsgebot**
+
+Die Regelung über Nebenbestimmungen dient der Beachtung des Grundsatzes der Einheit des Bauentscheids und des Koordinationsgebots von Art. 25a RPG. Der Grundsatz der Einheit des Bauentscheids soll eine einheitliche Beurteilung eines baurechtlichen Sachverhalts sicherstellen. Nachgelagerte Verfahren sind nur zulässig, wenn dies von der Sache her sinnvoll ist und sich daraus keine wesentlichen neuen Auswirkungen ergeben.
+
+*Einschlägig für:* Art. 25a RPG; Einheit des Bauentscheids; Nebenbestimmungen; nachgelagerte Verfahren
+
+---
+
+### BGer 1C_271/2024 vom 8. Oktober 2025
+
+**Gewässerraumfestlegung und Koordinationsgebot**
+
+Die gewässerschutzrechtliche Bewilligung ist ein Teilaspekt des Bauvorhabens und erging im Rahmen des gemäss Art. 25a RPG koordinierten, einheitlichen Baubewilligungsverfahrens. Bei überfälliger Gewässerraumfestlegung hätte die Baubewilligung hiermit koordiniert werden müssen; allenfalls wäre eine Planungszone (Art. 27 RPG) zu erlassen gewesen.
+
+*Einschlägig für:* Art. 25a RPG; Gewässerraumfestlegung; Planungszone (Art. 27 RPG); Koordinationsgebot
+
