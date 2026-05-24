@@ -82,4 +82,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 22.05.2026*
+### BGer 4A_339/2022 vom 31. Oktober 2024
+- **Thema**: Bruttorenditenmethode; Eigenkapitalzuschlag bei Neubauten
+- **Kernaussage**: Der Zuschlag für die Eigenkapitalverzinsung im Bruttorenditenmodell wird von 0,5% auf 2% erhöht (bei Referenzzinssatz ≤ 2%), analog zur Nettorenditenmethode (BGE 147 III 14). Der Referenzzinssatz ist ein gerichtsnotorischer Fakt (Art. 151 ZPO). Gesamtbruttorendite: Referenzzinssatz + 3,5% (1,5% laufende Kosten + 2,0% Eigenkapital).
+- **Einschlägig für**: Art. 269 OR i.V.m. Art. 269a lit. c OR — Bruttorenditenmethode, Eigenkapitalverzinsung
+
+---
+
+### BGer 4A_37/2025 vom 11. September 2025
+- **Thema**: Mietzinsreduktion bei Covid-19-Pandemie
+- **Kernaussage**: Behördlich angeordnete Geschäftsschliessungen infolge Covid-19 sind grundsätzlich kein Mangel der Mietsache i.S.v. Art. 259d OR. Nur objektbezogene (beschaffenheitsbezogene), nicht betriebsbezogene Einschränkungen fallen unter die vertragliche Beschaffenheitszusage. Ausnahmsweise kann ein Mangel bestehen, wenn der Geschäftszweck ausdrücklich oder konkludent zum Vertragsbestandteil gemacht wurde (z.B. Kundenfrequenz-Zusicherung, Umsatzmiete).
+- **Einschlägig für**: Art. 259d OR i.V.m. Art. 269 OR — Mietzinsreduktion bei Pandemie
+
+---
+
+### BGer 4A_409/2022 vom 19. September 2023
+- **Thema**: Anfangsmietzins und Mehrleistungen (Art. 269a lit. b OR, Art. 14 OBLF)
+- **Kernaussage**: Der Begriff der «Mehrleistungen» i.S.v. Art. 269a lit. b OR wird durch Art. 14 OBLF präzisiert: Kosten umfassender Überholungen gelten in der Regel zu 50–70% als wertvermehrende Investitionen. Art. 269 OR enthält die allgemeine Missbräuchlichkeitsregel; Art. 269a OR listet Ausnahmen auf, bei denen Mietzinse in der Regel nicht missbräuchlich sind.
+- **Einschlägig für**: Art. 269 OR; Art. 269a lit. b OR; Art. 14 OBLF
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

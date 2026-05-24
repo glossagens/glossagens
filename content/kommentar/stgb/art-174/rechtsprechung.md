@@ -134,4 +134,18 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 23.05.2026*
+### BGer 6B_29/2026 vom 18. März 2026
+- **Thema**: Planmässige Verleumdung im Social-Media-Kontext
+- **Kernaussage**: Verleumdung (Art. 174 Ziff. 1 StGB) ist eine qualifizierte Form der üblen Nachrede (Art. 173 StGB) auf unwahrer Tatsachenbehauptung. Die planmässige Verleumdung (Ziff. 2) erfordert ein koordiniertes, über längere Zeit fortgesetztes Vorgehen — hier: gezielte Rufschädigungskampagne über Video-Blogs, Facebook, Twitter sowie physisch verbreitete Aufkleber/Flyer mit Pädophilie-Vorwurf. Der Entlastungsbeweis nach Art. 173 Ziff. 2 StGB besteht nicht, wenn Art. 174 StGB erfüllt ist (E. 3.6.3).
+- **Einschlägig für**: Art. 174 Ziff. 1 und 2 StGB — Tatbestandsmerkmale; planmässige Verleumdung; Social Media; Abgrenzung zu Art. 173 StGB
+
+---
+
+### BGer 6B_936/2024 vom 10. November 2025
+- **Thema**: Cyberstalking und Verleumdung im digitalen Raum
+- **Kernaussage**: Verleumdung kann auch über digitale Kanäle (Instagram-Fake-Profile, E-Mail-Konten, WhatsApp) begangen werden. Systematisches Cyberstalking einer früheren Partnerin (Eindringen in Web-/E-Mail-/Instagram-Konten, Verbreitung intimer Bilder an Dritte, Erstellung von Fake-Profilen) erfüllt die planmässige Verleumdung (Ziff. 2) bei über längere Zeit fortgesetztem Vorgehen.
+- **Einschlägig für**: Art. 174 Ziff. 2 StGB — digitale Verleumdung; Cyberstalking; Fake-Profile
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

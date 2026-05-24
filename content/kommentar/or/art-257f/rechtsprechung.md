@@ -82,4 +82,32 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 22.05.2026*
+### BGer 4A_561/2025 vom 27. April 2026
+- **Thema**: Kündigungsfrist bei Geschäftsräumen — Art. 257f Abs. 3 OR verlangt zwingend 30 Tage auf Monatsende
+- **Kernaussage**: Bei Geschäftsräumen ist die Kündigung nach Art. 257f Abs. 3 OR zwingend mit einer Frist von mindestens 30 Tagen auf Monatsende auszusprechen; eine fristlose Kündigung ist nur bei unbeweglichen Sachen ausserhalb von Wohn- und Geschäftsräumen zulässig. Ein Fristmangel führt nicht zur Unwirksamkeit, sondern zu analoger Terminverschiebung nach Art. 266a Abs. 2 OR.
+- **Einschlägig für**: Art. 257f Abs. 3 OR (5. Bedingung: Kündigungsfrist); Art. 266a Abs. 2 OR
+
+---
+
+### BGer 4A_111/2025 vom 12. Mai 2025
+- **Thema**: Lärmbelästigung und ausserordentliche Kündigung; Ermessensprüfung
+- **Kernaussage**: Lärmimmissionen und rücksichtsloses Verhalten gegenüber Mitmietern rechtfertigen eine ausserordentliche Kündigung nach Art. 257f Abs. 3 OR, wenn die Pflichtverletzungen nach schriftlicher Abmahnung andauern und die Zumutbarkeitsgrenze überschritten ist. Die Frage der Zumutbarkeit ist ein Ermessensentscheid (Art. 4 ZGB), den das BGer nur mit Zurückhaltung überprüft.
+- **Einschlägig für**: Art. 257f Abs. 1 und 3 OR — Sorgfaltspflicht, Rücksichtnahme, Ermessen
+
+---
+
+### BGer 4A_25/2025 vom 10. März 2025
+- **Thema**: Vertragswidrige Untervermietung als Art. 257f-Pflichtverletzung
+- **Kernaussage**: Präzisierung der fünf kumulativen Voraussetzungen: (1) Pflichtverletzung, (2) schriftliche Abmahnung, (3) Fortdauer, (4) Unzumutbarkeit, (5) Kündigungsfrist. Vertragswidrige Untervermietung mit übermässigem Gewinn (Überschreitung der vertraglichen Vergütungsgrenze) kann eine Sorgfaltspflichtverletzung nach Art. 257f darstellen. Die Unzumutbarkeit ergibt sich bei missbräuchlicher Untervermietung (Art. 262 Abs. 2 OR) ohne Weiteres.
+- **Einschlägig für**: Art. 257f Abs. 1 und 3 OR; Art. 262 Abs. 2 OR
+
+---
+
+### BGer 4A_284/2024 vom 17. Dezember 2024
+- **Thema**: Fünf kumulative Voraussetzungen; Haftung für Familienmitglieder; Subsidiarität
+- **Kernaussage**: Systematische Darstellung der fünf kumulativen Voraussetzungen von Art. 257f Abs. 3 OR. Der Mieter haftet für Hilfspersonen (Art. 101 OR analog), insbesondere für Familienmitglieder. Die Mahnung muss präzise angeben, welches Verhalten gerügt wird. Subsidiarität gegenüber den allgemeinen Vertragsverletzungsregeln (Art. 107 OR).
+- **Einschlägig für**: Art. 257f Abs. 3 OR (kumulative Voraussetzungen); Art. 101 OR analog
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

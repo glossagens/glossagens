@@ -82,4 +82,18 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 22.05.2026*
+### BGer 6B_1189/2023 vom 19. Januar 2026
+- **Thema**: Falsche Anschuldigung — Eventualvorsatz vs. Eventualabsicht
+- **Kernaussage**: Bezüglich der Unwahrheit der Anschuldigung ist Eventualvorsatz ausgeschlossen; der Täter muss sicher um die Unwahrheit wissen («wider besseres Wissen»). Hingegen genügt bezüglich der Absicht, eine Strafverfolgung herbeizuführen, Eventualabsicht (dolus eventualis).
+- **Einschlägig für**: Abs. 1 — subjektiver Tatbestand; Eventualvorsatz vs. Eventualabsicht
+
+---
+
+### BGer 7B_1041/2023 vom 29. Dezember 2025
+- **Thema**: Eventualabsicht bei falscher Anschuldigung im KESB-Verfahren
+- **Kernaussage**: Bestätigung der ständigen Praxis: Bezüglich der Absicht, eine Strafverfolgung herbeizuführen, genügt Eventualabsicht (Verweis auf BGer 6B_200/2022 E. 2.3). Praktische Anwendung im familierechtlichen Kontext (KESB-Verfahren).
+- **Einschlägig für**: Abs. 1 — Eventualabsicht; KESB-Verfahren
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

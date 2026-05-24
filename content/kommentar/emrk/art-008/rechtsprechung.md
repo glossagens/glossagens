@@ -111,3 +111,33 @@ Eine längerfristige Freiheitsstrafe als Widerrufsgrund liegt bei einer Verurtei
 Für den ausländerrechtlichen Familiennachzug von anerkannten Flüchtlingen mit Asyl in der Schweiz gelten die Grundsätze von Art. 8 EMRK sowie die Bestimmungen des AsylG und des AuG. Der Vorrang des Asylverfahrens gemäss Art. 14 AsylG wird bestätigt.
 
 *Einschlägig für:* Flüchtlinge, Familiennachzug, Vorrang Asylverfahren
+
+---
+
+#### 11. BGer 2C_96/2025 vom 15. April 2026
+
+**Nachehelicher Härtefall: tadelloses Verhalten als Voraussetzung**
+
+Ein nachehelicher Härtefall gemäss Art. 50 Abs. 1 lit. b AIG erfordert eine als erheblich zu qualifizierende Intensität der Konsequenzen für das Privat- und Familienleben. Der Fortbestand der von Art. 8 Ziff. 1 EMRK erfassten elterlichen Beziehung zu einem hier gefestigt anwesenheitsberechtigten Kind kann einen wichtigen persönlichen Grund bilden. Ein weitergehender Anspruch besteht nur bei besonders enger affektiver und wirtschaftlicher Beziehung zum Kind und **weitgehend tadellosem Verhalten** (BGE 147 I 149 E. 4; BGE 144 I 91 E. 5.1). Straffällige Ausländer können sich selbst bei enger Eltern-Kind-Bindung nicht auf den Schutz des Familienlebens berufen.
+
+*Einschlägig für:* Art. 8 Ziff. 1 EMRK (Familienleben, nachehelicher Härtefall); Art. 50 AIG
+
+---
+
+#### 12. BGer 2C_217/2026 vom 20. April 2026
+
+**10-Jahres-Vermutung gilt nicht nach Widerruf**
+
+Die Vermutung gemäss BGE 144 I 266 (nach zehnjährigem rechtmässigem Aufenthalt als integriert gelten) bezieht sich auf Konstellationen der Beendigung oder Nichtverlängerung eines bestehenden Aufenthaltsrechts — **nicht** auf die Neubegründung nach einem (illegalen) Aufenthalt oder die weitere Anwesenheit nach rechtskräftigem Widerruf (BGE 149 I 72 E. 2.1.3). In diesem Fall kommt die Erteilung einer Aufenthaltsbewilligung gestützt auf Art. 8 Ziff. 1 EMRK nur bei besonders ausgeprägter Integration infrage (BGE 149 I 207 E. 5.3 und 5.4).
+
+*Einschlägig für:* Art. 8 Ziff. 1 EMRK (Privatleben); 10-Jahres-Vermutung; Widerruf; illegaler Aufenthalt
+
+---
+
+#### 13. BGer 2C_206/2026 vom 22. April 2026
+
+**Kein Familienleben nach Auflösung der Ehe bei kurzem Aufenthalt**
+
+Nach endgültiger Auflösung der ehelichen Gemeinschaft und ohne Kernfamilie in der Schweiz kommt eine Aufenthaltsbewilligung gestützt auf den Schutz des Familienlebens (Art. 8 Ziff. 1 EMRK, Art. 13 Abs. 1 BV) nicht mehr in Betracht. Bei einem Aufenthalt von nur ca. 3 Jahren kann die 10-Jahres-Vermutung von BGE 144 I 266 nicht herangezogen werden. Ein Bewilligungsanspruch aus Art. 8 Ziff. 1 EMRK besteht nur bei einer lang dauernden und gefestigten eheähnlichen Partnerschaft oder wenn eine Heirat unmittelbar bevorsteht (BGE 144 I 266 E. 2.5).
+
+*Einschlägig für:* Art. 8 Ziff. 1 EMRK (Familienleben nach Auflösung der Ehe); kurzer Aufenthalt
