@@ -34,13 +34,15 @@ Der Gläubiger hat nach Rechtsvorschlag zwei alternative Wege zur Verfügung:
 - **Anerkennungsklage / materielle Durchsetzung** (Art. 79 Satz 1 SchKG): Der Gläubiger macht seinen Anspruch im Zivilprozess oder im Verwaltungsverfahren geltend.
 - **Rechtsöffnungsverfahren** (Art. 80 ff. SchKG): Der Gläubiger beantragt die provisorische oder definitive Aufhebung des Rechtsvorschlags beim Rechtsöffnungsrichter.
 
+Die beiden Wege schliessen sich nicht gegenseitig aus — die Rechtshängigkeit einer Anerkennungsklage hindert die Einleitung oder Weiterführung eines Rechtsöffnungsverfahrens nicht (BGE 148 III 30 E. 2).
+
 Art. 79 SchKG behandelt Zivilprozess und Verwaltungsverfahren gleich: Die Beseitigung des Rechtsvorschlags kann — je nach Materie — im einen oder im anderen Verfahren erfolgen; eine Vorrangstellung der ZPO bzw. der Zustellungsregeln der ZPO gibt es nicht (BGE 142 III 599 E. 2.5).
 
 ## II. Fortsetzung aufgrund vollstreckbaren Entscheids (Art. 79 Satz 2)
 
 ### 1. Voraussetzungen der Fortsetzung
 
-Nach Rechtsvorschlag kann die Fortsetzung der Betreibung *nur* aufgrund eines vollstreckbaren Entscheids verlangt werden, der den Rechtsvorschlag ausdrücklich beseitigt (5A_783/2021 E. 3.1; 5A_577/2018 E. 3.1). Das Betreibungsamt hat dies von Amtes wegen zu prüfen (BGE 128 III 380 E. 1.2). Fehlt ein solcher Entscheid, sind alle weiteren Betreibungshandlungen nichtig (BGE 142 III 599 E. 2.1; BGE 130 III 396 E. 1.2.2).
+Nach Rechtsvorschlag kann die Fortsetzung der Betreibung *nur* aufgrund eines vollstreckbaren Entscheids verlangt werden, der den Rechtsvorschlag ausdrücklich beseitigt (5A_783/2021 E. 3.1; 5A_577/2018 E. 3.1). Das Betreibungsamt hat von Amtes wegen zu prüfen, ob ein rechtskräftiger Zahlungsbefehl vorliegt (BGE 128 III 380 E. 1.2). Fehlt ein vollstreckbarer Entscheid, sind alle weiteren Betreibungshandlungen nichtig (BGE 142 III 599 E. 2.1; BGE 130 III 396 E. 1.2.2).
 
 ### 2. Direkte Fortsetzung ohne Rechtsöffnungsverfahren
 
