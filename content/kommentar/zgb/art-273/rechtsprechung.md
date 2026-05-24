@@ -177,3 +177,34 @@ Art. 273 ZGB räumt ein Recht auf **angemessenen** persönlichen Verkehr ein. Be
 
 **Schlagworte:** Angemessenheit, kein Interessenausgleich, Umteilung  
 **E.** 3.2
+
+---
+
+#### 19. BGer 5A_800/2024 vom 9. Mai 2025
+
+**Weisung nach Art. 273 Abs. 2 ZGB unter Strafandrohung**
+
+Die Kindesschutzbehörde kann gestützt auf Art. 273 Abs. 2 ZGB dem alleinsorgeberechtigten Elternteil unter Androhung der Ungehorsamsstrafe (Art. 292 StGB) die Weisung erteilen, das Besuchsrecht der Grossmutter (Art. 274a ZGB) einzuhalten, wenn er sich wiederholt behördlichen Vorgaben widersetzt hat. Die Strafandrohung ist verhältnismässig und notwendig, wenn mildere Massnahmen nicht mehr zielführend sind.
+
+*Einschlägig für:* Art. 273 Abs. 2 ZGB; Art. 274a ZGB; Art. 292 StGB; Ungehorsamsstrafe
+
+---
+
+#### 20. BGer 5A 347/2025 vom 14. August 2025
+
+**Begleitetes Besuchsrecht nach Kontaktabbruch; schrittweiser Ausbau**
+
+Nach einem Kontaktabbruch zwischen Kind und Vater ist ein vorsichtiger, schrittweiser Ausbau des Besuchsrechts geboten. Elternkonflikte allein rechtfertigen keine Beschränkung des Besuchsrechts gegenüber dem Kind — einschraenkend kommt ausschliesslich eine konkrete Kindeswohlgefährdung in Betracht (Bestätigung von BGE 131 III 209, BGE 130 III 585). Die KESB hat ein weites Ermessen bei der Ausgestaltung des begleiteten Besuchsrechts.
+
+*Einschlägig für:* Art. 273 Abs. 1 ZGB; begleiteter persönlicher Verkehr; Kontaktabbruch; Kindeswohl
+
+---
+
+#### 21. BGer 5A_378/2026 vom 7. Mai 2026
+
+**Vorsorgliche Sistierung des Besuchsrechts im Eheschutzverfahren**
+
+Im Rahmen von Eheschutzmassnahmen nach Art. 176 ZGB i.V.m. Art. 273 ZGB kann das Besuchsrecht vorsorglich sistiert werden. Gegen vorsorgliche Massnahmen können nur Verfassungsrügen erhoben werden (Art. 98 BGG), was die verfahrensrechtlichen Hürden für den betroffenen Elternteil deutlich erhöht.
+
+*Einschlägig für:* Art. 273 ZGB i.V.m. Art. 176 ZGB; vorsorgliche Sistierung; Art. 98 BGG
+

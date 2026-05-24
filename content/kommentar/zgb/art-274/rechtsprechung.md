@@ -47,3 +47,35 @@ Der Wegzug der Mutter mit den Kindern entschärft nicht automatisch die Zuweisun
 Im Besuchsrechtsverfahren gilt die Offizialmaxime: das Gericht hat den Sachverhalt von Amtes wegen abzuklären. Dies gilt auch für die Frage des Besuchsrechtsentzugs.
 
 **Schlagworte:** Offizialmaxime, Sachverhaltsabklärung, Kindesschutzbehörde
+
+
+---
+
+### 6. BGer 5A 400/2023 vom 11. Januar 2024
+
+**Verhältnismässigkeit bei Beschränkung nach Art. 274 Abs. 2 ZGB**
+
+Das Besuchsrecht ist ein gegenseitiges Pflichtrecht, das in erster Linie den Interessen des Kindes dient. Oberste Richtschnur ist das Kindeswohl. Wird das Wohl des Kindes durch den persönlichen Verkehr gefährdet, üben die Eltern ihn pflichtwidrig aus, haben sie sich nicht ernsthaft um das Kind gekümmert oder liegen andere wichtige Gründe vor, so kann den Eltern das Recht auf persönlichen Verkehr verweigert oder entzogen werden (Art. 274 Abs. 2 ZGB). Bei einer auf Art. 274 Abs. 2 ZGB gestützten Beschränkung ist das Gebot der Verhältnismässigkeit zu beachten.
+
+*Schlagworte:* Verhältnismässigkeit, Pflichtrecht, Kindeswohl
+
+---
+
+### 7. BGer 5A 500/2023 vom 31. Januar 2024
+
+**Gefährdungsschwelle bei Art. 274 Abs. 2 ZGB**
+
+Eine Gefährdung des Kindeswohls liegt vor, wenn die ungestörte körperliche, seelische oder sittliche Entfaltung des Kindes durch ein auch nur begrenztes Zusammensein mit dem nicht obhutsberechtigten Elternteil bedroht ist. Die Interessen der Eltern haben hinter dem vorrangig massgebenden Kindeswohl zurückzustehen.
+
+*Schlagworte:* Gefährdungsschwelle, körperliche und seelische Entfaltung, Kindeswohl
+
+---
+
+### 8. BGer 5A 293/2024 vom 27. Januar 2025
+
+**Ultima ratio: Entzug des Besuchsrechts**
+
+Der Umgang eines Kindes mit einem Elternteil ist bei einer Verweigerung durch das Kind nur dort aus Gründen des Kindeswohls auszuschliessen, wo das urteilsfähige Kind den Umgang aufgrund seiner Erfahrungen mit dem persönlichen Verkehr kategorisch verweigert. Ein gegen den starken Widerstand erzwungener Besuchskontakt ist mit dem Zweck des Umgangsrechts ebenso unvereinbar wie mit dem Persönlichkeitsschutz des Kindes. Der Entzug des Rechts auf persönlichen Verkehr bildet **ultima ratio**, ist zurückhaltend anzuordnen und regelmässig zu überprüfen.
+
+*Schlagworte:* Ultima ratio, Kinderwille, urteilsfähiges Kind, regelmässige Überprüfung
+

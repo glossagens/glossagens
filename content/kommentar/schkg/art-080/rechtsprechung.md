@@ -91,4 +91,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-23*
+### BGE 151 III 177
+- **Thema**: Steuer-Sicherstellungsverfügung und formelle Rechtskraft bei definitiver Rechtsöffnung
+- **Kernaussage**: Für verwaltungsrechtliche Entscheidungen i.S.v. Art. 80 Abs. 2 Ziff. 2 SchKG — konkret Steuer-Sicherstellungsverfügungen nach Art. 169 Abs. 1 DBG — ist formelle Rechtskraft (nicht bloss Vollstreckbarkeit) Voraussetzung für die definitive Rechtsöffnung. Das BGer präzisierte, dass die Vorinstanz seine frühere Praxis in 5A_41/2018 nicht geändert hat, sondern diese missverstanden wurde.
+- **Einschlägig für**: Art. 80 Abs. 2 Ziff. 2 SchKG; formelle Rechtskraft; Steuer-Sicherstellungsverfügung
+
+---
+
+### BGer 4A_366/2025 vom 21. Oktober 2025
+- **Thema**: Vollstreckbare öffentliche Urkunde (Art. 80 Abs. 2 Ziff. 1bis SchKG i.V.m. Art. 347 ZPO)
+- **Kernaussage**: Eine notarielle öffentliche Urkunde, die den Anforderungen von Art. 347 ZPO genügt (Unterwerfung unter die sofortige Zwangsvollstreckung, bestimmten Rechtsgrund, bestimmte/anerkannte/fällige Schuld), stellt einen definitiven Rechtsöffnungstitel dar. Bedingte Ansprüche können Gegenstand einer öffentlichen Urkunde sein, wenn die Bedingung in der Urkunde unzweideutig erwähnt ist. Einwendungen nach Art. 81 Abs. 2 SchKG sind möglich (Notar-Befangenheit jedoch nicht sofort beweisbar).
+- **Einschlägig für**: Art. 80 Abs. 2 Ziff. 1bis SchKG; Art. 347 ZPO; Art. 81 Abs. 2 SchKG; öffentliche Urkunde
+
+---
+
+### BGer 4A_305/2025 vom 13. März 2026
+- **Thema**: Ukraine-Sanktionen und definitive Rechtsöffnung (Art. 80 Abs. 1 SchKG)
+- **Kernaussage**: Schiedssprüche (LCIA) sind gerichtlichen Entscheiden gleichgestellt und als Rechtsöffnungstitel nach Art. 80 Abs. 1 SchKG geeignet. Das BGer verweigerte die Rechtsöffnung jedoch, weil die Gläubigerin einer sanktionierten Person unter die Ukraine-Verordnung (SR 946.231.176.72) fiel. Das gesetzliche Verfügungsverbot (Art. 15 Abs. 2 Ukraine-VO) begründet eine Stundung i.S.v. Art. 81 Abs. 1 SchKG, die die definitive Rechtsöffnung unabhängig vom Fälligkeitsfragen ausschliesst.
+- **Einschlägig für**: Art. 80 Abs. 1 SchKG; Art. 81 Abs. 1 SchKG; Sanktionen; Schiedsspruch; Stundung
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*

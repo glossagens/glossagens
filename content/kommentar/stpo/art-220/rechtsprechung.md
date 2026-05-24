@@ -76,4 +76,18 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-09*
+### BGer 7B_265/2025 vom 2. März 2026
+- **Thema**: Zulassung als Privatklägerschaft; prozessuale Stellung nach Art. 220 i.V.m. Art. 118 StPO
+- **Kernaussage**: Die Privatklägerschaft hat Anspruch auf Einvernahme nach Art. 220 StPO, wenn sie als geschädigte Person i.S.v. Art. 118 Abs. 1 StPOQualifiziert ist. Die prozessuale Stellung ergibt sich aus Art. 104 Abs. 1 lit. b StPO (Partei). Die Einvernahme obliegt der Staatsanwaltschaft; die Privatklägerschaft hat ein Mitwirkungsrecht.
+- **Einschlägig für**: Art. 220 StPO; Art. 118 StPO; Art. 104 StPO; Privatklägerschaft
+
+---
+
+### BGer 7B_668/2025 vom 5. Februar 2026
+- **Thema**: Einvernahme der Privatklägerschaft im Berufungsverfahren
+- **Kernaussage**: Das Berufungsgericht ist nicht verpflichtet, die Privatklägerschaft persönlich einzuvernehmen, wenn die Vorinstanz dies bereits getan hat und keine neuen erheblichen Tatsachen vorliegen. Die Nichtdurchführung einer weiteren Einvernahme verstösst nicht gegen Art. 220 StPO i.V.m. Art. 398 StPO, wenn die vorinstanzliche Einvernahme ausreichend war.
+- **Einschlägig für**: Art. 220 StPO; Art. 398 StPO; Berufungsverfahren; Privatklägerschaft
+
+---
+
+*Letzte Aktualisierung: 24.05.2026*
