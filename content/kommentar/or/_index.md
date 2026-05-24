@@ -28,6 +28,7 @@
     27|| [337]({{< relref "art-337" >}}) | Fristlose Auflösung |
     28|| [337c]({{< relref "art-337c" >}}) | Ungerechtfertigte Entlassung |
     29|| [340]({{< relref "art-340" >}}) | Arbeitszeugnis |
-    30|| [341]({{< relref "art-341" >}}) | Unabdingbarkeit und Verjährung |
+    30|| [271a]({{< relref "art-271a" >}}) | Schutzfrist bei missbräuchlicher Kündigung |
+|| [341]({{< relref "art-341" >}}) | Unabdingbarkeit und Verjährung |
     31|
     32|
