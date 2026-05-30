@@ -2,13 +2,20 @@
 title: "Rechtsprechung zu Art. 27 RPG"
 weight: 99
 date: 2025-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-30
 description: "Übersicht der Entscheide zu Art. 27 RPG – Planungszonen"
 tags: ["Rechtsprechung", "RPG", "Planungszone", "effet anticipé"]
 agent_verified: false
 ---
 
 ## Leitentscheide (BGE)
+
+### BGE 133 II 353
+- **Thema**: Planungszone und Mobilfunk / Legitimation
+- **Kernaussage**: Grundlegender BGE zur Planungszone: Legitimation zur Beschwerde, Bauhöhen- und Grenzabstandsvorschriften als Teil des Nutzungsplans.
+- **Einschlägig für**: Abs. 1 (Legitimation, Nutzungsplanzugehörigkeit)
+
+---
 
 ### BGE 136 I 142, E. 3.2
 - **Thema**: Planungszone und Lenkungsabgabe
@@ -61,4 +68,39 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-17*
+### [BGer 1C_302/2025 vom 13. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_302_2025)
+- **Thema**: Planungszone und Baubewilligung bei zonenkonform genutzten Parzellen
+- **Kernaussage**: Bereits überbaute und seit Jahrzehnten zonenkonform genutzte Bauparzellen fallen für eine Auszonung nicht in Betracht. Die erteilte Baubewilligung verstösst trotz hängiger Ortsplanungsrevision und kommunaler Planungszone nicht gegen Bundesrecht.
+- **Einschlägig für**: Abs. 1 (Baubewilligung bei hängiger Ortsplanungsrevision)
+
+---
+
+### [BGer 1C_209/2025 vom 15. Dezember 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_209_2025)
+- **Thema**: Planungszone Seeufer Wollishofen / negative Vorwirkung
+- **Kernaussage**: Die Planungszone «Seeufer Wollishofen» der Stadt Zürich ist rechtens. Planungszonen bezwecken die Sicherung der Planungs- und Entscheidungsfreiheit (Art. 27 RPG). Künftigen Nutzungsplänen wird eine negative Vorwirkung zuerkannt. Kein grosser Verstoss gegen den Grundsatz der Planbeständigkeit (Art. 21 Abs. 1 RPG), wenn ein überwiegendes öffentliches Interesse an der Neuplanung besteht.
+- **Einschlägig für**: Abs. 1 (negative Vorwirkung, Planbeständigkeit)
+
+---
+
+### [BGer 1C_396/2024 vom 15. August 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2024)
+- **Thema**: Planungszone Gemeinde Bitsch / Verhältnismässigkeit
+- **Kernaussage**: Der Erlass einer Planungszone setzt eine genügende gesetzliche Grundlage (Art. 27 RPG), ein öffentliches Interesse und Verhältnismässigkeit voraus. Die Eigentumsbeschränkung durch die Planungszone ist mit Art. 26 i.V.m. Art. 36 BV vereinbar, wenn sie im öffentlichen Interesse liegt und verhältnismässig ist.
+- **Einschlägig für**: Abs. 1 (gesetzliche Grundlage, Verhältnismässigkeit, Eigentumsbeschränkung)
+
+---
+
+### [BGer 1C_271/2024 vom 8. Oktober 2025, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_1C_271_2024#e-4-4)
+- **Thema**: Planungszone als Kann-Bestimmung
+- **Kernaussage**: Art. 27 Abs. 1 RPG ist als «Kann»-Bestimmung formuliert — grundsätzlich liegt der Erlass im Ermessen der zuständigen Behörde. Ausnahmsweise kann eine Pflicht zum Erlass bestehen, namentlich wenn die beabsichtigte Planfestsetzung oder -änderung ansonsten gefährdet wäre.
+- **Einschlägig für**: Abs. 1 (Ermessen, Pflicht zum Erlass)
+
+---
+
+### [BGer 1C_175/2025 vom 26. August 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_175_2025)
+- **Thema**: Planungszone «Schützenswerte Bauten» und Photovoltaikanlage
+- **Kernaussage**: Planungszonen gemäss Art. 27 Abs. 1 Satz 1 RPG müssen für genau bezeichnete Gebiete bestimmt sein. Im konkreten Fall wurde eine aufgeständerte Photovoltaikanlage mangels Verstosses gegen die künftige Planung bewilligt, obwohl eine Planungszone «Schützenswerte Bauten und Anlagen» bestand.
+- **Einschlägig für**: Abs. 1 (genau bezeichnete Gebiete, negative Vorwirkung bei Baubewilligung)
+
+---
+
+*Letzte Aktualisierung: 2026-05-30*

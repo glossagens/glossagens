@@ -33,5 +33,6 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 223](art-223/) | Brandstiftung |
 | [Art. 251](art-251/) | Urkundenfälschung |
 | [Art. 259](art-259/) | Betrug |
-| [Art. 303](art-303/) | Drohung |
-| [Art. 305ter](art-305ter/) | Mangelnde Sorgfalt bei Finanzgeschäften |
+|| [Art. 303](art-303/) | Drohung |
+|| [Art. 305ter](art-305ter/) | Mangelnde Sorgfalt bei Finanzgeschäften |
+|| [Art. 239](art-239/) | Störung des Betriebes öffentlicher Verkehrsanstalten |

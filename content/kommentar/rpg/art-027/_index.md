@@ -2,7 +2,7 @@
 title: "Art. 27 — Planungszonen"
 weight: 27
 date: 2025-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 27 RPG – Planungszonen / zones réservées"
 tags: ["RPG", "Planungszone", "Nutzungsplanung", "Baubeschränkung", "effet anticipé"]
 agent_verified: true
@@ -54,9 +54,23 @@ Der Fall betraf eine kantonale Planungszone in Montreux (Waadt), die durch *effe
 
 ### Kasuistik
 
-- [BGE 136 I 142](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_142): Planungszone und Lenkungsabgabe zur Beschränkung des Zweitwohnungsbaus; negative Vorwirkung zulässig, positive unzulässig.
+- [BGE 136 I 142, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_142#e-3-2): Planungszone und Lenkungsabgabe; negative Vorwirkung zulässig, positive unzulässig.
 
-- [BGer 1C_311/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_311_2025): Bei *effet anticipé* beginnt die Fünfjahresfrist ab Auflage; Aufhebung des kantonalen Entscheids.
+- [BGE 148 II 417](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_417): Vorfrageweise Überprüfung des Zonenplans; kommunale Planungszone bei Überdimensionierung der Bauzonen.
+
+- [BGE 133 II 353](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_353): Legitimation zur Beschwerde, Bauhöhen- und Grenzabstandsvorschriften als Teil des Nutzungsplans.
+
+- [BGer 1C_311/2025 vom 20. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_311_2025): Bei *effet anticipé* beginnt die Fünfjahresfrist ab Auflage; Aufhebung des kantonalen Entscheids (5er-Besetzung, Leitentscheid).
+
+- [BGer 1C_302/2025 vom 13. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_302_2025): Bereits überbaute und seit Jahrzehnten zonenkonform genutzte Bauparzellen fallen für eine Auszonung nicht in Betracht; Baubewilligung trotz hängiger Ortsplanungsrevision und Planungszone zulässig.
+
+- [BGer 1C_209/2025 vom 15. Dezember 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_209_2025): Planungszone «Seeufer Wollishofen» bestätigt; negative Vorwirkung zulässig, keine Verletzung der Planbeständigkeit bei überwiegendem öffentlichem Interesse an der Neuplanung.
+
+- [BGer 1C_396/2024 vom 15. August 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2024): Planungszone der Gemeinde Bitsch bestätigt; Erlass setzt gesetzliche Grundlage, öffentliches Interesse und Verhältnismässigkeit voraus; Eigentumsbeschränkung mit Art. 26 i.V.m. Art. 36 BV vereinbar.
+
+- [BGer 1C_271/2024 vom 8. Oktober 2025, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_1C_271_2024#e-4-4): Art. 27 Abs. 1 RPG ist als Kann-Bestimmung formuliert; ausnahmsweise kann eine Pflicht zum Erlass einer Planungszone bestehen, namentlich wenn die beabsichtigte Planfestsetzung sonst gefährdet wäre.
+
+- [BGer 1C_175/2025 vom 26. August 2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_175_2025): Planungszone «Schützenswerte Bauten und Anlagen»; aufgeständerte Photovoltaikanlage mangels Verstosses gegen künftige Planung bewilligt; genaue Bezeichnung des Gebiets erforderlich (Art. 27 Abs. 1 Satz 1 RPG).
 
 - [BGer 1C_518/2019 vom 8. Juli 2020, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_518_2019#e-4-3): Planungszone wird grundsätzlich am Tag der Auflage wirksam.
 
@@ -65,8 +79,6 @@ Der Fall betraf eine kantonale Planungszone in Montreux (Waadt), die durch *effe
 - [BGer 1C_129/2022 vom 18. April 2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_129_2022): Zweck der Planungszone — Sicherung der Planungsfreiheit.
 
 - [BGer 1C_204/2022 vom 21. März 2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_204_2022): Zweck der Planungszone — Verhinderung baurechtlicher Vorwirkungen.
-
-- [BGE 148 II 417](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_417): Vorfrageweise Überprüfung des Zonenplans; kommunale Planungszone bei Überdimensionierung der Bauzonen.
 
 ## Literatur
 
