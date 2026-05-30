@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 17 ATSG"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: 2026-05-30
 description: "Übersicht der Entscheide zu Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 tags: ["Rechtsprechung", "Rentenrevision", "Invalidenversicherung", "ATSG", "Sachverhaltsänderung"]
 agent_verified: false
@@ -128,4 +128,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 15.5.2026*
+### BGer 8C_687/2024 vom 22.8.2025
+- **Thema**: Gesamthafte Neubestimmung des Invaliditätsgrads nach mehreren Unfällen; Erheblichkeitsschwelle
+- **Kernaussage**: Die Regeln über die Rentenrevision nach Art. 17 ATSG gelten auch für die gesamthafte Neubestimmung des Invaliditätsgrads nach mehreren invalidisierenden Unfällen. Bei anspruchsrelevanter Änderung ist der Rentenanspruch ohne Bindung an frühere Beurteilungen umfassend zu prüfen. Die Erheblichkeitsschwelle von fünf Prozentpunkten gemäss Art. 17 Abs. 1 lit. a ATSG ist strikt einzuhalten; eine Änderung von lediglich zwei Prozentpunkten genügt nicht für eine Revision.
+- **Einschlägig für**: Art. 17 Abs. 1 (materielle Revision), Erheblichkeitsschwelle, gesamthafte Neubestimmung
+
+---
+
+### BGer 9C_597/2025 vom 9.4.2026
+- **Thema**: Prozessuale Revision und Motivsubstitution; Begründungspflicht des Gerichts
+- **Kernaussage**: Eine substituierte Begründung (Motivsubstitution) ist in jedem möglichen Rückkommenstitel zulässig, sofern der Versicherungsträger den Willen zur Wahrnehmung der Rückkommensmöglichkeit kundtut. Äussert der Versicherungsträger eventualiter, dass neben der prozessualen Revision (Art. 53 Abs. 1 ATSG) auch andere Korrekturinstrumente (Art. 17 Abs. 1 ATSG, Art. 53 Abs. 2 ATSG) in Betracht kommen, muss das kantonale Gericht diese Alternativen prüfen. Unterlassung verletzt Art. 29 Abs. 2 BV und Art. 61 lit. h ATSG.
+- **Einschlägig für**: Art. 17 Abs. 1 (materielle Revision), Art. 53 Abs. 1 ATSG (prozessuale Revision), Art. 53 Abs. 2 ATSG (Wiedererwägung), Art. 29 Abs. 2 BV
+
+---
+
+### BGer 8C_155/2024 vom 11.3.2025
+- **Thema**: Rentenrevision im Rahmen der WEIV; Taggeldrevision
+- **Kernaussage**: Die Revision der Invalidenrente unterliegt auch im Rahmen der militärischen Versicherungen den allgemeinen revisionsrechtlichen Grundsätzen nach Art. 17 ATSG. Eine anspruchsrelevante Änderung der tatsächlichen Verhältnisse ist Voraussetzung für eine Revision; die lediglich unterschiedliche Beurteilung eines im Wesentlichen gleich gebliebenen Sachverhalts reicht nicht aus.
+- **Einschlägig für**: Art. 17 Abs. 1 (materielle Revision), WEIV-Taggeld
+
+---
+
+*Letzte Aktualisierung: 30.5.2026*

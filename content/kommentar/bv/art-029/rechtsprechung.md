@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-05-30
 description: "Wichtige Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege", "Grundrechte"]
 agent_verified: true
@@ -114,3 +114,47 @@ agent_verified: true
 - **Thema**: Teilnahmerecht und Konfrontationsanspruch — Anpassung der Rechtsprechung (Unverwertbarkeit)
 - **Kernaussage**: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO unverwertbar ist, bleibt auch nach einer Wiederholung der Einvernahme unter Wahrung des Teilnahmerechts unverwertbar. Die nachträgliche Gewährung des Konfrontationsanspruchs heilt die Verletzung nicht — Anpassung der Rechtsprechung.
 - **Einschlägig für**: Art. 29 Abs. 2 BV; Art. 147 StPO; rechtliches Gehör; Unverwertbarkeit; Konfrontationsanspruch
+
+---
+
+### Neuere Entscheide (2025)
+
+---
+
+#### BGer 1C 198/2025 — Rechtsweggarantie, parlamentarische Aufsichtskommissionen
+
+**THEMA:** Rechtsweggarantie / parlamentarische Aufsichtskommissionen
+
+**KERNAUSSAGE:** Die Rechtspflegekommission eines Kantonsrats ist als parlamentarisches Aufsichtsorgan keine richterliche Behörde im Sinne von Art. 29a BV. Die Rechtsweggarantie verlangt eine gerichtliche Überprüfung nur durch eine richterliche Behörde.
+
+**EINSCHLÄGIG FÜR:** Art. 29 Abs. 1 BV; Art. 29a BV; Rechtsweggarantie
+
+---
+
+#### BGer 7B_1305/2025 — Rechtliches Gehör, bedingte Entlassung
+
+**THEMA:** Rechtliches Gehör / bedingte Entlassung aus der Verwahrung
+
+**KERNAUSSAGE:** Im Verfahren betreffend die bedingte Entlassung aus der Verwahrung erlangt das rechtliche Gehör (Art. 29 Abs. 2 BV) besondere Bedeutung. Wenn die Vorinstanz auf die Beschwerde einer in der Verwahrung befindlichen Person nicht eintritt, weil die Beschwerdeschrift im Wesentlichen die bereits vor der Vorinstanz vorgetragenen Argumente wiederholt, so verstösst dies gegen den Anspruch auf rechtliches Gehör, soweit der Beschwerdeführer ausdrücklich auf den angefochtenen Verfügungsentscheid Bezug nimmt und eine Gehörsverletzung rügt.
+
+**EINSCHLÄGIG FÜR:** Art. 29 Abs. 2 BV; rechtliches Gehör; bedingte Entlassung; Verwahrung
+
+---
+
+#### BGer 9C_550/2025 — Substanziierungspflicht, Nichteintreten
+
+**THEMA:** Substanziierungspflicht / Nichteintreten im vereinfachten Verfahren
+
+**KERNAUSSAGE:** Auf eine Beschwerde, die offensichtlich keine hinreichende Begründung im Sinne von Art. 42 Abs. 2 BGG enthält, ist im vereinfachten Verfahren nach Art. 108 Abs. 1 lit. b BGG nicht einzutreten.
+
+**EINSCHLÄGIG FÜR:** Art. 29 Abs. 2 BV; Art. 42 Abs. 2 BGG; Art. 108 Abs. 1 lit. b BGG; Begründungspflicht
+
+---
+
+#### BGer 4A_312/2025 — Faire Behandlung, Gesellschaftsrecht
+
+**THEMA:** Faire Behandlung im gesellschaftsrechtlichen Verfahren
+
+**KERNAUSSAGE:** Der aus Art. 29 Abs. 1 BV abgeleitete Anspruch auf faire Behandlung gilt auch im gesellschaftsrechtlichen Verfahren und verlangt, dass die Verfahrensbeteiligten gleichmassig und ohne Willkür behandelt werden.
+
+**EINSCHLÄGIG FÜR:** Art. 29 Abs. 1 BV; faire Behandlung; Gesellschaftsrecht; Gleichbehandlung

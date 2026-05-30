@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 305ter StGB"
 weight: 99
 date: 2026-05-29
-lastmod: 2026-05-29
+lastmod: 2026-05-30
 description: "Übersicht der Entscheide zu Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften"
 tags: ["Rechtsprechung", "StGB", "Geldwäscherei", "Sorgfaltspflicht", "KYC"]
 agent_verified: false
@@ -79,4 +79,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-29*
+### BGer 7B_1137/2024 vom 3.11.2025
+- **Thema**: Beschwerdelegitimation bei Art. 305ter StGB
+- **Kernaussage**: Eine anzeigende Person, die sich im Strafverfahren nicht als Privatklägerin konstituiert hat, ist nicht beschwerdelegitimiert gegen die Einstellung des Verfahrens. Bei Strafnormen, die nicht primär Individualrechtsgüter schützen — wie Art. 305ter StGB —, genügt die blosse mittelbare Betroffenheit nicht für ein rechtlich geschütztes Interesse im Sinne von Art. 81 Abs. 1 BGG.
+- **Einschlägig für**: Abs. 2 (Melderecht), Beschwerdelegitimation, Art. 81 BGG
+
+---
+
+### BGer 1C_561/2025 vom 6.1.2026
+- **Thema**: Art. 305ter StGB und Einbürgerung — Gewinnschwelle
+- **Kernaussage**: Verfehlungen nach Art. 305ter StGB können die Aufhebung der Einbürgerung rechtfertigen, wenn die untreuen Erklärungen wesentliche Tatsachen verschleierten. Die Gewinnschwelle von Fr. 20'000.– pro Jahr muss bereits zum Zeitpunkt der Einbürgerung erreicht gewesen sein; massgeblich ist der objektive Gewinnausfall.
+- **Einschlägig für**: Abs. 1 (Sorgfaltspflicht), Abs. 2 (Melderecht), Einbürgerungsrecht
+
+---
+
+### BGer 7B 733/2024 vom 31.1.2025
+- **Thema**: Quellenschutz und Entsiegelung bei Art. 305ter StGB
+- **Kernaussage**: Der journalistische Quellenschutz (Art. 28f. StGB, Art. 10 EMRK) und die Sorgfaltspflichten nach Art. 305ter StGB bestehen unabhängig nebeneinander. Der Quellenschutz kann die Herausgabepflicht gegenüber Strafbehörden einschränken, entbindet Finanzintermediäre jedoch nicht von der Meldepflicht nach Art. 305ter Abs. 2 StGB gegenüber der MROS.
+- **Einschlägig für**: Abs. 2 (Melderecht), Quellenschutz, Art. 10 EMRK
+
+---
+
+*Letzte Aktualisierung: 2026-05-30*

@@ -2,7 +2,7 @@
 title: "Art. 426 — Fürsorgeunterbringung"
 weight: 426
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 426 ZGB: Fürsorgeunterbringung bei psychischer Störung, geistiger Behinderung oder schwerer Verwahrlosung; Ultima-ratio-Prinzip; Verfahrensgarantien; Entlassungsanspruch"
 tags: ["ZGB", "Erwachsenenschutz", "Fürsorgeunterbringung", "Ultima ratio", "Patientenautonomie", "Verfahrensgarantien"]
 agent_verified: true
@@ -66,7 +66,15 @@ Die Belastung von Angehörigen, die die Pflege übernehmen, und der Schutz Dritt
 
 ### V. Entlassungsanspruch (Abs. 3 und 4)
 
+Der Entlassungsanspruch nach Art. 426 Abs. 3 und 4 ZGB räumt der bevormundeten Person ein Recht auf Entlassung ein, wenn die Voraussetzungen für die Massnahme weggefallen sind. Nach [BGer 5A_1127/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_1127_2025) gilt das Subsidiaritätsprinzip auch bei der Frage der Entlassung: Wenn ambulante Betreuungsmöglichkeiten ausreichen, ist die Unterbringung aufzuheben. [BGer 5A_1048/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_1048_2025) konkretisiert die Geeignetheit der Einrichtung: Die Unterbringung muss in einer auf die Bedürfnisse der betroffenen Person ausgerichteten Einrichtung erfolgen; eine Notlösung kann vorübergehend zulässig sein, erfüllt aber nicht die Anforderungen einer dauerhaften Lösung.
+
 Die betroffene Person ist **unverzüglich** zu entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind (Abs. 3). Das Entlassungsgesuch kann von der betroffenen Person oder einer nahestehenden Person **jederzeit** gestellt werden. Über das Gesuch ist **ohne Verzug** zu entscheiden (Abs. 4).
+
+---
+
+### Vb. Suchtmittelabhängigkeit als Unterbringungsgrund
+
+Suchtmittelabhängigkeit kann als psychische Störung im Sinne von Art. 426 Abs. 1 ZGB eine fürsorgerische Unterbringung rechtfertigen, sofern die Voraussetzungen der Selbst- oder Fremdgefährdung erfüllt sind. [BGer 5A_467/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_467_2025) hielt fest, dass die Weigerung der betroffenen Person, sich freiwillig in Behandlung zu begeben, die fürsorgerische Unterbringung rechtfertigen kann, wenn eine konkrete Selbst- oder Fremdgefährdung vorliegt. Bei der Entlassung nach Art. 426 Abs. 3 ZGB ist zu berücksichtigen, dass die Belastung der Angehörigen bei der Frage der Geeignetheit der ambulanten Versorgung mitzubeurteilen ist.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Art. 79 SchKG — Rechtsvorschlag: Fortsetzung der Betreibung"
 weight: 79
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-05-30
 description: "Art. 79 SchKG regelt die Fortsetzung der Betreibung nach Rechtsvorschlag: Der Gläubiger muss seinen Anspruch im Zivil- oder Verwaltungsverfahren durchsetzen und kann die Fortsetzung nur aufgrund eines vollstreckbaren Entscheids verlangen, der den Rechtsvorschlag ausdrücklich beseitigt."
 tags: ["SchKG", "Rechtsvorschlag", "Fortsetzung der Betreibung", "vollstreckbarer Entscheid", "Rechtsöffnung", "Anerkennungsklage", "Betreibungsrecht"]
 agent_verified: false
@@ -106,6 +106,10 @@ Bei Betreibungen in Fremdwährung muss die Betreibungssumme in CHF neben der Fre
 | **Art. 85a SchKG** | Feststellungsklage als Alternative zur Rechtsöffnung |
 | **Art. 88 SchKG** | Fortsetzungsverfahren nach Beseitigung des Rechtsvorschlags |
 | **Art. 81 SchKG** | Einreden des Schuldners im Rechtsöffnungsverfahren |
+
+## VII. Verhältnis von Art. 79 zu Art. 80 SchKG
+
+Das Verhältnis der Anerkennungsklage nach Art. 79 SchKG zur Rechtsöffnung nach Art. 80 SchKG wurde in [BGer 9C_427/2024](https://mcp.opencaselaw.ch/entscheid/bger_9C_427_2024) näher konturiert: Die Anerkennungsklage ist das ordentliche Verfahren zur gerichtlichen Feststellung der betriebenen Forderung nach Rechtsvorschlag und bietet eine volle Sachprüfung, während die Rechtsöffnung ein summarisches Verfahren darstellt, das nur bei offensichtlicher Forderungsbegründetheit gewährt wird. [BGer 4A 435/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_435_2024) klärte, dass eine Sicherstellungsverfügung nach Art. 169 DBG zwar die Wirkungen eines vollstreckbaren Gerichtsurteils hat (Art. 170 Abs. 1 DBG), für die definitive Rechtsöffnung aber die formelle Rechtskraft der Steuerveranlagung erforderlich ist.
 
 ## Literatur
 

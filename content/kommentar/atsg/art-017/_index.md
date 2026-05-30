@@ -2,7 +2,7 @@
 title: "Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 weight: 17
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 17 ATSG: Voraussetzungen der Rentenrevision, zeitliche Vergleichsbasis, zweistufige Prüfung, Diagnoseidentität, Abgrenzung zu Wiedererwägung und Neuanmeldung."
 tags: ["Rentenrevision", "Invalidenversicherung", "Sachverhaltsänderung", "ATSG", "Sozialversicherungsrecht"]
 agent_verified: false
@@ -65,6 +65,10 @@ b. auf 100 Prozent erhöht.
 ## Abs. 2 — Andere Dauerleistungen
 
 **14** **Erhebliche Sachverhaltsänderung** Art. 17 Abs. 2 ATSG gilt für alle anderen formell rechtskräftig zugesprochenen Dauerleistungen (z.B. Taggelder, Pflegeentschädigungen, Hilflosenentschädigungen). Die Revision setzt eine erhebliche nachträgliche Änderung des der Leistung zugrunde liegenden Sachverhalts voraus; für Dauerleistungen ohne quantitative Erheblichkeitsschwelle (vgl. Abs. 1 lit. a) bestimmt die jeweilige Spezialgesetzgebung, ab wann eine Sachverhaltsänderung «erheblich» ist. Der Begriff der Erheblichkeit ist funktional-zweckorientiert auszulegen: Erheblich ist eine Änderung, die zu einem anderen Leistungsanspruch führt.
+
+**14a** **Gesamthafte Neubestimmung und andere Dauerleistungen** Die Regeln über die Rentenrevision nach Art. 17 ATSG gelten auch für die gesamthafte Neubestimmung des Invaliditätsgrads nach mehreren invalidisierenden Unfällen: Liegt eine anspruchsrelevante Änderung vor, ist der Rentenanspruch ohne Bindung an frühere Beurteilungen umfassend zu prüfen. Die Erheblichkeitsschwelle von fünf Prozentpunkten gemäss Art. 17 Abs. 1 lit. a ATSG ist dabei strikt einzuhalten — eine Änderung von lediglich zwei Prozentpunkten genügt nicht für eine Revision ([BGer 8C_687/2024](https://mcp.opencaselaw.ch/entscheid/bger_8C_687_2024), E. 5.1).
+
+**14b** **Prozessuale Revision und Motivsubstitution** Was das Verhältnis von materieller Revision, prozessualer Revision (Art. 53 Abs. 1 ATSG) und Wiedererwägung (Art. 53 Abs. 2 ATSG) betrifft, hat [BGer 9C_597/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_597_2025) klargestellt, dass eine substituierte Begründung (Motivsubstitution) in jedem möglichen Rückkommenstitel zulässig ist, sofern der Versicherungsträger den Willen kundtut, die Rückkommensmöglichkeit effektiv wahrzunehmen. Äussert der Versicherungsträger im kantonalen Beschwerdeprozess eventualiter, dass auch andere Korrekturinstrumente (Art. 17 Abs. 1 ATSG oder Art. 53 Abs. 2 ATSG) in Betracht kommen, muss das Gericht diese Alternativen prüfen. Unterlässt das kantonale Gericht diese Prüfung, verletzt es seine Begründungspflicht (Art. 29 Abs. 2 BV; Art. 61 lit. h ATSG).
 
 ---
 

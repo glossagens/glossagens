@@ -2,7 +2,7 @@
 title: "Art. 29 — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 29 BV – Gleiche und gerechte Behandlung, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege", "Grundrechte"]
 agent_verified: true
@@ -33,6 +33,10 @@ Der Anspruch auf **gleiche und gerechte Behandlung** umfasst:
 
 Der Anspruch auf **Beurteilung innert angemessener Frist** richtet sich gegen übermässige Verfahrensdauer. Die Beurteilung der Angemessenheit richtet sich nach den Umständen des Einzelfalls (Komplexität, Verhalten der Parteien, Bedeutung für den Betroffenen).
 
+### Abs. 1 – Angemessene Frist
+
+Der Anspruch auf Beurteilung innert angemessener Frist (Art. 29 Abs. 1 BV) wird durch Art. 6 Ziff. 1 EMRK konkretisiert. Die Angemessenheit der Verfahrensdauer beurteilt sich nach den Umständen des Einzelfalls, wobei Komplexität der Sache, Verhalten der Parteien und Verzögerungen durch die Behörden zu berücksichtigen sind. In [BGer 1C 198/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_198_2025) trat das Bundesgericht auf eine Beschwerde gegen einen Entscheid der Rechtspflegekommission eines Kantonsrats nicht ein, da diese als parlamentarisches Aufsichtsorgan keine richterliche Behörde im Sinne von Art. 29a BV darstellt. Der Entscheid verdeutlicht, dass die Rechtsweggarantie nach Art. 29a BV eine gerichtliche Überprüfung nur durch eine richterliche Behörde verlangt.
+
 ### Absatz 2 — Rechtliches Gehör
 
 Das **rechtliche Gehör** ist das zentrale Verfahrensgrundrecht. Es umfasst:
@@ -56,6 +60,8 @@ Die **unentgeltliche Rechtspflege** setzt zwei Voraussetzungen voraus:
 2. **Nicht aussichtsloses Begehren:** Das Rechtsbegehren erscheint nicht von vornherein aussichtslos
 
 Soweit es zur Wahrung der Rechte notwendig ist, besteht zusätzlich ein Anspruch auf **unentgeltlichen Rechtsbeistand**.
+
+Der Anspruch auf unentgeltliche Rechtspflege nach Art. 29 Abs. 3 BV setzt voraus, dass die rechtsuchende Person nicht über die erforderlichen Mittel verfügt und die Rechtsbegehren nicht aussichtslos erscheinen. In [BGer 7B_1305/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1305_2025) hielt das Bundesgericht fest, dass im Verfahren betreffend die bedingte Entlassung aus der Verwahrung das rechtliche Gehör (Art. 29 Abs. 2 BV) eine besondere Bedeutung erlangt: Wenn die Vorinstanz auf die Beschwerde einer in der Verwahrung befindlichen Person nicht eintritt, weil die Beschwerdeschrift im Wesentlichen die bereits vor der Vorinstanz vorgetragenen Argumente wiederholt, so verstösst dies gegen den Anspruch auf rechtliches Gehör, soweit der Beschwerdeführer ausdrücklich auf den angefochtenen Verfügungsentscheid Bezug nimmt und eine Gehörsverletzung rügt. In [BGer 9C_550/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_550_2025) bestätigte das Bundesgericht, dass auf eine Beschwerde, die offensichtlich keine hinreichende Begründung im Sinne von Art. 42 Abs. 2 BGG enthält, im vereinfachten Verfahren nach Art. 108 Abs. 1 lit. b BGG nicht einzutreten ist.
 
 ### Verhältnis zu Art. 6 EMRK
 

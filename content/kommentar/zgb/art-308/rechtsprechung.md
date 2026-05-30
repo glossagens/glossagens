@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 308 ZGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-05-30
 description: "Übersicht der massgeblichen Entscheide zu Art. 308 ZGB (Kindesschutzbeistandschaft)"
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung"]
 agent_verified: false
@@ -91,3 +91,53 @@ Bei mehrfachen Polizeiinterventionen wegen häuslicher Gewalt, Suchtmittelkonsum
 Die KESB errichtete eine Beistandschaft für ein Kind mit Verhaltensauffälligkeiten, das als hoch gefährdet eingestuft wurde. Der Beistand wurde mit der Suche nach einer geeigneten Institution für die Langzeitplatzierung betraut. Bestätigt, da die Kindsmutter trotz Kooperationsbereitschaft überfordert war.
 
 *Einschlägig für:* Art. 308 Abs. 1 und 2 ZGB; Beistandschaft bei Platzierung; elterliche Überforderung
+
+---
+
+#### 9. BGer 5A 779/2024 — Entzug Aufenthaltsbestimmungsrecht
+
+**Entzug des Aufenthaltsbestimmungsrechts als Teil einer Beistandschaft**
+
+Der Entzug des Aufenthaltsbestimmungsrechts als Teil einer Beistandschaft ist eine schwerwiegende Massnahme, die nur bei konkreter Gefährdung und unter Beachtung des Verhältnismässigkeitsgrundsatzes angeordnet werden darf und regelmässig zu überprüfen ist.
+
+*Einschlägig für:* Art. 308 Abs. 3 ZGB; Aufenthaltsbestimmungsrecht; Verhältnismässigkeit
+
+---
+
+#### 10. BGer 5A 110/2025 — Unterbringung, Verhältnismässigkeit
+
+**Unterbringung ausserhalb des elterlichen Haushalts als schwerwiegende Massnahme**
+
+Die Unterbringung ausserhalb des elterlichen Haushalts stellt eine schwerwiegende Massnahme dar, die verhältnismässig sein muss.
+
+*Einschlägig für:* Art. 308 ZGB; Unterbringung; Verhältnismässigkeit; Kindeswohl
+
+---
+
+#### 11. BGer 5A_230/2024 — Besuchsrechtsüberwachung, Aufhebung
+
+**Kindesschutzmassnahmen und Verhältnismässigkeit; Aufhebung bei Wegfall des Grundes**
+
+Kindesschutzmassnahmen stets der Verhältnismässigkeit zu genügen haben und bei Wegfall des Grundes aufzuheben sind.
+
+*Einschlägig für:* Art. 308 ZGB; Besuchsrechtsüberwachung; Aufhebung; Verhältnismässigkeit
+
+---
+
+#### 12. BGer 5A_568/2025 — Errichtung bei konfliktbeladener Elternbeziehung
+
+**Subsidiarität von Art. 307 Abs. 3 ZGB und Art. 308 ZGB**
+
+Art. 307 Abs. 3 ZGB (Weisungen an die Eltern) und Art. 308 ZGB (Beistandschaft) sind nicht kumulativ, sondern subsidiär anwendbar.
+
+*Einschlägig für:* Art. 307 Abs. 3 ZGB; Art. 308 ZGB; Subsidiarität; Elternkonflikt
+
+---
+
+#### 13. BGer 5A 577/2025 — Grenzen der Beistandschaft, Begründungsanforderungen
+
+**Eingehende Begründung der Kindeswohlgefährdung erforderlich**
+
+Die Errichtung einer Beistandschaft verlangt eine eingehende Begründung der Kindeswohlgefährdung — appellatorische Sachverhaltsrügen und pauschale Behauptungen genügen nicht.
+
+*Einschlägig für:* Art. 308 ZGB; Begründungsanforderungen; Kindeswohlgefährdung; Subsidiarität

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 79 SchKG"
 weight: 79
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-05-30
 description: "Massgebliche Bundesgerichtspraxis zu Art. 79 SchKG — Rechtsvorschlag, Fortsetzung der Betreibung, vollstreckbarer Entscheid, Rechtsöffnung"
 tags: ["SchKG", "Rechtsvorschlag", "Fortsetzung der Betreibung", "Rechtsöffnung", "Bundesgerichtsentscheide"]
 agent_verified: false
@@ -132,18 +132,62 @@ agent_verified: false
 
 ---
 
-#### 5A_94/2025 — Rückweisung des Fortsetzungsbegehrens
+#### 5A_94/2025 — Rückweisung des Fortsetzungsbegehrens, Anerkennungsklage im Kontext eines Arrests
 
-**Bedeutung**: Jüngste Praxis zur Rückweisung eines Fortsetzungsbegehrens, wenn die Voraussetzungen von Art. 79 SchKG nicht erfüllt sind.
-
----
-
-#### 4A_459/2024 — Provisorische Rechtsöffnung; Rückzug
-
-**Bedeutung**: Provisorische Rechtsöffnung nach Art. 82 SchKG als vorläufige Massnahme bis zum Abschluss des ordentlichen Verfahrens nach Art. 79 SchKG.
+**Bedeutung**: Rückweisung eines Fortsetzungsbegehrens, wenn die Voraussetzungen von Art. 79 SchKG nicht erfüllt sind, insbesondere im Kontext eines Arrests. Klärt die Grenzen der Fortsetzung bei fehlendem vollstreckbaren Entscheid.
 
 ---
 
-#### 5A_220/2022 — Definitive und provisorische Rechtsöffnung
+#### 4A_459/2024 — Provisorische Rechtsöffnung, Rückzug der Beschwerde
 
-**Bedeutung**: Praxis zu den Voraussetzungen und dem Verhältnis von provisorischer und definitiver Rechtsöffnung im Kontext von Art. 79 und 80 ff. SchKG.
+**Bedeutung**: Provisorische Rechtsöffnung nach Art. 82 SchKG als vorläufige Massnahme bis zum Abschluss des ordentlichen Verfahrens nach Art. 79 SchKG. Der Rückzug der Beschwerde lässt die provisorische Rechtsöffnung unberührt.
+
+---
+
+#### 5A 220/2022 — Definitive und provisorische Rechtsöffnung, Beschwerdefrist
+
+**Bedeutung**: Praxis zu den Voraussetzungen und dem Verhältnis von provisorischer und definitiver Rechtsöffnung im Kontext von Art. 79 und 80 ff. SchKG. Klärt die Beschwerdefristen und das Verhältnis der beiden Verfahrensarten.
+
+---
+
+### Neuere Entscheide (2024–2026)
+
+---
+
+#### BGer 5A_287/2025 — Anerkennungsklage im Grundpfandbetreibungsverfahren
+
+**Bedeutung**: Die Anerkennungsklage nach Art. 79 SchKG ist auch im Grundpfandbetreibungsverfahren der ordentliche Weg zur gerichtlichen Feststellung der betriebenen Forderung nach Rechtsvorschlag.
+
+*Einschlägig für:* Art. 79 SchKG; Anerkennungsklage; Grundpfandbetreibung
+
+---
+
+#### BGer 9C_427/2024 — Abgrenzung Anerkennungsklage vs. Rechtsöffnung
+
+**Bedeutung**: Die Anerkennungsklage ist das ordentliche Verfahren zur gerichtlichen Feststellung der betriebenen Forderung nach Rechtsvorschlag und bietet eine volle Sachprüfung, während die Rechtsöffnung ein summarisches Verfahren darstellt, das nur bei offensichtlicher Forderungsbegründetheit gewährt wird.
+
+*Einschlägig für:* Art. 79 SchKG; Art. 80 SchKG; Anerkennungsklage; Rechtsöffnung; Abgrenzung
+
+---
+
+#### BGer 4A 435/2024 — Sicherstellungsverfügung und Rechtsöffnung
+
+**Bedeutung**: Eine Sicherstellungsverfügung nach Art. 169 DBG hat zwar die Wirkungen eines vollstreckbaren Gerichtsurteils (Art. 170 Abs. 1 DBG); für die definitive Rechtsöffnung nach Art. 80 SchKG ist jedoch die formelle Rechtskraft der Steuerveranlagung erforderlich.
+
+*Einschlägig für:* Art. 79 SchKG; Art. 80 SchKG; Sicherstellungsverfügung; DBG; Rechtsöffnung
+
+---
+
+#### BGer 5A_210/2025 — Schuldbriefforderung und Anerkennungsklage
+
+**Bedeutung**: Die Anerkennungsklage nach Art. 79 SchKG kann auch zur Durchsetzung von Schuldbriefforderungen eingesetzt werden, wenn der Schuldner Rechtsvorschlag erhoben hat.
+
+*Einschlägig für:* Art. 79 SchKG; Schuldbrief; Anerkennungsklage; Grundpfand
+
+---
+
+#### BGer 5A_5/2026 — Pfändung von Miteigentumsanteilen
+
+**Bedeutung**: Praxis zur Pfändung von Miteigentumsanteilen im Kontext der Betreibung und des Rechtsvorschlags nach Art. 79 SchKG.
+
+*Einschlägig für:* Art. 79 SchKG; Pfändung; Miteigentumsanteile; Betreibungsrecht

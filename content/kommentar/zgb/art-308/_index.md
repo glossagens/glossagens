@@ -2,7 +2,7 @@
 title: "Art. 308 — Ernennung eines Beistands"
 weight: 308
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Unterstützung der Eltern durch Beistand, besondere Befugnisse (Vaterschaft, Unterhalt, Besuchsrecht), Beschränkung der elterlichen Sorge"
 tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge"]
 agent_verified: true
@@ -66,6 +66,18 @@ Der Beistand überwacht den persönlichen Verkehr zwischen Kind und Besuchsberec
 ### IV. Beschränkung der elterlichen Sorge (Abs. 3)
 
 Soweit die Kindesschutzbehörde den Eltern gestützt auf Art. 308 Abs. 2 und 3 ZGB Befugnisse entzieht und einem Beistand überträgt, behalten die Eltern ihre übrigen Sorgerechtsbefugnisse (BGer 5A_310/2023 E. 6.2.2). Die Beschränkung der elterlichen Sorge muss verhältnismässig sein und sich auf den Aufgabenbereich des Beistands beschränken.
+
+---
+
+### IVb. Beendigung und Aufhebung der Beistandschaft
+
+Die Beendigung der Beistandschaft nach Art. 308 ZGB kann durch Aufhebung, Änderung des Aufgabenkreises oder Ersetzen durch eine andere Massnahme erfolgen. [BGer 5A_230/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_230_2024) hielt fest, dass Kindesschutzmassnahmen stets der Verhältnismässigkeit zu genügen haben und bei Wegfall des Grundes aufzuheben sind. Der Entzug des Aufenthaltsbestimmungsrechts als Teil einer Beistandschaft wurde in [BGer 5A 779/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_779_2024) behandelt: Diese schwerwiegende Massnahme darf nur bei konkreter Gefährdung und unter Beachtung des Verhältnismässigkeitsgrundsatzes angeordnet werden und ist regelmässig zu überprüfen.
+
+---
+
+### IVc. Verhältnis Art. 307 zu Art. 308 ZGB
+
+Das Verhältnis von Art. 307 ZGB (allgemeine Kindesschutzmassnahmen) zu Art. 308 ZGB (Beistandschaft) ist durch den Grundsatz der Subsidiarität geprägt. [BGer 5A_568/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_568_2025) hielt fest, dass Art. 307 Abs. 3 ZGB (Weisungen an die Eltern) und Art. 308 ZGB (Beistandschaft) nicht kumulativ, sondern subsidiär anwendbar sind. [BGer 5A 577/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_577_2025) unterstrich, dass die Errichtung einer Beistandschaft eine eingehende Begründung der Kindeswohlgefährdung verlangt — appellatorische Sachverhaltsrügen und pauschale Behauptungen genügen nicht. [BGer 5A 110/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_110_2025) bestätigte, dass die Unterbringung ausserhalb des elterlichen Haushalts eine schwerwiegende Massnahme darstellt, die verhältnismässig sein muss.
 
 ---
 

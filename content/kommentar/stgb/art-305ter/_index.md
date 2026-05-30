@@ -2,7 +2,7 @@
 title: "Art. 305ter — Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 weight: 305
 date: 2026-05-29
-lastmod: 2026-05-29
+lastmod: 2026-05-30
 description: "Kommentar zu Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 tags: ["StGB", "Geldwäscherei", "Sorgfaltspflicht", "Finanzintermediär", "KYC", "wirtschaftlich Berechtigter"]
 agent_verified: true
@@ -120,7 +120,15 @@ Grundsätzlich geht Art. 305bis StGB (Geldwäscherei) vor (PIETH/SCHULZE, N. 26 
 
 Das Melderecht (Art. 305ter Abs. 2 StGB) wurde 1994 eingefügt und stellt einen strafrechtlichen Rechtfertigungsgrund für die Verletzung beruflicher Geheimhaltungspflichten dar. Es erlaubt Finanzintermediären, verdachtsbegründende Wahrnehmungen an die MROS zu melden. Die praktische Bedeutung des Melderechts hat mit der jüngsten GwG-Revision und der Kodifizierung des begründeten Verdachts in Art. 9 Abs. 1quater GwG abgenommen (TANNER/VON ROTZ, OnlineKommentar, N. 46–47 zu Art. 305ter StGB).
 
-### IX. Strafdrohung
+Die Gewinnschwelle von Fr. 20'000.– pro Jahr, ab der eine Tätigkeit als berufsmässig im Sinne von Art. 305ter StGB gilt, wird von der Rechtsprechung restriktiv ausgelegt. In [BGer 1C_561/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_561_2025) hielt das Bundesgericht fest, dass Verfehlungen nach Art. 305ter StGB die Ehrenhaftigkeit im Sinne des Einbürgerungsrechts tangieren und zur Aufhebung der Einbürgerung führen können. Die Gewinnschwelle muss bereits zum Zeitpunkt der Einbürgerung erreicht gewesen sein; massgeblich ist der objektive Gewinnausfall, nicht ein subjektiver Gewinnerzielungswillen.
+
+Im Spannungsverhältnis zwischen der Aufklärungspflicht des Staates und den Vertraulichkeitsinteressen von Medien und Finanzsektor stellte [BGer 7B 733/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_733_2024) klar, dass der journalistische Quellenschutz (Art. 28f. StGB i.V.m. Art. 10 EMRK) zwar die Herausgabepflicht von Unterlagen gegenüber Strafbehörden einschränken kann, Finanzintermediäre jedoch nicht von der Meldepflicht nach Art. 305ter Abs. 2 StGB gegenüber der MROS entbindet. Die Sorgfaltspflichten nach Art. 305ter StGB und der Quellenschutz bestehen unabhängig nebeneinander.
+
+### IX. Beschwerdelegitimation und Verfahren
+
+Die Beschwerdelegitimation bei Strafverfahren, die Art. 305ter StGB betreffen, wirft besondere Fragen auf. Gemäss [BGer 7B_1137/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1137_2024) ist eine anzeigende Person, die sich im Strafverfahren nicht als Privatklägerin konstituiert hat (vgl. Art. 118 Abs. 1 StPO), nicht berechtigt, die Einstellung des Verfahrens mit Beschwerde anfechten. Das Bundesgericht hielt fest, dass die Beschwerdelegitimation gemäss Art. 81 Abs. 1 BGG ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des angefochtenen Entscheids sowie eine direkte persönliche Betroffenheit in den eigenen rechtlich geschützten Interessen verlangt (Bestätigung von [BGE 143 IV 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475#e-2-9) E. 2.9; [BGE 144 IV 81](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_81#e-2-3-1) E. 2.3.1). Bei Strafnormen, die nicht primär Individualrechtsgüter schützen — wie Art. 305ter StGB, der vorwiegend das Allgemeininteresse an der Funktionsfähigkeit des Finanzplatzes schützt —, können nur jene Personen als Geschädigte im Sinne von Art. 115 Abs. 1 StPO gelten, die durch die tatbestandsmässige Handlung in ihren Rechten unmittelbar beeinträchtigt werden. Die blosse mittelbare Betroffenheit durch eine allgemeine Rechtsverletzung genügt für die Beschwerdelegitimation nicht.
+
+### X. Strafdrohung
 
 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe (Vergehen nach Art. 10 Abs. 3 StGB). Im Fall von [BGer 6B_942/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_942_2024) wurden Geldstrafen von je 110 Tagessätzen (bei reduzierten Tagessatzbeträgen gegenüber dem erstinstanzlichen Urteil) verhängt.
 
