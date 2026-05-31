@@ -1,64 +1,83 @@
 ---
-title: "Art. 89 BGG — Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
+title: "Art. 89 — Beschwerderecht"
 weight: 89
-date: 2026-05-23
-lastmod: 2026-05-23
-description: "Kommentar zu Art. 89 BGG: Beschwerdelegitimation — drei kumulative Voraussetzungen (Teilnahme, besondere Berührtung, schutzwürdiges Interesse)."
-tags: ["BGG", "Bundesgericht", "Beschwerdelegitimation", "Nachbarbeschwerde", "Beschwerderecht", "Verfahrensrecht"]
-agent_verified: false
+date: 2026-05-31
+lastmod: 2026-05-31
+description: "Kommentar zu Art. 89 BGG – Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
+tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten"]
+agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 89 — Beschwerderecht**
->
-> ¹ Zur Beschwerde in öffentlich-rechtlichen Angelegenheiten ist berechtigt, wer:
+> 1 Zur Beschwerde in öffentlich-rechtlichen Angelegenheiten ist berechtigt, wer:
 > a. vor der Vorinstanz am Verfahren teilgenommen hat oder keine Möglichkeit zur Teilnahme erhalten hat;
 > b. durch den angefochtenen Entscheid oder Erlass besonders berührt ist; und
 > c. ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
->
-> ² Zur Beschwerde sind ferner berechtigt:
+> 2 Zur Beschwerde sind ferner berechtigt:
 > a. die Bundeskanzlei, die Departemente des Bundes oder, soweit das Bundesrecht es vorsieht, die ihnen unterstellten Dienststellen, wenn der angefochtene Akt die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann;
 > b. das zuständige Organ der Bundesversammlung auf dem Gebiet des Arbeitsverhältnisses des Bundespersonals;
 > c. Gemeinden und andere öffentlich-rechtliche Körperschaften, wenn sie die Verletzung von Garantien rügen, die ihnen die Kantons- oder Bundesverfassung gewährt;
 > d. Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt.
->
-> ³ In Stimmrechtssachen (Art. 82 Bst. c) steht das Beschwerderecht ausserdem jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist.
-
-## Vorbemerkungen
-
-**1** **Stellung und Bedeutung.** Art. 89 BGG definiert die Beschwerdelegitimation in öffentlich-rechtlichen Angelegenheiten. Er normiert drei kumulative Voraussetzungen (Abs. 1 lit. a–c) und einen Katalog weiterer beschwerdeberechtigter Personen und Organisationen (Abs. 2). Mit über 63'000 Zitaten gehört Art. 89 zu den meistzitierten Normen des BGG — jede Beschwerde muss die Legitimationsvoraussetzungen erfüllen.
-
-**2** **Gesetzgebungsgeschichte.** Art. 89 BGG ersetzt die bisherige Regelung in Art. 88 und 103 OG. Der Gesetzgeber hat bewusst die drei kumulativen Voraussetzungen (Teilnahme, besondere Berührtung, schutzwürdiges Interesse) eingeführt, um das Beschwerderecht gegenüber dem alten Recht einzuschränken und «Popularklagen» zu verhindern.
-
-**3** **Systematische Stellung.** Art. 89 gehört zum 3. Abschnitt des BGG (Beschwerde in öffentlich-rechtlichen Angelegenheiten) und steht zwischen Art. 82 (Geltungsbereich) und Art. 90 (Endentscheide).
+> 3 In Stimmrechtssachen (Art. 82 Bst. c) steht das Beschwerderecht ausserdem jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist.
 
 ## Kommentierung
 
-### I. Die drei kumulativen Voraussetzungen (Abs. 1)
+### Bedeutung
 
-**4** **Lit. a — Teilnahme am Vorverfahren.** Die beschwerdeführende Person muss vor der Vorinstanz am Verfahren teilgenommen haben oder keine Möglichkeit zur Teilnahme erhalten haben. Die Teilnahme ist formell zu verstehen: Es genügt nicht, bloss «betroffen» zu sein; die Person muss sich am Verfahren aktiv beteiligt haben (Einsprache, Stellungnahme, Hearing). Die Ausnahme («keine Möglichkeit») greift namentlich bei Verfahren, in denen die betroffene Person nicht gehört wurde.
+Art. 89 BGG regelt als zentrale Norm die Beschwerdelegitimation in öffentlich-rechtlichen Angelegenheiten. Die Norm bestimmt, wer vor das Bundesgericht gelangen darf, und setzt damit die verfahrensrechtliche Hürde für den Zugang zum obersten Schweizer Gericht. Die drei Voraussetzungen nach Abs. 1 (Verfahrensteilnahme, besonders berührt, schutzwürdiges Interesse) bilden das legitimatorische Fundament der Beschwerdebefugnis; Abs. 2 eröffnet Sonderlegitimationen für privilegierte Beschwerdeführer.
 
-**5** **Lit. b — Besondere Berührtung.** Die «besondere Berührtung» verlangt mehr als die blosse Betroffenheit als Allgemeinheit. Die betroffene Person muss in einem individuellen, aktuellen und rechtlich geschützten Interesse berührt sein. Dies ist die zentrale Hürde der Beschwerdelegitimation und wird vom Bundesgericht restriktiv geprüft.
+### I. Voraussetzungen nach Abs. 1 (Individuallegitimation)
 
-**6** **Nachbarbeschwerde.** Ein Spezialfall der besonderen Berührtung ist die Nachbarbeschwerde: Nachbarn eines Bauvorhabens sind besonders berührt, wenn ihre eigenen rechtlich geschützten Interessen (namentlich Gesundheit, Eigentum, Wohnlichkeit) tangiert sind. Die blosse Aussicht auf Erhaltung der bisherigen Aussicht genügt nicht (BGE 133 II 249 E. 2.2).
+#### Rz. 1 — Verfahrensteilnahme (lit. a)
 
-**7** **Lit. c — Schutzwürdiges Interesse.** Das schutzwürdige Interesse verlangt, dass die Aufhebung oder Änderung des angefochtenen Entscheids einen praktischen Nutzen für die beschwerdeführende Person hat. Ein blosst theoretisches Interesse oder ein hypothetischer Nachteil genügt nicht. Das Interesse muss aktuell sein — ein vergangener oder erst zukünftig möglicher Nachteil reicht nicht.
+Die Beschwerdebefugnis setzt grundsätzlich voraus, dass der Beschwerdeführer vor der Vorinstanz am Verfahren teilgenommen hat oder keine Möglichkeit zur Teilnahme erhalten hat. Wer sich im kantonalen Verfahren nicht am Verfahren beteiligt hat, obwohl er dies hätte tun können, ist grundsätzlich nicht legitimiert, den Fall vor Bundesgericht weiterzuziehen. Die Teilnahme vor der Vorinstanz stellt ein legitimes Anliegen dar, die Rechtsmittelinstanzen sequenziell zu durchlaufen und das untere Gericht zuerst mit dem Rechtsbegehren zu befassen.
 
-### II. Weitere Beschwerdeberechtigte (Abs. 2)
+#### Rz. 2 — Besonders berührt (lit. b)
 
-**8** **Bundesbehörden (lit. a).** Die Bundeskanzlei und die Departemente können Beschwerde erheben, wenn der angefochtene Akt die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann. Dies ist eine objektive Legitimation: Die Behörde muss nicht selbst betroffen sein, sondern nur geltend machen, dass die Bundesgesetzgebung verletzt wird.
+Das Erfordernis der besonderen Berührung verlangt, dass der Beschwerdeführer durch den angefochtenen Entscheid in seinen eigenen, individuellen Rechts- oder Interessenpositionen betroffen ist, die über die allgemeine Betroffenheit als Rechtssubjekt hinausgehen. Das Bundesgericht prüft die Legitimation von Amtes wegen ([BGE 133 II 249](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:2:249:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0)).
 
-**9** **Gemeinden (lit. c).** Gemeinden und andere öffentlich-rechtliche Körperschaften können Beschwerde erheben, wenn sie die Verletzung von Garantien rügen, die ihnen die Kantons- oder Bundesverfassung gewährt. Dies ist besonders relevant für die kommunale Autonomie (Art. 50 BV).
+Die blosse Zugehörigkeit zu einer Behörde verschafft nicht für sich allein die Beschwerdeberechtigung im Sinne von Art. 89 Abs. 1 lit. b und c BGG. Unabhängig von der Behördenzugehörigkeit kann ein Mitglied jedoch zur Beschwerde im Sinne der abstrakten Normenkontrolle befugt sein, wenn es vom angefochtenen Erlass besonders berührt ist ([BGE 144 I 43](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=144:1:43)).
 
-**10** **Verbandsbeschwerde (lit. d).** Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz das Beschwerderecht einräumt, sind ebenfalls beschwerdeberechtigt. Namentlich sind dies Umwelt- und Naturschutzverbände (Art. 55 USG, Art. 12 NHG), Mieter- und Mieterinnenverbände (Art. 271g OR) u.a.
+Der Kanton seinerseits ist nicht qualifiziert in eigenen hoheitlichen Interessen betroffen, wenn er die umstrittene Steuer im Hauptanwendungsfall gerade abgeschafft hat ([BGE 136 II 383](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=136:2:383)). Ein bestrafter Nachbar muss seine Beschwerdebefugnis konkret dartun; die blosse Nachbarschaft genügt nicht ([BGE 133 II 249](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=133:2:249)).
+
+#### Rz. 3 — Schutzwürdiges Interesse (lit. c)
+
+Das schutzwürdige Interesse verlangt, dass der Beschwerdeführer ein aktuelles, konkretes und rechtlich anerkennenswertes Interesse am Ausgang des Verfahrens hat. Ein blosses Interesse als Rechtssubjekt oder Mitglied der Allgemeinheit genügt nicht. Das Interesse muss zum Zeitpunkt des Bundesgerichtsurteils noch bestehen (aktuelles Interesse).
+
+Im Verfahren der internationalen Amtshilfe in Steuerfragen sind sowohl der Kontoinhaber als auch der wirtschaftlich Berechtigte beschwerdelegitimiert nach Art. 89 Abs. 1 BGG ([BGE 139 II 404](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=139:2:404)). Auf Rechtsmittel, die stellvertretend für einen Dritten eingereicht werden, ist nicht einzutreten.
+
+### II. Sonderlegitimationen nach Abs. 2
+
+#### Rz. 4 — Bundesbehörden (lit. a)
+
+Die Bundeskanzlei, die Departemente des Bundes und — soweit das Bundesrecht es vorsieht — die ihnen unterstellten Dienststellen sind zur Beschwerde berechtigt, wenn der angefochtene Akt die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann. Diese Behördenbeschwerde bezweckt die Wahrung der Rechtsordnung, nicht den Schutz individueller Interessen.
+
+#### Rz. 5 — Gemeinwesen (lit. c)
+
+Gemeinden und andere öffentlich-rechtliche Körperschaften sind nach Art. 89 Abs. 2 lit. c BGG zur Beschwerde berechtigt, wenn sie die Verletzung von Garantien rügen, die ihnen die Kantons- oder Bundesverfassung gewährt. Erforderlich ist die Rüge einer spezifischen Autonomieverletzung; die blosse behauptete Bundesrechtsverletzung genügt nicht ([BGE 140 V 328](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=140:5:328)).
+
+Ein kommunaler Zweckverband ist als Träger hoheitlicher Gewalt gestützt auf Art. 89 Abs. 2 lit. c BGG legitimiert, die Verletzung verfassungsmässiger Garantien zu rügen. Die Beschwerdelegitimation des Gemeinwesens nach Art. 89 Abs. 1 BGG ist auch gegeben, wenn dieses in vermögensrechtlichen Streitigkeiten im öffentlichen Personalrecht berührt ist ([BGE 134 I 204](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:1:204)).
+
+#### Rz. 6 — Spezialgesetzliche Legitimation (lit. d)
+
+Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt, sind ebenfalls beschwerdeberechtigt. Das kantonale Durchführungsorgan (z.B. OCPA) ist zur Beschwerde in öffentlich-rechtlichen Angelegenheiten auf dem Gebiete der bundesrechtlichen Ergänzungsleistungen berechtigt (Art. 89 Abs. 1 lit. c i.V.m. Art. 89 Abs. 2 lit. d BGG), jedoch nicht im Bereich der kantonalrechtlichen Ergänzungsleistungen ([BGE 134 V 53](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:5:53)).
+
+#### Rz. 7 — Lückenfüllung
+
+Ist die Beschwerdelegitimation weder durch die allgemeine Klausel (Abs. 1) noch durch eine ausdrückliche gesetzliche Grundlage (Abs. 2) gegeben, kann sie auf dem Weg der Lückenfüllung zu bejahen sein, wenn anderenfalls ein rechtliches Gehör des Durchführungsorgans nicht gewährleistet wäre ([BGE 146 V 121](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=146:5:121)).
 
 ### III. Stimmrechtssachen (Abs. 3)
 
-**11** Die Stimmrechtssbeschwerde (lit. c) gewährt jeder stimmberechtigten Person das Beschwerderecht, unabhängig von den Voraussetzungen des Abs. 1. Dies ist eine Ausnahme vom Prinzip der besonderen Berührtung.
+In Stimmrechtssachen (Art. 82 Bst. c BGG) steht das Beschwerderecht jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist. Dies stellt eine Ausnahme vom Erfordernis der besonderen Berührung dar und garantiert den Zugang zum Bundesgericht in kantonalen und kommunalen Abstimmungssachen.
 
-## Querverweise
+### Abgrenzungen
 
-- [Art. 83 BGG](../art-083/) — Ausnahmen von der Beschwerde
-- [Art. 90 BGG](../art-090/) — Endentscheide
-- [Art. 95 BGG](../art-095/) — Beschwerdegründe
+- **Art. 89 vs. Art. 78 BGG**: Art. 89 regelt die Legitimation in öffentlich-rechtlichen Angelegenheiten, während Art. 78 den Grundsatz der Beschwerde in Strafsachen normiert.
+- **Art. 89 vs. Art. 81 BGG**: Art. 81 konkretisiert die Beschwerdelegitimation in Strafsachen; die Grundstruktur der drei Voraussetzungen (Teilnahme, besonders berührt, schutzwürdiges Interesse) entspricht jener von Art. 89.
+- **Art. 89 vs. Art. 29a BV**: Die Rechtsweggarantie nach Art. 29a BV sichert den Zugang zu einer richterlichen Behörde; Art. 89 BGG konkretisiert diesen Zugang im Verfahren vor dem Bundesgericht.
+
+## Literatur
+
+- Kradolfer, OnlineKommentar BV Art. 29a (zur Legitimation im Verfassungsbeschwerdeverfahren)
+- Botschaft BGG, BBl 2001 4201 (zur Entstehungsgeschichte der Beschwerdelegitimation)

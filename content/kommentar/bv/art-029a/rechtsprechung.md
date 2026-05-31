@@ -1,72 +1,84 @@
 ---
 title: "Rechtsprechung zu Art. 29a BV"
 weight: 99
-date: 2026-05-24
-lastmod: 2026-05-24
-description: "Übersicht der massgeblichen Entscheide zu Art. 29a BV – Rechtsweggarantie"
-tags: ["Rechtsprechung", "BV", "Verfassungsrecht", "Rechtsweggarantie"]
+date: 2026-05-31
+lastmod: 2026-05-31
+description: "Übersicht der Entscheide zu Art. 29a BV – Rechtsweggarantie"
+tags: ["Rechtsprechung", "BV", "Rechtsweggarantie", "Justizgewährung"]
 agent_verified: false
 ---
 
 ## Leitentscheide (BGE)
 
-### [BGE 143 I 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_336), E. 4.3
-- **Thema**: Rechtsweggarantie / Voraussetzungen
-- **Kernaussage**: Leitentscheid zu den Voraussetzungen der Rechtsweggarantie. Eine Rechtsstreitigkeit setzt voraus, dass die Streitigkeit im Zusammenhang mit einer individuellen, schützenswerten Rechtsposition steht. Ein Berührtsein in Rechten und Pflichten wird gefordert. Umfassende Übersicht über Anwendungsfälle.
-- **Einschlägig für**: Art. 29a BV Abs. 1 — Rechtsstreitigkeit, Berührtsein in Rechten
+### BGE 136 I 229, E. 4
+- **Thema**: Prüfungsanfechtung / Verfassungsbeschwerde
+- **Kernaussage**: Ein Prüfungsergebnis kann mit subsidiärer Verfassungsbeschwerde angefochten werden. Die Rechtsweggarantie erfordert eine richterliche Behörde als letzte kantonale Instanz.
+- **Einschlägig für**: Art. 29a Abs. 1 i.V.m. Art. 82 BGG / Art. 25a VwVG
 
-### [BGE 135 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_6)
-- **Thema**: Richterliche Behörde / BGG-Konkretisierung
-- **Kernaussage**: Art. 29a BV und Art. 86 Abs. 2 BGG konkretisieren: Die Kantone müssen mindestens eine gerichtliche Behörde als Beschwerdeinstanz vorsehen.
-- **Einschlägig für**: Art. 29a BV Abs. 1 — richterliche Behörde
+### BGE 143 I 336, E. 4.1–4.3
+- **Thema**: Rechtsstreitigkeit / Voraussetzungen
+- **Kernaussage**: Die Rechtsweggarantie setzt eine Rechtsstreitigkeit voraus — eine Streitigkeit im Zusammenhang mit einer individuellen, schützenswerten Rechtsposition. Ein schutzwürdiges Interesse und ein Berührtsein in Rechten und Pflichten sind erforderlich.
+- **Einschlägig für**: Art. 29a Abs. 1 (Voraussetzung: «Rechtsstreitigkeit»)
 
-### [BGE 134 I 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_199)
-- **Thema**: Stimmrechtsangelegenheiten / richterliche Instanz
-- **Kernaussage**: Eine richterliche Behörde als letzte kantonale Rechtsmittelinstanz ist in Stimmrechtsangelegenheiten erforderlich (Art. 29a BV).
-- **Einschlägig für**: Art. 29a BV — Letztinstanzliche richterliche Behörde
+### BGE 136 II 436, E. 1.2
+- **Thema**: Politische Entscheide / Ausnahmevorbehalt
+- **Kernaussage**: Der Ausschluss der richterlichen Beurteilung kommt ausdrücklich nur für Ausnahmefälle in Betracht. Art. 86 Abs. 3 BGG konkretisiert den Ausnahmevorbehalt für nicht justiziable, politisch bedeutsame Verwaltungsakte.
+- **Einschlägig für**: Art. 29a Abs. 2
 
-### [BGE 149 I 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_146)
-- **Thema**: Ermessenssubventionen / vorwiegend politischer Charakter
-- **Kernaussage**: Dem Entscheid über die Ausrichtung von Beiträgen aus dem kommunalen Kurtaxenertrag, die Ermessenssubventionen darstellen, kommt kein vorwiegend politischer Charakter zu. Verletzung von Art. 29a BV bejaht.
-- **Einschlägig für**: Art. 29a BV Abs. 2 — Ausnahme des vorwiegend politischen Charakters
+### BGE 144 I 181, E. 5.3.2.1
+- **Thema**: Weiterbeschäftigung / gerichtliche Durchsetzung
+- **Kernaussage**: Die Rechtsweggarantie vermittelt einen individualrechtlichen Anspruch auf gerichtlichen Rechtsschutz. Die Entscheidungsbefugnis des Verwaltungsgerichts erstreckt sich auch auf die Anordnung der Weiterbeschäftigung.
+- **Einschlägig für**: Art. 29a Abs. 1
+
+### BGE 135 I 6, E. 2
+- **Thema**: Kantonale Letztinstanz / Strafvollzug
+- **Kernaussage**: Das kantonale Verwaltungsgericht ist letzte kantonale Rechtsmittelinstanz in Straf- und Massnahmevollzugsstreitigkeiten. Verweigerung der Zuständigkeit verstösst gegen Verfassungs- und Bundesrecht.
+- **Einschlägig für**: Art. 29a Abs. 1 (richterliche Letztinstanz)
 
 ---
 
 ## Weitere Bundesgerichtsentscheide
 
-### [BGE 137 I 235](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_235)
-- **Thema**: Einbürgerung / freie Überprüfung
-- **Kernaussage**: Das kantonale Gericht hat gestützt auf Art. 29a BV eine freie Überprüfung des Sachverhalts und der Rechtsanwendung vorzunehmen, wahrt dabei den Gestaltungsbereich der unteren Instanzen.
+### BGE 149 I 146, E. 3
+- **Thema**: Ermessenssubventionen / vorwiegend politischer Charakter
+- **Kernaussage**: Ermessenssubventionen haben keinen vorwiegend politischen Charakter. Der Rechtsweg muss offenstehen.
+- **Einschlägig für**: Art. 29a Abs. 2 (Ausnahme: vorwiegend politischer Charakter)
 
-### [BGE 144 I 181](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_181)
-- **Thema**: Weiterbeschäftigung / Entscheidungsbefugnis
-- **Kernaussage**: Die Entscheidungsbefugnis des Verwaltungsgerichts erstreckt sich auf die Anordnung der Weiterbeschäftigung einer unrechtmässig gekündigten Angestellten (Art. 29a BV i.V.m. Art. 86 Abs. 2 BGG).
+### BGE 146 I 62, E. 5
+- **Thema**: Sozialhilfeauflagen / beschränkte Anfechtbarkeit
+- **Kernaussage**: Nicht selbstständig anfechtbare sozialhilferechtliche Auflagen verstossen grundsätzlich nicht gegen Art. 29a BV.
+- **Einschlägig für**: Art. 29a Abs. 1 i.V.m. Abs. 2
 
-### [BGE 137 I 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_128)
-- **Thema**: Asylrecht / fehlender Rechtsweg
-- **Kernaussage**: Das fehlende Rechtsmittel gegen kantonale Entscheide, die ein Aufenthaltsbewilligungsverfahren verweigern, verstösst gegen Art. 29a BV.
+### BGE 134 I 199, E. 1.2
+- **Thema**: Stimmrechtsangelegenheiten / Letztinstanz
+- **Kernaussage**: Art. 29a BV verlangt eine richterliche Behörde als letzte kantonale Rechtsmittelinstanz in Stimmrechtsangelegenheiten.
+- **Einschlägig für**: Art. 29a Abs. 1 (richterliche Letztinstanz)
 
-### [BGE 139 I 206](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_206)
-- **Thema**: Ausländerrechtliche Haft / Rechtsweg
-- **Kernaussage**: Art. 29 und 29a BV sichern den Zugang zu einem Gericht auch bei ausländerrechtlicher Festhaltung.
+### BGE 134 V 401, E. 5.3
+- **Thema**: AHV-Beitragsforderung / volle Sachprüfung
+- **Kernaussage**: Die Rechtsweggarantie erfordert die Möglichkeit, das Massliche der Beitragsforderungen bei einer Gerichtsinstanz mit freier Sachprüfung zu bestreiten.
+- **Einschlägig für**: Art. 29a Abs. 1 (volle Sachprüfung)
 
-### [BGE 136 I 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_229)
-- **Thema**: Prüfungsergebnis / Art. 29a BV
-- **Kernaussage**: Ein Prüfungsergebnis kann mit subsidiärer Verfassungsbeschwerde angefochten werden. Art. 29a BV wird als Ergänzung zu Art. 6 Ziff. 1 EMRK herangezogen.
+### BGE 139 I 206, E. 4
+- **Thema**: Ausländerrechtliche Haft / Verfahrensgarantien
+- **Kernaussage**: Art. 29 und 29a BV sichern Verfahrensgarantien im Rahmen der Ausschaffungshaft.
+- **Einschlägig für**: Art. 29a BV i.V.m. Art. 5 Ziff. 4 EMRK
 
-### [BGE 147 III 586](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_586)
-- **Thema**: Internationale Schiedsgerichtsbarkeit / unentgeltliche Rechtspflege
-- **Kernaussage**: Der Ausschluss der staatlich gewährten unentgeltlichen Rechtspflege im Schiedsverfahren verstösst nicht gegen Art. 29a BV, wenn die Partei Zugang zum vereinbarten Schiedsgericht hatte.
+### BGE 137 I 1, E. 3
+- **Thema**: Richterunabhängigkeit / Transparenz
+- **Kernaussage**: Kein Anspruch auf Bekanntgabe der an Richter ausgerichteten Taggelder. Befasst sich mit dem Zusammenspiel von Art. 29a BV, Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK im Kontext richterlicher Unabhängigkeit.
+- **Einschlägig für**: Art. 29a Abs. 1 (richterliche Behörde i.S.v. Unabhängigkeit)
+
+### BGE 133 I 185, E. 3
+- **Thema**: Ausländerrecht / Legitimation Verfassungsbeschwerde
+- **Kernaussage**: Zur Beurteilung der Qualität des Rechtsschutzes ist nebst dem Umfang der Zulässigkeit von Rechtsmitteln ans Bundesgericht auch die Rechtsweggarantie (Art. 29a BV) heranzuziehen.
+- **Einschlägig für**: Art. 29a Abs. 1 (Qualität des Rechtsschutzes)
+
+### BGE 145 I 73, E. 4
+- **Thema**: Fahrende / abstrakte Normenkontrolle
+- **Kernaussage**: Abstrakte Kontrolle eines Neuenburger Gesetzes über Lagerplätze fahrender Gemeinschaften. Erörtert Art. 29a BV im Rahmen der umfassenden verfassungsrechtlichen Prüfung.
+- **Einschlägig für**: Art. 29a Abs. 1 (Zugang zum Gericht)
 
 ---
 
-## Aktuelle Entscheide der Woche (Mai 2026)
-
-### [BGer 1C_509/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_509_2024) (5er-Senat, 3 Gutheissungen)
-- **Thema**: Nachbarbeschwerde / umfassende Überprüfung / Baurecht
-- **Kernaussage**: Ein Nachbar kann gestützt auf Art. 29a BV und Art. 110 BGG eine umfassende Überprüfung eines Bauvorhabens verlangen, einschliesslich der zur Baubewilligung gehörenden Kanalisationsbewilligung. Das kantonale Gericht muss die volle Kognition über Sachverhalt und Rechtsanwendung ausüben.
-- **Bedeutung**: Leitentscheid mit 5er-Besetzung, 3 Gutheissungen. Präzisiert den Umfang der gerichtlichen Überprüfungspflicht bei baurechtlichen Nachbarbeschwerden.
-
----
-
-*Letzte Aktualisierung: 24. Mai 2026*
+*Letzte Aktualisierung: 31.05.2026*
