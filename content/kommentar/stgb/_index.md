@@ -26,6 +26,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 174](art-174/) | Schiedsrichterbestechung |
 | [Art. 182](art-182/) | Hooliganismus |
 | [Art. 186](art-186/) | Hausfriedensbruch |
+| [Art. 191](art-191/) | Schändung |
 | [Art. 219](art-219/) | Widerhandlung gegen das Kriegsmaterialgesetz |
 | [Art. 220](art-220/) | Widerhandlung gegen das Kriegsmaterialgesetz (Vergehen) |
 | [Art. 223](art-223/) | Brandstiftung |
