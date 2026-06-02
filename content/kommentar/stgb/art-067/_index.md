@@ -2,7 +2,7 @@
 title: "Art. 67 — Tätigkeitsverbot"
 weight: 67
 date: 2025-06-02
-lastmod: 2025-06-02
+lastmod: 2026-06-02
 description: "Kommentar zu Art. 67 StGB – Tätigkeitsverbot"
 tags: ["StGB", "Tätigkeitsverbot", "Berufsverbot", "Nebenstrafe", "Massnahme", "Sexualdelikte"]
 agent_verified: true
@@ -146,7 +146,47 @@ Wird der Täter im selben Verfahren wegen mehrerer Straftaten verurteilt, legt d
 
 ### VI. Bewährungshilfe (Abs. 6)
 
-Das Gericht kann für die Dauer des Tätigkeitsverbots **Bewährungshilfe** anordnen. Die Anordnung ist fakultativ und dient der Überwachung der Einhaltung des Verbots (vgl. [BGE 149 IV 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_161), Sachverhalt: Anordnung von Bewährungshilfe für die Dauer des lebenslänglichen Tätigkeitsverbots).
+Das Gericht kann für die Dauer des Tätigkeitsverbots **Bewährungshilfe** anordnen. Die Anordnung ist fakultativ und dient der Überwachung der Einhaltung des Verbots (vgl. [BGE 149 IV 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_161), Sachverhalt: Anordnung von Bewährungshilfe für die Dauer des lebenslänglichen Tätigkeitsverbots). Nach Art. 67c Abs. 7bis StGB kann die Vollzugsbehörde für die gesamte Dauer des Tätigkeitsverbotes oder des Kontakt- und Rayonverbotes Bewährungshilfe anordnen — auch noch nachträglich, wenn das Gericht davon abgesehen hat.
+
+### VII. Begriffsbestimmungen (Art. 67a StGB)
+
+Art. 67a StGB konkretisiert die in Art. 67 verwendeten Begriffe und wurde durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123c BV, in Kraft seit 1.1.2019, AS 2018 3803) eingefügt. Die Bestimmung ist für die Auslegung von Art. 67 zentral:
+
+**Berufliche Tätigkeiten** (Abs. 1 Satz 1): Tätigkeiten in Ausübung eines Haupt- oder Nebenberufs oder -gewerbes oder eines Handelsgeschäfts. Der Begriff ist **weit** und erfasst auch Nebentätigkeiten und Nebenberufe (vgl. [BGer 6B_243/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2022) E. 2.5.3).
+
+**Organisierte ausserberufliche Tätigkeiten** (Abs. 1 Satz 2): Tätigkeiten, die nicht oder nicht primär zu Erwerbszwecken und im Rahmen eines Vereins oder einer anderen Organisation ausgeübt werden (vgl. [BGer 7B 143/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_143_2022) E. 2.7.4). Dies umfasst Vereinsfunktionen (z.B. Präsidium eines Sportclubs, Jugendgruppenleiter) sowie organisierte Tätigkeiten in Stiftungen, Parteien oder religiösen Gemeinschaften — nicht aber rein private Kontakte.
+
+**Umfang des Verbots** (Abs. 2): Das Verbot erfasst Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt. Die Fassung von 2022 (in Kraft seit 1.1.2025, AS 2023 628) stellte klar, dass auch die **mittelbare** Ausübung über weisungsabhängige Personen untersagt werden kann (BBl 2019 5193).
+
+**Ganzes Verbot bei Gefahr deliktischen Missbrauchs** (Abs. 3): Besteht die Gefahr, dass der Täter die Tätigkeit auch zur Begehung von Straftaten missbraucht, wenn er sie unter Aufsicht ausübt, so ist ihm die Tätigkeit **ganz** zu untersagen — ein teilweises Verbot reicht dann nicht.
+
+**Ganzes Verbot bei Abs. 3 und 4** (Abs. 4): Die Verbote nach Art. 67 Abs. 3 und 4 umfassen immer die **ganze Tätigkeit**. Dieses Gebot ergänzt das zwingende lebenslängliche Tätigkeitsverbot: beim Schutz von Minderjährigen und schutzbedürftigen Volljährigen gibt es kein anteilige Untersagung.
+
+**Katalog der Tätigkeiten mit regelmässigem Kontakt** (Abs. 5): Die lit. a nennt beispielhaft Lehren/Unterrichten, Erziehung/Beratung, Betreuung/Aufsicht, Pflege, körperliche/psychologische Untersuchung oder Behandlung, Verpflegung, Transport und direkter Verkauf spezifischer Güter für Minderjährige/schutzbedürftige Personen. Lit. b erfasst andere Tätigkeiten in Einrichtungen, die solche Dienstleistungen anbieten, mit der Ausnahme von Tätigkeiten mit örtlich oder zeitlich sichergestelltem Ausschluss jeglichen Kontakts (vgl. [BGer 6B_7/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_7_2024) E. 6.5.4.2).
+
+**Besonders schutzbedürftige Personen** (Abs. 6): Personen, die aufgrund ihres Alters, einer Krankheit oder einer langfristigen körperlichen, geistigen oder psychischen Beeinträchtigung bei alltäglichen Verrichtungen oder in ihrer Lebensführung auf fremde Hilfe angewiesen sind. Der Begriff geht über den klassischen Kranke-/Pflegebedürftigenbegriff hinaus und umfasst auch psychisch Beeinträchtigte mit dauerhaftem Hilfebedarf.
+
+### VIII. Vollzug und Aufhebung (Art. 67c StGB)
+
+Art. 67c StGB regelt den Vollzug und die Beendigung des Tätigkeitsverbots. Er wurde durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123c BV, in Kraft seit 1.1.2019) neu gefasst.
+
+**Wirksamkeit** (Abs. 1): Das Verbot wird am Tag der Rechtskraft des Urteils wirksam.
+
+**Keine Anrechnung** (Abs. 2): Die Dauer des Vollzugs einer Freiheitsstrafe oder einer freiheitsentziehenden Massnahme wird auf die Dauer des Verbots **nicht angerechnet**. Das Tätigkeitsverbot läuft somit auch während des Strafvollzugs weiter.
+
+**Unterbruch bei Widerruf** (Abs. 3): Hat der Täter die Probezeit nicht bestanden und wird die bedingte Freiheitsstrafe vollzogen oder die Rückversetzung in den Massnahmenvollzug angeordnet, so wird die Dauer des Verbots erst ab dem Tag gerechnet, an dem der Täter bedingt oder endgültig entlassen wird oder die Sanktion aufgehoben oder erlassen wird.
+
+**Einschränkung oder Aufhebung bei befristeten Verboten** (Abs. 4 und 5): Bei Verboten nach Art. 67 Abs. 1 oder Art. 67b kann die zuständige Behörde nach bestandener Probezeit über eine inhaltliche oder zeitliche Einschränkung oder die Aufhebung entscheiden (Abs. 4). Bei befristeten Verboten nach Abs. 2 kann der Täter nach der Hälfte der Verbotsdauer, jedoch frühestens nach drei Jahren, um Einschränkung oder Aufhebung ersuchen (Abs. 5 lit. b). Bei Verboten nach Abs. 2bis kann er erst nach zehn Jahren des Vollzugs ersuchen (Abs. 5 lit. d) (vgl. [BGer 6B_243/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2022) E. 4.4: Hinweis auf das Ersuchensrecht nach aArt. 67a Abs. 4 StGB bzw. Art. 67c Abs. 5 lit. a StGB).
+
+**Aufhebung bei fehlender Gefahr** (Abs. 6): Ist nicht mehr zu befürchten, dass der Täter die Tätigkeit zur Begehung weiterer Taten missbraucht, und hat er den Schaden soweit zumutbar ersetzt, so hebt die Behörde das Verbot auf. Diese Bestimmung gilt nur für befristete Verbote.
+
+**Unaufhebbarkeit lebenslänglicher Verbote** (Abs. 6bis): Verbote nach Art. 67 Abs. 3 oder 4 können **nicht aufgehoben** werden. Der Gesetzgeber hat bewusst auf eine Aufhebungsmöglichkeit verzichtet, um den verfassungsrechtlichen Auftrag von Art. 123c BV (lebenslängliches Verbot) umzusetzen (vgl. [BGer 6B_7/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_7_2024) E. 6.3; [BGer 7B 143/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_143_2022) E. 2.1).
+
+**Berichtspflicht bei Pflichtverletzung** (Abs. 7): Missachtet der Verurteilte ein Tätigkeitsverbot oder entzieht er sich der Bewährungshilfe, erstattet die zuständige Behörde dem Gericht Bericht. Das Gericht kann die Bewährungshilfe aufheben oder neu anordnen.
+
+**Vollzugsbehördliche Bewährungshilfe** (Abs. 7bis): Die Vollzugsbehörde kann für die gesamte Dauer des Tätigkeitsverbotes oder des Kontakt- und Rayonverbotes Bewährungshilfe anordnen — auch nachträglich.
+
+**Sanktionen bei Verstössen** (Abs. 8 und 9): Entzieht sich der Verurteilte der Bewährungshilfe während der Probezeit, ist Art. 95 Abs. 4 und 5 StGB anwendbar (Anordnung von Freiheitsentzug als Ersatzmassnahme). Missachtet der Verurteilte während der Probezeit ein Tätigkeitsverbot, sind die Bestimmungen über den Widerruf der bedingten Strafe bzw. die Rückversetzung in den Massnahmenvollzug anwendbar (Art. 294 StGB).
 
 ### Abgrenzungen
 
@@ -156,7 +196,13 @@ Das Gericht kann für die Dauer des Tätigkeitsverbots **Bewährungshilfe** anor
 
 **Tätigkeitsverbot vs. verwaltungsrechtliches Berufsverbot**: Das strafrechtliche Tätigkeitsverbot (Art. 67 StGB) steht neben verwaltungsrechtlichen Berufsverboten (z.B. FINMA-Verbot, vgl. [BGer 2C_315/2020](https://mcp.opencaselaw.ch/entscheid/bger_2C_315_2020); Anwaltsregisterlöschung, vgl. [BGE 137 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_425)). Beide können nebeneinander bestehen.
 
-**Tätigkeitsverbot vs. Kontakt-/Rayonverbot (Art. 67b StGB)**: Das Tätigkeitsverbot untersagt spezifische Tätigkeiten, das Kontakt- und Rayonverbot untersagt den Kontakt zu bestimmten Personen oder das Aufenthalten in bestimmten Gebieten. Beide können kumulativ verhängt werden (vgl. [BGer 6B_256/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_256_2021)).
+**Tätigkeitsverbot vs. Kontakt-/Rayonverbot (Art. 67b StGB)**: Das Tätigkeitsverbot untersagt spezifische Tätigkeiten, das Kontakt- und Rayonverbot untersagt den Kontakt zu bestimmten Personen oder das Aufenthalten in bestimmten Gebieten. Beide können kumulativ verhängt werden (vgl. [BGer 6B_256/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_256_2021)). Der sachliche Anwendungsbereich unterscheidet sich: Art. 67b richtet sich gegen die Gefährdung *bestimmter* Personen oder Gebiete, Art. 67 gegen die Gefährdung durch *bestimmte Tätigkeiten*.
+
+**Tätigkeitsverbot vs. verwaltungsrechtliches Berufsverbot**: Das strafrechtliche Tätigkeitsverbot (Art. 67 StGB) steht neben verwaltungsrechtlichen Berufsverboten (z.B. FINMA-Verbot, vgl. [BGer 2C_315/2020](https://mcp.opencaselaw.ch/entscheid/bger_2C_315_2020); Anwaltsregisterlöschung, vgl. [BGE 137 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_425)). Beide können nebeneinander bestehen. Das verwaltungsrechtliche Berufsverbot hat einen anderen Zweck (Qualitätskontrolle des Berufsstandes) als das strafrechtliche Tätigkeitsverbot (Prävention weiterer Straftaten).
+
+**Zusammenspiel mit Art. 67a StGB (Begriffsbestimmungen)**: Art. 67a konkretisiert die in Art. 67 verwendeten unbestimmten Rechtsbegriffe. Die dort definierten Begriffe («berufliche Tätigkeit», «organisierte ausserberufliche Tätigkeit», «regelmässiger Kontakt», «besonders schutzbedürftig») sind für die Auslegung von Art. 67 massgeblich und engen den Anwendungsbereich ein (vgl. auch oben VII).
+
+**Zusammenspiel mit Art. 67c StGB (Vollzug/Aufhebung)**: Art. 67c regelt den Beginn (Rechtskraft des Urteils), die Dauerberechnung (keine Anrechnung des Strafvollzugs), die Aufhebungsmöglichkeiten und die Sanktionen bei Verstössen. Besonders relevant: Abs. 6bis verbietet die Aufhebung lebenslänglicher Verbote nach Art. 67 Abs. 3 und 4 — ein Ausdruck des verfassungsrechtlichen Automatismus von Art. 123c BV (vgl. oben VIII).
 
 ### Verhältnismässigkeit
 
@@ -175,3 +221,4 @@ Bei Taten, die vor dem 1.1.2019 begangen wurden (Inkrafttreten der Abs. 2bis–6
 - **BBl 2012 8819**: Botschaft zur Änderung des Schweizerischen Strafgesetzbuches (Tätigkeitsverbot, Kontakt- und Rayonverbot), [fedlex.admin.ch/eli/fga/2012/8819](https://www.fedlex.admin.ch/eli/fga/2012/8819)
 - **BBl 2012 4721**: Botschaft zur Änderung des Schweizerischen Strafgesetzbuches (Änderungen des Sanktionenrechts), [fedlex.admin.ch/eli/fga/2012/4721](https://www.fedlex.admin.ch/eli/fga/2012/4721)
 - **BBl 2018 2827**: Botschaft zur Revision des Sexualstrafrechts, [fedlex.admin.ch/eli/fga/2018/2827](https://www.fedlex.admin.ch/eli/fga/2018/2827)
+- **BBl 2019 5193**: Botschaft zum Bundesgesetz über die Bekämpfung des missbräuchlichen Konkurses (Art. 67a Abs. 2 StGB, Fassung 2022), [fedlex.admin.ch/eli/fga/2019/5193](https://www.fedlex.admin.ch/eli/fga/2019/5193)

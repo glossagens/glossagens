@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 67 StGB"
 weight: 99
 date: 2025-06-02
-lastmod: 2025-06-02
+lastmod: 2026-06-02
 description: "Übersicht der Entscheide zu Art. 67 StGB — Tätigkeitsverbot"
 tags: ["Rechtsprechung", "StGB", "Tätigkeitsverbot", "Berufsverbot"]
 agent_verified: false
@@ -126,6 +126,51 @@ agent_verified: false
 
 ---
 
+## Abs. 4 bis: Besonders leichter Fall — Vertiefte Rechtsprechung
+
+### [BGer 7B 143/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_143_2022) v. 18.7.2023, E. 2.5.1–2.7.1
+- **Thema**: Lebenslängliches Tätigkeitsverbot bei mehrfacher Pornografie / Art. 67 Abs. 4bis StGB / Verfassungs- und EMRK-Konformität
+- **Kernaussage**: Zentrale Leitentscheidung zur Kumulativität der beiden Ausnahmevoraussetzungen von Art. 67 Abs. 4bis StGB: (1) besonders leichter Fall und (2) Verbot nicht notwendig. Das zwingende lebenslängliche Tätigkeitsverbot soll die Regel sein. Für die Qualifikation als besonders leichter Fall ist auf die Gesamtheit der objektiven und subjektiven Tatumstände abzustellen; erfasst werden nur eigentliche Bagatellfälle bei strengem Massstab. Die abstrakte Strafandrohung (Freiheitsstrafe bis zu 3 Jahren bei Art. 197 Abs. 5 StGB) ist bereits von einiger Erheblichkeit. Sind die beiden kumulativen Voraussetzungen erfüllt und liegt kein Ausschlussgrund nach Art. 67 Abs. 4bis lit. a oder b StGB vor, hat das Gericht von einem Tätigkeitsverbot abzusehen (Kann-Vorschrift, die im Rahmen der Verfassungsgrundsätze ausgeübt werden muss). Zur Verfassungskonformität (Art. 5, 10, 27 BV; Art. 8 EMRK; Art. 123c BV): Der Gesetzgeber hat die Verhältnismässigkeitsprüfung bereits vorweggenommen; die Ausnahmebestimmung von Abs. 4bis genügt den verfassungsrechtlichen Anforderungen (E. 2.7.1).
+- **Einschlägig für**: Abs. 4bis, Abs. 3 lit. d Ziff. 2, Verfassungs- und EMRK-Konformität
+
+---
+
+## Abs. 1: Allgemeines Tätigkeitsverbot — Wirtschaftskriminalität
+
+### [BGer 7B_476/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_476_2023) v. 30.9.2024, E. 3.1–3.3
+- **Thema**: Tätigkeitsverbot nach Art. 67 Abs. 1 StGB (alt) bei qualifizierter Veruntreuung / Wirtschaftskriminalität
+- **Kernaussage**: Bestätigung eines dreijährigen Tätigkeitsverbots in der Treuhand-, Finanz- und Immobilienbranche nach Verurteilung wegen mehrfacher qualifizierter Veruntreuung, Urkundenfälschung und Betrugs. Der Beschwerdeführer machte geltend, das Tätigkeitsverbot sei unverhältnismässig, da er sich ein neues Leben mit einer Tätigkeit in einer eigenen GmbH aufgebaut habe. Das BGer hält fest: Die Gefahr weiterer Delikte wird durch die langjährige deliktische Vorgeschichte, die fehlenden Jahresabschlüsse der neuen GmbH und fragwürdige Buchungen belegt. Das Sachgericht hat einen erheblichen Ermessensspielraum bei der Anordnung des Tätigkeitsverbots (alt aArt. 67 Abs. 1 StGB, Freiheitsstrafe von über 6 Monaten oder Geldstrafe von über 180 Tagessätzen). Das BGer greift nur bei Ermessensüberschreitung oder -missbrauch ein.
+- **Einschlägig für**: Abs. 1 (Ermessensspielraum, Gefährdungsbeurteilung bei Wirtschaftskriminalität)
+
+---
+
+## Abs. 5: Strafanteil des Tätigkeitsverbots
+
+### [BGer 6B_104/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_104_2023) v. 12.4.2024, E. 3.1–3.4
+- **Thema**: Strafanteilsberechnung nach Art. 67 Abs. 5 StGB / Strafzumessung bei Geldstrafe und Tätigkeitsverbot
+- **Kernaussage**: Das Bezirksgericht Aarau legte den Anteil der Strafe, den das lebenslängliche Tätigkeitsverbot nach sich zieht, auf 7 Monate fest (Einsatzstrafe bei einer Freiheitsstrafe); das Obergericht setzte den Anteil auf 180 Tagessätze Geldstrafe fest. Die Oberstaatsanwaltschaft rügt die Strafzumessung, insbesondere die Wahl der Geldstrafe als Strafart bei schwerer Pornografie. Das BGer weist die Sache zurück, weil die Vorinstanz die Strafart nicht genügend begründet hat. Relevant für Art. 67 Abs. 5 StGB: Der Strafanteil des Tätigkeitsverbots kann in Freiheitsstrafe (Monate) oder Geldstrafe (Tagessätze) ausgedrückt werden. Bei einer Gesamtfreiheitsstrafe ist der Anteil des Tätigkeitsverbots als Mehr an Freiheitsstrafe oder als Mehr an Geldstrafe in Tagessätzen festzulegen, das heisst als die Strafdifferenz, die ohne Tätigkeitsverbot ausgefallen wäre.
+- **Einschlägig für**: Abs. 5 (Strafanteilsberechnung), Abs. 4bis (Geldstrafe als Strafart)
+
+---
+
+## Abs. 3 lit. b und d: Lebenslängliches Tätigkeitsverbot — Versuchte sexuelle Handlungen
+
+### [BGer 6B_487/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_487_2021) v. 3.2.2023, E. 1.1–2.4
+- **Thema**: Versuchte sexuelle Handlungen mit Kind (Chat-Room) / lebenslängliches Tätigkeitsverbot
+- **Kernaussage**: Verurteilung wegen versuchter sexueller Handlungen mit einem Kind nach Anbahnung im Chat-Room (sog. «Vanessa»-Fall). Das BGer bestätigt die Verurteilung wegen versuchter sexueller Handlungen mit Kindern (Art. 187 Ziff. 1 i.V.m. Art. 22 Abs. 1 und 2 StGB) und das lebenslängliche Tätigkeitsverbot. Das Erscheinen am vereinbarten Treffpunkt mit Kondomen überschreitet die Schwelle zum strafbaren Versuch (im Anschluss an BGE 131 IV 100). Das Tätigkeitsverbot erfasst jede berufliche und organisierte ausserberufliche Tätigkeit, die einen regelmässigen Kontakt zu Minderjährigen umfasst.
+- **Einschlägig für**: Abs. 3 lit. b (sexuelle Handlungen mit Kind), Abs. 3 lit. d Ziff. 2 (Versuch)
+
+---
+
+## Art. 67a und 67c StGB: Begriffsbestimmungen und Vollzug
+
+### [BGer 6B_7/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_7_2024) v. 13.2.2026, E. 6.3–6.5.4
+- **Thema**: Lebenslängliches Tätigkeitsverbot / Art. 67a StGB (Begriffsbestimmungen) / Art. 67c Abs. 6bis StGB (Unaufhebbarkeit)
+- **Kernaussage**: Das BGer erörtert den Begriff der «organisierten ausserberuflichen Tätigkeit» nach Art. 67a Abs. 1 Satz 2 StGB. «Organisiert» bedeutet im Rahmen einer Organisation (Verein, Stiftung, etc.) — nicht private Kontakte. Es bestätigt die Unaufhebbarkeit des lebenslänglichen Tätigkeitsverbots nach Art. 67c Abs. 6bis StGB und stellt klar, dass Art. 67a Abs. 5 lit. b StGB (Tätigkeiten in Einrichtungen mit örtlich oder zeitlich sichergestelltem Ausschluss jeglichen Kontakts) eine Ausnahme vom Tätigkeitsverbot für schutzbedürftige Personen darstellt.
+- **Einschlägig für**: Art. 67a Abs. 1, 5; Art. 67c Abs. 6bis
+
+---
+
 ## Kantonale Entscheide
 
 ### ZG Obergericht, [S2 2025 11](https://mcp.opencaselaw.ch/entscheid/zg_obergericht_S2%202025%2011) v. 11.2.2026
@@ -148,4 +193,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2025-06-02*
+*Letzte Aktualisierung: 2026-06-02*
