@@ -1,5 +1,5 @@
 ---
-title: StPO — Strafprozessordnung
+title: "StPO — Strafprozessordnung"
 weight: 2
 description: "Schweizerische Strafprozessordnung (SR 312.0)"
 ---

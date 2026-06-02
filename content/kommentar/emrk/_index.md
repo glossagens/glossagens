@@ -1,5 +1,5 @@
 ---
-title: EMRK — Europäische Menschenrechtskonvention
+title: "EMRK — Europäische Menschenrechtskonvention"
 weight: 4
 description: "Konvention zum Schutze der Menschenrechte und Grundfreiheiten (SR 0.101)"
 ---

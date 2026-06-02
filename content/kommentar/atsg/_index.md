@@ -1,19 +1,18 @@
 ---
-title: ATSG — Allgemeiner Teil des Sozialversicherungsrechts
+title: "ATSG — Allgemeiner Teil des Sozialversicherungsrechts"
 weight: 30
-sidebar:
-  open: true
+description: "Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR 830.1)"
 ---
 
-Allgemeiner Teil des Sozialversicherungsrechts: Grundbegriffe, Rentenrevision und gemeinsame Verfahrensvorschriften für alle Sozialversicherungszweige.
+Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR 830.1)](https://www.fedlex.admin.ch/eli/cc/2002/510/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
-## Kernnormen im Kommentar
+## Kommentierte Artikel
 
-| Artikel | Thema | Zitate |
-|---------|-------|--------|
-| [Art. 1](art-001/) | Zweck und Gegenstand | — |
-| [Art. 6](art-006/) | Arbeitsunfähigkeit | ~107'000 |
-| [Art. 17](art-017/) | Rentenrevision | — |
-| [Art. 43](art-043/) | Abklärung / Beweiswürdigung | ~81'000 |
-| [Art. 49](art-049/) | Verfügung | ~46'000 |
-| [Art. 56](art-056/) | Beschwerde gegen Einspracheentscheide | ~22'000 |
+| Artikel | Thema |
+|---------|-------|
+| [Art. 1](art-001/) | Zweck und Gegenstand |
+| [Art. 6](art-006/) | Arbeitsunfähigkeit |
+| [Art. 17](art-017/) | Rentenrevision |
+| [Art. 43](art-043/) | Abklärung / Beweiswürdigung |
+| [Art. 49](art-049/) | Verfügung |
+| [Art. 56](art-056/) | Beschwerde gegen Einspracheentscheide |

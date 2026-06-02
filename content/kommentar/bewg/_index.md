@@ -1,5 +1,5 @@
 ---
-title: BewG — Bewilligungsgesetz
+title: "BewG — Bewilligungsgesetz"
 weight: 3
 description: "Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (SR 211.412.41)"
 ---

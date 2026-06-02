@@ -1,38 +1,38 @@
 ---
-title: ZGB — Zivilgesetzbuch
+title: "ZGB — Zivilgesetzbuch"
 weight: 5
-description: "Schweizerisches Zivilgesetzbuch (SR 210)"
+description: "Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)"
 ---
 
-Kommentar zum Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 
-| Art. | Thema |
-|------|-------|
-| [001]({{< relref "art-001" >}}) | Rechtsfähigkeit |
-| [002]({{< relref "art-002" >}}) | Handlungsfähigkeit |
-| [3]({{< relref "art-3" >}}) | Heimatzugehörigkeit |
-| [018]({{< relref "art-018" >}}) | Urteilsfähigkeit |
-| [019]({{< relref "art-019" >}}) | Urteilsfähige Handlungsunfähige |
-| [027]({{< relref "art-027" >}}) | Rechtsfähigkeit und Freiheit |
-| [125]({{< relref "art-125" >}}) | Nachehelicher Unterhalt |
-| [173]({{< relref "art-173" >}}) | Unterhaltsbeitrag im Eheschutz |
-| [273]({{< relref "art-273" >}}) | Persönlicher Verkehr |
-| [274]({{< relref "art-274" >}}) | Verweigerung und Entzug |
-| [308]({{< relref "art-308" >}}) | Wohnsitz |
-| [311]({{< relref "art-311" >}}) | Kindesschutz |
-| [314]({{< relref "art-314" >}}) | Aufhebung des Aufenthaltsbestimmungsrechts |
-| [314b]({{< relref "art-314b" >}}) | Beistandschaft |
-| [361]({{< relref "art-361" >}}) | Beistandschaft |
-| [388]({{< relref "art-388" >}}) | Leitprinzipien des Erwachsenenschutzes |
-| [389]({{< relref "art-389" >}}) | Subsidiarität und Verhältnismässigkeit |
-| [390]({{< relref "art-390" >}}) | Beistandschaft |
-| [394]({{< relref "art-394" >}}) | Vertretungsbeistandschaft |
-| [395]({{< relref "art-395" >}}) | Vermögensverwaltung |
-| [398]({{< relref "art-398" >}}) | Umfassende Beistandschaft |
-| [426]({{< relref "art-426" >}}) | Haftung vormundschaftlicher Organe |
-| [445]({{< relref "art-445" >}}) | Vormundschaftliche Massnahmen |
-| [446]({{< relref "art-446" >}}) | Beistandschaft |
-| [447]({{< relref "art-447" >}}) | Persönliche Anhörung |
-| [533]({{< relref "art-533" >}}) | Erbvertrag |
+| Artikel | Thema |
+|---------|-------|
+| [Art. 1](art-001/) | Rechtsfähigkeit |
+| [Art. 2](art-002/) | Handlungsfähigkeit |
+| [Art. 3](art-3/) | Heimatzugehörigkeit |
+| [Art. 18](art-018/) | Urteilsfähigkeit |
+| [Art. 19](art-019/) | Urteilsfähige Handlungsunfähige |
+| [Art. 27](art-027/) | Rechtsfähigkeit und Freiheit |
+| [Art. 125](art-125/) | Nachehelicher Unterhalt |
+| [Art. 173](art-173/) | Unterhaltsbeitrag im Eheschutz |
+| [Art. 273](art-273/) | Persönlicher Verkehr |
+| [Art. 274](art-274/) | Verweigerung und Entzug |
+| [Art. 308](art-308/) | Wohnsitz |
+| [Art. 311](art-311/) | Kindesschutz |
+| [Art. 314](art-314/) | Aufhebung des Aufenthaltsbestimmungsrechts |
+| [Art. 314b](art-314b/) | Beistandschaft |
+| [Art. 361](art-361/) | Beistandschaft |
+| [Art. 388](art-388/) | Leitprinzipien des Erwachsenenschutzes |
+| [Art. 389](art-389/) | Subsidiarität und Verhältnismässigkeit |
+| [Art. 390](art-390/) | Beistandschaft |
+| [Art. 394](art-394/) | Vertretungsbeistandschaft |
+| [Art. 395](art-395/) | Vermögensverwaltung |
+| [Art. 398](art-398/) | Umfassende Beistandschaft |
+| [Art. 426](art-426/) | Haftung vormundschaftlicher Organe |
+| [Art. 445](art-445/) | Vormundschaftliche Massnahmen |
+| [Art. 446](art-446/) | Beistandschaft |
+| [Art. 447](art-447/) | Persönliche Anhörung |
+| [Art. 533](art-533/) | Erbvertrag |

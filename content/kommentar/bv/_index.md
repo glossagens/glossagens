@@ -6,21 +6,21 @@ description: "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Apr
 
 Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (SR 101)](https://www.fedlex.admin.ch/eli/cc/1999/2556_2552_2554/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
-## Kernnormen im Kommentar
+## Kommentierte Artikel
 
-| Artikel | Thema | Zitate |
-|---------|-------|--------|
-| [Art. 8](art-008/) | Rechtsgleichheit / Diskriminierungsverbot | ~78'000 |
-| [Art. 9](art-009/) | Rechtsschutz | — |
-| [Art. 10](art-010/) | Recht auf Leben / persönliche Freiheit | ~39'000 |
-| [Art. 13](art-013/) | Schutz der Privatsphäre | — |
-| [Art. 16](art-016/) | Meinungs- und Informationsfreiheit | — |
-| [Art. 26](art-026/) | Eigentumsgarantie | — |
-| [Art. 27](art-027/) | Wirtschaftsfreiheit | ~31'000 |
-| [Art. 29](art-029/) | Allgemeine Verfahrensgarantien | — |
-| [Art. 29a](art-029a/) | Rechtsweggarantie | — |
-| [Art. 30](art-030/) | Gerichtliche Verfahren | — |
-| [Art. 31](art-031/) | Freiheitsentzug | — |
-| [Art. 32](art-032/) | Strafverfahrensgarantien | ~52'000 |
-| [Art. 35](art-035/) | Verwirklichung der Grundrechte | ~21'000 |
-| [Art. 36](art-036/) | Einschränkung von Grundrechten | — |
+| Artikel | Thema |
+|---------|-------|
+| [Art. 8](art-008/) | Rechtsgleichheit / Diskriminierungsverbot |
+| [Art. 9](art-009/) | Rechtsschutz |
+| [Art. 10](art-010/) | Recht auf Leben / persönliche Freiheit |
+| [Art. 13](art-013/) | Schutz der Privatsphäre |
+| [Art. 16](art-016/) | Meinungs- und Informationsfreiheit |
+| [Art. 26](art-026/) | Eigentumsgarantie |
+| [Art. 27](art-027/) | Wirtschaftsfreiheit |
+| [Art. 29](art-029/) | Allgemeine Verfahrensgarantien |
+| [Art. 29a](art-029a/) | Rechtsweggarantie |
+| [Art. 30](art-030/) | Gerichtliche Verfahren |
+| [Art. 31](art-031/) | Freiheitsentzug |
+| [Art. 32](art-032/) | Strafverfahrensgarantien |
+| [Art. 35](art-035/) | Verwirklichung der Grundrechte |
+| [Art. 36](art-036/) | Einschränkung von Grundrechten |

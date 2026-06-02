@@ -1,31 +1,32 @@
 ---
-title: OR — Obligationenrecht
+title: "OR — Obligationenrecht"
 weight: 1
+description: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, SR 220)"
 ---
 
-Kommentar zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) vom 30. März 1911 (SR 220).
+Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Obligationenrecht, SR 220)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 
-| Art. | Thema |
-|------|-------|
-| [001]({{< relref "art-001" >}}) | Vertragsschluss |
-| [024]({{< relref "art-24" >}}) | Abschluss durch Vertreter |
-| [041]({{< relref "art-041" >}}) | Haftung für Schaden |
-| [115]({{< relref "art-115" >}}) | Verwirkung |
-| [127]({{< relref "art-127" >}}) | Verjährungsfristen |
-| [257f]({{< relref "art-257f" >}}) | Sorgfalts- und Rücksichtnahmepflicht |
-| [266a]({{< relref "art-266a" >}}) | Beendigung des Arbeitsverhältnisses |
-| [269]({{< relref "art-269" >}}) | Missbräuchlicher Mietzins |
-| [269a]({{< relref "art-269a" >}}) | Nichtigkeit missbräuchlicher Abreden |
-| [271a]({{< relref "art-271a" >}}) | Schutzfrist bei missbräuchlicher Kündigung |
-| [319]({{< relref "art-319" >}}) | Ende des Arbeitsverhältnisses |
-| [321]({{< relref "art-321" >}}) | Kündigungsschutz |
-| [324a]({{< relref "art-324a" >}}) | Krankheit und Unfall |
-| [328]({{< relref "art-328" >}}) | Fürsorgepflicht des Arbeitgebers |
-| [335]({{< relref "art-335" >}}) | Kündigungsfristen |
-| [336]({{< relref "art-336" >}}) | Missbräuchliche Kündigung |
-| [337]({{< relref "art-337" >}}) | Fristlose Auflösung |
-| [337c]({{< relref "art-337c" >}}) | Ungerechtfertigte Entlassung |
-| [340]({{< relref "art-340" >}}) | Arbeitszeugnis |
-| [341]({{< relref "art-341" >}}) | Unabdingbarkeit und Verjährung |
+| Artikel | Thema |
+|---------|-------|
+| [Art. 1](art-001/) | Vertragsschluss |
+| [Art. 24](art-24/) | Abschluss durch Vertreter |
+| [Art. 41](art-041/) | Haftung für Schaden |
+| [Art. 115](art-115/) | Verwirkung |
+| [Art. 127](art-127/) | Verjährungsfristen |
+| [Art. 257f](art-257f/) | Sorgfalts- und Rücksichtnahmepflicht |
+| [Art. 266a](art-266a/) | Beendigung des Arbeitsverhältnisses |
+| [Art. 269](art-269/) | Missbräuchlicher Mietzins |
+| [Art. 269a](art-269a/) | Nichtigkeit missbräuchlicher Abreden |
+| [Art. 271a](art-271a/) | Schutzfrist bei missbräuchlicher Kündigung |
+| [Art. 319](art-319/) | Ende des Arbeitsverhältnisses |
+| [Art. 321](art-321/) | Kündigungsschutz |
+| [Art. 324a](art-324a/) | Krankheit und Unfall |
+| [Art. 328](art-328/) | Fürsorgepflicht des Arbeitgebers |
+| [Art. 335](art-335/) | Kündigungsfristen |
+| [Art. 336](art-336/) | Missbräuchliche Kündigung |
+| [Art. 337](art-337/) | Fristlose Auflösung |
+| [Art. 337c](art-337c/) | Ungerechtfertigte Entlassung |
+| [Art. 340](art-340/) | Arbeitszeugnis |
+| [Art. 341](art-341/) | Unabdingbarkeit und Verjährung |
