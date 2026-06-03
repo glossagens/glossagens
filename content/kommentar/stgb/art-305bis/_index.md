@@ -2,7 +2,7 @@
 title: "Art. 305bis — Geldwäscherei"
 weight: 305
 date: 2026-06-03
-lastmod: 2026-06-03
+lastmod: 2026-06-04
 description: "Kommentar zu Art. 305bis StGB – Geldwäscherei: Tathandlung, Vortatenkreis, qualifiziertes Steuervergehen, qualifizierte Fälle und Auslandstat"
 tags: ["StGB", "Geldwäscherei", "Vortatenkreis", "Steuervergehen", "kriminelle Organisation", "Finanzplatz"]
 agent_verified: true
@@ -125,11 +125,15 @@ agent_verified: true
 
 **25** **Verhältnis zu Art. 305ter StGB** Art. 305bis StGB geht Art. 305ter StGB grundsätzlich vor; echte Konkurrenz ist aber möglich, wenn der Täter sowohl eine Geldwäschereihandlung vornimmt als auch die Sorgfaltspflicht nach Art. 305ter StGB verletzt (PIETH, BSK StGB, zu Art. 305bis StGB; BStGer SK.2010.10 v. 1.6.2010, E. 3.4).
 
+**25a** **Verhältnis zu Art. 305 StGB (Begünstigung)** Art. 305 StGB (Begünstigung) und Art. 305bis StGB schützen ähnliche Rechtsgüter, erfassen aber unterschiedliche Handlungen: Art. 305 sanktioniert das Hindern an der Strafverfolgung oder Urteilsvollstreckung (persönliche Begünstigung), während Art. 305bis speziell die Verschleierung von Vermögenswerten erfasst. Art. 305bis geht als Spezialtatbestand vor, soweit es um die Vereitelung der Einziehung von Verbrechenserlösen geht. Echte Konkurrenz ist möglich, wenn die Täterin sowohl eine Verschleierungshandlung (305bis) als auch eine davon unabhängige Begünstigungshandlung (305) vornimmt. Bundesgerichtliche Praxis zu diesem Konkurrenzverhältnis fehlt.
+
 **26** **Verhältnis zu Art. 260ter StGB** Art. 305bis Ziff. 2 lit. a StGB und Art. 260ter StGB stehen in echter Konkurrenz, wenn die Täterin sowohl Mitglied einer kriminellen Organisation ist als auch gewaschene Vermögenswerte verwaltet (→ [BGE 133 IV 235](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_235), E. 2).
 
 **27** **Verhältnis zur Vortat** Die Geldwäscherei tritt nicht als Nachtat hinter die Vortat zurück, weil sie ein eigenständiges Rechtsgut (Rechtspflege/Einziehungsanspruch) schützt. Selbstgeldwäscherei und Vortat konkurrieren damit grundsätzlich echt ([BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3). Im Bereich der leichten Selbstgeldwäscherei (z.B. bloses Ausgeben des Erlöses) steht die Strafverfolgung im Ermessen der Behörden; in der Praxis wird die Geldwäscherei typischerweise nur bei eigenen Tatverleugnungshandlungen getrennt verfolgt.
 
 #### 2. Einziehung
+
+**27a** **Unternehmensverantwortlichkeit (Art. 102 StGB)** Neben der Individualstrafbarkeit nach Art. 305bis kann auch das Unternehmen nach Art. 102 StGB verfolgt werden, wenn ein Mitarbeiter im Rahmen der Unternehmenstätigkeit Geldwäschereihandlungen begeht und dem Unternehmen die erforderliche organisatorische Vorsorge anzulasten ist. Der Tatbestand von Art. 102 Abs. 2 StGB (subsidiäre Unternehmenshaftung bei mangelhafter Organisation) ist gegenüber Art. 305bis StGB als subsidiär zu qualifizieren; er kommt nur zum Zug, wenn der Täter nicht ermittelt werden kann (BStGer, CA.2022.12; → N 3).
 
 **28** **Einziehung und Geldwäscherei** Die Strafbarkeit der Geldwäscherei schützt den staatlichen Einziehungsanspruch nach Art. 70 ff. StGB. Gewaschen werden können auch Surrogate im Sinne von Art. 70 Abs. 1 Satz 2 StGB; jede Umwandlung echter Surrogate, die die Eignung zur Vereitelung der Einziehung aufweist, erfüllt den Tatbestand ([BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97), E. 3).
 
