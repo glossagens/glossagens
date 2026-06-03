@@ -157,6 +157,22 @@ agent_verified: false
 
 ---
 
+### BGer 6B_45/2021 v. 27.4.2022, E. 3.4
+- **Datum**: 27. April 2022
+- **Thema**: Abstrakte Einziehbarkeit; Tathandlungen Bankdaten-Diebstahl; Auslandtat
+- **Kernaussage**: Die Einziehbarkeit wird abstrakt interpretiert: Es genügt, dass die Schweiz theoretisch über Rechtshilfe einen Einziehungsanspruch geltend machen kann; die tatsächliche Durchführung der Einziehung durch den ausländischen Staat ist nicht erforderlich. Tathandlungen (Konten im Ausland eröffnen, Immobilie kaufen, Notizen verstecken) können auch bei überwiegend ausländischem Sachverhalt in der Schweiz strafbar sein, wenn Verschleierungshandlungen im Inland stattfanden.
+- **Einschlägig für**: Ziff. 1 (Einziehbarkeit abstrakt), Ziff. 3 (Auslandtat)
+
+---
+
+### BGer 7B_65/2023 v. 5.12.2025, E. 4–5
+- **Datum**: 5. Dezember 2025
+- **Thema**: Sedimentationsmethode bei gemischten Bankkonten
+- **Kernaussage**: Bei gemischten Bankkonten (legale und illegale Mittel) gilt die Sedimentationsmethode: Illegale Gelder «sitzen am Boden» des Kontos und bleiben einziehbar, solange der Saldo den Betrag der illegalen Einlagen übersteigt. Das Bundesgericht verwirft die proportionale Methode. Jede Transaktion, die absichtlich illegale Kontoanteile erfasst, stellt eine Geldwäschereihandlung dar.
+- **Einschlägig für**: Einziehung, N 27a (gemischte Konten)
+
+---
+
 ### BGer 6B_1362/2020 v. 20.6.2022, E. 4.3
 - **Datum**: 20. Juni 2022
 - **Thema**: Eventualvorsatz bei Finanzintermediären; Abgrenzung Fahrlässigkeit
