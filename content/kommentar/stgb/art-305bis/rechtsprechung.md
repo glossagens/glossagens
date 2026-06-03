@@ -90,4 +90,30 @@ agent_verified: false
 
 ---
 
+---
+
+### BGE 145 IV 335, E. 4–5 (= BGer 6B_1208/2018 und 6B_1209/2018 v. 6.8.2019)
+- **Datum**: 6. August 2019
+- **Thema**: Einziehbarkeit als Tatbestandsvoraussetzung; Auslandvortat
+- **Kernaussage**: Geldwäscherei kann nur an einziehbaren Vermögenswerten begangen werden. Bei einer im Ausland begangenen Vortat muss entweder ein selbständiger schweizerischer Einziehungsanspruch bestehen oder die Vermögenswerte müssen nach dem im Handlungszeitpunkt geltenden ausländischen Recht einziehbar sein. Fehlt es an der Einziehbarkeit, ist der Tatbestand nicht erfüllt.
+- **Einschlägig für**: Ziff. 1 (Tatobjekt/Einziehbarkeit), Ziff. 3 (Auslandtat)
+
+---
+
+### BGE 149 IV 248, E. 6.4.2 (= BGer 6B_219/2021 und 6B_228/2021 v. 19.4.2023)
+- **Datum**: 19. April 2023
+- **Thema**: Verbrauch vs. Vernichtung; Schwellenwerte qualifizierter Fall
+- **Kernaussage**: Der Verbrauch verbrecherisch erlangter Vermögenswerte (Konsumausgaben) erfüllt den objektiven Tatbestand, weil der Täter die legale Gegenleistung einspart und die Einziehung vereitelt wird. Die Vernichtung von Vermögenswerten (z.B. Verbrennen von Bargeld) erfüllt den Tatbestand hingegen nicht, weil wirtschaftlich kein Vorteil entsteht. Für den qualifizierten Fall (Ziff. 2 lit. c): Gewinn ab Fr. 10 000 = «erheblicher Gewinn»; Umsatz ab Fr. 100 000 = «grosser Umsatz».
+- **Einschlägig für**: Ziff. 1 (Tathandlung: Verbrauch/Vernichtung), Ziff. 2 lit. c (Schwellenwerte)
+
+---
+
+### BGer 6B_1013/2020 und 6B_1059/2020 v. 12.3.2024, E. 3.2; 5.2; 6.2.2; 6.4
+- **Datum**: 12. März 2024
+- **Thema**: Deliktstypus abstraktes Gefährdungsdelikt; Abgrenzung Eventualvorsatz/Fahrlässigkeit
+- **Kernaussage**: Art. 305bis StGB ist ein abstraktes Gefährdungsdelikt gegen die Rechtspflege. Für den Eventualvorsatz muss der Täter «in einer Parallelwertung bewusst sein, dass Vermögenswerte aus einer schwerwiegenden Vortat stammen können» und sich damit abfinden. Das eigene fahrlässige Verhalten des Wäschers ist nur relevant als Indiz für die verbrecherische Handlung des Vortäters; eine blosse Sorgfaltspflichtverletzung ohne In-Kauf-Nehmen genügt nicht.
+- **Einschlägig für**: Ziff. 1 (Deliktstypus, subjektiver Tatbestand)
+
+---
+
 *Letzte Aktualisierung: 2026-06-03*
