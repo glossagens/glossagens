@@ -206,4 +206,16 @@ agent_verified: false
 
 ---
 
+---
+
+## Kantonale Entscheide
+
+### OGer TG, RBOG 2018 Nr. 8, E. 3.2–3.3 (SBR.2016.8-11 v. 25.9.2018)
+- **Kanton**: Thurgau
+- **Thema**: Tatobjekte; Surrogate; Teilkontamination (Proportionalitätsprinzip)
+- **Kernaussage**: Tatobjekte der Geldwäscherei sind unmittelbar deliktische Vermögenswerte sowie deren Surrogate (auch Surrogate von Surrogaten), sofern eine Papierspur besteht. Bei Teilkontamination (Mischung legaler und deliktischer Mittel) wandte das OGer TG das Proportionalitätsprinzip an — diese Methode ist durch BGer 7B_65/2023 (Sedimentationsmethode) überholt.
+- **Einschlägig für**: Ziff. 1 (Tatobjekt, Surrogate, Teilkontamination)
+
+---
+
 *Letzte Aktualisierung: 2026-06-03*
