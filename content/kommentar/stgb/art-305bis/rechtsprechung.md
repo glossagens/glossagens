@@ -117,6 +117,14 @@ agent_verified: false
 
 ---
 
+### BGE 144 IV 172, E. 3.3–3.4 (= BGer 6B_453/2017 v. 16.3.2018)
+- **Datum**: 16. März 2018
+- **Thema**: Gebrauchswerte; Auslandsüberweisung; Verschleierungserfordernis
+- **Kernaussage**: Die blosse Investition deliktischer Mittel in Gebrauchswerte (z.B. Autokauf) erfüllt den Tatbestand nicht, solange keine darüber hinausgehende Verschleierungshandlung vorliegt. Eine Auslandsüberweisung ist nur dann Geldwäscherei, wenn sie geeignet ist, die Einziehung im Ausland zu vereiteln; eine nachvollziehbare, dokumentierte Transaktion genügt nicht.
+- **Einschlägig für**: Ziff. 1 (Tathandlung: Gebrauchswerte, Auslandsüberweisung)
+
+---
+
 ### BGE 145 IV 335, E. 4–5 (= BGer 6B_1208/2018 und 6B_1209/2018 v. 6.8.2019)
 - **Datum**: 6. August 2019
 - **Thema**: Einziehbarkeit als Tatbestandsvoraussetzung; Auslandvortat
