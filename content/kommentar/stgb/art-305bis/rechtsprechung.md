@@ -10,6 +10,14 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
+### BGE 119 IV 59, E. 2 (Kassationshof, 20.1.1993)
+- **Datum**: 20. Januar 1993
+- **Thema**: Verstecken von Drogengeld; Tathandlung; Täterkreis
+- **Kernaussage**: Das Verstecken von aus Betäubungsmittelhandel stammenden Geldern erfüllt den Tatbestand von Art. 305bis StGB, weil es eine geeignete Vereitelungshandlung darstellt. Der Tatbestand erfasst nicht nur das organisierte Verbrechen; jedermann kann tatbestandlich handeln.
+- **Einschlägig für**: Ziff. 1 (Tathandlung, Täterkreis)
+
+---
+
 ### BGE 119 IV 242, E. 1b–c und E. 2b–c
 - **Datum**: 1993
 - **Thema**: Gegenstand der Geldwäscherei; Vorsatz; Bestimmtheitsgrundsatz
@@ -92,6 +100,14 @@ agent_verified: false
 
 ---
 
+### BGE 146 IV 211, E. 3.3–3.4 (= BGer 6B_1202/2019 v. 9.7.2020)
+- **Datum**: 9. Juli 2020
+- **Thema**: Schutznormcharakter; solidarische Haftung des Geldwäschers
+- **Kernaussage**: Art. 305bis StGB ist eine Schutznorm mit Doppelzweck: Schutz der Rechtspflege und zugleich der Vermögensinteressen der durch die Vortat Geschädigten. Der Geldwäscher haftet solidarisch mit den Vortätern für den Schaden im Umfang der Vermögenswerte, deren Einziehung durch die Geldwäscherei vereitelt wurde. Vortatgeschädigte können direkte Schadensersatzansprüche geltend machen.
+- **Einschlägig für**: Ziff. 1 (Schutzzweck), zivilrechtliche Folgen, Beschwerdelegitimation
+
+---
+
 ### BGE 145 IV 335, E. 4–5 (= BGer 6B_1208/2018 und 6B_1209/2018 v. 6.8.2019)
 - **Datum**: 6. August 2019
 - **Thema**: Einziehbarkeit als Tatbestandsvoraussetzung; Auslandvortat
@@ -113,6 +129,24 @@ agent_verified: false
 - **Thema**: Deliktstypus abstraktes Gefährdungsdelikt; Abgrenzung Eventualvorsatz/Fahrlässigkeit
 - **Kernaussage**: Art. 305bis StGB ist ein abstraktes Gefährdungsdelikt gegen die Rechtspflege. Für den Eventualvorsatz muss der Täter «in einer Parallelwertung bewusst sein, dass Vermögenswerte aus einer schwerwiegenden Vortat stammen können» und sich damit abfinden. Das eigene fahrlässige Verhalten des Wäschers ist nur relevant als Indiz für die verbrecherische Handlung des Vortäters; eine blosse Sorgfaltspflichtverletzung ohne In-Kauf-Nehmen genügt nicht.
 - **Einschlägig für**: Ziff. 1 (Deliktstypus, subjektiver Tatbestand)
+
+---
+
+---
+
+### BGer 6B_1362/2020 v. 20.6.2022, E. 4.3
+- **Datum**: 20. Juni 2022
+- **Thema**: Eventualvorsatz bei Finanzintermediären; Abgrenzung Fahrlässigkeit
+- **Kernaussage**: Dass das Nichtwissen um die verbrecherische Herkunft von Vermögenswerten auf einer Verletzung von gesetzlichen Sorgfaltspflichten (GwG) beruht, reicht für den Nachweis des Eventualvorsatzes nach Art. 305bis StGB nicht aus. Es bedarf einer konkreten Prüfung der inneren Einstellung des Täters anhand der äusseren Umstände.
+- **Einschlägig für**: Ziff. 1 (subjektiver Tatbestand)
+
+---
+
+### BGer 7B_171/2022 v. 15.4.2024, E. 3
+- **Datum**: 15. April 2024
+- **Thema**: Herkunftsnachweis bei Auslandvortat; Betrug im Ausland
+- **Kernaussage**: Für den Herkunftsnachweis ist richterliche Überzeugung («Gewissheit») erforderlich. Bei einer Betrugsvortat im Ausland ist der Nachweis einer «arglistigen Täuschung» notwendig; blosse SWIFT-Meldungen «FRAUDULENT PAYMENT» ohne weitere Belege genügen nicht. Das Prinzip der abstrakten doppelten Strafbarkeit (Ziff. 3) verlangt ähnliche Strafbestimmungen in beiden Ländern.
+- **Einschlägig für**: Ziff. 1 (Herkunftsnachweis), Ziff. 3 (Auslandtat)
 
 ---
 
