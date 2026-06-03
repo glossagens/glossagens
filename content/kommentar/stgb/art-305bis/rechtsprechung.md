@@ -216,6 +216,15 @@ agent_verified: false
 
 ---
 
+## Bundesstrafgerichtsentscheide
+
+### BStGer SK.2018.73 v. 8.10.2019, E. 4.2
+- **Thema**: Bankberater; Genehmigung von Überweisungen als Geldwäschereihandlung
+- **Kernaussage**: Die Genehmigung von Zahlungsaufträgen und Überweisungen an Devisenhandelsgesellschaften, kombiniert mit Bargeldbeschaffungen und Kunstinvestitionen zur Verschleierung von Bestechungsgeldern (EUR 21.7 Mio., griechischer Politiker), erfüllt den Tatbestand der Geldwäscherei. Eventualvorsatz bezüglich Herkunft und Vereitelungszusammenhang genügt.
+- **Einschlägig für**: Ziff. 1 (Tathandlung Bank, Eventualvorsatz)
+
+---
+
 ## Kantonale Entscheide
 
 ### OGer TG, RBOG 2018 Nr. 8, E. 3.2–3.3 (SBR.2016.8-11 v. 25.9.2018)
