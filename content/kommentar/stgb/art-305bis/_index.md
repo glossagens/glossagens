@@ -69,7 +69,7 @@ agent_verified: true
 
 **13** **Doppelformel «weiss oder annehmen muss»** Der Tatbestand verlangt zumindest Eventualvorsatz hinsichtlich der verbrecherischen Herkunft. Die Formel «weiss oder annehmen muss» umfasst: (a) direktes Wissen (Wissensvorsatz) und (b) das Für-möglich-halten (Eventualvorsatz). Ein blosser Verdacht ohne In-Kauf-Nehmen genügt nicht ([BGE 119 IV 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_242), E. 2b f.). Das Wissenserfordernis bezieht sich nur auf die Herkunft aus einem Verbrechen, nicht auf die genaue Art der Vortat. Für den Eventualvorsatz ist eine «Parallelwertung in der Laiensphäre» ausreichend: Der Wäscher muss sich bewusst sein, dass die Vermögenswerte aus einer schwerwiegenden Vortat herrühren könnten, ohne die rechtliche Einordnung als Verbrechen zu kennen (BGer, 6B_270/2021 v. 5.10.2022, E. 3.2).
 
-**14** **Sachverhaltsirrtum** Wer fälschlicherweise der Überzeugung ist, aus dem Drogenhandel stammende Vermögenswerte seien wegen Zeitablaufs nicht mehr einziehbar, handelt in einem Sachverhaltsirrtum nach Art. 13 StGB (früher Art. 19 Abs. 1 aStGB) — nicht in einem Rechtsirrtum nach Art. 21 StGB ([BGE 129 IV 238](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_238), E. 4). Massgebend ist, ob sich der Irrtum auf einen Sachverhaltsumstand oder auf die rechtliche Einziehbarkeit bezieht. Da die Einziehbarkeit für den Tatbestand keine Rolle spielt (→ N 5), ändert ein solcher Irrtum an der Strafbarkeit nichts, wenn der Täter die verbrecherische Herkunft kannte.
+**14** **Sachverhaltsirrtum** Wer fälschlicherweise der Überzeugung ist, aus dem Drogenhandel stammende Vermögenswerte seien wegen Zeitablaufs nicht mehr einziehbar, handelt in einem Sachverhaltsirrtum nach Art. 13 StGB (früher Art. 19 Abs. 1 aStGB) — nicht in einem Rechtsirrtum nach Art. 21 StGB ([BGE 129 IV 238](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_238), E. 4). Massgebend ist, ob der Irrtum eine tatsächliche Eigenschaft des Tatobjekts betrifft (Sachverhaltsirrtum) oder einen Rechtssatz (Rechtsirrtum). Da die Vermögenswerte im konkreten Fall tatsächlich noch einziehbar waren, kannte der Täter eine für den Tatbestand wesentliche Eigenschaft nicht — ohne dass dies an der objektiven Tatbestandserfüllung etwas änderte.
 
 > **Annotation**
 >
@@ -79,7 +79,7 @@ agent_verified: true
 
 **15** **Grundsatz** Den Tatbestand von Art. 305bis StGB kann auch erfüllen, wer Vermögenswerte wäscht, die er selbst durch ein Verbrechen erlangt hat (sog. Selbstgeldwäscherei; [BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3). Diese Ausdehnung auf den Vortäter selbst ergibt sich aus dem Wortlaut, der keine Einschränkung auf dritte Wäscher enthält. Die Selbstgeldwäscherei ist in der Schweiz — anders als in manchen anderen Rechtsordnungen — grundsätzlich strafbar.
 
-**16** **Voraussetzungen** Die Selbstgeldwäscherei setzt voraus, dass eine gesonderte Tathandlung im Sinne von Ziff. 1 vorgenommen wird, d.h. eine über die Tatbegehung und das blosse Behalten des Erlöses hinausgehende Verschleierungshandlung. Echte Konkurrenz mit der Vortat ist möglich; die Geldwäscherei ist subsidiär zu strafrechtlichen Spezialtatbeständen, die ihrerseits die Verschleierungshandlung erfassen (▪). Lässt sich die Vortat aus prozessualen Gründen nicht verfolgen, kann Art. 305bis StGB dennoch angewendet werden ([BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3).
+**16** **Voraussetzungen** Die Selbstgeldwäscherei setzt voraus, dass eine gesonderte Tathandlung im Sinne von Ziff. 1 vorgenommen wird, d.h. eine über die Tatbegehung und das blosse Behalten des Erlöses hinausgehende Verschleierungshandlung. Echte Konkurrenz mit der Vortat ist möglich; nach allgemeinen Konkurrenzregeln (lex specialis) tritt Art. 305bis StGB hinter Spezialtatbestände zurück, die ihrerseits die Verschleierungshandlung abschliessend erfassen. Lässt sich die Vortat aus prozessualen Gründen nicht verfolgen, kann Art. 305bis StGB dennoch angewendet werden ([BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3).
 
 #### 5. Versuch
 
@@ -113,11 +113,11 @@ agent_verified: true
 
 #### 1. Konkurrenzen
 
-**24** **Verhältnis zu Art. 305ter StGB** Art. 305bis StGB geht Art. 305ter StGB grundsätzlich vor; echte Konkurrenz ist aber möglich, wenn der Täter sowohl eine Geldwäschereihandlung vornimmt als auch die Sorgfaltspflicht nach Art. 305ter StGB verletzt (PIETH, BSK StGB, N. ▪ zu Art. 305bis StGB; BStGer SK.2010.10 v. 1.6.2010, E. 3.4).
+**24** **Verhältnis zu Art. 305ter StGB** Art. 305bis StGB geht Art. 305ter StGB grundsätzlich vor; echte Konkurrenz ist aber möglich, wenn der Täter sowohl eine Geldwäschereihandlung vornimmt als auch die Sorgfaltspflicht nach Art. 305ter StGB verletzt (PIETH, BSK StGB, zu Art. 305bis StGB; BStGer SK.2010.10 v. 1.6.2010, E. 3.4).
 
 **25** **Verhältnis zu Art. 260ter StGB** Art. 305bis Ziff. 2 lit. a StGB und Art. 260ter StGB stehen in echter Konkurrenz, wenn die Täterin sowohl Mitglied einer kriminellen Organisation ist als auch gewaschene Vermögenswerte verwaltet (→ [BGE 133 IV 235](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_235), E. 2).
 
-**26** **Verhältnis zur Vortat** Die Geldwäscherei tritt nicht als Nachtat hinter die Vortat zurück, weil sie ein eigenständiges Rechtsgut (Rechtspflege/Einziehungsanspruch) schützt. Selbstgeldwäscherei und Vortat konkurrieren damit grundsätzlich echt ([BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3). Allerdings wird in der Praxis bei leichteren Fällen der Selbstgeldwäscherei (z.B. bloses Ausgeben des Erlöses) eine Strafverfolgung selten durchgeführt (▪).
+**26** **Verhältnis zur Vortat** Die Geldwäscherei tritt nicht als Nachtat hinter die Vortat zurück, weil sie ein eigenständiges Rechtsgut (Rechtspflege/Einziehungsanspruch) schützt. Selbstgeldwäscherei und Vortat konkurrieren damit grundsätzlich echt ([BGE 120 IV 323](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_323), E. 3). Im Bereich der leichten Selbstgeldwäscherei (z.B. bloses Ausgeben des Erlöses) steht die Strafverfolgung im Ermessen der Behörden; in der Praxis wird die Geldwäscherei typischerweise nur bei eigenen Tatverleugnungshandlungen getrennt verfolgt.
 
 #### 2. Einziehung
 
