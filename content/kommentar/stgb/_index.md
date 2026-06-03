@@ -34,4 +34,5 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 251](art-251/) | Urkundenfälschung |
 | [Art. 259](art-259/) | Betrug |
 | [Art. 303](art-303/) | Drohung |
+| [Art. 305bis](art-305bis/) | Geldwäscherei |
 | [Art. 305ter](art-305ter/) | Mangelnde Sorgfalt bei Finanzgeschäften |
