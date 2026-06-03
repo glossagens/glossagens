@@ -10,6 +10,15 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
+### BGE 136 IV 188, E. 5–6 (= BGer 6B_218/2009 v. 23.8.2010)
+- **Datum**: 23. August 2010
+- **Thema**: Geldwäscherei durch Unterlassen; Garantenpflicht Finanzintermediär
+- **Kernaussage**: Erstmals bestätigt das Bundesgericht, dass ein Finanzintermediär Geldwäscherei auch durch Unterlassen (Art. 11 StGB) begehen kann, sofern eine Garantenpflicht besteht. Ein Bankdirektor, der es unterlässt, gebotene Untersuchungen durchzuführen und den Fall an die Meldestelle weiterzuleiten, erfüllt den Tatbestand. Die Garantenpflicht stützte sich auf die EBK-Geldwäschereiweisung und interne Richtlinien.
+- **Einschlägig für**: Ziff. 1 (Tathandlung durch Unterlassen)
+- **Kritik**: MUSKENS/NIGGLI, ContraLegem 2019-1, S. 78 ff.
+
+---
+
 ### BGE 119 IV 59, E. 2 (Kassationshof, 20.1.1993)
 - **Datum**: 20. Januar 1993
 - **Thema**: Verstecken von Drogengeld; Tathandlung; Täterkreis
@@ -170,6 +179,14 @@ agent_verified: false
 - **Thema**: Sedimentationsmethode bei gemischten Bankkonten
 - **Kernaussage**: Bei gemischten Bankkonten (legale und illegale Mittel) gilt die Sedimentationsmethode: Illegale Gelder «sitzen am Boden» des Kontos und bleiben einziehbar, solange der Saldo den Betrag der illegalen Einlagen übersteigt. Das Bundesgericht verwirft die proportionale Methode. Jede Transaktion, die absichtlich illegale Kontoanteile erfasst, stellt eine Geldwäschereihandlung dar.
 - **Einschlägig für**: Einziehung, N 27a (gemischte Konten)
+
+---
+
+### BGer 6B_270/2021 v. 5.10.2022, E. 3.2
+- **Datum**: 5. Oktober 2022
+- **Thema**: Parallelwertung in der Laiensphäre; Eventualvorsatz; Schadenersatz
+- **Kernaussage**: Für den Eventualvorsatz genügt eine «Parallelwertung in der Laiensphäre»: Der Wäscher muss sich bewusst sein, dass die Vermögenswerte aus einer schwerwiegenden Vortat herrühren könnten, ohne die rechtliche Einordnung als Verbrechen zu kennen. Schadenersatz (solidarische Haftung) im Umfang der vereitelten Einziehung (CHF 322'500 + 5% Zins) bestätigt.
+- **Einschlägig für**: Ziff. 1 (subjektiver Tatbestand), zivilrechtliche Folgen
 
 ---
 
