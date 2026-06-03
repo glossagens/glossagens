@@ -116,6 +116,29 @@ agent_verified: false
 
 ---
 
+### BGer 6B_341/2019 v. 21.2.2020, E. 3.2
+- **Datum**: 21. Februar 2020
+- **Thema**: Vortat als faktisch abgeschlossener Versuch
+- **Kernaussage**: Die Vortat muss nicht im dogmatischen Sinn vollendet sein. Es genügt, dass sie mindestens in ein strafrechtlich relevantes Ausführungsstadium gelangt ist und faktisch abgeschlossen ist. Ein faktisch abgeschlossener Versuch der Vortat (z.B. versuchter Betrug) reicht als Vortat für Art. 305bis StGB aus.
+- **Einschlägig für**: Ziff. 1 (Vortatenkreis, Vollendung der Vortat)
+
+---
+
+### BGer 6B_693/2008 v. 28.5.2009, E. 4.3 (zur amtl. Publ. vorgesehen)
+- **Datum**: 28. Mai 2009
+- **Thema**: Bandenbegriff; Mindestmitgliederzahl
+- **Kernaussage**: Für den Bandenbegriff genügen im schweizerischen Recht zwei Personen (abweichend von der deutschrechtlichen Doktrin, die drei fordert). Der Zusammenschluss muss auf die künftige Begehung mehrerer selbständiger Straftaten gerichtet sein und bis zu einem gewissen Grade fest und stabil sein. Der Bandenbegriff ist auf alle Bandentatbestände des StGB einheitlich anzuwenden.
+- **Einschlägig für**: Ziff. 2 lit. b (Bandenbegriff)
+
+---
+
+### BGer 6B_1013/2010 v. 17.5.2011, E. 3.3; BGer 6B_461/2018 v. 24.1.2019, E. 3
+- **Thema**: Generischer schwerer Fall (Art. 305bis Ziff. 2 «insbesondere»)
+- **Kernaussage**: Neben den drei Regelbeispielen (lit. a–c) erkennt das Bundesgericht «schwere Fälle in der allgemeinen bzw. generischen Form» an. Massgebend ist, ob die Tat in objektiver und subjektiver Hinsicht gleich schwer wiegt wie die Regelbeispiele. Kriterien: Höhe der gewaschenen Gelder, Dauer und Regelmässigkeit, Komplexität der Transaktionen, internationale Dimension.
+- **Einschlägig für**: Ziff. 2 (generischer schwerer Fall)
+
+---
+
 ### BGE 149 IV 248, E. 6.4.2 (= BGer 6B_219/2021 und 6B_228/2021 v. 19.4.2023)
 - **Datum**: 19. April 2023
 - **Thema**: Verbrauch vs. Vernichtung; Schwellenwerte qualifizierter Fall
