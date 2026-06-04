@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 12 StGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-04
+lastmod: 2026-06-05
 description: "Wichtige Entscheide zu Art. 12 StGB – Vorsatz, Eventualvorsatz und Fahrlässigkeit"
 tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip"]
 agent_verified: false
@@ -248,4 +248,66 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-04*
+*Letzte Aktualisierung: 2026-06-05*
+
+### Kanton GR (Graubünden)
+
+#### [GR Kantonsgericht SK1 2013 27 vom 22. Oktober 2013](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK1 2013 27), E. 4.1.c–e
+
+- **Thema**: Eventualvorsatz / Sachbeschädigung / Indizien für Inkaufnahme
+- **Kernaussage**: Einer Sachbeschädigung nach Art. 144 Abs. 1 StGB kann sich nur der vorsätzlich handelnde Täter strafbar machen. Eventualvorsatz ist gegeben, wenn der Täter den Eintritt des Erfolgs für möglich hält (Wissenselement) und ihn in Kauf nimmt, sich mit ihm abfindet (Willenselement). Je grösser die Wahrscheinlichkeit der Tatbestandsverwirklichung und je schwerer die Sorgfaltspflichtverletzung, desto eher ist auf Inkaufnahme zu schliessen. Der Schluss auf Inkaufnahme darf aber nicht allein aus dem Bewusstsein des Risikos gezogen werden, da dieses auch bei bewusster Fahrlässigkeit vorausgesetzt wird.
+- **Einschlägig für**: Art. 12 Abs. 2 (Eventualvorsatz / Indizien / Abgrenzung zur bewussten Fahrlässigkeit)
+
+---
+
+#### [GR Kantonsgericht SK2 2018 56 vom 23. August 2019](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK2 2018_56)
+
+- **Thema**: Eventualvorsatz / Berufsgeheimnis
+- **Kernaussage**: In subjektiver Hinsicht verlangt Art. 321 Ziff. 1 StGB Vorsatz, wobei eventualvorsätzliche Tatbegehung genügt (vgl. Art. 12 Abs. 1 und 2 StGB).
+- **Einschlägig für**: Art. 12 Abs. 2 (Eventualvorsatz bei Berufsgeheimnisverletzung)
+
+---
+
+### Kanton FR (Freiburg)
+
+#### [FR Strafappellationshof 501 2024 150 vom 19. Mai 2025](https://mcp.opencaselaw.ch/entscheid/fr_gerichte_501_2024_150), E. 2.1
+
+- **Thema**: Anklagegrundsatz / Vorsatz oder Fahrlässigkeit im Schuldspruch
+- **Kernaussage**: Weiter muss klar sein, ob dem Angeklagten Fahrlässigkeit oder Vorsatz vorgeworfen wird. Dabei reicht die Schilderung des objektiven Tatgeschehens aus, wenn sich daraus die Umstände ergeben, aus denen auf einen vorhandenen Vorsatz geschlossen werden kann. Hält die Staatsanwaltschaft an einem Strafbefehl fest, so gilt dieser als Anklageschrift.
+- **Einschlägig für**: Art. 12 Abs. 1 (Vorsatz/Fahrlässigkeit im Anklagegrundsatz)
+
+---
+
+#### [FR Kantonsgericht 502 2015 122 vom 25. September 2015](https://mcp.opencaselaw.ch/entscheid/fr_gerichte_502_2015_122), E. 2
+
+- **Thema**: Fahrlässige Hehlerei / Straflosigkeit gemäss Art. 12 Abs. 1 StGB
+- **Kernaussage**: Fahrlässige Hehlerei ist straflos (Art. 12 Abs. 1 i.V.m. Art. 160 StGB). Für den Vorsatz ist weder genauere Kenntnis vom Vortäter noch von der konkreten Eigenart der Vortat erforderlich. Es genügt die Kenntnis hinreichend dichter Verdachtsmomente in Bezug auf die Umstände irgendeiner hehlereitauglichen Vortat.
+- **Einschlägig für**: Art. 12 Abs. 1 (Vorsatzprinzip / Straflosigkeit fahrlässiger Begehung)
+
+---
+
+### Kanton TG (Thurgau)
+
+#### [TG Obergericht RBOG-2022-28](https://mcp.opencaselaw.ch/entscheid/tg_gerichte_RBOG-2022-28)
+
+- **Thema**: Fahrlässige Mittäterschaft bei Unterlassungsdelikt / Art. 12 Abs. 3 StGB
+- **Kernaussage**: Fahrlässige Mittäterschaft bei einem Unterlassungsdelikt (Art. 11 StGB i.V.m. Art. 12 Abs. 3 StGB): Die Sorgfaltspflichtverletzung bei Unterlassungsdeliken richtet sich nach den persönlichen Verhältnissen und der Zumutbarkeit des Handelns.
+- **Einschlägig für**: Art. 12 Abs. 3 (Fahrlässigkeit bei Unterlassungsdelikten)
+
+---
+
+#### [TG Obergericht TVR-2006-35 vom 3. Juli 2003](https://mcp.opencaselaw.ch/entscheid/tg_gerichte_TVR-2006-35)
+
+- **Thema**: Eventualvorsatz / Brandstiftung / Inkaufnahme
+- **Kernaussage**: Führt das Entzünden eines Abfallhaufens in unmittelbarer Nähe eines Gebäudes und einer Remise zu einem Gebäudebrand, ist von Eventualvorsatz auszugehen, der zur Leistungsverweigerung in der Versicherung führt.
+- **Einschlägig für**: Art. 12 Abs. 2 (Eventualvorsatz / Inkaufnahme bei Brandstiftung)
+
+---
+
+### Kanton BE (Bern)
+
+#### [BE Verwaltungsgericht 100 2016 300 vom 19. Dezember 2017](https://mcp.opencaselaw.ch/entscheid/be_verwaltungsgericht_100_2016_300), E. 7.3
+
+- **Thema**: Vorsatz und Fahrlässigkeit im Steuerstrafrecht / Art. 12 StGB
+- **Kernaussage**: Die Bedeutung der Begriffe Vorsatz und Fahrlässigkeit bestimmt sich nach dem gemeinen Strafrecht, mithin nach Art. 12 StGB. Vorsätzlich verübt ein Delikt, wer die Tat mit Wissen und Willen ausführt; bereits Eventualvorsatz genügt.
+- **Einschlägig für**: Art. 12 Abs. 1 u. Abs. 2 (Vorsatz/Fahrlässigkeit im Steuerstrafrecht)
