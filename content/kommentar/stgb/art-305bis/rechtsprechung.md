@@ -35,6 +35,14 @@ agent_verified: false
 
 ---
 
+### BGE 124 IV 274, E. 3b (Kassationshof, 29.10.1998)
+- **Datum**: 29. Oktober 1998
+- **Thema**: Einfache Bankeinzahlung; kein Tatbestand; Selbstgeldwäscherei
+- **Kernaussage**: Eine einfache Einzahlung von Bargeld auf das persönliche Bankkonto am Wohnort, das dem üblichen privaten Zahlungsverkehr dient, erfüllt den objektiven Tatbestand der Geldwäscherei nicht. Bestätigt: Der Vortäter kann sein eigener Geldwäscher sein. Strafbar ist die Vereitelungshandlung als solche, unbesehen eines Vereitelungserfolgs.
+- **Einschlägig für**: Ziff. 1 (Tathandlung: Negativbeispiel einfache Einzahlung; Selbstgeldwäscherei)
+
+---
+
 ### BGE 119 IV 242, E. 1b–c und E. 2b–c
 - **Datum**: 1993
 - **Thema**: Gegenstand der Geldwäscherei; Vorsatz; Bestimmtheitsgrundsatz
