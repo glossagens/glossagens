@@ -10,71 +10,13 @@ agent_verified: false
 
 ## Rechtsprechung zu Art. 12 StGB
 
-### BGE 143 IV 330 — Eventualvorsatz und Untersuchungshaft
-
-**THEMA:** Eventualvorsatz / Untersuchungshaft
-
-**KERNAUSSAGE:** Der dringende Tatverdacht bezieht sich auf ein tatbestandsmässiges und rechtswidriges Verbrechen oder Vergehen; dabei können sich auch Fragen hinsichtlich des Kausalzusammenhanges stellen. Der Begriff des Eventualvorsatzes nach Art. 12 Abs. 2 Satz 2 StGB wird im Kontext der Untersuchungshaft geprüft.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 Satz 2 (Eventualvorsatz)
-
----
-
-### BGE 134 IV 255 — Fahrlässige Störung des öffentlichen Verkehrs
-
-**THEMA:** Fahrlässigkeit / Unterlassen
-
-**KERNAUSSAGE:** Tatbestandselemente der fahrlässigen Störung des öffentlichen Verkehrs (Art. 237 Ziff. 2 StGB); Begehung durch Unterlassen aufgrund der Schaffung einer Gefahr; Fahrlässigkeit nach Art. 12 Abs. 3 StGB.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit / Sorgfaltspflichtverletzung)
-
----
-
-### BGE 136 IV 55 — Strafzumessung bei verminderter Schuldfähigkeit
-
-**THEMA:** Strafzumessung / verminderte Schuldfähigkeit
-
-**KERNAUSSAGE:** Ausgehend von der objektiven Tatschwere hat der Richter das (subjektive) Tatverschulden zu bewerten. Dabei hat er auch die verminderte Schuldfähigkeit zu berücksichtigen und darzulegen, in welchem Umfange sich diese verschuldensmindernd auswirkt.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 1 (Vorsatz als Grundprinzip) i.V.m. Art. 19 StGB
-
----
-
-### BGE 141 IV 249 — Fahrlässige Tötung und Garantenpflicht
-
-**THEMA:** Garantenpflicht / fahrlässige Tötung
-
-**KERNAUSSAGE:** Klärt die Voraussetzungen einer Garantenpflicht im Allgemeinen; Unterscheidung zwischen Obhuts- und Überwachungspflichten. Eine Garantenstellung aus Vertrag entsteht nicht schon durch die Vereinbarung, sondern erst durch die faktische Übernahme der Stellung.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit durch Unterlassen)
-
----
-
-### BGE 138 V 74 — Unschuldsvermutung und in dubio pro reo
-
-**THEMA:** Beweiswürdigung / Unschuldsvermutung
-
-**KERNAUSSAGE:** Die verfassungsmässigen Anforderungen an die Beweiswürdigung im Strafprozess gelten auch im sozialversicherungsgerichtlichen Verfahren, wenn vorfrageweise geprüft wird, ob sich der Rückforderungsanspruch aus einer strafbaren Handlung ergibt.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 1 (Vorsatz, Beweislast)
-
----
-
-### BGE 135 IV 56 — Fahrlässige schwere Körperverletzung
-
-**THEMA:** Fahrlässigkeit / Zurechnung / Schussabgabe
-
-**KERNAUSSAGE:** Fragen der Zurechnung des Erfolgs bei fahrlässiger schwerer Körperverletzung. Beurteilung der Kausalität und der Sorgfaltspflichtverletzung im Kontext von Schussabgabe mit einer Pistole.
-
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit / objektive Sorgfaltspflicht)
-
----
+## I. Leitentscheide (BGE)
 
 ### BGE 135 IV 12 — Subjektive Tatbestandsvoraussetzungen / Falschbeurkundung
 
 **THEMA:** Eventualvorsatz / bedingter Vorsatz
 
-**KERNAUSSAGE:** Wer bewusst ungelesene Urkunden unterzeichnet, kann sich nicht darauf berufen, ihren wahren Inhalt nicht gekannt zu haben. Wer weiss, dass er nichts weiss, irrt nicht (E. 2.3.1). Es darf jedoch nicht unbesehen von diesem Wissen auf die Inkaufnahme einer Falschbeurkundung geschlossen werden (E. 2.3.2).
+**KERNAUSSAGE:** Wer bewusst ungelesene Urkunden unterzeichnet, kann sich nicht darauf berufen, ihren wahren Inhalt nicht gekannt zu haben. Wer weiss, dass er nichts weiss, irrt nicht (E. 2.3.1). Es darf jedoch nicht unbesehen von diesem Wissen auf die Inkaufnahme einer Falschbeurkundung geschlossen werden (E. 2.3.2). Als Indizien für die Inkaufnahme kommen in Betracht: Ausmass der Gefährdung fremder Interessen, das situative Risiko der Erfolgsverwirklichung sowie die Motive des Täters (E. 2.3.3).
 
 **EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Eventualvorsatz / bedingter Vorsatz)
 
@@ -90,6 +32,106 @@ agent_verified: false
 
 ---
 
+### BGE 134 IV 255 — Fahrlässige Störung des öffentlichen Verkehrs
+
+**THEMA:** Fahrlässigkeit / Unterlassen
+
+**KERNAUSSAGE:** Wer nach der Schaffung einer Gefahr im Sinne von Art. 11 Abs. 2 lit. d StGB passiv bleibt, begeht dadurch eine Fahrlässigkeit im Sinne von Art. 12 Abs. 3 StGB, sofern sein Nichthandeln nicht aus einer Hinnahme der vorhersehbaren Konsequenzen (Eventualvorsatz) resultiert, sondern aus einer Unaufmerksamkeit oder einem vorwerfbaren Mangel an Anstrengung (bewusste Fahrlässigkeit vs. Eventualvorsatz).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit / Unterlassen)
+
+---
+
+### BGE 135 IV 56 — Fahrlässige schwere Körperverletzung
+
+**THEMA:** Fahrlässigkeit / Zurechnung / Schussabgabe
+
+**KERNAUSSAGE:** Fragen der Zurechnung des Erfolgs bei fahrlässiger schwerer Körperverletzung. Beurteilung der Kausalität und der Sorgfaltspflichtverletzung im Kontext von Schussabgabe mit einer Pistole. Wo besondere, der Unfallverhütung dienende Normen ein bestimmtes Verhalten gebieten, bestimmt sich das Mass der Sorgfalt in erster Linie nach diesen Vorschriften.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit / objektive Sorgfaltspflicht)
+
+---
+
+### BGE 136 IV 55 — Strafzumessung bei verminderter Schuldfähigkeit
+
+**THEMA:** Strafzumessung / verminderte Schuldfähigkeit
+
+**KERNAUSSAGE:** Ausgehend von der objektiven Tatschwere hat der Richter das (subjektive) Tatverschulden zu bewerten. Dabei hat er auch die verminderte Schuldfähigkeit zu berücksichtigen und darzulegen, in welchem Umfange sich diese verschuldensmindernd auswirkt.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 1 (Vorsatz als Grundprinzip) i.V.m. Art. 19 StGB
+
+---
+
+### BGE 136 IV 76 — Direkter Vorsatz und fahrlässige Tötung bei selbem Erfolg
+
+**THEMA:** Direkter Vorsatz / fahrlässige Tötung / Idealkonkurrenz
+
+**KERNAUSSAGE:** Wer skrupellos das Leben einer Person direktvorsätzlich gefährdet, welche in der Folge stirbt, ist sowohl wegen Gefährdung des Lebens als auch wegen fahrlässiger Tötung zu bestrafen, wenn er voraussieht, dass das Opfer sterben kann und er aus pflichtwidriger Unvorsicht auf den Nichteintritt des Todes vertraut. Die fahrlässige Tötung gilt das Unrecht der Gefährdung des Lebens nicht ab (E. 2.7).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 und Abs. 3 (direkter Vorsatz vs. Fahrlässigkeit bei selbem Erfolg)
+
+---
+
+### BGE 138 V 74 — Unschuldsvermutung und in dubio pro reo
+
+**THEMA:** Beweiswürdigung / Unschuldsvermutung
+
+**KERNAUSSAGE:** Die verfassungsmässigen Anforderungen an die Beweiswürdigung im Strafprozess gelten auch im sozialversicherungsgerichtlichen Verfahren, wenn vorfrageweise geprüft wird, ob sich der Rückforderungsanspruch aus einer strafbaren Handlung ergibt.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 1 (Vorsatz, Beweislast)
+
+---
+
+### BGE 141 IV 249 — Fahrlässige Tötung und Garantenpflicht
+
+**THEMA:** Garantenpflicht / fahrlässige Tötung
+
+**KERNAUSSAGE:** Klärt die Voraussetzungen einer Garantenpflicht im Allgemeinen; Unterscheidung zwischen Obhuts- und Überwachungspflichten. Eine Garantenstellung aus Vertrag entsteht nicht schon durch die Vereinbarung, sondern erst durch die faktische Übernahme der Stellung.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit durch Unterlassen)
+
+---
+
+### BGE 143 IV 138 — Fahrlässige Tötung im Strassenverkehr
+
+**THEMA:** Fahrlässige Tötung / Sorgfaltspflicht im Strassenverkehr
+
+**KERNAUSSAGE:** Fahrlässige Tötung (Art. 117 StGB), Sorgfaltspflichtverletzung; Rechtsvorbeifahren an einer Motorfahrzeugkolonne. Nach Art. 42 Abs. 3 VRV dürfen Radfahrer an einer Kolonne vorbeifahren, wenn genügend freier Raum vorhanden ist. In einer sich bewegenden Kolonne ist das Rechtsvorbeifahren an einem Fahrzeug mit eingeschalteter rechter Richtungsanzeige unzulässig (E. 2.2.1).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 StGB (Fahrlässigkeit im Strassenverkehr)
+
+---
+
+### BGE 143 IV 330 — Eventualvorsatz und Untersuchungshaft
+
+**THEMA:** Eventualvorsatz / Untersuchungshaft
+
+**KERNAUSSAGE:** Der dringende Tatverdacht bezieht sich auf ein tatbestandsmässiges und rechtswidriges Verbrechen oder Vergehen; dabei können sich auch Fragen hinsichtlich des Kausalzusammenhanges stellen. Der Begriff des Eventualvorsatzes nach Art. 12 Abs. 2 Satz 2 StGB wird im Kontext der Untersuchungshaft geprüft.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 Satz 2 (Eventualvorsatz)
+
+---
+
+### BGE 143 IV 361 — Fahrlässigkeit / Alternativtäterschaft
+
+**THEMA:** Fahrlässigkeit / Beweislast bei Alternativtäterschaft
+
+**KERNAUSSAGE:** Fahrlässige Verursachung einer Feuersbrunst (Art. 222 Abs. 1 StGB). Die fehlende Möglichkeit, einem von zwei Beschuldigten eine sorgfaltswidrige Erfolgsverursachung nachzuweisen, kann nicht zur Annahme einer strafrechtlichen Gesamtverantwortung führen (E. 4.9–4.11).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (Fahrlässigkeit / Beweislast)
+
+---
+
+### BGE 147 IV 439 — Cannabis-Grenzwerte und Vorsatz
+
+**THEMA:** Vorsatz / Grenzwerte im Strassenverkehr
+
+**KERNAUSSAGE:** Die in Art. 2 Abs. 2 VRV festgelegte Nulltoleranz für THC im Strassenverkehr sowie der Bestimmungsgrenzwert von 1,5 µg/l in Art. 34 lit. a VSKV-ASTRA sind zulässig. Vorsatz beim Fahren in fahrunfähigem Zustand nach Cannabiskonsum. Das Bundesgericht überprüft die Abgrenzung von Eventualvorsatz und Fahrlässigkeit mit einer gewissen Zurückhaltung (E. 7.3.1).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Vorsatz / Grenzwerte)
+
+---
+
 ### BGE 148 IV 39 — Fahrlässige Tötung / Arzt-Sorgfaltspflicht
 
 **THEMA:** Fahrlässigkeit / Arzneimittelverschreibung
@@ -100,15 +142,27 @@ agent_verified: false
 
 ---
 
-### BGE 147 IV 439 — Cannabis-Grenzwerte und Vorsatz
+### BGE 129 IV 238 — Sachverhaltsirrtum bei normativen Merkmalen
 
-**THEMA:** Vorsatz / Grenzwerte im Strassenverkehr
+**THEMA:** Sachverhaltsirrtum / Verbotsirrtum / normative Tatbestandsmerkmale
 
-**KERNAUSSAGE:** Die in Art. 2 Abs. 2 VRV festgelegte Nulltoleranz für THC im Strassenverkehr sowie der Bestimmungsgrenzwert von 1,5 µg/l in Art. 34 lit. a VSKV-ASTRA sind zulässig. Vorsatz beim Fahren in fahrunfähigem Zustand nach Cannabiskonsum.
+**KERNAUSSAGE:** Wer fälschlicherweise der Überzeugung ist, aus dem Drogenhandel stammende Vermögenswerte seien wegen Zeitablaufs nicht mehr einziehbar, handelt in einem Sachverhaltsirrtum (E. 3). Der Irrtum über normative Tatbestandsmerkmale qualifiziert als Sachverhaltsirrtum, nicht als Verbotsirrtum.
 
-**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Vorsatz / Grenzwerte)
+**EINSCHLÄGIG FÜR:** Art. 13 StGB, Sachverhaltsirrtum bei normativen Merkmalen
 
 ---
+
+### BGE 134 IV 193 — Fahrlässigkeit und erlaubtes Risiko (HIV)
+
+**THEMA:** Erlaubtes Risiko / Fahrlässigkeit / HIV-Infektion
+
+**KERNAUSSAGE:** Fahrlässige schwere Körperverletzung (Art. 125 Abs. 2 StGB); Fahrlässigkeit und erlaubtes Risiko (Art. 12 Abs. 3 StGB). Wer konkrete Anhaltspunkte für die Möglichkeit der eigenen HIV-Infektion hat, ist gehalten, auf ungeschützte Sexualkontakte zu verzichten. Andernfalls schafft er pflichtwidrig eine Gefahr, die das erlaubte Risiko übersteigt (E. 8.1).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 3 (erlaubtes Risiko vs. Fahrlässigkeit)
+
+---
+
+## II. Weitere Bundesgerichtsentscheide
 
 ### BGer 6B_422/2024 — Sachverhaltsirrtum und Fahrlässigkeit
 
@@ -130,7 +184,197 @@ agent_verified: false
 
 ---
 
-## Kantonale Entscheide
+### BGer 6B_899/2021 — Eventualvorsatz / Beweiswürdigung
+
+**THEMA:** Eventualvorsatz / Abgrenzung bewusste Fahrlässigkeit / Beweiswürdigung
+
+**KERNAUSSAGE:** Die Abgrenzung zwischen Eventualvorsatz und bewusster Fahrlässigkeit: Der bewusst fahrlässig handelnde Täter vertraut darauf, dass der Erfolg nicht eintritt; der eventualvorsätzliche Täter nimmt den Erfolg ernst und findet sich mit ihm ab. Wer den Erfolg dergestalt in Kauf nimmt, "will" ihn i.S.v. Art. 12 Abs. 2 StGB. Nicht erforderlich ist, dass er den Erfolg "billigt". Als Kriterien: Grösse des Risikos, Schwere der Sorgfaltspflichtverletzung, Beweggründe, Art der Tathandlung (E. 3.5.2–3.5.3).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Abgrenzung Eventualvorsatz / bewusste Fahrlässigkeit)
+
+---
+
+### BGE 147 IV 439 — Überprüfungsmaßstab bei Eventualvorsatz / Cannabis-Grenzwerte
+
+**THEMA:** Beweiswürdigung / Überprüfungsmaßstab / Cannabis-Grenzwerte
+
+**KERNAUSSAGE:** Das Bundesgericht überprüft die richtige Bewertung der tatsächlichen Umstände im Hinblick auf die Abgrenzung von Eventualvorsatz und (bewusster) Fahrlässigkeit nach ständiger Praxis mit einer gewissen Zurückhaltung (E. 7.3.1). Was der Täter wusste, wollte und in Kauf nahm, betrifft eine innere Tatsache (Tatfrage). Rechtsfrage ist hingegen, ob gestützt auf die festgestellten Tatsachen Fahrlässigkeit, Eventualvorsatz oder direkter Vorsatz gegeben ist.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 StGB (Beweiswürdigung / Überprüfungsmaßstab)
+
+---
+
+### BGer 6B_1298/2023 — Eventualvorsatz / Zurückhaltung bei Überprüfung
+
+**THEMA:** Beweiswürdigung / Eventualvorsatz / Zurückhaltung
+
+**KERNAUSSAGE:** Das Bundesgericht überprüft die richtige Bewertung der tatsächlichen Umstände im Hinblick auf die Abgrenzung von Eventualvorsatz und (bewusster) Fahrlässigkeit nach ständiger Praxis mit einer gewissen Zurückhaltung (BGE 147 IV 439 E. 7.3.1 mit Hinweisen).
+
+**EINSCHLÄGIG FÜR:** Art. 12 StGB (Beweiswürdigung bei Eventualvorsatz)
+
+---
+
+### BGer 6B_1059/2019 — Billigungstheorie / Dolus eventualis
+
+**THEMA:** Eventualvorsatz vs. bewusste Fahrlässigkeit / Billigungstheorie
+
+**KERNAUSSAGE:** Die Einwilligungs- oder Billigungstheorie stellt bei der Abgrenzung zur bewussten Fahrlässigkeit auf das Willenselement ab. "Billigen" ist nicht im Sinne eigener Zustimmung zu verstehen; BGE 96 IV 99 S. 101 klärt, dass sich "billigen" nicht vom "Sich-Abfinden" oder "Inkaufnehmen" unterscheidet. Vorsatz und Fahrlässigkeit werden nicht allein nach psychologischen, sondern in einem normativen Wertungsakt abgegrenzt (E. 4.4.5, 4.4.9).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 StGB (Dolus eventualis / Billigungstheorie)
+
+---
+
+### BGer 6B_804/2018 — Sachverhalts- vs. Verbotsirrtum
+
+**THEMA:** Sachverhaltsirrtum / normative Merkmale / Verbotsirrtum
+
+**KERNAUSSAGE:** Einem Sachverhaltsirrtum unterliegt, wer von einem Merkmal eines Straftatbestands keine oder eine falsche Vorstellung hat; nicht nur der Irrtum über deskriptive, sondern auch über normative Tatbestandsmerkmale qualifies als Sachverhaltsirrtum. Versteht der Täter in laienhafter Anschauung die soziale Bedeutung des Sachverhalts, handelt er mit Vorsatz, auch wenn er über die genaue rechtliche Qualifikation irrt (Subsumtionsirrtum). E. 3.1.1
+
+**EINSCHLÄGIG FÜR:** Art. 13 StGB, Abgrenzung Sachverhalts-/Verbotsirrtum bei normativen Merkmalen
+
+---
+
+### BGer 6B_920/2015 — Sachverhaltsirrtum bei normativen Merkmalen
+
+**THEMA:** Sachverhaltsirrtum / normative Tatbestandsmerkmale
+
+**KERNAUSSAGE:** Einem Sachverhaltsirrtum unterliegt, wer von einem Merkmal eines Straftatbestandes keine oder eine falsche Vorstellung hat. Nicht nur der Irrtum über deskriptive Merkmale, sondern auch die falsche Vorstellung über Tatbestandsmerkmale rechtlicher (normativer) Natur gilt als Sachverhaltsirrtum. Dem Irrenden fehlt in diesen Fällen der Vorsatz. E. 1.3
+
+**EINSCHLÄGIG FÜR:** Art. 13 StGB (normative Tatbestandsmerkmale)
+
+---
+
+### BGer 6B_782/2016 — Verbotsirrtum (Art. 21 StGB)
+
+**THEMA:** Verbotsirrtum / Güterkontrollgesetz
+
+**KERNAUSSAGE:** Gemäss Art. 21 StGB handelt nicht schuldhaft, wer bei Begehung der Tat nicht weiss und nicht wissen kann, dass er sich rechtswidrig verhält. Abgrenzung zwischen Sachverhaltsirrtum und Verbotsirrtum im Kontext des Güterkontrollgesetzes. E. 3.1
+
+**EINSCHLÄGIG FÜR:** Art. 13 i.V.m. Art. 21 StGB (Verbotsirrtum)
+
+---
+
+### BGer 6B_538/2022 — Verbotsirrtum bei UWG
+
+**THEMA:** Verbotsirrtum / Wirtschaftsdelikte
+
+**KERNAUSSAGE:** Abgrenzung zwischen Sachverhaltsirrtum und Verbotsirrtum (Art. 21 StGB). Gemäss Art. 21 Satz 1 StGB handelt nicht schuldhaft, wer bei Begehung der Tat nicht weiss und nicht wissen kann, dass er sich rechtswidrig verhält.
+
+**EINSCHLÄGIG FÜR:** Art. 13 i.V.m. Art. 21 StGB (Verbotsirrtum bei Wirtschaftsdelikten)
+
+---
+
+### BGer 6B_96/2018 — Sachbeschädigung / Irrtum
+
+**THEMA:** Sachbeschädigung / Irrtum
+
+**KERNAUSSAGE:** Sachbeschädigung; Irrtum. Beurteilung eines Sachverhaltsirrtums i.S.v. Art. 13 StGB und dessen Abgrenzung zum Verbotsirrtum (Art. 21 StGB) im Kontext einer Sachbeschädigung.
+
+**EINSCHLÄGIG FÜR:** Art. 13 StGB (Sachverhaltsirrtum)
+
+---
+
+### BGer 6B_870/2018 — Rechtsüberholen / Eventualvorsatz im Strassenverkehr
+
+**THEMA:** Eventualvorsatz / Strassenverkehr
+
+**KERNAUSSAGE:** Der Vergehenstatbestand von Art. 90 Abs. 2 SVG erfasst insbesondere vorsätzliches und eventualvorsätzliches Verhalten. Objektiv genügt eine erhöhte abstrakte Gefährdung. Subjektiv erfordert der Tatbestand ein rücksichtsloses oder sonst schwerwiegend verkehrswidriges Verhalten, bei fahrlässiger Begehung grobe Fahrlässigkeit.
+
+**EINSCHLÄGIG FÜR:** Art. 12 i.V.m. Art. 90 SVG (Eventualvorsatz im Strassenverkehr)
+
+---
+
+### BGer 6B_636/2019 — Qualifiziert grobe Verkehrsregelverletzung
+
+**THEMA:** Eventualvorsatz / Qualifizierte Verkehrsregelverletzung
+
+**KERNAUSSAGE:** Der subjektive Tatbestand des Art. 90 Abs. 3 und 4 SVG erfordert Vorsatz bezüglich der Verletzung einer elementaren Verkehrsregel und der Risikoverwirklichung, wobei Eventualvorsatz genügt. E. 1.1.2
+
+**EINSCHLÄGIG FÜR:** Art. 12 StGB, Art. 90 SVG (Eventualvorsatz im Strassenverkehr)
+
+---
+
+### BGer 6B_16/2023 — Fahrlässige Tötung / Eventualvorsatz vs. Fahrlässigkeit
+
+**THEMA:** Fahrlässige Tötung / Eventualvorsatz
+
+**KERNAUSSAGE:** Rechtsfrage ist, ob gestützt auf die festgestellten Tatsachen Fahrlässigkeit, Eventualvorsatz oder direkter Vorsatz gegeben ist. Das Bundesgericht überprüft die Bewertung der Umstände im Hinblick auf den Rechtsbegriff des Eventualvorsatzes mit einer gewissen Zurückhaltung (BGE 147 IV 439 E. 7.3.1). E. 2.2.5
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2/3 StGB (Fahrlässigkeit / Eventualvorsatz)
+
+---
+
+### BGer 6B_230/2022 — Eventualvorsatz bei Begünstigung
+
+**THEMA:** Eventualvorsatz / Begünstigung
+
+**KERNAUSSAGE:** Die Abgrenzung zwischen Eventualvorsatz und bewusster Fahrlässigkeit kann im Einzelfall schwierig sein. Sowohl der eventualvorsätzlich als auch der bewusst fahrlässig handelnde Täter wissen um die Möglichkeit des Erfolgseintritts. Unterschiede bestehen beim Willensmoment (E. 3.3.3).
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Eventualvorsatz vs. bewusste Fahrlässigkeit)
+
+---
+
+### BGer 6B_195/2024 — Schwere Körperverletzung / Eventualvorsatz
+
+**THEMA:** Eventualvorsatz / schwere Körperverletzung / Abgrenzung
+
+**KERNAUSSAGE:** Abgrenzung zwischen Eventualvorsatz und bewusster Fahrlässigkeit: Der eventualvorsätzlich handelnde Täter nimmt den Eintritt des als möglich erkannten Erfolgs ernst und findet sich mit ihm ab. Normativer Bewertungsakt bei der Abgrenzung.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 StGB (Eventualvorsatz vs. bewusste Fahrlässigkeit — neueste Rechtsprechung 2025)
+
+---
+
+### BGer 6B_131/2021 — Sachbeschädigung / Eventualvorsatz
+
+**THEMA:** Sachbeschädigung / Eventualvorsatz
+
+**KERNAUSSAGE:** Sachbeschädigung, Eventualvorsatz, schriftliches Verfahren. Abgrenzung Eventualvorsatz/bewusste Fahrlässigkeit im Kontext einer Sachbeschädigung.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 StGB (Eventualvorsatz)
+
+---
+
+### BGer 6B_1013/2020 — Beweislast bei Eventualvorsatz
+
+**THEMA:** Beweislast / Eventualvorsatz / Geldwäscherei
+
+**KERNAUSSAGE:** Das Bundesgericht überprüft die richtige Bewertung der tatsächlichen Umstände im Hinblick auf die Abgrenzung von Eventualvorsatz und (bewusster) Fahrlässigkeit nach ständiger Praxis mit einer gewissen Zurückhaltung (BGE 147 IV 439 E. 7.3.1). E. 6.2.1
+
+**EINSCHLÄGIG FÜR:** Art. 12 StGB (Beweiswürdigung / Überprüfungsmaßstab)
+
+---
+
+### BGer 6B_1246/2019 — Eventualvorsätzliche Tötung
+
+**THEMA:** Eventualvorsatz / Tötung
+
+**KERNAUSSAGE:** Erörterung des Eventualvorsatzes im Rahmen einer eventualvorsätzlichen Tötung; Abgrenzung zur bewussten Fahrlässigkeit.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (Eventualvorsatz bei Tötungsdelikten)
+
+---
+
+### BGer 6B_561/2020 — Vorsatz/Fahrlässigkeit im Strassenverkehr
+
+**THEMA:** Bewusste Fahrlässigkeit / Eventualvorsatz im Strassenverkehr
+
+**KERNAUSSAGE:** Rechtsfrage ist, ob gestützt auf die festgestellten Tatsachen bewusste Fahrlässigkeit, Eventualvorsatz oder direkter Vorsatz gegeben ist (BGE 137 IV 1 E. 4.2.3). Eventualvorsatz i.S.v. Art. 12 Abs. 2 Satz 2 StGB liegt vor, wenn der Täter den Erfolg in Kauf nimmt. Abgrenzung im Strassenverkehrskontext.
+
+**EINSCHLÄGIG FÜR:** Art. 12 Abs. 2 (bewusste Fahrlässigkeit / Eventualvorsatz im Strassenverkehr)
+
+---
+
+### BGer 6B_899/2013 — Freiheitsberaubung / abweichender Kausalverlauf
+
+**THEMA:** Dolus generalis / abweichender Kausalverlauf
+
+**KERNAUSSAGE:** Ob und inwieweit dem Täter der Erfolg noch als sein Werk zugerechnet werden kann, wenn der ihn tatsächlich herbeiführende Geschehensablauf dem vorgestellten nicht entspricht — also wie ein Irrtum über den Kausalverlauf zu behandeln ist.
+
+**EINSCHLÄGIG FÜR:** Art. 12 StGB (Dolus generalis / abweichender Kausalverlauf)
+
+---
+
+## III. Kantonale Entscheide
 
 ### Kanton ZH (Zürich)
 
@@ -200,6 +444,14 @@ agent_verified: false
 
 ---
 
+#### [AG Strafgericht SST.2024.85](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SST.2024.85), E. 4.4.1
+
+- **Thema**: Schuldspruch / Vorsatz oder Fahrlässigkeit
+- **Kernaussage**: Die Formulierungen «mit Wissen und Willen» bzw. «in Kauf genommen» deuten auf Vorsatz bzw. Eventualvorsatz hin, während «Fahrlässigkeit» ausdrücklich genannt werden muss.
+- **Einschlägig für**: Art. 12 Abs. 1 (Vorsatz vs. Fahrlässigkeit im Schuldspruch)
+
+---
+
 ### Kanton BS (Basel-Stadt)
 
 #### [BS Appellationsgericht SB.2015.114 vom 22. Dezember 2017](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_SB.2015.114), E. 3
@@ -248,8 +500,6 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-05*
-
 ### Kanton GR (Graubünden)
 
 #### [GR Kantonsgericht SK1 2013 27 vom 22. Oktober 2013](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK1 2013 27), E. 4.1.c–e
@@ -260,7 +510,7 @@ agent_verified: false
 
 ---
 
-#### [GR Kantonsgericht SK2 2018 56 vom 23. August 2019](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK2 2018_56)
+#### [GR Kantonsgericht SK2 2018 56 vom 23. August 2019](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK2_2018_56)
 
 - **Thema**: Eventualvorsatz / Berufsgeheimnis
 - **Kernaussage**: In subjektiver Hinsicht verlangt Art. 321 Ziff. 1 StGB Vorsatz, wobei eventualvorsätzliche Tatbegehung genügt (vgl. Art. 12 Abs. 1 und 2 StGB).
@@ -291,7 +541,7 @@ agent_verified: false
 #### [TG Obergericht RBOG-2022-28](https://mcp.opencaselaw.ch/entscheid/tg_gerichte_RBOG-2022-28)
 
 - **Thema**: Fahrlässige Mittäterschaft bei Unterlassungsdelikt / Art. 12 Abs. 3 StGB
-- **Kernaussage**: Fahrlässige Mittäterschaft bei einem Unterlassungsdelikt (Art. 11 StGB i.V.m. Art. 12 Abs. 3 StGB): Die Sorgfaltspflichtverletzung bei Unterlassungsdeliken richtet sich nach den persönlichen Verhältnissen und der Zumutbarkeit des Handelns.
+- **Kernaussage**: Fahrlässige Mittäterschaft bei einem Unterlassungsdelikt (Art. 11 StGB i.V.m. Art. 12 Abs. 3 StGB): Die Sorgfaltspflichtverletzung bei Unterlassungsdelikten richtet sich nach den persönlichen Verhältnissen und der Zumutbarkeit des Handelns.
 - **Einschlägig für**: Art. 12 Abs. 3 (Fahrlässigkeit bei Unterlassungsdelikten)
 
 ---
@@ -311,3 +561,17 @@ agent_verified: false
 - **Thema**: Vorsatz und Fahrlässigkeit im Steuerstrafrecht / Art. 12 StGB
 - **Kernaussage**: Die Bedeutung der Begriffe Vorsatz und Fahrlässigkeit bestimmt sich nach dem gemeinen Strafrecht, mithin nach Art. 12 StGB. Vorsätzlich verübt ein Delikt, wer die Tat mit Wissen und Willen ausführt; bereits Eventualvorsatz genügt.
 - **Einschlägig für**: Art. 12 Abs. 1 u. Abs. 2 (Vorsatz/Fahrlässigkeit im Steuerstrafrecht)
+
+---
+
+### Kanton SG (St. Gallen)
+
+#### [SG Kantonsgericht ST.2014.20 vom 1. September 2014](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_ST.2014.20)
+
+- **Thema**: Eventualvorsatz / Gehilfenschaft / Sprengstoffgesetz
+- **Kernaussage**: Wer sich an Fussballspielen eventualvorsätzlich daran beteiligt, eine Fanblockfahne über eine Gruppe von Fussballanhängern aufzuziehen und gespannt zu halten, damit diese vermummt pyrotechnische Gegenstände ("Pyros") abbrennen können, macht sich der Gehilfenschaft zur Widerhandlung gegen das Sprengstoffgesetz schuldig. Der Eventualvorsatz genügt auch für die Gehilfenschaft (Art. 25 StGB i.V.m. Art. 12 Abs. 2 StGB).
+- **Einschlägig für**: Art. 12 Abs. 2 (Eventualvorsatz bei Gehilfenschaft)
+
+---
+
+*Letzte Aktualisierung: 2026-06-05*
