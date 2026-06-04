@@ -2,7 +2,7 @@
 title: "Art. 305bis — Geldwäscherei"
 weight: 305
 date: 2026-06-03
-lastmod: 2026-06-04
+lastmod: 2026-06-05
 description: "Kommentar zu Art. 305bis StGB – Geldwäscherei: Tathandlung, Gemeinedelikt, Selbstgeldwäscherei, Vortatenkreis, qualifiziertes Steuervergehen, Ziff. 2 (Bande, kriminelle Organisation, Gewerbsmässigkeit), Auslandtat, Einziehbarkeit, Sedimentationsmethode"
 tags: ["StGB", "Geldwäscherei", "Vortatenkreis", "Steuervergehen", "kriminelle Organisation", "Finanzplatz", "Selbstgeldwäscherei", "Einziehung", "FATF", "Finanzintermediär"]
 agent_verified: true

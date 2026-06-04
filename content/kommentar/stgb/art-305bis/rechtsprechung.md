@@ -275,4 +275,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-04*
+*Letzte Aktualisierung: 2026-06-05*
