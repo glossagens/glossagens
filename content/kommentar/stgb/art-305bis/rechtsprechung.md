@@ -206,6 +206,14 @@ agent_verified: false
 
 ---
 
+### BGer 4A_603/2020 v. 16.11.2022, E. 4.3
+- **Datum**: 16. November 2022
+- **Thema**: Zivilrechtliche Bankenhaftung; Art. 305bis als Schutznorm; Art. 29 StGB
+- **Kernaussage**: Eine Bank kann nicht pauschal für «Geldwäscherei durch Unterlassen» zivilrechtlich haftbar gemacht werden. Der Geschädigte muss nachweisen, dass ein konkret identifizierbarer Mitarbeiter mit unabhängiger Entscheidungsbefugnis (Art. 29 StGB) vorsätzlich gehandelt hat. Blosse Organisationsmängel ohne personalisiertes Verschulden genügen nicht.
+- **Einschlägig für**: Zivilrechtliche Folgen, N 25a
+
+---
+
 ### BGer 6B_45/2021 v. 27.4.2022, E. 3.4
 - **Datum**: 27. April 2022
 - **Thema**: Abstrakte Einziehbarkeit; Tathandlungen Bankdaten-Diebstahl; Auslandtat
