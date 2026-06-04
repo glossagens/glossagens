@@ -180,6 +180,14 @@ agent_verified: false
 
 ---
 
+### BGE 142 IV 333, E. 4 (= BGer 6B_698/2015 v. 11.10.2016)
+- **Datum**: 11. Oktober 2016
+- **Thema**: Art. 102 StGB; keine Kausalhaftung; Anlasstat Geldwäscherei; Schweizerische Post
+- **Kernaussage**: Art. 102 StGB begründet keine Kausalhaftung. Die Unternehmensverantwortlichkeit setzt eine nachgewiesene Anlasstat (inkl. subjektiver Tatbestandsmerkmale wie Eventualvorsatz für Art. 305bis) und ein konkretes Organisationsdefizit voraus. Alleiniges Vorliegen eines Organisationsdefizits ohne nachgewiesene individuelle Straftat genügt nicht.
+- **Einschlägig für**: Unternehmensverantwortlichkeit (N 27a)
+
+---
+
 ### BGE 147 IV 424, E. 2.2 (= BGer 1B_132/2020 und 1B_184/2020 v. 18.6.2020)
 - **Datum**: 18. Juni 2020
 - **Thema**: Art. 305bis Ziff. 2 als StPO-Katalogdelikt; Keylogger
