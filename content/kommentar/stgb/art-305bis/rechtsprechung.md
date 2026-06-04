@@ -180,6 +180,14 @@ agent_verified: false
 
 ---
 
+### BGE 147 IV 424, E. 2.2 (= BGer 1B_132/2020 und 1B_184/2020 v. 18.6.2020)
+- **Datum**: 18. Juni 2020
+- **Thema**: Art. 305bis Ziff. 2 als StPO-Katalogdelikt; Keylogger
+- **Kernaussage**: Art. 305bis Ziff. 2 StGB ist ein Katalogdelikt nach Art. 269 Abs. 2 und Art. 280 StPO und berechtigt damit zum Einsatz besonderer Ermittlungsmassnahmen (Überwachung, Keylogger). Software-Keylogger fallen unter Art. 280 lit. b StPO wie mechanische; massgebend ist nicht die Beschaffenheit, sondern die Art des Einsatzes.
+- **Einschlägig für**: Ziff. 2 (Katalogdelikt StPO), Ermittlungsmassnahmen
+
+---
+
 ### BGer 6B_1013/2020 und 6B_1059/2020 v. 12.3.2024, E. 3.2; 5.2; 6.2.2; 6.4
 - **Datum**: 12. März 2024
 - **Thema**: Deliktstypus abstraktes Gefährdungsdelikt; Abgrenzung Eventualvorsatz/Fahrlässigkeit
