@@ -19,6 +19,14 @@ agent_verified: false
 
 ---
 
+### BGE 129 IV 322, E. 2 (= BGer 6S.22/2003 v. 8.9.2003)
+- **Datum**: 8. September 2003
+- **Thema**: Schutznorm mit Doppelzweck; Schadenersatz adhäsionsweise; Rückerstattungsanspruch
+- **Kernaussage**: Soweit Vermögenswerte aus Straftaten gegen Individualinteressen herrühren, schützt Art. 305bis StGB auch die Vermögensinteressen der durch die Vortat Geschädigten. Die Geldwäschereihandlung verletzt eine Schutznorm (Art. 41 OR), und der Geschädigte kann Schadenersatz im Umfang der vereitelten Einziehung fordern. Der Rückerstattungsanspruch des Geschädigten geht der staatlichen Einziehung vor.
+- **Einschlägig für**: Ziff. 1 (Schutzzweck), zivilrechtliche Folgen (→ bestätigt in BGE 146 IV 211)
+
+---
+
 ### BGE 119 IV 59, E. 2 (Kassationshof, 20.1.1993)
 - **Datum**: 20. Januar 1993
 - **Thema**: Verstecken von Drogengeld; Tathandlung; Täterkreis
