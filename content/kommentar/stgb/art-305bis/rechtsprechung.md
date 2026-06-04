@@ -243,4 +243,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-03*
+*Letzte Aktualisierung: 2026-06-04*
