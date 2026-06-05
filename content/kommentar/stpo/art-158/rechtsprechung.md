@@ -116,13 +116,21 @@ Informelle polizeiliche Befragungen (z.B. der Anwesenden an einem Tat- oder Unfa
 
 ---
 
-### BGer 6B_1205/2023 vom 30.04.2026 (5er-Besetzung) — Stichwortartige Rechtsbelehrung rechtsgenüglich
+### BGer 6B_1205/2023 vom 30.04.2026 (5er-Besetzung) — Stichwortartige Rechtsbelehrung und ergänzende Zeugenaussage
 
 **Docket**: 6B_1205/2023 | **Datum**: 30. April 2026
 
-Das Bundesgericht (5er-Besetzung) präzisiert, dass eine stichwortartige, vorgedruckte Rechtsbelehrung gemäss Art. 158 StPO rechtsgenüglich sein kann, wenn der beschuldigten Person der Inhalt in verständlicher Weise eröffnet wurde und sie die Belehrung unterschriftlich bestätigt hat. Das Protokoll allein genügt jedoch nicht zwingend, um die genügende Belehrung zu belegen. Ergänzende Zeugenaussagen des einvernehmenden Polizeibeamten können die stichwortartige Belehrung rechtsgenüglich ergänzen, sofern sie den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen. Das Bundesgericht mahnt zur ausführlicheren Protokollierung und lässt die Frage offen, ob das Protokoll allein den Beweis der genügenden Belehrung zu erbringen vermag. Der Polizeibeamte bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung von BGE 140 IV 177). Die Strafzumessung und der Vollzug der Geldstrafe sind nicht zu beanstanden.
+Das Bundesgericht (5er-Besetzung) präzisiert die Anforderungen an eine genügende Rechtsbelehrung gemäss Art. 158 StPO im Fall einer stichwortartigen, vorgedruckten Protokollpassage. Der Einvernahmeprotokolls enthielt die vorgedruckte Passage: *«Eröffnung StPO Art. 158 (Einleitung Vorverfahren, Gegenstand Verfahren, Recht auf Verweigerung Aussage und Mitwirkung sowie Verteidigung und Übersetzung). Er/Sie nimmt zur Kenntnis, dass die Angaben bei den Behörden des Bundes, der Kantone und Gemeinden überprüft werden können.»* Der Beschuldigte hatte diese unterschriftlich bestätigt.
 
-**Einschlägig für**: Art. 158 Abs. 1 lit. a–d (Belehrungspflicht), Abs. 2 (Unverwertbarkeit), Protokollierung, stichwortartige Belehrung
+Das Bundesgericht stellte fest, dass der Wortlaut der vorgedruckten Passage sich als **knapp** erweist (E. 2.4.3). Zwar werden die Rechte stichwortartig genannt — es handelt sich um mehr als einen blossen Verweis auf die Rechtsnormen. Eigentlichen Aufschluss über die inhaltliche Tragweite gibt die stichwortartige Aufzählung jedoch nicht. Ob sich eine genügende Rechtsbelehrung gestützt auf das Protokoll allein beweisen liesse, wurde **ausdrücklich offen gelassen** (E. 2.4.3).
+
+Die Vorinstanz stützte sich **zusätzlich zum Protokoll** zu Recht auf die Aussagen des einvernehmenden Polizeibeamten, der anlässlich der erstinstanzlichen Hauptverhandlung als Zeuge die Rechtsbelehrung bestätigte (E. 2.4.4). Der Zeuge bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung von BGE 140 IV 177; Art. 170 Abs. 2 lit. a StPO; E. 2.4.4.1). Massgeblich ist der Gesamtbeweis aus Protokoll und ergänzender Zeugenaussage.
+
+Das Bundesgericht mahnt zur **ausführlicheren Protokollierung** der Rechtsbelehrung: Eine entsprechende Protokollierung würde allfällige Unsicherheiten ausräumen und sei aus Gründen der Rechtssicherheit angezeigt (E. 2.4.5). Aus dem Umstand, dass der (über akademische Bildung verfügende) Beschuldigte die Rechtsbelehrung signierte ohne Rückfragen zu stellen, durfte auf eine erfolgte Rechtsbelehrung geschlossen werden.
+
+Das Bundesgericht hält weiter fest, dass die rein sachliche Wiedergabe der in Art. 158 Abs. 1 StPO statuierten Rechte nicht als «tendenziös» oder «einschüchternd» erweist (E. 2.4.2). Der Deliktsvorhalt im Protokoll (Tatort, Tatzeit, Tatfahrzeug, Messgeschwindigkeit, Toleranzmarge) genügt den Anforderungen von Art. 158 Abs. 1 lit. a StPO (E. 2.4.1).
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a–d (Belehrungspflicht), Abs. 2 (Unverwertbarkeit), Protokollierung, stichwortartige Belehrung, Zeugenbeweis, Amtsgeheimnis (Art. 170 Abs. 2 lit. a StPO)
 
 ---
 
@@ -131,6 +139,38 @@ Das Bundesgericht (5er-Besetzung) präzisiert, dass eine stichwortartige, vorged
 Vorzuhalten ist ein nach dem aktuellen Verfahrensstand möglichst präziser einzelner Lebenssachverhalt und der daran geknüpfte Deliktsvorwurf, nicht aber bereits die genaue rechtliche Würdigung. Ein knapper Vorhalt, der im Verlauf der Einvernahme konkretisiert wird, genügt den Anforderungen, wenn die beschuldigte Person hinreichend über den Untersuchungsgegenstand informiert ist.
 
 **Einschlägig für**: Art. 158 Abs. 1 lit. a (Tatvorhalt)
+
+---
+
+### BGer 6B_317/2021 vom 26. August 2021 — Vorgedruckte Rechtsbelehrung / Kurzeinvernahme SVG
+
+Das Bundesgericht befasste sich mit einer vorgedruckten Rechtsbelehrung im Rahmen einer polizeilichen Kurzeinvernahme nach dem SVG. Der Beschuldigte rügte, die Antwortzeile nach der vorgedruckten Rechtsbelehrung sei nicht ausgefüllt, und schloss daraus, dass die Belehrung nicht erfolgt sei. Das Bundesgericht hielt fest, dass aus der Unterschrift am Ende der Einvernahme nicht zwingend gefolgert werden kann, dass die Voraussetzungen von Art. 143 und Art. 158 StPO erfüllt sind (E. 1.1). Dieser Entscheid unterstreicht die Notwendigkeit einer ausführlichen Protokollierung der Rechtsbelehrung und steht im Einklang mit der späteren Präzisierung in BGer 6B_1205/2023.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a–d, Art. 143 StPO, Protokollierung, stichwortartige Belehrung
+
+---
+
+### BGer 6B_500/2012 vom 4. April 2013 — Mass der Rechtsbelehrung
+
+Die beschuldigte Person ist so zu belehren, dass sie tatsächlich in der Lage ist zu erkennen, welches ihre zentralen Rechte und Pflichten in der aktuellen Verfahrenssituation sind. Das blosse Verlesen der Rechte und Pflichten und ein Hinweis auf die Gesetzesbestimmungen genügen bei Rechtsunkundigen nicht (E. 1.2.1). Die Belehrung muss in einer der beschuldigten Person verständlichen Sprache erfolgen und ihr ermöglichen, die Tragweite ihrer Rechte zu erfassen. Dieser Grundsatz ist in BGer 6B_1205/2023, E. 2.3.3 zitiert worden.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. b und c, Art. 143 Abs. 1 lit. c StPO
+
+---
+
+### BGer 6B_489/2018 vom 31. Oktober 2018 — Deliktsvorhalt / Beginn der Einvernahme
+
+Der Hinweis auf den Gegenstand des Verfahrens muss zu Beginn der Einvernahme erfolgen. Der Hinweis im Verlauf der Einvernahme genügt nicht. Zitiert in BGer 6B_1205/2023, E. 2.3.3.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a (Deliktsvorhalt, Zeitpunkt)
+
+---
+
+### BGer 6B_1182/2020 vom 4. Januar 2022 — Deliktsvorhalt und informelle Befragung
+
+Das Bundesgericht bestätigt, dass der Vorhalt zu Beginn der Einvernahme zu erfolgen hat und nicht im Verlauf der Einvernahme nachgeholt werden kann (E. 2.2). Die informelle Befragung vor der Einvernahme ist nicht zu beanstanden, solange sie nicht dazu missbraucht wird, die Formvorschriften einer formellen Einvernahme zu umgehen (E. 2.4). Zitiert in BGer 6B_1205/2023, E. 2.3.3.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a (Deliktsvorhalt), Abs. 2 (Unverwertbarkeit), Art. 306 Abs. 2 lit. b StPO
 
 ---
 
@@ -151,6 +191,16 @@ Der Beschuldigte muss in allgemeiner Weise und nach dem aktuellen Verfahrensstan
 ---
 
 ## IV. Verwertungsverbot und Verfahrensrechte
+
+### BGE 140 IV 177 — Amtsgeheimnis des Polizeibeamten / Zeugnisverweigerungsrecht
+
+**Datum**: 6. Oktober 2014
+
+Polizeibeamte im Sinne von Art. 110 Abs. 3 StGB können das Zeugnis über Geheimnisse verweigern, die ihnen in ihrer amtlichen Eigenschaft anvertraut wurden (Art. 170 Abs. 1 StPO). Keine Ermächtigung der vorgesetzten Behörde ist erforderlich, wenn ein Polizist im Zuge des Strafverfahrens Aussagen über Feststellungen am Tatort macht, sofern er diesbezüglich einer Anzeigepflicht unterliegt. Das Amtsgeheimnis gilt nicht zwischen Strafverfolgungsbehörden, die mit der gleichen Angelegenheit befasst sind. Diese Rechtsprechung wurde in Art. 170 Abs. 2 lit. a StPO (in Kraft seit 1. Januar 2024) kodifiziert und in BGer 6B_1205/2023, E. 2.4.4.1 bestätigt.
+
+**Einschlägig für**: Art. 170 Abs. 1 und 2 lit. a StPO, Art. 158 StPO (systematisch: Zeugenbeweis bei Belehrungsmängeln)
+
+---
 
 ### BGE 150 IV 345 — Teilnahmerecht und Konfrontationsanspruch; Unverwertbarkeit
 

@@ -78,7 +78,33 @@ Die beschuldigte Person hat das Recht, eine Übersetzerin oder einen Übersetzer
 
 ### 3.5 Stichwortartige Belehrung (Präzisierung durch BGer 6B_1205/2023)
 
-Eine stichwortartige, vorgedruckte Rechtsbelehrung gemäss Art. 158 StPO kann rechtsgenüglich sein, wenn der beschuldigten Person der Inhalt in verständlicher Weise eröffnet wurde und sie die Belehrung unterschriftlich bestätigt hat. Das Bundesgericht hat in BGer 6B_1205/2023 (5er-Besetzung) präzisiert, dass das Protokoll allein nicht zwingend genügt, um die genügende Belehrung zu belegen. Massgeblich ist, ob die beschuldigte Person die Tragweite ihrer Rechte tatsächlich verstanden hat. Ergänzende Zeugenaussagen des einvernehmenden Beamten können die stichwortartige Belehrung rightsgenüglich ergänzen, sofern sie den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen (BGer 6B_1205/2023, E. 5.2). Das Bundesgericht mahnt zur ausführlicheren Protokollierung und lässt die Frage offen, ob das Protokoll allein — ohne ergänzende Zeugenaussage — den Beweis der genügenden Belehrung zu erbringen vermag.
+#### 3.5.1 Grundsatz: Mass der Belehrung
+
+Die beschuldigte Person ist so zu belehren, dass sie tatsächlich in der Lage ist zu erkennen, welches ihre zentralen Rechte und Pflichten in der aktuellen Verfahrenssituation sind. Das blosse Verlesen der Rechte und Pflichten und ein Hinweis auf die Gesetzesbestimmungen genügen bei Rechtsunkundigen nicht (BGer 6B_500/2012 vom 4. April 2013, E. 1.2.1). Die Belehrung muss in einer der beschuldigten Person verständlichen Sprache erfolgen und ihr ermöglichen, die Tragweite ihrer Rechte zu erfassen.
+
+#### 3.5.2 Stichwortartige, vorgedruckte Rechtsbelehrung
+
+Das Bundesgericht hat in BGer 6B_1205/2023 (5er-Besetzung) grundlegend zur Frage der stichwortartigen, vorgedruckten Rechtsbelehrung Stellung genommen. Der Sachverhalt betraf ein Einvernahmeprotokoll, das eine vorgedruckte Passage mit dem Wortlaut enthielt: *«Eröffnung StPO Art. 158 (Einleitung Vorverfahren, Gegenstand Verfahren, Recht auf Verweigerung Aussage und Mitwirkung sowie Verteidigung und Übersetzung). Er/Sie nimmt zur Kenntnis, dass die Angaben bei den Behörden des Bundes, der Kantone und Gemeünden überprüft werden können.»* Der Beschuldigte hatte diese Passage unterschriftlich bestätigt und das Protokoll auf allen Seiten visiert.
+
+Das Bundesgericht stellte fest, dass der Wortlaut der vorgedruckten Passage sich als **knapp** erweist (BGer 6B_1205/2023, E. 2.4.3). Zwar werden sowohl das «Recht auf Verweigerung Aussage und Mitwirkung sowie Verteidigung» genannt; es handelt sich mithin um mehr als einen blossen Verweis auf die einschlägigen Rechtsnormen. Eigentlichen Aufschluss über die inhaltliche Tragweite der betreffenden Rechte gibt die stichwortartige Aufzählung jedoch nicht (E. 2.4.3). Ob sich eine genügende Rechtsbelehrung gestützt auf das Protokoll allein beweisen liesse, lässt das Bundesgericht **ausdrücklich offen** (E. 2.4.3 am Ende).
+
+#### 3.5.3 Ergänzung durch Zeugenaussage
+
+Das Bundesgericht hält fest, dass die Vorinstanz sich **zusätzlich zum Protokoll** zu Recht auf die Aussagen des einvernehmenden Polizeibeamten stützt (BGer 6B_1205/2023, E. 2.4.4). Der Polizeibeamte hatte anlässlich der erstinstanzlichen Hauptverhandlung als Zeuge bestätigt, dass die Rechtsbelehrung erfolgt sei. Der Zeuge bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung der Rechtsprechung von BGE 140 IV 177, E. 3.3; nun in Art. 170 Abs. 2 lit. a StPO kodifiziert, in Kraft seit 1. Januar 2024). Denn als Mitglied einer Strafbehörde (Art. 12 StPO) war er in derselben Angelegenheit gegenüber anderen Strafbehörden ohne vorgängige Entbindung vom Amtsgeheimnis zur Aussage betreffend seine amtliche Tätigkeit befugt (E. 2.4.4.1).
+
+Massgeblich ist somit nicht allein das Protokoll, sondern der **Gesamtbeweis** aus Protokoll und ergänzender Zeugenaussage des einvernehmenden Beamten. Die stichwortartige Belehrung kann rechtsgenüglich sein, wenn ergänzende Zeugenaussagen den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen.
+
+#### 3.5.4 Beweiswürdigung und Empfehlung
+
+Das Bundesgericht stellt fest, dass es nicht willkürlich ist, wenn die Vorinstanz aus dem Umstand, dass der (über akademische Bildung verfügende) Beschuldigte die Aussagen zu seinen finanziellen Verhältnissen verweigerte und die Rechtsbelehrung im Übrigen signierte — ohne Rückfragen zu stellen —, auf eine erfolgte Rechtsbelehrung schliesst (BGer 6B_1205/2023, E. 2.4.5). Der Vollständigkeit halber weist das Bundesgericht jedoch darauf hin, dass sich die Zeugeneinvernahme hätte vermeiden lassen, wenn die Rechtsbelehrung **ausführlicher protokolliert** worden wäre. Eine entsprechende Protokollierung würde allfällige Unsicherheiten bezüglich der erfolgten Belehrung ausräumen und wäre aus Gründen der Rechtssicherheit bei künftigen Verfahren angezeigt (E. 2.4.5).
+
+#### 3.5.5 Abgrenzung zu BGer 6B_317/2021
+
+In BGer 6B_317/2021 vom 26. August 2021 hatte sich das Bundesgericht bereits mit einer vorgedruckten Rechtsbelehrung im Rahmen einer polizeilichen Kurzeinvernahme nach dem SVG befasst. Dort rügte der Beschuldigte, die Antwortzeile nach der vorgedruckten Rechtsbelehrung sei nicht ausgefüllt, und schloss daraus, dass die Belehrung nicht erfolgt sei. Das Bundesgericht hielt fest, dass aus der Unterschrift am Ende der Einvernahme nicht zwingend gefolgert werden kann, dass die Voraussetzungen von Art. 143 und Art. 158 StPO erfüllt worden sind (E. 1.1). Dieser Entscheid steht im Einklang mit der Aufforderung in BGer 6B_1205/2023 an die Strafverfolgungsbehörden, die Rechtsbelehrung ausführlicher zu protokollieren.
+
+#### 3.5.6 Deliktsvorhalt im Protokoll
+
+Zusätzlich zur stichwortartigen Rechtsbelehrung enthält BGer 6B_1205/2023 eine wichtige Klarstellung zum Deliktsvorhalt (Art. 158 Abs. 1 lit. a StPO). Unabhängig vom Inhalt des vor der Einvernahme geführten Telefonats findet sich im Protokoll — unmittelbar nach der vorgedruckten Rechtsbelehrung, jedoch noch vor den Aussagen des Beschuldigten zur Person und zur Sache — die genaue Angabe des Tatvorwurfs inklusive Tatort (Ortschaft und Strasse), Tatzeit, Tatfahrzeug mit Kontrollschild, Messgeschwindigkeit und vorgeworfener Geschwindigkeitsübertretung nach Abzug der Toleranzmarge. Das Bundesgericht hält dies für genügend (E. 2.4.1). Auch die rein sachliche Wiedergabe der in Art. 158 Abs. 1 StPO statuierten Rechte erweist sich nicht als «tendenziös» oder «einschüchternd» (E. 2.4.2).
 
 ---
 
@@ -180,7 +206,10 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | Erweiterter Verfahrensgegenstand ohne erneute Belehrung | Ja (erneut) | Ja | BGer 6B_359/2021 |
 | Informelle Befragung am Tatort (Anfangsstadium) | Nein | Nein | BGer 6B_1067/2023; BGE 151 IV 73, E. 2.4.5 |
 | Rollenwechsel: Auskunftsperson zu beschuldigte Person | Ja | Ja | BGE 144 IV 28, E. 1.3 |
-| Stichwortartige Belehrung (vorgedruckt) mit unterschriftlicher Bestätigung | Ja (wenn verständlich eröffnet) | Nein (wenn ergänzt) | BGer 6B_1205/2023, E. 5.2 |
+| Stichwortartige Belehrung (vorgedruckt) mit unterschriftlicher Bestätigung und ergänzender Zeugenaussage | Ja (wenn verständlich eröffnet) | Nein (wenn ergänzt durch Zeugenaussage) | BGer 6B_1205/2023, E. 2.4.3–2.4.5 |
+| Stichwortartige Belehrung (vorgedruckt) — Protokoll allein genügt nicht zwingend | Offengelassen | Offengelassen | BGer 6B_1205/2023, E. 2.4.3 |
+| Kurzeinvernahme SVG — Antwortzeile nach Belehrung nicht ausgefüllt | Ja | Zweifelhaft | BGer 6B_317/2021, E. 1.1 |
+| Blosse Verlesung der Rechte ohne inhaltliche Erklärung (rechtsunkundiger Beschuldigter) | Nein | Ja | BGer 6B_500/2012, E. 1.2.1 |
 | Verdeckte Ermittlung mit übermässiger Druckausübung | Ja (nemo tenetur) | Ja (absolut) | BGE 148 IV 205 |
 
 ---
@@ -197,12 +226,14 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | BGE 144 IV 28 | Belehrungspflichten bei Auskunftspersonen | Wird eine Person von der Polizei einvernommen und steht fest, dass sie später als Zeuge einzuvernehmen sein wird, muss die Polizei sie auf die Rechte und Pflichten sowohl einer Auskunftsperson als auch eines Zeugen aufmerksam machen. |
 | BGE 142 IV 207 | Nemo tenetur im Entsiegelungsverfahren | Strafprozessualer nemo-tenetur-Grundsatz im Zusammenhang mit der Entsiegelung bankinterner Dokumente. |
 | BGE 141 IV 20 | Deliktsvorhalt und Belehrungspflicht | Der Eröffnungsverfügung kommt lediglich deklaratorische Wirkung zu. Der Beschuldigte muss in allgemeiner Weise über den Gegenstand des Verfahrens informiert werden. |
-| BGer 6B_1205/2023 (5er-Besetzung) | Stichwortartige Belehrung | Eine stichwortartige, vorgedruckte Rechtsbelehrung kann rechtsgenüglich sein, wenn der beschuldigten Person der Inhalt verständlich eröffnet und unterschriftlich bestätigt wurde. Das Protokoll allein genügt jedoch nicht zwingend; ergänzende Zeugenaussagen können die genügende Belehrung belegen. |
+| BGer 6B_1205/2023 (5er-Besetzung) | Stichwortartige Belehrung und Zeugenaussage | Eine stichwortartige, vorgedruckte Rechtsbelehrung kann rechtsgenüglich sein, wenn sie vom Beschuldigten unterschriftlich bestätigt wurde und ergänzende Zeugenaussagen des einvernehmenden Beamten den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen. Das Protokoll allein genügt jedoch nicht zwingend für den Beweis der genügenden Belehrung (E. 2.4.3 offen gelassen). Das Bundesgericht mahnt zur ausführlicheren Protokollierung (E. 2.4.5). Der einvernehmende Beamte bedarf keiner Entbindung vom Amtsgeheimnis (E. 2.4.4.1; Bestätigung von BGE 140 IV 177). |
+| BGer 6B_500/2012 | Mass der Rechtsbelehrung | Das blosse Verlesen der Rechte und Pflichten und ein Hinweis auf die Gesetzesbestimmungen genügen bei Rechtsunkundigen nicht. Die beschuldigte Person muss tatsächlich in der Lage sein, ihre zentralen Rechte und Pflichten in der aktuellen Verfahrenssituation zu erkennen (E. 1.2.1). |
+| BGer 6B_317/2021 | Vorgedruckte Rechtsbelehrung / Kurzeinvernahme | Bei einer vorgedruckten Rechtsbelehrung im Rahmen einer polizeilichen Kurzeinvernahme kann aus der Unterschrift am Ende der Einvernahme nicht zwingend gefolgert werden, dass die Voraussetzungen von Art. 143 und Art. 158 StPO erfüllt sind. Eine ausführlichere Protokollierung ist angezeigt (E. 1.1). |
 
 ---
 
 ## Literatur
 
-- Ruckstuhl, N. 9a, 33 zu Art. 158 StPO (in: Jositsch/Schmid, Schweizerische Strafprozessordnung [StPO], Praxiskommentar)
+- Ruckstuhl, N. 9a, 22, 33 zu Art. 158 StPO (in: Jositsch/Schmid, Schweizerische Strafprozessordnung [StPO], Praxiskommentar)
 - Godenzi, N. 33 zu Art. 158 StPO
 - Botschaft vom 21. Dezember 2005 zur Vereinheitlichung des Strafprozessrechts, BBl 2006 1085 ff.
