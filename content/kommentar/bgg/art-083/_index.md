@@ -2,7 +2,7 @@
 title: "Art. 83 BGG — Ausnahmen von der Beschwerde"
 weight: 83
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-05
 description: "Kommentar zu Art. 83 BGG: Exhaustiver Katalog der Beschwerdeunzulässigkeit — Prüfungsentscheide, Ausländerrecht, Asylrecht, öffentliche Beschaffungen u.a."
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht"]
 agent_verified: false
@@ -46,7 +46,7 @@ agent_verified: false
 
 **7** **Lit. c — Ausländerrecht.** Die Beschwerdeunzulässigkeit im Ausländerrecht umfasst Einreise, Bewilligungen ohne Rechtsanspruch, vorläufige Aufnahme, Ausweisung und Wegweisung. Die Ausweisung gestützt auf Art. 121 Abs. 2 BV (Schweizerische Verfassung, Ausschaffungsinitiative) ist der Beschwerde entzogen, vorbehaltlich der Subsidiärverfassungsbeschwerde.
 
-**8** **Lit. f — Öffentliche Beschaffungen.** Die Beschwerde ist unzulässig gegen Beschaffungsentscheide, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt ODER der massgebende Schwellenwert nicht erreicht ist. Dies schliesst die meisten kantonalen Beschaffungsstreitigkeiten aus der bundesgerichtlichen Zuständigkeit aus (BGE 133 II 396).
+**8** **Lit. f — Öffentliche Beschaffungen.** Die Beschwerde ist unzulässig gegen Beschaffungsentscheide, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt ODER der massgebende Schwellenwert nicht erreicht ist. Dies schliesst die meisten kantonalen Beschaffungsstreitigkeiten aus der bundesgerichtlichen Zuständigkeit aus (BGE 133 II 396). BGer 2C_384/2025 hat die restriktive Zulassung nach Art. 83 lit. f BGG bestätigt: Ein erstplatziertes Unternehmen kann gegen den Zuschlag an den Zweitplatzierten nur unter engen Voraussetzungen die Beschwerde durchsetzen. Die Baugenehmigung als Eignungskriterium im Beschaffungsverfahren ändert nichts an der Beschwerdeunzulässigkeit nach lit. f.
 
 **9** **Lit. g — Öffentlich-rechtliche Arbeitsverhältnisse.** Die Beschwerde ist unzulässig gegen Entscheide auf dem Gebiet der öffentlich-rechtlichen Arbeitsverhältnisse, wenn sie eine nicht vermögensrechtliche Angelegenheit betreffen und nicht die Gleichstellung der Geschlechter zum Gegenstand haben. Der Begriff des «öffentlich-rechtlichen Arbeitsverhältnisses» wird nach dem Leitbild des öffentlichen Dienstrechts bestimmt (BGE 142 II 154).
 

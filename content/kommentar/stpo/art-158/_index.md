@@ -2,7 +2,7 @@
 title: "Art. 158 StPO — Einvernahme der beschuldigten Person"
 weight: 158
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-06-05
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
 agent_verified: true
@@ -75,6 +75,10 @@ Die beschuldigte Person ist darüber zu belehren, dass sie berechtigt ist, eine 
 ### 3.4 Recht auf einen Übersetzer oder eine Übersetzerin (lit. d)
 
 Die beschuldigte Person hat das Recht, eine Übersetzerin oder einen Übersetzer zu verlangen. Dieser Hinweis ist besonders wichtig, da die gesamte Belehrung in einer ihr verständlichen Sprache erfolgen muss. Der Eröffnungssatz von Art. 158 Abs. 1 StPO stellt klar, dass die Hinweise «in einer ihr verständlichen Sprache» zu erfolgen haben.
+
+### 3.5 Stichwortartige Belehrung (Präzisierung durch BGer 6B_1205/2023)
+
+Eine stichwortartige, vorgedruckte Rechtsbelehrung gemäss Art. 158 StPO kann rechtsgenüglich sein, wenn der beschuldigten Person der Inhalt in verständlicher Weise eröffnet wurde und sie die Belehrung unterschriftlich bestätigt hat. Das Bundesgericht hat in BGer 6B_1205/2023 (5er-Besetzung) präzisiert, dass das Protokoll allein nicht zwingend genügt, um die genügende Belehrung zu belegen. Massgeblich ist, ob die beschuldigte Person die Tragweite ihrer Rechte tatsächlich verstanden hat. Ergänzende Zeugenaussagen des einvernehmenden Beamten können die stichwortartige Belehrung rightsgenüglich ergänzen, sofern sie den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen (BGer 6B_1205/2023, E. 5.2). Das Bundesgericht mahnt zur ausführlicheren Protokollierung und lässt die Frage offen, ob das Protokoll allein — ohne ergänzende Zeugenaussage — den Beweis der genügenden Belehrung zu erbringen vermag.
 
 ---
 
@@ -176,6 +180,7 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | Erweiterter Verfahrensgegenstand ohne erneute Belehrung | Ja (erneut) | Ja | BGer 6B_359/2021 |
 | Informelle Befragung am Tatort (Anfangsstadium) | Nein | Nein | BGer 6B_1067/2023; BGE 151 IV 73, E. 2.4.5 |
 | Rollenwechsel: Auskunftsperson zu beschuldigte Person | Ja | Ja | BGE 144 IV 28, E. 1.3 |
+| Stichwortartige Belehrung (vorgedruckt) mit unterschriftlicher Bestätigung | Ja (wenn verständlich eröffnet) | Nein (wenn ergänzt) | BGer 6B_1205/2023, E. 5.2 |
 | Verdeckte Ermittlung mit übermässiger Druckausübung | Ja (nemo tenetur) | Ja (absolut) | BGE 148 IV 205 |
 
 ---
@@ -192,6 +197,7 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | BGE 144 IV 28 | Belehrungspflichten bei Auskunftspersonen | Wird eine Person von der Polizei einvernommen und steht fest, dass sie später als Zeuge einzuvernehmen sein wird, muss die Polizei sie auf die Rechte und Pflichten sowohl einer Auskunftsperson als auch eines Zeugen aufmerksam machen. |
 | BGE 142 IV 207 | Nemo tenetur im Entsiegelungsverfahren | Strafprozessualer nemo-tenetur-Grundsatz im Zusammenhang mit der Entsiegelung bankinterner Dokumente. |
 | BGE 141 IV 20 | Deliktsvorhalt und Belehrungspflicht | Der Eröffnungsverfügung kommt lediglich deklaratorische Wirkung zu. Der Beschuldigte muss in allgemeiner Weise über den Gegenstand des Verfahrens informiert werden. |
+| BGer 6B_1205/2023 (5er-Besetzung) | Stichwortartige Belehrung | Eine stichwortartige, vorgedruckte Rechtsbelehrung kann rechtsgenüglich sein, wenn der beschuldigten Person der Inhalt verständlich eröffnet und unterschriftlich bestätigt wurde. Das Protokoll allein genügt jedoch nicht zwingend; ergänzende Zeugenaussagen können die genügende Belehrung belegen. |
 
 ---
 

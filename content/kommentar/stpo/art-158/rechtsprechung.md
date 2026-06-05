@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 158 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-06-05
 description: "Übersicht der Entscheide zu Art. 158 StPO — Hinweise bei der ersten Einvernahme, nemo-tenetur-Grundsatz, PIN-Code, Verwertungsverbot"
 tags: ["Rechtsprechung", "StPO", "Belehrungspflicht", "Einvernahme", "Aussageverweigerungsrecht", "nemo tenetur", "Verwertungsverbot"]
 agent_verified: false
@@ -116,6 +116,16 @@ Informelle polizeiliche Befragungen (z.B. der Anwesenden an einem Tat- oder Unfa
 
 ---
 
+### BGer 6B_1205/2023 vom 30.04.2026 (5er-Besetzung) — Stichwortartige Rechtsbelehrung rechtsgenüglich
+
+**Docket**: 6B_1205/2023 | **Datum**: 30. April 2026
+
+Das Bundesgericht (5er-Besetzung) präzisiert, dass eine stichwortartige, vorgedruckte Rechtsbelehrung gemäss Art. 158 StPO rechtsgenüglich sein kann, wenn der beschuldigten Person der Inhalt in verständlicher Weise eröffnet wurde und sie die Belehrung unterschriftlich bestätigt hat. Das Protokoll allein genügt jedoch nicht zwingend, um die genügende Belehrung zu belegen. Ergänzende Zeugenaussagen des einvernehmenden Polizeibeamten können die stichwortartige Belehrung rechtsgenüglich ergänzen, sofern sie den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen. Das Bundesgericht mahnt zur ausführlicheren Protokollierung und lässt die Frage offen, ob das Protokoll allein den Beweis der genügenden Belehrung zu erbringen vermag. Der Polizeibeamte bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung von BGE 140 IV 177). Die Strafzumessung und der Vollzug der Geldstrafe sind nicht zu beanstanden.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a–d (Belehrungspflicht), Abs. 2 (Unverwertbarkeit), Protokollierung, stichwortartige Belehrung
+
+---
+
 ### BGer 6B_1214/2019 vom 1. Mai 2020 — Tatvorhalt / Genauigkeitsanforderungen
 
 Vorzuhalten ist ein nach dem aktuellen Verfahrensstand möglichst präziser einzelner Lebenssachverhalt und der daran geknüpfte Deliktsvorwurf, nicht aber bereits die genaue rechtliche Würdigung. Ein knapper Vorhalt, der im Verlauf der Einvernahme konkretisiert wird, genügt den Anforderungen, wenn die beschuldigte Person hinreichend über den Untersuchungsgegenstand informiert ist.
@@ -186,4 +196,4 @@ Wenn eine Einvernahme ohne die erforderlichen Hinweise nach Art. 158 StPO durchg
 
 ---
 
-*Letzte Aktualisierung: 2026-05-17*
+*Letzte Aktualisierung: 2026-06-05*

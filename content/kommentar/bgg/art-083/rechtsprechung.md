@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 83 BGG — Ausnahmen von der Beschwerde"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-05
 description: "Übersicht der wichtigen Entscheide zu Art. 83 BGG: Beschwerdeunzulässigkeit, Prüfungsentscheide, Ausländerrecht, öffentliche Beschaffungen."
 tags: ["Rechtsprechung", "BGG", "Beschwerdeunzulässigkeit", "Prüfungsentscheide", "Ausländerrecht"]
 agent_verified: false
@@ -28,6 +28,7 @@ Zurück zum Kommentar: [Art. 83 BGG — Ausnahmen von der Beschwerde](./)
 |-------|------|------------------|----------|
 | BGE 133 II 396 | 2007 | Beschwerde/subsidiäre Verfassungsbeschwerde auf dem Gebiet der öffentlichen Beschaffungen; Zulässigkeitsfragen | E. 2 |
 | BGE 140 I 285 | 2014 | Beschwerdelegitimation einer Gemeinde bei öffentlichen Beschaffungen | E. 3 |
+| BGer 2C_384/2025 | 2026 | Restriktive Zulassung nach Art. 83 lit. f BGG; Baugenehmigung als Eignungskriterium ändert nichts an Beschwerdeunzulässigkeit | E. 2 |
 
 ## IV. Öffentlich-rechtliche Arbeitsverhältnisse (lit. g)
 
