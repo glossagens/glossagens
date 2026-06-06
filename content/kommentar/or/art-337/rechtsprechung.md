@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 337 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Wichtige Entscheide zu Art. 337 OR – Fristlose Kündigung aus wichtigem Grund"
 tags: ["OR", "Arbeitsrecht", "fristlose Kündigung", "wichtiger Grund", "Treu und Glauben"]
 agent_verified: true
@@ -97,3 +97,33 @@ agent_verified: true
 **KERNAUSSAGE:** Aus wichtigen Gründen wird den Parteien beim Arbeitsvertrag (Art. 337 Abs. 1 OR) von Gesetzes wegen ein sofortiges Kündigungsrecht eingeräumt. Bestätigt die Einordnung von Art. 337 OR als zwingendes Recht.
 
 **EINSCHLÄGIG FÜR:** Art. 337 Abs. 1 — fristlose Auflösung als zwingendes Recht
+
+---
+
+### BGE 144 III 465 — Alkoholproblematik und fristlose Entlassung
+
+**THEMA:** Suchtprobleme / Verwarnungspflicht / Verhältnismässigkeit
+
+**KERNAUSSAGE:** Ein einmaliger Alkoholmissbrauch am Arbeitsplatz rechtfertigt für sich allein noch keine fristlose Kündigung. Bei wiederholtem Alkoholkonsum trotz Abmahnung kann die Entlassung gerechtfertigt sein, wenn das Vertrauensverhältnis unwiederbringlich zerstört ist. Bei sicherheitsrelevanten Tätigkeiten (z.B. Maschinenbedienung) kann einmaliger Alkoholkonsum ausreichen.
+
+**EINSCHLÄGIG FÜR:** Art. 337 Abs. 2 — Suchtproblematik, Verwarnung, Verhältnismässigkeit
+
+---
+
+### BGE 133 III 496 — Lohnrückstand als Kündigungsgrund für den Arbeitnehmer
+
+**THEMA:** Nichtbezahlung des Lohns / Arbeitnehmerkündigung
+
+**KERNAUSSAGE:** Die Nichtbezahlung des Lohns über mehrere Monate kann einen wichtigen Grund für die fristlose Kündigung durch den Arbeitnehmer darstellen. Voraussetzung ist, dass der Arbeitgeber die Zahlung nach Mahnung nicht leistet und dem Arbeitnehmer die Fortsetzung des Arbeitsverhältnisses nicht mehr zugemutet werden kann.
+
+**EINSCHLÄGIG FÜR:** Art. 337 Abs. 2 — Lohnrückstand als wichtiger Grund
+
+---
+
+### BGE 147 III 257 — Krankheit und fristlose Kündigung
+
+**THEMA:** Unverschuldete Verhinderung / kantonales Recht
+
+**KERNAUSSAGE:** Bestätigt die ausnahmslose Geltung des Verbots, die unverschuldete Verhinderung des Arbeitnehmers an der Arbeitsleistung als wichtigen Grund anzuerkennen (Abs. 3). Krankheit und Unfall sind niemals ein fristloser Kündigungsgrund auf Arbeitgeberseite, auch nicht bei Langzeitkrankheit.
+
+**EINSCHLÄGIG FÜR:** Art. 337 Abs. 3 — absoluter Schutz bei unverschuldeter Verhinderung
