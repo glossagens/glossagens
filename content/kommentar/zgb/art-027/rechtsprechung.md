@@ -2,40 +2,37 @@
 title: "Rechtsprechung zu Art. 27 ZGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
-description: "Wichtige Bundesgerichtsentscheide zu Rechtsfähigkeit, Freiheit und Ordre public"
-tags: ["ZGB", "Ordre public", "Freiheit", "Rechtsprechung"]
+lastmod: 2026-06-07
+description: "Übersicht der Entscheide zu Art. 27 ZGB — Rechtsfähigkeit, Freiheit, Ordre public und Inhaltskontrolle"
+tags: ["Rechtsprechung", "ZGB", "Rechtsfähigkeit", "Freiheit", "Ordre public", "Inhaltskontrolle"]
 agent_verified: false
 ---
 
-## Rechtsprechung zu Art. 27 ZGB
+## Leitentscheide (BGE)
 
-### 1. BGE 138 III 322 – Materieller Ordre public (Leitentscheid)
+### [BGE 138 III 322](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=138_III_322), E. 4.2
+- **Thema**: Materieller Ordre public / Sittenwidrigkeit
+- **Kernaussage**: Art. 27 Abs. 2 ZGB fungiert als materieller Ordre public. Verträge, die zu einer offensichtlichen und schwerwiegenden Persönlichkeitsverletzung führen, verstossen gegen den Ordre public und sind nichtig. Der Sittenwidrigkeitsmassstab ist objektiv: Es kommt darauf an, ob die Beschränkung für einen vernünftigen Menschen offensichtlich unannehmbar ist.
+- **Einschlägig für**: Art. 27 Abs. 2 ZGB (Ordre public, Sittenwidrigkeit, Inhaltskontrolle)
 
-Übermässige vertragliche Bindungen verstossen gegen Art. 27 Abs. 2 ZGB und damit gegen den materiellen Ordre public. Bei offensichtlicher und schwerwiegender Persönlichkeitsverletzung ist der Vertrag nichtig. Der Leitentscheid definiert die Schwelle für die Ordre-public-Kontrolle.
+### [BGE 131 I 223](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=131_I_223), E. 3
+- **Thema**: Wettbewerbsverbot / Prozessfinanzierung
+- **Kernaussage**: Wettbewerbsverbote und Prozessfinanzierungsvereinbarungen unterliegen der Inhaltskontrolle nach Art. 27 Abs. 2 ZGB. Eine Erfolgsbeteiligung von über 30% kann gegen die Sittlichkeit verstossen, wenn sie den Kläger faktisch um den Erfolg des Prozesses bringt. Übermässige Wettbewerbsverbote sind nichtig nach Art. 27 Abs. 2 i.V.m. Art. 346 OR.
+- **Einschlägig für**: Art. 27 Abs. 2 ZGB (Inhaltskontrolle, Wettbewerbsverbot, Prozessfinanzierung)
 
-**Schlagworte:** Ordre public, übermässige Bindung, Nichtigkeit, Persönlichkeitsverletzung
-
----
-
-### 2. BGE 135 V 2 – Abtretung von Sozialversicherungsleistungen
-
-Die Abtretung von Sozialversicherungsleistungen an Sozialhilfebehörden ist zulässig, soweit sie nicht gegen Art. 27 Abs. 2 ZGB verstösst. Die Abtretung muss verhältnismässig sein und die Existenzsicherung des Berechtigten gewähren.
-
-**Schlagworte:** Abtretung, Sozialversicherung, Sozialhilfe, Verhältnismässigkeit
-
----
-
-### 3. BGE 138 III 659 – Befristung von Kaufsrechten
-
-Die Befristung von Kaufsrechten unterliegt der Inhaltskontrolle nach Art. 27 Abs. 2 ZGB. Übermässig lange Befristungen sind nichtig, wenn sie die wirtschaftliche Freiheit des Bindenden in vertragswidriger Weise einschränken.
-
-**Schlagworte:** Kaufsrecht, Befristung, Inhaltskontrolle, Nichtigkeit
+### [BGE 90 II 9](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=90_II_9), E. 4
+- **Thema**: Statusgarantie / Nichtigkeit von Unfreiheitsverträgen
+- **Kernaussage**: Verträge, die darauf gerichtet sind, die Rechts- oder Handlungsfähigkeit aufzugeben, sind nach Art. 27 Abs. 1 ZGB nichtig. Dies betrifft Sklavereiverträge und Verträge über persönliche Unfreiheit. Art. 27 Abs. 1 schützt die Statusgarantie als Fundament der Rechtsordnung.
+- **Einschlägig für**: Art. 27 Abs. 1 ZGB (Unverzichtbarkeit)
 
 ---
 
-### 4. BGE 131 I 223 – Prozessfinanzierungsvereinbarungen
+## Weitere Bundesgerichtsentscheide
 
-Verbot von Prozessfinanzierungsvereinbarungen, die den Unterlegenen übermässig belasten. Art. 27 Abs. 2 ZGB verbietet Vertragsklauseln, die die wirtschaftliche Freiheit in einem Recht oder Sittlichkeit verletzenden Grade beschränken.
+### [BGE 134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 2.1
+- **Thema**: Handlungsfähigkeit und Unverzichtbarkeit
+- **Kernaussage**: Die Handlungsfähigkeit ist nach Art. 27 Abs. 1 ZGB unverzichtbar. Das schützt die rechtliche Selbstbestimmung der Person und verhindert, dass sich jemand vertraglich seiner Rechtsmacht begibt.
 
-**Schlagworte:** Prozessfinanzierung, Wirtschaftsfreiheit, Inhaltskontrolle
+---
+
+*Letzte Aktualisierung: 2026-06-07*
