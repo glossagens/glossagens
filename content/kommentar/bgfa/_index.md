@@ -10,4 +10,5 @@ Kommentar zum [Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwäl
 
 | Artikel | Thema |
 |---------|-------|
+| [Art. 6](art-006/) | Eintragung ins Rechtsanwaltsregister |
 | [Art. 12](art-012/) | Berufsregeln |

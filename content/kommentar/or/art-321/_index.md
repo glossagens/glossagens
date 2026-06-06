@@ -2,7 +2,7 @@
 title: "Art. 321 — Pflichten des Arbeitnehmers"
 weight: 321
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Kommentar zu Art. 321 OR – Personalität der Arbeitsleistung und Nebenpflichten"
 tags: ["OR", "Arbeitsrecht", "Arbeitnehmerpflichten", "Einzelarbeitsvertrag"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 95 BGG — Beschwerdegründe"
 weight: 95
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Kommentar zu Art. 95 BGG: Rügegründe der Beschwerde — Verletzung von Bundesrecht, Völkerrecht, kantonalen verfassungsrechtlichen Rechten und interkantonalem Recht."
 tags: ["BGG", "Bundesgericht", "Beschwerdegründe", "Bundesrechtsverletzung", "Willkür", "Völkerrecht", "Rechtsmittel"]
 agent_verified: false
