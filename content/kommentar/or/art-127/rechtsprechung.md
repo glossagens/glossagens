@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 127 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 127 OR – Zehnjährige Verjährungsfrist"
 tags: ["Rechtsprechung", "OR", "Verjährung", "zehnjährig"]
 agent_verified: false
@@ -76,4 +76,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-23*
+*Letzte Aktualisierung: 2026-06-06*

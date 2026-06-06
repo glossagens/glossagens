@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 29a BV"
 weight: 99
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 29a BV – Rechtsweggarantie"
 tags: ["Rechtsprechung", "BV", "Rechtsweggarantie", "Justizgewährung"]
 agent_verified: false

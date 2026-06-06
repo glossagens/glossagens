@@ -12,3 +12,4 @@ Kommentar zur [Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom
 | [Art. 6](art-006/) | Recht auf ein faires Verfahren |
 | [Art. 8](art-008/) | Recht auf Achtung des Privat- und Familienlebens |
 | [Art. 13](art-013/) | Recht auf wirksame Beschwerde |
+| [Art. 14](art-014/) | Diskriminierungsverbot |
