@@ -2,40 +2,24 @@
 title: "Rechtsprechung zu Art. 244 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
-description: "Wichtige Bundesgerichtsentscheide zur Klage im vereinfachten Verfahren"
-tags: ["ZPO", "vereinfachtes Verfahren", "Klage", "Rechtsprechung"]
+lastmod: 2026-06-07
+description: "Übersicht der Entscheide zu Art. 244 ZPO — Vereinfachte Klage"
+tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Protokollklage"]
 agent_verified: false
 ---
 
-## Rechtsprechung zu Art. 244 ZPO
+## Leitentscheide (BGE)
 
-### 1. BGE 137 III 617 – Berufungsanträge und Bezifferung
+### [BGE 146 III 237](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=146_III_237), E. 3.2
+- **Thema**: Sinngemässe Anwendung / Zugangsgerechtigkeit
+- **Kernaussage**: Das vereinfachte Verfahren soll den Zugang zum Gericht erleichtern. Die Formanforderungen nach Art. 244 ZPO sind bewusst niedrig gehalten. Die sinngemässe Anwendung des ordentlichen Verfahrens (Art. 219 ZPO) findet ihre Grenze in der Natur des vereinfachten Verfahrens.
+- **Einschlägig für**: Art. 244 ZPO i.V.m. Art. 219 ZPO (Formanforderungen, Zugangsgerechtigkeit)
 
-Berufungsanträge müssen Anträge enthalten; bei Geldforderungen sind diese zu beziffern. Dies gilt auch im Anschluss an ein vereinfachtes Verfahren. Eine Auslegung im Lichte der Begründung ist zulässig, ersetzt aber nicht die notwendige Bezifferung.
-
-**Schlagworte:** Bezifferung, Berufungsanträge, Geldforderungen, Auslegung
-
----
-
-### 2. BGE 140 III 450 – Verzicht auf Hauptverhandlung
-
-Im vereinfachten Verfahren haben die Parteien Anspruch auf Durchführung einer Hauptverhandlung, können aber darauf verzichten. Der Verzicht muss unmissverständlich erklärt werden.
-
-**Schlagworte:** Hauptverhandlung, Verzicht, vereinfachtes Verfahren
+### [BGE 138 III 483](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=138_III_483), E. 2
+- **Thema**: Protokollklage / Säumnis
+- **Kernaussage**: Die mündliche Klage zu Protokoll ist eine Zugangsreleichterung für Parteien ohne anwaltliche Vertretung. Bei versäumter Stellungnahme im vereinfachten Verfahren gelten die Säumnisfolgen sinngemäss nach Art. 219 ZPO, aber mit den Besonderheiten des vereinfachten Verfahrens.
+- **Einschlägig für**: Art. 244 Abs. 1 ZPO (Protokollklage, Zugang zum Gericht)
 
 ---
 
-### 3. BGE 139 III 457 – Abgrenzung Handels-/Mietgericht
-
-Die Abgrenzung zwischen dem handelsgerichtlichen und dem ordentlichen/vereinfachten Verfahren richtet sich nach dem Begriff der «geschäftlichen Tätigkeit» (Art. 6 Abs. 2 lit. a ZPO). Nicht jede vermögensrechtliche Streitigkeit fällt unter das Handelsgericht.
-
-**Schlagworte:** Handelsgericht, Mietgericht, geschäftliche Tätigkeit, Abgrenzung
-
----
-
-### 4. BGE 140 III 571 – Streitwertfeststellung
-
-Bei Anfechtung von Beschlüssen der Stockwerkeigentümerversammlung ist der Streitwert festzustellen, um die Zulässigkeit des vereinfachten Verfahrens zu beurteilen (Art. 243 ZPO). Massgebend ist der objektive Wert des Streitgegenstandes.
-
-**Schlagworte:** Streitwert, Stockwerkeigentum, vereinfachtes Verfahren, Zulässigkeit
+*Letzte Aktualisierung: 2026-06-07*

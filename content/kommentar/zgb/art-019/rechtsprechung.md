@@ -1,41 +1,38 @@
 ---
 title: "Rechtsprechung zu Art. 19 ZGB"
-weight: 2
+weight: 3
 date: 2026-05-23
-lastmod: 2026-05-23
-description: "Wichtige Bundesgerichtsentscheide zu urteilsfähigen Handlungsunfähigen"
-tags: ["ZGB", "Handlungsunfähigkeit", "Rechtsprechung"]
+lastmod: 2026-06-07
+description: "Übersicht der Entscheide zu Art. 19 ZGB — Urteilsfähige Handlungsunfähige"
+tags: ["Rechtsprechung", "ZGB", "Handlungsunfähigkeit", "Zustimmungsvorbehalt", "Deliktsfähigkeit", "Minderjährige"]
 agent_verified: false
 ---
 
-## Rechtsprechung zu Art. 19 ZGB
+## Leitentscheide (BGE)
 
-### 1. BGE 112 V 97 – Handlungsfähigkeit im Sozialversicherungsrecht
+### [BGE 134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.2.1
+- **Thema**: Dreiteilung der Handlungsfähigkeit / Deliktsfähigkeit
+- **Kernaussage**: Art. 19 ZGB steht zwischen voller Handlungsfähigkeit (Art. 13 ZGB) und Urteilsunfähigkeit (Art. 18 ZGB). Urteilsfähige Handlungsunfähige sind voll deliktsfähig — die Handlungsunfähigkeit schützt nicht vor der Schadenersatzpflicht aus unerlaubter Handlung. Voraussetzung ist die Urteilsfähigkeit im Sinne von Art. 18 ZGB.
+- **Einschlägig für**: Art. 19 Abs. 3 ZGB (Deliktsfähigkeit)
 
-Handlungsunfähige Personen können im Sozialversicherungsrecht grundsätzlich nicht selbst handeln. Die Rückforderung von Versicherungsleistungen richtet sich nach der Vertretungsregelung. BGE 112 V 97 ist der Grundsatzentscheid zur Handlungsfähigkeit unter Beistandschaft.
+### [BGE 90 II 9](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=90_II_9), E. 3–5
+- **Thema**: Zustimmungsvorbehalt / Schwebende Unwirksamkeit
+- **Kernaussage**: Handlungen urteilsfähiger Handlungsunfähiger ohne Zustimmung des gesetzlichen Vertreters sind schwebend unwirksam — nicht endgültig nichtig. Nachträgliche Genehmigung macht das Rechtsgeschäft wirksam. Unentgeltliche Vorteile können ohne Zustimmung angenommen werden.
+- **Einschlägig für**: Art. 19 Abs. 1 und Abs. 2 ZGB (Zustimmungsvorbehalt, unentgeltliche Vorteile)
 
-**Schlagworte:** Sozialversicherung, Rückforderung, Vertretung
-
----
-
-### 2. BGE 112 IV 9 – Höchstpersönliche Rechte
-
-Urteilsfähige Beistandschaftsunterstellte können bei höchstpersönlichen Rechten selbst einen Vertreter bestellen und auf dessen Bestellung verzichten. Art. 19 Abs. 1 wird im Bereich höchstpersönlicher Rechte durchbrochen.
-
-**Schlagworte:** höchstpersönliche Rechte, Vertreterbestellung, Beistandschaft
-
----
-
-### 3. BGE 126 III 49 – Kinderunterhaltsvertrag
-
-Ein Kinderunterhaltsvertrag bedarf der Genehmigung durch die Kindesschutzbehörde, wenn er von einem handlungsunfähigen Elternteil geschlossen wird. Art. 19 ZGB sichert die Zustimmung des gesetzlichen Vertreters.
-
-**Schlagworte:** Unterhaltsvertrag, Genehmigung, Kindesschutz
+### [BGE 118 II 401](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=118_II_401), E. 3b
+- **Thema**: Geringfügige Alltagsgeschäfte
+- **Kernaussage**: Die Geringfügigkeit von Alltagsgeschäften im Sinne von Art. 19 Abs. 2 ZGB wird an den Verhältnissen der betroffenen Person gemessen. Ein Minderjähriger kann für einfache Alltagsgeschäfte urteilsfähig sein, nicht aber für komplexe Verträge.
+- **Einschlägig für**: Art. 19 Abs. 2 ZGB (Alltagsgeschäfte)
 
 ---
 
-### 4. BGE 90 II 9 – Relativer Urteilsfähigkeitsbegriff
+## Weitere Bundesgerichtsentscheide
 
-Ein 12-jähriger Schädiger kann urteilsfähig im Sinne von Art. 19 Abs. 3 ZGB sein und damit deliktsfähig sein, auch wenn er handlungsunfähig ist. Der Urteilsfähigkeitsbegriff ist relativ und beurteilt sich nach der konkreten Handlung.
+### [BGE 112 IV 9](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=112_IV_9), E. 2
+- **Thema**: Höchstpersönliche Rechte
+- **Kernaussage**: Urteilsfähige Beistandschaftsunterstellte können bei höchstpersönlichen Rechten selbst einen Vertreter bestellen und auf diesen verzichten. Höchstpersönliche Rechte umfassen Persönlichkeitsrechte, Vaterschaftsklagen und andere intim verbundene Rechte.
 
-**Schlagworte:** Deliktsfähigkeit, 12-jähriger, relativer Begriff
+---
+
+*Letzte Aktualisierung: 2026-06-07*
