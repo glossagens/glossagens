@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 335 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Wichtige Entscheide zu Art. 335 OR – Kündigung des unbefristeten Arbeitsverhältnisses"
 tags: ["OR", "Arbeitsrecht", "Kündigung", "Begründungspflicht", "Gestaltungsrecht"]
 agent_verified: true
