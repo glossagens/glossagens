@@ -33,8 +33,9 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 220](art-220/) | Widerhandlung gegen das Kriegsmaterialgesetz (Vergehen) |
 | [Art. 223](art-223/) | Brandstiftung |
 | [Art. 239](art-239/) | Störung des Betriebes öffentlicher Verkehrsanstalten |
+| [Art. 158](art-158/) | Betrug |
 | [Art. 251](art-251/) | Urkundenfälschung |
-| [Art. 259](art-259/) | Betrug |
+| [Art. 259](art-259/) | Öffentliche Aufforderung zu Verbrechen |
 | [Art. 303](art-303/) | Drohung |
 | [Art. 305bis](art-305bis/) | Geldwäscherei |
 | [Art. 305ter](art-305ter/) | Mangelnde Sorgfalt bei Finanzgeschäften |

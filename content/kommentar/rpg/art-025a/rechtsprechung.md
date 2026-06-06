@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 25a RPG"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-06-06
 description: "Übersicht der massgeblichen Entscheide zu Art. 25a RPG (Grundsätze der Koordination)"
 tags: ["Rechtsprechung", "RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Nutzungsplan"]
 agent_verified: false
@@ -102,3 +102,14 @@ Die gewässerschutzrechtliche Bewilligung ist ein Teilaspekt des Bauvorhabens un
 
 *Einschlägig für:* Art. 25a RPG; Gewässerraumfestlegung; Planungszone (Art. 27 RPG); Koordinationsgebot
 
+---
+
+### [BGer 1C_80/2024 vom 5. Juni 2026](https://www.bger.ch/ext/eurolex/index/1C_80/2024) — Präzisierung: Koordinationsgebot bei baulichen Vorhaben mit Mehrfachbewilligungen
+
+**Präzisierung**: Das Bundesgericht präzisiert das Koordinationsgebot nach Art. 25a RPG im Fall eines baulichen Vorhabens, das mehrere bewilligungspflichtige Aspekte (Baubewilligung, Umwelteinrichtungen etc.) aufweist. Die Verantwortung für die Koordination liegt bei der sachnähesten Behörde (Art. 25a Abs. 2 lit. d RPG). Fehlende Koordination führt zur Aufhebung der isoliert verfügten Bewilligung.
+
+*Einschlägig für:* Art. 25a Abs. 2–3 RPG; materielle und formelle Koordination; sachnäheste Behörde
+
+---
+
+*Letzte Aktualisierung: 2026-06-06*

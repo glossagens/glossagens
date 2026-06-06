@@ -2,7 +2,7 @@
 title: "Art. 25a — Grundsätze der Koordination"
 weight: 25
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-06-06
 description: "Kommentar zu Art. 25a RPG: Grundsätze der Koordination bei Verfügungen mehrerer Behörden, Vermeidung von Widersprüchen, gemeinsame Auflage und Eröffnung"
 tags: ["RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Bauplanungsrecht", "Verfahrenskoordinierung"]
 agent_verified: true

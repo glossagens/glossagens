@@ -21,6 +21,8 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 9](art-009/) | Aktenmässigkeit |
 | [Art. 10](art-010/) | Good Faith |
 | [Art. 11](art-011/) | Strafprozessuale Pflichten |
+| [Art. 59](art-059/) | Beschleunigungsgebot |
+| [Art. 115](art-115/) | Privatklägerschaft |
 | [Art. 107](art-107/) | Zuständigkeit zur Strafverfolgung |
 | [Art. 130](art-130/) | Strafbefehlsverfahren |
 | [Art. 135](art-135/) | Bestellung und Vergütung der amtlichen Verteidigung |
