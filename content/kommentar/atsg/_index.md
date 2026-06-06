@@ -12,6 +12,7 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 |---------|-------|
 | [Art. 1](art-001/) | Zweck und Gegenstand |
 | [Art. 6](art-006/) | Arbeitsunfähigkeit |
+| [Art. 8](art-008/) | Invalidität |
 | [Art. 9](art-009/) | Hilflosigkeit |
 | [Art. 16](art-016/) | Grad der Invalidität / Einkommensvergleich |
 | [Art. 17](art-017/) | Rentenrevision |
