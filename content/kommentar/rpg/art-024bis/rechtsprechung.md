@@ -82,4 +82,12 @@ Zurück zum Kommentar: [Art. 24bis RPG — Antennenanlagen](./)
 
 ---
 
+### [BGer 1C_295/2026 vom 29. Mai 2026](https://www.bger.ch/ext/eurolex/index/1C_295/2026)
+
+- **Thema**: Erste Anwendung von Art. 24bis Abs. 3 RPG auf Mobilfunk-Erweiterungen; Anpassung bestehender Antennenanlage
+- **Kernaussage**: Das Bundesgericht wendet Art. 24bis Abs. 3 RPG erstmals auf den Fall einer Erweiterung einer bestehenden Mobilfunkanlage an. Die Anpassung bestehender Antennenanlagen an den technischen Fortschritt ist nach der neuen Norm zulässig, wenn die Immissionsgrenzwerte eingehalten werden und der Charakter der Umgebung nicht beeinträchtigt wird. Die Norm ist auch auf Baubewilligungsverfahren anwendbar, die vor dem Inkrafttreten der Änderung hängig waren, sofern sie eine Lockerung des Bewilligungsregimes darstellt.
+- **Einschlägig für**: Abs. 3 (Anpassung an technischen Fortschritt), Intertemporalrecht
+
+---
+
 *Letzte Aktualisierung: 2026-06-06*

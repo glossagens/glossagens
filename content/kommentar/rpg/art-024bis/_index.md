@@ -2,7 +2,7 @@
 title: "Art. 24bis RPG — Antennenanlagen"
 weight: 242
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-07
 description: "Kommentar zu Art. 24bis RPG — Antennenanlagen ausserhalb der Bauzonen"
 tags: ["RPG", "Raumplanung", "Antennenanlagen", "Mobilfunk", "Bauplanungsrecht", "NIS", "Nichtbaugebiet"]
 agent_verified: true
@@ -76,9 +76,11 @@ Die **antizipierte Beweiswürdigung** ist bei NIS-Grenzwerten anwendbar: Die Beh
 
 Die Anpassung darf den **Charakter der Umgebung nicht beeinträchtigen**. Dies ist eine unbestimmte Rechtsbegriff, der im Einzelfall durch Interessenabwägung zu konkretisieren ist. Massgeblich ist, ob die Anpassung das Landschaftsbild stärker verändert als die bestehende Anlage. Eine blosse Erhöhung des Mastes oder die Hinzufügung weiterer Antennenflashelements ist in der Regel zulässig, wenn das Erscheinungsbild nicht massgeblich verändert wird.
 
-#### 4. Intertemporalrechtliche Anwendung ([BGer 1C_371/2024])
+#### 4. Intertemporalrechtliche Anwendung ([BGer 1C_371/2024]; [BGer 1C_295/2026])
 
 Das Bundesgericht hat in [BGer 1C_371/2024] erstmals entschieden, dass **Art. 24bis Abs. 3 RPG (nF) unmittelbar anwendbar** ist, auch wenn die Baubewilligung vor dem Inkrafttreten der Norm erteilt wurde. Im konkreten Fall betraf eine Baubewilligung aus dem Jahr 2021 den Umbau einer Mobilfunkanlage in der Landwirtschaftszone. Das Bundesgericht stellte fest, dass die intertemporalrechtliche Frage der unmittelbaren Anwendung der neuen Norm zugunsten des Betreibers zu entscheiden ist, da die Norm eine Lockerung des Bewilligungsregimes darstellt und keine verschärfenden Anforderungen einführt.
+
+In [BGer 1C_295/2026] hat das Bundesgericht diese Praxis bestätigt und erstmals ausdrücklich auf den Fall einer **Erweiterung einer bestehenden Mobilfunkanlage** angewendet. Die Norm findet auch auf vor dem Inkrafttreten hängige Baubewilligungsverfahren Anwendung, soweit sie eine Lockerung des Bewilligungsregimes darstellt.
 
 ### V. Verhältnis zu Art. 24 RPG
 
