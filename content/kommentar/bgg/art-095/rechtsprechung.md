@@ -3,7 +3,7 @@ title: "Rechtsprechung zu Art. 95 BGG — Beschwerdegründe"
 weight: 99
 date: 2026-05-23
 lastmod: 2026-06-06
-description: "Übersicht der wichtigen Entscheide zu Art. 95 BGG: Bundesrechtsverletzung, Beweiswürdigung, Willkür, Völkerrechtsverletzung, kantonale Verfassungsrechte und interkantonales Recht."
+description: "Übersicht der wichtigen Entscheide zu Art. 95 BGG: Bundesrechtsverletzung, Beweiswürdigung, Willkür, Völkerrechtsverletzung, kantonale Verfassungsrechte, interkantonales Recht und Rügeprinzip."
 tags: ["Rechtsprechung", "BGG", "Beschwerdegründe", "Bundesrechtsverletzung", "Willkür", "Beweiswürdigung"]
 agent_verified: false
 ---
