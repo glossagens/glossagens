@@ -18,8 +18,9 @@ Zurück zum Kommentar: [Art. 83 BGG — Ausnahmen von der Beschwerde](./)
 || [BGE 137 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_313) | 2011 | Freihandvergabe: Legitimation zur Beschwerde an das Bundesverwaltungsgericht; Rechtsfrage von grundsätzlicher Bedeutung nach Art. 83 lit. f Ziff. 1 BGG | E. 3 |
 || [BGE 141 II 14](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_II_14) | 2014 | Voraussetzungen für die Beschwerdelegitimation bei öffentlichen Beschaffungen (Monte-Ceneri-Basistunnel); Eignungskriterien und Auslegung | E. 1.1–1.5 |
 || [BGE 140 I 285](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_285) | 2014 | Beschwerdelegitimation einer Gemeinde bei öffentlichen Beschaffungen | E. 3 |
-|| [BGE 146 II 276](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_276) | 2020 | Rechtsfrage von grundsätzlicher Bedeutung nach Art. 83 lit. f Ziff. 1 BGG; Wirtschaftlichkeitsgrundsatz; Wirkung der Aufhebung der Zuschlagsverfügung | E. 2ff. |
-|| [BGer 2C_384/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_384_2025) | 2026 | Restriktive Zulassung nach Art. 83 lit. f BGG; Baugenehmigung als Eignungskriterium ändert nichts an Beschwerdeunzulässigkeit | E. 2 |
+| [BGE 146 II 276](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_276) | 2020 | Rechtsfrage von grundsätzlicher Bedeutung nach Art. 83 lit. f Ziff. 1 BGG; Wirtschaftlichkeitsgrundsatz; Wirkung der Aufhebung der Zuschlagsverfügung | E. 2ff. |
+| [BGer 2C_384/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_384_2025) | 2026 | Restriktive Zulassung nach Art. 83 lit. f BGG; Baugenehmigung als Eignungskriterium ändert nichts an Beschwerdeunzulässigkeit | E. 2 |
+| [BGer 2C_87/2026](https://www.bger.ch/ext/eurolex/index/2C_87/2026) | 2026 | Bestätigung der restriktiven Zulassungspraxis nach Art. 83 lit. f BGG bei öffentlichen Beschaffungen | E. 2–3 |
 
 ## II. Öffentlich-rechtliche Arbeitsverhältnisse (lit. g)
 

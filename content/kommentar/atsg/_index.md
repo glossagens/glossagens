@@ -16,6 +16,7 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 | [Art. 9](art-009/) | Hilflosigkeit |
 | [Art. 16](art-016/) | Grad der Invalidität / Einkommensvergleich |
 | [Art. 17](art-017/) | Rentenrevision |
+| [Art. 40](art-040/) | Revision |
 | [Art. 43](art-043/) | Abklärung / Beweiswürdigung |
 | [Art. 49](art-049/) | Verfügung |
 | [Art. 56](art-056/) | Beschwerde gegen Einspracheentscheide |
