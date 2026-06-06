@@ -10,6 +10,7 @@ Kommentar zum [Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und 
 
 | Artikel | Thema |
 |---------|-------|
-|| [Art. 10](art-010/) | Weg- und Ausweisung |
-|| [Art. 42](art-042/) | Familienangehörige von Schweizerinnen und Schweizern |
-|| [Art. 50](art-050/) | Nacheheliches Aufenthaltsrecht |
+| [Art. 4](art-004/) | Gleichbehandlung |
+| [Art. 10](art-010/) | Weg- und Ausweisung |
+| [Art. 42](art-042/) | Familienangehörige von Schweizerinnen und Schweizern |
+| [Art. 50](art-050/) | Nacheheliches Aufenthaltsrecht |

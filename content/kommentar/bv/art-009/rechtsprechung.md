@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 9 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-06
 description: "Wichtige Entscheide zu Art. 9 BV – Willkürverbot und Treu und Glauben"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte"]
 agent_verified: true
@@ -107,3 +107,43 @@ agent_verified: true
 **KERNAUSSAGE:** Ein psychiatrisches Gutachten ohne persönliche Untersuchung des Betroffenen ist nur ausnahmsweise zulässig. Willkür liegt vor, wenn ein Aktengutachten unzulässigerweise an die Stelle eines persönlichen Gutachtens tritt.
 
 **EINSCHLÄGIG FÜR:** Willkürverbot bei Beweiswürdigung (Sachverständigenbeweis)
+
+---
+
+### [BGE 145 I 73](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_145_I_73) — Rechtsfolgen eines Willkürverstosses
+
+**THEMA:** Rechtsfolgen / Aufhebung
+
+**KERNAUSSAGE:** Ein Willkürverstoss führt zur Aufhebung des angefochtenen Entscheids. Das Bundesgericht übt keine Kognitionsfunktion als Sachrichter; es setzt nicht den «richtigen» Entscheid anstelle des willkürlichen, sondern hebt diesen auf und weist die Vorinstanz an, einen neuen Entscheid zu fällen.
+
+**EINSCHLÄGIG FÜR:** Rechtsfolgen des Willkürverbots
+
+---
+
+### [BGE 140 I 285](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_140_I_285) — Willkür im Verwaltungsrecht (Ermessensmissbrauch)
+
+**THEMA:** Ermessensüberschreitung / Ermessensmissbrauch
+
+**KERNAUSSAGE:** Im Verwaltungsrecht unterscheidet das Bundesgericht zwischen Ermessensüberschreitung und Ermessensmissbrauch. Willkür bei der Verwaltung liegt vor, wenn die Behörde ihr Ermessen in krasser Weise zweckentfremdet oder offensichtlich unhaltbar ausübt.
+
+**EINSCHLÄGIG FÜR:** Willkürverbot im Verwaltungsrecht / Ermessen
+
+---
+
+### [BGE 148 V 390](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_148_V_390) — Vertrauensschutz im Sozialversicherungsrecht
+
+**THEMA:** Vertrauensschutz / konsistente Praxis
+
+**KERNAUSSAGE:** Hat eine Versicherung eine bestimmte Rechtsauffassung konsistent vertreten und hat der Versicherte darauf vertraut, so kann die Versicherung nicht einseitig von dieser Praxis abweichen, ohne Übergangsregelung oder Vertrauensschutz zu gewähren.
+
+**EINSCHLÄGIG FÜR:** Treu und Glauben / Vertrauensschutz (Sozialversicherungsrecht)
+
+---
+
+### [BGE 147 II 161](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_147_II_161) — Vertrauensschutz im Steuerrecht
+
+**THEMA:** Treu und Glauben / Steuerrecht / Zusicherung
+
+**KERNAUSSAGE:** Im Steuerrecht gilt der Grundsatz, dass die Steuerbehörde an ihre Zusicherungen und Auskünfte gebunden ist, sofern der Steuerpflichtige darauf vertraut hat und vertrauen durfte. Ein widerrufliches Stillhalteversprechen kann einen Vertrauenstatbestand schaffen.
+
+**EINSCHLÄGIG FÜR:** Treu und Glauben / Vertrauensschutz (Steuerrecht)
