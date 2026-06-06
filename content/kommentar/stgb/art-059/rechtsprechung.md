@@ -78,4 +78,28 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-05*
+### [BGer 7B_1347/2025 vom 28. April 2026](https://www.bger.ch/ext/eurolex/index/7B_1347/2025) — Lex specialis-Verhältnis Art. 59 Abs. 3 zu Art. 58 Abs. 2 StGB
+
+**Bestätigung**: Art. 59 Abs. 3 StGB ist lex specialis zu Art. 58 Abs. 2 StGB. Bei der Anordnung einer therapeutischen Massnahme ( stationäre Massnahme) geht Art. 59 Abs. 3 StGB als Spezialnorm dem allgemeinen Strafanstaltvollzug nach Art. 58 Abs. 2 StGB vor. Der Strafanstaltvollzug mit entsprechendem Fachpersonal ist EMRK-konform.
+
+**Einschlägig für**: Abs. 3 (Vollzug der Massnahme), Art. 58 Abs. 2 StGB (lex generalis)
+
+---
+
+### [BGer 7B_1360/2025 vom 15. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_1360/2025) — Bestätigung: Art. 59 Abs. 3 StGB geht als lex specialis vor
+
+**Bestätigung**: Bestätigt die ständige Rechtsprechung, dass Art. 59 Abs. 3 StGB als lex specialis zu Art. 58 Abs. 2 StGB den Vorrang hat, wenn eine stationäre therapeutische Massnahme angeordnet wird. Der Strafanstaltvollzug mit entsprechendem Fachpersonal genügt den Anforderungen der EMRK.
+
+**Einschlägig für**: Abs. 3 (Vollzug), Art. 58 Abs. 2 StGB
+
+---
+
+### [BGer 7B_1050/2024 vom 15. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_1050/2024) — Strafanstaltvollzug und EMRK-Konformität
+
+**Bestätigung**: Der Strafanstaltvollzug mit Fachpersonal unter Art. 59 Abs. 3 StGB ist EMRK-konform, insbesondere im Hinblick auf Art. 3 EMRK (Verbot unmenschlicher Behandlung) und Art. 5 EMRK (Recht auf Freiheit). Die Massnahme dient therapeutischen Zwecken und ist verhältnismässig.
+
+**Einschlägig für**: Abs. 3 (EMRK-Konformität), Art. 3 und 5 EMRK
+
+---
+
+*Letzte Aktualisierung: 2026-06-06*

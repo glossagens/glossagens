@@ -75,4 +75,12 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 05.06.2026*
+### [BGer 7B_322/2026 vom 21. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_322/2026) — Präzisierung: Ungünstiges Gutachten im Vorsorgverfahren begründet keine unmittelbare Rechtsverletzung
+
+**Präzisierung**: Ein ungünstiges Gutachten im Vorsorgverfahren (Art. 307 Abs. 2 StPO) begründet für sich allein keine unmittelbare Rechtsverletzung im Sinne von Art. 307 Abs. 1 StGB. Die blosse Tatsache, dass ein Gutachten zum Nachteil einer Partei ausfällt, genügt nicht, um den Tatbestand der falschen Begutachtung zu erfüllen — es bedarf eines qualifizierten Vorwurfs wie bewusste Falschbegutachtung oder wesentliche Verfahrensfehler.
+
+**Einschlägig für**: Art. 307 Abs. 1 StGB (Tatbestandsmerkmal: Falschbegutachtung), Abs. 2 StPO (Vorsorgverfahren)
+
+---
+
+*Letzte Aktualisierung: 2026-06-06*

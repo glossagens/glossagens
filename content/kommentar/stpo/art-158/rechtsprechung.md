@@ -246,4 +246,14 @@ Wenn eine Einvernahme ohne die erforderlichen Hinweise nach Art. 158 StPO durchg
 
 ---
 
-*Letzte Aktualisierung: 2026-06-05*
+### [BGer 6B_1205/2023 vom 30. April 2026](https://www.bger.ch/ext/eurolex/index/6B_1205/2023) — Stichwortartige Rechtsbelehrung und ergänzende Zeugenaussage
+
+**Präzisierung**: Eine stichwortartige Rechtsbelehrung gemäss Art. 158 Abs. 1 StPO (vorgedruckte Passage mit Stichworten zu Aussageverweigerungsrecht, Verteidigung und Übersetzung) kann durch die ergänzende Aussage des einvernehmenden Beamten rechtsgenüglich sein. Das Bundesgericht lässt offen, ob das Einvernahmeprotokoll allein — ohne Zeugenaussage — den Beweis der rechtsgenüglichen Belehrung erbringen kann, und mahnt zur ausführlicheren Protokollierung.
+
+Der Vorhalt des Tatvorwurfs muss zu Beginn der Einvernahme erfolgen; ein lateraler Hinweis genügt nicht (E. 2.1). Das blosse Verlesen der Rechte genügt bei Rechtsunkundigen nicht. Eine Täuschung im Sinne von Art. 140 Abs. 1 StPO liegt nicht vor, wenn der einvernehmende Beamte telefonisch allgemein auf ein Radarfoto hinweist, ohne explizit zu behaupten, dass der Beschuldigte darauf erkennbar sei (E. 2.2 f.). — 5er-Besetzung.
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a–d (Belehrungspflicht), Abs. 2 (Unverwertbarkeit)
+
+---
+
+*Letzte Aktualisierung: 2026-06-06*

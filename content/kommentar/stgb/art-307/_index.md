@@ -2,7 +2,7 @@
 title: "Art. 307 — Falschaussage"
 weight: 307
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: 2026-06-06
 description: "Kommentar zu Art. 307 StGB – Falschaussage / Faux témoignage"
 tags: ["StGB", "Strafrecht", "Falschaussage", "falsches Zeugnis", "falsches Gutachten", "Rechtspflegedelnikt", "Privatklägerschaft"]
 agent_verified: true

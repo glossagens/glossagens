@@ -2,7 +2,7 @@
 title: "Art. 158 StPO — Einvernahme der beschuldigten Person"
 weight: 158
 date: 2026-05-17
-lastmod: 2026-06-05
+lastmod: 2026-06-06
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
 agent_verified: true
