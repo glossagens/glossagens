@@ -16,15 +16,17 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 15](art-015/) | Notwehr |
 | [Art. 16](art-016/) | Notstand |
 | [Art. 30](art-030/) | Tatmehrheit und Tateinheit |
-|| [Art. 47](art-047/) | Grundsätze der Strafzumessung |
-|| [Art. 58](art-058/) | Einrichtungen für den Vollzug |
-|| [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
+| [Art. 47](art-047/) | Grundsätze der Strafzumessung |
+| [Art. 58](art-058/) | Einrichtungen für den Vollzug |
+| [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
 | [Art. 66a](art-066a/) | Einziehung |
 | [Art. 77b](art-077b/) | Veröffentlichung des Urteils |
+| [Art. 90](art-090/) | Grobe Verletzung der Verkehrsregeln |
 | [Art. 117](art-117/) | Totschlag |
 | [Art. 122](art-122/) | Schwere Körperverletzung |
 | [Art. 123](art-123/) | Leichte Körperverletzung |
 | [Art. 129](art-129/) | Aussetzung |
+| [Art. 158](art-158/) | Betrug |
 | [Art. 174](art-174/) | Schiedsrichterbestechung |
 | [Art. 182](art-182/) | Hooliganismus |
 | [Art. 186](art-186/) | Hausfriedensbruch |
@@ -33,7 +35,6 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 220](art-220/) | Widerhandlung gegen das Kriegsmaterialgesetz (Vergehen) |
 | [Art. 223](art-223/) | Brandstiftung |
 | [Art. 239](art-239/) | Störung des Betriebes öffentlicher Verkehrsanstalten |
-| [Art. 158](art-158/) | Betrug |
 | [Art. 251](art-251/) | Urkundenfälschung |
 | [Art. 259](art-259/) | Öffentliche Aufforderung zu Verbrechen |
 | [Art. 303](art-303/) | Drohung |

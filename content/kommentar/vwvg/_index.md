@@ -15,6 +15,7 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 | [Art. 12](art-012/) | Untersuchungsmaxime |
 | [Art. 19](art-019/) | Beweisverfahren (BZP) |
 | [Art. 24](art-024/) | Fristwiederherstellung |
+| [Art. 25](art-025/) | Rücknahme und Revision von Verfügungen |
 | [Art. 28](art-028/) | Rechtliches Gehör bei Aktenverweigerung |
 | [Art. 32](art-032/) | Würdigung der Parteivorbringen |
 | [Art. 33](art-033/) | Beweisabnahme |
