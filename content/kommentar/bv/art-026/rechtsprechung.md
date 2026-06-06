@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 26 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 26 BV – Eigentumsgarantie"
 tags: ["Rechtsprechung", "BV", "Eigentum", "Grundrechte"]
 agent_verified: false
