@@ -10,8 +10,9 @@ Kommentar zum [Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Stra
 
 | Artikel | Thema |
 |---------|-------|
-|| [Art. 1](art-001/) | Grundsätze — Opferbegriff, Angehörigenstellung, Unabhängigkeit von Täterverschulden |
-|| [Art. 2](art-002/) | Beratungshilfe |
-|| [Art. 3](art-003/) | Geltungsbereich: Inland- und Auslandstat |
-|| [Art. 25](art-025/) | Verwirkungsfristen |
-|| [Art. 48](art-048/) | Übergangsbestimmungen |
+| [Art. 1](art-001/) | Grundsätze — Opferbegriff, Angehörigenstellung, Unabhängigkeit von Täterverschulden |
+| [Art. 2](art-002/) | Beratungshilfe |
+| [Art. 3](art-003/) | Geltungsbereich: Inland- und Auslandstat |
+| [Art. 8](art-008/) | Persönliche Beratung |
+| [Art. 25](art-025/) | Verwirkungsfristen |
+| [Art. 48](art-048/) | Übergangsbestimmungen |
