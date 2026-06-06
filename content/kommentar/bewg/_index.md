@@ -8,5 +8,6 @@ Kommentar zum [Bundesgesetz über den Erwerb von Grundstücken durch Personen im
 
 | Artikel | Thema |
 |---------|-------|
-| [Art. 2](art-002/) | Bewilligungspflicht |
-| [Art. 7](art-007/) | Übrige Ausnahmen von der Bewilligungspflicht |
+|| [Art. 2](art-002/) | Bewilligungspflicht |
+|| [Art. 3](art-003/) | Bundesrecht und kantonales Recht |
+|| [Art. 7](art-007/) | Übrige Ausnahmen von der Bewilligungspflicht | |
