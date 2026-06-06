@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 269 OR"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 269 OR – Missbräuchlicher Mietzins"
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Nettoertragsmethode"]
 agent_verified: false
