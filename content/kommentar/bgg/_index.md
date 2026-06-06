@@ -13,6 +13,7 @@ Kommentar zum [Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (BGG, SR 1
 | [Art. 74](art-074/) | Beschwerde in Zivilsachen / Streitwertgrenze |
 | [Art. 75](art-075/) | Beschwerdelegitimation |
 | [Art. 78](art-078/) | Beschwerde in Zivilsachen |
+| [Art. 81](art-081/) | Beschwerdelegitimation (Strafsachen) |
 | [Art. 83](art-083/) | Ausnahmen von der Beschwerde |
 | [Art. 89](art-089/) | Beschwerderecht in öffentlich-rechtlichen Angelegenheiten |
 | [Art. 90](art-090/) | Endentscheide |
