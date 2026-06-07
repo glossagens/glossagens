@@ -1,112 +1,64 @@
 ---
-title: "Art. 158 — Betrug"
+title: "Art. 158 — Untreue"
 weight: 158
-date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 158 StGB – Betrug: Vorspiegelung oder Unterdrückung von Tatsachen, Schädigungsabsicht, Bereicherungsabsicht"
-tags: ["StGB", "Betrug", "Vorspiegelung", "Vermögensdelikt", "Bereicherungsabsicht"]
+date: 2026-06-07
+lastmod: 2026-06-07
+description: "Kommentar zu Art. 158 StGB – Untreue: Verletzung von Vermögensverwaltungspflichten, Missbrauch von Vertretungsbefugnissen"
+tags: ["StGB", "Untreue", "Vermögensverwaltung", "Vertrauensmissbrauch", "Treuhand"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 158 Betrug**
+> **Art. 158 Untreue**
 >
-> 1 Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, durch Vorspiegelung oder Unterdrückung von Tatsachen einen andern am Vermögen schädigt oder gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+> 1. Wer aufgrund des Gesetzes, eines behördlichen Auftrages oder eines Rechtsgeschäfts damit betraut ist, Vermögen eines andern zu verwalten oder eine solche Vermögensverwaltung zu beaufsichtigen, und dabei unter Verletzung seiner Pflichten bewirkt oder zulässt, dass der andere am Vermögen geschädigt wird, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Wer als Geschäftsführer ohne Auftrag gleich handelt, wird mit der gleichen Strafe belegt. Handelt der Täter in der Absicht, sich oder einen andern unrechtmässig zu bereichern, so wird er mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. Fassung des dritten Abs. gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).
 >
-> 2 Wenn der Täter gewerbsmässig handelt, wird er mit Freiheitsstrafe bis zu zehn Jahren oder nicht unter einem Jahr Freiheitsstrafe bestraft.
+> 2. Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, die ihm durch das Gesetz, einen behördlichen Auftrag oder ein Rechtsgeschäft eingeräumte Ermächtigung, jemanden zu vertreten, missbraucht und dadurch den Vertretenen am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> 3 Der Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
+> 3. Die ungetreue Geschäftsbesorgung zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
 
 ## Kommentierung
 
 ### I. Bedeutung und Einordnung
 
-Art. 158 StGB stellt den **Betrug** als klassisches Vermögensdelikt unter Strafe. Gemäss dem Bundesamt für Statistik zählt Betrug zu den am häufigsten verfolgten Straftaten in der Schweiz — die Zitatdichte vor Bundesgericht ist mit über 5'000 Nennungen in Leitentscheiden enorm. Die Norm schützt das Vermögen vor täuschungsbedingter Verfügungen und bildet zusammen mit Art. 146 StGB (Betrügerischer Missbrauch einer Datenverarbeitungsanlage) und Art. 152 StGB (Wucher) den Kernbestand der betrugsrelevanten Strafbestimmungen.
+Art. 158 StGB sanktioniert die **Untreue** als Vertrauensbruchstatbestand. Im Gegensatz zum Betrug (Art. 146 StGB), der auf Täuschung beruht, steht bei der Untreue die **Pflichtverletzung** in einer Vermögensbetreuung im Vordergrund. Die Norm schützt das Vermögen vor missträuchtischer Verwaltung durch Personen, die aufgrund einer rechtlichen Grundlage dazu betraut sind.
 
-### II. Tatbestandsmerkmale
+### II. Tatbestandsmerkmale (Abs. 1)
 
-#### 1. Objektiver Tatbestand
+#### 1. Betrauung mit Vermögensverwaltung
 
-**a) Vorspiegelung von Tatsachen**
+Der Täter muss aufgrund des Gesetzes, eines behördlichen Auftrages oder eines Rechtsgeschäfts mit der Verwaltung oder Aufsicht über fremdes Vermögen betraut sein. Diese Betrauung begründet eine **Vermögensbindungspflicht**.
 
-Die Vorspiegelung (simulatio) besteht in der Behauptung nicht vorhandener Tatsachen. Die Täuschungshandlung kann durch aktives Tun (affirmative Täuschung) oder durch konkludentes Verhalten erfolgen. Massgeblich ist, ob der Täter einen unrichtigen Eindruck vom Vorliegen oder Nichtvorliegen einer Tatsache erzeugt hat.
+#### 2. Pflichtverletzung
 
-- **Konkludente Täuschung**: Auch das Verhalten des Täters kann eine Täuschung darstellen, ohne dass es einer ausdrücklichen Behauptung bedarf (BGE 147 IV 153 E. 2.1).
-- **Schweigen als Täuschung**: Ein bloses Schweigen genügt grundsätzlich nicht, es sei denn, es besteht eine Aufklärungspflicht (BGE 146 IV 239 E. 3.2).
+Der Täter muss seine Verwaltungspflichten verletzen. Massgeblich sind diejenigen Pflichten, die sich aus dem Betreuungsverhältnis ergeben.
 
-**b) Unterdrückung von Tatsachen**
+#### 3. Vermögensschaden
 
-Die Unterdrückung (suppressio) besteht im Verschweigen vorhandener Tatsachen. Voraussetzung ist eine **Offenbarungspflicht**, die sich aus Gesetz, Vertrag, Treu und Glauben oder einer besonderen Vertrauensstellung ergeben kann (BGE 148 IV 73 E. 4.2).
+Die Pflichtverletzung muss zu einer Schädigung des Vermögens des Betreuten führen oder diese zulassen.
 
-**c) Vermögensschädigung oder -gefährdung**
+#### 4. Subjektiver Tatbestand
 
-Das Opfer muss eine Vermögensverfügung vornehmen, die zu einem Vermögensschaden führt. Ein Schaden liegt vor, wenn die Vermögensminderung nicht durch einen entsprechenden Gegenwert ausglichen wird. Die Gefährdung genügt als Alternative zum effektiven Schaden — es muss eine konkrete und unmittelbare Gefahr bestehen.
+- **Grundtatbestand**: Vorsatz hinsichtlich Pflichtverletzung und Schädigung.
+- **Qualifizierung**: Absicht der unrechtmässigen Bereicherung (wie beim Betrug nach Art. 146 StGB).
 
-**d) Kausalität**
+### III. Missbrauch der Vertretungsbefugnis (Abs. 2)
 
-Die Täuschungshandlung muss für die Vermögensverfügung **kausal** sein. Das Opfer muss durch die Täuschung zur Verfügung motiviert worden sein (Motivationszusammenhang). Der Massstab ist objektiv: Wäre das Opfer bei Kenntnis der wahren Umstände nicht verfügungsbereit gewesen, liegt Kausalität nahe.
-
-#### 2. Subjektiver Tatbestand
-
-**a) Absicht der unrechtmässigen Bereicherung**
-
-Der Täter muss in der **Absicht** gehandelt haben, sich oder einen Dritten unrechtmässig zu bereichern. Diese Bereicherungsabsicht ist mehr als blosser Vorsatz — sie erfordert den Willen, einen Vermögensvorteil zu erlangen, auf den kein Anspruch besteht.
-
-- **Stoffgleichheit**: Der erstrebte Vorteil muss mit dem erlittenen Nachteil stoffgleich sein (BGE 146 IV 179 E. 2.3).
-- **Unrechtmässigkeit**: Die Bereicherung muss unrechtmässig sein, d.h. der Täter hat keinen rechtlichen Grund für den Vermögenserwerb.
-
-**b) Vorsatz**
-
-Der Täter muss hinsichtlich aller objektiven Tatbestandsmerkmale vorsätzlich handeln. Eventualvorsatz (dolus eventualis) genügt.
-
-### III. Qualifikation: Gewerbsmässiger Betrug (Abs. 2)
-
-Gewerbsmässigkeit liegt vor, wenn der Täter die Betrugshandlungen mit dem Willen wiederholt, sie als Einnahmequelle von einiger Dauer und Bedeutung zu benutzen (BGE 144 IV 244 E. 3.1). Einmalige Wiederholungsabsicht genügt nicht — erforderlich ist eine gewisse **Regelmässigkeit und Nachhaltigkeit** des Vorgehens.
+Abs. 2 erfasst den **Missbrauch von Vertretungsbefugnissen**. Wer aufgrund einer Ermächtigungsomeone vertritt und diese Ermächtigung zwecks unrechtmässiger Bereicherung missbraucht, wird gleich bestraft wie der ungetreue Vermögensverwalter mit Bereicherungsabsicht.
 
 ### IV. Antragsdelikt (Abs. 3)
 
-Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt (Art. 158 Abs. 3 i.V.m. Art. 36 StGB). Die Antragsfrist beträgt drei Monate (Art. 37 StGB).
+Untreue zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt (Art. 158 Abs. 3 i.V.m. Art. 36 StGB).
 
-### V. Abgrenzungen
+### V. Abgrenzung zu anderen Delikten
 
-**a) Betrug vs. Diebstahl (Art. 139 StGB)**
-
-Beim Diebstahl nimmt der Täter eine Sache ohne Einverständnis des Gewahrsaminhabers weg. Beim Betrug gibt das Opfer die Sache aufgrund der Täuschung freiwillig heraus — die Verfügung ist jedoch durch den Irrtum beeinträchtigt.
-
-**b) Betrug vs. Unterschlagung (Art. 138 StGB)**
-
-Die Unterschlagung setzt voraus, dass der Täter bereits im Besitz der Sache war und diese unrechtmässig an sich behält. Der Betrug erfordert demgegenüber, dass die Sache erst durch die Täuschung erlangt wird.
-
-**c) Betrug vs. Ergänzungsbetrug (Art. 146 StGB)**
-
-Art. 146 StGB (Betrügerischer Missbrauch einer Datenverarbeitungsanlage) ist ein Spezialfall des Betrugs, bei dem die Täuschung gegenüber einem Automaten oder einer Datenverarbeitungsanlage erfolgt. Entgegen der früheren Lehre ist Art. 146 StGB keine lex specialis, sondern ein **selbstständiges Delikt** mit eigenem Unrechtsgehalt.
-
-**d) Betrug vs. Wucher (Art. 152 StGB)**
-
-Wucher setzt ein Ausbeutungsverhältnis voraus (Notlage, Unerfahrenheit, Abhängigkeit), während Betrug auf Täuschung beruht. Beide Delikte können konkurrieren, wenn der Täter die Notlage des Opfers kennt und zusätzlich täuscht.
-
-**e) Gesellschaftsdelikte und Betrug**
-
-Bei Gesellschaftsdelikten ist nur die Gesellschaft selbst Geschädigte; ein Minderheitsaktionär hat in der Regel keine direkte Betroffenheit im Sinne von Art. 158 StGB (vgl. BGer 6B_1050/2024, Bestätigung der ständigen Praxis).
-
-### VI. Kasuistik
-
-**Anbahnungsbetrug**: Vorspiegelung von Investitionsmöglichkeiten mit überhöhten Renditeversprechen; der Täter hat von Anfang vor, die Einlagen nicht wie vereinbart zu investieren (BGE 148 IV 73).
-
-**Versicherungsbetrug**: Vortäuschung eines Versicherungsfalls oder Überhöhung des tatsächlichen Schadens; die Schadensmeldepflicht begründet eine Offenbarungspflicht bezüglich der wahren Schadenshöhe.
-
-**Identitätsbetrug**: Verwendung falscher Identität zur Erlangung von Leistungen oder zur Bestellung von Waren auf fremde Kosten; konkludente Täuschung über die Identität (vgl. BGE 147 IV 153 E. 2.2).
-
-**Subventionsbetrug**: Bezug von Subventionen durch Verschweigen subsventionsrelevanter Tatsachen oder durch Vorspiegelung nicht gegebener Voraussetzungen.
-
-### VII. Verwertungsverbot und Verfahren
-
-Ergänzend zu Art. 158 StGB sind die verfahrensrechtlichen Folgen zu beachten: Wird die Täuschung im Rahmen einer Beschuldigteneinvernahme durch die Polizei provoziert, können die gewonnenen Erkenntnisse einem Verwertungsverbot unterliegen (vgl. Art. 158 StPO zur Belehrungspflicht).
+- **Untreue vs. Betrug (Art. 146 StGB)**: Betrug erfordert Täuschung, Untreue beruht auf Pflichtverletzung in einem Betreuungsverhältnis.
+- **Untreue vs. Veruntreuung (Art. 138 StGB)**: Die Veruntreuung setzt bereits bestehenden Besitz voraus, die Untreue eine Betrauung mit Verwaltungsaufgaben.
+- **Untreue vs. ungetreue Geschäftsführung nach OR**: Im Aktienrecht bestehen speziellere Normen (z.B. Art. 161 OR).
 
 ## Literatur
 
 - Donatsch, Hans / Heimgartner, Stefan / Trechsel, Stefan, *Strafrecht Besonderer Teil*, 4. Aufl. 2020
 - Pieth, Mark / Heimgartner, Stefan, *Schweizerisches Strafgesetzbuch — Kommentar*, 2023
 - Rezzonico, Marco, *Grundriss des Strafrechts*, Bd. II, 12. Aufl. 2022
-- Stratenwerth, Günter / Wohlers, Wolfgang, *Strafrecht Besonderer Teil I*, 8. Aufl. 2019
