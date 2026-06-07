@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 310 StPO"
 weight: 310
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-06-07
 description: "Leading Cases und systematische Rechtsprechung zu Art. 310 StPO (Nichtanhandnahmeverfügung)"
 tags: ["Nichtanhandnahme", "Eindeutigkeitsgebot", "in dubio pro duriore", "Beschwerdelegitimation", "Privatklägerschaft", "Wiederaufnahme", "Strafantrag"]
 agent_verified: true
@@ -142,6 +142,16 @@ Auch im Falle einer Nichtanhandnahmeverfügung kommt eine Entschädigung für di
 
 Klärung der Rechtsstellung des Anwalts als Dritter im Sinne der ehreverletzenden Straftatbestände bei Nichtanhandnahme.
 → [Regeste](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_462)
+
+## Nichtanhandnahme nach Gutheissung
+
+### [BGer 7B_320/2025 vom 20. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_320/2025) — Gutheissung der Beschwerde gegen Nichtanhandnahme
+
+**Gutheissung**: Das Bundesgericht hebt die Nichtanhandnahmeverfügung der Staatsanwaltschaft auf und verweist die Sache zu neuer Beurteilung zurück. Die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO darf nur bei klarer Straflosigkeit oder offensichtlich fehlenden Prozessvoraussetzungen ergehen. Bestehen auch nur geringe Zweifel, ob ein Straftatbestand erfüllt ist, ist das Verfahren zwingend zu eröffnen (*in dubio pro duriore*).
+
+**Einschlägig für**: Abs. 1 lit. a (Eindeutigkeitsgebot), *in dubio pro duriore*
+
+---
 
 ## Top-Entscheide im Überblick
 

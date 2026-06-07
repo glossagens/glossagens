@@ -20,6 +20,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 47](art-047/) | Grundsätze der Strafzumessung |
 | [Art. 58](art-058/) | Einrichtungen für den Vollzug |
 | [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
+| [Art. 60](art-060/) | Verwahrung |
 | [Art. 66a](art-066a/) | Einziehung |
 | [Art. 77b](art-077b/) | Veröffentlichung des Urteils |
 | [Art. 90](art-090/) | Grobe Verletzung der Verkehrsregeln |

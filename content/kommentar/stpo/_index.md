@@ -24,6 +24,8 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 59](art-059/) | Beschleunigungsgebot |
 | [Art. 115](art-115/) | Privatklägerschaft |
 | [Art. 107](art-107/) | Zuständigkeit zur Strafverfolgung |
+| [Art. 108](art-108/) | Durchsuchung |
+| [Art. 109](art-109/) | Beschlagnahme |
 | [Art. 130](art-130/) | Strafbefehlsverfahren |
 | [Art. 135](art-135/) | Bestellung und Vergütung der amtlichen Verteidigung |
 | [Art. 139](art-139/) | Stellvertretende Beweiserhebung |

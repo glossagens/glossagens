@@ -2,7 +2,7 @@
 title: "Art. 310 StPO — Nichtanhandnahmeverfügung"
 weight: 310
 date: 2026-05-16
-lastmod: 2026-05-24
+lastmod: 2026-06-07
 description: "Kommentar zu Art. 310 StPO: Nichtanhandnahmeverfügung, Eindeutigkeitsgebot, Beschwerdelegitimation, Wiederaufnahme und Abgrenzung zur Einstellung."
 tags: ["Nichtanhandnahme", "Eindeutigkeitsgebot", "in dubio pro duriore", "Beschwerdelegitimation", "Privatklägerschaft", "Wiederaufnahme", "Einstellung", "Strafantrag"]
 agent_verified: true
