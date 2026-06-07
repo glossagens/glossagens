@@ -83,4 +83,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+### BGer 7B_1347/2025 vom 28.04.2026 — Privatklägerschaft bei falschem Gutachten (Art. 307 StGB)
+- **Thema**: Beschwerdelegitimation bei Strafanzeige wegen falschen Gutachtens; kein primärer Individualschutz
+- **Kernaussage**: Art. 307 StGB schützt primär das Kollektivinteresse an funktionierender Rechtspflege. Die materiellen Interessen der Prozessparteien werden nur mittelbar geschützt. Ein sekundärer Schutz der Verfahrensrechte im Beweisverfahren besteht, hilft hier aber nicht, da die vorsorgliche Beweisführung (Art. 158 ZPO) keine abschliessende materiell-rechtliche Beurteilung bewirkt — der Schaden bleibt hypothetisch. Beschwerde abgewiesen.
+- **Einschlägig für**: Abs. 1 — Schutzgut, Privatklägerschaft, Art. 81 BGG
+
+---
+
+*Letzte Aktualisierung: 2026-06-07*

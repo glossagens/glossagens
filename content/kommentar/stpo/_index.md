@@ -43,3 +43,4 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 310](art-310/) | Vorsorgliche Massnahmen zum Schutz von Kindern |
 | [Art. 344](art-344/) | Beschwerde gegen Entscheide im Hauptverfahren |
 | [Art. 394](art-394/) | Rechtsmittel im Strafverfahren |
+| [Art. 410](art-410/) | Zulässigkeit und Revisionsgründe |
