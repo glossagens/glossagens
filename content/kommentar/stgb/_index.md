@@ -27,9 +27,10 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 117](art-117/) | Totschlag |
 | [Art. 122](art-122/) | Schwere Körperverletzung |
 | [Art. 123](art-123/) | Leichte Körperverletzung |
-| [Art. 129](art-129/) | Aussetzung |
-| [Art. 158](art-158/) | Betrug |
-| [Art. 174](art-174/) | Schiedsrichterbestechung |
+|| [Art. 129](art-129/) | Aussetzung |
+|| [Art. 146](art-146/) | Betrug |
+|| [Art. 158](art-158/) | Untreue |
+|| [Art. 174](art-174/) | Schiedsrichterbestechung |
 | [Art. 182](art-182/) | Hooliganismus |
 | [Art. 186](art-186/) | Hausfriedensbruch |
 | [Art. 191](art-191/) | Schändung |
