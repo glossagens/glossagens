@@ -2,7 +2,7 @@
 title: "Art. 83 — Ausnahmen von der Beschwerde"
 weight: 83
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-07
 description: "Kommentar zu Art. 83 BGG: Exhaustiver Katalog der Beschwerdeunzulässigkeit — Prüfungsentscheide, Ausländerrecht, Asylrecht, öffentliche Beschaffungen, Arbeitsverhältnisse, Amtshilfe und weitere Ausnahmebereiche"
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht", "öffentliche Beschaffungen", "Amtshilfe"]
 agent_verified: true

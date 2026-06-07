@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 8 IVG"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 8 IVG — Invaliditätsbegriff, Einkommensvergleich, Eingliederungsmassnahmen"
 tags: ["Rechtsprechung", "IVG", "Invalidität", "Einkommensvergleich", "Eingliederung", "Rente"]
 agent_verified: false
@@ -61,4 +61,25 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+### BGE 137 V 210 — Umstellung von Taggeld auf Rente
+- **Thema**: Übergang von Arbeitsunfähigkeit zu Invalidität
+- **Kernaussage**: Der Übergang vom Bezug von Krankentaggeldern zur Invalidenrente setzt voraus, dass die Arbeitsunfähigkeit voraussichtlich dauernd ist und durch Eingliederungsmassnahmen nicht mehr behoben werden kann. Die IV-Stelle hat das Taggeldverfahren rechtzeitig ins Rentenverfahren überzuleiten.
+- **Einschlägig für**: Art. 8 Abs. 1 (Dauerhaftigkeit, Behebbarkeit)
+
+---
+
+### BGE 141 V 1 — Beweiswert medizinischer Berichte
+- **Thema**: Anforderungen an ärztliche Berichte im Invaliditätsverfahren
+- **Kernaussage**: Medizinische Berichte haben nur Beweiswert, wenn sie die funktionellen Auswirkungen der gesundheitlichen Beeinträchtigung auf die Erwerbsfähigkeit darlegen. Blosse Diagnosen ohne funktionelle Bewertung genügen für die Invaliditätsbemessung nicht.
+- **Einschlägig für**: Art. 8 Abs. 1 (Erwerbseinbusse), Art. 43 ATSG
+
+---
+
+### BGE 146 V 155 — Hochrechnung bei Teilzeitarbeit
+- **Thema**: Hochrechnung des Invalideneinkommens bei Teilzeitarbeit
+- **Kernaussage**: Bei teilweiser Arbeitsunfähigkeit ist das tatsächliche Teilzeiteinkommen auf ein volles Beschäftigungsäquivalent hochzurechnen. Die Hochrechnung hat konsistent zu erfolgen — das Valideneinkommen ist ebenfalls auf ein Vollzeitäquivalent zu normieren.
+- **Einschlägig für**: Art. 8 Abs. 2 (Einkommensvergleich)
+
+---
+
+*Letzte Aktualisierung: 2026-06-07*

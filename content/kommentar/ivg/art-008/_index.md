@@ -2,7 +2,7 @@
 title: "Art. 8 — Invaliditätsbegriff und Eingliederung"
 weight: 8
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-07
 description: "Kommentar zu Art. 8 IVG — Invaliditätsbegriff, Einkommensvergleichsmethode, Eingliederungsmassnahmen und Präzisierung der Rechtsprechung zu Abs. 3"
 tags: ["IVG", "Invalidität", "Einkommensvergleich", "Eingliederung", "Arbeitsunfähigkeit", "Rente"]
 agent_verified: true

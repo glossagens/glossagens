@@ -68,7 +68,8 @@ Zurück zum Kommentar: [Art. 83 BGG — Ausnahmen von der Beschwerde](./)
 ||| Bezug | Jahr | Kurzbeschreibung | Erwägung |
 ||-------|------|------------------|----------|
 || BGE 136 I 265 | 2010 | Rechtsschutz gegen kantonale Richtpläne; lit. a nicht anwendbar auf Raumplanung | E. 5 |
+| [BGer 1C_295/2026](https://www.bger.ch/ext/eurolex/index/1C_295/2026) | 2026 | Nichteintreten bei superprovisorischem Baustopp; Beschwerdeunzulässigkeit nach Art. 83 lit. e BGG | E. 2 |
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+*Letzte Aktualisierung: 2026-06-07*
