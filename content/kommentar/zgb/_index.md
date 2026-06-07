@@ -22,6 +22,7 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 | [Art. 274](art-274/) | Verweigerung und Entzug |
 | [Art. 308](art-308/) | Wohnsitz |
 | [Art. 311](art-311/) | Kindesschutz |
+| [Art. 312](art-312/) | Beistandschaft |
 | [Art. 314](art-314/) | Aufhebung des Aufenthaltsbestimmungsrechts |
 | [Art. 314b](art-314b/) | Beistandschaft |
 | [Art. 361](art-361/) | Beistandschaft |
