@@ -10,8 +10,11 @@ Kommentar zum [Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwäl
 
 || Artikel | Thema ||
 ||---------|-------||
+|| [Art. 1](art-001/) | Geltungsbereich ||
+|| [Art. 2](art-002/) | Begriffsbestimmungen ||
+|| [Art. 3](art-003/) | Gleichbehandlung ausländischer Anwälte ||
 || [Art. 6](art-006/) | Eintragung ins Rechtsanwaltsregister ||
 || [Art. 7](art-007/) | Anerkennung der kantonalen Berufszulassung ||
 || [Art. 8](art-008/) | Aufenthalt zur Ausübung der Anwaltstätigkeit ||
 || [Art. 10](art-010/) | Eintragungsbedingungen ||
-|| [Art. 12](art-012/) | Berufsregeln |
+|| [Art. 12](art-012/) | Berufsregeln ||
