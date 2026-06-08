@@ -1,89 +1,64 @@
 ---
-title: "Art. 1 — Zweck"
+title: "Art. 1 — Gegenstand"
 weight: 1
-date: 2026-06-07
-lastmod: 2026-06-07
-description: "Kommentar zu Art. 1 AsylG — Zweck des Asylgesetzes und Grundsätze des Asylverfahrens"
-tags: ["AsylG", "Asylverfahren", "Flüchtlingseigenschaft", "Non-Refoulement", "Genfer Flüchtlingskonvention"]
+date: 2026-06-08
+lastmod: 2026-06-08
+description: "Kommentar zu Art. 1 AsylG — Gegenstand des Asylgesetzes: Asylgewährung, Rechtsstellung der Flüchtlinge und vorübergehender Schutz"
+tags: ["AsylG", "Asylgewährung", "Flüchtlingseigenschaft", "Vorübergehender Schutz", "Genfer Flüchtlingskonvention"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 1 AsylG**
+> **Art. 1 AsylG — Gegenstand**
 >
-> 1 Dieses Gesetz regelt das Asylverfahren in der Schweiz.
->
-> 2 Es bezweckt:
->   a. die Gewährung von Asyl in der Schweiz gemäss den Artikeln 3, 51 und 53 der Genfer Abkommen vom 12. April 1949¹;
->   b. die Verhinderung von Weiterweisungen, die völkerrechtlich unzulässig sind;
->   c. die Gewährung von vorläufigem Schutz nach Massgabe dieses Gesetzes.
->
-> 3 Es ist so anzuwenden, dass das Asylverfahren einfach, schnell und fair verläuft.
+> Dieses Gesetz regelt:
+> a. die Asylgewährung und die Rechtsstellung der Flüchtlinge in der Schweiz;
+> b. den vorübergehenden Schutz von Schutzbedürftigen in der Schweiz und deren Rückkehr.
 
 ## Überblick und Bedeutung
 
-**1** **Stellung und Funktion.** Art. 1 AsylG ist die Zweckbestimmung des Asylgesetzes. Er formuliert in programmatischer Form die drei Grundpfeiler des schweizerischen Asylrechts: (1) die Gewährung von Asyl nach den Massgaben der Genfer Abkommen (Abs. 2 lit. a), (2) das Verbot der Weiterweisung bei völkerrechtlich unzulässigen Auslieferungen (Abs. 2 lit. b, Nicht-Zurückweisungsprinzip / Non-Refoulement), und (3) die Gewährung von vorläufigem Schutz (Abs. 2 lit. c). Abs. 3 formuliert den prozeduralen Grundsatz der Einfachheit, Schnelligkeit und Fairness des Asylverfahrens.
+**1** **Stellung und Funktion.** Art. 1 AsylG ist die Gegenstandsbestimmung (früher: Zweckartikel) des Asylgesetzes. Er umschreibt in knapper Form die beiden sachlichen Regelungsbereiche des Gesetzes: (1) die Asylgewährung und die Rechtsstellung der Flüchtlinge (lit. a) und (2) den vorübergehenden Schutz sowie die Rückkehr von Schutzbedürftigen (lit. b). Gegenüber der früheren Fassung (Art. 1 aF: «Zweck» mit drei Absätzen und Zweckbestimmungen lit. a–c sowie Verfahrensgrundsatz in Abs. 3) ist die geltende Fassung bewusst schmaler gehalten und beschränkt sich auf die Gegenstandsumschreibung, ohne programmatische Zweckformeln oder Verfahrensgrundsätze zu enthalten.
 
-**2** **Verhältnis zum Völkerrecht.** Art. 1 AsylG hat eine Doppeleigenschaft als innerstaatliche Norm und als Brücke zum Völkerrecht. Die Verweise auf die Genfer Abkommen (insb. Art. 3 GK I, Art. 51 GK IV und Art. 53 GK IV) verankern das schweizerische Asylrecht im humanitären Völkerrecht. Der Verweis auf völkerrechtlich unzulässige Weiterweisungen (Abs. 2 lit. b) bindet das AsylG an das Non-Refoulement-Gebot der Genfer Flüchtlingskonvention (GFK), der EMRK (Art. 3) und des UNO-Folterkonvention.
+**2** **Historischer Kontext.** Die geltende Fassung von Art. 1 geht auf die Totalrevision des Asylgesetzes zurück (BG vom 25. Sept. 2015, in Kraft seit 1. März 2019; AS 2016 3101, 2018 2855). Die frühere Fassung enthielt in Abs. 2 lit. b das ausdrückliche Non-Refoulement-Gebot als Zweckbestimmung und in Abs. 3 den Grundsatz, dass das Verfahren «einfach, schnell und fair» zu verlaufen habe. Beide Aspekte wurden in der neuen Fassung aus Art. 1 herausgelöst: das Non-Refoulement-Gebot wurde als eigenständige Norm in Art. 5 AsylG verfasst; die Verfahrensgrundsätze finden sich in Art. 69 AsylG i.V.m. dem VwVG sowie den verfahrensbeschleunigenden Bestimmungen der Art. 5 ff. AsylG.
 
-**3** **Historischer Kontext.** Das AsylG von 1999 löste das frühere Asylgesetz von 1979 ab und brachte eine umfassende Verfahrensreform. Die Revision von 2006 (in Kraft seit 2008) verschärfte das Asylverfahrensrecht erheblich und führte u.a. die Beschleunigungsmassnahmen (Fristen, Konsequenzen bei Nichtmitwirkung) ein. Die Revision von 2018 (in Kraft seit 2019) brachte das Beschleunigungsverfahren nach Art. 5 AsylG mit sich.
+**3** **Abgrenzung der beiden Regelungsbereiche.** Art. 1 lit. a bezieht sich auf das individualisierte Asylverfahren, in dem die Flüchtlingseigenschaft nach Art. 3 AsylG geprüft und bei Vorliegen Asyl nach Art. 2 AsylG gewährt wird. Art. 1 lit. b bezieht sich auf den kollektiven vorübergehenden Schutz nach Art. 4 AsylG, den der Bundesrat bei schwerer allgemeiner Gefährdung (insb. Krieg, Bürgerkrieg, allgemeine Gewalt) anordnen kann. Die beiden Schutzformen unterscheiden sich wesentlich: Asyl setzt individuelle Flüchtlingseigenschaft voraus; vorläufiger Schutz wird kollektiv gewährt und ist subsidiär.
 
 ## Kommentierung
 
-### I. Geltungsbereich (Abs. 1)
+### I. Asylgewährung und Rechtsstellung der Flüchtlinge (lit. a)
 
-**4** **Sachlicher Geltungsbereich.** Abs. 1 regelt den sachlichen Geltungsbereich: das Asylverfahren in der Schweiz. Das Asylverfahren im Sinne von Art. 1 umfasst alle verfahrensrechtlichen Schritte von der Gesuchstellung bis zum rechtskräftigen Abschluss, einschliesslich des Verfahrens vor dem Bundesverwaltungsgericht und dem Bundesgericht.
+**4** **Asyl als individueller Schutz.** Lit. a ordnet dem Gesetz die Regelung der Asylgewährung und der Rechtsstellung der Flüchtlinge zu. Asyl wird auf Gesuch hin gewährt (Art. 2 Abs. 1 AsylG) und setzt die Flüchtlingseigenschaft nach Art. 3 AsylG voraus. Die Flüchtlingseigenschaft wird im Rahmen eines individualisierten Verfahrens geprüft, in dem die gesuchstellende Person die Verfolgungsgründe nachzuweisen oder zumindest glaubhaft zu machen hat (Art. 7 AsylG).
 
-**5** **Abgrenzung zum Ausländerrecht.** Das Asylverfahren ist gemäss Art. 14 AsylG vom ausländerrechtlichen Verfahren getrennt (Ausschliesslichkeitsprinzip). Während des Asylverfahrens sind ausländerrechtliche Massnahmen grundsätzlich ausgesetzt (Art. 14 Abs. 1 AsylG). Art. 1 Abs. 1 stellt klar, dass die asylrechtlichen Bestimmungen eigenständig und nicht als Teil des Ausländerrechts anzuwenden sind.
+**5** **Rechtsstellung.** Die Rechtsstellung der anerkannten Flüchtlinge umfasst den Schutz und das Aufenthaltsrecht in der Schweiz (Art. 2 Abs. 2 AsylG), Anspruch auf Dokumente (Art. 43 AsylG), Familiennachzug (Art. 44 AsylG) sowie weitere Rechte nach dem Ausländer- und Integrationsgesetz (AIG). Die Rechtsstellung unterscheidet sich von jener der vorübergehend Geschützten, die schwächere Rechte geniessen (insb. eingeschränkter Familiennachzug).
 
-### II. Zweckbestimmungen (Abs. 2)
+**6** **Völkerrechtliche Grundlagen.** Die Asylgewährung ist massgeblich durch die Genfer Flüchtlingskonvention (GFK) vom 28. Juli 1951 (SR 0.142.30) geprägt. Der Flüchtlingsbegriff von Art. 3 AsylG entspricht demjenigen von Art. 1 GFK. Die Schweiz ist überdies durch Art. 3 EMRK, Art. 3 UNO-Folterkonvention und Art. 7 UNO-Pakt II an das Non-Refoulement-Gebot gebunden (nun Art. 5 AsylG). Art. 1 lit. a ordnet den sachlichen Geltungsbereich des Gesetzes, ohne selbst unmittelbare völkerrechtliche Pflichten zu begründen.
 
-#### a) Asylgewährung nach den Genfer Abkommen (Abs. 2 lit. a)
+**7** **Programmatische Natur.** Art. 1 ist eine Gegenstandsnorm und entfaltet keine unmittelbare Anspruchsbegründung. Wer Asyl begehrt, muss sich auf die tatbestandlichen Normen der Art. 2 f. AsylG berufen. Art. 1 dient als Auslegungshilfe und systematischer Anker für die Auslegung der nachfolgenden Bestimmungen.
 
-**6** **Asyl als völkerrechtliche Pflicht.** Die Schweiz gewährt Asyl aufgrund ihrer völkerrechtlichen Verpflichtungen aus den Genfer Abkommen. Der Verweis auf Art. 3, 51 und 53 GK verknüpft das innerstaatliche Asylrecht direkt mit dem humanitären Völkerrecht. Art. 51 GK IV verpflichtet die Vertragsparteien, keine massnahmehaltenden Handlungen gegen geschützte Personen vorzunehmen (insb. keine Ausweisung oder Abschiebung, wenn Leben oder Freiheit gefährdet wären).
+### II. Vorübergehender Schutz und Rückkehr (lit. b)
 
-**7** **Verweistechnik.** Die Verweisung auf die Genfer Abkommen ist eine dynamische Verweisung: Änderungen der völkerrechtlichen Verpflichtungen der Schweiz wirken sich unmittelbar auf den Anwendungsbereich von Art. 1 Abs. 2 lit. a AsylG aus.
+**8** **Vorübergehender Schutz als kollektive Massnahme.** Lit. b ordnet dem Gesetz die Regelung des vorübergehenden Schutzes und der Rückkehr zu. Der vorübergehende Schutz wird nach Art. 4 AsylG bei schwerer allgemeiner Gefährdung – insbesondere Krieg, Bürgerkrieg, allgemeine Gewalt – gewährt. Er richtet sich an Schutzbedürftige, die nicht (oder noch nicht) im individualisierten Asylverfahren als Flüchtlinge anerkannt sind. Die Anordnung erfolgt durch den Bundesrat (Art. 67 AsylG).
 
-**8** **Verhältnis zur GFK.** Die Genfer Flüchtlingskonvention (GFK) von 1951 bildet die primäre völkerrechtliche Grundlage des Asylrechts. Art. 1 Abs. 2 lit. a GFK definiert den Flüchtlingsbegriff, der massgebend auch für die Schweizer Praxis ist (Art. 3 AsylG). Die Flüchtlingseigenschaft wird asylrechtlich eigenständig beurteilt und setzt voraus, dass die gesuchstellende Person aus begründeter Furcht vor Verfolgung wegen Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder politischer Überzeugung ausserhalb ihres Heimatlandes ist.
+**9** **Subsidiarität.** Der vorübergehende Schutz ist subsidiär zur Asylgewährung. Er kommt zum Einsatz, wenn ein massenhafter Zustrom ein individualisiertes Asylverfahren praktisch unmöglich macht oder wenn die Voraussetzungen der Flüchtlingseigenschaft nicht erfüllt sind, aber die Rückkehr in den Heimatstaat wegen allgemeiner Gefährdung unzumutbar ist.
 
-#### b) Verhinderung völkerrechtlich unzulässiger Weiterweisungen (Abs. 2 lit. b)
+**10** **Rückkehr.** Lit. b umfasst auch die Regelung der Rückkehr von Schutzbedürftigen. Der vorübergehende Schutz ist seiner Natur nach befristet: endet die allgemeine Gefährdung, wird der Schutz aufgehoben und die Rückkehr in den Heimatstaat angeordnet (Art. 83 ff. AsylG). Die Rückkehr kann auch während des Schutzes freiwillig erfolgen und wird durch Rückkehrhilfe gefördert.
 
-**9** **Non-Refoulement-Gebot.** Abs. 2 lit. b verankert das Non-Refoulement-Gebot als Zweck des Asylgesetzes. Das Verbot der Weiterweisung gilt absolut und wird aus folgenden völkerrechtlichen Quellen abgeleitet:
-- Art. 33 GFK (Non-Refoulement für Flüchtlinge)
-- Art. 3 EMRK (Verbot von Folter und unmenschlicher Behandlung)
-- Art. 3 UNO-Folterkonvention
-- Art. 7 UNO-Pakt II
+### III. Ausgegliederte Regelungsbereiche
 
-**10** **Absolutheit des Verbots.** Das Non-Refoulement-Gebot ist absolut und kennt keine Ausnahmen. Es gilt auch bei Vorliegen von Sicherheitsbedenken (Terrorismusverdacht) oder bei Belastung des Aufnahmestaats. Das Bundesgericht hat wiederholt betont, dass eine Weiterweisung auch dann unzulässig ist, wenn die gesuchstellende Person eine Gefahr für die innere Sicherheit der Schweiz darstellt, sofern im Zielstaat eine reale Gefahr von Folter oder unmenschlicher Behandlung besteht ([BGE 137 I 305](https://www.bger.ch/ext/eurolex/index/BGE_137_I_305), E. 4.1).
+**11** **Non-Refoulement (Art. 5 AsylG).** Das Non-Refoulement-Gebot, das in der früheren Fassung von Art. 1 Abs. 2 lit. b als Zweckbestimmung verankert war, bildet nun einen eigenständigen Tatbestand in Art. 5 AsylG. Art. 5 Abs. 1 verbietet die Rückschiebung in einen Staat, in dem Leib, Leben oder Freiheit aus einem Grund nach Art. 3 Abs. 1 gefährdet ist. Art. 5 Abs. 2 enthält eine Ausnahme für Personen, die die Sicherheit der Schweiz gefährden oder gemeingefährlich sind. Die Ausnahme in Abs. 2 ist völkerrechtlich umstritten und eng auszulegen (vgl. BGE 137 I 305 E. 4.1).
 
-**11** **Reale Gefahr.** Das Bundesgericht verlangt für die Annahme einer völkerrechtlich unzulässigen Weiterweisung, dass die Gefahr für die gesuchstellende Person im Zielstaat **real** (d.h. mehr als bloss theoretisch oder abstrakt) ist. Die Beweislast liegt grundsätzlich bei der gesuchstellenden Person, jedoch werden bei allgemeiner Gefahrenlage im Zielstaat die Anforderungen an die individuelle Glaubhaftmachung herabgesetzt ([BGE 139 I 16](https://www.bger.ch/ext/eurolex/index/BGE_139_I_16), E. 2.2.1).
-
-#### c) Vorläufiger Schutz (Abs. 2 lit. c)
-
-**12** **Vorläufiger Schutz als subsidiäre Form.** Der vorläufige Schutz nach Art. 1 Abs. 2 lit. c AsylG ist eine subsidiäre Schutzform. Er wird gewährt, wenn die Flüchtlingseigenschaft nicht zugebilligt werden kann, eine Weiterweisung aber völkerrechtlich unzulässig ist (Art. 83–86 AsylG). Der vorläufige Schutz ist schwächer als die Asylgewährung: Er beinhaltet ein Aufenthaltsrecht, aber nicht die gleichen Rechte wie die Asylantenschaft (insb. kein Recht auf Familiennachzug nach Massgabe der GFK).
-
-**13** **Kollektiver vorläufiger Schutz.** Der vorläufige Schutz kann sowohl individuell als auch kollektiv gewährt werden (Art. 67 AsylG). Der Bundesrat kann bei massenhafter Flucht den kollektiven vorläufigen Schutz für bestimmte Herkunftsstaaten oder Bevölkerungsgruppen anordnen.
-
-### III. Verfahrensgrundsätze (Abs. 3)
-
-**14** **Einfach, schnell, fair.** Abs. 3 formuliert drei Leitprinzipien des Asylverfahrens:
-
-- **Einfachheit**: Das Verfahren soll für die gesuchstellenden Personen ohne unnötige Bürokratie durchführbar sein. Kein Anwaltszwang (aber Recht auf unentgeltliche Rechtsvertretung bei Bedürftigkeit, Art. 26 AsylG).
-- **Schnelligkeit**: Das Verfahren soll zügig durchgeführt werden. Beschleunigungsgebote in Art. 5 AsylG (Fristen), Art. 107a AsylG (Verfahrensbeschleunigung). Verzögerungen durch die gesuchstellende Person können zu Rechtsnachteilen führen.
-- **Fairness**: Das Verfahren muss den Anforderungen des rechtlichen Gehörs (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK) genügen. Die gesuchstellende Person hat Anspruch auf Übersetzung, Beizug von Beweismitteln und Begründung der Entscheide.
-
-**15** **Spannungsverhältnis.** Die drei Grundsätze stehen in einem Spannungsverhältnis: Schnelligkeit kann der Fairness widersprechen, wenn der gesuchstellenden Person zu wenig Zeit für die Geltendmachung ihrer Gründe bleibt. Das Bundesgericht hat wiederholt betont, dass die Beschleunigung des Verfahrens nicht zu Lasten der Verfahrensgarantien gehen darf ([BGE 140 I 143](https://www.bger.ch/ext/eurolex/index/BGE_140_I_143), E. 3.1).
-
-**16** **Beschleunigungsverfahren nach Art. 5 AsylG.** Mit der Revision von 2018 wurde das beschleunigte Verfahren eingeführt, das den Grundsatz der Schnelligkeit stärker gewichtet. In diesem Verfahren haben gesuchstellende Personen Anspruch auf unentgeltliche Rechtsvertretung ab Verfahrensbeginn, was die Fairness gewährleisten soll.
+**12** **Verfahrensgrundsätze (Art. 69 AsylG).** Der frühere Grundsatz des «einfachen, schnellen und fairen» Verfahrens (Art. 1 Abs. 3 aF) ist nicht mehr in Art. 1 enthalten. Die Verfahren richten sich nach Art. 69 AsylG i.V.m. dem VwVG, dem VGG und dem BGG. Beschleunigungsvorschriften finden sich in den Art. 5–5b AsylG sowie in den Verfahrensbestimmungen der Art. 26 ff. AsylG. Der Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK) bleibt als Verfassungsgarantie unberührt.
 
 ### IV. Abgrenzungen
 
-**17** **Art. 1 vs. Art. 3 AsylG.** Art. 1 AsylG definiert den Zweck des Gesetzes, Art. 3 AsylG definiert den Flüchtlingsbegriff. Art. 1 hat programmatische, Art. 3 tatbestandliche Funktion.
+**13** **Art. 1 vs. Art. 2 AsylG.** Art. 1 umschreibt den Gegenstand des Gesetzes; Art. 2 definiert den Begriff des Asyls und dessen Inhalt (Schutz, Rechtsstellung, Aufenthaltsrecht). Art. 1 ist die Gegenstandsbestimmung, Art. 2 die Tatbestandsnorm.
 
-**18** **Art. 1 vs. Art. 5 BV.** Der asylrechtliche Schutz wird durch die Verfassung (Art. 5 und 25 BV) ergänzt. Art. 25 BV garantiert das Asylrecht Verfolgten. Art. 1 AsylG konkretisiert diesen Verfassungsauftrag auf der Gesetzesebene.
+**14** **Art. 1 vs. Art. 3 AsylG.** Art. 3 definiert den Flüchtlingsbegriff, der für die Asylgewährung nach lit. a massgebend ist. Art. 1 lit. a verweist sachlich auf den Regelungsbereich, den Art. 3 tatbestandlich ausfüllt.
 
-**19** **Art. 1 vs. Art. 14 AsylG.** Art. 14 AsylG regelt das Ausschliesslichkeitsprinzip (Trennung Asyl- und Ausländerrecht). Art. 1 Abs. 1 stellt den programmatischen Rahmen dar, innerhalb dessen das Ausschliesslichkeitsprinzip gilt.
+**15** **Art. 1 vs. Art. 5 AsylG.** Art. 5 normiert das Rückschiebungsverbot (Non-Refoulement), das früher Teil der Zweckbestimmung von Art. 1 war. Art. 1 lit. a umfasst den Asylschutz, Art. 5 den Mindestschutz vor Rückschiebung, der auch unabhängig von der Flüchtlingseigenschaft gilt.
+
+**16** **Art. 1 vs. Art. 25 BV.** Art. 25 BV garantiert das verfassungsrechtliche Asylrecht. Art. 1 AsylG konkretisiert diesen Verfassungsauftrag auf Gesetzesebene, indem er den Gegenstand der gesetzlichen Regelung umschreibt.
 
 ## Literatur
 
