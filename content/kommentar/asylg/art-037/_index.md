@@ -1,136 +1,88 @@
 ---
-title: "Art. 37 — Unzulässige Asylgesuche"
+title: "Art. 37 — Erstinstanzliche Verfahrensfristen"
 weight: 37
-date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 37 AsylG – Unzulässige Asylgesuche: Drittstaatenregelung, Dublin-Verfahren, Erstanreiseprinzip und verwandte Ablehnungsgründe"
-tags: ["AsylG", "Unzulässigkeit", "Drittstaat", "Dublin", "Erstanreise", "Nichteintreten"]
+date: 2026-06-08
+lastmod: 2026-06-08
+description: "Kommentar zu Art. 37 AsylG — Erstinstanzliche Verfahrensfristen: Dublin-Verfahren, beschleunigtes Verfahren, erweitertes Verfahren, Prioritäten"
+tags: ["AsylG", "Verfahrensfristen", "Dublin", "beschleunigtes Verfahren", "erweitertes Verfahren", "SEM", "Fristen"]
 agent_verified: true
 ---
 
-## Art. 37 AsylG — Unzulässige Asylgesuche
+## Gesetzeswortlaut
 
-> **Art. 37 Abs. 1 AsylG**: Auf ein Asylgesuch wird nicht eingetreten, wenn die gesuchstellende Person:
+> **Art. 37 AsylG — Erstinstanzliche Verfahrensfristen**
 >
-> a. aus einem Staat in die Schweiz einreist, in dem sie weder politische Verfolgung noch Gefahr für Leib und Leben zu befürchten hat, und in diesen Staat zurückkehren kann;
+> 1 Entscheide im Dublin-Verfahren (Art. 26b) sind innerhalb von drei Arbeitstagen zu eröffnen, nachdem der angefragte Dublin-Staat dem Ersuchen um Überstellung nach den Artikeln 21 und 23 der Verordnung (EU) Nr. 604/2013 zugestimmt hat.
 >
-> b. durch einen sicheren Drittstaat eingereist ist, in dem sie vor Verfolgung geschützt war und in den sie zurückkehren kann;
+> 2 Entscheide im beschleunigten Verfahren (Art. 26c) sind innerhalb von acht Arbeitstagen nach Abschluss der Vorbereitungsphase zu eröffnen.
 >
-> c. im Rahmen des Dublin-Verfahrens (Art. 5a) einem anderen Dublin-Staat zuzuweisen ist.
+> 3 Liegen triftige Gründe vor und ist absehbar, dass der Entscheid im Zentrum des Bundes getroffen werden kann, so können die Fristen nach den Absätzen 1 und 2 um einige Tage überschritten werden.
 >
-> **Art. 37 Abs. 2 AsylG**: Das SEM kann aus wichtigen Gründen auf ein Asylgesuch gleichwohl eintreten.
+> 4 Entscheide im erweiterten Verfahren (Art. 26d) sind innerhalb von zwei Monaten nach Abschluss der Vorbereitungsphase zu treffen.
 >
-> **Art. 37 Abs. 3 AsylG**: Auf ein Asylgesuch wird nicht eingetreten, wenn die gesuchstellende Person:
+> 5 In den übrigen Fällen sind Nichteintretensentscheide innerhalb von fünf Arbeitstagen und Entscheide innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen.
 >
-> a. ihr Earlier Application-Prinzip verletzt, indem sie in einem sicheren Drittstaat bereits Schutz gefunden hat;
->
-> b. das Erstanreiseprinzip verletzt, indem sie nicht direkt aus dem Verfolgerstaat in die Schweiz einreist.
+> 6 Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66a oder 66abis des Strafgesetzbuchs (StGB) oder Artikel 49a oder 49abis des Militärstrafgesetzes vom 13. Juni 1927 (MStG) oder eine Ausweisung nach Artikel 68 AIG ausgesprochen wurde.
 
----
+## Überblick und Bedeutung
 
-## I. Bedeutung
+**1** **Fristenordnende Schlüsselnorm.** Art. 37 AsylG regelt die erstinstanzlichen Verfahrensfristen für die verschiedenen Verfahrensarten. Die Norm ist das zeitliche Herzstück des beschleunigten Asylverfahrens: Sie setzt konkrete Fristen für die Eröffnung von Entscheiden durch das SEM und stellt damit die Verfahrensdauer sicher.
 
-Art. 37 AsylG ist die zentrale **Verfahrenshürde** des schweizerischen Asylrechts. Die Bestimmung regelt die Fälle, in denen das SEM auf ein Asylgesuch **nicht eintritt** — das Verfahren wird gar nicht erst in der Sache durchgeführt. Die Unzulässigkeit knüpft nicht an die Schutzwürdigkeit der gesuchstellenden Person an, sondern an **verfahrensrechtliche Erwägungen**: Die Person hätte in einem anderen Staat Schutz finden können oder müssen.
+**2** **Drei Verfahrensarten mit unterschiedlichen Fristen.** Art. 37 differenziert zwischen:
+- **Dublin-Verfahren** (Abs. 1): 3 Arbeitstage
+- **Beschleunigtes Verfahren** (Abs. 2): 8 Arbeitstage
+- **Erweitertes Verfahren** (Abs. 4): 2 Monate
 
-Art. 37 AsylG hat in der Praxis **enorme Bedeutung**: Ein grosser Teil der in der Schweiz eingereichten Asylgesuche wird nicht in der Sache beurteilt, sondern nach Art. 37 AsylG als unzulässig abgewiesen — insbesondere im Rahmen der **Dublin-Verfahren** (Abs. 1 lit. c). Die Norm ist Ausdruck des Prinzips, dass die Schweiz nicht als «Asyl-Drehscheibe» dienen soll und dass die Verantwortung für den Flüchtlingsschutz zwischen den Staaten aufgeteilt wird.
+## Kommentierung
 
----
+### I. Dublin-Verfahrensfrist (Abs. 1)
 
-## II. Drittstaatenregelung (Abs. 1 lit. a und b)
+**3** **Drei Arbeitstage.** Entscheide im Dublin-Verfahren sind innerhalb von drei Arbeitstagen zu eröffnen, nachdem der angefragte Dublin-Staat der Überstellung zugestimmt hat. Die kurze Frist reflektiert, dass im Dublin-Verfahren mangels Sachprüfung kein umfangreicher Entscheid erforderlich ist.
 
-### 1. Sichere Staaten (lit. a)
+**4** **Massgeblicher Zeitpunkt.** Der Fristbeginn ist die Zustimmung des Dublin-Staats zur Überstellung. Die Frist läuft nicht ab Einreichung des Gesuchs, sondern ab der tatbestandlichen Voraussetzung des Nichteintretensentscheids.
 
-Abs. 1 lit. a setzt voraus, dass die gesuchstellende Person aus einem Staat einreist, in dem sie **weder politische Verfolgung noch Gefahr für Leib und Leben** zu befürchten hat («sicherer Staat»). Die Frage, ob ein Staat als sicher gilt, wird vom Bundesrat in einer **Positivliste** (Art. 6a AsylV) bestimmt. Diese Liste wird periodisch aktualisiert.
+### II. Beschleunigtes Verfahren (Abs. 2)
 
-Die Voraussetzungen sind **kumulativ**: (1) Einreise aus dem sicheren Staat, (2) keine Verfolgungsgefahr in diesem Staat, (3) Möglichkeit der Rückkehr in diesen Staat. Kann die Person nicht in den sicheren Drittstaat zurückkehren (z.B. wegen fehlender Reisedokumente oder wegen Weigerung des Drittstaats, die Person wieder aufzunehmen), ist das Nichteintreten unzulässig.
+**5** **Acht Arbeitstage.** Entscheide im beschleunigten Verfahren sind innerhalb von acht Arbeitstagen nach Abschluss der Vorbereitungsphase zu eröffnen. Die Vorbereitungsphase dauert höchstens 21 Tage (Art. 26 Abs. 1 AsylG). Insgesamt ergibt sich somit eine Maximallaufzeit von ca. 29 Tagen bis zum Entscheid.
 
-### 2. Sichere Drittstaaten (lit. b)
+**6** **Praxis.** Die 8-Tage-Frist ist in der Praxis eine der wichtigsten Vorgaben für das SEM. Sie erzwingt eine effiziente Verfahrensführung und verhindert, dass das beschleunigte Verfahren faktisch zum erweiterten Verfahren wird.
 
-Abs. 1 lit. b erfasst den Fall, dass die gesuchstellende Person durch einen **sicheren Drittstaat** eingereist ist, in dem sie vor Verfolgung geschützt war. Gegenüber lit. a geht lit. b weiter: Nicht die Einreise *aus* dem sicheren Staat ist massgeblich, sondern die *Durchreise durch* einen sicheren Staat. Auch hier muss die Rückkehrmöglichkeit bestehen.
+### III. Fristüberschreitung bei triftigen Gründen (Abs. 3)
 
-Der Begriff des «sicheren Drittstaats» umfasst Staaten, die die Genfer Flüchtlingskonvention unterzeichnet haben und in denen ein funktionierendes Asylsystem besteht. Der Bundesrat bestimmt die sicheren Drittstaaten in der Verordnung (Art. 6a AsylV; vgl. auch die EU-Liste der sicheren Drittstaaten gemäss Art. 29 Asylverfahrensrichtlinie 2013/32/EU).
+**7** **Ausnahme bei triftigen Gründen.** Die Fristen nach Abs. 1 und 2 können um «einige Tage» überschritten werden, wenn:
+- triftige Gründe vorliegen, und
+- absehbar ist, dass der Entscheid im Zentrum des Bundes getroffen werden kann.
 
----
+**8** **Enge Ausnahme.** Die Ausnahme ist eng zu verstehen. «Einige Tage» bedeutet nicht eine unbestimmte Verlängerung, sondern wenige Tage. Die Voraussetzung, dass der Entscheid im Zentrum des Bundes getroffen werden kann, stellt sicher, dass die asylsuchende Person weiterhin für das Verfahren zur Verfügung steht.
 
-## III. Dublin-Verfahren (Abs. 1 lit. c)
+### IV. Erweitertes Verfahren (Abs. 4)
 
-### 1. Grundprinzip
+**9** **Zwei Monate.** Entscheide im erweiterten Verfahren sind innerhalb von zwei Monaten nach Abschluss der Vorbereitungsphase zu treffen. Die längere Frist reflektiert die Komplexität der Fälle, die weitere Abklärungen erfordern (Art. 26d AsylG).
 
-Abs. 1 lit. c verweist auf das **Dublin-Verfahren** gemäss Art. 5a AsylG und dem Dublin-Übereinkommen (bzw. der Dublin-III-Verordnung, VO 604/2013). Danach ist für die Prüfung eines Asylgesuchs **ein einziger Dublin-Staat zuständig**. Die Kriterien für die Zuständigkeitsbestimmung ergeben sich aus der Dublin-III-Verordnung (Kapitel III: Familienzusammenführung, Aufenthaltsorte, Visa-Erteilung etc.).
+**10** **Zuweisung an den Kanton.** Im erweiterten Verfahren wird die asylsuchende Person einem Kanton zugewiesen (Art. 27 AsylG). Die zwei Monate beginnen ab Abschluss der Vorbereitungsphase, nicht ab der Zuweisung.
 
-### 2. Zuständigkeitskriterien
+### V. Übrige Fälle (Abs. 5)
 
-Die Dublin-III-Verordnung kennt eine **hierarchische Abfolge** von Zuständigkeitskriterien:
+**11** **Nichteintretensentscheide: 5 Arbeitstage.** In den übrigen Fällen (die nicht unter die Abs. 1–4 fallen) sind Nichteintretensentscheide innerhalb von fünf Arbeitstagen zu treffen.
 
-1. **Art. 7–8 Dublin-III-VO**: Familiäre Beziehungen (Minderjährige, Eltern, Geschwister) mit Aufenthalt in einem Dublin-Staat
-2. **Art. 9 Dublin-III-VO**: Visum oder Aufenthaltstitel eines Dublin-Staats
-3. **Art. 10–11 Dublin-III-VO**: Einreise über die Aussengrenze und irreguläre Einreise
-4. **Art. 12–13 Dublin-III-VO**: Aufenthalt in einem Dublin-Staat ohne Visum
-5. **Art. 13 Dublin-III-VO**: Erstaufnahmestaat bei irregulärer Grenzüberquerung
-6. **Art. 3 Abs. 2 Dublin-III-VO**: Souveränitätsklausel (Selbsteintrittsrecht)
+**12** **Sachentscheide: 10 Arbeitstage.** Entscheide in der Sache sind innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen. Diese Frist gilt für Fälle, die keinem der drei geregelten Verfahrenstypen zugeordnet sind.
 
-Die Schweiz wendet die Dublin-III-Verordnung aufgrund des Personenfreizügigkeitsabkommens (FZA) und des Assoziierungsabkommens mit der EU an.
+### VI. Vorrang bei Auslieferungshaft/Landesverweisung (Abs. 6)
 
-### 3. Überstellungsverfahren
+**13** **Ausserhalb der Reihe.** Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person in Auslieferungshaft ist oder gegen sie eine Landesverweisung (Art. 66a/66abis StGB, Art. 49a/49abis MStG) oder Ausweisung (Art. 68 AIG) ausgesprochen wurde. Diese Priorisierung soll verhindern, dass das Asylverfahren den Vollzug anderer rechtlichter Massnahmen blockiert.
 
-Wird die Zuständigkeit eines anderen Dublin-Staats festgestellt, beantragt das SEM die **Überstellung** der gesuchstellenden Person (Art. 26 ff. Dublin-III-VO). Die Überstellungsfrist beträgt grundsätzlich sechs Monate ab der Zuständigkeitsentscheidung (Art. 29 Abs. 1 Dublin-III-VO). Bei Untätigkeit des zuständigen Dublin-Staats geht die Zuständigkeit auf die Schweiz über.
+**14** **Praktische Bedeutung.** Abs. 6 hat in der Praxis zunehmende Bedeutung, da Landesverweisungen bei schweren Straftaten häufiger ausgesprochen werden. Die unverzügliche Entscheidung ermöglicht eine koordinierte Vollstreckung.
 
-### 4. Souveränitäts- und Solidaritätsklausel
+## Abgrenzungen
 
-**Art. 3 Abs. 2 Dublin-III-VO** (Souveränitätsklausel): Jeder Dublin-Staat kann selbst entscheiden, ein Asylgesuch zu prüfen, auch wenn er dazu nicht verpflichtet ist. Die Schweiz macht von dieser Möglichkeit in der Praxis zurückhaltend Gebrauch.
+**15** **Art. 37 vs. Art. 26 AsylG.** Art. 26 regelt die Vorbereitungsphase (Dauer und Inhalt), Art. 37 die Entscheidfristen ab Abschluss der Vorbereitungsphase.
 
-**Art. 17 Abs. 2 Dublin-III-VO** (Solidaritätsklausel / Discretionsklausel): Jeder Dublin-Staat kann aus humanitären Gründen die Zuständigkeit übernehmen, insbesondere bei familiären或有 humanitären Bindungen.
+**16** **Art. 37 vs. Art. 37a AsylG.** Art. 37a regelt die Begründungspflicht bei Nichteintretensentscheiden (summarische Begründung), Art. 37 die Fristen.
 
----
-
-## IV. Ermessenseintritt (Abs. 2)
-
-Art. 37 Abs. 2 AsylG gewährt dem SEM ein **Ermessen**, aus wichtigen Gründen auf ein Asylgesuch gleichwohl einzutreten, obwohl ein Nichteintretensgrund nach Abs. 1 vorliegt. Die Ermessensausübung hat sich an Art. 3 EMRK (Verbot der Folter, unmenschlicher Behandlung), Art. 8 EMRK (Recht auf Achtung des Privat- und Familienlebens) und dem Non-refoulement-Prinzip (Art. 33 GFK) zu orientieren.
-
-Wichtige Gründe für den Ermessenseintritt sind insbesondere:
-- **Systemische Mängel** im Asylverfahren des zuständigen Dublin-Staats (vgl. EGMR, *M.S.S. v. Belgien und Griechenland*, 2011)
-- **Humanitäre Notlagen**, die eine Rückkehr in den Dritt- oder Dublin-Staat unzumutbar machen
-- **Familiäre Bindungen** in der Schweiz, die eine Zuweisung an einen anderen Dublin-Staat als unerträglich erscheinen lassen
-
-Die Rechtsprechung des Bundesverwaltungsgerichts und des EGMR zu den systemic deficiencies in den Aufnahmebedingungen einzelner Dublin-Staaten hat das Ermessen des SEM faktisch stark eingeschränkt (vgl. EGMR, *Tarakhel v. Schweiz*, 2014: Italien — Schutz für Familien mit minderjährigen Kindern).
-
----
-
-## V. Verhältnis zu Art. 31a AsylG (Ausschaffungshaft)
-
-Wird das Asylgesuch nach Art. 37 AsylG als unzulässig abgewiesen und besteht eine Ausreisepflicht, kann das SEM Ausschaffungshaft nach Art. 31a AsylG anordnen. Die Haft ist verhältnismässig, wenn die Person sich der Ausreisepflicht widersetzt oder Fluchtgefahr besteht. Die Dauer der Ausschaffungshaft ist auf maximal 18 Monate begrenzt (Art. 31a Abs. 3 AsylG).
-
----
-
-## VI. Verfahrensrechtliche Garantien
-
-### 1. Rechtliches Gehör
-
-Auch im Nichteintretensverfahren nach Art. 37 AsylG hat die gesuchstellende Person Anspruch auf **Gehör** (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK). Sie muss Gelegenheit haben, sich zu den Nichteintretensgründen zu äussern und Gründe darzulegen, warum ein Ermessenseintritt nach Abs. 2 angezeigt ist.
-
-### 2. Rechtsweg
-
-Gegen Nichteintretensverfügungen nach Art. 37 AsylG steht der **Rechtsweg** an das Bundesverwaltungsgericht offen (Art. 83 lit. d Ziff. 1 BGG). Das Bundesverwaltungsgericht prüft die Zuständigkeitsbestimmung im Dublin-Verfahren vollumfänglich. Gegen den Entscheid des Bundesverwaltungsgerichts ist die **Beschwerde in Zivilsachen** an das Bundesgericht zulässig, wenn die Voraussetzungen von Art. 83 lit. d Ziff. 1 BGG erfüllt sind (Rechtsfrage von grundsätzlicher Bedeutung).
-
-### 3. Suspensivwirkung
-
-Die Beschwerde gegen Nichteintretensverfügungen hat **keine Suspensivwirkung** (Art. 104 BGG), sofern nicht superprovisorisch angeordnet. Im Dublin-Verfahren muss das SEM die Überstellung bis zum rechtskräftigen Abschluss des Verfahrens aussetzen, wenn dies zur Vermeidung einer unverzüglichen Rückführung zwingend notwendig erscheint.
-
----
-
-## VII. Rechtsprechung
-
-| Entscheidung | Kurztitel | Kernsatz |
-|---|---|---|
-| [BGE 135 I 143](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_135_I_143) | Dublin-Verfahren und Gewährung des rechtlichen Gehörs | Auch im Dublin-Verfahren ist das rechtliche Gehör zu wahren; die gesuchstellende Person muss Anspruch erheben können, beim zuständigen Staat Schutz zu finden. |
-| [BGE 137 I 305](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_I_305) | Systemische Mängel im Dublin-Staat | Bei systemischen Mängeln im Asylverfahren des zuständigen Dublin-Staats ist die Schweiz verpflichtet, die Zuständigkeit selbst zu übernehmen (Ermessenseintritt). |
-| [BGE 139 I 330](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_139_I_330) | Ausländerrechtlicher Familiennachzug | Keine Legitimation zur subsidiären Verfassungsbeschwerde bei fehlendem Rechtsanspruch im Asylbereich. |
-| BGer 1C_97/2026 | Asyl ohne Wegweisungsvollzug | Nichteintreten im Asylverfahren bei fehlender Beschwerdelegitimation (5er-Besetzung). |
-
----
+**17** **Art. 37 vs. Art. 37b AsylG.** Art. 37b regelt die Behandlungsstrategie des SEM (Priorisierung), Art. 37 die konkreten Fristen.
 
 ## Literatur
 
-- Gächter, R., Art. 37 AsylG, in: Caroni/Epiney/Ehrenzeller (Hrsg.), AsylG Kommentar
-- Kälin, W., Grundriss des Asylverfahrens, 7. Aufl. 2022
-- Botschaft vom 19. September 2012 zur Änderung des Asylgesetzes, BBl 2012 8443
+- OnlineKommentar AsylG, Art. 37 N. 1 ff.
+- BG vom 25. Sept. 2015 (Totalrevision AsylG), AS 2016 3101
+- Kälin/Caroni, Grundriss des Asylrechts, 2020

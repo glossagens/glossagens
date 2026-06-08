@@ -1,118 +1,91 @@
 ---
-title: "Art. 25 — Ausschaffungshaft"
+title: "Art. 25 — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen"
 weight: 25
-date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 25 AsylG – Ausschaffungshaft: Haftgründe, Verhältnismässigkeit, Haftdauer und Verfahrensgarantien"
-tags: ["AsylG", "Ausschaffungshaft", "Fluchtgefahr", "Verhältnismässigkeit", "Haftdauer", "Grundrechte"]
+date: 2026-06-08
+lastmod: 2026-06-08
+description: "Kommentar zu Art. 25 AsylG — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen: Zuständigkeit, polizeilicher Zwang, Seelsorge"
+tags: ["AsylG", "Zentren des Bundes", "Betrieb", "Sicherheit", "Ordnung", "polizeilicher Zwang", "ZAG", "Flughafen"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 25 AsylG — Ausschaffungshaft**
+> **Art. 25 AsylG — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen**
 >
-> 1 Um die Durchführung eines Vollzugsverfahrens nach dem Ausländer- und Integrationsgesetz vom 16. Dezember 2005 (AIG) sicherzustellen, kann die zuständige kantonale Behörde eine Person, die weder über einen rechtmässigen Aufenthalt noch über einen kurzfristig erteilten Aufenthaltstitel verfügt, in Ausschaffungshaft nehmen, wenn:
+> 1 Das SEM ist zuständig für die Sicherstellung des Betriebs in den Zentren des Bundes und in den Unterkünften an den Flughäfen. Der Betrieb umfasst insbesondere:
+>   a. die Unterbringung der Asylsuchenden;
+>   b. die Betreuung der Asylsuchenden;
+>   c. die Gewährleistung der Sicherheit und Ordnung;
+>   d. die Berücksichtigung der besonderen Bedürfnisse von Frauen und Kindern in Bezug auf ihre eigene Sicherheit.
 >
-> a. sie während des Asylverfahrens oder des Wegweisungsverfahrens weisungswidrig eine Wohnung wechselt oder sich aufhält; oder
+> 2 Soweit die zu schützenden Rechtsgüter es rechtfertigen und die beabsichtigten Massnahmen verhältnismässig sind, kann das SEM zur Gewährleistung der Sicherheit und Ordnung polizeilichen Zwang und polizeiliche Massnahmen anwenden oder anordnen:
+>   a. im Rahmen der Durchsuchung nach Artikel 9;
+>   b. beim Vollzug von Disziplinarmassnahmen nach Artikel 25a;
+>   c. bei der Gefahrenabwehr;
+>   d. bei der vorübergehenden Festhaltung nach Artikel 25b.
 >
-> b. aufgrund ihres Verhaltens ernsthaft zu befürchten ist, dass sie sich dem Vollzug der Weg- oder Ausweisung entziehen will; oder
+> 3 Für die Anwendung von polizeilichem Zwang und polizeilichen Massnahmen nach Absatz 2 gilt das Zwangsanwendungsgesetz vom 20. März 2008 (ZAG). Der Einsatz von Waffen ist für die Mitarbeitenden des SEM untersagt.
 >
-> c. sie aus dem Ausland eingereist ist und kein Asylgesuch gestellt hat; oder
+> 4 Das SEM orientiert die asylsuchende Person nach Eintritt in das Zentrum des Bundes oder in die Unterkunft am Flughafen über die Massnahmen nach Absatz 2.
 >
-> d. sie nach einem negativen Asylentscheid kein Land betreten will, in das sie ausgeschafft werden kann; oder
->
-> e. sie im Asylverfahren als nicht tragbar erklärt wurde (Art. 65a AIG).
->
-> 2 Die Ausschaffungshaft darf nur angeordnet werden, wenn weniger weit gehende Massnahmen nicht zum Ziel führen.
->
-> 3 Die Ausschaffungshaft dauert höchstens sechs Monate. Sie kann um höchstens drei Monate verlängert werden, wenn die ausgeschaffte Person die Ausschaffung verhindert.
->
-> 4 [Vorbehalt solange das AIG keine andere Regelung trifft.]
->
-> 5 Die Kantone können für die Ausschaffungshaft besondere Einrichtungen vorsehen; diese sind von den Strafvollzugsanstalten getrennt.
+> 5 Das SEM gewährt zur seelsorglichen Beratung und Betreuung allen Religionsgemeinschaften Zugang zu den Zentren des Bundes und den Unterkünften an den Flughäfen. Der Bund kann für diese Tätigkeiten durch Vereinbarung und auf Grundlage kostengünstiger Lösungen Beiträge ausrichten.
+
+## Überblick und Bedeutung
+
+**1** **Betriebsrechtliche Grundnorm der Bundeszentren.** Art. 25 AsylG regelt die Grundlagen für den Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen. Die Norm wurde durch die Totalrevision von 2015 eingefügt und durch das BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes) grundlegend neu gefasst. Sie bildet das betriebsrechtliche Fundament für die Unterbringung von Asylsuchenden in Bundeszentren.
+
+**2** **Vier Säulen des Betriebs.** Abs. 1 umreisst die vier Kernaufgaben des Betriebs: Unterbringung (lit. a), Betreuung (lit. b), Sicherheit und Ordnung (lit. c) sowie den besonderen Schutzbedarf von Frauen und Kindern (lit. d).
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Zuständigkeit und Betriebsbegriff (Abs. 1)
 
-Art. 25 AsylG regelt die **Ausschaffungshaft** als stärkstes Zwangsmittel zur Sicherstellung des Vollzugs von Weg- und Ausweisungen im Asylbereich. Die Norm schlägt die Brücke zwischen dem Asylverfahrensrecht und dem ausländerrechtlichen Vollzug: Sie bezweckt nicht die Durchführung des Asylverfahrens selbst, sondern die Sicherstellung des nachfolgenden Vollzugsverfahrens nach dem AIG.
+**3** **SEM als Betreiber.** Das SEM ist zuständig für die Sicherstellung des Betriebs. Es kann Aufgaben an Dritte übertragen (Art. 25c AsylG) oder mit Kantonen Vereinbarungen treffen (Art. 25d AsylG).
 
-Die Ausschaffungshaft ist ein **empfindlicher Eingriff** in das Recht auf persönliche Freiheit (Art. 5 EMRK, Art. 31 BV). Das Bundesgericht legt die Haftgründe daher restriktiv aus und verlangt strenge Verhältnismässigkeitsprüfung ([BGE 144 I 232](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_I_232), E. 3.1).
+**4** **Unterbringung (lit. a).** Die Unterbringung umfasst die Bereitstellung von Schlafplätzen, sanitären Einrichtungen, Verpflegung und Kleidung. Die Unterbringung muss menschenwürdig sein und den Mindeststandards entsprechen.
 
-### II. Voraussetzungen (Abs. 1)
+**5** **Betreuung (lit. b).** Die Betreuung umfasst die soziale Betreuung, die Information und Beratung der Asylsuchenden sowie die Organisation von Beschäftigungsprogrammen.
 
-####lit. a — Weisungswidriger Wohnungswechsel
+**6** **Sicherheit und Ordnung (lit. c).** Die Gewährleistung der Sicherheit und Ordnung ist eine Kernaufgabe des SEM. Dazu gehören die Hausordnung, die Zugangskontrolle und die Verhütung von Konflikten.
 
-Die weisungswidrige Änderung des Aufenthalts während des Asyl- oder Wegweisungsverfahrens begründet einen Haftgrund, wenn der betroffenen Person eine konkrete Wohnauflage erteilt wurde und sie diese kenntlich verletzt hat ([BGer 2C_1050/2020](https://www.bger.ch/ext/eurolex/index/2C_1050/2020)). Massgeblich ist, ob die Person über die Auflage belehrt wurde und ob die Verletzung freiwillig erfolgte. Ein blosser Aufenthalt an einem anderen Ort ohne Kenntnis der Auflage genügt nicht.
+**7** **Besondere Bedürfnisse von Frauen und Kindern (lit. d).** Abs. 1 lit. d statuiert ausdrücklich, dass den besonderen Bedürfnissen von Frauen und Kindern in Bezug auf ihre eigene Sicherheit Rechnung zu tragen ist. Dies erfordert namentlich getrennte Schlafbereiche, angemessene sanitäre Einrichtungen und Massnahmen gegen geschlechtsspezifische Gewalt.
 
-#### lit. b — Ernsthaft zu befürchtende Fluchtgefahr
+### II. Polizeilicher Zwang und polizeiliche Massnahmen (Abs. 2)
 
-Der zentrale Haftgrund in der Praxis. Die «ernsthaft zu befürchtende» Fluchtgefahr setzt **konkrete Indizien** voraus ([BGE 140 I 185](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_140_I_185), E. 2.2). Blosse Vermutungen, allgemein gehaltene Befürchtungen oder pauschale Verweise auf die Herkunft der betroffenen Person genügen nicht. Das Bundesgericht verlangt eine **einzelfallbezogene Würdigung** aller Umstände, namentlich:
+**8** **Grundsatz der Verhältnismässigkeit.** Polizeilicher Zwang und polizeiliche Massnahmen dürfen nur angewendet werden, wenn die zu schützenden Rechtsgüter es rechtfertigen und die Massnahmen verhältnismässig sind. Die doppelte Rechtfertigungsanforderung (Rechtsgut + Verhältnismässigkeit) setzt einen strengen Massstab.
 
-- Fehlende kooperative Haltung bei der Beschaffung von Reise- und Identitätsdokumenten
-- Vorangegangenes Untertauchen oder Verfehlung von Fristssetzungen
-- Fehlende soziale Bindungen im Inland
-- Vorstrafen oder laufende Strafverfahren (als Indiz, nicht als Haftgrund selbst)
+**9** **Vier Anwendungsgebiete.** Abs. 2 nennt vier Bereiche, in denen polizeilicher Zwang angewendet werden kann:
+- Durchsuchung nach Art. 9 AsylG
+- Vollzug von Disziplinarmassnahmen nach Art. 25a AsylG
+- Gefahrenabwehr
+- Vorübergehende Festhaltung nach Art. 25b AsylG
 
-Die Fluchtgefahr muss beim **Zeitpunkt der Haftanordnung** vorliegen. Nachträgliche Umstände können eine Verlängerung rechtfertigen (Abs. 3), begründen aber die Anordnung nicht.
+### III. Anwendbares Recht (Abs. 3)
 
-#### lit. c — Einreise ohne Asylgesuch
+**10** **ZAG anwendbar.** Für die Anwendung von polizeilichem Zwang gilt das Zwangsanwendungsgesetz (ZAG, SR 364). Das ZAG regelt die Grundsätze der Zwangsanwendung, die Zwangsmittel und die Zuständigkeiten.
 
-Personen, die aus dem Ausland einreisen und kein Asylgesuch stellen, können in Ausschaffungshaft genommen werden, um den Vollzug der Wegweisung sicherzustellen. Dieser Haftgrund greift namentlich bei Personen, die bei der Einreise erkennbar keinen Asylgrund geltend machen und deren Aufenthalt von vornherein unrechtmässig ist.
+**11** **Waffenverbot für SEM-Mitarbeitende.** Der Einsatz von Waffen ist für die Mitarbeitenden des SEM ausdrücklich untersagt. Dies gilt auch für beauftragte Dritte (Art. 25c Abs. 6 AsylG). Das Waffenverbot ist Ausdruck des zivilen Charakters der Asylverfahren in den Bundeszentren.
 
-#### lit. d — Verweigerung der Ausschaffungskooperation
+### IV. Informationspflicht (Abs. 4)
 
-Nach einem negativen Asylentscheid kann Haft angeordnet werden, wenn die betroffene Person sich weigert, in einen Staat auszureisen, in den sie ausgeschafft werden könnte. Die Weigerung muss aktiv sein; die blosse Passivität genügt nicht, wenn feststeht, dass der Zielstaat die Person aufnehmen würde.
+**12** **Orientierungspflicht.** Das SEM muss die asylsuchende Person bei Eintritt über die möglichen Massnahmen informieren. Dies dient der Transparenz und der Rechtsstaatlichkeit.
 
-#### lit. e — Nicht tragbare Personen
+### V. Seelsorge (Abs. 5)
 
-Persons declared «nicht tragbar» im Asylverfahren nach Art. 65a AIG können ebenfalls in Ausschaffungshaft genommen werden. Dieser Haftgrund ist von geringerer praktischer Bedeutung.
+**13** **Religionsgemeinschaften.** Das SEM gewährt allen Religionsgemeinschaften Zugang zu den Zentren. Der Bund kann Beiträge ausrichten. Die Regelung sichert die Religionsfreiheit (Art. 15 BV, Art. 9 EMRK) der Asylsuchenden.
 
-### III. Verhältnismässigkeit (Abs. 2)
+## Abgrenzungen
 
-Die Ausschaffungshaft unterliegt einem **strikten Verhältnismässigkeitsgebot**: Sie darf nur angeordnet werden, wenn weniger weit gehende Massnahmen nicht zum Ziel führen ([BGE 144 I 232](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_I_232), E. 3.2). Als mildere Massnahmen kommen in Betracht:
+**14** **Art. 25 vs. Art. 24 AsylG.** Art. 24 regelt die Errichtung der Zentren des Bundes und die Unterbringungsdauer, Art. 25 den Betrieb.
 
-- **Meldeauflagen**: Verpflichtung, sich regelmässig bei der Ausländerbehörde zu melden
-- **Aufenthaltsbeschränkung**: Verpflichtung, sich in einem bestimmten Gebiet aufzuhalten
-- **Sicherheitsleistung**: Hinterlegung einer Sicherheit zur Gewährung der Kooperation
-- **Betreuung durch Dritte**: Unterstellung unter die Aufsicht einer Betreuungsperson
+**15** **Art. 25 vs. Art. 25a AsylG.** Art. 25a regelt die Disziplinarmassnahmen als spezifische Sanktionen, Art. 25 die allgemeinen Betriebsgrundlagen.
 
-Die kantonale Behörde muss die Unverhältnismässigkeit milderer Massnahmen im Haftentscheid **ausdrücklich begründen**. Fehlt die Begründung, ist die Haft rechtswidrig.
+**16** **Art. 25 vs. Art. 25b AsylG.** Art. 25b regelt die vorübergehende Festhaltung, Art. 25 ermächtigt dazu im Rahmen von Abs. 2 lit. d.
 
-### IV. Haftdauer und Verlängerung (Abs. 3)
-
-Die **maximale Haftdauer** beträgt sechs Monate. Dies ist eine absolute Frist, die nicht delegiert oder umgangen werden kann ([BGE 143 I 137](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_143_I_137), E. 4.1).
-
-Die **Verlängerung** um höchstens drei Monate (Gesamtdauer: neun Monate) ist nur zulässig, wenn die ausgeschaffte Person die Ausschaffung selbst verhindert. Die Verhinderung muss auf **aktivem Verhalten** beruhen (z.B. Verweigerung der Mitwirkung bei der Beschaffung von Reise- und Identitätsdokumenten, aktives Untertauchen). Blosse Passivität, mangelnde Kooperationsbereitschaft ohne aktives Zutun oder Verzögerungen, die auf die Behörden zurückzuführen sind, rechtfertigen keine Verlängerung.
-
-Der Verlängerungsentscheid ist **vor Ablauf** der Sechsmonatsfrist zu fällen, da andernfalls die Person aus der Haft zu entlassen ist.
-
-### V. Unterbringung (Abs. 5)
-
-Personen in Ausschaffungshaft sind von Strafgefangenen **getrennt** unterzubringen ([BGE 141 I 173](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_141_I_173), E. 5). Die Trennung soll dem unterschiedlichen rechtlichen Status Rechnung tragen: Ausschaffungshaft ist keine Strafe, sondern eine administrativrechtliche Zwangsmassnahme.
-
-In der Praxis bestehen in vielen Kantonen **spezielle Ausschaffungsgefängnisse** oder Abschnitte innerhalb von Haftanstalten, die ausschliesslich für Ausschaffungshaft verwendet werden. Ist keine solche Einrichtung vorhanden, kann die Unterbringung in einer Strafanstalt als Notlösung erfolgen, sofern die Trennung von Strafgefangenen gewährleistet ist.
-
-### VI. Verfahrensgarantien
-
-Die Ausschaffungshaft untersteht den **Verfahrensgarantien** der EMRK und des BV. Namentlich:
-
-- **Richterliche Prüfung**: Die Haftanordnung unterliegt der richterlichen Überprüfung ([BGE 139 I 325](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_139_I_325), E. 2.1). Art. 5 Abs. 4 EMRK verlangt, dass die betroffene Person unverzüglich einem Richter vorgeführt wird.
-- **Rechtliches Gehör**: Die betroffene Person hat Anspruch auf rechtliches Gehör und auf rechtliche Vertretung ([BGE 139 I 325](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_139_I_325), E. 3).
-- **Unentgeltliche Rechtspflege**: Bei Bedürftigkeit ist die unentgeltliche Rechtspflege zu gewähren (Art. 29 Abs. 3 BV, Art. 65a AIG).
-
-### VII. Abgrenzung zu Art. 31a AsylG (Ausschaffungshaft im Asylverfahren)
-
-**Art. 31a AsylG** regelt die Ausschaffungshaft *während* des Asylverfahrens (Durchführungshaft), während Art. 25 AsylG die Ausschaffungshaft zur Sicherstellung des *Vollzugs* nach Abschluss des Asylverfahrens betrifft. Die beiden Normen überschneiden sich teilweise, haben aber unterschiedliche Voraussetzungen und Haftgründe.
-
-### Kasuistik
-
-- **Konkrete Fluchtgefahr bejaht**: Ausländische Person ohne festen Wohnsitz, ohne familiäre Bindungen, mit fehlender Kooperation bei der Dokumentenbeschaffung und nachgewiesener früherer Fristsverfehlung → Fluchtgefahr bejaht, Haft zulässig.
-- **Konkrete Fluchtgefahr verneint**: Ausländische Person mit fester Wohnung, familiären Bindungen und regulärer Meldepflichtnachung, die einzige Verfehlung ist ein einmaliges Nichterscheinen → Fluchtgefahr verneint, Meldeauflage als mildere Massnahme angeordnet.
+**17** **Art. 25 vs. Art. 9 AsylG.** Art. 9 regelt die Durchsuchung als solche, Art. 25 Abs. 2 lit. a erlaubt polizeilichen Zwang im Rahmen der Durchsuchung.
 
 ## Literatur
 
 - OnlineKommentar AsylG, Art. 25 N. 1 ff.
-- DALCO / HÄRING, Migrationsrecht, 3. Aufl. 2024, § 8 Rz. 25 ff.
-- ACHERMANN / MOSER-LEMOINE, Ausschaffungshaft und Grundrechte, AJP 2022, 789 ff.
+- BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), BBl 2024 1107
+- ZAG-Kommentar, SR 364

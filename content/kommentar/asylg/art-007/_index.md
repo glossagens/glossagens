@@ -1,103 +1,89 @@
 ---
-title: "Art. 7 — Zuständigkeit für das Asylverfahren"
+title: "Art. 7 — Nachweis der Flüchtlingseigenschaft"
 weight: 7
-date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 7 AsylG – Zuständigkeit für die Durchführung des Asylverfahrens und Entscheidungsinstanzen"
-tags: ["AsylG", "Zuständigkeit", "Asylverfahren", "SEM", "BVerwG", "Verfahrensrecht"]
+date: 2026-06-08
+lastmod: 2026-06-08
+description: "Kommentar zu Art. 7 AsylG — Nachweis und Glaubhaftmachung der Flüchtlingseigenschaft, Beweismass, Unglaubhaftigkeit"
+tags: ["AsylG", "Flüchtlingseigenschaft", "Glaubhaftmachung", "Beweislast", "Nachweis", "Unglaubhaftigkeit"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 7 AsylG — Zuständigkeit für das Asylverfahren**
+> **Art. 7 AsylG — Nachweis der Flüchtlingseigenschaft**
 >
-> 1 Das Staatssekretariat für Migration (SEM) entscheidet über Gesuche um Gewährung von Asyl.
+> 1 Wer um Asyl nachsucht, muss die Flüchtlingseigenschaft nachweisen oder zumindest glaubhaft machen.
 >
-> 2 Es führt das Verfahren durch und trifft die Verfügung.
+> 2 Glaubhaft gemacht ist die Flüchtlingseigenschaft, wenn die Behörde ihr Vorhandensein mit überwiegender Wahrscheinlichkeit für gegeben hält.
 >
-> 3 Es kann die Durchführung des Verfahrens ganz oder teilweise den kantonalen Behörden übertragen; diese handeln in seinem Auftrag.
->
-> 4 Der Bundesrat kann für die Durchführung von Asylverfahren durch das SEM Weisungen erlassen.
+> 3 Unglaubhaft sind insbesondere Vorbringen, die in wesentlichen Punkten zu wenig begründet oder in sich widersprüchlich sind, den Tatsachen nicht entsprechen oder massgeblich auf gefälschte oder verfälschte Beweismittel abgestützt werden.
+
+## Überblick und Bedeutung
+
+**1** **Beweisrechtliche Schlüsselnorm.** Art. 7 AsylG regelt die Beweislast und das Beweismass im Asylverfahren. Er bestimmt, dass die gesuchstellende Person die Flüchtlingseigenschaft nachweisen oder zumindest glaubhaft machen muss (Abs. 1), definiert den Massstab der Glaubhaftmachung (Abs. 2) und zählt exemplarisch Gründe auf, die ein Vorbringen als unglaubhaft erscheinen lassen (Abs. 3).
+
+**2** **Spiegelung der Asylverfahrensstruktur.** Die Norm spiegelt die Grundstruktur des Asylverfahrens: Die gesuchstellende Person trägt die Darlegungs- und Beweislast für die Flüchtlingseigenschaft. Gleichzeitig trägt das asylrechtliche Beweismass der typischerweise schwierigen Beweissituation von Flüchtlingen Rechnung, indem mit der Glaubhaftmachung ein ermässigtes Beweismass gilt.
 
 ## Kommentierung
 
-### Bedeutung
+### I. Nachweis oder Glaubhaftmachung (Abs. 1)
 
-Art. 7 AsylG regelt die **Zuständigkeit für das Asylverfahren**: Das Staatssekretariat für Migration (SEM) ist die zentrale Entscheidungsinstanz für Asylgesuche (Abs. 1), führt das Verfahren durch und erlässt die Verfügung (Abs. 2). Die Delegation an kantonale Behörden (Abs. 3) ist in der Praxis von erheblicher Bedeutung, da die meisten Verfahrensinformationen von den kantonalen Behörden erhoben werden. Der Bundesrat kann Weisungen zur Verfahrensdurchführung erlassen (Abs. 4).
+**3** **Darlegungslast der gesuchstellenden Person.** Wer um Asyl nachsucht, muss die Flüchtlingseigenschaft nachweisen oder zumindest glaubhaft machen. Die Beweislast liegt somit grundsätzlich bei der gesuchstellenden Person. Dies folgt aus dem allgemeinen verwaltungsverfahrensrechtlichen Grundsatz, dass die Partei, die sich auf einen Anspruch beruft, dessen Voraussetzungen darzulegen und zu beweisen hat (Art. 12 VwVG).
 
-Die Norm ist die **organisatorische Grundlage** des gesamten Asylverfahrens und statuiert das Prinzip der Bundeszuständigkeit: Asylgesuche werden bundesstaatlich entschieden, auch wenn die Kantone massgeblich an der Verfahrensdurchführung beteiligt sind.
+**4** **Nachweis vs. Glaubhaftmachung.** Das Gesetz stellt zwei alternative Beweismassstäbe zur Verfügung:
+- **Nachweis**: Der strenge Beweis erfordert den lückenlosen und zweifelsfreien Nachweis der Flüchtlingseigenschaft. In der Asylpraxis ist dies die Ausnahme.
+- **Glaubhaftmachung**: Das ermässigte Beweismass nach Abs. 2 ist der Regelfall. Es genügt, wenn die Behörde das Vorhandensein der Flüchtlingseigenschaft mit überwiegender Wahrscheinlichkeit für gegeben hält.
 
-### Absatz 1 — Bundeszuständigkeit
+**5** **Mitwirkungspflicht.** Abs. 1 steht im Zusammenhang mit der Mitwirkungspflicht nach Art. 8 AsylG. Die gesuchstellende Person ist verpflichtet, an der Feststellung des Sachverhalts mitzuwirken. Kommt sie dieser Pflicht nicht nach, kann dies zur Unglaubhaftigkeit des Vorbringens führen (Abs. 3).
 
-**Das SEM entscheidet über Asylgesuche.** Die Zuständigkeit liegt beim Bund, genauer beim SEM im Eidgenössischen Justiz- und Departement (EJD). Diese Bundeszuständigkeit folgt aus der Natur des Asyls als Bundesangelegenheit (Art. 121 BV) und dem Ausschliesslichkeitsgrundsatz des Asylrechts.
+### II. Massstab der Glaubhaftmachung (Abs. 2)
 
-Die Bundeszuständigkeit bedeutet, dass die **letzte Entscheidung** über Asylgesuche immer beim SEM liegt. Die kantonalen Behörden können im Auftrag des SEM Verfahrenshandlungen vornehmen (Abs. 3), aber die Verfügung erlässt das SEM.
+**6** **Überwiegende Wahrscheinlichkeit.** Die Flüchtlingseigenschaft ist glaubhaft gemacht, wenn die Behörde ihr Vorhandensein mit **überwiegender Wahrscheinlichkeit** für gegeben hält. Dies bedeutet: Es muss wahrscheinlicher sein, dass die Flüchtlingseigenschaft vorliegt, als dass sie nicht vorliegt. Der Massstab liegt zwischen dem blossein vernünftigen Zweifel und dem strikten Beweis.
 
-Die Zuständigkeit erstreckt sich auf:
-- **Asylgesuche**: Das Begehren um Anerkennung als Flüchtling und Gewährung von Asyl
-- **Vorläufige Aufnahme**: Einer Ablehnung des Asylgesuchs kann die vorläufige Aufnahme folgen (Art. 44 AsylG)
-- **Wegweisung**: Bei Nichtgewährung von Asyl erlässt das SEM die Wegweisungsverfügung
+**7** **Gesamtwürdigung.** Die Glaubhaftmachung erfordert eine Gesamtwürdigung aller Umstände. Das Bundesgericht wendet einen objektivierten Massstab an und berücksichtigt namentlich:
+- Die Schlüssigkeit und Widerspruchsfreiheit der Darlegungen
+- Die Übereinstimmung mit anerkannten Herkunftsländerinformationen
+- Die Plausibilität des Reisewegs und der Identität
+- Allfällige objektive Beweismittel (Dokumente, Zeugenaussagen)
 
-### Absatz 2 — Verfahrensdurchführung und Verfügung
+**8** **Keine absolute Gewissheit.** Das Bundesgericht hat wiederholt festgehalten, dass im Asylverfahren nicht absolute Gewissheit verlangt werden kann. Die Glaubhaftmachung erfordert nicht, dass jeder Zweifel ausgeräumt ist, sondern dass die Gründe für das Vorliegen der Flüchtlingseigenschaft überwiegen ([BGE 137 I 305](https://www.bger.ch/ext/eurolex/index/BGE_137_I_305), E. 2.2).
 
-**Das SEM führt das Verfahren durch und trifft die Verfügung.** Abs. 2 betont, dass das SEM nicht nur entscheidet, sondern auch das Verfahren durchführt. Dies umfasst:
-- Die **Entgegennahme** des Asylgesuchs
-- Die ** Durchführung** der Anhörung und Beweiserhebung
-- Die **Entscheidfindung** und den **Erlass der Verfügung**
+### III. Unglaubhaftigkeit (Abs. 3)
 
-Die Verfügung des SEM enthält in der Regel:
-- Die Feststellung der Flüchtlingseigenschaft (Anerkennung oder Aberkennung)
-- Die Gewährung oder Verweigerung von Asyl
-- Die Anordnung einer vorläufigen Aufnahme oder Wegweisung
-- Die Anordnung von Massnahmen nach Art. 44 AsylG
+**9** **Nicht abschliessende Aufzählung.** Abs. 3 nennt drei exemplarische («insbesondere») Fälle der Unglaubhaftigkeit. Die Aufzählung ist nicht abschliessend; weitere Gründe können ein Vorbringen als unglaubhaft erscheinen lassen.
 
-### Absatz 3 — Delegation an kantonale Behörden
+**10** **Zu wenig begründet (lit. a).** Ein Vorbringen ist in wesentlichen Punkten zu wenig begründet, wenn die gesuchstellende Person keine konkreten Angaben zu den asylrelevanten Tatsachen macht, sondern nur allgemeine und vage Behauptungen aufstellt. Massgeblich ist, ob die Darlegungen ausreichend konkret sind, um überprüfbar zu sein.
 
-**Übertragung der Verfahrensdurchführung.** Abs. 3 ermöglicht dem SEM, die Durchführung des Verfahrens ganz oder teilweise an die kantonalen Behörden zu übertragen. Die kantonalen Behörden handeln **im Auftrag des SEM** (Auftragsverhältnis), nicht in eigener Zuständigkeit.
+**11** **In sich widersprüchlich (lit. b).** Widersprüche in den Angaben der gesuchstellenden Person können zur Unglaubhaftigkeit führen, insbesondere wenn sie wesentliche Punkte betreffen. Dabei sind jedoch kulturelle Unterschiede, Traumatisierung und das zwischenzeitliche Hinzulernen von Verfolgungsgründen angemessen zu berücksichtigen. Nicht jeder Widerspruch führt automatisch zur Unglaubhaftigkeit; es ist eine Gesamtwürdigung vorzunehmen.
 
-In der Praxis übertragen die meisten Kantone die Durchführung von Asylverfahren ganz dem SEM. Die Delegation hat folgende praktische Bedeutung:
-- **Befragung**: Die Anhörung der asylsuchenden Person wird regelmässig durch das SEM durchgeführt
-- **Beweiserhebung**: Die kantonalen Behörden können im Auftrag Beweise erheben
-- **Berichterstattung**: Die kantonalen Behörden erstatten dem SEM Bericht
+**12** **Den Tatsachen nicht entsprechend (lit. c).** Ein Vorbringen ist unglaubhaft, wenn es mit den festgestellten Tatsachen unvereinbar ist. Dies betrifft namentlich:
+- Angaben, die mit anerkannten Herkunftsländerinformationen im Widerspruch stehen
+- Behauptungen über geografische oder politische Verhältnisse, die nachweislich falsch sind
+- Identitätsangaben, die durch erkennungsdienstliche Abklärungen widerlegt werden
 
-Die Übertragung ist rechtlich ein **Auftragsverhältnis** (Art. 54 ff. VwVG): Die kantonalen Behörden handeln im Namen und nach Weisung des SEM. Verfügungs- und Entscheidkompetenz verbleiben beim SEM.
+**13** **Gefälschte oder verfälschte Beweismittel (lit. d).** Vorbringen, die massgeblich auf gefälschte oder verfälschte Beweismittel abgestützt werden, sind unglaubhaft. Dies gilt insbesondere für:
+- Gefälschte Reisepapiere oder Identitätsausweise
+- Verfälschte Urkunden (Geburtsurkunden, Heiratsurkunden etc.)
+- Erlogene oder manipulierte Dokumente
 
-### Absatz 4 — Weisungsrecht des Bundesrates
+Die Verwendung gefälschter Dokumente führt jedoch nicht automatisch zur Unglaubhaftigkeit des gesamten Vorbringens, sondern nur soweit das Vorbringen massgeblich auf diesen Dokumenten beruht. Das Bundesgericht verlangt, dass die falschen Dokumente für die Beurteilung der Flüchtlingseigenschaft zentral sind.
 
-**Verfahrensweisungen.** Der Bundesrat kann für die Durchführung von Asylverfahren durch das SEM Weisungen erlassen (Abs. 4). Diese Weisungen sind eine Form der administrativen Steuerung und dienen der einheitlichen Verfahrenspraxis.
+### IV. Verhältnis zur Mitwirkungspflicht (Art. 8 AsylG)
 
-Die Weisungen betreffen namentlich:
-- Die **Verfahrensdauer** und Fristen
-- Die **Anhörung** und Befragungstechnik
-- Die **Beweiswürdigung**
-- Die **Zusammenarbeit** mit kantonalen Behörden
+**14** **Zusammenspiel mit Art. 8 AsylG.** Art. 7 und Art. 8 AsylG sind eng verbunden: Nach Art. 8 sind Asylsuchende verpflichtet, an der Feststellung des Sachverhalts mitzuwirken. Eine Verletzung der Mitwirkungspflicht kann nach Art. 8 Abs. 3bis AsylG zur Abschreibung des Gesuchs führen und nach Art. 7 Abs. 3 AsylG zur Unglaubhaftigkeit des Vorbringens.
 
-### Verhältnis zum Verwaltungsverfahrensgesetz
+**15** **Grenzen der Mitwirkungspflicht.** Die Mitwirkungspflicht hat Grenzen. Das Bundesgericht hat festgehalten, dass traumatisierte Personen nicht unzumutbare Anforderungen an die Präzisierung ihres Vorbringens gestellt werden dürfen. Die Mitwirkungspflicht ist auch eingeschränkt, wenn die gesuchstellende Person objektiv nicht in der Lage ist, Beweise beizubringen (z.B. bei Verfolgung durch den eigenen Staat, der keine Beweise ausstellt).
 
-Das Asylverfahren untersteht grundsätzlich dem VwVG (Art. 4 AsylG), dessen Bestimmungen subsidiär anwendbar sind. Art. 7 AsylG konkretisiert dierganisatorische Zuständigkeit, während die verfahrensrechtlichen Regeln des VwVG (Anhörung, Beweiserhebung, Fristen) massgeblich bleiben.
+## Abgrenzungen
 
-### Rechtsmittel
+**16** **Art. 7 vs. Art. 3 AsylG.** Art. 3 definiert den Flüchtlingsbegriff (materiell), Art. 7 regelt den Nachweis der Flüchtlingseigenschaft (formell/beweisrechtlich).
 
-Gegen Verfügungen des SEM ist die **Beschwerde in öffentlich-rechtlichen Angelegenheiten** an das Bundesverwaltungsgericht (BVerwG) zulässig (Art. 83 lit. c Ziff. 1 BGG). Das BVerwG entscheidet als einzige kantonale Instanz (Art. 86 BGG), was bedeutet, dass das Bundesgericht bei Beschwerden gegen BVerwG-Entscheide nur eingeschränkt angerufen werden kann.
+**17** **Art. 7 vs. Art. 8 AsylG.** Art. 8 normiert die Mitwirkungspflicht, Art. 7 das Beweismass und die Glaubhaftmachung. Die beiden Normen ergänzen sich.
 
-### Kasuistik
-
-- **SEM als alleinige Entscheidinstanz**: Das SEM ist die alleinige zuständige Behörde für die Entscheidung über Asylgesuche. Eine kantonale Behörde kann nicht selbstständig über Asylgesuche entscheiden ([BGE 137 I 128](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_I_128) E. 3.1).
-
-- **Auftragsverhältnis**: Die kantonalen Behörden handeln im Auftrag des SEM und haben keine eigene Entscheidungskompetenz. Die Verfügung wird im Namen des SEM erlassen.
-
-- **Weisungsrecht**: Der Bundesrat hat von seinem Weisungsrecht umfassend Gebrauch gemacht, namentlich in der Asylverordnung 1 (AsylV 1) und der Verordnung über die Integrationsförderung.
-
-### Abgrenzungen
-
-- **Art. 14 AsylG**: Ausschliesslichkeit des Asylverfahrens — während des Asylverfahrens kann kein ausländerrechtliches Bewilligungsverfahren eingeleitet werden
-- **Art. 4 AsylG**: Subsidiäre Anwendbarkeit des VwVG auf das Asylverfahren
-- **Art. 83 lit. c BGG**: Beschwerde an das BVerwG gegen SEM-Verfügungen
-- **Art. 86 BGG**: Das Bundesverwaltungsgericht als einzige kantonale Instanz
+**18** **Art. 7 vs. Art. 31a AsylG.** Art. 31a regelt die Entscheide des SEM (Nichteintretensgründe), nicht den Nachweis der Flüchtlingseigenschaft.
 
 ## Literatur
 
 - OnlineKommentar AsylG, Art. 7 N. 1 ff.
-- DALCO / HÄRING, Migrationsrecht, 3. Aufl. 2024, § 5 Rz. 12 ff.
-- Botschaft zum AsylG, BBl 1999 305
+- Kälin/Caroni, Grundriss des Asylrechts, 2020
+- Botschaft zum AsylG, BBl 1996 II 1
