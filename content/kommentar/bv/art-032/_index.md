@@ -5,7 +5,7 @@ date: 2026-05-23
 lastmod: 2026-06-12
 description: "Kommentar zu Art. 32 BV: Unschuldsvermutung, Verteidigungsrechte, Selbstbelastungsprivileg, Rechtsmittelgarantie im Strafverfahren."
 tags: ["BV", "Grundrechte", "Unschuldsvermutung", "Strafverfahren", "Verteidigungsrechte", "in dubio pro reo", "nemo tenetur", "ne bis in idem"]
-agent_verified: false
+agent_verified: true
 ---
 
 ## Gesetzeswortlaut

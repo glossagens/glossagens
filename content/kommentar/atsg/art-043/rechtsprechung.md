@@ -47,5 +47,6 @@ Zurück zum Kommentar: [Art. 43 ATSG — Abklärung](./)
 | BGE 130 V 343 | 2004 | Arbeitsunfähigkeit vs. Erwerbsunfähigkeit vs. Invalidität — Drei-Stufen-Modell | E. 2.1 |
 | BGE 140 V 193 | 2014 | Aufgabenteilung zwischen rechtsanwendender Stelle und begutachtender Arztperson | E. 4 |
 | BGE 141 V 577 | 2015 | Voraussichtlich dauernde Beeinträchtigung — nicht endgültig, aber dauernd | E. 3.2 und 4.2 |
+| BGer 8C_3/2026 | 2026 | Präzisierung: Stellenangebote im Revisionsverfahren bei Invalidenkarriere zu berücksichtigen; Krankentaggelder nicht zum Invalideneinkommen | E. 4–5 |
 
-*Letzte Aktualisierung: 2026-06-06*
+*Letzte Aktualisierung: 2026-06-12*
