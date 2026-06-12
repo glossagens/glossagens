@@ -75,4 +75,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+### BGer 7B_528/2026 vom 02.06.2026 — Beschwerdelegitimation in strafrechtlichen Verfahren
+- **Thema**: Nichteintreten; Beschwerdelegitimation (qualité pour recourir)
+- **Kernaussage**: Bestätigung der Praxis zu Art. 81 BGG: Die beschuldigte Person ist zur Beschwerde legitimiert, wenn sie durch den angefochtenen Entscheid direkt berührt ist und ein schutzwürdiges Interesse an der Aufhebung oder Abänderung hat. Im konkreten Fall verneint das Bundesgericht die Legitimation, da die beschuldigte Person durch den angefochtenen Entscheid nicht beschwert war.
+- **Einschlägig für**: Art. 81 Abs. 1 (Beschwerdelegitimation)
+
+---
+
+*Letzte Aktualisierung: 2026-06-12*

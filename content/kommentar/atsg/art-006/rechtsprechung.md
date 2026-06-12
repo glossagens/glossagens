@@ -51,4 +51,10 @@ Zurück zum Kommentar: [Art. 6 ATSG — Arbeitsunfähigkeit](./)
 | BGE 143 V 409 | 2017 | Leicht- bis mittelgradige Depression: strenge Anforderungen an die Kausalitätsprüfung; nicht jedes psychische Leiden begründet eine Rente | E. 3–5 |
 | BGE 145 V 215 | 2019 | Suchterkrankungen als IV-relevante psychische Leiden; strukturiertes Beweisverfahren | E. 3 |
 
-*Letzte Aktualisierung: 2026-06-06*
+## VI. Neuere Rechtsprechung (2026)
+
+| Bezug | Jahr | Kurzbeschreibung | Erwägung |
+|-------|------|------------------|----------|
+| BGer 8C_3/2026 | 2026 | Präzisierung: Stellenangebote im angestammten Tätigkeitsgebiet bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen; Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV) | E. 4–5.2 |
+
+*Letzte Aktualisierung: 2026-06-12*

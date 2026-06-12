@@ -2,7 +2,7 @@
 title: "Art. 18 — Rente der Invalidenversicherung"
 weight: 18
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 18 IVG — Invalidenrente: Anspruchsvoraussetzungen, Invaliditätsgrad, Rentenberechnung, Zusatzrente und Verhältnis zur Eingliederung"
 tags: ["IVG", "Invalidenrente", "Invalidität", "Rentenberechnung", "Eingliederung", "Sozialversicherung"]
 agent_verified: true

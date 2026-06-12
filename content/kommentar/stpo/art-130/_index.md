@@ -2,7 +2,7 @@
 title: "Art. 130 StPO — Notwendige Verteidigung"
 weight: 130
 date: 2026-05-09
-lastmod: 2026-05-24
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 130 StPO: Notwendige Verteidigung, Voraussetzungen (lit. a–e), amtliche Verteidigung, Vorschlagsrecht, Wechsel, Waffengleichheit und EMRK."
 tags: ["notwendige Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Waffengleichheit", "effektive Verteidigung", "EMRK", "Quaranta", "Vorschlagsrecht", "Vertrauensverhältnis"]
 agent_verified: true

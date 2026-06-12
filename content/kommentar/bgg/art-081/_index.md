@@ -2,7 +2,7 @@
 title: "Art. 81 — Beschwerdelegitimation"
 weight: 81
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 81 BGG — Beschwerdelegitimation: Voraussetzungen der Beschwerdebefugnis, unmittelbare Betroffenheit, Privatklägerschaft, Beschwerde in Strafsachen"
 tags: ["BGG", "Beschwerdelegitimation", "Beschwerdebefugnis", "unmittelbare Betroffenheit", "Privatklägerschaft", "Rechtsmittel", "Beschwerde in Strafsachen"]
 agent_verified: true

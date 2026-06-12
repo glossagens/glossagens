@@ -75,4 +75,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+### BGer 8C_3/2026 vom 07.05.2026 — Präzisierung zur Invalidenkarriere im Revisionsverfahren
+- **Thema**: Stellenangebote im Revisionsverfahren; Krankentaggelder
+- **Kernaussage**: Das Bundesgericht präzisiert, dass ein Stellenangebot im angestammten Tätigkeitsgebiet bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen ist. Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV). Die Vorinstanz hat das Stellenangebot zu Unrecht nicht berücksichtigt und die Krankentaggelder zu Unrecht in das Invalideneinkommen einbezogen.
+- **Einschlägig für**: Art. 18 Abs. 2 (Invaliditätsgrad), Art. 25 Abs. 1 lit. a IVV
+
+---
+
+*Letzte Aktualisierung: 2026-06-12*

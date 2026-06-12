@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 130 StPO"
 weight: 130
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-06-12
 description: "Leading Cases und systematische Rechtsprechung zu Art. 130 StPO (Notwendige Verteidigung)"
 tags: ["notwendige Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Waffengleichheit", "effektive Verteidigung", "EMRK", "Quaranta", "Vorschlagsrecht"]
 agent_verified: true
@@ -154,6 +154,13 @@ Schwere Pflichtverletzung = sachlich nicht vertretbares bzw. offensichtlich fehl
 
 Keine Verletzung festgestellt trotz: 30 Min. Vorbereitung vor erster Einvernahme, 3 Jahre keine Gefängnisbesuche (aber Telefonate/Briefe), keine Gegenanzeige. → Verteidigungsstrategie-Ermessen der Verteidigung.
 → [E. 1.1, 1.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_918_2021)
+
+### BGer 6B_1005/2024 — 27. Mai 2026
+
+**Präzisierung: Doppeltes Pflichtverteidiger-Versagen nicht zurechenbar**
+
+Das Bundesgericht erweitert die Ausnahme vom Zurechnungsgrundsatz: Versäumt der Pflichtverteidiger eine Frist und beantragt keine Wiederherstellung, ist dies dem Beschuldigten nicht zurechenbar. Die Vorinstanz muss die Ausnahmevoraussetzungen prüfen. Bisher galt die Regel, dass Fristversäumnisse des Verteidigers grundsätzlich dem Beschuldigten zugerechnet werden (BGE 143 I 284). Das BGer präzisiert nun: Bei **doppeltem Versagen** des Pflichtverteidigers (Fristversäumnis + Unterlassen der Wiederherstellung) greift eine Ausnahme, wenn der Beschuldigte die Versäumnis nicht erkennen und nicht abwenden konnte.
+→ [E. 2–3](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.05.2026_6B_1005/2024)
 
 ### BGer 7B_1309/2024 — 18. März 2026
 
