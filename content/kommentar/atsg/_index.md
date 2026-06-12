@@ -17,6 +17,7 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 | [Art. 9](art-009/) | Erwerbsausfall | ~8'000 |
 | [Art. 16](art-016/) | Grundsatz | ~12'000 |
 | [Art. 17](art-017/) | Beginn und Ende | ~3'000 |
+| [Art. 25](art-025/) | Rückerstattung | ~13'000 |
 | [Art. 31](art-031/) | Ergänzende Leistung | ~4'000 |
 | [Art. 40](art-040/) | Verfahrensgrundsätze | ~5'000 |
 | [Art. 43](art-043/) | Abklärung / Beweiswürdigung | ~81'000 |
