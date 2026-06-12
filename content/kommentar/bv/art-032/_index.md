@@ -2,7 +2,7 @@
 title: "Art. 32 BV — Strafverfahrensgarantien"
 weight: 32
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 32 BV: Unschuldsvermutung, Verteidigungsrechte, Selbstbelastungsprivileg, Rechtsmittelgarantie im Strafverfahren."
 tags: ["BV", "Grundrechte", "Unschuldsvermutung", "Strafverfahren", "Verteidigungsrechte", "in dubio pro reo", "nemo tenetur", "ne bis in idem"]
 agent_verified: false
@@ -57,6 +57,8 @@ agent_verified: false
 **14** **Recht auf wirksame Verteidigung.** Das Recht auf wirksame Verteidigung umfasst das Recht, mit rechtzeitig und formgültig angebotenen Beweisanträgen gehört zu werden (6P.96/2005 E. 2). Die amtliche Verteidigung erfüllt eine staatliche Aufgabe; ein verfassungsrechtlicher Anspruch auf unentgeltlichen Rechtsbeistand besteht nur, soweit es zur Wahrung der Rechte notwendig ist (BGE 141 I 124 E. 3.1; BGE 129 I 129 E. 2.2.2). Pauschalhonorare für amtliche Verteidiger sind grundsätzlich zulässig (BGE 141 I 124 E. 4.2).
 
 **15** **Reformatio in peius.** Das Verbot der *reformatio in peius* ergänzt den Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) und das Recht auf ein faires Verfahren (Art. 6 EMRK) sowie die Verteidigungsrechte (Art. 32 BV) im Strafverfahren (6P.98/2005 E. 4.1).
+
+**15a** **Zurechnung des Anwaltsverschuldens.** Grundsätzlich sind Versäumnisse des gewählten oder amtlichen Verteidigers der beschuldigten Person zuzurechnen (BGE 141 I 124 E. 3.1). Das Bundesgericht hat jedoch in [BGer 6B_1005/2024, E. 3–4](https://www.bger.ch/ext/eurolex/index/6B_1005/2024) eine Ausnahme präzisiert: Versäumt der Pflichtverteidiger nicht nur eine Frist, sondern beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person **nicht** zurechenbar. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. Diese Präzisierung erweitert die bisherige Praxis, die eine Ausnahme nur bei qualifizierter Unrichtigkeit oder grober Fahrlässigkeit des Verteidigers bejahte, auf den Fall des völligen Unterlassens der Wiederherstellung (→ auch [StPO Art. 94](../../stpo/art-094/) und [StPO Art. 399](../../stpo/art-399/)).
 
 ### IV. Unmittelbarkeitsgrundsatz und Beweiswürdigung
 

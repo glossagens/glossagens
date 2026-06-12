@@ -2,7 +2,7 @@
 title: "Art. 90 — Grobe Verletzung der Verkehrsregeln"
 weight: 90
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 90 StGB – Grobe Verletzung der Verkehrsregeln: Tatbestandsmerkmale, qualifizierte Geschwindigkeitsüberschreitung, Fahrlässigkeit und Rechtsprechung"
 tags: ["StGB", "Verkehrsstrafrecht", "grobe Verletzung", "Geschwindigkeitsüberschreitung", "Verkehrsregel"]
 agent_verified: true

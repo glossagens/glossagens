@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 90 StGB"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-12
 description: "Übersicht der Entscheide zu Art. 90 StGB — Grobe Verletzung der Verkehrsregeln, Geschwindigkeitsüberschreitung, Belehrungspflicht"
 tags: ["Rechtsprechung", "StGB", "Verkehrsstrafrecht", "grobe Verletzung", "Geschwindigkeit", "Belehrung"]
 agent_verified: false
@@ -68,4 +68,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+### BGer 6B_1005/2025 vom 19.05.2026 — Verbindungsbusse und Berufungsbegründung im Verkehrsstrafrecht
+- **Thema**: Bestätigung der Obergrenze der Verbindungsbusse (max. 20 %); ungenügende Berufungsbegründung
+- **Kernaussage**: Das Bundesgericht bestätigt, dass die Verbindungsbusse maximal 20 % des Nettoeinkommens betragen darf (Art. 106 StPO). Eine ungenügende Berufungsbegründung, die sich in pauschalen Bestreitungen erschöpft, macht die Berufung unzulässig. Bei Videomessrügen genügt die blosse Behauptung der Messfehler nicht; es müssen konkrete Anhaltspunkte für eine Fehlmessung dargelegt werden.
+- **Einschlägig für**: Art. 90 Abs. 2 (Vorsatz, Strafzumessung), Art. 394 StPO (Berufung), Art. 106 StPO (Verbindungsbusse)
+
+---
+
+*Letzte Aktualisierung: 2026-06-12*

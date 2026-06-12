@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 6 EMRK"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-05-10
+lastmod: 2026-06-12
 description: "Übersicht der Entscheide zu Art. 6 EMRK – Recht auf ein faires Verfahren"
 tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung"]
 agent_verified: false
@@ -110,4 +110,10 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 10.5.2026*
+### Pflichtverteidigung und Zurechnung
+
+- **BGer 6B_1005/2024, E. 3–4** — Präzisierung: Versäumt der Pflichtverteidiger eine Frist und beantragt auch keine Wiederherstellung, ist dieses doppelte Versagen der beschuldigten Person nicht zurechenbar. Die Ausnahme vom Zurechnungsgrundsatz bei qualifiziertem Anwaltsverschulden gilt auch beim völligen Unterlassen des Wiederherstellungsgesuchs. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. (→ auch Art. 32 BV, Art. 6 Ziff. 3 lit. c EMRK, StPO Art. 94 und StPO Art. 399)
+
+---
+
+*Letzte Aktualisierung: 12.6.2026*

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 394 StPO"
 weight: 99
 date: 2026-05-30
-lastmod: 2026-06-07
+lastmod: 2026-06-12
 description: "Übersicht der Entscheide zu Art. 394 StPO – Ausschluss der Beschwerde bei Berufungsmöglichkeit und wiederholbaren Beweisanträgen"
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil"]
 agent_verified: false
@@ -84,4 +84,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+### BGer 6B_1005/2025 vom 19.05.2026 — Berufungsbegründung im Verkehrsstrafrecht
+- **Thema**: Ungenügende Berufungsbegründung; Verbindungsbusse
+- **Kernaussage**: Eine Berufungsbegründung, die sich in pauschalen Bestreitungen erschöpft, macht die Berufung unzulässig. Bei Videomessrügen genügt die blosse Behauptung der Messfehler nicht; es müssen konkrete Anhaltspunkte für eine Fehlmessung dargelegt werden. Die Verbindungsbusse darf maximal 20 % des Nettoeinkommens betragen (Bestätigung der Praxis).
+- **Einschlägig für**: lit. a (Berufung), Art. 398 StPO (Berufungsbegründung)
+
+---
+
+*Letzte Aktualisierung: 2026-06-12*

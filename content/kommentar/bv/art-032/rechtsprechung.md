@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 32 BV — Strafverfahrensgarantien"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-12
 description: "Übersicht der wichtigen Entscheide zu Art. 32 BV: Unschuldsvermutung, in dubio pro reo, Selbstbelastungsprivileg, Verteidigungsrechte, ne bis in idem, Rechtsmittelgarantie."
 tags: ["Rechtsprechung", "BV", "Unschuldsvermutung", "in dubio pro reo", "nemo tenetur", "ne bis in idem", "Strafverfahren"]
 agent_verified: false
@@ -65,3 +65,9 @@ Zurück zum Kommentar: [Art. 32 BV — Strafverfahrensgarantien](./)
 | BGE 139 I 72 | 2013 | Kartellsanktionen haben strafrechtlichen Charakter; Art. 6 und 7 EMRK sowie Art. 30 und 32 BV anwendbar; Anforderungen können erst im Verwaltungsgerichtsverfahren erfüllt werden | E. 2, 4 |
 | BGE 134 I 140 | 2008 | Gewaltschutzmassnahmen fallen nicht unter den Begriff der strafrechtlichen Anklage i.S.v. Art. 6 EMRK; guter Ruf als *civil right* | E. 4, 5.2 |
 | BGE 133 I 270 | 2007 | Fristenstillstand bei strafprozessualer Haft; Verteidigungsrechte | E. 4 |
+
+## VII. Zurechnung des Anwaltsverschuldens
+
+|| Bezug | Jahr | Kurzbeschreibung | Erwägung |
+|-------|------|------------------|----------|
+| BGer 6B_1005/2024 | 2026 | **Präzisierung:** Doppeltes Pflichtverteidiger-Versagen (Fristversäumnis + unterbliebene Wiederherstellung) ist dem Beschuldigten nicht zurechenbar; Vorinstanz muss Ausnahmevoraussetzungen von Amtes wegen prüfen | E. 3–4 |

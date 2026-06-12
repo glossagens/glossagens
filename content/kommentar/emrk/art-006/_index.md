@@ -2,7 +2,7 @@
 title: "Art. 6 — Recht auf ein faires Verfahren"
 weight: 6
 date: 2026-05-10
-lastmod: 2026-05-10
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren"
 tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte"]
 agent_verified: false
@@ -146,7 +146,7 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **38** **Pflichtverteidigung** Falls der beschuldigten Person die Mittel zur Bezahlung fehlen, hat sie Anspruch auf unentgeltlichen Beistand eines Verteidigers, wenn dies im Interesse der Rechtspflege erforderlich ist (Art. 6 Abs. 3 lit. c EMRK; Art. 29 Abs. 3 BV). Die Gewährung der amtlichen Verteidigung hängt von den Erfolgsaussichten, der Komplexität des Falles und der Bedeutung des Verfahrens für die beschuldigte Person ab (BGE 129 I 129, E. 2.2.2). Ein absoluter Anspruch auf amtliche Verteidigung bei aussichtslosen Rechtsmitteln besteht nach der Strassburger Praxis nicht, wenn dem Rechtsmittelverfahren ein Gerichtsverfahren vorausging, das die Garantien von Art. 6 EMRK einhielt (BGE 129 I 129, E. 2.2.2; VILLIGER, Handbuch EMRK, § 520).
 
-**39** **Wirksame Verteidigung** Wirksame Verteidigung ist nicht allein durch die Bestellung oder Präsenz des anwaltlichen Beistands garantiert (EGMR, Imbrioscia v. Schweiz, Nr. 13972/88, § 38). Sie erfordert auch, dass der Beistand die Möglichkeit hat, seine Aufgabe wirksam zu erfüllen. Versäumnisse des Rechtsbeistands gehen grundsätzlich zu Lasten der beschuldigten Person (BGE 143 I 284, E. 1.3; EGMR, Kamasinski v. Österreich, Nr. 9783/82, § 65).
+**39** **Wirksame Verteidigung** Wirksame Verteidigung ist nicht allein durch die Bestellung oder Präsenz des anwaltlichen Beistands garantiert (EGMR, Imbrioscia v. Schweiz, Nr. 13972/88, § 38). Sie erfordert auch, dass der Beistand die Möglichkeit hat, seine Aufgabe wirksam zu erfüllen. Versäumnisse des Rechtsbeistands gehen grundsätzlich zu Lasten der beschuldigten Person (BGE 143 I 284, E. 1.3; EGMR, Kamasinski v. Österreich, Nr. 9783/82, § 65). **Ausnahme bei doppeltem Pflichtverteidiger-Versagen:** Versäumt der Pflichtverteidiger nicht nur eine Frist, sondern beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person **nicht** zurechenbar ([BGer 6B_1005/2024, E. 3–4](https://www.bger.ch/ext/eurolex/index/6B_1005/2024)). Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. Diese Präzisierung des Bundesgerichts erweitert die bisherige Praxis, die eine Ausnahme nur bei qualifizierter Unrichtigkeit oder grober Fahrlässigkeit des Verteidigers bejahte (→ auch Art. 32 Abs. 2 BV, StPO Art. 94 und StPO Art. 399).
 
 ### Abs. 3 lit. d — Recht auf Zeugenbefragung
 
