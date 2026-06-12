@@ -149,4 +149,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 30.5.2026*
+### 8C_3/2026, E. 4–5.2
+- **Thema**: Präzisierung — Invalidenkarriere im Revisionsverfahren; Krankentaggelder
+- **Kernaussage**: Ein Stellenangebot im angestammten Tätigkeitsgebiet (hier: Chefärztin) ist bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen. Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV). Die Vorinstanz hat das Stellenangebot zu Unrecht nicht berücksichtigt und die Krankentaggelder zu Unrecht in das Invalideneinkommen einbezogen.
+- **Einschlägig für**: Art. 17 Abs. 1 ATSG (Revision der Invalidenrente), Art. 25 Abs. 1 lit. a IVV, Invalidenkarriere
+
+---
+
+*Letzte Aktualisierung: 12.6.2026*

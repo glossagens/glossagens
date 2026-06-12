@@ -2,7 +2,7 @@
 title: "Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 weight: 17
 date: 2026-05-15
-lastmod: 2026-05-30
+lastmod: 2026-06-12
 description: "Kommentar zu Art. 17 ATSG: Voraussetzungen der Rentenrevision, zeitliche Vergleichsbasis, zweistufige Prüfung, Diagnoseidentität, Abgrenzung zu Wiedererwägung und Neuanmeldung."
 tags: ["Rentenrevision", "Invalidenversicherung", "Sachverhaltsänderung", "ATSG", "Sozialversicherungsrecht"]
 agent_verified: false
