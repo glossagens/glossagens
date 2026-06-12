@@ -13,6 +13,7 @@ Kommentar zum [Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Stra
 | [Art. 1](art-001/) | Zweck |
 | [Art. 2](art-002/) | Begriff des Opfers |
 | [Art. 3](art-003/) | Grundsatz der Freiwilligkeit |
+| [Art. 4](art-004/) | Beratungszentren |
 | [Art. 8](art-008/) | Unentgeltlicher Rechtsbeistand |
 | [Art. 9](art-009/) | Beratungshilfe |
 | [Art. 25](art-025/) | Verwirkungsfristen |
