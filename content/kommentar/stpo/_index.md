@@ -30,8 +30,10 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 127](art-127/) | Pflichtverteidigung |
 | [Art. 130](art-130/) | Notwendige Verteidigung |
 | [Art. 132](art-132/) | Amtliche Verteidigung |
+| [Art. 133](art-133/) | Vorschlagsrecht |
 | [Art. 134](art-134/) | Wechsel der amtlichen Verteidigung |
 | [Art. 135](art-135/) | Parteientschädigung |
+| [Art. 136](art-136/) | Widerruf der amtlichen Verteidigung |
 | [Art. 139](art-139/) | Beweiserhebung |
 | [Art. 140](art-140/) | Beweiswürdigung |
 | [Art. 141](art-141/) | Verwertbarkeit von Beweisen |
