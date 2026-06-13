@@ -17,6 +17,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 16](art-016/) | Notstand |
 | [Art. 30](art-030/) | Tatmehrheit und Tateinheit |
 | [Art. 42](art-042/) | Bedingter Vollzug |
+| [Art. 49](art-049/) | Mehrere Strafen bei einer Tat |
 | [Art. 47](art-047/) | Grundsätze der Strafzumessung |
 | [Art. 58](art-058/) | Einrichtungen für den Vollzug |
 | [Art. 59](art-059/) | Stationäre therapeutische Massnahme |

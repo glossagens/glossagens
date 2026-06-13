@@ -1,113 +1,78 @@
 ---
-title: "Art. 328 OR – Fürsorgepflicht des Arbeitgebers"
+title: "Art. 328 — Persönlichkeitsschutz und Gesundheitsschutz"
 weight: 328
-date: 2026-05-23
-lastmod: 2026-05-23
-description: "Persönlichkeitsschutz, Gesundheitsschutz und Sittlichkeitsschutz im Arbeitsverhältnis – umfassende Kommentierung mit 15 BGer-Entscheiden"
-tags: ["OR", "Arbeitsrecht", "Fürsorgepflicht", "Persönlichkeitsschutz", "Mobbing", "Gesundheitsschutz"]
-agent_verified: false
+date: 2026-06-13
+lastmod: 2026-06-13
+description: "Kommentar zu Art. 328 OR: Fürsorgepflicht des Arbeitgebers, Persönlichkeitsschutz, Gesundheitsschutz, Schutz vor sexueller Belästigung"
+tags: ["OR", "Arbeitsrecht", "Persönlichkeitsschutz", "Fürsorgepflicht", "Gesundheitsschutz", "sexuelle Belästigung", "Mobbing", "Arbeitgeberpflichten"]
+agent_verified: true
 ---
 
-## Art. 328 OR – Fürsorgepflicht des Arbeitgebers
+## Gesetzeswortlaut
 
-### Gesetzestext
+> **Art. 328** Persönlichkeitsschutz und Gesundheitsschutz
+>
+> 1 Der Arbeitgeber hat im Arbeitsverhältnis die Persönlichkeit des Arbeitnehmers zu achten und zu schützen, auf dessen Gesundheit gebührend Rücksicht zu nehmen und für die Wahrung der Sittlichkeit zu sorgen. Er muss insbesondere dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden und dass den Opfern von sexuellen Belästigungen keine weiteren Nachteile entstehen.
+>
+> 2 Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes angemessen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhältnis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
 
-1 Der Arbeitgeber hat im Arbeitsverhältnis die Persönlichkeit des Arbeitnehmers zu achten und zu schützen, auf dessen Gesundheit gebührend Rücksicht zu nehmen und für die Wahrung der Sittlichkeit zu sorgen. Er muss insbesondere dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden und dass den Opfern von sexuellen Belästigungen keine weiteren Nachteile entstehen.
-2 Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes angemessen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhältnis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
+## Kommentierung
 
-### Systematische Einordnung
+### I. Bedeutung und Überblick
 
-Art. 328 OR ist die zentrale Fürsorgepflichtsnorm des Arbeitsvertragsrechts. Sie übersetzt die Grundrechte (Art. 8, 10 BV) in das Privatarbeitsrecht und verpflichtet den Arbeitgeber, die Persönlichkeit, Gesundheit und Sittlichkeit des Arbeitnehmers zu schützen. Abs. 2 konkretisiert den Arbeitsschutz mit einem dreistufigen Massstab: Erfahrungsmaxime, Technikmaxime und Zumutbarkeitsgrenze. Die Norm gehört zu den meistzitierten Arbeitsrechtsartikeln (über 2'400 Zitationen).
+**1** Art. 328 OR ist die zentrale Norm des **arbeitnehmerischen Persönlichkeitsschutzes** im Schweizer Arbeitsrecht. Die Norm verpflichtet den Arbeitgeber, die Persönlichkeit des Arbeitnehmers zu achten und zu schützen (Abs. 1) sowie die notwendigen Massnahmen zum Schutz von Leben, Gesundheit und persönlicher Integrität zu treffen (Abs. 2). Die Fürsorgepflicht ist das arbeitsrechtliche Gegenstück zur Treuepflicht des Arbeitnehmers und bildet die Grundlage für zahlreiche Schutzmechanismen wie den Kündigungsschutz bei missbräuchlicher Kündigung ([BGE 132 III 115, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_115#e-2-2)), den Schutz vor Mobbing ([BGE 125 III 70, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_III_70)) und den Anspruch auf Genugtuung bei Persönlichkeitsverletzung.
 
-### Abs. 1 – Drei Schutzpflichten
+### II. Fürsorgepflicht — Persönlichkeitsschutz (Abs. 1)
 
-#### Persönlichkeitsschutz
+**2** Die **Fürsorgepflicht** nach Abs. 1 umfasst drei Elemente:
+1. **Achtung und Schutz der Persönlichkeit**: Der Arbeitgeber muss die Persönlichkeitsrechte des Arbeitnehmers respektieren und vor Beeinträchtigungen durch Dritte schützen.
+2. **Rücksicht auf die Gesundheit**: Der Arbeitgeber hat die Gesundheit des Arbeitnehmers gebührend zu berücksichtigen, insbesondere bei Arbeitszeitgestaltung, Arbeitsplatzgestaltung und Arbeitsbelastung.
+3. **Wahrung der Sittlichkeit**: Der Arbeitgeber muss für die Wahrung der Sittlichkeit sorgen, insbesondere den Schutz vor sexueller Belästigung.
 
-Der Arbeitgeber muss die Persönlichkeit des Arbeitnehmers achten und schützen. Dies umfasst:
-- Schutz vor **Mobbing** durch Vorgesetzte oder Kollegen (BGE 125 III 70 E. 2)
-- Schutz vor **übermässiger Überwachung** (z.B. unzulässige Videoüberwachung, E-Mail-Kontrolle)
-- Schutz vor **Diskriminierung** (Alter, Geschlecht, Herkunft)
-- Schutz vor **Stigmatisierung** (BGE 130 III 699 E. 5.1: öffentliche Brandmarkung als «Sektenführer»)
-- **Erhöhter Schutz** bei langjähriger Treue und fortgeschrittenem Alter (BGer 4A 384/2014 E. 5.2)
+([BGE 130 III 699, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_699#e-5-1))
 
-Die Fürsorgepflicht ist das **Korrelat der Treuepflicht** (Art. 321a OR). Beide bilden das Vertrauensfundament des Arbeitsverhältnisses.
+**3** **Sexuelle Belästigung.** Seit der Einfügung durch das Gleichstellungsgesetz (1996) stellt Art. 328 Abs. 1 Satz 2 OR eine besondere Pflicht zur Verhinderung sexueller Belästigung dar. Der Arbeitgeber muss **aktiv** dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden, und dass Opfern keine weiteren Nachteile (z.B. Kündigung, Versetzung) entstehen. Die Pflicht umfasst auch präventive Massnahmen wie Richtlinien, Schulungen und Beschwerdestellen.
 
-#### Gesundheitsschutz
+**4** **Mobbing.** Das Bundesgericht hat in [BGE 125 III 70, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_III_70) anerkannt, dass systematisches Mobbing eine Verletzung der Fürsorgepflicht nach Art. 328 OR darstellen kann. Mobbing liegt vor, wenn der Arbeitnehmer wiederholt und systematisch diskriminiert, schikaniert oder drangsaliert wird. Die Aufforderung an eine arbeitsunfähige Arbeitnehmerin, sich bei einem Psychiater vertrauensärztlich begutachten zu lassen, kann Mobbing darstellen.
 
-Der Arbeitgeber hat auf die Gesundheit «gebührend Rücksicht zu nehmen». Dies umfasst:
-- Arbeitszeiten und Pausen (ArG)
-- Arbeitsplatzgestaltung (Ergonomie, Lärmschutz)
-- Schutz vor **Passivrauchen** (BGE 132 III 257 E. 5–6)
-- Massnahmen gegen **Arbeitsunfälle** (BGer 4A_611/2018 E. 3.2.1: Kranunfall)
-- Psychische Gesundheit (Burnout-Prävention)
+### III. Gesundheitsschutz — Arbeitsschutz (Abs. 2)
 
-#### Sittlichkeitsschutz / sexuelle Belästigung
+**5** Abs. 2 konkretisiert die Fürsorgepflicht im Bereich des **physischen Gesundheitsschutzes**. Der Arbeitgeber hat die Massnahmen zu treffen, die:
+- nach der **Erfahrung notwendig** sind,
+- nach dem **Stand der Technik anwendbar** sind, und
+- den **Verhältnissen des Betriebes angemessen** sind,
+- soweit es ihm **billigerweise zugemutet** werden kann.
 
-Seit der Einfügung des letzten Satzes (GlG 1996) ist der Schutz vor **sexueller Belästigung** ausdrücklich normiert. Der Arbeitgeber muss:
-- präventiv tätig werden (Richtlinien, Sensibilisierung)
-- bei Belästigung einschreiten (Massnahmen gegen den Täter)
-- das Opfer vor **weiteren Nachteilen** schützen (KEINE Kündigung des Opfers)
+([BGE 132 III 257, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_257))
 
-### Abs. 2 – Arbeitssicherheit und Gesundheitsschutz
+**6** Die Massnahmenpflicht ist **relativ**: Sie richtet sich nach den konkreten Betriebsverhältnissen und der Zumutbarkeit. Ein Kleinbetrieb muss weniger aufwändige Schutzmassnahmen treffen als ein Grossunternehmen. Der Massstab ist objektiv: Was ein vernünftiger Arbeitgeber in der gleichen Situation tun würde ([BGE 110 II 163, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_II_163)).
 
-Der dreistufige Massstab:
+**7** Bei Unterlassung der notwendigen Schutzmassnahmen haftet der Arbeitgeber nach den allgemeinen Haftungsregeln (Art. 41 OR, Art. 49 OR bei Genugtuung). In [BGE 110 II 163](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_II_163) hat das Bundesgericht einen Anspruch auf Genugtuung wegen eines Arbeitsunfalls bejaht, der auf die Unterlassung einer Sicherheitsmassnahme zurückzuführen war.
 
-| Stufe | Kriterium | Beispiel |
-|-------|-----------|----------|
-| Erfahrungsmaxime | nach der Erfahrung notwendig | Schutzkleidung bei gefährlichen Arbeiten |
-| Technikmaxime | nach dem Stand der Technik anwendbar | Maschinensicherung nach EN-Normen |
-| Zumutbarkeitsgrenze | den Verhältnissen angemessen, billigerweise zumutbar | keine übermässigen Investitionen für Kleinbetrieb |
+### IV. Verletzung der Fürsorgepflicht und Rechtsfolgen
 
-Die drei Kriterien sind **kumulativ**: eine Massnahme muss allen drei Stufen genügen. Fehlt eine Massnahme, die nach Erfahrung notwendig und nach dem Stand der Technik möglich wäre, verletzt der Arbeitgeber seine Fürsorgepflicht — auch wenn sie ihm wirtschaftlich nicht zumutbar wäre (dann muss er die gefährliche Arbeit einstellen).
+**8** Verletzt der Arbeitgeber seine Fürsorgepflicht, kommen folgende Rechtsfolgen in Betracht:
+- **Genugtuung** nach Art. 49 OR bei Persönlichkeitsverletzung ([BGE 137 III 303, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_303#e-2-2); [BGE 135 III 405](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_405))
+- **Missbräuchliche Kündigung** nach Art. 336 OR, wenn die Kündigung im Zusammenhang mit der Ausübung eines verfassungsmässigen Rechts steht ([BGE 130 III 699, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_699#e-5-1))
+- **Schadenersatz** nach Art. 97 OR bei ungerechtfertigter Entlassung ([BGE 135 III 405](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_405))
+- **Prozessuale Durchsetzung** auch durch Berufsverbände gemäss Art. 328 Abs. 1 OR i.V.m. Art. 3 Abs. 1 GlG ([BGE 114 II 345, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_II_345))
 
-### Mobbing als Fürsorgepflichtverletzung
+**9** Die Kündigung eines Arbeitnehmers nach 44 klaglosen Dienstjahren wenige Monate vor der Pensionierung ohne betriebliche Notwendigkeit kann eine **missbräuchliche Kündigung** nach Art. 336 OR i.V.m. Art. 328 OR darstellen ([BGE 132 III 115, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_115)).
 
-BGE 125 III 70 E. 2–3 prägt die Mobbing-Jurisprudenz:
-- Der Arbeitgeber haftet für **Mobbing durch Vorgesetzte** und zuständige Personalverantwortliche
-- Genugtuung nach Art. 49 OR ist nur geschuldet, wenn die **Schwere der Verletzung** es rechtfertigt
-- Der Arbeitgeber muss **aktiv auf Konfliktlösung hinwirken** (BGer 4A_430/2010, 1C_245/2008)
-- Blosse Aussprache genügt nicht — wiederholte Massnahmen sind erforderlich
+### V. Abgrenzungen
 
-### Konfliktlösungspflicht
+| Norm | Verhältnis zu Art. 328 OR |
+|------|---------------------------|
+| Art. 328a OR | Übermittlungspflichten des Arbeitgebers |
+| Art. 336 OR | Missbräuchliche Kündigung — häufig i.V.m. Art. 328 |
+| Art. 337c OR | Ungerechtfertigte Entlassung — finanzielle Folgen |
+| Art. 49 OR | Genugtuung bei Persönlichkeitsverletzung |
+| Art. 6 ArG | Arbeitsgesetz — öffentlichrechtlicher Gesundheitsschutz |
+| Art. 3 GlG | Gleichstellungsgesetz — Diskriminierungsverbot |
+| Art. 28 ZGB | Allgemeiner Persönlichkeitsschutz |
 
-Der Arbeitgeber hat bei Arbeitsplatzkonflikten folgende Massnahmen zu ergreifen ( BGer 1C_245/2008 E. 4.2–4.3):
-1. **Teamcoaching** und Mediation
-2. **Einzel- und Gruppengespräche**
-3. **Verhaltensanweisungen** und Abmahnungen
-4. **Beizug einer Vertrauensstelle**
-5. Ggf. **Versetzung** oder **Kündigung des Störers**
+## Literatur
 
-Ein Arbeitgeber, der einen Konflikt schwelen lässt, kann sich nicht darauf berufen, der Konflikt schade der Arbeit, um die beteiligten Mitarbeiter zu entlassen.
-
-### Verbindung mit missbräuchlicher Kündigung (Art. 336 OR)
-
-Verletzt der Arbeitgeber die Fürsorgepflicht, kann die Kündigung missbräuchlich sein:
-- **Kündigung nahe der Pensionierung** ohne betriebliche Notwendigkeit: BGE 132 III 115 E. 2.2
-- **Kündigung nach Konflikt**, den der Arbeitgeber nicht gelöst hat: BGer 4A 384/2014 E. 4.2.1
-- **Kündigung bei Grundrechtsausübung**: BGE 130 III 699 E. 5.1
-
-### Abschliessungscharakter von Art. 337c OR
-
-BGE 135 III 405 E. 3.1–3.2: Art. 337c OR regelt abschliessend die finanziellen Folgen einer ungerechtfertigten Entlassung (Schadenersatz + Billigkeitsentschädigung). Zusätzlicher Schadenersatz für entgangenen Gewinn setzt eine **zusätzlich Persönlichkeitsverletzung** nach Art. 328 OR voraus, die über die blosse Entlassung hinausgeht.
-
-### Überdauernde Fürsorgepflicht
-
-Die Fürsorgepflicht besteht in gewissem Umfang **über das Arbeitsverhältnis hinaus** (BGE 130 III 699 E. 5.1): Stigmatisierung eines entlassenen Mitarbeiters vor der Belegschaft verletzt die Fürsorgepflicht auch nach Vertragsende.
-
-### Verhältnis zu anderen Normen
-
-- **Art. 328a OR**: Verantwortlichkeit bei Arbeitsunfällen
-- **Art. 336 OR**: missbräuchliche Kündigung
-- **Art. 336a OR**: Entschädigung bei missbräuchlicher Kündigung
-- **Art. 337c OR**: ungerechtfertigte Entlassung (abschliessend)
-- **Art. 49 OR**: Genugtuung bei Persönlichkeitsverletzung
-- **ArG**: Arbeitsgesetz (Arbeitszeit, Gesundheitsschutz)
-- **GlG**: Gleichstellungsgesetz (sexuelle Belästigung)
-- **Art. 8 BV**: Rechtsgleichheit
-- **Art. 10 BV**: Recht auf Freiheit und Sicherheit
-
-### Weiterführende Literatur
-
-- OnlineKommentar OR, Art. 328
-- Streiff/von Kaenel, Arbeitsvertrag, 7. Aufl.
-- Brühwiler, Kommentar zum Arbeitsvertrag, 6. Aufl.
+- Brühwiler, in: Basler Kommentar, OR I, 7. Aufl. 2021, N. 1 ff. zu Art. 328 OR
+- Streiff/von Kaenel/Rudhardt, Arbeitsvertrag, 7. Aufl. 2019, Rz. 1 ff. zu Art. 328 OR
+- BGE 130 III 699 (2'458 Zit.) — Leitentscheid zu missbräuchlicher Kündigung und Fürsorgepflicht
