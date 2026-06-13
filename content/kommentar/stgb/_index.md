@@ -25,6 +25,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 66a](art-066a/) | Einziehung |
 | [Art. 77b](art-077b/) | Veröffentlichung des Urteils |
 | [Art. 90](art-090/) | Grobe Verletzung der Verkehrsregeln |
+| [Art. 106](art-106/) | Busse |
 | [Art. 111](art-111/) | Vorsätzliche Tötung |
 | [Art. 112](art-112/) | Mord |
 | [Art. 117](art-117/) | Totschlag |

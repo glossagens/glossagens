@@ -61,4 +61,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+### BGer 6B_1005/2025, E. 6
+- **Thema**: Verschreiber im Dispositiv bei Verbindungsbusse
+- **Kernaussage**: Weicht das Dispositiv (20 Tagessätze) vom Begründungstext (25 Tagessätze) zugunsten des Beschuldigten ab, wird der Verschreiber nicht korrigiert. Die Verbindungsbusse (Art. 42 Abs. 4 StGB) berechnet sich nach dem im Dispositiv ausgewiesenen Betrag.
+- **Einschlägig für**: Art. 42 Abs. 4 StGB (Verbindungsbusse)
+
+---
+
+*Letzte Aktualisierung: 2026-06-13*

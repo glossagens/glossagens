@@ -2,7 +2,7 @@
 title: "Art. 43 ATSG — Abklärung"
 weight: 43
 date: 2026-05-23
-lastmod: 2026-06-12
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 43 ATSG: Untersuchungsmaxime, Beweiswürdigung, Mitwirkungspflichten und Nichteintreten im Sozialversicherungsverfahren."
 tags: ["ATSG", "Sozialversicherungsrecht", "Beweiswürdigung", "Abklärungspflicht", "Untersuchungsmaxime", "MEDAS", "Mitwirkungspflicht", "Nichteintreten"]
 agent_verified: true

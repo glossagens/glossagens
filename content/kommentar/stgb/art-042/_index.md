@@ -2,7 +2,7 @@
 title: "Art. 42 — Bedingter Vollzug"
 weight: 42
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 42 StGB — Bedingter Vollzug einer Freiheitsstrafe: Voraussetzungen, Prognose, Schlechtprognose, Strafaufschub"
 tags: ["StGB", "bedingter Vollzug", "Strafaufschub", "Prognose", "Schlechtprognose", "Vorstrafen", "Freiheitsstrafe"]
 agent_verified: true
