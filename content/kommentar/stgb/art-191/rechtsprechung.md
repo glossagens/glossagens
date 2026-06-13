@@ -65,4 +65,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2. Juni 2026*
+### BGer 6B_622/2024 vom 19. Mai 2026
+- **Thema**: Mehrfache Schändung; Strafzumessung; Aufschub des Strafvollzugs
+- **Kernaussage**: Das Bundesgericht bestätigt, dass mehrfache Schändung im Sinne von Art. 191 StGB (nF) verschiedene Einzelakte gegenüber demselben Opfer umfassen kann. Bei der Strafzumessung sind die erhöhte Schuld durch Wiederholung und die besondere Verwerflichkeit der Tatausführung zu berücksichtigen. Der Aufschub des Strafvollzugs (Art. 77 StGB) setzt konkrete und überwiegende Gründe voraus, die eine vorläufige Nichtvollstreckung rechtfertigen.
+- **Einschlägig für**: Art. 191 StGB (mehrfache Begehung); Strafzumessung bei Sexualdelikten
+
+---
+
+*Letzte Aktualisierung: 13. Juni 2026*

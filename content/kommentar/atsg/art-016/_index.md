@@ -2,7 +2,7 @@
 title: "Art. 16 ATSG — Grad der Invalidität"
 weight: 16
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 16 ATSG: Einkommensvergleich, Valideneinkommen, Invalideneinkommen, Tabellenlohnabzug, Parallelisierung, ausgeglichener Arbeitsmarkt."
 tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: false
@@ -36,6 +36,8 @@ Für die Bestimmung des Invaliditätsgrades wird das Erwerbseinkommen, das die v
 
 **6** **Karriereentwicklung** Bestehen zuverlässige Hinweise auf eine hypothetische Lohnentwicklung (z.B. Arbeitgeberbestätigung über eine Beförderung, Abschluss einer begonnenen Ausbildung), sind diese dem statistischen Tabellenlohn vorzuziehen. Besondere berufliche Qualifikationen, die nach der Rentenfestsetzung erworben worden wären, sind bei der Neubestimmung des Valideneinkommens zu berücksichtigen (BGE 139 V 28, E. 3.3.2).
 
+**6a** **Invalidenkarriere im Revisionsverfahren** Im Revisionsverfahren ist der in der Zwischenzeit tatsächlich durchlaufene beruflich-erwerbliche Werdegang als invalide Person zu berücksichtigen. Eine trotz Invalidität erlangte besondere berufliche Qualifizierung erlaubt Rückschlüsse auf die mutmassliche Entwicklung ohne Gesundheitsschaden. Aus einer erfolgreichen Invalidenkarriere in einem neuen Tätigkeitsbereich darf jedoch nicht ohne Weiteres abgeleitet werden, die versicherte Person hätte ohne Invalidität eine vergleichbare Position im angestammten Tätigkeitsgebiet erreicht ([BGE 145 V 141, E. 5.2.1]; BGer 8C_100/2024 v. 19.9.2024, E. 8.1.2). Ein Stellenangebot im angestammten Tätigkeitsgebiet ist bei der Valideneinkommensberechnung zu berücksichtigen; die Vorinstanz muss sich dazu äussern (BGer 8C_3/2026 v. 7.5.2026, E. 5.2.4).
+
 **7** **Konkurs des Arbeitgebers** Fällt der frühere Arbeitgeber nach Eintritt des Gesundheitsschadens in Konkurs, ist die versicherte Person hypothetisch nicht mehr bei diesem tätig. Das Valideneinkommen ist in solchen Fällen anhand statistischer LSE-Tabellenlöhne zu ermitteln; massgebend ist die Lohnklasse, der die versicherte Person aufgrund ihrer Qualifikationen zugeordnet worden wäre. Die Einstufung in einen Kollektivarbeitsvertrag (z.B. Landesmantelvertrag Bau) richtet sich nach den konkreten Fähigkeiten und dem Verhalten des Arbeitgebers; eine blosse Berufsbezeichnung im Arbeitsvertrag genügt ohne ausdrückliche Anerkennung als qualifizierter Facharbeiter nicht (BGer, 8C_349/2025 v. 28.4.2026, E. 4.3–4.4).
 
 **8** **Soziallohn** Erzielt eine versicherte Person in einem Familienbetrieb einen Lohn, der die tatsächliche Arbeitsleistung übersteigt, liegt ein Soziallohn vor; dieser ist beim Valideneinkommen nicht zu berücksichtigen. Die Anforderungen an den Nachweis von Soziallohn sind hoch: Die Weiterbeschäftigung eines älteren Arbeitnehmers im Familienunternehmen begründet noch keine Soziallohnvermutung, solange er wirtschaftlich erheblich tätig ist (BGer, 9C_382/2025 v. 25.11.2025, E. 3.2).
@@ -63,6 +65,8 @@ Für die Bestimmung des Invaliditätsgrades wird das Erwerbseinkommen, das die v
 ### Ermittlung des Invalideneinkommens
 
 **13** **Vorrang des tatsächlichen Einkommens** Primär ist das Einkommen heranzuziehen, das die versicherte Person nach Eintritt der Invalidität tatsächlich erzielt, sofern dieses ihre verbliebene funktionelle Leistungsfähigkeit vollständig verwertet. Entspricht das tatsächlich erzielte Einkommen dem in der angestammten, leidensangepassten Tätigkeit erzielbaren, erübrigt sich ein Einkommensvergleich mangels Einkommensdifferenz (BGer, 8C_130/2026 v. 30.4.2026, E. 3.2).
+
+**13a** **Krankentaggelder des Arbeitgebers** Beiträge des Arbeitgebers für den Lohnausfall infolge Krankheit bei ausgewiesener Arbeitsunfähigkeit gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV). Sie werden auch dem beitragspflichtigen Lohn nicht hinzugerechnet (Art. 5 Abs. 2 AHVG i.V.m. Art. 6 Abs. 2 lit. b AHVV). Ist das tatsächlich erzielte Einkommen durch Krankentaggelder aufgeschläust, ist auf den IK-Auszug abzustellen, der den Lohn nach Abzug der Krankentaggelder widerspiegelt (BGer 8C_3/2026 v. 7.5.2026, E. 6.2.2).
 
 **14** **LSE-Tabellenlöhne als Grundlage** Fehlt ein tatsächlich erzieltes Einkommen oder verwertet dieses die Restarbeitsfähigkeit nicht vollständig, wird das Invalideneinkommen anhand der Schweizerischen Lohnstrukturerhebung (LSE) des Bundesamtes für Statistik bestimmt. Ausgangspunkt ist der Medianlohn (Zentralwert) der LSE; das Bundesgericht hat einen Wechsel zum unteren Quartil (Q1) als Ausgangspunkt mangels ernsthafter sachlicher Gründe abgelehnt (BGE 148 V 174, E. 6.2–6.4).
 

@@ -56,3 +56,4 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 394](art-394/) | Nichteintreten |
 | [Art. 399](art-399/) | Berufung |
 | [Art. 410](art-410/) | Revision |
+| [Art. 429](art-429/) | Entschädigung für ungenügende Verfahrensdauer |

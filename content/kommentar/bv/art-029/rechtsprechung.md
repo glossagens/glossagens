@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-13
 description: "Übersicht der massgeblichen Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege"]
 agent_verified: true
@@ -134,4 +134,11 @@ agent_verified: true
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+#### BGer 1C_619/2025
+- **Thema**: Rechtliches Gehör bei Beweisofferten im öffentlichen Dienstrecht — antizipierte Beweiswürdigung
+- **Kernaussage**: Das rechtliche Gehör (Art. 29 Abs. 2 BV) umfasst das Recht, relevante Beweise anzubieten und an deren Abnahme teilzunehmen. Die Behörde kann die Beweiserheung abschliessen, wenn sie sich bereits eine Überzeugung gebildet hat und aufgrund antizipierter Beweiswürdigung mit Sicherheit annehmen kann, dass die weiteren Beweise ihre Meinung nicht ändern würden (BGE 145 I 167, E. 4.1; BGE 140 I 285, E. 6.3.1). Die Rüge der willkürlichen Beweiswürdigung muss den qualifizierten Begründungsanforderungen von Art. 106 Abs. 2 BGG genügen. Krankheit allein begründet keinen zwingenden Anspruch auf vollständige Verlängerung der Probezeit nach Beförderung, wenn kantonales Recht flexible Probezeiten vorsieht.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; rechtliches Gehör; antizipierte Beweiswürdigung; Beweisofferte; Art. 9 BV; Willkürkontrolle
+
+---
+
+*Letzte Aktualisierung: 13. Juni 2026*

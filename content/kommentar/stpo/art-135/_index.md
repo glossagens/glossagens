@@ -2,7 +2,7 @@
 title: "Art. 135 — Entschädigung der amtlichen Verteidigung"
 weight: 135
 date: 2026-06-03
-lastmod: 2026-06-03
+lastmod: 2026-06-13
 
 description: "Kommentar zu Art. 135 StPO – Entschädigung der amtlichen Verteidigung: Tarif, Festsetzung, Vorschüsse, Rechtsmittel, Rückzahlung und Verjährung"
 tags: ["StPO", "amtliche Verteidigung", "Entschädigung", "Anwaltstarif", "Rechtsmittel", "Rückzahlung"]

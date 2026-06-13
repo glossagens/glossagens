@@ -170,6 +170,11 @@ agent_verified: false
 - **Kernaussage**: Im UVG-Bereich gelten dieselben Grundsätze zum Tabellenlohnabzug wie im IVG. Ob-Frage = Rechtsfrage (frei überprüfbar); Höhe = Ermessen. Der IVV-Pauschalabzug gilt im UVG nicht.
 - **Einschlägig für**: Tabellenlohnabzug — UVG, Kognition
 
+### BGer 8C_3/2026 vom 7. Mai 2026
+- **Thema**: Invalidenkarriere im Revisionsverfahren — Stellenangebot und Krankentaggelder
+- **Kernaussage**: Präzisierung zur Anrechnung der Invalidenkarriere im Revisionsverfahren: Ein Stellenangebot im angestammten Tätigkeitsgebiet ist bei der Bestimmung des Valideneinkommens zu berücksichtigen. Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV). Auf den IK-Auszug ist abzustellen, wenn dieser die Lohnabzüge nach Krankentaggeldleistung widerspiegelt. Echte Noven (Tatsachen nach dem vorinstanzlichen Entscheid) sind vor Bundesgericht unzulässig (Art. 99 Abs. 1 BGG).
+- **Einschlägig für**: Valideneinkommen (Invalidenkarriere im Revisionsverfahren); Invalideneinkommen (Krankentaggelder, IK-Auszug)
+
 ---
 
-*Letzte Aktualisierung: 2. Juni 2026*
+*Letzte Aktualisierung: 13. Juni 2026*

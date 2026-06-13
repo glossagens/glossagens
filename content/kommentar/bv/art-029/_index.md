@@ -2,7 +2,7 @@
 title: "Art. 29 — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 29 BV – Gleiche und gerechte Behandlung, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege", "Grundrechte", "fair trial"]
 agent_verified: true

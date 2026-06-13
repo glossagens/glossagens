@@ -59,6 +59,11 @@ agent_verified: false
 - **Kernaussage**: Die 20-tägige Frist für die Aberkennungsklage nach Art. 82 Abs. 3 SchKG ist eine absolute Frist, deren Versäumnis zur Gleichstellung der vorläufigen mit der definitiven Rechtsöffnung führt (Abs. 4). Eine Wiedereinsetzung in die Frist kommt nur bei Verschulden Dritter in Betracht.
 - **Einschlägig für**: Abs. 3 und 4
 
+### BGer 4A_128/2026 — 28. April 2026
+- **Thema**: Rechtsöffnung; Verjährungseinrede
+- **Kernaussage**: Im Rechtsöffnungsverfahren nach Art. 82 SchKG kann der Schuldner die Verjährungseinrede erheben, wenn die Forderung vor Einleitung des Betreibungsverfahrens verjährt war. Die Verjährungseinrede ist im Rechtsöffnungsverfahren grundsätzlich zulässig, sofern die Verteidigung nicht zur Hauptsache führt.
+- **Einschlägig für**: Art. 82 Abs. 1 (Rechtsöffnung und Verjährung)
+
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+*Letzte Aktualisierung: 13. Juni 2026*

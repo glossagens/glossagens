@@ -229,6 +229,11 @@ agent_verified: false
 - **Kernaussage**: Die Weg- und Zeitentschädigung eines in einem anderen Kanton domizilierten amtlichen Verteidigers darf nicht ab der bündnerischen Kantonsgrenze pauschal gekürzt werden. Eine solche Beschränkung ist unzulässig, da sie den Verteidiger in der Wahrnehmung seines Auftrags faktisch benachteiligt.
 - **Einschlägig für**: Abs. 1 (Wegentschädigung, ausserkantonaler Verteidiger)
 
+### BGer 6B_619/2024 — 10. Juni 2026
+- **Thema**: Entschädigung der amtlichen Verteidigung; Kürzung bei unwirtschaftlichem Aufwand
+- **Kernaussage**: Das Bundesgericht bestätigt, dass die Entschädigung der amtlichen Verteidigung nach Art. 135 StPO nach dem Grundsatz der Wirtschaftlichkeit zu bemessen ist. Unnötige Doppelsitzungen, übermässige Reisezeiten oder sachfremde Recherchen können gekürzt werden. Die Kürzung muss im Einzelfall begründet werden; pauschale Kürzungen ohne Einzelfallprüfung sind unzulässig.
+- **Einschlägig für**: Art. 135 Abs. 1 (Bemessung der Entschädigung)
+
 ---
 
-*Letzte Aktualisierung: 3. Juni 2026*
+*Letzte Aktualisierung: 13. Juni 2026*

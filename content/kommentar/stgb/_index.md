@@ -12,13 +12,16 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 |---------|-------|
 | [Art. 1](art-001/) | Geltungsbereich |
 | [Art. 2](art-002/) | Lex mitior |
-| [Art. 12](art-012/) | Verbrechen und Vergehen |
+| [Art. 10](art-010/) | Verbrechen und Vergehen |
+| [Art. 12](art-012/) | Vorsatz und Fahrlässigkeit |
 | [Art. 15](art-015/) | Notwehr |
 | [Art. 16](art-016/) | Notstand |
+| [Art. 19](art-019/) | Schuldfähigkeit |
+| [Art. 20](art-020/) | Begutachtung der Schuldfähigkeit |
 | [Art. 30](art-030/) | Tatmehrheit und Tateinheit |
 | [Art. 42](art-042/) | Bedingter Vollzug |
-| [Art. 49](art-049/) | Mehrere Strafen bei einer Tat |
 | [Art. 47](art-047/) | Grundsätze der Strafzumessung |
+| [Art. 49](art-049/) | Mehrere Strafen bei einer Tat |
 | [Art. 58](art-058/) | Einrichtungen für den Vollzug |
 | [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
 | [Art. 60](art-060/) | Verwahrung |

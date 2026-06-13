@@ -2,7 +2,7 @@
 title: "Art. 82 — Vorläufige Rechtsöffnung"
 weight: 82
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 82 SchKG – Vorläufige Rechtsöffnung, Voraussetzungen, Verfahren und Rechtsmittel"
 tags: ["SchKG", "Rechtsöffnung", "vorläufige Rechtsöffnung", "Betreibung", "Zwangsvollstreckung"]
 agent_verified: true

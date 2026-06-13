@@ -2,7 +2,7 @@
 title: "Art. 191 StGB — Schändung"
 weight: 191
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 191 StGB: Schändung, Urteilsunfähigkeit, Widerstandsunfähigkeit, Missbrauch, Vorsatz, Konkurrenz, Berufsverbot Art. 67 Abs. 4 StGB."
 tags: ["StGB", "Schändung", "Sexualstrafrecht", "Widerstandsunfähigkeit", "Urteilsunfähigkeit"]
 agent_verified: false
