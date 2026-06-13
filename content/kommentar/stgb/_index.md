@@ -16,6 +16,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 12](art-012/) | Vorsatz und Fahrlässigkeit |
 | [Art. 15](art-015/) | Notwehr |
 | [Art. 16](art-016/) | Notstand |
+| [Art. 18](art-018/) | Strafzumessung |
 | [Art. 19](art-019/) | Schuldfähigkeit |
 | [Art. 20](art-020/) | Begutachtung der Schuldfähigkeit |
 | [Art. 30](art-030/) | Tatmehrheit und Tateinheit |
