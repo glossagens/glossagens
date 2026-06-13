@@ -22,7 +22,9 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 10](art-010/) | Beschleunigungsgebot |
 | [Art. 11](art-011/) | Wahrheitserforschung |
 | [Art. 59](art-059/) | Kostentragung |
+| [Art. 89](art-089/) | Zurechnung des Vertreterverschuldens |
 | [Art. 94](art-094/) | Fristwiederherstellung |
+| [Art. 100](art-100/) | Unentgeltliche Rechtspflege |
 | [Art. 107](art-107/) | Beschlagnahme |
 | [Art. 108](art-108/) | Zwangsmassnahmen |
 | [Art. 109](art-109/) | Durchsuchung |
