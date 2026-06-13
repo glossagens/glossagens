@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 9 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-13
 description: "Wichtige Entscheide zu Art. 9 BV – Willkürverbot und Treu und Glauben"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte"]
 agent_verified: true
@@ -107,6 +107,16 @@ agent_verified: true
 **KERNAUSSAGE:** Ein psychiatrisches Gutachten ohne persönliche Untersuchung des Betroffenen ist nur ausnahmsweise zulässig. Willkür liegt vor, wenn ein Aktengutachten unzulässigerweise an die Stelle eines persönlichen Gutachtens tritt.
 
 **EINSCHLÄGIG FÜR:** Willkürverbot bei Beweiswürdigung (Sachverständigenbeweis)
+
+---
+
+### [BGer 1C_619/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=1C_619_2025) — Willkürkontrolle bei Beförderungsnichtbestätigung
+
+**THEMA:** Willkür / Beförderungsnichtbestätigung / Ermessenspielraum
+
+**KERNAUSSAGE:** Das Bundesgericht bestätigt einen weiten Ermessenspielraum der zuständigen Autorität bei Beförderungsnichtbestätigungen. Drei negative Evaluationen durch verschiedene Vorgesetzte rechtfertigen die Nichtbestätigung unter Willkürkontrolle (Art. 9 BV). Krankheit verpflichtet nicht zwingend zur Probezeitverlängerung, wenn kantonales Recht flexible Fristen vorsieht. Das rechtliche Gehör kann bei krankheitsbedingter Abwesenheit auch schriftlich ausgeübt werden.
+
+**EINSCHLÄGIG FÜR:** Willkürverbot bei Ermessensentscheiden im öffentlichen Arbeitsrecht
 
 ---
 

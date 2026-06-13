@@ -2,7 +2,7 @@
 title: "Art. 9 — Schutz vor Willkür und Wahrung von Treu und Glauben"
 weight: 9
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-13
 description: "Kommentar zu Art. 9 BV – Willkürverbot und Grundsatz von Treu und Glauben als verfassungsrechtliche Individualrechte"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte"]
 agent_verified: true
@@ -73,14 +73,16 @@ Nach der Botschaft zur BV-Reform (BBl 1997 I 1) soll Art. 9 BV den Schutz vor Wi
 
 **11** Im Verwaltungsrecht unterscheidet das Bundesgericht zwischen **Ermessensüberschreitung** (Qualität des Entscheids) und **Ermessensmissbrauch** (Motivation des Entscheids). Nur Letzterer fällt unter Art. 9 BV. Willkür bei der Verwaltung liegt vor, wenn die Behörde ihr Ermessen in krasser Weise zweckentfremdet oder offensichtlich unhaltbar ausübt ([BGE 140 I 285](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_140_I_285), E. 3).
 
+**12** Bei Ermessensentscheiden im öffentlichen Arbeitsrecht geniesst die zuständige Autorität einen weiten Ermessensspielraum. Ein Entscheid über die Nichtbestätigung einer Beförderung ist nur willkürlich, wenn er offensichtlich unhaltbar ist. Drei negative Evaluationen durch verschiedene Vorgesetzte rechtfertigen die Nichtbestätigung unter Willkürkontrolle; Krankheit verpflichtet dabei nicht zwingend zur Probezeitverlängerung, wenn kantonales Recht flexible Fristen vorsieht ([BGer 1C_619/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=1C_619_2025)).
+
 ### Treu und Glauben im Sozialversicherungsrecht
 
-**12** Im Sozialversicherungsrecht hat der Vertrauensschutz besondere Bedeutung. Hat eine Versicherung eine bestimmte Rechtsaufficht konsistent vertreten und hat der Versicherte darauf vertraut, so kann die Versicherung nicht einseitig von dieser Praxis abweichen, ohne Übergangsregelung oder Vertrauensschutz zu gewähren ([BGE 148 V 390](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_148_V_390), E. 5).
+**13** Im Sozialversicherungsrecht hat der Vertrauensschutz besondere Bedeutung. Hat eine Versicherung eine bestimmte Rechtsaufficht konsistent vertreten und hat der Versicherte darauf vertraut, so kann die Versicherung nicht einseitig von dieser Praxis abweichen, ohne Übergangsregelung oder Vertrauensschutz zu gewähren ([BGE 148 V 390](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_148_V_390), E. 5).
 
 ### Treu und Glauben im Steuerrecht
 
-**13** Im Steuerrecht gilt der Grundsatz, dass die Steuerbehörde an ihre Zusicherungen und Auskünfte gebunden ist, sofern der Steuerpflichtige darauf vertraut hat und vertrauen durfte. Ein widerrufliches Stillhalteversprechen kann einen Vertrauenstatbestand schaffen ([BGE 147 II 161](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_147_II_161), E. 4.2).
+**14** Im Steuerrecht gilt der Grundsatz, dass die Steuerbehörde an ihre Zusicherungen und Auskünfte gebunden ist, sofern der Steuerpflichtige darauf vertraut hat und vertrauen durfte. Ein widerrufliches Stillhalteversprechen kann einen Vertrauenstatbestand schaffen ([BGE 147 II 161](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_147_II_161), E. 4.2).
 
 ### Subsidiarität der Verfassungsbeschwerde
 
-**14** Art. 9 BV wird in der Praxis hauptsächlich über die subsidiäre Verfassungsbeschwerde (Art. 113 ff. BGG) geltend gemacht. Die Subsidiarität der Verfassungsbeschwerde bedeutet, dass kein anderer Rechtszug offen stehen darf. Das Willkürverbot nach Art. 9 BV ist das am häufigsten angerufene Grundrecht in subsidiären Verfassungsbeschwerden — in der Praxis des Bundesgerichts wird über die Hälfte aller Verfassungsbeschwerden mit der Rüge der Willkür begründet.
+**15** Art. 9 BV wird in der Praxis hauptsächlich über die subsidiäre Verfassungsbeschwerde (Art. 113 ff. BGG) geltend gemacht. Die Subsidiarität der Verfassungsbeschwerde bedeutet, dass kein anderer Rechtszug offen stehen darf. Das Willkürverbot nach Art. 9 BV ist das am häufigsten angerufene Grundrecht in subsidiären Verfassungsbeschwerden — in der Praxis des Bundesgerichts wird über die Hälfte aller Verfassungsbeschwerden mit der Rüge der Willkür begründet.

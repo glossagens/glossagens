@@ -20,6 +20,6 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 | [Art. 25](art-025/) | Rückerstattung | ~13'000 |
 | [Art. 31](art-031/) | Ergänzende Leistung | ~4'000 |
 | [Art. 40](art-040/) | Verfahrensgrundsätze | ~5'000 |
-| [Art. 43](art-043/) | Abklärung / Beweiswürdigung | ~81'000 |
+|| [Art. 43](art-043/) | Revisionsverfahren | ~81'000 |
 | [Art. 49](art-049/) | Anspruchsberechtigung | ~6'000 |
 | [Art. 56](art-056/) | Regelung des Anspruchs | ~3'000 |

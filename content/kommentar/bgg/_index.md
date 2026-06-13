@@ -21,3 +21,4 @@ Kommentar zum [Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (BGG, SR 1
 | [Art. 89](art-089/) | Beschwerdegegenstand | ~5'000 |
 | [Art. 90](art-090/) | Streitwertgrenze | ~12'000 |
 | [Art. 95](art-095/) | Kognition des Bundesgerichts | ~8'000 |
+| [Art. 99](art-099/) | Neue Tatsachen und Beweismittel | ~3'000 |

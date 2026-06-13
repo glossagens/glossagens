@@ -1,155 +1,88 @@
 ---
-title: "Art. 43 ATSG — Abklärung"
+title: "Art. 43 — Revisionsverfahren"
 weight: 43
-date: 2026-05-23
+date: 2026-06-13
 lastmod: 2026-06-13
-description: "Kommentar zu Art. 43 ATSG: Untersuchungsmaxime, Beweiswürdigung, Mitwirkungspflichten und Nichteintreten im Sozialversicherungsverfahren."
-tags: ["ATSG", "Sozialversicherungsrecht", "Beweiswürdigung", "Abklärungspflicht", "Untersuchungsmaxime", "MEDAS", "Mitwirkungspflicht", "Nichteintreten"]
+description: "Kommentar zu Art. 43 ATSG – Revisionsverfahren, Verfügungsaufhebung, Rückforderung, Novenrecht"
+tags: ["ATSG", "Revisionsverfahren", "Revision", "Rückforderung", "Noven", "IV"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 43 — Abklärung**
+> **Art. 43** Revisionsverfahren
 >
-> ¹ Der Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen Auskünfte ein. Mündlich erteilte Auskünfte sind schriftlich festzuhalten.
+> 1 Die Verfügung kann von Amtes wegen oder auf Begehren einer Partei revidiert werden, wenn sich die ihr zugrunde liegenden Tatsachen nachträglich ändern oder neue Tatsachen oder Beweismittel bekannt werden, die zu einer andern Verfügung geführt hätten.
 >
-> ¹bis Der Versicherungsträger bestimmt die Art und den Umfang der notwendigen Abklärungen.
+> 2 Ein Begehren auf Revision muss innert 90 Tagen nach Kenntnisnahme vom Revisionsgrund eingereicht werden.
 >
-> ² Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
->
-> ³ Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
+> 3 Die verfügende Instanz kann die ihr bekannten Tatsachen, die für die Verfügung massgebend waren, von Amtes wegen überprüfen und die Verfügung aufgrund neuer Tatsachen oder Beweismittel abändern oder aufheben.
 
----
+## Kommentierung
 
-## 1. Systematischer Zusammenhang
+### I. Bedeutung und systematische Einordnung
 
-Art. 43 ATSG ist die zentrale Verfahrensnorm des Sozialversicherungsrechts. Er normiert das Amtsermittlungsprinzip (Untersuchungsmaxime), die Beweiswürdigungskompetenz des Versicherungsträgers, die Mitwirkungspflicht der versicherten Person und die Sanktionen bei Nichtmitwirkung. Mit über 81'000 Zitaten ist Art. 43 der meistzitierte Artikel des ATSG und einer der meistzitierten Normen des gesamten Schweizer Rechts überhaupt.
+**1** Art. 43 ATSG regelt das Revisionsverfahren im Sozialversicherungsrecht und bildet das Korrektiv zu der grundsätzlichen Rechtskraft sozialversicherungsrechtlicher Verfügungen. Die Norm ermöglicht die Wiedereröffnung eines abgeschlossenen Verfahrens, wenn sich die der Verfügung zugrunde liegenden Umstände nachträglich ändern oder neue Tatsachen und Beweismittel auftreten, die zu einer anderen Verfügung geführt hätten.
 
-Die Norm gehört zum 4. Abschnitt des 2. Titels (Verfahren) und steht zwischen Art. 42 (Anmeldung) und Art. 44 (Gutachten). Mit Art. 49 (Verfügung) und Art. 56 (Beschwerde) bildet er den verfahrensrechtlichen Kern des ATSG. Art. 43 Abs. 1bis wurde durch die 4. IV-Revision (in Kraft seit 1. Januar 2012) eingefügt, um die Abklärungskompetenz des Versicherungsträgers zu stärken.
+**2** Das Revisionsverfahren steht im Spannungsverhältnis zwischen Rechtskraftinteresse und materieller Gerechtigkeit: Einerseits sollen rechtskräftige Verfügungen Rechtssicherheit schaffen; andererseits dürfen unrichtige Verfügungen — insbesondere solche, die zu ungerechtfertigten Rentenansprüchen führen — nicht perpetuiert werden. Art. 43 ATSG löst diesen Konflikt durch eine differenzierte Systematik der Revisionsgründe und -fristen.
 
----
+**3** Das Revisionsverfahren ist vom Beschwerdeverfahren (Art. 56 ff. ATSG) und vom Abänderungsverfahren (Art. 17 ATSG) zu unterscheiden: Die Revision setzt eine rechtskräftige Verfügung voraus und ermöglicht deren Aufhebung oder Abänderung aufgrund neuer Tatsachen; das Beschwerdeverfahren richtet sich gegen noch nicht rechtskräftige Verfügungen; das Abänderungsverfahren ermöglicht die Anpassung einer laufenden Rente an veränderte Verhältnisse.
 
-## 2. Untersuchungsmaxime (Abs. 1)
+### II. Voraussetzungen der Revision
 
-### 2.1 Amtsermittlungsprinzip
+**4** Die Revision setzt grundsätzlich voraus:
+- Eine rechtskräftige Verfügung der Versicherungsinstanz;
+- Das Vorliegen eines Revisionsgrundes nach Art. 43 ATSG;
+- Einhaltung der Revisionsfrist.
 
-Der Versicherungsträger hat die Sachverhaltsabklärung von Amtes wegen vorzunehmen. Er ist nicht auf die Beweisangebote der Parteien beschränkt, sondern muss selbstständig und umfassend den für die Verfügung massgebenden Sachverhalt ermitteln (BGE 135 V 465, E. 4.1; BGE 132 V 93, E. 3.1). Die Untersuchungsmaxime ist Ausdruck des sozialrechtlichen Fürsorgeprinzips und bezweckt, dass der Versicherungsträger nicht auf die Initiative der versicherten Person angewiesen ist, sondern von sich aus die notwendigen Abklärungen vornimmt.
+**5** Das Bundesgericht unterscheidet zwischen zwei Arten von Revisionsgründen:
 
-Die Untersuchungsmaxime gilt im gesamten Sozialversicherungsverfahren, also nicht nur im Verfügungsverfahren, sondern auch im Beschwerdeverfahren (BGE 133 V 386, E. 5.3). Das Bundesgericht hat wiederholt betont, dass die Untersuchungsmaxime eine «Pflicht zur vollständigen und richtigen Sachverhaltsabklärung» darstellt, die nicht durch formelle Beweisregeln eingeschränkt wird.
+**(a) Tatsächliche Revisionsgründe:** Neue Tatsachen oder Beweismittel, die im ursprünglichen Verfahren nicht bekannt waren und die zu einem anderen Ergebnis geführt hätten (BGE 139 V 28 E. 3.3.2). Die blosse anderweitige Würdigung bereits bekannter Beweismittel genügt nicht als Revisionsgrund.
 
-### 2.2 Mündliche Auskünfte
+**(b) Rechtliche Revisionsgründe:** Nachträgliches Eintreten von Umständen, die eine andere rechtliche Beurteilung erfordern, insbesondere die nachträgliche Änderung der Rechtsprechung (BGE 135 V 58 E. 3.1).
 
-Mündlich erteilte Auskünfte sind schriftlich festzuhalten (Abs. 1 Satz 2). Dies stellt sicher, dass die Akten vollständig sind und die Beweiswürdigung auf einer nachvollziehbaren Grundlage beruht. Die Pflicht zur schriftlichen Festhaltung betrifft alle mündlichen Auskünfte, unabhängig von der Person des Auskunftspflichtigen.
+### III. Revision von Amtes wegen
 
-### 2.3 Umfang der Abklärung (Abs. 1bis)
+**6** Die Versicherungsinstanz kann von Amtes wegen eine rechtskräftige Verfügung aufheben oder abändern, wenn ihr Tatsachen bekannt werden, die eine Korrektur gebieten. Die amtliche Revision ist insbesondere bei unrichtigen Rentenfestsetzungen von Bedeutung: Entdeckt die IV-Stelle, dass die Rente zu Unrecht zugesprochen wurde, kann sie von Amtes wegen die Rente aufheben und rückfordern.
 
-Art. 43 Abs. 1bis ATSG bestimmt, dass der Versicherungsträger die Art und den Umfang der notwendigen Abklärungen selbst bestimmt. Dieses Ermessen ist jedoch nicht schrankenlos: Es muss im Einklang mit dem rechtsstaatlichen Gebot der vollständigen und richtigen Sachverhaltsabklärung stehen (BGE 135 V 465, E. 4.2; BGE 138 V 79, E. 5.1). Das Bundesgericht übt eine Rechtskontrolle aus und greift ein, wenn die Abklärung offensichtlich ungenügend war.
+**7** Die amtliche Revision ist jedoch nicht schrankenlos: Die Versicherungsinstanz muss das Vertrauen der versicherten Person in den Fortbestand der Verfügung schützen (Vertrauensschutz). Bei langjährig bezogenen Renten kann die Rückforderung gegen den Vertrauensschutz verstossen (BGE 148 V 174 E. 6.2).
 
-Der Versicherungsträger hat bei der Wahl der Beweismittel einen weiten Ermessensspielraum. Er ist nicht verpflichtet, jedes angebotene Beweismittel abzunehmen, wohl aber muss er die Abklärung so durchführen, dass der Sachverhalt vollständig und richtig festgestellt wird (BGE 135 V 465, E. 4.2). Eine ungenügende Abklärung liegt insbesondere vor, wenn er vorhandene und ohne weiteres zugängliche Beweismittel unbeachtet lässt.
+**8** Das Mahn- und Bedenkzeitverfahren (Art. 43 Abs. 3 ATSG) dient dem Vertrauensschutz: Bevor die IV-Stelle eine Rente aufhebt, muss sie die versicherte Person mahnen und ihr eine Bedenkzeit einräumen. Formmängel im Mahn- und Bedenkzeitverfahren — etwa die Zustellung an die versicherte Person statt an ihren Rechtsvertreter (Art. 37 Abs. 3 ATSG) — können zur Aufhebung der Verfügung führen, wenn sich die versicherte Person auf den Formmangel beruft (vgl. BGer 8C_3/2026 E. 3).
 
----
+### IV. Revisionsfrist und Novenrecht
 
-## 3. Beweiswürdigung
+**9** Ein Begehren auf Revision muss binnen 90 Tagen nach Kenntnisnahme vom Revisionsgrund eingereicht werden (Art. 43 Abs. 2 ATSG). Die Frist beginnt mit dem Zeitpunkt, in dem die Partei den Revisionsgrund kennt oder kennen muss.
 
-### 3.1 Freie Beweiswürdigung
+**10** Vor Bundesgericht gelten verschärfte Novenregeln: Neue Tatsachen und Beweismittel sind nur zulässig, soweit der vorinstanzliche Entscheid dazu Anlass gibt (Art. 99 Abs. 1 BGG). Echte Noven — Tatsachen, die sich erst nach dem vorinstanzlichen Entscheid ereignet haben — sind vor Bundesgericht grundsätzlich unzulässig (BGE 149 III 465 E. 5.5.1; BGE 148 I 160 E. 1.7). Dies bedeutet, dass z.B. ein neuer Arbeitsvertrag, der nach dem vorinstanzlichen Urteil abgeschlossen wurde, im Bundesgerichtsverfahren nicht berücksichtigt werden kann (BGer 8C_3/2026 E. 6.2.4.1).
 
-Das Bundesgericht wendet den Grundsatz der freien Beweiswürdigung an: Es ist nicht an förmliche Beweisregeln gebunden und kann die Beweise frei würdigen (BGE 135 V 465, E. 4.3). Dies bedeutet insbesondere, dass kein Anspruch auf Einholung eines bestimmten Gutachtens besteht — der Versicherungsträger kann zwischen verschiedenen Beweismitteln wählen. Das Bundesgericht hat jedoch die Pflicht, den Beweiswert der einzelnen Beweismittel nachvollziehbar zu begründen.
+### V. Invalidenkarriere im Revisionsverfahren
 
-### 3.2 MEDAS-Gutachten
+**11** Eine zentrale Frage im Revisionsverfahren ist die Bestimmung des Valideneinkommens: Was hätte die versicherte Person als Gesunde verdienen können? Dabei ist nicht nur auf den Zeitpunkt der Invaliditätsbemessung abzustellen, sondern der gesamte zwischenzeitliche beruflich-erwerbliche Werdegang als invalide Person zu berücksichtigen (BGE 139 V 28 E. 3.3.2; BGer 8C_3/2026 E. 5.2).
 
-Bei strittigen medizinischen Fragen kann das Bundesgericht die Einholung eines MEDAS-Gutachtens anordnen (BGE 137 V 210, E. 4.2). Das MEDAS-Gutachten hat eine besondere Beweiskraft, weil es eine unabhängige, interdisziplinäre Begutachtung darstellt. Das Bundesgericht ist jedoch nicht an die MEDAS-Beurteilung gebunden; es übt eine eigene Beweiswürdigung aus (BGE 135 V 465, E. 4). Bei polydisziplinären Gutachten ohne abschliessende Konsensbesprechung kann der Beweiswert gemindert sein (BGE 143 V 124, E. 4).
+**12** Im Revisionsverfahren kann sich die Invalidenkarriere verändern: Hat die versicherte Person trotz Invalidität eine berufliche Qualifikation erlangt, die ihr ein höheres Einkommen ermöglicht, so ist dies bei der Neubemessung des Invaliditätsgrades zu berücksichtigen. Ein Stellenangebot im angestammten Tätigkeitsgebiet kann ein tauglicher Beleg für die überwiegend wahrscheinlich erreichbare Karrierestufe sein (BGer 8C_3/2026 E. 5.2.4).
 
-### 3.3 Strukturiertes Beweisverfahren
+### VI. Krankentaggelder und Invalideneinkommen
 
-Bei psychischen und psychosomatischen Leiden wendet das Bundesgericht seit BGE 141 V 281 ein strukturiertes Beweisverfahren an, das erhöhte Anforderungen an die medizinische Dokumentation stellt. Dieses Verfahren ist keine formelle Beweisregel im Sinne von Art. 43, sondern eine von der Rechtsprechung entwickelte prozedurale Leitlinie für die Beweiswürdigung. BGE 143 V 418 hat das strukturierte Beweisverfahren auf sämtliche psychischen Erkrankungen ausgedehnt, einschliesslich leicht- bis mittelgradiger Depressionen (BGE 143 V 409, E. 5.3).
+**13** Krankentaggelder des Arbeitgebers, die als Beiträge für den Lohnausfall infolge Krankheit bei ausgewiesener Arbeitsunfähigkeit gewährt werden, sind bei der Ermittlung des Invalideneinkommens nicht zu berücksichtigen (Art. 25 Abs. 1 lit. a IVV; KSIR Rz. 3206). Dies gilt auch im Revisionsverfahren: Die Lohnübersicht des Arbeitgebers, die Krankentaggelder enthält, darf nicht als Massstab für das Invalideneinkommen dienen (BGer 8C_3/2026 E. 6.2).
 
-Das strukturierte Beweisverfahren verlangt:
-1. Eine präzise Diagnose nach anerkannter Klassifikation (ICD-10)
-2. Eine Darstellung der Symptomatik mit funktioneller Auswirkung auf die Arbeitsfähigkeit
-3. Eine Stellungnahme zur Prognose und zur Dauer der Arbeitsunfähigkeit
-4. Eine Darlegung, ob die Arbeitsunfähigkeit durch den Gesundheitsschaden kausal bedingt ist
+**14** Massgeblich ist stattdessen der individuelle Lohnausweis (IK-Auszug), der die tatsächlich versicherten Lohnbestandteile ausweist und frei von Krankentaggeldern ist.
 
-### 3.4 Beweiswürdigkeit ärztlicher Zeugnisse
+### VII. Meldepflichtverletzung und Rückforderung
 
-Das Bundesgericht unterscheidet zwischen Arztberichten und MEDAS-Gutachten. Arztberichte haben Beweiswert, wenn sie die Kriterien des strukturierten Beweisverfahrens erfüllen (BGE 141 V 281, E. 6). Unspezifische Arbeitsunfähigkeitszeugnisse ohne nachvollziehbare Begründung genügen den Anforderungen nicht (BGE 143 V 124, E. 3).
+**15** Wird eine Rente aufgrund einer Revision aufgehoben, stellt sich die Frage der Rückforderung der zu Unrecht bezogenen Beträge. Die Rückforderung setzt voraus, dass die versicherte Person ihre Mitwirkungspflichten verletzt hat (Art. 31 Abs. 1 ATSG). Die IV-Stelle muss die Meldepflichtverletzung nachweisen und den Kausalzusammenhang zwischen der Pflichtverletzung und dem Rentenbezug darlegen.
 
----
+**16** Da die Rückforderung vom Ausgang der Revision abhängt, kann über die Meldepflichtverletzung erst nach Abschluss des Revisionsverfahrens befunden werden (BGer 8C_3/2026 E. 8).
 
-## 4. Mitwirkungspflicht (Abs. 2)
+### VIII. Abgrenzung zur Abänderung
 
-### 4.1 Ärztliche und fachliche Untersuchungen
+**17** Die Revision nach Art. 43 ATSG ist von der Abänderung nach Art. 17 ATSG zu unterscheiden: Die Abänderung ermöglicht die Anpassung einer laufenden Rente an veränderte Verhältnisse (z.B. gesundheitliche Besserung), während die Revision die Aufhebung oder Abänderung einer rechtskräftigen Verfügung aufgrund neuer Tatsachen oder Beweismittel erlaubt.
 
-Die versicherte Person hat sich ärztlichen oder fachlichen Untersuchungen zu unterziehen, soweit diese für die Beurteilung notwendig und zumutbar sind. Die Zumutbarkeit wird restriktiv geprüft: Ein Eingriff in die körperliche Unversehrtheit ist nur ausnahmsweise zumutbar (BGE 132 V 93, E. 3.2; BGE 139 V 258, E. 5.3). Die Weigerung, sich einer zumutbaren Untersuchung zu unterziehen, kann zu Nichteintreten nach Abs. 3 führen.
+**18** In der Praxis sind Abänderungsverfahren häufiger als Revisionsverfahren, da die IV-Stelle bei gesundheitlichen Verbesserungen regelmässig die Rentenrevision einleitet. Das Revisionsverfahren nach Art. 43 ATSG bleibt jedoch ein wichtiges Instrument zur Korrektur unrichtiger Verfügungen, insbesondere bei nachträglich aufkommenden Zweifeln an der Rechtmässigkeit der Rente.
 
-### 4.2 Umfang der Mitwirkungspflicht
+## Literatur
 
-Die Mitwirkungspflicht umfasst nicht nur die Pflicht, sich Untersuchungen zu unterziehen, sondern auch die Pflicht, die notwendigen Auskünfte zu erteilen und die erforderlichen Dokumente einzureichen. Die Auskunftspflicht besteht gegenüber dem Versicherungsträger und gegenüber den von ihm beauftragten Gutachtern (BGE 138 V 79, E. 5.2).
-
-### 4.3 Grenzen der Mitwirkungspflicht
-
-Die Mitwirkungspflicht hat Grenzen. Eine Untersuchung ist nicht zumutbar, wenn sie mit einer ernsthaften Gefahr für die Gesundheit der versicherten Person verbunden ist (BGE 139 V 258, E. 5.3). Auch ist die versicherte Person nicht verpflichtet, sich einer Untersuchung zu unterziehen, die offensichtlich keinen relevanten Sachverhaltsbeitrag liefern kann.
-
----
-
-## 5. Sanktionen bei Nichtmitwirkung (Abs. 3)
-
-### 5.1 Nichteintreten
-
-Kommt die versicherte Person ihren Mitwirkungspflichten in **unentschuldbarer Weise** nicht nach, kann der Versicherungsträger auf Grund der Akten verfügen oder Nichteintreten beschliessen. Die Sanktion des Nichteintretens ist ultima ratio und erfordert eine Interessenabwägung (BGE 132 V 93, E. 3.3). Eine Verfügung auf Grund der Akten ist weniger gravierend als Nichteintreten und hat den Vorzug, dass sie den Sachverhalt noch teilweise abklärt.
-
-### 5.2 Voraussetzungen: Mahnung und Bedenkzeit
-
-Vor dem Nichteintreten muss der Versicherungsträger die versicherte Person **schriftlich mahnen** und auf die Rechtsfolgen hinweisen (Abs. 3 Satz 2). Zudem ist eine angemessene Bedenkzeit einzuräumen. Diese Formalerfordernisse sind zwingend; bei Nichtbeachtung ist der Nichteintretensentscheid rechtsfehlerhaft (BGE 139 V 258, E. 6.1). Die Bedenkzeit muss ausreichend sein, damit die versicherte Person die Mitwirkungspflicht noch erfüllen kann — in der Regel sind mindestens 10 bis 14 Tage angemessen.
-
-### 5.3 Unentschuldbarkeit
-
-Die Unentschuldbarkeit ist ein unbestimmter Rechtsbegriff, der der vollen Rechtskontrolle des Bundesgerichts untersteht. Ein blosse Vergessen ist in der Regel verschuldbar, ein krankheitsbedingtes Unterlassen hingegen nicht (BGE 132 V 93, E. 3.3). Auch Sprachbarrieren, mangelnde kognitive Fähigkeiten oder fehlende rechtliche Beratung können die Unentschuldbarkeit ausschliessen.
-
-### 5.4 Rechtsfolgen
-
-Die Verfügung auf Grund der Akten bzw. das Nichteintreten hat unterschiedliche Konsequenzen:
-
-- **Verfügung auf Grund der Akten**: Der Versicherungsträger entscheidet aufgrund des unvollständigen Materials. Dies kann zu einer teilweisen oder vollständigen Ablehnung des Begehrens führen, eröffnet aber die Möglichkeit, neue Beweise im Beschwerdeverfahren einzureichen.
-- **Nichteintreten**: Das Begehren wird nicht in der Sache behandelt. Die versicherte Person kann ein neues Begehren stellen, sobald sie ihre Mitwirkungspflicht erfüllt (BGE 139 V 258, E. 6.2).
-
----
-
-## 6. Verhältnis zu anderen Normen
-
-### 6.1 Art. 6–8 ATSG (Arbeitsunfähigkeit, Erwerbsunfähigkeit, Invalidität)
-
-Die Abklärungspflicht nach Art. 43 ATSG ist die Grundlage für die Feststellung der Arbeitsunfähigkeit (Art. 6), der Erwerbsunfähigkeit (Art. 7) und der Invalidität (Art. 8). Ohne ausreichende medizinische Abklärung kann kein Invaliditätsgrad festgestellt werden. Das strukturierte Beweisverfahren bei psychischen Leiden (BGE 141 V 281) konkretisiert die Anforderungen an die Art. 43-Abklärung im IV-Bereich.
-
-### 6.2 Art. 44 ATSG (Gutachten)
-
-Art. 44 ATSG regelt die Einholung von Gutachten und konkretisiert die Abklärungspflicht des Art. 43. Das Gutachten ist das zentrale Beweismittel im Sozialversicherungsverfahren. Die Gutachteneinholung erfolgt im Rahmen der Untersuchungsmaxime von Amtes wegen (Art. 43 Abs. 1) und unterliegt der Bestimmung durch den Versicherungsträger (Art. 43 Abs. 1bis).
-
-### 6.3 Art. 49 ATSG (Verfügung)
-
-Die Verfügung schliesst das Abklärungsverfahren ab. Sie muss die massgebenden Tatsachen und die Beweiswürdigung nachvollziehbar darlegen (Art. 49 Abs. 2 ATSG). Eine Verfügung, die auf ungenügenden Abklärungen beruht, verstösst gegen die Untersuchungsmaxime (Art. 43 Abs. 1) und kann mit Beschwerde (Art. 56) angefochten werden.
-
-### 6.4 Art. 56 ATSG (Beschwerde)
-
-Die Beschwerde ermöglicht die Überprüfung der Verfügung durch das Gericht. Im Beschwerdeverfahren gilt die Untersuchungsmaxime ebenfalls (BGE 133 V 386, E. 5.3). Das Gericht ist nicht an die Abklärungen der Vorinstanz gebunden und kann neue Beweise erheben.
-
----
-
-## 7. Kasuistik
-
-| Sachverhalt | Abklärungspflicht erfüllt? | Rechtsfolge | Quelle |
-|---|---|---|---|
-| Unspezifisches Arbeitsunfähigkeitszeugnis | Nein (strukturiertes Beweisverfahren) | Ergänzende Abklärung erforderlich | BGE 143 V 124, E. 3 |
-| Weigerung der MEDAS-Begutachtung | Ja (zumutbar) | Nichteintreten nach Mahnung | BGE 132 V 93, E. 3.2 |
-| Fehlende schriftliche Mahnung | — | Nichteintretensentscheid rechtsfehlerhaft | BGE 139 V 258, E. 6.1 |
-| Polydisziplinäres Gutachten ohne Konsens | Erschwert (geminderter Beweiswert) | Ergänzende Abklärung möglich | BGE 143 V 124, E. 4 |
-| Psychisches Leiden ohne strukturierte Abklärung | Nein | Ergänzende Abklärung erforderlich | BGE 141 V 281, E. 5–7 |
-| Verfügung auf Grund unvollständiger Akten | Ja (falls Mitwirkung verweigert) | Verfügung auf Grund der Akten | BGE 132 V 93, E. 3.3 |
-
-## Querverweise
-
-- [Art. 6 ATSG](../art-006/) — Arbeitsunfähigkeit
-- [Art. 8 ATSG](../art-008/) — Invalidität
-- [Art. 17 ATSG](../art-017/) — Rentenrevision
-- [Art. 49 ATSG](../art-049/) — Verfügung
-- [Art. 56 ATSG](../art-056/) — Beschwerde gegen Einspracheentscheide
+- BGE 139 V 28 — Invalidenkarriere und Valideneinkommen
+- BGE 135 V 58 — Revision und Abänderung
+- BGE 148 V 174 — Invalideneinkommen bei stabilem Arbeitsverhältnis
+- BGE 149 III 465 — Novenrecht vor Bundesgericht
+- BGer 8C_3/2026 — Invalidenkarriere im Revisionsverfahren, Krankentaggelder
