@@ -4,7 +4,7 @@ weight: 410
 date: 2026-06-07
 lastmod: 2026-06-07
 description: "Kommentar zu Art. 410 StPO — Revision rechtskräftiger Entscheide: Zulässigkeit, Revisionsgründe, EMRK-Revision und Verjährung"
-tags: ["StPO", "Revision", "Rechtskraft", "Nichtigkeit", "EMRK"]
+tags: ["StPO", "Revision", "Rechtskraft", "EMRK"]
 agent_verified: true
 ---
 
@@ -32,7 +32,7 @@ agent_verified: true
 
 Art. 410 StPO regelt die **Revision** als ausserordentliches Rechtsmittel gegen rechtskräftige Entscheide. Er ist das prozessuale Korrektiv der Rechtskraft und dient der materiellen Gerechtigkeit. Die Norm kodifiziert eine Ausnahme zum Grundsatz der materiellen Rechtskraft (*res judicata*), indem sie unter eng definierten Voraussetzungen die Wiedereröffnung eines abgeschlossenen Verfahrens erlaubt.
 
-Revision und Nichtigkeitsbeschwerde (Art. 411 ff. StPO) sind strikt zu unterscheiden: Die Revision setzt neue Tatsachen oder Beweismittel voraus, während die Nichtigkeitsbeschwerde auf bereits dem Entscheid vorgelegene Mängel des Verfahrens selbst gestützt wird.
+Die Revision ist von den **ordentlichen Rechtsmitteln** (Beschwerde ans Bundesgericht, staatsrechtliche Beschwerde) zu unterscheiden: Diese richten sich gegen Entscheide *vor* Rechtskraft, während die Revision ein ausserordentliches Rechtsmittel *nach* Rechtskraft darstellt und neue Tatsachen oder Beweismittel voraussetzt.
 
 ### II. Revisionsgründe (Abs. 1)
 
@@ -45,7 +45,7 @@ Lit. a ist der **häufigste Revisionsgrund**. Vorausgesetzt werden:
 
 [BGE 143 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_122) E. 3.2.2 hält fest, dass die Revision nach Art. 410 Abs. 1 lit. a StPO im **abgekürzten Verfahren** (Art. 358 ff. StPO) nicht zulässig ist, da das abgekürzte Verfahren ein voluntatives Element enthält, das mit der Revisionsründe unvereinbar ist.
 
-[BGE 145 IV 197](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_197) E. 1 klärt, dass die **fehlende Übersetzung eines Strafbefehls** weder Revisions- noch Nichtigkeitsgrund ist — der Strafbefehl ist eindeutig und die fehlende Übersetzung betrifft nicht die sachliche Richtigkeit des Entscheids.
+[BGE 145 IV 197](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_197) E. 1 klärt, dass die **fehlende Übersetzung eines Strafbefehls** keinen Revisionsgrund darstellt — der Strafbefehl ist eindeutig und die fehlende Übersetzung betrifft nicht die sachliche Richtigkeit des Entscheids.
 
 #### 2. Unverträglicher Widerspruch (lit. b)
 
@@ -73,16 +73,9 @@ Abs. 3 stellt klar, dass die Revision **zugunsten** der verurteilten Person auch
 
 Beschränkt sich die Revision auf Zivilansprüche (z.B. Schadenersatz), so ist sie nur zulässig, wenn das am Gerichtsstand anwendbare **Zivilprozessrecht** eine Revision gestatten würde. Dies stellt sicher, dass die Revision im Strafverfahren nicht weitergeht als im zivilrechtlichen Analogon.
 
-### VI. Abgrenzung zur Nichtigkeitsbeschwerde
+### VI. Abgrenzung zur Beschwerde gegen nichtige Entscheide (Art. 411 StPO)
 
-Die Revision (Art. 410) ist von der **Nichtigkeitsbeschwerde** (Art. 411 ff. StPO) zu unterscheiden:
-
-| Merkmal | Revision (Art. 410) | Nichtigkeitsbeschwerde (Art. 411 ff.) |
-|---------|---------------------|--------------------------------------|
-| Grund | Neue Tatsachen/Beweise, Widerspruch, strafbare Einwirkung, EGMR | Offentliche Verhandlung verweigert, vorschriftswidrige Besetzung, Befangenheit |
-| Zeitpunkt | Nach Rechtskraft | Nach Rechtskraft |
-| Verjährung | Zugunsten: keine (Abs. 3) | 6 Monate (Art. 415) |
-| Zuständigkeit | Kantonale Behörde (Art. 412) | Kantonale Behörde |
+Art. 411 StPO regelt die **Wirkung der Revision auf Nebenpunkte**: Wenn die Revision auf einen Nebenpunkt beschränkt wird, bleibt der übrige Entscheid im Umfang des Revisionsbegehrens unangetastet. Von der Revision (Art. 410) ist zudem die **Beschwerde in Zivilsachen** ans Bundesgericht (Art. 72 ff. BGG) sowie die **Staatsrechtliche Beschwerde** zu unterscheiden — diese Rechtsmittel richten sich gegen kantonale Entscheide *vor* Rechtskraft, während die Revision ein ausserordentliches Rechtsmittel *nach* Rechtskraft ist.
 
 ### VII. Revision im abgekürzten Verfahren
 

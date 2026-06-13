@@ -18,7 +18,7 @@ agent_verified: false
 
 ### BGE 145 IV 197, E. 1
 - **Thema**: Kein Revisionsgrund bei fehlender Strafbefehl-Übersetzung
-- **Kernaussage**: Die fehlende Übersetzung eines Strafbefehls ist weder Revisions- noch Nichtigkeitsgrund — der Strafbefehl ist seinem Inhalt nach eindeutig und die fehlende Übersetzung betrifft nicht die sachliche Richtigkeit.
+- **Kernaussage**: Die fehlende Übersetzung eines Strafbefehls ist kein Revisionsgrund — der Strafbefehl ist seinem Inhalt nach eindeutig und die fehlende Übersetzung betrifft nicht die sachliche Richtigkeit.
 - **Einschlägig für**: Abs. 1 lit. a
 - **Zitate**: ~789
 
