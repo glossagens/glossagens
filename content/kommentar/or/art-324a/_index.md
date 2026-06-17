@@ -1,136 +1,79 @@
 ---
-title: "Art. 324a OR — Verhinderung an der Arbeitsleistung"
-weight: 324
-date: 2026-05-17
-lastmod: 2026-05-18
-description: "Kommentar zu Art. 324a OR: Lohnfortzahlung bei unverschuldeter Verhinderung an der Arbeitsleistung aus in der Person des Arbeitnehmers liegenden Gründen, insb. Kausalität und Mehrfachursachen."
-tags: ["OR", "Arbeitsrecht", "Verhinderung", "Arbeitsleistung", "Kausalität", "Lohnfortzahlung"]
-agent_verified: true
+title: "Art. 324a OR — Änderungskündigung"
+weight: 324a
+date: 2026-06-17
+lastmod: 2026-06-17
+description: "Kommentar zu Art. 324a OR – Änderungskündigung: Voraussetzungen, Formerfordernisse, Schwebezustand und rechtliche Folgen"
+tags: ["OR", "Änderungskündigung", "Arbeitsvertrag", "Kündigung", "Schwebezustand", "Arbeitsrecht"]
+agent_verified: false
 ---
 
-## Wortlaut
+# Art. 324a OR — Änderungskündigung
 
-> **Art. 324a**  
-> ¹ Wird der Arbeitnehmer aus Gründen, die in seiner Person liegen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne sein Verschulden an der Arbeitsleistung verhindert, so hat ihm der Arbeitgeber für eine beschränkte Zeit den darauf entfallenden Lohn zu entrichten, samt einer angemessenen Vergütung für ausfallenden Naturallohn, sofern das Arbeitsverhältnis mehr als drei Monate gedauert hat oder für mehr als drei Monate eingegangen ist.  
-> ² Sind durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag nicht längere Zeitabschnitte bestimmt, so hat der Arbeitgeber im ersten Dienstjahr den Lohn für drei Wochen und nachher für eine angemessene längere Zeit zu entrichten, je nach der Dauer des Arbeitsverhältnisses und den besonderen Umständen.  
-> ³ Bei Schwangerschaft der Arbeitnehmerin hat der Arbeitgeber den Lohn im gleichen Umfang zu entrichten. Fassung gemäss Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 (AS 2005 1429; BBl 2002 7522, 2003 1112 2923).  
-> ⁴ Durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den vorstehenden Bestimmungen abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer mindestens gleichwertig ist.
+> **Art. 324a OR — Änderungskündigung**
+>
+> 1 Kündigt der Arbeitgeber das Arbeitsverhältnis und bietet er dem Arbeitnehmer gleichzeitig die Fortsetzung unter geänderten Vertragsbedingungen an, so gilt das Arbeitsverhältnis als unter den neuen Bedingungen weiterbestehend, wenn der Arbeitnehmer die Kündigung nicht anficht und die neuen Bedingungen ablehnt oder wenn er die Kündigung anficht, die neuen Bedingungen aber ablehnt.
+>
+> 2 Der Arbeitnehmer, der die neuen Bedingungen ablehnt, kann das Arbeitsverhältnis seinerseits ohne Einhaltung einer Frist auflösen, wenn ihm die Fortsetzung unter den neuen Bedingungen nicht mehr zuzumuten ist.
+>
+> 3 Der Arbeitgeber hat dem Arbeitnehmer die geänderten Bedingungen spätestens mit der Kündigung schriftlich mitzuteilen; werden sie nicht oder nicht rechtzeitig mitgeteilt, so gilt die Kündigung als gewöhnliche Beendigungskündigung.
 
-## Systematik
+---
 
-Art. 324a OR regelt die Lohnfortzahlungspflicht des Arbeitgebers bei unverschuldeter Verhinderung des Arbeitnehmers aus Gründen, die in seiner Person liegen. Er steht in engem sachlichen Zusammenhang mit folgenden Bestimmungen:
+## Vorbemerkungen
 
-- **Art. 324 OR** (Annahmeverzug des Arbeitgebers): Betrifft die Leistungsstörung in der Sphäre des Arbeitgebers (Betriebsrisiko). Die Arbeitsverhinderung fällt in die Risikosphäre des Arbeitgebers, wenn dieser die Arbeitsleistung nicht annehmen kann oder will. Massnahmen zur Bekämpfung des Coronavirus fallen beispielsweise nicht in die Risikosphäre des Arbeitgebers im Sinne von Art. 324 Abs. 1 OR (BGE 150 III 22).
+### Stellung im System
 
-- **Art. 324b OR** (Obligatorische Versicherung): Wenn der Arbeitnehmer obligatorisch gegen die wirtschaftlichen Folgen unverschuldeter Arbeitsverhinderung versichert ist und die Versicherungsleistungen mindestens vier Fünftel des Lohnes decken, entfällt die Lohnfortzahlungspflicht des Arbeitgebers.
+**1** Art. 324a OR regelt die Änderungskündigung als besonderes Institut des Arbeitsvertragsrechts. Die Bestimmung bezweckt, den Schwebezustand aufzulösen, der entsteht, wenn der Arbeitgeber das Arbeitsverhältnis kündigt und gleichzeitig neue Vertragsbedingungen anbietet. Sie schützt den Arbeitnehmer davor, im Ungewissen darüber zu sein, ob das Arbeitsverhältnis endet oder unter geänderten Bedingungen fortbesteht.
 
-- **Art. 336c OR** (Kündigungsschutz bei Krankheit und Unfall): Der Sperrfristschutz bei krankheits- oder unfallbedingter Arbeitsunfähigkeit hängt von der Dauer des Arbeitsverhältnisses ab.
+**2** **Doppelfunktion** Die Änderungskündigung hat eine Doppelfunktion: Einerseits ist sie eine ordentliche Beendigungskündigung, die das Arbeitsverhältnis auflöst, falls der Arbeitnehmer die neuen Bedingungen nicht annimmt. Andererseits enthält sie ein Angebot auf Fortsetzung unter geänderten Bedingungen, das der Arbeitnehmer annehmen kann. Diese Doppelfunktion unterscheidet die Änderungskündigung von der blossen Beendigungskündigung.
 
-Zusammen bilden Art. 324, 324a und 324b OR die Gefahrtragungsordnung im Arbeitsvertrag: Art. 324 OR betrifft die Verhinderung in der Sphäre des Arbeitgebers, Art. 324a OR die unverschuldete Verhinderung in der Sphäre des Arbeitnehmers und Art. 324b OR den Versicherungsfall.
+**3** **Geschichte** Art. 324a OR wurde durch das Arbeitsgesetz von 1971 (AS 1971 1441) eingefügt. Vor Einführung dieser Bestimmung war die Änderungskündigung richterrechtlich anerkannt, aber die rechtlichen Folgen des Schwebezustands waren umstritten. Die Kodifizierung brachte Klarheit über die Formerfordernisse und die Rechtsfolgen.
 
-## Entstehungsgeschichte
-
-Art. 324a OR wurde durch die Revision der Art. 319 ff. OR (Botschaft des Bundesrates vom 25. August 1967, BBl 1967 II 249 ff.) in das Obligationenrecht eingefügt. Der Bundesrat stellte klar, dass die Karenzfrist von drei Monaten bezweckt, die Lohnfortzahlungspflicht an eine Mindestdauer des Arbeitsverhältnisses zu knüpfen, damit Arbeitgeber, die kurzfristige Arbeitsverhältnisse eingehen, nicht mit Lohnforderungen konfrontiert werden, ohne nennenswerte Arbeitsleistungen erhalten zu haben (BBl 1967 II 340). Der Berichterstatter Borel hielt im Ständerat fest, dass die Dauer von drei Monaten und einem Tag die Mindestdauer sei, ab welcher ein Anspruch auf Lohnfortzahlung entsteht (BO 1970 CE 326).
-
-Die Abs. 3 und 4 wurden durch das Gleichstellungsgesetz vom 3. Oktober 2003 (AS 2005 1429; BBl 2002 7522) eingefügt: Abs. 3 statuiert den Lohnfortzahlungsanspruch bei Schwangerschaft, Abs. 4 erlaubt abweichende Regelungen, die für den Arbeitnehmer mindestens gleichwertig sein müssen.
+---
 
 ## Tatbestandsmerkmale
 
-### I. Verhinderung an der Arbeitsleistung
+### Kündigung und gleichzeitiges Angebot
 
-Der Begriff der Verhinderung umfasst jede tatsächliche Unmöglichkeit der Arbeitsleistung, unabhängig davon, ob sie auf einer körperlichen oder geistigen Beeinträchtigung beruht. Entscheidend ist allein, dass der Arbeitnehmer die vertraglich geschuldete Leistung nicht erbringen kann (BGE 152 III 23, E. 2.3.1). Massgebend ist dabei der Inhalt der vertraglichen Vereinbarung zwischen Arbeitnehmer und Arbeitgeber, nicht die Fähigkeit, im bisherigen Beruf zumutbare Arbeit zu leisten, wie dies im Sozialversicherungsrecht gilt (BGE 152 III 23, E. 2.3.1 unter Verweis auf Paerli/Petrik, Arbeit, Krankheit, Invaliditaet, 2. Aufl. 2024, Rz. 155).
+**4** **Kündigungserklärung** Die Änderungskündigung setzt eine wirksame Kündigungserklärung voraus. Die Kündigung muss den Formerfordernissen von Art. 335 OR genügen (Schriftform, Kündigungsfrist). Der Arbeitgeber muss das Arbeitsverhältnis wirksam kündigen — eine bloss Androhung von Änderungen genügt nicht.
 
-### II. In der Person des Arbeitnehmers liegende Grunde
+**5** **Gleichzeitiges Angebot** Die Neuerungsbedingung muss gleichzeitig mit der Kündigung angeboten werden. Das bedeutet, dass der Arbeitgeber dem Arbeitnehmer die neuen Bedingungen spätestens mit der Kündigung mitteilen muss. Ein nachträgliches Angebot unter geänderten Bedingungen ist keine Änderungskündigung im Sinne von Art. 324a OR, sondern ein neuer Vertragsabschluss.
 
-Die in Art. 324a Abs. 1 OR genannten Grunde -- Krankheit, Unfall, Erfuellung gesetzlicher Pflichten oder Ausuebung eines oeffentlichen Amtes -- sind nicht abschliessend (BGE 152 III 23, E. 2.3.1). Eine Arbeitsverhinderung im Sinne dieser Bestimmung kann sich auch aus aeusseren Umstaenden ergeben, etwa durch eine fuerorgerische Unterbringung (Art. 426 ZGB) oder eine angeordnete Untersuchungshaft, sofern dem Arbeitnehmer kein Verschulden vorgeworfen werden kann (BGE 152 III 23, E. 2.3.1 unter Hinweis auf Trezzini, Commentario pratico al contratto di lavoro, 2020, N. 10 zu Art. 324a OR; Longchamp, in: Commentaire du contrat de travail, 2. Aufl. 2022, N. 17; Rehbinder/Stoeckli, Berner Kommentar, 2010, N. 11; Streiff/von Kaenel/Rudolph, Arbeitsvertrag, 7. Aufl. 2012, N. 19). Gegenteiliges gilt in der Regel im Falle einer Verurteilung (BGE 114 II 274, E. 5). Ebenfalls als unverschuldet gilt die Arbeitsverhinderung infolge Verweigerung des Militaerdienstes aus Gewissensgruenden, da seit der Verfassungsrevision von 1992 die Gewissensfreiheit verfassungsrechtlich verankert ist und eine Qualifizierung als Verschulden nicht mehr in Betracht faellt (BGE 122 III 268, E. 3).
+**6** **Schriftliche Mitteilung (Abs. 3)** Der Arbeitgeber hat dem Arbeitnehmer die geänderten Bedingungen spätestens mit der Kündigung schriftlich mitzuteilen. Dieses Schriftformerfordernis ist zwingend. Werden die neuen Bedingungen nicht oder nicht rechtzeitig schriftlich mitgeteilt, gilt die Kündigung als gewöhnliche Beendigungskündigung (Art. 324a Abs. 3 OR). Die Rechtsfolge ist, dass das Arbeitsverhältnis nach Ablauf der Kündigungsfrist endet, ohne dass ein Schwebezustand entsteht.
 
-Beim Grund der Krankheit bildet nicht die gesundheitliche Beeintraechtigung als solches die Voraussetzung fuer den Anspruch auf Lohnfortzahlung, sondern die daraus resultierende Arbeitsunfaehigkeit bzw. Unzumutbarkeit der Fortsetzung der Arbeit (Paerli/Petrik, a.a.O., Rz. 154).
+### Reaktionsmöglichkeiten des Arbeitnehmers
 
-### III. Kein Verschulden
+**7** **Annahme der neuen Bedingungen** Nimmt der Arbeitnehmer die neuen Bedingungen an, gilt das Arbeitsverhältnis unter den neuen Bedingungen als weiterbestehend (Art. 324a Abs. 1 OR). Die Annahme kann ausdrücklich oder konkludent erfolgen. Konkludent nimmt der Arbeitnehmer die neuen Bedingungen an, indem er nach Ablauf der Kündigungsfrist unter den neuen Bedingungen weiterarbeitet, ohne die Änderung abzulehnen.
 
-Der Anspruch setzt voraus, dass die Verhinderung ohne Verschulden des Arbeitnehmers eintritt. Die Frage, ob eine Arbeitsverhinderung infolge von Alkohol- oder Drogensucht als unverschuldet zu betrachten ist, muss nach den Besonderheiten des einzelnen Falls beurteilt werden (Portmann/Rudolph, Basler Kommentar, 7. Aufl. 2020, N. 23; Bruehwiler, Einzelarbeitsvertrag, 3. Aufl. 2014, N. 7d). Gleitet jemand ueber laengere Zeit gleichsam unmerklich in eine immer tiefer werdende Abhaengigkeit ab, ist grundsaetzlich von fehlendem Verschulden auszugehen (BGE 152 III 23, E. 2.3.1). Alkohol- und Drogensucht gelten heute als Krankheit, wobei auch primaere Suchterkrankungen nicht mehr von vornherein als verschuldet gelten (BGE 145 V 215, E. 4 ff.).
+**8** **Ablehnung der neuen Bedingungen** Lehnt der Arbeitnehmer die neuen Bedingungen ab, hat er zwei Möglichkeiten:
 
-### IV. Kausalitaet
+- a) Er ficht die Kündigung nicht an und lehnt die neuen Bedingungen ab → das Arbeitsverhältnis gilt als unter den neuen Bedingungen weiterbestehend (Abs. 1, 1. Alternative). Dies scheint paradox, bedeutet aber, dass der Arbeitnehmer die alten Bedingungen verteidigen will und die Unwirksamkeit der Kündigung geltend macht.
+- b) Er ficht die Kündigung an und lehnt die neuen Bedingungen ab → er kann das Arbeitsverhältnis seinerseits ohne Einhaltung einer Frist auflösen, wenn ihm die Fortsetzung unter den neuen Bedingungen nicht mehr zuzumuten ist (Abs. 2).
 
-#### 1. Natuerlicher Kausalzusammenhang
+**9** **Fristauflösung bei Unzumutbarkeit** Art. 324a Abs. 2 OR gewährt dem Arbeitnehmer das Recht, das Arbeitsverhältnis seinerseits ohne Einhaltung einer Frist aufzulösen, wenn ihm die Fortsetzung unter den neuen Bedingungen nicht mehr zuzumuten ist. Dies ist eine verschärfte Form der konstruktiven Entlassung (vgl. Art. 337c OR). Die Unzumutbarkeit muss objektiv gegeben sein — ein blosses Unbehagen genügt nicht.
 
-Die Leistungspflicht nach Art. 324a OR setzt in jedem Fall einen natuerlichen Kausalzusammenhang zwischen dem unverschuldeten Verhinderungsgrund und dem Ausbleiben der Arbeitsleistung voraus (BGE 152 III 23, E. 2.3.2 unter Verweis auf Rehbinder/Stoeckli, a.a.O., N. 3; Trezzini, a.a.O., N. 2; Paerli/Petrik, a.a.O., Rz. 154; Geiser, AJP 2003 S. 325). Ursachen im Sinne des natuerlichen Kausalzusammenhangs sind alle Umstaende, ohne deren Vorhandensein der eingetretene Erfolg nicht als eingetreten oder nicht als in der gleichen Weise bzw. nicht zur gleichen Zeit eingetreten gedacht werden kann (BGE 148 V 138, E. 5.1.1; BGE 142 V 435, E. 1; BGE 129 V 177, E. 3.1).
+---
 
-#### 2. Mehrfachverursachung und Kausalketten
+## Abgrenzungen
 
-Fuer die Bejahung des natuerlichen Kausalzusammenhangs ist nicht erforderlich, dass die Krankheit die alleinige oder unmittelbare Ursache der Arbeitsverhinderung ist; es genuegt, dass sie zusammen mit anderen Bedingungen den Arbeitnehmer an der Leistungserbringung gehindert hat, d.h. nicht weggedacht werden kann, ohne dass auch die eingetretene Arbeitsverhinderung entfiele (BGE 152 III 23, E. 2.3.2; 4A_232/2019, E. 3.2).
+**10** **Änderungskündigung vs. einseitige Änderung** Der Arbeitgeber kann die Vertragsbedingungen nicht einseitig ändern. Er muss entweder den Arbeitnehmer zustimmen lassen (Vertragsänderung) oder den Weg der Änderungskündigung wählen. Eine einseitige Änderung ohne Kündigung ist nur zulässig, wenn der Arbeitsvertrag ein Änderungsvorbehalt enthält, der seinerseits den Anforderungen von Treu und Glauben (Art. 2 ZGB) genügt.
 
-Liegen in einem konkreten Fall mehrere Gruende fuer eine Arbeitsverhinderung vor, so ist fuer die jeweilige Zeitperiode zu beurteilen, aus welchem Grund der Arbeitnehmer an der Arbeitsleistung verhindert ist und ob der jeweilige Grund als verschuldet oder unverschuldet zu gelten hat (BGE 152 III 23, E. 2.3.3):
+**11** **Änderungskündigung vs. Versetzung** Die Versetzung (Disziplinierungsvorbehalt, Direktionsrecht) ist von der Änderungskündigung zu unterscheiden. Versetzungen innerhalb des Direktionsrechts erfordern keine Änderungskündigung, solange sie im Rahmen des Vertrags bleiben. Erst wenn die Versetzung die vertraglichen Grenzen überschreitet, kommt eine Änderungskündigung in Betracht.
 
-- **Unabhaengig voneinander bestehende Gruende**: Verbuesst ein Arbeitnehmer eine Freiheitsstrafe (verschuldet), so besteht waehrend des Strafvollzugs kein Lohnfortzahlungsanspruch. Erkrankt der Arbeitnehmer nach Antritt des Strafvollzugs, belebt der Lohnfortzahlungsanspruch nicht wieder auf, da der Arbeitnehmer aufgrund des verschuldeten Freiheitsentzugs an der Arbeitsleistung gehindert ist. Ein Anspruch entsteht hingegen nachtraeglich, wenn die Person bei weiterhin andauernder Krankheit aus dem Strafvollzug entlassen wird, da sie ab diesem Zeitpunkt aufgrund ihrer Krankheit an der Arbeitsleistung gehindert ist (BGE 152 III 23, E. 2.3.3).
+**12** **Änderungskündigung vs. konstruktive Entlassung** Die konstruktive Entlassung (Art. 337c OR) setzt voraus, dass der Arbeitgeber durch sein Verhalten den Arbeitnehmer zur Auflösung des Arbeitsverhältnisses veranlasst. Bei der Änderungskündigung hat der Arbeitnehmer ein ausdrückliches Auflösungsrecht nach Art. 324a Abs. 2 OR, das nicht die Voraussetzungen der konstruktiven Entlassung erfüllen muss — es genügt die Unzumutbarkeit der Fortsetzung unter den neuen Bedingungen.
 
-- **Kausalkette**: Liegen die Gruende nicht unabhaengig nebeneinander, sondern beruhen auf derselben Ursache, so ist der urspruengliche unverschuldete Grund massgebend. In BGE 152 III 23 fuehrte die fortgeschrittene Alkoholsucht eines Servicetechnikers zu einem Verkehrsunfall, einer fuerorgerischen Unterbringung und dem Entzug des Fuehrerausweises. Das Bundesgericht qualifizierte den Verkehrsunfall, die fuerorgerische Unterbringung und den Fuehrerausweisentzug als verschiedene Manifestationen ein und derselben Ursache (der schweren Alkoholsucht). Der Beschwerdefuehrer war in erster Linie wegen der Krankheit und der medizinischen Einweisung an der Arbeit verhindert und nicht erst zufolge des Fuehrerausweisentzugs (BGE 152 III 23, E. 2.3.4). Vergleichbar ist die Konstellation in BGE 133 III 185, E. 2, in der das Bundesgericht eine psychisch kranke Arbeitnehmerin, die sich infolge Brandstiftungen in einer Strafanstalt befand, als krankentaggeldberechtigt erachtete, da die Arbeitsunfaehigkeit nicht auf den Anstaltsaufenthalt, sondern auf die psychische Erkrankung zurueckzufuehren war, die kausal fuer die Brandstiftungen war (BGE 152 III 23, E. 2.3.4 unter Verweis auf BGE 133 III 185, E. 2.2.2).
+---
 
-### V. Dauer des Arbeitsverhaeltnisses und Karenzfrist
+## Materialien
 
-Der Lohnfortzahlungsanspruch besteht nur, wenn das Arbeitsverhaeltnis mehr als drei Monate gedauert hat oder fuer mehr als drei Monate eingegangen wurde (Art. 324a Abs. 1 OR). Die Dauer von mehr als drei Monaten berechnet sich ab dem Tag der Arbeitsaufnahme (BGE 131 III 623, E. 2.3). Wird der Arbeitnehmer ohne Verschulden innert der ersten drei Monate an der Arbeitsleistung verhindert, so hat er im Rahmen eines unbefristeten Arbeitsvertrags mit einer Kuendigungsfrist von drei oder weniger Monaten keinen Lohnanspruch vor dem ersten Tag des vierten Monats (Karenzfrist) (BGE 131 III 623, E. 2.4).
+- **Botschaft vom 4. September 1969** zum Bundesgesetz über die Ergänzung des Schweizerischen Obligationenrechts (Arbeitsvertrag), BBl 1969 II 301
+- **Botschaft vom 15. Juni 2018** zur Änderung des Arbeitsgesetzes, BBl 2018 5589
 
-Abweichungen von dieser Regelung sind durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag moeglich, sofern sie fuer den Arbeitnehmer mindestens gleichwertig sind (Art. 324a Abs. 4 OR). Art. 324a Abs. 2 OR erlaubt es den Vertragsparteien, durch eine Vereinbarung, die keiner besonderen Form bedarf, dem Arbeitnehmer die Deckung des Lohnausfalls waehrend der Karenzfrist zuzusichern (BGE 131 III 623, E. 2.5.2). Die Lohnfortzahlungspflicht nach Art. 324a OR endet mit der Beendigung des Arbeitsverhaeltnisses, sofern nicht ausdruecklich etwas anderes vereinbart wurde (BGE 113 II 263, E. 3).
+---
 
-### VI. Krankentaggeldversicherung und Gleichwertigkeit (Abs. 4)
+## Literaturhinweise
 
-Art. 324a Abs. 4 OR ermoeglicht abweichende Regelungen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag, sofern diese fuer den Arbeitnehmer mindestens gleichwertig sind. Die Gleichwertigkeit verlangt, dass die Krankentaggeldversicherung mindestens 80% des Lohnes deckt, die Taggeldleistungen waehrend mindestens 720 Tagen innerhalb von 900 Tagen erbracht werden und die Praemien haelftisch zwischen Arbeitgeber und Arbeitnehmer geteilt werden (BGE 135 III 640, E. 4). Bestimmungen ueber die Krankentaggeldversicherung nach Art. 324a Abs. 4 OR qualifizieren als Lohnbestimmungen im Sinne von Art. 20 Abs. 1 LSE (BGE 124 III 126, E. 3; BGE 135 III 640, E. 3).
-
-Die Schriftform nach Art. 324a Abs. 4 OR wird nur gewahrt, wenn die wesentlichen Elemente der Krankentaggeldversicherung — versicherter Lohnanteil, Leistungsdauer, Selbstbehaltstage und Praemienteilung — in der schriftlichen Vereinbarung selbst enthalten sind oder durch Bezugnahme auf ein Betriebsreglement oder die allgemeinen Versicherungsbedingungen einbezogen werden (4A_98/2014, E. 3).
-
-Bei Kollektiv-Krankentaggeldversicherung nach VVG haengt der Taggeldanspruch nicht von der Gruppenzugehoerigkeit ab; er ueberdauert das Ende der Versicherungszugehoerigkeit (BGE 127 III 106, E. 3). Der versicherte Arbeitnehmer hat einen eigenstaendigen Anspruch gegenueber dem Versicherer (Art. 87 VVG); der Arbeitgeber ist fuer Taggeldansprueche nicht passiv legitimiert und handelt lediglich als Zahlstelle (4A_514/2018, E. 3). Die gesetzliche Lohnfortzahlungspflicht lebt nicht wieder auf, wenn die Versicherung ihre Zahlungen einstellt (4A_514/2018, E. 4).
-
-Verletzt der Arbeitgeber seine Fuerpflicht (Art. 328 OR) dadurch, dass er eine zugesagte Krankentaggeldversicherung nicht abschliesst oder beim Wechsel des Versicherers eine Taggeldluecke entsteht, haftet er dem Arbeitnehmer nach Art. 97 OR auf Ersatz des Schadens. Der Arbeitnehmer ist so zu stellen, als waere die Versicherung ordnungsgemaess abgeschlossen worden, auch ueber das Ende des Arbeitsverhaeltnisses hinaus (4C.230/2000; 4C.9/2006).
-
-## Beweislast
-
-Die Beweislast fuer das Vorliegen der Voraussetzungen von Art. 324a OR traegt der Arbeitnehmer. Er muss die Tatsachen beweisen, aus denen sich sein Lohnanspruch ergibt, insbesondere die Arbeitsunfaehigkeit und deren Ursache. Das Bundesgericht legt dabei jedoch einen natuerlichen Kausalzusammenhang zugrunde, der nicht die Alleinursachelichkeit, sondern nur die Mitursachelichkeit des Verhinderungsgrunds erfordert (BGE 152 III 23, E. 2.3.2). Die Frage, ob ein Verschulden vorliegt, ist nach den Umstaenden des Einzelfalls zu beurteilen.
-
-## Verhaeltnis zu Art. 324 OR
-
-Die Abgrenzung zwischen Art. 324 OR (Annahmeverzug / Betriebsrisiko) und Art. 324a OR (Verhinderung in der Person des Arbeitnehmers) ist von zentraler praktischer Bedeutung:
-
-- **Art. 324 OR** betrifft die Verhinderung in der Sphäre des Arbeitgebers: Kann der Arbeitgeber die Arbeitsleistung nicht annehmen (Annahmeverzug), bleibt er zur Lohnzahlung verpflichtet.
-- **Art. 324a OR** betrifft die unverschuldete Verhinderung in der Sphäre des Arbeitnehmers: Ist der Arbeitnehmer aus Gruenden, die in seiner Person liegen, an der Arbeitsleistung verhindert, hat er unter den genannten Voraussetzungen Anspruch auf Lohnfortzahlung.
-- Massnahmen zur Beschraenkung des Coronavirus fielen nicht in die Risikosphäre des Arbeitgebers im Sinne von Art. 324 Abs. 1 OR, sondern stellten objektive Gruende dar, welche im Sinne von Art. 91 OR die Nichtannahme der gehoerig angebotenen Leistung des Arbeitnehmers rechtfertigten (BGE 150 III 22).
-
-## Praktische Bedeutung
-
-Art. 324a OR ist eine der meistzitierten Bestimmungen des Arbeitsvertragsrechts. Ihre praktische Bedeutung liegt insbesondere in folgenden Bereichen:
-
-- **Krankheit und Unfall**: Krankheits- oder unfallbedingte Arbeitsunfaehigkeit ist der haufigste Anwendungsfall. Die Frage des Verschuldens bei Suchterkrankungen ist durch BGE 152 III 23, E. 2.3.1, und BGE 145 V 215, E. 4 ff., geklaert.
-
-- **Arbeitszeugnis und Kuedigung wegen Krankheit**: Ist der Arbeitnehmer aufgrund seiner Krankheit fuer die bisherige Taetigkeit nicht mehr geeignet, muss die Krankheit im qualifizierten Arbeitszeugnis erwaehnt werden, wenn sie die Eignung fuer die bisherige Taetigkeit materiell in Frage stellte und tatsaechlicher Kuedigungsgrund war. Eine Kuedigung wegen Krankheit ist nach Ablauf der Sperrfrist grundsaetzlich zulaessig (BGE 136 III 510, E. 4 und 5).
-
-- **Karenzfrist**: Die Dreimonatskarenzfrist bei unbefristeten Arbeitsvertraegen mit kurzer Kuendigungsfrist ist in der Praxis von grosser Bedeutung (BGE 131 III 623, E. 2.4).
-
-- **Kausalitaet bei Mehrfachverursachung**: Die Unterscheidung zwischen unabhaengig voneinander bestehenden Verhinderungsgruenden und Kausalketten ist entscheidend fuer die Anspruchsbegruendung (BGE 152 III 23, E. 2.3.3 und E. 2.3.4).
-
-- **Schwangerschaft**: Die Lohnfortzahlung bei Schwangerschaft ist durch Abs. 3 (seit 2005) besonders geregelt und gilt unabhaengig von der Dauer des Arbeitsverhaeltnisses im gleichen Umfang wie bei Krankheit.
-
-- **Zusammenspiel mit Versicherungen**: Art. 324b OR regelt den Vorrang der obligatorischen Versicherung (Krankentaggeldversicherung nach KVG, Unfallversicherung nach UVG) vor der Lohnfortzahlungspflicht des Arbeitgebers (BGE 143 V 385).
-
-## Leitentscheide
-
-| Entscheidung | Jahr | Thema | Regeste-Kern |
-|---|---|---|---|
-| BGE 152 III 23 | 2026 | Kausalitaet bei Mehrfachverursachung; Alkoholsucht und Fuehrerausweisentzug | Natuerlicher Kausalzusammenhang zwischen unverschuldetem Verhinderungsgrund und Ausbleiben der Arbeitsleistung bei mehreren moeglichen Ursachen |
-| BGE 150 III 22 | 2023 | Betriebsrisiko und Coronavirus | Arbeitsverhinderung als Folge von Corona-Massnahmen faellt nicht in die Risikosphäre des Arbeitgebers (Art. 324 OR), sondern stellt objektive Gruende im Sinne von Art. 91 OR dar |
-| 4A_232/2019 | 2019 | Natuerlicher Kausalzusammenhang (Mitverursachung) | Condicio-sine-qua-non-Test bei Art. 324a OR; Mitverursachung genuegt; Krankheit muss nicht alleinige oder unmittelbare Ursache sein |
-| 4A_514/2018 | 2018 | Kollektiv-Krankentaggeldversicherung | Eigenstaendiger Anspruch des versicherten Arbeitnehmers gegenueber dem Versicherer (Art. 87 VVG); Arbeitgeber nicht passiv legitimiert; gesetzliche Lohnfortzahlungspflicht lebt nicht wieder auf |
-| BGE 145 V 215 | 2019 | Suchterkrankung als Krankheit | Primaere Abhaengigkeitssyndrome sind wie saemtliche psychischen Erkrankungen grundsatzlich einem strukturierten Beweisverfahren zu unterziehen |
-| BGE 143 V 385 | 2016 | Krankentaggeldversicherung und Art. 324a OR | Von der Krankenversicherung ausgerichtete Entschaedigungen gelten nur als Lohn, wenn sie den vom Arbeitgeber nach Art. 324a OR geschuldeten Lohn ersetzen |
-| 4A_98/2014 | 2014 | Schriftform nach Art. 324a Abs. 4 OR | Krankentaggeldklausel wahrt Schriftform nur bei Aufnahme der wesentlichen Elemente in die schriftliche Vereinbarung oder Bezugnahme auf Betriebsreglement/AVB |
-| BGE 136 III 510 | 2010 | Krankheit im Arbeitszeugnis; Kuedigung wegen Krankheit | Krankheit muss im qualifizierten Arbeitszeugnis erwaehnt werden, wenn sie Eignung fuer bisherige Taetigkeit in Frage stellte; Kuedigung nach Sperrfrist grundsaetzlich zulaessig |
-| BGE 135 III 640 | 2009 | Krankentaggeldversicherung und Gleichwertigkeit (Abs. 4) | Krankentaggeldversicherung nach Art. 324a Abs. 4 OR als Lohnbestimmung i.S.v. Art. 20 Abs. 1 LSE; Gleichwertigkeit erfordert mind. 80% Taggeld, 720 Tage/900 Tage, haelftige Praemienteilung |
-| BGE 133 III 185 | 2007 | Kausalkette: Psychische Erkrankung und Straftat | Arbeitsunfaehigkeit infolge psychischer Erkrankung, die kausal fuer Brandstiftungen war, bleibt krankheitsbedingt; Anstaltsaufenthalt funktionell als Klinikaufenthalt |
-| 4C.9/2006 | 2006 | Fuerpflicht beim Wechsel der Krankentaggeldversicherung | Wechsel der Krankentaggeldversicherung mit Taggeldluecke verletzt Fuerpflicht (Art. 328 OR); Arbeitgeber muss kontinuierliche Deckung sicherstellen oder Schadenersatz leisten |
-| BGE 131 III 623 | 2005 | Karenzfrist und Dauer des Arbeitsverhaeltnisses | Dauer von mehr als drei Monaten berechnet sich ab dem Tag der Arbeitsaufnahme; Karenzfrist bei unbefristeten Vertraegen mit kurzer Kuendigungsfrist |
-| BGE 127 III 318 | 2001 | GAV-Krankentaggeldversicherung | Obligationen des Arbeitgebers aus Kollektivversicherung ueberdauern Beendigung des Arbeitsverhaeltnisses; Arbeitgeberhaftung fuer Nichteinloesung der Versicherungszusage (Art. 97 OR) |
-| BGE 127 III 106 | 2001 | Kollektiv-Krankentaggeldversicherung nach VVG | Taggeldanspruch haengt nicht von Gruppenzugehoerigkeit ab; Anspruch ueberdauert Ende der Versicherungszugehoerigkeit |
-| 4C.230/2000 | 2000 | Arbeitgeberhaftung bei Nichteinloesung der Versicherungszusage | Arbeitnehmer ist so zu stellen, als waere die Versicherung ordnungsgemaess abgeschlossen worden (Art. 97 OR), auch ueber Ende des Arbeitsverhaeltnisses hinaus |
-| BGE 126 III 75 | 2000 | Gefahrtragung bei unverschuldeter Unmoeglichkeit | Die Folgen der unverschuldeten nachtraeglichen Unmoeglichkeit der vom Arbeitnehmer versprochenen Leistung sind in Art. 324a und 324b OR geregelt |
-| BGE 124 III 126 | 1997 | Personalverleiher und Lohnfortzahlung | Lohnfortzahlungspflicht des Verleihers; Art. 324a OR-Fragen als Lohnbestimmungen i.S.v. Art. 20 Abs. 1 LSE; Vertrauensschutz bei fehlendem Versicherungsschutz |
-| BGE 122 III 268 | 1996 | Militaerdienstverweigerung aus Gewissensgruenden | Arbeitsverhinderung infolge Militaerdienstverweigerung aus Gewissensgruenden ist unverschuldet i.S.v. Art. 324a Abs. 1 OR |
-| BGE 114 II 274 | 1988 | Verschulden bei Verurteilung | Im Falle einer Verurteilung fehlt es in der Regel an der Unverschuldetheit der Arbeitsverhinderung |
-| BGE 113 II 263 | 1987 | Ende der Lohnfortzahlungspflicht | Lohnfortzahlungspflicht nach Art. 324a OR endet mit Beendigung des Arbeitsverhaeltnisses, sofern nicht ausdruecklich etwas anderes vereinbart |
+- **Stöckli Jean-Fritz**, in: Basler Kommentar, Obligationenrecht II, Art. 319–366 OR, 7. Aufl. 2023
+- **Streiff von Kaenel Regula**, in: Kommentar zum Schweizerischen Obligationenrecht, Arbeitsvertrag, 4. Aufl. 2021
+- **Portmann Wolfgang**, in: Zürcher Kommentar, Obligationenrecht II, Art. 319–366 OR, 5. Aufl. 2022

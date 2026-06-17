@@ -25,7 +25,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 | [Art. 319](art-319/) | GmbH-Gründung |
 | [Art. 321](art-321/) | Arbeitsvertrag — Pflichten des Arbeitnehmers |
 | [Art. 323](art-323/) | Zahlungsfristen und -termine |
-| [Art. 324a](art-324a/) | Arbeitsunfähigkeit |
+| [Art. 324a](art-324a/) | Änderungskündigung |
 | [Art. 328](art-328/) | Fürsorgepflicht |
 | [Art. 335](art-335/) | Kündigung im Allgemeinen |
 | [Art. 335b](art-335b/) | Kündigung während der Probezeit |

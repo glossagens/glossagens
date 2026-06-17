@@ -2,7 +2,7 @@
 title: "Art. 89 — Beschwerderecht"
 weight: 89
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-06-17
 description: "Kommentar zu Art. 89 BGG – Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
 tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten"]
 agent_verified: true

@@ -66,4 +66,12 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 31.05.2026*
+### BGer 1C_93/2025 — ISOS-Schutzziel B begründet keinen absoluten Erhaltungsanspruch; Verbandslegitimation
+
+- **Thema**: Verbandslegitimation bei Baubewilligung in der Bauzone; ISOS-Schutzziel B
+- **Kernaussage**: Das Bundesgericht präzisiert, dass ein Gebäude im ISOS nur als Ensemble-Bestandteil mit Schutzziel B keinen zwingenden Erhaltungsanspruch geniesst. Denkmalschutzverbänden (Patrimoine Suisse, Mouvement pour la Défense de Lausanne) fehlt die Beschwerdelegitimation nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 Abs. 1 NHG bei Baubewilligungen in der Bauzone — selbst wenn das Grundstück im ISOS-Perimeter liegt (Bestätigung von BGE 135 II 209 E. 2.1). Die fünf anwohnenden Personen sind legitimiert (weniger als 100 m Entfernung), womit auf die Legitimation der Verbände nicht eingetreten werden muss.
+- **Einschlägig für**: Art. 89 Abs. 2 lit. d BGG, Art. 12 NHG, Art. 29 Abs. 2 BV
+
+---
+
+*Letzte Aktualisierung: 17.06.2026*
