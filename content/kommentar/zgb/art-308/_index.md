@@ -2,7 +2,7 @@
 title: "Art. 308 — Ernennung eines Beistands"
 weight: 308
 date: 2026-05-22
-lastmod: 2026-05-30
+lastmod: 2026-06-18
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Unterstützung der Eltern durch Beistand, besondere Befugnisse (Vaterschaft, Unterhalt, Besuchsrecht), Beschränkung der elterlichen Sorge"
 tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge"]
 agent_verified: true
@@ -78,6 +78,10 @@ Die Beendigung der Beistandschaft nach Art. 308 ZGB kann durch Aufhebung, Änder
 ### IVc. Verhältnis Art. 307 zu Art. 308 ZGB
 
 Das Verhältnis von Art. 307 ZGB (allgemeine Kindesschutzmassnahmen) zu Art. 308 ZGB (Beistandschaft) ist durch den Grundsatz der Subsidiarität geprägt. [BGer 5A_568/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_568_2025) hielt fest, dass Art. 307 Abs. 3 ZGB (Weisungen an die Eltern) und Art. 308 ZGB (Beistandschaft) nicht kumulativ, sondern subsidiär anwendbar sind. [BGer 5A 577/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_577_2025) unterstrich, dass die Errichtung einer Beistandschaft eine eingehende Begründung der Kindeswohlgefährdung verlangt — appellatorische Sachverhaltsrügen und pauschale Behauptungen genügen nicht. [BGer 5A 110/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_110_2025) bestätigte, dass die Unterbringung ausserhalb des elterlichen Haushalts eine schwerwiegende Massnahme darstellt, die verhältnismässig sein muss.
+
+**Präzisierung des Subsidiaritätsgrundsatzes** ([BGer 5A_815/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=5A_815_2025)): Das Bundesgericht schärft die Abgrenzung zwischen formellen elterlichen Bemühungen und deren tatsächlicher Wirksamkeit ein. Freiwillige Massnahmen der Eltern sind nicht bereits ausreichend — sie müssen der Gefährdung auch **tatsächlich begegnen**. Der Subsidiaritätsgrundsatz schützt nicht bloss formelle Anstrengungen, sondern setzt auf die tatsächliche Wirksamkeit. Dies konkretisiert die Aussage in [5A_765/2016 E. 5.2.2](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=5A_765_2016) und schränkt mögliche Fehllesungen ein.
+
+**Kein Verschulden erforderlich**: Eine Kindeswohlgefährdung im Sinne von Art. 307 Abs. 1 ZGB setzt kein Verschulden der Eltern voraus. Dies wird besonders deutlich bei neurodivergenten Kindern (z.B. ASS/PDA), wo die Diagnosen die Gefährdung wesentlich mitverursachen, ohne dass den Eltern ein Vorwurf gemacht wird ([BGE 146 III 313 E. 6.2.2](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_146_III_313); [BGer 5A_815/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=5A_815_2025)).
 
 ---
 

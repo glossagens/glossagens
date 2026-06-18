@@ -2,7 +2,7 @@
 title: "Art. 29 — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-06-13
+lastmod: 2026-06-18
 description: "Kommentar zu Art. 29 BV – Gleiche und gerechte Behandlung, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege", "Grundrechte", "fair trial"]
 agent_verified: true
@@ -36,6 +36,8 @@ Formen der Rechtsverweigerung:
 - **Materielle Rechtsverweigerung**: Nichthandeln trotz Pflicht zum Tätigwerden
 - **Formelle Rechtsverweigerung**: Unbegründetes Nichteintreten auf eine Eingabe
 - **Factice Rechtsverweigerung**: systematische Verzögerung, die den Rechtsweg faktisch versperrt
+
+**Beweislast bei fehlendem Zustellungsnachweis**: Fehlt der Nachweis, dass eine Verfügung zugestellt wurde, trägt die Behörde die Folgen. Das Bundesgericht bejaht eine formelle Justizverweigerung (déni de justice formel) nach Art. 29 Abs. 1 BV, wenn die Vorinstanz eine Beschwerde wegen angeblich fehlender Beschwerdefrist nicht behandelt, ohne dass die fristauslösende Zustellung nachgewiesen ist. Die Beweislast für die wirksame Zustellung liegt bei der Behörde, die sich auf die Frist beruft. In [BGer 6B_935/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=6B_935_2025) wurde eine Nichtzugestellte Ablehnung eines Pflichtverteidiger-Gesuchs (Art. 132 StPO) als unbehandelt qualifiziert — die Vernehmlassung vor Bundesgericht ersetzt keine formelle Zustellung. Das Gericht bestätigt die Beweislastregel von [BGE 144 IV 57 E. 2.3](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_IV_57).
 
 ### 2. Anspruch auf Beurteilung innert angemessener Frist
 
