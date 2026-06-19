@@ -1,8 +1,8 @@
 ---
 title: "Art. 447 — Persönliche Anhörung"
 weight: 447
-date: 2026-05-24
-lastmod: 2026-05-24
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 447 ZGB – Persönliche Anhörung im Erwachsenenschutz- und Kindesschutzrecht"
 tags: ["ZGB", "Erwachsenenschutz", "Anhörung", "Verfahrensrecht"]
 agent_verified: true
@@ -10,7 +10,10 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 447 ZGB — Persönliche Anhörung**
+>
 > 1 Die betroffene Person wird persönlich angehört, soweit dies nicht als unverhältnismässig erscheint.
+>
 > 2 Im Fall einer fürsorgerischen Unterbringung hört die Erwachsenenschutzbehörde die betroffene Person in der Regel als Kollegium an.
 
 ## Kommentierung

@@ -2,7 +2,7 @@
 title: "Art. 7 — Erwerbsunfähigkeit"
 weight: 7
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 7 ATSG: Erwerbsunfähigkeit als durch Arbeitsunfähigkeit bedingter Verlust oder Einbusse an Erwerbsfähigkeit — Zentralbegriff zwischen Arbeitsunfähigkeit und Invalidität"
 tags: ["ATSG", "Sozialversicherungsrecht", "Erwerbsunfähigkeit", "Arbeitsunfähigkeit", "Invalidität", "Einkommensvergleich", "Zumutbarkeit"]
 agent_verified: true
@@ -12,7 +12,9 @@ agent_verified: true
 
 > **Art. 7 — Erwerbsunfähigkeit**
 >
-> Erwerbsunfähigkeit ist der durch die Arbeitsunfähigkeit bedingte Verlust oder die durch die Arbeitsunfähigkeit bedingte Einbusse an Erwerbsfähigkeit.
+> ¹ Erwerbsunfähigkeit ist der durch Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit verursachte und nach zumutbarer Behandlung und Eingliederung verbleibende ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen Arbeitsmarkt.
+>
+> ² Für die Beurteilung des Vorliegens einer Erwerbsunfähigkeit sind ausschliesslich die Folgen der gesundheitlichen Beeinträchtigung zu berücksichtigen. Eine Erwerbsunfähigkeit liegt zudem nur vor, wenn sie aus objektiver Sicht nicht überwindbar ist.
 
 ## Kommentierung
 

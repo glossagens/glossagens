@@ -1,8 +1,8 @@
 ---
 title: "Art. 274 ZGB – Verweigerung und Entzug des persönlichen Verkehrs"
 weight: 274
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 274 ZGB – Loyalitätspflicht, Verweigerung und Entzug des Besuchsrechts bei Kindeswohlgefährdung, pflichtwidriger Ausübung und fehlendem Kümmern"
 tags: ["ZGB", "Besuchsrechtsentzug", "Loyalitätspflicht", "Kindeswohl", "persönlicher Verkehr", "Adoption"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 274 ZGB – Verweigerung und Entzug des persönlichen Verkehrs**
+> **Art. 274 ZGB — Verweigerung und Entzug des persönlichen Verkehrs**
 >
 > 1 Der Vater und die Mutter haben alles zu unterlassen, was das Verhältnis des Kindes zum anderen Elternteil beeinträchtigt oder die Aufgabe der erziehenden Person erschwert.
 >

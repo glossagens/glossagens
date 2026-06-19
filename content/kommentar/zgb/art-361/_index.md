@@ -1,22 +1,22 @@
 ---
 title: "Art. 361 ZGB — Form des Vorsorgeauftrags"
 weight: 361
-date: 2026-05-17
-lastmod: 2026-05-17
+date: "2026-05-17"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 361 ZGB: Formerfordernisse des Vorsorgeauftrags — eigenhändige Errichtung und öffentliche Beurkundung, Registrierung im Zivilstandsamt."
 tags: ["ZGB", "Vorsorgeauftrag", "Erwachsenenschutz", "Formvorschriften"]
 agent_verified: true
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-> **Art. 361 ZGB**
+> **Art. 361 ZGB — Form des Vorsorgeauftrags**
 >
-> ¹ Der Vorsorgeauftrag ist eigenhändig zu errichten oder öffentlich zu beurkunden.
+> 1 Der Vorsorgeauftrag ist eigenhändig zu errichten oder öffentlich zu beurkunden.
 >
-> ² Der eigenhändige Vorsorgeauftrag ist von der auftraggebenden Person von Anfang bis Ende von Hand niederzuschreiben, zu datieren und zu unterzeichnen.
+> 2 Der eigenhändige Vorsorgeauftrag ist von der auftraggebenden Person von Anfang bis Ende von Hand niederzuschreiben, zu datieren und zu unterzeichnen.
 >
-> ³ Das Zivilstandsamt trägt auf Antrag die Tatsache, dass eine Person einen Vorsorgeauftrag errichtet hat, und den Hinterlegungsort in die zentrale Datenbank ein. Der Bundesrat erlässt die nötigen Bestimmungen, namentlich über den Zugang zu den Daten.
+> 3 Das Zivilstandsamt trägt auf Antrag die Tatsache, dass eine Person einen Vorsorgeauftrag errichtet hat, und den Hinterlegungsort in die zentrale Datenbank ein. Der Bundesrat erlässt die nötigen Bestimmungen, namentlich über den Zugang zu den Daten.
 
 ## Systematik und Kontext
 

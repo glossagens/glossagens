@@ -1,8 +1,8 @@
 ---
 title: "Art. 18 ZGB — Urteilsfähigkeit"
 weight: 18
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 18 ZGB — Urteilsfähigkeit als Voraussetzung rechtlicher Wirksamkeit, Nichtigkeit bei Urteilsunfähigkeit, Relativität des Begriffs und Beweislast"
 tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Willensmängel"]
 agent_verified: true
@@ -10,6 +10,8 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 18 ZGB — Urteilsfähigkeit**
+>
 > Wer nicht urteilsfähig ist, vermag unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen.
 
 ## Kommentierung

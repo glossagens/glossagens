@@ -1,8 +1,8 @@
 ---
 title: "Art. 273 ZGB – Persönlicher Verkehr"
 weight: 273
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Anspruch auf angemessenen persönlichen Verkehr zwischen Kind und nicht-sorgeberechtigtem Elternteil – umfassende Kommentierung mit 18 BGer-Entscheiden"
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Kindesschutz"]
 agent_verified: false
@@ -10,11 +10,15 @@ agent_verified: false
 
 ## Art. 273 ZGB – Persönlicher Verkehr
 
-### Gesetzestext
+## Gesetzeswortlaut
 
-1 Eltern, denen die elterliche Sorge oder Obhut nicht zusteht, und das minderjährige Kind haben gegenseitig Anspruch auf angemessenen persönlichen Verkehr.
-2 Die Kindesschutzbehörde kann Eltern, Pflegeeltern oder das Kind ermahnen und ihnen Weisungen erteilen, wenn sich die Ausübung oder Nichtausübung des persönlichen Verkehrs für das Kind nachteilig auswirkt oder wenn eine Ermahnung oder eine Weisung aus anderen Gründen geboten ist.
-3 Der Vater oder die Mutter können verlangen, dass ihr Anspruch auf persönlichen Verkehr geregelt wird.
+> **Art. 273 ZGB — Persönlicher Verkehr**
+>
+> 1 Eltern, denen die elterliche Sorge oder Obhut nicht zusteht, und das minderjährige Kind haben gegenseitig Anspruch auf angemessenen persönlichen Verkehr.
+>
+> 2 Die Kindesschutzbehörde kann Eltern, Pflegeeltern oder das Kind ermahnen und ihnen Weisungen erteilen, wenn sich die Ausübung oder Nichtausübung des persönlichen Verkehrs für das Kind nachteilig auswirkt oder wenn eine Ermahnung oder eine Weisung aus anderen Gründen geboten ist.
+>
+> 3 Der Vater oder die Mutter können verlangen, dass ihr Anspruch auf persönlichen Verkehr geregelt wird.
 
 ### Systematische Einordnung
 

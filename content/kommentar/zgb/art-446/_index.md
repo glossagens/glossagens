@@ -1,8 +1,8 @@
 ---
 title: "Art. 446 — Verfahrensgrundsätze"
 weight: 446
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 446 ZGB — Sachverhaltserhebung, Amtswegigkeit und Gutachten im Erwachsenenschutzverfahren"
 tags: ["ZGB", "Erwachsenenschutz", "Amtswegigkeit", "Gutachten", "KESB"]
 agent_verified: true
@@ -10,9 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 446 ZGB — Verfahrensgrundsätze**
+>
 > 1 Die Erwachsenenschutzbehörde erforscht den Sachverhalt von Amtes wegen.
+>
 > 2 Sie zieht die erforderlichen Erkundigungen ein und erhebt die notwendigen Beweise. Sie kann eine geeignete Person oder Stelle mit Abklärungen beauftragen. Nötigenfalls ordnet sie das Gutachten einer sachverständigen Person an.
+>
 > 3 Sie ist nicht an die Anträge der am Verfahren beteiligten Personen gebunden.
+>
 > 4 Sie wendet das Recht von Amtes wegen an.
 
 ## Kommentierung

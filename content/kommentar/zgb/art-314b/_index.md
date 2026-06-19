@@ -1,8 +1,8 @@
 ---
 title: "Art. 314b — Fürsorgerische Unterbringung von Kindern"
 weight: 314
-date: 2026-05-10
-lastmod: 2026-05-10
+date: "2026-05-10"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 314b ZGB – Fürsorgerische Unterbringung von Kindern"
 tags: ["ZGB", "Kindesschutz", "fürsorgerische Unterbringung", "Erwachsenenschutz"]
 agent_verified: true
@@ -10,10 +10,11 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **1** Muss das Kind in einer geschlossenen Einrichtung oder in einer psychiatrischen Klinik untergebracht werden, so sind die Bestimmungen des Erwachsenenschutzes über die fürsorgerische Unterbringung sinngemäss anwendbar.
+> **Art. 314b ZGB — Fürsorgerische Unterbringung von Kindern**
 >
-> **2** Ist das Kind urteilsfähig, so kann es selber das Gericht anrufen.
-
+> 1 Muss das Kind in einer geschlossenen Einrichtung oder in einer psychiatrischen Klinik untergebracht werden, so sind die Bestimmungen des Erwachsenenschutzes über die fürsorgerische Unterbringung sinngemäss anwendbar.
+>
+> 2 Ist das Kind urteilsfähig, so kann es selber das Gericht anrufen.
 ---
 
 ## Vorbemerkungen

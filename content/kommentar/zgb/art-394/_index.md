@@ -1,8 +1,8 @@
 ---
 title: "Art. 394 — Vertretungsbeistandschaft"
 weight: 394
-date: 2026-05-24
-lastmod: 2026-05-24
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 394 ZGB – Beistandschaft zur Vertretung im Erwachsenenschutzrecht"
 tags: ["ZGB", "Erwachsenenschutz", "Beistandschaft", "Vertretung"]
 agent_verified: true
@@ -10,8 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 394 ZGB — Vertretungsbeistandschaft**
+>
 > 1 Eine Vertretungsbeistandschaft wird errichtet, wenn die hilfsbedürftige Person bestimmte Angelegenheiten nicht erledigen kann und deshalb vertreten werden muss.
+>
 > 2 Die Erwachsenenschutzbehörde kann die Handlungsfähigkeit der betroffenen Person entsprechend einschränken.
+>
 > 3 Auch wenn die Handlungsfähigkeit nicht eingeschränkt ist, muss die betroffene Person sich die Handlungen des Beistands oder der Beiständin anrechnen oder gefallen lassen.
 
 ## Kommentierung

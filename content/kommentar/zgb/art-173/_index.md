@@ -1,8 +1,8 @@
 ---
 title: "Art. 173 — Unterhaltsbeitrag im Eheschutz"
 weight: 173
-date: 2026-05-24
-lastmod: 2026-06-07
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 173 ZGB – Unterhaltsbeitrag im Eheschutzverfahren: Familienunterhalt, Ehegattenbeitrag, Rückwirkung"
 tags: ["ZGB", "Eheschutz", "Unterhaltsbeitrag", "Familienrecht", "Ehegattenunterhalt"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 173 ZGB – Unterhaltsbeitrag im Eheschutz**
+> **Art. 173 ZGB — Unterhaltsbeitrag im Eheschutz**
 >
 > 1 Auf Begehren eines Ehegatten setzt das Gericht die Geldbeiträge an den Unterhalt der Familie fest.
 >

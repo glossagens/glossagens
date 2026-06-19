@@ -1,8 +1,8 @@
 ---
 title: "Art. 398 ZGB – Umfassende Beistandschaft"
 weight: 398
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Umfassende Beistandschaft als Ultima ratio bei dauernder Urteilsunfähigkeit und besonderer Hilfsbedürftigkeit"
 tags: ["ZGB", "Beistandschaft", "Erwachsenenschutz", "Handlungsunfähigkeit"]
 agent_verified: false
@@ -10,11 +10,15 @@ agent_verified: false
 
 ## Art. 398 ZGB – Umfassende Beistandschaft
 
-### Gesetzestext
+## Gesetzeswortlaut
 
-1 Eine umfassende Beistandschaft wird errichtet, wenn eine Person, namentlich wegen dauernder Urteilsunfähigkeit, besonders hilfsbedürftig ist.
-2 Sie bezieht sich auf alle Angelegenheiten der Personensorge, der Vermögenssorge und des Rechtsverkehrs.
-3 Die Handlungsfähigkeit der betroffenen Person entfällt von Gesetzes wegen.
+> **Art. 398 ZGB — Umfassende Beistandschaft**
+>
+> 1 Eine umfassende Beistandschaft wird errichtet, wenn eine Person, namentlich wegen dauernder Urteilsunfähigkeit, besonders hilfsbedürftig ist.
+>
+> 2 Sie bezieht sich auf alle Angelegenheiten der Personensorge, der Vermögenssorge und des Rechtsverkehrs.
+>
+> 3 Die Handlungsfähigkeit der betroffenen Person entfällt von Gesetzes wegen.
 
 ### Systematische Einordnung
 

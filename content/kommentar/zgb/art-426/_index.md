@@ -1,25 +1,24 @@
 ---
 title: "Art. 426 — Fürsorgeunterbringung"
 weight: 426
-date: 2026-05-22
-lastmod: 2026-05-30
+date: "2026-05-22"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 426 ZGB: Fürsorgeunterbringung bei psychischer Störung, geistiger Behinderung oder schwerer Verwahrlosung; Ultima-ratio-Prinzip; Verfahrensgarantien; Entlassungsanspruch"
 tags: ["ZGB", "Erwachsenenschutz", "Fürsorgeunterbringung", "Ultima ratio", "Patientenautonomie", "Verfahrensgarantien"]
 agent_verified: true
 ---
 
-## Art. 426 ZGB — Fürsorgeunterbringung
+## Gesetzeswortlaut
 
-### Wortlaut
-
-**(1)** Eine Person, die an einer psychischen Störung oder an geistiger Behinderung leidet oder schwer verwahrlost ist, darf in einer geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann.
-
-**(2)** Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
-
-**(3)** Die betroffene Person wird entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind.
-
-**(4)** Die betroffene oder eine ihr nahestehende Person kann jederzeit um Entlassung ersuchen. Über dieses Gesuch ist ohne Verzug zu entscheiden.
-
+> **Art. 426 ZGB — Fürsorgeunterbringung**
+>
+> 1 Eine Person, die an einer psychischen Störung oder an geistiger Behinderung leidet oder schwer verwahrlost ist, darf in einer geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann.
+>
+> 2 Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
+>
+> 3 Die betroffene Person wird entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind.
+>
+> 4 Die betroffene oder eine ihr nahestehende Person kann jederzeit um Entlassung ersuchen. Über dieses Gesuch ist ohne Verzug zu entscheiden.
 ---
 
 ### I. Überblick und Verfassungsrechtlicher Rahmen

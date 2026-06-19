@@ -1,8 +1,8 @@
 ---
 title: "Art. 28 — Persönlichkeitsschutz"
 weight: 28
-date: 2026-05-31
-lastmod: 2026-05-31
+date: "2026-05-31"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 28 ZGB – Persönlichkeitsschutz"
 tags: ["ZGB", "Persönlichkeitsschutz", "Persönlichkeitsverletzung", "Widerrechtlichkeit"]
 agent_verified: true
@@ -10,7 +10,10 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 28 ZGB — Persönlichkeitsschutz**
+>
 > 1 Wer in seiner Persönlichkeit widerrechtlich verletzt wird, kann zu seinem Schutz gegen jeden, der an der Verletzung mitwirkt, das Gericht anrufen.
+>
 > 2 Eine Verletzung ist widerrechtlich, wenn sie nicht durch Einwilligung des Verletzten, durch ein überwiegendes privates oder öffentliches Interesse oder durch Gesetz gerechtfertigt ist.
 
 ## Kommentierung

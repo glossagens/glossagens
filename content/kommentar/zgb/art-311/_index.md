@@ -1,8 +1,8 @@
 ---
 title: "Art. 311 — Entzug der elterlichen Sorge"
 weight: 311
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 311 ZGB – Entzug der elterlichen Sorge"
 tags: ["ZGB", "Kindesschutz", "elterliche Sorge", "KESB", "Sorgeentzug"]
 agent_verified: true
@@ -10,10 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> 1 Sind andere Kindesschutzmassnahmen erfolglos geblieben oder erscheinen sie von vornherein als ungenügend, so entzieht die Kindesschutzbehörde die elterliche Sorge:
-> 1. wenn die Eltern wegen Unerfahrenheit, Krankheit, Gebrechen, Abwesenheit, Gewalttätigkeit oder ähnlichen Gründen ausserstande sind, die elterliche Sorge pflichtgemäss auszuüben;
-> 2. wenn die Eltern sich um das Kind nicht ernstlich gekümmert oder ihre Pflichten gegenüber dem Kinde gröblich verletzt haben.
+> **Art. 311 ZGB — Entzug der elterlichen Sorge**
+>
+> 1 Sind andere Kindesschutzmassnahmen erfolglos geblieben oder erscheinen sie von vornherein als ungenügend, so entzieht die Kindesschutzbehörde die elterliche Sorge: 1. wenn die Eltern wegen Unerfahrenheit, Krankheit, Gebrechen, Abwesenheit, Gewalttätigkeit oder ähnlichen Gründen ausserstande sind, die elterliche Sorge pflichtgemäss auszuüben; 2. wenn die Eltern sich um das Kind nicht ernstlich gekümmert oder ihre Pflichten gegenüber dem Kinde gröblich verletzt haben.
+>
 > 2 Wird beiden Eltern die Sorge entzogen, so erhalten die Kinder einen Vormund.
+>
 > 3 Die Entziehung ist, wenn nicht ausdrücklich das Gegenteil angeordnet wird, gegenüber allen, auch den später geborenen Kindern wirksam.
 
 ## Kommentierung

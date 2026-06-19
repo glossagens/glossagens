@@ -1,16 +1,16 @@
 ---
 title: "Art. 1 — Anwendbarkeit des Rechts / Lückenfüllung"
 weight: 1
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 1 ZGB – Drei-Stufen-Modell der Rechtsanwendung: Gesetz, Gewohnheitsrecht, richterliche Regel"
 tags: ["ZGB", "Lückenfüllung", "Auslegung", "Gewohnheitsrecht", "Analogie"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 1 ZGB — Anwendbarkeit des Rechts**
+> **Art. 1 ZGB — Anwendbarkeit des Rechts / Lückenfüllung**
 >
 > 1 Das Gesetz findet auf alle Rechtsfragen Anwendung, für die es nach Wortlaut oder Auslegung eine Bestimmung enthält.
 >

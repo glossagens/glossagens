@@ -2,7 +2,7 @@
 title: "Art. 8 — Invalidität"
 weight: 8
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 8 ATSG — Invalidität: Definition, Anspruchsvoraussetzungen, Eingliederungsmassnahmen und Zusammenhänge mit den Fachgesetzen."
 tags: ["ATSG", "Sozialversicherungsrecht", "Invalidität", "Eingliederung", "IV", "Erwerbsunfähigkeit"]
 agent_verified: true
@@ -12,11 +12,11 @@ agent_verified: true
 
 > **Art. 8 — Invalidität**
 >
-> ¹ Invalidität ist die voraussichtlich dauernde und ganze oder teilweise Beeinträchtigung der Erwerbsfähigkeit.
+> ¹ Invalidität ist die voraussichtlich bleibende oder längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit.
 >
-> ² Als Invalidität gilt auch die Unmöglichkeit, sich im bisherigen Beruf oder einer anderen zumutbaren Tätigkeit zum bisherigen Lohn oder zu einem Lohn, der nach den Umständen als angemessen gelten darf, zu betätigen.
+> ² Nicht erwerbstätige Minderjährige gelten als invalid, wenn die Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit voraussichtlich eine ganze oder teilweise Erwerbsunfähigkeit zur Folge haben wird.
 >
-> ³ Massgebend für die Bemessung des Invaliditätsgrades sind die Auswirkungen der gesundheitlichen Beeinträchtigung auf die Erwerbsfähigkeit unter Berücksichtigung von Eingliederungsmassnahmen im Sinne von Artikel 8a.
+> ³ Volljährige, die vor der Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit nicht erwerbstätig waren und denen eine Erwerbstätigkeit nicht zugemutet werden kann, gelten als invalid, wenn eine Unmöglichkeit vorliegt, sich im bisherigen Aufgabenbereich zu betätigen. Artikel 7 Absatz 2 ist sinngemäss anwendbar.
 
 ## Kommentierung
 

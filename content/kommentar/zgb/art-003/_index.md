@@ -1,8 +1,8 @@
 ---
 title: "Art. 3 — Vermutung des guten Glaubens"
 weight: 3
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 3 ZGB – Vermutung des guten Glaubens: Beweislastumkehr, fahrlässiger böser Glaube, Anwendungsbereich im gesamten Privatrecht"
 tags: ["ZGB", "guter Glaube", "Vermutung", "Vertrauensschutz", "Beweislast", "Rechtsschein"]
 agent_verified: true

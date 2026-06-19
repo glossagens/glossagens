@@ -1,8 +1,8 @@
 ---
 title: "Art. 314 ZGB — Verfahren im Kindesschutz"
 weight: 314
-date: 2026-05-15
-lastmod: 2026-05-15
+date: "2026-05-15"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 314 ZGB: Verfahrensverweis auf das Erwachsenenschutzrecht, Anhörungspflicht nach Art. 447 ZGB, Heilung von Anhörungsmängeln, Mediation und Beistandschaft."
 tags: ["Kindesschutz", "Verfahrensrecht", "Anhörungspflicht", "Kindesschutzbehörde", "ZGB"]
 agent_verified: false
@@ -10,13 +10,15 @@ agent_verified: false
 
 # Art. 314 ZGB
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-**1** Die Bestimmungen über das Verfahren vor der Erwachsenenschutzbehörde sind sinngemäss anwendbar.
-
-**2** Die Kindesschutzbehörde kann in geeigneten Fällen die Eltern zu einem Mediationsversuch auffordern.
-
-**3** Errichtet die Kindesschutzbehörde eine Beistandschaft, so hält sie im Entscheiddispositiv die Aufgaben des Beistandes und allfällige Beschränkungen der elterlichen Sorge fest.
+> **Art. 314 ZGB — Verfahren im Kindesschutz**
+>
+> 1 Die Bestimmungen über das Verfahren vor der Erwachsenenschutzbehörde sind sinngemäss anwendbar.
+>
+> 2 Die Kindesschutzbehörde kann in geeigneten Fällen die Eltern zu einem Mediationsversuch auffordern.
+>
+> 3 Errichtet die Kindesschutzbehörde eine Beistandschaft, so hält sie im Entscheiddispositiv die Aufgaben des Beistandes und allfällige Beschränkungen der elterlichen Sorge fest.
 
 ## Vorbemerkungen
 

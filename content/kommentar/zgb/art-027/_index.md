@@ -1,8 +1,8 @@
 ---
 title: "Art. 27 ZGB — Rechtsfähigkeit und Freiheit"
 weight: 27
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 27 ZGB — Unverzichtbarkeit der Rechts- und Handlungsfähigkeit, Freiheitsschutz, materieller Ordre public und Inhaltskontrolle von Verträgen"
 tags: ["ZGB", "Rechtsfähigkeit", "Handlungsfähigkeit", "Freiheit", "Ordre public", "Inhaltskontrolle", "Nichtigkeit"]
 agent_verified: true
@@ -10,7 +10,10 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 27 ZGB — Rechtsfähigkeit und Freiheit**
+>
 > 1 Auf die Rechts- und Handlungsfähigkeit kann niemand ganz oder zum Teil verzichten.
+>
 > 2 Niemand kann sich seiner Freiheit entäussern oder sich in ihrem Gebrauch in einem das Recht oder die Sittlichkeit verletzenden Grade beschränken.
 
 ## Kommentierung

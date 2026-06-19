@@ -1,23 +1,26 @@
 ---
 title: "Art. 390 — Voraussetzungen der Beistandschaft"
 weight: 390
-date: 2026-05-22
-lastmod: 2026-05-22
+date: "2026-05-22"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 390 ZGB: Beistandschaftsgründe (geistige Behinderung, psychische Störung, ähnlicher Schwächezustand), Subsidiarität, Verhältnismässigkeit, Handlungsfähigkeitsbeschränkung, Romance-Scam-Vulnerabilität"
 tags: ["ZGB", "Erwachsenenschutz", "Beistandschaft", "Subsidiarität", "Verhältnismässigkeit", "Handlungsfähigkeitsbeschränkung"]
 agent_verified: true
 ---
 
-## Art. 390 ZGB — Voraussetzungen der Beistandschaft
+## Gesetzeswortlaut
 
-### Wortlaut
-
-**(1)** Die Erwachsenenschutzbehörde errichtet eine Beistandschaft, wenn eine volljährige Person: 1. wegen einer geistigen Behinderung, einer psychischen Störung oder eines ähnlichen in der Person liegenden Schwächezustands ihre Angelegenheiten nur teilweise oder gar nicht besorgen kann; 2. wegen vorübergehender Urteilsunfähigkeit oder Abwesenheit in Angelegenheiten, die erledigt werden müssen, weder selber handeln kann noch eine zur Stellvertretung berechtigte Person bezeichnet hat.
-
-**(2)** Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
-
-**(3)** Die Beistandschaft wird auf Antrag der betroffenen oder einer nahestehenden Person oder von Amtes wegen errichtet.
-
+> **Art. 390 ZGB — Voraussetzungen der Beistandschaft**
+>
+> 1 Die Erwachsenenschutzbehörde errichtet eine Beistandschaft, wenn eine volljährige Person:
+>
+> 1. wegen einer geistigen Behinderung, einer psychischen Störung oder eines ähnlichen in der Person liegenden Schwächezustands ihre Angelegenheiten nur teilweise oder gar nicht besorgen kann;
+>
+> 2. wegen vorübergehender Urteilsunfähigkeit oder Abwesenheit in Angelegenheiten, die erledigt werden müssen, weder selber handeln kann noch eine zur Stellvertretung berechtigte Person bezeichnet hat.
+>
+> 2 Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
+>
+> 3 Die Beistandschaft wird auf Antrag der betroffenen oder einer nahestehenden Person oder von Amtes wegen errichtet.
 ---
 
 ### I. Überblick und systematische Stellung

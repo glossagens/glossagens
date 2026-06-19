@@ -1,8 +1,8 @@
 ---
 title: "Art. 388 — Leitprinzipien des Erwachsenenschutzes"
 weight: 388
-date: 2026-05-24
-lastmod: 2026-06-07
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 388 ZGB – Wohl, Schutz und Selbstbestimmung als Leitprinzipien des Erwachsenenschutzrechts"
 tags: ["ZGB", "Erwachsenenschutz", "Selbstbestimmung", "Beistandschaft", "Wohl", "Subsidiarität"]
 agent_verified: true
@@ -10,7 +10,10 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 388 ZGB — Leitprinzipien des Erwachsenenschutzes**
+>
 > 1 Die behördlichen Massnahmen des Erwachsenenschutzes stellen das Wohl und den Schutz hilfsbedürftiger Personen sicher.
+>
 > 2 Sie sollen die Selbstbestimmung der betroffenen Person so weit wie möglich erhalten und fördern.
 
 ## Kommentierung

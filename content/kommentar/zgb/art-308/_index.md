@@ -1,23 +1,22 @@
 ---
 title: "Art. 308 — Ernennung eines Beistands"
 weight: 308
-date: 2026-05-22
-lastmod: 2026-06-18
+date: "2026-05-22"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Unterstützung der Eltern durch Beistand, besondere Befugnisse (Vaterschaft, Unterhalt, Besuchsrecht), Beschränkung der elterlichen Sorge"
 tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge"]
 agent_verified: true
 ---
 
-## Art. 308 ZGB — Ernennung eines Beistands
+## Gesetzeswortlaut
 
-### Wortlaut
-
-**(1)** Erfordern es die Verhältnisse, so ernennt die Kindesschutzbehörde dem Kind einen Beistand, der die Eltern in ihrer Sorge um das Kind mit Rat und Tat unterstützt.
-
-**(2)** Sie kann dem Beistand besondere Befugnisse übertragen, namentlich die Vertretung des Kindes bei der Feststellung der Vaterschaft, bei der Wahrung seines Unterhaltsanspruches und anderer Rechte und die Überwachung des persönlichen Verkehrs.
-
-**(3)** Die elterliche Sorge kann entsprechend beschränkt werden.
-
+> **Art. 308 ZGB — Ernennung eines Beistands**
+>
+> 1 Erfordern es die Verhältnisse, so ernennt die Kindesschutzbehörde dem Kind einen Beistand, der die Eltern in ihrer Sorge um das Kind mit Rat und Tat unterstützt.
+>
+> 2 Sie kann dem Beistand besondere Befugnisse übertragen, namentlich die Vertretung des Kindes bei der Feststellung der Vaterschaft, bei der Wahrung seines Unterhaltsanspruches und anderer Rechte und die Überwachung des persönlichen Verkehrs.
+>
+> 3 Die elterliche Sorge kann entsprechend beschränkt werden.
 ---
 
 ### I. Überblick und systematische Stellung

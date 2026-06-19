@@ -1,8 +1,8 @@
 ---
 title: "Art. 445 — Vorsorgliche Massnahmen"
 weight: 445
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 445 ZGB — Vorsorgliche Massnahmen im Erwachsenenschutz- und Kindesschutzverfahren"
 tags: ["ZGB", "Erwachsenenschutz", "vorsorgliche Massnahmen", "KESB", "superprovisorisch"]
 agent_verified: true
@@ -10,8 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 445 ZGB — Vorsorgliche Massnahmen**
+>
 > 1 Die Erwachsenenschutzbehörde trifft auf Antrag einer am Verfahren beteiligten Person oder von Amtes wegen alle für die Dauer des Verfahrens notwendigen vorsorglichen Massnahmen. Sie kann insbesondere eine Massnahme des Erwachsenenschutzes vorsorglich anordnen.
+>
 > 2 Bei besonderer Dringlichkeit kann sie vorsorgliche Massnahmen sofort ohne Anhörung der am Verfahren beteiligten Personen treffen. Gleichzeitig gibt sie diesen Gelegenheit zur Stellungnahme; anschliessend entscheidet sie neu.
+>
 > 3 Gegen Entscheide über vorsorgliche Massnahmen kann innert zehn Tagen nach deren Mitteilung Beschwerde erhoben werden.
 
 ## Kommentierung

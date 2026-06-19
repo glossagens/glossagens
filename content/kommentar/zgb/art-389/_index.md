@@ -1,8 +1,8 @@
 ---
 title: "Art. 389 — Subsidiarität und Verhältnismässigkeit"
 weight: 389
-date: 2026-05-24
-lastmod: 2026-05-24
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 389 ZGB – Subsidiarität und Verhältnismässigkeit im Erwachsenenschutz: Vorrang privater Hilfe, mildeste Massnahme, Erforderlichkeit und Geeignetheit"
 tags: ["ZGB", "Erwachsenenschutz", "Subsidiarität", "Verhältnismässigkeit", "Beistandschaft"]
 agent_verified: true
@@ -10,11 +10,13 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 389 ZGB**
+> **Art. 389 ZGB — Subsidiarität und Verhältnismässigkeit**
 >
 > 1 Die Erwachsenenschutzbehörde ordnet eine Massnahme an, wenn:
->   1. die Unterstützung der hilfsbedürftigen Person durch die Familie, andere nahestehende Personen oder private oder öffentliche Dienste nicht ausreicht oder von vornherein als ungenügend erscheint;
->   2. bei Urteilsunfähigkeit der hilfsbedürftigen Person keine oder keine ausreichende eigene Vorsorge getroffen worden ist und die Massnahmen von Gesetzes wegen nicht genügen.
+>
+> 1. die Unterstützung der hilfsbedürftigen Person durch die Familie, andere nahestehende Personen oder private oder öffentliche Dienste nicht ausreicht oder von vornherein als ungenügend erscheint;
+>
+> 2. bei Urteilsunfähigkeit der hilfsbedürftigen Person keine oder keine ausreichende eigene Vorsorge getroffen worden ist und die Massnahmen von Gesetzes wegen nicht genügen.
 >
 > 2 Jede behördliche Massnahme muss erforderlich und geeignet sein.
 

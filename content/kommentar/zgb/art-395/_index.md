@@ -1,8 +1,8 @@
 ---
 title: "Art. 395 — Vermögensverwaltung"
 weight: 395
-date: 2026-05-24
-lastmod: 2026-05-24
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 395 ZGB – Vermögensverwaltung im Erwachsenenschutzrecht"
 tags: ["ZGB", "Erwachsenenschutz", "Vermögensverwaltung", "Beistandschaft"]
 agent_verified: true
@@ -10,11 +10,15 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 395 ZGB — Vermögensverwaltung**
+>
 > 1 Errichtet die Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie die Vermögenswerte, die vom Beistand oder von der Beiständin verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen.
+>
 > 2 Die Verwaltungsbefugnisse umfassen auch die Ersparnisse aus dem verwalteten Einkommen oder die Erträge des verwalteten Vermögens, wenn die Erwachsenenschutzbehörde nichts anderes verfügt.
+>
 > 3 Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen.
-
-*(Abs. 4 aufgehoben durch Ziff. I des BG vom 16.12.2016, mit Wirkung seit 1.1.2024)*
+>
+> 4 Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), mit Wirkung seit 1. Jan. 2024.
 
 ## Kommentierung
 

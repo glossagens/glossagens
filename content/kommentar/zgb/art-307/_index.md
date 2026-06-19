@@ -1,25 +1,22 @@
 ---
 title: "Art. 307 — Kindesschutzmassnahmen"
 weight: 307
-date: 2026-06-18
-lastmod: 2026-06-18
+date: "2026-06-18"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 307 ZGB – Kindeswohlgefährdung, Kindesschutzmassnahmen, Subsidiaritätsgrundsatz, wirksame elterliche Bemühungen"
 tags: ["ZGB", "Kindesschutz", "Kindeswohl", "Subsidiarität", "KESB", "Kindeswohlgefährdung"]
 agent_verified: true
 ---
 
-## Art. 307 ZGB — Kindesschutzmassnahmen
+## Gesetzeswortlaut
 
-### Wortlaut
-
-> **Art. 307 ZGB (SR 210)**
+> **Art. 307 ZGB — Kindesschutzmassnahmen**
 >
 > 1 Ist das Wohl des Kindes gefährdet und sorgen die Eltern nicht von sich aus für Abhilfe oder sind sie dazu ausserstande, so trifft die Kindesschutzbehörde die geeigneten Massnahmen zum Schutz des Kindes.
 >
-> 2 Mit Einwilligung der Inhaber der elterlichen Sorge kann die Kindesschutzbehörde die Inhaber der elterlichen Sorge bei der Ausübung der elterlichen Sorge beraten und ihnen Weisungen erteilen.
+> 2 Die Kindesschutzbehörde is dazu auch gegenüber Kindern verpflichtet, die bei Pflegeeltern untergebracht sind oder sonst ausserhalb der häuslichen Gemeinschaft der Eltern leben.
 >
-> 3 Gegen den Willen der Inhaber der elterlichen Sorge kann die Kindesschutzbehörde Massnahmen der Erziehungsaufsicht anordnen.
-
+> 3 Sie kann insbesondere die Eltern, die Pflegeeltern oder das Kind ermahnen, ihnen bestimmte Weisungen für die Pflege, Erziehung oder Ausbildung erteilen und eine geeignete Person oder Stelle bestimmen, der Einblick und Auskunft zu geben ist.
 ---
 
 ### I. Überblick und systematische Stellung

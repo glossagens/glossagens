@@ -2,7 +2,7 @@
 title: "Art. 25 — Rückerstattung"
 weight: 25
 date: 2026-06-12
-lastmod: 2026-06-13
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 25 ATSG – Rückerstattung unrechtmässig bezogener Leistungen und zuviel bezahlter Beiträge — Verjährung, Verwirkung, Unschuldsvermutung"
 tags: ["ATSG", "Rückerstattung", "Verjährung", "Verwirkungsfrist", "Sozialversicherungsrecht", "Unschuldsvermutung"]
 agent_verified: true
@@ -12,11 +12,11 @@ agent_verified: true
 
 > **Art. 25** Rückerstattung
 >
-> 1 Unrechtmässig bezogene Leistungen sind zurückzuerstatten. Die Rückforderung kann ausserdem mit künftigen Leistungen verrechnet werden, wenn die Voraussetzungen für den Leistungsbezug weiterhin erfüllt sind oder die Verrechnung zur Vermeidung einer Härte erforderlich ist.
+> 1 Unrechtmässig bezogene Leistungen sind zurückzuerstatten. Wer Leistungen in gutem Glauben empfangen hat, muss sie nicht zurückerstatten, wenn eine grosse Härte vorliegt.
 >
-> 2 Die Rückerstattungspflicht verjährt in der Regel nach drei Jahren nach Kenntnisnahme der Versicherungseinrichtung, in jedem Fall aber nach fünf Jahren seit Entrichtung der einzelnen Leistung. Die Verjährungsfristen nach dem Strafgesetzbuch³⁶) bleiben vorbehalten.
+> 2 Der Rückforderungsanspruch erlischt drei Jahre, nachdem die Versicherungseinrichtung davon Kenntnis erhalten hat, spätestens aber fünf Jahre seit der Auszahlung der einzelnen Leistung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
 >
-> 3 Zuviel bezahlte Beiträge sind auf Verlangen zurückzuerstatten. Die Rückforderung verjährt ein Jahr nach Kenntnisnahme der Versicherungseinrichtung, in jedem Fall aber nach fünf Jahren seit Entrichtung des Beitrags.
+> 3 Zuviel bezahlte Beiträge können zurückgefordert werden. Der Anspruch erlischt mit dem Ablauf eines Jahres, nachdem der Beitragspflichtige von seinen zu hohen Zahlungen Kenntnis erhalten hat, spätestens aber fünf Jahre nach Ablauf des Kalenderjahres, in dem die Beiträge bezahlt wurden.
 
 ## Kommentierung
 
