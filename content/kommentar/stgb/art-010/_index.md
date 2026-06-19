@@ -2,7 +2,7 @@
 title: "Art. 10 — Verbrechen und Vergehen"
 weight: 10
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 10 StGB – Einteilung der Straftaten in Verbrechen und Vergehen"
 tags: ["StGB", "Verbrechen", "Vergehen", "Einteilung", "Strafrahmen"]
 agent_verified: true
@@ -10,9 +10,11 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> 1 Verbrechen sind die mit Zuchthaus oder mit Freiheitsstrafe von mehr als einem Jahr bedrohten Straftaten.
+> 1 Dieses Gesetz unterscheidet die Verbrechen von den Vergehen nach der Schwere der Strafen, mit der die Taten bedroht sind.
 >
-> 2 Vergehen sind die mit Gefängnis oder mit Freiheitsstrafe bis zu einem Jahr oder mit Busse bedrohten Straftaten.
+> 2 Verbrechen sind Taten, die mit Freiheitsstrafe von mehr als drei Jahren bedroht sind.
+>
+> 3 Vergehen sind Taten, die mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bedroht sind.
 
 ## Kommentierung
 
@@ -27,21 +29,21 @@ Die Einteilung bestimmt unter anderem:
 - Die **Einziehung** (Art. 70 StGB) und andere Massnahmen
 - Die **Revision** im Strafverfahren (Art. 91 StPO)
 
-### II. Verbrechen (Abs. 1)
+### II. Verbrechen (Abs. 2)
 
-**1** Verbrechen sind Straftaten, die mit **Zuchthaus** oder mit **Freiheitsstrafe von mehr als einem Jahr** bedroht sind. Das Zuchthaus wurde durch die Strafrechtsrevision vom 13.12.2002 (in Kraft seit 1.1.2007) abgeschafft; an seine Stelle trat die Freiheitsstrafe von mehr als einem Jahr.
+**1** Verbrechen sind Taten, die mit **Freiheitsstrafe von mehr als drei Jahren** bedroht sind. Die früheren Strafarten Zuchthaus und Gefängnis wurden durch die Strafrechtsrevision vom 13.12.2002 (in Kraft seit 1.1.2007) abgeschafft; seither stellt das Gesetz für die Einteilung allein auf die Schwere der angedrohten Freiheitsstrafe ab (Abs. 1).
 
-**2** Massgebend ist die **abstrakte Androhung** im Gesetz, nicht die konkret ausgefällte Strafe. Eine Tat ist also ein Verbrechen, wenn das Gesetz dafür Freiheitsstrafe von mehr als einem Jahr androht — auch wenn das Gericht im Einzelfall eine kürzere Strafe verhängt oder sogar auf Geldstrafe erkennt.
+**2** Massgebend ist die **abstrakte Androhung** im Gesetz, nicht die konkret ausgefällte Strafe. Eine Tat ist also ein Verbrechen, wenn das Gesetz dafür Freiheitsstrafe von mehr als drei Jahren androht — auch wenn das Gericht im Einzelfall eine kürzere Strafe verhängt oder sogar auf Geldstrafe erkennt.
 
-**3** Beispiele für Verbrechen: Totschlag (Art. 113 StGB, 5 Jahre), Raub (Art. 140 StGB, 1–10 Jahre), schwere Körperverletzung (Art. 111 StGB, nicht weniger als 1 Jahr), Vergewaltigung (Art. 190 StGB, 1–10 Jahre).
+**3** Beispiele für Verbrechen: vorsätzliche Tötung (Art. 111 StGB, Freiheitsstrafe nicht unter fünf Jahren), Raub (Art. 140 StGB), schwere Körperverletzung (Art. 122 StGB, Freiheitsstrafe von einem Jahr bis zu zehn Jahren), Vergewaltigung (Art. 190 StGB).
 
-### III. Vergehen (Abs. 2)
+### III. Vergehen (Abs. 3)
 
-**4** Vergehen sind Straftaten, die mit **Gefängnis** oder mit **Freiheitsstrafe bis zu einem Jahr** oder mit **Busse** bedroht sind. Auch das Gefängnis wurde durch die Revision von 2007 abgeschafft.
+**4** Vergehen sind Taten, die mit **Freiheitsstrafe bis zu drei Jahren** oder mit **Geldstrafe** bedroht sind. Die mit Busse bedrohten Taten sind demgegenüber Übertretungen (Art. 103 StGB), die nicht unter die Zweiteilung von Art. 10 fallen.
 
-**5** Massgeblich ist wiederum die abstrakte Drohung im Gesetz. Eine Tat ist ein Vergehen, wenn das Gesetz maximal Freiheitsstrafe bis zu einem Jahr androht — selbst wenn im Einzelfall eine längere Freiheitsstrafe infolge Strafschärfung ausgefällt wird (z.B. bei Rückfall).
+**5** Massgeblich ist wiederum die abstrakte Drohung im Gesetz. Eine Tat ist ein Vergehen, wenn das Gesetz als Höchststrafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe androht — selbst wenn im Einzelfall eine längere Freiheitsstrafe infolge Strafschärfung ausgefällt wird (z.B. bei Rückfall).
 
-**6** Beispiele für Vergehen: einfache Körperverletzung (Art. 123 StGB, Busse oder Freiheitsstrafe bis zu 3 Jahren — hierzu s.u.), Diebstahl (Art. 139 StGB, Freiheitsstrafe bis zu 3 Jahren — nach Einteilung trotz höheren Rahmens möglich).
+**6** Beispiele für Vergehen: einfache Körperverletzung (Art. 123 StGB, Freiheitsstrafe bis zu drei Jahren oder Geldstrafe), Hausfriedensbruch (Art. 186 StGB, Freiheitsstrafe bis zu drei Jahren oder Geldstrafe). Demgegenüber ist etwa der Diebstahl (Art. 139 Ziff. 1 StGB) wegen der angedrohten Freiheitsstrafe bis zu fünf Jahren bereits ein **Verbrechen**.
 
 ### IV. Systematische Stellung und Konkurrenzen
 

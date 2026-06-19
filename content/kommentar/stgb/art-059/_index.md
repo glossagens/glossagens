@@ -2,7 +2,7 @@
 title: "Art. 59 — Stationäre therapeutische Massnahme"
 weight: 59
 date: 2026-06-05
-lastmod: 2026-06-06
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 59 StGB – Stationäre therapeutische Massnahme: Voraussetzungen, Unterbringung, Vollzug und Verhältnis zu Art. 58 und Art. 64 StGB"
 tags: ["StGB", "therapeutische Massnahme", "Sanktionenrecht", "Massnahmenvollzug", "Unterbringung", "Behandlung"]
 agent_verified: true
@@ -10,19 +10,17 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 59 StGB — Stationäre therapeutische Massnahme**
+> **Art. 59 StGB — Stationäre therapeutische Massnahme: Behandlung von psychischen Störungen**
 >
-> 1 Ist die Tat auf ein schweres psychisches Leiden oder eine schwere Persönlichkeitsstörung zurückzuführen, so kann das Gericht eine stationäre therapeutische Massnahme anordnen, wenn:
-> a. der Täter mit hoher Wahrscheinlichkeit weitere schwere Straftaten begeht, die auf sein Leiden oder seine Störung zurückzuführen sind; und
-> b. die Massnahme geeignet ist, die Gefahr weiterer mit dem Leiden oder der Störung in Zusammenhang stehender Taten zu mindern.
+> 1 Ist der Täter psychisch schwer gestört, so kann das Gericht eine stationäre Behandlung anordnen, wenn:
+> a. der Täter ein Verbrechen oder Vergehen begangen hat, das mit seiner psychischen Störung in Zusammenhang steht; und
+> b. zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit seiner psychischen Störung in Zusammenhang stehender Taten begegnen.
 >
-> 2 Die Massnahme besteht in der Unterbringung in einer eigens dafür eingerichteten Einrichtung oder in einer geeigneten Abteilung einer Anstalt.
+> 2 Die stationäre Behandlung erfolgt in einer geeigneten psychiatrischen Einrichtung oder einer Massnahmevollzugseinrichtung.
 >
-> 3 Ist der Vollzug in einer solchen Einrichtung nicht möglich oder nicht angebracht, so kann das Gericht den Vollzug in einer Strafanstalt anordnen, wenn eine geeignete Behandlung durch Fachpersonal gewährleistet ist. Das Bundesgericht prüft die Voraussetzungen für den Vollzug in einer Strafanstalt mit besonderer Sorgfalt.
+> 3 Solange die Gefahr besteht, dass der Täter flieht oder weitere Straftaten begeht, wird er in einer geschlossenen Einrichtung behandelt. Er kann auch in einer Strafanstalt nach Artikel 76 Absatz 2 behandelt werden, sofern die nötige therapeutische Behandlung durch Fachpersonal gewährleistet ist.
 >
-> 4 Der Vollzug in einer Strafanstalt ist zu beenden, sobald eine Unterbringung in einer geeigneten Einrichtung möglich ist.
->
-> 5 Die Massnahme ist aufzuheben, wenn mit hoher Wahrscheinlichkeit kein erneutes Rückfall zu erwarten ist.
+> 4 Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel höchstens fünf Jahre. Sind die Voraussetzungen für die bedingte Entlassung nach fünf Jahren noch nicht gegeben und ist zu erwarten, durch die Fortführung der Massnahme lasse sich der Gefahr weiterer mit der psychischen Störung des Täters in Zusammenhang stehender Verbrechen und Vergehen begegnen, so kann das Gericht auf Antrag der Vollzugsbehörde die Verlängerung der Massnahme um jeweils höchstens fünf Jahre anordnen.
 
 ## 1. Bedeutung und systematischer Zusammenhang
 
@@ -30,7 +28,7 @@ Art. 59 StGB regelt die wichtigste therapeutische Massnahme des Schweizer Sankti
 
 Die stationäre therapeutische Massnahme nach Art. 59 StGB unterscheidet sich fundamental von der sicherungsverwahrenden Unterbringung nach Art. 64 StGB: Während Art. 64 auf der Gefährdungsprognose ohne Behandlungsbezug beruht und rein sichernden Charakter hat, zielt Art. 59 auf die **Heilung oder Besserung** des Täters ab. Die Massnahme soll die Gefahr weiterer Taten **mindern**, nicht bloss den Täter von der Gesellschaft fernhalten (BGE 137 IV 46 E. 4.2; BGE 144 IV 271 E. 3.2).
 
-Die Revision durch das Massnahmenrevisionsgesetz vom 21. Dezember 2007 (in Kraft seit 1. Januar 2011) hat Art. 59 grundlegend neu gefasst. Die heutige Fassung betont den therapeutischen Ansatz deutlicher als die Vorgängernorm und hat das Vollzugsregime inhaltlich verändert — insbesondere durch die Einführung von Abs. 3 (Vollzug in einer Strafanstalt als Ultima Ratio) und Abs. 5 (Aufhebung bei fehlender Rückfallgefahr).
+Die Revision durch das Massnahmenrevisionsgesetz vom 21. Dezember 2007 (in Kraft seit 1. Januar 2011) hat Art. 59 grundlegend neu gefasst. Die heutige Fassung betont den therapeutischen Ansatz deutlicher als die Vorgängernorm und hat das Vollzugsregime inhaltlich verändert — insbesondere durch die Regelung des Vollzugs in einer Strafanstalt als Ultima Ratio (Abs. 3) und die ausdrückliche Begrenzung des Freiheitsentzugs auf in der Regel höchstens fünf Jahre mit Verlängerungsmöglichkeit (Abs. 4).
 
 ## 2. Tatbestandsmerkmale
 
@@ -68,9 +66,9 @@ Der Regelfall sieht die Unterbringung in einer **eigens dafür eingerichteten Ei
 
 **a) Ultima-Ratio-Prinzip.** Art. 59 Abs. 3 StGB erlaubt den Vollzug der stationären therapeutischen Massnahme in einer **Strafanstalt**, wenn der Vollzug in einer Spezialeinrichtung nicht möglich oder nicht angebracht ist. Dieser Ausnahmetatbestand unterliegt **strengen Voraussetzungen**:
 
-Das Bundesgericht prüft die Voraussetzungen für den Vollzug in einer Strafanstalt **mit besonderer Sorgfalt** (Art. 59 Abs. 3 Satz 2 StGB). Es genügt nicht, dass eine Strafanstalt über eine medizinische Abteilung verfügt; vielmehr muss eine **geeignete Behandlung durch Fachpersonal** gewährleistet sein. BGer 7B_1360/2025 bestätigt, dass Art. 59 Abs. 3 StGB **lex specialis zu Art. 58 Abs. 2 StGB** ist und dass die Unterbringung in der Strafanstalt bei gewährleisteter Behandlung durch Fachpersonal EMRK-konform ist.
+Nach der Rechtsprechung sind die Voraussetzungen für den Vollzug in einer Strafanstalt **mit besonderer Sorgfalt** zu prüfen. Es genügt nicht, dass eine Strafanstalt über eine medizinische Abteilung verfügt; vielmehr muss eine **geeignete Behandlung durch Fachpersonal** gewährleistet sein. BGer 7B_1360/2025 bestätigt, dass Art. 59 Abs. 3 StGB **lex specialis zu Art. 58 Abs. 2 StGB** ist und dass die Unterbringung in der Strafanstalt bei gewährleisteter Behandlung durch Fachpersonal EMRK-konform ist.
 
-**b) Verhältnis zu Art. 58 Abs. 2 StGB.** Art. 58 Abs. 2 StGB regelt den Vollzug der sicherungsverwahrenden Unterbringung in einer Strafanstalt als Ultima Ratio. Wie BGer 7B_1360/2025 bestätigt, ist Art. 59 Abs. 3 StGB die **lex specialis** zu Art. 58 Abs. 2 StGB: Beide Normen erlauben den Anstaltsvollzug unter eingeschränkten Voraussetzungen, aber im Rahmen von Art. 59 StGB ist die therapeutische Zielsetzung massgebend, nicht die sicherungsverwahrende.
+**b) Verhältnis zu Art. 58 Abs. 2 StGB.** Art. 58 Abs. 2 StGB verankert das **Trennungsgebot**, wonach die therapeutischen Einrichtungen vom Strafvollzug getrennt zu führen sind. Art. 59 Abs. 3 StGB lässt hiervon eine Ausnahme zu, indem er den Vollzug der stationären Behandlung unter eingeschränkten Voraussetzungen in einer Strafanstalt erlaubt; insoweit geht die spezielle Regelung von Art. 59 Abs. 3 StGB dem Trennungsgebot vor (vgl. BGer 7B_1360/2025).
 
 **c) EMRK-Konformität.** Die Unterbringung in einer Strafanstalt unter therapeutischen Massstabgebungen ist EMRK-konform, wenn das Therapieziel dominiert und Fachpersonal die Behandlung verantwortet. Das Bundesgericht verlangt in ständiger Praxis, dass die Strafanstalt besondere forensisch-psychiatrische Abteilungen und Therapieangebote vorhält (BGE 146 IV 161 E. 4.2; BGer 7B_1360/2025 E. 4.1).
 
@@ -78,9 +76,9 @@ Das Bundesgericht prüft die Voraussetzungen für den Vollzug in einer Strafanst
 
 Art. 59 Abs. 4 StGB ordnet zwingend an, dass der Vollzug in einer Strafanstalt **zu beenden** ist, sobald eine Unterbringung in einer geeigneten Einrichtung möglich wird. Diese Vorschrift unterstreicht den Exceptioncharakter des Strafanstaltvollzugs und verpflichtt die Vollzugsbehörde, kontinuierlich nach einer adäquaten Therapieeinrichtung zu suchen.
 
-### IV. Aufhebung der Massnahme (Abs. 5)
+### IV. Höchstdauer und Verlängerung (Abs. 4)
 
-Die Massnahme ist **aufzuheben**, wenn mit hoher Wahrscheinlichkeit kein erneuter Rückfall zu erwarten ist. Die Aufhebung setzt eine **positive Entlassungsprognose** voraus, die in der Regel auf dem Abschluss der Therapie und einer günstigen Rückfallprognose beruht. Das Bundesgericht verlangt eine konkrete, im Einzelfall erstellte Prognose; die bloße theoretische Möglichkeit der Behebung genügt nicht (BGE 144 IV 285 E. 6.2).
+Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel **höchstens fünf Jahre** (Abs. 4). Sind die Voraussetzungen für die bedingte Entlassung nach Ablauf dieser Frist noch nicht gegeben und ist zu erwarten, dass sich durch die Fortführung der Massnahme der Gefahr weiterer mit der psychischen Störung zusammenhängender Verbrechen und Vergehen begegnen lässt, so kann das Gericht auf Antrag der Vollzugsbehörde die Massnahme um jeweils **höchstens fünf Jahre verlängern**. Die fünfjährige Regelhöchstdauer ist Ausdruck des Verhältnismässigkeitsgrundsatzes; eine Verlängerung verlangt eine erneute, sorgfältig begründete Gefährlichkeits- und Therapieprognose (vgl. BGE 144 IV 285).
 
 ## 4. Abgrenzungen
 
@@ -101,21 +99,21 @@ Art. 63 StGB regelt die **ambulante** therapeutische Massnahme, die nur bei verg
 
 ### III. Art. 59 Abs. 3 StGB vs. Art. 58 Abs. 2 StGB
 
-Wie BGer 7B_1360/2025 klarstellt, ist Art. 59 Abs. 3 StGB **lex specialis** zu Art. 58 Abs. 2 StGB. Obwohl beide Normen den Vollzug in einer Strafanstalt erlauben, ist im Rahmen von Art. 59 StGB die **therapeutische Zielsetzung** massgebend, während Art. 58 Abs. 2 StGB die sicherungsverwahrende Unterbringung im Anstaltsvollzug betrifft.
+Wie BGer 7B_1360/2025 klarstellt, geht Art. 59 Abs. 3 StGB als speziellere Regelung dem **Trennungsgebot** von Art. 58 Abs. 2 StGB vor: Der therapeutisch begründete Vollzug in einer Strafanstalt ist trotz des Grundsatzes der Trennung von Straf- und Massnahmenvollzug zulässig, sofern die nötige Behandlung durch Fachpersonal gewährleistet ist.
 
 ## 5. Beendigung und Überprüfung
 
 ### I. Regelmässige Überprüfung
 
-Die Massnahme ist periodisch zu überprüfen (Art. 64c Abs. 1 StGB). Die Überprüfung erfolgt durch die Vollzugsbehörde oder das Gericht. Die Erstüberprüfung findet spätestens nach zwei Jahren statt; weitere Überprüfungen jährlich (Art. 64c Abs. 2 StGB).
+Die zuständige Behörde prüft auf Gesuch oder von Amtes wegen, ob und wann der Täter bedingt aus dem Massnahmenvollzug zu entlassen oder die Massnahme aufzuheben ist; sie fasst darüber mindestens einmal jährlich einen Beschluss (Art. 62d Abs. 1 StGB).
 
 ### II. Bedingte Entlassung
 
-Die bedingte Entlassung (Art. 64c Abs. 2 lit. b StGB) setzt eine **günstige Prognose** voraus. Sie kann mit Weisungen und Bewährungshilfe verbunden werden. Die Probezeit beträgt mindestens ein Jahr, höchstens fünf Jahre (Art. 64c Abs. 3 StGB).
+Der Täter wird aus dem stationären Vollzug bedingt entlassen, sobald sein Zustand es rechtfertigt, dass ihm Gelegenheit gegeben wird, sich in der Freiheit zu bewähren (Art. 62 Abs. 1 StGB). Die Probezeit beträgt ein bis fünf Jahre; für ihre Dauer kann Bewährungshilfe angeordnet und können Weisungen erteilt werden (Art. 62 Abs. 2 und 3 StGB).
 
 ### III. Aufhebung
 
-Die Massnahme ist zwingend aufzuheben, wenn die Voraussetzungen weggefallen sind (Art. 59 Abs. 5 StGB). Dies gilt namentlich, wenn keine Rückfallgefahr mehr besteht oder eine ambulante Behandlung ausreichend erscheint.
+Die Massnahme ist aufzuheben, wenn ihre Durchführung oder Fortsetzung als aussichtslos erscheint oder wenn ihre Voraussetzungen weggefallen sind (Art. 56 Abs. 6 StGB). Dies gilt namentlich, wenn keine Rückfallgefahr mehr besteht.
 
 ## Literatur
 

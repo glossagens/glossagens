@@ -2,7 +2,7 @@
 title: "Art. 42 — Bedingter Vollzug"
 weight: 42
 date: 2026-06-07
-lastmod: 2026-06-13
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 42 StGB — Bedingter Vollzug einer Freiheitsstrafe: Voraussetzungen, Prognose, Schlechtprognose, Strafaufschub"
 tags: ["StGB", "bedingter Vollzug", "Strafaufschub", "Prognose", "Schlechtprognose", "Vorstrafen", "Freiheitsstrafe"]
 agent_verified: true
@@ -10,15 +10,15 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 42 Bedingter Vollzug**
-> 
-> 1 Das Gericht vollzieht eine Freiheitsstrafe von nicht mehr als zwei Jahren bedingt, wenn eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten (Art. 40 Ziff. 2), und wenn die persönlichen Verhältnisse des Täters eine günstige Prognose zulassen.
+> **Art. 42 Bedingte Strafen**
 >
-> 2 Es kann den bedingten Vollzug einer Freiheitsstrafe von mehr als zwei Jahren anordnen, wenn das Gericht aussergewöhnliche, in der Persönlichkeit des Täters liegende Umstände berücksichtigt, die nicht in einem Zusammenhang mit der Tat stehen.
+> 1 Das Gericht schiebt den Vollzug einer Geldstrafe oder einer Freiheitsstrafe von höchstens zwei Jahren in der Regel auf, wenn eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten.
 >
-> 3 Das Gericht kann den Vollzug einer Freiheitsstrafe von nicht mehr als drei Jahren aufschieben, wenn die Verurteilung zu einer unbedingten Freiheitsstrafe voraussichtlich zu einer solchen persönlichen Krise des Verurteilten führen würde, dass eine Bewährung für die Zeit nach dem Strafvollzug äusserst unwahrscheinlich zu erwarten ist.
+> 2 Wurde der Täter innerhalb der letzten fünf Jahre vor der Tat zu einer bedingten oder unbedingten Freiheitsstrafe von mehr als sechs Monaten verurteilt, so ist der Aufschub nur zulässig, wenn besonders günstige Umstände vorliegen.
 >
-> 4 Der Strafaufschub nach Absatz 3 darf ein einziges Mal angeordnet und maximal für die Dauer von einem Jahr gewährt werden.
+> 3 Die Gewährung des bedingten Strafvollzuges kann auch verweigert werden, wenn der Täter eine zumutbare Schadenbehebung unterlassen hat.
+>
+> 4 Eine bedingte Strafe kann mit einer Busse nach Artikel 106 verbunden werden.
 
 ## Kommentierung
 
@@ -28,13 +28,13 @@ Art. 42 StGB regelt den bedingten Vollzug von Freiheitsstrafen und ist eine der 
 
 ### II. Voraussetzungen des bedingten Vollzugs (Abs. 1)
 
-**a) Strafhöhe**
+**a) Strafart und Strafhöhe**
 
-Der bedingte Vollzug kommt für Freiheitsstrafen bis zu zwei Jahren in Betracht. Bei Freiheitsstrafen über zwei Jahren ist der bedingte Vollzug nach Abs. 2 nur aussergewöhnlich möglich.
+Der bedingte Vollzug nach Art. 42 kommt für Geldstrafen sowie für Freiheitsstrafen von höchstens zwei Jahren in Betracht. Bei Freiheitsstrafen von mehr als zwei (bis zu drei) Jahren ist nur der **teilbedingte** Vollzug nach Art. 43 StGB möglich; ein vollständig bedingter Vollzug ist dann ausgeschlossen.
 
-**b) Günstige Prognose**
+**b) Fehlende Schlechtprognose**
 
-Die persönliche Prognose muss günstig sein. Massgeblich ist, ob der Täter voraussichtlich keine weiteren Straftaten begehen wird ([BGE 144 IV 277](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_IV_277), E. 3.1.1). Die Prognose stützt sich auf:
+Erforderlich ist, dass keine ungünstige Prognose vorliegt. Massgeblich ist, ob der Täter voraussichtlich keine weiteren Straftaten begehen wird ([BGE 144 IV 277](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_IV_277), E. 3.1.1). Die Prognose stützt sich auf:
 - die Persönlichkeit des Täters,
 - sein Vorleben, insbesondere Vorstrafen,
 - die Umstände der Tat,
@@ -58,19 +58,19 @@ Fehlende Einsicht in das begangene Unrecht kann eine Schlechtprognose rechtferti
 
 Dem Sachgericht steht ein erheblicher Ermessensspielraum bei der Prognosebeurteilung zu ([BGE 145 IV 137](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_145_IV_137), E. 2.2). Das Bundesgericht greift nur bei offensichtlichem Ermessensmissbrauch ein.
 
-### IV. Aussergewöhnliche Umstände (Abs. 2)
+### IV. Qualifizierte Vorstrafe (Abs. 2)
 
-Bei Freiheitsstrafen über zwei Jahren kann der bedingte Vollzug nur angeordnet werden, wenn aussergewöhnliche, in der Persönlichkeit des Täters liegende Umstände vorliegen, die nicht im Zusammenhang mit der Tat stehen. Die Praxis ist restriktiv: Straftatbegünstigende Persönlichkeitszüge (z.B. kriminelle Neigungen) können nicht als aussergewöhnliche Umstände herangezogen werden.
+Wurde der Täter innerhalb der letzten fünf Jahre vor der Tat zu einer bedingten oder unbedingten **Freiheitsstrafe von mehr als sechs Monaten** verurteilt, so ist der Aufschub nur zulässig, wenn **besonders günstige Umstände** vorliegen (Abs. 2). Die qualifizierte Vorstrafe begründet damit eine Vermutung gegen den bedingten Vollzug, die nur durch besonders günstige Umstände entkräftet werden kann. Diese müssen über das hinausgehen, was für die gewöhnliche Gewährung des bedingten Vollzugs (Fehlen einer Schlechtprognose) genügt; verlangt wird eine eigentliche Verbesserung der Lebensumstände des Täters (z.B. stabile Arbeit, geordnete Wohnverhältnisse, Therapie).
 
-### V. Strafaufschub (Abs. 3–4)
+### V. Verweigerung bei unterlassener Schadenbehebung und Verbindungsbusse (Abs. 3–4)
 
-**a) Persönliche Krise**
+**a) Unterlassene Schadenbehebung (Abs. 3)**
 
-Der Strafaufschub nach Abs. 3 setzt voraus, dass die unbedingte Vollstreckung voraussichtlich zu einer persönlichen Krise führen würde, die eine Bewährung nach dem Vollzug äusserst unwahrscheinlich macht. Der Aufschub ist die mildeste Form des bedingten Vollzugs und kommt nur in Ausnahmefällen in Betracht.
+Die Gewährung des bedingten Strafvollzugs kann verweigert werden, wenn der Täter eine **zumutbare Schadenbehebung** unterlassen hat (Abs. 3). Vorausgesetzt ist, dass dem Täter die Wiedergutmachung tatsächlich möglich und zumutbar war.
 
-**b) Einmaligkeit und Dauer**
+**b) Verbindung mit Busse (Abs. 4)**
 
-Der Aufschub darf ein einziges Mal angeordnet werden und maximal für ein Jahr gewährt werden (Abs. 4). Nach Ablauf der Aufschubfrist beginnt die Probezeit.
+Eine bedingte Strafe kann mit einer **Busse nach Art. 106 StGB** verbunden werden (Abs. 4). Diese Verbindungsbusse erlaubt es dem Gericht, dem Verurteilten trotz bedingten Vollzugs eine spürbare, unbedingt zu vollziehende Sanktion aufzuerlegen.
 
 ### VI. Kasuistik
 
@@ -80,11 +80,11 @@ Der Aufschub darf ein einziges Mal angeordnet werden und maximal für ein Jahr g
 
 ### VII. Abgrenzungen
 
-**Art. 42 vs. Art. 43 StGB (Probezeit):** Art. 42 regelt die Voraussetzungen des bedingten Vollzugs; Art. 43 regelt die Probezeit und die moglichen Weisungen.
+**Art. 42 vs. Art. 43 StGB (teilbedingter Vollzug):** Der vollständig bedingte Vollzug nach Art. 42 ist auf Geldstrafen und Freiheitsstrafen bis zu zwei Jahren beschränkt. Für Freiheitsstrafen von mehr als zwei und höchstens drei Jahren steht nur der teilbedingte Vollzug nach Art. 43 StGB offen, bei dem ein Teil der Strafe vollzogen und ein Teil aufgeschoben wird.
 
-**Art. 42 vs. Art. 41 StGB (unbedingte Freiheitsstrafe):** Art. 41 benennt die Fälle, in denen eine unbedingte Freiheitsstrafe zwingend ist (insbesondere bei Verurteilung zu einer Freiheitsstrafe von mehr als zwei Jahren ohne aussergewöhnliche Umstände).
+**Art. 42 vs. Art. 44 StGB (Probezeit):** Schiebt das Gericht den Vollzug auf, so bestimmt es nach Art. 44 StGB eine Probezeit von zwei bis fünf Jahren und kann Bewährungshilfe anordnen sowie Weisungen erteilen.
 
-**Art. 42 Abs. 3 vs. Art. 42 Abs. 1:** Der Strafaufschub (Abs. 3) hat mildere Voraussetzungen als der bedingte Vollzug (Abs. 1) und kommt bei drohender persönlicher Krise des Verurteilten in Betracht.
+**Art. 42 vs. Art. 41 StGB (kurze unbedingte Freiheitsstrafe):** Art. 41 StGB regelt, wann das Gericht statt einer Geldstrafe auf eine (kurze) Freiheitsstrafe erkennen darf; Art. 42 betrifft demgegenüber die Frage, ob die ausgesprochene Strafe bedingt aufgeschoben wird.
 
 ## Literatur
 

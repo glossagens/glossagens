@@ -2,7 +2,7 @@
 title: "Art. 58 — Einrichtungen für den Vollzug"
 weight: 58
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 58 StGB – Einrichtungen für den Vollzug therapeutischer Massnahmen: Trennungsgebot, Massnahmenvollzug und Verhältnis zu Art. 59 Abs. 3 StGB"
 tags: ["StGB", "Sanktionenrecht", "Massnahmenvollzug", "Trennungsgebot", "therapeutische Massnahme", "Strafvollzug"]
 agent_verified: true
@@ -12,7 +12,7 @@ agent_verified: true
 
 > **Art. 58 StGB — Einrichtungen für den Vollzug**
 >
-> 1 Der Vollzug von Massnahmen nach den Artikeln 59–61 wird in besonderen Einrichtungen oder in besonderen Abteilungen von Einrichtungen vollzogen, die den Anforderungen des Massnahmenvollzugs entsprechen.
+> 1 … Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 (AS 2010 1881; BBl 2006 1085).
 >
 > 2 Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
 
@@ -20,15 +20,15 @@ agent_verified: true
 
 ### I. Bedeutung
 
-Art. 58 StGB normiert die organisatorischen Grundanforderungen an den Vollzug der stationären therapeutischen Massnahmen (Art. 59–61 StGB). Die Norm stellt zwei zentrale Anforderungen auf: Die **Eignung der Einrichtungen** (Abs. 1) und das **Trennungsgebot** (Abs. 2). Diese Bestimmungen sind Grundpfeiler eines massnahmenvollzugsrechtlichen Systems, das die therapeutische Ausrichtung der Massnahmen sicherstellen soll und gleichzeitig den Strafvollzug von der Massnahmebehandlung trennt.
+Art. 58 StGB normiert heute noch das **Trennungsgebot** für den Vollzug der stationären therapeutischen Massnahmen (Art. 59–61 StGB): Die therapeutischen Einrichtungen sind vom Strafvollzug getrennt zu führen (Abs. 2). Der frühere Abs. 1, der die Eignungsanforderungen an die Vollzugseinrichtungen umschrieb, wurde mit Inkrafttreten der eidgenössischen Strafprozessordnung per 1. Januar 2011 **aufgehoben**; die entsprechenden Anforderungen ergeben sich seither aus Art. 59 Abs. 2 StGB (geeignete Einrichtung) sowie aus den allgemeinen Massnahmenbestimmungen (Art. 56 ff. StGB). Das Trennungsgebot ist Grundpfeiler eines Systems, das die therapeutische Ausrichtung der Massnahmen sicherstellen und den Strafvollzug von der Massnahmebehandlung trennen soll.
 
 Das Trennungsgebot hat in der Praxis erhebliche Bedeutung erlangt, weil der Vollzug in geschlossener Einrichtung nach Art. 59 Abs. 3 StGB eine **lex specialis**-Ausnahme zum Trennungsgebot von Abs. 2 darstellt ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.2). Die Spannung zwischen dem Grundsatz der Trennung von Straf- und Massnahmenvollzug und der Notwendigkeit, bei qualifiziertem Rückfallrisiko den Vollzug auch in einer Strafanstalt zuzulassen, ist das zentrale Thema der Rechtsprechung zu Art. 58 StGB.
 
-### II. Einrichtungen des Massnahmenvollzugs (Abs. 1)
+### II. Anforderungen an die Vollzugseinrichtungen (heute Art. 59 Abs. 2 StGB)
 
-#### 1. Begriff der besonderen Einrichtungen
+#### 1. Begriff der geeigneten Einrichtung
 
-Abs. 1 verlangt, dass der Vollzug der Massnahmen nach Art. 59–61 StGB in **besonderen Einrichtungen** oder in **besonderen Abteilungen** von Einrichtungen erfolgt, die den Anforderungen des Massnahmenvollzugs entsprechen. Die Einrichtungen müssen:
+Seit der Aufhebung von Art. 58 Abs. 1 StGB (per 1.1.2011) ergeben sich die Anforderungen an die Einrichtungen aus Art. 59 Abs. 2 StGB: Der Vollzug der Massnahmen nach Art. 59–61 StGB erfolgt in einer **geeigneten Einrichtung** bzw. in einer **geeigneten Abteilung** einer Anstalt, die den Anforderungen des Massnahmenvollzugs entspricht. Die Einrichtungen müssen:
 
 - **speziell für den Massnahmenvollzug** konzipiert sein (besondere Einrichtungen); oder
 - als **besondere Abteilungen** innerhalb einer bestehenden Einrichtung organisiert sein.
