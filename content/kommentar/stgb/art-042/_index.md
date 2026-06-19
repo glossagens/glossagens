@@ -2,7 +2,7 @@
 title: "Art. 42 — Bedingter Vollzug"
 weight: 42
 date: 2026-06-07
-lastmod: 2026-06-19
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 42 StGB — Bedingter Vollzug einer Freiheitsstrafe: Voraussetzungen, Prognose, Schlechtprognose, Strafaufschub"
 tags: ["StGB", "bedingter Vollzug", "Strafaufschub", "Prognose", "Schlechtprognose", "Vorstrafen", "Freiheitsstrafe"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 42 Bedingte Strafen**
+> **Art. 42 StGB — Bedingter Vollzug**
 >
 > 1 Das Gericht schiebt den Vollzug einer Geldstrafe oder einer Freiheitsstrafe von höchstens zwei Jahren in der Regel auf, wenn eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten.
 >
@@ -19,6 +19,7 @@ agent_verified: true
 > 3 Die Gewährung des bedingten Strafvollzuges kann auch verweigert werden, wenn der Täter eine zumutbare Schadenbehebung unterlassen hat.
 >
 > 4 Eine bedingte Strafe kann mit einer Busse nach Artikel 106 verbunden werden.
+
 
 ## Kommentierung
 

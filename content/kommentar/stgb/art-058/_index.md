@@ -2,7 +2,7 @@
 title: "Art. 58 — Einrichtungen für den Vollzug"
 weight: 58
 date: 2026-06-06
-lastmod: 2026-06-19
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 58 StGB – Einrichtungen für den Vollzug therapeutischer Massnahmen: Trennungsgebot, Massnahmenvollzug und Verhältnis zu Art. 59 Abs. 3 StGB"
 tags: ["StGB", "Sanktionenrecht", "Massnahmenvollzug", "Trennungsgebot", "therapeutische Massnahme", "Strafvollzug"]
 agent_verified: true
@@ -12,9 +12,10 @@ agent_verified: true
 
 > **Art. 58 StGB — Einrichtungen für den Vollzug**
 >
-> 1 … Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 (AS 2010 1881; BBl 2006 1085).
+> 1 …
 >
-> 2 Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
+> 2 Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
+
 
 ## Kommentierung
 

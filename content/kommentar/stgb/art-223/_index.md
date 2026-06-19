@@ -2,20 +2,20 @@
 title: "Art. 223 — Verursachung einer Explosion"
 weight: 223
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 223 StGB – Verursachung einer Explosion, Gas, Benzin, Petroleum, Gemeingefährdung, objektive Strafbarkeitsbedingung, Versuch"
 tags: ["StGB", "Explosion", "Gemeingefährdung", "objektive Bedingung", "Versuch", "Brandstiftung", "Sprengstoff"]
 agent_verified: true
 ---
 
-# Art. 223 StGB — Verursachung einer Explosion
+## Gesetzeswortlaut
 
-## Wortlaut
-
-> **Art. 223**
+> **Art. 223 StGB — Verursachung einer Explosion**
 >
 > 1. Wer vorsätzlich eine Explosion von Gas, Benzin, Petroleum oder ähnlichen Stoffen verursacht und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft. Ist nur ein geringer Schaden entstanden, so kann auf Freiheitsstrafe bis zu drei Jahren oder Geldstrafe erkannt werden.
+>
 > 2. Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
 
 ## Überblick
 

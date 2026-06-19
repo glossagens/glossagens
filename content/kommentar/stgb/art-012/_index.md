@@ -2,7 +2,7 @@
 title: "Art. 12 — Vorsatz und Fahrlässigkeit"
 weight: 12
 date: 2026-05-23
-lastmod: 2026-06-05
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 12 StGB – Vorsatzprinzip, Eventualvorsatz und Fahrlässigkeit als Grundbegriffe des Schweizer Strafrechts"
 tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip"]
 agent_verified: true
@@ -17,6 +17,7 @@ agent_verified: true
 > 2 Vorsätzlich begeht ein Verbrechen oder Vergehen, wer die Tat mit Wissen und Willen ausführt. Vorsätzlich handelt bereits, wer die Verwirklichung der Tat für möglich hält und in Kauf nimmt.
 >
 > 3 Fahrlässig begeht ein Verbrechen oder Vergehen, wer die Folge seines Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt. Pflichtwidrig ist die Unvorsichtigkeit, wenn der Täter die Vorsicht nicht beachtet, zu der er nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist.
+
 
 ## Kommentierung
 

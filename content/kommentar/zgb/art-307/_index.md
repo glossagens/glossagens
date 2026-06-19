@@ -14,7 +14,7 @@ agent_verified: true
 >
 > 1 Ist das Wohl des Kindes gefährdet und sorgen die Eltern nicht von sich aus für Abhilfe oder sind sie dazu ausserstande, so trifft die Kindesschutzbehörde die geeigneten Massnahmen zum Schutz des Kindes.
 >
-> 2 Die Kindesschutzbehörde is dazu auch gegenüber Kindern verpflichtet, die bei Pflegeeltern untergebracht sind oder sonst ausserhalb der häuslichen Gemeinschaft der Eltern leben.
+> 2 Die Kindesschutzbehörde ist dazu auch gegenüber Kindern verpflichtet, die bei Pflegeeltern untergebracht sind oder sonst ausserhalb der häuslichen Gemeinschaft der Eltern leben.
 >
 > 3 Sie kann insbesondere die Eltern, die Pflegeeltern oder das Kind ermahnen, ihnen bestimmte Weisungen für die Pflege, Erziehung oder Ausbildung erteilen und eine geeignete Person oder Stelle bestimmen, der Einblick und Auskunft zu geben ist.
 ---

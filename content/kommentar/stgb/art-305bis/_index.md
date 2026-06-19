@@ -2,7 +2,7 @@
 title: "Art. 305bis — Geldwäscherei"
 weight: 305
 date: 2026-06-03
-lastmod: 2026-06-05
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 305bis StGB – Geldwäscherei: Tathandlung, Gemeinedelikt, Selbstgeldwäscherei, Vortatenkreis, qualifiziertes Steuervergehen, Ziff. 2 (Bande, kriminelle Organisation, Gewerbsmässigkeit), Auslandtat, Einziehbarkeit, Sedimentationsmethode"
 tags: ["StGB", "Geldwäscherei", "Vortatenkreis", "Steuervergehen", "kriminelle Organisation", "Finanzplatz", "Selbstgeldwäscherei", "Einziehung", "FATF", "Finanzintermediär"]
 agent_verified: true
@@ -10,18 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 305bis StGB – Geldwäscherei**
+> **Art. 305bis StGB — Geldwäscherei**
 >
-> 1 Wer eine Handlung vornimmt, die geeignet ist, die Ermittlung der Herkunft, die Auffindung oder die Einziehung von Vermögenswerten zu vereiteln, die, wie er weiss oder annehmen muss, aus einem Verbrechen oder aus einem qualifizierten Steuervergehen herrühren, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+> 1. Wer eine Handlung vornimmt, die geeignet ist, die Ermittlung der Herkunft, die Auffindung oder die Einziehung von Vermögenswerten zu vereiteln, die, wie er weiss oder annehmen muss, aus einem Verbrechen oder aus einem qualifizierten Steuervergehen herrühren, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. 1 bis. Als qualifiziertes Steuervergehen gelten die Straftaten nach Artikel 186 des Bundesgesetzes vom 14. Dezember 1990 SR 642.11 über die direkte Bundessteuer und nach Artikel 59 Absatz 1 erstes Lemma des Bundesgesetzes vom 14. Dezember 1990 SR 642.14 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden, wenn die hinterzogenen Steuern pro Steuerperiode mehr als 300 000 Franken betragen.
 >
-> 1bis Als qualifiziertes Steuervergehen gelten die Straftaten nach Artikel 186 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer und nach Artikel 59 Absatz 1 erstes Lemma des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden, wenn die hinterzogenen Steuern pro Steuerperiode mehr als 300 000 Franken betragen.
+> 2. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ein schwerer Fall liegt insbesondere vor, wenn der Täter: a. als Mitglied einer kriminellen oder terroristischen Organisation (Art. 260 ter ) handelt; b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der Geldwäscherei zusammengefunden hat; c. durch gewerbsmässige Geldwäscherei einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
 >
-> 2 In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
-> a. als Mitglied einer kriminellen oder terroristischen Organisation (Art. 260ter) handelt;
-> b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der Geldwäscherei zusammengefunden hat;
-> c. durch gewerbsmässige Geldwäscherei einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
->
-> 3 Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.
+> 3. Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.
+
 
 ## Kommentierung
 

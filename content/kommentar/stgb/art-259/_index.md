@@ -2,23 +2,22 @@
 title: "Art. 259 StGB — Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit"
 weight: 259
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 259 StGB: Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit — Rechtsgut, Tatbestand, Aufforderung zu Auslandstaten"
 tags: ["StGB", "öffentliche Aufforderung", "Gewalttätigkeit", "Verbrechen", "Meinungsfreiheit"]
 agent_verified: true
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-**Art. 259 Abs. 1 StGB** (Fassung gemäss Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023):
+> **Art. 259 StGB — Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit**
+>
+> 1 Wer öffentlich zu einem Vergehen mit Gewalttätigkeit gegen Menschen oder Sachen oder zu einem Verbrechen auffordert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+>
+> 1bis Die öffentliche Aufforderung zum Völkermord (Art. 264), der ganz oder teilweise in der Schweiz begangen werden soll, ist auch strafbar, wenn die Aufforderung im Ausland erfolgt.
+>
+> 2 …
 
-> Wer öffentlich zu einem Vergehen mit Gewalttätigkeit gegen Menschen oder Sachen oder zu einem Verbrechen auffordert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
-
-**Art. 259 Abs. 1bis StGB** (eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Januar 2011):
-
-> Die öffentliche Aufforderung zum Völkermord (Art. 264), der ganz oder teilweise in der Schweiz begangen werden soll, ist auch strafbar, wenn die Aufforderung im Ausland erfolgt.
-
-**Art. 259 Abs. 2 StGB**: Aufgehoben durch Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).
 
 ## Systematik
 

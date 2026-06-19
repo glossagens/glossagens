@@ -2,17 +2,18 @@
 title: "Art. 129 — Gefährdung des Lebens"
 weight: 129
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 129 StGB – Gefährdung des Lebens (unmittelbare Lebensgefahr, Skrupellosigkeit, Abgrenzung zu Art. 122 StGB)"
 tags: ["StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Konkurrenz", "Abgrenzung"]
 agent_verified: true
 ---
 
-# Art. 129 StGB — Gefährdung des Lebens
+## Gesetzeswortlaut
 
+> **Art. 129 StGB — Gefährdung des Lebens**
+>
 > Wer einen Menschen in skrupelloser Weise in unmittelbare Lebensgefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
----
 
 ## Vorbemerkungen
 

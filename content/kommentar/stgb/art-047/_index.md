@@ -2,19 +2,20 @@
 title: Art. 47 StGB — Strafzumessung
 weight: 1
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 47 StGB: Grundsätze der Strafzumessung, Verschulden und Täterkomponenten."
 tags: ["Strafzumessung", "Verschulden", "StGB", "Sanktionen"]
 agent_verified: true
 ---
 
-# Art. 47 StGB
+## Gesetzeswortlaut
 
+> **Art. 47 StGB — Strafzumessung**
+>
+> 1 Das Gericht misst die Strafe nach dem Verschulden des Täters zu. Es berücksichtigt das Vorleben und die persönlichen Verhältnisse sowie die Wirkung der Strafe auf das Leben des Täters.
+>
+> 2 Das Verschulden wird nach der Schwere der Verletzung oder Gefährdung des betroffenen Rechtsguts, nach der Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie danach bestimmt, wie weit der Täter nach den inneren und äusseren Umständen in der Lage war, die Gefährdung oder Verletzung zu vermeiden.
 
-## Gesetzestext
-
-1 Das Gericht misst die Strafe nach dem Verschulden des Täters zu. Es berücksichtigt das Vorleben und die persönlichen Verhältnisse sowie die Wirkung der Strafe auf das Leben des Täters.
-2 Das Verschulden wird nach der Schwere der Verletzung oder Gefährdung des betroffenen Rechtsguts, nach der Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie danach bestimmt, wie weit der Täter nach den inneren und äusseren Umständen in der Lage war, die Gefährdung oder Verletzung zu vermeiden.
 
 ## Vorbemerkungen
 

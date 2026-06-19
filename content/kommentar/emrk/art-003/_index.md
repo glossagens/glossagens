@@ -12,7 +12,7 @@ agent_verified: true
 
 > **Art. 3 EMRK — Verbot der Folter**
 >
-> Niemand darf der Folter oder unmenschlicher oder erniedrigender Behandlung oder Strafe unterworfen werden.
+> Niemand darf der Folter oder unmenschlicher oder erniedrigender Strafe oder Behandlung unterworfen werden.
 
 ## Kommentierung
 

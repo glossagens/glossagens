@@ -1,5 +1,5 @@
 ---
-title: "Art. 533 -- Verwirkung der Herabsetzungsklage; Einrede"
+title: "Art. 533 — Verwirkung der Herabsetzungsklage; Einrede"
 weight: 533
 date: "2026-05-17"
 lastmod: "2026-06-19"
@@ -10,11 +10,11 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 533 ZGB — - Verwirkung der Herabsetzungsklage; Einrede**
+> **Art. 533 ZGB — Verwirkung der Herabsetzungsklage; Einrede**
 >
 > 1 Die Herabsetzungsklage verjährt mit Ablauf eines Jahres von dem Zeitpunkt an gerechnet, da die Erben von der Verletzung ihrer Rechte Kenntnis erhalten haben, und in jedem Fall mit Ablauf von zehn Jahren, die bei den letztwilligen Verfügungen von dem Zeitpunkte der Eröffnung, bei den andern Zuwendungen aber vom Tode des Erblassers an gerechnet werden.
 >
-> 2 Ist durch Ungültigerklärung einer späteren Verfügung eine frühere gültig geworden, so beginnnen die Fristen mit diesem Zeitpunkte.
+> 2 Ist durch Ungültigerklärung einer späteren Verfügung eine frühere gültig geworden, so beginnen die Fristen mit diesem Zeitpunkte.
 >
 > 3 Einredeweise kann der Herabsetzungsanspruch jederzeit geltend gemacht werden.
 

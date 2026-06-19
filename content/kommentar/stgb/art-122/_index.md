@@ -2,23 +2,18 @@
 title: "Art. 122 — Schwere Körperverletzung"
 weight: 122
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 122 StGB – Schwere Körperverletzung (lebensgefährliche Verletzung, Verstümmelung, bleibende Arbeitsunfähigkeit, arg entstellendes Gesicht, andere schwere Schädigung)"
 tags: ["StGB", "Schwere Körperverletzung", "Körperverletzung", "Versuch", "Notwehr", "Notwehrexzess", "Strafzumessung"]
 agent_verified: true
 ---
 
-# Art. 122 StGB — Schwere Körperverletzung
+## Gesetzeswortlaut
 
-> Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer vorsätzlich:
+> **Art. 122 StGB — Schwere Körperverletzung**
 >
-> **a.** einen Menschen lebensgefährlich verletzt;
->
-> **b.** den Körper, ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend entstellt;
->
-> **c.** eine andere schwere Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines Menschen verursacht.
+> Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer vorsätzlich: a. einen Menschen lebensgefährlich verletzt; b. den Körper, ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend entstellt; c. eine andere schwere Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines Menschen verursacht.
 
----
 
 ## Vorbemerkungen
 

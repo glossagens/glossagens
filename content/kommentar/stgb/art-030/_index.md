@@ -2,25 +2,26 @@
 title: "Art. 30 — Strafantrag"
 weight: 30
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 30 StGB – Strafantrag, teleologische Auslegung, Antragberechtigung"
 tags: ["StGB", "Strafantrag", "Antragsdelikt", "teleologische Auslegung", "Strafverfolgung"]
 agent_verified: true
 ---
 
-## Art. 30 StGB — Strafantrag
+## Gesetzeswortlaut
 
-### Wortlaut
-
+> **Art. 30 StGB — Strafantrag**
+>
 > 1 Ist eine Tat nur auf Antrag strafbar, so kann jede Person, die durch sie verletzt worden ist, die Bestrafung des Täters beantragen.
 >
-> 2 Ist die verletzte Person handlungsunfähig, so ist ihr gesetzlicher Vertreter zum Antrag berechtigt. Steht sie unter Vormundschaft oder unter umfassender Beistandschaft, so steht das Antragsrecht auch der Erwachsenenschutzbehörde zu.
+> 2 Ist die verletzte Person handlungsunfähig, so ist ihr gesetzlicher Vertreter zum Antrag berechtigt. Steht sie unter Vormundschaft oder unter umfassender Beistandschaft, so steht das Antragsrecht auch der Erwachsenenschutzbehörde zu. , in Kraft seit 1. Jan. 2013 ( ; BBl 2006 7001 ).
 >
-> 3 Ist die verletzte Person minderjährig oder steht sie unter umfassender Beistandschaft, so ist auch sie zum Antrag berechtigt, wenn sie urteilsfähig ist.
+> 3 Ist die verletzte Person minderjährig oder steht sie unter umfassender Beistandschaft, so ist auch sie zum Antrag berechtigt, wenn sie urteilsfähig ist. , in Kraft seit 1. Jan. 2013 ( ; BBl 2006 7001 ).
 >
 > 4 Stirbt die verletzte Person, ohne dass sie den Strafantrag gestellt oder auf den Strafantrag ausdrücklich verzichtet hat, so steht das Antragsrecht jedem Angehörigen zu.
 >
 > 5 Hat eine antragsberechtigte Person ausdrücklich auf den Antrag verzichtet, so ist ihr Verzicht endgültig.
+
 
 ### Überblick
 

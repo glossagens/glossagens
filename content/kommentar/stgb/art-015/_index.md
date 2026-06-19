@@ -2,17 +2,18 @@
 title: "Art. 15 — Notwehr"
 weight: 15
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 15 StGB – Rechtfertigende Notwehr (Voraussetzungen, Angemessenheit, Notwehrexzess)"
 tags: ["StGB", "Notwehr", "Rechtfertigungsgrund", "Notwehrexzess", "Selbsthilfe", "Gefahrenabwehr"]
 agent_verified: true
 ---
 
-# Art. 15 StGB — Notwehr
+## Gesetzeswortlaut
 
+> **Art. 15 StGB — Notwehr**
+>
 > Wird jemand ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht, so ist der Angegriffene und jeder andere berechtigt, den Angriff in einer den Umständen angemessenen Weise abzuwehren.
 
----
 
 ## Vorbemerkungen
 

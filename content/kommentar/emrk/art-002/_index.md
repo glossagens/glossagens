@@ -12,15 +12,15 @@ agent_verified: true
 
 > **Art. 2 EMRK — Recht auf Leben**
 >
-> 1 Das Recht jedes Menschen auf sein Leben wird gesetzlich geschützt. Niemand darf absichtlich getötet werden, ausser bei der Vollstreckung einer Todesstrafe, die von einem Gericht aufgrund einer Strafbestimmung verhängt worden ist, in der die Tat mit der Todesstrafe bedroht ist.
+> 1 Das Recht jedes Menschen auf Leben wird gesetzlich geschützt. Niemand darf absichtlich getötet werden, ausser durch Vollstreckung eines Todesurteils, das ein Gericht wegen eines Verbrechens verhängt hat, für das die Todesstrafe gesetzlich vorgesehen ist.
 >
-> 2 Eine Tötung wird nicht als Verletzung dieses Artikels betrachtet, wenn sie sich aus einer unbedingt erforderlichen Gewaltanwendung ergibt:
+> 2 Eine Tötung wird nicht als Verletzung dieses Artikels betrachtet, wenn sie durch eine Gewaltanwendung verursacht wird, die unbedingt erforderlich ist, um:
 >
-> a. zur Verteidigung einer Person gegen rechtswidrige Gewalt;
+> a. jemanden gegen rechtswidrige Gewalt zu verteidigen;
 >
-> b. zur rechtmässigen Festnahme oder zur Verhinderung der Flucht einer ordnungsgemäss festgehaltenen Person;
+> b. jemanden rechtmässig festzunehmen oder jemanden, dem die Freiheit rechtmässig entzogen ist, an der Flucht zu hindern;
 >
-> c. zur rechtmässigen Bekämpfung eines Aufruhrs oder Aufstands gesetzMassnahmen.
+> c. einen Aufruhr oder Aufstand rechtmässig niederzuschlagen.
 
 ## Kommentierung
 

@@ -2,7 +2,7 @@
 title: "Art. 305ter — Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 weight: 305
 date: 2026-05-29
-lastmod: 2026-05-30
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 tags: ["StGB", "Geldwäscherei", "Sorgfaltspflicht", "Finanzintermediär", "KYC", "wirtschaftlich Berechtigter"]
 agent_verified: true
@@ -10,11 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht**
+> **Art. 305ter StGB — Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht**
 >
 > 1 Wer berufsmässig fremde Vermögenswerte annimmt, aufbewahrt, anlegen oder übertragen hilft und es unterlässt, mit der nach den Umständen gebotenen Sorgfalt die Identität des wirtschaftlich Berechtigten festzustellen, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 >
-> 2 Die von Absatz 1 erfassten Personen sind berechtigt, der Meldestelle für Geldwäscherei im Bundesamt für Polizei Wahrnehmungen zu melden, die darauf schliessen lassen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis herrühren.
+> 2 Die von Absatz 1 erfassten Personen sind berechtigt, der Meldestelle für Geldwäscherei im Bundesamt für Polizei Wahrnehmungen zu melden, die darauf schliessen lassen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305 bis Ziffer 1 bis herrühren.
+
 
 ## Kommentierung
 

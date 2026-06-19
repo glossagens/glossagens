@@ -2,23 +2,18 @@
 title: "Art. 191 StGB — Schändung"
 weight: 191
 date: 2026-06-02
-lastmod: 2026-06-13
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 191 StGB: Schändung, Urteilsunfähigkeit, Widerstandsunfähigkeit, Missbrauch, Vorsatz, Konkurrenz, Berufsverbot Art. 67 Abs. 4 StGB."
 tags: ["StGB", "Schändung", "Sexualstrafrecht", "Widerstandsunfähigkeit", "Urteilsunfähigkeit"]
 agent_verified: false
 ---
 
-# Art. 191 StGB
+## Gesetzeswortlaut
 
-## Gesetzestext
+> **Art. 191 StGB — Schändung**
+>
+> Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-*(in der seit 1. Juli 2024 geltenden Fassung)*
-
-Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
-
-*(Alte Fassung, bis 30. Juni 2024)*: «Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person **in Kenntnis ihres Zustandes** zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.»
-
----
 
 ## Vorbemerkungen
 

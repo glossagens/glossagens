@@ -2,7 +2,7 @@
 title: "Art. 106 — Busse"
 weight: 106
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 106 StGB – Busse: Höchstbetrag, Ersatzfreiheitsstrafe, Bemessung, Verbindungsbusse und Umwandlung"
 tags: ["StGB", "Busse", "Ersatzfreiheitsstrafe", "Sanktionen", "Strafzumessung", "Geldstrafe", "Verbindungsbusse"]
 agent_verified: true
@@ -10,15 +10,18 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **1** Bestimmt es das Gesetz nicht anders, so ist der Höchstbetrag der Busse 10 000 Franken.
+> **Art. 106 StGB — Busse**
 >
-> **2** Das Gericht spricht im Urteil für den Fall, dass die Busse schuldhaft nicht bezahlt wird, eine Ersatzfreiheitsstrafe von mindestens einem Tag und höchstens drei Monaten aus.
+> 1 Bestimmt es das Gesetz nicht anders, so ist der Höchstbetrag der Busse 10 000 Franken.
 >
-> **3** Das Gericht bemisst Busse und Ersatzfreiheitsstrafe je nach den Verhältnissen des Täters so, dass dieser die Strafe erleidet, die seinem Verschulden angemessen ist.
+> 2 Das Gericht spricht im Urteil für den Fall, dass die Busse schuldhaft nicht bezahlt wird, eine Ersatzfreiheitsstrafe von mindestens einem Tag und höchstens drei Monaten aus.
 >
-> **4** Die Ersatzfreiheitsstrafe entfällt, soweit die Busse nachträglich bezahlt wird.
+> 3 Das Gericht bemisst Busse und Ersatzfreiheitsstrafe je nach den Verhältnissen des Täters so, dass dieser die Strafe erleidet, die seinem Verschulden angemessen ist.
 >
-> **5** Auf den Vollzug und die Umwandlung der Busse sind die Artikel 35 und 36 Absatz 2 sinngemäss anwendbar.
+> 4 Die Ersatzfreiheitsstrafe entfällt, soweit die Busse nachträglich bezahlt wird.
+>
+> 5 Auf den Vollzug und die Umwandlung der Busse sind die Artikel 35 und 36 Absatz 2 sinngemäss anwendbar.
+
 
 ## Kommentierung
 

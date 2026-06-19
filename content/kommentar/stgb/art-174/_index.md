@@ -2,7 +2,7 @@
 title: "Art. 174 — Verleumdung"
 weight: 174
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 174 StGB — Verleumdung (Dénonciation calomnieuse): wider besseres Wissen jemanden eines unehrenhaften Verhaltens beschuldigen"
 tags: ["StGB", "Ehrverletzung", "Verleumdung", "Strafantragsdelikt", "planmässig"]
 agent_verified: true
@@ -10,10 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 174**
+> **Art. 174 StGB — Verleumdung**
+>
 > 1. Wer jemanden wider besseres Wissen bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt oder verdächtigt, wer eine solche Beschuldigung oder Verdächtigung wider besseres Wissen verbreitet, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
-> 2. Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so wird er mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft. Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).
+>
+> 2. Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so wird er mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+>
 > 3. Zieht der Täter seine Äusserungen vor dem Gericht als unwahr zurück, so kann er milder bestraft werden. Das Gericht stellt dem Verletzten über den Rückzug eine Urkunde aus.
+
 
 ## Kommentierung
 

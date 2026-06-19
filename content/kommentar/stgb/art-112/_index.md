@@ -2,17 +2,18 @@
 title: "Art. 112 StGB — Mord"
 weight: 112
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung, besonders skrupelloses Handeln, Qualifikationsmerkmale (Beweggrund, Zweck, Art der Ausführung), Strafrahmen."
 tags: ["Mord", "qualifizierte Tötung", "StGB", "Skrupellosigkeit", "Tötungsdelikte"]
 agent_verified: false
 ---
 
-# Art. 112 StGB
+## Gesetzeswortlaut
 
-## Gesetzestext
-
+> **Art. 112 StGB — Mord**
+>
 > Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
+
 
 ## Vorbemerkungen
 

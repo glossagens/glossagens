@@ -2,19 +2,20 @@
 title: "Art. 16 — Notwehrexzess"
 weight: 16
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 16 StGB – Notwehrexzess (obligatorische Strafmilderung, entschuldbarer Notwehrexzess)"
 tags: ["StGB", "Notwehrexzess", "Notwehr", "Rechtfertigungsgrund", "Entschuldigungsgrund", "Strafzumessung"]
 agent_verified: true
 ---
 
-# Art. 16 StGB — Notwehrexzess
+## Gesetzeswortlaut
 
-> **Abs. 1** Überschreitet der Abwehrende die Grenzen der Notwehr nach Artikel 15, so mildert das Gericht die Strafe.
+> **Art. 16 StGB — Notwehrexzess**
 >
-> **Abs. 2** Überschreitet der Abwehrende die Grenzen der Notwehr in entschuldbarer Aufregung oder Bestürzung über den Angriff, so handelt er nicht schuldhaft.
+> 1 Überschreitet der Abwehrende die Grenzen der Notwehr nach Artikel 15, so mildert das Gericht die Strafe.
+>
+> 2 Überschreitet der Abwehrende die Grenzen der Notwehr in entschuldbarer Aufregung oder Bestürzung über den Angriff, so handelt er nicht schuldhaft.
 
----
 
 ## Vorbemerkungen
 

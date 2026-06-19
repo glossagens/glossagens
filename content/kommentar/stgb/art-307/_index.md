@@ -2,7 +2,7 @@
 title: "Art. 307 — Falschaussage"
 weight: 307
 date: 2026-06-05
-lastmod: 2026-06-06
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 307 StGB – Falschaussage / Faux témoignage"
 tags: ["StGB", "Strafrecht", "Falschaussage", "falsches Zeugnis", "falsches Gutachten", "Rechtspflegedelnikt", "Privatklägerschaft"]
 agent_verified: true
@@ -10,11 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **1** Wer in einem gerichtlichen Verfahren als Zeuge, Sachverständiger, Übersetzer oder Dolmetscher zur Sache falsch aussagt, einen falschen Befund oder ein falsches Gutachten abgibt oder falsch übersetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+> **Art. 307 StGB — Falschaussage**
 >
-> **2** *(Aufgehoben durch Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023; AS 2023 259; BBl 2018 2827).*
+> 1 Wer in einem gerichtlichen Verfahren als Zeuge, Sachverständiger, Übersetzer oder Dolmetscher zur Sache falsch aussagt, einen falschen Befund oder ein falsches Gutachten abgibt oder falsch übersetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> **3** Bezieht sich die falsche Äusserung auf Tatsachen, die für die richterliche Entscheidung unerheblich sind, so ist die Strafe Geldstrafe.
+> 2 …
+>
+> 3 Bezieht sich die falsche Äusserung auf Tatsachen, die für die richterliche Entscheidung unerheblich sind, so ist die Strafe Geldstrafe.
+
 
 ## Kommentierung
 

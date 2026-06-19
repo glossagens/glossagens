@@ -2,7 +2,7 @@
 title: "Art. 146 — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 146 StGB – Betrug: Arglistige Täuschung durch Vorspiegelung oder Unterdrückung von Tatsachen, Schädigungsabsicht, Bereicherungsabsicht"
 tags: ["StGB", "Betrug", "Vorspiegelung", "Arglist", "Vermögensdelikt", "Bereicherungsabsicht"]
 agent_verified: true
@@ -10,13 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 146 Betrug**
+> **Art. 146 StGB — Betrug**
 >
 > 1 Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder ihn in einem Irrtum arglistig bestärkt und so den Irrenden zu einem Verhalten bestimmt, wodurch dieser sich selbst oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> 2 Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).
+> 2 Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.
 >
 > 3 Der Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
+
 
 ## Kommentierung
 

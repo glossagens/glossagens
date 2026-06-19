@@ -2,7 +2,7 @@
 title: "Art. 20 — Begutachtung der Schuldfähigkeit"
 weight: 20
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 20 StGB – Begutachtung der Schuldfähigkeit durch Sachverständige"
 tags: ["StGB", "Schuldfähigkeit", "Begutachtung", "Gutachten", "psychiatrisches Gutachten"]
 agent_verified: true
@@ -10,7 +10,10 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 20 StGB — Begutachtung der Schuldfähigkeit**
+>
 > Besteht ernsthafter Anlass, an der Schuldfähigkeit des Täters zu zweifeln, so ordnet die Untersuchungsbehörde oder das Gericht die sachverständige Begutachtung durch einen Sachverständigen an.
+
 
 ## Kommentierung
 

@@ -12,7 +12,7 @@ agent_verified: true
 
 > **Art. 14 — Verbot der Diskriminierung**
 >
-> Der Genuss der in dieser Konvention anerkannten Rechte und Freiheiten ist ohne Diskriminierung zu gewährleisten, insbesondere wegen des Geschlechts, der Rasse, der Hautfarbe, der Sprache, der Religion, der politischen oder sonstigen Anschauung, der nationalen oder sozialen Herkunft, der Zugehörigkeit zu einer nationalen Minderheit, des Vermögens, der Geburt oder eines sonstigen Status.
+> Der Genuss der in dieser Konvention anerkannten Rechte und Freiheiten ist ohne Diskriminierung insbesondere wegen des Geschlechts, der Rasse, der Hautfarbe, der Sprache, der Religion, der politischen oder sonstigen Anschauung, der nationalen oder sozialen Herkunft, der Zugehörigkeit zu einer nationalen Minderheit, des Vermögens, der Geburt oder eines sonstigen Status zu gewährleisten.
 
 ## Kommentierung
 

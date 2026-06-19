@@ -2,17 +2,18 @@
 title: "Art. 111 StGB — Vorsätzliche Tötung"
 weight: 111
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 111 StGB: Vorsätzliche Tötung (Totschlag), Grunddelikt der vorsätzlichen Tötung, Abgrenzung zum Mord (Art. 112), Tatbestandsmerkmale, Versuch und Teilnahme."
 tags: ["Totschlag", "vorsätzliche Tötung", "StGB", "Mord", "Tötungsdelikte", "Vorsatz"]
 agent_verified: false
 ---
 
-# Art. 111 StGB
+## Gesetzeswortlaut
 
-## Gesetzestext
-
+> **Art. 111 StGB — Vorsätzliche Tötung**
+>
 > Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
+
 
 ## Vorbemerkungen
 

@@ -2,21 +2,20 @@
 title: "Art. 219 — Verletzung der Fürsorge- oder Erziehungspflicht"
 weight: 219
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 219 StGB – Verletzung der Fürsorge- oder Erziehungspflicht, Garantenstellung, Gefährdung der Entwicklung Minderjähriger"
 tags: ["StGB", "Fürsorgepflicht", "Erziehungspflicht", "Kindeswohlgefährdung", "Garantenstellung", "Vernachlässigung", "minderjährige Person"]
 agent_verified: true
 ---
 
-# Art. 219 StGB — Verletzung der Fürsorge- oder Erziehungspflicht
+## Gesetzeswortlaut
 
-## Wortlaut
+> **Art. 219 StGB — Verletzung der Fürsorge- oder Erziehungspflicht**
+>
+> 1 Wer seine Fürsorge- oder Erziehungspflicht gegenüber einer minderjährigen Person verletzt oder vernachlässigt und sie dadurch in ihrer körperlichen oder seelischen Entwicklung gefährdet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+>
+> 2 Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
 
-> **Art. 219**  
-> ¹ Wer seine Fürsorge- oder Erziehungspflicht gegenüber einer minderjährigen Person verletzt oder vernachlässigt und sie dadurch in ihrer körperlichen oder seelischen Entwicklung gefährdet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.  
-> ² Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
-
-*Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ## Überblick
 

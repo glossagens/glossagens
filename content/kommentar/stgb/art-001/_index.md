@@ -2,7 +2,7 @@
 title: "Art. 1 StGB — Legalitätsprinzip"
 weight: 1
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 1 StGB: Das Legalitätsprinzip — nullum crimen, nulla poena sine lege — als Grundgarantie des Schweizer Strafrechts."
 tags: ["Legalitätsprinzip", "nullum crimen sine lege", "Bestimmtheitsgebot", "Analogieverbot", "StGB", "Strafrecht"]
 agent_verified: false
@@ -10,9 +10,10 @@ agent_verified: false
 
 ## Gesetzeswortlaut
 
-> **Art. 1**
+> **Art. 1 StGB — Legalitätsprinzip**
 >
 > Eine Strafe oder Massnahme darf nur wegen einer Tat verhängt werden, die das Gesetz ausdrücklich unter Strafe stellt.
+
 
 ## Vorbemerkungen
 

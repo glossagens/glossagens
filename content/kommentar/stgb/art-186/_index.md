@@ -2,17 +2,18 @@
 title: "Art. 186 — Hausfriedensbruch"
 weight: 186
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 186 StGB – Hausfriedensbruch (Eindringen, Verweilen, Antragserfordernis)"
 tags: ["StGB", "Hausfriedensbruch", "Hausrecht", "Antragsdelikt", "Notwehr"]
 agent_verified: true
 ---
 
-# Art. 186 StGB — Hausfriedensbruch
+## Gesetzeswortlaut
 
+> **Art. 186 StGB — Hausfriedensbruch**
+>
 > Wer gegen den Willen des Berechtigten in ein Haus, in eine Wohnung, in einen abgeschlossenen Raum eines Hauses oder in einen unmittelbar zu einem Hause gehörenden umfriedeten Platz, Hof oder Garten oder in einen Werkplatz unrechtmässig eindringt oder, trotz der Aufforderung eines Berechtigten, sich zu entfernen, darin verweilt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
----
 
 ## Vorbemerkungen
 

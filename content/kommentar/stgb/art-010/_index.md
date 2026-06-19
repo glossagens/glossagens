@@ -2,7 +2,7 @@
 title: "Art. 10 — Verbrechen und Vergehen"
 weight: 10
 date: 2026-06-13
-lastmod: 2026-06-19
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 10 StGB – Einteilung der Straftaten in Verbrechen und Vergehen"
 tags: ["StGB", "Verbrechen", "Vergehen", "Einteilung", "Strafrahmen"]
 agent_verified: true
@@ -10,11 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 10 StGB — Verbrechen und Vergehen**
+>
 > 1 Dieses Gesetz unterscheidet die Verbrechen von den Vergehen nach der Schwere der Strafen, mit der die Taten bedroht sind.
 >
 > 2 Verbrechen sind Taten, die mit Freiheitsstrafe von mehr als drei Jahren bedroht sind.
 >
 > 3 Vergehen sind Taten, die mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bedroht sind.
+
 
 ## Kommentierung
 

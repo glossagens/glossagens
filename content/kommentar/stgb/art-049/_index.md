@@ -2,7 +2,7 @@
 title: "Art. 49 — Mehrere Strafen bei einer Tat"
 weight: 49
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 49 StGB: Konkurrenzen, Gesamtstrafenbildung (Asperationsprinzip), Zusatzstrafe bei retrospektiver Konkurrenz"
 tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "retrospektive Konkurrenz", "Strafzumessung"]
 agent_verified: true
@@ -10,13 +10,14 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 49** Mehrere Strafen bei einer Tat
+> **Art. 49 StGB — Mehrere Strafen bei einer Tat**
 >
 > 1 Hat der Täter durch eine oder mehrere Handlungen die Voraussetzungen für mehrere gleichartige Strafen erfüllt, so verurteilt ihn das Gericht zu der Strafe der schwersten Straftat und erhöht sie angemessen. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um mehr als die Hälfte erhöhen. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
 >
 > 2 Hat das Gericht eine Tat zu beurteilen, die der Täter begangen hat, bevor er wegen einer andern Tat verurteilt worden ist, so bestimmt es die Zusatzstrafe in der Weise, dass der Täter nicht schwerer bestraft wird, als wenn die strafbaren Handlungen gleichzeitig beurteilt worden wären.
 >
-> 3 Hat der Täter eine oder mehrere Taten vor Vollendung des 18. Altersjahres begangen, so dürfen diese bei der Bildung der Gesamtstrafe nach den Absätzen 1 und 2 nicht stärker ins Gewicht fallen, als wenn sie für sich allein beurteilt worden wären.
+> 3 Hat der Täter eine oder mehrere Taten vor Vollendung des 18. Altersjahres begangen, so dürfen diese bei der Bildung der Gesamtstrafe nach den Absätzen 1 und 2 nicht stärker ins Gewicht fallen, als wenn sie für sich allein beurteilt worden wären.
+
 
 ## Kommentierung
 

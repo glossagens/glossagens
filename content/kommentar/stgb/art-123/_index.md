@@ -2,20 +2,20 @@
 title: "Art. 123 — Einfache Körperverletzung"
 weight: 123
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 123 StGB: einfache Körperverletzung, Einwilligung, sadomasochistische Praktiken, Abgrenzung zur Tätlichkeit und qualifizierte Begehungsweisen."
 tags: ["StGB", "Körperverletzung", "Einwilligung", "sadomasochistische Praktiken"]
 agent_verified: true
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-**Art. 123 StGB** (SR 311.0)
-
-> 1. Wer vorsätzlich einen Menschen in anderer Weise an Körper oder Gesundheit schädigt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.  
+> **Art. 123 StGB — Einfache Körperverletzung**
+>
+> 1. Wer vorsätzlich einen Menschen in anderer Weise an Körper oder Gesundheit schädigt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. … Zweiter Absatz
+>
 > 2. Der Täter wird von Amtes wegen verfolgt, wenn er Gift, eine Waffe oder einen gefährlichen Gegenstand gebraucht, wenn er die Tat an einem Wehrlosen oder an einer Person begeht, die unter seiner Obhut steht oder für die er zu sorgen hat, namentlich an einem Kind, wenn er der Ehegatte des Opfers ist und die Tat während der Ehe oder bis zu einem Jahr nach der Scheidung begangen wurde, wenn er die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Tat während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde, wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.
 
-Zweiter Absatz aufgehoben durch Ziff. I 1 des BG vom 17. Dez. 2021 ueber die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). Fassung gem. Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 (AS 2006 3459; BBl 1999 1979). Qualifizierungstatbestand neu gefasst durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. April 2004 (AS 2004 1403; BBl 2003 1909).
 
 ## Systematik
 

@@ -2,7 +2,7 @@
 title: "Art. 303 — Falsche Anschuldigung"
 weight: 303
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 303 StGB – Falsche Anschuldigung / Dénonciation calomnieuse"
 tags: ["StGB", "Strafrecht", "falsche Anschuldigung", "Ehrdelikt", "Rechtspflegedelnikt"]
 agent_verified: true
@@ -10,9 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **1.** Wer einen Nichtschuldigen wider besseres Wissen bei der Behörde eines Verbrechens oder Vergehens beschuldigt, in der Absicht, eine Strafverfolgung gegen ihn herbeizuführen, wer in anderer Weise arglistige Veranstaltungen trifft, in der Absicht, eine Strafverfolgung gegen einen Nichtschuldigen herbeizuführen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+> **Art. 303 StGB — Falsche Anschuldigung**
 >
-> **2.** Betrifft die falsche Anschuldigung eine Übertretung, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+> 1. Wer einen Nichtschuldigen wider besseres Wissen bei der Behörde eines Verbrechens oder eines Vergehens beschuldigt, in der Absicht, eine Strafverfolgung gegen ihn herbeizuführen, wer in anderer Weise arglistige Veranstaltungen trifft, in der Absicht, eine Strafverfolgung gegen einen Nichtschuldigen herbeizuführen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+>
+> 2. Betrifft die falsche Anschuldigung eine Übertretung, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+
 
 ## Kommentierung
 

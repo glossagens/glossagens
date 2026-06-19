@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> Jede Person, die in ihren durch die Konvention anerkannten Rechten und Freiheiten verletzt worden ist, hat das Recht, bei einer innerstaatlichen Instanz wirksame Beschwerde zu erheben, auch wenn die Verletzung von Personen gehandelt worden ist, die in amtlicher Eigenschaft gehandelt haben.
+> Jede Person, die in ihren in dieser Konvention anerkannten Rechten oder Freiheiten verletzt worden ist, hat das Recht, bei einer innerstaatlichen Instanz eine wirksame Beschwerde zu erheben, auch wenn die Verletzung von Personen begangen worden ist, die in amtlicher Eigenschaft gehandelt haben.
 
 ## Vorbemerkungen
 

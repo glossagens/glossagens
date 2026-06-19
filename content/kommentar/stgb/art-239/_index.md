@@ -2,7 +2,7 @@
 title: "Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
 weight: 239
 date: 2026-05-30
-lastmod: 2026-06-06
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 239 StGB – Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
 tags: ["StGB", "Verkehrsanstalt", "Versorgungsanlage", "öffentliche Sicherheit", "Infrastrukturschutz"]
 agent_verified: true
@@ -10,9 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 239 StGB — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen**
+>
 > 1. Wer vorsätzlich den Betrieb einer öffentlichen Verkehrsanstalt, namentlich den Eisenbahn‑, Post‑, Telegrafen- oder Telefonbetrieb hindert, stört oder gefährdet, wer vorsätzlich den Betrieb einer zur allgemeinen Versorgung mit Wasser, Licht, Kraft oder Wärme dienenden Anstalt oder Anlage hindert, stört oder gefährdet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 >
 > 2. Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+
 
 ## Kommentierung
 

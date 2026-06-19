@@ -2,20 +2,18 @@
 title: "Art. 220 — Entziehen und Vorenthalten von Minderjährigen"
 weight: 220
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 220 StGB – Entziehen und Vorenthalten von Minderjährigen, Aufenthaltsbestimmungsrecht, Kindesentziehung, Besuchsrechtsmissbrauch"
 tags: ["StGB", "Entziehung Minderjähriger", "Vorenthalten", "Aufenthaltsbestimmungsrecht", "Kindesentziehung", "Besuchsrechtsmissbrauch", "Garantenstellung", "Unterlassen"]
 agent_verified: true
 ---
 
-# Art. 220 StGB — Entziehen und Vorenthalten von Minderjährigen
+## Gesetzeswortlaut
 
-## Wortlaut
-
-> **Art. 220**  
+> **Art. 220 StGB — Entziehen und Vorenthalten von Minderjährigen**
+>
 > Wer eine minderjährige Person dem Inhaber des Rechts zur Bestimmung des Aufenthaltsortes entzieht oder sich weigert, sie ihm zurückzugeben, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-*Fassung gemäss Ziff. I 6 des BG vom 13. Dez. 2002 (Kindes- und Erwachsenenschutz), in Kraft seit 1. Jan. 2013 (AS 2012 5975; BBl 2011 9077). Frühere Fassung: «unmündige Person», «elterlichen oder vormundschaftlichen Gewalt».*
 
 ## Überblick
 
