@@ -2,7 +2,7 @@
 title: "Art. 336 — Missbräuchliche Kündigung"
 weight: 336
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-19
 description: "Kommentar zu Art. 336 OR – Missbräuchliche Kündigung des Arbeitsvertrags, Tatbestände und Rechtsfolgen"
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht"]
 agent_verified: true
@@ -12,19 +12,19 @@ agent_verified: true
 
 > **Art. 336 OR — Missbräuchliche Kündigung**
 >
-> 1 Die Kündigung ist missbräuchlich, wenn sie ausgesprochen wird:
->    a. wegen einer Eigenschaft, die der anderen Partei kraft ihrer Persönlichkeit zusteht, ausser diese Eigenschaft beeinträchtigt die Zusammenarbeit in wesentlichem Masse oder ist für die Ausübung der Tätigkeit von Bedeutung;
->    b. weil die andere Partei ein verfassungsmässiges Recht ausübt, ausser die Rechtsausübung verletzt eine Pflicht aus dem Arbeitsvertrag oder beeinträchtigt die Zusammenarbeit in wesentlichem Masse;
+> 1 Die Kündigung eines Arbeitsverhältnisses ist missbräuchlich, wenn eine Partei sie ausspricht:
+>    a. wegen einer Eigenschaft, die der anderen Partei kraft ihrer Persönlichkeit zusteht, es sei denn, diese Eigenschaft stehe in einem Zusammenhang mit dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
+>    b. weil die andere Partei ein verfassungsmässiges Recht ausübt, es sei denn, die Rechtsausübung verletze eine Pflicht aus dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
 >    c. ausschliesslich um die Entstehung von Ansprüchen der anderen Partei aus dem Arbeitsverhältnis zu vereiteln;
 >    d. weil die andere Partei nach Treu und Glauben Ansprüche aus dem Arbeitsverhältnis geltend macht;
->    e. weil die andere Partei einem gesetzlichen Dienstleistungspflichten nachkommt oder eine gesetzliche Pflicht erfüllt.
+>    e. weil die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet oder eine nicht freiwillig übernommene gesetzliche Pflicht erfüllt.
 >
-> 2 Die Kündigung des Arbeitgebers ist ebenfalls missbräuchlich, wenn sie ausgesprochen wird:
->    a. weil der Arbeitnehmer einem Arbeitnehmerverband angehört oder sich für diesen betätigt;
->    b. während ein vom Arbeitnehmer gewählter Vertreter ein Mandat als Arbeitnehmervertreter wahrnimmt, ohne dass der Arbeitgeber einen begründeten Anlass zur Kündigung nachweisen kann;
->    c. im Rahmen einer Massenentlassung, ohne dass die Arbeitnehmervertretung oder, in Ermangelung einer solchen, die Arbeitnehmer wie nach Art. 335f vorgeschrieben konsultiert worden sind.
+> 2 Die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber ist im Weiteren missbräuchlich, wenn sie ausgesprochen wird:
+>    a. weil der Arbeitnehmer einem Arbeitnehmerverband angehört oder nicht angehört oder weil er eine gewerkschaftliche Tätigkeit rechtmässig ausübt;
+>    b. während der Arbeitnehmer gewählter Arbeitnehmervertreter in einer betrieblichen oder in einer dem Unternehmen angeschlossenen Einrichtung ist, und der Arbeitgeber nicht beweisen kann, dass er einen begründeten Anlass zur Kündigung hatte;
+>    c. im Rahmen einer Massenentlassung, ohne dass die Arbeitnehmervertretung oder, falls es keine solche gibt, die Arbeitnehmer, konsultiert worden sind (Art. 335f).
 >
-> 3 Art. 333 bleibt vorbehalten.
+> 3 Der Schutz eines Arbeitnehmervertreters nach Absatz 2 Buchstabe b, dessen Mandat infolge Übergangs des Arbeitsverhältnisses endet (Art. 333), besteht so lange weiter, als das Mandat gedauert hätte, falls das Arbeitsverhältnis nicht übertragen worden wäre.
 
 ## Kommentierung
 
