@@ -1,23 +1,20 @@
 ---
 title: "Art. 71 — Einfache Streitgenossenschaft"
 weight: 71
-date: 2026-05-17
-lastmod: 2026-05-17
+date: "2026-05-17"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 71 ZPO: Einfache Streitgenossenschaft, eventuelle passive Streitgenossenschaft, Voraussetzungen der Klagenhäufung und verfahrensrechtliche Folgen."
 tags: ["ZPO", "Streitgenossenschaft", "eventuelle Streitgenossenschaft", "Parteistellung"]
 agent_verified: false
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-> **Art. 71 Einfache Streitgenossenschaft**
+> **Art. 71 ZPO — Einfache Streitgenossenschaft**
 >
-> 1 Mehrere Personen koennen gemeinsam klagen oder beklagt werden, sofern:
-> a. Rechte und Pflichten beurteilt werden sollen, die auf gleichartigen Tatsachen oder Rechtsgruenden beruhen;
-> b. fuer die einzelnen Klagen die gleiche Verfahrensart anwendbar ist; und
-> c. das gleiche Gericht sachlich zustaendig ist.
+> 1 Mehrere Personen können gemeinsam klagen oder beklagt werden, sofern: a. Rechte und Pflichten beurteilt werden sollen, die auf gleichartigen Tatsachen oder Rechtsgründen beruhen; b. für die einzelnen Klagen die gleiche Verfahrensart anwendbar ist; und c. das gleiche Gericht sachlich zuständig ist.
 >
-> 2 Jeder Streitgenosse kann den Prozess unabhaengig von den andern Streitgenossen fuehren.
+> 2 Jeder Streitgenosse kann den Prozess unabhängig von den andern Streitgenossen führen.
 
 ## Systematik und Einordnung
 

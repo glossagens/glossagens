@@ -1,18 +1,20 @@
 ---
 title: "Art. 52 ZPO — Handeln nach Treu und Glauben"
 weight: 52
-date: 2026-05-24
-lastmod: 2026-05-24
+date: "2026-05-24"
+lastmod: "2026-06-19"
 description: "Art. 52 ZPO verpflichtet alle am Verfahren beteiligten Personen, nach Treu und Glauben zu handeln (Abs. 1), und regelt die Wirksamkeit unrichtiger Rechtsmittelbelehrungen (Abs. 2)."
 tags: ["ZPO", "Treu und Glauben", "Rechtsmittelbelehrung", "Verfahrensrecht", "Prozessrecht", "Verfahrensgrundsatz"]
 agent_verified: false
 ---
 
-## Art. 52 ZPO — Wortlaut
+## Gesetzeswortlaut
 
-> **Abs. 1:** Alle am Verfahren beteiligten Personen haben nach Treu und Glauben zu handeln.
+> **Art. 52 ZPO — Handeln nach Treu und Glauben**
 >
-> **Abs. 2:** Unrichtige Rechtsmittelbelehrungen sind gegenüber allen Gerichten insoweit wirksam, als sie zum Vorteil der Partei lauten, die sich darauf beruft. *(Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Jan. 2025.)*
+> 1 Alle am Verfahren beteiligten Personen haben nach Treu und Glauben zu handeln.
+>
+> 2 Unrichtige Rechtsmittelbelehrungen sind gegenüber allen Gerichten insoweit wirksam, als sie zum Vorteil der Partei lauten, die sich darauf beruft.
 
 ## Überblick
 

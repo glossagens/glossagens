@@ -101,7 +101,6 @@ Art. 7 ATSG wird durch spezialgesetzliche Bestimmungen ergänzt und konkretisier
 - [Art. 6 ATSG](../art-006/) — Arbeitsunfähigkeit
 - [Art. 8 ATSG](../art-008/) — Invalidität
 - [Art. 16 ATSG](../art-016/) — Grad der Invalidität / Einkommensvergleich
-- [Art. 43 ATSG](../art-043/) — Abklärung / Beweiswürdigung
 
 ## Literatur
 

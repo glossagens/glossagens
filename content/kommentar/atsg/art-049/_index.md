@@ -89,8 +89,5 @@ agent_verified: true
 
 ## Querverweise
 
-- [Art. 43 ATSG](../art-043/) — Abklärung
-- [Art. 50 ATSG](../art-050/) — Eröffnung
-- [Art. 51 ATSG](../art-051/) — Fristen
 - [Art. 56 ATSG](../art-056/) — Beschwerde gegen Einspracheentscheide
 - [Art. 5 VwVG](../../vwvg/art-005/) — Verfügungsbegriff (allgemein)

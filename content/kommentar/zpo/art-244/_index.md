@@ -1,8 +1,8 @@
 ---
 title: "Art. 244 ZPO — Vereinfachte Klage"
 weight: 244
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 244 ZPO — Erleichterte Klageform im vereinfachten Verfahren, Formanforderungen, Begründungsfreiheit und Beilagenpflicht"
 tags: ["ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Formvorschriften", "Protokollklage", "Streitwert"]
 agent_verified: true
@@ -10,17 +10,13 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> 1 Die Klage kann in den Formen nach Art. 130 eingereicht oder mündlich bei Gericht zu Protokoll gegeben werden. Sie enthält:
-> a. die Bezeichnung der Parteien;
-> b. das Rechtsbegehren;
-> c. die Bezeichnung des Streitgegenstandes;
-> d. wenn nötig die Angabe des Streitwertes;
-> e. das Datum und die Unterschrift.
+> **Art. 244 ZPO — Vereinfachte Klage**
+>
+> 1 Die Klage kann in den Formen nach Artikel 130 eingereicht oder mündlich bei Gericht zu Protokoll gegeben werden. Sie enthält: a. die Bezeichnung der Parteien; b. das Rechtsbegehren; c. die Bezeichnung des Streitgegenstandes; d. wenn nötig die Angabe des Streitwertes; e. das Datum und die Unterschrift.
+>
 > 2 Eine Begründung der Klage ist nicht erforderlich.
-> 3 Als Beilagen sind einzureichen:
-> a. eine Vollmacht bei Vertretung;
-> b. die Klagebewilligung oder die Erklärung, dass auf das Schlichtungsverfahren verzichtet werde;
-> c. die verfügbaren Urkunden, welche als Beweismittel dienen sollen.
+>
+> 3 Als Beilagen sind einzureichen: a. eine Vollmacht bei Vertretung; b. die Klagebewilligung oder die Erklärung, dass auf das Schlichtungsverfahren verzichtet werde; c. die verfügbaren Urkunden, welche als Beweismittel dienen sollen.
 
 ## Kommentierung
 

@@ -1,8 +1,8 @@
 ---
 title: "Art. 101 — Leistung des Vorschusses und der Sicherheit"
 weight: 101
-date: 2026-05-16
-lastmod: 2026-05-16
+date: "2026-05-16"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 101 ZPO – Leistung des Vorschusses und der Sicherheit, zwingende Nachfrist nach Abs. 3"
 tags: ["ZPO", "Kostenvorschuss", "Nachfrist", "Nichteintreten", "Sicherheitsleistung", "vorsorgliche Massnahmen"]
 agent_verified: true

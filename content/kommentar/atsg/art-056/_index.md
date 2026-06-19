@@ -97,7 +97,6 @@ Die Kostentragung im Beschwerdeverfahren richtet sich nach Art. 65 BGG. Das Bund
 
 ## Querverweise
 
-- [Art. 43 ATSG](../art-043/) — Abklärung
 - [Art. 49 ATSG](../art-049/) — Verfügung
 - [Art. 6 ATSG](../art-006/) — Arbeitsunfähigkeit
 - [Art. 8 ATSG](../art-008/) — Invalidität

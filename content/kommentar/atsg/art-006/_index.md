@@ -71,5 +71,4 @@ agent_verified: true
 - [Art. 8 ATSG](../art-008/) — Invalidität
 - [Art. 17 ATSG](../art-017/) — Rentenrevision
 - [Art. 25 ATSG](../art-025/) — Rückerstattung
-- [Art. 43 ATSG](../art-043/) — Abklärung / Beweiswürdigung
 - [Art. 49 ATSG](../art-049/) — Verfügung

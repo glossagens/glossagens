@@ -1,8 +1,8 @@
 ---
 title: "Art. 308 ZPO – Anfechtbare Entscheide (Berufung)"
 weight: 308
-date: 2026-05-23
-lastmod: 2026-06-07
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 308 ZPO – Anfechtbarkeit erstinstanzlicher End- und Zwischenentscheide sowie vorsorglicher Massnahmen mit Berufung"
 tags: ["ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze", "Anfechtung"]
 agent_verified: true
@@ -10,13 +10,11 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 308 ZPO – Anfechtbare Entscheide**
+> **Art. 308 ZPO — Anfechtbare Entscheide (Berufung)**
 >
-> 1 Mit Berufung sind anfechtbar:
-> a. erstinstanzliche End- und Zwischenentscheide;
-> b. erstinstanzliche Entscheide über vorsorgliche Massnahmen.
+> 1 Mit Berufung sind anfechtbar: a. erstinstanzliche End- und Zwischenentscheide; b. erstinstanzliche Entscheide über vorsorgliche Massnahmen.
 >
-> 2 In vermögensrechtlichen Angelegenheiten ist die Berufung nur zulässig, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren mindestens 10 000 Franken beträgt.
+> 2 In vermögensrechtlichen Angelegenheiten ist die Berufung nur zulässig, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren mindestens 10 000 Franken beträgt.
 
 ## Kommentierung
 
