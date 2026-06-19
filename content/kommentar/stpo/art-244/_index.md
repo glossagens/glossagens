@@ -1,18 +1,26 @@
 ---
 title: "Art. 244 — Grundsatz"
 weight: 244
-date: 2026-05-16
-lastmod: 2026-05-16
+date: "2026-05-16"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 244 StPO – Grundsatz der Durchsuchung (Einwilligung, Tatverdacht, Beweisausforschungsverbot)"
 tags: ["StPO", "Durchsuchung", "Hausdurchsuchung", "Beweisausforschungsverbot", "Zwangsmassnahme", "Tatverdacht"]
 agent_verified: true
 ---
 
-# Art. 244 StPO — Grundsatz der Durchsuchung
+## Gesetzeswortlaut
 
-> **Abs. 1** Häuser, Wohnungen und andere nicht allgemein zugängliche Räume dürfen nur mit Einwilligung der berechtigten Person durchsucht werden.
+> **Art. 244 StPO — Grundsatz**
 >
-> **Abs. 2** Die Einwilligung der berechtigten Person ist nicht nötig, wenn zu vermuten ist, dass in diesen Räumen: a. gesuchte Personen anwesend sind; b. Tatspuren oder zu beschlagnahmende Gegenstände oder Vermögenswerte vorhanden sind; c. Straftaten begangen werden.
+> 1 Häuser, Wohnungen und andere nicht allgemein zugängliche Räume dürfen nur mit Einwilligung der berechtigten Person durchsucht werden.
+>
+> 2 Die Einwilligung der berechtigten Person ist nicht nötig, wenn zu vermuten ist, dass in diesen Räumen:
+>
+> a. gesuchte Personen anwesend sind;
+>
+> b. Tatspuren oder zu beschlagnahmende Gegenstände oder Vermögenswerte vorhanden sind;
+>
+> c. Straftaten begangen werden.
 
 ---
 

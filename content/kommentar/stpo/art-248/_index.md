@@ -1,22 +1,22 @@
 ---
 title: "Art. 248 StPO — Siegelung"
 weight: 248
-date: 2026-05-17
-lastmod: 2026-05-17
+date: "2026-05-17"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 248 StPO — Siegelung von Aufzeichnungen und Gegenständen, Beschlagnahme von Speichermedien, Smartphone-Durchsuchung, Geheimnisschutz und Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
 tags: ["StPO", "Beschlagnahme", "Speichermedien", "Smartphone", "Durchsuchung", "Privatsphäre", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
 agent_verified: true
 ---
 
-# Art. 248 StPO — Siegelung
+## Gesetzeswortlaut
 
-> **Abs. 1** Macht die Inhaberin oder der Inhaber geltend, bestimmte Aufzeichnungen oder Gegenstände dürften aufgrund von Artikel 264 nicht beschlagnahmt werden, so versiegelt die Strafbehörde diese. Die Inhaberin oder der Inhaber hat das Begehren innert drei Tagen seit der Sicherstellung vorzubringen. Während dieser Frist und nach einer allfälligen Siegelung darf die Strafbehörde die Aufzeichnungen und Gegenstände weder einsehen noch verwenden.
+> **Art. 248 StPO — Siegelung**
 >
-> **Abs. 2** Sobald die Strafbehörde feststellt, dass die Inhaberin oder der Inhaber nicht mit der an den Aufzeichnungen oder Gegenständen berechtigten Person identisch ist, gibt sie dieser Gelegenheit, innert drei Tagen die Siegelung zu verlangen.
+> 1 Macht die Inhaberin oder der Inhaber geltend, bestimmte Aufzeichnungen oder Gegenstände dürften aufgrund von Artikel 264 nicht beschlagnahmt werden, so versiegelt die Strafbehörde diese. Die Inhaberin oder der Inhaber hat das Begehren innert drei Tagen seit der Sicherstellung vorzubringen. Während dieser Frist und nach einer allfälligen Siegelung darf die Strafbehörde die Aufzeichnungen und Gegenstände weder einsehen noch verwenden.
 >
-> **Abs. 3** Stellt die Strafbehörde nicht innert 20 Tagen ein Entsiegelungsgesuch, so werden die versiegelten Aufzeichnungen und Gegenstände der Inhaberin oder dem Inhaber zurückgegeben.
-
-*Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+> 2 Sobald die Strafbehörde feststellt, dass die Inhaberin oder der Inhaber nicht mit der an den Aufzeichnungen oder Gegenständen berechtigten Person identisch ist, gibt sie dieser Gelegenheit, innert drei Tagen die Siegelung zu verlangen.
+>
+> 3 Stellt die Strafbehörde nicht innert 20 Tagen ein Entsiegelungsgesuch, so werden die versiegelten Aufzeichnungen und Gegenstände der Inhaberin oder dem Inhaber zurückgegeben.
 
 ---
 

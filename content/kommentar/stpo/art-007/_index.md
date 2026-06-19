@@ -1,16 +1,16 @@
 ---
 title: "Art. 7 StPO — Verfolgungszwang"
 weight: 7
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 7 StPO: Verfolgungszwang, Offizialprinzip, Ermächtigungsvorbehalt, Einstellung/Nichtanhandnahme und Beschuldigtenrechte."
 tags: ["Verfolgungszwang", "Offizialprinzip", "Ermächtigungsvorbehalt", "Einstellung", "Nichtanhandnahme", "in dubio pro duriore", "Opportunitätsprinzip"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 7**
+> **Art. 7 StPO — Verfolgungszwang**
 >
 > 1 Die Strafbehörden sind verpflichtet, im Rahmen ihrer Zuständigkeit ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten oder auf Straftaten hinweisende Verdachtsgründe bekannt werden.
 >
@@ -19,8 +19,6 @@ agent_verified: true
 > a. die strafrechtliche Verantwortlichkeit der Mitglieder ihrer gesetzgebenden und richterlichen Behörden sowie ihrer Regierungen für Äusserungen im kantonalen Parlament ausgeschlossen oder beschränkt wird;
 >
 > b. die Strafverfolgung der Mitglieder ihrer Vollziehungs- und Gerichtsbehörden wegen im Amt begangener Verbrechen oder Vergehen von der Ermächtigung einer nicht richterlichen Behörde abhängt.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. April 2025).*
 
 ## I. Bedeutung und Funktion
 

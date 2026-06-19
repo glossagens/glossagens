@@ -1,9 +1,8 @@
 ---
 title: "Art. 135 — Entschädigung der amtlichen Verteidigung"
 weight: 135
-date: 2026-06-03
-lastmod: 2026-06-13
-
+date: "2026-06-03"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 135 StPO – Entschädigung der amtlichen Verteidigung: Tarif, Festsetzung, Vorschüsse, Rechtsmittel, Rückzahlung und Verjährung"
 tags: ["StPO", "amtliche Verteidigung", "Entschädigung", "Anwaltstarif", "Rechtsmittel", "Rückzahlung"]
 agent_verified: true
@@ -11,15 +10,15 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 135 — Entschädigung der amtlichen Verteidigung**
+> **Art. 135 StPO — Entschädigung der amtlichen Verteidigung**
 >
 > 1 Die amtliche Verteidigung wird nach dem Anwaltstarif des Bundes oder desjenigen Kantons entschädigt, in dem das Strafverfahren geführt wurde.
 >
-> 2 Die Staatsanwaltschaft oder das urteilende Gericht legt die Entschädigung am Ende des Verfahrens fest. Erstreckt sich das Mandat über einen langen Zeitraum oder ist es aus einem anderen Grund nicht sinnvoll, das Ende des Verfahrens abzuwarten, so werden der amtlichen Verteidigung Vorschüsse gewährt, deren Höhe von der Verfahrensleitung festgelegt werden. *Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).*
+> 2 Die Staatsanwaltschaft oder das urteilende Gericht legt die Entschädigung am Ende des Verfahrens fest. Erstreckt sich das Mandat über einen langen Zeitraum oder ist es aus einem anderen Grund nicht sinnvoll, das Ende des Verfahrens abzuwarten, so werden der amtlichen Verteidigung Vorschüsse gewährt, deren Höhe von der Verfahrensleitung festgelegt werden.
 >
-> 3 Gegen den Entschädigungsentscheid kann die amtliche Verteidigung das Rechtsmittel ergreifen, das gegen den Endentscheid zulässig ist. *Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).*
+> 3 Gegen den Entschädigungsentscheid kann die amtliche Verteidigung das Rechtsmittel ergreifen, das gegen den Endentscheid zulässig ist.
 >
-> 4 Wird die beschuldigte Person zu den Verfahrenskosten verurteilt, so ist sie verpflichtet, dem Bund oder dem Kanton die Entschädigung zurückzuzahlen, sobald es ihre wirtschaftlichen Verhältnisse erlauben. *Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).*
+> 4 Wird die beschuldigte Person zu den Verfahrenskosten verurteilt, so ist sie verpflichtet, dem Bund oder dem Kanton die Entschädigung zurückzuzahlen, sobald es ihre wirtschaftlichen Verhältnisse erlauben.
 >
 > 5 Der Anspruch des Bundes oder des Kantons verjährt in 10 Jahren nach Rechtskraft des Entscheides.
 

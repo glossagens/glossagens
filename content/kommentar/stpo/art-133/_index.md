@@ -1,8 +1,8 @@
 ---
 title: "Art. 133 StPO — Bestellung der amtlichen Verteidigung"
 weight: 133
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 133 StPO: Bestellung der amtlichen Verteidigung — Zuständigkeit, Übertragung der Auswahl und Berücksichtigung der Wünsche der beschuldigten Person (Fassung seit 1.1.2024)"
 tags: ["StPO", "Bestellung der amtlichen Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Verfahrensleitung", "Auswahl Übertragung", "Wünsche der beschuldigten Person", "Reform 2022"]
 agent_verified: true
@@ -14,9 +14,9 @@ agent_verified: true
 >
 > 1 Die amtliche Verteidigung wird von der im jeweiligen Verfahrensstadium zuständigen Verfahrensleitung bestellt.
 >
-> 1bis Bund und Kantone können die Auswahl der amtlichen Verteidigung an eine andere Behörde oder an Dritte übertragen. Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).
+> 1bis Bund und Kantone können die Auswahl der amtlichen Verteidigung an eine andere Behörde oder an Dritte übertragen.
 >
-> 2 Bei der Auswahl der amtlichen Verteidigung sind deren Eignung sowie nach Möglichkeit die Wünsche der beschuldigten Person zu berücksichtigen. Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).
+> 2 Bei der Auswahl der amtlichen Verteidigung sind deren Eignung sowie nach Möglichkeit die Wünsche der beschuldigten Person zu berücksichtigen.
 
 ## Kommentierung
 

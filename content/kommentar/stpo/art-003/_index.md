@@ -1,26 +1,28 @@
 ---
 title: "Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot"
 weight: 3
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 3 StPO: Achtung der Menschenwürde, Grundsatz von Treu und Glauben, Verbot des Rechtsmissbrauchs, rechtliches Gehör und Verbot menschenwürdeverletzender Beweiserhebungsmethoden."
 tags: ["Menschenwürde", "Fairnessgebot", "Treu und Glauben", "Rechtsmissbrauch", "rechtliches Gehör", "Beweisverwertungsverbot", "Beweiserhebungsverbot"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 3**
+> **Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot**
 >
 > 1 Die Strafbehörden achten in allen Verfahrensstadien die Würde der vom Verfahren betroffenen Menschen.
 >
 > 2 Sie beachten namentlich:
->   a. den Grundsatz von Treu und Glauben;
->   b. das Verbot des Rechtsmissbrauchs;
->   c. das Gebot, alle Verfahrensbeteiligten gleich und gerecht zu behandeln und ihnen rechtliches Gehör zu gewähren;
->   d. das Verbot, bei der Beweiserhebung Methoden anzuwenden, welche die Menschenwürde verletzen.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. Januar 2024).*
+>
+> a. den Grundsatz von Treu und Glauben;
+>
+> b. das Verbot des Rechtsmissbrauchs;
+>
+> c. das Gebot, alle Verfahrensbeteiligten gleich und gerecht zu behandeln und ihnen rechtliches Gehör zu gewähren;
+>
+> d. das Verbot, bei der Beweiserhebung Methoden anzuwenden, welche die Menschenwürde verletzen.
 
 ## I. Bedeutung und Funktion
 

@@ -1,16 +1,18 @@
 ---
 title: "Art. 158 StPO — Einvernahme der beschuldigten Person"
 weight: 158
-date: 2026-05-17
-lastmod: 2026-06-06
+date: "2026-05-17"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
 agent_verified: true
 ---
 
-## Art. 158 StPO — Hinweise bei der ersten Einvernahme
+## Gesetzeswortlaut
 
-> **Art. 158 Abs. 1 StPO**: Polizei oder Staatsanwaltschaft weisen die beschuldigte Person zu Beginn der ersten Einvernahme in einer ihr verständlichen Sprache darauf hin, dass:
+> **Art. 158 StPO — Einvernahme der beschuldigten Person**
+>
+> 1 Polizei oder Staatsanwaltschaft weisen die beschuldigte Person zu Beginn der ersten Einvernahme in einer ihr verständlichen Sprache darauf hin, dass:
 >
 > a. gegen sie ein Vorverfahren eingeleitet worden ist und welche Straftaten Gegenstand des Verfahrens bilden;
 >
@@ -19,8 +21,9 @@ agent_verified: true
 > c. sie berechtigt ist, eine Verteidigung zu bestellen oder gegebenenfalls eine amtliche Verteidigung zu beantragen;
 >
 > d. sie eine Übersetzerin oder einen Übersetzer verlangen kann.
+>
+> 2 Einvernahmen ohne diese Hinweise sind nicht verwertbar.
 
-> **Art. 158 Abs. 2 StPO**: Einvernahmen ohne diese Hinweise sind nicht verwertbar.
 
 ---
 

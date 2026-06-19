@@ -1,8 +1,8 @@
 ---
 title: "Art. 107 — Anspruch auf rechtliches Gehör"
 weight: 107
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 107 StPO – Anspruch auf rechtliches Gehör"
 tags: ["StPO", "rechtliches Gehör", "Akteneinsicht", "Verfahrensfairness", "Begründungspflicht"]
 agent_verified: true
@@ -13,11 +13,16 @@ agent_verified: true
 > **Art. 107 StPO — Anspruch auf rechtliches Gehör**
 >
 > 1 Die Parteien haben Anspruch auf rechtliches Gehör; sie haben namentlich das Recht:
->   a. Akten einzusehen;
->   b. an Verfahrenshandlungen teilzunehmen;
->   c. einen Rechtsbeistand beizuziehen;
->   d. sich zur Sache und zum Verfahren zu äussern;
->   e. Beweisanträge zu stellen.
+>
+> a. Akten einzusehen;
+>
+> b. an Verfahrenshandlungen teilzunehmen;
+>
+> c. einen Rechtsbeistand beizuziehen;
+>
+> d. sich zur Sache und zum Verfahren zu äussern;
+>
+> e. Beweisanträge zu stellen.
 >
 > 2 Die Strafbehörden machen rechtsunkundige Parteien auf ihre Rechte aufmerksam.
 

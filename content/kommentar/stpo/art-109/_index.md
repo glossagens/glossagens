@@ -1,8 +1,8 @@
 ---
 title: "Art. 109 — Eingaben"
 weight: 109
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 109 StPO – Eingaben: Recht der Parteien auf Einreichung von Eingaben und Pflicht der Verfahrensleitung zur Prüfung und Stellungnahmewehr"
 tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 109** Eingaben
+> **Art. 109 StPO — Eingaben**
 >
 > 1 Die Parteien können der Verfahrensleitung jederzeit Eingaben machen; vorbehalten bleiben besondere Bestimmungen dieses Gesetzes.
 >

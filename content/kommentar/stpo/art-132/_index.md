@@ -1,8 +1,8 @@
 ---
 title: "Art. 132 StPO — Amtliche Verteidigung"
 weight: 132
-date: 2026-06-12
-lastmod: 2026-06-20
+date: "2026-06-12"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 132 StPO: Amtliche Verteidigung, Voraussetzungen, Subsidiarität, Bestellung, Kosten"
 tags: ["StPO", "amtliche Verteidigung", "Offizialverteidiger", "notwendige Verteidigung", "Bedürftigkeit", "Wahlverteidigung", "Kosten"]
 agent_verified: true
@@ -10,15 +10,17 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 132 — Amtliche Verteidigung**
+> **Art. 132 StPO — Amtliche Verteidigung**
 >
 > 1 Die Verfahrensleitung ordnet eine amtliche Verteidigung an, wenn:
 >
->   a. bei notwendiger Verteidigung:
->     1. die beschuldigte Person trotz Aufforderung der Verfahrensleitung keine Wahlverteidigung bestimmt,
->     2. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die beschuldigte Person nicht innert Frist eine neue Wahlverteidigung bestimmt;
+> a. bei notwendiger Verteidigung:
 >
->   b. die beschuldigte Person nicht über die erforderlichen Mittel verfügt und die Verteidigung zur Wahrung ihrer Interessen geboten ist.
+> 1. die beschuldigte Person trotz Aufforderung der Verfahrensleitung keine Wahlverteidigung bestimmt,
+>
+> 2. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die beschuldigte Person nicht innert Frist eine neue Wahlverteidigung bestimmt;
+>
+> b. die beschuldigte Person nicht über die erforderlichen Mittel verfügt und die Verteidigung zur Wahrung ihrer Interessen geboten ist.
 >
 > 2 Zur Wahrung der Interessen der beschuldigten Person ist die Verteidigung namentlich geboten, wenn es sich nicht um einen Bagatellfall handelt und der Straffall in tatsächlicher oder rechtlicher Hinsicht Schwierigkeiten bietet, denen die beschuldigte Person allein nicht gewachsen wäre.
 >

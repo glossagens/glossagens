@@ -1,8 +1,8 @@
 ---
 title: "Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung"
 weight: 134
-date: 2026-06-12
-lastmod: 2026-06-12
+date: "2026-06-12"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 134 StPO: Widerruf und Wechsel der amtlichen Verteidigung bei Wegfall des Grundes oder gestörtem Vertrauensverhältnis"
 tags: ["StPO", "Widerruf", "Wechsel", "amtliche Verteidigung", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 134 — Widerruf und Wechsel der amtlichen Verteidigung**
+> **Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung**
 >
 > 1 Fällt der Grund für die amtliche Verteidigung dahin, so widerruft die Verfahrensleitung das Mandat.
 >

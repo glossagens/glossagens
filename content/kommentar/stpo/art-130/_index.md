@@ -1,25 +1,28 @@
 ---
 title: "Art. 130 StPO — Notwendige Verteidigung"
 weight: 130
-date: 2026-05-09
-lastmod: 2026-06-12
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 130 StPO: Notwendige Verteidigung, Voraussetzungen (lit. a–e), amtliche Verteidigung, Vorschlagsrecht, Wechsel, Waffengleichheit und EMRK."
 tags: ["notwendige Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Waffengleichheit", "effektive Verteidigung", "EMRK", "Quaranta", "Vorschlagsrecht", "Vertrauensverhältnis"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
 > **Art. 130 StPO — Notwendige Verteidigung**
 >
 > Die beschuldigte Person muss verteidigt werden, wenn:
->   a. die Untersuchungshaft einschliesslich einer vorläufigen Festnahme mehr als 10 Tage gedauert hat;
->   b. ihr eine Freiheitsstrafe von mehr als einem Jahr, eine freiheitsentziehende Massnahme oder eine Landesverweisung droht;
->   c. sie wegen ihres körperlichen oder geistigen Zustandes oder aus anderen Gründen ihre Verfahrensinteressen nicht ausreichend wahren kann und die gesetzliche Vertretung dazu nicht in der Lage ist;
->   d. die Staatsanwaltschaft vor dem erstinstanzlichen Gericht oder dem Berufungsgericht persönlich auftritt;
->   e. ein abgekürztes Verfahren (Art. 358–362) durchgeführt wird.
-
-*Lit. b: Fassung gemäss Anhang Ziff. 5 des BG vom 20.3.2015, in Kraft seit 1.10.2016 (Landesverweisung). Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1.4.2025).*
+>
+> a. die Untersuchungshaft einschliesslich einer vorläufigen Festnahme mehr als 10 Tage gedauert hat;
+>
+> b. ihr eine Freiheitsstrafe von mehr als einem Jahr, eine freiheitsentziehende Massnahme oder eine Landesverweisung droht;
+>
+> c. sie wegen ihres körperlichen oder geistigen Zustandes oder aus anderen Gründen ihre Verfahrensinteressen nicht ausreichend wahren kann und die gesetzliche Vertretung dazu nicht in der Lage ist;
+>
+> d. die Staatsanwaltschaft vor dem erstinstanzlichen Gericht oder dem Berufungsgericht persönlich auftritt;
+>
+> e. ein abgekürztes Verfahren (Art. 358–362) durchgeführt wird.
 
 ## I. Bedeutung und Funktion
 

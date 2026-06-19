@@ -1,8 +1,8 @@
 ---
 title: "Art. 94 StPO — Wiederherstellung"
 weight: 94
-date: 2026-06-12
-lastmod: 2026-06-12
+date: "2026-06-12"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 94 StPO: Wiederherstellung versäumter Fristen und Termine — Voraussetzungen, Zurechnung des Vertreterverschuldens und Pflichtverteidiger-Ausnahme"
 tags: ["StPO", "Wiederherstellung", "Fristen", "Pflichtverteidiger", "Zurechnung", "Säumnis", "Terminversäumnis"]
 agent_verified: true

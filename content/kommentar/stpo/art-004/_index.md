@@ -1,16 +1,16 @@
 ---
-title: Art. 4 StPO — Unabhängigkeit
+title: "Art. 4 StPO — Unabhängigkeit"
 weight: 4
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 4 StPO: Unabhängigkeit der Strafbehörden bei der Rechtsanwendung."
 tags: ["Unabhängigkeit", "Gewaltentrennung", "Weisungsbefugnis", "Rechtsanwendung"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 4**
+> **Art. 4 StPO — Unabhängigkeit**
 >
 > 1 Die Strafbehörden sind in der Rechtsanwendung unabhängig und allein dem Recht verpflichtet.
 >

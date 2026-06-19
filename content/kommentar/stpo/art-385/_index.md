@@ -1,8 +1,8 @@
 ---
 title: "Art. 385 — Begründung und Form"
 weight: 385
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 385 StPO – Begründung und Form: Anforderungen an die Rechtsmittelbegründung, Nachfrist bei Mängeln, falsche Rechtsmittelbezeichnung"
 tags: ["StPO", "Rechtsmittel", "Begründungspflicht", "Berufung", "Beschwerde", "Nichteintreten"]
 agent_verified: true
@@ -10,9 +10,9 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 385 — Begründung und Form**
+> **Art. 385 StPO — Begründung und Form**
 >
-> ¹ Verlangt dieses Gesetz, dass das Rechtsmittel begründet wird, so hat die Person oder die Behörde, die das Rechtsmittel ergreift, genau anzugeben:
+> 1 Verlangt dieses Gesetz, dass das Rechtsmittel begründet wird, so hat die Person oder die Behörde, die das Rechtsmittel ergreift, genau anzugeben:
 >
 > a. welche Punkte des Entscheides sie anficht;
 >
@@ -20,10 +20,9 @@ agent_verified: true
 >
 > c. welche Beweismittel sie anruft.
 >
-> ² Erfüllt die Eingabe diese Anforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück. Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein.
+> 2 Erfüllt die Eingabe diese Anforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück. Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein.
 >
-> ³ Die unrichtige Bezeichnung eines Rechtsmittels beeinträchtigt seine Gültigkeit nicht.
-
+> 3 Die unrichtige Bezeichnung eines Rechtsmittels beeinträchtigt seine Gültigkeit nicht.
 ---
 
 ## Kommentierung

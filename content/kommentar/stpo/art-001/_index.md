@@ -1,16 +1,16 @@
 ---
-title: Art. 1 StPO — Geltungsbereich
+title: "Art. 1 StPO — Geltungsbereich"
 weight: 1
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 1 StPO: Geltungsbereich der Strafprozessordnung für Bundes und Kantone."
 tags: ["Geltungsbereich", "Strafverfahren", "Bundesrecht", "Kantone"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 1**
+> **Art. 1 StPO — Geltungsbereich**
 >
 > 1 Dieses Gesetz regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht durch die Strafbehörden des Bundes und der Kantone.
 >

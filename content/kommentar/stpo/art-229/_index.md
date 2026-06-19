@@ -1,8 +1,8 @@
 ---
 title: "Art. 229 — Entscheid über die Anordnung der Sicherheitshaft"
 weight: 229
-date: 2026-05-23
-lastmod: 2026-05-23
+date: "2026-05-23"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 229 StPO – Entscheidung über die Anordnung der Sicherheitshaft nach erstinstanzlichem Urteil"
 tags: ["StPO", "Sicherheitshaft", "Zwangsmassnahmen", "Haftrecht"]
 agent_verified: true
@@ -10,14 +10,16 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 229 StPO — Entscheidung über die Anordnung der Sicherheitshaft**
+> **Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft**
 >
 > 1 Über die Anordnung der Sicherheitshaft bei vorbestehender Untersuchungshaft entscheidet das Zwangsmassnahmengericht auf schriftliches Gesuch der Staatsanwaltschaft.
 >
 > 2 Ergeben sich erst nach der Anklageerhebung Haftgründe, so führt die Verfahrensleitung des erstinstanzlichen Gerichts in sinngemässer Anwendung von Artikel 224 ein Haftverfahren durch und beantragt dem Zwangsmassnahmengericht die Anordnung der Sicherheitshaft.
 >
 > 3 Das Verfahren vor dem Zwangsmassnahmengericht richtet sich:
+>
 > a. ohne vorbestehende Untersuchungshaft: sinngemäss nach den Artikeln 225 und 226;
+>
 > b. bei vorbestehender Untersuchungshaft: sinngemäss nach Artikel 227.
 
 ## Kommentierung

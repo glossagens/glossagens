@@ -1,8 +1,8 @@
 ---
 title: "Art. 89 — Allgemeine Bestimmungen"
 weight: 89
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 89 StPO – Allgemeine Bestimmungen: Unabänderlichkeit gesetzlicher Fristen und Verbot von Gerichtsferien im Strafverfahren"
 tags: ["StPO", "Fristen", "Gerichtsferien", "Allgemeine Bestimmungen", "Fristenrecht"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 89** Allgemeine Bestimmungen
+> **Art. 89 StPO — Allgemeine Bestimmungen**
 >
 > 1 Gesetzliche Fristen können nicht erstreckt werden.
 >

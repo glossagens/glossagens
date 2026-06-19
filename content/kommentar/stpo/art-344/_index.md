@@ -1,8 +1,8 @@
 ---
 title: "Art. 344 — Abweichende rechtliche Würdigung"
 weight: 344
-date: 2026-05-10
-lastmod: 2026-05-10
+date: "2026-05-10"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 344 StPO – Abweichende rechtliche Würdigung"
 tags: ["StPO", "Anklagegrundsatz", "Würdigungsvorbehalt", "Umqualifikation", "rechtliches Gehör"]
 agent_verified: false
@@ -10,10 +10,9 @@ agent_verified: false
 
 ## Gesetzeswortlaut
 
-> **Art. 344** Abweichende rechtliche Würdigung
+> **Art. 344 StPO — Abweichende rechtliche Würdigung**
 >
-> Will das Gericht den Sachverhalt rechtlich anders würdigen als die Staatsanwaltschaft in der Anklageschrift, so eröffnet es dies den anwesenden Parteien und gibt ihnen Gelegenheit zur Stellungnahme.
-
+> 1 Will das Gericht den Sachverhalt rechtlich anders würdigen als die Staatsanwaltschaft in der Anklageschrift, so eröffnet es dies den anwesenden Parteien und gibt ihnen Gelegenheit zur Stellungnahme.
 ---
 
 ## Vorbemerkungen

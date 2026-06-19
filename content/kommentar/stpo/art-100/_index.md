@@ -1,8 +1,8 @@
 ---
 title: "Art. 100 — Aktenführung"
 weight: 100
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 100 StPO – Aktenführung: Pflicht zur Aktendossier-Erstellung, systematische Ablage und Verzeichnispflicht"
 tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Verfahrensleitung"]
 agent_verified: true
@@ -10,12 +10,15 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 100** Aktenführung
+> **Art. 100 StPO — Aktenführung**
 >
 > 1 Für jede Strafsache wird ein Aktendossier angelegt. Dieses enthält:
->   a. die Verfahrens- und die Einvernahmeprotokolle;
->   b. die von der Strafbehörde zusammengetragenen Akten;
->   c. die von den Parteien eingereichten Akten.
+>
+> a. die Verfahrens- und die Einvernahmeprotokolle;
+>
+> b. die von die Strafbehörde zusammengetragenen Akten;
+>
+> c. die von den Parteien eingereichten Akten.
 >
 > 2 Die Verfahrensleitung sorgt für die systematische Ablage der Akten und für deren fortlaufende Erfassung in einem Verzeichnis; in einfachen Fällen kann sie von einem Verzeichnis absehen.
 

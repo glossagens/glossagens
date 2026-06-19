@@ -1,22 +1,20 @@
 ---
 title: "Art. 220 StPO — Begriffe"
 weight: 220
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 220 StPO: Begriffe (Untersuchungshaft / Sicherheitshaft), zeitliche Abgrenzung, Übergang, Ende, vorzeitiger Strafvollzug, Landesverweisung, analoge Anwendung im Nachverfahren."
 tags: ["StPO", "Untersuchungshaft", "Sicherheitshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Landesverweisung", "vorzeitiger Strafvollzug", "EMRK"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
 > **Art. 220 StPO — Begriffe**
 >
 > 1 Die Untersuchungshaft beginnt mit ihrer Anordnung durch das Zwangsmassnahmengericht und endet mit dem Eingang der Anklage beim erstinstanzlichen Gericht, dem vorzeitigen Antritt einer freiheitsentziehenden Sanktion oder mit der Entlassung der beschuldigten Person während der Untersuchung.
 >
 > 2 Als Sicherheitshaft gilt die Haft während der Zeit zwischen dem Eingang der Anklageschrift beim erstinstanzlichen Gericht und der Rechtskraft des Urteils, dem Antritt einer freiheitsentziehenden Sanktion, dem Vollzug der Landesverweisung oder der Entlassung.
-
-*Fassung mit Änderung durch Anhang Ziff. 5 BG vom 20.3.2015, in Kraft seit 1.10.2016 (AS 2016 2329; BBl 2013 5975): Einfügung des Endetatbestands «Vollzug der Landesverweisung» in Abs. 2.*
 
 ## I. Bedeutung und Systematik
 

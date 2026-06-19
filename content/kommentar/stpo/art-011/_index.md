@@ -1,22 +1,20 @@
 ---
 title: "Art. 11 StPO — Verbot der doppelten Strafverfolgung"
 weight: 11
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 11 StPO: Ne-bis-in-idem-Grundsatz, sachliche und rechtliche Identität, Sperrwirkung, Teileinstellung, Wiederaufnahme und transnationales ne bis in idem."
 tags: ["ne bis in idem", "doppelte Strafverfolgung", "Tatidentität", "Sperrwirkung", "Lebenssachverhalt", "Rechtskraft", "Wiederaufnahme"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 11**
+> **Art. 11 StPO — Verbot der doppelten Strafverfolgung**
 >
 > 1 Wer in der Schweiz rechtskräftig verurteilt oder freigesprochen worden ist, darf wegen der gleichen Straftat nicht erneut verfolgt werden.
 >
 > 2 Vorbehalten bleiben die Wiederaufnahme eines eingestellten oder nicht anhand genommenen Verfahrens und die Revision.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. Januar 2024).*
 
 ## I. Bedeutung und Funktion
 

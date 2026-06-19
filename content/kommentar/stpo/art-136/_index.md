@@ -1,8 +1,8 @@
 ---
 title: "Art. 136 StPO — Voraussetzungen"
 weight: 136
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 136 StPO – Voraussetzungen der unentgeltlichen Rechtspflege für Privatklägerschaft und Opfer"
 tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Voraussetzungen"]
 agent_verified: true
@@ -14,21 +14,19 @@ agent_verified: true
 >
 > 1 Die Verfahrensleitung gewährt auf Gesuch ganz oder teilweise die unentgeltliche Rechtspflege:
 >
->   a. der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche, wenn sie nicht über die erforderlichen Mittel verfügt und die Zivilklage nicht aussichtslos erscheint;
+> a. der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche, wenn sie nicht über die erforderlichen Mittel verfügt und die Zivilklage nicht aussichtslos erscheint;
 >
->   b. dem Opfer für die Durchsetzung seiner Strafklage, wenn es nicht über die erforderlichen Mittel verfügt und die Strafklage nicht aussichtslos erscheint.
+> b. dem Opfer für die Durchsetzung seiner Strafklage, wenn es nicht über die erforderlichen Mittel verfügt und die Strafklage nicht aussichtslos erscheint.
 >
 > 2 Die unentgeltliche Rechtspflege umfasst:
 >
->   a. die Befreiung von Vorschuss- und Sicherheitsleistungen;
+> a. die Befreiung von Vorschuss- und Sicherheitsleistungen;
 >
->   b. die Befreiung von den Verfahrenskosten;
+> b. die Befreiung von den Verfahrenskosten;
 >
->   c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
+> c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
 >
 > 3 Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
->
-> *Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Opferrechtsreform), in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).*
 
 ## Kommentierung
 

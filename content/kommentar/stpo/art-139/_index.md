@@ -1,14 +1,14 @@
 ---
 title: "Art. 139 StPO — Grundsätze"
 weight: 139
-date: 2025-05-09
-lastmod: 2026-05-24
+date: "2025-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 139 StPO: Grundsätze der Beweisführung, Wahrheitsfindungsgebot, Offenkundigkeit, antizipierte Beweiswürdigung, Beweisantrag vs. Beweisermittlungsantrag."
 tags: ["StPO", "Beweisrecht", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Offenkundigkeit", "Gerichtskundigkeit", "In-dubio pro reo", "Verwertungsverbot"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
 > **Art. 139 StPO — Grundsätze**
 >

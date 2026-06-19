@@ -1,24 +1,26 @@
 ---
 title: "Art. 310 StPO — Nichtanhandnahmeverfügung"
 weight: 310
-date: 2026-05-16
-lastmod: 2026-06-07
+date: "2026-05-16"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 310 StPO: Nichtanhandnahmeverfügung, Eindeutigkeitsgebot, Beschwerdelegitimation, Wiederaufnahme und Abgrenzung zur Einstellung."
 tags: ["Nichtanhandnahme", "Eindeutigkeitsgebot", "in dubio pro duriore", "Beschwerdelegitimation", "Privatklägerschaft", "Wiederaufnahme", "Einstellung", "Strafantrag"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
 > **Art. 310 StPO — Nichtanhandnahmeverfügung**
 >
 > 1 Die Staatsanwaltschaft verfügt die Nichtanhandnahme, sobald aufgrund der Strafanzeige oder des Polizeirapports feststeht, dass:
->   a. die fraglichen Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht erfüllt sind;
->   b. Verfahrenshindernisse bestehen;
->   c. aus den in Artikel 8 genannten Gründen auf eine Strafverfolgung zu verzichten ist.
+>
+> a. die fraglichen Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht erfüllt sind;
+>
+> b. Verfahrenshindernisse bestehen;
+>
+> c. aus den in Artikel 8 genannten Gründen auf eine Strafverfolgung zu verzichten ist.
+>
 > 2 Im Übrigen richtet sich das Verfahren nach den Bestimmungen über die Verfahrenseinstellung.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. Januar 2024).*
 
 ## I. Bedeutung und Funktion
 

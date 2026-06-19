@@ -1,16 +1,16 @@
 ---
-title: Art. 2 StPO — Ausübung der Strafrechtspflege
+title: "Art. 2 StPO — Ausübung der Strafrechtspflege"
 weight: 2
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 2 StPO: Monopol der gesetzlich bestimmten Behörden auf Strafrechtspflege und Gesetzlichkeit des Verfahrens."
 tags: ["Strafrechtspflege", "Gesetzmässigkeit", "Verfahrensform", "Legalitätsprinzip"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 2**
+> **Art. 2 StPO — Ausübung der Strafrechtspflege**
 >
 > 1 Die Strafrechtspflege steht einzig den vom Gesetz bestimmten Behörden zu.
 >

@@ -1,8 +1,8 @@
 ---
 title: "Art. 127 StPO — Rechtsbeistand"
 weight: 127
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 127 StPO – Rechtsbeistand: Bestellung, Mehrfachvertretung, Anwaltsmonopol und Verteidigungsbefugnis"
 tags: ["StPO", "Rechtsbeistand", "Verteidigung", "Wahlverteidigung", "Anwaltsmonopol", "Mehrfachvertretung", "Verteidigungsbefugnis", "BGFA"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 127** Rechtsbeistand
+> **Art. 127 StPO — Rechtsbeistand**
 >
 > 1 Die beschuldigte Person, die Privatklägerschaft und die anderen Verfahrensbeteiligten können zur Wahrung ihrer Interessen einen Rechtsbeistand bestellen.
 >
@@ -20,9 +20,7 @@ agent_verified: true
 >
 > 4 Die Parteien können jede handlungsfähige, gut beleumundete und vertrauenswürdige Person als Rechtsbeistand bestellen; vorbehalten bleiben die Beschränkungen des Anwaltsrechts.
 >
-> 5 Die Verteidigung der beschuldigten Person ist Anwältinnen und Anwälten vorbehalten, die nach dem Anwaltsgesetz vom 23. Juni 2000¹ berechtigt sind, Parteien vor Gerichtsbehörden zu vertreten; vorbehalten bleiben abweichende Bestimmungen der Kantone für die Verteidigung im Übertretungsstrafverfahren.
-
-¹ SR 935.61
+> 5 Die Verteidigung der beschuldigten Person ist Anwältinnen und Anwälten vorbehalten, die nach dem Anwaltsgesetz vom 23. Juni 2000 berechtigt sind, Parteien vor Gerichtsbehörden zu vertreten; vorbehalten bleiben abweichende Bestimmungen der Kantone für die Verteidigung im Übertretungsstrafverfahren.
 
 ## Kommentierung
 

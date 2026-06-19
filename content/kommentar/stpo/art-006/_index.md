@@ -1,16 +1,16 @@
 ---
 title: "Art. 6 — Untersuchungsgrundsatz"
 weight: 6
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 6 StPO: Untersuchungsgrundsatz — Amtsaufklärungspflicht, beidseitige Untersuchung belastender und entlastender Umstände, Grenzen und Rechtsfolgen."
 tags: ["Untersuchungsgrundsatz", "Amtsaufklärung", "Belastung", "Entlastung", "Inquisitionsmaxime", "Beweiswürdigung"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 6** Untersuchungsgrundsatz
+> **Art. 6 StPO — Untersuchungsgrundsatz**
 >
 > 1 Die Strafbehörden klären von Amtes wegen alle für die Beurteilung der Tat und der beschuldigten Person bedeutsamen Tatsachen ab.
 >

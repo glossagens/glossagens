@@ -1,22 +1,20 @@
 ---
 title: "Art. 5 StPO — Beschleunigungsgebot"
 weight: 5
-date: 2026-05-09
-lastmod: 2026-05-24
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 5 StPO: Pflicht zur unverzüglichen Verfahrensdurchführung und verschärftes Beschleunigungsgebot bei Haft."
 tags: ["Beschleunigungsgebot", "Haftverfahren", "Verfahrensdauer", "Recht auf zeitgerechtes Verfahren", "Untersuchungshaft", "Strafminderung"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 5**
+> **Art. 5 StPO — Beschleunigungsgebot**
 >
 > 1 Die Strafbehörden nehmen die Strafverfahren unverzüglich an die Hand und bringen sie ohne unbegründete Verzögerung zum Abschluss.
 >
 > 2 Befindet sich eine beschuldigte Person in Haft, so wird ihr Verfahren vordringlich durchgeführt.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. Januar 2024).*
 
 ## I. Bedeutung und Funktion
 

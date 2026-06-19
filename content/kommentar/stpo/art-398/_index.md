@@ -1,8 +1,8 @@
 ---
 title: "Art. 398 — Zulässigkeit und Berufungsgründe"
 weight: 398
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 398 StPO – Zulässigkeit und Berufungsgründe: Berufung gegen erstinstanzliche Urteile, umfassende Überprüfungsbefugnis, Berufungsgründe, Beschränkung bei Übertretungen, Zivilpunkt"
 tags: ["StPO", "Berufung", "Zulässigkeit", "Berufungsgründe", "Rechtsverletzung", "Sachverhaltsfeststellung", "Unangemessenheit", "Übertretung", "Zivilpunkt", "reformatorisches Rechtsmittel", "Kognition"]
 agent_verified: true
@@ -10,16 +10,19 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 398** Zulässigkeit und Berufungsgründe
+> **Art. 398 StPO — Zulässigkeit und Berufungsgründe**
 >
-> 1 Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen worden ist, sowie gegen selbstständige nachträgliche Entscheide des Gerichts und gegen selbstständige Einziehungsentscheide. Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).
+> 1 Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen worden ist, sowie gegen selbstständige nachträgliche Entscheide des Gerichts und gegen selbstständige Einziehungsentscheide.
 >
 > 2 Das Berufungsgericht kann das Urteil in allen angefochtenen Punkten umfassend überprüfen.
 >
 > 3 Mit der Berufung können gerügt werden:
->   a. Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung;
->   b. die unvollständige oder unrichtige Feststellung des Sachverhalts;
->   c. Unangemessenheit.
+>
+> a. Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung;
+>
+> b. die unvollständige oder unrichtige Feststellung des Sachverhalts;
+>
+> c. Unangemessenheit.
 >
 > 4 Bildeten ausschliesslich Übertretungen Gegenstand des erstinstanzlichen Hauptverfahrens, so kann mit der Berufung nur geltend gemacht werden, das Urteil sei rechtsfehlerhaft oder die Feststellung des Sachverhalts sei offensichtlich unrichtig oder beruhe auf einer Rechtsverletzung. Neue Behauptungen und Beweise können nicht vorgebracht werden.
 >

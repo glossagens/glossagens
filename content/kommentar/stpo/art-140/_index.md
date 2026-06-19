@@ -1,8 +1,8 @@
 ---
 title: "Art. 140 — Verbotene Beweiserhebungsmethoden"
 weight: 140
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 140 StPO – Verbotene Beweiserhebungsmethoden"
 tags: ["StPO", "Beweisverwertungsverbot", "verbotene Beweiserhebung", "nemo tenetur", "Folterverbot"]
 agent_verified: true

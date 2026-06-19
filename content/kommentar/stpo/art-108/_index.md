@@ -1,8 +1,8 @@
 ---
 title: "Art. 108 — Einschränkungen des rechtlichen Gehörs"
 weight: 108
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs: Voraussetzungen, Grenzen und nachträgliche Gewährung"
 tags: ["StPO", "rechtliches Gehör", "Einschränkung", "Geheimhaltungsinteresse", "Rechtsbeistand", "Parteiöffentlichkeit"]
 agent_verified: true
@@ -10,11 +10,13 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 108** Einschränkungen des rechtlichen Gehörs
+> **Art. 108 StPO — Einschränkungen des rechtlichen Gehörs**
 >
 > 1 Die Strafbehörden können das rechtliche Gehör einschränken, wenn:
->   a. der begründete Verdacht besteht, dass eine Partei ihre Rechte missbraucht;
->   b. dies für die Sicherheit von Personen oder zur Wahrung öffentlicher oder privater Geheimhaltungsinteressen erforderlich ist.
+>
+> a. der begründete Verdacht besteht, dass eine Partei ihre Rechte missbraucht;
+>
+> b. dies für die Sicherheit von Personen oder zur Wahrung öffentlicher oder privater Geheimhaltungsinteressen erforderlich ist.
 >
 > 2 Einschränkungen gegenüber Rechtsbeiständen sind nur zulässig, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt.
 >

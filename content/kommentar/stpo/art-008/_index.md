@@ -1,23 +1,26 @@
 ---
-title: Art. 8 StPO — Verzicht auf Strafverfolgung
+title: "Art. 8 StPO — Verzicht auf Strafverfolgung"
 weight: 8
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 8 StPO: Opportunitätsprinzip und Einstellung bei Geringfügigkeit oder ausländischer Verfolgung."
 tags: ["Opportunitätsprinzip", "Einstellung", "Verzicht", "Privatklägerschaft", "Ausländische Verfolgung"]
 agent_verified: true
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 8**
+> **Art. 8 StPO — Verzicht auf Strafverfolgung**
 >
 > 1 Staatsanwaltschaft und Gerichte sehen von der Strafverfolgung ab, wenn das Bundesrecht es vorsieht, namentlich unter den Voraussetzungen der Artikel 52, 53 und 54 des Strafgesetzbuches (StGB).
 >
 > 2 Sofern nicht überwiegende Interessen der Privatklägerschaft entgegenstehen, sehen sie ausserdem von einer Strafverfolgung ab, wenn:
->   a. der Straftat neben den anderen der beschuldigten Person zur Last gelegten Taten für die Festsetzung der zu erwartenden Strafe oder Massnahme keine wesentliche Bedeutung zukommt;
->   b. eine voraussichtlich nicht ins Gewicht fallende Zusatzstrafe zu einer rechtskräftig ausgefällten Strafe zu sprechen wäre;
->   c. eine im Ausland ausgesprochene Strafe anzurechnen wäre, welche der für die verfolgte Straftat zu erwartenden Strafe entspricht.
+>
+> a. der Straftat neben den anderen der beschuldigten Person zur Last gelegten Taten für die Festsetzung der zu erwartenden Strafe oder Massnahme keine wesentliche Bedeutung zukommt;
+>
+> b. eine voraussichtlich nicht ins Gewicht fallende Zusatzstrafe zu einer rechtskräftig ausgefällten Strafe auszusprechen wäre;
+>
+> c. eine im Ausland ausgesprochene Strafe anzurechnen wäre, welche der für die verfolgte Straftat zu erwartenden Strafe entspricht.
 >
 > 3 Sofern nicht überwiegende Interessen der Privatklägerschaft entgegenstehen, können Staatsanwaltschaft und Gerichte von der Strafverfolgung absehen, wenn die Straftat bereits von einer ausländischen Behörde verfolgt oder die Verfolgung an eine solche abgetreten wird.
 >

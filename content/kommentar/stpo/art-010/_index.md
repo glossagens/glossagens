@@ -1,8 +1,8 @@
 ---
 title: "Art. 10 — Unschuldsvermutung und Beweiswürdigung"
 weight: 10
-date: 2026-05-10
-lastmod: 2026-05-17
+date: "2026-05-10"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 10 StPO – Unschuldsvermutung und Beweiswürdigung"
 tags: ["StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "Beweislast", "Beweismass", "Willkürkontrolle", "Glaubhaftigkeitsgutachten"]
 agent_verified: true
@@ -10,14 +10,13 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 10** Unschuldsvermutung und Beweiswürdigung
+> **Art. 10 StPO — Unschuldsvermutung und Beweiswürdigung**
 >
 > 1 Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig.
 >
 > 2 Das Gericht würdigt die Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
 >
 > 3 Bestehen unüberwindliche Zweifel an der Erfüllung der tatsächlichen Voraussetzungen der angeklagten Tat, so geht das Gericht von der für die beschuldigte Person günstigeren Sachlage aus.
-
 ---
 
 ## Vorbemerkungen

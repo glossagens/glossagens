@@ -1,8 +1,8 @@
 ---
 title: "Art. 59 — Entscheid"
 weight: 59
-date: 2026-06-20
-lastmod: 2026-06-20
+date: "2026-06-20"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 59 StPO – Entscheid: Zuständigkeit für den Entscheid über Ausstandsbegehren, Verfahren und Kostentragung"
 tags: ["StPO", "Ausstand", "Entscheid", "Zuständigkeit", "Ausstandsbegehren"]
 agent_verified: true
@@ -10,12 +10,16 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 59 Entscheid**
+> **Art. 59 StPO — Entscheid**
 >
 > 1 Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren:
+>
 > a. die Staatsanwaltschaft, wenn die Polizei betroffen ist;
+>
 > b. die Beschwerdeinstanz, wenn die Staatsanwaltschaft, die Übertretungsstrafbehörden oder die erstinstanzlichen Gerichte betroffen sind;
+>
 > c. das Berufungsgericht, wenn die Beschwerdeinstanz oder einzelne Mitglieder des Berufungsgerichts betroffen sind;
+>
 > d. das Bundesstrafgericht, wenn das gesamte Berufungsgericht eines Kantons betroffen ist.
 >
 > 2 Der Entscheid ergeht schriftlich und ist zu begründen.

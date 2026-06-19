@@ -1,8 +1,8 @@
 ---
 title: "Art. 212 — Grundsatz"
 weight: 212
-date: 2026-05-09
-lastmod: 2026-05-09
+date: "2026-05-09"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen: Freiheitsgrundsatz, Aufhebungsgründe, Dauerlimit."
 tags: ["StPO", "Zwangsmassnahmen", "Haft", "Freiheitsentzug", "Ersatzmassnahmen", "Verhältnismässigkeit"]
 agent_verified: false
@@ -10,15 +10,19 @@ agent_verified: false
 
 ## Gesetzeswortlaut
 
-> **Art. 212 — Grundsätze**
+> **Art. 212 StPO — Grundsatz**
 >
 > 1 Die beschuldigte Person bleibt in Freiheit. Sie darf nur im Rahmen der Bestimmungen dieses Gesetzes freiheitsentziehenden Zwangsmassnahmen unterworfen werden.
 >
-> 2 Freiheitsentziehende Zwangsmassnahmen sind aufzuheben, sobald: a. ihre Voraussetzungen nicht mehr erfüllt sind; b. die von diesem Gesetz vorgesehene oder von einem Gericht bewilligte Dauer abgelaufen ist; oder c. Ersatzmassnahmen zum gleichen Ziel führen.
+> 2 Freiheitsentziehende Zwangsmassnahmen sind aufzuheben, sobald:
+>
+> a. ihre Voraussetzungen nicht mehr erfüllt sind;
+>
+> b. die von diesem Gesetz vorgesehene oder von einem Gericht bewilligte Dauer abgelaufen ist; oder
+>
+> c. Ersatzmassnahmen zum gleichen Ziel führen.
 >
 > 3 Untersuchungs- und Sicherheitshaft dürfen nicht länger dauern als die zu erwartende Freiheitsstrafe.
-
-*Gesetzestext geprüft gegen Fedlex (SR 312.0, Stand 1. April 2025).*
 
 ## I. Bedeutung und Funktion
 

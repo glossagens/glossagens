@@ -1,18 +1,16 @@
 ---
 title: "Art. 56 — Ausstandsgründe"
 weight: 56
-date: 2026-06-18
-lastmod: 2026-06-18
+date: "2026-06-18"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 56 StPO — Ausstandsgründe, Befangenheit, rechtliches Gehör im Ausstandsverfahren"
 tags: ["StPO", "Ausstand", "Befangenheit", "rechtliches Gehör", "Strafprozessrecht", "unparteiischer Richter"]
 agent_verified: true
 ---
 
-## Art. 56 StPO — Ausstand
+## Gesetzeswortlaut
 
-### Wortlaut
-
-> **Art. 56 StPO (SR 312.0)**
+> **Art. 56 StPO — Ausstandsgründe**
 >
 > Eine in einer Strafbehörde tätige Person tritt in den Ausstand, wenn sie:
 >
@@ -27,7 +25,6 @@ agent_verified: true
 > e. mit dem Rechtsbeistand einer Partei oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, in gerader Linie oder in der Seitenlinie bis und mit dem zweiten Grad verwandt oder verschwägert ist;
 >
 > f. aus anderen Gründen, insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder deren Rechtsbeistand, befangen sein könnte.
-
 ---
 
 ### I. Überblick und systematische Stellung

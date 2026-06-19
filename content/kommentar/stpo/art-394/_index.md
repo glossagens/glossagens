@@ -1,8 +1,8 @@
 ---
 title: "Art. 394 — Ausschluss der Beschwerde"
 weight: 394
-date: 2026-05-30
-lastmod: 2026-06-12
+date: "2026-05-30"
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 394 StPO – Ausschluss der Beschwerde bei Berufungsmöglichkeit und bei wiederholbaren Beweisanträgen"
 tags: ["StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil"]
 agent_verified: true
@@ -10,8 +10,12 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
+> **Art. 394 StPO — Ausschluss der Beschwerde**
+>
 > Die Beschwerde ist nicht zulässig:
+>
 > a. wenn die Berufung möglich ist;
+>
 > b. gegen die Ablehnung von Beweisanträgen durch die Staatsanwaltschaft oder die Übertretungsstrafbehörde, wenn der Antrag ohne Rechtsnachteil vor dem erstinstanzlichen Gericht wiederholt werden kann.
 
 ## Kommentierung
