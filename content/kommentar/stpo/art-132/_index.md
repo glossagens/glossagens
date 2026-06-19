@@ -2,7 +2,7 @@
 title: "Art. 132 StPO — Amtliche Verteidigung"
 weight: 132
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 132 StPO: Amtliche Verteidigung, Voraussetzungen, Subsidiarität, Bestellung, Kosten"
 tags: ["StPO", "amtliche Verteidigung", "Offizialverteidiger", "notwendige Verteidigung", "Bedürftigkeit", "Wahlverteidigung", "Kosten"]
 agent_verified: true
@@ -10,17 +10,19 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 132 StPO — Amtliche Verteidigung**
+> **Art. 132 — Amtliche Verteidigung**
 >
-> 1 Die beschuldigte Person erhält eine amtliche Verteidigung, wenn:
+> 1 Die Verfahrensleitung ordnet eine amtliche Verteidigung an, wenn:
 >
->   a. sie in einem Fall notwendiger Verteidigung nach Artikel 130 keine Wahlverteidigung bestimmt oder die Wahlverteidigung das Mandat niederlegt; oder
+>   a. bei notwendiger Verteidigung:
+>     1. die beschuldigte Person trotz Aufforderung der Verfahrensleitung keine Wahlverteidigung bestimmt,
+>     2. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die beschuldigte Person nicht innert Frist eine neue Wahlverteidigung bestimmt;
 >
->   b. sie nicht über die erforderlichen finanziellen Mittel verfügt und die Vertretung durch eine Verteidigung zur Wahrung ihrer Interessen geboten erscheint.
+>   b. die beschuldigte Person nicht über die erforderlichen Mittel verfügt und die Verteidigung zur Wahrung ihrer Interessen geboten ist.
 >
-> 2 Die Verfahrensleitung bestellt die amtliche Verteidigung unter Berücksichtigung der Wünsche der beschuldigten Person nach Artikel 133 Absatz 2.
+> 2 Zur Wahrung der Interessen der beschuldigten Person ist die Verteidigung namentlich geboten, wenn es sich nicht um einen Bagatellfall handelt und der Straffall in tatsächlicher oder rechtlicher Hinsicht Schwierigkeiten bietet, denen die beschuldigte Person allein nicht gewachsen wäre.
 >
-> 3 Die Kosten der amtlichen Verteidigung werden nach den Bestimmungen über die Verfahrenskosten getragen.
+> 3 Ein Bagatellfall liegt jedenfalls dann nicht mehr vor, wenn eine Freiheitsstrafe von mehr als 4 Monaten oder eine Geldstrafe von mehr als 120 Tagessätzen zu erwarten ist.
 
 ## Kommentierung
 
@@ -58,7 +60,9 @@ Beide Voraussetzungen müssen **kumulativ** erfüllt sein. Die Bestellung steht 
 - **Sprachliche und intellektuelle Fähigkeiten** des Beschuldigten: Fremdsprachigkeit oder mangelnde Bildung können die Gebotenheit begründen.
 - **Aussage-gegen-Aussage-Konstellationen**: Können eine amtliche Verteidigung rechtfertigen ([BGer 1B 205/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_205_2019)).
 
-### IV. Bestellung und Vorschlagsrecht (Abs. 2)
+Das Gesetz konkretisiert die Gebotenheit in **Art. 132 Abs. 2 StPO** (kein Bagatellfall sowie tatsächliche oder rechtliche Schwierigkeiten, denen die beschuldigte Person allein nicht gewachsen wäre) und zieht in **Abs. 3** eine Untergrenze: Ein Bagatellfall liegt jedenfalls nicht mehr vor, wenn eine **Freiheitsstrafe von mehr als 4 Monaten oder eine Geldstrafe von mehr als 120 Tagessätzen** zu erwarten ist.
+
+### IV. Bestellung und Vorschlagsrecht (Art. 133 StPO)
 
 **8** Die Verfahrensleitung bestellt die amtliche Verteidigung **unter Berücksichtigung der Wünsche** der beschuldigten Person nach Art. 133 Abs. 2 StPO. Das Vorschlagsrecht bedeutet:
 - Die beschuldigte Person kann eine **konkrete Person** vorschlagen, die als Offizialverteidiger bestellt werden soll.
@@ -73,7 +77,7 @@ Beide Voraussetzungen müssen **kumulativ** erfüllt sein. Die Bestellung steht 
 
 **11** **Wahlverteidigung kann nicht in amtliche umgewandelt werden**, ausser bei finanzieller Bedürftigkeit nach Abs. 1 lit. b StPO ([BGer 7B_1309/2024, E. 5.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_1309_2024); [BGE 139 IV 113, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_113#e-5-1)). Beschuldigte, die eine Wahlverteidigung haben, können nicht einseitig eine amtliche Verteidigung verlangen, um die Kosten der Wahlverteidigung dem Staat aufzubürden.
 
-### VI. Kosten der amtlichen Verteidigung (Abs. 3)
+### VI. Kosten der amtlichen Verteidigung (Art. 135 StPO)
 
 **12** Die Kosten der amtlichen Verteidigung werden nach den Bestimmungen über die **Verfahrenskosten** (Art. 135 StPO) getragen. In Fällen notwendiger Verteidigung (Abs. 1 lit. a) werden die Kosten **vom Staat vorläufig bevorschusst**. Nach Abschluss des Verfahrens entscheidet die Verfahrensleitung über die Überwälzung:
 - **Freispruch**: Kosten gehen zu Lasten des Staates.

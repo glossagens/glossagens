@@ -2,7 +2,7 @@
 title: "Art. 410 — Zulässigkeit und Revisionsgründe"
 weight: 410
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 410 StPO — Revision rechtskräftiger Entscheide: Zulässigkeit, Revisionsgründe, EMRK-Revision und Verjährung"
 tags: ["StPO", "Revision", "Rechtskraft", "EMRK"]
 agent_verified: true
@@ -18,7 +18,7 @@ agent_verified: true
 > c. sich in einem anderen Strafverfahren erweist, dass durch eine strafbare Handlung auf das Ergebnis des Verfahrens eingewirkt worden ist; eine Verurteilung ist nicht erforderlich; ist das Strafverfahren nicht durchführbar, so kann der Beweis auf andere Weise erbracht werden.
 >
 > **2** Die Revision wegen Verletzung der Konvention vom 4. November 1950<sup>SR 0.101</sup> zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) kann verlangt werden, wenn:
-> a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einrichtung (Art. 39 EMRK) abgeschlossen hat;
+> a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 > b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 > c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 >

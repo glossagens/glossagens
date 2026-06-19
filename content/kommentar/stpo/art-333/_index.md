@@ -2,7 +2,7 @@
 title: "Art. 333 — Änderung und Erweiterung der Anklage"
 weight: 333
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 333 StPO – Änderung und Erweiterung der Anklage im Hauptverfahren"
 tags: ["StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung"]
 agent_verified: true
@@ -16,7 +16,9 @@ agent_verified: true
 > 
 > ^2^ Werden während des Hauptverfahrens neue Straftaten der beschuldigten Person bekannt, so kann das Gericht der Staatsanwaltschaft gestatten, die Anklage zu erweitern.
 > 
-> ^3^ Eine Erweiterung ist ausgeschlossen, wenn dadurch das Verfahren über Gebühr erschwert oder die Zuständigkeit des Gerichts entfallen würde.
+> ^3^ Eine Erweiterung ist ausgeschlossen, wenn dadurch das Verfahren über Gebühr erschwert oder die Zuständigkeit des Gerichts ändern würde oder wenn ein Fall von Mittäterschaft oder Teilnahme vorliegt. In diesen Fällen leitet die Staatsanwaltschaft ein Vorverfahren ein.
+> 
+> ^4^ Das Gericht darf eine geänderte oder erweiterte Anklage seinem Urteil nur zu Grunde legen, wenn die Parteirechte der beschuldigten Person und der Privatklägerschaft gewahrt worden sind. Es unterbricht dafür nötigenfalls die Hauptverhandlung.
 
 ## Kommentierung
 
