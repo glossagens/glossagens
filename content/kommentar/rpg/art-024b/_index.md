@@ -1,8 +1,8 @@
 ---
 title: "Art. 24b RPG — Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen"
 weight: 242
-date: 2026-05-17
-lastmod: 2026-05-17
+date: 2026-06-20
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 24b RPG: Bewilligung betriebsnaher nichtlandwirtschaftlicher Nebenbetriebe in bestehenden Bauten ausserhalb der Bauzonen."
 tags: ["RPG", "Nebenbetrieb", "Landwirtschaftszone", "Zusatzeinkommen", "Bauen ausserhalb der Bauzonen", "betriebsnah"]
 agent_verified: true
