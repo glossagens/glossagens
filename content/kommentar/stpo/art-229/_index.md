@@ -1,5 +1,5 @@
 ---
-title: "Art. 229 — Entscheidung über die Anordnung der Sicherheitshaft"
+title: "Art. 229 — Entscheid über die Anordnung der Sicherheitshaft"
 weight: 229
 date: 2026-05-23
 lastmod: 2026-05-23

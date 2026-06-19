@@ -1,88 +1,139 @@
 ---
-title: "Art. 136 StPO — Widerruf der amtlichen Verteidigung"
+title: "Art. 136 StPO — Voraussetzungen"
 weight: 136
-date: 2026-06-12
-lastmod: 2026-06-12
-description: "Kommentar zu Art. 136 StPO: Widerruf und Entzug der amtlichen Verteidigung"
-tags: ["StPO", "Widerruf", "amtliche Verteidigung", "Offizialverteidiger", "Entzug"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 136 StPO – Voraussetzungen der unentgeltlichen Rechtspflege für Privatklägerschaft und Opfer"
+tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Voraussetzungen"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 136 StPO — Widerruf der amtlichen Verteidigung**
+> **Art. 136 StPO — Voraussetzungen**
 >
-> 1 Die Verfahrensleitung widerruft die Bestellung der amtlichen Verteidigung, wenn:
+> 1 Die Verfahrensleitung gewährt auf Gesuch ganz oder teilweise die unentgeltliche Rechtspflege:
 >
->   a. die Voraussetzungen nach Artikel 132 Absatz 1 nicht mehr gegeben sind; oder
+>   a. der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche, wenn sie nicht über die erforderlichen Mittel verfügt und die Zivilklage nicht aussichtslos erscheint;
 >
->   b. die beschuldigte Person die amtliche Verteidigung mutwillig behindert.
+>   b. dem Opfer für die Durchsetzung seiner Strafklage, wenn es nicht über die erforderlichen Mittel verfügt und die Strafklage nicht aussichtslos erscheint.
 >
-> 2 Sie kann die Bestellung widerrufen, wenn die beschuldigte Person die Zusammenarbeit mit der amtlichen Verteidigung verweigert.
+> 2 Die unentgeltliche Rechtspflege umfasst:
+>
+>   a. die Befreiung von Vorschuss- und Sicherheitsleistungen;
+>
+>   b. die Befreiung von den Verfahrenskosten;
+>
+>   c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
+>
+> 3 Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
+>
+> *Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Opferrechtsreform), in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).*
 
 ## Kommentierung
 
 ### I. Bedeutung und Funktion
 
-**1** Art. 136 StPO regelt den **Widerruf der amtlichen Verteidigung** als Gegenstück zur Bestellung nach Art. 132 StPO. Der Widerruf beendet das Mandatsverhältnis zwischen der beschuldigten Person und dem Offizialverteidiger. Die Norm unterscheidet zwischen einem **obligatorischen Widerruf** (Abs. 1) und einem **fakultativen Widerruf** (Abs. 2).
+**1** Art. 136 StPO regelt die **Voraussetzungen der unentgeltlichen Rechtspflege** für die Privatklägerschaft und das Opfer im Strafverfahren. Die Norm ist durch die Teilrevision der StPO vom 17. Juni 2022 (Opferrechtsreform) völlig neu gestaltet worden und trat am 1. Januar 2024 in Kraft (AS 2023 468). Sie löst die bisherige Regelung des Widerrufs der amtlichen Verteidigung ab, der nun in Art. 134 StPO geregelt ist.
 
-Der Widerruf dient dem Schutz des Staates vor missbräuchlicher Inanspruchnahme der unentgeltlichen Verteidigung und gleichzeitig der Gewährleistung, dass die Verteidigung tatsächlich wirksam ist. Er ist das Äquivalent zur Niederlegung der Wahlverteidigung (Art. 129 Abs. 3 StPO) im Bereich der amtlichen Verteidigung.
+**2** Die unentgeltliche Rechtspflege nach Art. 136 StPO dient der **Durchsetzung der Verfahrensrechte** von Privatklägerschaft und Opfer, die nicht über die erforderlichen finanziellen Mittel verfügen. Sie verfolgt einen doppelten Zweck: Einerseits sichert sie den **Zugang zum Gericht** (Art. 29 Abs. 3 BV, Art. 6 Ziff. 1 EMRK) für mittellose Verfahrensbeteiligte; andererseits gewährleistet sie eine **effektive Rechtsdurchsetzung** im Sinne der Opferrechte (Art. 29 Abs. 3 BV, Art. 2 Abs. 1 OHG, Art. 6 Ziff. 1 EMRK).
 
-### II. Obligatorischer Widerruf (Abs. 1 lit. a)
+**3** Die Regelung steht im systematischen Zusammenhang mit den **Art. 132–135 StPO** (amtliche Verteidigung der beschuldigten Person), den **Art. 137–138 StPO** (Entschädigung des Rechtsbeistands der Privatklägerschaft bzw. des Opfers) sowie dem **Opferhilfegesetz** (OHG). Während die Art. 132–135 die Verteidigung der beschuldigten Person betreffen, regelt Art. 136 erstmals einheitlich die unentgeltliche Rechtspflege für die Anklageseite — ein zentraler Forderung der Opferrechtsreform.
 
-**2** Die Verfahrensleitung **muss** die Bestellung widerrufen, wenn die Voraussetzungen nach Art. 132 Abs. 1 nicht mehr gegeben sind. Dies betrifft zwei Fallgruppen:
+### II. Unentgeltliche Rechtspflege für die Privatklägerschaft (Abs. 1 lit. a)
 
-**Wegfall der notwendigen Verteidigung (Art. 132 Abs. 1 lit. a):** Wenn der Fall notwendiger Verteidigung nach Art. 130 StPO wegfällt — z.B. weil die drohende Strafe sich im Verfahrensverlauf als geringer herausstellt als erwartet —, ist die amtliche Verteidigung obligatorisch zu widerrufen. Der Widerruf kann jedoch erst erfolgen, wenn die Voraussetzungen tatsächlich entfallen sind; eine blosse Veränderung der Einschätzung genügt nicht ([BGE 139 IV 113, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_113#e-5-1)).
+**4** Abs. 1 lit. a gewährt der **Privatklägerschaft** unentgeltliche Rechtspflege für die Durchsetzung ihrer **Zivilansprüche**. Die Privatklägerschaft im Sinne von Art. 111 Abs. 1 StPO ist die Person, die durch die Straftat direkt in ihren Rechtsgütern verletzt worden ist und im Strafverfahren Zivilansprüche geltend macht.
 
-**Wegfall der Bedürftigkeit (Art. 132 Abs. 1 lit. b):** Wenn die beschuldigte Person nachträglich über ausreichende finanzielle Mittel verfügt — z.B. durch Erbschaft, Lottogewinn oder erhebliche Einkommensverbesserung —, entfällt die Voraussetzung der finanziellen Bedürftigkeit. Die Verfahrensleitung muss die Bestellung widerrufen und die beschuldigte Person auf eine Wahlverteidigung verweisen.
+**5** **Kumulative Voraussetzungen.** Die Gewährung der unentgeltlichen Rechtspflege setzt kumulativ voraus:
 
-**3** Der Wegfall der Voraussetzungen ist **von Amtes wegen** zu prüfen. Die Verfahrensleitung hat die wirtschaftlichen Verhältnisse des Beschuldigten im Auge zu behalten und kann entsprechende Abklärungen anordnen. Ein Widerruf wegen Wegfalls der Bedürftigkeit setzt voraus, dass die beschuldigte Person ihre finanziellen Verhältnisse **substanziell und nachweislich** verbessert hat.
+1. **Gesuch**: Die Privatklägerschaft muss ein Gesuch einreichen (auf Gesuch, nicht von Amtes wegen).
+2. **Mittellosigkeit**: Die Privatklägerschaft verfügt nicht über die erforderlichen Mittel.
+3. **Nicht aussichtslose Zivilklage**: Die Zivilklage erscheint nicht aussichtslos.
 
-### III. Obligatorischer Widerruf bei mutwilliger Behinderung (Abs. 1 lit. b)
+**6** **Gesuch.** Die unentgeltliche Rechtspflege muss **beantragt** werden. Ein Amtes-weises Gewähren ist ausgeschlossen. Das Gesuch ist bei der Verfahrensleitung einzureichen und hat die Angabe der finanziellen Verhältnisse sowie die Darlegung der Anspruchsberechtigung zu enthalten. Die Verfahrensleitung kann die erforderlichen Unterlagen verlangen.
 
-**4** Die Bestellung ist ebenfalls obligatorisch zu widerrufen, wenn die beschuldigte Person die amtliche Verteidigung **mutwillig behindert**. Mutwillige Behinderung liegt vor, wenn der Beschuldigte die Zusammenarbeit mit dem Offizialverteidiger aktiv und vorsätzlich verhindert, insbesondere durch:
-- Systematische Verweigerung der Kontaktaufnahme
-- Behinderung der Verteidigungsarbeit durch Sabotage
-- Wiederholtes unentschuldigtes Fernbleiben von Terminen mit dem Verteidiger
+**7** **Mittellosigkeit.** Die Privatklägerschaft darf nicht über die erforderlichen Mittel verfügen. Die Beurteilung der Mittellosigkeit richtet sich nach den wirtschaftlichen Verhältnissen im massgeblichen Zeitpunkt der Beurteilung (Einkommen, Vermögen, Unterhaltspflichten, existenzsichernde Grundlagen). Die Massstäbe entsprechen sinngemäss denen bei der amtlichen Verteidigung (Art. 132 Abs. 1 lit. b StPO). Vermögenswerte, die für die Deckung des Lebensunterhalts oder die Sicherung des Existenzminimums benötigt werden, bleiben ausser Betracht.
 
-**5** Nicht mutwillig ist die Behinderung, wenn sie auf **Krankheit, unverschuldete Abwesenheit** oder anderen nicht selbst zu vertretenden Umständen beruht. Das Bundesgericht legt den Begriff der mutwilligen Behinderung **restriktiv** aus, um den verfassungsrechtlichen Anspruch auf effektive Verteidigung (Art. 29 Abs. 3 BV, Art. 6 Ziff. 3 lit. c EMRK) nicht zu unterlaufen.
+**8** **Nicht aussichtslose Zivilklage.** Die Zivilklage darf nicht aussichtslos erscheinen. Aussichtslosigkeit liegt vor, wenn die Klage offensichtlich keinen Erfolg verspricht — etwa weil der Anspruch offensichtlich nicht besteht, offensichtlich verjährt ist oder offensichtlich keine Beweismittel zur Verfügung stehen. Die Prüfung der Aussichtslosigkeit erfolgt anhand einer **Grobprüfung**: es genügt die Feststellung, dass die Klage nicht von vornherein aussichtslos ist. Es wird nicht verlangt, dass die Klage wahrscheinlich erfolgreich ist; die Erfolgswahrscheinlichkeit muss lediglich über Null liegen.
 
-### IV. Fakultativer Widerruf (Abs. 2)
+**9** **Ganz oder teilweise.** Die Verfahrensleitung kann die unentgeltliche Rechtspflege **ganz oder teilweise** gewähren. Eine teilweise Gewährung kommt insbesondere in Betracht, wenn die Privatklägerschaft zwar nicht völlig mittellos ist, aber die Verfahrenskosten einen unverhältnismässigen Teil ihres Einkommens oder Vermögens ausmachen würden.
 
-**6** Die Verfahrensleitung **kann** die Bestellung widerrufen, wenn die beschuldigte Person die Zusammenarbeit mit der amtlichen Verteidigung **verweigert**. Im Gegensatz zur mutwilligen Behinderung (Abs. 1 lit. b) genügt hier bereits die blosse Verweigerung der Zusammenarbeit, ohne dass eine aktive Behinderung vorliegen muss.
+### III. Unentgeltliche Rechtspflege für das Opfer (Abs. 1 lit. b)
 
-**7** Die Verweigerung der Zusammenarbeit kann sich äussern als:
-- Ausdrückliche Erklärung, nicht mehr mit dem Offizialverteidiger zusammenarbeiten zu wollen
-- Systematische Nichtbeachtung von Ratschlägen des Verteidigers
-- Verweigerung der Unterschrift unter prozessuale Erklärungen
+**10** Abs. 1 lit. b gewährt dem **Opfer** unentgeltliche Rechtspflege für die Durchsetzung seiner **Strafklage**. Diese Bestimmung ist das Kernstück der Opferrechtsreform 2022 und stellt eine wesentliche Stärkung der Opferrechte dar. Das Opfer im Sinne von Art. 111 Abs. 4 StPO i.V.m. Art. 1 OHG ist die Person, die durch eine Straftat direkt in seiner körperlichen, sexuellen oder psychischen Integrität verletzt worden ist.
 
-Der fakultative Widerruf steht im **Ermessen** der Verfahrensleitung. Sie muss abwägen zwischen dem Interesse an einer funktionierenden Verteidigung und dem Recht des Beschuldigten, sein Verteidigungsverhalten selbst zu bestimmen. Ein Widerruf kommt nur in Betracht, wenn die Zusammenarbeit **dauerhaft und nachhaltig** verweigert wird.
+**11** **Strafklage.** Der Begriff der Strafklage umfasst die Wahrnehmung der Opferrechte im Strafverfahren, insbesondere:
+- Die Ausübung der Rechte nach Art. 281–305 StPO (Rechte im Vorverfahren)
+- Die Teilnahme an der Hauptverhandlung
+- Die Stellung von Beweisanträgen
+- Die Anfechtung von Einstellungsentscheiden (Art. 309 StPO)
+- Die Geltendmachung der Opferrechte im Rechtsmittelverfahren
 
-### V. Verhältnis zum Wechsel nach Art. 134 StPO
+**12** **Kumulative Voraussetzungen.** Wie bei Abs. 1 lit. a setzt die Gewährung kumulativ voraus:
+1. **Gesuch** des Opfers
+2. **Mittellosigkeit** des Opfers
+3. **Nicht aussichtslose Strafklage**
 
-**8** Der Widerruf nach Art. 136 StPO ist vom **Wechsel nach Art. 134 StPO** zu unterscheiden:
-- **Wechsel** (Art. 134): Die amtliche Verteidigung wird durch eine andere Person ersetzt; das Mandatsverhältnis besteht weiter.
-- **Widerruf** (Art. 136): Die amtliche Verteidigung wird ganz aufgehoben; der Beschuldigte muss sich selbst verteidigen oder eine Wahlverteidigung beauftragen.
+**13** **Nicht aussichtslose Strafklage.** Die Strafklage darf nicht aussichtslos erscheinen. Der Massstab der Aussichtslosigkeit ist derselbe wie bei Abs. 1 lit. a (Grobprüfung). Aussichtslos ist eine Strafklage namentlich, wenn das Verfahren offensichtlich nicht weiterbetrieben werden kann — etwa weil der Sachverhalt offensichtlich nicht strafbar ist oder keine Beweismittel vorhanden sind. Die Prüfung erfolgt mit Zurückhaltung, um den Opferrechtsschutz nicht auszuhöhlen.
 
-Bei gestörtem Vertrauensverhältnis ist der **Wechsel** (Art. 134) der regelmässige Weg. Der **Widerruf** (Art. 136) ist nur bei Wegfall der Voraussetzungen oder bei mutwilliger Behinderung/Verweigerung angebracht.
+**14** **Abgrenzung zur Privatklägerschaft.** Das Opfer nach Abs. 1 lit. b muss nicht zwingend Privatklägerschaft im Sinne von Art. 111 Abs. 1 StPO sein. Abs. 1 lit. b gewährt dem Opfer unentgeltliche Rechtspflege für die **Strafklage**, unabhängig davon, ob es auch Zivilansprüche geltend macht. Ist das Opfer zugleich Privatklägerschaft, kann es unter beiden lit. a und b unentgeltliche Rechtspflege beantragen — lit. a für die Zivilansprüche, lit. b für die Strafklage.
 
-### VI. Verfahren und Rechtsmittel
+### IV. Umfang der unentgeltlichen Rechtspflege (Abs. 2)
 
-**9** Der Widerruf ist ein **Prozessleitungsbeschluss** (Art. 78 ff. StPO), der mit Beschwerde anfechtbar ist (Art. 393 ff. StPO). Die beschuldigte Person kann den Widerruf mit Beschwerde an die Beschwerdekammer des Obergerichts anfechten. Die Beschwerde hat **aufschiebende Wirkung** (Art. 398 Abs. 1 StPO), wenn die Voraussetzungen nach Art. 132 Abs. 1 nicht mehr gegeben sind.
+**15** Abs. 2 definiert den **Umfang** der unentgeltlichen Rechtspflege. Er nennt drei mögliche Bestandteile, die nicht zwingend alle gleichzeitig gewährt werden müssen:
 
-**10** Nach dem Widerruf kann die beschuldigte Person **erneut eine amtliche Verteidigung beantragen**, wenn die Voraussetzungen wieder vorliegen. Ein erneuter Antrag ist insbesondere dann zulässig, wenn sich die wirtschaftlichen Verhältnisse erneut verschlechtert haben oder ein neuer Fall notwendiger Verteidigung eintritt.
+**16** **Befreiung von Vorschuss- und Sicherheitsleistungen (lit. a).** Die Privatklägerschaft bzw. das Opfer wird von der Pflicht befreit, Vorschüsse oder Sicherheitsleistungen zu erbringen, die im Verfahren sonst geschuldet wären (z.B. Kostenvorschüsse nach Art. 108 StPO, Sicherheitsleistungen für Beweisführung). Diese Befreiung sichert den tatsächlichen Zugang zum Verfahren.
+
+**17** **Befreiung von den Verfahrenskosten (lit. b).** Die Privatklägerschaft bzw. das Opfer wird von den Verfahrenskosten befreit. Dies umfasst die Gerichtsgebühren und die Kosten des Verfahrens. Die Kostenbefreiung kann ganz oder teilweise erfolgen, je nach den wirtschaftlichen Verhältnissen.
+
+**18** **Bestellung eines Rechtsbeistands (lit. c).** Die Verfahrensleitung bestellt einen Rechtsbeistand, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers **notwendig** ist. Die Notwendigkeit ist ein unbestimmter Rechtsbegriff und richtet sich nach den Umständen des Einzelfalls:
+- **Komplexität des Sachverhalts**: Je komplexer, desto eher notwendig
+- **Schwere der Straftat**: Je schwerer, desto eher notwendig
+- **Sprachliche und intellektuelle Fähigkeiten** der Privatklägerschaft/des Opfers
+- **Aussage-gegen-Aussage-Konstellationen**: Können die Bestellung rechtfertigen
+- **Opfer vulnerabler Gruppen**: Bei sexualisierter Gewalt, häuslicher Gewalt, Menschenhandel etc. ist die Bestellung regelmässig notwendig
+
+**19** Die Bestellung nach lit. c ist **nicht** zwingend, sondern steht unter der Voraussetzung der Notwendigkeit. Hat die Privatklägerschaft oder das Opfer bereits einen Wahlvertreter, kommt die Bestellung eines unentgeltlichen Rechtsbeistands grundsätzlich nicht in Betracht — es sei denn, der Wahlvertreter ist offensichtlich nicht in der Lage, die Rechte wirksam wahrzunehmen.
+
+**20** **Ganz oder teilweise.** Die unentgeltliche Rechtspflege kann **ganz oder teilweise** gewährt werden (Abs. 1). Dies bedeutet, dass die Verfahrensleitung die drei Bestandteile (lit. a–c) nicht zwingend alle gewähren muss. Sie kann etwa nur die Kostenbefreiung (lit. b) gewähren, ohne einen Rechtsbeistand zu bestellen (lit. c), wenn die Wahrung der Rechte auch ohne anwaltliche Vertretung möglich ist.
+
+### V. Neuantrag im Rechtsmittelverfahren (Abs. 3)
+
+**21** Abs. 3 bestimmt, dass im **Rechtsmittelverfahren** die unentgeltliche Rechtspflege **neu zu beantragen** ist. Die Gewährung im ersten Rechtszug wirkt nicht automatisch für das Rechtsmittelverfahren.
+
+**22** **Sinn und Zweck.** Die Neuantragspflicht rechtfertigt sich durch den **Wechsel der Instanz** und die veränderten Verhältnisse im Rechtsmittelverfahren. Die Verfahrensleitung im Rechtsmittelverfahren muss die Voraussetzungen (Mittellosigkeit, Nichtaussichtslosigkeit) neu beurteilen, da sich die wirtschaftlichen Verhältnisse der Antragstellenden geändert haben können und die Aussichtslage im Rechtsmittelverfahren eine andere ist als im erstinstanzlichen Verfahren.
+
+**23** **Verfahren.** Das Gesuch ist bei der Verfahrensleitung des Rechtsmittelverfahrens einzureichen. Die Verfahrensleitung entscheidet über das Gesuch in einem **Prozessleitungsbeschluss** (Art. 78 ff. StPO). Gegen den Beschluss kann mit **Beschwerde** (Art. 393 ff. StPO) vorgegangen werden.
+
+**24** **Übergangsrecht.** Für Verfahren, die vor dem 1. Januar 2024 eingeleitet wurden und sich im Rechtsmittelverfahren befinden, stellt sich die Frage des Übergangsrechts. Nach dem Grundsatz der sofortigen Anwendung (Art. 2 StPO) ist das neue Recht auch auf laufende Verfahren anwendbar. Wer vor dem 1. Januar 2024 im erstinstanzlichen Verfahren unentgeltliche Rechtspflege erhalten hat, muss diese im Rechtsmittelverfahren nach dem neuen Recht neu beantragen.
+
+### VI. Verhältnis zu den Art. 137 und 138 StPO
+
+**25** Die **Entschädigung des Rechtsbeistands** der Privatklägerschaft richtet sich nach **Art. 137 StPO**, die Entschädigung des Rechtsbeistands des Opfers nach **Art. 138 StPO**. Art. 136 StPO regelt nur die **Voraussetzungen** der Gewährung; die Höhe und die Festsetzung der Entschädigung des bestellten Rechtsbeistands fallen in den Anwendungsbereich der Art. 137 und 138 StPO.
+
+**26** Das Verhältnis der drei Normen zueinander ist wie folgt:
+- **Art. 136 StPO**: Voraussetzungen der unentgeltlichen Rechtspflege (Gesuch, Mittellosigkeit, Nichtaussichtslosigkeit, Umfang)
+- **Art. 137 StPO**: Entschädigung des Rechtsbeistands der Privatklägerschaft
+- **Art. 138 StPO**: Entschädigung des Rechtsbeistands des Opfers
 
 ### VII. Abgrenzungen
 
 | Norm | Verhältnis zu Art. 136 StPO |
 |------|------------------------------|
-| Art. 132 StPO | Bestellung der amtlichen Verteidigung — Voraussetzungen |
-| Art. 134 StPO | Wechsel der amtlichen Verteidigung — Ersatz, nicht Aufhebung |
-| Art. 135 StPO | Kosten der amtlichen Verteidigung — nach Widerruf |
-| Art. 130 StPO | Notwendige Verteidigung — Wegfall als Widerrufsgrund |
-| Art. 29 Abs. 3 BV | Verfassungsrechtlicher Anspruch — restriktive Auslegung des Widerrufs |
+| Art. 132 StPO | Amtliche Verteidigung der beschuldigten Person — anderes Institut; betrifft die Verteidigung, nicht die Anklageseite |
+| Art. 134 StPO | Widerruf und Wechsel der amtlichen Verteidigung — frühere Regelung von Art. 136 aF (Widerruf) ist hierher verschoben |
+| Art. 135 StPO | Entschädigung der amtlichen Verteidigung — betrifft die beschuldigte Person, nicht Privatklägerschaft/Opfer |
+| Art. 137 StPO | Entschädigung des Rechtsbeistands der Privatklägerschaft — Folgevorschrift zu Art. 136 |
+| Art. 138 StPO | Entschädigung des Rechtsbeistands des Opfers — Folgevorschrift zu Art. 136 |
+| Art. 29 Abs. 3 BV | Verfassungsrechtlicher Hintergrund: Anspruch auf unentgeltliche Rechtspflege |
+| Art. 6 Ziff. 1 EMRK | Konventionsrechtlicher Hintergrund: Recht auf Zugang zu einem Gericht |
+| Art. 2 OHG | Verstärkung der Opferrechte; Massstab für die Stärkung des Opfers im Strafverfahren |
+
+**27** **Besondere Abgrenzung zu Art. 134 StPO.** Die frühere Fassung von Art. 136 StPO (Widerruf der amtlichen Verteidigung) ist durch die Revision vom 17. Juni 2022 **aufgehoben** worden. Der Inhalt der alten Norm (Widerruf und Wechsel) ist in **Art. 134 StPO** neu geregelt. Bundesgerichtsentscheide, die sich auf Alt-Art. 136 StPO beziehen, sind daher auf Art. 134 StPO umzudeuten. Für die neue Art. 136 StPO (Voraussetzungen der unentgeltlichen Rechtspflege) sind die Entscheide zu Art. 136 StPO nicht direkt anwendbar.
 
 ## Literatur
 
-- Donatsch/Hansjakob, in: Basler Kommentar, StPO, 3. Aufl. 2020, N. 1 ff. zu Art. 136 StPO
+- BBl 2019 6697 (Botschaft vom 28. Juni 2019 zur Änderung der Strafprozessordnung und des Opferhilfegesetzes)
+- AS 2023 468 (Bundesbeschluss vom 17. Juni 2022)
 - Heer, in: Commentary zu Art. 136 StPO, in: OnlineKommentar.ch (CC-BY-4.0)
+- Donatsch/Hansjakob, in: Basler Kommentar, StPO, 3. Aufl. 2020, N. 1 ff. zu Art. 136 StPO (Hinweis: Kommentierung bezieht sich auf die alte Fassung)

@@ -1,5 +1,5 @@
 ---
-title: "Art. 244 — Grundsatz der Durchsuchung"
+title: "Art. 244 — Grundsatz"
 weight: 244
 date: 2026-05-16
 lastmod: 2026-05-16

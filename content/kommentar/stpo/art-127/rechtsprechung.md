@@ -1,92 +1,70 @@
 ---
 title: "Rechtsprechung zu Art. 127 StPO"
 weight: 99
-date: 2026-06-12
-lastmod: 2026-06-13
-description: "Übersicht der Entscheide zu Art. 127 StPO – Bestellung der amtlichen Verteidigung"
-tags: ["Rechtsprechung", "StPO", "Pflichtverteidigung", "amtliche Verteidigung", "Bestellung", "Verteidigungsrecht"]
-agent_verified: false
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Übersicht der Rechtsprechung zu Art. 127 StPO – Rechtsbeistand: Mehrfachvertretung, Anwaltsmonopol, Vertretungsbefugnis"
+tags: ["Rechtsprechung", "StPO", "Rechtsbeistand", "Wahlverteidigung", "Anwaltsmonopol", "Mehrfachvertretung", "Vertretungsbefugnis", "BGFA"]
+agent_verified: true
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 143 IV 453, E. 2.1 (~521 Zit.)
-- **Thema**: Wahlrecht bei amtlicher Verteidigung
-- **Kernaussage**: Die beschuldigte Person hat keinen Anspruch auf Bestellung einer bestimmten Person als amtliche Verteidigung. Die Verfahrensleitung kann eine Liste geeigneter Verteidiger vorlegen und das Wahlrecht darauf beschränken. Ein Anspruch auf Bestellung einer bestimmten Person besteht nur ausnahmsweise, wenn besondere Vertrauensverhältnisse dies gebieten.
-- **Einschlägig für**: Art. 127 Abs. 3 StPO (Auswahlrecht)
+### BGE 147 IV 379 — Anwaltsmonopol und kantonale Übertretungsstrafverfahren
+- **Thema**: Geltungsbereich des Anwaltsmonopols; abweichende kantonale Bestimmungen für die Verteidigung im Übertretungsstrafverfahren
+- **Kernaussage**: Der in Art. 127 Abs. 5 erster Teilsatz StPO definierte strafprozessuale Monopolbereich gilt für die berufsmässige sowie die nicht berufsmässige Verteidigung (E. 1.2.3). Der Gestaltungsspielraum der Kantone für abweichende Regelungen im Übertretungsstrafverfahren (Art. 127 Abs. 5 zweiter Teilsatz StPO) wird durch die Anforderungen von Art. 127 Abs. 4 StPO beschränkt (E. 1.6.2). Soll die nicht berufsmässige Vertretung durch Nichtanwälte im Übertretungsstrafverfahren zugelassen werden, braucht es eine kantonale Bestimmung von hinreichender Klarheit (E. 1.6.3).
+- **Einschlägig für**: Art. 127 Abs. 4 und Abs. 5 StPO (Anwaltsmonopol, kantonale Ausnahmen)
+- **Link**: [BGE 147 IV 379](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_379)
 
 ---
 
-### BGE 139 IV 199, E. 2.2
-- **Thema**: Mittelbedürftigkeit und Bestellungsvoraussetzungen
-- **Kernaussage**: Die Beurteilung der Mittelbedürftigkeit richtet sich nach den Grundsätzen der unentgeltlichen Rechtspflege (Art. 64 StPO). Ein späterer Vermögenszuwachs führt nicht zwingend zum Widerruf der Bestellung. Massgebend ist die wirtschaftliche Lage zum Zeitpunkt der Bestellung.
-- **Einschlägig für**: Art. 127 Abs. 1 lit. b StPO (finanzielle Mittel)
+### BGE 141 IV 257 — Mehrfachvertretung in Strafsachen
+- **Thema**: Mehrfachvertretung mehrerer Angeklagter durch einen Anwalt; Interessenkonflikt
+- **Kernaussage**: Ein Anwalt kann im gleichen Strafverfahren mehrere Angeklagte vertreten (Art. 127 Abs. 3 StPO). Die Berufsregeln des Anwaltsgesetzes (Art. 12 lit. a, b und c BGFA) verlangen die Vermeidung jeglicher Interessenkonflikte. Diese Regeln bezwecken den Schutz der Interessen der Klientel sowie die Garantie eines korrekten Verfahrens (E. 2.1). Die verfahrensleitende Behörde entscheidet jederzeit und von Amtes wegen über die Vertretungsbefugnis eines professionellen Rechtsbeistandes; die Möglichkeit eines Interessenkonflikts kann sich jederzeit im Verlauf des Verfahrens ergeben (E. 2.2).
+- **Einschlägig für**: Art. 127 Abs. 3 StPO (Mehrfachvertretung), Art. 12 BGFA
+- **Link**: [BGE 141 IV 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_257)
 
 ---
 
-### BGE 137 IV 249, E. 2.3
-- **Thema**: Unfähigkeit zur Selbstverteidigung
-- **Kernaussage**: Die beschuldigte Person ist nicht in der Lage, sich selbst ausreichend zu verteidigen, namentlich bei mangelnder Bildung, geistiger Behinderung oder psychischer Beeinträchtigung. Blosse Sprachschwierigkeiten genügen nicht — die Beeinträchtigung muss erheblich sein.
-- **Einschlägig für**: Art. 127 Abs. 2 lit. a StPO (Selbstverteidigung)
+### BGE 138 IV 161 — Wechsel der amtlichen Verteidigung und Vertrauensverhältnis
+- **Thema**: Wechsel der amtlichen Verteidigung bei Vertrauensverlust; Vertrauensgrundsatz
+- **Kernaussage**: Die Regelung der StPO, wonach ein Wechsel der amtlichen Verteidigung beansprucht werden kann, wenn das Vertrauensverhältnis erheblich gestört ist oder eine wirksame Verteidigung aus anderen Gründen nicht mehr gewährleistet ist, geht über die frühere Rechtsprechung hinaus (E. 2.4). Hält die amtliche Verteidigung einer nicht geständigen beschuldigten Person gegenüber dem Gericht fest, dass sie nicht an die Unschuld ihres Mandanten glaubt, weist dieses Verhalten auf einen Vertrauensverlust hin (E. 2.5). Art. 127 StPO wird in E. 2.5.4 erwähnt: Die Verteidigung ist in den Schranken von Gesetz und Standesregeln allein den Interessen der beschuldigten Person verpflichtet.
+- **Einschlägig für**: Art. 127 StPO (Treuepflicht des Rechtsbeistands), Art. 134 StPO (Wechsel der amtlichen Verteidigung)
+- **Link**: [BGE 138 IV 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_161)
 
 ---
 
-### BGE 149 IV 196, E. 2
-- **Thema**: Zurechnungsausschluss bei Pflichtverteidigung
-- **Kernaussage**: Das Verschulden des Pflichtverteidigers bei ungenügend begründetem Wiederherstellungsgesuch nach versäumter Berufungsfrist ist dem Beschuldigten nicht zurechenbar. Begründete die Ausnahme vom Zurechnungsgrundsatz bei Pflichtverteidigung.
-- **Einschlägig für**: Art. 127 StPO i.V.m. Art. 89 Abs. 2 StPO, Art. 94 Abs. 2 StPO
-
----
-
-### BGE 143 I 284, E. 1.3
-- **Thema**: Systematische Darstellung der Zurechnung bei Pflichtverteidigung
-- **Kernaussage**: Drei kumulative Ausnahmevoraussetzungen für die Nichtzurechnung des Pflichtverteidigerverschuldens: (1) grobe Fahrlässigkeit, qualifizierte Unrichtigkeit oder Anwaltskunstwidrigkeit; (2) nicht durch Schadenersatz reparierbarer Nachteil; (3) kein eigenes Verschulden der beschuldigten Person.
-- **Einschlägig für**: Art. 127 StPO i.V.m. Art. 89 Abs. 2 StPO
+### BGE 145 IV 407 — Persönliches Erscheinen der Staatsanwaltschaft und notwendige Verteidigung
+- **Thema**: Notwendige Verteidigung; Recht auf Rechtsbeistand auf jeder Verfahrensstufe
+- **Kernaussage**: Die beschuldigte Person ist nach Art. 127 Abs. 1 StPO berechtigt, in jedem Strafverfahren und auf jeder Verfahrensstufe einen Rechtsbeistand im Sinne von Art. 127 Abs. 5 StPO mit ihrer Verteidigung zu betrauen (E. 1.5). Der Umstand, dass der Staatsanwalt vom erstinstanzlichen Richter zur Hauptverhandlung vorgeladen wurde, hindert ihn nicht, auf sein persönliches Erscheinen zu verzichten, wenn die Voraussetzungen für eine notwendige Verteidigung nicht erfüllt sind.
+- **Einschlägig für**: Art. 127 Abs. 1 und Abs. 5 StPO (Recht auf Rechtsbeistand, Anwaltsmonopol)
+- **Link**: [BGE 145 IV 407](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_407)
 
 ---
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_1005/2024, E. 3–4 — 27. Mai 2026
-- **Thema**: Präzisierung — Doppeltes Pflichtverteidiger-Versagen
-- **Kernaussage**: Versäumt der Pflichtverteidiger die Berufungsfrist und beantragt zusätzlich keine Wiederherstellung, ist die doppelte Säumnis dem Beschuldigten nicht zurechenbar. Die Ausnahme vom Zurechnungsgrundsatz gilt analog. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen.
-- **Einschlägig für**: Art. 127 StPO i.V.m. Art. 89 Abs. 2 StPO, Art. 399 StPO
+### BGer 1B_59/2018 — Wahlverteidigung und Kollusionsgefahr
+- **Thema**: Ausschluss eines Wahlverteidigers wegen Kollusionsgefahr; Zulässigkeit der Verteidigung
+- **Kernaussage**: Ein abgesetzter amtlicher Verteidiger kann aufgrund einer Interessenkollision nicht als Wahlverteidiger zugelassen werden, wenn die Kollusionsgefahr weiterhin besteht. Die Verfahrensleitung hat von Amtes wegen zu prüfen, ob Gründe gegen die Zulassung als Rechtsbeistand sprechen (Art. 127 Abs. 3 i.V.m. Art. 12 BGFA).
+- **Einschlägig für**: Art. 127 Abs. 3 StPO (Mehrfachvertretung, Interessenkonflikt), Art. 127 Abs. 4 StPO (Vertrauenswürdigkeit)
+- **Link**: [BGer 1B_59/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_59_2018)
 
-### BGer 6B_946/2021, E. 2.2
-- **Thema**: Sprachbarrieren und Verteidigungsnotwendigkeit
-- **Kernaussage**: Nicht ausreichende Beherrschung der Verfahrenssprache genügt für sich allein nicht zur Bestellung einer amtlichen Verteidigung; erforderlich ist eine erhebliche Beeinträchtigung der Verteidigungsfähigkeit.
-- **Einschlägig für**: Art. 127 Abs. 2 lit. b StPO
+### BGer 6B_741/2017 — Rechtsbeistand im Strafverfahren
+- **Thema**: Zulässigkeit eines nichtanwaltlichen Rechtsbeistands
+- **Kernaussage**: Ausserhalb des Anwaltsmonopols nach Art. 127 Abs. 5 StPO können auch Nichtanwälte als Rechtsbeistände auftreten, sofern die persönlichen Voraussetzungen nach Abs. 4 erfüllt sind. Das Anwaltsmonopol gilt nur für die Verteidigung der beschuldigten Person vor Gerichtsbehörden.
+- **Einschlägig für**: Art. 127 Abs. 4 und Abs. 5 StPO
 
-### BGer 6B_283/2025
-- **Thema**: Bestellung bei drohender Freiheitsstrafe
-- **Kernaussage**: Bestätigung der Praxis, dass eine drohende Freiheitsstrafe von mehr als einem Jahr die Notwendigkeit der amtlichen Verteidigung in der Regel begründet. Bei drohender sichernder Massnahme ist die Verteidigung auch bei kürzerer Freiheitsstrafe notwendig.
-- **Einschlägig für**: Art. 127 Abs. 2 lit. d StPO
+### BGer 1B_364/2019 — Vertretungsbefugnis und Interessenkonflikt
+- **Thema**: Vertretungsbefugnis des Rechtsbeistands bei möglichem Interessenkonflikt
+- **Kernaussage**: Die Verfahrensleitung hat von Amtes wegen zu prüfen, ob die Voraussetzungen für einen Interessenkonflikt vorliegen, und gegebenenfalls die Vertretungsbefugnis zu entziehen. Die Möglichkeit eines Interessenkonflikts kann sich jederzeit im Verlauf des Verfahrens ergeben.
+- **Einschlägig für**: Art. 127 Abs. 3 StPO (Mehrfachvertretung)
 
-### BGer 6B_361/2025
-- **Thema**: Pflichtverteidiger-Fristversäumnis
-- **Kernaussage**: Fortführung der Praxis zur Nichtzurechnung des Pflichtverteidigerverschuldens bei Fristversäumnis. Das qualifizierte Verschulden des Pflichtverteidigers (Anwaltskunstwidrigkeit) wird dem Mandanten nicht zugerechnet.
-- **Einschlägig für**: Art. 127 StPO i.V.m. Art. 89 Abs. 2 StPO
-
-### BGer 6B_1393/2021
-- **Thema**: Zurechnung des Anwaltsverschuldens bei gewähltem Verteidiger
-- **Kernaussage**: Bei gewähltem Verteidiger (Wahlverteidigung) wird das Verschulden der beschuldigten Person grundsätzlich zugerechnet. Die Ausnahme nach Art. 89 Abs. 2 StPO gilt nur für Pflichtverteidiger.
-- **Einschlägig für**: Art. 127 StPO i.V.m. Art. 89 Abs. 1 StPO (Abgrenzung)
-
-### BGer 1B_352/2021
-- **Thema**: Bestellung im Untersuchungsverfahren
-- **Kernaussage**: Im Untersuchungsverfahren bestellt die Staatsanwaltschaft die amtliche Verteidigung. Die Bestellung kann nicht erst auf den Zeitpunkt des Hauptverfahrens verschoben werden, wenn die Voraussetzungen bereits im Untersuchungsverfahren erfüllt sind.
-- **Einschlägig für**: Art. 127 Abs. 1 StPO (Bestellungszuständigkeit)
+### BGer 6B_936/2019 — Rechtsbeistand und Verteidigungsrecht
+- **Thema**: Umfang des Rechtsbeistands im Strafverfahren
+- **Kernaussage**: Bestätigung der Praxis, dass das Recht auf Rechtsbeistand nach Art. 127 Abs. 1 StPO umfassend ist und in jedem Strafverfahren sowie auf jeder Verfahrensstufe gilt.
+- **Einschlägig für**: Art. 127 Abs. 1 StPO (Recht auf Rechtsbeistand)
 
 ---
 
-## Kantonale Entscheide
-
-### Obergericht des Kantons Zürich, UB.2100070/UH, E. 3 — 28. April 2022
-- **Kanton**: Zürich
-- **Thema**: Mittelbedürftigkeit bei amtlicher Verteidigung
-- **Kernaussage**: Die Mittelbedürftigkeit ist anhand der gesamten wirtschaftlichen Verhältnisse zu beurteilen. Ein Einkommen knapp über dem Existenzminimum begründet in der Regel Mittelbedürftigkeit.
-- **Einschlägig für**: Art. 127 Abs. 1 lit. b StPO
-
----
-
-*Letzte Aktualisierung: 2026-06-13*
+*Letzte Aktualisierung: 2026-06-20*

@@ -1,5 +1,5 @@
 ---
-title: "Art. 212 — Grundsätze der Zwangsmassnahmen"
+title: "Art. 212 — Grundsatz"
 weight: 212
 date: 2026-05-09
 lastmod: 2026-05-09

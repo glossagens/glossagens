@@ -1,5 +1,5 @@
 ---
-title: "Art. 221 — Voraussetzungen für Untersuchungs- und Sicherheitshaft"
+title: "Art. 221 — Voraussetzungen"
 weight: 221
 date: 2026-05-17
 lastmod: 2026-05-17

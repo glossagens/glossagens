@@ -1,5 +1,5 @@
 ---
-title: "Art. 56 — Ausstand"
+title: "Art. 56 — Ausstandsgründe"
 weight: 56
 date: 2026-06-18
 lastmod: 2026-06-18
