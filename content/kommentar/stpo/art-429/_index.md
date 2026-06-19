@@ -1,74 +1,86 @@
 ---
-title: "Art. 429 — Entschädigung für ungenügende Verfahrensdauer"
+title: "Art. 429 — Ansprüche"
 weight: 429
-date: 2026-06-13
-lastmod: 2026-06-13
-description: "Kommentar zu Art. 429 StPO – Entschädigung bei Verletzung des Rechts auf Umgang ohne verzögerungslose Verfahren, Voraussetzungen, Bemessung, Verfahren"
-tags: ["StPO", "Verfahrensdauer", "Beschleunigungsgebot", "Entschädigung", "EMRK", "Art. 5 Abs. 4", "Recht auf richterliche Überprüfung"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 429 StPO – Ansprüche der beschuldigten Person bei Freispruch oder Nichtanhandnahme: Entschädigung, Genugtuung und Rehabilitation"
+tags: ["StPO", "Ansprüche", "Entschädigung", "Genugtuung", "Freispruch", "Rehabilitation", "Kostenauflage", "Wiedergutmachung"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 429** Entschädigung für ungenügende Verfahrensdauer
+> **Art. 429** Ansprüche
 >
-> 1 Wird die Dauer eines Strafverfahrens als ungenügend im Sinne von Artikel 5 Ziff. 4 EMRK oder Artikel 6 Ziff. 1 EMRK qualifiziert, so hat die beschuldigte Person Anspruch auf eine angemessene Entschädigung.
+> 1 Wird die beschuldigte Person ganz oder teilweise freigesprochen oder wird das Verfahren gegen sie nicht weitergeführt, so hat sie Anspruch auf:
 >
-> 2 Die Entschädigung wird von Amtes wegen oder auf Antrag der beschuldigten Person zugesprochen.
+> a. Entschädigung ihrer Verteidigungskosten nach Artikel 431;
 >
-> 3 Die Entschädigung bemisst sich nach den Umständen des Einzelfalls, insbesondere nach der Dauer der Verfahrensverzögerung und der Schwere der Beeinträchtigung der beschuldigten Person.
+> b. Genugtuung für den ihr durch das Verfahren entstandenen besonderen persönlichen Nachteil, namentlich für die erlittene Freiheitsentziehung nach Artikel 432.
 >
-> 4 Der Anspruch auf Entschädigung muss im Strafverfahren geltend gemacht werden, sobald die beschuldigte Person von der ungenügenden Verfahrensdauer Kenntnis nimmt. Vorbehalten bleibt die Geltendmachung vor dem Europäischen Gerichtshof für Menschenrechte.
+> 2 Ist die beschuldigte Person teilweise freigesprochen oder wird das Verfahren nur teilweise nicht weitergeführt, so verringert sich der Anspruch nach Absatz 1 entsprechend.
 >
-> 5 Der Anspruch auf Entschädigung entfällt, wenn die beschuldigte Person die Verzögerung verursacht oder wesentlich dazu beigetragen hat.
+> 3 Auf die Ansprüche nach den Absätzen 1 und 2 kann verzichtet werden. Der Verzicht ist erst nach Abschluss des Verfahrens möglich und bedarf der Schriftform.
 
 ## Kommentierung
 
-### I. Bedeutung und Systematik
+### I. Bedeutung und systematische Stellung
 
-**1** Art. 429 StPO setzt die EMRK-Vorgaben zur angemessenen Entschädigung bei übermässiger Verfahrensdauer im Schweizer Strafprozessrecht um. Die Norm verweist auf **Art. 5 Ziff. 4 EMRK** (Recht auf richterliche Überprüfung der Haft) und **Art. 6 Ziff. 1 EMRK** (Recht auf Verfahren innerhalb angemessener Frist) und gewährt der beschuldigten Person einen Anspruch auf finanzielle Kompensation, wenn die Dauer des Strafverfahrens als ungenügend qualifiziert wird.
+**1** Art. 429 StPO regelt die **Ansprüche** der beschuldigten Person, die ganz oder teilweise freigesprochen wird oder gegen die das Verfahren nicht weitergeführt wird. Die Norm steht im 3. Abschnitt (Art. 429–433) des 12. Kapitels der StPO (Vollstreckung, Kosten und Entschädigung) und bildet die Grundnorm für die finanzielle Wiedergutmachung ungerechtfertigter strafrechtlicher Inanspruchnahme.
 
-**2** Die Norm steht im Zusammenhang mit dem **Beschleunigungsgebot** (Art. 5 Abs. 1 StPO i.V.m. Art. 29 Abs. 1 BV, Art. 6 Ziff. 1 EMRK) und bildet das letzte Glied in der Kette rechtlicher Schutzmechanismen: Beschleunigungsrüge (Art. 5 Abs. 1 StPO) → Supervisionsbeschwerde → Entschädigung nach Art. 429 StPO → Individualbeschwerde nach Strasbourg.
+**2** Die Bestimmung unterscheidet zwei Hauptansprüche:
+- **lit. a**: Entschädigung der Verteidigungskosten (verwiesen auf Art. 431 StPO)
+- **lit. b**: Genugtuung für den besonderen persönlichen Nachteil, namentlich für Freiheitsentziehung (verwiesen auf Art. 432 StPO)
+
+Damit schafft Art. 429 StPO einen subsidiären Anspruch auf Wiedergutmachung für den Fall, dass der Staat eine Person strafrechtlich verfolgt hat, ohne dass dies zu einer Verurteilung geführt hat. Der Grundsatz lautet: Wer freigesprochen wird, soll nicht die Kosten eines Verfahrens tragen, das sich als unbegründet erwiesen hat (BBl 2006 1085, 1229).
+
+**3** **Abgrenzung zu Art. 429a StPO**: Art. 429 regelt die Ansprüche bei Freispruch oder Nichtweiterführung, während Art. 429a die Entschädigung bei ungenügender Verfahrensdauer (übermässige Verfahrensdauer nach Art. 5 Ziff. 4 und Art. 6 Ziff. 1 EMRK) zum Gegenstand hat. Die beiden Normen stehen nebeneinander und können kumulativ zur Anwendung gelangen.
 
 ### II. Voraussetzungen (Abs. 1)
 
-**3** **Ungenügende Verfahrensdauer**. Die Dauer des Strafverfahrens muss als ungenügend im Sinne der EMRK qualifiziert werden. Die Beurteilung erfolgt nach den Kriterien der EMRK-Rechtsprechung, namentlich nach der Rechtsprechung des EGMR zu Art. 6 Ziff. 1 EMRK (Komplexität, Verhalten der Behörden, Verhalten der beschuldigten Person, Bedeutung der Streitsache für den Betroffenen). Das Bundesgericht wendet diese Kriterien in ständiger Praxis an ([BGE 146 IV 273](https://www.bger.ch/ext/eurospider/live/de/php/clip/http://www.bger.ch/fr/nav/getInstance/1_0_for_text_only_mode/1_00_for_single_lang/1_00_for_single_rect/_0/146_IV_273) E. 5.2).
+**4** **Freispruch oder Nichtweiterführung**. Die Anspruchsvoraussetzung ist ein vollständiger oder teilweiser Freispruch oder die Einstellung/Nichteintretenserklärung. Massgeblich ist, dass das Verfahren für die beschuldigte Person keinen Schuldspruch zur Folge hat. Der Anspruch entsteht erst mit dem rechtskräftigen Abschluss des Verfahrens (Abs. 3).
 
-**4** **Art. 5 Ziff. 4 EMRK (Haftfälle)**. Bei der Untersuchungshaft verlangt Art. 5 Ziff. 4 EMRK, dass über die Rechtmässigkeit der Haft innerhalb angemessener Frist entschieden wird. Wird diese Frist überschritten, hat die beschuldigte Person Anspruch auf Entschädigung nach Art. 429 StPO. Die Massstäbe für die Angemessenheit sind im Haftrecht strenger als im allgemeinen Verfahrensrecht.
+**5** **Ganz oder teilweise freigesprochen**. Ein vollständiger Freispruch löst den vollen Anspruch nach Abs. 1 aus. Ein teilweiser Freispruch führt zu einer entsprechenden Reduktion nach Abs. 2. Ob ein Teilsfreispruch vorliegt, bestimmt sich nach dem Verhältnis zwischen Anklage und Schuldspruch: Wird die beschuldigte Person nur bezüglich einzelner Anklagepunkte verurteilt und bezüglich anderer freigesprochen, so liegt ein Teilfreispruch im Sinne von Abs. 2 vor.
 
-**5** **Art. 6 Ziff. 1 EMRK (allgemeine Verfahrensdauer)**. Ausserhalb der Haftfälle beurteilt sich die Verfahrensdauer nach Art. 6 Ziff. 1 EMRK. Das Bundesgericht hat in ständiger Praxis anerkannt, dass eine Gesamtdauer von mehr als sechs bis acht Jahren bei Strafverfahren in der Regel als übermässig zu qualifizieren ist, sofern keine aussergewöhnlichen Komplexitätsgründe vorliegen.
+**6** **Verfahren wird nicht weitergeführt**. Dies umfasst die Einstellung des Verfahrens (Art. 310 ff. StPO), das Nichtweiterführungsverfahren (Art. 8 StPO) und die Nichtanhandnahme (Art. 309 StPO). Auch hier gilt: Das Verfahren muss tatsächlich beendet sein; ein blosser vorläufiger Stillstand genügt nicht.
 
-### III. Verfahren (Abs. 2)
+#### a) Entschädigung der Verteidigungskosten (lit. a)
 
-**6** **Von Amtes wegen oder auf Antrag**. Die Entschädigung kann von Amtes wegen zugesprochen werden, was bedeutet, dass das Gericht auch ohne ausdrücklichen Antrag der beschuldigten Person tätig werden muss, wenn ihm die übermässige Verfahrensdauer bekannt ist. In der Praxis wird ein Antrag in der Regel erforderlich sein, damit das Gericht die Höhe der Entschädigung bemessen kann.
+**7** Die Entschädigung der Verteidigungskosten richtet sich nach Art. 431 StPO. Art. 429 lit. a StPO verweist auf diese Bestimmung und begründet den Anspruch bei Freispruch oder Nichtweiterführung. Die Voraussetzungen und die Bemessung der Entschädigung sind in Art. 431 StPO geregelt.
 
-### IV. Bemessung (Abs. 3)
+#### b) Genugtuung für besonderen persönlichen Nachteil (lit. b)
 
-**7** **Bemessungskriterien**. Die Entschädigung bemisst sich nach den Umständen des Einzelfalls. Das Bundesgericht nennt als massgebende Kriterien:
-- Die **Dauer der Verfahrensverzögerung**: Je länger die übermässige Dauer, desto höher die Entschädigung.
-- Die **Schwere der Beeinträchtigung**: Freiheitsentzug wiegt schwerer als blosse psychische Belastung.
-- Die **persönlichen Verhältnisse** der beschuldigten Person: Alter, Gesundheitszustand, wirtschaftliche Situation.
+**8** Die Genugtuung für den besonderen persönlichen Nachteil, namentlich für die erlittene Freiheitsentziehung, richtet sich nach Art. 432 StPO. Art. 429 lit. b StPO verweist auf diese Bestimmung. Der Anspruch auf Genugtuung geht über die blosse Kostendeckung hinaus und soll den immateriellen Schaden ausgleichen, der der beschuldigten Person durch das Verfahren entstanden ist.
 
-**8** Die Entschädigungssummen sind in der Schweizer Praxis tendenziell **modest** und bewegen sich typischerweise im Bereich von CHF 500 bis CHF 5'000 für übermässige Verfahrensdauer ohne Haft, und bis zu CHF 10'000 bis CHF 20'000 bei übermässiger Haftdauer. Der EGMR spricht in Strassburg deutlich höhere Beträge zu.
+**9** **Freiheitsentziehung** ist der gesetzlich genannte Regelfall eines besonderen persönlichen Nachteils. Dazu gehören Untersuchungshaft (Art. 212 ff. StPO), Sicherheitshaft (Art. 221 ff. StPO) und andere Formen des Freiheitsentzugs im Strafverfahren. Nicht unter lit. b fallen blosse Vermögensnachteile (diese sind Gegenstand der Parteientschädigung nach Art. 431) oder allgemeine Verfahrenslasten.
 
-### V. Rügepflicht und Ausschluss (Abs. 4 und 5)
+### III. Teilfreispruch und teilweise Nichtweiterführung (Abs. 2)
 
-**9** **Rügepflicht (Abs. 4)**. Der Anspruch auf Entschädigung muss im Strafverfahren geltend gemacht werden, sobald die beschuldigte Person von der ungenügenden Verfahrensdauer Kenntnis nimmt. Die Rügepflicht soll verhindern, dass die beschuldigte Person sich auf die übermässige Dauer beruft, ohne den Behörden Gelegenheit zu geben, das Verfahren zu beschleunigen.
+**10** **Reduktion des Anspruchs**. Bei einem Teilfreispruch oder bei teilweiser Nichtweiterführung verringert sich der Anspruch entsprechend. Die Reduktion erfolgt nach dem Verhältnis zwischen freigesprochenen und verurteilten Anklagepunkten. Dabei ist nicht nur auf die Zahl der Anklagepunkte abzustellen, sondern auf deren Gewichtigkeit im Gesamtzusammenhang des Verfahrens.
 
-**10** **Vorbehalt des EGMR**. Die Geltendmachung vor dem Europäischen Gerichtshof für Menschenrechte bleibt vorbehalten. Dies bedeutet, dass die beschuldigte Person nach Erschöpfung des innerstaatlichen Rechtswegs weiterhin die Möglichkeit hat, eine Individualbeschwerde nach Art. 34 EMRK einzureichen.
+**11** Das Bundesgericht hat wiederholt darauf hingewiesen, dass die Reduktion nach Abs. 2 nicht mechanisch nach der Zahl der Anklagepunkte vorzunehmen ist, sondern eine gesamthafte Würdigung des Verhältnisses zwischen dem freigesprochenen und dem verurteilten Teil erforderlich ist (BGE 140 IV 265, E. 3.1). Massgebend ist, wie stark die freigesprochenen Vorwürfe das Verfahren geprägt haben und wie viel Aufwand sie verursacht haben.
 
-**11** **Selbstverursachung (Abs. 5)**. Der Anspruch entfällt, wenn die beschuldigte Person die Verzögerung verursacht oder wesentlich dazu beigetragen hat. Dies umfasst insbesondere das Einreichen von zahlreichen sachfremden Eingaben, das Herbeiführen von Ausstandsverfahren ohne sachlichen Grund, oder die Verzögerung der Verfahrensführung durch unkooperatives Verhalten. Eine bloße Verteidigungstätigkeit reicht jedoch nicht aus, um den Entschädigungsanspruch auszuschliessen.
+### IV. Verzicht (Abs. 3)
 
-### VI. Abgrenzungen
+**12** **Verzichtsmöglichkeit**. Auf die Ansprüche nach Abs. 1 und 2 kann verzichtet werden. Der Verzicht ist eine einseitige, empfangsbedürftige Willenserklärung der beschuldigten Person und muss gegenüber der zuständigen Behörde abgegeben werden.
 
-**12** **Art. 5 Abs. 1 StPO** (Beschleunigungsgebot) verpflichtet die Behörden, das Verfahren ohne verzögerungslosen Abschluss durchzuführen. Art. 429 StPO gewährt demgegenüber die finanzielle Kompensation, wenn das Beschleunigungsgebot bereits verletzt ist.
+**13** **Zeitpunkt des Verzichts**. Der Verzicht ist erst nach Abschluss des Verfahrens möglich. Ein vorab erklärter Verzicht — etwa in einem Vergleich oder einer Vereinbarung während des laufenden Verfahrens — ist nichtig. Dies dient dem Schutz der beschuldigten Person, die unter dem Eindruck des Verfahrens nicht über ihre Ansprüche disponieren soll.
 
-**13** **Art. 431 StPO** (Parteientschädigung) regelt die Entschädigung der beschuldigten Person für die Kosten der Verteidigung. Art. 429 StPO betrifft demgegenüber die Kompensation für die übermässige Dauer des Verfahrens als solche.
+**14** **Schriftform**. Der Verzicht bedarf der Schriftform. Mündliche Verzichtserklärungen sind unbeachtlich. Die Schriftform dient der Klarheit und der Nachvollziehbarkeit und soll sicherstellen, dass die beschuldigte Person sich der Tragweite ihres Verzichts bewusst ist.
 
-**14** **EMRK Art. 41** (Gerechte Entschädigung). Auf der Ebene des EGMR kann die beschuldigte Person nach Art. 41 EMRK eine gerechte Entschädigung für die Verletzung von Art. 5 Ziff. 4 oder Art. 6 Ziff. 1 EMRK verlangen. Art. 429 StPO bietet die innerstaatliche Möglichkeit, diesen Anspruch bereits im Strafverfahren geltend zu machen.
+### V. Verhältnis zu anderen Anspruchsgrundlagen
+
+**15** **Art. 429a StPO** (Entschädigung für ungenügende Verfahrensdauer) regelt einen eigenständigen Anspruch, der neben den Ansprüchen nach Art. 429 geltend gemacht werden kann. Art. 429a betrifft die Kompensation für übermässige Verfahrensdauer (Art. 5 Ziff. 4 und Art. 6 Ziff. 1 EMRK), während Art. 429 die Wiedergutmachung für ungerechtfertigte strafrechtliche Verfolgung zum Gegenstand hat.
+
+**16** **Art. 431 StPO** (Parteientschädigung) regelt die Einzelheiten der Entschädigung der Verteidigungskosten, auf die Art. 429 lit. a verweist.
+
+**17** **Art. 432 StPO** (Genugtuung) regelt die Einzelheiten der Genugtuung für Freiheitsentziehung und andere besondere persönliche Nachteile, auf die Art. 429 lit. b verweist.
+
+**18** **Zivilrechtliche Ansprüche**. Neben den strafprozessualen Ansprüchen nach Art. 429 können zivilrechtliche Schadenersatzansprüche nach Art. 41 ff. OR gegen den Staat oder einzelne Beamte in Betracht kommen. Die strafprozessualen Ansprüche gehen den zivilrechtlichen jedoch nicht vor; sie bestehen nebeneinander. Die strafprozessuale Genugtuung nach Art. 429 lit. b i.V.m. Art. 432 ist jedoch die einfachere und schnellere Möglichkeit der Wiedergutmachung.
 
 ## Literatur
 
 - **Donatsch/Hanser**, Strafprozessrecht, 10. Aufl. 2023, § 22 N. 65 ff.
 - **Gless/Lohse**, Schweizerisches Strafprozessrecht, 3. Aufl. 2022, § 33 N. 12 ff.
-- **Heimgartner**, Die Entschädigung für ungenügende Verfahrensdauer nach Art. 429 StPO, in: ZStrR 2021, 289 ff.
+- **Heimgartner**, Die Entschädigung für ungenügende Verfahrensdauer nach Art. 429a StPO, in: ZStrR 2021, 289 ff.
+- **Roth**, Entschädigung und Rehabilitation im Strafverfahren, in: Basler Kommentar, StPO, Art. 429–433 N. 1 ff.

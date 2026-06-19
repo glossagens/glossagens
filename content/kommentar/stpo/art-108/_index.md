@@ -1,87 +1,89 @@
 ---
-title: "Art. 108 — Durchsuchung"
+title: "Art. 108 — Einschränkungen des rechtlichen Gehörs"
 weight: 108
-date: 2026-06-07
-lastmod: 2026-06-07
-description: "Kommentar zu Art. 108 StPO — Durchsuchung von Personen, Räumlichkeiten und Fahrzeugen, Voraussetzungen und Grenzen"
-tags: ["StPO", "Durchsuchung", "Zwangsmaßnahme", "Berufsgeheimnisträger", "Verhältnismäßigkeit", "Hausdurchsuchung"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs: Voraussetzungen, Grenzen und nachträgliche Gewährung"
+tags: ["StPO", "rechtliches Gehör", "Einschränkung", "Geheimhaltungsinteresse", "Rechtsbeistand", "Parteiöffentlichkeit"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 108 StPO — Durchsuchung**
+> **Art. 108** Einschränkungen des rechtlichen Gehörs
 >
-> 1 Die Strafbehörden können eine Durchsuchung anordnen, wenn ein konkreter Verdacht besteht, dass sich Beweisgegenstände oder gesuchte Personen in den zu durchsuchenden Räumlichkeiten, in Fahrzeugen oder bei Personen befinden.
+> 1 Die Strafbehörden können das rechtliche Gehör einschränken, wenn:
+>   a. der begründete Verdacht besteht, dass eine Partei ihre Rechte missbraucht;
+>   b. dies für die Sicherheit von Personen oder zur Wahrung öffentlicher oder privater Geheimhaltungsinteressen erforderlich ist.
 >
-> 2 Die Durchsuchung von Räumlichkeiten darf nur durch die Staatsanwaltschaft oder durch die Polizei auf Antrag der Staatsanwaltschaft oder in dringenden Fällen mit nachträglicher Genehmigung durch die Staatsanwaltschaft angeordnet werden.
+> 2 Einschränkungen gegenüber Rechtsbeiständen sind nur zulässig, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt.
 >
-> 3 Die Durchsuchung von Personen und Fahrzeugen kann auch durch die Polizei angeordnet werden, wenn ein konkreter Verdacht nach Absatz 1 besteht.
+> 3 Die Einschränkungen sind zu befristen oder auf einzelne Verfahrenshandlungen zu begrenzen.
 >
-> 4 Die Durchsuchung bei Berufsgeheimnisträgern (Art. 321 StGB) in ihren Geschäftsräumen darf nur durch die Staatsanwaltschaft angeordnet werden.
+> 4 Besteht der Grund für die Einschränkung fort, so dürfen die Strafbehörden Entscheide nur so weit auf Akten, die einer Partei nicht eröffnet worden sind, stützen, als ihr von deren wesentlichem Inhalt Kenntnis gegeben wurde.
 >
-> 5 Die Durchsuchung ist so schonend wie möglich durchzuführen. Auf die Besonderheiten von Wohnung und Geschäft ist Rücksicht zu nehmen. Geschäftsräume und Wohnungen sind ausserhalb der üblichen Geschäfts- und Wohnzeiten zu durchsuchen, es sei denn, es handle sich um dringende Fälle.
+> 5 Ist der Grund für die Einschränkung weggefallen, so ist das rechtliche Gehör in geeigneter Form nachträglich zu gewähren.
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Bedeutung und Systematik
 
-Art. 108 StPO regelt die **Durchsuchung** als eine der gravierendsten Zwangsmassnahmen im Strafverfahren. Die Durchsuchung greift in das Grundrecht auf Unverletzlichkeit der Wohnung (Art. 13 BV, Art. 8 EMRK) und das Persönlichkeitsrecht (Art. 10 BV, Art. 5 EMRK) ein. Die Norm trifft eine Differenzierung zwischen der Durchsuchung von **Räumlichkeiten** (Abs. 2), die der stärksten Autorisierung bedarf, und der Durchsuchung von **Personen und Fahrzeugen** (Abs. 3), die durch die Polizei angeordnet werden kann.
+**1** Art. 108 StPO regelt die **Einschränkungen des rechtlichen Gehörs** im Strafverfahren. Die Norm bildet das Gegenstück zu [Art. 107 StPO](../art-107/) (Gewährleistung des rechtlichen Gehörs) und konkretisiert, unter welchen Voraussetzungen und in welchem Umfang das rechtliche Gehör eingeschränkt werden darf. Die Regelung ist Ausdruck des **Grundsatzes der Verhältnismässigkeit**: Das rechtliche Gehör ist ein zentrales Verfahrensrecht (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK), das nur aus zwingenden Gründen und nur soweit zwingend notwendig eingeschränkt werden darf.
 
-### II. Voraussetzungen (Abs. 1)
+**2** Die Norm steht im Zusammenhang mit weiteren Einschränkungstatbeständen: [Art. 101 StPO](../art-101/) (Akteneinsicht), [Art. 139 StPO](../art-139/) (Beweiserhebung) und den Geheimhaltungsvorschriften bei besonderen Zwangsmassnahmen (Art. 243 ff. StPO). Art. 108 StPO gilt als **allgemeine Grundnorm** für die Einschränkung des rechtlichen Gehörs, auf die bei spezifischen Einschränkungen in einzelnen Verfahrensabschnitten zurückgegriffen wird.
 
-#### 1. Konkreter Verdacht
+### II. Voraussetzungen der Einschränkung (Abs. 1)
 
-Die Durchsuchung setzt einen **konkreten Verdacht** voraus, dass sich Beweisgegenstände oder gesuchte Personen am Durchsuchungsort befinden. Ein blosser Verdacht reicht nicht aus — es müssen **konkrete Anhaltspunkte** vorliegen, die die Durchsuchung als Mittel der Beweissicherung oder Personenfahndung rechtfertigen ([BGE 138 IV 54, E. 2.1](https://www.bger.ch/ext/eurolex/index/138/IV/54)). Der Verdacht muss sich auf **bestimmte Tatsachen** gründen; eine flächendeckende Durchsuchung ohne konkreten Verdacht ist unzulässig.
+**3** Abs. 1 nennt zwei **erschöpfende** Gründe für eine Einschränkung des rechtlichen Gehörs:
 
-#### 2. Beweisgegenstände und gesuchte Personen
+#### a) Missbrauchsverdacht (Abs. 1 lit. a)
 
-Durchsucht werden darf zur Auffindung von **Beweisgegenständen** (im Sinne von Art. 139 StPO) oder **gesuchten Personen** (z.B. Tatverdächtige, Zeugen). Die Durchsuchung dient somit sowohl der Beweissicherung als auch der Personenfahndung.
+**4** Der **begründete Verdacht**, dass eine Partei ihre Rechte missbraucht, rechtfertigt eine Einschränkung. Ein Rechtsmissbrauch liegt vor, wenn die Partei ihre Verfahrensrechte zweckfremd einsetzt — etwa um das Verfahren zu verschleppen, Beweismittel zu beseitigen oder die Strafbehörde zu täuschen. Massgeblich ist der **begründete Verdacht**, nicht der Beweis des Missbrauchs. Die Einschränkung ist jedoch eng auszulegen: Ein blosser Verdacht ohne konkrete Anhaltspunkte genügt nicht ([BGE 139 IV 25, E. 5.5.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25#e-5-5-6)).
 
-### III. Zuständigkeit
+#### b) Sicherheit und Geheimhaltungsinteressen (Abs. 1 lit. b)
 
-#### 1. Durchsuchung von Räumlichkeiten (Abs. 2)
+**5** Die **Sicherheit von Personen** kann eine Einschränkung rechtfertigen, namentlich wenn Zeugen oder Auskunftspersonen gefährdet sind. Dies gilt insbesondere im Bereich der organisierten Kriminalität und bei Gefährdung von V-Personen oder deren Kontaktpersonen.
 
-Die Durchsuchung von Räumlichkeiten darf **nur durch die Staatsanwaltschaft** oder durch die **Polizei auf Antrag der Staatsanwaltschaft** angeordnet werden. In **dringenden Fällen** kann die Polizei auch ohne vorherigen Antrag durchsuchen, hat aber die **nachträgliche Genehmigung** durch die Staatsanwaltschaft einzuholen.
+**6** **Öffentliche oder private Geheimhaltungsinteressen** rechtfertigen eine Einschränkung, wenn die Offenlegung von Informationen die Sicherheit des Staates, den Schutz von Geschäftsgeheimnissen oder andere schutzwürdige Interessen gefährden würde. Beispiel: Die Nichteröffnung von Akten, die Geschäftsgeheimnisse von Dritten enthalten ([BGE 141 IV 220, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220#e-4-4); [BGE 138 IV 78, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_78#e-3)).
 
-Diese Genehmigungspflicht ist Ausdruck der **Richtervorbehaltes**: Der Eingriff in die Wohnung ist so gravierend, dass eine richterliche oder staatsanwaltschaftliche Autorisierung erforderlich ist ([BGE 135 I 143, E. 4.3](https://www.bger.ch/ext/eurolex/index/135/I/143)).
+### III. Einschränkungen gegenüber Rechtsbeiständen (Abs. 2)
 
-#### 2. Durchsuchung von Personen und Fahrzeugen (Abs. 3)
+**7** Abs. 2 enthält eine **besondere Schutzvorschrift** für Rechtsbeistände. Einschränkungen gegenüber Rechtsbeiständen sind **nur zulässig**, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt. Dies bedeutet: Die Einschränkung des rechtlichen Gehörs der beschuldigten Person darf nicht über den Umweg der Einschränkung des Rechtsbeistands erfolgen, es sei denn, der Rechtsbeistand selbst ist der Grund für die Beschränkung (z.B. Verdacht der Kollusion, Verdacht der Beweisvereitelung durch den Anwalt).
 
-Die Durchsuchung von Personen und Fahrzeugen kann **auch durch die Polizei** angeordnet werden, wenn ein konkreter Verdacht nach Abs. 1 besteht. Dies reflektiert die geringere Eingriffsintensität gegenüber der Wohnungsdurchsuchung und die praktische Notwendigkeit polizeilicher Handlungsfähigkeit.
+**8** Diese Regelung schützt das **Vertrauensverhältnis** zwischen der beschuldigten Person und ihrem Rechtsbeistand. Eine Einschränkung der Akteneinsicht gegenüber dem Rechtsbeistand ist nur in engen Grenzen zulässig und setzt voraus, dass der Rechtsbeistand selbst die Gefahr darstellt.
 
-#### 3. Berufsgeheimnisträger (Abs. 4)
+### IV. Befristung und Begrenzung (Abs. 3)
 
-Die Durchsuchung von Geschäftsräumen von **Berufsgeheimnisträgern** (Ärzte, Rechtsanwälte, Steuerberater etc., Art. 321 StGB) darf **nur durch die Staatsanwaltschaft** angeordnet werden. Die Polizei ist nicht zuständig. Dies stellt einen verstärkten Schutz des Vertrauensverhältnisses zwischen Berufsgeheimnisträger und Mandant sicher.
+**9** Einschränkungen des rechtlichen Gehörs sind **zu befristen** oder auf **einzelne Verfahrenshandlungen zu begrenzen**. Dies konkretisiert das Verhältnismässigkeitsgebot: Die Einschränkung darf nicht länger andauern als notwendig und nicht weiter reichen als der Einschränkungsgrund erfordert. Offene Einschränkungen ohne zeitliche oder sachliche Begrenzung sind verfassungswidrig.
 
-### IV. Durchführung (Abs. 5)
+**10** Die Befristung kann sich auf einen bestimmten Zeitraum (z.B. bis zum Abschluss einer bestimmten Untersuchung) oder auf eine bestimmte Verfahrenshandlung (z.B. eine konkrete Einvernahme) beziehen. Nach Ablauf der Frist oder nach Abschluss der betroffenen Verfahrenshandlung muss das rechtliche Gehör wieder vollständig gewährt werden.
 
-Die Durchsuchung ist **so schonend wie möglich** durchzuführen. Abs. 5 konkretisiert das Verhältnismässigkeitsgebot für die Durchführung:
+### V. Entscheidgrundlage bei fortdauernder Einschränkung (Abs. 4)
 
-- **Rücksicht auf Besonderheiten**: Auf die Besonderheiten von Wohnung und Geschäft ist Rücksicht zu nehmen. Dies umfasst den schonenden Umgang mit Einrichtungsgegenständen, die Vermeidung unnötiger Unordnung und die Achtung der Privatsphäre.
-- **Zeitliche Beschränkung**: Geschäftsräume und Wohnungen sind **ausserhalb der üblichen Geschäfts- und Wohnzeiten** zu durchsuchen, es sei denn, es handle sich um dringende Fälle. Die zeitliche Beschränkung gilt nicht für Durchsuchungen in dringenden Fällen ([BGE 133 IV 56, E. 4](https://www.bger.ch/ext/eurolex/index/133/IV/56)).
+**11** Abs. 4 regelt die **Konsequenzen einer fortdauernden Einschränkung**: Wenn der Einschränkungsgrund noch besteht, dürfen die Strafbehörden Entscheide nur so weit auf **nicht eröffnete Akten** stützen, als der betroffenen Partei von deren **wesentlichem Inhalt Kenntnis gegeben wurde**. Dies bedeutet: Auch wenn die Partei die Akten nicht vollständig einsehen kann, muss ihr der **wesentliche Inhalt** der belastenden Aktenstücke zur Kenntnis gebracht werden, damit sie sich wirksam verteidigen kann.
 
-### V. Verhältnismässigkeit
+**12** Die **Kenntnisgabe des wesentlichen Inhalts** kann durch Zusammenfassungen, Auszüge oder mündliche Mitteilung erfolgen. Massgeblich ist, dass die beschuldigte Person in die Lage versetzt wird, sich zu den gegen sie erhobenen Vorwürfen **wirksam zu äussern**. Eine vollständige Verschwiegenheit der belastenden Beweismittel ist bei fortdauernder Einschränkung unzulässig.
 
-Die Durchsuchung muss dem **Verhältnismässigkeitsgebot** (Art. 5 Abs. 2 StPO) genügen:
+### VI. Nachträgliche Gewährung (Abs. 5)
 
-1. **Geeignetheit**: Die Durchsuchung muss geeignet sein, den verfolgten Zweck zu erreichen.
-2. **Erforderlichkeit**: Kein milderes Mittel darf zur Verfügung stehen (z.B. Aushändigung statt Durchsuchung).
-3. **Angemessenheit**: Der Eingriff muss in vernünftigem Verhältnis zur Schwere der Tat stehen. Bei Bagatellstraftaten ist eine Wohnungsdurchsuchung regelmässig unverhältnismässig.
+**13** Fällt der Grund für die Einschränkung weg, so ist das rechtliche Gehör **in geeigneter Form nachträglich zu gewähren**. Die nachträgliche Gewährung ist kein blosses Formular, sondern muss der betroffenen Partei die Möglichkeit geben, sich wirksam zu den zuvor nicht eröffneten Akten und Beweisen zu äussern. Dies kann durch nachträgliche Akteneinsicht, Ergänzungseinvernahme oder neue Stellungnahmemöglichkeit geschehen.
 
-### VI. Abgrenzungen
+**14** Die nachträgliche Gewährung ist insbesondere bei der Aufhebung von Untersuchungshaft oder der Beendigung geheimer Ermittlungen relevant: Sobald die Gründe für die Geheimhaltung wegfallen, müssen die betroffenen Parteien umfassend informiert und angehört werden.
 
-**Durchsuchung vs. Beschlagnahme:** Die Durchsuchung (Art. 108 StPO) dient der **Auffindung** von Beweismitteln, die Beschlagnahme (Art. 109 StPO) deren **Sicherstellung**. Beide Massnahmen werden häufig kombiniert, sind aber rechtlich eigenständige Eingriffe.
+### VII. Verhältnis zu Art. 6 EMRK
 
-**Durchsuchung vs. Kontrollmassnahme:** Kontrollmassnahmen (z.B. Personenkontrollen nach dem Polizeigesetz) sind keine Durchsuchung im Sinne von Art. 108 StPO. Sie setzen keinen konkreten Tatverdacht voraus und unterliegen weniger strengen Voraussetzungen.
+**15** Art. 108 StPO steht im Einklang mit der Rechtsprechung des EGMR zu Art. 6 Ziff. 1 EMRK. Der EGMR anerkennt, dass das rechtliche Gehör in Strafverfahren eingeschränkt werden kann, insbesondere zum Schutz wichtiger öffentlicher Interessen. Die Einschränkung muss jedoch **verhältnismässig** sein und darf den Kerngehalt des rechtlichen Gehörs nicht antasten. Die nachträgliche Gewährung (Abs. 5) dient der Sicherstellung, dass die Einschränkung den Kerngehalt nicht verletzt.
 
-### VII. Rechtsschutz
+### VIII. Abgrenzungen
 
-Gegen eine Durchsuchungsverfügung steht der **Beschwerde** nach Art. 393 ff. StPO offen. Bei bereits durchgeführter Durchsuchung richtet sich die Beschwerde gegen die **Anordnung** der Durchsuchung; eine Aufhebung der Massnahme hat die Rückgabe beschlagnahmter Gegenstände zur Folge (Art. 109 Abs. 3 StPO).
+**16** **Zu Art. 107 StPO (Gewährleistung des rechtlichen Gehörs):** Art. 107 StPO normiert den Grundsatz, Art. 108 StPO die Ausnahme. Die Einschränkung nach Art. 108 StPO ist eine rechtfertigungsbedürftige Ausnahme vom Grundsatz des rechtlichen Gehörs.
+
+**17** **Zu Art. 101 StPO (Akteneinsicht):** Die Einschränkung der Akteneinsicht ist eine besondere Form der Einschränkung des rechtlichen Gehörs. Art. 108 StPO enthält die allgemeinen Voraussetzungen, während Art. 101 StPO die Akteneinsicht als solche regelt.
+
+**18** **Zu Art. 243 ff. StPO (besondere Zwangsmassnahmen):** Bei geheimen Zwangsmassnahmen wird das rechtliche Gehör nach Art. 108 StPO eingeschränkt. Die nachträgliche Benachrichtigung (Art. 264 StPO) und die nachträgliche Gewährung des rechtlichen Gehörs (Art. 108 Abs. 5 StPO) ergänzen sich.
 
 ## Literatur
 
-- Donatsch, Hans, in: Trechsel/Jeanmart, StPO, 3. Aufl. 2019, Art. 108 N. 1–18
-- Heer, Marianne, in: Niggli/Maeder/Wiprächtiger, StPO, Art. 108 N. 1–15
-- BGE 138 IV 54 — Konkreter Verdacht als Voraussetzung der Durchsuchung
-- BGE 135 I 143 — Richtervorbehalt bei Wohnungsdurchsuchung
+- Donatsch/Hans/Hostettler/Heimgartner, Kommentar zur Schweizerischen Strafprozessordnung, Art. 108 N. 1 ff.
+- Riedo/Fellmann/Niggli, Basler Kommentar StPO, Art. 108 N. 1 ff.
+- Heer, in: Trechsel/Pieth, Schweizerische Strafprozessordnung, Art. 108 N. 1 ff.

@@ -28,7 +28,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 107](art-107/) | Beschlagnahme |
 | [Art. 108](art-108/) | Zwangsmassnahmen |
 | [Art. 109](art-109/) | Durchsuchung |
-| [Art. 115](art-115/) | Untersuchungshaft |
+| [Art. 115](art-115/) | Geschädigte Person (Abschnitts-Titel) |
 | [Art. 127](art-127/) | Pflichtverteidigung |
 | [Art. 130](art-130/) | Notwendige Verteidigung |
 | [Art. 132](art-132/) | Amtliche Verteidigung |

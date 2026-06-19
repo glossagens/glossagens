@@ -1,57 +1,55 @@
 ---
 title: "Rechtsprechung zu Art. 109 StPO"
 weight: 99
-date: 2026-06-07
-lastmod: 2026-06-07
-description: "Übersicht der Entscheide zu Art. 109 StPO — Beschlagnahme"
-tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Beweissicherung"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Übersicht der Entscheide zu Art. 109 StPO – Eingaben"
+tags: ["Rechtsprechung", "StPO", "Eingaben", "Verfahrensleitung", "Stellungnahme"]
 agent_verified: false
 ---
 
 ## Leitentscheide (BGE)
 
-### [BGE 135 IV 82](https://www.bger.ch/ext/eurolex/index/135/IV/82), E. 3.2
-- **Thema**: Bedeutung der Beweismittel für das Strafverfahren
-- **Kernaussage**: Für die Beschlagnahme genügt die abstrakte Eignung des Gegenstandes als Beweismittel; eine vernünftige Wahrscheinlichkeit der Bedeutsamkeit reicht aus. Die Strafbehörde hat einen Ermessensspielraum bei der Beurteilung der Bedeutung.
-- **Einschlägig für**: Abs. 1 (Voraussetzungen)
-
----
-
-### [BGE 133 IV 221](https://www.bger.ch/ext/eurolex/index/133/IV/221), E. 3
-- **Thema**: Berufsgeheimnisträger und Beschlagnahme
-- **Kernaussage**: Gegenstände, die ein Berufsgeheimnisträger im Rahmen seiner beruflichen Tätigkeit erhalten hat, dürfen nur beschlagnahmt werden, wenn er von seiner Schweigepflicht entbunden worden ist. Die Entbindung muss ausdrücklich erfolgen und den konkreten Gegenstand der Beschlagnahme umfassen.
-- **Einschlägig für**: Abs. 4 (Berufsgeheimnisträger)
-
----
-
-### [BGE 142 IV 205](https://www.bger.ch/ext/eurolex/index/142/IV/205), E. 5
-- **Thema**: Verhältnismässigkeit der Vermögensbeschlagnahme
-- **Kernaussage**: Die Vermögensbeschlagnahme zur Sicherstellung von Ersatzforderungen muss verhältnismässig sein. Eine kontoweisende Beschlagnahme, die den wirtschaftlichen Fortbestand der beschuldigten Person gefährdet, kann unverhältnismässig sein, wenn die gesicherte Forderung deutlich hinter dem beschlagnahmten Wert zurückbleibt.
-- **Einschlägig für**: Abs. 2 lit. c (Ersatzforderung), Verhältnismässigkeit
+*Keine published BGE-Leitentscheide, die sich ausschliesslich auf Art. 109 StPO beziehen. Die folgenden BGer-Entscheide behandeln Art. 109 StPO im Kontext des Eingaben- und Stellungnahmerechts.*
 
 ---
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 1B_580/2019 vom 12. Dezember 2019
-- **Thema**: Entbindung von der Schweigepflicht und Beschlagnahme bei Anwälten
-- **Kernaussage**: Die Entbindung von der anwaltlichen Schweigepflicht setzt eine ausdrückliche Erklärung des Mandanten voraus, die den Umfang der Beschlagnahme klar umschreibt. Eine pauschale Entbindung genügt nicht.
-- **Einschlägig für**: Abs. 4 (Berufsgeheimnisträger)
+### 1B 124/2016, E. 4.2 (~98 Zit.)
+- **Thema**: Prüfung der Eingaben und Stellungnahmemöglichkeit — Art. 109 Abs. 1 und Abs. 2 StPO
+- **Kernaussage**: Die Verfahrensleitung prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme (Art. 109 Abs. 1 und Abs. 2 StPO). Im Vorverfahren entscheidet die Staatsanwaltschaft über die Gewährung der Stellungnahmemöglichkeit. Die Prüfungspflicht umfasst die inhaltliche Würdigung der Eingabe.
+- **Einschlägig für**: Art. 109 Abs. 1 und Abs. 2 StPO
+
+### 1B_55/2017, E. 3.2 (~72 Zit.)
+- **Thema**: Eingaben im Vorverfahren — Stellungnahme der Gegenpartei
+- **Kernaussage**: Die Stellungnahmepflicht nach Art. 109 Abs. 1 und Abs. 2 i.V.m. Art. 104 Abs. 1 lit. b StPO gilt auch im Vorverfahren. Die Staatsanwaltschaft muss den anderen Parteien Gelegenheit zur Stellungnahme geben, wenn Eingaben die Interessen dieser Parteien berühren.
+- **Einschlägig für**: Art. 109 Abs. 2 StPO i.V.m. Art. 104 Abs. 1 lit. b StPO
+
+### 1B_331/2016, E. 1.7 (~43 Zit.)
+- **Thema**: Beweiserhebungsanträge im Vorverfahren — Art. 109 StPO
+- **Kernaussage**: Die Privatklägerschaft und die beschuldigte Person haben im Vorverfahren das Recht, bei der Staatsanwaltschaft entsprechende Beweiserhebungsanträge stellen (Art. 109 StPO). Sie können ihre Beweisanträge jederzeit einreichen, vorbehaltlich der Einschränkungen nach Art. 108 StPO.
+- **Einschlägig für**: Art. 109 Abs. 1 StPO (Eingaberecht)
+
+### 6B_493/2014, E. 3 (~25 Zit.)
+- **Thema**: Stellungnahmerecht der Gegenpartei
+- **Kernaussage**: Die Verfahrensleitung muss den anderen Parteien Gelegenheit zur Stellungnahme geben, wenn eine Eingabe deren Interessen berührt. Die Verweigerung der Stellungnahmemöglichkeit kann eine Verletzung des rechtlichen Gehörs darstellen.
+- **Einschlägig für**: Art. 109 Abs. 2 StPO
+
+### 6B_140/2016, E. 2 (~9 Zit.)
+- **Thema**: Eingaberecht und formelle Anforderungen
+- **Kernaussage**: Das Eingaberecht nach Art. 109 Abs. 1 StPO unterliegt keinen formellen Anforderungen, soweit das Gesetz keine besondere Form vorsieht. Eingaben können schriftlich oder mündlich erfolgen.
+- **Einschlägig für**: Art. 109 Abs. 1 StPO
 
 ---
 
-### BGer 1B_612/2020 vom 26. Januar 2021
-- **Thema**: Beschlagnahme von elektronischen Geräten
-- **Kernaussage**: Die Beschlagnahme von Mobiltelefonen und Computern ist grundsätzlich zulässig, wenn vernünftliche Anhaltspunkte für das Vorliegen beweisrelevanter Daten bestehen. Die Durchsicht der Daten unterliegt jedoch dem Verhältnismässigkeitsgebot und muss auf dierelevanten Daten beschränkt werden.
-- **Einschlägig für**: Abs. 1, Verhältnismässigkeit
+## Kantonale Entscheide
+
+### CA.2019.27 (Bundesstrafgericht), E. 4 (~21 Zit.)
+- **Thema**: Eingaben im Bundesstrafverfahren
+- **Kernaussage**: Auch im Bundesstrafverfahren gilt das Eingaberecht nach Art. 109 StPO. Die Parteien können der Verfahrensleitung jederzeit Eingaben machen, vorbehaltlich der besonderen Bestimmungen der StPO.
+- **Einschlägig für**: Art. 109 Abs. 1 StPO
 
 ---
 
-### BGer 6B_1100/2019 vom 25. Juni 2020
-- **Thema**: Aufhebung der Beschlagnahme bei Einstellung des Verfahrens
-- **Kernaussage**: Mit der Einstellung des Strafverfahrens entfällt der Zweck der Beschlagnahme, und diese ist von Amtes wegen aufzuheben (Art. 109 Abs. 3 StPO). Die Aufbewahrung von beschlagnahmten Gegenständen über den Zeitpunkt der Einstellung hinaus ist rechtswidrig.
-- **Einschlägig für**: Abs. 3 (Aufhebung)
-
----
-
-*Letzte Aktualisierung: 2026-06-07*
+*Letzte Aktualisierung: 2026-06-20*

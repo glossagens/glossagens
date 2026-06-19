@@ -1,90 +1,74 @@
 ---
-title: "Art. 109 — Beschlagnahme"
+title: "Art. 109 — Eingaben"
 weight: 109
-date: 2026-06-07
-lastmod: 2026-06-07
-description: "Kommentar zu Art. 109 StPO — Beschlagnahme von Beweisgegenständen, Voraussetzungen, Durchführung und Rechtsschutz"
-tags: ["StPO", "Beschlagnahme", "Beweissicherung", "Zwangsmaßnahme", "Verhältnismäßigkeit", "Berufsgeheimnisträger"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 109 StPO – Eingaben: Recht der Parteien auf Einreichung von Eingaben und Pflicht der Verfahrensleitung zur Prüfung und Stellungnahmewehr"
+tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 109 StPO — Beschlagnahme**
+> **Art. 109** Eingaben
 >
-> 1 Die Strafbehörden können Beweisgegenstände und Vermögenswerte, die für das Strafverfahren von Bedeutung sein können, beschlagnahmen.
+> 1 Die Parteien können der Verfahrensleitung jederzeit Eingaben machen; vorbehalten bleiben besondere Bestimmungen dieses Gesetzes.
 >
-> 2 Die Beschlagnahme ist insbesondere zulässig, wenn der Beweisgegenstand oder der Vermögenswert:
->
->    a. für die Beurteilung der Tat, der Schuld oder der Unschuld der beschuldigten Person von Bedeutung sein kann;
->
->    b. der Einziehung, der Einziehungsfolge oder der Verwertung zugänglich gemacht werden soll;
->
->    c. der Sicherstellung von Ersatzforderungen oder der Einziehung von Geldbussen dienen soll.
->
-> 3 Die Beschlagnahme ist aufzuheben, sobald ihr Zweck erreicht ist oder das Strafverfahren eingestellt wird.
->
-> 4 Gegenstände, die der Berufsgeheimnisträger (Art. 321 StGB) übergeben hat, können nur beschlagnahmt werden, wenn der Berufsgeheimnisträger von seiner Schweigepflicht entbunden worden ist.
+> 2 Die Verfahrensleitung prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme.
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Bedeutung und Systematik
 
-Art. 109 StPO regelt die **Beschlagnahme** als zentrale Zwangsmassnahme der Strafbehörden zur Sicherung von Beweismitteln und Vermögenswerten. Die Norm ermächtigt Staatsanwaltschaft und Polizei, Gegenstände vorläufig dem Verfügungsbereich des Inhabers zu entziehen, soweit sie für das Strafverfahren von Bedeutung sind. Die Beschlagnahme greift erheblich in das Eigentumsrecht (Art. 26 BV, Art. 1 ZP EMRK) und gegebenenfalls in die persönliche Freiheit (Art. 10 BV) ein und setzt daher ein **Verhältnismässigkeitsgebot** (Art. 5 Abs. 2 StPO) voraus.
+**1** Art. 109 StPO regelt das **Eingaberecht** der Parteien im Strafverfahren. Die Norm enthält zwei Grundregeln: das **Recht der Parteien auf Einreichung von Eingaben** (Abs. 1) und die **Pflicht der Verfahrensleitung zur Prüfung und Anhörung der Gegenpartei** (Abs. 2). Die Eingabe ist das zentrale Instrument der Partei, um im Strafverfahren Anträge zu stellen, Beweisanträge einzureichen und Stellung zu nehmen.
 
-Die Regelung steht im Zusammenhang mit den allgemeinen Beweiserhebungsregeln (Art. 139–141 StPO) und den speziellen Zwangsmassnahmen (Art. 243–257 StPO). Von der **Durchsuchung** (Art. 243–245 StPO) unterscheidet sich die Beschlagnahme dadurch, dass sie nicht der Ermittlung, sondern der **Sicherung** bereits bekannter Beweismittel dient.
+**2** Die Norm gehört zum Kapitel über die Parteirechte (Art. 104–109 StPO) und bildet zusammen mit [Art. 107 StPO](../art-107/) (rechtliches Gehör) und [Art. 108 StPO](../art-108/) (Einschränkungen des rechtlichen Gehörs) die Grundlage der **parteiellen Verfahrensbeteiligung**. Art. 109 StPO konkretisiert das rechtliche Gehör in seiner prozeduralen Dimension: Die Partei darf sich äussern, und die Verfahrensleitung muss die Gegenseite hören.
 
-### II. Voraussetzungen (Abs. 1 und 2)
+### II. Eingaberecht der Parteien (Abs. 1)
 
-#### 1. Allgemeine Voraussetzung (Abs. 1)
+**3** **Jederzeitiges Recht.** Die Parteien können der Verfahrensleitung **jederzeit** Eingaben machen. Dies bedeutet, dass es keine geschlossenen Eingabefristen gibt, ausser das Gesetz sieht ausdrücklich Fristen vor (z.B. Beschwerdefrist nach Art. 398 StPO, Berufungsfrist nach Art. 399 StPO). Das jederzeitige Eingaberecht sichert die laufende Verfahrensbeteiligung der Parteien.
 
-Die Beschlagnahme setzt voraus, dass der Beweisgegenstand oder Vermögenswert **für das Strafverfahren von Bedeutung sein kann**. Der Massstab ist derselbe wie bei der Beweiserhebung nach Art. 307 StPO: Es genügt die abstrakte Eignung des Gegenstandes als Beweismittel. Die Bedeutung muss nicht bewiesen sein; eine **vernünftige Wahrscheinlichkeit** genügt ([BGE 135 IV 82, E. 3.2](https://www.bger.ch/ext/eurolex/index/135/IV/82)). Die Strafbehörde hat einen **Ermessensspielraum** bei der Beurteilung der Bedeutung.
+**4** **Vorbehalt besonderer Bestimmungen.** Abs. 1HALT enthält den **Vorbehalt besonderer Bestimmungen** dieses Gesetzes. Dies bedeutet, dass spezifische Verfahrensvorschriften das Eingaberecht einschränken oder modifizieren können. Beispiele:
+- Fristgebundene Rechtsmittel (Art. 398 ff. StPO)
+- Ausschlussfristen für Beweisanträge (Art. 139 Abs. 3 StPO)
+- Einschränkungen im Vorverfahren bei Geheimhaltung (Art. 108 StPO)
 
-#### 2. Abschliessender Katalog (Abs. 2)
+**5** **Parteibegriff.** Eingabeberechtigt sind alle **Parteien** im Sinne von [Art. 104 StPO](../art-104/): die beschuldigte Person, die Privatklägerschaft und — in bestimmten Verfahrensabschnitten — die Staatsanwaltschaft. Der Umfang des Eingaberechts kann je nach Verfahrensrolle und Verfahrensabschnitt variieren.
 
-Abs. 2 nennt drei abschliessende Zielsetzungen der Beschlagnahme:
+**6** **Form der Eingaben.** Art. 109 StPO schreibt keine bestimmte Form vor. Eingaben können **schriftlich oder mündlich** erfolgen. Im Vorverfahren können Eingaben auch zu Protokoll gegeben werden. Massgeblich ist, dass die Eingabe bei der Verfahrensleitung eingeht und den erforderlichen Inhalt aufweist.
 
-**a) Beweisbedeutung (lit. a):** Der Gegenstand kann für die Beurteilung der Tat, der Schuld oder der Unschuld von Bedeutung sein. Dies ist der Regelfall der Beweissicherungsbeschlagnahme.
+### III. Pflichten der Verfahrensleitung (Abs. 2)
 
-**b) Einziehung (lit. b):** Der Gegenstand soll der Einziehung, der Einziehungsfolge oder der Verwertung zugänglich gemacht werden. Dies betrifft die Sicherstellung von Tatwerkzeugen, Schriften und anderen Einziehungsgegenständen nach Art. 69–71 StGB.
+**7** **Prüfungspflicht.** Die Verfahrensleitung hat die eingereichten Eingaben zu **prüfen**. Dies bedeutet, dass sie den Inhalt der Eingabe zur Kenntnis nehmen und über die darin gestellten Anträge entscheiden muss. Die Prüfungspflicht umfasst die Beurteilung der Zulässigkeit, der Begründetheit und der Relevanz der Eingabe für das Verfahren.
 
-**c) Ersatzforderung und Geldstrafen (lit. c):** Die Beschlagnahme dient der Sicherung von Ersatzforderungen zugunsten des Geschädigten oder der Einziehung von Geldbussen. Diese lit. c ermöglicht die **Vermögensbeschlagnahme** zur Befriedigung von Forderungen des Staates oder des Geschädigten.
+**8** Die Prüfungspflicht ist keine rein formelle Pflicht. Die Verfahrensleitung muss die Eingabe **inhaltlich** würdigen und über die Anträge sachlich entscheiden. Eine bloss formelhafte Ablehnung ohne inhaltliche Auseinandersetzung kann eine Verletzung des rechtlichen Gehörs darstellen ([1B 124/2016, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016#e-4-2)).
 
-### III. Berufsgeheimnisträger (Abs. 4)
+**9** **Stellungnahmepflicht.** Die Verfahrensleitung gibt den **anderen Parteien Gelegenheit zur Stellungnahme**. Dies konkretisiert den Grundsatz des **kontradiktorischen Verfahrens**: Jede Eingabe, die die Interessen einer anderen Partei berührt, muss dieser zur Stellungnahme zugestellt werden. Die Stellungnahmepflicht ist Ausdruck des rechtlichen Gehörs (Art. 107 StPO).
 
-Abs. 4 enthält eine besondere Schutzvorschrift für **Berufsgeheimnisträger** im Sinne von Art. 321 StGB (Ärzte, Rechtsanwälte, Steuerberater etc.). Gegenstände, die der Geheimnisträger im Rahmen seiner beruflichen Tätigkeit erhalten hat, dürfen nur beschlagnahmt werden, wenn er **von seiner Schweigepflicht entbunden** worden ist.
+**10** Die Stellungnahmepflicht gilt **nur für die anderen Parteien**, nicht für Dritte. Die Verfahrensleitung entscheidet, welcher Partei welche Eingabe zur Stellungnahme zuzustellen ist. Im Vorverfahren entscheidet die Staatsanwaltschaft über die Gewährung der Stellungnahmemöglichkeit ([1B 55/2017, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_55_2017#e-3-2)).
 
-Diese Bestimmung schützt das Vertrauensverhältnis zwischen Berufsgeheimnisträger und Mandant. Eine Beschlagnahme ohne Entbindung von der Schweigepflicht wäre unverwertbar (Art. 141 Abs. 1 StPO i.V.m. Art. 109 Abs. 4 StPO). Der Bundesgerichtshof hat diese Regelung mehrfach bestätigt: Die Entbindung muss **ausdrücklich** erfolgen und den konkreten Gegenstand der Beschlagnahme umfassen ([BGE 133 IV 221, E. 3](https://www.bger.ch/ext/eurolex/index/133/IV/221)).
+### IV. Eingaben im Vorverfahren
 
-### IV. Aufhebung (Abs. 3)
+**11** Im **Vorverfahren** haben die Parteien das Recht, bei der Staatsanwaltschaft **Beweiserhebungsanträge** zu stellen (Art. 109 StPO i.V.m. Art. 104 Abs. 1 lit. b StPO). Die Privatklägerschaft und die beschuldigte Person können ihre Beweisanträge jederzeit einreichen, vorbehaltlich der Einschränkungen nach Art. 108 StPO ([1B_331/2016, E. 1.7](https://mcp.opencaselaw.ch/entscheid/bger_1B_331_2016#e-1-7)).
 
-Die Beschlagnahme ist **aufzuheben**, sobald ihr Zweck erreicht ist oder das Strafverfahren eingestellt wird. Diese Aufhebungspflicht ist Ausdruck des Verhältnismässigkeitsgebots (Art. 5 Abs. 2 StPO). Die Strafbehörde hat die Aufhebung **von Amtes wegen** anzuordnen; ein Gesuch der beschuldigten Person ist nicht erforderlich, kann aber beschleunigend wirken.
+**12** Die Staatsanwaltschaft prüft die Eingaben und entscheidet über die Beweiserhebungsanträge. Lehnt sie einen Antrag ab, muss sie dies begründen. Eine unbegründete Ablehnung von Beweisanträgen kann einen Verfahrensfehler darstellen, der im Beschwerdeweg gerügt werden kann.
 
-Wird die Beschlagnahme nicht aufgehoben, steht der beschuldigten Person die **Beschwerde** nach Art. 393 ff. StPO offen. Bei Vermögensbeschlagnahmen kann zudem ein **Aufschub** oder eine **Rückgabe gegen Sicherheitsleistung** verlangt werden (Art. 110 StPO).
+### V. Verhältnis zum rechtlichen Gehör
 
-### V. Abgrenzungen
+**13** Art. 109 StPO konkretisiert das **rechtliche Gehör** (Art. 107 StPO) in prozeduraler Hinsicht: Das rechtliche Gehör umfasst nicht nur das Recht auf Anhörung, sondern auch das Recht, **aktiv Eingaben zu machen** und **Stellung zu nehmen** zu den Eingaben der Gegenpartei. Die Norm stellt sicher, dass das rechtliche Gehör nicht nur passiv (Anhören) sondern auch aktiv (Eingaben machen) gewährleistet ist.
 
-**Beschlagnahme vs. Durchsuchung:** Die Durchsuchung (Art. 243–245 StPO) dient der Auffindung von Beweismitteln, die Beschlagnahme (Art. 109 StPO) deren Sicherstellung. In der Praxis werden beide Massnahmen häufig **kombiniert**: Die Durchsuchung führt zum Auffinden, die Beschlagnahme zur Sicherstellung der aufgefundenen Gegenstände.
+**14** Einschränkungen des Eingaberechts unterliegen denselben Voraussetzungen wie Einschränkungen des rechtlichen Gehörs (Art. 108 StPO). Die Stellungnahmepflicht kann ebenfalls eingeschränkt werden, wenn die Voraussetzungen von Art. 108 StPO vorliegen.
 
-**Beschlagnahme vs. Einziehung:** Die Beschlagnahme (Art. 109 StPO) ist eine **vorläufige** Massnahme, die Einziehung (Art. 69–71 StGB) eine **endgültige** Massnahme im Urteil. Die Beschlagnahme nach lit. b dient der Sicherstellung für eine spätere Einziehung.
+### VI. Abgrenzungen
 
-**Beschlagnahme vs. Sicherstellung nach Art. 77 StPO:** Die Sicherstellung nach Art. 77 StPO ist eine spezifischere Massnahme im Rahmen der Untersuchungshaft und dient der Sicherung von Freheitsstrafen und Massnahmen. Die Beschlagnahme nach Art. 109 StPO ist weiter gefasst und gilt für alle Verfahrensstadien.
+**15** **Zu Art. 107 StPO (rechtliches Gehör):** Art. 109 StPO konkretisiert das rechtliche Gehör hinsichtlich der Eingaben. Art. 107 StPO enthält den Grundsatz, Art. 109 StPO die prozedurale Ausgestaltung.
 
-### VI. Rechtsschutz
+**16** **Zu Art. 104 StPO (Parteien):** Art. 104 StPO definiert, wer Partei ist und welche Rechte die Parteien haben. Art. 109 StPO regelt das Eingaberecht als spezifisches Parteiinstrument.
 
-Gegen eine Beschlagnahmeverfügung steht der **Beschwerde** nach Art. 393 ff. StPO offen. Die Beschwerdefrist beträgt **10 Tage** (Art. 398 StPO). Bei fortlaufender Beschlagnahme (z.B. Kontosperre) beginnt die Frist mit der Zustellung der Verfügungsstellung.
-
-Die **superprovisorische Aufhebung** ist möglich, wenn die Beschlagnahme offensichtlich unverhältnismässig ist oder der Zweck der Beschlagnahme erreicht ist.
-
-### VII. Verhältnismässigkeit
-
-Die Beschlagnahme muss stets dem **Verhältnismässigkeitsgebot** (Art. 5 Abs. 2 StPO) genügen. Insbesondere bei Vermögensbeschlagnahmen nach lit. c ist die Verhältnismässigkeit sorgfältig zu prüfen: Die Beschlagnahme darf den wirtschaftlichen Fortbestand der beschuldigten Person nicht gefährhen, es sei denn, dies ist zur Sicherstellung von Ersatzforderungen unerlässlich.
-
-Bei **Berufsgeheimnisträgern** (Abs. 4) ist die Verhältnismässigkeit besonders streng zu wahren: Die Entbindung von der Schweigepflicht darf nur erfolgen, wenn überwiegende öffentliche Interessen die Offenlegung erfordern ([BGer 1B_580/2019, E. 3.2](https://www.bger.ch/ext/eurolex/index/1B_580/2019)).
+**17** **Zu Art. 139 StPO (Beweiserhebung):** Beweisanträge sind eine besondere Form von Eingaben (Art. 109 StPO). Die konkreten Voraussetzungen und Verfahrensregeln für Beweisanträge ergeben sich aus Art. 139 StPO.
 
 ## Literatur
 
-- Donatsch, Hans, in: Trechsel/Jeanmart, StPO, 3. Aufl. 2019, Art. 109 N. 1–15
-- Heer, Marianne, in: Niggli/Maeder/Wiprächtiger, StPO, Art. 109 N. 1–12
-- BGE 135 IV 82 — Beschlagnahme von Beweisgegenständen, Bedeutung und Verhältnismässigkeit
-- BGE 133 IV 221 — Berufsgeheimnisträger und Beschlagnahme
+- Donatsch/Hans/Hostettler/Heimgartner, Kommentar zur Schweizerischen Strafprozessordnung, Art. 109 N. 1 ff.
+- Riedo/Fellmann/Niggli, Basler Kommentar StPO, Art. 109 N. 1 ff.
+- Heer, in: Trechsel/Pieth, Schweizerische Strafprozessordnung, Art. 109 N. 1 ff.

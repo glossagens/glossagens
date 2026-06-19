@@ -1,109 +1,102 @@
 ---
-title: "Art. 59 — Beschleunigungsgebot"
+title: "Art. 59 — Entscheid"
 weight: 59
-date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 59 StPO – Beschleunigungsgebot: Recht auf Verfahren ohne vermeidbare Verzögerung, Überlängerungsbeschwerde"
-tags: ["StPO", "Beschleunigungsgebot", "Verfahrensdauer", "Überlängenbeschwerde", "EMRK Art. 6"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 59 StPO – Entscheid: Zuständigkeit für den Entscheid über Ausstandsbegehren, Verfahren und Kostentragung"
+tags: ["StPO", "Ausstand", "Entscheid", "Zuständigkeit", "Ausstandsbegehren"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 59 Beschleunigungsgebot**
+> **Art. 59 Entscheid**
 >
-> 1 Die Strafverfolgungsbehörden treffen die für die Durchführung des Strafverfahrens erforderlichen Massnahmen ohne vermeidbare Verzögerung.
+> 1 Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren:
+> a. die Staatsanwaltschaft, wenn die Polizei betroffen ist;
+> b. die Beschwerdeinstanz, wenn die Staatsanwaltschaft, die Übertretungsstrafbehörden oder die erstinstanzlichen Gerichte betroffen sind;
+> c. das Berufungsgericht, wenn die Beschwerdeinstanz oder einzelne Mitglieder des Berufungsgerichts betroffen sind;
+> d. das Bundesstrafgericht, wenn das gesamte Berufungsgericht eines Kantons betroffen ist.
 >
-> 2 Die beschuldigte Person und die Privatklägerschaft können bei der zuständigen Beschwerdeinstanz eine Verfügung beantragen, die das Verfahren ohne vermeidbare Verzögerung weiterzuführen oder abzuschliessen ist (Beschleunigungsgesuch).
+> 2 Der Entscheid ergeht schriftlich und ist zu begründen.
+>
+> 3 Bis zum Entscheid übt die betroffene Person ihr Amt weiter aus.
+>
+> 4 Wird das Gesuch gutgeheissen, so gehen die Verfahrenskosten zu Lasten des Bundes beziehungsweise des Kantons. Wird es abgewiesen oder war es offensichtlich verspätet oder mutwillig, so gehen die Kosten zu Lasten der gesuchstellenden Person.
 
 ## Kommentierung
 
 ### I. Bedeutung und Einordnung
 
-Art. 59 StPO verankert das **Beschleunigungsgebot** als verfahrensleitendes Prinzip im Schweizer Strafprozessrecht. Das Beschleunigungsgebot ist Ausfluss des Rechts auf ein Verfahren ohne unverhältnismässige Verzögerung (Art. 29 Abs. 1 BV, Art. 6 Abs. 1 EMRK) und gehört zu den fundamentalen Verfahrensgarantien.
+Art. 59 StPO regelt die **Zuständigkeit für den Entscheid über Ausstandsbegehren** sowie das Verfahren und die Kostentragung. Die Bestimmung ist die zentrale Verfahrensvorschrift zum Ausstandsrecht und setzt die Ausstandsgründe nach Art. 56 StPO sowie das Ausstandsverfahren nach Art. 57 und 58 StPO praktisch um.
 
-Das Beschleunigungsgebot hat zwei Dimensionen:
-1. **Objektiv-rechtliche Pflicht**: Die Strafverfolgungsbehörden müssen das Verfahren ohne vermeidbare Verzögerung durchführen (Abs. 1).
-2. **Subjektiv-rechtliches Abwehrrecht**: Die beschuldigte Person und die Privatklägerschaft können ein Beschleunigungsgesuch stellen (Abs. 2).
+Art. 59 StPO ist am 1. Januar 2011 in Kraft getreten und wurde durch Ziff. I des BG vom 17. Juni 2022 (in Kraft seit 1. Jan. 2024) sowie Ziff. II 3 des BG vom 17. März 2017 (in Kraft seit 1. Jan. 2019) geändert.
 
-### II. Objektive Pflicht: Vermeidbare Verzögerung (Abs. 1)
+### II. Anwendungsbereich (Abs. 1)
 
-#### 1. Adressaten
+#### 1. Voraussetzungen
 
-Die Pflicht richtet sich an alle **Strafverfolgungsbehörden**: Staatsanwaltschaft, Polizei, Urteilsbehörden und Beschwerdeinstanzen.
+Art. 59 Abs. 1 greift in zwei Konstellationen:
 
-#### 2. Vermeidbare Verzögerung
+1. **Geltendmachung eines Ausstandsgrunds nach Art. 56 lit. a oder f StPO**: Wenn eine Partei einen Ausstandsgrund nach Art. 56 lit. a (Beteiligung am Vorverfahren) oder lit. f (andere Umstände, die Zweifel an der Unparteilichkeit begründen) geltend macht.
 
-Eine Verzögerung ist **vermeidbar**, wenn sie nicht durch rechtmässige und sachlich gerechtfertigte Gründe bedingt ist. Rechtmässige Gründe umfassen:
-- Komplexe Sachverhalte, die extensive Ermittlungen erfordern
-- Notwendige Gutachten und deren Erstellungsdauer
-- Verfahrenshindernisse (Auslieferungsverfahren, Abwesenheit der beschuldigten Person)
-- Berechtigte Verfahrensanträge (z.B. Akteneinsicht, Beweisanträge)
+2. **Widersetzung der betroffenen Person**: Wenn sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei widersetzt, das sich auf Art. 56 lit. b–e StPO abstützt (Verwandtschaft, Vertretung, Zeugeneigenschaft, Beteiligung am Vorverfahren als Sachverständige/r).
 
-Nicht vermeidbar sind hingegen Verzögerungen, die auf:
-- **Behördliche Untätigkeit** (z.B. monatelanges Nichtbearbeiten eines Dossiers)
-- **Unnötige Zuständigkeitskonflikte** zwischen Behörden
-- **Verzögerungen durch unbegründete Rechtsmittel** ohne Erschwerungsgrund
+In beiden Fällen ist nicht die betroffene Person selbst zuständig, sondern eine **übergeordnete Instanz**, die ohne weiteres Beweisverfahren entscheidet.
 
-#### 3. Beurteilungsmassstab
+#### 2. Zuständigkeitsordnung
 
-Die Beurteilung der Verfahrensdauer richtet sich nach der Rechtsprechung des EGMR (z.B. Urteil *König / Deutschland*, EuGRZ 1978, 438) und des Bundesgerichts (BGE 142 IV 81 E. 2.2). Massgeblich sind:
-- **Komplexität** des Sachverhalts
-- **Verhalten** der beschuldigten Person
-- **Verhalten** der Behörden
-- **Dauer** der einzelnen Verfahrensabschnitte
+Die Zuständigkeitsordnung folgt dem **Instanzenzugprinzip**:
 
-### III. Beschleunigungsgesuch (Abs. 2)
+- **Lit. a — Staatsanwaltschaft**: Zuständig, wenn ein Ausstandsgrund eine in der Polizei tätige Person betrifft. Die Staatsanwaltschaft entscheidet als übergeordnete Strafverfolgungsbehörde.
 
-#### 1. Aktivlegitimation
+- **Lit. b — Beschwerdeinstanz**: Zuständig bei Ausstandsbegehren gegen die Staatsanwaltschaft, die Übertretungsstrafbehörden oder die erstinstanzlichen Gerichte. Die Beschwerdeinstanz im Sinne von Art. 78 ff. StPO entscheidet.
 
-Beschleunigungsgesuche können einreichen:
-- Die **beschuldigte Person** — die häufigste Konstellation
-- Die **Privatklägerschaft** — bei Verzögerung zu ihren Lasten
+- **Lit. c — Berufungsgericht**: Zuständig bei Ausstandsbegehren gegen die Beschwerdeinstanz oder einzelne Mitglieder des Berufungsgerichts.
 
-#### 2. Zuständigkeit
+- **Lit. d — Bundesstrafgericht**: Zuständig, wenn das gesamte Berufungsgericht eines Kantons betroffen ist. Diese Bestimmung wurde durch Ziff. II 3 des BG vom 17. März 2017 eingefügt (in Kraft seit 1. Jan. 2019) und trägt der Schaffung einer Berufungskammer am Bundesstrafgericht Rechnung.
 
-Zuständig ist die **Beschwerdeinstanz** im Sinne von Art. 78 ff. StPO, also die nächste höhere Instanz.
+#### 3. Verfabren ohne weiteres Beweisverfahren
 
-#### 3. Verfahren
+Der Entscheid erfolgt **ohne weiteres Beweisverfahren**. Das bedeutet, dass die entscheidende Instanz keine Beweise erhebt, sondern aufgrund der Parteivorbringen und der Aktenlage entscheidet. Dies dient der Verfahrensbeschleunigung und vermeidet unnötige Verzögerungen.
 
-Das Beschleunigungsgesuch ist formlos und kann jederzeit gestellt werden. Die Beschwerdeinstanz prüft:
-1. Ob eine vermeidbare Verzögerung vorliegt
-2. Ob die Strafverfolgungsbehörde ihrer Beschleunigungspflicht nachgekommen ist
-3. Welche Massnahmen zur Verfahrensbeschleunigung erforderlich sind
+### III. Form und Begründung (Abs. 2)
 
-#### 4. Folgen
+Der Entscheid über das Ausstandsbegehren muss **schriftlich** ergehen und **begründet** werden. Die Begründungspflicht gewährleistet die Nachvollziehbarkeit des Entscheids und ermöglicht eine allfällige Beschwerde.
 
-Wird das Beschleunigungsgesuch gutgeheissen, ordnet die Beschwerdeinstanz an, dass das Verfahren **ohne vermeidbare Verzögerung** weiterzuführen oder abzuschliessen ist. Bei besonders gravierenden Verzögerungen kann dies unter Androhung konsequenter Massnahmen geschehen.
+### IV. Weiteres Amtsausübung bis zum Entscheid (Abs. 3)
 
-### IV. Verhältnis zur Überlängerungsbeschwerde
+**Bis zum Entscheid übt die betroffene Person ihr Amt weiter aus.** Diese Regelung dient der Vermeidung von Verfahrensverzögerungen. Die betroffene Person kann ihre amtlichen Handlungen weiterhin vornehmen, bis der Entscheid über das Ausstandsbegehren ergangen ist. Dies gilt auch, wenn der Ausstandsgrund nach Art. 56 lit. a oder f StPO geltend gemacht wurde.
 
-Neben dem Beschleunigungsgesuch nach Art. 59 Abs. 2 StPO besteht die Möglichkeit der **Überlängerungsbeschwerde** nach BGG. Nach konstanter Rechtsprechung (BGE 142 IV 81) kann bei unverhältnismässig langer Verfahrensdauer gleichzeitig Beschleunigung begehrt und eine Entschädigung für die Überlänge verlangt werden.
+Eine Ausnahme kann sich aus dem **Anfechtungsverbot** (Art. 57 Abs. 2 StPO) oder aus dringenden Fällen ergeben, in denen eine sofortige Amtsausübung durch die betroffene Person nicht zumutbar erscheint.
 
-Die Überlängerungsbeschwerde richtet sich nach Art. 29 Abs. 1 BV i.V.m. Art. 6 Abs. 1 EMRK und ist subsidiär gegenüber dem Beschleunigungsgesuch nach Art. 59 Abs. 2 StPO. Das Bundesgericht verlangt jedoch, dass zunächst ein Beschleunigungsgesuch nach kantonalem Recht gestellt wurde (BGE 142 IV 81 E. 3.1).
+### V. Kostentragung (Abs. 4)
 
-### V. EMRK und Verhältnismässigkeit
+Die Kostentragung richtet sich nach dem Ausgang des Verfahrens:
 
-Art. 6 Abs. 1 EMRK garantiert das Recht auf ein Verfahren innerhalb **angemessener Frist** (»within a reasonable time«). Die Kriterien zur Beurteilung der Angemessenheit wurden vom EGMR in der Rechtssache *König / Deutschland* entwickelt und vom Bundesgericht übernommen:
+1. **Gutgeheisses Gesuch**: Die Verfahrenskosten gehen zu Lasten des Bundes (bei Bundesbehörden) beziehungsweise des Kantons (bei kantonalen Behörden). Die gesuchstellende Partei trägt keine Kosten.
 
-1. Komplexität des Falles
-2. Verhalten des Beschwerdeführers
-3. Verhalten der Behörden
-4. Dauer des Verfahrens insgesamt
+2. **Abgewiesenes Gesuch**: Die Kosten gehen zu Lasten der gesuchstellenden Person. Dies gilt auch, wenn das Gesuch offensichtlich verspätet oder mutwillig war.
 
-### VI. Abgrenzungen
+Die Kostentragungsregelung dient der Vermeidung missbräuchlicher Ausstandsbegehren und stellt gleichzeitig sicher, dass berechtigte Gesuche nicht durch die Angst vor Kostentragung abgeschreckt werden.
 
-**a) Beschleunigungsgebot vs. Recht auf Gehör**
+### VI. Verhältnis zu anderen Bestimmungen
 
-Das Beschleunigungsgebot (Art. 59 StPO) und das Recht auf Gehör (Art. 29 Abs. 2 BV, Art. 107 StPO) können in Spannung zueinander stehen: Einerseits muss das Verfahren beschleunigt werden, andererseits muss der beschuldigten Person ausreichend Gelegenheit zur Stellungnahme gegeben werden.
+**a) Art. 56 StPO (Ausstandsgründe)**
 
-**b) Beschleunigungsgebot vs. Beschleunigungsverbot (Art. 3 StPO)**
+Art. 59 StPO setzt die Ausstandsgründe nach Art. 56 StPO voraus. Die Ausstandsgründe bilden die materielle Grundlage, während Art. 59 StPO die verfahrensrechtliche Umsetzung regelt.
 
-Art. 3 StPO verbietet die »übermässige Verfahrenslänge« — das Beschleunigungsgebot ist das Gegenstück: es verbietet die unverhältnismässige Verzögerung.
+**b) Art. 57 StPO (Selbstständige Erklärung)**
 
-**c) Art. 59 Abs. 2 vs. Art. 380 StPO**
+Nach Art. 57 StPO kann eine in einer Strafbehörde tätige Person von Amtes wegen oder auf Antrag eine selbstständige Erklärung zum Ausstand abgeben. Besteht keine Einigkeit über den Ausstand, entscheidet die nach Art. 59 StPO zuständige Instanz.
 
-Art. 380 StPO regelt die Beschwerde gegen Einstellungsverfügungen. Das Beschleunigungsgesuch nach Art. 59 Abs. 2 StPO ist ein separates Rechtsmittel, das nicht gegen eine Einstellung, sondern gegen die Verzögerung des Verfahrens gerichtet ist.
+**c) Art. 58 StPO (Ausstandsbegehren einer Partei)**
+
+Art. 58 StPO regelt das Ausstandsbegehren einer Partei (Gesuch, Frist, Begründung). Art. 59 StPO bestimmt, wer über dieses Gesuch entscheidet.
+
+**d) Art. 30 Abs. 1 BV und Art. 6 Abs. 1 EMRK**
+
+Der Ausstand ist Ausfluss des in Art. 30 Abs. 1 BV und Art. 6 Abs. 1 EMRK verankerten Anspruchs auf einen unabhängigen und unparteiischen Richter. Art. 59 StPO konkretisiert diesen verfassungsrechtlichen Anspruch im Bereich der Zuständigkeit für den Entscheid über Ausstandsbegehren.
 
 ## Literatur
 

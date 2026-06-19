@@ -1,72 +1,65 @@
 ---
-title: "Art. 100 — Unentgeltliche Rechtspflege"
+title: "Art. 100 — Aktenführung"
 weight: 100
-date: 2026-06-13
-lastmod: 2026-06-13
-description: "Kommentar zu Art. 100 StPO – Unentgeltliche Rechtspflege: Voraussetzungen, Umfang, Verfahren und Verhältnis zur amtlichen Verteidigung"
-tags: ["StPO", "Unentgeltliche Rechtspflege", "Mittelbedürftigkeit", "Verteidigung", "Kostenfreiheit", "Verfahrenskosten"]
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 100 StPO – Aktenführung: Pflicht zur Aktendossier-Erstellung, systematische Ablage und Verzeichnispflicht"
+tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Verfahrensleitung"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 100** Unentgeltliche Rechtspflege
+> **Art. 100** Aktenführung
 >
-> 1 Eine Partei, die nicht über die notwendigen finanziellen Mittel verfügt, wird auf ihr Gesuch hin von den Verfahrenskosten befreit, sofern der Prozess nicht als aussichtslos erscheint.
+> 1 Für jede Strafsache wird ein Aktendossier angelegt. Dieses enthält:
+>   a. die Verfahrens- und die Einvernahmeprotokolle;
+>   b. die von der Strafbehörde zusammengetragenen Akten;
+>   c. die von den Parteien eingereichten Akten.
 >
-> 2 Ihr kann ein unentgeltlicher Rechtsbeistand bewilligt werden, sofern dies zur Wahrung ihrer Rechte notwendig ist.
->
-> 3 Die unentgeltliche Rechtspflege umfasst die Befreiung von den Gerichtskosten und, sofern notwendig, die Bestellung eines unentgeltlichen Rechtsbeistands.
->
-> 4 Das Gesuch ist bei der Verfahrensleitung einzureichen. Es muss die Angabe enthalten, warum der Prozess nicht als aussichtslos erscheint.
->
-> 5 Wird das Gesuch bewilligt, so werden die Kosten dem Gegenpartei auferlegt, sofern dieser nicht ebenfalls mittellos ist. Sind mehrere Gegenparteien vorhanden, so werden die Kosten anteilsmässig aufgeteilt.
+> 2 Die Verfahrensleitung sorgt für die systematische Ablage der Akten und für deren fortlaufende Erfassung in einem Verzeichnis; in einfachen Fällen kann sie von einem Verzeichnis absehen.
 
 ## Kommentierung
 
 ### I. Bedeutung und Systematik
 
-**1** Art. 100 StPO regelt die **unentgeltliche Rechtspflege** im Strafverfahren. Die Norm gewährleistet den Zugang zum Recht (Art. 29 Abs. 3 BV, Art. 6 Ziff. 1 EMRK) für mittellose Parteien und bildet das verfahrensrechtliche Gegenstück zur amtlichen Verteidigung (Art. 127 ff. StPO).
+**1** Art. 100 StPO regelt die **Aktenführung** im Strafverfahren. Die Norm statuiert die Pflicht zur Erstellung eines Aktendossiers für jede Strafsache (Abs. 1) und die Pflicht zur systematischen Ablage und fortlaufenden Erfassung in einem Verzeichnis (Abs. 2). Die Aktenführung ist eine zentrale verfahrensrechtliche Pflicht, die Transparenz, Nachvollziehbarkeit und Fairness des Strafverfahrens sicherstellt.
 
-Die unentgeltliche Rechtspflege umfasst zwei Elemente: (1) die **Befreiung von den Verfahrenskosten** (Abs. 1 und 3) und (2) die **Bestellung eines unentgeltlichen Rechtsbeistands** (Abs. 2 und 3). Beide Elemente können unabhängig voneinander gewährt werden.
+**2** Die Regelung konkretisiert den in [Art. 3 Abs. 2 StPO](../art-003/) (Fairnessgebot) und [Art. 5 StPO](../art-005/) (Beschleunigungsgebot) verankerten Grundsatz der **Dokumentationspflicht** der Strafbehörden. Eine ordnungsgemässe Aktenführung ist Voraussetzung für das rechtliche Gehör (Art. 107 StPO), die Akteneinsicht (Art. 101 StPO) und die gerichtliche Überprüfung.
 
-### II. Voraussetzungen (Abs. 1 und 2)
+### II. Aktendossier (Abs. 1)
 
-**2** **Mittelbedürftigkeit.** Die Partei muss nachweisen, dass sie nicht über die notwendigen finanziellen Mittel verfügt. Die Massgeblichkeit richtet sich nach den wirtschaftlichen Verhältnissen zum Zeitpunkt des Gesuchs — ein späterer Vermögenszuwachs führt nicht zwingend zum Widerruf. Die Mittelbedürftigkeit wird nach den Grundsätzen der Sozialhilfe beurteilt.
+**3** **Pflicht zur Dossier-Erstellung.** Abs. 1 verpflichtet die Strafbehörde, für **jede Strafsache** ein Aktendossier anzulegen. Dies gilt unabhängig von der Schwere des Vorwurfs oder der Komplexität des Falles. Die Pflicht besteht ab Einleitung des Strafverfahrens.
 
-**3** **Nicht aussichtsloser Prozess.** Das Gesuch muss glaubhaft machen, dass der Prozess nicht als aussichtslos erscheint. Aussichtslosigkeit liegt vor, wenn die Rechtsschutzbegehren von vornherein keine Aussicht auf Erfolg haben. Eine geringe Erfolgsquote genügt nicht für die Aussichtslosigkeit — es muss praktisch keine Chance auf Erfolg bestehen.
+**4** **Inhalt des Aktendossiers.** Abs. 1 lit. a–c nennt die drei Kategorien von Aktenstücken, die das Dossier umfassen muss:
 
-**4** **Notwendigkeit des Rechtsbeistands (Abs. 2).** Für die Bestellung eines unentgeltlichen Rechtsbeistands muss zusätzlich zur Mittelbedürftigkeit die Notwendigkeit der Vertretung vorliegen. Die Notwendigkeit wird nach denselben Kriterien beurteilt wie bei der amtlichen Verteidigung (Art. 127 StPO): Komplexität des Falls, Schwere des Vorwurfs, mangelnde Fähigkeit zur Selbstverteidigung.
+- **Lit. a — Verfahrens- und Einvernahmeprotokolle**: Dies umfasst alle Protokolle über Verfahrenshandlungen (z.B. Haftprüfungsverfahren, Beschlagnahmeanordnungen) sowie die Einvernahmeprotokolle der beschuldigten Person, von Zeugen und Auskunftspersonen ([BGE 147 IV 167, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_167#e-1-3); [6B_28/2018, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-7-3)).
 
-### III. Umfang der unentgeltlichen Rechtspflege (Abs. 3)
+- **Lit. b — Von der Strafbehörde zusammengetragene Akten**: Dies umfasst alle Akten, die die Strafbehörde von Amtes wegen erhebt oder beschafft — Gutachten, Überwachungsberichte, Auskünfte aus Registern etc.
 
-**5** **Gerichtskostenbefreiung.** Die Befreiung von den Gerichtskosten umfasst alle Kosten, die der Partei im Verfahren entstehen: Gerichtsgebühren, Zeugengelder, Sachverständigenkosten, Übersetzungskosten. Nicht umfasst sind die Kosten der eigenen Partei (z.B. Postulationskosten).
+- **Lit. c — Von den Parteien eingereichte Akten**: Dies umfasst alle Eingaben, Beweisanträge und Belege, die die Parteien (beschuldigte Person, Privatklägerschaft, etc.) einreichen ([Art. 109 StPO](../art-109/)).
 
-**6** **Unentgeltlicher Rechtsbeistand.** Der unentgeltliche Rechtsbeistand hat Anspruch auf eine Entschädigung aus der Staatskasse. Die Entschädigung richtet sich nach dem Anwaltstarif des jeweiligen Kantons. Der Rechtsbeistand haftet für eine sorgfältige Vertretung — die Pflichten entsprechen denen eines gewählten Verteidigers.
+**5** Die dreiteilige Struktur stellt sicher, dass das Aktendossier die **gesamte Verfahrenshistorie** lückenlos abbildet. Fehlende Aktenstücke können einen Verfahrensfehler darstellen und im Einzelfall zu einem Beweisverwertungsverbot führen ([BGE 141 IV 39, E. 1.6.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39#e-1-6-1)).
 
-### IV. Verfahren (Abs. 4)
+### III. Systematische Ablage und Verzeichnispflicht (Abs. 2)
 
-**7** Das Gesuch um unentgeltliche Rechtspflege ist bei der **Verfahrensleitung** einzureichen. Es muss die Gründe für die Mittelbedürftigkeit und die Nicht-Aussichtslosigkeit darlegen. Die Verfahrensleitung entscheidet über das Gesuch in einem **selbstständigen Zwischenverfahren**.
+**6** **Systematische Ablage.** Die Verfahrensleitung sorgt für die **systematische Ablage** der Akten. Dies bedeutet, dass die Akten in einer logischen und nachvollziehbaren Reihenfolge geführt werden müssen, die eine effiziente Akteneinsicht und gerichtliche Überprüfung ermöglicht. Die Ablage muss den Zweck der Transparenz und Fairness erfüllen.
 
-### V. Kostentragung (Abs. 5)
+**7** **Fortlaufende Erfassung im Verzeichnis.** Die Verfahrensleitung muss die Akten in einem **Verzeichnis** fortlaufend erfassen. Das Verzeichnis ermöglicht den Parteien, den Umfang und Inhalt des Dossiers zu überblicken, und dient der Kontrolle der Vollständigkeit der Aktenführung. [BGer 6B_28/2018, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-7-3) stellt klar, dass die Grundsätze zur Aktenführungs- und Dokumentationspflicht in Art. 100 StPO konkretisiert werden.
 
-**8** Werden die Kosten der unentgeltlichen Rechtspflege nicht von der Gegenpartei getragen (weider diese ebenfalls mittellos ist oder weil das Verfahren ohne Gegenpartei geführt wird), so trägt sie die **Staatskasse**. Dies gilt auch für die Entschädigung des unentgeltlichen Rechtsbeistands.
+**8** **Ausnahme in einfachen Fällen.** In **einfachen Fällen** kann die Verfahrensleitung von einem Verzeichnis absehen. Was als einfacher Fall gilt, bestimmt sich nach dem Ermessen der Verfahrensleitung. Die Ausnahme soll unnötigen Verwaltungsaufwand vermeiden, ohne die Dokumentationspflicht im Kern zu beeinträchtigen. Kriterium für die Einfachheit ist namentlich die geringe Anzahl von Aktenstücken, die eine separate Verzeichniserstellung entbehrlich machen.
 
-### VI. Verhältnis zur amtlichen Verteidigung
+### IV. Verhältnis zur Akteneinsicht und zum rechtlichen Gehör
 
-**9** Art. 100 StPO und die Art. 127 ff. StPO (amtliche Verteidigung) stehen in einem **ergänzenden Verhältnis**:
-- Die **amtliche Verteidigung** (Art. 127 ff.) kommt der beschuldigten Person im Strafverfahren zu, wenn die Voraussetzungen nach Art. 132 StPO erfüllt sind.
-- Die **unentgeltliche Rechtspflege** (Art. 100) kommt jeder mittellosen Partei zu — auch der Privatklägerschaft und anderen Verfahrensbeteiligten.
-- In der Praxis wird die beschuldigte Person im Strafverfahren in der Regel über die amtliche Verteidigung (Art. 127 ff.) vertreten, während die unentgeltliche Rechtspflege (Art. 100) vor allem für die Privatklägerschaft und andere Beteiligte Bedeutung hat.
+**9** Die ordnungsgemässe Aktenführung nach Art. 100 StPO ist **Voraussetzung** für die Gewährung der Akteneinsicht (Art. 101 StPO) und des rechtlichen Gehörs (Art. 107 StPO). Ohne vollständiges und systematisch geordnetes Aktendossier können die Parteien ihre Verteidigungsrechte nicht effektiv wahrnehmen.
 
-### VII. Kasuistik
+**10** Die Rückweisung eines Falles an die Staatsanwaltschaft nach Art. 329 Abs. 2 StPO kann unter anderem dann in Betracht kommen, wenn die Akten nicht im Sinne von [Art. 100 StPO ordnungsgemäss geführt sind](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39#e-1-6-1) oder — ausnahmsweise — wenn Beweise zu ergänzen sind ([BGE 147 IV 167, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_167#e-1-3)).
 
-- **BGE 141 I 99, E. 3**: Mittelbedürftigkeit und Aussichtslosigkeit im Strafverfahren — die unentgeltliche Rechtspflege setzt nicht dieselbe Dringlichkeit voraus wie im Zivilverfahren.
-- **BGE 138 I 161, E. 2**: Der Anspruch auf unentgeltliche Rechtspflege umfasst nicht die Befreiung von Vorschusspflichten für Beweiserhebungen.
-- **BGE 137 I 146, E. 2**: Aussichtslosigkeit liegt vor, wenn die Begehren von vornherein keine Aussicht auf Erfolg haben.
+### V. Verhältnis zu kantonalen Bestimmungen
+
+**11** Kantonale Ausführungsbestimmungen können die Aktenführung im Detail regeln (z.B. Form des Verzeichnisses, elektronische Aktenführung). Die kantonalen Regelungen müssen jedoch den Mindestanforderungen von Art. 100 StPO genügen. Beispiel: Die kantonale Verordnung über die Staatsanwaltschaft des Kantons BS verweist ausdrücklich auf die Pflicht zur systematischen Aktenablage und fortlaufenden Erfassung nach Art. 100 Abs. 2 StPO.
 
 ## Literatur
 
-- Donatsch/Hansjakob/Heimgartner, Kurzkommentar StPO, 3. Aufl. 2024, Art. 100 N. 1 ff.
-- Griess/Brunner/Dittrich/Furer/Jossen/Roth, Schweizerische Strafprozessordnung, Kommentar, 2. Aufl., Art. 100 StPO
-- Schwarzenegger/Hug/Jeanrenaud, in: Trechsel/Roth, Kommentar zur StPO, Art. 100
+- Donatsch/Hans/Hostettler/Heimgartner, Kommentar zur Schweizerischen Strafprozessordnung, Art. 100 N. 1 ff.
+- Riedo/Fellmann/Niggli, Basler Kommentar StPO, Art. 100 N. 1 ff.

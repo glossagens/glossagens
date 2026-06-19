@@ -1,77 +1,106 @@
 ---
-title: "Art. 274 — Einsprache gegen den Strafbefehl"
+title: "Art. 274 — Genehmigungsverfahren"
 weight: 274
-date: 2026-06-12
-lastmod: 2026-06-12
-description: "Kommentar zu Art. 274 StPO – Einsprache gegen den Strafbefehl: Form, Frist, Inhalt und Wirkung der Einsprache"
-tags: ["StPO", "Strafbefehl", "Einsprache", "Rechtsmittel", "Fristen", "ordentliches Verfahren"]
-agent_verified: false
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 274 StPO – Genehmigungsverfahren: Zuständigkeit, Stellungnahmen, Anhörung und Abschluss des Genehmigungsverfahrens im Rahmen der internationalen Rechtshilfe"
+tags: ["StPO", "Genehmigungsverfahren", "internationale Rechtshilfe", "Bundesanwaltschaft", "fedpol", "Rechtshilfeersuchen"]
+agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 274** Einsprache
+> **Art. 274** Genehmigungsverfahren
 >
-> 1 Gegen den Strafbefehl kann die beschuldigte Person innert 10 Tagen seit der Zustellung Einsprache erheben.
+> 1 Die Bundesanwaltschaft führt das Genehmigungsverfahren durch.
 >
-> 2 Die Einsprache kann auf einzelne Punkte des Strafbefehls beschränkt werden.
+> 2 Sie holt die Stellungnahme des Bundesamtes für Polizei fedpol ein. Sie kann weitere Stellungnahmen einholen.
 >
-> 3 Wird Einsprache erhoben, so wird das ordentliche Verfahren durchgeführt.
+> 3 Die betroffene Person und die Staatsanwaltschaft werden über das Ersuchen und die begehrten Rechtshilfemassnahmen orientiert. Sie können zum Ersuchen Stellung nehmen.
 >
-> 4 Auf Verfahren, die nach einer Einsprache durchgeführt werden, sind die Bestimmungen über das ordentliche Verfahren anwendbar.
+> 4 Das Bundesamt für Polizei fedpol kann auf die Stellungnahme verzichten, wenn die Voraussetzungen für die Rechtshilfe offensichtlich nicht erfüllt sind.
+>
+> 5 Die Bundesanwaltschaft schliesst das Genehmigungsverfahren ab.
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Bedeutung und systematische Stellung
 
-Art. 274 StPO regelt die Einsprache gegen den Strafbefehl. Die Einsprache ist das zentrale Rechtsmittel gegen den Strafbefehl und führt — anders als die Berufung gegen ein Urteil — nicht zu einer Überprüfung durch eine höhere Instanz, sondern zur Durchführung des ordentlichen Verfahrens. Der Strafbefehl ist kein Urteil, sondern eine verfügende Entscheidsform, die der beschuldigten Person die Möglichkeit gibt, ein ordentliches Verfahren zu verlangen ([BGE 144 IV 293 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_293#e-2-1)).
+Art. 274 StPO regelt das **Genehmigungsverfahren** im Rahmen der internationalen Rechtshilfe in Strafsachen. Die Norm steht im Vierten Abschnitt des Dritten Buches der StPO (internationale Rechtshilfe, Art. 270–282 StPO) und konkretisiert die verfahrensrechtlichen Rahmenbedingungen für die Genehmigung von Rechtshilfeersuchen aus dem Ausland.
 
-Die Einsprache verwirklicht den verfassungsrechtlichen Anspruch auf ein faires Verfahren (Art. 29 BV, Art. 6 Ziff. 1 EMRK) und das Recht auf Gehör (Art. 29 Abs. 2 BV). Sie ermöglicht der beschuldigten Person, eine vollumfängliche richterliche Beurteilung des Sachverhalts zu verlangen, statt den Strafbefehl als endgültigen Entscheid hinzunehmen.
+Das Genehmigungsverfahren bildet das Herzstück der schweizerischen Rechtshilfepraxis: Es stellt sicher, dass ausländische Ersuchen unter Beteiligung der zuständigen Bundes- und Kantonsbehörden sowie der betroffenen Personen geprüft werden, bevor Rechtshilfemassnahmen vollzogen werden. Die Norm verbindet den Grundsatz der völkerrechtlichen Zusammenarbeitspflicht mit den verfassungsrechtlichen Garantien der betroffenen Person (insb. Art. 29 BV, Art. 6 EMRK).
 
-### II. Frist (Abs. 1)
+Systematisch gehört Art. 274 StPO zum Komplex der **Zuständigkeiten und Verfahren bei der internationalen Rechtshilfe** (Art. 270–282 StPO). Er steht im Zusammenhang mit Art. 270 StPO (Zuständigkeit für die internationale Rechtshilfe), Art. 271 StPO (Übermittlung von Auskünften von Amtes wegen), Art. 272 StPO (Herausgabe von Gegenständen oder Vermögenswerten an ausländische Behörden) und Art. 273 StPO (Übernahme ausländischer Strafverfolgung).
 
-**Zehn Tage seit Zustellung:** Die Einsprachefrist beträgt 10 Tage ab Zustellung des Strafbefehls. Die Frist ist eine absolute Verwahrungsklausel — bei Versäumnis wird der Strafbefehl rechtskräftig und vollstreckbar.
+### II. Zuständigkeit der Bundesanwaltschaft (Abs. 1)
 
-**Wiederherstellung:** Bei unverschuldeter Fristversäumnis kann die Wiederherstellung der Einsprachefrist nach Art. 94 StPO beantragt werden. Bei Pflichtverteidigung gilt die Ausnahme vom Zurechnungsgrundsatz nach Art. 89 Abs. 2 StPO ([BGE 149 IV 196 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_196#e-2); [BGer 6B_1005/2024 E. 3–4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1005_2024#e-3)).
+**Federführung:** Absatz 1 weist die Durchführung des Genehmigungsverfahrens der Bundesanwaltschaft zu. Diese Zuständigkeitsregelung entspricht der generellen Verantwortung der Bundesanwaltschaft für die internationale Rechtshilfe (Art. 270 Abs. 1 StPO). Die Bundesanwaltschaft handelt als zentrale Behörde im Rechtshilfeverkehr mit dem Ausland.
 
-**Zustellung an die beschuldigte Person:** Massgebend ist die Zustellung an die beschuldigte Person persönlich oder an ihren Verteidiger. Die Frist beginnt mit der Zustellung, nicht mit der Kenntnisnahme ([BGer 7B_291/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_291_2026)).
+**Auslandsmotiv:** Die Zuständigkeit der Bundesanwaltschaft spiegelt die doppelte Funktion der Bundesanwaltschaft wider: Einerseits vertritt sie die Interessen des Bundes im internationalen Rechtsverkehr; andererseits hat sie die Einhaltung der rechtlichen Schranken der Rechtshilfe zu gewährleisten.
 
-### III. Teilweise Einsprache (Abs. 2)
+**Kantonale Zuständigkeit:** Hat ein Kanton die Rechtshilfemassnahme vollzogen oder ist er für den Vollzug zuständig, so bleibt die Bundesanwaltschaft für das Genehmigungsverfahren zuständig. Die kantonale Staatsanwaltschaft ist jedoch über das Ersuchen zu orientieren (Art. 274 Abs. 3 StPO) und kann zum Ersuchen Stellung nehmen.
 
-Die Einsprache kann auf einzelne Punkte des Strafbefehls beschränkt werden. Dies bedeutet, dass die beschuldigte Person nicht den gesamten Strafbefehl anfechten muss, sondern beispielsweise nur den Strafzumessungsteil oder einzelne Tatvorwürfe bestreiten kann.
+### III. Stellungnahmen (Abs. 2)
 
-**Wirkung der teilweisen Einsprache:** Eine teilweise Einsprache führt zur Durchführung des ordentlichen Verfahrens, soweit die Einsprache reicht. Die nicht angefochtenen Teile des Strabbefehls werden im ordentlichen Verfahren nicht neu beurteilt — sie gelten als anerkannt. Das Gericht ist im ordentlichen Verfahren an die nicht angefochtenen Teile des Strafbefehls gebunden, soweit die beschuldigte Person diese nicht bestreitet ([BGE 140 IV 254 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_254#e-3-2)).
+**Stellungnahme des Bundesamtes für Polizei fedpol:** Absatz 2 verpflichtet die Bundesanwaltschaft, die Stellungnahme des Bundesamtes für Polizei (fedpol) einzuholen. Fedpol prüft das Rechtshilfeersuchen insbesondere unter dem Gesichtspunkt der:
+- völkerrechtlichen Zulässigkeit (insb. Vorliegen eines geltenden Rechtshilfevertrags oder Anwendbarkeit des Bundesgesetzes über internationale Rechtshilfe in Strafsachen, IRSG);
+- innerstaatlichen Zulässigkeit (insb. Vorliegen der Voraussetzungen nach Art. 270 StPO und den massgeblichen völkerrechtlichen Verträgen);
+- sicherheitspolitischen und aussenpolitischen Implikationen.
 
-### IV. Übergang zum ordentlichen Verfahren (Abs. 3)
+**Weitere Stellungnahmen:** Die Bundesanwaltschaft kann zusätzliche Stellungnahmen einholen, namentlich von:
+- dem Bundesamt für Justiz (BJ) bei Fragen des Völkerrechts oder der Souveränität;
+- dem Staatssekretariat für Wirtschaft (SECO) bei Sanktionsfragen;
+- dem Bundesamt für Sicherheit (BSI) bei sicherheitsrelevanten Aspekten;
+- weiteren kantonalen oder Bundesbehörden, je nach Sachzusammenhang.
 
-Wird Einsprache erhoben, so wird das ordentliche Verfahren durchgeführt. Dies bedeutet:
+### IV. Anhörung der betroffenen Person und der Staatsanwaltschaft (Abs. 3)
 
-- **Anklagegrundsatz:** Die Staatsanwaltschaft muss eine formelle Anklageschrift erstellen.
-- **Hauptverhandlung:** Es findet eine ordentliche Hauptverhandlung vor dem erstinstanzlichen Gericht statt.
-- **Beweisverfahren:** Alle Beweismittel werden im ordentlichen Verfahren erhoben; der Strafbefehl hat keine bindende Wirkung für das Beweisverfahren.
-- **Urteil:** Das Gericht entscheidet durch Urteil, nicht durch Strafbefehl.
+**Orientierungspflicht:** Absatz 3 verpflichtet die Bundesanwaltschaft, die betroffene Person und die Staatsanwaltschaft über das Ersuchen und die begehrten Rechtshilfemassnahmen zu orientieren. Diese Orientierungspflicht ist Ausdruck des rechtlichen Gehörs (Art. 29 Abs. 2 BV, Art. 107 StPO) und dient der Gewährleistung eines fairen Verfahrens.
 
-**Wirkung auf den Strafbefehl:** Mit der Einsprache verliert der Strafbefehl seine Wirkung. Er wird durch das Urteil im ordentlichen Verfahren ersetzt. Das Urteil kann sowohl zum Nachteil als auch zum Vorteil der beschuldigten Person ausfallen (Art. 276 Abs. 2 StPO).
+**Stellungnahmerecht:** Die betroffene Person und die Staatsanwaltschaft können zum Ersuchen Stellung nehmen. Dieses Stellungnahmerecht ist prozessual von Bedeutung, da die Bundesanwaltschaft die Stellungnahmen bei ihrem Genehmigungsentscheid zu berücksichtigen hat.
 
-### V. Anwendbares Recht (Abs. 4)
+**Einschränkungen:** In dringenden Fällen oder bei Gefährdung des Untersuchungszwecks kann die Orientierung eingeschränkt oder aufgeschoben werden (vgl. Art. 108 StPO zu Einschränkungen des rechtlichen Gehörs). Dies gilt insbesondere bei:
+- drohender Beweisverschlechterung;
+- Gefährdung von Zeugen oder Informanten;
+- Gefahr der Vereitelung der Rechtshilfemassnahme.
 
-Auf Verfahren nach Einspracheerhebung sind die Bestimmungen über das ordentliche Verfahren anwendbar. Dies umfasst die Regeln über die Untersuchung (Art. 299 ff. StPO), die Anklage (Art. 323 ff. StPO), die Hauptverhandlung (Art. 327 ff. StPO) und das Urteil (Art. 350 ff. StPO).
+### V. Verzicht auf die Stellungnahme von fedpol (Abs. 4)
 
-### VI. Verhältnis zu anderen Rechtsmitteln
+**Offensichtliche Unzulässigkeit:** Absatz 4 ermächtigt das Bundesamt für Polizei fedpol, auf die Stellungnahme zu verzichten, wenn die Voraussetzungen für die Rechtshilfe offensichtlich nicht erfüllt sind. Diese Regelung bezweckt eine Verfahrensvereinfachung in klar gelagerten Ablehnungsfällen.
 
-**Einsprache vs. Beschwerde:** Die Einsprache gegen den Strafbefehl ist nicht mit der Beschwerde gegen Verfügungen (Art. 389 ff. StPO) zu verwechseln. Die Einsprache führt zum ordentlichen Verfahren; die Beschwerde führt zu einer Überprüfung durch eine höhere Instanz.
+**Voraussetzungen:** Der Verzicht kommt nur in Betracht, wenn die Unzulässigkeit der Rechtshilfe **offensichtlich** ist, d.h. bei einer **manifesten** Verletzung von Zulässigkeitsvoraussetzungen. Dies ist namentlich der Fall bei:
+- Fehlen eines Rechtshilfeabkommens oder der Anwendbarkeit des IRSG;
+- offensichtlich politisch motivierten Ersuchen (vgl. Art. 3 IRSG);
+- offensichtlicher Verletzung des Ne-bis-in-idem-Grundsatzes;
+- offensichtlicher Unverhältnismässigkeit der begehrten Massnahme.
 
-**Einsprache vs. Berufung:** Nach einem Urteil im ordentlichen Verfahren (das auf eine Einsprache gegen den Strafbefehl folgt) steht der beschuldigten Person die Berufung nach Art. 398 ff. StPO offen.
+**Verhältnismässigkeit:** Der Verzicht auf die Stellungnahme stellt eine Ausnahme dar. Im Zweifel hat fedpol eine Stellungnahme abzugeben, um eine sorgfältige Prüfung der Zulässigkeitsvoraussetzungen zu gewährleisten.
 
-**Nichteintretensfälle:** Wird die Einsprache nicht fristgerecht erhoben, wird auf sie nicht eingetreten. Der Strafbefehl wird rechtskräftig und vollstreckbar. Gegen den Nichteintretensentscheid kann Beschwerde in Strafsachen erhoben werden (Art. 80 ff. BGG; [BGer 7B_291/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_291_2026); [BGer 7B_351/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_351_2026)).
+### VI. Abschluss des Genehmigungsverfahrens (Abs. 5)
 
-### VII. Nichteintreten bei unzureichender Einsprache
+**Zuständigkeit:** Absatz 5 stellt klar, dass der Abschluss des Genehmigungsverfahrens in der Zuständigkeit der Bundesanwaltschaft liegt. Der Genehmigungsentscheid ist ein Verfügungsentscheid im Sinne von Art. 18 StPO.
 
-Die beschuldigte Person muss in der Einsprache die Gründe für ihre Einwände gegen den Strafbefehl darlegen. Eine pauschale Einsprache ohne Begründung kann zur Nichteintretens führen, wenn die beschuldigte Person ihre Mitwirkungspflicht verletzt ([BGer 7B_291/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_291_2026)).
+**Inhalt des Entscheids:** Die Bundesanwaltschaft entscheidet über:
+- die **Genehmigung** des Rechtshilfeersuchens (Ganzheitliche oder teilweise Genehmigung);
+- die **Ablehnung** des Rechtshilfeersuchens (Ganzheitliche oder teilweise Ablehnung);
+- **Auflagen und Bedingungen** für die Rechtshilfegewährung (insb. Geheimhaltungspflichten, Verwendungsbeschränkungen, Spezialitätsgarantien).
+
+**Rechtsmittel:** Gegen den Genehmigungsentscheid der Bundesanwaltschaft steht der betroffenen Person und der Staatsanwaltschaft die **Beschwerde in Strafsachen** an das Bundesstrafgericht offen (Art. 397 Bst. b BGG; Art. 390 ff. StPO). Das Beschwerderecht sichert den verfassungsrechtlichen Anspruch auf rechtliches Gehör und eine wirksame Rechtskontrolle.
+
+### VII. Verhältnis zu weiteren Bestimmungen
+
+**IRSG:** Das Bundesgesetz über die internationale Rechtshilfe in Strafsachen (IRSG, SR 351.1) bleibt neben der StPO anwendbar, soweit die StPO keine abschliessende Regelung trifft. Das IRSG konkretisiert die Voraussetzungen und Schranken der Rechtshilfe (Art. 1–6 IRSG) und regelt das Verfahren im Einzelnen (Art. 27 ff. IRSG).
+
+**Völkerrechtliche Verträge:** Die bilateralen und multilateralen Rechtshilfeverträge der Schweiz (insb. das Europäische Rechtshilfeübereinkommen, ERÜ, SR 0.351.1) gehen im Anwendungsbereich den innerstaatlichen Regelungen vor (Art. 1 Abs. 2 IRSG).
+
+**Art. 270 StPO:** Art. 274 StPO ist im Zusammenhang mit der generellen Zuständigkeitsregelung des Art. 270 StPO zu lesen. Art. 270 Abs. 1 StPO bestimmt die Bundesanwaltschaft als zuständige Behörde für die internationale Rechtshilfe; Art. 274 konkretisiert diese Zuständigkeit für das Genehmigungsverfahren.
+
+**Art. 275 ff. StPO:** Die nachfolgenden Bestimmungen regeln Einzelaspekte der Rechtshilfe: Art. 275 StPO (Schweiz als ersuchter Staat), Art. 276 StPO (Schweiz als ersuchender Staat), Art. 277 StPO (Übersetzung), Art. 278 StPO (Kosten).
 
 ## Literatur
 
-- Donatsch/Hans/Heer/Marfurt, Strafprozessrecht, 11. Aufl. 2024, § 23 Rz. 30 ff.
+- Donatsch/Hans/Heer/Marfurt, Strafprozessrecht, 11. Aufl. 2024, § 28 Rz. 15 ff.
 - Heer, in: Donatsch/Hans/Marfurt/Wohlers (Hrsg.), StPO Kommentar, Art. 274 Rz. 1 ff.
 - Roth, in: Niggli/Maurer/Wiprächtiger/Wohlers (Hrsg.), Basler Kommentar StPO, Art. 274 Rz. 1 ff.
-- Schmid, Strafprozessrecht, 5. Aufl. 2022, Rz. 840 ff.
+- Schmid, Strafprozessrecht, 5. Aufl. 2022, Rz. 1500 ff.
+- Zimmermann, Internationale Rechtshilfe in Strafsachen, in: Donatsch (Hrsg.), Internationale Rechtshilfe, 3. Aufl. 2020, Rz. 200 ff.

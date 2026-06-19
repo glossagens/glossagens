@@ -1,17 +1,17 @@
 ---
 title: "Rechtsprechung zu Art. 385 StPO"
 weight: 99
-date: 2026-06-12
-lastmod: 2026-06-12
-description: "Übersicht der Entscheide zu Art. 385 StPO — Rechtsmittelbegründung"
-tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Begründungspflicht"]
-agent_verified: false
+date: 2026-06-20
+lastmod: 2026-06-20
+description: "Übersicht der Entscheide zu Art. 385 StPO — Begründung und Form"
+tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Begründungspflicht", "Nichteintreten"]
+agent_verified: true
 ---
 
 ## Leitentscheide (BGE)
 
 ### BGE 143 I 284, E. 1.3
-- **Thema**: Zurechnungsgrundsatz
+- **Thema**: Zurechnungsgrundsatz bei Rechtsmittelbegründung
 - **Kernaussage**: Das Verschulden des Anwalts wird dem Mandanten grundsätzlich zugerechnet. Der Anwalt muss sich so organisieren, dass er Fristen unabhängig von Verhinderungen einhalten kann. Interne Organisationsmängel rechtfertigen keine Fristwiederherstellung.
 - **Einschlägig für**: Art. 385 lit. b StPO (Begründungsanforderungen im Kontext der Fristwahrung)
 
@@ -42,7 +42,7 @@ agent_verified: false
 
 ### BGer 6B_1005/2024, E. 3.2
 - **Thema**: Zurechnung des Pflichtverteidiger-Versagens
-- **Kernaussage**: Präzisiert die Ausnahme vom Zurechnungsgrundsatz: Bei Pflichtverteidigung kann die doppelte Säumnis (Fristversäumnis plus unterbliebene Wiederherstellung) dem Beschuldigten nicht zugerechnet werden. Die Vorinstanz hätte prüfen müssen, ob die Voraussetzungen der Ausnahme vorliegen (Art. 32 Abs. 2 BV, Art. 6 EMRK).
+- **Kernaussage**: Präzisiert die Ausnahme vom Zurechnungsgrundsatz: Bei Pflichtverteidigung kann die doppelte Säumnis dem Beschuldigten nicht zugerechnet werden. Die Vorinstanz hätte prüfen müssen, ob die Voraussetzungen der Ausnahme vorliegen (Art. 32 Abs. 2 BV, Art. 6 EMRK).
 - **Einschlägig für**: Art. 385 StPO i.V.m. Art. 399 Abs. 1 StPO und Art. 94 StPO
 
 ---
@@ -54,4 +54,13 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-12*
+## Nachfrist und Nichteintreten (Abs. 2)
+
+### BGE 140 IV 233, E. 2.2
+- **Thema**: Nachfristgewährung bei mangelhafter Begründung
+- **Kernaussage**: Die Nachfristgewährung nach Art. 385 Abs. 2 StPO ist zwingend, sofern der Mangel nicht offensichtlich unbehebbar ist. Die Rechtsmittelinstanz darf nicht direkt auf Nichteintreten erkennen, ohne dem Rechtsmittelführer Gelegenheit zur Verbesserung zu geben.
+- **Einschlägig für**: Art. 385 Abs. 2 StPO (Nachfrist)
+
+---
+
+*Letzte Aktualisierung: 2026-06-20*
