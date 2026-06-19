@@ -24,7 +24,7 @@ agent_verified: true
 
 **1** Art. 25 ATSG regelt die **Rückerstattung unrechtmässig bezogener Leistungen** (Abs. 1) sowie die **Rückforderung zuviel bezahlter Beiträge** (Abs. 3) und deren **Verjährung** (Abs. 2 und 3). Die Norm ist von zentraler Bedeutung für das sozialversicherungsrechtliche Leistungsrecht, da sie den Ausgleich zwischen dem Vertrauensschutz der Versicherten und dem öffentlich-rechtlichen Rückerstattungsanspruch der Versicherungseinrichtungen herstellt.
 
-**2** Die Praxis des Bundesgerichts hat die Rückerstattungspflicht unter den Vorbehalt der **Unschuldsvermutung** gestellt ([BGE 138 V 74](https://mcp.opencaselaw.ch/entscheid/bger_138_V_74) E. 5) und die Verwirkungsfristen in einem mehrstufigen System ausgestaltet, das zwischen **relativen** und **absoluten** Fristen unterscheidet ([BGE 146 V 217](https://mcp.opencaselaw.ch/entscheid/bger_146_V_217) E. 4). Die Norm findet in der Praxis tägliche Anwendung — im IV-Recht, AHV-Recht, UVG-Recht und in allen Zweigen der Sozialversicherung.
+**2** Die Rückerstattung ist **verschuldensunabhängig**; ein gutgläubiger Bezug schliesst sie nicht aus, kann aber zusammen mit einer grossen Härte zum **Erlass** führen (Abs. 1 Satz 2; dazu N 7 ff.). Die Rückforderung unterliegt einem mehrstufigen Fristensystem mit einer **relativen** und einer **absoluten** Frist ([BGE 146 V 217](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_V_217) E. 4; dazu N 10 ff.). Die Unschuldsvermutung ist nur für die Frage von Bedeutung, ob die längere strafrechtliche Verjährungsfrist nach Abs. 2 Satz 2 greift ([BGE 138 V 74](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_V_74); dazu N 13). Die Norm findet in allen Zweigen der Sozialversicherung tägliche Anwendung.
 
 ### II. Unrechtmässig bezogene Leistungen (Abs. 1)
 
@@ -37,21 +37,19 @@ agent_verified: true
 - **Fehlerhaftes Verfügungsurteil**: Die IV-Stelle hat die Verfügung auf unrichtigen Tatsachenfeststellungen oder fehlerhafter Rechtsanwendung basiert.
 - **Täuschung**: Die versicherte Person hat absichtlich falsche Angaben gemacht (Art. 146 StGB).
 
-#### 2. Unschuldsvermutung
+#### 2. Vertrauensschutz und Verschuldensunabhängigkeit
 
-**5** Das Bundesgericht hat in [BGE 138 V 74](https://mcp.opencaselaw.ch/entscheid/bger_138_V_74) E. 5 die **Unschuldsvermutung** als massgebliches Prinzip für die Rückerstattungspflicht anerkannt. Danach können Leistungen nicht zurückgefordert werden, wenn die versicherte Person nicht wusste und nicht hätte wissen müssen, dass der Bezug unrechtmässig war. Die Unschuldsvermutung greift insbesondere dann, wenn der Fehler bei der Versicherungseinrichtung lag und die versicherte Person aufgrund der ihr zugestellten Verfügung auf die Rechtmässigkeit des Bezugs vertrauen durfte.
+**5** Die Rückerstattungspflicht besteht **unabhängig von einem Verschulden** der versicherten Person; massgebend ist allein die objektive Unrechtmässigkeit des Bezugs. Der gute Glaube der empfangenden Person hebt die Rückforderung als solche nicht auf, sondern ist erst auf der Stufe des **Erlasses** (Abs. 1 Satz 2; N 7 ff.) von Bedeutung.
 
-**6** Dieser **Vertrauensschutz** wird durch den Grundsatz von **Treu und Glauben** (Art. 9 BV) gestützt. Hat die Versicherungseinrichtung eine Verfügung erlassen, die den Eindruck erweckt, die Leistung sei rechtmässig, so kann sich die versicherte Person darauf verlassen — selbst wenn die Verfügung sachlich fehlerhaft war. Der Vertrauensschutz geht so weit, dass die versicherte Person nicht verpflichtet ist, die Richtigkeit der Verfügung selbst zu überprüfen.
+**6** Der **Vertrauensschutz** (Treu und Glauben, Art. 9 BV) kann eine Rückforderung nur ausnahmsweise und unter den allgemeinen Voraussetzungen einer Vertrauensgrundlage ausschliessen. Im Regelfall verbleibt dem gutgläubigen Bezüger der Weg über den Erlass; ein eigentliches Rückforderungsverbot aus Vertrauensschutz bildet die Ausnahme.
 
-#### 3. Verrechnung mit künftigen Leistungen
+#### 3. Erlass der Rückerstattung (Abs. 1 Satz 2)
 
-**7** Die **Verrechnung** der Rückforderung mit künftigen Leistungen setzt voraus, dass die Voraussetzungen für den Leistungsbezug weiterhin erfüllt sind oder die Verrechnung zur **Vermeidung einer Härte** erforderlich ist. Die Verrechnung stellt keine Sanktion dar, sondern dient der praktischen Durchsetzung des Rückerstattungsanspruchs unter Berücksichtigung der wirtschaftlichen Verhältnisse der versicherten Person ([BGE 140 V 521](https://mcp.opencaselaw.ch/entscheid/bger_140_V_521) E. 3).
+**7** Nach Abs. 1 Satz 2 muss die Rückerstattung **nicht** geleistet werden, wenn die Leistungen **in gutem Glauben** empfangen wurden **und** die Rückerstattung eine **grosse Härte** bedeutet. Die beiden Voraussetzungen müssen **kumulativ** erfüllt sein. Über den Erlass wird in einem vom Rückforderungsentscheid getrennten Verfahren durch besondere Verfügung entschieden (Art. 25 Abs. 1 Satz 2 ATSG, konkretisiert durch Art. 4 ATSV).
 
-**8** Die Verrechnung erfolgt in der Regel in **Raten**, die so bemessen sind, dass der Existenzminimum der versicherten Person gewahrt bleibt. Das Bundesgericht hat wiederholt betont, dass die Verrechnung nicht dazu führen darf, dass die versicherte Person unter das soziokulturelle Existenzminimum absinkt.
+**8** **Guter Glaube.** Gutgläubig ist, wer den unrechtmässigen Bezug weder kannte noch bei der gebotenen Aufmerksamkeit hätte kennen müssen. Der gute Glaube entfällt bei absichtlicher oder grobfahrlässiger Verletzung namentlich der Melde- oder Auskunftspflicht; blosse leichte Fahrlässigkeit schadet dagegen nicht ([BGE 138 V 218](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_V_218) E. 4).
 
-#### 4. Härtefallklausel
-
-**9** Die Verrechnung zur Vermeidung einer Härte kommt insbesondere bei tiefen Einkommen und hohen Rückerstattungsbeträgen zum Zug. Das Bundesgericht prüft die Härtefallklausel **restriktiv**; eine blosse wirtschaftliche Belastung genügt nicht, vielmehr muss eine **existenzgefährdende Situation** vorliegen ([BGE 133 V 579](https://mcp.opencaselaw.ch/entscheid/bger_133_V_579) E. 4). Die Härtefallklausel ist eine Ausnahmevorschrift, die nur bei besonders gravierenden Härten eingreift.
+**9** **Grosse Härte und Verfahren.** Die grosse Härte beurteilt sich nach den wirtschaftlichen Verhältnissen im Zeitpunkt, in dem über die Rückforderung rechtskräftig entschieden ist (Art. 4 Abs. 2 ATSV). Stammen die zurückzuerstattenden Mittel aus noch vorhandenen Nachzahlungen, liegt insoweit keine grosse Härte vor ([BGE 122 V 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_V_221)). Der Erlass wird auf schriftliches, begründetes Gesuch hin gewährt, das spätestens 30 Tage nach Eintritt der Rechtskraft der Rückforderungsverfügung einzureichen ist (Art. 4 Abs. 4 und 5 ATSV).
 
 ### III. Verjährungsfristen (Abs. 2 und 3)
 

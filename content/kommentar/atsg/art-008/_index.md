@@ -3,8 +3,8 @@ title: "Art. 8 — Invalidität"
 weight: 8
 date: 2026-06-06
 lastmod: 2026-06-19
-description: "Kommentar zu Art. 8 ATSG — Invalidität: Definition, Anspruchsvoraussetzungen, Eingliederungsmassnahmen und Zusammenhänge mit den Fachgesetzen."
-tags: ["ATSG", "Sozialversicherungsrecht", "Invalidität", "Eingliederung", "IV", "Erwerbsunfähigkeit"]
+description: "Kommentar zu Art. 8 ATSG — Invalidität: Begriff, Bemessung bei Erwerbstätigen (Einkommensvergleich), nichterwerbstätigen Minderjährigen und Volljährigen (Betätigungs- und gemischte Methode) sowie Verhältnis zu Art. 6 und 7 ATSG."
+tags: ["ATSG", "Sozialversicherungsrecht", "Invalidität", "Einkommensvergleich", "gemischte Methode", "Erwerbsunfähigkeit"]
 agent_verified: true
 ---
 
@@ -20,91 +20,77 @@ agent_verified: true
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Bedeutung und Aufbau
 
-Art. 8 ATSG definiert den zentralen begrifflichen Massstab der Invalidität im Sozialversicherungsrecht. Die Norm ist von grundlegender Bedeutung für die Invalidenversicherung, die berufliche Vorsorge (BVG) und die Unfallversicherung, da sie den Begriff der Invalidität einheitlich festlegt. Art. 8 Abs. 1 ATSG enthält die allgemeine Definition, Abs. 2 die Definition für Erwerbstätige und Abs. 3 die massgebende Regelung für die Bemessung des Invaliditätsgrades unter Einbezug von Eingliederungsmassnahmen.
+Art. 8 ATSG umschreibt den Invaliditätsbegriff einheitlich für das gesamte Bundessozialversicherungsrecht; die Einzelgesetze (IVG, UVG, BVG) knüpfen daran an (vgl. Art. 6 ff. IVG). Die Norm unterscheidet drei Konstellationen: die allgemeine Definition, die in erster Linie für erwerbstätige Personen Bedeutung hat (Abs. 1), nichterwerbstätige Minderjährige (Abs. 2) und nichterwerbstätige Volljährige (Abs. 3).
 
-Mit ca. 32'000 Zitaten ist Art. 8 ATSG eine der meistzitierten Normen des Schweizer Sozialversicherungsrechts. Die Norm wurde durch die 4. IV-Revision (in Kraft seit 1. Januar 2012) um Abs. 3 ergänzt, welcher den Einbezug von Eingliederungsmassnahmen bei der Bemessung des Invaliditätsgrades vorschreibt.
+Invalidität ist ein **wirtschaftlicher**, nicht ein medizinischer Begriff. Sie setzt eine Erwerbsunfähigkeit (Art. 7 ATSG) voraus, die ihrerseits auf einer Arbeitsunfähigkeit (Art. 6 ATSG) beruht. Diese Begriffe bilden das Stufenverhältnis Gesundheitsschaden → Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1 und 3.2).
 
-### II. Allgemeine Invaliditätsdefinition (Abs. 1)
+### II. Invalidität bei Erwerbstätigen (Abs. 1)
 
-#### 1. Voraussichtlich dauernde Beeinträchtigung
+#### 1. Voraussichtlich bleibende oder längere Zeit dauernde Erwerbsunfähigkeit
 
-Art. 8 Abs. 1 ATSG setzt eine **voraussichtlich dauernde** Beeinträchtigung der Erwerbsfähigkeit voraus. «Voraussichtlich dauernd» bedeutet nicht «endgültig» oder «irreversibel», sondern dass nach den medizinischen und versicherungsrechtlichen Erfahrungen mit einer fortgesetzten Beeinträchtigung zu rechnen ist. Eine befristete Beeinträchtigung — etwa bei einer voraussichtlich heilbaren Erkrankung — erfüllt das Merkmal nicht (BGE 141 V 577, E. 3.2).
+Abs. 1 verlangt eine **voraussichtlich bleibende oder längere Zeit dauernde** ganze oder teilweise Erwerbsunfähigkeit. «Bleibend» meint einen weitgehend stabilisierten, im Wesentlichen irreversiblen Gesundheitsschaden; «längere Zeit dauernd» erfasst Beeinträchtigungen, die während eines erheblichen Zeitraums fortbestehen, ohne stabilisiert zu sein. Eine bloss vorübergehende Arbeitsunfähigkeit — etwa bei einer voraussichtlich heilbaren Erkrankung — begründet keine Invalidität.
 
-Die voraussichtlich dauernde Beeinträchtigung ist nach dem **Somme-Prinzip** zu beurteilen: Nicht jede einzelne gesundheitliche Störung muss für sich allein die Voraussetzung erfüllen; massgebend ist die Gesamtwirkung aller gesundheitlichen Beeinträchtigungen auf die Erwerbsfähigkeit (BGE 146 V 252, E. 4.1).
+#### 2. Massgeblichkeit der Erwerbsunfähigkeit und Einkommensvergleich
 
-#### 2. Ganze oder teilweise Beeinträchtigung
+Anknüpfungspunkt ist die Erwerbsunfähigkeit nach Art. 7 ATSG, d.h. der nach zumutbarer Behandlung und Eingliederung verbleibende Verlust der Erwerbsmöglichkeiten auf dem ausgeglichenen Arbeitsmarkt. Bei erwerbstätigen Personen wird der Invaliditätsgrad durch **Einkommensvergleich** ermittelt (Art. 16 ATSG): Das ohne Gesundheitsschaden erzielbare Valideneinkommen wird dem trotz Gesundheitsschaden noch zumutbaren Invalideneinkommen gegenübergestellt ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.4). Zur Parallelisierung erheblich unterdurchschnittlicher Valideneinkommen siehe [BGE 135 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_297).
 
-Die Invalidität kann **ganz** (100 %) oder **teilweise** sein. Der Invaliditätsgrad wird in Viertelsgraden gemessen (25 %, 50 %, 75 %, 100 %), was sich aus der gerundeten Berechnung nach Art. 18 Abs. 1 ATSG ergibt. Die Viertelsgrad-Praxis ist ständige Rechtsprechung und hat die frühere Praxis der Zehntelsgrade abgelöst.
+#### 3. Invaliditätsgrad
 
-#### 3. Erwerbsfähigkeit vs. Erwerbstätigkeit
+Der Invaliditätsgrad wird als Prozentsatz der Erwerbseinbusse ausgedrückt. Die Abstufung der Rente richtet sich nach dem jeweiligen Fachgesetz; in der Invalidenversicherung gilt seit dem 1. Januar 2022 ein stufenloses Rentensystem (Art. 28b IVG).
 
-Die Erwerbsfähigkeit ist ein abstraktes Mass und nicht mit der faktischen Erwerbstätigkeit gleichzusetzen. Die Invalidität bemisst sich nach dem Verlust an Erwerbsfähigkeit, nicht nach dem Verlust an Erwerbseinkommen. Eine versicherte Person kann erwerbstätig, aber nicht erwerbsfähig sein (etwa trotz schwerer gesundheitlicher Beeinträchtigung) oder umgekehrt.
+### III. Invalidität nichterwerbstätiger Minderjähriger (Abs. 2)
 
-### III. Invalidität bei Erwerbstätigen (Abs. 2)
+Abs. 2 betrifft **nichterwerbstätige Minderjährige**. Bei ihnen lässt sich mangels Erwerbstätigkeit kein Einkommensvergleich vornehmen. Sie gelten als invalid, wenn die gesundheitliche Beeinträchtigung **voraussichtlich** eine ganze oder teilweise Erwerbsunfähigkeit zur Folge haben wird. Massgebend ist somit eine **prognostische** Beurteilung der künftigen Erwerbsfähigkeit. Praktische Bedeutung hat die Bestimmung namentlich beim Übergang von Eingliederungsleistungen (etwa der erstmaligen beruflichen Ausbildung) zur Rente.
 
-#### 1. Unmöglichkeit der Betätigung im bisherigen Beruf
+### IV. Invalidität nichterwerbstätiger Volljähriger (Abs. 3)
 
-Abs. 2 konkretisiert die Invaliditätsdefinition für erwerbstätige Personen. Die Unmöglichkeit, sich im bisherigen Beruf zu betätigen, ist nicht im strengen Wortsinn zu verstehen. Es genügt, wenn die gesundheitliche Beeinträchtigung eine zumutbare Berufsausübung im bisherigen Rahmen verunmöglicht (BGE 141 V 577, E. 4.2).
+#### 1. Betätigungsvergleich im Aufgabenbereich (spezifische Methode)
 
-#### 2. Zumutbare andere Tätigkeit
+Abs. 3 erfasst **volljährige Personen, die schon vor dem Gesundheitsschaden nicht erwerbstätig waren** und denen eine Erwerbstätigkeit nicht zugemutet werden kann (typischerweise im Haushalt tätige Personen). Da kein Erwerbseinkommen ausfällt, wird die Invalidität nicht durch Einkommensvergleich, sondern durch einen **Betätigungsvergleich** im bisherigen Aufgabenbereich ermittelt (sog. spezifische Methode). Massgebend ist, in welchem Umfang die versicherte Person infolge des Gesundheitsschadens an der Betätigung im Aufgabenbereich gehindert ist; dabei sind die Schadenminderungspflicht und die zumutbare Mithilfe von Familienangehörigen zu berücksichtigen ([BGE 133 V 504](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_V_504) E. 3 f.).
 
-Die versicherte Person ist verpflichtet, sich in einer **anderen zumutbaren Tätigkeit** zu betätigen, sofern eine solche existiert. Zumutbar ist eine Tätigkeit, die der versicherten Person unter Berücksichtigung ihrer gesundheitlichen Beeinträchtigung, ihres Alters, ihrer Ausbildung und ihrer beruflichen Erfahrung zugemutet werden kann. DieZumutbarkeitsprüfung erfolgt im Rahmen der konkreten Vergleichslehre (BGE 144 V 220, E. 5.2).
+#### 2. Gemischte Methode bei Teilerwerbstätigkeit
 
-#### 3. Angemessener Lohn
+War die versicherte Person teils erwerbstätig, teils im Aufgabenbereich tätig, gelangt die **gemischte Methode** zur Anwendung: Erwerbs- und Aufgabenbereich werden je gesondert bewertet und anteilsmässig gewichtet ([BGE 130 V 393](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_393); [BGE 137 V 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_334)). Die gemischte Methode wurde im Anschluss an die Rechtsprechung des EGMR auf Verordnungsstufe angepasst (Art. 27bis IVV).
 
-Der Lohn, der nach den Umständen als angemessen gelten darf, orientiert sich an den **branchenüblichen Löhnen** und dem **allgemeinen Lohngefüge**. Ein angemessener Lohn bedeutet nicht zwingend den gleichen Lohn wie vor Eintritt der Invalidität, sondern dass die Differenz zwischen dem Vorlohn und dem nach der Invalidität erzielbaren Lohn nicht unverhältnismässig gross ist.
+#### 3. Sinngemässe Anwendung von Art. 7 Abs. 2 ATSG
 
-### IV. Bemessung des Invaliditätsgrades (Abs. 3)
-
-#### 1. Einbezug von Eingliederungsmassnahmen
-
-Art. 8 Abs. 3 ATSG (seit 1. Januar 2012) schreibt vor, dass bei der Bemessung des Invaliditätsgrades die **Auswirkungen der gesundheitlichen Beeinträchtigung auf die Erwerbsfähigkeit unter Berücksichtigung von Eingliederungsmassnahmen** im Sinne von Artikel 8a zu beurteilen sind. Dies bedeutet:
-
-- **Eingliederungsmassnahmen** verbessern die Erwerbsfähigkeit und verringern somit den Invaliditätsgrad.
-- Die IV hat Eingliederungsmassnahmen **vor** der Rentenzusprache zu prüfen und — soweit angemessen — durchzuführen (BGE 148 V 390, E. 5.2).
-- Werden Eingliederungsmassnahmen durchgeführt, ist der Invaliditätsgrad **nach deren Abschluss** zu beemessen.
-
-#### 2. Präzisierung der Rechtsprechung durch 9C_173/2025
-
-Das Bundesgericht hat in **9C_173/2025** (5er-Besetzung, Präzisierung vom 4. Mai 2026) grundlegend klargestellt, dass die **Invalidität bei laufenden Eingliederungsmassnahmen erst nach deren Abschluss** eintritt. Massgebender Zeitpunkt für die Bemessung des Invaliditätsgrades ist der Abschluss der Eingliederungsmassnahmen, nicht ein Zeitpunkt dazwischen. Therapeutische Aspekte stehen der Qualifikation als Eingliederungsmassnahme nach Art. 8 Abs. 3 ATSG nicht entgegen, solange der Eingliederungszweck im Vordergrund steht.
-
-Diese Präzisierung bestätigt und verdeutlicht die ständige Praxis, wonach die IV verpflichtet ist, Eingliederungsmassnahmen durchzuführen, bevor eine Rente zugesprochen wird (BGE 148 V 390; BGE 146 V 252). Der Eintritt der Invalidität ist somit verschoben, solange ein zumutbares Eingliederungsprogramm läuft.
-
-#### 3. Verweis auf Art. 8a ATSG
-
-Art. 8 Abs. 3 ATSG verweist ausdrücklich auf Art. 8a ATSG, welcher die **Eingliederungsmassnahmen** der Invalidenversicherung im Einzelnen regelt. Die Verweisung stellt sicher, dass nur Massnahmen im Sinne von Art. 8a ATSG berücksichtigt werden — nicht allgemein medizinische Massnahmen oder therapeutische Behandlungen ohne Eingliederungsbezug.
+Abs. 3 erklärt **Art. 7 Abs. 2 ATSG für sinngemäss anwendbar**: Auch im Aufgabenbereich sind ausschliesslich die Folgen der gesundheitlichen Beeinträchtigung zu berücksichtigen, und eine invaliditätsbegründende Einschränkung liegt nur vor, wenn sie aus objektiver Sicht nicht überwindbar ist. Die für psychosomatische Leiden entwickelte Beweisstruktur (strukturiertes Beweisverfahren, [BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281)) gilt sinngemäss.
 
 ### V. Zusammenhänge mit den Fachgesetzen
 
-#### 1. IVG
+Art. 8 ATSG ist die zentrale Begriffsbestimmung; die Fachgesetze konkretisieren sie. Die Invalidenrente der IV setzt Invalidität im Sinne von Art. 8 ATSG voraus (Art. 28 ff. IVG), wobei die Eingliederung Vorrang vor der Rente hat («Eingliederung vor Rente», Art. 8 i.V.m. Art. 8a IVG). Der Invaliditätsbegriff gilt auch im UVG und im BVG; die Bemessung folgt grundsätzlich denselben Grundsätzen, mit den jeweiligen fachgesetzlichen Modifikationen.
 
-Art. 8 ATSG ist die zentrale Begriffsbestimmung für die Invalidenversicherung. Art. 6 IVG verweist auf die Definitionen des ATSG. Die konkrete Anwendung erfolgt durch die Fachgerichte (sozialversicherungsrechtliche Kammer des Bundesgerichts) unter Berücksichtigung der konkreten Bestimmungen des IVG.
+### VI. Eintritt der Invalidität bei laufender Eingliederung
 
-Die Invalidenrente setzt Invalidität im Sinne von Art. 8 ATSG voraus (Art. 28 ff. IVG). Die Eingliederung hat Vorrang vor der Rente («Eingliederung vor Rente», Art. 8a ATG, Art. 8 IVG).
+Solange zumutbare Eingliederungsmassnahmen laufen, steht der Umfang der verbleibenden Erwerbsunfähigkeit noch nicht fest; der Invaliditätsgrad ist daher erst nach deren Abschluss zu bemessen. Das Bundesgericht hat in [BGer 9C_173/2025 vom 4. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_173_2025) präzisiert, dass die Invalidität bei laufenden Eingliederungsmassnahmen erst nach deren Abschluss eintritt und therapeutische Aspekte der Qualifikation als Eingliederungsmassnahme nicht entgegenstehen, solange der Eingliederungszweck im Vordergrund steht.
 
-#### 2. UVG / BVG
+### VII. Abgrenzungen
 
-Im Bereich der Unfallversicherung (UVG) und der beruflichen Vorsorge (BVG) gilt der Invaliditätsbegriff von Art. 8 ATSG ebenfalls. Die Bemessung des Invaliditätsgrades richtet sich nach den gleichen Grundsätzen, mit Modifikationen nach dem jeweiligen Fachgesetz. Nach UVG ist derInvaliditätsgrad unter Berücksichtigung der unfallbedingten gesundheitlichen Beeinträchtigung zu bemessen (BGE 147 V 205). Im BVG-Kontext ist die erwerbliche Auswirkung massgebend (BGE 144 V 220).
+**Invalidität / Arbeitsunfähigkeit (Art. 6 ATSG):** Arbeitsunfähigkeit ist die gesundheitlich bedingte Einbusse der Leistungsfähigkeit im bisherigen Beruf oder Aufgabenbereich; sie kann vorübergehend sein. Invalidität setzt demgegenüber eine voraussichtlich bleibende oder längere Zeit dauernde Erwerbsunfähigkeit voraus ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
 
-### VI. Abgrenzungen
+**Invalidität / Hilflosigkeit (Art. 9 ATSG):** Die Hilflosigkeit stellt nicht auf die Erwerbsfähigkeit ab, sondern auf die dauernde Notwendigkeit von Hilfe Dritter oder persönlicher Überwachung bei den alltäglichen Lebensverrichtungen.
 
-**Invalidität vs. Arbeitsunfähigkeit (Art. 6 ATSG):** Arbeitsunfähigkeit ist ein vorübergehender Zustand der vollständigen oder teilweisen Verhinderung an der Arbeit. Invalidität setzt demgegenüber eine voraussichtlich dauernde Beeinträchtigung voraus. Der Übergang von der Arbeitsunfähigkeit zur Invalidität kann erst nach Abschluss der medizinischen Abklärungen und allfälliger Eingliederungsmassnahmen beurteilt werden (BGE 148 V 390; 9C_173/2025).
+### VIII. Methodenübersicht
 
-**Invalidität vs. Hilflosigkeit (Art. 9 ATSG):** Die Hilflosigkeit (Art. 9 ATSG) ist ein eigenständiger Begriff, der nicht auf Erwerbsfähigkeit, sondern auf die dauernde Notwendigkeit von Hilfe oder Überwachung bei alltäglichen Verrichtungen abstellt.
+| Konstellation | Bemessungsmethode | Quelle |
+|---|---|---|
+| Erwerbstätige | Einkommensvergleich (Art. 16 ATSG) | [BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343); [BGE 135 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_297) |
+| Nichterwerbstätige im Aufgabenbereich | Betätigungsvergleich (spezifische Methode) | [BGE 133 V 504](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_V_504) |
+| Teils erwerbstätig, teils Aufgabenbereich | gemischte Methode | [BGE 130 V 393](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_393); [BGE 137 V 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_334) |
+| Laufende Eingliederung | Bemessung erst nach Abschluss | [BGer 9C_173/2025 vom 4. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_173_2025) |
 
-### VII. Kasuistik
+## Querverweise
 
-| Sachverhalt | Invaliditätsgrad | Eingliederung | Quelle |
-|---|---|---|---|
-| Laufende berufliche Eingliederungsmassnahme | Noch nicht bemessen | Massgebend: Abschluss der Eingliederung | 9C_173/2025, E. 5 |
-| Zusammentreffen mehrerer Gesundheitsstörungen (Somme-Prinzip) | Summe der Auswirkungen | Nein, sofern keine IV-Massnahmen | BGE 146 V 252, E. 4.1 |
-| Invalidität nach beruflicher Eingliederung | Nach zumutbarem Vergleichslohn | Ja, Eingliederung vorab | BGE 148 V 390 |
-| Vorübergehende vollständige Arbeitsunfähigkeit | Keine Invalidität | Nein | BGE 141 V 577 |
+- [Art. 6 ATSG](../art-006/) — Arbeitsunfähigkeit
+- [Art. 7 ATSG](../art-007/) — Erwerbsunfähigkeit
+- [Art. 16 ATSG](../art-016/) — Grad der Invalidität / Einkommensvergleich
+- [Art. 17 ATSG](../art-017/) — Revision der Invalidenrente
 
 ## Literatur
 
-- Kieser, ATSG-Kommentar, N. 1–45 zu Art. 8 ATSG
-- Botschaft vom 3. September 2008 zur 4. IV-Revision (BBl 2008 8389)
-- Botschaft vom 6. Oktober 2000 zum ATSG (BBl 2001 2187)
+- Ueli Kieser, ATSG-Kommentar, 4. Aufl. 2020, Art. 8
+- BGE 130 V 343 — Begriffe der Arbeits- und Erwerbsunfähigkeit, der Invalidität und der Einkommensvergleichsmethode
+- BGE 133 V 504 — Invaliditätsbemessung im Aufgabenbereich; Schadenminderung
+- BGE 137 V 334 — gemischte Methode der Invaliditätsbemessung
