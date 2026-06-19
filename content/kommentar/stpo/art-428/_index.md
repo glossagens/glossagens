@@ -12,13 +12,17 @@ agent_verified: true
 
 > **Art. 428 Kostentragung im Rechtsmittelverfahren**
 >
-> **1** Die Parteien tragen die Kosten des Rechtsmittelverfahrens nach Massgabe ihres Obsiegens oder Unterliegens. Als unterliegend gilt auch diejenige Partei, auf deren Rechtsmittel nicht eingetreten wird oder die das Rechtsmittel zurückzieht.
+> **1** Die Parteien tragen die Kosten des Rechtsmittelverfahrens nach Massgabe ihres Obsiegens oder Unterliegens. Als unterliegend gilt auch die Partei, auf deren Rechtsmittel nicht eingetreten wird oder die das Rechtsmittel zurückzieht.
 >
-> **2** Abweichend von Absatz 1 können der Partei, die ein Rechtsmittel ergriffen hat, die Verfahrenskosten auferlegt werden, wenn:
+> **2** Erwirkt eine Partei, die ein Rechtsmittel ergriffen hat, einen für sie günstigeren Entscheid, so können ihr die Verfahrenskosten auferlegt werden, wenn:
 > a. die Voraussetzungen für das Obsiegen erst im Rechtsmittelverfahren geschaffen worden sind; oder
 > b. der angefochtene Entscheid nur unwesentlich abgeändert wird.
 >
 > **3** Fällt die Rechtsmittelinstanz selber einen neuen Entscheid, so befindet sie darin auch über die von der Vorinstanz getroffene Kostenregelung.
+>
+> **4** Hebt sie einen Entscheid auf und weist sie die Sache zur neuen Entscheidung an die Vorinstanz zurück, so trägt der Bund oder der Kanton die Kosten des Rechtsmittelverfahrens und, nach Ermessen der Rechtsmittelinstanz, jene der Vorinstanz.
+>
+> **5** Wird ein Revisionsgesuch gutgeheissen, so entscheidet die Strafbehörde, die anschliessend über die Erledigung der Strafsache zu befinden hat, nach ihrem Ermessen über die Kosten des ersten Verfahrens.
 
 ## Kommentierung
 
@@ -74,13 +78,19 @@ agent_verified: true
 
 **16** Die Regelung ist Ausdruck des **Devolutiveffekts** des Rechtsmittels: Das Rechtsmittelgericht tritt an die Stelle der Vorinstanz und entscheidet den Fall in der gleichen Breite, einschliesslich der kostenrechtlichen Folgen. Die Erstinstanzkosten werden somit in die neue Kostenregelung einbezogen.
 
-### V. Verhältnis zu anderen Bestimmungen
+### V. Rückweisung und Revision (Abs. 4 und 5)
+
+**16a** Hebt die Rechtsmittelinstanz den Entscheid auf und weist sie die Sache zur neuen Entscheidung an die Vorinstanz zurück, so trägt der **Bund oder der Kanton** die Kosten des Rechtsmittelverfahrens und — nach Ermessen der Rechtsmittelinstanz — auch jene der Vorinstanz (Abs. 4). Die rechtsmittelführende Partei gilt bei einer Rückweisung kostenrechtlich somit nicht als unterliegend.
+
+**16b** Wird ein **Revisionsgesuch gutgeheissen**, so entscheidet die Strafbehörde, die anschliessend über die Erledigung der Strafsache zu befinden hat, nach ihrem Ermessen über die Kosten des ersten Verfahrens (Abs. 5).
+
+### VI. Verhältnis zu anderen Bestimmungen
 
 **17** Art. 428 StPO ist im Kontext der folgenden Bestimmungen zu lesen:
 - **Art. 426 StPO**: Allgemeine Kostentragungsregel (erstinstanzliches Verfahren)
 - **Art. 427 StPO**: Kostentragung bei teilweisem Obsiegen/Unterliegen
-- **Art. 429 StPO**: Entschädigung für ungenügende Verfahrensdauer
-- **Art. 432 StPO**: Entschädigung der beschuldigten Person
+- **Art. 429 StPO**: Ansprüche der beschuldigten Person bei Freispruch (Entschädigung und Genugtuung)
+- **Art. 432 StPO**: Anspruch gegenüber der Privatklägerschaft und der antragstellenden Person
 - **Art. 433 StPO**: Entschädigungspflicht der Privatklägerschaft
 
 **18** Die Kostentragungspflicht nach Art. 428 StPO präjudiziert die Entschädigungsfrage nach Art. 429–434 StPO: Bei Auferlegung der Kosten an die beschuldigte Person entfällt grundsätzlich deren Anspruch auf Entschädigung ([BGE 147 IV 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_47) E. 4.1; [BGE 145 IV 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_268) E. 1.2; [BGE 144 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_207) E. 1.8.2).
