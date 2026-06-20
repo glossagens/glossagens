@@ -2,54 +2,48 @@
 title: "Rechtsprechung zu Art. 63 AIG"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
-description: "Übersicht der Entscheide zu Art. 63 AIG — Aufenthalt aus humanitären Gründen, medizinische Notlagen, familiäre Bindungen, Integration"
-tags: ["Rechtsprechung", "AIG", "humanitärer Aufenthalt", "Art. 3 EMRK", "Art. 8 EMRK", "Härtefall"]
+lastmod: 2026-06-20
+description: "Übersicht der Entscheide zu Art. 63 AIG — Widerruf der Niederlassungsbewilligung: Widerrufsgründe, Rückstufung, Verhältnismässigkeit"
+tags: ["Rechtsprechung", "AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "Integration"]
 agent_verified: false
 ---
 
-Zurück zum Kommentar: [Art. 63 AIG — Aufenthalt aus humanitären Gründen](./)
-
-## I. Medizinische Notlagen
-
-### [BGE 137 I 305](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_I_305), E. 3–5
-- **Thema**: Medizinische Versorgung im Heimatland und Art. 3 EMRK
-- **Kernaussage**: Die Verweigerung einer Aufenthaltsbewilligung wegen fehlender medizinischer Versorgung im Heimatland verstösst gegen Art. 3 EMRK, wenn die Person bei der Rückkehr einer ernsthaften Gesundheitsgefährdung ausgesetzt wäre. Die Gefahr muss konkret und gegenwärtig sein; eine allgemeine medizinische Unterversorgung genügt nicht.
-- **Einschlägig für**: Abs. 1 (medizinische Notlage), Art. 3 EMRK
+Zurück zum Kommentar: [Art. 63 AIG — Widerruf der Niederlassungsbewilligung](./)
 
 ---
 
-## II. Familiäre Bindungen und Art. 8 EMRK
+## I. Leitentscheide (BGE)
 
-### [BGE 139 I 330](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_139_I_330), E. 2–3
-- **Thema**: Familiennachzug und Verhältnismässigkeit
-- **Kernaussage**: Die Weigerung, einem ausländischen Ehegatten eine Aufenthaltsbewilligung zu erteilen, verstösst gegen Art. 8 EMRK, wenn die familiären Bindungen so stark sind, dass ihre Zerreissung unverhältnismässig wäre. Der Ermessensspielraum der Behörde ist durch den EMRK-Schutz eingeschränkt.
-- **Einschlägig für**: Abs. 1 (familiäre Bindungen), Art. 8 EMRK
-
----
-
-### [BGE 135 I 143](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_135_I_143), E. 4
-- **Thema**: Integration und Aufenthaltsdauer
-- **Kernaussage**: Bei langjährig integrierten Ausländern ohne formelle Bewilligung kann die Verweigerung einer Aufenthaltsbewilligung eine unverhältnismässige Härte darstellen. Die Integration muss nachhaltig und gefestigt sein.
-- **Einschlägig für**: Abs. 1 (Integration), Art. 8 EMRK
+### [BGE 148 II 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_1) (19.10.2021)
+- **Thema**: Rückstufung wegen Integrationsdefizit (Art. 63 Abs. 2 i.V.m. Art. 58a AIG) bei altrechtlich erteilten Niederlassungsbewilligungen
+- **Kernaussage**: Die Rückstufung von der Niederlassungs- auf die Aufenthaltsbewilligung ist grundsätzlich auch bei vor dem 1.1.2019 erteilten Niederlassungsbewilligungen zulässig. Art. 63 Abs. 2 AIG gilt als neues Recht für laufende Sachverhalte. Die Rückstufung setzt ein aktuelles und erhebliches Integrationsdefizit voraus; blosse Vergangenheitsbetrachtungen genügen nicht.
+- **Einschlägig für**: Abs. 2 (Rückstufung), Art. 58a AIG
 
 ---
 
-## III. Härtefall und Ermessen
+## II. Kantonale Leitentscheide
 
-### [BGE 142 I 135](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_142_I_135), E. 3
-- **Thema**: Administrativhaft und humanitäre Umstände
-- **Kernaussage**: Bei der Anordnung von Administrativhaft im Asyl- und Ausländerrecht sind die humanitären Umstände des Einzelfalls zu berücksichtigen. Die Haft muss verhältnismässig sein; bei Kindern ist das Kindeswohl besonders zu gewichten.
-- **Einschlägig für**: Verhältnismässigkeit, Art. 5 EMRK, Kindeswohl
+### [WBE.2020.341](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_WBE.2020.341) (Verwaltungsgericht Aargau)
+- **Thema**: Verhältnis Abs. 1 (Widerruf mit Wegweisung) zu Abs. 2 (Rückstufung)
+- **Kernaussage**: Die Rückstufung nach Abs. 2 setzt ein aktuelles — d.h. zumindest auch nach dem 1.1.2019 verwirklichtes — Integrationsdefizit von einem gewissen Gewicht voraus. Liegt lediglich ein altrechtliches Integrationsdefizit vor, kommt Abs. 2 nicht zur Anwendung; möglicherweise ist dann auf Art. 63 Abs. 1 AIG abzustellen.
+- **Einschlägig für**: Abs. 1 und 2 (Abgrenzung Widerruf/Rückstufung)
+
+### [VB.2020.00343](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht__VB.2020.00343) (Verwaltungsgericht Zürich, 03.12.2020)
+- **Thema**: Rückstufung bei Sozialhilfeabhängigkeit
+- **Kernaussage**: Eine Person, die im Sinne von Art. 63 Abs. 1 lit. c AIG dauerhaft und erheblich auf Sozialhilfe angewiesen ist, erfüllt regelmässig auch das Integrationskriterium der Teilnahme am Wirtschaftsleben (Art. 58a Abs. 1 lit. d AIG) nicht. In diesem Fall kann die Niederlassungsbewilligung gestützt auf Art. 63 Abs. 2 AIG widerrufen und durch eine Aufenthaltsbewilligung ersetzt werden.
+- **Einschlägig für**: Abs. 1 lit. c und Abs. 2 (Sozialhilfe/Rückstufung)
+
+### [WBE.2020.112](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_WBE.2020.112) (Verwaltungsgericht Aargau)
+- **Thema**: Kontinuitätsvertrauen bei Rückstufung
+- **Kernaussage**: Bei der Beurteilung, ob ein rückstufungsbegründendes Integrationsdefizit vorliegt, darf grundsätzlich auch das Verhalten vor dem 1.1.2019 mitberücksichtigt werden. Durfte die betroffene Person vor der Rechtsänderung darauf vertrauen, dass ihr Verhalten keine Rückstufungsfolge haben würde, ist das Kontinuitätsvertrauen zu schützen.
+- **Einschlägig für**: Abs. 2 (Rückstufung, intertemporales Recht)
 
 ---
 
-## IV. Kantonale Praxis
+## III. Hinweis zu Widerruf wegen Straftaten (Abs. 1 lit. a/b)
 
-Die kantonale Praxis zu Art. 63 AIG ist heterogen. Einige Kantone (Zürich, Bern) haben **Richtlinien** zur Ermessensausübung erlassen, die Kriterien für die humanitäre Aufenthaltsbewilligung festlegen. Andere Kantone handhaben das Ermessen restriktiver.
-
-Kantonale Verwaltungsgerichte haben wiederholt die Ermessensausübung der kantonalen Migrationsbehörden überprüft und teilweise korrigiert (vgl. Verwaltungsgericht ZH, VB.2019.00123: Erteilung einer Aufenthaltsbewilligung nach 15-jährigem Aufenthalt bei fehlenden Bindungen ans Heimatland).
+Entscheide zum Widerruf der Niederlassungsbewilligung wegen Straffälligkeit (Art. 63 Abs. 1 lit. a i.V.m. Art. 62 Abs. 1 lit. b AIG) werden häufig gemeinsam mit Fällen zu Art. 62 AIG publiziert, da die Widerrufsgründe der Aufenthalts- und Niederlassungsbewilligung weitgehend parallel laufen. Leitentscheide zu Art. 62 AIG sind deshalb sinngemäss heranzuziehen, soweit die Norm auf Art. 63 verweist.
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+*Letzte Aktualisierung: 2026-06-20*

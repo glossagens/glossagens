@@ -1,125 +1,87 @@
 ---
-title: "Art. 63 — Aufenthalt aus humanitären Gründen"
+title: "Art. 63 AIG — Widerruf der Niederlassungsbewilligung"
 weight: 63
 date: 2026-06-06
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 63 AIG – Aufenthalt aus humanitären Gründen: Voraussetzungen, Ermessensausübung, Härtefallkommission, Verhältnis zu Art. 50 AIG"
-tags: ["AIG", "humanitärer Aufenthalt", "Härtefall", "Ermessen", "Aufenthaltsbewilligung", "Notlage"]
-agent_verified: true
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 63 AIG — Widerruf der Niederlassungsbewilligung: Widerrufsgründe (Abs. 1), Rückstufung (Abs. 2), ne bis in idem (Abs. 3), Verhältnis zu Art. 62 AIG."
+tags: ["AIG", "Niederlassungsbewilligung", "Widerruf", "Ausländerrecht", "Sozialhilfe", "öffentliche Sicherheit", "Rückstufung", "Integration"]
+agent_verified: false
 ---
 
-## Art. 63 AIG — Aufenthalt aus humanitären Gründen
+## Gesetzeswortlaut
 
-> **Art. 63 Abs. 1 AIG**: Die zuständige kantionale Behörde kann Ausländerinnen und Ausländern, die sich rechtlich oder tatsächlich im Schweizer Gebiet aufhalten, aus wichtigen humanitären Gründen eine Aufenthaltsbewilligung erteilen.
+> **Art. 63 AIG — Widerruf der Niederlassungsbewilligung**
 >
-> **Art. 63 Abs. 2 AIG**: Die Bewilligung kann mit Auflagen verbunden werden.
+> 1 Die Niederlassungsbewilligung kann nur widerrufen werden, wenn:
+> a. die Voraussetzungen nach Artikel 62 Absatz 1 Buchstabe a oder b erfüllt sind;
+> b. die Ausländerin oder der Ausländer in schwerwiegender Weise gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit gefährdet;
+> c. die Ausländerin oder der Ausländer oder eine Person, für die sie oder er zu sorgen hat, dauerhaft und in erheblichem Mass auf Sozialhilfe angewiesen ist;
+> d. die Ausländerin oder der Ausländer in rechtsmissbräuchlicher Weise versucht hat, das Schweizer Bürgerrecht zu erschleichen, oder ihr oder ihm dieses aufgrund einer rechtskräftigen Verfügung im Rahmen einer Nichtigerklärung gemäss Artikel 36 des Bürgerrechtsgesetzes vom 20. Juni 2014 entzogen worden ist.
 >
-> **Art. 63 Abs. 3 AIG**: Gegen Verfügungen nach den Absätzen 1 und 2 kann die betroffene Person Beschwerde erheben. Die kantionale Behörde kann eine Beschwerde erheben, wenn die Erteilung der Aufenthaltsbewilligung gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder gegen die internationale Sicherheit verstösst.
+> 2 Die Niederlassungsbewilligung kann widerrufen und durch eine Aufenthaltsbewilligung ersetzt werden, wenn die Integrationskriterien nach Artikel 58a nicht erfüllt sind.
+>
+> 3 Unzulässig ist ein Widerruf, der nur damit begründet wird, dass ein Delikt begangen wurde, für das ein Strafgericht bereits eine Strafe oder Massnahme verhängt, jedoch von einer Landesverweisung abgesehen hat.
+
+*Fedlex-Stand: 2026-02-01*
 
 ---
 
-## I. Bedeutung
+## Überblick und Bedeutung
 
-Art. 63 AIG ist die **humanitäre Auffangnorm** des Ausländerrechts. Die Bestimmung gewährt den kantonalen Behörden ein **Ermessen**, Ausländerinnen und Ausländern aus wichtigen humanitären Gründen eine Aufenthaltsbewilligung zu erteilen, auch wenn die übrigen Voraussetzungen des AIG nicht erfüllt sind.
+**1** **Stellung und Funktion.** Art. 63 AIG ist die **zentrale Widerrufsnorm für die Niederlassungsbewilligung (C-Ausweis)**. Sie gilt ausschliesslich für Niederlassungsberechtigte — also Personen mit unbefristeter Bewilligung — und ist gegenüber Art. 62 AIG (Widerruf der Aufenthaltsbewilligung) lex specialis. Der Widerruf ist das schärfste aufenthaltsrechtliche Sanktionsmittel, das zum Verlust eines langjährig erworbenen Aufenthaltsrechts führt.
 
-Art. 63 AIG hat in der Praxis **grosse Bedeutung** als «Notventil» des Ausländerrechts: Er ermöglicht die Erteilung einer Aufenthaltsbewilligung in Fällen, in denen eine Ausreise oder Ausschaffung zu rechtlich oder humanitär unzumutbaren Ergebnissen führen würde. Die Norm ist Ausdruck des in Art. 8 EMRK verankerten Schutzes des Privat- und Familienlebens und des Non-refoulement-Prinzips.
+**2** **Abschliessender Katalog.** Abs. 1 enthält einen **abschliessenden Katalog** der Widerrufsgründe. Der Niederlassungsschutz ist stärker als der Aufenthaltsschutz: Nicht alle Widerrufsgründe von Art. 62 AIG sind auf die Niederlassung anwendbar, sondern nur lit. a und b (schwere Straftaten, Gefährdung der öffentlichen Sicherheit).
 
----
-
-## II. Voraussetzungen (Abs. 1)
-
-### 1. Ausländische Person mit Aufenthalt in der Schweiz
-
-Art. 63 AIG setzt voraus, dass die ausländische Person **rechtlich oder tatsächlich im Schweizer Gebiet** aufhält. Das bedeutet:
-- **Rechtlicher Aufenthalt**: Die Person hält sich mit einer gültigen Bewilligung (z.B. Touristenvisum, Kurzaufenthalt) in der Schweiz auf.
-- **Tatsächlicher Aufenthalt**: Die Person hält sich ohne formelle Bewilligung in der Schweiz auf (z.B. Sans-Papiers, Paperless, undocumented migrants).
-
-### 2. Wichtige humanitäre Gründe
-
-Die «wichtigen humanitären Gründe» sind das **zentrale Tatbestandsmerkmal**. Das Gesetz definiert den Begriff nicht abschliessend. Die Praxis hat folgende Fallgruppen entwickelt:
-
-#### a) Medizinische Notlagen
-Die Person ist in ihrer Heimat oder im Herkunftsland **medizinisch unzureichend** versorgt und würde durch die Rückkehr einer ernsthaften Gesundheitsgefährdung ausgesetzt. Dies betrifft insbesondere:
-- Personen, die in der Schweiz einer lebensrettenden Behandlung bedürfen
-- Personen mit chronischen Erkrankungen, die im Heimatland nicht adäquat behandelt werden können
-- Die Rechtsprechung verlangt eine **konkrete und gegenwärtige Gefahr** für Leib und Leben (Art. 3 EMRK)
-
-#### b) Familiäre Bindungen
-Die Person hat **enge familiäre Bindungen** in der Schweiz (Ehegatte, Kinder, Eltern), deren Zerreissung eine unverhältnismässige Härte darstellen würde. Die familiären Bindungen müssen:
-- nachhaltig und gefestigt sein
-- eine Rückkehr in die Heimat unzumutbar machen
-- den Schutzbereich von Art. 8 EMRK berühren
-
-#### c) Integration und Sozialisierung
-Die Person ist **langjährig in der Schweiz integriert**, insbesondere wenn sie als Kind eingereist ist und hier sozialisiert wurde. Die Rechtsprechung berücksichtigt:
-- Dauer des Aufenthalts (in der Regel ≥ 10 Jahre, bei Minderjährigen kürzere Zeiten)
-- Schulbesuch und Ausbildung
-- Sprachkenntnisse und soziale Einbindung
-- Fehlende Bindungen an das Heimat- oder Herkunftsland
-
-#### d) Alte und gebrechliche Personen
-Personen, die aufgrund ihres Alters und Gebrechlichkeit **nicht mehr in der Lage sind**, sich im Heimatland zurechtzufinden und eine Rückkehr daher als unzumutbar erscheint.
-
-### 3. Ermessen der kantonalen Behörde
-
-Art. 63 Abs. 1 AIG gewährt den kantonalen Behörden ein **Ermessen**. Die Erteilung der Aufenthaltsbewilligung ist nicht pflichtig, auch wenn wichtige humanitäre Gründe vorliegen. Die Ermessensausübung hat sich an folgenden Grundsätzen zu orientieren:
-- **Verhältnismässigkeit**: Die Verweigerung der Aufenthaltsbewilligung muss verhältnismässig sein.
-- **Grundrechte**: Insbesondere Art. 8 EMRK (Privat- und Familienleben) und Art. 3 EMRK (Verbot unmenschlicher Behandlung).
-- **Integration**: Je besser die Integration, desto eher ist die Erteilung der Bewilligung geboten.
-- **öffentliche Interessen**: Sicherheitsbedenken und öffentliche Ordnung können gegen die Erteilung sprechen.
+**3** **Gesetzgebungsgeschichte.** Art. 63 AIG wurde durch mehrere Revisionen angepasst: Abs. 1 lit. d (Bürgerrechtserschleichung) wurde durch das Bürgerrechtsgesetz vom 20. Juni 2014 eingefügt (in Kraft seit 1.1.2018). Abs. 2 (Rückstufung wegen Integrationsdefizit) und Abs. 3 (ne bis in idem) wurden durch das Integrationsgesetz vom 16. Dezember 2016 (in Kraft seit 1.1.2019) neu geschaffen.
 
 ---
 
-## III. Auflagen (Abs. 2)
+## Kommentierung
 
-Die Aufenthaltsbewilligung nach Art. 63 AIG kann mit **Auflagen** verbunden werden. Typische Auflagen sind:
-- Beschränkung der Erwerbstätigkeit
-- Wohnsitzauflage
-- Integrationsauflagen (Sprachkurse, Beratungsangebote)
-- Meldepflichten
+### I. Widerrufsgründe (Abs. 1)
 
----
+**4** **Lit. a — Verweis auf Art. 62 Abs. 1 lit. a und b AIG.** Der Widerruf ist möglich, wenn:
+- **lit. a**: Die Ausländerin oder der Ausländer oder ihr/sein gesetzlicher Vertreter im Bewilligungsverfahren **falsche Angaben** gemacht oder wesentliche Tatsachen **verschwiegen** hat;
+- **lit. b**: Die Ausländerin oder der Ausländer **zu einer längerfristigen Freiheitsstrafe** verurteilt oder gegen sie/ihn eine strafrechtliche Massnahme im Sinne von Art. 59 oder 61 StGB angeordnet worden ist.
 
-## IV. Beschwerderecht (Abs. 3)
+«Längerfristig» bedeutet nach ständiger Bundesgerichtspraxis eine Freiheitsstrafe von mehr als einem Jahr (BGE 135 II 377, E. 4.2). Die Freiheitsstrafe muss nicht bedingt vollziehbar sein.
 
-### 1. Beschwerde der betroffenen Person
+**5** **Lit. b — Schwerwiegender Verstoss gegen öffentliche Sicherheit und Ordnung.** Dies erfasst schwere Straftaten (namentlich Gewaltdelikte, Drogenhandel, organisierte Kriminalität), aber auch Verstösse im Ausland und Gefährdung der inneren oder äusseren Sicherheit (z.B. Terrorismusunterstützung). Der Begriff «schwerwiegend» setzt eine erhöhte Intensität voraus; Bagatelldelikte genügen nicht. Die Praxis berücksichtigt Schwere, Häufigkeit und Rückfallgefahr.
 
-Gegen die Verweigerung einer Aufenthaltsbewilligung nach Art. 63 AIG hat die betroffene Person ein **Beschwerderecht**. Die Beschwerde ist an die kantonale Instanz und danach an das Bundesverwaltungsgericht bzw. das Bundesgericht zu richten.
+**6** **Lit. c — Sozialhilfeabhängigkeit.** Der Widerruf wegen Sozialhilfeabhängigkeit setzt voraus, dass die Abhängigkeit **dauerhaft** und **erheblich** ist. Massgebend ist eine Zukunftsprognose: Ist abzusehen, dass die Person dauerhaft auf Sozialhilfe angewiesen sein wird? Kurzfristige Sozialhilfebezüge oder solche infolge unverschuldeter Notlagen genügen nicht. Zu berücksichtigen sind auch Personen, für die die Ausländerin/der Ausländer zu sorgen hat (Familienangehörige).
 
-### 2. Beschwerde der kantonalen Behörde
+**7** **Lit. d — Erschleichung des Bürgerrechts.** Dieser Widerrufsgrund setzt voraus, dass die ausländische Person das Schweizer Bürgerrecht durch falsche Angaben, Täuschung oder Verschweigen wesentlicher Tatsachen zu erlangen versucht hat, oder dass ihr das Bürgerrecht gestützt auf Art. 36 BüG wieder entzogen wurde.
 
-Die kantonale Behörde kann eine Beschwerde erheben, wenn die Erteilung der Aufenthaltsbewilligung **gegen die öffentliche Sicherheit und Ordnung** in der Schweiz oder gegen die **internationale Sicherheit** verstösst. Diese Beschwerdebefugnis ist Ausnahmecharakter und wird restriktiv gehandhabt.
+### II. Rückstufung wegen Integrationsdefizit (Abs. 2)
 
----
+**8** **Rückstufung statt Widerruf.** Abs. 2 eröffnet eine mildere Alternative zum vollständigen Widerruf: Die Niederlassungsbewilligung wird **widerrufen und durch eine Aufenthaltsbewilligung ersetzt** (Rückstufung). Voraussetzung ist, dass die Integrationskriterien nach Art. 58a AIG nicht erfüllt sind — insbesondere mangelnde Sprachkenntnisse, fehlende wirtschaftliche Selbsterhaltungsfähigkeit oder Verweigerung der gesellschaftlichen Teilhabe.
 
-## V. Verhältnis zu anderen Rechtsgrundlagen
+**9** **Verhältnis von Abs. 1 und Abs. 2.** Abs. 1 und Abs. 2 stehen nebeneinander: Ein Integrationsdefizit nach Abs. 2 kann, muss aber nicht vorliegen, wenn auch ein Widerrufsgrund nach Abs. 1 gegeben ist. Umgekehrt ermöglicht Abs. 2 einen Widerruf allein wegen mangelnder Integration, ohne dass eine Straftat oder Sozialhilfeabhängigkeit vorliegen müssen (BGE 148 II 1, E. 2).
 
-### 1. Art. 50 AIG (Nacheheliches Aufenthaltsrecht)
+**10** **Verhältnismässigkeit.** Der Widerruf (Abs. 1) und die Rückstufung (Abs. 2) müssen stets **verhältnismässig** sein (Art. 96 AIG). Bei der Interessenabwägung sind zu berücksichtigen: Dauer des Aufenthalts, Schwere der Integrationsprobleme, familiäre Bindungen in der Schweiz, Situation im Heimatstaat und die Schutzinteressen nach Art. 8 EMRK.
 
-Art. 50 AIG regelt das **nacheheliche Aufenthaltsrecht** nach Scheidung oder Trennung. Wenn die Voraussetzungen von Art. 50 AIG erfüllt sind, kommt Art. 63 AIG nicht zur Anwendung (lex specialis). Art. 63 AIG ist jedoch einschlägig, wenn die Voraussetzungen von Art. 50 AIG nicht erfüllt sind, aber wichtige humanitäre Gründe für einen Verbleib in der Schweiz sprechen.
+### III. Ne bis in idem (Abs. 3)
 
-### 2. Härtefallkommission (Art. 14 AsylG i.V.m. Art. 63 AIG)
-
-Die **Härtefallkommission** (HFK) kann die Erteilung einer Aufenthaltsbewilligung aus Härtefallgründen beantragen. Ihr Antrag ist eine Empfehlung an die zuständige kantonale Behörde und hat keine Bindungswirkung. Die HFK ist ein zusätzliches Instrument für Fälle, in denen die kantonale Behörde auf Grund von Art. 63 AIG nicht von sich aus tätig wird.
-
-### 3. Art. 3 EMRK und Non-refoulement
-
-Die Verbürgung von Art. 3 EMRK (Verbot der Folter und unmenschlichen Behandlung) kann zur Erteilung einer Aufenthaltsbewilligung nach Art. 63 AIG führen, wenn eine Rückkehr in den Heimatstaat eine reale Gefahr der Verletzung von Art. 3 EMRK darstellt. In diesem Fall ist die Erteilung der Bewilligung nicht bloss ermessen, sondern **geboten** (Non-refoulement-Gebot).
+**11** **Sperrwirkung des Strafurteils.** Abs. 3 verbietet einen Widerruf, der **allein** damit begründet wird, dass ein Delikt begangen wurde, für das das Strafgericht bereits eine Strafe oder Massnahme verhängt, aber **keine Landesverweisung** ausgesprochen hat. Der Migrationsrechtler darf in solchen Fällen nicht nachträglich das strafgerichtliche Verdikt korrigieren. Abs. 3 gilt nur für den Widerruf wegen des Delikts selbst; ein Widerruf kann dennoch auf weitere Gründe (z.B. Sozialhilfe, mangelnde Integration) gestützt werden.
 
 ---
 
-## VI. Rechtsprechung
+## Abgrenzungen
 
-| Entscheidung | Kurztitel | Kernsatz |
-|---|---|---|
-| BGE 137 I 305 | Medizinische Versorgung im Heimatland | Die Verweigerung einer Aufenthaltsbewilligung wegen fehlender medizinischer Versorgung im Heimatland kann gegen Art. 3 EMRK verstossen, wenn die Person bei Rückkehr einer ernsthaften Gesundheitsgefährdung ausgesetzt wäre. |
-| BGE 139 I 330 | Familiennachzug und humanitäre Gründe | Die Weigerung, einem ausländischen Ehegatten den Aufenthalt zu gewähren, kann gegen Art. 8 EMRK verstossen, wenn familiäre Bindungen so stark sind, dass ihre Zerreissung unverhältnismässig ist. |
-| BGE 142 I 135 | Administrativhaft und humanitäre Gründe | Bei der Anordnung von Administrativhaft sind die humanitären Umstände des Einzelfalls zu berücksichtigen; die Haft muss verhältnismässig sein. |
+**12** **Art. 63 vs. Art. 62 AIG.** Art. 62 AIG regelt den Widerruf der Aufenthalts- und Kurzaufenthaltsbewilligung. Der Katalog der Widerrufsgründe ist weiter als bei Art. 63 AIG; insbesondere genügt für Art. 62 eine Freiheitsstrafe von mindestens einem Jahr. Für die Niederlassungsbewilligung sind die Anforderungen wegen des stärkeren Bestandsschutzes höher.
+
+**13** **Art. 63 vs. Art. 67/68 AIG.** Einreiseverbot (Art. 67 AIG) und Ausweisung (Art. 68 AIG) sind eigenständige Massnahmen und setzen keinen Widerruf der Niederlassungsbewilligung voraus. Sie können kumulativ zu einem Widerruf nach Art. 63 AIG angeordnet werden.
+
+---
+
+## Rechtsprechung
+
+Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 63 AIG](rechtsprechung/)
 
 ---
 
 ## Literatur
 
-- Caloz, M./Eichenberger, A., Art. 63 AIG, in: Caroni (Hrsg.), AIG Kommentar
-- Amstutz, M./Kolb, R., Ausländerrecht, 3. Aufl. 2022
-- Botschaft zum Ausländergesetz vom 8. März 2002, BBl 2002 3724
+- Spescha/Zünd/Bolzli/Hruschka/de Weck, Migrationsrecht, 5. Aufl. 2019, Art. 63 AIG N. 1 ff.
+- Botschaft zum Integrationsgesetz vom 8. März 2013, BBl 2013 2397.
+- Botschaft zur Umsetzung von Art. 121 Abs. 3–6 BV vom 26. Juni 2013, BBl 2013 5975.

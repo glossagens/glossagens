@@ -8,22 +8,19 @@ tags: ["Aufenthaltsbewilligung", "Nachaufenthaltsrecht", "AIG", "Ausländerrecht
 agent_verified: true
 ---
 
-# Art. 50 AIG
-
-
 ## Gesetzestext
 
-1 Nach Auflösung der Ehe oder der Familiengemeinschaft haben die Ehegatten und die Kinder Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung nach Artikel 42, 43 oder 44, der Kurzaufenthaltsbewilligung nach Artikel 45 in Verbindung mit Artikel 32 Absatz 3 oder auf Anordnung der vorläufigen Aufnahme nach Artikel 85c Absatz 1, wenn: a. die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58a erfüllt sind; oder b. wichtige persönliche Gründe einen weiteren Aufenthalt in der Schweiz erforderlich machen.
-
-2 Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn: a. der Ehegatte oder ein Kind Opfer häuslicher Gewalt wurde, wobei die zuständigen Behörden insbesondere die folgenden Hinweise berücksichtigen: 1. die Anerkennung als Opfer im Sinne von Artikel 1 Absatz 1 des Opferhilfegesetzes vom 23. März 2007 durch die dafür zuständigen Behörden, 2. die Bestätigung einer notwendigen Betreuung oder Schutzgewährung durch eine auf häusliche Gewalt spezialisierte und in der Regel öffentlich finanzierte Fachstelle, 3. polizeiliche oder richterliche Massnahmen zum Schutz des Opfers, 4. Arztberichte oder andere Gutachten, 5. Polizeirapporte und Strafanzeigen, oder 6. strafrechtliche Verurteilungen; b. der Ehegatte die Ehe nicht aus freiem Willen geschlossen hat; oder c. die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.
-
-3 Die Frist zur Erteilung der Niederlassungsbewilligung richtet sich nach Artikel 34.
-
-4 Für Konkubinatspartnerinnen und Konkubinatspartner, denen gemäss Artikel 30 Absatz 1 Buchstabe b aufgrund eines schwerwiegenden persönlichen Härtefalls eine Aufenthaltsbewilligung zum Verbleib bei der Konkubinatspartnerin oder dem Konkubinatspartner erteilt wurde, gelten die Absätze 1–3 sinngemäss.
+> 1 Nach Auflösung der Ehe oder der Familiengemeinschaft haben die Ehegatten und die Kinder Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung nach Artikel 42, 43 oder 44, der Kurzaufenthaltsbewilligung nach Artikel 45 in Verbindung mit Artikel 32 Absatz 3 oder auf Anordnung der vorläufigen Aufnahme nach Artikel 85c Absatz 1, wenn: a. die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58a erfüllt sind; oder b. wichtige persönliche Gründe einen weiteren Aufenthalt in der Schweiz erforderlich machen.
+>
+> 2 Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn: a. der Ehegatte oder ein Kind Opfer häuslicher Gewalt wurde, wobei die zuständigen Behörden insbesondere die folgenden Hinweise berücksichtigen: 1. die Anerkennung als Opfer im Sinne von Artikel 1 Absatz 1 des Opferhilfegesetzes vom 23. März 2007 durch die dafür zuständigen Behörden, 2. die Bestätigung einer notwendigen Betreuung oder Schutzgewährung durch eine auf häusliche Gewalt spezialisierte und in der Regel öffentlich finanzierte Fachstelle, 3. polizeiliche oder richterliche Massnahmen zum Schutz des Opfers, 4. Arztberichte oder andere Gutachten, 5. Polizeirapporte und Strafanzeigen, oder 6. strafrechtliche Verurteilungen; b. der Ehegatte die Ehe nicht aus freiem Willen geschlossen hat; oder c. die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.
+>
+> 3 Die Frist zur Erteilung der Niederlassungsbewilligung richtet sich nach Artikel 34.
+>
+> 4 Für Konkubinatspartnerinnen und Konkubinatspartner, denen gemäss Artikel 30 Absatz 1 Buchstabe b aufgrund eines schwerwiegenden persönlichen Härtefalls eine Aufenthaltsbewilligung zum Verbleib bei der Konkubinatspartnerin oder dem Konkubinatspartner erteilt wurde, gelten die Absätze 1–3 sinngemäss.
 
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 50 AIG regelt das Nachaufenthaltsrecht bei Auflösung der Ehe oder der Familiengemeinschaft. Die Bestimmung ist von zentraler praktischer Bedeutung, da sie den Schutz ausländischer Ehegatten und Kinder bei Scheidung, Trennung oder Tod des Bezugsperson ensures. Sie konkretisiert den verfassungsrechtlichen Schutz von Ehe und Familie (Art. 14 BV) sowie das völkerrechtliche Gebot des Schutzes des Privat- und Familienlebens (Art. 8 EMRK).
+**1** **Stellung und Bedeutung.** Art. 50 AIG regelt das Nachaufenthaltsrecht bei Auflösung der Ehe oder der Familiengemeinschaft. Die Bestimmung ist von zentraler praktischer Bedeutung, da sie den Schutz ausländischer Ehegatten und Kinder bei Scheidung, Trennung oder Tod der Bezugsperson sicherstellt. Sie konkretisiert den verfassungsrechtlichen Schutz von Ehe und Familie (Art. 14 BV) sowie das völkerrechtliche Gebot des Schutzes des Privat- und Familienlebens (Art. 8 EMRK).
 
 **2** **Gesetzgebungsgeschichte.** Art. 50 AIG wurde durch das Bundesgesetz vom 16. Dezember 2016 (Integrationsgesetz) in der heutigen Fassung neu gefasst, insbesondere wurde Abs. 2 lit. a (häusliche Gewalt) präzisiert. Durch das Bundesgesetz vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt) wurde Abs. 2 lit. a neu gefasst und um einen detaillierten Katalog von Hinweisen auf häusliche Gewalt ergänzt; Abs. 4 wurde neu eingefügt, um Konkubinatspartnerinnen und -partner einzubeziehen. Beide Änderungen sind am 1. Januar 2025 in Kraft getreten.
 
