@@ -2,7 +2,7 @@
 title: "Art. 43a — Geschiebehaushalt"
 weight: 43
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 43a GSchG – Schutz des Geschiebehaushalts, wesentliche Beeinträchtigung, Massnahmenpflicht"
 tags: ["GSchG", "Geschiebehaushalt", "Gewässerschutz", "Revitalisierung", "UVP", "Artenschutz"]
 agent_verified: true
@@ -14,9 +14,19 @@ agent_verified: true
 >
 > 1 Der Geschiebehaushalt im Gewässer darf durch Anlagen nicht so verändert werden, dass die einheimischen Tiere und Pflanzen, deren Lebensräume, der Grundwasserhaushalt und der Hochwasserschutz wesentlich beeinträchtigt werden. Die Inhaber der Anlagen treffen dazu geeignete Massnahmen.
 >
-> 2 Können die Beeinträchtigungen nicht vermieden werden, so sind sie durch geeignete Massnahmen soweit zu kompensieren, dass keine wesentliche Beeinträchtigung verbleibt.
+> 2 Die Massnahmen richten sich nach:
 >
-> 3 Der Bundesrat bestimmt, ab welchem Ausmass die Beeinträchtigung als wesentlich gilt.
+> a. dem Grad der Beeinträchtigungen des Gewässers;
+>
+> b. dem ökologischen Potenzial des Gewässers;
+>
+> c. der Verhältnismässigkeit des Aufwandes;
+>
+> d. den Interessen des Hochwasserschutzes;
+>
+> e. den energiepolitischen Zielen zur Förderung erneuerbarer Energien.
+>
+> 3 Im Einzugsgebiet des betroffenen Gewässers sind die Massnahmen nach Anhörung der Inhaber der betroffenen Anlagen aufeinander abzustimmen.
 
 ## Kommentierung
 

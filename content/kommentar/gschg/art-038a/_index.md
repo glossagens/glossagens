@@ -2,7 +2,7 @@
 title: "Art. 38a — Revitalisierung"
 weight: 38
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 38a GSchG — Revitalisierung von Gewässern: Pflicht zur ökologischen Aufwertung beeinträchtigter Fliessgewässer, strategische Planung und Umsetzung"
 tags: ["GSchG", "Gewässerschutz", "Revitalisierung", "Renaturierung", "Ökologischer Zustand", "Fliessgewässer"]
 agent_verified: true
@@ -10,17 +10,11 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 38a Revitalisierung**
+> **Art. 38a — Revitalisierung von Gewässern**
 >
-> **1** Die Kantone sorgen dafür, dass beeinträchtigte Fliessgewässer revitalisiert werden, sodass sie:
+> 1 Die Kantone sorgen für die Revitalisierung von Gewässern. Sie berücksichtigen dabei den Nutzen für die Natur und die Landschaft sowie die wirtschaftlichen Auswirkungen, die sich aus der Revitalisierung ergeben.
 >
->   a. ihre natürlichen Funktionen wieder erfüllen können;
->
->   b. die in Artikel 37 Absatz 3 genannten Anforderungen erfüllen.
->
-> **2** Die Kantone planen die Revitalisierungen strategisch und legen dafür die Dringlichkeit fest.
->
-> **3** Sie berücksichtigen dabei die ökologischen Zielsetzungen, die sozioökonomischen Auswirkungen und die Verfügbarkeit von geeigneten Flächen.
+> 2 Sie planen die Revitalisierungen und legen den Zeitplan dafür fest. Sie sorgen dafür, dass diese Planung bei der Richt- und Nutzungsplanung berücksichtigt wird.
 
 ## Kommentierung
 

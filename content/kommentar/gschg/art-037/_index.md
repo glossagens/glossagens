@@ -2,7 +2,7 @@
 title: "Art. 37 — Eingriffe in oberirdische Gewässer"
 weight: 37
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 37 GSchG — Verbauungsverbot, Korrekturvorbehalt, Gewässerraumgestaltung und ökologische Anforderungen"
 tags: ["GSchG", "Gewässerschutz", "Verbauung", "Revitalisierung", "Gewässerraum", "Hochwasserschutz"]
 agent_verified: true
@@ -34,7 +34,7 @@ agent_verified: true
 >
 > **4** In überbauten Gebieten kann die Behörde Ausnahmen von den Absätzen 2 und 3 bewilligen.
 >
-> **5** Für die Schaffung künstlicher Gewässer, die Instandsetzung und die Verstärkung bestehender Schutzbauten nach Schadenereignissen gelten die Absätze 2 und 3 sinngemäss.
+> **5** Für die Schaffung künstlicher Gewässer, die Instandstellung und die Verstärkung bestehender Schutzbauten nach Schadenereignissen gelten die Absätze 2 und 3 sinngemäss.
 
 ## Kommentierung
 
