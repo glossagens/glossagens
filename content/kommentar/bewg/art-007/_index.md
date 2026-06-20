@@ -2,7 +2,7 @@
 title: "Art. 7 BewG — Übrige Ausnahmen von der Bewilligungspflicht"
 weight: 7
 date: 2026-05-11
-lastmod: 2026-05-11
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 7 BewG – Übrige Ausnahmen von der Bewilligungspflicht beim Erwerb von Grundstücken durch Personen im Ausland"
 tags: ["BewG", "Grundstückwerbung", "Ausländerrecht", "Bewilligungspflicht", "Lex Koller"]
 agent_verified: false
@@ -10,6 +10,8 @@ agent_verified: false
 
 ## Gesetzeswortlaut
 
+> Keiner Bewilligung bedürfen:
+>
 > **a.** gesetzliche Erben im Sinne des schweizerischen Rechts im Erbgang;
 >
 > **b.** Verwandte des Veräusserers in auf- und absteigender Linie sowie dessen Ehegatte, eingetragene Partnerin oder eingetragener Partner;
