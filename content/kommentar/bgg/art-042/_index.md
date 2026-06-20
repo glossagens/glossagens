@@ -2,7 +2,7 @@
 title: "Art. 42 — Rechtsschriften und Begründungspflicht"
 weight: 42
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 42 BGG – Begründungspflicht der Beschwerde, Mindestanforderungen und qualifizierte Rügepflicht"
 tags: ["BGG", "Beschwerde", "Begründungspflicht", "Rechtsschrift", "Bundesgericht"]
 agent_verified: true
@@ -14,19 +14,19 @@ agent_verified: true
 >
 > 1 Rechtsschriften sind in einer Amtssprache abzufassen und haben die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift zu enthalten.
 >
-> 1bis Rechtsschriften in Zivilsachen können in englischer Sprache abgefasst werden.
+> 1bis Wurde in einer Zivilsache das Verfahren vor der Vorinstanz in englischer Sprache geführt, so können Rechtsschriften in dieser Sprache abgefasst werden.
 >
-> 2 In der Begründung ist in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt. Ist die Beschwerde nur bei grundsätzlicher Bedeutung oder bei besonders bedeutendem Fall zulässig, so ist auszuführen, warum diese Voraussetzung erfüllt ist.
+> 2 In der Begründung ist in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt. Ist eine Beschwerde nur unter der Voraussetzung zulässig, dass sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt, so ist auszuführen, warum die jeweilige Voraussetzung erfüllt ist.
 >
-> 3 Urkunden und angefochtener Entscheid sind beizulegen.
+> 3 Die Urkunden, auf die sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie in Händen hat; richtet sich die Rechtsschrift gegen einen Entscheid, so ist auch dieser beizulegen.
 >
-> 4 Wird die Rechtsschrift elektronisch eingereicht, so ist sie elektronisch zu signieren.
+> 4 Bei elektronischer Einreichung muss die Rechtsschrift von der Partei oder ihrem Vertreter beziehungsweise ihrer Vertreterin mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur versehen werden. Das Bundesgericht bestimmt in einem Reglement: a. das Format der Rechtsschrift und ihrer Beilagen; b. die Art und Weise der Übermittlung; c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
 >
-> 5 Fehlen die Unterschrift, die Vollmacht oder die Beilagen, so wird dafür eine Nachfrist angesetzt.
+> 5 Fehlen die Unterschrift der Partei oder ihrer Vertretung, deren Vollmacht oder die vorgeschriebenen Beilagen oder ist die Vertretung nicht zugelassen, so wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass die Rechtsschrift sonst unbeachtet bleibt.
 >
-> 6 Unleserliche, ungebührliche, unverständliche oder weitschweifige Rechtsschriften können zurückgewiesen werden.
+> 6 Unleserliche, ungebührliche, unverständliche, übermässig weitschweifige oder nicht in einer Amtssprache verfasste Rechtsschriften können in gleicher Weise zur Änderung zurückgewiesen werden.
 >
-> 7 Querulatorische oder offensichtlich rechtsmissbräuchliche Rechtsschriften sind unzulässig.
+> 7 Rechtsschriften, die auf querulatorischer oder rechtsmissbräuchlicher Prozessführung beruhen, sind unzulässig.
 
 ## Kommentierung
 

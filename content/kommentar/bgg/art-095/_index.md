@@ -2,7 +2,7 @@
 title: "Art. 95 BGG — Beschwerdegründe"
 weight: 95
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 95 BGG: Rügegründe der Beschwerde — Verletzung von Bundesrecht, Völkerrecht, kantonalen verfassungsrechtlichen Rechten und interkantonalem Recht."
 tags: ["BGG", "Bundesgericht", "Beschwerdegründe", "Bundesrechtsverletzung", "Willkür", "Völkerrecht", "Rechtsmittel"]
 agent_verified: true
@@ -16,7 +16,7 @@ agent_verified: true
 >
 > a. Bundesrecht;
 > b. Völkerrecht;
-> c. kantonalen verfassungsrechtlichen Rechten;
+> c. kantonalen verfassungsmässigen Rechten;
 > d. kantonalen Bestimmungen über die politische Stimmberechtigung der Bürger und Bürgerinnen und über Volkswahlen und -abstimmungen;
 > e. interkantonalem Recht.
 
@@ -128,6 +128,5 @@ Die Praxis differenziert:
 
 - [Art. 83 BGG](../art-083/) — Ausnahmen von der Beschwerde
 - [Art. 89 BGG](../art-089/) — Beschwerderecht
-- [Art. 90 BGG](../art-090/) — Endentscheide
 - [Art. 106 BGG](#) — Rügeprinzip
 - [Art. 97 BGG](#) — Beweiswürdigung

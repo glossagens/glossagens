@@ -2,7 +2,7 @@
 title: "Art. 83 — Ausnahmen von der Beschwerde"
 weight: 83
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 83 BGG: Exhaustiver Katalog der Beschwerdeunzulässigkeit — Prüfungsentscheide, Ausländerrecht, Asylrecht, öffentliche Beschaffungen, Arbeitsverhältnisse, Amtshilfe und weitere Ausnahmebereiche"
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht", "öffentliche Beschaffungen", "Amtshilfe"]
 agent_verified: true
@@ -38,7 +38,39 @@ agent_verified: true
 >
 > k. Entscheide betreffend Subventionen, auf die kein Anspruch besteht;
 >
-> l–z ter […weitere Ausnahmebereiche, darunter Zollveranlagung (l), Stundung/Erlass von Abgaben (m), Kernenergie (n), Prüfungen und Fähigkeitsbewertungen (t), öffentliche Kaufangebote (u), Amtshilfe innerhalb der Schweiz (v), Elektrizitätsrecht/Plangenehmigung (w), fürsorgerische Zwangsmassnahmen-Beiträge (x), Verständigungsverfahren Steuerrecht (y), Windenergie (z), Wasserkraftkonzessionen (z bis), Beschwerden von Umweltorganisationen bei Wasserkraftwerken (z ter)]
+> l. Entscheide über die Zollveranlagung, wenn diese auf Grund der Tarifierung oder des Gewichts der Ware erfolgt;
+>
+> m. Entscheide über die Stundung oder den Erlass von Abgaben; in Abweichung davon ist die Beschwerde zulässig gegen Entscheide über den Erlass der direkten Bundessteuer oder der kantonalen oder kommunalen Einkommens- und Gewinnsteuer, wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder es sich aus anderen Gründen um einen besonders bedeutenden Fall handelt;
+>
+> n. Entscheide auf dem Gebiet der Kernenergie betreffend: 1. das Erfordernis einer Freigabe oder der Änderung einer Bewilligung oder Verfügung, 2. die Genehmigung eines Plans für Rückstellungen für die vor Ausserbetriebnahme einer Kernanlage anfallenden Entsorgungskosten, 3. Freigaben;
+>
+> o. Entscheide über die Typengenehmigung von Fahrzeugen auf dem Gebiet des Strassenverkehrs;
+>
+> p. Entscheide des Bundesverwaltungsgerichts auf dem Gebiet des Fernmeldeverkehrs, des Radios und des Fernsehens sowie der Post betreffend: 1. Konzessionen, die Gegenstand einer öffentlichen Ausschreibung waren, 2. Streitigkeiten nach Artikel 11a des Fernmeldegesetzes vom 30. April 1997, 3. Streitigkeiten nach Artikel 8 des Postgesetzes vom 17. Dezember 2010;
+>
+> q. Entscheide auf dem Gebiet der Transplantationsmedizin betreffend: 1. die Aufnahme in die Warteliste, 2. die Zuteilung von Organen;
+>
+> r. Entscheide auf dem Gebiet der Krankenversicherung, die das Bundesverwaltungsgericht gestützt auf Artikel 34 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 getroffen hat;
+>
+> s. Entscheide auf dem Gebiet der Landwirtschaft betreffend: 1. [aufgehoben] 2. die Abgrenzung der Zonen im Rahmen des Produktionskatasters;
+>
+> t. Entscheide über das Ergebnis von Prüfungen und anderen Fähigkeitsbewertungen, namentlich auf den Gebieten der Schule, der Weiterbildung und der Berufsausübung;
+>
+> u. Entscheide auf dem Gebiet der öffentlichen Kaufangebote (Art. 125–141 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015);
+>
+> v. Entscheide des Bundesverwaltungsgerichts über Meinungsverschiedenheiten zwischen Behörden in der innerstaatlichen Amts- und Rechtshilfe;
+>
+> w. Entscheide auf dem Gebiet des Elektrizitätsrechts betreffend die Plangenehmigung von Starkstromanlagen und Schwachstromanlagen und die Entscheide auf diesem Gebiet betreffend Enteignung der für den Bau oder Betrieb solcher Anlagen notwendigen Rechte, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+>
+> x. Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt;
+>
+> y. Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung;
+>
+> z. Entscheide betreffend die in Artikel 71c Absatz 1 Buchstabe b des Energiegesetzes vom 30. September 2016 genannten Baubewilligungen und notwendigerweise damit zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen für Windenergieanlagen von nationalem Interesse, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+>
+> z bis. Entscheide über die Gewährung von Wasserrechtskonzessionen für Anlagen nach Artikel 9a Absatz 3 in Verbindung mit Anhang 2 des Stromversorgungsgesetzes vom 23. März 2007, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+>
+> z ter. Entscheide über Beschwerden von Organisationen nach den Artikeln 55 des Umweltschutzgesetzes vom 7. Oktober 1983 und 12 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz betreffend Wasserkraftwerke nach Artikel 9a Absatz 3 und Anhang 2 in der Fassung vom 29. September 2023 des Stromversorgungsgesetzes.
 
 ## Kommentierung
 

@@ -2,7 +2,7 @@
 title: "Art. 99 — Neue Tatsachen und Beweismittel"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 99 BGG – Novenrecht vor Bundesgericht, unechte und echte Noven, Kognition des Bundesgerichts"
 tags: ["BGG", "Noven", "Beweismittel", "Kognition", "Beschwerde"]
 agent_verified: true
@@ -12,7 +12,7 @@ agent_verified: true
 
 > **Art. 99** Neue Tatsachen und Beweismittel
 >
-> 1 Neue Tatsachen und Beweismittel dürfen nur noch vorgebracht werden, wenn der Entscheid der Vorinstanz dazu Anlass gibt.
+> 1 Neue Tatsachen und Beweismittel dürfen nur so weit vorgebracht werden, als erst der Entscheid der Vorinstanz dazu Anlass gibt.
 >
 > 2 Neue Begehren sind unzulässig.
 
