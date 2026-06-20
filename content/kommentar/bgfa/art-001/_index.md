@@ -1,16 +1,18 @@
 ---
-title: "Art. 1 — Geltungsbereich"
+title: "Art. 1 — Gegenstand"
 weight: 1
 date: 2026-06-07
-lastmod: 2026-06-07
-description: "Kommentar zu Art. 1 BGFA — Geltungsbereich des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte"
+lastmod: 2026-06-20
+description: "Kommentar zu Art. 1 BGFA — Gegenstand des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte"
 tags: ["BGFA", "Geltungsbereich", "Anwaltsrecht", "Freizügigkeit", "interkantonale Berufsausübung"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 1 BGFA**: Dieses Gesetz regelt die Freizügigkeit der Anwältinnen und Anwälte bei der Ausübung ihres Berufs in der ganzen Schweiz.
+> **Art. 1 BGFA — Gegenstand**
+>
+> Dieses Gesetz gewährleistet die Freizügigkeit der Anwältinnen und Anwälte und legt die Grundsätze für die Ausübung des Anwaltsberufs in der Schweiz fest.
 
 ## Kommentierung
 
