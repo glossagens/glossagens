@@ -2,7 +2,7 @@
 title: "Art. 25 — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen"
 weight: 25
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 25 AsylG — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen: Zuständigkeit, polizeilicher Zwang, Seelsorge"
 tags: ["AsylG", "Zentren des Bundes", "Betrieb", "Sicherheit", "Ordnung", "polizeilicher Zwang", "ZAG", "Flughafen"]
 agent_verified: true
@@ -18,7 +18,7 @@ agent_verified: true
 >   c. die Gewährleistung der Sicherheit und Ordnung;
 >   d. die Berücksichtigung der besonderen Bedürfnisse von Frauen und Kindern in Bezug auf ihre eigene Sicherheit.
 >
-> 2 Soweit die zu schützenden Rechtsgüter es rechtfertigen und die beabsichtigten Massnahmen verhältnismässig sind, kann das SEM zur Gewährleistung der Sicherheit und Ordnung polizeilichen Zwang und polizeiliche Massnahmen anwenden oder anordnen:
+> 2 Soweit die zu schützenden Rechtsgüter es rechtfertigen und die beabsichtigten Massnahmen verhältnismässig sind, kann das SEM zur Gewährleistung der Sicherheit und Ordnung, polizeilichen Zwang und polizeiliche Massnahmen anwenden oder anordnen:
 >   a. im Rahmen der Durchsuchung nach Artikel 9;
 >   b. beim Vollzug von Disziplinarmassnahmen nach Artikel 25a;
 >   c. bei der Gefahrenabwehr;
