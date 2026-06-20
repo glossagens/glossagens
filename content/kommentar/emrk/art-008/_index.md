@@ -2,7 +2,7 @@
 title: "Art. 8 — Recht auf Achtung des Privat- und Familienlebens"
 weight: 8
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, seiner Wohnung und seiner Korrespondenz; Eingriffsvoraussetzungen; Bedeutung im schweizerischen Aufenthaltsrecht"
 tags: ["EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Verhältnismässigkeit", "Integration"]
 agent_verified: true
@@ -12,11 +12,9 @@ agent_verified: true
 
 ### Wortlaut
 
-**(1)** Jede Person hat das Recht auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung und ihrer Korrespondenz.
-
-**(2)** Eine Behörde darf in die Ausübung dieses Rechts nur eingreifen, soweit der Eingriff gesetzlich vorgesehen und in einer demokratischen Gesellschaft notwendig ist für die nationale oder öffentliche Sicherheit, für das wirtschaftliche Wohl des Landes, zur Aufrechterhaltung der Ordnung, zur Verhütung von Straftaten, zum Schutz der Gesundheit oder der Moral oder zum Schutz der Rechte und Freiheiten anderer.
-
----
+> (1) Jede Person hat das Recht auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung und ihrer Korrespondenz.
+>
+> (2) Eine Behörde darf in die Ausübung dieses Rechts nur eingreifen, soweit der Eingriff gesetzlich vorgesehen und in einer demokratischen Gesellschaft notwendig ist für die nationale oder öffentliche Sicherheit, für das wirtschaftliche Wohl des Landes, zur Aufrechterhaltung der Ordnung, zur Verhütung von Straftaten, zum Schutz der Gesundheit oder der Moral oder zum Schutz der Rechte und Freiheiten anderer.
 
 ### I. Überblick und Bedeutung
 

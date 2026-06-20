@@ -2,7 +2,7 @@
 title: "Art. 5 — Recht auf Freiheit und Sicherheit"
 weight: 5
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 5 EMRK – Recht auf Freiheit und Sicherheit, Freiheitsentzug, Haftgründe, Haftprüfung"
 tags: ["EMRK", "Freiheitsentzug", "Haft", "Haftprüfung", "persönliche Freiheit", "Unternehmenshaft", "Abschiebungshaft"]
 agent_verified: true
@@ -10,27 +10,27 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> (1) Jede Person hat das Recht auf Freiheit und Sicherheit. Einem Menschen darf die Freiheit nur in den folgenden Fällen und nur auf das gesetzlich vorgeschriebene Verfahren entzogen werden:
+> (1) Jede Person hat das Recht auf Freiheit und Sicherheit. Die Freiheit darf nur in den folgenden Fällen und nur auf die gesetzlich vorgeschriebene Weise entzogen werden:
 >
 > a) rechtmässiger Freiheitsentzug nach Verurteilung durch ein zuständiges Gericht;
 >
-> b) rechtmässige Festnahme oder Freiheitsentzug wegen Nichtbeachtung einer von einem Gericht erlassenen Anordnung oder zur Erzwingung der Erfüllung einer gesetzlichen Verpflichtung;
+> b) rechtmässige Festnahme oder rechtmässiger Freiheitsentzug wegen Nichtbefolgung einer rechtmässigen gerichtlichen Anordnung oder zur Erzwingung der Erfüllung einer gesetzlichen Verpflichtung;
 >
-> c) Festnahme oder Freiheitsentzug zum Zwecke der Vorführung vor die zuständige Gerichtsbehörde auf begründeten Verdacht hin, dass die betreffende Person eine strafbare Handlung begangen hat, oder wenn begründeter Verdacht besteht, dass es notwendig ist, die Begehung einer strafbaren Handlung durch sie zu verhindern;
+> c) rechtmässige Festnahme oder rechtmässiger Freiheitsentzug zur Vorführung vor die zuständige Gerichtsbehörde, wenn hinreichender Verdacht besteht, dass die betreffende Person eine Straftat begangen hat, oder wenn begründeter Anlass zu der Annahme besteht, dass es notwendig ist, sie an der Begehung einer Straftat oder an der Flucht nach Begehung einer solchen zu hindern;
 >
-> d) Freiheitsentzug eines Minderjährigen auf Grund einer Anordnung zum Zwecke der Überwachungserziehung oder zum Zwecke der Vorführung vor die zuständige Behörde;
+> d) rechtmässiger Freiheitsentzug bei Minderjährigen zum Zweck überwachter Erziehung oder zur Vorführung vor die zuständige Behörde;
 >
-> e) rechtmässiger Freiheitsentzug zum Zwecke der Vorführung vor die zuständige Behörde, wenn begründeten Verdacht dafür besteht, dass die betreffende Person eine mit ansteckender Krankheit behaftete Person ist, geistig kranke Person, Alkohol- oder Rauschgiftsüchtige oder Landstreicher ist;
+> e) rechtmässiger Freiheitsentzug mit dem Ziel, eine Verbreitung ansteckender Krankheiten zu verhindern, sowie bei psychisch Kranken, Alkohol- oder Rauschgiftsüchtigen und Landstreichern;
 >
-> f) Festnahme oder Freiheitsentzug zum Zwecke der Verhinderung der rechtswidrigen Einreise in das Hoheitsgebiet eines Staates oder zum Zwecke der Abschiebung oder Auslieferung.
+> f) rechtmässige Festnahme oder rechtmässiger Freiheitsentzug zur Verhinderung der unerlaubten Einreise sowie bei Personen, gegen die ein Ausweisungs- oder Auslieferungsverfahren im Gange ist.
 >
-> (2) Jede festgenommene Person muss unverzüglich und in einer ihr verständlichen Sprache über die Gründe der Festnahme und über die gegen sie erhobenen Beschuldigungen unterrichtet werden.
+> (2) Jeder festgenommenen Person muss in möglichst kurzer Frist in einer ihr verständlichen Sprache mitgeteilt werden, welches die Gründe für ihre Festnahme sind und welche Beschuldigungen gegen sie erhoben werden.
 >
-> (3) Jede festgenommene oder auf Grund eines Verdachts einer strafbaren Handlung festgenommene Person muss unverzüglich einem Richter oder einem anderen, gesetzlich zur Ausübung richterlicher Funktionen ermächtigten Beamten vorgeführt werden, der über die Rechtmässigkeit der Festnahme zu entscheiden hat. Die Festnahme darf nicht länger dauern, als zur Verfahrensdurchführung erforderlich ist.
+> (3) Jede Person, die nach Absatz 1 Buchstabe c von Festnahme oder Freiheitsentzug betroffen ist, muss unverzüglich einem Richter oder einer anderen gesetzlich zur Wahrnehmung richterlicher Aufgaben ermächtigten Person vorgeführt werden; sie hat Anspruch auf ein Urteil innerhalb angemessener Frist oder auf Entlassung während des Verfahrens. Die Entlassung kann von der Leistung einer Sicherheit für das Erscheinen vor Gericht abhängig gemacht werden.
 >
-> (4) Jede Person, der die Freiheit durch Festnahme oder Freiheitsentzug entzogen ist, hat das Recht, ein Verfahren vor einem Gericht zu beantragen, das über die Rechtmässigkeit des Freiheitsentzugs unverzüglich entscheidet und im Falle der Rechtswidrigkeit die Freilassung anordnet.
+> (4) Jede Person, die festgenommen oder der die Freiheit entzogen ist, hat das Recht zu beantragen, dass ein Gericht innerhalb kurzer Frist über die Rechtmässigkeit des Freiheitsentzugs entscheidet und ihre Entlassung anordnet, wenn der Freiheitsentzug nicht rechtmässig ist.
 >
-> (5) Jeder, der durch Festnahme oder Freiheitsentzug in Widerspruch zu den Bestimmungen dieses Artikels verletzt worden ist, hat Anspruch auf Schadenersatz.
+> (5) Jede Person, die unter Verletzung dieses Artikels von Festnahme oder Freiheitsentzug betroffen ist, hat Anspruch auf Schadensersatz.
 
 ## Vorbemerkungen
 

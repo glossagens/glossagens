@@ -11,7 +11,6 @@ Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Ap
 | Artikel | Thema |
 |---------|-------|
 | [Art. 5](art-005/) | Grundsätze rechtsstaatlichen Handelns |
-| [Art. 7](art-007/) | Menschenwürde |
 | [Art. 8](art-008/) | Rechtsgleichheit |
 | [Art. 9](art-009/) | Schutz vor Willkür und Treu und Glauben |
 | [Art. 10](art-010/) | Recht auf Leben und persönliche Freiheit |

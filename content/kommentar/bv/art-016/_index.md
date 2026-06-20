@@ -2,7 +2,7 @@
 title: "Art. 16 — Meinungs- und Informationsfreiheit"
 weight: 16
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
 agent_verified: true
@@ -14,7 +14,7 @@ agent_verified: true
 
 > 1 Die Meinungs- und Informationsfreiheit ist gewährleistet.
 >
-> 2 Jede Person hat das Recht, seine Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten.
+> 2 Jede Person hat das Recht, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten.
 >
 > 3 Jede Person hat das Recht, Informationen frei zu empfangen, aus allgemein zugänglichen Quellen zu beschaffen und zu verbreiten.
 

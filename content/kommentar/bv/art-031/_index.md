@@ -2,7 +2,7 @@
 title: "Art. 31 — Freiheitsentzug"
 weight: 31
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 31 BV — Freiheitsentzug: gesetzlicher Vorbehalt, Verfahrensgarantien, Untersuchungshaft, Habeas-Corpus-Garantie"
 tags: ["BV", "Freiheitsentzug", "Untersuchungshaft", "Habeas Corpus", "persoenliche Freiheit", "Freiheit", "Art. 31"]
 agent_verified: true
@@ -12,15 +12,13 @@ agent_verified: true
 
 ## Wortlaut
 
-^1 Die Freiheit darf einer Person nur in den vom Gesetz selbst vorgesehenen Faellen und nur auf die im Gesetz vorgeschriebene Weise entzogen werden.
-
-^2 Jede Person, der die Freiheit entzogen wird, hat Anspruch darauf, unverzueglich und in einer ihr verstaendlichen Sprache ueber die Gruende des Freiheitsentzugs und ueber ihre Rechte unterrichtet zu werden. Sie muss die Moeglichkeit haben, ihre Rechte geltend zu machen. Sie hat insbesondere das Recht, ihre naechsten Angehoerigen benachrichtigen zu lassen.
-
-^3 Jede Person, die in Untersuchungshaft genommen wird, hat Anspruch darauf, unverzueglich einer Richterin oder einem Richter vorgefuehrt zu werden; die Richterin oder der Richter entscheidet, ob die Person weiterhin in Haft gehalten oder freigelassen wird. Jede Person in Untersuchungshaft hat Anspruch auf ein Urteil innert angemessener Frist.
-
-^4 Jede Person, der die Freiheit nicht von einem Gericht entzogen wird, hat das Recht, jederzeit ein Gericht anzurufen. Dieses entscheidet so rasch wie moeglich ueber die Rechtmaessigkeit des Freiheitsentzugs.
-
-Fassung gemaess BV von 1999 (AS 1999 2556; BBl 1997 I 1). Der Wortlaut wurde seit Inkrafttreten nicht geaendert.
+> 1 Die Freiheit darf einer Person nur in den vom Gesetz selbst vorgesehenen Fällen und nur auf die im Gesetz vorgeschriebene Weise entzogen werden.
+>
+> 2 Jede Person, der die Freiheit entzogen wird, hat Anspruch darauf, unverzüglich und in einer ihr verständlichen Sprache über die Gründe des Freiheitsentzugs und über ihre Rechte unterrichtet zu werden. Sie muss die Möglichkeit haben, ihre Rechte geltend zu machen. Sie hat insbesondere das Recht, ihre nächsten Angehörigen benachrichtigen zu lassen.
+>
+> 3 Jede Person, die in Untersuchungshaft genommen wird, hat Anspruch darauf, unverzüglich einer Richterin oder einem Richter vorgeführt zu werden; die Richterin oder der Richter entscheidet, ob die Person weiterhin in Haft gehalten oder freigelassen wird. Jede Person in Untersuchungshaft hat Anspruch auf ein Urteil innert angemessener Frist.
+>
+> 4 Jede Person, der die Freiheit nicht von einem Gericht entzogen wird, hat das Recht, jederzeit ein Gericht anzurufen. Dieses entscheidet so rasch wie möglich über die Rechtmässigkeit des Freiheitsentzugs.
 
 ## Systematik
 

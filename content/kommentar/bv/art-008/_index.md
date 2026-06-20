@@ -2,7 +2,7 @@
 title: "Art. 8 BV – Rechtsgleichheit"
 weight: 8
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-20
 description: "Rechtsgleichheit und Diskriminierungsverbot – umfassende Kommentierung mit 19 BGer-Entscheiden"
 tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Willkürverbot", "Lohngleichheit", "Gleichstellung"]
 agent_verified: false
@@ -12,10 +12,13 @@ agent_verified: false
 
 ### Gesetzestext
 
-1 Alle Menschen sind vor dem Gesetz gleich.
-2 Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung sowie wegen einer körperlichen, geistigen oder psychischen Behinderung.
-3 Männer und Frauen sind gleichberechtigt. Das Gesetz sorgt für ihre rechtliche und tatsächliche Gleichstellung, vor allem in Familie, Ausbildung und Arbeit. Männer und Frauen haben Anspruch auf gleichen Lohn für gleichwertige Arbeit.
-4 Massnahmen zur Verwirklichung der rechtlichen und tatsächlichen Gleichstellung von Menschen mit Behinderung sind keine Diskriminierung im Sinne dieses Artikels.
+> 1 Alle Menschen sind vor dem Gesetz gleich.
+>
+> 2 Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung oder wegen einer körperlichen, geistigen oder psychischen Behinderung.
+>
+> 3 Mann und Frau sind gleichberechtigt. Das Gesetz sorgt für ihre rechtliche und tatsächliche Gleichstellung, vor allem in Familie, Ausbildung und Arbeit. Mann und Frau haben Anspruch auf gleichen Lohn für gleichwertige Arbeit.
+>
+> 4 Das Gesetz sieht Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vor.
 
 ### Systematische Einordnung
 

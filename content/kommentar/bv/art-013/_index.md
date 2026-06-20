@@ -2,7 +2,7 @@
 title: "Art. 13 — Schutz der Privatsphäre"
 weight: 13
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-06-20
 description: "Kommentar zu Art. 13 BV — Recht auf Achtung des Privat- und Familienlebens, der Wohnung sowie des Brief-, Post- und Fernmeldeverkehrs; Schutz vor Missbrauch persönlicher Daten"
 tags: ["BV", "Privatsphäre", "Datenschutz", "Persönlichkeit", "Grundrechte"]
 agent_verified: true
@@ -10,11 +10,11 @@ agent_verified: true
 
 ## I. Wortlaut
 
-**Art. 13 BV — Schutz der Privatsphäre**
-
-1 Jede Person hat Anspruch auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung sowie ihres Brief-, Post- und Fernmeldeverkehrs.
-
-2 Jede Person hat Anspruch auf Schutz vor Missbrauch ihrer persönlichen Daten.
+> **Art. 13 BV — Schutz der Privatsphäre**
+>
+> 1 Jede Person hat Anspruch auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung sowie ihres Brief-, Post- und Fernmeldeverkehrs.
+>
+> 2 Jede Person hat Anspruch auf Schutz vor Missbrauch ihrer persönlichen Daten.
 
 ## II. Entstehungsgeschichte
 

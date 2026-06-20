@@ -2,7 +2,7 @@
 title: "Art. 5 BV — Grundsätze rechtsstaatlichen Handelns"
 weight: 5
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-06-20
 description: "Art. 5 BV enthält die vier Grundsätze rechtsstaatlichen Handelns: Legalitätsprinzip (Abs. 1), Verhältnismässigkeitsprinzip (Abs. 2), Treu und Glauben (Abs. 3) und Völkerrechtsfreundlichkeit (Abs. 4)."
 tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht", "Rechtsstaatlichkeit", "Grundsätze"]
 agent_verified: false
@@ -10,13 +10,13 @@ agent_verified: false
 
 ## Art. 5 BV — Wortlaut
 
-> **Abs. 1:** Grundlage und Schranke staatlichen Handelns ist das Recht.
+> 1 Grundlage und Schranke staatlichen Handelns ist das Recht.
 >
-> **Abs. 2:** Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
+> 2 Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
 >
-> **Abs. 3:** Staatliche Organe und Private handeln nach Treu und Glauben.
+> 3 Staatliche Organe und Private handeln nach Treu und Glauben.
 >
-> **Abs. 4:** Bund und Kantone beachten das Völkerrecht.
+> 4 Bund und Kantone beachten das Völkerrecht.
 
 ## Überblick
 
