@@ -2,7 +2,7 @@
 title: "Art. 340 OR -- Nachvertragliches Konkurrenzverbot"
 weight: 340
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-06-21
 description: "Kommentar zu Art. 340 OR: Nachvertragliches Konkurrenzverbot und Karenzentschadigung -- Voraussetzungen, Schriftform, berechtigtes Interesse, Grenzen, Verzicht und Dahinfallen."
 tags: ["OR", "Konkurrenzverbot", "Karenzentschädigung", "Arbeitsvertrag", "nachvertraglich"]
 agent_verified: true
@@ -10,13 +10,11 @@ agent_verified: true
 
 ## Wortlaut
 
-**Art. 340 OR**
-
-1. Der handlungsfähige Arbeitnehmer kann sich gegenüber dem Arbeitgeber schriftlich verpflichten, nach Beendigung des Arbeitsverhältnisses sich jeder konkurrenzierenden Tätigkeit zu enthalten, insbesondere weder auf eigene Rechnung ein Geschäft zu betreiben, das mit dem des Arbeitgebers in Wettbewerb steht, noch in einem solchen Geschäft tätig zu sein oder sich daran zu beteiligen.
-
-2. Das Konkurrenzverbot ist nur verbindlich, wenn das Arbeitsverhältnis dem Arbeitnehmer Einblick in den Kundenkreis oder in Fabrikations- und Geschäftsgeheimnisse gewährt und die Verwendung dieser Kenntnisse den Arbeitgeber erheblich schädigen könnte.
-
----
+> **Art. 340 OR**
+>
+> 1 Der handlungsfähige Arbeitnehmer kann sich gegenüber dem Arbeitgeber schriftlich verpflichten, nach Beendigung des Arbeitsverhältnisses sich jeder konkurrenzierenden Tätigkeit zu enthalten, insbesondere weder auf eigene Rechnung ein Geschäft zu betreiben, das mit dem des Arbeitgebers in Wettbewerb steht, noch in einem solchen Geschäft tätig zu sein oder sich daran zu beteiligen.
+>
+> 2 Das Konkurrenzverbot ist nur verbindlich, wenn das Arbeitsverhältnis dem Arbeitnehmer Einblick in den Kundenkreis oder in Fabrikations- und Geschäftsgeheimnisse gewährt und die Verwendung dieser Kenntnisse den Arbeitgeber erheblich schädigen könnte.
 
 ## Systematik
 
