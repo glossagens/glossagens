@@ -2,7 +2,7 @@
 title: "Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen"
 weight: 242
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: 2026-06-21
 description: "Kommentar zu Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen ausserhalb der Bauzonen (nF per 1.1.2026)"
 tags: ["RPG", "Raumplanung", "Infrastrukturanlagen", "Mobilfunkanlagen", "Bündelung", "Standortgebundenheit", "Nichtbaugebiet"]
 agent_verified: true
@@ -12,15 +12,13 @@ agent_verified: true
 
 > **Art. 24bis Bündelung von Infrastrukturanlagen und Mobilfunkanlagen**
 >
-> ¹ Infrastrukturanlagen sind soweit möglich zu bündeln. Der Bundesrat legt fest, unter welchen Voraussetzungen Mobilfunkanlagen auf bestehenden oder neuen Infrastrukturanlagen als standortgebunden gelten, unter Vorbehalt von Artikel 24 Absatz 1 Buchstabe b.
+> 1 Infrastrukturanlagen sind soweit möglich zu bündeln. Der Bundesrat legt fest, unter welchen Voraussetzungen Mobilfunkanlagen auf bestehenden oder neuen Infrastrukturanlagen als standortgebunden gelten, unter Vorbehalt von Artikel 24 Absatz 1 Buchstabe b.
 >
-> ² Mobilfunkanlagen können ausserhalb der Bauzonen bewilligt werden, sofern ein Standort ausserhalb der Bauzonen aufgrund einer umfassenden Interessenabwägung wesentlich vorteilhafter ist als ein Standort innerhalb der Bauzonen.
+> 2 Mobilfunkanlagen können ausserhalb der Bauzonen bewilligt werden, sofern ein Standort ausserhalb der Bauzonen aufgrund einer umfassenden Interessenabwägung wesentlich vorteilhafter ist als ein Standort innerhalb der Bauzonen.
 >
-> ³ Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfunkanlagen ausserhalb der Bauzone gelten als standortgebunden.
+> 3 Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfunkanlagen ausserhalb der Bauzone gelten als standortgebunden.
 
 *Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 (AS 2025 640; BBl 2018 7443).*
-
----
 
 ## Kommentierung
 
