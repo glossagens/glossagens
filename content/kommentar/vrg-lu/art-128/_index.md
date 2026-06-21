@@ -2,7 +2,7 @@
 title: "§ 128 — Zwischenentscheide"
 weight: 128
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-06-21
 description: "Kommentierung von § 128 VRG LU — Zwischenentscheide und deren selbständige Anfechtbarkeit im luzernischen Verwaltungsverfahren"
 tags: ["VRG LU", "Zwischenentscheid", "nicht wieder gutzumachender Nachteil", "Luzern"]
 agent_verified: true
@@ -14,7 +14,7 @@ agent_verified: true
 
 Die Regelung steht im zweiten Abschnitt des VRG („Rechtsmittel"), Unterabschnitt „Gegenstand der Anfechtung". Systematisch gehört § 128 zum verfahrensrechtlichen Grundgerüst des luzernischen Verwaltungsrechtspflegegesetzes und korrespondiert mit den Bestimmungen über die vorsorglichen Verfügungen (§ 45), die Sistierung und Vereinigung von Verfahren (§§ 41–43) sowie über die Akteneinsicht (§ 49) und die unentgeltliche Rechtspflege (§ 204), auf welche Abs. 3 Bezug nimmt.
 
-## II. Gesetzeswortlaut
+## Gesetzeswortlaut
 
 > **§ 128 — 2. Gegenstand der Anfechtung**
 >

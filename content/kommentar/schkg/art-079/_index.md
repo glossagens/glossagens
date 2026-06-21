@@ -2,7 +2,7 @@
 title: "Art. 79 SchKG — Rechtsvorschlag: Fortsetzung der Betreibung"
 weight: 79
 date: 2026-05-24
-lastmod: 2026-05-30
+lastmod: 2026-06-21
 description: "Art. 79 SchKG regelt die Fortsetzung der Betreibung nach Rechtsvorschlag: Der Gläubiger muss seinen Anspruch im Zivil- oder Verwaltungsverfahren durchsetzen und kann die Fortsetzung nur aufgrund eines vollstreckbaren Entscheids verlangen, der den Rechtsvorschlag ausdrücklich beseitigt."
 tags: ["SchKG", "Rechtsvorschlag", "Fortsetzung der Betreibung", "vollstreckbarer Entscheid", "Rechtsöffnung", "Anerkennungsklage", "Betreibungsrecht"]
 agent_verified: false
@@ -10,7 +10,7 @@ agent_verified: false
 
 ## Art. 79 SchKG — Wortlaut
 
-> Ein Gläubiger, gegen dessen Betreibung Rechtsvorschlag erhoben worden ist, hat seinen Anspruch im Zivilprozess oder im Verwaltungsverfahren geltend zu machen. Er kann die Fortsetzung der Betreuung nur aufgrund eines vollstreckbaren Entscheids erwirken, der den Rechtsvorschlag ausdrücklich beseitigt.
+> Ein Gläubiger, gegen dessen Betreibung Rechtsvorschlag erhoben worden ist, hat seinen Anspruch im Zivilprozess oder im Verwaltungsverfahren geltend zu machen. Er kann die Fortsetzung der Betreibung nur aufgrund eines vollstreckbaren Entscheids erwirken, der den Rechtsvorschlag ausdrücklich beseitigt.
 
 ## Überblick
 

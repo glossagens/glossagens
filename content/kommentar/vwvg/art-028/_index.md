@@ -2,7 +2,7 @@
 title: "Art. 28 — Rechtliches Gehör bei Aktenverweigerung"
 weight: 28
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-21
 description: "Kommentar zu Art. 28 VwVG – Rechtliches Gehör bei verweigerter Akteneinsicht"
 tags: ["VwVG", "rechtliches Gehör", "Akteneinsicht", "Verwaltungsverfahren"]
 agent_verified: true
@@ -10,7 +10,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, so darf auf dieses zum Nachteil der Partei nur abgestellt werden, wenn ihr die Behörde von seinem für die Sache wesentlichen Inhalt mündlich oder schriftlich Kenntnis gegeben und ihr ausserdem Gelegenheit geboten hat, sich zu äussern und Gegenbeweismittel zu bezeichnen.
+> Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, so darf auf dieses zum Nachteil der Partei nur abgestellt werden, wenn ihr die Behörde von seinem für die Sache wesentlichen Inhalt mündlich oder schriftlich Kenntnis und ihr ausserdem Gelegenheit gegeben hat, sich zu äussern und Gegenbeweismittel zu bezeichnen.
 
 ## Kommentierung
 

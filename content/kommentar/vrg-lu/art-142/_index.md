@@ -2,7 +2,7 @@
 title: "§ 142 — Verwaltungsbeschwerde"
 weight: 142
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-06-21
 description: "Kommentierung von § 142 VRG LU — Verwaltungsbeschwerde als wichtigster aussergerichtlicher Rechtsbehelf im luzernischen Verwaltungsverfahrensrecht"
 tags: ["VRG LU", "Verwaltungsbeschwerde", "Rechtsmittel", "Luzern"]
 agent_verified: true
@@ -16,7 +16,7 @@ agent_verified: true
 
 Die Verwaltungsbeschwerde ist ein **Instruktionsrechtmittel**: Die Beschwerdeinstanz ist der Vorinstanz auf der gleichen Verwaltungslinie vorgesetzt und übt ihr Aufsichts- und Weisungsrecht aus. Sie ist an die Parteianträge nicht gebunden (§ 147 VRG) und entscheidet mit freier Kognition über die Beschwerdegründe nach § 144 VRG.
 
-### II. Gesetzestext
+## Gesetzeswortlaut
 
 > **§ 142 — 1. Anfechtbare Entscheide, Beschwerdeinstanzen**
 >

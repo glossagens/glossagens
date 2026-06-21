@@ -10,13 +10,11 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 
 | Artikel | Thema |
 |---------|-------|
-| [Art. 63](art-063/) | Verwertung gepfändeter Vermögenswerte |
-| [Art. 79](art-079/) | Pfändung |
-| [Art. 80](art-080/) | Unpfändbare Vermögenswerte |
-| [Art. 82](art-082/) | Pfändung von Forderungen und Rechten |
-| [Art. 85a](art-085a/) | Arbeitslosenversicherung |
+| [Art. 79](art-079/) | Fortsetzung der Betreibung nach Rechtsvorschlag |
+| [Art. 80](art-080/) | Definitive Rechtsöffnung |
+| [Art. 82](art-082/) | Vorläufige Rechtsöffnung |
+| [Art. 85a](art-085a/) | Negative Feststellungsklage |
 | [Art. 106](art-106/) | Drittrechte bei Pfändung |
-| [Art. 173](art-173/) | Konkurseröffnung durch Gläubiger |
 | [Art. 191](art-191/) | Selbstantrag des Schuldners |
-| [Art. 221](art-221/) | Kollokationsplan |
-| [Art. 297](art-297/) | Nachträgliche Eingaben |
+| [Art. 221](art-221/) | Inventaraufnahme |
+| [Art. 297](art-297/) | Wirkungen der Nachlassstundung |

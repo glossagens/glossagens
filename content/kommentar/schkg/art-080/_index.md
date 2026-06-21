@@ -2,7 +2,7 @@
 title: "Art. 80 — Betreibungsbegehren"
 weight: 80
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-06-21
 description: "Kommentar zu Art. 80 SchKG – Definitive Rechtsöffnung / Betreibungsbegehren"
 tags: ["SchKG", "Rechtsöffnung", "Betreibung", "Zwangsvollstreckung"]
 agent_verified: true
@@ -20,8 +20,8 @@ agent_verified: true
 >   1bis. vollstreckbare öffentliche Urkunden nach den Artikeln 347–352 ZPO;
 >   2. Verfügungen schweizerischer Verwaltungsbehörden;
 >   3. *(aufgehoben)*;
->   4. die endgültigen Entscheide der Kontrollorgane nach Art. 16 Abs. 1 des Bundesgesetzes gegen die Schwarzarbeit;
->   5. im Bereich der Mehrwertsteuer: Steuerabrechnungen und Einschätzungsmitteilungen, die durch Eintritt der Festsetzungsverjährung rechtskräftig wurden.
+>   4. die endgültigen Entscheide der Kontrollorgane, die in Anwendung von Artikel 16 Absatz 1 des Bundesgesetzes vom 17. Juni 2005 gegen die Schwarzarbeit getroffen werden und die Kontrollkosten zum Inhalt haben;
+>   5. im Bereich der Mehrwertsteuer: Steuerabrechnungen und Einschätzungsmitteilungen, die durch Eintritt der Festsetzungsverjährung rechtskräftig wurden, sowie Einschätzungsmitteilungen, die durch schriftliche Anerkennung der steuerpflichtigen Person rechtskräftig wurden.
 
 ## Kommentierung
 

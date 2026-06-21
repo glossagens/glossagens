@@ -2,7 +2,7 @@
 title: "§ 204 — Unentgeltliche Rechtspflege"
 weight: 204
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-06-21
 description: "Kommentar zu § 204 VRG LU – Unentgeltliche Rechtspflege: Befreiung von der Kostenpflicht, Anwaltsbeigabe, Nachzahlungspflicht"
 tags: ["VRG", "Unentgeltliche Rechtspflege", "Kosten", "Luzern"]
 agent_verified: true
@@ -16,7 +16,7 @@ agent_verified: true
 >
 > 3 Die amtlichen Kosten und die Anwaltskosten gehen, soweit keine Gegenpartei dafür aufkommt, zulasten des Gemeinwesens.
 >
-> 4 Eine Partei, der die unentgeltliche Rechtspflege gewährt wurde, ist zur Nachzahlung der Kosten gemäss Absatz 3 verpflichtet, sobald sie dazu in der Lage ist. Ausgenommen sind das Opfer und seine Angemessenen gemäss Artikel 30 Absatz 3 des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz) vom 23. März 2007.
+> 4 Eine Partei, der die unentgeltliche Rechtspflege gewährt wurde, ist zur Nachzahlung der Kosten gemäss Absatz 3 verpflichtet, sobald sie dazu in der Lage ist. Ausgenommen sind das Opfer und seine Angehörigen gemäss Artikel 30 Absatz 3 des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz) vom 23. März 2007.
 >
 > 5 Der Anspruch des Gemeinwesens auf Nachzahlung verjährt zehn Jahre nach Abschluss des Verfahrens.
 
