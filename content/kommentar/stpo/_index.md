@@ -49,6 +49,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 244](art-244/) | Hausdurchsuchung (Grundsatz) |
 | [Art. 248](art-248/) | Siegelung |
 | [Art. 248a](art-248a/) | Zuständigkeit zur Entsiegelung und Verfahren |
+| [Art. 264](art-264/) | Einschränkungen (der Beschlagnahme) |
 | [Art. 310](art-310/) | Nichtanhandnahmeverfügung |
 | [Art. 333](art-333/) | Änderung und Erweiterung der Anklage |
 | [Art. 344](art-344/) | Abweichende rechtliche Würdigung |
