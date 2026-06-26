@@ -2,9 +2,9 @@
 title: "Rechtsprechung zu Art. 8 EMRK"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-07-26
-description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Daten­schutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht"
-tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung"]
+lastmod: 2026-07-27
+description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Datenschutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht, Umweltschutz, Identität"
+tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung", "Umweltschutz", "Identität"]
 agent_verified: false
 ---
 
@@ -96,6 +96,14 @@ agent_verified: false
 
 ---
 
+### Chapin und Charpentier v. Frankreich, App. no. 40183/07 (28.06.2016)
+
+- **Thema**: Eheöffnung für gleichgeschlechtliche Paare
+- **Kernaussage**: Die beschränkte Öffnung der Ehe für verschiedene Geschlechtergruppen als solche verstösst nicht gegen Art. 8 i.V.m. Art. 14 EMRK, solange eine rechtliche Anerkennung gleichgeschlechtlicher Paare besteht (in Frankreich: PACS).
+- **Einschlägig für**: gleichgeschlechtliche Partnerschaft, margin of appreciation, rechtliche Anerkennung
+
+---
+
 ### H.W. v. Frankreich, App. no. 32222/20 (23.01.2025)
 
 - **Thema**: Sexuelle Selbstbestimmung — «devoir conjugal»
@@ -112,7 +120,49 @@ agent_verified: false
 
 ---
 
-## III. EGMR — Datenschutz und Überwachung
+### Jalloh v. Deutschland, App. no. 54810/00 (Grosskammer, 11.07.2006)
+
+- **Thema**: Körperliche Integrität — Zwangsverabreichung von Brechmitteln
+- **Kernaussage**: Die Zwangsverabreichung eines Brechmittels zur Beweissicherung stellt einen schweren Eingriff in die körperliche Integrität und das Privatleben dar, der nur bei Vorliegen besonders gewichtiger Gründe gerechtfertigt werden kann. Im konkreten Fall verstiesst die Massnahme gegen Art. 3 und Art. 8 EMRK.
+- **Einschlägig für**: körperliche Integrität, Beweiserhebung, Strafverfahren
+
+---
+
+## III. EGMR — Identität, Name und Abstammung
+
+### Burghartz v. Schweiz, App. no. 16213/90 (22.02.1994)
+
+- **Thema**: Namensrecht — Ehefrauennamen
+- **Kernaussage**: Die Verweigerung der Annahme eines gemeinsamen Ehenamens in der Form des Doppelnamens (Verbindung des Geburtsnamens der Ehefrau mit demjenigen des Ehemannes mit Bindestrich) verstösst gegen Art. 8 i.V.m. Art. 14 EMRK, wenn diese Möglichkeit nur dem Mann offensteht. Das Schweizer Namensrecht wurde daraufhin reformiert.
+- **Einschlägig für**: Namensrecht, Identität, Diskriminierung
+
+---
+
+### Stjerna v. Finnland, App. no. 18131/91 (25.11.1994)
+
+- **Thema**: Recht auf Namensänderung
+- **Kernaussage**: Die Weigerung, einem finnischen Staatsangehörigen die Annahme eines schwedischen Namens zu gestatten, fällt in den Schutzbereich von Art. 8 EMRK. Der Eingriff wurde jedoch als gerechtfertigt erachtet, da die finnische Regelung einen legitimen Zweck verfolgte und verhältnismässig war.
+- **Einschlägig für**: Namensrecht, Identität, margin of appreciation
+
+---
+
+### Mikulić v. Kroatien, App. no. 53176/99 (07.02.2002)
+
+- **Thema**: Recht auf Kenntnis der Abstammung
+- **Kernaussage**: Das Recht auf Kenntnis der eigenen Abstammung ist Teil des durch Art. 8 EMRK geschützten Privatlebens. Die Verweigerung jeglichen Zugangs zu Informationen über die biologische Abstammung kann Art. 8 EMRK verletzen. Die kroatischen Behörden hätten alles Zumutbare unternehmen müssen, um die Vaterschaftsfeststellung zu ermöglichen.
+- **Einschlägig für**: Abstammung, Identität, positive obligations
+
+---
+
+### Odièvre v. Frankreich, App. no. 32318/96 (Grosskammer, 13.02.2003)
+
+- **Thema**: Anonyme Geburt — Abstammung vs. Privatsphäre der Mutter
+- **Kernaussage**: Ein absolutes Geheimhaltungsrecht der biologischen Mutter, das dem Kind jegliche Möglichkeit nimmt, seine Abstammung zu erfahren, kann gegen Art. 8 EMRK verstossen. Der EGMR erkannte an, dass das Recht auf Kenntnis der Abstammung zum Privatleben gehört, wog aber Interesse des Kindes gegen die Privatsphäre der Mutter ab und sah die französische Regelung (die einen Ausgleichsmechanismus vorsah) als gerechtfertigt an.
+- **Einschlägig für**: Abstammung, Identität, Privatsphäre, positive obligations
+
+---
+
+## IV. EGMR — Datenschutz und Überwachung
 
 ### Rotaru v. Rumänien, App. no. 28341/95 (Grosskammer, 04.05.2000)
 
@@ -138,10 +188,18 @@ agent_verified: false
 
 ---
 
+### Copland v. Vereinigtes Königreich, App. no. 62637/00 (03.04.2007)
+
+- **Thema**: Metadaten und Verkehrsdaten am Arbeitsplatz
+- **Kernaussage**: Die heimliche Überwachung des E-Mail- und Telefonverkehrs einer Arbeitnehmerin durch ihren Arbeitgeber ohne gesetzliche Grundlage verstösst gegen Art. 8 EMRK. Die blosse Speicherung von Verbindungsdaten (wer hat wann mit wem kommuniziert) stellt bereits einen Eingriff in die Korrespondenz dar, auch ohne Kenntnisnahme vom Inhalt.
+- **Einschlägig für**: Korrespondenz, Metadaten, Arbeitsplatzüberwachung
+
+---
+
 ### Zakharov v. Russland, App. no. 47136/13 (Grosskammer, 04.12.2015)
 
 - **Thema**: Telekommunikationsüberwachung — in abstracto-Prüfung
-- **Kernaussage**: Die russische Gesetzgebung zur elektronischen Überwachung bietet keine ausreichenden Schutzmassnahmen gegen willkürliche Überwachung und stellt selbst eine Verletzung von Art. 8 EMRK dar. Der EGMR führte erstmals eine abstrakte Überprüfung der Gesetzgebung durch (in abstracto-Prüfung), ohne dass der Beschwerdeführer selbst überwacht werden musste.
+- **Kernaussage**: Die russische Gesetzgebung zur elektronischen Überwachung bietet keine ausreichenden Schutzmassnahmen gegen willkürliche Überwachung und stellt selbst eine Verletzung von Art. 8 EMRK dar. Der EGMR führte erstmals eine abstrakte Überprüfung der Gesetzgebung durch (in abstracto-Prüfung), ohne dass der Beschwerdeführer selbst überwacht werden musste. Folgende Mindestanforderungen an Überwachungsgesetze: (1) Klarheit und Vorhersehbarkeit, (2) abschliessende Gründe, (3) unabhängige Kontrolle, (4) Benachrichtigungspflicht, (5) Löschungspflicht.
 - **Einschlägig für**: Überwachung, gesetzliche Grundlage, in abstracto-Prüfung, Telekommunikation
 
 ---
@@ -194,7 +252,101 @@ agent_verified: false
 
 ---
 
-## IV. Schweizer Bundesgerichtsentscheide — Aufenthaltsrecht
+## V. EGMR — Umweltschutz und Lebensqualität
+
+### López Ostra v. Spanien, App. no. 16798/90 (09.12.1994)
+
+- **Thema**: Umweltverschmutzung und Privatleben
+- **Kernaussage**: Schwere Umweltverschmutzung (Geruchsbelästigung und Gesundheitsbeeinträchtigungen durch eine Abfallbehandlungsanlage) kann eine Verletzung von Art. 8 EMRK darstellen, auch ohne dass eine konkrete Gesundheitsgefährdung nachgewiesen wird. Die positiven Staatenpflichten umfassen die Pflicht, angemessene Massnahmen zum Schutz der Bürger vor Umweltbeeinträchtigungen zu ergreifen.
+- **Einschlägig für**: Umweltschutz, positive obligations, Privatleben, Gesundheit
+
+---
+
+### Hatton und andere v. Vereinigtes Königreich, App. no. 36022/97 (Grosskammer, 08.07.2003)
+
+- **Thema**: Lärmbelästigung durch Flugverkehr
+- **Kernaussage**: Nächtliche Flüge über den Heathrow-Flughafen beeinträchtigen den Schlaf der Anwohner und fallen in den Schutzbereich von Art. 8 EMRK. Die Grosskammer verneinte jedoch eine Verletzung, da die Massnahmen zur Lärmminderung nicht offensichtlich unzureichend waren und ein angemessener Ausgleich zwischen den wirtschaftlichen Interessen und den Anliegen der Anwohner gefunden wurde. Der margin of appreciation ist bei Umweltfragen weiter.
+- **Einschlägig für**: Umweltschutz, Lärmbelästigung, margin of appreciation
+
+---
+
+### Tătar v. Rumänien, App. no. 67021/01 (27.01.2009)
+
+- **Thema**: Industriegefahren und Informationspflicht
+- **Kernaussage**: Rumänien verstiesst gegen Art. 8 EMRK, indem es die Anwohner eines Bergbaubetriebs nicht vor den Gefahren einer möglichen Umweltkatastrophe geschützt hat. Die positive Pflicht umfasst auch die Pflicht zur Informationserteilung über Gesundheitsrisiken.
+- **Einschlägig für**: Umweltschutz, positive obligations, Informationspflicht
+
+---
+
+### Di Sarno und andere v. Italien, App. no. 30765/08 (10.01.2012)
+
+- **Thema**: Abfallkrise — positive Staatenpflichten
+- **Kernaussage**: Die chronische Müllkrise in der Region Campanien stellt eine Verletzung von Art. 8 EMRK dar, da die italienischen Behörden es versäumt haben, angemessene Massnahmen zur Abfallbeseitigung zu ergreifen. Die positiven Staatenpflichten umfassen auch den Schutz vor Umweltbeeinträchtigungen durch Dritte.
+- **Einschlägig für**: Umweltschutz, positive obligations, Abfallwirtschaft
+
+---
+
+### Kiefer v. Deutschland, App. no. 37548/97 (12.12.2002)
+
+- **Thema**: Kernkraftwerk und Umweltschutz
+- **Kernaussage**: Die Beschwerdeführer wandten sich gegen die Inbetriebnahme eines Kernkraftwerks in der Nähe ihres Wohnorts. Der EGMR verneinte eine Verletzung von Art. 8 EMRK, da die deutschen Behörden angemessene Schutzmassnahmen ergriffen hatten und ein angemessener Ausgleich zwischen den wirtschaftlichen Interessen und den Anliegen der Anwohner gefunden wurde.
+- **Einschlägig für**: Umweltschutz, Kernenergie, margin of appreciation
+
+---
+
+## VI. EGMR — Wohnung und Räumung
+
+### McCann v. Vereinigtes Königreich, App. no. 19009/04 (13.05.2008)
+
+- **Thema**: Räumung und Wohnungsverlust
+- **Kernaussage**: Die Räumung einer Sozialwohnung ohne angemessene Prüfungsfristen und ohne ausreichende Berücksichtigung der persönlichen Umstände kann gegen Art. 8 EMRK verstossen. Der Staat hat eine positive Pflicht, den Verlust der Wohnung angemessen zu berücksichtigen und proportionale Massnahmen zu ergreifen.
+- **Einschlägig für**: Wohnungsschutz, Räumung, positive obligations
+
+---
+
+### Stankov v. Bulgarien, App. nos. 68590/01 u.a. (12.01.2007)
+
+- **Thema**: Zwangsräumung von Roma-Siedlungen
+- **Kernaussage**: Die Zwangsräumung von Roma-Siedlungen ohne angemessene Alternativunterkünfte verstösst gegen Art. 8 EMRK, insbesondere wenn die Betroffenen keine andere Wohnmöglichkeit haben. Die positiven Staatenpflichten umfassen den Schutz vor Obdachlosigkeit.
+- **Einschlägig für**: Wohnungsschutz, Zwangsräumung, Minderheiten
+
+---
+
+## VII. EGMR — Familienleben und Aufenthaltsrecht
+
+### Berrehab v. Niederlande, App. no. 10730/84 (21.06.1988)
+
+- **Thema**: Familienleben — Eltern-Kind-Beziehung
+- **Kernaussage**: Die Beziehung zwischen einem Elternteil und einem minderjährigen Kind fällt stets unter den Schutzbereich des Familienlebens nach Art. 8 EMRK. Die Verweigerung des Aufenthaltsrechts für einen getrennt lebenden Vater verstösst gegen Art. 8 EMRK, wenn sie das Familienleben beeinträchtigt.
+- **Einschlägig für**: Familienleben, Eltern-Kind-Beziehung, Aufenthaltsrecht
+
+---
+
+### Kroon und andere v. Niederlande, App. no. 18535/91 (19.10.1994)
+
+- **Thema**: Familienleben — weitere Familienbeziehungen
+- **Kernaussage**: Der Begriff des Familienlebens umfasst nicht nur die eheliche Kernfamilie, sondern auch faktische Lebensgemeinschaften und die Beziehung zwischen Eltern und erwachsenen Kindern, wenn enge soziale und emotionale Bindungen bestehen.
+- **Einschlägig für**: Familienleben, faktische Lebensgemeinschaft, erwachsene Kinder
+
+---
+
+### Gül v. Schweiz, App. no. 23218/94 (19.02.1996)
+
+- **Thema**: Familiennachzug — schweizerische Praxis
+- **Kernaussage**: Die Verweigerung des Familiennachzugs eines türkischen Vaters zu seinem in der Schweiz lebenden schweizerischen Kind stellt eine Verletzung von Art. 8 EMRK dar, wenn die Massnahme nicht verhältnismässig ist.
+- **Einschlägig für**: Familiennachzug, Aufenthaltsrecht, Schweiz
+
+---
+
+### Jeunesse v. Niederlande, App. no. 12738/10 (Grosskammer, 03.10.2014)
+
+- **Thema**: Familiennachzug — Mindesteinkommen
+- **Kernaussage**: Die niederländische Regelung zum Familiennachzug verstösst gegen Art. 8 EMRK i.V.m. Art. 14 EMRK, da sie eine Mindesteinkommensgrenze fordert, die für Migranten schwerer zu erfüllen ist. Der EGMR betonte, dass bei der Verhältnismässigkeitsprüfung die konkreten Umstände des Einzelfalls zu berücksichtigen sind.
+- **Einschlägig für**: Familiennachzug, Diskriminierung, Mindesteinkommen
+
+---
+
+## VIII. Schweizer Bundesgerichtsentscheide — Aufenthaltsrecht
 
 ### BGE 126 II 377 — Pionierentscheid
 
@@ -326,7 +478,7 @@ Die Vermutung gemäss BGE 144 I 266 bezieht sich auf Konstellationen der Beendig
 
 ---
 
-## V. Schweizer Bundesgerichtsentscheide — Datenschutz und Überwachung
+## IX. Schweizer Bundesgerichtsentscheide — Datenschutz und Überwachung
 
 ### BGE 109 IA 273 (09.11.1983)
 
@@ -378,6 +530,16 @@ Voraussetzungen für die Überwachung des Telefonverkehrs im Strafverfahren. Anf
 
 ---
 
+### BGE 134 I 83 (2008)
+
+**Umweltbeeinträchtigungen und Art. 8 EMRK**
+
+Das BGer anerkennt, dass Umweltbeeinträchtigungen unter bestimmten Voraussetzungen in den Schutzbereich von Art. 8 EMRK fallen können. Die Schwelle für eine Konventionsverletzung ist jedoch hoch.
+
+*Einschlägig für:* Umweltschutz, Privatleben, Schutzbereich
+
+---
+
 ### BGE 134 III 241 (2008)
 
 **Datenbearbeitung und Persönlichkeitsschutz**
@@ -405,6 +567,16 @@ Prüfung der schweizerischen Regelung zur Aufbewahrung von Verkehrsdaten unter d
 Entdeckung der verdeckten Ermittlung durch die beschuldigte Person. Art. 8 EMRK schützt die Wohnung vor heimlicher Observation. Offenbarungspflicht des Staates bei verdeckter Ermittlung im Wohnbereich.
 
 *Einschlägig für:* Wohnungsschutz, verdeckte Ermittlung, Offenbarungspflicht
+
+---
+
+### BGE 143 III 445 (2017)
+
+**Räumungsschutz und Art. 8 EMRK**
+
+Bei Räumungsklagen im Mietrecht ist die Verhältnismässigkeitsprüfung unter Einbezug von Art. 8 EMRK durchzuführen. Der EGMR (McCann) hat anerkannt, dass die Räumung einer Wohnung ohne angemessene Prüfungsfristen gegen Art. 8 EMRK verstossen kann.
+
+*Einschlägig für:* Wohnungsschutz, Räumung, Mietrecht, Verhältnismässigkeit
 
 ---
 
@@ -438,7 +610,7 @@ Das BGer wandte die Rechtsprechung des EGMR zu Art. 8 EMRK (Goodwin, Y v. France
 
 ---
 
-## VI. Schweizer Bundesgerichtsentscheide — Wohnungsschutz
+## X. Schweizer Bundesgerichtsentscheide — Wohnungsschutz
 
 ### 1B_342/2017 (11.12.2017)
 
@@ -470,4 +642,4 @@ Verzicht auf das Erfordernis der Wohnung bei Durchsuchung eines Funktelefons (Ba
 
 ---
 
-*Letzte Aktualisierung: 26.07.2026*
+*Letzte Aktualisierung: 27.07.2026*
