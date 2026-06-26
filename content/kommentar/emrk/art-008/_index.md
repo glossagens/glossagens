@@ -4,7 +4,7 @@ weight: 8
 date: 2026-05-22
 lastmod: 2026-07-27
 description: "Kommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, seiner Wohnung und seiner Korrespondenz; Schutzbereich (Privatleben, Familienleben, Wohnung, Korrespondenz); Eingriffsvoraussetzungen; Verhältnismässigkeit; Positive Staatenpflichten; EGMR-Grundprinzipien; Bedeutung im schweizerischen Recht"
-tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Verhältnismässigkeit", "Integration", "Umweltschutz", "Identität"]
+tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Verhältnismässigkeit", "Integration", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
 agent_verified: true
 ---
 
@@ -22,7 +22,7 @@ agent_verified: true
 
 Art. 8 EMRK ist die meistzitierte Bestimmung der Konvention und gehört zu den zentralen Grundrechten des europäischen Menschenrechtsschutzes. Die Konvention ist für die Schweiz seit 1974 in Kraft (SR 0.101) und entfaltet unmittelbare Wirkung. Art. 8 EMRK schützt vier eigenständige Rechtsgüter: das Privatleben, das Familienleben, die Wohnung und die Korrespondenz. Der EGMR legt den Schutzbereich weit aus und anerkennt sowohl negative Unterlassungspflichten als auch positive Schutzpflichten des Staates ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74, E. 31).
 
-Im schweizerischen Recht korrespondiert Art. 8 EMRK mit Art. 13 BV (Recht auf Achtung des Privat- und Familienlebens), Art. 36 BV (Einschränkung von Grundrechten) sowie mit dem Datenschutzrecht (nDSG, SR 235.1) und dem Strafverfahrensrecht (Art. 278 ff. StPO, Art. 269 ff. StPO). Die Bedeutung der Norm reicht weit über das Ausländerrecht hinaus: Sie umfasst den Schutz der Geschlechtsidentität, die informationelle Selbstbestimmung, den Wohnungsschutz vor staatlichen Eingriffen, das Brief- und Kommunikationsgeheimnis, die körperliche Integrität, den Umweltschutz und das Recht auf Kenntnis der eigenen Abstammung.
+Im schweizerischen Recht korrespondiert Art. 8 EMRK mit Art. 13 BV (Recht auf Achtung des Privat- und Familienlebens), Art. 36 BV (Einschränkung von Grundrechten) sowie mit dem Datenschutzrecht (nDSG, SR 235.1) und dem Strafverfahrensrecht (Art. 278 ff. StPO, Art. 269 ff. StPO). Die Bedeutung der Norm reicht weit über das Ausländerrecht hinaus: Sie umfasst den Schutz der Geschlechtsidentität, die informationelle Selbstbestimmung, den Wohnungsschutz vor staatlichen Eingriffen, das Brief- und Kommunikationsgeheimnis, die körperliche Integrität, den Umweltschutz, den Schutz vor häuslicher Gewalt und das Recht auf Kenntnis der eigenen Abstammung.
 
 **Konkordanz im inneren Recht.** Art. 8 EMRK steht in einem engen Konkordanzverhältnis zu folgenden innerstaatlichen Normen:
 - Art. 13 Abs. 1 BV (Recht auf Achtung des Privat- und Familienlebens)
@@ -50,8 +50,11 @@ Der Begriff des Privatlebens ist nicht auf ein «inneres Privatleben» beschrän
 Die sexuelle Orientierung und die Geschlechtsidentität sind Kernbestandteile des Privatlebens. Der EGMR hat in bahnbrechenden Entscheiden anerkannt:
 
 - **Homosexualität**: Die Strafbarkeit einvernehmlicher homosexueller Handlungen zwischen Erwachsenen verstösst gegen Art. 8 EMRK ([Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360), App. no. 7525/76). Auch die blosse Existenz einer Strafnorm stellt einen Eingriff dar, auch ohne Anwendung ([Modinos v. Zypern](https://hudoc.echr.coe.int/eng?i=001-57677), App. no. 15070/89).
+- **Sittenwidrigkeit**: Die Bestrafung einvernehmlicher homosexueller Handlungen unter Erwachsenen nach dem Schweizerischen StGB aArt. 127 verstösst gegen Art. 8 EMRK ([Müller und andere v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57500), App. no. 10737/84). Der EGMR erkannte zwar, dass die Bestrafung als solche in den margin of appreciation fiel, kritisierte aber die Konfiskation von Filmen als unverhältnismässig. Der Entscheid trug zur späteren Aufhebung von aArt. 127 StGB bei.
 - **Sexuelle Orientierung im Berufsleben**: Untersuchung und Entlassung von Militärangehörigen wegen ihrer sexuellen Orientierung verstösst gegen Art. 8 EMRK ([Smith and Grady v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-58269), App. nos. 33985/96 und 33986/96).
-- **Geschlechtsidentität**: Die fehlende rechtliche Anerkennung der Geschlechtsidentität einer Transperson verstösst gegen Art. 8 und Art. 12 EMRK. Der EGMR betonte, dass die Gesellschaft eine gewisse Unannehmlichkeit in Kauf nehmen muss, damit Transpersonen in Würde und Wert leben können ([Christine Goodwin v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60525), App. no. 28957/95, Grosskammer; bestätigt durch [I. v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60524), App. no. 25680/94). Die Verweigerung der Kostenübernahme für geschlechtsanpassende Massnahmen durch eine Krankenversicherung verstösst ebenfalls gegen Art. 8 EMRK ([Van Kück v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-61177), App. no. 35968/97).
+- **Geschlechtsidentität**: Die fehlende rechtliche Anerkennung der Geschlechtsidentität einer Transperson verstösst gegen Art. 8 und Art. 12 EMRK. Der EGMR betonte, dass die Gesellschaft eine gewisse Unannehmlichkeit in Kauf nehmen muss, damit Transpersonen in Würde und Wert leben können ([Christine Goodwin v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60525), App. no. 28957/95, Grosskammer; bestätigt durch [I. v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60524), App. no. 25680/94).
+- **Transgeschlechtlichkeit und Ehe**: Die Aufrechterhaltung der Ehe als Voraussetzung für die Geschlechtsanpassung ist mit Art. 8 EMRK unvereinbar. Der EGMR entschied in [Hämäläinen v. Finnland](https://hudoc.echr.coe.int/eng?i=001-145839) (App. no. 37351/12, Grosskammer), dass Finnland eine Person, die ihr Geschlecht anpassen wollte, zwang, sich entweder scheiden zu lassen oder die Ehe in eine eingetragene Partnerschaft umzuwandeln. Der EGMR verneinte eine Verletzung, weil Finnland die eingetragene Partnerschaft als gleichwertige Rechtsform anbot — der Entscheid ist jedoch in der Kritik, da er die Bedeutung der Ehe als Institution unterschätzt.
+- **Eintragung des Geschlechts**: Die Pflicht, bei Geschlechtsanpassung ein medizinisches Gutachten vorzulegen, das eine irreversible Sterilisation bestätigt, verstösst gegen Art. 8 EMRK ([A.P., Garçon und Nicot v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-172744), App. nos. 79885/12 u.a.). Die Sterilisationsanforderung ist unverhältnismässig.
 - **Vornamen und Geschlechtseintrag**: Der Zugang zur Vornamensänderung und zum Geschlechtseintrag im Personenstandsregister gehört zum durch Art. 8 EMRK geschützten Privatleben (BGE 150 III 34, gestützt auf Goodwin und Y v. France).
 - **Sexuelle Selbstbestimmung**: Die Eintragung einer Frau als verschuldet am Scheitern der Ehe wegen Verweigerung ehelicher Geschlechtsbeziehlicheiten («devoir conjugal») verstösst gegen Art. 8 EMRK ([H.W. v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-240683), App. no. 32222/20).
 
@@ -74,19 +77,29 @@ Das Recht auf den eigenen Namen und die Identität fallen in den Schutzbereich d
 
 Die systematische Sammlung und Speicherung öffentlicher Informationen über eine Person durch staatliche Behörden fällt in den Schutzbereich des Privatlebens ([Rotaru v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-58606), App. no. 28341/95, Grosskammer). Auch Informationen über die fernere Vergangenheit können dem Privatleben zugeordnet werden, wenn sie systematisch in Akten erfasst werden.
 
+**Personaldossier und Geheimhaltung**. Das Recht, über die Verbreitung persönlicher Informationen zu bestimmen, umfasst auch den Zugang zu Akten, die eine Person betreffen. In [Leander v. Schweden](https://hudoc.echr.coe.int/eng?i=001-57631) (App. no. 9248/81) entschied der EGMR, dass die Speicherung und Weitergabe von Informationen über eine Person in einem Sicherheitsdossier in den Schutzbereich von Art. 8 fällt. Zugleich verneinte der EGMR eine Verletzung, da die schwedischen Kontrollmechanismen ausreichend waren.
+
+**Geheimhaltung und Klassifizierung**. In [Klass und andere v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57510) (App. no. 5029/71) entschied der EGMR, dass die heimliche Überwachung der Post und des Fernmeldeverkehrs von Verdächtigen in den Schutzbereich der Korrespondenz fällt, auch wenn die Betroffenen nicht wissen, dass sie überwacht werden. Der EGMR anerkannte erstmals, dass die Bestreitung der Opfereigenschaft (victim) bei heimlichen Massnahmen nicht das Beschwerderecht ausschliesst.
+
 Die unbegrenzte Aufbewahrung von DNA-Profilen und Fingerabdrücken von Personen, die verhaftet, aber nicht verurteilt wurden, verstösst gegen Art. 8 EMRK ([S. and Marper v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-90094), App. nos. 30562/04 und 30566/04, Grosskammer). Der margin of appreciation der Staaten ist bei der Speicherung biometrischer Daten besonders eng.
 
 **Arbeitsplatzüberwachung**. Arbeitnehmer verzichten nicht auf ihr Privatleben am Arbeitsplatz. Die heimliche Überwachung des privaten Messenger-Accounts eines Arbeitnehmers durch den Arbeitgeber verstösst gegen die positiven Pflichten aus Art. 8 EMRK, wenn keine faire Abwägung vorgenommen wird ([Bărbulescu v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-176842), App. no. 61496/08, Grosskammer). Der EGMR unterschied zwischen privater und beruflicher Kommunikation und forderte, dass der Arbeitgeber den Arbeitnehmer im Voraus über die Überwachung informiert.
 
+**Telefon am Arbeitsplatz**. In [Halford v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-58029) (App. no. 20605/92) entschied der EGMR, dass private Telefonate am Arbeitsplatz in den Schutzbereich der Korrespondenz fallen und ohne gesetzliche Grundlage nicht überwacht werden dürfen. Dies gilt auch für Telefone, die dem Arbeitgeber gehören.
+
 **Metadata und Verkehrsdaten**. Die Speicherung von Verkehrsdaten (Verbindungsdaten, Standortdaten) ohne ausreichende Schutzmassnahmen fällt in den Schutzbereich von Art. 8 EMRK. Die systematische Speicherung aller Verkehrsdaten «auf Vorrat» verstösst gegen Art. 8 EMRK, wenn sie nicht ausreichend begrenzt und kontrolliert ist ([Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), App. no. 47136/13, Grosskammer; [Big Brother Watch and Others v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-211925), App. nos. 58170/13 u.a., Grosskammer).
 
 Das BGer hat die EGMR-Rechtsprechung zu Datenschutz und Art. 8 EMRK übernommen: Die unbefugte Weitergabe von Personendaten fällt in den Schutzbereich von Art. 8 EMRK (BGE 134 III 241), und die Eintragung von Personendaten in Polizeidatenbanken unterliegt der Verhältnismässigkeitsprüfung unter Berücksichtigung der EGMR-Praxis Rotaru und S. und Marper (BGE 147 I 372). Zur Vorratsdatenspeicherung stellte das BGer unter Bezugnahme auf Zakharov und S. und Marper fest, dass sie einem strengen Verhältnismässigkeitsmassstab unterliegt (BGE 137 I 305).
+
+**Digitaler Datenschutz und neue Technologien**. Der EGMR hat in [Benedik v. Slowenien](https://hudoc.echr.coe.int/eng?i=001-202879) (App. no. 55001/11) festgestellt, dass die Durchsuchung des Mobiltelefons eines Beschuldigten ohne gerichtliche Anordnung gegen Art. 8 EMRK verstösst. Smartphones enthalten eine Fülle von Privat- und Berufsdaten, die weit über traditionelle Durchsuchungen hinausgeht.
 
 ##### e) Körperliche Integrität und Selbstbestimmung
 
 Art. 8 EMRK umfasst das Recht auf körperliche Unversehrtheit und die Entscheidung über die eigenen Lebensumstände ([Pretty v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60460), App. no. 2346/02, E. 61–67). Dies schliesst das Recht ein, nicht gegen den eigenen Willen am Leben erhalten zu werden. Die Verweigerung der Straffreiheit für Beihilfe zum Suizid wurde jedoch als gerechtfertigt erachtet (E. 74–82).
 
 Die Zwangsverabreichung von Medikamenten oder medizinische Massnahmen ohne Einwilligung stellen einen Eingriff in das Privatleben dar, der einer Rechtfertigung nach Art. 8 Ziff. 2 bedarf. Der EGMR hat in [Jalloh v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-76788) (App. no. 54810/00) festgestellt, dass die Zwangsverabreichung eines Brechmittels zur Beweissicherung einen schweren Eingriff in die körperliche Integrität darstellt, der nur bei Vorliegen besonders gewichtiger Gründe gerechtfertigt werden kann.
+
+**Positive Pflicht bei Vergewaltigung**. In [M.C. v. Bulgarien](https://hudoc.echr.coe.int/eng?i=001-67784) (App. no. 39272/98) entschied der EGMR, dass Art. 8 EMRK i.V.m. Art. 3 EMRK eine positive Pflicht des Staates begründet, wirksame Strafrechtsnormen gegen Vergewaltigung und sexuelle Gewalt zu schaffen und durchzusetzen. Bulgarien hatte sein Strafrecht so ausgelegt, dass physischer Widerstand der Opfer Voraussetzung für eine Vergewaltigungsanklage war — dies verstösst gegen die positive Pflicht zum Schutz der körperlichen Integrität und sexuellen Selbstbestimmung.
 
 ##### f) Umweltschutz und Lebensqualität
 
@@ -115,6 +128,7 @@ Im Aufenthaltsrecht wird Art. 8 Ziff. 1 EMRK insbesondere dann relevant, wenn ei
 Art. 8 EMRK schützt das Recht auf Zusammenleben der Familie. Der Begriff des «Familienlebens» ist autonom auszulegen und umfasst nicht nur die eheliche Kernfamilie, sondern auch faktische Lebensgemeinschaften und die Beziehung zu nahen Angehörigen:
 
 - **Kernfamilie**: Die Beziehung zwischen Eltern und minderjährigen Kindern fällt stets unter den Schutzbereich des Familienlebens ([Berrehab v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-57338), App. no. 10730/84, E. 21).
+- **Unverheiratete Eltern**: Auch die Beziehung zwischen einem unverheirateten Vater und seinem Kind fällt unter den Begriff des Familienlebens. In [Keegan v. Irland](https://hudoc.echr.coe.int/eng?i=001-57699) (App. no. 28967/91) stellte der EGMR fest, dass die Beziehung zwischen einem unverheirateten Vater und seinem Kind, das er anerkennen wollte, unter den Schutz des Familienlebens fällt. Irland hatte die Adoption des Kindes ohne Benachrichtigung des Vaters zugelassen — eine Verletzung von Art. 8 i.V.m. Art. 14 EMRK.
 - **Gleichgeschlechtliche Paare**: Seit Schalk and Kopf v. Österreich fallen gleichgeschlechtliche Paarbeziehungen unter den Begriff des «Familienlebens» (E. 94).
 - **Eltern und erwachsene Kinder**: Die Beziehung zwischen Eltern und erwachsenen Kindern kann unter Familienleben fallen, wenn enge soziale und emotionale Bindungen bestehen ([Kroon und andere v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-57933), App. no. 18535/91).
 - **Großeltern und Enkel**: Auch die Beziehung zu Großeltern kann unter Familienleben fallen, wenn enge Bindungen bestehen ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74).
@@ -151,6 +165,7 @@ Der Schutz der Korrespondenz umfasst sämtliche Kommunikationsformen — Briefve
 - **Zugang zu Gericht**: Die Verweigerung des Briefverkehrs mit einem Anwalt kann zugleich Art. 6 und Art. 8 EMRK verletzen ([Golder v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57555), App. no. 4451/70, Grosskammer).
 - **Arbeitsplatzüberwachung**: Arbeitnehmer verzichten nicht auf ihr Privatleben am Arbeitsplatz. Die Überwachung des privaten Messenger-Accounts eines Arbeitnehmers durch den Arbeitgeber verstösst gegen die positiven Pflichten aus Art. 8 EMRK, wenn keine faire Abwägung vorgenommen wird ([Bărbulescu v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-176842), App. no. 61496/08, Grosskammer).
 - **Metadata und Verkehrsdaten**: Die systematische Speicherung von Kommunikationsverbindungsdaten fällt in den Schutzbereich der Korrespondenz ([Copland v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-80073), App. no. 62637/00). Der EGMR stellte fest, dass die heimliche Überwachung des E-Mail- und Telefonverkehrs einer Arbeitnehmerin durch ihren Arbeitgeber ohne gesetzliche Grundlage gegen Art. 8 EMRK verstösst. Die blosse Speicherung von Verbindungsdaten (wer hat wann mit wem kommuniziert) stellt bereits einen Eingriff in die Korrespondenz dar.
+- **Telefonüberwachung**: In [Malone v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57677) (App. no. 8691/79) entschied der EGMR, dass die britische Praxis der «metering» — der Aufzeichnung, wann und mit wem eine Person telefoniert — ohne ausreichende gesetzliche Grundlage gegen Art. 8 EMRK verstösst. Der Entscheid war ein Meilenstein für die Entwicklung des Datenschutzes und führte schliesslich zur Annahme des RIPA 2000.
 
 ---
 
@@ -186,7 +201,7 @@ Die Verhältnismässigkeitsprüfung ist der Kern der EGMR-Prüfung bei Art. 8 EM
 
 **(c) Verhältnismässigkeit im weiteren Sinn**: Die Interessen des Einzelnen und der Gemeinschaft sind gegeneinander abzuwägen. Der margin of appreciation der Staaten ist dabei je nach Bereich unterschiedlich breit.
 
-Die drei Voraussetzungen sind kumulativ. Fehlt eine davon, liegt eine Konventionsverletzung vor.
+Die drei Voraussetzungen sind kumulative. Fehlt eine davon, liegt eine Konventionsverletzung vor.
 
 #### Margin of appreciation
 
@@ -199,7 +214,20 @@ Der EGMR gewährt den Vertragsstaaten einen **Beurteilungsspielraum** (margin of
 
 ---
 
-### IV. Positive Staatenpflichten
+### IV. Art. 8 i.V.m. Art. 14 EMRK (Diskriminierungsdimension)
+
+Art. 8 EMRK entfaltet seine volle Schutzwirkung insbesondere in Verbindung mit dem Diskriminierungsverbot des Art. 14 EMRK. Die Kombination beider Normen erlaubt es, auch Massnahmen zu prüfen, die an sich im margin of appreciation liegen, wenn sie eine Unterscheidung nach einem der in Art. 14 genannten Merkmale (insbesondere Geschlecht, sexuelle Orientierung, Nationalität) treffen:
+
+- **Sexuelle Orientierung**: In [Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360) (App. no. 7525/76) verletzte die Strafbarkeit homosexueller Handlungen sowohl Art. 8 als auch Art. 14 i.V.m. Art. 8 EMRK. Der margin of appreciation ist bei sexueller Orientierung besonders eng.
+- **Geschlecht**: In [Burghartz v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57849) (App. no. 16213/90) wurde die unterschiedliche Behandlung von Mann und Frau bei der Wahl des Ehenamens als Verstoss gegen Art. 8 i.V.m. Art. 14 EMRK qualifiziert.
+- **Staatsangehörigkeit/Aufenthaltsstatus**: In [Jeunesse v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-122885) (App. no. 12738/10, Grosskammer) verstiesst die niederländische Regelung zum Familiennachzug gegen Art. 8 i.V.m. Art. 14 EMRK, da die Mindesteinkommensgrenze für Migranten schwerer zu erfüllen war.
+- **Einreiseverbot bei Sexualdelikten**: In [K.A. v. Belgien](https://hudoc.echr.coe.int/eng?i=001-163727) (App. no. 42758/98) entschied der EGMR, dass ein Einreiseverbot gegen einen verurteilten Sexualstraftäter gegen Art. 8 EMRK verstossen kann, wenn es unverhältnismässig ist und das Familienleben unverhältnismässig beeinträchtigt.
+
+Die Diskriminierungsdimension ist bei der Prüfung von Art. 8 EMRK stets zu berücksichtigen, auch wenn Art. 14 nicht selbstständig gerügt wurde. Der EGMR prüft von Amtes wegen, ob eine Ungleichbehandlung vorliegt.
+
+---
+
+### V. Positive Staatenpflichten
 
 Art. 8 EMRK enthält nicht nur negative Unterlassungspflichten, sondern auch **positive Schutzpflichten** ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74, E. 31). Der Staat muss aktive Massnahmen ergreifen, um die wirksame Achtung des Privat- und Familienlebens zu gewährleisten.
 
@@ -216,12 +244,14 @@ Art. 8 EMRK enthält nicht nur negative Unterlassungspflichten, sondern auch **p
 - **Rechtliche Anerkennung**: Anerkennung der Geschlechtsidentität (Goodwin), rechtliche Anerkennung gleichgeschlechtlicher Paare (Oliari).
 - **Schutz vor Überwachung**: Ausreichende gesetzliche Grundlagen und Kontrollmechanismen für staatliche Überwachung (Zakharov, Big Brother Watch).
 - **Schutz vor Dritten**: Schutz vor nicht-staatlichen Eingriffen in das Privatleben (z.B. Arbeitgeberüberwachung: Bărbulescu; häusliche Gewalt: Opuz v. Türkei).
+- **Schutz vor häuslicher Gewalt**: Die positive Pflicht des Staates umfasst den wirksamen Schutz vor häuslicher und geschlechtsspezifischer Gewalt. In [Opuz v. Türkei](https://hudoc.echr.coe.int/eng?i=001-92480) (App. no. 33401/02, Grosskammer) stellte der EGMR fest, dass das Versäumnis der Behörden, wirksame Massnahmen zum Schutz einer Frau und ihrer Kinder vor tödlicher häuslicher Gewalt zu ergreifen, eine Verletzung von Art. 2 und Art. 14 i.V.m. Art. 2 EMRK darstellt. Art. 8 EMRK wird durch diese Rechtsprechung bestärkt, da häusliche Gewalt einen schweren Eingriff in das Privatleben darstellt.
 - **Datenschutz**: Begrenzung der Speicherung und Nutzung personenbezogener Daten (Rotaru, S. und Marper, Aycaguer).
 - **Umweltschutz**: Ergreifung angemessener Massnahmen zum Schutz vor Umweltbeeinträchtigungen (López Ostra, Tătar, Di Sarno).
+- **Strafrechtlicher Schutz**: Die positive Pflicht umfasst auch die Schaffung und Durchsetzung wirksamer Strafrechtsnormen gegen Vergewaltigung und sexuelle Gewalt (M.C. v. Bulgarien).
 
 ---
 
-### V. Die 10-Jahres-Vermutung (Aufenthaltsrecht)
+### VI. Die 10-Jahres-Vermutung (Aufenthaltsrecht)
 
 Die in BGE 144 I 266 E. 3.9 aufgestellte Vermutung ist ein zentrales Dogma der schweizerischen Rechtsprechung zu Art. 8 EMRK im Aufenthaltsrecht:
 
@@ -233,7 +263,7 @@ Die in BGE 144 I 266 E. 3.9 aufgestellte Vermutung ist ein zentrales Dogma der s
 
 ---
 
-### VI. Überwachung und geheimdienstliche Massnahmen
+### VII. Überwachung und geheimdienstliche Massnahmen
 
 Art. 8 EMRK bildet die zentrale Grundrechtsnorm für die Beurteilung staatlicher Überwachungsmassnahmen. Der EGMR hat in mehreren Grosskammerentscheiden die Anforderungen verschärft:
 
@@ -253,7 +283,19 @@ Das BGer hat die Grundsätze zur Vorratsdatenspeicherung unter Verweis auf die E
 
 ---
 
-### VII. Verhältnis zum inneren Recht
+### VIII. Art. 8 im Asylrecht
+
+Art. 8 EMRK entfaltet im Asylrecht eine besondere Bedeutung, wenn auch der EGMR wiederholt betont hat, dass die Konvention kein Recht auf Einreise oder Aufenthalt als solches garantiert. Die folgende Konstellationen sind zu unterscheiden:
+
+- **Ausweisung und Art. 8**: Die Ausweisung eines Ausländers kann gegen Art. 8 verstossen, wenn sie das Familienleben in der Schweiz beeinträchtigt und nicht verhältnismässig ist. Die Kriterien von BGE 144 I 266 sind anwendbar.
+- **Flüchtlingsfamiliennachzug**: BGE 139 I 330 bestätigt den Vorrang des Asylverfahrens.
+- **Härtefallbewilligung**: Art. 14 AsylG sieht eine Härtefallbewilligung vor, die im Einzelfall gestützt auf Art. 8 EMRK gewährt werden kann.
+- **Asylsuchende**: Die Asylverfahrenszeit wird nicht als rechtmässige Anwesenheit im Sinne der 10-Jahres-Vermutung angerechnet (BGE 149 I 72 E. 2.1.2).
+- **Rückführung und Art. 8**: Die Rückführung in ein Land, in dem das Privat- oder Familienleben der betroffenen Person erheblich beeinträchtigt wird, kann gegen Art. 8 EMRK verstossen. Der EGMR hat jedoch anerkannt, dass die Vertragsstaaten ein berechtigtes Interesse an der Steuerung der Einwanderung haben.
+
+---
+
+### IX. Verhältnis zum inneren Recht
 
 Art. 8 EMRK wirkt im schweizerischen Recht zusammen mit folgenden Normen:
 
@@ -270,7 +312,7 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 
 ---
 
-### VIII. Kasuistik nach Schutzbereichen
+### X. Kasuistik nach Schutzbereichen
 
 #### 1. Aufenthaltsrecht
 
@@ -286,6 +328,8 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Flüchtlingsfamiliennachzug | BGE 139 I 330 | Vorrang des Asylverfahrens |
 | Widerruf bei Kriminalität | BGE 135 II 377 | Längerfristige Freiheitsstrafe als Widerrufsgrund |
 | Aufenthalt nach Auflösung der Ehe | BGer 2C_206/2026 | Kein Familienleben bei kurzem Aufenthalt |
+| EMRK-Vorrang | BGE 139 I 16 | EMRK geht innerem Recht vor |
+| Gefestigtes Anwesenheitsrecht | BGE 130 II 281 | Voraussetzung für Familiennachzug |
 
 #### 2. Geschlechtsidentität und sexueller Ausdruck
 
@@ -293,8 +337,11 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 |---|---|---|
 | Homosexualität Strafbarkeit | Dudgeon v. UK | Strafbarkeit verstösst gegen Art. 8 |
 | Blosse Existenz Strafnorm | Modinos v. Zypern | Auch ohne Anwendung Eingriff |
+| Sittenwidrigkeit Homosexualität | Müller v. Schweiz | Konfiskation von Filmen unverhältnismässig |
 | Sexuelle Orientierung im Militär | Smith and Grady v. UK | Entlassung verstösst gegen Art. 8 |
 | Geschlechtsidentität Anerkennung | Goodwin v. UK | Fehlende Anerkennung verstösst gegen Art. 8 und 12 |
+| Transgeschlechtlichkeit und Ehe | Hämäläinen v. Finnland | Umwandlung in Partnerschaft ausreichend? (umstritten) |
+| Geschlechtseintrag/Sterilisationszwang | A.P., Garçon und Nicot v. Frankreich | Sterilisationsanforderung unverhältnismässig |
 | Krankenversicherung Transsexualität | Van Kück v. Deutschland | Verweigerung der Kostenübernahme verstösst |
 | Vornamen/Geschlechtseintrag | BGE 150 III 34 | Zugang zum Personenstandsregister geschützt |
 | Sexuelle Selbstbestimmung | H.W. v. Frankreich | «Devoir conjugal» verstösst gegen Art. 8 |
@@ -310,6 +357,7 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Schwedischer Name | Stjerna v. Finnland (EGMR) | Schutzbereich bejaht, Eingriff gerechtfertigt |
 | Recht auf Abstammung | Mikulić v. Kroatien (EGMR) | Kenntnis der Abstammung gehört zum Privatleben |
 | Anonyme Geburt | Odièvre v. Frankreich (EGMR) | Absolutes Geheimhaltungsrecht verstösst gegen Art. 8 |
+| Recht auf Identität | Y v. Frankreich (EGMR) | Art. 8 umfasst das Recht auf Identität |
 
 #### 4. Umweltschutz und Lebensqualität
 
@@ -328,12 +376,17 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Staatliche Datensammlung | Rotaru v. Rumänien (EGMR) | Systematische Erfassung fällt unter Art. 8 |
 | DNA/Fingerabdrücke | S. und Marper v. UK (EGMR) | Unbegrenzte Speicherung verstösst |
 | DNA bei leichter Straftat | Aycaguer v. Frankreich (EGMR) | Schwere der Straftat rechtfertigt nicht |
+| Sicherheitsdossier | Leander v. Schweden (EGMR) | Speicherung/Weitergabe fällt unter Art. 8 |
+| Geheimhaltung/Klassifizierung | Klass v. Deutschland (EGMR) | Heimliche Überwachung fällt unter Korrespondenz |
+| Telefonüberwachung/Beweissicherung | Malone v. UK (EGMR) | «Metering» ohne gesetzliche Grundlage verstösst |
+| Telefon am Arbeitsplatz | Halford v. UK (EGMR) | Private Telefonate am Arbeitsplatz geschützt |
 | Polizeidatenbank | BGE 147 I 372 | Verhältnismässigkeit nach Rotaru/Marper |
 | Datenbearbeitung | BGE 134 III 241 | Unbefugte Weitergabe fällt unter Art. 8 |
 | Vorratsdatenspeicherung | BGE 137 I 305 | Strenger Verhältnismässigkeitsmassstab |
 | Videoüberwachung | BGE 146 I 49 | Positive Pflicht zum Schutz |
 | Massenüberwachung | Big Brother Watch v. UK (EGMR) | Keine ausreichende Schutzmassnahmen |
 | Gesichtserkennung | Glukhin v. Russland (EGMR) | Besonders invasive Methode |
+| Smartphone-Durchsuchung | Benedik v. Slowenien (EGMR) | Ohne gerichtliche Anordnung verstösst gegen Art. 8 |
 | Arbeitsplatzüberwachung | Bărbulescu v. Rumänien (EGMR) | Kein Verzicht auf Privatleben |
 | Abstrakte Überwachungsgesetzgebung | Zakharov v. Russland (EGMR) | In abstracto-Prüfung möglich |
 | Metadaten am Arbeitsplatz | Copland v. UK (EGMR) | Speicherung von Verbindungsdaten ist Eingriff |
@@ -354,7 +407,7 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 
 ---
 
-### IX. Literaturhinweise
+### XI. Literaturhinweise
 
 - OnlineKommentar.ch: kein Eintrag zu Art. 8 EMRK vorhanden (OLC gibt 404)
 - Botschaft-Materialien: EMRK ist Staatsvertrag, nicht Bundesgesetz; keine per-Artikel-Botschaft verfügbar

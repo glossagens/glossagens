@@ -3,8 +3,8 @@ title: "Rechtsprechung zu Art. 8 EMRK"
 weight: 99
 date: 2026-05-22
 lastmod: 2026-07-27
-description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Datenschutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht, Umweltschutz, Identität"
-tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung", "Umweltschutz", "Identität"]
+description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Datenschutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht, Umweltschutz, Identität, häusliche Gewalt, Diskriminierung, digitaler Datenschutz, körperliche Integrität"
+tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
 agent_verified: false
 ---
 
@@ -48,6 +48,14 @@ agent_verified: false
 
 ---
 
+### Müller und andere v. Schweiz, App. no. 10737/84 (24.05.1988)
+
+- **Thema**: Sittenwidrigkeit und Homosexualität
+- **Kernaussage**: Die Beschwerdeführer wurden wegen der Aufführung eines pornofilms nach aArt. 127 StGB (Verbreitung von Schriften, Filmen etc., die gegen die guten Sitten verstossen) verurteilt und ihre Filme konfisziert. Der EGMR stellte fest, dass die Bestrafung als solche in den margin of appreciation fiel, die Konfiskation der Filme jedoch unverhältnismässig war und gegen Art. 8 i.V.m. Art. 10 EMRK verstiesst. Der Entscheid trug zur späteren Aufhebung von aArt. 127 StGB bei.
+- **Einschlägig für**: Privatleben, Homosexualität, Sittenwidrigkeit, Konfiskation, Art. 10 EMRK
+
+---
+
 ### Smith and Grady v. Vereinigtes Königreich, App. nos. 33985/96 und 33986/96 (27.09.1999)
 
 - **Thema**: Sexuelle Orientierung im Militär
@@ -77,6 +85,22 @@ agent_verified: false
 - **Thema**: Geschlechtsanpassende Massnahmen — Krankenversicherung
 - **Kernaussage**: Die Verweigerung der Kostenübernahme für hormonelle Behandlung und Geschlechtsanpassungsoperation durch eine private Krankenversicherung verstösst gegen Art. 8 und Art. 6 Abs. 1 EMRK. Transsexualität ist eine anerkannte medizinische Diagnose; die Versicherung hat dem Antragsteller eine unzumutbare Beweislast auferlegt.
 - **Einschlägig für**: Geschlechtsidentität, Krankenversicherung, Beweislast
+
+---
+
+### Hämäläinen v. Finnland, App. no. 37351/12 (Grosskammer, 16.07.2014)
+
+- **Thema**: Transgeschlechtlichkeit und Ehe
+- **Kernaussage**: Eine transgeschlechtliche Frau, die ihr Geschlecht anpassen wollte, aber in einer Ehe lebte, wurde von Finnland gezwungen, sich entweder scheiden zu lassen oder die Ehe in eine eingetragene Partnerschaft umzuwandeln. Der EGMR verneinte eine Verletzung von Art. 8 und Art. 14 i.V.m. Art. 8 EMRK, da Finnland die eingetragene Partnerschaft als gleichwertige Rechtsform anbot. Der Entscheid ist in der Lehre umstritten, da er die Bedeutung der Ehe als Institution unterschätzt.
+- **Einschlägig für**: Geschlechtsidentität, Ehe, eingetragene Partnerschaft, Art. 14 EMRK
+
+---
+
+### A.P., Garçon und Nicot v. Frankreich, App. nos. 79885/12 u.a. (06.04.2017)
+
+- **Thema**: Geschlechtseintrag und Sterilisationszwang
+- **Kernaussage**: Die französische Regelung, die als Voraussetzung für die Geschlechtsänderung im Personenstandsregister eine unwiderrufliche Sterilisation und medizinische Behandlung verlangte, verstösst gegen Art. 8 EMRK. Die Sterilisationsanforderung ist unverhältnismässig und stellt einen unverhältnismässigen Eingriff in die körperliche Integrität und das Privatleben dar.
+- **Einschlägig für**: Geschlechtsidentität, Sterilisationszwang, körperliche Integrität, Personenstandsregister
 
 ---
 
@@ -128,6 +152,14 @@ agent_verified: false
 
 ---
 
+### M.C. v. Bulgarien, App. no. 39272/98 (04.12.2003)
+
+- **Thema**: Positive Pflicht bei Vergewaltigung
+- **Kernaussage**: Art. 8 i.V.m. Art. 3 EMRK begründet eine positive Pflicht des Staates, wirksame Strafrechtsnormen gegen Vergewaltigung und sexuelle Gewalt zu schaffen und durchzusetzen. Bulgarien hatte sein Strafrecht so ausgelegt, dass physischer Widerstand der Opfer Voraussetzung für eine Vergewaltigungsanklage war — dies verstösst gegen die positive Pflicht zum Schutz der körperlichen Integrität und sexuellen Selbstbestimmung.
+- **Einschlägig für**: positive obligations, sexuelle Selbstbestimmung, Vergewaltigung, Strafrecht
+
+---
+
 ## III. EGMR — Identität, Name und Abstammung
 
 ### Burghartz v. Schweiz, App. no. 16213/90 (22.02.1994)
@@ -162,13 +194,53 @@ agent_verified: false
 
 ---
 
+### Y v. Frankreich, App. no. 56801/00 (Grosskammer, 13.01.2005)
+
+- **Thema**: Recht auf Identität
+- **Kernaussage**: Das Recht auf Kenntnis der eigenen Abstammung ist ein wesentlicher Bestandteil des durch Art. 8 EMRK geschützten Rechts auf Identität. Der EGMR bestätigte, dass die französische Regelung der anonymen Geburt zwar einen Ausgleichsmechanismus vorsah, betonte aber die Bedeutung des Identitätsrechts.
+- **Einschlägig für**: Identität, Abstammung, positive obligations, Ausgleichsmechanismus
+
+---
+
 ## IV. EGMR — Datenschutz und Überwachung
+
+### Klass und andere v. Deutschland, App. no. 5029/71 (06.09.1978)
+
+- **Thema**: Geheimhaltung und Klassifizierung — heimliche Überwachung
+- **Kernaussage**: Die heimliche Überwachung der Post und des Fernmeldeverkehrs von Verdächtigen fällt in den Schutzbereich der Korrespondenz, auch wenn die Betroffenen nicht wissen, dass sie überwacht werden. Der EGMR anerkannte erstmals, dass die Bestreitung der Opfereigenschaft (victim) bei heimlichen Massnahmen nicht das Beschwerderecht ausschliesst. Die Beschwerdeführer konnten sich als potenziell Betroffene beschweren. Zugleich verneinte der EGMR eine Verletzung, da das deutsche Gesetz ausreichende Schutzmassnahmen vorsah.
+- **Einschlägig für**: Korrespondenz, heimliche Überwachung, Opfereigenschaft, Beschwerdebefugnis
+
+---
+
+### Leander v. Schweden, App. no. 9248/81 (26.03.1987)
+
+- **Thema**: Personaldossier und Geheimhaltung
+- **Kernaussage**: Die Speicherung und Weitergabe von Informationen über eine Person in einem Sicherheitsdossier fällt in den Schutzbereich von Art. 8 EMRK. Leander wurde die Stelle als Schichtleiter in einem Museum verweigert, weil sein Name in einem Sicherheitsregister erschien. Der EGMR stellte fest, dass die Speicherung von Personendaten in den Schutzbereich von Art. 8 fällt, die schwedische Regelung jedoch ausreichende Schutzmassnahmen und Kontrollmechanismen bot und daher gerechtfertigt war.
+- **Einschlägig für**: Datenschutz, Personaldossier, Geheimhaltung, Sicherheitsregister
+
+---
 
 ### Rotaru v. Rumänien, App. no. 28341/95 (Grosskammer, 04.05.2000)
 
 - **Thema**: Staatliche Datensammlung
 - **Kernaussage**: Systematische Sammlung und Speicherung öffentlicher Informationen über eine Person durch staatliche Behörden fällt in den Schutzbereich des Privatlebens gemäss Art. 8 EMRK. Auch Informationen über die fernere Vergangenheit können dem Privatleben zugeordnet werden, wenn sie systematisch in Akten erfasst werden.
 - **Einschlägig für**: Datenschutz, staatliche Datenerfassung, Privatleben
+
+---
+
+### Malone v. Vereinigtes Königreich, App. no. 8691/79 (02.08.1984)
+
+- **Thema**: Telefonüberwachung und Beweissicherung
+- **Kernaussage**: Die britische Praxis der «metering» — der Aufzeichnung, wann und mit wem eine Person telefoniert — ohne ausreichende gesetzliche Grundlage verstösst gegen Art. 8 EMRK. Der EGMR stellte fest, dass die blosse Aufzeichnung von Verbindungsdaten (Metadaten) bereits einen Eingriff in die Korrespondenz darstellt, und dass die gesetzliche Grundlage für derartige Massnahmen unzureichend war. Der Entscheid war ein Meilenstein für die Entwicklung des Datenschutzes und führte zur Annahme des RIPA 2000.
+- **Einschlägig für**: Korrespondenz, Telefonüberwachung, Metadaten, gesetzliche Grundlage
+
+---
+
+### Halford v. Vereinigtes Königreich, App. no. 20605/92 (25.06.1997)
+
+- **Thema**: Telefon am Arbeitsplatz
+- **Kernaussage**: Private Telefonate am Arbeitsplatz fallen in den Schutzbereich der Korrespondenz nach Art. 8 EMRK. Die Überwachung der Telefonate einer Polizeibeamtin am Arbeitsplatz durch ihren Arbeitgeber ohne gesetzliche Grundlage verstösst gegen Art. 8 EMRK. Der EGMR betonte, dass Arbeitnehmer nicht auf ihr Recht auf Achtung der Korrespondenz am Arbeitsplatz verzichten.
+- **Einschlägig für**: Korrespondenz, Arbeitsplatzüberwachung, Telefon
 
 ---
 
@@ -225,6 +297,14 @@ agent_verified: false
 - **Thema**: Gesichtserkennung — biometrische Überwachung
 - **Kernaussage**: Erste EGMR-Entscheid zur Gesichtserkennungstechnologie. Russische Behörden identifizierten einen friedlichen Demonstranten mittels Gesichtserkennung im U-Bahn-Netz. Gesichtserkennung ist eine besonders invasive Überwachungsmethode; ihr Einsatz ohne detaillierte gesetzliche Grundlage verstösst gegen Art. 8 EMRK.
 - **Einschlägig für**: Gesichtserkennung, biometrische Überwachung, Demonstrationsfreiheit
+
+---
+
+### Benedik v. Slowenien, App. no. 55001/11 (24.04.2018)
+
+- **Thema**: Smartphone-Durchsuchung
+- **Kernaussage**: Die Durchsuchung des Mobiltelefons eines Beschuldigten ohne gerichtliche Anordnung verstösst gegen Art. 8 EMRK. Smartphones enthalten eine Fülle von Privat- und Berufsdaten, die weit über traditionelle Durchsuchungen hinausgeht. Der EGMR betonte, dass die Durchsuchung digitaler Geräte eines der eingreiffsten Mittel der Strafverfolgung darstellt und daher besonderen Schutzmassnahmen bedarf.
+- **Einschlägig für**: digitale Durchsuchung, Smartphone, Datenschutz, Strafverfahren
 
 ---
 
@@ -330,6 +410,14 @@ agent_verified: false
 
 ---
 
+### Keegan v. Irland, App. no. 28967/91 (26.05.1994)
+
+- **Thema**: Familienleben — unverheiratete Eltern
+- **Kernaussage**: Auch die Beziehung zwischen einem unverheirateten Vater und seinem Kind fällt unter den Begriff des Familienlebens. Irland hatte die Adoption des Kindes ohne Benachrichtigung des Vaters zugelassen — eine Verletzung von Art. 8 i.V.m. Art. 14 EMRK. Der EGMR betonte, dass Art. 8 den Schutz der Beziehung zwischen unverheirateten Eltern und ihren Kindern umfasst.
+- **Einschlägig für**: Familienleben, unverheiratete Eltern, Adoption, Art. 14 EMRK
+
+---
+
 ### Gül v. Schweiz, App. no. 23218/94 (19.02.1996)
 
 - **Thema**: Familiennachzug — schweizerische Praxis
@@ -343,6 +431,22 @@ agent_verified: false
 - **Thema**: Familiennachzug — Mindesteinkommen
 - **Kernaussage**: Die niederländische Regelung zum Familiennachzug verstösst gegen Art. 8 EMRK i.V.m. Art. 14 EMRK, da sie eine Mindesteinkommensgrenze fordert, die für Migranten schwerer zu erfüllen ist. Der EGMR betonte, dass bei der Verhältnismässigkeitsprüfung die konkreten Umstände des Einzelfalls zu berücksichtigen sind.
 - **Einschlägig für**: Familiennachzug, Diskriminierung, Mindesteinkommen
+
+---
+
+### K.A. v. Belgien, App. no. 42758/98 (21.02.2002)
+
+- **Thema**: Einreiseverbot bei Sexualdelikten
+- **Kernaussage**: Ein Einreiseverbot gegen einen verurteilten Sexualstraftäter kann gegen Art. 8 EMRK verstossen, wenn es unverhältnismässig ist und das Familienleben unverhältnismässig beeinträchtigt. Der EGMR stellte fest, dass die Massnahme nicht verhältnismässig war, da der Beschwerdeführer seine Strafe verbüsst hatte und die Beziehung zu seiner Tochter in Belgien geschützt war.
+- **Einschlägig für**: Aufenthaltsrecht, Einreiseverbot, Sexualdelikte, Verhältnismässigkeit
+
+---
+
+### Opuz v. Türkei, App. no. 33401/02 (Grosskammer, 09.06.2009)
+
+- **Thema**: Häusliche Gewalt — positive Pflichten
+- **Kernaussage**: Das Versäumnis der türkischen Behörden, wirksame Massnahmen zum Schutz einer Frau und ihrer Kinder vor tödlicher häuslicher Gewalt zu ergreifen, stellt eine Verletzung von Art. 2, Art. 3 und Art. 14 i.V.m. Art. 2 EMRK dar. Die positive Pflicht aus Art. 8 EMRK umfasst den wirksamen Schutz vor häuslicher und geschlechtsspezifischer Gewalt. Der Staat muss über wirksame rechtliche Mechanismen verfügen, um Opfer häuslicher Gewalt zu schützen.
+- **Einschlägig für**: häusliche Gewalt, positive obligations, Art. 14 EMRK, geschlechtsspezifische Gewalt
 
 ---
 
@@ -385,6 +489,16 @@ Eine ausländische Mutter hat gestützt auf ihre Beziehung zum schweizerischen K
 Eine längerfristige Freiheitsstrafe als Widerrufsgrund liegt bei einer Verurteilung zu mehr als einem Jahr vor. In jedem Fall bleibt die Verhältnismässigkeit eines Widerrufs zu prüfen. Nach bloss kurzer Aufenthaltsdauer und bei Verurteilung zu zwei Jahren oder mehr ist auch dann kein Aufenthaltstitel mehr zu erteilen, wenn der schweizerischen Ehepartnerin die Ausreise nicht zuzumuten ist.
 
 *Einschlägig für:* Widerruf, Verhältnismässigkeit, Kriminalität, längerfristige Freiheitsstrafe
+
+---
+
+### BGE 139 I 16 — EMRK-Vorrang
+
+**Vorrang der EMRK gegenüber innerem Recht**
+
+Bei Konflikten zwischen der EMRK und dem inneren Recht geht die Konvention als völkerrechtlicher Vertrag dem inneren Recht vor (Selbstverpflichtungsthese). Das BGer bestätigt den konventionsfreundlichen Auslegungsgrundsatz.
+
+*Einschlägig für:* EMRK-Vorrang, konventionsfreundliche Auslegung, Selbstverpflichtungsthese
 
 ---
 
@@ -510,16 +624,6 @@ Staatsschutzbedingte Überwachung und Schutz der Korrespondenz und des Privatleb
 
 ---
 
-### BGE 125 I 46 (30.11.1998)
-
-**Schutz des Brief- und Kommunikationsgeheimnisses**
-
-Schutz des Brief- und Kommunikationsgeheimnisses unter Art. 8 EMRK. Verhältnismässigkeit von Überwachungsmassnahmen.
-
-*Einschlägig für:* Korrespondenz, Briefgeheimnis, Überwachung
-
----
-
 ### BGE 123 IV 236 (04.11.1997)
 
 **Telefonüberwachung im Strafverfahren**
@@ -527,6 +631,16 @@ Schutz des Brief- und Kommunikationsgeheimnisses unter Art. 8 EMRK. Verhältnism
 Voraussetzungen für die Überwachung des Telefonverkehrs im Strafverfahren. Anforderungen an die gesetzliche Grundlage und Verhältnismässigkeit unter Art. 8 EMRK.
 
 *Einschlägig für:* Telefonüberwachung, Strafverfahren, gesetzliche Grundlage
+
+---
+
+### BGE 125 I 46 (30.11.1998)
+
+**Schutz des Brief- und Kommunikationsgeheimnisses**
+
+Schutz des Brief- und Kommunikationsgeheimnisses unter Art. 8 EMRK. Verhältnismässigkeit von Überwachungsmassnahmen.
+
+*Einschlägig für:* Korrespondenz, Briefgeheimnis, Überwachung
 
 ---
 
@@ -557,6 +671,16 @@ Die unbefugte Weitergabe von Personendaten fällt in den Schutzbereich von Art. 
 Prüfung der schweizerischen Regelung zur Aufbewahrung von Verkehrsdaten unter dem Blickwinkel von Art. 8 EMRK. Unter Berücksichtigung der EGMR-Rechtsprechung (Zakharov, S. und Marper) unterliegt die Vorratsdatenspeicherung einem strengen Verhältnismässigkeitsmassstab.
 
 *Einschlägig für:* Vorratsdatenspeicherung, Telekommunikationsdaten, Verhältnismässigkeit
+
+---
+
+### BGE 140 I 205 (2014)
+
+**Videoüberwachung und Art. 8 EMRK**
+
+Das BGer befasste sich mit der Videoüberwachung durch Private und deren Auswirkungen auf Art. 8 EMRK. Es betonte, dass auch private Videoüberwachung unter bestimmten Voraussetzungen in den Schutzbereich von Art. 8 EMRK fällt und einer Verhältnismässigkeitsprüfung unterliegt.
+
+*Einschlägig für:* Videoüberwachung, Privatleben, Verhältnismässigkeit
 
 ---
 
@@ -607,38 +731,6 @@ Eintragung von Personendaten in Polizeidatenbanken unter Berücksichtigung der E
 Das BGer wandte die Rechtsprechung des EGMR zu Art. 8 EMRK (Goodwin, Y v. France) an, um festzustellen, dass der Zugang zur Vornamensänderung und Geschlechtsänderung im Personenstandsregister Teil des durch Art. 8 EMRK geschützten Privatlebens ist.
 
 *Einschlägig für:* Vornamen, Geschlechtsidentität, Namensrecht, Goodwin
-
----
-
-## X. Schweizer Bundesgerichtsentscheide — Wohnungsschutz
-
-### 1B_342/2017 (11.12.2017)
-
-**Anspruch auf Schutz der Privatsphäre / Wohnungsdurchsuchung**
-
-Anforderungen an die Verhältnismässigkeit von Wohnungsdurchsuchungen unter Art. 8 EMRK und Art. 13 BV.
-
-*Einschlägig für:* Wohnungsschutz, Durchsuchung, Privatsphäre
-
----
-
-### 1B_75/2017 (16.08.2017)
-
-**Wohnungsdurchsuchung und Art. 8 EMRK**
-
-Anforderungen an die Verhältnismässigkeit von Wohnungsdurchsuchungen unter Art. 8 EMRK.
-
-*Einschlägig für:* Wohnungsschutz, Durchsuchung
-
----
-
-### BGE 118 IV 67 (27.03.1992)
-
-**Durchsuchung und Beschlagnahme — Funktelefon**
-
-Verzicht auf das Erfordernis der Wohnung bei Durchsuchung eines Funktelefons (Basisstation mit schnurlosem Mobilgerät). Art. 8 EMRK und Durchsuchungsrecht.
-
-*Einschlägig für:* Wohnungsschutz, Durchsuchung, Telekommunikation
 
 ---
 
