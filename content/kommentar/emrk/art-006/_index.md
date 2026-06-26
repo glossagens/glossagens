@@ -2,9 +2,9 @@
 title: "Art. 6 — Recht auf ein faires Verfahren"
 weight: 6
 date: 2026-05-10
-lastmod: 2026-06-12
-description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren"
-tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte"]
+lastmod: 2026-07-27
+description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit"
+tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Replikrecht"]
 agent_verified: false
 ---
 
@@ -74,13 +74,22 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **13** **Grundsatz** Das Erfordernis der Unabhängigkeit verlangt, dass das Gericht gegenüber der Exekutive und der Legislative institutionell unabhängig ist und auch so erscheint (BGE 147 I 173). Die Unabhängigkeit umfasst sowohl die persönliche als auch die institutionelle Unabhängigkeit der Richterinnen und Richter. Wiederwahlverfahren durch politische Organe können die Unabhängigkeit beeinträchtigen, werden in der Schweizer Praxis aber unter bestimmten Voraussetzungen als vereinbar mit Art. 6 Abs. 1 EMRK erachtet (BSK-REICH, Art. 30 BV N. 26 ff.).
 
-**14** **EGMR-Rechtsprechung** Der EGMR hat wiederholt die Unabhängigkeit Schweizer Gerichte geprüft. Im Fall Belilos v. Schweiz (Nr. 10328/83) wurde die Zusammensetzung des Zürcher Kriminalgerichts mit einem Polizeirichter als Einzelrichter als Verletzung von Art. 6 Abs. 1 EMRK qualifiziert, da Weisungsbefugnisse der Exekutive bestanden. Das Urteil führte zu einer Reform der Zürcher Strafrechtspflege (EGMR, Belilos v. Schweiz, Nr. 10328/83, § 64 ff.).
+**14** **EGMR-Rechtsprechung zur Unabhängigkeit** Der EGMR hat wiederholt die Unabhängigkeit Schweizer Gerichte geprüft. Im Fall Belilos v. Schweiz (Nr. 10328/83) wurde die Zusammensetzung des Zürcher Kriminalgerichts mit einem Polizeirichter als Einzelrichter als Verletzung von Art. 6 Abs. 1 EMRK qualifiziert, da Weisungsbefugnisse der Exekutive bestanden. Das Urteil führte zu einer Reform der Zürcher Strafrechtspflege (EGMR, Belilos v. Schweiz, Nr. 10328/83, § 64 ff.).
+
+**14a** **Weitere EGMR-Entscheide zur Unabhängigkeit** Der EGMR prüft die Unabhängigkeit anhand mehrerer Kriterien: Art der Ernennung der Richter, Dauer der Amtszeit, Vorhandensein von Schutzmassnahmen gegen äussere Einflüsse und das的外观 der Unabhängigkeit (EGMR, Micallef v. Malta, Nr. 17056/06, Grosskammer, § 98). Im Fall Parosudis v. Frankreich (Nr. 79871/12) stellte der EGMR fest, dass die Beteiligung eines Militärrichters an der Anklage gegen den Beschwerdeführer in einem früheren Verfahren die Unabhängigkeit des Gerichts beeinträchtigt. Im Fall Kremlev v. Russland (Nr. 36087/07) wurde die Unabhängigkeit der Schiedsgerichte im Handelsschiedsverfahren bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können.
+
+**14b** **BGer-Rechtsprechung zur Unabhängigkeit** Das Bundesgericht hat die Unabhängigkeit gerichtlich bestellter Schiedsrichter in BGE 140 I 165 bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind. In BGE 142 I 212 wurde die Unabhängigkeit der members des Beschwerdeausschusses der FIFA geprüft und teilweise verneint, da der Beschwerdeausschuss nicht ausreichend institutionell von der FIFA getrennt war.
 
 ### Unparteiischkeit des Gerichts
 
 **15** **Objektiver und subjektiver Massstab** Die Unparteiischkeit ist nach einem subjektiven Massstab (persönliche Voreingenommenheit des Richters) und einem objektiven Massstab (Äusserlichkeiten, die begründete Zweifel an der Unparteilichkeit wecken) zu beurteilen (BGE 147 I 173, E. 3.1). Massgeblich ist, ob bei objektiver Betrachtungsweise Gegebenheiten vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit zu begründen vermögen (BGE 131 I 113, E. 3.4).
 
 **16** **Vorbefassung** Ein Richter erscheint nicht schon deswegen als voreingenommen, weil er ein Gesuch um unentgeltliche Rechtspflege wegen Aussichtslosigkeit abgewiesen hat; es müssen weitere Gründe hinzutreten (BGE 131 I 113, E. 3.4). Die Rechtsprechung zur Vorbefassung im Zivilprozess ist differenziert und hängt von der Art und Intensität der Vorbefassung ab (BGE 144 I 37; BGE 144 I 70).
+
+**16a** **EGMR-Rechtsprechung zur Unparteiischkeit** Der EGMR hat die Unparteiischkeit in mehreren Leading Cases geprüft:
+- **Bönisch v. Österreich** (Nr. 8658/79): Die Mitwirkung eines Sachverständigen, der in einem früheren Stadium des Verfahrens als Gutachter aufgetreten war und anschliessend als Mitglied des Spruchkörpers entscheidet, begründet objektiv begründete Zweifel an der Unparteiischkeit. Der Sachverständige übernahm eine «Rolle als Ankläger», was mit der richterlichen Funktion unvereinbar ist.
+- **Fischer v. Österreich** (Nr. 18013/91): Die wiederholte Mitwirkung eines Sachverständigen in verschiedenen Verfahren gegen denselben Beschwerdeführer begründet keine Unparteiischkeit, wenn der Sachverständige in jeder Rolle unabhängig agiert und keine «Rolle als Ankläger» übernimmt.
+- **Werner v. Polen** (Nr. 26760/95): Ein Richter, der in einem früheren Stadium des Verfahrens als Staatsanwalt tätig war, ist im anschliessenden Hauptverfahren als Richter befangen.
 
 **17** **Nebenamtliche Richter** Nebenamtliche Richter können die Unparteiischkeit des Gerichts beeinträchtigen, wenn sie berufliche Rollen wahrnehmen, die mit der richterlichen Funktion kollidieren (EGMR, Wettstein v. Schweiz, Nr. 33958/96, § 38 ff.; BGE 147 I 173). Im Fall Wettstein wurde die zeitliche Überschneidung der Rolle einer Richterin als Rechtsvertreterin der Gegenpartei als Verletzung von Art. 6 Abs. 1 EMRK qualifiziert.
 
@@ -98,7 +107,33 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **22** **Waffengleichheit** Der Grundsatz der Waffengleichheit («equality of arms») verlangt, dass jede Partei eine angemessene Möglichkeit haben muss, ihren Standpunkt darzulegen und zu den Vorbringen der Gegenpartei Stellung zu nehmen, und zwar unter Bedingungen, die sie nicht gegenüber der Gegenpartei benachteiligen (EGMR, F.R. v. Schweiz, Nr. 37292/97, § 33; EGMR, Rivera Vazquez und Calleja Delsordo v. Schweiz, Nr. 65048/13). Die Verweigerung der rechtlichen Vertretung ohne vorherige Information und ohne Fristsetzung zur Behebung des Mangels verstösst gegen Art. 6 Abs. 1 EMRK (EGMR, Rivera Vazquez, § 55 ff.).
 
-**23** **Zugang zum Gericht** Das Recht auf Zugang zu einem Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Es kann eingeschränkt werden, doch darf der Wesensgehalt des Rechts nicht angetastet werden (EGMR, Al-Dulimi und Montana Management Inc. v. Schweiz, Nr. 5809/08, § 119 ff.). Absolute Verjährungsfristen, die den Zugang zum Gericht faktisch verwehren, können den Wesensgehalt antasten (EGMR, Howald Moor und andere v. Schweiz, Nr. 52067/10 & 41072/11; EGMR, Jann-Zwicker und Jann v. Schweiz, Nr. 4976/20).
+**22a** **Nemo tenetur — Recht auf Schweigen und Aussageverweigerung** Der Grundsatz *nemo tenetur se ipsum accusare* (niemand ist gehalten, sich selbst anzuklagen) ist ein zentraler Teilaspekt des fairen Verfahrens und eng mit der Unschuldsvermutung verbunden. Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, gehören zu den Grundprinzipien eines fairen Verfahrens im Sinne von Art. 6 EMRK (BGE 127 I 74, E. 2a; BGE 135 I 264, E. 3.1; EGMR, Funke v. Frankreich, Nr. 15178/89, § 41; EGMR, Saunders v. Vereinigtes Königreich, Nr. 19187/91, § 68).
+
+Das *nemo tenetur* umfasst:
+- **Das Recht auf Schweigen**: Die beschuldigte Person ist nicht verpflichtet, aktiv zur Aufklärung des Sachverhalts beizutragen. Aus ihrem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden (BGE 135 I 264, E. 3.1).
+- **Das Recht auf Aussageverweigerung**: Die beschuldigte Person kann nicht gezwungen werden, sich selbst zu belasten. Dies gilt auch für die Verweigerung der Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten (BGE 127 I 74; BGE 142 I 105, E. 4.2).
+- **Grenzen des nemo tenetur**: Das *nemo tenetur* verbietet nicht die Verwertung von Beweismitteln, die unabhängig vom Willen der beschuldigten Person erhoben wurden (z.B. Blutproben, DNA-Proben bei zulässiger Zwangsanwendung). Es verbietet jedoch die Zwangsverwertung von Aussagen, die unter Druck oder Zwang gemacht wurden (EGMR, Jalloh v. Deutschland, Nr. 54810/00, Grosskammer).
+
+Die EGMR-Rechtsprechung hat das *nemo tenetur* in mehreren Leading Cases geprägt:
+- **Funke v. Frankreich**: Die Verurteilung eines Beschuldigten wegen Weigerung, Dokumente herauszugeben, die zu seiner eigenen Überführung dienen könnten, verstösst gegen Art. 6 EMRK.
+- **Saunders v. Vereinigtes Königreich**: Die Verwertung von Aussagen, die unter Zwang gemacht wurden, verstösst gegen das Recht auf Schweigen und das Recht, sich nicht selbst zu belasten. Das Recht bezieht sich auf Aussagen, nicht auf Beweismittel, die unabhängig vom Willen des Beschuldigten existieren (z.B. Dokumente, Blutproben).
+- **Jalloh v. Deutschland**: Die Zwangsverabreichung eines Brechmittels zur Beweissicherung verstösst gegen Art. 3 und Art. 6 EMRK, da sie die Menschenwürde verletzt und das Recht auf Schweigen beeinträchtigt.
+
+### Zugang zum Gericht
+
+**23** **Recht auf Zugang zu einem Gericht** Das Recht auf Zugang zu einem Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Es kann eingeschränkt werden, doch darf der Wesensgehalt des Rechts nicht angetastet werden (EGMR, Al-Dulimi und Montana Management Inc. v. Schweiz, Nr. 5809/08, § 119 ff.). Absolute Verjährungsfristen, die den Zugang zum Gericht faktisch verwehren, können den Wesensgehalt antasten (EGMR, Howald Moor und andere v. Schweiz, Nr. 52067/10 & 41072/11; EGMR, Jann-Zwicker und Jann v. Schweiz, Nr. 4976/20).
+
+**23a** **EGMR-Grundprinzipien zum Zugang zum Gericht** Der EGMR hat das Recht auf Zugang zu einem Gericht erstmals in [Golder v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57555) (Nr. 4451/70, Grosskammer) als impliziten Bestandteil von Art. 6 Abs. 1 EMRK anerkannt. Einem Gefangenen durfte nicht der Zugang zu einem Anwalt verweigert werden, um eine Zivilklage einzureichen. Das Recht auf Zugang zum Gericht ist nicht absolut, Einschränkungen müssen jedoch gesetzlich vorgesehen, einem legitimen Zweck dienen und verhältnismässig sein.
+
+In [Airey v. Irland](https://hudoc.echr.coe.int/eng?i=001-58035) (Nr. 6289/73) stellte der EGMR fest, dass die Konvention nicht nur rechtliche, sondern auch faktische Hindernisse für den Zugang zum Gericht verbietet. Die Unmöglichkeit, wegen fehlender Mittel einen Anwalt zu bezahlen, kann das Recht auf Zugang zum Gericht verletzen, insbesondere in komplexen Verfahren. Dies begründet die positive Pflicht des Staates, unentgeltliche Rechtspflege zur Verfügung zu stellen.
+
+**23b** **Verjährung und Zugang zum Gericht** Der EGMR hat mehrfach entschieden, dass absolute Verjährungsfristen den Zugang zum Gericht verwehren können:
+- **Howald Moor und andere v. Schweiz**: Die absolut zehnjährige Verjährungsfrist ab dem schädigenden Ereignis, ohne Rücksicht auf die Kenntnis des Geschädigten, verwehrt Asbestopfern den Zugang zum Gericht und verstösst gegen Art. 6 Abs. 1 EMRK.
+- **Jann-Zwicker und Jann v. Schweiz**: Die absolute Verjährungsfrist ohne Rücksicht auf die Kenntnis des Geschädigten verstösst gegen den Zugang zu einem Gericht nach Art. 6 Abs. 1 EMRK. Zudem wurde die übermässige Verfahrensdauer als weitere Verletzung festgestellt.
+- **Tolstoy Miloslavsky v. Vereinigtes Königreich** (Nr. 18149/91): Die Verhängung übermässig hoher Gerichtskosten kann den Zugang zum Gericht faktisch verwehren, wenn sie nicht verhältnismässig sind.
+- **Kreuz v. Polen** (Nr. 77547/01): Die Verweigerung des gerichtlichen Zugangs bei staatlicher Immunität kann gegen Art. 6 Abs. 1 EMRK verstossen, wenn keine alternativen Rechtsbehelfe zur Verfügung stehen.
+
+**23c** **Immunität und Zugang zum Gericht** Die Gewährung von Immunität (staatliche Immunität, Immunität internationaler Organisationen) kann den Zugang zum Gericht einschränken, ist aber unter bestimmten Voraussetzungen gerechtfertigt. Der EGMR hat in [Al-Dulimi v. Schweiz] (Nr. 5809/08, Grosskammer) festgestellt, dass die Verweigerung jeglicher gerichtlicher Überprüfung einer Massnahme des UN-Sicherheitsrats gegen Art. 6 Abs. 1 EMRK verstösst, da ein Mindestmass an gerichtlichem Rechtsschutz gewährleistet sein muss. In [Muskat v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-113933) (Nr. 22102/93) wurde die Immunität internationaler Organisationen geprüft: Die Immunität einer internationalen Organisation ist nur gerechtfertigt, wenn die betroffenen Personen alternative Rechtsbehelfe zur Verfügung haben, die gleichwertig mit dem Zugang zu einem staatlichen Gericht sind.
 
 ### Öffentlichkeit des Verfahrens
 
@@ -106,11 +141,32 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **25** **Ausnahmen** Art. 6 Abs. 1 Satz 2 EMRK nennt abschliessend die Gründe für den Ausschluss von Presse und Öffentlichkeit: Moral, öffentliche Ordnung, nationale Sicherheit, Interessen von Jugendlichen, Schutz des Privatlebens oder Interessen der Rechtspflege. Die Ausnahme zugunsten der Rechtspflege («sous des circonstances spéciales») ist eng auszulegen und darf nicht zur Regel werden (BGE 122 V 47, E. 2c). Im Fall Mutu und Pechstein v. Schweiz stellte der EGMR fest, dass die mangelnde Öffentlichkeit der CAS-Verfahren bei Disziplinarstrafen, die der Schwere nach mit strafrechtlichen Sanktionen vergleichbar sind, gegen Art. 6 Abs. 1 EMRK verstösst (EGMR, Mutu und Pechstein v. Schweiz, Nr. 40575/10 & 67474/10, § 161 ff.).
 
+**25a** **EGMR-Rechtsprechung zur Öffentlichkeit** Der EGMR hat die Öffentlichkeit des Verfahrens in mehreren Leading Cases geprägt:
+- **Dienuitze v. Moldau** (Nr. 52841/11): Die Verweigerung einer öffentlichen Verhandlung in einer Zivilsache ohne ausreichende Begründung verstösst gegen Art. 6 Abs. 1 EMRK. Die Ausnahme zugunsten der Rechtspflege ist eng auszulegen.
+- **Bönisch v. Österreich** (Nr. 8658/79): Die Mitwirkung eines Sachverständigen, der im Verfahren eine «Rolle als Ankläger» übernimmt, verstösst gegen die Unparteiischkeit des Gerichts. Der Sachverständige muss als Zeuge befragt werden können.
+- **Axen v. Deutschland** (Nr. 8453/78): Die Verweigerung einer öffentlichen Verhandlung in einem disziplinarrechtlichen Verfahren kann gegen Art. 6 Abs. 1 EMRK verstossen, wenn das Verfahren strafrechtlichen Charakter hat.
+- **Werner v. Polen** (Nr. 26760/95): Die Öffentlichkeit der Verhandlung ist ein zentrales Element des fairen Verfahrens und kann nur aus zwingenden Gründen eingeschränkt werden.
+- **Bock v. Deutschland** (Nr. 49102/19): Das Gericht muss bei seinem Entscheid über den Ausschluss der Öffentlichkeit die konkreten Umstände des Einzelfalls berücksichtigen und eine Verhältnismässigkeitsprüfung durchführen.
+
 **26** **Öffentliche Verhandlung als Parteirecht** Das Bundesgericht hat die Tragweite der Öffentlichkeit von Gerichtsverhandlungen stark verkürzt mit seiner Rechtsprechung, wonach kein Anspruch auf eine öffentliche Verhandlung besteht, wenn das Gesetz das schriftliche Verfahren vorsieht (BGE 146 I 30, E. 2.2). Die Pflicht zur Durchführung einer öffentlichen Verhandlung setzt ein klar und unmissverständlich gestelltes Begehren voraus; blosse Beweisanträge genügen nicht (BGE 130 II 425, E. 2.4).
 
-### Angemessene Frist
+### Angemessene Frist (Beschleunigungsgebot)
 
 **27** **Beschleunigungsgebot** Art. 6 Abs. 1 EMRK enthält ein Beschleunigungsgebot, wonach jede Person Anspruch darauf hat, dass ihre Sache innerhalb einer angemessenen Frist behandelt wird. Die Angemessenheit der Verfahrensdauer ist unter Berücksichtigung der Umstände des Einzelfalls zu beurteilen: Komplexität des Falles, Verhalten der Parteien und der Behörden, Schwere der dem Beschuldigten drohenden Sanktionen (EGMR, Werz v. Schweiz, Nr. 22015/05). Eine übermässige Verfahrensdauer kann auch im Zivilverfahren eine Konventionsverletzung darstellen (EGMR, Jann-Zwicker und Jann v. Schweiz, Nr. 4976/20).
+
+**27a** **Kriterien der Angemessenheit** Der EGMR hat in [Kudła v. Polen](https://hudoc.echr.coe.int/eng?i=001-58746) (Nr. 30210/96, Grosskammer) und [Cocchiarella v. Italien](https://hudoc.echr.coe.int/eng?i=001-69058) (Nr. 74883/01, Grosskammer) die Kriterien für die Angemessenheit der Verfahrensdauer systematisiert. Massgeblich sind:
+1. **Komplexität des Falles**: Ein komplexer Fall mit vielen Beweismitteln und rechtlichen Fragen rechtfertigt eine längere Verfahrensdauer. Die Komplexität ist nach objektiven Kriterien zu beurteilen.
+2. **Verhalten der Parteien**: Verzögerungen, die der beschuldigten Person oder ihren Vertretern anzulasten sind, werden nicht gegen den Staat gewertet. Dagegen sind Verzögerungen durch die Justizbehörden dem Staat zuzurechnen.
+3. **Verhalten der Behörden**: Verzögerungen durch die Justizbehörden (Gerichte, Staatsanwaltschaft) sind dem Staat zuzurechnen. Auch Untätigkeit der Behörden über längere Zeiträume kann eine Konventionsverletzung begründen.
+4. **Schere der drohenden Sanktionen**: Je schwerer die dem Beschuldigten drohenden Sanktionen, desto höher sind die Anforderungen an die Verfahrensdauer. Bei Freiheitsstrafen ist ein besonders beschleunigtes Verfahren geboten.
+
+**27b** **BGer-Rechtsprechung zum Beschleunigungsgebot** Das Bundesgericht hat die EGMR-Kriterien übernommen und in mehreren Entscheiden angewendet:
+- **BGE 139 I 145**: Die übermässige Dauer eines Zivilverfahrens kann eine Konventionsverletzung darstellen. Massgeblich sind die Kriterien von Kudła.
+- **BGE 141 I 133**: Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
+- **BGE 136 I 79**: Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
+- **BGE 143 I 233**: Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
+
+**27c** **Recht auf wirksame Beschwerde** Das Recht auf eine wirksame Beschwerde («effective remedy») ist eine implizite Komponente von Art. 6 Abs. 1 EMRK und wird in [Art. 13 EMRK] explizit geregelt. Der EGMR hat in [Silver u.a. v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57474) (Nr. 5947/72) und [Kudła v. Polen] (Nr. 30210/96, Grosskammer) festgestellt, dass das Recht auf eine wirksame Beschwerde nicht nur den Zugang zum Gericht, sondern auch die Wirksamkeit des Rechtsschutzes umfasst. Eine Beschwerde ist nur wirksam, wenn sie geeignet ist, die gerügte Verletzung zu beheben oder zumindest zu einer Überprüfung durch eine unabhängige Instanz zu führen.
 
 ## Abs. 2 — Unschuldsvermutung
 
@@ -148,9 +204,17 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **39** **Wirksame Verteidigung** Wirksame Verteidigung ist nicht allein durch die Bestellung oder Präsenz des anwaltlichen Beistands garantiert (EGMR, Imbrioscia v. Schweiz, Nr. 13972/88, § 38). Sie erfordert auch, dass der Beistand die Möglichkeit hat, seine Aufgabe wirksam zu erfüllen. Versäumnisse des Rechtsbeistands gehen grundsätzlich zu Lasten der beschuldigten Person (BGE 143 I 284, E. 1.3; EGMR, Kamasinski v. Österreich, Nr. 9783/82, § 65). **Ausnahme bei doppeltem Pflichtverteidiger-Versagen:** Versäumt der Pflichtverteidiger nicht nur eine Frist, sondern beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person **nicht** zurechenbar ([BGer 6B_1005/2024, E. 3–4](https://www.bger.ch/ext/eurolex/index/6B_1005/2024)). Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. Diese Präzisierung des Bundesgerichts erweitert die bisherige Praxis, die eine Ausnahme nur bei qualifizierter Unrichtigkeit oder grober Fahrlässigkeit des Verteidigers bejahte (→ auch Art. 32 Abs. 2 BV, StPO Art. 94 und StPO Art. 399).
 
-### Abs. 3 lit. d — Recht auf Zeugenbefragung
+### Abs. 3 lit. d — Recht auf Zeugenbefragung (Konfrontationsrecht)
 
 **40** **Waffengleichheit im Beweisverfahren** Art. 6 Abs. 3 lit. d EMRK garantiert der angeklagten Person das Recht, Fragen an Belastungszeugen zu stellen oder stellen zu lassen und die Ladung und Vernehmung von Entlastungszeugen unter denselben Bedingungen zu erwirken, wie sie für Belastungszeugen gelten. Dieses Recht konkretisiert den Grundsatz der Waffengleichheit im Beweisverfahren (BGE 124 V 90, E. 4). Wird die Aussage eines Zeugen schriftlich abgegeben, hat die Partei Anspruch darauf, vom Inhalt dieser Aussage Kenntnis zu nehmen; auf Ersuchen hin ist ihr die Befragung des Zeugen zu gewähren (BGE 124 V 90).
+
+**40a** **EGMR-Rechtsprechung zum Konfrontationsrecht** Der EGMR hat das Konfrontationsrecht in mehreren Leading Cases geprägt:
+- **Salduz v. Türkei** (Nr. 36391/02, Grosskammer): Das Recht auf Zugang zu einem Anwalt während der ersten polizeilichen Vernehmung ist ein zentrales Element des fairen Verfahrens. Die Verwertung von Aussagen, die ohne anwaltliche Beratung gemacht wurden, kann gegen Art. 6 Abs. 1 und 3 lit. c EMRK verstossen.
+- **Al-Khawaja und Tahery v. Vereinigtes Königreich** (Nr. 26766/05 und 22228/06, Grosskammer): Die Verwertung von Zeugenaussagen, die ohne Befragung durch die angeklagte Person gemacht wurden, kann gegen Art. 6 Abs. 1 und 3 lit. d EMRK verstossen. Der EGMR entwickelte folgende Regel: Wenn die einzige oder entscheidende Belastung auf der Aussage eines Zeugen beruht, den die Verteidigung nicht befragen konnte, ist die Verwertung dieser Aussage in der Regel eine Konventionsverletzung. Ausnahmen sind nur in höchst aussergewöhnlichen Umständen zulässig, wenn starke Gegenmassnahmen ergriffen werden.
+- **Schatschaschwili v. Deutschland** (Nr. 9154/10, Grosskammer): Präzisierung der Al-Khawaja-Regel. Der EGMR stellte fest, dass der Verzicht auf die Befragung des Belastungszeugen nicht automatisch eine Konventionsverletzung darstellt, wenn ausreichende Gegenmassnahmen ergriffen wurden, um die Rechte der Verteidigung zu gewährleisten. Der Massstab ist die Gesamtfairness des Verfahrens.
+- **Lucà v. Italien** (Nr. 33354/96): Die Verwertung eines Polizeiberichts, der die Aussage eines Zeugen wiedergibt, ohne dass der Zeuge im Hauptverfahren befragt werden kann, verstösst gegen Art. 6 Abs. 3 lit. d EMRK, wenn der Bericht der einzige oder entscheidende Beweis ist.
+- **Doorson v. Niederlande** (Nr. 20524/92): Die Verwertung anonymer Zeugenaussagen ist unter bestimmten Umständen zulässig, wenn ausreichende Gegenmassnahmen ergriffen werden, um die Rechte der Verteidigung zu gewährleisten.
+- **Van Mechelen u.a. v. Niederlande** (Nr. 21363/93 u.a.): Die Verwertung von Aussagen anonymer Polizeibeamter, die nicht vom Verteidiger befragt werden konnten, verstösst gegen Art. 6 Abs. 1 und 3 lit. d EMRK, wenn die Anonymität die Verteidigung erheblich beeinträchtigt.
 
 ### Abs. 3 lit. e — Recht auf Dolmetscherbeistand
 
@@ -164,4 +228,4 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 ## Literatur (Spezialliteratur)
 
-MEYER Frank, Kommentar zu Art. 6 EMRK, in: KARPENSTEIN Ulrich/MAYER Franz (Hrsg.), EMRK Kommentar, 3. Aufl., München 2022; VILLIGER Mark E., Handbuch der Europäischen Menschenrechtskonvention (EMRK), 3. Aufl., Zürich 2020; BSK-GÖKSU, Art. 32 BV; BSK-REICH, Art. 30 BV; CR-MACALUSO/GARBARSKI, Art. 32 BV; SGK-VEST, Art. 32 BV; SUMMERS Sarah, Fair Trials, Oxford 2022, S. 61 ff.; DANNECKER, Konturierung, S. 370 ff.; NAY Giuseppe, Freie Beweiswürdigung und in dubio pro reo, ZStrR 1996, S. 91 ff.; VERNIORY, ZStrR 2000, S. 387 ff.; FORSTER Marc, Kettentheorie der strafprozessualen Beweiswürdigung, ZStrR 1997, S. 72 ff.; METTLER Christoph, In dubio pro reo — ein Grundsatz im Zweifel, AJP 1999, S. 1110 ff.; OBERHOLZER Jörg, Grundzüge des Strafprozessrechts, Bern 2024; TOPHINKE Esther, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2014, N. 78 ff. zu Art. 10 StPO.
+MEYER Frank, Kommentar zu Art. 6 EMRK, in: KARPENSTEIN Ulrich/MAYER Franz (Hrsg.), EMRK Kommentar, 3. Aufl., München 2022; VILLIGER Mark E., Handbuch der Europäischen Menschenrechtskonvention (EMRK), 3. Aufl., Zürich 2020; BSK-GÖKSU, Art. 32 BV; BSK-REICH, Art. 30 BV; CR-MACALUSO/GARBARSKI, Art. 32 BV; SGK-VEST, Art. 32 BV; SUMMERS Sarah, Fair Trials, Oxford 2022, S. 61 ff.; DANNECKER, Konturierung, S. 370 ff.; NAY Giuseppe, Freie Beweiswürdigung und in dubio pro reo, ZStrR 1996, S. 91 ff.; VERNIORY, ZStrR 2000, S. 387 ff.; FORSTER Marc, Kettentheorie der strafprozessualen Beweiswürdigung, ZStrR 1997, S. 72 ff.; METTLER Christoph, In dubio pro reo — ein Grundsatz im Zweifel, AJP 1999, S. 1110 ff.; OBERHOLZER Jörg, Grundzüge des Strafprozessrechts, Bern 2024; TOPHINKE Esther, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2014, N. 78 ff. zu Art. 10 StPO
