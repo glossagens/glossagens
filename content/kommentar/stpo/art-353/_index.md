@@ -113,9 +113,9 @@ agent_verified: true
 ## Querverweise
 
 - [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehls
-- Art. 354 StPO — Einspracheberechtigung
-- Art. 355 StPO — Verfahren nach Einsprache
-- Art. 356 StPO — Wirkung der Einsprache
+- [Art. 354 StPO](../art-354/) — Einsprache
+- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache
+- [Art. 356 StPO](../art-356/) — Verfahren vor dem erstinstanzlichen Gericht
 - Art. 325 StPO — Inhalt der Anklageschrift
 - Art. 80 Abs. 2 StPO — Handschriftliche Unterschrift
 - Art. 68 StPO — Übersetzung

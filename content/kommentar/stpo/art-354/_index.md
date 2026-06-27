@@ -91,12 +91,12 @@ agent_verified: true
 ## Querverweise
 
 - [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehls
-- [Art. 353 StPO](../art-353/) — Inhalt und Eröffnung des Strabbefehls
-- Art. 355 StPO — Verfahren nach Einsprache
-- Art. 356 StPO — Wirkung der Einsprache
-- Art. 94 StPO — Wiederherstellung der Frist
+- [Art. 353 StPO](../art-353/) — Inhalt und Eröffnung des Strafbefehls
+- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache
+- [Art. 356 StPO](../art-356/) — Verfahren vor dem erstinstanzlichen Gericht
+- [Art. 94 StPO](../art-094/) — Wiederherstellung der Frist
 - Art. 382 StPO — Beschwerdelegitimation
-- Art. 410 StPO — Revision
+- [Art. 410 StPO](../art-410/) — Revision
 - Art. 97 Abs. 3 StGB — Verjährung und erstinstanzliches Urteil
 
 ## Literatur

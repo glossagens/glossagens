@@ -89,12 +89,12 @@ Lit. c wurde durch das BG vom 19. Juni 2015 (Änderung des Sanktionenrechts, in 
 
 ## Querverweise
 
-- [Art. 353 StPO](#) — Inhalt und Eröffnung des Strafbefehls
-- [Art. 354 StPO](#) — Einspracheberechtigung
-- [Art. 355 StPO](#) — Verfahren nach Einsprache
-- [Art. 356 StPO](#) — Wirkung der Einsprache
-- [Art. 357 StPO](#) — Übertretungen
-- [Art. 358 ff. StPO](#) — Abgekürztes Verfahren
+- [Art. 353 StPO](../art-353/) — Inhalt und Eröffnung des Strafbefehls
+- [Art. 354 StPO](../art-354/) — Einsprache
+- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache
+- [Art. 356 StPO](../art-356/) — Verfahren vor dem erstinstanzlichen Gericht
+- Art. 357 StPO — Übertretungen
+- Art. 358 ff. StPO — Abgekürztes Verfahren
 - Art. 42 StGB — Bedingte Geldstrafe (Verbindungsbusse)
 - Art. 66, 67e–73 StGB — Massnahmen
 - Art. 97 Abs. 3 StGB — Verjährung und erstinstanzliches Urteil

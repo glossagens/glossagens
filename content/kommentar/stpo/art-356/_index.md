@@ -85,7 +85,7 @@ agent_verified: true
 - [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehls
 - [Art. 353 StPO](../art-353/) — Inhalt und Eröffnung des Strafbefehls
 - [Art. 354 StPO](../art-354/) — Einsprache
-- Art. 355 StPO — Verfahren bei Einsprache (durch Staatsanwaltschaft)
+- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache (durch Staatsanwaltschaft)
 - Art. 83 StPO — Berichtigung von Entscheiden
 - Art. 325 StPO — Inhalt der Anklageschrift
 - Art. 392 StPO — Verbindung oder Trennung von Verfahren
