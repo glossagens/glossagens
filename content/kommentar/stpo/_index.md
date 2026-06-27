@@ -56,6 +56,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 352](art-352/) | Voraussetzungen (Strafbefehl) |
 | [Art. 353](art-353/) | Inhalt und Eröffnung des Strafbefehls |
 | [Art. 354](art-354/) | Einsprache |
+| [Art. 355](art-355/) | Verfahren bei Einsprache |
 | [Art. 356](art-356/) | Verfahren vor dem erstinstanzlichen Gericht |
 | [Art. 385](art-385/) | Begründung und Form |
 | [Art. 394](art-394/) | Ausschluss der Beschwerde |
