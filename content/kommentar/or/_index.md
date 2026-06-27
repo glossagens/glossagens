@@ -32,3 +32,16 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 | [Art. 337c](art-337c/) | Folgen der fristlosen Kündigung |
 | [Art. 340](art-340/) | Wettbewerbsverbot |
 | [Art. 341](art-341/) | Unabdingbarkeit und Verjährung |
+| [Art. 394](art-394/) | Begriff des Auftrags; Vergütung |
+| [Art. 395](art-395/) | Fiktive Auftragsannahme |
+| [Art. 396](art-396/) | Umfang des Auftrags |
+| [Art. 397](art-397/) | Weisungen des Auftraggebers |
+| [Art. 398](art-398/) | Sorgfaltspflicht und persönliche Besorgung |
+| [Art. 399](art-399/) | Substitution (Übertragung an Dritten) |
+| [Art. 400](art-400/) | Rechenschafts- und Herausgabepflicht |
+| [Art. 401](art-401/) | Forderungs- und Sachenübergang bei Konkurs |
+| [Art. 402](art-402/) | Aufwandersatz und Schadenshaftung |
+| [Art. 403](art-403/) | Solidarhaftung bei Mitbeauftragten |
+| [Art. 404](art-404/) | Widerruf und Kündigung |
+| [Art. 405](art-405/) | Erlöschen des Auftrags |
+| [Art. 406](art-406/) | Geschäfte vor Kenntnis des Erlöschens |
