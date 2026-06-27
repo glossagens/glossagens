@@ -14,6 +14,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 | [Art. 24](art-024/) | Irrtum |
 | [Art. 41](art-041/) | Haftpflicht aus unerlaubter Handlung |
 | [Art. 66](art-066/) | Leistung zu rechtswidrigem oder unsittlichem Zweck |
+| [Art. 101](art-101/) | Haftung für Hilfspersonen |
 | [Art. 115](art-115/) | Aufhebung durch Übereinkunft |
 | [Art. 127](art-127/) | Verjährung |
 | [Art. 257f](art-257f/) | Mietvertrag — Untermiete |
