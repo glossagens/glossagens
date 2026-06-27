@@ -90,10 +90,10 @@ agent_verified: true
 
 ## Querverweise
 
-- [Art. 2 OR](../art-024/) — Handlungs- und Geschäftsfähigkeit (Verweis auf ZGB)
-- [Art. 3–6a OR](#) — Antrag und Annahme, stillschweigende Annahme
-- [Art. 7 OR](#) — Form des Vertrages
-- [Art. 11 OR](#) — Formerfordernisse und Nichtigkeit
-- [Art. 18 OR](#) — Auslegung der Verträge
-- [Art. 23–31 OR](#) — Willensmängel
-- [Art. 2 ZGB](#) — Treu und Glauben (ergänzend bei AGB-Inhaltskontrolle)
+- Art. 2–5 OR — Handlungs- und Geschäftsfähigkeit (Verweis auf ZGB)
+- Art. 3–6a OR — Antrag und Annahme, stillschweigende Annahme
+- Art. 7 OR — Form des Vertrages
+- Art. 11 OR — Formerfordernisse und Nichtigkeit
+- Art. 18 OR — Auslegung der Verträge
+- [Art. 24 OR](../art-024/) — Wesentlicher Irrtum (Willensmängel)
+- Art. 2 ZGB — Treu und Glauben (ergänzend bei AGB-Inhaltskontrolle)
