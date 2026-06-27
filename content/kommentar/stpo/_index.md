@@ -53,6 +53,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 310](art-310/) | Nichtanhandnahmeverfügung |
 | [Art. 333](art-333/) | Änderung und Erweiterung der Anklage |
 | [Art. 344](art-344/) | Abweichende rechtliche Würdigung |
+| [Art. 352](art-352/) | Voraussetzungen (Strafbefehl) |
 | [Art. 385](art-385/) | Begründung und Form |
 | [Art. 394](art-394/) | Ausschluss der Beschwerde |
 | [Art. 398](art-398/) | Zulässigkeit und Berufungsgründe |
