@@ -19,6 +19,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 19](art-019/) | Schuldfähigkeit |
 | [Art. 20](art-020/) | Begutachtung der Schuldfähigkeit |
 | [Art. 22](art-022/) | Versuch |
+| [Art. 25](art-025/) | Gehilfenschaft |
 | [Art. 30](art-030/) | Strafantragsrecht |
 | [Art. 42](art-042/) | Bedingter Vollzug |
 | [Art. 47](art-047/) | Grundsätze der Strafzumessung |
