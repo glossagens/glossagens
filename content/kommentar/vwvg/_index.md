@@ -16,6 +16,7 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 | [Art. 24](art-024/_index.md) | Fristwiederherstellung |
 | [Art. 26](art-026/_index.md) | Akteneinsicht |
 | [Art. 28](art-028/_index.md) | Vertretung |
+| [Art. 30](art-030/_index.md) | Anhörung der Parteien |
 | [Art. 32](art-032/_index.md) | Fristen |
 | [Art. 33](art-033/_index.md) | Fristserstreckung |
 | [Art. 34](art-034/_index.md) | Wiederherstellung |
