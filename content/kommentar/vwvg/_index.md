@@ -12,6 +12,7 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 | [Art. 6](art-006/_index.md) | Parteistellung |
 | [Art. 10](art-010/_index.md) | Ausstand |
 | [Art. 12](art-012/_index.md) | Untersuchungsgrundsatz |
+| [Art. 13](art-013/_index.md) | Mitwirkung der Parteien |
 | [Art. 19](art-019/_index.md) | Beweis |
 | [Art. 24](art-024/_index.md) | Fristwiederherstellung |
 | [Art. 26](art-026/_index.md) | Akteneinsicht |
