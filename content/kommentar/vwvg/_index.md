@@ -13,7 +13,8 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 | [Art. 10](art-010/_index.md) | Ausstand |
 | [Art. 12](art-012/_index.md) | Untersuchungsgrundsatz |
 | [Art. 19](art-019/_index.md) | Beweis |
-| [Art. 24](art-024/_index.md) | Akteneinsicht |
+| [Art. 24](art-024/_index.md) | Fristwiederherstellung |
+| [Art. 26](art-026/_index.md) | Akteneinsicht |
 | [Art. 28](art-028/_index.md) | Vertretung |
 | [Art. 32](art-032/_index.md) | Fristen |
 | [Art. 33](art-033/_index.md) | Fristserstreckung |
