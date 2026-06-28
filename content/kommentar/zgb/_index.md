@@ -17,6 +17,7 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 | [Art. 27](art-027) | Rechtsfähigkeit und Freiheit |
 | [Art. 28](art-028) | Persönlichkeitsschutz |
 | [Art. 125](art-125) | Unterhalt nach dem Scheidungsrecht |
+| [Art. 163](art-163) | Ehegattenunterhalt / Familienunterhalt |
 | [Art. 173](art-173) | Ehegattenunterhalt während des Getrenntlebens |
 | [Art. 273](art-273) | Vermögensauseinandersetzung |
 | [Art. 274](art-274) | Verfügung über Vermögenswerte |
