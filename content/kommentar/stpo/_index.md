@@ -26,6 +26,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 89](art-089/) | Allgemeine Bestimmungen (Fristen) |
 | [Art. 94](art-094/) | Wiederherstellung |
 | [Art. 100](art-100/) | Aktenführung |
+| [Art. 101](art-101/) | Akteneinsicht bei hängigem Verfahren |
 | [Art. 107](art-107/) | Anspruch auf rechtliches Gehör |
 | [Art. 108](art-108/) | Einschränkungen des rechtlichen Gehörs |
 | [Art. 109](art-109/) | Eingaben |
