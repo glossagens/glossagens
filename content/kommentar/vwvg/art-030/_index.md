@@ -2,7 +2,7 @@
 title: "Art. 30 — Anhörung der Parteien"
 weight: 30
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-07-02
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
 agent_verified: true
@@ -24,9 +24,7 @@ agent_verified: true
 >
 > d. Vollstreckungsverfügungen;
 >
-> e. anderen Verfügungen in einem erstinstanzlichen Verfahren, wenn Gefahr im Verzuge ist, den Parteien die Beschwerde gegen die Verfügung zusteht und ihnen keine andere Bestimmung des Bundesrechts einen Anspruch auf vängige Anhörung gewährleistet.
->
-> *Konsolidierungsstand: 2022-07-01 (Fedlex, SR 172.021)*
+> e. anderen Verfügungen in einem erstinstanzlichen Verfahren, wenn Gefahr im Verzuge ist, den Parteien die Beschwerde gegen die Verfügung zusteht und ihnen keine andere Bestimmung des Bundesrechts einen Anspruch auf vorgängige Anhörung gewährleistet.
 
 ## Kommentierung
 
@@ -42,12 +40,12 @@ Die Norm gilt sinngemäss auch in Spezialgesetzen, soweit diese auf das VwVG ver
 
 #### 1. Anhörung vor Verfügungserlass
 
-Die Behörde hat die Parteien **anzuhören, bevor sie verfügt**. Der Grundsatz ist ein **vor Verfügungs Erlass** zu gewährleistendes Verfahrensrecht: Die Anhörung muss stattfinden, bevor die Behörde ihre Entscheidung fällt — eine nachträgliche Anhörung genügt dem Gehörsanspruch nicht.
+Die Behörde hat die Parteien **anzuhören, bevor sie verfügt**. Der Grundsatz ist ein **vor Verfügungserlass** zu gewährleistendes Verfahrensrecht: Die Anhörung muss stattfinden, bevor die Behörde ihre Entscheidung fällt — eine nachträgliche Anhörung genügt dem Gehörsanspruch nicht.
 
 Die Anhörung umfasst — als **Teilgehalt des rechtlichen Gehörs** — mindestens:
 
 - **Mitteilung der wesentlichen Sachverhaltselemente**, auf die die Behörde ihre Entscheidung stützen will
-- **Gelegenheit zur Stellungnahme** zu den Vorbringen und zum verfügungsentwurf
+- **Gelegenheit zur Stellungnahme** zu den Vorbringen und zum Verfügungsentwurf
 - **Möglichkeit, Beweisanträge zu stellen** und Gegenargumente vorzubringen
 
 In [BGE 142 II 218](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_218), E. 2.4.1, hat das Bundesgericht im Kontext der Steueramtshilfe betont, dass die Eidgenössische Steuerverwaltung den Beschwerdeberechtigten eine **Frist von wenigstens zehn Tagen** zugestehen muss, damit sie zum Verfügungsentwurf über die Gewährung von Steueramtshilfe Stellung nehmen können — die Anhörungspflicht nach Art. 30 Abs. 1 VwVG setzt eine angemessene Frist zur Stellungnahme voraus.
@@ -62,7 +60,7 @@ Holt die entscheidende Verwaltungs- oder Gerichtsbehörde ein Rechtsgutachten ei
 
 #### 4. Anhörung im sozialversicherungsrechtlichen Verfahren
 
-Im sozialversicherungsrechtlichen Verwaltungsverfahren hat das Bundesgericht in [BGE 132 V 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_368), E. 4.2, klargestellt, dass die Anhörung der Parteien — welche einen Teilgehalt des Anspruchs auf rechtliches Gehör darstellt — im Abklärungsverfahren vor Verfügungen, die durch Einsprache anfechtbar sind, **nicht erforderlich** ist. Diesbezüglich enthält das ATSG eine abschliessende Regelung: Die Anhörung erfolgt vielmehr im Einspracheverfahren, in dem die versicherte Person Gelegenheit hat, sich zu den Abklärungsergebnissen zu äussern. Diese Einschränkung der Anhörungspflicht ist verfassungsrechtlich zulässig, weil das Einspracheverfahren eine nachträgliche Gehörs gewährung sicherstellt.
+Im sozialversicherungsrechtlichen Verwaltungsverfahren hat das Bundesgericht in [BGE 132 V 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_368), E. 4.2, klargestellt, dass die Anhörung der Parteien — welche einen Teilgehalt des Anspruchs auf rechtliches Gehör darstellt — im Abklärungsverfahren vor Verfügungen, die durch Einsprache anfechtbar sind, **nicht erforderlich** ist. Diesbezüglich enthält das ATSG eine abschliessende Regelung: Die Anhörung erfolgt vielmehr im Einspracheverfahren, in dem die versicherte Person Gelegenheit hat, sich zu den Abklärungsergebnissen zu äussern. Diese Einschränkung der Anhörungspflicht ist verfassungsrechtlich zulässig, weil das Einspracheverfahren eine nachträgliche Gehörsgewährung sicherstellt.
 
 In [BGE 131 V 407](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_407), E. 2, hat das Bundesgericht ferner festgehalten, dass im verwaltungsinternen Einspracheverfahren ein **kassatorischer Einspracheentscheid** unzulässig ist, der sich darauf beschränkt, die vorausgegangene Verfügung wegen weiteren Abklärungsbedarfs aufzuheben. Die neuen Erhebungen sind vielmehr in die Beurteilungsgrundlagen eines **reformatorischen, instanzabschliessenden Einspracheentscheids** einzubeziehen — was bedeutet, dass die Anhörung im Einspracheverfahren substanziell sein muss und nicht bloss pro forma erfolgen darf.
 
@@ -72,8 +70,8 @@ In [BGE 131 V 407](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_407), E. 2
 
 Abs. 2 enthält einen **enumerativen Katalog** von Ausnahmetatbeständen, in denen die Behörde die Parteien nicht anhören muss. Der Katalog ist **abschliessend** — analoge Ausnahmen sind nicht zulässig. Die Ausnahmen beruhen auf zwei legitimen Gründen:
 
-- **Nachträgliche Gehörs gewährung**: In den Fällen lit. a und b kann die Partei ihre Rechte in einem nachfolgenden Verfahren (Beschwerde bzw. Einsprache) geltend machen, weshalb die vor verfügungser Anhörung entbehrlich ist.
-- **Eilbedürftigkeit oder Konsens**: In den Fällen lit. c (volles Ent sprechen der Begehren), lit. d (Vollstreckung) und lit. e (Gefahr im Verzuge) ist die Anhörung entweder nicht nötig (lit. c) oder rechtlich nicht zumutbar (lit. d, e).
+- **Nachträgliche Gehörsgewährung**: In den Fällen lit. a und b kann die Partei ihre Rechte in einem nachfolgenden Verfahren (Beschwerde bzw. Einsprache) geltend machen, weshalb die Anhörung vor Verfügungserlass entbehrlich ist.
+- **Eilbedürftigkeit oder Konsens**: In den Fällen lit. c (volles Entsprechen der Begehren), lit. d (Vollstreckung) und lit. e (Gefahr im Verzuge) ist die Anhörung entweder nicht nötig (lit. c) oder rechtlich nicht zumutbar (lit. d, e).
 
 #### 2. lit. a — Zwischenverfügungen
 
@@ -83,13 +81,13 @@ In [BGE 129 II 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_II_286) hat
 
 #### 3. lit. b — Durch Einsprache anfechtbare Verfügungen
 
-**Verfügungen, die durch Einsprache anfechtbar sind**, erfordern keine vor verfügungser Anhörung. Der Grund ist, dass die Partei im Einspracheverfahren die Gelegenheit erhält, sich umfassend zu äussern und neue Vorbringen zu machen. Das Einspracheverfahren tritt an die Stelle der vor verfügungser Anhörung.
+**Verfügungen, die durch Einsprache anfechtbar sind**, erfordern keine Anhörung vor Verfügungserlass. Der Grund ist, dass die Partei im Einspracheverfahren die Gelegenheit erhält, sich umfassend zu äussern und neue Vorbringen zu machen. Das Einspracheverfahren tritt an die Stelle der Anhörung vor Verfügungserlass.
 
 Diese Ausnahme ist besonders im sozialversicherungsrechtlichen Verwaltungsverfahren von Bedeutung, wo das ATSG (Art. 52 ATSG) das Einspracheverfahren als Regelfall vorsieht. In [BGE 132 V 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_368), E. 4.2, hat das Bundesgericht bestätigt, dass die Anhörung der Parteien im Abklärungsverfahren vor durch Einsprache anfechtbaren Verfügungen nicht erforderlich ist — das ATSG enthält diesbezüglich eine abschliessende Regelung.
 
-#### 4. lit. c — Vollständiges Ent sprechen der Begehren
+#### 4. lit. c — Vollständiges Entsprechen der Begehren
 
-Verfügungen, in denen die Behörde den Begehren der Parteien **voll entspricht**, erfordern keine Anhörung. Die Partei hat kein rechtliches Schutzbedürfnis an einer Anhörung, wenn ihr Begehren vollumfänglich stattgegeben wird. Die Ausnahme setzt voraus, dass die Verfügung **allen** Begehren aller Parteien entspricht — ein bloss teilweises Ent sprechen genügt nicht.
+Verfügungen, in denen die Behörde den Begehren der Parteien **voll entspricht**, erfordern keine Anhörung. Die Partei hat kein rechtliches Schutzbedürfnis an einer Anhörung, wenn ihr Begehren vollumfänglich stattgegeben wird. Die Ausnahme setzt voraus, dass die Verfügung **allen** Begehren aller Parteien entspricht — ein bloss teilweises Entsprechen genügt nicht.
 
 #### 5. lit. d — Vollstreckungsverfügungen
 
@@ -97,19 +95,19 @@ Verfügungen, in denen die Behörde den Begehren der Parteien **voll entspricht*
 
 #### 6. lit. e — Gefahr im Verzuge
 
-Die weitreichendste Ausnahme betrifft **andere Verfügungen in einem erstinstanzlichen Verfahren**, wenn **Gefahr im Verzuge** ist, den Parteien die **Beschwerde** gegen die Verfügung zusteht und ihnen **keine andere Bestimmung des Bundesrechts** einen Anspruch auf vängige Anhörung gewährleistet. Die Ausnahme setzt **drei kumulative Voraussetzungen** voraus:
+Die weitreichendste Ausnahme betrifft **andere Verfügungen in einem erstinstanzlichen Verfahren**, wenn **Gefahr im Verzuge** ist, den Parteien die **Beschwerde** gegen die Verfügung zusteht und ihnen **keine andere Bestimmung des Bundesrechts** einen Anspruch auf vorgängige Anhörung gewährleistet. Die Ausnahme setzt **drei kumulative Voraussetzungen** voraus:
 
 1. **Gefahr im Verzuge**: Ein Zuwarten mit der Verfügung wäre mit einer konkreten Gefahr für öffentliche oder private Rechtsgüter verbunden.
 2. **Beschwerdemöglichkeit**: Den Parteien steht die Beschwerde gegen die Verfügung zu — sie können sich also nachträglich Gehör verschaffen.
-3. **Keine spezialgesetzliche Anhörungspflicht**: Keine andere Bestimmung des Bundesrechts gewährleistet einen Anspruch auf vängige Anhörung.
+3. **Keine spezialgesetzliche Anhörungspflicht**: Keine andere Bestimmung des Bundesrechts gewährleistet einen Anspruch auf vorgängige Anhörung.
 
 In [BGE 126 II 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_111) hat das Bundesgericht im Zusammenhang mit der Einsetzung eines Beobachters zur Abklärung der banken- oder börsenrechtlichen Bewilligungspflicht einer Tätigkeit die Voraussetzungen von Art. 30 Abs. 2 lit. e VwVG geprüft und die Aufsichtskompetenzen der Eidgenössischen Bankenkommission umrissen. Die Ausnahme nach lit. e ist eng auszulegen — sie darf nicht zu einer Umgehung der Anhörungspflicht in Fällen führen, in denen die Eilbedürftigkeit bloss vorgeschoben ist.
 
-In [BGE 131 II 670](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_670) hat das Bundesgericht Sofortmassnahmen zur Verminderung des Übertragungsrisikos des Schweren Akuten Respiratorischen Syndroms (SARS) geprüft und festgehalten, dass die nachträgliche Überprüfung einer gegenstandslos gewordenen Anordnung sich auf die in Zukunft mit Eintritt ähnlicher Voraussetzungen zu treffenden Massnahmen erstreckt — was bedeutet, dass auch bei Gefahr im Verzuge die nachträgliche richterliche Überprüfung (und damit die nachträgliche Gehörs gewährung) sichergestellt sein muss.
+In [BGE 131 II 670](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_670) hat das Bundesgericht Sofortmassnahmen zur Verminderung des Übertragungsrisikos des Schweren Akuten Respiratorischen Syndroms (SARS) geprüft und festgehalten, dass die nachträgliche Überprüfung einer gegenstandslos gewordenen Anordnung sich auf die in Zukunft mit Eintritt ähnlicher Voraussetzungen zu treffenden Massnahmen erstreckt — was bedeutet, dass auch bei Gefahr im Verzuge die nachträgliche richterliche Überprüfung (und damit die nachträgliche Gehörsgewährung) sichergestellt sein muss.
 
 ### IV. Verhältnis zu Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK
 
-Art. 30 VwVG ist die **einfachgesetzliche Konkretisierung** des verfassungsrechtlichen Gehörsanspruchs ([Art. 29 Abs. 2 BV](../../bv/art-029/)). Verletzt die Behörde Art. 30 VwVG, verletzt sie in der Regel auch Art. 29 Abs. 2 BV. Die Ausnahmen nach Abs. 2 sind verfassungsrechtlich zulässig, soweit sie durch legitime Gründe (Eilbedürftigkeit, nachträgliche Gehörs gewährung, Konsens) gerechtfertigt sind.
+Art. 30 VwVG ist die **einfachgesetzliche Konkretisierung** des verfassungsrechtlichen Gehörsanspruchs ([Art. 29 Abs. 2 BV](../../bv/art-029/)). Verletzt die Behörde Art. 30 VwVG, verletzt sie in der Regel auch Art. 29 Abs. 2 BV. Die Ausnahmen nach Abs. 2 sind verfassungsrechtlich zulässig, soweit sie durch legitime Gründe (Eilbedürftigkeit, nachträgliche Gehörsgewährung, Konsens) gerechtfertigt sind.
 
 Die Konventionsgarantie des **fair trial** ([Art. 6 Ziff. 1 EMRK](../../emrk/art-006/)) ergänzt die einfachgesetzliche Anhörungspflicht. In Rechtshilfefällen sind **elementare Verfahrensgrundsätze** zu wahren, wie das Bundesgericht in [BGE 145 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_99), E. 3.1, zusammenfassend und präzisierend festgehalten hat. Die Praxis zu den Eintretensvoraussetzungen des «besonders bedeutenden Falles» (Art. 84 Abs. 2 BGG) wird dort zusammengefasst.
 
@@ -121,7 +119,7 @@ Ebenso hat das Bundesgericht in [BGE 116 V 28](https://mcp.opencaselaw.ch/entsch
 
 ### VI. Rechtsfolgen der Verletzung
 
-Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Gehörs** und damit zur Auf hebung der Verfügung im Rechtsmittelverfahren. Das Bundesgericht hat in [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431), E. 3, bestätigt, dass eine Verletzung der Anhörungspflicht nach Art. 30 Abs. 1 VwVG die Überprüfung des Entscheids durch die Rechtsmittelinstanz nach sich zieht. Die Verletzung ist **von Amtes wegen** zu prüfen.
+Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Gehörs** und damit zur Aufhebung der Verfügung im Rechtsmittelverfahren. Das Bundesgericht hat in [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431), E. 3, bestätigt, dass eine Verletzung der Anhörungspflicht nach Art. 30 Abs. 1 VwVG die Überprüfung des Entscheids durch die Rechtsmittelinstanz nach sich zieht. Die Verletzung ist **von Amtes wegen** zu prüfen.
 
 ### VII. Kasuistik
 
