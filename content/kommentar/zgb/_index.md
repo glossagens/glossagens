@@ -38,4 +38,5 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 | [Art. 446](art-446) | Erbrecht — Erbteilung |
 | [Art. 447](art-447) | Erbrecht — Erbteilung |
 | [Art. 467](art-467) | Testierfreiheit — Verfügungsfähigkeit |
+| [Art. 519](art-519) | Ungültigkeitsklage gegen letztwillige Verfügungen |
 | [Art. 533](art-533) | Erbrecht — Erbteilung |
