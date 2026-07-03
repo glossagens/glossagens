@@ -8,6 +8,18 @@ tags: ["IVG", "Invalidenrente", "Rentenabstufung", "Invaliditätsgrad", "Weitere
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **1** Die Höhe des Rentenanspruchs wird in prozentualen Anteilen an einer ganzen Rente festgelegt.
+>
+> **2** Bei einem Invaliditätsgrad von 50–69 Prozent entspricht der prozentuale Anteil dem Invaliditätsgrad.
+>
+> **3** Bei einem Invaliditätsgrad ab 70 Prozent besteht Anspruch auf eine ganze Rente.
+>
+> **4** Bei einem Invaliditätsgrad unter 50 Prozent gelten die folgenden prozentualen Anteile: 49 % → 47,5 %; 48 % → 45 %; 47 % → 42,5 %; 46 % → 40 %; 45 % → 37,5 %; 44 % → 35 %; 43 % → 32,5 %; 42 % → 30 %; 41 % → 27,5 %; 40 % → 25 %.
+
+*(Fedlex-Stand: 2026-01-01)*
+
 ## Vorbemerkungen
 
 ### Entstehungsgeschichte und Reformziel

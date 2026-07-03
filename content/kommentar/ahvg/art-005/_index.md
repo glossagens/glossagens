@@ -8,6 +8,18 @@ tags: ["AHVG", "AHV", "massgebender Lohn", "Spesen", "Beiträge", "Sozialversich
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **1** Vom Einkommen aus unselbständiger Erwerbstätigkeit, im folgenden massgebender Lohn genannt, wird ein Beitrag von 4,35 Prozent erhoben.
+>
+> **2** Als massgebender Lohn gilt jedes Entgelt für in unselbständiger Stellung auf bestimmte oder unbestimmte Zeit geleistete Arbeit. Der massgebende Lohn umfasst auch Teuerungs- und andere Lohnzulagen, Provisionen, Gratifikationen, Naturalleistungen, Ferien- und Feiertagsentschädigungen und ähnliche Bezüge, ferner Trinkgelder, soweit diese einen wesentlichen Bestandteil des Arbeitsentgeltes darstellen.
+>
+> **3** Als massgebender Lohn für mitarbeitende Familienglieder gilt nur der Barlohn: a. bis zum 31. Dezember des Jahres, in welchem sie das 20. Altersjahr vollendet haben; sowie b. nach dem letzten Tag des Monats, in welchem sie das Referenzalter nach Artikel 21 Absatz 1 erreicht haben.
+>
+> **4** Der Bundesrat kann Sozialleistungen sowie anlässlich besonderer Ereignisse erfolgende Zuwendungen eines Arbeitgebers an seine Arbeitnehmer vom Einbezug in den massgebenden Lohn ausnehmen.
+
+*(Fedlex-Stand: 2026-01-01)*
+
 ## Vorbemerkungen
 
 ### Bedeutung und Einordnung

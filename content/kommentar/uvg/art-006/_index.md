@@ -8,6 +8,16 @@ tags: ["UVG", "Unfallversicherung", "Kausalzusammenhang", "Berufsunfall", "Nicht
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **1** Soweit dieses Gesetz nichts anderes bestimmt, werden die Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und Berufskrankheiten gewährt.
+>
+> **2** Die Versicherung erbringt ihre Leistungen auch bei folgenden Körperschädigungen, sofern sie nicht vorwiegend auf Abnützung oder Erkrankung zurückzuführen sind: a. Knochenbrüche; b. Verrenkungen von Gelenken; c. Meniskusrisse; d. Muskelrisse; e. Muskelzerrungen; f. Sehnenrisse; g. Bandläsionen; h. Trommelfellverletzungen.
+>
+> **3** Die Versicherung erbringt ihre Leistungen ausserdem für Schädigungen, die dem Verunfallten bei der Heilbehandlung zugefügt werden (Art. 10).
+
+*(Fedlex-Stand: 2026-01-01)*
+
 ## Vorbemerkungen
 
 ### Einordnung und Bedeutung

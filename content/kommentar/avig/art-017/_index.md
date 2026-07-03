@@ -8,6 +8,22 @@ tags: ["AVIG", "Arbeitslosenversicherung", "Kontrollpflichten", "Stellensuche", 
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **1** Der Versicherte, der Versicherungsleistungen beanspruchen will, muss mit Unterstützung des zuständigen Arbeitsamtes alles Zumutbare unternehmen, um Arbeitslosigkeit zu vermeiden oder zu verkürzen. Insbesondere ist er verpflichtet, Arbeit zu suchen, nötigenfalls auch ausserhalb seines bisherigen Berufes. Er muss seine Bemühungen nachweisen können.
+>
+> **2** Die versicherte Person muss sich möglichst frühzeitig, spätestens jedoch am ersten Tag, für den sie Arbeitslosenentschädigung beansprucht, persönlich zur Arbeitsvermittlung anmelden und von da an die Kontrollvorschriften des Bundesrates befolgen.
+>
+> **2bis** Die Anmeldung zur Arbeitsvermittlung wird durch die zuständigen Behörden nach den Artikeln 85 und 85b bearbeitet.
+>
+> **3** Der Versicherte muss eine vermittelte zumutbare Arbeit annehmen. Er hat auf Weisung der zuständigen Amtsstelle: a. an arbeitsmarktlichen Massnahmen teilzunehmen, die seine Vermittlungsfähigkeit fördern; b. an Beratungsgesprächen und Informationsveranstaltungen sowie an Fachberatungsgesprächen nach Absatz 5 teilzunehmen; und c. die Unterlagen für die Beurteilung seiner Vermittlungsfähigkeit oder der Zumutbarkeit einer Arbeit zu liefern.
+>
+> **4** Der Bundesrat kann ältere versicherte Langzeitarbeitslose teilweise von den Versichertenpflichten entbinden.
+>
+> **5** Das Arbeitsamt kann in Einzelfällen eine versicherte Person einer geeigneten öffentlichen oder gemeinnützigen Einrichtung zur beruflichen, sozialen, migrationsspezifischen oder psychologischen Fachberatung zuweisen, sofern sich diese Massnahme aufgrund erfolgter Abklärungen als sinnvoll erweist.
+
+*(Fedlex-Stand: 2026-01-01)*
+
 ## Vorbemerkungen
 
 ### Systematik und Zweck

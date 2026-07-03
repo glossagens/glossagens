@@ -8,6 +8,24 @@ tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "Strassenve
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **1** Mit Busse wird bestraft, wer Verkehrsregeln dieses Gesetzes oder der Vollziehungsvorschriften des Bundesrates verletzt.
+>
+> **2** Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer durch grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt.
+>
+> **3** Mit Freiheitsstrafe von einem bis zu vier Jahren wird bestraft, wer durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern eingeht, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen.
+>
+> **3bis** Die Mindeststrafe von einem Jahr kann bei Widerhandlungen gemäss Absatz 3 unterschritten werden, wenn ein Strafmilderungsgrund nach Artikel 48 StGB vorliegt, insbesondere wenn der Täter aus achtenswerten Beweggründen gehandelt hat.
+>
+> **3ter** Der Täter kann bei Widerhandlungen gemäss Absatz 3 mit Freiheitsstrafe bis zu vier Jahren oder Geldstrafe bestraft werden, wenn er nicht innerhalb der letzten zehn Jahre vor der Tat wegen eines Verbrechens oder Vergehens im Strassenverkehr mit ernstlicher Gefahr für die Sicherheit anderer, respektive mit Verletzung oder Tötung anderer verurteilt wurde.
+>
+> **4** Eine besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit liegt vor, wenn diese überschritten wird um: a. mindestens 40 km/h, wo die Höchstgeschwindigkeit höchstens 30 km/h beträgt; b. mindestens 50 km/h, wo die Höchstgeschwindigkeit höchstens 50 km/h beträgt; c. mindestens 60 km/h, wo die Höchstgeschwindigkeit höchstens 80 km/h beträgt; d. mindestens 80 km/h, wo die Höchstgeschwindigkeit mehr als 80 km/h beträgt.
+>
+> **5** Artikel 237 Ziffer 2 des Strafgesetzbuches findet in diesen Fällen keine Anwendung.
+
+*(Fedlex-Stand: 2026-07-01)*
+
 ## Gegenstand und Systematik
 
 **1** **Einordnung** Art. 90 SVG ist die zentrale Strafnorm des Strassenverkehrsgesetzes und statuiert drei Stufen der Verkehrsregelverletzung mit progressiv steigenden Strafdrohungen. Die Bestimmung gliedert sich in: Abs. 1 (einfache Verletzung), Abs. 2 (grobe Verletzung), Abs. 3 (qualifizierte grobe Verletzung, sog. «Raserparagraf», seit 1. Januar 2013) und Abs. 4 (besonders schwere Fälle).

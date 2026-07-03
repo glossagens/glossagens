@@ -8,6 +8,12 @@ tags: ["ZGB", "Erbrecht", "Testierfreiheit", "Urteilsfähigkeit", "Verfügungsf�
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> Wer urteilsfähig ist und das 18. Altersjahr zurückgelegt hat, ist befugt, unter Beobachtung der gesetzlichen Schranken und Formen über sein Vermögen letztwillig zu verfügen.
+
+*(Fedlex-Stand: 2026-07-01)*
+
 ## Vorbemerkungen
 
 ### Normzweck und Einordnung
