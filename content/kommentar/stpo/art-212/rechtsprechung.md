@@ -2,10 +2,19 @@
 title: "Rechtsprechung zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen"
 weight: 99
 date: 2026-05-09
-lastmod: 2026-05-09
+lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmen", "Haft"]
 agent_verified: false
+---
+
+## Präzisierungen 2026
+
+### [BGer 7B_641/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026) vom 16. Juni 2026, E. 6
+- **Thema**: Überhaft; besonderes Beschleunigungsgebot in Haftsachen; Haftentlassung
+- **Kernaussage**: Gutheissung mit sofortiger Haftentlassung aus der Sicherheitshaft. (1) Prognose der zu erwartenden Strafe: Ohne explizite Absichtserklärung der Staatsanwaltschaft zur Anschlussberufung (blosse «Tendenz» genügt nicht) ist von deren Ausbleiben auszugehen; das Verschlechterungsverbot (Art. 391 Abs. 2 StPO) macht die erstinstanzliche Strafe zur Obergrenze (E. 6.3.3). Einzubeziehen sind die zu erwartende Strafreduktion wegen Beschleunigungsverletzung (E. 6.3.4) und — ausnahmsweise — die mit grosser Wahrscheinlichkeit zu gewährende bedingte Entlassung (E. 6.3.5, nach BGE 143 IV 160 E. 4.2). (2) Eine Häufung von Verfahrensfehlern (fast fünf Monate titellose Haft, unzuständiges Gericht, mehrfache Gehörsverletzungen) und absehbare weitere Verzögerungen (Berufungsverhandlung erst Q2 2027 bei prognostiziertem Strafende November 2026) verletzen das besondere Beschleunigungsgebot in Haftsachen schwer; die weitere Haft ist unverhältnismässig (E. 6.3.6).
+- **Einschlägig für**: Abs. 3 (Überhaftverbot, Prognose der zu erwartenden Strafe), Beschleunigungsgebot in Haftsachen
+
 ---
 
 ## Leitentscheide (BGE)
@@ -138,4 +147,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 9. Mai 2026*
+*Letzte Aktualisierung: 3. Juli 2026*

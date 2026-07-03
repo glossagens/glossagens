@@ -2,7 +2,7 @@
 title: "Art. 212 — Grundsatz"
 weight: 212
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-07-03"
 description: "Kommentar zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen: Freiheitsgrundsatz, Aufhebungsgründe, Dauerlimit."
 tags: ["StPO", "Zwangsmassnahmen", "Haft", "Freiheitsentzug", "Ersatzmassnahmen", "Verhältnismässigkeit"]
 agent_verified: false
@@ -105,7 +105,15 @@ Das Dauerlimit bedeutet, dass die Haft zwingend aufzuheben ist, sobald sie die v
 
 ### 2. Verhältnismässigkeit der Haftdauer
 
-Das Bundesgericht hat wiederholt betont, dass das Verhältnismässigkeitsprinzip von den Strafbehörden verlangt, bei der Prüfung der Haftdauer **umso vorsichtiger zu sein, je mehr sich diese der zu erwartenden Freiheitsstrafe nähert** ([BGE 145 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_179), E. 3). Entscheidend ist jedoch nicht allein das Verhältnis der erstandenen Haftdauer zur zu erwartenden Freiheitsstrafe.
+Das Bundesgericht hat wiederholt betont, dass das Verhältnismässigkeitsprinzip von den Strafbehörden verlangt, bei der Prüfung der Haftdauer **umso vorsichtiger zu sein, je mehr sich diese der zu erwartenden Freiheitsstrafe nähert** ([BGE 145 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_179), E. 3). Entscheidend ist jedoch nicht allein das Verhältnis der erstandenen Haftdauer zur zu erwartenden Freiheitsstrafe. Bereits zu vermeiden ist, dass die Haftdauer in **grosse Nähe** zur zu erwartenden Strafe rückt, weil das erkennende Gericht sonst dazu neigen könnte, die erstandene Haft bei der Strafzumessung mitzuberücksichtigen ([BGer 7B_641/2026 vom 16. Juni 2026, E. 6.2.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026)).
+
+### 2a. Prognose der zu erwartenden Strafe im Berufungsverfahren
+
+Liegt bereits ein erstinstanzliches Urteil vor, bildet das ausgesprochene Strafmass ein **wichtiges Indiz** («massgeblicher Ankerpunkt») für die mutmasslich zu verbüssende Strafe ([BGE 145 IV 179, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_179#e-3-4); [BGer 7B_641/2026, E. 6.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026)). Eine von der Staatsanwaltschaft verlangte **Strafschärfung** ist nur zu berücksichtigen, wenn diese mit hinreichender Wahrscheinlichkeit erwartet werden kann ([BGE 143 IV 160, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_160#e-4-1)). In [BGer 7B_641/2026 vom 16. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026) hat das Bundesgericht dies verschärft: Hat die Staatsanwaltschaft im Haftprüfungsverfahren trotz Anlass **keine explizite Absichtserklärung** zur Anschlussberufung abgegeben (blosse «Tendenz» genügt nicht), ist prognostisch vom Ausbleiben der Anschlussberufung auszugehen — es greift das **Verschlechterungsverbot** (Art. 391 Abs. 2 StPO), und die erstinstanzliche Strafe bildet die **Obergrenze** der zu erwartenden Sanktion (E. 6.3.3). In die Prognose einzubeziehen ist ferner eine mit hoher Wahrscheinlichkeit zu erwartende **Strafreduktion wegen Verletzung des Beschleunigungsgebots** im Berufungsverfahren (E. 6.3.4, unter Hinweis auf [BGE 143 IV 49, E. 1.8.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_49#e-1-8-2)).
+
+### 2b. Berücksichtigung der bedingten Entlassung
+
+Die Möglichkeit der bedingten oder teilbedingten Strafe sowie der bedingten Entlassung aus dem Vollzug bleibt bei der Prüfung der zulässigen Haftdauer **grundsätzlich unberücksichtigt**. Eine **Ausnahme** gilt, wenn die konkreten Umstände es gebieten, namentlich wenn absehbar ist, dass die bedingte Entlassung **mit grosser Wahrscheinlichkeit** erfolgen dürfte ([BGE 143 IV 160, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_160#e-4-2)). So verhielt es sich in [BGer 7B_641/2026, E. 6.3.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026): Bei durchwegs positiver Legalprognose war von einer bedingten Entlassung nach zwei Dritteln der Strafe (Art. 86 Abs. 1 StGB) auszugehen, womit sich der massgebliche Endpunkt der Haftdauer-Prognose entsprechend vorverschob.
 
 ### 3. Jugendstrafrechtliche Besonderheit
 
@@ -120,6 +128,12 @@ Im Kontext von Ausländerrecht und strafrechtlicher Landesverweisung hat das Bun
 Art. 212 StPO steht in engem Zusammenhang mit dem **Beschleunigungsgebot** (Art. 5 Abs. 2 StPO, Art. 29 Abs. 1 BV, Art. 5 Ziff. 3 EMRK). Eine übermässige Haftdauer stellt eine unverhältnismässige Beschränkung des Grundrechts aus Art. 31 Abs. 3 BV und Art. 5 Ziff. 3 EMRK dar ([BGer 1B_291/2014](https://mcp.opencaselaw.ch/entscheid/bger_1B_291_2014); [BGer 1B_244/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_244_2019)).
 
 Das Beschleunigungsgebot ist insbesondere bei Haftfragen verschärft: Die Strafbehörden müssen das Verfahren mit der gebotenen Beschleunigung vorantreiben. Verzögerungen, die nicht vom Beschuldigten zu verantworten sind, können — je nach Schwere — zur Aufhebung der Haft führen.
+
+### Besonderes Beschleunigungsgebot in Haftsachen
+
+Das besondere Beschleunigungsgebot in Haftsachen (Art. 5 Abs. 2 StPO, Art. 31 Abs. 3 BV, Art. 5 Ziff. 3 EMRK) ist vom Überhaftverbot abzugrenzen; die zu erwartende Strafe ist für die Angemessenheit der **Verfahrensdauer** nicht massgebend. Ob es verletzt ist, beurteilt grundsätzlich das **Sachgericht**; das Haftgericht prüft die Frage nur, wenn die Verzögerung geeignet ist, die **Rechtmässigkeit der Haft insgesamt** in Frage zu stellen. Eine **Haftentlassung** wegen Verletzung des Beschleunigungsgebots kommt nur in Betracht, wenn die Verletzung **besonders schwer** wiegt und die Strafbehörden erkennen lassen, dass sie **nicht gewillt oder nicht in der Lage** sind, das Verfahren voranzutreiben; im Regelfall genügt die förmliche Feststellung der Verletzung im Dispositiv nebst Berücksichtigung bei den Kosten ([BGE 140 IV 74, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_74#e-3-2); [BGer 7B_641/2026 vom 16. Juni 2026, E. 6.2.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026)).
+
+**Anwendungsfall (Haftentlassung):** In [BGer 7B_641/2026 vom 16. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_641_2026) bejahte das Bundesgericht die seltene Rechtsfolge der sofortigen Entlassung aus der Sicherheitshaft: Eine **Häufung von Verfahrensfehlern** — versehentlich abgelaufener Hafttitel, Entscheid eines sachlich unzuständigen Zwangsmassnahmengerichts, mehrfache Gehörsverletzungen, insgesamt fast fünf Monate **titellose Haft** — verletzte das Beschleunigungsgebot direkt und erheblich (E. 6.3.6). Hinzu kamen absehbare weitere Verzögerungen (Sistierung des Berufungsverfahrens für rechtshilfeweise Urteilszustellungen; Berufungsverhandlung frühestens im zweiten Quartal 2027), während das prognostizierte Strafende (unter Berücksichtigung der erwarteten Reduktion und der bedingten Entlassung) bereits vorher erreicht sein würde: Die Haft hätte ihren Zweck — Sicherung der Anwesenheit im Verfahren — ohne Verletzung des Überhaftverbots gar nicht mehr erfüllen können (E. 6.3.6). Die Gesamtwürdigung von schwerer Beschleunigungsverletzung und drohender Überhaft führte zur Unverhältnismässigkeit der weiteren Inhaftierung.
 
 ### 1. Aufhebung von Ersatzmassnahmen wegen Verzögerung
 
@@ -144,4 +158,4 @@ Die EMRK-Rechtsprechung (insbesondere EGMR) hat wiederholt betont, dass die Haft
 
 ---
 
-*Zuletzt aktualisiert: 9. Mai 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-212/_index.md) · [Anregung einreichen](/einreichung)*
+*Zuletzt aktualisiert: 3. Juli 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-212/_index.md) · [Anregung einreichen](/einreichung)*
