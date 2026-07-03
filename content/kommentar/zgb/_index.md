@@ -37,4 +37,5 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 | [Art. 445](art-445) | Erbrecht — Erbteilung |
 | [Art. 446](art-446) | Erbrecht — Erbteilung |
 | [Art. 447](art-447) | Erbrecht — Erbteilung |
+| [Art. 467](art-467) | Testierfreiheit — Verfügungsfähigkeit |
 | [Art. 533](art-533) | Erbrecht — Erbteilung |
