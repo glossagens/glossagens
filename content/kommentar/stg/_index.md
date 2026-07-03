@@ -11,9 +11,3 @@ agent_verified: false
 # Stempelabgabengesetz (StG)
 
 Bundesgesetz vom 27. Juni 1973 über die Stempelabgaben (SR 641.10).
-
-## Kommentierte Artikel
-
-| Artikel | Titel | Status |
-|---------|-------|--------|
-| [Art. 17a](art-017a/) | Befreiung von der Umsatzabgabe — kollektive Kapitalanlagen | kommentiert |

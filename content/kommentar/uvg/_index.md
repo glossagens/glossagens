@@ -11,9 +11,3 @@ agent_verified: false
 # Bundesgesetz über die Unfallversicherung (UVG)
 
 Bundesgesetz vom 20. März 1981 über die Unfallversicherung (SR 832.20).
-
-## Kommentierte Artikel
-
-| Artikel | Titel | Status |
-|---------|-------|--------|
-| [Art. 6](art-006/) | Allgemeines (Versicherungsfall; Leistungspflicht) | kommentiert |

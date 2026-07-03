@@ -5,11 +5,3 @@ description: "Bundesgesetz über die Invalidenversicherung (IVG, SR 831.20)"
 ---
 
 Kommentar zum [Bundesgesetz über die Invalidenversicherung vom 19. Juni 1959 (IVG, SR 831.20)](https://www.fedlex.admin.ch/eli/cc/1959_873_889/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kernnormen im Kommentar
-
-| Artikel | Thema | Zitate |
-|---------|-------|--------|
-| [Art. 4](art-004/) | Invalidität | — |
-| [Art. 14a](art-014a/) | Integrationsmassnahmen | — |
-| [Art. 28](art-028/) | Rentenanspruch | — |

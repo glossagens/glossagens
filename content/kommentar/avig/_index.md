@@ -11,9 +11,3 @@ agent_verified: false
 # Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG)
 
 Bundesgesetz vom 25. Juni 1982 (SR 837.0).
-
-## Kommentierte Artikel
-
-| Artikel | Titel | Status |
-|---------|-------|--------|
-| [Art. 17](art-017/) | Pflichten des Versicherten (Kontrollpflichten) | kommentiert |

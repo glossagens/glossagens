@@ -11,9 +11,3 @@ agent_verified: false
 # Strassenverkehrsgesetz (SVG)
 
 Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr (SR 741.01).
-
-## Kommentierte Artikel
-
-| Artikel | Titel | Status |
-|---------|-------|--------|
-| [Art. 90](art-090/) | Verletzung von Verkehrsregeln | kommentiert |
