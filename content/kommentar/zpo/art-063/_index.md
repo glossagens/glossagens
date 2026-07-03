@@ -2,7 +2,7 @@
 title: "Art. 63 — Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart"
 weight: 63
 date: 2026-07-02
-lastmod: 2026-07-02
+lastmod: 2026-07-03
 description: "Kommentar zu Art. 63 ZPO: Rückdatierung der Rechtshängigkeit bei Einreichung bei unzuständigem Gericht oder im falschen Verfahren."
 tags: ["ZPO", "Rechtshängigkeit", "Zuständigkeit", "Monatsfrist", "Lugano"]
 agent_verified: false
@@ -28,6 +28,10 @@ agent_verified: false
 
 **2** **Revision 2025** Mit dem BG vom 17. März 2023 (in Kraft seit 1. Januar 2025) wurde Abs. 1 um die Variante der automatischen Weiterleitung nach Art. 143 Abs. 1bis ZPO ergänzt. Seither kann die Klägerschaft die Eingabe entweder selbst neu einreichen oder die Weiterleitung durch das unzuständige Gericht veranlassen, um den Zeitpunkt der Rechtshängigkeit zu wahren.
 
+**2a** **Hybride Rechtsnatur** Art. 63 ZPO hat nach der Rechtsprechung einen **hybriden Charakter**: Die Norm enthält einerseits eine prozessuale Regel über den Beginn der Rechtshängigkeit bei sukzessiver Anrufung einer unzuständigen und dann der zuständigen Behörde; in Verbindung mit Art. 64 Abs. 2 ZPO bestimmt sie andererseits den Zeitpunkt der Klageanhebung, der für die **Wahrung von Verjährungs- und Verwirkungsfristen** massgebend ist — eine Frage des materiellen Rechts, die international der *lex causae* untersteht. Als (auch) materiellrechtliche Regel ist Art. 63 ZPO deshalb grundsätzlich von ausländischen Gerichten anzuwenden, wenn schweizerisches Recht auf die Streitsache anwendbar ist ([BGer 4A 16/2023 vom 8. November 2023, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_16_2023#e-5-2); bestätigt in [BGer 4A_481/2025 vom 5. Juni 2026, E. 4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-3)). Im internen Schiedsverfahren ist es allerdings nicht willkürlich, wenn das Schiedsgericht die analoge Anwendung von Art. 63 ZPO ablehnt ([BGer 4A 16/2023, E. 5.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_16_2023#e-5-3)).
+
+**2b** **Keine Anwendung auf ausländische Entscheide** Art. 63 ZPO ist auf Entscheide **ausländischer Gerichte nicht anwendbar**: Wurde der erste verfahrenseinleitende Akt im Ausland vorgenommen, lässt sich die Rechtshängigkeit nicht durch eine Wiedereinreichung bei der zuständigen schweizerischen Behörde zurückdatieren ([BGer 4A 151/2020 vom 2. November 2020, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_151_2020#e-7-3); [BGer 4A_481/2025, E. 4.5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-4)).
+
 ---
 
 ## Abs. 1 — Rückdatierung der Rechtshängigkeit
@@ -40,7 +44,9 @@ agent_verified: false
 
 **5** **Mehrfache Rückdatierung** Art. 63 ZPO kann — Fälle des Rechtsmissbrauchs vorbehalten — auch mehrmals in der Folge angewendet werden, wenn sich das als zweites angerufene Gericht ebenfalls für unzuständig erklärt und der Ansprecher die Eingabe fristgerecht erneut einreicht (BGE 141 III 481, E. 3.1).
 
-**6** **Keine Anwendung auf andere Prozessvoraussetzungen** Art. 63 ZPO erfasst nur die fehlende Zuständigkeit und die Klageeinleitung im unrichtigen Verfahren; er gilt nicht bei anderen fehlenden Prozessvoraussetzungen oder bei formellen Mängeln der Eingabe (BGE 141 III 481, E. 3.3 in fine).
+**6** **Keine Anwendung auf andere Prozessvoraussetzungen** Art. 63 ZPO erfasst nur die fehlende Zuständigkeit und die Klageeinleitung im unrichtigen Verfahren; er gilt nicht bei anderen fehlenden Prozessvoraussetzungen oder bei formellen Mängeln der Eingabe (BGE 141 III 481, E. 3.3 in fine; bestätigt in [BGE 151 III 217, E. 5.2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_217#e-5-2-2-2)).
+
+**6a** **Kein Irrtumserfordernis** Ein Irrtum der klagenden Partei über die Zuständigkeit oder die Verfahrensart ist **keine Anwendungsvoraussetzung** von Art. 63 ZPO; Grenze bildet einzig das Rechtsmissbrauchsverbot. Missbräuchen beugt bereits das Erfordernis vor, dass nur eine mit der ersten Eingabe **identische** Eingabe von der Rückwirkung profitiert ([BGE 151 III 217, E. 5.2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_217#e-5-2-2-2) und E. 5.2.3; [BGer 4A_481/2025 vom 5. Juni 2026, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-5-4)).
 
 ### Beginn der Monatsfrist
 
@@ -50,7 +56,9 @@ agent_verified: false
 
 ### Verhältnis zum internationalen Verfahrensrecht
 
-**9** **Lugano-Konvention** Im internationalen Verhältnis (Lugano-Konvention) gilt für die Bestimmung des Saisine-Zeitpunkts Art. 30 LugÜ, der auf die Einreichung des verfahrenseinleitenden Akts abstellt. Das Bundesgericht hat in einem zur Publikation bestimmten Urteil (5er-Besetzung) klargestellt, dass Art. 63 ZPO bei der Bestimmung dieses Zeitpunkts nach Art. 30 LugÜ Anwendung findet: Der erste Einreichungsakt nach Art. 63 ZPO entspricht dem ersten verfahrenseinleitenden Akt i.S.v. Art. 30 LugÜ. Die Anwendung von Art. 63 ZPO im internationalen Verhältnis widerspricht Art. 30 LugÜ nicht; vielmehr ist es Aufgabe des schweizerischen Gerichts, nach seinem Prozessrecht den Zeitpunkt der Saisine zu bestimmen (BGer 4A_481/2025 vom 5. Juni 2026, E. 4.5.1 und 4.5.7).
+**9** **Lugano-Konvention** Im internationalen Verhältnis (Lugano-Konvention) gilt für die Bestimmung des Saisine-Zeitpunkts Art. 30 LugÜ, der auf die Einreichung des verfahrenseinleitenden Akts abstellt. Das Bundesgericht hat in einem zur Publikation bestimmten Urteil (5er-Besetzung) klargestellt, dass Art. 63 ZPO bei der Bestimmung dieses Zeitpunkts nach Art. 30 LugÜ Anwendung findet: Der erste Einreichungsakt nach Art. 63 ZPO entspricht dem ersten verfahrenseinleitenden Akt i.S.v. Art. 30 LugÜ. Die Anwendung von Art. 63 ZPO im internationalen Verhältnis widerspricht Art. 30 LugÜ nicht; vielmehr ist es Aufgabe des schweizerischen Gerichts, nach seinem Prozessrecht den Zeitpunkt der Saisine zu bestimmen (BGer 4A_481/2025 vom 5. Juni 2026, E. 4.5.1 und 4.5.7). Das LugÜ regelt nur die **Begründung** der Rechtshängigkeit, nicht deren Aufrechterhaltung oder Beendigung; die hierfür nötigen Formalitäten bestimmt das Recht des Forums ([BGer 4A_481/2025, E. 4.5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-4)).
+
+**9b** **Funktionale Einheit (Schlömp-Rechtsprechung)** Massgebend ist, ob der erste Verfahrensschritt mit dem späteren Hauptverfahren eine **funktionale Einheit** bildet und einen kontradiktorischen Austausch ermöglicht — nicht, ob der Schritt obligatorisch oder freiwillig ist. Wie das (obligatorische oder freiwillige) Schlichtungsgesuch (EuGH, Schlömp, C-467/16; Art. 209 Abs. 3 und 4 ZPO) ist auch die nach Art. 63 Abs. 1 ZPO fristgerecht neu eingereichte Eingabe mit dem Hauptverfahren funktional verbunden und damit verfahrenseinleitender Akt i.S.v. Art. 30 LugÜ ([BGer 4A_481/2025, E. 4.5.6](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-6)). Entsprechend genügt im Anwendungsbereich von Art. 9 Abs. 2 IPRG bereits ein **freiwilliges Schlichtungsgesuch** zur Begründung der Rechtshängigkeit ([BGer 5A_114/2025 vom 13. Januar 2026, E. 5.3.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_114_2025#e-5-3-3), zur Publikation vorgesehen).
 
 > **Annotation**
 >
@@ -63,6 +71,8 @@ agent_verified: false
 **10** **Tatbestand** Abs. 2 regelt den Fall, dass eine Klage nicht in der richtigen Verfahrensart eingereicht wurde (z.B. im ordentlichen statt im vereinfachten Verfahren oder als Klage statt als Gesuch). Die Rechtsfolge ist dieselbe wie bei Abs. 1: Das Datum der ersten Einreichung gilt als Zeitpunkt der Rechtshängigkeit, wenn die Klage innert Monatsfrist im richtigen Verfahren neu eingereicht wird (BGE 138 III 610, E. 2, Regeste).
 
 **11** **Verhältnis zu Abs. 1** Abs. 2 ist gegenüber Abs. 1 subsidiär und greift eigenständig nur ein, wenn ausschliesslich die falsche Verfahrensart gewählt wurde; liegt zusätzlich eine Unzuständigkeit vor, kommt Abs. 1 zur Anwendung.
+
+**11a** **Rechtsschutz in klaren Fällen (Art. 257 ZPO)** In der Lehre war umstritten, ob Art. 63 ZPO anwendbar ist, wenn ein Gesuch um Rechtsschutz in klaren Fällen mangels Klarheit des Falles für unzulässig erklärt wird (Art. 257 Abs. 3 ZPO) — die Gegner argumentierten, das Nichteintreten beruhe nicht auf einer falschen Verfahrenswahl, sondern auf dem Fehlen der Voraussetzungen von Art. 257 Abs. 1 ZPO. Das Bundesgericht hat den Streit im zur Publikation vorgesehenen Entscheid [BGer 4A_481/2025 vom 5. Juni 2026, E. 5.2–5.5](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-5-2) **zugunsten der Anwendbarkeit** entschieden: Wer die Voraussetzungen des klaren Falles irrig bejaht, wählt im Ergebnis das summarische statt des ordentlichen oder vereinfachten Verfahrens und damit ein «falsches Verfahren» i.S.v. Abs. 2. Historisch hat der Gesetzgeber die Anwendung von Art. 63 ZPO auf unzulässige Gesuche nach Art. 257 Abs. 3 ZPO ausdrücklich vorgesehen (Botschaft ZPO, FF 2006 6841, 6960 Ziff. 5.18, zit. nach BGer 4A_481/2025, E. 5.4); teleologisch würde die vom Gesetzgeber gewollte Attraktivität des raschen Verfahrens untergraben, wenn die Gesuchstellerin bei Unzulässigkeit den Verlust der Rechtshängigkeit riskierte.
 
 ---
 
