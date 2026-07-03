@@ -27,7 +27,7 @@ Die fünfjährige Verwirkungsfrist des Art. 25 Abs. 1 OHG beginnt alternativ:
 - **Fünf Jahre nach der Straftat** — objektiver Fristbeginn
 - **Fünf Jahre nach Kenntnis der Straftat** — subjektiver Fristbeginn
 
-Der später der beiden Zeitpunkte massgebend. Die Kenntnis setzt voraus, dass dem Opfer ein **Mindestmass an Informationen** über die Straftat und deren Schadensfolgen vorliegt, damit es zumutbar ist, die Frist laufen zu lassen ([BGE 126 II 348](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_348)).
+Der spätere der beiden Zeitpunkte ist massgebend. Die Kenntnis setzt voraus, dass dem Opfer ein **Mindestmass an Informationen** über die Straftat und deren Schadensfolgen vorliegt, damit es zumutbar ist, die Frist laufen zu lassen ([BGE 126 II 348](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_348)).
 
 ### 2. Bei Straftaten mit Spätfolgen
 
@@ -45,13 +45,34 @@ Liegen **besondere Umstände** vor, beginnt die Frist erst zu laufen, wenn für 
 
 Art. 25 Abs. 2 OHG gewährt Opfern von Sexualstraftaten an Kindern und von versuchtem Mord an Kindern unter 16 Jahren eine **verlängerte Frist bis zum vollendeten 25. Lebensjahr**. Diese Sonderfrist trägt der besonderen Vulnerabilität und den oft erst spät erkannten Schadensfolgen bei jungen Opfern Rechnung.
 
-## III. Fristhemmung durch Zivilverfahren (Abs. 3)
+## III. Zusatzfrist nach adhäsionsweiser Geltendmachung (Abs. 3)
 
-Haben das Opfer oder seine Angehörigen in einem Strafverfahren **Zivilansprüche geltend gemacht**, verlängert sich die Frist um ein Jahr ab **endgültigem Entscheid** über die Zivilansprüche oder der Einstellung des Strafverfahrens. Diese Regelung verhindert, dass das Opfer während laufender Zivilverfahren die Opferhilfe-Fristen versäumt.
+### 1. Zweck der Jahresfrist
+
+Haben das Opfer oder seine Angehörigen in einem Strafverfahren vor Ablauf der Fristen nach Abs. 1 oder 2 **Zivilansprüche adhäsionsweise geltend gemacht**, können sie innert **einem Jahr** ab endgültigem Entscheid über die Zivilansprüche oder ab Einstellung des Strafverfahrens ein Gesuch um Entschädigung und Genugtuung stellen. Diese Zusatzfrist ist namentlich für den Fall gedacht, dass sich der zur Zahlung verurteilte Täter als **zahlungsunfähig** erweist; wer den Ausgang des Strafverfahrens nicht abwarten will, kann sich innert der Fünfjahresfrist direkt an die Opferhilfe wenden und gegebenenfalls einen Vorschuss verlangen ([BGer 1C_146/2025 vom 6. Mai 2026, E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-5)).
+
+### 2. Fristbeginn: Abschluss des Strafverfahrens insgesamt
+
+Im zur Publikation vorgesehenen Entscheid [BGer 1C_146/2025 vom 6. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025) (5er-Besetzung, öffentliche Beratung) hat das Bundesgericht geklärt, dass die Jahresfrist des Abs. 3 — entgegen einer rein wörtlichen Lesart der Bestimmung — erst mit dem **Abschluss des Strafverfahrens insgesamt** zu laufen beginnt. Die **Teilrechtskraft** des Zivilpunkts nach Art. 402 StPO ist nicht massgebend, wenn die Berufung nur andere Punkte des Urteils (etwa die rechtliche Qualifikation der Tat oder das Strafmass) betrifft:
+
+- Die **Materialien** sprechen durchwegs vom Fristbeginn «nach Abschluss des Strafverfahrens» (Botschaft, BBl 2005 7187 Ziff. 1.2.3 und 7230 Ziff. 2.3.3); nichts erklärt die abweichende Formulierung des Gesetzestexts, dessen Begriff «endgültig» dadurch relativiert wird ([BGer 1C_146/2025, E. 2.6](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-6)).
+- Die Materialien datieren aus der Zeit **vor Inkrafttreten der StPO**; die Regeln über die teilweise Rechtskraft (Art. 402, 404 StPO) waren dem historischen Gesetzgeber nicht vor Augen ([BGer 1C_146/2025, E. 2.8.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-8-1)).
+- Von Opfern kann nicht erwartet werden, dass sie die **Feinheiten der strafprozessualen Teilrechtskraft** kennen; das opferzentrierte OHG ist so auszulegen, dass der Zugang zu den Leistungen nicht übermässig erschwert wird ([BGer 1C_146/2025, E. 2.8.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-8-1)).
+- Andernfalls bestünde **Missbrauchspotenzial**: Der Täter könnte seine Berufung mehr als ein Jahr nach deren Erhebung zurückziehen und so die OHG-Ansprüche des Opfers verwirken lassen ([BGer 1C_146/2025, E. 2.8.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-8-1), unter Hinweis auf [Gericht SO VWBES.2022.472 vom 10. August 2023](https://mcp.opencaselaw.ch/entscheid/so_gerichte_VWBES.2022.472)).
+
+Das Solothurner Verwaltungsgericht hatte bereits 2023 gleich entschieden: Die einjährige Frist berechnet sich nicht nach der formellen Rechtskraft des Strafurteils, sondern nach dem Zeitpunkt, an dem das Strafverfahren abgeschlossen wurde ([Gericht SO VWBES.2022.472 vom 10. August 2023](https://mcp.opencaselaw.ch/entscheid/so_gerichte_VWBES.2022.472)).
+
+### 3. Abgrenzung: Weiterzug an das Bundesgericht
+
+Anders liegt es beim **Weiterzug an das Bundesgericht**: Nach [BGer 1C 115/2020 vom 9. November 2020, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_115_2020#e-4-2) wird der kantonale Berufungsentscheid über die Zivilansprüche bereits mit seiner Eröffnung «endgültig» im Sinne von Abs. 3, wenn die Beschwerde an das Bundesgericht nur das Strafmass betrifft — der Beschwerde käme hinsichtlich der Zivilansprüche ohnehin **keine aufschiebende Wirkung** zu (Art. 103 Abs. 2 lit. b BGG). [BGer 1C_146/2025, E. 2.8.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-8-2) grenzt diese Konstellation ausdrücklich ab: Im **kantonalen Berufungsverfahren** hat die Berufung für die angefochtenen Punkte von Gesetzes wegen aufschiebende Wirkung (Art. 402 StPO), und der Ausgang des Berufungsverfahrens (etwa zur rechtlichen Qualifikation) kann sich auf die Höhe der OHG-Leistungen auswirken. Das Opfer darf deshalb das Berufungsurteil abwarten.
+
+### 4. Opferfreundliche Auslegung als Leitprinzip
+
+Der Entscheid bestätigt die Linie, wonach das OHG in seinem opferzentrierten Kontext **losgelöst von strafrechtlichen Regeln** ausgelegt werden darf, wenn deren Übernahme den Gesetzeszweck — einfache, rasche und wirksame Hilfe — vereiteln würde ([BGE 134 II 308 E. 5.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_II_308#e-5-8); [BGE 150 II 465, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_465#e-4-3-1); [BGer 1C_146/2025, E. 2.8.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_146_2025#e-2-8-1)).
 
 ## IV. Ausschluss der Verwirkung bei Beratungsstellenhilfe
 
-Im Unterschied zu Entschädigungs- und Genugtuungsansprüchen wissen die Verwirkungsfristen des Art. 25 OHG **nicht** für den Anspruch auf Hilfe der Beratungsstellen nach Art. 15 Abs. 2 OHG. Dieser Anspruch **verwirkt niemals** — ungeachtet des Zeitpunkts der Straftat ([BGer 1C_344/2022 vom 2. Juni 2023, E. 10.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_344_2022#e-10-3)).
+Im Unterschied zu Entschädigungs- und Genugtuungsansprüchen gelten die Verwirkungsfristen des Art. 25 OHG **nicht** für den Anspruch auf Hilfe der Beratungsstellen nach Art. 15 Abs. 2 OHG. Dieser Anspruch **verwirkt niemals** — ungeachtet des Zeitpunkts der Straftat ([BGer 1C_344/2022 vom 2. Juni 2023, E. 10.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_344_2022#e-10-3)).
 
 ## V. Verhältnis zum alten Recht (aOHG)
 
@@ -67,5 +88,7 @@ Allerdings verletzt es nicht Treu und Glauben, wenn die Verwaltung die Verwirkun
 
 ## Literatur
 
-- Botschaft vom 5. September 2007 zum revidierten Opferhilfegesetz (BBl 2007 6329)
+- Botschaft vom 9. November 2005 zur Totalrevision des Bundesgesetzes über die Hilfe an Opfer von Straftaten (BBl 2005 7165, insb. 7187 und 7230)
+- GOMM/LEHMKUHL/WEBER/ZEHNTNER, Kommentar zum Opferhilferecht, 5. Aufl., Bern 2025, N 17 f. zu Art. 25 OHG
+- STÉPHANIE CONVERSET, Aide aux victimes d'infractions et réparation du dommage, Genf 2009, S. 335
 - Commentary zu Art. 25 OHG, in: OnlineKommentar.ch (CC-BY-4.0)
