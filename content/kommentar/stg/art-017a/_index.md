@@ -28,6 +28,12 @@ agent_verified: false
 
 **3** **Abgrenzung zu Art. 17 Abs. 1 StG** Die Abgabebefreiung nach Art. 17a StG gilt ausschliesslich für die **Abgabe nach Art. 17 Abs. 2 StG** (Halbsatz auf Kosten der Gegenpartei des Effektenhändlers). Die eigene Effektenhändler-Abgabe nach Art. 17 Abs. 1 StG bleibt unberührt.
 
+### Entstehungsgeschichte
+
+**3a** **Dringliche Massnahmen 2000** Art. 17a StG wurde durch das Bundesgesetz vom 15. Dezember 2000 über neue dringliche Massnahmen im Bereich der Umsatzabgabe eingefügt (AS 2000 2991; Botschaft vom 2. Oktober 2000, BBl 2000 5835). Hintergrund war die Sorge um die Wettbewerbsfähigkeit des Finanzplatzes: Die Bestimmung ergänzte die bestehende Entlastung ausländischer Banken und Börsenagenten (Art. 19 StG) um «Ausnahmen für gewisse Kategorien ausländischer (und inländischer) institutioneller Anleger». Die heutigen Entlastungen nach Art. 17a und 19 StG hängen nicht mehr davon ab, wo der abgabepflichtige Geschäftsabschluss erfolgt ([BGer 2C_638/2020 vom 25. Februar 2021, E. 3.7.4](https://mcp.opencaselaw.ch/entscheid/bger_2C_638_2020#e-3-7-4)).
+
+**3b** **Nachweis der Befreiung** Die Befreiung greift nur, wenn der befreite Anleger umsatzabgaberechtlich als **Vertragspartei** des Geschäfts erscheint. Handelt ein Schweizer Vermögensverwalter als **direkter Stellvertreter** einer ausländischen kollektiven Kapitalanlage (Art. 32 Abs. 1 OR), treten die Wirkungen des Geschäfts bei der Vertretenen ein und die Befreiung nach Abs. 1 lit. c kommt zum Zug; streitentscheidend ist dann der **Nachweis** des direkten Stellvertretungsverhältnisses für die Zwecke der Umsatzabgabe, namentlich anhand des Umsatzregisters (Art. 27 Abs. 1 StG; [BGer 2C_749/2017 vom 20. März 2019, E. 9.1.1](https://mcp.opencaselaw.ch/entscheid/bger_2C_749_2017#e-9-1-1) und [E. 9.1.4](https://mcp.opencaselaw.ch/entscheid/bger_2C_749_2017#e-9-1-4)).
+
 ---
 
 ## Abs. 1 lit. b — Inländische kollektive Kapitalanlagen
@@ -60,6 +66,14 @@ agent_verified: false
 - die liechtensteinische Finanzmarktaufsicht (FMA) Einanlegerfonds akzeptiert, und
 - der Fonds die übrigen Anforderungen von Art. 119 KAG erfüllt.
 Der Effektenhändler schuldet für die Transaktionen dieses Fonds keine Umsatzabgabe nach Art. 17 Abs. 2 StG (BGer 9C_697/2024 vom 2. Juni 2026, Sachverhalt und E. 3.3.6).
+
+---
+
+## Abs. 1 lit. d und e, Abs. 2 und 3 — Ausländische Sozialversicherungs- und Vorsorgeeinrichtungen
+
+**12a** **Ausländische Einrichtungen der beruflichen Vorsorge (lit. e, Abs. 3)** Von der Abgabe befreit sind ausländische Einrichtungen der beruflichen Vorsorge. Abs. 3 umschreibt den Begriff mit drei **kumulativen** Voraussetzungen: Die Einrichtung muss (a) der Alters-, Hinterlassenen- und Invalidenvorsorge dienen, (b) ihre Mittel müssen dauernd und ausschliesslich für die berufliche Vorsorge bestimmt sein, und (c) sie muss einer der Bundesaufsicht **vergleichbaren Aufsicht** unterstellt sein. Verlangt ist eine ausländische Einrichtung, die gleichgeartete Aufgaben erfüllt wie die inländischen Einrichtungen und einer der schweizerischen vergleichbaren Aufsicht genügt ([BVGer A-515/2007 vom 26. März 2010, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bvger_A-515_2007#e-3-2-1), unter Hinweis auf die Botschaft, BBl 2000 5835, 5849).
+
+**12b** **Ausländische Einrichtungen der Sozialversicherung (lit. d, Abs. 2)** Parallel dazu definiert Abs. 2 die befreiten ausländischen Sozialversicherungseinrichtungen: Sie müssen die **gleichen Aufgaben** wie die inländischen Einrichtungen nach Art. 13 Abs. 5 StG (Ausgleichsfonds der AHV und der Arbeitslosenversicherung) erfüllen und ebenfalls einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sein.
 
 ---
 
