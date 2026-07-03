@@ -8,6 +8,14 @@ tags: ["SchKG", "Zustellung", "Betreibungsurkunden", "Zustellbescheinigung", "Be
 agent_verified: false
 ---
 
+## Gesetzeswortlaut
+
+> **Art. 72 Abs. 1 SchKG**: Die Zustellung geschieht durch den Betreibungsbeamten, einen Angestellten des Amtes oder durch die Post.
+>
+> **Art. 72 Abs. 2 SchKG**: Bei der Abgabe hat der Überbringer auf beiden Ausfertigungen zu bescheinigen, an welchem Tage und an wen die Zustellung erfolgt ist.
+
+*(Fedlex-Stand: 2026-01-01)*
+
 ## Gegenstand und Systematik
 
 **1** **Einordnung** Art. 72 SchKG regelt die **Zustellung von Betreibungsurkunden** durch das Betreibungsamt. Die Vorschrift steht im Zweiten Kapitel («Betreibung auf Pfändung und Pfandverwertung») und konkretisiert, auf welche Weise Zahlungsbefehle, Pfändungsankündigungen und andere Betreibungsurkunden dem Schuldner, Gläubiger oder Dritten zu eröffnen sind.
