@@ -24,6 +24,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 39](art-039/) | Umwandlung der gemeinnützigen Arbeit |
 | [Art. 41](art-041/) | Freiheitsstrafe anstelle von Geldstrafe |
 | [Art. 42](art-042/) | Bedingter Vollzug |
+| [Art. 45](art-045/) | Bewährung |
 | [Art. 46](art-046/) | Widerruf der bedingten Strafe |
 | [Art. 47](art-047/) | Grundsätze der Strafzumessung |
 | [Art. 48](art-048/) | Strafmilderungsgründe |
