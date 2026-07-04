@@ -38,6 +38,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 122](art-122/) | Schwere Körperverletzung |
 | [Art. 123](art-123/) | Einfache Körperverletzung |
 | [Art. 129](art-129/) | Gefährdung des Lebens |
+| [Art. 133](art-133/) | Raufhandel |
 | [Art. 146](art-146/) | Betrug |
 | [Art. 158](art-158/) | Ungetreue Geschäftsbesorgung |
 | [Art. 174](art-174/) | Verleumdung |
