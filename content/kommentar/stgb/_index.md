@@ -40,6 +40,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 117](art-117/) | Totschlag |
 | [Art. 122](art-122/) | Schwere Körperverletzung |
 | [Art. 123](art-123/) | Einfache Körperverletzung |
+| [Art. 125](art-125/) | Fahrlässige Körperverletzung |
 | [Art. 129](art-129/) | Gefährdung des Lebens |
 | [Art. 133](art-133/) | Raufhandel |
 | [Art. 140](art-140/) | Raub |
