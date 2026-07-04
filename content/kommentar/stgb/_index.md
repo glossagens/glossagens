@@ -54,6 +54,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 174](art-174/) | Verleumdung |
 | [Art. 182](art-182/) | Menschenhandel |
 | [Art. 186](art-186/) | Hausfriedensbruch |
+| [Art. 189](art-189/) | Sexuelle Nötigung |
 | [Art. 191](art-191/) | Missbrauch einer urteils- oder widerstandsunfähigen Person |
 | [Art. 219](art-219/) | Verletzung der Fürsorge- oder Erziehungspflicht |
 | [Art. 220](art-220/) | Entziehen von Minderjährigen |
