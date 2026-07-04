@@ -21,6 +21,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 22](art-022/) | Versuch |
 | [Art. 25](art-025/) | Gehilfenschaft |
 | [Art. 30](art-030/) | Strafantragsrecht |
+| [Art. 39](art-039/) | Umwandlung der gemeinnützigen Arbeit |
 | [Art. 41](art-041/) | Freiheitsstrafe anstelle von Geldstrafe |
 | [Art. 42](art-042/) | Bedingter Vollzug |
 | [Art. 46](art-046/) | Widerruf der bedingten Strafe |
