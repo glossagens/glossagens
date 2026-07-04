@@ -34,6 +34,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
 | [Art. 63](art-063/) | Voraussetzungen und Vollzug (ambulante Behandlung) |
 | [Art. 66a](art-066a/) | Obligatorische Landesverweisung |
+| [Art. 68](art-068/) | Veröffentlichung des Urteils |
 | [Art. 77b](art-077b/) | Halbgefangenschaft |
 | [Art. 106](art-106/) | Busse |
 | [Art. 111](art-111/) | Vorsätzliche Tötung |
