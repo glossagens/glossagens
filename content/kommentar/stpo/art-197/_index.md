@@ -57,7 +57,7 @@ Zwangsmassnahmen, die in Grundrechte **nicht beschuldigter Personen** eingreifen
 
 ## VI. Verhältnis zum nemo-tenetur-Grundsatz
 
-Zwangsmassnahmen dürfen den Grundsatz, dass sich niemand selbst belasten muss (Art. 113 Abs. 1 StPO, Art. 6 Ziff. 1 EMRK), nicht aushebeln. Die Abgrenzung zwischen zulässiger Beweissicherung mittels Zwangsmassnahmen und unzulässigem Zwang zur Selbstbelastung war Gegenstand von [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) (Entsiegelung bankinterner Unterlagen; → [Art. 113](../art-113/) ▪ noch nicht kommentiert).
+Zwangsmassnahmen dürfen den Grundsatz, dass sich niemand selbst belasten muss (Art. 113 Abs. 1 StPO, Art. 6 Ziff. 1 EMRK), nicht aushebeln. Die Abgrenzung zwischen zulässiger Beweissicherung mittels Zwangsmassnahmen und unzulässigem Zwang zur Selbstbelastung war Gegenstand von [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) (Entsiegelung bankinterner Unterlagen; → [Art. 113](../art-113/)).
 
 ## VII. Abgrenzung zu anderen Normen
 
