@@ -45,6 +45,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 | [Art. 125](art-125/) | Fahrlässige Körperverletzung |
 | [Art. 129](art-129/) | Gefährdung des Lebens |
 | [Art. 133](art-133/) | Raufhandel |
+| [Art. 139](art-139/) | Diebstahl |
 | [Art. 140](art-140/) | Raub |
 | [Art. 146](art-146/) | Betrug |
 | [Art. 158](art-158/) | Ungetreue Geschäftsbesorgung |
