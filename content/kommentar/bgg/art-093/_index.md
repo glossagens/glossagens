@@ -165,6 +165,46 @@ Bei der auf Art. 36 Abs. 1 GestG gestützten Anordnung der Sistierung des Verfah
 
 Eine Beschwerde omisso medio an das Bundesgericht ist — beschränkt auf öffentlich-rechtliche Angelegenheiten — unter bestimmten Voraussetzungen zulässig. Die Frage der Zulässigkeit einer solchen Beschwerde im Zusammenhang mit Vor- und Zwischenentscheiden ist in [BGE 150 II 346](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_346) geklärt, wo das Bundesgericht die Voraussetzungen für das Überspringen der kantonalen Oberinstanz präzisierte.
 
+### XI. Ergänzende Kasuistik (aktuelle Praxis)
+
+#### Rz. 29 Baurechtliche Nebenbestimmungen
+
+Besteht bei der Umsetzung von Nebenbestimmungen einer Baubewilligung noch ein Spielraum und darf trotz nominaler Erteilung der Bewilligung **noch nicht gebaut** werden, liegt ein Zwischenentscheid vor, der nur unter den Voraussetzungen von Art. 93 Abs. 1 BGG anfechtbar ist ([BGE 149 II 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_170), E. 1). In der Anwendung dieser Praxis auf nachgelagerte Baubewilligungsverfahren zur Behebung von Projektmängeln hat das Bundesgericht klargestellt, dass der prozessökonomische Vorteil solcher Folgeverfahren **nicht überschätzt** werden darf ([BGE 150 II 566](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_566), E. 2.2–2.5).
+
+#### Rz. 30 Sicherheit für die Parteientschädigung — Präzisierung
+
+Die zu Rz. 10 dargestellte Eintretenspraxis (Kostenvorschuss) gilt gleichermassen für Zwischenentscheide betreffend die **Sicherheit für die Parteientschädigung**, namentlich wenn diese auf den Kautionsgrund der Zahlungsunfähigkeit gestützt wird ([BGE 150 III 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_248), E. 1, unter Bestätigung von [BGE 142 III 798](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_798)).
+
+#### Rz. 31 Ablehnung eines Beweisantrags im Vorverfahren
+
+Die Ablehnung eines Beweisantrags der beschuldigten Person durch die Staatsanwaltschaft begründet **nicht automatisch** einen nicht wieder gutzumachenden Nachteil. Der in Art. 394 lit. b StPO genannte Rechtsnachteil ist zwar gleichbedeutend mit demjenigen nach Art. 93 Abs. 1 lit. a BGG, muss aber im Einzelfall konkret dargelegt werden ([BGE 149 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205)).
+
+#### Rz. 32 Entsiegelung — Durchsuchung von Smartphones
+
+Bei der vollständigen Durchsuchung privat genutzter Smartphones ist regelmässig davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind, was den nicht wieder gutzumachenden Nachteil nach Art. 93 Abs. 1 lit. a BGG begründet ([BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_151%20IV%20344)). Die Durchsuchung bleibt zulässig, wenn sie sich als geeignet, erforderlich und angemessen erweist; offensichtlich irrelevante Sicherstellungen sind nicht zu entsiegeln ([BGE 151 IV 350](https://mcp.opencaselaw.ch/entscheid/bge_151%20IV%20350), E. 2.5.2).
+
+#### Rz. 33 Kostenverlegung zulasten des Rechtsvertreters bei Rückweisung
+
+Wird im Rahmen einer Rückweisung eine Kostenauferlegung zulasten des **Rechtsvertreters** (statt der Partei) verfügt, ohne dass diesem vorgängig Gelegenheit zur Stellungnahme eingeräumt wurde, liegt hierin nicht nur eine Verletzung des rechtlichen Gehörs, sondern die Kostenverlegung ist zudem als **Endentscheid** (nicht als Zwischenentscheid) zu qualifizieren, da sie den Rechtsvertreter in einer eigenständigen, vom Hauptverfahren losgelösten Rechtsposition betrifft ([BGE 150 I 174](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_174)).
+
+### XII. Sistierung und Beschleunigungsgebot — Schnittstelle zu Art. 94 BGG
+
+#### Rz. 34 Sistierung infolge Nachlassstundung
+
+Die Sistierung eines Zivilprozesses infolge einer bewilligten Nachlassstundung (Art. 297 Abs. 5 SchKG) tritt **von Gesetzes wegen** ein; die gerichtliche Anordnung ist bloss deklaratorischer Natur. Das Erfordernis des nicht wieder gutzumachenden Nachteils nach Art. 93 Abs. 1 lit. a BGG ist gleichwohl gesondert zu prüfen ([BGE 151 III 516](https://mcp.opencaselaw.ch/entscheid/bge_151%20III%20516)).
+
+#### Rz. 35 Ausnahme vom Nachteilserfordernis bei gerügter Verletzung des Beschleunigungsgebots
+
+Bei Beschwerden gegen einen Sistierungs-Zwischenentscheid muss die Voraussetzung des nicht wieder gutzumachenden Nachteils **nicht erfüllt sein**, wenn die beschwerdeführende Partei mit hinreichender Begründung rügt, die Sistierung verletze das Beschleunigungsgebot (Art. 29 Abs. 1 BV; Art. 6 Ziff. 1 EMRK), weil in Anbetracht der Natur des betroffenen Prozesses nicht innert angemessener Frist mit einem Urteil gerechnet werden könne ([BGer 5A_494/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_494_2025) vom 27. August 2025, E. 1.2, unter Verweis auf [BGE 138 III 190](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_190), E. 6).
+
+#### Rz. 36 Rechtsverzögerungsbeschwerde gegen erwarteten Zwischenentscheid
+
+Ist der zu erwartende Entscheid seinerseits ein Zwischenentscheid — etwa ein Entscheid über vorsorgliche Massnahmen —, so unterliegt auch die Beschwerde wegen Rechtsverweigerung oder Rechtsverzögerung den Eintretensvoraussetzungen von Art. 93 Abs. 1 BGG ([BGE 149 II 476](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_476), E. 1.2.1). Diese Schnittstelle zu Art. 94 BGG (Rechtsverweigerung und Rechtsverzögerung) ist praktisch bedeutsam, da sie verhindert, dass über den Umweg der Rechtsverzögerungsrüge die Anfechtungsvoraussetzungen von Art. 93 BGG umgangen werden.
+
+#### Rz. 37 Beschleunigungsgebot in Haftsachen — Substanziierungsanforderungen
+
+Will sich eine Partei auf das Beschleunigungsgebot berufen bzw. eine Rechtsverzögerung geltend machen, hat sie klar und den Anforderungen von Art. 42 Abs. 2 und Art. 106 Abs. 2 BGG genügend darzulegen, weshalb die Sistierung zu einem überlangen Verfahren führt. Das Bundesgericht lässt in solchen Fällen die Beschwerde entweder im Sinne einer **Ausnahme** vom Nachteilserfordernis zu, oder weil die Verfahrensverzögerung selbst bereits einen nicht wieder gutzumachenden Nachteil rechtlicher Natur darstellt. In Haftsachen gilt dabei ein besonders strenges, über Art. 29 Abs. 1 BV hinausgehendes Beschleunigungsgebot (Art. 31 Abs. 4 BV; Art. 5 Ziff. 4 EMRK): Bei anhaltendem Freiheitsentzug und einer bereits mehrmonatigen Verfahrensdauer ist der nicht wieder gutzumachende Nachteil regelmässig zu bejahen, wenn ungewiss ist, ob der abzuwartende Entscheid einer anderen Instanz rechtzeitig ergehen wird ([BGer 2C_98/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_98_2026) vom 26. Februar 2026, E. 1.3.2–1.3.4).
+
 ## Querverweise
 
 - [Art. 74 BGG — Beschwerde in Zivilsachen / Streitwertgrenze](../art-074/) — Streitwertgrenze bei Zwischenentscheiden

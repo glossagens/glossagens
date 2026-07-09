@@ -70,6 +70,30 @@ agent_verified: false
 - **Kernaussage**: Ausnahmefall der Anfechtung eines obergerichtlichen Rückweisungsentscheids durch direkte Beschwerde gegen den nachfolgenden erstinstanzlichen Endentscheid, wenn ein erneutes kantonales Rechtsmittel von vornherein nutzlos wäre.
 - **Einschlägig für**: Abs. 1 (Rückweisungsentscheide — Instanzenerschöpfung)
 
+### [BGE 148 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_155), E. 1.1
+- **Thema**: Systematik der selbständigen Anfechtbarkeit von Vor- und Zwischenentscheiden
+- **Kernaussage**: Selbständige Anfechtbarkeit besteht nur bei Zuständigkeit/Ausstand (Art. 92 BGG), nicht wieder gutzumachendem Nachteil oder Verfahrensökonomie (Art. 93 Abs. 1 BGG) — als restriktiv zu handhabende Ausnahme vom Grundsatz der Verfahrenseinheit.
+- **Einschlägig für**: Abgrenzung Art. 92 zu Art. 93 BGG (Systematik)
+
+### [BGE 150 II 346](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_346), E. 1.3.2
+- **Thema**: Beschwerde omisso medio — Bestätigung der Systematik
+- **Kernaussage**: Bestätigt im Kontext der Beschwerde omisso medio, dass selbständige Anfechtbarkeit besteht, «wenn der Vor- oder Zwischenentscheid die Zuständigkeit oder den Ausstand betrifft (Art. 92 BGG)» — aktuelle (2024) Referenzstelle zur Gesamtsystematik.
+- **Einschlägig für**: Abgrenzung Art. 92 zu Art. 90/91/93 BGG (Systematik, 2024)
+
+---
+
+## Weitere Bemerkungen zum Rechtsmittelverhältnis
+
+### [BGer 5D_131/2022](https://mcp.opencaselaw.ch/entscheid/bger_5D_131_2022) vom 26.9.2022, E. 3.3 f.
+- **Thema**: Double-instance-Erfordernis bei Ausstandsentscheiden
+- **Kernaussage**: Ein als einzige kantonale Instanz ergangener Ausstandsentscheid genügt Art. 75 Abs. 2 BGG nicht; die Beschwerde nach Art. 92 BGG bzw. subsidiäre Verfassungsbeschwerde ist unzulässig, der Kanton muss ein kantonales Rechtsmittel schaffen.
+- **Einschlägig für**: Rechtsmittelverhältnis, Instanzenzug
+
+### [BGer 1B_254/2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_254_2022) vom 14.12.2022, E. 3.1
+- **Thema**: Präklusion bei institutioneller Befangenheit («Basel nazifrei»)
+- **Kernaussage**: Eine bereits mit separat eröffneter, rechtskräftiger Verfügung entschiedene Rüge institutioneller Befangenheit der Vorinstanz kann nicht erstmals gegen den späteren Endentscheid erhoben werden (Art. 92 Abs. 2 BGG).
+- **Einschlägig für**: Abs. 2 (Präklusion) — Praxisbeispiel
+
 ---
 
 *Letzte Aktualisierung: 9. Juli 2026*

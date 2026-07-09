@@ -35,6 +35,8 @@ Die Abgrenzung zwischen Art. 92 und Art. 93 BGG ist von zentraler praktischer Be
 
 Die Abgrenzung hängt davon ab, ob der angefochtene Entscheid **eigentlich** über die Zuständigkeit oder über Ausstand entscheidet. Fällt ein Entscheid nur indirekt in diesen Bereich, ist Art. 93 BGG anwendbar. So wurde entschieden, dass ein Sistierungsentscheid nach Art. 36 Abs. 1 GestG **kein** Zuständigkeitsentscheid im Sinne von Art. 92 BGG ist, selbst wenn er sachliche Fragen der Zuständigkeit berührt — hier ist Art. 93 BGG massgebend ([BGE 138 III 190](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_190), E. 5).
 
+Das Bundesgericht bestätigt diese Systematik in konstanter, aktueller Praxis: Selbständige Anfechtbarkeit besteht nur in drei Konstellationen — Zuständigkeit oder Ausstand (Art. 92 BGG), nicht wieder gutzumachender Nachteil (Art. 93 Abs. 1 lit. a BGG) oder Verfahrensökonomie (Art. 93 Abs. 1 lit. b BGG) — wobei die Ausnahme restriktiv zu handhaben ist ([BGE 150 II 346](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_346), E. 1.3.2 f.; [BGE 148 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_155), E. 1.1).
+
 ### II. Voraussetzungen im Einzelnen
 
 #### Rz. 4 Selbständige Eröffnung
@@ -94,6 +96,16 @@ Im Gegensatz zu Art. 93 Abs. 3 BGG, der die spätere Anfechtung von Vor- und Zwi
 #### Rz. 15 Verfahrensleitende Verfügungen
 
 Beschwerden gegen verfahrensleitende Verfügungen des Strafkammerpräsidiums des Bundesstrafgerichts sind unter den Voraussetzungen von Art. 92–94 BGG zulässig. Wird etwa ein privater Wahlverteidiger wegen Interessenkollisionen nicht zugelassen, so kann ein drohender nicht wieder gutzumachender Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG zu bejahhen sein — dieser Fall fällt jedoch unter Art. 93, nicht unter Art. 92, da er keine Zuständigkeitsfrage betrifft ([BGE 135 I 261](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_261), E. 1.1–1.4).
+
+### VIII. Weitere Bemerkungen: Rechtsmittelverhältnis
+
+#### Rz. 16 Verhältnis zur subsidiären Verfassungsbeschwerde — Erfordernis der doppelten kantonalen Instanz
+
+Ein Ausstandsentscheid, der nicht von einer oberen kantonalen Rechtsmittelinstanz, sondern als **einzige Instanz** ergeht, genügt dem Erfordernis der «double instance cantonale» (Art. 75 Abs. 2 BGG) nicht. Die Beschwerde — sei es nach Art. 92 BGG, sei es als subsidiäre Verfassungsbeschwerde nach Art. 113 ff. BGG — ist diesfalls unzulässig; der Kanton ist verpflichtet, ein kantonales Rechtsmittel zur Verfügung zu stellen, und die Sache geht zur weiteren Behandlung an die kantonale Instanz zurück ([BGer 5D_131/2022](https://mcp.opencaselaw.ch/entscheid/bger_5D_131_2022) vom 26. September 2022, E. 3.3 f.).
+
+#### Rz. 17 Anwendungsbeispiel zur Präklusion nach Abs. 2
+
+Die Präklusionsregel von Art. 92 Abs. 2 BGG erfasst auch die institutionelle Befangenheit eines ganzen Gerichts: Wurde ein Ausstandsgesuch gegen die Vorinstanz selbst bereits mit separat eröffneter, nicht angefochtener Verfügung rechtskräftig abgewiesen, kann die entsprechende Rüge nicht erstmals vor Bundesgericht gegen den späteren Endentscheid erhoben werden ([BGer 1B_254/2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_254_2022) vom 14. Dezember 2022, E. 3.1). Der Entscheid bestätigt zugleich, dass Ausstandsentscheide im Strafverfahren nach Art. 78 Abs. 1 i.V.m. Art. 92 Abs. 1 BGG (bzw. Art. 59 Abs. 1 StPO i.V.m. Art. 80 BGG) direkt anzufechten sind.
 
 ## Querverweise
 

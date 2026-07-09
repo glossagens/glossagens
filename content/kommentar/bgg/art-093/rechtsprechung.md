@@ -172,4 +172,63 @@ agent_verified: false
 
 ---
 
+## Ergänzende Kasuistik (aktuelle Praxis, Stand 2026)
+
+### [BGE 149 II 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_170), E. 1
+- **Thema**: Baubewilligung mit Nebenbestimmungen
+- **Kernaussage**: Besteht bei Umsetzung der Nebenbestimmungen ein Spielraum und darf trotz nominaler Erteilung noch nicht gebaut werden, liegt ein Zwischenentscheid vor, der nur unter den Voraussetzungen von Art. 93 Abs. 1 BGG anfechtbar ist.
+- **Einschlägig für**: Abs. 1 (Baurecht — Nebenbestimmungen)
+
+### [BGE 150 II 566](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_566), E. 2.2–2.5
+- **Thema**: Nachgelagerte Baubewilligungsverfahren
+- **Kernaussage**: Anwendungsfall von BGE 149 II 170; der prozessökonomische Vorteil nachgelagerter Baubewilligungsverfahren zur Mängelbehebung darf nicht überschätzt werden.
+- **Einschlägig für**: Abs. 1 (Baurecht — Folgeverfahren)
+
+### [BGE 150 III 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_248), E. 1
+- **Thema**: Sicherheit für die Parteientschädigung
+- **Kernaussage**: Die Eintretenspraxis nach BGE 142 III 798 (Kostenvorschuss) gilt gleichermassen für Zwischenentscheide betreffend Sicherheit für die Parteientschädigung, gestützt auf den Kautionsgrund der Zahlungsunfähigkeit.
+- **Einschlägig für**: Abs. 1 lit. a (Kostensicherheit — Präzisierung)
+
+### [BGE 149 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205)
+- **Thema**: Ablehnung eines Beweisantrags im Vorverfahren
+- **Kernaussage**: Der in Art. 394 lit. b StPO genannte Rechtsnachteil ist gleichbedeutend mit dem nicht wieder gutzumachenden Nachteil nach Art. 93 Abs. 1 lit. a BGG, muss aber im Einzelfall konkret dargelegt werden; die Ablehnung eines Beweisantrags begründet ihn nicht automatisch.
+- **Einschlägig für**: Abs. 1 lit. a (Strafverfahren — Beweisantrag)
+
+### [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_151%20IV%20344)
+- **Thema**: Entsiegelung — Durchsuchung von Smartphones
+- **Kernaussage**: Bei vollständiger Durchsuchung privat genutzter Smartphones ist regelmässig von der Betroffenheit von Privatgeheimnissen (Art. 264 Abs. 1 lit. b StPO) auszugehen, was den nicht wieder gutzumachenden Nachteil begründet.
+- **Einschlägig für**: Abs. 1 lit. a (Entsiegelung, Smartphones)
+
+### [BGE 151 IV 350](https://mcp.opencaselaw.ch/entscheid/bge_151%20IV%20350), E. 2.5.2
+- **Thema**: Entsiegelung — Verhältnismässigkeit
+- **Kernaussage**: Die Durchsuchung von Privatgeheimnissen ist zulässig, wenn geeignet, erforderlich und angemessen; offensichtlich irrelevante Sicherstellungen sind nicht zu entsiegeln.
+- **Einschlägig für**: Abs. 1 lit. a (Entsiegelung, Verhältnismässigkeit)
+
+### [BGE 150 I 174](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_174)
+- **Thema**: Kostenverlegung zulasten des Rechtsvertreters
+- **Kernaussage**: Kostenauferlegung zulasten des Rechtsvertreters (statt der Partei) im Rahmen einer Rückweisung ist als Endentscheid, nicht als Zwischenentscheid zu qualifizieren; Verletzung des rechtlichen Gehörs mangels vorgängiger Stellungnahmemöglichkeit.
+- **Einschlägig für**: Abs. 1 (Rückweisung — Kostenverlegung Rechtsvertreter)
+
+### [BGE 151 III 516](https://mcp.opencaselaw.ch/entscheid/bge_151%20III%20516)
+- **Thema**: Sistierung infolge Nachlassstundung
+- **Kernaussage**: Die Sistierung eines Zivilprozesses infolge bewilligter Nachlassstundung (Art. 297 Abs. 5 SchKG) tritt von Gesetzes wegen ein; die gerichtliche Anordnung ist bloss deklaratorisch, das Nachteilserfordernis ist dennoch gesondert zu prüfen.
+- **Einschlägig für**: Abs. 1 lit. a (Sistierung, SchKG-Bezug)
+
+### [BGer 5A_494/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_494_2025) vom 27.8.2025, E. 1.2
+- **Thema**: Beschleunigungsgebot als Ausnahme vom Nachteilserfordernis
+- **Kernaussage**: Bei Beschwerden gegen Sistierungs-Zwischenentscheide muss der nicht wieder gutzumachende Nachteil nicht erfüllt sein, wenn hinreichend begründet eine Verletzung des Beschleunigungsgebots gerügt wird.
+- **Einschlägig für**: Abs. 1 lit. a (Sistierung — Beschleunigungsgebot)
+
+### [BGE 149 II 476](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_476), E. 1.2.1
+- **Thema**: Rechtsverzögerungsbeschwerde gegen erwarteten Zwischenentscheid
+- **Kernaussage**: Ist der zu erwartende Entscheid seinerseits ein Zwischenentscheid, unterliegt auch die Beschwerde wegen Rechtsverweigerung/-verzögerung den Eintretensvoraussetzungen von Art. 93 Abs. 1 BGG.
+- **Einschlägig für**: Schnittstelle Art. 93/94 BGG
+
+### [BGer 2C_98/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_98_2026) vom 26.2.2026, E. 1.3.2–1.3.4
+- **Thema**: Beschleunigungsgebot in Haftsachen
+- **Kernaussage**: Bei anhaltendem Freiheitsentzug und ungewissem Ausgang eines abzuwartenden Verfahrens ist der nicht wieder gutzumachende Nachteil regelmässig zu bejahen; strenge Substanziierungsanforderungen an die Rüge des Beschleunigungsgebots (Art. 42 Abs. 2, Art. 106 Abs. 2 BGG).
+- **Einschlägig für**: Abs. 1 lit. a (Haftsachen — Beschleunigungsgebot)
+
+---
+
 *Letzte Aktualisierung: 9. Juli 2026*
