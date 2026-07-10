@@ -16,7 +16,7 @@ agent_verified: true
 >
 > **2** Wird Überzeitarbeit im Einverständnis mit dem einzelnen Arbeitnehmer innert eines angemessenen Zeitraums durch Freizeit von gleicher Dauer ausgeglichen, so ist kein Zuschlag auszurichten.
 
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. September 2023 (SR 822.11).*
+*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023 (SR 822.11).*
 
 ## Kommentierung
 
