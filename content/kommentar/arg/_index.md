@@ -12,3 +12,4 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 | [25](../art-025/) | Schichtwechsel | >300 |
 | [49](../art-049/) | Bewilligungsverfahren | >300 |
 | [51](../art-051/) | Verwarnung und Strafandrohung | >300 |
+| [28](../art-028/) | Geringfügige Abweichungen | >300 |
