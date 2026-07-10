@@ -47,19 +47,19 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 158](art-158) | Einvernahme durch die Polizei |
 | [Art. 189](art-189) | Ergänzung und Verbesserung des Gutachtens |
 | [Art. 197](art-197) | Beschlagnahme von Post und Fernmeldeverkehr |
-| [Art. 212](art-212) | Voraussetzungen Untersuchungshaft |
-| [Art. 220](art-220) | Haftbefehl |
-| [Art. 221](art-221) | Inhalt des Haftbefehls |
+| [Art. 212](art-212) | Grundsatz |
+| [Art. 220](art-220) | Begriffe |
+| [Art. 221](art-221) | Voraussetzungen |
 | [Art. 224](art-224) | Haftverfahren vor der Staatsanwaltschaft |
-| [Art. 227](art-227) | Haftdauer |
-| [Art. 228](art-228) | Verlängerung der Untersuchungshaft |
-| [Art. 229](art-229) | Eintritt in den Vollzug |
+| [Art. 227](art-227) | Haftverlängerungsgesuch |
+| [Art. 228](art-228) | Haftentlassungsgesuch |
+| [Art. 229](art-229) | Entscheid über die Anordnung der Sicherheitshaft |
 | [Art. 233](art-233) | Haftentlassungsgesuch vor Berufungsgericht |
-| [Art. 236](art-236) | Anordnung der Sicherheitshaft |
-| [Art. 237](art-237) | Durchführung der Sicherheitshaft |
-| [Art. 244](art-244) | Aufhebung der Haft |
-| [Art. 248](art-248) | Zuständigkeit für Haftentlassungsgesuche |
-| [Art. 248a](art-248a) | Haftentlassungsgesuch |
+| [Art. 236](art-236) | Vorzeitiger Straf- und Massnahmenvollzug |
+| [Art. 237](art-237) | Ersatzmassnahmen |
+| [Art. 244](art-244) | Grundsatz |
+| [Art. 248](art-248) | Siegelung |
+| [Art. 248a](art-248a) | Zuständigkeit zur Entsiegelung und Verfahren |
 | [Art. 255](art-255) | Eröffnung der Schlussverfügung |
 | [Art. 263](art-263) | Beschlagnahme von Objekten |
 | [Art. 264](art-264) | Beschlagnahme von Vermögenswerten |

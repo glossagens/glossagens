@@ -34,7 +34,7 @@ Die Bestimmung steht im Kontext der Art. 231–237 StPO, die die Sicherheitshaft
 
 **5. Berechnung der Frist.** Die fünf Tage beginnen mit dem Zeitpunkt der Einreichung des Gesuchs bei der Verfahrensleitung. Aus [BGer 1B 176/2018 vom 2. Mai 2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_176_2018) E. 1 ergibt sich, dass die Frist im Zusammenhang mit dem Schriftenwechsel steht: Die Verfahrensleitung entscheidet innert fünf Tagen nach dem Schriftenwechsel über Haftentlassungsgesuche. Dies bedeutet, dass die Frist nicht bereits mit der Einreichung des Gesuchs zu laufen beginnt, sondern erst nach Abschluss des Schriftenwechsels, sofern das Gesuch zuvor eingereicht wurde. Die genaue Berechnung kann im Einzelfall strittig sein, insbesondere wenn mehrere Gesuche nacheinander eingereicht werden.
 
-**6. Rechtsfolgen der Fristverletzung.** Die Nichtbeachtung der fünfjährigen Frist führt nicht automatisch zur Haftentlassung. Wie bei anderen Fristen im Haftrecht (vgl. [Art. 224 StPO](../art-224/)) ist die absolute Fristgrenze entscheidend, nicht die Einhaltung der einzelnen Verfahrensfristen. Eine Fristverletzung kann jedoch eine Verletzung des Beschleunigungsgebots darstellen, die bei der Beurteilung der Rechtmässigkeit der Haftfortdauer zu berücksichtigen ist. Im Fall [BGE 143 IV 160](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_160) E. 3.2 hat das Bundesgericht gerügt, dass die Vorinstanz über mehrere Gesuche des Beschwerdeführers nicht fristgerecht entschieden hatte, und dies als Verletzung des Beschleunigungsgebots gewertet.
+**6. Rechtsfolgen der Fristverletzung.** Die Nichtbeachtung der fünftägigen Frist führt nicht automatisch zur Haftentlassung. Wie bei anderen Fristen im Haftrecht (vgl. [Art. 224 StPO](../art-224/)) ist die absolute Fristgrenze entscheidend, nicht die Einhaltung der einzelnen Verfahrensfristen. Eine Fristverletzung kann jedoch eine Verletzung des Beschleunigungsgebots darstellen, die bei der Beurteilung der Rechtmässigkeit der Haftfortdauer zu berücksichtigen ist. Im Fall [BGE 143 IV 160](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_160) E. 3.2 hat das Bundesgericht gerügt, dass die Vorinstanz über mehrere Gesuche des Beschwerdeführers nicht fristgerecht entschieden hatte, und dies als Verletzung des Beschleunigungsgebots gewertet.
 
 ### IV. Nichtanfechtbarkeit des Entscheids (Abs. 1 Satz 2)
 
@@ -80,14 +80,14 @@ Die Bestimmung steht im Kontext der Art. 231–237 StPO, die die Sicherheitshaft
 
 ## Querverweise
 
-- [Art. 221 StPO — Voraussetzungen Sicherheitshaft](../art-221/) (materielle Haftvoraussetzungen)
+- [Art. 221 StPO — Voraussetzungen](../art-221/) (materielle Haftvoraussetzungen)
 - Art. 222 StPO — Anfechtbarkeit (Ausnahmevorbehalt, nicht kommentiert)
 - [Art. 224 StPO — Haftverfahren vor der Staatsanwaltschaft](../art-224/) (48-Stunden-Frist)
-- [Art. 228 StPO — Verfahren (Haft)](../art-228/) (mündliche Verhandlung, nicht anwendbar)
-- [Art. 229 StPO — Haftdauer](../art-229/) (Fristen)
+- [Art. 228 StPO — Haftentlassungsgesuch](../art-228/)
+- [Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft](../art-229/)
 - Art. 231 StPO — Sicherheitshaft während des Verfahrens vor dem Berufungsgericht (nicht kommentiert)
 - Art. 232 StPO — Verlängerung der Sicherheitshaft (nicht kommentiert)
-- [Art. 236 StPO — Aufhebung der Haft](../art-236/) (Haftaufhebung)
-- [Art. 237 StPO — Entschädigung](../art-237/) (Entschädigung bei unrechtmässiger Haft)
-- [Art. 248a StPO — Haftentlassungsgesuch](../art-248a/) (allgemeines Gesuch)
+- [Art. 236 StPO — Vorzeitiger Straf- und Massnahmenvollzug](../art-236/)
+- [Art. 237 StPO — Ersatzmassnahmen](../art-237/)
+- [Art. 248a StPO — Zuständigkeit zur Entsiegelung und Verfahren](../art-248a/)
 - Art. 80 BGG — Ausnahme von der Erstinstanzlichkeit (Beschwerdeweg an Bundesgericht)
