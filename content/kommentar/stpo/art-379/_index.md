@@ -126,7 +126,7 @@ Die Bestimmung wird in der Rechtsprechung regelmässig zitiert, wenn es um die F
 
 ### IX. Verhältnis zu kantonalem Verfahrensrecht
 
-Nach Art. 1 Abs. 1 StPO ist die StPO auf die Strafverfolgungsbehörden des Bundes und der Kantone anwendbar. Das Rechtsmittelverfahren vor den kantonalen Instanzen richtet sich nach der StPO, soweit diese anwendbar ist. Kantionale Verfahrensbestimmungen haben nur noch eine ergänzende Funktion, soweit die StPO nicht abschliessend regelt. Art. 379 StPO sichert die Einheit des Rechtsmittelverfahrens über alle kantonalen Besonderheiten hinweg und stellt sicher, dass die allgemeinen Bestimmungen der StPO auch in den kantonalen Rechtsmittelinstanzen sinngemäss angewendet werden (Rz. 28).
+Nach Art. 1 Abs. 1 StPO ist die StPO auf die Strafverfolgungsbehörden des Bundes und der Kantone anwendbar. Das Rechtsmittelverfahren vor den kantonalen Instanzen richtet sich nach der StPO, soweit diese anwendbar ist. Kantonale Verfahrensbestimmungen haben nur noch eine ergänzende Funktion, soweit die StPO nicht abschliessend regelt. Art. 379 StPO sichert die Einheit des Rechtsmittelverfahrens über alle kantonalen Besonderheiten hinweg und stellt sicher, dass die allgemeinen Bestimmungen der StPO auch in den kantonalen Rechtsmittelinstanzen sinngemäss angewendet werden (Rz. 28).
 
 ### X. Zusammenfassung
 
