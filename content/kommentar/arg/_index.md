@@ -11,3 +11,4 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 | [19](../art-019/) | Ausnahmen vom Verbot der Sonntagsarbeit | >300 |
 | [25](../art-025/) | Schichtwechsel | >300 |
 | [49](../art-049/) | Bewilligungsverfahren | >300 |
+| [51](../art-051/) | Verwarnung und Strafandrohung | >300 |
