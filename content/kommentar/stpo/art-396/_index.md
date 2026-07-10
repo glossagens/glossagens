@@ -121,7 +121,7 @@ Die Beschwerde nach Art. 396 StPO ist ferner von der Verwaltungsbeschwerde und d
 - [Art. 263 StPO](../art-263) — Beschlagnahme: Beschwerde gegen Beschlagnahmeverfügungen.
 - [Art. 269 StPO](../art-269) — Überwachungsmassnahmen: Beschwerde gegen Anordnung von Überwachungsmassnahmen.
 - [Art. 319 StPO](../art-319) — Einstellungsverfügung: Die Beschwerdefrist gegen die Einstellungsverfügung beginnt nach Art. 384 lit. b StPO mit der Zustellung.
-- [Art. 324 StPO](../art-324) — Genehmigung und Rechtsmittel (Einstellungsverfügung).
+- [Art. 324 StPO](../art-324) — Grundsätze (Anklageerhebung).
 - [Art. 384 StPO](../art-384) — Fristbeginn: Bestimmt, welches Ereignis den Fristlauf auslöst.
 - Art. 385 StPO — Berechnung der Frist: Konkretisiert die Fristberechnung.
 - Art. 379 StPO — Anwendbare Vorschriften (Rechtsmittelverfahren).
