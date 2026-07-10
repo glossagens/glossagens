@@ -63,7 +63,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 309](art-309) | Einstellungsverfügung |
 | [Art. 310](art-310) | Einstellung im summarischen Verfahren |
 | [Art. 319](art-319) | Vorbereitung der Hauptverhandlung |
-| [Art. 325](art-325) | Beweiswürdigung |
+| [Art. 325](art-325) | Inhalt der Anklageschrift |
 | [Art. 333](art-333) | Protokoll über die Hauptverhandlung |
 | [Art. 344](art-344) | Protokoll |
 | [Art. 352](art-352) | Voraussetzungen des Strafbefehlsverfahrens |
