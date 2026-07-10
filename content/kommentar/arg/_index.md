@@ -16,3 +16,4 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 | [28](../art-028/) | Geringfügige Abweichungen | >300 |
 | [49](../art-049/) | Bewilligungsverfahren | >300 |
 | [51](../art-051/) | Verwarnung und Strafandrohung | >300 |
+| [9](../art-009/) | Wöchentliche Höchstarbeitszeit | 30–300 |
