@@ -110,7 +110,7 @@ agent_verified: true
 ## Querverweise
 
 - [Art. 6 StPO](../art-006) — Untersuchungsgrundsatz
-- [Art. 104 StPO](../art-104) — Parteien *(nicht als Kommentar vorhanden)*
+- Art. 104 StPO — Parteien *(nicht als Kommentar vorhanden)*
 - [Art. 107 StPO](../art-107) — Einschränkungen des rechtlichen Gehörs
 - [Art. 139 StPO](../art-139) — Grundsätze der Beweisführung
 - [Art. 147 StPO](../art-147) — Teilnahmerecht der Parteien bei Beweiserhebungen
