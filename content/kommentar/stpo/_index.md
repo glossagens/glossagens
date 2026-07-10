@@ -61,6 +61,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 248](art-248) | Siegelung |
 | [Art. 248a](art-248a) | Zuständigkeit zur Entsiegelung und Verfahren |
 | [Art. 255](art-255) | Eröffnung der Schlussverfügung |
+| [Art. 260](art-260) | Erkennungsdienstliche Erfassung |
 | [Art. 263](art-263) | Beschlagnahme von Objekten |
 | [Art. 264](art-264) | Beschlagnahme von Vermögenswerten |
 | [Art. 269](art-269) | Rasterfahndung |
