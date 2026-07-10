@@ -81,6 +81,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 391](art-391) | Berufung |
 | [Art. 394](art-394) | Zulässigkeit und Berufungsgründe |
 | [Art. 398](art-398) | Zulässigkeit und Berufungsgründe |
+| [Art. 408](art-408) | Neues Urteil (Berufungsgericht) |
 | [Art. 410](art-410) | Revision |
 | [Art. 428](art-428) | Kostentragung im Rechtsmittelverfahren |
 | [Art. 429](art-429) | Ansprüche |
