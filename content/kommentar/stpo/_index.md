@@ -83,3 +83,4 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 429](art-429) | Ansprüche |
 | [Art. 431](art-431) | Ansprüche gegenüber Privatklägerschaft |
 | [Art. 448](art-448) | Anwendbares Recht |
+| [Art. 453](art-453) | Vor Inkrafttreten gefällte Entscheide |
