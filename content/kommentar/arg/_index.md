@@ -14,3 +14,4 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 | [51](../art-051/) | Verwarnung und Strafandrohung | >300 |
 | [28](../art-028/) | Geringfügige Abweichungen | >300 |
 | [3](../art-003/) | Ausnahmen vom persönlichen Geltungsbereich | >300 |
+| [12](../art-012/) | Ausnahmsweise Überschreitung der Höchstarbeitszeit (Überzeitarbeit) | >300 |
