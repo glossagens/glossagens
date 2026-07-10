@@ -100,7 +100,7 @@ Unter den gleichen Voraussetzungen kann eine Anklageänderung nach der Rechtspre
 - **Art. 11 StPO** ([Verbot der doppelten Strafverfolgung](../art-011)) — ne bis in idem bei Teileinstellung
 - Art. 319 StPO — Einstellungsvoraussetzungen (nicht als Link vorhanden)
 - Art. 320 StPO — Einstellung im summarischen Verfahren (nicht als Link vorhanden)
-- **Art. 325 StPO** ([Beweiswürdigung](../art-325)) — Haupt- und Eventualanklage
+- **Art. 325 StPO** ([Inhalt der Anklageschrift](../art-325)) — Haupt- und Eventualanklage
 - **Art. 333 StPO** ([Protokoll über die Hauptverhandlung](../art-333)) — Anklageänderung und -ergänzung
 - **Art. 352 StPO** ([Voraussetzungen des Strafbefehlsverfahrens](../art-352)) — Strafbefehl als Alternative zur Anklage
 
