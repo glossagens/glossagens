@@ -30,7 +30,7 @@ agent_verified: true
 >
 > *Aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394).*
 
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. Januar 2021 (SR 822.11).*
+*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. Januar 2021 (SR 822.11).*
 
 ## Kommentierung
 

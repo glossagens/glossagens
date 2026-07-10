@@ -32,7 +32,7 @@ agent_verified: true
 >
 > **h.**<sup>5</sup> auf Arbeitnehmer, die dem Abkommen vom 21. Mai 1954<sup>6</sup> über die Arbeitsbedingungen der Rheinschiffer unterstehen.
 
-*Fussnoten: ¹ Fassung gemäss Ziff. I des BG vom 8. Okt. 1993, in Kraft seit 1. Mai 1994 (AS 1994 1035 1036; BBl 1993 I 805). ² Fassung gemäss Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ³ Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Jan. 2005 (AS 2002 2547; BBl 2001 3181 6098). ⁴ Fassung gemäss Art. 21 Ziff. 2 des Heimarbeitsgesetzes vom 20. März 1981, in Kraft seit 1. April 1983 (SR 822.31). ⁵ Eingefügt durch Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ⁶ SR 0.747.224.022. Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. September 2023.*
+*Fussnoten: ¹ Fassung gemäss Ziff. I des BG vom 8. Okt. 1993, in Kraft seit 1. Mai 1994 (AS 1994 1035 1036; BBl 1993 I 805). ² Fassung gemäss Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ³ Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Jan. 2005 (AS 2002 2547; BBl 2001 3181 6098). ⁴ Fassung gemäss Art. 21 Ziff. 2 des Heimarbeitsgesetzes vom 20. März 1981, in Kraft seit 1. April 1983 (SR 822.31). ⁵ Eingefügt durch Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ⁶ SR 0.747.224.022. Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 
 ## Kommentierung
 

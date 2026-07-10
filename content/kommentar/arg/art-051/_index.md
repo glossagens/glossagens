@@ -18,7 +18,7 @@ agent_verified: true
 >
 > **3** Wird durch einen Verstoss im Sinne von Absatz 1 zugleich ein Gesamtarbeitsvertrag verletzt, so kann die kantonale Behörde in geeigneter Weise auf die Massnahmen der Vertragsparteien zur Durchsetzung des Gesamtarbeitsvertrages Rücksicht nehmen.
 
-*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. September 2023.*
+*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 
 ## Kommentierung
 

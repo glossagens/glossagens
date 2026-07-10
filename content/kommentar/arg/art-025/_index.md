@@ -18,7 +18,7 @@ agent_verified: true
 >
 > **3** Wenn die betroffenen Arbeitnehmer einverstanden sind und die durch Verordnung festzulegenden Bedingungen und Auflagen eingehalten werden, kann die Dauer von sechs Wochen verlängert, oder aber es kann auf den Wechsel ganz verzichtet werden.
 
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. September 2023.*
+*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 
 ## Kommentierung
 

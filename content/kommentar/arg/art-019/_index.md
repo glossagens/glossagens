@@ -24,7 +24,7 @@ agent_verified: true
 >
 > **6** Die Kantone können höchstens vier Sonntage pro Jahr bezeichnen, an denen Arbeitnehmer in Verkaufsgeschäften ohne Bewilligung beschäftigt werden dürfen.
 
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Abs. 6 eingefügt durch Ziff. I des BG vom 21. Dez. 2007, in Kraft seit 1. Juli 2008 (AS 2008 2903; BBl 2007 4261 4269). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1964/1092/de), Konsolidierung vom 1. September 2023.*
+*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Abs. 6 eingefügt durch Ziff. I des BG vom 21. Dez. 2007, in Kraft seit 1. Juli 2008 (AS 2008 2903; BBl 2007 4261 4269). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 
 ## Kommentierung
 

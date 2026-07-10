@@ -18,7 +18,7 @@ agent_verified: true
 >
 > **³** Für Arbeitszeitbewilligungen dürfen lediglich mässige Kanzleigebühren erhoben werden.
 >
-> *Fassung gemäss Ziff. II Art. 5 des BG vom 25. Juni 1971 über die Revision des Zehnten Titels und des Zehnten Titels bis des Obligationenrechts (Der Arbeitsvertrag), in Kraft seit 1. Jan. 1972 (AS 1971 1465; BBl 1967 II 241).*
+> *Fassung gemäss Ziff. II Art. 5 des BG vom 25. Juni 1971 über die Revision des Zehnten Titels und des Zehnten Titels bis des Obligationenrechts (Der Arbeitsvertrag), in Kraft seit 1. Jan. 1972 (AS 1971 1465; BBl 1967 II 241). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 
 ## Kommentar
 
