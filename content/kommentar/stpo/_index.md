@@ -54,6 +54,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 227](art-227) | Haftdauer |
 | [Art. 228](art-228) | Verlängerung der Untersuchungshaft |
 | [Art. 229](art-229) | Eintritt in den Vollzug |
+| [Art. 233](art-233) | Haftentlassungsgesuch vor Berufungsgericht |
 | [Art. 236](art-236) | Anordnung der Sicherheitshaft |
 | [Art. 237](art-237) | Durchführung der Sicherheitshaft |
 | [Art. 244](art-244) | Aufhebung der Haft |
