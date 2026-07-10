@@ -32,6 +32,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 108](art-108) | Eingaben |
 | [Art. 109](art-109) | Sprachen |
 | [Art. 113](art-113) | Zuständigkeit |
+| [Art. 124](art-124) | Zuständigkeit und Verfahren (Zivilanspruch) |
 | [Art. 127](art-127) | Rechtsbeistand |
 | [Art. 130](art-130) | Notwendige Verteidigung |
 | [Art. 132](art-132) | Amtliche Verteidigung |
