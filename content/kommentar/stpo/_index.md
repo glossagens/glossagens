@@ -69,7 +69,8 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 324](art-324) | Grundsätze (Anklageerhebung) |
 | [Art. 325](art-325) | Inhalt der Anklageschrift |
 | [Art. 333](art-333) | Protokoll über die Hauptverhandlung |
-| [Art. 344](art-344) | Protokoll |
+| [Art. 344](art-344) | Abweichende rechtliche Würdigung |
+| [Art. 345](art-345) | Abschluss des Beweisverfahrens |
 | [Art. 350](art-350) | Bindung an die Anklage; Grundlage des Urteils |
 | [Art. 352](art-352) | Voraussetzungen des Strafbefehlsverfahrens |
 | [Art. 353](art-353) | Strafbefehlsverfahren |
