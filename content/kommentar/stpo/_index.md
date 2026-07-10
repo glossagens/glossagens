@@ -50,6 +50,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 212](art-212) | Voraussetzungen Untersuchungshaft |
 | [Art. 220](art-220) | Haftbefehl |
 | [Art. 221](art-221) | Inhalt des Haftbefehls |
+| [Art. 224](art-224) | Haftverfahren vor der Staatsanwaltschaft |
 | [Art. 227](art-227) | Haftdauer |
 | [Art. 228](art-228) | Verlängerung der Untersuchungshaft |
 | [Art. 229](art-229) | Eintritt in den Vollzug |
