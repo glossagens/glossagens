@@ -13,3 +13,4 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 | [49](../art-049/) | Bewilligungsverfahren | >300 |
 | [51](../art-051/) | Verwarnung und Strafandrohung | >300 |
 | [28](../art-028/) | Geringfügige Abweichungen | >300 |
+| [3](../art-003/) | Ausnahmen vom persönlichen Geltungsbereich | >300 |
