@@ -74,6 +74,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 356](art-356) | Einsprache |
 | [Art. 358](art-358) | Besondere Verfahren |
 | [Art. 382](art-382) | Beschwerdegegenstand |
+| [Art. 384](art-384) | Fristbeginn |
 | [Art. 385](art-385) | Begründung und Form |
 | [Art. 391](art-391) | Berufung |
 | [Art. 394](art-394) | Zulässigkeit und Berufungsgründe |
