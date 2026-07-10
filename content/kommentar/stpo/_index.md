@@ -80,6 +80,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 385](art-385) | Begründung und Form |
 | [Art. 391](art-391) | Berufung |
 | [Art. 394](art-394) | Zulässigkeit und Berufungsgründe |
+| [Art. 396](art-396) | Form und Frist (Beschwerde) |
 | [Art. 398](art-398) | Zulässigkeit und Berufungsgründe |
 | [Art. 408](art-408) | Neues Urteil (Berufungsgericht) |
 | [Art. 410](art-410) | Revision |

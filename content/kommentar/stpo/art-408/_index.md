@@ -90,7 +90,7 @@ agent_verified: true
 - **Art. 147 StPO** — Teilnahmerecht der Parteien: Verletzung kann zur Aufhebung/Rückweisung nach Art. 409 StPO führen. Siehe [Art. 147](../art-147/).
 - **Art. 341 Abs. 3 StPO** — Befragung der beschuldigten Person: Ergänzungsbedürftige Befragung ist kein schwerwiegender Mangel im Sinne von Art. 409 Abs. 1 StPO.
 - **Art. 350 StPO** — Bindung an die Anklage: Das Berufungsgericht entscheidet im Rahmen der zugelassenen Anklage. Siehe [Art. 350](../art-350/).
-- **Art. 351 StPO** — Inhalt des Urteils: Das Urteilsspruch muss den Prozessgegenstand erschöpfend erledigen. Siehe [Art. 325](../art-325/).
+- **Art. 351 StPO** — Inhalt des Urteils: Das Urteilsspruch muss den Prozessgegenstand erschöpfend erledigen (nicht als Glossagens-Artikel vorhanden).
 - **Art. 381 StPO** — Rechtsmittellegitimation: Die Staatsanwaltschaft kann zuungunsten der beschuldigten Person ein Rechtsmittel ergreifen, was das Verschlechterungsverbot aufhebt.
 - **Art. 391 Abs. 2 StPO** — Verschlechterungsverbot: Begrenzt den reformatorischen Spielraum des Berufungsgerichts. Siehe [Art. 391](../art-391/).
 - **Art. 394 StPO** — Zulässigkeit und Berufungsgründe: Die Berufung ist ein reformatorisches Rechtsmittel mit umfassender Kognition. Siehe [Art. 394](../art-394/).
