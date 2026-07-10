@@ -10,6 +10,7 @@ Kommentar zum [Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Ge
 |------|-------|--------|
 | [3](../art-003/) | Ausnahmen vom persönlichen Geltungsbereich | >300 |
 | [12](../art-012/) | Ausnahmsweise Überschreitung der Höchstarbeitszeit (Überzeitarbeit) | >300 |
+| [13](../art-013/) | Entschädigung der Überzeitarbeit | >300 |
 | [19](../art-019/) | Ausnahmen vom Verbot der Sonntagsarbeit | >300 |
 | [25](../art-025/) | Schichtwechsel | >300 |
 | [28](../art-028/) | Geringfügige Abweichungen | >300 |
