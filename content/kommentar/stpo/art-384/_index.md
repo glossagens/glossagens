@@ -24,7 +24,7 @@ agent_verified: true
 
 Art. 384 StPO regelt den Beginn der Rechtsmittelfristen im Strafverfahren und ist eine der prozessual zentralen Bestimmungen der Strafprozessordnung. Die Vorschrift bestimmt den Zeitpunkt, ab welchem die Fristen für die Ausübung von Rechtsmitteln zu laufen beginnen, und klärt damit die Voraussetzungen für die formelle Rechtskraft von Entscheiden. Die korrekte Bestimmung des Fristbeginns ist für die Rechtssicherheit und den Rechtsschutz der Verfahrensbeteiligten von grösster Bedeutung: Versäumt eine Partei die Rechtsmittelfrist, weil der Fristbeginn falsch berechnet wurde, verliert sie ihr Recht auf rechtliches Gehör und auf Überprüfung des Entscheids durch eine obere Instanz (Rz. 1).
 
-Art. 384 StPO unterscheidet drei Fälle des Fristbeginns: bei Urteilen (lit. a), bei andern Entscheiden (lit. b) und bei nicht schriftlich er Tieröffneten Verfahrenshandlungen (lit. c). Diese Dreiteilung trägt der Vielfalt strafprozessualer Akte Rechnung, die je nach ihrer Art unterschiedlichen Eröffnungsmodalitäten unterliegen. Die Bestimmung steht im engen systematischen Zusammenhang mit den Zustellungsregeln (Art. 85 StPO), den Eröffnungsregeln (Art. 86–87 StPO) und den allgemeinen Fristbestimmungen (Art. 89–94 StPO) (Rz. 2).
+Art. 384 StPO unterscheidet drei Fälle des Fristbeginns: bei Urteilen (lit. a), bei andern Entscheiden (lit. b) und bei nicht schriftlich eröffneten Verfahrenshandlungen (lit. c). Diese Dreiteilung trägt der Vielfalt strafprozessualer Akte Rechnung, die je nach ihrer Art unterschiedlichen Eröffnungsmodalitäten unterliegen. Die Bestimmung steht im engen systematischen Zusammenhang mit den Zustellungsregeln (Art. 85 StPO), den Eröffnungsregeln (Art. 86–87 StPO) und den allgemeinen Fristbestimmungen (Art. 89–94 StPO) (Rz. 2).
 
 ### II. Fristbeginn bei Urteilen (lit. a)
 
@@ -100,10 +100,9 @@ Abzugrenzen ist Art. 384 StPO von den Eröffnungsregeln der Art. 86–87 StPO, d
 
 ## Querverweise
 
-- [Art. 85 StPO](../art-089) — Allgemeine Bestimmungen (Fristen): Die Fristberechnung regelt die allgemeinen Regeln über den Fristlauf.
-- Art. 85 StPO — Zustellungsformen: Bestimmt, wie Zustellungen formgerecht zu erfolgen haben (eingchriebene Postsendung, gegen Empfangsbestätigung).
+- [Art. 89 StPO](../art-089) — Allgemeine Bestimmungen (Fristen): Die Fristberechnung regelt die allgemeinen Regeln über den Fristlauf.
+- Art. 85 StPO — Zustellungsformen: Bestimmt, wie Zustellungen formgerecht zu erfolgen haben (eingeschriebene Postsendung, gegen Empfangsbestätigung).
 - Art. 86 StPO — Eröffnung: Regelt die Eröffnung von Verfügungen und Beschlüssen.
-- Art. 89 StPO — Allgemeine Bestimmungen (Fristen): Allgemeine Fristberechnungsregeln.
 - Art. 263 StPO — Beschlagnahme: Regelt u.a. die schriftliche Bestätigung mündlich angeordneter Beschlagnahmen.
 - Art. 322 StPO — Einstellungsverfügung: Die Beschwerdefrist gegen die Einstellungsverfügung beginnt nach Art. 384 lit. b StPO.
 - Art. 396 StPO — Form und Frist der Beschwerde: Die Beschwerdefrist von 10 Tagen beginnt nach Art. 384 StPO.
