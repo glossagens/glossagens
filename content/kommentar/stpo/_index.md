@@ -95,7 +95,8 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 428](art-428) | Kostentragung im Rechtsmittelverfahren |
 | [Art. 429](art-429) | Ansprüche |
 | [Art. 430](art-430) | Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung |
-| [Art. 431](art-431) | Ansprüche gegenüber Privatklägerschaft |
+| [Art. 431](art-431) | Entschädigung und Genugtuung wegen Zwangsmassnahmen |
+| [Art. 432](art-432) | Ansprüche gegenüber Privatklägerschaft |
 | [Art. 448](art-448) | Anwendbares Recht |
 | [Art. 453](art-453) | Vor Inkrafttreten gefällte Entscheide |
 | [Art. 454](art-454) | Nach Inkrafttreten gefällte Entscheide |
