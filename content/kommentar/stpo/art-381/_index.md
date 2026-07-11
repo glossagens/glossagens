@@ -24,7 +24,7 @@ agent_verified: true
 
 **1** Art. 381 StPO regelt die Rechtsmittellegitimation der Staatsanwaltschaft im kantonalen Strafverfahren. Die Bestimmung ist die strafprozessuale Grundlage für die Befugnis der Staatsanwaltschaft, Rechtsmittel einzulegen — sowohl **zugunsten** als auch **zuungunsten** der beschuldigten oder verurteilten Person (Abs. 1). Die Vorschrift ergänzt die allgemeine Regelung des Beschwerdegegenstands in [Art. 382](../art-382) StPO und die Bestimmungen über die Zulässigkeit der Beschwerde in [Art. 394](../art-394) StPO. Auf Bundesebene entspricht die Beschwerdelegitimation der Staatsanwaltschaft vor dem Bundesgericht Art. 81 Abs. 1 lit. b Ziff. 3 BGG.
 
-**2** Art. 381 StPO ist Ausdruck der doppelten Funktion der Staatsanwaltschaft im Strafverfahren: Sie ist einerseits Verfahrensleitung im Vorverfahren ([Art. 16](../art-016) StPO) und andererseits Partei im gerichtlichen Verfahren ([Art. 104 Abs. 1 lit. c](../art-104) StPO). Die Rechtsmittellegitimation sichert die Einheit des Verfahrens (Art. 111 BGG) und gewährleistet, dass die Staatsanwaltschaft den staatlichen Strafanspruch durch alle Instanzen verfolgen kann.
+**2** Art. 381 StPO ist Ausdruck der doppelten Funktion der Staatsanwaltschaft im Strafverfahren: Sie ist einerseits Verfahrensleitung im Vorverfahren ([Art. 16](../art-016) StPO) und andererseits Partei im gerichtlichen Verfahren (Art. 104 Abs. 1 lit. c StPO). Die Rechtsmittellegitimation sichert die Einheit des Verfahrens (Art. 111 BGG) und gewährleistet, dass die Staatsanwaltschaft den staatlichen Strafanspruch durch alle Instanzen verfolgen kann.
 
 **3** Die Bestimmung wurde durch die StPO-Reform 2022 (BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024) teilweise geändert: Abs. 4 wurde aufgehoben. Die Absätze 1–3 bleiben unverändert in Kraft.
 
@@ -89,21 +89,21 @@ agent_verified: true
 ## Querverweise
 
 - [Art. 16 StPO](../art-016) — Staatsanwaltschaft (Verfahrensleitung im Vorverfahren)
-- [Art. 104 StPO](../art-104) — Parteien (Staatsanwaltschaft als Partei im gerichtlichen Verfahren) *(noch nicht kommentiert)*
+- Art. 104 StPO — Parteien (Staatsanwaltschaft als Partei im gerichtlichen Verfahren) *(noch nicht kommentiert)*
 - [Art. 111 BGG](https://www.fedlex.admin.ch/eli/cc/2007/675/de) — Einheit des Verfahrens
 - [Art. 81 Abs. 1 lit. b Ziff. 3 BGG](https://www.fedlex.admin.ch/eli/cc/2007/675/de) — Beschwerdelegitimation der Staatsanwaltschaft vor Bundesgericht
 - [Art. 127 StPO](../art-127) — Rechtsbeistand
 - [Art. 135 StPO](../art-135) — Entschädigung der amtlichen Verteidigung
-- [Art. 222 StPO](../art-220) — Haftbeschwerde *(Verweis auf das Haftverfahren)*
+- Art. 222 StPO — Haftbeschwerde *(nicht kommentiert)*
 - [Art. 379 StPO](../art-379) — Anwendbare Vorschriften (Rechtsmittelverfahren)
 - [Art. 382 StPO](../art-382) — Beschwerdegegenstand
 - [Art. 384 StPO](../art-384) — Fristbeginn
 - [Art. 394 StPO](../art-394) — Zulässigkeit und Berufungsgründe
 - [Art. 398 StPO](../art-398) — Zulässigkeit und Berufungsgründe
-- [Art. 421 StPO](../art-427) — Kosten- und Entschädigungsfolgen im Endentscheid
+- Art. 421 StPO — Kosten- und Entschädigungsfolgen im Endentscheid *(nicht kommentiert)*
 - [Art. 428 StPO](../art-428) — Kostentragung im Rechtsmittelverfahren
 - [Art. 429 StPO](../art-429) — Entschädigung und Genugtuung
-- [Art. 434 StPO](../art-431) — Entschädigungsansprüche Dritter
+- Art. 434 StPO — Entschädigungsansprüche Dritter *(nicht kommentiert)*
 
 ## Literatur
 

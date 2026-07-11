@@ -38,7 +38,7 @@ agent_verified: true
 
 **2** Die Norm verfolgt zwei Zwecke: Einerseits soll verhindert werden, dass die Privatklägerschaft durch ihre Anträge zum Zivilpunkt unverhältnismässige Kosten verursacht, ohne dafür kostenrechtlich einzustehen. Andererseits soll bei Antragsdelikten sichergestellt werden, dass missbräuchliche oder grob fahrlässige Strafanträge nicht zu Lasten der Allgemeinheit gehen. Die Regelung schlägt damit eine Brücke zwischen dem privatklägerischen Initiativrecht und dem staatlichen Kosteninteresse.
 
-**3** Systematisch ist Art. 427 StPO von den nachfolgenden Bestimmungen zu unterscheiden: Art. 428 StPO regelt die Kostentragung im Rechtsmittelverfahren; [Art. 431 StPO](../art-431) betrifft die Ansprüche der beschuldigten Person *gegenüber* der Privatklägerschaft (Entschädigung bei Freispruch); Art. 433 StPO regelt die Entschädigungspflicht der Privatklägerschaft. Art. 427 StPO ist somit die **Grundnorm für die Erstreckung von Verfahrenskosten auf die Privatklägerschaft und die antragstellende Person im erstinstanzlichen Verfahren**.
+**3** Systematisch ist Art. 427 StPO von den nachfolgenden Bestimmungen zu unterscheiden: Art. 428 StPO regelt die Kostentragung im Rechtsmittelverfahren; [Art. 432 StPO](../art-432) betrifft die Ansprüche der beschuldigten Person *gegenüber* der Privatklägerschaft (Entschädigung bei Freispruch); Art. 433 StPO regelt die Entschädigungspflicht der Privatklägerschaft. Art. 427 StPO ist somit die **Grundnorm für die Erstreckung von Verfahrenskosten auf die Privatklägerschaft und die antragstellende Person im erstinstanzlichen Verfahren**.
 
 ### II. Kostentragungspflicht der Privatklägerschaft (Abs. 1)
 
@@ -104,7 +104,7 @@ agent_verified: true
 
 - **Art. 426 StPO**: Allgemeine Kostentragungsregel für die beschuldigte Person. Art. 427 StPO ergänzt diese Regel für die Privatklägerschaft.
 - **[Art. 428 StPO](../art-428)**: Kostentragung im Rechtsmittelverfahren. Die Kosten des Rechtsmittelverfahrens richten sich nach Art. 428 StPO, nicht nach Art. 427 StPO. Wie das Bundesgericht in [BGer 6B 370/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_370_2016) E. 1.2 festgehalten hat, richtet sich die Kostenauflage im Rechtsmittelverfahren ausschliesslich nach Art. 428 StPO — die Ausführungen zu Art. 427 StPO sind in diesem Zusammenhang unbehilflich.
-- **[Art. 431 StPO](../art-431)**: Ansprüche der beschuldigten Person *gegenüber* der Privatklägerschaft (Entschädigung bei Freispruch). Art. 427 StPO regelt die Kostentragungspflicht, während Art. 431 StPO den Entschädigungsanspruch der beschuldigten Person gegen die Privatklägerschaft gewährt.
+- **[Art. 432 StPO](../art-432)**: Ansprüche der beschuldigten Person *gegenüber* der Privatklägerschaft (Entschädigung bei Freispruch). Art. 427 StPO regelt die Kostentragungspflicht, während Art. 432 StPO den Entschädigungsanspruch der beschuldigten Person gegen die Privatklägerschaft gewährt.
 - **Art. 432 StPO**: Entschädigungspflicht der Privatklägerschaft gegenüber der beschuldigten Person bei Obsiegen der beschuldigten Person.
 - **Art. 433 StPO**: Entschädigung im Rechtsmittelverfahren.
 
@@ -142,7 +142,7 @@ agent_verified: true
 
 - [Art. 426 StPO](../art-426) — Kostentragungspflicht der beschuldigten Person
 - [Art. 428 StPO](../art-428) — Kostentragung im Rechtsmittelverfahren
-- [Art. 431 StPO](../art-431) — Ansprüche gegenüber Privatklägerschaft
+- [Art. 432 StPO](../art-432) — Ansprüche gegenüber Privatklägerschaft
 - Art. 420 StPO — Rückgriff (nicht existierend als Link)
 - Art. 432 StPO — Herabsetzung/Verweigerung der Entschädigung (nicht existierend als Link)
 - Art. 433 StPO — Privatklägerschaft (Entschädigungsanspruch) (nicht existierend als Link)
