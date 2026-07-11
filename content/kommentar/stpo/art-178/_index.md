@@ -59,7 +59,7 @@ Lit. a ordnet an, dass die Privatklägerschaft als Auskunftsperson einzuvernehme
 
 **Lit. b** schützt Personen, die zur Zeit der Einvernahme das 15. Altersjahr noch nicht zurückgelegt haben. Die Altersgrenze von 15 Jahren entspricht der Altersgrenze der Strafmündigkeit nach Art. 10 Abs. 1 JStG. Kinder unter 15 Jahren können nicht als beschuldigte Person einvernommen werden und sind als Auskunftspersonen zu befragen, soweit sie aussagefähig sind. Die Einvernahme hat mit besonderer Vorsicht und unter Berücksichtigung der kognitiven und emotionalen Entwicklung des Kindes zu erfolgen (vgl. Art. 153 StPO: besondere Vorsicht bei Einvernahme von Kindern).
 
-**Lit. c** schützt Personen, die wegen eingeschränkter Urteilsfähigkeit nicht in der Lage sind, den Gegenstand der Einvernahme zu erfassen. Der Begriff der Urteilsfähigkeit entspricht dem allgemeinen Begriff in Art. 16 ZGB: Die Fähigkeit, aufgrund von Einsicht und freiem Willen zu handeln. Die eingeschränkte Urteilsfähigkeit kann auf geistiger Behinderung, psychischer Störung, Alkohol- oder Drogeneinfluss, altersbedingter Demenz oder vorübergehenden Zuständen ( Schock, Bewusstseinsstörung) beruhen. Die Beurteilung der Urteilsfähigkeit obliegt der einvernehmenden Behörde; im Zweifel ist eine sachverständliche Begutachtung zu veranlassen.
+**Lit. c** schützt Personen, die wegen eingeschränkter Urteilsfähigkeit nicht in der Lage sind, den Gegenstand der Einvernahme zu erfassen. Der Begriff der Urteilsfähigkeit entspricht dem allgemeinen Begriff in Art. 16 ZGB: Die Fähigkeit, aufgrund von Einsicht und freiem Willen zu handeln. Die eingeschränkte Urteilsfähigkeit kann auf geistiger Behinderung, psychischer Störung, Alkohol- oder Drogeneinfluss, altersbedingter Demenz oder vorübergehenden Zuständen (Schock, Bewusstseinsstörung) beruhen. Die Beurteilung der Urteilsfähigkeit obliegt der einvernehmenden Behörde; im Zweifel ist eine sachverständliche Begutachtung zu veranlassen.
 
 Beide Tatbestände (lit. b und c) beruhen auf der Erwägung, dass diese Personen die Tragweite einer Einvernahme als Zeugin oder Zeuge — insbesondere die Wahrheitspflicht und die Strafbarkeit des Falschzeugnisses (Art. 307 StGB) — nicht in vollem Umfang erfassen können. Die Einvernahme als Auskunftsperson mildert die Anforderungen und vermeidet eine Überforderung der einvernommenen Person.
 
@@ -180,7 +180,7 @@ Die einvernehmende Behörde hat die Auskunftsperson über ihre prozessuale Rolle
 - die Aussagepflicht und die Wahrheitspflicht;
 - die Strafbarkeit einer falschen Auskunft (Art. 303 StGB) bzw. eines falschen Zeugnisses (Art. 307 StGB), falls eine spätere Umqualifizierung zur Zeugin oder zum Zeugen in Betracht kommt;
 - die bestehenden Aussageverweigerungsrechte;
-- das Recht auf einen Beistand (Art. 127 Abs. 3 StPO), soweit applicable.
+- das Recht auf einen Beistand (Art. 127 Abs. 3 StPO), soweit einschlägig.
 
 Unterbleibt die Belehrung, so können die Aussagen der Auskunftsperson unverwertbar sein. Das Bundesgericht hat dies in [BGE 141 IV 20](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_20) im Zusammenhang mit der Privatklägerschaft als Auskunftsperson offen gelassen (E. 1.2.4, Regeste b), was zeigt, dass die Rechtsfolgen bei unterbliebenem Hinweis auf Aussageverweigerungsrechte im Einvernahmestadium noch nicht abschliessend geklärt sind.
 
