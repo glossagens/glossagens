@@ -78,6 +78,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 309](art-309) | Einstellungsverfügung |
 | [Art. 310](art-310) | Einstellung im summarischen Verfahren |
 | [Art. 319](art-319) | Gründe der Einstellung |
+| [Art. 320](art-320) | Einstellungsverfügung |
 | [Art. 322](art-322) | Genehmigung und Rechtsmittel (Einstellungsverfügung) |
 | [Art. 324](art-324) | Grundsätze (Anklageerhebung) |
 | [Art. 325](art-325) | Inhalt der Anklageschrift |
