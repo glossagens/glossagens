@@ -36,7 +36,7 @@ Die Legende muss **lebensnah und konsistent** sein. Widersprüche in der Tarnide
 
 ### 3. Verhältnis zu Art. 285a StPO
 
-Die Ausstattung mit einer Legende erfolgt im Rahmen der nach [Art. 285a](art-285a) StPO angeordneten verdeckten Ermittlung. Art. 285a StPO regelt die **Voraussetzungen** (Verdacht einer schweren Straftat, Subsidiarität, richterliche Genehmigung), Art. 288 Abs. 1 StPO die **praktische Durchführung** der Tarnung. Die Legende ist kein eigenständiger Eingriff, sondern **integraler Bestandteil** der verdeckten Ermittlung; ihre Erstellung bedarf daher keiner separaten richterlichen Genehmigung, sondern fällt unter die Genehmigung der verdeckten Ermittlung nach Art. 285a Abs. 3 StPO.
+Die Ausstattung mit einer Legende erfolgt im Rahmen der nach Art. 285a StPO angeordneten verdeckten Ermittlung. Art. 285a StPO regelt die **Voraussetzungen** (Verdacht einer schweren Straftat, Subsidiarität, richterliche Genehmigung), Art. 288 Abs. 1 StPO die **praktische Durchführung** der Tarnung. Die Legende ist kein eigenständiger Eingriff, sondern **integraler Bestandteil** der verdeckten Ermittlung; ihre Erstellung bedarf daher keiner separaten richterlichen Genehmigung, sondern fällt unter die Genehmigung der verdeckten Ermittlung nach Art. 285a Abs. 3 StPO.
 
 ## III. Zusicherung der Anonymität (Abs. 2)
 
@@ -66,7 +66,7 @@ Die Belehrung von Zeuginnen und Zeugen (Art. 177 StPO) erfolgt bei verdeckten Er
 
 ### 1. Zuständigkeit des Zwangsmassnahmengerichts
 
-Abs. 3 regelt einen besonderen Fall: Begehen verdeckte Ermittlerinnen oder Ermittler **während ihres Einsatzes eine Straftat**, so entscheidet das **Zwangsmassnahmengericht**, unter welcher Identität das Strafverfahren geführt wird. Diese Regelung ist notwendig, weil die verdeckte Ermittlerperson im Rahmen ihres Einsatzes — etwa bei der Teilnahme an strafbaren Handlungen zur Aufdeckung einer Straftat (vgl. Art. 293 StPO zum Mass der zulässigen Einwirkung) — selbst Straftatbestände erfüllen kann. In diesem Fall entsteht ein **Doppelverhältnis**: Die verdeckte Ermittlerperson ist一方面 Ermittlerperson, andererseits möglicherweise selbst Beschuldigte.
+Abs. 3 regelt einen besonderen Fall: Begehen verdeckte Ermittlerinnen oder Ermittler **während ihres Einsatzes eine Straftat**, so entscheidet das **Zwangsmassnahmengericht**, unter welcher Identität das Strafverfahren geführt wird. Diese Regelung ist notwendig, weil die verdeckte Ermittlerperson im Rahmen ihres Einsatzes — etwa bei der Teilnahme an strafbaren Handlungen zur Aufdeckung einer Straftat (vgl. Art. 293 StPO zum Mass der zulässigen Einwirkung) — selbst Straftatbestände erfüllen kann. In diesem Fall entsteht ein **Doppelverhältnis**: Die verdeckte Ermittlerperson ist einerseits Ermittlerperson, andererseits möglicherweise selbst Beschuldigte.
 
 ### 2. Entscheidung über die Identität
 
@@ -84,11 +84,11 @@ Die praktische Bedeutung von Abs. 3 ist **gering**, da Straftaten verdeckter Erm
 
 ### 1. mit Art. 285a StPO
 
-[Art. 285a](art-285a) StPO regelt die **Voraussetzungen** der verdeckten Ermittlung (Verdacht einer schweren Straftat, Subsidiarität, richterliche Genehmigung). Art. 288 StPO regelt die **praktische Ausgestaltung** der Massnahme hinsichtlich Legende und Identitätsschutz. Beide Normen sind gemeinsam zu lesen: Die Anordnungsvoraussetzungen von Art. 285a StPO rechtfertigen den Einsatz, Art. 288 StPO schützt die Ermittlerperson während und nach dem Einsatz.
+Art. 285a StPO regelt die **Voraussetzungen** der verdeckten Ermittlung (Verdacht einer schweren Straftat, Subsidiarität, richterliche Genehmigung). Art. 288 StPO regelt die **praktische Ausgestaltung** der Massnahme hinsichtlich Legende und Identitätsschutz. Beide Normen sind gemeinsam zu lesen: Die Anordnungsvoraussetzungen von Art. 285a StPO rechtfertigen den Einsatz, Art. 288 StPO schützt die Ermittlerperson während und nach dem Einsatz.
 
 ### 2. mit Art. 289 StPO
 
-[Art. 289](art-289) StPO regelt das **Genehmigungsverfahren** für die verdeckte Ermittlung. Die Genehmigung umfasst auch die Ausstattung mit einer Legende (Art. 288 Abs. 1 StPO). Die Zusicherung der Anonymität nach Art. 288 Abs. 2 StPO ist demgegenüber eine separate Ermessensentscheidung der Staatsanwaltschaft, die nicht Teil der richterlichen Genehmigung ist, aber mit dieser koordiniert werden muss.
+Art. 289 StPO regelt das **Genehmigungsverfahren** für die verdeckte Ermittlung. Die Genehmigung umfasst auch die Ausstattung mit einer Legende (Art. 288 Abs. 1 StPO). Die Zusicherung der Anonymität nach Art. 288 Abs. 2 StPO ist demgegenüber eine separate Ermessensentscheidung der Staatsanwaltschaft, die nicht Teil der richterlichen Genehmigung ist, aber mit dieser koordiniert werden muss.
 
 ### 3. mit Art. 293 StPO
 
@@ -100,7 +100,7 @@ Art. 297 Abs. 3 StPO regelt die **Identifikation von Zeuginnen und Zeugen** im G
 
 ### 5. mit Art. 177 und 178 StPO
 
-[Art. 177](art-177) StPO regelt die Belehrung von Zeuginnen und Zeugen, [Art. 178](art-178) StPO den Begriff der Auskunftsperson. Verdeckte Ermittlerinnen und Ermittler können im Gerichtsverfahren in beiden Funktionen auftreten. Die Belehrung nach Art. 177 StPO erfolgt unter der Tarnidentät, sofern die Staatsanwaltschaft die Anonymität nach Art. 288 Abs. 2 StPO zugesichert hat.
+Art. 177 StPO regelt die Belehrung von Zeuginnen und Zeugen, Art. 178 StPO den Begriff der Auskunftsperson. Verdeckte Ermittlerinnen und Ermittler können im Gerichtsverfahren in beiden Funktionen auftreten. Die Belehrung nach Art. 177 StPO erfolgt unter der Tarnidentität, sofern die Staatsanwaltschaft die Anonymität nach Art. 288 Abs. 2 StPO zugesichert hat.
 
 ## VI. Verhältnis zum früheren Bundesgesetz über die verdeckte Ermittlung (BVE)
 
