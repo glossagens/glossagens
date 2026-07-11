@@ -103,6 +103,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 430](art-430) | Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung |
 | [Art. 431](art-431) | Entschädigung und Genugtuung wegen Zwangsmassnahmen |
 | [Art. 432](art-432) | Ansprüche gegenüber Privatklägerschaft |
+| [Art. 433](art-433) | Privatklägerschaft |
 | [Art. 435](art-435) | Verjährung |
 | [Art. 436](art-436) | Entschädigung und Genugtuung im Rechtsmittelverfahren |
 | [Art. 448](art-448) | Anwendbares Recht |
