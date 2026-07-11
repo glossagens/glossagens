@@ -52,7 +52,7 @@ Das Bundesgericht hat dies in [BGE 146 IV 211](https://mcp.opencaselaw.ch/entsch
 
 #### 2. Voraussetzung: Hinreichende Begründung und Bezifferung
 
-Der zwingende Entscheid bei Schuldspruch setzt voraus, dass die Zivilklage hinreichend begründet und beziffert wurde ([Art. 123 StPO](../art-123), der als reiner Textverweis verbleibt, da noch nicht kommentiert). Hat die Privatklägerschaft ihre Klage nicht hinreichend begründet oder beziffert, so wird die Zivilklage auf den Zivilweg verwiesen (Abs. 2 lit. b). Das Gericht ist nicht verpflichtet, den Zivilanspruch von Amtes wegen zu beziffern oder zu substantiieren — diese Obliegenheit liegt bei der Privatklägerschaft.^6
+Der zwingende Entscheid bei Schuldspruch setzt voraus, dass die Zivilklage hinreichend begründet und beziffert wurde (Art. 123 StPO, nicht kommentiert). Hat die Privatklägerschaft ihre Klage nicht hinreichend begründet oder beziffert, so wird die Zivilklage auf den Zivilweg verwiesen (Abs. 2 lit. b). Das Gericht ist nicht verpflichtet, den Zivilanspruch von Amtes wegen zu beziffern oder zu substantiieren — diese Obliegenheit liegt bei der Privatklägerschaft.^6
 
 #### 3. Haftung des Geldwäschers für Vortatsschaden
 

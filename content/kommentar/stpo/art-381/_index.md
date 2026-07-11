@@ -89,7 +89,7 @@ agent_verified: true
 ## Querverweise
 
 - [Art. 16 StPO](../art-016) — Staatsanwaltschaft (Verfahrensleitung im Vorverfahren)
-- Art. 104 StPO — Parteien (Staatsanwaltschaft als Partei im gerichtlichen Verfahren) *(noch nicht kommentiert)*
+- [Art. 104 StPO](../art-104) — Parteien (Staatsanwaltschaft als Partei im gerichtlichen Verfahren)
 - [Art. 111 BGG](https://www.fedlex.admin.ch/eli/cc/2007/675/de) — Einheit des Verfahrens
 - [Art. 81 Abs. 1 lit. b Ziff. 3 BGG](https://www.fedlex.admin.ch/eli/cc/2007/675/de) — Beschwerdelegitimation der Staatsanwaltschaft vor Bundesgericht
 - [Art. 127 StPO](../art-127) — Rechtsbeistand

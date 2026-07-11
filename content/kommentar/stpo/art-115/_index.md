@@ -109,7 +109,7 @@ Aus der Geschädigtenstellung nach Art. 115 StPO ergeben sich — auch ohne Kons
 
 ### Querverweise
 
-- Art. 104 StPO — Parteien *(nicht kommentiert)*
+- [Art. 104 StPO](../art-104) — Parteien
 - [Art. 113 StPO](../art-113) — Stellung der beschuldigten Person
 - Art. 116 StPO — Rechte der geschädigten Person *(nicht kommentiert)*
 - Art. 117 StPO — Befragung der geschädigten Person *(nicht kommentiert)*

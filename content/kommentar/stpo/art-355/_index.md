@@ -33,7 +33,7 @@ agent_verified: true
 **2** **Systematik.** Art. 355 steht zwischen Art. 354 (Einsprache) und Art. 356 (Verfahren vor dem erstinstanzlichen Gericht). Die vier Optionen von Abs. 3 bestimmen die weiteren Verfahrenswege:
 - **lit. a** (festhalten) → Art. 356 StPO (Übergang an Gericht, Strafbefehl als Anklageschrift)
 - **lit. b** (einstellen) → Einstellungsverfügung (Art. 319 StPO analog)
-- **lit. c** (neuer Strabbefehl) → Art. 353 ff. StPO (neuerlicher Strafbefehlszyklus)
+- **lit. c** (neuer Strafbefehl) → Art. 353 ff. StPO (neuerlicher Strafbefehlszyklus)
 - **lit. d** (Anklage) → Art. 324 ff. StPO (ordentliches Gerichtsverfahren)
 
 ## Kommentierung
@@ -64,9 +64,9 @@ agent_verified: true
 
 #### 3. Neuer Strafbefehl (lit. c)
 
-**10** Die Staatsanwaltschaft kann nach Einsprache gegen den ersten Strafbefehl einen **neuen Strafbefehl** erlassen. Vom Erlass eines neuen Strabbefehls im Sinne von Art. 355 Abs. 3 lit. c StPO mit neuem Schuldspruch und/oder neuer Sanktion ist das blossen Beibehalten des ersten Strafbefehls zu unterscheiden. Gegen den neuen Strafbefehl ist **erneut Einsprache** zu erheben ([BGE 145 IV 438](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_438) — Art. 353 Abs. 1 lit. c–e, Art. 354 Abs. 1 lit. a und Abs. 3, Art. 355 Abs. 1 und 3, Art. 356 Abs. 1 StPO; Erlass eines neuen Strafbefehls nach Einsprache gegen den ersten Strafbefehl; Pflicht, gegen den zweiten Strafbefehl erneut Einsprache zu erheben).
+**10** Die Staatsanwaltschaft kann nach Einsprache gegen den ersten Strafbefehl einen **neuen Strafbefehl** erlassen. Vom Erlass eines neuen Strafbefehls im Sinne von Art. 355 Abs. 3 lit. c StPO mit neuem Schuldspruch und/oder neuer Sanktion ist das blossen Beibehalten des ersten Strafbefehls zu unterscheiden. Gegen den neuen Strafbefehl ist **erneut Einsprache** zu erheben ([BGE 145 IV 438](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_438) — Art. 353 Abs. 1 lit. c–e, Art. 354 Abs. 1 lit. a und Abs. 3, Art. 355 Abs. 1 und 3, Art. 356 Abs. 1 StPO; Erlass eines neuen Strafbefehls nach Einsprache gegen den ersten Strafbefehl; Pflicht, gegen den zweiten Strafbefehl erneut Einsprache zu erheben).
 
-**11** **Keine Verjährungshemmung.** Ein Strabbefehl, gegen welchen Einsprache erhoben wurde, ist kein erstinstanzliches Urteil im Sinne von Art. 97 Abs. 3 StGB, nach dessen Ausfällung die Verjährung nicht mehr eintritt ([BGE 142 IV 11](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_11) E. 1.2.2 — Art. 354 Abs. 3 StPO, Art. 97 Abs. 3 StGB). Dies gilt auch für den neuen Strafbefehl nach lit. c: Solange Einsprache erhoben wird, hemmt der Strafbefehl die Verjährung nicht. Erst ein nach Anklage (lit. d) gefälltes Urteil beendet die Verfolgungsverjährung. Auch bei Übertretungen tritt die Verfolgungsverjährung nach einem erstinstanzlichen Urteil nicht mehr ein ([BGE 135 IV 196](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_196) — Art. 97 Abs. 3 und Art. 104 StGB).
+**11** **Keine Verjährungshemmung.** Ein Strafbefehl, gegen welchen Einsprache erhoben wurde, ist kein erstinstanzliches Urteil im Sinne von Art. 97 Abs. 3 StGB, nach dessen Ausfällung die Verjährung nicht mehr eintritt ([BGE 142 IV 11](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_11) E. 1.2.2 — Art. 354 Abs. 3 StPO, Art. 97 Abs. 3 StGB). Dies gilt auch für den neuen Strafbefehl nach lit. c: Solange Einsprache erhoben wird, hemmt der Strafbefehl die Verjährung nicht. Erst ein nach Anklage (lit. d) gefälltes Urteil beendet die Verfolgungsverjährung. Auch bei Übertretungen tritt die Verfolgungsverjährung nach einem erstinstanzlichen Urteil nicht mehr ein ([BGE 135 IV 196](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_196) — Art. 97 Abs. 3 und Art. 104 StGB).
 
 #### 4. Anklage erheben (lit. d)
 
