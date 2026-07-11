@@ -35,6 +35,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 115](art-115) | Geschädigte Person |
 | [Art. 118](art-118) | Begriff und Voraussetzungen (Privatklägerschaft) |
 | [Art. 124](art-124) | Zuständigkeit und Verfahren (Zivilanspruch) |
+| [Art. 126](art-126) | Entscheid (Zivilklage) |
 | [Art. 127](art-127) | Rechtsbeistand |
 | [Art. 130](art-130) | Notwendige Verteidigung |
 | [Art. 132](art-132) | Amtliche Verteidigung |
