@@ -77,8 +77,8 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 288](art-288) | Legende und Zusicherung der Anonymität |
 | [Art. 289](art-289) | Genehmigungsverfahren (verdeckte Ermittlung) |
 | [Art. 293](art-293) | Mass der zulässigen Einwirkung |
-| [Art. 309](art-309) | Einstellungsverfügung |
-| [Art. 310](art-310) | Einstellung im summarischen Verfahren |
+| [Art. 309](art-309) | Eröffnung der Untersuchung |
+| [Art. 310](art-310) | Nichtanhandnahmeverfügung |
 | [Art. 319](art-319) | Gründe der Einstellung |
 | [Art. 320](art-320) | Einstellungsverfügung |
 | [Art. 322](art-322) | Genehmigung und Rechtsmittel (Einstellungsverfügung) |

@@ -40,7 +40,7 @@ Eine **global gehaltene** Einstellungsverfügung, die sich nicht mit den einzeln
 
 ### 2. Bezugnahme auf die Akten
 
-Die Einstellungsverfügung kann sich zur Begründung auf die Akten beziehen (Art. 81 Abs. 2 StPO). Dies setzt voraus, dass die Akten für sich alone — insbesondere für die beschuldigte Person und die Privatklägerschaft im Beschwerdeverfahren — ausreichend Aufschluss über die Einstellungsgründe geben.
+Die Einstellungsverfügung kann sich zur Begründung auf die Akten beziehen (Art. 81 Abs. 2 StPO). Dies setzt voraus, dass die Akten für sich allein — insbesondere für die beschuldigte Person und die Privatklägerschaft im Beschwerdeverfahren — ausreichend Aufschluss über die Einstellungsgründe geben.
 
 ## III. Aufhebung von Zwangsmassnahmen und Einziehung (Abs. 2)
 

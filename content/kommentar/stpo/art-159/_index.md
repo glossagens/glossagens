@@ -87,7 +87,7 @@ Art. 159 Abs. 3 StPO stellt klar, dass die Geltendmachung der Rechte aus Abs. 1 
 
 Art. 159 Abs. 3 StPO schränkt das Anwesenheitsrecht der Verteidigung nach Abs. 1 nicht inhaltlich ein, sondern regelt die zeitliche Dimension. Die Polizei ist nicht verpflichtet, mit der Einvernahme zu warten, bis die Verteidigung eintrifft. Die Einvernahme kann auch ohne Anwesenheit der Verteidigung durchgeführt werden, sofern die beschuldigte Person zuvor die Möglichkeit hatte, ihre Verteidigung zu informieren, und die Verteidigung in zumutbarer Weise anwesend sein kann. Die beschuldigte Person kann sich nicht darauf berufen, dass sie die Einvernahme ohne ihre Verteidigung nicht durchführen lassen müsse.
 
-#### 3. praktische Auswirkungen
+#### 3. Praktische Auswirkungen
 
 In der Praxis bedeutet Art. 159 Abs. 3 StPO, dass die beschuldigte Person ihre Verteidigung informieren muss, sobald sie weiss, dass eine polizeiliche Einvernahme ansteht oder dass sie vorläufig festgenommen worden ist. Die Polizei muss der beschuldigten Person die Möglichkeit einräumen, ihre Verteidigung zu kontaktieren (vgl. die Belehrungspflicht nach Art. 158 Abs. 1 lit. c StPO). Verhindert die Verteidigung ihr Erscheinen nicht unverzüglich, kann die Einvernahme ohne sie durchgeführt werden. Die beschuldigte Person muss die Konsequenzen einer ohne Verteidigung durchgeführten Einvernahme tragen.
 
@@ -140,7 +140,7 @@ In BGer 6B_128/2018 vom 8. Februar 2019 (Fahren in fahrunfähigem Zustand) und B
 
 In BGer 1B_66/2015 vom 12. August 2015 (Strafverfahren; amtliche Verteidigung) befasste sich das Bundesgericht mit dem Übergang von der Wahlverteidigung zur amtlichen Verteidigung und den sich daraus ergebenden Folgen für die Teilnahmerechte nach Art. 159 StPO. Wird eine amtliche Verteidigung bestellt, gelten für deren Anwesenheitsrecht bei polizeilichen Einvernahmen die gleichen Regeln wie für die Wahlverteidigung.
 
-#### 5. psychiatrische Exploration und Art. 159 StPO
+#### 5. Psychiatrische Exploration und Art. 159 StPO
 
 In BGer 1B_520/2017 vom 4. Juli 2018 (Teilnahme des Verteidigers bei der Exploration des Beschuldigten) machte der Beschwerdeführer geltend, sein Verteidiger müsse bei psychiatrisch-forensischen Explorationen anwesend sein. Das Bundesgericht verneinte einen solchen Anspruch: Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Art. 159 StPO, bei forensisch-psychiatrischen Explorationen greift Art. 159 StPO aber nicht ein, da die Exploration keine polizeiliche Einvernahme darstellt (E. 3.3, 3.7). Das Verhör des Beschuldigten und die Beweisaussagen der Parteien erfüllen andere gesetzliche Funktionen als eine forensisch-psychiatrische Begutachtung (E. 3.7). Der Verteidiger hat keinen Anspruch auf Teilnahme an der psychiatrischen Exploration durch die sachkundige Person (E. 3.9).
 

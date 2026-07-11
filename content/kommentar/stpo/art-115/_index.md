@@ -119,4 +119,4 @@ Aus der Geschädigtenstellung nach Art. 115 StPO ergeben sich — auch ohne Kons
 - Art. 30 StGB — Strafantrag
 - Art. 81 BGG — Beschwerdelegitimation
 - [Art. 382 StPO](../art-382) — Beschwerdegegenstand
-- [Art. 310 StPO](../art-310) — Einstellung im summarischen Verfahren
+- [Art. 310 StPO](../art-310) — Nichtanhandnahmeverfügung

@@ -116,8 +116,8 @@ agent_verified: true
 - **[Art. 127 StPO](../art-127)** — Rechtsbeistand
 - **[Art. 147 StPO](../art-147)** — Teilnahmerecht der Parteien bei Beweiserhebungen
 - **[Art. 248 StPO](../art-248)** — Siegelung (Parteistellung im Entsiegelungsverfahren)
-- **[Art. 309 StPO](../art-309)** — Einstellungsverfügung
-- **[Art. 310 StPO](../art-310)** — Einstellung im summarischen Verfahren
+- **[Art. 309 StPO](../art-309)** — Eröffnung der Untersuchung
+- **[Art. 310 StPO](../art-310)** — Nichtanhandnahmeverfügung
 - **[Art. 324 StPO](../art-324)** — Grundsätze (Anklageerhebung)
 - **[Art. 381 StPO](../art-381)** — Legitimation der Staatsanwaltschaft (Rechtsmittel)
 - **[Art. 382 StPO](../art-382)** — Beschwerdegegenstand

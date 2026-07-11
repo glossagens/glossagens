@@ -86,8 +86,8 @@ agent_verified: true
 - [Art. 127 StPO](../art-127) — Rechtsbeistand
 - [Art. 139 StPO](../art-139) — Grundsätze der Beweisführung
 - [Art. 147 StPO](../art-147) — Teilnahmerecht der Parteien bei Beweiserhebungen
-- [Art. 309 StPO](../art-309) — Einstellungsverfügung
-- [Art. 310 StPO](../art-310) — Einstellung im summarischen Verfahren
+- [Art. 309 StPO](../art-309) — Eröffnung der Untersuchung
+- [Art. 310 StPO](../art-310) — Nichtanhandnahmeverfügung
 - [Art. 319 StPO](../art-319) — Gründe der Einstellung
 - [Art. 382 StPO](../art-382) — Beschwerdegegenstand
 - [Art. 427 StPO](../art-427) — Kostentragungspflicht der Privatklägerschaft
