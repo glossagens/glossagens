@@ -52,15 +52,15 @@ Die Staatsanwaltschaft meldet dem Gericht die **Privatklägerschaft** sowie dere
 
 ### 2. Angeordnete Zwangsmassnahmen (lit. b)
 
-Die Mitteilung der **angewordneten Zwangsmassnahmen** dient der Information des Gerichts über die im Vorverfahren getroffenen einschneidenden Massnahmen — namentlich Untersuchungshaft (→ [Art. 212](../art-212/)), Ersatzmassnahmen (→ [Art. 237](../art-237/)), Beschlagnahmen (→ [Art. 263](../art-263/), [Art. 264](../art-264/)) und Überwachungsmassnahmen. Dies ermöglicht dem Gericht, die weitere Vorgehensweise zu planen und allfällige Aufhebungs- oder Änderungsentscheide zu treffen.
+Die Mitteilung der **angeordneten Zwangsmassnahmen** dient der Information des Gerichts über die im Vorverfahren getroffenen einschneidenden Massnahmen — namentlich Untersuchungshaft (→ [Art. 212](../art-212/)), Ersatzmassnahmen (→ [Art. 237](../art-237/)), Beschlagnahmen (→ [Art. 263](../art-263/), [Art. 264](../art-264/)) und Überwachungsmassnahmen. Dies ermöglicht dem Gericht, die weitere Vorgehensweise zu planen und allfällige Aufhebungs- oder Änderungsentscheide zu treffen.
 
 ### 3. Beschlagnahmte Gegenstände und Vermögenswerte (lit. c)
 
-Die Angabe der **beschlagnahmten Gegenstände und Vermögenswerte** ist Voraussetzung für die Einziehung (Art. 70 StGB) bzw. die Einziehung nach StPO und für allfällige Ersatzforderungen (Art. 71 StGB). Das Gericht muss wissen, welche Vermögenswerte zur Verfügung stehen, um über deren rechtmässiges Schicksal entscheiden zu können. Hier gilt — wie bei lit. b —, dass dieStaatsanwaltschaft eine vollständige Übersicht zu liefern hat.
+Die Angabe der **beschlagnahmten Gegenstände und Vermögenswerte** ist Voraussetzung für die Einziehung (Art. 70 StGB) bzw. die Einziehung nach StPO und für allfällige Ersatzforderungen (Art. 71 StGB). Das Gericht muss wissen, welche Vermögenswerte zur Verfügung stehen, um über deren rechtmässiges Schicksal entscheiden zu können. Hier gilt — wie bei lit. b —, dass die Staatsanwaltschaft eine vollständige Übersicht zu liefern hat.
 
 ### 4. Untersuchungskosten (lit. d)
 
-Die ** entstandenen Untersuchungskosten** sind dem Gericht mitzuteilen, damit dieses über die Kostenfolge entscheiden kann (→ Art. 426 ff. StPO). Die Untersuchungskosten umfassen die Auslagen des Vorverfahrens, namentlich Gutachten, Übersetzungen, Reisespesen von Zeuginnen und Zeugen sowie die Entschädigung der amtlichen Verteidigung im Vorverfahren. Die genaue Angabe ist Voraussetzung für eine korrekte Kostentragungspflicht der beschuldigten Person (→ [Art. 426](../art-426/)) und allfällige Kostenteilung mit der Privatklägerschaft (→ [Art. 427](../art-427/)).
+Die **entstandenen Untersuchungskosten** sind dem Gericht mitzuteilen, damit dieses über die Kostenfolge entscheiden kann (→ Art. 426 ff. StPO). Die Untersuchungskosten umfassen die Auslagen des Vorverfahrens, namentlich Gutachten, Übersetzungen, Reisespesen von Zeuginnen und Zeugen sowie die Entschädigung der amtlichen Verteidigung im Vorverfahren. Die genaue Angabe ist Voraussetzung für eine korrekte Kostentragungspflicht der beschuldigten Person (→ [Art. 426](../art-426/)) und allfällige Kostenteilung mit der Privatklägerschaft (→ [Art. 427](../art-427/)).
 
 ### 5. Antrag auf Anordnung der Sicherheitshaft (lit. e)
 
