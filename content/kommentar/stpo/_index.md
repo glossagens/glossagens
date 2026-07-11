@@ -56,6 +56,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 227](art-227) | Haftverlängerungsgesuch |
 | [Art. 228](art-228) | Haftentlassungsgesuch |
 | [Art. 229](art-229) | Entscheid über die Anordnung der Sicherheitshaft |
+| [Art. 231](art-231) | Sicherheitshaft nach dem erstinstanzlichen Urteil |
 | [Art. 233](art-233) | Haftentlassungsgesuch vor Berufungsgericht |
 | [Art. 236](art-236) | Vorzeitiger Straf- und Massnahmenvollzug |
 | [Art. 237](art-237) | Ersatzmassnahmen |
