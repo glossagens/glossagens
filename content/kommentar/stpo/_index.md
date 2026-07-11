@@ -20,6 +20,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 9](art-009) | Anklagegrundsatz |
 | [Art. 10](art-010) | Unschuldsvermutung und Beweiswürdigung |
 | [Art. 11](art-011) | Verbot der doppelten Strafverfolgung |
+| [Art. 15](art-015) | Polizei |
 | [Art. 16](art-016) | Staatsanwaltschaft |
 | [Art. 56](art-056) | Grundsätze der Vermischung von Freiheitsstrafen und Massnahmen |
 | [Art. 59](art-059) | Entscheid über Ausstandsbegehren |
