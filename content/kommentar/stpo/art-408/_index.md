@@ -97,7 +97,7 @@ agent_verified: true
 - **Art. 398 StPO** — Zulässigkeit und Berufungsgründe: Das Berufungsgericht verfügt über umfassende Kognition in tatsächlicher und rechtlicher Hinsicht. Siehe [Art. 398](../art-398/).
 - **Art. 409 StPO** — Aufhebung und Rückweisung: Die Ausnahme vom reformatorischen Grundsatz bei nicht heilbaren Mängeln.
 - **Art. 410 StPO** — Revision: Ein abgeschlossenes Verfahren kann unter bestimmten Voraussetzungen wieder aufgenommen werden. Siehe [Art. 410](../art-410/).
-- **Art. 429 StPO** — Ansprüche: Entschädigungsansprüche bei Freispruch oder Einstellung. Siehe [Art. 429](../art-429/).
+- **Art. 429 StPO** — Entschädigung und Genugtuung: Entschädigungsansprüche bei Freispruch oder Einstellung. Siehe [Art. 429](../art-429/).
 
 ## Literatur
 

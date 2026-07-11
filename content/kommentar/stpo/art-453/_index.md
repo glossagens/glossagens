@@ -121,7 +121,7 @@ Die Praxis hat die Norm in zahlreichen Konstellationen angewendet: von Einstellu
 
 - **Art. 448 StPO** — Anwendbares Recht (allgemeiner Grundsatz der Fortführung hängiger Verfahren nach neuem Recht; Art. 453 Abs. 1 ist Ausnahme davon): siehe [Art. 448](../art-448/)
 - **Art. 454 StPO** — Nach Inkrafttreten gefällte Entscheide (Gegenstück zu Art. 453; massgebend für nach dem 31. Dezember 2010 gefällte erstinstanzliche Entscheide)
-- **Art. 429 StPO** — Ansprüche (Entschädigung bei Freispruch; intertemporale Anwendbarkeit geklärt in BGE 137 IV 352): siehe [Art. 429](../art-429/)
+- **Art. 429 StPO** — Entschädigung und Genugtuung (Entschädigung bei Freispruch; intertemporale Anwendbarkeit geklärt in BGE 137 IV 352): siehe [Art. 429](../art-429/)
 - **Art. 430 StPO** — Herabsetzung/Verweigerung der Entschädigung (intertemporale Anwendbarkeit geklärt in BGE 137 IV 352)
 - **Art. 431 StPO** — Ansprüche gegenüber Privatklägerschaft: siehe [Art. 431](../art-431/)
 - **Art. 428 StPO** — Kostentragung im Rechtsmittelverfahren: siehe [Art. 428](../art-428/)

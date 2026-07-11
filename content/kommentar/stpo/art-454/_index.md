@@ -130,7 +130,7 @@ Die Praxis hat die Norm in zahlreichen Konstellationen angewendet: von Einstellu
 - **Art. 398 StPO** — Zulässigkeit und Berufungsgründe (neues Recht im Rechtsmittelverfahren): siehe [Art. 398](../art-398/)
 - **Art. 426 StPO** — Kostentragungspflicht der beschuldigten Person
 - **Art. 428 StPO** — Kostentragung im Rechtsmittelverfahren: siehe [Art. 428](../art-428/)
-- **Art. 429 StPO** — Ansprüche (Entschädigung bei Freispruch; intertemporale Anwendbarkeit geklärt in BGE 137 IV 352): siehe [Art. 429](../art-429/)
+- **Art. 429 StPO** — Entschädigung und Genugtuung (Entschädigung bei Freispruch; intertemporale Anwendbarkeit geklärt in BGE 137 IV 352): siehe [Art. 429](../art-429/)
 - **Art. 431 StPO** — Ansprüche gegenüber Privatklägerschaft: siehe [Art. 431](../art-431/)
 - **Art. 2 StGB** — Zeitliches Anwendungsrecht im materiellen Strafrecht (nicht zu verwechseln mit dem prozessualen intertemporalen Recht nach Art. 454 StPO)
 

@@ -45,7 +45,7 @@ Absatz 1 setzt voraus, dass die beschuldigte Person **obsiegt** — das bedeutet
 
 #### 2. Umfang des Anspruchs
 
-Der Anspruch aus Absatz 1 deckt nur diejenigen Aufwendungen ab, die **ursächlich auf die Zivilanträge** der Privatklägerschaft zurückgehen. Aufwendungen, die der Verteidigung gegen den strafrechtlichen Vorwurf dienten, fallen nicht unter Absatz 1, sondern werden — soweit die beschuldigte Person im Schuldpunkt obsiegt — nach [Art. 429](../art-429) StPO grundsätzlich vom Staat getragen. Die Trennung zwischen strafrechtlichen und zivilrechtlichen Aufwendungen kann in der Praxis Schwierigkeiten berechen, insbesondere wenn die Verteidigung gegen den Strafvorwurf und gegen die Zivilansprüche untrennbar verbunden sind (BGE 139 IV 102 E. 4.4).
+Der Anspruch aus Absatz 1 deckt nur diejenigen Aufwendungen ab, die **ursächlich auf die Zivilanträge** der Privatklägerschaft zurückgehen. Aufwendungen, die der Verteidigung gegen den strafrechtlichen Vorwurf dienten, fallen nicht unter Absatz 1, sondern werden — soweit die beschuldigte Person im Schuldpunkt obsiegt — nach [Art. 429](../art-429) StPO grundsätzlich vom Staat getragen. Die Trennung zwischen strafrechtlichen und zivilrechtlichen Aufwendungen kann in der Praxis Schwierigkeiten bereiten, insbesondere wenn die Verteidigung gegen den Strafvorwurf und gegen die Zivilansprüche untrennbar verbunden sind (BGE 139 IV 102 E. 4.4).
 
 #### 3. Verhältnis zur Verweisung der Zivilklage auf den Zivilweg
 
@@ -90,7 +90,7 @@ Die drei Bestimmungen sind so aufeinander abgestimmt, dass ein gerechter Ausglei
 
 ### VII. Verhältnis zum Strafbefehlsverfahren
 
-Im Strafbefehlsverfahren gelten Besonderheiten. Kommt es zu einer **Verurteilung der beschuldigten Person durch Strabbefehl**, so obsiegt die Privatklägerschaft als Strafklägerin, weshalb sie für die ihr im Zusammenhang mit der Strafklage erwachsenen Kosten der privaten Verteidigung zu entschädigen ist (BGE 139 IV 102 E. 4.3). Wird die Zivilklage auf den Zivilweg verwiesen, kann die Privatklägerschaft in ihrer Funktion als Zivilklägerin nicht als obsiegende und jedenfalls bei Erlass eines Strafbefehls auch nicht als unterliegende Partei gelten (BGE 139 IV 102 E. 4.4).
+Im Strafbefehlsverfahren gelten Besonderheiten. Kommt es zu einer **Verurteilung der beschuldigten Person durch Strafbefehl**, so obsiegt die Privatklägerschaft als Strafklägerin, weshalb sie für die ihr im Zusammenhang mit der Strafklage erwachsenen Kosten der privaten Verteidigung zu entschädigen ist (BGE 139 IV 102 E. 4.3). Wird die Zivilklage auf den Zivilweg verwiesen, kann die Privatklägerschaft in ihrer Funktion als Zivilklägerin nicht als obsiegende und jedenfalls bei Erlass eines Strafbefehls auch nicht als unterliegende Partei gelten (BGE 139 IV 102 E. 4.4).
 
 Die Privatklägerschaft ist als **weitere Betroffene** im Sinne von [Art. 354](../art-354) Abs. 1 lit. b StPO zur Einsprache legitimiert, wenn ihr im Strafbefehl eine Parteientschädigung ganz oder teilweise verweigert wurde (BGE 139 IV 102 E. 5.2).
 
@@ -118,8 +118,8 @@ Art. 432 StPO gewährt der obsiegenden beschuldigten Person einen Entschädigung
 - [Rechtsprechung zu Art. 432 StPO](rechtsprechung)
 - [Art. 427 StPO — Kostentragungspflicht der Privatklägerschaft](../art-427)
 - [Art. 428 StPO — Kostentragung im Rechtsmittelverfahren](../art-428)
-- [Art. 429 StPO — Ansprüche](../art-429)
+- [Art. 429 StPO — Entschädigung und Genugtuung](../art-429)
 - [Art. 430 StPO — Herabsetzung oder Verweigerung der Entschädigung](../art-430)
-- [Art. 431 StPO — Ansprüche gegenüber Privatklägerschaft](../art-431)
+- [Art. 431 StPO — Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft](../art-431)
 - [Art. 124 StPO — Zuständigkeit und Verfahren (Zivilanspruch)](../art-124)
 - [Art. 354 StPO — Inhalt des Strafbefehls](../art-354)
