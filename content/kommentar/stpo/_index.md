@@ -82,6 +82,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 325](art-325) | Inhalt der Anklageschrift |
 | [Art. 326](art-326) | Weitere Angaben und Anträge |
 | [Art. 333](art-333) | Protokoll über die Hauptverhandlung |
+| [Art. 339](art-339) | Eröffnung; Vor- und Zwischenfragen |
 | [Art. 344](art-344) | Abweichende rechtliche Würdigung |
 | [Art. 345](art-345) | Abschluss des Beweisverfahrens |
 | [Art. 350](art-350) | Bindung an die Anklage; Grundlage des Urteils |
