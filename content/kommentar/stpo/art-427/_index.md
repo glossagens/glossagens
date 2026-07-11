@@ -68,7 +68,7 @@ agent_verified: true
 
 **12** Abs. 2 regelt die Kostenfolge bei **Antragsdelikten** getrennt von der allgemeinen Regel des Abs. 1. Bei Antragsdelikten können die Verfahrenskosten entweder der **antragstellenden Person** (sofern diese mutwillig oder grob fahrlässig die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat) oder der **Privatklägerschaft** auferlegt werden.
 
-**13** Die beiden Alternativen des Abs. 2 sind unterschiedlich voraussetzung:
+**13** Die beiden Alternativen des Abs. 2 haben unterschiedliche Voraussetzungen:
 
 #### 1. Antragstellende Person bei Mutwilligkeit oder grober Fahrlässigkeit
 
@@ -102,7 +102,7 @@ agent_verified: true
 
 **25** Art. 427 StPO ist von mehreren benachbarten Normen abzugrenzen:
 
-- **Art. 426 StPO**: Allgemeine Kostentragungsregel für die beschuldigte Person. Art. 427 StPO ergänzt diese Regel für die Privatklauselpartei.
+- **Art. 426 StPO**: Allgemeine Kostentragungsregel für die beschuldigte Person. Art. 427 StPO ergänzt diese Regel für die Privatklägerschaft.
 - **[Art. 428 StPO](../art-428)**: Kostentragung im Rechtsmittelverfahren. Die Kosten des Rechtsmittelverfahrens richten sich nach Art. 428 StPO, nicht nach Art. 427 StPO. Wie das Bundesgericht in [BGer 6B 370/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_370_2016) E. 1.2 festgehalten hat, richtet sich die Kostenauflage im Rechtsmittelverfahren ausschliesslich nach Art. 428 StPO — die Ausführungen zu Art. 427 StPO sind in diesem Zusammenhang unbehilflich.
 - **[Art. 431 StPO](../art-431)**: Ansprüche der beschuldigten Person *gegenüber* der Privatklägerschaft (Entschädigung bei Freispruch). Art. 427 StPO regelt die Kostentragungspflicht, während Art. 431 StPO den Entschädigungsanspruch der beschuldigten Person gegen die Privatklägerschaft gewährt.
 - **Art. 432 StPO**: Entschädigungspflicht der Privatklägerschaft gegenüber der beschuldigten Person bei Obsiegen der beschuldigten Person.
@@ -118,7 +118,7 @@ agent_verified: true
 
 ### VII. Verhältnis zum Strafbefehlsverfahren
 
-**29** Im Strafbefehlsverfahren stellt sich die Frage der Kostentragungspflicht der Privatklägerschaft in besonderer Weise. [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 3.1 befasste sich mit der Parteientschädigung der Privatklägerschaft bei Erlass eines Strafbefehls und Verweisung der Zivilforderungen auf den Zivilweg. Kommt es zu einer Verurteilung der beschuldigten Person durch Strafbefehl, obsieigt die Privatklägerschaft im Strafpunkt, und die Verweisung der Zivilforderung führt nicht automatisch zu einer Kostenauferlegung nach Art. 427 Abs. 1 lit. c StPO.
+**29** Im Strafbefehlsverfahren stellt sich die Frage der Kostentragungspflicht der Privatklägerschaft in besonderer Weise. [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 3.1 befasste sich mit der Parteientschädigung der Privatklägerschaft bei Erlass eines Strafbefehls und Verweisung der Zivilforderungen auf den Zivilweg. Kommt es zu einer Verurteilung der beschuldigten Person durch Strafbefehl, obsiegt die Privatklägerschaft im Strafpunkt, und die Verweisung der Zivilforderung führt nicht automatisch zu einer Kostenauferlegung nach Art. 427 Abs. 1 lit. c StPO.
 
 **30** [BGer 6B 981/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_981_2017) E. 2.2 befasste sich mit der Frage der Legitimation der Privatklägerschaft zur Einsprache gegen einen Strafbefehl. Die Privatklägerschaft ist als weitere Betroffene gemäss Art. 354 Abs. 1 lit. b StPO zur Einsprache legitimiert, was die kostenrechtliche Position der Privatklägerschaft im Strafbefehlsverfahren stärkt.
 
