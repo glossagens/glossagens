@@ -26,7 +26,7 @@ Die Vorschrift gehört zum Vierten Titel der StPO („Personen, die im Strafverf
 
 #### 1. Allgemeine Formel: Träger des geschützten oder mitgeschützten Rechtsguts
 
-Nach der gefestigten Rechtsprechung des Bundesgerichts ist in seinen Rechten unmittelbar verletzt im Sinne von Art. 115 Abs. 1 StPO, wer Träger des durch die verletzte Strafnorm geschützten oder zumindest mitgeschützten Rechtsguts ist. Diese Formel wurde erstmals in [BGE 138 IV 258](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_258) präzisiert und seither in ständiger Praxis bestätigt ([BGE 140 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_155) E. 3.2; [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_454) E. 2.3.1; [BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170) E. 3.3.1). Die Formel verweist auf das Rechtsgut, das die jeweils verletzte Strafnorm ( Individual- oder Kollektivrechtsgut) schützt. Nicht geschädigt ist, wer nur als reflexiver Betroffener oder Drittbetroffener einen Nachteil erleidet, ohne Träger des unmittelbar geschützten Rechtsguts zu sein.
+Nach der gefestigten Rechtsprechung des Bundesgerichts ist in seinen Rechten unmittelbar verletzt im Sinne von Art. 115 Abs. 1 StPO, wer Träger des durch die verletzte Strafnorm geschützten oder zumindest mitgeschützten Rechtsguts ist. Diese Formel wurde erstmals in [BGE 138 IV 258](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_258) präzisiert und seither in ständiger Praxis bestätigt ([BGE 140 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_155) E. 3.2; [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_454) E. 2.3.1; [BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170) E. 3.3.1). Die Formel verweist auf das Rechtsgut, das die jeweils verletzte Strafnorm (Individual- oder Kollektivrechtsgut) schützt. Nicht geschädigt ist, wer nur als reflexiver Betroffener oder Drittbetroffener einen Nachteil erleidet, ohne Träger des unmittelbar geschützten Rechtsguts zu sein.
 
 #### 2. Unmittelbarkeit der Verletzung
 
@@ -109,13 +109,13 @@ Aus der Geschädigtenstellung nach Art. 115 StPO ergeben sich — auch ohne Kons
 
 ### Querverweise
 
-- [Art. 104 StPO](../art-104) — Parteien
+- Art. 104 StPO — Parteien *(nicht kommentiert)*
 - [Art. 113 StPO](../art-113) — Stellung der beschuldigten Person
-- [Art. 116 StPO](../art-116) — Rechte der geschädigten Person (nicht existierend)
-- [Art. 117 StPO](../art-117) — Befragung der geschädigten Person (nicht existierend)
-- [Art. 118 StPO](../art-118) — Privatklägerschaft (nicht existierend)
-- [Art. 119 StPO](../art-119) — Antragstellende Person (nicht existierend)
-- [Art. 122 StPO](../art-122) — Zivilklage im Strafverfahren (nicht existierend)
+- Art. 116 StPO — Rechte der geschädigten Person *(nicht kommentiert)*
+- Art. 117 StPO — Befragung der geschädigten Person *(nicht kommentiert)*
+- Art. 118 StPO — Privatklägerschaft *(nicht kommentiert)*
+- Art. 119 StPO — Antragstellende Person *(nicht kommentiert)*
+- Art. 122 StPO — Zivilklage im Strafverfahren *(nicht kommentiert)*
 - Art. 30 StGB — Strafantrag
 - Art. 81 BGG — Beschwerdelegitimation
 - [Art. 382 StPO](../art-382) — Beschwerdegegenstand
