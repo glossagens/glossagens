@@ -65,6 +65,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 263](art-263) | Beschlagnahme von Objekten |
 | [Art. 264](art-264) | Beschlagnahme von Vermögenswerten |
 | [Art. 269](art-269) | Rasterfahndung |
+| [Art. 288](art-288) | Legende und Zusicherung der Anonymität |
 | [Art. 293](art-293) | Mass der zulässigen Einwirkung |
 | [Art. 309](art-309) | Einstellungsverfügung |
 | [Art. 310](art-310) | Einstellung im summarischen Verfahren |
