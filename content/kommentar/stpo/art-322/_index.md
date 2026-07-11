@@ -58,7 +58,7 @@ Die Beschwerdefrist beträgt **10 Tage** ab Eröffnung der Einstellungsverfügun
 
 ### 4. Anfechtung der Nichtanhandnahmeverfügung
 
-Art. 322 Abs. 2 StPO gilt **sinngemäss** auch für die Nichtanhandnahmeverfügung nach Art. 310 Abs. 2 StPO. Die Nichtanhamme — die Einstellung vor Eröffnung der Untersuchung — ist ebenfalls innert 10 Tagen bei der Beschwerdeinstanz anfechtbar (Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2 StPO; [BGE 141 IV 380, E. 2.3.5–2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_380); [BStGer BB.2016.24 vom 7. Juni 2016](https://mcp.opencaselaw.ch/entscheid/bstger_BB.2016.24); [BStGer BB.2018.171 vom 15. Januar 2019](https://mcp.opencaselaw.ch/entscheid/bstger_BB.2018.171); → [Art. 310](../art-310/) Rz. III).
+Art. 322 Abs. 2 StPO gilt **sinngemäss** auch für die Nichtanhandnahmeverfügung nach Art. 310 Abs. 2 StPO. Die Nichtanhandnahme — die Einstellung vor Eröffnung der Untersuchung — ist ebenfalls innert 10 Tagen bei der Beschwerdeinstanz anfechtbar (Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2 StPO; [BGE 141 IV 380, E. 2.3.5–2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_380); [BStGer BB.2016.24 vom 7. Juni 2016](https://mcp.opencaselaw.ch/entscheid/bstger_BB.2016.24); [BStGer BB.2018.171 vom 15. Januar 2019](https://mcp.opencaselaw.ch/entscheid/bstger_BB.2018.171); → [Art. 310](../art-310/) Rz. III).
 
 ### 5. Beschwerdelegitimation der Privatklägerschaft
 
@@ -112,7 +112,7 @@ Die Einstellung des Strafverfahrens muss durch eine **beschwerdefähige, formell
 
 ### 2. Implizite Einstellung im Strafbefehl
 
-Wenn die Staatsanwaltschaft durch **Strafbefehl** nur einen Teil der inkriminierten Taten ahndet, muss sie sowohl einen Strafbefehl als auch eine **separate Einstellungsverfügung** erlassen ([BGE 138 IV 241, E. 2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_241); [BGE 148 IV 124, E. 2.6.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124)). Unterlässt die Staatsanwaltschaft die separate Einstellungsverfügung und erlässt nur einen Strafbefehl, der eine **implizite Einstellung** der nicht geahndeten Taten enthält, so ist diese implizite Einstellung **nicht mit Einsprache gegen den Strabbefehl**, sondern **mit Beschwerde** nach Art. 322 Abs. 2 StPO anzufechten ([BGE 138 IV 241, E. 2.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_241)).
+Wenn die Staatsanwaltschaft durch **Strafbefehl** nur einen Teil der inkriminierten Taten ahndet, muss sie sowohl einen Strafbefehl als auch eine **separate Einstellungsverfügung** erlassen ([BGE 138 IV 241, E. 2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_241); [BGE 148 IV 124, E. 2.6.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_124)). Unterlässt die Staatsanwaltschaft die separate Einstellungsverfügung und erlässt nur einen Strafbefehl, der eine **implizite Einstellung** der nicht geahndeten Taten enthält, so ist diese implizite Einstellung **nicht mit Einsprache gegen den Strafbefehl**, sondern **mit Beschwerde** nach Art. 322 Abs. 2 StPO anzufechten ([BGE 138 IV 241, E. 2.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_241)).
 
 ### 3. Teileinstellungsverfügung und ne bis in idem
 
@@ -140,7 +140,7 @@ Im Beschwerdeverfahren gegen die Einstellungsverfügung kann der Privatklägersc
 
 | Norm | Verhältnis zu Art. 322 StPO |
 |------|------------------------------|
-| Art. 310 Abs. 2 StPO | Nichtanhamme — Abs. 2 gilt sinngemäss für die Anfechtung |
+| Art. 310 Abs. 2 StPO | Nichtanhandnahme — Abs. 2 gilt sinngemäss für die Anfechtung |
 | Art. 319 StPO | Einstellungsgründe — materielle Voraussetzungen der Einstellung |
 | Art. 320 StPO | Form und Wirkungen der Einstellungsverfügung |
 | Art. 100 StPO | Fristen — 10-Tages-Frist als Notfrist |

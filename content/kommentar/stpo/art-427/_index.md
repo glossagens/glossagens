@@ -145,7 +145,7 @@ agent_verified: true
 - [Art. 432 StPO](../art-432) — Ansprüche gegenüber Privatklägerschaft
 - Art. 420 StPO — Rückgriff (nicht existierend als Link)
 - Art. 432 StPO — Herabsetzung/Verweigerung der Entschädigung (nicht existierend als Link)
-- Art. 433 StPO — Privatklägerschaft (Entschädigungsanspruch) (nicht existierend als Link)
+- [Art. 433 StPO](../art-433) — Privatklägerschaft (Entschädigungsanspruch)
 - [Art. 448 StPO](../art-448) — Anwendbares Recht (Übergangsbestimmungen)
 
 ## Literatur
