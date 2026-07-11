@@ -140,7 +140,7 @@ agent_verified: true
 
 ## Querverweise
 
-- Art. 426 StPO — Kostentragungspflicht der beschuldigten Person (nicht existierend als Link)
+- [Art. 426 StPO](../art-426) — Kostentragungspflicht der beschuldigten Person
 - [Art. 428 StPO](../art-428) — Kostentragung im Rechtsmittelverfahren
 - [Art. 431 StPO](../art-431) — Ansprüche gegenüber Privatklägerschaft
 - Art. 420 StPO — Rückgriff (nicht existierend als Link)
