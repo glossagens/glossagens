@@ -60,7 +60,7 @@ agent_verified: true
 
 ### VI. Rechtsnachfolge und besondere Konstellationen
 
-**Rz. 15** — *Rechtsnachfolge bei Verstorbenen:* Stirbt die geschädigte Person, gehen ihre Rechte nach [Art. 121 StPO](../art-121) auf die Angehörigen über. Diese sind in der Reihenfolge der Erbberechtigung kumulativ oder alternativ zur Zivil- und Strafklage berechtigt ([BGE 142 IV 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_82), E. 3.2). Im Strafpunkt ist kein gemeinsames Vorgehen der Erben erforderlich; jeder Angehörige kann sich allein als Privatkläger konstituieren (BGE 142 IV 82, E. 3.3).
+**Rz. 15** — *Rechtsnachfolge bei Verstorbenen:* Stirbt die geschädigte Person, gehen ihre Rechte nach Art. 121 StPO auf die Angehörigen über. Diese sind in der Reihenfolge der Erbberechtigung kumulativ oder alternativ zur Zivil- und Strafklage berechtigt ([BGE 142 IV 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_82), E. 3.2). Im Strafpunkt ist kein gemeinsames Vorgehen der Erben erforderlich; jeder Angehörige kann sich allein als Privatkläger konstituieren (BGE 142 IV 82, E. 3.3).
 
 **Rz. 16** — *Juristische Personen und Rechtsnachfolge:* Rechtsnachfolger einer geschädigten natürlichen oder juristischen Person sind als mittelbar Geschädigte einzustufen, die sich grundsätzlich — vorbehältlich der Ausnahmefälle von Art. 121 Abs. 1 und 2 StPO — nicht als Privatkläger im Strafverfahren konstituieren können ([BGE 140 IV 162](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_162)). Insbesondere führt die privatrechtliche Universalsukzession aufgrund einer Fusion nicht zu einer unmittelbaren Geschädigtenstellung der übernehmenden Gesellschaft, sondern zu einer Rechtsnachfolge, die der Konstituierung als Privatklägerin entgegensteht (BGE 140 IV 162).
 

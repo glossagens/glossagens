@@ -98,7 +98,7 @@ Die Sicherheitshaft nach Art. 231 StPO unterliegt den Anforderungen von Art. 5 Z
 
 ### XI. Praxisbeispiele und Anwendungsbereich
 
-Die Praxis zeigt, dass Art. 231 StPO in einer breiten Palette von Strafsachen zur Anwendung kommt — von Vermögensdelikten über Gewaltdelikte bis hin zu organisationierter Kriminalität. Die Sicherheitshaft im Hinblick auf das Berufungsverfahren (Abs. 1 lit. b) wird regelmässig angeordnet, wenn die verurteilte Person sich bereits im erstinstanzlichen Verfahren fluchtgeneigt gezeigt hat oder wenn die Strafe so hoch ausfällt, dass eine konkrete Fluchtgefahr naheliegt.
+Die Praxis zeigt, dass Art. 231 StPO in einer breiten Palette von Strafsachen zur Anwendung kommt — von Vermögensdelikten über Gewaltdelikte bis hin zu organisierter Kriminalität. Die Sicherheitshaft im Hinblick auf das Berufungsverfahren (Abs. 1 lit. b) wird regelmässig angeordnet, wenn die verurteilte Person sich bereits im erstinstanzlichen Verfahren fluchtgeneigt gezeigt hat oder wenn die Strafe so hoch ausfällt, dass eine konkrete Fluchtgefahr naheliegt.
 
 Die Fortsetzung der Sicherheitshaft nach Freispruch (Abs. 2 lit. b) ist die Ausnahme und setzt eine ernsthafte und unmittelbare Gefahr voraus, dass die freigesprochene Person durch Verbrechen oder schwere Vergehen die Sicherheit anderer erheblich gefährdet. Die blosse Gefahr, dass die Person sich im Berufungsverfahren dem Gericht entzieht, genügt für Abs. 2 lit. b nicht — in diesem Fall ist Abs. 2 lit. a (Freilassung mit Massnahmen) der richtige Weg.
 

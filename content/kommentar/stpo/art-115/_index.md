@@ -113,7 +113,7 @@ Aus der Geschädigtenstellung nach Art. 115 StPO ergeben sich — auch ohne Kons
 - [Art. 113 StPO](../art-113) — Stellung der beschuldigten Person
 - Art. 116 StPO — Rechte der geschädigten Person *(nicht kommentiert)*
 - Art. 117 StPO — Befragung der geschädigten Person *(nicht kommentiert)*
-- Art. 118 StPO — Privatklägerschaft *(nicht kommentiert)*
+- [Art. 118 StPO](../art-118) — Begriff und Voraussetzungen (Privatklägerschaft)
 - Art. 119 StPO — Antragstellende Person *(nicht kommentiert)*
 - Art. 122 StPO — Zivilklage im Strafverfahren *(nicht kommentiert)*
 - Art. 30 StGB — Strafantrag
