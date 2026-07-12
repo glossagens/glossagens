@@ -52,6 +52,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 139](art-139) | Grundsätze der Beweisführung |
 | [Art. 140](art-140) | Verbotene Beweiserhebungsmethoden |
 | [Art. 141](art-141) | Verwertbarkeit rechtswidrig erlangter Beweise |
+| [Art. 143](art-143) | Durchführung der Einvernahme |
 | [Art. 147](art-147) | Teilnahmerecht der Parteien bei Beweiserhebungen |
 | [Art. 149](art-149) | Im Allgemeinen (Schutzmassnahmen) |
 | [Art. 158](art-158) | Einvernahme der beschuldigten Person |
