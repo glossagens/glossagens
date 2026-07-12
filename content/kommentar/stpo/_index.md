@@ -22,6 +22,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 11](art-011) | Verbot der doppelten Strafverfolgung |
 | [Art. 12](art-012) | Strafverfolgungsbehörden |
 | [Art. 13](art-013) | Gerichte |
+| [Art. 14](art-014) | Bezeichnung und Organisation der Strafbehörden |
 | [Art. 15](art-015) | Polizei |
 | [Art. 16](art-016) | Staatsanwaltschaft |
 | [Art. 17](art-017) | Übertretungsstrafbehörden |
