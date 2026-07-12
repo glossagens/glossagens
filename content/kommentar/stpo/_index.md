@@ -33,6 +33,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 81](art-081) | Inhalt der Endentscheide |
 | [Art. 82](art-082) | Einschränkungen der Begründungspflicht |
 | [Art. 89](art-089) | Allgemeine Bestimmungen (Fristen) |
+| [Art. 90](art-090) | Beginn und Berechnung der Fristen |
 | [Art. 94](art-094) | Wiederherstellung |
 | [Art. 100](art-100) | Aktenführung |
 | [Art. 101](art-101) | Bekanntgabe der Akten |
