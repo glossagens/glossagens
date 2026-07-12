@@ -22,6 +22,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 11](art-011) | Verbot der doppelten Strafverfolgung |
 | [Art. 15](art-015) | Polizei |
 | [Art. 16](art-016) | Staatsanwaltschaft |
+| [Art. 20](art-020) | Beschwerdeinstanz |
 | [Art. 29](art-029) | Grundsatz der Verfahrenseinheit |
 | [Art. 30](art-030) | Trennung und Vereinigung von Strafverfahren |
 | [Art. 56](art-056) | Grundsätze der Vermischung von Freiheitsstrafen und Massnahmen |
