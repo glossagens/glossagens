@@ -98,7 +98,7 @@ In Fällen, in denen ein Ausstandsgrund (Art. 56 StPO) gegenüber einem zuständ
 
 Entscheidungen über die Trennung oder Vereinigung von Strafverfahren sind **anfechtbar**. Gegen Verfügungen der Staatsanwaltschaft steht der Wegzug an die Beschwerdeinstanz (Art. 26 StPO) bzw. die Beschwerde offen. Gegen Entscheide der letzteren Instanz gelangt die Beschwerde in Strafsachen an das Bundesgericht (Art. 80 BGG).
 
-### 2. Begründungsanforderungen**
+### 2. Begründungsanforderungen
 
 Die Behörden müssen die sachlichen Gründe für eine Verfahrenstrennung **substantiiert darlegen**. Unterlässt die Vorinstanz die Auseinandersetzung mit dem Vorbringen einer Partei zur Zulässigkeit der Verfahrenstrennung, liegt eine **Verletzung des rechtlichen Gehörs** vor.[^21] Die Vorinstanz muss sich äussern und prüfen, ob ein sachlicher Grund vorlag, der trotz Vorliegens von Mittäterschaft und Teilnahme ein Abweichen vom Grundsatz der Verfahrenseinheit rechtfertigte.
 
