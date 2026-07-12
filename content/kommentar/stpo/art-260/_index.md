@@ -2,7 +2,7 @@
 title: "Art. 260 StPO — Erkennungsdienstliche Erfassung"
 weight: 260
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 260 StPO: Erkennungsdienstliche Erfassung — Begriff, Zuständigkeit, Formvorschriften und Durchsetzung bei Weigerung der betroffenen Person."
 tags: ["StPO", "Erkennungsdienstliche Erfassung", "Zwangsmassnahme", "DNA-Profil", "Körpermerkmale", "Befehlsform", "Verhältnismässigkeit"]
 agent_verified: true
@@ -48,7 +48,7 @@ Die **Polizei**, die **Staatsanwaltschaft** und die **Gerichte** können die erk
 
 ### 2. Dringende Fälle — Verfahrensleitung
 
-In **dringenden Fällen** genügt die **Verfahrensleitung** (Art. 17 StPO) der Polizei, der Staatsanwaltschaft oder des Gerichts. Der Begriff der Dringlichkeit entspricht dem bei anderen Zwangsmassnahmen — eine Massnahme ist dringlich, wenn sie **nicht aufschiebbar** ist, ohne dass der Zweck der Massnahme gefährdet würde (Gefahr im Verzug). Die Verfahrensleitung trägt die Verantwortung für die Anordnung und muss die Voraussetzungen nachweisen können.
+In **dringenden Fällen** genügt die **Verfahrensleitung** der Polizei, der Staatsanwaltschaft oder des Gerichts. Der Begriff der Dringlichkeit entspricht dem bei anderen Zwangsmassnahmen — eine Massnahme ist dringlich, wenn sie **nicht aufschiebbar** ist, ohne dass der Zweck der Massnahme gefährdet würde (Gefahr im Verzug). Die Verfahrensleitung trägt die Verantwortung für die Anordnung und muss die Voraussetzungen nachweisen können.
 
 ## IV. Abs. 3 — Form des Befehls
 

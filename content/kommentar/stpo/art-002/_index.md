@@ -2,7 +2,7 @@
 title: "Art. 2 StPO — Ausübung der Strafrechtspflege"
 weight: 2
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 2 StPO: Monopol der gesetzlich bestimmten Behörden auf Strafrechtspflege und Gesetzlichkeit des Verfahrens."
 tags: ["Strafrechtspflege", "Gesetzmässigkeit", "Verfahrensform", "Legalitätsprinzip"]
 agent_verified: true
@@ -33,7 +33,7 @@ Die Strafbehörden im Sinne der StPO umfassen:
 - **Staatsanwaltschaft** (Art. 15 ff. StPO) – Leitung des Vorverfahrens und Anklage
 - **Gerichte** (Art. 18 ff. StPO) – Beurteilung der Strafsachen
 - **Polizei** (Art. 15 Abs. 4 StPO) – Untersuchungshandlungen im Auftrag
-- **Übertretungsstrafbehörden** (Art. 17 StPO) – Zuständig für Übertretungen
+- **Übertretungsstrafbehörden** ([Art. 17](../art-017/) StPO) – Zuständig für Übertretungen
 
 ## III. Formenmonopol (Abs. 2)
 

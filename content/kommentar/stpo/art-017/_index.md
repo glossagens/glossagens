@@ -118,7 +118,7 @@ Im **Baurecht** werden Übertretungen von Bauvorschriften (z.B. unbewilligtes Ba
 
 ### 3. Übertretungsstrafbefehl
 
-Der von der Übertretungsstrafbehörde erlassene **Strafbefehl** (Art. 352 StPO) enthält die Angaben nach Art. 353 StPO, namentlich die Bezeichnung der beschuldigten Person, die Beschreibung des Sachverhalts, die angewendeten Straf bestimmungen und die Strafe. Gegen den Strafbefehl kann die betroffene Person innerhalb von zehn Tagen **Einsprache** erheben (Art. 354 Abs. 1 StPO). Wird keine Einsprache erhoben, wird der Strafbefehl **rechtskräftig** und ist vollstreckbar (Art. 354 Abs. 4 StPO).[^23]
+Der von der Übertretungsstrafbehörde erlassene **Strafbefehl** (Art. 352 StPO) enthält die Angaben nach Art. 353 StPO, namentlich die Bezeichnung der beschuldigten Person, die Beschreibung des Sachverhalts, die angewendeten Strafbestimmungen und die Strafe. Gegen den Strafbefehl kann die betroffene Person innerhalb von zehn Tagen **Einsprache** erheben (Art. 354 Abs. 1 StPO). Wird keine Einsprache erhoben, wird der Strafbefehl **rechtskräftig** und ist vollstreckbar (Art. 354 Abs. 4 StPO).[^23]
 
 ## VII. Umstrittene Fragen und aktuelle Entwicklungen
 
@@ -162,7 +162,7 @@ Art. 17 StPO ist die **zentrale Rechtsgrundlage** für die administrative Strafv
 
 [^11]: BGE 140 IV 192, E. 1.2 — Die Einsprache gegen einen von der Übertretungsstrafbehörde erlassenen Strafbefehl ist bei der Übertretungsstrafbehörde einzureichen (Art. 354 Abs. 1 StPO).
 
-[^12]: BGE 140 IV 192, E. 1.3 — Eine kantonalsrechtliche Bestimmung, wonach Strafverfügungen der Übertretungsstrafbehörde bei der Staatsanwaltschaft angefochten werden können, ist bundesrechtswidrig.
+[^12]: BGE 140 IV 192, E. 1.3 — Eine kantonalrechtliche Bestimmung, wonach Strafverfügungen der Übertretungsstrafbehörde bei der Staatsanwaltschaft angefochten werden können, ist bundesrechtswidrig.
 
 [^13]: BGE 140 IV 192, E. 1.2 und 1.3.
 

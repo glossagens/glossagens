@@ -20,7 +20,7 @@ agent_verified: true
 
 ### I. Bedeutung und systematische Stellung
 
-**Rz. 1** Art. 16 StPO ist die zentrale dogmatische Grundnorm für die Organisation und Funktion der Staatsanwaltschaft im schweizerischen Strafverfahrensrecht. Die Bestimmung umschreibt in Absatz 1 die Verantwortung der Staatsanwaltschaft für die gleichmässige Durchsetzung des staatlichen Strafanspruchs und in Absatz 2 die konkreten Aufgaben im Strafverfahren: Leitung des Vorverfahrens, Verfolgung von Straftaten im Rahmen der Untersuchung, Anklageerhebung und Vertretung der Anklage. Zusammen mit Art. 12 StPO (Strafverfolgungsbehörden), [Art. 15 StPO](../art-015/) (Polizei), Art. 17 StPO (Übertretungsstrafbehörden) und Art. 18 ff. StPO (Gerichte) bildet Art. 16 StPO das institutionelle Gerüst des Ersten Titels der StPO, der die Strafverfolgungsbehörden und ihre Aufgaben definiert.
+**Rz. 1** Art. 16 StPO ist die zentrale dogmatische Grundnorm für die Organisation und Funktion der Staatsanwaltschaft im schweizerischen Strafverfahrensrecht. Die Bestimmung umschreibt in Absatz 1 die Verantwortung der Staatsanwaltschaft für die gleichmässige Durchsetzung des staatlichen Strafanspruchs und in Absatz 2 die konkreten Aufgaben im Strafverfahren: Leitung des Vorverfahrens, Verfolgung von Straftaten im Rahmen der Untersuchung, Anklageerhebung und Vertretung der Anklage. Zusammen mit [Art. 12 StPO](../art-012/) (Strafverfolgungsbehörden), [Art. 13 StPO](../art-013/) (Gerichte), [Art. 15 StPO](../art-015/) (Polizei) und [Art. 17 StPO](../art-017/) (Übertretungsstrafbehörden) bildet Art. 16 StPO das institutionelle Gerüst des Ersten Titels der StPO, der die Strafverfolgungsbehörden und ihre Aufgaben definiert.
 
 **Rz. 2** Die Norm ist von herausragender praktischer Bedeutung. Die Staatsanwaltschaft ist im schweizerischen Strafverfahrensrecht die zentrale Strafverfolgungsbehörde. Sie ist — anders als im deutschen Recht, wo die Staatsanwaltschaft als «Herrin des Ermittlungsverfahrens» bezeichnet wird, aber faktisch oft von der Polizei dominiert wird — in der Schweiz Herrin des Vorverfahrens. Diese Rolle wird durch Art. 16 Abs. 2 StPO ausdrücklich gesetzlich verankert. Die Stellung der Staatsanwaltschaft als Verfahrensleitung im Vorverfahren prägt das gesamte schweizerische Strafverfahren: Sie entscheidet über die Anklageerhebung (Art. 324 StPO), den Erlass eines Strafbefehls (Art. 352 StPO) oder die Einstellung des Verfahrens (Art. 319 ff. StPO) und vertritt die Anklage im Hauptverfahren vor Gericht.
 
@@ -113,8 +113,8 @@ agent_verified: true
 - [Art. 8 StPO](../art-008/) — Verzicht auf Strafverfolgung: Opportunitätsprinzip als Ausnahme vom Legalitätsprinzip.
 - [Art. 9 StPO](../art-009/) — Anklagegrundsatz: Das Urteil ergeht nur auf Anklage.
 - [Art. 15 StPO](../art-015/) — Polizei: Untersteht der Aufsicht und Weisungen der Staatsanwaltschaft.
-- Art. 17 StPO — Übertretungsstrafbehörden.
-- Art. 18 StPO — Gerichte: Zuständig im Hauptverfahren.
+- [Art. 17 StPO](../art-017/) — Übertretungsstrafbehörden.
+- [Art. 13 StPO](../art-013/) — Gerichte: Zuständig im Hauptverfahren.
 - Art. 104 StPO — Parteien: Staatsanwaltschaft als Partei im gerichtlichen Verfahren.
 - Art. 299 StPO — Vorverfahren: Ermittlungsverfahren der Polizei und Untersuchung der Staatsanwaltschaft.
 - Art. 308 StPO — Untersuchung: Begriff und Zweck der staatsanwaltschaftlichen Untersuchung.

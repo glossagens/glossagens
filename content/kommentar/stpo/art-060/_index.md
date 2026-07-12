@@ -103,7 +103,7 @@ agent_verified: true
 - [Art. 10](art-010) StPO — Unschuldsvermutung und Beweiswürdigung (freie Beweiswürdigung auch bei nach Abs. 2 verwerteten Beweisen)
 - [Art. 15](art-015) StPO — Polizei (Ausstand erstreckt sich auf alle Strafbehörden)
 - [Art. 16](art-016) StPO — Staatsanwaltschaft (Leitung des Vorverfahrens; Ausstand bei Befangenheit)
-- Art. 17 StPO — Übertragung von Aufgaben (nicht als Link vorhanden)
+- [Art. 17](art-017) StPO — Übertretungsstrafbehörden
 - Art. 18 StPO — Gerichtsstände (nicht als Link vorhanden)
 - [Art. 29](art-029) StPO — Grundsatz der Verfahrenseinheit (Verfahrenseinheit trotz Aufhebung einzelner Amtshandlungen)
 - [Art. 56](art-056) StPO — Ausstandsgründe (materielle Voraussetzungen des Ausstands)

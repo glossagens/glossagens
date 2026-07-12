@@ -97,11 +97,11 @@ agent_verified: true
 - [**Art. 1 StPO**](../art-001/) — Geltungsbereich (Anwendbarkeit der StPO)
 - [**Art. 5 StPO**](../art-005/) — Beschleunigungsgebot (Unverzüglichkeit der Strafverfolgung)
 - [**Art. 6 StPO**](../art-006/) — Untersuchungsgrundsatz
-- [**Art. 12 StPO**](../art-012/) — Strafverfolgungsbehörden (nicht als Glossagens-Artikel vorhanden)
-- Art. 13 StPO — Gerichte (nicht als Glossagens-Artikel vorhanden)
+- [**Art. 12 StPO**](../art-012/) — Strafverfolgungsbehörden
+- [**Art. 13 StPO**](../art-013/) — Gerichte
 - Art. 14 StPO — Zuständigkeiten im Allgemeinen (nicht als Glossagens-Artikel vorhanden)
 - [**Art. 16 StPO**](../art-016/) — Staatsanwaltschaft (Aufsichts- und Weisungsbefugnis)
-- Art. 17 StPO — Übertretungsstrafbehörden (nicht als Glossagens-Artikel vorhanden)
+- [**Art. 17 StPO**](../art-017/) — Übertretungsstrafbehörden
 - Art. 18 StPO — Gerichtsorganisation (nicht als Glossagens-Artikel vorhanden)
 - [**Art. 100 StPO**](../art-100/) — Aktenführung (Polizeirapport als Teil der Akten)
 - [**Art. 101 StPO**](../art-101/) — Bekanntgabe der Akten

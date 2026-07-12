@@ -2,7 +2,7 @@
 title: "Art. 381 — Legitimation der Staatsanwaltschaft"
 weight: 381
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
 agent_verified: true
@@ -46,7 +46,7 @@ agent_verified: true
 
 ### IV. Übertretungsstrafverfahren (Abs. 3)
 
-**10** Abs. 3 delegiert die Regelung der Rechtsmittelbefugnis im Übertretungsstrafverfahren an Bund und Kantone. Da Übertretungen nach Art. 17 StPO von kantonalen Behörden oder der Bundesanwaltschaft verfolgt werden können, bedarf es einer klaren Zuweisung der Rechtsmittelbefugnis. Die Bestimmung trägt der Vielfalt der kantonalen Übertretungsstrafverfahrensordnungen Rechnung.
+**10** Abs. 3 delegiert die Regelung der Rechtsmittelbefugnis im Übertretungsstrafverfahren an Bund und Kantone. Da Übertretungen nach [Art. 17](../art-017/) StPO von kantonalen Behörden oder der Bundesanwaltschaft verfolgt werden können, bedarf es einer klaren Zuweisung der Rechtsmittelbefugnis. Die Bestimmung trägt der Vielfalt der kantonalen Übertretungsstrafverfahrensordnungen Rechnung.
 
 ### V. Aufhebung von Abs. 4 (Reform 2024)
 

@@ -2,7 +2,7 @@
 title: "Art. 1 StPO — Geltungsbereich"
 weight: 1
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 1 StPO: Geltungsbereich der Strafprozessordnung für Bundes und Kantone."
 tags: ["Geltungsbereich", "Strafverfahren", "Bundesrecht", "Kantone"]
 agent_verified: true
@@ -27,7 +27,7 @@ Art. 1 StPO statuiert den **Geltungsbereich** der Schweizerischen Strafprozessor
 Die StPO findet Anwendung auf die Verfolgung und Beurteilung von **Straftaten nach Bundesrecht**. Erfasst sind:
 
 - **Verbrechen und Vergehen** nach dem StGB und nach anderen Bundesgesetzen mit Strafbestimmungen
-- **Übertretungen**, soweit nicht kantonales Verfahrensrecht anwendbar ist (Art. 17 StPO)
+- **Übertretungen**, soweit nicht kantonales Verfahrensrecht anwendbar ist ([Art. 17](../art-017/) StPO)
 
 Nicht unter den Geltungsbereich fallen rein **kantonale Strafbestimmungen** (z.B. kantonale Steuergesetze), deren Verfahren sich nach kantonalem Prozessrecht richtet.
 

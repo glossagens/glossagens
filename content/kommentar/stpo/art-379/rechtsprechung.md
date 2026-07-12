@@ -72,7 +72,7 @@ Behandelt Kosten- und Entschädigungsfolgen im schriftlichen Verfahren. Illustri
 
 *Regeste: Strafverfahren; Sistierung des Beschwerdeverfahrens | Strafprozess.*
 
-Behandelt die Sistierung eines Beschwerdeverfahrens und wendet dabei die allgemeinen verfahrensrechtlichen Grundsätze (insbesondere Art. 17 StPO zur Verfahrensleitung) auf das Beschwerdeverfahren an. Illustriert die sinngemässe Anwendung allgemeiner Bestimmungen im Beschwerdeverfahren nach Art. 379 StPO. Zitierhäufigkeit: 32.
+Behandelt die Sistierung eines Beschwerdeverfahrens und wendet dabei die allgemeinen verfahrensrechtlichen Grundsätze zur Verfahrensleitung auf das Beschwerdeverfahren an. Illustriert die sinngemässe Anwendung allgemeiner Bestimmungen im Beschwerdeverfahren nach Art. 379 StPO. Zitierhäufigkeit: 32.
 
 **[BGer 6B 1394/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1394_2017) vom 2. August 2018**
 

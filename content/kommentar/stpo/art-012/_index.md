@@ -44,7 +44,7 @@ Die Übertretungsstrafbehörden sind eine spezifisch schweizerische Besonderheit
 
 ### III. Systematische Stellung im Organisationskapitel
 
-Art. 12 StPO ist eine Definitions- und Aufzählungsnorm. Die nähere Ausgestaltung der Behördenorganisation wird durch die nachfolgenden Artikel geregelt: Art. 13 StPO umschreibt die sachliche Zuständigkeit, Art. 14 StPO überlässt Bund und Kantonen die Bezeichnung und Organisation der Strafbehörden, Art. 15 StPO regelt die Stellung der Polizei als Hilfsbehörde, Art. 16 StPO die Rolle der Staatsanwaltschaft, Art. 17 StPO die Übertretungsstrafbehörden, Art. 18 StPO die Gerichte und Art. 19–20 StPO die Beschwerdeinstanzen.
+Art. 12 StPO ist eine Definitions- und Aufzählungsnorm. Die nähere Ausgestaltung der Behördenorganisation wird durch die nachfolgenden Artikel geregelt: [Art. 13 StPO](../art-013/) zählt die Gerichte auf, Art. 14 StPO überlässt Bund und Kantonen die Bezeichnung und Organisation der Strafbehörden, [Art. 15 StPO](../art-015/) regelt die Stellung der Polizei als Hilfsbehörde, [Art. 16 StPO](../art-016/) die Rolle der Staatsanwaltschaft, [Art. 17 StPO](../art-017/) die Übertretungsstrafbehörden und Art. 18 ff. StPO die Zuständigkeit der Gerichte.
 
 Bund und Kantone sind in der Bezeichnung und Organisation der Strafbehörden grundsätzlich frei (Art. 14 Abs. 1 StPO). Sie regeln namentlich Wahl, Zusammensetzung, Organisation und Befugnisse der Strafbehörden, soweit die StPO oder andere Bundesgesetze dies nicht abschliessend tun (Art. 14 Abs. 2 StPO). Art. 14 Abs. 1 StPO überlässt es den Kantonen insbesondere festzulegen, welche Behörden die Funktionen der in Art. 12 StPO aufgelisteten Strafverfolgungsbehörden zu übernehmen haben und welche Bezeichnungen sie tragen sollen (BGE 142 IV 70 E. 3 mit Verweis auf BBl 2006 1095).
 
@@ -80,11 +80,11 @@ Die Rechtsprechung zu Art. 12 StPO konzentriert sich auf drei Themenfelder: (1) 
 - [Art. 8 StPO](../art-008/) — Verzicht auf Strafverfolgung
 - [Art. 9 StPO](../art-009/) — Anklagegrundsatz
 - [Art. 10 StPO](../art-010/) — Unschuldsvermutung und Beweiswürdigung
-- Art. 13 StPO — Sachliche Zuständigkeit (nicht als eigener Artikel kommentiert)
+- [Art. 13 StPO](../art-013/) — Gerichte
 - Art. 14 StPO — Bezeichnung und Organisation der Strafbehörden (nicht als eigener Artikel kommentiert)
-- Art. 15 StPO — Polizei (nicht als eigener Artikel kommentiert)
+- [Art. 15 StPO](../art-015/) — Polizei
 - [Art. 16 StPO](../art-016/) — Staatsanwaltschaft
-- Art. 17 StPO — Übertretungsstrafbehörden (nicht als eigener Artikel kommentiert)
+- [Art. 17 StPO](../art-017/) — Übertretungsstrafbehörden
 - [Art. 56 StPO](../art-056/) — Ausstandsgründe
 - [Art. 59 StPO](../art-059/) — Entscheid über Ausstandsbegehren
 - [Art. 100 StPO](../art-100/) — Aktenführung
