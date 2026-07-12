@@ -50,10 +50,10 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 141](art-141) | Verwertbarkeit rechtswidrig erlangter Beweise |
 | [Art. 147](art-147) | Teilnahmerecht der Parteien bei Beweiserhebungen |
 | [Art. 149](art-149) | Im Allgemeinen (Schutzmassnahmen) |
-| [Art. 177](art-177) | Belehrung (Zeuginnen und Zeugen) |
-| [Art. 178](art-178) | Begriff (Auskunftsperson) |
 | [Art. 158](art-158) | Einvernahme der beschuldigten Person |
 | [Art. 159](art-159) | Polizeiliche Einvernahmen im Ermittlungsverfahren |
+| [Art. 177](art-177) | Belehrung (Zeuginnen und Zeugen) |
+| [Art. 178](art-178) | Begriff (Auskunftsperson) |
 | [Art. 189](art-189) | Ergänzung und Verbesserung des Gutachtens |
 | [Art. 197](art-197) | Beschlagnahme von Post und Fernmeldeverkehr |
 | [Art. 212](art-212) | Grundsatz |

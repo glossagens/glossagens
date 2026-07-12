@@ -24,7 +24,7 @@ agent_verified: true
 
 **Rz. 1** Art. 15 StPO umschreibt die Rolle der Polizei im schweizerischen Strafverfahrensrecht. Die Norm legt fest, dass die polizeiliche Tätigkeit in der Strafverfolgung der Bundesgesetzgebung über die Strafprozessordnung (SR 312.0) untersteht (Abs. 1), definiert die polizeilichen Ermittlungsaufgaben und das Unterstellungsverhältnis zur Staatsanwaltschaft (Abs. 2) und eröffnet dem Gericht eine Weisungsbefugnis für den Fall, dass ein Straffall bei ihm hängig ist (Abs. 3). Art. 15 StPO bildet zusammen mit [Art. 16 StPO](../art-016/) (Staatsanwaltschaft) und Art. 17–18 StPO (Übertretungsstrafbehörden, Gerichte) den Kern des die Strafverfolgungsbehörden betreffenden Abschnitts des Ersten Titels der StPO.
 
-**Rz. 2** Die Norm ist von zentraler praktischer Bedeutung, weil die Polizei in der Regel die erste Strafverfolgungsbehörde ist, die mit einer Straftat in Kontakt kommt. Sie ergreift die ersten Massnahmen am Tatort, nimmt Anzeigen entgegen, führt erste Einvernahmen durch und sichert Spuren. Die质量 dieser ersten Ermittlungsschritte prägt die gesamte weitere Strafverfolgung. Art. 15 StPO ist die verfahrensrechtliche Grundlage für die polizeiliche Ermittlungstätigkeit, auf der die weiteren Bestimmungen über polizeiliche Einvernahmen (Art. 159 StPO), Zwangsmassnahmen (Art. 196 ff. StPO) und die verdeckte Ermittlung (Art. 285 ff. StPO) aufbauen.
+**Rz. 2** Die Norm ist von zentraler praktischer Bedeutung, weil die Polizei in der Regel die erste Strafverfolgungsbehörde ist, die mit einer Straftat in Kontakt kommt. Sie ergreift die ersten Massnahmen am Tatort, nimmt Anzeigen entgegen, führt erste Einvernahmen durch und sichert Spuren. Die Qualität dieser ersten Ermittlungsschritte prägt die gesamte weitere Strafverfolgung. Art. 15 StPO ist die verfahrensrechtliche Grundlage für die polizeiliche Ermittlungstätigkeit, auf der die weiteren Bestimmungen über polizeiliche Einvernahmen (Art. 159 StPO), Zwangsmassnahmen (Art. 196 ff. StPO) und die verdeckte Ermittlung (Art. 285 ff. StPO) aufbauen.
 
 **Rz. 3** Art. 15 StPO steht in engem Zusammenhang mit dem Geltungsbereich der StPO (Art. 1 StPO) und den allgemeinen Verfahrensgrundsätzen ([Art. 5 StPO](../art-005/) Beschleunigungsgebot; [Art. 6 StPO](../art-006/) Untersuchungsgrundsatz). Er konkretisiert den Grundsatz, dass die Strafverfolgung eine Aufgabe des Staates ist und die Polizei als Strafverfolgungsbehörde (Art. 12 lit. a StPO) der Strafprozessordnung untersteht, wenn sie im Rahmen der Strafverfolgung tätig wird.
 
@@ -84,7 +84,7 @@ agent_verified: true
 
 **Rz. 23** Die StPO-Reform vom 1. Januar 2024 hat Art. 15 StPO nicht umstrukturiert. Die Norm bleibt in ihrer bisherigen Fassung in Kraft. In der Rechtsprechung des Bundesgerichts zeichnet sich eine konsolidierte Praxis zur Abgrenzung zwischen strafprozessualer und sicherheitspolizeilicher Tätigkeit ab, die vor allem im Bereich des Strassenverkehrsrechts (AFV, Drogenschnelltests) von Bedeutung ist. Die Tendenz geht dahin, die polizeilichen Befugnisse im präventiven Bereich nach kantonalem Recht zu beurteilen, während die strafprozessualen Befugnisse der Bundesgesetzgebung unterstehen.
 
-**Rz. 24** Eine zunehmend wichtige Frage ist die datenschutzrechtliche Beurteilung polizeilicher Erhebungen, insbesondere im Bereich der automatisierten Fahrzeugfahndung und Verkehrsüberwachung. Das Bundesgericht hat in BGE 146 I 11 klare Anforderungen an die gesetzliche Grundlage für derartige Eingriffe formuliert. Die Weiterentwicklung der technischen Möglichkeiten (Videoüberwachung, Gesichtserkennung,大数据-Auswertung) wird voraussichtlich zu weiteren rechtlichen Klärungen führen.
+**Rz. 24** Eine zunehmend wichtige Frage ist die datenschutzrechtliche Beurteilung polizeilicher Erhebungen, insbesondere im Bereich der automatisierten Fahrzeugfahndung und Verkehrsüberwachung. Das Bundesgericht hat in BGE 146 I 11 klare Anforderungen an die gesetzliche Grundlage für derartige Eingriffe formuliert. Die Weiterentwicklung der technischen Möglichkeiten (Videoüberwachung, Gesichtserkennung, Big-Data-Auswertung) wird voraussichtlich zu weiteren rechtlichen Klärungen führen.
 
 ## Literatur
 
@@ -114,7 +114,7 @@ agent_verified: true
 - Art. 285 ff. StPO — Verdeckte Ermittlung (nicht als Glossagens-Artikel vorhanden)
 - Art. 306 StPO — Polizeiliche Ermittlungen (nicht als Glossagens-Artikel vorhanden)
 - Art. 307 StPO — Meldung an die Staatsanwaltschaft (nicht als Glossagens-Artikel vorhanden)
-- Art. 310 StPO — Einstellung im summarischen Verfahren (nicht als Glossagens-Artikel vorhanden)
+- [**Art. 310 StPO**](../art-310/) — Nichtanhandnahmeverfügung
 - Art. 324 ff. StPO — Anklageerhebung (nicht als Glossagens-Artikel vorhanden)
 - Art. 55 Abs. 1 SVG (SR 741.01) — Zuständigkeit für Drogenschnelltests
 - Art. 10 Abs. 2 SKV (SR 741.82) — Betäubungsmittelvortests
