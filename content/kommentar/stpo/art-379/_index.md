@@ -2,7 +2,7 @@
 title: "Art. 379 — Anwendbare Vorschriften (Rechtsmittelverfahren)"
 weight: 379
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 379 StPO – Anwendbare Vorschriften im Rechtsmittelverfahren"
 tags: ["StPO", "Rechtsmittel", "Rechtsmittelverfahren", "Verfahrensrecht", "Anwendbarkeit"]
 agent_verified: true
@@ -57,7 +57,7 @@ Das Bundesgericht hat in [BGE 143 IV 214](https://mcp.opencaselaw.ch/entscheid/b
 
 **b) Verfahrensbeteiligung:** Die Rechte der beschuldigten Person (Art. 107–111 StPO), insbesondere das rechtliche Gehör (Art. 107 Abs. 2 StPO) und das Recht auf Verteidigung (Art. 127–134 StPO), gelten auch im Rechtsmittelverfahren. Die beschuldigte Person muss die Möglichkeit haben, sich zu den Vorwürfen und zu den Rügen der Gegenseite zu äussern. Das Bundesgericht hat in [BGer 6B 542/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_542_2016) vom 5. Mai 2017 den Konfrontationsanspruch und die Behandlung von Beweisanträgen im Berufungsverfahren behandelt und dabei die sinngemässe Anwendung der allgemeinen beweisrechtlichen Bestimmungen bestätigt (Rz. 11).
 
-**c) Fristen:** Die allgemeinen Fristbestimmungen (Art. 89–94 StPO) gelten im Rechtsmittelverfahren sinngemäss, soweit der Rechtsmitteltitel nicht besondere Fristen vorsieht. So bestimmt Art. 396 Abs. 1 StPO eine zehntägige Beschwerdefrist, während die allgemeinen Regeln über die Fristberechnung (Art. 89 StPO), die Fristverlängerung (Art. 90 StPO) und die Wiederherstellung (Art. 94 StPO) weiterhin anwendbar bleiben (Rz. 12).
+**c) Fristen:** Die allgemeinen Fristbestimmungen (Art. 89–94 StPO) gelten im Rechtsmittelverfahren sinngemäss, soweit der Rechtsmitteltitel nicht besondere Fristen vorsieht. So bestimmt Art. 396 Abs. 1 StPO eine zehntägige Beschwerdefrist, während die allgemeinen Regeln über die Fristberechnung (Art. 89 StPO), den Fristbeginn ([Art. 90](../art-090) StPO) und die Wiederherstellung (Art. 94 StPO) weiterhin anwendbar bleiben (Rz. 12).
 
 ### IV. Abgrenzung: Wann der Rechtsmitteltitel besondere Bestimmungen trifft
 

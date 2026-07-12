@@ -20,9 +20,9 @@ agent_verified: true
 
 ### I. Bedeutung und Zweck
 
-**Rz. 1** Art. 60 StPO regelt die Rechtsfolgen, die eintreten, wenn eine zum Ausstand verpflichtete Person dennoch an strafprozessualen Amtshandlungen mitgewirkt hat. Die Norm bildet das Sanktionsinstrumentarium zu den Ausstandsgründen der [Art. 56](art-056) StPO (Ausstandsgründe), [Art. 57](art-057) StPO (Vorbehalte) und [Art. 58](art-058) StPO (Verfahren) sowie zum Entscheid über Ausstandsbegehren nach [Art. 59](art-059) StPO. Sie sichert die Ausstandsvorschriften durch eine Sanktion ab und gewährleistet so die Unparteilichkeit der Strafverfolgungsbehörden im Sinne von [Art. 29 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29) und [Art. 30 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_30) sowie [Art. 6 Ziff. 1 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/1875/de#art_6).
+**Rz. 1** Art. 60 StPO regelt die Rechtsfolgen, die eintreten, wenn eine zum Ausstand verpflichtete Person dennoch an strafprozessualen Amtshandlungen mitgewirkt hat. Die Norm bildet das Sanktionsinstrumentarium zu den Ausstandsgründen der [Art. 56](art-056) StPO (Ausstandsgründe), Art. 57 StPO (Vorbehalte) und Art. 58 StPO (Verfahren) sowie zum Entscheid über Ausstandsbegehren nach [Art. 59](art-059) StPO. Sie sichert die Ausstandsvorschriften durch eine Sanktion ab und gewährleistet so die Unparteilichkeit der Strafverfolgungsbehörden im Sinne von [Art. 29 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29) und [Art. 30 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_30) sowie [Art. 6 Ziff. 1 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/1875/de#art_6).
 
-**Rz. 2** Die Bestimmung verfolgt einen doppelten Zweck: Einerseits soll sie die Integrität des Verfahrens schützen, indem Amtshandlungen einer befangenen Person grundsätzlich ihre Gültigkeit verlieren. Andererseits anerkennt sie in Abs. 2 das Bedürfnis nach Aufklärung materialisierter Straftaten, indem nicht wiederholbare Beweise ausnahmsweise verwertet werden dürfen. Art. 60 StPOBalanciert somit den Anspruch auf ein faires Verfahren vor einem unparteiischen Richter gegen das öffentliche Interesse an einer funktionierenden Strafverfolgung (BGE 141 IV 178 E. 3.2.1, [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_178)).
+**Rz. 2** Die Bestimmung verfolgt einen doppelten Zweck: Einerseits soll sie die Integrität des Verfahrens schützen, indem Amtshandlungen einer befangenen Person grundsätzlich ihre Gültigkeit verlieren. Andererseits anerkennt sie in Abs. 2 das Bedürfnis nach Aufklärung materialisierter Straftaten, indem nicht wiederholbare Beweise ausnahmsweise verwertet werden dürfen. Art. 60 StPO balanciert somit den Anspruch auf ein faires Verfahren vor einem unparteiischen Richter gegen das öffentliche Interesse an einer funktionierenden Strafverfolgung (BGE 141 IV 178 E. 3.2.1, [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_178)).
 
 ### II. Gesetzgebungsgeschichte und systematische Stellung
 
@@ -58,7 +58,7 @@ agent_verified: true
 
 **Rz. 15** **Analoge Anwendung bei spätentdecktem Ausstandsgrund im Beschwerdeverfahren.** Die Rechtsprechung wendet Abs. 3 analog an, wenn eine Unregelmässigkeit in der Zusammensetzung des urteilenden kantonalen Gerichts erst während des Beschwerdeverfahrens vor Bundesgericht entdeckt wird. In diesem Fall verweist Abs. 3 auf das Revisionsverfahren nach [Art. 410 ff.](art-410) StPO; das Bundesgericht kann den angefochtenen Entscheid an die Vorinstanz zurückweisen, damit diese den Ausstandsgrund beurteilt und das Verfahren wiederholt (BGE 144 IV 35 E. 4–5, [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_35)). Das Revisionsverfahren untersteht dem Verbot der reformatio in peius.
 
-**Rz. 16** **Ausstandsgrund nach letztinstanzlichem kantonalem Urteil.** Wird ein Ausstandsgrund erst nach der Fällung des letztinstanzlichen kantonalen Urteils, aber vor Ablauf der Beschwerdefrist beim Bundesgericht entdeckt, kann dieser erstmals in der Beschwerde vor Bundesgericht geltend gemacht werden. Das Bundesgericht prüft den Ausstandsgrund unter dem Gesichtspunkt von [Art. 30 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_30) direkt (BGE 147 I 173 E. 5.2, [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173)). Abs. 3 greift in dieser Konstellation nicht direkt — das Verfahren ist ja noch nicht abgeschlossen —, doch die Wertung der Norm fliest in die verfassungsrechtliche Beurteilung ein.
+**Rz. 16** **Ausstandsgrund nach letztinstanzlichem kantonalem Urteil.** Wird ein Ausstandsgrund erst nach der Fällung des letztinstanzlichen kantonalen Urteils, aber vor Ablauf der Beschwerdefrist beim Bundesgericht entdeckt, kann dieser erstmals in der Beschwerde vor Bundesgericht geltend gemacht werden. Das Bundesgericht prüft den Ausstandsgrund unter dem Gesichtspunkt von [Art. 30 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_30) direkt (BGE 147 I 173 E. 5.2, [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173)). Abs. 3 greift in dieser Konstellation nicht direkt — das Verfahren ist ja noch nicht abgeschlossen —, doch die Wertung der Norm fliesst in die verfassungsrechtliche Beurteilung ein.
 
 ### VI. Verfahren und Rechtsmittel
 
@@ -94,7 +94,7 @@ agent_verified: true
 - Regina Kiener, Richterliche Unabhängigkeit, 2001, S. 105 f. (zur Befangenheit bei Verfahrensfehlern)
 - Marion Panis, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2023, N. zu Art. 60 StPO
 - Donatella Pessina, L'abstensione e la ricusazione nel procedimento penale svizzero, 2014
-- Botschaft zur Vereinheitlichung der Strafprozessordnung vom 21. September 2007, BBl 2006 1085 (zu Art. 60 Entwurf: BBl 2006 1221)
+- Botschaft zur Vereinheitlichung der Strafprozessordnung vom 21. Dezember 2005, BBl 2006 1085 (zu Art. 60 Entwurf: BBl 2006 1221)
 
 ---
 
