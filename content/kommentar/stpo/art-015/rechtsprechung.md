@@ -99,9 +99,9 @@ agent_verified: false
 - **Link**: [BGer 1B_208/2012](https://mcp.opencaselaw.ch/entscheid/bger_1B_208_2012)
 
 ### BGer 1C_39/2021 vom 29. November 2022
-- **Thema**: Verdeckte Fahndung; polizeiliche Anordnungsbefugnisse nach Art. 198 StPO
-- **Kernaussage**: Art. 198 StPO sieht vor, dass neben der Staatsanwaltschaft auch «die Polizei» eine verdeckte Fahndung im Ermittlungsverfahren anordnen kann; dies umfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne von Art. 15 StPO. Die Kantone haben die Möglichkeit, die Anordnungsbefugnisse der Polizei generell oder für einzelne Zwangsmassnahmen Polizeiangehörigen mit einem bestimmten Grad oder einer bestimmten Funktion vorzubehalten (Art. 198 Abs. 2 StPO).
-- **Einschlägig für**: Abs. 1 (Polizeiangehörige); verdeckte Ermittlung
+- **Thema**: Polizeiliche Anordnungsbefugnisse nach Art. 198 StPO
+- **Kernaussage**: Art. 198 StPO sieht vor, dass neben der Staatsanwaltschaft und den Gerichten auch «die Polizei» in den gesetzlich vorgesehenen Fällen Zwangsmassnahmen anordnen kann (Art. 198 Abs. 1 lit. c StPO); dies umfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne von Art. 15 StPO. Die Kantone haben die Möglichkeit, die Anordnungsbefugnisse der Polizei generell oder für einzelne Zwangsmassnahmen Polizeiangehörigen mit einem bestimmten Grad oder einer bestimmten Funktion vorzubehalten (Art. 198 Abs. 2 StPO).
+- **Einschlägig für**: Abs. 1 (Polizeiangehörige); Zuständigkeit für Zwangsmassnahmen
 - **Link**: [BGer 1C_39/2021](https://mcp.opencaselaw.ch/entscheid/bger_1C_39_2021)
 
 ---
@@ -132,7 +132,7 @@ agent_verified: false
 - [BGer 1B_549/2012](https://mcp.opencaselaw.ch/entscheid/bger_1B_549_2012) — Rechtsverweigerung; Pflicht zur unverzüglichen Strafverfolgung
 - [BGer 1B_208/2012](https://mcp.opencaselaw.ch/entscheid/bger_1B_208_2012) — Beschleunigungsgebot für Polizei und Gerichte
 
-### 6. Verdeckte Ermittlung und polizeiliche Befugnisse
+### 6. Zuständigkeit für Zwangsmassnahmen und polizeiliche Befugnisse
 - [BGer 1C_39/2021](https://mcp.opencaselaw.ch/entscheid/bger_1C_39_2021) — Polizeiangehörige im Sinne von Art. 15 StPO; Art. 198 StPO
 
 ---
