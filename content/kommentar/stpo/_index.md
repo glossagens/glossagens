@@ -67,6 +67,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 182](art-182) | Voraussetzungen für den Beizug einer sachverständigen Person |
 | [Art. 189](art-189) | Ergänzung und Verbesserung des Gutachtens |
 | [Art. 197](art-197) | Beschlagnahme von Post und Fernmeldeverkehr |
+| [Art. 198](art-198) | Zuständigkeit |
 | [Art. 212](art-212) | Grundsatz |
 | [Art. 220](art-220) | Begriffe |
 | [Art. 221](art-221) | Voraussetzungen |
