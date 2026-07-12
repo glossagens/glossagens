@@ -22,7 +22,7 @@ agent_verified: true
 
 ### I. Bedeutung und systematische Stellung
 
-Art. 166 StPO regelt die prozessuale Einvernahme der geschädigten Person im Strafverfahren. Die Bestimmung ist im Dritten Teil der StPO (Strafverfahrensrecht), im Titel über die Beweiserhebung (Art. 139–182 StPO), im Kapitel über die «Einvernahmen von Personen» (Art. 158–181 StPO) platziert. Sie bildet den Anschluss an die Art. 158–157a StPO (Einvernahme der beschuldigten Person) und leitet zum Zeugnisverfahren über, das durch Art. 175–181 StPO (Zeugnisfähigkeit, Zeugnispflicht, Belehrung, Auskunftsperson) ausgestaltet wird.
+Art. 166 StPO regelt die prozessuale Einvernahme der geschädigten Person im Strafverfahren. Die Bestimmung ist im Dritten Teil der StPO (Strafverfahrensrecht), im Titel über die Beweiserhebung (Art. 139–182 StPO), im Kapitel über die «Einvernahmen von Personen» (Art. 158–181 StPO) platziert. Sie bildet den Anschluss an [Art. 158 StPO](../art-158) (Einvernahme der beschuldigten Person) und leitet zum Zeugnisverfahren über, das durch Art. 175–181 StPO (Zeugnisfähigkeit, Zeugnispflicht, Belehrung, Auskunftsperson) ausgestaltet wird.
 
 Die Bestimmung ist von herausragender praktischer Bedeutung: Die geschädigte Person ist in der überwiegenden Mehrzahl der Strafverfahren das zentrale Beweismittel. Ihre Aussage ist häufig das einzige direkte Beweismittel — etwa bei Sexualdelikten, häuslicher Gewalt, Drohungen oder einseitig beobachtbaren Vorfällen. Die Frage, unter welchen prozessualen Kategorien die geschädigte Person einvernommen wird — als Zeugin bzw. Zeuge (Art. 166), als Auskunftsperson (Art. 178) oder als beschuldigte Person (in Ausnahmefällen) —, bestimmt massgeblich ihre Rechte und Pflichten sowie die Verwertbarkeit ihrer Aussage.
 
@@ -57,7 +57,7 @@ Das Bundesgericht hat diese Grundsätze in späteren Entscheiden bestätigt und 
 
 #### 4. Grundregel und Ratio
 
-Art. 166 Abs. 2 StPO stellt den Grundsatz von Abs. 1 unter den Vorbehalt der Einvernahme als **Auskunftsperson nach Art. 178 StPO**. Dieser Vorbehalt ist die zuale Schnittstelle der Bestimmung: Die geschädigte Person wird nicht in jedem Fall als Zeugin oder Zeuge einvernommen, sondern kann — und muss — als Auskunftsperson einvernommen werden, wenn einer der Tatbestände von Art. 178 StPO erfüllt ist.
+Art. 166 Abs. 2 StPO stellt den Grundsatz von Abs. 1 unter den Vorbehalt der Einvernahme als **Auskunftsperson nach Art. 178 StPO**. Dieser Vorbehalt ist die zentrale Schnittstelle der Bestimmung: Die geschädigte Person wird nicht in jedem Fall als Zeugin oder Zeuge einvernommen, sondern kann — und muss — als Auskunftsperson einvernommen werden, wenn einer der Tatbestände von Art. 178 StPO erfüllt ist.
 
 Die Regelungssystematik ist zweistufig:
 1. **Prüfungsreihenfolge**: Zunächst ist zu prüfen, ob ein Auskunftspersonen-Tatbestand nach Art. 178 StPO eingreift. Ist dies der Fall, ist die Person als Auskunftsperson einzuvernehmen, und die Regeln des Zeugnisverfahrens (Art. 175–177 StPO) gelten nicht oder nur modifiziert.
