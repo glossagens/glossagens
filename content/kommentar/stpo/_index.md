@@ -26,6 +26,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 20](art-020) | Beschwerdeinstanz |
 | [Art. 29](art-029) | Grundsatz der Verfahrenseinheit |
 | [Art. 30](art-030) | Trennung und Vereinigung von Strafverfahren |
+| [Art. 34](art-034) | Durch Begehungsort bestimmte Zuständigkeit |
 | [Art. 56](art-056) | Grundsätze der Vermischung von Freiheitsstrafen und Massnahmen |
 | [Art. 59](art-059) | Entscheid über Ausstandsbegehren |
 | [Art. 68](art-068) | Inhalt der Akten |
