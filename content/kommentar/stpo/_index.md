@@ -27,8 +27,9 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 29](art-029) | Grundsatz der Verfahrenseinheit |
 | [Art. 30](art-030) | Trennung und Vereinigung von Strafverfahren |
 | [Art. 34](art-034) | Durch Begehungsort bestimmte Zuständigkeit |
-| [Art. 56](art-056) | Grundsätze der Vermischung von Freiheitsstrafen und Massnahmen |
+| [Art. 56](art-056) | Ausstandsgründe |
 | [Art. 59](art-059) | Entscheid über Ausstandsbegehren |
+| [Art. 60](art-060) | Folgen der Verletzung von Ausstandsvorschriften |
 | [Art. 68](art-068) | Inhalt der Akten |
 | [Art. 81](art-081) | Inhalt der Endentscheide |
 | [Art. 82](art-082) | Einschränkungen der Begründungspflicht |
