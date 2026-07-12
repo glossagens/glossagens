@@ -23,6 +23,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 12](art-012) | Strafverfolgungsbehörden |
 | [Art. 15](art-015) | Polizei |
 | [Art. 16](art-016) | Staatsanwaltschaft |
+| [Art. 17](art-017) | Übertretungsstrafbehörden |
 | [Art. 20](art-020) | Beschwerdeinstanz |
 | [Art. 29](art-029) | Grundsatz der Verfahrenseinheit |
 | [Art. 30](art-030) | Trennung und Vereinigung von Strafverfahren |
