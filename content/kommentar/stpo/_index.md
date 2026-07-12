@@ -58,6 +58,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 149](art-149) | Im Allgemeinen (Schutzmassnahmen) |
 | [Art. 158](art-158) | Einvernahme der beschuldigten Person |
 | [Art. 159](art-159) | Polizeiliche Einvernahmen im Ermittlungsverfahren |
+| [Art. 166](art-166) | Einvernahme der geschädigten Person |
 | [Art. 177](art-177) | Belehrung (Zeuginnen und Zeugen) |
 | [Art. 178](art-178) | Begriff (Auskunftsperson) |
 | [Art. 182](art-182) | Voraussetzungen für den Beizug einer sachverständigen Person |
