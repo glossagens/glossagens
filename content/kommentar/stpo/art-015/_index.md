@@ -99,7 +99,7 @@ agent_verified: true
 - [**Art. 6 StPO**](../art-006/) — Untersuchungsgrundsatz
 - [**Art. 12 StPO**](../art-012/) — Strafverfolgungsbehörden
 - [**Art. 13 StPO**](../art-013/) — Gerichte
-- Art. 14 StPO — Zuständigkeiten im Allgemeinen (nicht als Glossagens-Artikel vorhanden)
+- [**Art. 14 StPO**](../art-014/) — Bezeichnung und Organisation der Strafbehörden
 - [**Art. 16 StPO**](../art-016/) — Staatsanwaltschaft (Aufsichts- und Weisungsbefugnis)
 - [**Art. 17 StPO**](../art-017/) — Übertretungsstrafbehörden
 - Art. 18 StPO — Gerichtsorganisation (nicht als Glossagens-Artikel vorhanden)

@@ -84,7 +84,7 @@ Das Verschlechterungsverbot (Art. 391 Abs. 2 StPO) ist eine der wichtigsten Spez
 
 Im Beschwerdeverfahren gegen erstinstanzliche Entscheide (Art. 386–396 StPO) gilt Art. 379 StPO ebenfalls. Die allgemeinen Bestimmungen über die Verfahrensbeteiligung, die Beweisführung und die Fristen finden sinngemäss Anwendung, soweit die besonderen Beschwerdevorschriften (insbesondere Art. 396 StPO zur Form und Frist) nicht eine Spezialregelung treffen (Rz. 16).
 
-Das Bundesgericht hat in [BGer 1B 259/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_259_2018) vom 26. Juni 2018 die Sistierung eines Beschwerdeverfahrens behandelt und dabei die allgemeinen verfahrensrechtlichen Grundsätze auf das Beschwerdeverfahren angewendet. Dies illustriert, dass die allgemeinen Bestimmungen über die Verfahrensleitung und die Verfahrenshandlungen auch im Beschwerdeverfahren sinngemäss anwendbar sind (Rz. 17).
+Das Bundesgericht hat in [BGer 1B 259/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_259_2018) vom 26. Juni 2018 die Sistierung eines Beschwerdeverfahrens behandelt und dabei die allgemeinen verfahrensrechtlichen Grundsätze auf das Beschwerdeverfahren angewendet. Dies illustriert, dass die allgemeinen Bestimmungen über die Verfahrensleitung ([Art. 61](../art-061/) StPO) und die Verfahrenshandlungen auch im Beschwerdeverfahren sinngemäss anwendbar sind (Rz. 17).
 
 #### 2. Beschwerde im Rahmen der Anklageerhebung
 

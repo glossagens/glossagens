@@ -48,7 +48,7 @@ Die **Polizei**, die **Staatsanwaltschaft** und die **Gerichte** können die erk
 
 ### 2. Dringende Fälle — Verfahrensleitung
 
-In **dringenden Fällen** genügt die **Verfahrensleitung** der Polizei, der Staatsanwaltschaft oder des Gerichts. Der Begriff der Dringlichkeit entspricht dem bei anderen Zwangsmassnahmen — eine Massnahme ist dringlich, wenn sie **nicht aufschiebbar** ist, ohne dass der Zweck der Massnahme gefährdet würde (Gefahr im Verzug). Die Verfahrensleitung trägt die Verantwortung für die Anordnung und muss die Voraussetzungen nachweisen können.
+In **dringenden Fällen** genügt die **Verfahrensleitung** ([Art. 61](../art-061/) StPO) der Polizei, der Staatsanwaltschaft oder des Gerichts. Der Begriff der Dringlichkeit entspricht dem bei anderen Zwangsmassnahmen — eine Massnahme ist dringlich, wenn sie **nicht aufschiebbar** ist, ohne dass der Zweck der Massnahme gefährdet würde (Gefahr im Verzug). Die Verfahrensleitung trägt die Verantwortung für die Anordnung und muss die Voraussetzungen nachweisen können.
 
 ## IV. Abs. 3 — Form des Befehls
 

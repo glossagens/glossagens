@@ -2,7 +2,7 @@
 title: "Art. 4 StPO — Unabhängigkeit"
 weight: 4
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 4 StPO: Unabhängigkeit der Strafbehörden bei der Rechtsanwendung."
 tags: ["Unabhängigkeit", "Gewaltentrennung", "Weisungsbefugnis", "Rechtsanwendung"]
 agent_verified: true
@@ -36,7 +36,7 @@ Die Unabhängigkeit bezieht sich auf die **Rechtsanwendung**, nicht auf die gesa
 
 ## III. Ausnahme: Weisungsbefugnisse (Abs. 2)
 
-Art. 14 StPO erlaubt **gesetzliche Weisungsbefugnisse** gegenüber Strafverfolgungsbehörden (Staatsanwaltschaft, Polizei). Diese Ausnahme ist eng auszulegen:
+[Art. 14](../art-014/) StPO erlaubt **gesetzliche Weisungsbefugnisse** gegenüber Strafverfolgungsbehörden (Staatsanwaltschaft, Polizei). Diese Ausnahme ist eng auszulegen:
 
 | Weisungsberechtigte | Adressat | Beispiele |
 |--------------------|---------|-----------|

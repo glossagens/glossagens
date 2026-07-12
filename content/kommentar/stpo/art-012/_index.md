@@ -36,7 +36,7 @@ Die Polizei ist die erste und am breitesten tätige Strafverfolgungsbehörde. Si
 
 #### 2. Die Staatsanwaltschaft (lit. b)
 
-Die Staatsanwaltschaft ist die Leitbehörde des Ermittlungsverfahrens (Art. 16 StPO). Sie trägt die Verantwortung für die Durchführung des Vorverfahrens und der Untersuchung, entscheidet über die Erhebung der Anklage (Art. 324 ff. StPO) und vertritt die Anklage vor Gericht. Art. 12 lit. b StPO bestätigt die Staatsanwaltschaft als zentrale Strafverfolgungsbehörde des schweizerischen Strafverfahrens. Die nähere Ausgestaltung — insbesondere die Organisation als Monopol- oder Konkurrenzmodell — bleibt dem kantonalen Gesetzgeber überlassen (vgl. Art. 14 StPO).
+Die Staatsanwaltschaft ist die Leitbehörde des Ermittlungsverfahrens (Art. 16 StPO). Sie trägt die Verantwortung für die Durchführung des Vorverfahrens und der Untersuchung, entscheidet über die Erhebung der Anklage (Art. 324 ff. StPO) und vertritt die Anklage vor Gericht. Art. 12 lit. b StPO bestätigt die Staatsanwaltschaft als zentrale Strafverfolgungsbehörde des schweizerischen Strafverfahrens. Die nähere Ausgestaltung — insbesondere die Organisation als Monopol- oder Konkurrenzmodell — bleibt dem kantonalen Gesetzgeber überlassen (vgl. [Art. 14](../art-014/) StPO).
 
 #### 3. Die Übertretungsstrafbehörden (lit. c)
 
@@ -44,7 +44,7 @@ Die Übertretungsstrafbehörden sind eine spezifisch schweizerische Besonderheit
 
 ### III. Systematische Stellung im Organisationskapitel
 
-Art. 12 StPO ist eine Definitions- und Aufzählungsnorm. Die nähere Ausgestaltung der Behördenorganisation wird durch die nachfolgenden Artikel geregelt: [Art. 13 StPO](../art-013/) zählt die Gerichte auf, Art. 14 StPO überlässt Bund und Kantonen die Bezeichnung und Organisation der Strafbehörden, [Art. 15 StPO](../art-015/) regelt die Stellung der Polizei als Hilfsbehörde, [Art. 16 StPO](../art-016/) die Rolle der Staatsanwaltschaft, [Art. 17 StPO](../art-017/) die Übertretungsstrafbehörden und Art. 18 ff. StPO die Zuständigkeit der Gerichte.
+Art. 12 StPO ist eine Definitions- und Aufzählungsnorm. Die nähere Ausgestaltung der Behördenorganisation wird durch die nachfolgenden Artikel geregelt: [Art. 13 StPO](../art-013/) zählt die Gerichte auf, [Art. 14 StPO](../art-014/) überlässt Bund und Kantonen die Bezeichnung und Organisation der Strafbehörden, [Art. 15 StPO](../art-015/) regelt die Stellung der Polizei als Hilfsbehörde, [Art. 16 StPO](../art-016/) die Rolle der Staatsanwaltschaft, [Art. 17 StPO](../art-017/) die Übertretungsstrafbehörden und Art. 18 ff. StPO die Zuständigkeit der Gerichte.
 
 Bund und Kantone sind in der Bezeichnung und Organisation der Strafbehörden grundsätzlich frei (Art. 14 Abs. 1 StPO). Sie regeln namentlich Wahl, Zusammensetzung, Organisation und Befugnisse der Strafbehörden, soweit die StPO oder andere Bundesgesetze dies nicht abschliessend tun (Art. 14 Abs. 2 StPO). Art. 14 Abs. 1 StPO überlässt es den Kantonen insbesondere festzulegen, welche Behörden die Funktionen der in Art. 12 StPO aufgelisteten Strafverfolgungsbehörden zu übernehmen haben und welche Bezeichnungen sie tragen sollen (BGE 142 IV 70 E. 3 mit Verweis auf BBl 2006 1095).
 
@@ -66,7 +66,7 @@ Die Frage der Gültigkeit von Strafbefehlen, die von nicht zuständigen Übertre
 
 ### VII. Verhältnis zu Art. 14 StPO (Organisationsautonomie)
 
-Art. 14 StPO konkretisiert die in Art. 12 StPO enthaltene Aufzählung, indem er die Organisation der Strafbehörden weitgehend dem kantonalen und eidgenössischen Gesetzgeber überlässt. Das Bundesgericht hat in BGE 142 IV 70 E. 3 klargestellt, dass ein vereinheitlichtes Strafprozessrecht ohne ein Mindestmass an Übereinstimmung in der Behördenorganisation nicht denkbar ist, dass aber die StPO in «rudimentärer Form» vorgibt, welche Behörden zu schaffen sind. Wie diese Behörden im Einzelnen zusammengesetzt sind, wie sie bezeichnet oder welche sachlichen Zuständigkeiten ihnen zugewiesen werden, bleibt den Kantonen überlassen. Art. 12 StPO schafft damit den Rahmen, Art. 14 StPO eröffnet den Gestaltungsspielraum.
+[Art. 14](../art-014/) StPO konkretisiert die in Art. 12 StPO enthaltene Aufzählung, indem er die Organisation der Strafbehörden weitgehend dem kantonalen und eidgenössischen Gesetzgeber überlässt. Das Bundesgericht hat in BGE 142 IV 70 E. 3 klargestellt, dass ein vereinheitlichtes Strafprozessrecht ohne ein Mindestmass an Übereinstimmung in der Behördenorganisation nicht denkbar ist, dass aber die StPO in «rudimentärer Form» vorgibt, welche Behörden zu schaffen sind. Wie diese Behörden im Einzelnen zusammengesetzt sind, wie sie bezeichnet oder welche sachlichen Zuständigkeiten ihnen zugewiesen werden, bleibt den Kantonen überlassen. Art. 12 StPO schafft damit den Rahmen, Art. 14 StPO eröffnet den Gestaltungsspielraum.
 
 ### VIII. Rechtsprechungsübersicht
 
@@ -81,7 +81,7 @@ Die Rechtsprechung zu Art. 12 StPO konzentriert sich auf drei Themenfelder: (1) 
 - [Art. 9 StPO](../art-009/) — Anklagegrundsatz
 - [Art. 10 StPO](../art-010/) — Unschuldsvermutung und Beweiswürdigung
 - [Art. 13 StPO](../art-013/) — Gerichte
-- Art. 14 StPO — Bezeichnung und Organisation der Strafbehörden (nicht als eigener Artikel kommentiert)
+- [Art. 14 StPO](../art-014/) — Bezeichnung und Organisation der Strafbehörden
 - [Art. 15 StPO](../art-015/) — Polizei
 - [Art. 16 StPO](../art-016/) — Staatsanwaltschaft
 - [Art. 17 StPO](../art-017/) — Übertretungsstrafbehörden
