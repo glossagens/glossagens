@@ -2,7 +2,7 @@
 title: "Art. 197 StPO — Grundsätze der Zwangsmassnahmen"
 weight: 197
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 197 StPO: Voraussetzungen aller Zwangsmassnahmen — gesetzliche Grundlage, hinreichender Tatverdacht, Subsidiarität, Verhältnismässigkeit, Schutz nicht beschuldigter Personen."
 tags: ["Zwangsmassnahmen", "Verhältnismässigkeit", "Tatverdacht", "gesetzliche Grundlage", "Subsidiarität", "DNA-Profil", "Grundrechte", "Drittbetroffene"]
 agent_verified: true
@@ -64,7 +64,7 @@ Zwangsmassnahmen dürfen den Grundsatz, dass sich niemand selbst belasten muss (
 | Norm | Verhältnis zu Art. 197 StPO |
 |---|---|
 | Art. 196 StPO | Begriff und Zwecke der Zwangsmassnahmen |
-| Art. 198 StPO | Zuständigkeit zur Anordnung |
+| [Art. 198](../art-198/) StPO | Zuständigkeit zur Anordnung |
 | Art. 212 ff., 221 StPO | Haft — dringender (qualifizierter) Tatverdacht (→ [Art. 212](../art-212/), [Art. 221](../art-221/)) |
 | Art. 237 StPO | Ersatzmassnahmen als mildere Mittel (→ [Art. 237](../art-237/)) |
 | Art. 241 ff. StPO | Durchsuchungen (→ [Art. 244](../art-244/)) |

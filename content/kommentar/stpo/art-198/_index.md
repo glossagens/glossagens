@@ -61,7 +61,7 @@ Nach [BGE 145 IV 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_50) E. 
 
 Art. 198 Abs. 2 StPO erlaubt Bund und Kantonen, die polizeiliche Befugnis zur Anordnung und Durchführung von Zwangsmassnahmen auf Polizeiangehörige mit einem **bestimmten Grad oder einer bestimmten Funktion** zu beschränken. Diese Bestimmung trägt dem Umstand Rechnung, dass die Kantone ihre Polizeikorps unterschiedlich organisieren und dass eine gewisse Hierarchie bei der Anordnung von Zwangsmassnahmen sachgerecht ist (Rz. 11).
 
-Die kantonale Regelung muss jedoch in einem **gültigen kantonalen Erlass** ausgeschieden sein. Wie [BGE 142 IV 70](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_70) E. 3–4 im Kontext der Zuständigkeit für Übertretungsstrafbefehle (Art. 17 Abs. 1 und Art. 311 Abs. 1 Satz 2 StPO) festhält, richten sich dieartige Zuständigkeitsregelungen an den kantonalen Gesetzgeber. Hat ein Kanton von der vorgesehenen Möglichkeit keinen Gebrauch gemacht, gelangen die gewöhnlichen Bestimmungen der StPO zur Anwendung. Eine kantonale Regelung, wonach die Zuständigkeit innerhalb der Staatsanwaltschaft anders verteilt wird, verstösst nicht gegen übergeordnetes Recht, setzt aber einen gültigen Erlass voraus (Rz. 12).
+Die kantonale Regelung muss jedoch in einem **gültigen kantonalen Erlass** ausgeschieden sein. Wie [BGE 142 IV 70](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_70) E. 3–4 im Kontext der Zuständigkeit für Übertretungsstrafbefehle (Art. 17 Abs. 1 und Art. 311 Abs. 1 Satz 2 StPO) festhält, richten sich derartige Zuständigkeitsregelungen an den kantonalen Gesetzgeber. Hat ein Kanton von der vorgesehenen Möglichkeit keinen Gebrauch gemacht, gelangen die gewöhnlichen Bestimmungen der StPO zur Anwendung. Eine kantonale Regelung, wonach die Zuständigkeit innerhalb der Staatsanwaltschaft anders verteilt wird, verstösst nicht gegen übergeordnetes Recht, setzt aber einen gültigen Erlass voraus (Rz. 12).
 
 ### VI. Verhältnis zu den allgemeinen Voraussetzungen (Art. 197 StPO)
 
@@ -87,7 +87,7 @@ Nach dem Inkrafttreten der StPO am 1. Januar 2011 galt der Grundsatz, die bisher
 
 ### XI. Rechtsmittel
 
-Gegen Anordnungen von Zwangsmassnahmen richten sich die Rechtsmittel nach den allgemeinen Bestimmungen (Art. 379 ff. StPO). Die Zuständigkeitsfrage nach Art. 198 StPO kann mit dem Rechtsmittel gegen die eigentliche Zwangsmassnahme jointly geltend gemacht werden. Eine falsche Zuständigkeitsverteilung kann zur Aufhebung der Massnahme führen, sofern der Fehler nicht geheilt ist (Art. 141 StPO) (Rz. 19).
+Gegen Anordnungen von Zwangsmassnahmen richten sich die Rechtsmittel nach den allgemeinen Bestimmungen (Art. 379 ff. StPO). Die Zuständigkeitsfrage nach Art. 198 StPO kann mit dem Rechtsmittel gegen die eigentliche Zwangsmassnahme gemeinsam geltend gemacht werden. Eine falsche Zuständigkeitsverteilung kann zur Aufhebung der Massnahme führen, sofern der Fehler nicht geheilt ist (Art. 141 StPO) (Rz. 19).
 
 ### XII. Verhältnis zu Art. 197 StPO und weiteren Bestimmungen
 

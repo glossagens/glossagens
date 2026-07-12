@@ -108,7 +108,7 @@ agent_verified: true
 
 **Rz. 33** — *Konstituierung nach Verzicht:* Wegen der Endgültigkeit des Verzichts (Abs. 1 Satz 2) kann die geschädigte Person sich nicht erneut als Privatklägerin konstituieren, wenn sie zuvor wirksam auf ihre Rechte verzichtet hat. Eine nachträglich abgegebene Konstituierungserklärung ist unbeachtlich. Die einzige Ausnahme besteht bei einem Willensmangel (Rz. 17), der den ursprünglichen Verzicht von vornherein nichtig macht.
 
-### X. Übergangsrecht und aortrechtliche Entscheide
+### X. Übergangsrecht und altrechtliche Entscheide
 
 **Rz. 34** — Vor Inkrafttreten der StPO am 1. Januar 2011 war der Verzicht auf die Privatklägerschaft im kantonalen Recht geregelt. Für Entscheide, die vor diesem Datum gefällt wurden, gilt das Übergangsrecht nach [Art. 453 StPO](../art-453): Soweit ein Entscheid noch vor Inkrafttreten der StPO gefällt worden ist, werden dagegen erhobene Rechtsmittel nach bisherigem Recht beurteilt. Für nach dem 1. Januar 2011 eingeleitete oder fortgeführte Verfahren gilt hingegen die StPO. In BGer [6B_93/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_93_2012) vom 26. September 2012 hatte das Bundesgericht einen Fall zu beurteilen, in dem das erstinstanzliche Verfahren vor Inkrafttreten der StPO durchgeführt wurde und die Berufung nach neuem Recht zu beurteilen war. Die kostenrechtlichen Folgen des Verzichts wurden nach dem neuen Recht der StPO beurteilt.
 
@@ -135,7 +135,7 @@ agent_verified: true
 - Art. 119 StPO — Rechte der Privatklägerschaft (nicht als Artikel vorhanden; reiner Textverweis)
 - Art. 121 StPO — Rechtsnachfolge (nicht als Verzeichnis vorhanden; reiner Textverweis)
 - [Art. 147 StPO](../art-147) — Teilnahmerecht der Parteien bei Beweiserhebungen
-- [Art. 310 StPO](../art-310) — Nichtanhangnahmeverfügung
+- [Art. 310 StPO](../art-310) — Nichtanhandnahmeverfügung
 - [Art. 382 StPO](../art-382) — Legitimation (Rechtsmittel)
 - [Art. 426 StPO](../art-426) — Kostentragungspflicht der beschuldigten Person
 - [Art. 427 StPO](../art-427) — Kostentragungspflicht der Privatklägerschaft

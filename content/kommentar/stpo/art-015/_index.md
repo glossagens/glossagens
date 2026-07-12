@@ -2,7 +2,7 @@
 title: "Art. 15 — Polizei"
 weight: 15
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 15 StPO – Polizei: Aufgaben der Polizei im Strafverfahren, Unterstellung unter Staatsanwaltschaft, Abgrenzung zwischen strafprozessualer und sicherheitspolizeilicher Tätigkeit, Weisungsbefugnis des Gerichts."
 tags: ["StPO", "Polizei", "Strafverfolgungsbehörden", "Ermittlung", "Aufsichtspflicht", "Anfangsverdacht", "Polizeirapport", "Abgrenzung"]
 agent_verified: true
@@ -72,7 +72,7 @@ agent_verified: true
 
 ### VII. Verdeckte Ermittlung und polizeiliche Befugnisse
 
-**Rz. 20** Art. 15 StPO erfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne der Strafprozessordnung. Dies ist auch für die Anordnung von verdeckten Ermittlungen von Bedeutung: Art. 198 StPO sieht vor, dass neben der Staatsanwaltschaft auch «die Polizei» eine verdeckte Fahndung im Ermittlungsverfahren anordnen kann; dies umfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne von Art. 15 StPO. Die Kantone haben jedoch die Möglichkeit, die Anordnungsbefugnisse der Polizei generell oder für einzelne Zwangsmassnahmen Polizeiangehörigen mit einem bestimmten Grad oder einer bestimmten Funktion vorzubehalten (Art. 198 Abs. 2 StPO; [BGer 1C_39/2021](https://mcp.opencaselaw.ch/entscheid/bger_1C_39_2021) vom 29. November 2022 E. mit Hinweis auf Jonas Weber, in: Basler Kommentar zur StPO, 2. Aufl. 2014, N. 11 zu Art. 198 StPO).
+**Rz. 20** Art. 15 StPO erfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne der Strafprozessordnung. Dies ist auch für die Anordnung von verdeckten Ermittlungen von Bedeutung: [Art. 198](../art-198) StPO sieht vor, dass neben der Staatsanwaltschaft auch «die Polizei» eine verdeckte Fahndung im Ermittlungsverfahren anordnen kann; dies umfasst grundsätzlich sämtliche Polizeiangehörigen im Sinne von Art. 15 StPO. Die Kantone haben jedoch die Möglichkeit, die Anordnungsbefugnisse der Polizei generell oder für einzelne Zwangsmassnahmen Polizeiangehörigen mit einem bestimmten Grad oder einer bestimmten Funktion vorzubehalten (Art. 198 Abs. 2 StPO; [BGer 1C_39/2021](https://mcp.opencaselaw.ch/entscheid/bger_1C_39_2021) vom 29. November 2022 E. mit Hinweis auf Jonas Weber, in: Basler Kommentar zur StPO, 2. Aufl. 2014, N. 11 zu Art. 198 StPO).
 
 ### VIII. Verhältnis zu Art. 306 ff. StPO (polizeiliche Ermittlungen)
 
@@ -110,7 +110,7 @@ agent_verified: true
 - [**Art. 141 StPO**](../art-141/) — Verwertbarkeit rechtswidrig erlangter Beweise
 - [**Art. 149 StPO**](../art-149/) — Schutzmassnahmen (Im Allgemeinen)
 - [**Art. 197 StPO**](../art-197/) — Beschlagnahme von Post und Fernmeldeverkehr (Anfangsverdacht als Voraussetzung)
-- Art. 198 StPO — Verdeckte Fahndung (Polizeiangehörige im Sinne von Art. 15 StPO)
+- [Art. 198](../art-198) StPO — Verdeckte Fahndung (Polizeiangehörige im Sinne von Art. 15 StPO)
 - Art. 285 ff. StPO — Verdeckte Ermittlung (nicht als Glossagens-Artikel vorhanden)
 - Art. 306 StPO — Polizeiliche Ermittlungen (nicht als Glossagens-Artikel vorhanden)
 - Art. 307 StPO — Meldung an die Staatsanwaltschaft (nicht als Glossagens-Artikel vorhanden)

@@ -2,7 +2,7 @@
 title: "Art. 410 — Zulässigkeit und Revisionsgründe"
 weight: 410
 date: "2026-06-07"
-lastmod: "2026-06-27"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 410 StPO — Revision rechtskräftiger Entscheide: Zulässigkeit, Revisionsgründe (neue Tatsachen/Beweismittel, Widerspruch, strafbare Einwirkung), EMRK-Revision, Verjährung, Zivilansprüche"
 tags: ["StPO", "Revision", "Rechtskraft", "EMRK", "Wiederaufnahme", "ne-bis-in-idem"]
 agent_verified: true
@@ -38,7 +38,7 @@ agent_verified: true
 
 **2** **Anwendbarkeit auf verschiedene Entscheidformen.** Abs. 1 nennt explizit vier Entscheidformen, gegen die Revision möglich ist: (a) rechtskräftige Urteile, (b) Strafbefehle, (c) nachträgliche richterliche Entscheide und (d) Entscheide im selbstständigen Massnahmenverfahren. Damit ist der Anwendungsbereich bewusst weit gefasst. Das Bundesgericht hat zudem klargestellt, dass es in analoger Anwendung von Art. 119a BGG für Revisionsgesuche gegen Strafbefehle der Bundesanwaltschaft zuständig ist ([BGE 141 IV 298](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_298) E. 1).
 
-**3** **Systematik.** Art. 410 StPO regelt die materiellen Revisionsgründe; Art. 411 StPO das Form und Frist (Revisionsgesuche sind schriftlich und begründet beim Berufungsgericht einzureichen; 90-Tages-Frist für lit. b und Abs. 2); Art. 412 StPO die Vorprüfung und Eintreten; Art. 413 StPO den Entscheid. Die Art. 410–413 StPO bilden zusammen das Revisionsverfahren.
+**3** **Systematik.** Art. 410 StPO regelt die materiellen Revisionsgründe; Art. 411 StPO das Form und Frist (Revisionsgesuche sind schriftlich und begründet beim Berufungsgericht einzureichen; 90-Tages-Frist für lit. b und Abs. 2); [Art. 412](../art-412) StPO die Vorprüfung und Eintreten; Art. 413 StPO den Entscheid. Die Art. 410–413 StPO bilden zusammen das Revisionsverfahren.
 
 ## Kommentierung
 
