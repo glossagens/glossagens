@@ -32,6 +32,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 56](art-056) | Ausstandsgründe |
 | [Art. 59](art-059) | Entscheid über Ausstandsbegehren |
 | [Art. 60](art-060) | Folgen der Verletzung von Ausstandsvorschriften |
+| [Art. 61](art-061) | Zuständigkeit (Verfahrensleitung) |
 | [Art. 68](art-068) | Inhalt der Akten |
 | [Art. 81](art-081) | Inhalt der Endentscheide |
 | [Art. 82](art-082) | Einschränkungen der Begründungspflicht |
