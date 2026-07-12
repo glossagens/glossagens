@@ -86,7 +86,7 @@ Art. 34 Abs. 3 StPO ist die **verfahrensrechtliche Grundlage** für die nachträ
 
 ## VIII. Verhältnis zu Art. 56 StPO
 
-Art. 56 StPO regelt die **Vermischung von Freiheitsstrafen und Massnahmen** in anderem Zusammenhang. Die Gesamtstrafenfestsetzung nach Art. 34 Abs. 3 StPO betrifft nur **gleichartige Strafen** und hat keine Massnahmen zum Gegenstand. Die Zuständigkeit für die nachtregliche Vermischung von Freiheitsstrafen und sichernden Massnahmen richtet sich nach den besonderen Vorschriften des Massnahmenvollzugs, nicht nach Art. 34 Abs. 3 StPO.
+Art. 56 StPO regelt die **Vermischung von Freiheitsstrafen und Massnahmen** in anderem Zusammenhang. Die Gesamtstrafenfestsetzung nach Art. 34 Abs. 3 StPO betrifft nur **gleichartige Strafen** und hat keine Massnahmen zum Gegenstand. Die Zuständigkeit für die nachträgliche Vermischung von Freiheitsstrafen und sichernden Massnahmen richtet sich nach den besonderen Vorschriften des Massnahmenvollzugs, nicht nach Art. 34 Abs. 3 StPO.
 
 ## IX. Verjährung
 
