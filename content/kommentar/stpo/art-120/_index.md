@@ -18,7 +18,7 @@ agent_verified: true
 
 ### I. Stellung und Funktion der Norm
 
-**Rz. 1** — Art. 120 StPO regelt den Verzicht der geschädigten Person auf ihre Rechte als Privatklägerschaft sowie den Rückzug einer bereits erhobenen Straf- oder Zivilklage. Die Norm ist das Gegenstück zu [Art. 118 StPO](../art-118) (Konstituierung als Privatklägerschaft) und zu Art. 119 StPO (Rechte der Privatklägerschaft): Während Art. 118 den Eintritt in die Parteistellung und Art. 119 deren Inhalt ordnet, regelt Art. 120 den Austritt — den freiwilligen Verzicht auf die einmal erworbenen Verfahrensrechte. Die Bestimmung steht im Kapitel «Beteiligte» (Art. 104–134 StPO) innerhalb der Unterkapitel zur Privatklägerschaft (Art. 115–122 StPO) und ist damit systematisch in den Kernbereich der Verfahrensbeteiligten eingebettet.
+**Rz. 1** — Art. 120 StPO regelt den Verzicht der geschädigten Person auf ihre Rechte als Privatklägerschaft sowie den Rückzug einer bereits erhobenen Straf- oder Zivilklage. Die Norm ist das Gegenstück zu [Art. 118 StPO](../art-118) (Konstituierung als Privatklägerschaft) und zu [Art. 119 StPO](../art-119) (Form und Inhalt der Erklärung): Während Art. 118 den Eintritt in die Parteistellung und Art. 119 die Form und den Inhalt der Erklärung ordnet, regelt Art. 120 den Austritt — den freiwilligen Verzicht auf die einmal erworbenen Verfahrensrechte. Die Bestimmung steht im Kapitel «Beteiligte» (Art. 104–134 StPO) innerhalb der Unterkapitel zur Privatklägerschaft (Art. 115–122 StPO) und ist damit systematisch in den Kernbereich der Verfahrensbeteiligten eingebettet.
 
 **Rz. 2** — Die Norm bezweckt Rechtssicherheit und Rechtsfrieden: Die Strafverfolgungsbehörden sollen wissen, ob und in welchem Umfang die geschädigte Person am Verfahren teilnimmt, und die beschuldigte Person soll vor einer unvorhersehbaren Wiederaktivierung privater Verfolgungsrechte geschützt sein. Die Endgültigkeit des Verzichts (Abs. 1 Satz 2) ist das zentrale dogmatische Merkmal: Sie unterscheidet den Verzicht vom blossen Rückzug eines Strafantrags nach [Art. 33 StGB](https://www.fedlex.admin.ch/eli/cc/1937/1_965_965/de), der wiederaufnehmbar wäre, solange die dreimonatige Antragsfrist läuft (BGE 145 IV 190, E. 1.5.2).
 
@@ -132,7 +132,7 @@ agent_verified: true
 - [Art. 107 StPO](../art-107) — Einschränkungen des rechtlichen Gehörs
 - [Art. 115 StPO](../art-115) — Geschädigte Person (Definition)
 - [Art. 118 StPO](../art-118) — Begriff und Voraussetzungen (Privatklägerschaft)
-- Art. 119 StPO — Rechte der Privatklägerschaft (nicht als Artikel vorhanden; reiner Textverweis)
+- [Art. 119 StPO](../art-119) — Form und Inhalt der Erklärung
 - Art. 121 StPO — Rechtsnachfolge (nicht als Verzeichnis vorhanden; reiner Textverweis)
 - [Art. 147 StPO](../art-147) — Teilnahmerecht der Parteien bei Beweiserhebungen
 - [Art. 310 StPO](../art-310) — Nichtanhandnahmeverfügung

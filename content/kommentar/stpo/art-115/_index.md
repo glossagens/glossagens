@@ -2,7 +2,7 @@
 title: "Art. 115 — Geschädigte Person"
 weight: 115
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 115 StPO – Geschädigte Person"
 tags: ["StPO", "Geschädigte Person", "Parteistellung", "Privatklägerschaft", "Rechtsgut"]
 agent_verified: true
@@ -20,7 +20,7 @@ agent_verified: true
 
 Art. 115 StPO definiert den Begriff der geschädigten Person und legt damit die Voraussetzungen für eine zentrale Verfahrensstellung im Schweizer Strafprozess fest. Die geschädigte Person ist Ausgangspunkt mehrerer prozessualer Befugnisse: Sie kann sich als Privatklägerin konstituieren (Art. 118 StPO), ihr steht unter Umständen ein Strafantragsrecht zu (Art. 30 StGB), und sie kann zivilrechtliche Ansprüche im Strafverfahren geltend machen (Art. 122 ff. StPO). Die Bedeutung der Norm liegt somit weniger in ihrem Eigenwert als in ihrer Funktion als „Türöffner" für weitergehende Parteistellungen und Verfahrensbefugnisse.
 
-Die Vorschrift gehört zum Vierten Titel der StPO („Personen, die im Strafverfahren Rechte geltend machen"), der die Stellungen der beschuldigten Person (Art. 113–114 StPO), der geschädigten Person (Art. 115–118 StPO), der Privatklägerschaft (Art. 118 StPO) und der antragstellenden Person (Art. 119 StPO) regelt. Art. 115 StPO bildet die Grundlage für die daran anknüpfenden Bestimmungen über die Rechte der geschädigten Person (Art. 116 StPO), ihre Befragung (Art. 117 StPO) und die Konstituierung als Privatklägerin (Art. 118 StPO).
+Die Vorschrift gehört zum Vierten Titel der StPO („Personen, die im Strafverfahren Rechte geltend machen"), der die Stellungen der beschuldigten Person (Art. 113–114 StPO), der geschädigten Person (Art. 115–118 StPO) und der Privatklägerschaft (Art. 118–120 StPO) regelt. Art. 115 StPO bildet die Grundlage für die daran anknüpfenden Bestimmungen über die Rechte der geschädigten Person (Art. 116 StPO), ihre Befragung (Art. 117 StPO) und die Konstituierung als Privatklägerin (Art. 118 StPO).
 
 ### II. Voraussetzungen der Geschädigtenstellung (Abs. 1)
 
@@ -86,7 +86,7 @@ Die Rechtsprechung des Bundesgerichts zu Art. 115 StPO folgt einer Rechtsgutsthe
 
 - **Geschädigte Person (Art. 115 StPO) vs. beschuldigte Person (Art. 113 StPO)**: Die Stellung als geschädigte Person schliesst die gleichzeitige Stellung als beschuldigte Person in derselben Sache nicht zwingend aus (z.B. bei Gegenseitigkeitstätern), doch sind die Verfahrensrollen strikt zu trennen.
 - **Geschädigte Person vs. Privatklägerschaft (Art. 118 StPO)**: Die Geschädigtenstellung ist die Vorstufe; die Privatklägerschaft erfordert die ausdrückliche Konstituierung.
-- **Geschädigte Person vs. antragstellende Person (Art. 119 StPO)**: Die antragstellende Person ist Geschädigte, die im Verfahren ein konkretes Begehren stellt, ohne sich als Privatkläger zu konstituieren.
+- **Geschädigte Person vs. antragstellende Person**: Die antragstellende Person ist Geschädigte, die im Verfahren ein konkretes Begehren stellt, ohne sich als Privatkläger zu konstituieren.
 - **Geschädigte Person vs. Auskunftsperson (Art. 178 StPO)**: Die Auskunftsperson ist nicht Partei und hat keine Geschädigtenstellung; sie stellt lediglich Informationen zur Verfügung.
 
 ### VIII. Verfahrensrechte der geschädigten Person
@@ -114,7 +114,7 @@ Aus der Geschädigtenstellung nach Art. 115 StPO ergeben sich — auch ohne Kons
 - Art. 116 StPO — Rechte der geschädigten Person *(nicht kommentiert)*
 - Art. 117 StPO — Befragung der geschädigten Person *(nicht kommentiert)*
 - [Art. 118 StPO](../art-118) — Begriff und Voraussetzungen (Privatklägerschaft)
-- Art. 119 StPO — Antragstellende Person *(nicht kommentiert)*
+- [Art. 119 StPO](../art-119) — Form und Inhalt der Erklärung
 - Art. 122 StPO — Zivilklage im Strafverfahren *(nicht kommentiert)*
 - Art. 30 StGB — Strafantrag
 - Art. 81 BGG — Beschwerdelegitimation

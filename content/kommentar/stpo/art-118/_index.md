@@ -2,7 +2,7 @@
 title: "Art. 118 — Begriff und Voraussetzungen"
 weight: 118
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 118 StPO – Begriff und Voraussetzungen (Privatklägerschaft)"
 tags: ["StPO", "Privatklägerschaft", "Geschädigte Person", "Parteistellung"]
 agent_verified: true
@@ -24,7 +24,7 @@ agent_verified: true
 
 **Rz. 1** — Art. 118 StPO regelt die Konstituierung der Privatklägerschaft. Die Norm bildet das Bindeglied zwischen der Geschädigteneigenschaft nach [Art. 115 StPO](../art-115) (geschädigte Person) und der aktiven Parteistellung im Strafverfahren: Nicht jede geschädigte Person wird automatisch Privatklägerin, sondern nur jene, die eine ausdrückliche Erklärung abgibt (Abs. 1) oder einen Strafantrag stellt (Abs. 2). Die Norm ist damit zentral für die Ausübung von Verfahrensrechten — etwa das Recht auf Akteneinsicht (Art. 101 StPO), die Teilnahme an Beweiserhebungen ([Art. 147 StPO](../art-147)) oder die Ergreifung von Rechtsmitteln (Art. 382 StPO).
 
-**Rz. 2** — Die Bestimmung steht im Kapitel «Beteiligte» (Art. 104–134 StPO) und konkretisiert den in [Art. 104 Abs. 1 StPO](../art-104) genannten Parteibegriff. Art. 118 ist die entscheidende Norm für den Übergang von der blossen Geschädigtenstellung zur aktiven Verfahrensbeteiligung. Systematisch folgt sie auf [Art. 115 StPO](../art-115) (Geschädigte Person), der die Voraussetzungen der Geschädigteneigenschaft definiert, und geht Art. 119 StPO (Rechte der Privatklägerschaft) voraus, der die konkreten Befugnisse auflistet.
+**Rz. 2** — Die Bestimmung steht im Kapitel «Beteiligte» (Art. 104–134 StPO) und konkretisiert den in [Art. 104 Abs. 1 StPO](../art-104) genannten Parteibegriff. Art. 118 ist die entscheidende Norm für den Übergang von der blossen Geschädigtenstellung zur aktiven Verfahrensbeteiligung. Systematisch folgt sie auf [Art. 115 StPO](../art-115) (Geschädigte Person), der die Voraussetzungen der Geschädigteneigenschaft definiert, und geht [Art. 119 StPO](../art-119) (Form und Inhalt der Erklärung) voraus, der regelt, wie und mit welchem Inhalt die Konstituierungserklärung abzugeben ist.
 
 ### II. Voraussetzungen der Privatklägerschaft (Abs. 1)
 
@@ -80,7 +80,7 @@ agent_verified: true
 
 - Art. 104 StPO — Parteien (kein Verzeichnis vorhanden)
 - [Art. 115 StPO](../art-115) — Geschädigte Person (Definition des Geschädigtenbegriffs)
-- Art. 119 StPO — Rechte der Privatklägerschaft (nicht als Artikel vorhanden)
+- [Art. 119 StPO](../art-119) — Form und Inhalt der Erklärung
 - Art. 121 StPO — Rechtsnachfolge (nicht als Verzeichnis vorhanden; reiner Textverweis)
 - [Art. 124 StPO](../art-124) — Zuständigkeit und Verfahren (Zivilanspruch)
 - [Art. 127 StPO](../art-127) — Rechtsbeistand

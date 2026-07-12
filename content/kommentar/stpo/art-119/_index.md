@@ -22,7 +22,7 @@ agent_verified: true
 
 ### I. Stellung und Funktion der Norm
 
-**Rz. 1** — Art. 119 StPO regelt die Form und den Inhalt der Erklärung, mit der sich die geschädzte Person als Privatklägerschaft konstituiert. Die Norm steht in unmittelbarem systematischem Zusammenhang mit [Art. 118 StPO](../art-118), der die Voraussetzungen der Privatklägerschaft definiert (ausdrückliche Erklärung, Geschädigteneigenschaft nach [Art. 115 StPO](../art-115), Frist bis zum Abschluss des Vorverfahrens). Während Art. 118 StPO das *Ob* der Konstituierung regelt, normiert Art. 119 StPO das *Wie* und das *Was*: In welcher Form ist die Erklärung abzugeben, und welche Inhalte kann sie haben?
+**Rz. 1** — Art. 119 StPO regelt die Form und den Inhalt der Erklärung, mit der sich die geschädigte Person als Privatklägerschaft konstituiert. Die Norm steht in unmittelbarem systematischem Zusammenhang mit [Art. 118 StPO](../art-118), der die Voraussetzungen der Privatklägerschaft definiert (ausdrückliche Erklärung, Geschädigteneigenschaft nach [Art. 115 StPO](../art-115), Frist bis zum Abschluss des Vorverfahrens). Während Art. 118 StPO das *Ob* der Konstituierung regelt, normiert Art. 119 StPO das *Wie* und das *Was*: In welcher Form ist die Erklärung abzugeben, und welche Inhalte kann sie haben?
 
 **Rz. 2** — Die Bestimmung ist von zentraler praktischer Bedeutung, weil sie das Fundament für die beiden Hauptfunktionen der Privatklägerschaft legt: die Strafklage (Verfolgung und Bestrafung der verantwortlichen Person) und die Zivilklage (adhäsionsweise Geltendmachung privatrechtlicher Ansprüche). Diese beiden Funktionen können kumulativ oder alternativ ausgeübt werden — ein Gestaltungsrecht, das die Privatklägerschaft im Laufe des Verfahrens flexibel anpassen kann (vorbehältlich der Grenzen von [Art. 120 StPO](../art-120) betreffend Verzicht und Rückzug).
 
@@ -30,7 +30,7 @@ agent_verified: true
 
 ### II. Form der Erklärung (Abs. 1)
 
-**Rz. 4** — Abs. 1 lässt zwei Formen der Erklärung zu: die schriftliche und die mündliche zu Protokoll. Beide Formen sind gleichwertig; eine hierarchische Bevorzugung der Schriftform besteht nicht. Die geschädzte Person kann somit ihre Erklärung in einem Brief an die Staatsanwaltschaft abgeben, in einem Formular einreichen oder mündlich in einer Einvernahme durch die Polizei oder Staatsanwaltschaft zu Protokoll geben.
+**Rz. 4** — Abs. 1 lässt zwei Formen der Erklärung zu: die schriftliche und die mündliche zu Protokoll. Beide Formen sind gleichwertig; eine hierarchische Bevorzugung der Schriftform besteht nicht. Die geschädigte Person kann somit ihre Erklärung in einem Brief an die Staatsanwaltschaft abgeben, in einem Formular einreichen oder mündlich in einer Einvernahme durch die Polizei oder Staatsanwaltschaft zu Protokoll geben.
 
 **Rz. 5** — *Schriftliche Erklärung:* Die Erklärung kann in Briefform, per E-Mail, über ein amtliches Formular oder durch Einreichung eines von einer Rechtsvertretung unterzeichneten Schriftstücks erfolgen. Massgeblich ist, dass der Wille zur Beteiligung als Straf- oder Zivilklägerin schriftlich fixiert wird. Die Unterschrift ist nicht zwingend vorgeschrieben, doch empfiehlt sich in der Praxis eine eigenhändige Unterzeichnung oder elektronische Signatur zur Vermeidung von Zweifeln an der Urheberschaft.
 
@@ -38,7 +38,7 @@ agent_verified: true
 
 **Rz. 7** — *Erklärung gegenüber Strafverfolgungsbehörden:* Wie bei [Art. 118 Abs. 3 StPO](../art-118) muss die Erklärung gegenüber einer Strafverfolgungsbehörde abgegeben werden. Eine Erklärung gegenüber Dritten — etwa gegenüber der Gegenpartei, einer Versicherung oder einem Schlichtungsbüro — begründet keine Privatklägerschaft. Die Polizei gilt als Strafverfolgungsbehörde im Sinne der Norm, weshalb eine Erklärung im Rahmen einer polizeilichen Einvernahme ausreicht.
 
-**Rz. 8** — *Konkludente Erklärung:* Art. 119 StPO verlangt keine besondere Form für den Inhalt der Erklärung; der Wille zur Verfahrensbeteiligung kann sich auch konkludent aus dem Verhalten ergeben, sofern er hinreichend klar zum Ausdruck kommt. Die Stellung eines Strafantrags ist nach [Art. 118 Abs. 2 StPO](../art-118) der ausdrücklichen Erklärung gleichgestellt und konstituiert automatisch die Privatklägerschaft. In der Praxis wird jedoch regelmässig eine formelle Erklärung eingeholt, um Rechts Unsicherheiten zu vermeiden.
+**Rz. 8** — *Konkludente Erklärung:* Art. 119 StPO verlangt keine besondere Form für den Inhalt der Erklärung; der Wille zur Verfahrensbeteiligung kann sich auch konkludent aus dem Verhalten ergeben, sofern er hinreichend klar zum Ausdruck kommt. Die Stellung eines Strafantrags ist nach [Art. 118 Abs. 2 StPO](../art-118) der ausdrücklichen Erklärung gleichgestellt und konstituiert automatisch die Privatklägerschaft. In der Praxis wird jedoch regelmässig eine formelle Erklärung eingeholt, um Rechtsunsicherheiten zu vermeiden.
 
 ### III. Inhalt der Erklärung (Abs. 2)
 
@@ -46,7 +46,7 @@ agent_verified: true
 
 **Rz. 10** — *Strafklage (lit. a):* Die Strafklage ist das Verlangen nach Verfolgung und Bestrafung der für die Straftat verantwortlichen Person. Die Privatklägerschaft übt damit eine dem staatlichen Strafanspruch korrespondierende Funktion aus: Sie verlangt, dass der Staat die Strafverfolgung durchführt und die verantwortliche Person einer gerechten Bestrafung zuführt. Die Strafklage umfasst das Recht, auf Verfolgung zu drängen, an Beweiserhebungen teilzunehmen ([Art. 147 StPO](../art-147)), Akteneinsicht zu verlangen ([Art. 101 StPO](../art-101)) und Rechtsmittel gegen entscheidende Verfügungen und Urteile zu ergreifen.
 
-**Rz. 11** — Die Strafklage ist nicht mit dem Strafantrag nach [Art. 118 Abs. 2 StPO](../art-118) identisch: Der Strafantrag konstituiert zwar die Privatklägerschaft, ist aber bei Antragsdelikten eine prozessuale Voraussetzung für die Verfolgbarkeit überhaupt. Die Strafklage nach Art. 119 Abs. 2 lit. a StPO ist demgegenüber die Ausübung der Verfahrensrechte als Strafklägerin — auch bei Offizizialdelikten, wo kein Strafantrag nötig ist. Wer einen Strafantrag stellt, wird nach Art. 118 Abs. 2 StPO automatisch Strafklägerin; wer bei einem Offizizialdelikt Strafklägerin sein will, muss die Erklärung nach Art. 119 Abs. 2 lit. a StPO abgeben.
+**Rz. 11** — Die Strafklage ist nicht mit dem Strafantrag nach [Art. 118 Abs. 2 StPO](../art-118) identisch: Der Strafantrag konstituiert zwar die Privatklägerschaft, ist aber bei Antragsdelikten eine prozessuale Voraussetzung für die Verfolgbarkeit überhaupt. Die Strafklage nach Art. 119 Abs. 2 lit. a StPO ist demgegenüber die Ausübung der Verfahrensrechte als Strafklägerin — auch bei Offizialdelikten, wo kein Strafantrag nötig ist. Wer einen Strafantrag stellt, wird nach Art. 118 Abs. 2 StPO automatisch Strafklägerin; wer bei einem Offizialdelikt Strafklägerin sein will, muss die Erklärung nach Art. 119 Abs. 2 lit. a StPO abgeben.
 
 **Rz. 12** — *Zivilklage (lit. b):* Die Zivilklage ist die adhäsionsweise Geltendmachung privatrechtlicher Ansprüche, die aus der Straftat abgeleitet werden. Der Begriff «adhäsionsweise» bringt zum Ausdruck, dass die Zivilklage im Strafverfahren «angehängt» wird — der Strafrichter entscheidet über sie im Rahmen des Strafverfahrens, sofern keine Gründe für eine Verweisung auf den Zivilweg vorliegen (vgl. [Art. 124 StPO](../art-124)). Die Zivilklage umfasst Schadensersatz, Genugtuung, Herausgabe und andere privatrechtliche Ansprüche, die in einem direkten Zusammenhang mit der Straftat stehen.
 
@@ -54,7 +54,7 @@ agent_verified: true
 
 - Wer nur Strafklägerin ist, kann die Zivilklage später noch adhäsionsweise geltend machen, solange das Verfahren beim zuständigen Gericht hängig ist (Art. 124 Abs. 1 StPO).
 - Wer nur Zivilklägerin ist, kann auf die Strafklage verzichten, verliert aber die Möglichkeit, aktiv auf die Strafverfolgung einzuwirken (z.B. keine Teilnahme an Beweiserhebungen, keine Rechtsmittel im Strafpunkt).
-- Wer beide Funktionen wahrnimmt, hat die umfassendste Parteistellung, trägt aber auch das volle Kostentrisko ([Art. 427 StPO](../art-427)).
+- Wer beide Funktionen wahrnimmt, hat die umfassendste Parteistellung, trägt aber auch das volle Kostenrisiko ([Art. 427 StPO](../art-427)).
 
 **Rz. 14** — Die Wahl zwischen Strafklage und Zivilklage hat unmittelbare Auswirkungen auf die Parteientschädigung. In [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) hat das Bundesgericht klargestellt, dass die Privatklägerschaft bei Verurteilung der beschuldigten Person durch Strafbefehl als Strafklägerin obsiegt und deshalb für die ihr im Zusammenhang mit der Strafklage erwachsenen Kosten der privaten Verteidigung zu entschädigen ist (E. 4.3). Wird die Zivilklage auf den Zivilweg verwiesen, kann die Privatklägerschaft in ihrer Funktion als Zivilklägerin nicht als obsiegende und bei Erlass eines Strafbefehls auch nicht als unterliegende Partei gelten. Ausschliesslich mit der Zivilklage zusammenhängende Anwaltskosten sind im Falle der Verweisung nicht im Strafverfahren zu entschädigen (E. 4.4).
 
@@ -76,7 +76,7 @@ agent_verified: true
 
 ### VI. Kostentragung und Parteientschädigung
 
-**Rz. 21** — Die Wahl der Klage nach Art. 119 Abs. 2 StPO hat direkte Auswirkungen auf die Kostentragungspflicht. Nach [Art. 427 StPO](../art-427) trägt die unterliegende Privatklägerschaft die Kosten des Verfahrens, soweit diese durch ihre Klage verursacht wurden. Wer nur Strafklägerin ist und im Strafpunkt unterliegt (z.B. bei Freispruch), trägt die durch die Strafklage verursachten Kosten; wer nur Zivilklägerin ist und im Zivilpunkt unterliegt, trägt die Zivilkosten. Wer beide Klagen führt, trägt das volle Kostentrisko.
+**Rz. 21** — Die Wahl der Klage nach Art. 119 Abs. 2 StPO hat direkte Auswirkungen auf die Kostentragungspflicht. Nach [Art. 427 StPO](../art-427) trägt die unterliegende Privatklägerschaft die Kosten des Verfahrens, soweit diese durch ihre Klage verursacht wurden. Wer nur Strafklägerin ist und im Strafpunkt unterliegt (z.B. bei Freispruch), trägt die durch die Strafklage verursachten Kosten; wer nur Zivilklägerin ist und im Zivilpunkt unterliegt, trägt die Zivilkosten. Wer beide Klagen führt, trägt das volle Kostenrisiko.
 
 **Rz. 22** — In [BGer 6B 1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) (416 Zitate) hat sich das Bundesgericht mit der Parteientschädigung im Zusammenhang mit der reformatio in peius befasst. Die Entscheidung zeigt, dass die Wahl der Klage nach Art. 119 StPO nicht nur die Kostentragungspflicht, sondern auch die Parteientschädigung bei Erfolg beeinflusst: Wer als Strafklägerin obsiegt, hat Anspruch auf Entschädigung der im Zusammenhang mit der Strafklage erwachsenen Kosten.
 
