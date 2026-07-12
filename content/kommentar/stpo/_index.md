@@ -43,6 +43,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 | [Art. 113](art-113) | Stellung der beschuldigten Person (nemo tenetur) |
 | [Art. 115](art-115) | Geschädigte Person |
 | [Art. 118](art-118) | Begriff und Voraussetzungen (Privatklägerschaft) |
+| [Art. 120](art-120) | Verzicht und Rückzug |
 | [Art. 124](art-124) | Zuständigkeit und Verfahren (Zivilanspruch) |
 | [Art. 126](art-126) | Entscheid (Zivilklage) |
 | [Art. 127](art-127) | Rechtsbeistand |
