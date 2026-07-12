@@ -2,7 +2,7 @@
 title: "Art. 158 StPO — Einvernahme der beschuldigten Person"
 weight: 158
 date: "2026-05-17"
-lastmod: "2026-06-19"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
 agent_verified: true
@@ -93,7 +93,7 @@ Das Bundesgericht stellte fest, dass der Wortlaut der vorgedruckten Passage sich
 
 #### 3.5.3 Ergänzung durch Zeugenaussage
 
-Das Bundesgericht hält fest, dass die Vorinstanz sich **zusätzlich zum Protokoll** zu Recht auf die Aussagen des einvernehmenden Polizeibeamten stützt (BGer 6B_1205/2023, E. 2.4.4). Der Polizeibeamte hatte anlässlich der erstinstanzlichen Hauptverhandlung als Zeuge bestätigt, dass die Rechtsbelehrung erfolgt sei. Der Zeuge bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung der Rechtsprechung von BGE 140 IV 177, E. 3.3; nun in Art. 170 Abs. 2 lit. a StPO kodifiziert, in Kraft seit 1. Januar 2024). Denn als Mitglied einer Strafbehörde (Art. 12 StPO) war er in derselben Angelegenheit gegenüber anderen Strafbehörden ohne vorgängige Entbindung vom Amtsgeheimnis zur Aussage betreffend seine amtliche Tätigkeit befugt (E. 2.4.4.1).
+Das Bundesgericht hält fest, dass die Vorinstanz sich **zusätzlich zum Protokoll** zu Recht auf die Aussagen des einvernehmenden Polizeibeamten stützt (BGer 6B_1205/2023, E. 2.4.4). Der Polizeibeamte hatte anlässlich der erstinstanzlichen Hauptverhandlung als Zeuge bestätigt, dass die Rechtsbelehrung erfolgt sei. Der Zeuge bedurfte keiner Entbindung vom Amtsgeheimnis (Bestätigung der Rechtsprechung von BGE 140 IV 177, E. 3.3; nun in Art. 170 Abs. 2 lit. a StPO kodifiziert, in Kraft seit 1. Januar 2024). Denn als Mitglied einer Strafbehörde ([Art. 12](../art-012) StPO) war er in derselben Angelegenheit gegenüber anderen Strafbehörden ohne vorgängige Entbindung vom Amtsgeheimnis zur Aussage betreffend seine amtliche Tätigkeit befugt (E. 2.4.4.1).
 
 Massgeblich ist somit nicht allein das Protokoll, sondern der **Gesamtbeweis** aus Protokoll und ergänzender Zeugenaussage des einvernehmenden Beamten. Die stichwortartige Belehrung kann rechtsgenüglich sein, wenn ergänzende Zeugenaussagen den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen.
 

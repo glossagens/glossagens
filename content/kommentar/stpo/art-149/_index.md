@@ -2,7 +2,7 @@
 title: "Art. 149 StPO — Im Allgemeinen (Schutzmassnahmen)"
 weight: 149
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 149 StPO – Schutzmassnahmen für Zeuginnen, Zeugen, Auskunftspersonen, beschuldigte und sachverständige Personen bei Gefährdung durch Mitwirkung im Verfahren."
 tags: ["StPO", "Schutzmassnahmen", "Anonymität", "Zeugenschutz", "Parteiöffentlichkeit", "rechtliches Gehör", "Opferschutz"]
 agent_verified: true
@@ -134,7 +134,7 @@ Die Verfahrensleitung sorgt bei **allen** Schutzmassnahmen für die Wahrung des 
 
 Die Wahrung des rechtlichen Gehörs kann namentlich durch folgende Massnahmen erreicht werden:
 
-- **Protokollierung** der Einvernahme (Art. 143 StPO), die der Verteidigung zur Verfügung steht — allenfalls mit Schwärzungen der geschützten Personalien;
+- **Protokollierung** der Einvernahme ([Art. 143](../art-143) StPO), die der Verteidigung zur Verfügung steht — allenfalls mit Schwärzungen der geschützten Personalien;
 - **Ersatzweise Befragungsmöglichkeit**: Die beschuldigte Person kann Fragen — allenfalls vermittelt über die Verfahrensleitung — an die geschützte Person richten;
 - **Videoaufzeichnung**: Die Einvernahme wird aufgezeichnet, und die beschuldigte Person bzw. ihr Verteidiger kann die Aufzeichnung einsehen, ohne physisch anwesend zu sein (Art. 154 Abs. 4 StPO);
 - **Späterer Konfrontationstermin**: Die Konfrontation kann auf einen späteren Zeitpunkt verschoben werden, wenn die Gefährdungssituation dies zulässt.

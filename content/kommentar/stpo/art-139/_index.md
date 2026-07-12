@@ -2,7 +2,7 @@
 title: "Art. 139 StPO — Grundsätze"
 weight: 139
 date: "2025-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-07-12"
 description: "Kommentar zu Art. 139 StPO: Grundsätze der Beweisführung, Wahrheitsfindungsgebot, Offenkundigkeit, antizipierte Beweiswürdigung, Beweisantrag vs. Beweisermittlungsantrag."
 tags: ["StPO", "Beweisrecht", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Offenkundigkeit", "Gerichtskundigkeit", "In-dubio pro reo", "Verwertungsverbot"]
 agent_verified: true
@@ -106,7 +106,7 @@ Unterlassen die Strafbehörden die Abnahme gebotener Beweise und können diese a
 
 ## VII. Sachverständigenbeweis
 
-Art. 139 Abs. 1 i.V.m. Art. 182 StPO: Sachverständige sind beizuziehen, wenn die Strafbehörde nicht über die erforderlichen besonderen Kenntnisse verfügt. Ein Gutachtenantrag kann mittels antizipierter Beweiswürdigung abgelehnt werden, wenn die Vorinstanz bereits über ausreichende fachliche Grundlagen verfügt (BGer 6B_582/2017 E. 2.1.1; BGer 1B_406/2021 E. 2.1). Bei fehlendem psychiatrischem Gutachten kann jedoch eine Beweiserhebungspflicht bestehen (6B_1395/2020 E. 1.2.2).
+Art. 139 Abs. 1 i.V.m. [Art. 182](../art-182) StPO: Sachverständige sind beizuziehen, wenn die Strafbehörde nicht über die erforderlichen besonderen Kenntnisse verfügt. Ein Gutachtenantrag kann mittels antizipierter Beweiswürdigung abgelehnt werden, wenn die Vorinstanz bereits über ausreichende fachliche Grundlagen verfügt (BGer 6B_582/2017 E. 2.1.1; BGer 1B_406/2021 E. 2.1). Bei fehlendem psychiatrischem Gutachten kann jedoch eine Beweiserhebungspflicht bestehen (6B_1395/2020 E. 1.2.2).
 
 ## VIII. Kasuistik
 
