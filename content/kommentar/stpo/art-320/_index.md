@@ -2,7 +2,7 @@
 title: "Art. 320 StPO — Einstellungsverfügung"
 weight: 320
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-12
 description: "Kommentar zu Art. 320 StPO — Einstellungsverfügung: Form und Inhalt, Aufhebung von Zwangsmassnahmen, Einziehung, Zivilklagen, Sperrwirkung und ne bis in idem."
 tags: ["StPO", "Einstellungsverfügung", "Zwangsmassnahmen", "Einziehung", "Zivilklage", "ne bis in idem", "Sperrwirkung"]
 agent_verified: true
@@ -30,13 +30,13 @@ Die Einstellungsverfügung ist eine der drei Erledigungsformen, die der Staatsan
 
 ### 1. Verweis auf Art. 80 und 81 StPO
 
-Abs. 1 verweist auf die allgemeinen Bestimmungen über Verfügung und Beschluss (Art. 80 StPO) sowie über den Inhalt und die Begründung von Verfügungen (Art. 81 StPO). Die Einstellungsverfügung muss daher:
+Abs. 1 verweist auf die allgemeinen Bestimmungen über Verfügung und Beschluss (Art. 80 StPO) sowie über den Inhalt und die Begründung von Verfügungen ([Art. 81](../art-081) StPO). Die Einstellungsverfügung muss daher:
 
 - schriftlich abgefasst sein (Art. 80 Abs. 1 StPO);
-- die Angaben nach Art. 81 Abs. 1 StPO enthalten (Bezeichnung der verfügenden Behörde, Datum, Parteibezeichnungen, Sachverhaltsdarstellung, Erwägungen, Dispositiv, Rechtsmittelbelehrung);
+- die Angaben nach [Art. 81](../art-081) Abs. 1 StPO enthalten (Bezeichnung der verfügenden Behörde, Datum, Parteibezeichnungen, Sachverhaltsdarstellung, Erwägungen, Dispositiv, Rechtsmittelbelehrung);
 - die massgeblichen **Einstellungsgründe** (Art. 319 StPO) klar benennen und begründen.
 
-Eine **global gehaltene** Einstellungsverfügung, die sich nicht mit den einzelnen Vorwürfen auseinandersetzt, genügt den Anforderungen von Art. 81 StPO nicht und ist widerruflich. Die Begründung muss es dem Beschwerdegericht ermöglichen, nachzuprüfen, ob die Einstellung im Einklang mit dem Grundsatz *in dubio pro duriore* steht (→ [Art. 319](../art-319/) *N II*; [BGE 143 IV 241, E. 2.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_241#e-2-3-3)).
+Eine **global gehaltene** Einstellungsverfügung, die sich nicht mit den einzelnen Vorwürfen auseinandersetzt, genügt den Anforderungen von [Art. 81](../art-081) StPO nicht und ist widerruflich. Die Begründung muss es dem Beschwerdegericht ermöglichen, nachzuprüfen, ob die Einstellung im Einklang mit dem Grundsatz *in dubio pro duriore* steht (→ [Art. 319](../art-319/) *N II*; [BGE 143 IV 241, E. 2.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_241#e-2-3-3)).
 
 ### 2. Bezugnahme auf die Akten
 
