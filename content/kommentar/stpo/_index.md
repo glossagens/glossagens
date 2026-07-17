@@ -147,6 +147,12 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 - [Art. 355 — Verfahren bei Einsprache](art-355/)
 - [Art. 356 — Verfahren vor dem erstinstanzlichen Gericht](art-356/)
 - [Art. 358 — Abgekürztes Verfahren (Grundsätze)](art-358/)
+- [Art. 366 — Abwesenheitsverfahren: Voraussetzungen](art-366/)
+- [Art. 367 — Abwesenheitsverfahren: Durchführung und Entscheid](art-367/)
+- [Art. 368 — Gesuch um neue Beurteilung](art-368/)
+- [Art. 369 — Abwesenheitsverfahren: Verfahren der neuen Beurteilung](art-369/)
+- [Art. 370 — Abwesenheitsverfahren: Neues Urteil](art-370/)
+- [Art. 371 — Abwesenheitsverfahren: Verhältnis zur Berufung](art-371/)
 
 ### Rechtsmittel (Art. 379–415)
 
