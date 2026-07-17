@@ -2,7 +2,7 @@
 title: "Art. 6 ATSG — Arbeitsunfähigkeit"
 weight: 6
 date: 2026-05-23
-lastmod: 2026-06-13
+lastmod: 2026-07-17
 description: "Kommentar zu Art. 6 ATSG: Arbeitsunfähigkeit als durch Gesundheitsbeeinträchtigung bedingte Unfähigkeit, zumutbare Arbeit zu leisten — Zentralbegriff der Invaliditätsbemessung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Arbeitsunfähigkeit", "Invalidität", "Erwerbsunfähigkeit", "MEDAS", "psychische Leiden"]
 agent_verified: true

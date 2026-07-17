@@ -10,6 +10,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 
 ### Schuldbetreibung (Art. 38–158)
 
+- [Art. 44 — Verwertung beschlagnahmter Gegenstände](art-044/)
 - [Art. 72 — Zustellung von Betreibungsurkunden](art-072/)
 - [Art. 79 — Rechtsvorschlag: Fortsetzung der Betreibung](art-079/)
 - [Art. 80 — Definitive Rechtsöffnung](art-080/)

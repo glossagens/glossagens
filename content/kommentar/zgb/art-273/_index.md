@@ -2,7 +2,7 @@
 title: "Art. 273 ZGB – Persönlicher Verkehr"
 weight: 273
 date: "2026-05-23"
-lastmod: "2026-06-19"
+lastmod: "2026-07-17"
 description: "Anspruch auf angemessenen persönlichen Verkehr zwischen Kind und nicht-sorgeberechtigtem Elternteil – umfassende Kommentierung mit 18 BGer-Entscheiden"
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Kindesschutz"]
 agent_verified: false

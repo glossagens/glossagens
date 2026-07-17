@@ -12,6 +12,7 @@ Kommentar zur [Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (SR 272)
 
 - [Art. 47 — Ausstandsgründe](art-047/)
 - [Art. 52 — Handeln nach Treu und Glauben](art-052/)
+- [Art. 58 — Dispositions- und Offizialgrundsatz](art-058/)
 - [Art. 63 — Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart](art-063/)
 - [Art. 71 — Einfache Streitgenossenschaft](art-071/)
 - [Art. 101 — Leistung des Vorschusses und der Sicherheit](art-101/)

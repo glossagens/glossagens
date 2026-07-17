@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 125 ZGB"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-07-17
 description: "Übersicht der massgeblichen Entscheide zu Art. 125 ZGB – Nachehelicher Unterhalt"
 tags: ["Rechtsprechung", "ZGB", "Familienrecht", "Unterhalt"]
 agent_verified: false
@@ -73,6 +73,24 @@ agent_verified: false
 
 ---
 
+## Ergänzende Leitentscheide zur Unterhaltsberechnung und Prozessmaximen
+
+### [BGE 147 III 265, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265)
+- **Datum**: 11. November 2020
+- **Thema**: Berechnung des Kindesunterhalts; verbindliche zweistufige Methode mit Überschussverteilung
+- **Kernaussage**: Das Kind hat Anspruch auf gebührenden Unterhalt (Barunterhalt sowie Betreuungsunterhalt), der sich nach den Bedürfnissen des Kindes sowie der Lebensstellung und Leistungsfähigkeit der Eltern bemisst. Steht das Kind unter alleiniger Obhut, hat es Anspruch auf einen Betreuungsunterhalt. Die zweistufige Methode mit Überschussverteilung ist verbindlich — dies prägt auch die Berechnung des nachehelichen Unterhalts nach Art. 125 ZGB.
+- **Einschlägig für**: Art. 125 ZGB; Art. 276, 276a, 285, 286a ZGB; zweistufige Methode; Überschussverteilung
+
+---
+
+### [BGE 147 III 301, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301)
+- **Datum**: 9. Februar 2021
+- **Thema**: Auswirkung der Prozessmaximen für den Kindesunterhalt auf den nach-ehelichen Unterhalt
+- **Kernaussage**: Die kraft der uneingeschränkten Untersuchungsmaxime für den Kindesunterhalt gewonnenen Erkennnisse können für den im gleichen Entscheid zu beurteilenden (nach-)ehelichen Unterhalt nicht einfach ausgeblendet werden. Die zweistufige Methode mit Überschussverteilung ist verbindlich. Für den (nach-)ehelichen Unterhalt gilt grundsätzlich der Dispositionsgrundsatz (Art. 58 ZPO), doch sind die im Rahmen der Untersuchungsmaxime ermittelten Fakten zu berücksichtigen.
+- **Einschlägig für**: Art. 125 ZGB; Art. 163 ZGB; Art. 58 Abs. 1 ZPO; Übergang von Offizial- zu Dispositionsmaxime
+
+---
+
 ## Aktuelle Entscheide der Woche (Mai 2026)
 
 ### [BGer 5A_853/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_853_2024)
@@ -85,4 +103,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 24. Mai 2026*
+*Letzte Aktualisierung: 17. Juli 2026*

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 6 ATSG — Arbeitsunfähigkeit"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-17
 description: "Übersicht der wichtigen Entscheide zu Art. 6 ATSG: Arbeitsunfähigkeit, Invaliditätsbegriff, strukturiertes Beweisverfahren, MEDAS-Gutachten."
 tags: ["Rechtsprechung", "ATSG", "Arbeitsunfähigkeit", "Invalidität", "MEDAS", "psychische Leiden"]
 agent_verified: false
@@ -57,4 +57,12 @@ Zurück zum Kommentar: [Art. 6 ATSG — Arbeitsunfähigkeit](./)
 |-------|------|------------------|----------|
 | BGer 8C_3/2026 | 2026 | Präzisierung: Stellenangebote im angestammten Tätigkeitsgebiet bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen; Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV) | E. 4–5.2 |
 
-*Letzte Aktualisierung: 2026-06-12*
+## VII. Neuere Rechtsprechung (2023/2024)
+
+| Bezug | Jahr | Kurzbeschreibung | Erwägung |
+|-------|------|------------------|----------|
+| [BGer 8C_492/2023](https://mcp.opencaselaw.ch/entscheid/bger_8C_492_2023) | 2024 | Eingliederungsmassnahmen, Arbeitsunfähigkeit: Wenn aus medizinischer Sicht in umfassender Betrachtung geschlossen wird, dass aus juristischer Sicht der medizinisch attestierten Arbeitsunfähigkeit **nicht gefolgt werden kann** (Bestätigung des strukturierten Beweisverfahrens nach BGE 141 V 281, E. 5.2), kann die IV-Stelle die Eingliederungsmassnahmen ablehnen. Die Arbeitsunfähigkeit ist rechtlich nach Massgabe des strukturierten Beweisverfahrens zu beurteilen, nicht nach der blossen medizinischen Attestierung | E. 5.2 |
+| [BGer 9C_436/2022](https://mcp.opencaselaw.ch/entscheid/bger_9C_436_2022) | 2023 | Anpassungsstörung und psychosoziale Faktoren: Eine bescheinigte Arbeitsunfähigkeit, deren Erklärung weitestgehend in psychosozialen Faktoren liegt, vermag zwar medizinisch die Diagnose einer Anpassungsstörung zu tragen; rechtlich indessen kann daraus keine Arbeitsunfähigkeit abgeleitet werden, wenn die rechtserheblichen Indikatoren des strukturierten Beweisverfahrens nicht erfüllt sind | E. 3.1 |
+| [BGer 9C_389/2022](https://mcp.opencaselaw.ch/entscheid/bger_9C_389_2022) | 2023 | Arbeitsunfähigkeit bei psychischen Leiden: Die ärztlichen Feststellungen müssen anhand der rechtserheblichen Indikatoren auf eine Arbeitsunfähigkeit schliessen lassen, wie sie vom medizinisch-psychiatrischen Experten abschliessend eingeschätzt worden ist. Eine davon losgelöste rechtliche Würdigung ist nicht zulässig | E. 2.3.2 |
+
+*Letzte Aktualisierung: 2026-07-17*

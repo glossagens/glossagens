@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 99 BGG"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-07-17
 description: "Übersicht der Entscheide zu Art. 99 BGG – Novenrecht vor Bundesgericht"
 tags: ["Rechtsprechung", "BGG", "Noven", "Beweismittel", "Kognition"]
 agent_verified: false
@@ -42,4 +42,33 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+## IV. Bindung an den vorinstanzlichen Sachverhalt und Noven
+
+### [BGE 140 III 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16) (E. 1.3.1, 2013/2014)
+- **Thema**: Bindung an den vorinstanzlich festgestellten Prozesssachverhalt (Art. 105 Abs. 1 BGG); vorsorgliche Massnahmen (Art. 158 Abs. 1 lit. b ZPO)
+- **Kernaussage**: Das Bundesgericht legt seinem Urteil den Sachverhalt zugrunde, den die Vorinstanz festgestellt hat (Art. 105 Abs. 1 BGG). Dazu gehören die Feststellungen über den Ablauf des vor- und erstinstanzlichen Verfahrens. Noven im Sinne von Art. 99 Abs. 1 BGG sind nur die unechten Noven — Tatsachen, die im Zeitpunkt des vorinstanzlichen Entscheids bereits bestanden, aber aus hinreichenden Gründen nicht vorgebracht wurden. Echte Noven (sich erst danach ereignend) sind ausgeschlossen.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG, Art. 105 Abs. 1 BGG
+
+### [BGE 133 III 393](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_393) (E. 3, 2007)
+- **Thema**: Eheschutzmassnahmen als Endentscheide; Noven im Eheschutz
+- **Kernaussage**: Eheschutzentscheide sind Endentscheide im Sinne von Art. 90 BGG; im bundesgerichtlichen Verfahren können grundsätzlich nur unechte Noven vorgebracht werden (Art. 99 Abs. 1 BGG). Die Novenprüfung ist bei Eheschutzmassnahmen (Art. 172 ff. ZGB) relevant, weil sich die familiären Verhältnisse nach dem vorinstanzlichen Entscheid weiterentwickeln können.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG; Eheschutz; Endentscheid; Noven
+
+### [BGE 133 IV 342](https://mcp.opencaselaw.ch/entscheid/bge_133_IV_342) (E. 2.1, 2007)
+- **Thema**: Echte tatsächliche Noven und Wiederaufnahme des Verfahrens
+- **Kernaussage**: Art. 99 Abs. 1 BGG schliesst **echte tatsächliche Noven** im bundesgerichtlichen Beschwerdeverfahren aus. Solche können jedoch zur Wiederaufnahme des Verfahrens im Sinn von Art. 385 StGB berechtigen. Der Ausschluss echter Noven im Beschwerdeverfahren bedeutet nicht, dass diese Tatsachen rechtlich folgenlos bleiben — der Weg führt über das Wiederaufnahmeverfahren.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG, Art. 385 StGB; echte Noven; Wiederaufnahme
+
+### [BGE 135 V 194](https://mcp.opencaselaw.ch/entscheid/bge_135_V_194) (E. 2007)
+- **Thema**: Unzulässigkeit von Noven bei Geldleistungen der Militär- und Unfallversicherung
+- **Kernaussage**: Neue Tatsachen und Beweismittel dürfen auch im Verfahren um Zusprechung oder Verweigerung von Geldleistungen der Militär- und Unfallversicherung nur soweit berücksichtigt werden, als sie im erstinstanzlichen Verfahren nicht vorgebracht werden konnten (Art. 99 Abs. 1, Art. 97 Abs. 2 und Art. 105 Abs. 3 BGG). Die Beschränkung gilt auch im sozialversicherungsrechtlichen Verfahren.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG, Art. 97 Abs. 2 BGG, Art. 105 Abs. 3 BGG; Militär-/Unfallversicherung; Geldleistungen
+
+### [BGE 136 I 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_229) (E. 2010)
+- **Thema**: Prüfungsergebnis und subsidiäre Verfassungsbeschwerde
+- **Kernaussage**: Ein Prüfungsergebnis (Note) kann mit subsidiärer Verfassungsbeschwerde angefochten werden. Die Novenbeschränkung von Art. 99 Abs. 1 BGG gilt auch bei der Verfassungsbeschwerde, allerdings mit Einschränkungen, soweit die Rüge auf Willkür (Art. 9 BV) gestützt wird.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG, Art. 83 lit. t BGG, Art. 113 BGG, Art. 115 lit. b BGG; Prüfungsergebnis; Verfassungsbeschwerde
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*

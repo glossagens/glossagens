@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 273 ZGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-07-17
 description: "Umfassende Rechtsprechungsübersicht zum persönlichen Verkehr / Besuchsrecht nach Art. 273 ZGB"
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Rechtsprechung"]
 agent_verified: false
@@ -207,4 +207,32 @@ Nach einem Kontaktabbruch zwischen Kind und Vater ist ein vorsichtiger, schrittw
 Im Rahmen von Eheschutzmassnahmen nach Art. 176 ZGB i.V.m. Art. 273 ZGB kann das Besuchsrecht vorsorglich sistiert werden. Gegen vorsorgliche Massnahmen können nur Verfassungsrügen erhoben werden (Art. 98 BGG), was die verfahrensrechtlichen Hürden für den betroffenen Elternteil deutlich erhöht.
 
 *Einschlägig für:* Art. 273 ZGB i.V.m. Art. 176 ZGB; vorsorgliche Sistierung; Art. 98 BGG
+
+---
+
+#### 22. [BGer 5A_375/2023 vom 21. November 2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_375_2023) — Weisung an Kindsmutter zur Aufklärung des Kindes über seinen Vater
+
+Eine Weisung an die Kindsmutter, ihr Kind durch die Kinder- und Jugendpsychiatrie über seinen Vater aufklären zu lassen, damit das Kind die Möglichkeit erhält, sich mit dem Vater auseinanderzusetzen und zu einem späteren Zeitpunkt allenfalls ein Kontaktrecht eingeräumt werden kann, kann sich auf **Art. 273 Abs. 2 ZGB** stützen. Für eine derart vom persönlichen Verkehr entkoppelte Weisung kommt Art. 273 Abs. 2 ZGB als Rechtsgrundlage in Betracht — das Besuchsrecht für das Kind kann für seine nachhaltige Persönlichkeitsentwicklung «sehr wertvoll» sein (E. 3.4.1).
+
+*Einschlägig für:* Art. 273 Abs. 2 ZGB; Aufklärung über Elternteil; Persönlichkeitsentwicklung; entkoppelte Weisung
+
+---
+
+#### 23. [BGer 5A_218/2023 vom 19. April 2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_218_2023) — Besuchsrecht und fehlende elterliche Sorge/Obhut
+
+Dass der betreffende Elternteil keine elterliche Sorge und/oder Obhut hat, ist **Voraussetzung** für das Besuchsrecht nach Art. 273 Abs. 1 ZGB. Die Aufenthaltsbestimmung des Kindes in einer Institution und die Aufhebung des Aufenthaltsbestimmungsrechts gegenüber beiden Eltern berührt die Besuchsrechtsregelung (Freitagabend bis Dienstagmorgen), die eigenständig nach Art. 273 Abs. 1 ZGB zu beurteilen ist (E. 4).
+
+*Einschlägig für:* Art. 273 Abs. 1 ZGB; Voraussetzung fehlende Sorge/Obhut; Aufenthaltsbestimmung; Institution
+
+---
+
+#### 24. [BGer 5A_929/2022 vom 20. Februar 2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_929_2022) — Verweigerung/Entzug des Besuchsrechts (Art. 274 Abs. 2 ZGB)
+
+Der aus Art. 273 Abs. 1 ZGB fliessende Anspruch kann gestützt auf Art. 274 Abs. 2 ZGB **verweigert oder entzogen** werden, wenn die konkreten Voraussetzungen des Kindeswohlschutzes erfüllt sind. Die Beschränkung ist Ausnahme und setzt konkrete Anhaltspunkte für eine Kindeswohlgefährdung voraus (E. 2.1.1).
+
+*Einschlägig für:* Art. 273 Abs. 1 ZGB; Art. 274 Abs. 2 ZGB; Verweigerung/Entzug; Kindeswohl
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*
 

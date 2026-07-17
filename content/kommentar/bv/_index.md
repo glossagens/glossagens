@@ -14,6 +14,7 @@ Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Ap
 
 ### Grundrechte (Art. 7–36)
 
+- [Art. 7 — Menschenwürde](art-007/)
 - [Art. 8 — Rechtsgleichheit](art-008/)
 - [Art. 9 — Schutz vor Willkür und Wahrung von Treu und Glauben](art-009/)
 - [Art. 10 — Recht auf Leben und persönliche Freiheit](art-010/)
@@ -27,5 +28,6 @@ Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Ap
 - [Art. 30 — Gerichtliche Verfahren](art-030/)
 - [Art. 31 — Freiheitsentzug](art-031/)
 - [Art. 32 — Strafverfahrensgarantien](art-032/)
+- [Art. 34 — Politische Rechte](art-034/)
 - [Art. 35 — Verwirklichung der Grundrechte](art-035/)
 - [Art. 36 — Einschränkung von Grundrechten](art-036/)

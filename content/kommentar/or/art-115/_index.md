@@ -2,7 +2,7 @@
 title: "Art. 115 — Aufhebungsvertrag"
 weight: 115
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-17
 description: "Kommentar zu Art. 115 OR – Formloser Aufhebungsvertrag, Schutzgrenzen im Arbeitsrecht, Anfechtung und Abgrenzung zur Kündigung"
 tags: ["OR", "Aufhebungsvertrag", "Schuldrecht", "Vertragsrecht", "Arbeitsrecht", "Anfechtung", "Erlassvertrag"]
 agent_verified: true

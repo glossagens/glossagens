@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 115 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-17
 description: "Übersicht der Entscheide zu Art. 115 OR – Aufhebungsvertrag"
 tags: ["Rechtsprechung", "OR", "Aufhebungsvertrag", "Schuldrecht"]
 agent_verified: false
@@ -39,4 +39,26 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+## VI. Neuere Rechtsprechung (2025/2026)
+
+### [BGer 4A_625/2025 vom 1. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_625_2025) — Arbeitsvertrag im Konzern; Aufhebungsvereinbarung
+
+**Thema**: Arbeitsvertrag im Konzern; Aufhebungsvereinbarung.
+
+Der Aufhebungsvertrag wurde zwischen den Parteien abgeschlossen; bei der Beurteilung der Wirksamkeit ist jedenfalls die in Art. 335 OR (Kündigung des unbefristeten Arbeitsverhältnisses) zum Ausdruck kommende Ordnung zu berücksichtigen. Die Aufhebungsvereinbarung im Konzernverhältnis unterliegt den allgemeinen Anforderungen von Art. 115 OR (echter Konsens, kein einseitiger Verzicht auf zwingendes Recht) (E. 5.4.2).
+
+*Einschlägig für*: Art. 115 OR, Art. 335 OR; Aufhebungsvereinbarung im Konzern; Konsens
+
+---
+
+### [BGE 95 II 419](https://mcp.opencaselaw.ch/entscheid/bge_BGE_95_II_419) — Grundstückkauf und formloser Vergleich
+
+**Thema**: Formbedürftige Abänderung des Kaufvertrages in Bezug auf den Kaufpreis oder formlos gültiger Vergleich, durch den eine Partei im Hinblick auf bestimmte Versprechen der Gegenpartei auf die Anfechtung eines bereits gültig beurkundeten Grundstückkaufs verzichtet.
+
+Ein Aufhebungsvertrag (Verzicht auf die Anfechtung) kann formlos gültig sein, auch wenn der ursprüngliche Grundstückkauf der Formbedürftigkeit unterlag, sofern er die Voraussetzungen eines Vergleichs erfüllt (beidseitiges Nachgeben) und nicht die Rechtswirkungen eines formbedürftigen Kaufvertrags entfaltet.
+
+*Einschlägig für*: Art. 115 OR, Art. 19 OR; Formbedürftigkeit; Grundstückkauf; Vergleich
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*

@@ -11,6 +11,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 ### Allgemeine Bestimmungen — Entstehung der Obligationen (Art. 1–67)
 
 - [Art. 1 — Vertragsschluss](art-001/)
+- [Art. 20 — Nichtigkeit bei unmöglichem, widerrechtlichem oder sittenwidrigem Inhalt](art-020/)
 - [Art. 24 — Wesentlicher Irrtum](art-024/)
 - [Art. 41 — Haftpflicht aus unerlaubter Handlung](art-041/)
 - [Art. 66 — Nichtforderbarkeit sittenwidriger Leistungen](art-066/)

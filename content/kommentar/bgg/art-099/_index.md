@@ -2,7 +2,7 @@
 title: "Art. 99 — Neue Tatsachen und Beweismittel"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-20
+lastmod: 2026-07-17
 description: "Kommentar zu Art. 99 BGG – Novenrecht vor Bundesgericht, unechte und echte Noven, Kognition des Bundesgerichts"
 tags: ["BGG", "Noven", "Beweismittel", "Kognition", "Beschwerde"]
 agent_verified: true

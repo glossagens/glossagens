@@ -2,7 +2,7 @@
 title: "Art. 125 — Nachehelicher Unterhalt"
 weight: 125
 date: "2026-05-24"
-lastmod: "2026-06-19"
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 125 ZGB – Nachehelicher Unterhalt: Voraussetzungen, Berechnungsmethoden, Lebensprägung und Abwägungskriterien"
 tags: ["ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt", "Scheidung"]
 agent_verified: true

@@ -23,6 +23,7 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 - [Art. 24 — Fristwiederherstellung](art-024/)
 - [Art. 26 — Akteneinsicht](art-026/)
 - [Art. 28 — Rechtliches Gehör bei Aktenverweigerung](art-028/)
+- [Art. 29 — Rechtliches Gehör](art-029/)
 - [Art. 30 — Anhörung der Parteien](art-030/)
 - [Art. 32 — Würdigung der Parteivorbringen](art-032/)
 - [Art. 33 — Beweisabnahme](art-033/)
