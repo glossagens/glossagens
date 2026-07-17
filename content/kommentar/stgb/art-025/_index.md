@@ -1,10 +1,10 @@
 ---
-title: "Art. 25 StGB — Fahrlässige Straftaten"
+title: "Art. 25 StGB — Gehilfenschaft"
 weight: 25
 date: 2026-06-28
 lastmod: 2026-06-28
 description: "Kommentar zu Art. 25 StGB – Gehilfenschaft"
-tags: ["StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Allgemeiner Teil", "Fahrlässige Straftaten"]
+tags: ["StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Allgemeiner Teil"]
 agent_verified: true
 ---
 

@@ -8,62 +8,113 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 ## Kommentierte Artikel
 
-| Artikel | Thema |
-|---------|-------|
-| [Art. 1](art-001/) | Geltungsbereich |
-| [Art. 2](art-002/) | Lex mitior |
-| [Art. 10](art-010/) | Verbrechen und Vergehen |
-| [Art. 12](art-012/) | Vorsatz und Fahrlässigkeit |
-| [Art. 13](art-013/) | Sachverhaltsirrtum |
-| [Art. 15](art-015/) | Notwehr |
-| [Art. 16](art-016/) | Notstand |
-| [Art. 19](art-019/) | Schuldfähigkeit |
-| [Art. 20](art-020/) | Begutachtung der Schuldfähigkeit |
-| [Art. 22](art-022/) | Versuch |
-| [Art. 25](art-025/) | Gehilfenschaft |
-| [Art. 30](art-030/) | Strafantragsrecht |
-| [Art. 39](art-039/) | Umwandlung der gemeinnützigen Arbeit |
-| [Art. 41](art-041/) | Freiheitsstrafe anstelle von Geldstrafe |
-| [Art. 42](art-042/) | Bedingter Vollzug |
-| [Art. 45](art-045/) | Bewährung |
-| [Art. 46](art-046/) | Widerruf der bedingten Strafe |
-| [Art. 47](art-047/) | Grundsätze der Strafzumessung |
-| [Art. 48](art-048/) | Strafmilderungsgründe |
-| [Art. 49](art-049/) | Mehrere Strafen bei einer Tat |
-| [Art. 58](art-058/) | Einrichtungen für den Vollzug |
-| [Art. 59](art-059/) | Stationäre therapeutische Massnahme |
-| [Art. 63](art-063/) | Voraussetzungen und Vollzug (ambulante Behandlung) |
-| [Art. 66a](art-066a/) | Obligatorische Landesverweisung |
-| [Art. 68](art-068/) | Veröffentlichung des Urteils |
-| [Art. 77b](art-077b/) | Halbgefangenschaft |
-| [Art. 106](art-106/) | Busse |
-| [Art. 111](art-111/) | Vorsätzliche Tötung |
-| [Art. 112](art-112/) | Mord |
-| [Art. 117](art-117/) | Totschlag |
-| [Art. 122](art-122/) | Schwere Körperverletzung |
-| [Art. 123](art-123/) | Einfache Körperverletzung |
-| [Art. 125](art-125/) | Fahrlässige Körperverletzung |
-| [Art. 129](art-129/) | Gefährdung des Lebens |
-| [Art. 133](art-133/) | Raufhandel |
-| [Art. 138](art-138/) | Veruntreuung |
-| [Art. 139](art-139/) | Diebstahl |
-| [Art. 140](art-140/) | Raub |
-| [Art. 144](art-144/) | Sachbeschädigung |
-| [Art. 146](art-146/) | Betrug |
-| [Art. 158](art-158/) | Ungetreue Geschäftsbesorgung |
-| [Art. 174](art-174/) | Verleumdung |
-| [Art. 182](art-182/) | Menschenhandel |
-| [Art. 186](art-186/) | Hausfriedensbruch |
-| [Art. 189](art-189/) | Sexuelle Nötigung |
-| [Art. 190](art-190/) | Vergewaltigung (aF, aufgehoben per 1. Juli 2024) |
-| [Art. 191](art-191/) | Missbrauch einer urteils- oder widerstandsunfähigen Person |
-| [Art. 219](art-219/) | Verletzung der Fürsorge- oder Erziehungspflicht |
-| [Art. 220](art-220/) | Entziehen von Minderjährigen |
-| [Art. 223](art-223/) | Brandstiftung |
-| [Art. 239](art-239/) | Störung des Betriebes öffentlicher Verkehrsanstalten |
-| [Art. 251](art-251/) | Urkundenfälschung |
-| [Art. 259](art-259/) | Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit |
-| [Art. 303](art-303/) | Falsche Anschuldigung |
-| [Art. 305bis](art-305bis/) | Geldwäscherei |
-| [Art. 305ter](art-305ter/) | Mangelnde Sorgfalt bei Finanzgeschäften |
-| [Art. 307](art-307/) | Falschaussage |
+### Allgemeine Bestimmungen — Keine Sanktion ohne Gesetz (Art. 1–2)
+
+- [Art. 1 — Legalitätsprinzip](art-001/)
+- [Art. 2 — Zeitlicher Geltungsbereich / lex mitior](art-002/)
+
+### Allgemeine Bestimmungen — Strafbarkeit (Art. 9–33)
+
+- [Art. 10 — Verbrechen und Vergehen](art-010/)
+- [Art. 12 — Vorsatz und Fahrlässigkeit](art-012/)
+- [Art. 13 — Sachverhaltsirrtum](art-013/)
+- [Art. 15 — Notwehr](art-015/)
+- [Art. 16 — Notwehrexzess](art-016/)
+- [Art. 17 — Rechtfertigender Notstand](art-017/)
+- [Art. 19 — Schuldfähigkeit](art-019/)
+- [Art. 20 — Begutachtung der Schuldfähigkeit](art-020/)
+- [Art. 22 — Versuch](art-022/)
+- [Art. 25 — Gehilfenschaft](art-025/)
+- [Art. 30 — Strafantrag](art-030/)
+
+### Allgemeine Bestimmungen — Strafen und Massnahmen (Art. 34–73)
+
+- [Art. 39 — Umwandlung der gemeinnützigen Arbeit](art-039/)
+- [Art. 41 — Freiheitsstrafe anstelle von Geldstrafe](art-041/)
+- [Art. 42 — Bedingter Vollzug](art-042/)
+- [Art. 45 — Bewährung](art-045/)
+- [Art. 46 — Widerruf der bedingten Strafe](art-046/)
+- [Art. 47 — Strafzumessung](art-047/)
+- [Art. 48 — Strafmilderungsgründe](art-048/)
+- [Art. 49 — Mehrere Strafen bei einer Tat](art-049/)
+- [Art. 58 — Einrichtungen für den Vollzug](art-058/)
+- [Art. 59 — Stationäre therapeutische Massnahme](art-059/)
+- [Art. 63 — Voraussetzungen und Vollzug (ambulante Behandlung)](art-063/)
+- [Art. 66a — Obligatorische Landesverweisung](art-066a/)
+- [Art. 67 — Tätigkeitsverbot](art-067/)
+- [Art. 68 — Veröffentlichung des Urteils](art-068/)
+
+### Allgemeine Bestimmungen — Vollzug von Freiheitsstrafen und Massnahmen (Art. 74–92)
+
+- [Art. 77b — Halbgefangenschaft](art-077b/)
+
+### Allgemeine Bestimmungen — Übertretungen (Art. 103–109)
+
+- [Art. 106 — Busse](art-106/)
+
+### Besondere Bestimmungen — Strafbare Handlungen gegen Leib und Leben (Art. 111–136)
+
+- [Art. 111 — Vorsätzliche Tötung](art-111/)
+- [Art. 112 — Mord](art-112/)
+- [Art. 117 — Fahrlässige Tötung](art-117/)
+- [Art. 122 — Schwere Körperverletzung](art-122/)
+- [Art. 123 — Einfache Körperverletzung](art-123/)
+- [Art. 125 — Fahrlässige Körperverletzung](art-125/)
+- [Art. 129 — Gefährdung des Lebens](art-129/)
+- [Art. 133 — Raufhandel](art-133/)
+
+### Besondere Bestimmungen — Strafbare Handlungen gegen das Vermögen (Art. 137–172ter)
+
+- [Art. 138 — Veruntreuung](art-138/)
+- [Art. 139 — Diebstahl](art-139/)
+- [Art. 140 — Raub](art-140/)
+- [Art. 144 — Sachbeschädigung](art-144/)
+- [Art. 146 — Betrug](art-146/)
+- [Art. 158 — Ungetreue Geschäftsbesorgung](art-158/)
+
+### Besondere Bestimmungen — Gegen die Ehre und den Geheim- oder Privatbereich (Art. 173–179novies)
+
+- [Art. 174 — Verleumdung](art-174/)
+
+### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit (Art. 180–186)
+
+- [Art. 182 — Menschenhandel](art-182/)
+- [Art. 186 — Hausfriedensbruch](art-186/)
+
+### Besondere Bestimmungen — Gegen die sexuelle Integrität (Art. 187–200)
+
+- [Art. 189 — Sexuelle Nötigung](art-189/)
+- [Art. 190 — Vergewaltigung (aF, aufgehoben per 1. Juli 2024)](art-190/)
+- [Art. 191 — Schändung](art-191/)
+
+### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Familie (Art. 213–220)
+
+- [Art. 219 — Verletzung der Fürsorge- oder Erziehungspflicht](art-219/)
+- [Art. 220 — Entziehen und Vorenthalten von Minderjährigen](art-220/)
+
+### Besondere Bestimmungen — Gemeingefährliche Verbrechen und Vergehen (Art. 221–230bis)
+
+- [Art. 223 — Verursachung einer Explosion](art-223/)
+
+### Besondere Bestimmungen — Gegen den öffentlichen Verkehr (Art. 237–239)
+
+- [Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen](art-239/)
+
+### Besondere Bestimmungen — Urkundenfälschung (Art. 251–257)
+
+- [Art. 251 — Urkundenfälschung](art-251/)
+
+### Besondere Bestimmungen — Gegen den öffentlichen Frieden (Art. 258–263bis)
+
+- [Art. 259 — Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit](art-259/)
+
+### Besondere Bestimmungen — Gegen die öffentliche Gewalt (Art. 285–295)
+
+- [Art. 285 — Gewalt und Drohung gegen Behörden und Beamte](art-285/)
+
+### Besondere Bestimmungen — Gegen die Rechtspflege (Art. 303–311)
+
+- [Art. 303 — Falsche Anschuldigung](art-303/)
+- [Art. 305bis — Geldwäscherei](art-305bis/)
+- [Art. 305ter — Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht](art-305ter/)
+- [Art. 307 — Falschaussage](art-307/)

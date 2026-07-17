@@ -1,9 +1,9 @@
 ---
-title: "Art. 80 — Betreibungsbegehren"
+title: "Art. 80 — Definitive Rechtsöffnung"
 weight: 80
 date: 2026-05-23
 lastmod: 2026-06-21
-description: "Kommentar zu Art. 80 SchKG – Definitive Rechtsöffnung / Betreibungsbegehren"
+description: "Kommentar zu Art. 80 SchKG – Definitive Rechtsöffnung"
 tags: ["SchKG", "Rechtsöffnung", "Betreibung", "Zwangsvollstreckung"]
 agent_verified: true
 ---
