@@ -2,7 +2,7 @@
 title: "Art. 8 BV – Rechtsgleichheit"
 weight: 8
 date: 2026-05-23
-lastmod: 2026-06-20
+lastmod: 2026-07-17
 description: "Rechtsgleichheit und Diskriminierungsverbot – umfassende Kommentierung mit 19 BGer-Entscheiden"
 tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Willkürverbot", "Lohngleichheit", "Gleichstellung"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 335 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-17
 description: "Wichtige Entscheide zu Art. 335 OR – Kündigung des unbefristeten Arbeitsverhältnisses"
 tags: ["OR", "Arbeitsrecht", "Kündigung", "Begründungspflicht", "Gestaltungsrecht"]
 agent_verified: true
@@ -77,3 +77,17 @@ agent_verified: true
 **KERNAUSSAGE:** Die relative Unverzichtbarkeit von Art. 336c OR verbietet den Parteien nicht, das Arbeitsverhältnis jederzeit durch einen Aufhebungsvertrag gemäss Art. 115 OR aufzulösen, sofern eine solche Vereinbarung nicht zu einer klaren Umgehung des zwingenden Kündigungsschutzes führt.
 
 **EINSCHLÄGIG FÜR:** Art. 335 OR i.V.m. Art. 336c OR (Kündigungsfristen, Sperrfristen, Aufhebungsvertrag)
+
+---
+
+### BGer 4A_625/2025 vom 1. Mai 2026, E. 5.4.2 — Aufhebungsvertrag mit nicht Arbeitgeberin; Nichtigkeit
+
+**THEMA:** Aufhebungsvertrag / Nichtigkeit / Arbeitgeberstellung im Konzern
+
+**KERNAUSSAGE:** Parteien eines arbeitsrechtlichen Aufhebungsvertrags sind notwendigerweise der Arbeitgeber und der Arbeitnehmer, da nur sie zur Aufhebung des abgeschlossenen Arbeitsvertrags berechtigt sind. Der Wille, den Arbeitsvertrag zu beenden, sowie die Festlegung des Beendigungsdatums sind objektiv wesentliche und damit zwingende Elemente eines Aufhebungsvertrags. Wird die Auflösung des Arbeitsverhältnisses in einer Aufhebungsvereinbarung von einer Gesellschaft geregelt, die mangels Arbeitgeberstellung gar nicht die Auflösung des Arbeitsverhältnisses mit dem Arbeitnehmer regeln kann, so ist diese Auflösungsvereinbarung nichtig (Art. 20 Abs. 1 OR). Liegen die Voraussetzungen für eine Gesamtnichtigkeit vor — wenn eine vernünftige Person in der Situation der Vertragspartei den Vertrag bei Kenntnis der Nichtigkeit nicht abgeschlossen hätte — so erfasst die Nichtigkeit den gesamten Vertrag, namentlich auch ein damit verbundenes Konkurrenzverbot. Ob Teilnichtigkeit nach Art. 20 Abs. 2 OR möglich ist, kann offenbleiben, wenn die vertragswesentliche Bestimmung mit den übrigen Regelungen eine untrennbare wirtschaftliche Einheit bildet.
+
+- **Einschlägig für**: Art. 335 OR i.V.m. Art. 20 Abs. 1 und 2 OR; Aufhebungsvertrag; Nichtigkeit bei fehlender Arbeitgeberstellung; Konkurrenzverbot
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*

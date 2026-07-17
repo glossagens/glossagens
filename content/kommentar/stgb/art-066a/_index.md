@@ -2,7 +2,7 @@
 title: "Art. 66a StGB — Landesverweisung"
 weight: 66
 date: 2026-05-17
-lastmod: "2026-06-29"
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 66a StGB: Obligatorische und fakultative Landesverweisung — Katalogtatbestände, Härtefallklausel und EMRK-Konformität."
 tags: ["Landesverweisung", "Ausländerrecht", "Ausweisung", "StGB", "Sanktionen"]
 agent_verified: true

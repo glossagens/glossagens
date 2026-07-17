@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-07-17
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Landesverweisung, Härtefallklausel, EMRK-Konformität und Freizügigkeitsabkommen"
 tags: ["Rechtsprechung", "Landesverweisung", "StGB", "Härtefallklausel"]
 agent_verified: false
@@ -192,6 +192,14 @@ agent_verified: false
 
 [BGer 6B_627/2018 vom 22. März 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_627_2018) — Der Secundo-Status (in der Schweiz geboren und aufgewachsen) führt nicht automatisch zum Absehen von der Landesverweisung. Die Härtefallprüfung und die Interessenabwägung müssen im Einzelfall vorgenommen werden. Auch bei einem in der Schweiz geborenen Ausländer können die öffentlichen Interessen an der Fernhaltung überwiegen.
 
+### BGer 6B_58/2026 vom 9. Juni 2026, E. 5 — Landesverweisung bei sexueller Nötigung; SIS-Ausschreibung; Härtefall
+
+[BGer 6B_58/2026 vom 9. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_58_2026#e-5) — Leitentscheid (Zusammenfassung markiert). Das Strafdreiergericht hatte den Beschuldigten der mehrfachen sexuellen Nötigung schuldig gesprochen und eine Landesverweisung von sieben Jahren angeordnet. Das Appellationsgericht sah in Anwendung von Art. 66a Abs. 2 StGB ausnahmsweise von der Landesverweisung ab. Die Staatsanwaltschaft beschwerte sich dagegen. Das Bundesgericht befasst sich mit der Ausnahmeprüfung nach Art. 66a Abs. 2 StGB und der Ausschreibung der Landesverweisung im Schengener Informationssystem (SIS) gemäss der N-SIS-Verordnung (SR 362.0).
+
+### BGer 6B_67/2024 vom 5. Juni 2026, E. 5 — Mehrfacher gewerbsmässiger Betrug; Landesverweisung
+
+[BGer 6B_67/2024 vom 5. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_67_2024#e-5) — Leitentscheid (Zusammenfassung markiert). Bestätigt die Praxis zur Landesverweisung bei mehrfachem gewerbsmässigem Betrug und der Ausschreibung im SIS.
+
 ---
 
-Zuletzt aktualisiert: 2026-05-17 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+66a+StGB)
+Zuletzt aktualisiert: 2026-07-17 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+66a+StGB)

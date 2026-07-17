@@ -11,3 +11,8 @@ agent_verified: false
 # Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG)
 
 Bundesgesetz vom 25. Juni 1982 (SR 837.0).
+
+## Kommentierte Artikel
+
+- [Art. 17 — Anspruchsvoraussetzungen (Arbeitslosenentschädigung)](art-017/_index.md): Rahmenfrist; Beitragszeit; Vermittlungsfähigkeit.
+- [Art. 51 — Anspruchsvoraussetzungen (Insolvenzentschädigung)](art-051/_index.md): Konkurs, offensichtliche Überschuldung, Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer.

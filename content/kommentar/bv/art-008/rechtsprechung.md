@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 8 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-07-17
 description: "Umfassende Rechtsprechungsübersicht zu Rechtsgleichheit und Diskriminierungsverbot nach Art. 8 BV"
 tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Willkürverbot", "Lohngleichheit", "Rechtsprechung"]
 agent_verified: false
@@ -191,3 +191,18 @@ Wird der verfassungsrechtliche Rahmen des Willkürverbots und der Gleichbehandlu
 | **Einbürgerung**: Urnenabstimmung verstösst gegen Begründungspflicht und Diskriminierungsverbot | BGE 129 I 232 |
 | **Behinderung**: BehiG konkretisiert Art. 8 Abs. 2 BV; Fallprüfung erforderlich | BGE 133 V 450, BGer 2C_466/2023 |
 | **Alter als atypisches Merkmal**: weniger strenge Rechtfertigung als Rasse/Geschlecht | BGer 8C_44/2012 E. 4.3 |
+
+---
+
+## Ergänzungen KW29 (Juli 2026)
+
+### [BGer 5A_398/2026 vom 25. Juni 2026, E. 4.1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_398_2026#e-4-1-1)
+- **Vorinstanz**: Chambre administrative de la Cour de justice du canton de Genève
+- **Verfahrensergebnis**: Abweisung (Leitentscheid, Zusammenfassung markiert)
+- **Thema**: Diskriminierung wegen sexueller Orientierung; Änderung des Zivilstandesintrags (Partnerschaft aufgelöst → „ledig")
+- **Kernaussage**: Ein Versicherter wollte den Zivilstandseintrag von „aufgelöste Partnerschaft" zu „ledig" ändern lassen, um seine sexuelle Orientierung nicht preiszugeben. Das Bundesgericht bejahte das Diskriminierungsverbot des Art. 8 Abs. 2 BV für die sexuelle Orientierung, verneinte aber eine Verletzung: Eine Diskriminierung im Sinne von Art. 8 Abs. 2 BV liegt vor, wenn eine Person rechtlich unterschiedlich behandelt wird, allein wegen ihrer Zugehörigkeit zu einer historisch oder in der zeitgenössischen sozialen Realität bestimmten Gruppe, benachteiligt oder als minderwertig betrachtet wird. Die massgebliche Frage ist, ob die unterschiedliche Behandlung einen schädigenden Effekt hat, der als Erniedrigung oder Ausgrenzung zu werten ist. Die gesetzlichen Vorgaben für Zivilstandseinträge beruhen auf zwingenden bundesrechtlichen Grundlagen (LPart, OEC), die keinen Ermessensspielraum lassen. Eine Eintragung als „ledig" für Personen mit aufgelöster Partnerschaft würde sie im Vergleich zu anderen Personen mit aufgelöster Partnerschaft gerade unterschiedlich behandeln.
+- **Einschlägig für**: Art. 8 Abs. 2 BV; Diskriminierung wegen sexueller Orientierung; Zivilstandsregister; positive staatliche Schutzpflicht
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*
