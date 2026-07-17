@@ -28,7 +28,7 @@ Art. 369 StPO regelt den **Ablauf** nach Einreichung eines Gesuchs um neue Beurt
 
 ## II. Neue Hauptverhandlung (Abs. 1)
 
-Sind die Voraussetzungen für eine neue Beurteilung **voraussichtlich** erfüllt, setzt die Verfahrensleitung ohne eigenes förmliches Vorprüfungsverfahren eine neue Hauptverhandlung an. An dieser entscheidet das Gericht **zunächst über das Gesuch** und fällt anschliessend gegebenenfalls ein neues Urteil ([BGer 6B_438/2017 vom 24. August 2017, E. 3.3 / 4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_438_2017#e-3-3); [BGer 6B_389/2019 vom 28. Oktober 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_389_2019)). Das Gericht kann in derselben Zusammensetzung wie im ersten Verfahren tagen; die Vorbefassung begründet keinen Ausstandsgrund (BBl 2006 1085, S. 1302).
+Sind die Voraussetzungen für eine neue Beurteilung **voraussichtlich** erfüllt, setzt die Verfahrensleitung ohne eigenes förmliches Vorprüfungsverfahren eine neue Hauptverhandlung an. An dieser entscheidet das Gericht **zunächst über das Gesuch** und fällt anschliessend gegebenenfalls ein neues Urteil ([BGer 6B_438/2017 vom 24. August 2017, E. 3.3 / 4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_438_2017#e-3-3)). Das Gericht kann in derselben Zusammensetzung wie im ersten Verfahren tagen; die Vorbefassung begründet keinen Ausstandsgrund (BBl 2006 1085, S. 1302).
 
 ## III. Sistierung anderer Rechtsmittel (Abs. 2)
 

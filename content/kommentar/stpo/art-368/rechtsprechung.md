@@ -42,10 +42,10 @@ agent_verified: false
 - **Kernaussage**: Das Gericht darf anordnen, dass eine geltend gemachte Verhandlungsunfähigkeit durch einen Vertrauensarzt (z.B. des IRM) zu belegen ist, und ein Fernbleiben ohne solches Attest als unentschuldigt werten.
 - **Einschlägig für**: Abs. 3; Kasuistik
 
-### [BGer 6B_208/2012 vom 30. August 2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_208_2012)
-- **Thema**: Neue Beurteilung
-- **Kernaussage**: Früher Leitentscheid zur Handhabung des Gesuchs um neue Beurteilung unter der StPO.
-- **Einschlägig für**: Abs. 1–3
+### [BGer 6B_208/2012 vom 30. August 2012, E. 3.2 und 3.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_208_2012#e-3-2)
+- **Thema**: Übergangsrecht; ordnungsgemässe Vorladung
+- **Kernaussage**: Nach dem 1. Januar 2011 gestellte Gesuche um neue Beurteilung eines noch unter kantonalem Strafprozessrecht ergangenen Abwesenheitsurteils werden nach dem für die gesuchstellende Person günstigeren Recht beurteilt (Art. 452 Abs. 2 StPO); Art. 368 StPO kann insoweit das günstigere Recht sein (E. 3.2). Eine ordnungsgemässe Vorladung im Sinne von Art. 368 Abs. 3 StPO ist zu bejahen, wenn die verurteilte Person Kenntnis von Verhandlungstermin und Anklage hatte (E. 3.4).
+- **Einschlägig für**: Abs. 3; Übergangsrecht
 
 ---
 

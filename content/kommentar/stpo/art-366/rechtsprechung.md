@@ -27,15 +27,15 @@ agent_verified: false
 - **Kernaussage**: Die Säumnisfolgen im Berufungsverfahren unterscheiden sich von jenen im erstinstanzlichen Verfahren; ein Abwesenheitsverfahren nach Art. 366 ff. StPO findet dort nur statt, wenn die Staatsanwaltschaft oder die Privatklägerschaft Berufung erhoben haben (Art. 407 Abs. 2 StPO). Hat die beschuldigte Person selbst Berufung erhoben und bleibt sie unentschuldigt fern, gilt die Berufung als zurückgezogen.
 - **Einschlägig für**: Abs. 1/2; Verhältnis zum Berufungsverfahren
 
-### [BGer 7B_409/2023 vom 19. August 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_409_2023)
-- **Thema**: Voraussetzungen des Abwesenheitsverfahrens
-- **Kernaussage**: Anwendung der Voraussetzungen von Art. 366 StPO auf die Durchführung der Hauptverhandlung in Abwesenheit der beschuldigten Person.
-- **Einschlägig für**: Abs. 1–4
+### [BGer 7B_409/2023 vom 19. August 2024, E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_409_2023#e-2-2-1)
+- **Thema**: Säumnis der berufungsklagenden beschuldigten Person; Abgrenzung zum Abwesenheitsverfahren
+- **Kernaussage**: Hat die beschuldigte Person Berufung erhoben, bleibt sie der Berufungsverhandlung unentschuldigt fern und lässt sie sich — ausser bei amtlicher oder notwendiger Verteidigung — auch nicht vertreten, gilt die Berufung als zurückgezogen (Art. 407 Abs. 1 lit. a StPO). Erscheint die Verteidigung, nicht aber die beschuldigte Person, ist die Berufungsverhandlung ohne diese durchzuführen; ein Abwesenheitsverfahren nach Art. 366 ff. StPO findet in dieser Konstellation **nicht** statt (Art. 407 Abs. 2 StPO e contrario).
+- **Einschlägig für**: Negative Abgrenzung; Verhältnis zum Berufungsverfahren (→ *N VII*)
 
-### [BGer 6B_1339/2023 vom 4. April 2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1339_2023)
-- **Thema**: Abwesenheitsverfahren
-- **Kernaussage**: Jüngere bundesgerichtliche Anwendung der Regeln über die Durchführung des Abwesenheitsverfahrens.
-- **Einschlägig für**: Abs. 1–4
+### [BGer 6B_1339/2023 vom 4. April 2025, E. 1.2.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_1339_2023#e-1-2-2)
+- **Thema**: Säumnisfolgen im Berufungsverfahren; Verhältnis zu Art. 205 StPO
+- **Kernaussage**: Bestätigung der Rechtsprechung, wonach die Berufung der unentschuldigt fernbleibenden beschuldigten Person als zurückgezogen gilt (Art. 407 Abs. 1 lit. a StPO) und ein Abwesenheitsverfahren nach Art. 366 ff. StPO nicht stattfindet, wenn die Verteidigung erscheint (Art. 407 Abs. 2 StPO e contrario). Art. 407 Abs. 1 lit. a und Art. 205 Abs. 4 StPO regeln beide die Folgen der in Art. 93 StPO umschriebenen Säumnis.
+- **Einschlägig für**: Negative Abgrenzung; Verhältnis zum Berufungsverfahren (→ *N VII*)
 
 ## EGMR-Entscheide
 
