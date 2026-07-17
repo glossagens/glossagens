@@ -8,6 +8,10 @@ Kommentar zum [Bundesgesetz über die Raumplanung vom 22. Juni 1979 (SR 700)](ht
 
 ## Kommentierte Artikel
 
+### Baubewilligung (Art. 22)
+
+- [Art. 22 — Baubewilligung](art-022/)
+
 ### Ausnahmen für Bauten ausserhalb der Bauzonen (Art. 24–24e)
 
 - [Art. 24 — Standortgebundene Bauten und Anlagen](art-024/)
