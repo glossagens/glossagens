@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-07-17
 description: "Übersicht der Entscheide zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft"
 tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft"]
 agent_verified: true
@@ -155,4 +155,18 @@ agent_verified: true
 - **Kernsatz**: Teilweise Gutheissung. Die rein hypothetische Möglichkeit der Verübung von Delikten sowie die Wahrscheinlichkeit, dass nur geringfügige Straftaten verügt werden, reichen nicht aus, um Haft wegen Ausführungsgefahr zu begründen. Bei der Beurteilung der Ausführungsgefahr sind psychiatrische Gutachten von zentraler Bedeutung. Enthält ein Gutachten Hinweise, die die Prognose relativieren, darf das Gericht diese nicht unbeachtet lassen. Ersatzmassnahmen (Rayon- und Kontaktverbot nach Art. 237 Abs. 2 lit. c und g StPO) können die bestehende Ausführungsgefahr vermindern. Ein gewisses Restrisiko wurde vom Gesetzgeber in Kauf genommen.
 - **Einschlägig für**: Abs. 1 lit. c (Ausführungsgefahr), Abs. 2 (Ersatzmassnahmen, psychiatrische Gutachten)
 
-*Letzte Aktualisierung: 17. Mai 2026*
+### [BGer 7B_707/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_707_2026) vom 2. Juli 2026
+- **Thema**: Art. 221 Abs. 1 lit. a StPO; Fluchtgefahr; dringender Tatverdacht bei Gruppenangriff (Art. 134 StGB); vorläufige Aufnahme (Aufenthaltsstatus F) als Fluchtindiz
+- **Kernaussage**: Bei der Überprüfung des allgemeinen Haftgrunds des dringenden Tatverdachts ist keine erschöpfende Abwägung sämtlicher belastender und entlastender Beweisergebnisse vorzunehmen; es genügen konkrete Verdachtsmomente, wonach das untersuchte Verhalten mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale erfüllen könnte (Bestätigung von BGE 143 IV 316 E. 3.1). Fluchtgefahr erfordert ernsthafte Anhaltspunkte und darf nicht schon bei abstrakter Fluchtmöglichkeit angenommen werden; es braucht eine gewisse Wahrscheinlichkeit, dass sich die beschuldigte Person dem Strafverfahren oder der zu erwartenden Sanktion durch Flucht entziehen würde (Bestätigung von BGE 145 IV 503 E. 2.2). Die Vorinstanz hatte die Fluchtgefahr bei einem Beschwerdeführer mit Aufenthaltsstatus F (vorläufige Aufnahme), befristeter Anstellung und latenter Strafandroung bejaht; das Bundesgericht hielt dem entgegen, dass die Besonderheiten des Einzelfalls (Flucht nach Afghanistan unwahrscheinlich, berufliche Integration in Aussicht) nicht hinreichend gewürdigt worden seien.
+- **Sachverhalt**: Tätliche Auseinandersetzung am Busbahnhof St. Gallen mit mehreren Beteiligten; Beschwerdeführer aus Afghanistan, Aufenthaltsstatus F (vorläufige Aufnahme), befristete Anstellung mit Aussicht auf Festanstellung.
+- **Dispositiv**: Teilweise Gutheissung; Aufhebung des angefochtenen Entscheids und Rückweisung an die Vorinstanz zur Neubeurteilung der Fluchtgefahr.
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr, dringender Tatverdacht, Aufenthaltsstatus F, Ersatzmassnahmen)
+
+### [BGer 7B_779/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_779_2026) vom 2. Juli 2026
+- **Thema**: Art. 221 Abs. 1 lit. a StPO; Fluchtgefahr; Sicherheitshaft; Verhältnismässigkeit (Art. 212 Abs. 3 StPO); Überhaft; Ersatzmassnahmen; rechtl. Gehör (Art. 29 Abs. 2 BV)
+- **Kernaussage**: Fluchtgefahr erfordert ernsthafte Anhaltspunkte und eine gewisse Wahrscheinlichkeit, dass sich die beschuldigte Person durch Flucht entziehen würde. Zu berücksichtigen sind der Charakter, die moralische Integrität, die finanziellen Mittel, die Verbindungen zur Schweiz, die Beziehungen zum Ausland und die Höhe der drohenden Strafe; die Schwere der drohenden Strafe genügt für sich allein nicht (Bestätigung von BGE 145 IV 503 E. 2.2). Bei fehlenden Beziehungen zur Schweiz, Kontakten ins Ausland und konkreten Plänen, das Land im Fall einer Freilassung zu verlassen, sind Ersatzmassnahmen (Schriftensperre, Meldepflicht nach Art. 237 Abs. 2 lit. b und d StPO) regelmässig nicht geeignet, der Fluchtgefahr zu begegnen (Bestätigung von BGE 145 IV 503 E. 3.2). Die Fortdauer der Sicherheitshaft ist verhältnismässig, wenn die konkret zu erwartende Freiheitsstrafe die Haftdauer deutlich übersteigt; ein bereits vorliegendes Berufungsurteil ist ein wichtiges Indiz (Bestätigung von BGE 145 IV 179 E. 3.1, 3.5).
+- **Sachverhalt**: Beschwerdeführer seit 16.12.2024 zunächst in Deutschland in Auslieferungshaft, seit 4.3.2025 in Schweiz in Sicherheitshaft; verurteilt zu 47 Monaten Freiheitsstrafe; Rüge der Überhaft und ungenügenden Begründung des Verzichts auf Ersatzmassnahmen.
+- **Dispositiv**: Abweisung, soweit darauf eingetreten.
+- **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr, Ersatzmassnahmen, Verhältnismässigkeit, Überhaft), Art. 212 Abs. 3 StPO, Art. 237 StPO, Art. 29 Abs. 2 BV
+
+*Letzte Aktualisierung: 17. Juli 2026*

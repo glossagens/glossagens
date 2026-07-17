@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 163 ZGB"
 weight: 99
 date: "2026-06-28"
-lastmod: "2026-06-28"
+lastmod: "2026-07-17"
 description: "Rechtsprechungsübersicht zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: BGE-Entscheide thematisch geordnet"
 tags: ["ZGB", "Ehegattenunterhalt", "Rechtsprechung", "BGE", "Unterhaltspflicht"]
 agent_verified: false
@@ -76,3 +76,11 @@ agent_verified: false
 | 10 | BGE 117 V 287 | 1802 | 1991 | ELG, Hausfraueinstufung |
 | 11 | BGE 135 III 66 | 1701 | 2008 | Mankotragung, Existenzminimum |
 | 12 | BGE 119 II 314 | 1616 | 1993 | Hypothetisches Einkommen, Art. 145 ZGB |
+
+## Neue BGer-Entscheide 2026
+
+### [BGer 5A_599/2026 vom 1. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_599_2026) (II. zivilrechtliche Abteilung)
+- **Thema**: Art. 163 ZGB i.V.m. Art. 159 Abs. 3 ZGB; Prozesskostenvorschusspflicht; Wegfall nach rechtskräftiger Scheidung
+- **Kernaussage**: Die Pflicht zur Leistung eines Prozesskostenvorschusses an den anderen Ehegatten beruht auf Art. 159 Abs. 3 ZGB und Art. 163 ZGB. Nach rechtskräftiger Scheidung entfällt diese Pflicht, da sie eine eherechtliche Pflicht ist, die mit dem Ende der Ehe endet. Im konkreten Fall war die Beschwerdeführerin bereits rechtskräftig geschieden; die Subsidiarität der unentgeltlichen Rechtspflege gegenüber dem Kostenvorschussgesuch war nicht mehr massgeblich (E. 5, 5.2).
+- **Einschlägig für**: Art. 163 ZGB i.V.m. Art. 159 Abs. 3 ZGB; Prozesskostenvorschuss; Beendigung der Ehe
+- **Einordnung**: Bestätigung der Rechtsprechung zu Art. 163 ZGB als Grundlage der Prozesskostenvorschusspflicht (BGE 142 III 36); Klärung, dass diese Pflicht mit der rechtskräftigen Scheidung endet.

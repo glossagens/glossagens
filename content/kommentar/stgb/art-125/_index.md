@@ -2,7 +2,7 @@
 title: "Art. 125 — Fahrlässige Körperverletzung"
 weight: 125
 date: 2026-07-04
-lastmod: "2026-07-04"
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 125 StGB – Fahrlässige Körperverletzung (einfache und schwere fahrlässige Körperverletzung, Sorgfaltspflichtverletzung, adäquate Kausalität, Strafantragsbedürftigkeit)"
 tags: ["StGB", "Fahrlässige Körperverletzung", "Fahrlässigkeit", "Kausalität", "Sorgfaltspflicht", "Sportunfall", "Strassenverkehr", "Ärztehaftung"]
 agent_verified: true

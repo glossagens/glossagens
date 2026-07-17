@@ -66,6 +66,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 125 — Fahrlässige Körperverletzung](art-125/)
 - [Art. 129 — Gefährdung des Lebens](art-129/)
 - [Art. 133 — Raufhandel](art-133/)
+- [Art. 134 — Angriff](art-134/)
 
 ### Besondere Bestimmungen — Strafbare Handlungen gegen das Vermögen (Art. 137–172ter)
 
@@ -82,6 +83,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 ### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit (Art. 180–186)
 
+- [Art. 181 — Nötigung](art-181/)
 - [Art. 182 — Menschenhandel](art-182/)
 - [Art. 186 — Hausfriedensbruch](art-186/)
 

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 125 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-07-04"
+lastmod: "2026-07-17"
 description: "Übersicht der Entscheide zu Art. 125 StGB – Fahrlässige Körperverletzung"
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Sportunfall", "Strassenverkehr"]
 agent_verified: false
@@ -131,4 +131,20 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-07-04*
+## BGer-Entscheide 2026 (neue Rechtsprechung)
+
+### BGer 7B_1323/2024 (03.07.2026, II. strafrechtliche Abteilung)
+- **Thema**: Fahrlässige schwere Körperverletzung (Art. 125 Abs. 2 StGB); Sorgfaltspflicht des Ausbilders bei der Beaufsichtigung von Lehrlingen an einer Fräsmaschine; UVG (Art. 112 Abs. 1 lit. d UVG)
+- **Kernaussage**: Wer fahrlässig einen Menschen schwer am Körper oder an der Gesundheit schädigt, wird nach Art. 125 Abs. 2 StGB bestraft. Fahrlässig handelt, wer die Folge seines Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt (Art. 12 Abs. 3 StGB). Ein Verhalten ist sorgfaltswidrig, wenn der Täter zum Zeitpunkt der Tat aufgrund der Umstände sowie seiner Kenntnisse und Fähigkeiten die damit bewirkte Gefährdung der Rechtsgüter des Opfers hätte erkennen können und müssen und wenn er zugleich die Grenzen des erlaubten Risikos überschritten hat. Wo besondere, der Unfallverhütung und der Sicherheit dienende Normen ein bestimmtes Verhalten gebieten, bestimmt sich das Mass der zu beachtenden Sorgfalt in erster Linie nach diesen Vorschriften (Bestätigung der Rechtsprechung: BGE 148 IV 39 E. 2.3.3; BGE 145 IV 154 E. 2.1; BGE 143 IV 138 E. 2.1).
+- **Sachverhalt**: Der Beschwerdeführer war bei der C.________ AG für die Ausbildung von Polymechaniker-Lehrlingen zuständig. Am 17. Januar 2019 erlitt ein Lehrling im ersten Lehrjahr während der Arbeit an einer Fräsmaschine eine komplexe Hand- und Unterarmverletzung links mit multiplen Schnittverletzungen, als sein Handschuh von der Fräsmaschine erfasst und eingezogen wurde. Der Beschwerdeführer war am Unfalltag nicht im Betrieb anwesend und hatte den Lehrlingen am Vortag den Auftrag erteilt, während seiner Abwesenheit an der Fräsmaschine zu arbeiten. Nach dem Jugendarbeitsschutz durften Lehrlinge des ersten Lehrjahrs an der Fräsmaschine nur arbeiten, wenn deren ständige Überwachung durch eine Fachkraft sichergestellt war — was im Ereigniszeitpunkt nicht der Fall war.
+- **Erwägungen**:
+  - E. 3.2: Die schwere Körperverletzung war für den Beschwerdeführer voraussehbar; die Sicherheitsmassnahme der ständigen Überwachung diente gerade dazu, Klemm-, Quetsch- und Schnittwunden durch unbeabsichtigtes Einschalten, Fehlmanipulationen, Störungen oder nicht funktionierende Sicherheitsvorrichtungen zu verhindern
+  - E. 3.3.2: Dass der Lehrling am Vortag zum ersten Mal an der Fräsmaschine gearbeitet hatte (unter ständiger Beaufsichtigung durch den Beschwerdeführer) und somit noch sehr unerfahren war, verstärkt die Vorhersehbarkeit der Gefährdung
+  - E. 3.4: Die Rüge, der Lehrling habe "directvorsätzlich" und in Kenntnis des Handschuhtragverbots gehandelt, dringt nicht durch; die Vorinstanz hat überzeugend erwogen, dass der Beschwerdeführer aufgrund der fehlenden Erfahrung der Lehrlinge damit rechnen musste, dass sie ohne ständige Überwachung durch eine Fachkraft die Sicherheitsvorschriften nicht einhielten
+- **Dispositiv**: Abweisung der Beschwerde; Bestätigung des Schuldspruchs wegen fahrlässiger Körperverletzung nach Art. 125 Abs. 2 StGB.
+- **Einschlägig für**: Abs. 2, Sorgfaltspflicht, Jugendarbeitsschutz, Ausbilderaufsicht
+- **Link**: [BGer 7B_1323/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1323_2024)
+
+---
+
+*Letzte Aktualisierung: 2026-07-17*

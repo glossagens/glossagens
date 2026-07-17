@@ -25,6 +25,7 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 ### Familienrecht — Das Eherecht (Art. 90–251)
 
 - [Art. 125 — Nachehelicher Unterhalt](art-125/)
+- [Art. 159 — Eheliche Gemeinschaft und Pflichten der Ehegatten](art-159/)
 - [Art. 163 — Ehegattenunterhalt / Familienunterhalt](art-163/)
 - [Art. 173 — Unterhaltsbeitrag im Eheschutz](art-173/)
 

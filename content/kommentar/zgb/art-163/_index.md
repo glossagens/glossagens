@@ -2,7 +2,7 @@
 title: "Art. 163 — Ehegattenunterhalt / Familienunterhalt"
 weight: 163
 date: "2026-06-28"
-lastmod: "2026-06-28"
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: Familienunterhalt, Beitragsarten, Bemessungsgrundsätze, Existenzminimum, hypothetisches Einkommen"
 tags: ["ZGB", "Ehegattenunterhalt", "Familienunterhalt", "Eherecht", "Unterhaltspflicht", "Existenzminimum"]
 agent_verified: true

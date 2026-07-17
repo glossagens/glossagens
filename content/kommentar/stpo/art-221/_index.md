@@ -2,7 +2,7 @@
 title: "Art. 221 — Voraussetzungen"
 weight: 221
 date: "2026-05-17"
-lastmod: "2026-06-19"
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft (Fluchtgefahr, Kollusionsgefahr, Wiederholungsgefahr, qualifizierte Wiederholungsgefahr, Ausführungsgefahr)"
 tags: ["StPO", "Untersuchungshaft", "Sicherheitshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 agent_verified: true
