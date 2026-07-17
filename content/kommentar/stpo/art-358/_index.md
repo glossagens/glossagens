@@ -1,10 +1,10 @@
 ---
-title: "Art. 358 StPO — Abgekürztes Verfahren (Grundsätze)"
+title: "Art. 358 — Abgekürztes Verfahren (Grundsätze)"
 weight: 358
-date: "2026-07-04"
-lastmod: "2026-07-04"
-description: "Kommentar zu Art. 358 StPO: Grundsätze des abgekürzten Verfahrens — Antrag, Geständnis, Anerkennung der Zivilansprüche, Fünfjahresgrenze, Schutzmechanismen und Revision."
-tags: ["abgekürztes Verfahren", "Absprache", "Geständnis", "Anklageschrift", "plea bargaining", "Zivilansprüche", "Revision", "Verfahrenserledigung"]
+date: "2026-06-27"
+lastmod: "2026-07-17"
+description: "Kommentar zu Art. 358 StPO — Abgekürztes Verfahren: Voraussetzungen, Geständnis, Einverständnis, Strafgrenze fünf Jahre, Ausschlussgründe"
+tags: ["StPO", "abgekürztes Verfahren", "Geständnis", "vereinfachtes Verfahren", "Strafgrenze", "Hauptverhandlung"]
 agent_verified: true
 ---
 
@@ -12,63 +12,68 @@ agent_verified: true
 
 > **Art. 358 StPO — Grundsätze**
 >
-> 1 Die beschuldigte Person kann der Staatsanwaltschaft bis zur Anklageerhebung die Durchführung des abgekürzten Verfahrens beantragen, wenn sie den Sachverhalt, der für die rechtliche Würdigung wesentlich ist, eingesteht und die Zivilansprüche zumindest im Grundsatz anerkennt.
+> **1** Die beschuldigte Person kann der Staatsanwaltschaft bis zur Anklageerhebung die Durchführung des abgekürzten Verfahrens beantragen, wenn sie den Sachverhalt, der für die rechtliche Würdigung wesentlich ist, eingesteht und die Zivilansprüche zumindest im Grundsatz anerkennt.
 >
-> 2 Das abgekürzte Verfahren ist ausgeschlossen, wenn die Staatsanwaltschaft eine Freiheitsstrafe von mehr als fünf Jahren verlangt.
+> **2** Das abgekürzte Verfahren ist ausgeschlossen, wenn die Staatsanwaltschaft eine Freiheitsstrafe von mehr als fünf Jahren verlangt.
 
-## I. Bedeutung und Funktion
+*Quelle: Fedlex (SR 312.0), Stand 1.4.2025.*
 
-Die Art. 358–362 StPO bilden die gesetzliche Grundlage des **abgekürzten Verfahrens** — der schweizerischen Form der Verfahrensabsprache («plea bargaining»). Es beruht im Wesentlichen auf einer **Einigung zwischen Staatsanwaltschaft und beschuldigter Person**: Beide verständigen sich auf einen Sachverhalt, dessen rechtliche Würdigung, die Sanktion und allfällige Nebenfolgen. Im Interesse des Konsenses verzichten sie wechselseitig auf die abschliessende Klärung aller offenen Fragen und nehmen damit gewisse Unschärfen in Kauf ([BGer 6B_414/2024 vom 2. Dezember 2025, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_414_2024#e-2-1); [BGE 144 IV 121, E. 1.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_121)). Der Effizienzgewinn wird durch besondere **Schutzmechanismen** kompensiert (→ *N IV*).
+## Vorbemerkungen
 
-## II. Voraussetzungen (Abs. 1)
+**1** **Stellung und Bedeutung.** Art. 358 StPO regelt die Grundsätze des **abgekürzten Verfahrens** — eines gerichtlichen vereinfachten Verfahrens, bei dem die ordentliche Hauptverhandlung durch ein verkürztes Verfahren ersetzt wird. Im Gegensatz zum Strafbefehlsverfahren (Art. 352–357 StPO), das von der Staatsanwaltschaft allein durchgeführt wird, findet das abgekürzte Verfahren vor **Gericht** statt. Es ist das einzige vereinfachte Verfahren, bei dem ein Gericht entscheidet, ohne dass eine ordentliche Hauptverhandlung mit vollständiger Beweisaufnahme durchgeführt wird.
 
-### 1. Antrag der beschuldigten Person
+**2** **Systematische Stellung.** Art. 358 ist die Einleitungsnorm des abgekürzten Verfahrens (Art. 358–358b StPO). Die Folgeartikel regeln: Art. 358a (Verfahren), Art. 358b (Urteil im abgekürzten Verfahren). Das abgekürzte Verfahren steht neben dem Strafbefehlsverfahren (Art. 352–357) und dem ordentlichen Verfahren (Art. 324–351) als dritte Verfahrensart.
 
-Die Initiative liegt bei der **beschuldigten Person**; sie kann den Antrag **bis zur Anklageerhebung** stellen. Die Staatsanwaltschaft entscheidet endgültig über die Durchführung (Art. 359 Abs. 1 StPO); ein Anspruch auf das abgekürzte Verfahren besteht nicht, und der ablehnende Entscheid muss weder begründet noch angefochten werden können.
+**3** **Verhältnis zum Strafbefehlsverfahren.** Das abgekürzte Verfahren unterscheidet sich fundamental vom Strafbefehlsverfahren:
+- **Strafbefehlsverfahren**: Staatsanwaltschaft entscheidet; kein Einverständnis der beschuldigten Person nötig; Strafgrenze 6 Monate Freiheitsstrafe; Einsprache führt zu ordentlichem Verfahren.
+- **Abgekürztes Verfahren**: Gericht entscheidet; ausdrückliches Einverständnis (Antrag) der beschuldigten Person nötig; Strafgrenze 5 Jahre Freiheitsstrafe; Verzicht auf ordentliche Hauptverhandlung.
 
-### 2. Geständnis des wesentlichen Sachverhalts
+**4** **Gesetzgebungsgeschichte.** Das abgekürzte Verfahren wurde mit der Schweizerischen Strafprozessordnung (2011) neu eingeführt. Es sollte eine Verfahrenserleichterung für Fälle schaffen, in denen die beschuldigte Person den Sachverhalt gesteht und ein schnelles Verfahren wünscht — insbesondere bei mittelschwerer Kriminalität, die für das Strafbefehlsverfahren zu schwer ist.
 
-Die beschuldigte Person muss den Sachverhalt eingestehen, **der für die rechtliche Würdigung wesentlich ist**. Ein umfassendes Geständnis in allen Einzelheiten ist nicht erforderlich; das Geständnis muss aber die Tatbestandsmerkmale der zur Anklage gebrachten Delikte abdecken. Es bildet die Grundlage der Anklageschrift (Art. 360 StPO) und muss später vor Gericht bestätigt werden (→ *N IV*).
+## Kommentierung
 
-### 3. Anerkennung der Zivilansprüche im Grundsatz
+### I. Voraussetzungen (Abs. 1)
 
-Die Zivilansprüche sind «zumindest im Grundsatz» anzuerkennen — eine betragsmässige Einigung ist nicht vorausgesetzt, wohl aber die Anerkennung der Haftung dem Grunde nach. Die Privatklägerschaft ist dadurch geschützt, dass die Anklageschrift ihre Zustimmung braucht, soweit ihre Zivilansprüche betroffen sind (Art. 360 Abs. 1 lit. f und Abs. 2 f. StPO).
+**5** **Antrag der beschuldigten Person.** Das abgekürzte Verfahren wird **nur auf Antrag** der beschuldigten Person durchgeführt. Die Staatsanwaltschaft kann es nicht von Amtes wegen anordnen. Der Antrag muss bis zur Anklageerhebung gestellt werden — danach ist das abgekürzte Verfahren ausgeschlossen. Der Antrag ist unwiderruflich, sobald die Staatsanwaltschaft ihn annimmt und das Gericht das Verfahren eröffnet.
 
-## III. Ausschluss: Fünfjahresgrenze (Abs. 2)
+**6** **Geständnis des Sachverhalts.** Die beschuldigte Person muss den Sachverhalt, der für die rechtliche Würdigung **wesentlich** ist, eingestehen. Das Geständnis muss sich nicht auf die rechtliche Qualifikation (z.B. «Ich habe Betrug begangen») beziehen, sondern auf den **Sachverhalt** (z.B. «Ich habe dem Opfer fälschlich behauptet, ich würde das Geld zurückzahlen»). Die rechtliche Würdigung kann weiterhin strittig sein (Art. 344 StPO: abweichende rechtliche Würdigung).
 
-Das abgekürzte Verfahren ist ausgeschlossen, wenn die Staatsanwaltschaft eine **Freiheitsstrafe von mehr als fünf Jahren** verlangt. Massgebend ist die konkret beantragte Sanktion, nicht die abstrakte Strafdrohung. Die Grenze zieht dem konsensualen Verfahren bei schwerster Kriminalität eine absolute Schranke.
+**7** **Bestätigung des Geständnisses in der Hauptverhandlung.** Ein Urteil im abgekürzten Verfahren setzt voraus, dass die beschuldigte Person ihr Geständnis in der erstinstanzlichen Hauptverhandlung **bestätigt**. Das gerichtliche Bestätigungsverfahren ist einer der zentralen Schutzmechanismen dieses besonderen Verfahrens — es stellt sicher, dass das Geständnis freiwillig, vollständig und richtig ist ([BGE 139 IV 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_233) — Abgekürztes Verfahren (Art. 358 ff. StPO). Ein Urteil im abgekürzten Verfahren setzt voraus, dass die beschuldigte Person ihr Geständnis in der erstinstanzlichen Hauptverhandlung bestätigt. Das gerichtliche Bestätigungsverfahren ist einer der Schutzmechanismen dieses speziellen Verfahrens).
 
-## IV. Schutzmechanismen und gerichtliche Kontrolle
+**8** **Anerkennung der Zivilansprüche.** Die beschuldigte Person muss die Zivilansprüche **zumindest im Grundsatz** anerkannen. «Im Grundsatz» bedeutet: Sie muss dem Grunde nach anerkennen, dass Zivilansprüche bestehen — die Höhe kann strittig bleiben. Dies ermöglicht eine Trennung von strafrechtlicher Schuld und zivilrechtlicher Höhe.
 
-Das Konsensmodell wird durch mehrere Sicherungen flankiert:
+### II. Strafgrenze (Abs. 2)
 
-- **Gerichtliches Bestätigungsverfahren**: Ein Urteil im abgekürzten Verfahren setzt voraus, dass die beschuldigte Person ihr **Geständnis in der erstinstanzlichen Hauptverhandlung bestätigt** (Art. 361 Abs. 2 StPO). Das Bestätigungsverfahren ist einer der zentralen Schutzmechanismen; die Möglichkeit, dass die beschuldigte Person ihre Zustimmung zur Anklageschrift widerruft, ist hinzunehmen, wenn sich das Gericht nicht persönlich davon überzeugen kann, dass sie den angeklagten Sachverhalt anerkennt ([BGE 139 IV 233, E. 2.5 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_233)).
-- **Gerichtliche Prüfung**: Das Gericht prüft frei, ob die Durchführung des abgekürzten Verfahrens rechtmässig und angebracht ist, ob die Anklage mit dem Ergebnis der Hauptverhandlung und den Akten übereinstimmt und ob die beantragten Sanktionen angemessen sind (Art. 362 Abs. 1 StPO). Erachtet es die Voraussetzungen als nicht erfüllt, weist es die Akten an die Staatsanwaltschaft zurück (Art. 362 Abs. 3 StPO); Erklärungen der Parteien im Hinblick auf das abgekürzte Verfahren sind dann **nicht verwertbar** (Art. 362 Abs. 4 StPO).
+**9** **Ausschluss bei mehr als fünf Jahren.** Das abgekürzte Verfahren ist ausgeschlossen, wenn die Staatsanwaltschaft eine Freiheitsstrafe von mehr als fünf Jahren verlangt. Diese Grenze ist **absolut** — sie kann nicht durch Einverständnis der Parteien umgangen werden. Massgebend ist die von der Staatsanwaltschaft **beantragte** Strafe, nicht die vom Gericht tatsächlich ausgefällte Strafe.
 
-## V. Rechtsmittel und Revision
+**10** **Bedeutung der Grenze.** Die Grenze von fünf Jahren Freiheitsstrafe entspricht der Schwelle zwischen Vergehen und Verbrechen (Art. 10 Abs. 2 und 3 StGB: Verbrechen = Freiheitsstrafe von mehr als einem Jahr; hier wird das abgekürzte Verfahren jedoch bis fünf Jahre zugelassen, was auch mittelschwere Verbrechen erfasst). Die Grenze sichert, dass bei schwerer Kriminalität (z.B. schwere Gewaltdelikte, die mehr als fünf Jahre Freiheitsstrafe nach sich ziehen) eine vollständige Beweisaufnahme durchgeführt wird.
 
-Mit der **Berufung** kann eine Partei nur geltend machen, sie habe der Anklageschrift nicht zugestimmt oder das Urteil entspreche der Anklageschrift nicht (Art. 362 Abs. 5 StPO). Die **Revision** ist stark eingeschränkt:
+### III. Nachträgliche Massnahmen
 
-- Gestützt auf **neue Tatsachen und Beweismittel** (Art. 410 Abs. 1 lit. a StPO) ist die Revision eines im abgekürzten Verfahren gefällten Urteils **nicht zulässig** — wer dem Verfahren zustimmt, verzichtet auf die vollständige Sachverhaltsabklärung ([BGE 143 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_122), E. 3).
-- Gleiches gilt für den Revisionsgrund **einander widersprechender Strafentscheide** (Art. 410 Abs. 1 lit. b StPO; [BGE 144 IV 121, E. 1.1–1.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_121)).
-- Ein Revisionsgrund besteht dagegen bei **strafbarer Einwirkung** auf das abgekürzte Verfahren (Art. 410 Abs. 1 lit. c StPO) sowie bei **schwerwiegenden Willensmängeln** ([BGE 143 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_122), E. 3; → [Art. 410](../art-410/)).
-- Auch die **nachträgliche Anordnung einer stationären Massnahme** (Art. 65 Abs. 1 StGB) unterliegt bei Urteilen aus dem abgekürzten Verfahren erhöhten Anforderungen: Tatsachen, die dem urteilenden Gericht bereits vorlagen, können nicht erneut eingebracht werden ([BGE 142 IV 307](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_307), E. 2.3 ff.).
+**11** **Stationäre therapeutische Massnahme.** Für die nachträgliche Anordnung einer stationären therapeutischen Massnahme anstelle einer Strafe müssen sich vor oder während des abgekürzten Verfahrens Anhaltspunkte ergeben, dass der Zustand des Täters die Massnahme rechtfertigt. Die Massnahme kann nur im ordentlichen Verfahren (nicht im abgekürzten Verfahren) angeordnet werden, wenn sie nicht von vornherein beantragt war ([BGE 142 IV 307](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_307) — Art. 65 Abs. 1 StGB, Art. 358 ff. StPO; nachträgliche Anordnung einer stationären therapeutischen Massnahme anstelle einer Strafe; abgekürztes Verfahren).
 
-## VI. Abgrenzung zu anderen Normen
+### IV. Revision im abgekürzten Verfahren
 
-| Norm | Verhältnis zu Art. 358 StPO |
-|---|---|
-| Art. 359 StPO | Entscheid der Staatsanwaltschaft über die Einleitung |
-| Art. 360 StPO | Anklageschrift und Zustimmung der Parteien |
-| Art. 361 f. StPO | Hauptverhandlung und Urteil |
-| Art. 352 ff. StPO | Strafbefehlsverfahren — einseitige Erledigung (→ [Art. 352](../art-352/)) |
-| Art. 410 ff. StPO | Revision — stark eingeschränkt (→ [Art. 410](../art-410/)) |
-| Art. 398 ff. StPO | Berufung — beschränkte Rügen (→ [Art. 398](../art-398/)) |
+**12** **Eingeschränkte Revision.** Die Revision eines im abgekürzten Verfahren gefällten Urteils ist gestützt auf neue Tatsachen und Beweismittel im Sinne von Art. 410 Abs. 1 lit. a StPO **nicht zulässig**. Bei strafbarer Einwirkung auf das Geständnis (Art. 410 Abs. 1 lit. b StPO) ist die Revision jedoch möglich ([BGE 143 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_122) — Art. 358 ff. und Art. 410 ff. StPO; Revision eines im abgekürzten Verfahren gefällten Urteils. Die Revision eines im abgekürzten Verfahren gefällten Urteils ist gestützt auf neue Tatsachen und Beweismittel im Sinne von Art. 410 Abs. 1 lit. a StPO nicht zulässig. Bei strafbarer Einwirkung auf das Geständnis (lit. b) ist die Revision möglich). Diese Einschränkung ist gerechtfertigt, weil das Geständnis der beschuldigten Person die Grundlage des abgekürzten Verfahrens ist — neue Tatsachen, die das Geständnis infrage stellen, hätten im Rahmen des freiwilligen Geständnisses geltend gemacht werden müssen.
 
-## VII. Rechtsprechung
+### V. Verfahrensgarantien
 
-→ [Rechtsprechungsübersicht](rechtsprechung/)
+**13** **Verteidigung.** Im abgekürzten Verfahren ist die Verteidigung besonders wichtig, da die beschuldigte Person auf die ordentliche Beweisaufnahme verzichtet. BeiDelikten, die eine Freiheitsstrafe von mehr als einem Jahr nach sich ziehen können, ist die amtliche Verteidigung obligatorisch (Art. 132 StPO). Das Gericht muss sicherstellen, dass die beschuldigte Person die Tragweite ihres Verzichts auf die ordentliche Hauptverhandlung verstanden hat.
 
----
+**14** **Überprüfung des Geständnisses.** Das Gericht hat das Geständnis der beschuldigten Person auf seine **Richtigkeit, Vollständigkeit und Freiwilligkeit** zu überprüfen. Bestehen Zweifel an der Richtigkeit oder Freiwilligkeit des Geständnisses, ist das abgekürzte Verfahren abzubrechen und zum ordentlichen Verfahren überzugehen (Art. 358b StPO).
 
-*Zuletzt aktualisiert: 4. Juli 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-358/_index.md) · [Anregung einreichen](/einreichung)*
+## Querverweise
+
+- [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehlsverfahrens (Abgrenzung)
+- Art. 358a StPO — Verfahren des abgekürzten Verfahrens
+- Art. 358b StPO — Urteil im abgekürzten Verfahren
+- [Art. 344 StPO](../art-344/) — Abweichende rechtliche Würdigung
+- Art. 132 StPO — Obligatorische Verteidigung
+- Art. 410 StPO — Revision
+- Art. 10 StGB — Einteilung der Straftaten
+
+## Literatur
+
+- Donatsch / Hanser, *Strafprozessrecht*, 9. Aufl. 2023, § 29
+- Gless, in: Niggli / Wessels (Hrsg.), *StPO-Kommentar*, 3. Aufl. 2023, Art. 358 N. 1 ff.
+- OnlineKommentar.ch zu Art. 358 StPO

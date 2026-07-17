@@ -2,9 +2,9 @@
 title: "Art. 356 — Verfahren vor dem erstinstanzlichen Gericht"
 weight: 356
 date: "2026-06-27"
-lastmod: "2026-06-27"
-description: "Kommentar zu Art. 356 StPO — Verfahren nach Einsprache vor dem erstinstanzlichen Gericht: Strafbefehl als Anklageschrift, Gültigkeitsprüfung, Rückzug der Einsprache, Säumnisfiktion, Nichtigkeit"
-tags: ["StPO", "Strafbefehl", "Einsprache", "Anklageschrift", "Rückzug", "Säumnisfiktion", "Hauptverfahren"]
+lastmod: "2026-07-17"
+description: "Kommentar zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht nach Einsprache: Überweisung, Gültigkeitsprüfung, Rückzug, Säumnisfiktion, Ungültigkeit"
+tags: ["StPO", "Strafbefehl", "Einsprache", "Gerichtsverfahren", "Säumnisfiktion", "Anklageschrift", "Rückzug"]
 agent_verified: true
 ---
 
@@ -26,69 +26,69 @@ agent_verified: true
 >
 > **7** Sind gegen mehrere Personen Strafbefehle erlassen worden, die sich auf den gleichen Sachverhalt beziehen, so ist Artikel 392 sinngemäss anwendbar.
 
+*Quelle: Fedlex (SR 312.0), Stand 1.4.2025.*
+
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 356 StPO regelt das Verfahren vor dem erstinstanzlichen Gericht, nachdem gegen einen Strafbefehl Einsprache erhoben und die Staatsanwaltschaft am Strafbefehl festgehalten hat (Art. 355 Abs. 3 lit. a StPO). Die Norm vollzieht den Übergang vom strabbefehlsverfahren (Staatsanwaltschaft) zum ordentlichen Gerichtsverfahren: Der Strafbefehl wird zur Anklageschrift (Abs. 1 Satz 2), und das Gericht entscheidet über Schuldspruch, Sanktion und Nebenfolgen in einer Hauptverhandlung.
+**1** **Stellung und Bedeutung.** Art. 356 StPO regelt das Verfahren vor dem erstinstanzlichen Gericht, nachdem gegen einen Strafbefehl Einsprache erhoben wurde und die Staatsanwaltschaft am Strafbefehl festhält. Die Norm ist die Brücke vom Strafbefehlsverfahren (Staatsanwaltschaft) zum ordentlichen Gerichtsverfahren: Der Strafbefehl wird zur Anklageschrift (Abs. 1), das Gericht prüft seine Gültigkeit (Abs. 2), und die beschuldigte Person kann die Einsprache zurückziehen (Abs. 3/4) — mit der Folge, dass der Strafbefehl rechtskräftig wird.
 
-**2** **Systematik.** Art. 356 steht am Ende der Strafbefehlsverfahrens-Serie: Art. 352 (Voraussetzungen) → Art. 353 (Inhalt/Eröffnung) → Art. 354 (Einsprache) → Art. 355 (Verfahren bei Einsprache durch Staatsanwaltschaft) → **Art. 356 (Verfahren vor dem Gericht)**. Nach Art. 355 entscheidet die Staatsanwaltschaft nach Beweisabnahme über den Fortgang (festhalten, einstellen, neuer Strafbefehl, Anklage). Hält sie am Strafbefehl fest, geht das Verfahren an das Gericht — und dort gilt Art. 356.
-
-**3** **Doppelfunktion des Strafbefehls.** Der Strafbefehl hat eine Doppelfunktion: Er ist einerseits Verfügung der Staatsanwaltschaft und andererseits — bei Einsprache und Festhalten am Strafbefehl — Anklageschrift vor dem Gericht ([BGE 140 IV 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_188) — Art. 9 Abs. 1, Art. 325 Abs. 1 lit. f, Art. 353 Abs. 1 lit. c und Art. 356 Abs. 1 StPO; Anklagegrundsatz; Inhalt und Funktion des Strafbefehls). Die Sachverhaltsdarstellung im Strafbefehl muss daher die Anforderungen einer Anklageschrift (Art. 325 StPO) erfüllen.
+**2** **Systematische Stellung.** Art. 356 folgt auf Art. 355 (Verfahren bei Einsprache — Entscheidung der Staatsanwaltschaft über Festhalten, Einstellung, neuer Strafbefehl oder Anklage). Hält die Staatsanwaltschaft am Strafbefehl fest (Art. 355 Abs. 3 lit. a), kommt Art. 356 zur Anwendung. Erhebt sie Anklage (Art. 355 Abs. 3 lit. d), gelangt das ordentliche Verfahren zur Anwendung.
 
 ## Kommentierung
 
-### I. Übergang an das Gericht (Abs. 1)
+### I. Überweisung und Anklageschriftfunktion (Abs. 1)
 
-**4** **Unverzügliche Überweisung.** Hält die Staatsanwaltschaft am Strafbefehl fest (Art. 355 Abs. 3 lit. a StPO), überweist sie die Akten unverzüglich dem erstinstanzlichen Gericht. Der Strafbefehl gilt als Anklageschrift (Abs. 1 Satz 2). Dies bedeutet: Es wird keine separate Anklageschrift erstellt — der Strafbefehl selbst erfüllt diese Funktion. Das Gericht führt das Hauptverfahren aufgrund des Strafbefehls durch.
+**3** **Strafbefehl als Anklageschrift.** Hält die Staatsanwaltschaft am Strafbefehl fest, überweist sie die Akten dem erstinstanzlichen Gericht. Der Strafbefehl gilt als Anklageschrift — er muss daher den Anforderungen von Art. 325 StPO (Inhalt der Anklageschrift) genügen. Dies ist Ausfluss der Doppelfunktion des Strafbefehls: Er ist sowohl Verfügung der Staatsanwaltschaft (im Strafbefehlsverfahren) als auch Anklageersatz (im Gerichtsverfahren) ([BGE 140 IV 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_188) E. 1.3–1.6 — Art. 9 Abs. 1, Art. 325 Abs. 1 lit. f, Art. 353 Abs. 1 lit. c und Art. 356 Abs. 1 StPO; Anklagegrundsatz; Inhalt und Funktion des Strafbefehls).
 
-**5** **Anklagegrundsatz.** Da der Strafbefehl als Anklageschrift gilt, muss er die Anforderungen von Art. 325 StPO erfüllen, insbesondere die genaue Sachverhaltsdarstellung (Art. 325 Abs. 1 lit. f StPO; Art. 353 Abs. 1 lit. c StPO). Eine ungenügende Sachverhaltsdarstellung kann den Anklagegrundsatz (Art. 9 StPO) verletzen und zur Aufhebung des Strafbefehls bzw. des daraus hervorgegangenen Urteils führen ([BGE 140 IV 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_188) E. 2).
+**4** **Sachverhaltsumschreibung.** Die Sachverhaltsumschreibung im Strafbefehl (Art. 353 Abs. 1 lit. c StPO) muss als Anklageschrift genügen — sie muss den Sachverhalt so genau umschreiben, dass die beschuldigte Person ihre Verteidigung wirksam organisieren kann. Dies gilt auch bei Übertretungen ([BGE 140 IV 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_188) E. 1.3–1.6).
 
-### II. Gültigkeitsprüfung (Abs. 2)
+**5** **Unverzügliche Überweisung.** Die Staatsanwaltschaft hat die Akten «unverzüglich» zu überweisen. Dies bedeutet: ohne schuldhaftes Zögern. Eine verzögerte Überweisung kann das Beschleunigungsgebot (Art. 5 StPO) verletzen.
 
-**6** **Prüfungsauftrag.** Das erstinstanzliche Gericht entscheidet über die Gültigkeit des Strafbefehls und der Einsprache. Diese Prüfung umfasst:
-- **Gültigkeit des Strafbefehls**: Sind die inhaltlichen Anforderungen von Art. 353 Abs. 1 erfüllt (Bezeichnung, Sachverhalt, Tatbestände, Sanktion, Hinweis auf Einsprache, Unterschrift)? Ist der Strafbefehl rechtsgültig zugestellt worden?
-- **Gültigkeit der Einsprache**: Ist die Einsprache formgültig (Schriftlichkeit, Frist, Begründung bei Privatklägerschaft/Dritten)?
+### II. Gültigkeitsprüfung durch das Gericht (Abs. 2)
 
-**7** **Nicht rechtsgültige Zustellung.** Ein nicht rechtsgültig zugestellter Strafbefehl entfaltet keine Rechtwirkung; Fristen werden nicht ausgelöst. Die Gültigkeit der Einsprache setzt die Gültigkeit der Zustellung voraus ([BGE 142 IV 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_201) — Art. 85 Abs. 4 lit. a StPO; Gültigkeit der Einsprache nach Art. 356 Abs. 2 StPO; ein nicht rechtsgültig zugestellter Strafbefehl entfaltet keine Rechtwirkung). Fehlt die Unterschrift (Art. 353 Abs. 1 lit. k StPO), ist der Strafbefehl nichtig ([BGE 148 IV 445](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_445) — Faksimile-Stempel genügt nicht).
+**6** **Ausschliessliche Zuständigkeit des Gerichts.** Über die Gültigkeit des Strafbefehls und der Einsprache entscheidet **ausschliesslich** das erstinstanzliche Gericht — nicht die Staatsanwaltschaft ([BGE 142 IV 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_201) E. 2 — Art. 85 Abs. 4 lit. a, Art. 356 Abs. 2 StPO; [BGE 140 IV 192](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_192) E. 1.4). Die Staatsanwaltschaft muss ein allfälliges Wiederherstellungsverfahren sistieren, bis das Gericht über die Gültigkeit der Einsprache entschieden hat ([BGE 142 IV 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_201) E. 2).
+
+**7** **Gültigkeitsvoraussetzungen.** Das Gericht prüft: (a) War die Einsprache formgerecht? (Schriftlichkeit, Frist, Unterschrift). (b) War die einspracheerhebende Person berechtigt? (Art. 354 Abs. 1 StPO). (c) Ist der Strafbefehl inhaltlich gültig? (Art. 353 Abs. 1 StPO: alle erforderlichen Elemente vorhanden). (d) Wurde der Strafbefehl richtig unterzeichnet? (Art. 353 Abs. 1 lit. k StPO: persönliche handschriftliche Unterschrift, kein Faksimile-Stempel — [BGE 148 IV 445](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_445) E. — Art. 353 Abs. 1 lit. k und Art. 80 Abs. 2 StPO).
+
+**8** **Ungültiger Strafbefehl (Abs. 5).** Ist der Strafbefehl ungültig, hebt das Gericht ihn auf und weist den Fall zur Durchführung eines neuen Vorverfahrens an die Staatsanwaltschaft zurück (BGer 6B_1304/2018 vom 5.2.2019 — Ungültigkeit des Strafbefehls analog Art. 356 Abs. 5; Fahren ohne Berechtigung; BGer 6B_848/2013 vom 3.4.2014 — Strafbefehlsinhalt, Gültigkeit).
 
 ### III. Rückzug der Einsprache (Abs. 3)
 
-**8** **Rückzug bis zum Abschluss der Parteivorträge.** Die Einsprache kann bis zum Abschluss der Parteivorträge zurückgezogen werden (Abs. 3). Der Rückzug führt dazu, dass der Strafbefehl rechtskräftig wird (Art. 354 Abs. 3 StPO). Die beschuldigte Person kann die Einsprache jedoch nur zurückziehen, wenn die Staatsanwaltschaft nach Abnahme der Beweise am ursprünglichen Strafbefehl festhält — die Verfügungsmacht über die Einsprache ist der beschuldigten Person bis zum Entscheid der Staatsanwaltschaft über den Fortgang des Verfahrens entzogen ([BGE 149 IV 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_50) — Art. 355 und 356 StPO; Einsprache gegen einen Strafbefehl, Rückzug der Einsprache).
+**9** **Rückzug bis zum Abschluss der Parteivorträge.** Die Einsprache kann bis zum Abschluss der Parteivorträge zurückgezogen werden. Dies führt zur Rechtskraft des Strafbefehls (Art. 354 Abs. 3 StPO). Der Rückzug kann ausdrücklich oder konkludent erfolgen.
 
-**9** **Konkludenter Rückzug.** Der Rückzug der Einsprache kann durch **konkludentes Handeln** erfolgen. Wenn die einsprechende Person die im Strafbefehl festgesetzte Strafe und die Verfahrenskosten entsprechenden Geldbeträge zahlt, können die Strafbehörden diese Handlung grundsätzlich als Rückzug des Strafbefehls werten ([BGE 146 IV 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_286) — Art. 356 Abs. 3 StPO; Strafbefehl; Rückzug der Einsprache durch konkludente Handlung). Die Zahlung der Strafe ist ein starkes Indiz für die Anerkennung des Strafbefehls.
+**10** **Konkludenter Rückzug durch Zahlung.** Die Zahlung der im Strafbefehl festgesetzten Geldbeträge (Strafe + Kosten) kann als konkludenter Rückzug der Einsprache ausgelegt werden ([BGE 146 IV 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_286) E. 2 — Art. 356 Abs. 3 StPO; konkludenter Rückzug der Einsprache). Ob eine Zahlung als Rückzug zu werten ist, hängt von den Umständen des Einzelfalls ab — insbesondere von der Kenntnis der beschuldigten Person über die Folgen der Zahlung.
+
+**11** **Verfügungsmacht und Zeitpunkt.** Der Rückzug der Einsprache setzt voraus, dass die Staatsanwaltschaft nach Abnahme der Beweise am ursprünglichen Strafbefehl festhält. Die Verfügungsmacht über die Einsprache ist der beschuldigten Person bis zum Entscheid der Staatsanwaltschaft über den Fortgang des Verfahrens entzogen ([BGE 149 IV 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_50) E. 1.2 — Art. 356 Abs. 3 StPO; Rückzug der Einsprache; Verfügungsmacht; Verfahrensstadien). Erst wenn die Staatsanwaltschaft entschieden hat, dass sie am Strabbefehl festhält und die Sache an das Gericht überweist, kann die beschuldigte Person beim Gericht die Einsprache zurückziehen.
 
 ### IV. Säumnisfiktion (Abs. 4)
 
-**10** **Unentschuldigtes Fernbleiben.** Bleibt die Einsprache erhebende Person der Hauptverhandlung unentschuldigt fern und lässt sie sich auch nicht vertreten, so gilt ihre Einsprache als zurückgezogen (Abs. 4). Die Säumnisfiktion führt zum Eintritt der Rechtskraft des Strafbefehls (Art. 354 Abs. 3 StPO).
+**12** **Grundsatz.** Bleibt die einspracheerhebende Person der Hauptverhandlung unentschuldigt fern und lässt sie sich auch nicht vertreten, so gilt ihre Einsprache als zurückgezogen. Der Strafbefehl wird rechtskräftig. Diese Säumnisfiktion ist eine starke prozessuale Sanktion für unentschuldigtes Fernbleiben.
 
-**11** **Voraussetzungen der Säumnisfiktion.** Die gesetzliche Fiktion gelangt nur zur Anwendung, wenn der Einsprecher **tatsächlich Kenntnis** von der Vorladung hatte. Die Bestimmungen der StPO sind im Gesamtzusammenhang des Gesetzes auszulegen. Die Säumnisfiktion von Art. 356 Abs. 4 StPO entspricht derjenigen von Art. 355 Abs. 2 StPO (Säumnis bei der Einvernahme durch die Staatsanwaltschaft) ([BGE 142 IV 158](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_158) — Art. 85 Abs. 4 lit. a, Art. 356 Abs. 4 StPO; Einspracherückzugsfiktion bei Nichterscheinen an der Hauptverhandlung; vgl. auch [BGE 140 IV 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_82) — Art. 3 und 355 Abs. 2 StPO; Säumnis nach Vorladung, Rückzugsfiktion).
+**13** **Voraussetzungen.** Die Säumnisfiktion greift nur, wenn: (a) die einspracheerhebende Person **effektiv Kenntnis** von der Vorladung hatte, und (b) sie sich der Folgen ihres Fernbleibens bewusst war ([BGE 142 IV 158](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_158) E. 3.4–3.5 — Art. 85 Abs. 4 lit. a, Art. 356 Abs. 4 StPO). Art. 356 Abs. 4 StPO entspricht Art. 355 Abs. 2 StPO (Säumnisfiktion im Verfahren bei Einsprache vor der Staatsanwaltschaft). Vorbehalten bleiben Fälle rechtsmissbräuchlichen Verhaltens.
 
-### V. Ungültiger Strafbefehl (Abs. 5)
+**14** **Persönliches Erscheinen.** Bei bestimmten Delikten (z.B. vorsätzliche grobe Verkehrsregelverletzung, Art. 336 Abs. 1 lit. a StPO) ist das persönliche Erscheinen in der Hauptverhandlung obligatorisch. Die Säumnisfiktion greift hier besonders schwer — die beschuldigte Person verliert durch Fernbleiben nicht nur die Einsprache, sondern auch die Möglichkeit, sich persönlich zum Vorwurf zu äussern (BGer 6B_7/2017 vom 5.5.2017 — persönliches Erscheinen, Einspracherückzug bei Fernbleiben; vorsätzliche grobe Verkehrsregelverletzung).
 
-**12** **Aufhebung und Rückweisung.** Ist der Strafbefehl ungültig (z.B. fehlende Unterschrift, ungenügende Sachverhaltsdarstellung, fehlender Hinweis auf Einsprache), so hebt das Gericht ihn auf und weist den Fall zur Durchführung eines **neuen Vorverfahrens** an die Staatsanwaltschaft zurück. Die Rückweisung an die Staatsanwaltschaft zur Beweisergänzung ist nur ganz ausnahmsweise zulässig — es ist grundsätzlich Aufgabe des Gerichts, allenfalls neue Beweise zu erheben ([BGE 141 IV 39](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39) — Art. 329 Abs. 2 StPO, Art. 343 StPO; Rückweisung der Anklage an die Staatsanwaltschaft).
+**15** **Treu und Glauben.** Die Säumnisfiktion kann gegen Treu und Glauben (Art. 2 ZGB analog) verstossen, wenn die_behörde der einspracheerheblichen Person unrichtige oder irreführende Angaben über die Folgen des Fernbleibens gemacht hat (BGer 6B_652/2022 vom 1.5.2023 — Strabbefehl, unentschuldigtes Fernbleiben, Rückzug der Einsprache; Willkür, Treu und Glauben; BGer 6B_1201/2018 vom 15.10.2019 — Rückzug der Einsprache; Willkür, rechtliches Gehör).
 
-### VI. Einsprache nur bei Kosten und Nebenfolgen (Abs. 6)
+### V. Schriftliches Verfahren bei Kosten/Entschädigungen (Abs. 6)
 
-**13** **Schriftliches Verfahren.** Bezieht sich die Einsprache nur auf die Kosten und Entschädigungen oder weitere Nebenfolgen (nicht auf Schuld oder Sanktion), so entscheidet das Gericht in einem schriftlichen Verfahren. Dies ist eine Verfahrenserleichterung: Eine mündliche Hauptverhandlung ist nicht erforderlich, wenn der Streit nur Nebenpunkte betrifft. Die einsprechende Person kann jedoch ausdrücklich eine Verhandlung verlangen (Abs. 6 Satz 2).
+**16** **Grundsatz.** Bezieht sich die Einsprache nur auf die Kosten und Entschädigungen oder weitere Nebenfolgen (nicht auf Schuld oder Sanktion), entscheidet das Gericht in einem schriftlichen Verfahren — es sei denn, die einspracheerhebliche Person verlange ausdrücklich eine Verhandlung. Dies ist eine Verfahrenserleichterung für rein kostenrechtliche Streitigkeiten.
 
-### VII. Mehrere Strafbefehle zum gleichen Sachverhalt (Abs. 7)
+### VI. Verbindung bei mehreren Strafbefehlen (Abs. 7)
 
-**14** **Sinngemässe Anwendung von Art. 392 StPO.** Sind gegen mehrere Personen Strafbefehle erlassen worden, die sich auf den gleichen Sachverhalt beziehen, so ist Art. 392 StPO (Verbindung oder Trennung von Verfahren) sinngemäss anwendbar. Dies stellt sicher, dass zusammenhängende Sachverhalte einheitlich beurteilt werden und widersprüchliche Entscheide vermieden werden.
-
-### VIII. Abgrenzungen
-
-**15** **Art. 355 vs. Art. 356.** Art. 355 regelt das Verfahren bei Einsprache durch die **Staatsanwaltschaft** (Beweisabnahme, Entscheidung über Fortgang). Art. 356 regelt das Verfahren vor dem **erstinstanzlichen Gericht**, nachdem die Staatsanwaltschaft am Strafbefehl festgehalten hat. Die Säumnisfiktion existiert in beiden Stadien: Art. 355 Abs. 2 (Säumnis bei Einvernahme durch Staatsanwaltschaft) und Art. 356 Abs. 4 (Säumnis bei Hauptverhandlung vor Gericht).
-
-**16** **Berichtigung vs. Aufhebung.** Eine Berichtigung des Strafbefehls (Art. 83 StPO) ist nur für offensichtliche Fehler zulässig. Die Ausfällung einer zusätzlichen Sanktion kann nicht im Berichtigungsverfahren erfolgen — dies wäre eine sachliche Änderung, die eine Aufhebung erfordert ([BGE 142 IV 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_281) — Art. 83 StPO; Berichtigung von Entscheiden; eine versehentlich unterbliebene Geldstrafe kann nicht berichtigt werden).
+**17** **Sinngemässe Anwendung von Art. 392.** Sind gegen mehrere Personen Strafbefehle erlassen worden, die sich auf den gleichen Sachverhalt beziehen, ist Art. 392 StPO (Verbindung von Verfahren) sinngemäss anwendbar. Dies stellt sicher, dass zusammenhängende Strafbefehle einheitlich beurteilt werden.
 
 ## Querverweise
 
-- [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehls
+- [Art. 352 StPO](../art-352/) — Voraussetzungen des Strafbefehlsverfahrens
 - [Art. 353 StPO](../art-353/) — Inhalt und Eröffnung des Strafbefehls
 - [Art. 354 StPO](../art-354/) — Einsprache
-- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache (durch Staatsanwaltschaft)
-- Art. 83 StPO — Berichtigung von Entscheiden
+- [Art. 355 StPO](../art-355/) — Verfahren bei Einsprache
+- Art. 85 StPO — Zustellung, Zustellfiktion
+- Art. 205 StPO — Vorladung
 - Art. 325 StPO — Inhalt der Anklageschrift
-- Art. 392 StPO — Verbindung oder Trennung von Verfahren
+- Art. 336 StPO — Obligatorisches persönliches Erscheinen
+- Art. 392 StPO — Verbindung von Verfahren
 
 ## Literatur
 

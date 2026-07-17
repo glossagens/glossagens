@@ -135,17 +135,24 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 - [Art. 333 — Änderung und Erweiterung der Anklage](art-333/)
 - [Art. 339 — Eröffnung; Vor- und Zwischenfragen](art-339/)
+- [Art. 343 — Beweisabnahme](art-343/)
 - [Art. 344 — Abweichende rechtliche Würdigung](art-344/)
 - [Art. 345 — Abschluss des Beweisverfahrens](art-345/)
 - [Art. 350 — Bindung an die Anklage; Grundlage des Urteils](art-350/)
 
 ### Besondere Verfahren (Art. 352–378)
 
+#### Strafbefehlsverfahren (Art. 352–357)
+
 - [Art. 352 — Voraussetzungen des Strafbefehlsverfahrens](art-352/)
 - [Art. 353 — Inhalt und Eröffnung des Strafbefehls](art-353/)
 - [Art. 354 — Einsprache](art-354/)
 - [Art. 355 — Verfahren bei Einsprache](art-355/)
 - [Art. 356 — Verfahren vor dem erstinstanzlichen Gericht](art-356/)
+- [Art. 357 — Übertretungen](art-357/)
+
+#### Abgekürztes Verfahren (Art. 358–358b)
+
 - [Art. 358 — Abgekürztes Verfahren (Grundsätze)](art-358/)
 - [Art. 366 — Abwesenheitsverfahren: Voraussetzungen](art-366/)
 - [Art. 367 — Abwesenheitsverfahren: Durchführung und Entscheid](art-367/)
