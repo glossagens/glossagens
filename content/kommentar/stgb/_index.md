@@ -45,6 +45,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 62c — Aufhebung der Massnahme](art-062c/)
 - [Art. 63 — Voraussetzungen und Vollzug (ambulante Behandlung)](art-063/)
 - [Art. 66a — Obligatorische Landesverweisung](art-066a/)
+- [Art. 66abis — Fakultative Landesverweisung](art-066abis/)
 - [Art. 67 — Tätigkeitsverbot](art-067/)
 - [Art. 68 — Veröffentlichung des Urteils](art-068/)
 

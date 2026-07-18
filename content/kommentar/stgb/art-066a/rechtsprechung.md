@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-07-17
+lastmod: "2026-07-18"
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Landesverweisung, Härtefallklausel, EMRK-Konformität und Freizügigkeitsabkommen"
 tags: ["Rechtsprechung", "Landesverweisung", "StGB", "Härtefallklausel"]
 agent_verified: false
@@ -192,13 +192,17 @@ agent_verified: false
 
 [BGer 6B_627/2018 vom 22. März 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_627_2018) — Der Secundo-Status (in der Schweiz geboren und aufgewachsen) führt nicht automatisch zum Absehen von der Landesverweisung. Die Härtefallprüfung und die Interessenabwägung müssen im Einzelfall vorgenommen werden. Auch bei einem in der Schweiz geborenen Ausländer können die öffentlichen Interessen an der Fernhaltung überwiegen.
 
+### BGer 6B_274/2026 vom 22. Juni 2026 — Landesverweisung und Kindeswohl bei Drogendelikt
+
+[BGer 6B_274/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_274_2026) (22. Juni 2026) — Der Beschwerdeführer, ein nigerianischer Staatsangehöriger, wurde wegen Widerhandlung gegen Art. 19 Abs. 2 BetmG verurteilt und mit einer zehnjährigen Landesverweisung nach Art. 66a lit. o StGB belegt. Er machte geltend, die Landesverweisung verletze Art. 8 EMRK, den Verhältnismässigkeitsgrundsatz (Art. 5 Abs. 2 BV) und den Vorrang des Kindeswohls (Art. 3 KRK). Das Bundesgericht wies die Beschwerde ab. Die Härtefallklausel (Art. 66a Abs. 2 StGB) sei restriktiv anzuwenden und verlange die Orientierung an den Kriterien von Art. 31 Abs. 1 VZAE (Integration, Sprache, familiäre Bindungen). Das Kindeswohl wiegt in der Interessenabwägung, rechtfertigt hier aber kein Absehen von der Landesverweisung, da der Beschwerdeführer nicht mit dem Kind in einem gemeinsamen Haushalt lebte und die persönlichen Beziehungen nicht regelmässig unterhalten wurden. Die blosse Anwesenheit des Kindes in der Schweiz reicht für sich allein nicht aus, um einen Härtefall im Sinne von Art. 66a Abs. 2 StGB zu bejahen (vgl. BGer 6B_518/2025). — *Bestätigt die Rechtsprechung zur restriktiven Härtefallprüfung.*
+
 ### BGer 6B_58/2026 vom 9. Juni 2026, E. 5 — Landesverweisung bei sexueller Nötigung; SIS-Ausschreibung; Härtefall
 
 [BGer 6B_58/2026 vom 9. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_58_2026#e-5) — Leitentscheid (Zusammenfassung markiert). Das Strafdreiergericht hatte den Beschuldigten der mehrfachen sexuellen Nötigung schuldig gesprochen und eine Landesverweisung von sieben Jahren angeordnet. Das Appellationsgericht sah in Anwendung von Art. 66a Abs. 2 StGB ausnahmsweise von der Landesverweisung ab. Die Staatsanwaltschaft beschwerte sich dagegen. Das Bundesgericht befasst sich mit der Ausnahmeprüfung nach Art. 66a Abs. 2 StGB und der Ausschreibung der Landesverweisung im Schengener Informationssystem (SIS) gemäss der N-SIS-Verordnung (SR 362.0).
 
 ### BGer 6B_67/2024 vom 5. Juni 2026, E. 5 — Mehrfacher gewerbsmässiger Betrug; Landesverweisung
 
-[BGer 6B_67/2024 vom 5. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_67_2024#e-5) — Leitentscheid (Zusammenfassung markiert). Bestätigt die Praxis zur Landesverweisung bei mehrfachem gewerbsmässigem Betrug und der Ausschreibung im SIS.
+[BGer 6B_67/2024 vom 5. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_67_2024#e-5) — Leitentscheid (Zusammenfassung markiert). Bestätigt die Praxis zur Landesverweisung bei mehrfachem gewerbsmässigem Betrug und der Ausschreibung im SIS. — Das Bundesgericht hob den Schuldspruch auf und wies die Sache zur neuen Entscheidung an die Vorinstanz zurück, mit der Massgabe, die übrigen Tatbestandsvoraussetzungen von Art. 146 Abs. 1 und 2 StGB (insbesondere Arglist) zu prüfen.
 
 ---
 

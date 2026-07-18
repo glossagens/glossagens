@@ -21,6 +21,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 ### Konkurs (Art. 159–270)
 
 - [Art. 191 — Selbstantrag des Schuldners (Insolvenzerklärung)](art-191/)
+- [Art. 190 — Konkurs ohne vorgängige Betreibung](art-190/)
 - [Art. 221 — Inventaraufnahme im Konkurs](art-221/)
 
 ### Nachlassverfahren (Art. 293–336)

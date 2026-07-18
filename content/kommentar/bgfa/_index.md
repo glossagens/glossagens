@@ -15,3 +15,4 @@ Kommentar zum [Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwäl
 ### Berufsregeln und Berufsaufsicht (Art. 12–19)
 
 - [Art. 12 — Berufsregeln](art-012/)
+- [Art. 13 — Berufsgeheimnis](art-013/)
