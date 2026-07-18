@@ -30,6 +30,7 @@ Art. 311 ZPO regelt die formellen und inhaltlichen Anforderungen an die **Einrei
 **2** **Gesetzliche Frist**: Die Frist beträgt **30 Tage**. Da es sich um eine gesetzliche Frist handelt, ist sie **unerstreckbar** (Art. 144 Abs. 1 ZPO).
 *   **Ausnahme**: Im summarischen Verfahren (z.B. bei vorsorglichen Massnahmen oder im Rechtsöffnungsverfahren) beträgt die Berufungsfrist gemäss Art. 314 Abs. 1 ZPO lediglich **10 Tage**.
 *   **Gerichtsferien**: Der Fristenstillstand während der Gerichtsferien (Art. 145 ZPO) gilt für die ordentliche 30-Tage-Frist, greift jedoch gemäss Art. 145 Abs. 2 lit. b ZPO im summarischen Verfahren nicht.
+*   **Einreichung bei unzuständiger Behörde**: Wird die Berufungsschrift irrtümlich bei einer unzuständigen Behörde (z. B. der Vorinstanz statt der Rechtsmittelinstanz) eingereicht, muss diese die Eingabe von Amtes wegen an die zuständige Rechtsmittelinstanz weiterleiten. Die Frist gilt als gewahrt, wenn die Berufung rechtzeitig bei der unzuständigen Stelle eingegangen ist ([BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636)).
 
 ### II. Die Begründungspflicht (Abs. 1)
 
@@ -39,6 +40,7 @@ Art. 311 ZPO regelt die formellen und inhaltlichen Anforderungen an die **Einrei
 *   Der Berufungskläger muss im Einzelnen darlegen, in welchen Punkten und weshalb der erstinstanzliche Entscheid fehlerhaft ist (unrichtige Rechtsanwendung, offensichtlich unrichtige Sachverhaltsfeststellung oder Ermessensfehler).
 *   **Blosse Wiederholungen** der erstinstanzlichen Plädoyers oder pauschale Verweisungen auf frühere Rechtsschriften sind **ungenügend**. Das Berufungsgericht muss der Berufungsschrift unmittelbar entnehmen können, an welchen Fehlern das angefochtene Urteil krankt ([BGE 138 III 374](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_374) E. 4.3). Bei Laieneingaben dürfen die Begründungsanforderungen allerdings nicht überspannt werden ([BGE 141 III 569](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_569) E. 2).
 *   Liegt keine hinreichende Begründung vor, tritt die Rechtsmittelinstanz auf die Berufung mangels Sachbegründung nicht ein. Eine Nachfrist zur Behebung inhaltlicher Mängel (analog Art. 132 ZPO) ist **ausgeschlossen** ([BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413)).
+*   **Verzicht auf Zustellung zur Berufungsantwort**: Erweist sich die Berufung aufgrund fehlender oder offensichtlich ungenügender Begründung als von vornherein aussichtslos, kann das Berufungsgericht gemäss Art. 312 Abs. 1 ZPO direkt (ohne Einholung einer Berufungsantwort der Gegenpartei) einen Nichteintretens- bzw. Abweisungsentscheid fällen ([BGE 143 III 153](https://mcp.opencaselaw.ch/entscheid/bge_143 III 153)).
 
 ### III. Formelle Anforderungen und Unterschrift (Abs. 2)
 

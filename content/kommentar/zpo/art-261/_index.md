@@ -21,7 +21,7 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 261 ZPO bildet die gesetzliche Grundlage des **provisorischen Rechtsschutzes** im schweizerischen Zivilprozessrecht. Vorsorgliche Massnahmen bezwecken den Schutz bedrohter Rechte während der Dauer eines Hauptprozesses oder im Vorfeld desselben. Da gerichtliche Verfahren viel Zeit in Anspruch nehmen können, soll verhindert werden, dass die beklagte Partei in der Zwischenzeit vollendete Tatsachen schafft, die eine spätere Vollstreckung des Urteils verunmöglichen oder erheblich erschweren würden. Massnahmen nach Art. 261 ZPO sind vorläufiger Natur und greifen dem materiellen Entscheid des Hauptprozesses nicht vor ([BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315)).
+Art. 261 ZPO bildet die gesetzliche Grundlage des **provisorischen Rechtsschutzes** im schweizerischen Zivilprozessrecht. Vorsorgliche Massnahmen bezwecken den Schutz bedrohter Rechte während der Dauer eines Hauptprozesses oder im Vorfeld desselben. Da gerichtliche Verfahren viel Zeit in Anspruch nehmen können, soll verhindert werden, dass die beklagte Partei in der Zwischenzeit vollendete Tatsachen schafft, die eine spätere Vollstreckung des Urteils verunmöglichen oder erheblich erschweren würden. Massnahmen nach Art. 261 ZPO sind vorläufiger Natur und greifen dem materiellen Entscheid des Hauptprozesses nicht vor ([BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315)). Massnahmeentscheide erwachsen zwar in begrenzte materielle Rechtskraft, können jedoch bei einer wesentlichen und dauerhaften Veränderung der Verhältnisse nachträglich abgeändert oder aufgehoben werden ([BGE 141 III 376](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_376)).
 
 ## Kommentierung
 
@@ -46,6 +46,7 @@ Der Erlass einer vorsorglichen Massnahme setzt voraus, dass die gesuchstellende 
 ### III. Abwendung durch Sicherheitsleistung der Gegenpartei (Abs. 2)
 
 **6** **Ersatzsicherheit**: Kann der drohende Nachteil des Gesuchstellers durch eine finanzielle Sicherheit (z.B. Bankgarantie, Hinterlegung von Bargeld) vollständig abgedeckt werden, kann das Gericht von der Anordnung der vorsorglichen Massnahme absehen oder eine bereits angeordnete Massnahme aufheben. Dies dient dem Schutz der Gegenpartei vor unverhältnismässigen Einschränkungen (z.B. Kontosperren oder Verfügungsverbote).
+*   **Vollstreckbarkeit und Rechtskraft bei Anfechtung**: Die Berufung gegen vorsorgliche Massnahmen hemmt zwar den Eintritt der formellen Rechtskraft (suspensive Wirkung auf die Rechtskraft), befreit jedoch gemäss Art. 315 Abs. 4 ZPO nicht von der Pflicht zur Befolgung, da Berufungen gegen vorsorgliche Massnahmen keine automatische aufschiebende Wirkung bezüglich der *Vollstreckbarkeit* zukommt ([BGE 139 III 486](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_486)). Die Gegenpartei muss die aufschiebende Wirkung explizit beantragen.
 
 ### IV. Abgrenzung zum Superprovisorium (Art. 265 ZPO)
 
