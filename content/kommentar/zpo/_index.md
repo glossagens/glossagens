@@ -25,16 +25,20 @@ Kommentar zur [Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (SR 272)
 ### Ordentliches Verfahren (Art. 219–242)
 
 - [Art. 219 — Anwendung des ordentlichen Verfahrens](art-219/)
+- [Art. 222 — Klageantwort](art-222/)
 - [Art. 227 — Klageänderung](art-227/)
+- [Art. 229 — Neue Tatsachen und Beweismittel](art-229/)
 
 ### Summarisches Verfahren (Art. 248–267)
 
 - [Art. 244 — Vereinfachte Klage](art-244/)
 - [Art. 257 — Rechtsschutz in klaren Fällen](art-257/)
+- [Art. 261 — Vorsorgliche Massnahmen (Grundsatz)](art-261/)
 
 ### Rechtsmittel — Berufung (Art. 308–334)
 
 - [Art. 308 — Anfechtbare Entscheide (Berufung)](art-308/)
+- [Art. 311 — Einreichen der Berufung](art-311/)
 - [Art. 317 — Neue Tatsachen, neue Beweismittel und Klageänderung](art-317/)
 
 ### Rechtsmittel — Beschwerde (Art. 319–321)
