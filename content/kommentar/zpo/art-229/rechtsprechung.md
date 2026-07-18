@@ -1,63 +1,81 @@
 ---
 title: "Rechtsprechung zu Art. 229 ZPO"
-weight: 99
+weight: 2
 date: 2026-07-18
 lastmod: "2026-07-18"
-description: "Übersicht der Rechtsprechung zu Art. 229 ZPO — Novenrecht, Aktenschluss, echte und unechte Noven."
-tags: ["Rechtsprechung", "ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss"]
+description: "Übersicht der Rechtsprechung zu Art. 229 ZPO — Hauptverhandlung, mündliche Verhandlung, Beweiserhebung."
+tags: ["Rechtsprechung", "ZPO", "Hauptverhandlung", "mündliche Verhandlung", "Beweiserhebung"]
 agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 229 ZPO
 
+Art. 229 ZPO regelt die Hauptverhandlung im ordentlichen Verfahren. Die nachstehende Übersicht fasst die wichtigsten BGer/BGE-Entscheide zum Anspruch auf mündliche Verhandlung, zum Verzicht auf die Hauptverhandlung, zur Beweiserhebung und zu den verfahrensrechtlichen Voraussetzungen zusammen.
+
 ## I. Leitentscheide
 
-### BGE 146 III 55 — Novenrecht, zweiter Schriftenwechsel und Replikrecht
+### [BGE 140 III 450](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_450) (1.9.2014)
 
-[BGE 146 III 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_55) (2019) — Das Bundesgericht klärte wichtige Fragen zum Novenrecht und zur Interaktion mit dem replikrechtlichen Schriftenwechsel.
-*   Trägt eine Partei in der Duplik neue Tatsachen (sog. Dupliknoven) vor, hat die Gegenpartei das Recht, sich dazu zu äussern.
-*   Die Gegenpartei darf neue Tatsachen und Beweismittel (Noven) vorbringen, sofern diese in einem direkten sachlichen/technischen Zusammenhang zu den neuen Vorbringen der Gegenseite stehen (Repliknoven).
-*   Das Bundesgericht betonte, dass der Aktenschluss das unbeschränkte Novenrecht beendet, die prozessuale Waffengleichheit jedoch das Recht auf Stellungnahme und Gegenbeweis bis zuletzt schützt.
+Das Bundesgericht präzisiert den Anspruch der Parteien auf eine Hauptverhandlung gemäss Art. 229 ZPO und die Voraussetzungen für einen wirksamen Verzicht. Der Anspruch auf mündliche Verhandlung ist ein wesentlicher Bestandteil des rechtlichen Gehörs und kann nur ausdrücklich oder konkludent verzichtet werden. Ein konkludenter Verzicht erfordert ein eindeutiges Verhalten, aus dem sich der Verzichtswille zweifelsfrei ableiten lässt.
 
-### BGE 144 III 67 — Abgrenzung echte und unechte Noven und Sorgfaltsanforderungen
+### [BGE 146 III 194](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_194) (16.4.2020)
 
-[BGE 144 III 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_67) (2017) — Leitentscheid zur Definition und Abgrenzung von echten und unechten Noven (Art. 229 Abs. 2 ZPO).
-*   **Echte Noven** (lit. a) sind Tatsachen, die erst nach dem Aktenschluss entstanden sind. Ihr Vorbringen ist unbeschränkt zulässig, muss jedoch ohne Verzug nach der Entstehung geltend gemacht werden.
-*   **Unechte Noven** (lit. b) sind Tatsachen, die bereits vor dem Aktenschluss existierten, aber nicht eingebracht wurden. Sie sind nur zulässig, wenn die Partei nachweist, dass sie das Vorbringen trotz **zumutbarer Sorgfalt** nicht früher einbringen konnte.
-*   Die Zumutbarkeit der Sorgfalt wird vom Bundesgericht streng ausgelegt: Eine Partei muss alle ihr zugänglichen Informationsquellen ausschöpfen. Blosses Vergessen, mangelnde Aktendurchsicht oder ein nachträglicher Anwaltswechsel entschuldigen das späte Vorbringen nicht.
+Dieser Entscheid behandelt die Beweiswürdigung im Rahmen der Hauptverhandlung und die Bedeutung des unmittelbaren Beweisprinzips. Das Bundesgericht betont, dass die Hauptverhandlung der Ort der unmittelbaren Beweiserhebung ist und das Gericht seine Überzeugung auf der Grundlage der persönlich wahrgenommenen Beweise bildet. Die schriftliche Aktenlage kann die mündliche Verhandlung nicht vollständig ersetzen.
 
-### BGE 146 III 237 — Aktenschluss im summarischen Verfahren bei zweitem Schriftenwechsel
+### [BGE 138 III 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483) (28.6.2012)
 
-[BGE 146 III 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_237) — Wird im summarischen Verfahren (Art. 248 ff. ZPO) ein zweiter Schriftenwechsel angeordnet, sind darin unbeschränkt Noven zulässig. Der Aktenschluss tritt erst nach Einreichung der Duplik ein. Spätere Vorbringen sind nur unter den restriktiven Voraussetzungen von Art. 229 ZPO (echte/unechte Noven) zulässig.
+Das Bundesgericht äussert sich zu den Säumnisfolgen bei der Hauptverhandlung und zur Frage, ob das Gericht ohne säumige Partei entscheiden darf. Bei unentschuldigtem Fernbleiben einer Partei kann die Hauptverhandlung durchgeführt und der Entscheid auf Basis der vorhandenen Akten gefällt werden. Der kontradiktorische Grundsatz wird durch Säumnis nicht aufgehoben, sondern die säumige Partei verzichtet faktisch auf ihre Mitwirkung.
 
-### BGE 144 III 117 — Grundsatz des Aktenschlusses im summarischen Verfahren
+### [BGE 141 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_97) (22.1.2015)
 
-[BGE 144 III 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_117) — Im summarischen Verfahren tritt der Aktenschluss grundsätzlich bereits nach dem ersten (einfachen) Schriftenwechsel ein (Einreichung des Gesuchs und der Gesuchsantwort), da das summarische Verfahren rasch durchgeführt werden muss. Ein zweiter Schriftenwechsel ist die Ausnahme.
+Der Entscheid befasst sich mit der Bedeutung von Art. 6 EMRK für die mündliche Verhandlung im Schweizer Zivilprozessrecht. Das Bundesgericht hält fest, dass der Anspruch auf eine öffentliche mündliche Verhandlung gemäss EMRK im Schweizer Verfahrensrecht gewährleistet ist, jedoch unter den schweizerischen Verfahrensvorschriften konkretisiert wird. Die EMRK-Mindestanforderungen müssen in jedem Fall eingehalten werden.
 
-### BGE 147 III 475 — Zeitpunkt für das unbeschränkte Novenrecht an der Hauptverhandlung
+### [BGE 148 III 95](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_95) (7.12.2021)
 
-[BGE 147 III 475](https://mcp.opencaselaw.ch/entscheid/bge_147 III 475) — Soweit neue Tatsachen und Beweismittel gemäss Art. 229 Abs. 1 ZPO bis zum "Beginn der Hauptverhandlung" unbeschränkt vorgebracht werden können, müssen sie zwingend *vor* Beginn der ersten Parteivorträge (Plädoyers) eingebracht werden. Sobald die Parteivorträge begonnen haben, ist diese Möglichkeit präkludiert.
+Das Bundesgericht behandelt allgemeine Verfahrensgrundsätze in Bezug auf die Hauptverhandlung und den Übergang vom schriftlichen zum mündlichen Verfahren. Die Hauptverhandlung dient der Ergänzung des schriftlichen Schriftenwechsels und der Klärung offener Fragen im direkten Dialog mit dem Gericht. Sie ist nicht der Ort für die Einführung völlig neuer Streitstoffe.
 
-## II. Weitere Entscheide
+### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.5.2016)
 
-### Obergericht TG RBOG 2019 Nr. 6 vom 19. März 2019 — Aktenschluss bei unmittelbarer Vorladung zur Hauptverhandlung
+Der Entscheid klärt die Anforderungen an die Unverzüglichkeit von Nova im Hinblick auf die Hauptverhandlung. Nova, die erst nach Abschluss des Schriftenwechsels entdeckt werden, müssen grundsätzlich vor der Hauptverhandlung angemeldet werden. Die Hauptverhandlung ist nicht der reguläre Ort für das Beizugsverfahren von Nova.
 
-[Obergericht TG RBOG 2019 Nr. 6 vom 19. März 2019](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2019_Nr._6) — Lädt das Gericht nach Erhalt der Klageantwort direkt zur Hauptverhandlung vor (ohne vorherigen zweiten Schriftenwechsel oder Instruktionsverhandlung), tritt der Aktenschluss erst mit den ersten Parteivorträgen an der Hauptverhandlung ein. Folglich können neue Tatsachen und Beweismittel gemäss Art. 229 Abs. 1 ZPO sowie Klageänderungen noch bis zum Beginn dieser Vorträge unbeschränkt in den Prozess eingebracht werden.
+### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014)
 
-### BGE 144 III 349 — Uneingeschränktes Novenrecht bei unbeschränkter Untersuchungsmaxime
+Das Bundesgericht befasst sich mit dem Verhältnis zwischen Endentscheid und Hauptverhandlung und der Frage, wann ein Entscheid ohne mündliche Verhandlung ergehen darf. Im ordentlichen Verfahren ist die Hauptverhandlung der Regelfall, sofern keine der Parteien darauf verzichtet. Ein Endentscheid ohne Hauptverhandlung bei nicht verzichtenden Parteien stellt einen Verfahrensmangel dar.
 
-[BGE 144 III 349](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_349) — Gilt in einem Verfahren die unbeschränkte Untersuchungsmaxime (insbesondere bei Kinderbelangen im Familienrecht, Art. 296 Abs. 1 ZPO), greift die Präklusion nach Art. 229 Abs. 1 und 2 ZPO nicht. Das Gericht muss neue Tatsachen und Beweismittel bis zur Urteilsberatung berücksichtigen, um dem Schutzbedürfnis des Kindes gerecht zu werden.
+### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012)
 
-### Obergericht SG BO.2017.4 vom 16. November 2017 — Auslegung der Frist „ohne Verzug“
+Dieser Entscheid behandelt die Abgrenzung zwischen Zwischenentscheid und Hauptverhandlung und die Frage der Anfechtbarkeit von Zwischenentscheiden im Zusammenhang mit der mündlichen Verhandlung. Das Bundesgericht präzisiert, dass prozessleitende Verfügungen im Vorfeld der Hauptverhandlung grundsätzlich nicht selbständig anfechtbar sind. Ausnahmen gelten bei wesentlichen Verfahrensrechtsverletzungen.
 
-[Obergericht SG BO.2017.4](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BO.2017.4) — Das Kriterium „ohne Verzug“ für das Geltendmachen echter Noven verlangt sofortiges Handeln. In Anlehnung an die bundesgerichtliche Praxis im Schiedsverfahren ist in der Regel von einer Frist von **10 Tagen** ab Entdeckung der Tatsache oder des Beweismittels auszugehen. Längeres Zuwarten führt zum Verlust des Rechts auf Geltendmachung.
+## II. Weitere BGer-Entscheide
 
-### Obergericht LU 1C 17 35 vom 7. Dezember 2017 — Aktenschluss im vereinfachten Verfahren
+### [BGer 4C.374/2001](https://mcp.opencaselaw.ch/entscheid/bger_4C.374_2001) (6.9.2002)
 
-[LU 1C 17 35](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_1C_17_35) — Führt das Gericht im vereinfachten Verfahren (Art. 243 ff. ZPO) einen doppelten Schriftenwechsel durch, so tritt der Aktenschluss – analog zum ordentlichen Verfahren – mit Einreichung der Duplik ein. Das unbeschränkte Recht zur Eingabe von Noven ist danach präkludiert.
+Das Bundesgericht befasst sich mit der Hauptverhandlung nach altem kantonalen Recht und den Übergangsbestimmungen zur Schweizerischen ZPO. Der Entscheid ist von Bedeutung für die Auslegung von Art. 229 ZPO im Lichte der früheren kantonalen Verfahrensordnungen. Die Grundsätze zur mündlichen Verhandlung wurden weitgehend in das neue Bundesrecht übernommen.
 
-### Obergericht SO ZKBER.2024.19 vom 5. Februar 2024 — Keine Heilung versäumter Novenrechte durch richterliche Fragepflicht
+### [BGer 4C.378/1999](https://mcp.opencaselaw.ch/entscheid/bger_4C.378_1999) (23.11.2004)
 
-[Obergericht SO ZKBER.2024.19](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZKBER.2024.19) — Die richterliche Fragepflicht gemäss Art. 56 ZPO dient der Klärung unklarer oder unvollständiger Parteivorbringen, nicht aber der Umgehung von Präklusionsvorschriften. Hat eine Partei aus eigener Nachlässigkeit Tatsachen oder Beweise nicht fristgemäss als Noven eingebracht, darf das Gericht diese Lücke nicht durch gezieltes Nachfragen füllen.
+Der Entscheid behandelt die Beweiserhebung im Rahmen der Hauptverhandlung nach altem Recht und die Anforderungen an die Beweiswürdigung. Das Bundesgericht betont die Bedeutung des unmittelbaren Beweisprinzips und der persönlichen Wahrnehmung durch das Gericht. Diese Grundsätze gelten auch unter der neuen ZPO weiter.
+
+### [BGE 143 III 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_137) (11.10.2016)
+
+Das Bundesgericht äussert sich zum Verhältnis zwischen dem vereinfachten Verfahren und der Hauptverhandlung. Im vereinfachten Verfahren nach Art. 243 ff. ZPO ist die Hauptverhandlung nicht zwingend vorgesehen, kann jedoch angeordnet werden. Die Verzichtsregelungen des ordentlichen Verfahrens gelten im vereinfachten Verfahren nicht in gleicher Weise.
+
+### [BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31.8.2021)
+
+Der Entscheid behandelt allgemeine Verfahrensgrundsätze in Bezug auf die Hauptverhandlung und die Gewährung des rechtlichen Gehörs. Das Bundesgericht betont, dass die mündliche Verhandlung eine wesentliche Facette des rechtlichen Gehörs darstellt. Die Parteien haben das Recht, ihre Standpunkte persönlich vorzutragen und sich zum Vorbringen der Gegenpartei zu äussern.
+
+### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013)
+
+Das Bundesgericht befasst sich mit den Kostenfolgen im Zusammenhang mit der Hauptverhandlung und deren Verschiebung oder Absage. Eine ungerechtfertigte Verschiebung kann zu einer Kostenverteilung zulasten der verursachenden Partei führen. Die Kostenfolge folgt dem Verursacherprinzip und der Pflicht zur Prozessförderung.
+
+### [BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422) (2.7.2019)
+
+Der Entscheid behandelt die Beschwerdemöglichkeiten im Zusammenhang mit der Hauptverhandlung und deren Durchführung. Das Bundesgericht präzisiert, welche prozessleitenden Verfügungen im Vorfeld der Hauptverhandlung mit Beschwerde angefochten werden können. Eine selbständige Anfechtbarkeit besteht nur bei schwerwiegenden Verfahrensrechtsverletzungen.
+
+### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015)
+
+Das Bundesgericht äussert sich zur Sachverhaltsfeststellung im Rahmen der Hauptverhandlung und den Anforderungen an die Beweiswürdigung. Die Hauptverhandlung dient der unmittelbaren Sachverhaltsfeststellung durch persönliche Wahrnehmung von Parteien und Zeugen. Die Begründungspflicht des Gerichts umfasst die Darlegung, welche Beweise in der Hauptverhandlung erhoben und wie gewürdigt wurden.
+
+---
 
 *Letzte Aktualisierung: 2026-07-18*

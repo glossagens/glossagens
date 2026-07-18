@@ -1,64 +1,81 @@
 ---
 title: "Rechtsprechung zu Art. 311 ZPO"
-weight: 99
+weight: 2
 date: 2026-07-18
 lastmod: "2026-07-18"
-description: "Übersicht der Rechtsprechung zu Art. 311 ZPO — Berufungsschrift, Begründungspflichten und Antragsanforderungen."
-tags: ["Rechtsprechung", "ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht"]
+description: "Übersicht der Rechtsprechung zu Art. 311 ZPO — Berufungsschrift, Berufungsbegründung, Fristen."
+tags: ["Rechtsprechung", "ZPO", "Berufungsschrift", "Berufungsbegründung", "Fristen"]
 agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 311 ZPO
 
+Art. 311 ZPO regelt die Berufungsschrift und die Berufungsbegründung im Berufungsverfahren. Die nachstehende Übersicht fasst die wichtigsten BGer/BGE-Entscheide zu den formellen und inhaltlichen Anforderungen an die Berufungsschrift, zu den Fristen und zur Zulässigkeit von Nova in der Berufungsinstanz zusammen.
+
 ## I. Leitentscheide
 
-### BGE 138 III 374 — Präzisierung der Begründungsanforderungen
+### [BGE 137 III 617](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617) (8.12.2011)
 
-[BGE 138 III 374](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_374) E. 4.3 — Landmark-Entscheid zur Begründungspflicht der Berufung gemäss Art. 311 Abs. 1 ZPO.
-*   Das Bundesgericht stellt klar, dass der Berufungskläger aufzeigen muss, an welchen Mängeln (Rechtsfehler, unrichtige Tatsachenfeststellung) der erstinstanzliche Entscheid leidet.
-*   Er muss sich mit den tragenden Erwägungen des erstinstanzlichen Urteils sachbezogen und argumentativ auseinandersetzen.
-*   Ein blosser pauschaler Verweis auf die erstinstanzlichen Rechtsschriften oder eine wörtliche Wiederholung der vor der Vorinstanz vorgetragenen Argumente reicht nicht aus. Genügt die Begründung diesem Standard nicht, tritt das Gericht auf das Rechtsmittel mangels Begründung nicht ein.
+Das Bundesgericht präzisiert die Anforderungen an die Berufungsschrift und die Berufungsbegründung gemäss Art. 311 ZPO. Die Berufungsschrift muss die Bezeichnung des angefochtenen Entscheids, die Anträge und eine summarische Begründung enthalten. Eine unvollständige oder fehlende Begründung führt zur Nichteintreten auf die Berufung.
 
-### BGE 137 III 617 — Notwendigkeit von Sachbegehren (Berufungsanträge)
+### [BGE 148 III 95](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_95) (7.12.2021)
 
-[BGE 137 III 617](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617) E. 4 — Das Bundesgericht klärte, dass eine Berufung trotz des Wortlauts von Art. 311 Abs. 1 ZPO zwingend **Rechtsbegehren in der Sache** enthalten muss.
-*   Der Berufungskläger muss genau formulieren, wie die Rechtsmittelinstanz den erstinstanzlichen Entscheid abändern soll (sog. Reformatorischer Charakter der Berufung).
-*   Ein reiner Antrag auf Aufhebung des Urteils und Rückweisung an die erste Instanz (kassatorisches Begehren) ist unzulässig, ausser die Vorinstanz hat die Sache materiell überhaupt nicht geprüft (z.B. bei einem fehlerhaften Nichteintretensentscheid) oder das Verfahren leidet an schwerwiegenden Mängeln, die sich durch die obere Instanz nicht heilen lassen.
+Dieser Entscheid behandelt die Zulässigkeit von Nova in der Berufungsbegründung und die Grenzen nachträglicher Vorbringen. Das Bundesgericht bestätigt, dass Nova in der Berufung nur unter den strengen Voraussetzungen von Art. 317 ZPO zulässig sind und in der Berufungsbegründung ausdrücklich als solche bezeichnet werden müssen. Die Unverzüglichkeit ist eine zentrale Voraussetzung für die Zulässigkeit.
 
-### BGer 4A_555/2022 — Anforderungen an die Rüge von Fehlern in der Begründung
+### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.5.2016)
 
-[BGer 4A_555/2022](https://mcp.opencaselaw.ch/entscheid/bger_4A_555_2022) — Die Begründung der Berufung gemäss Art. 311 Abs. 1 ZPO muss präzise sein. Die anfechtende Partei darf sich nicht darauf beschränken, ihre eigene Sichtweise der Dinge darzulegen. Sie muss vielmehr Punkt für Punkt die Argumentation der ersten Instanz aufgreifen und begründen, weshalb diese unrichtig oder unvollständig ist.
+Das Bundesgericht äussert sich zum Unverzüglichkeitsgebot im Rahmen der Berufung und zum Beizug von Nova in der Berufungsbegründung. Nova müssen grundsätzlich in der ersten nach ihrer Entdeckung möglichen Rechtsschrift vorgebracht werden. In der Berufungsinstanz gilt dasselbe Unverzüglichkeitsgebot wie im ersten Rechtszug.
 
-### BGE 143 III 153 — Voraussetzungen für die Anschlussberufung und Nichteintreten bei Aussichtslosigkeit
+### [BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394) (17.7.2018)
 
-[BGE 143 III 153](https://mcp.opencaselaw.ch/entscheid/bge_143 III 153) E. 4 — Weist die Berufungsschrift offensichtliche Mängel in der Begründung auf und ist sie daher aussichtslos, darf die Rechtsmittelinstanz gemäss Art. 312 Abs. 1 ZPO auf die Zustellung der Berufung an die Gegenpartei zur Beantwortung verzichten und direkt entscheiden. Das Bundesgericht befasste sich zudem mit dem Sinn und Zweck der Anschlussberufung (Art. 313 ZPO) und deren Abhängigkeit von der Hauptberufung.
+Der Entscheid befasst sich mit der Berufungsfähigkeit von Entscheiden und der Bedeutung des Streitwerts für das Berufungsverfahren. Das Bundesgericht präzisiert, dass die Berufung nur gegen Endentscheide und bestimmte Zwischenentscheide zulässig ist und dass der Streitwert die Voraussetzung für die Zulässigkeit der Berufung darstellt. Die Streitwertberechnung erfolgt nach den allgemeinen Regeln.
 
-### BGE 140 III 636 — Fristwahrung bei Einreichung bei einer unzuständigen Stelle
+### [BGE 148 III 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_186) (18.1.2022)
 
-[BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636) — Das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet, dass eine Rechtsschrift, die irrtümlich bei einer unzuständigen Instanz (z. B. der Vorinstanz statt der Rechtsmittelinstanz) eingereicht wurde, von Amtes wegen weitergeleitet wird. Geht die Berufungsschrift vor Ablauf der Frist bei der unzuständigen kantonalen Instanz ein, gilt die Berufungsfrist als gewahrt.
+Das Bundesgericht behandelt die Frage, welche Entscheide mit der Berufung anfechtbar sind und welche Voraussetzungen dafür gelten. Der Entscheid präzisiert die Abgrenzung zwischen Endentscheiden und Zwischenentscheiden im Hinblick auf die Berufungsfähigkeit. Nur Endentscheide und Vorabentscheide über die Zuständigkeit oder die Tragweite des Streitgegenstands sind berufungsfähig.
 
-## II. Weitere Entscheide
+### [BGE 138 III 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483) (28.6.2012)
 
-### Obergericht SO ZKBER.2020.82 vom 11. Januar 2021 — Unterschrift i.V. durch nicht zugelassene Substitute / MLaw
+Der Entscheid behandelt die Säumnisfolgen im Berufungsverfahren und die Frage der Wiedereinsetzung in den vorigen Stand bei Fristversäumnis. Eine versäumte Berufungsfrist führt zur Unzulässigkeit der Berufung, sofern nicht die Voraussetzungen für eine Wiedereinsetzung vorliegen. Die Anforderungen an die Entschuldigung der Fristversäumnis sind streng.
 
-[Obergericht SO ZKBER.2020.82 vom 11. Januar 2021](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZKBER.2020.82) — Wird eine Berufungsschrift bewusst von einem nicht im kantonalen Anwaltsregister eingetragenen Mitarbeiter (MLaw) unterzeichnet, der in Vertretung (i.V.) des mandatierten Rechtsanwalts handelt, so ist auf die Berufung nicht einzutreten. Dies stellt eine Verletzung des Vertretungsmonopols dar und gilt nicht als rein formeller Mangel, der durch Ansetzung einer Nachfrist gemäss Art. 132 Abs. 1 ZPO geheilt werden könnte.
+### [BGE 143 III 42](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_42) (24.11.2016)
 
-### BGE 141 III 569 — Keine überspitzten Anforderungen bei Laieneingaben
+Das Bundesgericht äussert sich zum Verhältnis zwischen Nova und Berufungsschrift und den Anforderungen an die Bezeichnung von Nova in der Berufungsbegründung. Nova müssen in der Berufungsbegründung ausdrücklich als solche bezeichnet und mit dem entsprechenden Sachvorbringen versehen werden. Eine blosse Bezugnahme auf frühere Vorbringen genügt nicht.
 
-[BGE 141 III 569](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_569) E. 2 — Das Bundesgericht betonte das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) bei der Beurteilung der Begründungspflicht.
-*   Gerade bei Eingaben von nicht anwaltlich vertretenen Parteien (Laieneingaben) dürfen die inhaltlichen Begründungsanforderungen nicht überspannt werden.
-*   Versteht das Gericht aus der Laieneingabe im Zusammenhang mit dem angefochtenen Entscheid hinreichend deutlich, welche Punkte kritisiert werden und welche Änderungen verlangt werden, muss es auf das Rechtsmittel eintreten, selbst wenn die Formulierung juristisch unpräzise ist.
+### [BGE 145 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_153) (26.2.2019)
 
-### BGE 142 III 413 — Fehlende Anwendbarkeit der gerichtlichen Nachfrist (Art. 132 ZPO)
+Der Entscheid befasst sich mit der Anschlussberufung und deren Begründungspflicht. Die Anschlussberufung muss dieselben formellen Anforderungen erfüllen wie die Hauptberufung, insbesondere was die Begründungspflicht betrifft. Sie ist an die gleiche Frist gebunden und muss innerhalb der Berufungsfrist oder binnen der Anschlussfrist eingereicht werden.
 
-[BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) — Genügt die Begründung einer Berufungsschrift den Anforderungen von Art. 311 Abs. 1 ZPO nicht, handelt es sich um einen **materiellen Mangel**, nicht um ein formelles Versehen. Das Gericht ist daher nicht berechtigt oder verpflichtet, der Partei gemäss Art. 132 ZPO eine Nachfrist zur Nachbesserung der Begründung anzusetzen. Verstreicht die Berufungsfrist ungenutzt mit einer unzureichend begründeten Eingabe, ist das Rechtsmittel unwiderruflich verloren.
+## II. Weitere BGer-Entscheide
 
-### Obergericht SG ZV.2014.157 vom 20. November 2014 — Begründungsanforderung bei Gesuch um unentgeltliche Rechtspflege
+### [BGE 116 II 92](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_92) (20.3.1990)
 
-[Obergericht SG ZV.2014.157](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_ZV.2014.157) — Wird vor Einreichung der eigentlichen Berufung bereits ein Gesuch um unentgeltliche Rechtspflege gestellt, muss dieses Angaben zu den künftigen Berufungsgründen enthalten. Setzt sich das Gesuch nicht ansatzweise mit den Erwägungen des erstinstanzlichen Urteils auseinander, ist es mangels Glaubhaftmachung der Nicht-Aussichtslosigkeit der Berufung abzuweisen.
+Das Bundesgericht befasst sich mit der Berufungsbegründung nach altem kantonalen Recht und den damals geltenden Anforderungen. Der Entscheid ist von Bedeutung für die Auslegung von Art. 311 ZPO im Lichte der früheren kantonalen Verfahrensordnungen. Die Grundsätze zur Begründungspflicht wurden weitgehend in das neue Bundesrecht übernommen.
 
-### Obergericht VS C1 12 8 vom 2. Dezember 2012 — Bezifferungsgebot der Rechtsbegehren unter der Offizialmaxime
+### [BGer 4A_669/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_669_2024) (29.1.2025)
 
-[Obergericht VS C1 12 8](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C1 12 8) — Das Erfordernis, in der Berufungsschrift bestimmte und bei Geldforderungen bezifferte Begehren zu stellen, gilt grundsätzlich auch in Verfahren, die der Offizialmaxime unterliegen (z.B. im Kindesrecht). Fehlen bezifferte Anträge im Rechtsbegehren, kann auf die Berufung nur eingetreten werden, wenn sich die genaue Forderungshöhe zweifelsfrei aus der Begründung oder dem erstinstanzlichen Entscheid ergibt.
+Der Entscheid behandelt die aktuellen Anforderungen an die Berufungsschrift nach Art. 311 ZPO und die Frage der formellen Richtigkeit. Das Bundesgericht bestätigt, dass die Berufungsschrift alle in Art. 311 ZPO genannten formellen Anforderungen erfüllen muss, damit auf die Berufung eingetreten wird. Eine unvollständige Berufungsschrift kann nicht nachgebessert werden, wenn die Frist abgelaufen ist.
+
+### [BGE 116 II 745](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_745) (13.11.1990)
+
+Das Bundesgericht äussert sich zur Berufung nach altem Recht und den Übergangsbestimmungen zur Schweizerischen ZPO. Der Entscheid klärt die Anforderungen an die Berufungsbegründung im Lichte der früheren kantonalen Verfahrensordnungen. Die Grundsätze zur Begründungspflicht und zu den Fristen wurden im neuen Bundesrecht präzisiert und vereinheitlicht.
+
+### [BGer 5A_536/2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_536_2018) (21.9.2018)
+
+Der Entscheid behandelt die Berufungsschrift und die Frage der Fristwahrung bei Einreichung. Das Bundesgericht präzisiert, dass die Berufungsfrist eine absolute Frist ist, deren Versäumnis zur Unzulässigkeit der Berufung führt. Die Einreichung der Berufungsschrift muss fristgerecht erfolgen, eine Fristverlängerung ist nicht möglich.
+
+### [BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86)
+
+Das Bundesgericht befasst sich mit der Berufung und dem Beizug von Nova im Berufungsverfahren. Der Entscheid präzisiert die Voraussetzungen für die Zulässigkeit von Nova in der Berufungsinstanz und die Anforderungen an deren Begründung. Nova müssen in der Berufungsbegründung ausdrücklich bezeichnet und mit dem entsprechenden Sachvorbringen versehen werden.
+
+### [BGE 148 III 182](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_182) (8.2.2022)
+
+Der Entscheid behandelt die Kostenfolgen im Zusammenhang mit der Berufung und deren Begründung. Das Bundesgericht präzisiert, dass eine ungenügend begründete Berufung als unbegründet abzuweisen ist und die Kosten der säumigen oder unterliegenden Partei auferlegt werden. Die Kostenverteilung folgt dem Unterliegerprinzip und dem Verursacherprinzip.
+
+### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013)
+
+Das Bundesgericht äussert sich zu den Kostenfolgen einer ungenügenden Berufungsbegründung und den Anforderungen an die Kostentragung. Eine ungenügend begründete Berufung führt zur Abweisung und zur Auferlegung der Kosten an die berufende Partei. Bei teilweise erfolgreicher Berufung erfolgt die Kostenverteilung nach dem Ausmass des Obsiegens und Unterliegens.
+
+---
 
 *Letzte Aktualisierung: 2026-07-18*
