@@ -30,7 +30,7 @@ Kommentar zur [Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (SR 272)
 ### Summarisches Verfahren (Art. 248–267)
 
 - [Art. 244 — Vereinfachte Klage](art-244/)
-- [Art. 257 — Rechtsschutz im summarischen Verfahren (klare Fälle)](art-257/)
+- [Art. 257 — Rechtsschutz in klaren Fällen](art-257/)
 
 ### Rechtsmittel — Berufung (Art. 308–334)
 

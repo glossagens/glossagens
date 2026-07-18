@@ -20,19 +20,19 @@ agent_verified: false
 
 [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25. Mai 2016) — Zentraler Entscheid zur Auslegung von Art. 317 Abs. 1 lit. a ZPO ("ohne Verzug"). Nova müssen **unverzüglich** nach Kenntnisnahme vorgebracht werden. Eine Partei, die ein Novum erst in der Berufungsantwort oder gar in der Urteilsberatung vorbringt, handelt nicht "ohne Verzug". Der Begriff "ohne Verzug" ist im Sinne von Art. 75 OR zu verstehen — er verlangt ein Handeln **ohne schuldhaftes Zögern**. Das Bundesgericht präzisierte, dass die Frist mit der **Kenntnisnahme** des Novum zu laufen beginnt, nicht mit dem erstinstanzlichen Urteil.
 
-### BGer 7B_1017/2023 — Novenrecht und Untersuchungsmaxime
+### BGE 144 III 349 — Novenrecht bei unbeschränkter Untersuchungsmaxime
 
-[BGer 7B_1017/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_1017_2023) (13. Februar 2024) — Das Bundesgericht befasste sich mit der Frage, ob bei Untersuchungsmaxime (Offizialmaxime) in der Rechtsmittelinstanz Nova bis zur Urteilsberatung berücksichtigt werden dürfen. Der Entscheid kam vor der Revision von Art. 317 Abs. 1bis ZPO (in Kraft seit 1. Januar 2025) erging, bestätigte aber die Tendenz, dass bei Offizialmaxime eine grosszügigere Praxis gerechtfertigt ist. Die Revision hat diese Praxis nun gesetzlich verankert.
+[BGE 144 III 349](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_349) (2. Juli 2018) — Das Bundesgericht klärte das Verhältnis zwischen der strengen Novenregelung (Art. 317 Abs. 1 ZPO) und der unbeschränkten Untersuchungsmaxime (insbesondere bei Kinderbelangen im Familienrecht, Art. 296 Abs. 1 ZPO). In diesen Verfahren sind neue Tatsachen und Beweismittel im Berufungsverfahren uneingeschränkt zulässig, da das Kindeswohl die Prozessökonomie übersteuert. Diese Rechtsprechung wurde mit dem neuen Art. 317 Abs. 1bis ZPO gesetzlich verankert.
 
 ## II. Weitere BGer-Entscheide
 
-### BGE 140 III 86 — Grundsätze des Novenrechts
+### BGE 144 III 313 — Keine nachträgliche Inventaränderung
 
-[BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86) — Das Bundesgericht stellte die Grundsätze des Novenrechts nach der Schweizer ZPO (in Kraft seit 1. Januar 2011) zusammen. Die Schweizer ZPO hat — anders als die deutsche ZPO (§ 531 ZPO) — kein striktes Novenverbot, sondern ein **relatives Novenverbot**: Nova sind zulässig, wenn sie die Voraussetzungen von Art. 317 Abs. 1 ZPO erfüllen. Die Norm bezweckt einen Interessenausgleich zwischen Sachverhaltsvollständigkeit und Prozessökonomie.
+[BGE 144 III 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_313) — Das Bundesgericht befasste sich mit der Erstellung eines öffentlichen Inventars im Erbrecht. Es stellte klar, dass das Verfahren einen raschen Abschluss verlangt und nach der formellen Schliessung des Inventars keine laufenden materiellen Abänderungsanträge der Erben mehr zulässig sind; solche Rügen müssen in einem separaten ordentlichen Zivilprozess geklärt werden.
 
-### BGE 143 III 213 — Klageänderung in der Berufung
+### BGer 4A_289/2022 — Klageänderung in der Berufung
 
-[BGE 143 III 213](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_213) — Die Klageänderung in der Berufungsinstanz (Art. 317 Abs. 2 ZPO) setzt die Voraussetzungen von Art. 227 Abs. 1 ZPO (Zustimmung oder sachlicher Zusammenhang) **und** einen Bezug zu neuen Tatsachen oder Beweismitteln (lit. b) voraus. Beide Voraussetzungen sind **kumulativ**. Eine Klageänderung, die ausschliesslich auf Tatsachen beruht, die bereits in der ersten Instanz hätten vorgebracht werden können, ist unzulässig.
+[BGer 4A_289/2022](https://mcp.opencaselaw.ch/entscheid/bger_4A_289_2022) — Die Klageänderung in der Berufungsinstanz (Art. 317 Abs. 2 ZPO) setzt die Voraussetzungen von Art. 227 Abs. 1 ZPO (Zustimmung oder sachlicher Zusammenhang) **und** einen Bezug zu neuen Tatsachen oder Beweismitteln (lit. b) voraus. Beide Voraussetzungen sind **kumulativ**. Eine Klageänderung, die ausschliesslich auf Tatsachen beruht, die bereits in der ersten Instanz hätten vorgebracht werden können, ist unzulässig.
 
 ### BGE 139 III 120 — Nova vor Bundesgericht (Abgrenzung)
 

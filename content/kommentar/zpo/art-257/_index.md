@@ -1,16 +1,16 @@
 ---
-title: "Art. 257 ZPO — Rechtsschutz im summarischen Verfahren (klare Fälle)"
+title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
 lastmod: "2026-07-18"
-description: "Kommentar zu Art. 257 ZPO: Rechtsschutz im summarischen Verfahren bei unbestrittenem Sachverhalt und klarer Rechtslage — Voraussetzungen, Ausschluss bei Offizialgrundsatz, Nichteintreten."
+description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen bei unbestrittenem Sachverhalt und klarer Rechtslage — Voraussetzungen, Ausschluss bei Offizialgrundsatz, Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz", "Klare Fälle", "Unbestrittener Sachverhalt"]
 agent_verified: true
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 257 ZPO (SR 272)** — Rechtsschutz im summarischen Verfahren
+> **Art. 257 ZPO (SR 272)** — Rechtsschutz in klaren Fällen
 >
 > **1** Das Gericht gewährt Rechtsschutz im summarischen Verfahren, wenn:
 > **a.** der Sachverhalt unbestritten oder sofort beweisbar ist; und
@@ -23,7 +23,7 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 257 ZPO eröffnet den **Rechtsschutz im summarischen Verfahren** für klare Fälle — d.h. für Angelegenheiten, in denen der Sachverhalt unbestritten oder sofort beweisbar ist und die Rechtslage klar ist. Diese Norm ist von zentraler praktischer Bedeutung, da sie den **Zugang zu einem schnellen, effizienten Verfahren** ermöglicht, wenn eine vollumfängliche Sachverhaltsermittlung (wie im ordentlichen Verfahren) nicht erforderlich ist. Der Rechtsschutz nach Art. 257 ZPO ist ein **ausserordentliches Instrument** — er greift nur in klaren Fällen und ist kein Ersatz für das ordentliche Verfahren.
+Art. 257 ZPO eröffnet den **Rechtsschutz in klaren Fällen** — d.h. für Angelegenheiten, in denen der Sachverhalt unbestritten oder sofort beweisbar ist und die Rechtslage klar ist. Diese Norm ist von zentraler praktischer Bedeutung, da sie den **Zugang zu einem schnellen, effizienten Verfahren** ermöglicht, wenn eine vollumfängliche Sachverhaltsermittlung (wie im ordentlichen Verfahren) nicht erforderlich ist. Der Rechtsschutz nach Art. 257 ZPO ist ein **ausserordentliches Instrument** — er greift nur in klaren Fällen und ist kein Ersatz für das ordentliche Verfahren.
 
 ## Tatbestandsmerkmale
 

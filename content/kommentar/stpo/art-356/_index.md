@@ -58,7 +58,7 @@ agent_verified: true
 
 **10** **Konkludenter Rückzug durch Zahlung.** Die Zahlung der im Strafbefehl festgesetzten Geldbeträge (Strafe + Kosten) kann als konkludenter Rückzug der Einsprache ausgelegt werden ([BGE 146 IV 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_286) E. 2 — Art. 356 Abs. 3 StPO; konkludenter Rückzug der Einsprache). Ob eine Zahlung als Rückzug zu werten ist, hängt von den Umständen des Einzelfalls ab — insbesondere von der Kenntnis der beschuldigten Person über die Folgen der Zahlung.
 
-**11** **Verfügungsmacht und Zeitpunkt.** Der Rückzug der Einsprache setzt voraus, dass die Staatsanwaltschaft nach Abnahme der Beweise am ursprünglichen Strafbefehl festhält. Die Verfügungsmacht über die Einsprache ist der beschuldigten Person bis zum Entscheid der Staatsanwaltschaft über den Fortgang des Verfahrens entzogen ([BGE 149 IV 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_50) E. 1.2 — Art. 356 Abs. 3 StPO; Rückzug der Einsprache; Verfügungsmacht; Verfahrensstadien). Erst wenn die Staatsanwaltschaft entschieden hat, dass sie am Strabbefehl festhält und die Sache an das Gericht überweist, kann die beschuldigte Person beim Gericht die Einsprache zurückziehen.
+**11** **Verfügungsmacht und Zeitpunkt.** Der Rückzug der Einsprache setzt voraus, dass die Staatsanwaltschaft nach Abnahme der Beweise am ursprünglichen Strafbefehl festhält. Die Verfügungsmacht über die Einsprache ist der beschuldigten Person bis zum Entscheid der Staatsanwaltschaft über den Fortgang des Verfahrens entzogen ([BGE 149 IV 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_50) E. 1.2 — Art. 356 Abs. 3 StPO; Rückzug der Einsprache; Verfügungsmacht; Verfahrensstadien). Erst wenn die Staatsanwaltschaft entschieden hat, dass sie am Strafbefehl festhält und die Sache an das Gericht überweist, kann die beschuldigte Person beim Gericht die Einsprache zurückziehen.
 
 ### IV. Säumnisfiktion (Abs. 4)
 
@@ -68,7 +68,7 @@ agent_verified: true
 
 **14** **Persönliches Erscheinen.** Bei bestimmten Delikten (z.B. vorsätzliche grobe Verkehrsregelverletzung, Art. 336 Abs. 1 lit. a StPO) ist das persönliche Erscheinen in der Hauptverhandlung obligatorisch. Die Säumnisfiktion greift hier besonders schwer — die beschuldigte Person verliert durch Fernbleiben nicht nur die Einsprache, sondern auch die Möglichkeit, sich persönlich zum Vorwurf zu äussern (BGer 6B_7/2017 vom 5.5.2017 — persönliches Erscheinen, Einspracherückzug bei Fernbleiben; vorsätzliche grobe Verkehrsregelverletzung).
 
-**15** **Treu und Glauben.** Die Säumnisfiktion kann gegen Treu und Glauben (Art. 2 ZGB analog) verstossen, wenn die_behörde der einspracheerheblichen Person unrichtige oder irreführende Angaben über die Folgen des Fernbleibens gemacht hat (BGer 6B_652/2022 vom 1.5.2023 — Strabbefehl, unentschuldigtes Fernbleiben, Rückzug der Einsprache; Willkür, Treu und Glauben; BGer 6B_1201/2018 vom 15.10.2019 — Rückzug der Einsprache; Willkür, rechtliches Gehör).
+**15** **Treu und Glauben.** Die Säumnisfiktion kann gegen Treu und Glauben (Art. 2 ZGB analog) verstossen, wenn die Behörde der Einsprache erhebenden Person unrichtige oder irreführende Angaben über die Folgen des Fernbleibens gemacht hat (BGer 6B_652/2022 vom 1.5.2023 — Strafbefehl, unentschuldigtes Fernbleiben, Rückzug der Einsprache; Willkür, Treu und Glauben; BGer 6B_1201/2018 vom 15.10.2019 — Rückzug der Einsprache; Willkür, rechtliches Gehör).
 
 ### V. Schriftliches Verfahren bei Kosten/Entschädigungen (Abs. 6)
 

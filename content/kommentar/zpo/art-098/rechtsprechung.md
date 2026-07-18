@@ -12,30 +12,30 @@ agent_verified: false
 
 ## I. Leitentscheide
 
-### BGE 144 III 164 — Ermessensausübung und Vorschusshöhe
+### BGE 140 III 159 — Prozessleitung und Zustellung vor Vorschussleistung
 
-[BGE 144 III 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_164) (1. März 2018) — Grundlagenentscheid zur Ermessensausübung bei der Anordnung eines Kostenvorschusses. Das Bundesgericht betonte, dass das Gericht ein **Ermessen** hat, ob es einen Vorschuss verlangt. Das Ermessen ist nicht schrankenlos — willkürliche Verweigerung oder willkürliche Anordnung können mit der Beschwerde (Art. 319 ZPO) angefochten werden. Die Höhe des Vorschusses muss **proportional** zu den mutmasslichen Gerichtskosten sein. Ein Vorschuss, der die mutmasslichen Kosten erheblich übersteigt, ist unzulässig und verletzt das Verhältnismässigkeitsprinzip (Art. 5 Abs. 2 BV).
+[BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) — Das Bundesgericht klärte, dass ein erstinstanzliches Gericht nicht verpflichtet ist, mit der Zustellung der Klage und der Ansetzung der Klageantwortfrist zuzuwarten, bis der vom Kläger verlangte Kostenvorschuss bezahlt wurde. Leistet der Kläger den Vorschuss in der Folge nicht und tritt das Gericht auf die Klage nicht ein (Art. 101 Abs. 3 ZPO), kann das Gericht dem Kläger dennoch die Gerichtskosten und eine Parteientschädigung für die Aufwendungen der Gegenseite auferlegen.
 
-### BGE 140 III 86 — Nichteintreten bei Nichtleistung des Vorschusses
+### BGer 4A_523/2025 — Zwingender Charakter der Nachfrist für Kostenvorschuss
 
-[BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86) — Das Bundesgericht bestätigte, dass die Nichtleistung des Kostenvorschusses zum **Nichteintreten** auf die Klage führt (Art. 59 ZPO analog). Die Fristsetzung muss **klar und bestimmt** sein; die klagende Partei muss wissen, dass die Nichtleistung zum Nichteintreten führt. Eine unklare Fristsetzung oder ein fehlender Hinweis auf die Folgen der Nichtleistung kann das Nichteintreten aufheben.
+[BGer 4A_523/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_523_2025) — Das Bundesgericht hat bestätigt, dass die Ansetzung einer Nachfrist zur Zahlung des Kostenvorschusses gemäss Art. 101 Abs. 3 ZPO zwingend ist, bevor auf eine Klage nicht eingetreten werden darf. Die Bezeichnung der ersten Frist als «letzte Fristverlängerung» oder «ultimative Frist» schliesst die Gewährung der gesetzlich vorgeschriebenen Nachfrist nicht aus.
 
 ## II. Weitere BGer-Entscheide
 
-### BGE 143 III 213 — Kostenvorschuss im Rechtsmittelverfahren
+### BGE 137 III 604 — Analoge Anwendung von Art. 101 Abs. 3 ZPO im Rechtsmittelverfahren
 
-[BGE 143 III 213](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_213) — Im Rechtsmittelverfahren ist der Vorschuss von der **rechtsmittelführenden Partei** zu leisten (Art. 98 Abs. 2 lit. d ZPO). Das Bundesgericht bestätigte, dass die Anordnung eines Vollvorschusses im Rechtsmittelverfahren zulässig ist und dass die Nichtleistung zum Nichteintreten auf das Rechtsmittel führt. Dies gilt sowohl für die Berufung als auch für die Beschwerde.
+[BGE 137 III 604](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_604) — Die ZPO sieht für Rechtsmittelverfahren teils keine eigenen Vorschriften zur Säumnis bei Kostenvorschüssen vor. In ständiger Rechtsprechung bestätigt das Bundesgericht, dass Art. 101 Abs. 3 ZPO analog auf Rechtsmittelverfahren (Berufung und Beschwerde) anzuwenden ist. Leistet der Rechtsmittelführer den Vorschuss trotz Nachfrist nicht, tritt das Gericht auf das Rechtsmittel nicht ein.
 
-### BGE 142 III 413 — Kostenvorschuss und unentgeltliche Rechtspflege
+### BGE 138 III 672 — Suspensiveffekt bei Gesuch um Provisio ad litem
 
-[BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25. Mai 2016) — Wird die **unentgeltliche Rechtspflege** (Art. 117 ff. ZPO) beantragt und bewilligt, ist der Kostenvorschuss entbehrlich. Das Gericht trägt die Kosten vorläufig (Art. 117 Abs. 2 ZPO). Das Bundesgericht betonte, dass der Antrag auf unentgeltliche Rechtspflege die Pflicht zur Leistung des Vorschusses **suspendiert**, bis über den Antrag entschieden ist. Wird der Antrag abgewiesen, muss der Vorschuss nachgeleistet werden.
+[BGE 138 III 672](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_672) — Ein Gesuch um *provisio ad litem* (Prozesskostenvorschuss des Ehegatten) entfaltet eine aufschiebende Wirkung bezüglich der Frist zur Bezahlung des Gerichtskostenvorschusses. Wird das Gesuch abgewiesen, muss dem Kläger eine neue, ergänzende Zahlungsfrist gewährt werden. Dies entspricht der Praxis bei Gesuchen um unentgeltliche Rechtspflege.
 
 ## III. Revision 2023
 
 Die Revision von Art. 98 ZPO durch das Bundesgesetz vom 17. März 2023 (in Kraft seit 1. Januar 2025) hat die Struktur der Norm deutlich verändert. Die wichtigsten Änderungen:
 
-- **Erweiterung des Vollvorschusses**: Der Vollvorschuss (Abs. 2) wird nun auch in **Schlichtungsverfahren** (lit. b) und **summarischen Verfahren** (lit. c) zugelassen — zuvor war der Vollvorschuss auf Rechtsmittelverfahren beschränkt.
+- **Erweiterung des Vollvorschusses**: Der Vollvorschuss (Abs. 2) wird nun auch in **Schlichtungsverfahren** (lit. b) und **summarischen Verfahren** (lit. c) zugelassen — zuvor war der Vollvorschuss im Wesentlichen auf Rechtsmittelverfahren beschränkt.
 - **Ausnahmen**: Vorsorgliche Massnahmen (Art. 248 lit. d ZPO) und familienrechtliche Streitigkeiten (Art. 271, 276, 302, 305 ZPO) bleiben vom Vollvorschuss ausgenommen.
-- **Ziel**: Die Verbesserung der Praxitauglichkeit und Rechtsdurchsetzung — insbesondere die Ausweitung des Vollvorschusses auf Schlichtungsverfahren soll sicherstellen, dass in diesen kurzen Verfahren die Gerichtskosten gedeckt sind (AS 2023 491; BBl 2020 2697).
+- **Ziel**: Die Verbesserung der Praxistauglichkeit und Rechtsdurchsetzung — insbesondere die Ausweitung des Vollvorschusses auf Schlichtungsverfahren soll sicherstellen, dass in diesen kurzen Verfahren die Gerichtskosten gedeckt sind (AS 2023 491; BBl 2020 2697).
 
 *Letzte Aktualisierung: 2026-07-18*

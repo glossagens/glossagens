@@ -64,7 +64,7 @@ Die Klageänderung ist eine **Ausnahme vom Grundsatz**, dass die Berufung nur de
 
 ### Art. 317 ZPO vs. Art. 99 BGG (Nova vor Bundesgericht)
 
-Art. 317 ZPO gilt für das **kantonale Berufungsverfahren** (zweite kantonale Instanz). Art. 99 BGG regelt die Nova vor dem **Bundesgericht** und ist restriktiver: Vor Bundesgericht sind neue Tatsachen und Beweismittel nur zulässig, wenn sie ausnahmsweise trotz zumutbarer Sorgfalt nicht schon im kantonalen Verfahren vorgebracht werden konnten (Art. 99 Abs. 1 BGG) — oder wenn die Partei durch die Entscheidung der Vorinstanz in der Geltendmachung gehindert war (Art. 99 Abs. 2 BGG). Das Bundesgericht hat wiederholt klargestellt, dass Art. 99 BGG keine "zweite Chance" für versäumte Vorbringen bietet (BGE 139 III 120 E. 3.1.2).
+Art. 317 ZPO gilt für das **kantonale Berufungsverfahren** (zweite kantonale Instanz). Art. 99 BGG regelt die Nova vor dem **Bundesgericht** und ist restriktiver: Vor Bundesgericht sind neue Tatsachen und Beweismittel nur zulässig, wenn erst der Entscheid der Vorinstanz dazu Anlass gibt (Art. 99 Abs. 1 BGG). Neue Begehren sind vor Bundesgericht gänzlich unzulässig (Art. 99 Abs. 2 BGG). Das Bundesgericht hat wiederholt klargestellt, dass Art. 99 BGG keine "zweite Chance" für versäumte Vorbringen im kantonalen Verfahren bietet (BGE 139 III 120 E. 3.1.2).
 
 ### Art. 317 ZPO vs. Art. 227 ZPO (Klageänderung erste Instanz)
 

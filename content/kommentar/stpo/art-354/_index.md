@@ -36,13 +36,13 @@ agent_verified: true
 
 **2** **Systematische Stellung.** Art. 354 steht im Zentrum des Strafbefehlsverfahrens (Art. 352–357 StPO): Art. 352 regelt die Voraussetzungen, Art. 353 den Inhalt und die Eröffnung, Art. 354 die Einsprache, Art. 355 das Verfahren bei Einsprache (Beweisabnahme, Entscheidung der Staatsanwaltschaft), Art. 356 das Verfahren vor dem erstinstanzlichen Gericht, Art. 357 die Übertretungen.
 
-**3** **Reform 2024.** Durch das BG vom 17. Juni 2022 (in Kraft seit 1.1.2024) wurde die Privatklägerschaft neu als einspracheberechtigte Person in Art. 354 Abs. 1 lit. a^bis^ aufgenommen. Gleichzeitig wurde in Abs. 1^bis^ klargestellt, dass die Privatklägerschaft die Sanktion nicht anfechten kann — ihre Einsprache betrifft nur Schuldspruch, Zivilansprüche und Nebenfolgen. Diese Reform korrigiert die frühere Rechtsprechung (BGE 141 IV 231), die die Privatklägerschaft nur als «weitere Betroffene» (lit. b) mit einspracheberechtigung anerkannt hatte, wenn sie ein rechtlich geschütztes Interesse darlegte.
+**3** **Reform 2024.** Durch das BG vom 17. Juni 2022 (in Kraft seit 1.1.2024) wurde die Privatklägerschaft neu als einspracheberechtigte Person in Art. 354 Abs. 1 lit. a^bis^ aufgenommen. Gleichzeitig wurde in Abs. 1^bis^ klargestellt, dass die Privatklägerschaft die Sanktion nicht anfechten kann — ihre Einsprache betrifft nur Schuldspruch, Zivilansprüche und Nebenfolgen. Diese Reform korrigiert die frühere Rechtsprechung (BGE 141 IV 231), die die Privatklägerschaft nur als «weitere Betroffene» (lit. b) als einspracheberechtigt anerkannt hatte, wenn sie ein rechtlich geschütztes Interesse darlegte.
 
 ## Kommentierung
 
 ### I. Einspracheberechtigung (Abs. 1)
 
-**4** **Beschuldigte Person (lit. a).** Die beschuldigte Person ist stets einspracheberechtigt. Sie braucht keine rechtliches Interesse zu dartun und muss die Einsprache nicht begründen (Abs. 2 Satz 2). Die Einsprache der beschuldigten Person ist das reguläre Mittel, um ein Gerichtsverfahren zu verlangen.
+**4** **Beschuldigte Person (lit. a).** Die beschuldigte Person ist stets einspracheberechtigt. Sie braucht kein rechtliches Interesse darzutun und muss die Einsprache nicht begründen (Abs. 2 Satz 2). Die Einsprache der beschuldigten Person ist das reguläre Mittel, um ein Gerichtsverfahren zu verlangen.
 
 **5** **Privatklägerschaft (lit. a^bis^, neu seit 1.1.2024).** Seit der Reform 2024 ist die Privatklägerschaft ausdrücklich einspracheberechtigt. Zuvor war sie nur als «weitere Betroffene» (lit. b) einspracheberechtigt, wenn sie ein rechtlich geschütztes Interesse i.S.v. Art. 382 Abs. 1 StPO an der Aufhebung oder Änderung des Strafbefehls hatte ([BGE 141 IV 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_231) E. 2.3–2.6). Die Reform hat diese Voraussetzung für die Privatklägerschaft erleichtert — sie ist nun ohne Darlegung eines besonderen Interesses einspracheberechtigt.
 
@@ -50,7 +50,7 @@ agent_verified: true
 
 **7** **Weitere Betroffene (lit. b).** Weitere Betroffene sind einspracheberechtigt, wenn sie ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des Strafbefehls haben. Dies gilt insbesondere für Personen, deren Rechte durch den Strafbefehl direkt betroffen sind (z.B. Eigentümer eingezogener Gegenstände). Die Privatklägerschaft, deren Parteientschädigung ganz oder teilweise verweigert wurde, ist als weitere Betroffene zur Einsprache berechtigt ([BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 5.2).
 
-**8** **Ober- oder Generalstaatsanwaltschaft (lit. c).** Soweit kantonal oder eidgenössisch vorgesehen, kann auch die Ober- oder Generalstaatsanwaltschaft Einsprache erheben, insbesondere zur Wahrung der Rechtsmittelunity und zur Sicherung einheitlicher Strafpraxis.
+**8** **Ober- oder Generalstaatsanwaltschaft (lit. c).** Soweit kantonal oder eidgenössisch vorgesehen, kann auch die Ober- oder Generalstaatsanwaltschaft Einsprache erheben, insbesondere zur Wahrung der Einheit der Rechtsanwendung und zur Sicherung einheitlicher Strafpraxis.
 
 ### II. Form und Frist (Abs. 1)
 

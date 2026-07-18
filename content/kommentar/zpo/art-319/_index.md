@@ -44,7 +44,7 @@ Art. 319 ZPO definiert das **Anfechtungsobjekt** der Beschwerde — also die Ent
 
 ### 3. Rechtsverzögerung (lit. c)
 
-Die Beschwerde wegen **Rechtsverzögerung** richtet sich gegen das Unterlassen des Gerichts, eine Sache zu entscheiden oder eine prozessuale Handlung vorzunehmen. Die Partei muss zunächst eine **Fristansetzung** verlangen (Art. 319a ZPO); erst wenn diese fruchtlos verstreicht, ist die Beschwerde zulässig. Diese Voraussetzung stellt sicher, dass die Beschwerde nicht als vorschnelles Instrument gegen langsame Gerichte missbraucht wird.
+Die Beschwerde wegen **Rechtsverzögerung** richtet sich gegen das Unterlassen des Gerichts, eine Sache zu entscheiden oder eine prozessuale Handlung vorzunehmen. Die Partei muss das Gericht in der Regel zuvor erfolglos zur Erledigung gemahnt haben (sog. Urgenz), da ein Zuwarten ohne jede Erinnerung und anschliessende Beschwerdeführung gegen Treu und Glauben (Art. 52 ZPO) verstoßen kann. Die Beschwerde ist ein letztes Mittel gegen Untätigkeit.
 
 ## Abgrenzungen
 
@@ -67,9 +67,9 @@ Die Rechtsprechung zu Art. 319 ZPO konzentriert sich auf drei Schwerpunkte:
 
 1. **Abgrenzung Endentscheid vs. Zwischenentscheid**: Die Abgrenzung ist in der Praxis häufig umstritten. Ein Entscheid, der eine Sache endgültig erledigt (auch nur teilweise), ist ein Endentscheid (BGE 140 III 315). Ein Zwischenentscheid trifft eine vorläufige Regelung, die im weiteren Verfahren überprüft werden kann.
 
-2. **"Nicht leicht wiedergutzumachender Nachteil" (lit. b Ziff. 2)**: Das Bundesgericht hat diese Voraussetzung restriktiv ausgelegt. Eine blosse Unbequemlichkeit oder Verzögerung genügt nicht; der Nachteil muss substantiell und schwer wiedergutzumachen sein (BGE 145 III 422).
+2. **"Nicht leicht wiedergutzumachender Nachteil" (lit. b Ziff. 2)**: Das Bundesgericht hat diese Voraussetzung restriktiv ausgelegt. Eine blosse Unbequemlichkeit oder Verzögerung genügt nicht; der Nachteil muss substantiell und schwer wiedergutzumachen sein (BGE 137 III 380).
 
-3. **Rechtsverzögerung (lit. c)**: Die Beschwerde wegen Rechtsverzögerung erfordert eine vorherige Fristansetzung (Art. 319a ZPO). Sie ist ein letztes Mittel gegen träge Gerichte und wird in der Praxis selten angewandt.
+3. **Rechtsverzögerung (lit. c)**: Die Beschwerde wegen Rechtsverzögerung setzt voraus, dass das Gericht untätig bleibt, obwohl es zur Handlung verpflichtet wäre. Unter dem Aspekt von Treu und Glauben (Art. 52 ZPO) muss das Gericht in der Regel zuvor gemahnt worden sein (Urgenz).
 
 ## Fazit
 
