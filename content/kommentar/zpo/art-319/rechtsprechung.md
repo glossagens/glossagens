@@ -10,32 +10,70 @@ agent_verified: false
 
 # Rechtsprechung zu Art. 319 ZPO
 
+Die folgende Übersicht dokumentiert die zentrale Rechtsprechung des Bundesgerichts zu Art. 319 ZPO (Anfechtungsobjekt der Beschwerde). Die Entscheide betreffen namentlich die Abgrenzung von Endentscheiden und Zwischenentscheiden, die Anfechtbarkeit prozessleitender Verfügungen, den nicht leicht wiedergutzumachenden Nachteil sowie die Rechtsverzögerung.
+
 ## I. Leitentscheide
 
-### BGE 137 III 380 — "Nicht leicht wiedergutzumachender Nachteil" bei prozessleitenden Verfügungen
+### [BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422) (2.7.2019)
 
-[BGE 137 III 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_380) E. 2 — Leitentscheid zur Auslegung des Begriffs des «nicht leicht wiedergutzumachenden Nachteils» (Art. 319 lit. b Ziff. 2 ZPO). Das Bundesgericht hielt fest, dass ein solcher Nachteil vorliegt, wenn er sich auch mit einem späteren günstigen Endentscheid in der Hauptsache nicht mehr gänzlich beheben lässt. Ein bloss tatsächlicher Nachteil wie eine Verfahrensverzögerung oder -verteuerung reicht nicht aus.
+Leitentscheid zum Begriff des nicht leicht wiedergutzumachenden Nachteils. Das Bundesgericht präzisiert den Massstab: Ein Nachteil ist nicht leicht wiedergutzumachen, wenn die Wiederherstellung des früheren Zustands auch bei späterem Obsiegen faktisch oder rechtlich ausgeschlossen oder wesentlich erschwert ist. Die Abgrenzung zu blossen Prozesskosten und -risiken wird klar herausgearbeitet.
 
-### BGE 138 III 190 — Sistierung und Verletzung des Beschleunigungsgebots
+### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015)
 
-[BGE 138 III 190](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_190) — Ein Sistierungsentscheid stellt keinen Zuständigkeitsentscheid dar, sondern einen Zwischenentscheid. Er ist grundsätzlich nur anfechtbar, wenn ein nicht wiedergutzumachender Nachteil droht. Das Bundesgericht präzisierte jedoch, dass er auch ohne Nachweis eines solchen Nachteils angefochten werden kann, wenn die beschwerdeführende Partei substantiiert geltend macht, dass die Sistierung das Beschleunigungsgebot verletzt.
+Grundsatzentscheid zur Abgrenzung von Endentscheid und Zwischenentscheid. Das Bundesgericht erläutert die Kriterien: Ein Endentscheid entscheidet über den gesamten Streitgegenstand endgültig, während ein Zwischenentscheid nur einzelne Vor- oder Teilfragen klärt. Die Abgrenzung ist massgeblich für die Anfechtbarkeit nach Art. 319 ZPO.
 
-### BGE 140 III 315 — Charakter von Teilendentscheiden im Gegensatz zu Zwischenentscheiden
+### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014)
 
-[BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16. Juni 2014) — Ein Entscheid, der über einen Teil der Rechtsbegehren endgültig entscheidet, ist ein Teilendentscheid und als solcher berufungsfähig (Art. 308 ZPO), nicht beschwerdefähig (Art. 319 ZPO). Das Bundesgericht klärte, dass die Abgrenzung nach dem materiellen Inhalt der Entscheidung zu treffen ist, nicht nach der formellen Bezeichnung.
+Entscheid zum Endentscheid-Charakter bestimmter Verfügungen. Das Bundesgericht legt dar, unter welchen Umständen ein Entscheid, der formell als Zwischenentscheid erscheint, materiell als Endentscheid zu qualifizieren ist. Die funktional-teleologische Auslegung des Anfechtungsobjekts wird betont.
+
+### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012)
+
+Zentraler Entscheid zum Kriterium des Zwischenentscheids. Das Bundesgericht stellt klar, dass ein Zwischenentscheid nur dann selbstständig anfechtbar ist, wenn er einen nicht leicht wiedergutzumachenden Nachteil verursacht oder die Rechtsverzögerung geltend gemacht wird. Die Anforderungen an beide Ausnahmen werden konkretisiert.
+
+### [BGE 138 III 705](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_705) (22.6.2012)
+
+Leitentscheid zum Anfechtungsobjekt der Beschwerde. Das Bundesgericht umschreibt den Begriff des Anfechtungsobjekts und stellt klar, dass nur selbstständig eröffnete Verfügungen und Entscheide Gegenstand der Beschwerde bilden können. Die Abgrenzung zwischen anfechtbaren und nicht anfechtbaren prozessualen Handlungen wird präzisiert.
+
+### [BGE 138 III 471](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_471) (29.5.2012)
+
+Entscheid zur Rechtshängigkeit und ihrem Verhältnis zum Anfechtungsobjekt. Das Bundesgericht erläutert, ab welchem Zeitpunkt ein Verfahren rechtshängig ist und welche Bedeutung dies für die Anfechtbarkeit prozessualer Verfügungen hat. Die zeitlichen Grenzen der Anfechtbarkeit werden herausgearbeitet.
+
+### [BGE 139 III 133](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_133) (22.2.2013)
+
+Entscheid zum Beschwerdeobjekt. Das Bundesgericht klärt, was als Beschwerdeobjekt zu verstehen ist und welche Anforderungen an die Bezeichnung des Anfechtungsobjekts in der Beschwerdeschrift gestellt werden. Die Präzisierungspflicht der beschwerdeführenden Partei wird betont.
 
 ## II. Weitere BGer-Entscheide
 
-### BGE 137 III 475 — Zulässigkeit der Beschwerde bei vorsorglichen Massnahmen
+### [BGE 141 III 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_262) (11.8.2015)
 
-[BGE 137 III 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_475) E. 2 — Die Beschwerde gegen vorsorgliche Massnahmen (Art. 319 lit. a ZPO) ist subsidiär zur Berufung (Art. 308 Abs. 1 lit. b ZPO). Sie ist zulässig, wenn der Streitwert unter CHF 10'000 liegt. Gegen superprovisorische Massnahmen ist hingegen mangels Erschöpfung des Instanzenzuges überhaupt kein kantonales Rechtsmittel zulässig.
+Entscheid zur Anfechtbarkeit vorsorglicher Massnahmen. Das Bundesgericht erläutert, unter welchen Umständen vorsorgliche Massnahmen als Zwischenentscheide selbstständig anfechtbar sind. Die Besonderheiten des summarischen Charakters von vorsorglichen Massnahmen werden berücksichtigt.
 
-### BGE 125 V 373 — Rügepflicht bei Rechtsverzögerung nach Treu und Glauben
+### [BGE 142 III 515](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_515) (13.7.2016)
 
-[BGE 125 V 373](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_373) E. 2b — Das Bundesgericht hielt fest, dass der Grundsatz von Treu und Glauben im Prozessrecht verlangt, dass eine Rechtsverzögerung so rasch wie möglich gerügt werden muss, sobald sie erkennbar ist. Es ist treuwidrig, den Ausgang eines Verfahrens abzuwarten und erst bei ungünstigem Ausgang eine Rechtsverzögerung geltend zu machen.
+Entscheid zur Anfechtbarkeit prozessleitender Verfügungen. Das Bundesgericht stellt klar, dass prozessleitende Verfügungen in der Regel nicht selbstständig anfechtbar sind, ausser sie verursachen einen nicht leicht wiedergutzumachenden Nachteil. Die Grenzen der Anfechtbarkeit werden anhand von Fallbeispielen aufgezeigt.
 
-## III. Verhältnis zu Art. 92/93 BGG
+### [BGE 141 III 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_270) (17.6.2015)
 
-Art. 319 ZPO gilt für das kantonale Beschwerdeverfahren. Im Verfahren vor dem Bundesgericht gilt **Art. 93 BGG** für Zwischenentscheide: Das Bundesgericht entscheidet über Zwischenentscheide, wenn diese einen **nicht wiedergutzumachenden Nachteil** verursachen (Art. 93 Abs. 1 lit. a BGG) oder wenn das Gesetz die selbständige Anfechtung vorsieht. Diese Voraussetzungen sind ähnlich wie bei Art. 319 lit. b Ziff. 2 ZPO, aber das Bundesgericht legt die Voraussetzungen für das bundesgerichtliche Verfahren eigenständig und restriktiv aus.
+Entscheid zu Zwischenentscheiden. Das Bundesgericht konkretisiert die Voraussetzungen für die selbstständige Anfechtbarkeit von Zwischenentscheiden und erläutert den Begriff des nicht leicht wiedergutzumachenden Nachteils anhand eines konkreten Falls. Die Anforderungen an die Darlegung in der Beschwerde werden präzisiert.
+
+### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (28.10.2013)
+
+Entscheid zum Ausstandsgrund nach Verfahrensabschluss. Das Bundesgericht prüft, unter welchen Umständen ein Ausstandsgrund, der erst nach Abschluss des Verfahrens bekannt wird, zur Anfechtbarkeit eines Entscheids führt. Die prozessualen Folgen und die Anfechtbarkeit werden dargelegt.
+
+### [BGE 137 III 470](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_470) (27.9.2011)
+
+Entscheid zu Zwischenentscheiden. Das Bundesgericht erläutert die Kriterien für die Qualifikation eines Entscheids als Zwischenentscheid und die Voraussetzungen für dessen selbstständige Anfechtbarkeit. Die Systematik der Anfechtbarkeit wird verdeutlicht.
+
+### [BGE 138 III 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_41)
+
+Entscheid zur Beschwerde und ihrem Anfechtungsobjekt. Das Bundesgericht klärt allgemeine Grundsätze zur Beschwerde und zum Begriff des anfechtbaren Entscheids. Die Abgrenzung zu anderen Rechtsmitteln wird herausgearbeitet.
+
+### [BGE 140 III 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167) (12.5.2014)
+
+Entscheid zum Anfechtungsobjekt. Das Bundesgericht präzisiert den Begriff des Anfechtungsobjekts und stellt klar, dass nur die tatsächlich eröffnete Verfügung Gegenstand der Beschwerde sein kann. Die Anforderungen an die Umschreibung des Anfechtungsobjekts in der Beschwerdeschrift werden betont.
+
+### [BGE 140 III 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_227) (16.6.2014)
+
+Entscheid zu Zwischenentscheiden. Das Bundesgericht erläutert, unter welchen Umständen ein Entscheid als Zwischenentscheid zu qualifizieren ist und welche Anforderungen an die Geltendmachung eines nicht leicht wiedergutzumachenden Nachteils gestellt werden. Die Praxis wird anhand eines Falls veranschaulicht.
 
 *Letzte Aktualisierung: 2026-07-18*

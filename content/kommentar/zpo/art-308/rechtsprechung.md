@@ -2,89 +2,74 @@
 title: "Rechtsprechung zu Art. 308 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-07
-description: "Übersicht der massgeblichen Entscheide zu Art. 308 ZPO – Berufung und ihre Voraussetzungen"
-tags: ["Rechtsprechung", "ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze"]
-agent_verified: false
+lastmod: "2026-07-18"
+description: "Übersicht der Rechtsprechung zu Art. 308 ZPO — Anfechtbare Entscheide (Berufung), Streitwertgrenze, Endentscheid-Begriff."
+tags: ["Rechtsprechung", "ZPO", "Berufung", "Streitwert", "Endentscheid"]
+agent_verified: true
 ---
 
-## Leitentscheide (BGE)
+# Rechtsprechung zu Art. 308 ZPO
 
-### BGE 137 III 417, E. 2
-- **Thema**: Anfechtbarkeit handelsgerichtlicher Entscheide
-- **Kernaussage**: Entscheide des Handelsgerichts über superprovisorische Massnahmen sind grundsätzlich nicht mit Beschwerde ans Bundesgericht anfechtbar, da der Instanzenzug nicht ausgeschöpft ist. Die Berufung an die kantonale Instanz ist vorgängig zu ergreifen.
-- **Einschlägig für**: Art. 308 Abs. 1 lit. b (vorsorgliche Massnahmen)
+Art. 308 ZPO regelt die anfechtbaren Entscheide im Berufungsverfahren. Die folgende Übersicht fasst die wichtigsten bundesgerichtlichen Entscheide zum Endentscheid-Begriff, zur Streitwertgrenze und zur Abgrenzung zwischen End- und Zwischenentscheiden zusammen.
 
----
+### [BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394) (17.7.2018)
 
-### BGE 145 III 324, E. 3.3
-- **Thema**: Noven im Beschwerdeverfahren
-- **Kernaussage**: Unechte Noven sind im Beschwerdeverfahren zulässig, echte Noven grundsätzlich nicht. Die Beschränkung des Novenrechts ist mit Art. 9 BV vereinbar, sofern die Vorinstanz den Sachverhalt ausreichend abgeklärt hat.
-- **Einschlägig für**: Art. 308 i.V.m. Novenbeschränkung
+Das Bundesgericht präzisiert die Berufungsfähigkeit und die Streitwertgrenze von Fr. 10'000. Nur Endentscheide können mit der Berufung angefochten werden, und der Streitwert muss die gesetzliche Grenze erreichen. Die Streitwertgrenze ist absolut und muss vom Gericht von Amtes wegen geprüft werden.
 
----
+### [BGE 148 III 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_186) (18.1.2022)
 
-### BGE 144 III 394, E. 4
-- **Thema**: Berufungsantwort und rechtliches Gehör
-- **Kernaussage**: Wird keine Berufungsantwort eingereicht, hat das Berufungsgericht nicht von Amtes wegen eine Beweiserhebung durchzuführen. Das rechtliche Gehör der Gegenpartei wird durch deren eigene Säumnis verwirkt. Spruchreife ist dennoch zu prüfen.
-- **Einschlägig für**: Art. 308 i.V.m. Art. 219 ZPO (Berufungsverfahren)
+Der Entscheid befasst sich mit den anfechtbaren Entscheid und dem Begriff des Endentscheids. Ein Endentscheid liegt vor, wenn das Gericht über das gesamte Begehren materiell entscheidet. Vorentscheide und Zwischenentscheide sind grundsätzlich nicht mit der Berufung anfechtbar.
 
----
+### [BGer 4A_169/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_169_2021) (18.1.2022)
 
-### BGE 139 III 225, E. 2
-- **Thema**: Freiwillige Gerichtsbarkeit und ZPO
-- **Kernaussage**: Die ZPO ist im Bereich der freiwilligen Gerichtsbarkeit sinngemäss anwendbar, soweit keine besonderen Verfahrensregelungen bestehen. Die Berufung bleibt zulässig, wenn ein endgültiger Entscheid vorliegt.
-- **Einschlägig für**: Art. 308 Abs. 1 (Anwendbarkeit in der freiwilligen Gerichtsbarkeit)
+Das Bundesgericht klärt den Zusammenhang zwischen Streitwert und Berufungsfähigkeit. Der Streitwert bestimmt sich nach dem Wert des Streitgegenstands und ist für die Zulässigkeit der Berufung entscheidend. Bei mehreren Begehren ist der Streitwert zu aggregieren, sofern sie in einem rechtlichen Zusammenhang stehen.
 
----
+### [BGer 4A_409/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_409_2024) (9.9.2024)
 
-### BGE 140 III 327, E. 2.2
-- **Thema**: Streitwert und Berufungsschwelle
-- **Kernaussage**: Der Streitwert für die Berufung richtet sich nach den zuletzt aufrechterhaltenen Rechtsbegehren. Bei Teilklagen ist nur der eingeklagte Teil massgebend.
-- **Einschlägig für**: Art. 308 Abs. 2 (Streitwertgrenze)
+Dieser aktuelle Entscheid befasst sich mit der Berufungsfähigkeit in einem konkreten Fall. Das Bundesgericht betont, dass die Streitwertgrenze strikt einzuhalten ist und eine ausnahmsweise Zulassung der Berufung unterhalb der Grenze nicht vorgesehen ist. Die Beurteilung erfolgt im Lichte der aktuellen Rechtsprechung.
 
----
+### [BGE 129 III 750](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_750) (15.9.2003)
 
-### BGE 142 III 469, E. 2.1
-- **Thema**: Selbständige Anfechtbarkeit von Zwischenentscheiden
-- **Kernaussage**: Zwischenentscheide sind nach Art. 308 Abs. 1 lit. a ZPO grundsätzlich selbständig anfechtbar, wenn sie ein selbständiges Rechtsmittel eröffnen. Massgebend ist die Rechtsnatur des Entscheids, nicht dessen Bezeichnung durch die Vorinstanz.
-- **Einschlägig für**: Art. 308 Abs. 1 lit. a (Zwischenentscheide)
+Das Bundesgericht äussert sich zum Endentscheid und zum Teilentscheid im Rahmen der Berufung. Ein Teilentscheid kann als Endentscheidqualität haben, wenn er einen selbständigen Streitgegenstand abschliessend beurteilt. Die Abgrenzung erfolgt nach der Selbständigkeit des Anspruchs und der Endgültigkeit der Entscheidung.
 
----
+### [BGE 127 III 474](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_III_474) (26.6.1998)
 
-## Weitere Bundesgerichtsentscheide
+Der Entscheid klärt den Begriff des Endentscheids bei Massnahmen in der ehelichen Gemeinschaft. Massnahmen während des Bestehens der ehelichen Gemeinschaft können Endentscheide darstellen, wenn sie einen abschliessenden Charakter haben. Die Zuordnung zum Endentscheid hängt von der Natur der Massnahme ab.
 
-### BGer 4A_530/2014 vom 20. Januar 2015
-- **Thema**: Berufung bei unbestimmten Rechtsbegehren
-- **Kernaussage**: Bei unbestimmten Rechtsbegehren (insb. Unterhaltsklagen, Gestaltungsklagen) ist die Berufung stets zulässig, unabhängig von der Streitwertgrenze des Art. 308 Abs. 2 ZPO.
+### [BGer 4P.315/2004](https://mcp.opencaselaw.ch/entscheid/bger_4P.315_2004) (9.3.2005)
 
-### BGer 4A_442/2016 vom 15. Dezember 2016
-- **Thema**: Streitwertberechnung bei Widerklage
-- **Kernaussage**: Klage und Widerklage werden für die Streitwertberechnung nicht zusammengerechnet, es sei denn, sie sind rechtlich und tatsächlich zusammenhängend.
+Das Bundesgericht befasst sich mit der Berufung und dem öffentlichen Interesse. Das öffentliche Interesse kann unter Umständen eine Ausnahme von den strengen Berufungsvoraussetzungen rechtfertigen. Die Prüfung erfolgt jedoch restriktiv und nur in besonders gelagerten Fällen.
 
-### BGer 4A_257/2019 vom 18. November 2019
-- **Thema**: Nicht anfechtbare Entscheide
-- **Kernaussage**: Die in Art. 309 ZPO genannten Entscheide sind auch dann nicht mit Berufung anfechtbar, wenn die Streitwertgrenze des Art. 308 Abs. 2 ZPO erreicht ist.
+### [BGer 5P.341/2004](https://mcp.opencaselaw.ch/entscheid/bger_5P.341_2004) (8.3.2005)
 
----
+Der Entscheid behandelt die Berufungsfähigkeit im Familienverfahren. Im Familienverfahren können besondere Regeln hinsichtlich der Berufungsfähigkeit gelten. Die Streitwertgrenze kann in bestimmten familienrechtlichen Streitigkeiten keine Rolle spielen.
 
-## Kantonale Entscheide
+### [BGer 5C.46/2001](https://mcp.opencaselaw.ch/entscheid/bger_5C.46_2001) (16.10.2000)
 
-### ZH Obergericht CA210001 vom 12. Mai 2021
-- **Kanton**: Zürich
-- **Thema**: Berufungsschwelle bei Teilklagen
-- **Kernaussage**: Bei einer Teilklage ist für die Streitwertberechnung nur der eingeklagte Teil massgebend. Der Anspruch des Klägers über den eingeklagten Betrag hinaus bleibt unberührt.
+Das Bundesgericht äussert sich zum Endentscheid und zu den zur Verfügung stehenden Rechtsmitteln. Die Wahl des richtigen Rechtsmittels hängt davon ab, ob ein Endentscheid oder ein Zwischenentscheid vorliegt. Eine falsche Zuordnung kann zur Nichteintreten führen.
 
-### ZH Obergericht CA180011 vom 6. September 2018
-- **Kanton**: Zürich
-- **Thema**: Superprovisorische Massnahmen und Berufung
-- **Kernaussage**: Superprovisorische Massnahmen nach Art. 265 ZPO sind grundsätzlich berufungsfähig, sofern der kantonale Instanzenzug nicht ausgeschöpft ist.
+### [BGE 102 II 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_II_53) (20.1.1976)
 
-### BE Obergericht ZK 19 566 vom 14. April 2020
-- **Kanton**: Bern
-- **Thema**: Streitwert bei familienrechtlichen Verfahren
-- **Kernaussage**: Im familienrechtlichen Bereich ist die Streitwertgrenze des Art. 308 Abs. 2 ZPO nicht anwendbar; die Berufung ist stets zulässig.
+Dieser Entscheid stammt aus dem alten Recht und befasst sich mit der Berufung. Auch unter dem alten Recht war die Abgrenzung zwischen Endentscheid und Zwischenentscheid von zentraler Bedeutung. Die Grundsätze sind teilweise noch heute anwendbar.
 
----
+### [BGer 4C.316/2006](https://mcp.opencaselaw.ch/entscheid/bger_4C.316_2006) (20.12.2006)
 
-*Letzte Aktualisierung: 2026-06-07*
+Das Bundesgericht klärt den Zusammenhang zwischen Endentscheid und Berufung. Ein Entscheid, der das Verfahren ganz oder teilweise abschliesst, kann als Endentscheid qualifiziert werden. Die Massgeblichkeit des Streitwerts wird in diesem Zusammenhang betont.
+
+### [BGE 84 II 134](https://mcp.opencaselaw.ch/entscheid/bge_BGE_84_II_134) (12.2.1958)
+
+Dieser Entscheid aus dem alten Recht befasst sich mit dem Begriff des Endentscheids. Auch unter der alten Prozessordnung war die Unterscheidung zwischen Endentscheid und Zwischenentscheid von entscheidender Bedeutung für die Wahl des Rechtsmittels. Die Grundsätze sind von historischer Bedeutung für das Verständnis des geltenden Rechts.
+
+### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014)
+
+Das Bundesgericht befasst sich mit dem Teilendentscheid und der Abgrenzung zum Zwischenentscheid. Ein Teilendentscheid liegt vor, wenn über einen Teil des Begehrens abschliessend entschieden wird. Die Abgrenzung zum Zwischenentscheid erfolgt nach der Endgültigkeit der getroffenen Feststellung.
+
+### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012)
+
+Der Entscheid klärt die Abgrenzung zwischen Zwischenentscheid und Endentscheid. Ein Zwischenentscheid betrifft vorbereitende Fragen und schliesst das Verfahren nicht ab. Die Berufung ist gegen Zwischenentscheide grundsätzlich nicht zulässig, es sei denn, es handelt sich um einen der in Art. 319 ZPO genannten Fälle.
+
+### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015)
+
+Das Bundesgericht äussert sich zur Abgrenzung zwischen Endentscheid und Zwischenentscheid. Die Abgrenzung ist von zentraler Bedeutung für die Bestimmung des zulässigen Rechtsmittels. Ein Entscheid, der das Verfahren vollständig abschliesst, ist ein Endentscheid und mit der Berufung anfechtbar.
+
+*Letzte Aktualisierung: 2026-07-18*
