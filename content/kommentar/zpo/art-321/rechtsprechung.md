@@ -1,85 +1,68 @@
-+++
-title = "Rechtsprechung zu Art. 321 ZPO"
-weight = 99
-date = 2026-07-18
-lastmod = "2026-07-18"
-description = "Übersicht der Rechtsprechung zu Art. 321 ZPO — Einreichen der Beschwerde, Fristen, Form, Begründung."
-tags = ["Rechtsprechung","ZPO","Beschwerdefrist","Rechtsmittel"]
-agent_verified = true
-+++
+---
+title: "Rechtsprechung zu Art. 321 ZPO"
+weight: 99
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Übersicht der Rechtsprechung zu Art. 321 ZPO — Einreichen der Beschwerde, Fristen, Form, Begründung."
+tags: ["Rechtsprechung","ZPO","Beschwerde","Fristen"]
+agent_verified: true
+---
 
 # Rechtsprechung zu Art. 321 ZPO
 
-Art. 321 ZPO regelt das Einreichen der Beschwerde: Die Beschwerde ist schriftlich und begründet innerhalb der gesetzlichen Frist einzureichen. Die zentrale Rechtsprechung des Bundesgerichts befasst sich mit den formellen Voraussetzungen der Beschwerde, der Beschwerdefrist, dem Beschwerdeobjekt und den Grundsätzen der Beschwerdebegründung.
+Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Obergerichtsentscheide zu den Frist- und Formvorschriften der Beschwerde (Einreichung, Begründungspflicht und Fristwahrung) dar.
 
 ---
 
 ## I. Leitentscheide
 
-### [BGE 138 III 705](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_705) (22.6.2012) — Beschwerdefrist
+### [BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636) (11.03.2014) — Fristwahrung bei unzuständiger Behörde
+Die Einreichung einer Rechtsmittelschrift bei einer unzuständigen Behörde ist fristwahrend, sofern die Eingabe vor Ablauf der Frist dort eingetroffen ist. Das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet in solchen Fällen die unverzügliche Weiterleitung an die zuständige Rechtsmittelinstanz.
 
-Der Entscheid klärt die Grundsätze der Beschwerdefrist im Sinne von Art. 321 ZPO. Das Bundesgericht betont, dass die Beschwerdefrist eine Notfrist ist, die nicht erstreckt werden kann, und dass die Wahrung der Frist eine zwingende Prozessvoraussetzung ist.
+### [BGer 5A_247/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_247_2013) (15.10.2013) — Beschwerdefrist bei vorsorglichen Massnahmen
+Entscheide über vorsorgliche Massnahmen fallen unter das summarische Verfahren, weshalb für die Anfechtung die zehntägige Beschwerdefrist gemäss Art. 321 Abs. 2 ZPO gilt.
 
-### [BGE 141 III 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_270) (17.6.2015) — Beschwerde und Zwischenentscheid
+### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020) — Begründungspflicht bei Rechtsbegehren
+Auch im Beschwerdeverfahren gilt eine strenge Rüge- und Begründungspflicht. Die beschwerdeführende Partei muss darlegen, welche rechtserheblichen Feststellungen oder rechtlichen Würdigungen der Vorinstanz sie konkret anficht.
 
-Das Bundesgericht befasst sich mit der Anfechtbarkeit von Zwischenentscheiden mit Beschwerde. Es hält fest, dass Zwischenentscheide nur selbständig mit Beschwerde anfechtbar sind, wenn sie einen nicht wieder gutzumachenden Nachteil bewirken.
+### [BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (07.05.2014) — Frist zur Beschwerde gegen prozessleitende Verfügungen
+Die Anfechtung prozessleitender Verfügungen unterliegt zwingend der kurzen zehntägigen Beschwerdefrist gemäss Art. 321 Abs. 2 ZPO, sofern die materiellen Voraussetzungen (drohender nicht leicht wiedergutzumachender Nachteil) erfüllt sind.
 
-### [BGE 145 III 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_469) (12.9.2019) — Beschwerde
+### [BGE 139 III 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_475) (17.10.2013) — Beschwerdefrist bei unentgeltlicher Rechtspflege
+Der Entscheid über die unentgeltliche Rechtspflege ist eine prozessleitende Verfügung, deren Anfechtung zwingend der kurzen Frist von 10 Tagen unterliegt.
 
-Der Entscheid konkretisiert die Voraussetzungen der Beschwerde im Sinne von Art. 321 ZPO. Das Bundesgericht betont, dass die Beschwerde schriftlich einzureichen ist und eine ausreichende Begründung enthalten muss, die erkennen lässt, welche Rügen erhoben werden.
-
-### [BGE 151 III 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_344) (12.8.2022) — Beschwerdefrist aktuell
-
-Das Bundesgericht klärt die aktuelle Praxis zur Beschwerdefrist. Es betont, dass die Beschwerdefrist mit der Zustellung des Entscheids zu laufen beginnt und dass die Frist auch bei elektronischer Einreichung gewahrt werden muss.
-
-### [BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422) (2.7.2019) — Beschwerde und prozessleitende Verfügungen
-
-Der Entscheid befasst sich mit der Anfechtbarkeit von prozessleitenden Verfügungen mit Beschwerde. Das Bundesgericht hält fest, dass prozessleitende Verfügungen grundsätzlich nicht selbständig mit Beschwerde anfechtbar sind, es sei denn, sie bewirken einen nicht wieder gutzumachenden Nachteil.
+### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (10.05.2013) — Novenausschluss
+Im Beschwerdeverfahren sind neue Tatsachen und Beweismittel (Noven) gemäss Art. 326 Abs. 1 ZPO grundsätzlich ausgeschlossen. Das Vorbringen neuer Beweismittel ist somit im Gegensatz zur Berufung nicht zulässig.
 
 ---
 
-## II. Weitere BGer-Entscheide
+## II. Weitere Entscheide
 
-### [BGE 142 II 304](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_304) (18.7.2016) — Beschwerdefrist
+### [Obergericht Uri 2014_OG Z 13 8](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_2014_OG_Z_13_8) (24.01.2014) — Frist bei Gesuch um unentgeltliche Rechtspflege
+Wird der Entscheid über die unentgeltliche Rechtspflege separat gefällt, beträgt die Frist zur Einreichung der Beschwerde zwingend 10 Tage.
 
-Das Bundesgericht klärt die Frage der Wahrung der Beschwerdefrist bei unklaren oder unvollständigen Entscheidsten. Es hält fest, dass die Beschwerdefrist erst zu laufen beginnt, wenn ein vollständiger und verständlicher Entscheid zugestellt wurde.
+### [Kantonsgericht St. Gallen BE.2012.42](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BE.2012.42) (27.09.2012) — Frist der Kostenbeschwerde
+Die Kostenbeschwerde gegen eine Abschreibungsverfügung unterliegt nur dann der zehntägigen Frist, wenn sie in einem summarischen Hauptverfahren erging. Im ordentlichen oder vereinfachten Verfahren beträgt die Frist 30 Tage.
 
-### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015) — Beschwerde und Endentscheid
+### [Kantonsgericht St. Gallen BE.2013.4-6](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_BE.2013.4-6) (17.09.2013) — Bezifferungspflicht der Kostenbeschwerde
+Die selbstständige Anfechtung der erstinstanzlichen Kostenliquidation (Kostenbeschwerde) verlangt ein beziffertes Rechtsbegehren. Der Kläger muss angeben, wie die Kosten verteilt bzw. in welcher Höhe sie auferlegt werden sollen.
 
-Der Entscheid befasst sich mit der Anfechtbarkeit von Endentscheiden mit Beschwerde. Das Bundesgericht hält fest, dass Endentscheide grundsätzlich mit Beschwerde anfechtbar sind und dass die Beschwerde innerhalb der Frist schriftlich und begründet einzureichen ist.
+### [Kantonsgericht Schwyz BEK 2025 173](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_BEK 2025 173) (18.12.2025) — Begründung im Rechtsöffnungsverfahren
+Eine Beschwerde gegen ein Rechtsöffnungsurteil muss schriftlich eingereicht werden und Anträge sowie eine hinreichende Begründung enthalten, welche auf die vorinstanzlichen Erwägungen eingeht.
 
-### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014) — Beschwerde und Endentscheid
+### [Kantonsgericht Schwyz ZK2 2023 47](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_ZK2 2023 47) (27.07.2023) — Falsche Rechtsmittelbelehrung
+Wurde in der vorinstanzlichen Entscheidung eine falsche Rechtsmittelfrist angegeben, dürfen den Parteien daraus gemäss dem Vertrauensschutzprinzip keine Nachteile erwachsen; die Frist gilt bei Einhaltung der angegebenen Belehrung als gewahrt.
 
-Das Bundesgericht klärt die Frage, wann ein Endentscheid mit Beschwerde anfechtbar ist. Es hält fest, dass ein Endentscheid den Streitgegenstand verbindlich entscheidet und dass die Beschwerde innerhalb der Frist schriftlich und begründet einzureichen ist.
+### [Kantonsgericht Schwyz BEK 2021 46](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_BEK 2021 46) (31.05.2021) — Postaufgabe am letzten Tag
+Die Frist zur Einreichung der Beschwerde ist gewahrt, wenn die Postaufgabe spätestens am letzten Tag der Frist erfolgt. Eine verspätete Übergabe führt zum Nichteintreten auf die Beschwerde.
 
-### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012) — Beschwerde und Zwischenentscheid
+### [BGer 5D_65/2014](https://mcp.opencaselaw.ch/entscheid/bger_5D_65_2014) (09.09.2014) — Aufsichtsbeschwerde
+Befasst sich mit den Abgrenzungen zwischen Aufsichtsbeschwerden (z.B. gegen Erbenvertreter) und dem ordentlichen zivilprozessualen Rechtsmittelweg der Beschwerde.
 
-Der Entscheid befasst sich mit der Anfechtbarkeit von Zwischenentscheiden mit Beschwerde. Das Bundesgericht hält fest, dass Zwischenentscheide nur selbständig mit Beschwerde anfechtbar sind, wenn sie einen nicht wieder gutzumachenden Nachteil bewirken und die Voraussetzungen von Art. 321 ZPO erfüllt sind.
+### [BGer 5D_146/2017](https://mcp.opencaselaw.ch/entscheid/bger_5D_146_2017) (17.11.2017) — Formelle Anforderungen an die Rügen
+Das Bundesgericht präzisiert die Anforderungen an die Rüge von Rechtsverletzungen im Beschwerdeverfahren nach Art. 321 Abs. 1 ZPO.
 
-### [BGE 139 III 133](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_133) (22.2.2013) — Beschwerdeobjekt
+### [BGer 5A_82/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_82_2013) (18.03.2013) — Frist im Rechtsöffnungsverfahren
+Das Rechtsöffnungsverfahren ist ein summarisches Verfahren. Die Beschwerdefrist gegen einen Rechtsöffnungsentscheid beträgt zwingend 10 Tage.
 
-Das Bundesgericht klärt die Frage, was als Beschwerdeobjekt im Sinne von Art. 321 ZPO massgebend ist. Es hält fest, dass das Beschwerdeobjekt aus dem angefochtenen Entscheid zu ermitteln ist und dass die Beschwerde gegen den gesamten Entscheid oder einzelne Punkte gerichtet werden kann.
-
-### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (28.10.2013) — Beschwerde und Ausstand
-
-Der Entscheid befasst sich mit der Frage, wann ein Ausstandsentscheid mit Beschwerde anfechtbar ist. Das Bundesgericht hält fest, dass Ausstandsentscheide selbständig mit Beschwerde anfechtbar sind, da sie einen nicht wieder gutzumachenden Nachteil bewirken können.
-
-### [BGE 140 III 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167) (12.5.2014) — Beschwerde und Rechtsanwendung
-
-Das Bundesgericht klärt die Frage, wann ein Rechtsanwendungsfehler als Beschwerdegrund im Sinne von Art. 321 ZPO massgebend ist. Es hält fest, dass die Beschwerde die konkrete Rechtsverletzung darlegen muss und dass eine pauschuale Rüge nicht genügt.
-
-### [BGE 140 III 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_227) (16.6.2014) — Beschwerde und Zwischenentscheid
-
-Der Entscheid befasst sich mit der Anfechtbarkeit von Zwischenentscheiden mit Beschwerde. Das Bundesgericht hält fest, dass Zwischenentscheide nur selbständig mit Beschwerde anfechtbar sind, wenn sie einen nicht wieder gutzumachenden Nachteil bewirken und die übrigen Voraussetzungen erfüllt sind.
-
-### [BGE 138 III 471](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_471) (29.5.2012) — Beschwerde und Rechtshängigkeit
-
-Das Bundesgericht klärt die Frage, wann die Rechtshängigkeit im Beschwerdeverfahren entsteht. Es hält fest, dass die Rechtshängigkeit mit der Einreichung der Beschwerde entsteht und dass die Beschwerdefrist gewahrt sein muss.
-
-### [BGE 148 III 95](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_95) (7.12.2021) — Beschwerde und Nova
-
-Der Entscheid befasst sich mit der Frage, wann Nova im Beschwerdeverfahren zugelassen werden. Das Bundesgericht hält fest, dass Nova nur zugelassen werden, wenn sie im erstinstanzlichen Verfahren nicht bekannt waren und ihre Geltendmachung nicht zumutbar war.
-
----
-
-*Letzte Aktualisierung: 2026-07-18*
+*Letzte Aktualisierung: 2026-07-19*

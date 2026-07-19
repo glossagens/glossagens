@@ -1,9 +1,9 @@
 ---
 title: "Art. 95 ZPO — Begriffe (Prozesskosten)"
 weight: 95
-date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Kommentar zu Art. 95 ZPO: Begriffe der Prozesskosten — Gerichtskosten, Parteientschädigung, Beweiskosten, Übersetzungskosten."
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Kommentar zu Art. 95 ZPO: Begriffe der Prozesskosten — Gerichtskosten, Parteientschädigung, Anwaltskosten, Umtriebsentschädigung."
 tags: ["ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Kostenbegriff"]
 agent_verified: true
 ---
@@ -31,44 +31,29 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 95 ZPO definiert die zentralen **Kostenbegriffe** der Schweizer Zivilprozessordnung. Die Norm unterscheidet zwischen **Gerichtskosten** (Kosten, die das Gericht verursacht) und **Parteientschädigung** (Kosten, die die Parteien verursachen). Diese Unterscheidung ist von zentraler praktischer Bedeutung, da die Verteilung der Prozesskosten (Art. 106 ff. ZPO) auf diesen Begriffen aufbaut. Die Norm ist die Grundlage für die Kostenregelung des gesamten Zivilverfahrens.
+Art. 95 ZPO definiert die gesetzlichen Kategorien, aus denen sich die Prozesskosten im Schweizer Zivilprozess zusammensetzen. Die Norm trennt strikt zwischen **Gerichtskosten** (Aufwendungen des Staates für das Verfahren) und der **Parteientschädigung** (Kosten, die den Parteien zur Wahrung ihrer Rechte erwachsen). Diese Einteilung ist grundlegend für das gesamte Kostenrecht der ZPO, da die Kostenverteilung (Art. 104 ff. ZPO) an diese Begriffe anknüpft. Die Höhe der Tarife für Gerichtskosten und Parteientschädigung wird von den Kantonen geregelt (Art. 96 ZPO).
 
 ## Gerichtskosten (Abs. 2)
 
-### Pauschalen für das Schlichtungsverfahren (lit. a)
-
-Die Schlichtungsbehörde erhebt eine Pauschale für das Schlichtungsverfahren (Art. 198 ff. ZPO). Die Höhe wird kantononal geregelt.
-
-### Entscheidgebühr (lit. b)
-
-Die Entscheidgebühr richtet sich nach dem **Streitwert** und dem **Aufwand** des Gerichts. Die Kantone erlassen Kostentarife, die die Gebühren festlegen.
-
-### Kosten der Beweisführung (lit. c)
-
-Kosten für **Gutachten**, **Zeugenentschädigungen**, **Urkundenbeweis** und andere Beweisaufwendungen gehören zu den Gerichtskosten. Das Gericht kann die Kosten der Beweisführung den Parteien auferlegen (Art. 106 ZPO).
-
-### Übersetzungskosten (lit. d)
-
-Kosten für die **Übersetzung** von Dokumenten oder Aussagen ins Deutsche, Französische oder Italienische.
-
-### Kosten für die Vertretung des Kindes (lit. e)
-
-Wenn das Gericht einen **Kindesvertreter** (Art. 299, 300 ZPO) bestellt, gehören die Kosten zu den Gerichtskosten.
+Die Gerichtskosten sind abschliessend aufgezählt. Sie umfassen Pauschalen für das Schlichtungsverfahren (lit. a) und die Entscheidgebühr (lit. b) sowie Auslagen des Gerichts für Beweise (Gutachten, Zeugenspesen, lit. c), Übersetzungen (lit. d) und die Kosten einer behördlich angeordneten Kindesvertretung (lit. e; zur Bemessung vgl. [BGE 142 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_153)).
 
 ## Parteientschädigung (Abs. 3)
 
-### Ersatz notwendiger Auslagen (lit. a)
+### 1. Ersatz notwendiger Auslagen (lit. a)
+Hierunter fallen Reisespesen, Porti, Fotokopien und sonstige direkte Ausgaben der Parteien, sofern sie zur Prozessführung notwendig waren.
 
-Die Parteientschädigung umfasst den Ersatz **notwendiger Auslagen** — z.B. Reisespesen, Kopien, Porti. Die Auslagen müssen **notwendig** gewesen sein, nicht nur nützlich.
+### 2. Kosten einer berufsmässigen Vertretung (lit. b)
+Dies betrifft die Honorare von Rechtsanwälten oder zugelassenen Rechtsagenten. Nach der bundesgerichtlichen Rechtsprechung darf das Gericht bei der Bemessung der Parteientschädigung grundsätzlich **nicht prüfen**, ob der Beizug eines Anwalts als solcher überhaupt notwendig war ([BGE 144 III 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_164) E. 3). Die Notwendigkeit der anwaltlichen Aufwendungen wird im Rahmen des kantonalen Anwaltstarifs bewertet.
 
-### Kosten einer berufsmässigen Vertretung (lit. b)
+### 3. Umtriebsentschädigung (lit. c)
+Nicht anwaltlich vertretene Parteien haben nur ausnahmsweise ("in begründeten Fällen") Anspruch auf eine Umtriebsentschädigung. Dies setzt einen erheblichen Arbeitsaufwand und einen messbaren Verdienstausfall oder konkreten Nachteil voraus.
 
-Die Kosten einer **berufsmässigen Vertretung** (Anwalt, Rechtsagent) sind erstattungsfähig. Die Höhe richtet sich nach dem **Anwaltstarif** des jeweiligen Kantons. Die Vertretung muss **notwendig** gewesen sein — in einfachen Verfahren kann das Gericht die Parteientschädigung kürzen oder verweigern, wenn eine Vertretung nicht notwendig war.
+## Praxisfragen
 
-### Umtriebsentschädigung (lit. c)
+* **Praxisfrage: Entschädigung von angestellten Unternehmensjuristen**
+  Tritt ein angestellter Jurist einer Partei (z. B. der Leiter des Rechtsdienstes mit Anwaltspatent) im Prozess auf, so begründet dies keine "berufsmässige Vertretung" nach Abs. 3 lit. b ZPO, da kein freies Mandatsverhältnis vorliegt. Eine Entschädigung für den internen Aufwand kann allenfalls als Umtriebsentschädigung nach Abs. 3 lit. c ZPO zugesprochen werden, was jedoch restriktiv gehandhabt wird und einen erheblichen Mehraufwand voraussetzt (vgl. Handelsgericht St. Gallen [HG.2023.6-HGK vom 2. Juli 2024](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_HG.2023.6-HGK)).
 
-Wenn eine Partei **nicht berufsmässig vertreten** ist, kann ihr in begründeten Fällen eine **angemessene Umtriebsentschädigung** zugesprochen werden. Die Voraussetzung "begründete Fälle" ist **restriktiv** auszulegen — die Partei muss darlegen, warum ihr ein konkreter Nachteil entstanden ist, der eine Entschädigung rechtfertigt.
+* **Praxisfrage: Der Anwalt in eigener Sache**
+  Prozessiert ein Anwalt in eigener Sache (oder als Organ der eigenen Kanzlei-AG), steht ihm nach kantonaler und bundesgerichtlicher Praxis eine Parteientschädigung gemäss Art. 95 Abs. 3 lit. b ZPO zu. Dies wird damit begründet, dass seine Beanspruchung ihn an der sonstigen Ausübung seiner Erwerbsarbeit hindert. Der Aufwand muss jedoch verhältnismässig sein (vgl. Obergericht Bern [ZK 2015 221 vom 7. September 2015](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_ZK_2015_221)).
 
-## Fazit
-
-Art. 95 ZPO ist die Kostenbegriffsnorm der Schweizer Zivilprozessordnung. Sie definiert, was zu den Prozesskosten gehört und schafft die Grundlage für die Kostenverteilung nach Art. 106 ff. ZPO. Die Unterscheidung zwischen Gerichtskosten und Parteientschädigung ist zentral — sie bestimmt, wer welche Kosten trägt und wie die Kosten im Unterliegensfall verteilt werden.
+*Letzte Aktualisierung: 2026-07-19*

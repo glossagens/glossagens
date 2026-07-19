@@ -1,8 +1,8 @@
 ---
 title: "Art. 59 ZPO — Grundsatz (Prozessvoraussetzungen)"
 weight: 59
-date: 2026-07-18
-lastmod: "2026-07-18"
+date: 2026-07-19
+lastmod: "2026-07-19"
 description: "Kommentar zu Art. 59 ZPO: Prozessvoraussetzungen, Nichteintreten, schutzwürdiges Interesse, Rechtskraft, Rechtshängigkeit."
 tags: ["ZPO", "Prozessvoraussetzungen", "Nichteintreten", "schutzwürdiges Interesse", "Rechtskraft"]
 agent_verified: true
@@ -25,40 +25,37 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 59 ZPO ist die **Eintrittsnorm** des Schweizer Zivilprozessrechts. Sie definiert die Prozessvoraussetzungen, die erfüllt sein müssen, damit das Gericht auf eine Klage oder ein Gesuch eintritt. Fehlt eine Prozessvoraussetzung, tritt das Gericht auf die Klage nicht ein (Nichteintreten). Die Norm ist von **zentraler praktischer Bedeutung**, da das Nichteintreten den Zugang zum Gericht versperrt — die Sache wird nicht sachlich geprüft, sondern prozessual abgewiesen.
+Art. 59 ZPO regelt die prozessualen Eintrittsvoraussetzungen im Schweizer Zivilprozessrecht. Sind diese nicht erfüllt, ergeht ein Nichteintretensentscheid (Prozessurteil), ohne dass das Gericht die materielle Begründetheit der Klage oder des Gesuchs prüft. Die in Abs. 2 aufgezählten Voraussetzungen sind nicht abschließend ("insbesondere"), da weitere bundesrechtliche Anforderungen wie z.B. die Durchführung eines obligatorischen Schlichtungsverfahrens hinzutreten können.
 
-Die Aufzählung in Abs. 2 ist **nicht abschliessend** ("insbesondere") — es können weitere Prozessvoraussetzungen bestehen, etwa das Schlichtungsverfahren (Art. 198 ff. ZPO) oder die Klagebewilligung (Art. 199 ZPO).
-
-## Tatbestandsmerkmale
+## Tatbestandsmerkmale (Abs. 2)
 
 ### 1. Schutzwürdiges Interesse (lit. a)
-
-Die klagende Partei muss ein **schutzwürdiges Interesse** an der gerichtlichen Beurteilung haben. Das Interesse besteht regelmässig, wenn die Klage auf eine Leistung, Feststellung oder Gestaltung gerichtet ist und die Parteien über den Bestand oder Umfang des Rechts streiten. Ein **rein theoretisches Interesse** genügt nicht — die Klage muss ein **praktisches Bedürfnis** an der gerichtlichen Klärung aufweisen. Die Feststellungsklage setzt zusätzlich ein **besonderes Feststellungsinteresse** voraus (Art. 88 ZPO).
+Das schutzwürdige Interesse (auch Rechtsschutzinteresse) verlangt ein aktuelles, praktisches und schutzwürdiges Bedürfnis an der gerichtlichen Beurteilung. Bei Feststellungsklagen gelten strengere Anforderungen: Ein Feststellungsinteresse ist nur gegeben, wenn dem Kläger eine Fortführung der Ungewissheit unzumutbar ist ([BGE 135 III 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_378) E. 2.2). Das Bundesgericht hat das schutzwürdige Interesse für den Betreibungsschuldner bei einer negativen Feststellungsklage gelockert ([BGE 141 III 68](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_68)).
 
 ### 2. Sachliche und örtliche Zuständigkeit (lit. b)
+Das angerufene Gericht muss sowohl sachlich (z.B. Zuständigkeit des Handelsgerichts nach Art. 6 ZPO; vgl. [BGE 138 III 471](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_471)) als auch örtlich (Art. 9 ff. ZPO) zuständig sein.
 
-Das Gericht muss **sachlich** (z.B. Handelsgericht nach Art. 6 ZPO, Schlichtungsbehörde nach Art. 198 ZPO) und **örtlich** (Art. 9–27 ZPO) zuständig sein. Bei fehlender Zuständigkeit tritt das Gericht nicht ein, ausser es verweist die Sache an das zuständige Gericht (Art. 63 ZPO).
-
-### 3. Parteifähigkeit und Prozessfähigkeit (lit. c)
-
-Die **Parteifähigkeit** (Fähigkeit, Träger von Rechten und Pflichten zu sein) und die **Prozessfähigkeit** (Fähigkeit, selbst prozessuale Handlungen vorzunehmen) müssen gegeben sein. Minderjährige und handlungsunfähige Personen sind nicht prozessfähig — sie müssen vertreten werden.
+### 3. Partei- und Prozessfähigkeit (lit. c)
+Die Parteien müssen parteifähig (Rechtsfähigkeit) und prozessfähig (Handlungsfähigkeit) sein. Die Prozessfähigkeit setzt voraus, dass die Person handlungsfähig, sprich volljährig und urteilsfähig ist ([BGer 5A_448/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_448_2020) E. 2.1).
 
 ### 4. Keine anderweitige Rechtshängigkeit (lit. d)
+Eine Streitsache darf nicht bereits bei einem anderen Gericht rechtshängig sein (Rechtshängigkeitssperre). Die objektiven Grenzen der Litispendenz im Binnenverhältnis bestimmen sich nach dem zweigliedrigen Streitgegenstandsbegriff ([BGE 151 III 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_385) E. 5) und dienen der Vermeidung widersprüchlicher Urteile ([BGE 138 III 570](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_570) E. 4.2.2).
 
-Die Sache darf nicht bereits bei einem anderen Gericht anhängig sein (**Rechtshängigkeitssperre**). Die Rechtshängigkeit entsteht mit der Klageeinreichung (Art. 62 ZPO). Bei doppelten Klagen ist die zuerst eingereichte Klage massgebend.
+### 5. Keine materielle Rechtskraft (lit. e)
+Die Identität der Streitgegenstände zur Feststellung der Rechtskraftwirkung beurteilt sich nach den Klageanträgen und dem behaupteten Lebenssachverhalt ([BGE 139 III 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_126) E. 3).
 
-### 5. Keine Rechtskraft (lit. e)
+### 6. Kostenvorschuss und Sicherheitsleistung (lit. f)
+Das Nichtleisten der angeforderten Vorschüsse innert gesetzter Frist führt zwingend zum Nichteintreten. Ein solches Nichteintreten mangels Kostenvorschusses darf mit Kosten verbunden werden ([BGE 139 III 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_334) E. 3.1). Das Gericht darf mit der Ansetzung der Klageantwortfrist zuwarten, bis der Vorschuss bezahlt ist ([BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159)).
 
-Die Sache darf nicht bereits **rechtskräftig entschieden** sein. Die Rechtskraft (Art. 337 ZPO) verhindert eine erneute Beurteilung derselben Streitsache zwischen denselben Parteien (ne bis in idem im Zivilverfahren).
+## Praxisfragen
 
-### 6. Kostenvorschuss und Sicherheit (lit. f)
+* **Praxisfrage: Amtswegige Prüfung vs. Mitwirkungspflicht der Parteien**
+  Das Gericht prüft die Prozessvoraussetzungen gemäss Art. 60 ZPO von Amtes wegen. In der kantonalen Gerichtspraxis ist jedoch klargestellt, dass dies die Parteien nicht von der Pflicht enthebt, an der Etablierung des Sachverhalts bezüglich dieser Voraussetzungen mitzuwirken und die Tatsachen selbst vorzutragen (vgl. Obergericht Schaffhausen [10/2014/25 vom 19. September 2014](https://mcp.opencaselaw.ch/entscheid/sh_obergericht_10_2014_25) E. 2).
+  
+* **Praxisfrage: Zustellung an die Vertretung bei Fristenlauf**
+  Sofern ein Vertretungsverhältnis bekannt gegeben wurde, müssen gerichtliche Zustellungen zwingend an den Vertreter erfolgen. Eine ausschliessliche persönliche Zustellung an die Partei ist fehlerhaft. Bei doppelter Zustellung läuft die Frist ab Zustellung an den Vertreter (Kantonsgericht St. Gallen [BE.2017.33 vom 7. Juni 2018](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BE.2017.33)).
 
-Der **Kostenvorschuss** (Art. 98 ZPO) und die **Sicherheitsleistung** (Art. 99, 101 ZPO) müssen geleistet sein. Wird der Vorschuss nicht fristgerecht geleistet, tritt das Gericht nicht ein.
+* **Praxisfrage: Kosten bei Nichteintreten infolge fehlendem Vorschuss**
+  Die Nichtleistung des Prozesskostenvorschusses führt zum Nichteintreten, wobei die Kosten des Nichteintretensverfahrens der säumigen Partei auferlegt werden können ([BGE 139 III 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_334) E. 3.1).
 
-## Nichteintreten
-
-Fehlt eine Prozessvoraussetzung, tritt das Gericht auf die Klage **nicht ein**. Das Nichteintreten ist eine **prozessuale Entscheidung** — das Gericht prüft nicht die Sache selbst, sondern nur die Zulässigkeit des Weges zum Gericht. Das Nichteintreten ist mit der **Beschwerde** (Art. 319 ZPO) anfechtbar.
-
-## Fazit
-
-Art. 59 ZPO ist die zentrale Eintrittsnorm der Schweizer Zivilprozessordnung. Sie definiert die Prozessvoraussetzungen, die den Zugang zum Gericht steuern. Fehlt eine Voraussetzung, wird die Klage nicht sachlich geprüft, sondern prozessual abgewiesen. Die Norm bezweckt einen geregelten, effizienten Zugang zum Gericht und verhindert missbräuchliche oder unzulässige Klagen.
+*Letzte Aktualisierung: 2026-07-19*

@@ -1,10 +1,10 @@
 ---
 title: "Art. 310 ZPO — Berufungsgründe"
 weight: 310
-date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Kommentar zu Art. 310 ZPO: Berufungsgründe — unrichtige Rechtsanwendung und unrichtige Feststellung des Sachverhalts. Abgrenzung zur Beschwerde (Art. 320)."
-tags: ["ZPO", "Berufung", "Berufungsgründe", "Rechtsanwendung", "Sachverhaltsfeststellung"]
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Kommentar zu Art. 310 ZPO: Die Berufungsgründe — unrichtige Rechtsanwendung, unrichtige Sachverhaltsfeststellung, uneingeschränkte Kognition."
+tags: ["ZPO", "Berufung", "Berufungsgründe", "Rechtsmittel", "Kognition"]
 agent_verified: true
 ---
 
@@ -19,43 +19,27 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 310 ZPO definiert die **Berufungsgründe** im Schweizer Zivilprozess. Die Berufung ist das **ordentliche Rechtsmittel** gegen berufungsfähige Endentscheide (Art. 308 ZPO — Streitwert > Fr. 10'000). Die Berufungsgründe sind **weiter** als die Beschwerdegründe (Art. 320 ZPO): Während die Beschwerde eine "offensichtlich" unrichtige Sachverhaltsfeststellung verlangt, genügt bei der Berufung eine **blosse** Unrichtigkeit. Diese Differenzierung reflektiert den Charakter der Berufung als **zweite Sachinstanz**, in der der Fall vollumfänglich neu überprüft wird.
+Art. 310 ZPO umschreibt die zulässigen Berufungsgründe im Schweizer Zivilprozess. Die Berufung ist ein **ordentliches, vollkommenes Rechtsmittel** mit reformatorischer Wirkung. Das bedeutet, dass das Berufungsgericht den angefochtenen erstinstanzlichen Entscheid mit **uneingeschränkter Kognition** (Rechts- und Sachverhaltskontrolle) überprüft. Es ist befugt, das vorinstanzliche Urteil in rechtlicher und tatsächlicher Hinsicht frei zu überprüfen und durch ein eigenes Sachurteil zu ersetzen. 
 
-## Tatbestandsmerkmale
+Diese weite Kognition unterscheidet die Berufung grundlegend von der Beschwerde (Art. 320 ZPO), bei welcher der Sachverhalt nur auf offensichtliche Unrichtigkeit (Willkür) hin überprüft werden kann.
+
+## Die Berufungsgründe im Einzelnen
 
 ### 1. Unrichtige Rechtsanwendung (lit. a)
+Dieser Grund erfasst jede Verletzung von geschriebenem und ungeschriebenem Recht des Bundes, der Kantone sowie des Völkerrechts. Das Berufungsgericht wendet das Recht von Amtes wegen an (Art. 57 ZPO). Es ist an die rechtliche Begründung der Parteien nicht gebunden und kann den erstinstanzlichen Entscheid auch aus anderen als den geltend gemachten rechtlichen Erwägungen bestätigen oder abändern ([BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) E. 2.2.4).
 
-Die **unrichtige Rechtsanwendung** umfasst alle Formen der Rechtsverletzung:
+### 2. Unrichtige Feststellung des Sachverhalts (lit. b)
+Hierunter fällt die Rüge, die Vorinstanz habe Tatsachen unvollständig oder unrichtig festgestellt, Beweise fehlerhaft gewürdigt oder Beweisregeln verletzt. Da die Berufungsinstanz den Sachverhalt frei überprüft, kann sie eine eigene Beweiswürdigung an die Stelle derjenigen des erstinstanzlichen Gerichts setzen.
 
-- **Bundesrecht**: Verletzung von Bundesgesetzen (OR, ZGB, ZPO etc.)
-- **Völkerrecht**: Verletzung von Staatsverträgen (insbesondere EMRK)
-- **Kantonales Verfahrensrecht**: Verletzung von kantonalem Verfahrensrecht
-- **Verfassungsmässige Rechte**: Verletzung von Grundrechten (Art. 8–36 BV), insb. Willkürverbot (Art. 9 BV)
+## Praxisfragen
 
-Das Gericht prüft die Rechtsanwendung **vollständig** (Art. 106 Abs. 1 BGG analog — "iura novit curia").
+* **Praxisfrage: Substanziierungspflicht der Sachverhaltsrüge**
+  Trotz der uneingeschränkten Kognition des Berufungsgerichts gilt im Berufungsverfahren eine Begründungs- und Rügepflicht des Klägers. Es reicht für die Rüge einer unrichtigen Sachverhaltsfeststellung nicht aus, der vorinstanzlichen Beweiswürdigung lediglich die eigene Würdigung der Aktenlage entgegenzustellen. Vielmehr muss konkret aufgezeigt werden, welche Aktenstücke oder Beweismittel das Erstgericht fehlerhaft oder gar nicht berücksichtigt hat (vgl. Obergericht Uri [OG Z 20 11 vom 25. August 2021](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_OG_Z_20_11)).
 
-### 2. Unrichtige Feststellung des Sachverhaltes (lit. b)
+* **Praxisfrage: Rügepflicht in Verfahren unter der Offizial- oder Untersuchungsmaxime**
+  In Verfahren, in welchen die Offizialmaxime oder der uneingeschränkte Untersuchungsgrundsatz gilt (z. B. Kinderbelange im Familienrecht), ist das Berufungsgericht zwar zu einer weitergehenden Sachverhaltserforschung verpflichtet. Dennoch entbindet dies den Berufungskläger nicht gänzlich von seiner Rügepflicht; eine Ausnahme besteht nur bei offensichtlichen und augenscheinlichen Fehlern der Vorinstanz (vgl. Kantonsgericht Basel-Landschaft [Entscheid vom 12. November 2019](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_2019-11-12-zr-1)).
 
-Die **unrichtige Feststellung** des Sachverhalts ist ein **weiterer** Massstab als die "offensichtlich unrichtige Feststellung" bei der Beschwerde (Art. 320 lit. b ZPO). Bei der Berufung genügt eine **blosse Unrichtigkeit** — das Gericht hat den Sachverhalt falsch festgestellt, ohne dass die Fehlleistung offensichtlich (willkürlich) sein muss. Die Rechtsmittelinstanz kann den Sachverhalt **neu feststellen** und eigene Beweise erheben (Art. 317 ZPO — nova).
+* **Praxisfrage: Überprüfung erstinstanzlicher Ermessensentscheide**
+  Rechtlich geschützte Ermessensspielräume der Vorinstanz stellen Rechtsfragen dar. Das Berufungsgericht prüft diese zwar im Rahmen von Art. 310 lit. a ZPO, auferlegt sich dabei aber Zurückhaltung. Es greift nur ein, wenn die erste Instanz ihr Ermessen überschritten, missbraucht oder unzweckmässig ausgeübt hat (vgl. Obergericht Bern [ZK 2015 147 vom 19. Mai 2015](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_ZK_2015_147) E. 2).
 
-## Abgrenzung zur Beschwerde (Art. 320 ZPO)
-
-| Merkmal | Berufung (Art. 310) | Beschwerde (Art. 320) |
-|---|---|---|
-| Anfechtungsobjekt | Berufungsfähige Endentscheide | Nicht berufungsfähige Entscheide |
-| Rechtsanwendung | Unrichtig (lit. a) | Unrichtig (lit. a) — identisch |
-| Sachverhaltsfeststellung | **Unrichtig** (lit. b) | **Offensichtlich** unrichtig (lit. b) |
-| nova | Art. 317 ZPO | Keine entsprechenden Regeln |
-| Prüfungsumfang | Vollständig | Beschränkt |
-
-## Einordnung in die Rechtsprechung
-
-Die Rechtsprechung zu Art. 310 ZPO konzentriert sich auf:
-
-1. **Abgrenzung zur Beschwerde**: Die höhere Schwelle der Beschwerde ("offensichtlich") ist in der Praxis eine der wichtigsten Abgrenzungsfragen.
-2. **Neu-Feststellung des Sachverhalts**: Die Berufungsinstanz kann den Sachverhalt neu feststellen, wenn die erste Instalt ihn unrichtig festgestellt hat. nova sind unter den Voraussetzungen von Art. 317 ZPO zulässig.
-3. **Rechtsanwendung**: Die Berufungsinstanz prüft die Rechtsanwendung vollständig — sie ist nicht an die rechtliche Würdigung der ersten Instanz gebunden.
-
-## Fazit
-
-Art. 310 ZPO ist die zentrale Norm für die Berufungsgründe. Die Berufung ist das ordentliche Rechtsmittel gegen berufungsfähige Endentscheide und hat einen **weiteren Prüfungsrahmen** als die Beschwerde: Während die Sachverhaltsfeststellung bei der Beschwerde nur auf Willkür (offensichtliche Unrichtigkeit) überprüft wird, genügt bei der Berufung eine blosse Unrichtigkeit. Diese Differenzierung reflektiert den Charakter der Berufung als zweite Sachinstanz, in der der Fall vollumfänglich neu überprüft wird.
+*Letzte Aktualisierung: 2026-07-19*

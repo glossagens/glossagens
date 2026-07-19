@@ -1,85 +1,68 @@
-+++
-title = "Rechtsprechung zu Art. 248 ZPO"
-weight = 99
-date = 2026-07-18
-lastmod = "2026-07-18"
-description = "Übersicht der Rechtsprechung zu Art. 248 ZPO — Summarisches Verfahren, Katalog, vorsorgliche Massnahmen."
-tags = ["Rechtsprechung","ZPO","Summarisches Verfahren","vorsorgliche Massnahmen"]
-agent_verified = true
-+++
+---
+title: "Rechtsprechung zu Art. 248 ZPO"
+weight: 99
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Übersicht der Rechtsprechung zu Art. 248 ZPO — Summarisches Verfahren, Aktenschluss, vorsorgliche Massnahmen, klarer Fall."
+tags: ["Rechtsprechung","ZPO","Summarisches Verfahren","vorsorgliche Massnahmen"]
+agent_verified: true
+---
 
 # Rechtsprechung zu Art. 248 ZPO
 
-Art. 248 ZPO regelt das summarische Verfahren, das für die im Gesetz aufgezählten Streitigkeiten zur Anwendung kommt, insbesondere für vorsorgliche Massnahmen. Die zentrale Rechtsprechung des Bundesgerichts befasst sich mit den Grundsätzen des summarischen Verfahrens, der Abgrenzung zum ordentlichen Verfahren, der Beweiserhebung im summarischen Verfahren und dem Rechtsschutz in klaren Fällen.
+Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Obergerichtsentscheide zu den Anwendungsbereichen des summarischen Verfahrens, den Regeln zum Aktenschluss und der Abgrenzung zu anderen Verfahrensarten dar.
 
 ---
 
 ## I. Leitentscheide
 
-### [BGE 141 III 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_262) (11.8.2015) — Summarischer Rechtsschutz
+### [BGE 139 III 38](https://mcp.opencaselaw.ch/entscheid/bge_139 III 38) (10.01.2013) — Kompetenzordnung und Mieterausweisung
+Die Kantone sind nicht befugt, die gesetzlichen Anwendungsbereiche des summarischen Verfahrens eigenmächtig zu erweitern. Eine Mieterausweisung kann im summarischen Verfahren nur erwirkt werden, wenn die Voraussetzungen eines klaren Falles gemäss Art. 257 ZPO erfüllt sind.
 
-Der Entscheid klärt die Grundsätze des summarischen Rechtsschutzes im Sinne von Art. 248 ZPO. Das Bundesgericht betont, dass das summarische Verfahren eine beschleunigte und vereinfachte Verfahrensart ist, die bei Eilbedürftigkeit zur Anwendung kommt.
+### [BGE 144 III 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_117) (21.02.2018) — Aktenschluss im summarischen Verfahren
+Auch im summarischen Verfahren gilt das Prinzip des Aktenschlusses gemäss Art. 229 ZPO. Neue Tatsachen und Beweismittel sind nach dem ersten Schriftenwechsel bzw. nach der Hauptverhandlung grundsätzlich ausgeschlossen.
 
-### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012) — Summarisches Verfahren
+### [BGE 146 III 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_237) (19.06.2020) — Aktenschluss bei zweitem Schriftenwechsel
+Klärung der in BGE 144 III 117 offengelassenen Frage: Wird im summarischen Verfahren ein zweiter Schriftenwechsel angeordnet, sind darin unbeschränkt Noven zulässig. Der Aktenschluss tritt erst nach dem zweiten Schriftenwechsel ein.
 
-Das Bundesgericht befasst sich mit den Verfahrensgrundsätzen des summarischen Verfahrens. Es hält fest, dass das summarische Verfahren durch eine reduzierte Beweiserhebung und eine vereinfachte Sachverhaltsfeststellung gekennzeichnet ist.
+### [BGE 145 III 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_324) (03.04.2019) — Novenrecht bei Arresteinsprachen
+Zulässigkeit unechter Noven im Beschwerdeverfahren gegen den Arresteinspracheentscheid. Das Bundesgericht bejaht, dass das Zulassen unechter Noven im summarischen Beschwerdeverfahren mit Art. 9 BV vereinbar ist.
 
-### [BGE 138 III 728](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_728) (9.10.2012) — Rechtsschutz in klaren Fällen
+### [BGE 137 III 563](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_563) (16.06.2011) — Handelsgerichtliche Zuständigkeit
+Das Handelsgericht ist sachlich zuständig, vorsorgliche Massnahmen im summarischen Verfahren (wie die vorläufige Eintragung eines Bauhandwerkerpfandrechts) anzuordnen, sofern die Hauptsache handelsrechtlicher Natur ist.
 
-Der Entscheid klärt den Grundsatz des Rechtsschutzes in klaren Fällen. Das Bundesgericht hält fest, dass in klaren Fällen ein summarisches Verfahren nicht notwendig ist und ein sofortiger Endentscheid ergehen kann.
-
-### [BGE 144 III 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_117) (21.2.2018) — Summarisch und unbestritten
-
-Das Bundesgericht befasst sich mit der Beweiserhebung im summarischen Verfahren bei unbestrittenen Tatsachen. Es hält fest, dass unbestrittene Tatsachen ohne weitere Beweiserhebung als wahr zu unterstellen sind.
-
-### [BGE 146 III 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_237) (19.6.2020) — Aktenschluss und summarisches Verfahren
-
-Der Entscheid klärt die Frage des Aktenschlusses im summarischen Verfahren. Das Bundesgericht betont, dass der Aktenschluss auch im summarischen Verfahren gilt, dass aber ausnahmsweise neue Beweise zugelassen werden können, wenn die Eilbedürftigkeit dies erfordert.
+### [BGE 149 III 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_249) (18.11.2020) — Anerkennung ausländischer Konkursdekrete
+Entscheide über die Anerkennung ausländischer Konkursdekrete ergehen im summarischen Verfahren, können jedoch nicht gestützt auf Art. 256 Abs. 2 ZPO nachträglich aufgehoben werden.
 
 ---
 
-## II. Weitere BGer-Entscheide
+## II. Weitere Entscheide
 
-### [BGE 108 II 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_II_65) (23.2.1982) — Summarisches Verfahren altes Recht
+### [BGer 5A_925/2021](https://mcp.opencaselaw.ch/entscheid/bger_5A_925_2021) (02.03.2023) — Revision im summarischen Verfahren
+Behandelt die Rechtsmittelzulässigkeit und die Möglichkeit der Einreichung eines Revisionsbegehrens gegen Entscheide, die im summarischen Anerkennungsverfahren ergangen sind.
 
-Der Entscheid stammt aus der Zeit vor der ZPO und befasst sich mit den Grundsätzen des summarischen Verfahrens nach kantonalem Recht. Er ist für die Auslegung der übergreifenden Grundsätze des summarischen Verfahrens von Bedeutung.
+### [BGer 5A_453/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_453_2011) (09.12.2011) — Abgrenzung vorsorglicher Massnahmen
+Die Zuständigkeit des Handelsgerichts für vorsorgliche Massnahmen vor Rechtshängigkeit der Hauptklage beurteilt sich nach den allgemeinen Regeln des summarischen Verfahrens gemäss Art. 248 ZPO.
 
-### [BGer 4D_71/2007](https://mcp.opencaselaw.ch/entscheid/bger_4D_71_2007) (7.2.2008) — Summarisches Verfahren
+### [Obergericht Zürich LF110065](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_LF110065, HE110333) (14.06.2011) — Bauhandwerkerpfandrecht vor Handelsgericht
+Zuständigkeitskonflikt zwischen dem Einzelgericht des Bezirksgerichts und dem Handelsgericht bei der Anordnung der vorläufigen Eintragung eines Bauhandwerkerpfandrechts im summarischen Verfahren.
 
-Das Bundesgericht befasst sich mit der Anwendung des summarischen Verfahrens in einem internationalen Zusammenhang. Es hält fest, dass die Grundsätze des summarischen Verfahrens auch bei internationalem Bezug anwendbar sind.
+### [Obergericht Bern ZK 2008 241](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_ZK_2008_241) (09.05.2008) — Aufschiebende Wirkung bei vorsorglicher Beweisführung
+Gemäss Art. 264a Abs. 4 i.V.m. Art. 248 ZPO kommt der Weiterziehung eines vorsorglichen Beweisführungsentscheides (z. B. DNA-Gutachten) die aufschiebende Wirkung zu.
 
-### [BGE 138 III 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_166) (7.3.2012) — Summarisch und Beweis
+### [Obergericht Thurgau RBOG 2021 Nr. 5](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2021_Nr._5) (28.01.2021) — Gehörsrecht in der freiwilligen Gerichtsbarkeit
+Im Verfahren der freiwilligen Gerichtsbarkeit (Art. 248 lit. e ZPO) dürfen Kosten nicht ohne vorherige Anhörung der betroffenen Partei auferlegt werden (Verletzung des rechtlichen Gehörs).
 
-Der Entscheid klärt die Grundsätze der Beweiserhebung im summarischen Verfahren. Das Bundesgericht hält fest, dass im summarischen Verfahren eine beweiswürdigungsfreie Beweiserhebung erfolgt und das Gericht nach freier Überzeugung entscheidet.
+### [BGer 4A_495/2012](https://mcp.opencaselaw.ch/entscheid/bger_4A_495_2012) (10.01.2013) — Ausweisung und klarer Fall
+Bestätigung, dass die mietrechtliche Ausweisung nur dann im summarischen Verfahren behandelt werden darf, wenn kein vertiefter Beweisbedarf vorliegt.
 
-### [BGE 138 III 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_130) (7.3.2012) — Vorsorgliche Massnahmen
+### [Kantonsgericht Wallis C2 11 404](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C2 11 404) (13.12.2011) — Expulsion und Verfahrensarten
+Darstellung der verschiedenen anwendbaren Verfahrensarten im Mietrecht und Begrenzung des summarischen Verfahrens auf liquide Sachverhalte.
 
-Das Bundesgericht befasst sich mit den Voraussetzungen für den Erlass vorsorglicher Massnahmen im summarischen Verfahren. Es betont, dass vorsorgliche Massnahmen nur bei Glaubhaftmachung der Anspruchsvoraussetzungen und der Eilbedürftigkeit erlassen werden.
+### [BGE 140 III 610](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_610) (19.11.2014) — Sonderprüfung im summarischen Verfahren
+Das Gesuch um Sonderprüfung gemäss Art. 697a OR unterliegt als gesetzlich bestimmte Angelegenheit (Art. 248 lit. a ZPO) dem summarischen Verfahren.
 
-### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014) — Vorsorgliche Massnahmen
+### [BGer 4A_273/2012](https://mcp.opencaselaw.ch/entscheid/bger_4A_273_2012) (30.10.2012) — Beweismittelbeschränkung
+Das summarische Verfahren zeichnet sich durch die Beschränkung der Beweismittel aus. Gemäss Art. 254 ZPO ist der Beweis primär durch Urkunden zu erbringen.
 
-Der Entscheid klärt die Frage, wann vorsorgliche Massnahmen im summarischen Verfahren aufzuheben sind. Das Bundesgericht hält fest, dass vorsorgliche Massnahmen bei Wegfall der Voraussetzungen aufzuheben sind und dass die Aufhebung im summarischen Verfahren zu erfolgen hat.
-
-### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015) — Offizialgrundsatz und summarisches Verfahren
-
-Das Bundesgericht befasst sich mit der Tragweite des Offizialgrundsatzes im summarischen Verfahren. Es hält fest, dass der Offizialgrundsatz im summarischen Verfahren eingeschränkt gilt und das Gericht nicht verpflichtet ist, den Sachverhalt von Amtes wegen weiter abzuklären.
-
-### [BGE 142 III 515](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_515) (13.7.2016) — Nichteintreten und summarisches Verfahren
-
-Der Entscheid klärt die Frage, wann im summarischen Verfahren auf Nichteintreten zu erkennen ist. Das Bundesgericht hält fest, dass das Nichteintreten im summarischen Verfahren die Ausnahme ist und nur bei offensichtlichem Fehlen der Prozessvoraussetzungen erfolgt.
-
-### [BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31.8.2021) — Verfahrensgrundsätze
-
-Das Bundesgericht stellt die übergreifenden Verfahrensgrundsätze des summarischen Verfahrens dar. Es betont, dass das summarische Verfahren durch eine beschleunigte Verfahrensführung und eine vereinfachte Sachverhaltsfeststellung gekennzeichnet ist.
-
-### [BGE 150 III 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_257) (22.5.2024) — Mietrecht und summarisches Verfahren
-
-Der Entscheid befasst sich mit der Anwendung des summarischen Verfahrens im Mietrecht. Das Bundesgericht hält fest, dass mietrechtliche Streitigkeiten im summarischen Verfahren zu behandeln sind, sofern das Gesetz nichts Abweichendes vorsieht.
-
-### [BGE 143 III 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_137) (11.10.2016) — Vereinfachtes Verfahren
-
-Das Bundesgericht klärt die Abgrenzung zwischen dem summarischen und dem vereinfachten Verfahren. Es hält fest, dass das vereinfachte Verfahren für Streitigkeiten bis zu einem bestimmten Streitwert gilt, während das summarische Verfahren für bestimmte Verfahrensarten massgebend ist.
-
----
-
-*Letzte Aktualisierung: 2026-07-18*
+*Letzte Aktualisierung: 2026-07-19*

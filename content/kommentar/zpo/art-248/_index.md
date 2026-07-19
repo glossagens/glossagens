@@ -1,10 +1,10 @@
 ---
-title: "Art. 248 ZPO — Grundsatz (summarisches Verfahren)"
+title: "Art. 248 ZPO — Grundsatz (Summarisches Verfahren)"
 weight: 248
-date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Kommentar zu Art. 248 ZPO: Grundsatz des summarischen Verfahrens — Katalog der Anwendungsfälle, vorsorgliche Massnahmen, freiwillige Gerichtsbarkeit."
-tags: ["ZPO", "Summarisches Verfahren", "vorsorgliche Massnahmen", "freiwillige Gerichtsbarkeit", "Rechtsschutz"]
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — Rechtsschutz in klaren Fällen, vorsorgliche Massnahmen, Besitzesschutz."
+tags: ["ZPO", "Summarisches Verfahren", "vorsorgliche Massnahmen", "klarer Fall", "Besitzesschutz"]
 agent_verified: true
 ---
 
@@ -15,47 +15,42 @@ agent_verified: true
 > Das summarische Verfahren ist anwendbar:
 > **a.** in den vom Gesetz bestimmten Fällen;
 > **b.** für den Rechtsschutz in klaren Fällen;
-> **c.** für das gerichtliche Verbot und die gerichtliche Verfügung;
+> **c.** für das gerichtliche Verbot und die gerichtliche Verfügung;*
 > **d.** für die vorsorglichen Massnahmen;
 > **e.** für die Angelegenheiten der freiwilligen Gerichtsbarkeit.
+>
+> \* *Fassung gemäss Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 (AS 2026 16; BBl 2024 116).*
 {: .gesetzeszitat}
 
 ## Überblick und Bedeutung
 
-Art. 248 ZPO ist die **Grundsatznorm** des summarischen Verfahrens. Er enthält den **Katalog** der Angelegenheiten, die im summarischen Verfahren zu erledigen sind. Das summarische Verfahren zeichnet sich durch **vereinfachte Formvorschriften**, **kurze Fristen** und eine **summarische Beweiswürdigung** (Glaubhaftmachung statt strenger Beweis) aus. Die Norm ist von herausragender praktischer Bedeutung, da ein grosser Teil der zivilprozessualen Verfahren summarisch abgewickelt wird — insbesondere vorsorgliche Massnahmen, Rechtsschutz in klaren Fällen und Angelegenheiten der freiwilligen Gerichtsbarkeit.
+Art. 248 ZPO umschreibt den generellen Anwendungsbereich des **summarischen Verfahrens**. Das summarische Verfahren ist eine eigenständige, auf Beschleunigung und Vereinfachung ausgerichtete Verfahrensart. Gekennzeichnet ist es durch eine reduzierte Förmlichkeit, den Ausschluss bestimmter Beweismittel (in der Regel sind nur Urkunden zulässig, Art. 254 ZPO) und ein herabgesetztes Beweismass (Glaubhaftmachung bei vorsorglichen Massnahmen).
 
-Die Bestimmung wurde durch das Bundesgesetz vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken) leicht angepasst (in Kraft seit 1. Juli 2026).
+Die Bestimmung wurde per 1. Juli 2026 revidiert, um den Besitzesschutz bei verbotener Eigenmacht an Grundstücken (lit. c) explizit dem summarischen Verfahren zu unterstellen und so einen schnellen Rechtsschutz gegen widerrechtliche Besetzungen oder Störungen zu gewährleisten.
 
-## Anwendungsfälle (lit. a–e)
+## Die Anwendungsbereiche (lit. a–e)
 
-### a. Vom Gesetz bestimmte Fälle
+### 1. Vom Gesetz bestimmte Fälle (lit. a)
+Zahlreiche Bestimmungen verweisen für spezifische Streitigkeiten auf das summarische Verfahren. Prominente Beispiele sind mietrechtliche Streitigkeiten bezüglich Hinterlegung oder Untermiete (Art. 250 lit. a ZPO) sowie betreibungsrechtliche Streitigkeiten wie die Rechtsöffnung (Art. 251 ZPO). Die Kantone sind nicht befugt, den Katalog der Summarsachen eigenmächtig zu erweitern ([BGE 139 III 38](https://mcp.opencaselaw.ch/entscheid/bge_139_III_38) E. 2.3).
 
-Das Gesetz kann ausdrücklich das summarische Verfahren für bestimmte Angelegenheiten vorsehen. Beispiele: Schuldbetreibungs- und Konkursrechtliche Streitigkeiten, mietrechtliche Streitigkeiten (Art. 243 Abs. 2 lit. c ZPO — vereinfachtes Verfahren), arbeitsrechtliche Streitigkeiten.
+### 2. Rechtsschutz in klaren Fällen (lit. b)
+Ermöglicht einen raschen Endentscheid, wenn der Sachverhalt unbestritten oder sofort beweisbar (liquide) ist und die Rechtslage absolut klar ist (Art. 257 ZPO).
 
-### b. Rechtsschutz in klaren Fällen
+### 3. Gerichtlichs Verbot / Besitzesschutz (lit. c)
+Erfasst das gerichtliche Verbot bei Besitzesstörung (Art. 258 ZPO) sowie – neu seit 1. Juli 2026 – den beschleunigten Schutz gegen verbotene Eigenmacht an Grundstücken.
 
-Der **Rechtsschutz in klaren Fällen** (Art. 257 ZPO) ist anwendbar, wenn der Sachverhalt unbestritten oder sofort beweisbar ist und die Rechtslage klar ist. Diese Fälle erfordern kein ordentliches Verfahren und können summarisch erledigt werden.
+### 4. Vorsorgliche Massnahmen (lit. d)
+Dienen dem vorläufigen Rechtsschutz zur Sicherung gefährdeter Ansprüche für die Dauer des Hauptprozesses (Art. 261 ZPO). Die sachliche Zuständigkeit des Handelsgerichts erstreckt sich auch auf vorsorgliche Massnahmen vor Rechtshängigkeit der Hauptklage ([BGE 137 III 563](https://mcp.opencaselaw.ch/entscheid/bge_137_III_563) E. 2).
 
-### c. Gerichtliches Verbot und gerichtliche Verfügung
+### 5. Freiwillige Gerichtsbarkeit (lit. e)
+Verfahren, in denen kein kontradiktorischer Parteienstreit vorliegt (z.B. Erbgangsschulden, Verschollenheitserklärung).
 
-Das **gerichtliche Verbot** (Art. 265 ZPO) und die **gerichtliche Verfügung** (Art. 266 ZPO) sind einstweilige Anordnungen, die der Prävention oder der Durchsetzung von Unterlassungsansprüchen dienen. Sie werden im summarischen Verfahren erlassen.
+## Praxisfragen
 
-### d. Vorsorgliche Massnahmen
+* **Praxisfrage: Mieterausweisung ausserhalb des klaren Falles**
+  Eine Mieterausweisung kann im summarischen Verfahren einzig über den "Rechtsschutz in klaren Fällen" gemäss Art. 257 ZPO verlangt werden. Ist der Sachverhalt oder die Rechtslage umstritten, ist das summarische Verfahren unzulässig. Die Kantone dürfen die Ausweisung nicht generell dem summarischen Verfahren unterstellen ([BGE 139 III 38](https://mcp.opencaselaw.ch/entscheid/bge_139_III_38) E. 2.3).
 
-Die **vorsorglichen Massnahmen** (Art. 261 ff. ZPO) sind die wichtigste Anwendung des summarischen Verfahrens. Sie dienen der Sicherung von Rechten vor der ordentlichen Beurteilung der Streitsache. Voraussetzungen: **Glaubhaftmachung** eines Anspruchs, **Drohender Nachteil** und **Interessenabwägung**. Die Massnahme ist **vorläufig** und kann im ordentlichen Verfahren aufgehoben oder geändert werden.
+* **Praxisfrage: Aktenschluss im summarischen Verfahren**
+  Obwohl das summarische Verfahren rasch durchgeführt wird, gilt auch hier das Prinzip des Aktenschlusses gemäss Art. 229 ZPO. Neue Tatsachen und Beweismittel (Noven) sind nach der Hauptverhandlung bzw. nach dem zweiten Schriftenwechsel grundsätzlich ausgeschlossen, es sei denn, es liegen die Voraussetzungen von echten oder unechten Noven vor ([BGE 144 III 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_117) E. 2).
 
-### e. Freiwillige Gerichtsbarkeit
-
-Die **Angelegenheiten der freiwilligen Gerichtsbarkeit** (Art. 383 ff. ZPO) umfassen unter anderem Vormundschafts- und Beistandschaftssachen, Todesfallerklärungen, Entmündigungen, Öffentlichkeitsregister. Diese Verfahren sind nicht streitig im engeren Sinne, erfordern aber eine gerichtliche Anordnung.
-
-## Charakteristika des summarischen Verfahrens
-
-- **Vereinfachte Form**: Kein formeller Schriftenwechsel, mündliche Klage zu Protokoll möglich
-- **Kurze Fristen**: 10 Tage für Beschwerde (Art. 321 Abs. 2 ZPO)
-- **Glaubhaftmachung**: Statt strenger Beweis genügt Glaubhaftmachung (Art. 254 ZPO)
-- **Kostenvorschuss**: Vollvorschuss nach Art. 98 Abs. 2 lit. c ZPO (ausser vorsorgliche Massnahmen und familienrechtliche Streitigkeiten)
-- **Kein Offizialgrundsatz**: Das summarische Verfahren unterliegt dem Dispositionsgrundsatz (Art. 58 ZPO), ausser in familienrechtlichen Angelegenheiten (Art. 135 ZPO)
-
-## Fazit
-
-Art. 248 ZPO ist die Grundsatznorm des summarischen Verfahrens. Der Katalog von lit. a–e erfasst die wichtigsten Anwendungsfälle: gesetzlich bestimmte Fälle, Rechtsschutz in klaren Fällen, gerichtliche Verbote und Verfügungen, vorsorgliche Massnahmen und Angelegenheiten der freiwilligen Gerichtsbarkeit. Das summarische Verfahren zeichnet sich durch vereinfachte Formvorschriften, kurze Fristen und eine summarische Beweiswürdigung aus. Es ist ein zentrales Instrument für den schnellen Rechtsschutz in dringenden oder klaren Angelegenheiten.
+*Letzte Aktualisierung: 2026-07-19*

@@ -1,9 +1,9 @@
 ---
 title: "Art. 321 ZPO — Einreichen der Beschwerde"
 weight: 321
-date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Kommentar zu Art. 321 ZPO: Einreichen der Beschwerde — Fristen (30 Tage/10 Tage), Form, Begründung, Rechtsverzögerung. Revision 2023."
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Kommentar zu Art. 321 ZPO: Einreichen der Beschwerde — Fristen (30 Tage/10 Tage), Form, Begründung, Revision 2023."
 tags: ["ZPO", "Beschwerde", "Beschwerdefrist", "Rechtsmittel", "Fristen", "Revision 2023"]
 agent_verified: true
 ---
@@ -23,42 +23,29 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 321 ZPO regelt das **Einreichen der Beschwerde** — Fristen, Form und Begründungspflicht. Die Norm unterscheidet zwischen der **regelmässigen Beschwerdefrist** von 30 Tagen (Abs. 1) und der **kurzen Beschwerdefrist** von 10 Tagen (Abs. 2) für summarische Verfahren, prozessleitende Verfügungen und andere erstinstanzliche Entscheide. Die Differenzierung reflektiert das Bedürfnis nach **schneller Erledigung** bei prozessualen Entscheiden, die den Fortgang des Verfahrens beeinflussen.
+Art. 321 ZPO regelt die formellen Modalitäten, Fristen und Begründungsanforderungen für die Einreichung der Beschwerde. Die Beschwerde ist ein **subsidiäres, unvollkommenes Rechtsmittel**. Sie unterscheidet sich von der Berufung insbesondere durch die verkürzten Fristen für prozessleitende Verfügungen und Entscheide im summarischen Verfahren (Abs. 2) sowie durch die eingeschränkte Kognition (keine freie Sachverhaltskontrolle, Art. 320 ZPO).
 
-Die Bestimmung wurde durch das Bundesgesetz vom 17. März 2023 ("Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung") revidiert (in Kraft seit 1. Januar 2025). Die Revision brachte eine **Verkürzung** der Frist für summarische Verfahren und prozessleitende Verfügungen von 30 auf 10 Tage — bezweckt eine schnellere Verfahrensführung.
+Durch die ZPO-Revision vom 17. März 2023 (in Kraft seit 1. Januar 2025) wurde Art. 321 Abs. 2 ZPO dahingehend präzisiert, dass die zehntägige Beschwerdefrist einheitlich für alle im summarischen Verfahren ergangenen Entscheide sowie für prozessleitende Verfügungen gilt.
 
-## Fristen
+## Fristen (Abs. 1 & 2)
 
-### Regelmässige Frist: 30 Tage (Abs. 1)
+* **Ordentliche Frist (30 Tage):** Gilt gemäss Abs. 1 für erstinstanzliche Endentscheide in Hauptverfahren (ordentliches und vereinfachtes Verfahren).
+* **Kurze Frist (10 Tage):** Gilt gemäss Abs. 2 für prozessleitende Verfügungen sowie sämtliche Entscheide, die im summarischen Verfahren ergangen sind (einschliesslich vorsorglicher Massnahmen).
+* **Fristlose Beschwerde (Abs. 4):** Gegen Rechtsverzögerung oder Rechtsverweigerung (Art. 319 lit. c ZPO) kann die Beschwerde jederzeit eingereicht werden.
 
-Die reguläre Beschwerdefrist beträgt **30 Tage** ab Zustellung des **begründeten Entscheides**. Die Frist beginnt mit der Zustellung des vollständigen Entscheids (inkl. Begründung). Wird die Begründung nachträglich zugestellt (Art. 239 ZPO), beginnt die Frist mit der nachträglichen Zustellung.
+## Formelle Anforderungen (Abs. 1 & 3)
 
-### Kurze Frist: 10 Tage (Abs. 2)
+Die Beschwerde muss **schriftlich** und **begründet** eingereicht werden. Der Kläger hat konkrete Rechtsbegehren (Anträge) zu stellen und präzise darzulegen, welche Rechtsverletzung oder offensichtlich unrichtige Sachverhaltsfeststellung der Vorinstanz vorgeworfen wird. Dem Gesuch ist der angefochtene Entscheid beizulegen (Abs. 3).
 
-In folgenden Fällen beträgt die Beschwerdefrist **10 Tage**:
+## Praxisfragen
 
-- **Summarische Verfahren**: Entscheide, die im summarischen Verfahren ergangen sind (Art. 248 ff. ZPO) — einschliesslich vorsorglicher Massnahmen
-- **Prozessleitende Verfügungen**: Verfügungen des Gerichts, die den Verfahrensablauf regeln (Art. 319 lit. b ZPO)
-- **Andere erstinstanzliche Entscheide**: Nicht-Endentscheide, die nicht im summarischen Verfahren ergangen sind
+* **Praxisfrage: Frist zur Kostenbeschwerde bei gemischten Entscheiden**
+  Ergeht der Kosten- oder Entschädigungsentscheid zusammen mit dem Endentscheid in einem ordentlichen Verfahren (Hauptentscheid), so beträgt die Frist zur Anfechtung des Kostenspruchs (Kostenbeschwerde) 30 Tage. Wird der Kostenentscheid oder der Entscheid über die unentgeltliche Rechtspflege jedoch separat gefällt, handelt es sich um eine prozessleitende Verfügung im summarischen Verfahren, und die Beschwerdefrist beträgt zwingend 10 Tage (vgl. Obergericht Uri [2014_OG Z 13 8 vom 24. Januar 2014](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_2014_OG_Z_13_8) und Kantonsgericht St. Gallen [BE.2012.42 vom 27. September 2012](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BE.2012.42)).
 
-**Ausnahme**: Wenn das Gesetz ausdrücklich etwas anderes bestimmt, gilt nicht die 10-Tage-Frist. Beispiele: Art. 319a ZPO (Rechtsverzögerung) und spezielle Fristen in familienrechtlichen Verfahren.
+* **Praxisfrage: Bezifferungspflicht der Kostenbeschwerde**
+  Bei der selbständigen Kostenbeschwerde gilt eine strenge Rüge- und Begründungspflicht. Der Beschwerdeführer muss das Begehren beziffern und den abweichenden Verteilschlüssel oder den geforderten Betrag im Rechtsbegehren konkret benennen; ein blosser Antrag auf "angemessene Reduktion" genügt den gesetzlichen Anforderungen an die Begründungspflicht nicht (vgl. Kantonsgericht St. Gallen [BE.2013.4-6 vom 17. September 2013](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_BE.2013.4-6)).
 
-### Rechtsverzögerung: jederzeit (Abs. 4)
+* **Praxisfrage: Fristwahrung bei Einreichung bei unzuständiger Behörde**
+  Die Einreichung einer Beschwerde bei einer sachlich oder funktionell unzuständigen Behörde wahrt die Rechtsmittelfrist, wenn die Eingabe vor Ablauf der Frist dort eintrifft. Das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet der unzuständigen Behörde die Weiterleitung an die zuständige Rechtsmittelinstanz ([BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636)).
 
-Gegen **Rechtsverzögerung** (Art. 319 lit. c ZPO) kann **jederzeit** Beschwerde eingereicht werden — es gibt keine Frist. Voraussetzung ist, dass zuvor eine Fristansetzung nach Art. 319a ZPO verlangt wurde und diese fruchtlos verstrichen ist.
-
-## Form und Begründung
-
-Die Beschwerde ist **schriftlich** und **begründet** einzureichen (Abs. 1). Die Begründung muss die Beschwerdegründe (Art. 320 ZPO) darlegen — unrichtige Rechtsanwendung und offensichtlich unrichtige Sachverhaltsfeststellung. Eine **unbegründete Beschwerde** ist unzulässig (Nichteintreten).
-
-## Beilegung des angefochtenen Entscheids (Abs. 3)
-
-Der angefochtene Entscheid oder die angefochtene prozessleitende Verfügung ist **beizulegen**, soweit die Partei sie in Händen hat. Die Pflicht bezieht sich nur auf Dokumente, die der Partei **tatsächlich vorliegen** — eine Pflicht zur Beschaffung besteht nicht.
-
-## Revision 2023
-
-Die Revision von Art. 321 Abs. 2 ZPO durch das Bundesgesetz vom 17. März 2023 (in Kraft seit 1. Januar 2025) hat die Beschwerdefrist für summarische Verfahren und prozessleitende Verfügungen von 30 auf **10 Tage** verkürzt. Bezweckt ist eine schnellere Verfahrensführung — insbesondere bei vorsorglichen Massnahmen und prozessleitenden Verfügungen, die einer schnellen Überprüfung bedürfen.
-
-## Fazit
-
-Art. 321 ZPO regelt das Einreichen der Beschwerde — Fristen, Form und Begründung. Die **regelmässige Frist** von 30 Tagen gilt für Endentscheide, die **kurze Frist** von 10 Tagen (seit 2025) gilt für summarische Verfahren, prozessleitende Verfügungen und andere erstinstanzliche Entscheide. Gegen Rechtsverzögerung kann jederzeit Beschwerde eingereicht werden. Die Revision von 2023 hat die kurze Frist von 30 auf 10 Tage verkürzt, um eine schnellere Verfahrensführung zu ermöglichen. Die Beschwerde ist schriftlich und begründet einzureichen — eine unbegründete Beschwerde wird nicht entgegengenommen.
+*Letzte Aktualisierung: 2026-07-19*

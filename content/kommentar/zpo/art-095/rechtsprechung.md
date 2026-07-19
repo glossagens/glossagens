@@ -1,85 +1,68 @@
-+++
-title = "Rechtsprechung zu Art. 95 ZPO"
-weight = 99
-date = 2026-07-18
-lastmod = "2026-07-18"
-description = "Übersicht der Rechtsprechung zu Art. 95 ZPO — Prozesskosten, Gerichtskosten, Parteientschädigung."
-tags = ["Rechtsprechung","ZPO","Prozesskosten","Gerichtskosten","Parteientschädigung"]
-agent_verified = true
-+++
+---
+title: "Rechtsprechung zu Art. 95 ZPO"
+weight: 99
+date: 2026-07-19
+lastmod: "2026-07-19"
+description: "Übersicht der Rechtsprechung zu Art. 95 ZPO — Begriffe der Prozesskosten, Gerichtskosten, Parteientschädigung, Umtriebsentschädigung."
+tags: ["Rechtsprechung","ZPO","Prozesskosten","Gerichtskosten","Parteientschädigung"]
+agent_verified: true
+---
 
 # Rechtsprechung zu Art. 95 ZPO
 
-Art. 95 ZPO regelt die Verteilung der Prozesskosten, die Erhebung der Gerichtskosten und die Parteientschädigung. Die zentrale Rechtsprechung des Bundesgerichts befasst sich mit dem Unterliegensprinzip, der Kostenverteilung in Familienverfahren, der Parteientschädigung im Beschwerdeverfahren und den Verfahrensgrundsätzen der Kostenregelung.
+Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Obergerichtsentscheide zu den Begriffen der Prozesskosten, der Erstattungsfähigkeit von Anwaltsgebühren und den Kriterien der Umtriebsentschädigung dar.
 
 ---
 
 ## I. Leitentscheide
 
-### [BGE 148 III 182](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_182) (8.2.2022) — Verteilung der Prozesskosten
+### [BGE 144 III 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_164) (13.02.2018) — Notwendigkeit der anwaltlichen Vertretung
+Bei der Festlegung der Parteientschädigung (Art. 95 Abs. 3 lit. b ZPO) darf die gerichtliche Instanz grundsätzlich nicht überprüfen, ob der Beizug einer berufsmässigen Vertretung als solche notwendig war. Die Notwendigkeit wird vermutet, und die Bemessung des Aufwands erfolgt im Rahmen des kantonalen Tarifs.
 
-Der Entscheid klärt die Grundsätze der Verteilung der Prozesskosten nach Art. 95 ZPO. Das Bundesgericht betont, dass das Unterliegensprinzip massgebend ist, dass aber in Ausnahmefällen eine andere Verteilung erfolgen kann, wenn besondere Umstände dies rechtfertigen.
+### [BGE 139 III 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_334) (08.07.2013) — Gerichtskosten bei Nichteintreten mangels Vorschuss
+Es ist zulässig und verfassungskonform, das Nichteintreten auf eine Klage wegen nicht rechtzeitig geleisteter Vorschüsse (Art. 95 Abs. 2 lit. b i.V.m. Art. 59 Abs. 2 lit. f ZPO) mit einer Gerichtsgebühr zu belasten.
 
-### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013) — Kostenverteilung Scheidung
+### [BGE 142 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_153) (08.09.2010) — Entschädigung des Kindesvertreters
+Die Bemessung der Kosten für den verordneten Kindesvertreter (Art. 95 Abs. 2 lit. e ZPO) richtet sich nach dem notwendigen Aufwand des Vertreters. Die kantonalen Tarife für die Vertretung müssen eine angemessene Abgeltung dieses Aufwands sicherstellen.
 
-Das Bundesgericht befasst sich mit der Kostenverteilung im Scheidungsverfahren. Es hält fest, dass in Familienverfahren nach Art. 95 Abs. 3 ZPO die Kosten nach Ermessen verteilt werden können und das Unterliegensprinzip nicht zwingend anwendbar ist.
+### [BGE 137 III 470](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_470) (20.01.2011) — Kostenlose Verfahren
+Die Kostenlosigkeit gemäss Art. 119 Abs. 6 ZPO betrifft einzig das erstinstanzliche Verfahren zur Bewilligung der unentgeltlichen Rechtspflege, nicht hingegen das Beschwerdeverfahren gegen deren Abweisung. In diesem Rechtsmittelverfahren fallen ordentliche Gerichtskosten nach Art. 95 Abs. 2 ZPO an.
 
-### [BGE 142 III 110](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_110) (21.12.2015) — Parteientschädigung
+### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (07.01.2013) — Kostenverteilung bei Rückzug im Scheidungsprozess
+Bei Rückzug der Scheidungsklage sind die Prozesskosten nach Art. 95 ZPO im Rahmen der Kostenverteilung (Art. 106 ZPO) grundsätzlich der klagenden Partei aufzuerlegen, da der Kläger durch den Rückzug als unterliegende Partei zu behandeln ist.
 
-Der Entscheid konkretisiert die Voraussetzungen der Parteientschädigung im Zivilprozess. Das Bundesgericht betont, dass die Parteientschädigung nur für notwendigen Aufwand geschuldet wird und dass der Umfang der Vertretung nach dem Umfang des Verfahrens zu bemessen ist.
-
-### [BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31.8.2021) — Verfahrensgrundsätze Kosten
-
-Das Bundesgericht stellt die übergreifenden Verfahrensgrundsätze der Kostenregelung dar. Es betont, dass die Kostenverteilung Teil des Dispositivs ist und gesondert mit Rechtsmitteln angefochten werden kann, sofern der Streitwert den Einspruch rechtfertigt.
-
-### [BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (7.5.2014) — Unnötige Kosten
-
-Der Entscheid befasst sich mit der Frage, wann Prozesskosten als unnötig entstehen und wer sie zu tragen hat. Das Bundesgericht hält fest, dass die Partei, die durch ihr Verhalten unnötige Kosten verursacht, diese alleine zu tragen hat.
+### [BGE 148 III 182](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_182) (08.02.2022) — Kosten im Zwischenverfahren
+Für die Beurteilung des Obsiegens und Unterliegens bei der endgültigen Verteilung der Prozesskosten gemäss Art. 95 ZPO bleibt der Ausgang von blossen Zwischenverfahren (z.B. Streitigkeiten über die Vorschusshöhe) ausser Betracht.
 
 ---
 
-## II. Weitere BGer-Entscheide
+## II. Weitere Entscheide
 
-### [BGer 4A_45/2013](https://mcp.opencaselaw.ch/entscheid/bger_4A_45_2013) (6.6.2013) — Parteientschädigung
+### [BGer 4A_436/2023](https://mcp.opencaselaw.ch/entscheid/bger_4A_436_2023) (06.12.2023) — Anforderungen an die Umtriebsentschädigung
+Das Bundesgericht betont, dass das Zusprechen einer Umtriebsentschädigung (Art. 95 Abs. 3 lit. c ZPO) eine Ausnahme darstellt und vom Gesuchsteller substantiiert begründet und nachgewiesen werden muss.
 
-Das Bundesgericht befasst sich mit der Bemessung der Parteientschädigung in einem arbeitsrechtlichen Verfahren. Es hält fest, dass die Parteientschädigung nach dem objektiven Aufwand zu bemessen ist und nicht nach den tatsächlich angefallenen Kosten der Partei.
+### [Handelsgericht St. Gallen HG.2023.6-HGK](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_HG.2023.6-HGK) (02.07.2024) — Entschädigung von angestellten Juristen
+Angestellte Juristen einer Partei (z. B. Rechtsabteilungen) gelten nicht als berufsmässige Vertreter im Sinne von Art. 95 Abs. 3 lit. b ZPO. Ein Anspruch auf Entschädigung kann nur unter den restriktiven Bedingungen einer Umtriebsentschädigung nach lit. c geprüft werden.
 
-### [BGE 85 I 140](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_I_140) (17.6.1959) — Kosten altes Recht
+### [Obergericht Bern ZK 2015 221](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_ZK_2015_221) (07.09.2015) — Anwalt in eigener Sache
+Führt ein Rechtsanwalt ein Verfahren in eigener Sache, steht ihm eine Parteientschädigung nach Art. 95 Abs. 3 lit. b ZPO zu, da er durch den Prozess an der Ausübung seiner regulären Erwerbstätigkeit gehindert wird.
 
-Der Entscheid stammt aus der Zeit vor der ZPO und befasst sich mit der Kostenverteilung nach kantonalem Recht. Er ist für die Auslegung der übergreifenden Grundsätze der Kostenverteilung von Bedeutung, auch wenn die konkreten Normen heute nicht mehr anwendbar sind.
+### [BGer 4A_233/2017](https://mcp.opencaselaw.ch/entscheid/bger_4A_233_2017) (28.09.2017) — Umtriebsentschädigung für Rechtsabteilungen von Versicherungen
+Rechtsabteilungen grosser Institutionen (wie Versicherungen) haben grundsätzlich keinen Anspruch auf eine Umtriebsentschädigung gemäss Art. 95 Abs. 3 lit. c ZPO, es sei denn, es liegt ein ausserordentlicher, den üblichen administrativen Aufwand übersteigender Fall vor.
 
-### [BGer 4A_442/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_442_2021) (8.2.2022) — Prozesskosten
+### [Kantonsgericht Wallis C3 12 55](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C3 12 55) (21.08.2012) — Kantonale Tarife
+Die Festlegung der Prozesskosten (Gerichtskosten und Parteientschädigung) erfolgt von Amtes wegen. Die Bemessung und Höhe richten sich mangels bundesrechtlicher Tarife nach den jeweiligen kantonalen Kostengesetzen (Art. 96 ZPO).
 
-Das Bundesgericht klärt Fragen der Prozesskostenverteilung in einem internationalen Zusammenhang. Es betont, dass die Kostenregelung der ZPO auch bei internationalem Bezug anwendbar ist, sofern nichts Abweichendes vereinbart wurde.
+### [Kantonsgericht Graubünden ZK2 2019 11](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK2 2019 11) (29.08.2019) — Bemessung der Gerichtsgebühr
+Die Gerichtsgebühr (Art. 95 Abs. 2 lit. b ZPO) bemisst sich nach den kantonalen Bestimmungen unter Berücksichtigung des Streitwerts, des Zeitaufwands und der Komplexität des Falls.
 
-### [BGer 5A_278/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_278_2013) (5.7.2013) — Parteientschädigung
+### [Kantonsgericht Luzern 3C 21 2](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3C_21_2) (02.06.2021) — Vertretung durch Kanzleikollegen
+Lässt sich ein Anwalt im Prozess durch einen Partner oder Angestellten seiner eigenen Kanzlei vertreten, gilt dies als berufsmässige Vertretung im Sinne von Art. 95 Abs. 3 lit. b ZPO und begründet eine voll erstattungsfähige Parteientschädigung.
 
-Der Entscheid befasst sich mit der Parteientschädigung in einem Familienverfahren. Das Bundesgericht hält fest, dass die Parteientschädigung in Familienverfahren nach Ermessen zugesprochen werden kann und das Unterliegensprinzip nicht zwingend anwendbar ist.
+### [Obergericht Thurgau RBOG 2018 Nr. 4](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2018_Nr._4) (05.04.2018) — Umtriebsentschädigung im summarischen Verfahren
+Im summarischen Rechtsöffnungsverfahren wird nicht anwaltlich vertretenen Parteien mangels eines ausserordentlichen administrativen Aufwands in der Regel keine Umtriebsentschädigung nach Art. 95 Abs. 3 lit. c ZPO zugesprochen.
 
-### [BGer 5A_619/2015](https://mcp.opencaselaw.ch/entscheid/bger_5A_619_2015) (21.12.2015) — Kosten Familienverfahren
+### [BGer 5A_391/2017](https://mcp.opencaselaw.ch/entscheid/bger_5A_391_2017) (13.02.2018) — Kosten im Rechtsöffnungsverfahren
+Die Höhe der Parteientschädigung für die Vertretung im Rechtsöffnungsverfahren bestimmt sich nach dem kantonalen Anwaltstarif. Das Gericht darf keine pauschale Kürzung vornehmen, die den tatsächlichen Aufwand des Anwalts missachtet.
 
-Das Bundesgericht präzisiert die Kostenverteilung in Familienverfahren. Es betont, dass die Ermessensausübung nach Art. 95 Abs. 3 ZPO sachlich zu begründen ist und dass die Kostenverteilung nicht willkürlich erfolgen darf.
-
-### [BGE 145 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_153) (26.2.2019) — Anschlussberufung und Kosten
-
-Der Entscheid befasst sich mit den Kostenfolgen einer Anschlussberufung. Das Bundesgericht hält fest, dass die Kosten der Anschlussberufung gesondert zu beurteilen sind und dass eine erfolglose Anschlussberufung kostenpflichtig sein kann.
-
-### [BGE 139 III 498](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_498) (17.10.2013) — Kostenvorschuss
-
-Das Bundesgericht klärt die Voraussetzungen für die Erhebung eines Kostenvorschusses. Es betont, dass der Kostenvorschuss der Deckung der erwarteten Prozesskosten dient und dass die Bestimmung des Vorschusses nach objektiven Kriterien zu erfolgen hat.
-
-### [BGE 140 III 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_385) (—) — Parteientschädigung Beschwerde
-
-Der Entscheid befasst sich mit der Parteientschädigung im Beschwerdeverfahren. Das Bundesgericht hält fest, dass die Parteientschädigung im Beschwerdeverfahren nach denselben Grundsätzen wie im erstinstanzlichen Verfahren zu bemessen ist.
-
-### [BGE 139 III 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_475) (—) — URP und Kosten
-
-Das Bundesgericht befasst sich mit der Kostenverteilung im Verfahren der unentgeltlichen Rechtspflege. Es hält fest, dass die Kostenregelung der ZPO auch im Verfahren der unentgeltlichen Rechtspflege anwendbar ist, dass aber besondere Grundsätze gelten.
-
-### [BGE 140 III 501](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_501) (—) — Kanton als Kostenträger
-
-Der Entscheid klärt die Frage, wann der Kanton als Kostenträger in Betracht fällt. Das Bundesgericht hält fest, dass der Kanton die Kosten zu tragen hat, wenn das Verfahren aus Gründen der Effizienz oder der Rechtspflege durch staatliche Stellen verursacht wurde.
-
----
-
-*Letzte Aktualisierung: 2026-07-18*
+*Letzte Aktualisierung: 2026-07-19*

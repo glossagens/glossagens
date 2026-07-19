@@ -14,7 +14,7 @@ Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
 1.  **Strukturkonformität**: Aufbau als standardisiertes Hugo Page Bundle.
 2.  **Kommentierungstiefe**: Strukturierte Aufbereitung des Gesetzeswortlauts, der systematischen Einordnung und der dogmatischen Bedeutung.
 3.  **Praxisorientierung**: Identifikation von mindestens **ein bis zwei kantonalen Praxisfragen** (typische Hürden oder Streitpunkte in der kantonalen Gerichtspraxis).
-4.  **Fundierte Rechtsprechung**: Dokumentation von **exakt 10 praxisrelevanten Entscheiden** (Leitentscheide des Bundesgerichts sowie kantonale Gerichtsentscheide).
+4.  **Fundierte Rechtsprechung**: Dokumentation von **mindestens 10 praxisrelevanten Entscheiden** (Leitentscheide des Bundesgerichts sowie kantonale Gerichtsentscheide; es können aber auch mehr sein).
 5.  **Verifizierbarkeit**: Direkte Verlinkung aller zitierten Urteile (in der Regel via OpenCaseLaw.ch-Hyperlinks).
 
 ---
@@ -70,10 +70,10 @@ Der Kommentarartikel ist wie folgt zu gliedern:
 4.  **Praxisfragen**: Dokumentation kantonaler Besonderheiten, Streitpunkte oder verfahrensrechtlicher Hürden (z.B. Fristberechnungen, Unterschriftsmängel, Zustellungsfragen). Jede Frage muss mit dem klärenden Entscheid verknüpft sein.
 
 ### B. Rechtsprechungsseite (`art-{nr}/rechtsprechung.md`)
-Die Rechtsprechungsseite listet **exakt 10 ausgewählte Entscheide** auf, aufgeteilt in zwei Abschnitte:
+Die Rechtsprechungsseite listet **mindestens 10 ausgewählte Entscheide** auf (es können auch mehr sein), aufgeteilt in zwei Abschnitte:
 
-1.  **I. Leitentscheide (1–5)**: Die fünf wegweisendsten Entscheide des Bundesgerichts (BGEs), welche die grundlegende Auslegung der Norm definieren.
-2.  **II. Weitere Entscheide (6–10)**: Ergänzende Entscheide (weitere Bundesgerichtsurteile sowie kantonale Obergerichts-/Kantonsgerichtsentscheide), die spezifische Detailfragen, Verfahrensaspekte oder kantonale Praktiken regeln.
+1.  **I. Leitentscheide (mindestens 5)**: Die wegweisendsten Entscheide des Bundesgerichts (BGEs), welche die grundlegende Auslegung der Norm definieren (mindestens 5 Entscheide).
+2.  **II. Weitere Entscheide (mindestens 5)**: Ergänzende Entscheide (weitere Bundesgerichtsurteile sowie kantonale Obergerichts-/Kantonsgerichtsentscheide), die spezifische Detailfragen, Verfahrensaspekte oder kantonale Praktiken regeln (mindestens 5 Entscheide).
 
 Jeder Eintrag muss Folgendes enthalten:
 *   Ein aussagekräftiges, fettgedrucktes Thema als Überschrift.
@@ -100,7 +100,7 @@ graph TD
 *   Identifikation von Streitpunkten in der kantonalen Gerichtspraxis (z.B. durch Suche nach `Art. X Gesetz kantonale Praxis` oder `Beschwerde prozessleitender Entscheid Art. X`).
 
 ### Schritt 2: Strukturierung & Planung
-*   Auswahl der 10 qualitativ besten Entscheide, die das Spektrum des Artikels abdecken.
+*   Auswahl von mindestens 10 qualitativ besten Entscheiden, die das Spektrum des Artikels abdecken.
 *   Festlegung der ein bis zwei kantonale Praxisfragen, die im Kommentar behandelt werden sollen.
 *   Erstellung einer Taskliste (`task.md`) zur Abarbeitung.
 
