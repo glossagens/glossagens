@@ -91,7 +91,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen die sexuelle Integrität (Art. 187–200)
 
 - [Art. 189 — Sexuelle Nötigung](art-189/)
-- [Art. 190 — Vergewaltigung (aF, aufgehoben per 1. Juli 2024)](art-190/)
+- [Art. 190 — Vergewaltigung (nF seit 1.7.2024)](art-190/)
 - [Art. 191 — Schändung](art-191/)
 
 ### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Familie (Art. 213–220)

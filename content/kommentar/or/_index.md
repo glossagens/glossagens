@@ -35,6 +35,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 
 - [Art. 319 — Begriff und Einzelarbeitsvertrag](art-319/)
 - [Art. 321 — Pflichten des Arbeitnehmers](art-321/)
+- [Art. 323 — Fälligkeit des Lohnes](art-323/)
 - [Art. 328 — Persönlichkeitsschutz und Gesundheitsschutz](art-328/)
 - [Art. 335 — Kündigung des unbefristeten Arbeitsverhältnisses](art-335/)
 - [Art. 335b — Kündigung während der Probezeit](art-335b/)
