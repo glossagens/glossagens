@@ -80,6 +80,7 @@ static/
 1. Verzeichnis `content/kommentar/{gesetz}/art-{nr}/` anlegen
 2. `_index.md` für den Kommentar (Branch Bundle — nicht `index.md`!)
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
+4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / `mcp_verified`) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
 
 ### Frontmatter-Schema — Kommentarartikel (`_index.md`)
 
@@ -91,7 +92,13 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "..."
 tags: ["...", "..."]
-agent_verified: true   # nur nach Verifikation durch Hermes
+agent_verified: true   # nur nach Verifikation; nur zulässig, wenn jüngste Revision mcp_verified: true
+revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt „Revisions-Vermerk")
+  - date: YYYY-MM-DD
+    by: "Name des Bearbeiters"    # Mensch oder Agent, z. B. "Claude Code", "Hermes Agent", "Jonas Achermann"
+    model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
+    mcp_verified: true            # true nur, wenn Gesetzestexte UND Entscheide via opencaselaw-MCP geprüft
+    note: "kurze Beschreibung der Änderung"   # optional
 ---
 ```
 
@@ -106,8 +113,31 @@ lastmod: YYYY-MM-DD
 description: "Übersicht der Entscheide zu Art. X ..."
 tags: ["Rechtsprechung", ...]
 agent_verified: false  # wird separat verifiziert
+revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt „Revisions-Vermerk")
+  - date: YYYY-MM-DD
+    by: "Name des Bearbeiters"
+    model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
+    mcp_verified: true            # true nur, wenn alle Entscheide via opencaselaw-MCP geprüft
+    note: "kurze Beschreibung der Änderung"   # optional
 ---
 ```
+
+### Pflicht: Revisions-Vermerk bei jeder Änderung
+
+**Jede** inhaltliche Änderung an einem Kommentarartikel (`_index.md` **und** `rechtsprechung.md`) — auch die Neuanlage — MUSS als neuer Eintrag **zuoberst** in der `revisions:`-Liste des Frontmatters vermerkt werden. So ist jederzeit nachvollziehbar, wer mit welchem KI-Modell den Beitrag erstellt/geändert hat und ob die Zitate maschinell verifiziert wurden. Pflichtangaben pro Eintrag:
+
+| Feld | Bedeutung |
+|------|-----------|
+| `date` | Datum der Änderung (`YYYY-MM-DD`) |
+| `by` | **Wer** die Änderung vorgenommen hat — Mensch (`"Jonas Achermann"`) oder Agent (`"Claude Code"`, `"Hermes Agent"`) |
+| `model` | **Mit welchem KI-Modell** — exakte Modell-ID (z. B. `claude-opus-4-8`, `hermes3`); bei rein manueller Bearbeitung ohne KI: `human` |
+| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide über die opencaselaw-MCP verifiziert wurden (`cite` / `get_law` / `get_erwaegung` / `get_regeste`). Andernfalls `false` |
+| `note` | optional — kurze Beschreibung der Änderung |
+
+Regeln:
+- Neuester Eintrag **zuoberst**; ältere Einträge bleiben erhalten (Historie, nicht überschreiben).
+- `agent_verified: true` darf **nur** gesetzt werden, wenn die jüngste Revision `mcp_verified: true` trägt. Ein von einem LLM ohne MCP-Zugang (z. B. reiner Hermes-`generate()`-Aufruf) erzeugter Text ist niemals `agent_verified: true` — er trägt `mcp_verified: false`.
+- Fehlt der `revisions`-Block bei einem eingereichten PR, ist das ein Strukturfehler (siehe „PR-Verifikation").
 
 ## PR-Verifikation durch Hermes
 
@@ -115,7 +145,8 @@ Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
 
 1. **Strukturprüfung** (automatisch, kein LLM):
    - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/_index.md`)
-   - Alle 7 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
+   - Alle 8 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`, `revisions`
+   - `revisions` enthält mindestens einen Eintrag mit `date`, `by`, `model`, `mcp_verified`
 
 2. **Inhaltsprüfung** (LLM):
    - Sachliche Korrektheit, keine erfundenen Zitate

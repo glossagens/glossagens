@@ -1,4 +1,5 @@
 import os
+import re
 import sqlite3
 from contextlib import contextmanager
 from datetime import datetime
@@ -42,6 +43,44 @@ def generate(system: str, user: str) -> str:
     )
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"].strip()
+
+
+# ── Nachvollziehbarkeit / Revisions-Vermerk ──────────────────────────────────
+
+def _stamp_revision(content: str) -> str:
+    """Erzwingt die Herkunfts-Metadaten im Frontmatter eines vom externen Hermes-LLM
+    erzeugten Artikels: einen Revisions-Eintrag (wer / welches KI-Modell / ob via MCP
+    verifiziert) und `agent_verified: false`.
+
+    Der externe Hermes-Agent (`generate()`) hat KEINEN Zugang zur opencaselaw-MCP und
+    verifiziert Gesetzestexte/Entscheide daher nicht maschinell. Deshalb ist
+    `mcp_verified` immer `false` und `agent_verified` nie `true`. Diese Werte werden im
+    Code erzwungen und nicht dem LLM überlassen (es könnte sie halluzinieren).
+    """
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    revision = (
+        "revisions:\n"
+        f"  - date: {today}\n"
+        '    by: "Hermes Agent"\n'
+        f'    model: "{LLM_MODEL}"\n'
+        "    mcp_verified: false\n"
+        '    note: "Automatisch erzeugt vom externen Hermes-LLM ohne MCP-Verifikation"\n'
+    )
+    m = re.match(r"^(---\s*\n)(.*?)(\n---\s*(?:\n|$))", content, re.DOTALL)
+    if not m:
+        # Kein Frontmatter erkannt — minimalen Block voranstellen; die Strukturprüfung
+        # fängt fehlende Pflichtfelder anschliessend ab.
+        return f"---\nagent_verified: false\n{revision}---\n\n{content}"
+    head, body, tail = m.group(1), m.group(2), m.group(3)
+    # agent_verified zwingend auf false setzen bzw. ergänzen.
+    if re.search(r"^agent_verified:", body, re.MULTILINE):
+        body = re.sub(r"^agent_verified:.*$", "agent_verified: false", body, flags=re.MULTILINE)
+    else:
+        body = body.rstrip("\n") + "\nagent_verified: false"
+    # Einen etwaigen vom LLM erfundenen revisions-Block entfernen und eigenen anhängen.
+    body = re.sub(r"^revisions:\n(?:[ \t]+.*\n?)*", "", body, flags=re.MULTILINE)
+    body = body.rstrip("\n") + "\n" + revision.rstrip("\n")
+    return f"{head}{body}{tail}{content[m.end():]}"
 
 
 # ── Queue-Zustand ─────────────────────────────────────────────────────────────
@@ -98,7 +137,11 @@ def _execute_issue(item: dict, instruction: str) -> str:
 Du erstellst und aktualisierst Kommentare zu Schweizer Gesetzesartikeln im Markdown-Format.
 Artikel werden als Hugo Page Bundles gespeichert: content/kommentar/{gesetz}/art-{NNN}/_index.md
 Schreibe präzise, quellenbasiert und im Stil eines akademischen Kommentars.
-Verwende keine erfundenen Zitate. Neue Rechtsprechungshinweise nur als Paraphrase mit Vorbehalt."""
+Verwende keine erfundenen Zitate. Neue Rechtsprechungshinweise nur als Paraphrase mit Vorbehalt.
+Das Frontmatter enthält ein Feld `agent_verified: false` und einen `revisions`-Block, der
+festhält, wer mit welchem KI-Modell den Text erstellt hat und ob die Zitate via MCP geprüft
+wurden. Da du diese Angaben nicht selbst verifizieren kannst, werden sie nach der Generierung
+maschinell gesetzt — erfinde sie nicht."""
 
     # Versuche bestehenden Artikel zu finden (Page Bundle: art-NNN/_index.md)
     article_path = gh.article_path(title)  # gibt art-NNN/_index.md zurück falls vorhanden
@@ -152,6 +195,9 @@ INHALT:
         # Flat-File-Pfad korrigieren: art-001.md → art-001/_index.md
         index_path = re.sub(r"(art-\d+)\.md$", r"\1/_index.md", index_path)
         index_path = re.sub(r"(art-\d+)/index\.md$", r"\1/_index.md", index_path)
+
+    # Herkunfts-/Revisions-Vermerk erzwingen (Hermes ohne MCP → mcp_verified: false).
+    new_content = _stamp_revision(new_content)
 
     gh.create_or_update_file(
         path=index_path,
