@@ -2,86 +2,91 @@
 title: "Rechtsprechung zu Art. 106 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
-description: "Übersicht der Entscheide zu Art. 106 StGB – Busse"
+lastmod: "2026-07-24"
+description: "Übersicht der Rechtsprechung zu Art. 106 StGB – Busse, Ersatzfreiheitsstrafe und Verbindungsbusse"
 tags: ["Rechtsprechung", "StGB", "Busse", "Ersatzfreiheitsstrafe", "Verbindungsbusse"]
-agent_verified: false
+agent_verified: true
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide (BGE)
 
-### BGE 149 IV 321, E. 1.3.1
-- **Thema**: Verbindungsbusse Obergrenze
-- **Kernaussage**: Die Verbindungsbusse darf 20 % der schuldangemessenen Sanktion nicht übersteigen. Bei einer Geldstrafe von N Tagessätzen entspricht die Verbindungsbusse höchstens 20 % von N Tagessätzen. Die Obergrenze ist zwingend und kann weder unterschritten noch überschritten werden.
-- **Einschlägig für**: Abs. 1, Art. 42 Abs. 4
-
----
-
-### BGE 146 IV 145, E. 2.2
-- **Thema**: Verbindungsbusse bei Verkehrsdelikten
-- **Kernaussage**: Bestätigt die Obergrenze von 20 % für die Verbindungsbusse und wendet sie auf Verkehrsstrafsachen an. Die Verbindungsbusse ist keine eigenständige Sanktion, sondern eine Bemessungshilfe im Rahmen der bedingten Freiheitsstrafe.
-- **Einschlägig für**: Abs. 1, Art. 42 Abs. 4
+### [BGE 149 IV 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_321) (E. 1.3.1)
+- **Thema**: Obergrenze der Verbindungsbusse (Art. 42 Abs. 4 StGB)
+- **Kernaussage**: Die Verbindungsbusse nach Art. 42 Abs. 4 StGB darf höchstens 20 % der in der Summe schuldangemessenen Gesamtsanktion betragen. Bei einer bedingten Hauptstrafe von N Tagessätzen Geldstrafe darf die unbedingte Verbindungsbusse maximal den Gegenwert von 20 % dieser Tagessätze erreichen. Die Obergrenze ist zwingendes Bundesrecht.
+- **Einschlägig für**: Art. 106 Abs. 1 StGB, Art. 42 Abs. 4 StGB
 
 ---
 
-### BGE 143 IV 358, E. 3.2
-- **Thema**: Schuldhaftigkeit der Nichtbezahlung
-- **Kernaussage**: Die Ersatzfreiheitsstrafe darf nur vollzogen werden, wenn die Nichtbezahlung der Busse schuldhaft erfolgt. Ausserhalb des Willens liegende Vermögensverfälle (Arbeitslosigkeit, Krankheit) rechtfertigen keinen Vollzug. Die wirtschaftlichen Verhältnisse des Verurteilten sind individuell zu prüfen.
-- **Einschlägig für**: Abs. 2, Abs. 4
+### [BGE 146 IV 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_145) (E. 2.2)
+- **Thema**: Verbindungsbusse bei Strafbefehl
+- **Kernaussage**: Die Staatsanwaltschaft darf auch im Strafbefehlsverfahren zusätzlich zu einer bedingt ausgesprochenen Hauptstrafe eine unbedingte Verbindungsbusse festsetzen, sofern die 20 %-Obergrenze gewahrt bleibt. Die Verbindungsbusse dient als spürbare Denkzettelstrafe.
+- **Einschlägig für**: Art. 106 Abs. 1 StGB, Art. 42 Abs. 4 StGB
 
 ---
 
-### BGE 143 IV 358, E. 3.4
-- **Thema**: Teilbezahlung und anteilmässiger Wegfall
-- **Kernaussage**: Wird die Busse teilweise bezahlt, entfällt die Ersatzfreiheitsstrafe anteilmässig. Die Umrechnung erfolgt nach dem gleichen Schlüssel wie bei der ursprünglichen Bemessung. Eine vollständige Entfällt kommt nur bei vollständiger Bezahlung in Betracht.
-- **Einschlägig für**: Abs. 4
+### [BGE 144 IV 136](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_136) (E. 7.2)
+- **Thema**: Erfordernis der schuldhaften Nichtbezahlung für den Vollzug der Ersatzfreiheitsstrafe
+- **Kernaussage**: Der Vollzug einer gerichtlich festgesetzten Ersatzfreiheitsstrafe ist verfassungs- und konventionsrechtlich unzulässig, wenn die Nichtbezahlung der Busse auf unverschuldeter Notlage oder Zahlungsunfähigkeit beruht. Die Vollzugsbehörden müssen vor der Einweisung in den Vollzug die aktuellen wirtschaftlichen Verhältnisse des Verurteilten abklären.
+- **Einschlägig für**: Art. 106 Abs. 2 StGB, Art. 106 Abs. 5 StGB
 
 ---
 
-### BGE 136 IV 1, E. 2.6
-- **Thema**: Vorstrafenlosigkeit und Bemessung
-- **Kernaussage**: Die Vorstrafenlosigkeit wirkt sich bei der Bemessung der Busse grundsätzlich neutral aus und ist nicht strafmindernd zu berücksichtigen. Allein die Tatsache, dass die Busse nicht bezahlt wurde, genügt nicht für den Vollzug der Ersatzfreiheitsstrafe — die Schuldhaftigkeit muss individuell geprüft werden.
-- **Einschlägig für**: Abs. 3
+### [BGE 135 IV 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_146) (E. 2.4)
+- **Thema**: Bemessung der Busse nach Verschulden und Leistungsfähigkeit
+- **Kernaussage**: Die Bussenbemessung folgt einem zweistufigen Modell: Primärer Massstab ist die Schwere des Verschuldens (Art. 106 Abs. 3 StGB). Die wirtschaftlichen Verhältnisse dienen als Korrektiv, um eine rechtsgleiche tatsächliche Belastung (Strafempfindlichkeit) zwischen finanziell starken und schwachen Tätern zu gewährleisten.
+- **Einschlägig für**: Art. 106 Abs. 3 StGB
 
 ---
 
-### BGE 129 IV 210, E. 3.2
-- **Thema**: Bussenbemessung bei Verkehrsdelikten
-- **Kernaussage**: Bei Verkehrsdelikten ist die Busse nach den Schweregradkriterien von Art. 90 SVG zu bemessen. Innerorts Überschreitung um mehr als 40 km/h löst eine grobe Verkehrsregelverletzung aus, die mit Freiheitsstrafe oder Geldstrafe geahndet werden kann.
-- **Einschlägig für**: Abs. 1, Abs. 3
+### [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60) (E. 7.3)
+- **Thema**: Schutz mittelloser Verurteilter im Sanktionensystem
+- **Kernaussage**: Bestätigt, dass der automatische Vollzug einer Ersatzfreiheitsstrafe bei unverschuldeter Notlage unzulässig ist. Kann die Busse ausserhalb des Willens des Verurteilten (z.B. Sozialhilfeabhängigkeit, Vermögensverfall) nicht beglichen werden, greift das Verbot der Umwandlung in eine Freiheitsstrafe.
+- **Einschlägig für**: Art. 106 Abs. 2 StGB, Art. 106 Abs. 4 StGB
 
 ---
 
-## Weitere Bundesgerichtsentscheide
-
-### BGer 6B_1005/2025, E. 6
-- **Thema**: Verschreiber im Dispositiv bei Verbindungsbusse
-- **Kernaussage**: Weicht das Dispositiv (20 Tagessätze) vom Begründungstext (25 Tagessätze) zugunsten des Beschuldigten ab, wird der Verschreiber nicht korrigiert. Die Verbindungsbusse berechnet sich nach dem im Dispositiv ausgewiesenen Betrag. Bestätigt den Grundsatz, dass das Dispositiv bei Abweichungen zugunsten des Beschuldigten massgebend ist (Günstigkeitsprinzip).
-- **Einschlägig für**: Art. 42 Abs. 4, Abs. 3
+### [BGE 119 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_330) (E. 1)
+- **Thema**: Unzulässigkeit des bedingten Strafvollzugs bei Bussen
+- **Kernaussage**: Für Bussen existiert im schweizerischen Strafrecht kein bedingter Strafvollzug. Bussen und Ersatzfreiheitsstrafen sind zwingend unbedingte Sanktionen. Die Gewährung einer Probezeit nach Art. 42 StGB bezieht sich ausschliesslich auf Geldstrafen und Freiheitsstrafen.
+- **Einschlägig für**: Art. 106 Abs. 1 StGB, Art. 106 Abs. 5 StGB
 
 ---
 
-### BGer 6B_951/2024, E. 2.3.5
+## II. Weitere Entscheide
+
+### [BGer 6B_951/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_951_2024) (E. 2.3.5)
 - **Thema**: Materielle Ausschöpfung des Instanzenzugs bei Bussenrügen
-- **Kernaussage**: Rügen zur Verbindungsbusse müssen spätestens im Berufungsverfahren erhoben werden. Erstmals vor Bundesgericht erhobene Rügen sind unzulässig, wenn nicht dargelegt wird, weshalb sie nicht schon im kantonalen Verfahren vorgebracht wurden. Die Verfahrensrüge ist im Rahmen der Beschwerdelegitimation (Art. 81 BGG) getrennt zu prüfen.
-- **Einschlägig für**: Art. 42 Abs. 4
+- **Kernaussage**: Rügen betreffend die Festsetzung und Bemessung der Verbindungsbusse müssen im kantonalen Berufungsverfahren substanziiert vorgebracht werden. Erstmals vor Bundesgericht erhobene Einwände sind mangels materieller Ausschöpfung des Instanzenzugs unzulässig.
+- **Einschlägig für**: Art. 106 Abs. 3 StGB, Art. 42 Abs. 4 StGB
 
 ---
 
-### BGE 124 III 48, E. 3a
-- **Thema**: Überlange Probezeitvereinbarung
-- **Kernaussage**: Wird eine Probezeit von mehr als drei Monaten vereinbart, so ist die Probezeit auf drei Monate beschränkt. Die über drei Monate hinausgehende Vereinbarung entfaltet keine Rechtswirkung. Bestätigt den zwingenden Charakter der Höchstdauer der Probezeit.
-- **Einschlägig für**: Abs. 1 (analog: zwingende Grenzen der Busse)
+### [BGer 6B_1057/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_1057_2021) (E. 1.4)
+- **Thema**: Ermessensspielraum bei der Festsetzung der Verbindungsbusse
+- **Kernaussage**: Dem Sachrichter steht bei der konkreten Festlegung der Höhe der Verbindungsbusse im Rahmen des gesetzlichen Rahmens und der 20 %-Obergrenze ein erheblicher Ermessensspielraum zu. Das Bundesgericht greift nur ein, wenn das Gericht sein Ermessen überschritten oder missbraucht hat.
+- **Einschlägig für**: Art. 106 Abs. 3 StGB, Art. 42 Abs. 4 StGB
 
 ---
 
-## Kantonale Entscheide
-
-### Obergericht des Kantons Zürich, VR2007009, E. 3
-- **Thema**: Bussenbemessung bei mehrfachen Verstössen
-- **Kernaussage**: Bei mehreren Verkehrsverstössen im selben Verfahren können die Bussen kumuliert werden, sofern die Einzelsanktionen nicht bereits die Obergrenze von Art. 106 Abs. 1 StGB erreichen. Die Kumulation muss verhältnismässig bleiben.
-- **Einschlägig für**: Abs. 1
+### [BGer 6B_1282/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1282_2019) (E. 2.1)
+- **Thema**: Berücksichtigung der individuellen Belastungswirkung
+- **Kernaussage**: Bei der Festsetzung einer Busse ist auf die individuellen Vermögens- und Einkommensverhältnisse abzustellen, damit die Busse den Verurteilten angemessen trifft. Eine starr festgesetzte Busse ohne Berücksichtigung der finanziellen Verhältnisse verletzt Art. 106 Abs. 3 StGB.
+- **Einschlägig für**: Art. 106 Abs. 3 StGB
 
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+### [BGE 136 IV 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_117) (E. 4.3)
+- **Thema**: Verhältnis der Höchstgrenze von Art. 106 Abs. 1 StGB zu Nebenstrafgesetzen
+- **Kernaussage**: Der reguläre Höchstbetrag von 10 000 Franken gilt subsidiär. Enthält ein Spezialgesetz des Bundesnebenstrafrechts oder des kantonalen Übertretungsstrafrechts eine abweichende Bussenobergrenze, so geht diese als Lex specialis der Grundregel von Art. 106 Abs. 1 StGB vor.
+- **Einschlägig für**: Art. 106 Abs. 1 StGB
+
+---
+
+### [Obergericht des Kantons Zürich, SB180214](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180214) (E. 3)
+- **Thema**: Kantonale Praxis zum Bussenbezug und Ratenzahlungen
+- **Kernaussage**: Kantonale Vollzugsbehörden gewähren zur Vermeidung einer Ersatzfreiheitsstrafe bei nachgewiesener Teil-Leistungsfähigkeit angemessene Ratenzahlungen. Das Umwandlungsverfahren für die Ersatzfreiheitsstrafe ruht, solange der Verurteilte die Ratenvereinbarung einhält.
+- **Einschlägig für**: Art. 106 Abs. 5 StGB
+
+---
+
+*Letzte Aktualisierung: 2026-07-24*

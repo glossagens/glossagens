@@ -1,10 +1,10 @@
 ---
-title: "Art. 106 — Busse"
+title: "Art. 106 StGB — Busse"
 weight: 106
 date: 2026-06-13
-lastmod: "2026-07-22"
-description: "Kommentar zu Art. 106 StGB – Busse: Höchstbetrag, Ersatzfreiheitsstrafe, Bemessung, Verbindungsbusse und Umwandlung"
-tags: ["StGB", "Busse", "Ersatzfreiheitsstrafe", "Sanktionen", "Strafzumessung", "Geldstrafe", "Verbindungsbusse"]
+lastmod: "2026-07-24"
+description: "Kommentar zu Art. 106 StGB – Busse: Höchstbetrag, Ersatzfreiheitsstrafe, Bemessung nach Verschulden und Leistungsfähigkeit, Verbindungsbusse sowie Vollzug."
+tags: ["StGB", "Busse", "Ersatzfreiheitsstrafe", "Sanktionen", "Strafzumessung", "Übertretungen", "Verbindungsbusse"]
 agent_verified: true
 ---
 
@@ -12,7 +12,7 @@ agent_verified: true
 
 > **Art. 106 StGB — Busse**
 >
-> 1 Bestimmt es das Gesetz nicht anders, so ist der Höchstbetrag der Busse 10 000 Franken.
+> 1 Bestimmt es das Gesetz nicht anders, so ist der Höchstbetrag der Busse 10 000 Franken.
 >
 > 2 Das Gericht spricht im Urteil für den Fall, dass die Busse schuldhaft nicht bezahlt wird, eine Ersatzfreiheitsstrafe von mindestens einem Tag und höchstens drei Monaten aus.
 >
@@ -25,92 +25,97 @@ agent_verified: true
 
 ## Kommentierung
 
-### I. Bedeutung
+### I. Überblick und Systematik
 
-Art. 106 StGB regelt als Grundnorm die Busse als selbstständige Hauptstrafe des schweizerischen Sanktionensystems. Die Busse unterscheidet sich fundamental von der Geldstrafe (Art. 34 StGB): Während die Geldstrafe nach dem Tagessatzsystem an das Nettoeinkommen des Täters anknüpft und verschuldensangemessen ausgestaltet ist, beziffert sich die Busse nach einem fixen Höchstbetrag von 10 000 Franken und richtet sich primär nach den wirtschaftlichen Verhältnissen des Täters (Abs. 3). Die Busse findet sich insbesondere bei Übertretungen (Art. 90–110 StGB), aber auch bei bestimmten Vergehen (vgl. Art. 42 Abs. 4 StGB: Verbindungsbusse).
+**1** Art. 106 StGB regelt als Grundnorm die Busse als ordentliche Hauptstrafe im Übertretungsstrafrecht des Schweizerischen Strafgesetzbuches. Systematisch ist die Bestimmung im Zehnten Titel des Ersten Teils des StGB verortet («Übertretungen», Art. 103–109 StGB). Nach Art. 103 StGB sind Übertretungen diejenigen Taten, die mit Busse bedroht sind. Die Busse bildet folglich die einzige ordentliche Hauptstrafe für Übertretungen.
 
-**2** Systematisch gehört Art. 106 StGB zum 3. Titel des StGB (Sanktionen) und bildet zusammen mit Art. 34 (Geldstrafe) und Art. 41 (unbedingte Freiheitsstrafe) das Grundgerüst des Sanktionensystems. Die Busse als Hauptstrafe steht auf derselben Stufe wie Freiheitsstrafe und Geldstrafe — sie ist keine Nebenstrafe oder Massnahme. (Die frühere Geldstrafe bei Vermögensdelikten nach Art. 37–39 StGB wurde per 1. Januar 2018 aufgehoben; die Geldstrafe ist nun einheitlich in Art. 34 StGB geregelt.)
+**2** Die Busse unterscheidet sich dogmatisch grundlegend von der Geldstrafe (Art. 34 StGB):
+- Die **Geldstrafe** beruht auf dem Tagessatzsystem (Bemessungseinheit in Tagessätzen, deren Höhe sich nach dem Nettoeinkommen bestimmt). Die früher in aArt. 37–39 StGB geregelte Geldstrafe bei Vermögensdelikten wurde per 1. Januar 2018 aufgehoben; die Geldstrafe ist seither einheitlich in Art. 34 StGB geregelt.
+- Die **Busse** ist ein Festbetragssystem (ausgewiesen als Festbetrag in Schweizer Franken).
+
+**3** Neben der Anwendung als selbstständige Hauptstrafe bei Übertretungen kann die Busse auch als unbedingte **Verbindungsbusse** nach Art. 42 Abs. 4 StGB mit einer bedingten Hauptstrafe (Geldstrafe oder Freiheitsstrafe) bei Vergehen oder Verbrechen kombiniert werden.
+
+**4** **Unzulässigkeit des bedingten Vollzugs**: Im Schweizer Sanktionensystem existiert keine bedingte Busse. Der bedingte Strafvollzug nach Art. 42 StGB betrifft ausschliesslich Geldstrafen und Freiheitsstrafen. Bussen sind stets unbedingt zu vollziehen ([BGE 119 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_330)). Auch die für den Fall der schuldhaften Nichtbezahlung angedrohte Ersatzfreiheitsstrafe kann nicht bedingt aufgeschoben werden.
 
 ### II. Höchstbetrag (Abs. 1)
 
-**3** Der reguläre Höchstbetrag der Busse beträgt 10 000 Franken. Dieser Betrag gilt als Grundregel, soweit das Gesetz nichts Abweichendes bestimmt. Zahlreiche Spezialnormen setzen höhere oder niedrigere Bussobergrenzen fest:
+**5** Der allgemeine Höchstbetrag der Busse beträgt 10 000 Franken. Dieser Höchstbetrag greift als subsidiäre Grundregel im allgemeinen Strafrecht sowie im Bundesnebenstrafrecht, sofern die jeweilige Strafnorm keine abweichende Regelung trifft.
 
-- **Höhere Bussen**: Art. 90 Abs. 1 SVG (SR 741.01; Verkehrsregelverletzung: Busse); Art. 90 Abs. 2 SVG (grobe Verkehrsregelverletzung: Freiheitsstrafe bis 3 Jahre oder Geldstrafe); Art. 100 SVG (Haftung des Arbeitgebers/Vorgesetzten). Die konkreten Bussenhöchstbeträge im Strassenverkehr richten sich nach der SSV (SR 741.21).
-- **Niedrigere Bussen**: Verschiedene Übertretungstatbestände sehen geringere Obergrenzen vor.
-
-**4** Der Vorbehalt «bestimmt es das Gesetz nicht anders» (Abs. 1 Satz 1) ist weit auszulegen: Jede abweichende Obergrenze in einer Spezialnorm verdrängt die Grundregel. Die Praxis hat wiederholt bestätigt, dass die Spezialnorm die Höchstgrenze der Busse abschliessend regelt und eine Addition von Grundregel und Spezialnorm nicht in Betracht kommt ([BGE 136 IV 1 E. 2.6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_136_IV_1)).
+**6** **Vorbehalt spezialgesetzlicher Obergrenzen**: Der Zusatz «Bestimmt es das Gesetz nicht anders» erfasst sowohl abweichende Regelungen im StGB als auch Bestimmungen im Nebenstrafrecht:
+- *Niedrigere Bussen*: Beispielsweise droht Art. 292 StGB bei Ungehorsam gegen amtliche Verfügungen eine Busse bis zu 5 000 Franken an.
+- *Höhere Bussen*: In Spezialgesetzen wie dem Verwaltungsstrafrecht (VStrR), dem Steuerstrafrecht (z. B. Art. 175 DBG; Art. 56 StHG) oder dem Finanzmarktrecht können Bussen den Betrag von 10 000 Franken um ein Vielfaches übersteigen ([BGE 136 IV 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_117)).
+- Im Strassenverkehrsrecht (SVG, SR 741.01) gilt für einfache Verkehrsregelverletzungen (Art. 90 Abs. 1 SVG) grundsätzlich die Bussenobergrenze von Art. 106 Abs. 1 StGB, es sei denn, das Delikt wird im anonymisierten Ordnungsbussenverfahren mit Festbeträgen bis max. 300 Franken geahndet (OBG). (Grobe Verkehrsregelverletzungen nach Art. 90 Abs. 2 SVG bilden Vergehen und werden mit Freiheitsstrafe oder Geldstrafe geahndet).
 
 ### III. Ersatzfreiheitsstrafe (Abs. 2)
 
-**5** Für den Fall, dass die Busse schuldhaft nicht bezahlt wird, hat das Gericht eine Ersatzfreiheitsstrafe auszusprechen. Der Rahmen beträgt mindestens einen Tag und höchstens drei Monate. Die Ersatzfreiheitsstrafe ist keine eigenständige Sanktion, sondern ein Vollzugssurrogat — sie tritt an die Stelle der nicht bezahlten Busse.
+**7** Zwingender Bestandteil jedes bussenfälligen Urteils ist die Festsetzung einer Ersatzfreiheitsstrafe für den Fall, dass die Busse schuldhaft nicht bezahlt wird. Der gesetzliche Rahmen für die Ersatzfreiheitsstrafe beträgt **mindestens einen Tag und höchstens drei Monate** (90 Tage).
 
-**6** **Voraussetzung**: Die Nichtbezahlung muss *schuldhaft* erfolgen. Kann der Verurteilte die Busse ausserhalb seines Willens nicht bezahlen (z.B. infolge Vermögensverfalls), so darf die Ersatzfreiheitsstrafe nicht vollzogen werden ([BGE 143 IV 358 E. 3.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_143_IV_358)). Das Bundesgericht hat wiederholt betont, dass die Schuldhaftigkeit der Nichtbezahlung eine individuelle Prüfung erfordert: Allein die Tatsache, dass die Busse nicht bezahlt wurde, genügt nicht für den Vollzug der Ersatzfreiheitsstrafe.
-
-**7** **Ausspruch zwingend**: Das Gericht muss die Ersatzfreiheitsstrafe zwingend im Urteil aussprechen — es hat kein Ermessen, von diesem Ausspruch abzusehen. Dies unterscheidet die Ersatzfreiheitsstrafe von der bedingten Entlassung (Art. 38 StGB), die im Ermessen der Vollzugsbehörde liegt.
-
-**8** **Berechnung**: Zwischen Busse und Ersatzfreiheitsstrafe muss ein angemessenes Verhältnis bestehen. Als grober Anhaltspunkt gilt: Ein Tag Ersatzfreiheitsstrafe entspricht etwa 100–300 Franken Busse. Das Bundesgericht hat in [BGE 149 IV 321 E. 1.3.1](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_149_IV_321) präzisiert, dass die Verbindungsbusse maximal 20 % der schuldangemessenen Sanktion betragen darf, was auch für das Verhältnis von Busse zu Ersatzfreiheitsstrafe gilt.
+**8** **Vollzugssurrogat und Erfordernis der Schuldhaftigkeit**: Die Ersatzfreiheitsstrafe ist keine primäre Sanktion, sondern ein nachgelagertes Vollzugssurrogat. Ihr Vollzug setzt voraus, dass die Nichtbezahlung der Busse *schuldhaft* erfolgt ist.
+- Kann der Verurteilte die Busse infolge echter, unverschuldeter Mittellosigkeit (z. B. Vermögensverfall, Sozialhilfeabhängigkeit, unverschuldete Notlage) nicht bezahlen, darf die Ersatzfreiheitsstrafe nicht vollzogen werden ([BGE 144 IV 136](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_136) E. 7.2; [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60)).
+- Der Vollzug einer Ersatzfreiheitsstrafe bei unverschuldeter Zahlungsunfähigkeit würde dem Diskriminierungsverbot und dem Verhältnismässigkeitsprinzip widersprechen. Die Verweigerung der Zahlung muss folglich auf Unwillen (Böswilligkeit) oder schuldhaft herbeigeführter Zahlungsunfähigkeit beruhen.
 
 ### IV. Bemessung (Abs. 3)
 
-**9** Abs. 3 verlangt, dass Busse und Ersatzfreiheitsstraffe je nach den *Verhältnissen des Täters* so bemessen werden, dass dieser die Strafe erleidet, die seinem *Verschulden* angemessen ist. Dies führt zu einem doppelten Bezugsrahmen:
+**9** Abs. 3 statuiert einen doppelten Bemessungsgrundsatz: Busse und Ersatzfreiheitsstrafe sind *je nach den Verhältnissen des Täters* so zu bemessen, dass dieser die Strafe erleidet, die seinem *Verschulden* angemessen ist.
 
-- **Verschuldensangemessenheit**: Die Busse muss der Schwere des Verschuldens entsprechen. Bei leichtem Verschulden genügt eine tiefere Busse, bei schwerem Verschulden ist der Höchstbetrag auszuschöpfen.
-- **Verhältnisse des Täters**: Im Gegensatz zur Geldstrafe (Tagessatzsystem) ist bei der Busse primär auf die wirtschaftliche Leistungsfähigkeit abzustellen. Wer über geringe Mittel verfügt, soll eine tiefere Busse erhalten, damit die Ersatzfreiheitsstrafe nicht unverhältnismässig hoch ausfällt.
+**10** **Zweistufiges Bemessungsmodell**:
+1. *Verschulden (Primärmassstab)*: Das Ausmass des Verschuldens (Schwere der Pflichtverletzung, Ausmass der Gefährdung/Schädigung, Beweggründe) bestimmt die Grundhöhe der Busse im Rahmen der gesetzlichen Spanne.
+2. *Wirtschaftliche Verhältnisse (Korrektiv für die Strafempfindlichkeit)*: Die finanziellen Verhältnisse des Täters (Einkommen, Vermögen, Unterstützungspflichten, Existenzminimum) sind zu berücksichtigen, um eine Rechtsgleichheit in der tatsächlichen Belastungswirkung (Strafempfindlichkeit) zu erzielen. Eine wirtschaftlich leistungsfähige Person benötigt eine höhere Busse, um dieselbe Denkzettelwirkung zu erfahren wie eine Person in bescheidenen Verhältnissen ([BGE 135 IV 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_146)).
 
-**10** **Verschuldensangemessenheit im Detail**: Die Bundesgerichtspraxis unterscheidet zwischen der Bemessung der Busse und der Bemessung der Ersatzfreiheitsstrafe. Die Busse bemisst sich nach der Schwere des Verschuldens (Schuldprinzip), die Ersatzfreiheitsstrafe nach der wirtschaftlichen Leistungsfähigkeit (Verhältnismässigkeit). Beide müssen in einem sinnvollen Verhältnis zueinander stehen ([BGE 136 IV 1 E. 2.6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_136_IV_1)).
+**11** **Vorstrafenlosigkeit**: Bei Übertretungen wirkt sich die Vorstrafenlosigkeit grundsätzlich neutral aus. Anders als bei Verbrechen oder Vergehen führt das Fehlen von Vorstrafen im Übertretungsstrafrecht im Regelfall nicht zu einer Bussenreduktion ([BGE 136 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_1)).
 
-**11** **Vorstrafenlosigkeit**: Die Vorstrafenlosigkeit wirkt sich bei der Bemessung der Busse grundsätzlich neutral aus und ist nicht strafmindernd zu berücksichtigen. Das Bundesgericht hat in [BGE 136 IV 1 E. 2.6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_136_IV_1) klargestellt, dass die Vorstrafenlosigkeit bei Übertretungen — anders als bei Vergehen und Verbrechen — nicht zwingend strafmindernd zu werten ist.
+**12** **Bemessung der Ersatzfreiheitsstrafe**: Auch die Ersatzfreiheitsstrafe muss in einem angemessenen Verhältnis zur Bussenhöhe und zur wirtschaftlichen Leistungsfähigkeit stehen. Als Orientierungswert gilt im Regelfall ein Umrechnungsschlüssel von ca. 100 bis 300 Franken Busse pro Tag Ersatzfreiheitsstrafe, wobei das Gericht das konkrete Verschulden und die Verhältnisse im Einzelfall gewichtet.
 
 ### V. Verbindungsbusse (Art. 42 Abs. 4 StGB)
 
-**12** Art. 42 Abs. 4 StGB erlaubt die Verbindung einer bedingten Freiheitsstrafe mit einer Busse. Die Obergrenze der Verbindungsbusse beträgt 20 % der schuldangemessenen Sanktion ([BGE 149 IV 321 E. 1.3.1](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_149_IV_321); [BGE 146 IV 145 E. 2.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_146_IV_145)). Die Verbindungsbusse unterliegt denselben Bemessungsgrundsätzen wie die selbstständige Busse, wird jedoch im Dispositiv als Betrag in Franken ausgewiesen.
+**13** Gemäss Art. 42 Abs. 4 StGB kann eine bedingte Strafe (Geldstrafe oder Freiheitsstrafe) mit einer unbedingten Busse (Verbindungsbusse) kombiniert werden. Die Verbindungsbusse dient dazu, dem Verurteilten auch bei Gewährung des bedingten Strafvollzugs eine spürbare Sanktion aufzuerlegen.
 
-**13** **Obergrenze**: Die Verbindungsbusse darf 20 % der schuldangemessenen Sanktion nicht übersteigen. Diese Obergrenze ist zwingend und kann weder unterschritten noch überschritten werden. In der Praxis bedeutet dies: Bei einer bedingten Freiheitsstrafe von z.B. 6 Monaten (180 Tage) entspricht die maximale Verbindungsbusse 36 Tagessätzen.
-
-**14** **Verschreiber im Dispositiv**: Weicht das Dispositiv zugunsten des Beschuldigten vom Begründungstext ab (z.B. 20 statt 25 Tagessätze), wird der günstigere Wert nicht korrigiert. Das Dispositiv hat Vorrang vor den Erwägungen, wenn es für den Beschuldigten günstiger ist ([BGer 6B_1005/2025 E. 6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=6B_1005/2025)). Ein Verschreiber zulasten des Beschuldigten hingegen kann im Nachhinein korrigiert werden.
+**14** **Zwingende Obergrenze von 20 %**: Nach gefestigter Rechtsprechung des Bundesgerichts darf die Verbindungsbusse **höchstens 20 % der in der Summe schuldangemessenen Gesamtsanktion** betragen ([BGE 149 IV 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_321) E. 1.3.1; [BGE 146 IV 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_145) E. 2.2).
+- Die Obergrenze ist zwingendes Bundesrecht.
+- *Beispiel*: Entspricht das Gesamtvorschulden einer Geldstrafe von 100 Tagessätzen, so darf die Verbindungsbusse den Gegenwert von maximal 20 Tagessätzen nicht übersteigen.
+- Die Verbindungsbusse muss im Urteilsdispositiv stets als fester Frankenbetrag ausgewiesen werden (nicht in Tagessätzen), da es sich um eine Busse im Sinne von Art. 106 StGB handelt.
 
 ### VI. Nachträgliche Bezahlung (Abs. 4)
 
-**15** Die Ersatzfreiheitsstrafe entfällt, soweit die Busse nachträglich bezahlt wird. Dies gilt auch noch während des Vollzugs der Ersatzfreiheitsstrafe. Abs. 4 schafft einen finanziellen Anreiz zur Zahlung und verhindert, dass wirtschaftlich schwächere Täter unverhältnismässig lange Freiheitsstrafen verbüssen.
+**15** Die Ersatzfreiheitsstrafe entfällt, soweit die Busse nachträglich bezahlt wird. Diese Regelung gilt uneingeschränkt bis zum vollständigen Vollzug der Ersatzfreiheitsstrafe.
 
-**16** **Teilbezahlung**: Wird die Busse teilweise bezahlt, entfällt die Ersatzfreiheitsstrafe anteilmässig. Das Bundesgericht hat in [BGE 143 IV 358 E. 3.4](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_143_IV_358) präzisiert, dass eine Teilbezahlung die Ersatzfreiheitsstrafe entsprechend reduziert, jedoch nicht vollständig entfallen lässt. Die Umrechnung erfolgt nach dem gleichen Schlüssel wie bei der ursprünglichen Bemessung.
+**16** **Teilzahlung**: Bei teilweiser Bezahlung der Busse entfällt die Ersatzfreiheitsstrafe im entsprechenden Umfang (anteilmässige Reduktion der Tage). Tritt der Verurteilte den Vollzug an und bezahlt während der Haft den verbleibenden Restbetrag, ist er umgehend aus dem Vollzug zu entlassen.
 
 ### VII. Vollzug und Umwandlung (Abs. 5)
 
-**17** Auf den Vollzug und die Umwandlung der Busse sind Art. 35 StGB (Zahlungsfrist, Ratenzahlung, Betreibung) und Art. 36 Abs. 2 StGB (Ersatzfreiheitsstrafe bei uneinbringlicher Geldstrafe: ein Tagessatz entspricht einem Tag Freiheitsstrafe) sinngemäss anwendbar. Dies ermöglicht die sinngemässe Anwendung der Vollzugsregelung für Geldstrafen auf die Busse.
+**17** Abs. 5 verweist für den Vollzug und die Umwandlung der Busse auf die sinngemässe Anwendung von Art. 35 StGB (Vollzug der Geldstrafe: Zahlungsfrist, Ratenzahlung, Betreibung) sowie Art. 36 Abs. 2 StGB (Umwandlung und nachträgliche Bezahlung).
 
-**18** **Bedingter Vollzug**: Die Ersatzfreiheitsstrafe kann bedingt vollzogen werden, wenn eine günstige Prognose vorliegt und die Voraussetzungen von Art. 42 StGB erfüllt sind. Die Probezeit beträgt zwei bis fünf Jahre (Art. 42 Abs. 2 StGB). Wird die Busse während der Probezeit bezahlt, entfällt die Ersatzfreiheitsstrafe nach Abs. 4.
+**18** **Zahlungserleichterungen im Vollzug (Art. 35 StGB sinngemäss)**: Die Vollzugsbehörde kann dem Verurteilten auf Gesuch hin Ratenzahlung bewilligen oder die Zahlungsfrist erstrecken (Stundung), wenn eine sofortige Bezahlung in einer Summe eine unbillige Härte darstellen würde.
 
-**19** **Umwandlung**: Die Umwandlung der Busse in Ersatzfreiheitsstrafe erfolgt automatisch durch das Urteil (Abs. 2). Einer separaten Umwandlungsentscheidung bedarf es nicht. Der bedingte Vollzug der Ersatzfreiheitsstrafe wird im Urteil zusammen mit dem bedingten Vollzug der allfälligen Freiheitsstrafe ausgesprochen.
+**19** **Kein bedingter Vollzug**: Weder die Busse noch die Ersatzfreiheitsstrafe können bedingt aufgeschoben werden. Die Umwandlung in die Ersatzfreiheitsstrafe erfolgt im Vollzugsverfahren durch die zuständige Exekutivbehörde, wenn die Zahlungsfrist ungenutzt verstrichen ist und die Nichtbezahlung als schuldhaft qualifiziert wird.
 
 ### VIII. Abgrenzung zur Geldstrafe (Art. 34 StGB)
 
-**20** Die Abgrenzung zwischen Busse und Geldstrafe ist von zentraler praktischer Bedeutung:
+**20** Zur Vermeidung von Abgrenzungsproblemen sind die Unterschiede zwischen Busse und Geldstrafe im folgenden Überblick zusammengefasst:
 
-| Merkmal | Busse (Art. 106) | Geldstrafe (Art. 34) |
-|---------|-------------------|----------------------|
-| Bemessung | nach Verhältnissen / Verschulden | Tagessatzsystem (Nettoeinkommen) |
-| Höchstbetrag | 10 000 Fr. (Grundregel) | Kein nomineller Höchstbetrag |
-| Anwendungsbereich | Übertretungen, Verbindungsbusse | Verbrechen und Vergehen |
-| Ersatzmassnahme | Ersatzfreiheitsstrafe (1 Tag – 3 Monate) | Ersatzfreiheitsstrafe (1 Tagessatz = 1 Tag, Art. 36 Abs. 1 StGB) |
-| Bemessungseinheit | Franken | Tagessätze (je 30–3000 Fr.) |
-| Mindestbetrag | Kein Mindestbetrag | 1 Tagessatz (mindestens 30 Fr.) |
+| Merkmal | Busse (Art. 106 StGB) | Geldstrafe (Art. 34 StGB) |
+|---------|-----------------------|---------------------------|
+| **Systematische Kategorie** | Festbetragssystem (CHF) | Tagessatzsystem |
+| **Anwendungsbereich** | Übertretungen (sowie Verbindungsbusse) | Verbrechen und Vergehen |
+| **Höchstbetrag** | 10 000 Fr. (Grundregel, Abs. 1) | 120 Tagessätze (max. 3 000 Fr./Tag) |
+| **Bedingter Vollzug** | Ausgeschlossen (immer unbedingt) | Grundsatz (Art. 42 Abs. 1 StGB) |
+| **Ersatzfreiheitsstrafe** | 1 Tag bis 3 Monate (Abs. 2) | 1 Tag pro nicht bezahlten Tagessatz (Art. 36 Abs. 1 StGB) |
+| **Bemessungskriterien** | Verschulden & wirtschaftliche Verhältnisse | Tagessatzzahl (Verschulden), Tagessatzhöhe (Nettoeinkommen) |
 
-**21** **Kumulation**: Busse und Geldstrafe können kumulativ ausgesprochen werden, wenn das Gesetz dies vorsieht (z.B. bei Verkehrsdelikten mit Verbindungsbusse). Die Kumulation muss jedoch verhältnismässig sein und darf nicht zu einer Überbestrafung führen.
+### IX. Kantonale Praxisfragen
 
-### IX. Kasuistik
+**21** **Praxisfrage 1: Zuständigkeit und Prüfungsraster zur Feststellung der «schuldhaften» Nichtbezahlung vor der Vollstreckung der Ersatzfreiheitsstrafe**
+*Problemstellung*: Wann und durch wen muss im Vollzugsverfahren konkret geprüft werden, ob die Nichtbezahlung der Busse schuldhaft war, bevor der Verurteilte in die Vollzugsanstalt eingewiesen wird?
+*Kantonale Praxis & Bundesrecht*: Die Festsetzung der Ersatzfreiheitsstrafe im gerichtlichen Dispositiv (Abs. 2) erfolgt unter der gesetzlichen Bedingung der schuldhaften Nichtbezahlung. Die kantonale Vollzugsbehörde ist verpflichtet, vor der Anordnung des Vollzugs der Ersatzfreiheitsstrafe die aktuellen finanziellen Verhältnisse des Verurteilten amtlich zu überprüfen. Weist der Verurteilte nach, dass er infolge unverschuldeter Notlage (z. B. Sozialhilfebezug, Vermögensverfall) zahlungsunfähig ist, darf die Ersatzfreiheitsstrafe nicht vollzogen werden ([BGE 144 IV 136](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_136) E. 7.2; [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60)). Die Abklärung obliegt primär den kantonalen Inkasso- und Vollzugsbehörden.
 
-**22** **Verbindungsbusse und Verschreiber**: Weicht das Dispositiv (20 Tagessätze) vom Begründungstext (25 Tagessätze) zugunsten des Beschuldigten ab, wird der Verschreiber nicht korrigiert. Die Verbindungsbusse berechnet sich nach dem im Dispositiv ausgewiesenen Betrag ([BGer 6B_1005/2025 E. 6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=6B_1005/2025)). Dies bestätigt den Grundsatz, dass das Dispositiv bei Abweichungen zugunsten des Beschuldigten massgebend ist (Günstigkeitsprinzip).
-
-**23** **Bussenbemessung bei Verkehrsdelikten**: Bei Verkehrsdelikten ist die Busse nach den Schweregradkriterien von Art. 90 SVG (SR 741.01) zu bemessen. Innerorts Überschreitung um mehr als 40 km/h löst eine grobe Verkehrsregelverletzung aus, die mit Freiheitsstrafe oder Geldstrafe geahndet werden kann — die Busse nach Art. 106 StGB kommt bei fahrlässigen Verstössen ohne grobe Gefährdung zum Zug ([BGE 129 IV 210 E. 3.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_129_IV_210)).
-
-**24** **Schuldhaftigkeit der Nichtbezahlung**: Kann der Verurteilte die Busse infolge Vermögensverfalls oder Arbeitslosigkeit nicht bezahlen, so ist die Nichtbezahlung nicht schuldhaft. Die Vollzugsbehörde muss die wirtschaftlichen Verhältnisse des Verurteilten prüfen, bevor die Ersatzfreiheitsstrafe vollzogen wird ([BGE 143 IV 358 E. 3.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_143_IV_358); [BGE 136 IV 1 E. 2.6](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE_136_IV_1)).
-
-**25** **Materielle Ausschöpfung des Instanzenzugs**: Rügen zur Verbindungsbusse müssen spätestens im Berufungsverfahren erhoben werden. Erstmals vor Bundesgericht erhobene Rügen sind unzulässig, wenn nicht dargelegt wird, weshalb sie nicht schon im kantonalen Verfahren vorgebracht wurden ([BGer 6B_951/2024 E. 2.3.5](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=6B_951/2024)).
+**22** **Praxisfrage 2: Beizug von Ratenzahlungsvereinbarungen zur Abwendung der Ersatzfreiheitsstrafe im kantonalen Vollzug**
+*Problemstellung*: In welchem Rahmen sind kantonale Vollzugsbehörden gehalten, bei bescheidenen wirtschaftlichen Verhältnissen Ratenzahlungen zu gewähren (Art. 106 Abs. 5 i.V.m. Art. 35 StGB)?
+*Kantonale Praxis*: Kantonale Gerichte und Vollzugsbehörden gewähren bei nachgewiesener teilweiser Leistungsfähigkeit grosszügig Ratenzahlungen, um den Vollzug einer Ersatzfreiheitsstrafe zu vermeiden. Stellt der Verurteilte ein begründetes Gesuch um Zahlungserleichterungen und hält er die vereinbarten Teilzahlungen ein, ist die Einleitung des Vollzugs der Ersatzfreiheitsstrafe aufgeschoben. Bei Nichteinhaltung der Raten lebt die Verpflichtung zur Bezahlung bzw. das Umwandlungsverfahren für den Restbetrag wieder auf ([zh_obergericht_SB180214](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180214)).
 
 ## Literatur
 
-- Donatsch/Hanser/Hofmann, Strafrecht IV, 7. Aufl. 2024, § 8
-- Pieth/Niggli/Wiprächtiger, Basler Kommentar StGB, Bd. I, 4. Aufl.
-- Trechsel/Geth, Schweizerisches Strafprozessrecht, 3. Aufl.
-- Gmür/Pfister, Strassenverkehrsrecht, 4. Aufl. 2023, Art. 90 SVG N. 1–45
+- Donatsch/Hanser/Hofmann, Strafrecht IV: Sanctions and Procedure, 7. Aufl., Zürich 2024.
+- Niggli/Wiprächtiger (Hrsg.), Basler Kommentar zum Strafrecht (StGB/JStG), Bd. I, 4. Aufl., Basel 2019, N. 1–45 zu Art. 106 StGB.
+- Trechsel/Pieth (Hrsg.), Schweizerisches Strafgesetzbuch, Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, N. 1–15 zu Art. 106 StGB.
+- Stratenwerth/Wohlers, Schweizerisches Strafgesetzbuch, Handkommentar, 4. Aufl., Bern 2020.
+- Gmür/Pfister, Strassenverkehrsrecht, 4. Aufl. 2023, Art. 90 SVG N. 1–45.
