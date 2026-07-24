@@ -2,8 +2,8 @@
 title: "Art. 323 — Fälligkeit des Lohnes"
 weight: 323
 date: 2026-07-22
-lastmod: 2026-07-22
-description: "Kommentar zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Anteil am Geschäftsergebnis, Vorschuss, relativ zwingendes Recht, kantonale Mindestlohnregelungen, Globalberechnung vs. Monatsberechnung"
+lastmod: 2026-07-24
+description: "Kommentar zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Anteil am Geschäftsergebnis, Vorschuss, dispositives vs. absolut zwingendes Recht, kantonale Mindestlohnregelungen, Globalberechnung vs. Monatsberechnung"
 tags: ["OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
 agent_verified: true
 ---
@@ -24,9 +24,9 @@ agent_verified: true
 
 **1** **Bedeutung.** Art. 323 OR regelt die **Fälligkeit des Lohnes** im individuellen Arbeitsvertrag. Die Norm bestimmt, wann der Arbeitnehmer Anspruch auf Ausrichtung des Lohnes hat und welche Besonderheiten für einzelne Lohnarten (Provision, Anteil am Geschäftsergebnis, Vorschuss) gelten. Sie ist von zentraler praktischer Bedeutung, weil sie den **Zeitpunkt** der Lohnzahlung festlegt und damit den Arbeitnehmer vor unangemessenen Zahlungsverzögerungen schützt.
 
-**2** **Monatliche Lohnzahlung als Grundsatz.** Der Grundgedanke von Art. 323 Abs. 1 OR ist die **monatliche Lohnzahlungspflicht**: Fehlen abweichende vertragliche oder kollektivrechtliche Bestimmungen, ist der Lohn am Ende jedes Monats fällig. Diese Regel ist **dispositiv** — kürzere Fristen oder andere Termine können verabredet werden, und Normalarbeitsvertrag (NAV) sowie Gesamtarbeitsvertrag (GAV) können Abweichendes bestimmen. Längere Fristen als einen Monat können jedoch durch Einzelvertrag nicht wirksam vereinbart werden, soweit dies den worknehmenden Schutz unterläuft (relativ zwingend, Art. 362 OR).
+**2** **Monatliche Lohnzahlung als Grundsatz.** Der Grundgedanke von Art. 323 Abs. 1 OR ist die **monatliche Lohnzahlungspflicht**: Fehlen abweichende vertragliche oder kollektivrechtliche Bestimmungen, ist der Lohn am Ende jedes Monats fällig. Diese Regel ist **dispositiver Natur** — abweichende Auszahlungsintervalle oder Fälligkeitstermine können durch Einzelarbeitsvertrag (EAV), Normalarbeitsvertrag (NAV) oder Gesamtarbeitsvertrag (GAV) verabredet werden.
 
-**3** **Relativ zwingender Charakter.** Art. 323 OR gehört zu den Bestimmungen, die nur zugunsten des Arbeitnehmers von der vertraglichen oder kollektivrechtlichen Regelung abweichen können (**relativ zwingend**, Art. 362 OR). Abreden, die den Arbeitnehmer gegenüber dem gesetzlichen Standard schlechterstellen, sind nichtig, soweit sie nicht durch NAV oder GAV gedeckt sind. Abreden, die den Arbeitnehmer bessersellen, sind zulässig.
+**3** **Rechtsnatur: Dispositives vs. absolut zwingendes Recht.** Art. 323 Abs. 1–3 OR enthalten dispositives Recht und stehen weder im Katalog des absolut zwingenden (Art. 361 OR) noch des relativ zwingenden Rechts (Art. 362 OR). Fälligkeitstermine und Zahlungsfristen können somit vertraglich angepasst werden (vorbehältlich zwingender Schriftform bei Provisionen über 6 Monate gemäss Abs. 2 sowie der Obergrenze von 6 Monaten nach Geschäftsabschluss bei Gewinnbeteiligungen gemäss Abs. 3). Demgegenüber ist der Vorschussanspruch nach Art. 323 Abs. 4 OR **absolut zwingend** (Art. 361 Abs. 1 OR); er kann weder durch Einzelvertrag noch durch NAV oder GAV zuungunsten des Arbeitnehmers oder Arbeitgebers wegbedungen werden.
 
 **4** **Sozialpolitischer Schutzzweck.** Die monatliche Lohnzahlungspflicht dient dem **Existenzschutz** des Arbeitnehmers: Er ist auf regelmässige Einkünfte angewiesen, um seinen Lebensunterhalt bestreiten zu können. Dieser Schutzzweck ist auch massgebend bei der Auslegung kantonaler Mindestlohnregelungen, die eine monatliche Auszahlungsverpflichtung vorsehen (→ unten Rz. 12 ff.).
 
@@ -40,7 +40,7 @@ agent_verified: true
 
 **6** **Ende jedes Monats.** Die Fälligkeit tritt **am Ende jedes Monats** ein. Das bedeutet: Der Arbeitnehmer hat am letzten Tag des Monats einen fälligen Anspruch auf den Lohn für den abgelaufenen Monat. Die Auszahlung kann praktisch einige Tage später erfolgen, wenn dies verabredet oder üblich ist; die Fälligkeit als solche entsteht jedoch am Monatsende.
 
-**7** **Abweichende Fristen und Termine.** Kürzere Fristen (z.B. zweiwöchentliche oder wöchentliche Auszahlung) oder andere Termine (z.B. der 15. des Folgemonats) können **verabredet** oder **üblich** sein. «Verabredet» meint die einzelvertragliche Vereinbarung; «üblich» bezieht sich auf die Verkehrssitte in einer Branche oder einem Gewerbe. Längere Fristen als einen Monat sind durch Einzelvertrag nur zulässig, wenn sie den Arbeitnehmer nicht schlechterstellen (relativ zwingend, Art. 362 OR).
+**7** **Abweichende Fristen und Termine.** Kürzere Fristen (z.B. zweiwöchentliche oder wöchentliche Auszahlung) oder andere Termine (z.B. der 15. des Folgemonats) können **verabredet** oder **üblich** sein. «Verabredet» meint die einzelvertragliche Vereinbarung; «üblich» bezieht sich auf die Verkehrssitte in einer Branche oder einem Gewerbe. Da Abs. 1 dispositiv ist, können durch Vereinbarung auch abweichende Fristen vereinbart werden, solange die Abrede nicht gegen allgemeine Schranken der Vertragsfreiheit (z.B. Art. 27 ZGB, Sittenwidrigkeit) verstösst.
 
 **8** **Normalarbeitsvertrag und Gesamtarbeitsvertrag.** NAV (Art. 359 ff. OR) und GAV können abweichende Fälligkeitstermine bestimmen. Der NAV kann insbesondere für Branchen mit besonderen Gegebenheiten (z.B. Saisongewerbe) andere Regelungen treffen. Der GAV hat Vorrang vor der einzelvertraglichen Abrede (Art. 357 OR). Flankierende Massnahmen gegen Lohndumping können Mindestlöhne und Auszahlungsmodalitäten vorsehen (→ BGE 143 II 102; BGE 140 III 59).
 
@@ -56,7 +56,7 @@ agent_verified: true
 
 **12** **Fälligkeit bei Feststellung.** Der Anteil am Geschäftsergebnis (Gewinnbeteiligung) wird fällig, sobald das Geschäftsergebnis **festgestellt** ist. Die Feststellung erfolgt regelmässig durch den Jahresabschluss (Bilanz und Erfolgsrechnung). Die Fälligkeit hängt nicht von der tatsächlichen Auszahlung an die Gesellschafter ab, sondern von der formellen Feststellung des Ergebnisses.
 
-**13** **Äusserste Frist: sechs Monate nach Ablauf des Geschäftsjahres.** Unabhängig von der Feststellung des Geschäftsergebnisses wird der Anteil spätestens **sechs Monate nach Ablauf des Geschäftsjahres** fällig. Diese äusserste Frist verhindert, dass der Arbeitgeber durch verzögerte Jahresabschlussverfahren die Auszahlung unbegrenzt hinausschieben kann. Die Frist ist relativ zwingend (Art. 362 OR): eine vertragliche Verlängerung zulasten des Arbeitnehmers ist nichtig.
+**13** **Äusserste Frist: sechs Monate nach Ablauf des Geschäftsjahres.** Unabhängig von der Feststellung des Geschäftsergebnisses wird der Anteil spätestens **sechs Monate nach Ablauf des Geschäftsjahres** fällig. Diese gesetzliche Höchstfrist verhindert, dass der Arbeitgeber durch verzögerte Jahresabschlussverfahren die Auszahlung unbegrenzt hinausschieben kann.
 
 #### 4. Vorschuss (Abs. 4)
 
@@ -67,7 +67,7 @@ agent_verified: true
 - **Geleistete Arbeit**: Der Vorschuss bemisst sich nach der bereits geleisteten Arbeit — der Arbeitnehmer kann keinen Vorschuss für noch zu erbringende Arbeitsleistung verlangen.
 - **Billigkeit**: Der Arbeitgeber muss billigerweise in der Lage sein, den Vorschuss zu gewähren. Dies setzt voraus, dass die Gewährung wirtschaftlich zumutbar ist und den Arbeitgeber nicht in eine eigene Notlage bringt.
 
-**16** **Rechtsnatur.** Der Vorschuss ist ein **Vorauszahlung** auf den noch nicht fälligen Lohn, kein additionaler Lohnbestandteil. Er wird auf den später fällig werdenden Lohn angerechnet. Der Anspruch ist relativ zwingend (Art. 362 OR) — ein vertraglicher Ausschluss des Vorschussanspruchs ist nichtig.
+**16** **Rechtsnatur.** Der Vorschuss ist eine **Vorauszahlung** auf den noch nicht fälligen Lohn, kein zusätzlicher Lohnbestandteil. Er wird auf den später fällig werdenden Lohn angerechnet. Der Vorschussanspruch ist **absolut zwingend** (Art. 361 Abs. 1 OR) — ein vertraglicher Ausschluss oder eine Einschränkung des Vorschussanspruchs ist gemäss Art. 361 Abs. 2 OR nichtig.
 
 ### II. Abgrenzungen
 
@@ -75,7 +75,7 @@ agent_verified: true
 
 **18** **Art. 349a OR — Handelsreisender.** Für Handelsreisende gilt Art. 349a OR: Die Provision muss angemessen sein. Art. 323 Abs. 2 OR regelt die Fälligkeit auch für Handelsreisende, wobei Art. 349a OR analog anwendbar ist, wenn der Lohn vorwiegend aus Provision besteht (BGE 129 III 664; BGE 139 III 214; BGer 4A_129/2022).
 
-**19** **Art. 362 OR — Relativ zwingend.** Art. 323 OR ist relativ zwingend (Art. 362 OR). Abreden, die den Arbeitnehmer gegenüber der gesetzlichen Regelung schlechterstellen, sind nichtig. Abreden zugunsten des Arbeitnehmers sind zulässig. NAV und GAV können abweichende Regelungen treffen (Art. 359 ff. OR).
+**19** **Art. 361 & 362 OR — Dispositives und zwingendes Recht.** Art. 323 Abs. 1–3 OR enthalten dispositives Recht und werden in den Katalogen von Art. 361 und 362 OR nicht aufgeführt. Demgegenüber steht Art. 323 Abs. 4 OR (Vorschuss) im Katalog des **absolut zwingenden Rechts** (Art. 361 Abs. 1 OR). Eine Abrede, die den gesetzlichen Vorschussanspruch bei Notlage für bereits geleistete Arbeit wegbedingt, ist nach Art. 361 Abs. 2 OR nichtig.
 
 **20** **Art. 324 OR — Lohn bei Verhinderung.** Art. 324 OR regelt die Lohnzahlungspflicht bei Verhinderung des Arbeitnehmers aus persönlichen Gründen (Abs. 1) oder infolge higherer Gewalt (Abs. 2). Art. 323 OR regelt demgegenüber die **Fälligkeit** des Lohnes, nicht die Lohnzahlungspflicht bei Verhinderung. Beide Normen sind jedoch sachlich verbunden: Der Lohnanspruch nach Art. 324 OR wird nach Art. 323 OR fällig (BGE 114 II 274 — Lohnzahlungspflicht bei Unmöglichkeit, Art. 324 OR; BGE 96 II 133 — Lohnzahlungspflicht, Verhinderung).
 
@@ -105,7 +105,7 @@ agent_verified: true
 
 **30** **Kernaussagen des Bundesgerichts.** Das Bundesgericht (I. zivilrechtliche Abteilung, 3er-Besetzung) hielt fest:
 
-- Die monatliche Lohnzahlungspflicht nach Art. 323 Abs. 1 OR ist **relativ zwingend** (Art. 362 OR).
+- Der bundesrechtliche Grundsatz der monatlichen Fälligkeit nach Art. 323 Abs. 1 OR bildet den Referenzrahmen für den Auszahlungsrhythmus im Arbeitsrecht (wobei das Bundesgericht in E. 3.4.1 den Schutzzweck betont).
 - Kantonale Mindestlohnregelungen mit monatlicher Auszahlungsverpflichtung (hier: Art. 56F Abs. 2 RIRT/GE) **korrespondieren** mit Art. 323 OR und widersprechen dem Bundesrecht nicht.
 - Die monatsbezogene Berechnungsmethode (Monate mit Überzahlung können nicht auf Monate mit Unterdeckung angerechnet werden) ist **nicht willkürlich**, sondern legitime Konkretisierung des sozialpolitischen Schutzzwecks.
 - Der Vorrang des Bundesrechts (Art. 49 Abs. 1 BV) wird durch kantonale Mindestlohnregelungen nicht verletzt (BGE 143 I 403).
@@ -123,6 +123,7 @@ agent_verified: true
 - [Art. 349a OR](../art-349a/) — Handelsreisender (angemessene Provision)
 - [Art. 357 OR](../art-357/) — GAV-Vorrang
 - [Art. 359 OR](../art-359/) — Normalarbeitsvertrag
+- [Art. 361 OR](../art-361/) — Absolut zwingendes Recht (Abs. 4 Vorschuss)
 - [Art. 362 OR](../art-362/) — Relativ zwingendes Recht
 - [Art. 82 OR](../art-82/) — Einrede des nichterfüllten Vertrags
 - [Art. 360a OR](../art-360a/) — Flankierende Massnahmen, Mindestlohn
@@ -138,4 +139,4 @@ agent_verified: true
 
 ---
 
-*Letzte Aktualisierung: 2026-07-22 — Gesetzestext verifiziert via Fedlex (SR 220, Art. 323, Konsolidierungsstand 1.1.2026)*
+*Letzte Aktualisierung: 2026-07-24 — Dogmatik korrigiert (Art. 323 Abs. 1–3 OR dispositiv; Abs. 4 absolut zwingend nach Art. 361 OR); Gesetzestext verifiziert via Fedlex (SR 220, Art. 323, Konsolidierungsstand 1.1.2026)*

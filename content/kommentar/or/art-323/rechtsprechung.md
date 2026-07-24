@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 323 OR"
 weight: 99
 date: 2026-07-22
-lastmod: 2026-07-22
+lastmod: 2026-07-24
 description: "Übersicht der verifizierten Entscheide zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Mindestlohn, Globalberechnung vs. Monatsberechnung"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
 agent_verified: true
@@ -109,13 +109,13 @@ agent_verified: true
 **Thema**: Genfer monatliche Mindestlohn-Auszahlung harmoniert mit Art. 323 OR (I. zivilrechtliche Abteilung, 3er-Besetzung).
 
 **Kernaussagen**:
-- Die monatliche Lohnzahlungspflicht nach Art. 323 Abs. 1 OR ist **relativ zwingend** (Art. 362 OR).
+- Die monatliche Lohnzahlungspflicht nach Art. 323 Abs. 1 OR setzt den gesetzlichen Fälligkeitsrahmen (das Bundesgericht verweist in E. 3.4.1 auf den sozialpolitischen Schutzzweck).
 - Kantonale Mindestlohnregelungen mit monatlicher Auszahlungsverpflichtung (hier: Art. 56F Abs. 2 RIRT/GE) **korrespondieren** mit Art. 323 OR und widersprechen dem Bundesrecht nicht.
 - Die **monatsbezogene Berechnungsmethode** (Monate mit Überzahlung können nicht auf Monate mit Unterdeckung angerechnet werden) ist nicht willkürlich, sondern legitime Konkretisierung des sozialpolitischen Schutzzwecks.
 - **Globalberechnung vs. Monatsberechnung**: kumulatives Defizit pro Monat, keine Verrechnung zwischen Monaten.
 - **Vorrang des Bundesrechts** (Art. 49 Abs. 1 BV): Kantonaler Mindestlohn verletzt diesen nicht (BGE 143 I 403).
 
-*Einschlägig für*: Art. 323 Abs. 1 OR; Art. 362 OR; Art. 49 Abs. 1 BV; kantonaler Mindestlohn; Globalberechnung vs. Monatsberechnung
+*Einschlägig für*: Art. 323 Abs. 1 OR; Art. 49 Abs. 1 BV; kantonaler Mindestlohn; Globalberechnung vs. Monatsberechnung
 *Verifiziert via*: OCL case-brief
 
 ---
