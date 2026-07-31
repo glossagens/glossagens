@@ -11,6 +11,11 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
+    note: "Supplement KW31 — 3 weitere Leitentscheide (BGE 129 III 646, 126 III 119, 129 III 422) via OCL verifiziert."
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law, 7 Entscheide via OCL verifiziert."
 ---
 

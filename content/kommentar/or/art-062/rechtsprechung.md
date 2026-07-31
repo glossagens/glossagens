@@ -11,6 +11,11 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
+    note: "Supplement KW31 — 3 weitere Leitentscheide (BGE 129 III 646, 126 III 119, 129 III 422) via OCL verifiziert."
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
     note: "Neuerstellung KW31 — alle Entscheide via OCL (regeste/case-brief) verifiziert."
 ---
 
@@ -68,6 +73,30 @@ Das Bundesgericht bestätigt seine Rechtsprechung, dass eine **fortbestehende Da
 
 → Quelle: bger-update.ch Wochenübersicht KW31/2026 (Bestätigung der Rechtsprechung)
 
+### BGE 129 III 646 — Rückwirkender Fortfall der Unterhaltsverpflichtung des Registervaters
+
+**BGE 129 III 646 vom 16. Oktober 2003**
+
+Ungerechtfertigte Bereicherung. Klage des Registervaters gegen den Erzeuger für geleisteten Kindesunterhalt. Wird das rechtliche Kindesverhältnis zum Registervater durch Anfechtungsklage beseitigt, entfällt dessen Unterhaltsverpflichtung rückwirkend auf den Zeitpunkt ihrer Entstehung, während der Erzeuger bereichert ist, weil er seiner Unterhaltspflicht nicht nachgekommen ist. Leitentscheid zur bereicherungsrechtlichen Rückabwicklung im familiären Dreiecksverhältnis.
+
+→ [BGE 129 III 646](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_646)
+
+### BGE 126 III 119 — Rückforderung zuviel bezahlter Akontozahlungen aus Vertrag, nicht aus Art. 62 OR
+
+**BGE 126 III 119 vom 6. März 2000**
+
+Rückforderungsanspruch aufgrund zuviel bezahlter Akontozahlungen. Der Anspruch auf Rückerstattung zuviel bezahlter Akontozahlungen ergibt sich entgegen der in BGE 107 II 220 geäusserten Ansicht nicht aus Art. 62 ff. OR, sondern aus vertraglichem Rückforderungsanspruch. Wichtige Präzisierung der Abgrenzung zwischen bereicherungsrechtlicher und vertraglicher Rückforderung: soweit ein Vertrag die Akontozahlung regelt, ist die Rückforderung vertraglicher Natur.
+
+→ [BGE 126 III 119](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_III_119)
+
+### BGE 129 III 422 — Eingriffskondiktion und Geschäftsanmassung
+
+**BGE 129 III 422 vom 7. Juli 2003**
+
+Art. 62 Abs. 1 und Art. 423 OR; Eingriffskondiktion und Geschäftsanmassung. Der Eigentümer, dessen Sache von einem dazu nicht Berechtigten vermietet wird, erleidet einen Eingriff in seine absolute Rechtsstellung. Er kann gegenüber dem Vermieter Ansprüche aus ungerechtfertigter Bereicherung oder aus Geschäftsanmassung geltend machen. Klärt die dogmatische Verortung der Eingriffskondiktion bei vermieteten Sachen Dritter.
+
+→ [BGE 129 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_422)
+
 ## Übersichtstabelle
 
 | Entscheidung | Datum | Kernthema |
@@ -77,4 +106,7 @@ Das Bundesgericht bestätigt seine Rechtsprechung, dass eine **fortbestehende Da
 | BGE 95 II 221 | 01.01.1969 | Art. 672 ZGB versus ungerechtfertigte Bereicherung |
 | BGE 107 II 220 | 10.03.1981 | Rückforderung zuviel bezahlten Werklohns (Art. 62 ff.) |
 | BGE 117 II 404 | 22.10.1991 | Zuwendungsgrund bei anweisungsähnlichem Verhältnis |
+| BGE 126 III 119 | 06.03.2000 | Rückforderung Akontozahlungen aus Vertrag (nicht Art. 62 OR) |
+| BGE 129 III 422 | 07.07.2003 | Eingriffskondiktion und Geschäftsanmassung |
+| BGE 129 III 646 | 16.10.2003 | Rückwirkender Fortfall der Unterhaltspflicht des Registervaters |
 | Bestätigung KW31/2026 | 31.07.2026 | Fortbestehende Darlehensforderung schliesst Bereicherung aus |

@@ -6,6 +6,12 @@ lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 285 StGB (Gewalt und Drohung gegen Behörden und Beamte)"
 tags: ["Rechtsprechung", "StGB", "Gewalt gegen Beamte", "Amtshandlung"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Supplement KW31 — 2 klassische Leitentscheide (BGE 98 IV 41, 124 IV 127) via OCL verifiziert."
 ---
 
 # Rechtsprechungssammlung zu Art. 285 StGB
@@ -56,6 +62,24 @@ Verbundene Beschwerden bei Hinderung einer Amtshandlung (Art. 285 StGB). Teilwei
 Abweisung der Beschwerde bei Hinderung einer Amtshandlung (Art. 285 StGB) mit Rügen der willkürlichen Sachverhaltsfeststellung (Art. 9 BV) und der Verletzung des rechtlichen Gehörs (Art. 29 Abs. 2 BV). Bestätigt, dass bloss appellatorische Kritik an der vorinstanzlichen Sachverhaltsfeststellung unzulässig ist: Der Beschwerdeführer muss mit Aktenbezügen aufzeigen, inwiefern die Vorinstanz relevante Beweise übersehen oder willkürlich gewürdigt haben soll. Die Anwendung des Gewalt- und Hinderungsbegriffs von Art. 285 StGB auf den willkürfrei festgestellten Sachverhalt wird bestätigt.
 
 → [BGer 6B_957/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_957_2025)
+
+## Klassische Leitentscheide
+
+### BGE 98 IV 41 — Widersetzlichkeit gegen offensichtlich rechtswidrige Amtshandlung
+
+**BGE 98 IV 41 vom 11. Februar 1972**
+
+Art. 285 Ziff. 1 StGB. Widersetzlichkeit gegen Amtshandlungen bleibt straflos, wenn die Amtshandlung offensichtlich rechtswidrig ist, die Rechtsmittel keinen wirksamen Schutz erwarten lassen und der Widerstand zur Bewahrung oder Wiederherstellung des rechtmässigen Zustandes dient. Leitentscheid zum Rechtfertigungsgrund des Widerstandsrechts bei offensichtlich rechtswidrigen Amtshandlungen — begrenzt die Strafbarkeit der Widersetzlichkeit durch ein notwehrähnliches Rechtfertigungselement.
+
+→ [BGE 98 IV 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_98_IV_41)
+
+### BGE 124 IV 127 — Hinderung einer Amtshandlung durch Flucht vor Ausweiskontrolle; Selbstbegünstigung
+
+**BGE 124 IV 127 vom 8. November 1996**
+
+Art. 286 StGB und Art. 305 Abs. 1 StGB; Hinderung einer Amtshandlung; Selbstbegünstigung. Wer sich durch Flucht einer Ausweiskontrolle durch einen Polizeibeamten entzieht, um einer Strafverfolgung zu entgehen, macht sich der Hinderung einer Amtshandlung schuldig (Bestätigung der Rechtsprechung). Klärt die Abgrenzung zwischen der strafbaren Hinderung einer Amtshandlung und der (straflosen) Selbstbegünstigung.
+
+→ [BGE 124 IV 127](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_IV_127)
 
 ---
 
