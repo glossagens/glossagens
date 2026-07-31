@@ -27,6 +27,7 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 
 ### Allgemeine Verfahrensbestimmungen (Art. 27–55)
 
+- [Art. 43 — Abklärung](art-043/)
 - [Art. 44 — Begutachtung](art-044/)
 - [Art. 49 — Verfügung](art-049/)
 - [Art. 55 — Anwendbarkeit des VwVG](art-055/)

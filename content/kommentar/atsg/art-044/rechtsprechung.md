@@ -26,6 +26,8 @@ Grundlegendes Leiturteil zur Begutachtung durch MEDAS (Medizinische Abklärungss
 
 Das Bundesgericht legt Art. 44 ATSG verfassungs- und konventionskonform als **nicht abschliessend** aus. Rz. 3067.1 KSVI verstösst gegen Bundesrecht. Die Mitwirkungsrechte aus BGE 137 V 210 bestehen über die gesamte Dauer des Begutachtungsverfahrens. Wenn zwischen dem Versicherungsträger und der versicherten Person ein Streit über die Anordnung einer Begutachtung besteht, muss der Versicherungsträger eine **Zwischenverfügung** erlassen, die selbstständig anfechtbar ist (Art. 93 Abs. 1 BGG). Die IV-Stelle kann nicht darauf warten, bis der materielle Endentscheid erlassen wird, um die Streitfrage über die Begutachtung zu lösen.
 
+> *Ausgangspunkt jeder Auslegung bildet der Wortlaut der massgeblichen Norm. Ist der Text nicht ganz klar und sind verschiedene Interpretationen möglich, so muss nach der wahren Tragweite der Bestimmung gesucht werden, wobei alle Auslegungselemente zu berücksichtigen sind (Methodenpluralismus). Dabei kommt es auf den Zweck der Regelung, die dem Text zugrundeliegenden Wertungen sowie auf den Sinnzusammenhang an, in welchem die Norm steht.* — [BGer 8C_445/2025 vom 10. Juli 2026, E. 5.2 und 6](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025#e-5-2)
+
 → [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025)
 
 ## Weitere Entscheide
