@@ -12,7 +12,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 143bis Unbefugtes Eindringen in ein Datenverarbeitungssystem**
+> **Art. 143bis StGB (Unbefugtes Beschaffen von Daten) Eindringen in ein Datenverarbeitungssystem**
 >
 > **1** Wer auf dem Wege von Datenübertragungseinrichtungen unbefugterweise in ein fremdes, gegen seinen Zugriff besonders gesichertes Datenverarbeitungssystem eindringt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 >

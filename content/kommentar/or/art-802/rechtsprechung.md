@@ -14,7 +14,7 @@ agent_verified: false
 
 ### BGer 4A_533/2025 — Umfang von «Büchern und Akten»: extensive Auslegung
 
-**BGer 4A_533/2025 vom 27. Juli 2026** (zur Publikation vorgesehen, 5er-Besetzung)
+**BGer 4A_533/2025** (zur Publikation vorgesehen, 5er-Besetzung)
 
 Erstmalsige extensive Auslegung von Art. 802 Abs. 2 OR in 5er-Besetzung: Die Begriffe «Bücher» und «Akten» umfassen **alle Dokumente der Gesellschaft**, nicht nur Buchhaltungsunterlagen. Eine Beschränkung auf Buchhaltungsunterlagen wird abgelehnt. Die extensive Auslegung stützt sich auf die Systematik der GmbH-Rechtsrevision (in Kraft seit 1. Januar 2008), die von engen persönlichen Beziehungen innerhalb der GmbH ausgeht und sich an den Vorschriften für Verwaltungsratsmitglieder einer AG (Art. 716a OR) orientiert. Die Rechtsprechung zu Art. 697a OR (Begriffe nicht exhaustiv, umfassen alle Dokumente im Besitz der Gesellschaft) wird auf Art. 802 Abs. 2 OR übertragen. Ein legitimes Interesse ist bei Vorliegen eines Zusammenhangs mit der Ausübung anderer Gesellschafterrechte glaubhaft gemacht; eine «fishing expedition» genügt jedoch nicht.
 

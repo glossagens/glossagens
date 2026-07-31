@@ -75,7 +75,7 @@ revisions:
 - **Thema**: Art. 90 Abs. 2 SVG (grobe Verkehrsregelverletzung); Willkür bei der Sachverhaltsfeststellung; Genugtuung; rechtliches Gehör
 - **Sachverhalt**: Am Abend des 4. Januar 2023 verursachte der Beschwerdeführer eine Ausfahrt und einen Unfall, der seine Beifahrerin und die anderen Verkehrsteilnehmer gefährdete und bei dem er beinahe mit einem entgegenkommenden Polizeifahrzeug kollidierte. Er wurde wegen grober Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG verurteilt.
 - **Kernaussagen**:
-  - **(E. 3.1)** Eine grobe Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG setzt objektiv voraus, dass der Täter durch eine **grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt** (vgl. Art. 90 Abs. 2 LCR/SVG).
+  - **(E. 3.1)** Eine grobe Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG setzt objektiv voraus, dass der Täter durch eine **grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt** (vgl. Art. 90 Abs. 2 SVG).
   - **(E. 3.4)** Das Bundesgericht sieht nicht, inwiefern der Begründung der Vorinstanz Bundesrecht verletzt wäre, zumal der Beschwerdeführer den grundsätzlichen Tatvorwurf der groben Verkehrsregelverletzung nicht bestreitet — die Willkürrüge gegenüber der Sachverhaltsfeststellung bleibt unbegründet.
   - Bestätigt die Praxis zur Abgrenzung zwischen einfacher (Abs. 1) und grober (Abs. 2) Verkehrsregelverletzung anhand der Kriterien Gefahrbegründung und Rücksichtslosigkeit.
 - **Dispositiv**: Teilweise Gutheissung; Schuldspruch Art. 90 Abs. 2 SVG bestätigt.

@@ -33,7 +33,7 @@ Die heutige Fassung von Art. 128 StGB trat am 1. Januar 1990 in Kraft (AS 1989 2
 | **Art. 11 StGB** | Begehen durch Unterlassen | Allgemeine Grundlage; Art. 128 ist eigenständiges echtes Unterlassungsdelikt |
 | **Art. 117 StGB** | Fahrlässige Tötung | Konkurrenz bei pflichtwidrigem Unterlassen mit Todesfolge |
 | **Art. 129 StGB** | Gefährdung des Lebens (skrupellos) | Begehungsdelikt der Lebensgefährdung |
-| **Art. 129bis StGB** a.F. | Nichtleistung der Nothilfe (früheres Recht) | Vorgängernorm vor der Revision von 1989 |
+| **Art. 129 StGB** a.F. | Nichtleistung der Nothilfe (früheres Recht) | Vorgängernorm vor der Revision von 1989 |
 
 ## I. Tatbestandsmerkmale
 

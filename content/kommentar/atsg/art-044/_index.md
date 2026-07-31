@@ -12,7 +12,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 44 Begutachtung**
+> **Art. 44 ATSG (Begutachtung)**
 >
 > **1** Erachtet der Versicherungsträger im Rahmen von medizinischen Abklärungen ein Gutachten als notwendig, so legt er je nach Erfordernis eine der folgenden Arten fest:
 >

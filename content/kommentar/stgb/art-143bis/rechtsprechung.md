@@ -30,7 +30,7 @@ Präzisierung der Teilsystem-Doktrin zu Art. 143bis StGB: Ein virtueller Raum mi
 
 ### BGer 6B_304/2026 — Konkurrenz Betrug und Identitätsmissbrauch
 
-**BGer 6B_304/2026 vom 30. Juli 2026** (zur Publikation vorgesehen)
+**BGer 6B_304/2026** (zur Publikation vorgesehen)
 
 Erstmalsige Klärung: Betrug (Art. 146 StGB) und Identitätsmissbrauch (Art. 179decies StGB) stehen in echtem Konkurrenzverhältnis, da sie unterschiedliche Rechtsgüter und Geschädigte schützen. Eine Absorption lehnt das Bundesgericht ab. Der Entscheid ist relevant für Art. 143bis StGB, weil Identitätsmissbrauch und unbefugtes Eindringen häufig zusammen auftreten (z.B. Login mit fremden Credentials).
 

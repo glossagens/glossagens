@@ -36,7 +36,7 @@ agent_verified: true
 
 **1** Art. 5 ELG regelt die **zusätzlich zu Art. 4 ELG geltenden Anspruchsvoraussetzungen für Ausländerinnen und Ausländer**. Die Norm legt eine **Karenzfrist** (Wartefrist) fest, während der sich ausländische Staatsangehörige ununterbrochen in der Schweiz aufhalten muss, bevor ein Anspruch auf Ergänzungsleistungen (EL) entsteht. Die Karenzfrist variiert nach dem aufenthaltsrechtlichen Status: 10 Jahre als Grundsatz (Abs. 1), 5 Jahre für Flüchtlinge und Staatenlose (Abs. 2) sowie 5 oder 10 Jahre bei Sozialversicherungsabkommen (Abs. 3).
 
-**2** Die Norm steht im systematischen Zusammenhang mit Art. 4 ELG (allgemeine Anspruchsvoraussetzungen), Art. 1 lit. c FZA (Freizügigkeitsabkommen), Art. 24 Anh. I FZA (Sozialhilfe bei Aufenthaltsbeendigung) und Art. 8 Abs. 2 BV (Rechtsgleichheit). Die Karenzfrist ist eine aufenthaltsrechtliche Bedingung, die den Zugang zur bedarfsabhängigen Sozialleistung für Ausländer einschränkt.
+**2** Die Norm steht im systematischen Zusammenhang mit Art. 4 ELG (allgemeine Anspruchsvoraussetzungen), Art. 1 lit. c FZA (Freizügigkeitsabkommen), Art. 24 Anhang ELG. I FZA (Sozialhilfe bei Aufenthaltsbeendigung) und Art. 8 Abs. 2 BV (Rechtsgleichheit). Die Karenzfrist ist eine aufenthaltsrechtliche Bedingung, die den Zugang zur bedarfsabhängigen Sozialleistung für Ausländer einschränkt.
 
 ### II. Rechtmässiger Aufenthalt (Abs. 1)
 
@@ -54,7 +54,7 @@ agent_verified: true
 
 ### V. Verhältnis zum Freizügigkeitsabkommen (FZA)
 
-**7** **FZA-Personen** Für Personen aus EU/EFTA-Staaten, die sich gestützt auf das FZA in der Schweiz aufhalten, gilt Art. 24 Anh. I FZA: Ein Widerruf der Aufenthaltsbewilligung bei Bezug von Sozialhilfe (dazu gehören EL) ist nur möglich, wenn die betroffene Person die Sozialhilfe unzulässig in Anspruch nimmt. Die Karenzfrist des Art. 5 ELG ist mit dem FZA vereinbar, soweit sie nicht diskriminierend wirkt ([BGE 135 II 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_265); [BGE 145 V 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_V_231)).
+**7** **FZA-Personen** Für Personen aus EU/EFTA-Staaten, die sich gestützt auf das FZA in der Schweiz aufhalten, gilt Art. 24 Anhang ELG. I FZA: Ein Widerruf der Aufenthaltsbewilligung bei Bezug von Sozialhilfe (dazu gehören EL) ist nur möglich, wenn die betroffene Person die Sozialhilfe unzulässig in Anspruch nimmt. Die Karenzfrist des Art. 5 ELG ist mit dem FZA vereinbar, soweit sie nicht diskriminierend wirkt ([BGE 135 II 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_265); [BGE 145 V 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_V_231)).
 
 ### VI. Abgrenzungen
 
@@ -69,7 +69,7 @@ agent_verified: true
 - [Art. 21 ELG](../art-021/) — Organisation und Verfahren
 - Art. 4 ELG — Allgemeine Voraussetzungen *(→ ELG)*
 - Art. 1 lit. c FZA — Freizügigkeitsabkommen
-- Art. 24 Anh. I FZA — Verbleiberecht bei Sozialhilfebezug
+- Art. 24 Anhang ELG. I FZA — Verbleiberecht bei Sozialhilfebezug
 
 ## Literatur
 

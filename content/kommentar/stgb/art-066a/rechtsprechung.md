@@ -26,7 +26,7 @@ agent_verified: false
 
 ### BGE 145 IV 364 — Landesverweisung und Freizügigkeitsabkommen
 
-[BGE 145 IV 364](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_364) (22. Mai 2019) — Bei der strafrechtlichen Landesverweisung von EU/EFTA-Bürgern ist im konkreten Einzelfall zu prüfen, ob die Massnahme zum Schutze der öffentlichen Ordnung und Sicherheit verhältnismässig ist (Art. 5 Abs. 1 Anhang I FZA). Das FZA hat keinen Einfluss auf die Gesetzgebung im Bereich des Strafrechts. Die Schweiz hat jedoch bei der Auslegung gesetzlicher Bestimmungen die völkerrechtlichen Verpflichtungen zu beachten. Eine spezifische Prüfung unter dem Blickwinkel der öffentlichen Ordnung und Sicherheit ist erforderlich; die blosse Tatsache einer Verurteilung genügt nicht.
+[BGE 145 IV 364](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_364) (22. Mai 2019) — Bei der strafrechtlichen Landesverweisung von EU/EFTA-Bürgern ist im konkreten Einzelfall zu prüfen, ob die Massnahme zum Schutze der öffentlichen Ordnung und Sicherheit verhältnismässig ist (Art. 5 Abs. 1 Anhang VVV I FZA). Das FZA hat keinen Einfluss auf die Gesetzgebung im Bereich des Strafrechts. Die Schweiz hat jedoch bei der Auslegung gesetzlicher Bestimmungen die völkerrechtlichen Verpflichtungen zu beachten. Eine spezifische Prüfung unter dem Blickwinkel der öffentlichen Ordnung und Sicherheit ist erforderlich; die blosse Tatsache einer Verurteilung genügt nicht.
 
 ### BGE 145 IV 404 — Einbruchsdelikt und Landesverweisung
 
@@ -118,7 +118,7 @@ agent_verified: false
 
 ### BGer 6B_1024/2019 — Betäubungsmittel und FZA
 
-[BGer 6B_1024/2019 vom 29. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1024_2019) — Landverweisung wegen qualifizierten Betrugs (Art. 66a Abs. 1 lit. b StGB). Bei EU/EFTA-Bürgern ist die Landesverweisung nur zulässig, wenn sie nach Massgabe von Art. 5 Abs. 1 Anhang I FZA verhältnismässig ist.
+[BGer 6B_1024/2019 vom 29. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1024_2019) — Landverweisung wegen qualifizierten Betrugs (Art. 66a Abs. 1 lit. b StGB). Bei EU/EFTA-Bürgern ist die Landesverweisung nur zulässig, wenn sie nach Massgabe von Art. 5 Abs. 1 Anhang VVV I FZA verhältnismässig ist.
 
 ### BGer 6B_191/2020 — Härtefall nach Art. 66a Abs. 2 StGB
 

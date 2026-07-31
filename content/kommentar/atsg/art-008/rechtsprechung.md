@@ -21,28 +21,28 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### BGE 148 V 390, E. 5.2
+### BGE 148 V 385, E. 5.2
 - **Thema**: Eingliederung vor Rente
 - **Kernaussage**: Die IV hat Eingliederungsmassnahmen durchzuführen, bevor eine Rente zugesprochen wird. Der Invaliditätsgrad ist nach Abschluss der Eingliederung zu beurteilen.
 - **Einschlägig für**: Art. 8 Abs. 3 (Eingliederungsmassnahmen)
 
 ---
 
-### BGE 146 V 252, E. 4.1
+### BGE 146 V 224, E. 4.1
 - **Thema**: Somme-Prinzip
 - **Kernaussage**: Massgebend für die Invalidität ist die Gesamtwirkung aller gesundheitlichen Beeinträchtigungen auf die Erwerbsfähigkeit, nicht jede einzelne Störung für sich allein.
 - **Einschlägig für**: Art. 8 Abs. 1 (Beeinträchtigung der Erwerbsfähigkeit)
 
 ---
 
-### BGE 144 V 220, E. 5.2
+### BGE 144 V 210, E. 5.2
 - **Thema**: Zumutbare Vergleichstätigkeit
 - **Kernaussage**: DieZumutbarkeitsprüfung einer anderen Tätigkeit erfolgt im Rahmen der konkreten Vergleichslehre unter Berücksichtigung von Alter, Ausbildung und Berufserfahrung.
 - **Einschlägig für**: Art. 8 Abs. 2 (zumutbare Tätigkeit)
 
 ---
 
-### BGE 141 V 577, E. 3.2 und 4.2
+### BGE 141 V 521, E. 3.2 und 4.2
 - **Thema**: Voraussichtlich dauernde Beeinträchtigung
 - **Kernaussage**: «Voraussichtlich dauernd» bedeutet nicht endgültig oder irreversibel, sondern dass nach medizinischen und versicherungsrechtlichen Erfahrungen mit einer fortgesetzten Beeinträchtigung zu rechnen ist.
 - **Einschlägig für**: Art. 8 Abs. 1 (Voraussichtlich dauernd)
@@ -58,7 +58,7 @@ revisions:
 
 ---
 
-### BGE 147 V 205
+### BGE 147 V 187
 - **Thema**: Invaliditätsbemessung im UVG
 - **Kernaussage**: Nach UVG richtet sich die Bemessung des Invaliditätsgrades nach den unfallbedingten gesundheitlichen Auswirkungen auf die Erwerbsfähigkeit.
 - **Einschlägig für**: Art. 8 Abs. 1 (Erwerbsfähigkeit)
@@ -77,7 +77,7 @@ revisions:
   - **(E. 3.2)** Der angefochtene Entscheid legt die gesetzlichen Bestimmungen und rechtsprechungsrechtlichen Grundsätze zum Invaliditätsbegriff (Art. 8 LPGA und Art. 4 LAI) und zu seiner Bewertung (Art. 16 LPGA und Art. 28a LAI) vollständig dar, insbesondere zum invalidierenden Charakter psychischer Störungen.
   - **(E. 3.1)** Im Rahmen der IV-Weiterentwicklung wurden LAI, RAI und LPGA per 1. Januar 2022 geändert; massgeblich sind die allgemeinen intertemporalen Grundsätze (vgl. BGE 150 V 323 E. 4.2).
   - **Präzisierung der Indikatoren-Prüfung nach BGE 141 V 281**: Eine blosse ICD-10-Z-Code-Diagnose ohne IV-relevante funktionelle Beeinträchtigung genügt nicht; die Indikatoren-Prüfung ist erst bei einer tragfähigen psychiatrischen Diagnose vorzunehmen, Z-Codes allein tragen eine IV-Rente nicht.
-- **Einschlägig für**: Art. 8 Abs. 1 LPGA/ATSG (Invaliditätsbegriff bei psychischen Störungen; Indikatoren-Prüfung; Z-Codes)
+- **Einschlägig für**: Art. 8 Abs. 1 ATSG (Invaliditätsbegriff bei psychischen Störungen; Indikatoren-Prüfung; Z-Codes)
 
 → [9C_73/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_73_2026)
 

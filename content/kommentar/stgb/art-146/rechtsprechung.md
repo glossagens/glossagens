@@ -38,28 +38,28 @@ agent_verified: false
 
 ---
 
-### BGE 148 IV 73 – Offenbarungspflicht und Unterdrückung von Tatsachen
+### BGE 148 IV 57 – Offenbarungspflicht und Unterdrückung von Tatsachen
 - **Thema**: Aufklärungspflicht bei Unterdrückung von Tatsachen
 - **Kernaussage**: Eine Aufklärungspflicht kann sich aus Gesetz, Vertrag, Treu und Glauben oder einer besonderen Vertrauensstellung ergeben.
 - **Einschlägig für**: Art. 146 Abs. 1 (Unterdrückung von Tatsachen)
 
 ---
 
-### BGE 146 IV 179 – Stoffgleichheit zwischen Vorteil und Nachteil
+### BGE 146 IV 172 – Stoffgleichheit zwischen Vorteil und Nachteil
 - **Thema**: Stoffgleichheit bei der Bereicherungsabsicht
 - **Kernaussage**: Der erstrebte Vorteil muss mit dem erlittenen Nachteil stoffgleich sein. Dies ist eine Voraussetzung für die Bereicherungsabsicht.
 - **Einschlägig für**: Art. 146 Abs. 1 (Bereicherungsabsicht)
 
 ---
 
-### BGE 146 IV 239 – Schweigen als Täuschung
+### BGE 146 IV 238 – Schweigen als Täuschung
 - **Thema**: Schweigen als Täuschungshandlung
 - **Kernaussage**: Ein bloses Schweigen genügt für die Annahme einer Täuschung grundsätzlich nicht. Eine Ausnahme gilt, wenn eine Aufklärungspflicht besteht.
 - **Einschlägig für**: Art. 146 Abs. 1 (Unterdrückung von Tatsachen)
 
 ---
 
-### BGE 144 IV 244 – Gewerbsmässigkeit
+### BGE 144 IV 240 – Gewerbsmässigkeit
 - **Thema**: Gewerbsmässiger Betrug
 - **Kernaussage**: Gewerbsmässigkeit liegt vor, wenn der Täter die Betrugshandlungen mit dem Willen wiederholt, sie als Einnahmequelle von einiger Dauer und Bedeutung zu benutzen. Einmalige Wiederholungsabsicht genügt nicht.
 - **Einschlägig für**: Art. 146 Abs. 2 (Gewerbsmässiger Betrug)
@@ -84,7 +84,7 @@ agent_verified: false
 
 ### BGer 6B_304/2026 — Konkurrenz Betrug und Identitätsmissbrauch
 
-**BGer 6B_304/2026 vom 30. Juli 2026** (zur Publikation vorgesehen)
+**BGer 6B_304/2026** (zur Publikation vorgesehen)
 
 Erstmalsige Klärung: Betrug (Art. 146 StGB) und Identitätsmissbrauch (Art. 179decies StGB) stehen in **echtem Konkurrenzverhältnis**, da sie unterschiedliche Rechtsgüter und Geschädigte schützen. Eine Absorption lehnt das Bundesgericht ab. Der Entscheid ist dogmatisch bedeutsam für Art. 146 StGB, weil er die Rechtsgutabgrenzung von Betrug (Vermögen) und Identitätsmissbrauch (Persönlichkeit) klarstellt. Beide Delikte können in Tateinheit (Art. 49 StGB) zusammentreffen, wenn dieselbe Handlung sowohl das Vermögen als auch die Identität einer Person verletzt.
 

@@ -72,7 +72,7 @@ Weigert sich die versicherte Person ohne zulässigen Grund, am Arbeitsversuch te
 
 **BGer 9C_539/2024 vom 12. Juni 2025** (III. öf-rechtliche Abteilung)
 
-Konkretisierung der Folgen eines vorzeitigen Abbruchs des Arbeitsversuchs (Art. 18a Abs. 4 IVG i.V.m. Art. 14a Abs. 3 IVV) für den Taggeldanspruch und die Rentenfestsetzung.
+Konkretisierung der Folgen eines vorzeitigen Abbruchs des Arbeitsversuchs (Art. 18a Abs. 4 IVG i.V.m. Art. 14 Abs. 3 IVV) für den Taggeldanspruch und die Rentenfestsetzung.
 
 → [BGer 9C_539/2024](https://mcp.opencaselaw.ch/entscheid/bger_9C_539_2024)
 

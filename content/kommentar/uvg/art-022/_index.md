@@ -12,7 +12,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 22 Revision der Rente**
+> **Art. 22 UVG (Revision) der Rente**
 >
 > In Abweichung von Artikel 17 Absatz 1 ATSG kann die Rente ab dem Monat, in dem die berechtigte Person eine ganze AHV-Rente nach Artikel 40 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) vorbezieht, spätestens jedoch ab Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG nicht mehr revidiert werden.
 

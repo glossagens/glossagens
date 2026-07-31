@@ -18,7 +18,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 8 Begehungsort**
+> **Art. 8 StGB (Begehungsort)**
 >
 > **1** Ein Verbrechen oder Vergehen gilt als da begangen, wo der Täter es ausführt oder pflichtwidrig untätig bleibt, und da, wo der Erfolg eingetreten ist.
 >

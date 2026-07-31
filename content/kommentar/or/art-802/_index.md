@@ -12,7 +12,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 802 Auskunft und Einsicht**
+> **Art. 802 OR (Auskunftsrecht) und Einsicht**
 >
 > **1** Jeder Gesellschafter kann von den Geschäftsführern Auskunft über alle Angelegenheiten der Gesellschaft verlangen.
 >
