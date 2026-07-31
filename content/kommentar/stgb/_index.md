@@ -69,6 +69,8 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 122 — Schwere Körperverletzung](art-122/)
 - [Art. 123 — Einfache Körperverletzung](art-123/)
 - [Art. 125 — Fahrlässige Körperverletzung](art-125/)
+- [Art. 127 — Aussetzung eines Hilflosen](art-127/)
+- [Art. 128 — Unterlassung der Nothilfe](art-128/)
 - [Art. 129 — Gefährdung des Lebens](art-129/)
 - [Art. 133 — Raufhandel](art-133/)
 - [Art. 134 — Angriff](art-134/)
@@ -123,6 +125,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen die öffentliche Gewalt (Art. 285–295)
 
 - [Art. 285 — Gewalt und Drohung gegen Behörden und Beamte](art-285/)
+- [Art. 287 — Amtsanmassung](art-287/)
 
 ### Besondere Bestimmungen — Gegen die Rechtspflege (Art. 303–311)
 

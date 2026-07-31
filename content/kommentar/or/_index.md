@@ -14,6 +14,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 - [Art. 20 — Nichtigkeit bei unmöglichem, widerrechtlichem oder sittenwidrigem Inhalt](art-020/)
 - [Art. 24 — Wesentlicher Irrtum](art-024/)
 - [Art. 41 — Haftpflicht aus unerlaubter Handlung](art-041/)
+- [Art. 62 — Herausgabe ungerechtfertigter Bereicherung](art-062/)
 - [Art. 66 — Nichtforderbarkeit sittenwidriger Leistungen](art-066/)
 
 ### Allgemeine Bestimmungen — Wirkung und Erlöschen der Obligationen (Art. 68–142)

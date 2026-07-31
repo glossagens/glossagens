@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 8 ATSG"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 8 ATSG — Invalidität"
 tags: ["Rechtsprechung", "ATSG", "Invalidität", "Eingliederung", "IV"]
 agent_verified: false
+revisions:
+  - date: 2026-06-06
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Neuerstellung."
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "KW31 — Ergänzung 9C_73/2026 (Indikatoren-Prüfung, Z-Codes, Art. 8 LPGA) via OCL verifiziert."
 ---
 
 ## Leitentscheide (BGE)
@@ -54,4 +65,22 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+## Bundesgerichtsentscheide (KW31/2026 — Ergänzung)
+
+### 9C_73/2026, E. 2 und 3.2 (vom 29. Juni 2026)
+- **Abteilung**: II. sozialrechtliche Abteilung
+- **Vorinstanz**: Cour de justice de la République et canton de Genève
+- **Verfahrensergebnis**: Teilweise Gutheissung
+- **Thema**: Art. 8 LPGA (Invaliditätsbegriff) und Art. 16 LPGA (Invaliditätsbemessung); Indikatoren-Prüfung nach BGE 141 V 281; ICD-10-Z-Codes als keine IV-relevante Beeinträchtigung; psychiatrische Expertise
+- **Sachverhalt**: Streitig war, ob die kantonale Instanz drei Viertel Invalidenrente ab 1. Juli 2019 zu Recht zugesprochen hatte, gestützt auf eine gerichtliche psychiatrische Expertise vom 16. Juli 2025. Es ging um die Prüfung der Indikatoren nach BGE 141 V 281 bei psychischen Störungen und die Verwertbarkeit von ICD-10-Z-Codes.
+- **Kernaussagen**:
+  - **(E. 3.2)** Der angefochtene Entscheid legt die gesetzlichen Bestimmungen und rechtsprechungsrechtlichen Grundsätze zum Invaliditätsbegriff (Art. 8 LPGA und Art. 4 LAI) und zu seiner Bewertung (Art. 16 LPGA und Art. 28a LAI) vollständig dar, insbesondere zum invalidierenden Charakter psychischer Störungen.
+  - **(E. 3.1)** Im Rahmen der IV-Weiterentwicklung wurden LAI, RAI und LPGA per 1. Januar 2022 geändert; massgeblich sind die allgemeinen intertemporalen Grundsätze (vgl. BGE 150 V 323 E. 4.2).
+  - **Präzisierung der Indikatoren-Prüfung nach BGE 141 V 281**: Eine blosse ICD-10-Z-Code-Diagnose ohne IV-relevante funktionelle Beeinträchtigung genügt nicht; die Indikatoren-Prüfung ist erst bei einer tragfähigen psychiatrischen Diagnose vorzunehmen, Z-Codes allein tragen eine IV-Rente nicht.
+- **Einschlägig für**: Art. 8 Abs. 1 LPGA/ATSG (Invaliditätsbegriff bei psychischen Störungen; Indikatoren-Prüfung; Z-Codes)
+
+→ [9C_73/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_73_2026)
+
+---
+
+*Letzte Aktualisierung: 2026-07-31*
