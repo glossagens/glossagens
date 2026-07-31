@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-07-18"
+lastmod: "2026-07-31"
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Landesverweisung, Härtefallklausel, EMRK-Konformität und Freizügigkeitsabkommen"
 tags: ["Rechtsprechung", "Landesverweisung", "StGB", "Härtefallklausel"]
 agent_verified: false
@@ -203,6 +203,14 @@ agent_verified: false
 ### BGer 6B_67/2024 vom 5. Juni 2026, E. 5 — Mehrfacher gewerbsmässiger Betrug; Landesverweisung
 
 [BGer 6B_67/2024 vom 5. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_67_2024#e-5) — Leitentscheid (Zusammenfassung markiert). Bestätigt die Praxis zur Landesverweisung bei mehrfachem gewerbsmässigem Betrug und der Ausschreibung im SIS. — Das Bundesgericht hob den Schuldspruch auf und wies die Sache zur neuen Entscheidung an die Vorinstanz zurück, mit der Massgabe, die übrigen Tatbestandsvoraussetzungen von Art. 146 Abs. 1 und 2 StGB (insbesondere Arglist) zu prüfen.
+
+### BGer 6B_301/2026 vom 7. Juli 2026 — Dauer der Landesverweisung und SIS-Ausschreibung
+
+[BGer 6B_301/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_301_2026) (7. Juli 2026) — Beschwerde gegen eine wegen gewerbsmässigen Diebstahls (30 Monate Freiheitsstrafe, davon 18 bedingt) angeordnete Landesverweisung. Gegenstand sind die **Dauer** der Landesverweisung (Art. 66a Abs. 4 StGB) und die **Ausschreibung im Schengener Informationssystem (SIS)**. Bestätigt, dass die Dauer der Landesverweisung im Ermessensbereich nach Art. 66a Abs. 4 lit. i StGB nach den Kriterien von BGE 139 I 145 E. 2.4 (Tat und bisheriges Verhalten, Dauer des Aufenthalts, Intensität der sozialen, kulturellen und familiären Bindungen in Gastgeberstaat und Heimatland) zu bemessen ist. Die Ausschreibung im SIS korrespondiert mit der Landesverweisung; die Beschwerde wird abgewiesen.
+
+### BGer 6B_284/2026 vom 9. Juli 2026 — Landesverweisung, SIS-Ausschreibung, Willkür
+
+[BGer 6B_284/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_284_2026) (9. Juli 2026) — Beschwerde gegen eine wegen mehrfacher Nötigung und mehrfacher Missachtung eines Kontakt- und Rayonverbots angeordnete Landesverweisung mit SIS-Ausschreibung. Rüge der Willkür (Art. 9 BV) bei der Dauerbemessung. Bestätigt, dass die Anordnung der nicht obligatorischen Landesverweisung den Kriterien von BGE 139 I 145 E. 2.4 (Tat, bisheriges Verhalten, Dauer des Aufenthalts, Intensität der sozialen, kulturellen und familiären Bindungen) zu folgen hat und dass die Willkürkontrolle nicht beanstandet werden kann, wenn die Vorinstanz diese Kriterien vertretbar angewendet hat. Die SIS-Ausschreibung ist eine begleitende Massnahme der Landesverweisung.
 
 ---
 

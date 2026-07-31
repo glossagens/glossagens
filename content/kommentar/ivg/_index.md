@@ -16,6 +16,7 @@ Kommentar zum [Bundesgesetz über die Invalidenversicherung vom 19. Juni 1959 (I
 
 - [Art. 8 — Grundsatz (Eingliederungsmassnahmen)](art-008/)
 - [Art. 14a — Integrationsmassnahmen](art-014a/)
+- [Art. 18a — Arbeitsversuch](art-018a/)
 
 ### Die Invalidenrente (Art. 28–35)
 

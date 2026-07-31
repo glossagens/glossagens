@@ -2,7 +2,7 @@
 title: "Art. 285 — Gewalt und Drohung gegen Behörden und Beamte"
 weight: 285
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 285 StGB: Tatbestandsmerkmale der Hinderung, Nötigung und tätlichen Angriffs gegen Amtsträger; Qualifikationen bei Zusammenrottung und Körperschaden."
 tags: ["StGB", "Gewalt gegen Beamte", "Amtshandlung", "Amtsträger", "öffentliche Ordnung"]
 agent_verified: false

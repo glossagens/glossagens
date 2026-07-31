@@ -13,6 +13,10 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 1 — Legalitätsprinzip](art-001/)
 - [Art. 2 — Zeitlicher Geltungsbereich / lex mitior](art-002/)
 
+### Allgemeine Bestimmungen — Geltungsbereich (Art. 3–8)
+
+- [Art. 8 — Begehungsort](art-008/)
+
 ### Allgemeine Bestimmungen — Strafbarkeit (Art. 9–33)
 
 - [Art. 10 — Verbrechen und Vergehen](art-010/)
