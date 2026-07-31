@@ -80,4 +80,16 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+## IV. Neuere Entscheide (KW31/2026)
+
+### BGer 6B_304/2026 — Konkurrenz Betrug und Identitätsmissbrauch
+
+**BGer 6B_304/2026 vom 30. Juli 2026** (zur Publikation vorgesehen)
+
+Erstmalsige Klärung: Betrug (Art. 146 StGB) und Identitätsmissbrauch (Art. 179decies StGB) stehen in **echtem Konkurrenzverhältnis**, da sie unterschiedliche Rechtsgüter und Geschädigte schützen. Eine Absorption lehnt das Bundesgericht ab. Der Entscheid ist dogmatisch bedeutsam für Art. 146 StGB, weil er die Rechtsgutabgrenzung von Betrug (Vermögen) und Identitätsmissbrauch (Persönlichkeit) klarstellt. Beide Delikte können in Tateinheit (Art. 49 StGB) zusammentreffen, wenn dieselbe Handlung sowohl das Vermögen als auch die Identität einer Person verletzt.
+
+→ [BGer 6B_304/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_304_2026)
+
+---
+
+*Letzte Aktualisierung: 2026-07-31*

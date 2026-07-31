@@ -75,6 +75,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 139 — Diebstahl](art-139/)
 - [Art. 140 — Raub](art-140/)
 - [Art. 144 — Sachbeschädigung](art-144/)
+- [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 146 — Betrug](art-146/)
 - [Art. 158 — Ungetreue Geschäftsbesorgung](art-158/)
 
