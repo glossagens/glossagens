@@ -87,6 +87,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 ### Besondere Bestimmungen — Gegen die Ehre und den Geheim- oder Privatbereich (Art. 173–179novies)
 
+- [Art. 173 — Üble Nachrede](art-173/)
 - [Art. 174 — Verleumdung](art-174/)
 
 ### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit (Art. 180–186)

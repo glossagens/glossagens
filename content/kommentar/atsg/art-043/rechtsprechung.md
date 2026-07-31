@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 43 ATSG"
 weight: 99
 date: 2026-07-31
 lastmod: 2026-07-31
-description: "Übersicht der Entscheide zu Art. 43 ATSG — Amtsermittlungsprinzip, Mitwirkungspflicht, Begutachtung, Anspruch auf externes Gutachten, Zwischenverfügung"
-tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlung", "Mitwirkungspflicht", "Begutachtung", "Sozialversicherungsrecht"]
+description: "Übersicht der Entscheide zu Art. 43 ATSG — Amtsermittlungsprinzip, Mitwirkungspflicht, Begutachtung, Anspruch auf externes Gutachten, Zwischenverfügung, Rechtskraft von Dauerleistungen"
+tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlung", "Mitwirkungspflicht", "Begutachtung", "Rechtskraft", "Sozialversicherungsrecht"]
 agent_verified: false
 revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen, Art. 43 ATSG) via OCL get_regeste verifiziert und angehängt."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -51,6 +56,14 @@ Art. 36 Abs. 1, Art. 44 und 49 Abs. 1, Art. 52 Abs. 1, Art. 55 ATSG; Art. 5 Abs.
 Das Bundesgericht legt Art. 44 ATSG verfassungs- und konventionskonform als **nicht abschliessend** aus. Rz. 3067.1 des Kreisschreibens KSVI, wonach die IV-Stelle abschliessend über die Begutachtungsform entscheide, verstösst gegen Bundesrecht. Die durch Art. 43 Abs. 1bis ATSG (WEIV-Reform 2022) geschaffene Bestimmungsbefugnis des Versicherungsträgers über Art und Umfang der Abklärungen führt nicht zur Verdrängung der Mitwirkungsrechte; diese bestehen über die IV-Revision 2022 hinaus fort (E. 5.2). Ausgangspunkt jeder Auslegung bildet der Wortlaut; bei Mehrdeutigkeit sind alle Auslegungselemente (Methodenpluralismus) zu berücksichtigen (E. 6). Der Entscheid bestätigt, dass Art. 43 Abs. 1bis und Art. 44 ATSG einander ergänzen, nicht verdrängen.
 
 → [BGer 8C_445/2025 vom 10. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025)
+
+### BGE 136 V 369 — Rechtskraft von Entscheiden über Dauerleistungen (Art. 43 Abs. 1 ATSG)
+
+**BGE 136 V 369 vom 25. Oktober 2010** (5er-Besetzung)
+
+Leitentscheid zu Art. 49 und 52 Abs. 1 sowie Art. 17 ATSG; Art. 87 Abs. 3 und 4 IVV; Art. 6 Abs. 2 und Art. 28 Abs. 2 IVG. Die (formelle und materielle) Rechtskraft von Entscheiden über Dauerleistungen (insbesondere IV-Renten) entfaltet ihre Wirkung ab dem im massgebenden Zeitpunkt festgestellten und mit Rechtsmittel nicht mehr anfechtbaren Tatbestand; eine spätere, im gleichen Verfahren erfolgende Neubeurteilung kann sich nicht auf einen schon rechtskräftig festgestellten Anspruch auswirken, der für einen andern Beurteilungszeitpunkt geschaffen wurde. Relevant für Art. 43 ATSG, weil die Abklärungspflicht (Amtsermittlung) und die rechtskräftige Feststellung des Sachverhalts die Grenze der erneuten Beurteilung bilden: Der Sozialversicherer darf im Rahmen der Amtsermittlung nicht über einen bereits rechtskräftig festgestellten Befund hinweggehen.
+
+→ [BGE 136 V 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_369)
 
 ## Zusammenfassung
 
