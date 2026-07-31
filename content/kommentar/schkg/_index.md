@@ -12,6 +12,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 
 - [Art. 44 — Verwertung beschlagnahmter Gegenstände](art-044/)
 - [Art. 72 — Zustellung von Betreibungsurkunden](art-072/)
+- [Art. 73 — Pflichten des Gläubigers](art-073/)
 - [Art. 79 — Rechtsvorschlag: Fortsetzung der Betreibung](art-079/)
 - [Art. 80 — Definitive Rechtsöffnung](art-080/)
 - [Art. 82 — Provisorische Rechtsöffnung](art-082/)
