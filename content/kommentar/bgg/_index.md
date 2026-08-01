@@ -35,3 +35,7 @@ Kommentar zum [Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (BGG, SR 1
 
 - [Art. 95 — Beschwerdegründe](art-095/)
 - [Art. 99 — Neue Tatsachen und Beweismittel](art-099/)
+
+### Vereinfachtes Verfahren (Art. 108–109)
+
+- [Art. 108 — Einzelrichter / vereinfachtes Verfahren](art-108/)

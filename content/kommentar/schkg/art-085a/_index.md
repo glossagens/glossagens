@@ -2,7 +2,7 @@
 title: "Art. 85a SchKG — Negative Feststellungsklage"
 weight: 85
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: 2026-08-02
 description: "Kommentar zu Art. 85a SchKG: Die negative Feststellungsklage — Feststellung des Nichtbestehens einer Schuld ungeachtet des Rechtsvorschlags."
 tags: ["Feststellungsklage", "Betreibung", "SchKG", "Rechtsvorschlag", "Schuldbetreibung"]
 agent_verified: true

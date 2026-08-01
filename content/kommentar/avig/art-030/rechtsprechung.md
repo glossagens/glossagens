@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 30 AVIG"
 weight: 99
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: "2026-08-02"
 description: "Übersicht der massgeblichen Entscheide zu Art. 30 AVIG (Einstellung in der Anspruchsberechtigung) — Verschulden an Arbeitslosigkeit, Arbeitsbemühungen/Stellensuche, Meldepflichtverletzung und unrichtige Angaben, IAO-Übereinkommen Nr. 168, Einstellungsdauer."
 tags: ["Rechtsprechung", "AVIG", "Einstellung", "Anspruchsberechtigung", "Verschulden", "Arbeitsbemühungen", "IAO-168"]
 agent_verified: true
 revisions:
+  - date: 2026-08-02
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Supplement KW31 — 8C_709/2025 (Verschulden an Arbeitslosigkeit) via OCL case-brief verifiziert."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -89,6 +94,18 @@ Zurück zum Kommentar: [Art. 30 AVIG — Einstellung in der Anspruchsberechtigun
 - **Erwägung**: Regeste
 - **Einschlägig für**: Abs. 1 lit. e, f (Meldepflicht, unrechtmässiger Bezug); Verhältnismässigkeit
 - **Quelle**: [BGE 125 V 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_193)
+
+## Aktuelle Entscheide (KW31/2026)
+
+### BGer 8C_709/2025 — Verschulden an Arbeitslosigkeit bei Kündigung ohne zugesicherte Folgeanstellung
+
+**BGer 8C_709/2025 vom 1. Juli 2026** (IV. öf-rechtliche Abteilung, Abweisung)
+
+Bestätigung der Rechtsprechung zu Art. 30 Abs. 1 lit. a AVIG i.V.m. Art. 44 Abs. 1 lit. b AVIV — selbstverschuldete Arbeitslosigkeit. Der Beschwerdeführer kündigte seine Stelle bei der B.________ AG per 28. Februar 2025, ohne dass ihm eine andere Stelle zugesichert gewesen wäre (E. 4). Wie das kantonale Gericht richtig erwogen hat, ist aus artikelsschutzrechtlicher Sicht grundsätzlich eine Kündigung ohne angemessenen Grund schädigend im Sinne von Art. 44 Abs. 1 lit. b AVIV (E. 4). Die Einstellung in der Anspruchsberechtigung für die Dauer von 39 Tagen wegen selbstverschuldeter Arbeitslosigkeit verletzt kein Bundesrecht. Bestätigt, dass die Arbeitslosenversicherung eine eigenverantwortliche Kündigung ohne zugesicherte Folgeanstellung sanktioniert, und dass bloss allgemeine Einwände gegen die arbeitsrechtliche Würdigung keine Bundesrechtsverletzung begründen (E. 5). Die Beschwerdefrist (Art. 100 Abs. 1, 47 Abs. 1 BGG) und die Begründungsanforderungen (Art. 42 Abs. 1 und 2 BGG) wurden eingehalten.
+
+→ [BGer 8C_709/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_709_2025)
+
+---
 
 ## Weitere Entscheide
 

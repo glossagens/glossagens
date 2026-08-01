@@ -34,6 +34,14 @@ agent_verified: false
 
 [BGer 4D_36/2026](https://mcp.opencaselaw.ch/entscheid/bger_4D_36_2026) (30. April 2026) — Negative Feststellungsklage nach Art. 85a SchKG.
 
+### BGer 4F_15/2026 — Revisionsgesuch gegen Abweisung der negativen Feststellungsklage
+
+**BGer 4F_15/2026 vom 1. Juni 2026** (II. zivilrechtliche Abteilung, Abweisung des Revisionsgesuchs)
+
+Das Bundesgericht wies ein Revisionsgesuch gegen den Entscheid ab, mit dem das Kreisgericht St. Gallen eine negative Feststellungsklage nach Art. 85a SchKG abgewiesen und das Kantonsgericht St. Gallen darauf nicht eingetreten war (E. 1). Bestätigung der Begründungsanforderungen an ein Revisionsgesuch an das Bundesgericht (Art. 121 BGG), die dem Gesuchsteller aus seinen zahlreichen früheren Gesuchen bekannt sind (E. 2). Querulatorische und offensichtlich untauglich begründete Ausstandsbegehren unter Mitwirkung der abgelehnten Gerichtspersonen sind unzulässig; auf untauglich begründete oder querulatorische Ausstandsbegehren kann nicht eingetreten werden (Art. 121 lit. a BGG; E. 3.3). Bloße Kritik am Verfahrensablauf ersetzt keine konkrete Darlegung, welche erheblichen Tatsachen das Bundesgericht übersehen haben soll (Art. 121 lit. d BGG; E. 4.2). Kein schützenswertes Interesse an beantragter Edition, wenn dem Gesuchsteller die Akten vollständig bekannt sind (E. 5).
+
+→ [BGer 4F_15/2026](https://mcp.opencaselaw.ch/entscheid/bger_4F_15_2026)
+
 ---
 
-Zuletzt aktualisiert: 2026-05-15 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/schkg/art-085a/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+85a+SchKG)
+Zuletzt aktualisiert: 2026-08-02 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/schkg/art-085a/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+85a+SchKG)
