@@ -48,6 +48,10 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 - [Art. 340 — Nachvertragliches Konkurrenzverbot](art-340/)
 - [Art. 341 — Unabdingbarkeit und Verjährung](art-341/)
 
+### Einzelne Vertragsverhältnisse — Werkvertrag (Art. 363–379)
+
+- [Art. 368 — Mängel des Werkes](art-368/)
+
 ### Die Gesellschaft mit beschränkter Haftung (Art. 772–815)
 
 - [Art. 802 — Auskunft und Einsicht](art-802/)

@@ -34,6 +34,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 ### Sachliche und örtliche Zuständigkeit (Art. 22–42)
 
+- [Art. 26 — Mehrfache Zuständigkeit](art-026/)
 - [Art. 29 — Grundsatz der Verfahrenseinheit](art-029/)
 - [Art. 30 — Trennung und Vereinigung von Strafverfahren](art-030/)
 - [Art. 34 — Durch Begehungsort bestimmte Zuständigkeit](art-034/)

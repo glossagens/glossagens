@@ -22,6 +22,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 10 — Verbrechen und Vergehen](art-010/)
 - [Art. 12 — Vorsatz und Fahrlässigkeit](art-012/)
 - [Art. 13 — Sachverhaltsirrtum](art-013/)
+- [Art. 14 — Rechtmässiges Verhalten](art-014/)
 - [Art. 15 — Notwehr](art-015/)
 - [Art. 16 — Notwehrexzess](art-016/)
 - [Art. 17 — Rechtfertigender Notstand](art-017/)
