@@ -2,7 +2,7 @@
 title: "Behindertengleichstellungsgesetz (BehiG)"
 weight: 151
 date: 2026-07-22
-lastmod: 2026-07-22
+lastmod: 2026-08-01
 description: "Kommentar zum Behindertengleichstellungsgesetz (BehiG, SR 151.3) vom 13. Dezember 2002 — Benachteiligung behinderter Menschen, Zugang zu Bauten, Anlagen und Wohnungen, öffentlicher Verkehr"
 tags: ["BehiG", "Behindertengleichstellung", "BRK", "Zugänglichkeit", "Diskriminierung"]
 agent_verified: true
@@ -16,6 +16,7 @@ Das Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Be
 
 | Artikel | Titel | Datum |
 |---------|-------|-------|
+| [Art. 2](/kommentar/behi/art-002) | Begriffe | 01.08.2026 |
 | [Art. 12](/kommentar/behi/art-012) | Besondere Fälle (Schwellenwerte) | 22.07.2026 |
 
-*Letzte Aktualisierung: 2026-07-22*
+*Letzte Aktualisierung: 2026-08-01*

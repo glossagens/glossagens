@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 61 StGB"
 weight: 99
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: 2026-07-31
 description: "Übersicht der massgeblichen Entscheide zu Art. 61 StGB (Einweisung in eine Einrichtung für junge Erwachsene)"
-tags: ["Rechtsprechung", "StGB", "junge-erwachsene", "massnahme", "altersgrenze"]
+tags: ["Rechtsprechung", "StGB", "junge-erwachsene", "massnahme", "altersgrenze", "untermassverbot"]
 agent_verified: true
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_636/2025 (Untermassverbot vs. Art. 61 StGB) via OCL decisions/citation_string_de verifiziert und angehängt."
 ---
 
 ## Fokusentscheid
@@ -40,6 +46,13 @@ agent_verified: true
 ---
 
 ## Weitere Entscheide
+
+### BGer 6B_636/2025 (06.07.2026, 5er-Besetzung)
+- **Thema**: Untermassverbot (Art. 49 StGB) versus Massnahme für junge Erwachsene (Art. 61 StGB); Verhältnismässigkeit bei hoher Freiheitsstrafe; Abwägung mit ambulanter Massnahme (Art. 63 StGB)
+- **Kernaussage**: Beantragt die beschuldigte Person bei einer Freiheitsstrafe von sechs Jahren eine Massnahme für junge Erwachsene nach Art. 61 StGB, so steht dies in **klarem Widerspruch zum Untermassverbot**, wenn die Vorinstanz die vom Gutachter empfohlene Massnahme (hier: ambulante Massnahme nach Art. 63 StGB) als angezeigt und zweckmässig erachtet. Eine bedingte Vollstreckung der Freiheitsstrafe zugunsten einer Art. 61-Massnahme würde das Untermassverbot **deutlich verletzen** und scheidet deshalb aus. Das blosse verhältnismässig junge Alter des Täters (Tatzeitpunkt knapp 19 Jahre) führt für sich allein nicht zwingend zu einer Strafminderung, solange keine Hinweise auf mangelnde Einsicht oder altersbedingte Unreife vorliegen (Art. 47 StGB).
+- **Erwägung**: E. 8.1–8.2
+- **Einschlägig für**: Art. 61 StGB (Untermassverbot, Verhältnismässigkeit, Verhältnis zu Art. 63 StGB); Art. 47, 49, 63 StGB
+- **Quelle**: [BGer 6B_636/2025 vom 6. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_636_2025)
 
 ### BGer 6B_945/2025 (17.06.2026, 5er-Besetzung)
 - **Thema**: Art. 66a lit. d StGB (Landesverweisung) bei Art. 61-Massnahme; 5-dimensionaler Härtefall

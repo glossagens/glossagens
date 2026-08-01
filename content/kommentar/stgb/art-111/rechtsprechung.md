@@ -74,4 +74,14 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-12*
+### BGer 6B_636/2025 (06.07.2026, 5er-Besetzung)
+
+- **Thema**: Mord (Art. 111/112 StGB); Strafzumessung; Willkür; Grundsatz in dubio pro reo; Qualifikation als besonders skrupellos (Art. 112 StGB)
+- **Kernaussage**: Wer vorsätzlich einen Menschen tötet, ohne dass eine der besonderen Voraussetzungen von Art. 112 ff. StGB zutrifft, wird nach Art. 111 StGB (Totschlag) bestraft (Freiheitsstrafe nicht unter 5 Jahren). Handelt der Täter besonders skrupellos — namentlich hinsichtlich Beweggrund, Zweck oder Art der Ausführung —, so macht er sich des Mordes strafbar (Art. 112 StGB: lebenslänglich oder nicht unter 10 Jahren) (E. 5.3). Rügt der Beschwerdeführer eine Verletzung von Art. 112 StGB, wendet sich jedoch faktisch gegen die tatsächlichen Feststellungen der Vorinstanz (Behauptung, er habe nach dem ersten Zustechen nicht mehr gewusst, was er tue, und nicht aus Rache, sondern spontan gehandelt), so gelingt es ihm nicht, eine willkürliche Sachverhaltsfeststellung aufzuzeigen; das Vorgehen war gestützt auf den festgestellten Sachverhalt besonders skrupellos und das Motiv der Rache besonders verwerflich, weshalb die Beschwerde unbegründet ist (E. 5.4). Bestätigt die restriktive Auslegung der Mord-Qualifikationsmerkmale (vgl. BGE 135 IV 41).
+- **Erwägung**: E. 5.3, 5.4
+- **Einschlägig für**: Art. 111 StGB (Grundtatbestand), Art. 112 StGB (Mord-Qualifikation, besonders skrupellos), Art. 47 StGB (Strafzumessung), Willkür, in dubio pro reo
+- **Quelle**: [BGer 6B_636/2025 vom 6. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_636_2025)
+
+---
+
+*Letzte Aktualisierung: 2026-08-01*

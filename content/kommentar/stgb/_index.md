@@ -92,6 +92,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 ### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit (Art. 180–186)
 
+- [Art. 180 — Drohung](art-180/)
 - [Art. 181 — Nötigung](art-181/)
 - [Art. 182 — Menschenhandel](art-182/)
 - [Art. 186 — Hausfriedensbruch](art-186/)
@@ -114,6 +115,10 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen den öffentlichen Verkehr (Art. 237–239)
 
 - [Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen](art-239/)
+
+### Besondere Bestimmungen — Geldfälschung (Art. 240–244)
+
+- [Art. 240 — Geldfälschung](art-240/)
 
 ### Besondere Bestimmungen — Urkundenfälschung (Art. 251–257)
 
