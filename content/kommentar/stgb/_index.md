@@ -25,9 +25,11 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 15 — Notwehr](art-015/)
 - [Art. 16 — Notwehrexzess](art-016/)
 - [Art. 17 — Rechtfertigender Notstand](art-017/)
+- [Art. 18 — Entschuldigender Notstand](art-018/)
 - [Art. 19 — Schuldfähigkeit](art-019/)
 - [Art. 20 — Begutachtung der Schuldfähigkeit](art-020/)
 - [Art. 22 — Versuch](art-022/)
+- [Art. 24 — Anstiftung](art-024/)
 - [Art. 25 — Gehilfenschaft](art-025/)
 - [Art. 30 — Strafantrag](art-030/)
 

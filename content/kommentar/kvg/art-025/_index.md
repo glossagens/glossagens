@@ -11,7 +11,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 832.10 Art. 25), Leading Cases/Regesten (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289) via OCL verifiziert."
+    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 832.10 Art. 25), Leading Cases/Regesten (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289) via OCL verifiziert; Ergänzung KW31/2 — BGer 9C_438/2024 (Kryokonservierung bei Geschlechtsdysphorie)."
 ---
 
 ## Gesetzeswortlaut

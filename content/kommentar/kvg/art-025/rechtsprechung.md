@@ -11,7 +11,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289)."
+    note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289); Ergänzung KW31/2 — BGer 9C_438/2024 (Kryokonservierung bei Geschlechtsdysphorie, via bger-update.ch)."
 ---
 
 Zurück zum Kommentar: [Art. 25 KVG — Allgemeine Leistungen bei Krankheit](./)
@@ -87,6 +87,16 @@ Zurück zum Kommentar: [Art. 25 KVG — Allgemeine Leistungen bei Krankheit](./)
 - **Erwägung**: Regeste
 - **Einschlägig für**: Abs. 2 i.V.m. Art. 31 KVG (zahnärztliche Leistungen)
 - **Quelle**: [BGE 124 V 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_185)
+
+## Kryokonservierung bei Geschlechtsdysphorie (Abs. 1; qualifiziertes Schweigen im OPAS-Katalog)
+
+### BGer 9C_438/2024 (24.06.2026, Publikation vorgesehen)
+
+- **Thema**: Art. 25 Abs. 1 KVG (LAMAL); Art. 1, 12 OPAS — Kostendeckung der Spermatozoen-Kryokonservierung bei Geschlechtsdysphorie
+- **Kernaussage**: Das Bundesgericht bejaht erstmals den Anspruch auf Kostendeckung der Spermatozoen-Kryokonservierung bei Geschlechtsdysphorie. Es präzisiert die Dogmatik des **qualifizierten Schweigens** im OPAS-Katalog und grenzt Therapie von Massnahmen ab, die der Erhaltung der Fortpflanzungsfähigkeit vor einer geschlechtsangleichenden Behandlung dienen.
+- **Erwägung**: Veröffentlichte Zusammenfassung via bger-update.ch (Stand 31.07.2026); Regeste im OCL-Korpus noch nicht verfügbar.
+- **Einschlägig für**: Abs. 1 (Allgemeine Leistungen bei Krankheit; Krankheitsbegriff); Art. 1, 12 OPAS
+- **Quelle**: [BGer 9C_438/2024](https://mcp.opencaselaw.ch/entscheid/bger_9C_438_2024)
 
 ## Weitere Entscheide
 

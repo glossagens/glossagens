@@ -19,6 +19,7 @@ Kommentar zum [Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Sch
 
 ### Allgemeine Bestimmungen — Wirkung und Erlöschen der Obligationen (Art. 68–142)
 
+- [Art. 97 — Schadensersatz bei Nichterfüllung](art-097/)
 - [Art. 101 — Haftung für Hilfspersonen](art-101/)
 - [Art. 107 — Nachfristsetzung bei Schuldnerverzug](art-107/)
 - [Art. 115 — Aufhebungsvertrag](art-115/)
