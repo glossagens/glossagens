@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 1 BewG"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-08-01
 description: "Übersicht der Entscheide zu Art. 1 BewG — Geltungsbereich des Lex Koller"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "Geltungsbereich", "Ausländischer Grundstückserwerb"]
 agent_verified: false
+revisions:
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Wöchentliche Ergänzung KW31 — BGer 2C_286/2025 und BGer 2C_437/2024 (Gesetzeszweck, objektive/subjektive Seite der Bewilligungspflicht) via OCL case-brief verifiziert und ergänzt."
 ---
 
 Zurück zum Kommentar: [Art. 1 BewG — Geltungsbereich](./)
@@ -49,4 +55,18 @@ Zurück zum Kommentar: [Art. 1 BewG — Geltungsbereich](./)
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+## III. Neuere Rechtsprechung (2026) — Gesetzeszweck und Bewilligungspflicht
+
+### [BGer 2C_286/2025 vom 31. März 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_286_2025), E. 3.1, 5.5
+- **Thema**: Art. 1, 2 Abs. 2 lit. a, 2 Abs. 3 BewG; Gesetzeszweck; bewilligungsfreier Erwerb einer Betriebsstätte; Wohnanteilsvorschriften; raumplanerische Situation
+- **Kernaussage**: Das Bewilligungsgesetz beschränkt den Erwerb von Grundstücken durch Personen im Ausland, um die **Überfremdung des einheimischen Bodens zu verhindern** (Art. 1 BewG). Die in Art. 1 zum Ausdruck kommende Zielsetzung stellt den **einzigen Gesetzeszweck** dar; der Umfang des Grundeigentums von Personen im Ausland wird allein nach diesem Massstab begrenzt (E. 3.1). Bei der Auslegung der bewilligungsfreien Erwerbstatbestände (Art. 2 Abs. 2 lit. a, Abs. 3 BewG) ist auch der raumplanungs- und baurechtlichen Situation Rechnung zu tragen (E. 5.5).
+- **Einschlägig für**: Abs. 1 — Gesetzeszweck (Überfremdungsverhinderung)
+
+### [BGer 2C_437/2024 vom 5. Februar 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_437_2024), E. 3.1.1, 3.1.2
+- **Thema**: Art. 1, 4, 5 f., 8 BewG; objektive und subjektive Seite der Bewilligungspflicht; Bewilligungsgründe
+- **Kernaussage**: Bestätigung, dass die in Art. 1 BewG zum Ausdruck kommende Zielstellung (Überfremdungsverhinderung) der **einzige Gesetzeszweck** ist (E. 3.1.1). Die Bewilligungspflicht weist **kumulativ** eine **objektive** (Art. 4 BewG: «Erwerb eines Grundstücks») und eine **subjektive Seite** (Art. 5 f. BewG: «Personen im Ausland») auf (E. 3.1.2). Besteht eine Bewilligungspflicht, zählt das Bundesrecht die allgemeinen Bewilligungsgründe auf (Art. 8 BewG); daneben sind die Kantone befugt, weitere Bewilligungsgründe vorzusehen, soweit das BewG sie dazu ermächtigt.
+- **Einschlägig für**: Abs. 1 — Gesetzeszweck; Bewilligungspflicht (objektive/subjektive Seite)
+
+---
+
+*Letzte Aktualisierung: 2026-08-01*

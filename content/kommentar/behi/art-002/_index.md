@@ -11,7 +11,12 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 151.3 Art. 2), Leading Cases (BGE 134 II 249, BGE 139 II 289, BGE 151 I 73, BGer 2C 930/2011, BGer 1C 160/2023) via OCL verifiziert."
+    note: "Wöchentliche Ergänzung KW31 — BGer 2C_79/2025 (Studienzeitverlängerung/Nachteilsausgleich) in rechtsprechung.md ergänzt."
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 151.3 Art. 2), Leading Cases (BGE 134 II 249, BGE 139 II 289, BGE 151 I 73, BGer 2C 930/2011, BGer 1C_160/2023) via OCL verifiziert."
 ---
 
 ## Gesetzeswortlaut

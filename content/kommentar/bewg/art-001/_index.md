@@ -2,10 +2,16 @@
 title: "Art. 1 — Zweck"
 weight: 1
 date: 2026-06-06
-lastmod: 2026-06-20
+lastmod: 2026-08-01
 description: "Kommentar zu Art. 1 BewG — Zweck des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland"
 tags: ["BewG", "Lex Koller", "Geltungsbereich", "Ausländischer Grundstückserwerb", "Grundstücke"]
 agent_verified: true
+revisions:
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Wöchentliche Ergänzung KW31 — rechtsprechung.md mit BGer 2C_286/2025 und BGer 2C_437/2024 ergänzt (Gesetzeszweck; objektive/subjektive Seite der Bewilligungspflicht)."
 ---
 
 ## Gesetzeswortlaut

@@ -2,7 +2,7 @@
 title: "KVG — Bundesgesetz über die Krankenversicherung"
 weight: 22
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-01
 description: "Kommentierte Artikel des Bundesgesetzes über die Krankenversicherung (KVG, SR 832.10)"
 tags: ["KVG", "Krankenversicherung", "Sozialversicherungsrecht", "WZW", "WIR", "OPAS"]
 agent_verified: false
@@ -16,4 +16,5 @@ Bundesgesetz vom 18. März 1994 über die Krankenversicherung (SR 832.10). Quell
 
 ### Leistungen (Art. 25–34)
 
+- [Art. 25 — Allgemeine Leistungen bei Krankheit](art-025/)
 - [Art. 32 — Voraussetzungen (WIR/WZW-Kriterien)](art-032/)
