@@ -21,6 +21,8 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 - [Art. 19 — Beweisverfahren (BZP-Verweisung)](art-019/)
 - [Art. 21a — Elektronische Eingaben](art-021a/)
 - [Art. 24 — Fristwiederherstellung](art-024/)
+- [Art. 25 — Feststellungsverfügung](art-025/)
+- [Art. 25a — Rechtsschutz bei Realakten](art-025a/)
 - [Art. 26 — Akteneinsicht](art-026/)
 - [Art. 28 — Rechtliches Gehör bei Aktenverweigerung](art-028/)
 - [Art. 29 — Rechtliches Gehör](art-029/)
@@ -28,6 +30,7 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 - [Art. 32 — Würdigung der Parteivorbringen](art-032/)
 - [Art. 33 — Beweisabnahme](art-033/)
 - [Art. 34 — Eröffnung der Verfügungen](art-034/)
+- [Art. 35 — Form und Begründung der Verfügung](art-035/)
 
 ### Das Beschwerdeverfahren (Art. 44–71)
 
@@ -37,3 +40,4 @@ Kommentar zum [Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren
 - [Art. 48 — Beschwerdelegitimation](art-048/)
 - [Art. 50 — Beschwerdefrist](art-050/)
 - [Art. 52 — Beschwerdeschrift](art-052/)
+- [Art. 55 — Aufschiebende Wirkung](art-055/)

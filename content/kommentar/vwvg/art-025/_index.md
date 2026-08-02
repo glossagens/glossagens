@@ -1,0 +1,70 @@
+---
+title: "Art. 25 VwVG — Feststellungsverfügung"
+weight: 25
+date: 2026-08-02
+lastmod: 2026-08-02
+description: "Kommentar zu Art. 25 VwVG (SR 172.021): Feststellungsverfügung — Voraussetzungen, schutzwürdiges Feststellungsinteresse, Subsidiarität gegenüber Leistungs- und Gestaltungsentscheiden."
+tags: ["VwVG", "Feststellungsverfügung", "Feststellungsinteresse", "Subsidiarität", "Verwaltungsverfahren"]
+agent_verified: true
+revisions:
+  - date: 2026-08-02
+    by: "Antigravity Agent"
+    model: "gemini-3.6-flash"
+    mcp_verified: true
+    note: "Neuerstellung VwVG Art. 25 — Gesetzestext via Fedlex MCP, Leitentscheide via OpenCaseLaw verifiziert."
+---
+
+# Art. 25 VwVG — Feststellungsverfügung
+
+## Gesetzeswortlaut
+
+> **Art. 25 VwVG — Feststellungsverfügung**
+>
+> **1** Die im Instanzenzug zuständige Behörde kann über das Bestehen, das Nichtbestehen oder den Umfang öffentlich-rechtlicher Rechte oder Pflichten von Amtes wegen oder auf Begehren eine Feststellungsverfügung treffen.
+>
+> **2** Dem Begehren um eine Feststellungsverfügung ist zu entsprechen, wenn der Gesuchsteller ein schutzwürdiges Interesse nachweist.
+>
+> **3** Keinem Begehren darf entsprochen werden, das eine zulässige Ausnahme von der Verfügungspflicht betrifft.
+
+Quelle: [Fedlex SR 172.021 Art. 25](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_25).
+
+## I. Bedeutung und Zweck
+
+Art. 25 VwVG regelt das Instrument der **Feststellungsverfügung** im Bundesverwaltungsverfahren. Die Feststellungsverfügung dient der Klärung streitiger oder ungewisser öffentlich-rechtlicher Rechtsverhältnisse. Sie schafft Rechtsbeständigkeit und Rechtssicherheit, ohne selbst neue Rechte oder Pflichten zu begründen, abzuändern oder aufzuheben (bloss feststellender Charakter).
+
+## II. Voraussetzungen (Abs. 1 und 2)
+
+### 1. Zuständigkeit der Behörde
+Zuständig für den Erlass einer Feststellungsverfügung ist diejenige Behörde, die auch für den Erlass einer entsprechenden Gestaltungs- oder Leistungsverfügung im Instanzenzug zuständig wäre (Abs. 1). 
+
+### 2. Schutzwürdiges Feststellungsinteresse (Abs. 2)
+Ein Anspruch auf Erlass einer Feststellungsverfügung besteht nur, wenn die gesuchstellende Person ein **schutzwürdiges Interesse** nachweist.
+- Das Interesse muss rechtlicher oder tatsächlicher Natur sein.
+- Es muss ein aktuelles und praktisches Interesse an der sofortigen Feststellung der Rechtslage bestehen.
+- Eine abstrakte Rechtsfrage oder ein bloss theoretisches Interesse begründen keinen Anspruch auf eine Feststellungsverfügung ([BGE 114 V 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_V_201), E. 2).
+
+### 3. Subsidiarität der Feststellungsverfügung
+Die Feststellungsverfügung ist gegenüber der Leistungs- oder Gestaltungsverfügung **subsidiär**. Kann das Rechtsschutzinteresse durch eine Leistungs- oder Gestaltungsverfügung (oder ein entsprechendes Rechtsmittel) ebenso gut oder besser gewahrt werden, fehlt das schutzwürdige Feststellungsinteresse ([BGE 129 V 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_V_289), E. 3.2; [BGE 132 V 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_257), E. 1).
+
+## III. Abgrenzungen (Abs. 3)
+
+### 1. Abgrenzung zur Auskunft und Rechtsbelehrung
+Kein Anspruch auf eine Feststellungsverfügung besteht für reine Rechtsauskünfte oder gutachtliche Stellungnahmen ohne konkreten Bezug zu einem individuellen Rechtsverhältnis ([BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473), E. 2b).
+
+### 2. Abgrenzung zu Realakten (Art. 25a VwVG)
+Richtet sich das Begehren nicht auf die Feststellung von Rechtsverhältnissen, sondern auf das Unterlassen, Worbringen oder Wiewiederaufnehmen von behördlichen Handlungen (Realakten), findet Art. 25a VwVG als Spezialnorm Anwendung.
+
+## IV. Praxisfragen
+
+### Praxisfrage 1: Kann das Beitragsstatut im Sozialversicherungsrecht im Voraus per Feststellungsverfügung geklärt werden?
+**Antwort:** Das Eintreten auf ein Feststellungsbegehren betreffend das Beitragsstatut setzt ein schutzwürdiges Feststellungsinteresse voraus. Wurde eine Feststellungsverfügung mangels schutzwürdigen Interesses zu Unrecht erlassen, tritt das Gericht auf die Beschwerde ein und hebt die Feststellungsverfügung auf ([BGE 129 V 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_V_289), E. 3.2).
+
+### Praxisfrage 2: Besteht ein Anspruch auf Erlass einer Feststellungsverfügung im Kartellrecht bezüglich der Sanktionsfreiheit?
+**Antwort:** Das Melde- und Widerspruchsverfahren nach Art. 49a Abs. 3 KG schliesst den parallelen Erlass einer allgemeinen Feststellungsverfügung nach Art. 25 VwVG zur Sanktionsfreiheit aus ([BGE 135 II 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_60), Regeste).
+
+## V. Querverweise
+
+- [Art. 5 VwVG — Begriff der Verfügung](../art-005/)
+- [Art. 6 VwVG — Parteien](../art-006/)
+- Art. 25a VwVG — Rechtsschutz bei Realakten
+- Art. 48 VwVG — Beschwerdelegitimation
