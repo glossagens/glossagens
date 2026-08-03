@@ -16,6 +16,7 @@ Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
 3.  **Praxisorientierung**: Identifikation von mindestens **ein bis zwei kantonalen Praxisfragen** (typische Hürden oder Streitpunkte in der kantonalen Gerichtspraxis).
 4.  **Fundierte Rechtsprechung**: Dokumentation von **mindestens 10 praxisrelevanten Entscheiden** (Leitentscheide des Bundesgerichts sowie kantonale Gerichtsentscheide; es können aber auch mehr sein).
 5.  **Verifizierbarkeit**: Direkte Verlinkung aller zitierten Urteile (in der Regel via OpenCaseLaw.ch-Hyperlinks).
+6.  **Gesetzesübersicht**: Aktualisierung der Gesetzes-Übersichtsseite (`content/kommentar/{gesetz}/_index.md`), um den neuen Artikel im Inhaltsverzeichnis des jeweiligen Gesetzes zu verlinken.
 
 ---
 
@@ -107,6 +108,7 @@ graph TD
 ### Schritt 3: Inhaltliche Ausformulierung
 *   Erstellung des Page Bundles und Befüllung der `_index.md` und `rechtsprechung.md`.
 *   Formulierung der Abstracts in präziser, sachlicher Juristensprache.
+*   Aktualisierung der Gesetzes-Übersichtsseite (`content/kommentar/{gesetz}/_index.md`) zur Verlinkung des neuen Artikels im jeweiligen Gesetzesindex.
 
 ### Schritt 4: Verlinkung & Referenzierung
 *   Erstellung von Hyperlinks für alle Entscheide.

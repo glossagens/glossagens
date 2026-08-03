@@ -171,6 +171,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 - [Art. 384 — Fristbeginn](art-384/)
 - [Art. 385 — Begründung und Form](art-385/)
 - [Art. 391 — Entscheid (Verbot der reformatio in peius)](art-391/)
+- [Art. 393 — Zulässigkeit und Beschwerdegründe](art-393/)
 - [Art. 394 — Ausschluss der Beschwerde](art-394/)
 - [Art. 396 — Form und Frist (Beschwerde)](art-396/)
 - [Art. 398 — Zulässigkeit und Berufungsgründe](art-398/)
