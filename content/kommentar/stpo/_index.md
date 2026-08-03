@@ -126,6 +126,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 - [Art. 309 — Eröffnung der Untersuchung](art-309/)
 - [Art. 310 — Nichtanhandnahmeverfügung](art-310/)
+- [Art. 318 — Abschluss](art-318/)
 - [Art. 319 — Gründe der Einstellung](art-319/)
 - [Art. 320 — Einstellungsverfügung](art-320/)
 - [Art. 322 — Genehmigung und Rechtsmittel (Einstellungsverfügung)](art-322/)
