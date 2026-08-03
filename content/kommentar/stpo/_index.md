@@ -68,6 +68,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 - [Art. 118 — Begriff und Voraussetzungen (Privatklägerschaft)](art-118/)
 - [Art. 119 — Form und Inhalt der Erklärung](art-119/)
 - [Art. 120 — Verzicht und Rückzug](art-120/)
+- [Art. 122 — Zivilklage](art-122/)
 - [Art. 124 — Zuständigkeit und Verfahren (Zivilklage)](art-124/)
 - [Art. 126 — Entscheid (Zivilklage)](art-126/)
 - [Art. 127 — Rechtsbeistand](art-127/)
