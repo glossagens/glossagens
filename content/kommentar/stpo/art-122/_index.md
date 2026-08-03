@@ -18,10 +18,10 @@ agent_verified: true
 
 ## Überblick und Bedeutung
 
-Art. 122 StPO bildet die gesetzliche Grundlage für das sogenannte **Adhäsionsverfahren** im Schweizer Strafprozessrecht. Mit der Adhäsionsklage wird der geschädigten Person ermöglicht, zivilrechtliche Schadenersatz- und Genugtuungsansprüche direkt im Strafverfahren vor dem Strafgericht geltend zu machen, anstatt einen separaten Zivilprozess anstrengen zu müssen.
+Art. 122 StPO bildet die gesetzliche Grundlage für das sogenannte **Adhäsionsverfahren** im Schweizer Strafprozessrecht. Mit der Adhäsionsklage wird der geschädigten Person ermöglicht, zivilrechtliche Schadenersatz- und Genugtuungsansprüche direkt im Strafverfahren vor dem Strafgericht geltend zu machen, anstatt einen separaten Zivilprozess anstrengen zu müssen (Botschaft StPO, BBl 2006 1085, S. 1173 f.).
 
 Die Bestimmung dient wesentlichen prozessualen und materiellen Zwecken:
-* **Prozessökonomie und Effizienz**: Erspart Parteien und Justiz ein zweites, aufwendiges Gerichtsverfahren über denselben Lebenssachverhalt.
+* **Prozessökonomie und Effizienz**: Erspart Parteien und Justiz ein zweites, aufwendiges Gerichtsverfahren über denselben Lebenssachverhalt (BBl 2006 1085, S. 1173).
 * **Vermeidung widersprüchlicher Entscheide**: Verhindert, dass Straf- und Zivilgericht zu gegensätzlichen Sachverhaltsfeststellungen oder Haftungsbeurteilungen gelangen.
 * **Opferschutz**: Stärkt die Stellung der geschädigten Person und ermöglicht eine rasche und unbürokratische Durchsetzung von Reparationsansprüchen.
 
@@ -99,6 +99,7 @@ Nach der Rechtsprechung des Bundesgerichts ([BGE 148 IV 432](https://mcp.opencas
 Wird ein Verfahren durch die Staatsanwaltschaft mittels Strafbefehl ([Art. 352 ff. StPO](../art-352/)) erledigt, stellt sich die Frage, wie mit angemeldeten Zivilforderungen umgegangen wird, wenn die beschuldigte Person diese nicht anerkennt.
 
 **Praxis und Lösung:**  
-* Die Staatsanwaltschaft kann im Strafbefehl Zivilforderungen nur zusprechen, wenn die beschuldigte Person diese **anerkannt** hat ([Art. 353 Abs. 2 StPO](../art-353/); vgl. auch [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102)).
-* Bestreitet die beschuldigte Person die Zivilforderung oder ist deren Beurteilung ohne Hauptverhandlung nicht möglich, verweist die Staatsanwaltschaft die Zivilklage auf den Zivilweg ([Art. 126 Abs. 2 lit. a StPO](../art-126/); vgl. auch [Urteil 2N 17 42](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_17_42)).
-* Die Zivilklage muss dem Beschuldigten vor Erlass des Strafbefehls nicht zwingend zur vorherigen Stellungnahme unterbreitet werden (Obergericht Luzern, [Urteil 2N 17 42](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_17_42)). Erfolgt eine Verweisung auf den Zivilweg, stehen der Privatklägerschaft im Strafbefehl Parteientschädigungsansprüche für ihre Aufwendungen im Strafpunkt zu ([BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102)).
+* Die Staatsanwaltschaft kann im Strafbefehl Zivilforderungen gemäss [Art. 353 Abs. 2 StPO](../art-353/) nur zusprechen, wenn die beschuldigte Person diese **anerkannt** hat. 
+* Bestreitet die beschuldigte Person die Zivilforderung oder ist deren Beurteilung ohne Hauptverhandlung nicht möglich, verweist die Staatsanwaltschaft die Zivilklage auf den Zivilweg ([Art. 126 Abs. 2 lit. a StPO](../art-126/); vgl. auch Obergericht Luzern, [Urteil 2N 17 42](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_17_42)).
+* Wird die Zivilforderung mangels Anerkennung auf den Zivilweg verwiesen, steht der Privatklägerschaft für ihre im Zusammenhang mit der Strafklage entstandenen notwendigen Aufwendungen im Strafpunkt dennoch eine Parteientschädigung zu ([BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 4.1, 4.3).
+* Die Zivilklage muss dem Beschuldigten vor Erlass des Strafbefehls nicht zwingend zur vorherigen Stellungnahme unterbreitet werden (Obergericht Luzern, [Urteil 2N 17 42](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_17_42)).
