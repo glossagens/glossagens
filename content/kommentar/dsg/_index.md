@@ -8,6 +8,11 @@ tags: ["DSG", "Datenschutz"]
 agent_verified: false
 revisions:
   - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Merge: Ergänzung der Gesetzesübersicht um Art. 26 DSG."
+  - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
@@ -27,6 +32,11 @@ revisions:
     model: "claude-sonnet-5"
     mcp_verified: true
     note: "Neuanlage der Gesetzesübersicht anlässlich der Erstkommentierung von Art. 6 DSG (direkter Commit)."
+  - date: 2026-08-07
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Neuanlage der Gesetzesübersicht anlässlich der Erstkommentierung von Art. 26 DSG."
 ---
 
 # Datenschutzgesetz (DSG)
@@ -39,13 +49,17 @@ Bundesgesetz vom 25. September 2020 über den Datenschutz (SR 235.1).
 
 - [Art. 6 — Grundsätze](art-006/)
 
+### Datensicherheit (Art. 24)
+
+- [Art. 24 — Meldung von Verletzungen der Datensicherheit](art-024/)
+
 ### Auskunftsrecht (Art. 25)
 
 - [Art. 25 — Auskunftsrecht](art-025/)
 
-### Datensicherheit (Art. 24)
+### Einschränkungen des Auskunftsrechts (Art. 26)
 
-- [Art. 24 — Meldung von Verletzungen der Datensicherheit](art-024/)
+- [Art. 26 — Einschränkungen des Auskunftsrechts](art-026/)
 
 ### Ansprüche und Verfahren (Art. 41)
 
