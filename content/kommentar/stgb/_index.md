@@ -135,6 +135,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen die öffentliche Gewalt (Art. 285–295)
 
 - [Art. 285 — Gewalt und Drohung gegen Behörden und Beamte](art-285/)
+- [Art. 286 — Hinderung einer Amtshandlung](art-286/)
 - [Art. 287 — Amtsanmassung](art-287/)
 
 ### Besondere Bestimmungen — Gegen die Rechtspflege (Art. 303–311)
