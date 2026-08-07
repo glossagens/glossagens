@@ -1,0 +1,94 @@
+---
+title: "Art. 26 DSG — Einschränkungen des Auskunftsrechts"
+weight: 26
+date: 2026-08-07
+lastmod: 2026-08-07
+description: "Kommentar zu Art. 26 DSG: Verweigerung, Einschränkung und Aufschub des Auskunftsrechts durch private Verantwortliche und Bundesorgane, Konzernprivileg und Begründungspflicht."
+tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Nachrichtendienst", "Begründungspflicht", "Bundesorgane", "Öffentliche Sicherheit"]
+agent_verified: false
+revisions:
+  - date: 2026-08-07
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Neuerstellung anlässlich BGer 1C_114/2025 vom 24. Juli 2026 (Publikation vorgesehen, 5er-Besetzung, Gutheissung); alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
+---
+
+> **Art. 26 DSG — Einschränkungen des Auskunftsrechts**
+>
+> 1 Der Verantwortliche kann die Auskunft verweigern, einschränken oder aufschieben, wenn:
+>
+> a. ein Gesetz im formellen Sinn dies vorsieht, namentlich um ein Berufsgeheimnis zu schützen;
+>
+> b. dies aufgrund überwiegender Interessen Dritter erforderlich ist; oder
+>
+> c. das Auskunftsgesuch offensichtlich unbegründet ist, namentlich wenn es einen datenschutzwidrigen Zweck verfolgt, oder offensichtlich querulatorisch ist.
+>
+> 2 Darüber hinaus ist es in den folgenden Fällen möglich, die Auskunft zu verweigern, einzuschränken oder aufzuschieben:
+>
+> a. Der Verantwortliche ist eine private Person und die folgenden Voraussetzungen sind erfüllt: 1. Überwiegende Interessen des Verantwortlichen erfordern die Massnahme. 2. Der Verantwortliche gibt die Personendaten nicht Dritten bekannt.
+>
+> b. Der Verantwortliche ist ein Bundesorgan, und eine der folgenden Voraussetzungen ist erfüllt: 1. Die Massnahme ist wegen überwiegender öffentlicher Interessen, insbesondere der inneren oder der äusseren Sicherheit der Schweiz, erforderlich. 2. Die Mitteilung der Information kann eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden.
+>
+> 3 Unternehmen, die zum selben Konzern gehören, gelten nicht als Dritte im Sinne von Absatz 2 Buchstabe a Ziffer 2.
+>
+> 4 Der Verantwortliche muss angeben, weshalb er die Auskunft verweigert, einschränkt oder aufschiebt.
+{: .gesetzeszitat}
+
+## I. Bedeutung und Funktion
+
+Art. 26 DSG bildet das notwendige Korrektiv zum grundsätzlich umfassenden Auskunftsrecht nach Art. 25 DSG. Während Art. 25 DSG jeder Person erlaubt, vom Verantwortlichen Auskunft darüber zu verlangen, ob und welche sie betreffenden Personendaten bearbeitet werden, erkennt Art. 26 DSG an, dass dieses Recht im Einzelfall mit gewichtigeren gegenläufigen Interessen kollidieren kann — etwa Berufsgeheimnissen, Interessen Dritter oder öffentlichen Sicherheitsinteressen. Die Norm ist als **abschliessender Katalog** konzipiert: Eine Verweigerung, Einschränkung oder ein Aufschub der Auskunft ist nur zulässig, wenn einer der in Abs. 1 und 2 genannten Gründe vorliegt.
+
+Die Bestimmung unterscheidet zwischen **allgemeinen Einschränkungsgründen**, die für alle Verantwortlichen gelten (Abs. 1), und **zusätzlichen, adressatenspezifischen Gründen**, die je nachdem greifen, ob der Verantwortliche eine private Person (Abs. 2 lit. a) oder ein Bundesorgan (Abs. 2 lit. b) ist. Für Bundesorgane korrespondiert Art. 26 DSG mit dem Beseitigungs- und Berichtigungsanspruch nach Art. 41 DSG: Wo die Auskunft zulässigerweise eingeschränkt wird, bleibt der Weg über Art. 41 DSG (z.B. Feststellung der Widerrechtlichkeit) grundsätzlich versperrt, solange die betroffene Person keine Kenntnis der Bearbeitung erlangt hat.
+
+## II. Abs. 1: Allgemeine Einschränkungsgründe
+
+**1** **Lit. a — Formellgesetzliche Grundlage**: Ein Einschränkungsgrund liegt vor, wenn ein Gesetz im formellen Sinn die Verweigerung, Einschränkung oder den Aufschub vorsieht. Das Gesetz nennt namentlich den Schutz von **Berufsgeheimnissen** als Regelbeispiel; darüber hinaus kommen zahlreiche Spezialgesetze in Betracht, die eigene, abweichende Auskunftsregelungen enthalten (z.B. sektorielle Bestimmungen im Sicherheits- und Nachrichtendienstrecht, dazu Rz. 13).
+
+**2** **Lit. b — Überwiegende Interessen Dritter**: Die Auskunft kann eingeschränkt werden, soweit sie unweigerlich auch Personendaten Dritter offenbaren würde und deren Geheimhaltungsinteresse das Auskunftsinteresse der gesuchstellenden Person überwiegt. Erforderlich ist eine Interessenabwägung im Einzelfall; eine pauschale Verweigerung unter blossem Hinweis auf mögliche Drittinteressen genügt nicht.
+
+**3** **Lit. c — Offensichtliche Unbegründetheit oder Querulanz**: Dieser Einschränkungsgrund erfasst Missbrauchskonstellationen, namentlich Gesuche, die einen datenschutzwidrigen Zweck verfolgen (z.B. reine Ausforschung zu sachfremden Zwecken) oder sich als offensichtlich querulatorisch erweisen. Die Hürde ist hoch anzusetzen: Blosse Häufigkeit von Gesuchen oder ein für den Verantwortlichen unbequemer Inhalt genügen nicht.
+
+## III. Abs. 2: Adressatenspezifische Einschränkungsgründe
+
+### 1. Private Verantwortliche (lit. a)
+
+**4** Private Verantwortliche können sich zusätzlich auf **eigene überwiegende Interessen** berufen, sofern kumulativ die Personendaten **nicht an Dritte weitergegeben** werden. Diese Einschränkung ist eng auszulegen, da sie andernfalls das Auskunftsrecht gegenüber privaten Datenbearbeitern weitgehend aushöhlen könnte; sie kommt namentlich bei internen Abklärungen, Beweissicherung für ein hängiges oder drohendes Verfahren oder Geschäftsgeheimnissen in Betracht.
+
+### 2. Bundesorgane (lit. b)
+
+**5** Bundesorgane können die Auskunft zusätzlich verweigern, einschränken oder aufschieben, wenn dies wegen überwiegender **öffentlicher Interessen**, namentlich der inneren oder äusseren Sicherheit der Schweiz, erforderlich ist (Ziff. 1), oder wenn die Mitteilung der Information eine **Ermittlung, Untersuchung oder ein behördliches bzw. gerichtliches Verfahren gefährden** könnte (Ziff. 2).
+
+**6** Diese Bestimmung ist die Nachfolgenorm von Art. 9 Abs. 2 lit. a des bis 31. August 2023 in Kraft gestandenen Datenschutzgesetzes (aDSG); die dazu ergangene Rechtsprechung bleibt für die Auslegung von Art. 26 Abs. 2 lit. b DSG einschlägig, da sich der Wortlaut inhaltlich nicht wesentlich geändert hat. Das Bundesgericht wendet die Bestimmung wegen der intertemporalrechtlichen Übergangsregel von Art. 70 DSG in laufenden Verfahren teilweise noch als aDSG Art. 9 an ([BGer 1C_114/2025 vom 24. Juli 2026, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-2-3)); die Auslegungsgrundsätze übertragen sich unmittelbar auf das geltende Recht.
+
+**7** **Praktischer Anwendungsfall**: Im Bereich des Nachrichtendienstes verweist Art. 63 Abs. 1 NDG für einen Teil der nachrichtendienstlichen Informationssysteme (namentlich die elektronische Lagedarstellung «ELD» und das «OSINT-Portal») auf das DSG, während Art. 63 Abs. 2 NDG für weitere, besonders sensible Informationssysteme als **lex specialis** ein eigenes Aufschubverfahren mit indirekter Kontrolle durch den EDÖB vorsieht ([BGer 1C_114/2025, E. 2.1 f.](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025)). Für die dem DSG unterstellten Systeme bildet Art. 26 Abs. 2 lit. b DSG die massgebliche Grundlage, um eine Auskunftserteilung wegen überwiegender Sicherheitsinteressen aufzuschieben.
+
+## IV. Abs. 3: Konzernprivileg
+
+**8** Abs. 3 stellt klar, dass konzernzugehörige Unternehmen für die Zwecke von Abs. 2 lit. a Ziff. 2 nicht als Dritte gelten. Ein privater Verantwortlicher verliert damit den Einschränkungsgrund von Abs. 2 lit. a nicht bereits dadurch, dass er die betreffenden Personendaten innerhalb desselben Konzerns weitergibt.
+
+## V. Abs. 4: Begründungspflicht
+
+**9** Wer die Auskunft verweigert, einschränkt oder aufschiebt, muss dies **begründen**. Die Begründungspflicht ist Ausfluss des verfassungsrechtlichen Anspruchs auf rechtliches Gehör (Art. 29 Abs. 2 BV) und im Verwaltungsverfahren des Bundes zusätzlich in Art. 35 Abs. 1 VwVG verankert. Es ist nicht erforderlich, dass sich die Behörde mit sämtlichen Parteistandpunkten einlässlich auseinandersetzt; sie kann sich auf die für den Entscheid wesentlichen Punkte beschränken, muss aber wenigstens kurz die tragenden Überlegungen nennen, damit sich die betroffene Person über die Tragweite des Entscheids Rechenschaft geben und ihn sachgerecht anfechten kann ([BGE 148 III 30, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_30#e-3-1); zum Auskunftsrecht: [BGer 1C_114/2025, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-4-2)).
+
+**10** **Eingeschränkte, aber nicht entfallende Begründungsanforderungen bei Geheimhaltungsinteressen**: Beabsichtigt ein Bundesorgan, die Auskunft aus überwiegenden Gründen der inneren oder äusseren Sicherheit oder zum Schutz eines Untersuchungsverfahrens zu verweigern (Abs. 2 lit. b), darf der Inhalt der geheim zu haltenden Daten nicht schon durch die Verfügungsbegründung selbst offengelegt werden. Die überwiegenden öffentlichen Geheimhaltungsinteressen rechtfertigen insoweit eine Einschränkung der Begründungsanforderungen. Das Bundesorgan darf sich jedoch **nicht darauf beschränken, lediglich die anwendbare Gesetzesbestimmung zu nennen**; erforderlich ist eine **umschreibende Begründung**, die es der betroffenen Person ermöglicht, die Verweigerung nachzuvollziehen, ohne dass die geschützten Informationen selbst preisgegeben werden ([BGE 141 I 201, E. 4.5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_201#e-4-5-2); [BGer 1C_597/2020 vom 14. Juni 2021](https://mcp.opencaselaw.ch/entscheid/bger_1C_597_2020); [BGer 1C_114/2025, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-4-2)).
+
+**11** **Leitentscheid zur ungenügenden Begründung durch den Nachrichtendienst des Bundes**: In einem Fall, in dem der Nachrichtendienst des Bundes (NDB) die Auskunft über die Bearbeitung von Personendaten in den Systemen «ELD» und «OSINT-Portal» aufschob, beschränkte er sich zunächst auf den blossen Hinweis auf überwiegende öffentliche Geheimhaltungsinteressen; erst im Beschwerdeverfahren reichte er ergänzende Angaben sowie eine ausschliesslich für das Gericht bestimmte vertrauliche Aktennotiz nach. Das Bundesgericht erachtete auch diese nachgeschobene Begründung als **zu vage**: Es fehlte an einer zumindest umschreibenden Erklärung, um welche Art von Veranstaltungen es ging, inwiefern die Teilnehmenden aktuell oder künftig die innere Sicherheit gefährden könnten und weshalb die Preisgabe ihrer Identität die behauptete Sicherheitsbedrohung vergrössern würde. Der blosse Hinweis auf mögliche Rückschlüsse auf die «geheimhaltungswürdige Arbeitsweise» des NDB genügte den Begründungsanforderungen nicht, ebenso wenig wie die nur dem Gericht vorgelegte vertrauliche Aktennotiz, die als Begründung gegenüber der betroffenen Person von vornherein ungeeignet ist ([BGer 1C_114/2025, E. 4.3 f.](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-4-3)). Das Bundesgericht hiess die Beschwerde gut, hob den vorinstanzlichen Entscheid auf und wies die Sache an den NDB zurück, damit dieser entweder Auskunft erteilt oder den Aufschub neu ausreichend begründet ([BGer 1C_114/2025, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-4-5)).
+
+> **Annotation**
+>
+> **12** **Keine Heilung der Begründungspflichtverletzung durch nachgeschobene, dem Gericht vorbehaltene Aktennotizen.** Der Entscheid ist praxisrelevant, weil er zwei häufige Verteidigungslinien von Sicherheitsbehörden zurückweist: Erstens genügt die pauschale Nennung der gesetzlichen Einschränkungsnorm (hier Art. 9 Abs. 2 lit. a aDSG, entspricht Art. 26 Abs. 2 lit. b Ziff. 1 DSG) nicht, selbst wenn eine nachträgliche Heilung im Beschwerdeverfahren grundsätzlich möglich wäre. Zweitens kann eine nur dem Gericht, nicht aber der betroffenen Person zugängliche vertrauliche Aktennotiz die fehlende öffentliche Begründung nicht ersetzen — eine Behörde, die sich auf Geheimhaltungsinteressen beruft, bleibt verpflichtet, der betroffenen Person zumindest eine umschreibende, nachvollziehbare Erklärung zukommen zu lassen. Diese Rechtsprechung dürfte über den Bereich des Nachrichtendienstes hinaus für sämtliche sicherheitsbehördlichen Auskunftsverweigerungen nach Art. 26 Abs. 2 lit. b DSG Bedeutung erlangen (a.M. mit Blick auf die Praktikabilität in Sicherheitsverfahren, die für eine grosszügigere Zulässigkeit rein gerichtsinterner Begründungen plädiert: STEIGER, Art. 26 DSG N 3 ff.).
+
+## VI. Weitere Bemerkungen
+
+### 1. Verhältnis zum indirekten Auskunftsrecht
+
+**13** Wo Spezialgesetze wie das NDG ein eigenes, vom DSG abweichendes **indirektes Auskunftsrecht** mit Kontrolle durch den EDÖB vorsehen (Art. 63 Abs. 2 i.V.m. Art. 64 NDG), verdrängt diese lex specialis Art. 26 DSG. Das Bundesgericht hat die Vereinbarkeit eines indirekten Auskunftsrechts im Staatsschutzbereich mit Art. 8 und 13 EMRK grundsätzlich bejaht ([BGE 138 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_6)); ob der seit der DSG-Totalrevision fehlende gerichtliche Rechtsschutz gegen Mitteilungen des EDÖB konventionskonform ist, liess das Bundesgericht in BGer 1C_114/2025 ausdrücklich offen ([E. 3.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025#e-3-3)).
+
+### 2. Rechtsmittel
+
+**14** Gegen die Verweigerung, Einschränkung oder den Aufschub der Auskunft steht der ordentliche verwaltungsrechtliche Instanzenzug offen; bei Bundesorganen richtet sich das Verfahren nach VwVG, letztinstanzlich mit Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht, sofern nicht ein Spezialgesetz den Rechtsweg abweichend regelt (vgl. Rz. 13).
+
+## Spezialliteraturverzeichnis
+
+STEIGER MARTIN, Kommentierung zu Art. 26 DSG, in: Steiner Thomas/Morand Anne-Sophie/Hürlimann Daniel (Hrsg.), Onlinekommentar zum Bundesgesetz über den Datenschutz, <https://onlinekommentar.ch/de/kommentare/dsg26>
