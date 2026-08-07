@@ -44,9 +44,9 @@ agent_verified: false
 
 - **BGE 144 I 70** — Spruchkörperbildung nach im Voraus festgelegten, transparenten und abstrakten Regeln.
 
-- **BGE 140 I 165** — Die Unabhängigkeit gerichtlich bestellter Schiedsrichter ist gegeben, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind.
+- **BGE 140 I 153** — Die Unabhängigkeit gerichtlich bestellter Schiedsrichter ist gegeben, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind.
 
-- **BGE 142 I 212** — Die Unabhängigkeit der Mitglieder des Beschwerdeausschusses der FIFA ist teilweise zu verneinen, da der Ausschuss nicht ausreichend institutionell von der FIFA getrennt ist.
+- **BGE 142 I 195** — Die Unabhängigkeit der Mitglieder des Beschwerdeausschusses der FIFA ist teilweise zu verneinen, da der Ausschuss nicht ausreichend institutionell von der FIFA getrennt ist.
 
 ### Öffentlichkeit des Verfahrens
 
@@ -58,11 +58,11 @@ agent_verified: false
 
 - **BGE 139 I 145** — Die übermässige Dauer eines Zivilverfahrens kann eine Konventionsverletzung darstellen. Massgeblich sind die Kriterien von Kudła (Komplexität, Verhalten der Parteien, Verhalten der Behörden, Schwere der drohenden Sanktionen).
 
-- **BGE 141 I 133** — Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze zum Beschleunigungsgebot. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
+- **BGE 141 I 113** — Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze zum Beschleunigungsgebot. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
 
-- **BGE 136 I 79** — Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
+- **BGE 136 I 39** — Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
 
-- **BGE 143 I 233** — Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
+- **BGE 143 I 220** — Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
 
 ### Unschuldsvermutung
 
@@ -72,15 +72,15 @@ agent_verified: false
 
 ### Nemo tenetur
 
-- **BGE 127 I 74** — Der Grundsatz *nemo tenetur se ipsum accusare* gehört zu den Grundprinzipien eines fairen Verfahrens. Die beschuldigte Person ist nicht verpflichtet, sich selbst zu belasten. Aus dem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden.
+- **BGE 127 I 54** — Der Grundsatz *nemo tenetur se ipsum accusare* gehört zu den Grundprinzipien eines fairen Verfahrens. Die beschuldigte Person ist nicht verpflichtet, sich selbst zu belasten. Aus dem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden.
 
-- **BGE 135 I 264** — Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, sind zentrale Elemente des fairen Verfahrens. Die Verwertung von unter Zwang erlangten Aussagen verstösst gegen Art. 6 EMRK.
+- **BGE 135 I 257** — Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, sind zentrale Elemente des fairen Verfahrens. Die Verwertung von unter Zwang erlangten Aussagen verstösst gegen Art. 6 EMRK.
 
-- **BGE 142 I 105** — Das *nemo tenetur* verbietet nicht die Verwertung von Beweismitteln, die unabhängig vom Willen der beschuldigten Person erhoben wurden. Es verbietet jedoch die Zwangsverwertung von Aussagen und die Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten.
+- **BGE 142 I 99** — Das *nemo tenetur* verbietet nicht die Verwertung von Beweismitteln, die unabhängig vom Willen der beschuldigten Person erhoben wurden. Es verbietet jedoch die Zwangsverwertung von Aussagen und die Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten.
 
 ### Zugang zum Gericht
 
-- **BGE 140 I 135** — Der Zugang zum Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Einschränkungen müssen gesetzlich vorgesehen, einem legitimen Zweck dienend und verhältnismässig sein. Absolute Verjährungsfristen, die den Zugang faktisch verwehren, können gegen Art. 6 Abs. 1 EMRK verstossen.
+- **BGE 140 I 99** — Der Zugang zum Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Einschränkungen müssen gesetzlich vorgesehen, einem legitimen Zweck dienend und verhältnismässig sein. Absolute Verjährungsfristen, die den Zugang faktisch verwehren, können gegen Art. 6 Abs. 1 EMRK verstossen.
 
 ### Verteidigungsrechte
 

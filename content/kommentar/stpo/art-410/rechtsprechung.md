@@ -73,4 +73,16 @@ Zurück zum Kommentar: [Art. 410 StPO — Zulässigkeit und Revisionsgründe](./
 |-------|------|------------------|----------|
 | [BGE 141 IV 269](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_269) | 2015 | **Rückzug eines Rechtsmittels:** Der Rückzug eines Rechtsmittels unter der Bedingung, dass die Gegenpartei ihr eigenes Rechtsmittel ebenfalls zurückzieht, ist zulässig; ein mit Willensmängeln behafteter Rückzug ist nicht endgültig | E. 2.1 |
 
-*Letzte Aktualisierung: "2026-06-27"
+*Letzte Aktualisierung: 2026-07-31*
+
+---
+
+## X. Neuere Entscheide (KW31/2026)
+
+### BGer 6B_151/2026 — Neue Diagnose-Etikette allein kein Revisionsgrund
+
+**BGer 6B_151/2026 vom 24. Juni 2026**
+
+Bestätigung der Rechtsprechung: Ein neues Gutachten mit abweichender Diagnose auf denselben Befunden ist **keine neue Tatsache** nach Art. 410 Abs. 1 lit. a StPO. Nicht die Diagnose-Etikette, sondern das abweichende medizinische Substrat wäre eine neue Tatsache. Wenn das neue Gutachten auf denselben medizinischen Befunden beruht wie das ursprüngliche Gutachten und lediglich zu einer anderen Diagnose gelangt, liegt keine neue Tatsache vor, sondern eine andere Würdigung desselben Sachverhalts. Dies gilt namentlich für psychiatrische Gutachten, bei denen verschiedene Gutachter zu unterschiedlichen Diagnosen (z.B. dissoziale Persönlichkeitsstörung vs. andere Störungsbilder) gelangen können, ohne dass neue medizinische Befunde hinzugekommen sind.
+
+→ [BGer 6B_151/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_151_2026)

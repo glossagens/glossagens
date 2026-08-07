@@ -2,10 +2,16 @@
 title: "Art. 49 ATSG — Verfügung"
 weight: 49
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 49 ATSG: Verfügungspflicht, Feststellungsverfügung, Rechtsmittelbelehrung und aufschiebende Wirkung im Sozialversicherungsverfahren."
 tags: ["ATSG", "Sozialversicherungsrecht", "Verfügung", "Feststellungsverfügung", "Rechtsmittelbelehrung", "aufschiebende Wirkung"]
 agent_verified: true
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 8C_445/2025 (Zwischenverfügungspflicht bei Begutachtungsstreit) in rechtsprechung.md aufgenommen."
 ---
 
 ## Gesetzeswortlaut

@@ -88,4 +88,12 @@ Zurück zum Kommentar: [Art. 24bis RPG — Bündelung von Infrastrukturanlagen u
 
 ---
 
-*Letzte Aktualisierung: 2026-06-20*
+### BGer 1C_379/2025 vom 17. Juni 2026
+
+- **Thema**: Art. 24bis Abs. 3 RPG; NISV; Standortdatenblatt; Sub-Array-Angabe; Korrekturfaktor
+- **Kernaussage**: Das Bundesgericht bestätigt seine Rechtsprechung, dass die Angabe des adaptiven Betriebs und der Sub-Array-Anzahl im Standortdatenblatt genügt. Der Korrekturfaktor und die maximale Sendeleistung müssen nicht zusätzlich deklariert werden, da sie sich daraus berechnen lassen (E. 3). Bei einer Erweiterung einer bestehenden Mobilfunkanlage ausserhalb der Bauzone gilt die Anlage nach Art. 24bis Abs. 3 RPG als standortgebunden; die strahlenschutzrechtliche Beurteilung kann auf der Grundlage des Standortdatenblatts erfolgen, ohne dass der Korrekturfaktor separat ausgewiesen sein muss. Neue Rügen, die erst im Beschwerdeverfahren nach Art. 99 Abs. 1 BGG erhoben werden, sind nur unter den engen Voraussetzätzen der Ausnahme zulässig (E. 2.4.2).
+- **Einschlägig für**: Abs. 3 (Standortgebundenheit, Erweiterung); NISV; Art. 99 Abs. 1 BGG (neue Tatsachen/Rügen)
+
+---
+
+*Letzte Aktualisierung: 2026-08-02*

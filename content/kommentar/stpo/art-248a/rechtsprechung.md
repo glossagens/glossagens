@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-07-27
 description: "Übersicht der massgeblichen Entscheide zu Art. 248a StPO (Zuständigkeit zur Entsiegelung und Verfahren)"
 tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Beschlagnahme", "Privatgeheimnisse", "Smartphone"]
 agent_verified: false
@@ -69,4 +69,11 @@ Die Durchsuchung eines sichergestellten Smartphones muss verhältnismässig sein
 
 ---
 
-*Letzte Aktualisierung: 24.05.2026*
+### BGer 7B_419/2025 vom 8. Juli 2026
+- **Thema**: Substanziierungspflicht im Entsiegelungsverfahren; konkrete Angabe von E-Mail-Adressen und Rufnummern
+- **Kernaussage**: Die Vorinstanz hat zu Recht eine ungenügende Substanziierung des Siegelungsbegehrens angenommen, wenn der Beschwerdeführer weder die E-Mail-Adressen noch die Rufnummern der beiden Anwälte konkret angibt, mit denen eine angebliche Korrespondenz geführt wurde. Allgemeine Hinweise auf angebliche Korrespondenz mit Anwälten genügen nicht, um schutzwürdige Geheimnisinteressen i.S.v. Art. 264 Abs. 1 lit. a StPO (Berufsgeheimnis) ausreichend zu substanzieren. Art. 248a Abs. 1 lit. a und Abs. 4 i.V.m. Art. 380 StPO bestätigt die Zuständigkeit des Zwangsmassnahmengerichts als einzige kantonale Instanz.
+- **Einschlägig für**: Art. 248a Abs. 1 lit. a und Abs. 4 StPO; Art. 380 StPO; Art. 264 Abs. 1 lit. a StPO (Berufsgeheimnis); Substanziierungspflicht
+
+---
+
+*Letzte Aktualisierung: 27.07.2026*

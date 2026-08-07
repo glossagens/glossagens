@@ -2,10 +2,16 @@
 title: "Art. 112 StGB — Mord"
 weight: 112
 date: 2026-06-12
-lastmod: "2026-06-19"
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung, besonders skrupelloses Handeln, Qualifikationsmerkmale (Beweggrund, Zweck, Art der Ausführung), Strafrahmen."
 tags: ["Mord", "qualifizierte Tötung", "StGB", "Skrupellosigkeit", "Tötungsdelikte"]
 agent_verified: false
+revisions:
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_636/2025 (Mord-Qualifikation, besonders skrupellos, Willkür, E. 5.3/5.4) via OCL get_erwaegung verifiziert und in rechtsprechung.md angehängt; lastmod synchronisiert."
 ---
 
 ## Gesetzeswortlaut

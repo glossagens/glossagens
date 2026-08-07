@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-07-18"
+lastmod: "2026-07-31"
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Landesverweisung, Härtefallklausel, EMRK-Konformität und Freizügigkeitsabkommen"
 tags: ["Rechtsprechung", "Landesverweisung", "StGB", "Härtefallklausel"]
 agent_verified: false
@@ -26,7 +26,7 @@ agent_verified: false
 
 ### BGE 145 IV 364 — Landesverweisung und Freizügigkeitsabkommen
 
-[BGE 145 IV 364](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_364) (22. Mai 2019) — Bei der strafrechtlichen Landesverweisung von EU/EFTA-Bürgern ist im konkreten Einzelfall zu prüfen, ob die Massnahme zum Schutze der öffentlichen Ordnung und Sicherheit verhältnismässig ist (Art. 5 Abs. 1 Anhang I FZA). Das FZA hat keinen Einfluss auf die Gesetzgebung im Bereich des Strafrechts. Die Schweiz hat jedoch bei der Auslegung gesetzlicher Bestimmungen die völkerrechtlichen Verpflichtungen zu beachten. Eine spezifische Prüfung unter dem Blickwinkel der öffentlichen Ordnung und Sicherheit ist erforderlich; die blosse Tatsache einer Verurteilung genügt nicht.
+[BGE 145 IV 364](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_364) (22. Mai 2019) — Bei der strafrechtlichen Landesverweisung von EU/EFTA-Bürgern ist im konkreten Einzelfall zu prüfen, ob die Massnahme zum Schutze der öffentlichen Ordnung und Sicherheit verhältnismässig ist (Art. 5 Abs. 1 Anhang VVV I FZA). Das FZA hat keinen Einfluss auf die Gesetzgebung im Bereich des Strafrechts. Die Schweiz hat jedoch bei der Auslegung gesetzlicher Bestimmungen die völkerrechtlichen Verpflichtungen zu beachten. Eine spezifische Prüfung unter dem Blickwinkel der öffentlichen Ordnung und Sicherheit ist erforderlich; die blosse Tatsache einer Verurteilung genügt nicht.
 
 ### BGE 145 IV 404 — Einbruchsdelikt und Landesverweisung
 
@@ -118,7 +118,7 @@ agent_verified: false
 
 ### BGer 6B_1024/2019 — Betäubungsmittel und FZA
 
-[BGer 6B_1024/2019 vom 29. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1024_2019) — Landverweisung wegen qualifizierten Betrugs (Art. 66a Abs. 1 lit. b StGB). Bei EU/EFTA-Bürgern ist die Landesverweisung nur zulässig, wenn sie nach Massgabe von Art. 5 Abs. 1 Anhang I FZA verhältnismässig ist.
+[BGer 6B_1024/2019 vom 29. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1024_2019) — Landverweisung wegen qualifizierten Betrugs (Art. 66a Abs. 1 lit. b StGB). Bei EU/EFTA-Bürgern ist die Landesverweisung nur zulässig, wenn sie nach Massgabe von Art. 5 Abs. 1 Anhang VVV I FZA verhältnismässig ist.
 
 ### BGer 6B_191/2020 — Härtefall nach Art. 66a Abs. 2 StGB
 
@@ -203,6 +203,14 @@ agent_verified: false
 ### BGer 6B_67/2024 vom 5. Juni 2026, E. 5 — Mehrfacher gewerbsmässiger Betrug; Landesverweisung
 
 [BGer 6B_67/2024 vom 5. Juni 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_67_2024#e-5) — Leitentscheid (Zusammenfassung markiert). Bestätigt die Praxis zur Landesverweisung bei mehrfachem gewerbsmässigem Betrug und der Ausschreibung im SIS. — Das Bundesgericht hob den Schuldspruch auf und wies die Sache zur neuen Entscheidung an die Vorinstanz zurück, mit der Massgabe, die übrigen Tatbestandsvoraussetzungen von Art. 146 Abs. 1 und 2 StGB (insbesondere Arglist) zu prüfen.
+
+### BGer 6B_301/2026 vom 7. Juli 2026 — Dauer der Landesverweisung und SIS-Ausschreibung
+
+[BGer 6B_301/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_301_2026) (7. Juli 2026) — Beschwerde gegen eine wegen gewerbsmässigen Diebstahls (30 Monate Freiheitsstrafe, davon 18 bedingt) angeordnete Landesverweisung. Gegenstand sind die **Dauer** der Landesverweisung (Art. 66a Abs. 4 StGB) und die **Ausschreibung im Schengener Informationssystem (SIS)**. Bestätigt, dass die Dauer der Landesverweisung im Ermessensbereich nach Art. 66a Abs. 4 lit. i StGB nach den Kriterien von BGE 139 I 145 E. 2.4 (Tat und bisheriges Verhalten, Dauer des Aufenthalts, Intensität der sozialen, kulturellen und familiären Bindungen in Gastgeberstaat und Heimatland) zu bemessen ist. Die Ausschreibung im SIS korrespondiert mit der Landesverweisung; die Beschwerde wird abgewiesen.
+
+### BGer 6B_284/2026 vom 9. Juli 2026 — Landesverweisung, SIS-Ausschreibung, Willkür
+
+[BGer 6B_284/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_284_2026) (9. Juli 2026) — Beschwerde gegen eine wegen mehrfacher Nötigung und mehrfacher Missachtung eines Kontakt- und Rayonverbots angeordnete Landesverweisung mit SIS-Ausschreibung. Rüge der Willkür (Art. 9 BV) bei der Dauerbemessung. Bestätigt, dass die Anordnung der nicht obligatorischen Landesverweisung den Kriterien von BGE 139 I 145 E. 2.4 (Tat, bisheriges Verhalten, Dauer des Aufenthalts, Intensität der sozialen, kulturellen und familiären Bindungen) zu folgen hat und dass die Willkürkontrolle nicht beanstandet werden kann, wenn die Vorinstanz diese Kriterien vertretbar angewendet hat. Die SIS-Ausschreibung ist eine begleitende Massnahme der Landesverweisung.
 
 ---
 

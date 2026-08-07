@@ -38,6 +38,7 @@ Kommentar zum [Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)](h
 - [Art. 311 — Entzug der elterlichen Sorge](art-311/)
 - [Art. 314 — Verfahren im Kindesschutz](art-314/)
 - [Art. 314b — Fürsorgerische Unterbringung von Kindern](art-314b/)
+- [Art. 328 — Verwandtenunterstützung](art-328/)
 
 ### Familienrecht — Der Erwachsenenschutz (Art. 360–456)
 

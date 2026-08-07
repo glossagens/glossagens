@@ -12,6 +12,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 
 - [Art. 44 — Verwertung beschlagnahmter Gegenstände](art-044/)
 - [Art. 72 — Zustellung von Betreibungsurkunden](art-072/)
+- [Art. 73 — Pflichten des Gläubigers](art-073/)
 - [Art. 79 — Rechtsvorschlag: Fortsetzung der Betreibung](art-079/)
 - [Art. 80 — Definitive Rechtsöffnung](art-080/)
 - [Art. 82 — Provisorische Rechtsöffnung](art-082/)
@@ -20,6 +21,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 
 ### Konkurs (Art. 159–270)
 
+- [Art. 174 — Beschwerde gegen Konkurseröffnung](art-174/)
 - [Art. 191 — Selbstantrag des Schuldners (Insolvenzerklärung)](art-191/)
 - [Art. 190 — Konkurs ohne vorgängige Betreibung](art-190/)
 - [Art. 221 — Inventaraufnahme im Konkurs](art-221/)

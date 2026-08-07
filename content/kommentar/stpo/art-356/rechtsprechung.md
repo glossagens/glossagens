@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 356 StPO"
 weight: 99
 date: "2026-06-27"
-lastmod: "2026-07-17"
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht"
-tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Säumnisfiktion", "Rückzug", "Anklageschrift", "Gültigkeit"]
+tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Säumnisfiktion", "Rückzug", "Anklageschrift", "Gültigkeit", "EGMR", "Nejjar"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_685/2025 (Säumnisfiktion Art. 356 Abs. 4 StPO bei widersprüchlichen Abwesenheitsgründen, erstmals EGMR Nejjar c. Suisse 11.12.2025) via OCL decisions/citation_string_de verifiziert und angehängt."
 ---
 
 Zurück zum Kommentar: [Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht](./)
@@ -70,6 +76,13 @@ Zurück zum Kommentar: [Art. 356 StPO — Verfahren vor dem erstinstanzlichen Ge
 ---
 
 ## IV. Säumnisfiktion (Abs. 4)
+
+### BGer 6B_685/2025 (07.07.2026, 5er-Besetzung)
+- **Thema**: Säumnisfiktion des Einspracherückzugs (Art. 356 Abs. 4 StPO) bei widersprüchlichen Angaben zum Abwesenheitsgrund; Pflicht zur aktiven Abklärung; erstmals Heranziehung von EGMR *Nejjar c. Suisse* (11.12.2025, Req. 9087/18, § 40)
+- **Kernaussage**: Die nach Art. 356 Abs. 4 StPO angeordnete *fiction légale* des Einspracherückzugs bei unentschuldigtem Fernbleiben (vgl. Art. 355 Abs. 2 StPO) darf **nicht mechanisch** angewendet werden, wenn widersprüchliche Informationen über den Abwesenheitsgrund vorliegen (hier: Haftanstalt verweigert den Transport, Verteidiger meldet gesundheitliche Verhinderung per efax am Verhandlungstag). Die Verfahrensleitung muss den Sachverhalt **aktiv abklären**, bevor sie eine eindeutige Verzichtshandnung annimmt. Die Vorschrift ist im Lichte der verfassungs- und konventionsrechtlichen Gewährleistung des Richterzugangs (Art. 29a BV; Art. 6 Ziff. 1 EMRK) auszulegen, deren Verbürgung das Bundesgericht erstmals mit EGMR *Nejjar c. Suisse* (11.12.2025, § 40) bekräftigt. Ein im letzteren Verfahren eingereichtes ärztliches Attest gilt als unzulässiges *Nova* (Art. 99 Abs. 1 BGG); der Verfahrensmangel stützt sich jedoch auf die bereits am Verhandlungstag vorliegende Information. Bestätigt BGE 146 IV 30, BGE 142 IV 158, BGE 140 IV 82.
+- **Erwägung**: E. 2.1 ff.
+- **Einschlägig für**: Abs. 4 (Säumnisfiktion, Art. 29a BV, Art. 6 EMRK, aktive Abklärungspflicht)
+- **Quelle**: [BGer 6B_685/2025 vom 7. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_685_2025)
 
 ### BGE 142 IV 158 (11.04.2016)
 - **Thema**: Einspracherückzugsfiktion bei Nichterscheinen, effektive Kenntnis

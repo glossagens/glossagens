@@ -34,6 +34,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 ### Sachliche und örtliche Zuständigkeit (Art. 22–42)
 
+- [Art. 26 — Mehrfache Zuständigkeit](art-026/)
 - [Art. 29 — Grundsatz der Verfahrenseinheit](art-029/)
 - [Art. 30 — Trennung und Vereinigung von Strafverfahren](art-030/)
 - [Art. 34 — Durch Begehungsort bestimmte Zuständigkeit](art-034/)
@@ -67,6 +68,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 - [Art. 118 — Begriff und Voraussetzungen (Privatklägerschaft)](art-118/)
 - [Art. 119 — Form und Inhalt der Erklärung](art-119/)
 - [Art. 120 — Verzicht und Rückzug](art-120/)
+- [Art. 122 — Zivilklage](art-122/)
 - [Art. 124 — Zuständigkeit und Verfahren (Zivilklage)](art-124/)
 - [Art. 126 — Entscheid (Zivilklage)](art-126/)
 - [Art. 127 — Rechtsbeistand](art-127/)
@@ -124,6 +126,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 - [Art. 309 — Eröffnung der Untersuchung](art-309/)
 - [Art. 310 — Nichtanhandnahmeverfügung](art-310/)
+- [Art. 318 — Abschluss](art-318/)
 - [Art. 319 — Gründe der Einstellung](art-319/)
 - [Art. 320 — Einstellungsverfügung](art-320/)
 - [Art. 322 — Genehmigung und Rechtsmittel (Einstellungsverfügung)](art-322/)
@@ -169,6 +172,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 - [Art. 384 — Fristbeginn](art-384/)
 - [Art. 385 — Begründung und Form](art-385/)
 - [Art. 391 — Entscheid (Verbot der reformatio in peius)](art-391/)
+- [Art. 393 — Zulässigkeit und Beschwerdegründe](art-393/)
 - [Art. 394 — Ausschluss der Beschwerde](art-394/)
 - [Art. 396 — Form und Frist (Beschwerde)](art-396/)
 - [Art. 398 — Zulässigkeit und Berufungsgründe](art-398/)

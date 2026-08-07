@@ -40,7 +40,7 @@ agent_verified: false
 - Art. 32 Abs. 2 BV: Verteidigungsrechte → Art. 6 Abs. 3 EMRK
 - Art. 10 StPO: Unschuldsvermutung und freie Beweiswürdigung → Art. 6 Abs. 2 EMRK
 
-**6** **Völkerrechtliche Parallelbestimmungen** Neben der EMRK enthalten weitere völkerrechtliche Abkommen strafverfahrensrechtliche Mindestgarantien: Art. 14 UNO-Pakt II (Verfahrensgarantien weitgehend parallel zu Art. 6 EMRK), Art. 7 EMRK (keine Strafe ohne Gesetz) und Art. 2 ZP VII EMRK (Berufungsrecht). Die Schweiz ist an diese Bestimmungen gleichermassen gebunden. Nach der Praxis des Bundesgerichts ist Art. 6 EMRK lex specialis gegenüber Art. 14 UNO-Pakt II, soweit beide Bestimmungen dieselben Garantien enthalten ([BGE 127 I 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_38), E. 2c).
+**6** **Völkerrechtliche Parallelbestimmungen** Neben der EMRK enthalten weitere völkerrechtliche Abkommen strafverfahrensrechtliche Mindestgarantien: Art. 14 UNO-Pakt II (Verfahrensgarantien weitgehend parallel zu Art. 6 EMRK), Art. 7 EMRK (keine Strafe ohne Gesetz) und Art. 2 1. ZP EMRK VII EMRK (Berufungsrecht). Die Schweiz ist an diese Bestimmungen gleichermassen gebunden. Nach der Praxis des Bundesgerichts ist Art. 6 EMRK lex specialis gegenüber Art. 14 UNO-Pakt II, soweit beide Bestimmungen dieselben Garantien enthalten ([BGE 127 I 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_38), E. 2c).
 
 ### Materialien und Gesetzgebungsgeschichte
 
@@ -48,7 +48,7 @@ agent_verified: false
 
 **8** **Schweizer Ratifikationsgeschichte** Die Schweiz hat die EMRK am 28. November 1974 ratifiziert. Die Ratifizierung erfolgte nach intensiver innenpolitischer Debatte, da insbesondere die Frage der Nachprüfung kantonaler Entscheide durch den EGMR umstritten war. Die Nachratifizierung des 6. Zusatzprotokolls (Abschaffung der Todesstrafe) und des 7. Zusatzprotokolls (u.a. Berufungsrecht) folgten später. Das 7. Zusatzprotokoll ist für die Schweiz am 1. November 1989 in Kraft getreten.
 
-**8a** **Verhältnis zum 7. Zusatzprotokoll** Das 7. Zusatzprotokoll zur EMRK enthält in Art. 2 ein eigenständiges Berufungsrecht in Strafsachen, das über Art. 6 EMRK hinausgeht. Nach der Rechtsprechung des EGMR gewährleistet Art. 6 EMRK zwar ein Recht auf Überprüfung durch ein höheres Gericht, jedoch kein vollständiges Berufungsrecht. Das Berufungsrecht nach Art. 2 ZP VII EMRK verlangt eine umfassende Überprüfung von Tat- und Rechtsfragen. Die Schweiz hat das 7. Zusatzprotokoll 1988 ratifiziert; es ist am 1. November 1989 in Kraft getreten.
+**8a** **Verhältnis zum 7. Zusatzprotokoll** Das 7. Zusatzprotokoll zur EMRK enthält in Art. 2 ein eigenständiges Berufungsrecht in Strafsachen, das über Art. 6 EMRK hinausgeht. Nach der Rechtsprechung des EGMR gewährleistet Art. 6 EMRK zwar ein Recht auf Überprüfung durch ein höheres Gericht, jedoch kein vollständiges Berufungsrecht. Das Berufungsrecht nach Art. 2 1. ZP EMRK VII EMRK verlangt eine umfassende Überprüfung von Tat- und Rechtsfragen. Die Schweiz hat das 7. Zusatzprotokoll 1988 ratifiziert; es ist am 1. November 1989 in Kraft getreten.
 
 ## Abs. 1 — Recht auf ein faires Verfahren vor einem unabhängigen und unparteiischen Gericht
 
@@ -98,7 +98,7 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 
 **14a** **Weitere EGMR-Entscheide zur Unabhängigkeit** Im Fall Parosudis v. Frankreich (Nr. 79871/12) stellte der EGMR fest, dass die Beteiligung eines Militärrichters an der Anklage gegen den Beschwerdeführer in einem früheren Verfahren die Unabhängigkeit des Gerichts beeinträchtigt. Im Fall Kremlev v. Russland (Nr. 36087/07) wurde die Unabhängigkeit der Schiedsgerichte im Handelsschiedsverfahren bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können.
 
-**14b** **BGer-Rechtsprechung zur Unabhängigkeit** Das Bundesgericht hat die Unabhängigkeit gerichtlich bestellter Schiedsrichter in BGE 140 I 165 bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind. In BGE 142 I 212 wurde die Unabhängigkeit der Mitglieder des Beschwerdeausschusses der FIFA geprüft und teilweise verneint, da der Beschwerdeausschuss nicht ausreichend institutionell von der FIFA getrennt war.
+**14b** **BGer-Rechtsprechung zur Unabhängigkeit** Das Bundesgericht hat die Unabhängigkeit gerichtlich bestellter Schiedsrichter in BGE 140 I 153 bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind. In BGE 142 I 195 wurde die Unabhängigkeit der Mitglieder des Beschwerdeausschusses der FIFA geprüft und teilweise verneint, da der Beschwerdeausschuss nicht ausreichend institutionell von der FIFA getrennt war.
 
 ### Unparteiischkeit des Gerichts
 
@@ -134,11 +134,11 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren (BGE 
 - **Annoni-Cavedi und Gargiulo v. Italien** (Nr. 28487/95 u.a.): Die Waffengleichheit verlangt, dass beide Parteien die Möglichkeit haben, an der Beweisaufnahme teilzunehmen und die gleichen Beweismittel zu nutzen. Die einseitige Verweigerung der Beweiserhebung zugunsten einer Partei kann gegen Art. 6 Abs. 1 EMRK verstossen.
 - **Martinie v. Frankreich** (Nr. 58675/00, Grosskammer): Die Waffengleichheit gilt auch im Disziplinarverfahren gegen Richter. Die Nichtzulassung eines anwaltlichen Vertreters in einem Disziplinarverfahren kann gegen Art. 6 Abs. 1 EMRK verstossen, wenn die Komplexität des Verfahrens anwaltliche Vertretung erfordert.
 
-**22b** **Nemo tenetur — Recht auf Schweigen und Aussageverweigerung** Der Grundsatz *nemo tenetur se ipsum accusare* (niemand ist gehalten, sich selbst anzuklagen) ist ein zentraler Teilaspekt des fairen Verfahrens und eng mit der Unschuldsvermutung verbunden. Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, gehören zu den Grundprinzipien eines fairen Verfahrens im Sinne von Art. 6 EMRK (BGE 127 I 74, E. 2a; BGE 135 I 264, E. 3.1; EGMR, Funke v. Frankreich, Nr. 15178/89, § 41; EGMR, Saunders v. Vereinigtes Königreich, Nr. 19187/91, § 68).
+**22b** **Nemo tenetur — Recht auf Schweigen und Aussageverweigerung** Der Grundsatz *nemo tenetur se ipsum accusare* (niemand ist gehalten, sich selbst anzuklagen) ist ein zentraler Teilaspekt des fairen Verfahrens und eng mit der Unschuldsvermutung verbunden. Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, gehören zu den Grundprinzipien eines fairen Verfahrens im Sinne von Art. 6 EMRK (BGE 127 I 54, E. 2a; BGE 135 I 257, E. 3.1; EGMR, Funke v. Frankreich, Nr. 15178/89, § 41; EGMR, Saunders v. Vereinigtes Königreich, Nr. 19187/91, § 68).
 
 Das *nemo tenetur* umfasst:
-- **Das Recht auf Schweigen**: Die beschuldigte Person ist nicht verpflichtet, aktiv zur Aufklärung des Sachverhalts beizutragen. Aus ihrem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden (BGE 135 I 264, E. 3.1).
-- **Das Recht auf Aussageverweigerung**: Die beschuldigte Person kann nicht gezwungen werden, sich selbst zu belasten. Dies gilt auch für die Verweigerung der Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten (BGE 127 I 74; BGE 142 I 105, E. 4.2).
+- **Das Recht auf Schweigen**: Die beschuldigte Person ist nicht verpflichtet, aktiv zur Aufklärung des Sachverhalts beizutragen. Aus ihrem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden (BGE 135 I 257, E. 3.1).
+- **Das Recht auf Aussageverweigerung**: Die beschuldigte Person kann nicht gezwungen werden, sich selbst zu belasten. Dies gilt auch für die Verweigerung der Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten (BGE 127 I 54; BGE 142 I 99, E. 4.2).
 - **Grenzen des nemo tenetur**: Das *nemo tenetur* verbietet nicht die Verwertung von Beweismitteln, die unabhängig vom Willen der beschuldigten Person erhoben wurden (z.B. Blutproben, DNA-Proben bei zulässiger Zwangsanwendung). Es verbietet jedoch die Zwangsverwertung von Aussagen, die unter Druck oder Zwang gemacht wurden (EGMR, Jalloh v. Deutschland, Nr. 54810/00, Grosskammer).
 
 **22c** **Nemo tenetur — Weitere EGMR-Entscheide** Die EGMR-Rechtsprechung hat das *nemo tenetur* weiter konkretisiert:
@@ -210,9 +210,9 @@ In Airey v. Irland (Nr. 6289/73) stellte der EGMR fest, dass die Konvention nich
 
 **27b** **BGer-Rechtsprechung zum Beschleunigungsgebot** Das Bundesgericht hat die EGMR-Kriterien übernommen und in mehreren Entscheiden angewendet:
 - **BGE 139 I 145**: Die übermässige Dauer eines Zivilverfahrens kann eine Konventionsverletzung darstellen. Massgeblich sind die Kriterien von Kudła.
-- **BGE 141 I 133**: Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
-- **BGE 136 I 79**: Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
-- **BGE 143 I 233**: Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
+- **BGE 141 I 113**: Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
+- **BGE 136 I 39**: Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
+- **BGE 143 I 220**: Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
 
 **27c** **Recht auf wirksame Beschwerde** Das Recht auf eine wirksame Beschwerde («effective remedy») ist eine implizite Komponente von Art. 6 Abs. 1 EMRK und wird in Art. 13 EMRK explizit geregelt. Der EGMR hat in Silver u.a. v. Vereinigtes Königreich (Nr. 5947/72) und Kudła v. Polen (Nr. 30210/96, Grosskammer) festgestellt, dass das Recht auf eine wirksame Beschwerde nicht nur den Zugang zum Gericht, sondern auch die Wirksamkeit des Rechtsschutzes umfasst. Eine Beschwerde ist nur wirksam, wenn sie geeignet ist, die gerügte Verletzung zu beheben oder zumindest zu einer Überprüfung durch eine unabhängige Instanz zu führen.
 

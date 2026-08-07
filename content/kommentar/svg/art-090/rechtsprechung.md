@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 90 SVG"
 weight: 99
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 90 SVG (einfache, grobe und qualifizierte grobe Verkehrsregelverletzung)"
 tags: ["Rechtsprechung", "SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz"]
 agent_verified: false
+revisions:
+  - date: 2026-07-03
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Neuerstellung KW27."
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "KW31 — Ergänzung BGer 6B_938/2025 (Art. 90 Abs. 2 SVG) via OCL verifiziert."
 ---
 
 # Rechtsprechungssammlung zu Art. 90 SVG
@@ -55,4 +66,23 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-07-03*
+## Bundesgerichtsentscheide (KW31/2026 — Ergänzung)
+
+### BGer 6B_938/2025 vom 9. Juli 2026 (5er-Besetzung)
+- **Abteilung**: I. strafrechtliche Abteilung, 5er-Besetzung (Muschietti, Donzallaz, von Felten, Wohlhauser, Glassey)
+- **Vorinstanz**: Tribunal cantonal du canton de Vaud
+- **Verfahrensergebnis**: Teilweise Gutheissung
+- **Thema**: Art. 90 Abs. 2 SVG (grobe Verkehrsregelverletzung); Willkür bei der Sachverhaltsfeststellung; Genugtuung; rechtliches Gehör
+- **Sachverhalt**: Am Abend des 4. Januar 2023 verursachte der Beschwerdeführer eine Ausfahrt und einen Unfall, der seine Beifahrerin und die anderen Verkehrsteilnehmer gefährdete und bei dem er beinahe mit einem entgegenkommenden Polizeifahrzeug kollidierte. Er wurde wegen grober Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG verurteilt.
+- **Kernaussagen**:
+  - **(E. 3.1)** Eine grobe Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG setzt objektiv voraus, dass der Täter durch eine **grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt** (vgl. Art. 90 Abs. 2 SVG).
+  - **(E. 3.4)** Das Bundesgericht sieht nicht, inwiefern der Begründung der Vorinstanz Bundesrecht verletzt wäre, zumal der Beschwerdeführer den grundsätzlichen Tatvorwurf der groben Verkehrsregelverletzung nicht bestreitet — die Willkürrüge gegenüber der Sachverhaltsfeststellung bleibt unbegründet.
+  - Bestätigt die Praxis zur Abgrenzung zwischen einfacher (Abs. 1) und grober (Abs. 2) Verkehrsregelverletzung anhand der Kriterien Gefahrbegründung und Rücksichtslosigkeit.
+- **Dispositiv**: Teilweise Gutheissung; Schuldspruch Art. 90 Abs. 2 SVG bestätigt.
+- **Einschlägig für**: Art. 90 Abs. 2 SVG (grobe Verkehrsregelverletzung; Willkür bei der Sachverhaltsfeststellung; Genugtuung; rechtliches Gehör)
+
+→ [BGer 6B_938/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_938_2025)
+
+---
+
+*Letzte Aktualisierung: 2026-07-31*

@@ -2,10 +2,16 @@
 title: "Art. 24 — Wesentlicher Irrtum"
 weight: 24
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 24 OR – Wesentlicher Irrtum bei der Willenserklärung"
 tags: ["OR", "Willensmangel", "Irrtum", "Anfechtung", "Grundlagenirrtum"]
 agent_verified: true
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "KW31 — Ergänzung der Rechtsprechung (BGer 4A_29/2022) via OCL verifiziert; lastmod synchronisiert."
 ---
 
 ## Gesetzeswortlaut

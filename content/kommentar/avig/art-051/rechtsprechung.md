@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 51 AVIG"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-08-02"
 description: "Übersicht der massgeblichen Entscheide zu Art. 51 AVIG (Anspruchsvoraussetzungen der Insolvenzentschädigung; Konkurs; offensichtliche Überschuldung; Pfändungsbegehren; Ausschlusstatbestände)"
 tags: ["Rechtsprechung", "AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-02
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Supplement KW31 — 8C_202/2026 (Insolvenzentschädigung pouvoir décisionnel) via OCL case-brief verifiziert."
 ---
 
 # Rechtsprechungssammlung zu Art. 51 AVIG
@@ -63,4 +69,16 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-07-17*
+## Aktuelle Entscheide (KW31/2026)
+
+### BGer 8C_202/2026 — Insolvenzentschädigung: pouvoir décisionnel des dirigeants
+
+**BGer 8C_202/2026 vom 16. Juli 2026** (IV. öf-rechtliche Abteilung, Abweisung im vereinfachten Verfahren gemäss Art. 109 Abs. 2 lit. a BGG)
+
+Bestätigung der Rechtsprechung zu Art. 51 AVIG (LACI): Eine Gesellschaft kann nicht als Arbeitgeberin im Sinne der Insolvenzentschädigung gelten, wenn ihre Tätigkeit bloss fiktiv ist und kein reales Entscheidungspotential (pouvoir décisionnel) des beschwerdeführenden Organs besteht. Wie das kantonale Gericht zutreffend festgehalten hat, ist es — und dies ist die einzige Ausnahme — nicht erforderlich, die konkreten Umstände des Einzelfalls zu prüfen, wenn das Fehlen eines Entscheidungspotentials des dirigeants aus den Akten selbst ersichtlich ist (E. 4.2). Der Beschwerdeführer macht geltend, die produzierten Belege bewiesen eine reale kommerzielle Tätigkeit, die Existenz von Kunden und Aufträge. Dies ist jedoch willkürliche Sachverhaltskritik (Art. 9 BV): Die Vorinstanz durfte feststellen, dass keine echte unternehmerische Tätigkeit vorlag (E. 3). Der Anspruch auf Insolvenzentschädigung setzt eine echte Arbeitgeberin voraus; eine blosse Briefkastenfirma ohne eigenes Entscheidungspotential erfüllt Art. 51 AVIG nicht. Verweisung auf die Rechtsprechung, wonach ein Organ, das über keinen eigenen Entscheidungsspielraum verfügt, nicht als Arbeitnehmer im Sinne der Arbeitslosenversicherung zu betrachten ist. Verfahren im vereinfachten Verfahren (Art. 108/109 BGG) abgewiesen; keine unentgeltliche Rechtspflege bei offensichtlich aussichtsloser Beschwerde (E. 5).
+
+→ [BGer 8C_202/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_202_2026)
+
+---
+
+*Letzte Aktualisierung: 2026-08-02*

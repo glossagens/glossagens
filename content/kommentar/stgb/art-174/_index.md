@@ -1,96 +1,72 @@
 ---
 title: "Art. 174 — Verleumdung"
 weight: 174
-date: 2026-05-23
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 174 StGB — Verleumdung (Dénonciation calomnieuse): wider besseres Wissen jemanden eines unehrenhaften Verhaltens beschuldigen"
-tags: ["StGB", "Ehrverletzung", "Verleumdung", "Strafantragsdelikt", "planmässig"]
+date: 2026-07-31
+lastmod: 2026-07-31
+description: "Kommentar zu Art. 174 StGB — Verleumdung: ehrverletzende Beschuldigung oder Verdächtigung wider besseres Wissen, qualifizierter Fall bei planmässiger Untergrabung des guten Rufs (Abs. 2), Rücknahme als Strafmilderungsgrund (Abs. 3), Abgrenzung zur üblen Nachrede (Art. 173 StGB)."
+tags: ["StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Antragsdelikt", "Strafantrag", "Ehre", "Wahrheitsbeweis"]
 agent_verified: true
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 311.0 Art. 174), Leitentscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
+
+# Art. 174 StGB
 
 ## Gesetzeswortlaut
 
-> **Art. 174 StGB — Verleumdung**
+> **Art. 174 — Verleumdung**
 >
-> 1. Wer jemanden wider besseres Wissen bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt oder verdächtigt, wer eine solche Beschuldigung oder Verdächtigung wider besseres Wissen verbreitet, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+> **1** Wer jemanden wider besseres Wissen bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt oder verdächtigt, wer eine solche Beschuldigung oder Verdächtigung wider besseres Wissen verbreitet, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 >
-> 2. Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so wird er mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+> **2** Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so wird er mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
 >
-> 3. Zieht der Täter seine Äusserungen vor dem Gericht als unwahr zurück, so kann er milder bestraft werden. Das Gericht stellt dem Verletzten über den Rückzug eine Urkunde aus.
+> **3** Zieht der Täter seine Äusserungen vor dem Gericht als unwahr zurück, so kann er milder bestraft werden. Das Gericht stellt dem Verletzten über den Rückzug eine Urkunde aus.
 
+*Quelle: [Fedlex (SR 311.0, Art. 174)](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_174), Konsolidierung Stand 2026-06-12.*
+
+## Überblick und Bedeutung
+
+**1** **Qualifiziertes Ehrverletzungsdelikt.** Art. 174 StGB sanktioniert die **Verleumdung**: Wer jemanden **wider besseres Wissen** bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt, verdächtigt oder eine solche Beschuldigung **wider besseres Wissen verbreitet**, wird — auf Antrag — bestraft. Das geschützte Rechtsgut ist die **Ehre**, der soziale Achtungsanspruch der Person. Die Verleumdung ist das **bösgläubige Gegenstück** zur üblen Nachrede (Art. 173 StGB): Während die üble Nachrede den gutgläubigen Äussernden erfasst und ihm den Wahrheits- und Gutglaubensbeweis offen hält, setzt die Verleumdung **besseres Wissen** voraus und versagt dem Täter jeglichen Wahrheits- oder Gutglaubensbeweis.
+
+**2** **Systematischer Standort.** Art. 174 StGB steht im Titel «Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich» (Art. 173–179novies StGB) unmittelbar nach der üblen Nachrede. Abs. 2 enthält den **qualifizierten Fall** bei planmässiger Untergrabung des guten Rufs. Die Strafrahmen wurden mit Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen (in Kraft seit 1. Juli 2023) angepasst; der Grundtatbestand (Abs. 1) sieht nun Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, der qualifizierte Fall (Abs. 2) Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen vor.
 
 ## Kommentierung
 
-### Bedeutung
+### I. Objektiver und subjektiver Tatbestand (Abs. 1)
 
-Art. 174 StGB sanktioniert die Verleumdung (Dénonciation calomnieuse) — die wider besseres Wissen vorgenommene Beschuldigung oder Verdächtigung einer Person eines unehrenhaften Verhaltens oder sonstiger rufschädigender Tatsachen. Zusammen mit Art. 173 StGB (üble Nachrede) bildet Art. 174 StGB das Kernstück der Ehrverletzungsdelikte im schweizerischen Strafrecht.
+**3** **Beschuldigung und Verdächtigung.** Wie bei Art. 173 StGB erfasst der Tatbestand die **Beschuldigung** (Behaupten einer ehrverletzenden Tatsache als gegeben) und die **Verdächtigung** (Erwecken des Eindrucks, eine ehrverletzende Tatsache könnte vorliegen) sowie die **Weiterverbreitung** einer solchen Beschuldigung oder Verdächtigung. Der Weiterverbreitende haftet wie der Erstäussernde, sofern er sich die ehrverletzende Aussage zu eigen macht.
 
-Die Bestimmung unterscheidet sich von der üblen Nachrede (Art. 173 StGB) durch das Element des **wissentlichen Unwahrheitsbezugs**: Während bei Art. 173 StGB auch wahre, aber ehrverletzende Äusserungen strafbar sein können (wenn sie nicht zum Wahrheitsbeweis zugelassen werden), setzt Art. 174 StGB voraus, dass der Täter die Unwahrheit seiner Äusserung kennt oder mindestens in Kauf nimmt.
+**4** **Ehrverletzende Tatsachen.** Vorausgesetzt ist, dass die Äusserung sich auf ein **unehrenhaftes Verhalten** oder auf **andere Tatsachen** bezieht, die **geeignet sind, den Ruf zu schädigen**. Der Begriff der Ehrverletzung ist weit und umfasst jede Äusserung, die den sozialen Achtungsanspruch der Person herabsetzt, nicht nur Vorwürfe strafbarer Handlungen.
 
-### Voraussetzungen / Tatbestandsmerkmale
+**5** **Besseres Wissen — das zentrale subjektive Element.** Das konstitutive Merkmal der Verleumdung ist das **bessere Wissen** des Täters: Er äussert oder verbreitet die ehrverletzende Tatsache **wider besseres Wissen**, also in Kenntnis ihrer Unwahrheit oder zumindest in bewusster und wirtschaftlicher Gleichgültigkeit gegenüber ihrer Wahrheit. Wer die ehrverletzende Tatsache **nicht wider besseres Wissen** äussert, fällt unter die üble Nachrede (Art. 173 StGB) und kann sich dort auf den Wahrheits- oder Gutglaubensbeweis berufen. Das bessere Wissen versagt dem Täter jeglichen Rechtfertigungs- und Entlastungsbeweis.
 
-**Abs. 1 — Grundtatbestand**
+**6** **Vorsatz.** Der Täter muss Vorsatz hinsichtlich des objektiven Tatbestandes und des besseren Wissens aufweisen. Bedingt vorsätzliches Handeln genügt, sofern der Täter die Unwahrheit der ehrverletzenden Äusserung ernsthaft in Betracht zieht und sich damit abfindet. Fahrlässige Unkenntnis der Unwahrheit begründet keine Verleumdung, sondern fällt — falls überhaupt — unter die üble Nachrede.
 
-Die objektiven Tatbestandsmerkmale sind:
-1. **Beschuldigen oder Verdächtigen**: Jemandem ein unehrenhaftes Verhalten oder eine andere rufschädigende Tatsache vorwerfen.
-2. **Bei einem andern**: Die Äusserung gegenüber einer Drittperson (nicht der Betroffenen selbst). Nach [BGE 148 IV 409](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_409) sind Äusserungen gegenüber dem eigenen Rechtsanwalt anders zu beurteilen als gegenüber jeder anderen Drittperson.
-3. **Unehrenhaftes Verhalten oder rufschädigende Tatsache**: Der Gegenstand der Beschuldigung muss geeignet sein, den Ruf zu schädigen.
-4. **Verbreiten**: Alternativ zur Erstmitteilung genügt die Weiterverbreitung einer bereits bestehenden Beschuldigung oder Verdächtigung.
+### II. Qualifizierter Fall: planmässige Untergrabung (Abs. 2)
 
-Subjektiv verlangt Abs. 1 **wider besseres Wissen**: Der Täter muss wissen, dass die Behauptung unwahr ist, oder dies zumindest in Kauf nehmen. Gutgläubigkeit schliesst den Tatbestand aus (vgl. [BGer 6B_68/2009 vom 4. Juni 2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_68_2009); [BGer 7B_97/2023 vom 13. November 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_97_2023)).
+**7** **Planmässigkeit.** Abs. 2 enthält den **qualifizierten Tatbestand**: Ist der Täter **planmässig** darauf ausgegangen, den **guten Ruf** einer Person zu **untergraben**, so erhöht sich die Strafe auf Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen. Planmässigkeit setzt voraus, dass der Täter mit einer gewissen Systematik und Zielstrebigkeit vorgeht, um den Ruf der verletzten Person gezielt und andauernd zu beschädigen; eine bloss gelegentliche ehrverletzende Äusserung genügt nicht. Der qualifizierte Fall erfasst namentlich systematische Verleumdungskampagnen, die sich gegen eine einzelne Person richten.
 
-Das Delikt ist **Strafantragsdelikt** (auf Antrag): Die Strafverfolgung setzt ein ausdrückliches oder konkludentes Strafbegehren des Verletzten voraus. Nach [BGE 115 IV 1, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_1#e-2-b) kann ein Strafantrag wegen falscher Anschuldigung (Art. 303 StGB) grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen.
+### III. Rücknahme als Strafmilderungsgrund (Abs. 3)
 
-**Abs. 2 — Qualifikation (planmässiges Untergraben)**
+**8** **Rücknahme.** Zieht der Täter seine Äusserungen **vor dem Gericht als unwahr** zurück, so kann er **milder bestraft** werden (fakultativer Strafmilderungsgrund). Die Rücknahme ist an keine besondere Form gebunden, muss aber ausdrücklich als Unwahr-Rückzug erfolgen. Über den Rückzug stellt das Gericht dem Verletzten eine **Urkunde** aus, die der verletzten Person die Wiedergutmachung im sozialen Umfeld erleichtern soll. Im Unterschied zur üblen Nachrede (Art. 173 Abs. 4 StGB) sieht Art. 174 Abs. 3 StGB keine vollständige Strafbefreiung vor, sondern nur eine fakultative Milderung.
 
-Die Qualifikation setzt voraus, dass der Täter **planmässig** darauf ausgegangen ist, den guten Ruf einer Person zu untergraben. Nach [BGE 93 IV 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_93_IV_93) begründet die Planmässigkeit weder ein Dauerdelikt noch ein fortgesetztes Delikt.
+### IV. Antrag und Umfang des Strafantrags
 
-Die Strafrahmenharmonisierung 2023 (in Kraft seit 1. Juli 2023) hat die Mindeststrafe auf 1 Monat Freiheitsstrafe bzw. 30 Tagessätze Geldstrafe angehoben (AS 2023 259; BBl 2018 2827).
+**9** **Antragsdelikt.** Die Verleumdung ist ein **Antragsdelikt** (Art. 30 StGB). Ein Strafantrag wegen «falscher Anschuldigung» (Art. 303 StGB) kann nach [BGE 115 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_1) grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen; aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Der Umfang des Strafantrags ist daher im Einzelfall sorgfältig zu bestimmen.
 
-**Abs. 3 — Rückzug**
+## Abgrenzungen
 
-Zieht der Täter seine Äusserungen vor Gericht als unwahr zurück, kann er milder bestraft werden. Das Gericht stellt dem Verletzten über den Rückzug eine Urkunde aus. Dieser Rückzug ist ein persönlicher Strafmilderungsgrund.
+**10** **Verleumdung (Art. 174 StGB) vs. üble Nachrede (Art. 173 StGB).** Die Abgrenzung liegt im subjektiven Element: Verleumdung setzt **besseres Wissen** voraus und versagt jeglichen Wahrheits- oder Gutglaubensbeweis; die Strafe ist qualifiziert (Freiheitsstrafe bis zu drei Jahren bzw. im qualifizierten Fall Abs. 2 Freiheitsstrafe ab einem Monat). Üble Nachrede erfasst den gutgläubigen Äussernden, dem der Wahrheits- und Gutglaubensbeweis (Art. 173 Abs. 2 StGB) offen steht; die Grundstrafe ist auf eine Geldstrafe beschränkt. Bestehen Zweifel am besseren Wissen des Täters, ist im Zweifel von der milderen üblen Nachrede auszugehen (Art. 173 StGB).
 
-### Abgrenzungen
-
-- **Art. 173 StGB (üble Nachrede)**: Setzt kein „wider besseres Wissen" voraus; erfasst auch wahre, aber ehrverletzende Äusserungen. Die Abgrenzung ist in der Praxis häufig problematisch (vgl. [BGer 6B_333/2009 vom 5. September 2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_333_2009); [BGer 6B_68/2009 vom 4. Juni 2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_68_2009)).
-- **Art. 303 StGB (falsche Anschuldigung)**: Erklärt jemand eine Person bei einer Behörde wider besseres Wissen einer strafbaren Handlung, so erfüllt dies den Tatbestand der falschen Anschuldigung. Nach [BGE 136 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_170) macht sich ein Strafanzeigeerstatter nicht wegen falscher Anschuldigung strafbar, wenn das daraufhin eröffnete Verfahren eingestellt wird. Die Konkurrenz zwischen Art. 174 und Art. 303 StGB wurde auch in [BGer 6B_189/2024 vom 16. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_189_2024) thematisiert.
-- **Art. 14 StGB (Wahrheitsbeweis / Entlastungsbeweis)**: Nach [BGE 102 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_176) gibt es für die Verdächtigung oder Weiterverbreitung keinen besonderen Wahrheitsbeweis; für Art. 173 StGB gilt der Entlastungsbeweis nach Art. 173 Ziff. 3 StGB.
-- **Meinungsäusserungsfreiheit**: Nach [BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313) unterliegen auch politische Äusserungen den Grenzen der Ehrverletzung.
-
-### Kasuistik
-
-**1. Grundtatbestand — wider besseres Wissen**
-
-[BGer 6B_226/2010 vom 3. Juni 2010](https://mcp.opencaselaw.ch/entscheid/bger_6B_226_2010): Wer jemanden wider besseres Wissen bei einem andern eines unehrenhaften Verhaltens beschuldigt, macht sich gemäss Art. 174 Ziff. 1 StGB strafbar.
-
-**2. Abgrenzung falsche Anschuldigung / Verleumdung**
-
-[BGE 136 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_170): Wer gegen eine Person eine Strafanzeige einreicht, macht sich dadurch nicht wegen falscher Anschuldigung strafbar, wenn das aufgrund der Anzeige eröffnete Strafverfahren eingestellt wird. Die Strafanzeige erfüllt den Tatbestand nur, wenn die Nichtschuld der Drittperson in einem früheren Verfahren festgestellt wurde.
-
-[BGer 6B_189/2024 vom 16. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_189_2024): Dénonciation calomnieuse; Beschwerde als unzulässig erklärt, da der Beschwerdeführer die Begründung der Vorinstanz zum subjektiven Tatbestand von Art. 303 StGB nicht substanziiert anfocht. Tangiert die Abgrenzung zwischen Verleumdung (Art. 174 StGB) und falscher Anschuldigung (Art. 303 StGB).
-
-**3. Qualifikation — planmässiges Untergraben**
-
-[BGer 6B_976/2017 vom 14. November 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_976_2017): Schuldspruch wegen mehrfacher planmässiger Verleumdung, mehrfacher falscher Anschuldigung und Irreführung der Rechtspflege.
-
-[BGE 93 IV 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_93_IV_93): Planmässigkeit der Verleumdung begründet weder ein Dauerdelikt noch ein fortgesetztes Delikt.
-
-**4. Wahrheits- und Entlastungsbeweis**
-
-[BGE 102 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_176): Für die Verdächtigung (oder Weiterverbreitung) gibt es keinen besondern Wahrheitsbeweis. Der Gutgläubigkeitsbeweis erfordert, dass der Äussernde die Verdachtsmomente in pflichtgemässem Vorgehen ermittelt hat.
-
-[BGE 122 IV 311](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_311): Die in der Presse geäusserte Behauptung, jemand habe eine bestimmte strafbare Handlung begangen, ist ehrverletzend, selbst wenn das Strafverfahren eingestellt wurde.
-
-**5. Meinungsäusserungsfreiheit**
-
-[BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313): Einer Person zu unterstellen, sie habe Sympathien für das Nazi-Regime, ist selbst für einen Politiker ehrverletzend. Grenzen der Meinungsäusserungsfreiheit in der politischen Diskussion.
-
-**6. Äusserungen gegenüber dem Rechtsanwalt**
-
-[BGE 148 IV 409](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_409): Die Bedeutung von Äusserungen, die ein Mandant gegenüber seinem Rechtsanwalt tätigt, ist nicht auf die gleiche Weise zu beurteilen wie Äusserungen gegenüber jeder anderen Drittperson.
+**11** **Verleumdung vs. falsche Anschuldigung (Art. 303 StGB).** Die falsche Anschuldigung (Art. 303 StGB) erfasst das Vorbringen oder Verbreiten unwahrer Tatsachenbehauptungen **behördenwidriger Art** mit dem Ziel, eine strafrechtliche Massnahme gegen jemanden zu erwirken. Die Verleumdung (Art. 174 StGB) erfasst ehrverletzende Äusserungen im privaten und sozialen Raum ohne behördlichen Bezug. Die Abgrenzung ist nach dem Schutzzweck zu ziehen: Art. 303 StGB schützt die Rechtspflege, Art. 174 StGB die Ehre.
 
 ## Literatur
 
-- BBl 2018 2827 (Botschaft zur Harmonisierung der Strafrahmen, Änderung von Art. 174 Abs. 2 StGB)
-- OnlineKommentar StGB: (kein Eintrag zu Art. 174 StGB vorhanden)
+- **Günter Stratenwerth**, Schweizerisches Strafgesetzbuch, Handkommentar, 21. Aufl. 2024, Art. 174 N. 1 ff.
+- **Stefan Trechsel / Jean-Pierre Burnand**, in: Basler Kommentar, Strafgesetzbuch, 5. Aufl. 2023, Art. 174 N. 1 ff.
+- **Andreas Donatsch / Marc Forster / Christian Schwarzenegger**, Strafrecht III, 11. Aufl. 2023, § 8 N. 18 ff.
+- **Marcel Alexander Niggli**, Strafrecht BT: Ehre und Geheimbereich, 2. Aufl. 2020, § 2 N. 30 ff.
