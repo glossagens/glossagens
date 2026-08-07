@@ -11,6 +11,11 @@ revisions:
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
+    note: "Ergänzung um Art. 31 SVG."
+  - date: 2026-08-08
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
     note: "Ergänzung um Art. 91a SVG."
   - date: 2026-08-08
     by: "Claude Code"
@@ -24,6 +29,10 @@ revisions:
 Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr (SR 741.01).
 
 ## Kommentierte Artikel
+
+### Verkehrsregeln (Art. 26–57a)
+
+- [Art. 31 — Beherrschung des Fahrzeugs](art-031/)
 
 ### Entzug von Ausweisen und Bewilligungen (Art. 16, 90)
 
