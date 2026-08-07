@@ -20,6 +20,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Allgemeine Bestimmungen — Strafbarkeit (Art. 9–33)
 
 - [Art. 10 — Verbrechen und Vergehen](art-010/)
+- [Art. 11 — Begehung durch Unterlassen](art-011/)
 - [Art. 12 — Vorsatz und Fahrlässigkeit](art-012/)
 - [Art. 13 — Sachverhaltsirrtum](art-013/)
 - [Art. 14 — Rechtmässiges Verhalten](art-014/)
@@ -84,6 +85,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 138 — Veruntreuung](art-138/)
 - [Art. 139 — Diebstahl](art-139/)
 - [Art. 140 — Raub](art-140/)
+- [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 144 — Sachbeschädigung](art-144/)
 - [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 146 — Betrug](art-146/)
@@ -135,6 +137,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen die öffentliche Gewalt (Art. 285–295)
 
 - [Art. 285 — Gewalt und Drohung gegen Behörden und Beamte](art-285/)
+- [Art. 286 — Hinderung einer Amtshandlung](art-286/)
 - [Art. 287 — Amtsanmassung](art-287/)
 
 ### Besondere Bestimmungen — Gegen die Rechtspflege (Art. 303–311)
