@@ -182,6 +182,7 @@ Kommentar zur [Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR 312.0
 
 ### Kosten und Entschädigung (Art. 416–436)
 
+- [Art. 417 — Kostenpflicht bei fehlerhaften Verfahrenshandlungen](art-417/)
 - [Art. 426 — Kostentragungspflicht der beschuldigten Person](art-426/)
 - [Art. 427 — Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person](art-427/)
 - [Art. 428 — Kostentragung im Rechtsmittelverfahren](art-428/)
