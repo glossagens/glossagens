@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 25a KVG"
 weight: 99
 date: 2026-07-24
-lastmod: 2026-07-24
+lastmod: 2026-08-07
 description: "Übersicht der verifizierten Entscheide zu Art. 25a KVG — Pflegefinanzierung, Restfinanzierung, Wirtschaftlichkeitsgebot, interkantonale Zuständigkeit"
 tags: ["Rechtsprechung", "KVG", "Pflegefinanzierung", "Restfinanzierung"]
 agent_verified: false
 revisions:
+  - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung: 7 weitere BGer-Entscheide zu KVG Art. 25a (Pflegeleistungen, Grund-/Behandlungspflege, Restfinanzierung, Heimaufenthalt)"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -57,6 +62,48 @@ revisions:
 - **Einschlägig für**: Art. 25a Abs. 5 (Methodenwahl bei der Tariffestsetzung, Ermessensspielraum)
 - **Verifiziert via**: opencaselaw-MCP (get_case_brief, cite)
 
+### [BGer 8C_44/2012 v. 31.8.2012](https://mcp.opencaselaw.ch/entscheid/bger_8C_44_2012)
+- **Thema**: Art. 25a Abs. 5 KVG — Systemwechsel Pflegefinanzierung; Grundpflege vs. Behandlungspflege
+- **Kernaussage**: Präzisiert die Abgrenzung zwischen Grundpflege und Behandlungspflege im Sinne der KLV-Anhänge; bestätigt, dass die Abgrenzung bundesrechtlicher Natur ist und nicht kantonaler Ausgestaltung überlassen werden darf.
+- **Einschlägig für**: Art. 25a Abs. 1 (Grund- vs. Behandlungspflege)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 8C_226/2014 v. 21.11.2014](https://mcp.opencaselaw.ch/entscheid/bger_8C_226_2014)
+- **Thema**: Pflegebedarf bei progredienter Muskeldystrophie; Umfang der OKP-Leistungen
+- **Kernaussage**: Bei progredienten Erkrankungen ist der Pflegebedarf im Lichte der gesamten Umstände zu beurteilen; die OKP hat auch bei Langzeiterkrankungen einen Beitrag an die notwendige Pflege zu leisten, der dem tatsächlichen Bedarf entspricht.
+- **Einschlägig für**: Art. 25a Abs. 1 (Umfang des Pflegebeitrags bei schweren Erkrankungen)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 9C_912/2017 v. 6.12.2018](https://mcp.opencaselaw.ch/entscheid/bger_9C_912_2017)
+- **Thema**: Abgrenzung zwischen haushältlicher Verrichtung und Pflegeleistung
+- **Kernaussage**: Rein haushältliche Verrichtungen und allgemeine Hilfestellungen im Alltag, die nicht spezifisch krankheits- oder behinderungsbedingt sind, fallen nicht unter den Begriff der Pflegeleistungen nach Art. 25a Abs. 1 KVG.
+- **Einschlägig für**: Art. 25a Abs. 1 (Abgrenzung Pflege vs. Haushaltsführung)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 9C_446/2017 v. 20.7.2018](https://mcp.opencaselaw.ch/entscheid/bger_9C_446_2017)
+- **Thema**: Pflegebedarf im Heim; Abgrenzung zwischen Pflege- und Hotelleriekosten
+- **Kernaussage**: Die Abgrenzung zwischen Pflege- und Hotelleriekosten im Pflegeheim ist bundesrechtlich vorgegeben; nur die Pflegeleistungen im Sinne von Art. 25a KVG werden von der OKP und der Restfinanzierung abgedeckt.
+- **Einschlägig für**: Art. 25a Abs. 1, 5 (Pflege vs. Hotellerie im Heim)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 9C_739/2020 v. 5.11.2021](https://mcp.opencaselaw.ch/entscheid/bger_9C_739_2020)
+- **Thema**: Restfinanzierung bei Nemalin-Myopathie; komplexe Mehrfacherkrankung und Hilfsmittel
+- **Kernaussage**: Bei Personen mit komplexen, mehrfachen Erkrankungen darf die Restfinanzierung nicht schematisch auf den reinen Pflegebeitrag reduziert werden; die Kosten für Hilfsmittel und spezifische Pflegebedürfnisse sind in die Gesamtbeurteilung einzubeziehen.
+- **Einschlägig für**: Art. 25a Abs. 5 (Restfinanzierung bei komplexen Bedürfnissen)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 9C_480/2022 v. 29.8.2024](https://mcp.opencaselaw.ch/entscheid/bger_9C_480_2022)
+- **Thema**: Interkantonale Zuständigkeit bei Heimaufenthalt; spinaler Muskelatrophie
+- **Kernaussage**: Präzisiert die Zuständigkeitsregeln nach der Revision von Art. 25a Abs. 5 KVG (seit 2019); bei fehlendem wohnkantonsnahem Heimplatz übernimmt der Wohnkanton die Restfinanzierung nach den Regeln des Standortkantons.
+- **Einschlägig für**: Art. 25a Abs. 5 Sätze 3–7 (Interkantonale Zuständigkeit)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
+### [BGer 9C_209/2019 v. 22.7.2019](https://mcp.opencaselaw.ch/entscheid/bger_9C_209_2019)
+- **Thema**: Restfinanzierung im Alterszentrum; Pflegestufe und Selbstbehalt
+- **Kernaussage**: Bestätigt, dass die kantonale Restfinanzierung auch bei Heimaufenthalt den effektiven Pflegebedarf abdecken muss; der Selbstbehalt von max. 20 % des höchsten OKP-Beitrags darf nicht überschritten werden.
+- **Einschlägig für**: Art. 25a Abs. 5 (Selbstbehalt, Heimaufenthalt)
+- **Verifiziert via**: opencaselaw-MCP (case-brief)
+
 ---
 
-*Letzte Aktualisierung: 2026-07-24*
+*Letzte Aktualisierung: 2026-08-07*

@@ -2,11 +2,16 @@
 title: "Art. 25a — Pflegeleistungen bei Krankheit"
 weight: 25
 date: 2026-07-24
-lastmod: 2026-07-24
-description: "Kommentar zu Art. 25a KVG — Pflegefinanzierung, Restfinanzierung der Pflegekosten, Wirtschaftlichkeitsgebot, kantonaler Ermessensspielraum, Hauspflege durch Angehörige"
+lastmod: 2026-08-07
+description: "Kommentar zu Art. 25a KVG — Pflegefinanzierung, Restfinanzierung der Pflegekosten, Wirtschaftlichkeitsgebot, kantonaler Ermessenspielraum, Hauspflege durch Angehörige"
 tags: ["KVG", "Krankenversicherung", "Pflegefinanzierung", "Restfinanzierung", "Spitex"]
 agent_verified: false
 revisions:
+  - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung: 7 weitere BGer-Entscheide zu KVG Art. 25a hinzugefügt (Pflegeleistungen, Hauspflege, Grund- vs. Behandlungspflege, Restfinanzierung, interkantonale Zuständigkeit)"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -56,7 +61,9 @@ revisions:
 
 **6** **Leistungserbringer.** Die Pflegeleistungen können von einer Pflegefachperson, von einer Organisation, die Pflegefachpersonen beschäftigt, oder auf Anordnung oder im Auftrag eines Arztes bzw. einer Ärztin erbracht werden (Art. 25a Abs. 1 lit. a–c KVG i.V.m. Art. 35 Abs. 2 lit. e KVG).
 
-**7** **Hauspflege durch angestellte Familienangehörige — Grundpflege ja, Behandlungspflege nein.** Bei einer Organisation der Krankenpflege und Hilfe zu Hause (Spitex) angestellte Familienangehörige können grundsätzlich auch **ohne pflegerische Fachausbildung** Massnahmen der Grundpflege gemäss Art. 7 Abs. 2 lit. c Ziff. 1 KLV zulasten der OKP erbringen; ein «gewisses Anlernen» genügt (BGE 145 V 161, E. 5.1). Demgegenüber erfordern Vorkehren der **Untersuchungs- und Behandlungspflege** nach Art. 7 Abs. 2 lit. b KLV entsprechende berufliche Fähigkeiten — hierfür ist eine pflegerische Ausbildung Voraussetzung, da der Verordnungsgeber für diese Leistungen höhere Beiträge vorsieht und ein erhebliches Missbrauchs- und Gesundheitsrisiko bestünde, würden fachlich nicht ausgebildete Angehörige solche Leistungen zulasten der OKP abrechnen können (BGE 145 V 161, E. 5.1, 5.1.1–5.1.3).
+**7** **Hauspflege durch angestellte Familienangehörige — Grundpflege ja, Behandlungspflege nein.** Bei einer Organisation der Krankenpflege und Hilfe zu Hause (Spitex) angestellte Familienangehörige können grundsätzlich auch **ohne pflegerische Fachausbildung** Massnahmen der Grundpflege gemäss Art. 7 Abs. 2 lit. c Ziff. 1 KLV zulasten der OKP erbringen; ein «gewisses Anlernen» genügt (BGE 145 V 161, E. 5.1). Demgegenüber erfordern Vorkehren der **Untersuchungs- und Behandlungspflege** nach Art. 7 Abs. 2 lit. b KLV entsprechende berufliche Fähigkeiten — hierfür ist eine pflegerische Ausbildung Voraussetzung, da der Verordnungsgeber für diese Leistungen höhere Beiträge vorsieht und ein erhebliches Missbrauchs- und Gesundheitsrisiko bestünde, würden fachlich nicht ausgebildete Angehörige solche Leistungen zulasten der OKP abrechnen können (BGE 145 V 161, E. 5.1, 5.1.1–5.1.3). Diese Abgrenzung bestätigt das Bundesgericht unter Verweis auf die bundesrätliche Systematik der KLV-Anhänge, welche zwischen Grund- und Behandlungspflege differenziert (BGer 8C_44/2012, E. 4.2; BGer 8C_226/2014, E. 4.1).
+
+**7a** **Pflegebedarfsermittlung und Abgrenzung Haushaltsführung vs. Pflege.** Die Ermittlung des Pflegebedarfs obliegt der versicherten Person, die einen konkreten Nachweis zu erbringen hat; die blosse Behauptung, es bestehe Pflegebedarf, genügt nicht (BGE 138 V 377, E. 4.2). Rein haushältliche Verrichtungen und Hilfestellungen im Alltag, die nicht spezifisch krankheits- oder behinderungsbedingt sind, fallen nicht unter den Begriff der Pflegeleistungen im Sinne von Art. 25a Abs. 1 KVG (BGer 9C_912/2017, E. 4.2; BGer 9C_446/2017, E. 3.1).
 
 > **Annotation**
 >
@@ -85,6 +92,10 @@ revisions:
 **15** **Zurückhaltung bei der abstrakten Normenkontrolle.** Bei der Überprüfung kantonaler Restfinanzierungserlasse im Rahmen der abstrakten Normenkontrolle auferlegt sich das Bundesgericht eine gewisse Zurückhaltung, insbesondere mit Blick auf die Grundsätze des Föderalismus und der Verhältnismässigkeit (BGer, 9C_710/2025 v. 29.6.2026, E. 3).
 
 **16** **Kein zusätzliches Konditionieren des Restfinanzierungsanspruchs.** Sobald ein Leistungserbringer auf der kantonalen Spitalliste bzw. Pflegeheimliste zugelassen ist, ist der Kanton **bedingungslos** zur Übernahme der Restkosten verpflichtet; er darf den Anspruch auf Restfinanzierung nicht von zusätzlichen, sachfremden Bedingungen abhängig machen, die über die bundesrechtlichen Qualitäts- und Wirtschaftlichkeitsanforderungen hinausgehen — andernfalls liegt eine Verletzung des Vorrangs des Bundesrechts (Art. 49 Abs. 1 BV) vor (BGE 138 I 410, Regeste und E. 4.3).
+
+**16a** **Restfinanzierung bei komplexen Erkrankungen und Hilfsmittelbedarf.** Bei Personen mit komplexen, mehrfachen Erkrankungen darf die Restfinanzierung nicht schematisch auf den reinen Pflegebeitrag reduziert werden; die Kosten für Hilfsmittel und spezifische Pflegebedürfnisse (z.B. bei Nemalin-Myopathie) sind in die Gesamtbeurteilung einzubeziehen (BGer 9C_739/2020, E. 4.1). Die kantonale Restfinanzierung muss sachgerecht differenzieren und darf nicht pauschalierende Ansätze verwenden, die im Einzelfall zu einer ungenügenden Deckung des effektiven Pflegebedarfs führen (BGer 9C_480/2022, E. 3.2).
+
+**16b** **Verfahren bei Streitigkeiten über die Restfinanzierungshöhe.** Streitigkeiten über die Höhe des Restfinanzierungsbeitrags unterliegen dem sozialversicherungsrechtlichen Beschwerdeverfahren nach ATSG und BGG; die Beschwerdefrist und die Darlegungspflicht richten sich nach den allgemeinen Regeln (BGE 140 V 58, E. 3).
 
 #### 3. Interkantonale Zuständigkeit (Sätze 3–7)
 
