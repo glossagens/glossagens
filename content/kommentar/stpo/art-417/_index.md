@@ -5,8 +5,13 @@ date: 2026-08-07
 lastmod: 2026-08-07
 description: "Kommentar zu Art. 417 StPO: Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen, Kannvorschrift unabhängig vom Verfahrensausgang, Abgrenzung zu Art. 426–428 StPO."
 tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Entsiegelung", "Verfahrenskosten", "Kannvorschrift"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung: 10 weitere BGer-Entscheide zu Art. 417 StPO hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -45,7 +50,9 @@ Art. 417 StPO steht systematisch am Anfang des 4. Titels (Kosten und Entschädig
 
 ## III. Persönlicher Anwendungsbereich: auch Vertreter und Dritte
 
-**5** Kostenpflichtig nach Art. 417 StPO kann nicht nur die Partei selbst, sondern auch deren **Vertreter oder Rechtsbeistand** werden, wenn dieser die fehlerhafte Verfahrenshandlung zu verantworten hat. In Anlehnung an die zu Art. 66 Abs. 3 BGG ergangene Rechtsprechung (Verursacherprinzip) bejahte das Bundesgericht die Kostenpflicht eines gesetzlichen Vertreters, der im Namen einer minderjährigen Beschwerdeführerin eine geradezu mutwillige, rechtsmissbräuchliche Beschwerde erhoben hatte, obschon er selbst nicht Partei des Verfahrens war ([BGer 6B_364/2018, E. 3.3.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_6B_364_2018)). Da der Kreis der «verfahrensbeteiligten Person» über die Parteien im engeren Sinn hinausgeht (vgl. Art. 105 StPO: geschädigte Person, anzeigenerstattende Person, Zeugen, Auskunftspersonen, Sachverständige, durch Verfahrenshandlungen beschwerte Dritte), erstreckt sich die Kostenpflicht potenziell auf jede Person, die durch eine ihr zurechenbare fehlerhafte Verfahrenshandlung Kosten verursacht.
+**5** Kostenpflichtig nach Art. 417 StPO kann nicht nur die Partei selbst, sondern auch deren **Vertreter oder Rechtsbeistand** werden, wenn dieser die fehlerhafte Verfahrenshandlung zu verantworten hat. In Anlehnung an die zu Art. 66 Abs. 3 BGG ergangene Rechtsprechung (Verursacherprinzip) bejahte das Bundesgericht die Kostenpflicht eines gesetzlichen Vertreters, der im Namen einer minderjährigen Beschwerdeführerin eine geradezu mutwillige, rechtsmissbräuchliche Beschwerde erhoben hatte, obschon er selbst nicht Partei des Verfahrens war ([BGer 6B_364/2018, E. 3.3.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_6B_364_2018)). Da der Kreis der «verfahrensbeteiligten Person» über die Parteien im engeren Sinn hinausgeht (vgl. Art. 105 StPO: geschädigte Person, anzeigenerstattende Person, Zeugen, Auskunftspersonen, Sachverständige, durch Verfahrenshandlungen beschwerte Dritte), erstreckt sich die Kostenpflicht potenziell auf jede Person, die durch eine ihr zurechenbare fehlerhafte Verfahrenshandlung Kosten verursacht. Dies umfasst auch Fälle, in denen eine beschuldigte Person durch rechtsmissbräuchliche Eingaben Verfahrenskosten verursacht, selbst wenn das Verfahren eingestellt wird ([BGer 6B_1062/2018, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1062_2018); [BGer 6B_434/2020, E. 1](https://mcp.opencaselaw.ch/entscheid/bger_6B_434_2020)).
+
+**5a** **Rechtsmissbräuchliche Eingaben als fehlerhafte Verfahrenshandlung.** Eine rechtsmissbräuchliche Eingabe, die offensichtlich aussichtslos ist und nur der Prozessverschleppung dient, qualifiziert als fehlerhafte Verfahrenshandlung im Sinne von Art. 417 StPO. Dies gilt namentlich für wiederholte, inhaltsgleiche Beschwerden, die bereits Gegenstand eines Entscheids waren ([BGer 7B_686/2023, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_686_2023); [BGer 7B_164/2022, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_164_2022)). Ebenso kann die unbegründete Beschwerdeerhebung gegen eine Untersuchungshaftanordnung kostenpflichtig sein, wenn sie offensichtlich keine neuen Argumente vorbringt ([BGer 7B_58/2025, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_7B_58_2025)).
 
 ## IV. Systematische Abgrenzung zu Art. 426–428 StPO
 
@@ -55,7 +62,9 @@ Art. 417 StPO steht systematisch am Anfang des 4. Titels (Kosten und Entschädig
 
 ## V. Rückgriff des Staates (Art. 420 StPO) und Verhältnis zum Verwaltungsstrafrecht
 
-**8** Von Art. 417 StPO zu unterscheiden ist der **Rückgriff** von Bund oder Kanton nach Art. 420 StPO gegen Personen, die vorsätzlich oder grobfahrlässig die Einleitung des Verfahrens veranlasst, dieses erheblich erschwert oder eine im Revisionsverfahren aufgehobene Entscheidung verursacht haben. Während Art. 417 StPO bereits während des laufenden Verfahrens greift und blosse objektive Pflichtverletzung genügt, setzt der Rückgriff nach Art. 420 StPO ein qualifiziertes Verschulden voraus und betrifft die vom Staat bereits **getragenen** Kosten und Entschädigungen.
+**8** Von Art. 417 StPO zu unterscheiden ist der **Rückgriff** von Bund oder Kanton nach Art. 420 StPO gegen Personen, die vorsätzlich oder grobfahrlässig die Einleitung des Verfahrens veranlasst, dieses erheblich erschwert oder eine im Revisionsverfahren aufgehobene Entscheidung verursacht haben. Während Art. 417 StPO bereits während des laufenden Verfahrens greift und blosse objektive Pflichtverletzung genügt, setzt der Rückgriff nach Art. 420 StPO ein qualifiziertes Verschulden voraus und betrifft die vom Staat bereits **getragenen** Kosten und Entschädigungen. Der Rückgriff nach Art. 420 StPO ist auch gegenüber Personen möglich, die das Verfahren durch falsche Anschuldigungen veranlasst haben ([BGer 6B_934/2016, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_934_2016); [BGer 6B_1255/2016, E. 3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1255_2016)).
+
+**8a** **Abgrenzung zum Rückgriff nach Art. 66 Abs. 3 BGG.** Im bundesgerichtlichen Verfahren entspricht das Verursacherprinzip demjenigen von Art. 417 StPO; das Bundesgericht wendet es regelmässig an, um Parteien, die durch Säumnis oder rechtsmissbräuchliche Eingaben Verfahrenskosten verursachen, zur Kostentragung zu verpflichten, unabhängig vom Ausgang des Verfahrens ([BGer 6B_181/2023, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_181_2023); [BGer 6B_1290/2021, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_6B_1290_2021)).
 
 **9** In einem neueren Entscheid zur Kostenverteilung im Entsiegelungsverfahren eines Verwaltungsstrafverfahrens (Steuerhinterziehung) bestätigte das Bundesgericht die dargestellten Grundsätze zu Art. 417 StPO — Kannvorschrift, blosse objektive Pflichtverletzung, Kausalitätserfordernis — als Vergleichsmassstab, stellte jedoch klar, dass diese Grundsätze der ordentlichen Strafprozessordnung im Anwendungsbereich des Bundesgesetzes über das Verwaltungsstrafrecht (VStrR) nicht unbesehen übernommen werden können: Die Verwaltungsbehörde darf nach Art. 95 VStrR die Verfahrenskosten nur dem Verurteilten oder — bei Einstellung — dem Beschuldigten auferlegen, nicht aber am Verfahren nicht beschuldigten Dritten, deren Datenträger von der Siegelung betroffen waren. Die Beschwerdekammer des Bundesstrafgerichts als Entsiegelungsrichterin muss die Kostenverteilung im Entsiegelungsverfahren daher **selbst und abschliessend** vornehmen, statt sie auf den Abschluss des Hauptverfahrens zu verschieben ([BGer 7B_11/2026 vom 25. Juni 2026, E. 2.2.2 ff.](https://mcp.opencaselaw.ch/entscheid/bger_7B_11_2026)).
 

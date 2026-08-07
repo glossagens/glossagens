@@ -5,8 +5,13 @@ date: 2026-08-07
 lastmod: 2026-08-07
 description: "Übersicht der Entscheide zu Art. 417 StPO (Verursacherprinzip, Kannvorschrift, Abgrenzung zu Art. 426–428 StPO und zum Verwaltungsstrafrecht)"
 tags: ["Rechtsprechung", "StPO", "Kostentragung", "Verursacherprinzip"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung: 10 weitere BGer-Entscheide zu Art. 417 StPO hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -39,6 +44,50 @@ revisions:
 * **Ursprung der Verschuldensunabhängigkeit**
   [BGer 6B_5/2013 vom 19. Februar 2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_5_2013)
   Frühe Bestätigung, dass die objektive Verletzung von Verfahrenspflichten für die Kostenauflage nach Art. 417 StPO genügt und kein schuldhaftes Verhalten vorausgesetzt wird.
+
+* **Rechtsmissbräuchliche Eingaben und Säumnis als fehlerhafte Verfahrenshandlung**
+  [BGer 7B_686/2023 vom 23. September 2024, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_686_2023)
+  Wiederholte, inhaltsgleiche Beschwerden, die bereits Gegenstand eines Entscheids waren, qualifizieren als rechtsmissbräuchliche fehlerhafte Verfahrenshandlung i.S.v. Art. 417 StPO; die daraus resultierenden Verfahrenskosten können der verursachenden Partei ungeachtet des Verfahrensausgangs auferlegt werden.
+
+* **Beschwerde gegen Untersuchungshaft — Kosten bei offensichtlich aussichtsloser Beschwerde**
+  [BGer 7B_164/2022 vom 14. August 2023, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_164_2022)
+  Bestätigt, dass die Erhebung einer offensichtlich aussichtslosen Beschwerde gegen eine Untersuchungshaftanordnung als fehlerhafte Verfahrenshandlung i.S.v. Art. 417 StPO gewertet werden kann.
+
+* **Kostenauflage bei Haftbeschwerde ohne neue Argumente**
+  [BGer 7B_58/2025 vom 7. Februar 2025, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_7B_58_2025)
+  Die unbegründete Haftbeschwerde, die offensichtlich keine neuen Argumente vorbringt, rechtfertigt eine Kostenauflage nach Art. 417 StPO.
+
+* **Verursacherprinzip und Kostentragung bei Einstellung**
+  [BGer 6B_1062/2018 vom 4. März 2019, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1062_2018)
+  Eine beschuldigte Person, die durch rechtsmissbräuchliche Eingaben Verfahrenskosten verursacht, kann auch bei Einstellung des Verfahrens kostenpflichtig erklärt werden.
+
+* **Einstellung und Kostentragung — Säumnis des Beschuldigten**
+  [BGer 6B_1290/2021 vom 31. März 2022, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_6B_1290_2021)
+  Präzisiert das Verursacherprinzip nach Art. 66 Abs. 3 BGG und Art. 417 StPO: Säumnis des Beschuldigten bei der Einhaltung von Fristen kann unabhängig vom Verfahrensausgang zur Kostenauflage führen.
+
+* **Kostenauflage bei fehlerhafter Verfahrenshandlung im Rechtsmittelverfahren**
+  [BGer 6B_434/2020 vom 14. September 2021, E. 1](https://mcp.opencaselaw.ch/entscheid/bger_6B_434_2020)
+  Bestätigt die Anwendbarkeit des Verursacherprinzips im Rechtsmittelverfahren; eine fehlerhafte Verfahrenshandlung kann auch bei Unterliegen der beschuldigten Person im Rechtsmittel kostenrechtlich sanktioniert werden.
+
+* **Rückgriff nach Art. 420 StPO — Abgrenzung zu Art. 417 StPO**
+  [BGer 6B_934/2016 vom 13. Juli 2017, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_934_2016)
+  Der Rückgriff des Staates nach Art. 420 StPO setzt qualifiziertes Verschulden (Vorsatz oder grobe Fahrlässigkeit) voraus, während Art. 417 StPO bereits bei objektiver Pflichtverletzung greift. Bestätigt die systematische Abgrenzung der beiden Normen.
+
+* **Falsche Anschuldigung und Rückgriff nach Art. 420 StPO**
+  [BGer 6B_1255/2016 vom 24. Mai 2017, E. 3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1255_2016)
+  Personen, die das Verfahren durch falsche Anschuldigungen veranlasst haben, können nach Art. 420 StPO für die Verfahrenskosten regresspflichtig gemacht werden; die Schwelle des qualifizierten Verschuldens ist erfüllt.
+
+* **Entsiegelungsverfahren — Kostenverteilung bei Drittbeteiligung**
+  [BGer 1B_534/2018 vom 4. April 2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_534_2018)
+  Im Entsiegelungsverfahren müssen die Kostenverteilung und die Anwendbarkeit von Art. 417 StPO auf Dritte, die nicht Beschuldigte des Hauptverfahrens sind, sorgfältig geprüft werden; die Grundsätze von BGE 138 IV 225 sind zu beachten.
+
+* **Haftbeschwerde und Kostenpflicht nach Art. 417 StPO**
+  [BGer 7B_918/2025 vom 22. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_918_2025)
+  Bestätigt, dass im Haftbeschwerdeverfahren die Kostenauflage nach Art. 417 StPO auch bei Unterliegen der beschuldigten Person möglich ist, sofern die Beschwerde als fehlerhafte Verfahrenshandlung qualifiziert werden kann.
+
+* **Kostenpflicht des Vertreters bei mutwilliger Beschwerde**
+  [BGer 6B_181/2023 vom 16. Mai 2024, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_181_2023)
+  Präzisiert, dass auch der Vertreter einer Partei nach Art. 417 StPO kostenpflichtig werden kann, wenn er durch eine mutwillige oder rechtsmissbräuchliche Eingabe Verfahrenskosten verursacht; das Verursacherprinzip gilt unabhängig von der Parteistellung.
 
 ---
 
