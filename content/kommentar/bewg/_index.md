@@ -11,6 +11,7 @@ Kommentar zum [Bundesgesetz über den Erwerb von Grundstücken durch Personen im
 ### Zweck und Anwendungsbereich (Art. 1–6)
 
 - [Art. 1 — Zweck](art-001/)
+- [Art. 2 — Bewilligungspflicht](art-002/)
 - [Art. 3 — Bundesrecht und kantonales Recht](art-003/)
 
 ### Ausnahmen von der Bewilligungspflicht (Art. 7–8)

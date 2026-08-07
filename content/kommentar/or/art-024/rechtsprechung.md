@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 24 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 24 OR – Wesentlicher Irrtum"
 tags: ["Rechtsprechung", "OR", "Irrtum", "Willensmangel", "Anfechtung"]
 agent_verified: false
+revisions:
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Neuerstellung."
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "KW31 — Ergänzung BGer 4A_29/2022 (Grundlagenirrtum Kaufvertrag) via OCL (get_erwaegung) verifiziert."
 ---
 
 ## Leitentscheide (BGE)
@@ -79,4 +90,14 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-23*
+### BGer 4A_29/2022 — Grundlagenirrtum bei Kaufvertrag (Abweisung)
+
+**BGer 4A_29/2022 vom 19. April 2022**
+
+Streitig war, ob sich die Beschwerdeführerin auf einen **Grundlagenirrtum nach Art. 24 Abs. 1 Ziff. 4 OR** berufen kann, und aus diesem Grund der Kaufvertrag vom 15. Oktober 2019 unverbindlich ist (E. 2). Das Bundesgericht wies die Beschwerde als unbegründet ab (E. 3) — die Voraussetzungen des Grundlagenirrtums waren nicht erfüllt, sodass der Kaufvertrag verbindlich blieb. Bestätigt die strenge Praxis, dass ein Grundlagenirrtum nur bei einer notwendigen, tragenden Geschäftsgrundlage greift, deren Fehlen das Geschäft für den Irrenden sinnlos macht; eine blosse Fehleinschätzung reicht nicht aus. Kosten- und entschädigungspflichtig gemäss Art. 66 Abs. 1 und Art. 68 Abs. 2 BGG (E. 3).
+
+→ [BGer 4A_29/2022](https://mcp.opencaselaw.ch/entscheid/bger_4A_29_2022)
+
+---
+
+*Letzte Aktualisierung: 2026-07-31*

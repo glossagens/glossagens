@@ -2,7 +2,7 @@
 title: "Art. 146 — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: "2026-06-19"
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 146 StGB – Betrug: Arglistige Täuschung durch Vorspiegelung oder Unterdrückung von Tatsachen, Schädigungsabsicht, Bereicherungsabsicht"
 tags: ["StGB", "Betrug", "Vorspiegelung", "Arglist", "Vermögensdelikt", "Bereicherungsabsicht"]
 agent_verified: true
@@ -33,12 +33,12 @@ Art. 146 StGB stellt den **Betrug** als klassisches Vermögensdelikt unter Straf
 
 Die Vorspiegelung (simulatio) besteht in der Behauptung nicht vorhandener Tatsachen. Die Täuschungshandlung kann durch aktives Tun (affirmative Täuschung) oder durch konkludentes Verhalten erfolgen. Massgeblich ist, ob der Täter einen unrichtigen Eindruck vom Vorliegen oder Nichtvorliegen einer Tatsache erzeugt hat.
 
-- **Konkludente Täuschung**: Auch das Verhalten des Täters kann eine Täuschung darstellen, ohne dass es einer ausdrücklichen Behauptung bedarf (BGE 147 IV 153 E. 2.1).
-- **Schweigen als Täuschung**: Ein bloses Schweigen genügt grundsätzlich nicht, es sei denn, es besteht eine Aufklärungspflicht (BGE 146 IV 239 E. 3.2).
+- **Konkludente Täuschung**: Auch das Verhalten des Täters kann eine Täuschung darstellen, ohne dass es einer ausdrücklichen Behauptung bedarf (BGE 147 IV 145 E. 2.1).
+- **Schweigen als Täuschung**: Ein bloses Schweigen genügt grundsätzlich nicht, es sei denn, es besteht eine Aufklärungspflicht (BGE 146 IV 238 E. 3.2).
 
 **b) Unterdrückung von Tatsachen**
 
-Die Unterdrückung (suppressio) besteht im Verschweigen vorhandener Tatsachen. Voraussetzung ist eine **Offenbarungspflicht**, die sich aus Gesetz, Vertrag, Treu und Glauben oder einer besonderen Vertrauensstellung ergeben kann (BGE 148 IV 73 E. 4.2).
+Die Unterdrückung (suppressio) besteht im Verschweigen vorhandener Tatsachen. Voraussetzung ist eine **Offenbarungspflicht**, die sich aus Gesetz, Vertrag, Treu und Glauben oder einer besonderen Vertrauensstellung ergeben kann (BGE 148 IV 57 E. 4.2).
 
 **c) Arglist**
 
@@ -46,7 +46,7 @@ Seit der Revision (in Kraft seit 1. Juli 2023) ist das Merkmal der **Arglist** a
 
 **d) Vermögensschädigung**
 
-Das Opfer muss eine Vermögensverfügung vornehmen, die zu einem Vermögensschaden führt. Ein Schaden liegt vor, wenn die Vermögensminderung nicht durch einen entsprechenden Gegenwert ausgeglichen wird (Stoffgleichheit, vgl. BGE 146 IV 179 E. 2.3).
+Das Opfer muss eine Vermögensverfügung vornehmen, die zu einem Vermögensschaden führt. Ein Schaden liegt vor, wenn die Vermögensminderung nicht durch einen entsprechenden Gegenwert ausgeglichen wird (Stoffgleichheit, vgl. BGE 146 IV 172 E. 2.3).
 
 **e) Kausalität**
 
@@ -58,7 +58,7 @@ Die Täuschungshandlung muss für die Vermögensverfügung **kausal** sein (Moti
 
 Der Täter muss in der **Absicht** gehandelt haben, sich oder einen Dritten unrechtmässig zu bereichern. Diese Bereicherungsabsicht ist mehr als blosser Vorsatz — sie erfordert den Willen, einen Vermögensvorteil zu erlangen, auf den kein Anspruch besteht.
 
-- **Stoffgleichheit**: Der erstrebte Vorteil muss mit dem erlittenen Nachteil stoffgleich sein (BGE 146 IV 179 E. 2.3).
+- **Stoffgleichheit**: Der erstrebte Vorteil muss mit dem erlittenen Nachteil stoffgleich sein (BGE 146 IV 172 E. 2.3).
 - **Unrechtmässigkeit**: Die Bereicherung muss unrechtmässig sein, d.h. der Täter hat keinen rechtlichen Grund für den Vermögenserwerb.
 
 **b) Vorsatz**
@@ -67,13 +67,13 @@ Der Täter muss hinsichtlich aller objektiven Tatbestandsmerkmale vorsätzlich h
 
 ### III. Qualifikation: Gewerbsmässiger Betrug (Abs. 2)
 
-Gewerbsmässigkeit liegt vor, wenn der Täter die Betrugshandlungen mit dem Willen wiederholt, sie als Einnahmequelle von einiger Dauer und Bedeutung zu benutzen (BGE 144 IV 244 E. 3.1). Einmalige Wiederholungsabsicht genügt nicht — erforderlich ist eine gewisse **Regelmässigkeit und Nachhaltigkeit** des Vorgehens.
+Gewerbsmässigkeit liegt vor, wenn der Täter die Betrugshandlungen mit dem Willen wiederholt, sie als Einnahmequelle von einiger Dauer und Bedeutung zu benutzen (BGE 144 IV 240 E. 3.1). Einmalige Wiederholungsabsicht genügt nicht — erforderlich ist eine gewisse **Regelmässigkeit und Nachhaltigkeit** des Vorgehens.
 
 Die qualifizierte Strafe beträgt Freiheitsstrafe von sechs Monaten bis zu zehn Jahren (Fassung seit 1. Juli 2023).
 
 ### IV. Antragsdelikt (Abs. 3)
 
-Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt (Art. 146 Abs. 3 i.V.m. Art. 36 StGB). Die Antragsfrist beträgt drei Monate (Art. 37 StGB).
+Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt (Art. 146 Abs. 3 i.V.m. Art. 36 StGB). Die Antragsfrist beträgt drei Monate (Art. 34 StGB).
 
 ### V. Abgrenzungen
 
@@ -103,7 +103,7 @@ Bei Gesellschaftsdelikten ist nur die Gesellschaft selbst Geschädigte; ein Mind
 
 **Versicherungsbetrug**: Vortäuschung eines Versicherungsfalls oder Überhöhung des tatsächlichen Schadens; die Schadensmeldepflicht begründet eine Offenbarungspflicht bezüglich der wahren Schadenshöhe.
 
-**Identitätsbetrug**: Verwendung falscher Identität zur Erlangung von Leistungen; konkludente Täuschung über die Identität (vgl. BGE 147 IV 153 E. 2.2).
+**Identitätsbetrug**: Verwendung falscher Identität zur Erlangung von Leistungen; konkludente Täuschung über die Identität (vgl. BGE 147 IV 145 E. 2.2).
 
 **Subventionsbetrug**: Bezug von Subventionen durch Verschweigen subsventionsrelevanter Tatsachen oder durch Vorspiegelung nicht gegebener Voraussetzungen.
 

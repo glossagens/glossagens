@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 426 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person"
 tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_938/2025 (E.4.1) via OCL case-brief verifiziert."
 ---
 
 ## Leitentscheide (BGE)
@@ -84,4 +90,13 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 11. Juli 2026*
+### BGer 6B_938/2025 vom 9. Juli 2026, E. 4.1
+
+- **Thema**: Zusammensetzung der Verfahrenskosten; Rückerstattung der Entschädigung für die amtliche Verteidigung
+- **Kernaussage**: Nach Art. 426 Abs. 1 Satz 1 StPO trägt die verurteilte beschuldigte Person die Verfahrenskosten. Diese setzen sich zum einen aus den Gebühren zur Deckung der eigentlichen Justizkosten und zum anderen aus tatsächlich getragenen Auslagen wie den Kosten der amtlichen Verteidigung zusammen (Art. 422 Abs. 1 und 2 lit. c StPO). Die verurteilte Person ist jedoch erst dann zur Rückerstattung der Entschädigung ihres amtlichen Verteidigers an den Bund oder Kanton verpflichtet, wenn ihre finanzielle Situation dies zulässt (Art. 135 Abs. 4 StPO i.V.m. Art. 426 Abs. 1 Satz 2 StPO). Bestätigt die systematische Einbettung von Art. 426 StPO in das Kostenregime der Art. 422 und 135 StPO.
+- **Einschlägig für**: Abs. 1 (zwingende Kostentragung bei Verurteilung; Zusammensetzung der Kosten); Verhältnis zu Art. 422 und Art. 135 StPO
+- **URL**: [BGer 6B_938/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_938_2025)
+
+---
+
+*Letzte Aktualisierung: 31. Juli 2026*

@@ -2,10 +2,16 @@
 title: "Art. 111 StGB — Vorsätzliche Tötung"
 weight: 111
 date: 2026-06-12
-lastmod: "2026-06-19"
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 111 StGB: Vorsätzliche Tötung (Totschlag), Grunddelikt der vorsätzlichen Tötung, Abgrenzung zum Mord (Art. 112), Tatbestandsmerkmale, Versuch und Teilnahme."
 tags: ["Totschlag", "vorsätzliche Tötung", "StGB", "Mord", "Tötungsdelikte", "Vorsatz"]
 agent_verified: false
+revisions:
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_636/2025 (Mord Art. 111/112 StGB, Strafzumessung, Willkür, E. 5.3/5.4) via OCL get_erwaegung verifiziert und in rechtsprechung.md angehängt; lastmod synchronisiert."
 ---
 
 ## Gesetzeswortlaut

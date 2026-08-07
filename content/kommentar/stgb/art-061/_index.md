@@ -2,10 +2,16 @@
 title: "Art. 61 — Einweisung in eine Einrichtung für junge Erwachsene"
 weight: 61
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 61 StGB: Einweisung in eine Einrichtung für junge Erwachsene — Voraussetzungen, Höchstdauer, absolute Altersgrenze und bedingte Entlassung"
-tags: ["StGB", "junge-erwachsene", "massnahme", "altersgrenze", "bedingte-entlassung"]
+tags: ["StGB", "junge-erwachsene", "massnahme", "altersgrenze", "bedingte-entlassung", "untermassverbot"]
 agent_verified: true
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_636/2025 (Untermassverbot vs. Art. 61 StGB) in rechtsprechung.md ergänzt; lastmod synchronisiert."
 ---
 
 ## Wortlaut

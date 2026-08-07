@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 49 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 49 StGB — Konkurrenzen, Gesamtstrafenbildung"
 tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_304/2026 (echtes Konkurrenzverhältnis Betrug/Identitätsmissbrauch) via OCL case-brief verifiziert."
 ---
 
 ## Leitentscheide (BGE)
@@ -102,6 +108,16 @@ agent_verified: false
 | 5 | BGE 137 IV 57 | 2'019 | Kumulation bei ungleichartigen Strafen |
 | 6 | BGE 145 IV 1 | 875 | Präzisierung teilweise retrospektive Konkurrenz |
 
+## Neuere Entscheide
+
+### BGer 6B_304/2026 vom 30. Juli 2026, E. 1.3, 3 und 4 — Echtes Konkurrenzverhältnis Betrug / Identitätsmissbrauch
+
+**BGer 6B_304/2026 vom 30. Juli 2026** (zur Publikation vorgesehen)
+
+Erstmals klärt das Bundesgericht verbindlich das Konkurrenzverhältnis zwischen **Betrug (Art. 146 StGB)** und **Identitätsmissbrauch (Art. 179decies StGB)** bei Online-Bestellbetrug. Die beiden Delikte stehen in **echtem Konkurrenzverhältnis (Art. 49 StGB)**, da sie unterschiedliche Rechtsgüter und unterschiedliche Geschädigte schützen: Art. 146 StGB schützt das Vermögen und ist im Titel „Vermögensdelikte\" eingereiht, Art. 179decies StGB schützt die Persönlichkeit — nämlich das Recht auf Wahrung der eigenen Identität — und ist systematisch unter „Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich\" eingegliedert (E. 3.1). Ein **concours imparfait durch Absorption** kommt nicht in Betracht, da bei verschiedener Rechtsgütern **und** verschiedener Geschädigter die Voraussetzungen der Absorption (Identität der verletzten Person) nicht erfüllt sind (E. 1.3, E. 4). Das Gericht folgt damit der herrschenden Lehre und distanziert sich bewusst von der im Bundesbotschaftsentwurf nur beiläufig („peut\") erwogenen Absorption (E. 3.3). Parallele zur Rechtsprechung, wonach Betrug und Urkundenfälschung (Art. 251 StGB) trotz verschiedener Rechtsgüter in echtem Konkurrenzverhältnis stehen (BGE 138 IV 209 E. 5.5; BGE 129 IV 53 E. 3; E. 3.2). Leitentscheid zur dogmatischen Abgrenzung von concours parfait und concours imparfait bei Internetdelinquenz.
+
+→ [BGer 6B_304/2026 vom 30. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_304_2026)
+
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+*Letzte Aktualisierung: 31. Juli 2026*

@@ -2,7 +2,7 @@
 title: "Bundesgesetz über die Unfallversicherung (UVG)"
 weight: 10
 date: 2026-07-03
-lastmod: 2026-07-20
+lastmod: 2026-07-27
 description: "Kommentierte Artikel des Bundesgesetzes über die Unfallversicherung (UVG, SR 832.20)"
 tags: ["UVG", "Unfallversicherung", "Sozialversicherung", "Kausalzusammenhang"]
 agent_verified: false
@@ -18,3 +18,5 @@ Bundesgesetz vom 20. März 1981 über die Unfallversicherung (SR 832.20).
 - [Art. 10 — Heilbehandlung](art-010/_index.md): Heilbehandlung der Unfallfolgen; Leistungskatalog; freie Arztwahl; Fallabschluss und Übergang zur Invalidenrente; Schleudertrauma-Praxis.
 - [Art. 18 — Invalidität (Invalidenrente)](art-018/_index.md): Anspruch auf Invalidenrente bei 10 %-Invalidität; Bemessung nach Art. 8/16 ATSG; analoge Anwendung von Art. 26bis Abs. 3 IVV (BGer 8C_254/2025).
 - [Art. 36 — Zusammentreffen verschiedener Schadensursachen](art-036/_index.md): Kürzung von Renten bei teilweise unfallbedingter Gesundheitsschädigung; Vorzustände; status quo sine vel ante; Abgrenzung zu Art. 6 UVG.
+- [Art. 20 — Höhe der Invalidenrente](art-020/_index.md): Grundrente (80 % des versicherten Verdienstes); Komplementärrente bei Zusammentreffen mit IV/AHV; Alterskürzung nach Abs. 2ter.
+- [Art. 22 — Revision der Rente](art-022/_index.md): Ausnahme vom Revisionsgrundsatz des Art. 17 ATSG; keine Revision der UVG-Rente nach Vorbezug oder Erreichen des Referenzalters.

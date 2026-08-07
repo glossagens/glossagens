@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 78 BGG"
 weight: 99
 date: 2026-05-31
-lastmod: 2026-06-13
+lastmod: 2026-07-27
 description: "Übersicht der Entscheide zu Art. 78 BGG – Grundsatz der Beschwerde in Strafsachen, sachlicher Anwendungsbereich, Zivilansprüche, Vollzug"
 tags: ["Rechtsprechung", "BGG", "Strafsachen", "Zivilansprüche", "Vollzug", "Beschwerde"]
 agent_verified: false
@@ -85,4 +85,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+### BGer 7B_851/2026 vom 14. Juli 2026
+- **Thema**: Détention provisoire, recours en matière pénale, Art. 78 Abs. 1 BGG
+- **Kernaussage**: Der recours en matière pénale (Art. 78 Abs. 1 BGG) ist offen gegen eine Entscheidung über die Untersuchungshaft oder Sicherheitshaft (Art. 212 ff. StPO). Nach Art. 81 Abs. 1 lit. a und b Ziff. 1 BGG hat der inhaftierte Beschuldigte ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des angefochtenen Entscheids, der seinen Unterhaft bestätigt. Eine Untersuchungshaft oder Sicherheitshaft ist nur mit der Verfassung vereinbar, wenn sie verhältnismässig ist.
+- **Einschlägig für**: Art. 78 Abs. 1 BGG; Art. 212 ff. StPO; Untersuchungshaft; Verhältnismässigkeit
+
+---
+
+*Letzte Aktualisierung: 27.07.2026*

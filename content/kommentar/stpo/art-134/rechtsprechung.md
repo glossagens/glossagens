@@ -1,11 +1,17 @@
 ---
 title: "Rechtsprechung zu Art. 134 StPO"
 weight: 99
-date: 2026-06-12
-lastmod: 2026-06-12
+date: "2026-06-12"
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung"
-tags: ["Rechtsprechung", "StPO", "Widerruf", "Wechsel", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung"]
+tags: ["Rechtsprechung", "StPO", "Widerruf", "Wechsel", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung", "Opferschutz", "Beschleunigungsgebot"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 6B_95/2025 (Verteidigerwechsel Art. 134 Abs. 2 StPO vs. Opferschutz/Beschleunigungsgebot) via OCL decisions/citation_string_de verifiziert und angehängt."
 ---
 
 ## Widerruf der amtlichen Verteidigung (Abs. 1)
@@ -19,6 +25,16 @@ agent_verified: false
 ---
 
 ## Wechsel bei gestörtem Vertrauensverhältnis (Abs. 2)
+
+### BGer 6B_95/2026 (06.07.2026, 3er-Besetzung)
+
+- **Thema**: Verteidigerwechsel nach Art. 134 Abs. 2 StPO im Spannungsverhältnis mit Opferschutz und Beschleunigungsgebot; Konkretisierung der Wechselkriterien
+- **Kernaussage**: Ein Begehren um Auswechslung der amtlichen Verteidigung ist zu bewilligen, wenn aus **objektiven Gründen** eine sachgemässe Vertretung der Interessen der beschuldigten Person durch die bisherige amtliche Verteidigung nicht mehr gewährleistet ist, namentlich weil das Vertrauensverhältnis **erheblich gestört** ist oder eine wirksame Verteidigung aus anderen Gründen nicht mehr besteht (Art. 134 Abs. 2 StPO). Konkrete und nachvollziehbare Gründe für den Wechsel müssen vorliegen; blosse Nichtübereinstimmung oder Strategiedifferenz genügt nicht. Im Lichte des Beschleunigungsgebots ist der Abschluss eines bereits über drei Jahre dauernden Verfahrens anzustreben; das Opfer hat einen Anspruch darauf, dass die Angelegenheit abgeschlossen wird, weshalb ein weiteres Hin und Her mit Terminverschiebungen das Opfer weiter belasten würde. Verletzung von Art. 134 Abs. 2 StPO i.V.m. Art. 32 Abs. 2 BV und Art. 6 Ziff. 1 und Ziff. 3 lit. c EMRK.
+- **Erwägung**: E. 2.1 ff.
+- **Einschlägig für**: Abs. 2, Vertrauensverhältnis, Opferschutz, Beschleunigungsgebot, Art. 32 Abs. 2 BV, Art. 6 EMRK
+- **Quelle**: [BGer 6B_95/2026 vom 6. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_95_2026)
+
+---
 
 ### BGE 138 IV 161, E. 2.4
 

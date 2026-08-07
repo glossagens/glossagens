@@ -78,4 +78,8 @@ Das Bundesgericht äussert sich zu den Kostenfolgen einer ungenügenden Berufung
 
 ---
 
-*Letzte Aktualisierung: 2026-07-18*
+### [BGer 4A_62/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_62_2026) (11.5.2026)
+
+Bestätigung der strengen Berufungsbegründungspflicht nach Art. 311 ZPO: Wer vollumfängliche Gutheissung der Berufung verlangt, muss jede selbständige Begründung der Vorinstanz angreifen. Die Berufungsinstanz durchforscht nicht von Amtes wegen den angefochtenen Entscheid. Der Beschwerdeführer übte über weite Strecken appellatorische Kritik, ohne konkrete Erwägungen der Vorinstanz strukturiert anzugreifen. Das Bundesgericht bestätigt, dass eine ungenügende Berufungsbegründung nach Art. 311 ZPO nicht durch BGG-Beschwerde korrigiert werden kann, und dass die Verletzung von Art. 311 ZPO nur bei Willkür (Art. 9 BV) überprüfbar ist.
+
+*Letzte Aktualisierung: 2026-07-31*

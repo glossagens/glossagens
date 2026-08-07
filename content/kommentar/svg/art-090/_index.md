@@ -2,7 +2,7 @@
 title: "Art. 90 — Verletzung von Verkehrsregeln"
 weight: 90
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 90 SVG: einfache, grobe und qualifizierte grobe Verkehrsregelverletzung; Abgrenzung Vorsatz/Fahrlässigkeit; Raserparagraf."
 tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "Strassenverkehr"]
 agent_verified: false

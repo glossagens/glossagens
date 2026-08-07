@@ -2,10 +2,16 @@
 title: "Art. 94 — Rechtsverweigerung und Rechtsverzögerung"
 weight: 94
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 94 BGG: Beschwerde gegen das unrechtmässige Verweigern oder Verzögern eines anfechtbaren Entscheids; Voraussetzungen, Einheit des Verfahrens, formlose Rechtsverweigerung."
 tags: ["BGG", "Rechtsverweigerung", "Rechtsverzögerung", "Beschwerde", "Art. 29 BV"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — rechtsprechung.md um BGer 5A_575/2024 und BGer 2C_330/2025 ergänzt; lastmod aktualisiert."
 ---
 
 ## Gesetzeswortlaut

@@ -13,17 +13,25 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 1 — Legalitätsprinzip](art-001/)
 - [Art. 2 — Zeitlicher Geltungsbereich / lex mitior](art-002/)
 
+### Allgemeine Bestimmungen — Geltungsbereich (Art. 3–8)
+
+- [Art. 8 — Begehungsort](art-008/)
+
 ### Allgemeine Bestimmungen — Strafbarkeit (Art. 9–33)
 
 - [Art. 10 — Verbrechen und Vergehen](art-010/)
+- [Art. 11 — Begehung durch Unterlassen](art-011/)
 - [Art. 12 — Vorsatz und Fahrlässigkeit](art-012/)
 - [Art. 13 — Sachverhaltsirrtum](art-013/)
+- [Art. 14 — Rechtmässiges Verhalten](art-014/)
 - [Art. 15 — Notwehr](art-015/)
 - [Art. 16 — Notwehrexzess](art-016/)
 - [Art. 17 — Rechtfertigender Notstand](art-017/)
+- [Art. 18 — Entschuldigender Notstand](art-018/)
 - [Art. 19 — Schuldfähigkeit](art-019/)
 - [Art. 20 — Begutachtung der Schuldfähigkeit](art-020/)
 - [Art. 22 — Versuch](art-022/)
+- [Art. 24 — Anstiftung](art-024/)
 - [Art. 25 — Gehilfenschaft](art-025/)
 - [Art. 30 — Strafantrag](art-030/)
 
@@ -32,6 +40,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 39 — Umwandlung der gemeinnützigen Arbeit](art-039/)
 - [Art. 41 — Freiheitsstrafe anstelle von Geldstrafe](art-041/)
 - [Art. 42 — Bedingter Vollzug](art-042/)
+- [Art. 43 — Teilbedingte Freiheitsstrafe](art-043/)
 - [Art. 45 — Bewährung](art-045/)
 - [Art. 46 — Widerruf der bedingten Strafe](art-046/)
 - [Art. 47 — Strafzumessung](art-047/)
@@ -65,6 +74,8 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 122 — Schwere Körperverletzung](art-122/)
 - [Art. 123 — Einfache Körperverletzung](art-123/)
 - [Art. 125 — Fahrlässige Körperverletzung](art-125/)
+- [Art. 127 — Aussetzung eines Hilflosen](art-127/)
+- [Art. 128 — Unterlassung der Nothilfe](art-128/)
 - [Art. 129 — Gefährdung des Lebens](art-129/)
 - [Art. 133 — Raufhandel](art-133/)
 - [Art. 134 — Angriff](art-134/)
@@ -75,15 +86,18 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 139 — Diebstahl](art-139/)
 - [Art. 140 — Raub](art-140/)
 - [Art. 144 — Sachbeschädigung](art-144/)
+- [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 146 — Betrug](art-146/)
 - [Art. 158 — Ungetreue Geschäftsbesorgung](art-158/)
 
 ### Besondere Bestimmungen — Gegen die Ehre und den Geheim- oder Privatbereich (Art. 173–179novies)
 
+- [Art. 173 — Üble Nachrede](art-173/)
 - [Art. 174 — Verleumdung](art-174/)
 
 ### Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit (Art. 180–186)
 
+- [Art. 180 — Drohung](art-180/)
 - [Art. 181 — Nötigung](art-181/)
 - [Art. 182 — Menschenhandel](art-182/)
 - [Art. 186 — Hausfriedensbruch](art-186/)
@@ -107,6 +121,10 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 - [Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen](art-239/)
 
+### Besondere Bestimmungen — Geldfälschung (Art. 240–244)
+
+- [Art. 240 — Geldfälschung](art-240/)
+
 ### Besondere Bestimmungen — Urkundenfälschung (Art. 251–257)
 
 - [Art. 251 — Urkundenfälschung](art-251/)
@@ -118,6 +136,8 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 ### Besondere Bestimmungen — Gegen die öffentliche Gewalt (Art. 285–295)
 
 - [Art. 285 — Gewalt und Drohung gegen Behörden und Beamte](art-285/)
+- [Art. 286 — Hinderung einer Amtshandlung](art-286/)
+- [Art. 287 — Amtsanmassung](art-287/)
 
 ### Besondere Bestimmungen — Gegen die Rechtspflege (Art. 303–311)
 

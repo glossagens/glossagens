@@ -101,4 +101,12 @@ description: "Sammlung der wichtigsten Bundesgerichtsentscheide zur Strafzumessu
 
 ---
 
-*Letzte Aktualisierung: 14.5.2026*
+### BGer 6B_114/2026 vom 13. Juli 2026 — Strafzumessung und Prognose bei teilbedingter Strafe
+
+- **Thema**: Art. 47, 43 StGB; Art. 105 BGG — Strafzumessung; Prognose für teilbedingte Strafe; Unschuldsvermutung; interne Tatsachen
+- **Kernaussage**: Das Bundesgericht ist an die vorinstanzlichen Sachverhaltsfeststellungen gebunden (Art. 105 Abs. 1 BGG); was eine Person wusste, wollte, in Aussicht gestellt oder in Kauf genommen hat, sind sogenannte «interne» Tatsachen, deren Feststellung den Tatrichter bindet (E. 1). Im Rahmen der Strafzumessung nach Art. 47 StGB erhebt der Beschwerdeführer keinen spezifischen Einwand gegen die Strafzumessung als solche, sondern begehrt lediglich einen «zumindest teilbedingten» Vollzug der Freiheitsstrafe von 26 Monaten (E. 2). Die Vorinstanz hat die Grundsätze für die Gewährung einer teilbedingten Strafe — namentlich die erforderliche Prognose und die relevanten Elemente — zutreffend dargelegt (E. 3). Die Prognose durfte auf die acht Vorverurteilungen des Beschwerdeführers (Freiheitsstrafe, Geldstrafen, TIG, Bussen zwischen September 2023 und den Delikten) und weitere, nicht ausschliesslich auf die Vorstrafen gestützte Erwägungen gestützt werden (E. 3.3–3.4). Eine negative Legalprognose ist nicht willkürlich, wenn sie sich nicht ausschließlich auf die Vorstrafen stützt, sondern auch die aktuelle Lebensführung und Deliktsschwere einbezieht. Beschwerde abgewiesen; keine unentgeltliche Rechtspflege bei offensichtlich aussichtslosem Begehren (Art. 64 Abs. 1 BGG).
+- **Einschlägig für**: Art. 47 (Strafzumessung, Täterkomponente); Art. 43 (bedingte/teilbedingte Strafe, Prognose); Art. 64 BGG
+
+---
+
+*Letzte Aktualisierung: 2026-08-02*

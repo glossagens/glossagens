@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 49 ATSG — Verfügung"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-07-31
 description: "Übersicht der wichtigen Entscheide zu Art. 49 ATSG: Verfügungspflicht, Feststellungsverfügung, Rechtsmittelbelehrung, Bindungswirkung."
 tags: ["Rechtsprechung", "ATSG", "Verfügung", "Feststellungsverfügung", "aufschiebende Wirkung"]
 agent_verified: false
+revisions:
+  - date: 2026-07-31
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung KW31 — BGer 8C_445/2025 (Zwischenverfügungspflicht bei Begutachtungsstreit) via OCL case-brief verifiziert."
 ---
 
 Zurück zum Kommentar: [Art. 49 ATSG — Verfügung](./)
@@ -36,6 +42,12 @@ Zurück zum Kommentar: [Art. 49 ATSG — Verfügung](./)
 - **Thema**: Formularmässige Mitteilung und Verfügung
 - **Kernaussage**: Eine einverständliche Gewährung von Leistungen kann formularmässig mitgeteilt werden; die Verfügungspflicht entfällt bei Einverständnis. Ein einfaches Formular erfüllt nicht die Begründungsanforderungen von Abs. 3.
 - **Einschlägig für**: Abs. 1 (Erheblichkeit), Abs. 3 (Begründung)
+
+### BGer 8C_445/2025 vom 10. Juli 2026, E. 1.1 und 3
+- **Thema**: Zwischenverfügungspflicht bei Begutachtungsstreit; Verfügungspflicht der IV-Stelle
+- **Kernaussage**: Ist zwischen der Versicherungsträgerin und der versicherten Person über die Anordnung einer Begutachtung (Art. 43 Abs. 1bis, Art. 44 ATSG) gestritten, muss die IV-Stelle eine selbstständig anfechtbare **Zwischenverfügung** erlassen, bevor das Gutachten durchgeführt wird. Das kantonale Gericht darf die IV-Stelle zu einer solchen verfügungsweisen Anordnung der Begutachtung anweisen; die Anordnung eröffnet einen Rechtsweg, ohne dass die IV-Stelle ihre abschliessende Zuständigkeit geltend machen darf. Der Rückweisungsentscheid ist ein Zwischenentscheid im Sinne von Art. 93 Abs. 1 BGG; verbindliche materiellrechtliche Vorgaben sind damit nicht verknüpft, sodass ein nicht wieder gutzumachender Nachteil regelmässig verneint wird. Bestätigt den Verfügungsbegriff von Art. 49 ATSG: Auch prozessleitende Anordnungen mit effectus negotii können eine anfechtbare Verfügung darstellen.
+- **Einschlägig für**: Abs. 1 (Verfügungspflicht, Verfügungsbegriff bei prozessleitenden Anordnungen); Verhältnis zu Art. 43 und 44 ATSG
+- **URL**: [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025)
 
 ---
 
@@ -91,4 +103,4 @@ Zurück zum Kommentar: [Art. 49 ATSG — Verfügung](./)
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+*Letzte Aktualisierung: 31. Juli 2026*

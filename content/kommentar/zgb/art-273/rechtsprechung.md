@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 273 ZGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-07-17
+lastmod: 2026-08-01
 description: "Umfassende Rechtsprechungsübersicht zum persönlichen Verkehr / Besuchsrecht nach Art. 273 ZGB"
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Rechtsprechung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-01
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Wöchentliche Ergänzung KW31 — BGer 5A_293/2024 (Änderung des persönlichen Verkehrs; Willensbildung des urteilsfähigen Kindes) via OCL case-brief verifiziert und ergänzt."
 ---
 
 ## Rechtsprechung zu Art. 273 ZGB – Persönlicher Verkehr
@@ -234,5 +240,13 @@ Der aus Art. 273 Abs. 1 ZGB fliessende Anspruch kann gestützt auf Art. 274 Abs.
 
 ---
 
-*Letzte Aktualisierung: 2026-07-17*
+#### 25. [BGer 5A_293/2024 vom 27. Januar 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_293_2024) — Änderung des persönlichen Verkehrs; Willensbildung des urteilsfähigen Kindes
+
+Die Änderung der Regelung des persönlichen Verkehrs setzt eine **wesentliche Änderung der Verhältnisse** voraus (Art. 298d Abs. 1 ZGB; E. 4.1). Das Kind ist nur dort aus Gründen des Kindeswohls auszuschliessen, wo das **urteilsfähige Kind** den Umgang aufgrund seiner Erfahrungen mit dem persönlichen Verkehr **kategorisch verweigert** (E. 4.3). Damit wird der Kindeswille als Kriterium der Besuchsrechtsänderung qualifiziert: eine gegen den nachhaltigen Willen des urteilsfähigen Kindes durchgesetzte Ausübung des persönlichen Verkehrs widerspricht dem Kindeswohl.
+
+*Einschlägig für:* Art. 273 Abs. 1 ZGB i.V.m. Art. 298d Abs. 1 ZGB; Änderung der Verhältnisse; Kindeswille; urteilsfähiges Kind
+
+---
+
+*Letzte Aktualisierung: 2026-08-01*
 

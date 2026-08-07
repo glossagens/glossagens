@@ -2,7 +2,7 @@
 title: "Art. 8 — Invalidität"
 weight: 8
 date: 2026-06-06
-lastmod: 2026-06-19
+lastmod: 2026-07-31
 description: "Kommentar zu Art. 8 ATSG — Invalidität: Begriff, Bemessung bei Erwerbstätigen (Einkommensvergleich), nichterwerbstätigen Minderjährigen und Volljährigen (Betätigungs- und gemischte Methode) sowie Verhältnis zu Art. 6 und 7 ATSG."
 tags: ["ATSG", "Sozialversicherungsrecht", "Invalidität", "Einkommensvergleich", "gemischte Methode", "Erwerbsunfähigkeit"]
 agent_verified: true

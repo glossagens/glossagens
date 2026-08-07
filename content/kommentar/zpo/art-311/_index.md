@@ -2,7 +2,7 @@
 title: "Art. 311 ZPO — Einreichen der Berufung"
 weight: 311
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 311 ZPO: Die Berufungsschrift im Zivilprozess — Gesetzliche Fristen, Begründungspflichten und die prozessualen Hürden beim Rechtsmittel."
 tags: ["ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht", "Berufungsfrist"]
 agent_verified: true
