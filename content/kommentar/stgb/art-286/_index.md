@@ -8,6 +8,11 @@ tags: ["StGB", "Hinderung einer Amtshandlung", "Amtshandlung", "Polizeikontrolle
 agent_verified: false
 revisions:
   - date: 2026-08-07
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung: 5+ weitere BGer-Entscheide zu Art. 286 StGB hinzugefügt"
+  - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
@@ -25,7 +30,7 @@ revisions:
 
 Art. 286 StGB schützt die **Funktionsfähigkeit staatlichen Handelns**, indem er die Hinderung rechtmässiger Amtshandlungen unter Strafe stellt. Die Bestimmung bildet den Auffangtatbestand für Störungen, die keine Gewalt oder Drohung im Sinne von Art. 285 StGB erreichen — sie erfasst mithin auch passiven oder bloss erschwerenden Widerstand.
 
-Art. 286 StGB ist als **Erfolgsdelikt** ausgestaltet: Die blosse Absicht oder der Versuch, eine Amtshandlung zu behindern, genügt nicht; die Amtshandlung muss tatsächlich erschwert, verzögert oder verunmöglicht worden sein ([BGE 120 IV 136, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Die Strafdrohung (Geldstrafe bis zu 30 Tagessätzen) zeigt den vergleichsweise geringen Unrechtsgehalt gegenüber Art. 285 StGB, dessen Anwendungsbereich Gewalt oder Drohung voraussetzt.
+Art. 286 StGB ist als **Erfolgsdelikt** ausgestaltet: Die blosse Absicht oder der Versuch, eine Amtshandlung zu behindern, genügt nicht; die Amtshandlung muss tatsächlich erschwert, verzögert oder verunmöglicht worden sein ([BGE 120 IV 136, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Bestätigt findet sich dieser Grundsatz namentlich in [BGer 6B_365/2017 vom 29. August 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_365_2017), wo das Bundesgericht im Zusammenhang mit einer Polizeikontrolle beim RedBull-Alpenbrevet die Erfolgsqualität von Art. 286 StGB bekräftigte. Die Strafdrohung (Geldstrafe bis zu 30 Tagessätzen) zeigt den vergleichsweise geringen Unrechtsgehalt gegenüber Art. 285 StGB, dessen Anwendungsbereich Gewalt oder Drohung voraussetzt.
 
 ## II. Tatbestandsmerkmale
 
@@ -39,13 +44,13 @@ Art. 286 StGB ist als **Erfolgsdelikt** ausgestaltet: Die blosse Absicht oder de
 
 ### 3. Tathandlung: Hindern ohne Gewalt oder Drohung
 
-**3** Die Hinderung kann durch aktives Tun oder — ausnahmsweise — durch Unterlassen erfolgen; sie setzt weder Gewaltanwendung noch Drohung voraus, da diese Konstellationen bereits von Art. 285 StGB erfasst werden. Genügend ist, dass die Vornahme der Amtshandlung **erschwert** wird; eine vollständige Verhinderung ist nicht erforderlich ([BGE 120 IV 136, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Praktisch bedeutsame Fallgruppen sind die Flucht vor einer Ausweis- oder Fahrzeugkontrolle, die Weigerung, ein Fahrzeug von der Fahrbahn zu bewegen, sowie körperliche Gegenwehr gegen eine Durchsuchung oder Fesselung, ohne dass die Schwelle zur Gewalt gemäss Art. 285 StGB erreicht wird.
+**3** Die Hinderung kann durch aktives Tun oder — ausnahmsweise — durch Unterlassen erfolgen; sie setzt weder Gewaltanwendung noch Drohung voraus, da diese Konstellationen bereits von Art. 285 StGB erfasst werden. Genügend ist, dass die Vornahme der Amtshandlung **erschwert** wird; eine vollständige Verhinderung ist nicht erforderlich ([BGE 120 IV 136, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Praktisch bedeutsame Fallgruppen sind die Flucht vor einer Ausweis- oder Fahrzeugkontrolle, die Weigerung, ein Fahrzeug von der Fahrbahn zu bewegen, sowie körperliche Gegenwehr gegen eine Durchsuchung oder Fesselung, ohne dass die Schwelle zur Gewalt gemäss Art. 285 StGB erreicht wird. Eine polizeiliche Ausweiskontrolle kann auch dann gehindert werden, wenn die kontrollierte Person sich der Kontrolle durch Flucht entzieht, ohne dass es zu einem physischen Widerstand kommt ([BGer 6B_132/2008 vom 13. Mai 2008](https://mcp.opencaselaw.ch/entscheid/bger_6B_132_2008)). Ebenso genügt es, wenn sich die betroffene Person beharrlich weigert, einer polizeilichen Anordnung Folge zu leisten, und dadurch die Amtshandlung erschwert wird ([BGer 6B_293/2018 vom 22. Mai 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_293_2018)).
 
 **4** **Nicht tatbestandsmässig** ist demgegenüber das blosse Warnen von Verkehrsteilnehmenden vor einer bevorstehenden Geschwindigkeitskontrolle, da hierdurch keine bereits laufende oder unmittelbar bevorstehende konkrete Amtshandlung gestört wird ([BGE 103 IV 186, E. 4 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_103_IV_186)).
 
 ### 4. Mittäterschaft und Anstiftung
 
-**5** Wer die Hinderungshandlung eines anderen bloss billigt, ohne an deren Entschliessung, Planung oder Ausführung tatsächlich mitzuwirken, ist nicht Mittäter ([BGE 120 IV 136, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Anstiftung zur Hinderung einer Amtshandlung liegt vor, wenn jemand Dritte dazu auffordert, sich so zu verhalten, dass ein Polizeieinsatz tatsächlich behindert wird — etwa durch die Aufforderung an Demonstrierende, sich um ein Fahrzeug zu gruppieren, um dessen Wegweisung zu vereiteln. Eine solche Anwendung von Art. 286 StGB ist mit der Meinungsäusserungs- und Versammlungsfreiheit (Art. 16 BV, Art. 10 EMRK) vereinbar, sofern der Polizeieinsatz tatsächlich erschwert wird ([BGE 127 IV 115, E. 2 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_115)); die grundrechtskonforme Auslegung ist jedoch im Einzelfall zu prüfen, insbesondere wenn sich der Vorwurf gegen Formen zivilen Protests richtet ([BGer 6B_175/2024 vom 6. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_175_2024)).
+**5** Wer die Hinderungshandlung eines anderen bloss billigt, ohne an deren Entschliessung, Planung oder Ausführung tatsächlich mitzuwirken, ist nicht Mittäter ([BGE 120 IV 136, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_136)). Anstiftung zur Hinderung einer Amtshandlung liegt vor, wenn jemand Dritte dazu auffordert, sich so zu verhalten, dass ein Polizeieinsatz tatsächlich behindert wird — etwa durch die Aufforderung an Demonstrierende, sich um ein Fahrzeug zu gruppieren, um dessen Wegweisung zu vereiteln. Eine solche Anwendung von Art. 286 StGB ist mit der Meinungsäusserungs- und Versammlungsfreiheit (Art. 16 BV, Art. 10 EMRK) vereinbar, sofern der Polizeieinsatz tatsächlich erschwert wird ([BGE 127 IV 115, E. 2 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_115)); die grundrechtskonforme Auslegung ist jedoch im Einzelfall zu prüfen, insbesondere wenn sich der Vorwurf gegen Formen zivilen Protests richtet ([BGer 6B_175/2024 vom 6. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_175_2024)). Auch bei politischen Kundgebungen mit Einkesselungsmassnahmen der Polizei kann Art. 286 StGB eingreifen, wenn die behördliche Massnahme tatsächlich behindert wird; das Bundesgericht hat dies im Fall einer politischen Kundgebung mit anschliessender Einkesselung bestätigt ([BGer 6B_538/2019 vom 10. Dezember 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_538_2019)).
 
 ## III. Abgrenzung zu Art. 305 StGB (Selbstbegünstigung)
 
@@ -65,7 +70,7 @@ Art. 286 StGB ist als **Erfolgsdelikt** ausgestaltet: Die blosse Absicht oder de
 
 ### 1. Konkurrenzen
 
-**10** Art. 286 StGB tritt in Konkurrenz zu Art. 285 StGB zurück, sobald die Schwelle zu Gewalt oder Drohung erreicht wird; die beiden Tatbestände stehen im Verhältnis der Subsidiarität. Zur Selbstbegünstigung (Art. 305 StGB) vgl. Rz. 6 f.
+**10** Art. 286 StGB tritt in Konkurrenz zu Art. 285 StGB zurück, sobald die Schwelle zu Gewalt oder Drohung erreicht wird; die beiden Tatbestände stehen im Verhältnis der Subsidiarität. Zur Selbstbegünstigung (Art. 305 StGB) vgl. Rz. 6 f. In der Praxis kommt Art. 286 StGB häufig in Tateinheit mit anderen Delikten zur Anwendung: So wurde Art. 286 StGB neben mehrfachen Diebstählen und Entwendungen bejaht ([BGer 6B_783/2018 vom 6. März 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_783_2018)), und auch im Zusammentreffen mit Sexualdelikten wurde die Hinderung einer Amtshandlung bestraft ([BGer 6B_166/2016 vom 7. Juli 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_166_2016)).
 
 ### 2. Verfahrensrechtliches
 
