@@ -11,6 +11,11 @@ revisions:
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
+    note: "Ergänzung um Art. 91a SVG."
+  - date: 2026-08-08
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
     note: "Ergänzung um Art. 91 SVG."
 ---
 
@@ -25,6 +30,7 @@ Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr (SR 741.01).
 - [Art. 16 — Entzug von Ausweisen und Bewilligungen](art-016/)
 - [Art. 90 — Verletzung von Verkehrsregeln](art-090/)
 
-### Strafbestimmungen (Art. 91)
+### Strafbestimmungen (Art. 91–91a)
 
 - [Art. 91 — Fahren in fahrunfähigem Zustand](art-091/)
+- [Art. 91a — Vereitelung von Massnahmen zur Feststellung der Fahrunfähigkeit](art-091a/)
