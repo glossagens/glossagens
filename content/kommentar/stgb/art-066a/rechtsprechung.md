@@ -212,6 +212,10 @@ agent_verified: false
 
 [BGer 6B_284/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_284_2026) (9. Juli 2026) — Beschwerde gegen eine wegen mehrfacher Nötigung und mehrfacher Missachtung eines Kontakt- und Rayonverbots angeordnete Landesverweisung mit SIS-Ausschreibung. Rüge der Willkür (Art. 9 BV) bei der Dauerbemessung. Bestätigt, dass die Anordnung der nicht obligatorischen Landesverweisung den Kriterien von BGE 139 I 145 E. 2.4 (Tat, bisheriges Verhalten, Dauer des Aufenthalts, Intensität der sozialen, kulturellen und familiären Bindungen) zu folgen hat und dass die Willkürkontrolle nicht beanstandet werden kann, wenn die Vorinstanz diese Kriterien vertretbar angewendet hat. Die SIS-Ausschreibung ist eine begleitende Massnahme der Landesverweisung.
 
+### BGer 6B_822/2025 — Landesverweisung (Bestätigung der Rechtsprechung)
+
+[BGer 6B_822/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_822_2025) (6. Juli 2026) — Bestätigung der etablierten Rechtsprechung zur Landesverweisung. Das Bundesgericht bestätigt die restriktive Härtefallprüfung nach Art. 66a Abs. 2 StGB und die zweistufige Methodik (Härtefallfeststellung + Interessenabwägung).
+
 ---
 
-Zuletzt aktualisiert: 2026-07-17 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+66a+StGB)
+Zuletzt aktualisiert: 2026-08-08 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](/einreichung)

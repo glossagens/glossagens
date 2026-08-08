@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 129 StGB"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: 2026-08-08
 description: "Rechtsprechungsübersicht zu Art. 129 StGB — Gefährdung des Lebens"
 tags: ["Rechtsprechung", "StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Abgrenzung"]
 agent_verified: true
@@ -57,6 +57,12 @@ agent_verified: true
 **Datum:** 16. April 2026 | **Docket:** 6B_75/2025
 
 **Kernsatz:** Freispruch vom Vorwurf der fahrlässigen Tötung. Enthält Ausführungen zur Abgrenzung zwischen fahrlässiger Tötung und Gefährdung des Lebens in Grenzfällen.
+
+### 8. BGer 6B_108/2026 — Ungeschärfte Klinge am Hals begründet Lebensgefahr (Präzisierung, 5er-Besetzung)
+
+**Datum:** 7. August 2026 | **Docket:** 6B_108/2026
+
+**Kernsatz:** Präzisierung: Eine ungeschärfte Klinge am Hals des Opfers begründet eine unmittelbare Lebensgefahr im Sinne von Art. 129 StGB. Das Bundesgericht stellt klar, dass für die Bejahung der unmittelbaren Lebensgefahr nicht zwingend eine scharfe Waffe erforderlich ist; auch eine ungeschärfte Klinge kann bei Anwendung am Hals eine konkrete und akute Gefährdung des Lebens darstellen, wenn die Handlungsweise nach dem gewöhnlichen Lauf der Dinge den Tod zur Folge haben kann. Bestätigt die weite Auslegung des Merkmals der Skrupellosigkeit.
 
 ---
 

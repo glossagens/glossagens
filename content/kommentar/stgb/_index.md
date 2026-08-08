@@ -116,6 +116,7 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 
 ### Besondere Bestimmungen — Gemeingefährliche Verbrechen und Vergehen (Art. 221–230bis)
 
+- [Art. 222 — Fahrlässige Verursachung einer Feuersbrunst](art-222/)
 - [Art. 223 — Verursachung einer Explosion](art-223/)
 
 ### Besondere Bestimmungen — Gegen den öffentlichen Verkehr (Art. 237–239)

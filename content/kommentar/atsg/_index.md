@@ -32,6 +32,7 @@ Kommentar zum [Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des S
 - [Art. 49 — Verfügung](art-049/)
 - [Art. 55 — Anwendbarkeit des VwVG](art-055/)
 
-### Das Rechtspflegeverfahren (Art. 56–62)
+### Die Verantwortlichkeit (Art. 56–80)
 
 - [Art. 56 — Beschwerde gegen Einspracheentscheide](art-056/)
+- [Art. 78 — Verantwortlichkeit](art-078/)

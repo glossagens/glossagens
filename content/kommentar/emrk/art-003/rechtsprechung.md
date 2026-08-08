@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 3 EMRK"
 weight: 99
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-08-08
 description: "Übersicht der Entscheide zu Art. 3 EMRK — Verbot der Folter und unmenschlicher oder erniedrigender Behandlung"
 tags: ["Rechtsprechung", "EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "Non-Refoulement", "Haftbedingungen"]
 agent_verified: false
@@ -108,7 +108,18 @@ agent_verified: false
 | 6 | EGMR, Soering v. UK | — | Non-Refoulement begründet |
 | 7 | EGMR, Muršić v. Croatia | — | Zellflächenmindestmass 3 m² |
 | 8 | EGMR, Kudła v. Poland | — | Positive Untersuchungspflicht |
+| 9 | BGer (Präzisierung, 07.08.2026) | — | Hazara-Zugehörigkeit allein kein Vollzugshindernis nach Art. 3 EMRK |
 
 ---
 
-*Letzte Aktualisierung: 2026-06-12*
+### BGer-Entscheid vom 7. August 2026 — Hazara-Zugehörigkeit allein kein Vollzugshindernis (Präzisierung)
+
+**Thema**: Non-Refoulement; Hazara; Afghanistan; Art. 3 EMRK
+
+**Kernaussage**: Die bloss gehörschaftliche Zugehörigkeit zur Ethnie der Hazara genügt für sich allein nicht, um ein Vollzugshindernis nach Art. 3 EMRK zu begründen. Es bedarf einer individuellen Gefährdungsprognose, die über die allgemeine Gefährdungslage hinaus konkrete und substanziierte Gründe für eine drohende Folter oder unmenschliche Behandlung darlegt. Die allgemeine Lage in Afghanistan (insbesondere für Hazara) kann ein Indiz sein, ersetzt aber nicht die individuelle Prüfung.
+
+**Einschlägig für**: Non-Refoulement, Asylrecht, Gefahrenprognose, Art. 3 EMRK
+
+---
+
+*Letzte Aktualisierung: 2026-08-08*

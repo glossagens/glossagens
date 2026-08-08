@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 11 StPO"
 weight: 11
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-08-08
 description: "Leading Cases und systematische Rechtsprechung zu Art. 11 StPO (ne bis in idem)"
 tags: ["ne bis in idem", "doppelte Strafverfolgung", "Sperrwirkung", "Tatidentität", "Lebenssachverhalt", "Teileinstellung", "Rechtskraft"]
 agent_verified: true
@@ -143,3 +143,9 @@ Der Strafanspruch erlischt in der Schweiz (in Nachachtung des Grundsatzes *ne bi
 | Bis 2009 | **Doppelte Identität** erforderlich (Lebenssachverhalt + Normenidentität) | BGE 122 I 257; EGMR *Oliveira c. Suisse* (1998) |
 | Ab 2009 | **Einfache Identität** genügt (*Zolotukhin*-Doktrin) | EGMR *Zolotukhin v. Russia*, § 82; BGE 137 I 363 |
 | Ab 2018 | **Präzisierung** der Sperrwirkung bei Teileinstellungen | BGE 144 IV 362; BGE 148 IV 124; BGer 6B_888/2019 |
+
+### BGer 7B_690/2025 — Disziplinarverfahren sperrt Strafverfahren nicht (Bestätigung)
+
+**Docket:** 7B_690/2025 | **Datum:** 7. August 2026
+
+Bestätigung: Ein abgeschlossenes Disziplinarverfahren sperrt das Strafverfahren nicht nach Art. 11 StPO. Das Disziplinar- und das Strafverfahren verfolgen unterschiedliche Zwecke und sind nicht im Verhältnis der Tatidentität zueinander. Der Grundsatz ne bis in idem wird durch ein Disziplinarverfahren nicht berührt.

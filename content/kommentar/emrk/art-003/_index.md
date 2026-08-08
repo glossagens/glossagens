@@ -2,7 +2,7 @@
 title: "Art. 3 EMRK — Verbot der Folter"
 weight: 3
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-08-08
 description: "Kommentar zu Art. 3 EMRK: Verbot der Folter sowie unmenschlicher oder erniedrigender Behandlung oder Strafe — absoluter Menschenrechtssatz ohne Vorbehaltsklausel."
 tags: ["EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "irreführungsfreie Einvernahme", "Absolutheit", "EGMR"]
 agent_verified: true
