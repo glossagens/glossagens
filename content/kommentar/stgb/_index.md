@@ -57,6 +57,9 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 66abis — Fakultative Landesverweisung](art-066abis/)
 - [Art. 67 — Tätigkeitsverbot](art-067/)
 - [Art. 68 — Veröffentlichung des Urteils](art-068/)
+- [Art. 70 — Einziehung von Vermögenswerten](art-070/)
+- [Art. 71 — Ersatzforderungen](art-071/)
+- [Art. 72 — Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation](art-072/)
 
 ### Allgemeine Bestimmungen — Vollzug von Freiheitsstrafen und Massnahmen (Art. 74–92)
 
@@ -87,7 +90,6 @@ Kommentar zum [Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (SR 311.0)]
 - [Art. 140 — Raub](art-140/)
 - [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 144 — Sachbeschädigung](art-144/)
-- [Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem](art-143bis/)
 - [Art. 146 — Betrug](art-146/)
 - [Art. 158 — Ungetreue Geschäftsbesorgung](art-158/)
 
