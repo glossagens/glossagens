@@ -2,16 +2,16 @@
 title: "Art. 14 — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-08-09
-lastmod: 2026-08-09g
+lastmod: 2026-08-09h
 description: "Kommentar zu Art. 14 BV – Recht auf Ehe und Familie: Eheschliessungsfreiheit, Familienschutz, Familiennachzug, Verhältnismässigkeit staatlicher Eingriffe"
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12"]
 agent_verified: true
 revisions:
-  - date: 2026-08-09g
+  - date: 2026-08-09h
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Sechste Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_law wortwörtlich verifiziert ('Das Recht auf Ehe und Familie ist gewährleistet.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support: BGE 137 I 351=partial/0.82, BGE 143 I 241=yes/0.97, BGE 138 I 41=partial/0.85, BGE 126 II 425=partial/0.82 (Negativnachweis). BGE 139 I 37 ENTFERNT (check_claim_support=no/0.95, nicht Art. 14 BV). BGE 139 I 330 ENTFERNT (check_claim_support=no/0.90, nicht Art. 14 BV). Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. 1 supported + 3 partiell unterstützt = 4 verifizierte Zitate."
+    note: "Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_article_history wortwörtlich verifiziert ('Das Recht auf Ehe und Familie ist gewährleistet.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneut verifiziert: BGE 137 I 351=yes/0.97 (Upgrade von partial!), BGE 143 I 241=yes/0.97, BGE 138 I 41=partial/0.85, BGE 126 II 425=partial/0.82 (Negativnachweis), BGer 2C_376/2022=partial/0.70. BGE 139 I 37=partial/0.72 (nicht aufgenommen, zu schwach). BGE 139 I 330=no/0.92 (bestätigt: entfernt). WARNUNG: Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. Die 15-Zitat-Schwelle ist für diesen Randnormen-Artikel inhärent schwer erreichbar. 2 supported + 2 partiell unterstützt + 1 BGer partial = 5 verifizierte Zitate."
   - date: 2026-08-09f
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -65,7 +65,7 @@ revisions:
 
 #### A. Grundgehalt
 
-**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *partiell unterstützt*: check_claim_support=0.75; [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *partiell unterstützt*: check_claim_support=0.78).
+**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *partiell unterstützt*: check_claim_support=0.85; [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *supported*: check_claim_support=yes/0.97).
 
 **5** Die Eheschliessungsfreiheit wird insbesondere relevant im Kontext des Ausländerrechts: Die Verweigerung einer Aufenthaltsbewilligung an einen ausländischen Ehepartner eines Schweizer Bürgers stellt einen Eingriff in Art. 14 BV i.V.m. Art. 8 EMRK dar, der einer Verhältnismässigkeitsprüfung unterzogen werden muss.
 
@@ -95,7 +95,7 @@ revisions:
 - Die **Integration** des Ausländers in der Schweiz
 - **Ordnungs- und sicherheitspolizeiliche Gründe**
 
-*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK).*
+*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.70).*
 
 **12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen verlangt Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen, soweit die Voraussetzungen erfüllt sind. Die Rechtsprechung stützt sich hierbei jedoch primär auf Art. 8 EMRK und Art. 13 Abs. 1 BV bzw. Art. 14 Abs. 1 AsylG (vgl. hierzu die Leitentscheide zum Familiennachzug in der Kommentierung zu Art. 8 EMRK und Art. 13 BV).
 

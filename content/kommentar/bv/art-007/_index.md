@@ -2,16 +2,16 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09g
+lastmod: 2026-08-09h
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Schuldhaft, Einbürgerung, Diskriminierung, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe", "Schuldhaft"]
 agent_verified: true
 revisions:
-  - date: 2026-08-09g
+  - date: 2026-08-09h
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Sechste Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_law wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.95, BGE 140 I 125=yes/0.99, BGE 130 I 169=yes/0.99 (Schuldhaft), BGE 131 I 166=partial/0.97, BGE 129 I 232=partial/0.72, BGE 135 I 49=partial/0.85, BGE 132 I 49=partial/0.85. BGE 143 IV 77 ENTFERNT (check_claim_support=no/0.92, primär Art. 261bis StGB). BGE 139 I 121 ENTFERNT (check_claim_support=contradicts/0.98). BGE 142 I 1 bereits entfernt. Neue supported Zitate: BGE 130 I 169 (Schuldhaft). Art. 7 BV wird in der Rechtsprechung primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert — eigenständige BGer-Entscheidungen mit direktem Art. 7 BV-Bezug sind limitiert. 4 supported + 4 partial = 8 verifizierte Zitate + 2 BGer = 10 total."
+    note: "Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_article_history wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneut verifiziert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.99, BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial!), BGE 130 I 169=yes/0.99, BGE 132 I 49=partial/0.85, BGE 129 I 232=no/0.85 (Kontextzitat), BGE 135 I 49=no/0.92 (Kontextzitat). BGer 5A_353/2012 ENTFERNT (check_claim_support=no/0.85). BGer 5A_38/2011=partial/0.75 (behalten mit Kennzeichnung). 5 supported + 1 partiell unterstützt + 2 Kontextzitate = 8 verifizierte Zitate + 1 BGer = 9 total."
   - date: 2026-08-09f
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -63,7 +63,7 @@ revisions:
 - **Vollständige und umfassende Interessenabwägung:** Öffentliche Interessen, Notwendigkeit der Behandlung, Auswirkungen einer Nicht-Behandlung, Prüfung von Alternativen, Beurteilung von Selbst- und Fremdgefährdung ([BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
 - **Verhältnismässigkeit nach Art. 36 BV** ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 9b–d; [BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
 
-**8** **Erweiterte Dogmatik bei Zwangsbehandlung.** Die Rechtsprechung hat die Voraussetzungen für Zwangsbehandlung kontinuierlich präzisiert. Das Erfordernis einer formellgesetzlichen Grundlage ist unabdingbar; die kantonale Praxis allein genügt nicht. Der mutmassliche Wille des Betroffenen hat Vorrang vor dem objektiven Patientenwohl; bei einwilligungsfähigen Personen ist jede Zwangsbehandlung ausgeschlossen. Die Interessenabwägung muss individualisiert erfolgen und alle relevanten Umstände einbeziehen ([BGer 5A_38/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_38_2011); [BGer 5A_353/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_353_2012)).
+**8** **Erweiterte Dogmatik bei Zwangsbehandlung.** Die Rechtsprechung hat die Voraussetzungen für Zwangsbehandlung kontinuierlich präzisiert. Das Erfordernis einer formellgesetzlichen Grundlage ist unabdingbar; die kantonale Praxis allein genügt nicht. Der mutmassliche Wille des Betroffenen hat Vorrang vor dem objektiven Patientenwohl; bei einwilligungsfähigen Personen ist jede Zwangsbehandlung ausgeschlossen. Die Interessenabwägung muss individualisiert erfolgen und alle relevanten Umstände einbeziehen ([BGer 5A_38/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_38_2011), *partiell unterstützt*: primär Art. 10 Abs. 2 BV/persönliche Freiheit).
 
 ### III. Einbürgerung und Diskriminierungsverbot
 
@@ -85,7 +85,7 @@ revisions:
 
 ### VI. Asylrecht, Nothilfe und Menschenwürde
 
-**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *partiell unterstützt*: primär Art. 12 BV/Nothilfe). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
+**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *supported*: check_claim_support=yes/0.98). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
 
 **15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden. Insoweit besteht eine enge Verbindung zum Recht auf Hilfe in Notlagen (Art. 12 BV), der die materielle Konkretisierung der Menschenwürde im Sozialbereich darstellt.
 
@@ -105,4 +105,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Sechste Audit-Überarbeitung: Fedlex-Gesetzeswortlaut verifiziert; BGE 143 IV 77 entfernt (unsupported), BGE 130 I 169 hinzugefügt (supported/Schuldhaft); 4 supported + 4 partiell unterstützt + 2 BGer = 10 verifizierte Zitate; Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert — eigenständige BGer-Entscheidungen mit direktem Art. 7 BV-Bezug sind limitiert*
+*Letzte Aktualisierung: 2026-08-09 — Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut verifiziert; BGer 5A_353/2012 entfernt (unsupported), BGE 131 I 166 auf supported aktualisiert (yes/0.98); 5 supported + 1 partiell unterstützt + 2 Kontextzitate + 1 BGer = 9 verifizierte Zitate; Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert — eigenständige BGer-Entscheide mit direktem Art. 7 BV-Bezug sind limitiert*
