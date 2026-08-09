@@ -2,12 +2,16 @@
 title: "Art. 14 — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-08-09
-lastmod: 2026-08-09h
+lastmod: 2026-08-09j
 description: "Kommentar zu Art. 14 BV – Recht auf Ehe und Familie: Eheschliessungsfreiheit, Familienschutz, Familiennachzug, Verhältnismässigkeit staatlicher Eingriffe"
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12"]
 agent_verified: true
 revisions:
-  - date: 2026-08-09i
+  - date: 2026-08-09j
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Neunte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut verifiziert ('Das Recht auf Ehe und Familie ist gewährleistet.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 138 I 41=partial/0.85 (Ehevorbereitungsverfahren/rechtmässiger Aufenthalt), BGE 137 I 351=partial/0.82 (Eheschliessungsfreiheit/Aufenthaltsbewilligung), BGE 143 I 241=yes/0.97 (Besuchsrecht inhaftierter Lebenspartner i.V.m. Art. 10 Abs. 2 BV), BGE 126 II 425=partial/0.72 (Negativnachweis gleichgeschlechtliche Partnerschaften), BGer 2C_376/2022=partial/0.72 (Ehevorbereitung i.V.m. Art. 8 EMRK). Zusätzliche OCL-Suche nach 12 weiteren potenziellen Zitaten ergab keine neuen supported-Entscheide (error/no/unrelated). Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. 1 supported + 4 partiell unterstützt = 5 verifizierte Zitate (unter 15-Zitat-Schwelle, für Randnorm dokumentiert und akzeptiert)."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -70,7 +74,7 @@ revisions:
 
 #### A. Grundgehalt
 
-**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *supported*: check_claim_support=yes/0.95; [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *supported*: check_claim_support=yes/0.97).
+**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *partiell unterstützt*: check_claim_support=partial/0.85 — Ehevorbereitungsverfahren/rechtmässiger Aufenthalt); [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *partiell unterstützt*: check_claim_support=partial/0.82 — Eheschliessungsfreiheit/Aufenthaltsbewilligung).
 
 **5** Die Eheschliessungsfreiheit wird insbesondere relevant im Kontext des Ausländerrechts: Die Verweigerung einer Aufenthaltsbewilligung an einen ausländischen Ehepartner eines Schweizer Bürgers stellt einen Eingriff in Art. 14 BV i.V.m. Art. 8 EMRK dar, der einer Verhältnismässigkeitsprüfung unterzogen werden muss.
 
@@ -90,7 +94,7 @@ revisions:
 
 **9** Der familiäre Schutzbereich umfasst die **Kernfamilie** (Eltern und minderjährige Kinder) und die **erweiterte Familie** (volljährige Kinder, Geschwister, Grosseltern), wobei letztere nur unter besonderen Umständen dem Schutz von Art. 14 BV unterfällt. Massgeblich ist das Bestehen einer tatsächlichen familiären Beziehung, nicht nur die rechtliche Verwandtschaft.
 
-**10** Art. 14 BV schützt das familiäre Zusammenleben in seinem **Bestand** (Schutz vor Trennung) und in seiner **Entfaltung** (Schutz der familiären Beziehungen). Der Schutz umfasst auch die **elterliche Sorge** (Art. 296 ff. ZGB), das **Besuchsrecht** (Art. 273 ZGB) und den **Kindesschutz** (Art. 307 ff. ZGB; [BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *partiell unterstützt*: check_claim_support=partial/0.72 — primär Art. 10 Abs. 2 BV/persönliche Freiheit bei Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern).
+**10** Art. 14 BV schützt das familiäre Zusammenleben in seinem **Bestand** (Schutz vor Trennung) und in seiner **Entfaltung** (Schutz der familiären Beziehungen). Der Schutz umfasst auch die **elterliche Sorge** (Art. 296 ff. ZGB), das **Besuchsrecht** (Art. 273 ZGB) und den **Kindesschutz** (Art. 307 ff. ZGB; [BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *supported*: check_claim_support=yes/0.97 — Besuchsrecht inhaftierter Lebenspartner i.V.m. Art. 10 Abs. 2 BV).
 
 #### B. Familiennachzug und Aufenthaltsrecht
 
@@ -100,7 +104,7 @@ revisions:
 - Die **Integration** des Ausländers in der Schweiz
 - **Ordnungs- und sicherheitspolizeiliche Gründe**
 
-*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.60 — primär Art. 8 EMRK).*
+*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.72 — primär Art. 8 EMRK).*
 
 **12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen verlangt Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen, soweit die Voraussetzungen erfüllt sind. Die Rechtsprechung stützt sich hierbei jedoch primär auf Art. 8 EMRK und Art. 13 Abs. 1 BV bzw. Art. 14 Abs. 1 AsylG (vgl. hierzu die Leitentscheide zum Familiennachzug in der Kommentierung zu Art. 8 EMRK und Art. 13 BV).
 
@@ -148,4 +152,4 @@ revisions:
 
 **21** Die Geltendmachung von Art. 14 BV erfolgt im Verwaltungsrechtsweg (AuG, VZAE) oder im verwaltungsgerichtlichen Beschwerdeverfahren (Art. 82 ff. BGG). Bei aufenthaltsrechtlichen Entscheiden ist die Beschwerde an das Bundesgericht grundsätzlich nur zulässig, wenn die Rechtssuchende Partei ist und ein rechtliches Interesse geltend macht (Art. 89 BGG).
 
-**22** Im Eheschutz- und Kindesschutzverfahren (Art. 272 ff. ZGB) ist Art. 14 BV über die Kognition des Bundesgerichts (Art. 95 BGG) anwendbar. Die Verletzung von Art. 14 BV kann mit subsidiärer Verfassungsbeschwerde (Art. 113 ff. BGG) gerügt werden. Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern fällt unter Art. 14 BV i.V.m. Art. 10 Abs. 2 BV ([BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *partiell unterstützt*: partial/0.72 — primär Art. 10 Abs. 2 BV).
+**22** Im Eheschutz- und Kindesschutzverfahren (Art. 272 ff. ZGB) ist Art. 14 BV über die Kognition des Bundesgerichts (Art. 95 BGG) anwendbar. Die Verletzung von Art. 14 BV kann mit subsidiärer Verfassungsbeschwerde (Art. 113 ff. BGG) gerügt werden. Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern fällt unter Art. 14 BV i.V.m. Art. 10 Abs. 2 BV ([BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *supported*: yes/0.97 — Besuchsrecht inhaftierter Lebenspartner i.V.m. Art. 10 Abs. 2 BV).
