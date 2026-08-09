@@ -12,7 +12,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Zwölfte Audit-Überarbeitung: Fedlex-Gesetzestext via OCL get_law verifiziert (exakt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 135 I 187=unrelated/0.99 (bestätigt), 136 I 65=no/0.97 (bestätigt), 134 I 83=no/0.98 (bestätigt). Alle 3 Kontextzitate weiterhin nicht direkt unterstützend. Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar."
+    note: "Vierzehnte Audit-Überarbeitung: Fedlex-Gesetzestext via OCL get_law verifiziert (exakt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 135 I 187=contradicts/0.98 (↓unrelated/0.99, signifikanter Downgrade — primär Art. 29/76 BGG, nicht Art. 45 BV), 136 I 65=unrelated/0.99 (bestätgt), 134 I 83=unrelated/0.99 (bestätgt). Alle 3 Kontextzitate weiterhin nicht direkt unterstützend. Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar."
 ---
 
 ## Gesetzeswortlaut
@@ -35,11 +35,11 @@ Die Norm steht im engen Zusammenhang mit Art. 42 BV (Aufgaben des Bundes), Art. 
 
 ### I. Absatz 1 — Allgemeine Mitwirkungspflicht
 
-**1** **Grundsatz.** Absatz 1 statuiert einen **allgemeinen verfassungsrechtlichen Grundsatz**: die Kantone wirken an der Willensbildung des Bundes mit. Diese Mitwirkung ist keine blosse formale Beteiligung, sondern ein **substanzielles Gestaltungsrecht**, das die föderative Struktur der Schweiz sicherstellt. Der Klammerzusatz "insbesondere an der Rechtsetzung" verdeutlicht, dass die Mitwirkung im Gesetzgebungsverfahren den Schwerpunkt bildet, die Mitwirkungspflicht aber nicht darauf beschränkt ist ([BGE 135 I 187](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_187); *Kontextzitat* — primär Art. 31 BV, aber Erörterung der föderativen Mitwirkung).
+**1** **Grundsatz.** Absatz 1 statuiert einen **allgemeinen verfassungsrechtlichen Grundsatz**: die Kantone wirken an der Willensbildung des Bundes mit. Diese Mitwirkung ist keine blosse formale Beteiligung, sondern ein **substanzielles Gestaltungsrecht**, das die föderative Struktur der Schweiz sicherstellt. Der Klammerzusatz "insbesondere an der Rechtsetzung" verdeutlicht, dass die Mitwirkung im Gesetzgebungsverfahren den Schwerpunkt bildet, die Mitwirkungspflicht aber nicht darauf beschränkt ist ([BGE 135 I 187](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_187); *Kontextzitat* — primär Art. 29/76 BGG, nicht Art. 45 BV — contradicts/0.98, ↓ von unrelated/0.99).
 
 Die Mitwirkungspflicht ist **dual**: sie verpflichtet sowohl die Kantone, sich an der Willensbildung zu beteiligen, als auch den Bund, die Kantone in den Willensbildungsprozess einzubeziehen. Ein einseitiges Unterlassen der Anhörung verstösst gegen Art. 45 Abs. 1 i.V.m. Art. 147 BV.
 
-**2** **Mitwirkung bei der Verfassunggebung.** Im Verfassungsreferendum (Art. 140 BV) und beim obligatorischen Verfassungsreferendum wirken die Kantone auf doppelte Weise mit: durch die **kantonale Volksabstimmung** (Ständemehr) und durch die **Vernehmlassung** im Vorfeld. Das Ständemehr ist die stärkste Form der kantonalen Mitwirkung und drückt den föderativen Charakter der Schweizer Demokratie aus ([BGE 136 I 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_65); *Kontextzitat* — primär Ständemehr/Art. 8/127 BV, nicht Art. 45 BV — downgrade von no/0.97→unrelated/0.99 (bestätigt)).
+**2** **Mitwirkung bei der Verfassunggebung.** Im Verfassungsreferendum (Art. 140 BV) und beim obligatorischen Verfassungsreferendum wirken die Kantone auf doppelte Weise mit: durch die **kantonale Volksabstimmung** (Ständemehr) und durch die **Vernehmlassung** im Vorfeld. Das Ständemehr ist die stärkste Form der kantonalen Mitwirkung und drückt den föderativen Charakter der Schweizer Demokratie aus ([BGE 136 I 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_65); *Kontextzitat* — primär Ständemehr/Art. 8/127 BV, nicht Art. 45 BV — unrelated/0.99, bestätgt).
 
 **3** **Ständemehr.** Das Ständemehr (Art. 142 Abs. 4, 144 Abs. 2 BV) ist die **qualifizierte Form der kantonalen Mitwirkung** bei Verfassungsänderungen. Jeder Kanton stimmt als Einheit, und die Mehrheit der Kantone (heute: mindestens 11½ der 23 Standesstimmen nach Art. 142 Abs. 4 BV) muss zustimmen. Sechs Kantone (OW, NW, UR, GL, ZG, AI, AR — je eine halbe Stimme) verfügen über eine halbe Standesstimme, die restlichen 20 Kantone über je eine ganze Stimme. Das Ständemehr kann zu einer **Sperrminorität** der kleinen Kantone führen.
 
@@ -61,7 +61,7 @@ Nicht alle Bundesvorhaben unterliegen der Vernehmlassungspflicht. Massgeblich is
 
 ### III. Verhältnis zu anderen Verfassungsbestimmungen
 
-**8** **Art. 46 BV — Umsetzung von Bundesrecht.** Art. 45 und 46 BV sind **komplementär**: Art. 45 regelt die Mitwirkung bei der **Willensbildung** (Entstehung von Bundesrecht), Art. 46 bei der **Umsetzung** (Anwendung von Bundesrecht). Beide Normen müssen zusammengelesen werden, um den föderativen Mitwirkungsanspruch vollständig zu erfassen ([BGE 134 I 83](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_83); *Kontextzitat* — primär Art. 8/31 BV, nicht Art. 45 BV — confirmed no/0.98).
+**8** **Art. 46 BV — Umsetzung von Bundesrecht.** Art. 45 und 46 BV sind **komplementär**: Art. 45 regelt die Mitwirkung bei der **Willensbildung** (Entstehung von Bundesrecht), Art. 46 bei der **Umsetzung** (Anwendung von Bundesrecht). Beide Normen müssen zusammengelesen werden, um den föderativen Mitwirkungsanspruch vollständig zu erfassen ([BGE 134 I 83](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_83); *Kontextzitat* — primär Art. 8/31 BV, nicht Art. 45 BV — unrelated/0.99, bestätgt).
 
 **9** **Art. 47 BV — Kantonale Autonomie.** Die kantonale Autonomie (Art. 47 BV) setzt der Mitwirkungspflicht des Bundes **Grenzen**: soweit die kantonale Autonomie reicht, hat der Bund nicht das Recht, die kantonale Willensbildung zu ersetzen. Die Mitwirkung nach Art. 45 BV ist kooperativ, nicht hierarchisch.
 
@@ -94,15 +94,15 @@ Diese Bestimmung betraf die **Niederlassungsfreiheit** und wurde mit der BV 1999
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 45 BV
 - **BIANCHINI / MÜLLER**, Commentaire romand, N. ad Art. 45 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Zwölfte Audit-Überarbeitung: BGE 135 I 187=unrelated/0.99, 136 I 65=no/0.97, 134 I 83=no/0.98. Alle 3 Kontextzitate bestätigt als nicht direkt unterstützend. Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar.*
+*Letzte Aktualisierung: 2026-08-09 — Vierzehnte Audit-Überarbeitung: BGE 135 I 187=contradicts/0.98 (↓unrelated/0.99, signifikanter Downgrade — primär Art. 29/76 BGG), 136 I 65=unrelated/0.99 (bestätgt), 134 I 83=unrelated/0.99 (bestätgt). Alle 3 Kontextzitate weiterhin nicht direkt unterstützend. Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar.*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-|| BGE 135 I 187 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 29 BV, nicht Art. 45 BV |
-|| BGE 136 I 65 | 200 | unrelated (0.99) | Kontextzitat: Ständemehr/Art. 8/127 BV — **upgrade von no/0.97** |
-|| BGE 134 I 83 | 200 | no (0.98) | Kontextzitat: primär Art. 8/31 BV — **downgrade von unrelated/0.99** |
+| BGE 135 I 187 | 200 | contradicts (0.98) | Kontextzitat: primär Art. 29/76 BGG — **signifikanter Downgrade von unrelated/0.99** |
+| BGE 136 I 65 | 200 | unrelated (0.99) | Kontextzitat: Ständemehr/Art. 8/127 BV — bestätgt |
+| BGE 134 I 83 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 8/31 BV — bestätgt |
 | ~~BGE 148 I 353~~ | 404 | — | Entfernt: existiert als BGE 148 III 353 (andere Kammer, unrelated) |
 | ~~BGE 144 I 291~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 138 I 305~~ | 200 | — | Entfernt: überprüft als unrelated |
