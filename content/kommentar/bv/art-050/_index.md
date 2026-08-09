@@ -2,12 +2,17 @@
 title: "Art. 50 BV — Gemeindeautonomie"
 weight: 50
 date: 2026-08-09
-lastmod: 2026-08-09l
+lastmod: 2026-08-09m
 description: "Kommentar zu Art. 50 BV — Gemeindeautonomie nach Massgabe des kantonalen Rechts, Rücksichtnahmepflicht des Bundes, Städte und Agglomerationen"
 tags: ["BV", "Gemeindeautonomie", "Selbstverwaltung", "kantonales Recht", "Föderalismus", "Gemeinden"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09m
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Sechste Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. ALLE 8 Zitate von yes→partial downgegraded: BGE 141 I 36 yes/0.99→partial/0.72, BGE 145 I 52 yes/0.98→partial/0.75, BGE 128 I 3 yes/0.99→partial/0.75, BGE 136 I 265 yes/0.98→partial/0.80, BGE 138 I 143 yes/0.97→partial/0.82, BGE 129 I 410 yes/0.99→partial/0.75, BGE 136 I 395 yes/0.99→partial/0.72, BGE 135 I 233 yes/0.98→partial/0.70. Ergebnis: 0 supported + 8 partial = 8 Zitate. Art. 50 BV hat wenige leading cases mit direkt unterstützender Regeste."
   - date: 2026-08-09l
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -54,27 +59,27 @@ revisions:
 
 **1** **Verfassungsrechtliche Gewährleistung.** Art. 50 Abs. 1 BV gewährleistet die Gemeindeautonomie **nach Massgabe des kantonalen Rechts**. Dies bedeutet zweierlei:
 
-- **Bundesverfassungsrechtliche Gewährleistung**: Die Gemeindeautonomie ist ein verfassungsrechtlich geschütztes Prinzip. Der Bund kann die Gemeindeautonomie nicht abschaffen, sondern nur die Kantone bestimmen deren Umfang ([BGE 141 I 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_36) E. 3.1; *supported*: check_claim_support=yes/0.99 — Gemeindeautonomie bei Schulsprachwechsel GR).
-- **Kantonale Ausgestaltung**: Die Kantone bestimmen, welche Befugnisse den Gemeinden zustehen. Der Inhalt der Autonomie ergibt sich somit aus dem kantonalen Verfassungs- und Gesetzesrecht ([BGE 145 I 52](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_52) E. 3.1; *supported*: check_claim_support=yes/0.98 — Baurekursgericht, Gemeindeautonomie).
+- **Bundesverfassungsrechtliche Gewährleistung**: Die Gemeindeautonomie ist ein verfassungsrechtlich geschütztes Prinzip. Der Bund kann die Gemeindeautonomie nicht abschaffen, sondern nur die Kantone bestimmen deren Umfang ([BGE 141 I 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_36) E. 3.1; *partiell unterstützt*: check_claim_support=partial/0.72 — Gemeindeautonomie bei Schulsprachwechsel GR).
+- **Kantonale Ausgestaltung**: Die Kantone bestimmen, welche Befugnisse den Gemeinden zustehen. Der Inhalt der Autonomie ergibt sich somit aus dem kantonalen Verfassungs- und Gesetzesrecht ([BGE 145 I 52](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_52) E. 3.1; *partiell unterstützt*: check_claim_support=partial/0.75 — Baurekursgericht, Gemeindeautonomie).
 
-Die Gewährleistung ist **relativer** Natur: sie schützt nicht eine bestimmte Ausgestaltung der Gemeindeautonomie, sondern verlangt, dass die Gemeinden über ein **Minimum an Selbstverwaltungsbefugnissen** verfügen ([BGE 128 I 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_3) E. 2; *supported*: check_claim_support=yes/0.99 — Plakatmonopol und Gemeindeautonomie).
+Die Gewährleistung ist **relativer** Natur: sie schützt nicht eine bestimmte Ausgestaltung der Gemeindeautonomie, sondern verlangt, dass die Gemeinden über ein **Minimum an Selbstverwaltungsbefugnissen** verfügen ([BGE 128 I 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_3) E. 2; *partiell unterstützt*: check_claim_support=partial/0.75 — Plakatmonopol und Gemeindeautonomie).
 
 **2** **Begriff der Gemeindeautonomie.** Die Gemeindeautonomie umfasst nach der Rechtsprechung des Bundesgerichts folgende Kernbereiche:
 
 - **Organisationsautonomie**: Recht der Gemeinde, ihre eigenen Organe zu bestimmen und ihre Verwaltung zu organisieren
 - **Finanzautonomie**: Recht der Gemeinde, über ihre Finanzmittel selbst zu bestimmen und Steuern zu erheben
-- **Planungsautonomie**: Recht der Gemeinde, ihre Raumentwicklung zu gestalten (Baugesetzgebung, Zonenplan, Ortsplanung) ([BGE 136 I 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_265) E. 4; *supported*: check_claim_support=yes/0.98 — Richtplan und Gemeindeautonomie)
+- **Planungsautonomie**: Recht der Gemeinde, ihre Raumentwicklung zu gestalten (Baugesetzgebung, Zonenplan, Ortsplanung) ([BGE 136 I 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_265) E. 4; *partiell unterstützt*: check_claim_support=partial/0.80 — Richtplan und Gemeindeautonomie)
 - **Personale Autonomie**: Recht der Gemeinde, ihr Personal selbst auszuwählen und zu organisieren
 - **Sachliche Autonomie**: Recht der Gemeinde, in bestimmten Sachgebieten eigenständig zu entscheiden
 
-Nicht zur Autonomie gehören Befugnisse, die der Gemeinde kraft Bundes- oder kantonalen Rechts **zwingend vorgeschrieben** sind. In diesen Bereichen verfügt die Gemeinde über keinen **autonomiegeschützten Spielraum**. Raumplanerische Massnahmen können in den autonomiegeschützten Bereich fallen, wenn die Gemeinde über einen echten planerischen Ermessensspielraum verfügt ([BGE 135 I 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_233) E. 2; *supported*: check_claim_support=yes/0.97 — Raumplanung und Gemeindekompetenz).
+Nicht zur Autonomie gehören Befugnisse, die der Gemeinde kraft Bundes- oder kantonalen Rechts **zwingend vorgeschrieben** sind. In diesen Bereichen verfügt die Gemeinde über keinen **autonomiegeschützten Spielraum**. Raumplanerische Massnahmen können in den autonomiegeschützten Bereich fallen, wenn die Gemeinde über einen echten planerischen Ermessensspielraum verfügt ([BGE 135 I 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_233) E. 2; *partiell unterstützt*: check_claim_support=partial/0.70 — Raumplanung und Gemeindekompetenz).
 
 **3** **Voraussetzungen der Autonomieprüfung.** Das Bundesgericht prüft die Verletzung der Gemeindeautonomie in zwei Stufen:
 
 1. **Bestimmung des Autonomiegehalts**: Feststellung, ob die streitige Kompetenz zum autonomiegeschützten Bereich der Gemeinde gehört, nach massgeblichem kantonalen Recht.
 2. **Verletzung der Autonomie**: Prüfung, ob die kantonale Instanz in den autonomiegeschützten Bereich eingegriffen hat und ob dieser Eingriff verhältnismässig ist.
 
-Fehlt es an einem autonomiegeschützten Spielraum, ist die Beschwerde mangels Beschwerdelegitimation unzulässig ([BGE 138 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_143) E. 2; *supported*: check_claim_support=yes/0.97 — Beschwerdebefugnis der Gemeinde).
+Fehlt es an einem autonomiegeschützten Spielraum, ist die Beschwerde mangels Beschwerdelegitimation unzulässig ([BGE 138 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_143) E. 2; *partiell unterstützt*: check_claim_support=partial/0.82 — Beschwerdebefugnis der Gemeinde).
 
 **4** **Beschwerdelegitimation der Gemeinde.** Gemeinden sind nach Art. 89 BGG beschwerdebefugt, wenn sie in ihrer **autonomiegeschützten Zuständigkeit** betroffen sind. Die Beschwerdelegitimation setzt voraus:
 
@@ -134,20 +139,20 @@ Die Rücksichtnahmepflicht konkretisiert sich in verschiedenen Bereichen:
 || BGE 136 I 395 | 11.03.2009 | Zonenvorschriften, Auslegungsspielraum | 200 ✓ |
 | BGE 135 I 233 | — | Raumplanung, Gemeindekompetenz | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09l — 5. Audit-Durchlauf: BGE 145 I 52 upgrade partial→yes/0.98; 7 supported + 1 partial = 8 Zitate*
+*Letzte Aktualisierung: 2026-08-09m — Sechste Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. ALLE 8 Zitate von yes→partial downgegraded. 0 supported + 8 partial = 8 Zitate. Art. 50 BV hat wenige leading cases mit direkt unterstützender Regeste.*
 
 ## Verifizierungstabelle
 
-| Zitat | OCL-Existenz | check_claim_support | Anmerkung |
+|| Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 141 I 36 | 200 | yes (0.99) | Schulsprachwechsel, Gemeindeautonomie |
-|| BGE 145 I 52 | 200 | yes (0.98) | Baurekursgericht, Gemeindeautonomie — upgrade von partial |
-| BGE 128 I 3 | 200 | yes (0.99) | Plakatmonopol, Wirtschaftsfreiheit |
-| BGE 136 I 265 | 200 | yes (0.98) | Richtplan, Mitwirkung |
-| BGE 138 I 143 | 200 | yes (0.97) | Beschwerdebefugnis |
-| BGE 129 I 410 | 200 | yes (0.99) | Submissionswesen GR |
-| BGE 136 I 395 | 200 | yes (0.99) | Zonenvorschriften |
-|| BGE 135 I 233 | 200 | yes (0.98) | Raumplanung, Gemeindekompetenz |
+|| BGE 141 I 36 | 200 | partial (0.72) | Schulsprachwechsel, Gemeindeautonomie — **downgrade von yes/0.99** |
+|| BGE 145 I 52 | 200 | partial (0.75) | Baurekursgericht, Gemeindeautonomie — **downgrade von yes/0.98** |
+|| BGE 128 I 3 | 200 | partial (0.75) | Plakatmonopol, Wirtschaftsfreiheit — **downgrade von yes/0.99** |
+|| BGE 136 I 265 | 200 | partial (0.80) | Richtplan, Mitwirkung — **downgrade von yes/0.98** |
+|| BGE 138 I 143 | 200 | partial (0.82) | Beschwerdebefugnis — **downgrade von yes/0.97** |
+|| BGE 129 I 410 | 200 | partial (0.75) | Submissionswesen GR — **downgrade von yes/0.99** |
+|| BGE 136 I 395 | 200 | partial (0.72) | Zonenvorschriften — **downgrade von yes/0.99** |
+|| BGE 135 I 233 | 200 | partial (0.70) | Raumplanung, Gemeindekompetenz — **downgrade von yes/0.98** |
 | ~~BGE 149 I 161~~ | 200 | unrelated (0.99) | Entfernt: Gefängniskorrespondenz/Kinderschutz, nicht Art. 50 BV |
 | ~~BGE 148 I 225~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 147 I 67~~ | 404 | — | Entfernt: nicht in OCL |
