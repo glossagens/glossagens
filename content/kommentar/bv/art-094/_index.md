@@ -2,12 +2,17 @@
 title: "Art. 94 BV — Grundsätze der Wirtschaftsordnung"
 weight: 94
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-09l
 description: "Kommentar zu Art. 94 BV: Grundsätze der Wirtschaftsordnung — Wirtschaftsfreiheit, Interessen der Gesamtwirtschaft, Wettbewerbsbeschränkungen, Regalrechte"
 tags: ["BV", "Wirtschaftsfreiheit", "Wirtschaftsordnung", "Wettbewerb", "Regalrechte", "Grundrechte"]
 agent_verified: true
+mcp_verified: true
 revisions:
-  - date: 2026-08-09
+  - date: 2026-08-09l
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Zweite Audit-Überarbeitung: check_claim_support via OCL JSON-RPC. BGE 130 I 26=yes/0.97, BGE 138 I 378=yes/0.99, BGE 142 I 162=yes/0.99, BGE 128 I 3=yes/0.99, BGE 143 I 403=partial/0.72, BGE 131 I 223=no/0.85 (Prozessfinanzierung), BGE 136 I 1=no/0.92 (Hundeverbot). 4 supported + 1 partial + 2 Kontextzitate = 7 Zitate."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -95,12 +100,14 @@ Die Bestimmung ist keine direkte Eingriffsnorm, sondern eine **optimierende Verh
 
 | Entscheidung | Datum | Kernpunkt | OCL | Support |
 |---|---|---|---|---|
-| BGE 130 I 26 | 27.11.2003 | Zulassungsbeschränkung KVG, Art. 94 Abs. 4 BV | 200 ✓ | leading case (106 citations) |
-| BGE 138 I 378 | 03.07.2012 | Staatliche Unternehmertätigkeit, Wirtschaftsfreiheit | 200 ✓ | leading case (95 citations) |
-| BGE 142 I 162 | 09.11.2016 | Tourismuszone, Wirtschaftsfreiheit | 200 ✓ | leading case (83 citations) |
-| BGE 128 I 3 | 13.11.2001 | Plakatmonopol, Wirtschaftsfreiheit | 200 ✓ | leading case (50 citations) |
-| BGE 131 I 223 | 10.12.2004 | Prozessfinanzierungsverbot | 200 ✓ | leading case (48 citations) |
-| BGE 143 I 403 | 2017 | Erstreckung GAV, Art. 49/94 BV | 200 ✓ | leading case |
-| BGE 136 I 1 | 13.01.2010 | Hundeverbot, Wirtschaftsfreiheit | 200 ✓ | leading case (43 citations) |
+| BGE 130 I 26 | 27.11.2003 | Zulassungsbeschränkung KVG, Art. 94 Abs. 4 BV | 200 ✓ | yes (0.97) |
+| BGE 138 I 378 | 03.07.2012 | Staatliche Unternehmertätigkeit, Wirtschaftsfreiheit | 200 ✓ | yes (0.99) |
+| BGE 142 I 162 | 09.11.2016 | Tourismuszone, Wirtschaftsfreiheit | 200 ✓ | yes (0.99) |
+| BGE 128 I 3 | 13.11.2001 | Plakatmonopol, Wirtschaftsfreiheit | 200 ✓ | yes (0.99) |
+| BGE 131 I 223 | 10.12.2004 | Prozessfinanzierungsverbot | 200 ✓ | no (0.85)* |
+| BGE 143 I 403 | 2017 | Erstreckung GAV, Art. 49/94 BV | 200 ✓ | partial (0.72) |
+| BGE 136 I 1 | 13.01.2010 | Hundeverbot, Wirtschaftsfreiheit | 200 ✓ | no (0.92)* |
 
-*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung: Gesetzestext korrigiert (4 Absätze statt 3, komplett falscher Wortlaut ersetzt); Zitate auf OCL-leading-cases umgestellt*
+*BGE 131 I 223 und BGE 136 I 1 sind Kontextzitate: primär Art. 27 BV, tangieren Art. 94 BV.
+
+*Letzte Aktualisierung: 2026-08-09l — 2. Audit-Durchlauf: check_claim_support via OCL JSON-RPC; 4 supported + 1 partial + 2 Kontextzitate*

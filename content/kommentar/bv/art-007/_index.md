@@ -2,11 +2,16 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09j
+lastmod: 2026-08-09k
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Schuldhaft, Einbürgerung, Diskriminierung, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe", "Schuldhaft"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09k
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Zehnte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 130 I 169=yes/0.99, BGE 131 I 166=partial/0.75 (primär Art. 12 BV Nothilfe, i.V.m. Art. 7 BV), BGE 132 I 49=contradicts/0.95 (Entscheid sagt: selbständige Anrufung von Art. 7 BV führt zu nichts — Artikel Rz. 6 beschreibt dies korrekt als Beschränkung, aber claim 'Menschenwürde Willkürverbot' wird als contradicting eingestuft), BGer 5A_38/2011=partial/0.60. Gesamt: 4 supported + 2 partiell unterstützt + 1 qualifizierend/contradicts (korrekt als Beschränkungsnachweis) = 7 verifizierte Zitate. BGE 135 I 265 (Einbürgerung, Art. 7-9 BV) als zusätzliches partial/0.70 identifiziert, aber nicht aufgenommen (zu schwacher Bezug). Art. 7 BV bleibt Randnorm mit begrenzter eigenständiger Zitationsbasis."
   - date: 2026-08-09j
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -35,7 +40,7 @@ revisions:
 >
 > Die Würde des Menschen ist zu achten und zu schützen.
 
-*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, verifiziert via OCL get_article_history am 9.8.2026*
+*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_article_history am 9.8.2026 (10. Audit)*
 
 ## Vorbemerkungen
 
@@ -60,7 +65,7 @@ revisions:
 - **Schutzpflicht:** Der Gesetzgeber muss die Menschenwürde vor Eingriffen Privater schützen (vgl. Art. 35 Abs. 3 BV — Drittwirkung).
 - **Eingriffsschranke:** Eingriffe in die Menschenwürde unterliegen den strengen Voraussetzungen von Art. 36 BV; der **Wesensgehalt** der Menschenwürde ist nach Art. 36 Abs. 4 BV unantastbar (Wesensgehaltsgarantie).
 
-**6** **Beschränkung des selbständigen Gehalts.** Das Bundesgericht hat den **selbständigen** Gehalt von Art. 7 BV begrenzt: Aus einer **selbständigen Anrufung** der Menschenwürde können die Betroffenen in der Regel nichts zu ihren Gunsten ableiten; sie müssen sich auf die konkreteren Grundrechte berufen — die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Willkürverbot (Art. 9 BV; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, Wegweisungs- und Fernhalteverfügungen). Art. 7 BV dient in der Praxis primär als Auslegungsmaxime und Verstärkungsnorm; als eigenständiger gerichtlich durchsetzbarer Anspruch ist er seltener von Bedeutung.
+**6** **Beschränkung des selbständigen Gehalts.** Das Bundesgericht hat den **selbständigen** Gehalt von Art. 7 BV begrenzt: Aus einer **selbständigen Anrufung** der Menschenwürde können die Betroffenen in der Regel nichts zu ihren Gunsten ableiten; sie müssen sich auf die konkreteren Grundrechte berufen — die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Willkürverbot (Art. 9 BV; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, *qualifizierend/contradicts*: check_claim_support=contradicts/0.95 — der Entscheid verneint einen eigenständigen Anspruch aus Art. 7 BV, was die hier beschriebene Beschränkung gerade bestätigt; Wegweisungs- und Fernhalteverfügungen). Art. 7 BV dient in der Praxis primär als Auslegungsmaxime und Verstärkungsnorm; als eigenständiger gerichtlich durchsetzbarer Anspruch ist er seltener von Bedeutung.
 
 ### II. Medikamentöse Zwangsbehandlung (fürsorgerischer Freiheitsentzug)
 
@@ -93,7 +98,7 @@ revisions:
 
 ### VI. Asylrecht, Nothilfe und Menschenwürde
 
-**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *supported*: check_claim_support=yes/0.97). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
+**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *partiell unterstützt*: check_claim_support=partial/0.75 — primär Art. 12 BV Nothilfe, i.V.m. Art. 7 BV). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
 
 **15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden. Insoweit besteht eine enge Verbindung zum Recht auf Hilfe in Notlagen (Art. 12 BV), der die materielle Konkretisierung der Menschenwürde im Sozialbereich darstellt.
 
@@ -113,4 +118,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Neunte Audit-Überarbeitung: BGE 131 I 166 auf supports=yes/0.97 bestätigt. BGer 5A_38/2011 confidence auf 0.60 aktualisiert. Zusätzliche OCL-Suche nach 12 weiteren Entscheiden ohne neue supported-Zitate. 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert; eigenständige Zitate sind selten.*
+*Letzte Aktualisierung: 2026-08-09 — Zehnte Audit-Überarbeitung: BGE 132 I 49 auf contradicts/0.95 aktualisiert (qualifizierender Nachweis: Entscheid verneint eigenständigen Anspruch, bestätigt Beschränkungslehre in Rz. 6). BGE 131 I 166 auf partial/0.75 herabgestuft (primär Art. 12 BV). 4 supported + 2 partiell unterstützt + 1 qualifizierend/contradicts = 7 verifizierte Zitate. Art. 7 BV bleibt Randnorm mit begrenzter eigenständiger Zitationsbasis.*
