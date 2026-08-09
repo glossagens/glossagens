@@ -2,13 +2,17 @@
 title: "Art. 50 BV — Gemeindeautonomie"
 weight: 50
 date: 2026-08-09
-lastmod: 2026-08-09k
+lastmod: 2026-08-09l
 description: "Kommentar zu Art. 50 BV — Gemeindeautonomie nach Massgabe des kantonalen Rechts, Rücksichtnahmepflicht des Bundes, Städte und Agglomerationen"
 tags: ["BV", "Gemeindeautonomie", "Selbstverwaltung", "kantonales Recht", "Föderalismus", "Gemeinden"]
 agent_verified: true
 mcp_verified: true
 revisions:
-  - date: 2026-08-09k
+  - date: 2026-08-09l
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Fünfte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 145 I 52 upgrade partial→yes/0.98 (Baurekursgericht, Gemeindeautonomie). BGE 135 I 233 yes/0.97→0.98. Alle 8 Zitate stabil: 7 supported + 1 partial = 8 Zitate."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -51,7 +55,7 @@ revisions:
 **1** **Verfassungsrechtliche Gewährleistung.** Art. 50 Abs. 1 BV gewährleistet die Gemeindeautonomie **nach Massgabe des kantonalen Rechts**. Dies bedeutet zweierlei:
 
 - **Bundesverfassungsrechtliche Gewährleistung**: Die Gemeindeautonomie ist ein verfassungsrechtlich geschütztes Prinzip. Der Bund kann die Gemeindeautonomie nicht abschaffen, sondern nur die Kantone bestimmen deren Umfang ([BGE 141 I 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_36) E. 3.1; *supported*: check_claim_support=yes/0.99 — Gemeindeautonomie bei Schulsprachwechsel GR).
-- **Kantonale Ausgestaltung**: Die Kantone bestimmen, welche Befugnisse den Gemeinden zustehen. Der Inhalt der Autonomie ergibt sich somit aus dem kantonalen Verfassungs- und Gesetzesrecht ([BGE 145 I 52](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_52) E. 3.1; *partiell unterstützt*: check_claim_support=partial/0.75 — Baurekursgericht, tangiert Gemeindeautonomie).
+- **Kantonale Ausgestaltung**: Die Kantone bestimmen, welche Befugnisse den Gemeinden zustehen. Der Inhalt der Autonomie ergibt sich somit aus dem kantonalen Verfassungs- und Gesetzesrecht ([BGE 145 I 52](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_52) E. 3.1; *supported*: check_claim_support=yes/0.98 — Baurekursgericht, Gemeindeautonomie).
 
 Die Gewährleistung ist **relativer** Natur: sie schützt nicht eine bestimmte Ausgestaltung der Gemeindeautonomie, sondern verlangt, dass die Gemeinden über ein **Minimum an Selbstverwaltungsbefugnissen** verfügen ([BGE 128 I 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_3) E. 2; *supported*: check_claim_support=yes/0.99 — Plakatmonopol und Gemeindeautonomie).
 
@@ -130,20 +134,20 @@ Die Rücksichtnahmepflicht konkretisiert sich in verschiedenen Bereichen:
 || BGE 136 I 395 | 11.03.2009 | Zonenvorschriften, Auslegungsspielraum | 200 ✓ |
 | BGE 135 I 233 | — | Raumplanung, Gemeindekompetenz | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09k — 4. Audit-Durchlauf: check_claim_support aktualisiert*
+*Letzte Aktualisierung: 2026-08-09l — 5. Audit-Durchlauf: BGE 145 I 52 upgrade partial→yes/0.98; 7 supported + 1 partial = 8 Zitate*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
 | BGE 141 I 36 | 200 | yes (0.99) | Schulsprachwechsel, Gemeindeautonomie |
-|| BGE 145 I 52 | 200 | partial (0.75) | Baurekursgericht, tangiert Gemeindeautonomie |
+|| BGE 145 I 52 | 200 | yes (0.98) | Baurekursgericht, Gemeindeautonomie — upgrade von partial |
 | BGE 128 I 3 | 200 | yes (0.99) | Plakatmonopol, Wirtschaftsfreiheit |
 | BGE 136 I 265 | 200 | yes (0.98) | Richtplan, Mitwirkung |
 | BGE 138 I 143 | 200 | yes (0.97) | Beschwerdebefugnis |
 | BGE 129 I 410 | 200 | yes (0.99) | Submissionswesen GR |
 | BGE 136 I 395 | 200 | yes (0.99) | Zonenvorschriften |
-|| BGE 135 I 233 | 200 | yes (0.97) | Raumplanung, Gemeindekompetenz |
+|| BGE 135 I 233 | 200 | yes (0.98) | Raumplanung, Gemeindekompetenz |
 | ~~BGE 149 I 161~~ | 200 | unrelated (0.99) | Entfernt: Gefängniskorrespondenz/Kinderschutz, nicht Art. 50 BV |
 | ~~BGE 148 I 225~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 147 I 67~~ | 404 | — | Entfernt: nicht in OCL |

@@ -2,13 +2,17 @@
 title: "Art. 49 BV — Vorrang und Einhaltung des Bundesrechts"
 weight: 49
 date: 2026-08-09
-lastmod: 2026-08-09k
+lastmod: 2026-08-09l
 description: "Kommentar zu Art. 49 BV: Bundesrecht geht entgegenstehendem kantonalem Recht vor; Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 tags: ["BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkonflikt", "Derogation", "Verfassung"]
 agent_verified: true
 mcp_verified: true
 revisions:
-  - date: 2026-08-09k
+  - date: 2026-08-09l
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Sechste Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 145 I 26 downgegraded von yes→partial/0.82 (Prämienverbilligung, primär KVG). BGE 143 I 403 partial/0.72 (stabil). BGE 139 I 242 yes/0.98 (leicht gesenkt von 0.99). 6 supported + 3 partial = 9 verifizierte Zitate."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -62,7 +66,7 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 **5** **Einfacher Gesetzesvorrang.** Der Vorrang des einfachen Bundesrechts gegenüber kantonalem Verfassungsrecht folgt aus Art. 49 Abs. 1 BV. Ein kantonaler Verfassungsartikel kann nicht gegen ein Bundesgesetz gerichtet werden, es sei denn, das Bundesgesetz seinerseits verstösst gegen die Bundesverfassung.
 
-**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.; *partiell unterstützt*: check_claim_support=partial/0.75 — LECCT-Abschliessung und Vorrang des Bundesrechts, primär Arbeitsrecht).
+**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.; *partiell unterstützt*: check_claim_support=partial/0.72 — LECCT-Abschliessung und Vorrang des Bundesrechts, primär Arbeitsrecht).
 
 **7** **Weite und enge Auslegung.** Bei der Prüfung des Normenkonflikts ist das Bundesrecht **weit** und das kantonale Recht **eng** auszulegen. Im Zweifel ist die kantonale Norm nicht entgegenstehend, wenn eine mit dem Bundesrecht **vereinbare Auslegung** möglich ist.
 
@@ -113,19 +117,19 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 | BGE 138 I 356 | 24.01.2007 | ArG, kantonales Honorargesetz | 200 ✓ |
 | BGE 127 I 60 | 05.06.2001 | Polizeiliche Einsätze, Vorrang | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09k — 5. Audit-Durchlauf: check_claim_support aktualisiert, BGE 130 I 82 URL korrigiert*
+*Letzte Aktualisierung: 2026-08-09l — 6. Audit-Durchlauf: BGE 145 I 26 downgegraded yes→partial/0.82, BGE 143 I 403 partial/0.72, BGE 139 I 242 yes/0.98; 6 supported + 3 partial = 9 Zitate*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-|| BGE 143 I 403 | 200 | partial (0.75) | LECCT-Abschliessung, Vorrang des Bundesrechts (primär Arbeitsrecht) |
-|| BGE 139 I 242 | 200 | yes (0.99) | PaRG, Vorrang des Bundesrechts bestätigt |
+|| BGE 143 I 403 | 200 | partial (0.72) | LECCT-Abschliessung, Vorrang des Bundesrechts (primär Arbeitsrecht) |
+|| BGE 139 I 242 | 200 | yes (0.98) | PaRG, Vorrang des Bundesrechts bestätigt |
 | BGE 138 I 468 | 200 | yes (0.97) | StromVG, Vorrang Bundesrecht |
 | BGE 130 I 82 | 200 | yes (0.99) | Fürsorgeleistungen, AsylG-Vorrang |
 || BGE 137 I 31 | 200 | yes (0.98) | Konkordat Gewalt Sport, Vorrang |
 || BGE 144 I 113 | 200 | yes (0.97) | Lehrpersonalreglement, Vorrang |
-|| BGE 145 I 26 | 200 | yes (0.97) | Prämienverbilligung, Vorrang |
+|| BGE 145 I 26 | 200 | partial (0.82) | Prämienverbilligung, primär KVG |
 | BGE 138 I 356 | 200 | yes (0.97) | ArG, kantonales Honorargesetz — Vorrang |
 | BGE 127 I 60 | 200 | partial (0.75) | Polizeieinsätze, Vorrang |
 | ~~BGE 144 II 1~~ | 200 | unrelated | Entfernt: nicht primär Art. 49 BV |
