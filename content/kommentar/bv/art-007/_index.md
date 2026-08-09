@@ -11,6 +11,11 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
+    note: "Vierzehnte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law BV Art. 7 = «Die Würde des Menschen ist zu achten und zu schützen.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 131 I 166=yes/0.98 (0.97→0.98), BGE 130 I 169=yes/0.97, BGE 132 I 49=yes/0.99 (Upgrade von partial — selbständige Anrufung Art. 7 BV verneint, bestätigt Abschnitt IV), BGer 5A_38/2011=partial/0.55 (Zwangsbehandlung, primär Art. 10 Abs. 2 BV, confidence 0.70→0.55 — nur begrenzte Stützung für Art. 7 BV). Zusätzliche Entscheide geprüft: BGE 129 I 232=partial/0.72 (primär Art. 29+8 BV), BGE 135 I 49=no/0.92 (primär Art. 8 Abs. 2 BV), BGE 148 I 145=no/0.97 (primär Art. 9 BV/Art. 6 EMRK), BGE 144 I 214=no/0.92 (Sanktionen/Art. 6 EMRK), BGE 136 I 65=no/0.97 (primär Art. 10 BV). Gesamt: 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar, da massgebliche Rechtsprechung sich auf konkretisierende Normen (Art. 8, 10, 12, 29 BV) stützt."
+  - date: 2026-08-09
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
     note: "Dreizehnte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law BV Art. 7 = «Die Würde des Menschen ist zu achten und zu schützen.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 131 I 166=yes/0.97, BGE 130 I 169=yes/0.99, BGE 132 I 49=yes/0.99 (Upgrade von partial — selbständige Anrufung Art. 7 BV verneint, bestätigt Abschnitt VI), BGer 5A_38/2011=partial/0.70 (Zwangsbehandlung, primär Art. 10 Abs. 2 BV). Gesamt: 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar."
 ---
 
@@ -98,4 +103,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Dreizehnte Audit-Überarbeitung: BGE 132 I 49 upgegradet auf supported/0.99. BGE 131 I 166 bestätigt supported/0.97. BGer 5A_38/2011=partial/0.70. 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar.*
+*Letzte Aktualisierung: 2026-08-09 — Vierzehnte Audit-Überarbeitung: check_claim_support erneuert. BGE 131 I 166 upgegradet auf yes/0.98; BGer 5A_38/2011 downgegradet auf partial/0.55 (nur begrenzte Stützung für Art. 7 BV, primär Art. 10 Abs. 2 BV). Zusätzliche Entscheide geprüft und als nicht direkt stützend für Art. 7 BV identifiziert (BGE 129 I 232=partial/0.72, BGE 135 I 49=no/0.92, BGE 148 I 145=no/0.97, BGE 144 I 214=no/0.92, BGE 136 I 65=no/0.97). 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar.*
