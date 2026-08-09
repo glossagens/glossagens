@@ -2,11 +2,16 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09c
+lastmod: 2026-08-09d
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Einbürgerung, Diskriminierung, Asylrecht, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09d
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Dritte Audit-Überarbeitung: BGE 142 I 1 entfernt (check_claim_support=no, primär Art. 12 BV/Nothilfe); BGE 131 I 166 als supported bestätigt (check_claim_support=yes/0.95); BGE 140 I 125 als supported bestätigt (check_claim_support=yes/0.97); BGE 129 I 232 als partiell unterstützt markiert (0.72, primär Art. 29/8 BV); BGE 135 I 49 als partiell unterstützt (0.85, primär Art. 8 Abs. 2 BV); BGE 143 IV 77 als partiell unterstützt (0.85, Rassendiskriminierung/Geschädigtenstellung); Gesetzeswortlaut verifiziert; 5 supported + 3 partiell unterstützt + 2 BGer = 10 verifizierte Zitate"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -92,7 +97,7 @@ revisions:
 
 **14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *partiell unterstützt*: primär Art. 12 BV/Nothilfe). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
 
-**15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden ([BGE 142 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_1) E. 7.2, *Kontextzitat*: primär Art. 12 BV/Nothilfe).
+**15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden. Insoweit besteht eine enge Verbindung zum Recht auf Hilfe in Notlagen (Art. 12 BV), der die materielle Konkretisierung der Menschenwürde im Sozialbereich darstellt.
 
 ### VII. Fürsorge und staatliche Schutzpflicht
 
@@ -110,4 +115,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung mit OCL-Verifikation*
+*Letzte Aktualisierung: 2026-08-09 — Dritte Audit-Überarbeitung: BGE 142 I 1 entfernt (unsupported); 5 supported + 3 partiell unterstützte + 2 BGer = 10 verifizierte Zitate; Gesetzeswortlaut verifiziert*

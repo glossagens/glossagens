@@ -2,11 +2,17 @@
 title: "Art. 49 BV — Vorrang und Einhaltung des Bundesrechts"
 weight: 49
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-09c
 description: "Kommentar zu Art. 49 BV: Bundesrecht geht entgegenstehendem kantonalem Recht vor; Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 tags: ["BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkonflikt", "Derogation", "Verfassung"]
 agent_verified: true
+mcp_verified: true
 revisions:
+  - date: 2026-08-09c
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "2. Audit-Durchlauf: check_claim_support für alle 9 Zitate; BGE 143 I 403 partial (0.72), 144 I 113 partial (0.85), 145 I 26 partial (0.72), 138 I 356 partial (0.82); 5 supported yes (0.95-0.99); Verifizierungstabelle aktualisiert mit Konfidenzwerten"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -46,15 +52,15 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 **5** **Einfacher Gesetzesvorrang.** Der Vorrang des einfachen Bundesrechts gegenüber kantonalem Verfassungsrecht folgt aus Art. 49 Abs. 1 BV. Ein kantonaler Verfassungsartikel kann nicht gegen ein Bundesgesetz gerichtet werden, es sei denn, das Bundesgesetz seinerseits verstösst gegen die Bundesverfassung.
 
-**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.; *partial* — primär Art. 49 Abs. 1 BV und LECCT).
+**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.; *partiell unterstützt*: check_claim_support=partial/0.72 — primär LECCT-Abschliessung, unterstützt aber Vorrang-Prinzip).
 
 **7** **Weite und enge Auslegung.** Bei der Prüfung des Normenkonflikts ist das Bundesrecht **weit** und das kantonale Recht **eng** auszulegen. Im Zweifel ist die kantonale Norm nicht entgegenstehend, wenn eine mit dem Bundesrecht **vereinbare Auslegung** möglich ist.
 
-**8** **Passivrauchschutz.** BGE 139 I 242 bestätigt den Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG ([BGE 139 I 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_242); *supported*).
+**8** **Passivrauchschutz.** BGE 139 I 242 bestätigt den Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG ([BGE 139 I 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_242); *supported*: check_claim_support=yes/0.97).
 
-**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468); *supported*).
+**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468); *supported*: check_claim_support=yes/0.97).
 
-**10** **Fürsorgeleistungen für Asylsuchende.** BGE 130 I 82: Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht ([BGE 130 I 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_82); *supported*).
+**10** **Fürsorgeleistungen für Asylsuchende.** BGE 130 I 82: Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht ([BGE 130 I 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_82); *supported*: check_claim_support=yes/0.99).
 
 ### II. Absatz 2 — Bundeseinhaltungsaufsicht
 
@@ -103,15 +109,15 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 143 I 403 | 200 | partial | LECCT, primär Art. 49 Abs. 1 BV |
-| BGE 139 I 242 | 200 | supported* | Passivrauchschutz |
-| BGE 138 I 468 | 200 | supported* | StromVG-Vorrang |
-| BGE 130 I 82 | 200 | supported* | Fürsorge Asylsuchende |
-| BGE 137 I 31 | 200 | supported* | Konkordat Gewalt |
-| BGE 144 I 113 | 200 | supported* | Lehrpersonalreglement |
-| BGE 145 I 26 | 200 | supported* | Prämienverbilligung |
-| BGE 138 I 356 | 200 | supported* | Honorargesetz |
-| BGE 127 I 60 | 200 | supported* | Polizeieinsätze |
+| BGE 143 I 403 | 200 | partial (0.72) | LECCT, primär Art. 49 Abs. 1 BV — unterstützt Vorrang-Prinzip |
+| BGE 139 I 242 | 200 | yes (0.97) | Passivrauchschutz, Vorrang PaRG |
+| BGE 138 I 468 | 200 | yes (0.97) | StromVG-Vorrang |
+| BGE 130 I 82 | 200 | yes (0.99) | Fürsorge Asylsuchende |
+| BGE 137 I 31 | 200 | yes (0.97) | Konkordat Gewalt |
+| BGE 144 I 113 | 200 | partial (0.85) | Lehrpersonalreglement — kein Vorrangverstoss festgestellt |
+| BGE 145 I 26 | 200 | partial (0.72) | Prämienverbilligung — primär Art. 65 KVG |
+| BGE 138 I 356 | 200 | partial (0.82) | Honorargesetz — primär Art. 13/71 ArG |
+| BGE 127 I 60 | 200 | yes (0.95) | Polizeieinsätze |
 | ~~BGE 144 II 1~~ | 200 | unrelated | Entfernt: nicht primär Art. 49 BV |
 | ~~BGE 139 II 121~~ | 200 | no | Entfernt: Betäubungsmittel, nicht Vorrang |
 | ~~BGE 147 II 35~~ | 200 | unrelated | Entfernt: Unterhaltsbemessung |
