@@ -2,7 +2,7 @@
 title: "Art. 89 BV — Energiepolitik"
 weight: 89
 date: 2026-08-09
-lastmod: 2026-08-09l
+lastmod: 2026-08-09m
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "Kernenergie", "StromVG", "KEG", "CO2-Gesetz", "ElCom", "RPG"]
 agent_verified: true
