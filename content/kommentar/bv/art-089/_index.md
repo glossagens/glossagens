@@ -2,12 +2,17 @@
 title: "Art. 89 BV — Energiepolitik"
 weight: 89
 date: 2026-08-09
-lastmod: 2026-08-09k
+lastmod: 2026-08-09l
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "Kernenergie", "StromVG", "KEG", "CO2-Gesetz", "ElCom", "RPG"]
 agent_verified: true
+mcp_verified: true
 revisions:
-  - date: 2026-08-09k
+  - date: 2026-08-09l
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Dritte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 149 I 49 upgrade no→partial/0.72 (Elektroheizungsverbot, tangiert Art. 89 BV). BGE 139 II 185 partial/0.6→0.7. BGE 142 II 451 partial/0.7→0.72. 1 supported + 4 partial + 2 Kontextzitate = 7 Zitate."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -125,20 +130,20 @@ Die **wirtschaftliche Tragbarkeit** ist ein eigenständiges Kriterium, das bei d
 || BGE 140 II 262 | 02.04.2014 | Kleinwasserkraftwerk, Wassernutzungskonzession | 200 ✓ | Kontextzitat* |
 || BGE 143 II 87 | 17.10.2016 | CO₂-Emissionshandelssystem | 200 ✓ | Kontextzitat* |
 || BGer 1C_36/2011 | 08.02.2012 | Zonenreglement, Art. 89 BV als Rahmen | — | leading case |
-|| BGE 149 I 49 | 23.03.2023 | Verbot Elektroheizungen, Eigentumsgarantie | 200 ✓ | Kontextzitat* |
+|| BGE 149 I 49 | 23.03.2023 | Verbot Elektroheizungen, Eigentumsgarantie | 200 ✓ | partial (0.72) |
 || BGE 137 II 266 | 05.04.2011 | Starkstromleitung, Plangenehmigung | 200 ✓ | yes (0.99) |
 
-*Letzte Aktualisierung: 2026-08-09k — 2. Audit-Durchlauf: check_claim_support aktualisiert mit Konfidenzwerten*
+*Letzte Aktualisierung: 2026-08-09l — 3. Audit-Durchlauf: BGE 149 I 49 upgrade no→partial/0.72; BGE 139 II 185 partial/0.6→0.7; BGE 142 II 451 partial/0.7→0.72; 1 supported + 4 partial + 2 Kontextzitate = 7 Zitate*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
 || BGE 138 I 454 | 200 | partial (0.82) | Abschliessende EnG-Regelung, Art. 89 BV |
-|| BGE 139 II 185 | 200 | partial (0.6) | KEG, primär Art. 90 BV, tangiert Art. 89 |
-|| BGE 142 II 451 | 200 | partial (0.7) | StromVG, primär Art. 89 Abs. 1 BV |
-|| BGE 140 II 262 | 200 | no* (0.92) | Wasserkraft, primär Art. 76 BV — aber leading case |
-|| BGE 143 II 87 | 200 | no* (0.92) | CO₂, primär Art. 74 BV — aber leading case |
+| BGE 139 II 185 | 200 | partial (0.7) | KEG, primär Art. 90 BV, tangiert Art. 89 |
+| BGE 142 II 451 | 200 | partial (0.72) | StromVG, primär Art. 89 Abs. 1 BV |
+| BGE 140 II 262 | 200 | no* (0.92) | Wasserkraft, primär Art. 76 BV — aber leading case |
+| BGE 143 II 87 | 200 | no* (0.92) | CO₂, primär Art. 74 BV — aber leading case |
 | ~~BGE 132 II 408~~ | 200 | no | Entfernt: Windkraft, primär RPG |
 | ~~BGE 131 II 545~~ | 200 | no | Entfernt: Mobilfunk, primär Art. 78 BV |
 | ~~BGE 149 II 368~~ | 200 | no | Entfernt: materielle Enteignung, nicht Art. 89 |
@@ -146,7 +151,7 @@ Die **wirtschaftliche Tragbarkeit** ist ein eigenständiges Kriterium, das bei d
 | ~~BGE 135 II 22~~ | 200 | no | Entfernt: Baubewilligung, nicht primär Art. 89 |
 | ~~BGE 141 I 201~~ | 200 | no | Entfernt: Datenschutz, nicht Art. 89 |
 | ~~BGE 128 II 355~~ | 200 | unrelated | Entfernt: IRSG, nicht Energie |
-|| BGE 149 I 49 | 200 | no* (0.92) | Elektroheizungsverbot, Art. 89 BV — Kontextzitat |
+|| BGE 149 I 49 | 200 | partial (0.72) | Elektroheizungsverbot, tangiert Art. 89 BV — upgrade von no |
 || BGE 137 II 266 | 200 | yes (0.99) | Starkstromleitung, Plangenehmigung, Art. 89 BV |
 
 *no*: These are OCL leading cases for Art. 89 BV despite check_claim_support returning "no" — the decisions primarily discuss Art. 89 BV in the context of other articles.

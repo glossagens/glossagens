@@ -2,12 +2,17 @@
 title: "Art. 73 BV — Nachhaltigkeit"
 weight: 73
 date: 2026-08-09
-lastmod: 2026-08-09k
+lastmod: 2026-08-09l
 description: "Kommentar zu Art. 73 BV – Nachhaltigkeit: Staatsziel, ausgewogenes Verhältnis zwischen Natur und Beanspruchung, umwelt- und ressourcenpolitische Leitmaxime"
 tags: ["BV", "Nachhaltigkeit", "Umweltschutz", "Staatsziel", "Raumplanung", "Energiepolitik", "Gewässerschutz", "Naturschutz"]
 agent_verified: true
+mcp_verified: true
 revisions:
-  - date: 2026-08-09k
+  - date: 2026-08-09l
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Fünfte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 136 II 263 upgrade no→partial/0.6 (Lärmschutz, tangiert Nachhaltigkeit). BGE 148 II 36 downgrade partial→no/0.85 (Windpark Grenchenberg, primär RPG). BGE 149 I 182 partial/0.85 bestätigt. 0 supported + 2 partial + 2 Kontextzitate = 4 verifizierte Zitate."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -60,15 +65,15 @@ Art. 73 BV wirkt als **Auslegungsmaxime**: Gesetze und Verfügungen sind im Lich
 
 **5** **Natur und Erneuerungsfähigkeit.** Die erste Komponente ("Natur und ihre Erneuerungsfähigkeit") betont, dass natürliche Ressourcen nur im Rahmen ihrer Regenerationsfähigkeit genutzt werden dürfen. Dies konkretisiert sich in:
 
-- Dem **Vorsorgeprinzip** (Art. 74 Abs. 2 BV): Vermeidung von Beeinträchtigungen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *Kontextzitat* — primär Enteignung/Lärmschutz, tangiert Nachhaltigkeit)
-- Der **Richtplanung** (Art. 6 ff. RPG): Nachhaltige Raumentwicklung ([BGE 148 II 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_36); *partiell unterstützt*: check_claim_support=partial/0.6 — primär Art. 8 RPG/Richtplanung, tangiert Nachhaltigkeit)
+- Dem **Vorsorgeprinzip** (Art. 74 Abs. 2 BV): Vermeidung von Beeinträchtigungen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *partiell unterstützt*: check_claim_support=partial/0.6 — Lärmschutz, tangiert Nachhaltigkeit)
+- Der **Richtplanung** (Art. 6 ff. RPG): Nachhaltige Raumentwicklung ([BGE 148 II 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_36); *Kontextzitat* — primär Art. 8 RPG/Richtplanung)
 - Dem **Gewässerschutz** (Art. 76 BV): Nachhaltige Wassernutzung
 
 **6** **Beanspruchung durch den Menschen.** Die zweite Komponente ("Beanspruchung durch den Menschen") anerkennt, dass menschliche Tätigkeit die Natur beansprucht. Das Verhältnis muss **auf Dauer ausgewogen** sein — nicht kurzfristig, sondern mit Blick auf künftige Generationen.
 
 ### III. Nachhaltigkeit in der Rechtsprechung
 
-**7** **Lärmschutz und Flugverkehr.** In BGE 136 II 263 hat das Bundesgericht Entschädigungsansprüche für übermässige Lärmbelastung durch Flugverkehr beurteilt — die Entscheidung tangiert Art. 73 BV, ist aber primär dem Enteignungs- und Lärmschutzrecht zuzuordnen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *Kontextzitat*).
+**7** **Lärmschutz und Flugverkehr.** In BGE 136 II 263 hat das Bundesgericht Entschädigungsansprüche für übermässige Lärmbelastung durch Flugverkehr beurteilt — die Entscheidung tangiert Art. 73 BV, ist aber primär dem Enteignungs- und Lärmschutzrecht zuzuordnen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *partiell unterstützt*: partial/0.6).
 
 **8** **Windenergie und Richtplanung.** In BGE 148 II 36 (Windpark Grenchenberg) hat das Bundesgericht die Richtplanpflicht für Windenergieanlagen bejaht — die Entscheidung stützt sich primär auf Art. 8 RPG, tangiert aber die nachhaltige Raumentwicklung nach Art. 73 BV ([BGE 148 II 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_36); *Kontextzitat*).
 
@@ -102,15 +107,15 @@ Art. 73 BV steht im Einklang mit den völkerrechtlichen Nachhaltigkeitsverpflich
 | BGE 138 II 331 | 06.06.2012 | Lärmspitzen Baubewilligung | 200 ✓ |
 | BGE 149 I 182 | 31.03.2023 | Klimaschutz, öffentlicher Verkehr | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09k — 4. Audit-Durchlauf: check_claim_support aktualisiert (BGE 148 II 36 no→partial)*
+*Letzte Aktualisierung: 2026-08-09l — 5. Audit-Durchlauf: BGE 136 II 263 upgrade no→partial/0.6; BGE 148 II 36 downgrade partial→no/0.85; 0 supported + 2 partial + 2 Kontextzitate*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 136 II 263 | 200 | no (0.95) | Lärmbelastung Flugverkehr — primär Enteignung/Art. 26 BV, nicht direkt Art. 73 BV (*Kontextzitat*) |
-|| BGE 148 II 36 | 200 | partial (0.6) | Windpark Grenchenberg — primär Art. 8 RPG, tangiert Art. 73 BV |
-| BGE 138 II 331 | 200 | no (0.95) | Lärmspitzen Baubewilligung — primär Art. 74 BV, nicht direkt Art. 73 BV (*Kontextzitat*) |
+| BGE 136 II 263 | 200 | partial (0.6) | Lärmbelastung Flugverkehr — upgrade von no, primär Enteignung/Art. 26 BV |
+| BGE 148 II 36 | 200 | no (0.85) | Windpark Grenchenberg — downgrade von partial, primär Art. 8 RPG (*Kontextzitat*) |
+| BGE 138 II 331 | 200 | no (0.95) | Lärmspitzen Baubewilligung — primär Art. 74 BV (*Kontextzitat*) |
 | BGE 149 I 182 | 200 | partial (0.85) | Klima/Verkehr — tangiert Art. 73 BV |
 | ~~BGE 135 II 321~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 147 II 164~~ | 200 | no | Entfernt: nicht Art. 73 BV |
