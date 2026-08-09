@@ -2,10 +2,11 @@
 title: "Rechtsprechung zu Art. 29 VwVG"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-08-09"
 description: "Übersicht der massgeblichen Entscheide zu Art. 29 VwVG (Anspruch auf rechtliches Gehör; Abklärungspflicht der Verwaltung; Begründungspflicht; Verhältnis zu Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK)"
 tags: ["Rechtsprechung", "VwVG", "Rechtliches Gehör", "Begründungspflicht", "Abklärungspflicht", "Verfahrensgrundsätze"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
 ---
 
 # Rechtsprechungssammlung zu Art. 29 VwVG
@@ -60,6 +61,139 @@ agent_verified: false
 
 ---
 
+### [BGE 141 V 557](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_557)
+- **Thema**: Implizite Begründung; Grenze der impliziten Begründung
+- **Kernaussage**: Verzicht auf Gerichtskosten und Ablehnung der unentgeltlichen Rechtspflege können nicht als implizite Begründung für die Dépens-Verweigerung dienen — unterschiedliche rechtliche Fragen.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Begründungspflicht; Dépens
+
+---
+
+### [BGE 139 V 349](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_V_349)
+- **Thema**: Gehör und ATSG; Beweisanträge
+- **Kernaussage**: Die von Amtes wegen vorzunehmende Abklärung und die Gewährung des rechtlichen Gehörs im sozialversicherungsrechtlichen Verfahren stehen in einem geordneten Verhältnis. Ein qualifizierter Gehörsanspruch besteht bei erheblichen Beweisanträgen.
+- **Einschlägig für**: Art. 29 Abs. 1 und 2 BV; Art. 6 Ziff. 1 EMRK; Art. 43 Abs. 1 und Art. 61 lit. c ATSG
+
+---
+
+### [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)
+- **Thema**: Begutachtung und rechtliches Gehör; ATSG
+- **Kernaussage**: Die von Amtes wegen anzuordnende Begutachtung und die Gewährung des rechtlichen Gehörs im sozialversicherungsrechtlichen Verfahren.
+- **Einschlägig für**: Art. 29 Abs. 1 und 2, Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK; Art. 43 Abs. 1 und Art. 61 ATSG
+
+---
+
+### [BGE 136 V 131](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_131)
+- **Thema**: Vorleistung und Gehör im Sozialversicherungsrecht
+- **Kernaussage**: Anfechtbarkeit eines Entscheides über die Vorleistung; Verhältnis von Untersuchungsmaxime und Gehöranspruch.
+- **Einschlägig für**: Art. 90 und 98 BGG; Art. 26 Abs. 4 BVG
+
+---
+
+### [BGE 134 I 83](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_83)
+- **Thema**: Vorsorgliche Massnahmen; Qualifikation als End- oder Zwischenentscheid
+- **Kernaussage**: Ein Entscheid über vorsorgliche Massnahmen kann unter bestimmten Voraussetzungen als Endentscheid qualifiziert werden, was sich auf den Gehöranspruch auswirkt.
+- **Einschlägig für**: Art. 93 BGG; rechtliches Gehör im einstweiligen Rechtsschutz
+
+---
+
+### [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143)
+- **Thema**: Ausländerrecht; Erneuerung der Aufenthaltsbewilligung; EMRK Art. 8
+- **Kernaussage**: Erneuerung der Aufenthaltsbewilligung und rechtliches Gehör; Gehör im ausländerrechtlichen Verfahren.
+- **Einschlägig für**: Art. 8 EMRK; Art. 2 AuG; Art. 29 VwVG
+
+---
+
+### [BGE 146 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49)
+- **Thema**: Einbürgerung; Gehör bei unbestimmten Rechtsbegriffen
+- **Kernaussage**: Einbürgerungsverfahren; verfassungsrechtliche Gehörsgarantie bei unbestimmten Rechtsbegriffen; Integration als unbestimmter Rechtsbegriff.
+- **Einschlägig für**: Art. 8 Abs. 1, Art. 9 und 38 Abs. 2 BV; Art. 14 und 15 BüG
+
+---
+
+### [BGE 144 I 91](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_91)
+- **Thema**: Ausländerrecht; Aufenthaltsbewilligung; EMRK Art. 8
+- **Kernaussage**: Erneuerung der Aufenthaltsbewilligung und rechtliches Gehör; verfassungsrechtliche und konventionsrechtliche Anforderungen.
+- **Einschlägig für**: Art. 2 Abs. 1 AuG; Art. 8 EMRK; Art. 3 KRK
+
+---
+
+### [BGE 137 I 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_305)
+- **Thema**: Medien; Beschwerde gegen Nichtfortführung der Kommunikation
+- **Kernaussage**: Beschwerde gegen die Nichtfortführung der (zeitlich befristeten) Kommunikationskanäle; Gehör im Verfahren.
+- **Einschlägig für**: Art. 29 VwVG; Art. 29 Abs. 2 BV
+
+---
+
+### [BGE 134 I 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_286)
+- **Thema**: Öffentlichkeitsprinzip; Einsicht in Akten
+- **Kernaussage**: Art. 30 Abs. 3 BV; Art. 6 Ziff. 1 EMRK; Öffentlichkeitsprinzip, Einsicht in Akten und rechtliches Gehör.
+- **Einschlägig für**: Art. 30 Abs. 3 BV; Art. 6 Ziff. 1 EMRK; Art. 29 VwVG
+
+---
+
+### [BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551)
+- **Thema**: Vertrauensschutz und Gehör; Dépens
+- **Kernaussage**: Vertrauensschutzprinzip im Falle geänderter Praxis; Gehör bei Dépens-Verweigerung.
+- **Einschlägig für**: Art. 5 Abs. 3 und Art. 9 BV; Art. 92, 93 und 100 BGG
+
+---
+
+### [BGE 146 V 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_V_16)
+- **Thema**: IV-Verfahren; Invalideneinkommen und Gehör
+- **Kernaussage**: Invalideneinkommen; Abzug vom Tabellenlohn. Das Gehör im sozialversicherungsrechtlichen Verfahren umfasst die Mitwirkung bei der Sachverhaltsabklärung.
+- **Einschlägig für**: Art. 16 ATSG; Art. 29 VwVG
+
+---
+
+### [BGE 149 II 476](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_476)
+- **Thema**: Fristwahrung und vorsorgliche Massnahmen; Zugang zum Gericht
+- **Kernaussage**: Vorsorgliche Massnahmen; Zulässigkeit einer Beschwerde wegen Rechtsverzögerung.
+- **Einschlägig für**: Art. 94 und 100 Abs. 7 BGG; rechtliches Gehör
+
+---
+
+### [BGE 131 V 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_9)
+- **Thema**: IV-Rente; Gehör im sozialversicherungsrechtlichen Verfahren
+- **Kernaussage**: Art. 8 Abs. 1, 2 und 4 BV; Art. 21 Abs. 2 IVG i.V.m. Art. 2 Abs. 1 HVI. Das rechtliche Gehör im IV-Verfahren umfasst die Mitwirkung bei der medizinischen Abklärung.
+- **Einschlägig für**: Art. 29 VwVG; Art. 29 Abs. 2 BV; Art. 6 Ziff. 1 EMRK
+
+---
+
+### [BGE 148 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_137)
+- **Thema**: Ausstandsgründe und rechtliches Gehör
+- **Kernaussage**: Blosse Kritik an früheren Entscheiden einer Richterin (als Staatsanwältin) begründet keinen Befangenheitsverdacht; objektive Anhaltspunkte erforderlich.
+- **Einschlägig für**: Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK; Art. 56 lit. f und Art. 358 ff. StPO
+
+---
+
+### [BGE 143 IV 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_69)
+- **Thema**: Ausstand und Zuständigkeit; rechtliches Gehör
+- **Kernaussage**: Zuständigkeit für Entscheide über den Ausstand eines Mitglieds des zuständigen Gerichts; Vorbefassung als Ausstandsgrund.
+- **Einschlägig für**: Art. 20 und 59 StPO; rechtliches Gehör
+
+---
+
+### [BGE 140 I 271](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_271)
+- **Thema**: Greffierwechsel und rechtliches Gehör
+- **Kernaussage**: Garantie eines unabhängigen und unparteiischen Gerichts; Schreiber der Strafkammer ist nicht «Mitglied des Gerichts» iSv Art. 30 Abs. 1 BV; Greffierwechsel begründet keine Gehörsverletzung und keine Informationspflicht.
+- **Einschlägig für**: Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK
+
+---
+
+### [BGE 146 II 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_6)
+- **Thema**: Steuerrecht; Gehör und Beweislast
+- **Kernaussage**: Unterschieben von Einkünften; steuerliche Gehörspflicht und Beweislast bei der Beurteilung der Steuererklärung.
+- **Einschlägig für**: Art. 16 Abs. 1, Art. 24 lit. a und d DBG; Art. 7 Abs. 1 und 4 lit. c und f StHG
+
+---
+
+### [BGE 147 I 173](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173)
+- **Thema**: Ausstand und rechtliches Gehör im Verwaltungsverfahren
+- **Kernaussage**: Beurteilung eines nach Fällung des letztinstanzlichen kantonalen Urteils eingetretenen Ausstandsgrunds; rechtliches Gehör und Unabhängigkeit.
+- **Einschlägig für**: Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK
+
+---
+
 ## Weitere Bundesgerichts- und Verwaltungsgerichtsentscheide
 
 ### [BVGer E-1866/2015 vom 15. Juli 2016](https://mcp.opencaselaw.ch/entscheid/bvger_E-1866_2015)
@@ -90,4 +224,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-07-17*
+*Letzte Aktualisierung: 2026-08-09*
