@@ -1,9 +1,9 @@
 ---
-title: "Art. 73 — Nachhaltigkeit"
+title: "Art. 73 BV — Nachhaltigkeit"
 weight: 73
 date: 2026-08-09
 lastmod: 2026-08-09
-description: "Kommentar zu Art. 73 BV – Nachhaltigkeit: Staatsziel, umwelt- und ressourcenpolitische Leitmaxime, Verbindlichkeit und justiziabilität"
+description: "Kommentar zu Art. 73 BV – Nachhaltigkeit: Staatsziel, ausgewogenes Verhältnis zwischen Natur und Beanspruchung, umwelt- und ressourcenpolitische Leitmaxime"
 tags: ["BV", "Nachhaltigkeit", "Umweltschutz", "Staatsziel", "Raumplanung", "Energiepolitik", "Gewässerschutz", "Naturschutz"]
 agent_verified: true
 revisions:
@@ -11,14 +11,18 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung des Kommentars zu Art. 73 BV – Nachhaltigkeit"
+    note: "Audit-Überarbeitung: Gesetzestext auf exakten Fedlex-Wortlaut korrigiert (komplett falscher Text!); 8 von 13 halluzinierte BGE-Zitate ersetzt durch OCL-verifizierte leading cases"
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 73 BV — Nachhaltigkeit**
 >
-> Bund und Kantone setzen sich für die nachhaltige Entwicklung ein, namentlich für den Ausgleich und die Wechselbeziehung zwischen den Belangen der Umwelt, der Wirtschaft und der Gesellschaft.
+> Bund und Kantone streben ein auf Dauer ausgewogenes Verhältnis zwischen der Natur und ihrer Erneuerungsfähigkeit einerseits und ihrer Beanspruchung durch den Menschen anderseits an.
+
+*Quelle: Fedlex (SR 101), Stand 03.03.2024 — verifiziert via OCL get_law am 9.8.2026*
+
+**KRITISCHER HINWEIS:** Der vorherige Artikel enthielt einen **komplett falschen Gesetzestext**: "Bund und Kantone setzen sich für die nachhaltige Entwicklung ein, namentlich für den Ausgleich und die Wechselbeziehung zwischen den Belangen der Umwelt, der Wirtschaft und der Gesellschaft." — Dieser Wortlaut existiert **nicht** in Art. 73 BV. Der korrekte Text spricht von einem "auf Dauer ausgewogenen Verhältnis zwischen der Natur und ihrer Erneuerungsfähigkeit einerseits und ihrer Beanspruchung durch den Menschen anderseits". Der falsche Text ist eine freie Paraphrasierung, die den Wortlaut der Verfassung verfälscht.
 
 ## Kommentierung
 
@@ -30,69 +34,39 @@ Art. 73 BV verankert das **Nachhaltigkeitsprinzip** als Staatsziel auf Verfassun
 
 #### 1. Staatsziel vs. individuelles Recht
 
-Art. 73 BV ist ein **Staatszielbestimmung**, kein individuelles Grundrecht. Er begründet keine unmittelbar einklagbaren Ansprüche Einzelner, sondern richtet sich an die staatlichen Organe als **Leitmaxime** für die Ausgestaltung der Rechtsordnung und der staatlichen Tätigkeit. Die Justiziabilität ist somit grundsätzlich **vermittelt** über die konkretisierenden Einzelnormen (insb. Art. 74–78 BV, RPG, USG, Gewässerschutzgesetz) ([BGE 135 II 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_321)).
+Art. 73 BV ist ein **Staatszielbestimmung**, kein individuelles Grundrecht. Er begründet keine unmittelbar einklagbaren Ansprüche Einzelner, sondern richtet sich an die staatlichen Organe als **Leitmaxime** für die Ausgestaltung der Rechtsordnung und der staatlichen Tätigkeit. Die Justiziabilität ist somit grundsätzlich **vermittelt** über die konkretisierenden Einzelnormen (insb. Art. 74–78 BV, RPG, USG, Gewässerschutzgesetz).
 
 #### 2. Verhältnismässigkeitsprüfung als Einfallstor
 
-Obwohl Art. 73 BV keinen unmittelbaren Abwehranspruch gewährt, entfaltet er **Wirkung im Rahmen der Verhältnismässigkeitsprüfung**. Bei der Abwägung zwischen öffentlichen und privaten Interessen sind die Belange der Nachhaltigkeit als öffentliches Interesse zu berücksichtigen. Dies gilt insbesondere bei raumplanerischen, umweltrechtlichen und energiepolitischen Entscheiden ([BGE 147 II 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_164), E. 5.2).
+Obwohl Art. 73 BV keinen unmittelbaren Abwehranspruch gewährt, entfaltet er **Wirkung im Rahmen der Verhältnismässigkeitsprüfung**. Bei der Abwägung zwischen öffentlichen und privaten Interessen sind die Belange der Nachhaltigkeit als öffentliches Interesse zu berücksichtigen. Dies gilt insbesondere bei raumplanerischen, umweltrechtlichen und energiepolitischen Entscheiden.
 
 #### 3. Interpretationsmaxime
 
-Art. 73 BV wirkt als **Auslegungsmaxime**: Gesetze und Verfügungen sind im Lichte des Nachhaltigkeitsprinzips auszulegen. Dies gilt auch für kantonales Recht und für die Auslegung unbestimmter Rechtsbegriffe ([BGE 142 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_313)).
+Art. 73 BV wirkt als **Auslegungsmaxime**: Gesetze und Verfügungen sind im Lichte des Nachhaltigkeitsprinzips auszulegen. Dies gilt auch für kantonales Recht und für die Auslegung unbestimmter Rechtsbegriffe.
 
-### II. Die drei Dimensionen der Nachhaltigkeit
+### II. Auf Dauer ausgewogenes Verhältnis
 
-Art. 73 BV benennt explizit die drei Säulen der Nachhaltigkeit:
+**4** **Zwei-Pol-Struktur.** Der Gesetzestext nennt zwei Pole: (1) die Natur und ihre Erneuerungsfähigkeit, und (2) die Beanspruchung durch den Menschen. Das "auf Dauer ausgewogene Verhältnis" verlangt, dass die Beanspruchung die Erneuerungsfähigkeit der Natur nicht übersteigt. Dies ist eine **optimierende** (nicht absolutierende) Vorgabe.
 
-#### 1. Umwelt
+**5** **Natur und Erneuerungsfähigkeit.** Die erste Komponente ("Natur und ihre Erneuerungsfähigkeit") betont, dass natürliche Ressourcen nur im Rahmen ihrer Regenerationsfähigkeit genutzt werden dürfen. Dies konkretisiert sich in:
 
-Die **Umwelt** als Nachhaltigkeitsdimension wird durch Art. 74 BV (Umweltschutz), Art. 76 BV (Wasser), Art. 77 BV (Natur- und Heimatschutz) und das einschlägige Bundesrecht (USG, GSchG, NHG, RPG) konkretisiert. Die ökologische Dimension umfasst den Schutz natürlicher Lebensgrundlagen, den Erhalt der Biodiversität und die Bewahrung der Ressourcen für künftige Generationen ([BGE 134 II 332](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_II_332)).
+- Dem **Vorsorgeprinzip** (Art. 74 Abs. 2 BV): Vermeidung von Beeinträchtigungen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *supported* — Lärmbelastung Flugverkehr)
+- Der **Richtplanung** (Art. 6 ff. RPG): Nachhaltige Raumentwicklung ([BGE 148 II 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_36); *supported* — Windpark Grenchenberg)
+- Dem **Gewässerschutz** (Art. 76 BV): Nachhaltige Wassernutzung
 
-#### 2. Wirtschaft
+**6** **Beanspruchung durch den Menschen.** Die zweite Komponente ("Beanspruchung durch den Menschen") anerkennt, dass menschliche Tätigkeit die Natur beansprucht. Das Verhältnis muss **auf Dauer ausgewogen** sein — nicht kurzfristig, sondern mit Blick auf künftige Generationen.
 
-Die **Wirtschaft** als Nachhaltigkeitsdimension verlangt, dass wirtschaftliche Tätigkeit langfristig tragfähig bleibt und nicht auf Kosten künftiger Generationen erfolgt. Dies betrifft insbesondere die Energiepolitik (Art. 89 BV), die Infrastrukturplanung und die Raumplanung ([BGE 141 II 484](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_II_484)).
+### III. Nachhaltigkeit in der Rechtsprechung
 
-#### 3. Gesellschaft
+**7** **Lärmschutz und Flugverkehr.** In BGE 136 II 263 hat das Bundesgericht Entschädigungsansprüche für übermässige Lärmbelastung durch Flugverkehr beurteilt und dabei Art. 73 BV als Auslegungsmaxime herangezogen — die Beanspruchung der Natur muss im ausgewogenen Verhältnis zur Erneuerungsfähigkeit stehen ([BGE 136 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_263); *supported*).
 
-Die **Gesellschaft** als Nachhaltigkeitsdimension erfasst die soziale Gerechtigkeit, den Zusammenhalt und die Chancengerechtigkeit. Auch die Wohnraumversorgung und die Gesundheitsversorgung fallen unter diese Dimension ([BGE 148 II 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_465)).
+**8** **Windenergie und Richtplanung.** In BGE 148 II 36 (Windpark Grenchenberg) hat das Bundesgericht die Richtplanpflicht für Windenergieanlagen bejaht und dabei Art. 73 BV i.V.m. Art. 8 Abs. 2 RPG als Massstab herangezogen — die nachhaltige Raumentwicklung erfordert eine umfassende Interessenabwägung auf Richtplanstufe ([BGE 148 II 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_II_36); *supported*).
 
-### III. Ausgleich und Wechselbeziehung
+**9** **Lärmschutz im Baubewilligungsverfahren.** In BGE 138 II 331 hat das Bundesgericht die Berücksichtigung nicht ständig auftretender Lärmspitzen im Baubewilligungsverfahren beurteilt und Art. 73 BV als Auslegungsmaxime herangezogen ([BGE 138 II 331](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_II_331); *supported*).
 
-Das **Ausgleichsprinzip** (Art. 73 Satz 2 BV) verlangt eine Gesamtbetrachtung aller drei Nachhaltigkeitsdimensionen. Keine Dimension darf einseitig privilegiert werden; vielmehr ist ein **optimierender Ausgleich** anzustreben. Das Bundesgericht betont regelmässig, dass die Nachhaltigkeitsabwägung in der konkreten Interessenabwägung vorzunehmen ist und nicht abstrakt zugunsten einer Dimension präjudiziert werden darf ([BGE 149 II 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_86), E. 2.1).
+**10** **Klimaschutz und öffentlicher Verkehr.** In BGE 149 I 182 hat das Bundesgericht eine Freiburger Verfassungsinitiative für kostenlose öffentliche Verkehrsmittel geprüft und Art. 73 BV i.V.m. Art. 81a Abs. 2 BV als Massstab herangezogen ([BGE 149 I 182](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_182); *supported* — Klima/Verkehr).
 
-### IV. Nachhaltigkeit im Raumplanungsrecht
-
-#### 1. Richtplanung
-
-In der **Richtplanung** (Art. 6 ff. RPG) ist das Nachhaltigkeitsprinzip zentral. Der kantonale Richtplan hat die nachhaltige Entwicklung zu fördern und darf nicht einseitig wirtschaftlichen Interessen den Vorrang einräumen. Richtpläne, die ökologische Belange ungenügend berücksichtigen, verletzen Art. 73 BV i.V.m. Art. 75 BV ([BGE 147 II 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_164), E. 5.2; [BGE 149 II 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_86), E. 2.1).
-
-#### 2. Nutzungsplanung
-
-Die **Nutzungsplanung** (Art. 14 ff. RPG) muss den Grundsatz der nachhaltigen Siedlungsentwicklung beachten. Insbesondere die Begrenzung der Bauzonen (Art. 15 RPG) dient der Vermeidung von Zersiedelung und dem sparsamen Umgang mit Boden als knapper Ressource ([BGE 143 II 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_II_394)).
-
-#### 3. Materielle Enteignung
-
-Bei der **materiellen Enteignung** (Art. 26 Abs. 2 BV i.V.m. Art. 5 RPG) ist das Nachhaltigkeitsprinzip als gewichtiges öffentliches Interesse in die Verhältnismässigkeitsprüfung einzustellen. Eine Einzonung, die den Nachhaltigkeitsgrundsätzen widerspricht, kann eine materielle Enteignung darstellen ([BGE 149 II 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_368)).
-
-### V. Nachhaltigkeit im Umweltrecht
-
-#### 1. Vorsorgeprinzip
-
-Das **Vorsorgeprinzip** (Art. 74 Abs. 2 BV) wird durch Art. 73 BV verstärkt: Die Vorsorge ist nicht nur auf die Vermeidung konkreter Umweltbeeinträchtigungen gerichtet, sondern auch auf die langfristige Bewahrung ökologischer Systeme ([BGE 136 II 196](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_196)).
-
-#### 2. Gewässerschutz
-
-Im **Gewässerschutzrecht** ist das Nachhaltigkeitsprinzip bei der Bewirtschaftung von Wasserressourcen zu berücksichtigen. Die Gewässernutzung hat den Bedürfnissen künftiger Generationen Rechnung zu tragen ([BGE 145 II 178](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_II_178)).
-
-#### 3. Natur- und Heimatschutz
-
-Im **Natur- und Heimatschutzrecht** (Art. 78 BV) dient Art. 73 BV als Interpretationsmaxime: Der Schutz von Landschaften, Ortsbildern und geschichtlichen Stätten ist Teil der nachhaltigen Entwicklung ([BGE 147 II 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_221); [BGE 140 I 259](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_259)).
-
-### VI. Nachhaltigkeit in der Energiepolitik
-
-Die **Energiepolitik** (Art. 89 BV) ist ein zentraler Anwendungsbereich von Art. 73 BV. Die Energiewende, der Ausbau erneuerbarer Energien und die Energieeffizienz sind nachhaltigkeitspolitische Anliegen, die bei der Abwägung mit wirtschaftlichen und landschaftlichen Interessen zu berücksichtigen sind ([BGE 147 II 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_164), E. 5.2: Grimselstausee-Erweiterung; [BGE 141 II 484](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_II_484)).
-
-### VII. Verhältnis zu anderen Verfassungsnormen
+### IV. Verhältnis zu anderen Verfassungsnormen
 
 | Norm | Verhältnis zu Art. 73 BV |
 |------|--------------------------|
@@ -104,16 +78,40 @@ Die **Energiepolitik** (Art. 89 BV) ist ein zentraler Anwendungsbereich von Art.
 | Art. 78 BV | Konkretisiert die Dimension Tierschutz |
 | Art. 89 BV | Konkretisiert die energiepolitische Dimension |
 | Art. 104 BV | Konkretisiert die Dimension Landwirtschaft |
-| Art. 129 BV | Nachhaltige Entwicklung als völkerrechtliches Anliegen |
 
-### VIII. Völkerrechtliche Bezüge
+### V. Völkerrechtliche Bezüge
 
 Art. 73 BV steht im Einklang mit den völkerrechtlichen Nachhaltigkeitsverpflichtungen der Schweiz, namentlich der **Agenda 2030** der UNO mit ihren Sustainable Development Goals (SDGs). Die verfassungsrechtliche Verankerung stärkt die innerstaatliche Umsetzung der SDGs, begründet jedoch keinen unmittelbaren Individualanspruch auf deren Realisierung.
 
-## Siehe auch
+## Leitentscheide
 
-- [Art. 74 BV — Umweltschutz](/kommentar/bv/art-074/)
-- [Art. 75 BV — Raumplanung](/kommentar/bv/art-075/)
-- [Art. 76 BV — Wasser](/kommentar/bv/art-076/)
-- [Art. 77 BV — Natur- und Heimatschutz](/kommentar/bv/art-077/)
-- [Art. 89 BV — Energie](/kommentar/bv/art-089/)
+| Entscheidung | Datum | Kernpunkt | OCL-Existenz |
+|---|---|---|---|
+| BGE 136 II 263 | 08.06.2010 | Lärmbelastung Flugverkehr, Entschädigung | 200 ✓ |
+| BGE 148 II 36 | 24.11.2021 | Windpark Grenchenberg, Richtplanpflicht | 200 ✓ |
+| BGE 138 II 331 | 06.06.2012 | Lärmspitzen Baubewilligung | 200 ✓ |
+| BGE 149 I 182 | 31.03.2023 | Klimaschutz, öffentlicher Verkehr | 200 ✓ |
+
+*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung: Gesetzestext korrigiert (komplett falscher Wortlaut ersetzt durch exakten Fedlex-Text), Zitate verifiziert*
+
+## Verifizierungstabelle
+
+| Zitat | OCL-Existenz | check_claim_support | Anmerkung |
+|-------|-------------|---------------------|-----------|
+| BGE 136 II 263 | 200 | supported | Lärmbelastung Flugverkehr |
+| BGE 148 II 36 | 200 | supported | Windpark Grenchenberg |
+| BGE 138 II 331 | 200 | supported | Lärmspitzen |
+| BGE 149 I 182 | 200 | supported | Klima/Verkehr |
+| ~~BGE 135 II 321~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 147 II 164~~ | 200 | no | Entfernt: nicht Art. 73 BV |
+| ~~BGE 142 II 313~~ | 200 | no | Entfernt: nicht Art. 73 BV |
+| ~~BGE 148 II 465~~ | 200 | no | Entfernt: nicht Art. 73 BV |
+| ~~BGE 149 II 86~~ | 200 | unrelated | Entfernt: Richtplanung, primär Art. 8 RPG |
+| ~~BGE 149 II 368~~ | 200 | no | Entfernt: materielle Enteignung, nicht Art. 73 |
+| ~~BGE 134 II 332~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 141 II 484~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 143 II 394~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 136 II 196~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 145 II 178~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 147 II 221~~ | 404 | — | Entfernt: nicht in OCL |
+| ~~BGE 140 I 259~~ | 404 | — | Entfernt: nicht in OCL |
