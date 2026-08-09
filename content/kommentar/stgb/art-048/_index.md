@@ -6,6 +6,8 @@ lastmod: 2026-06-28
 description: "Kommentar zu Art. 48 StGB – Strafmilderungsgründe"
 tags: ["StGB", "Strafzumessung", "Strafmilderung", "achtenswerte Beweggründe", "schwere Bedrängnis", "heftige Gemütsbewegung", "aufrichtige Reue", "langer Zeitablauf"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -159,3 +161,15 @@ In [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60), E. 4
 - [Art. 15 StGB](../art-015/) — Notwehr
 - [Art. 112 StGB](../art-112/) — Mord
 - Art. 101 Abs. 2 StGB — Zeitablauf bei unverjährbaren Straftaten
+
+### XII. Neuere Rechtsprechung zu Art. 48 StGB
+
+**1. Strafmilderung bei Tötungsdelikten.** Das Bundesgericht hat die Strafzumessung bei versuchter vorsätzlicher Tötung unter Einbezug der Kriterien von Art. 48 StGB wiederholt geschärft. Dabei ist die verminderte Schuldfähigkeit (Art. 19 Abs. 2 StGB) im Rahmen des Tatverschuldens zu berücksichtigen, und allfällige weitere Milderungsgründe nach Art. 48 StGB sind gesondert zu subsumieren und zu begründen ([BGer 6B_497/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_497_2011) E. 4; [BGer 6B_330/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_330_2012) E. 3).
+
+**2. Wohlverhalten nach langem Zeitablauf.** Für die Bejahung von Art. 48 lit. e StGB genügt es nicht, dass die Tat lange zurückliegt; der Täter muss sich in der Zwischenzeit wohl verhalten haben. Ein blosser Zeitablauf ohne positives Wohlverhalten reicht nicht aus ([BGer 6B_14/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2009) E. 2).
+
+**3. Strafzumessung bei Vermögensdelikten.** Bei Vermögensdelikten sind die Strafmilderungsgründe nach Art. 48 StGB im Rahmen der Gesamtwürdigung des Verschuldens zu berücksichtigen. Eine pauschale Verneinung ohne subsumierende Begründung genügt den Anforderungen nicht ([BGer 6B_91/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_91_2022) E. 3).
+
+**4. Heftige Gemütsbewegung bei Tötung im Affekt.** Die Abgrenzung zwischen entschuldbarer heftiger Gemütsbewegung (Art. 48 lit. c StGB) und affektbedingter Tatbegehung erfordert eine sorgfältige Würdigung der Tatumstände. Eine unverschuldete Provokation durch das Opfer kann den Milderungsgrund der Versuchung durch die verletzte Person (Art. 48 lit. b StGB) oder der heftigen Gemütsbewegung (Art. 48 lit. c StGB) begründen ([BGer 6B_1050/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1050_2017) E. 2).
+
+**5. Strafmilderung bei Drogendelikten.** Bei Drogendelikten kann die schwere Bedrängnis (Art. 48 lit. a Ziff. 2 StGB) in Betracht kommen, wenn der Täter in einer existenziellen Notlage handelt. Die Anforderungen an die Intensität der Bedrängnis sind jedoch hoch ([BGer 6B_1038/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1038_2017) E. 3).

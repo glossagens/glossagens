@@ -5,7 +5,9 @@ date: 2026-06-28
 lastmod: 2026-06-28
 description: "Übersicht der Entscheide zu Art. 48 StGB – Strafmilderungsgründe"
 tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Strafmilderung"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Achtenswerte Beweggründe (Art. 48 lit. a Ziff. 1 StGB)
@@ -120,4 +122,61 @@ agent_verified: false
 | [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67) | Verkehrsstrafrecht — Wahl der Strafart | (allg.) | 308 |
 | [BGE 119 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_330) | Verwaltungsstrafverfahren — Bussenbemessung | (alt) | 880 |
 
-*Letzte Aktualisierung: 28. Juni 2026*
+---
+
+## Neuere Rechtsprechung
+
+### [BGer 6B_497/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_497_2011)
+- **Thema**: Versuchte vorsätzliche Tötung — Strafmilderungsgründe
+- **Kernaussage**: Bei versuchter vorsätzlicher Tötung mit verminderter Schuldfähigkeit sind die Milderungsgründe nach Art. 48 StGB gesondert zu subsumieren und zu begründen. Die verminderte Schuldfähigkeit allein führt nicht zwingend zur Strafrahmenunterschreitung.
+- **Einschlägig für**: Art. 48 lit. a, c StGB, Art. 19 Abs. 2 StGB
+
+### [BGer 6B_330/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_330_2012)
+- **Thema**: Versuchte vorsätzliche Tötung, schwere Körperverletzung — Strafzumessung
+- **Kernaussage**: Strafzumessung bei versuchter vorsätzlicher Tötung und schwerer Körperverletzung unter Berücksichtigung von Art. 48 StGB. Die Willkürprüfung erstreckt sich auf die Berücksichtigung aller relevanten Milderungsgründe.
+- **Einschlägig für**: Art. 48 lit. b, c StGB, Strafzumessung
+
+### [BGer 6B_14/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2009)
+- **Thema**: Langer Zeitablauf (Art. 48 lit. e StGB) — Wohlverhalten erforderlich
+- **Kernaussage**: Für die Bejahung des Strafmilderungsgrunds des langen Zeitablaufs genügt es nicht, dass die Tat lange zurückliegt; der Täter muss sich in der Zwischenzeit wohl verhalten haben. Ein blosser Zeitablauf ohne positives Wohlverhalten reicht nicht aus.
+- **Einschlägig für**: Art. 48 lit. e StGB
+
+### [BGer 6B_1050/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1050_2017)
+- **Thema**: Heftige Gemütsbewegung bei Tötung im Affekt
+- **Kernaussage**: Die Abgrenzung zwischen entschuldbarer heftiger Gemütsbewegung (Art. 48 lit. c StGB) und affektbedingter Tatbegehung erfordert eine sorgfältige Würdigung der Tatumstände. Eine unverschuldete Provokation durch das Opfer kann den Milderungsgrund der Versuchung durch die verletzte Person (Art. 48 lit. b StGB) oder der heftigen Gemütsbewegung begründen.
+- **Einschlägig für**: Art. 48 lit. b, c StGB
+
+### [BGer 6B_1038/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1038_2017)
+- **Thema**: Strafzumessung bei Drogendelikten — schwere Bedrängnis
+- **Kernaussage**: Bei Drogendelikten kann die schwere Bedrängnis (Art. 48 lit. a Ziff. 2 StGB) in Betracht kommen, wenn der Täter in einer existenziellen Notlage handelt. Die Anforderungen an die Intensität der Bedrängnis sind jedoch hoch; eine mittlere Bedrängnis genügt nicht.
+- **Einschlägig für**: Art. 48 lit. a Ziff. 2 StGB
+
+### [BGer 6B_675/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_675_2018)
+- **Thema**: Willkür, versuchte Tötung, Strafzumessung
+- **Kernaussage**: Die Strafzumessung bei versuchter Tötung hat alle relevanten Milderungsgründe nach Art. 48 StGB einzubeziehen. Die Willkürprüfung erstreckt sich auf die Frage, ob die Vorinstanz die Milderungsgründe hinreichend gewürdigt und begründet hat.
+- **Einschlägig für**: Art. 48 lit. a–e StGB, Strafzumessung
+
+---
+
+## Übersichtstabelle (ergänzt)
+
+| Entscheide | Thema | Art. 48 lit. | Jahr |
+|------------|-------|-------------|------|
+| [BGer 6B_675/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_675_2018) | Willkür, versuchte Tötung, Strafzumessung | a–e | 2018 |
+| [BGer 6B_1050/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1050_2017) | Heftige Gemütsbewegung bei Tötung im Affekt | b, c | 2017 |
+| [BGer 6B_1038/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1038_2017) | Schwere Bedrängnis bei Drogendelikten | a Ziff. 2 | 2017 |
+| [BGer 6B_497/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_497_2011) | Strafmilderung bei Tötungsdelikten | a, c | 2011 |
+| [BGer 6B_330/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_330_2012) | Versuchte vorsätzliche Tötung, Strafzumessung | b, c | 2012 |
+| [BGer 6B_14/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2009) | Langer Zeitablauf — Wohlverhalten erforderlich | e | 2009 |
+| [BGE 149 IV 217](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_217) | Klimaaktivisten — achtenswerte Beweggründe | a Ziff. 1, a Ziff. 2, c | 2023 |
+| [BGE 147 IV 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_249) | Abgrenzung Bedrängnis/Gemütsbewegung/Belastung | a Ziff. 2, c | 2021 |
+| [BGE 143 IV 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_469) | Aufrichtige Reue — reformatio in peius | d | 2017 |
+| [BGE 140 IV 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_145) | Langer Zeitablauf — unverjährbare Straftaten | e | 2014 |
+| [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) | Verminderte Schuldfähigkeit — Begründungspflicht | (allg.) | 2010 |
+| [BGE 135 IV 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_130) | Absehen von Bestrafung — Quervergleich | (allg.) | 2009 |
+| [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60) | Geldstrafenbemessung | (allg.) | 2007 |
+| [BGE 129 IV 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_6) | Greenpeace-Aktionen — politische Motive | a Ziff. 1 | 2002 |
+| [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67) | Verkehrsstrafrecht — Wahl der Strafart | (allg.) | 1994 |
+| [BGE 119 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_330) | Verwaltungsstrafverfahren — Bussenbemessung | (alt) | 1993 |
+
+*Letzte Aktualisierung: 9. August 2026*

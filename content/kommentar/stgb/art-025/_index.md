@@ -6,6 +6,8 @@ lastmod: 2026-06-28
 description: "Kommentar zu Art. 25 StGB – Gehilfenschaft"
 tags: ["StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Allgemeiner Teil"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -86,3 +88,17 @@ Bis zum Inkrafttreten des revidierten Allgemeinen Teils am 1. Januar 2007 war di
 - [Art. 182 StGB](../art-182/) — Menschenhandel (Teilnahme)
 - Art. 24 StGB — Mittäterschaft (nicht als eigener Artikel im Kommentar vorhanden)
 - Art. 26 StGB — Anstiftung (nicht als eigener Artikel im Kommentar vorhanden)
+
+### X. Neuere Rechtsprechung zur Gehilfenschaft
+
+Die neuere Rechtsprechung hat die Grundsätze zur Gehilfenschaft in verschiedenen Kontexten präzisiert:
+
+**1. Gehilfenschaft bei sexueller Nötigung und Vergewaltigung.** Das Bundesgericht hat die Abgrenzung zwischen Täterschaft und Gehilfenschaft bei sexueller Nötigung und Vergewaltigung geschärft. Wer den Tatplan eines anderen kennt und durch sein Verhalten den Tatbestand fördert, ohne selbst Tatherrschaft auszuüben, ist Gehilfe. Die massgeblichen Kriterien bleiben Tatherrschaft und Tatentschluss ([BGer 6B_1437/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1437_2020) E. 3).
+
+**2. Gehilfenschaft bei Brandstiftung und Sprengstoffdelikten.** Bei der vorsätzlichen Brandstiftung und der fahrlässigen Verursachung einer Explosion ist die Gehilfenschaft möglich, wenn der Gehilfe vorsätzlich Hilfe zu der rechtswidrigen Haupttat leistet. Die Abgrenzung zur Mittäterschaft richtet sich nach dem Kriterium der Tatherrschaft ([BGer 6B_1303/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_1303_2018) E. 4).
+
+**3. Gehilfenschaft bei gewerbs- und bandenmässigem Diebstahl.** Wer als untergeordnetes Mitglied einer Diebesbande handelt, kann Gehilfe sein, wenn ihm die Tatherrschaft über die Einzelakte fehlt. Die Abgrenzung richtet sich nach dem jeweiligen Beitrag zur Tatbestandsverwirklichung und dem Grad der Mitbestimmung ([BGer 6B_259/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_259_2017) E. 2; [BGer 6B_1071/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_1071_2021) E. 3).
+
+**4. Gehilfenschaft zu Veruntreuung und Geldwäscherei.** Die Gehilfenschaft zur Veruntreuung setzt voraus, dass der Gehilfe vorsätzlich Hilfe zur rechtswidrigen Aneignung fremden Vermögens leistet. Bei mehrfacher Geldwäscherei kann die Gehilfenschaft durch die Bereitstellung von Konten oder die Verschleierung der Herkunft der Gelder begründet sein ([BGer 6B_224/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_224_2017) E. 5).
+
+**5. Gehilfenschaft bei Betrug und Irreführung der Rechtspflege.** Wer bei einem Betrug als Gehilfe wirkt, muss Kenntnis vom Tatplan des Haupttäters haben und vorsätzlich dazu beitragen. Die Abgrenzung zur Mittäterschaft ist bei komplexen Betrugssystemen besonders diffizil ([BGer 6B_852/2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_852_2015) E. 3).
