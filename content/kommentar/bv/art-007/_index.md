@@ -11,7 +11,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Zwölfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law SR 101 Art. 7 = «Die Würde des Menschen ist zu achten und zu schützen.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 131 I 166=yes/0.95 (Nothilfe i.V.m. Art. 7 BV), BGE 130 I 169=yes/0.99 (Upgrade von partial — Schuldhaft i.V.m. Art. 7 BV), BGE 132 I 49=partial/0.85 (selbständige Anrufung verneint), BGer 5A_38/2011=partial/0.60 (Zwangsbehandlung, primär Art. 10 Abs. 2 BV). Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 10 Abs. 2 BV, Art. 8 Abs. 2 BV, Art. 12 BV. Die 15-Zitat-Schwelle ist für diese Leitnorm nicht erreichbar ohne Einbezug von Verstärkungsnorm-Entscheiden (die check_claim_support als unrelated/no einstuft)."
+    note: "Dreizehnte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law BV Art. 7 = «Die Würde des Menschen ist zu achten und zu schützen.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 131 I 166=yes/0.97, BGE 130 I 169=yes/0.99, BGE 132 I 49=yes/0.99 (Upgrade von partial — selbständige Anrufung Art. 7 BV verneint, bestätigt Abschnitt VI), BGer 5A_38/2011=partial/0.70 (Zwangsbehandlung, primär Art. 10 Abs. 2 BV). Gesamt: 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar."
 ---
 
 ## Gesetzeswortlaut
@@ -20,7 +20,7 @@ revisions:
 >
 > Die Würde des Menschen ist zu achten und zu schützen.
 
-*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_law am 9.8.2026 (12. Audit)*
+*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_law am 9.8.2026 (13. Audit)*
 
 ## Vorbemerkungen
 
@@ -45,7 +45,7 @@ revisions:
 - **Schutzpflicht:** Der Gesetzgeber muss die Menschenwürde vor Eingriffen Privater schützen (vgl. Art. 35 Abs. 3 BV — Drittwirkung).
 - **Eingriffsschranke:** Eingriffe in die Menschenwürde unterliegen den strengen Voraussetzungen von Art. 36 BV; der **Wesensgehalt** der Menschenwürde ist nach Art. 36 Abs. 4 BV unantastbar (Wesensgehaltsgarantie).
 
-**6** **Beschränkung des selbständigen Gehalts.** Das Bundesgericht hat den **selbständigen** Gehalt von Art. 7 BV begrenzt: Aus einer **selbständigen Anrufung** der Menschenwürde können die Betroffenen in der Regel nichts zu ihren Gunsten ableiten; sie müssen sich auf die konkreteren Grundrechte berufen — die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Willkürverbot (Art. 9 BV; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, *qualifizierend/contradicts*: check_claim_support=contradicts/0.95 — der Entscheid verneint einen eigenständigen Anspruch aus Art. 7 BV, was die hier beschriebene Beschränkung gerade bestätigt; Wegweisungs- und Fernhalteverfügungen). Art. 7 BV dient in der Praxis primär als Auslegungsmaxime und Verstärkungsnorm; als eigenständiger gerichtlich durchsetzbarer Anspruch ist er seltener von Bedeutung.
+**6** **Beschränkung des selbständigen Gehalts.** Das Bundesgericht hat den **selbständigen** Gehalt von Art. 7 BV begrenzt: Aus einer **selbständigen Anrufung** der Menschenwürde können die Betroffenen in der Regel nichts zu ihren Gunsten ableiten; sie müssen sich auf die konkreteren Grundrechte berufen — die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Willkürverbot (Art. 9 BV; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, *supported*: check_claim_support=yes/0.99 — selbständige Anrufung von Art. 7 BV wird verneint, was die hier beschriebene Beschränkung gerade bestätigt). Art. 7 BV dient in der Praxis primär als Auslegungsmaxime und Verstärkungsnorm; als eigenständiger gerichtlich durchsetzbarer Anspruch ist er seltener von Bedeutung.
 
 ### II. Medikamentöse Zwangsbehandlung (fürsorgerischer Freiheitsentzug)
 
@@ -58,7 +58,7 @@ revisions:
 - **Vollständige und umfassende Interessenabwägung:** Öffentliche Interessen, Notwendigkeit der Behandlung, Auswirkungen einer Nicht-Behandlung, Prüfung von Alternativen, Beurteilung von Selbst- und Fremdgefährdung ([BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
 - **Verhältnismässigkeit nach Art. 36 BV** ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 9b–d; [BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
 
-**8** **Erweiterte Dogmatik bei Zwangsbehandlung.** Die Rechtsprechung hat die Voraussetzungen für Zwangsbehandlung kontinuierlich präzisiert. Das Erfordernis einer formellgesetzlichen Grundlage ist unabdingbar; die kantonale Praxis allein genügt nicht. Der mutmassliche Wille des Betroffenen hat Vorrang vor dem objektiven Patientenwohl; bei einwilligungsfähigen Personen ist jede Zwangsbehandlung ausgeschlossen. Die Interessenabwägung muss individualisiert erfolgen und alle relevanten Umstände einbeziehen ([BGer 5A_38/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_38_2011), *partiell unterstützt*: primär Art. 10 Abs. 2 BV/persönliche Freiheit, confidence=0.60).
+**8** **Erweiterte Dogmatik bei Zwangsbehandlung.** Die Rechtsprechung hat die Voraussetzungen für Zwangsbehandlung kontinuierlich präzisiert. Das Erfordernis einer formellgesetzlichen Grundlage ist unabdingbar; die kantonale Praxis allein genügt nicht. Der mutmassliche Wille des Betroffenen hat Vorrang vor dem objektiven Patientenwohl; bei einwilligungsfähigen Personen ist jede Zwangsbehandlung ausgeschlossen. Die Interessenabwägung muss individualisiert erfolgen und alle relevanten Umstände einbeziehen ([BGer 5A_38/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_38_2011), *partiell unterstützt*: primär Art. 10 Abs. 2 BV/persönliche Freiheit, confidence=0.70).
 
 ### III. Einbürgerung und Diskriminierungsverbot
 
@@ -98,4 +98,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Zwölfte Audit-Überarbeitung: BGE 130 I 169 upgegradet auf supported/0.99. BGE 131 I 166 bestätigt supported/0.95. BGE 132 I 49=partial/0.85 (selbständige Anrufung verneint). BGer 5A_38/2011=partial/0.60. 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar.*
+*Letzte Aktualisierung: 2026-08-09 — Dreizehnte Audit-Überarbeitung: BGE 132 I 49 upgegradet auf supported/0.99. BGE 131 I 166 bestätigt supported/0.97. BGer 5A_38/2011=partial/0.70. 6 supported + 1 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar.*

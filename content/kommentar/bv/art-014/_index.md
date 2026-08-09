@@ -11,7 +11,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Zwölfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law SR 101 Art. 14 = «Das Recht auf Ehe und Familie ist gewährleistet.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 138 I 41=partial/0.85 (Ehevorbereitung/rechtmässiger Aufenthalt, primär Art. 12 EMRK), BGE 137 I 351=partial/0.82 (Eheschliessungsfreiheit/Aufenthaltsbewilligung), BGE 143 I 241=yes/0.97 (Besuchsrecht inhaftierter Lebenspartner), BGE 126 II 425=partial/0.85 (Negativnachweis gleichgeschlechtliche Partnerschaften), BGer 2C_376/2022=partial/0.75 (Ehevorbereitung, primär Art. 8 EMRK). Gesamt: 1 supported + 4 partiell unterstützt = 5 verifizierte Zitate. WARNUNG: Art. 14 BV = Randnorm; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. 15-Zitat-Schwelle inhärent nicht erreichbar."
+    note: "Dreizehnte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law BV Art. 14 = «Das Recht auf Ehe und Familie ist gewährleistet.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 138 I 41=partial/0.85 (Ehevorbereitung/rechtmässiger Aufenthalt, primär Art. 12 EMRK), BGE 137 I 351=partial/0.82 (Eheschliessungsfreiheit/Aufenthaltsbewilligung), BGE 143 I 241=yes/0.97 (Besuchsrecht inhaftierter Lebenspartner), BGE 126 II 425=partial/0.85 (Negativnachweis gleichgeschlechtliche Partnerschaften, primär Art. 13 Abs. 1 BV/Art. 8 EMRK), BGer 2C_376/2022=partial/0.70 (Ehevorbereitung, primär Art. 8 EMRK). Gesamt: 1 supported + 4 partiell unterstützt = 5 verifizierte Zitate. WARNUNG: Art. 14 BV = Randnorm; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. 15-Zitat-Schwelle inhärent nicht erreichbar."
 ---
 
 ## Art. 14 BV — Recht auf Ehe und Familie
@@ -22,7 +22,7 @@ revisions:
 >
 > Das Recht auf Ehe und Familie ist gewährleistet.
 
-*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_law am 9.8.2026 (12. Audit)*
+*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_law am 9.8.2026 (13. Audit)*
 
 ### I. Bedeutung und Einordnung
 
@@ -70,11 +70,11 @@ revisions:
 - Die **Integration** des Ausländers in der Schweiz
 - **Ordnungs- und sicherheitspolizeiliche Gründe**
 
-*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.75 — primär Art. 8 EMRK).*
+*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.70 — primär Art. 8 EMRK).*
 
 **12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen verlangt Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen, soweit die Voraussetzungen erfüllt sind. Die Rechtsprechung stützt sich hierbei jedoch primär auf Art. 8 EMRK und Art. 13 Abs. 1 BV bzw. Art. 14 Abs. 1 AsylG (vgl. hierzu die Leitentscheide zum Familiennachzug in der Kommentierung zu Art. 8 EMRK und Art. 13 BV).
 
-**13** Gleichgeschlechtliche Partnerschaften: Das Bundesgericht hatte anerkannt, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten, jedoch unter den Schutzbereich von Art. 8 EMRK fielen ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 4, *partiell unterstützt*: check_claim_support=partial/0.85 — gleichgeschlechtliche Partnerschaften stellten KEIN Familienleben i.S.v. Art. 14 BV dar). Seit der Ehe für alle (1. Juli 2022) hat sich diese Dogmatik zugunsten eines einheitlichen Schutzes beider Eheformen gewandelt.
+**13** Gleichgeschlechtliche Partnerschaften: Das Bundesgericht hatte anerkannt, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten, jedoch unter den Schutzbereich von Art. 8 EMRK fielen ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 4, *partiell unterstützt*: check_claim_support=partial/0.85 — gleichgeschlechtliche Partnerschaften stellten KEIN Familienleben i.S.v. Art. 14 BV dar, primär Art. 13 Abs. 1 BV/Art. 8 EMRK). Seit der Ehe für alle (1. Juli 2022) hat sich diese Dogmatik zugunsten eines einheitlichen Schutzes beider Eheformen gewandelt.
 
 ### IV. Eingriffe in das Recht auf Ehe und Familie
 
