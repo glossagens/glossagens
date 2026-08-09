@@ -2,10 +2,11 @@
 title: "Art. 10 — Ausstand"
 weight: 10
 date: 2026-06-28
-lastmod: "2026-06-28"
+lastmod: "2026-08-09"
 description: "Kommentar zu Art. 10 VwVG – Ausstand von mitwirkenden Personen im Verwaltungsverfahren bei Befangenheit"
 tags: ["VwVG", "Ausstand", "Befangenheit", "Verwaltungsverfahren", "Verwaltungsrecht", "Organmangel", "rechtliches Gehör", "Fairness"]
 agent_verified: true
+mcp_verified: true
 ---
 
 ## Gesetzestext
@@ -52,7 +53,7 @@ agent_verified: true
 
 ### III. Verhältnis zum ATSG und zu Sonderregelungen
 
-**10** Art. 36 Abs. 1 ATSG regelt den Ausstand im sozialversicherungsrechtlichen Verfahren und ist dem Art. 10 VwVG nachgebildet (BGE 132 V 93 E. 6.3). Art. 44 ATSG geht über die gesetzlichen Ausstandsgründe gemäss Art. 10 VwVG und Art. 36 Abs. 1 ATSG hinaus, indem die versicherte Person den Gutachter «aus triftigen Gründen» ablehnen kann. Zu unterscheiden ist zwischen Einwendungen **formeller** und **materieller** Natur: Die gesetzlichen Ausstandsgründe zählen zu den Einwendungen formeller Natur, weil sie geeignet sind, den Anspruch auf rechtliches Gehör und ein faires Verfahren unabhängig von der Einschätzung des Sachverhalts zu verletzen (BGE 137 V 210 E. 3.4.1.2; BGE 132 V 93 E. 6.3).
+**10** Art. 36 Abs. 1 ATSG regelt den Ausstand im sozialversicherungsrechtlichen Verfahren und ist dem Art. 10 VwVG nachgebildet (BGE 132 V 93 E. 6.3). Art. 44 ATSG geht über die gesetzlichen Ausstandsgründe gemäss Art. 10 VwVG und Art. 36 Abs. 1 ATSG hinaus, indem die versicherte Person den Gutachter «aus triftigen Gründen» ablehnen kann. Zu unterscheiden ist zwischen Einwendungen **formeller** und **materieller** Natur: Die gesetzlichen Ausstandsgründe zählen zu den Einwendungen formeller Natur, weil sie geeignet sind, den Anspruch auf rechtliches Gehör und ein faires Verfahren unabhängig von der Einschätzung des Sachverhalts zu verletzen (BGE 137 V 210 E. 3.4.1.2; BGE 132 V 93 E. 6.3). Im Invalidenversicherungsverfahren hat das Bundesgericht die Ausstandsgründe von Art. 10 VwVG i.V.m. Art. 36 ATSG bei der Begutachtung durch IV-Stellen konkretisiert ([BGer 8C_227/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_227_2013) — Invalidenversicherung; Verwaltungsverfahren; Ausstand).
 
 **11** Art. 44 ATSG findet auf Untersuchungen **regionaler ärztlicher Dienste** der IV-Stellen keine Anwendung; diese unterliegen den allgemeinen Ausstandsregeln (BGE 135 V 254 E. 3.4). Fachmedizinische Stellungnahmen der Rehaklinik Bellikon, soweit sie von der SUVA verlangt werden, sind nicht als Gutachten unabhängiger Sachverständiger zu betrachten, weshalb Art. 44 ATSG nicht anwendbar ist und sich auch aus Art. 10 Abs. 2 VwVG keine weitergehende Pflicht ergibt (BGE 136 V 117 E. 3.4).
 
@@ -62,19 +63,25 @@ agent_verified: true
 
 **13** Die Ausstandsgründe gemäss Art. 10 VwVG finden **analoge Anwendung** auch auf Behörden, die nicht formell dem VwVG unterstehen, sofern sie verfügenden Charakter haben. Für die Übernahmekommission, die keine verfügende Behörde ist, gilt das VwVG zwar nicht direkt; die Ausstandsgründe des Art. 10 VwVG werden jedoch über das Reglement der Übernahmekommission analog angewendet (BGE 130 II 530 E. — Quadrant AG). Die Ausstandspflicht und die Folgen von deren allfälliger Verletzung sind bei Behörden mit allgemeinen Aufsichts- und Anzeigebefugnissen jeweils im Einzelfall zu prüfen.
 
-**14** Für die **FINMA** regelt Art. 11 des Organisationsreglements FINMA 2008 den Ausstand in Konkretisierung von Art. 10 VwVG. Die Herausgabe von Bankkundendaten im Rahmen banksrechtlicher Schutzmassnahmen unterliegt den Ausstandsregeln, und ein Organmangel kann die Rechtmässigkeit der Massnahme in Frage stellen (BGE 137 II 431 — UBS-Kundendaten an amerikanische Behörden).
+**14** Für die **FINMA** regelt Art. 11 des Organisationsreglements FINMA 2008 den Ausstand in Konkretisierung von Art. 10 VwVG. Die Herausgabe von Bankkundendaten im Rahmen banksrechtlicher Schutzmassnahmen unterliegt den Ausstandsregeln, und ein Organmangel kann die Rechtmässigkeit der Massnahme in Frage stellen (BGE 137 II 431 — UBS-Kundendaten an amerikanische Behörden). Im Wirtschaftsaufsichtsrecht hat das Bundesgericht die Ausstandspflicht bei FINMA-Verfahren betreffend wirtschaftliche Aufsicht über Energieunternehmen konkretisiert ([BGer 2C_909/2020](https://mcp.opencaselaw.ch/entscheid/bger_2C_909_2020) — Ausstandsbegehren; Wirtschaft).
 
 **15** Im **Rundfunkrecht** gilt Art. 10 VwVG für die Unabhängige Beschwerdeinstanz für Radio und Fernsehen (UBI). Ein Ausstandsgesuch gegen die UBI wegen Vorbefassung kann sowohl formelle (Zulässigkeit) als auch materielle Aspekte (Begründetheit) aufwerfen. Die Vorbefassung eines UBI-Mitglieds in anderer Funktion kann den Ausstand begründen (BGE 122 II 471 — Kassensturz-Berichterstattung).
+
+**15a** Im **Bau- und Planungsrecht** ist der Ausstand von Mitgliedern kantonaler Baubehörden ebenfalls nach Art. 10 VwVG zu beurteilen, soweit das VwVG anwendbar ist. Bei Baueingaben, die die Interessen von Behördenmitgliedern oder deren Angehörigen berühren, kommen die Ausstandsgründe von Art. 10 Abs. 1 lit. a–d VwVG zur Anwendung. Die Befangenheit ist insbesondere zu prüfen, wenn ein Mitglied der beschwerdeführenden Gemeindebehörde angehört ([BGer 1C_52/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_52_2025) — Bau- und Planungsrecht; Ausstand).
+
+**15b** Im **Überprüfungsverfahren** von Arzneimittelzulassungen durch die Swissmedic gelten die Ausstandsregeln von Art. 10 VwVG entsprechend. Ein Ausstandsbegehren gegen Mitglieder der Übernahmekommission oder von Fachkommissionen im Arzneimittelbereich ist nach den allgemeinen Regeln über Befangenheit zu beurteilen. Das Bundesgericht hat die Ausstandsgründe im Zusammenhang mit Gutachtern und Fachexperten in Überprüfungsverfahren konkretisiert ([BGer 2C_695/2014](https://mcp.opencaselaw.ch/entscheid/bger_2C_695_2014) — Überprüfungsverfahren; Ausstandsbegehren).
+
+**15c** Im **Sozialhilferecht** sind die Ausstandsregeln von Art. 10 VwVG anwendbar, soweit kantonale Sozialhilfebehörden Verfügungen im Sinne von Art. 5 VwVG erlassen. Die Befangenheit eines Sozialhilfebearbeiters kann sich aus persönlicher Bekanntschaft mit der gesuchstellenden Person oder aus vorheriger beruflicher Tätigkeit im Einzelfall ergeben ([BGer 8C_659/2020](https://mcp.opencaselaw.ch/entscheid/bger_8C_659_2020) — Sozialhilfe; Ausstand).
 
 ### V. Streitiger Ausstand und Rechtsweg (Abs. 2)
 
 **16** Ist der Ausstand streitig, entscheidet die **Aufsichtsbehörde** oder — bei Kollegialbehörden — diese unter Ausschluss des betroffenen Mitglieds (Abs. 2). Verfügungen über den Ausstand gemäss Art. 10 VwVG gelten nach Art. 45 Abs. 2 lit. b VwVG als **selbstständig anfechtbare Zwischenverfügungen**. Dies bedeutet, dass der Ausstandsentscheid unabhängig vom Endentscheid mit dem jeweils zulässigen Rechtsmittel angefochten werden kann (BGE 132 V 93 E. 6.3).
 
-**17** Einwendungen gegen Sachverständige sind in Form einer selbstständig anfechtbaren Zwischenverfügung zu behandeln, sofern gesetzliche Ausstandsgründe geltend gemacht werden. Geht es um Rügen, welche über die gesetzlichen Ausstandsgründe hinausgehen, ist diesen im Rahmen der **Beweiswürdigung** Rechnung zu tragen (BGE 132 V 93 E. 6). Einwendungen materieller Natur — etwa Vorurteile oder fachliche Bedenken gegen den Gutachter — führen nicht zum Ausstand, können aber die Beweiswürdigung beeinflussen.
+**17** Einwendungen gegen Sachverständige sind in Form einer selbstständig anfechtbaren Zwischenverfügung zu behandeln, sofern gesetzliche Ausstandsgründe geltend gemacht werden. Geht es um Rügen, welche über die gesetzlichen Ausstandsgründe hinausgehen, ist diesen im Rahmen der **Beweiswürdigung** Rechnung zu tragen (BGE 132 V 93 E. 6). Einwendungen materieller Natur — etwa Vorurteile oder fachliche Bedenken gegen den Gutachter — führen nicht zum Ausstand, können aber die Beweiswürdigung beeinflussen. Das Bundesgericht hat in einem Verwaltungsverfahren über ein Ausstandsbegehren bestätigt, dass die Verfügung über den Ausstand als selbstständig anfechtbare Zwischenverfügung zu behandeln ist und dass die Beschwerdeinstanz den Ausstandsgrund umfassend zu prüfen hat ([BGer 1C_488/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_488_2016) — Verfügung über Ausstandsbegehren; [BGer 1C_387/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_387_2024) — Verwaltungsverfahren; Ausstandsbegehren).
 
 ### VI. Verwirkung und Rügeobliegenheit
 
-**18** Der Einwand des Organmangels wegen Verletzung der Ausstandspflicht kann **verwirkt** werden, wenn die Partei sich auf das Verfahren einlässt, ohne den Ausstand rechtzeitig geltend zu machen. Die Verwirkung tritt ein, wenn die Partei nach Kenntnisnahme vom möglichen Ausstandsgrund prozessual handelt (z.B. Anträge stellt oder sich zur Sache äussert), ohne den Ausstand zu beanstanden (BGE 132 II 485 E. 4 — UMTS-Konzession; Verwirkung des Anspruchs auf Anrufung eines Organmangels durch Einlassung).
+**18** Der Einwand des Organmangels wegen Verletzung der Ausstandspflicht kann **verwirkt** werden, wenn die Partei sich auf das Verfahren einlässt, ohne den Ausstand rechtzeitig geltend zu machen. Die Verwirkung tritt ein, wenn die Partei nach Kenntnisnahme vom möglichen Ausstandsgrund prozessual handelt (z.B. Anträge stellt oder sich zur Sache äussert), ohne den Ausstand zu beanstanden (BGE 132 II 485 E. 4 — UMTS-Konzession; Verwirkung des Anspruchs auf Anrufung eines Organmangels durch Einlassung). Die Verwirkung setzt voraus, dass die Partei den Ausstandsgrund kannte oder kennen musste und dass sie sich trotz dieses Wissens in das Verfahren einlässt ([BGer 2C_305/2011](https://mcp.opencaselaw.ch/entscheid/bger_2C_305_2011) — Art. 29 Abs. 1 BV; Ausstand).
 
 ### VII. Rechtsfolgen der Ausstandsverletzung
 
