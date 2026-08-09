@@ -2,11 +2,16 @@
 title: "Art. 14 — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-08-09
-lastmod: 2026-08-09d
+lastmod: 2026-08-09e
 description: "Kommentar zu Art. 14 BV – Recht auf Ehe und Familie: Eheschliessungsfreiheit, Familienschutz, Familiennachzug, Verhältnismässigkeit staatlicher Eingriffe"
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09e
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Vierte Audit-Überarbeitung: Gesetzeswortlaut wortwörtlich verifiziert (Fedlex: 'Das Recht auf Ehe und Familie ist gewährleistet.' = korrekt); BGE 139 I 37 entfernt (check_claim_support=no/0.95, primär Art. 8 EMRK/Familiennachzug); BGE 139 I 330 entfernt (check_claim_support=no/0.90, primär Art. 8 EMRK/Art. 13 BV/Art. 14 AsylG); BGE 138 I 41=partial/0.85; BGE 137 I 351=partial/0.82; BGE 143 I 241=yes/0.97; BGE 126 II 425=partial/0.82(Negativnachweis); Hinweis ergänzt zur primären Stützung auf Art. 8 EMRK/Art. 13 BV; 1 supported + 3 partiell unterstützt + 1 Negativnachweis = 5 verifizierte Zitate. Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; die massgeblichen Entscheide stützen sich primär auf Art. 8 EMRK"
   - date: 2026-08-09d
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -80,12 +85,14 @@ revisions:
 #### B. Familiennachzug und Aufenthaltsrecht
 
 **11** Das Bundesgericht hat in ständiger Rechtsprechung anerkannt, dass die **Verweigerung einer Aufenthaltsbewilligung** an ausländische Familienangehörige einen Eingriff in Art. 14 BV i.V.m. Art. 8 EMRK darstellen kann. Die Interessenabwägung muss berücksichtigen:
-- Die **Intensität der familiären Bindungen** ([BGE 139 I 37](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_37) E. 4, *partiell unterstützt*: check_claim_support=0.85 — Weigerung der Migrationsbehörde, Familiennachzugsgesuch zu prüfen)
+- Die **Intensität der familiären Bindungen**
 - Die **Zumutbarkeit der Ausreise** aller Betroffenen
 - Die **Integration** des Ausländers in der Schweiz
 - **Ordnungs- und sicherheitspolizeiliche Gründe**
 
-**12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen hat das Bundesgericht präzisiert, dass Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen verlangt, soweit die Voraussetzungen erfüllt sind ([BGE 139 I 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_330) E. 5, *partiell unterstützt*: check_claim_support=0.75 — primär Art. 8 EMRK, Art. 23 FK, Art. 13 Abs. 1 BV, Art. 14 Abs. 1 AsylG; Familiennachzug von anerkannten Flüchtlingen).
+*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK).*
+
+**12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen verlangt Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen, soweit die Voraussetzungen erfüllt sind. Die Rechtsprechung stützt sich hierbei jedoch primär auf Art. 8 EMRK und Art. 13 Abs. 1 BV bzw. Art. 14 Abs. 1 AsylG (vgl. hierzu die Leitentscheide zum Familiennachzug in der Kommentierung zu Art. 8 EMRK und Art. 13 BV).
 
 **13** Gleichgeschlechtliche Partnerschaften: Das Bundesgericht hatte anerkannt, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten, jedoch unter den Schutzbereich von Art. 8 EMRK fielen ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 4, *Negativnachweis*: gleichgeschlechtliche Partnerschaften stellten KEIN Familienleben i.S.v. Art. 14 BV dar). Seit der Ehe für alle (1. Juli 2022) hat sich diese Dogmatik zugunsten eines einheitlichen Schutzes beider Eheformen gewandelt.
 
