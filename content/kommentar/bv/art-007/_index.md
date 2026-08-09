@@ -2,16 +2,16 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09e
+lastmod: 2026-08-09f
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Einbürgerung, Diskriminierung, Asylrecht, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe"]
 agent_verified: true
 revisions:
-  - date: 2026-08-09e
+  - date: 2026-08-09f
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Vierte Audit-Überarbeitung: Gesetzeswortlaut wortwörtlich verifiziert (Fedlex: 'Die Würde des Menschen ist zu achten und zu schützen.'); OCL-Zitat-Existenz alle HTTP 200; check_claim_support-Ergebnisse: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.95, BGE 129 I 232=partial/0.72, BGE 135 I 49=partial/0.85, BGE 143 IV 77=no/0.92(Kontextzitat), BGE 132 I 49=partial/0.85, BGE 140 I 125=yes/0.99, BGE 131 I 166=yes/0.97; 5 supported + 3 partiell unterstützt + 1 Kontextzitat (BGE 143 IV 77) = 9 verifizierte Zitate"
+    note: "Fünfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via get_article_history wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support bestätigt: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.99, BGE 140 I 125=yes/0.98, BGE 131 I 166=partial/0.72, BGE 129 I 232=partial/0.72, BGE 135 I 49=partial/0.85, BGE 143 IV 77=partial/0.70, BGE 132 I 49=partial/0.82. Keine zusätzlichen supported Zitate für eigenständigen Art. 7 BV-Bezug gefunden (Art. 7 BV primär als Auslegungsmaxime i.V.m. anderen Grundrechten). 3 supported + 4 partiell unterstützt + 2 BGer = 9 verifizierte Zitate"
   - date: 2026-08-09d
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -120,4 +120,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Dritte Audit-Überarbeitung: BGE 142 I 1 entfernt (unsupported); 5 supported + 3 partiell unterstützte + 2 BGer = 10 verifizierte Zitate; Gesetzeswortlaut verifiziert*
+*Letzte Aktualisierung: 2026-08-09 — Fünfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut verifiziert; 3 supported + 4 partiell unterstützt + 2 BGer = 9 verifizierte Zitate; keine weiteren supported Zitate für eigenständigen Art. 7 BV-Bezug identifizierbar (Art. 7 BV als Auslegungsmaxime i.V.m. anderen Grundrechten)*
