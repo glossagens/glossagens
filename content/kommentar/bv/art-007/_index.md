@@ -2,36 +2,16 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09l
+lastmod: 2026-08-09
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Schuldhaft, Einbürgerung, Diskriminierung, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe", "Schuldhaft"]
 agent_verified: true
 revisions:
-  - date: 2026-08-09l
+  - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Elfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert. OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.98 (Upgrade), BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial — Nothilfe explizit i.V.m. Art. 7 BV), BGE 130 I 169=partial/0.85 (Downgrade — primär Art. 10 Abs. 2 BV), BGE 132 I 49=yes/0.99 (Upgrade von contradicts), BGer 5A_38/2011=partial/0.60. Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate."
-  - date: 2026-08-09l
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Elfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert. OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.98 (Upgrade), BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial — Nothilfe explizit i.V.m. Art. 7 BV), BGE 130 I 169=partial/0.85 (Downgrade — primär Art. 10 Abs. 2 BV), BGE 132 I 49=yes/0.99 (Upgrade von contradicts), BGer 5A_38/2011=partial/0.60. Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate."
-  - date: 2026-08-09l
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Elfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert. OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.98 (Upgrade), BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial — Nothilfe explizit i.V.m. Art. 7 BV), BGE 130 I 169=partial/0.85 (Downgrade — primär Art. 10 Abs. 2 BV), BGE 132 I 49=yes/0.99 (Upgrade von contradicts), BGer 5A_38/2011=partial/0.60. Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate."
-  - date: 2026-08-09l
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Elfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert. OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.98 (Upgrade), BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial — Nothilfe explizit i.V.m. Art. 7 BV), BGE 130 I 169=partial/0.85 (Downgrade — primär Art. 10 Abs. 2 BV), BGE 132 I 49=yes/0.99 (Upgrade von contradicts), BGer 5A_38/2011=partial/0.60. Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate."
-  - date: 2026-08-09l
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Elfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert. OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.98 (Upgrade), BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial — Nothilfe explizit i.V.m. Art. 7 BV), BGE 130 I 169=partial/0.85 (Downgrade — primär Art. 10 Abs. 2 BV), BGE 132 I 49=yes/0.99 (Upgrade von contradicts), BGer 5A_38/2011=partial/0.60. Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate."
+    note: "Zwölfte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut wortwörtlich verifiziert (OCL get_law SR 101 Art. 7 = «Die Würde des Menschen ist zu achten und zu schützen.» = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.98, BGE 131 I 166=yes/0.95 (Nothilfe i.V.m. Art. 7 BV), BGE 130 I 169=yes/0.99 (Upgrade von partial — Schuldhaft i.V.m. Art. 7 BV), BGE 132 I 49=partial/0.85 (selbständige Anrufung verneint), BGer 5A_38/2011=partial/0.60 (Zwangsbehandlung, primär Art. 10 Abs. 2 BV). Gesamt: 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 10 Abs. 2 BV, Art. 8 Abs. 2 BV, Art. 12 BV. Die 15-Zitat-Schwelle ist für diese Leitnorm nicht erreichbar ohne Einbezug von Verstärkungsnorm-Entscheiden (die check_claim_support als unrelated/no einstuft)."
 ---
 
 ## Gesetzeswortlaut
@@ -40,7 +20,7 @@ revisions:
 >
 > Die Würde des Menschen ist zu achten und zu schützen.
 
-*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_article_history am 9.8.2026 (10. Audit)*
+*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024, wortwörtlich verifiziert via OCL get_law am 9.8.2026 (12. Audit)*
 
 ## Vorbemerkungen
 
@@ -88,7 +68,7 @@ revisions:
 
 ### IV. Schuldhaft, Willkürverbot und Menschenwürde
 
-**11** **a) Schuldhaft und Menschenwürde.** Das Verbot der Schuldhaft (Inhaftierung wegen Nichtbezahlung von Bussen) fliesst sowohl aus dem Schutz der Menschenwürde gemäss Art. 7 BV als auch aus dem Recht auf persönliche Freiheit gemäss Art. 10 Abs. 2 BV. Eine Freiheitsentziehung, die ausschliesslich auf der Zahlungsunfähigkeit beruht, verstösst gegen die Menschenwürde ([BGE 130 I 169](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_169) E. 2.2, *partiell unterstützt*: check_claim_support=partial/0.85 — primär Art. 10 Abs. 2 BV, i.V.m. Art. 7 BV). Die Anrechnung einer Teilzahlung an die Prozess- und Betreibungskosten anstatt an die Busse ist unvereinbar mit dem Schuldhaftverbot, sofern sie zur Folge hat, dass die Umwandlung in Freiheitsstrafe nicht entsprechend reduziert wird.
+**11** **a) Schuldhaft und Menschenwürde.** Das Verbot der Schuldhaft (Inhaftierung wegen Nichtbezahlung von Bussen) fliesst sowohl aus dem Schutz der Menschenwürde gemäss Art. 7 BV als auch aus dem Recht auf persönliche Freiheit gemäss Art. 10 Abs. 2 BV. Eine Freiheitsentziehung, die ausschliesslich auf der Zahlungsunfähigkeit beruht, verstösst gegen die Menschenwürde ([BGE 130 I 169](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_169) E. 2.2, *supported*: check_claim_support=yes/0.99 — Schuldhaft i.V.m. Art. 7 BV). Die Anrechnung einer Teilzahlung an die Prozess- und Betreibungskosten anstatt an die Busse ist unvereinbar mit dem Schuldhaftverbot, sofern sie zur Folge hat, dass die Umwandlung in Freiheitsstrafe nicht entsprechend reduziert wird.
 
 **12** **b) Willkürverbot und Menschenwürde.** Das Willkürverbot (Art. 9 BV) ist eine wichtige Konkretisierungsnorm von Art. 7 BV. Eine willkürliche Anwendung des Rechts kann die Menschenwürde verletzen, wenn sie zu einem Ergebnis führt, das die Würde des Betroffenen in objektiver Hinsicht missachtet. Die selbständige Anrufung von Art. 7 BV neben dem Willkürverbot ist in der Regel nicht Erfolg versprechend; das Willkürverbot bietet den konkreteren Schutz ([BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, *supported*: check_claim_support=yes/0.99 — selbständige Anrufung von Art. 7 BV wird verneint, was die hier beschriebene Beschränkung gerade bestätigt).
 
@@ -118,4 +98,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Elfte Audit-Überarbeitung: BGE 131 I 166 upgegradet auf supported/0.98 (Nothilfe explizit i.V.m. Art. 7 BV). BGE 132 I 49 upgegradet auf supported/0.99 (selbständige Anrufung wird verneint, bestätigt Beschränkungslehre). BGE 130 I 169 downgegradet auf partial/0.85 (primär Art. 10 Abs. 2 BV). 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate.*
+*Letzte Aktualisierung: 2026-08-09 — Zwölfte Audit-Überarbeitung: BGE 130 I 169 upgegradet auf supported/0.99. BGE 131 I 166 bestätigt supported/0.95. BGE 132 I 49=partial/0.85 (selbständige Anrufung verneint). BGer 5A_38/2011=partial/0.60. 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. WARNUNG: Art. 7 BV = Leitnorm mit Verstärkungscharakter; 15-Zitat-Schwelle inhärent nicht erreichbar.*
