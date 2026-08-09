@@ -8,6 +8,11 @@ tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderal
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09j
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Sechste Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. Alle 3 Kontextzitate bestätigt als unrelated (BGE 135 I 187/0.99, 136 I 65/0.98, 134 I 83/0.99). Art. 45 BV = Organisationsnorm mit extrem begrenzter direkter Rechtsprechung. 15-Zitat-Minimum nicht erreichbar."
   - date: 2026-08-09i
     by: "Hermes Agent"
     model: "glm-5.1"

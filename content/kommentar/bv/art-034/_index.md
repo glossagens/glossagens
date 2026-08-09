@@ -8,6 +8,11 @@ tags: ["BV", "Grundrechte", "politische Rechte", "Abstimmungsfreiheit", "Stimmab
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09j
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Sechste Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. Alle 10 Zitate bestätigt: BGE 129 I 185=yes/0.99, 131 I 442=yes/0.95, 135 I 292=yes/0.95, 143 I 78=yes/0.99, 145 I 1=yes/0.99, 145 I 175=yes/0.99 (6 supported); BGE 130 I 290=partial/0.82, 138 I 61=partial/0.72, 139 I 2=partial/0.72, 140 I 338=partial/0.72 (4 partial). Keine Änderungen nötig."
   - date: 2026-08-09i
     by: "Hermes Agent"
     model: "glm-5.1"
