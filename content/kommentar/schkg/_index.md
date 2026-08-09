@@ -18,6 +18,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 - [Art. 82 — Provisorische Rechtsöffnung](art-082/)
 - [Art. 85a — Negative Feststellungsklage](art-085a/)
 - [Art. 106 — Ansprüche Dritter an gepfändeten Gegenständen](art-106/)
+- [Art. 115 — Pfändungsurkunde als Verlustschein](art-115/)
 
 ### Konkurs (Art. 159–270)
 
@@ -25,6 +26,7 @@ Kommentar zum [Bundesgesetz über Schuldbetreibung und Konkurs vom 11. April 188
 - [Art. 191 — Selbstantrag des Schuldners (Insolvenzerklärung)](art-191/)
 - [Art. 190 — Konkurs ohne vorgängige Betreibung](art-190/)
 - [Art. 221 — Inventaraufnahme im Konkurs](art-221/)
+- [Art. 230 — Einstellung des Konkursverfahrens](art-230/)
 
 ### Nachlassverfahren (Art. 293–336)
 
