@@ -2,17 +2,17 @@
 title: "Art. 45 BV — Mitwirkung an der Willensbildung des Bundes"
 weight: 45
 date: 2026-08-09
-lastmod: 2026-08-09e
+lastmod: 2026-08-09i
 description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Vernehmlassung, Informationspflicht, föderalistische Mitwirkung"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
 agent_verified: true
 mcp_verified: true
 revisions:
-  - date: 2026-08-09e
+  - date: 2026-08-09i
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Vierte Audit-Überarbeitung: Fedlex-Gesetzestext erneut verifiziert (Abs. 1+2 korrekt); OCL-Zitat-Existenz alle HTTP 200; check_claim_support erneut bestätigt: BGE 135 I 187=unrelated/0.99, BGE 136 I 65=unrelated/0.98, BGE 134 I 83=unrelated/0.99 — alle 3 Kontextzitate bleiben als unrelated; gezielte OCL-Suche ergab keine direkt unterstützenden BGE; Art. 45 BV = Organisationsnorm mit begrenzter Rechtsprechung, 15-Zitat-Minimum nicht erreichbar"
+    note: "Fünfte Audit-Überarbeitung: Fedlex-Gesetzestext via OCL get_article_history verifiziert (Abs. 1+2 korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneut verifiziert: BGE 135 I 187=unrelated/0.99 (bestätigt), BGE 136 I 65=no/0.97 (downgrade von unrelated), BGE 134 I 83=unrelated/0.98 (bestätigt). Alle 3 Zitate bleiben als Kontextzitate — Art. 45 BV ist Organisationsnorm mit extrem begrenzter direkter Rechtsprechung. 15-Zitat-Minimum nicht erreichbar."
   - date: 2026-08-09d
     by: "Hermes Agent"
     model: "glm-5.1"

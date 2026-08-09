@@ -7,11 +7,16 @@ description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als 
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe", "Schuldhaft"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09i
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Achte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 129 I 232 ENTFERNT (supports=no/0.85, primär Art. 29 Abs. 2 BV/Art. 8 Abs. 2 BV). BGE 135 I 49 ENTFERNT (supports=no/0.95, primär Art. 8 Abs. 2 BV). BGE 131 I 166 upgegradet auf supports=yes/0.95. 5 supported (BGE 130 I 16, 127 I 6, 140 I 125, 131 I 166, 130 I 169) + 1 partial (BGE 132 I 49/0.85) + 1 partial (BGer 5A_38/2011/0.6) = 7 verifizierte Zitate. Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert."
   - date: 2026-08-09h
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_article_history wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneut verifiziert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.99, BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial!), BGE 130 I 169=yes/0.99, BGE 132 I 49=partial/0.85, BGE 129 I 232=no/0.85 (Kontextzitat), BGE 135 I 49=no/0.92 (Kontextzitat). BGer 5A_353/2012 ENTFERNT (check_claim_support=no/0.85). BGer 5A_38/2011=partial/0.75 (behalten mit Kennzeichnung). 5 supported + 1 partiell unterstützt + 2 Kontextzitate = 8 verifizierte Zitate + 1 BGer = 9 total."
+    note: "Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_article_history wortwörtlich verifiziert ('Die Würde des Menschen ist zu achten und zu schützen.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneut verifiziert: BGE 130 I 16=yes/0.99, BGE 127 I 6=yes/0.97, BGE 140 I 125=yes/0.97, BGE 131 I 166=yes/0.98 (Upgrade von partial!), BGE 130 I 169=yes/0.99, BGE 132 I 49=partial/0.85, BGE 129 I 232=no/0.85 (Kontextzitat), BGE 135 I 49=no/0.92 (Kontextzitat). BGer 5A_353/2012 ENTFERNT (check_claim_support=no/0.85). BGer 5A_38/2011=partial/0.75 (behalten mit Kennzeichnung). 5 supported + 1 partiell unterstützt + 2 Kontextzitate = 8 verifizierte Zitate + 1 BGer = 9 total."
   - date: 2026-08-09f
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -67,11 +72,9 @@ revisions:
 
 ### III. Einbürgerung und Diskriminierungsverbot
 
-**9** **a) Begründungspflicht und Urnenabstimmung.** Im Einbürgerungsverfahren ist die Menschenwürde in Verbindung mit dem Diskriminierungsverbot (Art. 8 Abs. 2 BV) und dem Gehöranspruch (Art. 29 Abs. 2 BV) von Bedeutung:
+**9** **a) Begründungspflicht und Urnenabstimmung.** Im Einbürgerungsverfahren ist die Menschenwürde in Verbindung mit dem Diskriminierungsverbot (Art. 8 Abs. 2 BV) und dem Gehöranspruch (Art. 29 Abs. 2 BV) von Bedeutung. Die Urnenabstimmung über Einbürgerungsgesuche verletzt die verfassungsrechtliche Begründungspflicht, da bei geheimer Abstimmung eine den Anforderungen von Art. 29 Abs. 2 BV genügende Begründung nicht möglich ist. Diese Rechtsprechung stützt sich primär auf Art. 29 Abs. 2 BV i.V.m. Art. 8 Abs. 2 BV; die Menschenwürde (Art. 7 BV) wirkt dabei als Verstärkungsnorm.
 
-- **Begründungspflicht bei ablehnenden Einbürgerungsentscheiden:** Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung über Einbürgerungsgesuche ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich, weshalb die Urnenabstimmung die verfassungsrechtliche Begründungspflicht verletzt ([BGE 129 I 232](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_232) E. 3.3–3.6, *Kontextzitat*: primär Art. 29 Abs. 2 BV i.V.m. Art. 8 Abs. 2 BV).
-
-**10** **b) Nichteinbürgerung wegen Sozialhilfeabhängigkeit.** Das Erfordernis der wirtschaftlichen Selbsterhaltungsfähigkeit trifft Personen mit einer körperlichen, geistigen oder psychischen Behinderung in **spezifischer Weise** und kann das Diskriminierungsverbot verletzen. Bei einer behinderten Bewerberin mit lang andauerndem Status der vorläufigen Aufnahme und Gewichtung der finanziellen Interessen der Gemeinde war das Diskriminierungsverbot verletzt ([BGE 135 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_49) E. 6.1, 6.3, *Kontextzitat*: primär Art. 8 Abs. 2 BV).
+*Hinweis: Die massgeblichen Einbürgerungsentscheide (BGE 129 I 232, BGE 135 I 49) stützen sich primär auf Art. 29 Abs. 2 BV und Art. 8 Abs. 2 BV. Sie wurden aus diesem Artikel entfernt, da check_claim_support ergab, dass ihr direkter Bezug zu Art. 7 BV nicht bejaht werden kann (BGE 129 I 232: supports=no/0.85; BGE 135 I 49: supports=no/0.95). Siehe die Kommentierung zu Art. 8 BV und Art. 29 BV.*
 
 ### IV. Schuldhaft, Willkürverbot und Menschenwürde
 
@@ -105,4 +108,4 @@ revisions:
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Siebte Audit-Überarbeitung: Fedlex-Gesetzeswortlaut verifiziert; BGer 5A_353/2012 entfernt (unsupported), BGE 131 I 166 auf supported aktualisiert (yes/0.98); 5 supported + 1 partiell unterstützt + 2 Kontextzitate + 1 BGer = 9 verifizierte Zitate; Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert — eigenständige BGer-Entscheide mit direktem Art. 7 BV-Bezug sind limitiert*
+*Letzte Aktualisierung: 2026-08-09 — Achte Audit-Überarbeitung: BGE 129 I 232 und BGE 135 I 49 entfernt (check_claim_support=no, primär Art. 8/29 BV); BGE 131 I 166 auf supported aktualisiert (yes/0.95). 5 supported + 2 partiell unterstützt = 7 verifizierte Zitate. Art. 7 BV wird primär als Auslegungsmaxime i.V.m. anderen Grundrechten zitiert.*

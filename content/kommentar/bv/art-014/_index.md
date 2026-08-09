@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 14 BV – Recht auf Ehe und Familie: Eheschliess
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09i
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Achte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 137 I 351=yes/0.97, BGE 138 I 41=yes/0.95, BGE 143 I 241=partial/0.72 (primär Art. 10 Abs. 2 BV/Besuchsrecht), BGE 126 II 425=partial/0.72 (Negativnachweis gleichgeschlechtliche Partnerschaften), BGer 2C_376/2022=partial/0.6 (primär Art. 8 EMRK). Keine unsupported Zitate entfernt da alle bereits markiert. 2 supported + 3 partiell unterstützt = 5 verifizierte Zitate. Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV."
   - date: 2026-08-09h
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -65,7 +70,7 @@ revisions:
 
 #### A. Grundgehalt
 
-**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *partiell unterstützt*: check_claim_support=0.85; [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *supported*: check_claim_support=yes/0.97).
+**4** Das Recht auf Eheschliessung umfasst die Freiheit, eine Ehe mit der frei gewählten Person einzugehen — unabhängig von Nationalität, Religion oder sonstigen Merkmalen. Einschränkungen der Eheschliessungsfreiheit müssen sich auf eine gesetzliche Grundlage stützen, im öffentlichen Interesse liegen und verhältnismässig sein ([BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41) E. 4, *supported*: check_claim_support=yes/0.95; [BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351) E. 5, *supported*: check_claim_support=yes/0.97).
 
 **5** Die Eheschliessungsfreiheit wird insbesondere relevant im Kontext des Ausländerrechts: Die Verweigerung einer Aufenthaltsbewilligung an einen ausländischen Ehepartner eines Schweizer Bürgers stellt einen Eingriff in Art. 14 BV i.V.m. Art. 8 EMRK dar, der einer Verhältnismässigkeitsprüfung unterzogen werden muss.
 
@@ -73,7 +78,7 @@ revisions:
 
 **6** Die Ehefähigkeit bestimmt sich nach den Art. 94 ff. ZGB. Eheverbote (Art. 100 ZGB) sind restriktiv auszulegen, da sie in das Grundrecht aus Art. 14 BV eingreifen. Das Bundesgericht hat anerkannt, dass das Transsexuellenurteil die Eheschliessungsfreiheit für transsexuelle Personen stärkt.
 
-**7** Die Eintragung von gleichgeschlechtlichen Partnerschaften (eingetragene Partnerschaft, LPartG) stellte eine zulässige Ausgestaltung des Grundrechts dar, jedoch keinen vollständigen Ersatz für die Ehe. Seit der Öffnung der Ehe für alle (Ehe für alle, seit 1. Juli 2022) hat Art. 14 BV seine Bedeutung im Kontext der Gleichbehandlung von Paaren unabhängig der sexuellen Orientierung erneuert. Das Bundesgericht hatte jedoch in BGE 126 II 425 festgehalten, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten — eine Auffassung, die durch die Ehe für alle überholt ist ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 5, *Negativnachweis*: gleichgeschlechtliche Partnerschaften stellten zum Zeitpunkt des Entscheids KEIN Familienleben i.S.v. Art. 14 BV dar; durch Ehe für alle seit 1.7.2022 überholt).
+**7** Die Eintragung von gleichgeschlechtlichen Partnerschaften (eingetragene Partnerschaft, LPartG) stellte eine zulässige Ausgestaltung des Grundrechts dar, jedoch keinen vollständigen Ersatz für die Ehe. Seit der Öffnung der Ehe für alle (Ehe für alle, seit 1. Juli 2022) hat Art. 14 BV seine Bedeutung im Kontext der Gleichbehandlung von Paaren unabhängig der sexuellen Orientierung erneuert. Das Bundesgericht hatte jedoch in BGE 126 II 425 festgehalten, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten — eine Auffassung, die durch die Ehe für alle überholt ist ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 5, *partiell unterstützt/Negativnachweis*: check_claim_support=partial/0.72 — gleichgeschlechtliche Partnerschaften stellten zum Zeitpunkt des Entscheids KEIN Familienleben i.S.v. Art. 14 BV dar; durch Ehe für alle seit 1.7.2022 überholt).
 
 #### C. Rechtmässiger Aufenthalt und Ehevorbereitung
 
@@ -85,7 +90,7 @@ revisions:
 
 **9** Der familiäre Schutzbereich umfasst die **Kernfamilie** (Eltern und minderjährige Kinder) und die **erweiterte Familie** (volljährige Kinder, Geschwister, Grosseltern), wobei letztere nur unter besonderen Umständen dem Schutz von Art. 14 BV unterfällt. Massgeblich ist das Bestehen einer tatsächlichen familiären Beziehung, nicht nur die rechtliche Verwandtschaft.
 
-**10** Art. 14 BV schützt das familiäre Zusammenleben in seinem **Bestand** (Schutz vor Trennung) und in seiner **Entfaltung** (Schutz der familiären Beziehungen). Der Schutz umfasst auch die **elterliche Sorge** (Art. 296 ff. ZGB), das **Besuchsrecht** (Art. 273 ZGB) und den **Kindesschutz** (Art. 307 ff. ZGB; [BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3 — Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern).
+**10** Art. 14 BV schützt das familiäre Zusammenleben in seinem **Bestand** (Schutz vor Trennung) und in seiner **Entfaltung** (Schutz der familiären Beziehungen). Der Schutz umfasst auch die **elterliche Sorge** (Art. 296 ff. ZGB), das **Besuchsrecht** (Art. 273 ZGB) und den **Kindesschutz** (Art. 307 ff. ZGB; [BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *partiell unterstützt*: check_claim_support=partial/0.72 — primär Art. 10 Abs. 2 BV/persönliche Freiheit bei Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern).
 
 #### B. Familiennachzug und Aufenthaltsrecht
 
@@ -95,11 +100,11 @@ revisions:
 - Die **Integration** des Ausländers in der Schweiz
 - **Ordnungs- und sicherheitspolizeiliche Gründe**
 
-*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.70).*
+*Hinweis: Die massgeblichen BGer-Entscheide zum Familiennachzug stützen sich primär auf Art. 8 EMRK und Art. 13 BV; eine direkte Stützung auf Art. 14 BV allein ist in der Rechtsprechung selten (vgl. BGer 2C_376/2022 E. 1.2 — Verweigerung einer Kurzaufenthaltsbewilligung zur Ehevorbereitung vereitelt Recht auf Ehe nach Art. 14 BV i.V.m. Art. 8 EMRK, *partiell unterstützt*: check_claim_support=partial/0.60 — primär Art. 8 EMRK).*
 
 **12** Im Kontext des **Familiennachzugs** von anerkannten Flüchtlingen verlangt Art. 14 BV i.V.m. Art. 8 EMRK und Art. 23 FK den Nachzug von Familienangehörigen, soweit die Voraussetzungen erfüllt sind. Die Rechtsprechung stützt sich hierbei jedoch primär auf Art. 8 EMRK und Art. 13 Abs. 1 BV bzw. Art. 14 Abs. 1 AsylG (vgl. hierzu die Leitentscheide zum Familiennachzug in der Kommentierung zu Art. 8 EMRK und Art. 13 BV).
 
-**13** Gleichgeschlechtliche Partnerschaften: Das Bundesgericht hatte anerkannt, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten, jedoch unter den Schutzbereich von Art. 8 EMRK fielen ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 4, *Negativnachweis*: gleichgeschlechtliche Partnerschaften stellten KEIN Familienleben i.S.v. Art. 14 BV dar). Seit der Ehe für alle (1. Juli 2022) hat sich diese Dogmatik zugunsten eines einheitlichen Schutzes beider Eheformen gewandelt.
+**13** Gleichgeschlechtliche Partnerschaften: Das Bundesgericht hatte anerkannt, dass gleichgeschlechtliche Partnerschaften kein Familienleben i.S.v. Art. 14 BV darstellten, jedoch unter den Schutzbereich von Art. 8 EMRK fielen ([BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425) E. 4, *partiell unterstützt/Negativnachweis*: check_claim_support=partial/0.72 — gleichgeschlechtliche Partnerschaften stellten KEIN Familienleben i.S.v. Art. 14 BV dar). Seit der Ehe für alle (1. Juli 2022) hat sich diese Dogmatik zugunsten eines einheitlichen Schutzes beider Eheformen gewandelt.
 
 ### IV. Eingriffe in das Recht auf Ehe und Familie
 
@@ -143,4 +148,4 @@ revisions:
 
 **21** Die Geltendmachung von Art. 14 BV erfolgt im Verwaltungsrechtsweg (AuG, VZAE) oder im verwaltungsgerichtlichen Beschwerdeverfahren (Art. 82 ff. BGG). Bei aufenthaltsrechtlichen Entscheiden ist die Beschwerde an das Bundesgericht grundsätzlich nur zulässig, wenn die Rechtssuchende Partei ist und ein rechtliches Interesse geltend macht (Art. 89 BGG).
 
-**22** Im Eheschutz- und Kindesschutzverfahren (Art. 272 ff. ZGB) ist Art. 14 BV über die Kognition des Bundesgerichts (Art. 95 BGG) anwendbar. Die Verletzung von Art. 14 BV kann mit subsidiärer Verfassungsbeschwerde (Art. 113 ff. BGG) gerügt werden. Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern fällt unter Art. 14 BV i.V.m. Art. 10 Abs. 2 BV ([BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3).
+**22** Im Eheschutz- und Kindesschutzverfahren (Art. 272 ff. ZGB) ist Art. 14 BV über die Kognition des Bundesgerichts (Art. 95 BGG) anwendbar. Die Verletzung von Art. 14 BV kann mit subsidiärer Verfassungsbeschwerde (Art. 113 ff. BGG) gerügt werden. Besuchsrecht unter strafprozessual inhaftierten Lebenspartnern fällt unter Art. 14 BV i.V.m. Art. 10 Abs. 2 BV ([BGE 143 I 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241) E. 3, *partiell unterstützt*: partial/0.72 — primär Art. 10 Abs. 2 BV).
