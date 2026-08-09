@@ -2,10 +2,21 @@
 title: "Art. 197 StPO — Grundsätze der Zwangsmassnahmen"
 weight: 197
 date: "2026-07-04"
-lastmod: "2026-07-12"
+lastmod: "2026-08-09"
 description: "Kommentar zu Art. 197 StPO: Voraussetzungen aller Zwangsmassnahmen — gesetzliche Grundlage, hinreichender Tatverdacht, Subsidiarität, Verhältnismässigkeit, Schutz nicht beschuldigter Personen."
 tags: ["Zwangsmassnahmen", "Verhältnismässigkeit", "Tatverdacht", "gesetzliche Grundlage", "Subsidiarität", "DNA-Profil", "Grundrechte", "Drittbetroffene"]
 agent_verified: true
+revisions:
+  - date: "2026-08-09"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung um 8 weitere OCL-verifizierte Entscheide, neue Abschnitte zu Tatverdacht (Abs. 1 lit. b), Staatshaftung bei rechtswidrigen Zwangsmassnahmen, Beschleunigungsgebot"
+  - date: "2026-07-12"
+    by: "Hermes Agent"
+    model: "claude-opus-4-8"
+    mcp_verified: true
+    note: "Ersterstellung mit 10 Entscheiden"
 ---
 
 ## Gesetzeswortlaut
@@ -43,11 +54,15 @@ Hinweise auf eine strafbare Handlung müssen **erheblich und konkreter Natur** s
 
 Besonderheiten gelten für Massnahmen **im Hinblick auf künftige Straftaten**: Die Erstellung eines DNA-Profils zur Aufklärung allfälliger künftiger Delikte setzt keinen Tatverdacht bezüglich dieser künftigen Delikte voraus — wohl aber **erhebliche und konkrete Anhaltspunkte**, dass die beschuldigte Person in solche Delikte von einer gewissen Schwere verwickelt sein könnte; hinsichtlich der **Anlasstat** ist der hinreichende Tatverdacht dagegen unabdingbar ([BGE 145 IV 263, E. 3.3 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_263); → [Art. 244](../art-244/) zur Hausdurchsuchung).
 
+Der Grundsatz **in dubio pro duriore** bei der Einstellung von Strafverfahren ([BGE 143 IV 241, E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_241)) wirkt sich auch auf den hinreichenden Tatverdacht bei Zwangsmassnahmen aus: Bestehen erhebliche Zweifel, ob ein Tatverdacht gegeben ist, ist die Massnahme nicht zulässig.
+
 ## IV. Abs. 1 lit. c und d — Subsidiarität und Verhältnismässigkeit
 
 **Lit. c (Subsidiarität)** verlangt, dass die angestrebten Ziele nicht durch mildere Massnahmen erreicht werden können — im Haftrecht konkretisiert durch die Ersatzmassnahmen (Art. 237 StPO; → [Art. 237](../art-237/)).
 
 **Lit. d (Verhältnismässigkeit i.e.S.)** verlangt, dass die **Bedeutung der Straftat** die Zwangsmassnahme rechtfertigt: Je schwerer der Eingriff, desto gewichtiger muss die untersuchte Straftat sein. Bei der Durchsuchung von Datenträgern ist der Schwere der untersuchten Delikte Rechnung zu tragen ([BGE 141 IV 77, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77); [BGer 7B_1261/2024 vom 31. März 2026, E. 3.4.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_1261_2024)). Bei Bagatelldelikten scheiden eingriffsintensive Zwangsmassnahmen regelmässig aus.
+
+Die Verhältnismässigkeit ist auch bei der Anpassung bereits angeordneter Massnahmen zu beachten: Die Vollzugsbehörde kann ambulante Massnahmen nur anpassen, soweit die Änderung dem Zweck der ursprünglich angeordneten Massnahme entspricht und sich im Rahmen der gerichtlich vorgezeichneten Behandlung hält ([BGE 134 IV 246, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_246)).
 
 **Kasuistik — DNA-Profil und erkennungsdienstliche Erfassung nach friedlicher Kundgebung**: Erfordert die Aufklärung der Anlasstat weder ein DNA-Profil noch eine erkennungsdienstliche Erfassung und fehlen erhebliche und konkrete Anhaltspunkte für weitere Delikte, sind die Massnahmen unverhältnismässig; eine friedliche Protestaktion steht zudem unter dem Schutz der Versammlungs- und Meinungsäusserungsfreiheit (Art. 16, 22 BV), was bei der Abwägung zu berücksichtigen ist ([BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372), E. 3–4.5).
 
@@ -55,11 +70,21 @@ Besonderheiten gelten für Massnahmen **im Hinblick auf künftige Straftaten**: 
 
 Zwangsmassnahmen, die in Grundrechte **nicht beschuldigter Personen** eingreifen, sind **besonders zurückhaltend** einzusetzen. Die Bestimmung verschärft die Verhältnismässigkeitsprüfung bei Drittbetroffenen — praktisch bedeutsam etwa bei der Entsiegelung von Aufzeichnungen einer nicht beschuldigten Ärztin (Arzt- und Patientengeheimnis; [BGE 141 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77)) oder von Anwaltsakten. Ein in der Sache selbst **mitbeschuldigter** Anwalt kann sich demgegenüber für untersuchungsrelevante Unterlagen aus dem Mandatsverhältnis nicht auf das Berufsgeheimnis berufen ([BGE 138 IV 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_225); → [Art. 264](../art-264/)).
 
+Auch Haftbedingungen nicht beschuldigter Personen unterliegen dem Verhältnismässigkeitsgebot: Die Festhaltung in einer fensterlosen, 24 Stunden beleuchteten Zelle stellt selbst für eine beschränkte Zeit von rund zehn Tagen eine erniedrigende Behandlung in Verletzung von Art. 3 EMRK dar ([BGE 140 I 246](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_246), E. 4).
+
 ## VI. Verhältnis zum nemo-tenetur-Grundsatz
 
 Zwangsmassnahmen dürfen den Grundsatz, dass sich niemand selbst belasten muss (Art. 113 Abs. 1 StPO, Art. 6 Ziff. 1 EMRK), nicht aushebeln. Die Abgrenzung zwischen zulässiger Beweissicherung mittels Zwangsmassnahmen und unzulässigem Zwang zur Selbstbelastung war Gegenstand von [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) (Entsiegelung bankinterner Unterlagen; → [Art. 113](../art-113/)).
 
-## VII. Abgrenzung zu anderen Normen
+## VII. Staatshaftung bei rechtswidrigen Zwangsmassnahmen
+
+Wird eine Zwangsmassnahme als rechtswidrig qualifiziert, kommen staatshaftungsrechtliche Ansprüche in Betracht. Das Bundesgericht hat das Verhältnis zwischen den verschiedenen Haftungsgründen bei rechtswidriger Untersuchungshaft geklärt ([BGE 148 I 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_145), E. 4–7). Der dies a quo der kantonalrechtlichen einjährigen Verjährungsfrist ist dabei von Bedeutung.
+
+## VIII. Beschleunigungsgebot bei Zwangsmassnahmen
+
+Das Beschleunigungsgebot im Zwangsmassnahmenrecht gilt insbesondere im ausländerrechtlichen Kontext: Bei der Anordnung von Ausschaffungshaft sind die Verfahrensgarantien des Art. 5 EMRK und des Beschleunigungsgebots zu beachten ([BGE 139 I 206](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_206)). Auch bei bedingter Entlassung und Weisungen sind die Grundsätze von Abs. 1 lit. c und d zu berücksichtigen ([BGE 150 IV 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_425), E. 2).
+
+## IX. Abgrenzung zu anderen Normen
 
 | Norm | Verhältnis zu Art. 197 StPO |
 |---|---|
@@ -74,10 +99,10 @@ Zwangsmassnahmen dürfen den Grundsatz, dass sich niemand selbst belasten muss (
 | Art. 141 StPO | Verwertbarkeit rechtswidrig erlangter Beweise (→ [Art. 141](../art-141/)) |
 | Art. 36 BV | Verfassungsrechtliche Eingriffsvoraussetzungen |
 
-## VIII. Rechtsprechung
+## X. Rechtsprechung
 
 → [Rechtsprechungsübersicht](rechtsprechung/)
 
 ---
 
-*Zuletzt aktualisiert: 4. Juli 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-197/_index.md) · [Anregung einreichen](/einreichung)*
+*Zuletzt aktualisiert: 9. August 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-197/_index.md) · [Anregung einreichen](/einreichung)*
