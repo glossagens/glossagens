@@ -2,12 +2,17 @@
 title: "Art. 50 BV — Gemeindeautonomie"
 weight: 50
 date: 2026-08-09
-lastmod: 2026-08-09c
+lastmod: 2026-08-09d
 description: "Kommentar zu Art. 50 BV — Gemeindeautonomie nach Massgabe des kantonalen Rechts, Rücksichtnahmepflicht des Bundes, Städte und Agglomerationen"
 tags: ["BV", "Gemeindeautonomie", "Selbstverwaltung", "kantonales Recht", "Föderalismus", "Gemeinden"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09d
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "3. Audit-Durchlauf: BGE 135 I 233 ergänzt (partial/0.72 — Raumplanung/Gemeindekompetenz); Verifizierungstabelle aktualisiert"
   - date: 2026-08-09c
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -53,7 +58,7 @@ Die Gewährleistung ist **relativer** Natur: sie schützt nicht eine bestimmte A
 - **Personale Autonomie**: Recht der Gemeinde, ihr Personal selbst auszuwählen und zu organisieren
 - **Sachliche Autonomie**: Recht der Gemeinde, in bestimmten Sachgebieten eigenständig zu entscheiden
 
-Nicht zur Autonomie gehören Befugnisse, die der Gemeinde kraft Bundes- oder kantonalen Rechts **zwingend vorgeschrieben** sind. In diesen Bereichen verfügt die Gemeinde über keinen **autonomiegeschützten Spielraum**.
+Nicht zur Autonomie gehören Befugnisse, die der Gemeinde kraft Bundes- oder kantonalen Rechts **zwingend vorgeschrieben** sind. In diesen Bereichen verfügt die Gemeinde über keinen **autonomiegeschützten Spielraum**. Raumplanerische Massnahmen können in den autonomiegeschützten Bereich fallen, wenn die Gemeinde über einen echten planerischen Ermessensspielraum verfügt ([BGE 135 I 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_233) E. 2; *partiell unterstützt*: check_claim_support=partial/0.72 — primär Raumplanung, tangiert aber Gemeindekompetenz).
 
 **3** **Voraussetzungen der Autonomieprüfung.** Das Bundesgericht prüft die Verletzung der Gemeindeautonomie in zwei Stufen:
 
@@ -118,8 +123,9 @@ Die Rücksichtnahmepflicht konkretisiert sich in verschiedenen Bereichen:
 || BGE 138 I 143 | 25.01.2012 | Beschwerdebefugnis, Vergaberecht | 200 ✓ |
 || BGE 129 I 410 | 26.08.2002 | Submissionswesen GR, Autonomie | 200 ✓ |
 || BGE 136 I 395 | 11.03.2009 | Zonenvorschriften, Auslegungsspielraum | 200 ✓ |
+| BGE 135 I 233 | — | Raumplanung, Gemeindekompetenz | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09c — 2. Audit-Durchlauf: BGE 149 I 161 entfernt (unrelated), check_claim_support-Konfidenzwerte ergänzt*
+*Letzte Aktualisierung: 2026-08-09d — 3. Audit-Durchlauf: BGE 135 I 233 ergänzt (partial/0.72)*
 
 ## Verifizierungstabelle
 
@@ -132,6 +138,7 @@ Die Rücksichtnahmepflicht konkretisiert sich in verschiedenen Bereichen:
 | BGE 138 I 143 | 200 | yes (0.97) | Beschwerdebefugnis |
 | BGE 129 I 410 | 200 | yes (0.99) | Submissionswesen GR |
 | BGE 136 I 395 | 200 | yes (0.99) | Zonenvorschriften |
+| BGE 135 I 233 | 200 | partial (0.72) | Raumplanung, Gemeindekompetenz — Kontextzitat |
 | ~~BGE 149 I 161~~ | 200 | unrelated (0.99) | Entfernt: Gefängniskorrespondenz/Kinderschutz, nicht Art. 50 BV |
 | ~~BGE 148 I 225~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 147 I 67~~ | 404 | — | Entfernt: nicht in OCL |
