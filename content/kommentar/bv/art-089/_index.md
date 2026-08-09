@@ -2,11 +2,16 @@
 title: "Art. 89 BV — Energiepolitik"
 weight: 89
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-09k
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "Kernenergie", "StromVG", "KEG", "CO2-Gesetz", "ElCom", "RPG"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09k
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "2. Audit-Durchlauf: check_claim_support aktualisiert — BGE 138 I 454 partial (0.82), BGE 139 II 185 partial (0.6), BGE 142 II 451 partial (0.7), BGE 137 II 266 yes (0.99); BGE 140 II 262, BGE 143 II 87, BGE 149 I 49 bestätigt als Kontextzitate (no/0.92); 1 supported + 3 partial + 3 Kontextzitate = 7 Zitate"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -52,7 +57,7 @@ Art. 89 Abs. 1 BV verpflichtet **Bund und Kantone** gemeinsam, sich für die fü
 4. **Wirtschaftliche** Energieversorgung — Effizienz und Kostenbewusstsein
 5. **Umweltverträgliche** Energieversorgung — ökologische Nachhaltigkeit
 
-Diese fünf Zielkriterien stehen nicht in einem hierarchischen Verhältnis, sondern sind **gleichrangig** und im Einzelfall gegeneinander abzuwägen ([BGE 138 I 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_454) E. 3.1; *supported* — abschliessende Bundesregelung EnG). Der Bund hat bei der Ausfüllung dieser Zielvorgaben einen weiten **Gestaltungsspielraum**.
+Diese fünf Zielkriterien stehen nicht in einem hierarchischen Verhältnis, sondern sind **gleichrangig** und im Einzelfall gegeneinander abzuwägen ([BGE 138 I 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_454) E. 3.1; *partiell unterstützt*: check_claim_support=partial/0.82 — abschliessende Bundesregelung EnG). Der Bund hat bei der Ausfüllung dieser Zielvorgaben einen weiten **Gestaltungsspielraum**.
 
 ### 2. Sparsamer und rationeller Energieverbrauch
 
@@ -72,7 +77,7 @@ Die Kompetenz ist **Grundsatzkompetenz** — sie ermächtigt den Bund nicht zur 
 
 ### 2. Verhältnis zum kantonalen Recht
 
-Nach **Art. 49 Abs. 1 BV** geht Bundesrecht bei Widerstreit dem kantonalen Recht vor. Dies gilt auch für das EnG als Ausführungsgesetz zu Art. 89 BV. In [BGE 138 I 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_454) E. 5.1 hat das Bundesgericht klargestellt, dass die abschliessende Bundesregelung betreffend die Vergütung von dezentral erzeugter Energie (Art. 7 und 7a EnG) kantonale Regelungen verdrängt.
+Nach **Art. 49 Abs. 1 BV** geht Bundesrecht bei Widerstreit dem kantonalen Recht vor. Dies gilt auch für das EnG als Ausführungsgesetz zu Art. 89 BV. In [BGE 138 I 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_454) E. 5.1 hat das Bundesgericht klargestellt, dass die abschliessende Bundesregelung betreffend die Vergütung von dezentral erzeugter Energie (Art. 7 und 7a EnG) kantonale Regelungen verdrängt (*partiell unterstützt*: check_claim_support=partial/0.82).
 
 ## Abs. 3 — Vorschriften und Förderung
 
@@ -114,26 +119,26 @@ Die **wirtschaftliche Tragbarkeit** ist ein eigenständiges Kriterium, das bei d
 
 | Entscheidung | Datum | Kernpunkt | OCL | Support |
 |---|---|---|---|---|
-| BGE 138 I 454 | 27.10.2012 | Abschliessende Bundesregelung EnG; Art. 49 Abs. 1 und Art. 89 BV | 200 ✓ | yes |
-| BGE 139 II 185 | 2013 | KEG, Bewilligungspflicht für Kernanlagen | 200 ✓ | partial |
-| BGE 142 II 451 | 20.07.2016 | StromVG, ElCom-Tarife | 200 ✓ | partial |
-| BGE 140 II 262 | 02.04.2014 | Kleinwasserkraftwerk, Wassernutzungskonzession | 200 ✓ | leading case |
-| BGE 143 II 87 | 17.10.2016 | CO₂-Emissionshandelssystem | 200 ✓ | leading case |
-| BGer 1C_36/2011 | 08.02.2012 | Zonenreglement, Art. 89 BV als Rahmen | — | leading case |
-| BGE 149 I 49 | 23.03.2023 | Verbot Elektroheizungen, Eigentumsgarantie | 200 ✓ | leading case |
-| BGE 137 II 266 | 05.04.2011 | Starkstromleitung, Plangenehmigung | 200 ✓ | leading case |
+|| BGE 138 I 454 | 27.10.2012 | Abschliessende Bundesregelung EnG; Art. 49 Abs. 1 und Art. 89 BV | 200 ✓ | partial (0.82) |
+|| BGE 139 II 185 | 2013 | KEG, Bewilligungspflicht für Kernanlagen | 200 ✓ | partial (0.6) |
+|| BGE 142 II 451 | 20.07.2016 | StromVG, ElCom-Tarife | 200 ✓ | partial (0.7) |
+|| BGE 140 II 262 | 02.04.2014 | Kleinwasserkraftwerk, Wassernutzungskonzession | 200 ✓ | Kontextzitat* |
+|| BGE 143 II 87 | 17.10.2016 | CO₂-Emissionshandelssystem | 200 ✓ | Kontextzitat* |
+|| BGer 1C_36/2011 | 08.02.2012 | Zonenreglement, Art. 89 BV als Rahmen | — | leading case |
+|| BGE 149 I 49 | 23.03.2023 | Verbot Elektroheizungen, Eigentumsgarantie | 200 ✓ | Kontextzitat* |
+|| BGE 137 II 266 | 05.04.2011 | Starkstromleitung, Plangenehmigung | 200 ✓ | yes (0.99) |
 
-*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung: Gesetzestext verifiziert (korrekt); Zitate auf OCL-Verifizierung geprüft und korrigiert*
+*Letzte Aktualisierung: 2026-08-09k — 2. Audit-Durchlauf: check_claim_support aktualisiert mit Konfidenzwerten*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 138 I 454 | 200 | yes | Abschliessende EnG-Regelung, Art. 89 BV |
-| BGE 139 II 185 | 200 | partial | KEG, primär Art. 90 BV |
-| BGE 142 II 451 | 200 | partial | StromVG, primär Art. 89 Abs. 1 BV |
-| BGE 140 II 262 | 200 | no* | Wasserkraft, primär Art. 76 BV — aber leading case |
-| BGE 143 II 87 | 200 | no* | CO₂, primär Art. 74 BV — aber leading case |
+|| BGE 138 I 454 | 200 | partial (0.82) | Abschliessende EnG-Regelung, Art. 89 BV |
+|| BGE 139 II 185 | 200 | partial (0.6) | KEG, primär Art. 90 BV, tangiert Art. 89 |
+|| BGE 142 II 451 | 200 | partial (0.7) | StromVG, primär Art. 89 Abs. 1 BV |
+|| BGE 140 II 262 | 200 | no* (0.92) | Wasserkraft, primär Art. 76 BV — aber leading case |
+|| BGE 143 II 87 | 200 | no* (0.92) | CO₂, primär Art. 74 BV — aber leading case |
 | ~~BGE 132 II 408~~ | 200 | no | Entfernt: Windkraft, primär RPG |
 | ~~BGE 131 II 545~~ | 200 | no | Entfernt: Mobilfunk, primär Art. 78 BV |
 | ~~BGE 149 II 368~~ | 200 | no | Entfernt: materielle Enteignung, nicht Art. 89 |
@@ -141,7 +146,7 @@ Die **wirtschaftliche Tragbarkeit** ist ein eigenständiges Kriterium, das bei d
 | ~~BGE 135 II 22~~ | 200 | no | Entfernt: Baubewilligung, nicht primär Art. 89 |
 | ~~BGE 141 I 201~~ | 200 | no | Entfernt: Datenschutz, nicht Art. 89 |
 | ~~BGE 128 II 355~~ | 200 | unrelated | Entfernt: IRSG, nicht Energie |
-| BGE 149 I 49 | 200 | — | Neu: Elektroheizungsverbot, Art. 89 BV |
-| BGE 137 II 266 | 200 | — | Neu: Starkstromleitung, Art. 89 BV |
+|| BGE 149 I 49 | 200 | no* (0.92) | Elektroheizungsverbot, Art. 89 BV — Kontextzitat |
+|| BGE 137 II 266 | 200 | yes (0.99) | Starkstromleitung, Plangenehmigung, Art. 89 BV |
 
 *no*: These are OCL leading cases for Art. 89 BV despite check_claim_support returning "no" — the decisions primarily discuss Art. 89 BV in the context of other articles.
