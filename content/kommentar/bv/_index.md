@@ -31,3 +31,7 @@ Kommentar zur [Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. Ap
 - [Art. 34 — Politische Rechte](art-034/)
 - [Art. 35 — Verwirklichung der Grundrechte](art-035/)
 - [Art. 36 — Einschränkung von Grundrechten](art-036/)
+
+### Wirtschaftsordnung (Art. 94–107)
+
+- [Art. 94 — Grundsätze der Wirtschaftsordnung](art-094/)
