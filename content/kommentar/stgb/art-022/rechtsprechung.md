@@ -5,7 +5,9 @@ date: 2026-06-28
 lastmod: 2026-06-28
 description: "Übersicht der Entscheide zu Art. 22 StGB – Versuch"
 tags: ["Rechtsprechung", "StGB", "Versuch", "untauglicher Versuch", "Strafmilderung"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Begriff und Voraussetzungen des Versuchs
@@ -109,4 +111,45 @@ agent_verified: false
 | BGE 138 IV 100 | Anstaltentreffen, Versuch im BetmG | Abs. 1 (qualifizierte Vorbereitung) | 2012 |
 | BGE 121 IV 49 | Vollendeter Versuch, Strafmilderung | Abs. 1 (fakultative Strafmilderung) | 1995 |
 
-*Letzte Aktualisierung: 28. Juni 2026*
+---
+
+## Neuere Rechtsprechung zum untauglichen Versuch
+
+### [BGer 6B_1211/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1211_2023), 3. März 2025
+- **Thema**: Untauglicher Versuch der qualifizierten ungetreuen Geschäftsbesorgung; Willkür
+- **Kernaussage**: Der untaugliche Versuch der qualifizierten ungetreuen Geschäftsbesorgung ist nur strafbar, wenn das Verhalten als ernstlicher Angriff auf das geschützte Rechtsgut erscheint. Mangels minimaler objektiver Gefährlichkeit entfällt die Strafbarkeit nach Art. 22 Abs. 1 StGB. Die Straflosigkeit nach Art. 22 Abs. 2 StGB (grober Unverstand) setzt eine besonders grobe Fehleinschätzung der Realität voraus.
+- **Einschlägig für**: Abs. 1 (untauglicher Versuch im Wirtschaftsstrafrecht), Abs. 2 (grober Unverstand)
+
+---
+
+### [BGer 6B_1422/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1422_2019), 28. Mai 2021
+- **Thema**: Mehrfache Veruntreuung, untauglicher Versuch der qualifizierten ungetreuen Geschäftsbesorgung
+- **Kernaussage**: Der untaugliche Versuch der mehrfachen qualifizierten ungetreuen Geschäftsbesorgung löst Straflosigkeit nach Art. 22 Abs. 2 StGB nicht aus, wenn das Verhalten als ernstlicher Angriff auf das geschützte Rechtsgut erscheint. Die Abgrenzung zwischen strafbarem untauglichen Versuch und straflosem groben Unverstand ist im Einzelfall vorzunehmen.
+- **Einschlägig für**: Abs. 1 (untauglicher Versuch), Abs. 2 (grober Unverstand)
+
+---
+
+### [BGer 6B_506/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_506_2019), 27. August 2019
+- **Thema**: Sexuelle Handlungen mit Kindern — untauglicher Versuch
+- **Kernaussage**: Der untaugliche Versuch sexueller Handlungen mit Kindern (Art. 187 StGB i.V.m. Art. 22 Abs. 1 StGB) ist strafbar, sofern das Verhalten als ernstlicher Angriff auf das geschützte Rechtsgut erscheint. Der grobe Unverstand im Sinne von Art. 22 Abs. 2 StGB wurde verneint, da der Täter zwar das Tatobjekt verkannte, die Gefährlichkeit des Verhaltens aber nicht entfiel.
+- **Einschlägig für**: Abs. 1 (untauglicher Versuch bei Sexualdelikten), Abs. 2 (grober Unverstand)
+
+---
+
+## Versuch bei qualifizierten Delikten
+
+### [BGer 6B_830/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_830_2022), 24. Oktober 2022
+- **Thema**: Mehrfacher teilweise versuchter qualifizierter Raub; Willkür
+- **Kernaussage**: Bei teilweisem Gelingen und teilweisem Misslingen der Tat ist die Strafzumessung für den Versuch nach Art. 22 Abs. 1 StGB vorzunehmen, während für die vollendeten Tatbestände der ordentliche Strafrahmen anwendbar bleibt. Die Konkurrenzregelungen sind entsprechend anzuwenden.
+- **Einschlägig für**: Abs. 1 (Versuch bei qualifizierten Delikten, Strafzumessung)
+
+---
+
+### [BGer 6B_913/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_913_2016), 13. April 2017
+- **Thema**: Versuchte qualifizierte Brandstiftung, Strafzumessung; Willkür, Grundsatz in dubio pro reo
+- **Kernaussage**: Die Strafmilderung nach Art. 22 Abs. 1 StGB steht im Ermessen des Gerichts (Kann-Vorschrift) und ist nicht zwingend. Im konkreten Fall wurde die versuchte qualifizierte Brandstiftung bejaht und die Strafzumessung im Rahmen des Ermessens vorgenommen.
+- **Einschlägig für**: Abs. 1 (fakultative Strafmilderung, Brandstiftung)
+
+---
+
+*Letzte Aktualisierung: 9. August 2026*

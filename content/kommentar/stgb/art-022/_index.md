@@ -6,6 +6,8 @@ lastmod: 2026-06-28
 description: "Kommentar zu Art. 22 StGB – Versuch"
 tags: ["StGB", "Versuch", "untauglicher Versuch", "Strafmilderung", "Allgemeiner Teil"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -88,3 +90,15 @@ Bis zum Inkrafttreten des revidierten Allgemeinen Teils am 1. Januar 2007 war de
 - [Art. 122 StGB](../art-122/) — Schwere Körperverletzung (versuchte KV)
 - Art. 21 StGB — Rücktritt vom Versuch (nicht als eigener Artikel im Kommentar vorhanden)
 - Art. 48a StGB — Mildernde Umstände (Strafmilderung im Rahmen von Art. 22)
+
+### IX. Neuere Rechtsprechung zum untauglichen Versuch
+
+Die neuere Rechtsprechung hat die Grundsätze zum untauglichen Versuch in verschiedenen Deliktsbereichen konkretisiert. In [BGer 6B_1211/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1211_2023) befasste sich das Bundesgericht mit dem untauglichen Versuch der qualifizierten ungetreuen Geschäftsbesorgung und hielt fest, dass die Strafbarkeitsgrenze des untauglichen Versuchs auch im Wirtschaftsstrafrecht gilt — mangels minimaler objektiver Gefährlichkeit entfällt die Strafbarkeit. Ebenso entschied es in [BGer 6B_1422/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1422_2019), dass der untaugliche Versuch der mehrfachen qualifizierten ungetreuen Geschäftsbesorgung Straflosigkeit nach Art. 22 Abs. 2 StGB nicht auslöst, wenn das Verhalten als ernstlicher Angriff auf das geschützte Rechtsgut erscheint.
+
+Im Bereich der Sexualdelikte entschied das Bundesgericht in [BGer 6B_506/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_506_2019), dass der untaugliche Versuch sexueller Handlungen mit Kindern (Art. 187 StGB i.V.m. Art. 22 Abs. 1 StGB) strafbar ist, sofern das Verhalten als ernstlicher Angriff auf das geschützte Rechtsgut erscheint. Der grobe Unverstand im Sinne von Art. 22 Abs. 2 StGB wurde verneint, da der Täter zwar das Tatobjekt verkannte, die Gefährlichkeit des Verhaltens aber nicht entfiel.
+
+### X. Versuch bei qualifizierten Delikten
+
+In [BGer 6B_830/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_830_2022) befasste sich das Bundesgericht mit dem teilweise versuchten qualifizierten Raub (Art. 140 Ziff. 2 StGB i.V.m. Art. 22 Abs. 1 StGB) und stellte klar, dass bei teilweisem Gelingen und teilweisem Misslingen der Tat die Strafzumessung für den Versuch nach Art. 22 Abs. 1 StGB zu erfolgen hat, während für die vollendeten Tatbestände der ordentliche Strafrahmen anwendbar bleibt.
+
+In [BGer 6B_913/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_913_2016) behandelte das Bundesgericht die versuchte qualifizierte Brandstiftung (Art. 221 Abs. 1 StGB i.V.m. Art. 22 Abs. 1 StGB) und bestätigte, dass die Strafmilderung nach Art. 22 Abs. 1 StGB im Ermessen des Gerichts steht und nicht zwingend ist.

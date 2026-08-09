@@ -6,6 +6,8 @@ lastmod: 2026-06-28
 description: "Kommentar zu Art. 13 VwVG – Mitwirkung der Parteien im Verwaltungsverfahren"
 tags: ["VwVG", "Mitwirkungspflicht", "Verwaltungsverfahren", "Sachverhaltsermittlung"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -91,3 +93,15 @@ Im fremdenrechtlichen Nachzugsverfahren hat das Bundesgericht die Zulässigkeit 
 - Art. 29 ATSG — Mitwirkung im Sozialversicherungsrecht (*lex specialis* zu Art. 13 VwVG)
 - Art. 321 StGB — Verletzung des Berufsgeheimnisses (Konkordanz zu Absatz 1bis)
 - Art. 6 Ziff. 1 EMRK — Recht auf faires Verfahren (Grenze der Mitwirkungspflicht)
+
+### IX. Mitwirkungspflicht im Ausländerrecht
+
+Im Ausländerrecht ist die Mitwirkungspflicht von besonderer praktischer Bedeutung, da ausländische Personen oft über die für die Verfügung relevanten Tatsachen verfügen. In [BGer 2C_27/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_27_2018) befasste sich das Bundesgericht mit dem Widerruf der Niederlassungsbewilligung und stellte klar, dass die Mitwirkungspflicht der ausländischen Person im Verfahren über den Aufenthaltsstatus umfassend ist. In [BGer 2C_165/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_165_2018) präzisierte es die Mitwirkungspflicht im Verfahren über den Widerruf oder die Nichtverlängerung der Aufenthaltsbewilligung.
+
+### X. Mitwirkungspflicht im Sozialversicherungsrecht
+
+Im Sozialversicherungsrecht besteht mit Art. 29 ATSG eine spezialgesetzliche Mitwirkungsregelung, die gegenüber Art. 13 VwVG als *lex specialis* gilt. In [BGer 8C_481/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_481_2013) befasste sich das Bundesgericht mit der Mitwirkungspflicht im Revisionsverfahren der Unfallversicherung und stellte klar, dass die Mitwirkungspflicht der versicherten Person sich auf alle für den Leistungsentscheid relevanten Tatsachen erstreckt. In [BGer 9C_669/2016](https://mcp.opencaselaw.ch/entscheid/bger_9C_669_2016) behandelte es die Mitwirkungspflicht im Krankenversicherungsrecht und hielt fest, dass die versicherte Person die für die Beurteilung ihres Anspruchs relevanten Tatsachen von sich aus offenlegen muss.
+
+### XI. Mitwirkungspflicht im Finanzmarktrecht
+
+In [BGer 2C_227/2024](https://mcp.opencaselaw.ch/entscheid/bger_2C_227_2024) befasste sich das Bundesgericht mit der Mitwirkungspflicht im Rahmen der Rückstufung durch die FINMA und stellte klar, dass die Mitwirkungspflicht auch im finanzmarktrechtlichen Aufsichtsverfahren gilt. Die beaufsichtigte Person muss die für die aufsichtsrechtliche Beurteilung relevanten Tatsachen offenlegen, soweit dies für die Aufsichtsbehörde erforderlich ist.

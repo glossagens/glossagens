@@ -5,7 +5,9 @@ date: 2026-06-28
 lastmod: 2026-06-28
 description: "Übersicht der Entscheide zu Art. 13 VwVG – Mitwirkung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "Mitwirkungspflicht"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Rechtsprechung zu Art. 13 VwVG — Mitwirkung der Parteien
@@ -113,6 +115,44 @@ agent_verified: false
 
 ---
 
+
+### H. Mitwirkungspflicht im Ausländerrecht
+
+#### [BGer 2C_27/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_27_2018), 10. September 2018
+- **Thema**: Widerruf der Niederlassungsbewilligung und Mitwirkungspflicht
+- **Kernaussage**: Im Verfahren über den Widerruf der Niederlassungsbewilligung ist die ausländische Person zur umfassenden Mitwirkung verpflichtet. Die Mitwirkungspflicht nach Art. 13 Abs. 1 lit. a VwVG umfasst die Offenlegung aller für den Aufenthaltsentscheid relevanten Tatsachen.
+- **Einschlägig für**: Abs. 1 lit. a (Mitwirkungspflicht im Ausländerrecht)
+
+#### [BGer 2C_165/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_165_2018), 19. September 2018
+- **Thema**: Widerruf/Nichtverlängerung der Aufenthaltsbewilligung
+- **Kernaussage**: Im Verfahren über den Widerruf oder die Nichtverlängerung der Aufenthaltsbewilligung ist die Mitwirkungspflicht der betroffenen Person besonders weitreichend, da sie über die für die Beurteilung des Aufenthaltsstatus massgeblichen Tatsachen verfügt.
+- **Einschlägig für**: Abs. 1 lit. a (Mitwirkungspflicht im Ausländerrecht)
+
+---
+
+### I. Mitwirkungspflicht im Sozialversicherungsrecht
+
+#### [BGer 8C_481/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_481_2013), 7. November 2013
+- **Thema**: Unfallversicherung — Revision und Mitwirkungspflicht im Verwaltungsverfahren
+- **Kernaussage**: Im Revisionsverfahren der Unfallversicherung erstreckt sich die Mitwirkungspflicht der versicherten Person auf alle für den Leistungsentscheid relevanten Tatsachen. Die Mitwirkungspflicht nach Art. 29 ATSG konkretisiert die VwVG-Pflicht im sozialversicherungsrechtlichen Kontext.
+- **Einschlägig für**: Abs. 1 lit. a, Verhältnis zu Art. 29 ATSG
+
+#### [BGer 9C_669/2016](https://mcp.opencaselaw.ch/entscheid/bger_9C_669_2016), 20. Dezember 2016
+- **Thema**: Krankenversicherung und Mitwirkungspflicht
+- **Kernaussage**: Im Krankenversicherungsrecht muss die versicherte Person die für die Beurteilung ihres Anspruchs relevanten Tatsachen von sich aus offenlegen. Die Mitwirkungspflicht nach Art. 29 ATSG ist *lex specialis* zu Art. 13 VwVG.
+- **Einschlägig für**: Abs. 1 lit. a, Verhältnis zu Art. 29 ATSG
+
+---
+
+### J. Mitwirkungspflicht im Finanzmarktrecht
+
+#### [BGer 2C_227/2024](https://mcp.opencaselaw.ch/entscheid/bger_2C_227_2024), 14. April 2025
+- **Thema**: Rückstufung und Mitwirkungspflicht im FINMA-Verfahren
+- **Kernaussage**: Die Mitwirkungspflicht gilt auch im finanzmarktrechtlichen Aufsichtsverfahren. Die beaufsichtigte Person muss die für die aufsichtsrechtliche Beurteilung relevanten Tatsachen offenlegen, soweit dies für die FINMA als Aufsichtsbehörde erforderlich ist.
+- **Einschlägig für**: Abs. 1 lit. a, Mitwirkungspflicht im Aufsichtsrecht
+
+---
+
 ## Übersichtstabelle
 
 | Entscheidung | Zitate | Thema | Abschnitt |
@@ -132,5 +172,10 @@ agent_verified: false
 | [BGE 130 II 449](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_449) | 417 | Preisüberwachung, Kognition | G |
 | [BGE 140 II 384](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_384) | 368 | Verwaltungssanktion, EMRK Art. 6 | E |
 | [BGE 110 V 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_199) | 233 | Preissenkung, Arzneimittel | F |
+| [BGer 2C_27/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_27_2018) | — | Widerruf Niederlassungsbewilligung | H |
+| [BGer 2C_165/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_165_2018) | — | Aufenthaltsbewilligung, Mitwirkung | H |
+| [BGer 8C_481/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_481_2013) | — | UV-Revision, Mitwirkung | I |
+| [BGer 9C_669/2016](https://mcp.opencaselaw.ch/entscheid/bger_9C_669_2016) | — | Krankenversicherung, Mitwirkung | I |
+| [BGer 2C_227/2024](https://mcp.opencaselaw.ch/entscheid/bger_2C_227_2024) | — | Rückstufung, FINMA, Mitwirkung | J |
 
-*Letzte Aktualisierung: 28. Juni 2026*
+*Letzte Aktualisierung: 9. August 2026*
