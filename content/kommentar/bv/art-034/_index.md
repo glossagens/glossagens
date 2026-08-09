@@ -2,13 +2,17 @@
 title: "Art. 34 BV — Politische Rechte"
 weight: 34
 date: 2026-08-09
-lastmod: 2026-08-09i
+lastmod: 2026-08-09k
 description: "Kommentar zu Art. 34 BV: Garantie der politischen Rechte; freie Willensbildung und unverfälschte Stimmabgabe; Abstimmungsfreiheit; behördliche Informationspflicht; behördliche Interventionen im Abstimmungskampf; Stimmrechtsbeschwerde; Wahlrecht und Wahlkreisgestaltung."
 tags: ["BV", "Grundrechte", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "Willensbildung", "Stimmrechtsbeschwerde", "Wahlrecht", "behördliche Intervention", "BPR"]
 agent_verified: true
 mcp_verified: true
 revisions:
-  - date: 2026-08-09j
+  - date: 2026-08-09k
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Siebte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 145 I 1 downgegraded von yes→partial/0.82 (Abstimmungsvideo Bundeskanzlei, primär Art. 34 BV aber mit prozessualen Aspekten). BGE 131 I 442 downgegraded von yes→partial/0.72 (Nachzählung/Stimmabgabe, primär Verfahrensrecht). BGE 130 I 290 verbessert partial/0.72→0.75. 4 supported (BGE 129 I 185/0.98, 135 I 292/0.99, 143 I 78/0.99, 145 I 175/0.98) + 6 partial = 10 verifizierte Zitate. Unter 15-Zitat-Schwelle für Spezialnorm dokumentiert."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -86,13 +90,13 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 
 **11** **Zulässigkeit kantonaler Interventionen.** Ein Kanton darf in einen Abstimmungskampf auf Bundesebene eingreifen, wenn er am Ausgang der Abstimmung ein **unmittelbares und besonderes Interesse** hat. Ist die Intervention im Grundsatz zulässig, so ist der Kanton zu **Objektivität und Sachlichkeit** verpflichtet, darf jedoch Stellung beziehen und muss nicht sämtliche für und wider eine Vorlage sprechenden Argumente darlegen ([BGE 143 I 78](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_78) E. 4 — Abstimmung über das Nachrichtendienstgesetz; besondere Betroffenheit des Kantons Zürich wegen terroristischer Verletzlichkeit; *supported*: check_claim_support=yes/0.99 — behördliche Intervention im Abstimmungskampf). Eine interkantonale Fachkonferenz (z.B. die Ostschweizer Justiz- und Polizeidirektoren) ist dagegen zur Intervention im Namen der beteiligten Kantone **nicht zuständig** (E. 5).
 
-**12** **Kantonsregierungen und Abstimmungsempfehlungen.** Betrifft der Ausgang einer eidgenössischen Volksabstimmung mehrere oder alle Kantone namhaft, dürfen sich die **Kantonsregierungen** im Vorfeld der Abstimmung dazu öffentlich äussern und eine Abstimmungsempfehlung abgeben. Die kantonalen Interventionen müssen sich an den Kriterien der **Sachlichkeit, Verhältnismässigkeit und Transparenz** messen lassen, wie sie auch für den Bundesrat gelten. Das Gleiche gilt für die **Konferenz der Kantonsregierungen (KdK)**, wenn eine Mehrheit der Kantone namhaft betroffen ist. Interventionen von **Fachdirektorenkonferenzen** bleiben ausgeschlossen ([BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 6; *supported*).
+**12** **Kantonsregierungen und Abstimmungsempfehlungen.** Betrifft der Ausgang einer eidgenössischen Volksabstimmung mehrere oder alle Kantone namhaft, dürfen sich die **Kantonsregierungen** im Vorfeld der Abstimmung dazu öffentlich äussern und eine Abstimmungsempfehlung abgeben. Die kantonalen Interventionen müssen sich an den Kriterien der **Sachlichkeit, Verhältnismässigkeit und Transparenz** messen lassen, wie sie auch für den Bundesrat gelten. Das Gleiche gilt für die **Konferenz der Kantonsregierungen (KdK)**, wenn eine Mehrheit der Kantone namhaft betroffen ist. Interventionen von **Fachdirektorenkonferenzen** bleiben ausgeschlossen ([BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 6; *partiell unterstützt*: check_claim_support=partial/0.82 — Abstimmungsvideo der Bundeskanzlei, mit prozessualen Aspekten).
 
-**13** **Öffentliche Unternehmen.** Ein öffentliches Unternehmen, das von den Kantonen beherrscht wird, darf sich im Vorfeld einer eidgenössischen Volksabstimmung mit der **gebotenen Zurückhaltung** am Abstimmungskampf beteiligen, wenn es durch die Abstimmung besonders betroffen und ähnlich einem Privaten in seinen wirtschaftlichen Interessen berührt wird ([BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 7–8; *supported*). Die Schweizerische Nationalbank (SNB) ist befugt, sich im Vorfeld einer eidgenössischen Volksabstimmung, welche ihren Aufgabenbereich betrifft, öffentlich zur Sache zu äussern. Hingegen sind interkantonale **Fachdirektorenkonferenzen** nicht befugt, im Namen der beteiligten Kantone im Abstimmungskampf zu intervenieren; dies gilt auch dann, wenn die angeschlossenen Kantone von der Vorlage besonders betroffen sind ([BGE 145 I 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_175) E. 4–5; *supported*: check_claim_support=yes/0.99 — SNB und Fachdirektorenkonferenzen im Abstimmungskampf).
+**13** **Öffentliche Unternehmen.** Ein öffentliches Unternehmen, das von den Kantonen beherrscht wird, darf sich im Vorfeld einer eidgenössischen Volksabstimmung mit der **gebotenen Zurückhaltung** am Abstimmungskampf beteiligen, wenn es durch die Abstimmung besonders betroffen und ähnlich einem Privaten in seinen wirtschaftlichen Interessen berührt wird ([BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 7–8; *partiell unterstützt*: partial/0.82). Die Schweizerische Nationalbank (SNB) ist befugt, sich im Vorfeld einer eidgenössischen Volksabstimmung, welche ihren Aufgabenbereich betrifft, öffentlich zur Sache zu äussern. Hingegen sind interkantonale **Fachdirektorenkonferenzen** nicht befugt, im Namen der beteiligten Kantone im Abstimmungskampf zu intervenieren; dies gilt auch dann, wenn die angeschlossenen Kantone von der Vorlage besonders betroffen sind ([BGE 145 I 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_175) E. 4–5; *supported*: check_claim_support=yes/0.98 — SNB und Fachdirektorenkonferenzen im Abstimmungskampf).
 
 ### IV. Ermittlung und Nachzählung von Wahlergebnissen
 
-**14** **Anspruch auf Nachzählung.** Art. 34 Abs. 2 BV gewährleistet nicht nur die Stimmabgabe, sondern auch die **korrekte Auszählung** der Stimmen. Bei aussergewöhnlichen Regelwidrigkeiten bei der Auszählung und einem sehr knappen Wahlausgang kann ein **Anspruch auf Nachzählung** bestehen. Die massgeblichen Vorschriften zur Auszählung der Wahlzettel sind einzuhalten; Feststellungen von aussergewöhnlichen Regelwidrigkeiten rechtfertigen eine Nachzählung im Lichte von Art. 34 Abs. 2 BV ([BGE 131 I 442](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_442) E. 2–3.8; *supported*: check_claim_support=yes/0.98 — Nachzählung und unverfälschte Stimmabgabe).
+**14** **Anspruch auf Nachzählung.** Art. 34 Abs. 2 BV gewährleistet nicht nur die Stimmabgabe, sondern auch die **korrekte Auszählung** der Stimmen. Bei aussergewöhnlichen Regelwidrigkeiten bei der Auszählung und einem sehr knappen Wahlausgang kann ein **Anspruch auf Nachzählung** bestehen. Die massgeblichen Vorschriften zur Auszählung der Wahlzettel sind einzuhalten; Feststellungen von aussergewöhnlichen Regelwidrigkeiten rechtfertigen eine Nachzählung im Lichte von Art. 34 Abs. 2 BV ([BGE 131 I 442](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_442) E. 2–3.8; *partiell unterstützt*: check_claim_support=partial/0.72 — Nachzählung und Stimmabgabe, primär Verfahrensrecht).
 
 ### V. Stimmrechtsbeschwerde und Rechtsschutz
 
@@ -113,22 +117,22 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 - **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 31 Rz. 1 ff.
 - **MARTIN ROTENBERG / SEILER**, Basler Kommentar, N. ad Art. 34 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Fünfte Audit-Überarbeitung: Fedlex-Gesetzestext verifiziert; BGE 131 I 442 Upgrade partial→yes (0.98), BGE 130 I 290 downgrade yes→partial (0.72), BGE 140 I 338 downgrade yes→partial (0.72); 6 supported + 4 partiell unterstützt = 10 verifizierte Zitate*
+*Letzte Aktualisierung: 2026-08-09k — Siebte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 145 I 1 downgegraded von yes→partial/0.82. BGE 131 I 442 downgegraded von yes/0.98→partial/0.72. BGE 130 I 290 partial/0.72→0.75. BGE 145 I 175 yes/0.99→0.98. 4 supported + 6 partiell unterstützt = 10 verifizierte Zitate.*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 129 I 185 | 200 | yes | Wahlkreisgestaltung |
-| BGE 130 I 290 | 200 | partial (0.72) | Informationspflicht + Legitimation — downgrade von yes |
-| BGE 131 I 442 | 200 | yes (0.98) | Nachzählung — Upgrade von partial! |
+| BGE 129 I 185 | 200 | yes (0.98) | Wahlkreisgestaltung |
+| BGE 130 I 290 | 200 | partial (0.75) | Informationspflicht + Legitimation — verbessert von 0.72 |
+| BGE 131 I 442 | 200 | partial (0.72) | Nachzählung/Stimmabgabe — downgegraded von yes/0.98 |
 | BGE 135 I 292 | 200 | yes (0.99) | Abstimmungsfreiheit |
 | BGE 138 I 61 | 200 | partial (0.72) | Abstimmungserläuterungen — primär nachträglicher Rechtsschutz |
 | BGE 139 I 2 | 200 | partial (0.60) | Umsetzungsfristen — primär Planungsinitiative |
-| BGE 140 I 338 | 200 | partial (0.72) | Stimmrechtsbeschwerde-Frist — downgrade von yes |
+| BGE 140 I 338 | 200 | partial (0.72) | Stimmrechtsbeschwerde-Frist |
 | BGE 143 I 78 | 200 | yes (0.99) | Behördliche Intervention im Abstimmungskampf |
-| BGE 145 I 1 | 200 | yes (0.99) | Behördliche Intervention |
-| BGE 145 I 175 | 200 | yes (0.99) | SNB und Fachdirektorenkonferenzen |
+| BGE 145 I 1 | 200 | partial (0.82) | Abstimmungsvideo Bundeskanzlei — downgegraded von yes/0.99 |
+| BGE 145 I 175 | 200 | yes (0.98) | SNB und Fachdirektorenkonferenzen |
 | ~~BGE 134 I 239~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 141 I 6~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 142 I 1~~ | 200 | no | Entfernt: Art. 12 BV (Nothilfe) |

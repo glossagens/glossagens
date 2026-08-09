@@ -2,13 +2,17 @@
 title: "Art. 45 BV — Mitwirkung an der Willensbildung des Bundes"
 weight: 45
 date: 2026-08-09
-lastmod: 2026-08-09i
+lastmod: 2026-08-09k
 description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Vernehmlassung, Informationspflicht, föderalistische Mitwirkung"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
 agent_verified: true
 mcp_verified: true
 revisions:
-  - date: 2026-08-09j
+  - date: 2026-08-09k
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Siebte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 136 I 65 upgrade von no/0.97→unrelated/0.99. Alle 3 Kontextzitate bestätigt als unrelated (BGE 135 I 187/0.99, 136 I 65/0.99, 134 I 83/0.99). Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar."
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
@@ -114,14 +118,14 @@ Diese Bestimmung betraf die **Niederlassungsfreiheit** und wurde mit der BV 1999
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 45 BV
 - **BIANCHINI / MÜLLER**, Commentaire romand, N. ad Art. 45 BV
 
-*Letzte Aktualisierung: 2026-08-09c — 2. Audit-Durchlauf: check_claim_support bestätigt alle Kontextzitate als unrelated; 15-Zitat-Minimum nicht erreichbar (Organisationsnorm)*
+*Letzte Aktualisierung: 2026-08-09k — Siebte Audit-Überarbeitung: check_claim_support via OCL JSON-RPC erneuert. BGE 136 I 65 upgrade von no/0.97→unrelated/0.99. Alle 3 Kontextzitate bestätigt als unrelated. Art. 45 BV = Organisationsnorm, 15-Zitat-Minimum nicht erreichbar.*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
 | BGE 135 I 187 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 29 BV, nicht Art. 45 BV |
-| BGE 136 I 65 | 200 | unrelated (0.97) | Kontextzitat: Ständemehr/Art. 142 BV, nicht Art. 45 BV |
+| BGE 136 I 65 | 200 | unrelated (0.99) | Kontextzitat: Ständemehr/Art. 142 BV, nicht Art. 45 BV — upgrade von no |
 | BGE 134 I 83 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 8/31 BV, nicht Art. 45 BV |
 | ~~BGE 148 I 353~~ | 404 | — | Entfernt: existiert als BGE 148 III 353 (andere Kammer, unrelated) |
 | ~~BGE 144 I 291~~ | 404 | — | Entfernt: nicht in OCL |
