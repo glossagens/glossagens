@@ -2,7 +2,7 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09
+lastmod: 2026-08-09c
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Einbürgerung, Diskriminierung, Asylrecht, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
 tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe"]
 agent_verified: true
@@ -17,6 +17,11 @@ revisions:
     model: "glm-5.1"
     mcp_verified: true
     note: "Audit-Überarbeitung: Entfernung halluzinierter/falsch zugeordneter BGE-Zitate (BGE 133 I 259, 134 I 239, 136 I 165, 137 I 305, 139 I 121, 140 I 176, 141 I 105, 131 I 321, 144 I 273); Ersatz durch verifizierte Leitentscheide (BGE 131 I 166, BGE 140 I 125, BGE 142 I 1, BGE 126 II 377); check_claim_support-Ergebnisse eingearbeitet; 16 unterstützte Zitate, 2 Kontextzitate"
+  - date: 2026-08-09c
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Zweite Audit-Überarbeitung: Entfernung von BGer 1B_90/2021 (unsupported: check_claim_support=no) und BGE 126 II 377 (unsupported: check_claim_support=no, primär Ausländerrecht/Art. 8 EMRK); BGE 132 I 49 als partiell unterstützt markiert; BGE 131 I 166 als partiell unterstützt markiert; BGE 142 I 1 als Kontextzitat markiert; BGE 143 IV 77 bei spezifischerem Claim unterstützt (Rassendiskriminierung/Geschädigtenstellung); Gesetzeswortlaut verifiziert via Fedlex; 11 unterstützte Zitate, 3 partiell unterstützte, 2 Kontextzitate"
 ---
 
 ## Gesetzeswortlaut
@@ -77,19 +82,17 @@ revisions:
 
 **11** **a) Gruppendiskriminierung.** Bei Diskriminierung einer Gruppe von Personen (z.B. der Juden) kommt den einzelnen Gruppenangehörigen mangels unmittelbarer Betroffenheit **keine Geschädigtenstellung** zu; sie können sich deshalb nicht als Privatkläger konstituieren ([BGE 143 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_77) E. 4, *Kontextzitat*: primär Art. 261bis StGB, Art. 115/118 StPO). Die Menschenwürde schützt hier die Gruppe als solche, nicht aber jedes einzelne Mitglied in seiner individuellen Rechtsstellung.
 
-**12** **b) Willkürverbot und Menschenwürde.** Das Willkürverbot (Art. 9 BV) ist ein wichtiges Konkretisierungsnorm von Art. 7 BV. Eine willkürliche Anwendung des Rechts kann die Menschenwürde verletzen, wenn sie zu einem Ergebnis führt, das die Würde des Betroffenen in objektiver Hinsicht missachtet. Die selbständige Anrufung von Art. 7 BV neben dem Willkürverbot ist in der Regel nicht Erfolg versprechend; das Willkürverbot bietet den konkreteren Schutz ([BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5).
+**12** **b) Willkürverbot und Menschenwürde.** Das Willkürverbot (Art. 9 BV) ist eine wichtige Konkretisierungsnorm von Art. 7 BV. Eine willkürliche Anwendung des Rechts kann die Menschenwürde verletzen, wenn sie zu einem Ergebnis führt, das die Würde des Betroffenen in objektiver Hinsicht missachtet. Die selbständige Anrufung von Art. 7 BV neben dem Willkürverbot ist in der Regel nicht Erfolg versprechend; das Willkürverbot bietet den konkreteren Schutz ([BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5, *partiell unterstützt*: primär Art. 9 BV/Wegweisungsverfügungen, Menschenwürde als Verstärkungsnorm).
 
 ### V. Haftbedingungen und Menschenwürde
 
 **13** **a) Allgemeine Anforderungen an Haftbedingungen.** Haftbedingungen berühren die Menschenwürde in mehrfacher Hinsicht. Das Bundesgericht hat in [BGE 140 I 125](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_125) E. 4–6 festgehalten, dass die Haftbedingungen den Anforderungen von Art. 7 BV i.V.m. Art. 10 Abs. 3 BV (Recht auf angemessene Haftbedingungen) und Art. 3 EMRK genügen müssen. Insbesondere die Unterbringung in überbelegten Zellen, der mangelnde Zugang zu sanitären Einrichtungen und die Einschränkung des Briefverkehrs können die Menschenwürde verletzen. Die Europäische Kommission für die Verhütung von Folter (CPT) hat wiederholt auf unzumutbare Haftbedingungen in Schweizer Gefängnissen hingewiesen.
 
-**14** **b) Sicherheitshaft und Menschenwürde.** Die Sicherheitshaft ist ein besonders schwerwiegender Eingriff in die persönliche Freiheit und berührt die Menschenwürde. Die Haftbedingungen müssen die Menschenwürde wahren; eine übermässig lange Sicherheitshaft ohne konkrete Flucht- oder Verdunklungsgefahr kann Art. 7 BV i.V.m. Art. 5 EMRK verletzen. Die strafprozessualen Haftbedingungen haben in den Grenzen des grundrechtlichen Anspruchs auf Menschenwürde auch den praktischen Anforderungen der Untersuchungshaft Rechnung zu tragen ([BGer 1B_90/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_90_2021) E. 3.3).
-
 ### VI. Asylrecht, Nothilfe und Menschenwürde
 
-**15** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
+**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1, *partiell unterstützt*: primär Art. 12 BV/Nothilfe). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
 
-**16** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Das Bundesgericht hat anerkannt, dass sich aus den Grundrechten der Bundesverfassung, insbesondere aus Art. 7 und Art. 12 BV, Grenzen der Aufenthaltsbeendigung ergeben ([BGE 126 II 377](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_377) E. 4a). Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden ([BGE 142 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_1) E. 7.2).
+**15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden ([BGE 142 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_1) E. 7.2, *Kontextzitat*: primär Art. 12 BV/Nothilfe).
 
 ### VII. Fürsorge und staatliche Schutzpflicht
 
