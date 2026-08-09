@@ -6,6 +6,7 @@ lastmod: "2026-08-08"
 description: "Kommentar zu Art. 57 ZPO: Rechtsanwendung von Amtes wegen (iura novit curia); Pflicht des Gerichts zur selbstständigen Rechtsanwendung; Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz; Anwendungsbereich in streitigen und summarischen Verfahren."
 tags: ["ZPO", "Zivilprozessordnung", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime", "Dispositionsgrundsatz", "Offizialmaxime"]
 agent_verified: true
+mcp_verified: true
 ---
 
 ## Gesetzeswortlaut

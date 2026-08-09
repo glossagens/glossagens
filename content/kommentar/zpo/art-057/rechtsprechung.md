@@ -6,6 +6,7 @@ lastmod: "2026-08-08"
 description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz."
 tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime"]
 agent_verified: true
+mcp_verified: true
 ---
 
 ## Rechtsprechung zu Art. 57 ZPO
