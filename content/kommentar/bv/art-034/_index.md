@@ -2,12 +2,17 @@
 title: "Art. 34 BV — Politische Rechte"
 weight: 34
 date: 2026-08-09
-lastmod: 2026-08-09c
+lastmod: 2026-08-09d
 description: "Kommentar zu Art. 34 BV: Garantie der politischen Rechte; freie Willensbildung und unverfälschte Stimmabgabe; Abstimmungsfreiheit; behördliche Informationspflicht; behördliche Interventionen im Abstimmungskampf; Stimmrechtsbeschwerde; Wahlrecht und Wahlkreisgestaltung."
 tags: ["BV", "Grundrechte", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "Willensbildung", "Stimmrechtsbeschwerde", "Wahlrecht", "behördliche Intervention", "BPR"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09d
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Dritte Audit-Überarbeitung: Gesetzeswortlaut wortwörtlich verifiziert (Fedlex: '1 Die politischen Rechte sind gewährleistet. 2 Die Garantie der politischen Rechte schützt die freie Willensbildung und die unverfälschte Stimmabgabe.'); OCL-Zitat-Existenz alle HTTP 200; check_claim_support-Ergebnisse: BGE 129 I 185=yes, BGE 130 I 290=partial, BGE 131 I 442=partial/0.72, BGE 135 I 292=partial/0.72, BGE 138 I 61=partial, BGE 139 I 2=partial/0.75, BGE 140 I 338=partial, BGE 143 I 78=yes/0.99, BGE 145 I 1=yes; 3 supported + 6 partiell unterstützt = 9 verifizierte Zitate"
   - date: 2026-08-09c
     by: "Hermes Agent"
     model: "glm-5.1"

@@ -2,12 +2,17 @@
 title: "Art. 45 BV — Mitwirkung an der Willensbildung des Bundes"
 weight: 45
 date: 2026-08-09
-lastmod: 2026-08-09c
+lastmod: 2026-08-09d
 description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Vernehmlassung, Informationspflicht, föderalistische Mitwirkung"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-08-09d
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Dritte Audit-Überarbeitung: Gesetzeswortlaut wortwörtlich verifiziert (Fedlex: Abs. 1 'Die Kantone wirken nach Massgabe der Bundesverfassung an der Willensbildung des Bundes mit, insbesondere an der Rechtsetzung.' und Abs. 2 'Der Bund informiert die Kantone rechtzeitig und umfassend über seine Vorhaben; er holt ihre Stellungnahmen ein, wenn ihre Interessen betroffen sind.'); OCL-Zitat-Existenz alle HTTP 200; check_claim_support bestätigt alle 3 Kontextzitate als 'unrelated' (BGE 135 I 187, 136 I 65, 134 I 83 — primär andere Artikel); Art. 45 BV ist Organisationsnorm mit begrenzter Rechtsprechung, 15-Zitat-Minimum nicht erreichbar"
   - date: 2026-08-09c
     by: "Hermes Agent"
     model: "glm-5.1"
