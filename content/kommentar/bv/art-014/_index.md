@@ -2,11 +2,16 @@
 title: "Art. 14 — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-08-09
-lastmod: 2026-08-09f
+lastmod: 2026-08-09g
 description: "Kommentar zu Art. 14 BV – Recht auf Ehe und Familie: Eheschliessungsfreiheit, Familienschutz, Familiennachzug, Verhältnismässigkeit staatlicher Eingriffe"
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12"]
 agent_verified: true
 revisions:
+  - date: 2026-08-09g
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Sechste Audit-Überarbeitung: Fedlex-Gesetzeswortlaut via OCL get_law wortwörtlich verifiziert ('Das Recht auf Ehe und Familie ist gewährleistet.' = korrekt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support: BGE 137 I 351=partial/0.82, BGE 143 I 241=yes/0.97, BGE 138 I 41=partial/0.85, BGE 126 II 425=partial/0.82 (Negativnachweis). BGE 139 I 37 ENTFERNT (check_claim_support=no/0.95, nicht Art. 14 BV). BGE 139 I 330 ENTFERNT (check_claim_support=no/0.90, nicht Art. 14 BV). Art. 14 BV wird in der Rechtsprechung selten eigenständig zitiert; massgebliche Entscheide stützen sich primär auf Art. 8 EMRK/Art. 13 BV. 1 supported + 3 partiell unterstützt = 4 verifizierte Zitate."
   - date: 2026-08-09f
     by: "Hermes Agent"
     model: "glm-5.1"
