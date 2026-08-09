@@ -2,11 +2,17 @@
 title: "Art. 34 BV — Politische Rechte"
 weight: 34
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-09c
 description: "Kommentar zu Art. 34 BV: Garantie der politischen Rechte; freie Willensbildung und unverfälschte Stimmabgabe; Abstimmungsfreiheit; behördliche Informationspflicht; behördliche Interventionen im Abstimmungskampf; Stimmrechtsbeschwerde; Wahlrecht und Wahlkreisgestaltung."
 tags: ["BV", "Grundrechte", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "Willensbildung", "Stimmrechtsbeschwerde", "Wahlrecht", "behördliche Intervention", "BPR"]
 agent_verified: true
+mcp_verified: true
 revisions:
+  - date: 2026-08-09c
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "2. Audit-Durchlauf: check_claim_support-Korrektur — BGE 131 I 442, 135 I 292, 139 I 2 von yes→partial (thematisch tangential); BGE 143 I 78 von partial→yes (behördliche Intervention, supports=yes/0.99); Verifizierungstabelle aktualisiert"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -53,17 +59,17 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 - **Freie Willensbildung:** Die Stimmberechtigten müssen die Möglichkeit haben, ihre Meinung frei und ohne unzulässige Beeinflussung zu bilden. Dies setzt eine sachliche, ausgewogene und vollständige Information der Stimmberechtigten voraus.
 - **Unverfälschte Stimmabgabe:** Die Stimme muss so abgegeben und gezählt werden, wie sie der Stimmberechtigte will; jede Verfälschung des Stimmabgabevorgangs oder des Ergebnisses verletzt Art. 34 Abs. 2 BV.
 
-**7** **Abstimmungsfreiheit.** Die Abstimmungsfreiheit umfasst das Recht, ohne Druck oder unzulässige Beeinflussung abstimmen zu können. Sie kann sowohl durch **behördliche** als auch durch **private** Massnahmen beeinträchtigt werden ([BGE 135 I 292](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_292) E. 2; *supported*). Die unzutreffende Präsentation eines wesentlichen, erst anlässlich einer Gemeindeversammlung bekanntgemachten Dokuments von privater Seite beeinträchtigt die Meinungsbildung der Stimmberechtigten und verletzt die Abstimmungsfreiheit; in einem solchen Fall kann der Gemeindeversammlungsentscheid aufgehoben werden (E. 4).
+**7** **Abstimmungsfreiheit.** Die Abstimmungsfreiheit umfasst das Recht, ohne Druck oder unzulässige Beeinflussung abstimmen zu können. Sie kann sowohl durch **behördliche** als auch durch **private** Massnahmen beeinträchtigt werden ([BGE 135 I 292](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_292) E. 2; *partiell unterstützt*: check_claim_support=partial/0.72 — primär Meinungsbildung, nicht explizit «unverfälschte Stimmabgabe»). Die unzutreffende Präsentation eines wesentlichen, erst anlässlich einer Gemeindeversammlung bekanntgemachten Dokuments von privater Seite beeinträchtigt die Meinungsbildung der Stimmberechtigten und verletzt die Abstimmungsfreiheit; in einem solchen Fall kann der Gemeindeversammlungsentscheid aufgehoben werden (E. 4).
 
 **8** **Behördliche Informationspflicht.** Die Behörden sind verpflichtet, die Stimmberechtigten in den Abstimmungsunterlagen **sachlich und ausgewogen** zu informieren ([BGE 130 I 290](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_290) E. 3 — Zusammenfassung und Bestätigung der Rechtsprechung; *partial* — primär Stimmrechtsbeschwerde-Legitimation, aber umfassende Darstellung der Informationspflicht). Diese Informationspflicht bezieht sich auf den beleuchtenden Bericht (Abstimmungsbroschüre), der die wesentlichen Argumente für und wider die Vorlage darzulegen hat. Hingegen sind **öffentliche Äusserungen einzelner Behördemitglieder** im Abstimmungskampf zulässig — die Behörde als solche muss sachlich informieren, einzelne Mitglieder dürfen aber Stellung beziehen.
 
 **9** **Anforderungen an Abstimmungserläuterungen.** Die Abstimmungserläuterungen des Bundesrates (und der kantonalen Regierungen) müssen so gestaltet sein, dass die Stimmberechtigten die für ihre Meinungsbildung wesentlichen Elemente erhalten. Das Fehlen wesentlicher Elemente für die Meinungsbildung verletzt die Abstimmungsfreiheit ([BGE 138 I 61](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_61) E. 8.6; *partial* — primär nachträglicher Rechtsschutz, aber zitiert Informationspflicht). Das Bundesgericht prüft die Abstimmungserläuterungen auf Sachlichkeit, Vollständigkeit und Verständlichkeit; bei unrichtigen oder unvollständigen Erläuterungen, die das Abstimmungsergebnis wesentlich beeinflusst haben könnten, kann die Abstimmung aufgehoben werden. Allerdings ist das Bundesgericht bei der Überprüfung von Abstimmungserläuterungen insofern beschränkt, als es Passagen, die den vom Bundesrat verabschiedeten Abstimmungserläuterungen entsprechen, nicht überprüfen kann (Art. 189 Abs. 4 BV; [BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 5 — Abstimmungsvideo der Bundeskanzlei; *supported*).
 
-**10** **Abstimmungserläuterungen und Umsetzungsfristen.** Bei der Umsetzung einer angenommenen Planungsinitiative ist eine Vorlage auszuarbeiten, die dem angestrebten planerischen Ergebnis entspricht und mit höherrangigem Recht vereinbar ist; die Abstimmungserläuterungen müssen die vorgesehene Umsetzung hinreichend deutlich machen ([BGE 139 I 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_2) E. 5–6; *supported*).
+**10** **Abstimmungserläuterungen und Umsetzungsfristen.** Bei der Umsetzung einer angenommenen Planungsinitiative ist eine Vorlage auszuarbeiten, die dem angestrebten planerischen Ergebnis entspricht und mit höherrangigem Recht vereinbar ist; die Abstimmungserläuterungen müssen die vorgesehene Umsetzung hinreichend deutlich machen ([BGE 139 I 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_2) E. 5–6; *partiell unterstützt*: check_claim_support=partial/0.75 — primär Planungsinitiative, nicht explizit «Volkswille»).
 
 ### III. Behördliche Interventionen im Abstimmungskampf
 
-**11** **Zulässigkeit kantonaler Interventionen.** Ein Kanton darf in einen Abstimmungskampf auf Bundesebene eingreifen, wenn er am Ausgang der Abstimmung ein **unmittelbares und besonderes Interesse** hat. Ist die Intervention im Grundsatz zulässig, so ist der Kanton zu **Objektivität und Sachlichkeit** verpflichtet, darf jedoch Stellung beziehen und muss nicht sämtliche für und wider eine Vorlage sprechenden Argumente darlegen ([BGE 143 I 78](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_78) E. 4 — Abstimmung über das Nachrichtendienstgesetz; besondere Betroffenheit des Kantons Zürich wegen terroristischer Verletzlichkeit; *partial* — primär behördliche Intervention, auch Art. 34 BV). Eine interkantonale Fachkonferenz (z.B. die Ostschweizer Justiz- und Polizeidirektoren) ist dagegen zur Intervention im Namen der beteiligten Kantone **nicht zuständig** (E. 5).
+**11** **Zulässigkeit kantonaler Interventionen.** Ein Kanton darf in einen Abstimmungskampf auf Bundesebene eingreifen, wenn er am Ausgang der Abstimmung ein **unmittelbares und besonderes Interesse** hat. Ist die Intervention im Grundsatz zulässig, so ist der Kanton zu **Objektivität und Sachlichkeit** verpflichtet, darf jedoch Stellung beziehen und muss nicht sämtliche für und wider eine Vorlage sprechenden Argumente darlegen ([BGE 143 I 78](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_78) E. 4 — Abstimmung über das Nachrichtendienstgesetz; besondere Betroffenheit des Kantons Zürich wegen terroristischer Verletzlichkeit; *supported*: check_claim_support=yes/0.99 — behördliche Intervention im Abstimmungskampf). Eine interkantonale Fachkonferenz (z.B. die Ostschweizer Justiz- und Polizeidirektoren) ist dagegen zur Intervention im Namen der beteiligten Kantone **nicht zuständig** (E. 5).
 
 **12** **Kantonsregierungen und Abstimmungsempfehlungen.** Betrifft der Ausgang einer eidgenössischen Volksabstimmung mehrere oder alle Kantone namhaft, dürfen sich die **Kantonsregierungen** im Vorfeld der Abstimmung dazu öffentlich äussern und eine Abstimmungsempfehlung abgeben. Die kantonalen Interventionen müssen sich an den Kriterien der **Sachlichkeit, Verhältnismässigkeit und Transparenz** messen lassen, wie sie auch für den Bundesrat gelten. Das Gleiche gilt für die **Konferenz der Kantonsregierungen (KdK)**, wenn eine Mehrheit der Kantone namhaft betroffen ist. Interventionen von **Fachdirektorenkonferenzen** bleiben ausgeschlossen ([BGE 145 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_1) E. 6; *supported*).
 
@@ -71,7 +77,7 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 
 ### IV. Ermittlung und Nachzählung von Wahlergebnissen
 
-**14** **Anspruch auf Nachzählung.** Art. 34 Abs. 2 BV gewährleistet nicht nur die Stimmabgabe, sondern auch die **korrekte Auszählung** der Stimmen. Bei aussergewöhnlichen Regelwidrigkeiten bei der Auszählung und einem sehr knappen Wahlausgang kann ein **Anspruch auf Nachzählung** bestehen. Die massgeblichen Vorschriften zur Auszählung der Wahlzettel sind einzuhalten; Feststellungen von aussergewöhnlichen Regelwidrigkeiten rechtfertigen eine Nachzählung im Lichte von Art. 34 Abs. 2 BV ([BGE 131 I 442](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_442) E. 2–3.8; *supported*).
+**14** **Anspruch auf Nachzählung.** Art. 34 Abs. 2 BV gewährleistet nicht nur die Stimmabgabe, sondern auch die **korrekte Auszählung** der Stimmen. Bei aussergewöhnlichen Regelwidrigkeiten bei der Auszählung und einem sehr knappen Wahlausgang kann ein **Anspruch auf Nachzählung** bestehen. Die massgeblichen Vorschriften zur Auszählung der Wahlzettel sind einzuhalten; Feststellungen von aussergewöhnlichen Regelwidrigkeiten rechtfertigen eine Nachzählung im Lichte von Art. 34 Abs. 2 BV ([BGE 131 I 442](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_442) E. 2–3.8; *partiell unterstützt*: check_claim_support=partial/0.72 — primär Auszählungsrüge, nicht direkt Willensbildung).
 
 ### V. Stimmrechtsbeschwerde und Rechtsschutz
 
@@ -100,12 +106,12 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 |-------|-------------|---------------------|-----------|
 | BGE 129 I 185 | 200 | yes | Wahlkreisgestaltung |
 | BGE 130 I 290 | 200 | partial | Informationspflicht + Legitimation |
-| BGE 131 I 442 | 200 | yes | Nachzählung |
-| BGE 135 I 292 | 200 | yes | Abstimmungsfreiheit |
+|| BGE 131 I 442 | 200 | partial (0.72) | Nachzählung — primär Auszählungsrüge, nicht direkt Art. 34 BV-Willensbildung |
+|| BGE 135 I 292 | 200 | partial (0.72) | Abstimmungsfreiheit — primär Meinungsbildung, nicht explizit «unverfälschte Stimmabgabe» |
 | BGE 138 I 61 | 200 | partial | Abstimmungserläuterungen |
-| BGE 139 I 2 | 200 | yes | Umsetzungsfristen |
+| BGE 139 I 2 | 200 | partial (0.75) | Umsetzungsfristen — primär Planungsinitiative |
 | BGE 140 I 338 | 200 | partial | Stimmrechtsbeschwerde-Frist |
-| BGE 143 I 78 | 200 | partial | Kantonale Intervention |
+| BGE 143 I 78 | 200 | yes (0.99) | Behördliche Intervention im Abstimmungskampf |
 | BGE 145 I 1 | 200 | yes | Behördliche Intervention |
 | ~~BGE 134 I 239~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 141 I 6~~ | 404 | — | Entfernt: nicht in OCL |

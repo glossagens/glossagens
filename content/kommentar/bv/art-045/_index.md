@@ -2,11 +2,17 @@
 title: "Art. 45 BV — Mitwirkung an der Willensbildung des Bundes"
 weight: 45
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-09c
 description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Vernehmlassung, Informationspflicht, föderalistische Mitwirkung"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
 agent_verified: true
+mcp_verified: true
 revisions:
+  - date: 2026-08-09c
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "2. Audit-Durchlauf: check_claim_support bestätigt alle 3 aktiven Zitate als 'unrelated' (BGE 135 I 187, 136 I 65, 134 I 83 — primär andere Artikel); OCL-Suche ergibt keine direkt unterstützenden BGE für Art. 45 BV; Verifizierungstabelle aktualisiert; Hinweis ergänzt"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -93,15 +99,15 @@ Diese Bestimmung betraf die **Niederlassungsfreiheit** und wurde mit der BV 1999
 - **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 45 BV
 - **BIANCHINI / MÜLLER**, Commentaire romand, N. ad Art. 45 BV
 
-*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung: Gesetzestext auf Fedlex-Wortlaut korrigiert; fiktiver Abs. 3 entfernt; 13 halluzinierte BGE-Zitate ersetzt*
+*Letzte Aktualisierung: 2026-08-09c — 2. Audit-Durchlauf: check_claim_support bestätigt alle Kontextzitate als unrelated; 15-Zitat-Minimum nicht erreichbar (Organisationsnorm)*
 
 ## Verifizierungstabelle
 
 | Zitat | OCL-Existenz | check_claim_support | Anmerkung |
 |-------|-------------|---------------------|-----------|
-| BGE 135 I 187 | 200 | unrelated | Kontextzitat: föderative Mitwirkung, primär Art. 31 BV |
-| BGE 136 I 65 | 200 | unrelated | Kontextzitat: Ständemehr, primär Art. 142 BV |
-| BGE 134 I 83 | 200 | unrelated | Kontextzitat: kantonaler Vollzug, primär Art. 8/31 BV |
+| BGE 135 I 187 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 29 BV, nicht Art. 45 BV |
+| BGE 136 I 65 | 200 | unrelated (0.97) | Kontextzitat: Ständemehr/Art. 142 BV, nicht Art. 45 BV |
+| BGE 134 I 83 | 200 | unrelated (0.99) | Kontextzitat: primär Art. 8/31 BV, nicht Art. 45 BV |
 | ~~BGE 148 I 353~~ | 404 | — | Entfernt: existiert als BGE 148 III 353 (andere Kammer, unrelated) |
 | ~~BGE 144 I 291~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 138 I 305~~ | 200 | — | Entfernt: überprüft als unrelated |
@@ -116,4 +122,4 @@ Diese Bestimmung betraf die **Niederlassungsfreiheit** und wurde mit der BV 1999
 | ~~BGE 145 I 276~~ | 404 | — | Entfernt: nicht in OCL |
 | ~~BGE 142 I 139~~ | 404 | — | Entfernt: nicht in OCL |
 
-**Hinweis:** Art. 45 BV hat in der OCL-Datenbank sehr few leading cases, da die meisten BGE, die die Mitwirkung der Kantone thematisieren, primär auf Art. 46 BV (Umsetzung), Art. 47 BV (Autonomie), Art. 147 BV (Vernehmlassung) oder Art. 142 BV (Ständemehr) abstellen. Die dogmatische Kommentierung stützt sich daher primär auf die Verfassungssystematik und die Botschaft BV.
+**Hinweis:** Art. 45 BV hat in der OCL-Datenbank sehr few leading cases, da die meisten BGE, die die Mitwirkung der Kantone thematisieren, primär auf Art. 46 BV (Umsetzung), Art. 47 BV (Autonomie), Art. 147 BV (Vernehmlassung) oder Art. 142 BV (Ständemehr) abstellen. Die dogmatische Kommentierung stützt sich daher primär auf die Verfassungssystematik und die Botschaft BV. Die 3 verbleibenden Kontextzitate (BGE 135 I 187, 136 I 65, 134 I 83) wurden via check_claim_support als «unrelated» bestätigt — sie erörtern andere BV-Artikel, tangieren aber die föderativen Strukturfragen, die für das Verständnis von Art. 45 BV relevant sind. **Ziel: Mindestens 15 unterstützende Zitate sind nicht erreichbar, da Art. 45 BV eine Organisationsnorm mit begrenzter Rechtsprechung ist.**
