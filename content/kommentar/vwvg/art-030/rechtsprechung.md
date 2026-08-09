@@ -5,7 +5,9 @@ date: 2026-06-28
 lastmod: 2026-06-28
 description: "Übersicht der Entscheide zu Art. 30 VwVG – Anhörung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Anhörung", "Parteianhörung"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Thematische Rechtsprechungsübersicht
@@ -77,6 +79,33 @@ agent_verified: false
 
 ---
 
+### 6. Anhörung im Ausländerrecht und bei Ausreisebeschränkungen
+
+#### [BGer 1C_437/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016), 12. Mai 2017
+- **Thema**: Ausreisebeschränkung und Anhörungspflicht
+- **Kernaussage**: Auch im Rahmen von Massnahmen nach dem Ausländer- und Integrationsgesetz gilt die Anhörungspflicht nach Art. 30 VwVG uneingeschränkt. Die Ausnahme nach Art. 30 Abs. 2 lit. e VwVG (Gefahr im Verzuge) ist bei Ausreisebeschränkungen restriktiv auszulegen, da die betroffene Person in ihren Grundrechten erheblich eingeschränkt wird und die nachträgliche Gehörsgewährung den Grundrechtseingriff nicht mehr rückgängig machen kann.
+- **Einschlägig für**: Art. 30 Abs. 1 und 2 lit. e VwVG (Ausländerrecht, Gefahr im Verzuge)
+
+---
+
+### 7. Anhörung bei Vermögenssperre und Rechtshilfe
+
+#### [BGer 1C_435/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_435_2024), 19. Mai 2025
+- **Thema**: Sperrung von Vermögenswerten und Anhörungspflicht
+- **Kernaussage**: Auch in Verfahren der Vermögenssperre nach Art. 4 SRVG (Ukraine) müssen die elementaren Verfahrensgrundsätze — namentlich die Anhörungspflicht nach Art. 30 VwVG — gewahrt werden. Die Anhörung ist insbesondere erforderlich, wenn die Verfügung auf unbestimmt gehaltene Rechtsgrundlagen gestützt wird, da die Unbestimmtheit durch eine Stärkung der Verfahrensrechte zu kompensieren ist.
+- **Einschlägig für**: Art. 30 Abs. 1 VwVG (Vermögenssperre, Rechtshilfe, unbestimmte Rechtsgrundlagen)
+
+---
+
+### 8. Anhörung im Baurecht und Sprungbeschwerde
+
+#### [BGer 1C_737/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_737_2025), 23. Januar 2026
+- **Thema**: Abfallrechtliche Betriebsbewilligung im Sprungbeschwerdeverfahren
+- **Kernaussage**: Die Anhörungspflicht nach Art. 30 VwVG gilt auch im Rahmen von Sprungbeschwerden. Die Partei muss vor Erlass der Verfügung Gelegenheit haben, sich zum Sachverhalt und zu den Rechtsgrundlagen zu äussern, auch wenn das Verfahren durch Sprungbeschwerde direkt an das Bundesverwaltungsgericht gelangt.
+- **Einschlägig für**: Art. 30 Abs. 1 VwVG (Sprungbeschwerde, Baurecht, Anhörungspflicht)
+
+---
+
 ## Top-Übersichtstabelle
 
 | Rang | Entscheidung | Zitate | Thema | Ausnahme/Konstellation |
@@ -90,10 +119,12 @@ agent_verified: false
 | 7 | [BGE 128 V 272](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_V_272) | 874 | Rechtsgutachten / Anhörung | Art. 30 Abs. 1 (Gutachtengrundlagen) |
 | 8 | [BGE 129 II 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_II_286) | 652 | Zwischenverfügung / Aufschiebende Wirkung | Art. 30 Abs. 2 lit. a |
 | 9 | [BGE 131 II 670](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_670) | 508 | SARS-Sofortmassnahmen | Art. 30 Abs. 2 lit. e |
-| 10 | [BGE 121 V 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_150) | 495 | Augenschein / Schallmessungen | Art. 30 VwVG (Beweiserhebung) |
-| 11 | [BGE 126 II 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_111) | 352 | Beobachter / Aufsichtsrecht | Art. 30 Abs. 2 lit. e |
-| 12 | [BGE 116 V 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_V_28) | 299 | IV-Kommissionsanhörung | Art. 30 VwVG (Sozialversicherung) |
+| 9 | [BGE 121 V 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_150) | 495 | Augenschein / Schallmessungen | Art. 30 VwVG (Beweiserhebung) |
+| 10 | [BGE 126 II 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_111) | 352 | Beobachter / Aufsichtsrecht | Art. 30 Abs. 2 lit. e |
+| 11 | [BGE 116 V 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_V_28) | 299 | IV-Kommissionsanhörung | Art. 30 VwVG (Sozialversicherung) |
+| 12 | [BGer 1C_437/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016) | — | Ausreisebeschränkung / Anhörungspflicht | Art. 30 Abs. 1 und 2 lit. e |
+| 13 | [BGer 1C_435/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_435_2024) | — | Vermögenssperre / Rechtshilfe | Art. 30 Abs. 1 (unbestimmte Rechtsgrundlagen) |
+| 14 | [BGer 1C_737/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_737_2025) | — | Betriebsbewilligung / Sprungbeschwerde | Art. 30 Abs. 1 (Sprungbeschwerde) |
 
----
+*Letzte Aktualisierung: 9. August 2026*
 
-*Letzte Aktualisierung: 2026-06-28*

@@ -6,6 +6,8 @@ lastmod: 2026-06-28
 description: "Kommentar zu Art. 26 VwVG – Anspruch der Partei auf Akteneinsicht im Verwaltungsverfahren"
 tags: ["VwVG", "Akteneinsicht", "Verwaltungsverfahren", "rechtliches Gehör", "Akten", "Verfahrensrecht"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -101,3 +103,19 @@ Die Verletzung des Anspruchs auf Akteneinsicht kann zur **Verletzung des rechtli
 - [Art. 45 VwVG](../art-045/_index.md) — Zwischenverfügungen (Akteneinsicht auch bei Zwischenverfügungen)
 - [Art. 48 VwVG](../art-048/_index.md) — Beschwerdeberechtigung (Voraussetzung für Akteneinsicht im Beschwerdeverfahren)
 - [Art. 52 VwVG](../art-052/_index.md) — Beschwerdegründe (Verletzung des rechtlichen Gehörs als Beschwerdegrund)
+
+### VIII. Akteneinsicht ausserhalb hängiger Verfahren
+
+Die Akteneinsicht nach Art. 26 VwVG setzt grundsätzlich ein **hängiges Verfahren** voraus — der Anspruch besteht «in ihrer Sache», was ein rechtlich relevantes Verfahrenserfordernis darstellt. In [BGer 2C_387/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_387_2013) befasste sich das Bundesgericht mit dem Gesuch um Akteneinsicht ausserhalb eines rechtshängigen Verfahrens und stellte klar, dass ausserhalb eines konkreten Verfahrens kein Anspruch auf Akteneinsicht nach Art. 26 VwVG besteht. Dies begrenzt den Akteneinsichtsanspruch auf die Situation, in der die Partei bereits in ein Verfahren involviert ist.
+
+### IX. Akteneinsicht im Wirtschaftsaufsichtsrecht
+
+Im Wirtschaftsaufsichtsrecht ist die Frage der Parteistellung und damit des Akteneinsichtsanspruchs von besonderer praktischer Bedeutung. In [BGer 2C_119/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_119_2013) befasste sich das Bundesgericht mit der Parteistellung und Akteneinsicht im wirtschaftsaufsichtsrechtlichen Verfahren und stellte fest, dass die Voraussetzungen für eine Parteistellung im Aufsichtsverfahren restriktiv sind. Ebenso hielt es in [BGer 2C_762/2010](https://mcp.opencaselaw.ch/entscheid/bger_2C_762_2010) fest, dass die Parteistellung und Akteneinsicht im Aufsichtsverfahren eine hinreichende rechtliche Betroffenheit voraussetzen — eine blosse wirtschaftliche Betroffenheit genügt nicht.
+
+### X. Akteneinsicht im Baurecht
+
+In [BGer 1C_678/2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_678_2023) behandelte das Bundesgericht die Akteneinsicht im Zusammenhang mit einer Baubewilligung. Es bestätigte, dass im Baubewilligungsverfahren die Nachbarn, die als Parteien im Sinne von Art. 6 VwVG qualifizieren, Anspruch auf Akteneinsicht nach Art. 26 VwVG haben, um sich zum Baugesuch wirksam äussern zu können.
+
+### XI. Akteneinsicht und Rechtsverweigerung
+
+In [BGer 2C_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_242_2025) befasste sich das Bundesgericht mit dem Zusammenhang zwischen Rechtsverweigerung und Akteneinsicht. Es stellte klar, dass die Verweigerung der Akteneinsicht eine Verletzung des rechtlichen Gehörs darstellen kann, die zur Aufhebung der Verfügung führt — insbesondere dann, wenn die Behörde ihre Entscheidung auf Akten stützt, die der Partei nicht zugänglich gemacht wurden.

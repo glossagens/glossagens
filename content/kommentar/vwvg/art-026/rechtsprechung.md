@@ -5,7 +5,9 @@ date: 2026-06-28
 lastmod: 2026-06-28
 description: "Übersicht der Entscheide zu Art. 26 VwVG – Akteneinsicht im Verwaltungsverfahren"
 tags: ["Rechtsprechung", "VwVG", "Akteneinsicht", "rechtliches Gehör", "Verwaltungsverfahren"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Leitentscheide (BGE)
@@ -92,6 +94,46 @@ agent_verified: false
 
 ---
 
+### BGer 2C_387/2013 vom 17. Januar 2014
+- **Thema**: Akteneinsicht ausserhalb eines rechtshängigen Verfahrens
+- **Kernaussage**: Ausserhalb eines konkreten rechtshängigen Verfahrens besteht kein Anspruch auf Akteneinsicht nach Art. 26 VwVG. Der Akteneinsichtsanspruch nach Art. 26 VwVG setzt ein hängiges Verfahren voraus — der Wortlaut «in ihrer Sache» stellt ein rechtlich relevantes Verfahrenserfordernis dar.
+- **Einschlägig für**: Abs. 1, Voraussetzung hängiges Verfahren, Schranken
+- **Link**: [BGer 2C_387/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_387_2013)
+
+---
+
+### BGer 2C_119/2013 vom 9. Mai 2013
+- **Thema**: Parteistellung und Akteneinsicht im Wirtschaftsaufsichtsrecht
+- **Kernaussage**: Im wirtschaftsaufsichtsrechtlichen Verfahren sind die Voraussetzungen für eine Parteistellung (Art. 6 VwVG) restriktiv. Ohne Parteistellung kann auch kein Anspruch auf Akteneinsicht nach Art. 26 VwVG abgeleitet werden. Eine blosse wirtschaftliche Betroffenheit genügt für die Parteistellung nicht.
+- **Einschlägig für**: Abs. 1, Anspruchsberechtigung, Parteistellung im Aufsichtsrecht
+- **Link**: [BGer 2C_119/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_119_2013)
+
+---
+
+### BGer 2C_762/2010 vom 2. Februar 2011
+- **Thema**: Parteistellung und Akteneinsicht
+- **Kernaussage**: Die Parteistellung und Akteneinsicht im Aufsichtsverfahren setzen eine hinreichende rechtliche Betroffenheit voraus. Eine blosse wirtschaftliche Betroffenheit reicht für die Parteistellung im Sinne von Art. 6 VwVG nicht aus und damit auch nicht für den Akteneinsichtsanspruch nach Art. 26 VwVG.
+- **Einschlägig für**: Abs. 1, Anspruchsberechtigung, Aufsichtsrecht
+- **Link**: [BGer 2C_762/2010](https://mcp.opencaselaw.ch/entscheid/bger_2C_762_2010)
+
+---
+
+### BGer 1C_678/2023 vom 9. Dezember 2024
+- **Thema**: Baubewilligung — Akteneinsicht
+- **Kernaussage**: Im Baubewilligungsverfahren haben Nachbarn, die als Parteien im Sinne von Art. 6 VwVG qualifizieren, Anspruch auf Akteneinsicht nach Art. 26 VwVG. Die Akteneinsicht ist Voraussetzung dafür, dass die Nachbarn sich zum Baugesuch wirksam äussern können.
+- **Einschlägig für**: Abs. 1, Parteistellung, Baurecht, Akteneinsicht
+- **Link**: [BGer 1C_678/2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_678_2023)
+
+---
+
+### BGer 2C_242/2025 vom 4. November 2025
+- **Thema**: Rechtsverweigerung und Akteneinsicht
+- **Kernaussage**: Die Verweigerung der Akteneinsicht kann eine Verletzung des rechtlichen Gehörs darstellen, die zur Aufhebung der Verfügung führt — insbesondere dann, wenn die Behörde ihre Entscheidung auf Akten stützt, die der Partei nicht zugänglich gemacht wurden. Die Akteneinsichtspflicht besteht unabhängig davon, ob die Partei die Akten ausdrücklich verlangt hat.
+- **Einschlägig für**: Abs. 1, Rechtsverweigerung, Verletzung rechtliches Gehör
+- **Link**: [BGer 2C_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_242_2025)
+
+---
+
 ## Bundesverwaltungsgericht
 
 ### BVGer E-1308/2023 vom 6. Februar 2023
@@ -114,7 +156,12 @@ agent_verified: false
 | 6 | BGE 142 I 86 | 770 | Protokollierung Augenschein | Abs. 1 lit. b, Beweismittel |
 | 7 | BGE 129 II 286 | 652 | Freisetzungsversuch GVO | Abs. 1, Parteistellung |
 | 8 | BGE 139 II 279 | 530 | FINMA-Verfahren Parteistellung | Abs. 1, Anspruchsberechtigung |
-| 9 | BGE 108 V 130 | 170 | Begründungspflicht | Verhältnis zu Art. 35 VwVG |
-| 10 | BGer 8C_319/2010 | 216 | Sozialversicherung | Abs. 1, Anwendbarkeit |
+| 9 | BGer 2C_387/2013 | — | Akteneinsicht ausserhalb hängigen Verfahrens | Abs. 1, Voraussetzung hängiges Verfahren |
+| 10 | BGer 2C_119/2013 | — | Parteistellung/Akteneinsicht Aufsichtsrecht | Abs. 1, Parteistellung |
+| 11 | BGer 2C_762/2010 | — | Parteistellung/Akteneinsicht | Abs. 1, Anspruchsberechtigung |
+| 12 | BGer 1C_678/2023 | — | Baubewilligung/Akteneinsicht | Abs. 1, Parteistellung, Baurecht |
+| 13 | BGer 2C_242/2025 | — | Rechtsverweigerung/Akteneinsicht | Abs. 1, Verletzung rechtliches Gehör |
+| 14 | BGE 108 V 130 | 170 | Begründungspflicht | Verhältnis zu Art. 35 VwVG |
+| 15 | BGer 8C_319/2010 | 216 | Sozialversicherung | Abs. 1, Anwendbarkeit |
 
-*Letzte Aktualisierung: 28. Juni 2026*
+*Letzte Aktualisierung: 9. August 2026*

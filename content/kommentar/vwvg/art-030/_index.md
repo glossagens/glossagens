@@ -6,6 +6,8 @@ lastmod: 2026-07-02
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
 agent_verified: true
+mcp_verified: true
+lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut
@@ -148,3 +150,15 @@ Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Geh
 - [Art. 45 VwVG](../art-045/_index.md) — Zwischenverfügungen (lit. a: Ausnahme für nicht selbständig anfechtbare Zwischenverfügungen)
 - [Art. 48 VwVG](../art-048/_index.md) — Beschwerdeberechtigung (lit. e: Beschwerdemöglichkeit als Voraussetzung der Ausnahme)
 - [Art. 52 VwVG](../art-052/_index.md) — Beschwerdegründe (Verletzung der Anhörungspflicht als Beschwerdegrund)
+
+### VIII. Anhörung im Ausländerrecht und bei Ausreisebeschränkungen
+
+Im Ausländerrecht ist die Anhörungspflicht nach Art. 30 VwVG von besonderer praktischer Bedeutung. In [BGer 1C_437/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016) befasste sich das Bundesgericht mit der Ausreisebeschränkung und stellte klar, dass auch im Rahmen von Massnahmen nach dem Ausländer- und Integrationsgesetz die Anhörungspflicht vor Verfügungserlass uneingeschränkt gilt. Die Ausnahme nach Art. 30 Abs. 2 lit. e VwVG (Gefahr im Verzuge) ist bei Ausreisebeschränkungen restriktiv auszulegen, da die betroffene Person in ihren Grundrechten erheblich eingeschränkt wird und die nachträgliche Gehörsgewährung den Grundrechtseingriff nicht mehr rückgängig machen kann.
+
+### IX. Anhörung bei Vermögenssperre und Rechtshilfe
+
+In [BGer 1C_435/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_435_2024) behandelte das Bundesgericht die Sperrung von Vermögenswerten im Hinblick auf eine Einziehung beim Scheitern der Rechtshilfe (Art. 4 SRVG, Ukraine) und betonte, dass auch in Verfahren der Vermögenssperre die elementaren Verfahrensgrundsätze — namentlich die Anhörungspflicht nach Art. 30 VwVG — gewahrt werden müssen. Die Anhörung ist insbesondere erforderlich, wenn die Verfügung auf unbestimmt gehaltene Rechtsgrundlagen gestützt wird, da die Unbestimmtheit durch eine Stärkung der Verfahrensrechte zu kompensieren ist.
+
+### X. Anhörung im Baurecht und Sprungbeschwerde
+
+In [BGer 1C_737/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_737_2025) befasste sich das Bundesgericht mit der abfallrechtlichen Betriebsbewilligung im Sprungbeschwerdeverfahren und stellte klar, dass die Anhörungspflicht auch im Rahmen von Sprungbeschwerden gilt. Die Partei muss vor Erlass der Verfügung Gelegenheit haben, sich zum Sachverhalt und zu den Rechtsgrundlagen zu äussern, auch wenn das Verfahren durch Sprungbeschwerde direkt an das Bundesverwaltungsgericht gelangt.
