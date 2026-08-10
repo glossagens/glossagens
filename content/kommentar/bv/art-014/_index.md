@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"---
+    note: "Überarbeitet"
+---
 
 ## Art. 14 BV — Recht auf Ehe und Familie
 

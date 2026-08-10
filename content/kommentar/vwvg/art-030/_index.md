@@ -2,12 +2,10 @@
 title: "Art. 30 — Anhörung der Parteien"
 weight: 30
 date: 2026-06-28
-lastmod: 2026-07-02
+lastmod: 2026-08-09
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut

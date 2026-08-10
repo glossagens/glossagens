@@ -2,12 +2,10 @@
 title: "Art. 25 StGB — Gehilfenschaft"
 weight: 25
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Kommentar zu Art. 25 StGB – Gehilfenschaft"
 tags: ["StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Allgemeiner Teil"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut

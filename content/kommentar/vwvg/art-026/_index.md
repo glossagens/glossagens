@@ -2,12 +2,10 @@
 title: "Art. 26 — Akteneinsicht"
 weight: 26
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Kommentar zu Art. 26 VwVG – Anspruch der Partei auf Akteneinsicht im Verwaltungsverfahren"
 tags: ["VwVG", "Akteneinsicht", "Verwaltungsverfahren", "rechtliches Gehör", "Akten", "Verfahrensrecht"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut

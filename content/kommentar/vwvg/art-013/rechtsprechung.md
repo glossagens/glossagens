@@ -2,12 +2,10 @@
 title: "Rechtsprechung zu Art. 13 VwVG"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Übersicht der Entscheide zu Art. 13 VwVG – Mitwirkung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "Mitwirkungspflicht"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Rechtsprechung zu Art. 13 VwVG — Mitwirkung der Parteien

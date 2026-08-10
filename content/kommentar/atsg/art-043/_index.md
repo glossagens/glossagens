@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."---
+    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."
+---
 
 # Art. 43 ATSG
 

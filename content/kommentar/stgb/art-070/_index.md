@@ -12,7 +12,8 @@ revisions:
     by: "Claude Code"
     model: "minimax-m3"
     mcp_verified: false
-    note: "Neuanlage KW32 — Erstkommentar zum reformierten Einziehungsrecht (BG 17.6.2022, AS 2023 468; in Kraft seit 1.1.2024). Gesetzeswortlaut via swissrights.ch abgerufen; BGE-Belege via WebSearch/OpenCaseLaw-URLs/weblaw/bger.li verifiziert: BGE 147 IV 479 (1.6.2021, 6B_379/2020), BGE 146 IV 201 (1.4.2020, 6B_178/2019), BGE 145 IV 237 (17.5.2019, 6B_1065/2017), BGE 144 IV 1 (24.10.2017, 6B_735/2016), BGE 141 IV 155 (25.2.2015), BGE 142 IV 383 (22.9.2016), BGE 139 IV 209 (18.4.2013, 6B_491/2012), BGE 150 IV 338 (13.6.2024, 6B_1166/2023). opencaselaw MCP war während der Erstellung offline ('Invalid request parameters' auf alle Aufrufe); daher keine Volltext-Prüfung via get_erwaegung. Eine zitierte Referenz (BGE 145 IV 250) wurde nach erster Aufnahme als themenfremd (Invalidenversicherung) erkannt und durch BGE 139 IV 209 ersetzt."---
+    note: "Neuanlage KW32 — Erstkommentar zum reformierten Einziehungsrecht (BG 17.6.2022, AS 2023 468; in Kraft seit 1.1.2024). Gesetzeswortlaut via swissrights.ch abgerufen; BGE-Belege via WebSearch/OpenCaseLaw-URLs/weblaw/bger.li verifiziert: BGE 147 IV 479 (1.6.2021, 6B_379/2020), BGE 146 IV 201 (1.4.2020, 6B_178/2019), BGE 145 IV 237 (17.5.2019, 6B_1065/2017), BGE 144 IV 1 (24.10.2017, 6B_735/2016), BGE 141 IV 155 (25.2.2015), BGE 142 IV 383 (22.9.2016), BGE 139 IV 209 (18.4.2013, 6B_491/2012), BGE 150 IV 338 (13.6.2024, 6B_1166/2023). opencaselaw MCP war während der Erstellung offline ('Invalid request parameters' auf alle Aufrufe); daher keine Volltext-Prüfung via get_erwaegung. Eine zitierte Referenz (BGE 145 IV 250) wurde nach erster Aufnahme als themenfremd (Invalidenversicherung) erkannt und durch BGE 139 IV 209 ersetzt."
+---
 
 ## Gesetzeswortlaut
 

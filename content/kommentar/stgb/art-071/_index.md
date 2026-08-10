@@ -12,7 +12,8 @@ revisions:
     by: "Claude Code"
     model: "minimax-m3"
     mcp_verified: true
-    note: "Neuanlage KW32 — Erstkommentar zur Ersatzforderung nach Art. 71 StGB. Gesetzeswortlaut via opencaselaw-MCP get_law ab StGB SR 311.0 (Stand 12.6.2026 Fedlex) verifiziert. Sämtliche BGE-Zitate via opencaselaw cite + get_erwaegung gegen das opencaselaw-Korpus verifiziert (BGE 141 IV 305 E. 6.3.3, BGE 141 IV 317 E. 5.8.2, BGE 146 IV 201 E. 8.3 ff., BGE 119 IV 17 E. 2, BGE 147 IV 479 E. 7.4, BGE 139 IV 209 E. 5.1, BGE 150 IV 338 E. 2.3). BGE 119 IV 17 betrifft historisch Art. 58 aStGB; die Ersatzforderungs-Grundsätze (keine Solidarhaftung; persönlicher Konsum kein Vermögensvorteil) gelten unverändert für Art. 71 nStGB."---
+    note: "Neuanlage KW32 — Erstkommentar zur Ersatzforderung nach Art. 71 StGB. Gesetzeswortlaut via opencaselaw-MCP get_law ab StGB SR 311.0 (Stand 12.6.2026 Fedlex) verifiziert. Sämtliche BGE-Zitate via opencaselaw cite + get_erwaegung gegen das opencaselaw-Korpus verifiziert (BGE 141 IV 305 E. 6.3.3, BGE 141 IV 317 E. 5.8.2, BGE 146 IV 201 E. 8.3 ff., BGE 119 IV 17 E. 2, BGE 147 IV 479 E. 7.4, BGE 139 IV 209 E. 5.1, BGE 150 IV 338 E. 2.3). BGE 119 IV 17 betrifft historisch Art. 58 aStGB; die Ersatzforderungs-Grundsätze (keine Solidarhaftung; persönlicher Konsum kein Vermögensvorteil) gelten unverändert für Art. 71 nStGB."
+---
 
 ## Gesetzeswortlaut
 

@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGer 6B_636/2025 (Untermassverbot vs. Art. 61 StGB) in rechtsprechung.md ergänzt; lastmod synchronisiert."---
+    note: "Ergänzung KW31 — BGer 6B_636/2025 (Untermassverbot vs. Art. 61 StGB) in rechtsprechung.md ergänzt; lastmod synchronisiert."
+---
 
 ## Wortlaut
 

@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"---
+    note: "Überarbeitet"
+---
 
 Zurück zum Kommentar: [Art. 34 BV — Politische Rechte](./)
 

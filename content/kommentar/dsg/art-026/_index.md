@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"---
+    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"
+---
 
 > **Art. 26 DSG — Einschränkungen des Auskunftsrechts**
 >

@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Überarbeitet"---
+    note: "Überarbeitet"
+---
 
 # Art. 32 KVG
 

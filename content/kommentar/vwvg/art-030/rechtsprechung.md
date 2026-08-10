@@ -2,12 +2,10 @@
 title: "Rechtsprechung zu Art. 30 VwVG"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Übersicht der Entscheide zu Art. 30 VwVG – Anhörung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Anhörung", "Parteianhörung"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Thematische Rechtsprechungsübersicht

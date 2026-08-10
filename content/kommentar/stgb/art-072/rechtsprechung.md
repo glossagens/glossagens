@@ -12,7 +12,8 @@ revisions:
     by: "Claude Code"
     model: "minimax-m3"
     mcp_verified: true
-    note: "Neuanlage KW32 — Übersicht der bundesgerichtlichen und bundesstrafgerichtlichen Rechtsprechung zur Einziehung nach Art. 72 StGB. Alle Zitate via opencaselaw cite + get_erwaegung verifiziert: BGE 134 IV 185 E. 2.1 (9.5.2008, schweizerische Zuständigkeit; vormals Art. 59 Ziff. 3 aStGB), BStGer BB.2020.62 vom 15.7.2020 E. 2.2 ff. (Verfügungsmacht als faktische Verfügbarkeit, Vermutung, Widerlegung, Verjährung, Einziehung im selbständigen Verfahren)."---
+    note: "Neuanlage KW32 — Übersicht der bundesgerichtlichen und bundesstrafgerichtlichen Rechtsprechung zur Einziehung nach Art. 72 StGB. Alle Zitate via opencaselaw cite + get_erwaegung verifiziert: BGE 134 IV 185 E. 2.1 (9.5.2008, schweizerische Zuständigkeit; vormals Art. 59 Ziff. 3 aStGB), BStGer BB.2020.62 vom 15.7.2020 E. 2.2 ff. (Verfügungsmacht als faktische Verfügbarkeit, Vermutung, Widerlegung, Verjährung, Einziehung im selbständigen Verfahren)."
+---
 
 ## I. Schweizerische Zuständigkeit; Verhältnis zur alten Fassung
 

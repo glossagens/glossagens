@@ -2,12 +2,10 @@
 title: "Art. 13 — Mitwirkung der Parteien"
 weight: 13
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Kommentar zu Art. 13 VwVG – Mitwirkung der Parteien im Verwaltungsverfahren"
 tags: ["VwVG", "Mitwirkungspflicht", "Verwaltungsverfahren", "Sachverhaltsermittlung"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Gesetzeswortlaut

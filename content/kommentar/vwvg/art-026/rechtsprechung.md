@@ -2,12 +2,10 @@
 title: "Rechtsprechung zu Art. 26 VwVG — Akteneinsicht"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Übersicht der Entscheide zu Art. 26 VwVG – Akteneinsicht im Verwaltungsverfahren"
 tags: ["Rechtsprechung", "VwVG", "Akteneinsicht", "rechtliches Gehör", "Verwaltungsverfahren"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Leitentscheide (BGE)

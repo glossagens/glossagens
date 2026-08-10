@@ -12,7 +12,8 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 73 BV"---
+    note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 73 BV"
+---
 
 ## Rechtsprechung zu Art. 73 BV — Nachhaltigkeit
 

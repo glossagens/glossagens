@@ -2,12 +2,10 @@
 title: "Rechtsprechung zu Art. 22 StGB"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-09
 description: "Übersicht der Entscheide zu Art. 22 StGB – Versuch"
 tags: ["Rechtsprechung", "StGB", "Versuch", "untauglicher Versuch", "Strafmilderung"]
 agent_verified: true
-mcp_verified: true
-lastmod: 2026-08-09
 ---
 
 ## Begriff und Voraussetzungen des Versuchs
