@@ -1,6 +1,9 @@
 import os
 import re
+import shutil
 import sqlite3
+import subprocess
+import tempfile
 from contextlib import contextmanager
 from datetime import datetime
 
@@ -12,6 +15,7 @@ DB_PATH = os.getenv("DB_PATH", "queue.db")
 LLM_API_URL = os.getenv("LLM_API_URL", "http://localhost:11434/v1")
 LLM_API_KEY = os.getenv("LLM_API_KEY", "")
 LLM_MODEL = os.getenv("LLM_MODEL", "hermes3")
+HUGO_BIN = os.getenv("HUGO_BIN", "hugo")
 
 
 @contextmanager
@@ -240,16 +244,71 @@ Kommentar zum Bundesgesetz. Tippe auf einen Artikel, um den Kommentar zu öffnen
     return f"PR #{pr_nr} erstellt: {index_path}"
 
 
+def _hugo_build_check(pr: dict) -> tuple[bool, str]:
+    """Baut den PR-Branch in einem temporären Checkout mit `hugo --minify`.
+
+    Verhindert kaputte Deploys durch fehlerhaftes Frontmatter (z. B. fehlender
+    YAML-Delimiter, doppelte Keys) — solche Fehler brachen den Live-Deploy zuvor
+    erst nach dem Merge, unbemerkt bis zur nächsten manuellen Prüfung. Ein
+    fehlgeschlagener Clone gilt ebenfalls als "nicht bestanden" (fail closed):
+    ohne erfolgreichen Checkout kann der Build nicht verifiziert werden.
+    """
+    head = pr["head"]
+    branch = head["ref"]
+    # Externe Beiträge (Kanal B, siehe CLAUDE.md) kommen oft aus Forks — dort
+    # greift unser Token nicht, aber öffentliche Forks lassen sich unauthentifiziert klonen.
+    head_repo = head.get("repo")
+    if head_repo and head_repo["full_name"] != gh.REPO:
+        clone_url = head_repo["clone_url"]
+    else:
+        clone_url = f"https://x-access-token:{gh.GITHUB_TOKEN}@github.com/{gh.REPO}.git"
+    tmp = tempfile.mkdtemp(prefix="glossagens-build-")
+    try:
+        clone = subprocess.run(
+            ["git", "clone", "--quiet", "--depth", "1", "--recurse-submodules",
+             "--branch", branch, clone_url, tmp],
+            capture_output=True, text=True, timeout=120,
+        )
+        if clone.returncode != 0:
+            log = f"{clone.stdout}\n{clone.stderr}".replace(gh.GITHUB_TOKEN, "***")
+            return False, f"git clone fehlgeschlagen:\n{log}"
+
+        build = subprocess.run(
+            [HUGO_BIN, "--minify"],
+            cwd=tmp, capture_output=True, text=True, timeout=180,
+        )
+        if build.returncode != 0:
+            return False, f"hugo --minify fehlgeschlagen:\n{build.stdout}\n{build.stderr}"
+
+        return True, ""
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
 def _execute_pr_merge(item: dict) -> str:
-    """Merged den PR ohne autonome Verifikation.
+    """Merged den PR ohne autonome Inhaltsverifikation, aber erst nach bestandenem
+    Hugo-Build-Check.
 
     Der Owner entscheidet über PRs direkt (z. B. via Telegram-Chat). `/approve`
-    bedeutet hier ausschliesslich: jetzt mergen. Keine LLM-Verifikation, kein
+    bedeutet: Build prüfen, dann mergen. Keine LLM-Verifikation, kein
     automatisches Schliessen.
     """
     pr_nr = item["github_id"]
+    pr = gh.get_pr(pr_nr)
+
+    ok, log = _hugo_build_check(pr)
+    if not ok:
+        # comment_issue funktioniert auch für PRs: die GitHub-API behandelt PRs
+        # für Kommentare als Issues (gemeinsamer /issues/{n}/comments-Endpoint).
+        gh.comment_issue(
+            pr_nr,
+            "❌ Automatischer Hugo-Build-Check fehlgeschlagen — PR wurde **nicht** gemergt:\n\n"
+            f"```\n{log[:3000]}\n```",
+        )
+        raise RuntimeError(f"Hugo-Build-Check für PR #{pr_nr} fehlgeschlagen:\n{log}")
+
     gh.merge_pr(pr_nr, "Approved by owner")
-    return f"PR #{pr_nr} gemerged."
+    return f"PR #{pr_nr} gemerged (Hugo-Build-Check bestanden)."
 
 
 # ── Reject ────────────────────────────────────────────────────────────────────

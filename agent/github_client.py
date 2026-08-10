@@ -77,6 +77,10 @@ def close_pr(pr_number: int):
     _r("PATCH", f"/repos/{REPO}/pulls/{pr_number}", json={"state": "closed"})
 
 
+def get_pr(pr_number: int) -> dict:
+    return _r("GET", f"/repos/{REPO}/pulls/{pr_number}")
+
+
 def get_pr_state(pr_number: int) -> dict:
     """Returns {'state': 'open'|'closed', 'merged': bool} for a PR."""
     data = _r("GET", f"/repos/{REPO}/pulls/{pr_number}")
