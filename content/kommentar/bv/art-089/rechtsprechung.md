@@ -1,124 +1,180 @@
 ---
 title: "Rechtsprechung zu Art. 89 BV"
 weight: 99
-date: 2026-08-09
-lastmod: 2026-08-09
-description: "Übersicht der massgeblichen Entscheide zu Art. 89 BV (Energiepolitik: Energieversorgung, Gesetzgebungskompetenz, erneuerbare Energien, Kernenergie, StromVG)"
-tags: ["Rechtsprechung", "BV", "Energiepolitik", "Energieversorgung", "Kernenergie", "StromVG", "KEG", "CO2"]
+date: 2026-08-10
+lastmod: 2026-08-10
+description: "Übersicht der massgeblichen Entscheide zu Art. 89 BV (Energiepolitik: Energieversorgung, Gesetzgebungskompetenz, erneuerbare Energien, StromVG, KEG, CO2-Gesetz)"
+tags: ["Rechtsprechung", "BV", "Energiepolitik", "Energieversorgung", "StromVG", "KEG", "CO2", "EnG"]
 agent_verified: true
+mcp_verified: true
 revisions:
-
-  - date: 2026-08-09
+  - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"---
+    note: "Neuerstellung nach Audit"
+---
 
-## Fokusentscheide
+## Leitentscheide
 
-### BGE 138 I 454 (28.03.2012, I. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: Abschliessende Bundesregelung betreffend Vergütung von dezentral erzeugter Energie; Art. 49 Abs. 1 und Art. 89 BV; § 18 Abs. 1 EnG/LU
-- **Kernaussage**: Die abschliessende Bundesregelung im EnG (Art. 7 und 7a EnG) betreffend die Vergütung von dezentral erzeugter Energie durch Elektrizitätsverteilwerke verdrängt kantonale Regelungen. Art. 89 BV als Gesetzgebungskompetenznorm vermittelt keinen direkten Individualanspruch auf Vergütung.
-- **Einordnung**: Leitentscheid zur Kompetenzverteilung Bund/Kantone im Energiebereich; Bestätigung des Vorrangs des Bundesrechts nach Art. 49 Abs. 1 BV.
-- **Sachverhalt**: Der Beschwerdeführer begehrte die Aufhebung einer kantonalen Regelung (§ 18 Abs. 1 EnG/LU), die von der abschliessenden bundesrechtlichen Regelung abwich.
-- **Erwägungen**:
-  - E. 3.1: Die fünf Zielkriterien in Art. 89 Abs. 1 BV stehen gleichrangig und sind im Einzelfall gegeneinander abzuwägen.
-  - E. 5.1: Die abschliessende Bundesregelung im EnG verdrängt kantonale Regelungen (Art. 49 Abs. 1 BV).
-  - E. 5.3: Art. 89 Abs. 2 BV regelt vornehmlich die Gesetzgebungskompetenz zwischen Bund und Kantonen.
-- **Dispositiv**: Gutheissung der Beschwerde; Aufhebung des kantonalen Rechts.
-- **Besetzung**: I. öffentlich-rechtliche Abteilung
+### Abs. 1 — Energiepolitische Zielsetzung
+
+#### BGE 149 I 49 (23.03.2023, I. öffentlich-rechtliche Abteilung)
+
+- **Thema**: Eigentumsgarantie und Verbot von Elektroheizungen; Art. 26 und 36 BV, Art. 89 Abs. 1 BV
+- **Kernaussage**: Die mit dem Verbot von Elektroheizungen verbundene Pflicht zur Entfernung solcher Anlagen und die daran anknüpfende Strafdrohung im Kanton Zürich beschränken das Eigentum von Inhaberinnen und Inhabern entsprechender Heizungssysteme. Die gesetzliche Regelung bildet eine genügende Grundlage für den Eingriff in die Eigentumsgarantie, beruht auf einem ausreichenden öffentlichen Interesse und ist verhältnismässig.
+- **Einschlägig für**: Art. 89 Abs. 1 BV (sparsamer und rationeller Energieverbrauch), Abs. 4 BV (Kantonzuständigkeit für Gebäude)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 149 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_49)
+
+---
+
+#### BGE 146 I 145 (05.05.2020, I. öffentlich-rechtliche Abteilung)
+
+- **Thema**: Klimaschutz als staatliche Aufgabe; Art. 25a VwVG, Art. 6 Ziff. 1 EMRK
+- **Kernaussage**: Der Begriff der Handlungen im Sinne von Art. 25a VwVG ist weit auszulegen und umfasst neben individuell-konkreten Realakten grundsätzlich auch generell-abstrakte. Über den Gesetzeswortlaut hinaus kann auch behördliches Unterlassen gerügt werden. Das Gesuch um Erlass einer Verfügung über Realakte im Zusammenhang mit dem Klimaschutz ist zulässig.
+- **Einschlägig für**: Art. 89 Abs. 1 BV (umweltverträgliche Energieversorgung), Art. 73 BV (Nachhaltigkeit)
+- **Verifizierung**: supports=yes, confidence=0.97
+- **OCL**: [BGE 146 I 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_145)
+
+---
+
+### Abs. 2 — Gesetzgebungskompetenz des Bundes
+
+#### BGE 138 I 454 (27.10.2012, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: Abschliessende Bundesregelung betreffend Vergütung von dezentral erzeugter Energie; Art. 49 Abs. 1 und Art. 89 BV; § 18 Abs. 1 EnG/LU
+- **Kernaussage**: Die abschliessende Bundesregelung im EnG (Art. 7 und 7a EnG) betreffend die Vergütung von dezentral erzeugter Energie durch Elektrizitätsverteilwerke verdrängt kantonale Regelungen. Art. 49 Abs. 1 BV (Vorrang des Bundesrechts) kommt zur Anwendung. Zusätzliche Vergütungskomponenten, die durch kantonale Behörden angeordnet werden, haben keinen Raum mehr.
+- **Einschlägig für**: Art. 89 Abs. 2 BV (Grundsatzkompetenz), Art. 49 Abs. 1 BV (Vorrang des Bundesrechts)
+- **Verifizierung**: supports=yes, confidence=0.98
 - **OCL**: [BGE 138 I 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_454)
 
 ---
 
-### BGE 132 II 408 (31.08.2006, II. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: Raumplanung, Schutzzone, Energiepolitik, kantonaler Nutzungsplan für Windkraftanlagen
-- **Kernaussage**: Nutzungsänderung eines als Schutzzone im Sinne von Art. 17 Abs. 1 RPG ausgeschiedenen Gebietes für Windkraftanlagen; Anforderungen gemäss Art. 21 Abs. 2 RPG; Abwägung der Interessen zur Feststellung des öffentlichen Interesses an der Windkraftnutzung. Art. 89 BV als energiepolitischer Massstab.
-- **Einordnung**: Leitentscheid zur energiepolitischen Interessenabwägung bei der Raumplanung; Windkraft als erneuerbare Energie im Sinne von Art. 89 Abs. 2 BV.
-- **Sachverhalt**: Begehren um Nutzungsplanänderung für Windkraftanlagen in einer Schutzzone.
-- **Erwägungen**:
-  - E. 4.1: Schutzzone nach Art. 17 Abs. 1 RPG und Anforderungen an die Nutzungsänderung.
-  - E. 4.2: Abwägung der Interessen zwischen Naturschutz und Energiepolitik nach Art. 89 BV.
-- **Dispositiv**: Abweisung der Beschwerde.
-- **Besetzung**: II. öffentlich-rechtliche Abteilung
-- **OCL**: [BGE 132 II 408](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_408)
+#### BGE 150 II 334 (22.03.2024, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: EnG, Einspeisevergütung, Hybridanlagen; Art. 19 und 72 EnG, Art. 16 Abs. 2 EnFV
+- **Kernaussage**: Unterscheidung zwischen «Mischanlagen» und Hybridanlagen; Klärgas ist kein förderungsberechtigter erneuerbarer Energieträger im Sinne des EnG. Die Berechnung des Vergütungssatzes für Hybridanlagen im Einspeisevergütungssystem richtet sich nach den spezifischen Regelungen des EnG.
+- **Einschlägig für**: Art. 89 Abs. 2 und 3 BV (erneuerbare Energien, Förderung von Energietechniken)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 150 II 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_334)
 
 ---
 
-### BGE 139 II 185 (2013, II. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: KEG, Bewilligungspflicht für Kernanlagen; Betriebsbewilligung, Gefährdungsannahmen
-- **Kernaussage**: Umfassende Darstellung der Bewilligungspflicht für den Betrieb von Kernanlagen nach KEG, der Voraussetzungen für Erteilung, Inhalt und Entzug der Betriebsbewilligung. Zentrale Entscheidung zum Kernenergierecht im Kontext von Art. 89 und Art. 90 BV.
-- **Einordnung**: Leitentscheid zum Kernenergierecht; Bestätigung der strengen Bewilligungsvoraussetzungen nach KEG.
-- **OCL**: [BGE 139 II 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_185)
+### Abs. 3 — Vorschriften und Förderung
+
+#### BGE 143 I 395 (14.07.2017, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: StromVG, Messwesen, Photovoltaikanlagen; Art. 27 und 91 BV, Art. 4 Abs. 2 und Art. 7 ff. EnG, Art. 1, 5, 6, 13 StromVG
+- **Kernaussage**: Es besteht kein Monopol für das Messwesen; die Wahl des Messdienstleisters unterliegt der Wirtschaftsfreiheit des Produzenten. Der Betreiber von Photovoltaikanlagen ist Elektrizitätserzeuger; die zuständige Verteilnetzbetreiberin ist verpflichtet, ihn an das Elektrizitätsnetz anzuschliessen.
+- **Einschlägig für**: Art. 89 Abs. 3 BV (Förderung von Energietechniken), Art. 91 BV (Transport von Energie)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 143 I 395](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_395)
 
 ---
 
-### BGE 142 II 451 (20.07.2016, II. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: StromVG, ElCom-Tarife; anrechenbare Energiekosten
-- **Kernaussage**: Entscheid der ElCom «im Streitfall» über Elektrizitätstarife; prozessuale Stellung von Lieferanten und Endverbrauchern; Kostenaufteilung zwischen Netzebene und Energieebene nach Art. 6 und Art. 22 StromVG.
-- **Einordnung**: Leitentscheid zum Stromversorgungsrecht und zur ElCom-Zuständigkeit.
-- **OCL**: [BGE 142 II 451](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_451)
+#### BGE 141 II 141 (09.02.2015, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: StromVG, Arealnetze; Art. 4 Abs. 1 lit. a und b, Art. 5, 6, 13 und 14 StromVG
+- **Kernaussage**: Ein Arealnetz ist kein Verteilnetz und untersteht dem StromVG nicht. Rechte und Pflichten der Verteilnetzbetreiber gelten deshalb nicht für Arealnetze. Das StromVG gewährt zwar allen Endverbrauchern einen Anspruch auf Grundversorgung resp. Netzzugang; es regelt aber nicht das Arealnetz.
+- **Einschlägig für**: Art. 89 Abs. 3 BV (Stromversorgungsrecht als Ausführungsgesetz)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 141 II 141](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_II_141)
 
 ---
 
-### BGE 143 II 87 (17.10.2016, II. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: CO₂-Gesetz, Emissionshandelssystem, Treibhausgaseffizienz
-- **Kernaussage**: Grundzüge des CO₂-Emissionshandelssystems (E. 3); kostenlose Zuteilung von Emissionsrechten bei der Produktion von Steinwolle (E. 4.1–4.3). Treibhausgaseffizienz als Massstab nach Art. 15 ff. CO₂-Gesetz.
-- **Einordnung**: Leitentscheid zum CO₂-Recht; Bedeutung für Art. 89 Abs. 1 BV (umweltverträgliche Energieversorgung).
+#### BGE 138 II 465 (03.07.2012, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: StromVG, Netznutzungsentgelt; Art. 15 Abs. 1 und 3 StromVG, Art. 13 und 31a StromVV
+- **Kernaussage**: Die synthetische Methode zur Berechnung der Anschaffungs- bzw. Herstellkosten ist eine Ausnahmemethode, welche nur dann zulässig ist, wenn eine Berechnung der ursprünglichen Anlagewerte anhand historischer Belege nicht möglich ist. Festsetzung des Netznutzungsentgelts und anrechenbare Kapitalkosten.
+- **Einschlägig für**: Art. 89 Abs. 3 und 5 BV (wirtschaftliche Energieversorgung, wirtschaftliche Tragbarkeit)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 138 II 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_II_465)
+
+---
+
+#### BGE 151 II 687 (2025, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: StromVG, Tarifprüfung; Art. 22 Abs. 2 lit. a und Art. 25 Abs. 1 StromVG
+- **Kernaussage**: Die Prüfung der Gesetzmässigkeit der Tarife im Rahmen des individuellen Tarifprüfungsverfahrens erfolgt grundsätzlich gestützt auf die Ist-Werte des letztverfügbaren Jahres (Basisjahrprinzip). Untersuchungsgrundsatz und Grundsatz der freien Beweiswürdigung im Tarifprüfungsverfahren.
+- **Einschlägig für**: Art. 89 Abs. 5 BV (wirtschaftliche Tragbarkeit)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 151 II 687](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_II_687)
+
+---
+
+#### BGE 143 II 87 (17.10.2016, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: CO₂-Gesetz, Emissionshandelssystem; Art. 15 ff. CO₂-Gesetz, Art. 45 ff. CO₂-Verordnung
+- **Kernaussage**: Grundzüge des CO₂-Emissionshandelssystems (E. 3) und der kostenlosen Zuteilung von Emissionsrechten (E. 4.1–4.3). Treibhausgaseffizienz von Anlagen als Massstab für die kostenlose Zuteilung von Emissionsrechten nach Art. 15 ff. CO₂-Gesetz.
+- **Einschlägig für**: Art. 89 Abs. 1 BV (umweltverträgliche Energieversorgung), Abs. 3 BV (Energieverbrauchsvorschriften)
+- **Verifizierung**: supports=yes, confidence=0.98
 - **OCL**: [BGE 143 II 87](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_II_87)
 
 ---
 
-### BGE 140 II 262 (02.04.2014, II. öffentlich-rechtliche Abteilung)
-- **Gegenstand**: Wassernutzungskonzession für Kleinwasserkraftwerk; RPG, USG, GSchG, WRG
-- **Kernaussage**: Kleinwasserkraftwerk erfordert keine Grundlage im Richtplan (E. 2); Prüfungsgegenstand der Umweltverträglichkeitsprüfung; Interessenabwägung im Wasserrecht und Energiepolitik nach Art. 89 und Art. 76 BV.
-- **Einordnung**: Leitentscheid zur Wasserkraft als erneuerbare Energiequelle.
-- **OCL**: [BGE 140 II 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_262)
+#### BGE 139 II 185 (28.03.2013, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: KEG, Bewilligungspflicht für Kernanlagen; Art. 4, 5, 19, 20, 21, 22, 65, 67, 70, 71 und 72 KEG
+- **Kernaussage**: Umfassende Darstellung der Bewilligungspflicht für den Betrieb von Kernanlagen nach KEG, der Voraussetzungen für Erteilung, Inhalt und Entzug der Betriebsbewilligung. Zuständigkeiten von Bewilligungs-, Aufsichts- und Rechtsmittelbehörden (E. 9).
+- **Einschlägig für**: Art. 89 Abs. 1 BV (sichere Energieversorgung), Art. 90 BV (Kernenergie)
+- **Verifizierung**: supports=yes, confidence=0.98
+- **OCL**: [BGE 139 II 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_185)
 
 ---
 
-## Weitere Entscheide
+#### BGE 140 II 315 (2014, II. öffentlich-rechtliche Abteilung)
 
-### BGE 131 II 545 (28.08.2005)
-- **Thema**: Natur- und Heimatschutz bei Mobilfunkanlagen (Art. 3 NHG); Energiepolitik
-- **Kernaussage**: Erteilung einer Baubewilligung für eine Mobilfunkanlage ist auch innerhalb der Bauzone eine Bundesaufgabe i.S.v. Art. 2 NHG; Schonungspflicht nach Art. 3 NHG; energiepolitische Interessen.
-- **OCL**: [BGE 131 II 545](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_545)
-
-### BGer 1C_36/2011 (08.02.2012)
-- **Thema**: Mutation zum Zonenreglement Siedlung 2008; Art. 89 BV als energiepolitischer Rahmen
-- **Kernaussage**: Die Beschwerdeführerin als Grundeigentümerin ist von der Planänderung betroffen; Art. 89 BV als energiepolitischer Rahmen bei der Beurteilung raumplanerischer Mutationen.
-- **OCL**: [BGer 1C_36/2011](https://mcp.opencaselaw.ch/entscheid/bger_1C_36_2011)
-
-### BGE 149 II 368 (29.06.2026)
-- **Thema**: Materielle Enteignung; Nichteinzonung infolge Zuweisung zu einer Zone für Bauten im kommunalen Interesse; Art. 5 Abs. 2 RPG
-- **Kernaussage**: Nichteinzonung als materielle Enteignung; Art. 26 Abs. 2 BV; energiepolitische Interessen bei der Richtplanung.
-- **OCL**: [BGE 149 II 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_II_368)
-
-### BGE 127 II 238 (2001)
-- **Thema**: RPG, kantonales Bau- und Planungsrecht; Planung und Energieanlagen
-- **Kernaussage**: Art. 25a und Art. 33 Abs. 3 lit. b RPG; kantonales Bau- und Planungsrecht im Spannungsfeld mit der Energiepolitik nach Art. 89 BV.
-- **OCL**: [BGE 127 II 238](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_II_238)
-
-### BGE 135 II 22 (2010)
-- **Thema**: Baubewilligung, Beschwerdelegitimation, Energieanlagen
-- **Kernaussage**: Beschwerdelegitimation bei Baubewilligungsverfahren; energiepolitische Interessen als öffentliches Interesse nach Art. 89 BV.
-- **OCL**: [BGE 135 II 22](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_22)
-
-### BGE 141 I 201 (2015)
-- **Thema**: Art. 13, 16 und 36 BV; gesetzliche Grundlage für Grundrechtseingriffe
-- **Kernaussage**: Unbefristete Auflage als Eingriff in informationelle Selbstbestimmung; Bedeutung für energiepolizeiliche Auflagen und Datenbereitstellungspflichten.
-- **OCL**: [BGE 141 I 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_201)
-
-### BGE 128 II 355 (2002)
-- **Thema**: IRSG, Rechtshilfe; internationale Zusammenarbeit im Energiebereich
-- **Kernaussage**: Internationale Rechtshilfe; Art. 1, Art. 2 Ziff. 1, Art. 3 Ziff. 1 und Art. 9 EAUe.
-- **OCL**: [BGE 128 II 355](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_II_355)
-
-### BVGer A-7751/2006 (02.11.2007)
-- **Thema**: Forschungsförderung allgemein; Energiepolitik nach Art. 89 Abs. 1 und 3 BV
-- **Kernaussage**: Die Energiepolitik des Bundes wird in Art. 89 Abs. 1 und 3 BV definiert. Art. 89 Abs. 2 BV regelt vornehmlich die Gesetzgebungskompetenz zwischen Bund und Kantonen. Forschungsförderung im Energiebereich als Bundesaufgabe nach Art. 89 Abs. 3 BV.
-- **OCL**: [BVGer A-7751/2006](https://mcp.opencaselaw.ch/entscheid/bvger_A-7751_2006)
+- **Thema**: KEG, Störfallvorsorge, Verfügung über aufsichtsrechtliche Realakte; Art. 8 EMRK, Art. 10 BV, Art. 25a VwVG, Art. 64 Abs. 3 KEG
+- **Kernaussage**: Das Kernenergierecht schliesst die Anwendbarkeit von Art. 25a VwVG gegenüber der Aufsichtstätigkeit des ENSI im Bereich der Störfallvorsorge nicht aus. Schutzwürdiges Interesse und Berührtsein in der Rechtsstellung als Voraussetzungen für eine Verfügung über Realakte werden bei Anwohnern eines Kernkraftwerks bejaht.
+- **Einschlägig für**: Art. 89 Abs. 1 BV (sichere Energieversorgung), Art. 90 BV (Kernenergie)
+- **Verifizierung**: supports=yes, confidence=0.99
+- **OCL**: [BGE 140 II 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_315)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-09*
+## Kontextzitate
+
+Die folgenden Entscheide thematisieren Ausführungsgesetze von Art. 89 BV, ohne den Verfassungsartikel direkt zum Gegenstand zu machen:
+
+### BGE 149 I 291 (03.05.2023, I. öffentlich-rechtliche Abteilung)
+
+- **Thema**: Kommunale Volksinitiative zur Umstellung auf erneuerbare Energien; Art. 26, 34 Abs. 1 und 73 BV, kantonales Energiegesetz (KEnG/LU)
+- **Kernaussage**: Gültigkeit einer kommunalen Volksinitiative zur Umstellung aller Heizungssysteme auf erneuerbare Energien bis 2030. Die Initiative enthält eine verbindliche Zielvorgabe und bezweckt einen Grundsatzbeschluss.
+- **Einschlägig für**: Art. 89 Abs. 4 BV (Kantonzuständigkeit für Gebäude)
+- **Verifizierung**: supports=partial, confidence=0.72
+- **OCL**: [BGE 149 I 291](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_291)
+
+---
+
+### BGE 144 II 454 (15.10.2018, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: KEG, Kooperationspflicht, gesetzliche Grundlage; Art. 5 Abs. 1, Art. 164 Abs. 1 lit. d, Art. 127 Abs. 1 BV, Art. 83 Abs. 1 und 2, Art. 84 lit. a KEG
+- **Kernaussage**: Fehlende gesetzliche Grundlage für die Regelung über die Kooperationspflicht von Kernkraftwerksbetreibern. Die Kooperationspflicht bedarf einer formellgesetzlichen Basis nach Art. 164 Abs. 1 lit. d BV.
+- **Einschlägig für**: Art. 89 Abs. 1 BV (sichere Energieversorgung), Art. 90 BV (Kernenergie)
+- **Verifizierung**: supports=partial, confidence=0.72
+- **OCL**: [BGE 144 II 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454)
+
+---
+
+### BGE 144 III 111 (18.01.2018, I. zivilrechtliche Abteilung)
+
+- **Thema**: StromVG, Netzanschlussverhältnis; Art. 1 lit. a ZPO, Art. 10, 13, 14, 22 StromVG
+- **Kernaussage**: Bestimmung der Rechtsnatur des Netzanschlussverhältnisses im Rahmen des Stromversorgungsgesetzes. Qualifikation als zivil- oder öffentlich-rechtliche Streitigkeit.
+- **Einschlägig für**: Art. 89 Abs. 3 BV (Stromversorgungsrecht)
+- **Verifizierung**: supports=partial, confidence=0.62
+- **OCL**: [BGE 144 III 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_111)
+
+---
+
+### BGE 138 I 468 (23.11.2012, II. öffentlich-rechtliche Abteilung)
+
+- **Thema**: StromVG, bundesrechtswidrige kantonale Preisbestimmungen; Art. 49 Abs. 1 und Art. 91 Abs. 1 BV, Art. 5, 6, 14 und 22 StromVG
+- **Kernaussage**: Mit der neuen Stromversorgungsgesetzgebung ist die in einem Konzessionsvertrag festgehaltene Kompetenz des Gemeinderates, die Tarife für die Energielieferung einer privatrechtlichen Netzbetreiberin zu genehmigen, bundesrechtswidrig.
+- **Einschlägig für**: Art. 89 Abs. 2 und 3 BV (Bundeskompetenz im Stromversorgungsrecht)
+- **Verifizierung**: supports=partial, confidence=0.85
+- **OCL**: [BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468)
+
+---
+
+Zuletzt aktualisiert: 2026-08-10 | [Bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/bv/art-089/rechtsprechung.md) | [Anregung einreichen](/einreichung)
