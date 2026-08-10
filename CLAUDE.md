@@ -164,4 +164,4 @@ Bei Bestehen beider Stufen: automatischer Merge + Deploy.
 ## Offene nächste Schritte
 
 - [ ] Weitere Gesetze/Artikel befüllen
-- [ ] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen
+- [x] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen
