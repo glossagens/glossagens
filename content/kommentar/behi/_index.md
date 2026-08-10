@@ -1,16 +1,25 @@
 ---
-title: "SR 151.3 — BehiG — Behindertengleichstellungsgesetz"
+title: SR 151.3 — BehiG — Behindertengleichstellungsgesetz
 weight: 151
-date: 2026-07-22
-lastmod: 2026-08-01
-description: "Kommentar zum Behindertengleichstellungsgesetz (BehiG, SR 151.3) vom 13. Dezember 2002 — Benachteiligung behinderter Menschen, Zugang zu Bauten, Anlagen und Wohnungen, öffentlicher Verkehr"
-tags: ["BehiG", "Behindertengleichstellung", "BRK", "Zugänglichkeit", "Diskriminierung"]
+date: '2026-07-22'
+lastmod: '2026-08-01'
+description: Kommentierte Artikel zum Behindertengleichstellungsgesetz (BehiG, SR 151.3, vom 13. Dezember 2002).
+tags:
+- BehiG
+- Behindertengleichstellung
+- BRK
+- Zugänglichkeit
+- Diskriminierung
 agent_verified: true
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-# Behindertengleichstellungsgesetz (BehiG)
-
-Das Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG; SR 151.3) vom 13. Dezember 2002 bezweckt die Beseitigung von Benachteiligungen behinderter Menschen im öffentlichen Leben. Es verpflichtet Bund, Kantone und Gemeinwesen, die Benachteiligung behinderter Menschen in der Gestaltung von Bauten, Anlagen, Einrichtungen und bei der Zusicherung von Leistungen (Art. 2 BehiG) zu verhindern. Das Gesetz wurde massgeblich durch die UNO-Behindertenrechtskonvention (BRK) beeinflusst, die für die Schweiz am 15. Mai 2014 in Kraft trat.
+Kommentar zum [Bundesgesetz vom 13. Dezember 2002 über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen](https://www.fedlex.admin.ch/eli/cc/2003/123_123_123/de) (BehiG, SR 151.3). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

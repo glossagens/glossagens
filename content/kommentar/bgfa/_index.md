@@ -1,10 +1,23 @@
 ---
-title: "SR 935.61 — BGFA — Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte"
+title: SR 935.61 — BGFA — Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte
 weight: 20
-description: "Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz, BGFA, SR 935.61)"
+date: '2026-08-10'
+lastmod: '2026-08-10'
+description: Kommentierte Artikel zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (BGFA, SR 935.61, vom 23. Juni 2000).
+tags:
+- BGFA
+- Anwaltsrecht
+- Freizügigkeit
+agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-Kommentar zum [Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte vom 23. Juni 2000 (SR 935.61)](https://www.fedlex.admin.ch/eli/cc/2001/1244_1244_1244/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+Kommentar zum [Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen und Anwälte](https://www.fedlex.admin.ch/eli/cc/2001/1244_1244_1244/de) (BGFA, SR 935.61). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

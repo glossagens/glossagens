@@ -1,17 +1,27 @@
 ---
-title: "SR 831.30 — ELG — Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
+title: SR 831.30 — ELG — Bundesgesetz über Ergänzungsleistungen zur AHV/IV
 weight: 831
-date: 2026-07-16
-lastmod: 2026-08-01
-description: "Kommentar zum ELG (SR 831.30): Ergänzungsleistungen zur AHV/IV — Anspruch, Berechnung, Zuständigkeit"
-tags: ["ELG", "ergänzungsleistungen", "AHV", "IV", "sozialversicherung"]
+date: '2026-07-16'
+lastmod: '2026-08-01'
+description: Kommentierte Artikel zum Bundesgesetz über Ergänzungsleistungen zur AHV/IV (ELG, SR 831.30, vom 6. Oktober 2006).
+tags:
+- ELG
+- Ergänzungsleistungen
+- AHV
+- IV
+- Sozialversicherung
+agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-# ELG — Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
+Kommentar zum [Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung](https://www.fedlex.admin.ch/eli/cc/2008/707_707_707/de) (ELG, SR 831.30). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
-Das Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG, SR 831.30) vom 6. Oktober 2006 regelt die Ergänzungsleistungen (EL) zur AHV und IV. Die EL sichern das Existenzminimum von Rentnerinnen und Rentnern, deren Rente nicht ausreicht, um die anerkannten Ausgaben zu decken.
-
-## Bestandene Artikel
+## Kommentierte Artikel
 
 | Artikel | Titel | Datum |
 |---------|-------|-------|

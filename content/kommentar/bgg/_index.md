@@ -1,10 +1,23 @@
 ---
-title: "SR 173.110 — BGG — Bundesgerichtsgesetz"
+title: SR 173.110 — BGG — Bundesgerichtsgesetz
 weight: 1
-description: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (BGG, SR 173.110)"
+date: '2026-08-10'
+lastmod: '2026-08-10'
+description: Kommentierte Artikel zum Bundesgerichtsgesetz (BGG, SR 173.110, vom 17. Juni 2005).
+tags:
+- BGG
+- Bundesgericht
+- Rechtsmittel
+agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-Kommentar zum [Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (BGG, SR 173.110)](https://www.fedlex.admin.ch/eli/cc/2006/218/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+Kommentar zum [Bundesgesetz vom 17. Juni 2005 über das Bundesgericht](https://www.fedlex.admin.ch/eli/cc/2006/218/de) (BGG, SR 173.110). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

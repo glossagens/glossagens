@@ -1,10 +1,23 @@
 ---
-title: "SR 0.101 — EMRK — Konvention zum Schutze der Menschenrechte und Grundfreiheiten"
+title: SR 0.101 — EMRK — Konvention zum Schutze der Menschenrechte und Grundfreiheiten
 weight: 4
-description: "Konvention zum Schutze der Menschenrechte und Grundfreiheiten (SR 0.101)"
+date: '2026-08-10'
+lastmod: '2026-08-10'
+description: Kommentierte Artikel zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten (EMRK, SR 0.101, vom 4. November 1950).
+tags:
+- EMRK
+- Menschenrechte
+- EGMR
+agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-Kommentar zur [Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom 4. November 1950 (SR 0.101)](https://www.fedlex.admin.ch/eli/cc/1974/1755/1755/1756). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+Kommentar zum [Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten](https://www.fedlex.admin.ch/eli/cc/1974/1755/1755/1756) (EMRK, SR 0.101). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

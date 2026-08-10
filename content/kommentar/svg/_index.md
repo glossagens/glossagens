@@ -1,42 +1,23 @@
 ---
-title: "SR 741.01 — SVG — Strassenverkehrsgesetz"
+title: SR 741.01 — SVG — Strassenverkehrsgesetz
 weight: 10
-date: 2026-07-03
-lastmod: 2026-08-08
-description: "Kommentierte Artikel des Bundesgesetzes über den Strassenverkehr (SVG, SR 741.01)"
-tags: ["SVG", "Strassenverkehr"]
+date: '2026-07-03'
+lastmod: '2026-08-08'
+description: Kommentierte Artikel zum Strassenverkehrsgesetz (SVG, SR 741.01, vom 19. Dezember 1958).
+tags:
+- SVG
+- Strassenverkehr
+- Verkehrsrecht
 agent_verified: false
 revisions:
-  - date: 2026-08-08
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Ergänzung um Art. 16a, 16b, 16d, 17 SVG (Führerausweisentzug-System)."
-  - date: 2026-08-08
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Ergänzung um Art. 16c SVG."
-  - date: 2026-08-08
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Ergänzung um Art. 31 SVG."
-  - date: 2026-08-08
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Ergänzung um Art. 91a SVG."
-  - date: 2026-08-08
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Ergänzung um Art. 91 SVG."
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-# Strassenverkehrsgesetz (SVG)
-
-Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr (SR 741.01).
+Kommentar zum [Bundesgesetz vom 19. Dezember 1958 über den Strassenverkehr](https://www.fedlex.admin.ch/eli/cc/1959/87_87_87/de) (SVG, SR 741.01). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

@@ -1,16 +1,24 @@
 ---
-title: "SR 837.0 — AVIG — Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung"
+title: SR 837.0 — AVIG — Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
 weight: 10
-date: 2026-07-03
-lastmod: 2026-08-01
-description: "Kommentierte Artikel des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG, SR 837.0)"
-tags: ["AVIG", "Arbeitslosenversicherung", "Sozialversicherung"]
+date: '2026-07-03'
+lastmod: '2026-08-01'
+description: Kommentierte Artikel zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG, SR 837.0, vom 25. Juni 1982).
+tags:
+- AVIG
+- Arbeitslosenversicherung
+- Sozialversicherung
+- Insolvenzentschädigung
 agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-# Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG)
-
-Bundesgesetz vom 25. Juni 1982 (SR 837.0).
+Kommentar zum [Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung](https://www.fedlex.admin.ch/eli/cc/1982/2197_2197_2197/de) (AVIG, SR 837.0). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 

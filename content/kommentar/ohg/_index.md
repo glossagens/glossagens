@@ -1,10 +1,23 @@
 ---
-title: "SR 312.5 — OHG — Opferhilfegesetz"
+title: SR 312.5 — OHG — Opferhilfegesetz
 weight: 15
-description: "Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten (OHG, SR 312.5)"
+date: '2026-08-10'
+lastmod: '2026-08-10'
+description: Kommentierte Artikel zum Opferhilfegesetz (OHG, SR 312.5, vom 23. März 2007).
+tags:
+- OHG
+- Opferhilfe
+- Strafrecht
+agent_verified: false
+revisions:
+- date: '2026-08-10'
+  by: Claude Code
+  model: minimax-m3
+  mcp_verified: false
+  note: Frontmatter vereinheitlicht (KW32)
 ---
 
-Kommentar zum [Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten (OHG, SR 312.5)](https://www.fedlex.admin.ch/eli/cc/2008/232/de). Tippe auf einen Artikel, um den Kommentar zu öffnen.
+Kommentar zum [Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten](https://www.fedlex.admin.ch/eli/cc/2008/131_131_131/de) (OHG, SR 312.5). Tippe auf einen Artikel, um den Kommentar zu öffnen.
 
 ## Kommentierte Artikel
 
