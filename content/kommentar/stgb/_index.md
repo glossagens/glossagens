@@ -1,5 +1,5 @@
 ---
-title: "StGB — Strafgesetzbuch"
+title: "SR 311.0 — StGB — Schweizerisches Strafgesetzbuch"
 weight: 10
 description: "Schweizerisches Strafgesetzbuch (SR 311.0)"
 ---

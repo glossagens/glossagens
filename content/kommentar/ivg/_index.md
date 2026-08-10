@@ -1,5 +1,5 @@
 ---
-title: "IVG — Invalidenversicherungsgesetz"
+title: "SR 831.20 — IVG — Bundesgesetz über die Invalidenversicherung"
 weight: 6
 description: "Bundesgesetz über die Invalidenversicherung (IVG, SR 831.20)"
 ---

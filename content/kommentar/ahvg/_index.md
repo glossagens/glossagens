@@ -1,5 +1,5 @@
 ---
-title: "AHVG — Bundesgesetz über die Alters- und Hinterlassenenversicherung"
+title: "SR 831.10 — AHVG — Bundesgesetz über die Alters- und Hinterlassenenversicherung"
 weight: 11
 date: 2026-07-03
 lastmod: 2026-07-03

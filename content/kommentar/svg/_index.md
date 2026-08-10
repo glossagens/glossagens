@@ -1,5 +1,5 @@
 ---
-title: "Strassenverkehrsgesetz (SVG)"
+title: "SR 741.01 — SVG — Strassenverkehrsgesetz"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-08-08

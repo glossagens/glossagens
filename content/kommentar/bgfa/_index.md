@@ -1,5 +1,5 @@
 ---
-title: "BGFA — Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte"
+title: "SR 935.61 — BGFA — Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte"
 weight: 20
 description: "Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz, BGFA, SR 935.61)"
 ---

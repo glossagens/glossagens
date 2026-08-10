@@ -1,5 +1,5 @@
 ---
-title: "OHG — Opferhilfegesetz"
+title: "SR 312.5 — OHG — Opferhilfegesetz"
 weight: 15
 description: "Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten (OHG, SR 312.5)"
 ---

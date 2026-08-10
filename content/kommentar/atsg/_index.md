@@ -1,5 +1,5 @@
 ---
-title: "ATSG — Allgemeiner Teil des Sozialversicherungsrechts"
+title: "SR 830.1 — ATSG — Allgemeiner Teil des Sozialversicherungsrechts"
 weight: 30
 description: "Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR 830.1)"
 ---

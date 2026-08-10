@@ -1,5 +1,5 @@
 ---
-title: "RPG — Raumplanungsgesetz"
+title: "SR 700 — RPG — Raumplanungsgesetz"
 weight: 9
 description: "Bundesgesetz vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG; SR 700)"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Behindertengleichstellungsgesetz (BehiG)"
+title: "SR 151.3 — BehiG — Behindertengleichstellungsgesetz"
 weight: 151
 date: 2026-07-22
 lastmod: 2026-08-01

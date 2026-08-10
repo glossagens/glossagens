@@ -1,5 +1,5 @@
 ---
-title: "BV — Bundesverfassung"
+title: "SR 101 — BV — Bundesverfassung der Schweizerischen Eidgenossenschaft"
 weight: 6
 description: "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (SR 101)"
 ---

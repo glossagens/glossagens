@@ -1,5 +1,5 @@
 ---
-title: "Bundesgesetz über die Unfallversicherung (UVG)"
+title: "SR 832.20 — UVG — Bundesgesetz über die Unfallversicherung"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-07-27

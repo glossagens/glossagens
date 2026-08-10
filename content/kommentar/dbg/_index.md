@@ -1,5 +1,5 @@
 ---
-title: "Direkte Bundessteuer (DBG)"
+title: "SR 642.11 — DBG — Bundesgesetz über die direkte Bundessteuer"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-07-31

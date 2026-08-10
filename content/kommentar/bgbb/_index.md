@@ -1,5 +1,5 @@
 ---
-title: "Bäuerliches Bodenrecht (BGBB)"
+title: "SR 211.412.11 — BGBB — Bäuerliches Bodenrecht"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-08-01

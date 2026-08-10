@@ -1,5 +1,5 @@
 ---
-title: "Datenschutzgesetz (DSG)"
+title: "SR 235.1 — DSG — Datenschutzgesetz"
 weight: 10
 date: 2026-08-07
 lastmod: 2026-08-07

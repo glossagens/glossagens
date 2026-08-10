@@ -1,5 +1,5 @@
 ---
-title: "AIG — Ausländer- und Integrationsgesetz"
+title: "SR 142.20 — AIG — Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration"
 weight: 1
 description: "Kommentare zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG, SR 142.20)"
 ---

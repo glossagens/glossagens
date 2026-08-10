@@ -1,5 +1,5 @@
 ---
-title: "ZGB — Zivilgesetzbuch"
+title: "SR 210 — ZGB — Zivilgesetzbuch"
 weight: 5
 description: "Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907 (SR 210)"
 ---

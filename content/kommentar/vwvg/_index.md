@@ -1,5 +1,5 @@
 ---
-title: "VwVG — Verwaltungsverfahrensgesetz"
+title: "SR 172.021 — VwVG — Verwaltungsverfahrensgesetz"
 weight: 1
 description: "Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren (VwVG, SR 172.021)"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GSchG — Gewässerschutzgesetz"
+title: "SR 814.20 — GSchG — Gewässerschutzgesetz"
 weight: 20
 description: "Bundesgesetz über den Schutz der Gewässer (SR 814.20)"
 ---

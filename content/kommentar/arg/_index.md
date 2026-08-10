@@ -1,5 +1,5 @@
 ---
-title: "ArG — Arbeitsgesetz"
+title: "SR 822.11 — ArG — Arbeitsgesetz"
 weight: 6
 description: "Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (ArG, SR 822.11)"
 ---

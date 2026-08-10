@@ -1,5 +1,5 @@
 ---
-title: "OR — Obligationenrecht"
+title: "SR 220 — OR — Obligationenrecht"
 weight: 1
 description: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, SR 220)"
 ---

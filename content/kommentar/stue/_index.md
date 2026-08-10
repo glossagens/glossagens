@@ -1,5 +1,5 @@
 ---
-title: "Staatenlosen-Übereinkommen (StÜ)"
+title: "SR 0.142.40 — StÜ — Übereinkommen über die Rechtsstellung der Staatenlosen"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-07-03

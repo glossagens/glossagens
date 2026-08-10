@@ -1,5 +1,5 @@
 ---
-title: "VRG LU — Gesetz über die Verwaltungsrechtspflege"
+title: "VRG LU — Gesetz über die Verwaltungsrechtspflege des Kantons Luzern"
 weight: 50
 description: "Gesetz über die Verwaltungsrechtspflege des Kantons Luzern (SR 40)"
 ---

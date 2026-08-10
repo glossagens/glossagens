@@ -1,5 +1,5 @@
 ---
-title: "AsylG — Asylgesetz"
+title: "SR 142.31 — AsylG — Asylgesetz"
 weight: 5
 description: "Bundesgesetz über das Asylverfahren (SR 142.31)"
 ---

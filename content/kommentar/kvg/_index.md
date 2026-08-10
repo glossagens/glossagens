@@ -1,5 +1,5 @@
 ---
-title: "KVG — Bundesgesetz über die Krankenversicherung"
+title: "SR 832.10 — KVG — Bundesgesetz über die Krankenversicherung"
 weight: 22
 date: 2026-07-31
 lastmod: 2026-08-07

@@ -1,5 +1,5 @@
 ---
-title: "ELG — Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
+title: "SR 831.30 — ELG — Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 weight: 831
 date: 2026-07-16
 lastmod: 2026-08-01

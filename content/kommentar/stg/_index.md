@@ -1,5 +1,5 @@
 ---
-title: "Stempelabgabengesetz (StG)"
+title: "SR 641.1 — StG — Stempelabgabengesetz"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-07-03

@@ -1,5 +1,5 @@
 ---
-title: "BewG — Bewilligungsgesetz"
+title: "SR 945.0 — BewG — Bundesgesetz über die Bewilligungen im Luftverkehr"
 weight: 3
 description: "Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (SR 211.412.41)"
 ---

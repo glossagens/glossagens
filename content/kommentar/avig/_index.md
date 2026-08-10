@@ -1,5 +1,5 @@
 ---
-title: "Bundesgesetz über die Arbeitslosenversicherung (AVIG)"
+title: "SR 837.0 — AVIG — Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung"
 weight: 10
 date: 2026-07-03
 lastmod: 2026-08-01

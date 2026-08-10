@@ -1,5 +1,5 @@
 ---
-title: "ZPO — Zivilprozessordnung"
+title: "SR 272 — ZPO — Zivilprozessordnung"
 weight: 50
 description: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (SR 272)"
 ---

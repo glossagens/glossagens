@@ -1,5 +1,5 @@
 ---
-title: "SchKG — Schuldbetreibung und Konkurs"
+title: "SR 281.1 — SchKG — Bundesgesetz über Schuldbetreibung und Konkurs"
 weight: 1
 description: "Kommentare zum Bundesgesetz über Schuldbetreibung und Konkurs (SchKG, SR 281.1)"
 ---
