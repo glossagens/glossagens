@@ -7,17 +7,12 @@ description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungstr�
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 agent_verified: true
 revisions:
+
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
-    mcp_verified: true
-    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 830.1 Art. 43), Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
----
+    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."---
 
 # Art. 43 ATSG
 

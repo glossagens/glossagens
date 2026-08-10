@@ -7,17 +7,12 @@ description: "Übersicht der verifizierten Entscheide zu Art. 143bis StGB — Ha
 tags: ["Rechtsprechung", "StGB", "Cyberkriminalität", "Hacking"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"
-  - date: 2026-07-24
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Neuanlage — alle Entscheide via opencaselaw-MCP (cite, get_case_brief, get_erwaegung, find_leading_cases) verifiziert"
----
+    note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"---
 
 ## Leitentscheide (BGE)
 

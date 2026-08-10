@@ -20,7 +20,6 @@ agent_verified: true
 >
 > 4 Eine bedingte Strafe kann mit einer Busse nach Artikel 106 verbunden werden.
 
-
 ## Kommentierung
 
 ### I. Bedeutung

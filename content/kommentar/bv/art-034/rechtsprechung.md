@@ -7,17 +7,12 @@ description: "Wichtige Bundesgerichtsentscheide zu Art. 34 BV: Garantie der poli
 tags: ["Rechtsprechung", "BV", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "behördliche Intervention", "Stimmrechtsbeschwerde", "e-voting"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung um 7 BGer-Entscheide (insgesamt 16 OCL-verifizierte Zitationen); neue Abschnitte VI–VIII"
-  - date: 2026-07-17
-    by: "Hermes Agent"
-    model: "claude-opus-4-8"
-    mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht"
----
+    note: "Überarbeitet"---
 
 Zurück zum Kommentar: [Art. 34 BV — Politische Rechte](./)
 

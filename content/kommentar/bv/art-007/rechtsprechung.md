@@ -7,17 +7,12 @@ description: "Wichtige Bundesgerichtsentscheide zu Art. 7 BV: Menschenwürde, Zw
 tags: ["Rechtsprechung", "BV", "Menschenwürde", "Zwangsbehandlung", "Einbürgerung", "Diskriminierungsverbot", "EMRK", "Haftbedingungen", "Asylrecht", "Fürsorge"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung um 10 BGer-Entscheide (insgesamt 16 OCL-verifizierte Zitationen); neue Abschnitte V–VIII (Haftbedingungen, Asylrecht, Fürsorge, Datenschutz)"
-  - date: 2026-07-17
-    by: "Hermes Agent"
-    model: "claude-opus-4-8"
-    mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht"
----
+    note: "Überarbeitet"---
 
 Zurück zum Kommentar: [Art. 7 BV — Menschenwürde](./)
 

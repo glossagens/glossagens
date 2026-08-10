@@ -16,7 +16,6 @@ agent_verified: true
 >
 > 2 Die von Absatz 1 erfassten Personen sind berechtigt, der Meldestelle für Geldwäscherei im Bundesamt für Polizei Wahrnehmungen zu melden, die darauf schliessen lassen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305 bis Ziffer 1 bis herrühren.
 
-
 ## Kommentierung
 
 ### I. Zweck und Deliktstypus

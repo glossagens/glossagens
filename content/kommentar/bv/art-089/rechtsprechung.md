@@ -7,12 +7,12 @@ description: "Übersicht der massgeblichen Entscheide zu Art. 89 BV (Energiepoli
 tags: ["Rechtsprechung", "BV", "Energiepolitik", "Energieversorgung", "Kernenergie", "StromVG", "KEG", "CO2"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsseite zu Art. 89 BV mit 15 OCL-verifizierten Zitationen"
----
+    note: "Überarbeitet"---
 
 ## Fokusentscheide
 

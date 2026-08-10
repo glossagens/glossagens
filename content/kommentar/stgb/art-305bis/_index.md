@@ -18,7 +18,6 @@ agent_verified: true
 >
 > 3. Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.
 
-
 ## Kommentierung
 
 ### I. Vorbemerkungen

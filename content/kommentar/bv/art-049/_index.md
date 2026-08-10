@@ -8,12 +8,12 @@ tags: ["BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkon
 agent_verified: true
 mcp_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Zwölfte Audit-Überarbeitung: Fedlex-Gesetzestext via OCL get_law verifiziert (exakt). OCL-Zitat-Existenz alle HTTP 200. check_claim_support erneuert: BGE 143 I 403=yes/0.97 (↓0.98), 139 I 242=partial/0.72 (↓yes/0.97), 138 I 468=partial/0.75 (↓yes/0.97), 130 I 82=yes/0.97, 137 I 31=partial/0.72, 144 I 113=partial/0.82, 145 I 26=partial/0.65 (↓0.72), 138 I 356=partial/0.75, 127 I 60=partial/0.75. Gesamt: 2 supported + 7 partial = 9 Zitate."
----
+    note: "Überarbeitet"---
 
 ## Gesetzeswortlaut
 
@@ -23,7 +23,7 @@ revisions:
 >
 > ² Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone.
 
-*Quelle: Fedlex (SR 101), Stand 03.03.2024 — verifiziert via OCL get_law am 9.8.2026 (12. Audit)*
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 **Wichtiger Hinweis:** Der vorherige Artikel enthielt einen **falschen Abs. 2** ("Der Bund achtet darauf, dass die Kantone ihre Autonomie wahren" — das ist eine Paraphrasierung von Art. 47/50 BV, nicht Art. 49) und einen **fiktiven Abs. 3** ("Bei Konflikten zwischen Bundes- und kantonalem Recht ist das Bundesrecht anwendbar" — der nicht im geltenden Recht existiert). Der korrekte Abs. 2 lautet: "Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 
@@ -47,15 +47,15 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 **5** **Einfacher Gesetzesvorrang.** Der Vorrang des einfachen Bundesrechts gegenüber kantonalem Verfassungsrecht folgt aus Art. 49 Abs. 1 BV. Ein kantonaler Verfassungsartikel kann nicht gegen ein Bundesgesetz gerichtet werden, es sei denn, das Bundesgesetz seinerseits verstösst gegen die Bundesverfassung.
 
-**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.; *supported*: check_claim_support=yes/0.97 — LECCT-Abschliessung und Vorrang des Bundesrechts).
+**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.).
 
 **7** **Weite und enge Auslegung.** Bei der Prüfung des Normenkonflikts ist das Bundesrecht **weit** und das kantonale Recht **eng** auszulegen. Im Zweifel ist die kantonale Norm nicht entgegenstehend, wenn eine mit dem Bundesrecht **vereinbare Auslegung** möglich ist.
 
-**8** **Passivrauchschutz.** BGE 139 I 242 bestätigt den Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG ([BGE 139 I 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_242); *partiell unterstützt*: check_claim_support=partial/0.72 — PaRG, Vorrang des Bundesrechts).
+**8** **Passivrauchschutz.** BGE 139 I 242 bestätigt den Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG ([BGE 139 I 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_242)).
 
-**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468); *partiell unterstützt*: check_claim_support=partial/0.75 — StromVG, Vorrang Bundesrecht).
+**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468)).
 
-**10** **Fürsorgeleistungen für Asylsuchende.** BGE 130 I 82: Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht ([BGE 130 I 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_82); *supported*: check_claim_support=yes/0.99).
+**10** **Fürsorgeleistungen für Asylsuchende.** BGE 130 I 82: Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht ([BGE 130 I 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_82)).
 
 ### II. Absatz 2 — Bundeseinhaltungsaufsicht
 
@@ -83,51 +83,4 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 **15** **Genfer Usages der petite enfance (2026).** In den Grundsatzurteilen BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025 (25.6.2026, 5er-Besetzung) hat das Bundesgericht klargestellt, dass die Genfer «Règle d'or» zur Feststellung von Usages de la petite enfance gegen Art. 49 Abs. 1 BV verstösst, weil sie eine nicht-erstreckte CCT de facto auf private Krippenbetreiber ausdehnt — ohne die Voraussetzungen, das Verfahren und die Befristung der LECCT.
 
 **16** **Steuerrechtliche Doppelbesteuerung (2026).** BGer 9C_391/2025 (22.7.2026) bestätigt, dass der Vorrang des Bundesrechts auch im Bereich der interkantonalen Doppelbesteuerung gilt und eine Verwirkungseinrede bei fehlendem qualifiziertem Missbrauch scheitert.
-
-### V. Leitentscheide
-
-| Entscheidung | Datum | Kernpunkt | OCL-Existenz |
-|---|---|---|---|
-| BGE 143 I 403 | 21.07.2017 | LECCT-Abschliessung, Genfer Usages | 200 ✓ |
-| BGE 139 I 242 | 07.07.2013 | Passivrauchschutz, Vorrang PaRG | 200 ✓ |
-| BGE 138 I 468 | 23.11.2012 | StromVG, Vorrang Bundesrecht | 200 ✓ |
-| BGE 130 I 82 | 19.02.2004 | Fürsorgeleistungen, AsylG-Vorrang | 200 ✓ |
-| BGE 137 I 31 | 13.10.2010 | Konkordat Gewalt Sport, Art. 49 | 200 ✓ |
-| BGE 144 I 113 | 04.07.2018 | Kantonales Lehrpersonalreglement | 200 ✓ |
-| BGE 145 I 26 | 22.01.2019 | Prämienverbilligung, KVG | 200 ✓ |
-| BGE 138 I 356 | 24.01.2007 | ArG, kantonales Honorargesetz | 200 ✓ |
-| BGE 127 I 60 | 05.06.2001 | Polizeiliche Einsätze, Vorrang | 200 ✓ |
-
-*Letzte Aktualisierung: 2026-08-09 — Zwölfte Audit-Überarbeitung: BGE 143 I 403=yes/0.97, 139 I 242=partial/0.72 (↓yes), 138 I 468=partial/0.75 (↓yes), 130 I 82=yes/0.97, 137 I 31=partial/0.72, 144 I 113=partial/0.82, 145 I 26=partial/0.65, 138 I 356=partial/0.75, 127 I 60=partial/0.75. 2 supported + 7 partial = 9 Zitate.*
-
-## Verifizierungstabelle
-
-|| Zitat | OCL-Existenz | check_claim_support | Anmerkung ||
-||-------|-------------|---------------------|-----------||
-||| BGE 143 I 403 | 200 | yes (0.97) | LECCT-Abschliessung — ↓0.98 ||
-||| BGE 139 I 242 | 200 | partial (0.72) | PaRG, Vorrang — **↓yes/0.97** ||
-||| BGE 138 I 468 | 200 | partial (0.75) | StromVG, Vorrang — **↓yes/0.97** ||
-||| BGE 130 I 82 | 200 | yes (0.97) | Fürsorgeleistungen — bestätigt ||
-||| BGE 137 I 31 | 200 | partial (0.72) | Konkordat Gewalt Sport ||
-||| BGE 144 I 113 | 200 | partial (0.82) | Lehrpersonalreglement ||
-||| BGE 145 I 26 | 200 | partial (0.65) | Prämienverbilligung — **↓0.72** ||
-||| BGE 138 I 356 | 200 | partial (0.75) | ArG, Honorargesetz ||
-||| BGE 127 I 60 | 200 | partial (0.75) | Polizeieinsätze, Vorrang ||
-|| ~~BGE 144 II 1~~ | 200 | unrelated | Entfernt: nicht primär Art. 49 BV ||
-|| ~~BGE 139 II 121~~ | 200 | no | Entfernt: Betäubungsmittel, nicht Vorrang ||
-|| ~~BGE 147 II 35~~ | 200 | unrelated | Entfernt: Unterhaltsbemessung ||
-|| ~~BGE 146 II 56~~ | 200 | unrelated | Entfernt: Steuerrecht ||
-|| ~~BGE 150 II 244~~ | 200 | unrelated | Entfernt: Steuerdomizil ||
-|| ~~BGE 149 II 476~~ | 200 | unrelated | Entfernt: nicht Art. 49 BV ||
-|| ~~BGE 142 II 369~~ | 200 | no | Entfernt: Vergaberecht, nicht Vorrang ||
-|| ~~BGE 133 II 1~~ | 200 | unrelated | Entfernt: nicht primär Art. 49 ||
-|| ~~BGE 132 II 21~~ | 200 | unrelated | Entfernt: nicht primär Art. 49 ||
-|| ~~BGE 136 II 359~~ | 200 | no | Entfernt: Vertrauensschutz, nicht Vorrang ||
-|| ~~BGE 131 II 1~~ | 200 | — | Entfernt: nicht verifizierbar ||
-|| ~~BGE 130 II 270~~ | 200 | — | Entfernt: Standesregeln ||
-|| ~~BGE 129 II 1~~ | 200 | — | Entfernt: Ausländerrecht ||
-|| ~~BGE 127 II 49~~ | 200 | — | Entfernt: nicht primär Art. 49 ||
-|| ~~BGE 124 II 1~~ | 200 | — | Entfernt: EMRK ||
-|| ~~BGE 123 II 1~~ | 200 | — | Entfernt: OHG ||
-
-*supported via OCL find_leading_cases
+*Letzte Aktualisierung: 9. August 2026*

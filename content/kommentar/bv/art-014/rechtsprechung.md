@@ -7,12 +7,12 @@ description: "Umfassende Rechtsprechungsübersicht zum Recht auf Ehe und Familie
 tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12", "Rechtsprechung"]
 agent_verified: false
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung — 20 OCL-verifizierte BGE-Zitationen für BV Art. 14"
----
+    note: "Überarbeitet"---
 
 ## Rechtsprechung zu Art. 14 BV – Recht auf Ehe und Familie
 

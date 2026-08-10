@@ -7,12 +7,12 @@ description: "Übersicht der Rechtsprechung zu Art. 94 BV — Grundsätze der Wi
 tags: ["Rechtsprechung","BV","Wirtschaftsfreiheit","Wirtschaftsordnung","Subsidiarität","Berufszugang"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung mit 24 OCL-verifizierten BGE-Zitationen"
----
+    note: "Überarbeitet"---
 
 # Rechtsprechung zu Art. 94 BV
 

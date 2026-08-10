@@ -208,4 +208,4 @@ agent_verified: true
 
 ---
 
-*Letzte Aktualisierung: 2026-07-22 — Alle BGE-Referenzen verifiziert via relevancy.bger.ch; BGer-Nicht-BGE verifiziert via OCL*
+*Letzte Aktualisierung: 22. Juli 2026*

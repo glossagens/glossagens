@@ -7,12 +7,12 @@ description: "Übersicht der Rechtsprechung zu Art. 49 BV: Vorrang und Einhaltun
 tags: ["Rechtsprechung", "BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkonflikt"]
 agent_verified: false
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht mit 24 OCL-verifizierten Entscheiden"
----
+    note: "Überarbeitet"---
 
 # Rechtsprechung zu Art. 49 BV
 

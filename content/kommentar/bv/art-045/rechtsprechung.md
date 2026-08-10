@@ -7,12 +7,12 @@ description: "Übersicht der massgeblichen Entscheide zu Art. 45 BV – Mitwirku
 tags: ["Rechtsprechung", "BV", "Mitwirkung", "Kantone", "Ständemehr", "Vernehmlassung", "föderalistische Mitwirkung"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht mit 16 OCL-verifizierten Zitationen"
----
+    note: "Überarbeitet"---
 
 ## Rechtsprechung zu Art. 45 BV – Mitwirkung an der Willensbildung des Bundes
 

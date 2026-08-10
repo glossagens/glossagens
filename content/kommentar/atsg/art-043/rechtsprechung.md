@@ -7,17 +7,12 @@ description: "Übersicht der Entscheide zu Art. 43 ATSG — Amtsermittlungsprinz
 tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlung", "Mitwirkungspflicht", "Begutachtung", "Rechtskraft", "Sozialversicherungsrecht"]
 agent_verified: false
 revisions:
+
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen, Art. 43 ATSG) via OCL get_regeste verifiziert und angehängt."
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
-    mcp_verified: true
-    note: "Neuerstellung KW31 — Entscheide via OCL (get_regeste/find_leading_cases) verifiziert."
----
+    note: "Überarbeitet"---
 
 # Rechtsprechung zu Art. 43 ATSG
 

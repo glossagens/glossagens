@@ -50,8 +50,8 @@ Voraussetzung ist, dass die Anklage **vor** Abschluss des Gerichtsstandsverfahre
 
 Abs. 3 regelt den Fall der **nachträglichen Gesamtstrafenbildung**: Ist eine Person von verschiedenen Gerichten zu mehreren gleichartigen Strafen verurteilt worden — ohne dass es zu einem einheitlichen Verfahren gekommen ist —, so setzt das Gericht, das die **schwerste Strafe** ausgesprochen hat, auf **Gesuch der verurteilten Person** eine Gesamtstrafe fest. Diese Bestimmung setzt voraus:
 
-- **Mehrere Verurteilungen** durch verschiedene Gerichte (nicht dieselbe Instanz);
-- **Gleichartige Strafen** (z.B. mehrere Freiheitsstrafen; Geld- und Freiheitsstrafe sind nicht gleichartig, [BGE 144 IV 217, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217));
+- **Mehrere Verurteilungen** durch verschiedene Gerichte (nicht dieselbe Instanz)
+- **Gleichartige Strafen** (z.B. mehrere Freiheitsstrafen; Geld- und Freiheitsstrafe sind nicht gleichartig, [BGE 144 IV 217, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217))
 - **Gesuch der verurteilten Person** — das Verfahren ist nicht von Amtes wegen durchzuführen.
 
 ### 2. Gleichartigkeit der Strafen

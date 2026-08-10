@@ -139,4 +139,4 @@ agent_verified: true
 
 ---
 
-*Letzte Aktualisierung: 2026-07-24 — Dogmatik korrigiert (Art. 323 Abs. 1–3 OR dispositiv; Abs. 4 absolut zwingend nach Art. 361 OR); Gesetzestext verifiziert via Fedlex (SR 220, Art. 323, Konsolidierungsstand 1.1.2026)*
+*Letzte Aktualisierung: 24. Juli 2026*

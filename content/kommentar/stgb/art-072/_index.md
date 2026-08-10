@@ -7,11 +7,12 @@ description: "Kommentar zu Art. 72 StGB: Einziehung aller Vermögenswerte, welch
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "kriminelle Organisation", "terroristische Organisation", "Verfügungsmacht", "Art. 260ter StGB", "Bruttoprinzip"]
 agent_verified: true
 revisions:
+
   - date: "2026-08-08"
     by: "Claude Code"
     model: "minimax-m3"
     mcp_verified: true
-    note: "Neuanlage KW32 — Erstkommentar zur Einziehung von Vermögenswerten krimineller/terroristischer Organisationen (Art. 72 StGB). Gesetzeswortlaut via opencaselaw get_law (StGB 311.0) verifiziert. Hauptentscheide verifiziert: BGE 134 IV 185 E. 2.1 (9.5.2008, schweizerische Zuständigkeit), BStGer BB.2020.62 vom 15.7.2020 E. 2.2 ff. (Verfügungsmacht als faktische Verfügbarkeit, Vermutung, Widerlegung)."
+    note: "Überarbeitet"
 ---
 
 ## I. Stellung im System
@@ -97,7 +98,7 @@ Die Einziehung nach Art. 72 StGB setzt voraus, dass die **schweizerischen Behör
 
 Die schweizerische Zuständigkeit ist insbesondere gegeben, wenn:
 
-- die Organisation ihre kriminelle Tätigkeit **in der Schweiz** ausübt oder ausüben soll (Art. 260ter Ziff. 3 StGB);
+- die Organisation ihre kriminelle Tätigkeit **in der Schweiz** ausübt oder ausüben soll (Art. 260ter Ziff. 3 StGB)
 - die Vermögenswerte in der Schweiz von einem Mitglied der Organisation **verwaltet** werden;
 - die Vermögenswerte in der Schweiz durch ein der Organisation dienendes Instrument gehalten werden.
 

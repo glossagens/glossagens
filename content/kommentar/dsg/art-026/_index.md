@@ -7,17 +7,12 @@ description: "Kommentar zu Art. 26 DSG: Verweigerung, Einschränkung und Aufschu
 tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Nachrichtendienst", "Begründungspflicht", "Bundesorgane", "Öffentliche Sicherheit"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"
-  - date: 2026-08-07
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Neuerstellung anlässlich BGer 1C_114/2025 vom 24. Juli 2026 (Publikation vorgesehen, 5er-Besetzung, Gutheissung); alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
----
+    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"---
 
 > **Art. 26 DSG — Einschränkungen des Auskunftsrechts**
 >

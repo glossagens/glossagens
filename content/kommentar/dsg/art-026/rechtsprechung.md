@@ -7,17 +7,12 @@ description: "Übersicht der Entscheide zu Art. 26 DSG (Einschränkungen des Aus
 tags: ["Rechtsprechung", "DSG", "Auskunftsrecht", "Begründungspflicht", "Nachrichtendienst"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"
-  - date: 2026-08-07
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Neuerstellung anlässlich BGer 1C_114/2025 vom 24. Juli 2026; alle Entscheide via opencaselaw-MCP (cite/get_case_brief/get_erwaegung) verifiziert."
----
+    note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"---
 
 ## I. Leitentscheide
 

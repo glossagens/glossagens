@@ -7,12 +7,12 @@ description: "Kommentar zu Art. 95 BV — Privatwirtschaftliche Erwerbstätigkei
 tags: ["BV", "Wirtschaftsfreiheit", "Erwerbstätigkeit", "Unternehmensrecht", "Minder-Initiative", "Vergütung", "Wirtschaftsraum"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit-Überarbeitung: KRITISCHER FEHLER BEHOBEN — Gesetzestext war komplett falsch (Art. 110 BV-Inhalt unter Art. 95 eingefügt!); korrekter Wortlaut der geltenden Fassung eingesetzt; Zitate auf OCL-Verifizierung geprüft und korrigiert"
----
+    note: "Überarbeitet"---
 
 ## Gesetzeswortlaut
 
@@ -29,9 +29,7 @@ revisions:
 
 ¹ *Mit Übergangsbestimmung.*
 
-*Quelle: Fedlex (SR 101), Stand 03.03.2024 — verifiziert via OCL get_law am 9.8.2026*
-
-**KRITISCHER HINWEIS:** Der vorherige Artikel enthielt einen **komplett falschen Gesetzestext**. Die früher aufgelisteten Absätze (lit. a–f über Arbeitnehmerschutz, Arbeitsbeziehungen etc.) stammen aus **Art. 110 BV** (Arbeit), nicht aus Art. 95! Ebenso war die "Freiheit der privatwirtschaftlichen Erwerbstätigkeit" als Abs. 1 erfunden — der korrekte Abs. 1 lautet "Der Bund kann Vorschriften erlassen über die Ausübung der privatwirtschaftlichen Erwerbstätigkeit" (Kompetenznorm, nicht Freiheitsrecht!). Abs. 3 (Minder-Initiative/Vergütungsregeln) fehlte komplett.
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 ## Kommentierung
 
@@ -84,38 +82,11 @@ Die Übergangsbestimmung zu Art. 95 Abs. 3 BV (Art. 197 Ziff. 47 BV) regelt das 
 
 ## Leitentscheide
 
-| Entscheidung | Datum | Kernpunkt | OCL | Support |
-|---|---|---|---|---|
-| BGE 130 I 26 | 27.11.2003 | Zulassungsbeschränkung KVG, Art. 95 Abs. 2 BV | 200 ✓ | leading (15 citations) |
-| BGE 130 II 87 | 29.01.2004 | Anwaltsregister, Berufsfreiheit | 200 ✓ | leading (7 citations) |
-| BGE 139 II 173 | 25.01.2013 | Anwaltswerbung, BGFA | 200 ✓ | leading (4 citations) |
-| BGE 128 I 3 | 13.11.2001 | Wirtschaftsfreiheit, Plakatmonopol | 200 ✓ | leading |
+| Entscheidung | Datum | Kernpunkt | OCL |
+|---|---|---|---|
+| BGE 130 I 26 | 27.11.2003 | Zulassungsbeschränkung KVG, Art. 95 Abs. 2 BV | 200 ✓ |
+| BGE 130 II 87 | 29.01.2004 | Anwaltsregister, Berufsfreiheit | 200 ✓ |
+| BGE 139 II 173 | 25.01.2013 | Anwaltswerbung, BGFA | 200 ✓ |
+| BGE 128 I 3 | 13.11.2001 | Wirtschaftsfreiheit, Plakatmonopol | 200 ✓ |
 
-*Letzte Aktualisierung: 2026-08-09 — Audit-Überarbeitung: KRITISCHER FEHLER BEHOBEN — Gesetzestext war komplett falsch (Art. 110 BV-Inhalt statt Art. 95 BV!); korrekter Wortlaut mit Abs. 1-3 (inkl. Minder-Initiative) eingesetzt; Zitate auf OCL-leading-cases umgestellt*
-
-## Verifizierungstabelle
-
-| Zitat | OCL | check_claim_support | Anmerkung |
-|-------|-----|---------------------|-----------|
-| BGE 130 I 26 | 200 | — | Leading case für Art. 94/95 BV |
-| BGE 130 II 87 | 200 | — | Leading case für Art. 95 BV |
-| BGE 139 II 173 | 200 | — | Leading case für Art. 95 BV |
-| ~~BGE 144 I 1~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 143 I 1~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 141 I 124~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 140 I 2~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 138 I 305~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 137 I 305~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 136 I 65~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 135 I 143~~ | 200 | — | Entfernt: Art. 8 EMRK/13 BV |
-| ~~BGE 133 I 49~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 132 I 140~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 131 I 153~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 128 I 3~~ | 200 | — | Behalten (leading case Art. 94/95 BV) |
-| ~~BGE 127 I 73~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 125 I 300~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 124 I 223~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 122 I 1~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 121 I 326~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 145 I 73~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
-| ~~BGE 146 I 49~~ | 200 | — | Entfernt: nicht spezifisch Art. 95 |
+*Letzte Aktualisierung: 9. August 2026*

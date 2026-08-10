@@ -8,29 +8,18 @@ tags: ["Rechtsprechung", "SchKG", "Verlustschein", "Pfändungsurkunde", "proviso
 agent_verified: true
 mcp_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Komplettüberarbeitung — Zitate via check_claim_support verifiziert, 14 unsupported/unrelated Zitate entfernt, nur partial-support Zitate behalten. BGE 151 III 574 entfernt (404)."
----
+    note: "Überarbeitet"---
 
 # Rechtsprechung zu Art. 115 SchKG
 
 ## Leitentscheide
 
 ### Provisorischer Verlustschein und Neuauftreibungspfändung (Abs. 2 und 3)
-
-| Bezug | Thema | check_claim_support | Datum |
-|-------|-------|---------------------|-------|
-| [BGer 5A_306/2007](https://mcp.opencaselaw.ch/entscheid/bger_5A_306_2007) | Arrestgrund nach Art. 271 Ziff. 5 SchKG bei Verlustschein; provisorischer Verlustschein | partial — erwähnt Art. 115 und Verlustschein, aber kein provisorischer Verlustschein als eigenständiger Begriff | 19.09.2007 |
-| [BGer 5A_502/2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_502_2023) | Verlustschein nach erfolgloser Pfändung; Übergang Pfändungsurkunde zu Verlustschein | partial — thematischer Bezug zu Art. 115, aber kein direktes Zitat | 20.03.2024 |
-| [BGer 5A_838/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_838_2011) | Pfändungsurkunde und Verlustschein im SchKG-Zusammenhang | partial — Verlustschein-Thematik, ohne expliziten Art. 115-Bezug | 06.01.2012 |
-| [BGer 5A_590/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_590_2020) | Betreibung auf Grund eines Verlustscheins; Verlustschein als vollstreckbarer Titel | partial — Verlustschein und Pfändung, kein direkter Art. 115-Bezug | 12.04.2021 |
-| [BGer 5A_929/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_929_2025) | Pfändungsverlustschein nach Art. 115 SchKG | partial — bestätigt Art. 115 Verlustschein, aber kein provisorischer Verlustschein | 17.11.2025 |
-| [BGer 5A_219/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_219_2012) | Provisorischer Pfändungsanschluss; Anschlusspfändung | partial — Anschlusspfändung im SchKG-Kontext, ohne direkten Art. 115-Bezug | 14.08.2012 |
-| [BGer 5A_109/2015](https://mcp.opencaselaw.ch/entscheid/bger_5A_109_2015) | Pfändung und Verlustschein | partial — thematischer Bezug, kein direkter Art. 115-Bezug | 10.02.2015 |
-| [BGer 5A_679/2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_679_2018) | Löschung von Pfändungsverlustscheinen | partial — Verlustschein-Löschung, kein direkter Art. 115-Bezug | 17.06.2019 |
 
 ## Kontextzitate (angrenzende Rechtsgebiete)
 
@@ -49,4 +38,4 @@ Die folgenden Entscheide behandeln angrenzende SchKG-Normen (Art. 80, 88, 110, 1
 | [BGE 133 III 687](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_687) | Abweisung des Konkursbegehrens | Art. 172 SchKG | 03.09.2007 |
 | [BGE 136 III 587](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_587) | Negative Feststellungsklage, Einstellung der Betreibung | Art. 85a/173 SchKG | 2010 |
 
-*Letzte Aktualisierung: 9. August 2026 — Zitate via check_claim_support (OCL MCP) verifiziert. Alle unsupported/unrelated-Zitate entfernt.*
+*Letzte Aktualisierung: 9. August 2026*

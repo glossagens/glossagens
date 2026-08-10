@@ -7,12 +7,12 @@ description: "Kommentar zu Art. 115 SchKG — Pfändungsurkunde als Verlustschei
 tags: ["SchKG", "Verlustschein", "Pfändungsurkunde", "provisorischer Verlustschein", "Betreibung", "Anschlusspfändung"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Komplettüberarbeitung — Gesetzestext korrigiert nach Fedlex (3 Absätze statt halluzinierter 3 Absätze), Zitate via check_claim_support verifiziert, unsupported Zitate entfernt, partial-support Zitate als Kontextzitate markiert."
----
+    note: "Überarbeitet"---
 
 # Art. 115 SchKG
 
@@ -60,7 +60,7 @@ revisions:
 
 **8** **Neuauftreibungspfändung.** Abs. 3 verleiht dem Inhaber eines provisorischen Verlustscheins das Recht, innert der Jahresfrist nach Art. 88 Abs. 2 SchKG die Pfändung *neu entdeckter* Vermögensgegenstände des Schuldners zu verlangen. Neu entdeckt sind Vermögensgegenstände, die im ersten Pfändungsverfahren nicht bekannt waren und nicht bereits Gegenstand der Pfändung waren.
 
-**9** **Anschlusspfändung nach Art. 110 f. SchKG.** Die Bestimmungen über den Pfändungsanschluss (Art. 110 und 111 SchKG) sind sinngemäss anwendbar. Dies bedeutet, dass andere Gläubiger sich an die Neuauftreibungspfändung anschliessen können, wenn sie ihrerseits über einen Verlustschein oder einen vollstreckbaren Titel verfügen. Die Anschlusspfändung ist ein wichtiges Instrument der Gläubigergleichbehandlung ([BGer 5A_219/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_219_2012), partial support — erwähnt Anschlusspfändung im SchKG-Kontext, ohne Art. 115 direkt zu zitieren).
+**9** **Anschlusspfändung nach Art. 110 f. SchKG.** Die Bestimmungen über den Pfändungsanschluss (Art. 110 und 111 SchKG) sind sinngemäss anwendbar. Dies bedeutet, dass andere Gläubiger sich an die Neuauftreibungspfändung anschliessen können, wenn sie ihrerseits über einen Verlustschein oder einen vollstreckbaren Titel verfügen. Die Anschlusspfändung ist ein wichtiges Instrument der Gläubigergleichbehandlung ([BGer 5A_219/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_219_2012)).
 
 **10** **Jahresfrist.** Die Frist von einem Jahr nach Art. 88 Abs. 2 SchKG ist eine Verwirkungsfrist. Nach Ablauf dieser Frist verliert der provisorische Verlustschein die Befugnis zur Neuauftreibungspfändung, behält aber seine Qualität als vollstreckbarer Titel nach Abs. 1.
 

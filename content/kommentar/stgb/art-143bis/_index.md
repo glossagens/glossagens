@@ -7,17 +7,12 @@ description: "Kommentar zu Art. 143bis StGB — Hacking-Tatbestand, Teilsystem-D
 tags: ["StGB", "Cyberkriminalität", "Hacking", "Datenverarbeitungssystem", "Computerstrafrecht"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"
-  - date: 2026-07-24
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Neuanlage — Fokusentscheid BGer 6B_120/2026 (5er-Besetzung, zur Publikation vorgesehen); Gesetzestext und alle Entscheide via opencaselaw-MCP (get_law, cite, get_case_brief, get_erwaegung, get_article_purpose) verifiziert"
----
+    note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"---
 
 ## Gesetzeswortlaut
 
@@ -130,4 +125,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-07 — Ergänzung um 15 weitere BGer-Entscheide (Hermes Agent)*
+*Letzte Aktualisierung: 7. August 2026*

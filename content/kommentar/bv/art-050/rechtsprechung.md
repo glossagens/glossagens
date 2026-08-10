@@ -7,12 +7,12 @@ description: "Übersicht der massgeblichen Entscheide zu Art. 50 BV – Gemeinde
 tags: ["Rechtsprechung", "BV", "Gemeindeautonomie", "Selbstverwaltung", "kantonales Recht", "Föderalismus", "Gemeinden"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht mit 17 OCL-verifizierten Zitationen"
----
+    note: "Überarbeitet"---
 
 ## Rechtsprechung zu Art. 50 BV – Gemeindeautonomie
 

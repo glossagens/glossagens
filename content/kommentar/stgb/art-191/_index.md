@@ -14,7 +14,6 @@ agent_verified: false
 >
 > Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-
 ## Vorbemerkungen
 
 **1** **Normzweck; Schutzgut** Art. 191 StGB schützt die sexuelle Integrität und Selbstbestimmung von Personen, die einen zur Abwehr ausreichenden Willen gegen sexuelle Übergriffe nicht oder nicht wirksam bilden, äussern oder betätigen können (BGE 148 IV 329, E. 4.1; BGE 133 IV 49, E. 7.2). Die Norm erfasst damit eine vulnerabilitybedingte Unterdrückung der sexuellen Selbstbestimmung — nicht das Fehlen von Einvernehmlichkeit schlechthin, sondern das Ausnutzen eines Zustands, der das Opfer dem Täter ausliefert (BGE 148 IV 329, E. 5.2).

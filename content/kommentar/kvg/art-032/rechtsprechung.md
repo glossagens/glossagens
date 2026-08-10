@@ -7,12 +7,12 @@ description: "Übersicht der Entscheide zu Art. 32 KVG — WZW-Kriterien (Wirksa
 tags: ["Rechtsprechung", "KVG", "WZW", "WIR", "Spezialitätenliste", "Krankenversicherung", "OPAS"]
 agent_verified: false
 revisions:
+
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Entscheide via OCL (get_regeste/find_leading_cases) verifiziert."
----
+    note: "Überarbeitet"---
 
 # Rechtsprechung zu Art. 32 KVG
 

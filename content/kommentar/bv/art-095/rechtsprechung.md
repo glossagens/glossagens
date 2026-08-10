@@ -7,12 +7,12 @@ description: "Übersicht der Entscheide zu Art. 95 BV — Privatwirtschaftliche 
 tags: ["Rechtsprechung", "BV", "Wirtschaftsfreiheit", "Art. 95"]
 agent_verified: false
 revisions:
+
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung — 20 OCL-verifizierte Entscheide"
----
+    note: "Überarbeitet"---
 
 ## Rechtsprechung zu Art. 95 BV
 

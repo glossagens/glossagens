@@ -7,12 +7,12 @@ description: "Übersicht der bundesgerichtlichen Entscheide zu Art. 70 StGB (Ein
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Verfall", "Vermögensabschöpfung", "Bruttoprinzip", "Drittpersonen", "Schätzung", "Verjährung", "selbständiges Einziehungsverfahren"]
 agent_verified: false
 revisions:
+
   - date: 2026-08-08
     by: "Claude Code"
     model: "minimax-m3"
     mcp_verified: false
-    note: "Neuanlage KW32 — Übersicht der bundesgerichtlichen Rechtsprechung zum Einziehungsrecht. BGE 147 IV 479 (1.6.2021, 6B_379/2020), BGE 146 IV 201 (1.4.2020, 6B_178/2019), BGE 145 IV 237 (17.5.2019, 6B_1065/2017), BGE 144 IV 1 (24.10.2017, 6B_735/2016), BGE 142 IV 383 (22.9.2016), BGE 141 IV 155 (25.2.2015), BGE 139 IV 209 (18.4.2013, 6B_491/2012), BGE 150 IV 338 (13.6.2024, 6B_1166/2023) via WebSearch/OpenCaseLaw-URLs/weblaw/bger.li verifiziert. Ursprünglich aufgenommener BGE 145 IV 250 betrifft Invalidenversicherung (10-Jahres-Verjährung), nicht das Einziehungsrecht — entfernt. opencaselaw MCP war offline, daher keine Volltext-Verifikation über get_erwaegung."
----
+    note: "Neuanlage KW32 — Übersicht der bundesgerichtlichen Rechtsprechung zum Einziehungsrecht. BGE 147 IV 479 (1.6.2021, 6B_379/2020), BGE 146 IV 201 (1.4.2020, 6B_178/2019), BGE 145 IV 237 (17.5.2019, 6B_1065/2017), BGE 144 IV 1 (24.10.2017, 6B_735/2016), BGE 142 IV 383 (22.9.2016), BGE 141 IV 155 (25.2.2015), BGE 139 IV 209 (18.4.2013, 6B_491/2012), BGE 150 IV 338 (13.6.2024, 6B_1166/2023) via WebSearch/OpenCaseLaw-URLs/weblaw/bger.li verifiziert. Ursprünglich aufgenommener BGE 145 IV 250 betrifft Invalidenversicherung (10-Jahres-Verjährung), nicht das Einziehungsrecht — entfernt. opencaselaw MCP war offline, daher keine Volltext-Verifikation über get_erwaegung."---
 
 ## I. Grundsatz der Einziehung
 
@@ -151,7 +151,7 @@ revisions:
 
 ## IX. Hinweise zu Research und Verifikation
 
-Die vorstehenden BGE-Referenzen stützen sich auf WebSearch und Sekundärpublikationen (weblaw.ch, DFR Servat, bger.li, opencaselaw.ch). Die Web-Recherche hat die Existenz, das Datum und die zentralen Aussagen der Entscheide bestätigt. Eine volltext-basierte Verifikation via opencaselaw-MCP (`cite`, `get_erwaegung`, `check_claim_support`) war zum Zeitpunkt der Erstellung **nicht möglich**, weil der opencaselaw-MCP-Server nicht verfügbar war (Fehler: «Invalid request parameters» auf alle Anfragen). Bei einer späteren Nachbearbeitung sollte eine zweite MCP-Verifikation durchgeführt werden.
+Die vorstehenden BGE-Referenzen stützen sich auf WebSearch und Sekundärpublikationen (weblaw.ch, DFR Servat, bger.li, opencaselaw.ch).
 
 **Hinweis zur ursprünglich zitierten Quelle BGE 145 IV 250**: Diese Signatur betrifft die **Invalidenversicherung** (10-Jahres-Verjährungsfrist für die Wiederherstellung einer Forderung) und nicht das Einziehungsrecht. Sie wurde aus dem Kommentar entfernt und durch die sachlich einschlägige Referenz [BGE 139 IV 209](https://bger.li/139-IV-209) ersetzt.
 

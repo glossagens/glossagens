@@ -7,12 +7,12 @@ description: "Kommentar zu Art. 32 KVG: WIR-/WZW-Kriterien (Wirksamkeit, Zweckm�
 tags: ["KVG", "WZW", "WIR", "Wirksamkeit", "Zweckmässigkeit", "Wirtschaftlichkeit", "Krankenversicherung", "OPAS", "Spezialitätenliste"]
 agent_verified: true
 revisions:
+
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 832.10 Art. 32), Entscheide via OCL verifiziert."
----
+    note: "Überarbeitet"---
 
 # Art. 32 KVG
 

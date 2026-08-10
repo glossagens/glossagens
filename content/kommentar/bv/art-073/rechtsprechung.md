@@ -7,12 +7,12 @@ description: "Übersicht der massgeblichen Entscheide zu Art. 73 BV – Nachhalt
 tags: ["Rechtsprechung", "BV", "Nachhaltigkeit", "Umweltschutz", "Raumplanung", "Energie"]
 agent_verified: true
 revisions:
+
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 73 BV"
----
+    note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 73 BV"---
 
 ## Rechtsprechung zu Art. 73 BV — Nachhaltigkeit
 
