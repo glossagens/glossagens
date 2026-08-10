@@ -1,0 +1,893 @@
+{
+  "timestamp": "2026-08-10 20:20:21",
+  "articles": {
+    "art-007": [
+      "bge_BGE_127_I_6",
+      "bge_BGE_129_I_232",
+      "bge_BGE_130_I_16",
+      "bge_BGE_130_I_169",
+      "bge_BGE_131_I_166",
+      "bge_BGE_131_I_321",
+      "bge_BGE_132_I_49",
+      "bge_BGE_133_I_259",
+      "bge_BGE_134_I_239",
+      "bge_BGE_135_I_49",
+      "bge_BGE_136_I_165",
+      "bge_BGE_137_I_305",
+      "bge_BGE_139_I_121",
+      "bge_BGE_140_I_125",
+      "bge_BGE_140_I_176",
+      "bge_BGE_141_I_105",
+      "bge_BGE_143_IV_77",
+      "bge_BGE_144_I_273",
+      "bge_BGE_146_I_49",
+      "bge_BGE_147_I_81",
+      "bge_BGE_148_I_309",
+      "bger_5A_38_2011"
+    ],
+    "art-008": [
+      "bger_5A_398_2026"
+    ],
+    "art-014": [
+      "bge_BGE_126_II_425",
+      "bge_BGE_137_I_351",
+      "bge_BGE_138_I_41",
+      "bge_BGE_143_I_241"
+    ],
+    "art-029": [
+      "bger_1C_198_2025",
+      "bger_4A_312_2025",
+      "bger_7B_1305_2025",
+      "bger_9C_550_2025"
+    ],
+    "art-029a": [
+      "bge_BGE_134_I_199",
+      "bge_BGE_134_V_401",
+      "bge_BGE_135_I_6",
+      "bge_BGE_136_II_436",
+      "bge_BGE_136_I_229",
+      "bge_BGE_139_I_206",
+      "bge_BGE_143_I_336",
+      "bge_BGE_144_I_181",
+      "bge_BGE_146_I_62",
+      "bge_BGE_148_I_104",
+      "bge_BGE_149_I_146"
+    ],
+    "art-034": [
+      "bge_BGE_129_I_185",
+      "bge_BGE_129_I_232",
+      "bge_BGE_130_I_290",
+      "bge_BGE_131_I_442",
+      "bge_BGE_133_I_270",
+      "bge_BGE_134_I_238",
+      "bge_BGE_135_I_292",
+      "bge_BGE_135_I_49",
+      "bge_BGE_136_I_165",
+      "bge_BGE_137_I_305",
+      "bge_BGE_138_I_61",
+      "bge_BGE_139_I_2",
+      "bge_BGE_140_I_338",
+      "bge_BGE_141_I_6",
+      "bge_BGE_142_I_1",
+      "bge_BGE_143_I_78",
+      "bge_BGE_145_I_1",
+      "bge_BGE_145_I_175",
+      "bge_BGE_146_I_49"
+    ],
+    "art-045": [
+      "bge_BGE_131_I_186",
+      "bge_BGE_133_I_290",
+      "bge_BGE_134_I_83",
+      "bge_BGE_135_I_187",
+      "bge_BGE_136_I_65",
+      "bge_BGE_138_I_305",
+      "bge_BGE_139_I_368",
+      "bge_BGE_140_I_192",
+      "bge_BGE_141_I_143",
+      "bge_BGE_142_I_139",
+      "bge_BGE_143_I_345",
+      "bge_BGE_144_I_291",
+      "bge_BGE_145_I_276",
+      "bge_BGE_146_I_381",
+      "bge_BGE_147_I_397",
+      "bge_BGE_148_I_353"
+    ],
+    "art-049": [
+      "bge_BGE_123_II_1",
+      "bge_BGE_124_II_1",
+      "bge_BGE_127_II_49",
+      "bge_BGE_129_II_1",
+      "bge_BGE_130_II_270",
+      "bge_BGE_130_I_82",
+      "bge_BGE_131_II_1",
+      "bge_BGE_132_II_21",
+      "bge_BGE_133_II_1",
+      "bge_BGE_136_II_359",
+      "bge_BGE_137_II_297",
+      "bge_BGE_138_I_468",
+      "bge_BGE_139_II_121",
+      "bge_BGE_139_I_242",
+      "bge_BGE_142_II_369",
+      "bge_BGE_143_I_403",
+      "bge_BGE_144_II_1",
+      "bge_BGE_146_II_56",
+      "bge_BGE_147_II_35",
+      "bge_BGE_149_II_476",
+      "bge_BGE_150_II_244",
+      "bger_1C_275_2025",
+      "bger_1C_450_2025",
+      "bger_2C_256_2025",
+      "bger_2C_350_2025",
+      "bger_2C_546_2025",
+      "bger_9C_391_2025"
+    ],
+    "art-073": [
+      "bge_BGE_134_II_332",
+      "bge_BGE_135_II_321",
+      "bge_BGE_136_II_196",
+      "bge_BGE_136_II_263",
+      "bge_BGE_138_II_331",
+      "bge_BGE_138_II_37",
+      "bge_BGE_139_II_385",
+      "bge_BGE_140_I_259",
+      "bge_BGE_141_II_484",
+      "bge_BGE_142_II_313",
+      "bge_BGE_143_II_394",
+      "bge_BGE_144_II_381",
+      "bge_BGE_145_II_178",
+      "bge_BGE_146_II_176",
+      "bge_BGE_147_II_164",
+      "bge_BGE_147_II_221",
+      "bge_BGE_148_II_36",
+      "bge_BGE_148_II_389",
+      "bge_BGE_149_II_368",
+      "bge_BGE_149_II_86",
+      "bge_BGE_149_I_182",
+      "bge_BGE_150_II_244"
+    ],
+    "art-094": [
+      "bge_BGE_122_II_193",
+      "bge_BGE_123_II_225",
+      "bge_BGE_125_II_417",
+      "bge_BGE_126_II_377",
+      "bge_BGE_128_II_24",
+      "bge_BGE_128_I_3",
+      "bge_BGE_129_II_312",
+      "bge_BGE_130_II_258",
+      "bge_BGE_130_I_26",
+      "bge_BGE_131_II_339",
+      "bge_BGE_131_I_223",
+      "bge_BGE_132_II_257",
+      "bge_BGE_133_II_263",
+      "bge_BGE_134_II_287",
+      "bge_BGE_135_II_274",
+      "bge_BGE_136_II_304",
+      "bge_BGE_137_II_305",
+      "bge_BGE_138_II_570",
+      "bge_BGE_138_I_378",
+      "bge_BGE_139_II_384",
+      "bge_BGE_140_II_262",
+      "bge_BGE_142_II_363",
+      "bge_BGE_142_I_162",
+      "bge_BGE_143_II_257",
+      "bge_BGE_143_I_403",
+      "bge_BGE_144_II_401",
+      "bge_BGE_145_II_18",
+      "bge_BGE_146_II_384",
+      "bge_BGE_149_II_368"
+    ],
+    "art-095": [
+      "bge_BGE_121_I_326",
+      "bge_BGE_122_I_1",
+      "bge_BGE_124_I_223",
+      "bge_BGE_125_I_300",
+      "bge_BGE_127_I_73",
+      "bge_BGE_128_I_3",
+      "bge_BGE_130_II_87",
+      "bge_BGE_130_I_26",
+      "bge_BGE_131_I_153",
+      "bge_BGE_132_I_140",
+      "bge_BGE_133_I_49",
+      "bge_BGE_135_I_143",
+      "bge_BGE_136_I_65",
+      "bge_BGE_137_I_305",
+      "bge_BGE_138_I_305",
+      "bge_BGE_140_I_2",
+      "bge_BGE_141_I_124",
+      "bge_BGE_143_I_1",
+      "bge_BGE_144_I_1",
+      "bge_BGE_145_I_73",
+      "bge_BGE_146_I_49"
+    ]
+  },
+  "http": {
+    "bge_BGE_121_I_326": 200,
+    "bge_BGE_122_II_193": 200,
+    "bge_BGE_122_I_1": 200,
+    "bge_BGE_123_II_1": 200,
+    "bge_BGE_123_II_225": 200,
+    "bge_BGE_124_II_1": 200,
+    "bge_BGE_124_I_223": 200,
+    "bge_BGE_125_II_417": 200,
+    "bge_BGE_125_I_300": 200,
+    "bge_BGE_126_II_377": 200,
+    "bge_BGE_126_II_425": 200,
+    "bge_BGE_127_II_49": 200,
+    "bge_BGE_127_I_6": 200,
+    "bge_BGE_127_I_73": 200,
+    "bge_BGE_128_II_24": 200,
+    "bge_BGE_128_I_3": 200,
+    "bge_BGE_129_II_1": 200,
+    "bge_BGE_129_II_312": 200,
+    "bge_BGE_129_I_185": 200,
+    "bge_BGE_129_I_232": 200,
+    "bge_BGE_130_II_258": 200,
+    "bge_BGE_130_II_270": 200,
+    "bge_BGE_130_II_87": 200,
+    "bge_BGE_130_I_16": 200,
+    "bge_BGE_130_I_169": 200,
+    "bge_BGE_130_I_26": 200,
+    "bge_BGE_130_I_290": 200,
+    "bge_BGE_130_I_82": 200,
+    "bge_BGE_131_II_1": 200,
+    "bge_BGE_131_II_339": 200,
+    "bge_BGE_131_I_153": 200,
+    "bge_BGE_131_I_166": 200,
+    "bge_BGE_131_I_186": 404,
+    "bge_BGE_131_I_223": 200,
+    "bge_BGE_131_I_321": 200,
+    "bge_BGE_131_I_442": 200,
+    "bge_BGE_132_II_21": 200,
+    "bge_BGE_132_II_257": 200,
+    "bge_BGE_132_I_140": 200,
+    "bge_BGE_132_I_49": 200,
+    "bge_BGE_133_II_1": 200,
+    "bge_BGE_133_II_263": 200,
+    "bge_BGE_133_I_259": 200,
+    "bge_BGE_133_I_270": 200,
+    "bge_BGE_133_I_290": 404,
+    "bge_BGE_133_I_49": 200,
+    "bge_BGE_134_II_287": 200,
+    "bge_BGE_134_II_332": 404,
+    "bge_BGE_134_I_199": 200,
+    "bge_BGE_134_I_238": 200,
+    "bge_BGE_134_I_239": 404,
+    "bge_BGE_134_I_83": 200,
+    "bge_BGE_134_V_401": 200,
+    "bge_BGE_135_II_274": 200,
+    "bge_BGE_135_II_321": 404,
+    "bge_BGE_135_I_143": 200,
+    "bge_BGE_135_I_187": 200,
+    "bge_BGE_135_I_292": 200,
+    "bge_BGE_135_I_49": 200,
+    "bge_BGE_135_I_6": 200,
+    "bge_BGE_136_II_196": 404,
+    "bge_BGE_136_II_263": 200,
+    "bge_BGE_136_II_304": 200,
+    "bge_BGE_136_II_359": 200,
+    "bge_BGE_136_II_436": 200,
+    "bge_BGE_136_I_165": 404,
+    "bge_BGE_136_I_229": 200,
+    "bge_BGE_136_I_65": 200,
+    "bge_BGE_137_II_297": 200,
+    "bge_BGE_137_II_305": 200,
+    "bge_BGE_137_I_305": 200,
+    "bge_BGE_137_I_351": 200,
+    "bge_BGE_138_II_331": 200,
+    "bge_BGE_138_II_37": 404,
+    "bge_BGE_138_II_570": 200,
+    "bge_BGE_138_I_305": 200,
+    "bge_BGE_138_I_378": 200,
+    "bge_BGE_138_I_41": 200,
+    "bge_BGE_138_I_468": 200,
+    "bge_BGE_138_I_61": 200,
+    "bge_BGE_139_II_121": 200,
+    "bge_BGE_139_II_384": 200,
+    "bge_BGE_139_II_385": 404,
+    "bge_BGE_139_I_121": 200,
+    "bge_BGE_139_I_2": 200,
+    "bge_BGE_139_I_206": 200,
+    "bge_BGE_139_I_242": 200,
+    "bge_BGE_139_I_368": 404,
+    "bge_BGE_140_II_262": 200,
+    "bge_BGE_140_I_125": 200,
+    "bge_BGE_140_I_176": 200,
+    "bge_BGE_140_I_192": 404,
+    "bge_BGE_140_I_2": 200,
+    "bge_BGE_140_I_259": 404,
+    "bge_BGE_140_I_338": 200,
+    "bge_BGE_141_II_484": 404,
+    "bge_BGE_141_I_105": 200,
+    "bge_BGE_141_I_124": 200,
+    "bge_BGE_141_I_143": 404,
+    "bge_BGE_141_I_6": 404,
+    "bge_BGE_142_II_313": 200,
+    "bge_BGE_142_II_363": 200,
+    "bge_BGE_142_II_369": 200,
+    "bge_BGE_142_I_1": 200,
+    "bge_BGE_142_I_139": 404,
+    "bge_BGE_142_I_162": 200,
+    "bge_BGE_143_II_257": 200,
+    "bge_BGE_143_II_394": 404,
+    "bge_BGE_143_IV_77": 200,
+    "bge_BGE_143_I_1": 200,
+    "bge_BGE_143_I_241": 200,
+    "bge_BGE_143_I_336": 200,
+    "bge_BGE_143_I_345": 404,
+    "bge_BGE_143_I_403": 200,
+    "bge_BGE_143_I_78": 200,
+    "bge_BGE_144_II_1": 200,
+    "bge_BGE_144_II_381": 404,
+    "bge_BGE_144_II_401": 200,
+    "bge_BGE_144_I_1": 200,
+    "bge_BGE_144_I_181": 200,
+    "bge_BGE_144_I_273": 404,
+    "bge_BGE_144_I_291": 404,
+    "bge_BGE_145_II_178": 404,
+    "bge_BGE_145_II_18": 200,
+    "bge_BGE_145_I_1": 200,
+    "bge_BGE_145_I_175": 200,
+    "bge_BGE_145_I_276": 404,
+    "bge_BGE_145_I_73": 200,
+    "bge_BGE_146_II_176": 404,
+    "bge_BGE_146_II_384": 200,
+    "bge_BGE_146_II_56": 200,
+    "bge_BGE_146_I_381": 404,
+    "bge_BGE_146_I_49": 200,
+    "bge_BGE_146_I_62": 200,
+    "bge_BGE_147_II_164": 200,
+    "bge_BGE_147_II_221": 404,
+    "bge_BGE_147_II_35": 200,
+    "bge_BGE_147_I_397": 404,
+    "bge_BGE_147_I_81": 404,
+    "bge_BGE_148_II_36": 200,
+    "bge_BGE_148_II_389": 404,
+    "bge_BGE_148_I_104": 200,
+    "bge_BGE_148_I_309": 404,
+    "bge_BGE_148_I_353": 404,
+    "bge_BGE_149_II_368": 200,
+    "bge_BGE_149_II_476": 200,
+    "bge_BGE_149_II_86": 200,
+    "bge_BGE_149_I_146": 200,
+    "bge_BGE_149_I_182": 200,
+    "bge_BGE_150_II_244": 200,
+    "bger_1C_198_2025": 200,
+    "bger_1C_275_2025": 200,
+    "bger_1C_450_2025": 200,
+    "bger_2C_256_2025": 200,
+    "bger_2C_350_2025": 200,
+    "bger_2C_546_2025": 200,
+    "bger_4A_312_2025": 200,
+    "bger_5A_38_2011": 200,
+    "bger_5A_398_2026": 200,
+    "bger_7B_1305_2025": 200,
+    "bger_9C_391_2025": 200,
+    "bger_9C_550_2025": 200
+  },
+  "claims": {
+    "bge_BGE_121_I_326": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_122_II_193": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_122_I_1": {
+      "supports": "contradicts",
+      "confidence": 0.97
+    },
+    "bge_BGE_123_II_1": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_123_II_225": {
+      "supports": "contradicts",
+      "confidence": 0.99
+    },
+    "bge_BGE_124_II_1": {
+      "supports": "unrelated",
+      "confidence": 0.92
+    },
+    "bge_BGE_124_I_223": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_125_II_417": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_125_I_300": {
+      "supports": "contradicts",
+      "confidence": 0.99
+    },
+    "bge_BGE_126_II_377": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_126_II_425": {
+      "supports": "no",
+      "confidence": 0.9
+    },
+    "bge_BGE_127_II_49": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_127_I_6": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_127_I_73": {
+      "supports": "no",
+      "confidence": 0.98
+    },
+    "bge_BGE_128_II_24": {
+      "supports": "no",
+      "confidence": 0.98
+    },
+    "bge_BGE_128_I_3": {
+      "supports": "partial",
+      "confidence": 0.75
+    },
+    "bge_BGE_129_II_1": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_129_II_312": {
+      "supports": "contradicts",
+      "confidence": 0.99
+    },
+    "bge_BGE_129_I_185": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_129_I_232": {
+      "supports": "no",
+      "confidence": 0.92
+    },
+    "bge_BGE_130_II_258": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_130_II_270": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_130_II_87": {
+      "supports": "partial",
+      "confidence": 0.65
+    },
+    "bge_BGE_130_I_16": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_130_I_169": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_130_I_26": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_130_I_290": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_130_I_82": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_131_II_1": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_131_II_339": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_131_I_153": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_131_I_166": {
+      "supports": "partial",
+      "confidence": 0.85
+    },
+    "bge_BGE_131_I_223": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_131_I_321": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_131_I_442": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_132_II_21": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_132_II_257": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_132_I_140": {
+      "supports": "contradicts",
+      "confidence": 0.97
+    },
+    "bge_BGE_132_I_49": {
+      "supports": "partial",
+      "confidence": 0.95
+    },
+    "bge_BGE_133_II_1": {
+      "supports": "no",
+      "confidence": 0.9
+    },
+    "bge_BGE_133_II_263": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_133_I_259": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_133_I_270": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_133_I_49": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_134_II_287": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_134_I_199": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_134_I_238": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_134_I_83": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_134_V_401": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_135_II_274": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_135_I_143": {
+      "supports": "contradicts",
+      "confidence": 0.97
+    },
+    "bge_BGE_135_I_187": {
+      "supports": "contradicts",
+      "confidence": 0.98
+    },
+    "bge_BGE_135_I_292": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_135_I_49": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_135_I_6": {
+      "supports": "yes",
+      "confidence": 0.97
+    },
+    "bge_BGE_136_II_263": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_136_II_304": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_136_II_359": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_136_II_436": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_136_I_229": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_136_I_65": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_137_II_297": {
+      "supports": "unrelated",
+      "confidence": 0.95
+    },
+    "bge_BGE_137_II_305": {
+      "supports": "contradicts",
+      "confidence": 0.98
+    },
+    "bge_BGE_137_I_305": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_137_I_351": {
+      "supports": "yes",
+      "confidence": 0.98
+    },
+    "bge_BGE_138_II_331": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_138_II_570": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_138_I_305": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_138_I_378": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_138_I_41": {
+      "supports": "partial",
+      "confidence": 0.8
+    },
+    "bge_BGE_138_I_468": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_138_I_61": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_139_II_121": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_139_II_384": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_139_I_121": {
+      "supports": "no",
+      "confidence": 0.98
+    },
+    "bge_BGE_139_I_2": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_139_I_206": {
+      "supports": "partial",
+      "confidence": 0.82
+    },
+    "bge_BGE_139_I_242": {
+      "supports": "yes",
+      "confidence": 0.97
+    },
+    "bge_BGE_140_II_262": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_140_I_125": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_140_I_176": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_140_I_2": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_140_I_338": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_141_I_105": {
+      "supports": "no",
+      "confidence": 0.98
+    },
+    "bge_BGE_141_I_124": {
+      "supports": "partial",
+      "confidence": 0.8
+    },
+    "bge_BGE_142_II_313": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_142_II_363": {
+      "supports": "contradicts",
+      "confidence": 0.98
+    },
+    "bge_BGE_142_II_369": {
+      "supports": "partial",
+      "confidence": 0.82
+    },
+    "bge_BGE_142_I_1": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_142_I_162": {
+      "supports": "partial",
+      "confidence": 0.72
+    },
+    "bge_BGE_143_II_257": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_143_IV_77": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_143_I_1": {
+      "supports": "no",
+      "confidence": 0.92
+    },
+    "bge_BGE_143_I_241": {
+      "supports": "partial",
+      "confidence": 0.82
+    },
+    "bge_BGE_143_I_336": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_143_I_403": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_143_I_78": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_144_II_1": {
+      "supports": "no",
+      "confidence": 0.92
+    },
+    "bge_BGE_144_II_401": {
+      "supports": "no",
+      "confidence": 0.99
+    },
+    "bge_BGE_144_I_1": {
+      "supports": "contradicts",
+      "confidence": 0.98
+    },
+    "bge_BGE_144_I_181": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_145_II_18": {
+      "supports": "no",
+      "confidence": 0.97
+    },
+    "bge_BGE_145_I_1": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_145_I_175": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_145_I_73": {
+      "supports": "partial",
+      "confidence": 0.7
+    },
+    "bge_BGE_146_II_384": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_146_II_56": {
+      "supports": "partial",
+      "confidence": 0.6
+    },
+    "bge_BGE_146_I_49": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_146_I_62": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_147_II_164": {
+      "supports": "partial",
+      "confidence": 0.6
+    },
+    "bge_BGE_147_II_35": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_148_II_36": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bge_BGE_148_I_104": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bge_BGE_149_II_368": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_149_II_476": {
+      "supports": "no",
+      "confidence": 0.95
+    },
+    "bge_BGE_149_II_86": {
+      "supports": "no",
+      "confidence": 0.9
+    },
+    "bge_BGE_149_I_146": {
+      "supports": "yes",
+      "confidence": 1.0
+    },
+    "bge_BGE_149_I_182": {
+      "supports": "partial",
+      "confidence": 0.85
+    },
+    "bge_BGE_150_II_244": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bger_1C_198_2025": {
+      "supports": "yes",
+      "confidence": 0.99
+    },
+    "bger_1C_275_2025": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bger_1C_450_2025": {
+      "supports": "partial",
+      "confidence": 0.6
+    },
+    "bger_2C_256_2025": {
+      "supports": "partial",
+      "confidence": 0.55
+    },
+    "bger_2C_350_2025": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bger_2C_546_2025": {
+      "supports": "partial",
+      "confidence": 0.55
+    },
+    "bger_4A_312_2025": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bger_5A_38_2011": {
+      "supports": "partial",
+      "confidence": 0.6
+    },
+    "bger_5A_398_2026": {
+      "supports": "no",
+      "confidence": 0.85
+    },
+    "bger_7B_1305_2025": {
+      "supports": "partial",
+      "confidence": 0.5
+    },
+    "bger_9C_391_2025": {
+      "supports": "partial",
+      "confidence": 0.6
+    },
+    "bger_9C_550_2025": {
+      "supports": "partial",
+      "confidence": 0.75
+    }
+  }
+}
