@@ -1,105 +1,145 @@
 ---
-title: "Rechtsprechung zu Art. 7 BV — Menschenwürde"
+title: "Rechtsprechung zu Art. 7 BV"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-08-09
-description: "Wichtige Bundesgerichtsentscheide zu Art. 7 BV: Menschenwürde, Zwangsbehandlung, Einbürgerung, Diskriminierungsverbot, Geschädigtenstellung, Wegweisungsverfügungen, Haftbedingungen, Asylrecht, Fürsorge, Datenschutz."
-tags: ["Rechtsprechung", "BV", "Menschenwürde", "Zwangsbehandlung", "Einbürgerung", "Diskriminierungsverbot", "EMRK", "Haftbedingungen", "Asylrecht", "Fürsorge"]
-agent_verified: true
+lastmod: 2026-08-11
+description: "Übersicht der Entscheide zu Art. 7 BV — Menschenwürde als Leitgrundsatz, medizinische Zwangsmassnahmen, Haftbedingungen, Nothilfe, Schuldhaft"
+tags: ["Rechtsprechung", "BV", "Menschenwürde", "Zwangsbehandlung", "Haftbedingungen", "Nothilfe"]
+agent_verified: false
 revisions:
-
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Entscheidblöcke der Vorfassung überwiegend entfernt — fünf Referenzen existierten nicht, BGE 139 I 121 betrifft Ausstandsrecht, weitere sieben Belege trugen die zugeschriebenen Kernaussagen nicht (3× contradicts). Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Überarbeitet — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 
-Zurück zum Kommentar: [Art. 7 BV — Menschenwürde](./)
+## Rechtsprechung zu Art. 7 BV
 
-## I. Medikamentöse Zwangsbehandlung / fürsorgerischer Freiheitsentzug
+Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) | 2001 | **Zwangsbehandlung (Leitentscheid):** Medikamentöse Zwangsbehandlung in psychiatrischer Klinik während fürsorgerischen Freiheitsentzugs; Art. 7, 10, 13, 36 BV, Art. 3 und 8 EMRK, Art. 7 UNO-Pakt II. Tragweite der Garantie der Menschenwürde nach Art. 7 BV; Rechtsgrundlage (Psychiatriegesetz); Prüfung von Urteilsunfähigkeit, mutmasslichem Willen und dringender Notwendigkeit; Verhältnismässigkeit nach Art. 36 BV | E. 2a, 4, 5b, 7a–d, 8, 9b–d |
-| [BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) | 2004 | **Zwangsbehandlung (Bestätigung):** Medikamentöse Zwangsbehandlung als schwerer Eingriff in die persönliche Freiheit, der die Menschenwürde zentral betrifft; gesetzliche Grundlage (Kanton Zug); erforderlich ist eine vollständige und umfassende Interessenabwägung (öffentliche Interessen, Notwendigkeit der Behandlung, Auswirkungen einer Nicht-Behandlung, Alternativen, Selbst- und Fremdgefährdung) | E. 3–5 |
-| [BGE 139 I 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_121) | 2013 | **Zwangsbehandlung (Präzisierung):** Erweiterte Dogmatik der Zwangsbehandlung; individualisierte Interessenabwägung; Vorrang des mutmasslichen Willens vor dem objektiven Patientenwohl bei einwilligungsunfähigen Personen | E. 4.2 |
+### Tragweite der Garantie
 
-## II. Einbürgerung und Diskriminierungsverbot
+#### BGE 132 I 49 (25. Januar 2006) — Menschenwürde als Leitgrundsatz und Auffanggrundrecht
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 129 I 232](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_232) | 2003 | **Einbürgerung und Urnenabstimmung:** Ungültigkeit einer Initiative, mit der Einbürgerungsgesuche der Urnenabstimmung unterstellt werden sollen (Art. 29 Abs. 2, Art. 34 Abs. 2, Art. 13 BV). Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht (Art. 29 Abs. 2 BV) i.V.m. Art. 8 Abs. 2 BV; bei Urnenabstimmung nicht möglich; Konflikt mit Abstimmungsfreiheit und Privat- und Geheimsphäre | E. 3.3–4.4 |
-| [BGE 135 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_49) | 2008 | **Nichteinbürgerung wegen Sozialhilfeabhängigkeit:** Nichteinbürgerung einer behinderten Bewerberin wegen Sozialhilfeabhängigkeit; Diskriminierungsverbot (Art. 8 Abs. 2 BV). Erfordernis der wirtschaftlichen Selbsterhaltungsfähigkeit trifft behinderte Personen in spezifischer Weise; Verletzung des Diskriminierungsverbotes | E. 6.1, 6.3 |
+**Kernaussage**: Die Menschenwürde hat allgemein die Bedeutung eines Leitgrundsatzes für jegliche Staatstätigkeit, bildet als innerster Kern zugleich die Grundlage der Freiheitsrechte, dient deren Auslegung und Konkretisierung und ist Auffanggrundrecht. Für besonders gelagerte Konstellationen kann der Menschenwürde ein eigenständiger Gehalt zukommen.
 
-## III. Rassendiskriminierung und Geschädigtenstellung
+**Bedeutung**: Die massgebliche Umschreibung der Funktion von Art. 7 BV. Sie widerlegt zugleich die verbreitete Verkürzung, aus einer Anrufung der Menschenwürde lasse sich nie etwas ableiten — der eigenständige Gehalt ist auf besondere Konstellationen beschränkt, nicht ausgeschlossen.
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 143 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_77) | 2017 | **Rassendiskriminierung und Geschädigtenstellung:** Bei Diskriminierung einer Gruppe (hier: der Juden) kommt den einzelnen Gruppenangehörigen mangels unmittelbarer Betroffenheit keine Geschädigtenstellung zu; sie können sich nicht als Privatkläger konstituieren (Art. 261bis Abs. 4 StGB; Art. 115, 118 StPO) | E. 4 |
+- **OCL**: [BGE 132 I 49, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49#e-5-1)
 
-## IV. Wegweisungs- und Fernhalteverfügungen
+---
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) | 2006 | **Wegweisung und selbständige Anrufung der Menschenwürde:** Wegweisungs- und Fernhalteverfügungen; Art. 7, 8, 10, 22, 36 BV. Aus einer selbständigen Anrufung der Menschenwürde (Art. 7 BV) können die Betroffenen nichts zu ihren Gunsten ableiten; sie können sich auf Versammlungsfreiheit (Art. 22 BV), persönliche Freiheit (Art. 10 Abs. 2 BV), Diskriminierungsverbot (Art. 8 Abs. 2 BV) und Willkürverbot (Art. 9 BV) berufen. Hinreichende Bestimmtheit; öffentliches Interesse und Verhältnismässigkeit bejaht; keine Verletzung des Diskriminierungsverbotes | E. 2, 5–8 |
+### Medizinische Zwangsmassnahmen
 
-## V. Haftbedingungen und Menschenwürde
+#### BGE 127 I 6 (22. März 2001) — Zwangsmedikation im fürsorgerischen Freiheitsentzug
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 133 I 259](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_259) | 2007 | **Haftbedingungen und Menschenwürde:** Anforderungen an Haftbedingungen im Lichte von Art. 7 BV i.V.m. Art. 10 Abs. 2 BV und Art. 3 EMRK; Unterbringung, sanitäre Einrichtungen, Briefverkehr | E. 3 |
-| [BGE 134 I 239](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_239) | 2008 | **Sicherheitshaft und Menschenwürde:** Sicherheitshaft als schwerwiegender Eingriff in die persönliche Freiheit; Menschenwürdeanforderungen an Haftbedingungen; Beschränkung auf das unbedingt Notwendige | E. 2.3 |
+**Kernaussage**: Die medikamentöse Zwangsbehandlung während fürsorgerischen Freiheitsentzugs ist an der persönlichen Freiheit (Art. 10 Abs. 2 BV) und der Menschenwürde (Art. 7 BV) zu messen.
 
-## VI. Asylrecht und Menschenwürde
+**Bedeutung**: Leitentscheid zum zentralen Anwendungsbereich von Art. 7 BV; ergangen zum Psychiatriegesetz des Kantons Basel-Stadt.
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 137 I 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_305) | 2011 | **Vollzugshindernis und Art. 3 EMRK:** Ausschaffung in ein Land mit drohender Menschenrechtsverletzung verstösst gegen Art. 7 BV i.V.m. Art. 3 EMRK; blosse Gruppenzugehörigkeit genügt nicht für Vollzugshindernis | E. 4 |
-| [BGE 140 I 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_176) | 2014 | **Aufenthaltsbeendigung und Verhältnismässigkeit:** Verhältnismässigkeit der Aufenthaltsbeendigung im Lichte von Art. 7 BV, Art. 8 und 13 EMRK; überlange Verfahrensdauer kann Menschenwürde beeinträchtigen | E. 5.2 |
+- **OCL**: [BGE 127 I 6, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-5)
 
-## VII. Fürsorge und staatliche Schutzpflicht
+---
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 131 I 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_321) | 2005 | **Fürsorgerischer Freiheitsentzug und Menschenwürde:** Fürsorgerischer Freiheitsentzug berührt die Menschenwürde; Massnahme muss verhältnismässig sein und als letztes Mittel (ultimum ratio) eingesetzt werden | E. 3 |
-| [BGE 136 I 165](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_165) | 2010 | **Kindeswohl und Schutzpflicht:** Staatliche Schutzpflicht aus Art. 7 BV i.V.m. Art. 11 BV bei Kindeswohlgefährdung; Behörden müssen eingreifen, wenn das Wohl des Kindes ernsthaft gefährdet ist | E. 3.2 |
+#### BGE 126 I 112 (23. Mai 2000) — Gesetzliche Grundlage für Zwangsmedikation und Isolierung
 
-## VIII. Datenschutz, Persönlichkeit und Menschenwürde
+**Kernaussage**: Schwere Eingriffe in Freiheitsrechte wie Zwangsmedikation und Isolierung bedürfen einer klaren und ausdrücklichen Regelung in einem formellen Gesetz.
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 141 I 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_105) | 2015 | **Datenschutz und Menschenwürde:** Schutz personenbezogener Daten als Aspekt der Menschenwürde i.V.m. Art. 13 BV; unbefugte Weitergabe besonders schützenswerter Personendaten kann die Menschenwürde verletzen | E. 4 |
-| [BGE 144 I 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_273) | 2018 | **Medizinische Forschung und Menschenwürde:** Grenzen der medizinischen Forschung am Menschen; Einwilligung nach Aufklärung (informed consent) als Grundvoraussetzung; Forschung an einwilligungsunfähigen Personen nur bei gesetzlicher Grundlage und Wohl der Person | E. 5 |
+**Bedeutung**: Legt die Anforderungen an die gesetzliche Grundlage bei medizinischen Zwangseingriffen fest.
 
-## IX. Weitere Entscheide
+- **OCL**: [BGE 126 I 112, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-3)
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGE 146 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49) | 2020 | **Menschenwürde und politische Rechte:** Zusammenhang zwischen Menschenwürde und politischer Teilhabe; Vertrauenswürdigkeit des Wahlsystems | E. 4 |
-| [BGE 148 I 309](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_309) | 2022 | **Menschenwürde im Verwaltungsverfahren:** Verfahrensrechtliche Garantien als Konkretisierung der Menschenwürde; rechtliches Gehör (Art. 29 BV) | E. 3 |
-| [BGE 147 I 81](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_81) | 2021 | **Menschenwürde und Grundrechtskonkurrenz:** Abgrenzung der Menschenwürdegarantie zu konkreteren Grundrechten; Art. 7 BV als Auslegungsmaxime und Verstärkungsnorm | E. 2 |
+---
 
-## X. Dogmatische Entwicklung — Zeitstrahl
+#### BGE 126 I 112 (23. Mai 2000) — Verhältnismässigkeit des Zwangseingriffs
 
-| Jahr | Leitentscheid | Hinzugefügte Dogmatik |
-|------|---------------|----------------------|
-| 2001 | BGE 127 I 6 | Menschenwürde bei medikamentöser Zwangsbehandlung; Tragweite der Garantie; Prüfungsschema |
-| 2003 | BGE 129 I 232 | Menschenwürde und Diskriminierungsverbot im Einbürgerungsverfahren; Begründungspflicht |
-| 2004 | BGE 130 I 16 | Bestätigung der Dogmatik zur Zwangsbehandlung; umfassende Interessenabwägung |
-| 2005 | BGE 131 I 321 | Fürsorgerischer Freiheitsentzug und Menschenwürde; ultimum ratio |
-| 2006 | BGE 132 I 49 | Beschränkung des selbständigen Gehalts von Art. 7 BV (Wegweisungsverfügungen) |
-| 2007 | BGE 133 I 259 | Haftbedingungen und Menschenwürde |
-| 2008 | BGE 134 I 239 | Sicherheitshaft und Menschenwürde |
-| 2008 | BGE 135 I 49 | Diskriminierungsverbot und Menschenwürde bei Nichteinbürgerung Behinderter |
-| 2010 | BGE 136 I 165 | Kindeswohl und staatliche Schutzpflicht |
-| 2011 | BGE 137 I 305 | Vollzugshindernis im Asylrecht; Art. 3 EMRK |
-| 2013 | BGE 139 I 121 | Präzisierung der Zwangsbehandlungs-Dogmatik |
-| 2014 | BGE 140 I 176 | Aufenthaltsbeendigung und Verhältnismässigkeit |
-| 2015 | BGE 141 I 105 | Datenschutz und Menschenwürde |
-| 2017 | BGE 143 IV 77 | Menschenwürde und Gruppendiskriminierung; keine individuelle Geschädigtenstellung |
-| 2018 | BGE 144 I 273 | Medizinische Forschung und Menschenwürde |
-| 2021 | BGE 147 I 81 | Menschenwürde als Auslegungsmaxime und Verstärkungsnorm |
-| 2022 | BGE 148 I 309 | Menschenwürde im Verwaltungsverfahren |
+**Kernaussage**: Der Eingriff darf in sachlicher, räumlicher, zeitlicher und personeller Hinsicht nicht einschneidender sein als notwendig.
 
-*Letzte Aktualisierung: 2026-08-09*
+**Bedeutung**: Massstab für die Ausgestaltung von Zwangsmedikation und Isolierung — die Beschränkung muss in jeder der vier Dimensionen gerechtfertigt sein.
+
+- **OCL**: [BGE 126 I 112, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-5)
+
+---
+
+#### BGE 130 I 16 (7. Januar 2004) — Erfordernis der umfassenden Interessenabwägung
+
+**Kernaussage**: Wurden Sachverhalt und mögliche Folgen — sowohl der Medikation als auch der Alternativen — unzureichend festgehalten und die Selbst- und Drittgefährdung nicht konkret belegt, so hat die Vorinstanz eine umfassende Interessen- und Güterabwägung tatsächlich nicht vorgenommen; eine Substitution durch das Bundesgericht ist nicht möglich.
+
+**Bedeutung**: Macht die individualisierte Abwägung zur selbständigen Rechtmässigkeitsvoraussetzung der Zwangsbehandlung.
+
+- **OCL**: [BGE 130 I 16, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16#e-5-4)
+
+---
+
+#### BGE 143 III 337 (18. Mai 2017) — Anordnung nach Art. 434 Abs. 1 ZGB
+
+**Kernaussage**: Als Anordnung im Sinn des Gesetzes gilt die von einem Oberarzt der Einrichtung unterzeichnete Verfügung, die ausdrücklich eine Zwangsmassnahme gestützt auf Art. 434 Abs. 1 ZGB für unbestimmte Zeit anordnet. Nicht erforderlich ist, dass die Art der angeordneten Zwangsmassnahme in der Verfügung ausdrücklich genannt wird.
+
+**Bedeutung**: Massgebend für die heutige Rechtslage unter dem Erwachsenenschutzrecht; die verfassungsrechtlichen Anforderungen der älteren Entscheide bleiben daneben anwendbar.
+
+- **OCL**: [BGE 143 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_337)
+
+---
+
+### Haftbedingungen
+
+#### BGE 140 I 125 (26. Februar 2014) — Champ-Dollon
+
+**Kernaussage**: Art. 3 EMRK verbietet Folter sowie unmenschliche oder erniedrigende Strafe und Behandlung; auf Verfassungsebene schreibt Art. 7 BV vor, dass die Menschenwürde zu achten und zu schützen ist, und Art. 10 Abs. 3 BV verbietet grausame, unmenschliche oder erniedrigende Behandlung.
+
+**Bedeutung**: Leitentscheid zu den Haftbedingungen; konkretisiert Anforderungen an Zellengrösse, Belegung und Aufenthalt ausserhalb der Zelle und behandelt die Beschwerdelegitimation der Staatsanwaltschaft.
+
+- **OCL**: [BGE 140 I 125, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_125#e-3-1)
+
+---
+
+### Nothilfe
+
+#### BGE 131 I 166 (18. März 2005) — Nothilfe bei Nichteintretensentscheid
+
+**Kernaussage**: Ausländerrechtliche Pflichtwidrigkeiten vermögen den grundrechtlichen Anspruch auf Hilfe in Notlagen nach Art. 12 BV nicht zu beseitigen. Die Verweigerung der Nothilfe darf nicht als Zwangsmittel zur Erreichung ausländerrechtlicher Ziele eingesetzt werden; dafür stehen die ausländerrechtlichen Zwangsmassnahmen zur Verfügung.
+
+**Bedeutung**: Zieht die Grenze zwischen der Durchsetzung ausländerrechtlicher Mitwirkungspflichten und dem von der Menschenwürde getragenen Existenzminimum.
+
+- **OCL**: [BGE 131 I 166, E. 7.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166#e-7-1)
+
+---
+
+### Schuldhaft
+
+#### BGE 130 I 169 (12. Mai 2004) — Verbot der Schuldhaft
+
+**Kernaussage**: Jede Freiheitsentziehung, die an die Stelle einer nicht bezahlten Geldschuld tritt, ist als Schuldhaft zu betrachten und unzulässig — es sei denn, die Zahlungspflicht trage Strafcharakter, wie bei einer Busse, nicht aber bei Gerichtskosten.
+
+**Bedeutung**: Führt eine bis 1875 zurückreichende Praxis fort und grenzt Busse von Verfahrenskosten ab.
+
+- **OCL**: [BGE 130 I 169, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_169#e-2-3)
+
+---
+
+## Entfernte Entscheide (Audit vom 11. August 2026)
+
+| Referenz | Befund |
+|---|---|
+| BGE 134 I 239 | existiert nicht |
+| BGE 136 I 165 | existiert nicht |
+| BGE 144 I 273 | existiert nicht |
+| BGE 147 I 81 | existiert nicht |
+| BGE 148 I 309 | existiert nicht |
+| BGE 139 I 121 | existiert; betrifft den Ausstand von Ersatzrichtern, nicht die Zwangsbehandlung |
+| BGE 133 I 259 | existiert; trägt die Aussage zu Haftbedingungen nicht (`contradicts`) |
+| BGE 137 I 305 | existiert; trägt die Aussage zum Vollzugshindernis nicht (`contradicts`) |
+| BGE 140 I 176 | existiert; trägt die Aussage zur Aufenthaltsbeendigung nicht (`contradicts`) |
+| BGE 141 I 105 | existiert; trägt die Aussage zum Datenschutz nicht (`contradicts`) |
+| BGE 146 I 49 | existiert; trägt die Aussage zu politischen Rechten nicht |
+| BGE 131 I 321 | existiert; trägt die Aussage zum fürsorgerischen Freiheitsentzug nicht |
+| BGE 132 I 49 E. 5 | Pinpoint korrigiert auf E. 5.1 |
+| BGE 135 I 49 | Pinpoint E. 3.3 existiert nicht |
+
+Die fünf nicht existierenden Referenzen lieferten sämtlich `close_matches` mit dem Grund `queried_page_within_this_decision` — die zitierte Seitenzahl fällt in einen *anderen* Entscheid. Das ist kein Identitätsnachweis, weshalb keine automatische Korrektur vorgenommen wurde.

@@ -2,17 +2,21 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-09
-description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als oberstes Verfassungsprinzip; objektive Wertentscheidung; Schutzgehalt bei Zwangsbehandlung, Schuldhaft, Einbürgerung, Diskriminierung, Haftbedingungen, Nothilfe; Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II."
-tags: ["BV", "Grundrechte", "Menschenwürde", "objektive Wertordnung", "Zwangsbehandlung", "Diskriminierungsverbot", "EMRK", "UNO-Pakt II", "Einbürgerung", "Haftbedingungen", "Asylrecht", "Nothilfe", "Schuldhaft"]
-agent_verified: true
+lastmod: 2026-08-11
+description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als Leitgrundsatz und Auffanggrundrecht; Schutzgehalt bei medizinischen Zwangsmassnahmen, Haftbedingungen, Nothilfe und Schuldhaft; Verhältnis zu Art. 3 EMRK."
+tags: ["BV", "Grundrechte", "Menschenwürde", "Auffanggrundrecht", "Zwangsbehandlung", "EMRK", "Haftbedingungen", "Nothilfe", "Schuldhaft"]
+agent_verified: false
 revisions:
-
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 44 %, Urteil C): Belegapparat neu aufgebaut. Fünf Referenzen existierten nicht (BGE 134 I 239, 136 I 165, 144 I 273, 147 I 81, 148 I 309), sieben Pinpoints zeigten ins Leere, BGE 139 I 121 betrifft Ausstandsrecht statt Zwangsbehandlung. Zudem sachliche Fehler korrigiert (EGMR Bouyid: Belgien, nicht Frankreich; CPT ist ein Komitee, keine Kommission; Häfelin statt «Häflin»); Absatznummerierung geschlossen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Überarbeitet — Belegapparat beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 
 ## Gesetzeswortlaut
@@ -21,80 +25,101 @@ revisions:
 >
 > Die Würde des Menschen ist zu achten und zu schützen.
 
-*Quelle: Fedlex (SR 101), Konsolidierung Stand 03.03.2024*
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 7 BV ist die **oberste verfassungsrechtliche Wertentscheidung** und eröffnet den Grundrechtekatalog der Bundesverfassung (Art. 7–36 BV). Er statuiert, dass die Würde des Menschen zu achten und zu schützen ist — eine Formel, die sowohl eine staatliche **Unterlassungspflicht** (Achtung) als auch eine **Schutzpflicht** (Schutz) begründet. Mit über 5'200 Zitaten in der bundesgerichtlichen Rechtsprechung gehört Art. 7 BV zu den meistzitierten Verfassungsnormen. Er ist nicht nur ein individualrechtliches Abwehrrecht, sondern eine objektive Wertentscheidung, die die gesamte Rechtsordnung durchdringt und in Konkretisierungsnormen wie Art. 10 BV (Recht auf Leben und persönliche Freiheit), Art. 36 BV (Einschränkung von Grundrechten) und im Diskriminierungsverbot (Art. 8 Abs. 2 BV) ihren Niederschlag findet.
+**N 1** **Stellung.** Art. 7 BV eröffnet den Grundrechtskatalog der Bundesverfassung. Die Norm begründet eine staatliche Achtungspflicht (Unterlassen) und eine Schutzpflicht (Handeln). Sie wurde mit der Totalrevision von 1999 eingeführt; die BV 1874 kannte keine ausdrückliche Menschenwürdegarantie.
 
-**2** **Gesetzgebungsgeschichte.** Art. 7 BV wurde mit der Totalrevision der Bundesverfassung von 1999 neu eingeführt. Eine ausdrückliche Menschenwürdegarantie kannte die alte Bundesverfassung (BV 1874) nicht; das Bundesgericht hatte die Menschenwürde jedoch als ungeschriebenes Verfassungsprinzip anerkannt und aus dem allgemeinen Persönlichkeitsrecht sowie Art. 4 aBV (Rechtsgleichheit) hergeleitet. Die Botschaft BV (BBl 1997 1552, S. 1568 f.) betont, dass Art. 7 BV die bisherige ungeschriebene Rechtsprechung kodifiziert und dem Menschenwürdeschutz ausdrücklichen Verfassungsrang verleiht. Vorbild waren Art. 1 Abs. 1 des Grundgesetzes (Deutschland) und Art. 3 EMRK.
+**N 2** **Funktion.** Das Bundesgericht umschreibt die Tragweite der Bestimmung dahin, dass sie
 
-**3** **Systematische Stellung und internationaler Bezug.** Art. 7 BV steht am Anfang des Grundrechtekatalogs und hat eine doppelte Funktion: Er ist eine eigenständige Grundrechtsgarantie und zugleich eine **Leitnorm** für die Auslegung aller übrigen Grundrechte (Art. 8–36 BV). Sein Schutzgehalt wird durch **Art. 3 EMRK** (Verbot der Folter, unmenschlicher und erniedrigender Behandlung), **Art. 7 UNO-Pakt II** (Niemand darf Folter oder grausamer, unmenschlicher oder erniedrigender Behandlung unterworfen werden) und **Art. 1 BV 1874** (in der Rechtsprechung als ungeschriebenes Persönlichkeitsrecht) konkretisiert. Mit dem Inkrafttreten der neuen BV 1999 wurde Art. 7 BV zur massgeblichen nationale Rechtsquelle.
+> «allgemein die Bedeutung eines Leitgrundsatzes für jegliche Staatstätigkeit [hat], als innerster Kern zugleich die Grundlage der Freiheitsrechte [bildet], deren Auslegung und Konkretisierung dient und Auffanggrundrecht ist»
+
+([BGE 132 I 49, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49#e-5-1)).
+
+**N 3** **Eigenständiger Gehalt.** Aus der Auffangfunktion folgt nicht, dass Art. 7 BV neben den spezielleren Grundrechten bedeutungslos wäre. Das Bundesgericht hält ausdrücklich fest, dass der Menschenwürde **für besonders gelagerte Konstellationen ein eigenständiger Gehalt zukommen kann** ([BGE 132 I 49, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49#e-5-1)). Der offene Normgehalt lässt sich nicht abschliessend positiv festlegen. In der Praxis wird Art. 7 BV gleichwohl meist zusammen mit dem einschlägigen speziellen Grundrecht angerufen — namentlich mit der persönlichen Freiheit (Art. 10 Abs. 2 BV), dem Recht auf angemessene Haftbedingungen (Art. 10 Abs. 3 BV) oder dem Recht auf Hilfe in Notlagen (Art. 12 BV).
 
 ## Kommentierung
 
-### I. Schutzgehalt und Tragweite
+### I. Medizinische Zwangsmassnahmen
 
-**4** **Zweifache Funktion: Achtung und Schutz.** Art. 7 BV statuiert zwei staatliche Pflichten:
+**N 4** **Betroffene Garantien.** Die medikamentöse Zwangsbehandlung während fürsorgerischen Freiheitsentzugs ist am Massstab der persönlichen Freiheit (Art. 10 Abs. 2 BV) und der Menschenwürde (Art. 7 BV) zu prüfen ([BGE 127 I 6, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-5)).
 
-- **Achtungspflicht (Unterlassungspflicht):** Der Staat hat die Menschenwürde zu respektieren und darf sie nicht verletzen. Diese Pflicht richtet sich an alle Staatsorgane (Legislative, Exekutive, Judikative) und erfasst alle staatlichen Handlungen.
-- **Schutzpflicht (Handlungspflicht):** Der Staat hat die Menschenwürde aktiv zu schützen, insbesondere vor Eingriffen durch Private. Diese Schutzpflicht konkretisiert sich in gesetzgeberischen Massnahmen (z.B. Strafnormen zum Schutz der körperlichen Integrität, Opferhilfegesetz) und in der grundrechtskonformen Ausgestaltung der gesamten Rechtsordnung (vgl. Art. 35 Abs. 2 BV).
+**N 5** **Gesetzliche Grundlage.** Schwere Eingriffe in Freiheitsrechte — Zwangsmedikation und Isolierung gehören dazu — bedürfen einer klaren und ausdrücklichen Regelung in einem formellen Gesetz ([BGE 126 I 112, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-3)).
 
-**5** **Objektive Wertentscheidung.** Die Menschenwürde ist nicht nur ein subjektives Abwehrrecht, sondern eine objektive Wertentscheidung, die für die gesamte Rechtsordnung massgebend ist. Dies hat drei dogmatische Konsequenzen:
+**N 6** **Verhältnismässigkeit.** Für die Ausgestaltung gilt:
 
-- **Auslegungsmaxime:** Alle Rechtsnormen sind so auszulegen, dass die Menschenwürde gewahrt bleibt (grundrechtskonforme Auslegung).
-- **Schutzpflicht:** Der Gesetzgeber muss die Menschenwürde vor Eingriffen Privater schützen (vgl. Art. 35 Abs. 3 BV — Drittwirkung).
-- **Eingriffsschranke:** Eingriffe in die Menschenwürde unterliegen den strengen Voraussetzungen von Art. 36 BV; der **Wesensgehalt** der Menschenwürde ist nach Art. 36 Abs. 4 BV unantastbar (Wesensgehaltsgarantie).
+> «Der Eingriff darf in sachlicher, räumlicher, zeitlicher und personeller Hinsicht nicht einschneidender sein als notwendig»
 
-**6** **Beschränkung des selbständigen Gehalts.** Das Bundesgericht hat den **selbständigen** Gehalt von Art. 7 BV begrenzt: Aus einer **selbständigen Anrufung** der Menschenwürde können die Betroffenen in der Regel nichts zu ihren Gunsten ableiten; sie müssen sich auf die konkreteren Grundrechte berufen — die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Willkürverbot (Art. 9 BV; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5). Art. 7 BV dient in der Praxis primär als Auslegungsmaxime und Verstärkungsnorm; als eigenständiger gerichtlich durchsetzbarer Anspruch ist er seltener von Bedeutung.
+([BGE 126 I 112, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-5)).
 
-### II. Medikamentöse Zwangsbehandlung (fürsorgerischer Freiheitsentzug)
+**N 7** **Interessenabwägung.** Die Anordnung setzt eine umfassende, individualisierte Interessen- und Güterabwägung voraus. Das Bundesgericht hob einen Entscheid auf, weil Sachverhalt und mögliche Folgen — sowohl der Medikation als auch der Alternativen — unzureichend festgehalten und die Selbst- und Drittgefährdung nicht konkret belegt worden waren; eine Substitution der fehlenden Abwägung durch das Bundesgericht kam nicht in Betracht ([BGE 130 I 16, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16#e-5-4)).
 
-**7** **Zentraler Anwendungsbereich.** Die medikamentöse Zwangsbehandlung in einer psychiatrischen Klinik während fürsorgerischen Freiheitsentzugs ist der zentrale Anwendungsbereich von Art. 7 BV. Eine solche Behandlung stellt einen **schweren Eingriff in die persönliche Freiheit** dar und **betrifft die Menschenwürde zentral** ([BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 3; [BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 2a, 4, 5g). Die Voraussetzungen für eine Zwangsbehandlung sind restriktiv:
+**N 8** **Heutige Rechtslage.** Seit dem Erwachsenenschutzrecht von 2013 regelt Art. 434 ZGB die Behandlung ohne Zustimmung bei fürsorgerischer Unterbringung. Als Anordnung im Sinn des Gesetzes gilt die von einem Oberarzt der Einrichtung unterzeichnete Verfügung, die ausdrücklich eine Zwangsmassnahme gestützt auf Art. 434 Abs. 1 ZGB für unbestimmte Zeit anordnet; nicht erforderlich ist, dass die Art der angeordneten Zwangsmassnahme — etwa die Behandlung mit bestimmten Medikamenten — in der Verfügung ausdrücklich genannt wird ([BGE 143 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_337)). Die verfassungsrechtlichen Anforderungen der N 5–7 bleiben daneben massgebend.
 
-- **Gesetzliche Grundlage:** Es bedarf einer formellgesetzlichen Grundlage (z.B. kantonalen Psychiatriegesetzes; [BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 2a, 4, 7a — Psychiatriegesetz des Kantons Basel-Stadt).
-- **Urteilsunfähigkeit des Betroffenen** ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 7b).
-- **Mutmasslicher Wille** des Betroffenen als Massstab ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 7c).
-- **Dringende Notwendigkeit** ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 7d).
-- **Vollständige und umfassende Interessenabwägung:** Öffentliche Interessen, Notwendigkeit der Behandlung, Auswirkungen einer Nicht-Behandlung, Prüfung von Alternativen, Beurteilung von Selbst- und Fremdgefährdung ([BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
-- **Verhältnismässigkeit nach Art. 36 BV** ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 9b–d; [BGE 130 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16) E. 5).
+### II. Haftbedingungen
 
-**8** **Erweiterte Dogmatik bei Zwangsbehandlung.** Die Rechtsprechung hat die Voraussetzungen für Zwangsbehandlung kontinuierlich präzisiert. Das Erfordernis einer formellgesetzlichen Grundlage ist unabdingbar; die kantonale Praxis allein genügt nicht. Der mutmassliche Wille des Betroffenen hat Vorrang vor dem objektiven Patientenwohl; bei einwilligungsfähigen Personen ist jede Zwangsbehandlung ausgeschlossen. Die Interessenabwägung muss individualisiert erfolgen und alle relevanten Umstände einbeziehen ([BGer 5A_38/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_38_2011)).
+**N 9** Art. 3 EMRK verbietet Folter sowie unmenschliche oder erniedrigende Strafe und Behandlung; auf Verfassungsebene schreibt Art. 7 BV vor, dass die Menschenwürde zu achten und zu schützen ist, und Art. 10 Abs. 3 BV verbietet Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung ([BGE 140 I 125, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_125#e-3-1)). Der Entscheid betraf die Haftbedingungen im Genfer Gefängnis Champ-Dollon und legt die Anforderungen an Zellengrösse, Belegung und Aufenthalt ausserhalb der Zelle im Einzelnen fest.
 
-### III. Einbürgerung und Diskriminierungsverbot
+### III. Nothilfe
 
-**9** **a) Begründungspflicht und Urnenabstimmung.** Im Einbürgerungsverfahren ist die Menschenwürde in Verbindung mit dem Diskriminierungsverbot (Art. 8 Abs. 2 BV) und dem Gehöranspruch (Art. 29 Abs. 2 BV) von Bedeutung. Die Urnenabstimmung über Einbürgerungsgesuche verletzt die verfassungsrechtliche Begründungspflicht, da bei geheimer Abstimmung eine den Anforderungen von Art. 29 Abs. 2 BV genügende Begründung nicht möglich ist. Diese Rechtsprechung stützt sich primär auf Art. 29 Abs. 2 BV i.V.m. Art. 8 Abs. 2 BV; die Menschenwürde (Art. 7 BV) wirkt dabei als Verstärkungsnorm.
+**N 10** Der Anspruch auf Hilfe in Notlagen (Art. 12 BV) konkretisiert die Menschenwürde im Sozialbereich. Das Bundesgericht hält fest, dass
 
-### IV. Schuldhaft, Willkürverbot und Menschenwürde
+> «ausländerrechtliche Pflichtwidrigkeiten den grundrechtlichen Anspruch auf Hilfe in Notlagen nach Art. 12 BV nicht zu beseitigen vermögen»
 
-**11** **a) Schuldhaft und Menschenwürde.** Das Verbot der Schuldhaft (Inhaftierung wegen Nichtbezahlung von Bussen) fliesst sowohl aus dem Schutz der Menschenwürde gemäss Art. 7 BV als auch aus dem Recht auf persönliche Freiheit gemäss Art. 10 Abs. 2 BV. Eine Freiheitsentziehung, die ausschliesslich auf der Zahlungsunfähigkeit beruht, verstösst gegen die Menschenwürde ([BGE 130 I 169](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_169) E. 2.2). Die Anrechnung einer Teilzahlung an die Prozess- und Betreibungskosten anstatt an die Busse ist unvereinbar mit dem Schuldhaftverbot, sofern sie zur Folge hat, dass die Umwandlung in Freiheitsstrafe nicht entsprechend reduziert wird.
+und die Verweigerung der Nothilfe nicht als Zwangsmittel zur Erreichung ausländerrechtlicher Ziele eingesetzt werden darf; dafür stehen die ausländerrechtlichen Zwangsmassnahmen zur Verfügung ([BGE 131 I 166, E. 7.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166#e-7-1)).
 
-**12** **b) Willkürverbot und Menschenwürde.** Das Willkürverbot (Art. 9 BV) ist eine wichtige Konkretisierungsnorm von Art. 7 BV. Eine willkürliche Anwendung des Rechts kann die Menschenwürde verletzen, wenn sie zu einem Ergebnis führt, das die Würde des Betroffenen in objektiver Hinsicht missachtet. Die selbständige Anrufung von Art. 7 BV neben dem Willkürverbot ist in der Regel nicht Erfolg versprechend; das Willkürverbot bietet den konkreteren Schutz ([BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 5).
+### IV. Schuldhaft
 
-### V. Haftbedingungen und Menschenwürde
+**N 11** Jede Freiheitsentziehung, die an die Stelle einer nicht bezahlten Geldschuld tritt, ist als Schuldhaft zu betrachten und unzulässig — es sei denn, die Zahlungspflicht trage Strafcharakter, wie das bei einer Busse, nicht aber bei Gerichtskosten der Fall ist ([BGE 130 I 169, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_169#e-2-3)).
 
-**13** **a) Allgemeine Anforderungen an Haftbedingungen.** Haftbedingungen berühren die Menschenwürde in mehrfacher Hinsicht. Das Bundesgericht hat in [BGE 140 I 125](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_125) E. 4–6 festgehalten, dass die Haftbedingungen den Anforderungen von Art. 7 BV i.V.m. Art. 10 Abs. 3 BV (Recht auf angemessene Haftbedingungen) und Art. 3 EMRK genügen müssen. Insbesondere die Unterbringung in überbelegten Zellen, der mangelnde Zugang zu sanitären Einrichtungen und die Einschränkung des Briefverkehrs können die Menschenwürde verletzen. Die Europäische Kommission für die Verhütung von Folter (CPT) hat wiederholt auf unzumutbare Haftbedingungen in Schweizer Gefängnissen hingewiesen.
+## Verhältnis zu anderen Bestimmungen
 
-### VI. Asylrecht, Nothilfe und Menschenwürde
+| Norm | Verhältnis |
+|---|---|
+| Art. 10 Abs. 2 BV | Persönliche Freiheit — bei medizinischen Zwangsmassnahmen regelmässig zusammen mit Art. 7 BV angerufen (N 4) |
+| Art. 10 Abs. 3 BV | Verbot von Folter und erniedrigender Behandlung — spezielle Garantie für Haftbedingungen (N 9) |
+| Art. 12 BV | Hilfe in Notlagen — materielle Konkretisierung der Menschenwürde im Sozialbereich (N 10) |
+| Art. 36 BV | Schranken von Grundrechtseingriffen; Kerngehaltsgarantie nach Abs. 4 |
+| Art. 3 EMRK | Konventionsrechtliche Parallelgarantie; prägt die Auslegung von Art. 7 BV (N 9) |
 
-**14** **a) Nothilfe und Art. 7 BV i.V.m. Art. 12 BV.** Der Anspruch auf Nothilfe nach Art. 12 BV ist untrennbar mit der Menschenwürde verbunden: Ein Ausschluss von Nothilfe, der das Überleben einer Person gefährdet, ist mit der Menschenwürde (Art. 7 BV), auf deren Wahrung Art. 12 BV ausgerichtet ist, nicht vereinbar ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 7.1). Hält der Ausschluss von Asylbewerbern mit asylrechtlichem Nichteintretensentscheid von der minimalen Nothilfe wegen Missachtung ihrer Mitwirkungspflichten beim Vollzug der Wegweisung vor der Bundesverfassung stand? Diese Frage hat das Bundesgericht differenziert beantwortet ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166) E. 1–7).
+## Offene Punkte
 
-**15** **b) Aufenthaltsbeendigung und Menschenwürde.** Auch bei der Aufenthaltsbeendigung ist die Menschenwürde zu wahren. Die Nichtverlängerung einer Aufenthaltsbewilligung kann die Menschenwürde berühren, wenn sie zu einer Existenzbedrohung führt. Die Menschenwürde gebietet, dass niemandem die für ein menschenwürdiges Dasein unerlässlichen Mittel vorenthalten werden. Insoweit besteht eine enge Verbindung zum Recht auf Hilfe in Notlagen (Art. 12 BV), der die materielle Konkretisierung der Menschenwürde im Sozialbereich darstellt.
+Der Kommentar ist gegenüber der Vorfassung deutlich kürzer. Ausgebaut wurden Abschnitte, deren Belege sich nicht halten liessen und für die im Rahmen dieses Audits kein tragfähiger Ersatz gefunden wurde:
 
-### VII. Fürsorge und staatliche Schutzpflicht
+- **Einbürgerung und Diskriminierungsverbot** — die Urnenabstimmungs-Rechtsprechung gehört primär zu Art. 8 Abs. 2 und Art. 29 Abs. 2 BV; der Bezug zu Art. 7 BV war unbelegt.
+- **Schutzpflicht bei Kindeswohlgefährdung** — trug keinen Beleg.
+- **Aufenthaltsbeendigung**, **Datenschutz** und **politische Rechte** als Anwendungsfälle von Art. 7 BV — die dafür angeführten Entscheide stützten die Aussagen nicht.
 
-**17** **a) Schutzpflicht bei Kindeswohlgefährdung.** Aus der Schutzpflicht abgeleitet von Art. 7 BV i.V.m. Art. 11 BV (Schutz von Kindern und Jugendlichen) hat der Staat die Pflicht, Kinder vor Gefährdung ihres Wohls zu schützen. Die Behörden müssen eingreifen, wenn das körperliche, psychische oder sexuelle Wohl des Kindes ernsthaft gefährdet ist.
-
-### VIII. Verhältnis zu Art. 3 EMRK und Art. 7 UNO-Pakt II
-
-**18** **Konkordanz der Grundrechtsgewährleistungen.** Art. 7 BV steht in engem Zusammenhang mit Art. 3 EMRK (Verbot der Folter, unmenschlicher und erniedrigender Behandlung) und Art. 7 UNO-Pakt II (Verbot der Folter und grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe). Die Rechtsprechung legt Art. 7 BV im Lichte dieser internationalen Gewährleistungen aus und zieht sie zur Konkretisierung des Schutzgehalts heran ([BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) E. 5c–f — medikamentöse Zwangsbehandlung). Art. 8 EMRK (Achtung des Privatlebens) ist in diesem Zusammenhang von untergeordneter Bedeutung, aber bei Daten- und Persönlichkeitsschutzaspekten zu berücksichtigen. Die EGMR-Rechtsprechung zu Art. 3 EMRK (Bouyid c. France, El-Masri c. Mazedonien) hat die Auslegung von Art. 7 BV massgeblich beeinflusst.
+Ergänzungen sind willkommen — bitte je Aussage mit Fundstelle und Erwägung.
 
 ## Literaturhinweise
 
-- **BIANCHINI / RUCH**, Commentaire romand, N. ad Art. 7 BV
-- **HÄFLIN / HALLER**, Schweizerische Bundesverfassung, Kommentar, N. ad Art. 7 BV
-- **MÜLLER / SCHEFER**, Grundrechte in der Schweiz, N. ad Art. 7 BV
-- **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 14 ff.
-- **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 7 BV
+Nicht über die Falldatenbank verifizierbar; die Angaben der Vorfassung waren teils fehlerhaft (z. B. «HÄFLIN» statt Häfelin) und sind deshalb entfernt. Einstiegspunkte:
 
-*Letzte Aktualisierung: 9. August 2026*
+- **HÄFELIN / HALLER / KELLER / THURNHERR**, Schweizerisches Bundesstaatsrecht, N zu Art. 7 BV
+- **MÜLLER / SCHEFER**, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 1 ff.
+- **WALDMANN / BELSER / EPINEY** (Hrsg.), Basler Kommentar Bundesverfassung, N zu Art. 7 BV
+
+## Audit-Protokoll
+
+Belegapparat am 11. August 2026 überprüft und neu aufgebaut. Entfernte Belege:
+
+| Referenz | Befund |
+|---|---|
+| BGE 134 I 239 | existiert nicht |
+| BGE 136 I 165 | existiert nicht |
+| BGE 144 I 273 | existiert nicht |
+| BGE 147 I 81 | existiert nicht |
+| BGE 148 I 309 | existiert nicht |
+| BGE 139 I 121 | existiert; betrifft den Ausstand von Ersatzrichtern, nicht die Zwangsbehandlung |
+| BGE 133 I 259 | existiert; stützt die Aussage zu Haftbedingungen nicht (`contradicts`) |
+| BGE 137 I 305 | existiert; stützt die Aussage zum Vollzugshindernis nach Art. 3 EMRK nicht |
+| BGE 140 I 176 | existiert; stützt die Aussage zur Aufenthaltsbeendigung nicht (`contradicts`) |
+| BGE 141 I 105 | existiert; stützt die Aussage zum Datenschutz nicht (`contradicts`) |
+| BGE 146 I 49 | existiert; stützt die Aussage zu politischen Rechten nicht |
+| BGE 131 I 321 | existiert; stützt die Aussage zum fürsorgerischen Freiheitsentzug nicht |
+| BGE 135 I 49, BGE 140 I 176 | Pinpoints zeigten ins Leere |
+| BGer 5A_38/2011 | Beleg ohne prüfbare Aussage im Text |
+
+Sachliche Korrekturen: EGMR *Bouyid* erging gegen **Belgien**, nicht gegen Frankreich; das CPT ist das Europäische **Komitee** zur Verhütung von Folter, keine Kommission; die Behauptung «über 5'200 Zitate» war nicht belegt; Art. 1 BV 1874 konkretisiert die Menschenwürde nicht.

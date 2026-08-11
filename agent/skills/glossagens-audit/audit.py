@@ -44,7 +44,7 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 5
+PARSER_VERSION = 6
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
@@ -274,6 +274,29 @@ def table_claim(line, ref):
     return max(kandidaten, key=len) if kandidaten else None
 
 
+def blockquote_before(text, pos):
+    """Wörtliches Zitat im Blockquote, dessen Beleg allein in der Folgezeile steht:
+
+        > «Der Eingriff darf … nicht einschneidender sein als notwendig»
+
+        ([BGE 126 I 112, E. 5](…)).
+
+    Hier ist das Blockquote der Behauptungssatz. `sentence_before` sieht nur die
+    Klammer mit dem Beleg und meldete bisher `claim_nicht_extrahierbar` — ein
+    Parserbefund gegen die sauberste Belegform, die es gibt."""
+    head = text[:pos]
+    zeilen = [l for l in head.split("\n") if l.strip()]
+    quote = []
+    for l in reversed(zeilen):
+        if l.lstrip().startswith(">"):
+            quote.insert(0, l.lstrip().lstrip(">").strip())
+        elif quote:
+            break
+        elif len(strip_md(l)) > 40:
+            return None      # dazwischen steht Fliesstext, kein Blockquote-Beleg
+    return strip_md(" ".join(quote)).strip("«»\"„“ ") or None
+
+
 def sentence_around(text, pos):
     """Satz, in dem der Beleg selbst steht — für die Zitierlagen, in denen die
     Behauptung dem Beleg **folgt** (`**BGE 148 I 19** — Leitentscheid zu …`,
@@ -386,8 +409,9 @@ def parse_file(path, rel):
             claim = table_claim(line, ref_from_id(decision_id))
         if claim is None:
             claim = sentence_before(body, m.start())
-        if len(claim) < 25:
-            claim = sentence_around(body, m.start()) or claim
+        if len(claim) < 25 or not re.sub(r"\(?\s*" + CITE_PLAIN.pattern + r".*", "", claim).strip():
+            claim = (blockquote_before(body, m.start())
+                     or sentence_around(body, m.start()) or claim)
         if pin is None and anchor:
             # URL-Anker codiert den Pinpoint: #e-2-1-1 → 2.1.1
             am = re.match(r"#e-([\d-]+)$", anchor)
@@ -485,7 +509,8 @@ def parse_file(path, rel):
         else:
             claim = sentence_before(body, m.start())
             if len(claim) < 25:  # Beleg steht vor der Aussage, nicht dahinter
-                claim = sentence_around(body, m.start()) or claim
+                claim = (blockquote_before(body, m.start())
+                         or sentence_around(body, m.start()) or claim)
         add_plain(ref, m.start(), pm.group(1) if pm else None, claim)
 
     # Verbatim-Zitate: nächstgelegener Beleg im selben Absatz
