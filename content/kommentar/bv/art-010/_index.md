@@ -1,16 +1,27 @@
 ---
-title: "Art. 10 BV — Recht auf Leben und persönliche Freiheit"
+title: "Art. 10 BV — Recht auf Leben und auf persönliche Freiheit"
 weight: 10
-date: 2026-05-23
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 10 BV: Recht auf Leben, persönliche Freiheit (körperliche/geistige Unversehrtheit, Bewegungsfreiheit), Folterverbot."
-tags: ["BV", "Grundrechte", "Recht auf Leben", "persönliche Freiheit", "Folterverbot", "Gewaltschutz", "Fürsorglicher Freiheitsentzug"]
-agent_verified: true
+date: 2026-05-24
+lastmod: 2026-08-11
+description: "Kommentar zu Art. 10 BV — Recht auf Leben, persönliche Freiheit einschliesslich körperlicher und geistiger Unversehrtheit und Bewegungsfreiheit, Verbot von Folter und erniedrigender Behandlung"
+tags: ["BV", "Grundrechte", "Recht auf Leben", "Persönliche Freiheit", "Folterverbot", "Zwangsbehandlung"]
+agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 30 %, Urteil C): Belegapparat neu aufgebaut. Vier Referenzen existierten nicht (BGE 131 I 140, 143 I 169, 143 I 305, 145 IV 79); BGE 135 I 143 betrifft eine ausländerrechtliche Aufenthaltsbewilligung und trug keine der ihm zugeschriebenen Aussagen."
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 überwiegend verworfen"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 10 Recht auf Leben und auf persönliche Freiheit**
+> **Art. 10 BV — Recht auf Leben und auf persönliche Freiheit**
 >
 > ¹ Jeder Mensch hat das Recht auf Leben. Die Todesstrafe ist verboten.
 >
@@ -18,61 +29,80 @@ agent_verified: true
 >
 > ³ Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung sind verboten.
 
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 10 BV verbürgt drei elementare Grundrechte: das Recht auf Leben (Abs. 1), das Recht auf persönliche Freiheit (Abs. 2) und das Folterverbot (Abs. 3). Diese Garantien bilden die «Grundgarantie zum Schutze der Persönlichkeit» (BGE 127 I 6 E. 5a). Mit 38'737 Gesamtzitaten gehört Art. 10 zu den zentralen Grundrechten der Bundesverfassung. Die Norm konkretisiert völkerrechtliche Garantien (EMRK Art. 2, 3, 5; Pakt II Art. 6, 7, 9) auf verfassungsrechtlicher Ebene.
+Art. 10 BV fasst drei Garantien zusammen, die vor 1999 teils ungeschrieben waren: das Recht auf Leben mit dem Verbot der Todesstrafe (Abs. 1), die persönliche Freiheit (Abs. 2) und das Verbot von Folter und erniedrigender Behandlung (Abs. 3). Abs. 2 ist die praktisch wichtigste Bestimmung; er hat das frühere ungeschriebene Grundrecht der persönlichen Freiheit abgelöst.
 
-**2** **Gesetzgebungsgeschichte.** Art. 10 BV kodifiziert bisher ungeschriebenes Verfassungsrecht und völkerrechtliche Verpflichtungen (EMRK Art. 2, 3, 5; Pakt II Art. 6, 7, 9). Das Todesstrafenverbot wurde erstmals expressis verbis in der Verfassung verankert, ebenso das Folterverbot. Die Frage des Beginns des verfassungsrechtlichen Lebensschutzes wurde bewusst offengelassen (BBl 1997 I 1, S. 141). Die persönliche Freiheit (Abs. 2) geht auf die Tradition der «Freiheitsrechte» des 19. Jahrhunderts zurück (Art. 31 aBV).
+## I. Recht auf Leben (Abs. 1)
 
-**3** **Systematische Stellung.** Art. 10 BV steht im 2. Kapitel des 1. Titels (Grundrechte), Abschnitt «Freiheitsrechte». Er ist eng verbunden mit Art. 31 BV (Freiheitsentzug), Art. 64/64a BV (Fürsorglicher Freiheitsentzug), Art. 13 BV (Schutz der Privatsphäre) sowie Art. 5 und 6 EMRK (Freiheit und faires Verfahren). Abs. 3 (Folterverbot) korrespondiert mit Art. 3 EMRK.
+**N 1** Abs. 1 gewährleistet das Recht auf Leben und verbietet die Todesstrafe absolut. Das Verbot gilt auch im Kriegsfall und ist notstandsfest.
 
-## Kommentierung
+**N 2** **Keine negative Freiheit.** Das Recht auf Leben begründet keinen Anspruch auf Sterbehilfe. Zur parallelen Konventionsgarantie hält das Bundesgericht fest:
 
-### I. Recht auf Leben (Abs. 1)
+> «Aus Art. 2 EMRK ergibt sich kein Anspruch darauf, unter Mithilfe eines Dritten oder des Staates sterben zu dürfen; das Recht auf Leben enthält keine entsprechende negative Freiheit.»
 
-**4** **Schutzbereich.** Das Recht auf Leben schützt die physische Existenz des Menschen. Der verfassungsrechtliche Lebensschutz beginnt spätestens mit der Geburt; die Frage des Beginns des Lebensschutzes vor der Geburt (nasciturus) wurde in der Verfassung bewusst offengelassen (BBl 1997 I 1, S. 141). Das Bundesgericht hat mehrfach betont, dass der Lebensschutz der Verfassung einen weiten Schutzbereich hat, der sowohl den Schutz vor staatlichen Eingriffen als auch die staatliche Schutzpflicht umfasst (BGE 135 I 143 E. 3.2).
+([BGE 133 I 58, E. 6.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_58#e-6-2-2), unter Verweis auf das Urteil des EGMR *Pretty gegen Vereinigtes Königreich* vom 29. April 2002). Die Selbstbestimmung am Lebensende wird demgegenüber von Art. 10 Abs. 2 BV und Art. 8 EMRK erfasst.
 
-**5** **Todesstrafenverbot.** Abs. 1 Satz 2 enthält ein ausnahmsloses Todesstrafenverbot. Das Verbot gilt auch in Kriegszeiten und kann nicht eingeschränkt werden. Die Schweiz hat die Todesstrafe im ordentlichen Strafrecht 1942 (Art. 65 aStGB) und im militärischen Strafrecht 1992 abgeschafft (BBl 1991 III 1). Das Todesstrafenverbot korrespondiert mit Art. 6 Pakt II und dem 6. Zusatzprotokoll zur EMRK.
+## II. Persönliche Freiheit (Abs. 2)
 
-**6** **Staatliche Schutzpflicht.** Das Recht auf Leben begründet eine staatliche Schutzpflicht. Der Staat muss das Leben seiner Bürger vor rechtswidrigen Eingriffen durch Dritte schützen (Gewaltschutzpflicht). Diese Schutzpflicht ist nicht absolut, sondern wird nach dem Verhältnismässigkeitsprinzip konkretisiert (BGE 135 I 143 E. 3.3). Im Bereich der polizeilichen Gefahrenabwehr ergibt sich die Pflicht, wirksam gegen tödliche Gefahren für Leib und Leben vorzugehen (BGE 131 I 140 E. 3.3).
+### A. Schutzbereich
 
-### II. Persönliche Freiheit (Abs. 2)
+**N 3** Das Bundesgericht umschreibt den Gehalt der Bestimmung wie folgt:
 
-**7** **Drei Teilgewährleistungen.** Abs. 2 nennt drei Ausprägungen der persönlichen Freiheit: körperliche Unversehrtheit, geistige Unversehrtheit und Bewegungsfreiheit. Der Schutzbereich ist nicht abschliessend; weitere Aspekte der persönlichen Freiheit (z.B. sexuelle Selbstbestimmung, Entfaltung der Persönlichkeit) werden durch Art. 13 BV ergänzt. Das Bundesgericht versteht die persönliche Freiheit als «übergreifendes Freiheitsrecht», das im Gegensatz zu den spezielleren Freiheitsrechten (Meinungsäusserungsfreiheit, Religionsfreiheit etc.) eine Auffangfunktion hat (BGE 127 I 6 E. 5a).
+> «Die Bestimmung von Art. 10 Abs. 2 BV räumt jedem Menschen das Recht auf persönliche Freiheit, insbesondere auf körperliche und geistige Unversehrtheit und Bewegungsfreiheit ein.»
 
-**8** **Körperliche Unversehrtheit.** Eingriffe in die körperliche Unversehrtheit sind namentlich bei medizinischen Zwangsmassnahmen relevant: Zwangsbehandlung, Zwangsernährung, Zwangsmedikation. Das Bundesgericht hat strenge Voraussetzungen aufgestellt: (a) eine schwere gesundheitliche Gefährdung, (b) ärztliche Indikation, (c) Unfähigkeit der betroffenen Person zur Einsichts- und Urteilsfähigkeit, und (d) Verhältnismässigkeit (BGE 127 I 6 E. 5a). Im Massnahmenvollzug (Art. 64 StGB) sind Zwangsbehandlungen nur bei erheblicher Eigen- oder Fremdgefährdung zulässig (BGE 145 IV 79 E. 4).
+([BGE 127 I 6, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-5))
 
-**9** **Geistige Unversehrtheit.** Die geistige Unversehrtheit schützt vor staatlichen Eingriffen in die Psyche und die Willensbildung. Relevante Fallgruppen sind: (a) manipulative Befragungsmethoden (Hypnose, Lügendetektor), (b) Zwangsmedikation mit psychotropen Mitteln, und (c) die Drohung mit unnötigen medizinischen Eingriffen. Das Bundesgericht hat die geistige Unversehrtheit insbesondere im Zusammenhang mit Art. 3 EMRK (Folterverbot) konkretisiert (BGE 127 I 6 E. 5b).
+**N 4** Die Formulierung von Art. 10 Abs. 2 BV unterscheidet sich von der früheren Umschreibung des ungeschriebenen Grundrechts und bedarf näherer Präzisierung. Nach der Rechtsprechung garantierte die persönliche Freiheit alle Freiheiten, die elementare Erscheinungen der Persönlichkeitsentfaltung darstellen — ein Mindestmass an persönlicher Entfaltungsmöglichkeit ([BGE 127 I 6, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-5)).
 
-**10** **Bewegungsfreiheit.** Die Bewegungsfreiheit umfasst das Recht, sich frei zu bewegen und seinen Aufenthalt zu wählen. Einschränkungen sind namentlich bei Freiheitsentzug (Art. 31 BV), Gewaltschutzmassnahmen (Wegweisung, Kontaktverbot nach dem Gewaltschutzgesetz) und bei der Einreise- und Aufenthaltsregelung (Ausländerrecht) relevant. Das Bundesgericht hat in BGE 134 I 140 E. 3 klargestellt, dass Wegweisung und Kontaktverbot als Eingriff in die Bewegungsfreiheit grundsätzlich zulässig sind, sofern sie verhältnismässig sind.
+### B. Grenzen des Schutzbereichs
 
-**11** **Gewaltschutz.** Die staatliche Schutzpflicht aus Art. 10 Abs. 2 BV umfasst den Schutz vor häuslicher Gewalt. Die kantonalen Gewaltschutzgesetze (GSG) konkretisieren diese Schutzpflicht durch Wegweisung, Kontaktverbot und Rayonverbot (BGE 134 I 140 E. 3–4). Das Bundesgericht hat in BGE 137 II 305 E. 3 klargestellt, dass Vollzugshindernisse bei der Wegweisung die persönliche Freiheit der betroffenen Person berücksichtigen müssen.
+**N 5** Die persönliche Freiheit ist **keine allgemeine Handlungsfreiheit**. Das Bundesgericht
 
-### III. Folterverbot (Abs. 3)
+> «hat indessen auch auf die Grenzen des ungeschriebenen Grundrechts hingewiesen und darin keine allgemeine Handlungsfreiheit erblickt, auf die sich der Einzelne gegenüber jedem staatlichen Akt, der sich auf seine persönliche Lebensgestaltung auswirkt, berufen könne; die persönliche Freiheit schütze nicht vor jeglichem physischen oder psychischen Missbehagen»
 
-**12** **Absolutes Verbot.** Das Folterverbot ist ein absolutes, ausnahmsloses Recht. Es umfasst nicht nur Folter im technischen Sinne (vorsätzliche Zufügung schwerer körperlicher oder geistiger Schmerzen), sondern auch jede grausame, unmenschliche oder erniedrigende Behandlung oder Bestrafung. Die Abgrenzung zwischen Folter und unmenschlicher Behandlung folgt der EMRK-Rechtsprechung (Art. 3 EMRK): massgebend ist die Intensität der Schmerzen und die Zweckrichtung (EGMR, *Ireland c. Royaume-Uni*, Nr. 5310/71, § 167).
+([BGE 127 I 6, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-5)). Diese Abgrenzung ist der praktisch wichtigste Satz zu Abs. 2: Nicht jede staatliche Massnahme, die als unangenehm empfunden wird, berührt den Schutzbereich.
 
-**13** **Unterlassungspflicht und Schutzpflicht.** Das Folterverbot hat zwei Dimensionen: (a) eine Unterlassungspflicht des Staates (keine Folter, keine grausame Behandlung), und (b) eine Schutzpflicht (Schutz vor Folter und grausamer Behandlung durch Dritte). Die Schutzpflicht ist besonders relevant bei Abschiebungshaft: eine Abschiebung in ein Land, in dem die betroffene Person Folter oder grausamer Behandlung ausgesetzt wäre, verstösst gegen Art. 10 Abs. 3 BV i.V.m. Art. 3 EMRK (EGMR, *Chahal c. Royaume-Uni*, Nr. 22414/93, §§ 96–97).
+### C. Anwendungsfälle
 
-**14** **Haftbedingungen.** Auch Haftbedingungen können grausame oder erniedrigende Behandlung im Sinne von Art. 10 Abs. 3 BV darstellen. Überbelegung, ungenügende sanitäre Einrichtungen, fehlender Aufenthalt im Freien und mangelnde medizinische Versorgung können die Schwelle zur unmenschlichen Behandlung erreichen (EGMR, *Mursic c. Croatie*, Nr. 7334/16, §§ 96–100). Das Bundesgericht wendet diese Grundsätze auf Schweizer Haftanstalten an (BGE 143 I 305 E. 5.1).
+**N 6** **Körperliche Integrität und Datenerhebung.** Die Erstellung eines DNA-Profils im Strafverfahren berührt Art. 10 Abs. 2 BV; streitig war, ob es sich um eine erkennungsdienstliche Massnahme oder um eine körperliche Untersuchung handelt ([BGE 128 II 259, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_II_259#e-3-4-1)).
 
-### IV. Fürsorglicher Freiheitsentzug
+**N 7** **Medizinische Zwangsmassnahmen.** Zwangsmedikation und Isolierung sind schwere Eingriffe in Freiheitsrechte und bedürfen einer klaren und ausdrücklichen Regelung in einem formellen Gesetz ([BGE 126 I 112, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-3)). Für die Ausgestaltung gilt: Der Eingriff darf in sachlicher, räumlicher, zeitlicher und personeller Hinsicht nicht einschneidender sein als notwendig ([BGE 126 I 112, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_112#e-5)). Ausführlich dazu Art. 7 BV N 4–8.
 
-**15** **Art. 10 i.V.m. Art. 64/64a BV.** Der fürsorgliche Freiheitsentzug ist der praktisch wichtigste Eingriff in die persönliche Freiheit. Die Voraussetzungen für eine zwangsweise Unterbringung in einer psychiatrischen Einrichtung sind restriktiv: (a) eine schwere psychische Störung, (b) eine konkrete Gefahr für die betroffene Person oder Dritte, (c) ärztliche Begutachtung vor der Einweisung, und (d) Verhältnismässigkeit (BGE 127 I 6 E. 6; BGE 143 I 305 E. 5.1). Die Einweisung bedarf einer richterlichen Genehmigung (Art. 428a ZGB).
+**N 8** **Staatliche Sorgepflicht.** Die persönliche Freiheit erschöpft sich nicht in der Abwehr. Das Bundesgericht hält fest, dass dem Gemeinwesen das Schicksal von kranken Personen nicht gleichgültig sein kann und die persönliche Freiheit für eine minimale Sorgepflicht herangezogen werden kann ([BGE 127 I 6, E. 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6#e-8)).
 
-**16** **Verfahrensgarantien.** Der fürsorgliche Freiheitsentzug unterliegt strengen Verfahrensgarantien: (a) ärztliche Begutachtung vor der Einweisung, (b) richterliche Genehmigung innert kurzer Frist (Art. 428a ZGB), (c) regelmässige Überprüfung der Voraussetzungen, und (d) Recht auf rechtliches Gehör und unentgeltliche Rechtsverbeiständung (Art. 98 ZPO; BGE 128 I 225 E. 3). Diese Garantien korrespondieren mit Art. 5 Abs. 1 lit. e und Abs. 4 EMRK.
+## III. Verbot von Folter und erniedrigender Behandlung (Abs. 3)
 
-### V. Abgrenzungen
+**N 9** Abs. 3 verbietet Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung. Die Garantie ist absolut und nicht einschränkbar; Art. 36 BV ist auf sie nicht anwendbar.
 
-**17** **Art. 10 vs. Art. 31 BV.** Art. 10 Abs. 2 verbürgt die persönliche Freiheit als Grundrecht, Art. 31 BV konkretisiert die Voraussetzungen für den Freiheitsentzug (Haftgründe, Verfahren). Die beiden Normen stehen in einem Spezialitätsverhältnis: Art. 31 BV ist die lex specialis zu Art. 10 Abs. 2 BV (BGE 143 I 169 E. 2.1).
+**N 10** Sie steht in engem Verbund mit Art. 3 EMRK und Art. 7 BV. Für die Haftbedingungen fasst das Bundesgericht die drei Ebenen zusammen: Art. 3 EMRK verbietet Folter sowie unmenschliche oder erniedrigende Strafe und Behandlung; Art. 7 BV schreibt vor, dass die Menschenwürde zu achten und zu schützen ist; Art. 10 Abs. 3 BV verbietet grausame, unmenschliche oder erniedrigende Behandlung ([BGE 140 I 125, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_125#e-3-1)).
 
-**18** **Art. 10 vs. Art. 5 EMRK.** Art. 10 Abs. 2 BV (persönliche Freiheit) und Art. 5 EMRK (Freiheit und Sicherheit) haben einen ähnlichen Schutzbereich. Art. 5 EMRK konkretisiert Art. 10 BV auf konventionsrechtlicher Ebene und enthält eine abschliessende Enumeration der Haftgründe (lit. a–f), die das Bundesgericht bei der Auslegung von Art. 31 BV berücksichtigt (BGE 143 I 169 E. 2.1).
+## IV. Fürsorgerische Unterbringung
 
-**19** **Art. 10 vs. Art. 13 BV.** Art. 13 BV (Schutz der Privatsphäre) ergänzt Art. 10 BV im Bereich der informationellen Selbstbestimmung und der sexuellen Selbstbestimmung. Während Art. 10 die körperliche und geistige Unversehrtheit schützt, betrifft Art. 13 die Privatsphäre im weiteren Sinne (BGE 135 I 143 E. 3.1).
+**N 11** Die fürsorgerische Unterbringung greift in die Bewegungsfreiheit nach Abs. 2 ein. Die Anordnung einer Behandlung ohne Zustimmung richtet sich heute nach Art. 434 ZGB; als Anordnung gilt die von einem Oberarzt unterzeichnete Verfügung, die ausdrücklich eine Zwangsmassnahme gestützt auf Art. 434 Abs. 1 ZGB für unbestimmte Zeit anordnet ([BGE 143 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_337)).
 
-## Querverweise
+**N 12** Verfassungsrechtlich bleibt die umfassende, individualisierte Interessenabwägung Voraussetzung. Werden Sachverhalt und mögliche Folgen — der Medikation wie der Alternativen — unzureichend festgehalten und die Selbst- und Drittgefährdung nicht konkret belegt, ist die Abwägung nicht vorgenommen worden ([BGE 130 I 16, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16#e-5-4)).
 
-- [Art. 8 BV](../art-008/) — Rechtsgleichheit
-- [Art. 13 BV](../art-013/) — Schutz der Privatsphäre
-- [Art. 31 BV](../art-031/) — Freiheitsentzug
-- [Art. 5 EMRK](../../emrk/art-005/) — Recht auf Freiheit und Sicherheit
+## Verhältnis zu anderen Bestimmungen
+
+| Norm | Verhältnis |
+|---|---|
+| Art. 7 BV | Menschenwürde — bei medizinischen Zwangsmassnahmen regelmässig zusammen mit Art. 10 Abs. 2 BV angerufen (N 7) |
+| Art. 13 BV | Privatsphäre und informationelle Selbstbestimmung — bei Datenerhebungen neben Art. 10 Abs. 2 BV einschlägig (N 6) |
+| Art. 31 BV | Freiheitsentzug: besondere Verfahrensgarantien gegenüber der allgemeinen Bewegungsfreiheit von Abs. 2 |
+| Art. 36 BV | Schranken — auf Abs. 3 nicht anwendbar, da absolute Garantie (N 9) |
+| Art. 2 und 3 EMRK | Konventionsrechtliche Parallelgarantien zu Abs. 1 und Abs. 3 |
+
+## Offene Punkte
+
+Nicht übernommen wurden Abschnitte der Vorfassung, deren Belege die Aussagen nicht trugen und für die in diesem Durchgang kein geprüfter Ersatz gefunden wurde:
+
+- **Staatliche Schutzpflicht bei Lebensgefährdung** und ihre Verhältnismässigkeitsschranke.
+- **Kantonale Gewaltschutzgesetze** als Konkretisierung der Schutzpflicht.
+- **Wiederholungsgefahr als Haftgrund** — gehört systematisch zu Art. 31 BV.
+
+Welche Belege im Einzelnen weggefallen sind, steht im Audit-Protokoll am Ende der Rechtsprechungsseite.
+
+Ergänzungen sind willkommen — bitte je Aussage mit Fundstelle und Erwägung.
