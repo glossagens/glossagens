@@ -1,6 +1,10 @@
 ---
 title: SR 272 — ZPO — Zivilprozessordnung
-weight: 50
+ebene: bund
+sr: "272"
+kuerzel: "ZPO"
+gesetz_name: "Zivilprozessordnung"
+weight: 15
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zur Zivilprozessordnung (ZPO, SR 272, vom 19. Dezember 2008).

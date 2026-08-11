@@ -1,5 +1,9 @@
 ---
 title: SR 142.31 — AsylG — Asylgesetz
+ebene: bund
+sr: "142.31"
+kuerzel: "AsylG"
+gesetz_name: "Asylgesetz"
 weight: 5
 date: '2026-08-10'
 lastmod: '2026-08-10'

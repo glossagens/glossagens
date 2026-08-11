@@ -1,23 +1,154 @@
-{{- $gesetze := .Sections -}}
-{{- if $gesetze -}}
-<div class="hextra-cards hx:mt-6 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 2;">
-  {{- range $gesetze.ByWeight -}}
-    {{- $articleCount := len (where .Sections "Kind" "section") -}}
-    {{- $subtitle := .Description -}}
-    {{- if not $subtitle -}}
-      {{- $subtitle = printf "%d kommentierte Artikel" $articleCount -}}
-    {{- else -}}
-      {{- $subtitle = printf "%s · %d kommentierte Artikel" $subtitle $articleCount -}}
+{{- /*
+  Übersicht der kommentierten Gesetze.
+
+  Gruppiert nach den amtlichen Sachgruppen der Systematischen Rechtssammlung
+  (SR); innerhalb einer Gruppe aufsteigend nach SR-Nummer. Gruppe und
+  Sortierschlüssel werden aus dem Frontmatter-Feld `sr` abgeleitet — es gibt
+  keine handgepflegte Liste. Kantonale Erlasse (`ebene: kantonal`) stehen in
+  einer eigenen Gruppe am Schluss.
+
+  Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
+  Theme heraus kompiliert, hier verwendete Varianten fehlen im Bundle.
+*/ -}}
+
+{{- $sachgruppen := slice
+  (dict "nr" "0" "name" "Internationales Recht")
+  (dict "nr" "1" "name" "Staat – Volk – Behörden")
+  (dict "nr" "2" "name" "Privatrecht – Zivilrechtspflege – Vollstreckung")
+  (dict "nr" "3" "name" "Strafrecht – Strafrechtspflege – Strafvollzug")
+  (dict "nr" "4" "name" "Schule – Wissenschaft – Kultur")
+  (dict "nr" "5" "name" "Landesverteidigung")
+  (dict "nr" "6" "name" "Finanzen")
+  (dict "nr" "7" "name" "Öffentliche Werke – Energie – Verkehr")
+  (dict "nr" "8" "name" "Gesundheit – Arbeit – Soziale Sicherheit")
+  (dict "nr" "9" "name" "Wirtschaft – Technische Zusammenarbeit")
+-}}
+
+{{- /* Zeilen aufbauen: Gruppe + normalisierter Sortierschlüssel je Gesetz. */ -}}
+{{- $rows := slice -}}
+{{- $total := 0 -}}
+{{- range .Sections -}}
+  {{- $count := len (where .Sections "Kind" "section") -}}
+  {{- $total = add $total $count -}}
+  {{- $nr := string (or .Params.sr .Params.srl) -}}
+
+  {{- /* "142.20" → "000142000020"; jedes Segment linksseitig auf 6 Stellen
+         genullt, damit numerisch statt lexikografisch sortiert wird. */ -}}
+  {{- $sort := "" -}}
+  {{- range (split $nr ".") -}}
+    {{- $sort = printf "%s%s" $sort (substr (printf "000000%s" .) -6) -}}
+  {{- end -}}
+
+  {{- $gruppe := "kantonal" -}}
+  {{- if ne .Params.ebene "kantonal" -}}
+    {{- $gruppe = substr $nr 0 1 -}}
+  {{- end -}}
+
+  {{- $rows = $rows | append (dict
+    "page" . "gruppe" $gruppe "sort" $sort "nr" $nr "count" $count
+  ) -}}
+{{- end -}}
+
+{{- if not $rows -}}
+  <p><em>Noch keine Gesetze kommentiert.</em></p>
+{{- else -}}
+
+<style>
+.gl-erlasse { margin-top: 1.5rem; }
+.gl-summe { font-size: .875rem; color: #6b7280; margin: 0; }
+.gl-gruppe {
+  display: flex; align-items: baseline; gap: .625rem;
+  margin: 2.25rem 0 .25rem; padding-bottom: .4rem;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: .8125rem; font-weight: 600;
+  letter-spacing: .06em; text-transform: uppercase; color: #6b7280;
+}
+.gl-gruppe-nr {
+  flex: none; width: 1.35rem; height: 1.35rem;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: .3rem; background: #f3f4f6; color: #4b5563;
+  font-size: .75rem; letter-spacing: 0;
+}
+.gl-liste { list-style: none; margin: 0; padding: 0; }
+.gl-liste li + li { border-top: 1px solid #f3f4f6; }
+.gl-zeile {
+  display: flex; align-items: baseline; gap: .75rem;
+  padding: .5rem .5rem; margin: 0 -.5rem;
+  border-radius: .375rem; text-decoration: none; color: inherit;
+  transition: background-color .12s ease;
+}
+.gl-zeile:hover { background: #f9fafb; text-decoration: none; }
+.gl-kuerzel {
+  flex: none; min-width: 5.25rem;
+  font-weight: 600; color: #111827;
+}
+.gl-zeile:hover .gl-kuerzel { color: var(--primary-600, #2563eb); }
+.gl-kanton {
+  font-weight: 400; font-size: .75rem; color: #9ca3af; margin-right: .3rem;
+}
+.gl-name {
+  flex: 1 1 auto; min-width: 0;
+  color: #374151; font-size: .9375rem;
+}
+.gl-anzahl {
+  flex: none; font-variant-numeric: tabular-nums;
+  font-size: .8125rem; color: #9ca3af;
+}
+@media (max-width: 640px) {
+  .gl-zeile { flex-wrap: wrap; row-gap: .1rem; }
+  .gl-name { flex-basis: 100%; order: 3; font-size: .875rem; }
+  .gl-anzahl { margin-left: auto; }
+}
+.dark .gl-summe, .dark .gl-gruppe { color: #9ca3af; }
+.dark .gl-gruppe { border-bottom-color: #262626; }
+.dark .gl-gruppe-nr { background: #1f1f1f; color: #d1d5db; }
+.dark .gl-liste li + li { border-top-color: #1a1a1a; }
+.dark .gl-zeile:hover { background: #171717; }
+.dark .gl-kuerzel { color: #f3f4f6; }
+.dark .gl-zeile:hover .gl-kuerzel { color: var(--primary-400, #60a5fa); }
+.dark .gl-name { color: #d1d5db; }
+.dark .gl-anzahl { color: #6b7280; }
+</style>
+
+<div class="gl-erlasse not-prose">
+  <p class="gl-summe">{{ len $rows }} Gesetze · {{ $total }} kommentierte Artikel</p>
+
+  {{- /* Gruppen in SR-Reihenfolge, kantonales Recht zuletzt. */ -}}
+  {{- $gruppen := $sachgruppen | append (dict "nr" "" "name" "Kantonales Recht") -}}
+  {{- $gezeigt := 0 -}}
+
+  {{- range $gruppen -}}
+    {{- $key := cond (eq .nr "") "kantonal" .nr -}}
+    {{- $treffer := where $rows "gruppe" $key -}}
+    {{- if $treffer -}}
+      {{- $gezeigt = add $gezeigt (len $treffer) -}}
+      <h2 class="gl-gruppe">
+        {{- with .nr }}<span class="gl-gruppe-nr">{{ . }}</span>{{ end -}}
+        <span>{{ .name }}</span>
+      </h2>
+      <ul class="gl-liste">
+        {{- range sort $treffer "sort" -}}
+          {{- $p := .page -}}
+          <li>
+            <a class="gl-zeile" href="{{ $p.RelPermalink }}"
+               title="{{ if eq $p.Params.ebene "kantonal" }}SRL{{ else }}SR{{ end }} {{ .nr }} — {{ .count }} kommentierte Artikel">
+              <span class="gl-kuerzel">
+                {{- with $p.Params.kanton }}<span class="gl-kanton">{{ . }}</span>{{ end -}}
+                {{ $p.Params.kuerzel | default $p.Title }}
+              </span>
+              <span class="gl-name">{{ $p.Params.gesetz_name }}</span>
+              <span class="gl-anzahl">{{ .count }}</span>
+            </a>
+          </li>
+        {{- end -}}
+      </ul>
     {{- end -}}
-    {{ partial "shortcodes/card" (dict
-      "page"     $
-      "link"     .RelPermalink
-      "title"    .Title
-      "subtitle" $subtitle
-      "icon"     "book-open"
-    ) }}
   {{- end -}}
 </div>
-{{- else -}}
-<p><em>Noch keine Gesetze kommentiert.</em></p>
+
+{{- /* Erlasse ohne verwertbare SR-Angabe würden sonst lautlos verschwinden. */ -}}
+{{- if lt $gezeigt (len $rows) -}}
+  {{- errorf "kommentar/gesetze-grid: %d Gesetz(e) ohne gültiges Frontmatter-Feld `sr`/`srl` — nicht in der Übersicht." (sub (len $rows) $gezeigt) -}}
+{{- end -}}
+
 {{- end -}}

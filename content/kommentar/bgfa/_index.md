@@ -1,6 +1,10 @@
 ---
 title: SR 935.61 — BGFA — Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte
-weight: 20
+ebene: bund
+sr: "935.61"
+kuerzel: "BGFA"
+gesetz_name: "Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte"
+weight: 33
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (BGFA, SR 935.61, vom 23. Juni 2000).

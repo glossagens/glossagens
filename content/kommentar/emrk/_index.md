@@ -1,6 +1,10 @@
 ---
 title: SR 0.101 — EMRK — Konvention zum Schutze der Menschenrechte und Grundfreiheiten
-weight: 4
+ebene: bund
+sr: "0.101"
+kuerzel: "EMRK"
+gesetz_name: "Konvention zum Schutze der Menschenrechte und Grundfreiheiten"
+weight: 1
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten (EMRK, SR 0.101, vom 4. November 1950).

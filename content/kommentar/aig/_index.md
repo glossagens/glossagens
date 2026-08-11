@@ -1,6 +1,10 @@
 ---
 title: SR 142.20 — AIG — Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration
-weight: 1
+ebene: bund
+sr: "142.20"
+kuerzel: "AIG"
+gesetz_name: "Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration"
+weight: 4
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG, SR 142.20, vom 16. Dezember 2005).

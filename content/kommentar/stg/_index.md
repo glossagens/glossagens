@@ -1,6 +1,10 @@
 ---
 title: SR 641.1 — StG — Bundesgesetz über die Stempelabgaben
-weight: 10
+ebene: bund
+sr: "641.1"
+kuerzel: "StG"
+gesetz_name: "Bundesgesetz über die Stempelabgaben"
+weight: 20
 date: '2026-07-03'
 lastmod: '2026-07-03'
 description: Kommentierte Artikel zum Bundesgesetz über die Stempelabgaben (StG, SR 641.1, vom 27. Juni 1973).

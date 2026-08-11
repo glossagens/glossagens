@@ -1,6 +1,10 @@
 ---
 title: SR 700 — RPG — Raumplanungsgesetz
-weight: 9
+ebene: bund
+sr: "700"
+kuerzel: "RPG"
+gesetz_name: "Raumplanungsgesetz"
+weight: 22
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zum Raumplanungsgesetz (RPG, SR 700, vom 22. Juni 1979).

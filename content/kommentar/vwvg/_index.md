@@ -1,6 +1,10 @@
 ---
 title: SR 172.021 — VwVG — Verwaltungsverfahrensgesetz
-weight: 1
+ebene: bund
+sr: "172.021"
+kuerzel: "VwVG"
+gesetz_name: "Verwaltungsverfahrensgesetz"
+weight: 7
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zum Verwaltungsverfahrensgesetz (VwVG, SR 172.021, vom 20. Dezember 1968).

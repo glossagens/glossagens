@@ -1,6 +1,10 @@
 ---
 title: SR 822.11 — ArG — Arbeitsgesetz
-weight: 6
+ebene: bund
+sr: "822.11"
+kuerzel: "ArG"
+gesetz_name: "Arbeitsgesetz"
+weight: 25
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zum Arbeitsgesetz (ArG, SR 822.11, vom 13. März 1964).

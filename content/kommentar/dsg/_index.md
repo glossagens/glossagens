@@ -1,6 +1,10 @@
 ---
 title: SR 235.1 — DSG — Datenschutzgesetz
-weight: 10
+ebene: bund
+sr: "235.1"
+kuerzel: "DSG"
+gesetz_name: "Datenschutzgesetz"
+weight: 14
 date: '2026-08-07'
 lastmod: '2026-08-07'
 description: Kommentierte Artikel zum Datenschutzgesetz (DSG, SR 235.1, vom 25. September 2020).

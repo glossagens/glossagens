@@ -1,6 +1,10 @@
 ---
 title: SR 832.20 — UVG — Bundesgesetz über die Unfallversicherung
-weight: 10
+ebene: bund
+sr: "832.20"
+kuerzel: "UVG"
+gesetz_name: "Bundesgesetz über die Unfallversicherung"
+weight: 31
 date: '2026-07-03'
 lastmod: '2026-07-27'
 description: Kommentierte Artikel zum Bundesgesetz über die Unfallversicherung (UVG, SR 832.20, vom 20. März 1981).

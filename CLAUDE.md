@@ -82,6 +82,37 @@ static/
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
 4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / `mcp_verified`) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
 
+### Frontmatter-Schema — Gesetzesübersicht (`content/kommentar/{gesetz}/_index.md`)
+
+Die Übersicht unter `/kommentar/` wird **vollständig aus diesen Feldern generiert** (`layouts/_partials/kommentar/gesetze-grid.html`) — sie gruppiert nach SR-Sachgruppe und sortiert nach SR-Nummer. Es gibt keine handgepflegte Liste; ein neues Gesetz erscheint automatisch.
+
+```yaml
+---
+title: "SR 311.0 — StGB — Schweizerisches Strafgesetzbuch"
+ebene: bund              # "bund" oder "kantonal"
+sr: "311.0"              # Bundesrecht: SR-Nummer ohne Präfix — Pflicht
+kuerzel: "StGB"          # Pflicht — steht als Ankertext in der Übersicht
+gesetz_name: "Schweizerisches Strafgesetzbuch"   # Pflicht — ohne SR und Kürzel
+weight: 17               # Rang in SR-Sortierung; steuert die Sidebar-Reihenfolge
+...
+---
+```
+
+Kantonale Erlasse statt `sr`:
+
+```yaml
+ebene: kantonal
+kanton: "LU"
+srl: "40"                # Nummer der kantonalen Sammlung, nicht SR
+```
+
+Regeln:
+- `sr` bzw. `srl` ist **zwingend**. Fehlt es, bricht der Hugo-Build mit `errorf` ab — das Gesetz würde sonst lautlos aus der Übersicht verschwinden.
+- Die Sachgruppe wird aus der ersten Ziffer der SR-Nummer abgeleitet (`0.101` → Gruppe 0, `311.0` → Gruppe 3). Nichts von Hand zuordnen.
+- `weight` beim Anlegen eines neuen Gesetzes so setzen, dass die Sidebar der SR-Reihenfolge folgt (Weights der Nachbargesetze prüfen).
+- Der Body enthält nur den Einleitungssatz mit Fedlex-Link. Die Artikelliste rendert `articles-flat.html` bzw. `stpo-articles.html` automatisch — **keine** Artikeltabelle von Hand pflegen.
+  *Altlast:* 30 der bestehenden Gesetzesseiten führen im Body noch eine handgepflegte Artikelliste, die zusätzlich zur generierten gerendert wird. Sie ist bereits abgedriftet (BV: 19 statt 26 Einträge, ZGB: 34 statt 37, StPO: 145 statt 146) und gehört entfernt — siehe „Offene nächste Schritte".
+
 ### Frontmatter-Schema — Kommentarartikel (`_index.md`)
 
 ```yaml
@@ -164,4 +195,5 @@ Bei Bestehen beider Stufen: automatischer Merge + Deploy.
 ## Offene nächste Schritte
 
 - [ ] Weitere Gesetze/Artikel befüllen
+- [ ] Handgepflegte Artikellisten aus den Bodies der 30 Gesetzesseiten entfernen (werden von `articles-flat.html` bereits generiert; die Handlisten sind abgedriftet)
 - [x] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen

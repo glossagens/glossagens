@@ -1,6 +1,10 @@
 ---
 title: SR 101 — BV — Bundesverfassung der Schweizerischen Eidgenossenschaft
-weight: 6
+ebene: bund
+sr: "101"
+kuerzel: "BV"
+gesetz_name: "Bundesverfassung der Schweizerischen Eidgenossenschaft"
+weight: 3
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zur Bundesverfassung der Schweizerischen Eidgenossenschaft (BV, SR 101, vom 18. April 1999).

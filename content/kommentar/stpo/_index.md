@@ -1,6 +1,10 @@
 ---
 title: SR 312.0 — StPO — Schweizerische Strafprozessordnung
-weight: 2
+ebene: bund
+sr: "312.0"
+kuerzel: "StPO"
+gesetz_name: "Schweizerische Strafprozessordnung"
+weight: 18
 date: '2026-08-10'
 lastmod: '2026-08-10'
 description: Kommentierte Artikel zur Schweizerischen Strafprozessordnung (StPO, SR 312.0, vom 5. Oktober 2007).

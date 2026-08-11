@@ -1,6 +1,10 @@
 ---
 title: SR 831.10 — AHVG — Bundesgesetz über die Alters- und Hinterlassenenversicherung
-weight: 11
+ebene: bund
+sr: "831.10"
+kuerzel: "AHVG"
+gesetz_name: "Bundesgesetz über die Alters- und Hinterlassenenversicherung"
+weight: 27
 date: '2026-07-03'
 lastmod: '2026-07-03'
 description: Kommentierte Artikel zum Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG, SR 831.10, vom 20. Dezember 1946).
