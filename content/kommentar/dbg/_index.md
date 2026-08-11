@@ -22,14 +22,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer](https://www.fedlex.admin.ch/eli/cc/1991/1244_1244_1244/de) (DBG, SR 642.11). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-### Steuerobjekt und steuerbare Einkünfte (Art. 16–24)
-
-- [Art. 20 — Grundsatz (steuerbare Erträge)](art-020/)
-
-### Sicherstellung und Verfahren (Art. 165–183)
-
-- [Art. 169 — Sicherstellung](art-169/)
-- [Art. 183 — Verfahren bei Steuerhinterziehung](art-183/)

@@ -1,0 +1,68 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Geltungsbereich und Grundsätze"
+    von: 1
+    bis: 11
+  - name: "Strafbehörden"
+    von: 12
+    bis: 21
+  - name: "Sachliche und örtliche Zuständigkeit"
+    von: 22
+    bis: 42
+  - name: "Ausstand"
+    von: 56
+    bis: 60
+  - name: "Allgemeine Verfahrensregeln"
+    von: 61
+    bis: 103
+  - name: "Parteien und andere Verfahrensbeteiligte"
+    von: 104
+    bis: 138
+  - name: "Beweismittel"
+    von: 139
+    bis: 195
+  - name: "Zwangsmassnahmen"
+    von: 196
+    bis: 298
+  - name: "Vorverfahren"
+    von: 299
+    bis: 327
+  - name: "Erstinstanzliches Hauptverfahren"
+    von: 328
+    bis: 351
+  - name: "Besondere Verfahren"
+    von: 352
+    bis: 378
+  # Kapitel des 8. Titels; Grenzen bei Art. 363 und 372 via Fedlex geprüft.
+  - name: "Strafbefehlsverfahren"
+    von: 352
+    bis: 357
+    ebene: 2
+  - name: "Abgekürztes Verfahren"
+    von: 358
+    bis: 362
+    ebene: 2
+  - name: "Selbstständige nachträgliche Entscheide"
+    von: 363
+    bis: 365
+    ebene: 2
+  - name: "Abwesenheitsverfahren"
+    von: 366
+    bis: 371
+    ebene: 2
+  - name: "Selbstständige Massnahmenverfahren"
+    von: 372
+    bis: 378
+    ebene: 2
+  - name: "Rechtsmittel"
+    von: 379
+    bis: 415
+  - name: "Kosten und Entschädigung"
+    von: 416
+    bis: 436
+  - name: "Schlussbestimmungen"
+    von: 448
+    bis: 457

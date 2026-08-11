@@ -24,12 +24,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 13. Dezember 2002 über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen](https://www.fedlex.admin.ch/eli/cc/2003/123_123_123/de) (BehiG, SR 151.3). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-| Artikel | Titel | Datum |
-|---------|-------|-------|
-| [Art. 2](/kommentar/behi/art-002) | Begriffe | 01.08.2026 |
-| [Art. 12](/kommentar/behi/art-012) | Besondere Fälle (Schwellenwerte) | 22.07.2026 |
-
-*Letzte Aktualisierung: 2026-08-01*

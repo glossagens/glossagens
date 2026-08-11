@@ -23,9 +23,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung](https://www.fedlex.admin.ch/eli/cc/1982/2197_2197_2197/de) (AVIG, SR 837.0). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-- [Art. 17 — Anspruchsvoraussetzungen (Arbeitslosenentschädigung)](art-017/_index.md): Rahmenfrist; Beitragszeit; Vermittlungsfähigkeit.
-- [Art. 30 — Einstellung in der Anspruchsberechtigung](art-030/_index.md): Sanktionsnorm der Arbeitslosenversicherung — Verschulden an Arbeitslosigkeit, ungenügende Arbeitsbemühungen, Meldepflichtverletzung, unrechtmässiger Leistungsbezug; Bemessung nach Verschuldensgrad (max. 60 Tage); IAO-Übereinkommen Nr. 168.
-- [Art. 51 — Anspruchsvoraussetzungen (Insolvenzentschädigung)](art-051/_index.md): Konkurs, offensichtliche Überschuldung, Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer.

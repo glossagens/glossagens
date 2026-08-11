@@ -17,12 +17,7 @@
 
           {{/* ============ /kommentar/{gesetz}/ — Artikel-Übersicht ============ */}}
           {{ else if eq $depth 2 }}
-            {{ $section := path.Base .Path }}
-            {{ if eq $section "stpo" }}
-              {{ partial "kommentar/stpo-articles.html" . }}
-            {{ else }}
-              {{ partial "kommentar/articles-flat.html" . }}
-            {{ end }}
+            {{ partial "kommentar/articles.html" . }}
 
           {{/* ============ /kommentar/{gesetz}/art-X/ — Artikelseite ============ */}}
           {{ else }}

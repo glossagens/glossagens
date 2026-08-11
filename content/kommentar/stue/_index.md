@@ -22,7 +22,3 @@ revisions:
 ---
 
 Kommentar zum [Übereinkommen vom 28. September 1954 über die Rechtsstellung der Staatenlosen](https://www.fedlex.admin.ch/eli/cc/1972/1820_1820_1820/de) (StÜ, SR 0.142.40). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-_Noch keine kommentierten Artikel._

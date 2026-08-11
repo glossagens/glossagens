@@ -1,0 +1,62 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Allgemeine Bestimmungen — Keine Sanktion ohne Gesetz"
+    von: 1
+    bis: 2
+  - name: "Allgemeine Bestimmungen — Geltungsbereich"
+    von: 3
+    bis: 8
+  - name: "Allgemeine Bestimmungen — Strafbarkeit"
+    von: 9
+    bis: 33
+  - name: "Allgemeine Bestimmungen — Strafen und Massnahmen"
+    von: 34
+    bis: 73
+  - name: "Allgemeine Bestimmungen — Vollzug von Freiheitsstrafen und Massnahmen"
+    von: 74
+    bis: 92
+  - name: "Allgemeine Bestimmungen — Übertretungen"
+    von: 103
+    bis: 109
+  - name: "Besondere Bestimmungen — Strafbare Handlungen gegen Leib und Leben"
+    von: 111
+    bis: 136
+  - name: "Besondere Bestimmungen — Strafbare Handlungen gegen das Vermögen"
+    von: 137
+    bis: 172
+  - name: "Besondere Bestimmungen — Gegen die Ehre und den Geheim- oder Privatbereich"
+    von: 173
+    bis: 179
+  - name: "Besondere Bestimmungen — Verbrechen und Vergehen gegen die Freiheit"
+    von: 180
+    bis: 186
+  - name: "Besondere Bestimmungen — Gegen die sexuelle Integrität"
+    von: 187
+    bis: 200
+  - name: "Besondere Bestimmungen — Verbrechen und Vergehen gegen die Familie"
+    von: 213
+    bis: 220
+  - name: "Besondere Bestimmungen — Gemeingefährliche Verbrechen und Vergehen"
+    von: 221
+    bis: 230
+  - name: "Besondere Bestimmungen — Gegen den öffentlichen Verkehr"
+    von: 237
+    bis: 239
+  - name: "Besondere Bestimmungen — Geldfälschung"
+    von: 240
+    bis: 244
+  - name: "Besondere Bestimmungen — Urkundenfälschung"
+    von: 251
+    bis: 257
+  - name: "Besondere Bestimmungen — Gegen den öffentlichen Frieden"
+    von: 258
+    bis: 263
+  - name: "Besondere Bestimmungen — Gegen die öffentliche Gewalt"
+    von: 285
+    bis: 295
+  - name: "Besondere Bestimmungen — Gegen die Rechtspflege"
+    von: 303
+    bis: 311

@@ -1,0 +1,11 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Zweck und Anwendungsbereich"
+    von: 1
+    bis: 6
+  - name: "Ausnahmen von der Bewilligungspflicht"
+    von: 7
+    bis: 8

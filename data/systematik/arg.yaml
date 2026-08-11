@@ -1,0 +1,14 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Geltungsbereich"
+    von: 1
+    bis: 4
+  - name: "Arbeits- und Ruhezeit"
+    von: 9
+    bis: 28
+  - name: "Durchführung des Gesetzes"
+    von: 41
+    bis: 51

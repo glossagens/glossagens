@@ -1,7 +1,29 @@
+{{- /* Reihenfolge wie in kommentar/articles.html: über den Verzeichnisnamen,
+       nicht über `weight` — die Weights kollidieren (art-305/art-305bis),
+       fehlen teils und sind stellenweise falsch (StGB Art. 47 trägt 1). */ -}}
 {{- $parent := .Parent -}}
 {{- $siblings := slice -}}
 {{- if $parent -}}
-  {{- $siblings = (where $parent.Sections "Kind" "section").ByWeight -}}
+  {{- $sortierbar := slice -}}
+  {{- range where $parent.Sections "Kind" "section" -}}
+    {{- $rest := strings.TrimPrefix "art-" (path.Base .Path) -}}
+    {{- $ziffern := "" -}}
+    {{- $suffix := "" -}}
+    {{- range (seq (len $rest)) -}}
+      {{- $c := substr $rest (sub . 1) 1 -}}
+      {{- if and (eq $suffix "") (ge $c "0") (le $c "9") -}}
+        {{- $ziffern = printf "%s%s" $ziffern $c -}}
+      {{- else -}}
+        {{- $suffix = printf "%s%s" $suffix $c -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $sortierbar = $sortierbar | append (dict
+      "page" .
+      "sort" (printf "%s%s" (substr (printf "000000%s" $ziffern) -6) $suffix)) -}}
+  {{- end -}}
+  {{- range sort $sortierbar "sort" -}}
+    {{- $siblings = $siblings | append .page -}}
+  {{- end -}}
 {{- end -}}
 {{- $idx := -1 -}}
 {{- range $i, $p := $siblings -}}

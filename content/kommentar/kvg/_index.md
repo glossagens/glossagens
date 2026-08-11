@@ -25,11 +25,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 18. März 1994 über die Krankenversicherung](https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/de) (KVG, SR 832.10). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-### Leistungen (Art. 25–34)
-
-- [Art. 25 — Allgemeine Leistungen bei Krankheit](art-025/)
-- [Art. 25a — Pflegeleistungen bei Krankheit](art-025a/)
-- [Art. 32 — Voraussetzungen (WIR/WZW-Kriterien)](art-032/)

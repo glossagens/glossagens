@@ -1,0 +1,29 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Allgemeine Bestimmungen — Entstehung der Obligationen"
+    von: 1
+    bis: 67
+  - name: "Allgemeine Bestimmungen — Wirkung und Erlöschen der Obligationen"
+    von: 68
+    bis: 142
+  - name: "Einzelne Vertragsverhältnisse — Miete"
+    von: 253
+    bis: 274
+  - name: "Einzelne Vertragsverhältnisse — Arbeitsvertrag"
+    von: 319
+    bis: 362
+  - name: "Einzelne Vertragsverhältnisse — Werkvertrag"
+    von: 363
+    bis: 379
+  - name: "Die Gesellschaft mit beschränkter Haftung"
+    von: 772
+    bis: 815
+  - name: "Buchführung und Rechnungslegung"
+    von: 957
+    bis: 962
+  - name: "Einzelne Vertragsverhältnisse — Auftrag"
+    von: 394
+    bis: 406

@@ -1,0 +1,26 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Allgemeine Verfahrensbestimmungen"
+    von: 39
+    bis: 71
+  - name: "Beschwerde in Zivilsachen"
+    von: 72
+    bis: 77
+  - name: "Beschwerde in Strafsachen"
+    von: 78
+    bis: 81
+  - name: "Beschwerde in öffentlich-rechtlichen Angelegenheiten"
+    von: 82
+    bis: 89
+  - name: "Anfechtbare Entscheide"
+    von: 90
+    bis: 94
+  - name: "Beschwerdegründe und Novenrecht"
+    von: 95
+    bis: 99
+  - name: "Vereinfachtes Verfahren"
+    von: 108
+    bis: 109

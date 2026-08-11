@@ -1,0 +1,17 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Baubewilligung"
+    von: 22
+    bis: 22
+  - name: "Ausnahmen für Bauten ausserhalb der Bauzonen"
+    von: 24
+    bis: 24
+  - name: "Zuständigkeit und Verfahren"
+    von: 25
+    bis: 25
+  - name: "Planungszonen"
+    von: 27
+    bis: 27

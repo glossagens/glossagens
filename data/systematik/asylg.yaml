@@ -1,0 +1,14 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Allgemeine Bestimmungen und Flüchtlingsbegriff"
+    von: 1
+    bis: 9
+  - name: "Grundsätze des Asylverfahrens"
+    von: 12
+    bis: 23
+  - name: "Vorbereitung und erstinstanzliches Verfahren"
+    von: 24
+    bis: 41

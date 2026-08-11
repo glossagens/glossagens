@@ -1,0 +1,20 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Zweck und Geltungsbereich"
+    von: 1
+    bis: 2
+  - name: "Begriffe"
+    von: 3
+    bis: 13
+  - name: "Die Leistungen"
+    von: 14
+    bis: 26
+  - name: "Allgemeine Verfahrensbestimmungen"
+    von: 27
+    bis: 55
+  - name: "Die Verantwortlichkeit"
+    von: 56
+    bis: 80

@@ -23,15 +23,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland](https://www.fedlex.admin.ch/eli/cc/1984_1775_1775_1776/de) (BewG, SR 211.412.41). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-### Zweck und Anwendungsbereich (Art. 1–6)
-
-- [Art. 1 — Zweck](art-001/)
-- [Art. 2 — Bewilligungspflicht](art-002/)
-- [Art. 3 — Bundesrecht und kantonales Recht](art-003/)
-
-### Ausnahmen von der Bewilligungspflicht (Art. 7–8)
-
-- [Art. 7 — Übrige Ausnahmen von der Bewilligungspflicht](art-007/)

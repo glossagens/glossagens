@@ -1,0 +1,13 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-016a -> 16).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe.
+gruppen:
+  - name: "Entzug und Wiedererteilung der Ausweise"
+    von: 16
+    bis: 17
+  - name: "Verkehrsregeln"
+    von: 26
+    bis: 57
+  - name: "Strafbestimmungen"
+    von: 90
+    bis: 103

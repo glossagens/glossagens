@@ -1,0 +1,176 @@
+{{- /*
+  Artikelübersicht einer Gesetzesseite.
+
+  Gliederung aus `data/systematik/{gesetz}.yaml`; fehlt die Datei, wird flach
+  gerendert. Ein Artikel landet in der ENGSTEN passenden Gruppe, damit sich
+  Untergruppen (z. B. StPO: Strafbefehlsverfahren innerhalb der besonderen
+  Verfahren) nicht mit ihrer Oberkategorie doppeln. Artikel, die in keine
+  Gruppe fallen, erscheinen unter „Weitere Artikel" — die Liste ist damit
+  immer vollständig, auch wenn die Systematik hinterherhinkt.
+
+  Artikelnummer und Sortierung kommen aus dem Verzeichnisnamen (art-305bis),
+  nicht aus `weight`: die Weights kollidieren (art-305 und art-305bis tragen
+  beide 305), fehlen teils ganz und sind stellenweise falsch gesetzt. Der
+  Slug ist dreistellig genullt, seine lexikografische Ordnung entspricht der
+  Reihenfolge auf Fedlex (24, 24a, 24b, 24bis, 24c, … 24quater, 24ter).
+*/ -}}
+
+{{- $gesetz := path.Base .Path -}}
+{{- $kuerzel := .Params.kuerzel -}}
+{{- $systematik := index hugo.Data.systematik $gesetz -}}
+{{- $gruppen := slice -}}
+{{- with $systematik -}}{{- with .gruppen -}}{{- $gruppen = . -}}{{- end -}}{{- end -}}
+
+{{- /* Artikel einlesen: Nummer, Sortierschlüssel, engste passende Gruppe. */ -}}
+{{- $rows := slice -}}
+{{- range where .Sections "Kind" "section" -}}
+  {{- $slug := path.Base .Path -}}
+  {{- $rest := strings.TrimPrefix "art-" $slug -}}
+  {{- $ziffern := "" -}}
+  {{- $suffix := "" -}}
+  {{- range (seq (len $rest)) -}}
+    {{- $c := substr $rest (sub . 1) 1 -}}
+    {{- if and (eq $suffix "") (ge $c "0") (le $c "9") -}}
+      {{- $ziffern = printf "%s%s" $ziffern $c -}}
+    {{- else -}}
+      {{- $suffix = printf "%s%s" $suffix $c -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Führende Nullen abschneiden: int "009" wirft einen Cast-Fehler. */ -}}
+  {{- $nr := int (strings.TrimLeft "0" $ziffern | default "0") -}}
+
+  {{- /* Engste Gruppe: kleinste Spannweite, die die Nummer enthält. */ -}}
+  {{- $g := -1 -}}
+  {{- $spanne := -1 -}}
+  {{- range $i, $gr := $gruppen -}}
+    {{- if and (ge $nr (int $gr.von)) (le $nr (int $gr.bis)) -}}
+      {{- $s := sub (int $gr.bis) (int $gr.von) -}}
+      {{- if or (lt $spanne 0) (lt $s $spanne) -}}
+        {{- $g = $i -}}{{- $spanne = $s -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $rows = $rows | append (dict
+    "page" . "g" $g
+    "sort" (printf "%s%s" (substr (printf "000000%s" $ziffern) -6) $suffix)
+  ) -}}
+{{- end -}}
+
+{{- if not $rows -}}
+  <p><em>Noch keine Artikel kommentiert.</em></p>
+{{- else -}}
+
+<style>
+.gl-artikel { margin-top: 1.5rem; }
+.gl-artikel .gl-summe { font-size: .875rem; color: #6b7280; margin: 0; }
+.gl-agruppe {
+  margin: 2rem 0 .25rem; padding-bottom: .4rem;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: .8125rem; font-weight: 600;
+  letter-spacing: .06em; text-transform: uppercase; color: #6b7280;
+}
+.gl-agruppe.gl-unter {
+  margin-top: 1.1rem; margin-left: 1.25rem;
+  border-bottom-style: dashed; text-transform: none;
+  letter-spacing: .02em; font-size: .8125rem;
+}
+.gl-aliste { list-style: none; margin: 0; padding: 0; }
+.gl-aliste.gl-unter { margin-left: 1.25rem; }
+.gl-aliste li + li { border-top: 1px solid #f3f4f6; }
+.gl-azeile {
+  display: flex; align-items: baseline; gap: .75rem;
+  padding: .45rem .5rem; margin: 0 -.5rem;
+  border-radius: .375rem; text-decoration: none; color: inherit;
+  transition: background-color .12s ease;
+}
+.gl-azeile:hover { background: #f9fafb; text-decoration: none; }
+.gl-anr {
+  flex: none; min-width: 6rem;
+  font-weight: 600; font-variant-numeric: tabular-nums; color: #111827;
+}
+.gl-azeile:hover .gl-anr { color: var(--primary-600, #2563eb); }
+.gl-atitel { flex: 1 1 auto; min-width: 0; color: #374151; font-size: .9375rem; }
+@media (max-width: 640px) {
+  .gl-azeile { flex-wrap: wrap; row-gap: .1rem; }
+  .gl-atitel { flex-basis: 100%; font-size: .875rem; }
+  .gl-agruppe.gl-unter, .gl-aliste.gl-unter { margin-left: .5rem; }
+}
+.dark .gl-artikel .gl-summe, .dark .gl-agruppe { color: #9ca3af; }
+.dark .gl-agruppe { border-bottom-color: #262626; }
+.dark .gl-aliste li + li { border-top-color: #1a1a1a; }
+.dark .gl-azeile:hover { background: #171717; }
+.dark .gl-anr { color: #f3f4f6; }
+.dark .gl-azeile:hover .gl-anr { color: var(--primary-400, #60a5fa); }
+.dark .gl-atitel { color: #d1d5db; }
+</style>
+
+<div class="gl-artikel not-prose">
+  <p class="gl-summe">
+    {{ len $rows }} kommentierte Artikel{{ if $gruppen }} · gegliedert nach der Systematik des Gesetzes{{ end }}
+  </p>
+
+  {{- /* Gruppen in YAML-Reihenfolge, danach die Artikel ohne Zuordnung. */ -}}
+  {{- $bloecke := slice -}}
+  {{- range $i, $gr := $gruppen -}}
+    {{- $bloecke = $bloecke | append (dict "i" $i "name" $gr.name "unter" (gt (int (default 1 $gr.ebene)) 1)) -}}
+  {{- end -}}
+  {{- /* Ohne Systematik-Datei bleibt die Liste flach und überschriftenlos. */ -}}
+  {{- $bloecke = $bloecke | append (dict "i" -1 "name" (cond (gt (len $gruppen) 0) "Weitere Artikel" "") "unter" false) -}}
+
+  {{- range $i, $b := $bloecke -}}
+    {{- $treffer := where $rows "g" $b.i -}}
+
+    {{- /* Eine Oberkategorie kann leer sein und trotzdem gebraucht werden,
+           wenn ihre Untergruppen Artikel tragen (StPO: Besondere Verfahren).
+           Kinder sind die folgenden ebene-2-Blöcke bis zur nächsten Ebene 1. */ -}}
+    {{- $kinder := false -}}
+    {{- if not $b.unter -}}
+      {{- $ende := false -}}
+      {{- range $j, $b2 := $bloecke -}}
+        {{- if and (gt $j $i) (not $ende) -}}
+          {{- if $b2.unter -}}
+            {{- if where $rows "g" $b2.i -}}{{- $kinder = true -}}{{- end -}}
+          {{- else -}}
+            {{- $ende = true -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $unter := cond $b.unter " gl-unter" "" -}}
+    {{- if or $treffer $kinder -}}
+      {{- with $b.name }}<h3 class="gl-agruppe{{ $unter }}">{{ . }}</h3>{{ end -}}
+    {{- end -}}
+    {{- if $treffer -}}
+      <ul class="gl-aliste{{ $unter }}">
+        {{- range sort $treffer "sort" -}}
+          {{- $p := .page -}}
+          {{- /* "Art. 12 — Kurztitel" → Nummer fett, Kurztitel daneben. */ -}}
+          {{- $nr := $p.Title -}}
+          {{- $titel := "" -}}
+          {{- range (slice " — " " – " " - ") -}}
+            {{- if and (eq $titel "") (in $nr .) -}}
+              {{- $teile := split $p.Title . -}}
+              {{- $nr = index $teile 0 -}}
+              {{- $titel = index $teile 1 -}}
+            {{- end -}}
+          {{- end -}}
+          {{- /* "Art. 1 StPO" → "Art. 1": das Kürzel ist auf der Gesetzesseite
+                 redundant und in den Titeln ohnehin uneinheitlich gesetzt. */ -}}
+          {{- with $kuerzel -}}
+            {{- $nr = strings.TrimSuffix (printf " %s" .) $nr -}}
+          {{- end -}}
+          <li>
+            <a class="gl-azeile" href="{{ $p.RelPermalink }}">
+              <span class="gl-anr">{{ $nr }}</span>
+              <span class="gl-atitel">{{ $titel }}</span>
+            </a>
+          </li>
+        {{- end -}}
+      </ul>
+    {{- end -}}
+  {{- end -}}
+</div>
+
+{{- end -}}

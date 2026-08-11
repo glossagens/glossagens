@@ -1,0 +1,20 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Grundsätze"
+    von: 6
+    bis: 6
+  - name: "Datensicherheit"
+    von: 24
+    bis: 24
+  - name: "Auskunftsrecht"
+    von: 25
+    bis: 25
+  - name: "Einschränkungen des Auskunftsrechts"
+    von: 26
+    bis: 26
+  - name: "Ansprüche und Verfahren"
+    von: 41
+    bis: 41

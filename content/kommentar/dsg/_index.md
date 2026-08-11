@@ -22,25 +22,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 25. September 2020 über den Datenschutz](https://www.fedlex.admin.ch/eli/cc/2022/491_491_491/de) (DSG, SR 235.1). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-### Grundsätze (Art. 6)
-
-- [Art. 6 — Grundsätze](art-006/)
-
-### Datensicherheit (Art. 24)
-
-- [Art. 24 — Meldung von Verletzungen der Datensicherheit](art-024/)
-
-### Auskunftsrecht (Art. 25)
-
-- [Art. 25 — Auskunftsrecht](art-025/)
-
-### Einschränkungen des Auskunftsrechts (Art. 26)
-
-- [Art. 26 — Einschränkungen des Auskunftsrechts](art-026/)
-
-### Ansprüche und Verfahren (Art. 41)
-
-- [Art. 41 — Ansprüche und Verfahren](art-041/)

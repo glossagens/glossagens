@@ -23,7 +23,3 @@ revisions:
 ---
 
 Kommentar zum [Gesetz über die Verwaltungsrechtspflege des Kantons Luzern vom 3. Juli 1972](https://srl.lu.ch/app/de/texts_of_law/40) (VRG LU, SR 40). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-_Noch keine kommentierten Artikel._

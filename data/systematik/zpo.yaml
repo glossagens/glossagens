@@ -1,0 +1,27 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen.
+# Ein Artikel landet in der ENGSTEN passenden Gruppe.
+# Die Rechtsmittel-Bereiche waren zuvor überlappend (Berufung 308–334 enthielt
+# Beschwerde 319–321); Grenze bei Art. 319 via Fedlex geprüft.
+gruppen:
+  - name: "Allgemeine Bestimmungen"
+    von: 1
+    bis: 196
+  - name: "Ordentliches Verfahren"
+    von: 219
+    bis: 242
+  - name: "Vereinfachtes Verfahren"
+    von: 243
+    bis: 247
+  - name: "Summarisches Verfahren"
+    von: 248
+    bis: 270
+  - name: "Rechtsmittel — Berufung"
+    von: 308
+    bis: 318
+  - name: "Rechtsmittel — Beschwerde"
+    von: 319
+    bis: 327
+  - name: "Rechtsmittel — Revision, Erläuterung und Berichtigung"
+    von: 328
+    bis: 334

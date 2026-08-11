@@ -54,6 +54,9 @@ content/
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
 
+data/
+└── systematik/{gesetz}.yaml          ← Gliederung der Artikelübersicht
+
 agent/
 ├── executor.py                       ← Issue- und PR-Verarbeitungslogik
 ├── webhook_server.py                 ← FastAPI-Endpoints (/webhook, /queue, /approve, /reject)
@@ -110,8 +113,35 @@ Regeln:
 - `sr` bzw. `srl` ist **zwingend**. Fehlt es, bricht der Hugo-Build mit `errorf` ab — das Gesetz würde sonst lautlos aus der Übersicht verschwinden.
 - Die Sachgruppe wird aus der ersten Ziffer der SR-Nummer abgeleitet (`0.101` → Gruppe 0, `311.0` → Gruppe 3). Nichts von Hand zuordnen.
 - `weight` beim Anlegen eines neuen Gesetzes so setzen, dass die Sidebar der SR-Reihenfolge folgt (Weights der Nachbargesetze prüfen).
-- Der Body enthält nur den Einleitungssatz mit Fedlex-Link. Die Artikelliste rendert `articles-flat.html` bzw. `stpo-articles.html` automatisch — **keine** Artikeltabelle von Hand pflegen.
-  *Altlast:* 30 der bestehenden Gesetzesseiten führen im Body noch eine handgepflegte Artikelliste, die zusätzlich zur generierten gerendert wird. Sie ist bereits abgedriftet (BV: 19 statt 26 Einträge, ZGB: 34 statt 37, StPO: 145 statt 146) und gehört entfernt — siehe „Offene nächste Schritte".
+- Der Body enthält **nur** den Einleitungssatz mit Fedlex-Link. Die Artikelliste rendert `articles.html` automatisch — **keine** Artikelliste oder -tabelle von Hand pflegen.
+
+### Systematik-Gliederung (`data/systematik/{gesetz}.yaml`)
+
+Gliedert die Artikelübersicht einer Gesetzesseite nach der Systematik des Erlasses. Optional: fehlt die Datei, wird flach gerendert.
+
+```yaml
+gruppen:
+  - name: "Besondere Bestimmungen — Strafbare Handlungen gegen Leib und Leben"
+    von: 111
+    bis: 136
+  - name: "Strafbefehlsverfahren"    # Untergruppe der vorangehenden Gruppe
+    von: 352
+    bis: 357
+    ebene: 2
+```
+
+Regeln:
+- Die Zuordnung erfolgt über die Artikelnummer im **Verzeichnisnamen** (`art-305bis` → 305), nicht über `weight`.
+- Ein Artikel landet in der **engsten** passenden Gruppe. Untergruppen (`ebene: 2`) dürfen sich deshalb mit ihrer Oberkategorie überschneiden, ohne dass Artikel doppelt erscheinen.
+- Eine Oberkategorie ohne eigene Artikel wird trotzdem angezeigt, wenn ihre Untergruppen Artikel tragen.
+- Artikel, die in keine Gruppe fallen, erscheinen unter „Weitere Artikel". Das ist kein Fehler, sondern der Hinweis, dass ein Bereich fehlt — die Liste bleibt in jedem Fall vollständig.
+- Gruppen ohne kommentierte Artikel werden stillschweigend übersprungen; die Datei darf die vollständige Systematik des Erlasses abbilden.
+
+### Reihenfolge der Artikel: nicht über `weight`
+
+Sortierung und Artikelnummer stammen ausschliesslich aus dem Verzeichnisnamen (`art-024bis`). `weight` ist dafür unbrauchbar: die Werte kollidieren (`art-305` und `art-305bis` tragen beide 305), fehlen teils ganz (OHG) und sind stellenweise falsch (StGB Art. 47 trug `weight: 1`, RPG behalf sich für Art. 24a–24d mit 241–244).
+
+Der Slug ist dreistellig genullt; seine lexikografische Ordnung entspricht der Reihenfolge auf Fedlex — dort steht `24, 24a, 24b, 24bis, 24c, 24d, 24e, 24f, 24quater, 24quinquies, 24ter`. Beim Anlegen eines Artikels also **immer** dreistellig benennen: `art-007`, nicht `art-7`.
 
 ### Frontmatter-Schema — Kommentarartikel (`_index.md`)
 
@@ -195,5 +225,5 @@ Bei Bestehen beider Stufen: automatischer Merge + Deploy.
 ## Offene nächste Schritte
 
 - [ ] Weitere Gesetze/Artikel befüllen
-- [ ] Handgepflegte Artikellisten aus den Bodies der 30 Gesetzesseiten entfernen (werden von `articles-flat.html` bereits generiert; die Handlisten sind abgedriftet)
+- [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
 - [x] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen

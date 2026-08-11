@@ -1,0 +1,20 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Allgemeine Bestimmungen"
+    von: 1
+    bis: 9
+  - name: "Bewilligungspflicht und Aufenthalt"
+    von: 10
+    bis: 17
+  - name: "Familiennachzug"
+    von: 42
+    bis: 52
+  - name: "Erlöschen und Widerruf der Bewilligungen"
+    von: 61
+    bis: 64
+  - name: "Strafbestimmungen"
+    von: 115
+    bis: 122

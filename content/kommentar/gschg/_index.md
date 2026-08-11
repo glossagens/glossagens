@@ -22,11 +22,3 @@ revisions:
 ---
 
 Kommentar zum [Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer](https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/de) (GSchG, SR 814.20). Tippe auf einen Artikel, um den Kommentar zu öffnen.
-
-## Kommentierte Artikel
-
-### Verhinderung und Behebung nachteiliger Einwirkungen auf Gewässer (Art. 26–44)
-
-- [Art. 37 — Eingriffe in oberirdische Gewässer](art-037/)
-- [Art. 38a — Revitalisierung](art-038a/)
-- [Art. 43a — Geschiebehaushalt](art-043a/)
