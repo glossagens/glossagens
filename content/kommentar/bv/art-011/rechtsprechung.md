@@ -1,95 +1,123 @@
 ---
-title: "Rechtsprechung zu Art. 11 BV — Schutz der Kinder und Jugendlichen"
+title: "Rechtsprechung zu Art. 11 BV"
 weight: 99
-date: 2026-06-13
-lastmod: 2026-06-13
-description: "Übersicht der Entscheide zu Art. 11 BV — Kindesschutz, Förderung der Entwicklung, Urteilsfähigkeit, Drittwirkung"
-tags: ["Rechtsprechung", "BV", "Kindesschutz", "Kinderrechte", "Urteilsfähigkeit", "UN-Kinderrechtskonvention"]
+date: 2026-05-24
+lastmod: 2026-08-11
+description: "Übersicht der Entscheide zu Art. 11 BV — Tragweite des Kindesschutzes, Justiziabilität der beiden Teilgehalte, Bindung der Rechtsanwendung"
+tags: ["Rechtsprechung", "BV", "Kinder", "Jugendliche", "Kindesschutz", "Kindeswohl"]
 agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Sämtliche Entscheidblöcke der Vorfassung entfernt — kein einziges Belegpaar war gestützt. Neu aufgebaut auf BGE 126 II 377 E. 5 (Grundsatzentscheid), BGE 144 II 233 E. 8.2.1 und BGE 143 I 21 E. 5.5.4."
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — beim Audit vom 2026-08-11 vollständig als unbelegt verworfen"
 ---
 
-## I. Schutz der Unversehrtheit (Abs. 1)
+## Rechtsprechung zu Art. 11 BV
 
-### [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143), E. 4–5
-- **Thema**: Gesteigerter Kindesschutz bei Sexualdelikten; Altersgrenze des Schutzbereichs
-- **Kernaussage**: Art. 11 BV verpflichtet den Staat zu einem gesteigerten Schutz von Kindern und Jugendlichen vor sexueller Ausbeutung. Der Schutzbereich erstreckt sich auf alle Personen bis zum vollendeten 18. Lebensjahr. Der besondere Schutzbedarf ist bei jüngeren Kindern besonders ausgeprägt.
-- **Einschlägig für**: Art. 11 Abs. 1 BV (Unversehrtheitsschutz), Art. 187 StGB (Sexuelle Handlungen mit Kindern)
+Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert.
 
----
+### Grundsatzentscheid zur Tragweite
 
-### [BGE 134 I 347](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_347), E. 4.1–4.2
-- **Thema**: Anhörungsrecht urteilsfähiger Kinder; Urteilsfähigkeit im Grundrechtskontext
-- **Kernaussage**: Kinder üben ihre Grundrechte im Rahmen ihrer Urteilsfähigkeit aus (Art. 11 Abs. 2 BV). Das Anhörungsrecht richtet sich nicht nach starren Altersgrenzen, sondern nach der konkreten Einsichtsfähigkeit des Kindes in Bezug auf das betroffene Grundrecht. Ein 12-jähriges Kind ist in der Regel anzuhören, wenn es um die Zuweisung des Elternsorgerechts geht.
-- **Einschlägig für**: Art. 11 Abs. 2 BV (Urteilsfähigkeit), Art. 29 Abs. 2 BV (Gehör)
+#### BGE 126 II 377 (18. April 1999) — Anspruch auf besonderen Schutz der Unversehrtheit
 
----
+**Kernaussage**: Art. 11 Abs. 1 BV gewährt einen Anspruch der Kinder und Jugendlichen auf besonderen Schutz ihrer Unversehrtheit; dieser Teilgehalt umfasst den Schutz der körperlichen und geistigen Integrität.
 
-### [BGE 141 V 557](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_557), E. 5
-- **Thema**: Drittwirkung des Kindesschutzes im Sozialversicherungsrecht
-- **Kernaussage**: Die Grundrechte (insbesondere Art. 11 und Art. 27 BV) müssen bei der Ausgestaltung des Sozialversicherungssystems zur Geltung kommen. Der Kindesschutz wirkt über die Drittwirkung (Art. 35 Abs. 3 BV) auch im Verhältnis zwischen Privaten.
-- **Einschlägig für**: Art. 11 Abs. 1 BV, Art. 35 Abs. 3 BV (Drittwirkung)
+**Bedeutung**: Der erste Teilgehalt ist ein echter Anspruch. Der Ausdruck «besonderer» Schutz ist nicht einschränkend zu verstehen, sondern hebt hervor, dass Kindern und Jugendlichen als gesellschaftlicher Gruppe ein ganz besonderer Schutz zukommt.
 
----
-
-### BGE 140 III 641, E. 3.2
-- **Thema**: Kindesschutz und elterliche Sorge; Verhältnismässigkeit von Kindesschutzmassnahmen
-- **Kernaussage**: Kindesschutzmassnahmen nach Art. 307 ff. ZGB müssen verhältnismässig sein. Der Eingriff in die elterliche Sorge muss durch das Kindeswohl geboten sein und das mildeste geeignete Mittel darstellen. Die Verhältnismässigkeitsprüfung ist im Kindesschutz besonders streng, da der Eingriff in die familiäre Autonomie weitreichende Folgen hat.
-- **Einschlägig für**: Art. 11 Abs. 1 BV, Art. 307 ZGB
+- **OCL**: [BGE 126 II 377, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_377#e-5)
 
 ---
 
-### BGE 138 I 161, E. 3
-- **Thema**: Schülerrechte; Grundrechtsausübung durch Kinder in der Schule
-- **Kernaussage**: Schülerinnen und Schüler üben ihre Grundrechte im Rahmen ihrer Urteilsfähigkeit aus (Art. 11 Abs. 2 BV). Schulen als staatliche Institutionen sind an die Grundrechtsbindung (Art. 35 Abs. 2 BV) und den Kindesschutz (Art. 11 BV) gebunden. Dies gilt insbesondere für das Tragen religiöser Symbole (Kopftuch) und die Meinungsäusserungsfreiheit.
-- **Einschlägig für**: Art. 11 Abs. 2 BV (Urteilsfähigkeit), Art. 15 BV (Glaubensfreiheit)
+#### BGE 126 II 377 (18. April 1999) — Förderung der Entwicklung als programmatischer Gehalt
+
+**Kernaussage**: Der Teilgehalt der Förderung der Entwicklung will keine zusätzlichen klagbaren subjektiven Rechte schaffen; ihm fehlt die erforderliche normative Bestimmtheit, er ist als objektive Richtlinie zur programmatischen Schicht des Grundrechts zu zählen.
+
+**Bedeutung**: Die entscheidende Einschränkung. Eine Beschwerde lässt sich auf den Förderungsteilgehalt allein nicht stützen; er richtet sich an den Gesetzgeber.
+
+- **OCL**: [BGE 126 II 377, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_377#e-5)
 
 ---
 
-## II. Förderung der Entwicklung (Abs. 1)
+#### BGE 126 II 377 (18. April 1999) — Bindung der rechtsanwendenden Instanzen
 
-### BGE 137 I 305, E. 4
-- **Thema**: Förderung der schulischen Integration; Anspruch auf Fördermassnahmen
-- **Kernaussage**: Die Förderungspflicht nach Art. 11 Abs. 1 BV umfasst die Pflicht des Staates, die Rahmenbedingungen für eine gute Entwicklung von Kindern zu schaffen. Ein individueller Anspruch auf eine konkrete Fördermassnahme besteht nicht; die Förderungspflicht ist als objektive Pflicht ausgestaltet.
-- **Einschlägig für**: Art. 11 Abs. 1 BV (Förderung), Art. 19 BV (Bildung)
+**Kernaussage**: Im Unterschied zu den in Art. 41 Abs. 1 lit. f und g BV verankerten Sozialzielen, welche sich als Staatszielbestimmungen hauptsächlich an den Gesetzgeber richten, nimmt Art. 11 Abs. 1 BV auch die rechtsanwendenden Instanzen in die Pflicht, bei der Handhabung von Gesetzen den besonderen Schutzbedürfnissen von Kindern und Jugendlichen Rechnung zu tragen, was in besonderem Masse dann gilt, wenn ein Rechtssatz Lücken aufweist oder den Behörden Ermessensspielräume eröffnet.
 
----
+**Bedeutung**: Die praktisch wichtigste Aussage zu Art. 11 BV. Sie macht die Bestimmung zur Auslegungs- und Ermessensdirektive und unterscheidet sie von den blossen Sozialzielen.
 
-### BGE 136 I 65, E. 5
-- **Thema**: Sonderpädagogische Massnahmen; Integration vor Separation
-- **Kernaussage**: Der verfassungsrechtliche Kindesschutz (Art. 11 BV) und das Diskriminierungsverbot wegen Behinderung (Art. 8 Abs. 2 BV) gebieten den Vorrang der integrativen Schulung vor der Separation. Sonderpädagogische Massnahmen sind Teil der staatlichen Förderungspflicht.
-- **Einschlägig für**: Art. 11 Abs. 1 BV, Art. 8 Abs. 2 und 4 BV
+- **OCL**: [BGE 126 II 377, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_377#e-5)
 
 ---
 
-## III. Urteilsfähigkeit und Grundrechtsausübung (Abs. 2)
+#### BGE 126 II 377 (18. April 1999) — Vordringliches Anliegen
 
-### BGE 133 III 521, E. 4
-- **Thema**: Urteilsfähigkeit bei medizinischen Entscheiden; Minderjährige und Einwilligung
-- **Kernaussage**: Minderjährige können in medizinische Eingriffe einwilligen, wenn sie urteilsfähig im Sinne von Art. 11 Abs. 2 BV und Art. 16 ZGB sind. Die Urteilsfähigkeit ist nicht starr nach Altersgrenzen, sondern nach der konkreten Einsichtsfähigkeit in Bezug auf den jeweiligen Eingriff zu beurteilen.
-- **Einschlägig für**: Art. 11 Abs. 2 BV, Art. 10 BV (Persönlichkeitsrecht)
+**Kernaussage**: Mit der Verankerung als Grundrecht wird der Schutz von Kindern und Jugendlichen verfassungsrechtlich zu einem vordringlichen Anliegen erklärt.
 
----
+**Bedeutung**: Bestimmt das Gewicht, das dem Kindesschutz in der Abwägung zukommt.
 
-### BGer 5A_533/2025 — 2025
-- **Thema**: Kindesschutz bei Verfahrensdauer; Beschleunigungsgebot
-- **Kernaussage**: Art. 11 BV gebietet eine beschleunigte Durchführung von Kindesschutzverfahren, da verzögerte Verfahrensabläufe das Kindeswohl gefährden können. Das Beschleunigungsgebot ist im Kindesschutz besonders ausgeprägt.
-- **Einschlägig für**: Art. 11 Abs. 1 BV, Art. 29 Abs. 1 BV (Verfahrensbeschleunigung)
+- **OCL**: [BGE 126 II 377, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_377#e-5)
 
 ---
 
-## Top-Entscheide im Überblick
+### Bestätigung und Anwendung
 
-| Nr | Entscheidung | Zit. | Kernthese |
-|----|---|---|---|
-| 1 | BGE 135 I 143 | — | Gesteigerter Kindesschutz bei Sexualdelikten |
-| 2 | BGE 134 I 347 | — | Urteilsfähigkeit und Anhörungsrecht |
-| 3 | BGE 141 V 557 | — | Drittwirkung des Kindesschutzes |
-| 4 | BGE 140 III 641 | — | Verhältnismässigkeit von Kindesschutzmassnahmen |
-| 5 | BGE 138 I 161 | — | Schülerrechte und Grundrechtsausübung |
-| 6 | BGE 137 I 305 | — | Förderungspflicht (kein individueller Anspruch) |
-| 7 | BGE 136 I 65 | — | Integration vor Separation |
-| 8 | BGE 133 III 521 | — | Urteilsfähigkeit bei medizinischen Entscheiden |
+#### BGE 144 II 233 (15. Juni 2018) — Bestätigung des Schutzgehalts
+
+**Kernaussage**: Der Teilgehalt des besonderen Schutzes der Unversehrtheit der Kinder und Jugendlichen umfasst den Schutz ihrer körperlichen und geistigen Integrität.
+
+**Bedeutung**: Bestätigt den Grundsatzentscheid und bezeichnet den Kindesschutz unter Verweis darauf als vordringliches Anliegen bzw. oberste Maxime des Kindesrechts.
+
+- **OCL**: [BGE 144 II 233, E. 8.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_233#e-8-2-1)
 
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+#### BGE 143 I 21 (17. November 2016) — Kindeswohl im Ausländerrecht
+
+**Kernaussage**: Das Kindeswohl ist ausländerrechtlich nach wie vor nur ein zu berücksichtigendes Element unter anderen — neben öffentlicher Sicherheit und Ordnung und der Durchsetzung einer restriktiven Einwanderungspolitik — und im Rahmen der Interessenabwägung zu würdigen.
+
+**Bedeutung**: Zieht die Grenze der Direktivwirkung: Art. 11 BV verschafft dem Kindeswohl Gewicht, aber keinen Vorrang.
+
+- **OCL**: [BGE 143 I 21, E. 5.5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_21#e-5-5-4)
+
+---
+
+### Abgrenzung
+
+#### BGE 129 I 12 (7. November 2002) — Art. 19 BV als individueller Leistungsanspruch
+
+**Kernaussage**: Art. 19 BV verleiht einen individuellen subjektiven Anspruch auf eine staatliche Leistung, nämlich auf eine grundlegende Ausbildung; das soziale Grundrecht dient insbesondere der Verwirklichung der Chancengleichheit.
+
+**Bedeutung**: Der Kontrast zu Art. 11 Abs. 1 BV. Wo der Förderungsteilgehalt programmatisch bleibt, begründet Art. 19 BV einen einklagbaren Leistungsanspruch — bei Bildungsfragen ist deshalb Art. 19 BV die tragende Norm.
+
+- **OCL**: [BGE 129 I 12, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_12#e-4-1)
+
+---
+
+## Entfernte Entscheide (Audit vom 11. August 2026)
+
+Ausgangslage: 9 beurteilte Paare, davon **0 gestützt** und 1 teilweise — 6 %, der schlechteste Wert der bisherigen BV-Kampagne.
+
+| Referenz | Befund |
+|---|---|
+| BGE 133 III 521 | existiert nicht |
+| BGE 134 I 347 | existiert nicht |
+| BGE 138 I 161 | existiert nicht |
+| BGE 140 III 641 | existiert nicht |
+| BGE 135 I 143 E. 4 | Pinpoint existiert nicht |
+| BGE 141 V 557 E. 5 | Pinpoint existiert nicht |
+| BGE 136 I 65 E. 5 | Pinpoint existiert nicht |
+| BGE 135 I 143 | betrifft den Anspruch einer ausländischen Mutter auf eine Aufenthaltsbewilligung nach Art. 8 EMRK — trug weder die Aussage zum gesteigerten Kindesschutz noch die zu Sexualdelikten |
+| BGE 141 V 557 | trug weder die Aussage zur Drittwirkung noch die zur Ausgestaltung nach Art. 11 und 27 BV |
+| BGE 137 I 305 | trug die Aussage zur Förderungspflicht nicht |
+| BGE 136 I 65 | trug die Aussage zu Kindesschutz und Diskriminierungsverbot nicht |
+| BGer 5A_533/2025 | existiert; trug die Aussage zur beschleunigten Durchführung von Kindesschutzverfahren nicht |
+
+Die vier nicht existierenden Referenzen lieferten sämtlich `close_matches` mit dem Grund `queried_page_within_this_decision` — die zitierte Seitenzahl fällt in einen *anderen* Entscheid. Das ist kein Identitätsnachweis, weshalb keine automatische Korrektur vorgenommen wurde.
+
+**Hinweis:** BGE 135 I 143 wurde in diesem Bestand mehrfach als Beleg verwendet — bei Art. 9, Art. 10 und Art. 11 BV — und trug an keiner Stelle die ihm zugeschriebene Aussage.
