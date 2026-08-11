@@ -17,7 +17,7 @@
 
 {{- $gesetz := path.Base .Path -}}
 {{- $kuerzel := .Params.kuerzel -}}
-{{- $systematik := index hugo.Data.systematik $gesetz -}}
+{{- $systematik := index site.Data.systematik $gesetz -}}
 {{- $gruppen := slice -}}
 {{- with $systematik -}}{{- with .gruppen -}}{{- $gruppen = . -}}{{- end -}}{{- end -}}
 
