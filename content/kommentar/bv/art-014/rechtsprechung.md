@@ -1,206 +1,137 @@
 ---
 title: "Rechtsprechung zu Art. 14 BV"
-weight: 2
-date: 2026-08-09
-lastmod: 2026-08-09
-description: "Umfassende Rechtsprechungsübersicht zum Recht auf Ehe und Familie nach Art. 14 BV"
-tags: ["BV", "Ehe", "Familie", "Familiennachzug", "Grundrechte", "EMRK Art. 8", "EMRK Art. 12", "Rechtsprechung"]
+weight: 99
+date: 2026-05-24
+lastmod: 2026-08-11
+description: "Übersicht der Entscheide zu Art. 14 BV — Trägerschaft des Rechts auf Ehe, Ehevorbereitungsverfahren, Haftbesuchsrecht, Abgrenzung zu Art. 13 BV"
+tags: ["Rechtsprechung", "BV", "Ehe", "Familie", "Ehevorbereitungsverfahren"]
 agent_verified: false
 revisions:
-
-  - date: 2026-08-09
-    by: "Hermes Agent"
-    model: "glm-5.2"
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Audit: 14 von 25 Referenzen existierten nicht — höchste Fabrikationsquote der BV-Kampagne. Neu aufgebaut aus einzeln geprüften Entscheiden, darunter BGE 151 I 306 (2025) als aktuellste Zusammenfassung."
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 
-## Rechtsprechung zu Art. 14 BV – Recht auf Ehe und Familie
+## Rechtsprechung zu Art. 14 BV
 
-### I. Leitentscheide
+Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
 
-#### 1. BGE 135 I 143 — Aufenthaltsbewilligung und Art. 8 EMRK / Art. 13 BV (Leitentscheid)
+### Trägerschaft des Rechts auf Ehe
 
-Anspruch auf Aufenthaltsbewilligung einer ausländischen Mutter gestützt auf ihre Beziehung zum schweizerischen Kind. Die Bewilligung kann nur verweigert werden, wenn nebst der Zumutbarkeit der Ausreise ordnungs- oder sicherheitspolizeiliche Gründe gegeben sind. Grundlegender Leitentscheid zur Interessenabwägung bei Familiennachzug und Aufenthaltsrecht.
+#### BGE 137 I 351 (23. November 2011) — Trägerschaft unabhängig von Status und Nationalität
 
-**Schlagworte:** Aufenthaltsbewilligung, Familiennachzug, Interessenabwägung, Art. 8 EMRK, Art. 13 BV
-**E.** 2–4
+**Kernaussage**: Die Garantie des Rechts auf Ehe nach Art. 14 BV steht grundsätzlich jeder volljährigen natürlichen Person zu, unabhängig von ihrer Staatsangehörigkeit — einschliesslich Staatenloser — oder ihrer Religion; sie kann auch von Ausländern angerufen werden, die sich illegal in einem Staat aufhalten.
 
----
+**Bedeutung**: Der Aufenthaltsstatus ist keine Voraussetzung der Grundrechtsträgerschaft, sondern allenfalls eine Frage der Rechtfertigung. Der Entscheid stützt sich auf das EGMR-Urteil *O'Donoghue und andere gegen Vereinigtes Königreich*.
 
-#### 2. BGE 146 I 185 — Nachträglicher Familiennachzug bei gefestigtem Anwesenheitsrecht
-
-Verschlechtert sich der Gesundheitszustand eines Ehegatten erheblich, liegt darin eine wesentliche Änderung der Umstände, die es rechtfertigt, auf ein neuerliches Gesuch einzutreten. Gefestigtes Anwesenheitsrecht verstärkt den Schutzanspruch aus Art. 14 BV i.V.m. Art. 8 EMRK.
-
-**Schlagworte:** Familiennachzug, gefestigtes Anwesenheitsrecht, Gesundheitszustand, Art. 44 AuG, Art. 47 AuG
-**E.** 4–6
-
----
-
-#### 3. BGE 132 I 299 — Transsexuelle und Eheschliessungsfreiheit
-
-Präzisiert das Recht auf Eheschliessung für transsexuelle Personen. Die Eheschliessungsfreiheit nach Art. 14 BV umfasst die freie Wahl des Ehepartners, unabhängig von der Geschlechtsidentität.
-
-**Schlagworte:** Transsexualität, Eheschliessungsfreiheit, Geschlechtsidentität, Art. 14 BV, Art. 8 EMRK
-**E.** 3–5
+- **OCL**: [BGE 137 I 351, E. 3.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351#e-3-5)
 
 ---
 
-#### 4. BGE 128 I 267 — Ehefähigkeit und Eheverbote
+### Ehevorbereitungsverfahren
 
-Grundlegender Entscheid zur Ehefähigkeit und zu den Schranken der Eheschliessungsfreiheit. Eheverbote müssen restriktiv ausgelegt werden, da sie in das Grundrecht aus Art. 14 BV eingreifen.
+#### BGE 138 I 41 (17. Januar 2012) — Nachweis des rechtmässigen Aufenthalts
 
-**Schlagworte:** Ehefähigkeit, Eheverbote, Eheschliessungsfreiheit, Grundrechtsschranken
-**E.** 2–4
+**Kernaussage**: Art. 98 Abs. 4 ZGB verlangt den Nachweis des rechtmässigen Aufenthalts im Ehevorbereitungsverfahren; zu prüfen ist die Vereinbarkeit dieses Erfordernisses mit der Gewährleistung des Rechts auf Ehe.
 
----
+**Bedeutung**: Klärt die Befugnisse des Zivilstandsbeamten und der Migrationsbehörden im Vorbereitungsverfahren.
 
-### II. Familiennachzug und Aufenthaltsrecht
-
-#### 5. BGE 137 I 221 — Aufenthaltsbeendigung und Familiennachzug
-
-Präzisierung der Voraussetzungen für die Aufenthaltsbeendigung bei familiären Bindungen in der Schweiz. Ordungspolizeiliche Gründe allein genügen nicht, wenn die Familie in der Schweiz zusammenlebt.
-
-**Schlagworte:** Aufenthaltsbeendigung, Familiennachzug, ordungspolizeiliche Gründe, Art. 8 EMRK
-**E.** 3–5
+- **OCL**: [BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41)
 
 ---
 
-#### 6. BGE 142 I 119 — Familienleben und Aufenthaltsrecht
+#### BGE 151 I 306 (2025) — Kurzaufenthaltsbewilligung für illegal anwesende Verlobte
 
-Das Bundesgericht präzisiert den Schutzbereich des Familienlebens bei aufenthaltsrechtlichen Massnahmen. Die faktischen familiären Bindungen sind massgebend, nicht nur die rechtliche Verwandtschaft.
+**Kernaussage**: Die Nichterteilung von Kurzaufenthaltsbewilligungen an zwei illegal anwesende Personen, die in der Schweiz heiraten möchten, beeinträchtigt das Recht auf Ehe.
 
-**Schlagworte:** Familienleben, Aufenthaltsrecht, faktische Bindungen, Schutzbereich
-**E.** 3–4
+**Bedeutung**: Aktuellster Entscheid der Reihe; fasst die Rechtsprechung zum Recht auf Ehe im Zusammenhang mit dem Aufenthaltsrecht zusammen. Die Migrationsbehörde kann die Eheschliessung nicht mittelbar dadurch vereiteln, dass sie die nötige Bewilligung verweigert.
 
----
-
-#### 7. BGE 143 I 313 — Zerrüttungsregel und Familienschutz
-
-Die Zerrüttungsregel (AuG Art. 50) schützt den verbleibenden Ehegatten bei Scheidung. Ein aufenthaltsrechtlicher Widerruf verstösst gegen Art. 14 BV i.V.m. Art. 8 EMRK, wenn die Ehe durch den Schweizer Ehegatten zerrüttet wurde.
-
-**Schlagworte:** Zerrüttungsregel, AuG Art. 50, Scheidung, Aufenthaltsrecht
-**E.** 3.2
+- **OCL**: [BGE 151 I 306](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_I_306)
 
 ---
 
-#### 8. BGE 139 I 113 — Eltern-Kind-Beziehung und Privatleben
+### Ehe und Freiheitsentzug
 
-Art. 8 EMRK i.V.m. Art. 14 BV schützt die Eltern-Kind-Beziehung auch bei aufenthaltsrechtlichen Massnahmen. Die Trennung eines Kindes von seinen Eltern muss verhältnismässig sein und das Kindeswohl als Massstab nehmen.
+#### BGE 143 I 241 (18. April 2017) — Haftbesuchsrecht unter Lebenspartnern
 
-**Schlagworte:** Eltern-Kind-Beziehung, Aufenthaltsrecht, Kindeswohl, Verhältnismässigkeit
-**E.** 3–4
+**Kernaussage**: Der Regelung von Art. 235 Abs. 2 StPO lässt sich nicht entnehmen, dass das strafprozessuale Haftbesuchsrecht ausschliesslich auf das passive Empfangen von Besuchen beschränkt wäre. Das Gesetz spricht von «Kontakten» und «Besuchen»; diese sind grundsätzlich zu bewilligen, soweit der Haftzweck und die Ordnung und Sicherheit der Haftanstalt dies erlauben.
 
----
+**Bedeutung**: Zeigt, dass Art. 14 BV auch im Freiheitsentzug wirkt und dort eine aktive Kontaktmöglichkeit verlangt, nicht bloss Duldung.
 
-#### 9. BGE 139 I 189 — Aufenthaltsrecht und familiäre Bindungen
-
-Erweitert die Grundsätze zum Aufenthaltsrecht bei familiären Bindungen. Langjähriger Aufenthalt und Integration sind gewichtige Faktoren in der Interessenabwägung.
-
-**Schlagworte:** Aufenthaltsrecht, Integration, langjähriger Aufenthalt, Interessenabwägung
-**E.** 4
+- **OCL**: [BGE 143 I 241, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241#e-4-2)
 
 ---
 
-#### 10. BGE 134 I 143 — Aufenthaltsbeendigung und Familienleben
+### Gleichgeschlechtliche Paare (historisch)
 
-Grundlegender Entscheid zur Aufenthaltsbeendigung bei bestehendem Familienleben. Der Eingriff in Art. 14 BV i.V.m. Art. 8 EMRK muss verhältnismässig sein und die Intensität der familiären Bindungen berücksichtigen.
+#### BGE 126 II 425 (2000) — Gleichgeschlechtliche Partnerschaft und Familienleben
 
-**Schlagworte:** Aufenthaltsbeendigung, Familienleben, Verhältnismässigkeit, Art. 8 EMRK
-**E.** 3–4
+**Kernaussage**: Gleichgeschlechtliche Partnerschaften stellen kein Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV dar.
 
----
+**Bedeutung**: **Überholt.** Mit dem Partnerschaftsgesetz (2007) und der Öffnung der Ehe für gleichgeschlechtliche Paare (in Kraft seit 1. Juli 2022) ist diese Auffassung hinfällig. Der Entscheid ist nur noch rechtshistorisch heranzuziehen. Zu beachten: Er verneint das Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV — **nicht** im Sinne von Art. 14 BV, wie die Vorfassung dieses Kommentars angab.
 
-### III. Ehe und Eheähnliche Beziehungen
-
-#### 11. BGE 140 I 305 — Vaterschaftsentschädigung und Gleichbehandlung
-
-Nach dem klaren Wortlaut und dem eindeutigen Willen des Gesetzgebers kann aus Art. 16b EOG kein Anspruch von Vätern auf eine Erwerbsersatzentschädigung abgeleitet werden. Art. 16b EOG beinhaltet keinen Elternurlaub im Sinne der Vaterschaftsentschädigung. Die Frage der Gleichbehandlung von Vätern und Müttern ist unter Art. 8 BV zu prüfen.
-
-**Schlagworte:** Vaterschaftsentschädigung, Gleichbehandlung, EOG, Elternurlaub, Art. 8 BV
-**E.** 6–7
+- **OCL**: [BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425)
 
 ---
 
-#### 12. BGE 144 I 276 — Ehe und eingetragene Partnerschaft
+### Aufenthaltsrecht aus familiären Bindungen (Art. 13 BV / Art. 8 EMRK)
 
-Die eingetragene Partnerschaft stellt eine zulässige, jedoch nicht vollständig gleichwertige Alternative zur Ehe dar. Die Unterscheidung war unter dem damaligen Verfassungsrecht gerechtfertigt.
+#### BGE 135 I 143 (2. Februar 2009) — Aufenthaltsbewilligung der ausländischen Mutter
 
-**Schlagworte:** eingetragene Partnerschaft, Ehe, Gleichbehandlung, Art. 14 BV
-**E.** 4
+**Kernaussage**: Eine ausländische Mutter kann gestützt auf ihre Beziehung zum schweizerischen Kind einen Anspruch auf Aufenthaltsbewilligung geltend machen.
 
----
+**Bedeutung**: Der Anspruch wird auf Art. 8 EMRK und Art. 13 BV gestützt, nicht auf Art. 14 BV — massgebend für die Abgrenzung der beiden Garantien.
 
-#### 13. BGE 136 I 90 — Namensrecht und Familienleben
-
-Das Namensrecht nach der Eheschliessung berührt den Schutzbereich von Art. 14 BV. Die freie Wahl des Ehenamens gehört zum Kerngehalt des Rechts auf Ehe.
-
-**Schlagworte:** Namensrecht, Ehenamen, Familienleben, Kerngehalt
-**E.** 3–5
+- **OCL**: [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143)
 
 ---
 
-### IV. Kindesschutz und elterliche Sorge
+#### BGE 146 I 185 (28. Februar 2020) — Nachträglicher Familiennachzug
 
-#### 14. BGE 141 I 45 — Kindeswohl und elterliche Sorge
+**Kernaussage**: Verschlechtert sich der Gesundheitszustand eines Ehegatten erheblich, liegt darin eine wesentliche Änderung der Umstände, die es rechtfertigt, auf ein neuerliches Gesuch um Familienzusammenführung einzutreten.
 
-Präzisiert die Kriterien für die Zuteilung der elterlichen Sorge unter dem Gesichtspunkt des Kindeswohls. Art. 14 BV schützt das Recht des Kindes auf beide Elternteile.
+**Bedeutung**: Ergangen zu Art. 8 EMRK, Art. 13 BV sowie Art. 44 und 47 AuG.
 
-**Schlagworte:** elterliche Sorge, Kindeswohl, Art. 14 BV, Eltern-Kind-Beziehung
-**E.** 3
-
----
-
-#### 15. BGE 145 I 161 — Fortpflanzungsmedizin und Familienrecht
-
-Die Einschränkungen des Fortpflanzungsmedizingesetzes (FMedG) berühren den Schutzbereich von Art. 14 BV. Der Zugang zu medizinisch unterstützter Fortpflanzung ist unter den Voraussetzungen des FMedG gewährleistet.
-
-**Schlagworte:** Fortpflanzungsmedizin, FMedG, Familienplanung, Grundrechtsschranken
-**E.** 3
+- **OCL**: [BGE 146 I 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_185)
 
 ---
 
-#### 16. BGE 145 I 185 — Familienschutz und Aufenthaltsrecht
+## Entfernte Entscheide (Audit vom 11. August 2026)
 
-Erweitert die Grundsätze zum familiären Aufenthaltsrecht. Das Bundesgericht betont, dass Art. 14 BV i.V.m. Art. 8 EMRK nicht nur die Kernfamilie, sondern auch die erweiterte Familie unter bestimmten Voraussetzungen schützt.
+Ausgangslage: 16 beurteilte Paare, davon 1 gestützt (38 %). **14 von 25 Referenzen existierten nicht** — die höchste Fabrikationsquote der bisherigen BV-Kampagne.
 
-**Schlagworte:** erweiterte Familie, Aufenthaltsrecht, Art. 8 EMRK, Kernfamilie
-**E.** 4
+| zitiert | nächstliegender existierender Entscheid |
+|---|---|
+| BGE 128 I 267 | BGE 128 I 237 |
+| BGE 132 I 299 | BGE 132 I 256 |
+| BGE 134 I 143 | BGE 134 I 92 |
+| BGE 136 I 90 | BGE 136 I 87 |
+| BGE 137 I 221 | BGE 137 I 200 |
+| BGE 139 I 113 | BGE 139 I 57 |
+| BGE 141 I 45 | BGE 141 I 36 |
+| BGE 142 I 119 | BGE 142 I 76 |
+| BGE 143 I 313 | BGE 143 I 284 |
+| BGE 143 I 93 | BGE 143 I 50 |
+| BGE 144 I 276 | BGE 144 I 234 |
+| BGE 145 I 161 | BGE 145 I 142 |
+| BGE 145 I 185 | BGE 145 I 175 |
+| BGE 150 I 157 | BGE 150 I 144 |
 
----
+Sämtliche vierzehn lieferten `close_matches` mit dem Grund `queried_page_within_this_decision`: Die zitierte Seitenzahl fällt jeweils in einen *anderen*, real existierenden Entscheid. Das erklärt, weshalb solche Zitate plausibel aussehen — Band, Teil und Seitenbereich sind stimmig, nur die Seite gehört zu einem anderen Fall. Ein Identitätsnachweis ist das nicht, weshalb **keine** automatische Korrektur vorgenommen wurde.
 
-### V. Verfahrensrechtliche Aspekte
+### Fehlzuordnungen bei existierenden Entscheiden
 
-#### 17. BGE 137 I 305 — Eintretensfragen bei Art. 14 BV
-
-Beschwerde gegen die Nichtfortführung einer Kommission. Eintretensfragen im Zusammenhang mit der Beschwerdelegitimation bei Art. 14 BV-Rügen.
-
-**Schlagworte:** Beschwerdelegitimation, Eintreten, Art. 14 BV
-**E.** 2–3
-
----
-
-#### 18. BGE 147 I 173 — Ausstandsgründe und Verfahrensgarantien
-
-Beurteilung eines nach Fällung des kantonalen Urteils entdeckten Ausstandsgrunds. Verfahrensrechtliche Garantien (Art. 30 BV) im Kontext familiärenrechtlicher Verfahren.
-
-**Schlagworte:** Ausstandsgrund, Art. 30 BV, Verfahrensgarantien, Beschwerde
-**E.** 1
-
----
-
-#### 19. BGE 150 I 157 — Neuere Praxis zu Art. 14 BV
-
-Aktuelle Präzisierung der Rechtsprechung zu Art. 14 BV. Das Bundesgericht bestätigt den verstärkten Schutzanspruch bei gefestigtem Anwesenheitsrecht und langjährigen familiären Bindungen.
-
-**Schlagworte:** Neuere Praxis, gefestigtes Anwesenheitsrecht, langjährige Bindungen
-**E.** 3–4
-
----
-
-#### 20. BGE 143 I 93 — Eherecht und Grundrechte
-
-Die eherechtlichen Normen stehen im Einklang mit Art. 14 BV, soweit sie die Ehe als Institut schützen und fördern. Das Eherecht muss den verfassungsrechtlichen Vorgaben entsprechen.
-
-**Schlagworte:** Eherecht, Grundrechte, Institutsschutz, Verhältnismässigkeit
-**E.** 2–3
+| Referenz | Befund |
+|---|---|
+| BGE 137 I 351 E. 4, BGE 138 I 41 E. 6 | Pinpoints existieren nicht |
+| BGE 143 I 241 | trug die Aussage zu Sorgerecht, Besuchsrecht und Kindesschutz nach ZGB nicht |
+| BGE 139 I 189 | trug die Aussage zum Aufenthaltsrecht bei familiären Bindungen nicht |
+| BGE 147 I 173 | stand im Widerspruch zur behaupteten Aussage (`contradicts`) |
+| BGE 137 I 305 | trug die Aussage nicht; betrifft die Nichtfortführung einer Kommission |
