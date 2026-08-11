@@ -1,112 +1,113 @@
 ---
-title: Rechtsprechung zu Art. 47 StGB
-weight: 2
-description: "Sammlung der wichtigsten Bundesgerichtsentscheide zur Strafzumessung nach Art. 47 StGB."
+title: "Rechtsprechung zu Art. 47 StGB — Strafzumessung"
+weight: 99
+date: "2026-08-11"
+lastmod: "2026-08-11"
+description: "Übersicht der bundesgerichtlichen Entscheide zu Art. 47 StGB: Drei-Stufen-Modell, Verschulden, Täterkomponenten, Begründungspflicht, Doppelverwertungsverbot, Ermessensspielraum."
+tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Verschulden", "Doppelverwertungsverbot", "Beschleunigungsgebot"]
+agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach C-Audit (28% gestützt). 21 ungestützte Zitate entfernt. Neue gestützte Zitate via OCL check_claim_support verifiziert."
+  - date: 2026-08-02
+    by: "Claude Code"
+    model: "minimax-m3"
+    mcp_verified: true
+    note: "Bereinigung KW31"
+  - date: 2026-05-14
+    by: "Hermes Agent"
+    model: "hermes3"
+    mcp_verified: false
+    note: "Erstausgabe"
 ---
 
-# Rechtsprechungssammlung zu Art. 47 StGB
+## I. Drei-Stufen-Modell
 
+### [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) — Strafzumessung bei verminderter Schuldfähigkeit; Begründungspflicht
 
-## Bundesgerichtsentscheide (BGE)
-
-### BGE 149 IV 217, E. 1.1
-- **Datum**: 2023
-- **Thema**: Strafzumessungsgrundsätze; Ermessensspielraum; Begründungspflicht
-- **Kernaussage**: Zusammenfassende Darstellung der Strafzumessungsgrundsätze nach Art. 47 ff. StGB. Der Richter verfügt über einen weiten Ermessensspielraum. Das Bundesgericht greift nur ein bei Verstössen gegen den gesetzlichen Strafrahmen, bei rechtlich unmassgeblichen Kriterien, bei ausser Acht gelassenen wesentlichen Faktoren oder bei exzessiver Strafe (Ermessensmissbrauch). Die Begründungspflicht nach Art. 50 StGB verlangt, dass die wesentlichen Tatsachen und Erwägungen aufgeführt werden, damit überprüft werden kann, ob alle Gesichtspunkte berücksichtigt und wie sie gewichtet wurden.
-- **Einschlägig für**: Vorbemerkungen (Ermessensspielraum, Begründungspflicht)
-
-### BGE 144 IV 313, E. 1.2
-- **Datum**: 2018
-- **Thema**: Begründungspflicht; Ermessensspielraum
-- **Kernaussage**: Der Richter hat einen weiten Ermessensspielraum bei der Strafzumessung. Das Bundesgericht greift nur ein, wenn die Strafe ausserhalb des gesetzlichen Rahmens liegt, rechtlich unmassgebliche Kriterien herangezogen wurden, wesentliche Elemente nicht berücksichtigt wurden oder die Strafe exzessiv hart oder milde ist (Ermessensmissbrauch). Die Begründungspflicht verlangt Angabe der wesentlichen Elemente in verschuldenserhöhendem und -minderndem Sinne. Je höher die Strafe, desto eingehender muss die Begründung sein.
-- **Einschlägig für**: Vorbemerkungen (Ermessenspielraum, Begründungspflicht)
-
-### BGE 144 IV 217, E. 2
-- **Datum**: 2018
-- **Thema**: Konkurrenzen (Gesamtstrafenbildung)
-- **Kernaussage**: Bildung einer Gesamtstrafe nach dem Asperationsprinzip nach Art. 49 Abs. 1 StGB ist nur möglich, wenn das Gericht für jeden einzelnen Normverstoss gleichartige Strafen ausfällt.
-- **Einschlägig für**: Konkurrenzen
-
-### BGE 143 IV 373, E. 1.4.1
-- **Datum**: 2017
-- **Thema**: Verfahrensdauer; Beschleunigungsgebot
-- **Kernaussage**: Folgen einer Verletzung des Beschleunigungsgebots sind meistens die Strafreduktion, manchmal der Verzicht auf Strafe oder, als ultima ratio, die Einstellung des Verfahrens. Massgeblich: Schwere der Belastung für die beschuldigte Person, Gravität der Tat, hypothetische Strafe ohne Verzögerung, Interessen der Geschädigten, Komplexität des Falls und Verantwortlichkeit für die Verzögerung.
-- **Einschlägig für**: Abs. 1 (Verfahrensdauer)
-
-### BGE 141 IV 61, E. 6.1.1
-- **Datum**: 2015
-- **Thema**: Doppelverwertungsverbot / Einschlägigkeit
-- **Kernaussage**: Tatbestandsmerkmale dürfen nicht doppelt gewichtet werden. Einschlägige (gleichartige) Vorstrafen wiegen bei der Straferhöhung deutlich schwerer als allgemeine Vorstrafen.
-- **Einschlägig für**: Vorbemerkungen (Doppelverwertungsverbot), Abs. 1
-
-### BGE 136 IV 55, E. 5.4–5.8
-- **Datum**: 2010
-- **Thema**: Drei-Stufen-Modell; Verminderte Schuldfähigkeit; Begründungspflicht
-- **Kernaussage**: Leitentscheid zur Strafzumessung bei verminderter Schuldfähigkeit. Dreistufiges Vorgehen: (1) Verschulden qualifizieren, (2) hypothetische Strafe bestimmen, (3) Täterkomponenten berücksichtigen. Die verminderte Schuldfähigkeit ist im ersten Schritt als verschuldensmindernd zu berücksichtigen; allein führt sie grundsätzlich nicht zur Unterschreitung des ordentlichen Strafrahmens.
-- **Einschlägig für**: Vorbemerkungen (Methodik), Abs. 1 (Verminderte Schuldfähigkeit)
-
-### BGE 136 IV 1, E. 2.6
-- **Datum**: 2010
-- **Thema**: Vorstrafenlosigkeit
-- **Kernaussage**: Die Vorstrafenlosigkeit wirkt bei der Strafzumessung grundsätzlich neutral und ist nicht strafmindernd zu berücksichtigen. Ausnahmsweise darf sie in die Beurteilung der Täterpersönlichkeit einbezogen werden, sofern die Straffreiheit auf eine aussergewöhnliche Gesetzestreue hinweist.
-- **Einschlägig für**: Abs. 1 (Vorleben und Vorstrafen)
-
-### BGE 135 IV 191, E. 3.2–3.4
-- **Datum**: 2009
-- **Thema**: Relative Strafgerechtigkeit; Mittäterschaft
-- **Kernaussage**: Bei Mittätern ist von einer gleichen objektiven Schuldeinschätzung auszugehen; Unterschiede müssen durch subjektive Faktoren begründet werden. Es besteht kein Anspruch auf «Gleichbehandlung im Unrecht», wenn die Strafe des Mittäters nach Auffassung des Richters zu milde ausgefallen ist. Unzulässig ist es, eine als angemessen erachtete Strafe mit dem formalen Argument eines Missverhältnisses zur Strafe des Mittäters zu reduzieren.
-- **Einschlägig für**: Abs. 2 (Relative Strafgerechtigkeit)
-
-### BGE 134 IV 60, E. 5.3 und E. 6.1
-- **Datum**: 2008
-- **Thema**: Trennungsprinzip (Art. 47 vs. Art. 34); Strafempfindlichkeit
-- **Kernaussage**: Die Anzahl der Tagessätze richtet sich nach dem Verschulden (Art. 47), die Höhe nach den finanziellen Verhältnissen (Art. 34). Keine Vermischung zulässig. Persönliche Verhältnisse und Strafempfindlichkeit dürfen bei der Tagessatzanzahl nur soweit berücksichtigt werden, als sie nicht die finanzielle Situation betreffen.
-- **Einschlägig für**: Vorbemerkungen (Trennungsprinzip), Abs. 1 (Strafempfindlichkeit)
-
-### BGE 134 IV 17, E. 2.1
-- **Datum**: 2007
-- **Thema**: Vorrang des Verschuldens; neue Strafzumessungsregelung
-- **Kernaussage**: Das Verschuldensprinzip (retrospektive Vergeltung) ist das massgebliche Kriterium. Präventive Aspekte dürfen nur innerhalb des Verschuldensrahmens gewichtet werden. Der neue Allgemeine Teil hat die bisherigen Strafzumessungsgrundsätze beibehalten und in Art. 47 Abs. 2 präzisiert.
-- **Einschlägig für**: Vorbemerkungen (Dogmatik)
-
-### BGE 121 IV 202, E. 2
-- **Datum**: 1995
-- **Thema**: Geständnis
-- **Kernaussage**: Ein aufrichtiges Geständnis führt zu einer Reduktion um ca. 1/5 bis 1/3. Taktische Geständnisse werden weniger stark gewichtet.
-- **Einschlägig für**: Abs. 1 (Geständnis und Reue)
-
-### BGE 119 IV 129, E. 2
-- **Datum**: 1993
-- **Thema**: Doppelverwertungsverbot; Ausmass der Tatbegehung
-- **Kernaussage**: Das konkrete Ausmass der Tatbegehung darf trotz Tatbestandsmässigkeit verschuldenserhöhend berücksichtigt werden, da die quantitative Ausprägung eines Tatbestandsmerkmals über dessen qualitative Erfüllung hinausgeht.
-- **Einschlägig für**: Vorbemerkungen (Doppelverwertungsverbot)
+- **Entscheid**: Bundesgericht
+- **Gegenstand**: Art. 19 Abs. 2, Art. 47 und 50 StGB; Strafzumessung bei verminderter Schuldfähigkeit; Begründungspflicht
+- **Kernaussage (E. 5.4)**: Die Strafzumessung folgt primär dem Prinzip des Verschuldensausgleichs. Spezial- oder generalpräventive Erwägungen dürfen nur innerhalb des durch das Verschulden gesetzten Rahmens berücksichtigt werden.
+- **Kernaussage (E. 5.5)**: Ausgehend von der objektiven Tatschwere hat der Richter das subjektive Tatverschulden zu bewerten. Er hat im Urteil darzutun, welche verschuldensmindernden und welche verschuldenserhöhenden Gründe im konkreten Fall gegeben sind, um zu einer Gesamteinschätzung des Tatverschuldens zu gelangen. Verminderte Schuldfähigkeit ist bei der Verschuldensbewertung zu berücksichtigen.
+- **Kernaussage (E. 5.7)**: Das Drei-Stufen-Modell verlangt: (1) Schuldfähigkeit und Gesamtverschulden qualifizieren; (2) hypothetische Strafe bestimmen; (3) Täterkomponenten berücksichtigen. Die verminderte Schuldfähigkeit allein führt grundsätzlich nicht zum Unterschreiten des ordentlichen Strafrahmens.
+- **Kernaussage (E. 5.8)**: Strafmilderungsgründe nach Art. 48 und 48a StGB wirken auf der dritten Stufe als Täterkomponenten und können zu einer Unterschreitung des ordentlichen Strafrahmens führen.
+- **Einschlägig für**: Art. 47 StGB (Drei-Stufen-Modell, Verschulden, Begründungspflicht), Art. 19 StGB (verminderte Schuldfähigkeit), Art. 50 StGB (Begründungspflicht)
 
 ---
 
-## Bundesgerichtsentscheide (nicht publiziert)
+## II. Verschulden und Täterkomponenten
 
-### BGer 6B_855/2023 vom 15. Juli 2024, E. 2.11
-- **Thema**: Landesverweisung (Neutralität bei der Strafzumessung)
-- **Kernaussage**: Die Landesverweisung (Art. 66a StGB) ist als Massnahme und nicht als Strafe einzuordnen. Sie kann weder als Strafmilderungsgrund im Sinne von Art. 48 StGB noch im Rahmen der Verschuldensbewertung berücksichtigt werden. Gleiches gilt für das Tätigkeitsverbot nach Art. 67 StGB.
-- **Einschlägig für**: Abs. 1 (Strafempfindlichkeit)
+### [BGer 6B_788/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_788_2013) — Strafzumessung bei qualifizierter Widerhandlung gegen das Betäubungsmittelgesetz
 
-### BGer 6B_785/2015 vom 18. November 2015, E. 1.3
-- **Thema**: Doppelverwertungsverbot; Ausmass der Tatbegehung
-- **Kernaussage**: Es verstösst nicht gegen das Doppelverwertungsverbot, bestimmte Umstände, welche Tatbestandsmerkmale oder gesetzliche Qualifikationsgründe darstellen, bei der Strafzumessung straferhöhend zu berücksichtigen, denn das Ausmass solcher Umstände kann mehr oder weniger gross sein. Die Vorinstanz ist verpflichtet, sich über das Ausmass dieser Merkmale zu äussern.
-- **Einschlägig für**: Vorbemerkungen (Doppelverwertungsverbot)
-
-### BGer 6B_910/2024 vom 11. Februar 2025, E. 1.3.1
-- **Thema**: Wohlverhalten im Vollzug
-- **Einschlägig für**: Abs. 1
+- **Entscheid**: BGer, Strafrechtliche Abteilung
+- **Gegenstand**: Strafzumessung (qualifizierte Widerhandlung gegen das BetmG); Art. 47 Abs. 1 StGB
+- **Kernaussage**: Die Strafe bemisst sich nach dem Verschulden des Täters, wobei sein Vorleben, seine persönlichen Verhältnisse und die Wirkung der Strafe auf sein Leben zu berücksichtigen sind. Der Wortlaut von Art. 47 Abs. 1 StGB wird wörtlich zitiert und als Massstab der Strafzumessung bestätigt.
+- **Einschlägig für**: Art. 47 Abs. 1 StGB (Verschulden, Vorleben, persönliche Verhältnisse, Strafwirkung)
 
 ---
 
-### BGer 6B_114/2026 vom 13. Juli 2026 — Strafzumessung und Prognose bei teilbedingter Strafe
+### [BGer 6B_1027/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1027_2019) — Strafzumessung; Berufsverbot
 
-- **Thema**: Art. 47, 43 StGB; Art. 105 BGG — Strafzumessung; Prognose für teilbedingte Strafe; Unschuldsvermutung; interne Tatsachen
-- **Kernaussage**: Das Bundesgericht ist an die vorinstanzlichen Sachverhaltsfeststellungen gebunden (Art. 105 Abs. 1 BGG); was eine Person wusste, wollte, in Aussicht gestellt oder in Kauf genommen hat, sind sogenannte «interne» Tatsachen, deren Feststellung den Tatrichter bindet (E. 1). Im Rahmen der Strafzumessung nach Art. 47 StGB erhebt der Beschwerdeführer keinen spezifischen Einwand gegen die Strafzumessung als solche, sondern begehrt lediglich einen «zumindest teilbedingten» Vollzug der Freiheitsstrafe von 26 Monaten (E. 2). Die Vorinstanz hat die Grundsätze für die Gewährung einer teilbedingten Strafe — namentlich die erforderliche Prognose und die relevanten Elemente — zutreffend dargelegt (E. 3). Die Prognose durfte auf die acht Vorverurteilungen des Beschwerdeführers (Freiheitsstrafe, Geldstrafen, TIG, Bussen zwischen September 2023 und den Delikten) und weitere, nicht ausschliesslich auf die Vorstrafen gestützte Erwägungen gestützt werden (E. 3.3–3.4). Eine negative Legalprognose ist nicht willkürlich, wenn sie sich nicht ausschließlich auf die Vorstrafen stützt, sondern auch die aktuelle Lebensführung und Deliktsschwere einbezieht. Beschwerde abgewiesen; keine unentgeltliche Rechtspflege bei offensichtlich aussichtslosem Begehren (Art. 64 Abs. 1 BGG).
-- **Einschlägig für**: Art. 47 (Strafzumessung, Täterkomponente); Art. 43 (bedingte/teilbedingte Strafe, Prognose); Art. 64 BGG
+- **Entscheid**: BGer, Strafrechtliche Abteilung
+- **Gegenstand**: Strafzumessung; Berufsverbot
+- **Kernaussage**: Gemäss Art. 47 Abs. 1 StGB misst das Gericht die Strafe nach dem Verschulden des Täters zu. Es berücksichtigt das Vorleben und die persönlichen Verhältnisse sowie die Wirkung der Strafe auf das Leben des Täters. Bestätigt die Anwendung des Drei-Stufen-Modells.
+- **Einschlägig für**: Art. 47 Abs. 1 StGB (Verschulden, Täterkomponenten)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-02*
+## III. Doppelverwertungsverbot und Ermessensspielraum
+
+### [BGer 6B_237/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_237_2018) — Strafzumessung; Willkür
+
+- **Entscheid**: BGer, Strafrechtliche Abteilung
+- **Gegenstand**: Strafzumessung (qualifizierte Widerhandlung gegen das BetmG); Willkür; Art. 47 StGB
+- **Kernaussage**: Der Beschwerdeführer wendet sich gegen die Strafzumessung und rügt, die Vorinstanz verletze Art. 47 StGB, den Grundsatz des Doppelverwertungsverbots und das Willkürverbot. Bestätigt den weiten Ermessensspielraum des Sachgerichts bei der Gewichtung der Strafzumessungsfaktoren.
+- **Einschlägig für**: Art. 47 StGB (Doppelverwertungsverbot, Ermessensspielraum, Willkür)
+
+---
+
+### [BGer 6B_591/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_591_2025) — Strafzumessung
+
+- **Entscheid**: BGer, Strafrechtliche Abteilung
+- **Gegenstand**: Strafzumessung
+- **Kernaussage**: Der Beschwerdeführer wendet sich gegen die vorinstanzliche Strafzumessung und rügt deren Rechtswidrigkeit. Bestätigt die Grundsätze von Art. 47 StGB.
+- **Einschlägig für**: Art. 47 StGB (Strafzumessung, Ermessensspielraum)
+
+---
+
+## IV. Beschleunigungsgebot
+
+### [BGer 6B_128/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_128_2020) — Strafzumessung; Beschleunigungsgebot
+
+- **Entscheid**: BGer, Strafrechtliche Abteilung
+- **Gegenstand**: Strafzumessung; Beschleunigungsgebot
+- **Kernaussage**: Verletzungen des Beschleunigungsgebots sind durch einen expliziten Strafabzug zu kompensieren. Bei der Bemessung des Abzugs sind die Schwere der Verzögerung für die beschuldigte Person, die Gravität der vorgeworfenen Taten und die Komplexität des Falls zu berücksichtigen.
+- **Einschlägig für**: Art. 47 StGB (Beschleunigungsgebot, Strafabzug), Art. 5 EMRK, Art. 29 Abs. 1 BV
+
+---
+
+## V. Verminderte Schuldfähigkeit
+
+### BGE 136 IV 55 (siehe auch unter I.)
+
+- Die verminderte Schuldfähigkeit ist im ersten Schritt des Drei-Stufen-Modells bei der Verschuldensbewertung zu berücksichtigen. Der Schuldvorwurf gegenüber einem nur vermindert schuldfähigen Täter ist geringer; das Schuldprinzip verlangt eine niedrigere Strafe. Allein die verminderte Schuldfähigkeit führt jedoch grundsätzlich nicht zum Unterschreiten des ordentlichen Strafrahmens — dazu bedarf es weiterer, ins Gewicht fallender Umstände.
+
+---
+
+## VI. Übersicht nach Themen
+
+| Thema | Entscheide |
+|-------|------------|
+| Drei-Stufen-Modell | [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) (E. 5.4–5.8) |
+| Verschulden / Art. 47 Abs. 1 | [BGer 6B_788/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_788_2013), [BGer 6B_1027/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1027_2019) |
+| Doppelverwertungsverbot | [BGer 6B_237/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_237_2018) |
+| Ermessensspielraum | [BGer 6B_237/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_237_2018), [BGer 6B_591/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_591_2025) |
+| Beschleunigungsgebot | [BGer 6B_128/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_128_2020) |
+| Verminderte Schuldfähigkeit | [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) (E. 5.5–5.8) |
+
+---
+
+*Zuletzt aktualisiert: 11. August 2026 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-047/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+47+StGB+Rechtsprechung)*
