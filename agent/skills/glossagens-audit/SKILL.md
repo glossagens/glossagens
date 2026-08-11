@@ -257,6 +257,16 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
 - **Botschaften.** `BBl`-Fundstellen prüft dieses Audit nicht; dafür `search_botschaft`.
 - **Juristische Richtigkeit.** Geprüft wird Belegtheit, nicht Qualität. Ein durchgehend
   belegter Kommentar kann dogmatisch schief sein.
+- **Aktualität — der gefährlichste blinde Fleck.** `check_claim_support` beantwortet
+  «sagt der Entscheid das?», nicht «gilt das noch?». Bei BV Art. 13 stand BGE 137 V 334
+  korrekt zitiert und mit zutreffender Wiedergabe im Text — und war trotzdem falsch:
+  die Aussage zur gemischten Methode der Invaliditätsbemessung ist durch das
+  EGMR-Urteil *Di Trizio gegen die Schweiz* (2016) überholt. Stufe 6 findet das nur,
+  wenn eine Gesetzesrevision dazwischenliegt; eine Praxisänderung durch EGMR oder
+  Bundesgericht sieht sie nicht. Bei Leitentscheiden, die älter als rund zehn Jahre
+  sind und eine Grundrechtsfrage entscheiden, deshalb zusätzlich nach einer
+  Praxisänderung suchen (`search_decisions` mit dem Sachthema + «Praxisänderung»
+  bzw. dem EGMR-Fallnamen). Ein `yes` ist kein Aktualitätsnachweis.
 - **Nur Bundesentscheide** haben strukturierte Erwägungen; bei kantonalen greift Stufe 3
   nicht.
 

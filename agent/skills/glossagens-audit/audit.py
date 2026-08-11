@@ -86,7 +86,11 @@ FEDLEX_FUSSNOTE = re.compile(
 )
 PINPOINT = re.compile(r"\b(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)")
 WORTLAUT_HEAD = re.compile(
-    r"^#{2,3}\s*(Gesetzeswortlaut|Gesetzestext|Wortlaut|Art\.\s.*Wortlaut)\s*$",
+    # Gliederungspräfixe zulassen («## I. Wortlaut», «## 1. Gesetzestext»): ohne
+    # sie meldet Stufe 1 `kein_wortlaut_block` und prüft den Normtext stillschweigend
+    # nicht — ein blinder Fleck genau dort, wo der Artikel das Gesetz zitiert.
+    r"^#{2,3}\s*(?:[IVXLC]+|\d+)?[.)]?\s*"
+    r"(Gesetzeswortlaut|Gesetzestext|Wortlaut|Normtext|Art\.\s.*Wortlaut)\s*$",
     re.IGNORECASE,
 )
 QUOTED = re.compile(r"[«\"„]([^«»\"„“]{%d,})[»\"“]" % MIN_QUOTE_LEN)

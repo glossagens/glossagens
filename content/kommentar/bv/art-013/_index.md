@@ -2,10 +2,21 @@
 title: "Art. 13 — Schutz der Privatsphäre"
 weight: 13
 date: 2026-05-17
-lastmod: 2026-06-20
+lastmod: 2026-08-11
 description: "Kommentar zu Art. 13 BV — Recht auf Achtung des Privat- und Familienlebens, der Wohnung sowie des Brief-, Post- und Fernmeldeverkehrs; Schutz vor Missbrauch persönlicher Daten"
 tags: ["BV", "Privatsphäre", "Datenschutz", "Persönlichkeit", "Grundrechte"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 56 %, Urteil B): Keine erfundenen Referenzen — Befunde betrafen Pinpoints, Sammelzitate und eine überholte Aussage. BGE 137 V 334 (gemischte Methode) ist durch EGMR Di Trizio (2016) überholt und war als geltendes Recht dargestellt; jetzt als überholt gekennzeichnet. Vier Pinpoints korrigiert, Sammelzitate aufgelöst, Wohnungsbegriff-Beleg als fehlzugeordnet entfernt. Erstmals revisions-Block gesetzt; agent_verified von true auf false."
+  - date: 2026-06-20
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 ## I. Wortlaut
@@ -42,31 +53,35 @@ Art. 13 BV gewährt jedermann, also jeder natürlichen Person, Anspruch auf Schu
 
 Für den Datenschutz nach Abs. 2 gilt dies erst recht: Das Recht auf Schutz vor Missbrauch persönlicher Daten schützt nur natürliche Personen. Juristische Personen können sich hierfür nicht berufen; ihnen stehen gegebenenfalls andere Schutzmechanismen (z.B. das Geschäftsgeheimnis, Art. 321bis StGB) zur Verfügung.
 
-Im Ausländerrecht ist der persönliche Schutzbereich besonders relevant: Ausländische Personen können sich gestützt auf Art. 13 Abs. 1 BV i.V.m. Art. 8 EMRK auf den Schutz ihres Privat- und Familienlebens berufen (BGE 135 I 143; BGE 130 II 281; BGE 126 II 377).
+Im Ausländerrecht ist der persönliche Schutzbereich besonders relevant: Ausländische Personen können sich gestützt auf Art. 13 Abs. 1 BV i.V.m. Art. 8 EMRK auf den Schutz ihres Privat- und Familienlebens berufen ([BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143)).
 
 ## V. Sachlicher Schutzbereich
 
 ### 1. Privatleben (Art. 13 Abs. 1 Var. 1)
 
-Der Begriff des Privatlebens ist weit zu verstehen und umfasst die Gesamtheit der privaten Lebensgestaltung, die nicht der Öffentlichkeit zugänglich sein soll. Dazu gehören die Entfaltung der Persönlichkeit, die private Kommunikation, die sexuelle Identität, der Umgang mit Freunden und Bekannten sowie die Teilnahme an friedlichen Versammlungen. Das Bundesgericht hat den Schutz des Privatlebens insbesondere im Ausländerrecht als kombinierten Schutzbereich von Privat- und Familienleben anerkannt (BGE 135 I 143; BGE 130 II 281).
+Der Begriff des Privatlebens ist weit zu verstehen und umfasst die Gesamtheit der privaten Lebensgestaltung, die nicht der Öffentlichkeit zugänglich sein soll. Dazu gehören die Entfaltung der Persönlichkeit, die private Kommunikation, die sexuelle Identität, der Umgang mit Freunden und Bekannten sowie die Teilnahme an friedlichen Versammlungen. Das Bundesgericht fasst die Rechtsprechung zum Aufenthaltsrecht gestützt auf das Recht auf Achtung des Privatlebens **ausserhalb** des kombinierten Schutzbereichs von Privat- und Familienleben zusammen ([BGE 144 I 266](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_266)).
 
 Zum Privatleben gehört auch die traditionelle Lebensweise fahrender Gemeinschaften. Die Nutzungsplanung muss Zonen und geeignete Plätze vorsehen, die für den Aufenthalt von Schweizer Fahrenden geeignet sind und deren traditioneller Lebensweise entsprechen, die verfassungsrechtlichen Schutz geniesst (BGE 129 II 321, E. 3.1 und 3.2). Auch das Neuenburger Gesetz über Lagerplätze fahrender Gemeinschaften (LSCN) wurde im Rahmen der abstrakten Normenkontrolle an Art. 13 BV gemessen; die darin vorgesehene Räumung rechtswidriger Lager verletzt den Schutz der Privatsphäre nicht (BGE 145 I 73, E. 7).
 
-Zum Privatleben gehört auch das informationelle Selbstbestimmungsrecht als Teilgehalt des Datenschutzes nach Abs. 2: Jede Person hat das Recht zu entscheiden, welche ihrer persönlichen Daten sie Preis geben will (BGE 151 I 137, E. 3.3.1; BGE 146 I 11, E. 3.1).
+Zum Privatleben gehört auch das informationelle Selbstbestimmungsrecht als Teilgehalt des Datenschutzes nach Abs. 2: Jede Person hat das Recht zu entscheiden, welche ihrer persönlichen Daten sie Preis geben will ([BGE 146 I 11, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_11#e-3-2)).
 
 ### 2. Familienleben (Art. 13 Abs. 1 Var. 2)
 
-Der Begriff der Familie ist weit zu fassen und nicht auf die traditionelle Ehe- und Kleinfamilie beschränkt. Er umfasst auch nichteheliche Lebensgemeinschaften, gleichgeschlechtliche Paare sowie den familiären Nachzug (BGE 135 I 143; BGE 139 I 330). Das Recht auf Achtung des Familienlebens schützt die familiäre Gemeinschaft und die Beziehung zwischen Eltern und Kindern. Im Ausländerrecht ist der Schutz des Familienlebens von grosser praktischer Bedeutung (BGE 130 II 281; BGE 136 II 177).
+Der Begriff der Familie ist weit zu fassen und nicht auf die traditionelle Ehe- und Kleinfamilie beschränkt. Er umfasst auch nichteheliche Lebensgemeinschaften, gleichgeschlechtliche Paare sowie den familiären Nachzug. Das Recht auf Achtung des Familienlebens schützt die familiäre Gemeinschaft und die Beziehung zwischen Eltern und Kindern. Im Ausländerrecht ist der Schutz des Familienlebens von grosser praktischer Bedeutung.
 
-Der Familiennachzug von anerkannten Flüchtlingen mit Asyl in der Schweiz wird von Art. 8 EMRK und Art. 13 Abs. 1 BV umfasst: Unternimmt ein anerkannter Flüchtling alles ihm Zumutbare, um sich auch wirtschaftlich möglichst rasch zu integrieren, kann ihm die Sozialhilfeabhängigkeit des nachzuziehenden Gatten nicht entgegengehalten werden, wenn sich der künftige Fehlbetrag in vertretbarer Höhe hält (BGE 139 I 330, E. 4). Beim Familiennachzug von Stiefkindern im Rahmen des Freizügigkeitsabkommens sind besondere Aspekte zu prüfen (BGE 136 II 177, E. 3).
+Der Familiennachzug von anerkannten Flüchtlingen mit Asyl in der Schweiz wird von Art. 8 EMRK und Art. 13 Abs. 1 BV umfasst: Unternimmt ein anerkannter Flüchtling alles ihm Zumutbare, um sich auch wirtschaftlich möglichst rasch zu integrieren, kann ihm die Sozialhilfeabhängigkeit des nachzuziehenden Gatten nicht entgegengehalten werden, wenn sich der künftige Fehlbetrag in vertretbarer Höhe hält (BGE 139 I 330, E. 4). Beim Familiennachzug von Stiefkindern im Rahmen des Freizügigkeitsabkommens sind besondere Aspekte zu prüfen ([BGE 136 II 177, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_177#e-3-2)).
 
-Der nicht sorgeberechtigte ausländische Elternteil eines in der Schweiz anwesenheitsberechtigten Kindes kann gestützt auf Art. 13 Abs. 1 BV i.V.m. Art. 8 EMRK einen Aufenthaltsanspruch geltend machen, sofern die affektive Beziehung zum Kind von besonderer Intensität ist; als Folge der zivilrechtlichen Entwicklung ist dieses Erfordernis neu zu umschreiben, wobei bei Eltern, die bereits eine Aufenthaltsbewilligung besassen, ein im Rahmen eines üblichen Besuchsrechts ausgeübter persönlicher Kontakt genügt (BGE 139 I 315, E. 2.3 und 2.4). Übt ein sorgeberechtigter ausländischer Elternteil die elterliche Sorge über ein gemeinsames minderjährige Kind mit Schweizer Nationalität aus, stellt ein Verstoss gegen die öffentliche Ordnung keine unabhängige Bedingung dar, die zwangsläufig zum Widerruf der Aufenthaltsbewilligung führt; vielmehr ist eine umfassende Interessenabwägung vorzunehmen (BGE 140 I 145, E. 3 und 4).
+Der nicht sorgeberechtigte ausländische Elternteil eines in der Schweiz anwesenheitsberechtigten Kindes kann gestützt auf Art. 13 Abs. 1 BV i.V.m. Art. 8 EMRK einen Aufenthaltsanspruch geltend machen, sofern die affektive Beziehung zum Kind von besonderer Intensität ist; als Folge der zivilrechtlichen Entwicklung ist dieses Erfordernis neu zu umschreiben, wobei bei Eltern, die bereits eine Aufenthaltsbewilligung besassen, ein im Rahmen eines üblichen Besuchsrechts ausgeübter persönlicher Kontakt genügt (BGE 139 I 315, E. 2.3 und 2.4). Übt ein sorgeberechtigter ausländischer Elternteil die elterliche Sorge über ein gemeinsames minderjährige Kind mit Schweizer Nationalität aus, stellt ein Verstoss gegen die öffentliche Ordnung keine unabhängige Bedingung dar, die zwangsläufig zum Widerruf der Aufenthaltsbewilligung führt; vielmehr ist eine umfassende Interessenabwägung vorzunehmen ([BGE 140 I 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_145)).
 
-Auch im Sozialversicherungsrecht ist der Schutzbereich des Familienlebens relevant: Die gemischte Methode der Invaliditätsbemessung verletzt weder den Anspruch auf Achtung des Privat- und Familienlebens nach Art. 13 Abs. 1 BV und Art. 8 EMRK noch die Grundsätze der Gleichbehandlung und des Diskriminierungsverbots gemäss Art. 8 BV (BGE 137 V 334, E. 6).
+Auch im Sozialversicherungsrecht ist der Schutzbereich des Familienlebens relevant. Das Bundesgericht hielt 2011 fest, die gemischte Methode der Invaliditätsbemessung verletze weder den Anspruch auf Achtung des Privat- und Familienlebens nach Art. 13 Abs. 1 BV und Art. 8 EMRK noch Art. 8 BV ([BGE 137 V 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_334)).
+
+> **Überholt.** Diese Rechtsprechung ist durch das Urteil des EGMR *Di Trizio gegen die Schweiz* vom 2. Februar 2016 (Nr. 7186/09) überholt. Das Bundesgericht hält fest, dieses Urteil und die im Anschluss ergangene Rechtsprechung gälten «ausschliesslich bei Anwendung der gemischten Methode der Invaliditätsbemessung und nicht analog auch bei der spezifischen Methode (Betätigungsvergleich)» ([BGE 144 I 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_28)). BGE 137 V 334 ist deshalb nur noch rechtshistorisch heranzuziehen; für die gemischte Methode gilt die seither geänderte Praxis.
 
 ### 3. Wohnung (Art. 13 Abs. 1 Var. 3)
 
-Der Wohnbegriff ist weit zu verstehen: Nicht nur die eigentliche Wohnräumlichkeit, sondern auch die unmittelbare räumliche Umgebung (Garten, Terrasse, Balkon) werden erfasst. Eine Wohnung im Sinne von Art. 13 Abs. 1 BV setzt keine eigene Wohnung im mietrechtlichen Sinn voraus; auch ein einzelnes Zimmer in einem Mehrfamilienhaus oder eine Notunterkunft kann geschützt sein (BGE 144 I 266, E. 3.5). Der Schutz umfasst sowohl das Recht, in der Wohnung ungestört zu bleiben (Schutz vor Durchsuchung, Überwachung), als auch das Recht, überhaupt eine Wohnung zu haben.
+Der Wohnbegriff ist weit zu verstehen: Nicht nur die eigentliche Wohnräumlichkeit, sondern auch die unmittelbare räumliche Umgebung (Garten, Terrasse, Balkon) werden erfasst. Eine Wohnung im Sinne von Art. 13 Abs. 1 BV setzt nach herrschender Lehre keine eigene Wohnung im mietrechtlichen Sinn voraus; auch ein einzelnes Zimmer oder eine Notunterkunft kann geschützt sein.
+
+> **Lücke:** Für den Wohnungsbegriff konnte in diesem Durchgang kein tragender Entscheid verifiziert werden. Die Vorfassung stützte sich auf BGE 144 I 266 E. 3.5 — jener Entscheid betrifft das Konkubinat und das Aufenthaltsrecht gestützt auf das Privatleben, nicht den Wohnungsbegriff. Der Schutz umfasst sowohl das Recht, in der Wohnung ungestört zu bleiben (Schutz vor Durchsuchung, Überwachung), als auch das Recht, überhaupt eine Wohnung zu haben.
 
 ### 4. Brief-, Post- und Fernmeldeverkehr (Art. 13 Abs. 1 Var. 4)
 
@@ -96,7 +111,7 @@ Ein Eingriff in den Schutzbereich von Art. 13 BV liegt vor, wenn der Staat in Pr
 - **Übermittlung von Personendaten:** Die Weitergabe von gesundheitsbezogenen, höchstpersönlichen Daten an Archive stellt einen Eingriff in den Schutzbereich des Privatlebens und des informationellen Selbstbestimmungsrechts dar (BGE 148 I 233, E. 5.2.6).
 - **Videoüberwachung des öffentlichen Raums:** Die Überwachung des öffentlichen Raums mit technischen Geräten greift in den Schutzbereich von Art. 13 BV ein; das Bundesgericht hat die gesetzliche Überwachungsregelung im zürcherischen Polizeigesetz als verfassungswidrig erklärt (BGE 136 I 87, E. 8.3).
 - **Randdatenspeicherung im Fernmeldeverkehr:** Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellt einen Eingriff in das Recht auf Achtung des Privatlebens dar, welches den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4).
-- **Verdeckte Ermittlung und Bildaufnahmen:** Die sofortige und unwiederbringliche Löschung von Bildaufnahmen verdeckter Ermittler auf Datenträgern der Beschuldigten greift in den Schutzbereich von Art. 13 Abs. 1 BV ein; die Massnahme war unverhältnismässig, da die Staatsanwaltschaft zumindest Kopien der Aufnahmen hätte sicherstellen müssen (BGE 143 I 310, E. 3.4).
+- **Verdeckte Ermittlung und Bildaufnahmen:** Die sofortige und unwiederbringliche Löschung von Bildaufnahmen verdeckter Ermittler auf Datenträgern der Beschuldigten greift in den Schutzbereich von Art. 13 Abs. 1 BV ein; die Massnahme war unverhältnismässig, da die Staatsanwaltschaft zumindest Kopien der Aufnahmen hätte sicherstellen müssen ([BGE 143 I 310, E. 3.4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_310#e-3-4-4)).
 - **Ausweisung und Aufenthaltsbeendigung:** Beeinträchtigung des Privat- und Familienlebens ausländischer Personen (BGE 135 I 143; BGE 126 II 377; BGE 129 II 215).
 - **Intimbesuche im Strafvollzug:** Einschränkungen des Privat- und Familienlebens von Inhaftierten (BGE 150 I 50).
 - **Steueramtshilfe und Datenübermittlung ins Ausland:** Eingriffe in das informationelle Selbstbestimmungsrecht durch Übermittlung von Bankdaten (BGE 148 II 349; BGE 146 I 172; BGE 139 II 404).
@@ -115,7 +130,7 @@ Der Eingriff muss durch ein öffentliches Interesse oder den Schutz von Grundrec
 
 ### 3. Verhältnismässigkeit (Art. 36 Abs. 3 BV)
 
-Der Eingriff muss verhältnismässig sein. Dies setzt Eignung, Erforderlichkeit und Angemessenheit voraus. Bei der automatischen Fahrzeugfahndung verlangt das Bundesgericht ein gewichtiges öffentliches Interesse; eine Totalüberwachung der Gesellschaft würde den Kerngehalt der informationellen Selbstbestimmung verletzen (BGE 149 I 218, E. 8.8). Die aus der AFV erlangten Daten dürfen grundsätzlich nur zweckgebunden verwendet und nicht beliebig mit anderen Dateien zusammengeführt werden (BGE 149 I 218, E. 8.9.4). Ein strengerer Massstab gilt, wenn automatisierte Abläufe eine unbestimmte Vielzahl von Personen betreffen, die keinerlei Anlass zu einer Kontrolle gegeben haben (BGE 149 I 218, E. 8.7.2).
+Der Eingriff muss verhältnismässig sein. Dies setzt Eignung, Erforderlichkeit und Angemessenheit voraus. Bei der automatischen Fahrzeugfahndung verlangt das Bundesgericht ein gewichtiges öffentliches Interesse; eine Totalüberwachung der Gesellschaft würde den Kerngehalt der informationellen Selbstbestimmung verletzen (BGE 149 I 218, E. 8.8). Die aus der AFV erlangten Daten dürfen grundsätzlich nur zweckgebunden verwendet und nicht beliebig mit anderen Dateien zusammengeführt werden ([BGE 149 I 218, E. 8.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_218#e-8-8)). Ein strengerer Massstab gilt, wenn automatisierte Abläufe eine unbestimmte Vielzahl von Personen betreffen, die keinerlei Anlass zu einer Kontrolle gegeben haben (BGE 149 I 218, E. 8.7.2).
 
 ### 4. Kerngehalt (Art. 36 Abs. 4 BV)
 
