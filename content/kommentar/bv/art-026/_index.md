@@ -2,10 +2,21 @@
 title: "Art. 26 — Eigentumsgarantie"
 weight: 26
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: 2026-08-11
 description: "Kommentar zu Art. 26 BV — Eigentumsgarantie, Institutsgarantie, Bestandesgarantie, Enteignungsgrundsätze und Verhältnismässigkeit"
 tags: ["BV", "Grundrechte", "Eigentum", "Enteignung", "materielle Enteignung", "Eigentumsbeschränkung", "Entschädigung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 69 %, Urteil B): Eine Referenz mit falschem Präfix (bge_ statt bger_ auf einer Dossiernummer). 21 Links zeigten noch auf bger.ch/ext/eurolex und wurden auf kanonische opencaselaw-IDs umgestellt — Commit bc283a7 hatte diese Datei ausgelassen. Zehn Kernaussagen auf den durch die Regeste gedeckten Gehalt gekürzt. Erstmals revisions-Block; agent_verified von true auf false."
+  - date: 2026-06-07
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 ## Gesetzeswortlaut
@@ -34,7 +45,7 @@ Die Eigentumsgarantie ist eines der zentralen Grundrechte der Bundesverfassung u
 
 ### II. Institutsgarantie (Abs. 1, Institutsschutz)
 
-**4** Art. 26 Abs. 1 gewährleistet das Eigentum **als Institut der Rechtsordnung** (Institutsgarantie). Das Privateigentum wird als Grundlage der freiheitlichen Rechtsordnung geschützt. Der Gesetzgeber darf das Eigentumsinstitut nicht beseitigen oder aushöhlen ([BGE 139 II 243](https://www.bger.ch/ext/eurolex/index/139/II/243), E. 3.1).
+**4** Art. 26 Abs. 1 gewährleistet das Eigentum **als Institut der Rechtsordnung** (Institutsgarantie). Das Privateigentum wird als Grundlage der freiheitlichen Rechtsordnung geschützt. Der Gesetzgeber darf das Eigentumsinstitut nicht beseitigen oder aushöhlen.
 
 **5** **Kerngehalt.** Der Kerngehalt der Institutsgarantie umfasst:
 - Die private Eigentumsordnung als solche
@@ -42,20 +53,20 @@ Die Eigentumsgarantie ist eines der zentralen Grundrechte der Bundesverfassung u
 - Das Recht auf freie Nutzung innerhalb der gesetzlichen Schranken
 - Den Schutz vor willkürlichem Eigentumsentzug
 
-Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Gesetzgeber nicht das Privateigentum als Institut abschaffen oder so beschränken, dass es seiner Funktion entleert wird ([BGE 143 I 73](https://www.bger.ch/ext/eurolex/index/143/I/73), E. 5.2).
+Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Gesetzgeber nicht das Privateigentum als Institut abschaffen oder so beschränken, dass es seiner Funktion entleert wird.
 
 ### III. Bestandesgarantie (Abs. 1, Individualschutz)
 
 **6** Art. 26 Abs. 1 schützt den Individualanspruch auf Bestand konkreter vermögenswerter Rechtspositionen (Bestandesgarantie). Der Schutzbereich ist weit und umfasst nicht nur Sachen im Sinne von Art. 641 ZGB, sondern auch:
 
-- **Konzessionen**: Der Entzug einer Fernmeldekonzession greift in die Eigentumsgarantie ein; Konzessionen sind vermögenswerte Positionen ([BGE 132 II 485](https://www.bger.ch/ext/eurolex/index/132/II/485), E. 3.2).
-- **Markenrecht**: Die Nichtigerklärung einer eingetragenen Marke verletzt die Eigentumsgarantie nicht, da das Markenrecht eine relative, nicht absolute Rechtsposition vermittelt ([BGE 140 III 297](https://www.bger.ch/ext/eurolex/index/140/III/297), E. 4).
+- **Konzessionen**: Der Entscheid zu Änderung, Übertragung und Entzug einer Fernmeldekonzession behandelt die Anforderungen an einen solchen Eingriff und eine allfällige Entschädigungspflicht ([BGE 132 II 485](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_485)).
+- **Markenrecht**: Die Nichtigerklärung einer eingetragenen Marke verletzt die Eigentumsgarantie nicht, da das Markenrecht eine relative, nicht absolute Rechtsposition vermittelt ([BGE 140 III 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_297), E. 4).
 - **Anstösserrechte**: Anstössern kann das Recht, sich gegenüber der Aufhebung oder Einschränkung des Gemeingebrauchs auf die Eigentumsgarantie zu berufen, nicht von vornherein abgesprochen werden (BGE 126 I 213, Änderung der Rechtsprechung).
-- **Altrechtliche Dienstbarkeiten**: Ein vor dem Inkrafttreten des ZGB rechtmässig erworbenes privates und unentgeltliches Recht auf Quellwasserbezug besteht als Grunddienstbarkeit weiter ([BGE 131 I 321](https://www.bger.ch/ext/eurolex/index/131/I/321), E. 4).
+- **Altrechtliche Dienstbarkeiten**: Ein vor dem Inkrafttreten des ZGB rechtmässig erworbenes — privates und unentgeltliches — Recht auf Quellwasserbezug besteht als Grunddienstbarkeit auch ohne späteren Eintrag im Grundbuch weiter ([BGE 131 I 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_321), E. 4).
 - **Sozialversicherungsansprüche**: Rentenansprüche sind vermögenswerte Positionen i.S.v. Art. 26 BV, aber nicht jede Revision der Rentenhöhe stellt einen Eingriff dar.
 - **Forderungen**: Auch schuldrechtliche Forderungen fallen unter den Eigentumsbegriff von Art. 26 BV.
 
-**7** **Schutzbereichsbestimmung.** Massgeblich ist die Frage, ob eine spezifische vermögenswerte Rechtsposition in den Schutzbereich von Art. 26 BV fällt. Das Bundesgericht prüft dies in zwei Schritten: (1) Liegt eine vermögenswerte Rechtsposition vor? (2) Ist der Eingriff geeignet, die Bestandesgarantie zu berühren? ([BGE 146 I 70](https://www.bger.ch/ext/eurolex/index/146/I/70), E. 5).
+**7** **Schutzbereichsbestimmung.** Massgeblich ist die Frage, ob eine spezifische vermögenswerte Rechtsposition in den Schutzbereich von Art. 26 BV fällt. Das Bundesgericht prüft dies in zwei Schritten: (1) Liegt eine vermögenswerte Rechtsposition vor? (2) Ist der Eingriff geeignet, die Bestandesgarantie zu berühren?.
 
 ### IV. Eigentumsbeschränkung und Enteignung (Abs. 2)
 
@@ -68,10 +79,10 @@ Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Geset
 **11** **Abgrenzungskriterien.** Für die Abgrenzung ist die **Schwere des Eingriffs** massgeblich:
 
 - **Schwerer Eingriff** (formelle gesetzliche Grundlage erforderlich): Entzug von Bodeneigentum, Verbot der bestimmungsgemässen Nutzung, Konfiskation. Ein Nutzungsaufgabezwang oder ein faktischer Entzug der Verfügungsbefugnis kann eine materielle Enteignung darstellen.
-- **Leichter Eingriff** (generelle gesetzliche Grundlage genügt): Reduktion des état locatif um 1,74% ist kein schwerer Eingriff ([BGer 1C_285/2025](https://www.bger.ch/ext/eurolex/index/1C/285/2025), E. 5.1). Sanierungspflicht für Gebäude mit dezentraler Elektroheizung wiegt nicht schwer ([BGE 150 I 106](https://www.bger.ch/ext/eurolex/index/150/I/106), E. 6). Bauverbote in der Landwirtschaftszone gehören zum sozialtypischen Eigentumsrisiko und sind grundsätzlich entschädigungslos hinzunehmen.
-- **Sonderopfertheorie**: Ein Eigentumseingriff, der eine Einzelperson oder eine kleine Gruppe unverhältnismässig stärker trifft als die Allgemeinheit, stellt ein Sonderopfer dar und ist voll zu entschädigen ([BGE 143 I 73](https://www.bger.ch/ext/eurolex/index/143/I/73), E. 5.3).
+- **Leichter Eingriff** (generelle gesetzliche Grundlage genügt): Die Sanierungspflicht für Gebäude mit dezentraler Elektroheizung schränkt die Eigentumsgarantie ein ([BGE 150 I 106](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_106)); ob ein Eingriff als schwer gilt, entscheidet sich nach Intensität und Tragweite im Einzelfall. Bauverbote in der Landwirtschaftszone gehören zum sozialtypischen Eigentumsrisiko und sind grundsätzlich entschädigungslos hinzunehmen.
+- **Sonderopfertheorie**: Ein Eigentumseingriff, der eine Einzelperson oder eine kleine Gruppe unverhältnismässig stärker trifft als die Allgemeinheit, stellt ein Sonderopfer dar und ist voll zu entschädigen.
 
-**12** **Vollentschädigung.** Der Entschädigungsanspruch nach Art. 26 Abs. 2 BV erfordert **Vollentschädigung**. Massgeblich ist der Verkehrswert im Zeitpunkt des Eingriffs. Es genügt nicht, dass der Eigentümer den Schaden «sozial hinnehmen muss»; jede Enteignung erfordert eine vollständige Kompensation des Vermögensnachteils ([BGE 135 I 209](https://www.bger.ch/ext/eurolex/index/135/I/209), E. 4).
+**12** **Vollentschädigung.** Der Entschädigungsanspruch nach Art. 26 Abs. 2 BV erfordert **Vollentschädigung**. Massgeblich ist der Verkehrswert im Zeitpunkt des Eingriffs. Es genügt nicht, dass der Eigentümer den Schaden «sozial hinnehmen muss»; jede Enteignung erfordert eine vollständige Kompensation des Vermögensnachteils.
 
 ### V. Verhältnismässigkeit (Art. 36 BV)
 
@@ -88,25 +99,13 @@ Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Geset
 
 ### VI. Kasuistik
 
-| Fall | Einordnung | Quelle |
-|------|-----------|--------|
-| Mietpreisbindung (Reduktion 1,74%) | Kein schwerer Eingriff | [BGer 1C_285/2025](https://www.bger.ch/ext/eurolex/index/1C/285/2025) |
-| Zweitwohnungsbaubeschränkung (lex Koller) | Verhältnismässiger Eingriff | [BGE 139 II 243](https://www.bger.ch/ext/eurolex/index/139/II/243) |
-| Konfiskatorische Besteuerung | Nur bei dauernder Ertragsunfähigkeit | [BGE 143 I 73](https://www.bger.ch/ext/eurolex/index/143/I/73) |
-| Einziehung / Illegaler Abbruch | Brutto-/Nettoprinzip | [BGE 141 IV 305](https://www.bger.ch/ext/eurolex/index/141/IV/305) |
-| Waffeneinziehung | Kein Einzug des Nettoerlöses ohne Gesetz | [BGE 135 I 209](https://www.bger.ch/ext/eurolex/index/135/I/209) |
-| Rechtshilfe / Kontosperre (> 8 Jahre) | Mit Eigentumsgarantie vereinbar | [BGE 150 IV 201](https://www.bger.ch/ext/eurolex/index/150/IV/201) |
-| Preisgünstiger Wohnungsbau | Mit Eigentumsgarantie vereinbar | [BGE 146 I 70](https://www.bger.ch/ext/eurolex/index/146/I/70) |
-| Vernichtung beschlagnahmter Gegenstände | Keine gesetzliche Grundlage | [BGE 130 I 360](https://www.bger.ch/ext/eurolex/index/130/I/360) |
-| Konzessionsentzug (Fernmeldekonzession) | Eigentumseingriff | [BGE 132 II 485](https://www.bger.ch/ext/eurolex/index/132/II/485) |
-| Markenlöschung | Keine Eigentumsverletzung | [BGE 140 III 297](https://www.bger.ch/ext/eurolex/index/140/III/297) |
-| Altrechtliche Dienstbarkeit (Quellwasser) | Schutzbereich von Art. 26 BV | [BGE 131 I 321](https://www.bger.ch/ext/eurolex/index/131/I/321) |
+Die Einzelfälle mit geprüfter Kernaussage, Fundstelle und Erwägung stehen auf der [Rechtsprechungsseite](rechtsprechung/). Eine Schlagwort-Tabelle wurde entfernt: Sie ordnete jedem Entscheid ein bis zwei Stichworte zu — daraus lässt sich weder die tragende Aussage noch ihr Anwendungsbereich ablesen, und die Zuordnung liess sich in keinem Fall gegen den Entscheidtext belegen.
 
 ### VII. Abgrenzungen
 
 - **Art. 36 BV**: Allgemeine Schranken der Grundrechte — jede Eigentumsbeschränkung muss legitimiert sein.
-- **Art. 27 BV**: Wirtschaftsfreiheit — Überschneidungen bei gewerblichen Eigentumspositionen (vgl. [BGE 146 I 70](https://www.bger.ch/ext/eurolex/index/146/I/70)).
-- **Art. 5 Ziff. 1 EMRK**: Eigentumsschutz nach EMRK — parallel zu Art. 26 BV anwendbar, aber eigenständige Prüfung.
+- **Art. 27 BV**: Wirtschaftsfreiheit — Überschneidungen bei gewerblichen Eigentumspositionen (vgl. [BGE 146 I 70](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_70)).
+- **EMRK**: Die Konvention selbst enthält **keine** Eigentumsgarantie. Der konventionsrechtliche Eigentumsschutz steht in Art. 1 des 1. Zusatzprotokolls, das die Schweiz nicht ratifiziert hat. Art. 5 EMRK — in der Vorfassung dieses Kommentars als Eigentumsgarantie angeführt — gewährleistet das Recht auf **Freiheit und Sicherheit** und hat mit Eigentum nichts zu tun.
 - **Art. 641 ZGB**: Eigentumsbegriff des Zivilrechts — ergänzt den verfassungsrechtlichen Eigentumsbegriff.
 - **Art. 6 ZGB**: Treu und Glauben — Schranke des Eigentumsgebrauchs.
 
