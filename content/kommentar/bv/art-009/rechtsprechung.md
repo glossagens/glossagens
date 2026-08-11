@@ -1,235 +1,152 @@
 ---
 title: "Rechtsprechung zu Art. 9 BV"
-weight: 2
-date: 2026-05-23
-lastmod: 2026-07-03
-description: "Übersicht der Entscheide zu Art. 9 BV – Willkürverbot und Treu und Glauben"
-tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte"]
+weight: 99
+date: 2026-05-24
+lastmod: 2026-08-11
+description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
+tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz"]
 agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Entscheidblöcke der Vorfassung überwiegend entfernt — fünf Referenzen existierten nicht, neun Pinpoints zeigten ins Leere, zwei Links trugen ein falsches Präfix. Neu aufgebaut aus einzeln geprüften Entscheiden."
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "bger.ch → opencaselaw.ch Links umgestellt (Commit bc283a7) — kosmetisch, ohne Prüfung der Zitate"
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 
 ## Rechtsprechung zu Art. 9 BV
 
-### Leitentscheide (BGE)
+Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
 
-#### [BGE 140 III 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16) — Sachverhaltsfeststellung und Willkür (7'323 Zitate)
+### Willkürverbot
 
-- **Thema**: Willkürmassstab bei Sachverhaltsfeststellung / Bindung an vorinstanzlichen Sachverhalt
-- **Kernaussage**: Die vorinstanzlichen Feststellungen über den Ablauf des Verfahrens sind für das Bundesgericht verbindlich. Eine Ausnahme kommt nur bei offensichtlich unhaltbarer Sachverhaltsfeststellung in Betracht (Willkür). Begründet die Beschwerdeführerin ihre Kritik nicht substanziiert, wird die Rüge als appellatorisch qualifiziert.
-- **Einschlägig für**: Abs. II.A (Begriff und Massstab), Abs. II.B (Beweiswürdigung), Abs. VII (Subsidiarität)
+#### BGE 141 I 70 (31. März 2015) — Definition der Willkür
 
----
+**Kernaussage**: Eine willkürliche Anwendung kantonalen Rechts liegt vor, wenn der angefochtene Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft.
 
-#### [BGE 142 I 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_155) — Rechtsanwendung von Amtes wegen (3'766 Zitate)
+**Bedeutung**: Die vier Alternativen sind der massgebliche Prüfraster. Der Entscheid nennt sie zusammen mit den beiden Einschränkungen der folgenden Blöcke.
 
-- **Thema**: Willkür / Rügepflicht / Rechtsanwendung von Amtes wegen
-- **Kernaussage**: Zulässigkeit von neuen rechtlichen Vorbringen vor Bundesgericht, insbesondere von Verfassungsrügen. Eingeschränkte Bedeutung des Grundsatzes, wonach der kantonale Instanzenzug für Rügen, die dem Bundesgericht vorgetragen werden, ausgeschöpft werden muss. Präzisiert das Verhältnis von Art. 106 Abs. 1 BGG (Rechtsanwendung von Amtes wegen) zum Willkürverbot.
-- **Einschlägig für**: Abs. VII (Subsidiarität der Verfassungsbeschwerde)
+- **OCL**: [BGE 141 I 70, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_70#e-2-2)
 
 ---
 
-#### [BGE 129 I 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_8) — Willkürliche Rechtsanwendung
+#### BGE 141 I 70 (31. März 2015) — Vertretbarkeit einer anderen Lösung genügt nicht
 
-- **Thema**: Willkürmassstab / kantonales Recht
-- **Kernaussage**: Willkür liegt vor, wenn der Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder im Ergebnis rein willkürlich erscheint. Zentraler Grundsatzentscheid zum Willkürmassstab bei kantonalem Recht.
-- **Einschlägig für**: Abs. II.A (Begriff und Massstab)
+**Kernaussage**: Dass eine andere Lösung ebenfalls als vertretbar oder gar als zutreffender erscheinen mag, genügt für die Annahme von Willkür nicht.
 
----
+**Bedeutung**: Zieht die Grenze zwischen Willkürkontrolle und freier Rechtsprüfung. Die häufigste Ursache erfolgloser Willkürrügen.
 
-#### [BGE 146 IV 114](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_114) — Willkürdefinition (2'213 Zitate)
-
-- **Thema**: Willkürbegriff / Strafrecht
-- **Kernaussage**: Bestätigt die ständige Rechtsprechung zur Willkürdefinition: Willkür liegt vor, wenn der Entscheid offensichtlich unhaltbar ist. Im Strafrecht wird der Willkürmassstab besonders streng angewendet, da die Unschuldsvermutung (Art. 32 Abs. 1 BV) eine besondere Schutzpflicht begründet.
-- **Einschlägig für**: Abs. II.A (Begriff und Massstab)
+- **OCL**: [BGE 141 I 70, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_70#e-2-2)
 
 ---
 
-#### [BGE 138 I 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_305) — Willkür im Einbürgerungsrecht (1'357 Zitate)
+#### BGE 141 I 70 (31. März 2015) — Unhaltbarkeit auch im Ergebnis
 
-- **Thema**: Einbürgerung / Willkür / Rechtsgleichheit
-- **Kernaussage**: Zulässigkeit der Rügen der Verletzung des Willkürverbots (Art. 9 BV) und des Rechtsgleichheitsgebots (Art. 8 Abs. 1 BV) in Einbürgerungsangelegenheiten. Art. 14 BüG dient individuellen Interessen und regelt materielle Einbürgerungsvoraussetzungen. Ein Bewerber, der alle Voraussetzungen erfüllt, darf nicht willkürlich abgewiesen werden.
-- **Einschlägig für**: Abs. II.H (Willkür im Einbürgerungsrecht)
+**Kernaussage**: Das Bundesgericht hebt einen Entscheid nur auf, wenn nicht bloss die Begründung, sondern auch dessen Ergebnis unhaltbar ist.
 
----
+**Bedeutung**: Eine mangelhaft begründete, im Resultat aber vertretbare Entscheidung verletzt Art. 9 BV nicht.
 
-#### [BGE 127 I 54](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_54) — Aktengutachten und Willkür (6'317 Zitate)
-
-- **Thema**: Sachverständigenbeweis / Aktengutachten / Willkür
-- **Kernaussage**: Ein psychiatrisches Gutachten ohne persönliche Untersuchung des Betroffenen ist nur ausnahmsweise zulässig. Willkür liegt vor, wenn ein Aktengutachten unzulässigerweise an die Stelle eines persönlichen Gutachtens tritt. Präzisiert die Voraussetzungen für zulässige Aktengutachten.
-- **Einschlägig für**: Abs. II.C (Sachverständigenbeweis)
+- **OCL**: [BGE 141 I 70, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_70#e-2-2)
 
 ---
 
-#### [BGE 124 I 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_I_199) — Treu und Glauben im Verwaltungsrecht
+#### BGE 140 III 16 (14. November 2013) — Willkür in der Rechtsanwendung
 
-- **Thema**: Treu und Glauben / Vertrauensschutz / behördliche Zusicherung
-- **Kernaussage**: Der Grundsatz von Treu und Glauben (Art. 9 BV) umfasst den Vertrauensschutz. Eine behördliche Zusicherung begründet einen Vertrauenstatbestand, wenn die Behörde eine bestimmte Rechtsfolge in Aussicht stellt und der Bürger darauf vertraut. Voraussetzung: die Zusicherung stammt von einer zuständigen Behörde, ist inhaltlich hinreichend bestimmt und der Bürger durfte darauf vertrauen.
-- **Einschlägig für**: Abs. III.A (Allgemeines), Abs. III.B (Zusicherungen), Abs. III.C (konsistente Praxis)
+**Kernaussage**: Willkürlich ist ein Entscheid nach konstanter Praxis nicht schon dann, wenn eine andere Lösung ebenfalls als vertretbar oder gar zutreffender erscheint. Willkür in der Rechtsanwendung liegt nur vor, wenn der angefochtene Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft.
 
----
+**Bedeutung**: Die zivilrechtliche Parallelstelle zur Definition. Die Vorfassung dieses Kommentars zitierte hierfür E. 1.3.1 — eine Erwägung, die es in diesem Entscheid nicht gibt.
 
-#### [BGE 130 I 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_268) — Vertrauensschutz bei fehlerhafter Praxis
-
-- **Thema**: Vertrauensschutz / Praxisänderung / fehlerhafte Praxis
-- **Kernaussage**: Ein Vertrauenstatbestand kann durch konsistente behördliche Praxis entstehen. Bei einer Praxisänderung muss die Verwaltung Übergangsregelungen oder Vertrauensschutz gewähren. Die Voraussetzungen sind kumulativ: konsistente Praxis, Vertrauen des Bürgers, Schutzwürdigkeit und keine überwiegenden öffentlichen Interessen.
-- **Einschlägig für**: Abs. III.C (Vertrauensschutz bei konsistenter Praxis)
+- **OCL**: [BGE 140 III 16, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-1)
 
 ---
 
-#### [BGE 133 I 206](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_206) — Willkür im Steuerrecht
+#### BGE 138 I 305 (12. Juni 2012) — Kein Entschliessungsermessen bei der Einbürgerung
 
-- **Thema**: Steuertarif / Willkür / Verfassungsmässigkeit
-- **Kernaussage**: Entspricht ein degressiver Steuertarif nicht dem Ability-to-Pay-Prinzip, kann dies gegen Art. 9 BV (Willkürverbot) und Art. 127 Abs. 2 BV verstossen. Das Bundesgericht prüft mit Zurückhaltung, ob ein kantonaler Steuertarif willkürlich ist.
-- **Einschlägig für**: Abs. II.I (Willkür im Steuerrecht)
+**Kernaussage**: Die die Einbürgerung regelnden Normen dienen nicht nur allgemeinen, sondern auch individuellen Interessen; die gesetzliche Regelung räumt den zuständigen Behörden weder ausdrücklich noch sinngemäss ein Entschliessungsermessen ein.
 
----
+**Bedeutung**: Begründet das rechtlich geschützte Interesse, ohne das eine Willkürrüge gegen einen ablehnenden Einbürgerungsentscheid nicht zulässig wäre.
 
-#### [BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16) — Vertrauensschutz im Ausländerrecht
-
-- **Thema**: Ausländerrecht / Vertrauensschutz / EMRK
-- **Kernaussage**: Im Ausländerrecht kann sich eine ausländische Person auf den Vertrauensschutz berufen, wenn die Behörde eine ausländerrechtliche Bewilligung erteilt hat. Der Vertrauensschutz kommt jedoch nicht zum Tragen, wenn die ausländische Person von Anfang an wusste, dass die Bewilligung rechtswidrig war. Art. 9 BV wird im Kontext mit Art. 8 EMRK geprüft.
-- **Einschlägig für**: Abs. III.F (Treu und Glauben im Asyl- und Ausländerrecht)
+- **OCL**: [BGE 138 I 305, E. 1.4.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_305#e-1-4-5)
 
 ---
 
-#### [BGE 146 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49) — Einbürgerung und Willkür
+### Treu und Glauben und Vertrauensschutz
 
-- **Thema**: Einbürgerung / Willkürverbot / Rechtsgleichheit
-- **Kernaussage**: Auch ohne Rechtsanspruch auf Einbürgerung wäre es willkürlich und rechtsungleich, einen Bewerber, der alle Einbürgerungsvoraussetzungen erfüllt, ohne sachlichen Grund abzuweisen. Bundesstaatliche Kompetenzaufteilung bei der ordentlichen Einbürgerung.
-- **Einschlägig für**: Abs. II.H (Willkür im Einbürgerungsrecht)
+#### BGE 143 V 341 — Gehalt des Grundsatzes von Treu und Glauben
 
----
+**Kernaussage**: Der in Art. 9 BV verankerte Grundsatz von Treu und Glauben statuiert ein Verbot widersprüchlichen Verhaltens und verleiht einer Person Anspruch auf Schutz des berechtigten Vertrauens in behördliche Zusicherungen oder sonstiges, bestimmte Erwartungen begründendes Verhalten der Behörden.
 
-### Weitere Bundesgerichtsentscheide
+**Bedeutung**: Benennt beide Teilgehalte — das Verbot widersprüchlichen Verhaltens und den Vertrauensschutz.
 
-#### [BGE 134 I 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_153) — Verhältnismässigkeit und Willkür (852 Zitate)
-
-- **Thema**: Verhältnismässigkeit / Willkürmassstab / kantonales Recht
-- **Kernaussage**: Ausserhalb von Grundrechtseingriffen (Art. 36 Abs. 3 BV) schreitet das Bundesgericht wegen Verletzung des Verhältnismässigkeitsgebots nur dann ein, wenn die kantonale Anordnung offensichtlich unverhältnismässig ist. Präzisiert den Unterschied zwischen der Verhältnismässigkeitsprüfung bei Grundrechtseingriffen und der Willkürkontrolle bei kantonalrechtlichen Anordnungen.
-- **Einschlägig für**: Abs. II.G (Willkür im Verwaltungsrecht)
+- **OCL**: [BGE 143 V 341, E. 5.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_341#e-5-2-1)
 
 ---
 
-#### [BGE 136 I 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_229) — Prüfungsentscheide und Willkür
+#### BGE 143 V 341 — Die fünf Voraussetzungen des Vertrauensschutzes
 
-- **Thema**: Prüfungsergebnis / Willkür / Ermessenspielraum
-- **Kernaussage**: Ein Prüfungsergebnis kann mit subsidiärer Verfassungsbeschwerde angefochten werden, wenn das Nichtbestehen oder ein Prädikat in Frage steht. Das Bundesgericht übt keine Kognitionsfunktion als Sachrichter aus und greift nur bei offensichtlich unhaltbaren Bewertungen ein. Bei Fachnoten ist dem Prüfungsexperten ein weiter Beurteilungsspielraum zuzugestehen.
-- **Einschlägig für**: Abs. II.D (Prüfungsentscheide)
+**Kernaussage**: Der Vertrauensschutz setzt voraus, dass die Behörde in einer konkreten Situation mit Bezug auf bestimmte Personen gehandelt hat, für die Auskunft zuständig war oder als zuständig betrachtet werden durfte, die Unrichtigkeit nicht ohne weiteres erkennbar war, die Person im Vertrauen darauf nicht ohne Nachteil rückgängig zu machende Dispositionen getroffen hat und die gesetzliche Ordnung seit der Auskunftserteilung keine Änderung erfahren hat.
 
----
+**Bedeutung**: Der massgebliche Fünferkatalog. Die Voraussetzungen sind kumulativ.
 
-#### [BGE 140 III 264](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_264) — Beweiswürdigung und unberechtigte Mitwirkungsverweigerung
-
-- **Thema**: Beweiswürdigung / Mitwirkungspflicht / Willkür
-- **Kernaussage**: Beweiswürdigung bei unberechtigter Verweigerung der Mitwirkung einer Partei. Verbindlichkeit der vorinstanzlichen Beweiswürdigung für das Bundesgericht. Es bestehen keine Vorgaben, welche Schlüsse der Sachrichter aus dem Umstand ziehen soll, dass eine Partei bei der Beweiserhebung unberechtigterweise nicht mitwirkt.
-- **Einschlägig für**: Abs. II.B (Beweiswürdigung)
+- **OCL**: [BGE 143 V 341, E. 5.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_341#e-5-2-1)
 
 ---
 
-#### [BGE 144 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_345) — Unschuldsvermutung vs. Beweiswürdigung
+#### BGE 143 V 341 — Unterlassene Auskunft
 
-- **Thema**: Unschuldsvermutung / Beweiswürdigung / *in dubio pro reo*
-- **Kernaussage**: Der Grundsatz der freien Beweiswürdigung lässt keinen Raum für eine Anwendung der Regel *in dubio pro reo* auf die Sammlung und Sichtung der Beweismittel. Die Unschuldsvermutung kommt erst in einem späteren Stadium zum Tragen.
-- **Einschlägig für**: Abs. II.B (Beweiswürdigung), Abs. II.E (Unschuldsvermutung)
+**Kernaussage**: Der unrichtigen Auskunft gleichgestellt ist die Unterlassung einer behördlichen Auskunft, die gesetzlich vorgeschrieben oder nach den im Einzelfall gegebenen Umständen geboten war.
 
----
+**Bedeutung**: Erweitert den Vertrauensschutz auf das Schweigen der Behörde, wo eine Auskunftspflicht bestand.
 
-#### [BGE 143 IV 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_241) — *In dubio pro duriore* bei Einstellung
-
-- **Thema**: Strafverfahrenseinstellung / *in dubio pro duriore* / Willkür
-- **Kernaussage**: Der Entscheid über die Einstellung eines Strafverfahrens hat sich nach dem Grundsatz *in dubio pro duriore* zu richten. Klärt die Voraussetzungen, unter welchen bei «Aussage gegen Aussage»-Situationen eine Einstellung erlangen darf.
-- **Einschlägig für**: Abs. II.F (Strafverfahren)
+- **OCL**: [BGE 143 V 341, E. 5.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_341#e-5-2-1)
 
 ---
 
-#### [BGE 145 I 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_73) — Rechtsfolgen eines Willkürverstosses (1'757 Zitate)
+#### BGE 150 I 1 (26. Oktober 2023) — Vertrauensschutz und Legalitätsprinzip im Steuerrecht
 
-- **Thema**: Rechtsfolgen / Aufhebung / Kognitionsfunktion
-- **Kernaussage**: Ein Willkürverstoss führt zur Aufhebung des angefochtenen Entscheids. Das Bundesgericht übt keine Kognitionsfunktion als Sachrichter; es setzt nicht den «richtigen» Entscheid anstelle des willkürlichen, sondern hebt diesen auf und weist die Vorinstanz an, einen neuen Entscheid zu fällen.
-- **Einschlägig für**: Abs. VI (Rechtsfolgen eines Willkürverstosses)
+**Kernaussage**: Anders als in anderen Rechtsgebieten steht der Schutz des Vertrauens in eine behördliche Auskunft im Steuerrecht nicht unter der Voraussetzung einer zusätzlichen Interessenabwägung. Sind die Voraussetzungen des Vertrauensschutzes erfüllt, geht er im Steuerrecht dem Legalitätsprinzip vor (Praxispräzisierung).
 
----
+**Bedeutung**: Aktuellste Klärung des Verhältnisses zum Legalitätsprinzip; ausserhalb des Steuerrechts bleibt die Interessenabwägung erforderlich.
 
-#### [BGE 140 I 285](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_285) — Willkür im Verwaltungsrecht (Ermessensmissbrauch) (10'294 Zitate)
-
-- **Thema**: Ermessensüberschreitung / Ermessensmissbrauch / Beschwerdelegitimation
-- **Kernaussage**: Im Verwaltungsrecht unterscheidet das Bundesgericht zwischen Ermessensüberschreitung und Ermessensmissbrauch. Willkür bei der Verwaltung liegt vor, wenn die Behörde ihr Ermessen in krasser Weise zweckentfremdet oder offensichtlich unhaltbar ausübt.
-- **Einschlägig für**: Abs. II.G (Willkür im Verwaltungsrecht)
+- **OCL**: [BGE 150 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_1)
 
 ---
 
-#### [BGE 148 V 390](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_V_390) — Vertrauensschutz im Sozialversicherungsrecht
+## Entfernte Entscheide (Audit vom 11. August 2026)
 
-- **Thema**: Vertrauensschutz / konsistente Praxis / Sozialversicherung
-- **Kernaussage**: Hat eine Versicherung eine bestimmte Rechtsauffassung konsistent vertreten und hat der Versicherte darauf vertraut, so kann die Versicherung nicht einseitig von dieser Praxis abweichen, ohne Übergangsregelung oder Vertrauensschutz zu gewähren.
-- **Einschlägig für**: Abs. III.D (Treu und Glauben im Sozialversicherungsrecht)
+Ausgangslage: 44 beurteilte Paare, davon 5 gestützt (30 %).
 
----
+| Referenz | Befund |
+|---|---|
+| BGE 124 I 199 | existiert nicht |
+| BGE 125 I 392 | existiert nicht |
+| BGE 130 I 268 | existiert nicht |
+| BGE 147 II 161 | existiert nicht |
+| BGE 148 V 390 | existiert nicht |
+| BGE 140 III 16 E. 1.3.1 | Pinpoint existiert nicht (Willkürdefinition steht in E. 2.1) |
+| BGE 146 IV 114 E. 3.2.2 | Pinpoint existiert nicht |
+| BGE 142 I 155 E. 4.2 und E. 2.1 | Pinpoints existieren nicht |
+| BGE 140 III 264 E. 3.2 | Pinpoint existiert nicht |
+| BGE 150 III 1 E. 3.2 | Pinpoint existiert nicht |
+| BGE 127 I 54 E. 3 | Pinpoint existiert nicht |
+| BGE 138 I 305 E. 4 | Pinpoint existiert nicht |
+| BGE 133 II 249 E. 3.2 | Pinpoint existiert nicht |
+| BGE 139 I 16 E. 4.2 | Pinpoint existiert nicht |
+| BGE 134 I 153 | betrifft die Kognition bei der Verhältnismässigkeitsprüfung, nicht die Willkürdefinition |
+| BGE 129 I 8 | trägt die Willkürdefinition in der behaupteten Form nicht |
+| BGE 145 I 73 | trägt die Aussage zu den Rechtsfolgen eines Willkürverstosses nicht |
+| BGE 140 I 285 | trägt die Aussage zur Ermessensüberschreitung nicht |
+| BGE 139 I 16, BGE 135 I 143 | tragen die Aussagen zum Vertrauensschutz im Ausländerrecht nicht |
+| BGE 133 I 206 | trägt die Aussage zum degressiven Steuertarif in dieser Form nicht |
 
-#### [BGE 147 II 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_161) — Vertrauensschutz im Steuerrecht
-
-- **Thema**: Treu und Glauben / Steuerrecht / Zusicherung / Stillhalteversprechen
-- **Kernaussage**: Im Steuerrecht gilt der Grundsatz, dass die Steuerbehörde an ihre Zusicherungen und Auskünfte gebunden ist, sofern der Steuerpflichtige darauf vertraut hat und vertrauen durfte. Ein widerrufliches Stillhalteversprechen kann einen Vertrauenstatbestand schaffen.
-- **Einschlägig für**: Abs. III.E (Treu und Glauben im Steuerrecht)
-
----
-
-#### [BGE 133 II 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_249) — Nachbarbeschwerde und Sachurteilsvoraussetzungen
-
-- **Thema**: Nachbarbeschwerde / Beschwerdelegitimation / Willkür
-- **Kernaussage**: Pflicht des Nachbarn eines Bauprojekts, seine Beschwerdebefugnis darzulegen. Art. 9 BV wird im Kontext der Beschwerdelegitimation und der Pflicht zur Begründung relevant. Der meistzitierte BGE zu Art. 9 BV.
-- **Einschlägig für**: Abs. II.J (Nachbarbeschwerde und Sachurteilsvoraussetzungen)
-
----
-
-#### [BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97) — Rechtliches Gehör und Willkür
-
-- **Thema**: Rechtliches Gehör / Begründungspflicht / Willkür
-- **Kernaussage**: Anspruch auf rechtliches Gehör; Begründungspflicht der entscheidenden Behörde in Bezug auf eine Lehrmeinung. Klärt das Zusammenspiel von Art. 9 BV (Willkür) mit Art. 29 Abs. 2 BV (rechtliches Gehör).
-- **Einschlägig für**: Abs. IV (Verhältnis zu anderen Grundrechten)
-
----
-
-#### [BGE 125 I 392](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_I_392) — Vertrauensschutz bei behördlichen Zusicherungen
-
-- **Thema**: Vertrauensschutz / behördliche Zusicherung / Verwaltungsrecht
-- **Kernaussage**: Eine behördliche Zusicherung begründet einen Vertrauenstatbestand, wenn die Behörde eine bestimmte Rechtsfolge in Aussicht stellt und der Bürger darauf vertraut. Der Vertrauensschutz greift nur, wenn die Zusicherung von einer zuständigen Behörde stammt und inhaltlich hinreichend bestimmt ist.
-- **Einschlägig für**: Abs. III.B (Vertrauensschutz bei behördlichen Zusicherungen)
-
----
-
-#### [BGE 133 V 450](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_V_450) — Behindertengleichstellung und Willkür
-
-- **Thema**: Behindertengleichstellung / Sozialversicherungsleistungen / Willkür
-- **Kernaussage**: Konkretisierung der Anspruchsvoraussetzungen der «lebenspraktischen Begleitung» nach IVG/ATSG unter dem Gesichtspunkt von Art. 8 und Art. 9 BV. Die Versicherung richtet sich nicht willkürlich, wenn sie die Leistung im Rahmen der gesetzlichen Vorgaben einschänkt.
-- **Einschlägig für**: Abs. II.A (Begriff und Massstab)
-
----
-
-#### [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143) — Vertrauensschutz bei Aufenthaltsbewilligung
-
-- **Thema**: Vertrauensschutz / Aufenthaltsrecht / Ausländerrecht
-- **Kernaussage**: Der Vertrauensschutz im Ausländerrecht wird durch öffentliche Interessen an der Aufenthaltsbeendigung beschränkt. Eine ausländische Person kann sich auf Vertrauensschutz berufen, wenn die Behörde eine ausländerrechtliche Bewilligung erteilt hat, der Vertrauensschutz kommt jedoch nicht zum Tragen, wenn die Person von Anfang an wusste, dass die Bewilligung rechtswidrig war.
-- **Einschlägig für**: Abs. III.F (Treu und Glauben im Asyl- und Ausländerrecht)
-
----
-
-### Nicht-publizierte BGer-Entscheide
-
-#### [BGer 1C_619/2025](https://mcp.opencaselaw.ch/entscheid/bge_1C_619_2025) — Willkürkontrolle bei Beförderungsnichtbestätigung
-
-- **Thema**: Willkür / Beförderungsnichtbestätigung / Ermessenspielraum
-- **Kernaussage**: Das Bundesgericht bestätigt einen weiten Ermessenspielraum der zuständigen Autorität bei Beförderungsnichtbestätigungen. Drei negative Evaluationen durch verschiedene Vorgesetzte rechtfertigen die Nichtbestätigung unter Willkürkontrolle (Art. 9 BV). Krankheit verpflichtet nicht zwingend zur Probezeitverlängerung, wenn kantonales Recht flexible Fristen vorsieht.
-- **Einschlägig für**: Abs. II.G (Willkür im Verwaltungsrecht)
-
----
-
-#### [BGer 6B_178/2024](https://mcp.opencaselaw.ch/entscheid/bge_6B_178_2024) — Treu und Glauben im Strassenverkehrsrecht
-
-- **Thema**: Treu und Glauben / Strassenverkehrsrecht / Vertrauensschutz
-- **Kernaussage**: Der Grundsatz von Treu und Glauben (Art. 9 BV) umfasst den Vertrauensschutz. Behörden müssen an ihre Zusicherungen und Zusagen gebunden sein; loyales Verhalten der Verfahrensbeteiligten ist geboten. Im Strassenverkehrsrecht wird der Vertrauensschutz bei behördlichen Massnahmen präzisiert.
-- **Einschlägig für**: Abs. III.A (Allgemeines)
-
----
-
-*Letzte Aktualisierung: 3. Juli 2026*
+**Falsche Link-Präfixe:** `bge_1C_619_2025` und `bge_6B_178_2024`. Beide Entscheide existieren — [BGer 1C_619/2025 vom 29. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_619_2025) und [BGer 6B_178/2024 vom 27. März 2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_178_2024) — tragen als BGer-Urteile aber das Präfix `bger_`. Ein `bge_` vor einer Dossiernummer ist immer falsch: BGE-IDs haben die Form `bge_BGE_140_III_16`. Da den beiden Entscheiden im Text keine geprüfte Aussage zugeordnet war, wurden sie nicht übernommen.

@@ -74,6 +74,12 @@ nächste Lauf genau die Referenzen wieder, die der letzte ausgebaut hat — die 
 über eine Korrektur würde als Fehler gezählt. Neue Protokollüberschriften in dieses
 Muster aufnehmen, nicht die Dokumentation weglassen.
 
+**Ausgebaute Referenzen gehören ausschliesslich in diesen Abschnitt.** Wer sie zusätzlich
+im Fliesstext nennt («die angeführten Entscheide BGE X und BGE Y stützten das nicht»),
+erzeugt dort neue Paare, die Stufe 5 prompt als `unrelated` meldet — der eigene
+Ehrlichkeitsvermerk drückt die Belegquote. Im Fliesstext auf das Protokoll verweisen,
+die Nummern dort führen. Bei BV Art. 9 kostete das drei Paare und neun Prozentpunkte.
+
 ---
 
 ## AUTONOMIE-VERTRAG (verbindlich)
