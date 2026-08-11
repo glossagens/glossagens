@@ -8,3 +8,5 @@ venv/
 .env.save
 __pycache__/
 *.pyc
+
+audit-report.json

@@ -2,101 +2,98 @@
 title: "Art. 5 BV — Grundsätze rechtsstaatlichen Handelns"
 weight: 5
 date: 2026-05-24
-lastmod: 2026-06-20
-description: "Art. 5 BV enthält die vier Grundsätze rechtsstaatlichen Handelns: Legalitätsprinzip (Abs. 1), Verhältnismässigkeitsprinzip (Abs. 2), Treu und Glauben (Abs. 3) und Völkerrechtsfreundlichkeit (Abs. 4)."
-tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht", "Rechtsstaatlichkeit", "Grundsätze"]
+lastmod: 2026-08-11
+description: "Kommentar zu Art. 5 BV — Legalitätsprinzip, öffentliches Interesse und Verhältnismässigkeit, Treu und Glauben, Beachtung des Völkerrechts"
+tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht", "Rechtsstaatlichkeit"]
 agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 12 %, Urteil C): Belegapparat vollständig neu aufgebaut. Sechs der zwölf zitierten Referenzen existierten nicht (BGE 139 I 228, 140 I 192, 142 I 173, 144 I 233, 145 I 139, 145 I 89); die sechs existierenden trugen die ihnen zugeschriebenen Aussagen nicht. Ersetzt durch Entscheide, deren Belegtheit einzeln über check_claim_support geprüft ist."
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 als unbelegt verworfen"
 ---
 
-## Art. 5 BV — Wortlaut
+## Gesetzeswortlaut
 
-> 1 Grundlage und Schranke staatlichen Handelns ist das Recht.
+> **Art. 5 BV — Grundsätze rechtsstaatlichen Handelns**
 >
-> 2 Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
+> ¹ Grundlage und Schranke staatlichen Handelns ist das Recht.
 >
-> 3 Staatliche Organe und Private handeln nach Treu und Glauben.
+> ² Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
 >
-> 4 Bund und Kantone beachten das Völkerrecht.
+> ³ Staatliche Organe und Private handeln nach Treu und Glauben.
+>
+> ⁴ Bund und Kantone beachten das Völkerrecht.
+
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 ## Überblick
 
-Art. 5 BV ist eine der zentralen Bestimmungen der Bundesverfassung. Er enthält vier eigenständige Grundsätze rechtsstaatlichen Handelns, die massgeblich die Dogmatik des Schweizer Staatsrechts prägen:
+Art. 5 BV fasst die vier tragenden Grundsätze rechtsstaatlichen Handelns zusammen: Gesetzmässigkeit (Abs. 1), öffentliches Interesse und Verhältnismässigkeit (Abs. 2), Treu und Glauben (Abs. 3) und Beachtung des Völkerrechts (Abs. 4). Die Bestimmung richtet sich an alle staatlichen Organe von Bund, Kantonen und Gemeinden.
 
-1. **Legalitätsprinzip** (Abs. 1): Grundlage und Schranke staatlichen Handelns ist das Recht.
-2. **Verhältnismässigkeitsprinzip** (Abs. 2): Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
-3. **Treu und Glauben** (Abs. 3): Staatliche Organe und Private handeln nach Treu und Glauben.
-4. **Völkerrechtsfreundlichkeit** (Abs. 4): Bund und Kantone beachten das Völkerrecht.
+Entscheidend für die Praxis ist die **Rechtsnatur** dieser Grundsätze: Sie sind Verfassungs*grundsätze*, nicht Grundrechte. Das hat unmittelbare Folgen für ihre Durchsetzbarkeit vor Bundesgericht (dazu N 3 und N 7).
 
-## I. Legalitätsprinzip (Art. 5 Abs. 1)
+## Abs. 1 — Gesetzmässigkeit staatlichen Handelns
 
-### 1. Bedeutung
+**N 1** Abs. 1 verankert das Legalitätsprinzip als allgemeinen Grundsatz: Staatliches Handeln braucht eine Grundlage im Recht und findet dort zugleich seine Schranke.
 
-Das Legalitätsprinzip ist der Fundamentalgrundsatz des Rechtsstaats: Der Staat darf nur aufgrund und im Rahmen der Gesetze handeln. Es ist sowohl **Grundlage** (Ermächtigung) als auch **Schranke** (Begrenzung) staatlichen Handelns.
+**N 2** Das Legalitätsprinzip war vor der Totalrevision ungeschrieben und ist nun von Art. 5 Abs. 1 BV mitumfasst ([BGE 127 I 60, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_60#e-3)).
 
-### 2. Wesentliche Gehalte
+**N 3** Für die Beschwerdeführung ist die Rechtsnatur massgebend: Das Legalitätsprinzip ist
 
-- **Gesetzmässigkeit der Verwaltung**: Eingriffe in Grundrechte bedürfen einer gesetzlichen Grundlage (BGE 146 I 49 E. 4.2).
-- **Gesetzmässigkeit der Strafbarkeit**: Keine Strafe ohne Gesetz (Art. 9 Abs. 1 BV; nullum crimen, nulla poena sine lege).
-- **Gesetzmässigkeit der Besteuerung**: Keine Steuer ohne Gesetz (BGE 145 I 89 E. 5.2).
-- **Bestimmtheitsgebot**: Gesetzliche Grundlagen müssen hinreichend bestimmt sein (BGE 140 I 192 E. 5.1).
+> «ein Verfassungsgrundsatz, aber – von seiner spezifischen Bedeutung im Abgaberecht abgesehen – kein verfassungsmässiges Individualrecht»
 
-## II. Verhältnismässigkeitsprinzip (Art. 5 Abs. 2)
+([BGE 127 I 60, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_60#e-3)). Es kann daher ausserhalb des Abgaberechts nicht selbständig als verletzt gerügt werden, sondern nur in Verbindung mit einem Grundrecht oder dem Willkürverbot.
 
-### 1. Drei Elemente
+## Abs. 2 — Öffentliches Interesse und Verhältnismässigkeit
 
-Das Verhältnismässigkeitsprinzip verlangt eine **Drei-Stufen-Prüfung**:
+**N 4** Staatliches Handeln muss einem öffentlichen Interesse dienen und verhältnismässig sein. Beide Voraussetzungen müssen kumulativ vorliegen.
 
-1. **Eignung**: Die Massnahme muss geeignet sein, das angestrebte Ziel zu erreichen.
-2. **Erforderlichkeit**: Die Massnahme muss notwendig sein — es darf kein weniger eingreifendes, gleich geeignetes Mittel geben.
-3. **Verhältnismässigkeit im engeren Sinn**: Der Eingriff muss in einem vernünftigen Verhältnis zum angestrebten Zweck stehen (BGE 146 I 49 E. 5.2; BGE 144 I 233 E. 6.3).
+**N 5** Das Bundesgericht umschreibt den Grundsatz der Verhältnismässigkeit dahin, dass er verlangt,
 
-### 2. Öffentliches Interesse
+> «dass eine Massnahme für das Erreichen des im öffentlichen oder privaten Interesse liegenden Ziels geeignet und erforderlich ist und sich für die Betroffenen in Anbetracht der Schwere der Grundrechtseinschränkung als zumutbar erweist»
 
-Staatliches Handeln muss im **öffentlichen Interesse** liegen. Das öffentliche Interesse ist nicht identisch mit dem Staatswohl — es erfordert eine rechtlich anerkannte Gemeinschaftsaufgabe (BGE 140 I 192 E. 5.2).
+([BGE 147 I 450, E. 3.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_450#e-3-2-3)). Die drei Teilgehalte sind damit **Eignung**, **Erforderlichkeit** und **Zumutbarkeit** (Verhältnismässigkeit im engeren Sinn).
 
-### 3. Prüfungsdichte
+**N 6** In die Abwägung fliessen nicht nur die abgewendeten Risiken ein. Auch die negativen gesellschaftlichen und wirtschaftlichen Konsequenzen der Massnahme sind zu berücksichtigen ([BGE 147 I 450, E. 3.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_450#e-3-2-4)). Wo Risiken quantifizierbar sind, ist nicht allein auf worst-case-Szenarien abzustellen, sondern auch deren Wahrscheinlichkeit zu berücksichtigen (ebenda).
 
-Das Bundesgericht übt eine **beschränkte Verhältnismässigkeitskontrolle** aus, wenn der Gesetzgeber über einen weiten Einschätzungsspielraum verfügt (BGE 146 I 49 E. 5.2). Bei schweren Grundrechtseingriffen ist die Kontrolle strenger.
+**N 7** Ausserhalb von Grundrechtseingriffen ist die Kognition des Bundesgerichts eingeschränkt. Bei der Anwendung kantonalen Rechts ausserhalb des Schutzbereichs eines Grundrechts kann eine Intervention gestützt auf Art. 5 Abs. 2 BV nur gerechtfertigt sein, wenn das Verhältnismässigkeitsgebot ganz offensichtlich missachtet worden ist und damit zugleich ein Verstoss gegen das Willkürverbot vorliegt ([BGE 134 I 153, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_153#e-4-2-1)). Innerhalb des Schutzbereichs eines Grundrechts gilt demgegenüber Art. 36 Abs. 3 BV mit freier Prüfung.
 
-## III. Treu und Glauben (Art. 5 Abs. 3)
+## Abs. 3 — Treu und Glauben
 
-### 1. Gegenstand
+**N 8** Abs. 3 verpflichtet staatliche Organe **und** Private zu einem Verhalten nach Treu und Glauben. Die Bestimmung wirkt damit in beide Richtungen; sie begründet auch Obliegenheiten der Privaten gegenüber dem Staat.
 
-Art. 5 Abs. 3 BV verankert den Grundsatz von Treu und Glauben als verfassungsrechtliches Prinzip. Er gilt für **staatliche Organe und Private** in ihren Rechtsbeziehungen.
+**N 9** Der Grundsatz greift im Verfahren: Lädt die für die Einbürgerung zuständige Gemeindebehörde die Bewerber zu einem Gespräch ein, das ausdrücklich dem Kennenlernen und der Erläuterung ihrer Motive dienen soll, und wird bei diesem Gespräch unangekündigt eine Prüfung des Allgemeinwissens durchgeführt, verstösst dies gegen Treu und Glauben und die Fairness im Verfahren ([BGE 140 I 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_99)).
 
-Im Unterschied zu Art. 2 ZGB (der die allgemeine Generalklausel für das Privatrecht darstellt) ist Art. 5 Abs. 3 BV eine **verfassungsrechtliche Gewährleistung**, die auch das Verhältnis des Staates zum Bürger erfasst.
+**N 10** Auch im Strafverfahren ist Art. 5 Abs. 3 BV massgeblich, namentlich für die Frage, wie sich eine beschuldigte Person auf den Anspruch auf einen Verteidiger berufen muss ([BGE 138 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_97)).
 
-### 2. Vertrauensschutz
+**N 11** Vom Grundsatz von Treu und Glauben zu unterscheiden ist der **Vertrauensschutz**, den das Bundesgericht in der Beschwerdepraxis auf Art. 9 BV stützt. Im Steuerrecht steht der Schutz des Vertrauens in eine behördliche Auskunft — anders als in anderen Rechtsgebieten — nicht unter der Voraussetzung einer zusätzlichen Interessenabwägung; sind die Voraussetzungen des Vertrauensschutzes erfüllt, geht er dem Legalitätsprinzip vor (Praxispräzisierung; [BGE 150 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_1)).
 
-Ein zentraler Ausfluss von Treu und Glauben im Staatsrecht ist der **Vertrauensschutz**: Der Bürger darf auf die Rechtmässigkeit staatlichen Handelns vertrauen, und der Staat ist an seine Zusagen gebunden, wenn der Bürger schutzwürdiges Vertrauen in die Beständigkeit einer behördlichen Äusserung oder Praxis gesetzt hat (BGE 145 I 73 E. 8.2).
+## Abs. 4 — Beachtung des Völkerrechts
 
-### 3. Verbot widersprüchlichen Verhaltens
+**N 12** Abs. 4 verpflichtet Bund und Kantone zur Beachtung des Völkerrechts. Das Bundesgericht ist als oberste rechtsprechende Behörde des Bundes zuständig, auch Streitigkeiten wegen Verletzung des Völkerrechts zu beurteilen ([BGE 145 IV 364, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_364#e-3-3)).
 
-Treu und Glauben verbieten dem Staat, sich in Widerspruch zu seinem eigenen früheren Verhalten zu setzen, wenn der Bürger darauf vertraut hat (venire contra factum proprium im öffentlichen Recht; BGE 139 I 228 E. 6.2).
+**N 13** Für das Verhältnis konfligierender Verfassungsnormen gilt der Grundsatz der Gleichwertigkeit: Solange der Verfassungsgeber einer einzelnen Norm nicht ausdrücklich Vorrang einräumt, ist auslegungsmässig grundsätzlich von einer Gleichwertigkeit der Regelungen auszugehen ([BGE 139 I 16, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16#e-4-2-1)).
 
-## IV. Völkerrechtsfreundlichkeit (Art. 5 Abs. 4)
+**N 14** Im Leitentscheid zur Ausschaffungsinitiative hielt das Bundesgericht fest, dass die neuen Verfassungsbestimmungen keinen Vorrang vor den Grundrechten oder den Garantien der EMRK haben ([BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16)).
 
-### 1. Bedeutung
-
-Art. 5 Abs. 4 BV verpflichtet Bund und Kantone, das Völkerrecht zu beachten. Das Völkerrecht ist **massgeblicher Interpretationsmassstab** für die Verfassung und das formelle Gesetz (BGE 139 I 16 E. 5.2).
-
-### 2. Verhältnis Völkerrecht — Landesrecht
-
-Das Bundesgericht wendet völkerrechtliche Verträge **direkt** an, sofern sie selbstvollziehend sind. Bei Konflikten zwischen völkerrechtlichen Verträgen und nachfolgendem Landesrecht gilt der Grundsatz der **Völkervertragsfreundlichkeit** — es wird davon ausgegangen, dass der Schweizer Gesetzgeber völkerrechtswidriges Recht nicht beabsichtigt (BGE 145 I 139 E. 5.3).
-
-## V. Verhältnis zu anderen Verfassungsnormen
+## Verhältnis zu anderen Bestimmungen
 
 | Norm | Verhältnis |
 |---|---|
-| **Art. 9 BV** | Willkürverbot und Rechtssicherheit — konkrete Ausprägungen des Legalitätsprinzips |
-| **Art. 8 BV** | Rechtsgleichheit — ergänzt das Verhältnismässigkeitsprinzip |
-| **Art. 36 BV** | Einschränkung von Grundrechten — muss verhältnismässig sein (Art. 5 Abs. 2) |
-| **Art. 2 ZGB** | Treu und Glauben — privatrechtliche Generalklausel, ergänzt Art. 5 Abs. 3 BV |
-| **Art. 190 BV** | Bundesgesetze sind für das Bundesgericht massgebend — Schranke der Verfassungsgerichtsbarkeit |
+| Art. 9 BV | Willkürverbot und Vertrauensschutz — eigenes verfassungsmässiges Recht; Auffangnorm, wo Art. 5 mangels Grundrechtsqualität nicht selbständig gerügt werden kann |
+| Art. 36 BV | Konkretisiert die Schranken von Art. 5 Abs. 1 und 2 BV für Grundrechtseingriffe; dort volle Kognition statt der Willkürschranke von N 7 |
+| Art. 127 Abs. 1 BV | Legalitätsprinzip im Abgaberecht — dort hat es, anders als nach Art. 5 Abs. 1 BV, den Charakter eines selbständig anrufbaren Rechts |
+| Art. 190 BV | Massgeblichkeit von Bundesgesetzen und Völkerrecht für die rechtsanwendenden Behörden |
 
-## Literatur
+## Audit-Protokoll
 
-- **Biaggini**, BV-Kommentar zu Art. 5 (massgebende Kommentierung)
-- **Rhinelander/Haller**, Schweizerisches Bundesverfassungsrecht, zu Art. 5–7
-- **Müller/Schefer**, Bundesverfassungsrecht, zu Art. 5
-- **Botschaft BV 1997** 139 ff. (Entstehungsgeschichte von Art. 5 BV)
+Der Belegapparat dieses Artikels wurde am 11. August 2026 vollständig ersetzt. Die Erstfassung stützte sich auf zwölf Entscheide, von denen sechs (BGE 139 I 228, 140 I 192, 142 I 173, 144 I 233, 145 I 139, 145 I 89) nach Prüfung über die opencaselaw-Datenbank **nicht existieren**; die sechs existierenden trugen die ihnen zugeschriebenen Aussagen nicht. Sämtliche jetzt zitierten Belege sind einzeln gegen den Entscheidtext geprüft.
+
+Der Kommentar ist bewusst knapp gehalten: Er enthält nur, was sich belegen liess. Ergänzungen sind willkommen — bitte je Aussage mit Fundstelle und Erwägung.

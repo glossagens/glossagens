@@ -40,19 +40,39 @@ content/kommentar/{gesetz}/art-{nr}/
 └── rechtsprechung.md    ← Entscheidblöcke, zwei Bauformen im Bestand
 ```
 
-Der Parser deckt drei Zitierlagen ab — im Bestand kommen alle drei vor:
+Der Parser deckt sechs Zitierlagen ab — im Bestand kommen alle sechs vor:
 
 | Lage | Beispiel | Behauptungssatz |
 |---|---|---|
-| Fliesstext | `… nicht darauf beschränkt ist ([BGE …](url)).` | Satz vor dem Link |
+| Fliesstext, verlinkt | `… nicht darauf beschränkt ist ([BGE …](url)).` | Satz vor dem Link |
+| Fliesstext, unverlinkt | `… bedürfen einer gesetzlichen Grundlage (BGE 146 I 49 E. 4.2).` | Satz vor dem Beleg |
 | OCL-Zeile | `#### 2. BGE 135 I 187, E. 4.1` … `- **OCL**: [id](url)` | `**Kernaussage**` im Block |
-| Link in Überschrift | `### [BGE 146 IV 231](url) (13.7.2020)` | `**Kernaussage**` im Block |
+| Link/Beleg in Überschrift | `### [BGE 146 IV 231](url) (13.7.2020)` | Feld im Block, sonst erster Absatz |
+| Bold-Lead-Absatz | `**BGE 148 I 19** — Leitentscheid zu …` | Satz **nach** dem Beleg |
+| Tabellenzeile | `\| BGE 126 I 68 \| 2000 \| Kernsatz … \|` | längste Zelle ohne den Beleg |
 
-Die Lage «Link in Überschrift» ist der Grund, weshalb der Block als Ganzes nach
-`**Kernaussage**` durchsucht wird und nicht nur rückwärts: dort steht die Aussage **nach**
-dem Beleg. Wird ein Beleg dennoch keinem brauchbaren Satz zugeordnet, meldet Stufe 5
+**Unverlinkte Zitierungen sind der Regelfall, nicht die Ausnahme.** Vor der Erweiterung
+auf `CITE_PLAIN` sah der Parser nur Markdown-Links und meldete für neun von 26
+BV-Artikeln «0 Paare» — ein Freispruch aus Blindheit. Über den BV-Bestand stieg die Zahl
+der Prüfpaare von rund 370 auf 1358.
+
+Als Behauptungssatz eines Entscheidblocks gilt das erste vorhandene Feld in der Rangfolge
+`Kernaussage`/`Kernsatz` → `Regeste` → `Entscheid` → `Bedeutung`. `Sachverhalt` und
+`Rechtsfrage` zählen bewusst nicht: das eine ist Tatsachenschilderung, das andere eine
+Frage. Fehlt jedes Feld, greift der erste substanzielle Absatz des Blocks.
+
+Wird ein Beleg dennoch keinem brauchbaren Satz zugeordnet, meldet Stufe 5
 `claim_nicht_extrahierbar` — ein Parser-, kein Inhaltsbefund. Solche Fälle nie als
 ungestützt werten.
+
+### Audit-Protokolle sind vom Parsing ausgenommen
+
+Ein überarbeiteter Artikel dokumentiert die ausgebauten Falschzitate namentlich. Alles ab
+einer Überschrift `Entfernte Entscheide` / `Entfernte Belege` / `Nicht übernommen` /
+`Audit-Protokoll` wird deshalb nicht als Beleg gelesen. Ohne diese Ausnahme meldet der
+nächste Lauf genau die Referenzen wieder, die der letzte ausgebaut hat — die Transparenz
+über eine Korrektur würde als Fehler gezählt. Neue Protokollüberschriften in dieses
+Muster aufnehmen, nicht die Dokumentation weglassen.
 
 ---
 
@@ -236,15 +256,27 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
 
 ## Referenzläufe (2026-08-11)
 
-| | BV Art. 45 | StPO Art. 429 |
-|---|---|---|
-| Paare | 20 | 31 |
-| Referenzen nicht existent | 12 von 16 | 0 von 13 |
-| Pinpoint-Fehler | 3 | 3 |
-| Grounding | 7× `unrelated` | 22× `yes`, 8× `partial`, 1× `contradicts` |
-| Belegquote | **0 % — C** | **84 % — A** |
+| | BV Art. 45 | StPO Art. 429 | BV Art. 5 vorher | BV Art. 5 nachher |
+|---|---|---|---|---|
+| Paare | 20 | 31 | 28 | 31 |
+| Referenzen nicht existent | 12 von 16 | 0 von 13 | 6 von 12 | 0 |
+| Pinpoint-Fehler | 3 | 3 | 3 | 0 |
+| Grounding | 7× `unrelated` | 22× `yes`, 8× `partial`, 1× `contradicts` | 0× `yes`, 7× `unrelated` | 28× `yes`, 3× `partial` |
+| Belegquote | **0 % — C** | **84 % — A** | **12 % — C** | **95 % — A** |
 
-Beide Artikel trugen `mcp_verified: true`. Zwei Lehren:
+BV Art. 5 zeigt, wie ein C-Artikel zu sanieren ist: Belegapparat verwerfen, Aussagen
+behalten, für jede Aussage einen Beleg suchen und **vor** dem Schreiben einzeln über
+`check_claim_support` prüfen. Die dabei wiederkehrende Beobachtung: ein `partial` heisst
+meist, dass die Paraphrase einen Qualifikator des Gerichts weggelassen hat
+(«in Anbetracht der Schwere der Grundrechtseinschränkung», «verfassungsmässiges
+*Individual*recht»). Wörtlich zitieren macht daraus ein `yes`.
+
+Ebenso wiederkehrend: eine Regeste verweist auf «(E. 4)», aber die Erwägung existiert nur
+als `4.1`/`4.2.1`. `cite` akzeptiert den Abschnittsverweis trotzdem — erst
+`get_erwaegung` deckt auf, dass der Pinpoint ins Leere zeigt. Den echten Pinpoint liefert
+`find_relevant_erwaegung`, nie eine Schätzung.
+
+Art. 45 und Art. 429 trugen beide `mcp_verified: true`. Zwei Lehren:
 
 1. **Stufe 5 ist nicht weglassbar.** Die vier existierenden BV-45-Entscheide bestehen
    Stufe 2 anstandslos — und behandeln SchKG, Dividendenbesteuerung, vorsorgliche

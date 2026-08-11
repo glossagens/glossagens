@@ -44,12 +44,39 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 3
+PARSER_VERSION = 5
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
 CITE_LINK = re.compile(
     r"\[([^\]]*)\]\(https://mcp\.opencaselaw\.ch/entscheid/([^)#\s]+)(#[^)\s]*)?\)"
+)
+# Unverlinkte Zitierungen im Fliesstext. Ein grosser Teil des Bestands zitiert
+# ohne Link (BV Art. 5/8/10/13/16/30/31/32/36 überhaupt nur so); würde der Parser
+# nur CITE_LINK kennen, meldete er für diese Artikel «0 Paare» — ein Freispruch
+# aus Blindheit, nicht aus Belegtheit.
+CITE_PLAIN = re.compile(
+    r"\b(?:BGE\s+\d+\s+[IVX]+[a-z]?\s+\d+"          # BGE 146 I 49
+    r"|\d[A-Z]?_\d+/\d{4}"                          # 1C_123/2020, 6B_1/2019
+    r"|[A-Z]{1,3}-\d+/\d{4})"                       # BVGer A-1234/2019
+)
+ANY_MD_LINK = re.compile(r"\[[^\]]*\]\([^)\s]*\)")
+BLOCK_CLAIM = re.compile(
+    r"\*\*(Kernaussage|Kernsatz|Regeste|Entscheid|Bedeutung|Aussage)\*?\*?:?\*\*?\s*:?\s*(.+)"
+)
+# Welches Feld eines Entscheidblocks die Rechtsbehauptung trägt. `Sachverhalt`
+# und `Rechtsfrage` fehlen bewusst: Sachverhalt ist Tatsachenschilderung,
+# Rechtsfrage eine Frage — beide sind als Behauptungssatz unbrauchbar.
+CLAIM_RANG = {
+    "Kernaussage": 0, "Kernsatz": 0, "Regeste": 1,
+    "Entscheid": 2, "Bedeutung": 3, "Aussage": 3,
+}
+# «**E. 5.1**: <Aussage>» — Pinpoint und die dazu behauptete Aussage in einer Zeile.
+E_CLAIM = re.compile(r"^\s*[-*]?\s*\*\*E\.\s*(\d+(?:\.\d+)*)\*\*\s*:?\s*(.+)$", re.M)
+# Führende Normenkette einer Regeste («Art. 5 Abs. 2, Art. 8, Art. 10 BV.») —
+# als Behauptungssatz wertlos, verwässert aber die Grounding-Prüfung.
+REGESTE_NORMKETTE = re.compile(
+    r"^(?:Art\.\s*[\d\w]+[^.;]*?[.;]\s*)+(?=[A-ZÄÖÜ])"
 )
 # Fedlex setzt Änderungsvermerke mitten in den Normsatz — vor dem Textvergleich raus.
 FEDLEX_FUSSNOTE = re.compile(
@@ -63,6 +90,14 @@ WORTLAUT_HEAD = re.compile(
     re.IGNORECASE,
 )
 QUOTED = re.compile(r"[«\"„]([^«»\"„“]{%d,})[»\"“]" % MIN_QUOTE_LEN)
+# Ein Audit-Protokoll listet die entfernten Falschzitate mit Namen. Ohne diese
+# Ausnahme meldet der nächste Lauf genau die Referenzen wieder, die der letzte
+# ausgebaut hat — die Transparenz über eine Korrektur würde als Fehler gezählt.
+AUSGEBAUT_HEAD = re.compile(
+    r"^#{2,4}\s*(Entfernte Entscheide|Entfernte Belege|Nicht übernommen|"
+    r"Ausgebaute Zitate|Audit-Protokoll)\b",
+    re.IGNORECASE | re.M,
+)
 
 # ---------------------------------------------------------------- MCP
 
@@ -214,12 +249,67 @@ def sentence_before(text, end):
     return strip_md(claim).rstrip(" (").strip()
 
 
+def clean_claim(s):
+    """Listenmarker, Fussnotenzahlen und ein vorangestellter Beleg gehören nicht
+    in den Behauptungssatz, den Stufe 5 dem Entscheid vorhält."""
+    s = strip_md(s or "").strip()
+    s = re.sub(r"^[-*•>\s]+", "", s)
+    s = re.sub(r"^\d{1,3}[.)]?\s+(?=[A-ZÄÖÜ«\"]|In\b|Vgl\b)", "", s)
+    s = re.sub(
+        r"^(?:In|Vgl\.|Siehe|Gemäss|Nach)?\s*" + CITE_PLAIN.pattern
+        + r"[\s,]*(?:E\.\s*[\d.]+)?\s*[—–-]\s*", "", s)
+    return s.strip()
+
+
+def table_claim(line, ref):
+    """Übersichtstabellen (`| BGE 126 I 68 | 2000 | Kernsatz … |`) sind im
+    Bestand verbreitet. Ohne eigene Behandlung reisst die Satzsegmentierung die
+    Zeile nicht auf und der Behauptungssatz wird zur Zeilensuppe aus mehreren
+    Entscheiden — Stufe 5 prüft dann Aussagen, die zu anderen Entscheiden gehören."""
+    zellen = [strip_md(c.strip()) for c in line.strip().strip("|").split("|")]
+    kandidaten = [
+        c for c in zellen
+        if ref not in c and not re.fullmatch(r"\d{4}|[-–—:\s]*", c) and len(c) >= 20
+    ]
+    return max(kandidaten, key=len) if kandidaten else None
+
+
+def sentence_around(text, pos):
+    """Satz, in dem der Beleg selbst steht — für die Zitierlagen, in denen die
+    Behauptung dem Beleg **folgt** (`**BGE 148 I 19** — Leitentscheid zu …`,
+    `In BGE 148 I 33 entschied das Bundesgericht …`). Ohne das liefert
+    `sentence_before` dort «In» oder «🔗»."""
+    start = text.rfind("\n\n", 0, pos) + 2
+    end = text.find("\n\n", pos)
+    para = text[start : end if end != -1 else len(text)]
+    rel = pos - start
+    parts, acc = re.split(r"(?<=[.!?:])\s+(?=[A-ZÄÖÜ«\"*])", para), 0
+    for i, p in enumerate(parts):
+        if acc + len(p) >= rel:
+            claim = " ".join(parts[i : i + 2])
+            break
+        acc += len(p) + 1
+    else:
+        claim = para
+    claim = strip_md(claim)
+    # Führenden Beleg abschneiden: «BGE 148 I 19 — Leitentscheid …» → «Leitentscheid …»
+    claim = re.sub(r"^(?:In|Vgl\.|Siehe|Gemäss|Nach)?\s*" + CITE_PLAIN.pattern
+                   + r"[\s,]*(?:E\.\s*[\d.]+)?\s*[—–-]?\s*", "", claim).strip()
+    return claim
+
+
 def parse_file(path, rel):
     """Ein Markdown-File → (units, quotes). Deckt beide Zitierlagen ab:
     Fliesstext-Links im Kommentar und OCL-Blöcke in rechtsprechung.md."""
     text = open(path, encoding="utf-8").read()
     body = text.split("---", 2)[2] if text.startswith("---") else text
     offset = len(text) - len(body)
+
+    # Audit-Protokoll am Dateiende: alles ab dieser Überschrift zählt nicht als
+    # Beleg, sondern dokumentiert ausgebaute Belege.
+    ab = AUSGEBAUT_HEAD.search(body)
+    if ab:
+        body = body[: ab.start()]
 
     # Blockgrenzen für rechtsprechung.md. Der Beleg steht je nach Bestand in der
     # Überschrift (### [BGE …](url)) oder in einer - **OCL**-Zeile darunter; die
@@ -235,25 +325,69 @@ def parse_file(path, rel):
                 return (start, h) if start is not None else None
         return (start, len(body)) if start is not None else None
 
+    def block_claim(blk):
+        """Behauptungssatz eines Entscheidblocks: Kernaussage/Regeste/Bedeutung."""
+        if not blk:
+            return None
+        seg = body[blk[0] : blk[1]]
+        best, best_rang = None, 99
+        for bm in BLOCK_CLAIM.finditer(seg):
+            rang = CLAIM_RANG[bm.group(1)]
+            if rang >= best_rang:
+                continue
+            txt = strip_md(bm.group(2).strip())
+            if bm.group(1) == "Regeste":
+                rest = REGESTE_NORMKETTE.sub("", txt)
+                if len(rest) >= 40:
+                    txt = rest
+            best, best_rang = txt, rang
+        return best
+
+    def block_fallback(blk):
+        """Kein benanntes Feld im Block — erster substanzieller Absatz unter der
+        Überschrift. Ohne das liefert `sentence_before` bei einem Beleg in der
+        Überschrift die Überschrift selbst («###») und Stufe 5 meldet einen
+        Parser-Artefakt als fehlenden Behauptungssatz."""
+        if not blk:
+            return None
+        seg = body[blk[0] : blk[1]].split("\n", 1)
+        for para in (seg[1] if len(seg) > 1 else "").split("\n\n"):
+            p = strip_md(para.strip())
+            p = re.sub(r"^(Sachverhalt|Rechtsfrage|Ausgangslage|Hinweis)\s*:\s*", "", p)
+            if len(p) >= 40 and not p.startswith(("|", "-", "*", "#")):
+                return p
+        return None
+
+    def line_at(pos):
+        line_start = body.rfind("\n", 0, pos) + 1
+        end = body.find("\n", pos)
+        return body[line_start : end if end != -1 else len(body)]
+
+    def lineno(pos):
+        return body.count("\n", 0, pos) + text[:offset].count("\n") + 1
+
     units = []
     for m in CITE_LINK.finditer(body):
         label, decision_id, anchor = m.group(1), m.group(2), m.group(3)
-        line_start = body.rfind("\n", 0, m.start()) + 1
-        line = body[line_start : body.find("\n", m.end())]
+        line = line_at(m.start())
 
         pin, claim = None, None
         blk = block_of(m.start())
         in_heading = line.lstrip().startswith("#")
-        if blk and (in_heading or "**OCL**" in line):
-            seg = body[blk[0] : blk[1]]
-            km = re.search(r"\*\*Kernaussage\*\*:\s*(.+)", seg)
-            if km:
-                claim = strip_md(km.group(1).strip())
-            pm = PINPOINT.search(seg.split("\n", 1)[0])   # Pinpoint aus der Überschrift
+        # «🔗 [BGE …](url)» als eigene Zeile: der Beleg steht für den ganzen
+        # Block, nicht für den Satz davor — sonst wird «🔗» der Behauptungssatz.
+        nur_link = ANY_MD_LINK.sub("", line).strip(" 🔗-*—–>|") == ""
+        if blk and (in_heading or nur_link or "**OCL**" in line):
+            claim = block_claim(blk) or block_fallback(blk)
+            pm = PINPOINT.search(body[blk[0] : blk[1]].split("\n", 1)[0])
             if pm:
                 pin = pm.group(1)
+        if claim is None and line.lstrip().startswith("|"):
+            claim = table_claim(line, ref_from_id(decision_id))
         if claim is None:
             claim = sentence_before(body, m.start())
+        if len(claim) < 25:
+            claim = sentence_around(body, m.start()) or claim
         if pin is None and anchor:
             # URL-Anker codiert den Pinpoint: #e-2-1-1 → 2.1.1
             am = re.match(r"#e-([\d-]+)$", anchor)
@@ -266,17 +400,93 @@ def parse_file(path, rel):
             if pm:
                 pin = pm.group(1)
 
+        claim = clean_claim(claim)
         units.append(
             {
                 "file": rel,
-                "line": body.count("\n", 0, m.start()) + text[:offset].count("\n") + 1,
+                "line": lineno(m.start()),
                 "decision_id": decision_id,
                 "reference": ref_from_id(decision_id),
                 "pinpoint": pin,
                 "claim": claim,
                 "claim_id": hashlib.sha256(norm(claim).encode()).hexdigest()[:12],
+                "zitierlage": "link",
             }
         )
+
+    # ---- Unverlinkte Zitierungen. Spans der Markdown-Links ausnehmen, sonst
+    # zählt jede verlinkte Referenz ein zweites Mal (der Linktext nennt sie).
+    link_spans = [(m.start(), m.end()) for m in ANY_MD_LINK.finditer(body)]
+
+    def in_link(pos):
+        return any(a <= pos < b for a, b in link_spans)
+
+    def add_plain(ref, pos, pin, claim):
+        claim = clean_claim(claim)
+        units.append(
+            {
+                "file": rel,
+                "line": lineno(pos),
+                "decision_id": None,
+                "reference": ref,
+                "pinpoint": pin,
+                "claim": claim,
+                "claim_id": hashlib.sha256(norm(claim).encode()).hexdigest()[:12],
+                "zitierlage": "plain",
+            }
+        )
+
+    seen_e_claims = set()
+    for m in CITE_PLAIN.finditer(body):
+        if in_link(m.start()):
+            continue
+        ref = re.sub(r"\s+", " ", m.group(0)).strip()
+        line = line_at(m.start())
+        blk = block_of(m.start())
+
+        if line.lstrip().startswith("#"):
+            # Entscheidblock: die Überschrift nennt den Entscheid, die Aussagen
+            # stehen darunter. Jede «**E. X.Y**»-Zeile ist ein eigenes Paar —
+            # nur so wird der Pinpoint gegen die dort behauptete Aussage geprüft.
+            seg = body[blk[0] : blk[1]] if blk else ""
+            got_e = False
+            for em in E_CLAIM.finditer(seg):
+                key = (ref, em.group(1), blk[0] if blk else 0)
+                if key in seen_e_claims:
+                    continue
+                seen_e_claims.add(key)
+                got_e = True
+                add_plain(ref, blk[0] + em.start(), em.group(1),
+                          strip_md(em.group(2).strip()))
+            bc = block_claim(blk) or block_fallback(blk)
+            if bc or not got_e:
+                pm = PINPOINT.search(line)
+                pin = pm.group(1) if pm else None
+                if pin is None:
+                    # Steht der Beleg unverlinkt in der Überschrift und der
+                    # Pinpoint nur im OCL-Link darunter, gehört er trotzdem zu
+                    # diesem Paar — sonst prüft Stufe 5 gegen die Regeste und
+                    # meldet `unrelated` für eine korrekt belegte Erwägung.
+                    for lm in CITE_LINK.finditer(seg):
+                        if ref_from_id(lm.group(2)) != ref or not lm.group(3):
+                            continue
+                        am = re.match(r"#e-([\d-]+)$", lm.group(3))
+                        if am:
+                            pin = am.group(1).replace("-", ".")
+                            break
+                add_plain(ref, m.start(), pin, bc)
+            continue
+
+        # Fliesstext: «… (BGE 146 I 49 E. 4.2).» — Pinpoint direkt dahinter.
+        tail = body[m.end() : m.end() + 40]
+        pm = re.match(r"\s*,?\s*(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)", tail)
+        if line.lstrip().startswith("|"):
+            claim = table_claim(line, ref) or sentence_before(body, m.start())
+        else:
+            claim = sentence_before(body, m.start())
+            if len(claim) < 25:  # Beleg steht vor der Aussage, nicht dahinter
+                claim = sentence_around(body, m.start()) or claim
+        add_plain(ref, m.start(), pm.group(1) if pm else None, claim)
 
     # Verbatim-Zitate: nächstgelegener Beleg im selben Absatz
     wortlaut = extract_wortlaut(text)
@@ -285,13 +495,15 @@ def parse_file(path, rel):
         q = strip_md(m.group(1))
         if len(q) < MIN_QUOTE_LEN or norm(q) in norm(wortlaut):
             continue   # Gesetzeswortlaut prüft Stufe 1
-        near = [u for u in units if abs(u["line"] - (body.count("\n", 0, m.start()) + 1)) <= 6]
+        near = [u for u in units if abs(u["line"] - lineno(m.start())) <= 6]
         quotes.append(
             {
                 "file": rel,
-                "line": body.count("\n", 0, m.start()) + text[:offset].count("\n") + 1,
+                "line": lineno(m.start()),
                 "quote": q,
-                "sources": [u["decision_id"] for u in near] or None,
+                # Unverlinkte Belege tragen keine decision_id — Referenz genügt,
+                # stufe4 löst sie ohnehin über `ref_from_id` auf.
+                "sources": [u["decision_id"] or u["reference"] for u in near] or None,
             }
         )
     return units, quotes, wortlaut
