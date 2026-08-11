@@ -10,21 +10,21 @@ agent_verified: false
 
 ## I. Schutz der Unversehrtheit (Abs. 1)
 
-### [BGE 135 I 143](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_135_I_143), E. 4–5
+### [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143), E. 4–5
 - **Thema**: Gesteigerter Kindesschutz bei Sexualdelikten; Altersgrenze des Schutzbereichs
 - **Kernaussage**: Art. 11 BV verpflichtet den Staat zu einem gesteigerten Schutz von Kindern und Jugendlichen vor sexueller Ausbeutung. Der Schutzbereich erstreckt sich auf alle Personen bis zum vollendeten 18. Lebensjahr. Der besondere Schutzbedarf ist bei jüngeren Kindern besonders ausgeprägt.
 - **Einschlägig für**: Art. 11 Abs. 1 BV (Unversehrtheitsschutz), Art. 187 StGB (Sexuelle Handlungen mit Kindern)
 
 ---
 
-### [BGE 134 I 347](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_I_347), E. 4.1–4.2
+### [BGE 134 I 347](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_347), E. 4.1–4.2
 - **Thema**: Anhörungsrecht urteilsfähiger Kinder; Urteilsfähigkeit im Grundrechtskontext
 - **Kernaussage**: Kinder üben ihre Grundrechte im Rahmen ihrer Urteilsfähigkeit aus (Art. 11 Abs. 2 BV). Das Anhörungsrecht richtet sich nicht nach starren Altersgrenzen, sondern nach der konkreten Einsichtsfähigkeit des Kindes in Bezug auf das betroffene Grundrecht. Ein 12-jähriges Kind ist in der Regel anzuhören, wenn es um die Zuweisung des Elternsorgerechts geht.
 - **Einschlägig für**: Art. 11 Abs. 2 BV (Urteilsfähigkeit), Art. 29 Abs. 2 BV (Gehör)
 
 ---
 
-### [BGE 141 V 557](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_141_V_557), E. 5
+### [BGE 141 V 557](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_557), E. 5
 - **Thema**: Drittwirkung des Kindesschutzes im Sozialversicherungsrecht
 - **Kernaussage**: Die Grundrechte (insbesondere Art. 11 und Art. 27 BV) müssen bei der Ausgestaltung des Sozialversicherungssystems zur Geltung kommen. Der Kindesschutz wirkt über die Drittwirkung (Art. 35 Abs. 3 BV) auch im Verhältnis zwischen Privaten.
 - **Einschlägig für**: Art. 11 Abs. 1 BV, Art. 35 Abs. 3 BV (Drittwirkung)
