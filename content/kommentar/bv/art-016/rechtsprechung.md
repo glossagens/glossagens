@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 16 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-11
 description: "Uebersicht der Leitentscheide zu Art. 16 BV — Meinungs- und Informationsfreiheit."
 tags: ["Rechtsprechung", "BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit"]
 agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Keine erfundene Referenz. Pinpoints korrigiert, Aussagen an den Wortlaut der Erwägungen angeglichen. Erstmals revisions-Block gesetzt."
+  - date: 2026-06-20
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block"
 ---
 
 ## Rechtsprechung zu Art. 16 BV — Meinungs- und Informationsfreiheit
@@ -80,7 +91,7 @@ agent_verified: false
 
 - Auf den Inhalt einer Meinungsäusserung kommt es grundsätzlich nicht an. Auch inhaltlich provozierende oder schockierende Äusserungen verdienen grundrechtlichen Schutz (BGE 138 I 274, E. 2.2.1).
 
-- Ein generelles Verbot von Plakaten mit aussenpolitischen Themen ist nicht zulässig (BGE 138 I 274, E. 3.4).
+- Ein generelles Verbot von Plakaten mit aussenpolitischen Themen ist nicht zulässig ([BGE 138 I 274, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_274#e-3-4-1)).
 
 ---
 
@@ -292,7 +303,7 @@ agent_verified: false
 
 **Sachverhalt**: Das Obergericht des Kantons Zürich schloss im Berufungsverfahren gegen eine wegen versuchten Tötung verurteilte Beschuldigte sämtliche akkreditierten Gerichtsberichterstatterinnen und -erstatter von der Berufungsverhandlung und der Urteilseröffnung aus, um die Privatkläger — insbesondere die minderjährigen Kinder — vor Retraumatisierung zu schützen.
 
-**Leitsatz**: Die rechtsstaatliche und demokratische Bedeutung des Grundsatzes der Justizöffentlichkeit gebietet, einen Ausschluss des Publikums und der Medienschaffenden in gerichtlichen Strafverfahren nur sehr restriktiv, mithin bei überwiegenden entgegenstehenden Interessen, zuzulassen (BGE 143 I 194, E. 3.1). Zur Wahrung gewichtiger Anliegen des Kinder-, Jugend- oder Opferschutzes kommt eine Zugangsverweigerung nur dann in Frage, wenn sich weniger weitgehende Einschränkungen als zweckuntauglich erweisen; sie ist auf diejenigen Verfahrensabschnitte zu beschränken, in denen schwergewichtig besonders sensible Umstände thematisiert werden (BGE 143 I 194, E. 3.6.1). Im konkreten Fall verletzte der vollständige Ausschluss der Medien den Grundsatz der Justizöffentlichkeit und die Medien- und Informationsfreiheit (BGE 143 I 194, E. 3.6 und 3.7).
+**Leitsatz**: Die rechtsstaatliche und demokratische Bedeutung des Grundsatzes der Justizöffentlichkeit gebietet, einen Ausschluss des Publikums und der Medienschaffenden in gerichtlichen Strafverfahren nur sehr restriktiv, mithin bei überwiegenden entgegenstehenden Interessen, zuzulassen (BGE 143 I 194, E. 3.1). Zur Wahrung gewichtiger Anliegen des Kinder-, Jugend- oder Opferschutzes kommt eine Zugangsverweigerung nur dann in Frage, wenn sich weniger weitgehende Einschränkungen als zweckuntauglich erweisen; sie ist auf diejenigen Verfahrensabschnitte zu beschränken, in denen schwergewichtig besonders sensible Umstände thematisiert werden ([BGE 143 I 194, E. 3.6.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_194#e-3-6-1)). Im konkreten Fall verletzte der vollständige Ausschluss der Medien den Grundsatz der Justizöffentlichkeit und die Medien- und Informationsfreiheit ([BGE 143 I 194, E. 3.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_194#e-3-7)).
 
 **Bedeutung**: Leitentscheid zur Verhältnismässigkeit des Medienausschlusses bei Strafverfahren. Ein vollständiger Ausschluss für das gesamte Verfahren ist grundsätzlich unverhältnismässig; weniger weitgehende Massnahmen wie Auflagen oder Teilausschlüsse sind vorzuziehen.
 
@@ -316,7 +327,7 @@ agent_verified: false
 
 **Sachverhalt**: Mehrere Personen verlangten von ihren Fernmeldedienstanbietern die Löschung der gemäss Art. 15 Abs. 3 BÜPF gespeicherten Verkehrs- und Rechnungsdaten sowie die künftige Unterlassung der Speicherung, soweit die Daten nicht für die Vertragserfüllung erforderlich seien.
 
-**Leitsatz**: Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellen einen Eingriff in die Grundrechte der Betroffenen dar, insbesondere in das Recht auf Achtung des Privatlebens, das den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4). Die Intensität dieses Grundrechtseingriffs ist jedoch zu relativieren: Die gespeicherten Daten betreffen nicht den Inhalt der Kommunikation und werden von den Fernmeldeunternehmen weder gesichtet noch miteinander verknüpft (BGE 144 I 126, E. 5). Die sechsmonatige Aufbewahrungsdauer ist unter den gegebenen datenschutzrechtlichen Garantien verhältnismässig (BGE 144 I 126, E. 8).
+**Leitsatz**: Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellen einen Eingriff in die Grundrechte der Betroffenen dar, insbesondere in das Recht auf Achtung des Privatlebens, das den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4). Die Intensität dieses Grundrechtseingriffs ist jedoch zu relativieren: Die gespeicherten Daten betreffen nicht den Inhalt der Kommunikation und werden von den Fernmeldeunternehmen weder gesichtet noch miteinander verknüpft ([BGE 144 I 126, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126#e-5-4)). Die sechsmonatige Aufbewahrungsdauer ist unter den gegebenen datenschutzrechtlichen Garantien verhältnismässig (BGE 144 I 126, E. 8).
 
 **Bedeutung**: Wichtiger Entscheid zur Verfassungs- und EMRK-Konformität der Vorratsdatenspeicherung. Das Bundesgericht relativiert die Eingriffsintensität im Vergleich zur inhaltlichen Kommunikationserfassung und bejaht die Verhältnismässigkeit unter der Voraussetzung wirksamer Datenschutzgarantien.
 
@@ -328,7 +339,7 @@ agent_verified: false
 
 **Sachverhalt**: Ein Bundeshausredaktor begehrte von der Eidgenössischen Steuerverwaltung (ESTV) Einsicht in die nach Ländern aufgegliederte Amtshilfestatistik im Steuerbereich. Die ESTV verweigerte den Zugang unter Berufung auf aussenpolitische Interessen und internationale Beziehungen der Schweiz.
 
-**Leitsatz**: Gemäss dem Öffentlichkeitsgesetz des Bundes besteht ein subjektiver Anspruch auf Zugang zu den amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen (BGE 142 II 313, E. 3). Das Verhältnis des Transparenzgebots zu besonderen Vertraulichkeitsregeln lässt sich nicht generell festlegen, sondern ist von Fall zu Fall zu ermitteln. Abzuwägen sind die sich gegenüberstehenden Interessen im Einzelfall (BGE 142 II 313, E. 3.6).
+**Leitsatz**: Gemäss dem Öffentlichkeitsgesetz des Bundes besteht ein subjektiver Anspruch auf Zugang zu den amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen ([BGE 142 II 313, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_313#e-3-2)). Das Verhältnis des Transparenzgebots zu besonderen Vertraulichkeitsregeln lässt sich nicht generell festlegen, sondern ist von Fall zu Fall zu ermitteln. Abzuwägen sind die sich gegenüberstehenden Interessen im Einzelfall (BGE 142 II 313, E. 3.6).
 
 **Bedeutung**: Leitentscheid zur Tragweite des Öffentlichkeitsgesetzes im Spannungsfeld zwischen Transparenzgebot und aussenpolitischen Geheimhaltungsinteressen. Klarstellung, dass die Informationsfreiheit über das BGÖ einen gerichtlich durchsetzbaren subjektiven Anspruch auf Zugang zu amtlichen Dokumenten begründet.
 
@@ -381,3 +392,32 @@ agent_verified: false
 | BGE 142 II 313 | 2016 | BGÖ / Amtshilfestatistik | Subjektiver Anspruch auf Zugang zu amtlichen Dokumenten nach BGÖ |
 | BGE 130 I 388 | 2004 | Journalist / Davos-Zugang | Kein gerichtlicher Rechtsschutz gegen polizeiliche Realakte |
 | BGE 138 II 346 | 2012 | Google Street View | Persönlichkeitsschutz bei Publikation von Personendaten im Internet |
+
+---
+
+## Audit-Protokoll (11. August 2026)
+
+Ausgangslage: 178 beurteilte Paare, davon 99 gestützt und 54 teilweise — **71 %, Urteil B** und damit der beste Ausgangswert der bisherigen BV-Kampagne. **Keine erfundene Referenz.**
+
+### Korrigierte Pinpoints
+
+| vorher | nachher | Grund |
+|---|---|---|
+| BGE 143 I 194 E. 3.6 | E. 3.7 | E. 3.6 existiert nicht; nur 3.6.1–3.6.3 und 3.7 |
+| BGE 142 II 313 E. 3 | E. 3.2 | E. 3 existiert nicht; nur 3.1–3.6 |
+| BGE 138 I 274 E. 3.4 | E. 3.4.1 | E. 3.4 existiert nicht; nur 3.4.1 ff. |
+| BGE 144 I 126 E. 5 | E. 5.4 | E. 5 existiert nicht; nur 5.1–5.5 |
+
+Sämtliche vier Fehler folgen demselben Muster wie bei Art. 13 BV: Ein Verweis auf «(E. 3)» oder «(E. 3.6)» bezeichnet einen **Abschnitt** der Regeste, keine zitierbare Erwägung. `cite` akzeptiert ihn anstandslos, `get_erwaegung` findet ihn nicht.
+
+Eine Fundstelle lautete «E. 3.6 und 3.7» — auch hier greift der Fehler, weil die erste Zahl als Pinpoint gelesen wird und für sich allein nicht existiert.
+
+### An den Wortlaut angeglichene Aussagen
+
+| Stelle | Befund |
+|---|---|
+| BGE 151 I 257 E. 3.1, BGE 143 I 147 E. 3.1 | Der Kommentar behauptete, die Rechtsprechung *lege Art. 16 BV unter Heranziehung von Art. 10 EMRK aus* — eine methodische Aussage. Die Erwägungen sagen etwas anderes und Konkreteres: Art. 16 BV und Art. 10 EMRK gewährleisten die Meinungsfreiheit gemeinsam und räumen jeder Person das Recht ein, ihre Meinung frei zu bilden, zu äussern und zu verbreiten. Die Stellen führen jetzt den Wortlaut. |
+
+### Bewertung
+
+Der Artikel ist inhaltlich der solideste des bisherigen Durchgangs. Die verbleibenden `partial`-Befunde beruhen überwiegend darauf, dass Leitsätze mehrere Erwägungen zusammenfassen; sie sind keine Fehlzuordnungen.

@@ -2,10 +2,21 @@
 title: "Art. 16 — Meinungs- und Informationsfreiheit"
 weight: 16
 date: 2026-05-17
-lastmod: 2026-06-20
+lastmod: 2026-08-11
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-11
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 71 %, Urteil B — bester Ausgangswert der BV-Kampagne): Keine erfundene Referenz. Vier tote Pinpoints korrigiert (durchwegs Abschnittszeiger statt Erwägung), mehrere Aussagen an den Wortlaut der Erwägung angeglichen. Erstmals revisions-Block gesetzt; agent_verified von true auf false."
+  - date: 2026-06-20
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 ## Art. 16 BV — Meinungs- und Informationsfreiheit
@@ -30,7 +41,7 @@ Die Forderung nach Freiheit der Rede und Meinungsäusserung lässt sich ideenges
 
 #### 1. Verhältnis zu Art. 10 EMRK
 
-Art. 16 BV ist eng mit Art. 10 EMRK verzahnt. Art. 10 EMRK gewährleistet die Meinungsfreiheit umfassend und schliesst die Freiheit ein, Informationen und Ideen ohne behördliche Eingriffe zu empfangen und weiterzugeben. Die Rechtsprechung legt Art. 16 BV unter Heranziehung von Art. 10 EMRK aus (vgl. BGE 151 I 257, E. 3.1; BGE 143 I 147, E. 3.1). Der EMRK-Mindeststandard ist dabei stets gewahrt; das BV geht in einzelnen Punkten -- etwa hinsichtlich des ausdrücklichen Zensurverbots -- über die EMRK hinaus.
+Art. 16 BV ist eng mit Art. 10 EMRK verzahnt. Art. 10 EMRK gewährleistet die Meinungsfreiheit umfassend und schliesst die Freiheit ein, Informationen und Ideen ohne behördliche Eingriffe zu empfangen und weiterzugeben. Art. 16 BV und Art. 10 EMRK gewährleisten die Meinungsfreiheit ausdrücklich und räumen jeder Person das Recht ein, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten ([BGE 151 I 257, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_I_257#e-3-1)). Der EMRK-Mindeststandard ist dabei stets gewahrt; das BV geht in einzelnen Punkten -- etwa hinsichtlich des ausdrücklichen Zensurverbots -- über die EMRK hinaus.
 
 #### 2. Verhältnis zur Versammlungsfreiheit (Art. 22 BV) und zur Medienfreiheit (Art. 17 BV)
 
@@ -38,7 +49,7 @@ Meinungs- und Informationsfreiheit, Versammlungsfreiheit und Medienfreiheit bild
 
 #### 3. Verhältnis zu Art. 21 UNO-Pakt II
 
-Art. 16 BV wird ergänzt durch Art. 21 UNO-Pakt II (SR 0.103.2), der die Meinungsäusserungsfreiheit völkerrechtlich absichert. Das Bundesgericht zieht diesen Bezug regelmässig heran (vgl. BGE 143 I 147, E. 3.1).
+Art. 16 BV wird ergänzt durch Art. 21 UNO-Pakt II (SR 0.103.2), der die Meinungsäusserungsfreiheit völkerrechtlich absichert. Das Bundesgericht führt die drei Garantien gemeinsam an: Jede Person hat das Recht, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten (Art. 16 Abs. 1 und 2 BV; Art. 10 EMRK sowie Art. 21 UNO-Pakt II) ([BGE 143 I 147, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_147#e-3-1)).
 
 ### IV. Personeller Schutzbereich
 
@@ -73,13 +84,13 @@ Abs. 3 gewährleistet das Recht, Informationen frei zu empfangen, aus allgemein 
 
 Der Begriff der "allgemein zugänglichen Quellen" ist weit zu verstehen und umfasst Quellen, die grundsätzlich für jedermann zugänglich sind. Archivierte Akten während der Schutzfrist gehören jedoch nicht zu den allgemein zugänglichen Quellen im Sinne von Art. 16 Abs. 3 BV (BGE 127 I 145, E. 4c und 4d). Die Informationsfreiheit begründet nach der Rechtsprechung einen Anspruch auf Akteneinsicht ausserhalb eines Verfahrens unter bestimmten Voraussetzungen (vgl. BGE 129 I 249). Ein zentraler Anwendungsfall betrifft den Zugang zu Verwaltungsakten und amtlichen Informationen (vgl. BGE 144 I 170: Zugang zu Unterlagen der IV-Stelle betreffend externe medizinische Gutachten).
 
-Der Grundsatz der Justizöffentlichkeit konkretisiert die Informationsfreiheit im Bereich gerichtlicher Verfahren (BGE 137 I 16, E. 2.2). Der verfassungsrechtliche Anspruch auf Kenntnisnahme von Urteilen erstreckt sich grundsätzlich auf das ganze Urteil mit Sachverhalt, rechtlichen Erwägungen und Dispositiv, eingeschlossen den Spruchkörper (BGE 139 I 129, E. 3.6). Ein vollständiger Ausschluss der Medien von einer Berufungsverhandlung verstösst gegen den Grundsatz der Justizöffentlichkeit und die Medien- und Informationsfreiheit; weniger weitgehende Massnahmen wie Auflagen oder Teilausschlüsse sind vorzuziehen (BGE 143 I 194, E. 3.6 und 3.7).
+Der Grundsatz der Justizöffentlichkeit konkretisiert die Informationsfreiheit im Bereich gerichtlicher Verfahren (BGE 137 I 16, E. 2.2). Der verfassungsrechtliche Anspruch auf Kenntnisnahme von Urteilen erstreckt sich grundsätzlich auf das ganze Urteil mit Sachverhalt, rechtlichen Erwägungen und Dispositiv, eingeschlossen den Spruchkörper (BGE 139 I 129, E. 3.6). Ein vollständiger Ausschluss der Medien von einer Berufungsverhandlung verstösst gegen den Grundsatz der Justizöffentlichkeit und die Medien- und Informationsfreiheit; weniger weitgehende Massnahmen wie Auflagen oder Teilausschlüsse sind vorzuziehen ([BGE 143 I 194, E. 3.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_194#e-3-7)).
 
-Das Öffentlichkeitsgesetz des Bundes (BGÖ) begründet einen gerichtlich durchsetzbaren subjektiven Anspruch auf Zugang zu amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen (BGE 142 II 313, E. 3). Das Verhältnis des Transparenzgebots zu besonderen Vertraulichkeitsregeln lässt sich nicht generell festlegen, sondern ist von Fall zu Fall zu ermitteln.
+Das Öffentlichkeitsgesetz des Bundes (BGÖ) begründet einen gerichtlich durchsetzbaren subjektiven Anspruch auf Zugang zu amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen ([BGE 142 II 313, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_313#e-3-2)). Das Verhältnis des Transparenzgebots zu besonderen Vertraulichkeitsregeln lässt sich nicht generell festlegen, sondern ist von Fall zu Fall zu ermitteln.
 
 #### 3. Zensurverbot
 
-Obwohl Art. 16 BV -- anders als Art. 5 Abs. 1 GG -- kein ausdrückliches Zensurverbot enthält, wird ein solches aus dem Grundrechtsschutzgehalt abgeleitet. Ein generelles Verbot von Plakaten mit bestimmten Inhalts -- etwa zu aussenpolitischen Themen -- ist unzulässig (BGE 138 I 274, E. 3.4). Das Zensurverbot bedeutet, dass behördliche Vorab-Kontrolle von Meinungsäusserungen grundsätzlich untersagt ist; zulässig sind hingegen nachträgliche Sanktionen bei Rechtsmissbrauch oder Verletzung kollidierender Rechtsgüter.
+Obwohl Art. 16 BV -- anders als Art. 5 Abs. 1 GG -- kein ausdrückliches Zensurverbot enthält, wird ein solches aus dem Grundrechtsschutzgehalt abgeleitet. Ein generelles Verbot von Plakaten mit bestimmten Inhalts -- etwa zu aussenpolitischen Themen -- ist unzulässig ([BGE 138 I 274, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_274#e-3-4-1)). Das Zensurverbot bedeutet, dass behördliche Vorab-Kontrolle von Meinungsäusserungen grundsätzlich untersagt ist; zulässig sind hingegen nachträgliche Sanktionen bei Rechtsmissbrauch oder Verletzung kollidierender Rechtsgüter.
 
 ### VI. Einschränkungen (Art. 36 BV)
 
@@ -125,7 +136,7 @@ Die Meinungs- und Informationsfreiheit (Art. 16 BV) wird durch die Medienfreihei
 
 ### X. Informationelles Selbstbestimmungsrecht und digitale Meinungsäusserung
 
-Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellt einen Eingriff in die Grundrechte der Betroffenen dar, insbesondere in das Recht auf Achtung des Privatlebens, das den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4). Die Intensität dieses Grundrechtseingriffs ist jedoch zu relativieren: Die gespeicherten Daten betreffen nicht den Inhalt der Kommunikation und werden von den Fernmeldeunternehmen weder gesichtet noch miteinander verknüpft (BGE 144 I 126, E. 5). Die sechsmonatige Aufbewahrungsdauer ist unter den gegebenen datenschutzrechtlichen Garantien verhältnismässig (BGE 144 I 126, E. 8).
+Die Speicherung und Aufbewahrung von Randdaten der Telekommunikation stellt einen Eingriff in die Grundrechte der Betroffenen dar, insbesondere in das Recht auf Achtung des Privatlebens, das den Anspruch auf informationelle Selbstbestimmung miteinschliesst (BGE 144 I 126, E. 4). Die Intensität dieses Grundrechtseingriffs ist jedoch zu relativieren: Die gespeicherten Daten betreffen nicht den Inhalt der Kommunikation und werden von den Fernmeldeunternehmen weder gesichtet noch miteinander verknüpft ([BGE 144 I 126, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126#e-5-4)). Die sechsmonatige Aufbewahrungsdauer ist unter den gegebenen datenschutzrechtlichen Garantien verhältnismässig (BGE 144 I 126, E. 8).
 
 Im digitalen Raum ist die Publikation von Personendaten auch bei öffentlich zugänglichen Orten dem Persönlichkeitsschutz unterworfen. Bilder von Privatbereichen wie umfriedeten Höfen und Gärten, die dem Einblick eines gewöhnlichen Passanten verschlossen bleiben, dürfen ohne Zustimmung der Betroffenen grundsätzlich nicht veröffentlicht werden, soweit sie von einer Kamerahöhe von über 2 m aufgenommen wurden (BGE 138 II 346, E. 10.7). Bei sensiblen Einrichtungen ist vor der Aufschaltung im Internet die vollständige Anonymisierung von Personen und Kennzeichen vorzunehmen (BGE 138 II 346, E. 10.6.4).
 
