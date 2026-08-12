@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 32 BV — Strafverfahrensgarantien"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-12
+lastmod: 2026-08-12
 description: "Übersicht der wichtigen Entscheide zu Art. 32 BV: Unschuldsvermutung, in dubio pro reo, Selbstbelastungsprivileg, Verteidigungsrechte, ne bis in idem, Rechtsmittelgarantie."
 tags: ["Rechtsprechung", "BV", "Unschuldsvermutung", "in dubio pro reo", "nemo tenetur", "ne bis in idem", "Strafverfahren"]
 agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Belege gegen die Entscheidtexte geprüft; Fehlzuordnungen im Kommentartext korrigiert. Erstmals revisions-Block gesetzt."
+  - date: 2026-06-12
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block"
 ---
 
 Zurück zum Kommentar: [Art. 32 BV — Strafverfahrensgarantien](./)
@@ -71,3 +82,39 @@ Zurück zum Kommentar: [Art. 32 BV — Strafverfahrensgarantien](./)
 || Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
 | BGer 6B_1005/2024 | 2026 | **Präzisierung:** Doppeltes Pflichtverteidiger-Versagen (Fristversäumnis + unterbliebene Wiederherstellung) ist dem Beschuldigten nicht zurechenbar; Vorinstanz muss Ausnahmevoraussetzungen von Amtes wegen prüfen | E. 3–4 |
+---
+
+## Audit-Protokoll (12. August 2026)
+
+Ausgangslage: 40 beurteilte Paare, davon 23 gestützt und 12 teilweise — 72 %, Urteil B. **Keine erfundene Referenz.**
+
+### Vertauschte Zuordnung
+
+Der auffälligste Befund betrifft zwei Entscheide, die miteinander vertauscht waren:
+
+| Aussage | zitiert war | tatsächlich |
+|---|---|---|
+| «Die amtliche Verteidigung erfüllt eine staatliche Aufgabe» | BGE 129 I 129 (nebst BGE 141 I 124 E. 3.1) | **BGE 141 I 124 E. 4.1** — «Nicht in den Geltungsbereich von Art. 27 BV fällt indessen die eigentliche Tätigkeit als amtlicher (unentgeltlicher) Verteidiger, weil es sich dabei um eine staatliche Aufgabe des betroffenen Rechtsanwalts handelt» |
+| Zurechnung des Anwaltsverschuldens an die beschuldigte Person | BGE 141 I 124 E. 3.1 | trägt der Entscheid nicht; er betrifft die Entschädigung der amtlichen Verteidigung |
+
+Der Kommentar hatte also den richtigen Entscheid im Haus und dem falschen Satz zugeordnet.
+
+### Tote Pinpoints
+
+Fünf, durchwegs Abschnittszeiger statt zitierbarer Erwägungen:
+
+| Referenz | vorhanden |
+|---|---|
+| BGer 6B_1005/2024 E. 3–4 | der Entscheid hat nur E. 1 und E. 2 |
+| BGE 148 IV 205 E. 2.8 | nur 2.8.1–2.8.3 |
+| BGE 139 I 72 E. 2 und E. 4 | nur 2.1/2.2 bzw. 4.1–4.6.3 |
+| BGE 134 I 140 E. 4 | nur 4.1–4.4 |
+
+### Entfernte Belege
+
+| Aussage | zugeschriebener Beleg | Befund |
+|---|---|---|
+| Die Unschuldsvermutung gilt bis zur rechtskräftigen Verurteilung | BGE 127 I 38 E. 2a, BGE 144 IV 345 E. 2.2.3 | Beide behandeln die Kognition bzw. die Tragweite der in-dubio-Regel, nicht die zeitliche Geltung |
+| Begründungslose steuerliche Aufrechnungen lassen sich nicht mit der Unschuldsvermutung begründen | BGE 144 II 427 E. 4 | Der Entscheid behandelt Aufrechnungen und Beweislast, trifft aber keine Aussage zur Unschuldsvermutung |
+
+Die Aussagen bleiben im Text, ohne Fundstelle.

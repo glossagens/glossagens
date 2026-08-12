@@ -2,10 +2,21 @@
 title: "Art. 32 BV — Strafverfahrensgarantien"
 weight: 32
 date: 2026-05-23
-lastmod: 2026-06-12
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 32 BV: Unschuldsvermutung, Verteidigungsrechte, Selbstbelastungsprivileg, Rechtsmittelgarantie im Strafverfahren."
 tags: ["BV", "Grundrechte", "Unschuldsvermutung", "Strafverfahren", "Verteidigungsrechte", "in dubio pro reo", "nemo tenetur", "ne bis in idem"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 72 %, Urteil B): Keine erfundene Referenz. Fünf tote Pinpoints (durchwegs Abschnittszeiger) entfernt. BGE 141 I 124 war doppelt fehlzugeordnet: Die Aussage zur staatlichen Aufgabe der amtlichen Verteidigung steht dort in E. 4.1 und war BGE 129 I 129 zugeschrieben, während BGE 141 I 124 für das Anwaltsverschulden angeführt war. Erstmals revisions-Block; agent_verified von true auf false."
+  - date: 2026-06-12
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 ## Gesetzeswortlaut
@@ -30,7 +41,7 @@ agent_verified: true
 
 ### I. Unschuldsvermutung (Abs. 1)
 
-**4** **Rechtliche Bedeutung.** Die Unschuldsvermutung ist sowohl Beweislast- als auch Beweiswürdigungsregel: Die Anklagebehörde trägt die Beweislast für die Schuld; bleiben Zweifel bestehen, ist im Zweifel für den Angeklagten zu entscheiden (*in dubio pro reo*). Die Unschuldsvermutung gilt bis zur rechtskräftigen Verurteilung (BGE 127 I 38 E. 2a; BGE 144 IV 345 E. 2.2.3).
+**4** **Rechtliche Bedeutung.** Die Unschuldsvermutung ist sowohl Beweislast- als auch Beweiswürdigungsregel: Die Anklagebehörde trägt die Beweislast für die Schuld; bleiben Zweifel bestehen, ist im Zweifel für den Angeklagten zu entscheiden (*in dubio pro reo*). Die Unschuldsvermutung gilt bis zur rechtskräftigen Verurteilung.
 
 **5** **Abgrenzung in dubio pro reo.** Das *in dubio pro reo*-Prinzip ist eine Ausprägung der Unschuldsvermutung im Bereich der Beweiswürdigung. Es greift erst ein, wenn nach abgeschlossener Beweiswürdigung vernünftige, nicht eliminierbare Zweifel an der Schuld des Angeklagten bestehen. Es gilt nicht im Beweiswürdigungsprozess selbst, d.h. bei der Sammlung und Sichtung der Beweise (BGE 144 IV 345 E. 2.2.3.1). Nur das Übergehen offensichtlich erheblicher Zweifel kann eine Verletzung des *in-dubio-pro-reo*-Grundsatzes begründen (BGE 144 IV 345 E. 2.2.3.3; 6B 369/2011 E. 1.1).
 
@@ -46,7 +57,7 @@ agent_verified: true
 
 **10** **Allgemeiner Geltungsbereich.** Das Selbstbelastungsprivileg (*nemo tenetur se ipsum accusare*) hat allgemeinen Geltungsbereich. Es schützt beschuldigte Personen davor, aktiv zu ihrer eigenen Überführung beitragen zu müssen. Es kann jedoch weder als Grundlage für ein Recht auf Anonymität verstanden werden noch vermag es die Weigerung der Bekanntgabe der Personalien zu rechtfertigen (BGE 149 IV 9 E. 5.1 und 5.2).
 
-**11** **Beweisverwertungsverbot.** Werden beschuldigte Personen von einem verdeckten Ermittler durch übermässige Druckausübung und unter Umgehung der Selbstbelastungsfreiheit zu selbstbelastenden Aussagen veranlasst, sind diese absolut unverwertbar im Sinne von Art. 141 Abs. 1 StPO (BGE 148 IV 205 E. 2.8). Das Verwertungsverbot erstreckt sich auf alle aus der Aussage gewonnenen Folgerungen («Früchte des vergifteten Baumes»), soweit diese nicht unabhängig davon erhärtet wurden.
+**11** **Beweisverwertungsverbot.** Werden beschuldigte Personen von einem verdeckten Ermittler durch übermässige Druckausübung und unter Umgehung der Selbstbelastungsfreiheit zu selbstbelastenden Aussagen veranlasst, sind diese absolut unverwertbar im Sinne von Art. 141 Abs. 1 StPO (BGE 148 IV 205). Das Verwertungsverbot erstreckt sich auf alle aus der Aussage gewonnenen Folgerungen («Früchte des vergifteten Baumes»), soweit diese nicht unabhängig davon erhärtet wurden.
 
 ### III. Verteidigungsrechte (Abs. 2)
 
@@ -54,11 +65,11 @@ agent_verified: true
 
 **13** **Fragerecht gegenüber Belastungszeugen.** Der Anspruch, dem Belastungszeugen Fragen stellen zu können, ist absolut, wenn das Zeugnis für den Schuldspruch ausschlaggebend ist. Wird dieser Anspruch verletzt, weil der Zeuge jegliche ergänzende Aussage verweigert und das Gericht gleichwohl auf die erste, beweismässig entscheidende Aussage abstellt, liegt eine Verletzung von Art. 6 Ziff. 3 lit. d EMRK und Art. 32 Abs. 2 BV vor (BGE 131 I 476 E. 2.2 und 2.3.4; 6P.191/2006 E. 2.3).
 
-**14** **Recht auf wirksame Verteidigung.** Das Recht auf wirksame Verteidigung umfasst das Recht, mit rechtzeitig und formgültig angebotenen Beweisanträgen gehört zu werden (6P.96/2005 E. 2). Die amtliche Verteidigung erfüllt eine staatliche Aufgabe; ein verfassungsrechtlicher Anspruch auf unentgeltlichen Rechtsbeistand besteht nur, soweit es zur Wahrung der Rechte notwendig ist (BGE 141 I 124 E. 3.1; BGE 129 I 129 E. 2.2.2). Pauschalhonorare für amtliche Verteidiger sind grundsätzlich zulässig (BGE 141 I 124 E. 4.2).
+**14** **Recht auf wirksame Verteidigung.** Das Recht auf wirksame Verteidigung umfasst das Recht, mit rechtzeitig und formgültig angebotenen Beweisanträgen gehört zu werden (6P.96/2005 E. 2). Die eigentliche Tätigkeit als amtlicher (unentgeltlicher) Verteidiger fällt nicht in den Geltungsbereich von Art. 27 BV, weil es sich dabei um eine staatliche Aufgabe des betroffenen Rechtsanwalts handelt ([BGE 141 I 124, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_124#e-4-1)). Ein verfassungsrechtlicher Anspruch auf unentgeltlichen Rechtsbeistand besteht nur, soweit es zur Wahrung der Rechte notwendig ist (BGE 129 I 129 E. 2.2.2). Pauschalhonorare für amtliche Verteidiger sind grundsätzlich zulässig (BGE 141 I 124 E. 4.2).
 
 **15** **Reformatio in peius.** Das Verbot der *reformatio in peius* ergänzt den Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) und das Recht auf ein faires Verfahren (Art. 6 EMRK) sowie die Verteidigungsrechte (Art. 32 BV) im Strafverfahren (6P.98/2005 E. 4.1).
 
-**15a** **Zurechnung des Anwaltsverschuldens.** Grundsätzlich sind Versäumnisse des gewählten oder amtlichen Verteidigers der beschuldigten Person zuzurechnen (BGE 141 I 124 E. 3.1). Das Bundesgericht hat jedoch in [BGer 6B_1005/2024, E. 3–4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1005_2024) eine Ausnahme präzisiert: Versäumt der Pflichtverteidiger nicht nur eine Frist, sondern beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person **nicht** zurechenbar. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. Diese Präzisierung erweitert die bisherige Praxis, die eine Ausnahme nur bei qualifizierter Unrichtigkeit oder grober Fahrlässigkeit des Verteidigers bejahte, auf den Fall des völligen Unterlassens der Wiederherstellung (→ auch [StPO Art. 94](../../stpo/art-094/) und [StPO Art. 399](../../stpo/art-399/)).
+**15a** **Zurechnung des Anwaltsverschuldens.** Grundsätzlich sind Versäumnisse des gewählten oder amtlichen Verteidigers der beschuldigten Person zuzurechnen. Das Bundesgericht hat jedoch in [BGer 6B_1005/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_1005_2024) eine Ausnahme präzisiert: Versäumt der Pflichtverteidiger nicht nur eine Frist, sondern beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person **nicht** zurechenbar. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen. Diese Präzisierung erweitert die bisherige Praxis, die eine Ausnahme nur bei qualifizierter Unrichtigkeit oder grober Fahrlässigkeit des Verteidigers bejahte, auf den Fall des völligen Unterlassens der Wiederherstellung (→ auch [StPO Art. 94](../../stpo/art-094/) und [StPO Art. 399](../../stpo/art-399/)).
 
 ### IV. Unmittelbarkeitsgrundsatz und Beweiswürdigung
 
@@ -74,9 +85,9 @@ agent_verified: true
 
 ### VI. Faires Verfahren / EMRK Art. 6 i.V.m. Art. 32 BV
 
-**20** **Strafrechtsähnliche Sanktionen.** Kartellrechtliche Sanktionen nach Art. 49a KG haben einen strafrechtlichen bzw. strafrechtsähnlichen Charakter. Die Garantien von Art. 6 und 7 EMRK sowie Art. 30 und 32 BV sind bei solchen Sanktionen anwendbar (BGE 139 I 72 E. 2). Die Anforderungen von Art. 6 EMRK können auch erst im Verwaltungsgerichtsverfahren erfüllt werden (BGE 139 I 72 E. 4).
+**20** **Strafrechtsähnliche Sanktionen.** Kartellrechtliche Sanktionen nach Art. 49a KG haben einen strafrechtlichen bzw. strafrechtsähnlichen Charakter. Die Garantien von Art. 6 und 7 EMRK sowie Art. 30 und 32 BV sind bei solchen Sanktionen anwendbar (BGE 139 I 72). Die Anforderungen von Art. 6 EMRK können auch erst im Verwaltungsgerichtsverfahren erfüllt werden (BGE 139 I 72).
 
-**21** **Gewaltschutzmassnahmen.** Schutzmassnahmen gegen häusliche Gewalt (Rayon- und Kontaktverbot) fallen nicht unter den Begriff der strafrechtlichen Anklage i.S.v. Art. 6 EMRK (BGE 134 I 140 E. 4). Der gute Ruf stellt jedoch ein *civil right* dar und fällt in den Schutzbereich von Art. 6 Ziff. 1 EMRK (BGE 134 I 140 E. 5.2).
+**21** **Gewaltschutzmassnahmen.** Schutzmassnahmen gegen häusliche Gewalt (Rayon- und Kontaktverbot) fallen nicht unter den Begriff der strafrechtlichen Anklage i.S.v. Art. 6 EMRK (BGE 134 I 140). Der gute Ruf stellt jedoch ein *civil right* dar und fällt in den Schutzbereich von Art. 6 Ziff. 1 EMRK (BGE 134 I 140 E. 5.2).
 
 **22** **Anklageprinzip.** Die Anforderungen an die Anklageschrift hinsichtlich örtlicher Konkretisierung und Angabe der nach Auffassung der Staatsanwaltschaft anwendbaren Gesetzesbestimmungen sind Ausfluss des Anklageprinzips und mithin der Verteidigungsrechte nach Art. 32 Abs. 2 BV (BGE 143 IV 63 E. 2.2 und 2.3).
 
@@ -84,7 +95,7 @@ agent_verified: true
 
 **23** **Überprüfungsrecht.** Jede verurteilte Person hat das Recht, das Urteil von einem höheren Gericht überprüfen zu lassen. Dies korrespondiert mit Art. 7 ZP-EMRK. Ausgenommen sind die Fälle, in denen das Bundesgericht als einzige Instanz urteilt (z.B. Ministerialklagen nach Art. 112a BGG).
 
-**24** **Steuerrechtliche Aufrechnungen.** Im Steuerrecht können begründungslose Aufrechnungen der steuerbaren Einkünfte nicht mit der Unschuldsvermutung begründet werden, da es sich um eine Schätzung und nicht um eine Strafbusse handelt (BGE 144 II 427 E. 4). Die Unschuldsvermutung gilt nur im Strafverfahren, nicht im Veranlagungsverfahren.
+**24** **Steuerrechtliche Aufrechnungen.** Im Steuerrecht können begründungslose Aufrechnungen der steuerbaren Einkünfte nicht mit der Unschuldsvermutung begründet werden, da es sich um eine Schätzung und nicht um eine Strafbusse handelt . Die Unschuldsvermutung gilt nur im Strafverfahren, nicht im Veranlagungsverfahren.
 
 ## Querverweise
 
