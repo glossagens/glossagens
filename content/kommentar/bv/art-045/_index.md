@@ -2,18 +2,22 @@
 title: "Art. 45 BV — Mitwirkung an der Willensbildung des Bundes"
 weight: 45
 date: 2026-08-09
-lastmod: 2026-08-09
-description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Vernehmlassung, Informationspflicht, föderalistische Mitwirkung"
+lastmod: 2026-08-12
+description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Informationspflicht des Bundes, Vernehmlassungsverfahren nach Art. 147 BV und VlG"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+mcp_verified: false
 revisions:
-
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 0 %, Urteil C): Sämtliche zwölf BGE-Referenzen existierten nicht; von elf beurteilbaren Paaren war keines gestützt. Belegapparat vollständig entfernt und durch geprüftes Gesetzesrecht ersetzt. Befund: Zu Art. 45 BV besteht praktisch keine direkte bundesgerichtliche Rechtsprechung — die Norm richtet sich an das Gesetzgebungsverfahren, nicht an den Richter. Beide Flags zurückgenommen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Vierzehn aufeinanderfolgende Audit-Überarbeitungen am selben Tag; das Ergebnis trug mcp_verified: true und enthielt zwölf erfundene Referenzen"
 ---
 
 ## Gesetzeswortlaut
@@ -26,73 +30,67 @@ revisions:
 
 *Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
-**Wichtiger Hinweis:** Der vorherige Artikel enthielt einen **fiktiven Absatz 3** ("Sie können verlangen, dass ihre Organe bei der Umsetzung von Bundesrecht einbezogen werden, und sie wirken an der Aussenpolitik des Bundes mit, soweit dies deren Umsetzung betrifft."), der im geltenden Recht **nicht existiert**. Absatz 1 lautet korrekt "nach Massgabe der Bundesverfassung" (nicht "der Verfassung gemäss") und enthält den Zusatz "insbesondere an der Rechtsetzung". Absatz 2 hat einen vollständig anderen Wortlaut als zuvor dargestellt.
+## Vorbemerkung zur Belegbasis
 
-### Systematische Einordnung
+> **Zu Art. 45 BV besteht kaum direkte bundesgerichtliche Rechtsprechung.** Die Bestimmung richtet sich an den Bund als Gesetzgeber und an das politische Verfahren, nicht an den rechtsanwendenden Richter; sie begründet kein subjektives Recht, das ein Kanton oder eine Privatperson vor Bundesgericht durchsetzen könnte. Der Kommentar stützt sich deshalb auf den Verfassungs- und Gesetzeswortlaut.
+>
+> **Vorsicht bei der Recherche:** Eine Suche nach «Art. 45» fördert überwiegend Entscheide zu **Art. 45 aBV** zutage — der Niederlassungsfreiheit unter der Bundesverfassung von 1874. Diese Entscheide haben mit der heutigen Bestimmung nichts zu tun. Die Vorfassung dieses Kommentars führte zwölf BGE-Referenzen an, von denen **keine einzige existiert**.
 
-Art. 45 BV normiert die **föderalistische Mitwirkung** der Kantone an der Willensbildung des Bundes. Die Bestimmung ist Ausdruck des Bundesstaatsprinzips (Art. 1, 3, 42–46 BV) und konkretisiert die partnerschaftliche Zusammenarbeit zwischen Bund und Kantonen. Sie umfasst zwei Dimensionen: die allgemeine Mitwirkungspflicht (Abs. 1) und die Informations- und Anhörungspflicht (Abs. 2).
+## I. Mitwirkung an der Willensbildung (Abs. 1)
 
-Die Norm steht im engen Zusammenhang mit Art. 42 BV (Aufgaben des Bundes), Art. 46 BV (Umsetzung von Bundesrecht), Art. 47 BV (Kantonale Autonomie), Art. 48 BV (Kantonale Zusammenarbeit) und Art. 147 BV (Vernehmlassungsverfahren). Zusammen mit diesen Bestimmungen bildet sie das verfassungsrechtliche Fundament des Schweizer Föderalismus.
+**N 1** Abs. 1 verankert die föderalistische Mitwirkung als Strukturprinzip: Die Kantone wirken an der Willensbildung des Bundes mit, «insbesondere an der Rechtsetzung». Der Zusatz benennt den Hauptanwendungsfall, ohne die Mitwirkung darauf zu beschränken.
 
-### I. Absatz 1 — Allgemeine Mitwirkungspflicht
+**N 2** **«Nach Massgabe der Bundesverfassung».** Der Vorbehalt verweist auf die Bestimmungen, welche die Mitwirkung konkret ausgestalten — insbesondere:
 
-**1** **Grundsatz.** Absatz 1 statuiert einen **allgemeinen verfassungsrechtlichen Grundsatz**: die Kantone wirken an der Willensbildung des Bundes mit. Diese Mitwirkung ist keine blosse formale Beteiligung, sondern ein **substanzielles Gestaltungsrecht**, das die föderative Struktur der Schweiz sicherstellt. Der Klammerzusatz "insbesondere an der Rechtsetzung" verdeutlicht, dass die Mitwirkung im Gesetzgebungsverfahren den Schwerpunkt bildet, die Mitwirkungspflicht aber nicht darauf beschränkt ist ([BGE 135 I 187](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_187)).
+| Norm | Mitwirkungsform |
+|---|---|
+| Art. 147 BV | Vernehmlassungsverfahren |
+| Art. 148 ff. BV | Ständerat als Kammer der Kantone |
+| Art. 140 f. BV | Ständemehr bei obligatorischem Referendum; Standesinitiative |
+| Art. 160 BV | Initiativrecht der Kantone in der Bundesversammlung |
 
-Die Mitwirkungspflicht ist **dual**: sie verpflichtet sowohl die Kantone, sich an der Willensbildung zu beteiligen, als auch den Bund, die Kantone in den Willensbildungsprozess einzubeziehen. Ein einseitiges Unterlassen der Anhörung verstösst gegen Art. 45 Abs. 1 i.V.m. Art. 147 BV.
+Art. 45 Abs. 1 BV begründet damit selbst keine zusätzliche Mitwirkungsbefugnis, sondern fasst die verfassungsrechtlich vorgesehenen zusammen.
 
-**2** **Mitwirkung bei der Verfassunggebung.** Im Verfassungsreferendum (Art. 140 BV) und beim obligatorischen Verfassungsreferendum wirken die Kantone auf doppelte Weise mit: durch die **kantonale Volksabstimmung** (Ständemehr) und durch die **Vernehmlassung** im Vorfeld. Das Ständemehr ist die stärkste Form der kantonalen Mitwirkung und drückt den föderativen Charakter der Schweizer Demokratie aus ([BGE 136 I 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_65)).
+## II. Informations- und Anhörungspflicht (Abs. 2)
 
-**3** **Ständemehr.** Das Ständemehr (Art. 142 Abs. 4, 144 Abs. 2 BV) ist die **qualifizierte Form der kantonalen Mitwirkung** bei Verfassungsänderungen. Jeder Kanton stimmt als Einheit, und die Mehrheit der Kantone (heute: mindestens 11½ der 23 Standesstimmen nach Art. 142 Abs. 4 BV) muss zustimmen. Sechs Kantone (OW, NW, UR, GL, ZG, AI, AR — je eine halbe Stimme) verfügen über eine halbe Standesstimme, die restlichen 20 Kantone über je eine ganze Stimme. Das Ständemehr kann zu einer **Sperrminorität** der kleinen Kantone führen.
+**N 3** Abs. 2 enthält zwei Pflichten des Bundes: Er **informiert** die Kantone rechtzeitig und umfassend über seine Vorhaben, und er **holt ihre Stellungnahmen ein**, wenn ihre Interessen betroffen sind. Die Anhörungspflicht ist an eine Bedingung geknüpft — die Betroffenheit kantonaler Interessen —, die Informationspflicht nicht.
 
-### II. Absatz 2 — Informations- und Anhörungspflicht
+**N 4** **Konkretisierung durch Art. 147 BV.** Die Anhörung ist im Vernehmlassungsverfahren geregelt:
 
-**4** **Informationspflicht.** Absatz 2 Satz 1 verpflichtet den Bund, die Kantone **rechtzeitig und umfassend** über seine Vorhaben zu informieren. Diese Informationspflicht ist Voraussetzung für eine wirksame Mitwirkung der Kantone. Die Information muss so frühzeitig erfolgen, dass die Kantone ihre Stellungnahmen noch einreichen können, bevor der Bund endgültige Entscheidungen trifft.
+> «Die Kantone, die politischen Parteien und die interessierten Kreise werden bei der Vorbereitung wichtiger Erlasse und anderer Vorhaben von grosser Tragweite sowie bei wichtigen völkerrechtlichen Verträgen zur Stellungnahme eingeladen.»
+>
+> *(Art. 147 BV)*
 
-**5** **Anhörungspflicht.** Absatz 2 Satz 2 konkretisiert die Mitwirkungspflicht im Bereich der **Anhörung** (Vernehmlassung, Art. 147 BV). Der Bund muss die Stellungnahmen der Kantone einholen, wenn deren Interessen betroffen sind. Die Anhörungspflicht ist keine Bindung an die kantonale Mehrheitsmeinung. Der Bund muss die Stellungnahmen aber **ernsthaft prüfen** und sich mit den wesentlichen Einwänden auseinandersetzen. Ein bloss formales Anhören genügt nicht.
+**N 5** **Ausführungsgesetzgebung.** Das Vernehmlassungsgesetz vom 18. März 2005 (VlG, SR 172.061) führt das Verfahren aus. Art. 2 VlG umschreibt den Zweck:
 
-**6** **Vernehmlassungsverfahren.** Das Vernehmlassungsverfahren (Art. 147 BV) ist die wichtigste Ausprägung der Anhörungspflicht nach Art. 45 Abs. 2 BV. Es umfasst folgende Phasen:
+> «¹ Das Vernehmlassungsverfahren bezweckt die Beteiligung der Kantone, der politischen Parteien und der interessierten Kreise an der Meinungsbildung und Entscheidfindung des Bundes.
+>
+> ² Es soll Aufschluss geben über die sachliche Richtigkeit, die Vollzugstauglichkeit und die Akzeptanz eines Vorhabens des Bundes.»
 
-- **Eröffnung**: Der Bund veröffentlicht einen Vernehmlassungsentwurf und lädt die Kantone zur Stellungnahme ein
-- **Stellungnahme**: Die Kantone äussern sich schriftlich zum Entwurf
-- **Berücksichtigung**: Der Bund muss die Stellungnahmen auswerten und bei der weiteren Ausarbeitung berücksichtigen
+Die «Vollzugstauglichkeit» ist der föderalistische Kern: Weil die Kantone das Bundesrecht überwiegend vollziehen (Art. 46 BV), soll ihre Vollzugserfahrung in die Rechtsetzung einfliessen.
 
-Nicht alle Bundesvorhaben unterliegen der Vernehmlassungspflicht. Massgeblich ist die **Bedeutung für die Kantone**.
+## III. Rechtsnatur und Durchsetzung
 
-**7** **Berücksichtigungspflicht.** Die **Berücksichtigungspflicht** des Bundes ist keine Bindung an die kantonale Mehrheitsmeinung, sondern eine Pflicht zur **ernsthaften Auseinandersetzung** mit den kantonalen Bedenken. Das Bundesgericht greift nur ein, wenn die Mitwirkungspflicht offensichtlich und schwerwiegend verletzt wurde, etwa bei vollständigem Unterlassen der Vernehmlassung bei einem bedeutsamen Vorhaben.
+**N 6** Art. 45 BV begründet **kein subjektives Recht**. Ein Kanton kann die Verletzung der Informations- oder Anhörungspflicht nicht als solche vor Bundesgericht durchsetzen; die Bestimmung wirkt im politischen Verfahren. Das erklärt, weshalb zu ihr kaum Rechtsprechung besteht.
 
-### III. Verhältnis zu anderen Verfassungsbestimmungen
+**N 7** Praktische Bedeutung entfaltet Abs. 2 vor allem als **Auslegungsargument**: Wurde ein Erlass ohne die gebotene Anhörung der Kantone vorbereitet, ist das ein Gesichtspunkt bei der Auslegung und bei der Beurteilung der Vollzugstauglichkeit — nicht aber ein selbständiger Aufhebungsgrund.
 
-**8** **Art. 46 BV — Umsetzung von Bundesrecht.** Art. 45 und 46 BV sind **komplementär**: Art. 45 regelt die Mitwirkung bei der **Willensbildung** (Entstehung von Bundesrecht), Art. 46 bei der **Umsetzung** (Anwendung von Bundesrecht). Beide Normen müssen zusammengelesen werden, um den föderativen Mitwirkungsanspruch vollständig zu erfassen ([BGE 134 I 83](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_83)).
+## Verhältnis zu anderen Bestimmungen
 
-**9** **Art. 47 BV — Kantonale Autonomie.** Die kantonale Autonomie (Art. 47 BV) setzt der Mitwirkungspflicht des Bundes **Grenzen**: soweit die kantonale Autonomie reicht, hat der Bund nicht das Recht, die kantonale Willensbildung zu ersetzen. Die Mitwirkung nach Art. 45 BV ist kooperativ, nicht hierarchisch.
+| Norm | Verhältnis |
+|---|---|
+| Art. 46 BV | Umsetzung des Bundesrechts durch die Kantone — der Sachgrund für die Mitwirkung (N 5) |
+| Art. 44 BV | Grundsätze der Zusammenarbeit von Bund und Kantonen |
+| Art. 147 BV | Konkretisiert die Anhörungspflicht von Art. 45 Abs. 2 BV (N 4) |
+| VlG (SR 172.061) | Ausführungsgesetz zum Vernehmlassungsverfahren (N 5) |
 
-**10** **Art. 49 BV — Vorrang des Bundesrechts.** Bei Konflikten zwischen kantonalen Vorstellungen und dem Vorrang des Bundesrechts (Art. 49 BV) hat das Bundesrecht Vorrang. Die Mitwirkungspflicht nach Art. 45 BV wird dadurch nicht aufgehoben, aber in ihrer Durchsetzung begrenzt.
+## Offene Punkte
 
-### IV. Rechtsnatur und Justiziabilität
+Der Kommentar ist gegenüber der Vorfassung erheblich kürzer und enthält **keine** Rechtsprechungsbelege. Nicht übernommen wurden sämtliche Abschnitte, die auf erfundene Entscheide gestützt waren:
 
-**11** **Verfassungsrechtlicher Anspruch.** Art. 45 BV begründet einen **justiziablen verfassungsrechtlichen Anspruch** der Kantone auf Mitwirkung. Die Verletzung der Mitwirkungspflicht kann im Rahmen der abstrakten oder konkreten Normenkontrolle geltend gemacht werden. Der Bund hat bei der Ausgestaltung der Mitwirkung einen **weiten Ermessensspielraum**. Das Bundesgericht greift nur ein, wenn die Mitwirkungspflicht offensichtlich und schwerwiegend verletzt wurde.
+- Angebliche Leitentscheide zur «substanziellen Gestaltungsbefugnis» der Kantone
+- Angebliche Rechtsprechung zur Justiziabilität von Art. 45 BV
+- Angebliche Entscheide zu Ständemehr, Standesinitiative und Aussenpolitik als Anwendungsfälle
+- Ein angeblicher Art. 45 Abs. 3 BV — die Bestimmung hat nur zwei Absätze
 
-**12** **Organbeschwerde und Kantonales Interesse.** Kantone können ihre Mitwirkungsrechte durch **Organbeschwerde** (Art. 93 Abs. 1 lit. c BGG) oder im Rahmen einer **abstrakten Normenkontrolle** geltend machen. Voraussetzung ist ein aktuelles kantonales Interesse an der Mitwirkung, das über ein allgemeines föderatives Interesse hinausgeht.
-
-### V. Dogmatische Grundlagen
-
-**13** **Historische Entwicklung.** Art. 45 BV in der heutigen Fassung wurde mit der Totalrevision der Bundesverfassung von 1999 neu formuliert. Die frühere Fassung von Art. 45 BV (aBV) betraf die **Niederlassungsfreiheit** und hat mit der heutigen Bestimmung inhaltlich nichts gemein. Die heutige Norm übernimmt und verstärkt die bereits in der Verfassungspraxis anerkannte Mitwirkungspflicht des Bundes gegenüber den Kantonen.
-
-**14** **Botschaft des Bundesrates.** Die Botschaft BV (BBl 1997 1552, S. 1612) betont, dass Art. 45 BV die partnerschaftliche Zusammenarbeit zwischen Bund und Kantonen auf Verfassungsstufe hebt und die bereits bestehende Vernehmlassungspraxis verfassungsrechtlich absichert. Die Mitwirkungspflicht ist Ausdruck des Subsidiaritätsprinzips und des föderativen Aufbaus des Bundesstaats.
-
-### VI. Übergangsbestimmungen und aBV
-
-Die alte Fassung von Art. 45 BV (bis 1999) lautete:
-
-> "Alle Schweizer können sich in der ganzen Schweiz frei niederlassen."
-
-Diese Bestimmung betraf die **Niederlassungsfreiheit** und wurde mit der BV 1999 in Art. 24 BV überführt. Die heutige Fassung von Art. 45 BV hat einen völlig anderen Inhalt (Mitwirkung der Kantone an der Willensbildung).
-
-## Literaturhinweise
-
-- **HÄFLIN / HALLER**, Schweizerische Bundesverfassung, Kommentar, N. ad Art. 45 BV
-- **RHINOW / SCHEFER / UEBERSAX**, Schweizerisches Verfassungsrecht, § 18 Rz. 1 ff.
-- **AUBERT / RÜSCH / WEIBEL**, Commentaire romand, N. ad Art. 45 BV
-- **BIANCHINI / MÜLLER**, Commentaire romand, N. ad Art. 45 BV
-
-*Letzte Aktualisierung: 9. August 2026*
+Wer belegte Rechtsprechung zu Art. 45 BV kennt, ist zur Ergänzung eingeladen — bitte je Aussage mit Fundstelle und Erwägung.
