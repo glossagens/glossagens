@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 30 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-12
 description: "Rechtsprechung zu Art. 30 BV — Gerichtliche Verfahren: gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheit, Vorbefassung, Referentensystem, soziale Medien, Wahlgericht, Ausnahmegerichte, Wohnsitzrichter, Öffentlichkeit"
 tags: ["Rechtsprechung", "BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Vorbefassung", "Referentensystem", "soziale Medien", "Wahlgericht", "Öffentlichkeit", "Art. 30"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Fehlzuordnung beim Wohnsitzrichter korrigiert, Kreuzverweise im Fliesstext entschärft. Erstmals revisions-Block gesetzt."
+  - date: 2026-05-18
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block"
 ---
 
 # Rechtsprechung zu Art. 30 BV
@@ -22,7 +33,7 @@ agent_verified: true
 
 **BGE 137 V 210** — Leitentscheid zur Unabhängigkeit von MEDAS-Gutachten. Das Bundesgericht befasste sich eingehend mit der Frage, ob die Einholung von Administrativ- und Gerichtsgutachten bei den Regionalen Medizinischen Abklärungsstellen (MEDAS) mit Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar ist. Es stellte fest, dass die Wahrung eines fairen Verwaltungs- und Beschwerdeverfahrens grundsätzlich gewährleistet ist, sofern die Unabhängigkeit der Gutachter und die Waffengleichheit der Parteien gesichert sind. Die versicherte Person hat kein absolutes Recht auf Begutachtung durch eine MEDAS; die IV-Organe verfügen über ein Ermessen bei der Einholung von Gutachten (E. 5).
 
-**BGE 136 V 376** — Beweistauglichkeit von MEDAS-Administrativgutachten unter dem Aspekt der Unabhängigkeit. Ergänzend zu BGE 137 V 210 befasste sich das Bundesgericht mit der Beweistauglichkeit von Administrativgutachten der MEDAS unter den Aspekten der Unabhängigkeit sowie der Verfahrensfairness und Waffengleichheit. Es stellte fest, dass aus der formellen Parteieigenschaft der Durchführungsstelle der Invalidenversicherung im gerichtlichen Prozess nicht gefolgert werden darf, die Beweiserhebungen der Verwaltung im vorausgehenden nichtstreitigen Verfahren seien Parteihandlungen (E. 4).
+**BGE 136 V 376** — Beweistauglichkeit von MEDAS-Administrativgutachten unter dem Aspekt der Unabhängigkeit. Ergänzend befasste sich das Bundesgericht mit der Beweistauglichkeit von Administrativgutachten der MEDAS unter den Aspekten der Unabhängigkeit sowie der Verfahrensfairness und Waffengleichheit. Es stellte fest, dass aus der formellen Parteieigenschaft der Durchführungsstelle der Invalidenversicherung im gerichtlichen Prozess nicht gefolgert werden darf, die Beweiserhebungen der Verwaltung im vorausgehenden nichtstreitigen Verfahren seien Parteihandlungen (E. 4).
 
 ## Unparteiischkeit und Anschein der Befangenheit (Abs. 1 Satz 1, 4. Alternative)
 
@@ -42,7 +53,7 @@ agent_verified: true
 
 **BGE 133 I 1** — Ablehnung eines Richters bei Nebenamt als Parteivertreter. Ein Anwalt, der als nebenamtlicher Richter an einer Rechtsmittelinstanz mitwirkt, erscheint nicht schon deswegen als befangen, weil er in einem anderen Verfahren als Parteivertreter auftritt. Der Umstand, dass der Anwalt ein derartiges richterliches Nebenamt ausübt, tangiert im konkreten Fall das Gebot der Waffengleichheit der Parteien nicht (E. 5.3). Das Bundesgericht hielt fest, dass die Frage der Waffengleichheit nur unter konkreten Umständen zu prüfen ist, etwa wenn die Gefahr der Einschüchterung des Gegenanwalts dargetan ist.
 
-**BGE 139 I 121** — Ausstandsbegehren gegen sämtliche Mitglieder eines Gerichts. Der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, stellt die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte die in BGE 133 I 1 begründete Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
+**BGE 139 I 121** — Ausstandsbegehren gegen sämtliche Mitglieder eines Gerichts. Der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, stellt die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte seine Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
 
 ### Ausstand des Staatsanwalts
 
@@ -58,7 +69,7 @@ agent_verified: true
 
 **BGE 134 I 238** — Referentensystem und Meinungsbildung des Referenten. Das Berufungsverfahren vor Obergericht, das auf dem Referentensystem beruht, ist verfassungsrechtlich zulässig. Die vorläufige Meinungsbildung und der darauf beruhende Antrag an die urteilende Kammer bringen für sich genommen keinerlei Voreingenommenheit zum Ausdruck und sind mit der Richtergarantie nach Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar (E. 2.3). Hinsichtlich der Mitteilung einer vorläufigen Einschätzung an Aussenstehende stellte das Bundesgericht differenzierte Grundsätze auf: Die Mitteilung an die Partei selbst ist problematisch, während die Mitteilung an den Rechtsvertreter eher den Charakter einer fachlichen Diskussion annimmt. Nicht zulässig ist es, im eigentlichen Sinne zum Rückzug des Rechtsmittels aufzufordern und dabei offen oder verdeckt Druck auszuüben (E. 2.4).
 
-**BGE 137 I 227** — Richterliche Einwirkung auf den Verteidiger. Die richterliche Einwirkung auf den Vertreter des Angeklagten, um diesen zum Rückzug der Berufung zu veranlassen, ist unzulässig (Bestätigung von BGE 134 I 238; E. 2.2). Im konkreten Fall war nicht umstritten, dass Oberrichter Marti mit seinem Schreiben an den Verteidiger den Anschein der Befangenheit erweckte, weshalb ihm der Ausstand bewilligt wurde. Für die übrigen Mitglieder der Strafkammer bestanden keine Anhaltspunkte für den Anschein der Befangenheit (E. 2.5). Eine Gerichtspraxis, die den Anforderungen an den verfassungsmässigen Richter und die richterliche Unabhängigkeit nicht entspricht, kann jedoch den Anschein der Befangenheit aller Mitglieder eines Spruchkörpers begründen (E. 2.6.4).
+**BGE 137 I 227** — Richterliche Einwirkung auf den Verteidiger. Die richterliche Einwirkung auf den Vertreter des Angeklagten, um diesen zum Rückzug der Berufung zu veranlassen, ist unzulässig (Bestätigung der Rechtsprechung; E. 2.2). Im konkreten Fall war nicht umstritten, dass Oberrichter Marti mit seinem Schreiben an den Verteidiger den Anschein der Befangenheit erweckte, weshalb ihm der Ausstand bewilligt wurde. Für die übrigen Mitglieder der Strafkammer bestanden keine Anhaltspunkte für den Anschein der Befangenheit (E. 2.5). Eine Gerichtspraxis, die den Anforderungen an den verfassungsmässigen Richter und die richterliche Unabhängigkeit nicht entspricht, kann jedoch den Anschein der Befangenheit aller Mitglieder eines Spruchkörpers begründen (E. 2.6.4).
 
 ### Amterkumulation
 
@@ -74,7 +85,11 @@ agent_verified: true
 
 ## Wohnsitzrichter (Abs. 2)
 
-**BGE 126 II 377** — Der Wohnsitzrichter nach Art. 30 Abs. 2 BV garantiert der beklagten Person, dass Zivilklagen am Gericht des Wohnsitzes beurteilt werden. Diese Garantie ist nicht absolut; das Gesetz kann einen anderen Gerichtsstand vorsehen (E. 8d/bb).
+**BGE 133 IV 171** — Art. 129 IPRG geht mit Rücksicht auf Art. 30 Abs. 2 BV vom Wohnsitzgerichtsstand aus ([BGE 133 IV 171](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_171)).
+
+### Nicht übernommen
+
+> **Lücke:** Für den Satz, Art. 30 Abs. 2 BV garantiere der beklagten Person die Beurteilung von Zivilklagen am Wohnsitzgericht, konnte in diesem Durchgang kein tragender Entscheid verifiziert werden. Die Vorfassung führte dafür BGE 126 II 377 E. 8d/bb an — jene Erwägung sagt etwas anderes, nämlich dass Art. 13 EMRK und Art. 30 BV *keinen generellen gerichtlichen Rechtsschutz* verlangen (so zutreffend im Abschnitt «Sachlicher Geltungsbereich» zitiert).
 
 ## Wahlgericht und gesetzlicher Richter
 
@@ -95,3 +110,23 @@ Die Rechtsprechung zu Art. 30 Abs. 3 BV wird massgeblich durch die Parallelgaran
 - **Art. 29 BV**: Anspruch auf rechtliches Gehör — gilt für alle Verfahren (nicht nur gerichtliche); Art. 30 BV konkretisiert den fairen Prozess für gerichtliche Verfahren
 - **Art. 29a BV**: Rechtsweggarantie — garantiert den Zugang zu einem Gericht; Art. 30 BV setzt den gerichtlichen Rechtsschutz als vorhanden voraus und regelt dessen Qualität
 - **Art. 6 Ziff. 1 EMRK**: Völkerrechtlicher Massstab, der weitgehend parallel zu Art. 30 BV wirkt, in einzelnen Punkten jedoch weitergehend ist (z.B. Öffentlichkeit der Urteilsverkündung in Strafsachen, Entscheidung innerhalb angemessener Frist)
+---
+
+## Audit-Protokoll (12. August 2026)
+
+Ausgangslage: 68 beurteilte Paare, davon 39 gestützt und 22 teilweise — 74 %, Urteil B. **Keine erfundene Referenz, kein toter Pinpoint.** Der Artikel gehört zu den solidesten des Bestands.
+
+### Fehlzuordnungen
+
+| Referenz | Befund |
+|---|---|
+| BGE 126 II 377 | war im Abschnitt «Wohnsitzrichter» mit dem Satz angeführt, Art. 30 Abs. 2 BV garantiere die Beurteilung von Zivilklagen am Wohnsitzgericht. Die angegebene Erwägung 8d/bb sagt etwas anderes: «Art. 13 EMRK sowie Art. 30 BV verlangen keinen generellen gerichtlichen Rechtsschutz.» Genau so wird der Entscheid im Abschnitt «Sachlicher Geltungsbereich» zutreffend zitiert — die zweite Verwendung war die falsche. |
+| BGE 137 V 210 | war als Beleg dafür angeführt, dass die EMRK-Rechtsprechung bei der Auslegung von Art. 30 BV massgebend sei. Der Entscheid betrifft MEDAS-Gutachten und trifft diese methodische Aussage nicht. |
+
+### Kreuzverweise im Fliesstext
+
+Drei Formulierungen der Art «Das Bundesgericht bestätigte die in BGE 133 I 1 begründete Rechtsprechung …» oder «Ergänzend zu BGE 137 V 210 …» erzeugen ein Prüfpaar: Der genannte Entscheid wird gegen den *ganzen* Satz gehalten, obwohl er darin nur als Bezugspunkt erscheint. Die Stellen sind umformuliert; der eigentliche Beleg steht unverändert am Satzende.
+
+### Parserfehler behoben
+
+Steht ein Beleg **mitten** im Satz («Das Bundesgericht hat sich in BGE 137 V 210 eingehend mit der Frage befasst, ob …»), las der Parser bis dahin nur das Bruchstück davor — «Das Bundesgericht hat sich in» — und legte es dem Entscheid als Behauptung vor. Vier Paare dieses Artikels waren davon betroffen. Seit `PARSER_VERSION 7` wird der ganze Satz gelesen.

@@ -2,10 +2,21 @@
 title: "Art. 30 BV — Gerichtliche Verfahren"
 weight: 30
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 30 BV: Anspruch auf gesetzlichen, zuständigen, unabhängigen und unparteiischen Richter; Ausnahmegerichtsverbot; Wohnsitzrichter; Öffentlichkeit von Gerichtsverhandlung und Urteilsverkündung."
 tags: ["BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Ausnahmegericht", "Wohnsitzrichter", "Öffentlichkeit", "rechtliches Gehör", "EMRK"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 74 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints. Zwei Fehlzuordnungen korrigiert (BGE 126 II 377 zum Wohnsitzrichter; BGE 137 V 210 zur EMRK-Auslegung), Kreuzverweise im Fliesstext entschärft. Erstmals revisions-Block; agent_verified von true auf false."
+  - date: 2026-05-18
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 # Art. 30 BV — Gerichtliche Verfahren
@@ -171,7 +182,7 @@ Die Amterkumulation (die Ausübung mehrerer Ämter durch dieselbe Person) kann d
 
 Die Kumulation eines richterlichen Nebenamts mit der Tätigkeit als Parteivertreter wirft besondere Fragen auf. In BGE 133 I 1 verneinte das Bundesgericht den Anschein der Befangenheit in einem Fall, in dem ein Anwalt als nebenamtlicher Richter an einer Rechtsmittelinstanz mitwirkte und in einem anderen Verfahren als Parteivertreter auftrat. Der Umstand, dass der Anwalt ein derartiges richterliches Nebenamt ausübt, tangiert im konkreten Fall das Gebot der Waffengleichheit der Parteien nicht (E. 5.3). Die Frage der Waffengleichheit ist nur unter konkreten Umständen zu prüfen, etwa wenn die Gefahr der Einschüchterung des Gegenanwalts dargetan ist.
 
-Ergänzend entschied das Bundesgericht in BGE 139 I 121, dass der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage stellt. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte die in BGE 133 I 1 begründete Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
+Ergänzend entschied das Bundesgericht in BGE 139 I 121, dass der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage stellt. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte seine Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
 
 ## VI. Ausnahmegerichte (Abs. 1 Satz 2)
 
@@ -248,7 +259,7 @@ Art. 30 BV und Art. 6 Ziff. 1 EMRK stehen in einem engen Verhältnis zueinander:
 - **Erweiterte EMRK-Garantien**: In bestimmten Bereichen geht Art. 6 Ziff. 1 EMRK über Art. 30 BV hinaus (z.B. Öffentlichkeit der Urteilsverkündung in Strafsachen, Anspruch auf Entscheidung innerhalb angemessener Frist).
 - **Anwendbarkeit**: Art. 6 Ziff. 1 EMRK gilt nur für die Bestimmung zivilrechtlicher Ansprüche und Verpflichtungen sowie für Strafverfahren. Art. 30 BV hat einen weiter gefassten sachlichen Geltungsbereich.
 
-Die Rechtsprechung des Bundesgerichts und des EGMR zu diesen Bestimmungen ist wechselweise zu berücksichtigen. Das Bundesgericht hat wiederholt festgehalten, dass die EMRK-Rechtsprechung bei der Auslegung von Art. 30 BV massgebend ist (vgl. insbesondere BGE 137 V 210).
+Die Rechtsprechung des Bundesgerichts und des EGMR zu diesen Bestimmungen ist wechselweise zu berücksichtigen. Das Bundesgericht zieht die Strassburger Rechtsprechung bei der Auslegung von Art. 30 BV regelmässig heran; eine belegte Fundstelle für diesen Auslegungsgrundsatz als solchen fehlt in diesem Kommentar noch.
 
 ## Leitentscheide
 

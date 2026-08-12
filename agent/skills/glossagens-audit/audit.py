@@ -44,7 +44,7 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 6
+PARSER_VERSION = 7
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
@@ -253,6 +253,20 @@ def sentence_before(text, end):
     return strip_md(claim).rstrip(" (").strip()
 
 
+def satz_laeuft_weiter(text, pos, claim):
+    """Steht der Beleg **mitten** im Satz («Das Bundesgericht hat sich in
+    [BGE 137 V 210](…) mit … befasst»), liefert `sentence_before` nur das
+    Bruchstück davor. Erkennbar ist das daran, dass das Bruchstück nicht auf ein
+    Satzzeichen endet und der Text nach dem Beleg kleingeschrieben weitergeht."""
+    if not claim or claim[-1] in ".!?:;":
+        return False
+    rest = text[pos:pos + 400]
+    # über den Beleg hinweg zum Folgetext
+    rest = re.sub(r"^\[[^\]]*\]\([^)]*\)|^" + CITE_PLAIN.pattern, "", rest)
+    rest = re.sub(r"^[\s,)]*(?:E\.\s*[\d.]+)?[\s,)]*", "", rest)
+    return bool(re.match(r"[a-zäöüß]", rest))
+
+
 def clean_claim(s):
     """Listenmarker, Fussnotenzahlen und ein vorangestellter Beleg gehören nicht
     in den Behauptungssatz, den Stufe 5 dem Entscheid vorhält."""
@@ -416,6 +430,8 @@ def parse_file(path, rel):
         if len(claim) < 25 or not re.sub(r"\(?\s*" + CITE_PLAIN.pattern + r".*", "", claim).strip():
             claim = (blockquote_before(body, m.start())
                      or sentence_around(body, m.start()) or claim)
+        elif satz_laeuft_weiter(body, m.start(), claim):
+            claim = sentence_around(body, m.start()) or claim
         if pin is None and anchor:
             # URL-Anker codiert den Pinpoint: #e-2-1-1 → 2.1.1
             am = re.match(r"#e-([\d-]+)$", anchor)
@@ -515,6 +531,8 @@ def parse_file(path, rel):
             if len(claim) < 25:  # Beleg steht vor der Aussage, nicht dahinter
                 claim = (blockquote_before(body, m.start())
                          or sentence_around(body, m.start()) or claim)
+            elif satz_laeuft_weiter(body, m.start(), claim):
+                claim = sentence_around(body, m.start()) or claim
         add_plain(ref, m.start(), pm.group(1) if pm else None, claim)
 
     # Verbatim-Zitate: nächstgelegener Beleg im selben Absatz
