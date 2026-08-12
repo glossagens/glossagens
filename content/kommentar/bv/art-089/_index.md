@@ -2,17 +2,22 @@
 title: "Art. 89 BV — Energiepolitik"
 weight: 89
 date: 2026-08-10
-lastmod: 2026-08-10
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "StromVG", "KEG", "CO2-Gesetz", "EnG", "ElCom"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+mcp_verified: false
 revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 75 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints — der solideste der vier Hermes-Artikel. BGE 144 II 454 war als Beleg für Kooperationspflichten im Kernenergiebereich geführt und betrifft die Kostenüberwälzung der Jodtabletten-Abgabe; korrigiert. Beide Flags zurückgenommen, weil der Vermerk der Prüfung nicht standhielt."
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Neuerstellung nach Audit"
+    note: "Audit-Umbau «alle unsupported Zitate ersetzt durch verifizierte Rechtsprechung»"
 ---
 
 ## Gesetzeswortlaut
@@ -108,7 +113,7 @@ Das Stromversorgungsgesetz (StromVG) ist das zentrale Ausführungsgesetz für de
 - **Netzanschluss und Messwesen**: Es besteht kein Monopol für das Messwesen; die Wahl des Messdienstleisters unterliegt der Wirtschaftsfreiheit des Produzenten. Photovoltaikanlagenbetreiber haben Anspruch auf Netzanschluss ([BGE 143 I 395](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_395)).
 - **Arealnetze**: Ein Arealnetz ist kein Verteilnetz und untersteht dem StromVG nicht. Rechte und Pflichten der Verteilnetzbetreiber gelten nicht für Arealnetze ([BGE 141 II 141](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_II_141)).
 - **Netznutzungsentgelt**: Die synthetische Methode zur Berechnung der Anschaffungs- bzw. Herstellkosten ist eine Ausnahmemethode, die nur zulässig ist, wenn eine Berechnung der ursprünglichen Anlagewerte anhand historischer Belege nicht möglich ist ([BGE 138 II 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_II_465)).
-- **Tarifprüfung**: Die Prüfung der Gesetzmässigkeit der Tarife im individuellen Tarifprüfungsverfahren erfolgt grundsätzlich gestützt auf die Ist-Werte des letztverfügbaren Jahres ([BGE 151 II 687](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_II_687)).
+- **Tarifprüfung**: Die Prüfung der Gesetzmässigkeit der Tarife im individuellen Tarifprüfungsverfahren erfolgt grundsätzlich gestützt auf die Ist-Werte des letztverfügbaren Jahres.
 - **Netzanschlussverhältnis**: Die Rechtsnatur des Netzanschlussverhältnisses im Rahmen des StromVG ist als zivil- oder öffentlich-rechtliche Streitigkeit zu qualifizieren ([BGE 144 III 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_111)).
 - **Kantonale Preisbestimmungen**: Kommunale oder kantonale Preisbestimmungen sowie Genehmigungsvorbehalte für Elektrizitätstarife sind nach Inkrafttreten des StromVG bundesrechtswidrig ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468)).
 
@@ -118,7 +123,7 @@ Das Kernenergiegesetz (KEG) ist das Ausführungsgesetz zu Art. 90 BV, steht aber
 
 - **Betriebsbewilligung**: Das KEG regelt abschliessend die Bewilligungspflicht für Kernanlagen sowie die Voraussetzungen für Erteilung, Inhalt und Entzug der Betriebsbewilligung ([BGE 139 II 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_185)).
 - **Störfallvorsorge**: Das Kernenergierecht schliesst die Anwendbarkeit von Art. 25a VwVG gegenüber der Aufsichtstätigkeit des ENSI im Bereich der Störfallvorsorge nicht aus. Anwohner können ein schutzwürdiges Interesse geltend machen ([BGE 140 II 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_315)).
-- **Kooperationspflicht**: Kooperationspflichten von Kernkraftwerksbetreibern bedürfen einer ausreichenden gesetzlichen Grundlage; die Regelung über die Kooperation im Kernenergiebereich erfordert eine formellgesetzliche Basis ([BGE 144 II 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454)).
+- **Kostenüberwälzung auf KKW-Betreiber**: Für die Regelung über die Überwälzung der Kosten für Handlungen im Zusammenhang mit der Abgabe von Jodtabletten auf die Betreiber von Kernkraftwerken fehlt die gesetzliche Grundlage ([BGE 144 II 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454)).
 
 ### 4. Förderung von Energietechniken
 
@@ -159,6 +164,6 @@ Die **wirtschaftliche Tragbarkeit** ist ein eigenständiges Kriterium, das bei d
 Die folgenden Entscheide thematisieren Art. 89 BV oder dessen Ausführungsgesetze, ohne den Verfassungsartikel direkt zum Gegenstand zu machen:
 
 - **BGE 149 I 291** — Kommunale Volksinitiative zur Umstellung auf erneuerbare Energien; Vereinbarkeit mit dem kantonalen Energiegesetz ([OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_291))
-- **BGE 144 II 454** — Fehlende gesetzliche Grundlage für Kooperationspflichten im Kernenergiebereich; Art. 5 Abs. 1 und Art. 164 BV ([OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454))
+- **BGE 144 II 454** — Fehlende gesetzliche Grundlage für die Überwälzung der Kosten der Jodtabletten-Abgabe auf die Betreiber von Kernkraftwerken; Art. 5 Abs. 1, Art. 164 Abs. 1 lit. d und Art. 127 Abs. 1 BV ([OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454))
 - **BGE 144 III 111** — Rechtsnatur des Netzanschlussverhältnisses im Rahmen des StromVG ([OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_111))
 - **BGE 138 I 468** — Bundesrechtswidrigkeit kommunaler Preisbestimmungen nach Inkrafttreten des StromVG ([OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468))

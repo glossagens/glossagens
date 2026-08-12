@@ -2,17 +2,21 @@
 title: "Rechtsprechung zu Art. 89 BV"
 weight: 99
 date: 2026-08-10
-lastmod: 2026-08-10
+lastmod: 2026-08-12
 description: "Übersicht der massgeblichen Entscheide zu Art. 89 BV (Energiepolitik: Energieversorgung, Gesetzgebungskompetenz, erneuerbare Energien, StromVG, KEG, CO2-Gesetz)"
 tags: ["Rechtsprechung", "BV", "Energiepolitik", "Energieversorgung", "StromVG", "KEG", "CO2", "EnG"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Kernaussage zu BGE 144 II 454 korrigiert (Kostenüberwälzung der Jodtabletten-Abgabe statt Kooperationspflichten)."
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Neuerstellung nach Audit"
+    note: "Audit-Umbau"
 ---
 
 ## Leitentscheide
@@ -150,7 +154,7 @@ Die folgenden Entscheide thematisieren Ausführungsgesetze von Art. 89 BV, ohne 
 ### BGE 144 II 454 (15.10.2018, II. öffentlich-rechtliche Abteilung)
 
 - **Thema**: KEG, Kooperationspflicht, gesetzliche Grundlage; Art. 5 Abs. 1, Art. 164 Abs. 1 lit. d, Art. 127 Abs. 1 BV, Art. 83 Abs. 1 und 2, Art. 84 lit. a KEG
-- **Kernaussage**: Fehlende gesetzliche Grundlage für die Regelung über die Kooperationspflicht von Kernkraftwerksbetreibern. Die Kooperationspflicht bedarf einer formellgesetzlichen Basis nach Art. 164 Abs. 1 lit. d BV.
+- **Kernaussage**: Fehlende gesetzliche Grundlage für die Regelung über die Kostenüberwälzung der Jodtabletten-Abgabeperationspflicht von Kernkraftwerksbetreibern. Die Kooperationspflicht bedarf einer formellgesetzlichen Basis nach Art. 164 Abs. 1 lit. d BV.
 - **Einschlägig für**: Art. 89 Abs. 1 BV (sichere Energieversorgung), Art. 90 BV (Kernenergie)
 - **Verifizierung**: supports=partial, confidence=0.72
 - **OCL**: [BGE 144 II 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_454)
@@ -178,3 +182,21 @@ Die folgenden Entscheide thematisieren Ausführungsgesetze von Art. 89 BV, ohne 
 ---
 
 Zuletzt aktualisiert: 2026-08-10 | [Bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/bv/art-089/rechtsprechung.md) | [Anregung einreichen](/einreichung)
+---
+
+## Audit-Protokoll (12. August 2026)
+
+Ausgangslage: 54 beurteilte Paare, davon 34 gestützt und 13 teilweise — 75 %, Urteil B. **Keine erfundene Referenz, kein toter Pinpoint.** Der Artikel ist der solideste der vier am 9./10. August vom Hermes Agent überarbeiteten BV-Artikel; art-045, art-049 und art-050 lagen bei 0 %, 17 % und 25 %.
+
+### Fehlzuordnung
+
+| Referenz | zugeschriebene Aussage | tatsächlicher Gegenstand |
+|---|---|---|
+| BGE 144 II 454 | «Kooperationspflichten von Kernkraftwerksbetreibern bedürfen einer ausreichenden gesetzlichen Grundlage» | Fehlende gesetzliche Grundlage für die Überwälzung der **Kosten der Jodtabletten-Abgabe** auf die Betreiber von Kernkraftwerken (Art. 5 Abs. 1, Art. 164 Abs. 1 lit. d und Art. 127 Abs. 1 BV) |
+| BGE 151 II 687 | Festsetzung von Netznutzungsentgelten | Gesetzmässigkeit der Tarife und Prüfprogramm des individuellen Tarifprüfungsverfahrens nach Art. 22 Abs. 2 lit. a und Art. 25 Abs. 1 StromVG; Beleg entfernt |
+
+Die Verallgemeinerung von «Kostenüberwälzung für Jodtabletten» zu «Kooperationspflichten» ist typisch: Der Entscheid bleibt thematisch im Kernenergierecht, die Aussage wird aber weiter gefasst, als er trägt.
+
+### Parserfehler behoben
+
+Vier Befunde dieses Artikels waren Artefakte: In einer Liste ohne Leerzeilen zwischen den Punkten erbte jeder Beleg den Text des **ersten** Punktes. Seit `PARSER_VERSION 9` endet die Satzsuche an der Zeilengrenze, wenn die Zeile mit einem Listenmarker oder einem Tabellenstrich beginnt.

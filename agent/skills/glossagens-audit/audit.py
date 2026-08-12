@@ -44,7 +44,7 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 8
+PARSER_VERSION = 9
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
@@ -246,6 +246,11 @@ def sentence_before(text, end):
     """Behauptungssatz, der bei Position `end` in den Beleg mündet."""
     head = text[:end]
     para = head.rsplit("\n\n", 1)[-1]
+    # Listenpunkt oder Tabellenzeile: nicht über die Zeilengrenze zurückgreifen,
+    # sonst erbt jeder Beleg einer Liste den Text des ersten Punktes.
+    letzte = para.rsplit("\n", 1)[-1]
+    if re.match(r"\s*[-*+]\s|\s*\d+[.)]\s|\s*\|", letzte):
+        para = letzte
     parts = re.split(r"(?<=[.!?:])\s+(?=[A-ZÄÖÜ«\"*])", para)
     claim = parts[-1] if parts else para
     if len(strip_md(claim)) < 25 and len(parts) > 1:   # Fragment → Vorsatz dazu
@@ -315,6 +320,13 @@ def blockquote_before(text, pos):
     return strip_md(" ".join(quote)).strip("«»\"„“ ") or None
 
 
+def zeile_um(text, pos):
+    """Die Zeile, in der `pos` steht."""
+    a = text.rfind("\n", 0, pos) + 1
+    b = text.find("\n", pos)
+    return a, (b if b != -1 else len(text))
+
+
 def sentence_around(text, pos):
     """Satz, in dem der Beleg selbst steht — für die Zitierlagen, in denen die
     Behauptung dem Beleg **folgt** (`**BGE 148 I 19** — Leitentscheid zu …`,
@@ -322,6 +334,12 @@ def sentence_around(text, pos):
     `sentence_before` dort «In» oder «🔗»."""
     start = text.rfind("\n\n", 0, pos) + 2
     end = text.find("\n\n", pos)
+    # Listen ohne Leerzeile dazwischen: Jeder Punkt ist eine eigene Aussage. Ohne
+    # diese Begrenzung erbt jeder Beleg der Liste den Text des ersten Punktes
+    # (BV Art. 89: vier Fehlalarme so entstanden).
+    za, zb = zeile_um(text, pos)
+    if re.match(r"\s*[-*+]\s|\s*\d+[.)]\s|\s*\|", text[za:zb]):
+        start, end = za, zb
     para = text[start : end if end != -1 else len(text)]
     rel = pos - start
     parts, acc = re.split(r"(?<=[.!?:])\s+(?=[A-ZÄÖÜ«\"*])", para), 0
