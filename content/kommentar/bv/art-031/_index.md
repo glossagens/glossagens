@@ -2,10 +2,21 @@
 title: "Art. 31 — Freiheitsentzug"
 weight: 31
 date: 2026-05-17
-lastmod: 2026-06-20
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 31 BV — Freiheitsentzug: gesetzlicher Vorbehalt, Verfahrensgarantien, Untersuchungshaft, Habeas-Corpus-Garantie"
 tags: ["BV", "Freiheitsentzug", "Untersuchungshaft", "Habeas Corpus", "persoenliche Freiheit", "Freiheit", "Art. 31"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 81 %, Urteil A auf Anhieb — bester Ausgangswert der BV-Kampagne): Keine erfundene Referenz; 93 von 133 Paaren auf Anhieb gestützt. Korrigiert: BGE 133 I 270 leitet die Begründungspflicht aus Art. 29 Abs. 2 BV ab, nicht aus Art. 31 Abs. 2 BV; Regeste-abgeleitete Pinpoints entfernt. Erstmals revisions-Block; agent_verified von true auf false."
+  - date: 2026-06-20
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 # Art. 31 BV — Freiheitsentzug
@@ -25,8 +36,8 @@ agent_verified: true
 Art. 31 BV steht im dritten Abschnitt der Bundesverfassung ("Freiheitsrechte", Art. 10-34) und sichert die persoenliche Freiheit konkret im Bereich des Freiheitsentzugs. Die Bestimmung ist eng mit folgenden Verfassungsbestimmungen verbunden:
 
 - **Art. 7 BV** (Menschenwuerde): Der Freiheitsentzug muss die Menschenwuerde achten; Zwangsbehandlungen im Rahmen von Freiheitsentzug beruehren den Kerngehalt der Menschenwuerde (BGE 127 I 6, E. 5b).
-- **Art. 10 Abs. 2 BV** (Persoenliche Freiheit): Gewaehrleistet das Recht auf koerperliche und geistige Unversehrtheit sowie auf Bewegungsfreiheit. Art. 31 BV konkretisiert den Schutz der Bewegungsfreiheit fuer den Fall des Freiheitsentzugs. Beide Bestimmungen sind bei der Pruefung von Haftmassnahmen kumulativ anwendbar (BGE 132 I 21, E. 3.2.3).
-- **Art. 29 Abs. 2 BV** (Rechtliches Gehoer): Die aus Art. 31 Abs. 2 BV fliessende Begruendungspflicht steht in engem Zusammenhang mit dem Gehoersanspruch (BGE 133 I 270, E. 3.1).
+- **Art. 10 Abs. 2 BV** (Persoenliche Freiheit): Gewaehrleistet das Recht auf koerperliche und geistige Unversehrtheit sowie auf Bewegungsfreiheit. Art. 31 BV konkretisiert den Schutz der Bewegungsfreiheit fuer den Fall des Freiheitsentzugs. Beide Bestimmungen sind bei der Prüfung von Haftmassnahmen nebeneinander zu beachten (BGE 132 I 21).
+- **Art. 29 Abs. 2 BV** (Rechtliches Gehör): Die Begründungspflicht des Haftrichters leitet das Bundesgericht aus dem Gehörsanspruch nach Art. 29 Abs. 2 BV ab, nicht aus Art. 31 Abs. 2 BV ([BGE 133 I 270, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_270#e-3-1)).
 - **Art. 29a BV** (Rechtsweggarantie): Wird durch Art. 31 Abs. 4 BV als besondere Rechtsweggarantie im Freiheitsentzug ergaenzt und verstaerkt.
 - **Art. 36 BV** (Einschraenkungen von Grundrechten): Jeder Eingriff in die Freiheit muss gesetzlich begruendet, im oeffentlichen Interesse liegend und verhaeltnismaessig sein.
 - **Art. 5 EMRK** (Recht auf Freiheit und Sicherheit): Die konventionsrechtliche Parallelgarantie, die fuer die Auslegung von Art. 31 BV massgebend ist.
@@ -57,7 +68,7 @@ Die zulaessigen Haftgruende ergeben sich aus der abschliessenden Aufzaehlung in 
 - **Art. 5 Abs. 1 lit. e EMRK**: Freiheitsentzug bei psychisch Kranken (fuersorgerische Unterbringung, BGE 127 I 6)
 - **Art. 5 Abs. 1 lit. f EMRK**: Freiheitsentzug bei Ausweisungs- und Auslieferungsverfahren (Administrativhaft, BGE 142 I 135; BGE 139 I 206)
 
-Der vorzeitige Strafantritt betrifft nur das Vollzugsregime. Rechtstitel fuer den damit verbundenen Freiheitsentzug ist nicht die zu erwartende Freiheitsstrafe, sondern die strafprozessuale Haft (BGE 143 IV 160, E. 2.1). Mit seiner ausdruecklichen Einwilligung zum vorzeitigen Strafantritt verzichtet die beschuldigte Person auf die ihr durch Verfassung und EMRK garantierten und in der StPO konkretisierten Garantien; ohne ihre Einwilligung muessten diese zwingend eingehalten werden (BGE 143 IV 160, E. 2.2).
+Der vorzeitige Strafantritt betrifft nur das Vollzugsregime. Rechtstitel fuer den damit verbundenen Freiheitsentzug ist nicht die zu erwartende Freiheitsstrafe, sondern die strafprozessuale Haft (BGE 143 IV 160). Mit seiner ausdruecklichen Einwilligung zum vorzeitigen Strafantritt verzichtet die beschuldigte Person auf die ihr durch Verfassung und EMRK garantierten und in der StPO konkretisierten Garantien; ohne ihre Einwilligung muessten diese zwingend eingehalten werden (BGE 143 IV 160, E. 2.2).
 
 Auch die auslaenderrechtliche Haft stellt einen schwerwiegenden Eingriff in die persoenliche Freiheit dar (Art. 10 Abs. 2 BV, Art. 5 Ziff. 1 EMRK). Entscheidungen ueber auslaenderrechtliche Administrativhaft haben einen eigenstaendigen Charakter und sind nicht als blosse untergeordnete Vollzugsmassnahme zur Wegweisung zu qualifizieren (BGE 142 I 135, E. 1.1.3).
 
@@ -77,7 +88,7 @@ Art. 31 Abs. 3 Satz 1 BV gewaehrleistet das Recht, unverzueglich einer Richterin
 
 #### 2. Beschleunigungsgebot und Verhaeltnismaessigkeit der Haftdauer
 
-Art. 31 Abs. 3 Satz 2 BV gewaehrleistet das Recht auf ein Urteil innert angemessener Frist. Eine uebermaessige Haftdauer stellt eine unverhaeltnismaessige Beschraenkung dieses Grundrechts dar. Das Verhaeltnismaessigkeitsprinzip wird insbesondere dann verletzt, wenn die Dauer der Untersuchungshaft in grosse zeitliche Naehe der konkret zu erwartenden Freiheitsstrase rueckt (BGE 133 I 168, E. 4.1; BGE 139 IV 270, E. 3.1). Dieser Grenze ist besondere Beachtung zu schenken, weil der Strafrichter dazu neigen koennte, die Dauer der anrechenbaren Untersuchungshaft bei der Strafzumessung mitzubueruecksichtigen (BGE 133 I 168, E. 4.1).
+Art. 31 Abs. 3 Satz 2 BV gewaehrleistet das Recht auf ein Urteil innert angemessener Frist. Eine uebermaessige Haftdauer stellt eine unverhaeltnismaessige Beschraenkung dieses Grundrechts dar. Das Verhaeltnismaessigkeitsprinzip wird insbesondere dann verletzt, wenn die Dauer der Untersuchungshaft in grosse zeitliche Naehe der konkret zu erwartenden Freiheitsstrase rueckt (BGE 133 I 168; BGE 139 IV 270, E. 3.1). Dieser Grenze ist besondere Beachtung zu schenken, weil der Strafrichter dazu neigen koennte, die Dauer der anrechenbaren Untersuchungshaft bei der Strafzumessung mitzubueruecksichtigen (BGE 133 I 168).
 
 Aus dem Beschleunigungsgebot, das sich aus Art. 29 Abs. 1 sowie Art. 31 Abs. 2 und 3 BV ergibt, folgt, dass insbesondere Haftfaelle vordringlich zu behandeln sind. Der gesetzliche Fristenstillstand nach Art. 46 Abs. 1 BGG gilt in Faellen betreffend die strafprozessuale Haft nicht (BGE 133 I 270, E. 1.2.2).
 
@@ -110,7 +121,7 @@ Der Freiheitsentzug im Rahmen eines fuersorgerischen Freiheitsentzugs (Art. 397a
 
 ### VII. Verhaeltnismaessigkeit
 
-Jeder Eingriff in die Freiheit muss verhaeltnismaessig sein. Die Untersuchungshaft ist als schwerwiegender Eingriff in das Grundrecht der persoenlichen Freiheit auf einer klaren gesetzlichen Grundlage in einem Gesetz zu beruhen, im oeffentlichen Interesse zu liegen und verhaeltnismaessig zu sein (Art. 36 BV; BGE 133 I 270, E. 2.2). Bei Beschwerden, die gestuetzt auf das Recht der persoenlichen Freiheit erhoben werden, prueft das Bundesgericht im Hinblick auf die Schwere des Eingriffs die Auslegung und Anwendung des entsprechenden kantonalen Rechtes frei (BGE 132 I 21, E. 3.2.3).
+Jeder Eingriff in die Freiheit muss verhaeltnismaessig sein. Die Untersuchungshaft ist als schwerwiegender Eingriff in das Grundrecht der persoenlichen Freiheit auf einer klaren gesetzlichen Grundlage in einem Gesetz zu beruhen, im oeffentlichen Interesse zu liegen und verhaeltnismaessig zu sein (Art. 36 BV; BGE 133 I 270, E. 2.2). Bei Beschwerden, die gestuetzt auf das Recht der persoenlichen Freiheit erhoben werden, prueft das Bundesgericht im Hinblick auf die Schwere des Eingriffs die Auslegung und Anwendung des entsprechenden kantonalen Rechtes frei (BGE 132 I 21).
 
 Die Praeventivhaft wegen Ausfuehrungsgefahr nach Art. 221 Abs. 2 StPO setzt voraus, dass ernsthaft zu befuerchten ist, eine Person werde ihre Drohung, ein schweres Verbrechen auszufuehren, wahrmachen (BGE 137 IV 122, E. 5.2). Bei der Annahme, dass die beschuldigte Person eine schwere Straftat begehen koennte, ist nach der bundesgerichtlichen Rechtsprechung Zurueckhaltung geboten. Erforderlich ist eine sehr unguenstige Rueckfallprognose (BGE 137 IV 122, E. 5.2).
 

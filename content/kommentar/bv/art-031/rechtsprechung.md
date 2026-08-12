@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 31 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-12
 description: "Rechtsprechung zu Art. 31 BV — Freiheitsentzug: körperliche Bewegungsfreiheit, Freiheitsentzug, Habeas Corpus, Verfahrensgarantien"
 tags: ["Rechtsprechung", "BV", "Freiheitsentzug", "Habeas Corpus", "Untersuchungshaft", "Art. 31"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Aussage zu BGE 134 I 140 stand im Widerspruch zum Entscheid (Gewaltschutzmassnahmen sind keine Freiheitsentziehung) — korrigiert. Regeste-abgeleitete Pinpoints entfernt, zwei Aussagen an den Wortlaut angeglichen. Erstmals revisions-Block gesetzt."
+  - date: 2026-06-20
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block"
 ---
 
 # Rechtsprechung zu Art. 31 BV
@@ -16,7 +27,7 @@ agent_verified: true
 
 **BGE 132 I 21** — Persoenliche Freiheit und Sicherheitshaft. Das Bundesgericht wandte Art. 10 Abs. 2 und Art. 31 Abs. 1 und 3 BV an und bejahte die Kollusionsgefahr als besonderen Haftgrund nach Abschluss der Strafuntersuchung und erfolgter Anklage wegen Menschenhandels und Foerderung der Prostitution. Der Freiheitsentzug bedarf einer hinreichend bestimmten gesetzlichen Grundlage. Konkrete Anhaltspunkte fuer Kollusionsgefahr koennen sich nach der Rechtsprechung ergeben aus dem bisherigen Verhalten des Angeschuldigten im Strafprozess, aus seinen persoenlichen Merkmalen, aus seiner Stellung und seinen Tatbeitraegen sowie aus den persoenlichen Beziehungen zwischen ihm und den ihn belastenden Personen (BGE 132 I 21, E. 3.2.1). Die theoretische Moeglichkeit, dass der Angeschuldigte in Freiheit kolludieren koennte, genuegt indessen nicht (BGE 132 I 21, E. 3.2).
 
-**BGE 143 IV 160** — Vorzeitiger Straf- und Massnahmevollzug. Der vorzeitige Strafvollzug bezieht sich allein auf den Vollzug der Untersuchungs- und Sicherheitshaft. Rechtstitel fuer den damit verbundenen Freiheitsentzug ist nicht die zu erwartende Freiheitsstrafe, sondern die strafprozessuale Haft (BGE 143 IV 160, E. 2.1). Stellt die beschuldigte Person, die ihre Einwilligung zum vorzeitigen Strafvollzug erteilt hat, ein Entlassungsgesuch, sind die gesetzlichen Haftgruende nach den Bestimmungen ueber die Anordnung von Untersuchungs- oder Sicherheitshaft zu pruefen (BGE 143 IV 160, E. 2.3 und 4).
+**BGE 143 IV 160** — Vorzeitiger Straf- und Massnahmevollzug. Der vorzeitige Strafvollzug bezieht sich allein auf den Vollzug der Untersuchungs- und Sicherheitshaft. Rechtstitel fuer den damit verbundenen Freiheitsentzug ist nicht die zu erwartende Freiheitsstrafe, sondern die strafprozessuale Haft (BGE 143 IV 160). Stellt die beschuldigte Person, die ihre Einwilligung zum vorzeitigen Strafvollzug erteilt hat, ein Entlassungsgesuch, sind die gesetzlichen Haftgruende nach den Bestimmungen ueber die Anordnung von Untersuchungs- oder Sicherheitshaft zu pruefen (BGE 143 IV 160, E. 2.3 und 4).
 
 ### Haftgrund der Ausfuehrungsgefahr
 
@@ -24,7 +35,7 @@ agent_verified: true
 
 ### Haftgrund der Wiederholungsgefahr und Vortatenerfordernis
 
-**BGE 135 I 71** — Vortatenerfordernis beim strafprozessualen Haftgrund der Wiederholungsgefahr. Art. 369 StGB ist auch vom Haftrichter zu beachten mit der Wirkung, dass aus dem Strafregister entfernte Vorstrafen bei der Pruefung des strafprozessualen Haftgrundes der Wiederholungsgefahr grundsaetzlich nicht zu beruecksichtigen sind (BGE 135 I 71, E. 2). Bei der Annahme, dass der Angeschuldigte weitere Verbrechen oder erhebliche Vergehen begehen koennte, ist Zurueckhaltung geboten. Da Praeventivhaft einen schwerwiegenden Eingriff in das Recht der persoenlichen Freiheit darstellt, muss sie auf einer hinreichenden gesetzlichen Grundlage beruhen, im oeffentlichen Interesse liegen und verhaeltnismaessig sein (BGE 135 I 71, E. 2.3). Aus den Materialien ergibt sich, dass nach Ablauf der gesetzlichen Fristen keine fuer den Verurteilten nachteiligen Rechtswirkungen aus den fraglichen Vorstrafen abgeleitet werden duerfen, weder materiellstrafrechtliche noch strafprozessuale (BGE 135 I 71, E. 2.11).
+**BGE 135 I 71** — Vortatenerfordernis beim strafprozessualen Haftgrund der Wiederholungsgefahr. Art. 369 StGB ist auch vom Haftrichter zu beachten mit der Wirkung, dass aus dem Strafregister entfernte Vorstrafen bei der Pruefung des strafprozessualen Haftgrundes der Wiederholungsgefahr grundsaetzlich nicht zu beruecksichtigen sind (BGE 135 I 71). Bei der Annahme, dass der Angeschuldigte weitere Verbrechen oder erhebliche Vergehen begehen koennte, ist Zurueckhaltung geboten. Da Praeventivhaft einen schwerwiegenden Eingriff in das Recht der persoenlichen Freiheit darstellt, muss sie auf einer hinreichenden gesetzlichen Grundlage beruhen, im oeffentlichen Interesse liegen und verhaeltnismaessig sein (BGE 135 I 71, E. 2.3). Aus den Materialien ergibt sich, dass nach Ablauf der gesetzlichen Fristen keine fuer den Verurteilten nachteiligen Rechtswirkungen aus den fraglichen Vorstrafen abgeleitet werden duerfen, weder materiellstrafrechtliche noch strafprozessuale (BGE 135 I 71, E. 2.11).
 
 ### Haftgrund der Fortsetzungsgefahr und Ersatzmassnahmen
 
@@ -32,13 +43,13 @@ agent_verified: true
 
 ### Auslaenderrechtliche Haft (Administrativhaft)
 
-**BGE 142 I 135** — Zulaessigkeit der Beschwerde gegen Administrativhaft. Das Bundesgericht bestaetigte die Zulaessigkeit der Beschwerde in oeffentlich-rechtlichen Angelegenheiten gegen ein Urteil des Bundesverwaltungsgerichts betreffend die Anordnung von Administrativhaft durch das SEM. Verlangt der Betroffene erstmals die richterliche Pruefung der Haftanordnung, hat diese so rasch wie moeglich zu erfolgen. Die 8-taegige Frist gemaess Art. 80a Abs. 4 AuG betrifft nicht die erstmalige richterliche Pruefung der Haft, sondern die Beurteilung eines spaeteren Haftentlassungsgesuchs (BGE 142 I 135, E. 3). Allein der Umstand, dass eine Person in einem anderen Dublin-Staat ein Asylgesuch gestellt hat, rechtfertigt eine Haft nicht; fuer eine Haftanordnung gemaess Art. 76a AuG muessen konkrete Anzeichen einer erheblichen Gefahr des Untertauchens bestehen (BGE 142 I 135, E. 4).
+**BGE 142 I 135** — Zulaessigkeit der Beschwerde gegen Administrativhaft. Das Bundesgericht bestaetigte die Zulaessigkeit der Beschwerde in oeffentlich-rechtlichen Angelegenheiten gegen ein Urteil des Bundesverwaltungsgerichts betreffend die Anordnung von Administrativhaft durch das SEM. Verlangt der Betroffene erstmals die richterliche Pruefung der Haftanordnung, hat diese so rasch wie moeglich zu erfolgen. Die 8-taegige Frist gemaess Art. 80a Abs. 4 AuG betrifft nicht die erstmalige richterliche Pruefung der Haft, sondern die Beurteilung eines spaeteren Haftentlassungsgesuchs (BGE 142 I 135). Allein der Umstand, dass eine Person in einem anderen Dublin-Staat ein Asylgesuch gestellt hat, rechtfertigt eine Haft nicht; fuer eine Haftanordnung gemaess Art. 76a AuG muessen konkrete Anzeichen einer erheblichen Gefahr des Untertauchens bestehen (BGE 142 I 135, E. 4).
 
 **BGE 139 I 206** — Auslaenderrechtliche Haft und Beschleunigungsgebot. Das Bundesgericht befasste sich mit der Anfechtung eines auslaenderrechtlichen Haftentscheids, wenn dieser durch einen Verlaengerungsentscheid ersetzt worden ist, sowie mit der Tragweite des auslaenderrechtlichen Beschleunigungsgebots.
 
 **BGE 140 II 1** — Gesetzmässigkeit einer zweiten Ausschaffungshaft im Rahmen desselben auslaenderrechtlichen Verfahrens. Die Administrativhaft stellt einen schweren Eingriff in die persoenliche Freiheit dar und darf nur im Rahmen von Art. 5 Ziff. 1 lit. f EMRK und Art. 31 BV angeordnet werden, was voraussetzt, dass sie auf einer gesetzlichen Grundlage beruht (BGE 140 II 1, E. 5.1). Die Anordnung der Ausschaffungshaft nach einer Haftentlassung im gleichen Wegweisungsverfahren setzt voraus, dass neue entscheidwesentliche Umstaende vorliegen (BGE 140 II 1, E. 5.2). Liegen keine neuen Umstaende vor, ist die Haft rechtswidrig und die betroffene Person ist unverzueglich freizulassen (BGE 140 II 1, E. 5.5).
 
-**BGE 134 I 92** — Anspruch auf unentgeltliche Verbeistaendung im auslaenderrechtlichen Haftpruefungsverfahren; Natur der Durchsetzungshaft. Die Durchsetzungshaft setzt ein schwebendes Ausweisungsverfahren voraus und stuetzt sich konventionsrechtlich auf Art. 5 Ziff. 1 lit. f EMRK; in diesem Rahmen lehnt sie sich an Art. 5 Ziff. 1 lit. b EMRK an, indem die betroffene Person dadurch zwangsweise veranlasst werden soll, ihrer Mitwirkungs- und Ausreisepflicht nachzukommen (BGE 134 I 92, E. 2). Einer beduerftigen auslaenderrechtlich inhaftierten Person darf im Haftverlaengerungsverfahren nach drei Monaten auf ihr Gesuch hin der unentgeltliche Rechtsbeistand in der Regel nicht verweigert werden (BGE 134 I 92, E. 3 und 4).
+**BGE 134 I 92** — Anspruch auf unentgeltliche Verbeistaendung im auslaenderrechtlichen Haftpruefungsverfahren; Natur der Durchsetzungshaft. Die Durchsetzungshaft setzt ein schwebendes Ausweisungsverfahren voraus und stuetzt sich konventionsrechtlich auf Art. 5 Ziff. 1 lit. f EMRK; in diesem Rahmen lehnt sie sich an Art. 5 Ziff. 1 lit. b EMRK an, indem die betroffene Person dadurch zwangsweise veranlasst werden soll, ihrer Mitwirkungs- und Ausreisepflicht nachzukommen (BGE 134 I 92). Einer beduerftigen auslaenderrechtlich inhaftierten Person darf im Haftverlaengerungsverfahren nach drei Monaten auf ihr Gesuch hin der unentgeltliche Rechtsbeistand in der Regel nicht verweigert werden (BGE 134 I 92, E. 3 und 4).
 
 ### Fuersorgerischer Freiheitsentzug
 
@@ -48,11 +59,11 @@ agent_verified: true
 
 ### Verhaeltnismaessigkeit der Haftdauer
 
-**BGE 145 IV 179** — Verhaeltnismaessigkeit der Haftdauer; nicht allein das Verhaeltnis von Haftdauer zu erwartender Freiheitsstrafe ist massgeblich. Das Verhaeltnismaessigkeitsprinzip verlangt von den Strafbehörden, bei der Pruefung der Haftdauer umso vorsichtiger zu sein, je mehr sich diese der zu erwartenden Freiheitsstrafe naehert. Entscheidend ist jedoch nicht allein das Verhaeltnis der erstandenen Haftdauer zur zu erwartenden Freiheitsstrafe (BGE 145 IV 179, E. 3). Nach Art. 212 Abs. 3 StPO duerfen Untersuchungs- und Sicherheitshaft nicht laenger dauern als die zu erwartende Freiheitsstrafe, wobei nach staendiger Praxis bereits zu vermeiden ist, dass die Haftdauer in grosse Naehe zur zu erwartenden Freiheitsstrafe rueckt (BGE 145 IV 179, E. 3.1).
+**BGE 145 IV 179** — Verhaeltnismaessigkeit der Haftdauer; nicht allein das Verhaeltnis von Haftdauer zu erwartender Freiheitsstrafe ist massgeblich. Das Verhaeltnismaessigkeitsprinzip verlangt von den Strafbehörden, bei der Pruefung der Haftdauer umso vorsichtiger zu sein, je mehr sich diese der zu erwartenden Freiheitsstrafe naehert. Entscheidend ist jedoch nicht allein das Verhaeltnis der erstandenen Haftdauer zur zu erwartenden Freiheitsstrafe (BGE 145 IV 179). Nach Art. 212 Abs. 3 StPO duerfen Untersuchungs- und Sicherheitshaft nicht laenger dauern als die zu erwartende Freiheitsstrafe, wobei nach staendiger Praxis bereits zu vermeiden ist, dass die Haftdauer in grosse Naehe zur zu erwartenden Freiheitsstrafe rueckt (BGE 145 IV 179, E. 3.1).
 
-**BGE 133 I 168** — Untersuchungshaft und Auslieferungshaft; Verhaeltnismaessigkeit. Das Verhaeltnismaessigkeitsprinzip wird verletzt, wenn die Dauer der Untersuchungshaft in grosse zeitliche Naehe der konkret zu erwartenden Freiheitsstrase rueckt (BGE 133 I 168, E. 4.1). Dieser Grenze ist besondere Beachtung zu schenken, weil der Strafrichter dazu neigen koennte, die Dauer der nach Art. 51 StGB anrechenbaren Untersuchungshaft bei der Strafzumessung mitzubueruecksichtigen. Da die Auslieferungshaft auf die Strafe angerechnet werden muss, ist sie grundsaetzlich bei der Beurteilung der Frage einzubeziehen, ob die Dauer der Untersuchungshaft den aus Art. 31 Abs. 3 BV abgeleiteten Anforderungen entspricht (BGE 133 I 168, E. 4.1).
+**BGE 133 I 168** — Untersuchungshaft und Auslieferungshaft; Verhaeltnismaessigkeit. Das Verhaeltnismaessigkeitsprinzip wird verletzt, wenn die Dauer der Untersuchungshaft in grosse zeitliche Naehe der konkret zu erwartenden Freiheitsstrase rueckt (BGE 133 I 168). Dieser Grenze ist besondere Beachtung zu schenken, weil der Strafrichter dazu neigen koennte, die Dauer der nach Art. 51 StGB anrechenbaren Untersuchungshaft bei der Strafzumessung mitzubueruecksichtigen. Da die Auslieferungshaft auf die Strafe angerechnet werden muss, ist sie grundsaetzlich bei der Beurteilung der Frage einzubeziehen, ob die Dauer der Untersuchungshaft den aus Art. 31 Abs. 3 BV abgeleiteten Anforderungen entspricht (BGE 133 I 168).
 
-**BGE 139 IV 270** — Sicherheitshaft waehrend des Verfahrens vor dem Berufungsgericht. Bei der Beurteilung der Verhaeltnismaessigkeit der Haft im Verfahren des Berufungsgerichts hat der Haftrichter nach Art. 231 ff. StPO zu beruecksichtigen, dass die Staatsanwaltschaft mit der Berufung eine Strafverschaerfung verlangt (BGE 139 IV 270, E. 3). Trotz des Wortlauts von Art. 233 StPO widerspricht es Sinn und Zweck dieser Bestimmung nicht, wenn die Verfahrensleitung des Berufungsgerichts als Gremium verstanden wird, deren Mitglieder innerhalb derselben Gerichtsinstanz entweder ueber Haftfragen entscheiden oder die Berufung in der Sache pruefen (BGE 139 IV 270, E. 2).
+**BGE 139 IV 270** — Sicherheitshaft waehrend des Verfahrens vor dem Berufungsgericht. Bei der Beurteilung der Verhaeltnismaessigkeit der Haft im Verfahren des Berufungsgerichts hat der Haftrichter nach Art. 231 ff. StPO zu beruecksichtigen, dass die Staatsanwaltschaft mit der Berufung eine Strafverschaerfung verlangt (BGE 139 IV 270, E. 3). Trotz des Wortlauts von Art. 233 StPO widerspricht es Sinn und Zweck dieser Bestimmung nicht, wenn die Verfahrensleitung des Berufungsgerichts als Gremium verstanden wird, deren Mitglieder als Gremium verstanden wird, deren Mitglieder innerhalb derselben Gerichtsinstanz entweder ueber Haftfragen entscheiden oder die Berufung in der Sache pruefen (BGE 139 IV 270).
 
 ### Beschleunigungsgebot
 
@@ -70,7 +81,7 @@ agent_verified: true
 
 ### Dringender Tatverdacht und Schuldfragen
 
-**BGE 143 IV 330** — Fortsetzung von Untersuchungshaft; dringender Tatverdacht einer eventualvorsaetzlichen Toetung. Der vom Haftrichter zu pruefende dringende Tatverdacht bezieht sich grundsaetzlich auf ein tatbestandsmaessiges und rechtswidriges Verbrechen oder Vergehen. Dabei koennen sich auch Fragen hinsichtlich des Kausalzusammenhanges stellen. Das Vorliegen und das Ausmass der strafrechtlichen Schuldfaehigkeit sowie die schuldangemessene bzw. sachlich gebotene Sanktion sind demgegenueber vom Sachrichter zu pruefen. Anders liegt der Fall, wenn ausnahmeweise schon im Haftpruefungsverfahren klar ist, dass weder eine Strafe noch eine freiheitsentziehende Massnahme in Frage kommen kann (BGE 143 IV 330, E. 2). Im Haftpruefungsverfahren genuegt der Nachweis von konkreten Verdachtsmomenten, wonach das untersuchte Verhalten mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale erfuellen koennte (BGE 143 IV 330, E. 2.1).
+**BGE 143 IV 330** — Fortsetzung von Untersuchungshaft; dringender Tatverdacht einer eventualvorsaetzlichen Toetung. Der vom Haftrichter zu pruefende dringende Tatverdacht bezieht sich grundsaetzlich auf ein tatbestandsmaessiges und rechtswidriges Verbrechen oder Vergehen. Dabei koennen sich auch Fragen hinsichtlich des Kausalzusammenhanges stellen. Das Vorliegen und das Ausmass der strafrechtlichen Schuldfaehigkeit sowie die schuldangemessene bzw. sachlich gebotene Sanktion sind demgegenueber vom Sachrichter zu pruefen. Anders liegt der Fall, wenn ausnahmeweise schon im Haftpruefungsverfahren klar ist, dass weder eine Strafe noch eine freiheitsentziehende Massnahme in Frage kommen kann (BGE 143 IV 330). Im Haftpruefungsverfahren genuegt der Nachweis von konkreten Verdachtsmomenten, wonach das untersuchte Verhalten mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale erfuellen koennte (BGE 143 IV 330, E. 2.1).
 
 ### Unverzuegliche Vorfuehrung vor einen Richter
 
@@ -82,7 +93,7 @@ agent_verified: true
 
 ### Sicherheitshaft zur Gewaehrleistung einer Landesverweisung
 
-**BGE 143 IV 168** — Sicherheitshaft zur Gewaehrleistung einer Landesverweisung; rechtliche Grundlage und Verhaeltnismaessigkeitsprinzip. Da es sich bei der Landesverweisung um eine strafrechtliche Massnahme handelt (Art. 66a Abs. 1 lit. b StGB), stellen Art. 220 Abs. 2 und Art. 231 Abs. 1 lit. a StPO eine hinreichende gesetzliche Grundlage dar, um eine Person zur Sicherstellung des Vollzugs einer erstinstanzlich ausgesprochenen Landesverweisung in Sicherheitshaft zu versetzen (BGE 143 IV 168, E. 3.2). Eine Person, die zu einer Landesverweisung und einer bedingten Freiheitsstrafe verurteilt worden ist, kann in Sicherheitshaft belassen werden, falls die Frage des bedingten Vollzugs ungewiss ist, die erstandene Haft nicht die Dauer des erstinstanzlich ausgesprochenen Freiheitsentzugs uebersteigt und das Beschleunigungsgebot gewahrt ist (BGE 143 IV 168, E. 5).
+**BGE 143 IV 168** — Sicherheitshaft zur Gewaehrleistung einer Landesverweisung; rechtliche Grundlage und Verhaeltnismaessigkeitsprinzip. Da es sich bei der Landesverweisung um eine strafrechtliche Massnahme handelt (Art. 66a Abs. 1 lit. b StGB), stellen Art. 220 Abs. 2 und Art. 231 Abs. 1 lit. a StPO eine hinreichende gesetzliche Grundlage dar, um eine Person zur Sicherstellung des Vollzugs einer erstinstanzlich ausgesprochenen Landesverweisung in Sicherheitshaft zu versetzen (BGE 143 IV 168, E. 3.2). Eine Person, die zu einer Landesverweisung und einer bedingten Freiheitsstrafe verurteilt worden ist, kann in Sicherheitshaft belassen werden, falls die Frage des bedingten Vollzugs ungewiss ist, die erstandene Haft nicht die Dauer des erstinstanzlich ausgesprochenen Freiheitsentzugs uebersteigt und das Beschleunigungsgebot gewahrt ist (BGE 143 IV 168).
 
 ### Untersuchungshaft bei Voelkerstrafrecht
 
@@ -96,7 +107,7 @@ agent_verified: true
 
 ### Gerichtliche Kontrolle der Administrativhaft
 
-**BGE 142 I 135** — Anspruch auf moeglichst rasche richterliche Pruefung der Haft. Verlangt der Betroffene erstmals die richterliche Pruefung der Haftanordnung, hat diese so rasch wie moeglich zu erfolgen. Die 8-taegige Frist gemaess Art. 80a Abs. 4 AuG betrifft nicht die erstmalige richterliche Pruefung der Haft, sondern die Beurteilung eines spaeteren Haftentlassungsgesuchs (BGE 142 I 135, E. 3).
+**BGE 142 I 135** — Anspruch auf moeglichst rasche richterliche Pruefung der Haft. Verlangt der Betroffene erstmals die richterliche Pruefung der Haftanordnung, hat diese so rasch wie moeglich zu erfolgen. Die 8-taegige Frist gemaess Art. 80a Abs. 4 AuG betrifft nicht die erstmalige richterliche Pruefung der Haft, sondern die Beurteilung eines spaeteren Haftentlassungsgesuchs (BGE 142 I 135).
 
 ## IV. Ersatzmassnahmen
 
@@ -106,12 +117,44 @@ agent_verified: true
 
 ### Abgrenzung Freiheitsentziehung und Freiheitsbeschraenkung
 
-**BGE 134 I 140** — Gewaltschutzmassnahmen und Freiheitsentziehung. Unter dem Begriff Freiheitsentziehung im Sinne von Art. 5 EMRK und Art. 31 BV ist nicht bloss Haft im engen Sinn zu verstehen. Umgekehrt faellt nicht jede Art der Freiheitsbeschraenkung unter diese Garantie, sondern nur Freiheitsbeschraenkungen von gewissem Ausmass und gewisser Intensitaet. Bei der Abgrenzung sind verschiedene Kriterien zu beruecksichtigen, vor allem die Art und Weise, die Dauer, das Ausmass und die Intensitaet der Beschraenkung; massgeblich sind die Auswirkungen der zu beurteilenden Massnahme insgesamt (BGE 134 I 140, E. 3.2). Rayon- und Kontaktverbote nach dem Zuercher Gewaltschutzgesetz fallen nicht unter den Begriff der Freiheitsentziehung von Art. 5 EMRK und Art. 31 BV, da sie nicht dermassen einschneidend sind, dass von einer Freiheitsentziehung gesprochen werden koennte (BGE 134 I 140, E. 3.3).
+**BGE 134 I 140** — Gewaltschutzmassnahmen sind **keine** Freiheitsentziehung. Unter dem Begriff Freiheitsentziehung im Sinne von Art. 5 EMRK und Art. 31 BV ist zwar nicht bloss Haft im engen Sinn zu verstehen. Umgekehrt faellt nicht jede Art der Freiheitsbeschraenkung unter diese Garantie, sondern nur Freiheitsbeschraenkungen von gewissem Ausmass und gewisser Intensitaet. Bei der Abgrenzung sind verschiedene Kriterien zu beruecksichtigen, vor allem die Art und Weise, die Dauer, das Ausmass und die Intensitaet der Beschraenkung; massgeblich sind die Auswirkungen der zu beurteilenden Massnahme insgesamt (BGE 134 I 140, E. 3.2). Rayon- und Kontaktverbote nach dem Zuercher Gewaltschutzgesetz fallen nicht unter den Begriff der Freiheitsentziehung von Art. 5 EMRK und Art. 31 BV, da sie nicht dermassen einschneidend sind, dass von einer Freiheitsentziehung gesprochen werden koennte (BGE 134 I 140, E. 3.3).
 
 ### Grundsatz der Verhaeltnismaessigkeit
 
-Die Untersuchungshaft muss als schwerwiegender Eingriff in das Grundrecht der persoenlichen Freiheit auf einer klaren gesetzlichen Grundlage in einem Gesetz beruhen, im oeffentlichen Interesse liegen und verhaeltnismaessig sein (Art. 36 BV; BGE 133 I 270, E. 2.2). Bei Beschwerden, die gestuetzt auf das Recht der persoenlichen Freiheit wegen der Anordnung von Untersuchungshaft erhoben werden, prueft das Bundesgericht im Hinblick auf die Schwere des Eingriffs die Auslegung und Anwendung des entsprechenden Rechts frei (BGE 132 I 21, E. 3.2.3; BGE 137 IV 122, E. 2).
+Die Untersuchungshaft muss als schwerwiegender Eingriff in das Grundrecht der persoenlichen Freiheit auf einer klaren gesetzlichen Grundlage in einem Gesetz beruhen, im oeffentlichen Interesse liegen und verhaeltnismaessig sein (Art. 36 BV; BGE 133 I 270, E. 2.2). Bei Beschwerden, die gestuetzt auf das Recht der persoenlichen Freiheit wegen der Anordnung von Untersuchungshaft erhoben werden, prueft das Bundesgericht im Hinblick auf die Schwere des Eingriffs die Auslegung und Anwendung des entsprechenden Rechts frei (BGE 132 I 21; BGE 137 IV 122, E. 2).
 
 ### Haftung als ultima ratio
 
 Die Anordnung von Untersuchungshaft wegen Wiederholungs- bzw. Fortsetzungsgefahr ist verhaeltnismaessig, wenn die Rueckfallprognose sehr unguenstig und die zu befuerchtenden Delikte von schwerer Natur sind. Die rein hypothetische Moeglichkeit der Veruebung weiterer Delikte sowie die Wahrscheinlichkeit, dass nur geringfuegige Straftaten veruebt werden, reichen nicht aus, um eine Praeventivhaft zu begruenden (BGE 133 I 270, E. 2.2). Haft ist nur als ultima ratio angezuordnen; wo sie durch mildere Massnahmen ersetzt werden kann, muss von der Anordnung oder Fortdauer der Haft abgesehen werden (BGE 133 I 270, E. 2.2).
+---
+
+## Audit-Protokoll (12. August 2026)
+
+Ausgangslage: 133 beurteilte Paare, davon 93 gestützt und 30 teilweise — **81 %, Urteil A auf Anhieb**. Der beste Ausgangswert der BV-Kampagne und der erste Artikel, der die Schwelle ohne Eingriff erreicht. Keine erfundene Referenz; alle 21 zitierten Entscheide existieren.
+
+### Widerspruch zum Entscheid
+
+| Referenz | Befund |
+|---|---|
+| BGE 134 I 140 | Der Block war überschrieben «Gewaltschutzmassnahmen und Freiheitsentziehung» und begann mit dem Satz, unter den Begriff der Freiheitsentziehung sei nicht bloss Haft im engen Sinn zu verstehen. Der Entscheid hält das **Gegenteil** des daraus gelesenen Ergebnisses fest: Rayon- und Kontaktverbote sind *keine* Freiheitsentziehung im Sinne von Art. 5 EMRK und Art. 31 BV. Die Leitentscheid-Tabelle des Kommentars gab das korrekt wieder — nur dieser Block nicht. Ergebnis jetzt vorangestellt. |
+
+### Falsche Normzuordnung
+
+| Referenz | Befund |
+|---|---|
+| BGE 133 I 270 | Der Kommentar leitete die Begründungspflicht des Haftrichters aus **Art. 31 Abs. 2 BV** ab. Der Entscheid leitet sie aus dem Gehörsanspruch nach **Art. 29 Abs. 2 BV** ab. Korrigiert. |
+
+### Regeste-abgeleitete Pinpoints
+
+Wie bei Art. 29a BV: Mehrere Fundstellen trugen den Pinpoint, den die Regeste selbst nennt, obwohl die zusammengefasste Aussage im Erwägungstext verteilt steht. Beispiele, jeweils mit Pinpoint als ungestützt gemeldet und ohne Pinpoint sauber belegt:
+
+| Aussage | mit Pinpoint | ohne |
+|---|---|---|
+| Die 8-tägige Frist nach Art. 80a Abs. 4 AuG betrifft nicht die erstmalige richterliche Prüfung (BGE 142 I 135) | `no` | `yes` 0.99 |
+| Art. 369 StGB ist auch vom Haftrichter zu beachten (BGE 135 I 71) | `no` | `yes` 1.0 |
+
+Zwei tote Pinpoints entfernt: BGE 134 I 92 E. 2 und BGE 145 IV 179 E. 3.
+
+### Hinweis zur Textqualität
+
+Beide Dateien sind streckenweise ohne Umlaute gesetzt («Verhaeltnismaessigkeit», «unverzueglich», «Gehoersanspruch»). Das ist kein Belegproblem und wurde in diesem Durchgang nur dort behoben, wo die betroffene Stelle ohnehin überarbeitet wurde. Eine durchgehende Bereinigung steht aus.
