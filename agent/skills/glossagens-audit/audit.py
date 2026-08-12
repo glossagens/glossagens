@@ -44,7 +44,7 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 7
+PARSER_VERSION = 8
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
@@ -438,9 +438,12 @@ def parse_file(path, rel):
             if am:
                 pin = am.group(1).replace("-", ".")
         if pin is None:
-            pm = PINPOINT.search(label) or PINPOINT.search(
-                body[max(0, m.start() - 160) : m.start()]
-            )
+            # Rückwärtssuche nur innerhalb derselben Zeile: In Tabellen steht in
+            # der Vorzeile eine fremde Erwägungsspalte, die sonst als Pinpoint
+            # dieses Belegs gelesen wird (BV Art. 34: drei Fehlalarme so entstanden).
+            vor = body[max(0, m.start() - 160) : m.start()]
+            vor = vor[vor.rfind("\n") + 1 :]
+            pm = PINPOINT.search(label) or PINPOINT.search(vor)
             if pm:
                 pin = pm.group(1)
 

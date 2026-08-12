@@ -2,18 +2,22 @@
 title: "Art. 34 BV — Politische Rechte"
 weight: 34
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 34 BV: Garantie der politischen Rechte; freie Willensbildung und unverfälschte Stimmabgabe; Abstimmungsfreiheit; behördliche Informationspflicht; behördliche Interventionen im Abstimmungskampf; Stimmrechtsbeschwerde; Wahlrecht und Wahlkreisgestaltung."
 tags: ["BV", "Grundrechte", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "Willensbildung", "Stimmrechtsbeschwerde", "Wahlrecht", "behördliche Intervention", "BPR"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+mcp_verified: false
 revisions:
-
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 63 %, Urteil B): Der Artikel trug agent_verified und mcp_verified auf true und enthielt gleichwohl drei erfundene Referenzen (BGE 134 I 239, 136 I 165, 141 I 6), sieben tote Pinpoints und zwei vollständige Fehlzuordnungen. Beide Flags zurückgenommen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Überarbeitet — das Flag mcp_verified: true hielt der Prüfung vom 2026-08-12 nicht stand"
 ---
 
 ## Gesetzeswortlaut
@@ -77,7 +81,7 @@ Konkretisiert wird Art. 34 BV durch das **Bundesgesetz über die politischen Rec
 
 ### V. Stimmrechtsbeschwerde und Rechtsschutz
 
-**15** **Rechtsbehelf.** Die **Stimmrechtsbeschwerde** (Art. 82 lit. c BGG) ist der zentrale Rechtsbehelf zur Durchsetzung von Art. 34 BV vor dem Bundesgericht. Sie kann von Stimmberechtigten gegen Unregelmässigkeiten im Abstimmungs- und Wahlverfahren erhoben werden. Die Beschwerdefrist beträgt bei kantonalen Abstimmungen drei Tage (Art. 77 Abs. 2 BPR; [BGE 140 I 338](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_338) E. 4.4). Private und juristische Personen sind zur Stimmrechtsbeschwerde legitimiert ([BGE 130 I 290](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_290) E. 1.2–1.3). Der nachträgliche Rechtsschutz bei erst nachträglich bekannt gewordenen Unregelmässigkeiten ist durch den verfassungsrechtlichen Anspruch auf Revision oder Wiedererwägung gewährleistet ([BGE 138 I 61](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_61) E. 4.3).
+**15** **Rechtsbehelf.** Die **Stimmrechtsbeschwerde** (Art. 82 lit. c BGG) ist der zentrale Rechtsbehelf zur Durchsetzung von Art. 34 BV vor dem Bundesgericht. Sie kann von Stimmberechtigten gegen Unregelmässigkeiten im Abstimmungs- und Wahlverfahren erhoben werden. Die Beschwerdefrist beträgt bei kantonalen Abstimmungen drei Tage (Art. 77 Abs. 2 BPR; [BGE 140 I 338](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_338). Private und juristische Personen sind zur Stimmrechtsbeschwerde legitimiert ([BGE 130 I 290](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_290)–1.3). Der nachträgliche Rechtsschutz bei erst nachträglich bekannt gewordenen Unregelmässigkeiten ist durch den verfassungsrechtlichen Anspruch auf Revision oder Wiedererwägung gewährleistet ([BGE 138 I 61](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_61) E. 4.3).
 
 ### VI. Zusammenhang mit anderen Grundrechten
 
