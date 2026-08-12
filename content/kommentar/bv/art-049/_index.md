@@ -2,18 +2,22 @@
 title: "Art. 49 BV — Vorrang und Einhaltung des Bundesrechts"
 weight: 49
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 49 BV: Bundesrecht geht entgegenstehendem kantonalem Recht vor; Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 tags: ["BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkonflikt", "Derogation", "Verfassung"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+mcp_verified: false
 revisions:
-
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 17 %, Urteil C): Von 63 Belegpaaren war eines gestützt, fünf standen im Widerspruch zum Entscheid. Sämtliche Referenzen existierten — durchgehende Fehlzuordnung. Zudem berief sich der Kommentar auf einen Art. 49a BV, den es nicht gibt. Tragende Formel aus BGE 150 I 213 E. 4.1 ergänzt. Beide Flags zurückgenommen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Elf Audit-Überarbeitungen am selben Tag; das Ergebnis trug mcp_verified: true und war zu 17 % belegt"
 ---
 
 ## Gesetzeswortlaut
@@ -36,9 +40,15 @@ revisions:
 
 **2** **Stufenbau der Rechtsordnung.** Im schweizerischen Stufenbau der Rechtsordnung steht das **Bundesverfassungsrecht** an oberster Stelle, gefolgt vom **formellen Bundesrecht** (Bundesgesetze) und dem **kantonalen Recht**. Bei Widerspruch zwischen Bundes- und kantonalem Recht hat das Bundesrecht Vorrang.
 
-**3** **Abgrenzung zur Derogationsgewalt.** Art. 49 BV ist von der **Derogationsgewalt** des Bundes (Art. 49a BV) zu unterscheiden. Während Art. 49 BV den Vorrang des Bundesrechts gegenüber kantonalem Recht sichert, ermächtigt Art. 49a BV den Bund, bei nicht vollziehbarem Bundesrecht die erforderlichen Massnahmen zu treffen.
+**3** **Prüfungsbefugnis.** Das Bundesgericht prüft die Vereinbarkeit einer kantonalen Rechtsnorm mit dem Bundesrecht **frei**, wenn es diese Frage auf die Rüge der Verletzung von Art. 49 Abs. 1 BV hin zu beurteilen hat ([BGE 150 I 213, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_213#e-4-1)). Das unterscheidet die Vorrangrüge von der blossen Willkürkontrolle kantonalen Rechts.
 
-**4** **Wann Bundesrechtvorrang eingreift.** Der Bundesrechtvorrang greift ein, wenn:
+**4** **Wann Bundesrechtvorrang eingreift.** Das Bundesgericht umschreibt die Fallgruppen wie folgt:
+
+> «Der Grundsatz des Vorrangs des Bundesrechts schliesst den Erlass oder die Anwendung kantonaler Vorschriften aus, die bundesrechtliche Vorschriften umgehen oder deren Sinn oder Geist widersprechen — namentlich durch ihren Zweck oder die eingesetzten Mittel —, oder die in Bereiche eingreifen, die der Bundesgesetzgeber abschliessend geregelt hat.»
+
+([BGE 150 I 213, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_213#e-4-1))
+
+Daraus ergeben sich drei Fallgruppen:
 
 - **Formelles Bundesrecht** (Bundesgesetze, Verordnungen) **kantonalem Recht** widerspricht
 - **Kantonales Recht** Regelungen trifft, die in den **Kompetenzbereich des Bundes** fallen
@@ -48,15 +58,15 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 **5** **Einfacher Gesetzesvorrang.** Der Vorrang des einfachen Bundesrechts gegenüber kantonalem Verfassungsrecht folgt aus Art. 49 Abs. 1 BV. Ein kantonaler Verfassungsartikel kann nicht gegen ein Bundesgesetz gerichtet werden, es sei denn, das Bundesgesetz seinerseits verstösst gegen die Bundesverfassung.
 
-**6** **LECCT-Abschliessung und kantonale Usances.** In BGE 143 I 403 hat das Bundesgericht klargestellt, dass die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen (bestätigt durch BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025, alle vom 25.6.2026) ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403) E. 7 ff.).
+**6** **Abschliessende Bundesregelung — Beispiel Gesamtarbeitsverträge.** Umstritten war, ob die abschliessende Regelung der CCT-Erstreckung durch die LECCT kantonale Usances ausschliesst, die eine nicht-erstreckte CCT de facto auf private Arbeitgeber ausdehnen .
 
 **7** **Weite und enge Auslegung.** Bei der Prüfung des Normenkonflikts ist das Bundesrecht **weit** und das kantonale Recht **eng** auszulegen. Im Zweifel ist die kantonale Norm nicht entgegenstehend, wenn eine mit dem Bundesrecht **vereinbare Auslegung** möglich ist.
 
-**8** **Passivrauchschutz.** BGE 139 I 242 bestätigt den Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG ([BGE 139 I 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_242)).
+**8** **Passivrauchschutz.** Diskutiert wird der Vorrang des Bundesrechts (PaRG) gegenüber kantonalem Gastgewerberecht: kantonale Ausnahmebewilligungen für Fumoirs verstossen gegen das PaRG.
 
-**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht ([BGE 138 I 468](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_468)).
+**9** **Strommarktliberalisierung.** BGE 138 I 468: Kantonale Vorschriften, die den freien Zugang zum Strommarkt einschränken, verstossen gegen das StromVG als Bundesrecht.
 
-**10** **Fürsorgeleistungen für Asylsuchende.** BGE 130 I 82: Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht ([BGE 130 I 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_82)).
+**10** **Fürsorgeleistungen für Asylsuchende.** Kantonale Kürzung von Fürsorgeleistungen für Asylsuchende verstösst gegen den Bundesrechtvorrang, wenn das Bundesrecht einen Mindeststandard vorsieht.
 
 ### II. Absatz 2 — Bundeseinhaltungsaufsicht
 
@@ -67,7 +77,7 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 - **Bundesgericht**: Von Amtes wegen anwendbar (Art. 95 lit. a BGG)
 - **Verfassungsgerichtsbeschwerde**: Bei Verletzung des Bundesrechtvorrangs
 - **Kantonale Behörden**: Sind verpflichtet, bundesrechtswidriges kantonales Recht nicht anzuwenden
-- **Bundesrat**: Im Rahmen der Aufsicht (Art. 49a BV bei Nichtvollzug)
+- **Bundesrat**: Im Rahmen der Bundesaufsicht nach Art. 49 Abs. 2 BV
 
 ### III. Ausnahmen und Grenzen
 
@@ -81,7 +91,9 @@ Der Vorrang gilt sowohl für **formelles** als auch für **materielles** Bundesr
 
 ### IV. Aktuelle Entwicklungen (2024–2026)
 
-**15** **Genfer Usages der petite enfance (2026).** In den Grundsatzurteilen BGer 2C_462/2024, 2C_533/2025 und 2C_256/2025 (25.6.2026, 5er-Besetzung) hat das Bundesgericht klargestellt, dass die Genfer «Règle d'or» zur Feststellung von Usages de la petite enfance gegen Art. 49 Abs. 1 BV verstösst, weil sie eine nicht-erstreckte CCT de facto auf private Krippenbetreiber ausdehnt — ohne die Voraussetzungen, das Verfahren und die Befristung der LECCT.
+**15** **Genfer Usages der petite enfance (2026).** Am 25. Juni 2026 hat das Bundesgericht drei Urteile zur Genfer Regelung der «usages de la petite enfance» gefällt.
+
+> **Hinweis:** Die Entscheide sind so jung, dass noch keine Regeste vorliegt. Ihre Tragweite — insbesondere ob und inwieweit die Genfer «Règle d'or» gegen Art. 49 Abs. 1 BV verstösst — liess sich in diesem Durchgang nicht gegen den Entscheidtext verifizieren. Die Fundstellen sind deshalb im Audit-Protokoll der Rechtsprechungsseite vermerkt und hier nicht als Beleg geführt.
 
 **16** **Steuerrechtliche Doppelbesteuerung (2026).** BGer 9C_391/2025 (22.7.2026) bestätigt, dass der Vorrang des Bundesrechts auch im Bereich der interkantonalen Doppelbesteuerung gilt und eine Verwirkungseinrede bei fehlendem qualifiziertem Missbrauch scheitert.
 *Letzte Aktualisierung: 9. August 2026*
