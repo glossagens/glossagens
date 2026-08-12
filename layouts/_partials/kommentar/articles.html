@@ -26,16 +26,13 @@
 {{- range where .Sections "Kind" "section" -}}
   {{- $slug := path.Base .Path -}}
   {{- $rest := strings.TrimPrefix "art-" $slug -}}
-  {{- $ziffern := "" -}}
-  {{- $suffix := "" -}}
-  {{- range (seq (len $rest)) -}}
-    {{- $c := substr $rest (sub . 1) 1 -}}
-    {{- if and (eq $suffix "") (ge $c "0") (le $c "9") -}}
-      {{- $ziffern = printf "%s%s" $ziffern $c -}}
-    {{- else -}}
-      {{- $suffix = printf "%s%s" $suffix $c -}}
-    {{- end -}}
-  {{- end -}}
+  {{- /* Ziffernkopf und Buchstabensuffix trennen. Bewusst per Regex statt per
+         Zeichenvergleich: `ge $c "0"` / `le $c "9"` hängt von der
+         String-Vergleichssemantik der Hugo-Version ab und lieferte auf dem
+         GitHub-Runner für "art-031a" den Ziffernteil "031a" — der Cast nach int
+         brach den ganzen Build ab (Deploys ab 11.08.2026 rot). */ -}}
+  {{- $ziffern := index (append (slice) (findRE "^[0-9]+" $rest 1)) 0 | default "0" -}}
+  {{- $suffix := replaceRE "^[0-9]+" "" $rest -}}
   {{- /* Führende Nullen abschneiden: int "009" wirft einen Cast-Fehler. */ -}}
   {{- $nr := int (strings.TrimLeft "0" $ziffern | default "0") -}}
 
