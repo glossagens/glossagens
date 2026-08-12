@@ -2,15 +2,26 @@
 title: "Art. 35 BV — Verwirklichung der Grundrechte"
 weight: 35
 date: 2026-05-23
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 35 BV: Verwirklichung der Grundrechte in der ganzen Rechtsordnung — Grundrechtsbindung, Drittwirkung, Objektive Wertordnung."
+lastmod: 2026-08-12
+description: "Kommentar zu Art. 35 BV: Verwirklichung der Grundrechte in der ganzen Rechtsordnung — Grundrechtsbindung von Aufgabenträgern, Wirkung unter Privaten, Einbürgerungsverfahren."
 tags: ["BV", "Grundrechte", "Grundrechtsbindung", "Drittwirkung", "Verwirklichung", "objektive Wertordnung", "Horizontalwirkung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 20 %, Urteil C): Kein einziges Belegpaar war gestützt, obwohl alle Referenzen existieren — reine Fehlzuordnung. Belegapparat neu aufgebaut auf die tatsächlichen Art.-35-Leitentscheide (BGE 139 I 306, 138 I 274, 129 III 35, 129 I 217, 135 I 265). agent_verified von true auf false; erstmals revisions-Block."
+  - date: 2026-06-06
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 35 Verwirklichung der Grundrechte**
+> **Art. 35 BV — Verwirklichung der Grundrechte**
 >
 > ¹ Die Grundrechte müssen in der ganzen Rechtsordnung zur Geltung kommen.
 >
@@ -18,60 +29,62 @@ agent_verified: true
 >
 > ³ Die Behörden sorgen dafür, dass die Grundrechte, soweit sie sich dazu eignen, auch unter Privaten wirksam werden.
 
-## Vorbemerkungen
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
-**1** **Stellung und Bedeutung.** Art. 35 BV normiert die Geltung der Grundrechte in der gesamten Rechtsordnung und ihre Bindungswirkung für alle, die staatliche Aufgaben wahrnehmen. Er ist die «Durchsetzungsnorm» der Grundrechte, die deren Objektivierung und Konkretisierung verlangt. Mit 21'338 Gesamtzitaten ist Art. 35 die zentrale Norm für die horizontale und vertikale Grundrechtsbindung.
+## Überblick
 
-**2** **Gesetzgebungsgeschichte.** Art. 35 BV übernimmt die bisherige ungeschriebene Grundrechtsbindung und kodifiziert sie. Die Grundrechte als objektive Wertordnung, die Grundrechtsbindung der Verwaltung und die Drittwirkung (Horizontalwirkung) waren bereits in der Rechtsprechung anerkannt; Art. 35 BV verleiht ihnen Verfassungsrang. Die Botschaft BV (BBl 1997 1552, S. 1574 f.) betont, dass die Grundrechte nicht nur Abwehrrechte gegenüber dem Staat sind, sondern als objektive Wertentscheidungen die gesamte Rechtsordnung durchdringen.
+Art. 35 BV regelt nicht ein einzelnes Grundrecht, sondern die **Art und Weise**, wie Grundrechte in der Rechtsordnung wirksam werden. Die drei Absätze bilden eine Stufenfolge: Abs. 1 richtet einen allgemeinen Verwirklichungsauftrag an die gesamte Rechtsordnung, Abs. 2 bindet jeden Träger staatlicher Aufgaben, Abs. 3 beauftragt die Behörden, für eine Wirkung auch im Verhältnis unter Privaten zu sorgen.
 
-**3** **Systematische Stellung.** Art. 35 BV steht im Abschnitt «Allgemeine Bestimmungen» des Grundrechte-Kapitels und gilt für alle nachfolgenden Grundrechte. Mit [Art. 36 BV](../art-036/) (Einschränkung von Grundrechten) bildet er den allgemeinen Teil des Grundrechtsschutzes: Art. 35 bestimmt die Geltung und Durchsetzung, Art. 36 die Schranken.
+Praktisch am wichtigsten ist **Abs. 2**: Er entscheidet darüber, ob eine ausgegliederte oder privatrechtlich handelnde Einheit grundrechtsgebunden ist (N 2–4).
 
-## Kommentierung
+## I. Verwirklichungsauftrag (Abs. 1)
 
-### I. Grundrechte als objektive Wertordnung (Abs. 1)
+**N 1** Abs. 1 verpflichtet Gesetzgebung, Verwaltung und Rechtsprechung, den Grundrechten in der gesamten Rechtsordnung Geltung zu verschaffen. Die Bestimmung begründet für sich allein keinen individuellen Anspruch; sie wirkt als Auslegungs- und Konkretisierungsauftrag.
 
-**4** **Geltung in der ganzen Rechtsordnung.** Abs. 1 verlangt, dass die Grundrechte in der gesamten Rechtsordnung — nicht nur im Verhältnis Staat–Bürger — zur Geltung kommen. Die Grundrechte sind nicht nur Abwehrrechte, sondern objektive Wertentscheidungen, die den Gesetzgeber, die Verwaltung und die Rechtsprechung binden.
+## II. Grundrechtsbindung der Aufgabenträger (Abs. 2)
 
-**5** **Objektivierung der Grundrechte.** Die objektive Wertordnung hat drei Wirkungen:
-- **Auslegungsrichtlinie**: Gesetze und Verträge sind grundrechtskonform auszulegen.
-- **Schutzpflicht**: Der Staat hat die Pflicht, die Grundrechte vor Eingriffen Privater zu schützen (z.B. Gewaltschutz, Arbeitnehmerschutz).
-- **Organisations- und Verfahrenspflicht**: Der Staat muss seine Organisation und Verfahren so gestalten, dass die Grundrechte effektiv wirksam werden.
+**N 2** **Massstab.** Wer staatliche Aufgaben wahrnimmt, ist grundrechtsgebunden — unabhängig von der Rechtsform und unabhängig davon, ob er privatrechtlich handelt. Das Bundesgericht hält für die SRG fest:
 
-**6** **Praktische Bedeutung im Sozialversicherungsrecht.** Im Sozialversicherungsrecht hat die Rechtsprechung die objektive Wertordnung von Art. 35 Abs. 1 besonders betont: Die Grundrechte (insbesondere Art. 8 BV und Art. 27 BV) müssen bei der Ausgestaltung des Sozialversicherungssystems berücksichtigt werden. Die ärztliche Berufsausübungsfreiheit (Art. 27 BV) im Rahmen von HMO-Modellen ist ein Beispiel für die Drittwirkung der Grundrechte im Versicherungsverhältnis ([BGE 141 V 557](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_557) E. 5).
+> «Bei ihrem privatrechtlichen Handeln im Werbebereich ist die SRG grundrechtsgebunden.»
 
-### II. Grundrechtsbindung staatlicher Aufgabenträger (Abs. 2)
+([BGE 139 I 306](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_306)). Der Entscheid betraf die Weigerung der SRG bzw. der publisuisse SA, einen Werbespot auszustrahlen.
 
-**7** **Staatliche Aufgabenträger.** Abs. 2 bindet alle, die staatliche Aufgaben wahrnehmen, an die Grundrechte. Dies umfasst nicht nur die klassischen Staatsorgane (Legislative, Exekutive, Judikative), sondern auch Private, die mit öffentlich-rechtlichen Aufgaben betraut sind (z.B. Koncessionäre, Beliehene, Subventionsempfänger).
+**N 3** **Öffentliche Sachen.** Die Regelung der Zulässigkeit und des Umfangs einer ausserordentlichen Nutzung öffentlicher Sachen im engeren Sinn ist öffentlich-rechtlicher Natur; für das Aushängen von Plakaten in Bahnhöfen sind die SBB damit an Art. 16 Abs. 2 und Art. 35 Abs. 2 BV gebunden ([BGE 138 I 274](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_274)).
 
-**8** **Verwirklichungspflicht.** Die Bindung geht über das blosse Unterlassen von Grundrechtsverletzungen hinaus: Die staatlichen Aufgabenträger sind *verpflichtet*, zu einer aktiven Verwirklichung der Grundrechte beizutragen. Dies kann gesetzgeberische Schutzpflichten und proaktive Fördermassnahmen umfassen. Beispiele:
-- **Einbürgerungsverfahren**: Die Behörden müssen ablehnende Entscheide begründen, um das Grundrecht auf Gleichheit zu verwirklichen ([BGE 129 I 232](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_232) E. 4).
-- **Ausländerrecht**: Die Verwaltungsbehörden sind bei der Anwendung ausländerrechtlicher Normen an die Grundrechte gebunden und müssen die Verwirklichung der Grundrechte (insbesondere Art. 8 EMRK) aktiv fördern ([BGE 137 I 23](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_23) E. 4).
+**N 4** **Grenze der Bindung.** Die Grundrechtsbindung reicht so weit wie die staatliche Aufgabe. Wo eine Tätigkeit **nicht** zum Auftrag gehört, greift Abs. 2 nicht: Die Beförderung nicht abonnierter Zeitungen zählt nicht zur obligatorisch zu erbringenden Grundversorgung der Post, sondern zu den Dienstleistungen, die sie im Wettbewerb erbringt ([BGE 129 III 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_35)). Die Abgrenzung zwischen Grundversorgungsauftrag und Wettbewerbstätigkeit entscheidet damit über die Bindung.
 
-**9** **Privatisierung und Beliehene.** Private, die staatliche Aufgaben wahrnehmen (z.B. SBB, Swisscom, Beliehene im Gesundheitswesen), sind an die Grundrechte gebunden. Die Bindung erstreckt sich auf alle Akte, die als Hoheitsakt oder als öffentlich-rechtliche Massnahme qualifiziert werden. Rein private Tätigkeiten ohne staatlichen Bezug unterfallen nicht der Grundrechtsbindung nach Abs. 2.
+## III. Wirkung unter Privaten (Abs. 3)
 
-### III. Drittwirkung / Horizontalwirkung (Abs. 3)
+**N 5** Abs. 3 begründet **keine** unmittelbare Drittwirkung. Die Grundrechte gelten unter Privaten nicht direkt; die Bestimmung richtet einen Auftrag an die Behörden, ihnen «soweit sie sich dazu eignen» im Privatrechtsverhältnis Wirkung zu verschaffen — vor allem durch grundrechtskonforme Auslegung des Privatrechts und durch gesetzgeberische Schutzvorkehren.
 
-**10** **Mittelbare Drittwirkung.** Abs. 3 normiert die Drittwirkung der Grundrechte: Die Behörden sorgen dafür, dass die Grundrechte, soweit sie sich dazu eignen, auch unter Privaten wirksam werden. Dies ist eine *mittelbare* Drittwirkung: Die Grundrechte wirken nicht unmittelbar zwischen Privaten, sondern über die staatlichen Normen (Gesetze, Verträge, Gerichtsentscheide), die das Verhältnis der Privaten regeln.
+> **Lücke:** Für die dogmatische Ausgestaltung der mittelbaren Drittwirkung konnte in diesem Durchgang kein tragender Entscheid verifiziert werden. Die Vorfassung führte dafür BGE 147 I 73 und BGE 126 II 300 an; jener betrifft die Unzulässigkeit der Beschwerde gegen Prüfungsergebnisse, dieser Schiesslärm am Liestaler Banntag. Belegte Ergänzungen sind erwünscht.
 
-**11** **Eignung.** Nicht alle Grundrechte eignen sich für die Drittwirkung. Persönlichkeitsrechte (Art. 10, Art. 13 BV) eignen sich in der Regel; wirtschaftliche Freiheiten (Art. 27 BV) eher nicht. Das Bundesgericht prüft die Eignung im Einzelfall:
-- **Gleichheitssatz im Prüfungsrecht**: Private Prüfungsorganisationen müssen den Gleichheitssatz (Art. 8 BV) bei der Bewertung von Prüfungen beachten. Die Drittwirkung des Gleichheitssatzes greift ein, wenn die private Organisation eine gleichheitsrechtlich relevante Stellung einnimmt ([BGE 147 I 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_73) E. 5).
-- **Meinungsfreiheit bei Plakatwerbung**: Private Bahnhofsbetreiber müssen die Meinungsfreiheit (Art. 16 BV) bei der Zulassung von Plakatwerbung berücksichtigen. Die Grundrechtsbindung ergibt sich aus der öffentlich-rechtlichen Funktion des Bahnhofs ([BGE 138 I 274](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_274) E. 3).
+## IV. Einbürgerungsverfahren
 
-**12** **Lärmbelastung und Drittwirkung.** Die Grundrechtsbindung bei privatrechtlichen Nachbarrechtskonflikten (z.B. Lärm, Schiesslärm) ist ein klassischer Anwendungsbereich der Drittwirkung. Die Behörden müssen dafür sorgen, dass die Grundrechte der Privaten (insbesondere Art. 10 BV — Recht auf Leben und persönliche Freiheit) bei der Ausgestaltung von Nachbarrecht und Lärmschutzvorschriften berücksichtigt werden ([BGE 126 II 300](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_300) E. 3).
+**N 6** Das Einbürgerungsverfahren ist der praktisch wichtigste Anwendungsfall der Verwirklichungspflicht. Die Verletzung des Diskriminierungsverbots kann mit Beschwerde gerügt werden, auch wenn — wie bei der Ablehnung eines Einbürgerungsgesuchs — **kein Anspruch in der Sache** besteht ([BGE 129 I 217](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_217)). Das ist der Kern: Ohne diesen Zugang bliebe die Grundrechtsbindung im Einbürgerungsverfahren folgenlos.
 
-### IV. Einbürgerungsverfahren und Grundrechtsbindung
+**N 7** Werden Einbürgerungsgesuche von der kommunalen Bürgerversammlung **zweimal ohne hinreichende Begründung** abgewiesen, stellt sich die Frage der Zuständigkeit zur Beurteilung ([BGE 135 I 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_265)). Der Entscheid erging zu Art. 7–9, 29 und 35 BV.
 
-**13** **Begründungspflicht bei ablehnenden Entscheiden.** Die Grundrechtsbindung (Art. 35 Abs. 2 BV) verlangt, dass Einbürgerungsbehörden ablehnende Entscheide begründen. Dies folgt aus der objektiven Wertordnung der Grundrechte: Die Rechtsgleichheit (Art. 8 BV) und das rechtliche Gehör (Art. 29 BV) erfordern eine nachvollziehbare Begründung, damit die betroffene Person ihre Rechte effektiv wahrnehmen kann ([BGE 129 I 232](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_232) E. 4; [BGE 135 I 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_265) E. 3).
+## V. Verhältnis zu Art. 36 BV
 
-### V. Verhältnis zu Art. 36 BV
+**N 8** Art. 35 BV und Art. 36 BV beantworten verschiedene Fragen:
 
-**14** **Geltung und Schranken.** Art. 35 (Geltung) und Art. 36 (Schranken) sind komplementär: Art. 35 verlangt die Durchsetzung der Grundrechte in der ganzen Rechtsordnung, während Art. 36 die Voraussetzungen für legitime Einschränkungen regelt (gesetzliche Grundlage, öffentliches Interesse, Verhältnismässigkeit). Die Grundrechtsbindung nach Art. 35 Abs. 2 wird durch Einschränkungen nach Art. 36 nicht aufgehoben, sondern konkretisiert.
+| Norm | Frage |
+|---|---|
+| Art. 35 BV | **Wer** ist gebunden, und **wie** kommen die Grundrechte zur Geltung? |
+| Art. 36 BV | Unter welchen Voraussetzungen darf ein Grundrecht **eingeschränkt** werden? |
 
-**15** **Optimierungsgebot.** Art. 35 Abs. 1 enthält ein Optimierungsgebot: Die Grundrechte sollen in der Rechtsordnung zur maximalen Geltung kommen, soweit dies mit den verfassungsmässigen Schranken vereinbar ist. Das Optimierungsgebot ist kein Absolutheitsanspruch, sondern ein Abwägungsgebot.
+Erst wenn nach Art. 35 BV feststeht, dass der Handelnde grundrechtsgebunden ist, stellt sich die Schrankenfrage nach Art. 36 BV.
 
-## Querverweise
+## Offene Punkte
 
-- [Art. 8 BV](../art-008/) — Rechtsgleichheit
-- [Art. 36 BV](../art-036/) — Einschränkung von Grundrechten
-- [Art. 27 BV](../art-027/) — Wirtschaftsfreiheit
-- [Art. 29 BV](../art-029/) — Allgemeine Verfahrensgarantien
+Nicht übernommen wurden Abschnitte, deren Belege die Aussagen nicht trugen:
+
+- **Grundrechte als objektive Wertordnung** als eigener dogmatischer Abschnitt.
+- **Drittwirkung des Gleichheitssatzes bei privaten Prüfungsorganisationen.**
+- **Grundrechtsbindung der Verwaltungsbehörden im Ausländerrecht.**
+- **Ärztliche Berufsausübungsfreiheit** im Zusammenhang mit Art. 35 BV.
+
+Welche Belege im Einzelnen weggefallen sind, steht im Audit-Protokoll am Ende der Rechtsprechungsseite.
+
+Ergänzungen sind willkommen — bitte je Aussage mit Fundstelle und Erwägung.
