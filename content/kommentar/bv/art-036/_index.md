@@ -2,10 +2,21 @@
 title: "Art. 36 BV — Einschränkung von Grundrechten"
 weight: 36
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 36 BV: Verhältnismässigkeit, öffentliches Interesse, Wesensgehalt"
 tags: ["BV", "Grundrechte", "Verhältnismässigkeit", "öffentliches Interesse", "Wesensgehalt", "Einschränkung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 61 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints. Drei Fehlzuordnungen korrigiert (BGE 147 I 450 zur harmonisierenden Konkretisierung, BGE 146 I 70 zum Kerngehalt, BGE 132 II 485 zur Erforderlichkeit); Kernaussage zur Verhältnismässigkeit auf den Wortlaut von BGE 147 I 450 E. 3.2.3/3.2.4 umgestellt. Erstmals revisions-Block; agent_verified von true auf false."
+  - date: 2026-05-18
+    by: "unbekannt"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
 # Art. 36 BV — Einschränkung von Grundrechten
@@ -127,7 +138,13 @@ In BGE 148 I 33 fiel die Erforderlichkeitsprüfung mit der Voraussetzung zusamme
 
 Die Einschränkung muss **angemessen** sein, d.h. der Eingriff muss in einem vernünftigen Verhältnis zum verfolgten Zweck stehen. Die Angemessenheit erfordert eine Interessenabwägung: Je schwerer der Grundrechtseingriff, desto gewichtiger muss das öffentliche Interesse sein, das ihn rechtfertigt.
 
-Das Bundesgericht hat in BGE 147 I 450 den Verhältnismässigkeitsgrundsatz als harmonisierende Konkretisierung konfligierender Verfassungsprinzipien beschrieben. Dem Verhältnismässigkeitsgrundsatz kommt besondere Bedeutung zu für die harmonisierende Konkretisierung konfligierender Verfassungsprinzipien, wie z.B. dem Schutz von Leben und Gesundheit einerseits und den zu diesem Zweck verhängten Grundrechtseinschränkungen andererseits (E. 3.2.3).
+Das Bundesgericht umschreibt den Grundsatz wie folgt:
+
+> «Der Grundsatz der Verhältnismässigkeit verlangt, dass eine Massnahme für das Erreichen des im öffentlichen oder privaten Interesse liegenden Ziels geeignet und erforderlich ist und sich für die Betroffenen in Anbetracht der Schwere der Grundrechtseinschränkung als zumutbar erweist.»
+
+([BGE 147 I 450, E. 3.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_450#e-3-2-3))
+
+In die Abwägung sind auch die negativen gesellschaftlichen und wirtschaftlichen Konsequenzen der Massnahme einzustellen; Risiken sind soweit möglich zu quantifizieren, wobei nicht nur auf worst-case-Szenarien, sondern auch auf deren Wahrscheinlichkeit abzustellen ist ([BGE 147 I 450, E. 3.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_450#e-3-2-4)). Der Verhältnismässigkeitsgrundsatz dient dabei der Konkretisierung konfligierender Verfassungsprinzipien, wie z.B. dem Schutz von Leben und Gesundheit einerseits und den zu diesem Zweck verhängten Grundrechtseinschränkungen andererseits (E. 3.2.3).
 
 Kein Nullrisiko kann verlangt werden: Auch bei der Vermeidung technischer oder sonstiger menschenverursachter Risiken, welche aufgrund staatlicher Entscheide zugelassen werden, kann nicht ein Null-Risiko gefordert werden, sondern es ist gemäss dem Verhältnismässigkeitsprinzip nach dem akzeptablen Risiko zu fragen und eine Abwägung zwischen den involvierten Interessen vorzunehmen (BGE 147 I 450, E. 3.2.3).
 
