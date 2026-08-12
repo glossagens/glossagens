@@ -2,17 +2,22 @@
 title: "Art. 94 BV — Grundsätze der Wirtschaftsordnung"
 weight: 94
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-12
 description: "Kommentar zu Art. 94 BV: Grundsätze der Wirtschaftsordnung — Wirtschaftsfreiheit, Interessen der Gesamtwirtschaft, Wettbewerbsbeschränkungen, Regalrechte"
 tags: ["BV", "Wirtschaftsfreiheit", "Wirtschaftsordnung", "Wettbewerb", "Regalrechte", "Grundrechte"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+mcp_verified: false
 revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 31 %, Urteil C): 20 von 36 Belegpaaren ungestützt, obwohl alle Referenzen existieren und kein Pinpoint ins Leere zeigte. Der Leitentscheid zu Art. 94 BV (BGE 138 I 378, Glarnersach) fehlte ganz; ergänzt samt Vierertest und Wettbewerbsneutralität. Beide Flags zurückgenommen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Überarbeitet"
+    note: "Überarbeitet; das Ergebnis trug mcp_verified: true und war zu 31 % belegt"
 ---
 
 ## Gesetzeswortlaut
@@ -30,6 +35,16 @@ revisions:
 *Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 ## Kommentierung
+
+### 0. Verhältnis zu Art. 27 BV
+
+Art. 27 BV schützt die **individuelle** Wirtschaftsfreiheit, Art. 94 BV enthält den **institutionellen** Grundsatz. Ob der Staat selbst als Anbieter auftreten darf, entscheidet sich deshalb nach Art. 94 Abs. 4 BV, nicht nach Art. 27 BV. Das Bundesgericht formuliert den Massstab so:
+
+> «Mit dem Grundsatz der Wirtschaftsfreiheit (Art. 94 Abs. 4 BV) ist eine unternehmerische Tätigkeit des Staates vereinbar, sofern eine formell-gesetzliche Grundlage besteht, die Tätigkeit im öffentlichen Interesse liegt und verhältnismässig ist und der Grundsatz der Wettbewerbsneutralität gewahrt bleibt.»
+
+([BGE 138 I 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378))
+
+Die vier Voraussetzungen sind kumulativ. Die Wettbewerbsneutralität hat dabei einen konkreten finanziellen Gehalt: Öffentliche Unternehmen, die teilweise im Monopol- und teilweise im Wettbewerbsbereich tätig sind, müssen die beiden Bereiche kalkulatorisch trennen; systematische Quersubventionierungen des Wettbewerbsbereichs aus dem Monopolbereich sind unzulässig ([BGE 138 I 378, E. 9.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378#e-9-1)).
 
 ### I. Grundsatz der Wirtschaftsfreiheit (Abs. 1)
 
@@ -74,7 +89,7 @@ Die Bestimmung ist keine direkte Eingriffsnorm, sondern eine **optimierende Verh
 
 **11** In **BGE 131 I 223** hat das Bundesgericht das Verbot der Prozessfinanzierung geprüft und den Spannungsprozess zwischen Wirtschaftsfreiheit und Rechtsschutzbedürfnis gelöst ([BGE 131 I 223](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_223)).
 
-**12** In **BGE 143 I 403** (Erstreckung von Gesamtarbeitsverträgen) wurde die Vereinbarkeit der LECCT mit Art. 94 BV und Art. 49 Abs. 1 BV geprüft — eine Grundsatzentscheidung zum mittelbaren Zwang und zur Wirtschaftsfreiheit ([BGE 143 I 403](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_403)).
+**12** In ** Gesamtarbeitsverträgen) wurde die Vereinbarkeit der LECCT mit Art. 94 BV und Art. 49 Abs. 1 BV geprüft — eine Grundsatzentscheidung zum mittelbaren Zwang und zur Wirtschaftsfreiheit.
 
 ### VI. Verhältnis zu anderen Normen
 
