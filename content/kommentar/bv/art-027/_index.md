@@ -2,105 +2,92 @@
 title: "Art. 27 BV — Wirtschaftsfreiheit"
 weight: 27
 date: 2026-05-23
-lastmod: 2026-06-06
-description: "Kommentar zu Art. 27 BV: Wirtschaftsfreiheit — freie Berufswahl, Berufszugang und Berufsausübung als Grundrecht der Privatwirtschaft, Stufentheorie und Verhältnismässigkeit."
-tags: ["BV", "Grundrechte", "Wirtschaftsfreiheit", "Berufsfreiheit", "Berufswahl", "Gewerbefreiheit", "Konzessionen", "Stufentheorie"]
-agent_verified: true
+lastmod: 2026-08-12
+description: "Kommentar zu Art. 27 BV — Wirtschaftsfreiheit, freie Wahl des Berufes, freier Zugang zu privatwirtschaftlicher Erwerbstätigkeit, staatliche Wirtschaftstätigkeit und Wettbewerbsneutralität"
+tags: ["BV", "Grundrechte", "Wirtschaftsfreiheit", "Berufsfreiheit", "Wettbewerbsneutralität", "Konzession", "Monopol"]
+agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit (Belegquote 11 %, Urteil C): Kein einziges Belegpaar war gestützt. Belegapparat neu aufgebaut. Zudem 10 Links auf bger.ch (Eurospider-Format) auf kanonische opencaselaw-IDs umgestellt — sie hatten die Belege bis dahin vor dem Audit verborgen. BGE 130 I 26 betrifft den Zulassungsstopp nach Art. 55a KVG, nicht den Numerus clausus im Medizinstudium."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — Belegapparat beim Audit vom 2026-08-12 vollständig verworfen"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 27 Wirtschaftsfreiheit**
+> **Art. 27 BV — Wirtschaftsfreiheit**
 >
 > ¹ Die Wirtschaftsfreiheit ist gewährleistet.
 >
 > ² Sie umfasst insbesondere die freie Wahl des Berufes sowie den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung.
 
-## Vorbemerkungen
+*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
-**1** **Stellung und Bedeutung.** Art. 27 BV garantiert die Wirtschaftsfreiheit als Grundrecht. Er löst die bisherige «Handels- und Gewerbefreiheit» (Art. 31 aBV) ab und erweitert den Schutzbereich auf alle Formen privatwirtschaftlicher Erwerbstätigkeit. Mit über 31'000 Gesamtzitaten gehört Art. 27 zu den zentralen wirtschaftsrechtlichen Grundrechten und ist neben der Eigentumsgarantie (Art. 26 BV) und der Vereinigungsfreiheit (Art. 28 BV) eines der drei wirtschaftlichen Freiheitsrechte.
+## Überblick
 
-**2** **Gesetzgebungsgeschichte.** Der Begriff «Wirtschaftsfreiheit» ersetzt den bisherigen Begriff «Handels- und Gewerbefreiheit», ohne den Schutzumfang zu ändern. Die Botschaft BV (BBl 1997 1552, S. 1574) stellt klar, dass der neue Begriff weiter ist und alle Erscheinungsformen privatwirtschaftlicher Erwerbstätigkeit umfasst, einschliesslich freiberuflicher und künstlerischer Tätigkeiten. Der Verfassunggeber hat bewusst auf eine abschliessende Aufzählung der Teilgewährleistungen verzichtet («insbesondere» in Abs. 2).
+Art. 27 BV schützt die **individualrechtliche** Seite der Wirtschaftsfreiheit: die freie Wahl des Berufes, den Zugang zu privatwirtschaftlicher Erwerbstätigkeit und deren Ausübung. Davon zu unterscheiden ist der **institutionelle** Grundsatz der Wirtschaftsfreiheit in Art. 94 BV, der die Wirtschaftsordnung als solche betrifft. Die Unterscheidung entscheidet in der Praxis darüber, welche Prüfung greift (N 4).
 
-**3** **Systematische Stellung.** Art. 27 BV steht im Abschnitt «Wirtschaftliche Freiheiten» des 2. Kapitels (Grundrechte). Mit [Art. 26 BV](../art-026/) (Eigentum) und [Art. 28 BV](#) (Vereinigungsfreiheit) bildet er den Kern der wirtschaftlichen Grundrechte. Die Einschränkung von Art. 27 richtet sich nach [Art. 36 BV](../art-036/) (Einschränkung von Grundrechten).
+## I. Schutzbereich
 
-## Kommentierung
+**N 1** Geschützt ist jede auf Erwerb gerichtete privatwirtschaftliche Tätigkeit. Der Schutzbereich endet dort, wo eine Tätigkeit dem Staat vorbehalten ist.
 
-### I. Schutzbereich
+**N 2** **Regale.** Wo ein kantonales Regal besteht, ist der Bereich der Wirtschaftsfreiheit von vornherein entzogen. Das Bundesgericht hält für die Gewässerhoheit fest:
 
-**4** **Privatwirtschaftliche Erwerbstätigkeit.** Der Schutzbereich umfasst nur *privatwirtschaftliche* Erwerbstätigkeit. Öffentlich-rechtliche Tätigkeiten (Beamte, Angestellte im öffentlichen Dienst) fallen nicht unter Art. 27, sondern unter das öffentliche Dienstrecht. Massgebend ist die Natur der Tätigkeit, nicht die Rechtsform des Arbeitgebers: Ein privater Arzt, der in einem öffentlichen Spital arbeitet, übt eine privatwirtschaftliche Tätigkeit aus ([BGE 130 I 26](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_130_I_26) E. 4).
+> «Die Gewässerhoheit stellt ein kantonales Regal dar, weshalb die Verfügungsmacht über die öffentlichen Gewässer vom Anwendungsbereich der Wirtschaftsfreiheit ausgenommen ist.»
 
-**5** **Drei Gewährleistungen.** Abs. 2 benennt drei Teilgewährleistungen:
-- **Berufswahlfreiheit** (Wahl des Berufs): Der freien Entscheidung, welchen Beruf man ergreifen will;
-- **Berufszugangsfreiheit** (Zulassung zum Beruf): Dem freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit;
-- **Berufsausübungsfreiheit** (Ausgestaltung der Berufstätigkeit): Der freien Ausgestaltung der Berufstätigkeit.
+([BGE 142 I 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_99)). Die Erteilung einer Konzession liegt im pflichtgemässen Ermessen des Kantons; ein Anspruch darauf lässt sich aus Art. 27 BV nicht ableiten.
 
-Diese drei Aspekte sind unterschiedlich intensiv geschützt (vgl. Rz. 10 zur Stufentheorie).
+## II. Staatliche Wirtschaftstätigkeit
 
-**6** **Erwerbszweck.** Die Wirtschaftsfreiheit setzt eine auf Erwerb gerichtete Tätigkeit voraus. Rein ideelle, karitative oder ehrenamtliche Tätigkeiten fallen nicht unter Art. 27, sondern unter die Vereinigungsfreiheit (Art. 28 BV) oder die Meinungs- und Informationsfreiheit (Art. 16 BV). Dies schliesst nicht aus, dass eine Tätigkeit, die sowohl ideelle als auch wirtschaftliche Zwecke verfolgt, dem Schutzbereich unterfällt.
+**N 3** Tritt der Staat selbst als Anbieter auf, liegt darin nicht schon ein Eingriff in die Wirtschaftsfreiheit der privaten Konkurrenten:
 
-### II. Berufswahlfreiheit
+> «Tritt ein staatliches Unternehmen mit gleichen Rechten und Pflichten wie ein privater Unternehmer und im Wettbewerb zu diesem auf, so entsteht den Privaten bloss ein weiterer Konkurrent, was keine Einschränkung der individualrechtlichen Wirtschaftsfreiheit (Art. 27 BV) darstellt, solange das private Angebot durch die staatliche Massnahme nicht geradezu verdrängt wird.»
 
-**7** **Freie Wahl.** Die freie Wahl des Berufs ist der am stärksten geschützte Teil der Wirtschaftsfreiheit. Zulassungsbeschränkungen müssen durch ein überwiegendes öffentliches Interesse gerechtfertigt sein und verhältnismässig sein. Numerus-clausus-Beschränkungen in den Gesundheitsberufen sind zulässig, müssen aber sachlich gerechtfertigt sein ([BGE 130 I 26](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_130_I_26) E. 4). Ebenso zulässig sind fachliche Qualifikationsanforderungen (Ausbildungsnachweise, Fähigkeitsausweise), sofern sie geeignet, erforderlich und verhältnismässig sind.
+([BGE 138 I 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378))
 
-**8** **Berufswahl vs. Berufszugang.** Die Abgrenzung zwischen Berufswahlfreiheit und Berufszugangsfreiheit ist nicht immer eindeutig. Massgebend ist die Intensität des Eingriffs: Ein generelles Verbot, einen bestimmten Beruf auszuüben, greift in die Berufswahlfreiheit ein; eine bloss beschränkende Zulassungsregelung greift in die Berufszugangsfreiheit ein. Die Stufentheorie (Rz. 10) stellt auf die Nähe zum Kern der Berufswahlfreiheit ab.
+**N 4** Die Zulässigkeit staatlicher Unternehmenstätigkeit misst sich deshalb nicht an Art. 27 BV, sondern am **Grundsatz** der Wirtschaftsfreiheit nach Art. 94 Abs. 4 BV. Sie ist damit vereinbar,
 
-### III. Berufszugangsfreiheit
+> «sofern eine formell-gesetzliche Grundlage besteht, die Tätigkeit im öffentlichen Interesse liegt und verhältnismässig ist und der Grundsatz der Wettbewerbsneutralität gewahrt bleibt»
 
-**9** **Zulassungsvoraussetzungen.** Der Zugang zu einem Beruf kann durch sachliche Zulassungsvoraussetzungen eingeschränkt werden:
-- **Fachliche Qualifikation**: Ausbildungs- und Prüfungsnachweise (z.B. ärztliche Approbation, Anwaltspatent) sind zulässig, sofern sie sachlich begründet sind.
-- **Bewilligungspflicht**: Konzessionen und Bewilligungen als Zugangsvoraussetzung sind zulässig, wenn ein überwiegendes öffentliches Interesse eine kontrollierte Zulassung erfordert. Die Konzessionspflicht ist ein qualifizierter Eingriff, der einer strengen Verhältnismässigkeitsprüfung unterliegt ([BGE 132 II 485](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_132_II_485) E. 3).
-- **Numerus clausus**: Höchstzahlen sind nur bei besonderer Eignung des Tätigkeitsbereichs zulässig (z.B. Gesundheitsberufe, um die Qualität der Versorgung sicherzustellen).
+([BGE 138 I 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378)). Die vier Voraussetzungen sind kumulativ.
 
-### IV. Berufsausübungsfreiheit
+**N 5** **Wettbewerbsneutralität.** Sie hat einen konkreten finanziellen Gehalt: Die Wettbewerbsneutralität der unternehmerischen Staatstätigkeit verbietet systematische Quersubventionierungen zwischen Monopol- und Wettbewerbsbereich ([BGE 138 I 378, E. 9.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378#e-9-1)).
 
-**10** **Regulierung der Ausübung.** Die Berufsausübung kann durch policeiliche Vorschriften (Hygiene, Sicherheit, Lärmschutz, Umweltschutz) eingeschränkt werden. Diese Einschränkungen unterliegen einer milderen Verhältnismässigkeitsprüfung als die Berufswahl- und Berufszugangsfreiheit, da sie den Zugang zum Beruf nicht beschränken, sondern nur die Art und Weise der Ausübung regeln.
+## III. Zulassungsbeschränkungen
 
-**11** **Ausübungsreglementierung.** Ausübungsreglementierungen (z.B. Werbeverbote für Ärzte, Preisvorschriften, Standortregeln) sind Eingriffe in die Berufsausübungsfreiheit, die der milden Verhältnismässigkeitsprüfung unterliegen. Beispiele:
-- **Werbeverbote**: Zulässig, soweit sie dem Schutz der Patienten oder der Qualitätssicherung dienen (BGE 125 I 262 E. 3).
-- **Preisregulierung**: Zulässig bei natürlichen Monopolen oder zur Vermeidung von Wettbewerbsverzerrungen ([BGE 142 I 99](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_142_I_99) E. 5).
-- **Standortregeln**: Zulässig, wenn sie der Raumplanung oder dem Gesundheitsschutz dienen.
+**N 6** Beschränkungen des Berufszugangs berühren Art. 27 BV unmittelbar. Praktisch bedeutsam ist der **Zulassungsstopp** im Krankenversicherungsrecht: Art. 55a KVG beschränkt die Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung ([BGE 130 I 26](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_26)).
 
-### V. Stufentheorie und Einschränkbarkeit
+> **Abgrenzung:** Es geht dabei **nicht** um den Numerus clausus im Medizinstudium, sondern um die Zulassung zur Abrechnung zu Lasten der Grundversicherung. Die Vorfassung dieses Kommentars verwechselte beides.
 
-**12** **Dreistufentheorie.** Das Bundesgericht wendet eine Dreistufentheorie an, die den Eingriff in die Wirtschaftsfreiheit je nach Intensität abstuft:
+## IV. Wirtschaftsfreiheit und Produktregulierung
 
-| Stufe | Eingriff | Prüfungsstandard | Beispiel |
-|-------|----------|------------------|----------|
-| 1 | Berufsausübungsregelung | Milde Verhältnismässigkeit | Hygienevorschriften, Lärmschutz |
-| 2 | Berufszugangsregelung | Mittlere Verhältnismässigkeit | Konzessionen, Fähigkeitsausweise |
-| 3 | Berufswahlverbot | Strenge Verhältnismässigkeit | Generelles Verbot einer Berufstätigkeit |
+**N 7** Auch produktbezogene Auflagen können die Erwerbstätigkeit beschränken. Zur Änderung der Fachinformation eines Arzneimittels hält das Bundesgericht fest, dass die Frage, welche Wirkungen Präparate haben und was die Studien dazu aussagen, Teil der **Sachverhaltsfeststellung** bildet ([BGE 136 I 184, E. 1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_184#e-1-2)). Das begrenzt die Überprüfung durch das Bundesgericht nach Art. 105 BGG.
 
-Je näher der Eingriff an den Kern der Berufswahlfreiheit heranreicht, desto strenger sind die Rechtfertigungsanforderungen. Die Berufsausübungsfreiheit ist am leichtesten einschränkbar (Stufe 1), die Berufswahlfreiheit am schwersten (Stufe 3).
+## Verhältnis zu anderen Bestimmungen
 
-**13** **Verhältnismässigkeit.** Jeder Eingriff in die Wirtschaftsfreiheit muss die Verhältnismässigkeitsprüfung bestehen ([Art. 36 BV](../art-036/)):
-- **Eignung**: Der Eingriff muss geeignet sein, das angestrebte Ziel zu erreichen.
-- **Erforderlichkeit**: Der Eingriff muss notwendig sein; ein milderes Mittel darf nicht zur Verfügung stehen.
-- **Verhältnismässigkeit im engeren Sinne**: Die Schwere des Eingriffs muss in einem angemessenen Verhältnis zur Bedeutung des geschützten Rechtsguts stehen.
+| Norm | Verhältnis |
+|---|---|
+| Art. 94 BV | Grundsatz der Wirtschaftsfreiheit — institutionelle Seite; Massstab für staatliche Unternehmenstätigkeit (N 4) |
+| Art. 26 BV | Eigentumsgarantie — Überschneidungen bei gewerblichen Vermögenspositionen |
+| Art. 8 Abs. 1 BV | Gleichbehandlung der Gewerbegenossen als Ausfluss der Wirtschaftsfreiheit |
+| Art. 36 BV | Schranken; bei schweren Eingriffen formell-gesetzliche Grundlage |
 
-### VI. Konzessionsentzug und Berufsausübungsreglementierung
+## Offene Punkte
 
-**14** **Konzessionsentzug.** Der Entzug einer Konzession ist ein schwerwiegender Eingriff in die Berufsausübungsfreiheit, der der strengen Verhältnismässigkeit unterliegt. Das Bundesgericht hat den Entzug einer Telekommunikationskonzession als verhältnismässig beurteilt, wenn der Konzessionär seine Pflichten wiederholt und schwerwiegend verletzt hat ([BGE 132 II 485](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_132_II_485) E. 3).
+Der Kommentar ist gegenüber der Vorfassung erheblich kürzer. Von 18 Belegpaaren war keines gestützt; die folgenden Abschnitte liessen sich nicht retten und fehlen bis zu einer belegten Neufassung:
 
-**15** **Arzneimittelregulierung.** Die Änderung der Fachinformation für Arzneimittel (Spedifen®) greift in die Wirtschaftsfreiheit des Arzneimittelherstellers ein, ist aber durch das öffentliche Interesse an der Gesundheit der Bevölkerung gerechtfertigt ([BGE 136 I 184](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_136_I_184) E. 4). Die Verhältnismässigkeit ist mit mildem Massstab zu prüfen, da es sich um eine Ausübungsreglementierung handelt.
+- **Gleichbehandlung der Gewerbegenossen** als eigener dogmatischer Abschnitt.
+- **Konzessionspflicht als qualifizierter Eingriff** und die Anforderungen an Monopole.
+- **Vergaberecht** und Wirtschaftsfreiheit der Anbietenden.
+- **Sexuelle Dienstleistungen** und die Reichweite des Betrugsstrafrechts.
+- **Kantonale Aufsicht über die Arztberufe.**
 
-**16** **Vergaberecht und Wirtschaftsfreiheit.** Die Vergabe öffentlicher Aufträge berührt die Wirtschaftsfreiheit der anbietenden Unternehmen. Das Wirtschaftsfreiheitsrecht greift ein, wenn die Vergaberichtlinien den Zugang zum Markt in verfassungsrechtlich nicht zulässiger Weise beschränken. Bei Pensionskassen und Unterhaltsarbeiten ist die Wirtschaftsfreiheit durch öffentlich-rechtliche Aufgabenerfüllung eingeschränkt ([BGE 142 II 369](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_142_II_369) E. 3).
+Welche Belege im Einzelnen weggefallen sind, steht im Audit-Protokoll am Ende der Rechtsprechungsseite.
 
-### VII. Wirtschaftsfreiheit im Strafrecht
-
-**17** **Strafrechtliche Beschränkungen.** Strafrechtliche Verbote können in die Wirtschaftsfreiheit eingreifen, wenn sie die Ausübung einer bestimmten Erwerbstätigkeit verbieten oder einschränken. Das Betrugsstrafrecht schränkt die Wirtschaftsfreiheit ein, ist aber als necessary evil zum Schutz des Rechtsverkehrs gerechtfertigt. Bei sexuellen Dienstleistungen kann sich die Frage stellen, ob das Betrugsstrafrecht die Wirtschaftsfreiheit unverhältnismässig einschränkt ([BGE 147 IV 73](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_147_IV_73) E. 4).
-
-### VIII. Wassernutzungskonzession und Konkurrenzsituation
-
-**18** **Konkurrenzsituation.** Die Erteilung von Wassernutzungskonzessionen berührt die Wirtschaftsfreiheit konkurrierender Gesuchsteller. Das Bundesgericht hat klargestellt, dass die Wirtschaftsfreiheit keinen Anspruch auf Erteilung einer Konzession begründet, wohl aber einen Anspruch auf fehlerfreie Beurteilung des Gesuchs ([BGE 142 I 99](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_142_I_99) E. 5). Die Konkurrenzsituation zwischen mehreren Gesuchstellern ist bei der Interessenabwägung zu berücksichtigen.
-
-### IX. Arztberuf und HMO-Modelle
-
-**19** **HMO-Modell und Arztberuf.** Die Zulassung von Ärzten zu einem HMO-Modell (Health Maintenance Organization) berührt die Berufszugangsfreiheit. Das Bundesgericht hat klargestellt, dass die kantonale Aufsicht über die Arztberufe der Wirtschaftsfreiheit untersteht, soweit sie privatwirtschaftliche Erwerbstätigkeit betrifft ([BGE 141 V 557](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_141_V_557) E. 5). Die Zuständigkeit des kantonalen Schiedsgerichts ergibt sich aus der Verbindung zwischen Arztberuf und Krankenversicherung.
-
-## Querverweise
-
-- [Art. 26 BV](../art-026/) — Eigentumsgarantie
-- [Art. 36 BV](../art-036/) — Einschränkung von Grundrechten
-- [Art. 8 BV](../art-008/) — Rechtsgleichheit
-- [Art. 28 BV](#) — Vereinigungsfreiheit
+Ergänzungen sind willkommen — bitte je Aussage mit Fundstelle und Erwägung.

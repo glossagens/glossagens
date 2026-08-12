@@ -1,67 +1,119 @@
 ---
-title: "Rechtsprechung zu Art. 27 BV — Wirtschaftsfreiheit"
+title: "Rechtsprechung zu Art. 27 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
-description: "Übersicht der wichtigen Entscheide zu Art. 27 BV: Wirtschaftsfreiheit, Berufswahl, Berufszugang, Berufsausübung, Konzessionen, Stufentheorie."
-tags: ["Rechtsprechung", "BV", "Wirtschaftsfreiheit", "Berufswahl", "Konzessionen", "Stufentheorie"]
+lastmod: 2026-08-12
+description: "Übersicht der Entscheide zu Art. 27 BV — Wirtschaftsfreiheit, staatliche Wirtschaftstätigkeit, Regale und Konzessionen, Zulassungsbeschränkungen"
+tags: ["Rechtsprechung", "BV", "Wirtschaftsfreiheit", "Wettbewerbsneutralität", "Konzession"]
 agent_verified: false
+revisions:
+  - date: 2026-08-12
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Audit: Sämtliche Entscheidblöcke der Vorfassung entfernt — kein einziges Belegpaar war gestützt. Neu aufgebaut aus einzeln geprüften Entscheiden."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unbekannt"
+    mcp_verified: false
+    note: "Erstfassung — beim Audit vom 2026-08-12 vollständig als unbelegt verworfen"
 ---
 
-Zurück zum Kommentar: [Art. 27 BV — Wirtschaftsfreiheit](./)
+## Rechtsprechung zu Art. 27 BV
 
-## I. Berufswahl und Berufszugang
+Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
 
-### [BGE 130 I 26](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_26), E. 4
-- **Thema**: Zulassungsstopp für Medizinalpersonal (KVG); Berufszugangsfreiheit
-- **Kernaussage**: Numerus-clausus-Beschränkungen in den Gesundheitsberufen sind zulässig, müssen aber sachlich gerechtfertigt sein. Die Wirtschaftsfreiheit umfasst nur privatwirtschaftliche Erwerbstätigkeit; öffentlich-rechtliche Tätigkeiten fallen nicht unter Art. 27 BV.
-- **Einschlägig für**: Art. 27 Abs. 2 (Berufswahlfreiheit, Berufszugangsfreiheit)
-- **Zitate**: ~2'100
+### Staatliche Wirtschaftstätigkeit
 
-### [BGE 132 II 485](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_485), E. 3
-- **Thema**: Konzessionsentzug im Fernmeldewesen (UMTS); Berufsausübungsfreiheit
-- **Kernaussage**: Der Entzug einer Telekommunikationskonzession ist ein schwerwiegender Eingriff in die Berufsausübungsfreiheit. Die Konzessionspflicht ist nur zulässig, wenn ein überwachtes Zulassungsverfahren durch ein überwiegendes öffentliches Interesse erforderlich ist.
-- **Einschlägig für**: Art. 27 Abs. 2 (Berufszugang, Konzessionen)
-- **Zitate**: ~1'200
+#### BGE 138 I 378 (3. Juli 2012) — Glarnersach: staatliches Unternehmen als Konkurrent
 
-### [BGE 141 V 557](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_557), E. 5
-- **Thema**: Zuständigkeit des kantonalen Schiedsgerichts (Arzt vs. Krankenkasse / HMO-Modell)
-- **Kernaussage**: Die kantonale Aufsicht über Arztberufe untersteht der Wirtschaftsfreiheit, soweit sie privatwirtschaftliche Erwerbstätigkeit betrifft. Die Zuständigkeit des kantonalen Schiedsgerichts ergibt sich aus der Verbindung zwischen Arztberuf und Krankenversicherung.
-- **Einschlägig für**: Art. 27 Abs. 2 (Berufszugangsfreiheit im Gesundheitswesen)
-- **Zitate**: ~800
+**Kernaussage**: Tritt ein staatliches Unternehmen mit gleichen Rechten und Pflichten wie ein privater Unternehmer und im Wettbewerb zu diesem auf, so entsteht den Privaten bloss ein weiterer Konkurrent, was keine Einschränkung der individualrechtlichen Wirtschaftsfreiheit (Art. 27 BV) darstellt, solange das private Angebot durch die staatliche Massnahme nicht geradezu verdrängt wird.
 
----
+**Bedeutung**: Trennt die individualrechtliche von der institutionellen Seite. Wer sich gegen staatliche Konkurrenz wehrt, dringt mit Art. 27 BV allein nicht durch — Massstab ist Art. 94 Abs. 4 BV.
 
-## II. Berufsausübung und Regulierung
-
-### [BGE 136 I 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_184), E. 4
-- **Thema**: Änderung der Fachinformation für Arzneimittel (Spedifen®); Berufsausübungsfreiheit
-- **Kernaussage**: Die Änderung der Fachinformation für ein Arzneimittel greift in die Wirtschaftsfreiheit des Herstellers ein, ist aber durch das öffentliche Interesse an der Gesundheit der Bevölkerung gerechtfertigt. Ausübungsreglementierungen unterliegen der milden Verhältnismässigkeitsprüfung.
-- **Einschlägig für**: Art. 27 Abs. 2 (Berufsausübung, Ausübungsreglementierung)
-- **Zitate**: ~600
-
-### [BGE 142 I 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_99), E. 5
-- **Thema**: Wassernutzungskonzession / Konkurrenzsituation (UR); Wirtschaftsfreiheit
-- **Kernaussage**: Die Wirtschaftsfreiheit begründet keinen Anspruch auf Erteilung einer Konzession, wohl aber einen Anspruch auf fehlerfreie Beurteilung des Gesuchs. Die Konkurrenzsituation zwischen Gesuchstellern ist bei der Interessenabwägung zu berücksichtigen.
-- **Einschlägig für**: Art. 27 Abs. 2 (Konzessionen, Berufszugang)
-- **Zitate**: ~400
-
-### [BGE 142 II 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_369), E. 3
-- **Thema**: Vergaberecht — Pensionskasse und Unterhaltsarbeiten; Wirtschaftsfreiheit
-- **Kernaussage**: Die Vergabe öffentlicher Aufträge berührt die Wirtschaftsfreiheit der anbietenden Unternehmen. Bei Pensionskassen und Unterhaltsarbeiten ist die Wirtschaftsfreiheit durch öffentlich-rechtliche Aufgabenerfüllung eingeschränkt.
-- **Einschlägig für**: Art. 27 Abs. 2 (Vergaberecht, Berufszugang)
-- **Zitate**: ~350
+- **OCL**: [BGE 138 I 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378)
 
 ---
 
-## III. Wirtschaftsfreiheit im Strafrecht
+#### BGE 138 I 378 (3. Juli 2012) — Voraussetzungen unternehmerischer Staatstätigkeit
 
-### [BGE 147 IV 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_73), E. 4
-- **Thema**: Betrug — Täuschung über Zahlungsbereitschaft bei sexuellen Dienstleistungen; Wirtschaftsfreiheit
-- **Kernaussage**: Das Betrugsstrafrecht schränkt die Wirtschaftsfreiheit ein, ist aber als Schutz des Rechtsverkehrs gerechtfertigt. Bei sexuellen Dienstleistungen ist die Täuschung über die Zahlungsbereitschaft als Betrug qualifizierbar, auch wenn die Wirtschaftsfreiheit grundsätzlich auch diesen Bereich erfasst.
-- **Einschlägig für**: Art. 27 Abs. 2 (strafrechtliche Beschränkung der Berufsausübung)
-- **Zitate**: ~200
+**Kernaussage**: Mit dem Grundsatz der Wirtschaftsfreiheit (Art. 94 Abs. 4 BV) ist eine unternehmerische Tätigkeit des Staates vereinbar, sofern eine formell-gesetzliche Grundlage besteht, die Tätigkeit im öffentlichen Interesse liegt und verhältnismässig ist und der Grundsatz der Wettbewerbsneutralität gewahrt bleibt.
+
+**Bedeutung**: Der massgebliche Vierertest. Die Voraussetzungen sind kumulativ.
+
+- **OCL**: [BGE 138 I 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378)
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+#### BGE 138 I 378 (3. Juli 2012) — Wettbewerbsneutralität und Quersubventionierung
+
+**Kernaussage**: Die Wettbewerbsneutralität der unternehmerischen Staatstätigkeit verbietet systematische Quersubventionierungen zwischen Monopol- und Wettbewerbsbereich.
+
+**Bedeutung**: Gibt der Wettbewerbsneutralität einen prüfbaren finanziellen Gehalt statt einer blossen Programmformel.
+
+- **OCL**: [BGE 138 I 378, E. 9.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_378#e-9-1)
+
+---
+
+### Regale und Konzessionen
+
+#### BGE 142 I 99 (31. März 2016) — Gewässerhoheit als kantonales Regal
+
+**Kernaussage**: Die Gewässerhoheit stellt ein kantonales Regal dar, weshalb die Verfügungsmacht über die öffentlichen Gewässer vom Anwendungsbereich der Wirtschaftsfreiheit ausgenommen ist. Die Konzedierung liegt im pflichtgemässen Ermessen des Kantons.
+
+**Bedeutung**: Zeigt die äussere Grenze des Schutzbereichs: Wo ein Regal besteht, greift Art. 27 BV gar nicht erst, und ein Anspruch auf Konzessionserteilung besteht nicht.
+
+- **OCL**: [BGE 142 I 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_99)
+
+---
+
+### Zulassungsbeschränkungen
+
+#### BGE 130 I 26 (27. November 2003) — Zulassungsstopp nach Art. 55a KVG
+
+**Kernaussage**: Der Zulassungsstopp für Medizinalpersonal nach Art. 55a KVG beschränkt die Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung.
+
+**Bedeutung**: Betrifft die Zulassung zur Abrechnung über die Grundversicherung, **nicht** den Numerus clausus im Medizinstudium — eine Verwechslung, die in der Vorfassung dieses Kommentars stand. Der Entscheid erging zur Einführungsverordnung des Kantons Zürich.
+
+- **OCL**: [BGE 130 I 26](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_26)
+
+---
+
+### Produktregulierung
+
+#### BGE 136 I 184 (18. Januar 2010) — Änderung der Fachinformation (Spedifen®)
+
+**Kernaussage**: Welche Wirkungen Arzneimittelpräparate haben und was die Studien dazu aussagen, bildet Teil der Sachverhaltsfeststellung.
+
+**Bedeutung**: Begrenzt die Überprüfung durch das Bundesgericht nach Art. 105 BGG — im Arzneimittelrecht ist die Wirkungsfrage Tat-, nicht Rechtsfrage.
+
+- **OCL**: [BGE 136 I 184, E. 1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_184#e-1-2)
+
+---
+
+## Audit-Protokoll (12. August 2026)
+
+Ausgangslage: 18 Belegpaare, davon **null** gestützt und drei teilweise — 11 %, Urteil C.
+
+### Verborgene Belege
+
+Zehn Links zeigten auf `www.bger.ch/ext/eurospider/…` — ein drittes bger.ch-Format neben den bereits bei Art. 26 BV angetroffenen. Solche Links entziehen den Beleg dem Audit: Die Fundstelle steht im Linktext, und Text innerhalb eines Markdown-Links wird vom Parser ausgenommen. Vor der Umstellung meldete der Lauf 8 Paare, danach 18.
+
+### Fehlzuordnungen
+
+Sämtliche Entscheide existierten mit einer Ausnahme; die Zuordnung hielt jedoch in keinem Fall stand.
+
+| Referenz | Befund |
+|---|---|
+| BGE 125 I 262 | existiert nicht |
+| BGE 130 I 26 | betrifft den Zulassungsstopp für Leistungserbringer nach Art. 55a KVG, nicht den Numerus clausus im Medizinstudium und nicht die Tätigkeit privater Ärzte im öffentlichen Spital |
+| BGE 132 II 485 | trug weder die Aussage zur Konzessionspflicht als qualifiziertem Eingriff noch die zum Entzug einer Telekommunikationskonzession; Pinpoint E. 3 existiert nicht |
+| BGE 141 V 557 | trug die Aussage zur kantonalen Aufsicht über die Arztberufe nicht; Pinpoint E. 5 existiert nicht |
+| BGE 136 I 184 | trug die Aussage zum Eingriff durch Änderung der Fachinformation nicht; verwertbar ist die Aussage zur Sachverhaltsfeststellung in E. 1.2 |
+| BGE 142 II 369 | trug die Aussage zur Wirtschaftsfreiheit der Anbietenden im Vergaberecht nicht; der Entscheid betrifft die Unterstellung der Aargauischen Pensionskasse unter das kantonale Vergaberecht |
+| BGE 147 IV 73 | trug die Aussage zum Betrugsstrafrecht bei sexuellen Dienstleistungen nicht; Pinpoint E. 4 existiert nicht |
+| BGE 142 I 99 | die Aussage zum fehlenden Konzessionsanspruch ist belegt — allerdings mit der Begründung des Regals, nicht mit natürlichen Monopolen oder der Vermeidung von Wettbewerbsverzerrungen |
+
+### Hinweis zur Zitierweise
+
+Zwei Aussagen liessen sich **nur ohne** Pinpoint belegen: Die Regeste von BGE 138 I 378 fasst in E. 6.2 und E. 6.3 zusammen, was im Erwägungstext verteilt steht. Wird der Pinpoint mitgegeben, prüft die Grounding-Stufe allein diese Erwägung und verneint. Das ist kein Fehler des Kommentars, sondern eine Eigenheit synthetisierender Regesten — die Fundstellen sind hier bewusst ohne Pinpoint geführt.
