@@ -2,11 +2,16 @@
 title: "Art. 227 — Klageänderung"
 weight: 227
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 227 ZPO – Klageänderung"
 tags: ["ZPO", "Klageänderung", "Verfahrensrecht", "Parteivorträge"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 39 % (Urteil C); 11 von 76 Paaren gestützt; 27 ungestützt; 4 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
