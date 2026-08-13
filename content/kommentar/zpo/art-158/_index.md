@@ -2,11 +2,16 @@
 title: "Art. 158 — Vorsorgliche Beweisführung"
 weight: 158
 date: "2026-06-28"
-lastmod: "2026-08-09"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 158 ZPO – Vorsorgliche Beweisführung: Voraussetzungen, schutzwürdiges Interesse, Gefährdung der Beweismittel, Verhältnis zur Hauptsache"
 tags: ["ZPO", "Beweisrecht", "vorsorgliche Beweisführung", "Beweiserhaltung", "Prozessaussichten"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 43 % (Urteil C); 15 von 67 Paaren gestützt; 25 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
