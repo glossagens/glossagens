@@ -2,10 +2,16 @@
 title: "Art. 52 ZPO — Handeln nach Treu und Glauben"
 weight: 52
 date: "2026-05-24"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Art. 52 ZPO verpflichtet alle am Verfahren beteiligten Personen, nach Treu und Glauben zu handeln (Abs. 1), und regelt die Wirksamkeit unrichtiger Rechtsmittelbelehrungen (Abs. 2)."
 tags: ["ZPO", "Treu und Glauben", "Rechtsmittelbelehrung", "Verfahrensrecht", "Prozessrecht", "Verfahrensgrundsatz"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 15 % (Urteil C); 2 von 27 Paaren gestützt; 21 ungestützt; 7 nicht existente Referenzen; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
