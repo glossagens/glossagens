@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 319 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 319 ZPO — Anfechtungsobjekt der Beschwerde, Zwischenentscheide, prozessleitende Verfügungen, Rechtsverzögerung."
 tags: ["Rechtsprechung", "ZPO", "Beschwerde", "Anfechtungsobjekt"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 24 % (Urteil C); 4 von 51 Paaren gestützt; 31 ungestützt; 1 fehlerhafter Pinpoint; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
