@@ -2,10 +2,16 @@
 title: "Art. 150 ZPO — Beweisgegenstand"
 weight: 150
 date: 2026-07-19
-lastmod: "2026-07-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 150 ZPO: Beweisgegenstand — rechtserhebliche streitige Tatsachen, Übung, Ortsgebrauch, ausländisches Recht."
 tags: ["ZPO", "Beweisgegenstand", "Beweisrecht", "Tatsachen", "ausländisches Recht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 25 % (Urteil C); 0 von 14 Paaren gestützt; 7 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
