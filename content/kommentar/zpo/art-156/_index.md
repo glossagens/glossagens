@@ -2,10 +2,16 @@
 title: "Art. 156 — Wahrung schutzwürdiger Interessen"
 weight: 156
 date: "2026-06-03"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 156 ZPO – Wahrung schutzwürdiger Interessen bei der Beweisabnahme: Schutzmassnahmen, Geschäftsgeheimnisse, strafbewehrte Geheimhaltungspflicht"
 tags: ["ZPO", "Beweisrecht", "Geschäftsgeheimnis", "Schutzmassnahmen", "schutzwürdige Interessen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 2 von 24 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
