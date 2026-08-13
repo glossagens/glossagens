@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 15 % → 100 %, Urteil A): ungestützte Belege ersetzt; falsche Normverweise korrigiert (Art. 51 ZPO regelt die Folgen der Verletzung der Ausstandsvorschriften, nicht das Verbot missbräuchlicher Prozessführung; die Rechtsmittelbelehrung steht in Art. 238 lit. f ZPO, nicht in Art. 107 ZPO)"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 15 % (Urteil C); 2 von 27 Paaren gestützt; 21 ungestützt; 7 nicht existente Referenzen; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -33,8 +38,8 @@ Art. 52 ZPO verankert den **Grundsatz von Treu und Glauben im Zivilverfahren** (
 | **Art. 2 ZGB** | Treu und Glauben im Privatrecht | Materiell-rechtliches Pendant |
 | **Art. 5 Abs. 3 BV** | Treu und Glauben im Staatsrecht | Verfassungsrechtliches Fundament |
 | **Art. 9 BV** | Rechtssicherheit, Vertrauensschutz | Konkretisierung des Vertrauensschutzes |
-| **Art. 51 ZPO** | Verbot missbräuchlicher Prozessführung | Spezialnorm zu Art. 52 Abs. 1 ZPO |
-| **Art. 107 ZPO** | Rechtsmittelbelehrung | Zusammenhang mit Abs. 2 |
+| **Art. 132 ZPO** | Mangelhafte, querulatorische und rechtsmissbräuchliche Eingaben | Spezialnorm für missbräuchliche Rechtsschriften |
+| **Art. 238 lit. f ZPO** | Rechtsmittelbelehrung als Bestandteil des Entscheids | Bezugsnorm zu Abs. 2 |
 
 ## I. Treu und Glauben im Zivilverfahren (Abs. 1)
 
@@ -46,21 +51,21 @@ Art. 52 Abs. 1 ZPO richtet sich an **alle am Verfahren beteiligten Personen**: P
 
 Der Grundsatz von Treu und Glauben im Verfahren umfasst insbesondere:
 
-- **Verbot widersprüchlichen Verhaltens** (venire contra factum proprium): Eine Partei darf sich nicht in Widerspruch zu ihrem eigenen früheren prozessualen Verhalten setzen, wenn die Gegenpartei darauf vertraut hat (BGE 141 III 210 E. 4.2).
-- **Verbot der Ausbeutung von Verfahrensverstössen**: Formelle Mängel, die für den Ausgang des Verfahrens nicht erheblich sind, dürfen nicht missbräuchlich ausgenutzt werden (BGE 139 III 78 E. 3.2).
-- **Substanziierungspflicht**: Die Parteien müssen ihre Behauptungen ausreichend substantiieren, können aber nicht für jede Aussage Beweismittel verlangen, die erst durch das gerichtliche Verfahren zugänglich werden (4A_453/2016 E. 3.3.1).
+- **Verbot widersprüchlichen Verhaltens** (venire contra factum proprium): Wer sich auf ein Verfahren einlässt, darin über mehrere Instanzen prozessiert und einen Mangel erst nachträglich geltend macht, obwohl er ihn bereits früher hätte vorbringen können, verhält sich widersprüchlich und treuwidrig; der Einwand ist rechtsmissbräuchlich (BGE 141 III 210, E. 5.3.3).
+- **Anfechtungsobliegenheit**: Bei qualifizierten prozessleitenden Verfügungen nach Art. 319 lit. b Ziff. 1 ZPO darf nach Treu und Glauben erwartet werden, dass die Partei die bestehende Anfechtungsmöglichkeit nutzt; unterlässt sie es, darf vom Einverständnis mit der Anordnung ausgegangen werden, und die Anfechtungsmöglichkeit verwirkt mit Ablauf der Beschwerdefrist (BGE 151 III 344, E. 2.2.3).
+- **Grenzen prozessualer Einreden**: Auch die Erhebung der Einrede der abgeurteilten Sache kann nach dem Grundsatz von Treu und Glauben rechtsmissbräuchlich sein (BGE 105 II 149, E. 3).
 - **Vertrauensschutz im Verfahren**: Die Parteien dürfen auf prozessuale Zusagen und den Fortbestand einer gerichtlichen Praxis vertrauen.
 
 ### 3. Verhältnis zu Art. 2 ZGB
 
-Art. 52 Abs. 1 ZPO ist die **prozessuale Ausprägung** des materiell-rechtlichen Grundsatzes von Art. 2 ZGB. Obwohl Art. 2 ZGB auch im Verfahrensrecht anwendbar ist, hat Art. 52 ZPO als spezialgesetzliche Norm Vorrang im Zivilverfahren (4A_453/2016 E. 3.3.1).
+Art. 52 Abs. 1 ZPO ist die **prozessuale Ausprägung** des materiell-rechtlichen Grundsatzes von Art. 2 ZGB. Beide Normen stehen nebeneinander: Das Bundesgericht verwehrt dem offenbar rechtsmissbräuchlich erhobenen prozessualen Einwand den Rechtsschutz gestützt auf Art. 2 Abs. 2 ZGB (BGE 141 III 210, E. 5.3.3).
 
 ### 4. Sanktionen
 
 Die Verletzung des Grundsatzes von Treu und Glauben kann verschiedene prozessuale Folgen haben:
 
 - **Verwirkung** von Rügen und Einreden, die verspätet vorgebracht werden
-- ** Beweiswürdigung**: Das Gericht kann das widersprüchliche Verhalten bei der Beweiswürdigung berücksichtigen
+- **Beweiswürdigung**: Das Gericht kann das widersprüchliche Verhalten bei der Beweiswürdigung berücksichtigen
 - **Kostenfolgen**: Missbräuchliches Prozessverhalten kann zu einer Kostenauferlegung führen
 
 ## II. Unrichtige Rechtsmittelbelehrungen (Abs. 2)
@@ -79,7 +84,7 @@ Für die Wirksamkeit unrichtiger Rechtsmittelbelehrungen müssen folgende Voraus
 
 ### 3. Rechtsfolgen
 
-Ist die Rechtsmittelbelehrung unrichtigt, aber zum Vorteil der Partei, so ist sie **gegenüber allen Gerichten wirksam**. Das Gericht, an das die Partei aufgrund der unrichtigen Belehrung gelangt, muss das Rechtsmittel entgegennehmen und weiterleiten.
+Ist die Rechtsmittelbelehrung unrichtig, aber zum Vorteil der Partei, so ist sie **gegenüber allen Gerichten wirksam**. Das Gericht, an das die Partei aufgrund der unrichtigen Belehrung gelangt, muss das Rechtsmittel entgegennehmen und weiterleiten.
 
 ### 4. Schutzzweck
 
@@ -89,8 +94,8 @@ Die Neuregelung bezweckt, dass **Parteien nicht prozessual benachteiligt** werde
 
 | Grundsatz | Verhältnis |
 |---|---|
-| **Art. 51 ZPO** | Verbot missbräuchlicher Prozessführung — Spezialnorm |
-| **Art. 107 ZPO** | Rechtsmittelbelehrung — direkter Bezug zu Abs. 2 |
+| **Art. 132 ZPO** | Mangelhafte, querulatorische und rechtsmissbräuchliche Eingaben |
+| **Art. 238 lit. f ZPO** | Rechtsmittelbelehrung als Bestandteil des Entscheids — Bezugsnorm zu Abs. 2 |
 | **Art. 2 ZGB** | Treu und Glauben — materiell-rechtliches Fundament |
 | **Art. 5 Abs. 3 BV** | Treu und Glauben — verfassungsrechtliches Fundament |
 | **Art. 9 BV** | Rechtssicherheit, Vertrauensschutz |
