@@ -2,10 +2,16 @@
 title: "Art. 17 — Rechtfertigender Notstand"
 weight: 17
 date: 2026-07-02
-lastmod: 2026-07-02
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 17 StGB: Rechtfertigender Notstand — Voraussetzungen, Güterabwägung, Subsidiarität und Verhältnis zum entschuldigenden Notstand (Art. 18 StGB)."
 tags: ["StGB", "Notstand", "Rechtfertigungsgrund", "Güterabwägung", "Subsidiarität"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200; agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut

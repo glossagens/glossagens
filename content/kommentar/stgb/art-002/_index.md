@@ -2,10 +2,16 @@
 title: "Art. 2 StGB — Zeitlicher Geltungsbereich / lex mitior"
 weight: 2
 date: 2026-05-24
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Art. 2 StGB regelt den zeitlichen Geltungsbereich des Strafgesetzbuchs und das Prinzip der lex mitior: ist das neue Gesetz für den Täter das mildere, so ist es anzuwenden."
 tags: ["StGB", "lex mitior", "Rückwirkungsverbot", "zeitlicher Geltungsbereich", "Inter-temporalrecht", "milderes Recht"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200; agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 10 — Verbrechen und Vergehen"
 weight: 10
 date: 2026-06-13
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 10 StGB – Einteilung der Straftaten in Verbrechen und Vergehen"
 tags: ["StGB", "Verbrechen", "Vergehen", "Einteilung", "Strafrahmen"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: BGE 142 IV 164 (404) ersetzt durch BGE 137 IV 122; Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026)"
 ---
 
 ## Gesetzeswortlaut
@@ -69,7 +75,7 @@ Die Einteilung bestimmt unter anderem:
 
 **10** *Verjährung und Einteilung*: In [BGE 137 IV 122 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_122#e-2) stellte das Bundesgericht fest, dass die Verjährungsfrist nach der Einteilung der Tat zur Zeit der Begehung massgeblich ist.
 
-**11** *Steuerbetrug als Verbrechen*: [BGE 142 IV 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_164) befasst sich mit der Qualifikation von Steuerhinterziehung und Steuerbetrug nach der Schwere der Tat und dem Strafrahmen.
+**11** *Steuerbetrug als Verbrechen*: Die Qualifikation einer Tat als Verbrechen oder Vergehen richtet sich nach der abstrakten Strafdrohung. Steuerbetrug (Art. 186 StGB) kann je nach Schwere als Verbrechen (Freiheitsstrafe über drei Jahre) oder Vergehen qualifiziert werden; massgeblich ist die im Gesetz angedrohte Höchststrafe ([BGE 137 IV 122](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_122) E. 2).
 
 ### VI. Abgrenzungen
 

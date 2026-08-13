@@ -2,11 +2,16 @@
 title: "Art. 11 — Begehung durch Unterlassen"
 weight: 11
 date: 2026-07-24
-lastmod: 2026-07-24
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 11 StGB — unechtes Unterlassungsdelikt, Garantenstellung aus Gesetz, Vertrag, Gefahrengemeinschaft und Ingerenz, Gleichwertigkeitsklausel, fakultative Strafmilderung"
 tags: ["StGB", "Unterlassungsdelikt", "Garantenstellung", "Ingerenz", "Allgemeiner Teil"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert; alle Zitat-Links HTTP 200; agent_verified korrigiert"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"

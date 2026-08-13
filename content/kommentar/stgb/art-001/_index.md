@@ -2,10 +2,16 @@
 title: "Art. 1 StGB — Legalitätsprinzip"
 weight: 1
 date: 2026-05-15
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 1 StGB: Das Legalitätsprinzip — nullum crimen, nulla poena sine lege — als Grundgarantie des Schweizer Strafrechts."
 tags: ["Legalitätsprinzip", "nullum crimen sine lege", "Bestimmtheitsgebot", "Analogieverbot", "StGB", "Strafrecht"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200; agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut
