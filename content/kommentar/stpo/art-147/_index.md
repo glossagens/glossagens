@@ -2,10 +2,16 @@
 title: "Art. 147 StPO — Im Allgemeinen"
 weight: 147
 date: "2026-05-09"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 147 StPO: Teilnahmerecht der Parteien bei Beweiserhebungen, Fragerecht, Wiederholungsverlangen, Verwertungsverbot und Konfrontationsanspruch."
 tags: ["StPO", "Teilnahmerecht", "Beweiserhebung", "rechtliches Gehör", "Verwertungsverbot", "Konfrontationsrecht", "Privatklägerschaft", "Parteiöffentlichkeit", "EMRK"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

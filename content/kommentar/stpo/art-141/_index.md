@@ -2,10 +2,16 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 141 StPO – Verwertbarkeit rechtswidrig erlangter Beweise (Beweisverwertungsverbot)"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 133 StPO — Bestellung der amtlichen Verteidigung"
 weight: 133
 date: "2026-06-20"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 133 StPO: Bestellung der amtlichen Verteidigung — Zuständigkeit, Übertragung der Auswahl und Berücksichtigung der Wünsche der beschuldigten Person (Fassung seit 1.1.2024)"
 tags: ["StPO", "Bestellung der amtlichen Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Verfahrensleitung", "Auswahl Übertragung", "Wünsche der beschuldigten Person", "Reform 2022"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

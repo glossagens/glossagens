@@ -2,10 +2,16 @@
 title: "Art. 135 — Entschädigung der amtlichen Verteidigung"
 weight: 135
 date: "2026-06-03"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 135 StPO – Entschädigung der amtlichen Verteidigung: Tarif, Festsetzung, Vorschüsse, Rechtsmittel, Rückzahlung und Verjährung"
 tags: ["StPO", "amtliche Verteidigung", "Entschädigung", "Anwaltstarif", "Rechtsmittel", "Rückzahlung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1–6: Gesetzestext mit Fedlex verifiziert, OCL-URL-Tippfehler korrigiert (mcp_opencaselaw → mcp.opencaselaw), alle Links geprüft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut
@@ -58,7 +64,7 @@ Die amtliche Verteidigung handelt dabei im eigenen Namen und in eigenen Interess
 
 - Die Staatsanwaltschaft kann die Höhe der Entschädigung mit Beschwerde in Strafsachen anfechten ([BGE 139 IV 199 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199#e-2)).
 - Das Gericht hat über die Entschädigung im Sachurteil zu befinden. Die Staatsanwaltschaft und die anderen Kostentragungspflichtigen müssen die Reduktion im Berufungsverfahren verlangen, während der amtliche Verteidiger die Beschwerde ergreifen muss ([BGE 139 IV 199 E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199#e-5)).
-- Im Verfahren betreffend bedingte Entlassung aus dem Strafvollzug galt Art. 135 Abs. 3 StPO als Spezialregelung i.S. des Gesetzesvorbehalts von Art. 439 Abs. 1 Satz 2 StPO ([BGE 141 IV 187 E. 1.1](https://mcp_opencaselaw.ch/entscheid/bge_BGE_141_IV_187#e-1-1)).
+- Im Verfahren betreffend bedingte Entlassung aus dem Strafvollzug galt Art. 135 Abs. 3 StPO als Spezialregelung i.S. des Gesetzesvorbehalts von Art. 439 Abs. 1 Satz 2 StPO ([BGE 141 IV 187 E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_187#e-1-1)).
 - Wurde nur die erstinstanzliche Entschädigung angefochten, nicht aber die berufungsgerichtliche, lag kein Anwendungsfall von Art. 135 Abs. 3 lit. b StPO aF vor; die Beschwerde in Strafsachen war zulässig ([BGE 140 IV 213 E. 1.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_213#e-1-7)).
 - Gegen den Entschädigungsentscheid eines erstinstanzlichen Gerichts konnte die amtliche Verteidigung gestützt auf Art. 135 Abs. 3 lit. a StPO aF in eigenem Namen Beschwerde führen, um eine Spaltung des Rechtswegs zu vermeiden ([GR Kantonsgericht SK2 2012 32 E. 3](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK2_2012_32#e-3)).
 - Wurde das Verfahren teilweise eingestellt und teilweise ans Bezirksgericht überwiesen, hatte die Oberstaatsanwaltschaft nur für den von ihr abgeschlossenen Teil über die Entschädigung zu befinden; für den überwiesenen Teil war das Gericht zuständig ([ZH Obergericht UP160038 E. 1.1](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_UP160038#e-1-1)).

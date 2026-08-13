@@ -2,10 +2,16 @@
 title: "Art. 90 — Beginn und Berechnung der Fristen"
 weight: 90
 date: 2026-07-12
-lastmod: 2026-07-12
 description: "Kommentar zu Art. 90 StPO – Beginn und Berechnung der Fristen"
 tags: ["StPO", "Fristen", "Fristberechnung", "Verfahrensrecht"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

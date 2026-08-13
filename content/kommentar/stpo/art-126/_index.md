@@ -2,10 +2,16 @@
 title: "Art. 126 — Entscheid (Zivilklage)"
 weight: 126
 date: 2026-07-11
-lastmod: 2026-07-11
 description: "Kommentar zu Art. 126 StPO – Entscheid über die Zivilklage"
 tags: ["StPO", "Zivilklage", "Zivilanspruch", "Adhäsionsverfahren", "Privatklägerschaft", "Verweisung Zivilweg"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

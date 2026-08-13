@@ -2,10 +2,16 @@
 title: "Art. 124 — Zuständigkeit und Verfahren"
 weight: 124
 date: 2026-07-10
-lastmod: 2026-07-10
 description: "Kommentar zu Art. 124 StPO – Zuständigkeit und Verfahren (Zivilanspruch)"
 tags: ["StPO", "Zivilanspruch", "Zivilklage", "Privatklägerschaft", "Adhäsionsverfahren"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

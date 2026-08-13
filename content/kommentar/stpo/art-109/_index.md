@@ -2,10 +2,16 @@
 title: "Art. 109 — Eingaben"
 weight: 109
 date: "2026-06-20"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 109 StPO – Eingaben: Recht der Parteien auf Einreichung von Eingaben und Pflicht der Verfahrensleitung zur Prüfung und Stellungnahmewehr"
 tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

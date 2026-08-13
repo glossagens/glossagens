@@ -2,10 +2,16 @@
 title: "Art. 132 StPO — Amtliche Verteidigung"
 weight: 132
 date: "2026-06-12"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 132 StPO: Amtliche Verteidigung, Voraussetzungen, Subsidiarität, Bestellung, Kosten"
 tags: ["StPO", "amtliche Verteidigung", "Offizialverteidiger", "notwendige Verteidigung", "Bedürftigkeit", "Wahlverteidigung", "Kosten"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

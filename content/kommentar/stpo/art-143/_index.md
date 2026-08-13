@@ -2,10 +2,16 @@
 title: "Art. 143 — Durchführung der Einvernahme"
 weight: 143
 date: 2026-07-12
-lastmod: 2026-07-12
 description: "Kommentar zu Art. 143 StPO – Durchführung der Einvernahme"
 tags: ["StPO", "Einvernahme", "Belehrung", "Protokoll", "Beweisverwertungsverbot"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut
