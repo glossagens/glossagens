@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 71 ZPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-08-13"
 description: "Uebersicht der massgeblichen Entscheide zu Art. 71 ZPO (Einfache Streitgenossenschaft, eventuelle passive Streitgenossenschaft)."
 tags: ["Rechtsprechung", "ZPO", "Streitgenossenschaft", "eventuelle Streitgenossenschaft"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 26 von 66 Paaren gestützt; 18 ungestützt; 2 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Leitentscheide
