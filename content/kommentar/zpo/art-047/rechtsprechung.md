@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 47 ZPO"
 weight: 2
 date: 2026-05-23
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 47 ZPO — Ausstandsgründe, Befangenheit, Rekusal, Entdeckung nach Verfahrensabschluss."
-tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Rekusal", "Art. 30 BV"]
+description: "Übersicht der Rechtsprechung zu Art. 47 ZPO — Anschein der Befangenheit, nebenamtliche und beisitzende Richter, pauschale Ausstandsgesuche, Entdeckung des Ausstandsgrunds nach Verfahrensabschluss."
+tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Art. 30 BV"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 29 %, Urteil C): Belegapparat verworfen und aus dem Zitiergraph neu aufgebaut; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; ausgebaute Entscheide im Audit-Protokoll dokumentiert"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,90 +21,132 @@ revisions:
 
 # Rechtsprechung zu Art. 47 ZPO
 
-## I. Leitentscheide
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt. Die Auswahl folgt
+dem Zitiergraph — der Häufigkeit, mit der ein Entscheid von Urteilen zitiert wird, die
+Art. 47 ZPO anwenden.
 
-### BGE 139 III 120 — Anschein der Befangenheit eines beisitzenden Richters
+## I. Grundsätze
 
-[BGE 139 III 120](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_120) (16. März 2011) — Grundlagenentscheid zu Art. 47 ZPO, Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK. Ein Rechtsanwalt, der als beisitzender Richter in einem Verfahren amtet, in dem ein anderer Anwalt seiner Kanzlei als Parteivertreter auftritt, begründet den Anschein der Befangenheit. Das Bundesgericht stellte klar, dass der Massstab für die Befangenheit nicht nur auf tatsächlicher Befangenheit beruht, sondern auch auf dem **Anschein** der Befangenheit — die Justizförmigkeit des Verfahrens muss nicht nur gegeben, sondern auch sichtbar sein. Die Norm bezweckt das Vertrauen der Parteien in die Unparteilichkeit der Rechtsprechung.
+### [BGE 140 III 221, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_221#e-4-1) (20.5.2014)
 
-### BGE 139 III 466 — Entdeckung eines Ausstandsgrunds nach Verfahrensabschluss
+**Kernaussage**: Die Garantie des verfassungsmässigen Richters wird bereits verletzt, wenn bei objektiver Betrachtung Gegebenheiten vorliegen, die den Anschein der Befangenheit oder die Gefahr der Voreingenommenheit zu begründen vermögen; auf das subjektive Empfinden einer Partei ist nicht abzustellen.
 
-[BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (28. Oktober 2013) — Zentraler Entscheid zu Art. 51 Abs. 3 ZPO. Wird ein Ausstandsgrund während der noch laufenden Frist zur Beschwerde (Art. 319 ff. ZPO) entdeckt, so ist dieser mit Beschwerde und nicht mit dem Rekurs geltend zu machen. Das Bundesgericht klärte das rechtliche Vorgehen bei nachträglicher Entdeckung von Ausstandsgründen: Die Beschwerde ist das richtige Rechtsmittel, wenn der Ausstandsgrund erst nach dem erstinstanzlichen Entscheid entdeckt wird. Eine Rekusal im laufenden Verfahren ist nach Abschluss nicht mehr möglich.
+Der meistzitierte Entscheid zu Art. 47 ZPO und die übliche Referenz für den Prüfmassstab. Die Regeste verweist auf «E. 4»; das ist ein Abschnitts-, kein Erwägungszeiger — die Grundsätze stehen in E. 4.1 ff.
 
-### BGE 148 III 409 — Demoskopische Erhebungen und Ausstand
+### [BGE 140 III 221, E. 4.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_221#e-4-3-3) (20.5.2014)
 
-[BGE 148 III 409](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_409) (30. August 2022) — Das Bundesgericht befasste sich mit der Frage, ob ein Richter, der in einer markenrechtlichen Streitigkeit über demoskopische Erhebungen entscheidet, befangen sein kann, wenn er zuvor in einer anderen Sache mit ähnlichen Erhebungen befasst war. Der Entscheid klärte, dass die blosse Vorerfahrung eines Richters mit bestimmten Beweismitteln keinen Ausstandsgrund begründet — erst eine konkrete Verbindung zur aktuellen Streitsache kann den Anschein der Befangenheit rechtfertigen.
+**Kernaussage**: Eine besondere Verbundenheit und damit der Anschein der Befangenheit besteht, wenn ein offenes Mandat des als nebenamtlicher Richter tätigen Anwalts oder seiner Kanzlei nicht nur zu einer Verfahrenspartei, sondern auch zu einer mit dieser eng verbundenen Person besteht — das Bundesgericht nennt als Beispiel die Konzernschwester und verwirft ein streng schematisches Vorgehen.
 
-### BGE 134 III 193 — Anfechtung eines Vereinsbeschlusses und Befangenheit
+### [BGE 140 III 221, E. 5.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_221#e-5-2-4) (20.5.2014)
 
-[BGE 134 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_193) (23. August 2007) — Das Bundesgericht klärte, dass der Ausstandsgrund nach Art. 47 ZPO nicht nur den Einzelrichter betrifft, sondern auch beisitzende Richter in einem Kollegialgericht. Ein Richter, der in einer früheren Instanz mit der gleichen Sache befasst war, ist in der nachfolgenden Instanz befangen. Der Anschein der Befangenheit ist besonders stark, wenn der Richter in der Vorinstanz einen Entscheid gefällt hat, der in der aktuellen Instanz überprüft wird.
+**Kernaussage**: Besteht über den Ehemann und den Schwager der Oberrichterin eine derartige Nähe zu einer Verfahrenspartei, hätte die Oberrichterin wegen des Anscheins der Befangenheit in den Ausstand treten müssen; nach Art. 48 ZPO muss eine betroffene Gerichtsperson einen möglichen Ausstandsgrund von sich aus vorgängig offenlegen.
 
-### BGE 140 III 159 — Richterliches Ermessen bei der Verfahrensleitung
+Anwendungsfall der Generalklausel (lit. f) auf eine Verbindung, die das Verwandtschaftsregister der lit. c–e nicht erfasst.
 
-[BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (7. Mai 2014) — Das Bundesgericht klärte, dass die Verfahrensleitung (Art. 52 ZPO) und die Ausstandsgründe (Art. 47 ZPO) in einem engen Zusammenhang stehen. Ein Richter, der durch sein Verhalten den Anschein der Befangenheit erweckt, verstösst gegen seine verfahrensleitende Pflicht. Die Verfahrensleitung muss so gestaltet sein, dass das Vertrauen der Parteien in die Unparteilichkeit nicht beeinträchtigt wird. Unnötige Kosten, die durch ein fehlerhaftes Vorgehen des Richters entstehen, können dem Kanton auferlegt werden.
+### [BGE 147 III 89, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_89#e-4-1) (5.11.2020)
 
-## II. Weitere BGer-Entscheide
+**Kernaussage**: Voreingenommenheit und Befangenheit werden angenommen, wenn im Einzelfall anhand aller tatsächlichen und verfahrensrechtlichen Umstände Gegebenheiten aufscheinen, die geeignet sind, Misstrauen in die Unparteilichkeit des Richters zu erwecken; auf das subjektive Empfinden einer Partei ist nicht abzustellen.
 
-### BGE 90 I 65 — Ausstandsgründe und Verfassungsrecht
+## II. Nebenamtliche und beisitzende Richter
 
-[BGE 90 I 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_90_I_65) (20. Mai 1964) — Früher Entscheid zu den Ausstandsgründen im Lichte von Art. 30 Abs. 1 BV (richterliche Unabhängigkeit) und Art. 6 Ziff. 1 EMRK (faires Verfahren). Die Grundsätze sind auf die Schweizer ZPO (in Kraft seit 1. Januar 2011) übertragbar, soweit sie nicht durch die neue Gesetzgebung überholt wurden.
+### [BGE 147 III 89, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_89#e-5-1) (5.11.2020)
 
-### BGE 105 Ia 157 — Befangenheit und Vorinstanz
+**Kernaussage**: Die Rechtsprechung zum Anschein der Befangenheit nebenamtlicher Richter betrifft Befangenheiten aus eigentlicher, berufsspezifischer Rechtsanwaltstätigkeit; für solche Tätigkeiten rechtfertigt sich bezüglich der richterlichen Unabhängigkeit eine strikte Haltung.
 
-[BGE 105 Ia 157](https://mcp.opencaselaw.ch/entscheid/bge_BGE_105_Ia_157) (10. Juli 1979) — Ein Richter, der in einer früheren Instanz mit der gleichen Sache befasst war, ist befangen. Das Bundesgericht stellte klar, dass die Befangenheit nicht nur bei persönlicher Beteiligung, sondern auch bei **sachlicher** Beteiligung (z.B. als Richter in der Vorinstanz) gegeben ist. Die Norm bezweckt, dass der Richter mit "unbefangenen Augen" in die Sache geht.
+Die Abgrenzung trägt das Ergebnis in E. 6.2: Wo keine berufsspezifische Anwaltstätigkeit vorliegt, greift die strikte Haltung nicht.
 
-### BGE 108 Ia 48 — Anschein der Befangenheit und objektiver Massstab
+### [BGE 139 III 120, E. 3.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_120#e-3-2-2) (26.2.2013)
 
-[BGE 108 Ia 48](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_Ia_48) (17. Februar 1982) — Das Bundesgericht klärte, dass der Anschein der Befangenheit nach einem **objektiven Massstab** zu beurteilen ist — nicht nach dem subjektiven Empfinden der Parteien. Massgebend ist, wie ein objektiver Dritter die Situation beurteilen würde. Dieser Massstab verhindert, dass Parteien durch unbegründete Rekursalgesuche den Verfahrensablauf verzögern.
+**Kernaussage**: Ein Rechtsanwalt, der als beisitzender Richter in einer Berufungsinstanz in Mietsachen amtet, erscheint objektiv als befangen, wenn er in einem anderen hängigen Verfahren die Gegenpartei einer der vor dieser Instanz prozessierenden Parteien vertritt.
 
-### BGer 7B_322/2023 — Befangenheit im Strafverfahren (sinngemäss anwendbar)
+### [BGE 139 III 433, E. 2.1.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_433#e-2-1-6) (27.8.2013)
 
-[BGer 7B_322/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_322_2023) (27. Dezember 2023) — Das Bundesgericht bestätigte die Grundsätze der Befangenheit im Strafverfahren, die sinngemäss auch für das Zivilverfahren (Art. 47 ZPO) gelten. Ein Richter, der sich in einer Weise äussert, die den Anschein der Voreingenommenheit erweckt, ist befangen. Der Massstab ist derselbe wie im Zivilverfahren: objektive Beurteilung aus der Sicht eines Dritten.
+**Kernaussage**: Die richterliche Unparteilichkeit kann auch gefährdet sein, wenn der nebenamtliche Richter nicht unmittelbar für eine Verfahrenspartei anwaltlich tätig ist, sondern für eine mit dieser eng verbundene Person, insbesondere eine Konzerngesellschaft; ein streng schematisches Vorgehen wäre verfehlt.
 
-### BGer 1B_254/2022 — Ausstand im Strafverfahren (sinngemäss)
+### [BGE 139 III 433, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_433#e-2-4) (27.8.2013)
 
-[BGer 1B_254/2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_254_2022) (14. Dezember 2022) — Das Bundesgericht befasste sich mit der Frage, ob ein Richter, der in einem Parallelverfahren mit der gleichen Person befasst ist, befangen ist. Die Grundsätze sind sinngemäss auf Art. 47 ZPO anwendbar: Die Befangenheit ist bejaht, wenn die Parallelverfahren so eng verbunden sind, dass der Richter in einem Verfahren nicht mehr unparteiisch urteilen kann.
+**Kernaussage**: Ein offenes Mandat der Patentanwaltskanzlei eines nebenamtlichen Richters ist bei objektiver Betrachtung geeignet, den Anschein seiner Befangenheit zu erwecken; der Richter ist in den Ausstand zu versetzen.
 
-### BGer 5A_644/2014 — Ausstand im Familienverfahren
+### [BGE 139 III 433, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_433#e-2-2) (27.8.2013)
 
-[BGer 5A_644/2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_644_2014) (4. November 2014) — Das Bundesgericht klärte, dass die Ausstandsgründe von Art. 47 ZPO auch im Familienverfahren anwendbar sind. Ein Richter, der in einem früheren Scheidungsverfahren mit der gleichen Familie befasst war, kann in einem nachfolgenden Kindesschutzverfahren befangen sein — insbesondere wenn die frühere Entscheidung die aktuelle Streitsache vorprägt.
+**Kernaussage**: Art. 28 PatGG erfasst nur den Fall, dass ein Kanzlei- oder Arbeitskollege des nebenamtlichen Richters eine Partei vor Bundespatentgericht vertritt; die Bestimmung ist keine lex specialis, die ein offenes Mandatsverhältnis der Kanzlei zu einer Verfahrenspartei von Gesetzes wegen als unbedenklich erklärt.
 
-### BGer 1B_117/2017 — Ausstand und Vorverfahren
+Zum Verhältnis von Art. 47 ZPO zu den Sondernormen: Die Spezialbestimmung verdrängt die Generalklausel nicht, sondern ergänzt sie.
 
-[BGer 1B_117/2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_117_2017) (18. Mai 2017) — Das Bundesgericht stellte klar, dass die blosse Teilnahme an einem Vorverfahren (z.B. als Untersuchungsrichter) nicht automatisch zur Befangenheit in der Hauptverhandlung führt. Die Befangenheit ist nur gegeben, wenn der Richter im Vorverfahren eine **entscheidende** Rolle gespielt hat, die den Anschein der Voreingenommenheit erweckt.
+### [BGE 147 III 89, E. 6.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_89#e-6-2) (5.11.2020)
 
-### BGer 1B_562/2019 — Befangenheit und Äusserungen des Richters
+**Kernaussage**: Administrative Tätigkeiten der Anwaltskanzlei eines nebenamtlichen Bundespatentrichters gegenüber dem nationalen Patentamt begründen für sich allein noch keinen Anschein der Befangenheit.
 
-[BGer 1B_562/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_562_2019) (11. Juni 2020) — Das Bundesgericht klärte, dass Äusserungen eines Richters, die den Anschein der Voreingenommenheit erwecken, einen Ausstandsgrund begründen können. Der Massstab ist objektiv: Ein vernünftiger Dritter müsste angesichts der Äusserungen an der Unparteilichkeit des Richters zweifeln. Blosse kritische Bemerkungen genügen nicht — der Richter muss sich so geäussert haben, dass eine Voreingenommenheit in der Sache naheliegt.
+Gegenstück zu BGE 139 III 433: Nicht jede Kanzleitätigkeit mit Bezug zum Sachgebiet begründet den Ausstand.
 
-### BGer 1P.53/2005 — Befangenheit und rechtliches Gehör
+## III. Vergleichsverhandlung
 
-[BGer 1P.53/2005](https://mcp.opencaselaw.ch/entscheid/bger_1P.53_2005) (8. März 2005) — Das Bundesgericht stellte klar, dass die Befangenheit (Art. 47 ZPO) und das rechtliche Gehör (Art. 29 Abs. 2 BV) in einem engen Zusammenhang stehen. Ein befangener Richter kann das rechtliche Gehör der Parteien nicht in vollem Umfang gewährleisten — seine Unparteilichkeit ist eine Voraussetzung für ein faires Verfahren.
+### [BGer 4A_597/2025 vom 2. März 2026, E. 4.2.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_597_2025#e-4-2-2)
 
-### BGer 1P.687/2005 — Anschein der Befangenheit und Vertrauen in die Justiz
+**Kernaussage**: Der Hinweis eines Gerichtsmitglieds auf einen möglichen Konkurs als Folge eines Urteils kann als aufklärende Warnung im Interesse der einen Vergleich ablehnenden Partei gewertet werden; auch eine harte Einschätzung der Sach- und Rechtslage darf sich auf einen vorläufigen Stand der Erkenntnis stützen.
 
-[BGer 1P.687/2005](https://mcp.opencaselaw.ch/entscheid/bger_1P.687_2005) (9. Januar 2006) — Das Bundesgericht betonte, dass der Ausstandsgrund nach Art. 47 ZPO nicht nur den Schutz der Parteien bezweckt, sondern auch das **Vertrauen der Allgemeinheit** in die Justiz. Der Anschein der Befangenheit ist bereits gegeben, wenn ein objektiver Dritter an der Unparteilichkeit des Richters zweifeln könnte — unabhängig davon, ob der Richter tatsächlich befangen ist.
+Das Bundesgericht wertet die Äusserung im Gesamtzusammenhang: Sie fiel zum Schluss der Vergleichsverhandlung, nachdem der Vergleich abgelehnt worden war, und erschien als letzter Einigungsversuch.
 
-### BGer 1P.34/2003 — Befangenheit und Verfahrensgarantien
+## IV. Pauschale Ausstandsgesuche
 
-[BGer 1P.34/2003](https://mcp.opencaselaw.ch/entscheid/bger_1P.34_2003) (20. März 2003) — Das Bundesgericht klärte, dass die Verfahrensgarantien von Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK die Unparteilichkeit des Richters voraussetzen. Ein Ausstandsgrund nach Art. 47 ZPO ist nicht nur eine prozessuale Ordnungsvorschrift, sondern eine verfassungsrechtliche Garantie. Die Verletzung kann zur Aufhebung des gesamten Verfahrens führen.
+### [BGer 4A_604/2025 vom 22. April 2026, E. 2.2.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_604_2025#e-2-2-3)
 
-### BGer 7B_985/2024 — Befangenheit und neuere Rechtsprechung
+**Kernaussage**: Ein Ausstandsbegehren gegen sämtliche Mitglieder einer Behörde ist nur dann zulässig, wenn gegen jedes einzelne Mitglied spezifische Ausstandsgründe geltend gemacht werden, die über die Kritik hinausgehen, die Behörde als solche sei befangen.
 
-[BGer 7B_985/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_985_2024) (6. Dezember 2024) — Aktuelles Urteil zur Befangenheit. Das Bundesgericht bestätigte die ständige Rechtsprechung zum objektiven Massstab der Befangenheit und präzisierte, dass der Anschein der Befangenheit auch durch **indizielle** Umstände (z.B. auffällige Verfahrensgestaltung, ungewöhnliche Äusserungen) begründet werden kann.
+### [BGer 4A_604/2025 vom 22. April 2026, E. 2.2.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_604_2025#e-2-2-4)
 
-### BGE 97 I 1 — Ausstand und Verfassungsrecht
+**Kernaussage**: Die pauschale Behauptung, der Obergerichtspräsident habe im Namen des gesamten Obergerichts gesprochen und es seien entsprechend alle Mitglieder befangen, genügt nicht; die Ausstandsgründe sind für jedes einzelne Mitglied substanziiert darzulegen.
 
-[BGE 97 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_I_1) (10. Februar 1971) — Früher Entscheid zum verfassungsrechtlichen Hintergrund der Ausstandsgründe. Die Grundsätze sind auf die Schweizer ZPO übertragbar, soweit sie nicht durch die neue Gesetzgebung überholt wurden.
+### [BGer 5D_150/2023 vom 28. September 2023, E. 2.1.4](https://mcp.opencaselaw.ch/entscheid/bger_5D_150_2023#e-2-1-4)
 
-## III. Grundsätze
+**Kernaussage**: Ein Gericht kann nicht als Institution abgelehnt werden, wenn keine konkreten Ausstandsgründe gegen einzelne Gerichtspersonen vorgebracht werden; ein pauschales und unsubstanziiertes Ausstandsbegehren ist unzulässig.
 
-- **Objektiver Massstab**: Der Anschein der Befangenheit ist nach einem objektiven Massstab zu beurteilen (wie ein objektiver Dritter die Situation beurteilen würde).
-- **Anschein genügt**: Tatsächliche Befangenheit ist nicht erforderlich — der Anschein reicht aus.
-- **Vertrauen in die Justiz**: Die Norm bezweckt nicht nur den Schutz der Parteien, sondern auch das Vertrauen der Allgemeinheit in die Justiz.
-- **Vorinstanz-Befangenheit**: Ein Richter, der in einer Vorinstanz mit der gleichen Sache befasst war, ist befangen.
-- **Entdeckung nach Verfahrensabschluss**: Bei nachträglicher Entdeckung des Ausstandsgrunds ist die Beschwerde (Art. 319 ZPO) das richtige Rechtsmittel (Art. 51 Abs. 3 ZPO).
-- **Verfassungsrechtliche Garantie**: Die Unparteilichkeit des Richters ist eine verfassungsrechtliche Garantie (Art. 30 Abs. 1 BV, Art. 6 Ziff. 1 EMRK).
-- **Sinngemässe Anwendung**: Die Grundsätze von Art. 47 ZPO gelten sinngemäss auch im Straf- und Verwaltungsverfahren.
+## V. Entdeckung des Ausstandsgrunds nach Verfahrensabschluss
 
-*Letzte Aktualisierung: 2026-07-18*
+### [BGE 139 III 466, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466#e-3-4) (28.10.2013)
+
+**Kernaussage**: Wird ein Ausstandsgrund während der noch laufenden Frist zur Beschwerde nach Art. 319 ff. ZPO entdeckt, so ist dieser mit Beschwerde und nicht mit Revision geltend zu machen; die Novenregelung von Art. 326 ZPO steht dem nicht entgegen.
+
+### [BGE 139 III 120, E. 3.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_120#e-3-1-1) (26.2.2013)
+
+**Kernaussage**: Wird ein Ausstandsgrund nach Abschluss des Verfahrens, aber vor Ablauf der Rechtsmittelfrist entdeckt, ist er im Rahmen des Rechtsmittels gegen den betreffenden Entscheid geltend zu machen und nicht mit Revision nach Art. 328 Abs. 1 ZPO.
+
+### [BGE 147 I 173, E. 4.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173#e-4-1-1) (2.12.2020)
+
+**Kernaussage**: Wird ein Ausstandsgrund nach Abschluss des Verfahrens, aber vor Ablauf der Rechtsmittelfrist entdeckt, kann er im Rahmen des Rechtsmittels geltend gemacht werden; es ist zulässig, die Partei auf das Rechtsmittel zu verweisen, solange dessen Frist noch nicht abgelaufen ist.
+
+Der Entscheid überträgt die für das Zivil- und Strafrecht entwickelte Praxis auf das kantonale öffentliche Recht.
+
+### [BGE 147 I 173, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173#e-5-4) (2.12.2020)
+
+**Kernaussage**: Die Mitwirkung eines Richters, der zugleich als Exekutivmitglied einer Gemeinde amtiert, in einem Verfahren betreffend den interkommunalen Finanzausgleich verletzt Art. 30 Abs. 1 BV.
+
+### [BGE 147 I 173, E. 5.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_173#e-5-3-3) (2.12.2020)
+
+**Kernaussage**: Von einer Partei kann nicht verlangt werden, dass sie in den sie betreffenden Verfahren sämtliche Mitglieder des Spruchkörpers auf rechtswidrige Doppelmandate und kantonalrechtlich geregelte Unvereinbarkeiten hin prüft.
+
+Begrenzt die Obliegenheit, den Ausstandsgrund unverzüglich geltend zu machen: Sie setzt zumutbare Kenntnis voraus.
+
+## Audit-Protokoll
+
+Die frühere Fassung dieser Übersicht führte sechzehn Entscheide, deren Nummern durchwegs
+existieren, deren wiedergegebener Inhalt aber nicht zutraf. Beim Audit vom 13.08.2026
+erreichten 24 von 45 Belegpaaren des Bundles kein `yes` oder `partial`; die Belegquote lag
+bei 29 % (Urteil C). Die Übersicht wurde deshalb nicht ausgebessert, sondern verworfen und
+aus dem Zitiergraph neu aufgebaut.
+
+Nicht übernommen wurden unter anderem:
+
+| Referenz | im Kommentar behauptet | tatsächlicher Gegenstand |
+|---|---|---|
+| BGE 134 III 193 | Ausstand beisitzender Richter im Kollegialgericht | Vereinsrecht und Persönlichkeitsschutz (Art. 75, 28 ZGB) |
+| BGE 140 III 159 | Zusammenhang von Verfahrensleitung und Ausstand | richterliches Ermessen bei Kostenvorschüssen |
+| BGE 148 III 409 | Vorbefassung eines Richters mit demoskopischen Erhebungen | Ausstandsregeln für den Ersteller einer Erhebung |
+| BGE 105 Ia 157 | Befangenheit wegen Vorbefassung in früherer Instanz | Befangenheit wegen regionaler Betroffenheit (Kaiseraugst) |
+| BGE 90 I 65 | Ausstandsgründe im Licht von Art. 30 BV und Art. 6 EMRK | Rekusationsverfahren nach Art. 88 OG |
+| BGE 97 I 1 | verfassungsrechtlicher Hintergrund der Ausstandsgründe | trägt die Aussage nicht |
+| BGer 7B_322/2023, 1B_254/2022, 1B_117/2017, 5A_644/2014, 1P.53/2005, 1P.687/2005 | Übertragung strafprozessualer Ausstandsgrundsätze auf Art. 47 ZPO | jeweils anderer Gegenstand; der zugeschriebene Satz findet sich in keiner Erwägung |
+
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`). Bei keinem der ausgebauten Entscheide
+liess sich die behauptete Aussage in einer Erwägung nachweisen.
