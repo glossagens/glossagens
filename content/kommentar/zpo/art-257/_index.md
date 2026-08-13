@@ -2,10 +2,16 @@
 title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen bei unbestrittenem Sachverhalt und klarer Rechtslage — Voraussetzungen, Ausschluss bei Offizialgrundsatz, Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz", "Klare Fälle", "Unbestrittener Sachverhalt"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 0 von 18 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut

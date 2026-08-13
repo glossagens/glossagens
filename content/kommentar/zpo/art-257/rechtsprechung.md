@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 257 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 257 ZPO — Rechtsschutz im summarischen Verfahren, unbestrittener Sachverhalt, klare Rechtslage."
 tags: ["Rechtsprechung", "ZPO", "Summarisches Verfahren", "Rechtsschutz"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 0 von 18 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 257 ZPO
