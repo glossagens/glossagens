@@ -23,10 +23,18 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      # Version steht in .hugo-version, damit der lokale Build-Check
+      # (scripts/build-check.sh) exakt dasselbe Hugo verwendet wie der Runner.
+      # Auseinanderlaufende Versionen haben am 11.08.2026 sieben Deploys in
+      # Folge gekippt: lokal grün, in CI Cast-Fehler im Template.
+      - name: Hugo-Version lesen
+        id: hugo-version
+        run: echo "version=$(tr -d '[:space:]' < .hugo-version)" >> "$GITHUB_OUTPUT"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 0.147.4
+          hugo-version: ${{ steps.hugo-version.outputs.version }}
           extended: false
 
       - name: Build

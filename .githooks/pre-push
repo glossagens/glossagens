@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+#
+# Baut die Seite vor dem Push, sobald der Push Dateien berührt, die in den
+# Hugo-Build eingehen. Verhindert die Sorte roter Deploys, die nur in der
+# CI-Ausgabe sichtbar wird (siehe scripts/build-check.sh).
+#
+# Aktivierung (einmalig pro Klon):  git config core.hooksPath .githooks
+# Überspringen:                     git push --no-verify
+
+set -euo pipefail
+
+[ "${GLOSSAGENS_SKIP_BUILD_CHECK:-}" = "1" ] && exit 0
+
+leer="0000000000000000000000000000000000000000"
+relevant='^(content|layouts|data|assets|i18n|static|themes|archetypes)/|^(hugo\.toml|\.hugo-version)$'
+
+pruefen=0
+while read -r _lokal_ref lokal_sha _remote_ref remote_sha; do
+  # Branch wird gelöscht — nichts zu bauen.
+  [ "$lokal_sha" = "$leer" ] && continue
+
+  if [ "$remote_sha" = "$leer" ]; then
+    # Neuer Branch: Vergleichsbasis unbekannt, im Zweifel bauen.
+    pruefen=1
+  elif git diff --name-only "$remote_sha" "$lokal_sha" | grep -qE "$relevant"; then
+    pruefen=1
+  fi
+done
+
+[ "$pruefen" = "1" ] || exit 0
+
+exec "$(git rev-parse --show-toplevel)/scripts/build-check.sh"

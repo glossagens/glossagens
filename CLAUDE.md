@@ -217,6 +217,18 @@ Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
 Bei Strukturfehler: sofortiger Reject ohne LLM-Call.  
 Bei Bestehen beider Stufen: automatischer Merge + Deploy.
 
+## Build-Check vor dem Push
+
+Ein fehlerhaftes Template bricht **den gesamten** Hugo-Build ab, nicht nur die betroffene Seite — der Deploy bleibt dann rot und die veröffentlichte Seite altert stillschweigend vor sich hin (11.–12.08.2026: sieben Commits lang unbemerkt, weil GitHub standardmässig nur bei Fehlschlägen mailt).
+
+Absicherung:
+
+- `.hugo-version` ist die **einzige** Stelle, an der die Hugo-Version steht. `deploy.yml` liest sie, `scripts/build-check.sh` vergleicht die lokale Installation dagegen und warnt bei Abweichung. Die Versionen müssen übereinstimmen: Der Auslöser des Ausfalls war ein Template-Ausdruck, der unter 0.147.4 (CI) anders auswertete als unter 0.161.1 (lokal) — lokal grün, in CI Cast-Fehler.
+- `.githooks/pre-push` baut vor jedem Push, der `content/`, `layouts/`, `data/`, `assets/`, `i18n/`, `static/`, `themes/`, `archetypes/`, `hugo.toml` oder `.hugo-version` berührt (~30 s); andere Pushes laufen ungebremst durch. Einmalig pro Klon zu aktivieren: `git config core.hooksPath .githooks`.
+- Manuell: `make build-check` bzw. `./scripts/build-check.sh`. Notausgang: `git push --no-verify`.
+
+Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht automatisch nach.
+
 ## GitHub Secrets
 
 - `HERMES_WEBHOOK_URL` — Endpoint auf dem Hetzner-Server
