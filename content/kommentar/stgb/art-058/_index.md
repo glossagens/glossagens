@@ -2,19 +2,25 @@
 title: "Art. 58 — Einrichtungen für den Vollzug"
 weight: 58
 date: 2026-06-06
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 58 StGB – Einrichtungen für den Vollzug therapeutischer Massnahmen: Trennungsgebot, Massnahmenvollzug und Verhältnis zu Art. 59 Abs. 3 StGB"
 tags: ["StGB", "Sanktionenrecht", "Massnahmenvollzug", "Trennungsgebot", "therapeutische Massnahme", "Strafvollzug"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 58: 3 eurolex-Links→OCL umgestellt; Aufhebungsvermerk Abs. 1 ergänzt; Gesetzestext verifiziert"
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 58 StGB — Einrichtungen für den Vollzug**
 >
-> 1 …
+> 1 … *⚠️ Abs. 1 aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 (AS 2010 5303).*
 >
-> 2 Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
+> 2 Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
 
 
 ## Kommentierung
@@ -23,7 +29,7 @@ agent_verified: true
 
 Art. 58 StGB normiert heute noch das **Trennungsgebot** für den Vollzug der stationären therapeutischen Massnahmen (Art. 59–61 StGB): Die therapeutischen Einrichtungen sind vom Strafvollzug getrennt zu führen (Abs. 2). Der frühere Abs. 1, der die Eignungsanforderungen an die Vollzugseinrichtungen umschrieb, wurde mit Inkrafttreten der eidgenössischen Strafprozessordnung per 1. Januar 2011 **aufgehoben**; die entsprechenden Anforderungen ergeben sich seither aus Art. 59 Abs. 2 StGB (geeignete Einrichtung) sowie aus den allgemeinen Massnahmenbestimmungen (Art. 56 ff. StGB). Das Trennungsgebot ist Grundpfeiler eines Systems, das die therapeutische Ausrichtung der Massnahmen sicherstellen und den Strafvollzug von der Massnahmebehandlung trennen soll.
 
-Das Trennungsgebot hat in der Praxis erhebliche Bedeutung erlangt, weil der Vollzug in geschlossener Einrichtung nach Art. 59 Abs. 3 StGB eine **lex specialis**-Ausnahme zum Trennungsgebot von Abs. 2 darstellt ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.2). Die Spannung zwischen dem Grundsatz der Trennung von Straf- und Massnahmenvollzug und der Notwendigkeit, bei qualifiziertem Rückfallrisiko den Vollzug auch in einer Strafanstalt zuzulassen, ist das zentrale Thema der Rechtsprechung zu Art. 58 StGB.
+Das Trennungsgebot hat in der Praxis erhebliche Bedeutung erlangt, weil der Vollzug in geschlossener Einrichtung nach Art. 59 Abs. 3 StGB eine **lex specialis**-Ausnahme zum Trennungsgebot von Abs. 2 darstellt ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.2). Die Spannung zwischen dem Grundsatz der Trennung von Straf- und Massnahmenvollzug und der Notwendigkeit, bei qualifiziertem Rückfallrisiko den Vollzug auch in einer Strafanstalt zuzulassen, ist das zentrale Thema der Rechtsprechung zu Art. 58 StGB.
 
 ### II. Anforderungen an die Vollzugseinrichtungen (heute Art. 59 Abs. 2 StGB)
 
@@ -44,7 +50,7 @@ Die Anforderungen an die Einrichtungen ergeben sich aus dem **Zweck der Massnahm
 - eine **adäquate Betreuung** durch Fachpersonal sicherstellen;
 - eine **angemessene Unterbringung** gewährleisten.
 
-Diese Anforderungen gelten modifiziert auch beim Vollzug in einer Strafanstalt nach Art. 59 Abs. 3 StGB: Auch dort muss die **geeignete Behandlung durch Fachpersonal gewährleistet** sein ([BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.4).
+Diese Anforderungen gelten modifiziert auch beim Vollzug in einer Strafanstalt nach Art. 59 Abs. 3 StGB: Auch dort muss die **geeignete Behandlung durch Fachpersonal gewährleistet** sein ([BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.4).
 
 ### III. Trennungsgebot (Abs. 2)
 
@@ -62,13 +68,13 @@ Das Trennungsgebot ist **kein absolutes Gebot**. Art. 59 Abs. 3 StGB regelt ausd
 1. der Vollzug in einer therapeutischen Einrichtung **nicht möglich oder nicht angebracht** ist; und
 2. eine **geeignete Behandlung durch Fachpersonal gewährleistet** ist.
 
-In diesem Fall ist Art. 59 Abs. 3 StGB **lex specialis** zu Art. 58 Abs. 2 StGB und verdrängt das Trennungsgebot ([BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.2; [BGer 7B_551/2025](https://www.bger.ch/ext/eurolex/index/7B_551/2025), E. 2.2.2; [BGer 7B_278/2025](https://www.bger.ch/ext/eurolex/index/7B_278/2025), E. 2.2.2; [BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2).
+In diesem Fall ist Art. 59 Abs. 3 StGB **lex specialis** zu Art. 58 Abs. 2 StGB und verdrängt das Trennungsgebot ([BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.2; [BGer 7B_551/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_551_2025), E. 2.2.2; [BGer 7B_278/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_278_2025), E. 2.2.2; [BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2).
 
 #### 3. Voraussetzungen des Strafanstaltvollzugs
 
 **a) Qualifiziertes Rückfall- oder Fluchtrisiko**
 
-Der Strafanstaltvollzug nach Art. 59 Abs. 3 StGB setzt ein **qualifiziertes Rückfall- oder Fluchtrisiko** voraus. Qualifiziert bedeutet, dass es hochgradig wahrscheinlich ist, dass der Verurteilte weitere Straftaten gegen wesentliche Rechtsgüter begeht, und dass dieses Risiko nur durch den Platz in einer geschlossenen Einrichtung eingedämmt werden kann ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2).
+Der Strafanstaltvollzug nach Art. 59 Abs. 3 StGB setzt ein **qualifiziertes Rückfall- oder Fluchtrisiko** voraus. Qualifiziert bedeutet, dass es hochgradig wahrscheinlich ist, dass der Verurteilte weitere Straftaten gegen wesentliche Rechtsgüter begeht, und dass dieses Risiko nur durch den Platz in einer geschlossenen Einrichtung eingedämmt werden kann ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2).
 
 Indizien für ein qualifiziertes Risiko sind:
 - **Rückfall innerhalb kurzer Frist** nach der Entlassung aus einem ambulanten oder offenen Rahmen
@@ -81,13 +87,13 @@ Indizien für ein qualifiziertes Risiko sind:
 Im Strafanstaltvollzug muss die **geeignete Behandlung durch Fachpersonal gewährleistet** sein. Dies erfordert:
 - Regelmässige **psychiatrische Betreuung** durch einen Facharzt
 - **Psychotherapeutische Behandlung** in angemessenem Rhythmus
-- Keine ständige Anwesenheit von Therapiepersonal erforderlich — das Gesetz fordert keine 24-Stunden-Psychiatrie-Präsenz ([BGer 7B_68/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_68_2022), E. 3.5.3; [BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.4)
+- Keine ständige Anwesenheit von Therapiepersonal erforderlich — das Gesetz fordert keine 24-Stunden-Psychiatrie-Präsenz ([BGer 7B_68/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_68_2022), E. 3.5.3; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.4)
 
 **c) EMRK-Konformität**
 
 Der Vollzug in einer Strafanstalt muss den Anforderungen der EMRK genügen, namentlich:
 - **Art. 3 EMRK** (Verbot unmenschlicher Behandlung): Die Unterbringung in einer Strafanstalt verstösst nicht gegen Art. 3 EMRK, solange die Behandlung durch Fachpersonal sichergestellt ist.
-- **Art. 5 Abs. 1 lit. e EMRK** (Freiheitsentzug von psychisch Gestörten): Die Unterbringung muss in einer **geeigneten Einrichtung** erfolgen. Nach der Rechtsprechung des EGMR (Rooman c. Belgique, Grosskammer, 31.01.2019, §§ 208 ff.; Kadušić c. Suisse, 09.01.2018, § 45; Mehenni c. Suisse, 09.04.2024, § 28) kann eine Strafanstalt eine geeignete Einrichtung sein, wenn angemessene Behandlung durch Fachpersonal gewährleistet ist ([BGer 7B_1360/2025](https://www.bger.ch/ext/eurolex/index/7B_1360/2025), E. 2.2.4).
+- **Art. 5 Abs. 1 lit. e EMRK** (Freiheitsentzug von psychisch Gestörten): Die Unterbringung muss in einer **geeigneten Einrichtung** erfolgen. Nach der Rechtsprechung des EGMR (Rooman c. Belgique, Grosskammer, 31.01.2019, §§ 208 ff.; Kadušić c. Suisse, 09.01.2018, § 45; Mehenni c. Suisse, 09.04.2024, § 28) kann eine Strafanstalt eine geeignete Einrichtung sein, wenn angemessene Behandlung durch Fachpersonal gewährleistet ist ([BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.4).
 
 #### 4. Beendigung des Strafanstaltvollzugs
 

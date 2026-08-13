@@ -2,10 +2,16 @@
 title: "Art. 62c — Aufhebung der Massnahme"
 weight: 62
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 62c StGB: Aufhebung der Massnahme bei Aussichtslosigkeit, Höchstdauer oder fehlender Einrichtung"
 tags: ["StGB", "aufhebung-massnahme", "hoechstdauer", "reststrafe", "verwahrung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 62c: Audit KW33; Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Wortlaut

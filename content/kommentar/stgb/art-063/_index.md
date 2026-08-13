@@ -2,10 +2,16 @@
 title: "Art. 63 — Voraussetzungen und Vollzug"
 weight: 63
 date: 2025-06-12
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 63 StGB – Voraussetzungen und Vollzug der ambulanten Behandlung"
 tags: ["StGB", "ambulante Behandlung", "Massnahme", "psychisch schwer gestört", "Suchtstoffe", "Verlängerung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 63: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

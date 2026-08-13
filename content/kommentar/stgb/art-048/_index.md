@@ -2,10 +2,16 @@
 title: "Art. 48 — Strafmilderungsgründe"
 weight: 48
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 48 StGB – Strafmilderungsgründe"
 tags: ["StGB", "Strafzumessung", "Strafmilderung", "achtenswerte Beweggründe", "schwere Bedrängnis", "heftige Gemütsbewegung", "aufrichtige Reue", "langer Zeitablauf"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 48: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 59 — Stationäre therapeutische Massnahme"
 weight: 59
 date: 2026-06-05
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 59 StGB – Stationäre therapeutische Massnahme: Voraussetzungen, Unterbringung, Vollzug und Verhältnis zu Art. 58 und Art. 64 StGB"
 tags: ["StGB", "therapeutische Massnahme", "Sanktionenrecht", "Massnahmenvollzug", "Unterbringung", "Behandlung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 59: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

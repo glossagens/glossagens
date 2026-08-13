@@ -2,10 +2,16 @@
 title: "Art. 62b — Endgültige Entlassung"
 weight: 62
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 62b StGB: Endgültige Entlassung aus Massnahme bei Bewährung oder Erreichen der Höchstdauer"
 tags: ["StGB", "endgueltige-entlassung", "massnahme", "hoechstdauer"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 62b: Audit KW33; Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Wortlaut

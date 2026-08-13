@@ -2,10 +2,16 @@
 title: "Art. 62 — Bedingte Entlassung aus dem stationären Vollzug"
 weight: 62
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 62 StGB: Bedingte Entlassung aus Massnahmen — Voraussetzungen, Probezeit, Grenze bei Altersgrenze (Art. 61 Abs. 4 in fine StGB)"
 tags: ["StGB", "bedingte-entlassung", "massnahme", "probezeit"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 62: Audit KW33; Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Wortlaut
