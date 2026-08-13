@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 119 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 119 ZPO — Gesuch und Verfahren (unentgeltliche Rechtspflege), Darlegungspflicht, rückwirkende Bewilligung."
 tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Verfahren"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 15 Paaren gestützt; 11 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 119 ZPO
