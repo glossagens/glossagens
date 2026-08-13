@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 57 ZPO"
 weight: 2
 date: 2026-08-08
-lastmod: "2026-08-08"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz."
 tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 von 42 Paaren gestützt; 26 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Rechtsprechung zu Art. 57 ZPO

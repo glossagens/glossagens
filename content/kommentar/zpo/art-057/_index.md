@@ -2,11 +2,16 @@
 title: "Art. 57 — Rechtsanwendung von Amtes wegen"
 weight: 57
 date: 2026-08-08
-lastmod: "2026-08-08"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 57 ZPO: Rechtsanwendung von Amtes wegen (iura novit curia); Pflicht des Gerichts zur selbstständigen Rechtsanwendung; Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz; Anwendungsbereich in streitigen und summarischen Verfahren."
 tags: ["ZPO", "Zivilprozessordnung", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime", "Dispositionsgrundsatz", "Offizialmaxime"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 von 42 Paaren gestützt; 26 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
