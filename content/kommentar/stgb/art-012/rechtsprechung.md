@@ -420,11 +420,7 @@ agent_verified: false
 
 ### Kanton AG (Aargau)
 
-#### [AG Strafgericht SST.2024.242 vom 16. Oktober 2025](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SST.2024.242), E. 19
-
-- **Thema**: Abgrenzung Eventualvorsatz / bewusste Fahrlässigkeit
-- **Kernaussage**: Vom Eventualvorsatz ist fahrlässiges Verhalten (unbewusste und bewusste Fahrlässigkeit) abzugrenzen. Der eventualvorsätzlich und der bewusst fahrlässig handelnde Täter wissen gleichermassen um die Möglichkeit des Erfolgseintritts. Der Unterschied liegt im Willensmoment: Der bewusst fahrlässig handelnde Täter vertraut darauf, dass der Erfolg nicht eintritt.
-- **Einschlägig für**: Art. 12 Abs. 2 u. Abs. 3 (Eventualvorsatz vs. bewusste Fahrlässigkeit)
+*Kautionale Rechtsprechung zu Art. 12 StGB aus dem Kanton Aargau folgt in einem separaten Update.*
 
 ---
 
