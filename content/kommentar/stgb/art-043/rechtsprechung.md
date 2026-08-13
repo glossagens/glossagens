@@ -20,8 +20,8 @@ Zurück zum Kommentar: [Art. 43 StGB — Teilbedingte Freiheitsstrafe](./)
 
 | Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
-| [BGE 144 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_277) | 2018 | **Mittellösung zwischen bedingt und unbedingt:** aArt. 42 Abs. 2, aArt. 43 Abs. 1 StGB; die teilbedingte Strafe ist eine Mittellösung zwischen dem vollständigen Aufschub und dem vollständigen Vollzug. Bei Strafen von 1–2 Jahren ist der bedingte Vollzug die Regel; der teilbedingte Vollzug setzt besonders günstige Voraussetzungen voraus. | E. 1 |
-| [BGE 134 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_1) | 2007 | **Stufensystem:** Bei Freiheitsstrafen von 1–2 Jahren ist der Strafaufschub nach Art. 42 Abs. 1 StGB die Regel, von der nur bei ungünstiger Prognose abzuweichen ist. Bei Strafen von 2–3 Jahren ist umgekehrt der unbedingte Vollzug die Regel; der teilbedingte Vollzug setzt ein günstiges Gesamtbild des Täters voraus. | E. 2.3 |
+| [BGE 144 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_277) | 2018 | **Mittellösung zwischen bedingt und unbedingt:** aArt. 42 Abs. 2, aArt. 43 Abs. 1 StGB; die teilbedingte Strafe ist eine Mittellösung zwischen dem vollständigen Aufschub und dem vollständigen Vollzug. Bei Strafen von 1–2 Jahren ist der bedingte Vollzug die Regel; der teilbedingte Vollzug setzt besonders günstige Voraussetzungen voraus. | E. 3 |
+| [BGE 134 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_1) | 2007 | **Stufensystem:** Bei Freiheitsstrafen von 1–2 Jahren ist der Strafaufschub nach Art. 42 Abs. 1 StGB die Regel, von der nur bei ungünstiger Prognose abzuweichen ist. Bei Strafen von 2–3 Jahren ist umgekehrt der unbedingte Vollzug die Regel; der teilbedingte Vollzug setzt ein günstiges Gesamtbild des Täters voraus. | E. 2 |
 
 ## II. Begründungspflicht bei teilbedingtem Antrag der Staatsanwaltschaft
 

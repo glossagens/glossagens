@@ -10,7 +10,7 @@ agent_verified: false
 
 ## Leitentscheide (BGE)
 
-### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313), E. 2
+### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313), E. 1
 - **Thema**: Strafzumessung, Konkurrenzen, Begründungspflicht
 - **Kernaussage**: Hat das Gericht eine Strafe für mehrere Straftaten auszusprechen, hat es zunächst für jede von ihnen die Art der Strafe zu bestimmen. Art. 49 Abs. 1 StGB ist nur anwendbar, wenn diese Strafen gleichartig sind. Geldstrafe und Freiheitsstrafe sind keine gleichartigen Strafen. Das Gericht ist an das gesetzliche Höchstmass jeder Strafart gebunden; es kann eine Geldstrafe nicht in eine Freiheitsstrafe umwandeln, weil die Höhe der ersteren zusammen mit einer weiteren Geldstrafe das Höchstmass überschreitet.
 - **Einschlägig für**: Art. 41 Abs. 1, Art. 49 Abs. 1 StGB — Sanktionswahl bei Konkurrenzen
