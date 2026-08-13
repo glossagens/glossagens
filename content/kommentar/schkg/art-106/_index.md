@@ -2,10 +2,17 @@
 title: "Art. 106 SchKG — Ansprüche Dritter an gepfändeten Gegenständen"
 weight: 106
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: "2026-08-13"
 description: "Art. 106 SchKG regelt die Behandlung von Drittrechten an gepfändeten Gegenständen: Vorkehrung des Betreibungsamts, Anmeldung Dritter Ansprüche, und Geltendmachung nach Verwertung."
 tags: ["SchKG", "Drittrecht", "Pfändung", "Vorkehrung", "Eigentumsvorbehalt", "Pfändungspfandrecht", "Drittwiderspruch"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG — Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Art. 106 SchKG — Wortlaut

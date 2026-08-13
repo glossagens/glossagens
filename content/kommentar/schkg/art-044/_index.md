@@ -2,11 +2,16 @@
 title: "Art. 44 — Verwertung beschlagnahmter Gegenstände"
 weight: 44
 date: 2026-07-17
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 44 SchKG: Verwertung von Gegenständen, die aufgrund strafrechtlicher, fiskalischer oder bundesrätlicher Massnahmen mit Beschlag belegt sind; Verhältnis Beschlagnahme zu Betreibungs- und Konkursverfahren; Sperrung von Guthaben gestützt auf Art. 184 Abs. 3 BV."
 tags: ["SchKG", "Schuldbetreibung", "Konkurs", "Beschlagnahme", "Verwertung", "Fiskalische Beschlagnahme", "Guthabensperrung", "Vorbehalt"]
 agent_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -71,7 +76,7 @@ revisions:
 
 **14** Im **Konkursverfahren** hat Art. 44 SchKG besondere Bedeutung, da die Konkursmasse Gegenstände umfassen kann, die anderweitig beschlagnahmt sind. Die Konkursverwertung (Art. 229 ff. SchKG) tritt insoweit zurück, als die Beschlagnahme reicht. Die Abgrenzung zwischen Konkursmasse und beschlagnahmten Vermögenswerten erfordert eine genaue Bestimmung der konkurrierenden Zugriffsrechte ([BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97)).
 
-**15** **Konkurskosten und Glaubhaftmachung.** Hat der Schuldner die Kosten des Konkursgerichts erst im Beschwerdeverfahren getilgt, hat er mit seiner Beschwerde zusätzlich seine Zahlungsfähigkeit glaubhaft zu machen, auch wenn die Schuldtilgung im Übrigen ganz vor der Konkurseröffnung erfolgt ist. Diese Grundsätze stehen im Kontext der allgemeinen Konkursdogmatik, die auch bei beschlagnahmten Vermögenswerten zu beachten ist ([BGE 151 III 574](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_574)).
+**15** **Konkurskosten und Glaubhaftmachung.** Hat der Schuldner die Kosten des Konkursgerichts erst im Beschwerdeverfahren getilgt, hat er mit seiner Beschwerde zusätzlich seine Zahlungsfähigkeit glaubhaft zu machen, auch wenn die Schuldtilgung im Übrigen ganz vor der Konkurseröffnung erfolgt ist. Diese Grundsätze stehen im Kontext der allgemeinen Konkursdogmatik, die auch bei beschlagnahmten Vermögenswerten zu beachten ist (BGE 151 III 574).
 
 **16** **Aberkennungsverfahren und Dispositionsmaxime.** Im Aberkennungsverfahren nach Art. 83 SchKG wird die Dispositionsmaxime verletzt, wenn das Gericht über das Begehren der Partei hinausgeht. Dieser Grundsatz gilt auch bei beschlagnahmten Gegenständen im Betreibungsverfahren ([BGE 149 III 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268)).
 

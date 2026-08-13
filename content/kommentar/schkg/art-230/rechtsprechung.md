@@ -24,7 +24,7 @@ revisions:
 |-------|---------|-------|
 | [BGE 136 III 294](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_294) | Art. 174 SchKG; Konkurshinderungsgründe; Befristung | 14.06.2010 |
 | [BGE 139 III 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_491) | Art. 174 Abs. 2 SchKG; Frist für das Glaubhaftmachen der Zahlungsfähigkeit und für den Urkundenbeweis | 26.07.2013 |
-| [BGE 151 III 574](https://mcp.opencaselaw.ch/entscheid/bge_151_III_574) | Art. 174 SchKG; Tilgung der Kosten des Konkursgerichts innert der zehntägigen Frist | 2025 |
+| BGE 151 III 574 | Art. 174 SchKG; Tilgung der Kosten des Konkursgerichts innert der zehntägigen Frist | 2025 |
 | [BGE 133 III 687](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_687) | Art. 172 Ziff. 3 SchKG; Abweisung des Konkursbegehrens zufolge Tilgung oder Stundung | 03.09.2007 |
 | [BGE 85 III 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_III_146) | Eröffnung des Konkurses über eine Bank (Art. 36 BankG) | 1959 |
 

@@ -2,11 +2,16 @@
 title: "Art. 230 — Einstellung des Konkursverfahrens"
 weight: 230
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 230 SchKG — Einstellung des Konkursverfahrens, Voraussetzungen (Unzulänglichkeit der Masse, Nichtdurchführbarkeit), Wirkungen der Einstellung, Verhältnis zum Konkursal, Gläubigerrechte nach der Einstellung."
 tags: ["SchKG", "Konkurs", "Einstellung", "Konkurseinstellung", "Masseunzulänglichkeit", "Konkursverfahren"]
 agent_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG — Gesetzestext auf aktuelle Fassung (BG 18.3.2022, in Kraft seit 1.1.2025) korrigiert"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -20,11 +25,15 @@ revisions:
 
 > **Art. 230 — Einstellung des Konkursverfahrens**
 >
-> **1** Das Konkursgericht stellt das Konkursverfahren ein, wenn sich nach der Inventaraufnahme oder auf Grund anderer Umstände ergibt, dass die Masse voraussichtlich nicht ausreichen wird, um die Konkurskosten zu decken.
+> **1** Reicht die Konkursmasse voraussichtlich nicht aus, um die Kosten für ein summarisches Verfahren zu decken, so verfügt das Konkursgericht auf Antrag des Konkursamtes die Einstellung des Konkursverfahrens.
 >
-> **2** Es kann das Verfahren einstellen, wenn die Masse voraussichtlich nicht ausreichen wird, um die Konkurskosten und die Forderungen der Konkursgläubiger mit einer Dividende von wenigstens 5 Prozent zu decken (Art. 231 Abs. 2).
+> **2** Das Konkursamt macht die Einstellung öffentlich bekannt und teilt sie den bekannten Gläubigern mit uneingeschriebenem Brief mit. In der Publikation weist es darauf hin, dass das Verfahren geschlossen wird, wenn nicht innert zwanzig Tagen ein Gläubiger die Durchführung des Konkursverfahrens verlangt und die festgelegte Sicherheit für den durch die Konkursmasse nicht gedeckten Teil der Kosten leistet.
 >
-> **3** Das Konkursgericht hört die Konkursverwaltung an, bevor es das Verfahren einstellt.
+> **3** Nach der Einstellung des Konkursverfahrens kann der Schuldner während zwei Jahren auch auf Pfändung betrieben werden.
+>
+> **4** Die vor der Konkurseröffnung eingeleiteten Betreibungen leben nach der Einstellung des Konkurses wieder auf. Die Zeit zwischen der Eröffnung und der Einstellung des Konkurses wird dabei für alle Fristen dieses Gesetzes nicht mitberechnet.
+>
+> ⚠️ *Hinweis: Art. 230 wurde durch Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses (AS 2023 628; BBl 2019 5193) neugefasst, in Kraft seit 1. Jan. 2025. Die frühere Fassung regelte die Einstellung durch das Konkursgericht bei Masseunzulänglichkeit (Abs. 1), bei ungenügender Dividende (Abs. 2) und mit Anhörung der Konkursverwaltung (Abs. 3).*
 
 *Quelle: [Fedlex (SR 281.1, Art. 230)](https://www.fedlex.admin.ch/eli/cc/27/3_37_45/de#art_230), Konsolidierung Stand 2026-01-01.*
 

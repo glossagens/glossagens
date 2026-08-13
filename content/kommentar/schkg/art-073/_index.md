@@ -2,11 +2,16 @@
 title: "Art. 73 — Pflichten des Gläubigers"
 weight: 73
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 73 SchKG — Pflichten des Gläubigers nach Einleitung der Betreibung: Vorlage von Beweismitteln und Übersicht der fälligen Ansprüche, Folgen der Nichterfüllung für die Prozesskosten im nachfolgenden Rechtsstreit, Verhältnis zu Art. 67 und 69 SchKG (Anforderungen an den Zahlungsbefehl)."
 tags: ["SchKG", "Schuldbetreibung", "Beweismittel", "Zahlungsbefehl", "Forderungsgrund", "Prozesskosten", "Betreibungsverfahren", "Gläubigerpflichten"]
 agent_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

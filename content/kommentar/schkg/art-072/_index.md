@@ -2,10 +2,17 @@
 title: "Art. 72 — Zustellung von Betreibungsurkunden"
 weight: 72
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 72 SchKG: Zustellung von Betreibungsurkunden durch das Betreibungsamt; Zustellbescheinigung als öffentliche Urkunde; Beweiskraft und Gegenbeweis."
 tags: ["SchKG", "Zustellung", "Betreibungsurkunden", "Zustellbescheinigung", "Beweiskraft"]
-agent_verified: false
+agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG — Gesetzestext via Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut
