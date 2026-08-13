@@ -2,10 +2,16 @@
 title: "Art. 63 — Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart"
 weight: 63
 date: 2026-07-02
-lastmod: 2026-07-03
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 63 ZPO: Rückdatierung der Rechtshängigkeit bei Einreichung bei unzuständigem Gericht oder im falschen Verfahren."
 tags: ["ZPO", "Rechtshängigkeit", "Zuständigkeit", "Monatsfrist", "Lugano"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 40 % (Urteil C); 11 von 41 Paaren gestützt; 19 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
