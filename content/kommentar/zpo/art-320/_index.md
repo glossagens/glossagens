@@ -2,10 +2,16 @@
 title: "Art. 320 ZPO — Beschwerdegründe"
 weight: 320
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 320 ZPO: Beschwerdegründe — unrichtige Rechtsanwendung und offensichtlich unrichtige Feststellung des Sachverhaltes. Abgrenzung zur Berufung (Art. 310 ZPO)."
 tags: ["ZPO", "Beschwerde", "Beschwerdegründe", "Rechtsmittel", "Sachverhaltsfeststellung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 7 % (Urteil C); 0 von 15 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
