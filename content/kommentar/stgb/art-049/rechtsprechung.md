@@ -16,7 +16,7 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313), E. 3
+### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313), E. 1
 - **Thema**: Strafzumessung, Konkurrenzen, Begründungspflicht
 - **Kernaussage**: Hat das Gericht eine Strafe für mehrere Straftaten auszusprechen, hat es zunächst für jede von ihnen die Art der Strafe zu bestimmen. Art. 49 Abs. 1 StGB ist nur anwendbar, wenn diese Strafen gleichartig sind. Die Begründungspflicht erfordert die nachvollziehbare Darlegung der Einzelstrafen und der Erhöhung.
 - **Einschlägig für**: Art. 49 Abs. 1 StGB (6'008 Zit.)
@@ -44,7 +44,7 @@ revisions:
 
 ---
 
-### [BGE 137 IV 57](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57), E. 2
+### [BGE 137 IV 57](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57), E. 4
 - **Thema**: Gleichartigkeit bei retrospektiver Konkurrenz
 - **Kernaussage**: Die Bildung einer Gesamtstrafe im Sinne von Art. 49 Abs. 1 StGB ist bei nicht gleichartigen Strafen nicht möglich. Diese sind kumulativ zu verhängen, da das Asperationsprinzip nur greift, wenn mehrere gleichartige Strafen vorliegen.
 - **Einschlägig für**: Art. 49 Abs. 1 und 2 StGB (2'019 Zit.)

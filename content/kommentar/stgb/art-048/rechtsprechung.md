@@ -47,7 +47,7 @@ agent_verified: true
 
 ## Aufrichtige Reue (Art. 48 lit. d StGB) und Reformatio in peius
 
-### [BGE 143 IV 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_469), E. 2
+### [BGE 143 IV 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_469), E. 4
 - **Thema**: Reformatio in peius und Verneinung von Strafmilderungsgründen
 - **Kernaussage**: Das einzig von der beschuldigten Person angerufene Berufungsgericht verletzt das Verbot der reformatio in peius (Art. 391 Abs. 2 StPO) nicht, wenn es die Strafe der ersten Instanz bestätigt, im Unterschied zu dieser aber den Strafmilderungsgrund der aufrichtigen Reue (Art. 48 lit. d StGB) verneint und diesen im Urteilsdispositiv auch nicht aufführt. Art. 48 StGB nennt lediglich einzelne Strafmilderungsgründe, ohne dass das Gericht bei deren Verneinung zwingend eine höhere Strafe aussprechen müsste.
 - **Einschlägig für**: Art. 48 lit. d StGB, Art. 391 Abs. 2 StPO, Art. 81 Abs. 4 StPO
@@ -75,7 +75,7 @@ agent_verified: true
 - **Kernaussage**: Grundlagen und Zweck der Geldstrafe im neuen Sanktionensystem. Grundsätze zur Bemessung der Geldstrafe. Einkommen, Vermögen, Lebensaufwand, Familien- und Unterstützungspflichten, persönliche Verhältnisse und Existenzminimum als Kriterien zur Bemessung von Geldstrafen. Die Strafmilderungsgründe nach Art. 48 StGB sind auch bei der Bemessung von Geldstrafen zu berücksichtigen.
 - **Einschlägig für**: Art. 34, 42, 43, 48 StGB
 
-### [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67), E. 3
+### [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67), E. 2
 - **Thema**: Grobe Verletzung der Verkehrsregeln — Wahl der Strafart
 - **Kernaussage**: Für die Wahl der Strafart gelten die gleichen Kriterien wie für die Strafzumessung, wobei Gesichtspunkte der Zweckmässigkeit einer bestimmten Sanktion eine wichtige Rolle spielen und die Entscheidungen sich gegenseitig beeinflussen. Die zivilrechtlichen Folgen der Tat dürfen bei der Strafzumessung mitberücksichtigt werden.
 - **Einschlägig für**: Art. 48, 50, 63 StGB, Art. 90 Ziff. 2 SVG

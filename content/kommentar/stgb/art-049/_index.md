@@ -7,6 +7,10 @@ description: "Kommentar zu Art. 49 StGB: Konkurrenzen, Gesamtstrafenbildung (Asp
 tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "retrospektive Konkurrenz", "Strafzumessung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 144 IV 313 E.3→E.1; BGE 137 IV 57 E.2→E.4"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -38,7 +42,7 @@ Das Gesetz unterscheidet drei Fallgruppen:
 
 ### II. Gleichzeitige Konkurrenz — Asperationsprinzip (Abs. 1)
 
-**2** Das Asperationsprinzip nach Abs. 1 setzt voraus, dass das Gericht für mehrere Straftaten **gleichartige Strafen** auszusprechen hat. Die Bildung einer Gesamtstrafe ist nur möglich, wenn die Strafart für alle Konkurrenztaten dieselbe ist (z.B. mehrere Freiheitsstrafen oder mehrere Geldstrafen) ([BGE 144 IV 217, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217); [BGE 137 IV 57, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57)).
+**2** Das Asperationsprinzip nach Abs. 1 setzt voraus, dass das Gericht für mehrere Straftaten **gleichartige Strafen** auszusprechen hat. Die Bildung einer Gesamtstrafe ist nur möglich, wenn die Strafart für alle Konkurrenztaten dieselbe ist (z.B. mehrere Freiheitsstrafen oder mehrere Geldstrafen) ([BGE 144 IV 217, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217); [BGE 137 IV 57, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57)).
 
 **3** **Methodik der Gesamtstrafenbildung** nach Abs. 1:
 1. Das Gericht bestimmt zunächst für **jede einzelne Straftat** die individuell angemessene Strafe (Einzelstrafen).
@@ -47,11 +51,11 @@ Das Gesetz unterscheidet drei Fallgruppen:
 4. Die Erhöhung darf das **Höchstmass der angedrohten Strafe nicht um mehr als die Hälfte** überschreiten.
 5. Das **gesetzliche Höchstmass der Strafart** (z.B. 20 Jahre Freiheitsstrafe, Art. 40 StGB) darf nicht überschritten werden.
 
-([BGE 144 IV 313, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313); [BGE 144 IV 217, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217))
+([BGE 144 IV 313, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313); [BGE 144 IV 217, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217))
 
-**4** **Gleichartigkeit der Strafen.** Die Gleichartigkeit bezieht sich auf die **Strafart**, nicht auf das Delikt. Freiheitsstrafen und Geldstrafen sind nicht gleichartig und können nicht asperiert werden; sie sind **kumulativ** zu verhängen ([BGE 137 IV 57, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57); [BGE 138 IV 120, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_120)). Ebenso wenig können eine bedingte und eine unbedingte Freiheitsstrafe asperiert werden, wenn die Vollzugsform unterschiedlich ist.
+**4** **Gleichartigkeit der Strafen.** Die Gleichartigkeit bezieht sich auf die **Strafart**, nicht auf das Delikt. Freiheitsstrafen und Geldstrafen sind nicht gleichartig und können nicht asperiert werden; sie sind **kumulativ** zu verhängen ([BGE 137 IV 57, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57); [BGE 138 IV 120, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_120)). Ebenso wenig können eine bedingte und eine unbedingte Freiheitsstrafe asperiert werden, wenn die Vollzugsform unterschiedlich ist.
 
-**5** **Begründungspflicht.** Das Gericht muss in seinem Entscheid die Einzelstrafen und die Erhöhung der Grundstrafe **nachvollziehbar begründen**. Eine pauschale Erhöhung ohne Darlegung, welche Taten in welchem Mass berücksichtigt wurden, genügt den Anforderungen nicht ([BGE 144 IV 313, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313)).
+**5** **Begründungspflicht.** Das Gericht muss in seinem Entscheid die Einzelstrafen und die Erhöhung der Grundstrafe **nachvollziehbar begründen**. Eine pauschale Erhöhung ohne Darlegung, welche Taten in welchem Mass berücksichtigt wurden, genügt den Anforderungen nicht ([BGE 144 IV 313, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313)).
 
 ### III. Retrospektive Konkurrenz — Zusatzstrafe (Abs. 2)
 

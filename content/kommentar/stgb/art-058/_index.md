@@ -10,6 +10,10 @@ revisions:
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    note: "Attest-Audit KW33: BGer 7B_1360/2025 E.2.2.2/E.2.2.4→E.2.2"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Audit KW33: Art. 58: 3 eurolex-Links→OCL umgestellt; Aufhebungsvermerk Abs. 1 ergänzt; Gesetzestext verifiziert"
 ---
@@ -29,7 +33,7 @@ revisions:
 
 Art. 58 StGB normiert heute noch das **Trennungsgebot** für den Vollzug der stationären therapeutischen Massnahmen (Art. 59–61 StGB): Die therapeutischen Einrichtungen sind vom Strafvollzug getrennt zu führen (Abs. 2). Der frühere Abs. 1, der die Eignungsanforderungen an die Vollzugseinrichtungen umschrieb, wurde mit Inkrafttreten der eidgenössischen Strafprozessordnung per 1. Januar 2011 **aufgehoben**; die entsprechenden Anforderungen ergeben sich seither aus Art. 59 Abs. 2 StGB (geeignete Einrichtung) sowie aus den allgemeinen Massnahmenbestimmungen (Art. 56 ff. StGB). Das Trennungsgebot ist Grundpfeiler eines Systems, das die therapeutische Ausrichtung der Massnahmen sicherstellen und den Strafvollzug von der Massnahmebehandlung trennen soll.
 
-Das Trennungsgebot hat in der Praxis erhebliche Bedeutung erlangt, weil der Vollzug in geschlossener Einrichtung nach Art. 59 Abs. 3 StGB eine **lex specialis**-Ausnahme zum Trennungsgebot von Abs. 2 darstellt ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.2). Die Spannung zwischen dem Grundsatz der Trennung von Straf- und Massnahmenvollzug und der Notwendigkeit, bei qualifiziertem Rückfallrisiko den Vollzug auch in einer Strafanstalt zuzulassen, ist das zentrale Thema der Rechtsprechung zu Art. 58 StGB.
+Das Trennungsgebot hat in der Praxis erhebliche Bedeutung erlangt, weil der Vollzug in geschlossener Einrichtung nach Art. 59 Abs. 3 StGB eine **lex specialis**-Ausnahme zum Trennungsgebot von Abs. 2 darstellt ([BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2). Die Spannung zwischen dem Grundsatz der Trennung von Straf- und Massnahmenvollzug und der Notwendigkeit, bei qualifiziertem Rückfallrisiko den Vollzug auch in einer Strafanstalt zuzulassen, ist das zentrale Thema der Rechtsprechung zu Art. 58 StGB.
 
 ### II. Anforderungen an die Vollzugseinrichtungen (heute Art. 59 Abs. 2 StGB)
 
@@ -68,7 +72,7 @@ Das Trennungsgebot ist **kein absolutes Gebot**. Art. 59 Abs. 3 StGB regelt ausd
 1. der Vollzug in einer therapeutischen Einrichtung **nicht möglich oder nicht angebracht** ist; und
 2. eine **geeignete Behandlung durch Fachpersonal gewährleistet** ist.
 
-In diesem Fall ist Art. 59 Abs. 3 StGB **lex specialis** zu Art. 58 Abs. 2 StGB und verdrängt das Trennungsgebot ([BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.2; [BGer 7B_551/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_551_2025), E. 2.2.2; [BGer 7B_278/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_278_2025), E. 2.2.2; [BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2).
+In diesem Fall ist Art. 59 Abs. 3 StGB **lex specialis** zu Art. 58 Abs. 2 StGB und verdrängt das Trennungsgebot ([BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2; [BGer 7B_551/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_551_2025), E. 2.2; [BGer 7B_278/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_278_2025), E. 2.2; [BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2).
 
 #### 3. Voraussetzungen des Strafanstaltvollzugs
 
@@ -87,7 +91,7 @@ Indizien für ein qualifiziertes Risiko sind:
 Im Strafanstaltvollzug muss die **geeignete Behandlung durch Fachpersonal gewährleistet** sein. Dies erfordert:
 - Regelmässige **psychiatrische Betreuung** durch einen Facharzt
 - **Psychotherapeutische Behandlung** in angemessenem Rhythmus
-- Keine ständige Anwesenheit von Therapiepersonal erforderlich — das Gesetz fordert keine 24-Stunden-Psychiatrie-Präsenz ([BGer 7B_68/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_68_2022), E. 3.5.3; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2.4)
+- Keine ständige Anwesenheit von Therapiepersonal erforderlich — das Gesetz fordert keine 24-Stunden-Psychiatrie-Präsenz ([BGer 7B_68/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_68_2022), E. 3.5.3; [BGer 7B_1360/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1360_2025), E. 2.2)
 
 **c) EMRK-Konformität**
 

@@ -10,6 +10,10 @@ revisions:
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 143 IV 469 E.2→E.4; BGE 120 IV 67 E.3→E.2"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Audit KW33: Art. 48: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
@@ -110,7 +114,7 @@ Aufrichtige Reue setzt voraus, dass der Täter die Tat aufrichtig bereut und ins
 
 #### 2. Reformatio in peius und dispositiver Charakter
 
-In [BGE 143 IV 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_469), E. 2, befasste sich das Bundesgericht mit der Frage, ob das Berufungsgericht den Strafmilderungsgrund der aufrichtigen Reue verneinen darf, wenn die Vorinstanz ihn bejaht hatte, ohne dass dies zu einer Schlechterstellung des Täters führt. Das Bundesgericht bejahte dies: Das Verbot der reformatio in peius (Art. 391 Abs. 2 StPO) wird nicht verletzt, wenn das Berufungsgericht die Strafe der ersten Instanz bestätigt, aber den Strafmilderungsgrund der aufrichtigen Reue in ihren Erwägungen verneint und im Urteilsdispositiv nicht aufführt. Art. 48 StGB nennt lediglich einzelne Strafmilderungsgründe, ohne dass das Gericht bei deren Verneinung zwingend eine höhere Strafe aussprechen müsste.
+In [BGE 143 IV 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_469), E. 4, befasste sich das Bundesgericht mit der Frage, ob das Berufungsgericht den Strafmilderungsgrund der aufrichtigen Reue verneinen darf, wenn die Vorinstanz ihn bejaht hatte, ohne dass dies zu einer Schlechterstellung des Täters führt. Das Bundesgericht bejahte dies: Das Verbot der reformatio in peius (Art. 391 Abs. 2 StPO) wird nicht verletzt, wenn das Berufungsgericht die Strafe der ersten Instanz bestätigt, aber den Strafmilderungsgrund der aufrichtigen Reue in ihren Erwägungen verneint und im Urteilsdispositiv nicht aufführt. Art. 48 StGB nennt lediglich einzelne Strafmilderungsgründe, ohne dass das Gericht bei deren Verneinung zwingend eine höhere Strafe aussprechen müsste.
 
 ### VIII. Langer Zeitablauf (Art. 48 lit. e StGB)
 
@@ -144,7 +148,7 @@ In [BGE 135 IV 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_130), E.
 
 #### 1. Verkehrsstrafrecht
 
-In [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67), E. 3, befasste sich das Bundesgericht mit der groben Verletzung der Verkehrsregeln (Art. 90 Ziff. 2 SVG) im Zusammenhang mit der Wahl der Strafart und der Strafzumessung. Es stellte fest, dass für die Wahl der Strafart die gleichen Kriterien wie für die Strafzumessung gelten, wobei Gesichtspunkte der Zweckmässigkeit einer bestimmten Sanktion eine wichtige Rolle spielen. Zivilrechtliche Folgen der Tat dürfen bei der Strafzumessung mitberücksichtigt werden.
+In [BGE 120 IV 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_67), E. 2, befasste sich das Bundesgericht mit der groben Verletzung der Verkehrsregeln (Art. 90 Ziff. 2 SVG) im Zusammenhang mit der Wahl der Strafart und der Strafzumessung. Es stellte fest, dass für die Wahl der Strafart die gleichen Kriterien wie für die Strafzumessung gelten, wobei Gesichtspunkte der Zweckmässigkeit einer bestimmten Sanktion eine wichtige Rolle spielen. Zivilrechtliche Folgen der Tat dürfen bei der Strafzumessung mitberücksichtigt werden.
 
 #### 2. Verminderte Schuldfähigkeit und Tötungsdelikte
 

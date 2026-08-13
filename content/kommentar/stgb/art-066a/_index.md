@@ -10,6 +10,10 @@ revisions:
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    note: "Attest-Audit KW33: keine Attest-Fehler"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Audit KW33: Art. 66a: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
