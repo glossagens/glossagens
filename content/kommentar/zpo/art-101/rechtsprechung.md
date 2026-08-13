@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 101 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 101 ZPO — Leistung des Vorschusses und der Sicherheit, Sicherheitsleistung für Parteientschädigung."
 tags: ["Rechtsprechung", "ZPO", "Sicherheitsleistung", "Parteientschädigung", "Vorschuss"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 37 % (Urteil C); 5 von 31 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 101 ZPO

@@ -2,10 +2,16 @@
 title: "Art. 101 — Leistung des Vorschusses und der Sicherheit"
 weight: 101
 date: "2026-05-16"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 101 ZPO – Leistung des Vorschusses und der Sicherheit, zwingende Nachfrist nach Abs. 3"
 tags: ["ZPO", "Kostenvorschuss", "Nachfrist", "Nichteintreten", "Sicherheitsleistung", "vorsorgliche Massnahmen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 37 % (Urteil C); 5 von 31 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
