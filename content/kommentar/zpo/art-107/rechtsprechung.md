@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 107 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 107 ZPO — Ermessensverteilung der Prozesskosten, Scheidungsverfahren, Anschlussberufung, gesellschaftsrechtliche Klagen."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Ermessensverteilung", "Kostenverteilung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 33 % (Urteil C); 3 von 27 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 107 ZPO
