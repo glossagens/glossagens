@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 261 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 261 ZPO — Vorsorgliche Massnahmen, Glaubhaftmachung, nicht leicht wiedergutzumachender Nachteil."
 tags: ["Rechtsprechung", "ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 3 von 27 Paaren gestützt; 11 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 261 ZPO
