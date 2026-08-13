@@ -2,10 +2,16 @@
 title: "Art. 189 — Ergänzung und Verbesserung des Gutachtens"
 weight: 189
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens: Voraussetzungen (lit. a–c), Verfahren, Parteigutachten, Zweitexpertise, Willkür bei Verzicht auf Ergänzung."
 tags: ["StPO", "Beweisrecht", "Sachverständigenbeweis", "Gutachten", "Zweitgutachten", "Parteigutachten", "antizipierte Beweiswürdigung", "Willkür"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 227 StPO — Haftverlängerungsgesuch"
 weight: 227
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 227 StPO: Haftverlängerungsgesuch — Fristen, rechtliches Gehör, provisorische Haftfortdauer, Dauer der Verlängerung, Folgen eines abgelaufenen Hafttitels."
 tags: ["Untersuchungshaft", "Haftverlängerung", "Zwangsmassnahmengericht", "Fristen", "Hafttitel", "rechtliches Gehör", "Sicherheitshaft", "Beschleunigungsgebot"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

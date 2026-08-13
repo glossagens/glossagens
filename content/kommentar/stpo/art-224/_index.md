@@ -2,10 +2,16 @@
 title: "Art. 224 — Haftverfahren vor der Staatsanwaltschaft"
 weight: 224
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 224 StPO – Haftverfahren vor der Staatsanwaltschaft"
 tags: ["StPO", "Untersuchungshaft", "Haftverfahren", "Zwangsmassnahmen"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

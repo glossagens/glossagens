@@ -2,10 +2,16 @@
 title: "Art. 198 — Zuständigkeit"
 weight: 198
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 198 StPO – Zuständigkeit für die Anordnung von Zwangsmassnahmen"
 tags: ["StPO", "Zwangsmassnahmen", "Zuständigkeit", "Polizei", "Staatsanwaltschaft"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

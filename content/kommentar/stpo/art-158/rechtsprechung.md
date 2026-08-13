@@ -2,10 +2,10 @@
 title: "Rechtsprechung zu Art. 158 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-06-05
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 158 StPO — Hinweise bei der ersten Einvernahme, nemo-tenetur-Grundsatz, PIN-Code, Verwertungsverbot"
 tags: ["Rechtsprechung", "StPO", "Belehrungspflicht", "Einvernahme", "Aussageverweigerungsrecht", "nemo tenetur", "Verwertungsverbot"]
-agent_verified: false
+agent_verified: true
 ---
 
 ## I. Materieller Einvernahmebegriff und PIN-Code
@@ -246,7 +246,7 @@ Wenn eine Einvernahme ohne die erforderlichen Hinweise nach Art. 158 StPO durchg
 
 ---
 
-### [BGer 6B_1205/2023 vom 30. April 2026](https://www.bger.ch/ext/eurolex/index/6B_1205/2023) — Stichwortartige Rechtsbelehrung und ergänzende Zeugenaussage
+### [BGer 6B_1205/2023 vom 30. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1205_2023) — Stichwortartige Rechtsbelehrung und ergänzende Zeugenaussage
 
 **Präzisierung**: Eine stichwortartige Rechtsbelehrung gemäss Art. 158 Abs. 1 StPO (vorgedruckte Passage mit Stichworten zu Aussageverweigerungsrecht, Verteidigung und Übersetzung) kann durch die ergänzende Aussage des einvernehmenden Beamten rechtsgenüglich sein. Das Bundesgericht lässt offen, ob das Einvernahmeprotokoll allein — ohne Zeugenaussage — den Beweis der rechtsgenüglichen Belehrung erbringen kann, und mahnt zur ausführlicheren Protokollierung.
 

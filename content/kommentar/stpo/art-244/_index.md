@@ -2,10 +2,16 @@
 title: "Art. 244 — Grundsatz"
 weight: 244
 date: "2026-05-16"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 244 StPO – Grundsatz der Durchsuchung (Einwilligung, Tatverdacht, Beweisausforschungsverbot)"
 tags: ["StPO", "Durchsuchung", "Hausdurchsuchung", "Beweisausforschungsverbot", "Zwangsmassnahme", "Tatverdacht"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

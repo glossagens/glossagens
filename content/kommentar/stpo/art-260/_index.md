@@ -2,10 +2,16 @@
 title: "Art. 260 StPO — Erkennungsdienstliche Erfassung"
 weight: 260
 date: 2026-07-10
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 260 StPO: Erkennungsdienstliche Erfassung — Begriff, Zuständigkeit, Formvorschriften und Durchsetzung bei Weigerung der betroffenen Person."
 tags: ["StPO", "Erkennungsdienstliche Erfassung", "Zwangsmassnahme", "DNA-Profil", "Körpermerkmale", "Befehlsform", "Verhältnismässigkeit"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut
