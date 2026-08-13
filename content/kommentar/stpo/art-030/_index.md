@@ -1,16 +1,21 @@
 ---
-title: "Art. 30 StPO — Trennung und Vereinigung von Strafverfahren"
+title: "Art. 30 StPO — Ausnahmen"
 weight: 30
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 30 StPO – Trennung und Vereinigung von Strafverfahren aus sachlichen Gründen; Verhältnis zum Grundsatz der Verfahrenseinheit (Art. 29 StPO)."
 tags: ["StPO", "Verfahrenseinheit", "Verfahrenstrennung", "Verfahrensvereinigung", "Prozessökonomie", "Gerichtsstand"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 30 StPO — Trennung und Vereinigung von Strafverfahren**
+> **Art. 30 StPO — Ausnahmen**
 >
 > Die Staatsanwaltschaft und die Gerichte können aus sachlichen Gründen Strafverfahren trennen oder vereinen.
 

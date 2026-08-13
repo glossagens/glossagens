@@ -1,16 +1,21 @@
 ---
-title: "Art. 34 StPO — Durch Begehungsort bestimmte Zuständigkeit"
+title: "Art. 34 StPO — Gerichtsstand bei mehreren an verschiedenen Orten verübten Straftaten"
 weight: 34
 date: "2026-07-12"
-lastmod: "2026-07-12"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 34 StPO: Zuständigkeitsbestimmung bei mehreren Straftaten an verschiedenen Orten (Schwerste-Tat-Prinzip), Verfahrenstrennung bei bereits erhobener Anklage, gerichtliche Gesamtstrafenfestsetzung."
 tags: ["StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit", "Gesamtstrafe", "Gerichtsstandskonflikt", "Asperation"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 34 StPO — Durch Begehungsort bestimmte Zuständigkeit**
+> **Art. 34 StPO — Gerichtsstand bei mehreren an verschiedenen Orten verübten Straftaten**
 >
 > **1** Hat eine beschuldigte Person mehrere Straftaten an verschiedenen Orten verübt, so sind für die Verfolgung und Beurteilung sämtlicher Taten die Behörden des Ortes zuständig, an dem die mit der schwersten Strafe bedrohte Tat begangen worden ist. Bei gleicher Strafdrohung sind die Behörden des Ortes zuständig, an dem zuerst Verfolgungshandlungen vorgenommen worden sind.
 >

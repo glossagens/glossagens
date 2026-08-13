@@ -2,10 +2,15 @@
 title: "Art. 29 StPO — Grundsatz der Verfahrenseinheit"
 weight: 29
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 29 StPO – Grundsatz der Verfahrenseinheit; gemeinsame Verfolgung und Beurteilung bei mehreren Straftaten, Mittäterschaft und Teilnahme."
 tags: ["StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme", "Prozessökonomie", "Zuständigkeit"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

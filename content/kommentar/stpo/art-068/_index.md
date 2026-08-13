@@ -2,10 +2,15 @@
 title: "Art. 68 — Übersetzungen"
 weight: 68
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 68 StPO: Recht der beschuldigten Person auf Übersetzung; bedarfsgerechter Anspruch; Verhältnis zu Art. 6 Ziff. 3 lit. e EMRK und Art. 29 Abs. 2 BV; keine vollständige Übersetzung aller Dokumente."
 tags: ["StPO", "Übersetzung", "Dolmetschen", "Verfahrensrechte", "EMRK", "Sprachrecht"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

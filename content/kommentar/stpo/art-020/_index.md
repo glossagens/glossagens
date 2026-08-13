@@ -2,10 +2,15 @@
 title: "Art. 20 — Beschwerdeinstanz"
 weight: 20
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 20 StPO – Beschwerdeinstanz"
 tags: ["StPO", "Beschwerdeinstanz", "Zuständigkeit", "Rechtsmittel", "Zwangsmassnahmengericht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
@@ -91,7 +96,7 @@ Art. 20 Abs. 2 StPO eröffnet Bund und Kantonen die Möglichkeit, die Befugnisse
 
 #### 2. Nachträgliche gerichtliche Entscheide
 
-Im Zusammenhang mit nachträglichen gerichtlichen Entscheidungen nach Art. 363 ff. StPO ist die Zuständigkeitsordnung der Art. 18–21 StPO relevant. Das Gericht, welches das erstinstanzliche Urteil gefällt hat, trifft auch die einer gerichtlichen Behörde übertragenen selbstständigen nachträglichen Entscheide (Art. 363 Abs. 1 StPO), sofern Bund oder Kantone nichts anderes bestimmen. Zweitinstanzlich entscheidet das Berufungsgericht (vgl. [BGer 1B_204/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_204/2018), E. 1.2; [BGer 1B_486/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_486_2018), E. 1). Dies illustriert das Zusammenspiel von Art. 20 StPO mit der allgemeinen erst- und zweitinstanzlichen Zuständigkeitsordnung.
+Im Zusammenhang mit nachträglichen gerichtlichen Entscheidungen nach Art. 363 ff. StPO ist die Zuständigkeitsordnung der Art. 18–21 StPO relevant. Das Gericht, welches das erstinstanzliche Urteil gefällt hat, trifft auch die einer gerichtlichen Behörde übertragenen selbstständigen nachträglichen Entscheide (Art. 363 Abs. 1 StPO), sofern Bund oder Kantone nichts anderes bestimmen. Zweitinstanzlich entscheidet das Berufungsgericht (vgl. [BGer 1B_204/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_204_2018), E. 1.2; [BGer 1B_486/2018](https://mcp.opencaselaw.ch/entscheid/bger_1B_486_2018), E. 1). Dies illustriert das Zusammenspiel von Art. 20 StPO mit der allgemeinen erst- und zweitinstanzlichen Zuständigkeitsordnung.
 
 ### VI. Stellung im Instanzenzug und Bedeutung für Art. 80 BGG
 

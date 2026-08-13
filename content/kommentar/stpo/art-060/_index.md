@@ -2,10 +2,15 @@
 title: "Art. 60 — Folgen der Verletzung von Ausstandsvorschriften"
 weight: 60
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 60 StPO – Folgen der Verletzung von Ausstandsvorschriften"
 tags: ["StPO", "Ausstand", "Befangenheit", "Amtshandlung", "Revision"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

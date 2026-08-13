@@ -2,17 +2,22 @@
 title: "Art. 59 — Entscheid"
 weight: 59
 date: "2026-06-20"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 59 StPO – Entscheid: Zuständigkeit für den Entscheid über Ausstandsbegehren, Verfahren und Kostentragung"
 tags: ["StPO", "Ausstand", "Entscheid", "Zuständigkeit", "Ausstandsbegehren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 59 StPO — Entscheid**
 >
-> 1 Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren:
+> **1** Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren:
 >
 > a. die Staatsanwaltschaft, wenn die Polizei betroffen ist;
 >
@@ -22,11 +27,11 @@ agent_verified: true
 >
 > d. das Bundesstrafgericht, wenn das gesamte Berufungsgericht eines Kantons betroffen ist.
 >
-> 2 Der Entscheid ergeht schriftlich und ist zu begründen.
+> **2** Der Entscheid ergeht schriftlich und ist zu begründen.
 >
-> 3 Bis zum Entscheid übt die betroffene Person ihr Amt weiter aus.
+> **3** Bis zum Entscheid übt die betroffene Person ihr Amt weiter aus.
 >
-> 4 Wird das Gesuch gutgeheissen, so gehen die Verfahrenskosten zu Lasten des Bundes beziehungsweise des Kantons. Wird es abgewiesen oder war es offensichtlich verspätet oder mutwillig, so gehen die Kosten zu Lasten der gesuchstellenden Person.
+> **4** Wird das Gesuch gutgeheissen, so gehen die Verfahrenskosten zu Lasten des Bundes beziehungsweise des Kantons. Wird es abgewiesen oder war es offensichtlich verspätet oder mutwillig, so gehen die Kosten zu Lasten der gesuchstellenden Person.
 
 ## Kommentierung
 

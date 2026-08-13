@@ -2,10 +2,15 @@
 title: "Art. 81 — Inhalt der Endentscheide"
 weight: 81
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 81 StPO – Inhalt der Endentscheide"
 tags: ["StPO", "Endentscheid", "Dispositiv", "Begründung", "Rechtsmittelbelehrung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

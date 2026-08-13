@@ -2,10 +2,15 @@
 title: "Art. 82 — Einschränkungen der Begründungspflicht"
 weight: 82
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 82 StPO – Einschränkungen der Begründungspflicht"
 tags: ["StPO", "Begründungspflicht", "Urteilsbegründung", "Verweisung", "Rechtsmittelverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

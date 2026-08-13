@@ -2,10 +2,15 @@
 title: "Art. 61 — Zuständigkeit"
 weight: 61
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 61 StPO – Zuständigkeit (Verfahrensleitung)"
 tags: ["StPO", "Verfahrensleitung", "Zuständigkeit", "Staatsanwaltschaft", "Zwangsmassnahmengericht", "Gerichtsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
