@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 321 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-07-19"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 321 ZPO — Einreichen der Beschwerde, Fristen, Form, Begründung."
 tags: ["Rechtsprechung","ZPO","Beschwerde","Fristen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 36 % (Urteil C); 2 von 14 Paaren gestützt; 6 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 321 ZPO
