@@ -2,10 +2,16 @@
 title: "Art. 248 ZPO — Grundsatz (Summarisches Verfahren)"
 weight: 248
 date: 2026-07-19
-lastmod: "2026-07-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — Rechtsschutz in klaren Fällen, vorsorgliche Massnahmen, Besitzesschutz."
 tags: ["ZPO", "Summarisches Verfahren", "vorsorgliche Massnahmen", "klarer Fall", "Besitzesschutz"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 53 % (Urteil B); 5 von 18 Paaren gestützt; 4 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
