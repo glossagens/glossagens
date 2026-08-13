@@ -2,10 +2,16 @@
 title: "Art. 311 ZPO — Einreichen der Berufung"
 weight: 311
 date: 2026-07-18
-lastmod: "2026-07-31"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 311 ZPO: Die Berufungsschrift im Zivilprozess — Gesetzliche Fristen, Begründungspflichten und die prozessualen Hürden beim Rechtsmittel."
 tags: ["ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht", "Berufungsfrist"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 23 Paaren gestützt; 17 ungestützt; 1 fehlerhafter Pinpoint; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
