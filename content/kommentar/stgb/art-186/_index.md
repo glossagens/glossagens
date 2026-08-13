@@ -2,10 +2,15 @@
 title: "Art. 186 — Hausfriedensbruch"
 weight: 186
 date: 2026-05-16
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 186 StGB – Hausfriedensbruch (Eindringen, Verweilen, Antragserfordernis)"
 tags: ["StGB", "Hausfriedensbruch", "Hausrecht", "Antragsdelikt", "Notwehr"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut

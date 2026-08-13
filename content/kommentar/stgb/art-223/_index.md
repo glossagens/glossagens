@@ -2,10 +2,15 @@
 title: "Art. 223 — Verursachung einer Explosion"
 weight: 223
 date: 2026-05-17
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 223 StGB – Verursachung einer Explosion, Gas, Benzin, Petroleum, Gemeingefährdung, objektive Strafbarkeitsbedingung, Versuch"
 tags: ["StGB", "Explosion", "Gemeingefährdung", "objektive Bedingung", "Versuch", "Brandstiftung", "Sprengstoff"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut

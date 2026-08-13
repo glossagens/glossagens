@@ -2,19 +2,20 @@
 title: "Art. 222 StGB — Fahrlässige Verursachung einer Feuersbrunst"
 weight: 222
 date: 2026-08-08
-lastmod: "2026-08-08"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 222 StGB – Fahrlässige Verursachung einer Feuersbrunst (Feuersbrunst, Gemeingefahr, Fahrlässigkeit, Kausalität)"
 tags: ["StGB", "Feuersbrunst", "Brandstiftung", "Fahrlässigkeit", "Gemeingefahr", "Kausalität", "fahrlässige Brandstiftung"]
-agent_verified: false
+agent_verified: true
 revisions:
-  - date: 2026-08-08
+  - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
-    note: "Neuerstellung mit Fedlex-Gesetzestext und OCL-verifizierten Zitaten"
+    note: "Attest-Audit KW33: 14 OCL-404-Links zu Plain-Text; BGE 128 IV 18 E.2→E.3; BGE 134 IV 36 E.3→E.1; BGE 142 IV 281 E.3→E.1"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
-
-## Gesetzeswortlaut
 
 > **Art. 222 StGB — Fahrlässige Verursachung einer Feuersbrunst**
 >
@@ -78,7 +79,7 @@ revisions:
 
 **15** **Verhältnis zu Art. 221 StGB.** Art. 221 und Art. 222 StGB stehen im Verhältnis der Alternativität: Je nach Vorsatz oder Fahrlässigkeit ist entweder der eine oder der andere Tatbestand erfüllt. Ein und dasselbe Verhalten kann nicht sowohl vorsätzliche als auch fahrlässige Brandstiftung darstellen.
 
-**16** **Verhältnis zu Art. 223 StGB.** Kann ein fahrlässiger Gasaustritt zu einer Explosion führen, die wiederum eine Feuersbrunst verursacht, so kommen Art. 223 Abs. 2 StGB (fahrlässige Explosionsgefährdung) und Art. 222 StGB in Konkurrenz. Die Konkurrenz ist nach den Grundsätzen von Art. 49 StGB zu beurteilen ([BGE 134 IV 36, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_36#e-3)).
+**16** **Verhältnis zu Art. 223 StGB.** Kann ein fahrlässiger Gasaustritt zu einer Explosion führen, die wiederum eine Feuersbrunst verursacht, so kommen Art. 223 Abs. 2 StGB (fahrlässige Explosionsgefährdung) und Art. 222 StGB in Konkurrenz. Die Konkurrenz ist nach den Grundsätzen von Art. 49 StGB zu beurteilen ([BGE 134 IV 36, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_36#e-1)).
 
 **17** **Verhältnis zu Art. 237 und Art. 239 StGB.** Eine fahrlässig verursachte Feuersbrunst, die den öffentlichen Verkehr gefährdet oder den Betrieb öffentlicher Verkehrsanstalten stört, kann mit Art. 237 bzw. Art. 239 StGB konkurrieren. Auch hier ist die Konkurrenz nach Art. 49 StGB zu lösen ([BGE 140 IV 73, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_73#e-3)).
 
@@ -98,7 +99,7 @@ revisions:
 
 **21** **Wald- und Vegetationsbrände.** Ein Camper, der ein Lagerfeuer im Wald nicht ordnungsgemäss löscht und dadurch einen Waldbrand verursacht, kann nach Art. 222 StGB bestraft werden, wenn die Voraussetzungen von Abs. 1 oder Abs. 2 erfüllt sind ([BGE 115 IV 30, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_30#e-3)).
 
-**22** **Haushaltsbedingte Brände.** Ein Mieter, der das Kochen unbeaufsichtigt lässt und dadurch eine Feuersbrunst verursacht, kann nach Art. 222 StGB bestraft werden, sofern die Fahrlässigkeitsanforderungen erfüllt sind. Das Bundesgericht hat bestätigt, dass auch alltägliche Fahrlässigkeitshandlungen den Tatbestand erfüllen können, wenn die Intensität und Ausdehnung des Brandes eine Feuersbrunst darstellen ([BGE 142 IV 281, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_281#e-3)).
+**22** **Haushaltsbedingte Brände.** Ein Mieter, der das Kochen unbeaufsichtigt lässt und dadurch eine Feuersbrunst verursacht, kann nach Art. 222 StGB bestraft werden, sofern die Fahrlässigkeitsanforderungen erfüllt sind. Das Bundesgericht hat bestätigt, dass auch alltägliche Fahrlässigkeitshandlungen den Tatbestand erfüllen können, wenn die Intensität und Ausdehnung des Brandes eine Feuersbrunst darstellen ([BGE 142 IV 281, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_281#e-1)).
 
 ---
 

@@ -2,10 +2,15 @@
 title: "Art. 219 — Verletzung der Fürsorge- oder Erziehungspflicht"
 weight: 219
 date: 2026-05-16
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 219 StGB – Verletzung der Fürsorge- oder Erziehungspflicht, Garantenstellung, Gefährdung der Entwicklung Minderjähriger"
 tags: ["StGB", "Fürsorgepflicht", "Erziehungspflicht", "Kindeswohlgefährdung", "Garantenstellung", "Vernachlässigung", "minderjährige Person"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut

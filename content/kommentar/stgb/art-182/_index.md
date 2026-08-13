@@ -2,10 +2,15 @@
 title: "Art. 182 — Menschenhandel"
 weight: 182
 date: 2026-05-17
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 182 StGB — Menschenhandel zum Zwecke der sexuellen Ausbeutung, der Ausbeutung der Arbeitskraft oder zwecks Entnahme eines Körperorgans"
 tags: ["StGB", "Menschenhandel", "Ausbeutung", "Arbeitskraft"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut
@@ -16,7 +21,7 @@ agent_verified: true
 >
 > 2 Handelt es sich beim Opfer um eine minderjährige Person oder handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
 >
-> 3 …
+> 3 … ⚠️ *Aufgehoben durch BG vom 17.12.2021 (Harmonisierung der Strafrahmen), in Kraft seit 1.7.2023 (AS 2023 259; BBl 2018 2827). Die Qualifikation ist in Abs. 2 neu geregelt.*
 >
 > 4 Strafbar ist auch der Täter, der die Tat im Ausland verübt. Die Artikel 5 und 6 sind anwendbar.
 

@@ -2,10 +2,15 @@
 title: "Art. 251 StGB — Urkundenfälschung"
 weight: 251
 date: 2026-05-15
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 251 StGB: Urkundenfälschung i.e.S., Falschbeurkundung, Gebrauchsvariante, erhöhte Glaubwürdigkeit und subjektiver Tatbestand."
 tags: ["Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "StGB"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut
@@ -14,7 +19,7 @@ agent_verified: false
 >
 > 1. Wer in der Absicht, jemanden am Vermögen oder an andern Rechten zu schädigen oder sich oder einem andern einen unrechtmässigen Vorteil zu verschaffen, eine Urkunde fälscht oder verfälscht, die echte Unterschrift oder das echte Handzeichen eines andern zur Herstellung einer unechten Urkunde benützt oder eine rechtlich erhebliche Tatsache unrichtig beurkundet oder beurkunden lässt, eine Urkunde dieser Art zur Täuschung gebraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> 2. …
+> 2. … ⚠️ *Aufgehoben durch BG vom 17.12.2021 (Harmonisierung der Strafrahmen), in Kraft seit 1.7.2023 (AS 2023 259; BBl 2018 2827).*
 
 
 ## Vorbemerkungen

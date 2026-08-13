@@ -2,11 +2,15 @@
 title: "Art. 173 — Üble Nachrede"
 weight: 173
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 173 StGB — Üble Nachrede: ehrverletzende Beschuldigung oder Verdächtigung, Wahrheitsbeweis, Gutglaubensbeweis (ernsthafte Gründe, in guten Treuen für wahr zu halten), Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK), Rücknahme der Äusserung."
 tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Antragsdelikt", "Strafantrag", "Ehre"]
 agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

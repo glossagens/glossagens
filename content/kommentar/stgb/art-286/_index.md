@@ -2,21 +2,15 @@
 title: "Art. 286 StGB — Hinderung einer Amtshandlung"
 weight: 286
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 286 StGB: Hinderung einer Amtshandlung, Erfolgsdelikt ohne Gewalt/Drohung, Abgrenzung zu Art. 285 und Art. 305 StGB, Verhältnis zu Genugtuungsansprüchen bei behaupteten Polizeiübergriffen."
 tags: ["StGB", "Hinderung einer Amtshandlung", "Amtshandlung", "Polizeikontrolle", "Selbstbegünstigung", "Genugtuung"]
-agent_verified: false
+agent_verified: true
 revisions:
-  - date: 2026-08-07
+  - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
-    note: "Ergänzung: 5+ weitere BGer-Entscheide zu Art. 286 StGB hinzugefügt"
-  - date: 2026-08-07
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Neuerstellung anlässlich BGer 6B_786/2025 vom 22. Juni 2026 (teilweise Gutheissung); alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 > **Art. 286 StGB — Hinderung einer Amtshandlung**

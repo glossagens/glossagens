@@ -2,10 +2,19 @@
 title: "Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
 weight: 239
 date: 2026-05-30
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 239 StGB – Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
 tags: ["StGB", "Verkehrsanstalt", "Versorgungsanlage", "öffentliche Sicherheit", "Infrastrukturschutz"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: 2 eurolex-Links zu OCL umgestellt"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut
@@ -68,7 +77,7 @@ Abs. 2 stellt die **fahrlässige** Variante unter Strafe. Die Fahrlässigkeit mu
 
 **Strafrahmenharmonisierung**: Durch das BG vom 17.12.2021 (in Kraft seit 1.7.2023) wurde die bisherige Busse durch Freiheitsstrafe bis zu einem Jahr oder Geldstrafe ersetzt. Diese Anpassung entspricht der allgemeinen Strafrahmenharmonisierung im StGB.
 
-**Verhältnis zu Art. 238 Abs. 2 StGB**: Die fahrlässige Störung nach Art. 239 Abs. 2 StGB ist auch dann strafbar, wenn eine fahrlässige Gefährdung des Eisenbahnbetriebs nach Art. 238 Abs. 2 StGB ausscheidet, weil die Gefährdung **unerheblich** war. [BGE 116 IV 44](https://www.bger.ch/ext/eurolex/index/116/IV/44) hat dies als Änderung der Rechtsprechung bestätigt: Wer eine Eisenbahn während über einer Stunde am ordnungsgemässen Betrieb hindert, stört diesen in gravierender Weise — die fahrlässige Störung bleibt nach Art. 239 strafbar, selbst wenn die Gefährdungsschwelle des Art. 238 nicht erreicht wird.
+**Verhältnis zu Art. 238 Abs. 2 StGB**: Die fahrlässige Störung nach Art. 239 Abs. 2 StGB ist auch dann strafbar, wenn eine fahrlässige Gefährdung des Eisenbahnbetriebs nach Art. 238 Abs. 2 StGB ausscheidet, weil die Gefährdung **unerheblich** war. [BGE 116 IV 44](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_44) hat dies als Änderung der Rechtsprechung bestätigt: Wer eine Eisenbahn während über einer Stunde am ordnungsgemässen Betrieb hindert, stört diesen in gravierender Weise — die fahrlässige Störung bleibt nach Art. 239 strafbar, selbst wenn die Gefährdungsschwelle des Art. 238 nicht erreicht wird.
 
 ### IV. Abgrenzungen
 
@@ -82,7 +91,7 @@ Art. 238 StGB ist **lex specialis** gegenüber Art. 239 für den Eisenbahnbereic
 
 #### 2. Art. 181 StGB (Nötigung)
 
-Bei **politischen Protestaktionen** (Blockaden von Bahngleisen, Sitzstreiks auf Strassenbahnschienen) konkurriert Art. 239 als speziellere Norm mit Art. 181 StGB. Nach [BGE 119 IV 301](https://www.bger.ch/ext/eurolex/index/119/IV/301) ist die Generalklausel der Nötigung restriktiv auszulegen. Bei Aktionen, die von Verfassungsrang geschützt sind (Meinungsäusserungsfreiheit, Versammlungsfreiheit nach Art. 16 und 22 BV), ist Art. 181 nicht anwendbar, wenn spezifischere Normen wie Art. 239 den Sachverhalt erfassen.
+Bei **politischen Protestaktionen** (Blockaden von Bahngleisen, Sitzstreiks auf Strassenbahnschienen) konkurriert Art. 239 als speziellere Norm mit Art. 181 StGB. Nach [BGE 119 IV 301](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_301) ist die Generalklausel der Nötigung restriktiv auszulegen. Bei Aktionen, die von Verfassungsrang geschützt sind (Meinungsäusserungsfreiheit, Versammlungsfreiheit nach Art. 16 und 22 BV), ist Art. 181 nicht anwendbar, wenn spezifischere Normen wie Art. 239 den Sachverhalt erfassen.
 
 #### 3. Art. 260ter StGB (Terrorismus)
 
@@ -98,8 +107,8 @@ Art. 260ter StGB (Unterstützung einer terroristischen Organisation) und Art. 26
 
 | Sachverhalt | Tathandlung | Strafbarkeit | Quelle |
 |---|---|---|---|
-| Eisenbahn während über 1 Std. am Betrieb gehindert | Hinderung | Fahrlässige Störung nach Art. 239 Abs. 2 (Art. 238 Abs. 2 nicht erfüllt) | [BGE 116 IV 44](https://www.bger.ch/ext/eurolex/index/116/IV/44) |
-| Politische Blockade von Bahngleisen | Hinderung/Störung | Art. 239 (Art. 181 restriktiv) | [BGE 119 IV 301](https://www.bger.ch/ext/eurolex/index/119/IV/301) |
+| Eisenbahn während über 1 Std. am Betrieb gehindert | Hinderung | Fahrlässige Störung nach Art. 239 Abs. 2 (Art. 238 Abs. 2 nicht erfüllt) | [BGE 116 IV 44](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_44) |
+| Politische Blockade von Bahngleisen | Hinderung/Störung | Art. 239 (Art. 181 restriktiv) | [BGE 119 IV 301](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_301) |
 | Beschädigung eines Wasserwerks | Störung/Gefährdung | Art. 239 Abs. 1 | st. Rspr. |
 | Fahrlässige Beschädigung einer Stromleitung bei Bauarbeiten | Gefährdung | Art. 239 Abs. 2 | st. Rspr. |
 

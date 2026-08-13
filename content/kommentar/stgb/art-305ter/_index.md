@@ -2,10 +2,15 @@
 title: "Art. 305ter — Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 weight: 305
 date: 2026-05-29
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht"
 tags: ["StGB", "Geldwäscherei", "Sorgfaltspflicht", "Finanzintermediär", "KYC", "wirtschaftlich Berechtigter"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut

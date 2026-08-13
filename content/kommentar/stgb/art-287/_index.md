@@ -2,11 +2,15 @@
 title: "Art. 287 StGB — Amtsanmassung"
 weight: 287
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Art. 287 StGB pönalisiert die Amtsanmassung: Wer sich in rechtswidriger Absicht die Ausübung eines Amtes oder militärische Befehlsgewalt anmasst, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft."
 tags: ["StGB", "Amtsanmassung", "öffentliche Gewalt", "rechtswidrige Absicht", "Beamtenbegriff", "Amtsbefugnis"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

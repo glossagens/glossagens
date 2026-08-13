@@ -2,10 +2,19 @@
 title: "Art. 158 — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 158 StGB – Ungetreue Geschäftsbesorgung: Verletzung von Vermögensverwaltungspflichten, Missbrauch von Vertretungsbefugnissen, Treuhandbruch"
 tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Vertrauensmissbrauch", "Treuhand", "Vertretungsmacht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: 3 eurospider-Links zu OCL umgestellt"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut
@@ -25,7 +34,7 @@ agent_verified: true
 
 **1** Art. 158 StGB sanktioniert die **Ungetreue Geschäftsbesorgung** als Vertrauensbruchstatbestand. Im Gegensatz zum Betrug (Art. 146 StGB), der auf Täuschung beruht, steht bei der Ungetreue Geschäftsbesorgung die **Pflichtverletzung in einem Betreuungsverhältnis** im Vordergrund. Die Norm schützt das Vermögen vor missbräuchlicher Verwaltung durch Personen, die aufgrund einer rechtlichen Grundlage dazu betraut sind. Sie gehört neben Art. 146 (Betrug), Art. 147 (Datenbetrug) und Art. 138 (Veruntreuung) zu den **Vermögensdelikten gegen das Eigentum**.
 
-**2** Art. 158 Abs. 1 erfasst die **Vermögensverwaltungstreue** (Treuhandmodell), Abs. 2 die **Vertretungstreue** (Vertretungsmodell). Beide Alternativen setzen eine **rechtliche Bindung** zwischen Täter und Geschädigtem voraus, die über das allgemeine Vertrauensverhältnis hinausgeht. Die Norm hat als Auffangtatbestand Bedeutung für Fälle, die sich nicht als Betrug, Veruntreuung oder Unterschlagung erfassen lassen ([BGE 133 IV 146, E. 5.1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_IV_146)).
+**2** Art. 158 Abs. 1 erfasst die **Vermögensverwaltungstreue** (Treuhandmodell), Abs. 2 die **Vertretungstreue** (Vertretungsmodell). Beide Alternativen setzen eine **rechtliche Bindung** zwischen Täter und Geschädigtem voraus, die über das allgemeine Vertrauensverhältnis hinausgeht. Die Norm hat als Auffangtatbestand Bedeutung für Fälle, die sich nicht als Betrug, Veruntreuung oder Unterschlagung erfassen lassen ([BGE 133 IV 146, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
 
 ### II. Tatbestandsmerkmale (Abs. 1 — Vermögensverwaltungstreue)
 
@@ -37,7 +46,7 @@ agent_verified: true
 - **Behördlicher Auftrag**: Sequester (Art. 108 SchKG), Sachwalterschaft (Art. 392 ZGB)
 - **Rechtsgeschäftliche Betrauung**: Treuhänder, Beauftragter (Art. 394 OR), Verwaltungsrat (Art. 717 OR), Kollektivprokurist (Art. 460 OR)
 
-**4** **Keine Betrauung** liegt vor bei reinen Gefälligkeitsverhältnissen, bei denen keine rechtliche Bindung zur Vermögensverwaltung besteht. Die blosse Tatsache, dass jemand Vermögenswerte eines andern in Händen hält, genügt nicht — es muss eine **Rechtspflicht zur ordnungsgemässen Verwaltung** bestehen. Das Bundesgericht verlangt eine **enge rechtliche Beziehung** zwischen Täter und Geschädigtem, die über das allgemeine Vertrauen hinausgeht ([BGE 133 IV 146, E. 5.2](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_IV_146)).
+**4** **Keine Betrauung** liegt vor bei reinen Gefälligkeitsverhältnissen, bei denen keine rechtliche Bindung zur Vermögensverwaltung besteht. Die blosse Tatsache, dass jemand Vermögenswerte eines andern in Händen hält, genügt nicht — es muss eine **Rechtspflicht zur ordnungsgemässen Verwaltung** bestehen. Das Bundesgericht verlangt eine **enge rechtliche Beziehung** zwischen Täter und Geschädigtem, die über das allgemeine Vertrauen hinausgeht ([BGE 133 IV 146, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
 
 **5** **Geschäftsführer ohne Auftrag** (Abs. 1 Satz 2). Wer als Geschäftsführer ohne Auftrag (negotiorum gestio, Art. 519 ff. OR) fremdes Vermögen verwaltet und dabei pflichtwidrig handelt, wird der ungetreuen Geschäftsbesorgung gleichgestellt. Dies betrifft namentlich denjenigen, der sich in eine fremde Vermögensangelegenheit einmischt und dabei Pflichten verletzt.
 
@@ -51,13 +60,13 @@ agent_verified: true
 - Verletzung der Buchführungspflicht
 - Missachtung von Anlagevorschriften (z.B. bei Stiftungsvermögen)
 
-**7** Die Pflichtverletzung muss **final** auf die Schädigung des Betreuten gerichtet sein oder zumindest **dolose** erfolgen. Fahrlässige Pflichtverletzungen erfüllen den Tatbestand nicht — anders als bei der fahrlässigen Vermögensverwaltungstreue nach kantonalem Recht. Das Bundesgericht verlangt mindestens **bedingten Vorsatz** hinsichtlich der Pflichtverletzung und der Schädigung ([BGE 122 IV 265, E. 2a](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_122_IV_265)).
+**7** Die Pflichtverletzung muss **final** auf die Schädigung des Betreuten gerichtet sein oder zumindest **dolose** erfolgen. Fahrlässige Pflichtverletzungen erfüllen den Tatbestand nicht — anders als bei der fahrlässigen Vermögensverwaltungstreue nach kantonalem Recht. Das Bundesgericht verlangt mindestens **bedingten Vorsatz** hinsichtlich der Pflichtverletzung und der Schädigung ([BGE 122 IV 265, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_265)).
 
 #### 3. Vermögensschaden
 
 **8** Die Pflichtverletzung muss zu einer **Schädigung des Vermögens** des Betreuten führen oder diese zulassen. Der Vermögensschaden ist nach der **Differenzhypothese** zu berechnen: Das Vermögen des Betreuten ist nach der Pflichtverletzung kleiner als es ohne die Pflichtverletzung wäre. Ein **Personenschaden** genügt nicht; ebenso wenig ein reines Affektionsinteresse.
 
-**9** **Vermögensgefährdung als Schaden.** Nach der Rechtsprechung des Bundesgerichts kann auch eine **Vermögensgefährdung** als Schaden genügen, wenn die Gefährdung so erheblich ist, dass sie einem tatsächlichen Verlust gleichkommt ([BGE 118 IV 138, E. 3b](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_118_IV_138)). Dies gilt insbesondere bei Verstössen gegen Anlagevorschriften, bei denen der endgültige Verlust noch nicht eingetreten ist, aber die Gefährdung bereits konkret und erheblich ist.
+**9** **Vermögensgefährdung als Schaden.** Nach der Rechtsprechung des Bundesgerichts kann auch eine **Vermögensgefährdung** als Schaden genügen, wenn die Gefährdung so erheblich ist, dass sie einem tatsächlichen Verlust gleichkommt ([BGE 118 IV 138, E. 3b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_138)). Dies gilt insbesondere bei Verstössen gegen Anlagevorschriften, bei denen der endgültige Verlust noch nicht eingetreten ist, aber die Gefährdung bereits konkret und erheblich ist.
 
 #### 4. Subjektiver Tatbestand
 
@@ -73,7 +82,7 @@ agent_verified: true
 - Der Bevollmächtigte tätigt Geschäfte im Namen des Vertretenen, die seinem internen Auftrag widersprechen
 - Der Kollektivprokurist handelt allein, obwohl gemeinsames Handeln vorgeschrieben wäre
 
-**13** **Abgrenzung Abs. 1 vs. Abs. 2.** Abs. 1 und Abs. 2 stehen in **Alternativität** zueinander. In der Praxis überlappt sich die Vermögensverwaltungstreue häufig mit der Vertretungstreue — etwa beim Verwaltungsrat, der gleichzeitig Vermögen verwaltet und die Gesellschaft vertritt. Das Bundesgericht hat klargestellt, dass **beide Tatbestandsvarianten nebeneinander anwendbar** sind ([BGE 133 IV 146, E. 5.1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_IV_146)).
+**13** **Abgrenzung Abs. 1 vs. Abs. 2.** Abs. 1 und Abs. 2 stehen in **Alternativität** zueinander. In der Praxis überlappt sich die Vermögensverwaltungstreue häufig mit der Vertretungstreue — etwa beim Verwaltungsrat, der gleichzeitig Vermögen verwaltet und die Gesellschaft vertritt. Das Bundesgericht hat klargestellt, dass **beide Tatbestandsvarianten nebeneinander anwendbar** sind ([BGE 133 IV 146, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
 
 ### IV. Antragsdelikt (Abs. 3)
 
@@ -92,13 +101,13 @@ agent_verified: true
 | **Aktienrechtliche Verantwortlichkeit (Art. 754 OR)** | Zivilrechtlicher Schadenersatzanspruch; kann neben Art. 158 StGB kumulativ verfolgt werden |
 | **Ungetreue Geschäftsführung nach OR** | Im Aktienrecht bestehen speziellere Normen (Art. 161 OR); Art. 158 StGB bleibt als Auffangtatbestand anwendbar |
 
-**16** **Konkurrenzverhältnis.** Art. 158 StGB steht im Verhältnis der **Alternativität** zu Art. 146 (Betrug) und Art. 138 (Veruntreuung). Tatbestandskonkurrenz ist möglich, wenn ein Täter sowohl eine Pflichtverletzung im Betreuungsverhältnis als auch eine Täuschung begeht ([BGE 118 IV 138, E. 4](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_118_IV_138)). Idealkonkurrenz (Art. 68 StGB) kommt in Betracht, wenn die einzelnen Tatbestandsmerkmale verschiedene Rechtsgüter verletzen.
+**16** **Konkurrenzverhältnis.** Art. 158 StGB steht im Verhältnis der **Alternativität** zu Art. 146 (Betrug) und Art. 138 (Veruntreuung). Tatbestandskonkurrenz ist möglich, wenn ein Täter sowohl eine Pflichtverletzung im Betreuungsverhältnis als auch eine Täuschung begeht ([BGE 118 IV 138, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_138)). Idealkonkurrenz (Art. 68 StGB) kommt in Betracht, wenn die einzelnen Tatbestandsmerkmale verschiedene Rechtsgüter verletzen.
 
 ### VI. Kasuistik
 
-**17** **Verwaltungsratliche Ungetreue.** Der Verwaltungsrat, der Gesellschaftsmittel zwecks persönlicher Bereicherung abfliesst, erfüllt Art. 158 Abs. 1 und 2 StGB. Das Bundesgericht hat in [BGE 133 IV 146](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_IV_146) klargestellt, dass die Verwaltungsratsfunktion sowohl eine Betrauung mit Vermögensverwaltung (Abs. 1) als auch eine Vertretungsbefugnis (Abs. 2) darstellen kann.
+**17** **Verwaltungsratliche Ungetreue.** Der Verwaltungsrat, der Gesellschaftsmittel zwecks persönlicher Bereicherung abfliesst, erfüllt Art. 158 Abs. 1 und 2 StGB. Das Bundesgericht hat in [BGE 133 IV 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146) klargestellt, dass die Verwaltungsratsfunktion sowohl eine Betrauung mit Vermögensverwaltung (Abs. 1) als auch eine Vertretungsbefugnis (Abs. 2) darstellen kann.
 
-**18** **Treuhandungetreue.** Der Treuhänder, der anvertraute Vermögenswerte nicht nach den Weisungen des Treugebers anlegt, sondern zwecks persönlicher Bereicherung umleitet, erfüllt Art. 158 Abs. 1 StGB. Das Bundesgericht verlangt für die Betrauung ein **rechtlich begründetes Treuhandverhältnis** — eine rein faktische Verfügungsmacht genügt nicht ([BGE 122 IV 265, E. 2b](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_122_IV_265)).
+**18** **Treuhandungetreue.** Der Treuhänder, der anvertraute Vermögenswerte nicht nach den Weisungen des Treugebers anlegt, sondern zwecks persönlicher Bereicherung umleitet, erfüllt Art. 158 Abs. 1 StGB. Das Bundesgericht verlangt für die Betrauung ein **rechtlich begründetes Treuhandverhältnis** — eine rein faktische Verfügungsmacht genügt nicht ([BGE 122 IV 265, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_265)).
 
 **19** **Stiftungsvermögen.** Stiftungsratsmitglieder, die Stiftungsvermögen pflichtwidrig verwalten, können sich nach Art. 158 StGB strafbar machen. Die Betrauung folgt aus dem Gesetz (Art. 83 ZGB i.V.m. Stiftungssatzung). Die strengen Anlagevorschriften des Stiftungsrechts (Art. 716a OR analog) bilden den Massstab für die Pflichtverletzung.
 

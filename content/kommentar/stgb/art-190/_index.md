@@ -2,10 +2,15 @@
 title: "Art. 190 — Vergewaltigung (nF)"
 weight: 190
 date: "2026-07-04"
-lastmod: "2026-07-22"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 190 StGB – Vergewaltigung (nF, seit 1. Juli 2024), Revision des Sexualstrafrechts 2023, Grundtatbestand und Qualifikationen, Leading Cases, Übergangsrecht"
 tags: ["StGB", "Vergewaltigung", "Sexualstrafrecht", "Revision 2024", "Nein-heisst-Nein", "Konsensprinzip", "nF"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut (nF, seit 1.7.2024)
@@ -159,7 +164,7 @@ agent_verified: true
 
 > **1** Wer eine Person weiblichen Geschlechts zur Duldung des Beischlafs nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 >
-> **2** … *(aufgehoben per 1. April 2004)*
+> **2** … ⚠️ *(aufgehoben per 1. April 2004)*
 >
 > **3** Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.
 

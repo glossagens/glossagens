@@ -2,10 +2,15 @@
 title: "Art. 189 — Sexuelle Nötigung"
 weight: 189
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 189 StGB – Sexuelle Nötigung, Nötigungsmittel, psychischer Druck, Schockzustand, Revision des Sexualstrafrechts 2024"
 tags: ["StGB", "Sexuelle Nötigung", "Sexualstrafrecht", "Nötigung", "psychischer Druck"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut

@@ -2,11 +2,15 @@
 title: "Art. 240 — Geldfälschung"
 weight: 240
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 240 StGB: Geldfälschung (Metallgeld, Papiergeld, Banknoten) in der Absicht des Inumlaufbringens als echt, Absichtsbegriff, besonders leichter Fall, Auslandstat und obligatorische Weltpflicht, Konkurrenz zu Art. 242 StGB."
 tags: ["StGB", "Geldfälschung", "Falschgeld", "Inumlaufbringen", "Weltpflicht", "Konkurrenz", "Betrug"]
 agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"

@@ -2,10 +2,15 @@
 title: "Art. 181 — Nötigung"
 weight: 181
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 181 StGB — Nötigung: Tatbestandsmerkmale (Gewalt, Androhung ernstlicher Nachteile, andere Beschränkung der Handlungsfreiheit), Rechtfertigung (Wahrnehmung berechtigter Interessen), Stalking als Nötigung, Konkurrenzen"
 tags: ["StGB", "Nötigung", "Stalking", "Handlungsfreiheit", "Wahrnehmung-berechtigter-Interessen", "Streikrecht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Wortlaut

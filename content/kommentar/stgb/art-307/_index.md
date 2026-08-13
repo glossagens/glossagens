@@ -2,10 +2,19 @@
 title: "Art. 307 — Falschaussage"
 weight: 307
 date: 2026-06-05
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 307 StGB – Falschaussage / Faux témoignage"
 tags: ["StGB", "Strafrecht", "Falschaussage", "falsches Zeugnis", "falsches Gutachten", "Rechtspflegedelnikt", "Privatklägerschaft"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGer 6B_1128/2017 E.4→E.3; BGE 141 IV 454 E.2.3.1→E.3"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 
 ## Gesetzeswortlaut
@@ -14,7 +23,7 @@ agent_verified: true
 >
 > 1 Wer in einem gerichtlichen Verfahren als Zeuge, Sachverständiger, Übersetzer oder Dolmetscher zur Sache falsch aussagt, einen falschen Befund oder ein falsches Gutachten abgibt oder falsch übersetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> 2 …
+> 2 … ⚠️ *Aufgehoben durch BG vom 17.12.2021 (Harmonisierung der Strafrahmen), in Kraft seit 1.7.2023 (AS 2023 259; BBl 2018 2827).*
 >
 > 3 Bezieht sich die falsche Äusserung auf Tatsachen, die für die richterliche Entscheidung unerheblich sind, so ist die Strafe Geldstrafe.
 
@@ -25,7 +34,7 @@ agent_verified: true
 
 Art. 307 StGB stellt die Falschaussage (falsches Zeugnis, falsches Gutachten, falscher Befund, falsche Übersetzung) in einem gerichtlichen Verfahren unter Strafe. Die Norm schützt **in erster Linie die Korrektheit von Beweisverfahren**, d.h. die Ermittlung der Wahrheit in einem gerichtlichen Verfahren, und damit primär das Kollektivinteresse an einer funktionierenden Rechtspflege ([BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3.2 und 3.5; [BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184), E. 1c). Die materiellen oder immateriellen Interessen der Prozessparteien werden durch diesen Tatbestand grundsätzlich nur **mittelbar** geschützt ([BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184), E. 1c; [BGer 6B_87/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_87_2018), E. 4).
 
-Die Rechtsprechung bejaht indes einen **sekundären — und nicht nur mittelbaren — Schutz** durch Art. 307 StGB im Umfang der Verfahrensrechte der Parteien im Beweisverfahren ([BGer 6B_1346/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_1346_2016), E. 3 mit Hinweisen; ständige Rechtsprechung seit [BGer 6B_1128/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1128_2017), E. 4). Dieser sekundäre Schutz stellt einen Teilaspekt des unmittelbaren Schutzgehalts von Art. 307 StGB dar: Neben dem im Vordergrund stehenden Kollektivinteresse an einer funktionierenden Rechtspflege (unmittelbar-primär) umfasst dieser in beschränktem Umfang auch die Individualrechtsgüter der Prozessparteien, namentlich deren Verfahrensrechte im Beweisverfahren (unmittelbar-sekundär).
+Die Rechtsprechung bejaht indes einen **sekundären — und nicht nur mittelbaren — Schutz** durch Art. 307 StGB im Umfang der Verfahrensrechte der Parteien im Beweisverfahren ([BGer 6B_1346/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_1346_2016), E. 3 mit Hinweisen; ständige Rechtsprechung seit [BGer 6B_1128/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1128_2017), E. 3). Dieser sekundäre Schutz stellt einen Teilaspekt des unmittelbaren Schutzgehalts von Art. 307 StGB dar: Neben dem im Vordergrund stehenden Kollektivinteresse an einer funktionierenden Rechtspflege (unmittelbar-primär) umfasst dieser in beschränktem Umfang auch die Individualrechtsgüter der Prozessparteien, namentlich deren Verfahrensrechte im Beweisverfahren (unmittelbar-sekundär).
 
 ### II. Tatbestandsmerkmale
 
@@ -70,7 +79,7 @@ Die materiellen oder immateriellen Interessen der Prozessparteien (Freiheit, Ehr
 
 #### 2. Privatklägerschaft (Art. 115 f. StPO)
 
-Als **geschädigt** im Sinne von Art. 115 Abs. 1 StPO gilt die Person, die durch die Straftat in ihren Rechten **unmittelbar verletzt** worden ist ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2). Bei Strafnormen, die nicht primär Individualrechtsgüter schützen, gelten nur diejenigen Personen als Geschädigte, die durch die darin umschriebenen Tatbestände in ihren Rechten beeinträchtigt werden, **sofern diese Beeinträchtigung unmittelbare Folge der tatbestandsmässigen Handlung ist** ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2; [BGE 145 IV 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_491), E. 2.3.1; [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 2.3.1).
+Als **geschädigt** im Sinne von Art. 115 Abs. 1 StPO gilt die Person, die durch die Straftat in ihren Rechten **unmittelbar verletzt** worden ist ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2). Bei Strafnormen, die nicht primär Individualrechtsgüter schützen, gelten nur diejenigen Personen als Geschädigte, die durch die darin umschriebenen Tatbestände in ihren Rechten beeinträchtigt werden, **sofern diese Beeinträchtigung unmittelbare Folge der tatbestandsmässigen Handlung ist** ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2; [BGE 145 IV 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_491), E. 2.3.1; [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3).
 
 #### 3. Präzisierung: Ungünstiges Gutachten im Vorsorgverfahren
 

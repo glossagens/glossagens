@@ -2,11 +2,15 @@
 title: "Art. 180 — Drohung"
 weight: 180
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 180 StGB: schwere Drohung als Antragsdelikt, objektive Eignung zur Furchterregung, Widerrechtlichkeit, Offizialdelikt in häuslichem Kontext (Ehe, eingetragene Partnerschaft, Lebensgemeinschaft), Konkurrenz zu Art. 181 StGB (Nötigung)."
 tags: ["StGB", "Drohung", "Antragsdelikt", "Offizialdelikt", "häusliche-Gewalt", "Nötigung", "Widerrechtlichkeit", "Konkurrenz"]
 agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit KW33 Schritte 1-3+6"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
