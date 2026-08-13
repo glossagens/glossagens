@@ -77,7 +77,7 @@ Zum Verhältnis von Art. 47 ZPO zu den Sondernormen: Die Spezialbestimmung verdr
 
 **Kernaussage**: Administrative Tätigkeiten der Anwaltskanzlei eines nebenamtlichen Bundespatentrichters gegenüber dem nationalen Patentamt begründen für sich allein noch keinen Anschein der Befangenheit.
 
-Gegenstück zu BGE 139 III 433: Nicht jede Kanzleitätigkeit mit Bezug zum Sachgebiet begründet den Ausstand.
+Gegenstück zum offenen Mandat: Nicht jede Kanzleitätigkeit mit Bezug zum Sachgebiet begründet den Ausstand.
 
 ## III. Vergleichsverhandlung
 

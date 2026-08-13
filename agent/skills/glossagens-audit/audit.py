@@ -85,6 +85,11 @@ FEDLEX_FUSSNOTE = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 PINPOINT = re.compile(r"\b(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)")
+# Urteilsdatum zwischen Referenz und Pinpoint: «v. 22.4.2026», «vom 2. März 2026»,
+# gefolgt von optionalen Klammerzusätzen («, 5er-Besetzung»).
+DATUM_TAIL = (
+    r"(?:\s*,?\s*(?:vom|v\.)\s*\d{1,2}\.\s*(?:\d{1,2}\.|[A-Za-zÄÖÜäöü]+\s*)\s*\d{4})?"
+)
 WORTLAUT_HEAD = re.compile(
     # Gliederungspräfixe zulassen («## I. Wortlaut», «## 1. Gesetzestext»): ohne
     # sie meldet Stufe 1 `kein_wortlaut_block` und prüft den Normtext stillschweigend
@@ -543,8 +548,13 @@ def parse_file(path, rel):
             continue
 
         # Fliesstext: «… (BGE 146 I 49 E. 4.2).» — Pinpoint direkt dahinter.
-        tail = body[m.end() : m.end() + 40]
-        pm = re.match(r"\s*,?\s*(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)", tail)
+        # Bei BGer-Dossiernummern schiebt sich das Urteilsdatum dazwischen
+        # («4A_604/2025 v. 22.4.2026, E. 2.2.4»), was der schweizüblichen
+        # Zitierform entspricht. Ohne DATUM_TAIL bleibt der Pinpoint ungelesen,
+        # Stufe 5 prüft gegen den Sachverhalt und meldet `unrelated` für einen
+        # korrekt belegten Satz.
+        tail = body[m.end() : m.end() + 60]
+        pm = re.match(DATUM_TAIL + r"\s*,?\s*(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)", tail)
         if line.lstrip().startswith("|"):
             claim = table_claim(line, ref) or sentence_before(body, m.start())
         else:
