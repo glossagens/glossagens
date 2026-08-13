@@ -2,10 +2,16 @@
 title: "Art. 344 — Abweichende rechtliche Würdigung"
 weight: 344
 date: "2026-05-10"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 344 StPO – Abweichende rechtliche Würdigung"
 tags: ["StPO", "Anklagegrundsatz", "Würdigungsvorbehalt", "Umqualifikation", "rechtliches Gehör"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

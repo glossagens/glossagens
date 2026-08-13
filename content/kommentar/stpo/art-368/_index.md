@@ -2,7 +2,7 @@
 title: "Art. 368 StPO — Gesuch um neue Beurteilung"
 weight: 368
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 368 StPO: Gesuch um neue Beurteilung eines Abwesenheitsurteils — persönliche Zustellung, zehntägige Frist, Begründungspflicht und Ablehnung bei unentschuldigtem (schuldhaftem) Fernbleiben; Beweislast des Staates."
 tags: ["Abwesenheitsverfahren", "neue Beurteilung", "Wiederaufnahme", "unentschuldigtes Fernbleiben", "Beweislast", "Art. 6 EMRK", "Rechtsbehelf"]
 agent_verified: true

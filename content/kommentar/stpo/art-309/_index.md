@@ -2,10 +2,16 @@
 title: "Art. 309 StPO — Eröffnung der Untersuchung"
 weight: 309
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 309 StPO: Eröffnung der Strafuntersuchung — Eröffnungsgründe, deklaratorische Eröffnungsverfügung, Rücküberweisung an die Polizei, Verzicht auf Eröffnung."
 tags: ["Untersuchung", "Eröffnung", "Vorverfahren", "Tatverdacht", "Staatsanwaltschaft", "Eröffnungsverfügung", "polizeiliches Ermittlungsverfahren", "Nichtanhandnahme"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

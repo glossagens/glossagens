@@ -2,7 +2,7 @@
 title: "Art. 448 — Anwendbares Recht"
 weight: 448
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 448 StPO – Anwendbares Recht (Übergangsbestimmungen): Grundsatz der Fortführung hängiger Verfahren nach neuem Recht, Bestandsschutz bereits durchgeführter Verfahrenshandlungen, Verhältnis zu Art. 453–455 StPO."
 tags: ["StPO", "Übergangsrecht", "Übergangsbestimmungen", "Zeitliches Anwendungsrecht", "rückwirkende Anwendung", "künftige Anwendung", "interlokales Recht", "Bestandsschutz"]
 agent_verified: true

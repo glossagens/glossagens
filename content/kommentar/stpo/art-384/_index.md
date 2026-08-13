@@ -2,7 +2,7 @@
 title: "Art. 384 — Fristbeginn"
 weight: 384
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 384 StPO – Fristbeginn"
 tags: ["StPO", "Rechtsmittel", "Fristen", "Zustellung"]
 agent_verified: true

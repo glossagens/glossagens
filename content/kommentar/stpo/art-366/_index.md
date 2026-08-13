@@ -2,7 +2,7 @@
 title: "Art. 366 StPO — Abwesenheitsverfahren: Voraussetzungen"
 weight: 366
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 366 StPO: Voraussetzungen des Abwesenheitsverfahrens (Kontumazialverfahren) — zweimalige Vorladung, sofortiges Verfahren bei selbstverschuldeter Verhandlungsunfähigkeit, materielle Schranken (ausreichende Äusserungsgelegenheit, Spruchreife) und konventionsrechtliche Vorgaben."
 tags: ["Abwesenheitsverfahren", "Kontumazialverfahren", "Säumnis", "faires Verfahren", "Art. 6 EMRK", "Vorladung", "Hauptverhandlung", "Anwesenheitsrecht"]
 agent_verified: true

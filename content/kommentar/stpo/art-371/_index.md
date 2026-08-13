@@ -2,7 +2,7 @@
 title: "Art. 371 StPO — Abwesenheitsverfahren: Verhältnis zur Berufung"
 weight: 371
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 371 StPO: Verhältnis von Gesuch um neue Beurteilung und Berufung gegen das Abwesenheitsurteil — Wahlrecht während laufender Berufungsfrist, Informationspflicht und Vorrang der neuen Beurteilung (Subsidiarität der Berufung)."
 tags: ["Abwesenheitsverfahren", "neue Beurteilung", "Berufung", "Subsidiarität", "Rechtsmittel", "Informationspflicht"]
 agent_verified: true

@@ -2,10 +2,16 @@
 title: "Art. 355 — Verfahren bei Einsprache"
 weight: 355
 date: "2026-06-27"
-lastmod: "2026-06-27"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 355 StPO — Verfahren bei Einsprache durch die Staatsanwaltschaft: Beweisabnahme, Säumnisfiktion, Entscheidung über Fortgang (festhalten, einstellen, neuer Strafbefehl, Anklage)"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Beweisabnahme", "Säumnisfiktion", "Staatsanwaltschaft"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

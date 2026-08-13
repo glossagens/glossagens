@@ -2,10 +2,16 @@
 title: "Art. 322 StPO — Genehmigung und Rechtsmittel (Einstellungsverfügung)"
 weight: 322
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 322 StPO – Genehmigung und Rechtsmittel (Einstellungsverfügung): Genehmigungspflicht, Beschwerderecht der Parteien, Einsprache bei Einziehung, implizite Einstellung."
 tags: ["StPO", "Einstellungsverfügung", "Beschwerde", "Genehmigung", "Nichtanhandnahme", "Einziehung", "Rechtsmittel"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

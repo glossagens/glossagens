@@ -2,7 +2,7 @@
 title: "Art. 370 StPO — Abwesenheitsverfahren: Neues Urteil"
 weight: 370
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 370 StPO: Neues Urteil nach neuer Beurteilung — übliche Rechtsmittel, Dahinfallen des Abwesenheitsurteils mit Rechtskraft des neuen Urteils sowie die resolutive Bedingung und ihre Bedeutung für die Verfolgungsverjährung."
 tags: ["Abwesenheitsverfahren", "neue Beurteilung", "neues Urteil", "Rechtsmittel", "Rechtskraft", "Verjährung", "resolutive Bedingung"]
 agent_verified: true

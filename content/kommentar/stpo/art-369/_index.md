@@ -2,7 +2,7 @@
 title: "Art. 369 StPO — Abwesenheitsverfahren: Verfahren der neuen Beurteilung"
 weight: 369
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 369 StPO: Verfahren der neuen Beurteilung — Ansetzung einer neuen Hauptverhandlung, Sistierung anderer Rechtsmittel, aufschiebende Wirkung und Sicherheitshaft, Fortbestand des Abwesenheitsurteils bei erneutem Ausbleiben sowie Rückzug des Gesuchs."
 tags: ["Abwesenheitsverfahren", "neue Beurteilung", "Hauptverhandlung", "Sicherheitshaft", "aufschiebende Wirkung", "Verwirkung", "Rückzug"]
 agent_verified: true

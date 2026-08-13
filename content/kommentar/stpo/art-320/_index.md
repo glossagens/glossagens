@@ -2,10 +2,16 @@
 title: "Art. 320 StPO — Einstellungsverfügung"
 weight: 320
 date: 2026-07-11
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 320 StPO — Einstellungsverfügung: Form und Inhalt, Aufhebung von Zwangsmassnahmen, Einziehung, Zivilklagen, Sperrwirkung und ne bis in idem."
 tags: ["StPO", "Einstellungsverfügung", "Zwangsmassnahmen", "Einziehung", "Zivilklage", "ne bis in idem", "Sperrwirkung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

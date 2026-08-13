@@ -2,7 +2,7 @@
 title: "Art. 417 StPO — Kostenpflicht bei fehlerhaften Verfahrenshandlungen"
 weight: 417
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 417 StPO: Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen, Kannvorschrift unabhängig vom Verfahrensausgang, Abgrenzung zu Art. 426–428 StPO."
 tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Entsiegelung", "Verfahrenskosten", "Kannvorschrift"]
 agent_verified: true

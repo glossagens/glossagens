@@ -2,7 +2,7 @@
 title: "Art. 427 — Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person"
 weight: 427
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 427 StPO – Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person"
 tags: ["StPO", "Kosten", "Privatklägerschaft", "Antragsdelikte", "Kostentragung", "Verfahrenskosten", "Strafantrag"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 393 StPO — Zulässigkeit und Beschwerdegründe"
 weight: 393
 date: 2026-08-03
-lastmod: 2026-08-03
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 393 StPO: Anfechtbare Objekte (Verfügungen, Verfahrenshandlungen, ZMG-Entscheide), Rügegründe und Kognition der Beschwerdeinstanz im Schweizer Strafprozess."
 tags: ["StPO", "Beschwerde", "Zulässigkeit", "Beschwerdegründe", "Verfahrenshandlungen", "Zwangsmassnahmengericht", "Rechtsmittel"]
 agent_verified: true

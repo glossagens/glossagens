@@ -2,10 +2,16 @@
 title: "Art. 352 — Voraussetzungen"
 weight: 352
 date: "2026-06-27"
-lastmod: "2026-06-27"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 352 StPO — Voraussetzungen des Strafbefehlsverfahrens: Eingeständnis oder ausreichende Klärung, zulässige Sanktionen, Strafgrenzen, Verbindung von Strafen"
 tags: ["StPO", "Strafbefehl", "Strafbefehlsverfahren", "Staatsanwaltschaft", "Vereinfachtes Verfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

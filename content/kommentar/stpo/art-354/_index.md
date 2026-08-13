@@ -2,10 +2,16 @@
 title: "Art. 354 — Einsprache"
 weight: 354
 date: "2026-06-27"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 354 StPO — Einsprache gegen den Strafbefehl: Berechtigung, Form, Frist, Begründungspflicht, Rechtskraft bei fehlender Einsprache"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Privatklägerschaft", "Rechtskraft", "Formvorschriften"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

@@ -2,7 +2,7 @@
 title: "Art. 412 — Vorprüfung und Eintreten"
 weight: 412
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 412 StPO – Vorprüfung und Eintreten (Revisionsverfahren)"
 tags: ["StPO", "Revision", "Vorprüfung", "Eintreten", "Revisionsverfahren"]
 agent_verified: true

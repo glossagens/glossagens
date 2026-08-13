@@ -2,10 +2,16 @@
 title: "Art. 333 — Änderung und Erweiterung der Anklage"
 weight: 333
 date: "2026-06-08"
-lastmod: "2026-06-20"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 333 StPO – Änderung und Erweiterung der Anklage im Hauptverfahren"
 tags: ["StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

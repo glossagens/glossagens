@@ -2,7 +2,7 @@
 title: "Art. 391 StPO — Entscheid (Verbot der reformatio in peius)"
 weight: 391
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 391 StPO: Entscheid der Rechtsmittelinstanz — keine Bindung an Parteianträge, Verschlechterungsverbot (reformatio in peius) und seine Ausnahmen."
 tags: ["Rechtsmittel", "reformatio in peius", "Verschlechterungsverbot", "Berufung", "Beschwerde", "Dispositiv", "Strafzumessung", "Rechtsmittelinstanz"]
 agent_verified: true

@@ -2,10 +2,16 @@
 title: "Art. 353 — Inhalt und Eröffnung des Strafbefehls"
 weight: 353
 date: "2026-06-27"
-lastmod: "2026-06-27"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 353 StPO — Inhaltliche Anforderungen an den Strafbefehl, Zivilforderungen im Strafbefehlsverfahren, Eröffnung und Unterschrift"
 tags: ["StPO", "Strafbefehl", "Anklagegrundsatz", "Eröffnung", "Zivilforderungen"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

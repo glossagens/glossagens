@@ -2,10 +2,16 @@
 title: "Art. 293 — Mass der zulässigen Einwirkung"
 weight: 293
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 293 StPO – Mass der zulässigen Einwirkung verdeckter Ermittlerinnen und Ermittler; Grenzen der Tatprovokation, agent provocateur-Verbot, Beweisverwertungsverbote und Strafzumessungsfolgen."
 tags: ["StPO", "verdeckte Ermittlung", "agent provocateur", "Tatprovokation", "Beweisverwertungsverbot", "Strafzumessung", "Selbstbelastungsfreiheit"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

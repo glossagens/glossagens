@@ -2,7 +2,7 @@
 title: "Art. 382 StPO — Legitimation zu Rechtsmitteln"
 weight: 382
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 382 StPO: Rechtsmittellegitimation der Parteien — rechtlich geschütztes Interesse, Privatklägerschaft, Sanktionsanfechtungsverbot, Rechtsnachfolge beim Tod."
 tags: ["Rechtsmittel", "Legitimation", "Privatklägerschaft", "Geschädigter", "rechtlich geschütztes Interesse", "Berufung", "Beschwerde", "Rechtsnachfolge"]
 agent_verified: true

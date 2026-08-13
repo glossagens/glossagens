@@ -2,10 +2,16 @@
 title: "Art. 345 — Abschluss des Beweisverfahrens"
 weight: 345
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 345 StPO – Abschluss des Beweisverfahrens"
 tags: ["StPO", "Beweisverfahren", "Beweisantragsrecht", "rechtliches Gehör", "Berufungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

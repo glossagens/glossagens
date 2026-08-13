@@ -2,7 +2,7 @@
 title: "Art. 453 — Vor Inkrafttreten gefällte Entscheide"
 weight: 453
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide: Übergangsrecht für Rechtsmittel gegen vor dem 1. Januar 2011 ergangene Entscheide, Anwendung bisherigen Rechts und bisheriger Zuständigkeiten, Neuapplication bei Rückweisung."
 tags: ["StPO", "Übergangsrecht", "Übergangsbestimmungen", "interlokales Recht", "Rechtsmittel", "Zeitliches Anwendungsrecht", "Rückweisung", "Inkrafttreten"]
 agent_verified: true

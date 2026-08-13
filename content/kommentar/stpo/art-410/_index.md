@@ -2,7 +2,7 @@
 title: "Art. 410 — Zulässigkeit und Revisionsgründe"
 weight: 410
 date: "2026-06-07"
-lastmod: "2026-07-31"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 410 StPO — Revision rechtskräftiger Entscheide: Zulässigkeit, Revisionsgründe (neue Tatsachen/Beweismittel, Widerspruch, strafbare Einwirkung), EMRK-Revision, Verjährung, Zivilansprüche"
 tags: ["StPO", "Revision", "Rechtskraft", "EMRK", "Wiederaufnahme", "ne-bis-in-idem"]
 agent_verified: true

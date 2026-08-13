@@ -2,10 +2,16 @@
 title: "Art. 350 — Bindung an die Anklage; Grundlage des Urteils"
 weight: 350
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 350 StPO – Bindung an die Anklage; Grundlage des Urteils"
 tags: ["StPO", "Anklageprinzip", "Beweiswürdigung", "Bindung an die Anklage", "Sachverhalt"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

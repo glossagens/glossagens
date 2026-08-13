@@ -2,7 +2,7 @@
 title: "Art. 358 — Abgekürztes Verfahren (Grundsätze)"
 weight: 358
 date: "2026-06-27"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 358 StPO — Abgekürztes Verfahren: Voraussetzungen, Geständnis, Einverständnis, Strafgrenze fünf Jahre, Ausschlussgründe"
 tags: ["StPO", "abgekürztes Verfahren", "Geständnis", "vereinfachtes Verfahren", "Strafgrenze", "Hauptverhandlung"]
 agent_verified: true

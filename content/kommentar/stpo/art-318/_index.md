@@ -2,10 +2,16 @@
 title: "Art. 318 StPO — Abschluss"
 weight: 318
 date: 2026-08-03
-lastmod: 2026-08-03
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 318 StPO (Abschluss der Untersuchung, Parteimitteilung, Konstituierung der Privatklägerschaft, Beweisanträge, antizipierte Beweiswürdigung und Unanfechtbarkeit)."
 tags: ["StPO", "Vorverfahren", "Untersuchungsverfahren", "Abschluss der Untersuchung", "Beweisanträge", "Rechtliches Gehör", "Privatklägerschaft"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 > <sup>1</sup> Erachtet die Staatsanwaltschaft die Untersuchung als vollständig, so erlässt sie einen Strafbefehl oder kündigt den Parteien mit bekanntem Wohnsitz schriftlich den bevorstehenden Abschluss an und teilt ihnen mit, ob sie Anklage erheben oder das Verfahren einstellen will. Gleichzeitig setzt sie den Parteien eine Frist, Beweisanträge zu stellen.

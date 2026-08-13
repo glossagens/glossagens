@@ -2,7 +2,7 @@
 title: "Art. 381 — Legitimation der Staatsanwaltschaft"
 weight: 381
 date: 2026-07-11
-lastmod: 2026-07-12
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
 agent_verified: true

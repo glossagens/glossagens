@@ -2,10 +2,16 @@
 title: "Art. 357 — Übertretungen"
 weight: 357
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 357 StPO — Übertretungen: Verwaltungsbehörden als Strafverfolgungsbehörden, sinngemässes Strafbefehlsverfahren, Einstellung, Überweisung"
 tags: ["StPO", "Übertretungen", "Verwaltungsbehörden", "Strafbefehlsverfahren", "Übertretungsstrafbehörden"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

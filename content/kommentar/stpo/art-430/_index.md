@@ -2,7 +2,7 @@
 title: "Art. 430 — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung"
 weight: 430
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 430 StPO – Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung: Voraussetzungen nach Abs. 1 lit. a–c, Herabsetzung im Rechtsmittelverfahren nach Abs. 2, Verhältnis zu Art. 426 Abs. 2 und Art. 431 StPO"
 tags: ["StPO", "Entschädigung", "Genugtuung", "Kosten", "Herabsetzung", "Verweigerung", "Freispruch", "Verfahrenseinstellung", "Selbstverschulden"]
 agent_verified: true

@@ -2,10 +2,16 @@
 title: "Art. 339 — Eröffnung; Vor- und Zwischenfragen"
 weight: 339
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 339 StPO – Eröffnung; Vor- und Zwischenfragen"
 tags: ["StPO", "Hauptverhandlung", "Vorfragen", "Zwischenfragen", "Verfahrenshindernisse", "Beweisverwertbarkeit"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

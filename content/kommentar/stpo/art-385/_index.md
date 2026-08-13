@@ -2,7 +2,7 @@
 title: "Art. 385 — Begründung und Form"
 weight: 385
 date: "2026-06-20"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 385 StPO – Begründung und Form: Anforderungen an die Rechtsmittelbegründung, Nachfrist bei Mängeln, falsche Rechtsmittelbezeichnung"
 tags: ["StPO", "Rechtsmittel", "Begründungspflicht", "Berufung", "Beschwerde", "Nichteintreten"]
 agent_verified: true
