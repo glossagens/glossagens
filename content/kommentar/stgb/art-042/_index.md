@@ -2,10 +2,16 @@
 title: "Art. 42 — Bedingter Vollzug"
 weight: 42
 date: 2026-06-07
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 42 StGB — Bedingter Vollzug einer Freiheitsstrafe: Voraussetzungen, Prognose, Schlechtprognose, Strafaufschub"
 tags: ["StGB", "bedingter Vollzug", "Strafaufschub", "Prognose", "Schlechtprognose", "Vorstrafen", "Freiheitsstrafe"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 42: 7 bger.ch-Links→OCL umgestellt (1×404, 6×403); Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Gesetzeswortlaut
@@ -34,7 +40,7 @@ Der bedingte Vollzug nach Art. 42 kommt für Geldstrafen sowie für Freiheitsstr
 
 **b) Fehlende Schlechtprognose**
 
-Erforderlich ist, dass keine ungünstige Prognose vorliegt. Massgeblich ist, ob der Täter voraussichtlich keine weiteren Straftaten begehen wird ([BGE 144 IV 277](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_144_IV_277), E. 3.1.1). Die Prognose stützt sich auf:
+Erforderlich ist, dass keine ungünstige Prognose vorliegt. Massgeblich ist, ob der Täter voraussichtlich keine weiteren Straftaten begehen wird ([BGE 144 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_277), E. 3.1.1). Die Prognose stützt sich auf:
 - die Persönlichkeit des Täters,
 - sein Vorleben, insbesondere Vorstrafen,
 - die Umstände der Tat,
@@ -42,21 +48,21 @@ Erforderlich ist, dass keine ungünstige Prognose vorliegt. Massgeblich ist, ob 
 
 **c) Keine Notwendigkeit der unbedingten Vollstreckung**
 
-Der bedingte Vollzug setzt voraus, dass eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten (Spezialprävention). Die Generalprävention allein rechtfertigt die Verweigerung des bedingten Vollzugs nicht ([BGE 134 IV 1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_IV_1), E. 4.2.2).
+Der bedingte Vollzug setzt voraus, dass eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten (Spezialprävention). Die Generalprävention allein rechtfertigt die Verweigerung des bedingten Vollzugs nicht ([BGE 134 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_1), E. 4.2.2).
 
 ### III. Schlechtprognose und einschlägige Vorstrafen
 
 **a) Einschlägige Vorstrafen**
 
-Einschlägige Vorstrafen sind grundsätzlich straferhöhend zu wichten und stehen einer günstigen Prognose entgegen ([BGE 136 IV 1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_136_IV_1), E. 2.6.2). Bisherige (auch unbedingte) Geldstrafen und Führerausweisentzüge, die den Täter nicht von erneuter Tatbegehung abgehalten haben, indizieren eine ungünstige Prognose.
+Einschlägige Vorstrafen sind grundsätzlich straferhöhend zu wichten und stehen einer günstigen Prognose entgegen ([BGE 136 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_1), E. 2.6.2). Bisherige (auch unbedingte) Geldstrafen und Führerausweisentzüge, die den Täter nicht von erneuter Tatbegehung abgehalten haben, indizieren eine ungünstige Prognose.
 
 **b) Fehlende Einsicht**
 
-Fehlende Einsicht in das begangene Unrecht kann eine Schlechtprognose rechtfertigen ([BGer 6B_1092/2023](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=6B_1092_2023) vom 24. Mai 2024, E. 5.1). Dies gilt insbesondere, wenn der Täter die Tat leugnet oder verharmlost.
+Fehlende Einsicht in das begangene Unrecht kann eine Schlechtprognose rechtfertigen ([BGer 6B_1092/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1092_2023) vom 24. Mai 2024, E. 5.1). Dies gilt insbesondere, wenn der Täter die Tat leugnet oder verharmlost.
 
 **c) Ermessensspielraum**
 
-Dem Sachgericht steht ein erheblicher Ermessensspielraum bei der Prognosebeurteilung zu ([BGE 145 IV 137](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_145_IV_137), E. 2.2). Das Bundesgericht greift nur bei offensichtlichem Ermessensmissbrauch ein.
+Dem Sachgericht steht ein erheblicher Ermessensspielraum bei der Prognosebeurteilung zu ([BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137), E. 2.2). Das Bundesgericht greift nur bei offensichtlichem Ermessensmissbrauch ein.
 
 ### IV. Qualifizierte Vorstrafe (Abs. 2)
 
@@ -74,9 +80,9 @@ Eine bedingte Strafe kann mit einer **Busse nach Art. 106 StGB** verbunden werde
 
 ### VI. Kasuistik
 
-**Geschwindigkeitsübertretung mit einschlägigen Vorstrafen:** Bei einer innerorts toleranzbereinigten Geschwindigkeitsübertretung von 36 km/h mit zwei früheren Verurteilungen und Führerausweisentzügen kann eine unbedingte Geldstrafe von 120 Tagessätzen ohne bedingten Vollzug gerechtfertigt sein. Die mangelnde Einsicht und die einschlägigen Vorstrafen rechtfertigen eine Schlechtprognose ([BGer 6B_1205/2023](https://www.bger.ch/ext/eurolex/index/6B_1205/2023) vom 30. April 2026, 5er-Besetzung).
+**Geschwindigkeitsübertretung mit einschlägigen Vorstrafen:** Bei einer innerorts toleranzbereinigten Geschwindigkeitsübertretung von 36 km/h mit zwei früheren Verurteilungen und Führerausweisentzügen kann eine unbedingte Geldstrafe von 120 Tagessätzen ohne bedingten Vollzug gerechtfertigt sein. Die mangelnde Einsicht und die einschlägigen Vorstrafen rechtfertigen eine Schlechtprognose ([BGer 6B_1205/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1205_2023) vom 30. April 2026, 5er-Besetzung).
 
-**Mehrere Vorstrafen:** Bereits unbedingte Geldstrafen, die den Täter nicht von erneuter Tatbegehung abgehalten haben, indizieren eine ungünstige Prognose. Bisherige Sanktionen haben ihre spezialpräventive Wirkung verfehlt ([BGE 135 IV 180](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_135_IV_180), E. 2.1).
+**Mehrere Vorstrafen:** Bereits unbedingte Geldstrafen, die den Täter nicht von erneuter Tatbegehung abgehalten haben, indizieren eine ungünstige Prognose. Bisherige Sanktionen haben ihre spezialpräventive Wirkung verfehlt ([BGE 135 IV 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_180), E. 2.1).
 
 ### VII. Abgrenzungen
 

@@ -2,10 +2,16 @@
 title: "Art. 46 — Widerruf der bedingten Strafe"
 weight: 46
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 46 StGB – Widerruf der bedingten Strafe und Gesamtstrafenbildung"
 tags: ["StGB", "Widerruf", "bedingte Strafe", "Probezeit", "Gesamtstrafe"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 46: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

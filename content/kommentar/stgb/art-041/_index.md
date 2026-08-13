@@ -2,10 +2,16 @@
 title: "Art. 41 — Freiheitsstrafe anstelle von Geldstrafe"
 weight: 41
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 41 StGB – Freiheitsstrafe anstelle von Geldstrafe"
 tags: ["StGB", "Freiheitsstrafe", "Geldstrafe", "Sanktionswahl", "Strafzumessung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 41: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

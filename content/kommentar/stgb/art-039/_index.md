@@ -2,10 +2,16 @@
 title: "Art. 39 — Umwandlung der gemeinnützigen Arbeit"
 weight: 39
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 39 StGB – Umwandlung der gemeinnützigen Arbeit"
 tags: ["StGB", "gemeinnützige Arbeit", "Umwandlung", "Sanktionsvollzug", "Freiheitsstrafe", "Geldstrafe"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 39: Aufhebungsvermerk hinzugefügt (Art. 37-39 seit 1.1.2018 aufgehoben); Gesetzestext verifiziert"
 ---
 
 ## Gesetzeswortlaut
@@ -15,6 +21,8 @@ agent_verified: true
 > **2** …
 >
 > **3** Freiheitsstrafe darf nur angeordnet werden, wenn zu erwarten ist, dass eine Geldstrafe nicht vollzogen werden kann.
+
+*⚠️ Art. 37–39 StGB sind seit dem 1. Januar 2018 aufgehoben (AS 2015 3447; BBl 2012 8897). Der vorliegende Kommentar bezieht sich auf den bisherigen Rechtszustand.*
 
 ## Kommentierung
 

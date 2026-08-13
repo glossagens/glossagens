@@ -2,10 +2,16 @@
 title: "Art. 22 — Versuch"
 weight: 22
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 22 StGB – Versuch"
 tags: ["StGB", "Versuch", "untauglicher Versuch", "Strafmilderung", "Allgemeiner Teil"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 22: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 
 ## Gesetzeswortlaut

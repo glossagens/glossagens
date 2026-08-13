@@ -1,16 +1,22 @@
 ---
-title: "Art. 20 — Begutachtung der Schuldfähigkeit"
+title: "Art. 20 — Zweifelhafte Schuldfähigkeit"
 weight: 20
 date: 2026-06-13
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 20 StGB – Begutachtung der Schuldfähigkeit durch Sachverständige"
+lastmod: "2026-08-13"
+description: "Kommentar zu Art. 20 StGB – Zweifelhafte Schuldfähigkeit: Begutachtung durch Sachverständige"
 tags: ["StGB", "Schuldfähigkeit", "Begutachtung", "Gutachten", "psychiatrisches Gutachten"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33: Art. 20: Kurztitel korrigiert (Begutachtung→Zweifelhafte Schuldfähigkeit); Gesetzestext via Fedlex verifiziert"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 20 StGB — Begutachtung der Schuldfähigkeit**
+> **Art. 20 StGB — Zweifelhafte Schuldfähigkeit**
 >
 > Besteht ernsthafter Anlass, an der Schuldfähigkeit des Täters zu zweifeln, so ordnet die Untersuchungsbehörde oder das Gericht die sachverständige Begutachtung durch einen Sachverständigen an.
 
