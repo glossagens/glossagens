@@ -2,10 +2,16 @@
 title: "Art. 95 ZPO — Begriffe (Prozesskosten)"
 weight: 95
 date: 2026-07-19
-lastmod: "2026-07-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 95 ZPO: Begriffe der Prozesskosten — Gerichtskosten, Parteientschädigung, Anwaltskosten, Umtriebsentschädigung."
 tags: ["ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Kostenbegriff"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 41 % (Urteil C); 2 von 17 Paaren gestützt; 5 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
