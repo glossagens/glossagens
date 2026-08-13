@@ -5,7 +5,13 @@ date: "2026-07-04"
 lastmod: "2026-07-04"
 description: "Kommentar zu Art. 133 StGB – Raufhandel"
 tags: ["StGB", "Raufhandel", "Körperverletzung", "abstraktes Gefährdungsdelikt"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut

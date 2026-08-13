@@ -2,10 +2,16 @@
 title: "Art. 106 StGB — Busse"
 weight: 106
 date: 2026-06-13
-lastmod: "2026-07-24"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 106 StGB – Busse: Höchstbetrag, Ersatzfreiheitsstrafe, Bemessung nach Verschulden und Leistungsfähigkeit, Verbindungsbusse sowie Vollzug."
 tags: ["StGB", "Busse", "Ersatzfreiheitsstrafe", "Sanktionen", "Strafzumessung", "Übertretungen", "Verbindungsbusse"]
 agent_verified: true
+revisions:
+  - date: '2026-08-13'
+    by: Hermes Agent
+    model: glm-5.1
+    mcp_verified: true
+    note: 'Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 106, Stand 12.6.2026) verifiziert; Links per curl geprüft; Frontmatter korrigiert.'
 ---
 
 ## Gesetzeswortlaut

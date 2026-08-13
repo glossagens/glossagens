@@ -2,10 +2,16 @@
 title: "Art. 77b StGB -- Halbgefangenschaft (Arbeit)"
 weight: 77
 date: 2026-05-17
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 77b StGB -- Halbgefangenschaft: Voraussetzungen, Begriff der Arbeit, Pensionäre, Vollzug und Leitentscheide"
 tags: ["StGB", "Halbgefangenschaft", "Arbeit", "Sanktionen", "Vollzug"]
 agent_verified: true
+revisions:
+  - date: '2026-08-13'
+    by: Hermes Agent
+    model: glm-5.1
+    mcp_verified: true
+    note: 'Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 77b, Stand 12.6.2026) verifiziert; Links per curl geprüft; Frontmatter korrigiert.'
 ---
 
 ## Gesetzeswortlaut

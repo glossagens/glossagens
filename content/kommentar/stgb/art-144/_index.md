@@ -5,7 +5,13 @@ date: "2026-07-04"
 lastmod: "2026-07-04"
 description: "Kommentar zu Art. 144 StGB – Sachbeschädigung: Grundtatbestand (Abs. 1, Antragdelikt), qualifizierte Begehungsweise bei Zusammenrottung (Abs. 2) und bei grossem Schaden (Abs. 3, von Amtes wegen)"
 tags: ["StGB", "Sachbeschädigung", "Eigentumsdelikt", "Antragdelikt", "unbrauchbar machen", "öffentliche Zusammenrottung", "grosser Schaden"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut

@@ -6,6 +6,12 @@ lastmod: "2026-07-17"
 description: "Übersicht der Entscheide zu Art. 125 StGB – Fahrlässige Körperverletzung"
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Sportunfall", "Strassenverkehr"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Leitentscheide (BGE)
@@ -88,7 +94,7 @@ agent_verified: false
 - **Einschlägig für**: Abs. 2, Aufsichtspflicht, Waffenrecht
 - **Link**: [BGE 128 IV 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_IV_49)
 
-### BGE 109 IV 18, E. 1 — Milzriss / lebensgefährlich
+### BGE 109 IV 18, E. 2 — Milzriss / lebensgefährlich
 - **Thema**: Schwere der Schädigung, lebensgefährliche Verletzung
 - **Kernaussage**: Ein Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode führt, ist eine lebensgefährliche und damit schwere Verletzung im Sinne von Art. 125 Abs. 2 StGB. Ob im konkreten Fall rasche medizinische Hilfe zur Stelle sei oder nicht, ist unerheblich.
 - **Einschlägig für**: Abs. 2, Schwere der Schädigung

@@ -6,6 +6,12 @@ lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 146 StGB – Betrug"
 tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Vorspiegelung", "Bereicherungsabsicht"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## I. Leitentscheide (BGE)

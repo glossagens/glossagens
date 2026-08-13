@@ -5,7 +5,17 @@ date: 2026-07-04
 lastmod: "2026-07-17"
 description: "Kommentar zu Art. 125 StGB – Fahrlässige Körperverletzung (einfache und schwere fahrlässige Körperverletzung, Sorgfaltspflichtverletzung, adäquate Kausalität, Strafantragsbedürftigkeit)"
 tags: ["StGB", "Fahrlässige Körperverletzung", "Fahrlässigkeit", "Kausalität", "Sorgfaltspflicht", "Sportunfall", "Strassenverkehr", "Ärztehaftung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 109 IV 18 E.1→E.2"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut
@@ -24,7 +34,7 @@ agent_verified: true
 
 **2** **Verhältnis zu Art. 117 StGB** Die Abgrenzung zwischen fahrlässiger Körperverletzung (Art. 125 StGB) und fahrlässiger Tötung (Art. 117 StGB) richtet sich nach dem eingetretenen Erfolg: Überlebt das Opfer die Verletzung, kommt Art. 125 StGB zur Anwendung; tritt der Tod ein, ist Art. 117 StGB erfüllt. Ist der Tod erst durch einen weiteren, späteren Kausalverlauf eingetreten, kann eine Körperverletzung weiterhin nach Art. 125 StGB zu beurteilen sein, sofern der ursprüngliche Verletzungserfolg selbständig verwirklicht wurde. Umgekehrt konsumiert eine Verurteilung wegen fahrlässiger Tötung das gleiche Geschehen hinsichtlich der Körperverletzung (Konsumtion).
 
-**3** **Schwere der Schädigung (Abs. 2)** Die Schwere der Schädigung im Sinne von Abs. 2 bestimmt sich nach den gleichen Kriterien wie bei der schweren Körperverletzung (Art. 122 StGB): lebensgefährliche Verletzung, Verstümmelung, bleibende Arbeitsunfähigkeit, arg und bleibend entstellendes Gesicht, andere schwere Schädigung. Ein Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode führt, ist eine lebensgefährliche und damit schwere Verletzung im Sinne von Art. 125 Abs. 2 StGB ([BGE 109 IV 18, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_109_IV_18#e-1)). Ob im konkreten Fall rasche medizinische Hilfe zur Stelle sei oder nicht, ist für die Qualifikation als lebensgefährlich unerheblich.
+**3** **Schwere der Schädigung (Abs. 2)** Die Schwere der Schädigung im Sinne von Abs. 2 bestimmt sich nach den gleichen Kriterien wie bei der schweren Körperverletzung (Art. 122 StGB): lebensgefährliche Verletzung, Verstümmelung, bleibende Arbeitsunfähigkeit, arg und bleibend entstellendes Gesicht, andere schwere Schädigung. Ein Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode führt, ist eine lebensgefährliche und damit schwere Verletzung im Sinne von Art. 125 Abs. 2 StGB ([BGE 109 IV 18, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_109_IV_18#e-1)). Ob im konkreten Fall rasche medizinische Hilfe zur Stelle sei oder nicht, ist für die Qualifikation als lebensgefährlich unerheblich.
 
 ---
 

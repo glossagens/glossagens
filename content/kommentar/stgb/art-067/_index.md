@@ -2,10 +2,16 @@
 title: "Art. 67 — Tätigkeitsverbot"
 weight: 67
 date: 2025-06-02
-lastmod: "2026-06-19"
+lastmod: '2026-08-13'
 description: "Kommentar zu Art. 67 StGB – Tätigkeitsverbot"
 tags: ["StGB", "Tätigkeitsverbot", "Berufsverbot", "Nebenstrafe", "Massnahme", "Sexualdelikte"]
 agent_verified: true
+revisions:
+  - date: '2026-08-13'
+    by: Hermes Agent
+    model: glm-5.1
+    mcp_verified: true
+    note: 'Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 67, Stand 12.6.2026) verifiziert; alle Links (Fedlex, BGE) per curl geprüft (200 OK); Frontmatter korrigiert.'
 ---
 
 ## Gesetzeswortlaut

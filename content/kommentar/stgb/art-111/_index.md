@@ -2,11 +2,16 @@
 title: "Art. 111 StGB — Vorsätzliche Tötung"
 weight: 111
 date: 2026-08-11
-lastmod: "2026-08-11"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 111 StGB: Vorsätzliche Tötung (Totschlag), Grunddelikt der vorsätzlichen Tötung, Tatbestandsmerkmale, Eventualvorsatz, Abgrenzung zum Mord (Art. 112), Totschlag aus entschuldbarer heftiger Gemütsbewegung (Art. 113), Versuch, Teilnahme, Strafzumessung."
 tags: ["Totschlag", "vorsätzliche Tötung", "StGB", "Mord", "Tötungsdelikte", "Vorsatz", "Eventualvorsatz", "Kausalität"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 111, Stand 12.6.2026) verifiziert; agent_verified auf true gesetzt; Frontmatter korrigiert."
   - date: 2026-08-11
     by: "Hermes Agent"
     model: "glm-5.1"

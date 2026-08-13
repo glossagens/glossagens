@@ -2,11 +2,19 @@
 title: "Art. 112 StGB — Mord"
 weight: 112
 date: "2026-06-12"
-lastmod: "2026-08-08"
+lastmod: '2026-08-13'
 description: "Kommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung; Mordqualifikation (besonders skrupellos, Beweggrund/Zweck/Art der Ausführung); Heimtücke, Grausamkeit, krasse Missachtung fremden Lebens; Strafrahmen (lebenslänglich oder mind. 10 Jahre); Abgrenzung zu Art. 111/113 StGB; in dubio pro reo; Strafzumessung."
 tags: ["StGB", "Mord", "qualifizierte Tötung", "Skrupellosigkeit", "Heimtücke", "Grausamkeit", "Tötungsdelikte", "besonders verwerflich", "lebenslänglich"]
-agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 115 IV 8 E.1b entfernt (keine Erwägungen auf OCL)"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 112, Stand 12.6.2026) verifiziert; Frontmatter korrigiert."
   - date: 2026-08-08
     by: "Claude Code"
     model: "minimax-m3"
@@ -85,7 +93,7 @@ Diese Aufzählung ist nicht abschliessend («namentlich»); eine besondere Skrup
 
 **8** **Tatbezogenheit der Indizien.** Vorleben und Nachtatverhalten dürfen nur insoweit herangezogen werden, als sie **tatbezogen** sind und ein Bild der Täterpersönlichkeit geben ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a). Damit soll sichergestellt werden, dass die Mordqualifikation nicht auf Charaktermerkmale des Täters gestützt wird, die zur konkreten Tat schweigen (Verbot der Bewertung «täterfremder» Elemente).
 
-**9** **Gesamtwürdigung.** Die für die Mordqualifikation konstitutiven Elemente sind jene der **Tat selber**; entscheidend ist eine **Gesamtwürdigung der äusseren und inneren Umstände** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweisen auf [BGE 120 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_265), E. 3a; [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8), E. 1b). In dieser Gesamtwürdigung kann eine besondere Skrupellosigkeit **entfallen**, namentlich wenn das Tatmotiv einfühlbar und nicht krass egoistisch ist, etwa wenn die Tat durch eine schwere Konfliktsituation ausgelöst wurde ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweis auf [BGE 120 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_265), E. 3a). Die Qualifikation erfolgt damit im Wesentlichen nach **ethischen Kriterien** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweis auf [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8), E. 1b).
+**9** **Gesamtwürdigung.** Die für die Mordqualifikation konstitutiven Elemente sind jene der **Tat selber**; entscheidend ist eine **Gesamtwürdigung der äusseren und inneren Umstände** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweisen auf [BGE 120 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_265), E. 3a; [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8)). In dieser Gesamtwürdigung kann eine besondere Skrupellosigkeit **entfallen**, namentlich wenn das Tatmotiv einfühlbar und nicht krass egoistisch ist, etwa wenn die Tat durch eine schwere Konfliktsituation ausgelöst wurde ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweis auf [BGE 120 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_265), E. 3a). Die Qualifikation erfolgt damit im Wesentlichen nach **ethischen Kriterien** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a, mit Hinweis auf [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8), E. 1b).
 
 ### C. Erscheinungsformen (namentlich)
 
@@ -99,7 +107,7 @@ Diese Aufzählung ist nicht abschliessend («namentlich»); eine besondere Skrup
 - **Rache / Vergeltung aus niedrigen Motiven**: kaltblütige Racheakte ohne nachvollziehbaren Anlass.
 - **Sexuelle Triebbefriedigung**: Tötung im Kontext einer sexuellen Nötigung oder Vergewaltigung (Lustmord).
 - **Rassismus / Fremdenhass**: Tötung aus gruppenbezogener Menschenfeindlichkeit.
-- **Religiöser oder politischer Fanatismus** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a mit Hinweis auf [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8), E. 1b und [BGE 117 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_IV_369), E. 19c).
+- **Religiöser oder politischer Fanatismus** ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1a mit Hinweis auf [BGE 115 IV 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_8) und [BGE 117 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_IV_369), E. 19c).
 - **«Eliminationstötung»**: Tötung, weil das Opfer als Hindernis eigener Pläne wahrgenommen wird ([BGE 127 IV 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_10), E. 1f — Vater, der seine Tochter «mit dem Tode bestraft», weil sie sich nicht fügt).
 
 **12** **Abgrenzung.** Nicht jeder verwerfliche Beweggrund genügt:

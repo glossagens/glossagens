@@ -6,6 +6,16 @@ lastmod: "2026-06-19"
 description: "Kommentar zu Art. 117 StGB: Tatbestand der fahrlässigen Tötung, Sorgfaltspflichtverletzung, Kausalzusammenhang, Garantenstellung bei Unterlassen."
 tags: ["Fahrlässige Tötung", "Sorgfaltspflicht", "Kausalzusammenhang", "Garantenstellung", "StGB"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 134 IV 53 E.4.2→E.5.2"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut
@@ -13,6 +23,8 @@ agent_verified: false
 > **Art. 117 StGB — Fahrlässige Tötung**
 >
 > Wer fahrlässig den Tod eines Menschen verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+>
+> *Quelle: Fedlex (SR 311.0), Stand 12.6.2026*
 
 
 ## Vorbemerkungen
@@ -77,7 +89,7 @@ agent_verified: false
 
 **18** **Konkurrenz** Trifft Gefährdung des Lebens (Art. 129 StGB) mit fahrlässiger Tötung zusammen, weil der Täter direktvorsätzlich das Leben des Opfers gefährdet und dieses in der Folge stirbt, so ist echte Konkurrenz anzunehmen: Der Täter wird sowohl nach Art. 129 als auch nach Art. 117 StGB bestraft, sofern er die Todesfolge bei pflichtgemässem Nachdenken hätte vorhersehen können ([BGE 136 IV 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_76), E. 2). Körperverletzung mit Todesfolge (Art. 117 StGB i.V.m. Art. 125 StGB) tritt in Idealkonkurrenz zu Art. 117 StGB, wenn der Täter den Tod durch eine fahrlässige Körperverletzungshandlung herbeiführt.
 
-**19** **Strafrahmen und Strafzumessung** Art. 117 StGB sieht Freiheitsstrafe bis zu drei Jahren oder Geldstrafe vor. Es gelten die allgemeinen Strafzumessungsregeln (Art. 47 ff. StGB). Ist der Täter durch die unmittelbaren Folgen der Tat schwer betroffen — etwa weil das Opfer ein naher Angehöriger ist —, so ist die Strafe nach Art. 54 StGB zu mildern, wenn ein Verzicht auf Strafe nicht angemessen erscheint ([BGE 119 IV 280](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_280), E. 1a). Das Bundesgericht überprüft Strafzumessungsentscheide mit Zurückhaltung und greift nur ein, wenn das Gericht massgebliche Kriterien ausser Acht gelassen oder unzulässigerweise gewichtet hat ([BGE 134 IV 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_53), E. 4.2).
+**19** **Strafrahmen und Strafzumessung** Art. 117 StGB sieht Freiheitsstrafe bis zu drei Jahren oder Geldstrafe vor. Es gelten die allgemeinen Strafzumessungsregeln (Art. 47 ff. StGB). Ist der Täter durch die unmittelbaren Folgen der Tat schwer betroffen — etwa weil das Opfer ein naher Angehöriger ist —, so ist die Strafe nach Art. 54 StGB zu mildern, wenn ein Verzicht auf Strafe nicht angemessen erscheint ([BGE 119 IV 280](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_280), E. 1a). Das Bundesgericht überprüft Strafzumessungsentscheide mit Zurückhaltung und greift nur ein, wenn das Gericht massgebliche Kriterien ausser Acht gelassen oder unzulässigerweise gewichtet hat ([BGE 134 IV 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_53), E. 5.2).
 
 **20** **Rechtsmittel** Gegen erstinstanzliche Urteile ist Berufung an das kantonale Obergericht (Art. 398 ff. StPO) zulässig, gegen zweitinstanzliche Urteile Beschwerde in Strafsachen an das Bundesgericht (Art. 78 ff. BGG). Die Sachverhaltsfeststellung überprüft das Bundesgericht nur auf Willkür (Art. 97 Abs. 1 BGG); die Abgrenzung Eventualvorsatz / Fahrlässigkeit und die hypothetische Kausalität bei Unterlassen sind Tatfragen, die vor Bundesgericht nur beschränkt gerügt werden können.
 

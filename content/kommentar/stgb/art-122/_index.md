@@ -5,7 +5,17 @@ date: 2026-05-16
 lastmod: "2026-06-19"
 description: "Kommentar zu Art. 122 StGB – Schwere Körperverletzung (lebensgefährliche Verletzung, Verstümmelung, bleibende Arbeitsunfähigkeit, arg entstellendes Gesicht, andere schwere Schädigung)"
 tags: ["StGB", "Schwere Körperverletzung", "Körperverletzung", "Versuch", "Notwehr", "Notwehrexzess", "Strafzumessung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Attest-Audit KW33: BGE 135 IV 152 E.3→E.2.3.2; BGE 125 IV 242 E.3a/E.3b→E.3; BGE 149 IV 395 E.3.6.1→E.3.4"
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut
@@ -21,15 +31,15 @@ agent_verified: true
 
 **1** Art. 122 StGB regelt die schwere Körperverletzung als qualifizierte Form der einfachen Körperverletzung (Art. 123 StGB). Die Bestimmung steht im Dreizehnten Titel des Zweiten Buches des StGB («Straftaten gegen Leib und Leben») und bildet zusammen mit Art. 111–118 StGB (Tötungsdelikte) und Art. 123–125 StGB (einfache und fahrlässige Körperverletzung) den Kernbestand der Delikte gegen die körperliche Integrität.
 
-**2** **Qualifizierungsgründe** Art. 122 StGB kennt drei Alternativen qualifizierter Körperverletzung: die lebensgefährliche Verletzung (lit. a), die Verstümmelung und die gleichgestellten Folgen (lit. b) sowie die andere schwere Schädigung (lit. c). Die drei Alternativen setzen eine vorsätzliche Herbeiführung der jeweiligen Folge voraus;.Eventualdolus genügt ([BGE 125 IV 242, E. 3a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3a); [BGE 131 IV 1, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-2-1)).
+**2** **Qualifizierungsgründe** Art. 122 StGB kennt drei Alternativen qualifizierter Körperverletzung: die lebensgefährliche Verletzung (lit. a), die Verstümmelung und die gleichgestellten Folgen (lit. b) sowie die andere schwere Schädigung (lit. c). Die drei Alternativen setzen eine vorsätzliche Herbeiführung der jeweiligen Folge voraus;.Eventualdolus genügt ([BGE 125 IV 242, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3); [BGE 131 IV 1, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-2-1)).
 
 ---
 
 ## Lit. a — Lebensgefährliche Verletzung
 
-**3** **Begriff** Eine lebensgefährliche Verletzung liegt vor, wenn die Verletzung nach ihrer Art und Schwere geeignet ist, das Leben des Opfers zu gefährden. Massgeblich ist eine objektive Betrachtungsweise: Es kommt darauf an, ob die Verletzung nach ihrem objektiven Erscheinungsbild geeignet ist, den Tod herbeizuführen ([BGE 125 IV 242, E. 3a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3a)). Nicht erforderlich ist, dass der Tod tatsächlich eintritt; auch nicht erforderlich ist, dass der Tod nur wegen rechtzeitiger ärztlicher Hilfe abgewendet wurde.
+**3** **Begriff** Eine lebensgefährliche Verletzung liegt vor, wenn die Verletzung nach ihrer Art und Schwere geeignet ist, das Leben des Opfers zu gefährden. Massgeblich ist eine objektive Betrachtungsweise: Es kommt darauf an, ob die Verletzung nach ihrem objektiven Erscheinungsbild geeignet ist, den Tod herbeizuführen ([BGE 125 IV 242, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3)). Nicht erforderlich ist, dass der Tod tatsächlich eintritt; auch nicht erforderlich ist, dass der Tod nur wegen rechtzeitiger ärztlicher Hilfe abgewendet wurde.
 
-**4** **HIV-Infektion** Die Übertragung des HI-Virus durch ungeschützten Sexualkontakt erfüllt den Tatbestand der lebensgefährlichen Körperverletzung. Die HIV-Infektion ist schon als solche objektiv eine schwere (lebensgefährliche) Körperverletzung im Sinne von Art. 122 Abs. 1 lit. a StGB ([BGE 125 IV 242, E. 3a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3a); [BGE 131 IV 1, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-2-1)). Der Vorsatz bezüglich der HIV-Übertragung kann auch in Eventualdolus bestehen, wenn die beschuldigte Person ihre HIV-Infektion kennt und trotzdem ungeschützten Sexualkontakt hat ([BGE 131 IV 1, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-3)).
+**4** **HIV-Infektion** Die Übertragung des HI-Virus durch ungeschützten Sexualkontakt erfüllt den Tatbestand der lebensgefährlichen Körperverletzung. Die HIV-Infektion ist schon als solche objektiv eine schwere (lebensgefährliche) Körperverletzung im Sinne von Art. 122 Abs. 1 lit. a StGB ([BGE 125 IV 242, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3); [BGE 131 IV 1, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-2-1)). Der Vorsatz bezüglich der HIV-Übertragung kann auch in Eventualdolus bestehen, wenn die beschuldigte Person ihre HIV-Infektion kennt und trotzdem ungeschützten Sexualkontakt hat ([BGE 131 IV 1, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_1#e-3)).
 
 ---
 
@@ -37,7 +47,7 @@ agent_verified: true
 
 **5** **Verstümmelung** Eine Verstümmelung liegt vor, wenn ein wichtiges Organ oder Glied des Körpers in seiner Substanz oder Funktion dauerhaft beeinträchtigt wird. Die Beeinträchtigung muss erheblich sein; geringfügige Verletzungen genügen nicht.
 
-**6** **Bleibende Arbeitsunfähigkeit** Die bleibende Arbeitsunfähigkeit setzt eine dauerhafte Einbusse der Arbeitsfähigkeit voraus. Massgeblich ist die allgemeine Arbeitsfähigkeit, nicht die Arbeitsfähigkeit in einem bestimmten Beruf ([BGE 125 IV 242, E. 3b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3b)).
+**6** **Bleibende Arbeitsunfähigkeit** Die bleibende Arbeitsunfähigkeit setzt eine dauerhafte Einbusse der Arbeitsfähigkeit voraus. Massgeblich ist die allgemeine Arbeitsfähigkeit, nicht die Arbeitsfähigkeit in einem bestimmten Beruf ([BGE 125 IV 242, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_242#e-3)).
 
 **7** **Arg und bleibend entstellendes Gesicht** Das Tatbestandsmerkmal des arg und bleibend entstellten Gesichts erfordert eine erhebliche und dauerhafte Entstellung, die auch bei objektiver Betrachtung als arg empfunden wird. Die Entstellung muss das äussere Erscheinungsbild des Gesichts erheblich beeinträchtigen.
 
@@ -71,7 +81,7 @@ agent_verified: true
 
 ## Konkurrenzen
 
-**15** Eine Konkurrenz zwischen Art. 134 StGB (Angriff) und den Art. 122 ff. StGB (Körperverletzung) kommt nur in Betracht, wenn eine andere als die beim Angriff getötete oder verletzte Person in Gefahr gebracht wurde ([BGE 135 IV 152, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_152#e-3)). Bezüglich derselben Person stehen Angriff und Körperverletzung zueinander im Verhältnis der Spezialität.
+**15** Eine Konkurrenz zwischen Art. 134 StGB (Angriff) und den Art. 122 ff. StGB (Körperverletzung) kommt nur in Betracht, wenn eine andere als die beim Angriff getötete oder verletzte Person in Gefahr gebracht wurde ([BGE 135 IV 152, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_152#e-2-3-2)). Bezüglich derselben Person stehen Angriff und Körperverletzung zueinander im Verhältnis der Spezialität.
 
 ---
 
@@ -81,7 +91,7 @@ agent_verified: true
 
 **17** **Doppelverwertungsverbot** Umstände, die zur Anwendung eines höheren oder tieferen Strafrahmens führen, dürfen innerhalb des geänderten Strafrahmens nicht noch einmal als Straferhöhungs- oder Strafminderungsgrund berücksichtigt werden ([BGE 142 IV 14, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_14#e-5-4) mit Hinweisen). Strafzumessungselemente dürfen nicht doppelt verwertet werden ([BGer 6B_622/2025, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_622_2025#e-2-3-2)).
 
-**18** **Ermessensspielraum** Dem Sachgericht steht bei der Gewichtung der Strafzumessungsfaktoren ein erheblicher Ermessensspielraum zu. Das Bundesgericht greift nur ein, wenn der gesetzliche Strafrahmen über- oder unterschritten wurde, rechtlich nicht massgebende Kriterien herangezogen wurden oder wesentliche Gesichtspunkte ausser Acht gelassen wurden ([BGE 149 IV 395, E. 3.6.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_395#e-3-6-1); [BGE 149 IV 217, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_217#e-1-1)).
+**18** **Ermessensspielraum** Dem Sachgericht steht bei der Gewichtung der Strafzumessungsfaktoren ein erheblicher Ermessensspielraum zu. Das Bundesgericht greift nur ein, wenn der gesetzliche Strafrahmen über- oder unterschritten wurde, rechtlich nicht massgebende Kriterien herangezogen wurden oder wesentliche Gesichtspunkte ausser Acht gelassen wurden ([BGE 149 IV 395, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_395#e-3-4); [BGE 149 IV 217, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_217#e-1-1)).
 
 ---
 

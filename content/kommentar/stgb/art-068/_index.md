@@ -2,10 +2,16 @@
 title: "Art. 68 — Veröffentlichung des Urteils"
 weight: 68
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 68 StGB – Veröffentlichung des Urteils"
 tags: ["StGB", "Veröffentlichung", "Publikation", "Nebenstrafe", "Urteil"]
 agent_verified: true
+revisions:
+  - date: '2026-08-13'
+    by: Hermes Agent
+    model: glm-5.1
+    mcp_verified: true
+    note: 'Audit: Gesetzeswortlaut via Fedlex MCP (RS 311.0 Art. 68, Stand 12.6.2026) verifiziert; Links geprüft; Frontmatter korrigiert.'
 ---
 
 ## Gesetzeswortlaut

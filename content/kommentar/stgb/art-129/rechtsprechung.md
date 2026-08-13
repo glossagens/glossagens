@@ -5,7 +5,13 @@ date: 2026-05-16
 lastmod: 2026-08-08
 description: "Rechtsprechungsübersicht zu Art. 129 StGB — Gefährdung des Lebens"
 tags: ["Rechtsprechung", "StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Abgrenzung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 # Rechtsprechung zu Art. 129 StGB — Gefährdung des Lebens

@@ -5,7 +5,13 @@ date: 2026-07-17
 lastmod: 2026-07-17
 description: "Kommentar zu Art. 134 StGB — Angriff: Beteiligung an einem Angriff mit Tod oder Körperverletzung als Folge, Abgrenzung zum Raufhandel (Art. 133), Konkurrenzverhältnis zu Tötungs- und Körperverletzungsdelikten"
 tags: ["StGB", "Angriff", "Raufhandel", "Körperverletzung", "Konkurrenz", "Mittäterschaft"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Wortlaut

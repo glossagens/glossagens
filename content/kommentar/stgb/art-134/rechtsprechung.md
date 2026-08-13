@@ -5,7 +5,13 @@ date: 2026-07-17
 lastmod: 2026-07-17
 description: "Übersicht der massgeblichen Entscheide zu Art. 134 StGB (Angriff)"
 tags: ["Rechtsprechung", "StGB", "Angriff", "Raufhandel", "Konkurrenz", "Mittäterschaft"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Fokusentscheid

@@ -5,7 +5,13 @@ date: "2026-07-04"
 lastmod: "2026-07-04"
 description: "Kommentar zu Art. 138 StGB – Veruntreuung: Grundtatbestand (Ziff. 1: Aneignung anvertrauter Sachen / Verwendung anvertrauter Vermögenswerte), Qualifikation (Ziff. 2: behördliche Funktion / bewilligter Beruf), Strafantragsdepot"
 tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "anvertraut", "Qualifikation"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut

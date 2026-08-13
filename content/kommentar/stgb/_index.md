@@ -6,14 +6,19 @@ kuerzel: "StGB"
 gesetz_name: "Schweizerisches Strafgesetzbuch"
 weight: 17
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: '2026-08-13'
 description: Kommentierte Artikel zum Schweizerisches Strafgesetzbuch (StGB, SR 311.0, vom 21. Dezember 1937).
 tags:
 - StGB
 - Strafrecht
 - Strafgesetzbuch
-agent_verified: false
+agent_verified: true
 revisions:
+- date: '2026-08-13'
+  by: Hermes Agent
+  model: glm-5.1
+  mcp_verified: true
+  note: Audit Art. 067-112; Gesetzeswortlaut via Fedlex MCP verifiziert; Links per curl geprüft; Frontmatter korrigiert.
 - date: '2026-08-10'
   by: Claude Code
   model: minimax-m3
