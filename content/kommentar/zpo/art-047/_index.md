@@ -2,10 +2,16 @@
 title: "Art. 47 ZPO — Ausstandsgründe"
 weight: 47
 date: "2026-05-15"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 47 ZPO: Ausstandsgründe, Generalklausel, Befangenheit, personenbezogene Substanziierungspflicht, Vergleichsverhandlung, nebenamtliche Richter."
 tags: ["Ausstand", "Befangenheit", "Richter", "Unparteilichkeit", "ZPO"]
 agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 29 % (Urteil C); 5 von 45 Paaren gestützt; 24 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Art. 47 ZPO
