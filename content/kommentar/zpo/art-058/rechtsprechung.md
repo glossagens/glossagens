@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 58 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-09"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 58 ZPO — Dispositions- und Offizialgrundsatz, Parteiherrschaft, Untersuchungsmaxime."
 tags: ["Rechtsprechung", "ZPO", "Dispositionsgrundsatz", "Offizialgrundsatz", "Untersuchungsmaxime"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 21 % (Urteil C); 9 von 64 Paaren gestützt; 46 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Rechtsprechung zu Art. 58 ZPO

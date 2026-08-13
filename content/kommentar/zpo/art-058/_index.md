@@ -2,11 +2,16 @@
 title: "Art. 58 — Dispositions- und Offizialgrundsatz"
 weight: 58
 date: 2026-07-17
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 58 ZPO: Dispositions- und Offizialgrundsatz; Bindung des Gerichts an Parteianträge; Ausnahmen durch gesetzliche Offizialmaximen; Auswirkungen auf Kindesunterhalt und nachheblichen Unterhalt."
 tags: ["ZPO", "Zivilprozessordnung", "Dispositionsgrundsatz", "Offizialgrundsatz", "Prozessmaximen", "Parteianträge", "Bezifferung", "Unterhalt"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 21 % (Urteil C); 9 von 64 Paaren gestützt; 46 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
