@@ -2,10 +2,16 @@
 title: "Art. 310 ZPO — Berufungsgründe"
 weight: 310
 date: 2026-07-19
-lastmod: "2026-07-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 310 ZPO: Die Berufungsgründe — unrichtige Rechtsanwendung, unrichtige Sachverhaltsfeststellung, uneingeschränkte Kognition."
 tags: ["ZPO", "Berufung", "Berufungsgründe", "Rechtsmittel", "Kognition"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 3 von 13 Paaren gestützt; 7 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
