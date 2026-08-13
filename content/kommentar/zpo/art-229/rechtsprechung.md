@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 229 ZPO"
 weight: 2
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 229 ZPO — Hauptverhandlung, mündliche Verhandlung, Beweiserhebung."
 tags: ["Rechtsprechung", "ZPO", "Hauptverhandlung", "mündliche Verhandlung", "Beweiserhebung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 1 von 21 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 229 ZPO
