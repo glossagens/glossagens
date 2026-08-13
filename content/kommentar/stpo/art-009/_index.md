@@ -2,10 +2,16 @@
 title: "Art. 9 — Anklagegrundsatz"
 weight: 9
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 9 StPO: Anklagegrundsatz als Voraussetzung der gerichtlichen Beurteilung — Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot, Konnexität und Ausnahmen."
 tags: ["Anklagegrundsatz", "Akkusationsprinzip", "Staatsanwaltschaft", "Strafbefehl", "Übertretung", "Konnexität", "Bestimmtheitsgebot"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

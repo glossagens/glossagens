@@ -2,10 +2,16 @@
 title: "Art. 6 — Untersuchungsgrundsatz"
 weight: 6
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 6 StPO: Untersuchungsgrundsatz — Amtsaufklärungspflicht, beidseitige Untersuchung belastender und entlastender Umstände, Grenzen und Rechtsfolgen."
 tags: ["Untersuchungsgrundsatz", "Amtsaufklärung", "Belastung", "Entlastung", "Inquisitionsmaxime", "Beweiswürdigung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

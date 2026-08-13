@@ -2,10 +2,16 @@
 title: "Art. 11 StPO — Verbot der doppelten Strafverfolgung"
 weight: 11
 date: "2026-05-09"
-lastmod: "2026-08-08"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 11 StPO: Ne-bis-in-idem-Grundsatz, sachliche und rechtliche Identität, Sperrwirkung, Teileinstellung, Wiederaufnahme und transnationales ne bis in idem."
 tags: ["ne bis in idem", "doppelte Strafverfolgung", "Tatidentität", "Sperrwirkung", "Lebenssachverhalt", "Rechtskraft", "Wiederaufnahme"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

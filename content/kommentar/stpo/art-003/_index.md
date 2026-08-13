@@ -2,10 +2,16 @@
 title: "Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot"
 weight: 3
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 3 StPO: Achtung der Menschenwürde, Grundsatz von Treu und Glauben, Verbot des Rechtsmissbrauchs, rechtliches Gehör und Verbot menschenwürdeverletzender Beweiserhebungsmethoden."
 tags: ["Menschenwürde", "Fairnessgebot", "Treu und Glauben", "Rechtsmissbrauch", "rechtliches Gehör", "Beweisverwertungsverbot", "Beweiserhebungsverbot"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 16 — Staatsanwaltschaft"
 weight: 16
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 16 StPO – Staatsanwaltschaft: Verantwortung für die gleichmässige Durchsetzung des staatlichen Strafanspruchs, Leitung des Vorverfahrens, Anklageerhebung und Anklagevertretung, dogmatische Grundlagen des Legalitäts- und Opportunitätsprinzips."
 tags: ["StPO", "Staatsanwaltschaft", "Vorverfahren", "Anklage", "Legalitätsprinzip", "Strafverfolgungsbehörden", "Verfahrensleitung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

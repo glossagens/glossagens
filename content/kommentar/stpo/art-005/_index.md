@@ -2,10 +2,16 @@
 title: "Art. 5 StPO — Beschleunigungsgebot"
 weight: 5
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 5 StPO: Pflicht zur unverzüglichen Verfahrensdurchführung und verschärftes Beschleunigungsgebot bei Haft."
 tags: ["Beschleunigungsgebot", "Haftverfahren", "Verfahrensdauer", "Recht auf zeitgerechtes Verfahren", "Untersuchungshaft", "Strafminderung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

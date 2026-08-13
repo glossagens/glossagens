@@ -2,10 +2,16 @@
 title: "Art. 4 StPO — Unabhängigkeit"
 weight: 4
 date: "2026-05-09"
-lastmod: "2026-07-12"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 4 StPO: Unabhängigkeit der Strafbehörden bei der Rechtsanwendung."
 tags: ["Unabhängigkeit", "Gewaltentrennung", "Weisungsbefugnis", "Rechtsanwendung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

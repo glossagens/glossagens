@@ -2,10 +2,16 @@
 title: "Art. 14 — Bezeichnung und Organisation der Strafbehörden"
 weight: 14
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 14 StPO – Bezeichnung und Organisation der Strafbehörden: Kompetenzverteilung zwischen Bund und Kantonen bei der Ausgestaltung der Strafverfolgungsbehörden, organisatorische Gestaltungsfreiheit, Ober- und Generalstaatsanwaltschaften, Aufsicht über Strafbehörden."
 tags: ["StPO", "Strafbehörden", "Organisation", "Bund-Kanton-Kompetenzverteilung", "Aufsicht", "Behördenorganisation"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

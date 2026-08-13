@@ -2,10 +2,16 @@
 title: "Art. 8 StPO — Verzicht auf Strafverfolgung"
 weight: 8
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 8 StPO: Opportunitätsprinzip und Einstellung bei Geringfügigkeit oder ausländischer Verfolgung."
 tags: ["Opportunitätsprinzip", "Einstellung", "Verzicht", "Privatklägerschaft", "Ausländische Verfolgung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

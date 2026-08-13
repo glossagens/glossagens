@@ -2,10 +2,16 @@
 title: "Art. 2 StPO — Ausübung der Strafrechtspflege"
 weight: 2
 date: "2026-05-09"
-lastmod: "2026-07-12"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 2 StPO: Monopol der gesetzlich bestimmten Behörden auf Strafrechtspflege und Gesetzlichkeit des Verfahrens."
 tags: ["Strafrechtspflege", "Gesetzmässigkeit", "Verfahrensform", "Legalitätsprinzip"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

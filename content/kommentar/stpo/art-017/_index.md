@@ -2,10 +2,16 @@
 title: "Art. 17 StPO — Übertretungsstrafbehörden"
 weight: 17
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 17 StPO – Übertretungsstrafbehörden; Übertragung der Verfolgung und Beurteilung von Übertretungen an Verwaltungsbehörden, Zusammenhang mit Verbrechen und Vergehen."
 tags: ["StPO", "Übertretungsstrafbehörden", "Verwaltungsbehörden", "Strafbefehlsverfahren", "Zuständigkeit", "Übertretungen"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

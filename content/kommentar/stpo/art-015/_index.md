@@ -2,10 +2,16 @@
 title: "Art. 15 — Polizei"
 weight: 15
 date: 2026-07-11
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 15 StPO – Polizei: Aufgaben der Polizei im Strafverfahren, Unterstellung unter Staatsanwaltschaft, Abgrenzung zwischen strafprozessualer und sicherheitspolizeilicher Tätigkeit, Weisungsbefugnis des Gerichts."
 tags: ["StPO", "Polizei", "Strafverfolgungsbehörden", "Ermittlung", "Aufsichtspflicht", "Anfangsverdacht", "Polizeirapport", "Abgrenzung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

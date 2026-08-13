@@ -2,10 +2,16 @@
 title: "Art. 10 — Unschuldsvermutung und Beweiswürdigung"
 weight: 10
 date: "2026-05-10"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 10 StPO – Unschuldsvermutung und Beweiswürdigung"
 tags: ["StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "Beweislast", "Beweismass", "Willkürkontrolle", "Glaubhaftigkeitsgutachten"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

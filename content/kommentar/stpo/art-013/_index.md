@@ -2,10 +2,16 @@
 title: "Art. 13 — Gerichte"
 weight: 13
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 13 StPO – Gerichte: Aufzählung der gerichtlichen Befugnisse im Strafverfahren (Zwangsmassnahmengericht, erstinstanzliches Gericht, Beschwerdeinstanz, Berufungsgericht), dogmatische Grundlagen der Gerichtsorganisation und des verfassungsmässigen Richters."
 tags: ["StPO", "Gerichte", "Zwangsmassnahmengericht", "Berufungsgericht", "Beschwerdeinstanz", "verfassungsmässiger Richter", "Ausstand"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut
