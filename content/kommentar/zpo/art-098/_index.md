@@ -2,10 +2,16 @@
 title: "Art. 98 ZPO — Kostenvorschuss"
 weight: 98
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 98 ZPO: Kostenvorschuss — Voraussetzungen, Höhe, Folgen der Nichtleistung, Revision 2023 (Praxistauglichkeit)."
 tags: ["ZPO", "Kostenvorschuss", "Gerichtskosten", "Prozessvoraussetzung", "Revision 2023"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 2 von 26 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 ## Gesetzeswortlaut
