@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 57 ZPO"
 weight: 2
 date: 2026-08-08
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz."
-tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime"]
+description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Rügeprinzip, Dispositionsmaxime und Verhandlungsmaxime, Verhältnis zum rechtlichen Gehör."
+tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Rügeprinzip", "Dispositionsmaxime"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 19 %, Urteil C, 0 von 42 Paaren gestützt): Belegapparat verworfen; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; die 19 Einträge der alten Fassung bestanden aus einem Sachgebiets-Label und einer den Entscheiden nicht entnehmbaren iura-novit-curia-Glosse"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -14,82 +19,82 @@ revisions:
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 von 42 Paaren gestützt; 26 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
-## Rechtsprechung zu Art. 57 ZPO
+# Rechtsprechung zu Art. 57 ZPO
 
-Art. 57 ZPO statuiert den Grundsatz *iura novit curia*: Das Gericht wendet das Recht von Amtes wegen an. Die nachstehende Übersicht fasst die massgebliche Rechtsprechung zur Rechtsanwendung von Amtes wegen, ihren Grenzen und ihrem Verhältnis zur Verhandlungsmaxime und zum Dispositionsgrundsatz zusammen.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt. Art. 57 ZPO wird
+in der Rechtsprechung fast durchwegs von seinen **Grenzen** her behandelt — die Norm selbst
+ist unbestritten, streitig ist jeweils, wie weit sie reicht.
 
-### [BGE 139 III 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_126) (25.2.2013)
+## I. Gehalt der Norm
 
-Materielle Rechtskraft; Identität von prozessualen Ansprüchen. Das Bundesgericht präzisiert, dass die Identität von prozessualen Ansprüchen sich nach den Klageanträgen und dem behaupteten Lebenssachverhalt beurteilt. Das Gericht wendet von Amtes wegen das richtige Recht auf den festgestellten Sachverhalt an; die rechtliche Qualifikation durch die Partei ist nicht massgeblich. Die *iura novit curia*-Pflicht erstreckt sich auf die rechtliche Würdigung, nicht auf die Ausdehnung des Streitgegenstands.
+### [BGer 5A_872/2012 vom 22. Februar 2013, E. 1.2.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_872_2012#e-1-2-4)
 
-### [BGE 142 III 462](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_462) (6.6.2016)
+**Kernaussage**: Die Prüfung des Rechtsöffnungstitels hat nichts mit der Untersuchungsmaxime zu tun, sondern bedeutet Rechtsanwendung von Amtes wegen auf den vom Gläubiger vorgelegten Titel. Die Pflicht der kantonalen Gerichte, sich von Amtes wegen auch mit einem von den Parteien nicht eingenommenen Rechtsstandpunkt zu befassen, besteht nicht erst seit Inkrafttreten der ZPO; Art. 57 ZPO hat insoweit nichts Neues, sondern lediglich Allgemeingültiges festgehalten.
 
-Art. 55 Abs. 1 und Art. 221 Abs. 1 lit. d ZPO; von den Parteien nicht behauptete Tatsachen. Das Bundesgericht klärt die Grenzen der amtlichen Rechtsanwendung: Das Gericht kann seine Entscheidung nicht auf Tatsachen stützen, die von den Parteien nicht behauptet wurden, selbst wenn es die richtige Rechtsnorm von Amtes wegen anwendet. Die Verhandlungsmaxime (Art. 55 ZPO) begrenzt die tatsächliche Grundlage des Urteils; Art. 57 ZPO befreit das Gericht nicht davon, den Sachverhalt auf der Grundlage der Parteivorbringen festzustellen.
+Wichtig für die Einordnung der Norm: Art. 57 ZPO ist **keine** Untersuchungsmaxime. Er betrifft die Rechtsanwendung, nicht die Sachverhaltsermittlung — und er kodifiziert eine bereits vorher geltende Pflicht.
 
-### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020)
+### [BGE 147 III 176, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176#e-4-2-1) (17.11.2020)
 
-Art. 82 Abs. 1 SchKG; Art. 320 lit. a i.V.m. Art. 57 ZPO; Prüfungsbefugnis der Beschwerdeinstanz im Verfahren der provisorischen Rechtsöffnung. Bestreitet die betriebene Partei im Verfahren der provisorischen Rechtsöffnung vor der kantonalen Beschwerdeinstanz ausschliesslich die Vollständigkeit des Rechtsöffnungstitels, so darf die Beschwerdeinstanz grundsätzlich nicht von sich aus prüfen, ob die vorgelegten Urkunden von ihrem Inhalt her als Schuldanerkennung (Art. 82 Abs. 1 SchKG) taugen. Der Grundsatz *iura novit curia* wird im summarischen Verfahren durch die Beschränkung des Streitgegenstands limitiert.
+**Kernaussage**: Ob ein gültiger Rechtsöffnungstitel vorliegt, prüft das Gericht von Amtes wegen.
 
-### [BGE 149 III 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268) (30.3.2023)
+## II. Grenze im Rechtsmittelverfahren: Rügeprinzip
 
-Art. 58 Abs. 1 ZPO; Art. 83 Abs. 2 SchKG; Dispositionsmaxime; Streitgegenstand des Aberkennungsverfahrens. Das Bundesgericht hält fest, dass die Dispositionsmaxime verletzt wird, wenn das Gericht seinen Entscheid auf einen Lebenssachverhalt stützt, der ausserhalb des Streitgegenstands liegt. Die *iura novit curia*-Pflicht (Art. 57 ZPO) erlaubt die Rechtsanwendung von Amtes wegen, nicht aber die Ausdehnung des Streitgegenstands über die Parteianträge hinaus.
+### [BGer 4A_258/2015 vom 21. Oktober 2015, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_258_2015#e-2-4-3)
 
-### [BGE 151 III 418](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_418) (4.3.2025)
+**Kernaussage**: Das Berufungsgericht wendet das Recht von Amtes wegen an (Art. 57 ZPO); dabei behandelt es aber grundsätzlich nur die geltend gemachten Rügen, sofern die rechtlichen Mängel nicht geradezu offensichtlich sind.
 
-Art. 59 Abs. 2 lit. d, Art. 64 Abs. 1 lit. a ZPO; Art. 122 Abs. 3 StPO; Rechtshängigkeit, Streitgegenstand, Adhäsionsklage. Dem Strafgericht ist es verwehrt, im Rahmen der Adhäsionsklage über den Streitgegenstand hinauszugehen. Die *iura novit curia*-Pflicht hebt die Grenzen des Streitgegenstands nicht auf; das Gericht wendet das Recht von Amtes wegen an, aber nur innerhalb des von den Parteien definierten Rahmens.
+### [BGer 4A_397/2016 vom 30. November 2016, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_397_2016#e-3-1)
 
-### [BGer 4A\_496/2012](https://mcp.opencaselaw.ch/entscheid/bger_4A_496_2012) (25.2.2013)
+**Kernaussage**: Die Berufungsinstanz ist nicht gehalten, den erstinstanzlichen Entscheid losgelöst von konkreten Anhaltspunkten in der Berufungsbegründung von sich aus in jede Richtung hin auf mögliche Mängel zu untersuchen; abgesehen von offensichtlichen Mängeln beschränkt sie sich darauf, die Beanstandungen zu beurteilen.
 
-Unerlaubte Handlung; Übertragung von Geschäftsanteilen. Das Bundesgericht bestätigt, dass das Gericht einen eingeklagten Anspruch auf eine andere Rechtsgrundlage stützen kann, sofern der behauptete Sachverhalt dies trägt und die Gegenpartei ausreichend Gelegenheit hat, sich dazu zu äussern. Die *iura novit curia*-Pflicht berechtigt zur rechtlichen Umqualifizierung innerhalb des festgestellten Sachverhalts.
+Der mit Abstand meistzitierte Entscheid unter den Urteilen, die Art. 57 ZPO anwenden. Die praktische Bedeutung der Norm im Rechtsmittelverfahren ist damit erheblich kleiner, als ihr Wortlaut nahelegt.
 
-### [BGer 5A\_786/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_786_2011) (26.1.2012)
+## III. Grenze durch Dispositionsmaxime und Streitgegenstand
 
-Bekanntgabe der Parteiadresse (definitive Rechtsöffnung). Das Bundesgericht präzisiert, dass die Pflicht zur Rechtsanwendung von Amtes wegen im Verfahren der definitiven Rechtsöffnung nicht dazu führt, dass das Gericht den Sachverhalt über das von den Parteien Vorgetragene hinaus aufklären muss. Die Verhandlungsmaxime bleibt auch im Rechtsöffnungsverfahren massgeblich.
+### [BGE 149 III 268, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268#e-4-3) (30.3.2023)
 
-### [BGer 4A\_521/2019](https://mcp.opencaselaw.ch/entscheid/bger_4A_521_2019) (18.2.2020)
+**Kernaussage**: Die Dispositionsmaxime wird verletzt, wenn das Gericht seinen Entscheid auf einen Lebenssachverhalt stützt, der ausserhalb des Streitgegenstands liegt.
 
-Darlehen. Das Bundesgericht wendet das Recht von Amtes wegen an und ist nicht an die rechtliche Einordnung der Parteien gebunden. Das Gericht qualifiziert den Rechtsgrund des Anspruchs selbstständig um, sofern der festgestellte Sachverhalt dies trägt.
+Art. 57 ZPO erlaubt die rechtliche Umqualifizierung innerhalb des Streitgegenstands, nicht dessen Ausdehnung.
 
-### [BGer 5A\_1047/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_1047_2020) (4.8.2021)
+### [BGE 139 III 126, E. 3.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_126#e-3-2-3) (25.2.2013)
 
-Bauhandwerkerpfandrecht. Das Gericht wendet das rechtliche Mass an, ohne an die rechtliche Einordnung der Parteien gebunden zu sein. Im summarischen Verfahren gilt dies jedoch im Rahmen der dort geltenden Beschränkungen; die amtliche Rechtsanwendung erstreckt sich nur auf die rechtliche Würdigung der geltend gemachten Einwendungen.
+**Kernaussage**: Die Identität von prozessualen Ansprüchen beurteilt sich nach den Klageanträgen und dem behaupteten Lebenssachverhalt, das heisst dem Tatsachenfundament, auf das sich die Klagebegehren stützen.
 
-### [BGer 5A\_160/2021](https://mcp.opencaselaw.ch/entscheid/bger_5A_160_2021) (11.3.2022)
+Liefert den Massstab, an dem sich die Grenze aus BGE 149 III 268 bemisst: Der Streitgegenstand wird durch Antrag und Lebenssachverhalt bestimmt — nicht durch die von den Parteien angerufene Rechtsnorm.
 
-Provisorische Rechtsöffnung. Das Bundesgericht bestätigt, dass im Verfahren der provisorischen Rechtsöffnung die rechtlichen Voraussetzungen von Amtes wegen zu prüfen sind, jedoch nur im Rahmen der geltend gemachten Einwendungen. Die Beschwerdeinstanz darf nicht über den Rahmen der formellen Einwendungen hinausgehen.
+## IV. Verhältnis zum rechtlichen Gehör
 
-### [BGer 5A\_14/2022](https://mcp.opencaselaw.ch/entscheid/bger_5A_14_2022) (22.9.2022)
+### [BGer 4A_48/2022 vom 7. Juni 2022, E. 4.1.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_48_2022#e-4-1-2)
 
-Negative Feststellungsklage (Art. 85a SchKG). Das Gericht ist nicht befugt, über den Streitgegenstand hinauszugehen. Die *iura novit curia*-Pflicht erlaubt die Rechtsanwendung von Amtes wegen, nicht aber die Ausdehnung des Streitgegenstands. Das Dispositionsprinzip bleibt gewahrt.
+**Kernaussage**: Die Behauptungs- und Bestreitungslast betrifft Tatsachen (Art. 55 ZPO), nicht die rechtliche Begründung; das Gericht wendet das Recht von Amtes wegen an (Art. 57 ZPO). Es besteht kein verfassungsrechtlicher Anspruch der Parteien, zur rechtlichen Würdigung der von ihnen eingeführten Tatsachen besonders angehört zu werden. Eine Ausnahme besteht namentlich, wenn das Gericht seinen Entscheid mit einem Rechtsgrund zu begründen beabsichtigt, auf den sich die Parteien nicht berufen haben und mit dessen Erheblichkeit sie vernünftigerweise nicht rechnen mussten.
 
-### [BGer 4A\_200/2023](https://mcp.opencaselaw.ch/entscheid/bger_4A_200_2023) (16.6.2023)
+Die praktisch wichtigste Schranke: Die amtliche Rechtsanwendung darf die Parteien nicht überraschen. Der Anspruch entsteht aber erst, wenn mit dem Rechtsgrund vernünftigerweise nicht zu rechnen war — die blosse Abweichung von der Parteibegründung genügt nicht.
 
-Staatshaftung. Das Bundesgericht wendet das zuständige Haftpflichtrecht von Amtes wegen an und ist nicht an die rechtliche Einordnung der klagenden Partei gebunden. Die amtliche Rechtsanwendung umfasst die Bestimmung des anwendbaren Haftpflichtregimes.
+## Audit-Protokoll
 
-### [BGer 4A\_249/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_249_2024) (4.3.2025)
+Beim Audit vom 13.08.2026 erreichte das Bundle eine Belegquote von 19 % (Urteil C); von
+42 Belegpaaren war **kein einziges** gestützt, 26 waren ungestützt, 5 Pinpoints zeigten
+ins Leere. Die Übersicht wurde deshalb verworfen und neu aufgebaut.
 
-Negative Feststellungsklage, Adhäsionsklage, Rechtshängigkeit. Das Bundesgericht betont, dass Prozessvoraussetzungen (Art. 59 ZPO) von Amtes wegen zu prüfen sind. Das Gericht muss die Zulässigkeit des Rechtsweges selbstständig beurteilen, auch wenn die Parteien sich dazu nicht äussern.
+Die frühere Fassung führte 19 Entscheide nach einem durchgehenden Muster: ein zutreffendes
+Sachgebiets-Label aus den Entscheidmetadaten («Darlehen», «Bauhandwerkerpfandrecht»,
+«Staatshaftung»), gefolgt von einem allgemeinen Satz über *iura novit curia*, der dem
+jeweiligen Entscheid nicht entnommen war. Mehrere Einträge waren inhaltsleer
+(«bestätigt die Grundsätze zur amtlichen Rechtsanwendung»). Kein Eintrag nannte eine
+Erwägung.
 
-### [BGer 5A\_677/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_677_2024) (13.3.2025)
+Nicht übernommen wurden: BGE 142 III 462, BGE 151 III 418, BGer 4A_496/2012,
+5A_786/2011, 4A_521/2019, 5A_1047/2020, 5A_160/2021, 5A_14/2022, 4A_200/2023,
+4A_249/2024, 5A_677/2024, 5A_690/2025, 4A_411/2025, 4A_171/2024, 5A_698/2019.
+Die Entscheide existieren; die ihnen zugeschriebenen Aussagen liessen sich in keiner
+Erwägung nachweisen.
 
-Eheschutz (eheliche Wohnung, Unterhalt). Im Eheschutzverfahren wendet das Gericht das Recht von Amtes wegen an, ist jedoch an die Anträge der Parteien gebunden, soweit keine Offizialmaxime eingreift. Die *iura novit curia*-Pflicht ändert nichts an den Grenzen der Parteiherrschaft.
+Ein Befund verdient besondere Erwähnung: Die Regeste von BGE 147 III 176 formuliert die
+Prüfungsbefugnis der Beschwerdeinstanz und verweist auf «E. 4.2». Die Prüfung gegen
+E. 4.2.3 ergab `contradicts` — dort hält das Bundesgericht fest, die Vorinstanz *hätte*
+die Vollständigkeit prüfen müssen. Übernommen wurde deshalb nur der in E. 4.2.1
+belegte Satz.
 
-### [BGer 5A\_690/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_690_2025) (25.11.2025)
-
-Erbschaftsangelegenheit. In Erbschaftssachen wendet das Gericht das Erbrecht von Amtes wegen an, solange der Streitgegenstand gewahrt bleibt. Die amtliche Rechtsanwendung erstreckt sich auf die richtige rechtliche Qualifizierung des geltend gemachten Anspruchs.
-
-### [BGer 4A\_411/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_411_2025) (18.12.2025)
-
-Provisorische Rechtsöffnung. Die Beschwerdeinstanz wendet im Rechtsöffnungsverfahren die rechtlichen Voraussetzungen von Amtes wegen an, darf aber nicht über den Rahmen der geltend gemachten Einwendungen hinausgehen. Der Grundsatz *iura novit curia* wird durch die Beschränkung des Streitgegenstands im summarischen Verfahren begrenzt.
-
-### [BGer 4A\_171/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_171_2024) (31.10.2024)
-
-Provisorische Rechtsöffnung. Das Bundesgericht bestätigt die Grundsätze zur amtlichen Rechtsanwendung im summarischen Verfahren der provisorischen Rechtsöffnung und präzisiert die Grenzen der Prüfungsbefugnis der Beschwerdeinstanz.
-
-### [BGer 5A\_698/2019](https://mcp.opencaselaw.ch/entscheid/bger_5A_698_2019) (3.7.2020)
-
-Provisorische Rechtsöffnung. Das Bundesgericht wendet die rechtlichen Voraussetzungen der provisorischen Rechtsöffnung von Amtes wegen an. Die amtliche Rechtsanwendung umfasst die Prüfung, ob die formellen Voraussetzungen erfüllt sind.
-
----
-
-*Zuletzt aktualisiert: 2026-08-08 | [Bearbeiten](https://github.com/glossagens/kommentar/edit/main/content/kommentar/zpo/art-057/rechtsprechung.md) | [Anregung einreichen](/einreichung)*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).
