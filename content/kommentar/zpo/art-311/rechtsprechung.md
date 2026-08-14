@@ -10,82 +10,59 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 13 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; drei contradicts-Befunde, zwei davon bei Entscheiden aus dem Jahr 1990"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 23 Paaren gestützt; 17 ungestützt; 1 fehlerhafter Pinpoint; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 311 ZPO
 
-Art. 311 ZPO regelt die Berufungsschrift und die Berufungsbegründung im Berufungsverfahren. Die nachstehende Übersicht fasst die wichtigsten BGer/BGE-Entscheide zu den formellen und inhaltlichen Anforderungen an die Berufungsschrift, zu den Fristen und zur Zulässigkeit von Nova in der Berufungsinstanz zusammen.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-## I. Leitentscheide
+## I. Begründungspflicht
 
-### [BGE 137 III 617](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617) (8.12.2011)
+### [BGer 4A_397/2016 vom 30. November 2016, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_397_2016#e-3-1)
 
-Das Bundesgericht präzisiert die Anforderungen an die Berufungsschrift und die Berufungsbegründung gemäss Art. 311 ZPO. Die Berufungsschrift muss die Bezeichnung des angefochtenen Entscheids, die Anträge und eine summarische Begründung enthalten. Eine unvollständige oder fehlende Begründung führt zur Nichteintreten auf die Berufung.
+**Kernaussage**: Um der Begründungspflicht nach Art. 311 Abs. 1 ZPO zu genügen, muss die Berufungsklägerin aufzeigen, inwiefern sie den angefochtenen Entscheid als fehlerhaft erachtet; die Berufungsinstanz ist nicht gehalten, den Entscheid losgelöst von konkreten Anhaltspunkten von sich aus in jede Richtung auf Mängel zu untersuchen.
 
-### [BGE 148 III 95](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_95) (7.12.2021)
+Der meistzitierte Entscheid zur Norm. Die Begründungspflicht ist keine Formalie: Sie bestimmt, was das Berufungsgericht überhaupt prüft. Wer den erstinstanzlichen Entscheid pauschal bestreitet, ohne sich mit seinen Erwägungen auseinanderzusetzen, erhält keine Überprüfung.
 
-Dieser Entscheid behandelt die Zulässigkeit von Nova in der Berufungsbegründung und die Grenzen nachträglicher Vorbringen. Das Bundesgericht bestätigt, dass Nova in der Berufung nur unter den strengen Voraussetzungen von Art. 317 ZPO zulässig sind und in der Berufungsbegründung ausdrücklich als solche bezeichnet werden müssen. Die Unverzüglichkeit ist eine zentrale Voraussetzung für die Zulässigkeit.
+### [BGE 138 III 374, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_374#e-4-3-1) (26.4.2012)
 
-### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.5.2016)
+**Kernaussage**: Mit Berufung können die unrichtige Rechtsanwendung und die unrichtige Feststellung des Sachverhalts geltend gemacht werden; die berufungsführende Partei hat ihre Berufung nach Art. 311 ZPO zu begründen.
 
-Das Bundesgericht äussert sich zum Unverzüglichkeitsgebot im Rahmen der Berufung und zum Beizug von Nova in der Berufungsbegründung. Nova müssen grundsätzlich in der ersten nach ihrer Entdeckung möglichen Rechtsschrift vorgebracht werden. In der Berufungsinstanz gilt dasselbe Unverzüglichkeitsgebot wie im ersten Rechtszug.
+## II. Anforderungen an die Berufungsanträge
 
-### [BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394) (17.7.2018)
+### [BGE 137 III 617, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617#e-4-3) (8.12.2011)
 
-Der Entscheid befasst sich mit der Berufungsfähigkeit von Entscheiden und der Bedeutung des Streitwerts für das Berufungsverfahren. Das Bundesgericht präzisiert, dass die Berufung nur gegen Endentscheide und bestimmte Zwischenentscheide zulässig ist und dass der Streitwert die Voraussetzung für die Zulässigkeit der Berufung darstellt. Die Streitwertberechnung erfolgt nach den allgemeinen Regeln.
+**Kernaussage**: Ein Rechtsbegehren muss so bestimmt sein, dass es im Falle der Gutheissung unverändert zum Urteil erhoben werden kann; bei Geldforderungen sind die Berufungsanträge zu beziffern.
 
-### [BGE 148 III 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_186) (18.1.2022)
+Die Regeste verweist auf «E. 4–6»; das ist ein Abschnitts-, kein Erwägungszeiger. Die tragende Erwägung ist E. 4.3.
 
-Das Bundesgericht behandelt die Frage, welche Entscheide mit der Berufung anfechtbar sind und welche Voraussetzungen dafür gelten. Der Entscheid präzisiert die Abgrenzung zwischen Endentscheiden und Zwischenentscheiden im Hinblick auf die Berufungsfähigkeit. Nur Endentscheide und Vorabentscheide über die Zuständigkeit oder die Tragweite des Streitgegenstands sind berufungsfähig.
+## Audit-Protokoll
 
-### [BGE 138 III 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483) (28.6.2012)
+Beim Audit vom 13.08.2026 waren 17 von 21 Belegpaaren ungestützt (Belegquote 13 %,
+Urteil C) — einer der drei schlechtesten Werte im ZPO-Bestand. Drei Paare wurden mit
+`contradicts` beurteilt. Die Übersicht wurde verworfen und neu aufgebaut.
 
-Der Entscheid behandelt die Säumnisfolgen im Berufungsverfahren und die Frage der Wiedereinsetzung in den vorigen Stand bei Fristversäumnis. Eine versäumte Berufungsfrist führt zur Unzulässigkeit der Berufung, sofern nicht die Voraussetzungen für eine Wiedereinsetzung vorliegen. Die Anforderungen an die Entschuldigung der Fristversäumnis sind streng.
+**Zwei der drei `contradicts` betreffen Entscheide aus dem Jahr 1990.** BGE 116 II 92 und
+BGE 116 II 745 wurden für die Berufungsbegründung nach Art. 311 ZPO angeführt — mit dem
+ausdrücklichen Zusatz, sie beträfen «die Berufung nach altem Recht». Art. 311 ZPO trat am
+1. Januar 2011 in Kraft; die damalige eidgenössische Berufung an das Bundesgericht nach
+OG hat mit der kantonalen Berufung nach ZPO nichts zu tun. Die Einträge waren also schon
+nach ihrer eigenen Beschreibung nicht einschlägig.
 
-### [BGE 143 III 42](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_42) (24.11.2016)
+Nicht übernommen wurden ferner BGE 139 III 358, BGE 140 III 86, BGE 140 III 636,
+BGE 142 III 413, BGE 143 III 42, BGE 143 III 153, BGE 144 III 394, BGE 145 III 153,
+BGE 148 III 95, BGE 148 III 182, BGE 148 III 186 sowie BGer 4A_62/2026, 4A_669/2024 und
+5A_536/2018. Die Entscheide existieren; die ihnen zugeschriebenen Aussagen liessen sich
+in keiner Erwägung nachweisen.
 
-Das Bundesgericht äussert sich zum Verhältnis zwischen Nova und Berufungsschrift und den Anforderungen an die Bezeichnung von Nova in der Berufungsbegründung. Nova müssen in der Berufungsbegründung ausdrücklich als solche bezeichnet und mit dem entsprechenden Sachvorbringen versehen werden. Eine blosse Bezugnahme auf frühere Vorbringen genügt nicht.
+Der Pinpoint «BGE 141 III 569 E. 4.3» zeigte ins Leere.
 
-### [BGE 145 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_153) (26.2.2019)
-
-Der Entscheid befasst sich mit der Anschlussberufung und deren Begründungspflicht. Die Anschlussberufung muss dieselben formellen Anforderungen erfüllen wie die Hauptberufung, insbesondere was die Begründungspflicht betrifft. Sie ist an die gleiche Frist gebunden und muss innerhalb der Berufungsfrist oder binnen der Anschlussfrist eingereicht werden.
-
-## II. Weitere BGer-Entscheide
-
-### [BGE 116 II 92](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_92) (20.3.1990)
-
-Das Bundesgericht befasst sich mit der Berufungsbegründung nach altem kantonalen Recht und den damals geltenden Anforderungen. Der Entscheid ist von Bedeutung für die Auslegung von Art. 311 ZPO im Lichte der früheren kantonalen Verfahrensordnungen. Die Grundsätze zur Begründungspflicht wurden weitgehend in das neue Bundesrecht übernommen.
-
-### [BGer 4A_669/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_669_2024) (29.1.2025)
-
-Der Entscheid behandelt die aktuellen Anforderungen an die Berufungsschrift nach Art. 311 ZPO und die Frage der formellen Richtigkeit. Das Bundesgericht bestätigt, dass die Berufungsschrift alle in Art. 311 ZPO genannten formellen Anforderungen erfüllen muss, damit auf die Berufung eingetreten wird. Eine unvollständige Berufungsschrift kann nicht nachgebessert werden, wenn die Frist abgelaufen ist.
-
-### [BGE 116 II 745](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_745) (13.11.1990)
-
-Das Bundesgericht äussert sich zur Berufung nach altem Recht und den Übergangsbestimmungen zur Schweizerischen ZPO. Der Entscheid klärt die Anforderungen an die Berufungsbegründung im Lichte der früheren kantonalen Verfahrensordnungen. Die Grundsätze zur Begründungspflicht und zu den Fristen wurden im neuen Bundesrecht präzisiert und vereinheitlicht.
-
-### [BGer 5A_536/2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_536_2018) (21.9.2018)
-
-Der Entscheid behandelt die Berufungsschrift und die Frage der Fristwahrung bei Einreichung. Das Bundesgericht präzisiert, dass die Berufungsfrist eine absolute Frist ist, deren Versäumnis zur Unzulässigkeit der Berufung führt. Die Einreichung der Berufungsschrift muss fristgerecht erfolgen, eine Fristverlängerung ist nicht möglich.
-
-### [BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86)
-
-Das Bundesgericht befasst sich mit der Berufung und dem Beizug von Nova im Berufungsverfahren. Der Entscheid präzisiert die Voraussetzungen für die Zulässigkeit von Nova in der Berufungsinstanz und die Anforderungen an deren Begründung. Nova müssen in der Berufungsbegründung ausdrücklich bezeichnet und mit dem entsprechenden Sachvorbringen versehen werden.
-
-### [BGE 148 III 182](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_182) (8.2.2022)
-
-Der Entscheid behandelt die Kostenfolgen im Zusammenhang mit der Berufung und deren Begründung. Das Bundesgericht präzisiert, dass eine ungenügend begründete Berufung als unbegründet abzuweisen ist und die Kosten der säumigen oder unterliegenden Partei auferlegt werden. Die Kostenverteilung folgt dem Unterliegerprinzip und dem Verursacherprinzip.
-
-### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013)
-
-Das Bundesgericht äussert sich zu den Kostenfolgen einer ungenügenden Berufungsbegründung und den Anforderungen an die Kostentragung. Eine ungenügend begründete Berufung führt zur Abweisung und zur Auferlegung der Kosten an die berufende Partei. Bei teilweise erfolgreicher Berufung erfolgt die Kostenverteilung nach dem Ausmass des Obsiegens und Unterliegens.
-
----
-
-### [BGer 4A_62/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_62_2026) (11.5.2026)
-
-Bestätigung der strengen Berufungsbegründungspflicht nach Art. 311 ZPO: Wer vollumfängliche Gutheissung der Berufung verlangt, muss jede selbständige Begründung der Vorinstanz angreifen. Die Berufungsinstanz durchforscht nicht von Amtes wegen den angefochtenen Entscheid. Der Beschwerdeführer übte über weite Strecken appellatorische Kritik, ohne konkrete Erwägungen der Vorinstanz strukturiert anzugreifen. Das Bundesgericht bestätigt, dass eine ungenügende Berufungsbegründung nach Art. 311 ZPO nicht durch BGG-Beschwerde korrigiert werden kann, und dass die Verletzung von Art. 311 ZPO nur bei Willkür (Art. 9 BV) überprüfbar ist.
-
-*Letzte Aktualisierung: 2026-07-31*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).
