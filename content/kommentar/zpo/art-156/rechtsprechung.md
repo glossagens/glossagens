@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 156 ZPO"
 weight: 2
 date: 2026-05-23
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 156 ZPO — Wahrung schutzwürdiger Interessen, Beweisgeheimnis, Geheimhaltungspflicht."
-tags: ["Rechtsprechung", "ZPO", "schutzwürdige Interessen", "Beweisgeheimnis", "Geheimhaltung"]
+description: "Übersicht der Rechtsprechung zu Art. 156 ZPO — prozessuale Schutzmassnahmen, strafbewehrte Geheimhaltungspflicht, Reichweite und Glaubhaftmachung."
+tags: ["Rechtsprechung", "ZPO", "schutzwürdige Interessen", "Geschäftsgeheimnis", "Geheimhaltung"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 17 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; die Übersicht ruht neu auf dem einschlägigen Leitentscheid BGE 148 III 84 statt auf 18 thematisch verstreuten Referenzen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -14,68 +19,69 @@ revisions:
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 2 von 24 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
-## Rechtsprechung zu Art. 156 ZPO
+# Rechtsprechung zu Art. 156 ZPO
 
-Art. 156 ZPO regelt die Wahrung schutzwürdiger Interessen bei der Beweisführung. Die nachstehende Übersicht fasst die wichtigsten BGer/BGE-Entscheide zusammen, die sich mit dem Beweisgeheimnis, der Geheimhaltungspflicht und den Grenzen der Beweiserhebung befassen.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-### [BGE 148 III 84](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84) (8.12.2021)
+Die Rechtsprechung zu Art. 156 ZPO wird von einem einzigen Leitentscheid getragen, der
+Zulässigkeit, Reichweite, zeitliche Grenze und Substanziierung der prozessualen
+Schutzmassnahmen klärt. Die Übersicht folgt seinem Aufbau.
 
-Das Bundesgericht präzisiert die Voraussetzungen für die Wahrung schutzwürdiger Interessen im Beweisverfahren nach Art. 156 ZPO. Eine Beweiserhebung kann verweigert werden, wenn die Offenlegung schutzwürdige Interessen einer Partei oder eines Dritten unverhältnismässig beeinträchtigen würde. Die Interessenabwägung hat im Einzelfall unter Berücksichtigung aller Umstände zu erfolgen.
+## I. Grundsatz
 
-### [BGE 120 V 435](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_V_435) (9.8.1994)
+### [BGE 148 III 84, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3) (8.12.2021)
 
-Der Entscheid befasst sich mit der Geheimhaltung eines Arztzeugnisses im Sozialversicherungsverfahren. Das Bundesgericht betont, dass auch im Verwaltungsverfahren schutzwürdige Interessen des Patienten gegenüber der Beweiserhebung abzuwägen sind. Die Geheimhaltungspflicht des Arztes kann eine Beweisverweigerung rechtfertigen.
+**Kernaussage**: Nach Art. 156 ZPO trifft das Gericht die erforderlichen Massnahmen, wenn die Beweisabnahme die schutzwürdigen Interessen einer Partei oder Dritter, wie insbesondere deren Geschäftsgeheimnisse, gefährdet.
 
-### [BGE 103 Ia 490](https://mcp.opencaselaw.ch/entscheid/bge_BGE_103_Ia_490) (2.9.1977)
+## II. Zulässige Massnahmen
 
-Dieser Entscheid aus dem alten Recht befasst sich mit dem Schutz schutzwürdiger Interessen im Beweisverfahren. Das Bundesgericht anerkannte bereits vor Inkrafttreten der ZPO, dass nicht alle Beweise ungeachtet der Interessen Betroffener erhoben werden dürfen. Die Grundsätze wurden später in Art. 156 ZPO kodifiziert.
+### [BGE 148 III 84, E. 3.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-2-3) (8.12.2021)
 
-### [BGE 109 Ia 244](https://mcp.opencaselaw.ch/entscheid/bge_BGE_109_Ia_244) (7.9.1983)
+**Kernaussage**: Als prozessuale Schutzmassnahme nach Art. 156 ZPO kommt auch die Anordnung einer Geheimhaltungspflicht mit Androhung der Ungehorsamsstrafe nach Art. 292 StGB in Betracht — vorbehalten bleiben Verhältnismässigkeit und Subsidiarität.
 
-Das Bundesgericht erläutert das Verhältnis zwischen Beweiserhebung und Geheimhaltungspflichten. Eine Geheimhaltungspflicht kann die Verweigerung der Beweisaussage rechtfertigen, sofern die schutzwürdigen Interessen überwiegen. Die beweispflichtige Partei muss jedoch darlegen, worin ihr schutzwürdiges Interesse besteht.
+Voraussetzung ist, dass sich die strafbewehrte Geheimhaltungspflicht als das **mildeste Mittel** erweist. Sie steht damit nicht beliebig zur Verfügung, sondern erst, wenn schwächere Massnahmen — Abdeckung, Beschränkung der Akteneinsicht, Ausschluss der Öffentlichkeit — nicht genügen.
 
-### [BGE 150 IV 470](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_470) (6.8.2024)
+## III. Zeitliche Grenze
 
-Der Entscheid dokumentiert die aktuelle Rechtsprechung des Bundesgerichts zu schutzwürdigen Interessen im Beweisverfahren. Das Bundesgericht bestätigt, dass die Interessenabwägung nach Art. 156 ZPO eine verhältnismässige Lösung verlangt und ggf. Teilbeweiserhebungen oder Geheimhaltungsmassnahmen zulässig sind. Die Praxis hat sich in den letzten Jahren konsolidiert.
+### [BGE 148 III 84, E. 3.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-2-4) (8.12.2021)
 
-### [BGer 1B\_293/2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_293_2013) (31.1.2014)
+**Kernaussage**: Eine gestützt auf Art. 156 ZPO angeordnete strafbewehrte Geheimhaltungspflicht kann keine Wirkung über die Dauer des Prozesses hinaus entfalten; die prozessualen Schutzmassnahmen beziehen sich auf die Beschränkung des Informationsflusses innerhalb des Verfahrens.
 
-Der Entscheid behandelt ein Beweisverwertungsverbot im Strafverfahren, das auf schutzwürdige Interessen im weiteren Sinne gestützt wird. Das Bundesgericht grenzt die Grundsätze von Art. 156 ZPO zu strafprozessualen Verwertungsverboten ab. Im Zivilprozess kann ein entsprechendes Verwertungsverbot aus der Verletzung schutzwürdiger Interessen resultieren.
+Praktisch die wichtigste Einschränkung: Wer eine über den Prozess hinausreichende Geheimhaltung erreichen will, muss den materiellrechtlichen Weg gehen — Art. 156 ZPO trägt das nicht.
 
-### [BGer 1B\_108/2007](https://mcp.opencaselaw.ch/entscheid/bger_1B_108_2007) (19.7.2007)
+## IV. Reichweite
 
-Das Bundesgericht befasst sich mit der Geheimhaltungspflicht als Grundlage für eine Beweisverweigerung. Eine berufliche Geheimhaltungspflicht begründet ein schutzwürdiges Interesse im Sinne von Art. 156 ZPO, sofern die Offenlegung nicht durch eine überwiegende Pflicht zur Aussage verdrängt wird. Die Abwägung erfolgt fallbezogen.
+### [BGE 148 III 84, E. 3.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-3-1) (8.12.2021)
 
-### [BGer 1A.235/2002](https://mcp.opencaselaw.ch/entscheid/bger_1A.235_2002) (13.3.2003)
+**Kernaussage**: Prozessuale Schutzmassnahmen können sich neben den Beweisanträgen nur in Ausnahmefällen auf Informationen in den Rechtsschriften erstrecken.
 
-Der Entscheid beleuchtet die Wahrung schutzwürdiger Interessen im Verwaltungsverfahren. Das Bundesgericht überträgt die Grundsätze von Art. 156 ZPO analog auf das Verwaltungsverfahren, soweit dies mit dem Untersuchungsgrundsatz vereinbar ist. Schutzwürdige Interessen Privater können auch gegenüber Untersuchungsmassnahmen der Behörden durchgreifen.
+Art. 156 ZPO ist eine Norm des Beweisrechts. Die Rechtsschriften sind grundsätzlich nicht erfasst; wer dort Geheimnisse offenlegt, kann sich nachträglich nur ausnahmsweise auf die Norm berufen.
 
-### [BGE 112 II 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_112_II_268) (6.5.1986)
+## V. Substanziierung
 
-Dieser Entscheid behandelt die Geheimhaltung im Zivilprozess unter dem alten Recht. Das Bundesgericht hält fest, dass die Beweiserhebung an schutzwürdige Interessen Betroffener gebunden ist und ggf. eingeschränkt werden muss. Die Dogmatik wurde in Art. 156 ZPO übernommen und präzisiert.
+### [BGE 148 III 84, E. 3.5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-5-1) (8.12.2021)
 
-### [BGE 143 III 624](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_624) (12.10.2017)
+**Kernaussage**: Die Partei, die prozessuale Schutzmassnahmen beantragt, hat eine effektive Gefährdung von schutzwürdigen Interessen darzutun.
 
-Das Bundesgericht präzisiert die Voraussetzungen eines Beweisverwertungsverbots, das aus der Verletzung schutzwürdiger Interessen resultieren kann. Wird ein Beweis unter Verletzung von Art. 156 ZPO erhoben, kann dies zu einem Verwertungsverbot führen. Die Schwelle hierfür ist hoch; es muss eine gravierende Interessenverletzung vorliegen.
+Die blosse Behauptung, es lägen Geschäftsgeheimnisse vor, genügt nicht.
 
-### [BGer 4A\_58/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_58_2021) (8.12.2021)
+## Audit-Protokoll
 
-Der Entscheid befasst sich mit der Wahrung schutzwürdiger Interessen in einem arbeitsrechtlichen Verfahren. Das Bundesgericht betont, dass Arbeitnehmerinteressen wie der Schutz der Privatsphäre in die Abwägung nach Art. 156 ZPO einzubeziehen sind. Eine uneingeschränkte Beweiserhebung darf nicht zu unverhältnismässigen Eingriffen führen.
+Beim Audit vom 13.08.2026 waren 18 von 24 Belegpaaren ungestützt (Belegquote 17 %,
+Urteil C), darunter eines mit `contradicts`. Die Übersicht wurde verworfen und neu
+aufgebaut.
 
-### [BGer 4A\_43/2020](https://mcp.opencaselaw.ch/entscheid/bger_4A_43_2020) (16.7.2020)
+Die frühere Fassung führte achtzehn verschiedene Referenzen aus dem Zivil-, Straf- und
+Sozialversicherungsrecht — darunter BGE 112 II 268, BGE 120 V 435, BGE 138 III 76,
+BGE 140 III 24, BGE 143 III 624, BGE 146 III 237, BGE 150 I 191, BGE 150 IV 470 sowie
+BGer 1B_108/2007, 1B_293/2013, 4A_43/2020, 4A_527/2024, 8C_199/2010 und 1A.235/2002.
+Drei Referenzen waren nicht auflösbar, weil Entscheid-IDs als URL-Pfadbestandteile in
+den Text geraten waren (`bge_BGE_103_Ia_490`, `bge_BGE_109_Ia_244`, `bger_1A.235_2002`).
 
-Das Bundesgericht erläutert das Beweisgeheimnis und seine Reichweite im zivilprozessualen Verfahren. Das Beweisgeheimnis schützt davor, dass bestimmte Tatsachen oder Dokumente gegen den Willen des Berechtigten in das Verfahren einbezogen werden. Die Voraussetzungen für eine Beweisverweigerung sind im Einzelnen darzulegen.
+Die Streuung über drei Rechtsgebiete ist selbst ein Warnzeichen: Art. 156 ZPO ist eine
+zivilprozessuale Norm, und die strafprozessualen sowie sozialversicherungsrechtlichen
+Entscheide konnten die ihnen zugeschriebenen Aussagen zu ihr nicht tragen. Die neue
+Übersicht ruht auf dem einen Entscheid, der die Norm tatsächlich ausgelegt hat.
 
-### [BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76) (31.1.2012)
-
-Der Entscheid fasst die Grundsätze zu schutzwürdigen Interessen im Beweisverfahren zusammen. Das Bundesgericht betont, dass die Beweiserhebung verweigert werden kann, wenn schutzwürdige Interessen einer Partei oder eines Dritten überwiegen. Die Beweislast für das Vorliegen schutzwürdiger Interessen trägt die betroffene Partei.
-
-### [BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24) (10.12.2013)
-
-Das Bundesgericht konkretisiert das Verhältnis zwischen Beweisführung und Geheimhaltungspflichten. Geheimhaltungspflichten können ein schutzwürdiges Interesse im Sinne von Art. 156 ZPO begründen, jedoch nicht ausnahmslos. Die Interessenabwägung hat zu berücksichtigen, ob eine Entbindung von der Geheimhaltungspflicht möglich und zumutbar ist.
-
-### [BGE 146 III 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_237) (19.6.2020)
-
-Der Entscheid behandelt den Aktenschluss und die Beweiserhebung unter dem Aspekt schutzwürdiger Interessen. Das Bundesgericht hält fest, dass nach Aktenschluss keine neuen Beweise mehr erhoben werden dürfen, ausser es liegen neue Tatsachen oder Beweismittel vor. Schutzwürdige Interessen können eine frühzeitige Begrenzung der Beweiserhebung rechtfertigen.
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).

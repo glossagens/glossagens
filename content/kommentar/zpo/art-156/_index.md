@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Bundle-Belegquote 17 % → 83 %, Urteil A); Pinpoints für BGE 148 III 84 auf die tragenden Erwägungen korrigiert (E. 3.2.3, E. 3.2.4, E. 3.3.1, E. 3.5.1); ungestützte Belege aus dem Straf- und Sozialversicherungsrecht entfernt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 2 von 24 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -40,13 +45,13 @@ Die Frage, ob eine konkrete oder bereits eine abstrakte Gefährdung genügt, war
 
 Das Gesetz nennt als wichtigstes Beispiel **Geschäftsgeheimnisse** (Art. 162 StGB). Daneben kommen in Betracht:
 - **Persönlichkeitsrechte** (insbesondere im Familienrecht)
-- **Datenschutzinteressen** (vgl. [BGE 150 I 191 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_191#e-2): Art. 156 ZPO bietet ausreichenden Rechtsschutz bei Datenübermittlung durch die Verwaltung)
+- **Datenschutzinteressen**
 - **Berufsgeheimnisse** (ärztliches, anwaltliches, bankliches Geheimnis)
 - **Betriebs- und Fertigungsgeheimnisse** in Wettbewerbsstreitigkeiten
 
 #### 3. Zeitpunkt und Bezugspunkt
 
-Die Gefährdung muss durch die **Beweisabnahme** drohen. Die Schutzpflicht von Art. 156 ZPO bezieht sich primär auf Beweismittel und Beweisanträge und erstreckt sich nur in Ausnahmefällen auf Informationen in den Rechtsschriften ([BGE 148 III 84 E. 3.3 und 3.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-3)).
+Die Gefährdung muss durch die **Beweisabnahme** drohen. Die Schutzpflicht von Art. 156 ZPO bezieht sich primär auf Beweismittel und Beweisanträge und erstreckt sich nur in Ausnahmefällen auf Informationen in den Rechtsschriften ([BGE 148 III 84, E. 3.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-3-1)).
 
 ### III. Massnahmen
 
@@ -64,17 +69,17 @@ Mögliche Schutzmassnahmen umfassen insbesondere:
 
 #### 2. Verhältnismässigkeit
 
-Die Anordnung von Schutzmassnahmen unterliegt einer umfassenden Interessenabwägung. Das Gericht hat das Geheimhaltungsinteresse der betroffenen Partei oder Dritter gegen das rechtliche Gehör der Gegenseite (Art. 29 Abs. 2 BV) und den Untersuchungsgrundsatz (Art. 55 ZPO) abzuwägen. Je gewichtiger das Geheimhaltungsinteresse, desto stärkere Massnahmen sind zulässig, soweit sie sich als das mildeste geeignete Mittel erweisen ([BGE 148 III 84 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3)).
+Die Anordnung von Schutzmassnahmen unterliegt einer umfassenden Interessenabwägung. Das Gericht hat das Geheimhaltungsinteresse der betroffenen Partei oder Dritter gegen das rechtliche Gehör der Gegenseite (Art. 29 Abs. 2 BV) und den Untersuchungsgrundsatz (Art. 55 ZPO) abzuwägen. Die Massnahme muss sich als das mildeste Mittel erweisen; auch eine Geheimhaltungspflicht mit Androhung der Ungehorsamsstrafe nach Art. 292 StGB kommt in Betracht ([BGE 148 III 84, E. 3.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-2-3)).
 
 #### 3. Strafbewehrte Geheimhaltungspflicht
 
-Als prozessuale Schutzmassnahme ist — sofern sich diese als das mildeste Mittel erweist — auch die **Anordnung einer strafbewehrten Geheimhaltungspflicht** möglich. Eine solche kann gestützt auf Art. 156 ZPO nur **für die Dauer des Prozesses** angeordnet werden ([BGE 148 III 84 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-2)). Die strafbewehrte Geheimhaltungspflicht verpflichtet die Empfänger von Beweismitteln, diese nicht an Dritte weiterzugeben, und bewirkt eine Strafbarkeit bei Verletzung nach Art. 293 StGB (Verletzung des Berufsgeheimnisses) bzw. nach massgebendem kantonalen Strafrecht.
+Als prozessuale Schutzmassnahme ist — sofern sich diese als das mildeste Mittel erweist — auch die **Anordnung einer strafbewehrten Geheimhaltungspflicht** möglich. Eine solche kann gestützt auf Art. 156 ZPO nur **für die Dauer des Prozesses** angeordnet werden ([BGE 148 III 84, E. 3.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_84#e-3-2-4)). Die strafbewehrte Geheimhaltungspflicht verpflichtet die Empfänger von Beweismitteln, diese nicht an Dritte weiterzugeben, und bewirkt eine Strafbarkeit bei Verletzung nach Art. 293 StGB (Verletzung des Berufsgeheimnisses) bzw. nach massgebendem kantonalen Strafrecht.
 
 Die Beschränkung auf die Prozessdauer ist wesentlich: Für die Zeit nach dem Prozessabschluss kann die strafbewehrte Geheimhaltungspflicht nicht auf Art. 156 ZPO gestützt werden, da die Norm als prozessuale Schutzvorschrift konzipiert ist.
 
 ### IV. Rechtsschutz bei Datenübermittlung
 
-In [BGE 150 I 191 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_191#e-2) hat das Bundesgericht entschieden, dass das Fehlen eines Rechtsmittels gegen die Datenübermittlung durch die Verwaltung an den Zivilrichter nicht gegen Art. 29a BV verstösst, da der Rechtsschutz durch den Zivilrichter gemäss Art. 156 ZPO ausreichend ist. Der Zivilrichter kann die erforderlichen Schutzmassnahmen anordnen, um die schutzwürdigen Interessen der betroffenen Personen zu wahren. Dies bedeutet, dass Art. 156 ZPO eine **Subsidiär-Garantie** des Rechtsschutzes bei Datenübermittlungen in Zivilverfahren darstellt.
+In BGE 150 I 191 hat das Bundesgericht entschieden, dass das Fehlen eines Rechtsmittels gegen die Datenübermittlung durch die Verwaltung an den Zivilrichter nicht gegen Art. 29a BV verstösst, da der Rechtsschutz durch den Zivilrichter gemäss Art. 156 ZPO ausreichend ist. Der Zivilrichter kann die erforderlichen Schutzmassnahmen anordnen, um die schutzwürdigen Interessen der betroffenen Personen zu wahren. Dies bedeutet, dass Art. 156 ZPO eine **Subsidiär-Garantie** des Rechtsschutzes bei Datenübermittlungen in Zivilverfahren darstellt.
 
 ### V. Anwendung im konkreten Einzelfall
 
@@ -82,7 +87,7 @@ In [BGE 150 I 191 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_191#e
 
 Geschäftsgeheimnisse bilden den wichtigsten Anwendungsfall. Bei Beweisabnahmen, die technische, kommerzielle oder finanzielle Betriebsgeheimnisse betreffen, hat das Gericht Schutzmassnahmen zu ergreifen. Dies gilt besonders in Wettbewerbs-, Patent- und Arbeitsverfahren, in denen eine Partei sensible Unternehmensdaten offenlegen muss.
 
-Die Anordnung eines **Spezialitätsverbehalts** ist eine bewährte Schutzmassnahme: Dem Empfänger der Beweismittel wird die Weitergabe an Dritte untersagt, und die Verwendung wird auf den konkreten Rechtstreit beschränkt. Auch die Einschaltung eines **Sachverständigen**, der die geheimen Dokumente als einziger Dritter einsehen darf, ist ein geeignetes Mittel (vgl. [BGer 8C_199/2010 E. 6.1](https://mcp.opencaselaw.ch/entscheid/bger_8C_199_2010#e-6-1)).
+Die Anordnung eines **Spezialitätsverbehalts** ist eine bewährte Schutzmassnahme: Dem Empfänger der Beweismittel wird die Weitergabe an Dritte untersagt, und die Verwendung wird auf den konkreten Rechtstreit beschränkt. Auch die Einschaltung eines **Sachverständigen**, der die geheimen Dokumente als einziger Dritter einsehen darf, ist ein geeignetes Mittel.
 
 #### 2. Familienrechtliche Verfahren
 
