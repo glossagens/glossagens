@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 119 ZPO"
 weight: 99
 date: 2026-07-18
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 119 ZPO — Gesuch und Verfahren (unentgeltliche Rechtspflege), Darlegungspflicht, rückwirkende Bewilligung."
-tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Verfahren"]
+description: "Übersicht der Rechtsprechung zu Art. 119 ZPO — Gesuch und Verfahren der unentgeltlichen Rechtspflege, Kostenlosigkeit nach Abs. 6, Bedürftigkeit."
+tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Kostenlosigkeit"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 13 %, Urteil C, 0 von 15 Paaren gestützt): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; BGE 143 III 213 existiert nicht und wurde entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,70 +21,48 @@ revisions:
 
 # Rechtsprechung zu Art. 119 ZPO
 
-Die folgende Übersicht dokumentiert die zentrale Rechtsprechung des Bundesgerichts zu Art. 119 ZPO (Gesuch und Verfahren im Rahmen der unentgeltlichen Rechtspflege). Die Entscheide betreffen namentlich die Darlegungspflicht, das summarische Verfahren, die rückwirkende Bewilligung sowie die Abgrenzung von Aussichtslosigkeit und Bös- oder Mutwilligkeit.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-## I. Leitentscheide
+## I. Kostenlosigkeit des Gesuchsverfahrens (Abs. 6)
 
-### [BGE 119 III 103](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_III_103) (21.12.1993)
+### [BGE 137 III 470, E. 6.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_470#e-6-3) (27.9.2011)
 
-Leitentscheid zur Darlegungspflicht im Gesuch um unentgeltliche Rechtspflege. Das Bundesgericht verlangt, dass der Gesuchsteller seine finanzielle Lage vollständig und nachvollziehbar offenlegt; ungenügende Angaben führen zur Abweisung des Gesuchs. Der Entscheid präzisiert den Umfang der Mitwirkungspflicht bei der Darlegung der Bedürftigkeit.
+**Kernaussage**: Gemäss Art. 119 Abs. 6 ZPO werden ausser bei Bös- und Mutwilligkeit im Verfahren um die unentgeltliche Rechtspflege keine Gerichtskosten erhoben.
 
-### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012)
+### [BGE 137 III 470, E. 6.5.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_470#e-6-5-5) (27.9.2011)
 
-Das Bundesgericht hält fest, dass das Verfahren über das Gesuch um unentgeltliche Rechtspflege summarischer Natur ist und eine formelle Anhörung der Gegenpartei in der Regel nicht erforderlich ist. Eine Anhörung kann jedoch geboten sein, wenn dies zur Sachaufklärung notwendig erscheint. Der Entscheid umschreibt die Grenzen des summarischen Charakters des URP-Verfahrens.
+**Kernaussage**: Aus dem Wortlaut von Art. 119 Abs. 6 ZPO ergibt sich nicht, ob die Kostenlosigkeit auch für das Rechtsmittelverfahren gilt; aus Entstehungsgeschichte und systematischer Stellung folgt jedoch, dass die Bestimmung einzig das Gesuchsverfahren vor der ersten oder zweiten Instanz erfasst.
 
-### [BGE 141 III 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_262) (11.8.2015)
+Die praktisch wichtigste Abgrenzung: Das **Beschwerdeverfahren** gegen einen die unentgeltliche Rechtspflege abweisenden oder entziehenden Entscheid ist **nicht** kostenlos. Wer gegen die Abweisung vorgeht, trägt dafür ein eigenes Kostenrisiko — gerade in der Lage, in der er mittellos zu sein behauptet.
 
-Grundsatzentscheid zur rückwirkenden Bewilligung der unentgeltlichen Rechtspflege. Das Bundesgericht bestätigt, dass die unentgeltliche Rechtspflege unter bestimmten Voraussetzungen auch rückwirkend für ein bereits abgeschlossenes Verfahren bewilligt werden kann, namentlich wenn das Gesuch aus entschuldbaren Gründen erst nachträglich eingereicht wurde. Die Voraussetzungen für eine rückwirkende Bewilligung werden konkretisiert.
+Der Wortlaut gibt das nicht her (E. 6.5.5); das Bundesgericht stützt sich auf Entstehungsgeschichte und Systematik. In Lehre und kantonaler Praxis wurde die Bestimmung teilweise weiter verstanden (E. 6.3).
 
-### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.5.2016)
+## II. Bedürftigkeit
 
-Zentraler Entscheid zur Abgrenzung der Aussichtslosigkeit von der Bös- oder Mutwilligkeit im Sinne von Art. 119 ZPO. Das Bundesgericht erläutert, dass ein Prozess nicht bereits dann mutwillig ist, wenn er zweifelhaft erscheint, sondern erst, wenn er ohne vernünftigen Grund geführt wird. Die Begriffe werden voneinander abgegrenzt und anhand von Fallbeispielen konkretisiert.
+### [BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36) (17.12.2015)
 
-### [BGE 142 III 515](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_515) (13.7.2016)
+**Kernaussage**: Die Pflicht, dem anderen in Rechtsstreitigkeiten durch Leistung von Prozesskostenvorschüssen beizustehen, ist eherechtlicher Natur und kann nur den Ehegatten treffen, nicht den Konkubinatspartner; die Tatsache des gemeinsamen Haushaltes kann aber bei der Berechnung der Bedürftigkeit des prozessführenden Konkubinatspartners berücksichtigt werden.
 
-Entscheid zur Sicherheitsleistung und ihrem Verhältnis zur unentgeltlichen Rechtspflege. Das Bundesgericht legt dar, unter welchen Umständen die Sicherheitsleistung als Ersatz oder Ergänzung der unentgeltlichen Rechtspflege fungieren kann. Die Interessenabwägung zwischen Kostendeckung und Zugang zum Recht wird herausgearbeitet.
+Für das Gesuch nach Art. 119 ZPO bedeutet das: Der Konkubinatspartner ist nicht vorschusspflichtig, seine Beteiligung am gemeinsamen Haushalt entlastet die gesuchstellende Partei aber faktisch und fliesst in die Bedürftigkeitsrechnung ein.
 
-### [BGE 144 III 531](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_531) (5.10.2018)
+## Audit-Protokoll
 
-Wichtiger Entscheid zum Verhältnis von unentgeltlicher Rechtspflege und Aussichtslosigkeit. Das Bundesgericht präzisiert den Massstab der Aussichtslosigkeit: Ein Prozess ist aussichtslos, wenn er mit grosser Wahrscheinlichkeit scheitern wird. Die Aussichtslosigkeit ist separat von der Bedürftigkeit zu prüfen und kann je nach Verfahrensstufe unterschiedlich zu beurteilen sein.
+Beim Audit vom 13.08.2026 war in diesem Bundle **kein einziges** der 15 Belegpaare
+gestützt (Belegquote 13 %, Urteil C); fünf Paare wurden mit `contradicts` beurteilt.
+Die Übersicht wurde verworfen und neu aufgebaut.
 
-### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013)
+**BGE 143 III 213 existiert nicht.** Die Referenz wurde entfernt.
 
-Entscheid zur Kostenverteilung im Zusammenhang mit der unentgeltlichen Rechtspflege. Das Bundesgericht erläutert, wie die Kosten des Verfahrens bei Bewilligung der URP verteilt werden und welche Folgen eine nachträgliche Aufhebung der URP für die Kostenverteilung hat. Die Grundsätze der Interessenabwägung werden präzisiert.
+Nicht übernommen wurden BGE 119 III 103, BGE 138 III 620, BGE 139 III 358,
+BGE 140 III 86, BGE 141 III 262, BGE 142 III 413, BGE 142 III 515, BGE 144 III 531,
+BGE 148 III 105 sowie BGer 4A_362/2018, 4A_404/2022, 4A_406/2022, 4A_696/2016 und
+5A_405/2011. Die Entscheide existieren; die ihnen zugeschriebenen Aussagen liessen sich
+in keiner Erwägung nachweisen.
 
-### [BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31.8.2021)
+Die neue Übersicht ist kurz. Zur Darlegungs- und Mitwirkungspflicht nach Abs. 2 und zur
+rückwirkenden Bewilligung — beides in der früheren Fassung behandelt — liess sich in der
+verfügbaren Zeit keine belegte Aussage gewinnen. Die Lücke ist ausgewiesen und nicht mit
+ungeprüften Einträgen gefüllt.
 
-Leitentscheid zu den Verfahrensgrundsätzen der unentgeltlichen Rechtspflege. Das Bundesgericht fasst die wesentlichen Verfahrensgrundsätze zusammen und betont die Bedeutung des rechtlichen Gehörs sowie der Begründungspflicht bei Ablehnung eines URP-Gesuchs. Der Entscheid klärt den Anwendungsbereich der Vorschriften über die URP in verschiedenen Verfahrensarten.
-
-## II. Weitere BGer-Entscheide
-
-### [BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86)
-
-Entscheid zur Neubeantragung der unentgeltlichen Rechtspflege im Rechtsmittelverfahren. Das Bundesgericht hält fest, dass die URP für jede Verfahrensstufe gesondert zu beantragen und zu prüfen ist. Eine im ersten Rechtsgang bewilligte URP erstreckt sich nicht automatisch auf das Rechtsmittelverfahren.
-
-### [BGE 143 III 213](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_213)
-
-Entscheid zur unentgeltlichen Rechtspflege im Schlichtungsverfahren. Das Bundesgericht bejaht die Anwendbarkeit der URP-Vorschriften auch im Schlichtungsverfahren vor der Schlichtungsbehörde. Die besonderen Anforderungen an die Darlegung der Bedürftigkeit und Aussicht auf Erfolg in diesem vereinfachten Verfahren werden umschrieben.
-
-### [BGer 5A_405/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_405_2011) (27.9.2011)
-
-Entscheid zur unentgeltlichen Rechtspflege im Familienverfahren. Das Bundesgericht erläutert die Besonderheiten der URP in familienrechtlichen Verfahren, namentlich im Hinblick auf die Darlegung der Bedürftigkeit bei gemischter Vermögenslage. Die Zuständigkeiten und das Verfahren werden präzisiert.
-
-### [BGer 4A_404/2022](https://mcp.opencaselaw.ch/entscheid/bger_4A_404_2022) (17.10.2022)
-
-Entscheid zum Verhältnis von unentgeltlicher Rechtspflege und Rechtsmittel. Das Bundesgericht prüft, unter welchen Voraussetzungen ein Rechtsmittelverzicht als unzumutbar erscheint und die URP trotz Bedenken zu bewilligen ist. Die Interessenabwägung zwischen Prozessökonomie und Zugang zum Recht wird betont.
-
-### [BGer 4A_362/2018](https://mcp.opencaselaw.ch/entscheid/bger_4A_362_2018) (5.10.2018)
-
-Entscheid zur Bedürftigkeit im Rahmen der unentgeltlichen Rechtspflege. Das Bundesgericht konkretisiert den Massstab der Bedürftigkeit und die Anforderungen an die Darlegung der wirtschaftlichen Verhältnisse. Insbesondere wird klargestellt, dass auch mittelbare Vermögenswerte zu berücksichtigen sind.
-
-### [BGer 4A_406/2022](https://mcp.opencaselaw.ch/entscheid/bger_4A_406_2022) (17.10.2022)
-
-Entscheid zu den allgemeinen Voraussetzungen der unentgeltlichen Rechtspflege. Das Bundesgericht stellt die kumulative Natur der Voraussetzungen (Bedürftigkeit, Aussicht auf Erfolg, keine Bös- oder Mutwilligkeit) heraus. Fehlt eine Voraussetzung, ist das Gesuch abzuweisen, selbst wenn die anderen erfüllt sind.
-
-### [BGer 4A_696/2016](https://mcp.opencaselaw.ch/entscheid/bger_4A_696_2016) (21.4.2017)
-
-Entscheid zum Verhältnis von unentgeltlicher Rechtspflege und Rechtsbeistand. Das Bundesgericht erläutert, unter welchen Umständen im Rahmen der URP ein unentgeltlicher Rechtsbeistand zu bestellen ist und wie sich dieser von der blossen URP unterscheidet. Die Voraussetzungen für die Beiordnung eines Anwalts werden konkretisiert.
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).

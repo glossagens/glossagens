@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 13 % → 100 %, Urteil A); BGE 143 III 213 existiert nicht und wurde entfernt; die Aussage zur Mitwirkungspflicht ruht neu auf Art. 119 Abs. 2 ZPO statt auf BGE 119 III 103, der etwas anderes entscheidet"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 15 Paaren gestützt; 11 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -75,7 +80,7 @@ Im Verfahren um die URP werden **keine Gerichtskosten** erhoben — ausser bei *
 
 Die Rechtsprechung zu Art. 119 ZPO ist umfangreich und konzentriert sich auf folgende Schwerpunkte:
 
-1. **Darlegungspflicht und Vollständigkeit**: Das Bundesgericht hat klargestellt, dass die Darlegungspflicht (Abs. 2) **vollständig** sein muss. Unvollständige oder falsche Angaben können zur Abweisung des Gesuchs führen. Das Gericht ist nicht verpflichtet, von sich aus Nachforschungen anzustellen — die Partei trägt die Beweislast für ihre Bedürftigkeit (BGE 119 III 103).
+1. **Darlegungspflicht und Vollständigkeit**: Das Bundesgericht hat klargestellt, dass die Darlegungspflicht (Abs. 2) **vollständig** sein muss. Unvollständige oder falsche Angaben können zur Abweisung des Gesuchs führen. Das Gericht ist nicht verpflichtet, von sich aus Nachforschungen anzustellen; die gesuchstellende Partei hat ihre Einkommens- und Vermögensverhältnisse darzulegen und soweit möglich zu belegen (Art. 119 Abs. 2 ZPO).
 
 2. **Rückwirkende Bewilligung**: Die rückwirkende Bewilligung (Abs. 4) ist die Ausnahme und erfordert **konkrete Gründe**, warum das Gesuch nicht früher gestellt wurde. Eine blosse Nachlässigkeit rechtfertigt keine rückwirkende Bewilligung.
 
