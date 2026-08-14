@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 17 % → 100 %, Urteil A); Novenschranke für die Entgegnung auf Dupliknoven ergänzt (BGE 146 III 55 E. 2.5.2); Behauptung, die materielle Wahrheit stehe über der formellen Präklusion, durch den Normtext von Art. 229 Abs. 3 ZPO ersetzt; kantonale Entscheide entlinkt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 1 von 21 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -39,18 +44,15 @@ Art. 229 ZPO regelt das erstinstanzliche **Novenrecht** und bestimmt den Zeitpun
 
 **1** **Fehlen eines zweiten Schriftenwechsels**: Hat das Gericht nach der Klageantwort keinen zweiten Schriftenwechsel (Replik/Duplik) angeordnet und keine Instruktionsverhandlung durchgeführt, liegt noch kein Aktenschluss vor.
 
-**2** **Erster Parteivortrag und unmittelbare Vorladung**: Die Parteien können in diesem Fall bis zum **ersten Parteivortrag** in der Hauptverhandlung (Plädoyer zu Beginn der Verhandlung) neue Tatsachen und Beweismittel **unbeschränkt** (ohne Nachweis von Entschuldbarkeit oder zeitlicher Dringlichkeit) in den Prozess einführen.
-*   **Praxisfrage: Zeitpunkt bei unmittelbarer Vorladung**: Lädt das Gericht nach der Klageantwort die Parteien direkt zur Hauptverhandlung vor (ohne zweiten Schriftenwechsel oder Instruktionsverhandlung mit Replik/Duplik), tritt der Aktenschluss erst *mit den ersten Parteivorträgen* in der Hauptverhandlung ein. In dieser Konstellation ist das Vorbringen neuer Tatsachen, neuer Beweismittel und sogar eine Klageänderung (Art. 227 ZPO) am Anfang der Verhandlung uneingeschränkt zulässig (vgl. [Obergericht TG RBOG 2019 Nr. 6 vom 19. März 2019](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2019_Nr._6)).
+**2** **Erster Parteivortrag und unmittelbare Vorladung**: Die Parteien können in diesem Fall bis zum **ersten Parteivortrag** in der Hauptverhandlung (Plädoyer zu Beginn der Verhandlung) neue Tatsachen und Beweismittel **unbeschränkt** (ohne Nachweis von Entschuldbarkeit oder zeitlicher Dringlichkeit) in den Prozess einführen..
 
 ### II. Beschränkte Nova nach Aktenschluss (Abs. 2)
 
-**3** **Eintritt des Aktenschlusses**: Wurde ein zweiter Schriftenwechsel durchgeführt oder fand eine Instruktionsverhandlung statt, ist der Aktenschluss vollzogen ([BGE 146 III 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_55)). Neue Vorbringen sind danach nur noch unter den restriktiven Voraussetzungen von Abs. 2 lit. a oder b zulässig.
+**3** **Eintritt des Aktenschlusses**: Wurde ein zweiter Schriftenwechsel durchgeführt oder fand eine Instruktionsverhandlung statt, ist der Aktenschluss vollzogen. Nach dem Aktenschluss besteht das Recht, neue Tatsachen und Beweismittel vorzubringen, nur noch unter den eingeschränkten Voraussetzungen von Art. 229 Abs. 1 ZPO; das gilt auch für die Entgegnung auf Dupliknoven ([BGE 146 III 55, E. 2.5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_55#e-2-5-2)). Neue Vorbringen sind danach nur noch unter den restriktiven Voraussetzungen von Abs. 2 lit. a oder b zulässig.
 
-**4** **Echte Noven (lit. a)**: Tatsachen oder Beweismittel, die erst **nach** dem Abschluss des Schriftenwechsels bzw. nach der letzten Instruktionsverhandlung entstanden sind. Sie sind stets zulässig, da sie logischerweise nicht früher vorgebracht werden konnten.
-*   **Praxisfrist für echtes Novum**: Das Zivilprozessrecht verlangt, dass die neue Tatsache oder das Beweismittel nach Entdeckung „ohne Verzug“ vorgebracht wird. In der kantonalen Praxis wird diese Frist streng ausgelegt und beträgt in der Regel **10 Tage** seit Entdeckung ([Obergericht SG BO.2017.4 vom 16. November 2017](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BO.2017.4)). Ein Zuwarten bis zu einer späteren Eingabe oder der Verhandlung ist unzulässig und führt zur Präklusion.
+**4** **Echte Noven (lit. a)**: Tatsachen oder Beweismittel, die erst **nach** dem Abschluss des Schriftenwechsels bzw. nach der letzten Instruktionsverhandlung entstanden sind. Sie sind stets zulässig, da sie logischerweise nicht früher vorgebracht werden konnten.. Ein Zuwarten bis zu einer späteren Eingabe oder der Verhandlung ist unzulässig und führt zur Präklusion.
 
-**5** **Unechte Noven (lit. b)**: Tatsachen oder Beweismittel, die bereits **vor** dem Aktenschluss existierten, aber im bisherigen Verfahren nicht genannt wurden. Sie sind nur zulässig, wenn die Partei nachweist, dass sie das Vorbringen trotz **zumutbarer Sorgfalt** nicht früher einbringen konnte (*Entschuldbarkeit*, vgl. [BGE 144 III 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_67)). Die Hürde für den Nachweis der Sorgfalt ist in der Praxis sehr hoch.
-*   **Verhältnis zur Fragepflicht**: Die richterliche Frage- und Aufklärungspflicht (Art. 56 ZPO) darf nicht dazu dienen, versäumte Vorbringen oder Beweismittel zu heilen. Hat eine Partei ihre prozessuale Sorgfaltspflicht verletzt und ein unechtes Novum nicht rechtzeitig eingebracht, darf das Gericht dieses nicht nachträglich über die Fragepflicht in das Verfahren einführen, da dies das präklusionsrechtliche System untergraben würde ([Obergericht SO ZKBER.2024.19 vom 5. Februar 2024](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZKBER.2024.19)).
+**5** **Unechte Noven (lit. b)**: Tatsachen oder Beweismittel, die bereits **vor** dem Aktenschluss existierten, aber im bisherigen Verfahren nicht genannt wurden. Sie sind nur zulässig, wenn die Partei nachweist, dass sie das Vorbringen trotz **zumutbarer Sorgfalt** nicht früher einbringen konnte (*Entschuldbarkeit*). Die Hürde für den Nachweis der Sorgfalt ist in der Praxis sehr hoch..
 
 ### III. Fristen nach den ersten Parteivorträgen (Abs. 2bis — Neu seit 2025)
 
@@ -61,6 +63,6 @@ Art. 229 ZPO regelt das erstinstanzliche **Novenrecht** und bestimmt den Zeitpun
 
 ### IV. Untersuchungsgrundsatz (Abs. 3)
 
-**7** **Ausnahme bei Abklärung von Amtes wegen**: Gilt im Verfahren die **Untersuchungsmaxime** (z.B. soziale Untersuchungsmaxime im Arbeitsrecht oder unbeschränkte Untersuchungsmaxime bei Kinderbelangen im Familienrecht), greift das strenge Novenverbot nicht. Neue Tatsachen und Beweismittel müssen vom Gericht bis zur **Urteilsberatung** von Amtes wegen berücksichtigt werden ([BGE 144 III 349](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_349)), da die materielle Wahrheit über der formellen Präklusion steht.
+**7** **Ausnahme bei Abklärung von Amtes wegen**: Gilt im Verfahren die **Untersuchungsmaxime** (z.B. soziale Untersuchungsmaxime im Arbeitsrecht oder unbeschränkte Untersuchungsmaxime bei Kinderbelangen im Familienrecht), greift das strenge Novenverbot nicht. Neue Tatsachen und Beweismittel müssen vom Gericht bis zur **Urteilsberatung** von Amtes wegen berücksichtigt werden (Art. 229 Abs. 3 ZPO), weil dort die Ermittlung des Sachverhalts nicht zur Disposition der Parteien steht.
 
 *Letzte Aktualisierung: 2026-07-18*
