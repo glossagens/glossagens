@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat teilsaniert (Belegquote 58 % → 76 %, weiterhin Urteil B): Belege zur notwendigen Streitgenossenschaft auf Art. 70 ZPO bzw. auf verifizierte Erwägungen umgestellt; nicht existierende Pinpoints entfernt; BGE 113 Ia 104 der Wiedergabe in BGE 152 III 51 E. 5.3.2 zugeordnet. Verbleibend rund 19 partial-Befunde (überdehnte Paraphrasen) — Feinschliff offen"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 26 von 66 Paaren gestützt; 18 ungestützt; 2 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -29,14 +34,14 @@ revisions:
 Die Bestimmungen ueber die Streitgenossenschaft bilden einen zusammenhaengenden Regelungszusammenhang:
 
 - **Art. 69 ZPO** (Unvermoegen der Partei) regelt die prozessuale Vertretung bei Verhandlungsunfaehigkeit einer Partei.
-- **Art. 70 ZPO** (Notwendige Streitgenossenschaft) betrifft Faelle, in denen mehrere Personen an einem Rechtsverhaeltnis beteiligt sind, ueber das nur mit Wirkung fuer alle entschieden werden kann. Hier besteht Beteiligungszwang: Die Streitgenossen muessen gemeinsam klagen oder beklagt werden, und rechtzeitige Prozesshandlungen eines Streitgenossen wirken auch fuer saeumige Streitgenossen (BGE 146 III 346, E. 3; BGE 148 III 270, E. 3.3).
+- **Art. 70 ZPO** (Notwendige Streitgenossenschaft) betrifft Faelle, in denen mehrere Personen an einem Rechtsverhaeltnis beteiligt sind, ueber das nur mit Wirkung fuer alle entschieden werden kann. Hier besteht Beteiligungszwang: Die Streitgenossen muessen gemeinsam klagen oder beklagt werden, und rechtzeitige Prozesshandlungen eines Streitgenossen wirken auch fuer saeumige Streitgenossen (Art. 70 Abs. 1 und 2 ZPO).
 - **Art. 71 ZPO** (Einfache Streitgenossenschaft) erfasst die fakultative Streitgenossenschaft: Mehrere Personen koennen, muessen aber nicht gemeinsam klagen oder beklagt werden. Jeder Streitgenosse fuehrt den Prozess selbstaendig (Abs. 2).
 
-Die Abgrenzung zwischen notwendiger und einfacher Streitgenossenschaft ist materiellrechtlicher Natur: Massgeblich ist, ob das materielle Recht eine einheitliche Entscheidung fuer alle Beteiligten verlangt (BGE 148 III 270, E. 3.3). Beispiele fuer notwendige Streitgenossenschaft bilden die Erbengemeinschaft (Art. 602 Abs. 2 ZGB) oder die Mitmieter bei der Mietzinsherabsetzungsklage (BGE 146 III 346, E. 3).
+Die Abgrenzung zwischen notwendiger und einfacher Streitgenossenschaft ist materiellrechtlicher Natur: Massgeblich ist, ob das materielle Recht eine einheitliche Entscheidung fuer alle Beteiligten verlangt. Beispiele bilden die Erbengemeinschaft (Art. 602 Abs. 2 ZGB) und die Mitmieter bei der Mietzinsherabsetzungsklage; bei Letzteren genuegt es allerdings, wenn alle Mitmieter als Parteien am Prozess beteiligt sind, sodass ein Mitmieter allein klagen kann, wenn er die uebrigen ins Recht fasst ([BGE 146 III 346](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_346)).
 
 ### Verhaeltnis zur objektiven Klagenhaeufung (Art. 90 ZPO)
 
-Wahrend Art. 90 ZPO die Haufung mehrerer Begehren gegen *dieselbe* Partei regelt, erfasst Art. 71 ZPO die Haufung von Klagen gegen *verschiedene* Streitgenossen. Die sachliche Zustaendigkeit nach Art. 90 lit. a ZPO muss fuer alle eingeklagten Anspuche gleich sein; diese Voraussetzung gilt auch fuer die einfache Streitgenossenschaft (BGE 142 III 581, E. 2.1; BGE 138 III 471, E. 5.1).
+Wahrend Art. 90 ZPO die Haufung mehrerer Begehren gegen *dieselbe* Partei regelt, erfasst Art. 71 ZPO die Haufung von Klagen gegen *verschiedene* Streitgenossen. Fuer alle eingeklagten Ansprueche muss dieselbe sachliche Zustaendigkeit gelten; Art. 71 ZPO setzt das stillschweigend voraus (BGE 142 III 581, E. 2.1; BGE 138 III 471, E. 5.1).
 
 ## Einfache Streitgenossenschaft (Abs. 1)
 
@@ -55,8 +60,8 @@ Die drei kumulativ zu erfuellenden Voraussetzungen des Art. 71 Abs. 1 ZPO sind:
 Jeder Streitgenosse macht unabhaengig vom anderen eigenstaendige Anspuche geltend (4A_391/2024 vom 5. Dezember 2024, E. 3.1.3; 4A_23/2018 vom 8. Februar 2019, E. 2.1); umgekehrt steht jeder eingeklagte einfache Streitgenosse in einem eigenstaendigen Rechtsverhaeltnis zum Klaeger (BGE 149 III 12, E. 3.1.1.3). Dies hat folgende Konsequenzen:
 
 - Jeder Streitgenosse kann den Prozess unabhaengig fuehren (Abs. 2).
-- Die Kostenentscheide sind fuer die einzelnen Klagen voneinander unabhaengig zu gestalten (BGE 113 Ia 104, E. 2c).
-- Jeder Klaeger einer einfachen Streitgenossenschaft kann einzeln zur Sicherheit fuer die Parteientschaedigung verpflichtet werden, unabhaengig von der Situation der anderen Streitgenossen (BGE 147 III 529, E. 3).
+- Die Kostenentscheide sind fuer die einzelnen Klagen voneinander unabhaengig zu gestalten (BGE 113 Ia 104).
+- Jeder Klaeger einer einfachen Streitgenossenschaft kann einzeln zur Sicherheit fuer die Parteientschaedigung verpflichtet werden, unabhaengig von der Situation der anderen Streitgenossen ([BGE 147 III 529](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_529)).
 
 ### Vereinigung und Trennung von Klagen
 
@@ -70,7 +75,7 @@ Die eventuelle einfache passive Streitgenossenschaft zeichnet sich dadurch aus, 
 
 ### Zulaessigkeit
 
-Das Bundesgericht hat in BGE 152 III 51 die Zulaessigkeit der eventuellen passiven Streitgenossenschaft ausdruecklich bejaht. Zuvor hatte es die Frage offengelassen (4A_262/2022 vom 5. September 2022, E. 3; 4A_23/2018 vom 8. Februar 2019, E. 2.1.1). Bereits vor Inkrafttreten der ZPO hatte das Bundesgericht die Zulaessigkeit zumindest implizit anerkannt (BGE 113 Ia 104, E. 2c).
+Das Bundesgericht hat in BGE 152 III 51 die Zulaessigkeit der eventuellen passiven Streitgenossenschaft ausdruecklich bejaht. Zuvor hatte es die Frage unter der Geltung der eidgenoessischen ZPO offengelassen ([BGE 152 III 51, E. 5.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_152_III_51#e-5-3-2)). Bereits vor Inkrafttreten der ZPO hatte das Bundesgericht die Zulaessigkeit zumindest implizit anerkannt (so die Wiedergabe von BGE 113 Ia 104 in [BGE 152 III 51, E. 5.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_152_III_51#e-5-3-2)).
 
 **Mehrheitsmeinung in der Lehre:** Die herrschende Lehre erachtet die eventuelle passive Streitgenossenschaft als zulaessig (Gross/Zuber, in: Berner Kommentar, ZPO, Bd. I, 2012, N. 6 zu Art. 71 ZPO; Ruggle, in: Basler Kommentar, ZPO, 4. Aufl. 2025, N. 8 zu Art. 71 ZPO; Jeandin, in: CPC, Code de procedure civile commente, 2011, N. 7 zu Art. 71 ZPO; Stahelin/Schweizer, in: Kommentar zur ZPO, Bd. I, 4. Aufl. 2025, N. 1a zu Art. 71 ZPO; Hahn, in: Schweizerische ZPO, Baker & McKenzie, 2010, N. 3 zu Art. 71 ZPO; Hohl, Procedure civile, Bd. I, 2. Aufl. 2016, Rz. 850; May Canellas, in: CPC, Code de procedure civile, 2021, N. 5 zu Art. 71 ZPO; Leuenberger/Uffer-Tobler, Schweizerisches Zivilprozessrecht, 2. Aufl. 2016, Rz. 3.44; Trezzini, in: Commentario pratico al CPC, Bd. I, 3. Aufl. 2025, N. 7 zu Art. 71 ZPO; Berger/Guengerich/Hurni/Strittmatter, Zivilprozessrecht, 3. Aufl. 2025, Rz. 830; Schaad, La consorite en procedure civile, 1993, S. 51). Begruendet wird dies im Wesentlichen damit, dass die eventuelle passive Streitgenossenschaft der Gefahr widerspruechlicher Urteile vorbeuge und der Durchsetzung des materiellen Rechts diene (BGE 152 III 51, E. 5.3.2; Gross/Zuber, N. 6 zu Art. 71 ZPO).
 
@@ -96,12 +101,14 @@ Jeder einfache Streitgenosse kann den Prozess unabhaengig von den anderen Streit
 
 ### Schlichtungsverfahren
 
-Klagen mehrere Klaeger gegen mehrere Beklagte auf Ungueltigkeit einer letztwilligen Verfuegung, bilden die Prozessparteien aktiv- und passivseitig einfache Streitgenossenschaften (BGE 149 III 12, E. 3.1.1.3 und 3.1.1.4). Art. 206 Abs. 2 ZPO findet im Fall einer einfachen Streitgenossenschaft keine Anwendung (BGE 149 III 12, E. 3.1.2). Bei eventueller passiver Streitgenossenschaft wird das Schlichtungsverfahren auch hinsichtlich der Eventualklage gueltig durchgefuehrt, sofern der Eventualbeklagte sich an der Schlichtungsverhandlung verhaelt (BGE 152 III 51, E. 5.4).
+Klagen mehrere Klaeger gegen mehrere Beklagte auf Ungueltigkeit einer letztwilligen Verfuegung, bilden die Prozessparteien in der Regel aktiv- und passivseitig einfache Streitgenossenschaften (BGE 149 III 12, E. 3.1.1.3 und 3.1.1.4). Art. 206 Abs. 2 ZPO findet im Fall einer einfachen Streitgenossenschaft keine Anwendung (BGE 149 III 12, E. 3.1.2). Bei eventueller passiver Streitgenossenschaft wird das Schlichtungsverfahren auch hinsichtlich der Eventualklage gueltig durchgefuehrt, sofern der Eventualbeklagte sich an der Schlichtungsverhandlung verhaelt (BGE 152 III 51, E. 5.4).
 
 ### Sicherheit fuer Parteientschaedigung
 
-Jeder Klaeger einer einfachen Streitgenossenschaft kann einzeln zur Sicherheitsleistung fuer die Parteientschaedigung verpflichtet werden, unabhaengig von der Situation der anderen Streitgenossen (BGE 147 III 529, E. 3).
+Jeder Klaeger einer einfachen Streitgenossenschaft kann einzeln zur Sicherheitsleistung fuer die Parteientschaedigung verpflichtet werden, unabhaengig von der Situation der anderen Streitgenossen ([BGE 147 III 529](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_529)).
 
 ### Handelsgericht
 
-Bei einer einfachen Streitgenossenschaft vor dem Handelsgericht muss die sachliche Zustaendigkeit fuer alle Streitgenossen gegeben sein (BGE 138 III 471, E. 5.1). Die konnexe Widerklage gegen einen Streitgenossen ohne Handelsregistereintrag ist zulaessig (BGE 143 III 495, E. 2).
+Bei einer einfachen Streitgenossenschaft vor dem Handelsgericht muss die sachliche Zustaendigkeit fuer alle Streitgenossen gegeben sein ([BGE 138 III 471, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_471#e-5-1)).
+
+Die konnexe Widerklage gegen einen Streitgenossen ohne Handelsregistereintrag ist zulaessig ([BGE 143 III 495](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_495)).
