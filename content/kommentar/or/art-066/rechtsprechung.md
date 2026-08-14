@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 66 OR"
 weight: 66
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-08-14
 description: "Massgebliche Bundesgerichtspraxis zu Art. 66 OR — condictio ob causam turpem, Gaunerlohn, Rückforderungsausschluss bei sittenwidrigen Leistungen"
 tags: ["OR", "condictio ob turpem", "Gaunerlohn", "Rückforderungsausschluss", "Sittenwidrigkeit"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "6-Punkt-Verifikation: BGE 112 II 1 nicht OCL-verifizierbar (resolves zu BGE 112 II 102 / Art. 323 ZGB). BGer 6B_994/2010 als *Kontextzitat* qualifiziert. Ältere BGE (53 II 41, 74 II 27, 82 II 75, 76 II 369, 95 II 37) nicht auf OCL digitalisiert. Alle übrigen Zitate bestätigt."
 ---
 
 ## Rechtsprechung zu Art. 66 OR
@@ -58,11 +64,15 @@ agent_verified: false
 
 **Bedeutung**: Erweitert den Anwendungsbereich von Art. 66 OR auf die Gegenleistung bei Schuldübernahme.
 
+*Hinweis*: Älterer BGE, nicht individuell auf OCL digitalisiert.
+
 ---
 
 #### BGE 112 II 1 — Auflösung einer juristischen Person; Art. 20 Abs. 3 BetmG
 
 **Regeste**: Auflösung einer juristischen Person mit widerrechtlichem Zweck. Art. 20 Abs. 3 BetmG schliesst die Anwendung von Art. 66 OR nur bei der Rückabwicklung einzelner, gemäss BetmG nichtiger Rechtsgeschäfte aus (E. 7).
+
+*Hinweis*: Nicht OCL-verifizierbar — OCL resolved BGE 112 II 1 zu BGE 112 II 102 (Art. 323 ZGB). Der zitierte Inhalt (BetmG/Art. 66 OR) konnte anhand der OCL-Quelle nicht bestätigt werden.
 
 ---
 
@@ -83,7 +93,7 @@ agent_verified: false
 | BGE 91 IV 69 | Pfändbarkeit sittenwidriger Einkünfte trotz Art. 66 OR |
 | BGE 111 II 295 | Verdienstausfall sittenwidriger Tätigkeit ist ersatzfähig |
 | BGer 4A_16/2008 | Konsortialvertrag; einschränkende Auslegung gleich BGE 134 III 438 |
-| BGer 6B_994/2010 | Condictio ob causam turpem im Strafrecht |
+| BGer 6B_994/2010 | *Kontextzitat*: Strafrechtlicher Kontext (Notwehr, Diebstahl); direkter Bezug zu Art. 66 OR nicht in der Regeste ersichtlich |
 
 ### Rechtsprechungsentwicklung
 
@@ -96,7 +106,7 @@ agent_verified: false
 | 1969 | BGE 95 II 37 | Anwendbarkeit auf Schmiergeld / Gegenleistung |
 | 1975 | BGE 101 IV 177 | Einziehung und Verfall |
 | 1978 | BGE 104 II 99 | Rechtsmissbrauchskorrektur |
-| 1986 | BGE 112 II 1 | BetmG verdrängt Art. 66 OR teilweise |
+| 1986 | BGE 112 II 1 | BetmG verdrängt Art. 66 OR teilweise (*nicht OCL-verifizierbar*) |
 | 1991 | BGE 117 IV 139 | Konkurrenz mit Art. 41 OR |
 | 1997 | BGE 123 III 101 | condictio ob turpem vel iniustam causam |
 | 1998 | BGE 124 III 253 | Keine Derogation vertraglicher Ansprüche |

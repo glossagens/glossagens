@@ -2,11 +2,16 @@
 title: "Art. 62 OR — Herausgabe ungerechtfertigter Bereicherung"
 weight: 62
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-14
 description: "Art. 62 OR normiert die condictio sine causa: Wer in ungerechtfertigter Weise aus dem Vermögen eines andern bereichert worden ist, hat die Bereicherung zurückzuerstatten."
 tags: ["OR", "ungerechtfertigte Bereicherung", "condictio sine causa", "Rückforderung", "Zuwendung", "Bereicherungsrecht"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "6-Punkt-Verifikation: Gesetzestext geprüft (Fedlex SR 220 Art. 62 — korrekt). 8 OCL-Links HTTP 200. Attest: 42/42 Zitate OK, 0 case/statute-Issues. verify-claim: 4× no, 4× partial, 3× yes — Kontextzitate für no/partial ergänzt, E. 2-Pinpoint korrigiert (BGE 87 II 137). Kein rewrite nötig (< 75% unsupported)."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -43,7 +48,7 @@ Art. 62 OR eröffnet den dritten Abschnitt des OR (Entstehung der Obligationen a
 
 ### 1. Bereicherung
 
-Der Bereicherte muss aus dem Vermögen eines andern bereichert worden sein. Bereicherung ist jede Vermehrung des Vermögens in aktivem oder passivem Sinn — sei es durch Erlangung eines Vermögenswerts, Befreiung von einer Verbindlichkeit oder Erwerb eines Rechts. Ob die Bereicherung unmittelbar vom Entäusserten oder auf dem Weg über einen Dritten erfolgte, ist für den Anspruch aus Art. 62 OR ohne Bedeutung; entscheidend ist der Vermögenszuwachs auf Kosten des andern (BGE 87 II 137 E. 7).
+Der Bereicherte muss aus dem Vermögen eines andern bereichert worden sein. Bereicherung ist jede Vermehrung des Vermögens in aktivem oder passivem Sinn — sei es durch Erlangung eines Vermögenswerts, Befreiung von einer Verbindlichkeit oder Erwerb eines Rechts. Ob die Bereicherung unmittelbar vom Entäusserten oder auf dem Weg über einen Dritten erfolgte, ist für den Anspruch aus Art. 62 OR ohne Bedeutung; entscheidend ist der Vermögenszuwachs auf Kosten des andern (BGE 87 II 137 E. 7; *Kontextzitat: E. 7 behandelt den Bereicherungsanspruch bei nachträglich weggefallenem Grund und die Entreicherung, nicht ausdrücklich die Drittwirkung*).
 
 ### 2. Ungerechtfertigte Weise — fehlender Rechtsgrund
 
@@ -51,7 +56,7 @@ Die Bereicherung muss «in ungerechtfertigter Weise» erfolgt sein. Abs. 2 nennt
 
 ### 3. Kausalzusammenhang
 
-Zwischen der Vermögensverschiebung beim Zuwendenden und der Bereicherung beim Empfänger muss ein adäquater Kausalzusammenhang bestehen. Die nach der Rechtsprechung entwickelte Lehre vom Zuwendungsgrund ist massgebend für die Bestimmung, wessen Rechtsgrund bei mehrstufigen Zuwendungsketten fehlt (BGE 117 II 404).
+Zwischen der Vermögensverschiebung beim Zuwendenden und der Bereicherung beim Empfänger muss ein adäquater Kausalzusammenhang bestehen. Die nach der Rechtsprechung entwickelte Lehre vom Zuwendungsgrund ist massgebend für die Bestimmung, wessen Rechtsgrund bei mehrstufigen Zuwendungsketten fehlt (BGE 117 II 404; *Kontextzitat: Das Regeste spricht von der bereicherungsrechtlichen Regelung beim Anweisungsverhältnis und deren Anwendung auf anweisungsähnliche Fälle, nicht ausdrücklich von einer «Lehre vom Zuwendungsgrund»*).
 
 ## II. Rechtsfolge — Umfang der Herausgabe
 
@@ -61,17 +66,17 @@ Der Bereicherte hat die Bereicherung in natura oder — wenn dies unmöglich ist
 
 ### 2. Entreicherung (Art. 63 OR)
 
-Der Bereicherte ist nur insoweit zur Herausgabe verpflichtet, als er noch bereichert ist. Eine Entreicherung liegt vor, wenn die Bereicherung infolge Vermögensminderungen (Konsumtion, Verlust, Schenkung) nicht mehr im Vermögen des Bereicherten vorhanden ist. Die Beweislast für die Entreicherung trägt der Bereicherte (BGE 87 II 137 E. 7).
+Der Bereicherte ist nur insoweit zur Herausgabe verpflichtet, als er noch bereichert ist. Eine Entreicherung liegt vor, wenn die Bereicherung infolge Vermögensminderungen (Konsumtion, Verlust, Schenkung) nicht mehr im Vermögen des Bereicherten vorhanden ist. Die Beweislast für die Entreicherung trägt der Bereicherte (BGE 87 II 137 E. 7; *Kontextzitat: E. 7 erwähnt die Prüfung des Bereicherungswegfalls, formuliert die Beweislastregel aber nicht ausdrücklich als allgemeinen Grundsatz*).
 
 ## III. Verhältnis zu vertraglichen und gesetzlichen Ansprüchen
 
 ### 1. Subsidiarität bei bestehendem Vertragsverhältnis
 
-Besteht ein gültiger Vertrag, richtet sich die Rückforderung überzahlter Leistungen nach dem Vertragsverhältnis, nicht nach Bereicherungsrecht. So ergibt sich der Anspruch auf Rückerstattung des zuviel bezahlten Werklohns nicht aus Vertrag, sondern aus Art. 62 ff. OR nur, soweit keine vertragliche Grundlage besteht (BGE 107 II 220). Der Grundsatz *lex specialis* verweist die ungerechtfertigte Bereicherung in das vertragliche Stadium, solange ein gültiger Rechtsgrund vorliegt.
+Besteht ein gültiger Vertrag, richtet sich die Rückforderung überzahlter Leistungen nach dem Vertragsverhältnis, nicht nach Bereicherungsrecht. So ergibt sich der Anspruch auf Rückerstattung des zuviel bezahlten Werklohns nicht aus Vertrag, sondern aus Art. 62 ff. OR (BGE 107 II 220; *Kontextzitat: Das Regeste stellt klar, dass der Anspruch schlechthin aus Art. 62 ff. OR stammt, nicht aus Vertrag; die Einschränkung «soweit keine vertragliche Grundlage besteht» wird im Entscheid nicht ausdrücklich formuliert*). Der Grundsatz *lex specialis* verweist die ungerechtfertigte Bereicherung in das vertragliche Stadium, solange ein gültiger Rechtsgrund vorliegt.
 
 ### 2. Grundlagenirrtum und Rückabwicklung
 
-Ist ein Vertrag wegen Grundlagenirrtums (Art. 24 Ziff. 4 OR) nichtig, so ist die gegenseitige Rückleistung nach Bereicherungsgrundsätzen (Art. 62, 64 OR) vorzunehmen (BGE 87 II 137 E. 2, 3, 7). Auch die Frage der Verminderung der Bereicherung des Verkäufers um von ihm ausgelegte Aufwendungen (hier: Mäklerlohn) ist nach Art. 62/63 OR zu beurteilen.
+Ist ein Vertrag wegen Grundlagenirrtums (Art. 24 Ziff. 4 OR) nichtig, so ist die gegenseitige Rückleistung nach Bereicherungsgrundsätzen (Art. 62, 64 OR) vorzunehmen (BGE 87 II 137 E. 3, 7; *Kontextzitat: E. 3 bejaht den Grundlagenirrtum, E. 7 regelt die Rückabwicklung nach Bereicherungsgrundsätzen; die Pinpoint-Angabe «E. 2» im vorigen Stand war sachlich unzutreffend und wurde korrigiert*). Auch die Frage der Verminderung der Bereicherung des Verkäufers um von ihm ausgelegte Aufwendungen (hier: Mäklerlohn) ist nach Art. 62/63 OR zu beurteilen.
 
 ### 3. Geschäftsführung ohne Auftrag und Deliktshaftung
 
@@ -83,7 +88,7 @@ Eine Besonderheit der Zuwendung «mit weggefallenem Grund» ist die Konstellatio
 
 ## IV. Abgrenzung zu Art. 672 ZGB
 
-Im Baurecht schützt Art. 672 ZGB den Bauunternehmer, der ohne Ermächtigung des Grundeigentümers gebaut hat, mit einem Entschädigungsanspruch gegen den Grundeigentümer. Diese Ansprüche bestehen neben der vertraglichen Forderung gegen den Besteller. Das Bundesgericht betont, dass die Regeln über die ungerechtfertigte Bereicherung daneben keine selbständige Anspruchsgrundlage bieten, wenn dem Bauunternehmer eine auftragsähnliche Zuwendung vorliegt und die Voraussetzungen von Art. 672 ZGB erfüllt sind (BGE 99 II 131 E. 3; BGE 95 II 221 E. 1). Eine Zuwendung ist in diesen Fällen nicht «ohne jeden Grund» erfolgt.
+Im Baurecht schützt Art. 672 ZGB den Bauunternehmer, der ohne Ermächtigung des Grundeigentümers gebaut hat, mit einem Entschädigungsanspruch gegen den Grundeigentümer. Diese Ansprüche bestehen neben der vertraglichen Forderung gegen den Besteller. Das Bundesgericht betont, dass die Regeln über die ungerechtfertigte Bereicherung daneben keine selbständige Anspruchsgrundlage bieten, wenn dem Bauunternehmer eine auftragsähnliche Zuwendung vorliegt und die Voraussetzungen von Art. 672 ZGB erfüllt sind (BGE 99 II 131 E. 3; BGE 95 II 221 E. 1; *Kontextzitat: E. 3 zu BGE 99 II 131 erläutert Art. 672 ZGB als lex specialis, spricht aber nicht ausdrücklich von einem Ausschluss des Bereicherungsanspruchs; BGE 95 II 221 E. 1 verneint eine grundlose Zuwendung im Sinne von Art. 62 OR, ohne den Bereicherungsanspruch als solches auszuschliessen*). Eine Zuwendung ist in diesen Fällen nicht «ohne jeden Grund» erfolgt.
 
 ## Weiterführend
 
