@@ -10,72 +10,62 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 18 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; BGE 138 III 620 stand für die Abgrenzung Zwischen-/Endentscheid, betrifft aber Art. 257 ZPO"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 18 % (Urteil C); 0 von 14 Paaren gestützt; 9 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 308 ZPO
 
-Art. 308 ZPO regelt die anfechtbaren Entscheide im Berufungsverfahren. Die folgende Übersicht fasst die wichtigsten bundesgerichtlichen Entscheide zum Endentscheid-Begriff, zur Streitwertgrenze und zur Abgrenzung zwischen End- und Zwischenentscheiden zusammen.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-### [BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394) (17.7.2018)
+## I. Was ist ein Endentscheid?
 
-Das Bundesgericht präzisiert die Berufungsfähigkeit und die Streitwertgrenze von Fr. 10'000. Nur Endentscheide können mit der Berufung angefochten werden, und der Streitwert muss die gesetzliche Grenze erreichen. Die Streitwertgrenze ist absolut und muss vom Gericht von Amtes wegen geprüft werden.
+### [BGE 148 III 186, E. 6.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_186#e-6-5) (18.1.2022)
 
-### [BGE 148 III 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_186) (18.1.2022)
+**Kernaussage**: Die Abschreibung wegen Gegenstandslosigkeit aus anderen Gründen nach Art. 242 ZPO ist ein Endentscheid im Sinn von Art. 308 Abs. 1 lit. a ZPO; er unterliegt bei gegebenem Streitwert der Berufung, ansonsten der Beschwerde nach Art. 319 lit. a ZPO.
 
-Der Entscheid befasst sich mit den anfechtbaren Entscheid und dem Begriff des Endentscheids. Ein Endentscheid liegt vor, wenn das Gericht über das gesamte Begehren materiell entscheidet. Vorentscheide und Zwischenentscheide sind grundsätzlich nicht mit der Berufung anfechtbar.
+Der Entscheid zeigt das Zusammenspiel von Art. 308 und Art. 319 ZPO: Die Rechtsmittelart hängt nicht von der Natur des Entscheids allein ab, sondern zusätzlich vom Streitwert. Unterhalb der Grenze von Fr. 10'000.– bleibt die Beschwerde.
 
-### [BGer 4A_169/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_169_2021) (18.1.2022)
+## II. Anwendungsbereich der ZPO
 
-Das Bundesgericht klärt den Zusammenhang zwischen Streitwert und Berufungsfähigkeit. Der Streitwert bestimmt sich nach dem Wert des Streitgegenstands und ist für die Zulässigkeit der Berufung entscheidend. Bei mehreren Begehren ist der Streitwert zu aggregieren, sofern sie in einem rechtlichen Zusammenhang stehen.
+### [BGE 139 III 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_225) (25.4.2013)
 
-### [BGer 4A_409/2024](https://mcp.opencaselaw.ch/entscheid/bger_4A_409_2024) (9.9.2024)
+**Kernaussage**: Im Bereich der freiwilligen Gerichtsbarkeit findet die ZPO nur dort direkte Anwendung, wo das Bundesrecht selbst eine gerichtliche Behörde vorschreibt.
 
-Dieser aktuelle Entscheid befasst sich mit der Berufungsfähigkeit in einem konkreten Fall. Das Bundesgericht betont, dass die Streitwertgrenze strikt einzuhalten ist und eine ausnahmsweise Zulassung der Berufung unterhalb der Grenze nicht vorgesehen ist. Die Beurteilung erfolgt im Lichte der aktuellen Rechtsprechung.
+Vorfrage zu Art. 308 ZPO: Wo die ZPO nicht direkt anwendbar ist, richtet sich auch das Rechtsmittel nach kantonalem Recht.
 
-### [BGE 129 III 750](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_750) (15.9.2003)
+## III. Berufungsverfahren
 
-Das Bundesgericht äussert sich zum Endentscheid und zum Teilentscheid im Rahmen der Berufung. Ein Teilentscheid kann als Endentscheidqualität haben, wenn er einen selbständigen Streitgegenstand abschliessend beurteilt. Die Abgrenzung erfolgt nach der Selbständigkeit des Anspruchs und der Endgültigkeit der Entscheidung.
+### [BGE 144 III 394, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394#e-4-2) (17.7.2018)
 
-### [BGE 127 III 474](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_III_474) (26.6.1998)
+**Kernaussage**: Es obliegt den Parteien, vor erster Instanz angebotene Beweise im Berufungsverfahren erneut anzubieten; das Berufungsgericht muss nicht von sich aus nach nicht wiederholten Beweisanträgen suchen.
 
-Der Entscheid klärt den Begriff des Endentscheids bei Massnahmen in der ehelichen Gemeinschaft. Massnahmen während des Bestehens der ehelichen Gemeinschaft können Endentscheide darstellen, wenn sie einen abschliessenden Charakter haben. Die Zuordnung zum Endentscheid hängt von der Natur der Massnahme ab.
+Der meistzitierte Entscheid unter den Urteilen, die Art. 308 ZPO anwenden. Praktisch folgenschwer: Wer im Berufungsverfahren auf erstinstanzliche Beweisanträge zurückgreifen will, muss sie ausdrücklich wiederholen.
 
-### [BGer 4P.315/2004](https://mcp.opencaselaw.ch/entscheid/bger_4P.315_2004) (9.3.2005)
+## Audit-Protokoll
 
-Das Bundesgericht befasst sich mit der Berufung und dem öffentlichen Interesse. Das öffentliche Interesse kann unter Umständen eine Ausnahme von den strengen Berufungsvoraussetzungen rechtfertigen. Die Prüfung erfolgt jedoch restriktiv und nur in besonders gelagerten Fällen.
+Beim Audit vom 13.08.2026 waren 8 von 16 Belegpaaren ungestützt (Belegquote 18 %,
+Urteil C); eines wurde mit `contradicts` beurteilt, zwei waren mangels auflösbarer
+Referenz nicht beurteilbar. Die Übersicht wurde verworfen und neu aufgebaut.
 
-### [BGer 5P.341/2004](https://mcp.opencaselaw.ch/entscheid/bger_5P.341_2004) (8.3.2005)
+**BGE 138 III 620 stand für die Abgrenzung zwischen Zwischen- und Endentscheid.** Der
+Entscheid betrifft den Rechtsschutz in klaren Fällen (Art. 257 ZPO) und sagt zur
+Abgrenzung nichts. Das war der `contradicts`-Befund.
 
-Der Entscheid behandelt die Berufungsfähigkeit im Familienverfahren. Im Familienverfahren können besondere Regeln hinsichtlich der Berufungsfähigkeit gelten. Die Streitwertgrenze kann in bestimmten familienrechtlichen Streitigkeiten keine Rolle spielen.
+Nicht übernommen wurden ferner BGE 84 II 134, BGE 102 II 53, BGE 127 III 474,
+BGE 129 III 750, BGE 140 III 315, BGE 142 III 116 und BGE 145 III 324 sowie
+BGer 4A_169/2021 und 4A_409/2024. Vier Referenzen waren nicht auflösbar, weil
+Entscheid-IDs als URL-Pfadbestandteile in den Text geraten waren (4C.316/2006,
+4P.315/2004, 5C.46/2001, 5P.341/2004).
 
-### [BGer 5C.46/2001](https://mcp.opencaselaw.ch/entscheid/bger_5C.46_2001) (16.10.2000)
+Drei der angeführten Entscheide stammen aus der Zeit vor der ZPO (BGE 84 II 134 von
+1958, BGE 102 II 53 von 1976, BGE 129 III 750 von 2003). Art. 308 ZPO trat am
+1. Januar 2011 in Kraft.
 
-Das Bundesgericht äussert sich zum Endentscheid und zu den zur Verfügung stehenden Rechtsmitteln. Die Wahl des richtigen Rechtsmittels hängt davon ab, ob ein Endentscheid oder ein Zwischenentscheid vorliegt. Eine falsche Zuordnung kann zur Nichteintreten führen.
-
-### [BGE 102 II 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_II_53) (20.1.1976)
-
-Dieser Entscheid stammt aus dem alten Recht und befasst sich mit der Berufung. Auch unter dem alten Recht war die Abgrenzung zwischen Endentscheid und Zwischenentscheid von zentraler Bedeutung. Die Grundsätze sind teilweise noch heute anwendbar.
-
-### [BGer 4C.316/2006](https://mcp.opencaselaw.ch/entscheid/bger_4C.316_2006) (20.12.2006)
-
-Das Bundesgericht klärt den Zusammenhang zwischen Endentscheid und Berufung. Ein Entscheid, der das Verfahren ganz oder teilweise abschliesst, kann als Endentscheid qualifiziert werden. Die Massgeblichkeit des Streitwerts wird in diesem Zusammenhang betont.
-
-### [BGE 84 II 134](https://mcp.opencaselaw.ch/entscheid/bge_BGE_84_II_134) (12.2.1958)
-
-Dieser Entscheid aus dem alten Recht befasst sich mit dem Begriff des Endentscheids. Auch unter der alten Prozessordnung war die Unterscheidung zwischen Endentscheid und Zwischenentscheid von entscheidender Bedeutung für die Wahl des Rechtsmittels. Die Grundsätze sind von historischer Bedeutung für das Verständnis des geltenden Rechts.
-
-### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014)
-
-Das Bundesgericht befasst sich mit dem Teilendentscheid und der Abgrenzung zum Zwischenentscheid. Ein Teilendentscheid liegt vor, wenn über einen Teil des Begehrens abschliessend entschieden wird. Die Abgrenzung zum Zwischenentscheid erfolgt nach der Endgültigkeit der getroffenen Feststellung.
-
-### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012)
-
-Der Entscheid klärt die Abgrenzung zwischen Zwischenentscheid und Endentscheid. Ein Zwischenentscheid betrifft vorbereitende Fragen und schliesst das Verfahren nicht ab. Die Berufung ist gegen Zwischenentscheide grundsätzlich nicht zulässig, es sei denn, es handelt sich um einen der in Art. 319 ZPO genannten Fälle.
-
-### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015)
-
-Das Bundesgericht äussert sich zur Abgrenzung zwischen Endentscheid und Zwischenentscheid. Die Abgrenzung ist von zentraler Bedeutung für die Bestimmung des zulässigen Rechtsmittels. Ein Entscheid, der das Verfahren vollständig abschliesst, ist ein Endentscheid und mit der Berufung anfechtbar.
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).

@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 18 % → 100 %, Urteil A); BGE 138 III 620 stand für die Abgrenzung Zwischen-/Endentscheid und betrifft Art. 257 ZPO (contradicts); Literaturangabe von einem nicht belegbaren Zitiervermerk befreit"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 18 % (Urteil C); 0 von 14 Paaren gestützt; 9 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -99,6 +104,6 @@ revisions:
 
 ## Literatur
 
-- OnlineKommentar ZPO, Art. 308 (zit. in BGE 145 III 324)
+- OnlineKommentar ZPO, Art. 308
 - Sutter-Somm, Kommentar ZPO, 3. Aufl. 2020
 - Hasenböhler, Basler Kommentar ZPO, Art. 308
