@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 98 ZPO"
 weight: 99
 date: 2026-07-18
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 98 ZPO — Kostenvorschuss, Ermessensausübung, Nichteintreten bei Nichtleistung, Revision 2023."
+description: "Übersicht der Rechtsprechung zu Art. 98 ZPO — Kostenvorschuss, richterliches Ermessen, Verhältnis zur Klagezustellung, unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "ZPO", "Kostenvorschuss", "Gerichtskosten"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 19 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; Hinweis auf die Revision per 1.1.2025 ergänzt, weil die gesamte zitierte Rechtsprechung zur alten Fassung ergangen ist"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,80 +21,68 @@ revisions:
 
 # Rechtsprechung zu Art. 98 ZPO
 
-## I. Leitentscheide
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-### BGE 139 III 498 — Kostenvorschuss im summarischen Verfahren nach Rechtsvorschlag
+> **Vorbehalt der Gesetzesrevision.** Art. 98 ZPO wurde per 1. Januar 2025 geändert. Abs. 1
+> begrenzt den Vorschuss neu auf **höchstens die Hälfte** der mutmasslichen Gerichtskosten;
+> der volle Vorschuss ist nur noch in den Fällen von Abs. 2 zulässig. Die nachstehend
+> wiedergegebene Rechtsprechung ist durchwegs zur früheren Fassung ergangen, die den
+> vollen Vorschuss allgemein erlaubte. Die Aussagen zum **Ermessen** und zum Verhältnis
+> zu anderen Normen bleiben tragfähig; die Aussagen zur **Höhe** sind am neuen Wortlaut
+> zu messen.
 
-[BGE 139 III 498](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_498) (17. Oktober 2013) — Grundlagenentscheid zu Art. 98 ZPO im summarischen Verfahren. Im summarischen Verfahren nach Rechtsvorschlag mangels neuen Vermögens ist der Schuldner die klagende Partei im Sinne von Art. 98 ZPO. Das Bundesgericht klärte, dass der Kostenvorschuss im summarischen Verfahren (Abs. 2 lit. c) bis zur Höhe der gesamten mutmasslichen Gerichtskosten verlangt werden kann — nicht nur der Halbvorschuss nach Abs. 1. Die Norm stellt sicher, dass in summarischen Verfahren die Gerichtskosten gedeckt sind.
+## I. Ermessen bei der Vorschusserhebung
 
-### BGE 140 III 159 — Richterliches Ermessen und Kostenvorschuss
+### [BGer 4A_226/2014 vom 6. August 2014, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_226_2014#e-2-1)
 
-[BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (7. Mai 2014) — Das Bundesgericht klärte, dass das Gericht ein **Ermessen** hat, ob es einen Kostenvorschuss verlangt. Das Ermessen ist nicht schrankenlos — willkürliche Verweigerung oder willkürliche Anordnung können mit der Beschwerde (Art. 319 ZPO) angefochten werden. Die Höhe des Vorschusses muss proportional zu den mutmasslichen Gerichtskosten sein. Ein Vorschuss, der die mutmasslichen Kosten erheblich übersteigt, ist unzulässig und verletzt das Verhältnismässigkeitsprinzip (Art. 5 Abs. 2 BV). Der Entscheid befasst sich auch mit der Frage des Zeitpunkts der Ansetzung einer Frist zur Klageantwort und unnötiger Kosten.
+**Kernaussage**: Den Gerichten kommt bei der Handhabung der Vorschrift über den Kostenvorschuss viel Ermessen zu; die ZPO schreibt nicht vor, dass immer die gesamten mutmasslichen Gerichtskosten vorzuschiessen sind.
 
-### BGE 104 Ia 105 — Kostenvorschuss und Zugang zum Gericht
+Der Ermessensspielraum besteht fort — die Revision hat ihn für Abs. 1 lediglich nach oben gedeckelt. Dass nicht der volle Betrag verlangt werden *muss*, war schon vorher klar.
 
-[BGE 104 Ia 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_104_Ia_105) (8. März 1978) — Früher Entscheid zum Spannungsverhältnis zwischen Kostenvorschuss und Zugang zum Gericht. Das Bundesgericht stellte klar, dass der Kostenvorschuss den Zugang zum Gericht nicht unzumutbar erschweren darf. Die Voraussetzungen für den Vorschuss sind restriktiv auszulegen — insbesondere bei bedürftigen Parteien. Die Grundsätze sind auf die Schweizer ZPO (in Kraft seit 1. Januar 2011) übertragbar, soweit sie nicht durch die neue Gesetzgebung überholt wurden.
+## II. Verhältnis zur Klagezustellung
 
-## II. Weitere BGer-Entscheide
+### [BGE 140 III 159, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-4-2-1) (7.5.2014)
 
-### BGer 4A_226/2014 — Kostenvorschuss im ordentlichen Verfahren
+**Kernaussage**: Eine bundesrechtliche Verpflichtung des Gerichts, mit der Zustellung der Klage und der Ansetzung der Frist zur Klageantwort zuzuwarten, bis der Kostenvorschuss geleistet ist, lässt sich nicht aus einer Pflicht herleiten, dem Kläger unnötige Kosten zu ersparen.
 
-[BGer 4A_226/2014](https://mcp.opencaselaw.ch/entscheid/bger_4A_226_2014) (6. August 2014) — Das Bundesgericht bestätigte, dass im ordentlichen Verfahren (Art. 98 Abs. 1 ZPO) ein Halbvorschuss verlangt werden kann — nicht aber ein Vollvorschuss. Der Vollvorschuss ist nur in den in Abs. 2 genannten Verfahren zulässig. Die Anordnung eines Vorschusses im ordentlichen Verfahren ist eine **Kann-Vorschrift** — das Gericht hat ein Ermessen, ob es einen Vorschuss verlangt oder nicht.
+Praktisch die wichtigste Folge für die klagende Partei: Wird die Klage zugestellt und danach mangels Vorschusses nicht eingetreten, kann bereits eine Parteientschädigung angefallen sein, die sie trägt.
 
-### BGer 4A_516/2019 — Kostenvorschuss und unentgeltliche Rechtspflege
+## III. Anwendungsbereich
 
-[BGer 4A_516/2019](https://mcp.opencaselaw.ch/entscheid/bger_4A_516_2019) (27. April 2020) — Wird die unentgeltliche Rechtspflege (Art. 117 ff. ZPO) beantragt und bewilligt, ist der Kostenvorschuss entbehrlich. Das Gericht trägt die Kosten vorläufig (Art. 117 Abs. 2 ZPO). Der Antrag auf unentgeltliche Rechtspflege suspendiert die Pflicht zur Leistung des Vorschusses, bis über den Antrag entschieden ist. Wird der Antrag abgewiesen, muss der Vorschuss nachgeleistet werden.
+### [BGE 139 III 498, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_498#e-2-1) (17.10.2013)
 
-### BGer 4A_364/2025 — Kostenvorschuss und neue Praxis
+**Kernaussage**: Der Entscheid über das Vorliegen neuen Vermögens (Art. 265a SchKG) wird im summarischen Verfahren gefällt (Art. 251 lit. d ZPO); das Gericht kann von der klagenden Partei einen Kostenvorschuss verlangen.
 
-[BGer 4A_364/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_364_2025) (18. Dezember 2025) — Aktuelles Urteil zum Kostenvorschuss nach der Revision von 2023 (in Kraft seit 1. Januar 2025). Das Bundesgericht bestätigte, dass die Revision von Art. 98 ZPO die Struktur klarer gegliedert hat: Abs. 1 regelt den Halbvorschuss (für das ordentliche Verfahren), Abs. 2 regelt den Vollvorschuss (für die in lit. a–d genannten Verfahren). Die Ausweitung des Vollvorschusses auf Schlichtungsverfahren (lit. b) und summarische Verfahren (lit. c) ist verfassungsrechtlich unbedenklich.
+Wer in diesem Verfahren als klagende Partei gilt, war streitig; das Bundesgericht neigte dem Schuldner zu (E. 2.2.2). Nach heutigem Recht fällt das summarische Verfahren unter Art. 98 Abs. 2 lit. c ZPO, sodass der volle Vorschuss zulässig bleibt.
 
-### BGer 5A_295/2013 — Kostenvorschuss im Familienverfahren
+## IV. Verhältnis zur unentgeltlichen Rechtspflege
 
-[BGer 5A_295/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_295_2013) (17. Oktober 2013) — Das Bundesgericht klärte, dass in familienrechtlichen Streitigkeiten nach Art. 271, 276, 302, 305 ZPO der Vollvorschuss **nicht** verlangt werden kann (Art. 98 Abs. 2 lit. c ZPO — Ausnahme). Diese Ausnahme reflektiert den Schutzcharakter dieser Verfahren, bei denen ein Kostenvorschuss den Zugang zum Gericht unzumutbar erschweren würde.
+### [BGE 141 III 369, E. 4.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_369#e-4-3-3) (27.8.2015)
 
-### BGer 4A_29/2014 — Kostenvorschuss und Fristsetzung
+**Kernaussage**: Die Gestaltungsmöglichkeiten der bloss teilweisen Gewährung der unentgeltlichen Rechtspflege sind in der Lehre umstritten, wenn zusätzlich eine Sicherheitsleistung für eine allfällige Parteientschädigung zur Debatte steht.
 
-[BGer 4A_29/2014](https://mcp.opencaselaw.ch/entscheid/bger_4A_29_2014) (7. Mai 2014) — Das Bundesgericht stellte klar, dass die Fristsetzung für den Kostenvorschuss **klar und bestimmt** sein muss. Die klagende Partei muss wissen, dass die Nichtleistung zum Nichteintreten führt. Eine unklare Fristsetzung oder ein fehlender Hinweis auf die Folgen der Nichtleistung kann das Nichteintreten aufheben.
+Der Entscheid selbst betrifft Art. 99 und Art. 118 Abs. 2 ZPO. Für Art. 98 ZPO ist er insofern einschlägig, als die Befreiung von der Vorschusspflicht nach Art. 118 Abs. 1 lit. a ZPO die Vorschusserhebung verdrängt.
 
-### BGer 5A_242/2025 — Kostenvorschuss im Konkursverfahren
+## Audit-Protokoll
 
-[BGer 5A_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025) (28. Januar 2026) — Das Bundesgericht befasste sich mit der Frage, ob im Konkursverfahren ein Kostenvorschuss verlangt werden kann. Der Entscheid klärte, dass das Konkursverfahren als summarisches Verfahren qualifiziert werden kann, in dem der Vollvorschuss nach Art. 98 Abs. 2 lit. c ZPO verlangt werden darf — ausser es handelt sich um vorsorgliche Massnahmen oder familienrechtliche Streitigkeiten.
+Beim Audit vom 13.08.2026 waren in diesem Bundle nur 2 von 26 Belegpaaren gestützt
+(Belegquote 19 %, Urteil C); sämtliche Paare lagen in dieser Übersicht, der Fliesstext
+in `_index.md` führte keine Belege. Die Übersicht wurde deshalb verworfen und neu
+aufgebaut.
 
-### BGer 4A_575/2019 — Vorschuss und Sicherheitsleistung
+Nicht übernommen wurden BGE 62 I 246, BGE 104 Ia 105, BGE 139 IV 310, BGer 4A_29/2014,
+4A_364/2025, 4A_516/2019, 4A_575/2019, 5A_242/2025, 5A_295/2013, 5A_918/2013,
+6B_291/2022, 4P.193/2003 und 4P.70/2001. Die Entscheide existieren; die ihnen
+zugeschriebenen Aussagen liessen sich in keiner Erwägung nachweisen. Vier Paare waren
+mangels auflösbarer Referenz gar nicht beurteilbar (`bge_BGE_104_Ia_105`,
+`bger_4P.193_2003`, `bger_4P.70_2001` als Bestandteil von URL-Pfaden).
 
-[BGer 4A_575/2019](https://mcp.opencaselaw.ch/entscheid/bger_4A_575_2019) (7. Januar 2020) — Das Bundesgericht klärte das Verhältnis zwischen Kostenvorschuss (Art. 98 ZPO) und Sicherheitsleistung (Art. 99 ZPO, Art. 101 ZPO). Die beiden Institute haben unterschiedliche Zwecke: Der Kostenvorschuss sichert die Gerichtskosten, die Sicherheitsleistung sichert die Parteientschädigung. Beide können nebeneinander verlangt werden.
+**Aktualität.** Der gravierendere Befund ist keiner der Belegprüfung: Art. 98 ZPO wurde
+per 1. Januar 2025 revidiert. Die gesamte zitierte Rechtsprechung ist zur früheren
+Fassung ergangen, die einen Vorschuss bis zur Höhe der *gesamten* mutmasslichen
+Gerichtskosten erlaubte. Die frühere Fassung dieser Übersicht gab solche Sätze ohne
+Vorbehalt wieder. Ein Praktiker, der sie las, hätte die heute geltende Halbierungsregel
+von Abs. 1 übersehen. Der Vorbehalt steht jetzt am Anfang der Übersicht.
 
-### BGer 4P.193/2003 — Kostenvorschuss und Verfassungsrecht
-
-[BGer 4P.193/2003](https://mcp.opencaselaw.ch/entscheid/bger_4P.193_2003) (2. Dezember 2003) — Das Bundesgericht stellte klar, dass der Kostenvorschuss mit dem verfassungsrechtlichen Anspruch auf Zugang zum Gericht (Art. 29 Abs. 1 BV, Art. 6 Ziff. 1 EMRK) konform sein muss. Ein Vorschuss, der den Zugang zum Gericht unzumutbar erschwert, kann verfassungswidrig sein — insbesondere bei bedürftigen Parteien, die nicht unentgeltliche Rechtspflege beantragt haben.
-
-### BGer 4P.70/2001 — Kostenvorschuss und rechtliches Gehör
-
-[BGer 4P.70/2001](https://mcp.opencaselaw.ch/entscheid/bger_4P.70_2001) (1. Juni 2001) — Das Bundesgericht klärte, dass der Kostenvorschuss nicht das rechtliche Gehör (Art. 29 Abs. 2 BV) einschränken darf. Das Nichteintreten bei Nichtleistung des Vorschusses ist eine prozessuale Sanktion, die nicht mit dem rechtlichen Gehör verwechselt werden darf — das Gericht entscheidet nicht in der Sache, sondern weist die Klage wegen Nichtleistung des Vorschusses ab.
-
-### BGer 5A_918/2013 — Kostenvorschuss im Schlichtungsverfahren
-
-[BGer 5A_918/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_918_2013) (28. Februar 2014) — Das Bundesgericht bestätigte, dass im Schlichtungsverfahren (Art. 198 ff. ZPO) ein Vollvorschuss nach Art. 98 Abs. 2 lit. b ZPO verlangt werden kann (seit der Revision 2023 ausdrücklich geregelt). Die Schlichtungsbehörde hat ein Ermessen, ob sie einen Vorschuss verlangt — in der Praxis wird der Vorschuss in der Regel verlangt, wenn Anhaltspunkte dafür bestehen, dass die klagende Partei die Kosten nicht tragen kann.
-
-### BGE 139 IV 310 — Kostenvorschuss im Strafverfahren (sinngemäss)
-
-[BGE 139 IV 310](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_310) (29. August 2013) — Das Bundesgericht stellte klar, dass die Grundsätze zum Kostenvorschuss sinngemäss auch im Strafverfahren anwendbar sind, soweit das Strafverfahrensrecht nichts anderes bestimmt. Die Verhältnismässigkeit des Vorschusses und die Möglichkeit der unentgeltlichen Rechtspflege gelten auch im strafrechtlichen Kontext.
-
-### BGer 6B_291/2022 — Kostenvorschuss und Beschwerde
-
-[BGer 6B_291/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_291_2022) (4. Mai 2022) — Das Bundesgericht bestätigte, dass im Rechtsmittelverfahren der Vorschuss von der rechtsmittelführenden Partei zu leisten ist (Art. 98 Abs. 2 lit. d ZPO). Die Nichtleistung führt zum Nichteintreten auf das Rechtsmittel — dies gilt sowohl für die Berufung als auch für die Beschwerde.
-
-### BGE 62 I 246 — Kostenvorschuss und altes Recht
-
-[BGE 62 I 246](https://mcp.opencaselaw.ch/entscheid/bge_62_I_246) (24. Dezember 1936) — Sehr früher Entscheid zum Kostenvorschuss unter dem alten Recht. Die Grundsätze sind auf die Schweizer ZPO nicht mehr direkt übertragbar, aber die grundlegende Frage des Zugangs zum Gericht bei Nichtleistung des Vorschusses ist bis heute aktuell.
-
-## III. Revision 2023
-
-Die Revision von Art. 98 ZPO durch das Bundesgesetz vom 17. März 2023 (in Kraft seit 1. Januar 2025) hat die Struktur der Norm deutlich verändert. Die wichtigsten Änderungen:
-
-- **Erweiterung des Vollvorschusses**: Der Vollvorschuss (Abs. 2) wird nun auch in Schlichtungsverfahren (lit. b) und summarischen Verfahren (lit. c) zugelassen — zuvor war der Vollvorschuss auf Rechtsmittelverfahren beschränkt.
-- **Ausnahmen**: Vorsorgliche Massnahmen (Art. 248 lit. d ZPO) und familienrechtliche Streitigkeiten (Art. 271, 276, 302, 305 ZPO) bleiben vom Vollvorschuss ausgenommen.
-- **Ziel**: Die Verbesserung der Praxistauglichkeit und Rechtsdurchsetzung — insbesondere die Ausweitung des Vollvorschusses auf Schlichtungsverfahren soll sicherstellen, dass in diesen kurzen Verfahren die Gerichtskosten gedeckt sind (AS 2023 491; BBl 2020 2697).
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`, `get_article_history`).

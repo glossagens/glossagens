@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 19 % → 100 %, Urteil A); Hinweis ergänzt, dass die gesamte zitierte Rechtsprechung zur vor dem 1.1.2025 geltenden Fassung ergangen ist"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 2 von 26 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
