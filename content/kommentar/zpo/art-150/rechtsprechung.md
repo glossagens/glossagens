@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 150 ZPO"
 weight: 99
 date: 2026-07-19
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 150 ZPO — Beweisgegenstand, rechtserhebliche Tatsachen, Privatgutachten, Behauptungslast."
-tags: ["Rechtsprechung","ZPO","Beweisrecht","Beweisgegenstand"]
+description: "Übersicht der Rechtsprechung zu Art. 150 ZPO — Beweisgegenstand, rechtserhebliche und streitige Tatsachen, Verbot der Beweisausforschung, Privatgutachten."
+tags: ["Rechtsprechung","ZPO","Beweisrecht","Beweisgegenstand","Beweisausforschung"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 25 %, Urteil C, 0 von 14 Paaren gestützt): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; Regeste-Verweise «(E. 2)» erwiesen sich als Abschnittszeiger"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,59 +21,55 @@ revisions:
 
 # Rechtsprechung zu Art. 150 ZPO
 
-Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Obergerichtsentscheide zum Beweisgegenstand (rechtserhebliche und streitige Tatsachen), zum Status von Privatgutachten und zur Behauptungs- und Bestreitungslast dar.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
----
+## I. Beweisgegenstand
 
-## I. Leitentscheide
+### [BGE 147 III 139, E. 1.7.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_139#e-1-7-1) (10.12.2020)
 
-### [BGE 141 III 433](https://mcp.opencaselaw.ch/entscheid/bge_141 III 433) (11.09.2015) — Privatgutachten als Parteibehauptung
-Ein von einer Partei privat in Auftrag gegebenes Gutachten stellt kein Beweismittel im Sinne von Art. 168 ZPO dar. Es gilt prozessual lediglich als substantiierte Parteibehauptung. Bestreitet die Gegenpartei diese Behauptungen substanziiert, muss das Gericht ein gerichtliches Gutachten anordnen.
+**Kernaussage**: Gegenstand des Beweises bilden ausschliesslich rechtserhebliche, streitige Tatsachen (Art. 150 Abs. 1 ZPO); der Umfang des materiellen Anspruchs beeinflusst insoweit den Umfang des Anspruchs auf Beweisabnahme im Prozess.
 
-### [BGE 144 III 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_67) (24.11.2017) — Aktenschluss und Novenrecht
-Grundsätze zum Zeitpunkt des Aktenschlusses im ordentlichen Verfahren (Art. 229 ZPO). Eine zeitliche Auftrennung zwischen dem Einreichen neuer Beweismittel und dem Vorbringen neuer Tatsachen ist unzulässig, da Beweismittel zwingend den behaupteten Tatsachen zugeordnet sein müssen.
+Der Entscheid zeigt die Verzahnung mit dem materiellen Recht: Was materiell nicht geschuldet ist, ist auch nicht rechtserheblich — und damit kein Beweisgegenstand.
 
-### [BGE 143 III 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_297) (09.06.2017) — Substanziierung und Beweismass
-Befasst sich mit den Anforderungen an die Substanziierung von Tatsachenbehauptungen (Beweisgegenstand) bei Klagen auf Gewinnherausgabe. Die Anforderungen an die Behauptungslast dürfen nicht überspannt werden, wenn der Kläger keinen Einblick in die Geschäftsunterlagen des Beklagten hat.
+### [BGE 147 III 139, E. 1.7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_139#e-1-7-2) (10.12.2020)
 
-### [BGer 4A_65/2017](https://mcp.opencaselaw.ch/entscheid/bger_4A_65_2017) (19.09.2017) — Tragweite des Beweisgegenstands
-Das Bundesgericht präzisiert das Zusammenspiel zwischen dem Verhandlungsgrundsatz (Art. 55 ZPO) und dem Beweisgegenstand (Art. 150 ZPO). Die Parteien tragen die Behauptungslast für alle rechtserheblichen Tatsachen; Beweis ist nur über streitige Tatsachen abzunehmen.
+**Kernaussage**: Der zivilprozessuale Anspruch auf Beweisabnahme darf nicht zu einer verpönten Beweisausforschung missbraucht werden.
 
-### [BGer 4A_415/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_415_2021) (18.03.2022) — Unzulässigkeit pauschaler Verweise auf Beilagen
-Der blosse Verweis auf Aktenstücke oder Beilagen ersetzt den substantiierten Vortrag von Tatsachenbehauptungen in den Rechtsschriften nicht. Tatsachen müssen in der Klageschrift oder Klageantwort ausformuliert sein, um zum Beweis verstellt zu werden.
+Die praktische Schranke von Art. 150 ZPO: Wer Beweismittel beantragt, um erst herauszufinden, ob eine Tatsache besteht, betreibt Beweisausforschung — der Beweisgegenstand muss vorher feststehen.
 
-### [BGE 144 III 519](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519) (17.10.2018) — Anforderungen an die Bestreitungspflicht
-Pauschale Bestreitungen reichen nicht aus, um eine hinreichend substantiierte Tatsachenbehauptung der Gegenseite als streitig im Sinne von Art. 150 Abs. 1 ZPO darzustellen. Erforderlich ist eine konkrete Auseinandersetzung mit der gegnerischen Sachdarstellung.
+## II. Abgrenzung zum Beweismittel
 
----
+### [BGE 141 III 433, E. 2.5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_433#e-2-5-2) (11.9.2015)
 
-## II. Weitere Entscheide
+**Kernaussage**: Ein Privatgutachten stellt kein Beweismittel im Sinne von Art. 168 Abs. 1 ZPO dar.
 
-### [BGer 4A_432/2023](https://mcp.opencaselaw.ch/entscheid/bger_4A_432_2023) (05.02.2024) — Gesetzliche Definition des Beweisgegenstands
-Das Bundesgericht bestätigt die Auslegung von Art. 150 Abs. 1 ZPO in der Lehre, wonach ausschliesslich Tatsachen (Lebenssachverhalte), nicht aber Rechtsfragen oder reine Rechtsansichten, Gegenstand des Beweises sein können.
+Für Art. 150 ZPO bedeutet das: Das Privatgutachten trägt zur Beweisführung über streitige Tatsachen nichts bei; es gilt als Parteivorbringen und kann allenfalls eine Behauptung substanziieren.
 
-### [Obergericht Thurgau RBOG 2024 Nr. 23](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2024_Nr._23) (01.01.2024) — Replikverzicht im Rechtsöffnungsverfahren
-Verzichtet der Rechtsöffnungsgesuchsteller im summarischen Verfahren auf eine Replik zu den Einwendungen des Schuldners in der Gesuchsantwort, gelten diese Tatsachenbehauptungen als unbestritten und bedürfen keiner Beweisabnahme nach Art. 150 ZPO.
+## III. Zeitpunkt des Beweisanerbietens
 
-### [Kantonsgericht Wallis C1 10 249](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C1 10 249) (04.10.2011) — Verhandlungsgrundsatz und Behauptungslast
-Der Entscheid befasst sich mit der Abgrenzung von Tatsachen- und Beweisführungslast (Art. 8 ZGB i.V.m. Art. 150 ZPO) im Werkvertragsrecht unter der Herrschaft der ZPO.
+### [BGE 144 III 67, E. 2.4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_67#e-2-4-2) (24.11.2017)
 
-### [Kantonsgericht Graubünden ZK2 2013 8](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK2 2013 8) (13.03.2013) — Zulässigkeit der Beweisanträge
-Eine Beweisverfügung, die Beweiserhebungen über nicht rechtserhebliche oder unbestrittene Tatsachen anordnet, verletzt Art. 150 ZPO und ist prozessual als rechtswidrig aufzuheben.
+**Kernaussage**: Eine zeitliche Auftrennung von Einreichen neuer Beweismittel und Vorbringen neuer Tatsachen ist unzulässig.
 
-### [BGer 4A_494/2017](https://mcp.opencaselaw.ch/entscheid/bger_4A_494_2017) (31.01.2018) — Beweisführungspflicht beim Kaufvertrag
-Das Bundesgericht befasst sich mit der Verteilung der Beweisführungspflicht für Mängelansprüche aus einem Kaufvertrag unter Anwendung von Art. 150 ZPO.
+Tatsachenbehauptung und Beweisanerbieten gehören zusammen — auch beim Aktenschluss nach Art. 229 ZPO.
 
-### [BGer 5A_808/2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_808_2018) (15.07.2019) — Sachverhaltsfeststellung bei Scheidungen
-Das Gericht hat im Scheidungsprozess über rechtserhebliche Tatsachen bezüglich nachehelichem Unterhalt und Güterrecht Beweis zu erheben, sofern diese zwischen den Ehegatten strittig sind.
+## Audit-Protokoll
 
-### [Kantonsgericht St. Gallen BO.2015.5](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BO.2015.5) (21.08.2015) — Unbezifferte Forderungsklage
-Die Unmöglichkeit der Bezifferung einer Forderung im Sinne von Art. 85 ZPO ist eine rechtserhebliche Tatsache, für welche die klagende Partei behauptungs- und beweisbelastet ist.
+Beim Audit vom 13.08.2026 war in diesem Bundle **kein einziges** der 14 Belegpaare
+gestützt (Belegquote 25 %, Urteil C). Die Übersicht wurde verworfen und neu aufgebaut.
 
-### [BGer 5A_957/2016](https://mcp.opencaselaw.ch/entscheid/bger_5A_957_2016) (12.07.2017) — Beweisverfahren im summarischen Massnahmeverfahren
-Der Rechtsschutz in klaren Fällen (Art. 257 ZPO) setzt voraus, dass der Sachverhalt unbestritten oder sofort beweisbar ist. Streitige Tatsachen, die ein ordentliches Beweisverfahren erfordern, schliessen dieses Verfahren aus.
+Zwei der neu aufgenommenen Entscheide standen bereits in der alten Fassung, aber mit dem
+Pinpoint «E. 2» aus der Regeste. Bei BGE 141 III 433 und BGE 144 III 67 ist das ein
+Abschnitts-, kein Erwägungszeiger: Die tragenden Sätze stehen in E. 2.5.2 bzw. E. 2.4.2,
+während E. 2 nur den Verfahrensgang wiedergibt. Die Prüfung gegen E. 2 ergab `unrelated`
+bzw. `partial` — die Entscheide waren richtig gewählt, die Fundstelle war falsch.
 
-### [Obergericht Zürich PP190037](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PP190037) (30.01.2020) — Beweismass bei Auskunftsansprüchen
-Die Kläger haben die Voraussetzungen für einen prozessualen Auskunftsanspruch als rechtserhebliche Tatsachen substanziiert darzulegen und im Bestreitungsfall zu beweisen.
+Nicht übernommen wurden BGE 143 III 297, BGE 144 III 519 sowie BGer 4A_415/2021,
+4A_432/2023, 4A_494/2017, 4A_65/2017, 5A_808/2018 und 5A_957/2016. Die drei kantonalen
+Entscheide (Obergericht Thurgau RBOG 2024 Nr. 23, Obergericht Zürich PP190037,
+Kantonsgericht St. Gallen BO.2015.5) sind nicht mehr als Belege geführt: Für kantonale
+Entscheide sind keine Erwägungen erschlossen, ihre Aussagen lassen sich weder bestätigen
+noch widerlegen.
 
-*Letzte Aktualisierung: 2026-07-19*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).
