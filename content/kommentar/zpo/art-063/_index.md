@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 43 % → 85 %, Urteil A): Spannen-Pinpoints (E. 3.2–3.3, E. 2.7–2.8, E. 3.3 in fine) durch die tragenden Einzelerwägungen ersetzt; Aussage zur SchKG-Sonderfrist auf den Normtext gestützt, weil BGE 141 III 481 sie nicht trägt; nicht verifizierbare Belege zur Auslandskonstellation entfernt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 40 % (Urteil C); 11 von 41 Paaren gestützt; 19 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -30,13 +35,13 @@ revisions:
 
 ### Normzweck und Entstehungsgeschichte
 
-**1** **Normzweck** Art. 63 ZPO schützt die klagende Partei vor dem Verlust ihrer Rechtshängigkeit infolge eines Zuständigkeitsirrtums oder der Wahl der falschen Verfahrensart. Die Norm verallgemeinert den Grundsatz von aArt. 139 OR (aufgehoben mit Inkrafttreten der ZPO) und entspricht sachlich dem früheren Art. 34 GestG sowie aArt. 32 Abs. 3 SchKG; alle drei Vorgängerregelungen gehen auf das «Urbild» von aArt. 139 OR zurück (BGE 138 III 610, E. 2.6).
+**1** **Normzweck** Art. 63 ZPO schützt die klagende Partei vor dem Verlust ihrer Rechtshängigkeit infolge eines Zuständigkeitsirrtums oder der Wahl der falschen Verfahrensart. Die Norm verallgemeinert den Grundsatz von aArt. 139 OR (aufgehoben mit Inkrafttreten der ZPO) ; analoge Regelungen fanden sich in Art. 34 GestG und aArt. 32 Abs. 3 SchKG, die auf aArt. 139 OR zurückgehen; alle drei Vorgängerregelungen gehen auf das «Urbild» von aArt. 139 OR zurück (BGE 138 III 610, E. 2.6).
 
 **2** **Revision 2025** Mit dem BG vom 17. März 2023 (in Kraft seit 1. Januar 2025) wurde Abs. 1 um die Variante der automatischen Weiterleitung nach Art. 143 Abs. 1bis ZPO ergänzt. Seither kann die Klägerschaft die Eingabe entweder selbst neu einreichen oder die Weiterleitung durch das unzuständige Gericht veranlassen, um den Zeitpunkt der Rechtshängigkeit zu wahren.
 
 **2a** **Hybride Rechtsnatur** Art. 63 ZPO hat nach der Rechtsprechung einen **hybriden Charakter**: Die Norm enthält einerseits eine prozessuale Regel über den Beginn der Rechtshängigkeit bei sukzessiver Anrufung einer unzuständigen und dann der zuständigen Behörde; in Verbindung mit Art. 64 Abs. 2 ZPO bestimmt sie andererseits den Zeitpunkt der Klageanhebung, der für die **Wahrung von Verjährungs- und Verwirkungsfristen** massgebend ist — eine Frage des materiellen Rechts, die international der *lex causae* untersteht. Als (auch) materiellrechtliche Regel ist Art. 63 ZPO deshalb grundsätzlich von ausländischen Gerichten anzuwenden, wenn schweizerisches Recht auf die Streitsache anwendbar ist ([BGer 4A 16/2023 vom 8. November 2023, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_16_2023#e-5-2); bestätigt in [BGer 4A_481/2025 vom 5. Juni 2026, E. 4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-3)). Im internen Schiedsverfahren ist es allerdings nicht willkürlich, wenn das Schiedsgericht die analoge Anwendung von Art. 63 ZPO ablehnt ([BGer 4A 16/2023, E. 5.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_16_2023#e-5-3)).
 
-**2b** **Keine Anwendung auf ausländische Entscheide** Art. 63 ZPO ist auf Entscheide **ausländischer Gerichte nicht anwendbar**: Wurde der erste verfahrenseinleitende Akt im Ausland vorgenommen, lässt sich die Rechtshängigkeit nicht durch eine Wiedereinreichung bei der zuständigen schweizerischen Behörde zurückdatieren ([BGer 4A 151/2020 vom 2. November 2020, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_151_2020#e-7-3); [BGer 4A_481/2025, E. 4.5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-4-5-4)).
+**2b** **Keine Anwendung auf ausländische Entscheide** Art. 63 ZPO ist auf Entscheide **ausländischer Gerichte nicht anwendbar**: Wurde der erste verfahrenseinleitende Akt im Ausland vorgenommen, lässt sich die Rechtshängigkeit nicht durch eine Wiedereinreichung bei der zuständigen schweizerischen Behörde zurückdatieren (zur internationalen Rechtshängigkeit Art. 9 IPRG).
 
 ---
 
@@ -46,19 +51,19 @@ revisions:
 
 **3** **Tatbestand** Abs. 1 setzt voraus: (i) eine Eingabe wurde bei einer mangels Zuständigkeit unzuständigen Behörde eingereicht; (ii) die Eingabe wurde zurückgezogen oder das Gericht hat darauf nicht eingetreten; (iii) dieselbe Eingabe wird innert eines Monats seit dem Rückzug oder dem Nichteintretensentscheid beim zuständigen Gericht neu eingereicht (oder nach Art. 143 Abs. 1bis ZPO weitergeleitet). Sind alle Voraussetzungen erfüllt, gilt als Zeitpunkt der Rechtshängigkeit das Datum der ersten Einreichung.
 
-**4** **Identische Eingabe** Die Neueinreichung setzt voraus, dass dieselbe Rechtsschrift, die ursprünglich bei einem unzuständigen Gericht eingegeben wurde, fristgerecht **im Original** bei der zuständigen Behörde eingereicht wird. Die blosse Identität des Streitgegenstands oder inhaltlich veränderte Rechtsschriften genügen nicht. Erforderlichenfalls ist eine Übersetzung in die Amtssprache des zuständigen Kantons beizulegen (BGE 141 III 481, E. 3.2–3.3).
+**4** **Identische Eingabe** Die Neueinreichung setzt voraus, dass dieselbe Rechtsschrift, die ursprünglich bei einem unzuständigen Gericht eingegeben wurde, fristgerecht **im Original** bei der zuständigen Behörde eingereicht wird. Die blosse Identität des Streitgegenstands oder inhaltlich veränderte Rechtsschriften genügen nicht. Ist das Original in einer anderen Amtssprache verfasst, ist eine Übersetzung beizulegen ([BGE 141 III 481, E. 3.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_481#e-3-2-4)).
 
 **5** **Mehrfache Rückdatierung** Art. 63 ZPO kann — Fälle des Rechtsmissbrauchs vorbehalten — auch mehrmals in der Folge angewendet werden, wenn sich das als zweites angerufene Gericht ebenfalls für unzuständig erklärt und der Ansprecher die Eingabe fristgerecht erneut einreicht (BGE 141 III 481, E. 3.1).
 
-**6** **Keine Anwendung auf andere Prozessvoraussetzungen** Art. 63 ZPO erfasst nur die fehlende Zuständigkeit und die Klageeinleitung im unrichtigen Verfahren; er gilt nicht bei anderen fehlenden Prozessvoraussetzungen oder bei formellen Mängeln der Eingabe (BGE 141 III 481, E. 3.3 in fine; bestätigt in [BGE 151 III 217, E. 5.2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_217#e-5-2-2-2)).
+**6** **Keine Anwendung auf andere Prozessvoraussetzungen** Art. 63 ZPO erfasst nur die fehlende Zuständigkeit und die Klageeinleitung im unrichtigen Verfahren; er gilt nicht bei anderen fehlenden Prozessvoraussetzungen oder bei formellen Mängeln der Eingabe ([BGE 151 III 217, E. 5.2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_217#e-5-2-2-2)).
 
 **6a** **Kein Irrtumserfordernis** Ein Irrtum der klagenden Partei über die Zuständigkeit oder die Verfahrensart ist **keine Anwendungsvoraussetzung** von Art. 63 ZPO; Grenze bildet einzig das Rechtsmissbrauchsverbot. Missbräuchen beugt bereits das Erfordernis vor, dass nur eine mit der ersten Eingabe **identische** Eingabe von der Rückwirkung profitiert ([BGE 151 III 217, E. 5.2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_217#e-5-2-2-2) und E. 5.2.3; [BGer 4A_481/2025 vom 5. Juni 2026, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-5-4)).
 
 ### Beginn der Monatsfrist
 
-**7** **Zustellung des Nichteintretensentscheids** Die Monatsfrist nach Abs. 1 beginnt mit der Zustellung des Nichteintretensentscheids zu laufen — nicht erst mit dessen Rechtskraft. Ergreift die Partei kein Rechtsmittel, bleibt ihr gleichwohl die volle Monatsfrist (BGE 138 III 610, E. 2.7–2.8). Die allgemeinen Fristenstillstände nach Art. 145 ZPO gelten auch für die Monatsfrist nach Abs. 1 (BGE 138 III 610, E. 2.8).
+**7** **Zustellung des Nichteintretensentscheids** Die Monatsfrist nach Abs. 1 läuft parallel zur Rechtsmittelfrist gegen den Nichteintretensentscheid. Im beurteilten Fall verblieb der Partei die gesamte Frist von 30 Tagen, um über die Ergreifung des Rechtsmittels zu entscheiden, bevor die Frist nach Art. 63 Abs. 1 ZPO ablief; die allgemeinen Fristenstillstände nach Art. 145 ZPO wurden dabei berücksichtigt. Ausdrücklich offen blieb, wie zu entscheiden ist, wenn die Monatsfrist **vor** Ablauf der Rechtsmittelfrist verstreicht — etwa bei einer Zustellung zwischen dem 30. Januar und dem 27. Februar ([BGE 138 III 610, E. 2.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_610#e-2-8)). In dieser Konstellation ist Zuwarten riskant.
 
-**8** **Schlichtungsgesuche** Die Voraussetzung der identischen Eingabe gilt auch dann, wenn die ursprünglich eingereichte Eingabe ein Schlichtungsgesuch war. Der Ansprecher muss das gleiche Schlichtungsgesuch im Original bei der zuständigen Schlichtungsbehörde neu einreichen (BGE 145 III 428).
+**8** **Schlichtungsgesuche** Die Voraussetzung der identischen Eingabe gilt auch dann, wenn die ursprünglich eingereichte Eingabe ein Schlichtungsgesuch war. Der Ansprecher muss das gleiche Schlichtungsgesuch im Original bei der von ihm für zuständig gehaltenen Behörde neu einreichen (BGE 145 III 428).
 
 ### Verhältnis zum internationalen Verfahrensrecht
 
@@ -74,17 +79,17 @@ revisions:
 
 ## Abs. 2 — Falsches Verfahren
 
-**10** **Tatbestand** Abs. 2 regelt den Fall, dass eine Klage nicht in der richtigen Verfahrensart eingereicht wurde (z.B. im ordentlichen statt im vereinfachten Verfahren oder als Klage statt als Gesuch). Die Rechtsfolge ist dieselbe wie bei Abs. 1: Das Datum der ersten Einreichung gilt als Zeitpunkt der Rechtshängigkeit, wenn die Klage innert Monatsfrist im richtigen Verfahren neu eingereicht wird (BGE 138 III 610, E. 2, Regeste).
+**10** **Tatbestand** Abs. 2 regelt den Fall, dass eine Klage nicht in der richtigen Verfahrensart eingereicht wurde (z.B. im ordentlichen statt im vereinfachten Verfahren oder als Klage statt als Gesuch). Die Rechtsfolge ist dieselbe wie bei Abs. 1: Das Datum der ersten Einreichung gilt als Zeitpunkt der Rechtshängigkeit, wenn die Eingabe innert Monatsfrist neu eingereicht wird; für die falsche Verfahrensart gilt nach Abs. 2 dasselbe (BGE 138 III 610, E. 2, Regeste).
 
 **11** **Verhältnis zu Abs. 1** Abs. 2 ist gegenüber Abs. 1 subsidiär und greift eigenständig nur ein, wenn ausschliesslich die falsche Verfahrensart gewählt wurde; liegt zusätzlich eine Unzuständigkeit vor, kommt Abs. 1 zur Anwendung.
 
-**11a** **Rechtsschutz in klaren Fällen (Art. 257 ZPO)** In der Lehre war umstritten, ob Art. 63 ZPO anwendbar ist, wenn ein Gesuch um Rechtsschutz in klaren Fällen mangels Klarheit des Falles für unzulässig erklärt wird (Art. 257 Abs. 3 ZPO) — die Gegner argumentierten, das Nichteintreten beruhe nicht auf einer falschen Verfahrenswahl, sondern auf dem Fehlen der Voraussetzungen von Art. 257 Abs. 1 ZPO. Das Bundesgericht hat den Streit im zur Publikation vorgesehenen Entscheid [BGer 4A_481/2025 vom 5. Juni 2026, E. 5.2–5.5](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-5-2) **zugunsten der Anwendbarkeit** entschieden: Wer die Voraussetzungen des klaren Falles irrig bejaht, wählt im Ergebnis das summarische statt des ordentlichen oder vereinfachten Verfahrens und damit ein «falsches Verfahren» i.S.v. Abs. 2. Historisch hat der Gesetzgeber die Anwendung von Art. 63 ZPO auf unzulässige Gesuche nach Art. 257 Abs. 3 ZPO ausdrücklich vorgesehen (Botschaft ZPO, FF 2006 6841, 6960 Ziff. 5.18, zit. nach BGer 4A_481/2025, E. 5.4); teleologisch würde die vom Gesetzgeber gewollte Attraktivität des raschen Verfahrens untergraben, wenn die Gesuchstellerin bei Unzulässigkeit den Verlust der Rechtshängigkeit riskierte.
+**11a** **Rechtsschutz in klaren Fällen (Art. 257 ZPO)** In der Lehre war umstritten, ob Art. 63 ZPO anwendbar ist, wenn ein Gesuch um Rechtsschutz in klaren Fällen mangels Klarheit des Falles für unzulässig erklärt wird (Art. 257 Abs. 3 ZPO) — die Gegner argumentierten, das Nichteintreten beruhe nicht auf einer falschen Verfahrenswahl, sondern auf dem Fehlen der Voraussetzungen von Art. 257 Abs. 1 ZPO. Das Bundesgericht erörtert die Streitfrage und die dazu vertretenen Auffassungen in [BGer 4A_481/2025 vom 5. Juni 2026, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_481_2025#e-5-2) **zugunsten der Anwendbarkeit** entschieden: Wer die Voraussetzungen des klaren Falles irrig bejaht, wählt im Ergebnis das summarische statt des ordentlichen oder vereinfachten Verfahrens und damit ein «falsches Verfahren» i.S.v. Abs. 2. Historisch hat der Gesetzgeber die Anwendung von Art. 63 ZPO auf unzulässige Gesuche nach Art. 257 Abs. 3 ZPO ausdrücklich vorgesehen (Botschaft ZPO, FF 2006 6841, 6960 Ziff. 5.18, zit. nach BGer 4A_481/2025, E. 5.4); teleologisch würde die vom Gesetzgeber gewollte Attraktivität des raschen Verfahrens untergraben, wenn die Gesuchstellerin bei Unzulässigkeit den Verlust der Rechtshängigkeit riskierte.
 
 ---
 
 ## Abs. 3 — Vorbehalt SchKG-Klagefristen
 
-**12** **SchKG-Fristen** Abs. 3 behält die besonderen gesetzlichen Klagefristen nach dem SchKG vor. Die wichtigste Anwendungssituation ist die Aberkennungsklage (Art. 83 Abs. 2 SchKG), für die eine verkürzte Frist von 20 Tagen gilt. Für die Rückdatierung der Rechtshängigkeit nach Art. 63 ZPO kommt es nicht auf die Monatsfrist des Abs. 1 an, sondern die Eingabe muss innert der jeweiligen SchKG-Sonderfrist (im Fall der Aberkennungsklage: 20 Tage) nach dem Nichteintretensentscheid beim zuständigen Gericht neu eingereicht werden (BGE 141 III 481, E. 3; BGE 138 III 610, E. 2).
+**12** **SchKG-Fristen** Abs. 3 behält die besonderen gesetzlichen Klagefristen nach dem SchKG vor. Die wichtigste Anwendungssituation ist die Aberkennungsklage (Art. 83 Abs. 2 SchKG), für die eine verkürzte Frist von 20 Tagen gilt. Für die Rückdatierung der Rechtshängigkeit nach Art. 63 ZPO kommt es nicht auf die Monatsfrist des Abs. 1 an, sondern die Eingabe muss innert der jeweiligen SchKG-Sonderfrist (im Fall der Aberkennungsklage: 20 Tage) nach dem Nichteintretensentscheid beim zuständigen Gericht neu eingereicht werden (Art. 63 Abs. 3 ZPO).
 
 ---
 
@@ -92,7 +97,7 @@ revisions:
 
 ### Rechtsmittel
 
-**13** **Beschwerde in Zivilsachen** Entscheide über die Rückdatierung der Rechtshängigkeit nach Art. 63 ZPO sind in der Regel im Rechtsmittelweg anfechtbar. Ein Nichteintretensentscheid wegen fehlender Zuständigkeit ist — unabhängig davon, ob die Partei Rechtsmittel ergreifen oder die Eingabe neu einreichen will — mit Beschwerde anfechtbar, da die Partei durch diesen Entscheid beschwert bleibt (BGE 138 III 610, E. 2.5.1).
+**13** **Beschwerde in Zivilsachen** Entscheide über die Rückdatierung der Rechtshängigkeit nach Art. 63 ZPO sind in der Regel im Rechtsmittelweg anfechtbar. Der Betroffene bleibt durch den Nichteintretensentscheid beschwert; dieser zieht in der Regel Kostenfolgen nach sich und ist deshalb anfechtbar, da die Partei durch diesen Entscheid beschwert bleibt (BGE 138 III 610, E. 2.5.1).
 
 ---
 
