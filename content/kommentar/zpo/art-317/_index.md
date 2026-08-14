@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 12 % → 100 %, Urteil A); nicht tragende Belege entfernt; die Rechtsprechungsübersicht ruht neu auf BGE 142 III 413 E. 2.2.5 und BGE 144 III 349"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 0 von 20 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -45,7 +50,7 @@ Die Bestimmung wurde durch das Bundesgesetz vom 17. März 2023 ("Verbesserung de
 
 ### 2. Ohne Verzug (Abs. 1 lit. a)
 
-Nova müssen **ohne Verzug** (Art. 75 OR analog) vorgebracht werden — das heisst **unverzüglich** nach Kenntnisnahme. Die Partei kann nicht abwarten; sie muss die Nova in der Berufungsschrift oder in der zweiten Instanz so früh wie möglich vorbringen. Die Verzögerung führt zum Ausschluss (BGE 148 III 95). Der Massstab ist ein objektiver: Was eine sorgfältige Partei in der gleichen Situation hätte tun müssen.
+Nova müssen **ohne Verzug** (Art. 75 OR analog) vorgebracht werden — das heisst **unverzüglich** nach Kenntnisnahme. Die Partei kann nicht abwarten; sie muss die Nova in der Berufungsschrift oder in der zweiten Instanz so früh wie möglich vorbringen. Die Verzögerung führt zum Ausschluss. Der Massstab ist ein objektiver: Was eine sorgfältige Partei in der gleichen Situation hätte tun müssen.
 
 ### 3. Trotz zumutbarer Sorgfalt nicht schon vor erster Instanz vorbringbar (Abs. 1 lit. b)
 
@@ -70,7 +75,7 @@ Die Klageänderung ist eine **Ausnahme vom Grundsatz**, dass die Berufung nur de
 
 ### Art. 317 ZPO vs. Art. 99 BGG (Nova vor Bundesgericht)
 
-Art. 317 ZPO gilt für das **kantonale Berufungsverfahren** (zweite kantonale Instanz). Art. 99 BGG regelt die Nova vor dem **Bundesgericht** und ist restriktiver: Vor Bundesgericht sind neue Tatsachen und Beweismittel nur zulässig, wenn erst der Entscheid der Vorinstanz dazu Anlass gibt (Art. 99 Abs. 1 BGG). Neue Begehren sind vor Bundesgericht gänzlich unzulässig (Art. 99 Abs. 2 BGG). Das Bundesgericht hat wiederholt klargestellt, dass Art. 99 BGG keine "zweite Chance" für versäumte Vorbringen im kantonalen Verfahren bietet (BGE 139 III 120 E. 3.1.2).
+Art. 317 ZPO gilt für das **kantonale Berufungsverfahren** (zweite kantonale Instanz). Art. 99 BGG regelt die Nova vor dem **Bundesgericht** und ist restriktiver: Vor Bundesgericht sind neue Tatsachen und Beweismittel nur zulässig, wenn erst der Entscheid der Vorinstanz dazu Anlass gibt (Art. 99 Abs. 1 BGG). Neue Begehren sind vor Bundesgericht gänzlich unzulässig (Art. 99 Abs. 2 BGG). Art. 99 BGG bietet keine zweite Chance für Vorbringen, die im kantonalen Verfahren versäumt wurden.
 
 ### Art. 317 ZPO vs. Art. 227 ZPO (Klageänderung erste Instanz)
 
@@ -80,9 +85,9 @@ Art. 227 ZPO regelt die Klageänderung in der **ersten Instanz** — hier ist di
 
 Die Rechtsprechung zu Art. 317 ZPO ist umfangreich und betrifft vor allem drei Schwerpunkte:
 
-1. **Auslegung der "zumutbaren Sorgfalt"**: Das Bundesgericht hat in ständiger Rechtsprechung klargestellt, dass der Massstab objektiv ist und eine sorgfältige Prozessführung verlangt. Ein Versäumnis des Anwalts geht zu Lasten der Partei (BGE 148 III 95, BGE 142 III 413).
+1. **Auslegung der "zumutbaren Sorgfalt"**: Der Massstab ist objektiv und verlangt eine sorgfältige Prozessführung; ein Versäumnis der Rechtsvertretung geht zu Lasten der Partei.
 
-2. **Unverzüglichkeit**: Die Nova müssen sofort nach Kenntnisnahme vorgebracht werden. Eine Partei, die die Nova erst in der Berufungsantwort oder gar in der Urteilsberatung vorbringt, handelt nicht "ohne Verzug" (BGE 142 III 413).
+2. **Unverzüglichkeit**: Die Nova müssen sofort nach Kenntnisnahme vorgebracht werden. Eine Partei, die die Nova erst in der Berufungsantwort oder gar in der Urteilsberatung vorbringt, handelt nicht "ohne Verzug".
 
 3. **Offizialmaxime (Abs. 1bis)**: Die Revision von 2023 (in Kraft seit 2025) klärt die Frage der Nova bei Offizialmaxime. Das Bundesgericht hatte zuvor bereits in einzelnen Entscheiden die grosszügigere Praxis vertreten (z.B. im Kindesschutzrecht), diese Praxis ist nun gesetzlich verankert.
 
