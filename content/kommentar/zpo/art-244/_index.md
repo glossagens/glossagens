@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 32 % → 100 %, Urteil A); zu den Formanforderungen nach Art. 244 Abs. 1 und 2 ZPO liess sich keine einschlägige bundesgerichtliche Erwägung finden — die Lücke ist im Audit-Protokoll ausgewiesen statt mit benachbarten Entscheiden gefüllt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 32 % (Urteil C); 4 von 31 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---

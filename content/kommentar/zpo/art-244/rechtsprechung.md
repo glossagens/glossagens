@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 244 ZPO"
 weight: 2
 date: 2026-05-23
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 244 ZPO — Vereinfachte Klage, Formanforderungen, Streitwert, Anwendungsbereich des vereinfachten Verfahrens."
-tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Protokollklage"]
+description: "Übersicht der Rechtsprechung zum vereinfachten Verfahren — Anwendungsbereich, Verhältnis zur sachlichen Zuständigkeit, Hauptverhandlung."
+tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Klageeinreichung"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 32 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; zu Art. 244 ZPO selbst liess sich keine einschlägige bundesgerichtliche Rechtsprechung finden — das ist im Audit-Protokoll ausgewiesen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,81 +21,52 @@ revisions:
 
 # Rechtsprechung zu Art. 244 ZPO
 
-## I. Leitentscheide
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-### BGE 140 III 450 — Anspruch und Verzicht auf Hauptverhandlung im vereinfachten Verfahren
+**Zur Belegdichte:** Zu Art. 244 ZPO selbst — den Formanforderungen an die vereinfachte
+Klage — besteht kaum eigene bundesgerichtliche Rechtsprechung. Die einschlägigen
+Entscheide betreffen den **Anwendungsbereich** des vereinfachten Verfahrens (Art. 243 ZPO)
+und dessen Ablauf. Die Übersicht bildet deshalb ab, was belegbar ist, und nicht mehr.
 
-[BGE 140 III 450](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_450) (1. September 2014) — Grundlagenentscheid zum vereinfachten Verfahren (Art. 243 ff. ZPO). Das Bundesgericht klärte, ob die Vorinstanz nach den angerufenen Vorschriften der ZPO gehalten gewesen wäre, einen weiteren Schriftenwechsel oder eine Hauptverhandlung durchzuführen. Im vereinfachten Verfahren kann auf eine Hauptverhandlung verzichtet werden, sofern der Sachverhalt aufgrund der Akten genügend geklärt ist. Die Formanforderungen von Art. 244 ZPO sind bewusst niedrig gehalten, um den Zugang zum Gericht zu erleichtern.
+## I. Verhältnis zur sachlichen Zuständigkeit
 
-### BGE 143 III 137 — Handelsgericht und vereinfachtes Verfahren bei Streitwert Fr. 30'000
+### [BGE 143 III 137, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_137#e-2-2) (27.2.2017)
 
-[BGE 143 III 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_137) (11. Oktober 2016) — Zentraler Entscheid zur sachlichen Zuständigkeit des Handelsgerichts und zum vereinfachten Verfahren. Gilt für eine Streitigkeit nach Art. 243 Abs. 1 oder 2 ZPO das vereinfachte Verfahren, ist das Handelsgericht nicht zuständig — selbst wenn der Streitwert die Schwelle von Art. 6 Abs. 1 ZPO (Fr. 30'000) erreicht. Das vereinfachte Verfahren hat Vorrang vor der handelsgerichtlichen Zuständigkeit. Im konkreten Fall betrug der Streitwert genau Fr. 30'000 (Zinsen nach Art. 91 Abs. 1 ZPO nicht relevant), und das Handelsgericht wurde als nicht zuständig erklärt.
+**Kernaussage**: Gilt für eine Streitigkeit nach Art. 243 Abs. 1 oder 2 ZPO das vereinfachte Verfahren, ist das Handelsgericht nicht zuständig.
 
-### BGE 150 III 257 — Vereinfachtes Verfahren bei Mietstreitigkeiten nach Kündigung durch Mieter
+Praktisch bedeutsam für die Wahl des Gerichts: Die Verfahrensart geht der handelsgerichtlichen Zuständigkeit vor. Wer bei einem Streitwert unter Fr. 30'000.– oder in einer Angelegenheit nach Art. 243 Abs. 2 ZPO ans Handelsgericht gelangt, erhält einen Nichteintretensentscheid.
 
-[BGE 150 III 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_257) (22. Mai 2024) — Präzisierung zum Anwendungsbereich des vereinfachten Verfahrens bei Streitigkeiten aus Miete (Art. 243 Abs. 2 lit. c ZPO). Wenn der Mieter den Mietvertrag kündigt, betrifft der allenfalls daraus resultierende Streit nur die finanziellen Ansprüche aus dem Mietverhältnis — nicht den Kündigungsschutz. Diese Streitigkeiten sind im vereinfachten Verfahren zu erledigen, sofern der Streitwert die Grenze von Art. 243 Abs. 1 ZPO nicht überschreitet.
+## II. Hauptverhandlung im vereinfachten Verfahren
 
-### BGE 142 III 402 — Kündigungsschutz und Ausweisung im vereinfachten Verfahren
+### [BGE 140 III 450, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_450#e-3-2) (1.9.2014)
 
-[BGE 142 III 402](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_402) (21. Juni 2016) — Zum "Kündigungsschutz" im Sinne von Art. 243 Abs. 2 lit. c ZPO gehören auch Streitigkeiten betreffend die Ausweisung eines Mieters, welche nur die Gültigkeit der Kündigung betreffen. Streitigkeiten über die Beendigung des Mietverhältnisses sind im vereinfachten Verfahren zu erledigen, sofern sie den Kündigungsschutz betreffen. Das Bundesgericht stellte klar, dass nur der Streit darüber, ob die Klage im ordentlichen oder vereinfachten Verfahren zu erledigen ist, litigiös ist.
+**Kernaussage**: Im vereinfachten Verfahren besteht ein Anspruch auf Durchführung einer Hauptverhandlung; die Parteien können darauf verzichten, wobei offenbleibt, ob das auch in den Fällen von Art. 243 Abs. 2 ZPO gilt.
 
-### BGE 148 III 415 — Vormerkung eines Mietverhältnisses im Grundbuch (vereinfachtes Verfahren)
+Die offengelassene Frage betrifft gerade die sozialpolitisch motivierten Streitigkeiten (Miete, Arbeit, Gleichstellung), in denen die Hauptverhandlung dem Schutz der schwächeren Partei dient. Ein Verzicht ist dort riskant.
 
-[BGE 148 III 415](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_415) (20. September 2022) — Die auf Art. 261b OR (in Verbindung mit Art. 959 ZGB) gestützte Klage betreffend die grundbuchliche Vormerkung eines Mietverhältnisses fällt unter den Kündigungsschutz nach Art. 243 Abs. 2 lit. c ZPO und ist im vereinfachten Verfahren zu erledigen. Das Bundesgericht bejahte die Anwendbarkeit des vereinfachten Verfahrens, da der Streit den Bestand des Mietverhältnisses betrifft.
+## Audit-Protokoll
 
-### BGE 149 III 469 — Anwendungsbereich des vereinfachten Verfahrens nach Beendigung des Mietverhältnisses
+Beim Audit vom 13.08.2026 waren 15 von 31 Belegpaaren ungestützt und 12 weitere nur
+teilweise gestützt (Belegquote 32 %, Urteil C); fünf Paare wurden mit `contradicts`
+beurteilt. Sämtliche Paare lagen in dieser Übersicht — der Fliesstext in `_index.md`
+führt keine Belege.
 
-[BGE 149 III 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_469) (11. September 2023) — Präzisierung des Anwendungsbereichs von Art. 243 Abs. 2 lit. c ZPO. Auf Klagen, mit denen nach Beendigung des Mietverhältnisses und ausserhalb eines Verfahrens um Hinterlegung von Mietzinsen Schadensersatz wegen Nichterfüllung gefordert wird, ist das vereinfachte Verfahren nicht anwendbar. Diese Klagen betreffen nicht den Kündigungsschutz, sondern reine Schadensersatzansprüche.
+Nicht übernommen wurden BGE 117 II 256, BGE 118 II 27, BGE 127 III 474,
+BGE 138 III 483, BGE 141 I 97, BGE 142 III 145, BGE 142 III 278, BGE 142 III 402,
+BGE 146 III 63, BGE 148 III 105, BGE 148 III 415, BGE 149 III 469, BGE 150 III 257
+sowie BGer 4A_182/2019. Die Entscheide existieren; die ihnen zugeschriebenen Aussagen
+liessen sich in keiner Erwägung nachweisen.
 
-### BGE 142 III 145 — Vereinfachtes Verfahren und Formanforderungen
+Zwei der angeführten Entscheide stammen aus der Zeit vor der ZPO (BGE 117 II 256 von
+1991, BGE 118 II 27 von 1992). Art. 244 ZPO trat erst am 1. Januar 2011 in Kraft.
 
-[BGE 142 III 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_145) (10. Februar 2016) — Das Bundesgericht klärte die Formanforderungen an die Klage im vereinfachten Verfahren. Die bewusst niedrigen Anforderungen von Art. 244 ZPO (keine Begründung erforderlich, mündliche Klage zu Protokoll möglich) bezwecken den Zugang zum Gericht zu erleichtern — insbesondere für Parteien ohne anwaltliche Vertretung. Eine formelle Begründung ist nicht erforderlich, aber das Rechtsbegehren und der Streitgegenstand müssen klar bezeichnet sein.
+**Eine Lücke, die bestehen bleibt.** Zu den Formanforderungen an die vereinfachte Klage
+nach Art. 244 Abs. 1 und 2 ZPO — insbesondere zur Frage, wann eine Klage ohne Begründung
+genügt und wie das Gericht bei unvollständigen Laieneingaben vorzugehen hat — liess sich
+keine einschlägige bundesgerichtliche Erwägung finden. Die Recherche über
+`search_decisions` lieferte für «Art. 244 ZPO» überwiegend kantonale Steuer- und
+Sozialversicherungsentscheide zu gleichlautenden kantonalen Paragraphen. Diese Lücke ist
+hier ausgewiesen statt mit thematisch benachbarten Entscheiden gefüllt.
 
-### BGE 142 III 278 — Übergang von vereinfachtem zu ordentlichem Verfahren
-
-[BGE 142 III 278](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_278) (14. April 2016) — Das Bundesgericht befasste sich mit der Frage, unter welchen Voraussetzungen das Gericht im vereinfachten Verfahren zum ordentlichen Verfahren übergehen kann. Der Übergang ist zulässig, wenn sich der Sachverhalt als komplexer erweist als ursprünglich angenommen, und die Parteien die Möglichkeit haben, sich zum Übergang zu äussern.
-
-### BGE 146 III 63 — Säumnis und Nachfrist im vereinfachten Verfahren
-
-[BGE 146 III 63](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_63) (4. November 2019) — Das Bundesgericht klärte die Säumnisfolgen im vereinfachten Verfahren. Bei versäumter Stellungnahme gelten die Säumnisfolgen sinngemäss nach Art. 219 ZPO, aber mit den Besonderheiten des vereinfachten Verfahrens. Eine Nachfristsetzung ist nicht zwingend, kann aber im Ermessensfall geboten sein.
-
-### BGE 138 III 483 — Protokollklage und Säumnis im Rechtsöffnungsverfahren
-
-[BGE 138 III 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483) (28. Juni 2012) — Die mündliche Klage zu Protokoll (Art. 244 Abs. 1 ZPO) ist eine Zugangserleichterung für Parteien ohne anwaltliche Vertretung. Bei versäumter Stellungnahme zum Rechtsöffnungsbegehren wird dem Betriebenen keine Nachfrist gewährt. Das Bundesgericht stellte klar, dass die sinngemässe Anwendung des ordentlichen Verfahrens (Art. 219 ZPO) ihre Grenze in der Natur des vereinfachten Verfahrens findet.
-
-## II. Weitere BGer-Entscheide
-
-### BGer 4A_182/2019 — Formanforderungen im vereinfachten Verfahren
-
-[BGer 4A_182/2019](https://mcp.opencaselaw.ch/entscheid/bger_4A_182_2019) (4. November 2019) — Das Bundesgericht bestätigte, dass die Formanforderungen von Art. 244 ZPO bewusst niedrig gehalten sind. Eine Begründung der Klage ist nicht erforderlich (Art. 244 Abs. 2 ZPO), aber das Rechtsbegehren muss klar und bestimmt sein. Eine unklare Begehrenstellung kann zur Nichteintreten führen.
-
-### BGE 141 I 97 — EMRK und vereinfachtes Verfahren
-
-[BGE 141 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_97) (22. Januar 2015) — Das Bundesgericht klärte, ob Art. 6 Ziff. 1 EMRK in einem Vollstreckungsverfahren einen gleichsam voraussetzungslosen und damit formellen Anspruch auf Durchführung einer mündlichen bzw. öffentlichen Gerichtsverhandlung gewährt. Im vereinfachten Verfahren kann unter bestimmten Voraussetzungen auf eine mündliche Verhandlung verzichtet werden, sofern der Sachverhalt aufgrund der Akten genügend geklärt ist und die Parteien die Möglichkeit hatten, sich schriftlich zu äussern.
-
-### BGE 127 III 474 — Endentscheid-Begriff und vereinfachtes Verfahren
-
-[BGE 127 III 474](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_III_474) (26. Juni 1998) — Bestätigung der Rechtsprechung zum Begriff des Endentscheids im Sinne des vereinfachten Verfahrens. Ein Entscheid, der eine Sache endgültig erledigt — auch nur teilweise — ist ein Endentscheid und als solcher mit dem entsprechenden Rechtsmittel anfechtbar. Die Abgrenzung zwischen Endentscheid und Zwischenentscheid ist nach dem Inhalt der Entscheidung zu treffen.
-
-### BGE 117 II 256 — Übergangsrecht und vereinfachtes Verfahren
-
-[BGE 117 II 256](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_II_256) (2. November 1979) — Früher Entscheid zum Übergangsrecht bei Einführung des vereinfachten Verfahrens. Die Grundsätze sind auf die Schweizer ZPO (in Kraft seit 1. Januar 2011) übertragbar, soweit sie nicht durch die neue Gesetzgebung überholt wurden.
-
-### BGE 118 II 27 — Formale Anforderungen an die Klage
-
-[BGE 118 II 27](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_27) (27. Februar 1992) — Das Bundesgericht stellte klar, dass die formalen Anforderungen an die Klage im vereinfachten Verfahren (Art. 244 ZPO) niedriger sind als im ordentlichen Verfahren (Art. 221 ZPO). Eine Begründung ist nicht erforderlich, aber die Bezeichnung der Parteien, das Rechtsbegehren und der Streitgegenstand sind zwingend.
-
-### BGE 148 III 105 — Verfahrensgrundsätze im vereinfachten Verfahren
-
-[BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31. August 2021) — Das Bundesgericht bestätigte die Verfahrensgrundsätze des vereinfachten Verfahrens: Die Bestimmungen des ordentlichen Verfahrens (Art. 219 ff. ZPO) gelten sinngemäss, soweit das Gesetz nichts anderes bestimmt (Art. 243 Abs. 3 ZPO). Die sinngemässe Anwendung findet ihre Grenze in der Natur des vereinfachten Verfahrens — insbesondere bei den Formanforderungen und der Beweiswürdigung.
-
-## III. Verhältnis zum ordentlichen Verfahren (Art. 219 ZPO)
-
-Das vereinfachte Verfahren (Art. 243 ff. ZPO) ist nicht vollständig autonom — die Bestimmungen des ordentlichen Verfahrens (Art. 219 ff. ZPO) gelten sinngemäss, soweit das Gesetz nichts anderes bestimmt (Art. 243 Abs. 3 ZPO). Die sinngemässe Anwendung betrifft insbesondere:
-
-- **Säumnisfolgen** (Art. 219 ZPO) — sinngemäss anwendbar, aber mit Besonderheiten
-- **Beweiswürdigung** — freie Beweiswürdigung, aber summarischere Praxis
-- **Hauptverhandlung** — kann verzichtet werden, sofern Sachverhalt genügend geklärt
-- **Rechtsmittel** — Berufung bei Streitwert > Fr. 10'000, sonst Beschwerde
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`, `search_decisions`).
