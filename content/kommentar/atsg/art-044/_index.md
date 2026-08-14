@@ -2,10 +2,16 @@
 title: "Art. 44 — Begutachtung"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-07-31
-description: "Kommentar zu Art. 44 ATSG: Begutachtung im Rahmen medizinischer Abklärungen, Gutachtenstypen, Zwischenverfügungspflicht, Mitwirkungsrechte der versicherten Person, Verhältnis zu Art. 43 ATSG."
-tags: ["ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht", "Mitwirkungsrechte", "IV"]
+lastmod: 2026-08-14
+description: "Kommentar zu Art. 44 ATSG: Begutachtung im Rahmen medizinischer Abklärungen, Gutachtenstypen, Zwischenverfügungspflicht, Mitwirkungsrechte der versicherten Person, Gerichtsgutachterkosten, Verhältnis zu Art. 43 ATSG."
+tags: ["ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht", "Mitwirkungsrechte", "Gerichtsgutachterkosten", "Kausalzusammenhang", "IV"]
 agent_verified: true
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 9C_365/2025 ergänzt: Gerichtsgutachterkosten, Kausalzusammenhang, Art. 45 ATSG"
 ---
 
 # Art. 44 ATSG
@@ -69,11 +75,21 @@ Die Orientierungspflicht dient der Transparenz und ermöglicht der versicherten 
 
 **10** Die Zwischenverfügungspflicht ergibt sich aus der **systematischen Auslegung** von Art. 44 ATSG mit Art. 43 Abs. 1bis ATSG und Art. 56 ATSG: Wenn der Versicherungsträger eine Begutachtung anordnet und die versicherte Person Einwände erhebt (z.B. Befangenheitsrüge nach Abs. 3, Streit über die Gutachtenart nach Abs. 1), ist dies ein selbstständig anfechtbarer Verfahrensschritt, der in einer Verfügung zu eröffnen ist. Die versicherte Person kann diese Zwischenverfügung mit Rechtsmittel (Einsprache, Beschwerde) anfechten ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 4.1–4.3).
 
-### VII. Verhältnis zu Art. 43 ATSG
+### VII. Gerichtsgutachterkosten / Kausalzusammenhang (i.V.m. Art. 45 ATSG)
+
+**14** Hat die Vorinstanz im Rahmen der gerichtlichen Beurteilung eine Expertise angeordnet, weil die im Verwaltungsverfahren eingeholten Abklärungen keine ausreichende Beweiskraft für die Beurteilung rechtlich erheblicher Punkte aufwiesen, können die Gerichtsgutachterkosten der Verwaltung (IV-Stelle) auferlegt werden. Die Gutachterkosten sind in diesem Fall Verwaltungskosten im Sinne von **Art. 45 ATSG**, nicht Gerichtskosten im Sinne von Art. 69 Abs. 1bis IVG (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.1; BGE 139 V 496, E. 4.3; BGE 139 V 225, E. 4.3; BGE 137 V 210, E. 4.4.1.4). Vgl. auch [BGer 9C_651/2023](https://mcp.opencaselaw.ch/entscheid/bger_9C_651_2023), E. 3.2; Furrer, RSAS 2019, S. 14.
+
+**15** Dies führt jedoch **nicht** zur systematischen Auferlegung der Gerichtsgutachterkosten an die Verwaltung. Vielmehr muss ein **Kausalzusammenhang** zwischen den Mängeln der administrativen Abklärung und der Notwendigkeit der gerichtlichen Expertise bestehen (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.1; BGE 139 V 496, E. 4.4; BGE 137 V 210, E. 4.4.2).
+
+**16** Hat die Verwaltung den Untersuchungsgrundsatz gewahrt, eine Begutachtung nach **Art. 44 ATSG** angeordnet und erscheint ihre Beweiswürdigung im Anschluss daran nicht offensichtlich fehlerhaft, so rechtfertigt dies nicht die Auferlegung der Gerichtsgutachterkosten an die Verwaltung. Allein eine abweichende Beweiswürdigung des Gerichts genügt nicht, um die Kosten dem Verwaltungsträger aufzuerlegen (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.2; BGE 143 V 269, E. 3.3; [BGer 8C_454/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_454_2025), E. 3).
+
+**17** In **BGer 9C_365/2025** hat das Bundesgericht die Kostenauferlegung aufgehoben, weil die Vorinstanz den Kausalzusammenhang nicht dargelegt hatte: Sie hatte weder benannt, welche ärztlichen Stellungnahmen widersprüchlich waren, noch erklärt, warum die im Verwaltungsverfahren eingeholten Expertisen ausser Acht gelassen wurden. Die blosse Erwägung, es bestünden «Unsicherheiten» bei den ärztlichen Stellungnahmen, genügt nicht, um einen charakteristischen Mangel der Verwaltungsabklärung zu begründen ([BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 5.2).
+
+### VIII. Verhältnis zu Art. 43 ATSG
 
 **11** Art. 43 ATSG regelt die allgemeine **Abklärungspflicht** und **Mitwirkungspflicht** des Versicherungsträgers. Art. 44 ATSG spezifiziert diese Pflichten für den Bereich der medizinischen Begutachtung. Die Mitwirkungsrechte nach Art. 43 Abs. 1bis ATSG (Recht auf formulierte Fragestellung, Recht auf Beiordnung einer Vertrauensperson, Recht auf Einsicht in die Akten) gelten auch im Begutachtungsverfahren nach Art. 44 ATSG und müssen vom Versicherungsträger aktiv gewährleistet werden ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.1; [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 4.2).
 
-### VIII. Prozessuale Folgen
+### IX. Prozessuale Folgen
 
 **12** Die Anordnung einer Begutachtung nach Art. 44 ATSG ist als **Zwischenverfügung** (Art. 93 Abs. 1 BGG) selbstständig anfechtbar, wenn sie einen nicht wieder gutzumachenden Nachteil verursacht (Art. 93 Abs. 1 lit. a BGG). Dies ist der Fall, wenn die versicherte Person durch die Begutachtungsanordnung in ihren Mitwirkungsrechten verletzt wird und eine nachträgliche Korrektur im Endentscheid nicht mehr möglich ist ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 1.1–1.3).
 
@@ -86,10 +102,11 @@ Die Orientierungspflicht dient der Transparenz und ermöglicht der versicherten 
 - [Art. 16 ATSG](../art-016/) — Grad der Invalidität
 - [Art. 17 ATSG](../art-017/) — Revision der Rente
 - Art. 43 ATSG — Abklärungspflicht, Mitwirkungspflicht *(→ [ATSG Art. 43](../art-043/))*
+- Art. 45 ATSG — Kosten des Verfahrens *(→ ATSG)*
 - Art. 56 ATSG — Eröffnung von Verfügungen *(→ ATSG)*
 - Art. 59 IVG — Begutachtung *(→ IVG)*
 - Art. 72bis IVV — MEDAS *(→ IVV)*
 
 ## Literatur
 
-- KIESER UELI, ATSG-Kommentar, Zürich 2023, Art. 44 N. 1 ff.; RÜEDI FLAVIA, in: Commentaire romand, LPGA, Art. 44 N. 1 ff.; MOSER-SZELESS MARGIT, in: Soziale Sicherheit, Systematischer Kommentar (KSVI), Art. 44 N. 3067.1 (durch BGer 8C_445/2025 korrigiert); UELI KIESER / BERNHARD EHRENZELLER, Die Weiterentwicklung der IV aus verfahrensrechtlicher Sicht, in: AJP/PJA 2022, S. 753 ff.
+- KIESER UELI, ATSG-Kommentar, Zürich 2023, Art. 44 N. 1 ff.; RÜEDI FLAVIA, in: Commentaire romand, LPGA, Art. 44 N. 1 ff.; MOSER-SZELESS MARGIT, in: Soziale Sicherheit, Systematischer Kommentar (KSVI), Art. 44 N. 3067.1 (durch BGer 8C_445/2025 korrigiert); UELI KIESER / BERNHARD EHRENZELLER, Die Weiterentwicklung der IV aus verfahrensrechtlicher Sicht, in: AJP/PJA 2022, S. 753 ff.; ERIK FURRER, Rechtliche und praktische Aspekte auf dem Weg zum Gerichtsgutachten in der Invalidenversicherung, RSAS 2019, S. 14

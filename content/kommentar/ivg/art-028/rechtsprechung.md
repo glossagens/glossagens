@@ -5,7 +5,8 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 28 IVG — Rentenanspruch bei Invalidität"
 tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
-agent_verified: false
+agent_verified: true
+lastmod: 2026-08-14
 ---
 
 ## Leitentscheide (BGE)
@@ -78,6 +79,11 @@ agent_verified: false
 - **Kernaussage**: Bei laufenden Eingliederungsmassnahmen tritt die Invalidität erst nach deren Abschluss ein. Therapeutische Aspekte stehen der Qualifikation als Eingliederungsmassnahme nach Art. 8 Abs. 3 IVG nicht entgegen.
 - **Einschlägig für**: Abs. 1bis (Eingliederungsvorrang)
 
+### BGer 9C_144/2026 vom 30.7.2026, E. 4.2 und 5.1–5.3 — *Kontextzitat*
+- **Thema**: Beitragsdauer für ordentliche Rente, Eingliederungsvorrang und Majoration nach Art. 40 Abs. 3 IVG
+- **Kernaussage**: Die Beitragsdauer nach dem Invaliditätszeitpunkt kann nicht für die Dreijahresmindestfrist der ordentlichen Rente (Art. 36 Abs. 1 IVG) angerechnet werden. Massgeblich ist allein die Beitragsdauer bis zum Eintritt der Invalidität. Bei laufenden Eingliederungsmassnahmen setzt sich der Eingliederungsvorrang (Art. 28 Abs. 1 lit. a IVG) auch gegenüber einem Anspruch auf frühere Rentenzusprache durch. — *Kontextzitat*: Der Entscheid befasst sich primär mit der Abgrenzung ordentliche/ausserordentliche Rente und der Majoration nach Art. 40 Abs. 3 IVG; die Klarstellung zu Beitragsdauer und Eingliederungsvorrang ist eine Konkretisierung von Art. 28 Abs. 1 lit. a und Art. 36 Abs. 1 IVG.
+- **Einschlägig für**: Abs. 1 lit. a (Eingliederungsvorrang), Abs. 1bis, Art. 36 Abs. 1 IVG (Beitragsdauer)
+
 ### BGer 8C_326/2022 vom 13.10.2022, E. 4
 - **Thema**: Eingliederungsmassnahmen und Rentenanspruch
 - **Kernaussage**: Der Rentenanspruch beruht nicht auf Invalidität i.S.v. Art. 8 Abs. 1 ATSG, sondern auf Art. 28 IVG — die Eingliederungsmassnahmen müssen erfolglos geblieben sein.
@@ -85,4 +91,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+*Letzte Aktualisierung: 14. August 2026*

@@ -2,10 +2,16 @@
 title: "Art. 381 — Legitimation der Staatsanwaltschaft"
 weight: 381
 date: 2026-07-11
-lastmod: 2026-08-13
+lastmod: 2026-08-14
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
 agent_verified: true
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 6B_688/2025 ergänzt: Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben, Verschlechterungsverbot); neuer Abschnitt IX mit Rz. 24–25; Querverweis auf Art. 401 StPO"
 ---
 
 ## Gesetzeswortlaut
@@ -74,13 +80,19 @@ agent_verified: true
 
 **19** Die Funktion der Staatsanwaltschaft als Verfahrensleitung im Vorverfahren steht ihrer Parteistellung im Haftverfahren nicht entgegen. Wo ihr Leitungsbefugnisse entzogen sind — wie bei der Anordnung von Zwangsmassnahmen durch das Zwangsmassnahmengericht —, hat sie das Recht, dem Gericht die Anordnung zu beantragen und diesen Antrag zu vertreten. Damit hat sie in diesem Verfahren materiell Parteistellung ([BGer 1B 174/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_174_2011) E. 3.3.2). Nach den verfassungs- und konventionsrechtlichen Verfahrensgarantien (insbesondere Art. 31 Abs. 2 und 3 BV, Art. 5 EMRK) sind Haftanordnungs- und -prüfungsverfahren kontradiktorisch auszugestalten, was die Beteiligung der Staatsanwaltschaft als Verfahrenspartei voraussetzt.
 
-### IX. Grenzen der Rechtsmittellegitimation
+### IX. Grenzen bei der Anschlussberufung (Treu und Glauben)
+
+**24** Die Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 Abs. 1 StPO unterliegt bei der Anschlussberufung besonderen Schranken. Im Gegensatz zu anderen Verfahrensparteien hängt die Legitimation der Staatsanwaltschaft zur Anfechtung eines Entscheids nicht spezifisch von einem rechtlich geschützten Interesse ab (Art. 382 Abs. 1 StPO); sie kann grundsätzlich frei Rechtsmittel zugunsten und zuungunsten der beschuldigten Person ergreifen ([BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025) E. 2.2.3; BGE 147 IV 505 E. 4.4.1). Dies gilt jedoch nicht uneingeschränkt für die Anschlussberufung: Deren akzessorischer Charakter gegenüber der Hauptberufung und die Missbrauchsgefahr erfordern eine differenziertere Betrachtung der Legitimation ([BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025) E. 2.2.3 *Kontextzitat*). Die Staatsanwaltschaft handelt wider den Grundsatz von Treu und Glauben, wenn sie die Anschlussberufung mit dem alleinigen Ziel einlegt, die Anwendung des Verbots der reformatio in peius zum Nachteil des Hauptberufungsführers zu verhindern und ihn indirekt dazu zu bewegen, die Berufung zurückzuziehen (BGE 147 IV 505 E. 4.4.2 f.; [BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025) E. 2.2.3 *Kontextzitat*). Auf eine Anschlussberufung der Staatsanwaltschaft ist namentlich nicht einzutreten, wenn diese ihre eigene Hauptberufung zurückgezogen und sich damit grundsätzlich mit dem erstinstanzlichen Urteil abgefunden hat, sodann aber Anschlussberufung erhebt, um eine Sanktion durchzusetzen, die im erstinstanzlichen Verfahren — auch von ihr selbst — nicht beantragt wurde ([BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025) E. 2.2.4 f.; E. 2.2.5).
+
+**25** In [BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025) hat das Bundesgericht die Vorinstanz wegen Bundesrechtverletzung aufgehoben, weil diese zu Unrecht auf die Anschlussberufung der Staatsanwaltschaft eingetreten war und sodann eine Landesverweisung angeordnet hatte, obwohl die Staatsanwaltschaft im erstinstanzlichen Verfahren keine entsprechenden Anträge gestellt und ihre eigene Hauptberufung zurückgezogen hatte. Der Anschlussberufung kam darin ein prozesstaktischer Druckcharakter zu, der mit Treu und Glauben unvereinbar war (E. 2.2.4 f., E. 2.2.5). Der Entscheid bestätigt, dass die weitreichende Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 Abs. 1 StPO nicht schrankenlos auch auf die Anschlussberufung durchschlägt, sondern durch die Grundsätze von Treu und Glauben und das Verschlechterungsverbot (Art. 391 Abs. 2 StGB) begrenzt wird.
+
+### X. Grenzen der Rechtsmittellegitimation
 
 **20** Die Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 StPO ist nicht schrankenlos. Sie endet dort, wo die Staatsanwaltschaft kein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des angefochtenen Entscheids hat (vgl. [Art. 382](../art-382) StPO). Das rechtlich geschützte Interesse leitet sich aus dem staatlichen Strafanspruch ab; geht es um Belange, die ausserhalb des Strafanspruchs liegen, fehlt der Staatsanwaltschaft die Beschwerdelegitimation.
 
 **21** So hat das Bundesgericht in [BGE 148 IV 275](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_275) E. 1 entschieden, dass die Staatsanwaltschaft nicht legitimiert ist, die Festsetzung eines Entschädigungsanspruchs an eine Drittperson im Sinne von Art. 434 StPO anzufechten. Die Entschädigungsansprüche Dritter sind privatrechtlicher Natur und betreffen nicht die Durchsetzung des staatlichen Strafanspruchs. Die Staatsanwaltschaft vertritt den Strafanspruch, nicht die privatrechtlichen Interessen Dritter.
 
-### X. Verhältnis zur Rechtsmittellegitimation anderer Verfahrensbeteiligter
+### XI. Verhältnis zur Rechtsmittellegitimation anderer Verfahrensbeteiligter
 
 **22** Die Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 StPO besteht neben der Rechtsmittellegitimation anderer Verfahrensbeteiligter. Die beschuldigte Person ist zur Beschwerde legitimiert, wenn der angefochtene Entscheid sich auf ihre Rechtsstellung auswirkt (vgl. [Art. 382](../art-382) StPO). Die Privatklägerschaft kann Rechtsmittel ergreifen, soweit der angefochtene Entscheid sich auf ihre Zivilansprüche auswirken kann (Art. 382 Abs. 2 StPO; Art. 81 Abs. 1 lit. b Ziff. 5 BGG). Die amtliche Verteidigung und die unentgeltliche Verbeiständung haben eine eigene Rechtsmittellegitimation nach Art. 135 Abs. 3 StPO.
 
@@ -100,6 +112,7 @@ agent_verified: true
 - [Art. 384 StPO](../art-384) — Fristbeginn
 - [Art. 394 StPO](../art-394) — Zulässigkeit und Berufungsgründe
 - [Art. 398 StPO](../art-398) — Zulässigkeit und Berufungsgründe
+- [Art. 401 StPO](../art-401) — Anschlussberufung
 - Art. 421 StPO — Kosten- und Entschädigungsfolgen im Endentscheid *(nicht kommentiert)*
 - [Art. 428 StPO](../art-428) — Kostentragung im Rechtsmittelverfahren
 - [Art. 429 StPO](../art-429) — Entschädigung und Genugtuung

@@ -2,11 +2,16 @@
 title: "Art. 29 — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-08-12
+lastmod: 2026-08-14
 description: "Kommentar zu Art. 29 BV – Gleiche und gerechte Behandlung, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege", "Grundrechte", "fair trial"]
 agent_verified: false
 revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung um BGer 9C_278/2026 (Umqualifizierung privater Kommunikation, Pflichtvertretung, rechtliches Gehör). check_claim_support: Claim 1 (Umqualifizierung) → unrelated (4k-Limit), Claim 2 (Gehör) → unrelated (4k-Limit), Claim 3 (neuer Pflichtvertreter + Frist) → partial (0.72). Alle Zitate als Kontextzitat qualifiziert."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -91,6 +96,8 @@ Das Äusserungsrecht ist nicht formell, sondern **materiell** zu verstehen: Die 
 
 In [BGer 7B_1305/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1305_2025) präzisierte das Bundesgericht im Verfahren betreffend bedingte Entlassung aus der Verwahrung: Wenn die Vorinstanz auf die Beschwerde nicht eintritt, weil die Beschwerdeschrift im Wesentlichen die bereits vor der Vorinstanz vorgetragenen Argumente wiederholt, so verstösst dies gegen den Anspruch auf rechtliches Gehör, soweit der Beschwerdeführer ausdrücklich auf den angefochtenen Verfügungsentscheid Bezug nimmt und eine Gehörsverletzung rügt.
 
+*Kontextzitat*: In [BGer 9C_278/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_278_2026) qualifizierte das Bundesgericht die Umdeutung eines privaten Courriels der versicherten Person an ihren Pflichtverteidiger in einen Verfahrensakt (réplique valable) als willkürliche Umqualifizierung, die gegen Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK verstösst. Es steht allein den Parteien zu, zu entscheiden, welche Vorbringen sie als relevant erachten; private Kommunikation mit dem eigenen Rechtsbeistand ist kein Verfahrensakt.
+
 ### 3. Replikrecht
 
 Die Wahrnehmung des Replikrechts als Teilaspekt des Anspruchs auf rechtliches Gehör setzt die **Zustellung der von den übrigen Verfahrensbeteiligten eingereichten Eingaben** voraus. Ohne Kenntnisnahme der gegnerischen Stellungnahme kann das rechtliche Gehör nicht effektiv ausgeübt werden ([BGE 137 I 195](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_195)).
@@ -99,6 +106,8 @@ Das Replikrecht umfasst:
 - **Recht auf Zustellung** der gegnerischen Eingaben und Beweismittel
 - **Recht auf Stellungnahme** zu neuen Tatsachen, die erst im Verfahren auftauchen
 - **Kein Automatismus**: Das Replikrecht setzt voraus, dass die Gegenseite überhaupt neue Vorbringen macht
+
+*Kontextzitat*: In [BGer 9C_278/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_278_2026) bekräftigte das Bundesgericht den Grundsatz, dass es allein den Parteien zusteht zu entscheiden, ob eine Stellungnahme oder ein neues Aktenstück erhebliche Elemente enthält, die Beobachtungen erfordern. Jede neue Stellungnahme und jedes neue Aktenstück ist den Parteien zu kommunizieren, damit sie entscheiden können, ob sie von ihrem Stellungnahmerecht Gebrauch machen wollen (E. 5).
 
 ### 4. Beweisrecht
 
@@ -145,6 +154,8 @@ Art. 29 Abs. 3 BV unterscheidet zwei Leistungen:
 
 Die Bestellung eines unentgeltlichen Rechtsbeistands setzt voraus, dass die Rechtssache **komplex** ist oder die Partei **ausserstande ist**, sich selbst zu vertreten. Bei einfachen Rechtssachen genügt die Befreiung von den Gerichtskosten.
 
+*Kontextzitat*: In [BGer 9C_278/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_278_2026) hielt das Bundesgericht fest, dass nach der Entbindung des Pflichtverteidigers ein neuer Pflichtverteidiger zu bestellen und der versicherten Person eine neue Frist zur Ausübung des Replikrechts einzuräumen ist, solange sie Anspruch auf unentgeltliche Rechtspflege hat (E. 6.2).
+
 ### 3. Rückzahlungspflicht
 
 Nach Art. 98 GOG (soweit anwendbar) und der kantonalen Gesetzgebung kann die unentgeltliche Rechtspflege von der bedürftigen Partei **rückzuerstatten** sein, wenn sich ihre wirtschaftlichen Verhältnisse verbessern. Dies betrifft namentlich:
@@ -182,6 +193,7 @@ Abgrenzung:
 ### Sozialversicherungsrecht
 - **Arbeitsunfähigkeit und Aufgabenteilung**: Aufgabenteilung von rechtsanwendender Stelle und begutachtender Arztperson bei der Beurteilung der Arbeitsunfähigkeit als Grundlage für den Anspruch auf Invalidenrente ([BGE 140 V 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_V_193)).
 - **Versicherungsexterne Begutachtung**: Kein förmlicher Anspruch auf versicherungsexterne Begutachtung, aber Anordnungspflicht bei Zweifeln an der Zuverlässigkeit der internen Begutachtung ([BGE 135 V 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_465)).
+- *Kontextzitat* **Umqualifizierung privater Kommunikation / Pflichtvertretung**: Keine Umqualifizierung privater Kommunikation mit dem Pflichtverteidiger als Verfahrensakt; nach Entbindung des Pflichtverteidigers ist ein neuer zu bestellen und eine neue Replikfrist einzuräumen ([BGer 9C_278/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_278_2026)).
 
 ### Strafverfahren
 - **Konfrontationsanspruch und Unverwertbarkeit**: Eine Einvernahme ohne Teilnahmerecht bleibt unverwertbar, auch nach Wiederholung unter Wahrung des Teilnahmerechts — Anpassung der Rechtsprechung ([BGE 150 IV 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345)).
