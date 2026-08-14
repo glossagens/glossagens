@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 17 % → 100 %, Urteil A); die beiden Leitentscheide zur Norm (BGE 138 III 123 zur klaren Rechtslage, BGE 138 III 620 zu den Einwendungen) fehlten bzw. waren falsch zugeordnet und sind jetzt mit Erwägung belegt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 0 von 18 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -77,11 +82,11 @@ Vorsorgliche Massnahmen (Art. 261 ff. ZPO) sind **vorläufig** und werden im sum
 
 Die Rechtsprechung zu Art. 257 ZPO ist breit und konzentriert sich auf die Auslegung der Voraussetzungen:
 
-1. **Unbestrittenheit**: Das Bundesgericht hat klargestellt, dass die Unbestrittenheit **alle massgebenden Tatsachen** betrifft — nicht nur einen Teil. Wenn eine zentrale Tatsache bestritten ist, ist das summarische Verfahren nach Art. 257 ZPO unzulässig (BGE 138 III 620).
+1. **Unbestrittenheit**: Das Bundesgericht hat klargestellt, dass die Unbestrittenheit **alle massgebenden Tatsachen** betrifft — nicht nur einen Teil. Es genügt, dass die beklagte Partei substanziiert und schlüssig Einwendungen vorträgt, die der Durchsetzung des Anspruchs entgegenstünden, wenn sie tatsächlich und rechtlich begründet wären; beweisen muss sie diese Einwendungen nicht. Der Beweislastverteilung kommt in diesem Verfahren keine entscheiderhebliche Bedeutung zu ([BGE 138 III 620, E. 6.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620#e-6-2)).
 
-2. **Klare Rechtslage**: Die Rechtslage muss **eindeutig** sein. Eine umstrittene Rechtsfrage, bei der verschiedene Ansichten vertreten werden, ist nicht "klar". Das Bundesgericht hat in der Praxis einen **strengen Massstab** angewandt — die Norm ist kein Instrument für die Klärung neuer Rechtsfragen (BGE 141 III 262).
+2. **Klare Rechtslage**: Die Rechtslage muss **eindeutig** sein. Eine umstrittene Rechtsfrage, bei der verschiedene Ansichten vertreten werden, ist nicht "klar". Eine klare Rechtslage setzt voraus, dass die Rechtsanwendung zu einem eindeutigen Ergebnis führt; das trifft in der Regel nicht zu, wenn die Anwendung einer Norm einen Ermessens- oder Billigkeitsentscheid erfordert ([BGE 138 III 123, E. 2.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_123#e-2-1-2)).
 
-3. **Nichteintreten**: Das Nichteintreten nach Abs. 3 ist eine **prozessuale Sanktion**, die die klagende Partei auf den Weg des ordentlichen Verfahrens verweist. Das Nichteintreten ist keine Sachentscheidung und kann mit der Beschwerde (Art. 319 ZPO) angefochten werden (BGE 142 III 515).
+3. **Nichteintreten**: Das Nichteintreten nach Abs. 3 ist eine **prozessuale Sanktion**, die die klagende Partei auf den Weg des ordentlichen Verfahrens verweist. Das Nichteintreten ist keine Sachentscheidung; die klagende Partei kann denselben Anspruch im ordentlichen Verfahren erneut geltend machen.
 
 ## Fazit
 
