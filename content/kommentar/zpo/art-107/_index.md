@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 33 % → 100 %, Urteil A); in der systematischen Einordnung die unzutreffende Herleitung aus Art. 29 BV (rechtliches Gehör) und dem diskriminierungsfreien Zugang zum Recht durch den tatsächlichen Normzweck ersetzt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 33 % (Urteil C); 3 von 27 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -28,7 +33,7 @@ revisions:
 
 ### Systematische Einordnung
 
-Art. 107 ZPO bricht mit dem Grundsatz «die unterliegende Partei trägt die Kosten» (Art. 106 ZPO) und eröffnet dem Gericht einen Ermessensspielraum für Billigkeitskorrekturen. Die Norm ist Ausdruck des verfassungsrechtlichen Anspruchs auf rechtliches Gehör (Art. 29 BV) und des diskriminierungsfreien Zugangs zum Recht.
+Art. 107 ZPO bricht mit dem Grundsatz «die unterliegende Partei trägt die Kosten» (Art. 106 ZPO) und eröffnet dem Gericht einen Ermessensspielraum für Billigkeitskorrekturen. Die Norm dient der Einzelfallgerechtigkeit: Sie erlaubt dem Gericht, von der starren Anknüpfung an Obsiegen und Unterliegen abzuweichen, wo diese zu einem unbilligen Ergebnis führte.
 
 ### Tatbestandsmerkmale
 
@@ -46,7 +51,7 @@ Art. 107 ZPO bricht mit dem Grundsatz «die unterliegende Partei trägt die Kost
 
 ### Ermessensausübung
 
-Das Ermessen ist kein freies, sondern ein pflichtgemässes Ermessen. Das Bundesgericht überprüft, ob das Gericht die Ermessenskriterien richtig angewandt hat und nicht willkürlich entschied (BGE 139 III 358). Massgeblich sind die gesamten Umstände des Einzelfalls.
+Das Ermessen ist kein freies, sondern ein pflichtgemässes Ermessen. Das Bundesgericht greift in Ermessensentscheide nur ein, wenn das Gericht grundlos von anerkannten Grundsätzen abgewichen ist, Umstände berücksichtigt hat, die keine Rolle spielen dürfen, oder umgekehrt rechtserhebliche Umstände ausser Acht gelassen hat. Massgeblich sind die gesamten Umstände des Einzelfalls.
 
 ### Verhältnis zu anderen Normen
 
