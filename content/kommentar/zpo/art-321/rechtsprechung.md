@@ -10,65 +10,56 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 36 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; ur_gerichte_2014_OG_Z_13_8 existiert nicht"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 36 % (Urteil C); 2 von 14 Paaren gestützt; 6 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 321 ZPO
 
-Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Obergerichtsentscheide zu den Frist- und Formvorschriften der Beschwerde (Einreichung, Begründungspflicht und Fristwahrung) dar.
+Jeder Eintrag nennt die Erwägung oder den Regeste-Satz, der die wiedergegebene Aussage
+trägt.
 
----
+## I. Fristwahrung bei Eingabe an unzuständiger Behörde
 
-## I. Leitentscheide
+### [BGE 140 III 636, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636#e-3-2) (9.12.2014)
 
-### [BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636) (11.03.2014) — Fristwahrung bei unzuständiger Behörde
-Die Einreichung einer Rechtsmittelschrift bei einer unzuständigen Behörde ist fristwahrend, sofern die Eingabe vor Ablauf der Frist dort eingetroffen ist. Das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet in solchen Fällen die unverzügliche Weiterleitung an die zuständige Rechtsmittelinstanz.
+**Kernaussage**: Die Schweizerische ZPO äussert sich nicht zur Frage der Fristwahrung durch Rechtsmitteleingaben, die bei einer sachlich oder funktionell unzuständigen Behörde eingereicht worden sind, und auch nicht zur Weiterleitung solcher Eingaben an die zuständige Instanz.
 
-### [BGer 5A_247/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_247_2013) (15.10.2013) — Beschwerdefrist bei vorsorglichen Massnahmen
-Entscheide über vorsorgliche Massnahmen fallen unter das summarische Verfahren, weshalb für die Anfechtung die zehntägige Beschwerdefrist gemäss Art. 321 Abs. 2 ZPO gilt.
+Ausgangspunkt des Entscheids: eine **echte Gesetzeslücke**. Art. 63 ZPO betrifft die Rechtshängigkeit, nicht die Rechtsmittelfrist. Das Bundesgericht schliesst die Lücke über das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) und Art. 48 Abs. 3 BGG analog (E. 2–4).
 
-### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020) — Begründungspflicht bei Rechtsbegehren
-Auch im Beschwerdeverfahren gilt eine strenge Rüge- und Begründungspflicht. Die beschwerdeführende Partei muss darlegen, welche rechtserheblichen Feststellungen oder rechtlichen Würdigungen der Vorinstanz sie konkret anficht.
+## II. Rüge- und Begründungspflicht im Beschwerdeverfahren
 
-### [BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (07.05.2014) — Frist zur Beschwerde gegen prozessleitende Verfügungen
-Die Anfechtung prozessleitender Verfügungen unterliegt zwingend der kurzen zehntägigen Beschwerdefrist gemäss Art. 321 Abs. 2 ZPO, sofern die materiellen Voraussetzungen (drohender nicht leicht wiedergutzumachender Nachteil) erfüllt sind.
+### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020)
 
-### [BGE 139 III 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_475) (17.10.2013) — Beschwerdefrist bei unentgeltlicher Rechtspflege
-Der Entscheid über die unentgeltliche Rechtspflege ist eine prozessleitende Verfügung, deren Anfechtung zwingend der kurzen Frist von 10 Tagen unterliegt.
+**Kernaussage**: Bestreitet die betriebene Partei vor der kantonalen Beschwerdeinstanz ausschliesslich die Vollständigkeit des Rechtsöffnungstitels, so darf die Beschwerdeinstanz grundsätzlich nicht von sich aus prüfen, ob die vorgelegten Urkunden inhaltlich als Schuldanerkennung taugen.
 
-### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (10.05.2013) — Novenausschluss
-Im Beschwerdeverfahren sind neue Tatsachen und Beweismittel (Noven) gemäss Art. 326 Abs. 1 ZPO grundsätzlich ausgeschlossen. Das Vorbringen neuer Beweismittel ist somit im Gegensatz zur Berufung nicht zulässig.
+Die praktische Kehrseite der Begründungspflicht nach Art. 321 Abs. 1 ZPO: Was nicht gerügt wird, prüft die Beschwerdeinstanz nicht — auch nicht unter dem Titel der Rechtsanwendung von Amtes wegen.
 
----
+## Audit-Protokoll
 
-## II. Weitere Entscheide
+Beim Audit vom 13.08.2026 waren 6 von 14 Belegpaaren ungestützt (Belegquote 36 %,
+Urteil C). Die Übersicht wurde verworfen und neu aufgebaut.
 
-### [Obergericht Uri 2014_OG Z 13 8](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_2014_OG_Z_13_8) (24.01.2014) — Frist bei Gesuch um unentgeltliche Rechtspflege
-Wird der Entscheid über die unentgeltliche Rechtspflege separat gefällt, beträgt die Frist zur Einreichung der Beschwerde zwingend 10 Tage.
+**Der Entscheid `ur_gerichte_2014_OG_Z_13_8` existiert nicht.** Die Referenz liess sich
+nicht auflösen und wurde entfernt. Im Fliesstext stand sie zudem mit einer defekten URL
+(`urgerichte2014OGZ138` ohne Trennzeichen).
 
-### [Kantonsgericht St. Gallen BE.2012.42](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BE.2012.42) (27.09.2012) — Frist der Kostenbeschwerde
-Die Kostenbeschwerde gegen eine Abschreibungsverfügung unterliegt nur dann der zehntägigen Frist, wenn sie in einem summarischen Hauptverfahren erging. Im ordentlichen oder vereinfachten Verfahren beträgt die Frist 30 Tage.
+Nicht übernommen wurden BGE 139 III 466, BGE 139 III 475, BGE 140 III 159 sowie
+BGer 5A_82/2013, 5A_247/2013, 5D_65/2014 und 5D_146/2017. Die Entscheide existieren; die
+ihnen zugeschriebenen Aussagen liessen sich in keiner Erwägung nachweisen. Die kantonalen
+Entscheide (Kantonsgericht St. Gallen BE.2012.42 und BE.2013.4-6) sind nicht mehr als
+Belege geführt, weil für kantonale Entscheide keine Erwägungen erschlossen sind.
 
-### [Kantonsgericht St. Gallen BE.2013.4-6](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_BE.2013.4-6) (17.09.2013) — Bezifferungspflicht der Kostenbeschwerde
-Die selbstständige Anfechtung der erstinstanzlichen Kostenliquidation (Kostenbeschwerde) verlangt ein beziffertes Rechtsbegehren. Der Kläger muss angeben, wie die Kosten verteilt bzw. in welcher Höhe sie auferlegt werden sollen.
+**Eine Lücke, die bestehen bleibt.** Zur Beschwerdefrist selbst — den dreissig Tagen nach
+Art. 321 Abs. 1 ZPO und den zehn Tagen bei prozessleitenden Verfügungen und im
+summarischen Verfahren nach Abs. 2 — liess sich keine einschlägige bundesgerichtliche
+Erwägung finden. Die Fristen ergeben sich aus dem Normwortlaut; der Kommentartext stützt
+sich darauf und nicht auf Rechtsprechung.
 
-### [Kantonsgericht Schwyz BEK 2025 173](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_BEK 2025 173) (18.12.2025) — Begründung im Rechtsöffnungsverfahren
-Eine Beschwerde gegen ein Rechtsöffnungsurteil muss schriftlich eingereicht werden und Anträge sowie eine hinreichende Begründung enthalten, welche auf die vorinstanzlichen Erwägungen eingeht.
-
-### [Kantonsgericht Schwyz ZK2 2023 47](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_ZK2 2023 47) (27.07.2023) — Falsche Rechtsmittelbelehrung
-Wurde in der vorinstanzlichen Entscheidung eine falsche Rechtsmittelfrist angegeben, dürfen den Parteien daraus gemäss dem Vertrauensschutzprinzip keine Nachteile erwachsen; die Frist gilt bei Einhaltung der angegebenen Belehrung als gewahrt.
-
-### [Kantonsgericht Schwyz BEK 2021 46](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_BEK 2021 46) (31.05.2021) — Postaufgabe am letzten Tag
-Die Frist zur Einreichung der Beschwerde ist gewahrt, wenn die Postaufgabe spätestens am letzten Tag der Frist erfolgt. Eine verspätete Übergabe führt zum Nichteintreten auf die Beschwerde.
-
-### [BGer 5D_65/2014](https://mcp.opencaselaw.ch/entscheid/bger_5D_65_2014) (09.09.2014) — Aufsichtsbeschwerde
-Befasst sich mit den Abgrenzungen zwischen Aufsichtsbeschwerden (z.B. gegen Erbenvertreter) und dem ordentlichen zivilprozessualen Rechtsmittelweg der Beschwerde.
-
-### [BGer 5D_146/2017](https://mcp.opencaselaw.ch/entscheid/bger_5D_146_2017) (17.11.2017) — Formelle Anforderungen an die Rügen
-Das Bundesgericht präzisiert die Anforderungen an die Rüge von Rechtsverletzungen im Beschwerdeverfahren nach Art. 321 Abs. 1 ZPO.
-
-### [BGer 5A_82/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_82_2013) (18.03.2013) — Frist im Rechtsöffnungsverfahren
-Das Rechtsöffnungsverfahren ist ein summarisches Verfahren. Die Beschwerdefrist gegen einen Rechtsöffnungsentscheid beträgt zwingend 10 Tage.
-
-*Letzte Aktualisierung: 2026-07-19*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).

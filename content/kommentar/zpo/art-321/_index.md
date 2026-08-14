@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 36 % → 88 %, Urteil A); die nicht existierende Referenz ur_gerichte_2014_OG_Z_13_8 mit defekter URL entfernt; kantonale Entscheide entlinkt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 36 % (Urteil C); 2 von 14 Paaren gestützt; 6 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -45,13 +50,11 @@ Die Beschwerde muss **schriftlich** und **begründet** eingereicht werden. Der K
 
 ## Praxisfragen
 
-* **Praxisfrage: Frist zur Kostenbeschwerde bei gemischten Entscheiden**
-  Ergeht der Kosten- oder Entschädigungsentscheid zusammen mit dem Endentscheid in einem ordentlichen Verfahren (Hauptentscheid), so beträgt die Frist zur Anfechtung des Kostenspruchs (Kostenbeschwerde) 30 Tage. Wird der Kostenentscheid oder der Entscheid über die unentgeltliche Rechtspflege jedoch separat gefällt, handelt es sich um eine prozessleitende Verfügung im summarischen Verfahren, und die Beschwerdefrist beträgt zwingend 10 Tage (vgl. Obergericht Uri [2014_OG Z 13 8 vom 24. Januar 2014](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_2014_OG_Z_13_8) und Kantonsgericht St. Gallen [BE.2012.42 vom 27. September 2012](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BE.2012.42)).
+* **Praxisfrage: Frist zur Kostenbeschwerde bei gemischten Entscheiden**.
 
-* **Praxisfrage: Bezifferungspflicht der Kostenbeschwerde**
-  Bei der selbständigen Kostenbeschwerde gilt eine strenge Rüge- und Begründungspflicht. Der Beschwerdeführer muss das Begehren beziffern und den abweichenden Verteilschlüssel oder den geforderten Betrag im Rechtsbegehren konkret benennen; ein blosser Antrag auf "angemessene Reduktion" genügt den gesetzlichen Anforderungen an die Begründungspflicht nicht (vgl. Kantonsgericht St. Gallen [BE.2013.4-6 vom 17. September 2013](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_BE.2013.4-6)).
+* **Praxisfrage: Bezifferungspflicht der Kostenbeschwerde**.
 
 * **Praxisfrage: Fristwahrung bei Einreichung bei unzuständiger Behörde**
-  Die Einreichung einer Beschwerde bei einer sachlich oder funktionell unzuständigen Behörde wahrt die Rechtsmittelfrist, wenn die Eingabe vor Ablauf der Frist dort eintrifft. Das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet der unzuständigen Behörde die Weiterleitung an die zuständige Rechtsmittelinstanz ([BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636)).
+  Die Einreichung einer Beschwerde bei einer sachlich oder funktionell unzuständigen Behörde wahrt die Rechtsmittelfrist, wenn die Eingabe vor Ablauf der Frist dort eintrifft. Die ZPO regelt die Fristwahrung bei Eingaben an eine unzuständige Behörde nicht ([BGE 140 III 636, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636#e-3-2)); das Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) gebietet der unzuständigen Behörde die Weiterleitung an die zuständige Rechtsmittelinstanz ([BGE 140 III 636](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_636)).
 
 *Letzte Aktualisierung: 2026-07-19*
