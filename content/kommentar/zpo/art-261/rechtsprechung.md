@@ -10,59 +10,59 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 35 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; zu den Voraussetzungen von Art. 261 Abs. 1 ZPO selbst liess sich keine einschlägige bundesgerichtliche Erwägung finden"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 3 von 27 Paaren gestützt; 11 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 261 ZPO
 
-## I. Leitentscheide
+Jeder Eintrag nennt die Erwägung oder den Regeste-Satz, der die wiedergegebene Aussage
+trägt.
 
-### BGE 138 III 378 — Begriff und Anforderungen an die Glaubhaftmachung
+## I. Sachliche Zuständigkeit
 
-[BGE 138 III 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_378) E. 6 — Grundsatzentscheid zum Beweismass der **Glaubhaftmachung** im Massnahmeverfahren.
-*   Glaubhaftmachen bedeutet, dass das Gericht nicht von der vollen Wahrheit einer Tatsache überzeugt sein muss, sondern dass die behaupteten Tatsachen aufgrund objektiver Anhaltspunkte als **überwiegend wahrscheinlich** erscheinen müssen.
-*   Es reicht weder eine blosse Behauptung noch ein reiner Verdacht aus; die Behauptungen müssen durch präsente Beweismittel (in der Regel Urkunden) so gestützt werden, dass eine erhebliche Wahrscheinlichkeit für ihre Richtigkeit spricht.
-*   Die Gegenpartei kann die Massnahme abwenden, indem sie die Sachlage ihrerseits erschüttert, d.h. Zweifel an den Behauptungen des Gesuchstellers weckt, die die Wahrscheinlichkeit unter die massgebende Schwelle sinken lassen.
+### [BGE 137 III 563](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_563) (9.12.2011)
 
-### BGE 140 III 315 — Provisorischer Charakter vs. definitive Streiterledigung
+**Kernaussage**: Die Handelsgerichte sind zuständig, die vorläufige Eintragung eines Bauhandwerkerpfandrechts anzuordnen, sofern die Hauptsache — das Verfahren auf definitive Eintragung — handelsrechtlich ist.
 
-[BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (2014) — Das Bundesgericht klärte die funktionelle Abgrenzung zwischen vorsorglichen Massnahmen (Art. 261 ZPO) und definitiven Sachentscheiden.
-*   Vorsorgliche Massnahmen dienen dem Erhalt des *Status quo* oder der vorläufigen Sicherung eines Anspruchs während des Hauptverfahrens. Sie sind wesensgemäss **provisorisch** und entfalten keine materielle Rechtskraft für die Hauptsache.
-*   Sie dürfen die Entscheidung in der Hauptsache grundsätzlich nicht endgültig vorwegnehmen, es sei denn, eine vorläufige Erfüllung ist zur Abwendung eines irreversiblen Schadens absolut unumgänglich (sog. Leistungs- oder Befriedigungsmassnahmen).
+Die Zuständigkeit für die vorsorgliche Massnahme folgt der Hauptsache. Ist diese nicht handelsrechtlich, ist auch das Handelsgericht für die Massnahme nicht zuständig.
 
-### BGE 141 III 376 — Materielle Rechtskraft und Abänderbarkeit vorsorglicher Massnahmen
+## II. Aufschiebende Wirkung im Rechtsmittelverfahren
 
-[BGE 141 III 376](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_376) — Entscheide über vorsorgliche Massnahmen erwachsen in eine beschränkte materielle Rechtskraft. Sie können im laufenden Verfahren auf Antrag hin gemäss Art. 268 ZPO abgeändert oder aufgehoben werden, wenn sich die Verhältnisse nachträglich wesentlich und dauerhaft verändert haben oder sich die Anordnung nachträglich als unrechtmässig erweist.
+### [BGE 138 III 378](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_378) (30.3.2012)
 
-### BGE 137 III 324 (Nestlé v. Denner) — Nicht wieder gutzumachender Nachteil vor Bundesgericht
+**Kernaussage**: Stellt der Entscheid über vorsorgliche Massnahmen, für den der Vollstreckungsaufschub während des Berufungsverfahrens verlangt wird, eine Leistungsmassnahme dar, die endgültige Wirkung haben kann, so darf der Aufschub nur verweigert werden, wenn die Berufung offensichtlich unbegründet oder unzulässig erscheint.
 
-[BGE 137 III 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_324) — Wird ein kantonaler Massnahmeentscheid vor Bundesgericht angefochten, handelt es sich prozessual um einen Zwischenentscheid. Die Beschwerde in Zivilsachen ist gemäss Art. 93 Abs. 1 lit. a BGG nur zulässig, wenn der betroffenen Partei ein nicht wieder gutzumachender Nachteil droht. Der Beschwerdeführer muss diesen Nachteil in seiner Begründung detailliert und substanziiert dartun.
+Praktisch bedeutsam für die Berufung gegen Massnahmeentscheide: Bei Leistungsmassnahmen mit möglicher endgültiger Wirkung ist die Schwelle für die Verweigerung der aufschiebenden Wirkung **hoch** — «offensichtlich unbegründet oder unzulässig», nicht schon «aussichtslos».
 
-### BGE 139 III 86 — Qualifikation als anfechtbarer Zwischenentscheid
+## Audit-Protokoll
 
-[BGE 139 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_86) — Ein Entscheid über eine vorsorgliche Massnahme gilt als Zwischenentscheid im Sinne des BGG, sofern er im Hinblick auf ein einzuleitendes oder bereits hängiges Hauptverfahren ergeht. Die Rechtsmittelabwicklung richtet sich nach den strengeren Regeln für Zwischenentscheide, wodurch die direkte Anfechtbarkeit vor Bundesgericht stark eingeschränkt ist.
+Beim Audit vom 13.08.2026 lag die Belegquote bei 35 % (Urteil C); fünf Paare waren
+ungestützt, dreizehn nur teilweise gestützt, eines wurde mit `contradicts` beurteilt.
 
-## II. Weitere Entscheide
+Nicht übernommen wurden BGE 137 III 324, BGE 137 III 380, BGE 137 III 475,
+BGE 138 III 337, BGE 139 III 86, BGE 140 III 315, BGE 141 III 376 und BGE 151 III 227.
+Die Entscheide existieren; die ihnen zugeschriebenen Aussagen liessen sich in keiner
+Erwägung nachweisen. Der kantonale Entscheid (Obergericht Thurgau RBOG 2023 Nr. 27) ist
+nicht mehr als Beleg geführt, weil für kantonale Entscheide keine Erwägungen erschlossen
+sind.
 
-### BGE 139 III 486 — Formelle Rechtskraft und aufschiebende Wirkung bei Berufung
+Zwei Zuschreibungen waren inhaltlich verfehlt: BGE 138 III 378 wurde für das **Beweismass
+der Glaubhaftmachung** angeführt; der Entscheid betrifft die aufschiebende Wirkung nach
+Art. 315 Abs. 5 ZPO. Und BGE 151 III 227 wurde für die Voraussetzungen von Art. 261
+Abs. 1 ZPO zitiert; er behandelt superprovisorische Massnahmen und den nicht wieder
+gutzumachenden Nachteil nach Art. 93 BGG.
 
-[BGE 139 III 486](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_486) — Die Berufung gegen einen vorsorglichen Massnahmeentscheid hemmt die formelle Rechtskraft des Entscheids (Rechtskraftaufschub). Die Vollstreckbarkeit hingegen wird gemäss Art. 315 Abs. 4 ZPO nicht automatisch aufgeschoben; der Massnahmeentscheid ist sofort vollstreckbar, ausser die Berufungsinstanz gewährt auf Gesuch hin die aufschiebende Wirkung (Art. 315 Abs. 5 ZPO).
+**Eine Lücke, die bestehen bleibt.** Zu den Voraussetzungen von Art. 261 Abs. 1 ZPO
+selbst — Verfügungsanspruch, Verfügungsgrund, nicht leicht wiedergutzumachender Nachteil
+— liess sich keine einschlägige bundesgerichtliche Erwägung finden; die Suche lieferte
+Entscheide aus den 1960er-Jahren zu kantonalem Recht. Die Voraussetzungen sind im
+Kommentartext aus dem Normwortlaut entwickelt und dort nicht mit Rechtsprechung belegt.
 
-### BGE 151 III 227 — Superprovisorische Massnahme und vorgängige Schutzschrift
-
-[BGE 151 III 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_227) — Reicht eine Partei vorsorglich eine Schutzschrift (Art. 270 ZPO) ein, um sich gegen ein erwartetes superprovisorisches Gesuch der Gegenseite zu wehren, muss das Gericht diese Schutzschrift beim Entscheid über das Superprovisorium berücksichtigen. Die Schutzschrift ersetzt die Anhörung der Gegenpartei im superprovisorischen Verfahren.
-
-### BGE 137 III 563 — Zuständigkeit der Handelsgerichte für Bauhandwerkerpfandrechte
-
-[BGE 137 III 563](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_563) — Ist das Handelsgericht (Art. 6 ZPO) für die Hauptklage (z. B. definitive Eintragung eines Bauhandwerkerpfandrechts oder Werklohnforderung) sachlich zuständig, so ist es auch für das vorsorgliche Massnahmeverfahren auf vorläufige Eintragung des Pfandrechts gemäss Art. 261 ZPO zuständig.
-
-### BGE 138 III 337 — Nicht leicht wiedergutzumachender Nachteil bei Markenverletzungen
-
-[BGE 138 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_337) — Das Bundesgericht konkretisierte den Begriff des nicht leicht wiedergutzumachenden Nachteils (Art. 261 Abs. 1 lit. b ZPO) im Bereich des Immaterialgüterrechts. Bei drohenden oder fortgesetzten Markenverletzungen liegt ein solcher Nachteil in der Regel vor (z. B. Verwässerung der Marke, Marktverwirrung oder Verlust von Marktanteilen), da sich dieser Schaden im Nachhinein kaum präzise finanziell bemessen und durch Schadenersatz ausgleichen lässt.
-
-### Obergericht TG RBOG 2023 Nr. 27 vom 7. August 2023 — Pflicht zur Anhörung nach Abweisung des Superprovisoriums
-
-[Obergericht TG RBOG 2023 Nr. 27 vom 7. August 2023](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2023_Nr._27) — Weist das Gericht ein superprovisorisches Begehren (ohne Anhörung der Gegenpartei) ab, weil es an der Dringlichkeit fehlt, so bleibt das ordentliche vorsorgliche Massnahmeverfahren dennoch hängig. Das Gericht ist verpflichtet, der Gegenpartei unverzüglich Frist zur Stellungnahme zum ordentlichen Massnahmegesuch anzusetzen. Unterlässt das Gericht dies über längere Zeit, liegt eine formelle Rechtsverzögerung vor.
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`, `search_decisions`).
