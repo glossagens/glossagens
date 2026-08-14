@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert; die Wiedergabe von Art. 98 Abs. 1 ZPO entsprach der vor dem 1.1.2025 geltenden Fassung (voller statt halber Vorschuss) und wurde richtiggestellt; kantonale Entscheide entlinkt, weil für sie keine Erwägungen erschlossen sind"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 37 % (Urteil C); 5 von 31 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -42,7 +47,7 @@ Das Gericht verfügt über einen Ermessenspielraum hinsichtlich der Fristdauer. 
 
 ### Verhältnis zur Verfahrensleitung
 
-Nach [BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) ist das Gericht nicht gehalten, mit der Zustellung der Klage an die Gegenpartei und der Ansetzung einer Frist zur Klageantwort zuzuwarten, bis der Kostenvorschuss bezahlt ist. Allerdings kann es dies aus Gründen der Verfahrensökonomie (Vermeidung unnötiger Kosten) tun.
+Eine bundesrechtliche Verpflichtung des Gerichts, mit der Zustellung der Klage und der Ansetzung der Frist zur Klageantwort zuzuwarten, bis der Kostenvorschuss geleistet ist, lässt sich nicht aus einer Pflicht herleiten, dem Kläger unnötige Kosten zu ersparen ([BGE 140 III 159, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-4-2-1)). Allerdings kann es dies aus Gründen der Verfahrensökonomie (Vermeidung unnötiger Kosten) tun.
 
 ## Abs. 2 — Vorsorgliche Massnahmen vor Sicherheitsleistung
 
@@ -52,11 +57,11 @@ Art. 101 Abs. 2 ZPO erlaubt dem Gericht, vorsorgliche Massnahmen schon vor Leist
 
 ### Die Nachfrist als zwingendes Verfahrenserfordernis
 
-Das Kernstück von Art. 101 ZPO ist Abs. 3: Wird der Vorschuss innert der ersten Frist nicht geleistet, **hat das Gericht zwingend eine Nachfrist anzusetzen**. Es steht ihm hierbei kein Ermessen zu.
-
-[BGer 5A_242/2025 vom 28. Januar 2026, E. 3.1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-1-1) stellt dazu fest:
+Wird der Vorschuss innert der ersten Frist nicht geleistet, hat das Gericht nach Art. 101 Abs. 3 ZPO zwingend eine Nachfrist anzusetzen. Es steht ihm hierbei kein Ermessen zu.
 
 > «Wird der Vorschuss innert dieser Frist nicht geleistet, hat das Gericht zwingend eine Nachfrist anzusetzen.»
+>
+> — [BGer 5A_242/2025 vom 28. Januar 2026, E. 3.1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-1-1)
 
 Die zwingende Nachfriststellung ist kein allgemeiner Rechtsgrundsatz, sondern eine spezifische Regelung der ZPO (vgl. [BGer 5A_242/2025 vom 28. Januar 2026, E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-4-2): «die Vorschrift gemäss Art. 101 Abs. 3 ZPO (und Art. 62 Abs. 3 BGG), wonach bei Nichteinhalten der angesetzten Frist zur Leistung des Kostenvorschusses zunächst eine Nachfrist anzusetzen ist, stellt keinen allgemeinen Rechtsgrundsatz dar»).
 
@@ -66,35 +71,35 @@ Mit der Ansetzung der Nachfrist hat das Gericht die vorschusspflichtige Partei �
 
 ### Nichteintreten bei fruchtlosem Ablauf
 
-Wird der Vorschuss auch innert der Nachfrist nicht (vollständig) geleistet, tritt das Gericht auf die Klage oder das Gesuch nicht ein (Art. 101 Abs. 3 ZPO). Die Leistung des Kostenvorschusses ist eine Prozessvoraussetzung (Art. 59 Abs. 2 lit. f ZPO), deren Vorliegen von Amtes wegen zu prüfen ist (Art. 60 ZPO; [BGE 148 III 21, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_21#e-3-2)).
+Wird der Vorschuss auch innert der Nachfrist nicht (vollständig) geleistet, tritt das Gericht auf die Klage oder das Gesuch nicht ein (Art. 101 Abs. 3 ZPO). Die fristgerechte Bezahlung des Vorschusses ist eine Prozessvoraussetzung (Art. 59 Abs. 2 lit. f ZPO); wird der Vorschuss nicht geleistet, darf das Gericht nicht sofort einen Nichteintretensentscheid fällen, sondern muss zunächst eine Nachfrist ansetzen ([BGer 4A_26/2021 vom 12. Februar 2021, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_26_2021#e-4-2)).
 
 ### Keine Erstreckung der Nachfrist
 
-Die Nachfrist selbst ist nicht erstreckbar. Dies ergibt sich aus dem klaren Gesetzeswortlaut («auch nicht innert einer Nachfrist») und wird durch die Praxis bestätigt (vgl. Verfügung im Fall [BGer 5A_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025): «nicht erstreckbare Nachfrist von 5 Tagen»).
+Wird der Vorschuss nicht geleistet, darf das Gericht nicht sofort einen Nichteintretensentscheid fällen, sondern muss zunächst eine Nachfrist ansetzen ([BGer 4A_26/2021 vom 12. Februar 2021, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_4A_26_2021#e-4-2)). In der Praxis wird die Nachfrist als nicht erstreckbar angesetzt.
 
 ### Teilweise Leistung des Vorschusses
 
-Ein nur teilweise geleisteter Kostenvorschuss genügt nicht. Nach der Rechtsprechung ist auch das Nichteintreten auf einen nur teilweise geleisteten Vorschuss nicht überspitzt formalistisch ([BGer 5A_242/2025 vom 28. Januar 2026, E. 3.1.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-1-3); vgl. auch [BGer 1C_466/2022 vom 31. Oktober 2022, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_1C_466_2022) und [BGer 2C_107/2019 vom 27. Mai 2019, E. 6.3](https://mcp.opencaselaw.ch/entscheid/bger_2C_107_2019)).
+Ein nur teilweise geleisteter Kostenvorschuss genügt nicht. Allein die strikte Anwendung der Formvorschriften stellt keinen überspitzten Formalismus dar; nach ständiger Rechtsprechung gilt das auch für das Nichteintreten mangels rechtzeitiger Leistung des Kostenvorschusses, sofern die Partei über Höhe, Zahlungsfrist und Säumnisfolgen rechtsgenüglich informiert wurde ([BGer 5A_242/2025 vom 28. Januar 2026, E. 3.1.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-1-3);.
 
 ### Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV)
 
-[BGer 5A_242/2025 vom 28. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025) bestätigt, dass das Nichteintreten auf eine Klage mangels rechtzeitiger Leistung des Kostenvorschusses keinen überspitzten Formalismus darstellt, wenn die Partei über Höhe, Zahlungsfrist und Säumnisfolgen rechtsgenüglich informiert wurde (E. 3.1.3). Dies gilt auch bei nur knapp verfehlten Fristen oder geringfügigen Defiziten bei der Vorschussleistung.
+Das Bundesgericht bestätigt, dass das Nichteintreten auf eine Klage mangels rechtzeitiger Leistung des Kostenvorschusses keinen überspitzten Formalismus darstellt, wenn die Partei über Höhe, Zahlungsfrist und Säumnisfolgen rechtsgenüglich informiert wurde (E. 3.1.3). Dies gilt auch bei nur knapp verfehlten Fristen oder geringfügigen Defiziten bei der Vorschussleistung.
 
-Gerade weil die ZPO mit der zwingenden Nachfrist bereits einen Mechanismus zur Vermeidung überspitzt formalistischer Entscheide vorsieht, ist eine weitere Lockerung nicht geboten (vgl. [BGer 5A_242/2025, E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-4-2): «Mit der zwingenden Nachfristansetzung geht die ZPO bereits über den verfassungsrechtlichen Standard hinaus und ist gerade dazu da, Härten wie die vorliegenden zu verhindern»).
+Gerade weil die ZPO mit der zwingenden Nachfrist bereits einen Mechanismus zur Vermeidung überspitzt formalistischer Entscheide vorsieht, geht sie über den verfassungsrechtlichen Mindeststandard hinaus (vgl. [BGer 5A_242/2025, E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_242_2025#e-3-4-2): «Mit der zwingenden Nachfristansetzung geht die ZPO bereits über den verfassungsrechtlichen Standard hinaus und ist gerade dazu da, Härten wie die vorliegenden zu verhindern»).
 
 ## Verhältnis zu weiteren Normen
 
 ### Art. 98 ZPO — Kostenvorschuss
 
-Art. 98 ZPO regelt, unter welchen Voraussetzungen das Gericht einen Kostenvorschuss verlangen kann. Das Gericht kann von der klagenden Partei einen Vorschuss bis zur Höhe der mutmasslichen Gerichtskosten verlangen (Art. 98 Abs. 1 ZPO) oder bis zur gesamten mutmasslichen Gerichtskosten in bestimmten Verfahren (Art. 98 Abs. 2 ZPO). Es kann jedoch auch von vornherein auf die Einforderung eines Vorschusses verzichten (Art. 98 ZPO; vgl. auch [BGer 5A_979/2025 vom 11. Dezember 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_979_2025), wonach ein Gericht von vornherein darauf verzichten kann, einen Kostenvorschuss einzufordern).
+Art. 98 ZPO regelt, unter welchen Voraussetzungen das Gericht einen Kostenvorschuss verlangen kann. Seit der Revision per 1. Januar 2025 kann das Gericht von der klagenden Partei einen Vorschuss von **höchstens der Hälfte** der mutmasslichen Gerichtskosten verlangen (Art. 98 Abs. 1 ZPO); der volle Vorschuss ist nur noch in den Fällen von Art. 98 Abs. 2 ZPO zulässig (Schlichtungs-, summarisches und Rechtsmittelverfahren sowie Verfahren nach Art. 6 Abs. 4 lit. c und Art. 8 ZPO). Es kann jedoch auch von vornherein auf die Einforderung eines Vorschusses verzichten (Art. 98 ZPO).
 
 ### Art. 59 Abs. 2 lit. f und Art. 60 ZPO — Prozessvoraussetzung
 
-Die Leistung des Vorschusses ist eine Prozessvoraussetzung (Art. 59 Abs. 2 lit. f ZPO). Ihr Vorliegen ist von Amtes wegen zu prüfen (Art. 60 ZPO; [BGE 148 III 21, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_21#e-3-2)).
+Die Leistung des Vorschusses ist eine Prozessvoraussetzung (Art. 59 Abs. 2 lit. f ZPO). Ihr Vorliegen ist von Amtes wegen zu prüfen (Art. 60 ZPO).
 
 ### Art. 147 Abs. 3 ZPO — Säumnisfolgenhinweis
 
-Mit der Ansetzung der Nachfrist hat das Gericht die vorschusspflichtige Partei über die Säumnisfolgen zu informieren (Art. 147 Abs. 3 ZPO). Säumnisfolgen sind erst dann anzudrohen, wenn sie auch wirklich drohen. Da einer ersten Fristansetzung gemäss Art. 101 Abs. 1 ZPO zwingend eine Nachfristansetzung nach Abs. 3 folgt, sind mit der ersten Frist noch keine Säumnisfolgen anzudrohen (so die Praxis des Obergerichts des Kantons Zürich, vgl. [LF110021, E. 2](https://mcp.opencaselaw.ch/entscheid/zh_gerichte_LF110021)).
+Mit der Ansetzung der Nachfrist hat das Gericht die vorschusspflichtige Partei über die Säumnisfolgen zu informieren (Art. 147 Abs. 3 ZPO). Säumnisfolgen sind erst dann anzudrohen, wenn sie auch wirklich drohen. Da einer ersten Fristansetzung gemäss Art. 101 Abs. 1 ZPO zwingend eine Nachfristansetzung nach Abs. 3 folgt, sind mit der ersten Frist noch keine Säumnisfolgen anzudrohen (so die Praxis des Obergerichts des Kantons Zürich, vgl. LF110021, E. 2).
 
 ### Art. 64 BGG — Unentgeltliche Rechtspflege (Verbältnis)
 
