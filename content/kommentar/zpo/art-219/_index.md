@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 25 % → 100 %, Urteil A); Fallgruppen-Tabelle auf belegte Entscheide mit Erwägung umgestellt; BGE 146 III 237 und BGE 141 III 376 trugen die ihnen zugeschriebenen Ergebnisse nicht"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 25 % (Urteil C); 3 von 36 Paaren gestützt; 21 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -84,12 +89,11 @@ Das **rechtliche Gehör** (Art. 29 Abs. 2 BV, Art. 6 EMRK) gilt in allen Verfahr
 
 ### VII. Kasuistik
 
-| Fallgruppe | Relevante Rspr. | Ergebnis |
+| Fallgruppe | Belegter Entscheid | Ergebnis |
 |---|---|---|
-| Aktenschluss/Noven | BGE 146 III 237 | Ordentliches Verfahren sinngemäss, aber mit Einschränkungen |
-| Säumnis im Rechtsöffnungsverfahren | BGE 138 III 483 | Keine Nachfrist nach Art. 223 ZPO sinngemäss |
-| Abänderung vorsorglicher Massnahmen | BGE 141 III 376 | Ordentliche Regelung sinngemäss, aber Offizialmaxime |
-| EMRK im Rechtsöffnungsverfahren | BGE 141 I 97 | Art. 6 EMRK gilt sinngemäss |
+| Säumnis im Rechtsöffnungsverfahren | BGE 138 III 483, E. 3.3 | Keine Nachfrist nach Art. 223 ZPO |
+| Aktenschluss im summarischen Verfahren | BGE 144 III 117, E. 2.2 | Aktenschluss nach einmaliger Äusserung |
+| Hauptverhandlung im vereinfachten Verfahren | BGE 140 III 450, E. 3.2 | Anspruch besteht; Verzicht möglich |
 
 ### VIII. Verhältnis zu anderen Normen
 
