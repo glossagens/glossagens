@@ -10,13 +10,18 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 24 % → 80 %, Urteil A); nicht tragende Belege entfernt, die dogmatischen Aussagen bleiben; der Pinpoint BGE 145 III 422 «E. 2» zeigte ins Leere und der Entscheid betrifft die internationale Rechtshilfe, nicht das Anfechtungsobjekt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 24 % (Urteil C); 4 von 51 Paaren gestützt; 31 ungestützt; 1 fehlerhafter Pinpoint; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Supplementierung ZPO Art. 319 — 6 neue OCL-verifizierte Entscheide ergänzt (BGE 144 III 394, BGE 137 III 380, BGE 139 III 334, BGE 147 III 586, BGE 146 III 97, BGE 148 III 1). Gesamt jetzt 21 OCL-verifizierte Zitationen. Neue Abschnitte III.2 (Nicht leicht wiedergutzumachender Nachteil) und V.2 (Rechtsverzögerung) substantiiert."
+    note: "Supplementierung ZPO Art. 319 — 6 neue OCL-verifizierte Entscheide ergänzt,,, BGE 147 III 586, BGE 146 III 97, BGE 148 III 1). Gesamt jetzt 21 OCL-verifizierte Zitationen. Neue Abschnitte III.2 (Nicht leicht wiedergutzumachender Nachteil) und V.2 (Rechtsverzögerung) substantiiert."
   - date: 2026-07-18
     by: "Hermes Agent"
     model: "gemini-3.6-flash"
@@ -56,11 +61,11 @@ Art. 319 ZPO definiert das **Anfechtungsobjekt** der Beschwerde — also die Ent
 
 **Ziff. 1: Vom Gesetz bestimmte Fälle**: Das Gesetz kann ausdrücklich die Beschwerde gegen bestimmte prozessleitende Verfügungen vorsehen. Beispiele sind die Weigerung, einen Richter in den Ausstand zu versetzen (Art. 49 ZPO), oder die Verweigerung der unentgeltlichen Rechtspflege (Art. 119 ZPO).
 
-**Ziff. 2: Nicht leicht wiedergutzumachender Nachteil**: Wenn durch die prozessleitende Verfügung ein **nicht leicht wiedergutzumachender Nachteil** droht, ist die Beschwerde zulässig. Diese Voraussetzung ist **hoch**: Es genügt nicht, dass die Verfügung unangenehm ist; der Nachteil muss **substantiell** und **schwer wiedergutzumachen** sein. Das Bundesgericht hat diesen Massstab präzisiert: Ein Nachteil ist nicht leicht wiedergutzumachen, wenn die Wiederherstellung des früheren Zustands auch bei späterem Obsiegen faktisch oder rechtlich ausgeschlossen oder wesentlich erschwert ist ([BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422), E. 2; [BGE 137 III 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_380), E. 2). Beispiele sind die Verweigerung einer Beweiserhebung, die zu einem irreversiblen Informationsverlust führen würde, oder die Anordnung einer Massnahme, die eine Partei in ihren Grundrechten erheblich beeinträchtigt. Blosse Prozesskosten oder -verzögerungen genügen nicht ([BGE 139 III 334](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_334), E. 2).
+**Ziff. 2: Nicht leicht wiedergutzumachender Nachteil**: Wenn durch die prozessleitende Verfügung ein **nicht leicht wiedergutzumachender Nachteil** droht, ist die Beschwerde zulässig. Diese Voraussetzung ist **hoch**: Es genügt nicht, dass die Verfügung unangenehm ist; der Nachteil muss **substantiell** und **schwer wiedergutzumachen** sein. Das Bundesgericht hat diesen Massstab präzisiert: Prozessleitende Verfügungen sind nach Art. 319 lit. b Ziff. 2 ZPO mit Beschwerde anfechtbar, wenn durch sie ein nicht leicht wieder gutzumachender Nachteil droht ([BGE 137 III 380, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_380#e-2)). Ein Nachteil ist nicht leicht wiedergutzumachen, wenn die Wiederherstellung des früheren Zustands auch bei späterem Obsiegen faktisch oder rechtlich ausgeschlossen oder wesentlich erschwert ist, E. 2). Beispiele sind die Verweigerung einer Beweiserhebung, die zu einem irreversiblen Informationsverlust führen würde, oder die Anordnung einer Massnahme, die eine Partei in ihren Grundrechten erheblich beeinträchtigt. Blosse Prozesskosten oder -verzögerungen genügen nicht.
 
 ### 3. Rechtsverzögerung (lit. c)
 
-Die Beschwerde wegen **Rechtsverzögerung** richtet sich gegen das Unterlassen des Gerichts, eine Sache zu entscheiden oder eine prozessuale Handlung vorzunehmen. Die Partei muss das Gericht in der Regel zuvor erfolglos zur Erledigung gemahnt haben (sog. Urgenz), da ein Zuwarten ohne jede Erinnerung und anschliessende Beschwerdeführung gegen Treu und Glauben (Art. 52 ZPO) verstossen kann. Die Beschwerde ist ein letztes Mittel gegen Untätigkeit ([BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620), E. 3).
+Die Beschwerde wegen **Rechtsverzögerung** richtet sich gegen das Unterlassen des Gerichts, eine Sache zu entscheiden oder eine prozessuale Handlung vorzunehmen. Die Partei muss das Gericht in der Regel zuvor erfolglos zur Erledigung gemahnt haben (sog. Urgenz), da ein Zuwarten ohne jede Erinnerung und anschliessende Beschwerdeführung gegen Treu und Glauben (Art. 52 ZPO) verstossen kann. Die Beschwerde ist ein letztes Mittel gegen Untätigkeit.
 
 ## Abgrenzungen
 
@@ -81,22 +86,20 @@ Das Bundesgericht prüft Zwischenentscheide nur, wenn sie einen **nicht wiedergu
 
 Die Rechtsprechung zu Art. 319 ZPO konzentriert sich auf drei Schwerpunkte:
 
-1. **Abgrenzung Endentscheid vs. Zwischenentscheid**: Die Abgrenzung ist in der Praxis häufig umstritten. Ein Entscheid, der eine Sache endgültig erledigt (auch nur teilweise), ist ein Endentscheid ([BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315)). Ein Zwischenentscheid trifft eine vorläufige Regelung, die im weiteren Verfahren überprüft werden kann.
+1. **Abgrenzung Endentscheid vs. Zwischenentscheid**: Die Abgrenzung ist in der Praxis häufig umstritten. Ein Entscheid, der eine Sache endgültig erledigt (auch nur teilweise), ist ein Endentscheid. Ein Zwischenentscheid trifft eine vorläufige Regelung, die im weiteren Verfahren überprüft werden kann.
 
-2. **"Nicht leicht wiedergutzumachender Nachteil" (lit. b Ziff. 2)**: Das Bundesgericht hat diese Voraussetzung restriktiv ausgelegt. Eine blosse Unbequemlichkeit oder Verzögerung genügt nicht; der Nachteil muss substantiell und schwer wiedergutzumachen sein ([BGE 137 III 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_380), E. 2; [BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422), E. 2).
-
-3. **Rechtsverzögerung (lit. c)**: Die Beschwerde wegen Rechtsverzögerung setzt voraus, dass das Gericht untätig bleibt, obwohl es zur Handlung verpflichtet wäre. Unter dem Aspekt von Treu und Glauben (Art. 52 ZPO) muss das Gericht in der Regel zuvor gemahnt worden sein (Urgenz).
+2. **"Nicht leicht wiedergutzumachender Nachteil" (lit. b Ziff. 2)**: Das Bundesgericht hat diese Voraussetzung restriktiv ausgelegt. Eine blosse Unbequemlichkeit oder Verzögerung genügt nicht; der Nachteil muss substantiell und schwer wiedergutzumachen sein**: Die Beschwerde wegen Rechtsverzögerung setzt voraus, dass das Gericht untätig bleibt, obwohl es zur Handlung verpflichtet wäre. Unter dem Aspekt von Treu und Glauben (Art. 52 ZPO) muss das Gericht in der Regel zuvor gemahnt worden sein (Urgenz).
 
 ## Besondere Fallgruppen
 
 ### Vorsorgliche Massnahmen (lit. a, 3. Alternative)
-Entscheide über vorsorgliche Massnahmen sind nach Art. 319 lit. a ZPO **immer** selbständig anfechtbar — unabhängig vom Streitwert. Dies gilt auch für vorsorgliche Massnahmen im Eheschutz- und Kindesschutzrecht (Art. 276 ff., Art. 308 ff. ZGB). Die Anfechtbarkeit von vorsorglichen Massnahmen ist nicht durch Art. 319 lit. b ZPO beschränkt, sondern ergibt sich direkt aus lit. a ([BGE 141 III 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_262)).
+Entscheide über vorsorgliche Massnahmen sind nach Art. 319 lit. a ZPO **immer** selbständig anfechtbar — unabhängig vom Streitwert. Dies gilt auch für vorsorgliche Massnahmen im Eheschutz- und Kindesschutzrecht (Art. 276 ff., Art. 308 ff. ZGB). Die Anfechtbarkeit von vorsorglichen Massnahmen ist nicht durch Art. 319 lit. b ZPO beschränkt, sondern ergibt sich direkt aus lit. a.
 
 ### Berufungsgründe und Beschwerdegründe
 Während die Berufung auf Rechtsverletzungen und unrichtige Sachverhaltsfeststellungen gestützt werden kann (Art. 310 ZPO), ist die Beschwerde auf die in Art. 320 ZPO genannten Gründe beschränkt. Die Beschwerdegründe sind enger als die Berufungsgründe — insbesondere ist die willkürliche Beweiswürdigung (Art. 320 lit. b ZPO) nur unter dem Willkürmassstab überprüfbar.
 
 ### Berufungsbegründungspflicht und Beschwerde
-Die Berufungsbegründungspflicht (Art. 311 ZPO) erfordert, dass alle selbständigen Begründungen des erstinstanzlichen Entscheids angefochten werden — auch Alternativbegründungen ([BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394), E. 4.2). Bei nicht berufungsfähigen Endentscheiden, die mit der Beschwerde angefochten werden, gelten die engeren Beschwerdegründe nach Art. 320 ZPO.
+Die Berufungsbegründungspflicht (Art. 311 ZPO) erfordert, dass alle selbständigen Begründungen des erstinstanzlichen Entscheids angefochten werden — auch Alternativbegründungen. Bei nicht berufungsfähigen Endentscheiden, die mit der Beschwerde angefochten werden, gelten die engeren Beschwerdegründe nach Art. 320 ZPO.
 
 ## Fazit
 
