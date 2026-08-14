@@ -10,78 +10,65 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 7 %, Urteil C, 0 von 15 Paaren gestützt — der schlechteste Wert im ZPO-Bestand): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 7 % (Urteil C); 0 von 15 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 320 ZPO
 
-Art. 320 ZPO umschreibt die Beschwerdegründe: Die Beschwerde kann gerichtet werden gegen Endentscheide und teilweise anfechtbare Zwischenentscheide, soweit diese der sofortigen Erledigung bedürfen. Die Rechtsprechung konkretisiert insbesondere den Begriff der *unrichtigen Rechtsanwendung* und der *offensichtlich unrichtigen Sachverhaltsfeststellung* (Willkürstandard).
+Jeder Eintrag nennt die Erwägung oder den Regeste-Satz, der die wiedergegebene Aussage
+trägt.
 
-## I. Leitentscheide
+## I. Prüfungsbefugnis der Beschwerdeinstanz (lit. a)
 
-### [BGE 142 III 116](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_116) (21.12.2015) — "Offensichtlich unrichtig" und Willkürstandard
+### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020)
 
-Der Bundesgerichtspraxis zufolge ist eine Sachverhaltsfeststellung *offensichtlich unrichtig* im Sinne von Art. 320 ZPO, wenn sie willkürlich ist. Der Massstab entspricht dem Willkürstandard nach Art. 9 BVG bzw. Art. 105 Abs. 2 BGG. Eine bloss eingeschränkte Überprüfungsbefugnis der Sachverhaltsfeststellung gilt auch im kantonalen Beschwerdeverfahren.
+**Kernaussage**: Bestreitet die betriebene Partei im Verfahren der provisorischen Rechtsöffnung vor der kantonalen Beschwerdeinstanz ausschliesslich die Vollständigkeit des Rechtsöffnungstitels, so darf die Beschwerdeinstanz grundsätzlich nicht von sich aus prüfen, ob die vorgelegten Urkunden von ihrem Inhalt her als Schuldanerkennung nach Art. 82 Abs. 1 SchKG taugen (Art. 320 lit. a i.V.m. Art. 57 ZPO).
 
-### [BGE 145 III 422](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_422) (2.7.2019) — Beschwerde gegen prozessleitende Verfügungen
+Der einzige Leitentscheid, der Art. 320 lit. a ausdrücklich auslegt. Er zeigt die praktische Grenze: Die Rechtsanwendung von Amtes wegen nach Art. 57 ZPO wird im Beschwerdeverfahren durch die erhobenen Rügen begrenzt.
 
-Prozessleitende Verfügungen sind nur unter den strengen Voraussetzungen von Art. 320 ZPO bzw. den entsprechenden Bestimmungen der kantonalen ZPO anfechtbar. Eine selbständige Beschwerde setzt voraus, dass die Verfügung einen nicht wieder gutzumachenden Nachteil bewirkt und sofortige Erledigung geboten ist.
+### [BGE 147 III 176, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176#e-4-2-1) (17.11.2020)
 
-### [BGE 140 III 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_315) (16.6.2014) — Endentscheid vs. Zwischenentscheid
+**Kernaussage**: Ob ein gültiger Rechtsöffnungstitel vorliegt, prüft das Gericht von Amtes wegen.
 
-Das Bundesgericht grenzt Endentscheide von Zwischenentscheiden ab: Ein Endentscheid beendet das Verfahren vor der entscheidenden Instanz vollständig. Zwischenentscheide sind nur dann selbständig anfechtbar, wenn sie sofort erledigungsbedürftig sind und einen nicht wiedergutzumachenden Nachteil verursachen.
+Die Gegenprobe zum vorstehenden Satz: Von Amtes wegen zu prüfen ist, *ob* ein Titel vorliegt — nicht, ob die vorgelegten Urkunden inhaltlich taugen, wenn das niemand rügt.
 
-### [BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620) (30.10.2012) — Zwischenentscheid Kriterium
+## II. Abgrenzung zur Berufung
 
-Ein Zwischenentscheid, der den Prozessgegenstand oder die Prozessvoraussetzungen betrifft, ist nur bei sofortiger Erledigungsbedürftigkeit selbständig anfechtbar. Das Bundesgericht betont, dass die Kriterien restriktiv zu handhaben sind, um eine Zersplitterung des Verfahrens zu vermeiden.
+### [BGE 142 III 413, E. 2.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413#e-2-2-4) (25.5.2016)
 
-### [BGE 138 III 705](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_705) (22.6.2012) — Anfechtungsobjekt und Beschwerdegründe
+**Kernaussage**: Gemäss Art. 310 ZPO können mit Berufung die unrichtige Rechtsanwendung und die unrichtige Feststellung des Sachverhalts geltend gemacht werden; die Berufungsinstanz verfügt mithin über eine vollständige Überprüfungsbefugnis der Streitsache, beschränkt sich dabei aber — abgesehen von offensichtlichen Mängeln — auf die erhobenen Beanstandungen.
 
-Die Beschwerdegründe nach Art. 320 ZPO sind erschöpfend aufgeführt. Eine Beschwerde kann nur auf unrichtige Rechtsanwendung oder offensichtlich unrichtige Sachverhaltsfeststellung gestützt werden. Weitere Rügen — insbesondere formelle Mängel — sind nur im Rahmen der ausdrücklich geregelten Verfahrensgründe zulässig.
+Der Kontrast, der Art. 320 ZPO seine Bedeutung gibt: Die Berufung erlaubt die Rüge der *unrichtigen* Sachverhaltsfeststellung, die Beschwerde nach Art. 320 lit. b nur der **offensichtlich unrichtigen**. In Rechtsfragen sind beide Rechtsmittel gleich weit.
 
-### [BGE 139 III 133](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_133) (22.2.2013) — Beschwerde und Sachverhaltsfeststellung
+## Audit-Protokoll
 
-Die Sachverhaltsfeststellung der Vorinstanz kann nur korrigiert werden, wenn sie *offensichtlich unrichtig* ist. Bloss anderweitige Würdigung der Beweise reicht nicht aus. Die Beschwerdeführerin muss substanziiert darlegen, inwielem die Feststellung willkürlich erfolgte.
+Beim Audit vom 13.08.2026 war von 15 Belegpaaren **kein einziges** gestützt (Belegquote
+7 %) — der schlechteste Wert im gesamten ZPO-Bestand. Die Übersicht wurde verworfen und
+neu aufgebaut.
 
-### [BGE 140 III 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167) (12.5.2014) — Beschwerde und Rechtsanwendung
+Die frühere Fassung führte fünfzehn Entscheide, jeder mit einer plausibel klingenden
+Aussage zu Beschwerdegründen, Kognition oder Anfechtungsobjekt — und keine dieser
+Aussagen liess sich in einer Erwägung nachweisen. Nicht übernommen wurden BGE 138 III 123,
+BGE 138 III 620, BGE 138 III 705, BGE 139 III 133, BGE 139 III 466, BGE 140 III 167,
+BGE 140 III 227, BGE 140 III 315, BGE 141 III 262, BGE 142 III 116 und BGE 145 III 422
+sowie BGer 1B_185/2014, 5A_907/2020, 7B_1017/2023 und 7B_499/2024.
 
-Die unrichtige Rechtsanwendung als Beschwerdegrund setzt voraus, dass die Vorinstanz eine Rechtsnorm falsch angewendet oder den ihr zustehenden Ermessensspielraum überschritten hat. Eine blosse abweichende rechtliche Beurteilung rechtfertigt die Beschwerde nicht.
+Drei der angeführten BGer-Urteile stammen aus dem **Strafrecht** (1B_185/2014,
+7B_1017/2023, 7B_499/2024). Art. 320 ZPO ist eine zivilprozessuale Norm; die
+strafprozessuale Beschwerde richtet sich nach Art. 393 ff. StPO.
 
-## II. Weitere BGer-Entscheide
+**Eine Lücke, die bestehen bleibt.** Zu Art. 320 lit. b ZPO — der offensichtlich
+unrichtigen Feststellung des Sachverhalts und ihrem Verhältnis zur Willkür — liess sich
+keine einschlägige bundesgerichtliche Erwägung finden; die Suche lieferte Entscheide aus
+den Jahren 1985 bis 1995 zu kantonalem Recht. Der Massstab ist im Kommentartext aus dem
+Normwortlaut und dem Kontrast zur Berufung entwickelt und dort nicht mit Rechtsprechung
+belegt.
 
-### [BGer 7B_1017/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_1017_2023) (13.2.2024) — Sachverhaltsfeststellung und Beschwerdegründe
-
-Das Bundesgericht hält fest, dass die Rüge der offensichtlich unrichtigen Sachverhaltsfeststellung substanziiert zu begründen ist. Es genügt nicht, bloss auf abweichende Beweiswürdigung zu verweisen; vielmehr muss Willkür im Sinne von Art. 9 BV dargetan werden.
-
-### [BGer 1B_185/2014](https://mcp.opencaselaw.ch/entscheid/bger_1B_185_2014) (27.5.2014) — Beschwerde gegen vorsorgliche Massnahmen
-
-Vorsorgliche Massnahmen sind als prozessleitende Verfügungen grundsätzlich nur unter den strengen Voraussetzungen von Art. 320 ZPO anfechtbar. Der Entscheid betont, dass die sofortige Erledigungsbedürftigkeit und ein nicht wiedergutzumachender Nachteil kumulativ vorliegen müssen.
-
-### [BGer 7B_499/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_499_2024) (12.8.2024) — Beschwerdegründe und prozessleitende Verfügungen
-
-Prozessleitende Verfügungen können nur gestützt auf die in Art. 320 ZPO genannten Gründe angefochten werden. Das Bundesgericht präzisiert, dass eine Beschwerde nur dann zulässig ist, wenn die Verfügung eine eigenständige Beschwer beansprucht und nicht bloss prozessuale Wirkungen entfaltet.
-
-### [BGE 141 III 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_262) (11.8.2015) — Vorsorgliche Massnahmen und Beschwerde
-
-Vorsorgliche Massnahmen unterliegen der Beschwerdemöglichkeit nach Art. 320 ZPO. Das Bundesgericht stellt klar, dass der Massstab für die Anfechtbarkeit streng ist und die Verfügungen in der Regel nicht isoliert, sondern nur zusammen mit dem Endentscheid zu überprüfen sind.
-
-### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (28.10.2013) — Ausstandsgrund und Beschwerde
-
-Ein Ausstandsgrund kann im Beschwerdeverfahren nur geltend gemacht werden, wenn er im Rahmen der Beschwerdegründe nach Art. 320 ZPO subsumierbar ist. Reine Verfahrensrügen ohne Bezug zu den genannten Beschwerdegründen bleiben ausgeschlossen.
-
-### [BGE 140 III 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_227) (16.6.2014) — Zwischenentscheid und Beschwerdegründe
-
-Die Anfechtbarkeit eines Zwischenentscheids richtet sich nach Art. 320 ZPO. Das Bundesgericht betont, dass die sofortige Erledigungsbedürftigkeit objektiv gegeben sein muss; eine blosse prozessökonomische Erwägung genügt nicht.
-
-### [BGE 138 III 123](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_123) (21.12.2011) — Rechtsanwendung und Beschwerde
-
-Die unrichtige Rechtsanwendung als Beschwerdegrund erfordert eine konkrete Darlegung, inwiefern die Vorinstanz Bundesrecht oder kantonales Recht falsch angewendet hat. Eine abstrakte Rüge ohne Bezug zum angefochtenen Entscheid genügt den Anforderungen nicht.
-
-### [BGer 5A_907/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_907_2020) (30.3.2021) — Beschwerdegründe offensichtlich unrichtig
-
-Die Schwelle der *offensichtlichen Unrichtigkeit* der Sachverhaltsfeststellung ist hoch. Das Bundesgericht bestätigt, dass nur ein krasser Widerspruch zu den Akten oder eine offensichtlich fehlerhafte Beweiswürdigung die Beschwerde tragen kann. Appellatorische Rügen sind unzulässig.
-
----
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`, `search_decisions`).
