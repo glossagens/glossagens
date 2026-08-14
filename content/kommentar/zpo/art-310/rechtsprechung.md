@@ -10,65 +10,59 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 35 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; ur_gerichte_OG_Z_20_11 existiert nicht"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 3 von 13 Paaren gestützt; 7 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 
 # Rechtsprechung zu Art. 310 ZPO
 
-Die folgende Übersicht stellt die zentrale Rechtsprechung des Bundesgerichts sowie kantonale Gerichtsentscheide zu den Berufungsgründen (unrichtige Rechtsanwendung, unrichtige Feststellung des Sachverhalts) und den verfahrensrechtlichen Begründungs- und Rügepflichten dar.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
----
+## I. Kognition der Berufungsinstanz
 
-## I. Leitentscheide
+### [BGE 142 III 413, E. 2.2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413#e-2-2-4) (25.5.2016)
 
-### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.05.2016) — Kognition der Berufungsinstanz
-Grundlagenentscheid zum Berufungsverfahren. Das Berufungsgericht verfügt gemäss Art. 310 ZPO über eine unbeschränkte Kognition in rechtlicher und tatsächlicher Hinsicht. Diese freie Kognition wird jedoch prozessual durch das Novenrecht (Art. 317 ZPO) eingeschränkt.
+**Kernaussage**: Gemäss Art. 310 ZPO können mit Berufung die unrichtige Rechtsanwendung und die unrichtige Feststellung des Sachverhalts geltend gemacht werden; die Berufungsinstanz verfügt mithin über eine vollständige Überprüfungsbefugnis der Streitsache, beschränkt sich dabei aber — abgesehen von offensichtlichen Mängeln — auf die erhobenen Beanstandungen.
 
-### [BGE 147 III 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_176) (17.11.2020) — Abgrenzung Kognition Berufung vs. Beschwerde
-Konkretisiert den Unterschied zur Beschwerdekognition (Art. 320 ZPO). Während die Berufung die freie Überprüfung des Sachverhalts erlaubt, ist das Beschwerdegericht bei der Sachverhaltsfeststellung auf die Rüge der offensichtlichen Unrichtigkeit (Willkür) beschränkt.
+Volle Kognition in Tat- **und** Rechtsfragen — das unterscheidet die Berufung von der Beschwerde nach Art. 320 ZPO, die für Sachverhaltsrügen auf offensichtliche Unrichtigkeit beschränkt ist.
 
-### [BGE 138 III 374](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_374) (26.04.2012) — Begründungsanforderungen der Berufung
-Auch bei freier Kognition des Gerichts gilt für die Parteien das Rügeprinzip. Die berufungsführende Partei muss in ihrer Rechtsschrift hinreichend detailliert begründen, inwiefern der erstinstanzliche Entscheid fehlerhaft ist (Art. 310 i.V.m. Art. 311 ZPO).
+## II. Rügeprinzip als Gegengewicht
 
-### [BGE 144 III 394](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394) (17.07.2018) — Reformatorischer Entscheid und Spruchreife
-Das Berufungsgericht ist nicht verpflichtet, sämtliche erstinstanzlich angebotenen Beweise abzunehmen. Für einen reformatorischen Entscheid (Abänderung des Urteils) muss die Sache jedoch spruchreif sein, andernfalls ist sie zur Wahrung des rechtlichen Gehörs zurückzuweisen.
+### [BGE 138 III 374, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_374#e-4-3-1) (26.4.2012)
 
-### [BGE 139 III 466](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_466) (10.05.2013) — Noven und Kognition im Rechtsmittelverfahren
-Behandelt die restriktive Zulassung von echten und unechten Noven im Rechtsmittelverfahren im Verhältnis zur freien Kognition der Berufungsinstanz.
+**Kernaussage**: Mit Berufung können die unrichtige Rechtsanwendung (Art. 310 lit. a ZPO) und die unrichtige Feststellung des Sachverhalts (Art. 310 lit. b ZPO) geltend gemacht werden; die Berufungsinstanz verfügt über volle Überprüfungsbefugnis, doch hat die berufungsführende Partei ihre Berufung nach Art. 311 ZPO zu begründen.
 
-### [BGE 140 III 86](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_86) (23.01.2014) — Pflicht zur Begründung von Rechtsverletzungen
-Das Rechtsmittelgericht wendet das Recht zwar von Amtes wegen an, befasst sich jedoch grundsätzlich nur mit den Rechtsverletzungen, die in der Berufungsschrift hinreichend gerügt und begründet wurden.
+Die volle Kognition bedeutet nicht, dass das Berufungsgericht den Fall von Grund auf neu aufrollt. Es beurteilt, was gerügt wird.
 
----
+### [BGE 144 III 394, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394#e-4-2) (17.7.2018)
 
-## II. Weitere Entscheide
+**Kernaussage**: Es obliegt den Parteien, vor erster Instanz angebotene Beweise im Berufungsverfahren erneut anzubieten; das Berufungsgericht muss nicht von sich aus nach nicht wiederholten Beweisanträgen suchen.
 
-### [Obergericht Uri OG Z 20 11](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_OG Z 20 11) (25.08.2021) — Substanziierung der Sachverhaltsrüge
-Für die Rüge einer unrichtigen Sachverhaltsfeststellung reicht es nicht aus, die eigene Beweiswürdigung derjenigen des Erstgerichts gegenüberzustellen. Der Berufungskläger muss detailliert begründen, inwiefern die Beweiswürdigung der Vorinstanz unhaltbar ist.
+Die praktische Konsequenz des Rügeprinzips auf der Beweisebene.
 
-### [Kantonsgericht Basel-Landschaft 2019-11-12-zr-1](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_2019-11-12-zr-1) (12.11.2019) — Rügepflicht bei Offizialmaxime
-In Verfahren, in welchen die Offizial- und Untersuchungsmaxime gilt, besteht die richterliche Pflicht zur Sachverhaltserforschung. Dennoch befreit dies den Kläger nicht von der Rügepflicht nach Art. 310 ZPO, sofern die erstinstanzliche Tatsachenfeststellung angefochten wird.
+## Audit-Protokoll
 
-### [Obergericht Bern ZK 2015 147](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_ZK_2015_147) (19.05.2015) — Überprüfung von Ermessensentscheiden
-Ermessensentscheide der Vorinstanz können im Berufungsverfahren zwar überprüft werden, die Berufungsinstanz übt jedoch Zurückhaltung und greift nur ein, wenn das Ermessen überschritten oder missbraucht wurde.
+Beim Audit vom 13.08.2026 waren 7 von 14 Belegpaaren ungestützt (Belegquote 35 %,
+Urteil C). Die Übersicht wurde verworfen und neu aufgebaut.
 
-### [Kantonsgericht St. Gallen BO.2012.74](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BO.2012.74) (18.02.2014) — Prozessvertraglicher Verzicht
-Haben die Parteien erstinstanzlich prozessvertraglich auf ein Beweisverfahren verzichtet, ist es ihnen im Berufungsverfahren verwehrt, Rügen bezüglich unrichtiger Sachverhaltsfeststellung (Art. 310 lit. b ZPO) auf Tatsachen zu stützen, die dem Verzicht unterlagen.
+**Der Entscheid `ur_gerichte_OG_Z_20_11` existiert nicht** — die Referenz liess sich
+nicht auflösen und wurde entfernt.
 
-### [Obergericht Solothurn ZKBES.2011.43](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZKBES.2011.43) (21.03.2011) — Begründungspflicht bei Ermessen
-Es genügt nicht, einen Ermessensentscheid der Vorinstanz im Rechtsmittelverfahren bloss pauschal zu kritisieren. Der Kläger muss qualifizierte Ermessensfehler darlegen.
+Nicht übernommen wurden BGE 139 III 466, BGE 140 III 86 und BGE 147 III 176.
+BGE 140 III 86 betrifft die Begründungspflicht nach Art. 42 Abs. 2 BGG vor Bundesgericht,
+nicht die Berufung nach ZPO; BGE 147 III 176 betrifft die Prüfungsbefugnis der
+Beschwerdeinstanz im Rechtsöffnungsverfahren. Beide wurden für Aussagen zur
+Berufungskognition angeführt.
 
-### [Obergericht Zug BZ 2021 89](https://mcp.opencaselaw.ch/entscheid/zg_obergericht_BZ_2021_89) (08.03.2022) — Offenkundige Tatsachen im Rechtsmittel
-Die Sachverhaltskontrolle nach Art. 310 lit. b ZPO erstreckt sich auch auf die Frage, ob die Vorinstanz gerichtsnotorische oder offenkundige Tatsachen (Art. 151 ZPO) fälschlicherweise nicht berücksichtigt hat.
+Die kantonalen Entscheide (Kantonsgericht Basel-Landschaft, Obergericht Bern,
+Kantonsgericht St. Gallen, Obergericht Solothurn, Obergericht Zug) sind nicht mehr als
+Belege geführt: Für kantonale Entscheide sind keine Erwägungen erschlossen, ihre Aussagen
+lassen sich weder bestätigen noch widerlegen.
 
-### [Kantonsgericht Graubünden ZK1 2011 88](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1 2011 88) (10.01.2012) — Kognition bei Kostenentscheiden
-Kosten- und Entschädigungsentscheide der Vorinstanz sind Ermessensentscheide, welche die Berufungsinstanz auf unrichtige Ermessensausübung hin überprüft.
-
-### [Obergericht Graubünden KSK 2014 1](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_KSK 2014 1) (14.01.2014) — Begriff der unrichtigen Rechtsanwendung
-Die Rüge nach Art. 310 lit. a ZPO umfasst jeden Verstoss gegen geschriebenes und ungeschriebenes Bundesrecht, kantonales Recht und Völkerrecht.
-
-### [Obergericht Graubünden ZK1 2020 21](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1 2020 21) (03.03.2020) — Unangemessenheit
-Das Berufungsgericht prüft im Rahmen der Rechtsanwendung auch die Rüge der Unangemessenheit (Zweckmässigkeit), sofern das materielle Recht dem Richter einen entsprechenden Beurteilungsspielraum einräumt.
-
-*Letzte Aktualisierung: 2026-07-19*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).
