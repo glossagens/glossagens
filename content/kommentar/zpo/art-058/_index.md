@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 21 % → 88 %, Urteil A): 31 Referenzen der alten Fassung waren echt, trugen die zugeschriebenen Aussagen aber nicht; BGE 142 III 102 wurde invers wiedergegeben (contradicts); unbelegte Angabe zur Zitatdichte entfernt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 21 % (Urteil C); 9 von 64 Paaren gestützt; 46 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -30,73 +35,61 @@ revisions:
 
 Art. 58 ZPO kodifiziert den **Dispositionsgrundsatz** als zentrale prozessuale Maxime des Schweizer Zivilprozessrechts. Abs. 1 verankert in einem Satz zwei Grundsätze: das **Mehrverbot** (ne ultra petita) — das Gericht darf einer Partei nicht mehr und nichts anderes zusprechen, als sie verlangt — und das **Anerkennungsgebot** — das Gericht darf nicht weniger zusprechen, als die Gegenpartei anerkannt hat. Abs. 2 stellt dem die **Offizialmaxime** als gesetzliche Ausnahme gegenüber: Wo das Gesetz es anordnet, ist das Gericht nicht an die Parteianträge gebunden.
 
-Die Norm ist die dogmatische Grundlage für das Verhältnis von Parteiherrschaft und gerichtlicher Verantwortung im Schweizer Zivilprozess. Sie hat eine enorme praktische Bedeutung, wie die hohe Zitatdichte (über 24'000 Zitationen in der Rechtsprechung) zeigt.
+Die Norm ist die dogmatische Grundlage für das Verhältnis von Parteiherrschaft und gerichtlicher Verantwortung im Schweizer Zivilprozess. Sie gehört zu den meistangewendeten Normen der ZPO.
 
 ### Voraussetzungen / Anwendungsbereich
 
-**1 Ne ultra petita — Mehrverbot.** Das Gericht darf einer Partei weder mehr noch etwas anderes zusprechen, als sie beantragt hat. Die Parteianträge bilden die Grenze des gerichtlichen Zuspruchs. Dies gilt insbesondere für Geldforderungen: Im Falle von Geldforderungen sind die Anträge zwingend zu beziffern. Die Anträge sind im Lichte der Berufungsbegründung auszulegen ([BGE 137 III 617, E. 4–6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617); [BGE 150 III 385, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_385)).
+**1 Gehalt und Grundlage.** Der Dispositionsgrundsatz besagt, dass das Gericht einer Partei nicht mehr und nichts anderes zusprechen darf, als sie verlangt, und nicht weniger, als die Gegenpartei anerkannt hat. Er ist Ausdruck der Privatautonomie ([BGE 149 III 172, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172#e-3-4-1)). Diese Herleitung erklärt zugleich die Ausnahme in Abs. 2: Wo die Rechtsordnung die Verfügungsbefugnis der Parteien einschränkt, tritt der Grundsatz zurück.
 
-**2 Anerkennungsgebot.** Soweit die Gegenpartei den Anspruch anerkannt hat, hat das Gericht dem zuzusprechen, ohne den Zuspruch zu reduzieren. Das Gericht ist in diesem Umfang nicht frei, weniger zuzusprechen.
+**2 Bestimmtheit der Rechtsbegehren.** Die Bindung des Gerichts an die Anträge setzt voraus, dass diese eine Bindung tragen können. Ein Rechtsbegehren muss deshalb so bestimmt sein, dass es im Falle der Gutheissung der Klage unverändert zum Urteil erhoben werden kann ([BGE 137 III 617, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617#e-4-3)). Bei Geldforderungen folgt daraus die Bezifferungspflicht.
 
-**3 Ausnahmen durch gesetzliche Offizialmaximen (Abs. 2).** In bestimmten Verfahrensbereichen gebietet das Gesetz eine **uneingeschränkte Untersuchungsmaxime**, die das Gericht von der Bindung an die Parteianträge entbindet. Eine solche Offizialmaxime gilt insbesondere für den **Kindesunterhalt**. Das Kind hat Anspruch auf gebührenden Unterhalt, der den Barunterhalt sowie einen allfälligen Betreuungsunterhalt umfasst und sich nach den Bedürfnissen des Kindes sowie der Lebensstellung und Leistungsfähigkeit der Eltern bemisst ([BGE 147 III 265, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265)).
+**3 Grenze durch den Streitgegenstand.** Die Bindung wirkt nicht nur gegen ein Zuviel im Dispositiv. Die Dispositionsmaxime wird auch verletzt, wenn das Gericht seinen Entscheid auf einen Lebenssachverhalt stützt, der ausserhalb des Streitgegenstands liegt ([BGE 149 III 268, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268#e-4-3)).
 
-**4 Übergang von Offizial- zu Dispositionsmaxime.** Die kraft der uneingeschränkten Untersuchungsmaxime für den Kindesunterhalt gewonnenen Erkennnisse können für den im gleichen Entscheid zu beurteilenden (nach-)ehelichen Unterhalt nicht einfach ausgeblendet werden. Das Bundesgericht hat die zweistufige Methode mit Überschussverteilung als verbindlich erklärt ([BGE 147 III 301, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301); [BGE 143 III 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_233)).
-
-**5 Beweiswürdigung und Gehörsanspruch.** Das Gericht muss sich mit den wesentlichen Beweisangeboten auseinandersetzen. Ein qualifizierter Gehörsanspruch besteht, wenn das Gericht ein privates Gutachten nicht berücksichtigt, ohne Gründe dafür anzugeben ([BGE 141 III 433](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_433); [BGE 144 III 394, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394)). Der Gehörsanspruch verlangt jedoch keine Auseinandersetzung mit jedem Vorbringen ([BGE 150 III 1, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_1)).
-
-**6 Klageänderung und Bezifferung.** Im Berufungsverfahren sind Klageänderungen nur unter den Voraussetzungen von Art. 227 ZPO i.V.m. Art. 317 Abs. 2 ZPO zulässig. Auch bei Offizialgrundsatz besteht eine Bezifferungspflicht ([BGE 150 III 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_385)).
+**4 Ausnahmen nach Abs. 2.** Abs. 2 behält gesetzliche Bestimmungen vor, nach denen das Gericht nicht an die Parteianträge gebunden ist. Praktisch bedeutsam sind die familienrechtlichen Offizial- und Untersuchungsmaximen. Sie greifen nicht einheitlich: Für den im Scheidungsverfahren festzusetzenden nachehelichen Unterhalt gilt grundsätzlich die Dispositions- und Verhandlungsmaxime (Art. 58 Abs. 1 und Art. 277 Abs. 1 ZPO); der eheliche Unterhalt unterliegt ebenfalls der Dispositionsmaxime, für die Sachverhaltsfeststellung dort jedoch der beschränkten (sozialen) Untersuchungsmaxime ([BGE 147 III 301, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301#e-2-2)).
 
 ### Abgrenzungen
 
-**Dispositionsgrundsatz vs. Untersuchungsmaxime.** Der Dispositionsgrundsatz (Art. 58 Abs. 1 ZPO) ist der Grundsatz: die Parteien bestimmen, ob und in welchem Umfang der Prozess geführt wird und worüber zu befinden ist. Die Untersuchungsmaxime (Offizialgrundsatz) kehrt dies um: das Gericht ermittelt den Sachverhalt und entscheidet von Amtes wegen. Art. 58 Abs. 2 ZPO nennt die gesetzlichen Bestimmungen, in denen die Untersuchungsmaxime gilt — insbesondere im Kindesschutz- und Unterhaltsrecht ([BGE 139 III 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_368); [BGE 149 III 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172)).
+**Dispositionsgrundsatz und Untersuchungsmaxime betreffen verschiedene Ebenen.** Der Dispositionsgrundsatz bestimmt, *worüber* das Gericht entscheidet — er bindet an die Anträge. Die Untersuchungsmaxime betrifft die Feststellung des Sachverhalts. Beide können im selben Verfahren nebeneinander gelten: Im Streit um den ehelichen Unterhalt ist das Gericht an die Anträge gebunden, ermittelt den Sachverhalt aber nach der beschränkten Untersuchungsmaxime ([BGE 147 III 301, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301#e-2-2)).
 
-**Bezifferung der Rechtsbegehren.** Die Rechtsbegehren einer Streitverkündungsklage müssen (bereits im Zulassungsverfahren) beziffert sein und dürfen nicht vom Ausgang des Hauptprozesses abhängig gemacht werden. Eine Streitverkündungsklage kann nur dann als unbezifferte Forderungsklage erhoben werden, wenn die Streitverkündungsklage selber oder die Hauptklage ihrerseits die Voraussetzungen von Art. 85 ZPO erfüllt ([BGE 142 III 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_102)).
-
-**Parteiherrschaft und Verfahrensbeendigung.** Auch ausserhalb des Streitgegenstandes verfügen die Parteien über den Fortgang des Verfahrens. Einseitige Verfahrensbeendigungshandlungen (Klagerückzug, Anerkenntnis) sind der Partei grundsätzlich freigestellt, vorbehaltlich zwingender Offizialnormen ([BGE 138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620)).
+**Innerhalb eines Entscheids können unterschiedliche Maximen gelten.** Für Kindesunterhalt, ehelichen und nachehelichen Unterhalt beurteilt sich die Bindung des Gerichts je gesondert. Das ist die praktisch wichtigste Gemengelage im Anwendungsbereich von Art. 58 ZPO.
 
 ### Kasuistik
 
-- **Berufungsanträge und Bezifferung**: Die Berufungseingabe muss Anträge enthalten. Im Falle von Geldforderungen sind die Anträge zu beziffern. Die Anträge sind im Lichte der Berufungsbegründung auszulegen ([BGE 137 III 617, E. 4–6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617)).
+- **Gehalt des Grundsatzes**: Das Gericht darf einer Partei nicht mehr und nichts anderes zusprechen, als sie verlangt, und nicht weniger, als die Gegenpartei anerkannt hat; der Grundsatz ist Ausdruck der Privatautonomie ([BGE 149 III 172, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172#e-3-4-1)).
 
-- **Kindesunterhalt und Untersuchungsmaxime**: Das Kind hat Anspruch auf gebührenden Unterhalt, der den Barunterhalt sowie einen allfälligen Betreuungsunterhalt umfasst. Die Berechnung erfolgt nach der verbindlichen zweistufigen Methode mit Überschussverteilung ([BGE 147 III 265, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265)).
+- **Bestimmtheit des Rechtsbegehrens**: Ein Rechtsbegehren muss so bestimmt sein, dass es im Falle der Gutheissung unverändert zum Urteil erhoben werden kann ([BGE 137 III 617, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617#e-4-3)).
 
-- **Auswirkung der Prozessmaximen für den Kindesunterhalt auf den nach-ehelichen Unterhalt**: Die kraft der uneingeschränkten Untersuchungsmaxime für den Kindesunterhalt gewonnenen Erkennnisse können für den im gleichen Entscheid zu beurteilenden (nach-)ehelichen Unterhalt nicht einfach ausgeblendet werden ([BGE 147 III 301, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301)).
+- **Lebenssachverhalt ausserhalb des Streitgegenstands**: Stützt das Gericht seinen Entscheid darauf, verletzt es die Dispositionsmaxime ([BGE 149 III 268, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268#e-4-3)).
 
-- **Kostenvorschuss und Verfahrensleitung**: Das Gericht ist nicht gehalten, mit der Zustellung der Klage an die Gegenpartei und der Ansetzung einer Frist zur Klageantwort zuzuwarten, bis der Kostenvorschuss bezahlt ist ([BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159)).
-
-- **Streitverkündungsklage und Bezifferung**: Die Rechtsbegehren einer Streitverkündungsklage müssen bereits im Zulassungsverfahren beziffert sein ([BGE 142 III 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_102)).
-
-- **Eheschutz und Unterhalt**: Im Eheschutzverfahren gelten die Untersuchungsmaxime für den Kindesunterhalt und der Dispositionsgrundsatz für den Ehegattenunterhalt. Die Übergangsproblematik wird durch die zweistufige Methode gelöst ([BGE 149 III 172](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172)).
-
-- **SchKG und Dispositionsgrundsatz**: Auch im Betreibungs- und Konkursrecht gilt der Dispositionsgrundsatz, soweit das Gesetz keine Offizialnormen aufstellt ([BGE 149 III 224](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_224)).
-
-- **Verwandtenunterstützung und Verfahrensart**: Klagt eine unterstützungsberechtigte Person gegen mehrere Unterstützungs-pflichtige, gilt der Dispositionsgrundsatz ([BGE 139 III 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_368)).
-
-- **Beweismittel und Privatgutachten**: Ein Privatgutachten ist ein taugliches Beweismittel, dessen Bedeutung das Gericht in freier Würdigung zu beurteilen hat ([BGE 141 III 433](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_433)).
-
-- **Berufungsbegründungspflicht**: Alle selbständigen Begründungen müssen angefochten werden, auch Alternativbegründungen ([BGE 144 III 394, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_394)).
-
-- **Gehörsanspruch und Dispositionsgrundsatz**: Der Gehörsanspruch verlangt keine Auseinandersetzung mit jedem Vorbringen; das Gericht darf sich auf die tragenden Erwägungen beschränken ([BGE 150 III 1, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_1)).
-
-- **Schriftliche Schlussvorträge**: Verzichten die Parteien auf die mündliche Verhandlung, entscheidet das Gericht aufgrund der Akten. Der Dispositionsgrundsatz wird durch die Verfahrenswahl nicht aufgehoben ([BGE 146 III 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_97)).
-
-- **Unterhaltsänderung und Untersuchungsmaxime**: Die Abänderung des Unterhaltsbeitrags für die Dauer des Scheidungsverfahrens unterliegt der Untersuchungsmaxime für den Kindesunterhalt ([BGE 143 III 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_233)).
-
-- **Testament und Formmangel**: Bei der Auslegung von Verfügungen von Todes wegen gelten besondere Regeln, die den Dispositionsgrundsatz modifizieren ([BGE 146 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_1); [BGE 150 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_1)).
-
-- **Ehelicher Unterhalt und Bezifferung**: Im Eheschutzverfahren besteht eine Bezifferungspflicht auch bei Offizialmaxime ([BGE 150 III 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_385)).
-
-- **Kinderschutz und Beistandschaft**: Die Dauer und der Umfang der Beistandschaft bestimmen sich nach dem Kindeswohl, nicht nach den Parteianträgen ([BGE 144 III 481](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481)).
-
-- **Beschwerdefristbeginn**: Der Beginn der Beschwerdefrist richtet sich nach der Zustellung der vollständigen Entscheidbegründung, nicht nach der Verfügung ([BGE 135 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_337)).
-
-- **Unentgeltliche Rechtspflege und Dispositionsgrundsatz**: Die Gewährung der unentgeltlichen Rechtspflege steht unter dem Vorbehalt der Mutmasslichkeit des Obsiegens ([BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36)).
-
-- **Eheschutz und Steuern**: Im Eheschutzverfahren unterliegen der Unterhaltsberechnung auch steuerliche Abzüge, soweit sie nicht unter den Dispositionsgrundsatz fallen ([BGE 140 III 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_337)).
+- **Unterhaltsarten und Maximen**: Nachehelicher Unterhalt untersteht der Dispositions- und Verhandlungsmaxime; beim ehelichen Unterhalt tritt für die Sachverhaltsfeststellung die beschränkte Untersuchungsmaxime hinzu ([BGE 147 III 301, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301#e-2-2)).
 
 ### Materialien
 
 Art. 58 ZPO wurde im Rahmen der Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (SR 272) neu kodifiziert und setzt die zuvor in den kantonalen Zivilprozessordnungen verankerten Dispositions- und Offizialgrundsätze auf Bundesebene einheitlich um. Die Materialien (BBl 2003 7093) erläutern die Systematik der Prozessmaximen.
+
+## Audit-Protokoll
+
+Beim Audit vom 13.08.2026 waren 46 von 64 Belegpaaren ungestützt (Belegquote 21 %,
+Urteil C), darunter fünf mit `contradicts`. Der Belegapparat wurde ersetzt.
+
+Die frühere Fassung führte 31 verschiedene Referenzen. **Keine davon war erfunden** — alle
+Nummern existieren. Die ihnen zugeschriebenen Aussagen liessen sich aber weit überwiegend
+in keiner Erwägung nachweisen. Ein Befund ist eine Umkehrung: Der Kommentar hielt fest,
+die Rechtsbegehren einer Streitverkündungsklage müssten bereits im Zulassungsverfahren
+beziffert sein und dürften nicht vom Ausgang des Hauptprozesses abhängig gemacht werden
+(BGE 142 III 102). Die Prüfung gegen E. 5.3.1 ergab `contradicts`: Bei Streitverkündungs-
+klagen kann auf die Bezifferung gerade verzichtet werden, und die Abhängigkeit vom
+Hauptprozess ist zulässig. Ebenso liess sich der Satz, auch unter dem Offizialgrundsatz
+bestehe eine Bezifferungspflicht (BGE 150 III 385), in dessen Erwägungen nicht nachweisen.
+
+Nicht mehr angeführt werden unter anderem BGE 135 III 337, BGE 138 III 620,
+BGE 139 III 368, BGE 140 III 159, BGE 140 III 337, BGE 141 III 433, BGE 142 III 36,
+BGE 142 III 102, BGE 143 III 233, BGE 144 III 394, BGE 144 III 481, BGE 146 III 1,
+BGE 146 III 97, BGE 147 III 265, BGE 148 III 105, BGE 149 III 224, BGE 150 III 1 und
+BGE 150 III 385.
+
+Auch die Angabe, Art. 58 ZPO weise «über 24'000 Zitationen in der Rechtsprechung» auf,
+wurde entfernt: Sie war nicht belegt und in dieser Grössenordnung nicht plausibel.
 
 ## Literatur
 
