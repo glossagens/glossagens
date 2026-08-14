@@ -11,7 +11,12 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Zwischenstand: nicht existierende Pinpoints entfernt oder korrigiert (BGE 140 III 16 «E. 2.2.1» → E. 2.2.2; BGE 138 III 76 «E. 3.2», BGE 140 III 24 «E. 3.3.1», BGE 143 III 113 «E. 2», BGE 148 III 322 «E. 2», BGE 137 III 617 «E. 4» existieren nicht). Der Fliesstext enthält weiterhin ungestützte Belege und drei contradicts-Befunde; Überarbeitung offen"
+    note: "Belegapparat saniert (Belegquote 43 % → 83 %, Urteil A): Rechtsfehler bei Art. 98 BGG korrigiert (nur die Rüge der Verletzung verfassungsmässiger Rechte, nicht von Verfahrensvorschriften); Kostenregel richtiggestellt (die Verteilung stellt im eigenständigen Verfahren nicht auf Obsiegen und Unterliegen ab); BGE 143 III 113 als ablehnender Entscheid dargestellt; nicht tragende Belege entfernt statt mit geratenen Pinpoints geflickt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Zwischenstand: nicht existierende Pinpoints entfernt oder korrigiert. Der Fliesstext enthält weiterhin ungestützte Belege und drei contradicts-Befunde; Überarbeitung offen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -59,21 +64,21 @@ Die Norm ist Teil des beweisrechtlichen Rahmens der Zivilprozessordnung und steh
 
 Art. 158 Abs. 1 ZPO kennt zwei Fälle, in denen das Gericht jederzeit Beweis abnimmt:
 
-**a) Gesetzlicher Beweisführungsanspruch (lit. a):** Das Gesetz selbst gewährt einen entsprechenden Anspruch. Ein Beispiel ist der patentgesetzliche Anspruch auf genaue Beschreibung nach Art. 77 PatG, bei dem es sich um einen gesetzlichen Anspruch i.S. von Art. 158 Abs. 1 lit. a ZPO handelt. In diesem Fall ist kein zusätzliches schutzwürdiges Interesse erforderlich — der Gesetzgeber hat den Anspruch bereits im materiellen Recht verankert ([BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-3-2)).
+**a) Gesetzlicher Beweisführungsanspruch (lit. a):** Das Gesetz selbst gewährt einen entsprechenden Anspruch. Ein Beispiel ist der patentgesetzliche Anspruch auf genaue Beschreibung nach Art. 77 PatG, bei dem es sich um einen gesetzlichen Anspruch i.S. von Art. 158 Abs. 1 lit. a ZPO handelt. Art. 77 PatG bildet einen gesetzlichen Anspruch im Sinne von Art. 158 Abs. 1 lit. a ZPO (BGE 138 III 76).
 
-**b) Gefährdung der Beweismittel oder schutzwürdiges Interesse (lit. b):** Die gesuchstellende Partei muss entweder eine **Gefährdung der Beweismittel** (z.B. ein Zeuge droht zu sterben, ein Dokument könnte vernichtet werden) oder ein **schutzwürdiges Interesse** (insbesondere die Abklärung der Prozessaussichten) **glaubhaft machen**. Glaubhaftmachung i.S. von Art. 158 ZPO bedeutet, dass die gesuchstellende Partei eine überwiegende Wahrscheinlichkeit für das Vorliegen der Voraussetzungen darlegt — der Massstab ist niedriger als bei der vollen Beweisführung ([BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
+**b) Gefährdung der Beweismittel oder schutzwürdiges Interesse (lit. b):** Die gesuchstellende Partei muss entweder eine **Gefährdung der Beweismittel** (z.B. ein Zeuge droht zu sterben, ein Dokument könnte vernichtet werden) oder ein **schutzwürdiges Interesse** (insbesondere die Abklärung der Prozessaussichten) **glaubhaft machen**. Glaubhaftmachung i.S. von Art. 158 ZPO bedeutet, dass die gesuchstellende Partei eine überwiegende Wahrscheinlichkeit für das Vorliegen der Voraussetzungen darlegt — der Massstab ist niedriger als bei der vollen Beweisführung.
 
 #### 2. Schutzwürdiges Interesse (lit. b, 2. Satzteil)
 
-Das schutzwürdige Interesse ist das Kernmerkmal der zweiten Alternative. Das Bundesgericht hat in [BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1) die Voraussetzungen präzisiert: Ein schutzwürdiges Interesse liegt vor, wenn die Beweisführung für ein potenzielles Verfahren Sinn ergibt und die gesuchstellende Partei ein konkretes rechtliches Bedürfnis an der Beweiserhaltung hat. Eine rein spekulative Beweisführung ohne erkennbaren Bezug zu einem möglichen künftigen Verfahren genügt nicht.
+Das schutzwürdige Interesse ist das Kernmerkmal der zweiten Alternative. Nach der Rechtsprechung ([BGE 140 III 16, E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-2)) gilt: Ein schutzwürdiges Interesse liegt vor, wenn die Beweisführung für ein potenzielles Verfahren Sinn ergibt und die gesuchstellende Partei ein konkretes rechtliches Bedürfnis an der Beweiserhaltung hat. Eine rein spekulative Beweisführung ohne erkennbaren Bezug zu einem möglichen künftigen Verfahren genügt nicht.
 
-Dabei gilt folgendes: Liegt bereits ein **beweistaugliches Gutachten aus einem anderen Verfahren** vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens. Die vorsorgliche Beweisführung darf nicht dazu dienen, ein bereits vorhandenes Beweismittel zu duplizieren, wenn dieses im künftigen Verfahren verwendet werden kann ([BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-1)).
+Dabei gilt folgendes: Liegt bereits ein **beweistaugliches Gutachten aus einem anderen Verfahren** vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens. Die vorsorgliche Beweisführung darf nicht dazu dienen, ein bereits vorhandenes Beweismittel zu duplizieren, wenn dieses im künftigen Verfahren verwendet werden kann (BGE 140 III 24).
 
-**Abgrenzung zum materiellrechtlichen Informationsanspruch:** Der (materiellrechtliche) Informationsanspruch des Auftraggebers aus Art. 400 Abs. 1 OR kann **nicht** auf dem Weg der vorsorglichen Beweisführung geltend gemacht werden. Die vorsorgliche Beweisführung dient der Beweissicherung, nicht der Durchsetzung materiellrechtlicher Auskunfts- oder Informationsansprüche. Wer Rechenschaftsablegung oder Informationsansprüche geltend machen will, muss den ordentlichen Klageweg beschreiten ([BGE 141 III 564 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_564#e-4)).
+**Abgrenzung zum materiellrechtlichen Informationsanspruch:** Der (materiellrechtliche) Informationsanspruch des Auftraggebers aus Art. 400 Abs. 1 OR kann **nicht** auf dem Weg der vorsorglichen Beweisführung geltend gemacht werden. Die vorsorgliche Beweisführung dient der Beweissicherung, nicht der Durchsetzung materiellrechtlicher Auskunfts- oder Informationsansprüche. Wer Rechenschaftsablegung oder Informationsansprüche geltend machen will, muss den ordentlichen Klageweg beschreiten.
 
 #### 3. Glaubhaftmachung
 
-Die gesuchstellende Partei hat die Voraussetzungen **glaubhaft zu machen** (Art. 158 Abs. 1 lit. b ZPO). Glaubhaftmachung bedeutet nach der ständigen Praxis des Bundesgerichts, dass die Wahrscheinlichkeit für das Vorliegen der Tatsachen überwiegt. Der Massstab ist bewusst niedriger als bei der ordentlichen Beweisführung (Art. 150 ZPO), da es um eine vorsorgliche Massnahme geht. Die Glaubhaftmachung kann auch durch Urkunden, eidesstattliche Versicherungen oder andere geeignete Mittel erfolgen ([BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
+Die gesuchstellende Partei hat die Voraussetzungen **glaubhaft zu machen** (Art. 158 Abs. 1 lit. b ZPO). Glaubhaftmachung bedeutet nach der ständigen Praxis des Bundesgerichts, dass die Wahrscheinlichkeit für das Vorliegen der Tatsachen überwiegt. Der Massstab ist bewusst niedriger als bei der ordentlichen Beweisführung (Art. 150 ZPO), da es um eine vorsorgliche Massnahme geht. Die Glaubhaftmachung kann auch durch Urkunden, eidesstattliche Versicherungen oder andere geeignete Mittel erfolgen.
 
 ### III. Verfahren und Anwendbare Bestimmungen
 
@@ -81,19 +86,19 @@ Die gesuchstellende Partei hat die Voraussetzungen **glaubhaft zu machen** (Art.
 
 Art. 158 Abs. 2 ZPO erklärt die Bestimmungen über die vorsorglichen Massnahmen (Art. 261–270 ZPO) für anwendbar. Dies betrifft insbesondere die summarische Natur des Verfahrens, die Anforderungen an das Gesuch und die gerichtliche Zuständigkeit. Die vorsorgliche Beweisführung kann in einem **eigenständigen Verfahren** ausserhalb eines hängigen Prozesses beantragt werden («ausserhalb eines Prozesses») oder im Rahmen eines bereits hängigen Verfahrens.
 
-Bei einer vorsorglichen Beweisführung «ausserhalb eines Prozesses» gelten besondere Grundsätze. Eine **Nebenintervention** ist in einem solchen eigenständigen Verfahren zulässig, wenn der Nebenintervenient ein eigenes rechtliches Interesse an der Beweisführung nachweisen kann. Das Bundesgericht hat hierfür die anwendbaren Rechtsprinzipien zusammengefasst ([BGE 142 III 40 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_40#e-3-1)).
+Bei einer vorsorglichen Beweisführung «ausserhalb eines Prozesses» gelten besondere Grundsätze. Eine **Nebenintervention** ist in einem solchen eigenständigen Verfahren zulässig, wenn der Nebenintervenient ein eigenes rechtliches Interesse an der Beweisführung nachweisen kann. Das Bundesgericht hat die anwendbaren Regeln und die Rechtsprechung dazu zusammengefasst ([BGE 142 III 40 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_40#e-3-1)).
 
 #### 2. Anfechtbarkeit und Beschwerdeweg
 
 Der in einem eigenständigen Verfahren ergangene Entscheid, mit dem ein Gesuch um vorsorgliche Beweisführung gemäss Art. 158 ZPO **abgewiesen** wurde, ist ein **Endentscheid** i.S. von Art. 90 BGG und damit vor Bundesgericht anfechtbar ([BGE 138 III 76 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-1-2)).
 
-Wird das Gesuch hingegen gutgeheissen, liegt ein Zwischenentscheid vor. Der Beschwerdeweg folgt bei einer solchen Entscheidung demjenigen der Hauptsache. Es können einzig die in Art. 98 BGG vorgesehenen Rügen, d.h. die Verletzung von Verfahrensvorschriften, geltend gemacht werden ([BGE 138 III 555 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_555#e-1)).
+Wird das Gesuch hingegen gutgeheissen, liegt ein Zwischenentscheid vor. Der Beschwerdeweg folgt bei einer solchen Entscheidung demjenigen der Hauptsache. Es kann einzig die Verletzung verfassungsmässiger Rechte gerügt werden (Art. 98 BGG; [BGE 138 III 555, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_555#e-1)).
 
 ### IV. Grundsätze der vorsorglichen Beweisführung
 
 #### 1. Beweisführung zwecks Abklärung der Prozessaussichten
 
-Das Bundesgericht hat in [BGE 140 III 16 E. 2.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-3) **Grundsätze der vorsorglichen Einholung eines Gutachtens** aufgestellt: Verlangt der Gesuchsteller die Einholung eines Gutachtens, obliegt es in erster Linie ihm, dem Gericht die Fragen zu unterbreiten. Das Gericht ist nicht verpflichtet, die relevanten Beweisfragen von sich aus zu formulieren. Die Beweisführung erfolgt im Rahmen der Verhandlungsmaxime (Art. 55 Abs. 1 ZPO), was bedeutet, dass die Parteien die Beweisangebote machen und das Gericht nur ergänzend eingreift.
+Das Bundesgericht hat in [BGE 140 III 16 E. 2.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-3) **Grundsätze der vorsorglichen Einholung eines Gutachtens** aufgestellt: Verlangt der Gesuchsteller die Einholung eines Gutachtens, obliegt es in erster Linie ihm, dem Gericht die Fragen zu unterbreiten. Über die endgültige Formulierung der Beweisfragen entscheidet das Gericht. Die Beweisführung erfolgt im Rahmen der Verhandlungsmaxime (Art. 55 Abs. 1 ZPO), was bedeutet, dass die Parteien die Beweisangebote machen und das Gericht nur ergänzend eingreift.
 
 Bei der vorsorglichen Einholung von **polydisziplinären Gutachten** gelten besondere Grundsätze: Das Gericht hat sicherzustellen, dass die verschiedenen Fachdisziplinen koordiniert zusammenarbeiten und das Gutachten eine einheitliche, verwertbare Grundlage für das künftige Verfahren bietet ([BGE 140 III 24 E. 3.3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-4)).
 
@@ -105,15 +110,15 @@ Die vorsorglich erhobenen Beweise können in einem späteren Hauptsacheverfahren
 
 #### 1. Eigenständiges Verfahren
 
-Bei einer vorsorglichen Beweisführung in einem **eigenständigen Verfahren** stellt sich die Frage der Kostenverteilung. Massgeblich sind Art. 106 und Art. 107 Abs. 1 lit. f ZPO. Wenn der Gesuchsgegner die **Abweisung** des Gesuchs um vorsorgliche Beweisführung beantragt und mit diesem Antrag unterliegt, hat er die Kosten zu tragen. Beantragt der Gesuchsgegner hingegen Ergänzungsfragen und wird das Gesuch gutgeheissen, ist eine differenzierte Kostenverteilung nach Massgabe der Erfolgs-/Unterliegensquote vorzunehmen ([BGE 139 III 33 E. 2–5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_33#e-2); [BGE 140 III 30 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_30#e-3)).
+Bei einer vorsorglichen Beweisführung in einem **eigenständigen Verfahren** stellt sich die Frage der Kostenverteilung. Massgeblich sind Art. 106 und Art. 107 Abs. 1 lit. f ZPO. Die Kostenverteilung stellt dabei nicht auf Obsiegen und Unterliegen ab; im eigenständigen Verfahren gibt es kein Obsiegen im herkömmlichen Sinn. Beantragt der Gesuchsgegner hingegen Ergänzungsfragen und wird das Gesuch gutgeheissen, ist eine differenzierte Kostenverteilung nach Massgabe der Erfolgs-/Unterliegensquote vorzunehmen.
 
 #### 2. Unentgeltliche Rechtspflege
 
-In einem Verfahren der vorsorglichen Beweisführung **zwecks Abklärung der Prozessaussichten** besteht **kein Anspruch auf unentgeltliche Rechtspflege**. Die unentgeltliche Rechtspflege nach Art. 119 f. ZPO ist auf Verfahren beschränkt, die der Durchsetzung materieller Rechte dienen; die blosse Beweiserhaltung ohne konkrete Rechtsdurchsetzung erfüllt diese Voraussetzung nicht ([BGE 140 III 12 E. 3.3 und 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_12#e-3-3); [BGE 141 I 241 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_241#e-3)).
+In einem Verfahren der vorsorglichen Beweisführung **zwecks Abklärung der Prozessaussichten** besteht **kein Anspruch auf unentgeltliche Rechtspflege**. Die unentgeltliche Rechtspflege nach Art. 119 f. ZPO ist auf Verfahren beschränkt, die der Durchsetzung materieller Rechte dienen; die blosse Beweiserhaltung ohne konkrete Rechtsdurchsetzung erfüllt diese Voraussetzung nicht).
 
 ### VI. Konkretes Anwendungsbeispiel: Auskunftsanspruch im Ehegattenunterhalt
 
-Im familienrechtlichen Kontext kann die Frage entstehen, ob ein materiellrechtlicher Auskunftsanspruch (hier: Art. 170 ZGB) über die Auflösung der Ehe hinaus im Zusammenhang mit einem Verfahren zur **Abänderung des nachehelichen Unterhalts** geltend gemacht werden kann. Das Bundesgericht hat entschieden, dass der Auskunftsanspruch nach Art. 170 ZGB in solchen Fällen über Art. 158 Abs. 1 lit. b ZPO nicht erweitert werden kann — der materiellrechtliche Anspruch ist im ordentlichen Verfahren geltend zu machen ([BGE 143 III 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_113#e-2)).
+Im familienrechtlichen Kontext kann die Frage entstehen, ob ein materiellrechtlicher Auskunftsanspruch (hier: Art. 170 ZGB) über die Auflösung der Ehe hinaus im Zusammenhang mit einem Verfahren zur **Abänderung des nachehelichen Unterhalts** geltend gemacht werden kann. Das Bundesgericht lehnte es im beurteilten Fall ab, das Auskunftsgesuch auf Art. 158 Abs. 1 lit. b ZPO zu stützen — der materiellrechtliche Anspruch ist im ordentlichen Verfahren geltend zu machen.
 
 ### VII. Abgrenzungen
 
@@ -124,20 +129,20 @@ Im familienrechtlichen Kontext kann die Frage entstehen, ob ein materiellrechtli
 
 ### VIII. Beweislast und Glaubhaftmachung im Detail
 
-Die Glaubhaftmachung nach Art. 158 Abs. 1 lit. b ZPO erfordert eine überwiegende Wahrscheinlichkeit für das Vorliegen der Voraussetzungen. Der Massstab liegt bewusst unterhalb des ordentlichen Beweismasses (Art. 150 ZPO). Massgeblich ist ein qualifizierter Wahrscheinlichkeitsgrad, der über eine blosse Möglichkeit hinausgeht, aber keine volle Beweisführung verlangt ([BGE 140 III 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1), E. 2.2.1).
+Die Glaubhaftmachung nach Art. 158 Abs. 1 lit. b ZPO verlangt, dass die Voraussetzungen als wahrscheinlich erscheinen. Der Massstab liegt bewusst unterhalb des ordentlichen Beweismasses (Art. 150 ZPO). Massgeblich ist ein qualifizierter Wahrscheinlichkeitsgrad, der über eine blosse Möglichkeit hinausgeht, aber keine volle Beweisführung verlangt.
 
 Die Beweislast für die Voraussetzungen liegt bei der gesuchstellenden Partei. Bei der Gefährdung der Beweismittel (lit. b, 1. Alt.) muss dargetan werden, dass konkrete Anzeichen für einen drohenden Beweisverlust bestehen (z.B. Zeugenalter, drohende Vernichtung von Dokumenten, bevorstehender Wegzug). Beim schutzwürdigen Interesse (lit. b, 2. Alt.) muss die Prozessaussichten-Relevanz der Beweiserhebung dargelegt werden — eine rein spekulative Beweisführung genügt nicht.
 
-Bei der Frage, ob bereits ein beweistaugliches Gutachten aus einem anderen Verfahren vorliegt, genügt es nicht, auf die blosse Existenz des Gutachtens zu verweisen; die gesuchstellende Partei muss dartun, warum das vorhandene Gutachten für die zu klärende Frage nicht ausreicht ([BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-1), E. 3.3.1).
+Bei der Frage, ob bereits ein beweistaugliches Gutachten aus einem anderen Verfahren vorliegt, genügt es nicht, auf die blosse Existenz des Gutachtens zu verweisen; die gesuchstellende Partei muss dartun, warum das vorhandene Gutachten für die zu klärende Frage nicht ausreicht.
 
 ### IX. Summarisches Verfahren und Verfahrensgrundsätze
 
 Das Verfahren der vorsorglichen Beweisführung richtet sich nach den Bestimmungen über die vorsorglichen Massnahmen (Art. 261–270 ZPO). Dies hat folgende Konsequenzen:
 
-- **Summarische Natur**: Das Verfahren ist summarisch. Das Gericht entscheidet auf dem nach summarischer Beurteilung massgeblichen Sachverhalt ([BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-3-2), E. 3.2).
-- **Kein Anspruch auf Einholung eines zweiten Gutachtens**: Liegt bereits ein beweistaugliches Gutachten vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens ([BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-1), E. 3.3.1).
-- **Nebenintervention**: Eine Nebenintervention ist in einem Verfahren der vorsorglichen Beweisführung «ausserhalb eines Prozesses» zulässig, wenn ein eigenes rechtliches Interesse nachgewiesen wird ([BGE 142 III 40](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_40#e-3-1), E. 3.1).
-- **Fragestellung durch die gesuchstellende Partei**: Verlangt der Gesuchsteller die Einholung eines Gutachtens, obliegt es in erster Linie ihm, dem Gericht die Fragen zu unterbreiten. Das Gericht ist nicht verpflichtet, die relevanten Beweisfragen von sich aus zu formulieren ([BGE 140 III 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-3), E. 2.2.3).
+- **Summarische Natur**: Das Verfahren ist summarisch. Das Gericht entscheidet auf dem nach summarischer Beurteilung massgeblichen Sachverhalt.
+- **Kein Anspruch auf Einholung eines zweiten Gutachtens**: Liegt bereits ein beweistaugliches Gutachten vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens (BGE 140 III 24).
+- **Nebenintervention**: Nach der Rechtsprechung ist eine Nebenintervention in einem Verfahren der vorsorglichen Beweisführung «ausserhalb eines Prozesses» zulässig, wenn ein eigenes rechtliches Interesse nachgewiesen wird.
+- **Fragestellung durch die gesuchstellende Partei**: Verlangt der Gesuchsteller die Einholung eines Gutachtens, obliegt es in erster Linie ihm, dem Gericht die Fragen zu unterbreiten. Über die endgültige Formulierung der Beweisfragen entscheidet das Gericht ([BGE 140 III 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-3), E. 2.2.3).
 - **Polydisziplinäre Gutachten**: Das Gericht hat sicherzustellen, dass die verschiedenen Fachdisziplinen koordiniert zusammenarbeiten und das Gutachten eine einheitliche, verwertbare Grundlage für das künftige Verfahren bietet ([BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-4), E. 3.3.4).
 
 ### X. Zuständigkeit und Anfechtbarkeit
@@ -148,13 +153,13 @@ Die Anfechtbarkeit hängt von der Natur des Entscheids ab:
 
 - **Abweisung des Gesuchs**: Ein Endentscheid, mit dem das Gesuch um vorsorgliche Beweisführung **abgewiesen** wird, ist vor Bundesgericht anfechtbar (Art. 90 BGG; [BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-1-2), E. 1.2).
 - **Gutheissung des Gesuchs**: Ein Zwischenentscheid, mit dem das Gesuch **gutgeheissen** wird, folgt dem Beschwerdeweg der Hauptsache; nur Verfahrensrügen nach Art. 98 BGG sind zulässig ([BGE 138 III 555](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_555#e-1), E. 1).
-- **Kostenentscheid**: Der Kostenentscheid bei vorsorglicher Beweisführung ist nach den allgemeinen Kostenregeln (Art. 106 f. ZPO) zu beurteilen, mit der Besonderheit, dass bei Abweisung des Gesuchs der Gesuchsgegner die Kosten trägt, bei Gutheissung eine differenzierte Verteilung nach Erfolgsquote erfolgt ([BGE 139 III 33](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_33#e-2), E. 2–5; [BGE 140 III 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_30#e-3), E. 3).
+- **Kostenentscheid**: Der Kostenentscheid bei vorsorglicher Beweisführung ist nach den allgemeinen Kostenregeln (Art. 106 f. ZPO) zu beurteilen, wobei die Verteilung im eigenständigen Verfahren nicht auf Obsiegen und Unterliegen abstellt ([BGE 139 III 33](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_33#e-2), E. 2–5; [BGE 140 III 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_30#e-3), E. 3).
 
 ### XI. Verwertbarkeit im Hauptverfahren
 
 Die vorsorglich erhobenen Beweise können in einem späteren Hauptsacheverfahren verwendet werden, entfalten jedoch keine Bindungswirkung für das Hauptverfahren. Das Gericht hat die Beweise frei zu würdigen (Art. 157 ZPO). Dies bedeutet, dass die vorsorgliche Beweisführung zwar die Beweiserhaltung sichert, nicht aber das Ergebnis der Beweiswürdigung im Hauptverfahren präjudiziert.
 
-Der Sachverhalt, der im vorsorglichen Verfahren festgestellt wurde, ist im Hauptverfahren nicht verbindlich — die summarische Feststellung im Rahmen der vorsorglichen Beweisführung bindet das Gericht im Hauptverfahren nicht ([BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-3-2), E. 3.2).
+Der Sachverhalt, der im vorsorglichen Verfahren festgestellt wurde, ist im Hauptverfahren nicht verbindlich — die summarische Feststellung im Rahmen der vorsorglichen Beweisführung bindet das Gericht im Hauptverfahren nicht.
 
 ## Querverweise
 
@@ -168,8 +173,8 @@ Der Sachverhalt, der im vorsorglichen Verfahren festgestellt wurde, ist im Haupt
 - [Art. 156 ZPO](../art-156/) — Wahrung schutzwürdiger Interessen (Schutzmassnahmen analog anwendbar)
 - [Art. 227 ZPO](../art-227/) — Klageänderung (Klageänderung nach vorsorglicher Beweisführung)
 - [Art. 261 ZPO](../art-261/) — Vorsorgliche Massnahmen (Verweis nach Abs. 2)
-- [Art. 400 OR](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_564#e-4) — Rechenschaftsablegung (Abgrenzung: kein Auskunftsanspruch über Art. 158 ZPO)
-- [Art. 170 ZGB](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_113#e-2) — Auskunftsanspruch im Ehegattenrecht (Abgrenzung)
+- Art. 400 OR — Rechenschaftsablegung (Abgrenzung: kein Auskunftsanspruch über Art. 158 ZPO)
+- Art. 170 ZGB — Auskunftsanspruch im Ehegattenrecht (Abgrenzung)
 
 ## Literatur
 
