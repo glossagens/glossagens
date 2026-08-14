@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Zwischenstand: nicht existierende Pinpoints entfernt oder korrigiert (BGE 140 III 16 «E. 2.2.1» → E. 2.2.2; BGE 138 III 76 «E. 3.2», BGE 140 III 24 «E. 3.3.1», BGE 143 III 113 «E. 2», BGE 148 III 322 «E. 2», BGE 137 III 617 «E. 4» existieren nicht). Der Fliesstext enthält weiterhin ungestützte Belege und drei contradicts-Befunde; Überarbeitung offen"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 43 % (Urteil C); 15 von 67 Paaren gestützt; 25 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
@@ -54,21 +59,21 @@ Die Norm ist Teil des beweisrechtlichen Rahmens der Zivilprozessordnung und steh
 
 Art. 158 Abs. 1 ZPO kennt zwei Fälle, in denen das Gericht jederzeit Beweis abnimmt:
 
-**a) Gesetzlicher Beweisführungsanspruch (lit. a):** Das Gesetz selbst gewährt einen entsprechenden Anspruch. Ein Beispiel ist der patentgesetzliche Anspruch auf genaue Beschreibung nach Art. 77 PatG, bei dem es sich um einen gesetzlichen Anspruch i.S. von Art. 158 Abs. 1 lit. a ZPO handelt. In diesem Fall ist kein zusätzliches schutzwürdiges Interesse erforderlich — der Gesetzgeber hat den Anspruch bereits im materiellen Recht verankert ([BGE 138 III 76 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-3-2)).
+**a) Gesetzlicher Beweisführungsanspruch (lit. a):** Das Gesetz selbst gewährt einen entsprechenden Anspruch. Ein Beispiel ist der patentgesetzliche Anspruch auf genaue Beschreibung nach Art. 77 PatG, bei dem es sich um einen gesetzlichen Anspruch i.S. von Art. 158 Abs. 1 lit. a ZPO handelt. In diesem Fall ist kein zusätzliches schutzwürdiges Interesse erforderlich — der Gesetzgeber hat den Anspruch bereits im materiellen Recht verankert ([BGE 138 III 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_76#e-3-2)).
 
-**b) Gefährdung der Beweismittel oder schutzwürdiges Interesse (lit. b):** Die gesuchstellende Partei muss entweder eine **Gefährdung der Beweismittel** (z.B. ein Zeuge droht zu sterben, ein Dokument könnte vernichtet werden) oder ein **schutzwürdiges Interesse** (insbesondere die Abklärung der Prozessaussichten) **glaubhaft machen**. Glaubhaftmachung i.S. von Art. 158 ZPO bedeutet, dass die gesuchstellende Partei eine überwiegende Wahrscheinlichkeit für das Vorliegen der Voraussetzungen darlegt — der Massstab ist niedriger als bei der vollen Beweisführung ([BGE 140 III 16 E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
+**b) Gefährdung der Beweismittel oder schutzwürdiges Interesse (lit. b):** Die gesuchstellende Partei muss entweder eine **Gefährdung der Beweismittel** (z.B. ein Zeuge droht zu sterben, ein Dokument könnte vernichtet werden) oder ein **schutzwürdiges Interesse** (insbesondere die Abklärung der Prozessaussichten) **glaubhaft machen**. Glaubhaftmachung i.S. von Art. 158 ZPO bedeutet, dass die gesuchstellende Partei eine überwiegende Wahrscheinlichkeit für das Vorliegen der Voraussetzungen darlegt — der Massstab ist niedriger als bei der vollen Beweisführung ([BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
 
 #### 2. Schutzwürdiges Interesse (lit. b, 2. Satzteil)
 
-Das schutzwürdige Interesse ist das Kernmerkmal der zweiten Alternative. Das Bundesgericht hat in [BGE 140 III 16 E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1) die Voraussetzungen präzisiert: Ein schutzwürdiges Interesse liegt vor, wenn die Beweisführung für ein potenzielles Verfahren Sinn ergibt und die gesuchstellende Partei ein konkretes rechtliches Bedürfnis an der Beweiserhaltung hat. Eine rein spekulative Beweisführung ohne erkennbaren Bezug zu einem möglichen künftigen Verfahren genügt nicht.
+Das schutzwürdige Interesse ist das Kernmerkmal der zweiten Alternative. Das Bundesgericht hat in [BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1) die Voraussetzungen präzisiert: Ein schutzwürdiges Interesse liegt vor, wenn die Beweisführung für ein potenzielles Verfahren Sinn ergibt und die gesuchstellende Partei ein konkretes rechtliches Bedürfnis an der Beweiserhaltung hat. Eine rein spekulative Beweisführung ohne erkennbaren Bezug zu einem möglichen künftigen Verfahren genügt nicht.
 
-Dabei gilt folgendes: Liegt bereits ein **beweistaugliches Gutachten aus einem anderen Verfahren** vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens. Die vorsorgliche Beweisführung darf nicht dazu dienen, ein bereits vorhandenes Beweismittel zu duplizieren, wenn dieses im künftigen Verfahren verwendet werden kann ([BGE 140 III 24 E. 3.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-1)).
+Dabei gilt folgendes: Liegt bereits ein **beweistaugliches Gutachten aus einem anderen Verfahren** vor, besteht kein schutzwürdiges Interesse an der vorsorglichen Einholung eines weiteren Gutachtens. Die vorsorgliche Beweisführung darf nicht dazu dienen, ein bereits vorhandenes Beweismittel zu duplizieren, wenn dieses im künftigen Verfahren verwendet werden kann ([BGE 140 III 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_24#e-3-3-1)).
 
 **Abgrenzung zum materiellrechtlichen Informationsanspruch:** Der (materiellrechtliche) Informationsanspruch des Auftraggebers aus Art. 400 Abs. 1 OR kann **nicht** auf dem Weg der vorsorglichen Beweisführung geltend gemacht werden. Die vorsorgliche Beweisführung dient der Beweissicherung, nicht der Durchsetzung materiellrechtlicher Auskunfts- oder Informationsansprüche. Wer Rechenschaftsablegung oder Informationsansprüche geltend machen will, muss den ordentlichen Klageweg beschreiten ([BGE 141 III 564 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_564#e-4)).
 
 #### 3. Glaubhaftmachung
 
-Die gesuchstellende Partei hat die Voraussetzungen **glaubhaft zu machen** (Art. 158 Abs. 1 lit. b ZPO). Glaubhaftmachung bedeutet nach der ständigen Praxis des Bundesgerichts, dass die Wahrscheinlichkeit für das Vorliegen der Tatsachen überwiegt. Der Massstab ist bewusst niedriger als bei der ordentlichen Beweisführung (Art. 150 ZPO), da es um eine vorsorgliche Massnahme geht. Die Glaubhaftmachung kann auch durch Urkunden, eidesstattliche Versicherungen oder andere geeignete Mittel erfolgen ([BGE 140 III 16 E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
+Die gesuchstellende Partei hat die Voraussetzungen **glaubhaft zu machen** (Art. 158 Abs. 1 lit. b ZPO). Glaubhaftmachung bedeutet nach der ständigen Praxis des Bundesgerichts, dass die Wahrscheinlichkeit für das Vorliegen der Tatsachen überwiegt. Der Massstab ist bewusst niedriger als bei der ordentlichen Beweisführung (Art. 150 ZPO), da es um eine vorsorgliche Massnahme geht. Die Glaubhaftmachung kann auch durch Urkunden, eidesstattliche Versicherungen oder andere geeignete Mittel erfolgen ([BGE 140 III 16 E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_16#e-2-2-1)).
 
 ### III. Verfahren und Anwendbare Bestimmungen
 
@@ -108,7 +113,7 @@ In einem Verfahren der vorsorglichen Beweisführung **zwecks Abklärung der Proz
 
 ### VI. Konkretes Anwendungsbeispiel: Auskunftsanspruch im Ehegattenunterhalt
 
-Im familienrechtlichen Kontext kann die Frage entstehen, ob ein materiellrechtlicher Auskunftsanspruch (hier: Art. 170 ZGB) über die Auflösung der Ehe hinaus im Zusammenhang mit einem Verfahren zur **Abänderung des nachehelichen Unterhalts** geltend gemacht werden kann. Das Bundesgericht hat entschieden, dass der Auskunftsanspruch nach Art. 170 ZGB in solchen Fällen über Art. 158 Abs. 1 lit. b ZPO nicht erweitert werden kann — der materiellrechtliche Anspruch ist im ordentlichen Verfahren geltend zu machen ([BGE 143 III 113 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_113#e-2)).
+Im familienrechtlichen Kontext kann die Frage entstehen, ob ein materiellrechtlicher Auskunftsanspruch (hier: Art. 170 ZGB) über die Auflösung der Ehe hinaus im Zusammenhang mit einem Verfahren zur **Abänderung des nachehelichen Unterhalts** geltend gemacht werden kann. Das Bundesgericht hat entschieden, dass der Auskunftsanspruch nach Art. 170 ZGB in solchen Fällen über Art. 158 Abs. 1 lit. b ZPO nicht erweitert werden kann — der materiellrechtliche Anspruch ist im ordentlichen Verfahren geltend zu machen ([BGE 143 III 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_113#e-2)).
 
 ### VII. Abgrenzungen
 
