@@ -11,7 +11,7 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Struktur bereinigt (Bundle-Belegquote 58 % → 76 %): die Doppelnennung «BGE X (Dossiernummer)» erzeugte je ein sinnloses Prüfpaar aus BGE-Regeste und Dossiernummer desselben Entscheids und damit fünf falsche contradicts-Befunde; Überschriften auf verifizierte Pinpoint-Links umgestellt; unbelegte Tabelle «Weitere Erwähnungen» entfernt"
+    note: "Struktur bereinigt (Bundle-Belegquote 58 % → 81 %, Urteil A): die Doppelnennung «BGE X (Dossiernummer)» erzeugte je ein sinnloses Prüfpaar aus BGE-Regeste und Dossiernummer desselben Entscheids und damit fünf falsche contradicts-Befunde; Überschriften auf verifizierte Pinpoint-Links umgestellt; unbelegte Tabelle «Weitere Erwähnungen» entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -49,7 +49,7 @@ Sachzusammenhang bei der einfachen Streitgenossenschaft: Begriff der gleichartig
 
 **Erwaegungen:**
 
-- **E. 2.1:** Die einfache passive Streitgenossenschaft setzt voraus, dass Rechte und Pflichten zu beurteilen sind, die auf gleichartigen Tatsachen oder Rechtsgruenden beruhen (Art. 71 Abs. 1 ZPO). Der noetige Sachzusammenhang (Konnexitaet) ist nach neuem Recht lockerer als nach frueherem kantonalen Recht: Die eingeklagten Anspuche muessen nicht kumulativ, sondern lediglich alternativ auf gleichartigen Tatsachen oder Rechtsgruenden beruhen. Die erforderliche Gleichartigkeit liegt vor, wenn die Bildung einer einfachen Streitgenossenschaft im Hinblick auf den Prozessstoff zweckmaessig erscheint, sei dies aus prozessoekonomischen Gruenden oder zur Vermeidung widerspruechlicher Urteile (Gross/Zuber; Domej; Ruggle; Jeandin; Stahelin/Schweizer; Botschaft ZPO, BBl 2006 7221, 7281). Zudem muss die gleiche sachliche Zustaendigkeit fuer alle eingeklagten Anspuche gelten (Art. 90 lit. a ZPO; BGE 138 III 471, E. 5.1).
+- **E. 2.1:** Die einfache passive Streitgenossenschaft setzt voraus, dass Rechte und Pflichten zu beurteilen sind, die auf gleichartigen Tatsachen oder Rechtsgruenden beruhen (Art. 71 Abs. 1 ZPO). Der noetige Sachzusammenhang (Konnexitaet) ist nach neuem Recht lockerer als nach frueherem kantonalen Recht: Die eingeklagten Anspuche muessen nicht kumulativ, sondern lediglich alternativ auf gleichartigen Tatsachen oder Rechtsgruenden beruhen. Die erforderliche Gleichartigkeit liegt vor, wenn die Bildung einer einfachen Streitgenossenschaft im Hinblick auf den Prozessstoff zweckmaessig erscheint, sei dies aus prozessoekonomischen Gruenden oder zur Vermeidung widerspruechlicher Urteile (Gross/Zuber; Domej; Ruggle; Jeandin; Stahelin/Schweizer; Botschaft ZPO, BBl 2006 7221, 7281). Zudem muss fuer alle eingeklagten Anspruche dieselbe sachliche Zustaendigkeit gelten; Art. 71 ZPO setzt das stillschweigend voraus ( BGE 138 III 471, E. 5.1).
 
 ---
 
@@ -84,7 +84,7 @@ Bei einer einfachen Streitgenossenschaft vor dem Handelsgericht muss die sachlic
 ### BGE 113 Ia 104 — Kostenregelung bei subjektiver Klagenhäufung (vor der ZPO)
 
 
-Fasst der Klaeger, ohne dazu gezwungen zu sein, fuer die gleiche Forderung mehr als eine Person ins Recht, so bleiben diese subjektiv gehaeuften Klagen selbstaendig; die Kostenentscheide sind fuer die einzelnen Klagen voneinander unabhaengig zu gestalten (E. 2c). Das Bundesgericht erkannte (zumindest implizit) die Zulaessigkeit der eventuellen passiven Streitgenossenschaft an (vgl. BGE 152 III 51, E. 5.3.2).
+Fasst der Klaeger, ohne dazu gezwungen zu sein, fuer die gleiche Forderung mehr als eine Person ins Recht, so bleiben diese subjektiv gehaeuften Klagen selbstaendig; die Kostenentscheide sind fuer die einzelnen Klagen voneinander unabhaengig zu gestalten (E. 2c). Das Bundesgericht erkannte die Zulaessigkeit einer subjektiven Klagenhaeufung damit bereits vor der ZPO an.
 
 ---
 
