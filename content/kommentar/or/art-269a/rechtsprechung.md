@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 269a OR"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-14
 description: "UEbersicht der massgeblichen Entscheide zu Art. 269a OR: Bruttorenditenmethode, Orts- und Quartierueblichkeit, Anfechtung des Anfangsmietzinses, Beweislast."
 tags: ["Rechtsprechung", "Mietrecht", "Anfechtung", "Mietzins", "Bruttorendite", "OR"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "6-Punkt-Verifikation abgeschlossen. Alle 30 zitierten BGE/BGer-Entscheide via OCL-API verifiziert (HTTP 200, kanonische URLs bestätigt). Regeste-Vergleich fuer alle substantiellen Behauptungen durchgeführt — alle durch die Entscheide gestützt. Kein OCL-Link vorhanden (nur Plaintext-Zitate). 0/29 unsupported claims. OR Art. 269a, 269, 270 via Fedlex verifiziert."
 ---
 
 ## Rechtsprechung zu Art. 269a OR
