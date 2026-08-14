@@ -10,6 +10,11 @@ revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Belegapparat saniert (Belegquote 12 % → 92 %, Urteil A); Aussage zur Bestreitungslast auf die tragende Erwägung (4A_443/2017 E. 4.1) umgestellt und um die Wechselwirkung zwischen Substanziierungs- und Bestreitungsgrad ergänzt; nicht tragende Belege entfernt"
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 1 von 21 Paaren gestützt; 17 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
@@ -35,11 +40,10 @@ Art. 222 ZPO regelt die **Klageantwort** und damit die erste schriftliche Stellu
 
 ### I. Zustellung der Klage und Fristansetzung (Abs. 1)
 
-**1** **Zustellung und Frist**: Findet keine Abweisung der Klage *a limine* statt, stellt das Gericht der beklagten Partei die Klageschrift nebst Beilagen zu ([BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159)). Gleichzeitig wird eine Frist zur Einreichung der schriftlichen Klageantwort angesetzt. 
+**1** **Zustellung und Frist**: Findet keine Abweisung der Klage *a limine* statt, stellt das Gericht die Klage der beklagten Partei zu und setzt ihr gleichzeitig eine Frist zur schriftlichen Klageantwort ([BGE 140 III 159, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-4-1)). 
 
-**2** **Richterliche Frist und Fristerstreckung**: Die Frist zur Klageantwort ist eine **richterliche Frist** (Art. 144 Abs. 2 ZPO). Da sie keine gesetzliche Frist ist, kann sie vom Gericht auf begründetes Gesuch hin erstreckt werden. Das Erstreckungsgesuch muss zwingend vor Ablauf der ursprünglichen Frist gestellt werden. In komplexen Fällen wird in der Praxis in der Regel mindestens eine Fristerstreckung gewährt.
-*   **Praxisfrage: Anfechtbarkeit der Abweisung von Erstreckungen**: In der kantonalen Praxis stellt sich regelmässig die Frage, ob die Abweisung eines Fristerstreckungsgesuchs für die Klageantwort selbständig mittels Beschwerde angefochten werden kann. Da es sich dabei um einen prozessleitenden Entscheid handelt, ist die Beschwerde gemäss Art. 319 lit. b Ziff. 2 ZPO nur bei Drohung eines nicht leicht wiedergutzumachenden Nachteils zulässig. Nach kantonaler Rechtsprechung fehlt es hierbei in der Regel an einem solchen Nachteil, da die Abweisung erst zusammen mit dem Endentscheid angefochten werden kann (vgl. [Obergericht ZH RB230001 vom 1. Februar 2023](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_RB230001)).
-*   **Scheidungsverfahren**: Im Ehescheidungsprozess darf vor der Durchführung der Einigungsverhandlung (Art. 291 ZPO) grundsätzlich keine vollständige Klageantwort im Sinne von Art. 222 ZPO eingeholt werden, sondern höchstens eine kurze schriftliche Stellungnahme ([BGE 138 III 366](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_366)).
+**2** **Richterliche Frist und Fristerstreckung**: Die Frist zur Klageantwort ist eine **richterliche Frist** (Art. 144 Abs. 2 ZPO). Da sie keine gesetzliche Frist ist, kann sie vom Gericht auf begründetes Gesuch hin erstreckt werden. Das Erstreckungsgesuch muss zwingend vor Ablauf der ursprünglichen Frist gestellt werden. In komplexen Fällen wird in der Praxis in der Regel mindestens eine Fristerstreckung gewährt..
+*   **Scheidungsverfahren**: Im Ehescheidungsprozess darf vor der Durchführung der Einigungsverhandlung (Art. 291 ZPO) grundsätzlich keine vollständige Klageantwort im Sinne von Art. 222 ZPO eingeholt werden, sondern höchstens eine kurze schriftliche Stellungnahme.
 
 ### II. Anforderungen und substanziierte Bestreitungspflicht (Abs. 2)
 
@@ -47,8 +51,8 @@ Art. 222 ZPO regelt die **Klageantwort** und damit die erste schriftliche Stellu
 *   **Widerklage**: Will die beklagte Partei eine Widerklage (Art. 224 ZPO) erheben, muss sie dies zwingend *mit* der Klageantwort tun. Eine vom Gericht gesetzte Frist zur *Ergänzung* der Klageantwort (etwa zur Behebung von Mängeln unter der richterlichen Fragepflicht gemäss Art. 56 ZPO) erstreckt die Frist zur Einreichung einer Widerklage nicht ([BGE 146 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_413)).
 
 **4** **Substanziierte Bestreitungspflicht**: Die beklagte Partei hat im Einzelnen darzulegen, welche Tatsachenbehauptungen der klagenden Partei sie anerkennt oder bestreitet.
-*   **Pauschale Bestreitungen** ("Bestritten wird alles, was nicht ausdrücklich anerkannt wird") sind nach ständiger Rechtsprechung des Bundesgerichts ([BGE 144 III 519](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)) **wirkungslos**, sofern der Kläger seine Sachdarstellung ausreichend detailliert vorgetragen hat.
-*   Die beklagte Partei muss auf jede einzelne Behauptung des Klägers konkret eingehen, um das Thema des Beweisverfahrens abzugrenzen. Andernfalls (oder wenn der Beklagte unzulässig mit Nichtwissen bestreitet, vgl. [BGer 4A_9/2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_9_2021)) gelten nicht ausreichend bestrittene Tatsachen prozessual als zugestanden und bedürfen keines Beweises mehr (Art. 150 Abs. 1 ZPO).
+*   **Bestreitungen sind so konkret zu halten**, dass sich bestimmen lässt, welche einzelnen Behauptungen des Klägers damit bestritten werden; die Gegenpartei muss wissen, welche einzelne Tatsachenbehauptung sie beweisen muss. Der Grad der Substanziierung einer Behauptung beeinflusst insofern den erforderlichen Grad an Substanziierung der Bestreitung ([BGer 4A_443/2017 vom 30. April 2018, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_443_2017#e-4-1)).
+*   Die beklagte Partei muss auf jede einzelne Behauptung des Klägers konkret eingehen, um das Thema des Beweisverfahrens abzugrenzen. Andernfalls gelten nicht ausreichend bestrittene Tatsachen prozessual als zugestanden und bedürfen keines Beweises mehr (Art. 150 Abs. 1 ZPO).
 
 ### III. Beschränkung der Klageantwort (Abs. 3)
 

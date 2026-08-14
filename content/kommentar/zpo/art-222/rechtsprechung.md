@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 222 ZPO"
 weight: 2
 date: 2026-07-18
 lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 222 ZPO — Klageantwort, Schriftenwechsel, Säumnisfolgen."
-tags: ["Rechtsprechung", "ZPO", "Klageantwort", "Schriftenwechsel", "Säumnis"]
+description: "Übersicht der Rechtsprechung zu Art. 222 ZPO — Zustellung und Fristansetzung, Anforderungen an die Bestreitung, Säumnisfolgen."
+tags: ["Rechtsprechung", "ZPO", "Klageantwort", "Bestreitung", "Säumnis"]
 agent_verified: false
 revisions:
+  - date: 2026-08-13
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Neuaufbau nach Audit (Belegquote 12 %, Urteil C, 1 von 21 Paaren gestützt): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,72 +21,53 @@ revisions:
 
 # Rechtsprechung zu Art. 222 ZPO
 
-Art. 222 ZPO regelt die Klageantwort und den Schriftenwechsel im ordentlichen Verfahren. Die nachstehende Übersicht fasst die wichtigsten BGer/BGE-Entscheide zusammen, die sich mit Fristsetzung, Säumnisfolgen, Nova im Schriftenwechsel und Aktenschluss befassen.
+Jeder Eintrag nennt die Erwägung, die die wiedergegebene Aussage trägt.
 
-## I. Leitentscheide
+## I. Zustellung und Fristansetzung (Abs. 1)
 
-### [BGE 140 III 159](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159) (7.5.2014)
+### [BGE 140 III 159, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-4-1) (7.5.2014)
 
-Das Bundesgericht präzisiert die Ermessensausübung bei der Fristsetzung für die Klageantwort gemäss Art. 222 ZPO. Die Frist muss angemessen sein und dem Beklagten ausreichend Gelegenheit geben, sich rechtlich und faktisch zur Klage zu äussern. Eine zu kurz bemessene Frist kann einen Verfahrensmangel darstellen, der zur Aufhebung des Entscheids führt.
+**Kernaussage**: Das Gericht stellt die Klage der beklagten Partei zu und setzt ihr gleichzeitig eine Frist zur schriftlichen Klageantwort (Art. 222 Abs. 1 ZPO).
 
-### [BGE 146 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_413) (17.8.2020)
+Der Entscheid entscheidet zugleich die praktisch heikle Anschlussfrage: Das Gericht ist **nicht** gehalten, mit Zustellung und Fristansetzung zuzuwarten, bis der Kostenvorschuss geleistet ist. Für die klagende Partei bedeutet das ein Kostenrisiko, wenn sie den Vorschuss nicht rechtzeitig leistet.
 
-Dieser Entscheid behandelt den Übergang vom Schriftenwechsel zum Aktenschluss und die damit verbundene Frage der Rechtsweggarantie. Das Bundesgericht betont, dass der Aktenschluss eine zentrale Verfahrensschwelle darstellt, nach deren Eintritt grundsätzlich keine neuen Sachvorbringen mehr zulässig sind. Die genaue Bestimmung des Zeitpunkts des Aktenschlusses liegt im Ermessen des Gerichts.
+## II. Anforderungen an die Bestreitung (Abs. 2)
 
-### [BGE 132 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_1) (30.8.2005)
+### [BGer 4A_443/2017 vom 30. April 2018, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_443_2017#e-4-1)
 
-Der Entscheid befasst sich mit den Säumnisfolgen im kontradiktorischen Verfahren und der Wahrung des Anspruchs auf rechtliches Gehör. Das Bundesgericht hält fest, dass Säumnis einer Partei nicht automatisch zur Sachbehandlung gegen sie führt, wenn das Gericht den Sachverhalt dennoch von Amtes wegen abklären muss. Der Kontradiktionsgrundsatz bleibt auch bei Säumnis gewahrt.
+**Kernaussage**: Bestreitungen sind so konkret zu halten, dass sich bestimmen lässt, welche einzelnen Behauptungen des Klägers damit bestritten werden; die Bestreitung muss ihrem Zweck entsprechend so konkret sein, dass die Gegenpartei weiss, welche einzelne Tatsachenbehauptung sie beweisen muss (Art. 222 Abs. 2 ZPO). Der Grad der Substanziierung einer Behauptung beeinflusst insofern den erforderlichen Grad an Substanziierung der Bestreitung.
 
-### [BGE 138 III 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483) (28.6.2012)
+Der praktisch wichtigste Satz zu Abs. 2 — und eine **Wechselwirkung**, die häufig übersehen wird: Je detaillierter die klagende Partei behauptet, desto detaillierter muss bestritten werden. Wer pauschal bestreitet, riskiert, dass die Behauptung als unbestritten gilt.
 
-Das Bundesgericht äussert sich zu den Säumnisfolgen im Schriftenwechsel und zur Gewährung einer Nachfrist. Eine säumige Partei verliert das Recht zur Klageantwort oder Replik, sofern das Gericht keine Nachfrist gewährt, was ausnahmsweise bei entschuldbarer Versäumnis zulässig ist. Die Anforderungen an die Entschuldigung sind streng.
+## III. Säumnis
 
-### [BGE 148 III 95](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_95) (7.12.2021)
+### [BGE 138 III 483, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_483#e-3-2) (28.6.2012)
 
-Der Entscheid klärt die Frage der Zulässigkeit von Nova im Schriftenwechsel nach Art. 222 ZPO und die Grenzen nachträglicher Sachvorbringen. Das Bundesgericht unterscheidet zwischen echten und unechten Nova und stellt strenge Anforderungen an die Unverzüglichkeit ihres Beizugs. Unechte Nova sind nur zulässig, wenn sie bereits im ersten Schriftenwechsel hätten vorgebracht werden können.
+**Kernaussage**: Im ordentlichen Verfahren setzt das Gericht bei versäumter Klageantwort der beklagten Partei nach Art. 223 Abs. 1 ZPO eine kurze Nachfrist an.
 
-### [BGE 142 III 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_413) (25.5.2016)
+Die Nachfrist ist die Folge der Säumnis nach Art. 222 ZPO im ordentlichen Verfahren. In anderen Verfahrensarten gilt sie nicht ohne Weiteres: Im summarischen Rechtsöffnungsverfahren wird sie nach demselben Entscheid (E. 3.3) nicht angesetzt.
 
-Das Bundesgericht präzisiert das Unverzüglichkeitsgebot beim Beizug von Nova im Schriftenwechsel. Nova müssen grundsätzlich in der ersten nach ihrer Entdeckung möglichen Rechtsschrift vorgebracht werden, andernfalls gelten sie als verspätet. Die Unverzüglichkeit ist eine prozessuale Obliegenheit der Partei, deren Verletzung zur Sanktionierung führt.
+## Audit-Protokoll
 
-### [BGE 140 III 450](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_450) (1.9.2014)
+Beim Audit vom 13.08.2026 war von 21 Belegpaaren genau **eines** gestützt (Belegquote
+12 %, Urteil C) — der zweitschlechteste Wert im gesamten ZPO-Bestand. Die Übersicht
+wurde verworfen und neu aufgebaut.
 
-Dieser Entscheid behandelt das Verhältnis zwischen Schriftenwechsel und Hauptverhandlung. Das Bundesgericht betont, dass der Schriftenwechsel der Vorbereitung der Hauptverhandlung dient und nach dessen Abschluss grundsätzlich keine neuen Tatsachen mehr vorgebracht werden können. Die Hauptverhandlung dient der Ergänzung und Abklärung, nicht der Einführung neuer Streitstoffvorbringen.
+Nicht übernommen wurden BGE 132 I 1, BGE 138 III 366, BGE 139 III 358, BGE 140 III 450,
+BGE 141 III 481, BGE 142 III 413, BGE 143 III 42, BGE 144 III 519, BGE 145 III 153,
+BGE 146 III 55, BGE 146 III 413, BGE 148 III 95, BGE 148 III 105 sowie BGer 4A_29/2014
+und 4A_9/2021. Die Entscheide existieren; die ihnen zugeschriebenen Aussagen liessen
+sich in keiner Erwägung nachweisen. Der kantonale Entscheid (Obergericht Zürich
+RB230001) ist nicht mehr als Beleg geführt, weil für kantonale Entscheide keine
+Erwägungen erschlossen sind.
 
-### [BGE 146 III 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_55) (6.8.2019)
+Auffällig auch hier die Überschneidung mit den Referenzlisten benachbarter Artikel:
+BGE 139 III 358, BGE 140 III 159, BGE 142 III 413, BGE 145 III 153 und BGE 148 III 105
+standen zugleich bei Art. 95, 98, 101 oder 107 — jeweils mit anderer Aussage.
 
-Der Entscheid befasst sich mit der Behandlung von Nova im Rahmen des Schriftenwechsels und den Anforderungen an ihre Zulässigkeit. Das Bundesgericht betont, dass der Schriftenwechsel die primäre Gelegenheit zum Beizug neuer Tatsachen und Beweismittel darstellt. Nach Abschluss des Schriftenwechsels sind Nova nur noch in engen Ausnahmen zulässig.
+Die neue Übersicht ist kurz. Zu Abs. 3 (Widerklage) und zu den Rechtsbegehren der
+Klageantwort liess sich in der verfügbaren Zeit keine belegte Aussage gewinnen; die
+Lücke ist ausgewiesen.
 
-## II. Weitere BGer-Entscheide
-
-### [BGer 4A_29/2014](https://mcp.opencaselaw.ch/entscheid/bger_4A_29_2014) (7.5.2014)
-
-Das Bundesgericht befasst sich mit der Frist für die Klageantwort und den Anforderungen an eine begründete Fristverlängerung. Die Fristsetzung liegt im pflichtgemässen Ermessen des Gerichts und kann nur bei besonderen Umständen verlängert werden. Eine ungenügend begründete Verlängerungsbegehren ist abzuweisen.
-
-### [BGer 4A_443/2017](https://mcp.opencaselaw.ch/entscheid/bger_4A_443_2017) (30.4.2018)
-
-Der Entscheid behandelt die Ausgestaltung des Schriftenwechsels und die Frage der Anzahl zulässiger Schriftsätze. Das Bundesgericht bestätigt, dass das Gericht die Anzahl der Schriftsätze beschränken darf, sofern der kontradiktorische Grundsatz gewahrt bleibt. Eine ungleiche Behandlung der Parteien im Schriftenwechsel ist unzulässig.
-
-### [BGE 143 III 42](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_42) (24.11.2016)
-
-Das Bundesgericht äussert sich zum Verhältnis zwischen Schriftenwechsel und Nova-Beizug. Der Schriftenwechsel ist der regelmässige Ort für den Beizug neuer Tatsachen und Beweismittel. Nachträgliche Nova sind nur ausnahmsweise und bei Wahrung der Unverzüglichkeit zulässig.
-
-### [BGE 148 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_105) (31.8.2021)
-
-Der Entscheid behandelt allgemeine Verfahrensgrundsätze im Zusammenhang mit dem Schriftenwechsel und der Klageantwort. Das Bundesgericht betont die Bedeutung der rightlichen Gehörs und der Kontradiktion im schriftlichen Verfahren. Die Einhaltung der prozessualen Fristen ist eine wesentliche Voraussetzung für eine faire Verfahrensführung.
-
-### [BGE 139 III 358](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_358) (22.8.2013)
-
-Das Bundesgericht befasst sich mit den Kostenfolgen von Säumnis im Schriftenwechsel. Säumnis kann zu einer ungerechtfertigten Prozesskostenverteilung zulasten der säumigen Partei führen. Die Kostenverteilung folgt dem Verursacherprinzip, wonach die Partei trägt, die die Säumnis verursacht hat.
-
-### [BGE 141 III 481](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_481) (14.10.2015)
-
-Der Entscheid behandelt prozessuales Fehlverhalten im Rahmen des Schriftenwechsels und die entsprechenden Sanktionen. Das Bundesgericht bestätigt, dass prozessuales Fehlverhalten wie verspätetes Vorbringen oder Säumnis mit prozessualen Nachteilen sanktioniert werden kann. Die Sanktionierung muss verhältnismässig sein und den Grundsatz der Verhältnismässigkeit wahren.
-
-### [BGE 145 III 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_153) (26.2.2019)
-
-Das Bundesgericht äussert sich zur Anschlussberufung und deren Verhältnis zum Schriftenwechsel. Die Anschlussberufung ist an die gleiche Fristenordnung gebunden wie die Hauptberufung und muss innerhalb der gesetzlichen Frist eingereicht werden. Der Schriftenwechsel in der Berufungsinstanz folgt denselben Grundsätzen wie im ersten Rechtszug.
-
----
-
-*Letzte Aktualisierung: 2026-07-18*
+Geprüft wurde über die opencaselaw-MCP (`cite`, `get_regeste`, `get_erwaegung`,
+`find_relevant_erwaegung`, `check_claim_support`).
