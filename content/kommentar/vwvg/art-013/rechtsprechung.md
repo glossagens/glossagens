@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 13 VwVG"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 13 VwVG – Mitwirkung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "Mitwirkungspflicht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 0 offene Befunde): Pinpoint-Anker korrigiert, generische nicht verifizierbare Einzelfall-Abschnitte (Ausländerrecht/Sozialversicherung/Finanzmarktrecht mit 2C_27/2018, 2C_165/2018, 8C_481/2013, 9C_669/2016, 2C_227/2024) sowie BGE 124 II 361 und 122 II 385 (nicht einschlägige Kernaussagen) entfernt; redundante Übersichtstabelle durch Abschnitt 'Entfernte Entscheide' ersetzt."
+  - date: 2026-08-09
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Rechtsprechung zu Art. 13 VwVG — Mitwirkung der Parteien
@@ -14,14 +25,14 @@ agent_verified: true
 
 #### [BGE 110 V 48](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_48) (7'738 Zit.)
 - **Thema**: Anfechtungsgegenstand, Streitgegenstand, Untersuchungsgrundsatz
-- **Kernaussage**: Verfügung als Anfechtungsgegenstand und damit Sachurteilsvoraussetzung des nachfolgenden Beschwerdeverfahrens; Abgrenzung des Anfechtungsgegenstandes vom Streitgegenstand. Der Streitgegenstand ist das angefochtene Verfügungsdispositiv; Teilfaktoren wie Invaliditätsgrad und Berechnungsgrundlagen sind Teil des Streitgegenstands. Tragweite des Untersuchungsgrundsatzes und der Rechtsanwendung von Amtes wegen im Hinblick auf die Mitwirkungspflichten der Parteien und das Rügeprinzip.
+- **Kernaussage**: Abgrenzung des Anfechtungsgegenstandes (die Verfügung) vom Streitgegenstand (das angefochtene Verfügungsdispositiv); Bedeutung dieser Abgrenzung für den Umfang der behördlichen Untersuchungspflicht.
 - **Einschlägig für**: Abs. 1 lit. a (allgemeine Mitwirkungspflicht)
 
 ---
 
 ### B. Mitwirkungspflicht in selbst initiierten Verfahren (lit. a)
 
-#### [BGE 132 II 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_113) E. 3 (1'023 Zit.)
+#### [BGE 132 II 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_113#e-3-1) (1'023 Zit.)
 - **Thema**: Einbürgerung, Mitwirkungspflicht, Offenbarungspflicht
 - **Kernaussage**: Weiss die Partei, dass die Voraussetzungen für die erleichterte Einbürgerung im Zeitpunkt der Verfügung erfüllt sein müssen, und erklärt sie, in einer stabilen Ehe zu leben, so hat sie die Behörde unaufgefordert über eine nachträgliche Änderung der Verhältnisse zu orientieren, von der sie weiss oder wissen muss, dass sie einer erleichterten Einbürgerung entgegensteht.
 - **Einschlägig für**: Abs. 1 lit. a (Umfang der Mitwirkungspflicht bei eigenen Begehren)
@@ -31,7 +42,7 @@ agent_verified: true
 - **Kernaussage**: Besteht aufgrund des Ereignisablaufs die tatsächliche Vermutung, die Einbürgerung sei erschlichen worden, obliegt es dem Betroffenen, die Vermutung durch den Gegenbeweis umzustürzen. Voraussetzungen für den Erwerb des Schweizer Bürgerrechts und die Nichtigerklärung der erleichterten Einbürgerung.
 - **Einschlägig für**: Abs. 1 lit. a (Beweislast bei Mitwirkungsverweigerung)
 
-#### [BGE 140 II 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_65) E. 2–4 (553 Zit.)
+#### [BGE 140 II 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_65#e-3-3) (553 Zit.)
 - **Thema**: Einbürgerung, Verschweigen von Straftaten, Verhältnismässigkeit
 - **Kernaussage**: Erklärt der Bewerber im Einbürgerungsverfahren wahrheitswidrig unter Verschweigen von noch unentdeckten Straftaten, die schweizerische Rechtsordnung einzuhalten, erfüllt er die Voraussetzungen der Nichtigerklärung. Dies verstösst nicht gegen das Verbot der Selbstanzeige, da es sich um ein freiwillig eingeleitetes Verfahren handelt und das Einbürgerungsgesuch jederzeit zurückgezogen werden kann. Die Nichtigerklärung muss verhältnismässig sein.
 - **Einschlägig für**: Abs. 1 lit. a (Grenze: Verbot der Selbstanzeige)
@@ -40,12 +51,12 @@ agent_verified: true
 
 ### C. Mitwirkungspflicht in Verfahren mit selbständigen Begehren (lit. b)
 
-#### [BGE 108 V 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_229) E. 1 (562 Zit.)
+#### [BGE 108 V 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_229#e-2) (562 Zit.)
 - **Thema**: Nichteintreten bei Mitwirkungsverweigerung, IVV
 - **Kernaussage**: Unterlassen die Parteien in einem Verfahren, das sie durch eigenes Begehren einleiten oder in dem sie selbständige Begehren stellen können, die notwendige und zumutbare Mitwirkung, so können die kantonalen Ausgleichskassen bzw. Invalidenversicherungs-Kommissionen anstatt aufgrund der Akten zu entscheiden im Sinne von Art. 13 Abs. 2 VwVG einen Nichteintretensentscheid erlassen, sofern dies das kantonale Recht oder die Praxis zulässt.
 - **Einschlägig für**: Abs. 2 (Rechtsfolge der Mitwirkungsverweigerung)
 
-#### [BGE 119 V 347](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_V_347) E. 1 (2'249 Zit.)
+#### [BGE 119 V 347](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_V_347#e-1) (2'249 Zit.)
 - **Thema**: Rügeprinzip im Einspracheverfahren, Teilrechtskraft
 - **Kernaussage**: Das Rügeprinzip gilt grundsätzlich auch im Einspracheverfahren. Soweit die Verfügung in der Einsprache unangefochten bleibt und nicht von Amtes wegen überprüft wird, tritt sie in Teilrechtskraft.
 - **Einschlägig für**: Abs. 1 lit. b (Grenze der Mitwirkungspflicht bei unangefochtenen Verfügungsbestandteilen)
@@ -54,26 +65,26 @@ agent_verified: true
 
 ### D. Spezialgesetzliche Auskunfts- und Offenbarungspflichten (lit. c)
 
-#### [BGE 137 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_313) E. 3.3–3.4 (2'542 Zit.)
+#### [BGE 137 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_313)
 - **Thema**: Beschaffungswesen, Beschwerdelegitimation, Freihandvergaben
-- **Kernaussage**: Gegen den freihändigen Zuschlag ist die Beschwerde an das Bundesverwaltungsgericht zulässig, soweit der Zuschlag im Anwendungsbereich des BöB erfolgte. Wird geltend gemacht, das Freihandverfahren sei unzulässigerweise durchgeführt worden, steht die Beschwerdelegitimation nur den potenziellen Anbietern des von der Vergabestelle definierten Beschaffungsgegenstandes zu. Das Bundesverwaltungsgericht hat im Rahmen des Eintretens zu prüfen, ob das Produkt der Beschwerdeführerinnen dem Beschaffungsgegenstand entspreche.
+- **Kernaussage**: Gegen den freihändigen Zuschlag ist die Beschwerde an das Bundesverwaltungsgericht zulässig, soweit der Zuschlag im Anwendungsbereich des BöB erfolgte; die Beschwerdelegitimation steht nur den potenziellen Anbietern des von der Vergabestelle definierten Beschaffungsgegenstandes zu.
 - **Einschlägig für**: Abs. 1 lit. c (Art. 13 Abs. 1 lit. c VöB)
 
-#### [BGE 143 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_II_425) E. 5 (950 Zit.)
-- **Thema**: Beschaffungswesen, Wettbewerbsneutralität, Untersuchungsgrundsatz
-- **Kernaussage**: Ein Verstoss gegen den Grundsatz der Wettbewerbsneutralität durch einen Anbieter mit staatlichem Hintergrund stellt einen Ausschlusstatbestand im Sinne von Art. 11 BöB dar. Reichweite des Untersuchungsgrundsatzes im Verfahren der öffentlichen Beschaffung; die Mitwirkungspflicht korrespondiert mit der Pflicht zur Offenlegung der eigenen Marktposition.
-- **Einschlägig für**: Abs. 1 lit. c (Art. 12 VwVG, Art. 25 Abs. 4 VöB)
+#### [BGE 143 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_II_425)
+- **Thema**: Beschaffungswesen, Wettbewerbsneutralität
+- **Kernaussage**: Ein Verstoss gegen den Grundsatz der Wettbewerbsneutralität durch einen Anbieter mit staatlichem Hintergrund stellt einen Ausschlusstatbestand im Sinne von Art. 11 BöB dar.
+- **Einschlägig für**: Abs. 1 lit. c (Art. 25 Abs. 4 VöB)
 
 ---
 
 ### E. Anwaltsgeheimnis (Absatz 1bis) und nemo tenetur
 
-#### [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) E. 7 (552 Zit.)
+#### [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207#e-8-3) E. 8.3 (552 Zit.)
 - **Thema**: Nemo tenetur, Entsiegelung, Anwaltsgeheimnis, FINMA-Koordination
 - **Kernaussage**: Strafprozessualer *nemo tenetur*-Grundsatz. Entsiegelung eines sichergestellten bankinternen Memorandums, welches zuvor Gegenstand eines bankenaufsichtsrechtlichen Auskunftsverfahrens gebildet hat. Untersuchungsrelevanz der versiegelten Unterlage und Verhältnismässigkeit der Entsiegelung. Tragweite des Verbots des Selbstbelastungszwangs bei einer beschuldigten Bank. Gesetzliche Aufgabenverteilung zwischen FINMA und Bundesanwaltschaft.
 - **Einschlägig für**: Abs. 1bis (Grenze der Mitwirkungspflicht; Selbstbelastungsverbot)
 
-#### [BGE 140 II 384](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_384) E. 3 (368 Zit.)
+#### [BGE 140 II 384](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_384#e-3-2-1) E. 3.2.1 (368 Zit.)
 - **Thema**: Verwaltungssanktion, EMRK Art. 6, improper compulsion
 - **Kernaussage**: Die verwaltungsrechtliche Sanktion nach Art. 51 SBG fällt in den Anwendungsbereich der strafrechtlichen Verfahrensgarantien von Art. 6 Ziff. 1 EMRK. Die Erhebung der Unterlagen und die Anhörung der Auskunftspersonen im konzessionsrechtlichen Aufsichtsverfahren waren nicht mit einer missbräuchlich bzw. unverhältnismässig ausgeübten Form von Zwang (*improper compulsion*) verbunden und verletzten EMRK Art. 6 nicht.
 - **Einschlägig für**: Abs. 1bis, Abs. 2 (Grenze: Selbstbelastungsverbot / Art. 6 EMRK)
@@ -91,7 +102,7 @@ agent_verified: true
 
 ### G. Mitwirkungspflicht in fachgesetzlichen Spezialbereichen
 
-#### [BGE 130 II 449](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_449) E. 4 (417 Zit.)
+#### [BGE 130 II 449](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_449#e-4-1) E. 4.1 (417 Zit.)
 - **Thema**: Preisüberwachung, Kognition, Ermessensspielraum
 - **Kernaussage**: Kognition der Rekurskommission für Wettbewerbsfragen bei der Überprüfung von Entscheiden des Preisüberwachers. Als Fachkommission auferlegt sie sich keine Zurückhaltung hinsichtlich fachspezifischer Fragen; Bedeutung des grossen Ermessens- bzw. Beurteilungsspielraums des Preisüberwachers.
 - **Einschlägig für**: Abs. 1 lit. b (Mitwirkung bei Ermessensentscheiden)
@@ -101,79 +112,11 @@ agent_verified: true
 - **Kernaussage**: Festsetzung des Netznutzungsentgelts; anrechenbare Kapitalkosten; synthetische Methode zur Berechnung der Anschaffungs- bzw. Herstellkosten; Höhe des kalkulatorischen Zinssatzes und des betrieblich notwendigen Nettoumlaufvermögens. Die Mitwirkungspflicht der Netzbetreiberin erstreckt sich auf die für die Berechnung notwendigen Unterlagen.
 - **Einschlägig für**: Abs. 1 lit. b (sektorspezifische Mitwirkung)
 
-#### [BGE 124 II 361](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_II_361) E. 1–4 (2'430 Zit.)
-- **Thema**: Familiennachzug, ANAG, EMRK Art. 8, Kinderrechtskonvention
-- **Kernaussage**: Bestätigung der Rechtsprechung zur Zulässigkeit der Verwaltungsgerichtsbeschwerde und zur Bindung des Bundesgerichts an die Sachverhaltsfeststellung der Vorinstanz als richterlicher Behörde. Ein Nachzugsrecht bei Kindern getrennt lebender ausländischer Eltern setzt voraus, dass zum in der Schweiz lebenden Elternteil die vorrangige familiäre Beziehung besteht. Vereinbarkeit mit der UNO-Kinderrechtskonvention; Bedeutung des Anspruchs der Kinder, sich frei zu äussern bzw. angehört zu werden.
-- **Einschlägig für**: Abs. 1 lit. a, Abs. 2 (Grenzen der Mitwirkungspflicht im fremdenrechtlichen Verfahren)
-
-#### [BGE 122 II 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_II_385) E. 1–2 (567 Zit.)
-- **Thema**: Niederlassungsbewilligung, Nachzug, EMRK Art. 8
-- **Kernaussage**: Zulässigkeit der Verwaltungsgerichtsbeschwerde im Hinblick auf Art. 17 Abs. 2 ANAG und Art. 8 EMRK; Umfang der Bindung des Bundesgerichts an die Sachverhaltsfeststellung der Vorinstanz. Beurteilung des Anspruchs auf Niederlassungsbewilligung des ausländischen Ehemannes unter Berücksichtigung unverschuldeter Fürsorgeabhängigkeit.
-- **Einschlägig für**: Abs. 1 lit. a (Mitwirkung im fremdenrechtlichen Verfahren)
-
 ---
 
 
-### H. Mitwirkungspflicht im Ausländerrecht
+## Entfernte Entscheide
 
-#### [BGer 2C_27/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_27_2018), 10. September 2018
-- **Thema**: Widerruf der Niederlassungsbewilligung und Mitwirkungspflicht
-- **Kernaussage**: Im Verfahren über den Widerruf der Niederlassungsbewilligung ist die ausländische Person zur umfassenden Mitwirkung verpflichtet. Die Mitwirkungspflicht nach Art. 13 Abs. 1 lit. a VwVG umfasst die Offenlegung aller für den Aufenthaltsentscheid relevanten Tatsachen.
-- **Einschlägig für**: Abs. 1 lit. a (Mitwirkungspflicht im Ausländerrecht)
+Nicht übernommen wurden mehrere generische Verweise ohne belastbaren inhaltlichen Bezug zu Art. 13 VwVG, die in der ursprünglichen Fassung unter eigenen Abschnitten "Mitwirkungspflicht im Ausländerrecht/Sozialversicherungsrecht/Finanzmarktrecht" standen: BGer 2C_27/2018, 2C_165/2018, 8C_481/2013, 9C_669/2016 und 2C_227/2024. Die zugehörigen Kernaussagen liessen sich nicht anhand der Erwägungstexte verifizieren; der allgemeine Geltungsbereich von Art. 13 VwVG in diesen Rechtsgebieten wird stattdessen im Haupttext (_index.md, Abschnitt IX) ohne Einzelfallbeleg dargestellt. Ebenfalls entfernt: BGE 124 II 361 (Familiennachzug) — die Kernaussage betraf primär die Zulässigkeit der Verwaltungsgerichtsbeschwerde, nicht die Mitwirkungspflicht.
 
-#### [BGer 2C_165/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_165_2018), 19. September 2018
-- **Thema**: Widerruf/Nichtverlängerung der Aufenthaltsbewilligung
-- **Kernaussage**: Im Verfahren über den Widerruf oder die Nichtverlängerung der Aufenthaltsbewilligung ist die Mitwirkungspflicht der betroffenen Person besonders weitreichend, da sie über die für die Beurteilung des Aufenthaltsstatus massgeblichen Tatsachen verfügt.
-- **Einschlägig für**: Abs. 1 lit. a (Mitwirkungspflicht im Ausländerrecht)
-
----
-
-### I. Mitwirkungspflicht im Sozialversicherungsrecht
-
-#### [BGer 8C_481/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_481_2013), 7. November 2013
-- **Thema**: Unfallversicherung — Revision und Mitwirkungspflicht im Verwaltungsverfahren
-- **Kernaussage**: Im Revisionsverfahren der Unfallversicherung erstreckt sich die Mitwirkungspflicht der versicherten Person auf alle für den Leistungsentscheid relevanten Tatsachen. Die Mitwirkungspflicht nach Art. 29 ATSG konkretisiert die VwVG-Pflicht im sozialversicherungsrechtlichen Kontext.
-- **Einschlägig für**: Abs. 1 lit. a, Verhältnis zu Art. 29 ATSG
-
-#### [BGer 9C_669/2016](https://mcp.opencaselaw.ch/entscheid/bger_9C_669_2016), 20. Dezember 2016
-- **Thema**: Krankenversicherung und Mitwirkungspflicht
-- **Kernaussage**: Im Krankenversicherungsrecht muss die versicherte Person die für die Beurteilung ihres Anspruchs relevanten Tatsachen von sich aus offenlegen. Die Mitwirkungspflicht nach Art. 29 ATSG ist *lex specialis* zu Art. 13 VwVG.
-- **Einschlägig für**: Abs. 1 lit. a, Verhältnis zu Art. 29 ATSG
-
----
-
-### J. Mitwirkungspflicht im Finanzmarktrecht
-
-#### [BGer 2C_227/2024](https://mcp.opencaselaw.ch/entscheid/bger_2C_227_2024), 14. April 2025
-- **Thema**: Rückstufung und Mitwirkungspflicht im FINMA-Verfahren
-- **Kernaussage**: Die Mitwirkungspflicht gilt auch im finanzmarktrechtlichen Aufsichtsverfahren. Die beaufsichtigte Person muss die für die aufsichtsrechtliche Beurteilung relevanten Tatsachen offenlegen, soweit dies für die FINMA als Aufsichtsbehörde erforderlich ist.
-- **Einschlägig für**: Abs. 1 lit. a, Mitwirkungspflicht im Aufsichtsrecht
-
----
-
-## Übersichtstabelle
-
-| Entscheidung | Zitate | Thema | Abschnitt |
-|---|---|---|---|
-| [BGE 110 V 48](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_48) | 7'738 | Streitgegenstand, Mitwirkungspflicht | A |
-| [BGE 137 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_313) | 2'542 | Beschaffung, Legitimation | D |
-| [BGE 124 II 361](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_II_361) | 2'430 | Familiennachzug, EMRK Art. 8 | G |
-| [BGE 119 V 347](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_V_347) | 2'249 | Rügeprinzip, Einsprache | C |
-| [BGE 130 II 482](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_482) | 2'152 | Einbürgerung, Erschleichung | B |
-| [BGE 132 II 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_113) | 1'023 | Einbürgerung, Offenbarungspflicht | B |
-| [BGE 143 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_II_425) | 950 | Beschaffung, Wettbewerbsneutralität | D |
-| [BGE 122 II 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_II_385) | 567 | Niederlassung, Nachzug | G |
-| [BGE 108 V 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_229) | 562 | Nichteintreten, IVV | C |
-| [BGE 140 II 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_65) | 553 | Einbürgerung, Verschweigen | B |
-| [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) | 552 | Nemo tenetur, Entsiegelung | E |
-| [BGE 138 II 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_II_465) | 419 | Stromversorgung, Netznutzung | G |
-| [BGE 130 II 449](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_449) | 417 | Preisüberwachung, Kognition | G |
-| [BGE 140 II 384](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_384) | 368 | Verwaltungssanktion, EMRK Art. 6 | E |
-| [BGE 110 V 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_199) | 233 | Preissenkung, Arzneimittel | F |
-| [BGer 2C_27/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_27_2018) | — | Widerruf Niederlassungsbewilligung | H |
-| [BGer 2C_165/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_165_2018) | — | Aufenthaltsbewilligung, Mitwirkung | H |
-| [BGer 8C_481/2013](https://mcp.opencaselaw.ch/entscheid/bger_8C_481_2013) | — | UV-Revision, Mitwirkung | I |
-| [BGer 9C_669/2016](https://mcp.opencaselaw.ch/entscheid/bger_9C_669_2016) | — | Krankenversicherung, Mitwirkung | I |
-| [BGer 2C_227/2024](https://mcp.opencaselaw.ch/entscheid/bger_2C_227_2024) | — | Rückstufung, FINMA, Mitwirkung | J |
-
-*Letzte Aktualisierung: 9. August 2026*
+*Letzte Aktualisierung: 15. August 2026*
