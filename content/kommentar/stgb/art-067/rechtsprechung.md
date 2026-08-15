@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 67 StGB"
 weight: 99
 date: 2025-06-02
-lastmod: 2026-06-02
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 67 StGB — Tätigkeitsverbot"
 tags: ["Rechtsprechung", "StGB", "Tätigkeitsverbot", "Berufsverbot"]
 agent_verified: false
@@ -193,4 +193,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-02*
+### [BGer 6B_635/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_635_2025) v. 29.07.2026
+- **Thema**: Lebenslängliches Tätigkeitsverbot (mehrfache Pornografie); Präzisierung zu Art. 67 Abs. 4bis StGB
+- **Kernaussage**: Präzisierung: Gezielte Suche nach Kinderpornografie (KPo-Suche) stellt keinen «besonders leichten Fall» i.S.v. Art. 67 Abs. 4bis StGB dar. Das Bundesgericht stellt klar, dass die gezielte, aktive Suche nach kinderpornografischem Material — im Gegensatz zum blossen versehentlichen Besitz — die Annahme eines besonders leichten Falls ausschliesst. Die Ausnahmebestimmung des Abs. 4bis bleibt eng auszulegen; sie soll die Regel des lebenslänglichen Tätigkeitsverbots nicht aushöhlen. Bestätigt die kumulative Prüfung (besonders leichter Fall UND Verbot nicht notwendig).
+- **Einschlägig für**: Abs. 4bis (besonders leichter Fall, KPo-Suche)
+
+---
+
+*Letzte Aktualisierung: 15.08.2026*

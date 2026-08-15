@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-07-17
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 221 StPO – Voraussetzungen für Untersuchungs- und Sicherheitshaft"
 tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft"]
 agent_verified: true
@@ -169,4 +169,9 @@ agent_verified: true
 - **Dispositiv**: Abweisung, soweit darauf eingetreten.
 - **Einschlägig für**: Abs. 1 lit. a (Fluchtgefahr, Ersatzmassnahmen, Verhältnismässigkeit, Überhaft), Art. 212 Abs. 3 StPO, Art. 237 StPO, Art. 29 Abs. 2 BV
 
-*Letzte Aktualisierung: 17. Juli 2026*
+### [BGer 7B_789/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_789_2026) vom 6. Juli 2026
+- **Thema**: Art. 221 Abs. 1 lit. c StPO; Rückfallgefahr ≠ Gemeingefährlichkeit (Art. 75a Abs. 3 StGB); einfache Wiederholungsgefahr
+- **Kernaussage**: Präzisierung: Einfache Wiederholungsgefahr nach Art. 221 Abs. 1 lit. c StPO setzt eine erhebliche Sicherheitsgefährdung voraus; diese ist nicht gleichzusetzen mit der Gemeingefährlichkeit nach Art. 75a Abs. 3 StGB. Die Massstäbe für die Verwahrung (Art. 75a StGB) sind andere als jene für die Untersuchungshaft: Die erhebliche Sicherheitsgefährdung im Haftrecht verlangt eine konkrete Gefährdung von Dritten durch gleichartige Straftaten, während die Gemeingefährlichkeit ein qualitativ höherer Massstab ist. Eine ungünstige Rückfallprognose allein begründet noch keine Haft, wenn die drohenden Taten nicht die erforderliche Erheblichkeit der Sicherheitsgefährdung erreichen.
+- **Einschlägig für**: Abs. 1 lit. c (einfache Wiederholungsgefahr, Abgrenzung zu Art. 75a Abs. 3 StGB)
+
+*Letzte Aktualisierung: 15. August 2026*

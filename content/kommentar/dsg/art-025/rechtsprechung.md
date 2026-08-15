@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 25 DSG"
 weight: 99
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 25 DSG (Auskunftsrecht, Mindestinhalt, Rechtsmissbrauch/Fishing Expedition)"
 tags: ["Rechtsprechung", "DSG", "Auskunftsrecht", "Rechtsmissbrauch"]
 agent_verified: false
@@ -38,4 +38,11 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-07*
+### [BGer 4A_504/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_504_2025) v. 14.08.2026
+- **Thema**: Zugangsrecht nach Art. 25 DSG bei internen Untersuchungsberichten
+- **Kernaussage**: Präzisierung: Das datenschutzrechtliche Auskunftsrecht nach Art. 25 DSG umfasst grundsätzlich auch den Zugang zu internen Untersuchungsberichten, sofern diese personenbezogene Daten über die auskunftssuchende Person enthalten. Eine interne Untersuchung führt nicht automatisch zu einem schutzwürdigen Interesse an Vertraulichkeit, das eine Einschränkung nach Art. 26 DSG rechtfertigt. Das Bundesgericht differenziert zwischen dem Auskunftsanspruch der betroffenen Person und dem Geheimhaltungsinteresse des Verantwortlichen; Letzteres muss substanziiert dargelegt werden.
+- **Einschlägig für**: Abs. 1 (Auskunftsrecht, Untersuchungsberichte), Art. 26 DSG (Einschränkungen)
+
+---
+
+*Letzte Aktualisierung: 2026-08-15*

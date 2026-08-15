@@ -2,7 +2,7 @@
 title: "Art. 25 DSG — Auskunftsrecht"
 weight: 25
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: 2026-08-15
 description: "Kommentar zu Art. 25 DSG: das allgemeine Auskunftsrecht als Grundpfeiler des Datenschutzrechts, Mindestinhalt der Auskunft, Kostenlosigkeit, 30-Tage-Frist und Grenzen bei rechtsmissbräuchlicher (zweckwidriger) Geltendmachung."
 tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Transparenz", "Rechtsmissbrauch", "Fishing Expedition"]
 agent_verified: false
