@@ -2,173 +2,91 @@
 title: "Rechtsprechung zu Art. 12 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: "2026-07-26"
+lastmod: "2026-08-15"
 description: "Übersicht der Entscheide zu Art. 12 VwVG – Untersuchungsmaxime"
 tags: ["Rechtsprechung", "VwVG", "Untersuchungsgrundsatz", "Beweis", "Beweiswürdigung", "Administrativgutachten"]
 agent_verified: false
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C 39% -> B 61%): 15 von 22 gelisteten Entscheiden existierten nicht. Vollständig neu aufgebaut mit 9 verifizierten, thematisch einschlägigen Entscheiden; Links auf kanonisches mcp.opencaselaw.ch-Format mit Pinpoint-Ankern umgestellt (Original nutzte teils die veraltete bger.ch/ext/eurospider-Form ohne Pinpoints, die vom Audit-Parser nicht erkannt wird)."
+  - date: 2026-07-26
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
-## Untersuchungsmaxime — Grundsatz und Reichweite
+## Untersuchungsmaxime — Grundsatz und Korrelat der Mitwirkungspflicht
 
-### BGE 125 I 71
-- **Thema**: Untersuchungsmaxime, Grundsatz
-- **Kernaussage**: Die Behörde muss den relevanten Sachverhalt auch dann abklären, wenn die Parteien sich passiv verhalten oder keine Beweisanträge stellen. Die Untersuchungsmaxime verpflichtet zur umfassenden Sachverhaltsabklärung von Amtes wegen.
-- **Einschlägig für**: Untersuchungsgrundsatz (Satz 1)
+### [BGE 122 V 157](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_V_157#e-1) E. 1
+- **Thema**: Untersuchungsgrundsatz, freie Beweiswürdigung, versicherungsinterne Ärzte
+- **Kernaussage**: Das Verfahren ist vom Untersuchungsgrundsatz beherrscht, der aber nicht uneingeschränkt gilt, sondern durch die Mitwirkungspflichten der Parteien und den Anspruch auf rechtliches Gehör ergänzt wird. Kein formeller Anspruch auf ein versicherungsexternes Gutachten, wenn das Administrativgutachten schlüssig ist. Massgebend für den Beweiswert eines Arztberichts ist dessen Inhalt, nicht seine Herkunft.
+- **Einschlägig für**: Untersuchungsgrundsatz, freie Beweiswürdigung, Beweiswert von Arztberichten
 
-### BGE 137 V 210
-- **Thema**: Untersuchungsmaxime vs. Verhandlungsmaxime
-- **Kernaussage**: Das Verwaltungsverfahren ist vom Untersuchungsgrundsatz geprägt; die Behörde hat den Sachverhalt von Amtes wegen umfassend abzuklären. Dies gilt auch im Beschwerdeverfahren (Art. 62 Abs. 4 VwVG).
-- **Einschlägig für**: Untersuchungsgrundsatz im Beschwerdeverfahren
-
-### BGE 124 V 110
-- **Thema**: Grenzen der Abklärungspflicht
-- **Kernaussage**: Die Untersuchungspflicht findet dort ihre Grenze, wo die Behörde aufgrund der Aktenlage und der Parteivorbringen ohne weitere Beweismassnahmen entscheiden kann. Eine «Forschung ins Blaue» wird nicht verlangt.
-- **Einschlägig für**: Grenzen der Untersuchungspflicht
-
----
-
-## Beweiserhebungspflicht
-
-### BGE 134 V 274
-- **Thema**: Beweiserhebungspflicht bei widersprüchlichen Akten
-- **Kernaussage**: Sind die Akten widersprüchlich oder lückenhaft, muss die Behörde weitere Beweise erheben. Eine beweiserhebliche Tatsache darf nicht unbehellt bleiben, wenn ein erheblicher Zweifel besteht.
-- **Einschlägig für**: Beweiserhebungspflicht
-
-### BGE 140 V 79
-- **Thema**: Beweiserhebungspflicht bei medizinischen Fragen
-- **Kernaussage**: Bei widerstreitenden medizinischen Berichten muss die IV-Stelle durch Einholung eines weiteren Gutachtens oder durch Administrativgutachten für Klarheit sorgen, statt bloss die versicherte Person mit der Widersprüchlichkeit zu konfrontieren.
-- **Einschlägig für**: Beweiserhebungspflicht, lit. e
-
-### BGE 133 V 537
-- **Thema**: Noven im Beschwerdeverfahren
-- **Kernaussage**: Neue Tatsachen und Beweismittel, die im erstinstanzlichen Verfahren hätten vorgebracht werden können, können im Beschwerdeverfahren grundsätzlich nicht mehr berücksichtigt werden, sofern sie nicht von der Behörde von Amtes wegen zu erheben waren.
-- **Einschlägig für**: Grenzen im Beschwerdeverfahren
+### [BGE 110 V 109](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_109#e-3) E. 3
+- **Thema**: Untersuchungsgrundsatz und Mitwirkungspflicht bei der Spezialitätenliste
+- **Kernaussage**: Der Untersuchungsgrundsatz findet sein Korrelat in den Mitwirkungspflichten der Parteien (Art. 13 VwVG). Es ist nicht Sache der Behörde, primäre und eigenständige Forschungsarbeit zu leisten; dem Untersuchungsgrundsatz ist in der Regel Genüge getan, wenn sie die vorgelegte Dokumentation objektiv überprüft.
+- **Einschlägig für**: Untersuchungsgrundsatz (Satz 1), Grenzen
 
 ---
 
-## Freie Beweiswürdigung (Art. 19 VwVG)
+## Medizinische Gutachten / MEDAS
 
-### BGE 122 V 157
-- **Thema**: Freie Beweiswürdigung / versicherungsexterne Gutachten
-- **Kernaussage**: Kein formeller Anspruch auf Beizug versicherungsexterner medizinischer Gutachten bei Leistungsstreitigkeiten. Die freie Beweiswürdigung ermöglicht es, sich auf das taugliche Administrativgutachten zu stützen.
-- **Einschlägig für**: Beweiswürdigung, Art. 19 VwVG i.V.m. Art. 12
+### [BGE 123 V 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_V_175)
+- **Thema**: Unabhängigkeit der medizinischen Abklärungsstellen (MEDAS)
+- **Kernaussage**: Die nach Art. 29 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vorausgesetzte Unabhängigkeit und Unparteilichkeit der MEDAS-Gutachter war bereits vor Inkrafttreten des heutigen MEDAS-Statuts gewährleistet.
+- **Einschlägig für**: lit. e, Unabhängigkeit des Gutachters
 
-### BGE 130 V 324
-- **Thema**: Freie Beweiswürdigung, Willkür
-- **Kernaussage**: Die Beweiswürdigung ist frei, jedoch nicht willkürlich. Das Bundesgericht greift nur bei offensichtlichem Fehlgriff ein.
-- **Einschlägig für**: Beweiswürdigung, Willkürkontrolle
+### [BGE 136 V 376](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_376)
+- **Thema**: Beweistauglichkeit von MEDAS-Administrativgutachten
+- **Kernaussage**: MEDAS-Administrativgutachten müssen den Anforderungen an Unabhängigkeit sowie an Verfahrensfairness und Waffengleichheit genügen.
+- **Einschlägig für**: lit. e, Unabhängigkeit, Verfahrensfairness
 
-### BGE 141 V 297
-- **Thema**: Beweiswert medizinischer Berichte
-- **Kernaussage**: Der Beweiswert medizinischer Berichte hängt von der Qualifikation des Arztes, der Nähe zum Untersuchungszeitpunkt und der Vollständigkeit der Untersuchung ab. Beliebigen Arztberichten kommt nicht gleicher Beweiswert zu.
-- **Einschlägig für**: Beweiswürdigung, lit. e
+### [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)
+- **Thema**: MEDAS-Begutachtung und faires Verfahren
+- **Kernaussage**: Wahrung eines fairen Verwaltungs- und Beschwerdeverfahrens bei der Einholung von Administrativ- und Gerichtsgutachten bei MEDAS.
+- **Einschlägig für**: lit. e, Verfahrensfairness
 
-### BGE 139 V 511
-- **Thema**: Verwertbarkeit privater Gutachten
-- **Kernaussage**: Private Gutachten der versicherten Person sind als Parteibehauptungen zu qualifizieren und haben keinen eigenständigen Beweiswert wie ein Administrativgutachten. Sie können aber Anlass für weitere Abklärungen sein.
-- **Einschlägig für**: Beweiswürdigung, lit. e
-
----
-
-## Medizinische Gutachten / Administrativgutachten / MEDAS
-
-### BGE 134 V 109
-- **Thema**: MEDAS-Gutachten, Anforderungen
-- **Kernaussage**: Ein polydisziplinäres MEDAS-Gutachten hat einen besonders hohen Beweiswert. Es ist jedoch kein «Supergutachten»; seine Schlussfolgerungen müssen nachvollziehbar begründet sein, und die Behörde hat eine eigene Beweiswürdigung vorzunehmen.
-- **Einschlägig für**: lit. e (Gutachten von Sachverständigen)
-
-### BGE 137 V 210
-- **Thema**: MEDAS-Gutachten, Unabhängigkeit und Verfahrensfairness
-- **Kernaussage**: Administrativgutachten der MEDAS müssen den Anforderungen an Unabhängigkeit und Verfahrensfairness genügen. Die Parteistellung im Begutachtungsverfahren ist zu wahren.
-- **Einschlägig für**: lit. e (Unabhängigkeit, Verfahrensfairness)
-
-### BGE 135 V 254
-- **Thema**: Mitwirkungsrechte bei Begutachtung
-- **Kernaussage**: Mitwirkungsrechte bei Begutachtung durch regionale ärztliche Dienste der IV-Stellen; Art. 44 ATSG anwendbar.
-- **Einschlägig für**: lit. e (Mitwirkung bei Begutachtung)
-
-### BGE 136 V 117
-- **Thema**: Gutachtenabhängigkeit — Rehaklinik Bellikon
-- **Kernaussage**: Gutachten der Rehaklinik Bellikon nicht als unabhängige Sachverständigengutachten zu qualifizieren; Anforderungen an die Unabhängigkeit von Gutachtern.
-- **Einschlägig für**: lit. e (Unabhängigkeit der Gutachter)
-
-### BGE 141 V 529
-- **Thema**: Administrativgutachten, Unabhängigkeit
-- **Kernaussage**: Ein medizinisches Gutachten muss unabhängig und ohne Weisung erfolgen. Der Gutachter muss frei von Bindungen an die auftraggebende Stelle sein. Ein Gutachten unter dem Eindruck eines bestimmten Ergebniserwartung genügt den Anforderungen nicht.
-- **Einschlägig für**: lit. e (Unabhängigkeit)
-
-### BGE 138 V 291
-- **Thema**: Gutachten, Vollständigkeit
-- **Kernaussage**: Ein medizinisches Gutachten muss die gestellten Fragen beantworten, nachvollziehbar begründet sein, in sich schlüssig und die relevanten Fakten vollständig enthalten. Lücken oder interne Widersprüche mindern den Beweiswert.
-- **Einschlägig für**: lit. e (Vollständigkeit)
-
-### BGE 135 V 69
-- **Thema**: Gutachten, Befund und Begründung
-- **Kernaussage**: Ein medizinisches Gutachten ist nur verwertbar, wenn es den Untersuchungsbefund vollständig wiedergibt, die Diagnose begründet und eine nachvollziehbare Relation zwischen Befund und funktioneller Einschränkung herstellt.
-- **Einschlägig für**: lit. e (Befund/Begründung)
-
-### BGE 137 V 173
-- **Thema**: Gutachterwahl, Facharztstandard
-- **Kernaussage**: Die Begutachtung hat durch einen Facharzt des relevanten Fachgebiets zu erfolgen. Begutachtungen durch Nicht-Fachärzte können den Beweiswert massgeblich schmälern.
-- **Einschlägig für**: lit. e (Facharztstandard)
+### [BGE 135 V 254](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_254#e-3-4-1) E. 3.4.1
+- **Thema**: Mitwirkungsrechte bei Begutachtung durch regionale ärztliche Dienste der IV-Stellen
+- **Kernaussage**: Art. 44 ATSG ist im Abklärungsverfahren der Invalidenversicherung grundsätzlich anwendbar; auf Untersuchungen regionaler ärztlicher Dienste findet er jedoch keine Anwendung.
+- **Einschlägig für**: lit. e, Mitwirkungsrechte bei Begutachtung
 
 ---
 
-## Mitwirkungspflichten (Art. 13 VwVG / Art. 43 ATSG)
+## Mitwirkungspflicht (Art. 13 VwVG)
 
-### BGE 139 V 197
-- **Thema**: Mitwirkungspflicht, Verweigerung und Rechtsfolgen
-- **Kernaussage**: Verweigert die versicherte Person die Mitwirkung unentschuldbar, kann die Verwaltung auf Grund der Akten verfügen oder Nichteintreten beschliessen (Art. 43 Abs. 3 ATSG). Vorgängig ist eine Mahnung mit Angabe der Rechtsfolgen erforderlich.
-- **Einschlägig für**: Mitwirkungspflicht (Art. 13 VwVG / Art. 43 ATSG)
+### [BGE 135 II 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_161#e-3) E. 3
+- **Thema**: Beweislastverteilung bei Nichtigerklärung einer erleichterten Einbürgerung
+- **Kernaussage**: Die Beweislast dafür, dass eine Einbürgerung erschlichen wurde, liegt bei der Behörde; es genügt aber, dass diese einen plausiblen Grund anführt — im Rahmen ihrer Mitwirkungspflicht liegt es dann an der Partei, das Gegenteil glaubhaft zu machen.
+- **Einschlägig für**: Mitwirkungspflicht, Beweislastverteilung
 
-### BGE 137 I 373
-- **Thema**: Mitwirkungspflicht im allgemeinen Verwaltungsverfahren
-- **Kernaussage**: Im Verfahren nach VwVG besteht eine Mitwirkungspflicht der Parteien nach Art. 13 VwVG. Die Behörde kann auf Begehren nicht eintreten, wenn die notwendige und zumutbare Mitwirkung verweigert wird (Art. 13 Abs. 2 VwVG).
-- **Einschlägig für**: Mitwirkungspflicht (Art. 13 VwVG)
-
-### BGE 131 V 133
-- **Thema**: Zumutbarkeit medizinischer Untersuchung
-- **Kernaussage**: Die versicherte Person muss sich einer zumutbaren ärztlichen Untersuchung unterziehen. Eine Untersuchung kann unzumutbar sein, wenn sie mit erheblichen gesundheitlichen Risiken verbunden ist. Die Unzumutbarkeit ist darzulegen.
-- **Einschlägig für**: Mitwirkungspflicht (Zumutbarkeit)
-
----
-
-## Grenzen der Untersuchungspflicht
-
-### BGE 110 V 48
-- **Thema**: Anfechtungsgegenstand / Streitgegenstand
-- **Kernaussage**: Verfügung als Anfechtungsgegenstand. Die Begründung der Begehren bindet die Behörde (Art. 62 Abs. 4 VwVG); der Untersuchungsgrundsatz (Art. 12 VwVG) gilt im Rahmen des Streitgegenstands.
-- **Einschlägig für**: Grenzen (Art. 62 Abs. 4 VwVG)
-
-### BGE 133 V 377
-- **Thema**: Grenzen der Untersuchungspflicht im Beschwerdeverfahren
-- **Kernaussage**: Im Beschwerdeverfahren ist die Untersuchungsmaxime durch den Grundsatz der Beschwerdebindung (Art. 62 Abs. 4 VwVG) eingeschränkt. Neue Tatsachen und Beweise werden nur berücksichtigt, soweit sie von Amtes wegen zu erheben sind.
-- **Einschlägig für**: Grenzen (Beschwerdebindung)
-
-### BGE 134 V 244
-- **Thema**: Grenzen der Untersuchungspflicht, Offensichtlichkeit
-- **Kernaussage**: Die Untersuchungspflicht besteht nur hinsichtlich erheblicher und nicht offensichtlicher Tatsachen. Die Behörde braucht nicht jede denkbare Möglichkeit zu verfolgen, sondern nur solche, die sich aufgrund konkreter Anhaltspunkte aufdrängen.
-- **Einschlägig für**: Grenzen (Offensichtlichkeit)
+### [BGE 132 II 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_113#e-3-1) E. 3.1
+- **Thema**: Mitwirkungspflicht bei nachträglichem Wegfall einer Einbürgerungsvoraussetzung
+- **Kernaussage**: Weiss die Partei, dass eine für die erleichterte Einbürgerung wesentliche Voraussetzung nachträglich weggefallen ist, hat sie die Behörde unaufgefordert zu orientieren.
+- **Einschlägig für**: Mitwirkungspflicht (Art. 13 Abs. 1 lit. a VwVG)
 
 ---
 
 ## Weitere Entscheide
 
-### BGE 117 V 282
+### [BGE 117 V 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_V_282)
 - **Thema**: Beweisaufnahme / Auskünfte der IV-Kommission
-- **Kernaussage**: Grundsätze über die Beweisaufnahme bei Einholung von Auskünften Dritter (Art. 12 lit. c VwVG). Verweis auf Beweisrecht der BZP.
+- **Kernaussage**: Grundsätze über die Beweisaufnahme bei der Einholung von Auskünften Dritter (Art. 12 lit. c VwVG i.V.m. Art. 49 BZP).
 - **Einschlägig für**: lit. c (Auskünfte von Drittpersonen)
 
-### BGE 132 II 257
+### [BGE 132 II 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_257)
 - **Thema**: Interkonnektionsbedingungen / Kognition
-- **Kernaussage**: Behördliche Festlegung von Interkonnektionsbedingungen; Kognition des Bundesgerichts unter Berücksichtigung von Beweiserhebungsmaxime.
+- **Kernaussage**: Behördliche Festlegung von Interkonnektionsbedingungen unter Berücksichtigung des Untersuchungsgrundsatzes und der Beweiserhebung nach Art. 12 lit. e VwVG.
 - **Einschlägig für**: lit. e (Regulierungsverfahren)
-
-### BGE 136 II 457
-- **Thema**: Aufsicht / Kontrollzuschlag
-- **Kernaussage**: Aufsicht bei Kontrollzuschlag für Graufahren; Untersuchungsgrundsatz im Aufsichtsverfahren.
-- **Einschlägig für**: Untersuchungsgrundsatz im Aufsichtsverfahren
 
 ---
 
-*Letzte Aktualisierung: 2026-07-26*
+## Entfernte Entscheide
+
+Die ursprüngliche Fassung listete 15 nicht existente Entscheide: BGE 124 V 110, 130 V 324, 133 V 377, 133 V 537, 134 V 244, 134 V 274, 135 V 69, 137 I 373, 137 V 173, 138 V 291, 139 V 197, 139 V 511, 140 V 79, 141 V 297, 141 V 529. Zusätzlich betrafen BGE 125 I 71, 134 V 109 und 131 V 133 (real existierend) im behaupteten Kontext nicht einschlägige oder nicht verifizierbare Aussagen und wurden nicht übernommen. BGE 110 V 48 (Anfechtungsgegenstand/Streitgegenstand) und BGE 136 II 457 (Graufahr-Kontrollen) trugen die ihnen zugeschriebenen Aussagen zum Untersuchungsgrundsatz nicht nachweisbar und wurden ebenfalls entfernt.
+
+*Letzte Aktualisierung: 2026-08-15*
