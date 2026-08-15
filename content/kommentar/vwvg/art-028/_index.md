@@ -2,10 +2,16 @@
 title: "Art. 28 — Rechtliches Gehör bei Aktenverweigerung"
 weight: 28
 date: 2026-05-23
-lastmod: 2026-06-21
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 28 VwVG – Rechtliches Gehör bei verweigerter Akteneinsicht"
 tags: ["VwVG", "rechtliches Gehör", "Akteneinsicht", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil A, 80%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 129 II 193 war als Einreiseverbot-Akteneinsicht-Entscheid zu Art. 28 VwVG zitiert, behandelt tatsächlich ausschliesslich Art. 8/13 EMRK bei politischer Ausweisung (kein Akteneinsichtsbezug) -- als Fehlzitat entfernt, keine passende Ersatzquelle gefunden."
 ---
 
 ## Gesetzeswortlaut
@@ -34,7 +40,6 @@ Art. 26 VwVG gewährt das **Akteneinsichtsrecht**. Art. 28 VwVG setzt ein, wenn 
 
 ### Praxis
 
-- **Einreiseverbot**: Akteneinsicht und Art. 28 VwVG-Garantie bei Einreiseverbot gegen niedergelassene Ausländer ([BGE 129 II 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_II_193))
 - **Unfallversicherung**: Anspruch auf Akteneinsicht; Verhältnis UVG/UVV zu VwVG ([BGE 115 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_V_297))
 - **Patientenakte**: Einsicht in Psychiatrie-Krankengeschichte; Datenschutz im Patientenverhältnis ([BGE 122 I 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_I_153))
 - **Amtshilfe in Steuersachen**: Akteneinsicht bei Namen und Kontaktdaten ([2C 112/2015](https://mcp.opencaselaw.ch/entscheid/bger_2C_112_2015))

@@ -2,18 +2,19 @@
 title: "Rechtsprechung zu Art. 28 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 28 VwVG – Rechtliches Gehör bei Aktenverweigerung"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Akteneinsicht"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil A, 80%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 129 II 193 als Fehlzitat entfernt (behandelt Einreiseverbot/EMRK, nicht Art. 28 VwVG bzw. Akteneinsicht)."
 ---
 
 ## Leitentscheide (BGE)
-
-### BGE 129 II 193
-- **Thema**: Einreiseverbot / Akteneinsicht
-- **Kernaussage**: Bei Einreiseverbot gegen niedergelassene Ausländer müssen die Gehörgarantien von Art. 28 VwVG gewahrt werden. Die Behörde muss den wesentlichen Inhalt der Akten mitteilen.
-- **Einschlägig für**: Inhaltsmitteilung bei geheimen Akten
 
 ### BGE 115 V 297
 - **Thema**: Akteneinsicht in der Unfallversicherung
