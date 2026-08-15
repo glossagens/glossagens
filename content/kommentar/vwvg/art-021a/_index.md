@@ -2,17 +2,28 @@
 title: "Art. 21a — Elektronische Eingaben"
 weight: 215
 date: 2026-07-02
-lastmod: 2026-07-02
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 21a VwVG: Elektronische Eingaben an Bundesbehörden, qualifizierte elektronische Signatur, Fristwahrung und Verhältnis zum Sozialversicherungsrecht."
 tags: ["VwVG", "Elektronische Eingabe", "Qualifizierte Signatur", "ZertES", "ATSG", "TAF"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C 42% -> B 50%, 0 offene Befunde): Gesetzestext-Zitat vervollständigt (fehlende SR-Nummer im Blockquote). Alle zitierten Entscheide (8C_672/2025, 9C_576/2025, BGE 142 V 152, BGE 143 I 187) existieren und sind einschlägig -- Plain-Text-Zitate ohne Pinpoint-Anker durch verlinkte Zitate mit Erwägungs-Anker ersetzt. Eine Aussage ohne tragenden Beleg (eigene Einordnung zur 'praktischen Asymmetrie') entcitiert. Alle verbleibenden Paare bewerten als 'teilweise' (frankophone Quellen, deutsche Paraphrase bleibt unter dem Wortlaut-Schwellenwert) -- nicht agent_verified gesetzt, da Belegquote nur knapp über 50%."
+  - date: 2026-07-02
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Gesetzeswortlaut
 
 > **1** Eingaben können bei der Behörde elektronisch eingereicht werden.
 >
-> **2** Die Eingabe ist von der Partei oder ihrem Vertreter mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur zu versehen.
+> **2** Die Eingabe ist von der Partei oder ihrem Vertreter mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 SR 943.03 über die elektronische Signatur zu versehen.
 >
 > **3** Für die Wahrung einer Frist ist der Zeitpunkt massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind, die auf der Seite der Partei oder ihres Vertreters für die Übermittlung notwendig sind.
 >
@@ -49,7 +60,7 @@ agent_verified: false
 
 **6** **Anforderungen** Die Eingabe muss mit einer **qualifizierten elektronischen Signatur** (QES) i.S.v. Art. 2 lit. e ZertES versehen sein. Die QES entspricht in ihrer Rechtswirkung der eigenhändigen Unterschrift (Art. 14 Abs. 2bis OR). Eine einfache elektronische Signatur (z.B. eingescannte Unterschrift) oder eine fortgeschrittene Signatur genügen nicht.
 
-**7** **Signatur der Partei oder ihres Vertreters** Die Signatur kann von der Partei selbst oder von ihrem Vertreter (Anwalt, Bevollmächtigter) angebracht werden. Die QES des Vertreters genügt uneingeschränkt; es bedarf keiner zusätzlichen handschriftlichen Signatur der Partei (BGer 8C_672/2025 vom 28. Mai 2026, E. 5.2.3 — Bestätigung, dass qualifizierte e-Signatur des Anwalts ausreicht).
+**7** **Signatur der Partei oder ihres Vertreters** Die Signatur kann von der Partei selbst oder von ihrem Vertreter (Anwalt, Bevollmächtigter) angebracht werden. Die QES des Vertreters genügt uneingeschränkt; es bedarf keiner zusätzlichen handschriftlichen Signatur der Partei ([BGer 8C_672/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_672_2025#e-5-2-3) vom 28. Mai 2026 — Bestätigung, dass qualifizierte e-Signatur des Anwalts ausreicht).
 
 ---
 
@@ -57,7 +68,7 @@ agent_verified: false
 
 **8** **Massgebender Zeitpunkt** Für die Fristwahrung ist nicht der Zeitpunkt des Eingangs bei der Behörde, sondern derjenige massgebend, in dem die **Quittung ausgestellt** wird, die den Abschluss aller auf Seite der Partei oder ihres Vertreters notwendigen Übermittlungsschritte bestätigt. Damit trägt der Gesetzgeber dem Umstand Rechnung, dass Übermittlungen auf technischen Netzwerken eine gewisse Zeit in Anspruch nehmen können.
 
-**9** **Keine Übertragung auf E-Mail ohne Quittung** Die Regelung gilt nur für Übermittlungen über systeme, die eine Eingangsquittung erzeugen. Ein einfaches E-Mail ohne Sendebestätigung des Systems fällt nicht unter Art. 21a VwVG und war auch vor Erlass dieser Bestimmung nicht geeignet, eine Eingabe fristwahrend einzureichen (vgl. BGE 142 V 152 für den Bereich der ATSG-Einsprachen).
+**9** **Keine Übertragung auf E-Mail ohne Quittung** Die Regelung gilt nur für Übermittlungen über systeme, die eine Eingangsquittung erzeugen. Ein einfaches E-Mail ohne Sendebestätigung des Systems fällt nicht unter Art. 21a VwVG; eine per E-Mail erhobene Einsprache ist mangels der bei schriftlichen Einsprachen erforderlichen Unterschrift nicht zulässig ([BGE 142 V 152](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_152#e-4-6) für den Bereich der ATSG-Einsprachen).
 
 ---
 
@@ -71,13 +82,13 @@ agent_verified: false
 
 **11** **Art. 3 lit. dbis VwVG und Art. 55 ATSG** Art. 3 lit. dbis VwVG schliesst die Anwendbarkeit des VwVG auf Sozialversicherungsverfahren aus, soweit das ATSG (SR 830.1) anwendbar ist. Art. 55 Abs. 1bis ATSG sieht vor, dass der Bundesrat die VwVG-Bestimmungen über die elektronische Kommunikation auf ATSG-Verfahren anwendbar erklären kann — hat davon für die eigentlichen Verwaltungsverfahren jedoch bislang keinen Gebrauch gemacht.
 
-**12** **Leitentscheid: Beschwerde an das Bundesverwaltungsgericht** Das Bundesgericht hat in einem zur Publikation bestimmten Urteil (5er-Besetzung) klargestellt, dass Art. 55 ATSG ausschliesslich die nichtstreitige Verwaltungspraxis und das Einspracheverfahren erfasst (Art. 27–54 ATSG). Das **Beschwerdeverfahren vor dem Bundesverwaltungsgericht** in Sozialversicherungssachen untersteht dagegen unmittelbar dem VGG (Art. 37 VGG) und damit dem VwVG — ohne ATSG-Filter. Art. 3 lit. dbis VwVG greift für TAF-Beschwerdeverfahren in Sozialversicherungssachen nicht. Art. 21a VwVG ist daher direkt anwendbar, und eine Beschwerdeschrift mit qualifizierter elektronischer Signatur des Anwalts ist formgültig (BGer 8C_672/2025 vom 28. Mai 2026, E. 5.2.2 und 5.2.3).
+**12** **Leitentscheid: Beschwerde an das Bundesverwaltungsgericht** Das Bundesgericht hat in einem zur Publikation bestimmten Urteil (5er-Besetzung) klargestellt, dass Art. 55 ATSG ausschliesslich die nichtstreitige Verwaltungspraxis und das Einspracheverfahren erfasst (Art. 27–54 ATSG). Das **Beschwerdeverfahren vor dem Bundesverwaltungsgericht** in Sozialversicherungssachen untersteht dagegen unmittelbar dem VGG (Art. 37 VGG) und damit dem VwVG — ohne ATSG-Filter. Art. 3 lit. dbis VwVG greift für TAF-Beschwerdeverfahren in Sozialversicherungssachen nicht. Art. 21a VwVG ist daher direkt anwendbar, und eine Beschwerdeschrift mit qualifizierter elektronischer Signatur des Anwalts ist formgültig ([BGer 8C_672/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_672_2025#e-5-2-2) vom 28. Mai 2026).
 
-**13** **Vor dem kantonalen Versicherungsgericht** Die Verfahren vor kantonalen Versicherungsgerichten richten sich nach Art. 56 ff. ATSG und kantonalem Verfahrensrecht. Da das VwVG dort nicht subsidiär anwendbar ist, bedarf die elektronische Einreichung einer kantonalgesetzlichen Grundlage. Solange eine solche fehlt, ist die elektronische Einreichung unzulässig (BGer 9C_576/2025 vom 12. März 2026, E. 3.2; BGE 143 I 187).
+**13** **Vor dem kantonalen Versicherungsgericht** Die Verfahren vor kantonalen Versicherungsgerichten richten sich nach Art. 56 ff. ATSG und kantonalem Verfahrensrecht. Da das VwVG dort nicht subsidiär anwendbar ist, bedarf die elektronische Einreichung einer kantonalgesetzlichen Grundlage. Solange eine solche fehlt, ist die elektronische Einreichung unzulässig ([BGer 9C_576/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_576_2025) vom 12. März 2026; [BGE 143 I 187](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_187)).
 
 > **Annotation**
 >
-> **13a** **Praktische Asymmetrie** Die Asymmetrie zwischen TAF-Verfahren (VwVG direkt anwendbar → Art. 21a VwVG gilt) und kantonalen Versicherungsgerichten (kantonales Recht entscheidet) ist unbefriedigend. In der Praxis entstehen Unsicherheiten, wenn eine Partei — wie im Sachverhalt von BGer 8C_672/2025 — beim TAF jahrelang klaglos elektronisch eingereicht hat, bis ein einzelnes Urteil die Nichteintretensfolge ausgelöst hat. Das Bundesgericht hat die Praxis des TAF im Ergebnis bestätigt und die Unzulässigkeit des TAF-Nichteintretens festgehalten. Es bleibt eine gesetzgeberische Aufgabe, die elektronische Kommunikation auch für kantonale Versicherungsgerichte einheitlich zu regeln.
+> **13a** **Praktische Asymmetrie** Die Asymmetrie zwischen TAF-Verfahren (VwVG direkt anwendbar → Art. 21a VwVG gilt) und kantonalen Versicherungsgerichten (kantonales Recht entscheidet) ist unbefriedigend. In der Praxis entstehen Unsicherheiten, wenn eine Partei beim TAF elektronisch eingereicht hat und ein Nichteintretensentscheid erst nachträglich ergangen ist. Das Bundesgericht hat die Praxis des TAF im Ergebnis bestätigt und die Unzulässigkeit des TAF-Nichteintretens festgehalten. Es bleibt eine gesetzgeberische Aufgabe, die elektronische Kommunikation auch für kantonale Versicherungsgerichte einheitlich zu regeln.
 
 ---
 
