@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 26 VwVG — Akteneinsicht"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 26 VwVG – Akteneinsicht im Verwaltungsverfahren"
 tags: ["Rechtsprechung", "VwVG", "Akteneinsicht", "rechtliches Gehör", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 60%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Pinpoints für BGE 132 II 485 (neu E. 3.2), BGE 115 V 297, BGE 127 V 431 auf URL-Anker umgestellt. Kernaussagen zu 8C_319/2010 (neu: Aktenführungspflicht als Kehrseite des Akteneinsichtsrechts, E. 2.2.1), 1C_678/2023 (neu: Umfang des Akteneinsichtsrechts -- Kopien/Notizen, E. 3.1.1) und 2C_242/2025 (neu: anwendbares Verfahrensrecht bei Akteneinsichtsgesuchen aus VwVG-Verfahren, E. 3.2) waren falsch zitiert und wurden an die tatsächlichen Erwägungen angepasst. Fehlender revisions-Eintrag der ursprünglichen Fassung nicht rekonstruierbar; Ursprungsdatum 2026-06-28 aus Frontmatter übernommen."
 ---
 
 ## Leitentscheide (BGE)
@@ -14,7 +20,7 @@ agent_verified: true
 - **Thema**: Akteneinsicht in der Unfallversicherung
 - **Kernaussage**: Das Bundesgericht legt die Rechtsgrundlagen des Anspruchs auf Akteneinsicht in der UV dar und bestätigt, dass die akteneinsichtsrechtliche Regelung von UVG/UVV nicht grundsätzlich von den Art. 26 ff. VwVG abweicht. Das Akteneinsichtsrecht wird als Teilgehalt des Anspruchs auf rechtliches Gehör verstanden (Erw. 2e). Die Schranken der Akteneinsichtsgewährung und die Behandlung verwaltungsinterner Akten werden dargelegt (Erw. 2f–2g).
 - **Einschlägig für**: Abs. 1 lit. a–c, Schranken, verwaltungsinterne Akten, Verhältnis zu Spezialgesetzen
-- **Link**: [BGE 115 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_V_297)
+- **Link**: [BGE 115 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_V_297#e-2)
 
 ---
 
@@ -22,7 +28,7 @@ agent_verified: true
 - **Thema**: Rechtliches Gehör und Akteneinsicht bei unbestimmten Rechtsgrundlagen
 - **Kernaussage**: Stützt sich eine Verfügung auf einen zulässigerweise unbestimmt gehaltenen Rechtssatz, ist die Unbestimmtheit der Rechtsgrundlage durch eine Stärkung der Verfahrensrechte zu kompensieren. Dazu gehört namentlich das Recht auf Akteneinsicht (Art. 26 VwVG) und das Recht, sich vor Erlass einer Verfügung zur Sache zu äussern (Art. 30 VwVG).
 - **Einschlägig für**: Abs. 1, Verhältnis zu Art. 29 Abs. 2 BV, rechtliches Gehör
-- **Link**: [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431)
+- **Link**: [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431#e-3)
 
 ---
 
@@ -34,11 +40,11 @@ agent_verified: true
 
 ---
 
-### BGE 132 II 485, E. 3
-- **Thema**: Akteneinsicht im Fernmeldekonzessionsverfahren
-- **Kernaussage**: Im Verfahren über die Änderung, Übertragung und den Entzug einer Fernmeldekonzession (UMTS) befasst sich das Bundesgericht mit dem Anspruch auf rechtliches Gehör und Akteneinsicht. Die Akteneinsicht ist Teil der verfahrensrechtlichen Garantien, die auch in komplexen Konzessionsverfahren uneingeschränkt gelten.
+### BGE 132 II 485, E. 3.2
+- **Thema**: Akteneinsicht als Voraussetzung des rechtlichen Gehörs im Fernmeldekonzessionsverfahren
+- **Kernaussage**: Der Anspruch auf rechtliches Gehör (Art. 26 ff. VwVG, Art. 29 Abs. 2 BV) setzt voraus, dass die von einer Verfügung betroffene Person vorweg Einsicht in die für den Entscheid massgeblichen Akten nehmen kann, bevor sie sich zu den wesentlichen Punkten äussern kann.
 - **Einschlägig für**: Abs. 1, rechtliches Gehör, komplexe Verfahren
-- **Link**: [BGE 132 II 485](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_485)
+- **Link**: [BGE 132 II 485](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_485#e-3-2)
 
 ---
 
@@ -84,11 +90,11 @@ agent_verified: true
 
 ---
 
-### BGer 8C_319/2010 vom 15. Dezember 2010
-- **Thema**: Akteneinsicht im Sozialversicherungsverfahren
-- **Kernaussage**: Entscheid des Bundesgerichts im Sozialversicherungsrecht (8C-Kammer) mit Bezug auf die Akteneinsicht im Verwaltungsverfahren nach VwVG. Bestätigt die Anwendbarkeit von Art. 26 VwVG im Sozialversicherungsverfahren, soweit das Spezialgesetz keine abweichende Regelung enthält.
-- **Einschlägig für**: Abs. 1, Anwendbarkeit im Sozialversicherungsverfahren
-- **Link**: [BGer 8C_319/2010](https://mcp.opencaselaw.ch/entscheid/bger_8C_319_2010)
+### BGer 8C_319/2010, E. 2.2.1
+- **Thema**: Aktenführungspflicht der Verwaltung als Kehrseite des Akteneinsichtsrechts
+- **Kernaussage**: Die Aktenführungspflicht der Verwaltung stellt das Gegenstück zum — Bestandteil des rechtlichen Gehörs nach Art. 29 Abs. 2 BV bildenden — Akteneinsichtsrecht der versicherten Person dar, indem die Wahrnehmung des Akteneinsichtsrechts eine geordnete Aktenführung der Behörde voraussetzt.
+- **Einschlägig für**: Abs. 1, Verhältnis zur behördlichen Aktenführungspflicht
+- **Link**: [BGer 8C_319/2010](https://mcp.opencaselaw.ch/entscheid/bger_8C_319_2010#e-2-2-1)
 
 ---
 
@@ -116,19 +122,19 @@ agent_verified: true
 
 ---
 
-### BGer 1C_678/2023 vom 9. Dezember 2024
-- **Thema**: Baubewilligung — Akteneinsicht
-- **Kernaussage**: Im Baubewilligungsverfahren haben Nachbarn, die als Parteien im Sinne von Art. 6 VwVG qualifizieren, Anspruch auf Akteneinsicht nach Art. 26 VwVG. Die Akteneinsicht ist Voraussetzung dafür, dass die Nachbarn sich zum Baugesuch wirksam äussern können.
-- **Einschlägig für**: Abs. 1, Parteistellung, Baurecht, Akteneinsicht
-- **Link**: [BGer 1C_678/2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_678_2023)
+### BGer 1C_678/2023, E. 3.1.1
+- **Thema**: Umfang des Akteneinsichtsrechts (Baubewilligung, kantonales Verfahren)
+- **Kernaussage**: Nach herrschender Auffassung umfasst das aus Art. 29 Abs. 2 BV fliessende Akteneinsichtsrecht die Befugnis, die Akten am Sitz der Behörde einzusehen, Notizen anzufertigen und Fotokopien zu erstellen, sofern dies keinen unverhältnismässigen Aufwand für die Behörde bedeutet — ein Massstab, der auch die Auslegung des Akteneinsichtsumfangs nach Art. 26 VwVG prägt.
+- **Einschlägig für**: Abs. 1, Umfang der Akteneinsicht (Kopien, Notizen)
+- **Link**: [BGer 1C_678/2023](https://mcp.opencaselaw.ch/entscheid/bger_1C_678_2023#e-3-1-1)
 
 ---
 
-### BGer 2C_242/2025 vom 4. November 2025
-- **Thema**: Rechtsverweigerung und Akteneinsicht
-- **Kernaussage**: Die Verweigerung der Akteneinsicht kann eine Verletzung des rechtlichen Gehörs darstellen, die zur Aufhebung der Verfügung führt — insbesondere dann, wenn die Behörde ihre Entscheidung auf Akten stützt, die der Partei nicht zugänglich gemacht wurden. Die Akteneinsichtspflicht besteht unabhängig davon, ob die Partei die Akten ausdrücklich verlangt hat.
-- **Einschlägig für**: Abs. 1, Rechtsverweigerung, Verletzung rechtliches Gehör
-- **Link**: [BGer 2C_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_242_2025)
+### BGer 2C_242/2025, E. 3.2
+- **Thema**: Anwendbares Recht bei Akteneinsichtsgesuchen in bundesrechtlich geregelten Verfahren
+- **Kernaussage**: Ein Akteneinsichtsgesuch betreffend Akten aus einem VwVG-Verfahren (hier: vor der ETH-Beschwerdekommission) richtet sich nach dem für dieses Verfahren jeweils anwendbaren Verfahrensrecht (VwVG) und nicht nach dem Datenschutzgesetz, da es sich nicht um ein erstinstanzliches Verwaltungsverfahren im Sinne des DSG handelt.
+- **Einschlägig für**: Abs. 1, Verhältnis zum DSG, Abgrenzung des anwendbaren Verfahrensrechts
+- **Link**: [BGer 2C_242/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_242_2025#e-3-2)
 
 ---
 
