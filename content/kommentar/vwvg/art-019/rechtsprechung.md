@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 19 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 19 VwVG – Beweisverfahren"
 tags: ["Rechtsprechung", "VwVG", "Beweis", "BZP"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 72%, 0 offene Befunde): keine inhaltlichen Korrekturen nötig, revisions-Block nachgetragen (fehlte)."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Leitentscheide (BGE)

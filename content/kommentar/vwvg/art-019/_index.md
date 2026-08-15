@@ -2,15 +2,26 @@
 title: "Art. 19 — Beweisverfahren (BZP-Verweisung)"
 weight: 19
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-15
 description: "Kommentar zu Art. 19 VwVG – Ergänzende Anwendung des BZP-Beweisrechts"
 tags: ["VwVG", "Beweis", "BZP", "Beweiswürdigung", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 72%, 0 offene Befunde): Wortlaut-Fehlalarm behoben (Fussnoten-Syntax 'BZP^[SR 273]' durch exakten Fedlex-Wortlaut 'BZP SR 273' ersetzt). Belegapparat war bereits sauber -- keine inhaltlichen Korrekturen nötig."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Gesetzeswortlaut
 
-> Auf das Beweisverfahren finden ergänzend die Artikel 37, 39–41 und 43–61 BZP^[SR 273] sinngemäss Anwendung; an die Stelle der Straffolgen, die die BZP gegen säumige Parteien oder Dritte vorsieht, tritt die Straffolge nach Artikel 60 dieses Gesetzes.
+> Auf das Beweisverfahren finden ergänzend die Artikel 37, 39–41 und 43–61 BZP SR 273 sinngemäss Anwendung; an die Stelle der Straffolgen, die die BZP gegen säumige Parteien oder Dritte vorsieht, tritt die Straffolge nach Artikel 60 dieses Gesetzes.
 
 ## Kommentierung
 
