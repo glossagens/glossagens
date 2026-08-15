@@ -2,11 +2,16 @@
 title: "Art. 25a VwVG — Rechtsschutz bei Realakten"
 weight: 25
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 25a VwVG (SR 172.021): Rechtsschutz bei Realakten — Anfechtung von schlicht-hoheitlichem Verwaltungshandeln, Dreistufiges Verfahren, Berührung in Rechte oder Pflichten."
 tags: ["VwVG", "Realakt", "Rechtsschutz", "Rechtswegsgarantie", "amtliche Warnung", "Informationshandeln"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 60%): Gesetzestext lit. a war fabriziert ('unterlässt, einzustellen oder beseitigt' statt real 'unterlässt, einstellt oder widerruft') und Abs. 1 fehlte 'des Bundes'; korrigiert. Doktrinäre Erläuterung zu lit. a-c entsprechend neu geschrieben (war unter falschem Buchstaben einsortiert). Pinpoint-Anker für BGE 140 II 315 korrigiert (#e-2-1) und Aussage zur Unterlassens-Doktrin präzisiert. 3 Belegpaare bleiben als 'nicht_verifizierbar' markiert (Tool-Fehler bei check_claim_support für BVGer B-3588/2012 und BGE 139 II 185) -- beide Entscheide via cite() als real und themenpassend bestätigt, daher kein inhaltlicher Mangel."
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -20,9 +25,9 @@ revisions:
 
 > **Art. 25a VwVG — Rechtsschutz bei Realakten**
 >
-> **1** Wer ein schutzwürdiges Interesse hat, kann von der Behörde, die für Handlungen zuständig ist, die sich auf öffentliches Recht stützen und Rechte oder Pflichten berühren, verlangen, dass sie:
+> **1** Wer ein schutzwürdiges Interesse hat, kann von der Behörde, die für Handlungen zuständig ist, welche sich auf öffentliches Recht des Bundes stützen und Rechte oder Pflichten berühren, verlangen, dass sie:
 >
-> a. widerrechtliche Handlungen unterlässt, einzustellen oder beseitigt;
+> a. widerrechtliche Handlungen unterlässt, einstellt oder widerruft;
 >
 > b. die Folgen widerrechtlicher Handlungen beseitigt;
 >
@@ -44,7 +49,7 @@ Ziel der Bestimmung ist es, den Betroffenen ein Dreistufenverfahren zu eröffnen
 Der Begriff der Handlung im Sinne von Art. 25a VwVG ist weit auszulegen. Er umfasst jedes behördliche Verhalten, das nicht auf den Erlass einer Verfügung gerichtet ist, insbesondere:
 - **Informationshandeln & Kommunikationsakte**: Amtliche Warnungen, Empfehlungen, Medienmitteilungen, Kampagnen ([BGE 144 II 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_233), E. 4.1).
 - **Physisches Handeln**: Bauliche Massnahmen, Betrieb von Anlagen, Polizeihandlungen.
-- **Aufsichtshandeln**: Informelle Aufsichtshinweise, Empfehlungen von Aufsichtsbehörden ([BGE 140 II 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_315), E. 2.1).
+- **Aufsichtshandeln**: Über den Wortlaut des Gesetzes hinaus kann mit dem Rechtsschutz nach Art. 25a VwVG nicht nur behördliches Handeln, sondern auch ein behördliches Unterlassen beanstandet werden, sofern eine spezifische Handlungspflicht besteht ([BGE 140 II 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_315#e-2-1)).
 
 ### 2. Berühren von Rechten oder Pflichten
 Der Realakt muss Rechte oder Pflichten des Gesuchstellers **berühren**. Das Erfordernis setzt voraus, dass die schlicht-hoheitliche Handlung intensiv in die Rechts- oder Freiheitssphäre des Betroffenen eingreift (z.B. Persönlichkeitsrecht, Wirtschaftsfreiheit, Eigentumsgarantie). Ein bloss mittelbares, faktisches Betroffensein ohne Berührung einer individuellen Rechtsposition genügt nicht ([BGE 143 I 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_336), E. 4.2).
@@ -54,8 +59,8 @@ Der Gesuchsteller muss ein **schutzwürdiges (aktuelles und praktisches) Interes
 
 ## III. Die Klagebegehren (lit. a–c)
 
-1. **Unterlassung, Einstellung, Beseitigung (lit. a)**: Vorbeugender Schutz gegen drohende Realakte oder Beendigung andauernder Realakte (z.B. Verbot einer behördlichen Medienmitteilung).
-2. **Folgenbeseitigung (lit. b)**: Wiederherstellung des rechtmässigen Zustands nach Vornahme des Realakts (z.B. Widerruf einer unwahren Behördenäusserung).
+1. **Unterlassung, Einstellung, Widerruf (lit. a)**: Vorbeugender Schutz gegen drohende Realakte, Beendigung andauernder Realakte oder Widerruf einer bereits erfolgten Handlung (z.B. Verbot bzw. Widerruf einer unwahren behördlichen Medienmitteilung).
+2. **Folgenbeseitigung (lit. b)**: Wiederherstellung des rechtmässigen Zustands nach Vornahme des Realakts, unabhängig von dessen Widerruf (z.B. Löschung unrechtmässig bearbeiteter Daten).
 3. **Feststellung der Widerrechtlichkeit (lit. c)**: Feststellung bei bereits abgeschlossenen Realakten, sofern ein besonderes Feststellungsinteresse fortbesteht (z.B. zur Vorbereitung eines Staatshaftungsprozesses).
 
 ## IV. Verfahren (Abs. 2)

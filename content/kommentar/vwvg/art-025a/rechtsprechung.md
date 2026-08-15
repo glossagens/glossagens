@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 25a VwVG"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: 2026-08-16
 description: "Übersicht der Rechtsprechung zu Art. 25a VwVG — Rechtsschutz bei Realakten, amtliche Warnungen, Aufsichtsakte, Rechtswegsgarantie."
 tags: ["Rechtsprechung", "VwVG", "Realakt", "Rechtsschutz", "Rechtswegsgarantie"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 60%): Pinpoint und Kernaussage zu BGE 139 II 185 korrigiert (falscher E.-Verweis, jetzt #e-4, Aussage auf Aufgaben/Befugnisse der Aufsichtsbehörden im Kernenergierecht präzisiert). Pinpoint #e-4-3 für 2C_272/2012 ergänzt, Kernaussage an tatsächliche Erwägung angepasst (Kriterien für anfechtbaren Hoheitsakt, verifiziert am realen Fall Streichung von Sportlektionen)."
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -51,12 +56,12 @@ Abgrenzung zwischen Verfahren nach Art. 25 und Art. 25a VwVG im Rahmen der Über
 Medienmitteilungen der Wettbewerbskommission (WEKO) stellen Realakte dar. Unternehmen, die durch Vorverurteilende Medienmitteilungen im Persönlichkeitsrecht verletzt werden, können nach Art. 25a VwVG eine Richtigstellung oder Feststellung verlangen.
 
 ### 8. BGE 139 II 185 — Aufsichts- und Bewilligungshandeln im Energiebereich
-**[BGE 139 II 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_185)** (28. März 2013)
-Prüfung von Anwendungsfragen von Art. 25a VwVG bei sicherheitstechnischen Kontrollen und Berichten von Sicherheitsbehörden an Kernkraftwerksbetreiber (E. 1.3).
+**[BGE 139 II 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_185#e-4) E. 4**
+Überblick über die gesetzlichen Aufgaben und Befugnisse der Aufsichtsbehörden im Kernenergierecht, welche die Grundlage für die Abgrenzung von Aufsichtshandeln als Realakt im Sinne von Art. 25a VwVG bilden.
 
-### 9. BGer 2C_272/2012 — Schulorganisatorisches Handeln als Realakt
-**[BGer 2C_272/2012](https://mcp.opencaselaw.ch/entscheid/bger_2C_272_2012)** (9. Juli 2012)
-Schulorganisatorische Entscheide (z.B. Kürzung von Turnlektionen) berühren als Realakte die Rechtsstellung der Betroffenen nur dann ausreichend im Sinne von Art. 25a VwVG, wenn ein individueller Grundrechtseingriff vorliegt.
+### 9. BGer 2C_272/2012 — Schulorganisatorisches Handeln als anfechtbarer Akt
+**[BGer 2C_272/2012](https://mcp.opencaselaw.ch/entscheid/bger_2C_272_2012#e-4-3) E. 4.3**
+Für die Beurteilung, ob eine schulorganisatorische Anordnung (hier: Streichung von Sportlektionen) als anfechtbarer Hoheitsakt einzustufen ist, ist massgebend, wieweit das Verhalten geeignet ist, Grundrechte oder andere Rechtsschutzbedürfnisse der Betroffenen zu berühren.
 
 ### 10. BGer 1C_455/2011 — Immissionen von Kampfjets und Realaktschutz
 **[BGer 1C_455/2011](https://mcp.opencaselaw.ch/entscheid/bger_1C_455_2011)** (12. März 2012)
