@@ -2,10 +2,21 @@
 title: "Art. 5 — Verfügungsbegriff"
 weight: 5
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-15
 description: "Kommentar zu Art. 5 VwVG – Begriff der Verfügung im Verwaltungsverfahrensrecht"
 tags: ["VwVG", "Verfügung", "Verwaltungsverfahren", "Verwaltungsrecht", "Realakt", "Feststellungsverfügung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C, 47%): fabrizierten Art.-73-BGG-Wortlaut ersetzt (tatsächlich Markenwiderspruchsverfahren, nichts mit Verfügungsbegriff); 8 ungestützte Belegpaare korrigiert (Zitat-Vertauschung 1C_37/2019/2C_255/2013, invertierte Aussage zu BGE 121 II 473, verengte Aussage zu BGE 137 V 210, präzisierte Aussagen zu BGE 126 V 143 und 2C_444/2015); revisions-Block nachgetragen (fehlte)."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Gesetzestext
@@ -27,7 +38,7 @@ agent_verified: true
 
 Art. 5 VwVG definiert den **Verfügungsbegriff** — das fundamentale Tor zum Verwaltungsverfahren und zum verwaltungsgerichtlichen Rechtsschutz. Nur wer eine Verfügung hat, kann sie anfechten; nur wer anfechten kann, erhält Rechtsschutz. Die Norm ist mit **über 76'000 Zitaten** eine der meistzitierten Bestimmungen des Schweizer Verwaltungsrechts und prägt die Dogmatik aller nachgelagerten Verfahrensrechte (BGG, ATSG, kantonale VRPGs).
 
-Die dogmatische Bedeutung reicht weit über das VwVG hinaus: Der Verfügungsbegriff hat **Strahlwirkung** in das gesamte Verwaltungsrecht des Bundes (z.B. ATSG Art. 49, BGG Art. 73, cantonale VRPGs).
+Die dogmatische Bedeutung reicht weit über das VwVG hinaus: Der Verfügungsbegriff hat **Strahlwirkung** in das gesamte Verwaltungsrecht des Bundes (z.B. ATSG Art. 49, kantonale VRPGs).
 
 ---
 
@@ -45,11 +56,13 @@ Die Anordnung muss von einer **Behörde** im Sinne des öffentlichen Rechts stam
 
 Die Anordnung muss **individuell-konkret** sein — d.h. sich auf eine bestimmte Person oder einen bestimmten Sachverhalt beziehen. Davon abgegrenzt werden:
 - **Generell-abstrakte Erlasse**: Gesetze, Verordnungen — nicht anfechtbar als Verfügung, aber möglich als abstrakte Normenkontrolle (Art. 189 BV)
-- **Generell-konkrete Erlasse**: z.B. Zuteilung von Kontingenten an eine bestimmte Gruppe — ebenfalls keine Verfügung im Sinne von Art. 5 VwVG ([BGE 128 II 34](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_II_34))
+- **Generell-konkrete Erlasse**: Regelungen, die sich an eine unbestimmte Zahl von Adressaten nach abstrakten Kriterien richten, ohne einen Einzelfall zu regeln — ebenfalls keine Verfügung im Sinne von Art. 5 VwVG.
+
+Demgegenüber betrifft der individuelle Bescheid über einen Zollkontingentsanteil, den die Verwaltung einem einzelnen Marktteilnehmer eröffnet, eine auf öffentliches Recht des Bundes gestützte Verfügung im Sinne von Art. 5 VwVG ([BGE 128 II 34](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_II_34#e-1)).
 
 #### 3. Auf öffentliches Recht des Bundes gestützt
 
-Die Anordnung muss sich auf **öffentliches Recht des Bundes** stützen. Privatrechtliches Handeln der Verwaltung (z.B. Abschluss eines privatrechtlichen Versicherungsvertrags) fällt nicht unter den Verfügungsbegriff. Kantonales Recht genügt nur, wenn die Verfügung bundesrechtlich zu beurteilen ist ([BGE 126 V 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_V_143)).
+Die Anordnung muss sich auf **öffentliches Recht des Bundes** stützen. Privatrechtliches Handeln der Verwaltung (z.B. Abschluss eines privatrechtlichen Versicherungsvertrags) fällt nicht unter den Verfügungsbegriff. Ob eine auf kantonalem Verfahrensrecht beruhende Verfügung dem bundesrechtlichen Verfügungsbegriff untersteht, bestimmt sich danach, ob der materiellrechtliche Streitgegenstand dem Bundessozialversicherungsrecht angehört ([BGE 126 V 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_V_143)).
 
 Mit Verwaltungsgerichtsbeschwerde kann gegenüber einer **auf kantonales Recht gestützten Verfügung** geltend gemacht werden, es hätte richtigerweise Bundesrecht angewendet werden müssen ([BGE 110 V 54](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_54)).
 
@@ -67,10 +80,12 @@ Die drei lit. a–c erschöpfen den Gegenstand von Verfügungen:
 
 Die bundesgerichtliche Rechtsprechung unterscheidet streng zwischen:
 
-- **Anfechtungsgegenstand**: Die Verfügung als formelles Objekt der Anfechtung ([BGE 125 V 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_413) E. 2)
+- **Anfechtungsgegenstand**: Die Verfügung als formelles Objekt der Anfechtung ([BGE 125 V 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_413#e-2))
 - **Streitgegenstand**: Der davon betroffene Rechtsanspruch oder das Rechtsverhältnis
 
-Mit der rückwirkenden Zusprechung einer abgestuften Rente entsteht ein **neuer Streitgegenstand**, der über den Anfechtungsgegenstand hinausgehen kann ([BGE 125 V 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_413)). Durch mehrere Verfügungen geregelte Rechtsverhältnisse sind in anfechtungs- und streitgegenständlicher Hinsicht zu unterscheiden ([BGE 131 V 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_164)).
+Mit der rückwirkenden Zusprechung einer abgestuften und/oder befristeten Rente wird ein einheitliches Rechtsverhältnis im anfechtungs- und streitgegenständlichen Sinne geregelt ([BGE 125 V 413](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_413#e-2)).
+
+Durch mehrere Verfügungen geregelte Rechtsverhältnisse sind in anfechtungs- und streitgegenständlicher Hinsicht zu unterscheiden ([BGE 131 V 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_164)).
 
 ---
 
@@ -115,17 +130,17 @@ Die negative Abgrenzung sichert die **Zuständigkeitsabgrenzung** zwischen Verwa
 
 **Realakte** sind tatsächliche Handlungen der Verwaltung ohne rechtsgestaltende Wirkung (z.B. Informationsbeschaffung, Warnungen, Kontrollen). Sie sind keine Verfügungen im Sinne von Art. 5 VwVG, können jedoch über Art. 25a VwVG gerichtlich überprüft werden, wenn ein **schutzwürdiges Interesse** besteht.
 
-Der Anspruch auf eine Verfügung über Realakte nach Art. 25a VwVG besteht **nicht**, wenn die Gesetzgebung den Rechtsschutz gegenüber dem Realakt bewusst ausgeschlossen hat ([1C_37/2019](https://mcp.opencaselaw.ch/entscheid/bger_1C_37_2019) E. 4.1 — KlimaSeniorinnen).
+Der Anspruch auf eine Verfügung über Realakte nach Art. 25a VwVG besteht **nicht**, wenn die Gesetzgebung den Rechtsschutz gegenüber dem Realakt bewusst ausgeschlossen hat ([2C_255/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_255_2013#e-3-1) — KKW Mühleberg). Im Fall der Vereinigung KlimaSeniorinnen Schweiz verneinte das Bundesgericht, dass Private durch unterlassenen Klimaschutz mit hinreichender Intensität im Sinne von Art. 25a VwVG in eigenen Rechten berührt sind ([1C_37/2019](https://mcp.opencaselaw.ch/entscheid/bger_1C_37_2019) E. 5.5).
 
 ### Verwaltungsverordnungen und innere Anordnungen
 
-- **Verwaltungsverordnungen**: Generell-abstrakte Weisungen an untergeordnete Behörden — keine Verfügung nach Art. 5 VwVG, aber anfechtbar unter bestimmten Voraussetzungen ([BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473))
+- **Verwaltungsverordnungen**: Generell-abstrakte Weisungen an untergeordnete Behörden — keine Verfügung nach Art. 5 VwVG und als solche **nicht** selbständig anfechtbar; der Richter berücksichtigt sie bei seiner Entscheidung aber, soweit sie eine dem Einzelfall angepasste und zutreffende Auslegung des Gesetzes zulassen ([BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473#e-2))
 - **Innere Anordnungen**: Rein verwaltungsinterne Weisungen ohne Aussenwirkung — keine Verfügung
 - **Auskünfte**: Blosse Auskünfte der Verwaltung sind keine Verfügungen, da sie keine rechtverbindliche Wirkung entfalten
 
 ### Abgrenzung Verfügung / Erlass / Auskunft
 
-Eine der wichtigsten Abgrenzungen der Praxis ([BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473)):
+Eine wichtige Abgrenzung der Praxis unterscheidet die Verfügung von Erlass, Verwaltungsverordnung, innerdienstlicher Anordnung und blosser Auskunft ([BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473#e-2)). Zusammengefasst:
 
 | Kategorie | Merkmal | Anfechtbarkeit |
 |-----------|---------|---------------|
@@ -145,13 +160,13 @@ Der Verfügungsbegriff des **ATSG** (Art. 49 ATSG) lehnt sich an Art. 5 VwVG an,
 2. **Verzicht auf Eintretensverfügung**: Nach Art. 49 Abs. 3 ATSG kann die zuständige Stelle auf den Erlass einer Eintretensverfügung verzichten, wenn sie eine Frist ansetzt
 3. **Begutachtungsanordnung**: Kein Verfügungscharakter nach ATSG ([BGE 132 V 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_93))
 
-Die Rechtsprechung wendet Art. 5 VwVG ergänzend an, wenn das ATSG keine eigene Regelung trifft ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210) E. 3.4.2.6).
+Bei fehlendem Konsens über den Gutachter ist die Anordnung einer Begutachtung in Form einer Verfügung zu kleiden, welche dem Verfügungsbegriff gemäss Art. 5 VwVG entspricht ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210#e-3-4-2-6)).
 
 ---
 
 ## Verhältnis zum BGG
 
-Im BGG wird der Verfügungsbegriff von Art. 5 VwVG durch **Art. 73 BGG** vorausgesetzt: «Die Beschwerde ist zulässig gegen Verfügungen [...]». Die BGG-Dogmatik übernimmt den VwVG-Verfügungsbegriff, modifiziert ihn aber in Einzelfällen (z.B. Art. 82 lit. a BGG für Beschwerde gegen kantonalrechtliche Verfügungen).
+Das BGG verzichtet — anders als das VwVG — auf den Begriff der Verfügung und spricht durchwegs von **«Entscheiden»**: Nach Art. 82 lit. a BGG beurteilt das Bundesgericht Beschwerden gegen Entscheide in Angelegenheiten des öffentlichen Rechts. Der Entscheidbegriff des BGG ist weiter als der Verfügungsbegriff von Art. 5 VwVG: Er erfasst kantonale End- und Teilentscheide unabhängig davon, ob das kantonale Verfahrensrecht sie als Verfügung qualifiziert; auf Bundesebene bleiben die letztinstanzlichen Anfechtungsobjekte demgegenüber regelmässig Verfügungen im Sinne von Art. 5 VwVG.
 
 ---
 
@@ -163,10 +178,12 @@ Im BGG wird der Verfügungsbegriff von Art. 5 VwVG durch **Art. 73 BGG** vorausg
 
 ## Aufsichtsrechtliche Realakte
 
-Aufsichtsrechtliche Realakte sind **keine Verfügungen** nach Art. 5 VwVG. Der Rechtsschutz gegen solche Akte wird über Art. 25a VwVG eröffnet, sofern ein schutzwürdiges Interesse besteht. Die Rechtsprechung hat dies insbesondere im Kernenergierecht (KKW Mühleberg) und im Klimaschutz (KlimaSeniorinnen) klargestellt ([2C_255/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_255_2013); [1C_37/2019](https://mcp.opencaselaw.ch/entscheid/bger_1C_37_2019)).
+Aufsichtsrechtliches Verwaltungshandeln, das keine Verfügung im Sinne von Art. 5 VwVG darstellt, kann gleichwohl über Art. 25a VwVG gerichtlich überprüft werden, sofern ein schutzwürdiges Interesse besteht — so im Kernenergierecht bei der Aufsicht über das KKW Mühleberg ([2C_255/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_255_2013#e-4-3)).
+
+Ein schutzwürdiges Interesse fehlt jedoch, wenn die geltend gemachte Betroffenheit — wie bei einer allgemeinen, die gesamte Bevölkerung treffenden Klimaschutz-Unterlassung — nicht mit hinreichender Intensität in eigenen Rechten besteht ([1C_37/2019](https://mcp.opencaselaw.ch/entscheid/bger_1C_37_2019#e-5-5) — KlimaSeniorinnen).
 
 ---
 
 ## Kantonalrechtliche Verfügungsbegriffe
 
-Der kantonalrechtliche Verfügungsbegriff stimmt grundsätzlich mit dem bundesrechtlichen Begriff von Art. 5 VwVG überein. Wo kantonales Verfahrensrecht den Verfügungsbegriff nicht umschreibt, gilt die Bundesrechtsdogmatik analog ([2C_444/2015](https://mcp.opencaselaw.ch/entscheid/bger_2C_444_2015) E. 3.2.2).
+Der Verfügungsbegriff ist nicht auf Bundesrecht beschränkt. Nach der Praxis stimmt der kantonalrechtliche Verfügungsbegriff, wo das kantonale Verfahrensrecht ihn nicht eigens umschreibt, mit demjenigen von Art. 5 VwVG überein ([2C_444/2015](https://mcp.opencaselaw.ch/entscheid/bger_2C_444_2015#e-3-2-2)).

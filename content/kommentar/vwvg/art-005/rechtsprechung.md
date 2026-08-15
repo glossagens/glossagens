@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 5 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 5 VwVG – Verfügungsbegriff"
 tags: ["Rechtsprechung", "VwVG", "Verfügung", "Verwaltungsverfahren", "Realakt"]
 agent_verified: false
+revisions:
+  - date: 2026-08-15
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C, 47%): BGE 135 I 6 entfernt (Regeste betrifft kantonale Zuständigkeit im Straf-/Massnahmenvollzug, nichts mit dem Verfügungsbegriff); Kernaussage zu BGE 128 II 34 korrigiert (individuelle Kontingentszuteilung = Verfügung, nicht generell-konkreter Erlass); Themenlabel 2C_444/2015 korrigiert; revisions-Block nachgetragen (fehlte)."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Leitentscheide (BGE)
@@ -24,7 +35,7 @@ agent_verified: false
 
 ### BGE 137 V 210 — MEDAS-Gutachten / kein Verfügungscharakter
 - **Thema**: Administrativ- und Gerichtsgutachten bei MEDAS; faires Verfahren
-- **Kernaussage**: Die Einholung von Administrativ-/Gerichtsgutachten bei MEDAS stellt keine Verfügung im Sinne von Art. 5 VwVG dar. Der Verfügungsbegriff nach Art. 5 VwVG gilt ergänzend im ATSG-Bereich (Art. 49 ATSG).
+- **Kernaussage**: Bei fehlendem Konsens über den Gutachter ist die Anordnung einer MEDAS-Begutachtung in Form einer Verfügung zu kleiden, welche dem Verfügungsbegriff gemäss Art. 5 VwVG entspricht (E. 3.4.2.6; Praxisänderung gegenüber der früheren Rechtsprechung, wonach eine formlose Mitteilung genügte).
 - **Einschlägig für**: Abgrenzung Verfügung vs. Verfahrenshandlung
 - **Zitate**: ~20'500
 
@@ -58,12 +69,6 @@ agent_verified: false
 - **Einschlägig für**: Abs. 1 lit. c (Negativverfügung)
 - **Zitate**: ~1'971
 
-### BGE 135 I 6 — Kantonale Instanz als Bundesgerichtsinstanz
-- **Thema**: Letzte kantonale Instanz; Verfügungsbegriff
-- **Kernaussage**: Kantonale Instanzen handeln als Bundesgerichtsinstanzen, wenn Bundesrecht die Regelung vorsieht. Der Verfügungsbegriff richtet sich nach dem anwendbaren Bundesrecht.
-- **Einschlägig für**: Abs. 1 (Einzel Fall-Element bei kantonaler Zuweisung)
-- **Zitate**: ~2'489
-
 ---
 
 ## Weitere wichtige Entscheide
@@ -78,9 +83,9 @@ agent_verified: false
 - **Kernaussage**: Zulässiges Rechtsmittel gegen eine generell-abstrakte kantonale Regelung, die das Recht auf gleichen Lohn für gleichwertige Arbeit verletzt.
 - **Zitate**: ~1'334
 
-### BGE 128 II 34 — Zollkontingentverteilung
-- **Thema**: Verteilung des Zollkontingents; generell-konkreter Erlass
-- **Kernaussage**: Das System der Zollkontingentverteilung stellt einen generell-konkreten Erlass dar — keine Verfügung im Sinne von Art. 5 VwVG.
+### BGE 128 II 34 E. 1 — Zollkontingentverteilung
+- **Thema**: Individuelle Zuteilung eines Zollkontingentsanteils; Verfügungscharakter
+- **Kernaussage**: Die gegenüber einem bestimmten Unternehmen ergangene individuelle Zuteilung eines Zollkontingentsanteils ist eine auf öffentliches Recht des Bundes gestützte Verfügung im Sinne von Art. 5 VwVG (E. 1); in der Sache verstösst das Verteilsystem der Schlachtviehverordnung nicht gegen Art. 48 LwG.
 - **Zitate**: ~1'274
 
 ---
@@ -95,9 +100,9 @@ agent_verified: false
 - **Thema**: Anspruch auf Verfügung über Realakte im Klimaschutzbereich
 - **Kernaussage**: Der Anspruch auf eine Verfügung nach Art. 25a VwVG besteht nicht, wenn die Gesetzgebung den Rechtsschutz gegenüber dem Realakt bewusst ausgeschlossen hat.
 
-### 2C_444/2015 — Anschlussgebühren / Verfügungsbegriff
-- **Thema**: Kantonalrechtlicher Verfügungsbegriff
-- **Kernaussage**: Der kantonalrechtliche Verfügungsbegriff stimmt grundsätzlich mit Art. 5 VwVG überein.
+### 2C_444/2015 E. 3.2.2 — Wasser-/Abwassergebühren / Verfügungsbegriff
+- **Thema**: Kantonalrechtlicher Verfügungsbegriff; Nachforderung von Gebühren
+- **Kernaussage**: Der kantonalrechtliche Verfügungsbegriff stimmt, wo das kantonale Recht ihn nicht eigens umschreibt, nach der Praxis mit demjenigen von Art. 5 VwVG überein (E. 3.2.2).
 
 ### 2C_608/2017 — Betäubungsmittelabgabe / Feststellungsverfügung
 - **Thema**: Feststellungsverfügung nach Art. 5 Abs. 1 lit. b und Art. 25 VwVG
@@ -105,4 +110,10 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-05-23*
+---
+
+## Entfernte Entscheide
+
+- **BGE 135 I 6**: Regeste betrifft die Zuständigkeit des Verwaltungsgerichts Zürich als letzte kantonale Instanz in Straf- und Massnahmenvollzugsstreitigkeiten (Art. 29a BV, Art. 80/130 BGG) — keine inhaltliche Aussage zum Verfügungsbegriff nach Art. 5 VwVG. Die frühere Kernaussage war eine unzutreffende Zuordnung.
+
+*Letzte Aktualisierung: 2026-08-15*
