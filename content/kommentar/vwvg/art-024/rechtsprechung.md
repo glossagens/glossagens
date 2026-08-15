@@ -2,23 +2,34 @@
 title: "Rechtsprechung zu Art. 24 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 24 VwVG – Fristwiederherstellung"
 tags: ["Rechtsprechung", "VwVG", "Frist", "Fristwiederherstellung"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil A, 0 offene Befunde): Kernaussagen zu BGE 124 V 372 und BGE 144 II 401 an den tatsächlichen Erwägungstext angepasst, Links ergänzt."
+  - date: 2026-05-23
+    by: "Hermes Agent"
+    model: "unknown"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 124 V 372
+### [BGE 124 V 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_372)
 - **Thema**: Fristenstillstand vs. Fristwiederherstellung
-- **Kernaussage**: Verhältnis zwischen Art. 22a VwVG (Fristenstillstand bei höherer Gewalt) und Art. 24 VwVG (Fristwiederherstellung bei unverschuldeter Säumnis) in der Versicherungspraxis.
+- **Kernaussage**: Ob der in Art. 22a VwVG geregelte Fristenstillstand auf die Einsprachefrist gegen Verfügungen eines nach Art. 68 Abs. 1 UVG zugelassenen Versicherers anwendbar ist, kann offenbleiben, wenn der Versicherer die Rechtzeitigkeit einer Eingabe mangels ordnungsgemässer Aktenführung ohnehin nicht widerlegen kann.
 - **Einschlägig für**: Systematik der Fristverlängerung
 
-### BGE 144 II 401
+### [BGE 144 II 401](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_401)
 - **Thema**: Eröffnung an Auslandwohnende
-- **Kernaussage**: Bei Eröffnung einer Verfügung an Auslandwohnende beginnt die Rechtsmittelfrist erst mit der wirksamen Zustellung. Massgeblich ist der tatsächliche Zugang.
-- **Einschlägig für**: Beginn der Rechtsmittelfrist
+- **Kernaussage**: Verfügungsadressaten mit Wohnsitz im Ausland, die weder mit dem Schweizer Recht vertraut noch anwaltlich vertreten sind, haben Anspruch darauf, von der Behörde in geeigneter Weise über die besonderen gesetzlichen Anforderungen zur Fristwahrung im internationalen Verhältnis informiert zu werden.
+- **Einschlägig für**: Grundlage für eine allfällige Fristwiederherstellung bei unzureichender Information
 
 ### BGE 128 V 89
 - **Thema**: Rechtskraft bei verspätetem Einspruch
