@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 8 EMRK"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-07-27
+lastmod: 2026-08-16
 description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Datenschutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht, Umweltschutz, Identität, häusliche Gewalt, Diskriminierung, digitaler Datenschutz, körperliche Integrität"
 tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: BGE-Block am Dateiende bereinigt (siehe _index.md-Revisionsvermerk fuer Details) -- 2 fabrizierte Entscheide entfernt, 4 thematisch falsch zugeordnete ersetzt, 134 III 241 an korrekte Stelle verschoben."
 ---
 
 ## Rechtsprechung zu Art. 8 EMRK
@@ -626,9 +632,9 @@ Staatsschutzbedingte Überwachung und Schutz der Korrespondenz und des Privatleb
 
 ### BGE 123 IV 236 (04.11.1997)
 
-**Telefonüberwachung im Strafverfahren**
+**Quellenschutz von Journalisten bei Fernmeldeüberwachung**
 
-Voraussetzungen für die Überwachung des Telefonverkehrs im Strafverfahren. Anforderungen an die gesetzliche Grundlage und Verhältnismässigkeit unter Art. 8 EMRK.
+Der Fernmeldeverkehr von Journalisten als Dritten darf grundsätzlich nicht überwacht werden, wenn dadurch der aus Art. 10 EMRK abgeleitete Quellenschutz illusorisch würde (E. 8a). Betrifft primär Art. 10 EMRK, nicht Art. 8 EMRK.
 
 *Einschlägig für:* Telefonüberwachung, Strafverfahren, gesetzliche Grundlage
 
@@ -644,73 +650,53 @@ Schutz des Brief- und Kommunikationsgeheimnisses unter Art. 8 EMRK. Verhältnism
 
 ---
 
-### BGE 134 I 83 (2008)
-
-**Umweltbeeinträchtigungen und Art. 8 EMRK**
-
-Das BGer anerkennt, dass Umweltbeeinträchtigungen unter bestimmten Voraussetzungen in den Schutzbereich von Art. 8 EMRK fallen können. Die Schwelle für eine Konventionsverletzung ist jedoch hoch.
-
-*Einschlägig für:* Umweltschutz, Privatleben, Schutzbereich
-
----
-
 ### BGE 134 III 241 (2008)
 
-**Datenbearbeitung und Persönlichkeitsschutz**
+**Kenntnis der eigenen Abstammung**
 
-Die unbefugte Weitergabe von Personendaten fällt in den Schutzbereich von Art. 8 EMRK. Der Schutzbereich ist weit auszulegen, gestützt auf die EGMR-Rechtsprechung (Niemietz).
+Anspruch des volljährigen ehelichen Kindes auf Kenntnis der eigenen Abstammung, gestützt auf Art. 8 EMRK und Art. 28 ZGB (E. 5).
 
-*Einschlägig für:* Datenbearbeitung, Persönlichkeitsschutz, Privatleben
-
----
-
-### BGE 137 I 305 (2011)
-
-**Vorratsdatenspeicherung — strenger Verhältnismässigkeitsmassstab**
-
-Prüfung der schweizerischen Regelung zur Aufbewahrung von Verkehrsdaten unter dem Blickwinkel von Art. 8 EMRK. Unter Berücksichtigung der EGMR-Rechtsprechung (Zakharov, S. und Marper) unterliegt die Vorratsdatenspeicherung einem strengen Verhältnismässigkeitsmassstab.
-
-*Einschlägig für:* Vorratsdatenspeicherung, Telekommunikationsdaten, Verhältnismässigkeit
+*Einschlägig für:* Identität, Abstammung, Persönlichkeitsschutz
 
 ---
 
-### BGE 140 I 205 (2014)
+### BGE 144 I 126 (2018)
 
-**Videoüberwachung und Art. 8 EMRK**
+**Speicherung von Randdaten der Telekommunikation**
 
-Das BGer befasste sich mit der Videoüberwachung durch Private und deren Auswirkungen auf Art. 8 EMRK. Es betonte, dass auch private Videoüberwachung unter bestimmten Voraussetzungen in den Schutzbereich von Art. 8 EMRK fällt und einer Verhältnismässigkeitsprüfung unterliegt.
+Die Speicherung und Aufbewahrung von mit dem Fernmeldeverkehr verbundenen Randdaten (aBÜPF) muss verfassungs- und konventionsrechtlich (Art. 8 EMRK) geprüft werden (E. 2.2).
 
-*Einschlägig für:* Videoüberwachung, Privatleben, Verhältnismässigkeit
+*Einschlägig für:* Vorratsdatenspeicherung, Randdaten, Telekommunikation
 
 ---
 
 ### BGE 143 I 310 (2017)
 
-**Verdeckte Ermittlung und Wohnungsschutz**
+**Verdeckte Ermittlung — Löschung von Aufnahmen der Ermittler**
 
-Entdeckung der verdeckten Ermittlung durch die beschuldigte Person. Art. 8 EMRK schützt die Wohnung vor heimlicher Observation. Offenbarungspflicht des Staates bei verdeckter Ermittlung im Wohnbereich.
+Entdeckt die beschuldigte Person die verdeckte Ermittlung, besteht eine gesetzliche Grundlage für die Löschung der dabei entstandenen Bildaufnahmen der Ermittler; die sofortige und unwiederbringliche Löschung ohne vorherige Sicherung von Kopien ist jedoch unverhältnismässig (E. 3.3 f.).
 
-*Einschlägig für:* Wohnungsschutz, verdeckte Ermittlung, Offenbarungspflicht
-
----
-
-### BGE 143 III 445 (2017)
-
-**Räumungsschutz und Art. 8 EMRK**
-
-Bei Räumungsklagen im Mietrecht ist die Verhältnismässigkeitsprüfung unter Einbezug von Art. 8 EMRK durchzuführen. Der EGMR (McCann) hat anerkannt, dass die Räumung einer Wohnung ohne angemessene Prüfungsfristen gegen Art. 8 EMRK verstossen kann.
-
-*Einschlägig für:* Wohnungsschutz, Räumung, Mietrecht, Verhältnismässigkeit
+*Einschlägig für:* verdeckte Ermittlung, Verhältnismässigkeit, Ermittlerschutz
 
 ---
 
-### BGE 146 I 49 (2020)
+### BGE 133 I 77 (2006)
 
-**Videoüberwachung im öffentlichen Raum — positive Pflichten**
+**Videoüberwachung öffentlicher Plätze — Aufbewahrungsdauer**
 
-Das BGer setzte sich mit der Videoüberwachung im öffentlichen Raum auseinander und wandte die Grundsätze des EGMR zu Art. 8 EMRK an. Es betonte die positiven Staatenpflichten zum Schutz vor übermässiger Überwachung und die Notwendigkeit einer ausreichenden gesetzlichen Grundlage.
+Aufzeichnungen aus der Überwachung öffentlicher Plätze und Strassen berühren den Schutzbereich von Art. 13 Abs. 2 BV und Art. 8 Ziff. 1 EMRK; die Dauer ihrer Aufbewahrung unterliegt der Verhältnismässigkeitsprüfung (E. 3 f.).
 
-*Einschlägig für:* Videoüberwachung, positive obligations, öffentlicher Raum
+*Einschlägig für:* Videoüberwachung, öffentlicher Raum, Aufbewahrungsdauer
+
+---
+
+### BGE 148 I 233 (2022)
+
+**Weitergabe besonders schützenswerter Daten**
+
+Die Weitergabe von gesundheitsbezogenen und damit besonders schützenswerten Personendaten durch Behörden an ein Staatsarchiv stellt einen Eingriff in den Schutzbereich von Art. 8 EMRK und Art. 13 BV dar.
+
+*Einschlägig für:* Datenschutz, Datenweitergabe, besonders schützenswerte Daten
 
 ---
 
@@ -724,13 +710,13 @@ Eintragung von Personendaten in Polizeidatenbanken unter Berücksichtigung der E
 
 ---
 
-### BGE 150 III 34 (2024)
+### BGE 150 III 34 (2023)
 
-**Vornamensänderung und Geschlechtseintrag — Geschlechtsidentität**
+**Geschlechtsangabe im Personenstandsregister**
 
-Das BGer wandte die Rechtsprechung des EGMR zu Art. 8 EMRK (Goodwin, Y v. France) an, um festzustellen, dass der Zugang zur Vornamensänderung und Geschlechtsänderung im Personenstandsregister Teil des durch Art. 8 EMRK geschützten Privatlebens ist.
+Die Angabe des Geschlechts im schweizerischen Personenstandsregister kann nicht gestützt auf eine im Ausland (Deutschland) abgegebene blosse Erklärung über die Streichung der Geschlechtsangabe aufgehoben werden (E. 3).
 
-*Einschlägig für:* Vornamen, Geschlechtsidentität, Namensrecht, Goodwin
+*Einschlägig für:* Vornamen, Geschlechtsidentität, Personenstandsregister
 
 ---
 

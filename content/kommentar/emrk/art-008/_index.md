@@ -2,10 +2,16 @@
 title: "Art. 8 — Recht auf Achtung des Privat- und Familienlebens"
 weight: 8
 date: 2026-05-22
-lastmod: 2026-07-27
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, seiner Wohnung und seiner Korrespondenz; Schutzbereich (Privatleben, Familienleben, Wohnung, Korrespondenz); Eingriffsvoraussetzungen; Verhältnismässigkeit; Positive Staatenpflichten; EGMR-Grundprinzipien; Bedeutung im schweizerischen Recht"
 tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Verhältnismässigkeit", "Integration", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C, 35% -> ...): 2 BGE fabriziert (140 I 205, 143 III 445, kein close_match) sowie 4 real existierende, thematisch falsch zugeordnete BGE (137 I 305 [Gleichstellungskommission Zug statt Vorratsdatenspeicherung], 134 I 83 [IP-Recht vorsorgliche Massnahmen statt Umweltschutz], 146 I 49 [Einbürgerungsvoraussetzungen statt Videoüberwachung], 118 IV 67 [PTT-Flugfunküberwachung statt Wohnungsschutz]); 134 III 241 war an falscher Stelle verwendet (Abstammungskenntnis statt Datenweitergabe) und an die richtige Stelle verschoben. Ersetzt/korrigiert durch via get_regeste/search_decisions verifizierte, thematisch passende Entscheide (148 I 233, 144 I 126, 133 I 77). Wortlaut-Warnung als Fehlalarm verifiziert (Formatierungsartefakt gegen Fedlex, wie bei Art. 2/3/5 EMRK)."
 ---
 
 ## Art. 8 EMRK — Recht auf Achtung des Privat- und Familienlebens
@@ -33,7 +39,7 @@ Im schweizerischen Recht korrespondiert Art. 8 EMRK mit Art. 13 BV (Recht auf Ac
 - Art. 249 ff. StPO (Durchsuchung)
 - Art. 96 AuG / Art. 50 AIG (Aufenthaltsrecht)
 
-Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen EMRK und innerem Recht geht die Konvention als völkerrechtlicher Vertrag dem inneren Recht vor (Selbstverpflichtungsthese, BGE 139 I 16 E. 2.3).
+Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen der EMRK und späterem, ihr widersprechendem Verfassungsrecht geht die Konvention grundsätzlich vor; neues Verfassungsrecht bedarf zudem der gesetzgeberischen Umsetzung, bevor es direkt angewendet werden kann ([BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16)).
 
 ---
 
@@ -55,7 +61,7 @@ Die sexuelle Orientierung und die Geschlechtsidentität sind Kernbestandteile de
 - **Geschlechtsidentität**: Die fehlende rechtliche Anerkennung der Geschlechtsidentität einer Transperson verstösst gegen Art. 8 und Art. 12 EMRK. Der EGMR betonte, dass die Gesellschaft eine gewisse Unannehmlichkeit in Kauf nehmen muss, damit Transpersonen in Würde und Wert leben können ([Christine Goodwin v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60525), App. no. 28957/95, Grosskammer; bestätigt durch [I. v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60524), App. no. 25680/94).
 - **Transgeschlechtlichkeit und Ehe**: Die Aufrechterhaltung der Ehe als Voraussetzung für die Geschlechtsanpassung ist mit Art. 8 EMRK unvereinbar. Der EGMR entschied in [Hämäläinen v. Finnland](https://hudoc.echr.coe.int/eng?i=001-145839) (App. no. 37351/12, Grosskammer), dass Finnland eine Person, die ihr Geschlecht anpassen wollte, zwang, sich entweder scheiden zu lassen oder die Ehe in eine eingetragene Partnerschaft umzuwandeln. Der EGMR verneinte eine Verletzung, weil Finnland die eingetragene Partnerschaft als gleichwertige Rechtsform anbot — der Entscheid ist jedoch in der Kritik, da er die Bedeutung der Ehe als Institution unterschätzt.
 - **Eintragung des Geschlechts**: Die Pflicht, bei Geschlechtsanpassung ein medizinisches Gutachten vorzulegen, das eine irreversible Sterilisation bestätigt, verstösst gegen Art. 8 EMRK ([A.P., Garçon und Nicot v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-172744), App. nos. 79885/12 u.a.). Die Sterilisationsanforderung ist unverhältnismässig.
-- **Vornamen und Geschlechtseintrag**: Der Zugang zur Vornamensänderung und zum Geschlechtseintrag im Personenstandsregister gehört zum durch Art. 8 EMRK geschützten Privatleben (BGE 150 III 34, gestützt auf Goodwin und Y v. France).
+- **Vornamen und Geschlechtseintrag**: Die Angabe des Geschlechts im schweizerischen Personenstandsregister kann nicht gestützt auf eine im Ausland abgegebene blosse Streichungserklärung aufgehoben werden ([BGE 150 III 34](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_34) E. 3).
 - **Sexuelle Selbstbestimmung**: Die Eintragung einer Frau als verschuldet am Scheitern der Ehe wegen Verweigerung ehelicher Geschlechtsbeziehlicheiten («devoir conjugal») verstösst gegen Art. 8 EMRK ([H.W. v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-240683), App. no. 32222/20).
 
 ##### b) Gleichgeschlechtliche Partnerschaft
@@ -69,7 +75,7 @@ Der EGMR hat in [Chapin und Charpentier v. Frankreich](https://hudoc.echr.coe.in
 Das Recht auf den eigenen Namen und die Identität fallen in den Schutzbereich des Privatlebens. Der EGMR hat anerkannt, dass Name und Identität Kernbestandteile des Privatlebens sind:
 
 - **Namensrecht**: Die Verweigerung der Annahme eines gemeinsamen Ehenamens durch eine verheiratete Frau, die ihren Geburtsnamen beibehalten hat, kann in den Schutzbereich von Art. 8 EMRK fallen ([Burghartz v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57849), App. no. 16213/90). Die Schweiz hat ihre Namensregelung daraufhin angepasst.
-- **Identität und Abstammung**: Das Recht auf Kenntnis der eigenen Abstammung ist Teil des Privatlebens ([Mikulić v. Kroatien](https://hudoc.echr.coe.int/eng?i=001-60931), App. no. 53176/99). Die Verweigerung jeglichen Zugangs zu Informationen über die biologische Abstammung kann Art. 8 EMRK verletzen.
+- **Identität und Abstammung**: Das Recht auf Kenntnis der eigenen Abstammung ist Teil des Privatlebens ([Mikulić v. Kroatien](https://hudoc.echr.coe.int/eng?i=001-60931), App. no. 53176/99). Die Verweigerung jeglichen Zugangs zu Informationen über die biologische Abstammung kann Art. 8 EMRK verletzen. Auch das Bundesgericht anerkennt gestützt auf Art. 8 EMRK und Art. 28 ZGB einen Anspruch des volljährigen Kindes auf Kenntnis der eigenen Abstammung ([BGE 134 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_241) E. 5).
 - **Anonymität der Mutter**: Ein absolutes Geheimhaltungsrecht der biologischen Mutter, das dem Kind jegliche Möglichkeit nimmt, seine Abstammung zu erfahren, verstösst gegen Art. 8 EMRK ([Odièvre v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-60980), App. no. 32318/96, Grosskammer). Der Grosskammerentscheid prüfte die französische Regelung der anonymen Geburt (accouchement sous X) und stellte fest, dass Art. 8 ein Recht auf Kenntnis der eigenen Abstammung umfasst, dieses aber gegen die Privatsphäre der Mutter abzuwägen ist.
 - **Stjerna v. Finnland** (App. no. 18131/91): Die Weigerung, einem finnischen Staatsangehörigen die Annahme eines schwedischen Namens zu gestatten, fällt in den Schutzbereich von Art. 8 EMRK, wurde aber als gerechtfertigt erachtet.
 
@@ -89,7 +95,7 @@ Die unbegrenzte Aufbewahrung von DNA-Profilen und Fingerabdrücken von Personen,
 
 **Metadata und Verkehrsdaten**. Die Speicherung von Verkehrsdaten (Verbindungsdaten, Standortdaten) ohne ausreichende Schutzmassnahmen fällt in den Schutzbereich von Art. 8 EMRK. Die systematische Speicherung aller Verkehrsdaten «auf Vorrat» verstösst gegen Art. 8 EMRK, wenn sie nicht ausreichend begrenzt und kontrolliert ist ([Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), App. no. 47136/13, Grosskammer; [Big Brother Watch and Others v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-211925), App. nos. 58170/13 u.a., Grosskammer).
 
-Das BGer hat die EGMR-Rechtsprechung zu Datenschutz und Art. 8 EMRK übernommen: Die unbefugte Weitergabe von Personendaten fällt in den Schutzbereich von Art. 8 EMRK (BGE 134 III 241), und die Eintragung von Personendaten in Polizeidatenbanken unterliegt der Verhältnismässigkeitsprüfung unter Berücksichtigung der EGMR-Praxis Rotaru und S. und Marper (BGE 147 I 372). Zur Vorratsdatenspeicherung stellte das BGer unter Bezugnahme auf Zakharov und S. und Marper fest, dass sie einem strengen Verhältnismässigkeitsmassstab unterliegt (BGE 137 I 305).
+Das BGer hat die EGMR-Rechtsprechung zu Datenschutz und Art. 8 EMRK übernommen: Die Weitergabe von gesundheitsbezogenen und anderen besonders schützenswerten Personendaten an Dritte stellt einen Eingriff in den Schutzbereich von Art. 8 EMRK dar ([BGE 148 I 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_233)), und die Eintragung von Personendaten aufgrund einer erkennungsdienstlichen Erfassung unterliegt der Verhältnismässigkeitsprüfung ([BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372) E. 4.4 f.). Zur Speicherung von Randdaten der Telekommunikation stellte das BGer fest, dass sie einer verfassungs- und konventionsrechtlichen Prüfung standhalten muss ([BGE 144 I 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126) E. 2.2).
 
 **Digitaler Datenschutz und neue Technologien**. Der EGMR hat in [Benedik v. Slowenien](https://hudoc.echr.coe.int/eng?i=001-202879) (App. no. 55001/11) festgestellt, dass die Durchsuchung des Mobiltelefons eines Beschuldigten ohne gerichtliche Anordnung gegen Art. 8 EMRK verstösst. Smartphones enthalten eine Fülle von Privat- und Berufsdaten, die weit über traditionelle Durchsuchungen hinausgeht.
 
@@ -111,7 +117,7 @@ Der EGMR hat den Schutzbereich von Art. 8 EMRK auf Umweltschutzbelange ausgedehn
 - **Abfallwirtschaft**: In [Di Sarno und andere v. Italien](https://hudoc.echr.coe.int/eng?i=001-108645) (App. no. 30765/08) entschied der EGMR, dass die chronische Müllkrise in der Region Campanien eine Verletzung von Art. 8 EMRK darstellte, da die italienischen Behörden es versäumt hatten, angemessene Massnahmen zur Abfallbeseitigung zu ergreifen.
 - **Nuklear- und Industrieanlagen**: In [Kiefer v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-60324) (App. no. 37548/97) verneinte der EGMR eine Verletzung, da die deutschen Behörden angemessene Schutzmassnahmen für Anwohner eines Kernkraftwerks ergriffen hatten.
 
-Die Schweizer Rechtsprechung hat Umweltschutzbelange im Rahmen von Art. 8 EMRK bisher nicht vertieft. Das BGer hat jedoch in BGE 134 I 83 anerkannt, dass Umweltbeeinträchtigungen unter bestimmten Voraussetzungen in den Schutzbereich von Art. 8 EMRK fallen können.
+Die Schweizer Rechtsprechung hat Umweltschutzbelange im Rahmen von Art. 8 EMRK bisher nicht vertieft.
 
 ##### g) Aufenthaltsrecht und soziale Bindungen
 
@@ -147,11 +153,10 @@ Der Familienlebensbegriff umfasst auch die nacheheliche Beziehung zu einem Kind 
 
 Der Wohnungsbegriff im Sinne von Art. 8 EMRK ist weit zu verstehen und umfasst jeden Raum, in dem eine Person ihr Privatleben entfaltet — auch Hotelzimmer, Geschäftsräume und vorübergehende Unterkünfte ([Niemietz v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57770), App. no. 13710/88, E. 30). Das BGer hat den Wohnungsschutz im Rahmen von Durchsuchungen und verdeckten Ermittlungen mehrfach unter Bezugnahme auf Art. 8 EMRK geprüft:
 
-- **Verdeckte Ermittlung**: Die Offenbarungspflicht des Staates bei verdeckter Ermittlung im Wohnbereich ergibt sich aus dem Schutz der Wohnung nach Art. 8 EMRK (BGE 143 I 310).
+- **Verdeckte Ermittlung**: Wird die verdeckte Ermittlung durch die beschuldigte Person entdeckt, ist eine Löschung der dabei entstandenen Bild- und Datenaufnahmen zum Schutz der Ermittler nur zulässig, soweit sie verhältnismässig bleibt — Kopien zu den Akten sind wo möglich zu sichern ([BGE 143 I 310](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_310) E. 3.3 f.).
 - **Durchsuchung**: Wohnungsdurchsuchungen unterliegen strikter Verhältnismässigkeitsprüfung; Art. 8 EMRK fordert angemessene rechtliche Grundlagen und Schutzmassnahmen (1B_342/2017; 1B_75/2017).
-- **Funktelefon/Basisstation**: Der Wohnungsschutz kann auch eine Basisstation mit schnurlosem Mobilgerät umfassen (BGE 118 IV 67).
 
-**Räumung und Wohnungsverlust**. Art. 8 EMRK schützt auch vor der Zwangsräumung der Wohnung. Der EGMR hat in [McCann v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-63289) (App. no. 19009/04) festgestellt, dass die Räumung einer Sozialwohnung ohne angemessene Prüfungsfristen und ohne ausreichende Berücksichtigung der persönlichen Umstände gegen Art. 8 EMRK verstossen kann. Die Schweiz hat diese Rechtsprechung in BGE 143 III 445 (Räumungsschutz im Mietrecht) übernommen: Das BGer stellte fest, dass bei Räumungsklagen im Mietrecht die Verhältnismässigkeitsprüfung unter Einbezug von Art. 8 EMRK erfolgen muss.
+**Räumung und Wohnungsverlust**. Art. 8 EMRK schützt auch vor der Zwangsräumung der Wohnung. Der EGMR hat in [McCann v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-63289) (App. no. 19009/04) festgestellt, dass die Räumung einer Sozialwohnung ohne angemessene Prüfungsfristen und ohne ausreichende Berücksichtigung der persönlichen Umstände gegen Art. 8 EMRK verstossen kann. 
 
 In [Stankov v. Bulgarien](https://hudoc.echr.coe.int/eng?i=001-85589) (App. nos. 68590/01 u.a.) entschied der EGMR, dass die Zwangsräumung von Roma-Siedlungen ohne angemessene Alternativunterkünfte gegen Art. 8 EMRK verstösst, insbesondere wenn die Betroffenen keine andere Wohnmöglichkeit haben.
 
@@ -272,7 +277,7 @@ Art. 8 EMRK bildet die zentrale Grundrechtsnorm für die Beurteilung staatlicher
 - **Gesichtserkennung**: Der Einsatz von Gesichtserkennungstechnologie zur Identifizierung friedlicher Demonstranten ohne detaillierte gesetzliche Grundlage verstösst gegen Art. 8 EMRK ([Glukhin v. Russland](https://hudoc.echr.coe.int/eng?i=001-227523), App. no. 11519/20).
 - **Stop-and-Search**: Polizeiliche Durchsuchungsbefugnisse ohne ausreichende Begrenzung und Rechtsschutzgarantien verstossen gegen Art. 8 EMRK ([Gillan and Quinton v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-97985), App. no. 4158/05).
 
-Das BGer hat die Grundsätze zur Vorratsdatenspeicherung unter Verweis auf die EGMR-Rechtsprechung geprüft (BGE 137 I 305) und den strengen Verhältnismässigkeitsmassstab bestätigt. Zur Videoüberwachung im öffentlichen Raum betonte das BGer die positiven Staatenpflichten zum Schutz vor übermässiger Überwachung (BGE 146 I 49).
+Das BGer hat die Grundsätze zur Speicherung von Randdaten der Telekommunikation geprüft und deren Vereinbarkeit mit Verfassung und EMRK bejaht, sofern gesetzlich hinreichend begrenzt ([BGE 144 I 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126) E. 2.2). Zur Videoüberwachung des öffentlichen Raums verlangt das BGer eine Verhältnismässigkeitsprüfung, namentlich bezüglich der Aufbewahrungsdauer der Aufzeichnungen ([BGE 133 I 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_77) E. 3 f.).
 
 **Anforderungen an Überwachungsgesetze**. Der EGMR verlangt von Überwachungsgesetzen folgende Mindestanforderungen (Zakharov, E. 230–236; Big Brother Watch, E. 311):
 1. **Klarheit und Vorhersehbarkeit**: Das Gesetz muss Art, Umfang und Dauer der Überwachung klar umschreiben.
@@ -308,7 +313,7 @@ Art. 8 EMRK wirkt im schweizerischen Recht zusammen mit folgenden Normen:
 - **Art. 278 ff. StPO** (Überwachung des Post- und Fernmeldeverkehrs)
 - **Art. 249 ff. StPO** (Durchsuchung)
 
-Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen EMRK und innerem Recht geht die Konvention als völkerrechtlicher Vertrag dem inneren Recht vor (Selbstverpflichtungsthese, BGE 139 I 16 E. 2.3).
+Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen der EMRK und späterem, ihr widersprechendem Verfassungsrecht geht die Konvention grundsätzlich vor; neues Verfassungsrecht bedarf zudem der gesetzgeberischen Umsetzung, bevor es direkt angewendet werden kann ([BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16)).
 
 ---
 
@@ -343,7 +348,7 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Transgeschlechtlichkeit und Ehe | Hämäläinen v. Finnland | Umwandlung in Partnerschaft ausreichend? (umstritten) |
 | Geschlechtseintrag/Sterilisationszwang | A.P., Garçon und Nicot v. Frankreich | Sterilisationsanforderung unverhältnismässig |
 | Krankenversicherung Transsexualität | Van Kück v. Deutschland | Verweigerung der Kostenübernahme verstösst |
-| Vornamen/Geschlechtseintrag | BGE 150 III 34 | Zugang zum Personenstandsregister geschützt |
+| Vornamen/Geschlechtseintrag | BGE 150 III 34 | Geschlechtsangabe nicht per blosser ausländischer Streichungserklärung aufhebbar |
 | Sexuelle Selbstbestimmung | H.W. v. Frankreich | «Devoir conjugal» verstösst gegen Art. 8 |
 | Gleichgeschlechtliche Partnerschaft | Schalk and Kopf v. Österreich | Fällt unter «Familienleben» |
 | Rechtliche Anerkennung | Oliari v. Italien | Positive Pflicht zur Anerkennung |
@@ -381,9 +386,9 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Telefonüberwachung/Beweissicherung | Malone v. UK (EGMR) | «Metering» ohne gesetzliche Grundlage verstösst |
 | Telefon am Arbeitsplatz | Halford v. UK (EGMR) | Private Telefonate am Arbeitsplatz geschützt |
 | Polizeidatenbank | BGE 147 I 372 | Verhältnismässigkeit nach Rotaru/Marper |
-| Datenbearbeitung | BGE 134 III 241 | Unbefugte Weitergabe fällt unter Art. 8 |
-| Vorratsdatenspeicherung | BGE 137 I 305 | Strenger Verhältnismässigkeitsmassstab |
-| Videoüberwachung | BGE 146 I 49 | Positive Pflicht zum Schutz |
+| Weitergabe an Archiv | BGE 148 I 233 | Weitergabe besonders schützenswerter Daten ist Eingriff |
+| Speicherung von Randdaten | BGE 144 I 126 | Verfassungs- und EMRK-Konformität geprüft |
+| Videoüberwachung öffentlicher Raum | BGE 133 I 77 | Verhältnismässigkeitsprüfung der Aufbewahrungsdauer |
 | Massenüberwachung | Big Brother Watch v. UK (EGMR) | Keine ausreichende Schutzmassnahmen |
 | Gesichtserkennung | Glukhin v. Russland (EGMR) | Besonders invasive Methode |
 | Smartphone-Durchsuchung | Benedik v. Slowenien (EGMR) | Ohne gerichtliche Anordnung verstösst gegen Art. 8 |
@@ -395,11 +400,10 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 
 | Thema | Entscheidung | Kernaussage |
 |---|---|---|
-| Verdeckte Ermittlung | BGE 143 I 310 | Offenbarungspflicht bei Wohnungsbezug |
+| Verdeckte Ermittlung entdeckt | BGE 143 I 310 | Löschung der Ermittler-Aufnahmen nur verhältnismässig zulässig |
 | Briefzensur Gefangene | Silver v. UK (EGMR) | Verstösst gegen Art. 8 |
 | Zugang zu Gericht | Golder v. UK (EGMR) | Briefverbot verletzt Art. 6 und 8 |
 | Räumungsschutz | McCann v. UK (EGMR) | Räumung ohne Fristen verstösst gegen Art. 8 |
-| Räumung und Mietrecht | BGE 143 III 445 | Verhältnismässigkeit bei Räumungsklagen |
 | Roma-Siedlungen | Stankov v. Bulgarien (EGMR) | Zwangsräumung ohne Alternative verstösst |
 | Stop-and-Search | Gillan v. UK (EGMR) | Keine ausreichenden Rechtsschutzgarantien |
 | Telefonüberwachung | BGE 109 IA 273; BGE 123 IV 236 | Grundlegende BGer-Entscheide |
