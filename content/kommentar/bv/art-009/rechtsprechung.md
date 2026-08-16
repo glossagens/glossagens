@@ -6,7 +6,6 @@ lastmod: 2026-08-11
 description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
 tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz"]
 agent_verified: true
-lastmod: 2026-08-14
 revisions:
   - date: 2026-08-11
     by: "Claude Code"

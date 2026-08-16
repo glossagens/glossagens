@@ -6,7 +6,6 @@ lastmod: 2026-06-27
 description: "Übersicht der Rechtsprechung zu Art. 107 OR — Nachfristsetzung bei Schuldnerverzug in zweiseitigen Verträgen"
 tags: ["Rechtsprechung", "OR", "Verzug", "Nachfrist", "Rücktritt", "Schadenersatz"]
 agent_verified: true
-lastmod: 2026-08-14
 ---
 
 # Rechtsprechung zu Art. 107 OR

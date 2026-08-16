@@ -6,7 +6,6 @@ lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 28 IVG — Rentenanspruch bei Invalidität"
 tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
 agent_verified: true
-lastmod: 2026-08-14
 ---
 
 ## Leitentscheide (BGE)
