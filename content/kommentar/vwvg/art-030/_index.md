@@ -2,10 +2,16 @@
 title: "Art. 30 — Anhörung der Parteien"
 weight: 30
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 72%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 131 II 670 war durchgängig als Beleg für Art. 30 Abs. 2 lit. e VwVG (Gefahr im Verzuge) zitiert, betrifft tatsächlich eine Gehörsverletzung durch fehlende Protokollierung (Art. 29 Abs. 2 BV, E. 4.3) -- korrigiert. BGer 1C_437/2016 war mit unzutreffender 'restriktive Auslegung'-Behauptung zitiert; tatsächlich bejahte das Gericht die Anwendung der Ausnahme -- Kernaussage auf die tatsächlichen kumulativen Voraussetzungen (E. 2.2/2.3) umgestellt. BGer 1C_737/2025 war komplett themenfremd zitiert (tatsächlich zu vorsorglichen Massnahmen/aufschiebender Wirkung in einem kantonalen Verfahren, kein Art.-30-VwVG-Bezug) -- entfernt. BGer 1C_435/2024 Kernaussage an die tatsächliche Erwägung (E. 4.4) angepasst. Mehrere Pinpoints (BGE 128 V 272, 121 V 150, 127 V 431) auf URL-Anker mit korrekten Erwägungsnummern umgestellt."
 ---
 
 ## Gesetzeswortlaut
@@ -32,7 +38,7 @@ agent_verified: true
 
 Art. 30 VwVG ist die **zentrale Anhörungspflicht** des Verwaltungsverfahrensrechts des Bundes. Die Norm konkretisiert den verfassungsrechtlichen Anspruch auf **rechtliches Gehör** (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK) für das verwaltungsinterne Verfahren: Bevor die Behörde eine Verfügung erlässt, hat sie die Parteien anzuhören — es sei denn, ein Ausnahmetatbestand nach Abs. 2 liegt vor.
 
-Das Bundesgericht hat den engen Zusammenhang zwischen Art. 30 VwVG und dem rechtlichen Gehör wiederholt betont. In [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431), E. 3, stellte es fest, dass zum rechtlichen Gehör namentlich die Anhörung der Parteien (Art. 30 VwVG) gehört — insbesondere dann, wenn sich eine Verfügung auf unbestimmt gehaltene Rechtsgrundlagen stützt und die Unbestimmtheit der Rechtsgrundlage durch eine Stärkung der Verfahrensrechte zu kompensieren ist. Ebenso hielt es in [BGE 128 V 272](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_V_272), E. 2a, ausdrücklich fest, dass die Anhörungspflicht nach Art. 30 Abs. 1 VwVG einen Teilgehalt des Anspruchs auf rechtliches Gehör bildet.
+Das Bundesgericht hat den engen Zusammenhang zwischen Art. 30 VwVG und dem rechtlichen Gehör wiederholt betont. In [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431#e-3) E. 3 stellte es fest, dass zum rechtlichen Gehör namentlich die Anhörung der Parteien (Art. 30 VwVG) gehört — insbesondere dann, wenn sich eine Verfügung auf unbestimmt gehaltene Rechtsgrundlagen stützt und die Unbestimmtheit der Rechtsgrundlage durch eine Stärkung der Verfahrensrechte zu kompensieren ist. Ebenso hielt es in [BGE 128 V 272](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_V_272#e-5) E. 5 ausdrücklich fest, dass die Anhörungspflicht nach Art. 30 Abs. 1 VwVG eine Konkretisierung des verfassungsrechtlichen Anspruchs auf rechtliches Gehör darstellt.
 
 Die Norm gilt sinngemäss auch in Spezialgesetzen, soweit diese auf das VwVG verweisen oder keine abweichende Regelung enthalten. Im sozialversicherungsrechtlichen Verwaltungsverfahren hat das Bundesgericht in [BGE 132 V 368](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_368), E. 4.2, die grundsätzliche Geltung von Art. 30 VwVG bestätigt, jedoch präzisiert, dass das ATSG mit den Art. 42 und 43 ATSG eine **abschliessende Regelung** der Anhörung im Einspracheverfahren trifft, die VwVG-Anhörungspflicht also im sozialversicherungsrechtlichen Verwaltungsverfahren Modifikationen unterliegt.
 
@@ -56,7 +62,7 @@ Stützt sich eine Verfügung auf einen — zulässigerweise — unbestimmt gehal
 
 #### 3. Anhörung bei Einholung von Rechtsgutachten
 
-Holt die entscheidende Verwaltungs- oder Gerichtsbehörde ein Rechtsgutachten ein, um Grundlagen für die Konkretisierung relativ offener Gesetzes- und Verordnungsbestimmungen zu erhalten, und lässt sie sich davon bei der Entscheidfindung leiten, so verletzt sie den Anspruch auf rechtliches Gehör, wenn sie den Betroffenen nicht vorher Gelegenheit gibt, sich zum Gutachten zu äussern ([BGE 128 V 272](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_V_272), E. 2). Die Anhörungspflicht nach Art. 30 Abs. 1 VwVG erstreckt sich hier auf die **Gutachtengrundlagen**, die für die Entscheidung massgeblich sind.
+Holt die entscheidende Verwaltungs- oder Gerichtsbehörde ein Rechtsgutachten ein, um Grundlagen für die Konkretisierung relativ offener Gesetzes- und Verordnungsbestimmungen zu erhalten, und lässt sie sich davon bei der Entscheidfindung leiten, so verletzt sie den Anspruch auf rechtliches Gehör, wenn sie den Betroffenen nicht vorher Gelegenheit gibt, sich zum Gutachten zu äussern ([BGE 128 V 272](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_V_272#e-5) E. 5). Die Anhörungspflicht nach Art. 30 Abs. 1 VwVG erstreckt sich hier auf die **Gutachtengrundlagen**, die für die Entscheidung massgeblich sind.
 
 #### 4. Anhörung im sozialversicherungsrechtlichen Verfahren
 
@@ -103,7 +109,7 @@ Die weitreichendste Ausnahme betrifft **andere Verfügungen in einem erstinstanz
 
 In [BGE 126 II 111](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_111) hat das Bundesgericht im Zusammenhang mit der Einsetzung eines Beobachters zur Abklärung der banken- oder börsenrechtlichen Bewilligungspflicht einer Tätigkeit die Voraussetzungen von Art. 30 Abs. 2 lit. e VwVG geprüft und die Aufsichtskompetenzen der Eidgenössischen Bankenkommission umrissen. Die Ausnahme nach lit. e ist eng auszulegen — sie darf nicht zu einer Umgehung der Anhörungspflicht in Fällen führen, in denen die Eilbedürftigkeit bloss vorgeschoben ist.
 
-In [BGE 131 II 670](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_670) hat das Bundesgericht Sofortmassnahmen zur Verminderung des Übertragungsrisikos des Schweren Akuten Respiratorischen Syndroms (SARS) geprüft und festgehalten, dass die nachträgliche Überprüfung einer gegenstandslos gewordenen Anordnung sich auf die in Zukunft mit Eintritt ähnlicher Voraussetzungen zu treffenden Massnahmen erstreckt — was bedeutet, dass auch bei Gefahr im Verzuge die nachträgliche richterliche Überprüfung (und damit die nachträgliche Gehörsgewährung) sichergestellt sein muss.
+In [BGE 131 II 670](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_670#e-4-3) E. 4.3 bejahte das Bundesgericht bei den Sofortmassnahmen zur Verminderung des Übertragungsrisikos des Schweren Akuten Respiratorischen Syndroms (SARS) eine Verletzung des rechtlichen Gehörs, weil die dringlich einberufene Sitzung, an welcher der betroffene Messeveranstalter erstmals zu den ins Auge gefassten gesundheitspolizeilichen Massnahmen angehört wurde, nicht protokolliert worden war — auch eine wegen Dringlichkeit knapp gewährte Anhörung muss den Grundanforderungen des rechtlichen Gehörs (hier: Protokollierung) genügen.
 
 ### IV. Verhältnis zu Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK
 
@@ -113,13 +119,13 @@ Die Konventionsgarantie des **fair trial** ([Art. 6 Ziff. 1 EMRK](../../emrk/art
 
 ### V. Anhörung und Augenschein
 
-Das Recht auf Teilnahme an einem Augenschein kann einen Teilgehalt des rechtlichen Gehörs bilden. In [BGE 121 V 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_150), E. 2, hat das Bundesgericht im Verfahren der obligatorischen Unfallversicherung das Recht auf Teilnahme an einem Augenschein — in casu: Durchführung von Schallimmissionsmessungen am Arbeitsplatz des Versicherten — als Bestandteil des rechtlichen Gehörs qualifiziert. Die Anhörungspflicht nach Art. 30 VwVG kann sich somit auch auf **Beweiserhebungen** erstrecken, an denen die Partei teilnehmen will.
+Das Recht auf Teilnahme an einem Augenschein kann einen Teilgehalt des rechtlichen Gehörs bilden. In [BGE 121 V 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_150#e-5) E. 5 hat das Bundesgericht im Verfahren der obligatorischen Unfallversicherung festgehalten, dass dem Versicherten spätestens im Einspracheverfahren Gelegenheit zu geben ist, sich zu einem bereits vor Verfügungserlass durchgeführten Augenschein — in casu: Schallimmissionsmessungen am Arbeitsplatz des Versicherten — zu äussern. Die Anhörungspflicht nach Art. 30 VwVG kann sich somit auch auf **Beweiserhebungen** erstrecken, an denen die Partei teilnehmen will.
 
 Ebenso hat das Bundesgericht in [BGE 116 V 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_V_28) die Anhörung des Versicherten durch die Invalidenversicherungs-Kommission vor Verfügungserlass thematisiert und dabei die Anforderungen an eine ordnungsgemässe Anhörung im sozialversicherungsrechtlichen Verfahren konkretisiert.
 
 ### VI. Rechtsfolgen der Verletzung
 
-Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Gehörs** und damit zur Aufhebung der Verfügung im Rechtsmittelverfahren. Das Bundesgericht hat in [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431), E. 3, bestätigt, dass eine Verletzung der Anhörungspflicht nach Art. 30 Abs. 1 VwVG die Überprüfung des Entscheids durch die Rechtsmittelinstanz nach sich zieht. Die Verletzung ist **von Amtes wegen** zu prüfen.
+Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Gehörs**. Das Bundesgericht hat in [BGE 127 V 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_V_431#e-3) E. 3 festgehalten, dass das Recht, angehört zu werden, formeller Natur ist: Die Verletzung des rechtlichen Gehörs führt ungeachtet der Erfolgsaussichten der Beschwerde in der Sache selbst zur **Aufhebung der angefochtenen Verfügung** — unabhängig davon, ob die Anhörung den Ausgang des materiellen Entscheids beeinflusst hätte.
 
 ### VII. Kasuistik
 
@@ -131,7 +137,7 @@ Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Geh
 | Sozialversicherungsverfahren | BGE 132 V 368 | Anhörung im Einspracheverfahren ausreichend (lit. b) |
 | Einspracheentscheid | BGE 131 V 407 | Reformatorischer (nicht kassatorischer) Einspracheentscheid |
 | Aufsichtsmassnahmen (Beobachter) | BGE 126 II 111 | Art. 30 Abs. 2 lit. e VwVG; Gefahr im Verzuge |
-| SARS-Sofortmassnahmen | BGE 131 II 670 | Nachträgliche Überprüfung bei Gefahr im Verzuge |
+| SARS-Sofortmassnahmen | BGE 131 II 670 | Gehörsverletzung durch fehlende Protokollierung dringlicher Anhörung |
 | Augenschein/ Schallmessungen | BGE 121 V 150 | Teilnahme als Teilgehalt des rechtlichen Gehörs |
 | IV-Kommissionsanhörung | BGE 116 V 28 | Anforderungen an Anhörung im IV-Verfahren |
 | Rechtshilfe/elementare Verfahrensgrundsätze | BGE 145 IV 99 | Elementare Verfahrensgrundsätze auch im Rechtshilfefall |
@@ -151,12 +157,9 @@ Die Verletzung der Anhörungspflicht führt zur **Verletzung des rechtlichen Geh
 
 ### VIII. Anhörung im Ausländerrecht und bei Ausreisebeschränkungen
 
-Im Ausländerrecht ist die Anhörungspflicht nach Art. 30 VwVG von besonderer praktischer Bedeutung. In [BGer 1C_437/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016) befasste sich das Bundesgericht mit der Ausreisebeschränkung und stellte klar, dass auch im Rahmen von Massnahmen nach dem Ausländer- und Integrationsgesetz die Anhörungspflicht vor Verfügungserlass uneingeschränkt gilt. Die Ausnahme nach Art. 30 Abs. 2 lit. e VwVG (Gefahr im Verzuge) ist bei Ausreisebeschränkungen restriktiv auszulegen, da die betroffene Person in ihren Grundrechten erheblich eingeschränkt wird und die nachträgliche Gehörsgewährung den Grundrechtseingriff nicht mehr rückgängig machen kann.
+Im Ausländerrecht ist die Anhörungspflicht nach Art. 30 VwVG von besonderer praktischer Bedeutung. In [BGer 1C_437/2016](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016#e-2-2) E. 2.2 bestätigte das Bundesgericht bei einer Ausreisebeschränkung nach BWIS, dass die drei Voraussetzungen von Art. 30 Abs. 2 lit. e VwVG kumulativ erfüllt sein müssen: volle Prüfungsbefugnis der Beschwerdeinstanz, keine anderweitige bundesrechtliche Anhörungspflicht und tatsächliche Gefahr im Verzuge. Im konkreten Fall bejahte das Gericht Gefahr im Verzuge, weil zwischen Verfügungsreife und dem Zeitpunkt, ab dem die Massnahme wirksam werden musste, nur rund eine Woche lag ([E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_437_2016#e-2-3)).
 
 ### IX. Anhörung bei Vermögenssperre und Rechtshilfe
 
-In [BGer 1C_435/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_435_2024) behandelte das Bundesgericht die Sperrung von Vermögenswerten im Hinblick auf eine Einziehung beim Scheitern der Rechtshilfe (Art. 4 SRVG, Ukraine) und betonte, dass auch in Verfahren der Vermögenssperre die elementaren Verfahrensgrundsätze — namentlich die Anhörungspflicht nach Art. 30 VwVG — gewahrt werden müssen. Die Anhörung ist insbesondere erforderlich, wenn die Verfügung auf unbestimmt gehaltene Rechtsgrundlagen gestützt wird, da die Unbestimmtheit durch eine Stärkung der Verfahrensrechte zu kompensieren ist.
+In [BGer 1C_435/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_435_2024#e-4-4) E. 4.4 hielt das Bundesgericht bei der Sperrung von Vermögenswerten im Hinblick auf eine Einziehung beim Scheitern der Rechtshilfe (Art. 4 SRVG, Ukraine) fest, dass keine Bestimmung des SRVG eine Abweichung von Art. 30 VwVG erlaubt; eine bereits im vorangegangenen Rechtshilfeverfahren erfolgte Anhörung kann die eigenständige Anhörungspflicht im Verfahren nach Art. 4 SRVG nicht ersetzen.
 
-### X. Anhörung im Baurecht und Sprungbeschwerde
-
-In [BGer 1C_737/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_737_2025) befasste sich das Bundesgericht mit der abfallrechtlichen Betriebsbewilligung im Sprungbeschwerdeverfahren und stellte klar, dass die Anhörungspflicht auch im Rahmen von Sprungbeschwerden gilt. Die Partei muss vor Erlass der Verfügung Gelegenheit haben, sich zum Sachverhalt und zu den Rechtsgrundlagen zu äussern, auch wenn das Verfahren durch Sprungbeschwerde direkt an das Bundesverwaltungsgericht gelangt.
