@@ -2,10 +2,16 @@
 title: "Art. 34 — Eröffnung der Verfügungen"
 weight: 34
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 34 VwVG – Eröffnung der Verfügungen"
 tags: ["VwVG", "Eröffnung", "Zustellung", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Urteil C 14% -> A 100%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. 3 von 4 Zitaten waren falsch: BGE 143 IV 40 betrifft StPO-Rechtsmittelfristen (kein VwVG-Bezug), BGE 145 IV 99 diskutiert Art. 35 VwVG (Begründungspflicht), nicht Art. 34 (schriftliche Eröffnung), BGE 142 V 152 betrifft die Unterschriftspflicht nach Art. 10 ATSV, nicht Art. 34 VwVG. Alle drei entfernt und durch BGE 131 V 483 E. 2.3 ersetzt (bestätigt real, dass Art. 34 ff. VwVG Schriftlichkeit, aber keine Unterschrift verlangt). BGE 142 III 599 (einziges korrektes Zitat) beibehalten. Wortlaut-Flag zur Fussnote von Abs. 1bis ist kosmetisch (Fussnotensyntax `^[SR 943.03]`, Inhalt identisch mit Fedlex)."
 ---
 
 ## Gesetzeswortlaut
@@ -44,7 +50,5 @@ Zwischenverfügungen können anwesenden Parteien **mündlich** eröffnet werden.
 
 ### Kasuistik
 
-- **Fristbeginn**: Bei mündlich eröffneten Zwischenverfügungen beginnt die Rechtsmittelfrist mit der schriftlichen Bestätigung ([BGE 143 IV 40](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_40))
-- **Eröffnung von Schlussverfügungen**: Rechtshilfe- und Beschwerdeentscheide über Schlussverfügungen sind schriftlich zu eröffnen ([BGE 145 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_99))
-- **Einsprache per E-Mail**: Erforderliche Unterschrift gemäss Art. 34 VwVG ([BGE 142 V 152](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_152))
-- **Zustellung**: Beseitigung des Rechtsvorschlags durch Krankenversicherer ([BGE 142 III 599](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_599))
+- **Kein Unterschriftserfordernis**: Art. 34 ff. VwVG und Art. 61 Abs. 2 und 3 VwVG schreiben lediglich Schriftlichkeit vor, nicht aber, dass Verfügungen und Beschwerdeentscheide zu unterzeichnen sind ([BGE 131 V 483](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_483#e-2-3) E. 2.3)
+- **Zustellung**: Krankenversicherer dürfen Verfügungen, mit denen sie den Rechtsvorschlag beseitigen, mit A-Post Plus zustellen ([BGE 142 III 599](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_599))
