@@ -13,6 +13,7 @@
 
           {{/* ============ /kommentar/ — Gesetzes-Übersicht ============ */}}
           {{ if eq $depth 1 }}
+            {{ partial "kommentar/aktivitaet.html" . }}
             {{ partial "kommentar/gesetze-grid.html" . }}
 
           {{/* ============ /kommentar/{gesetz}/ — Artikel-Übersicht ============ */}}
