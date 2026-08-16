@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 6 EMRK"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-07-27
+lastmod: 2026-08-16
 description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, begründetes Urteil, Waffengleichheit, Dolmetscherbeistand"
 tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "begründetes Urteil", "Dolmetscherbeistand"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: BGE-Liste in Abschnitt I bereinigt (siehe _index.md-Revisionsvermerk für Details), verdächtige bger.ch/ext/eurolex-URL korrigiert. EGMR-Abschnitt (II.) unverändert -- Fallnamen sind bekannte Leitentscheide, aber nicht über den (Schweiz-skopierten) opencaselaw-Bestand verifizierbar."
 ---
 
 ## Rechtsprechung zu Art. 6 EMRK
@@ -14,11 +20,9 @@ agent_verified: false
 
 ## Leitentscheide
 
-- **BGE 144 IV 345** — Unschuldsvermutung und Beweiswürdigung: Der Grundsatz der freien Beweiswürdigung lässt keinen Raum für eine Anwendung der Regel in dubio pro reo auf die Sammlung und Sichtung der Beweismittel. Die Unschuldsvermutung kommt erst in einem späteren Stadium zum Tragen.
+- **BGE 144 IV 345** — Unschuldsvermutung und Beweiswürdigung: Der Grundsatz der freien Beweiswürdigung lässt keinen Raum für eine Anwendung der Regel in dubio pro reo auf die Sammlung und Sichtung der Beweismittel. Die Unschuldsvermutung kommt erst in einem späteren Stadium zum Tragen (E. 2.2.3.1 f.).
 
 - **BGE 137 I 195** — Replikrecht als Teilaspekt des rechtlichen Gehörs: Die Wahrnehmung des Replikrechts setzt die Zustellung der von den übrigen Verfahrensbeteiligten eingereichten Eingaben voraus. Eine Heilung des Gehörsverlusts durch blosse Akteneinsichtsmöglichkeit genügt nicht.
-
-- **BGE 135 V 465** — Beweiswürdigung und Fairness im Sozialversicherungsverfahren: Auch unter Berücksichtigung der neueren EGMR-Rechtsprechung besteht im Verfahren um Zusprechung oder Verweigerung von Sozialversicherungsleistungen kein förmlicher Anspruch auf versicherungsexterne Gutachten. Ein Verfahren verstösst nicht gegen Art. 6 Ziff. 1 EMRK, wenn es insgesamt noch als fair qualifiziert werden kann.
 
 ---
 
@@ -26,73 +30,61 @@ agent_verified: false
 
 ### Sachlicher Anwendungsbereich
 
-- **BGE 130 II 425** — Der Begriff der «zivilrechtlichen Ansprüche und Verpflichtungen» i.S.v. Art. 6 Abs. 1 EMRK ist autonom. Unabhängig von der Zugehörigkeit zum öffentlichen Recht fällt ein Verbot, in der Unternehmung ein Überwachungssystem zu verwenden, unter diese Bestimmung. Die Pflicht zur Durchführung einer öffentlichen Verhandlung setzt eine klare und unzweideutige Parteianfrage voraus.
+- **BGE 130 II 425** — Der Begriff der «zivilrechtlichen Ansprüche und Verpflichtungen» i.S.v. Art. 6 Abs. 1 EMRK ist autonom. Unabhängig von der Zugehörigkeit zum öffentlichen Recht fällt ein Verbot, in der Unternehmung ein Überwachungssystem zu verwenden, unter diese Bestimmung (E. 2.2 f.).
 
-- **BGE 122 II 464** — Beim Entzug des Führerausweises zu Sicherungszwecken kann sich der Betroffene auf Art. 6 Ziff. 1 EMRK berufen, wenn der ausgeübte Beruf unmittelbar den Besitz des Führerausweises voraussetzt.
+- **BGE 122 II 464** — Beim Entzug des Führerausweises zu Sicherungszwecken kann sich der Betroffene auf Art. 6 Ziff. 1 EMRK berufen, wenn der ausgeübte Beruf unmittelbar den Besitz des Führerausweises voraussetzt (E. 3).
 
-- **BGE 139 II 404** — Im Verfahren der internationalen Amtshilfe in Steuersachen kommen die Garantien von Art. 6 EMRK grundsätzlich nicht zur Anwendung, da es sich nicht um ein Verfahren handelt, das zivilrechtliche Ansprüche oder strafrechtliche Anklagen betrifft.
-
-- **BGE 134 I 140** — Das Bundesgericht wendet Art. 5 und 6 EMRK sowie Art. 29 und 30 BV im Kontext von Schutzmassnahmen gegen häusliche Gewalt an.
+- **BGE 139 II 404** — Im Verfahren der internationalen Amtshilfe in Steuersachen kommen die strafprozessualen Garantien grundsätzlich nicht zur Anwendung (E. 6).
 
 ### Unabhängigkeit und Unparteiischkeit
 
-- **BGE 147 I 173** — Das Erfordernis der Unabhängigkeit verlangt, dass das Gericht gegenüber der Exekutive und der Legislative institutionell unabhängig ist und auch so erscheint. Das Recht auf unabhängige und unparteiische Gerichtspersonen setzt Kenntnis dieser Personen voraus.
+- **BGE 113 Ia 407** — Schiedsgerichte müssen dieselbe Gewähr für Unparteilichkeit bieten wie ordentliche Gerichte; die Unbefangenheit ihrer Mitglieder ist nach demselben Massstab zu beurteilen wie bei staatlichen Richtern (E. 2).
 
-- **BGE 131 I 113** — Zusammenfassung der Rechtsprechung zu mehrfachen Funktionen des Richters im Zivilprozess. Ein Richter erscheint nicht schon deswegen als voreingenommen, weil er ein Gesuch um unentgeltliche Rechtspflege wegen Aussichtslosigkeit abgewiesen hat.
+- **BGE 114 V 292** — Auch Schiedsgerichte haben dieselbe Gewähr für Unparteilichkeit zu bieten wie andere staatliche Gerichte (E. 3).
+
+- **BGE 144 I 234** — Anspruch auf ein unabhängiges und unparteiisches Gericht nach Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK.
+
+- **BGE 131 I 113** — Zusammenfassung der Rechtsprechung zu mehrfachen Funktionen des Richters im Zivilprozess. Ein Richter erscheint nicht schon deswegen als voreingenommen, weil er ein Gesuch um unentgeltliche Rechtspflege wegen Aussichtslosigkeit der Rechtsbegehren abgewiesen hat (E. 3.7).
 
 - **BGE 144 I 37** — Anspruch auf einen nach den gesetzlichen Grundlagen ordnungsgemäss bestellten und zusammengestellten Spruchkörper.
 
-- **BGE 144 I 70** — Spruchkörperbildung nach im Voraus festgelegten, transparenten und abstrakten Regeln.
-
-- **BGE 140 I 153** — Die Unabhängigkeit gerichtlich bestellter Schiedsrichter ist gegeben, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können und die Schiedsrichter weisungsfrei sind.
-
-- **BGE 142 I 195** — Die Unabhängigkeit der Mitglieder des Beschwerdeausschusses der FIFA ist teilweise zu verneinen, da der Ausschuss nicht ausreichend institutionell von der FIFA getrennt ist.
+- **BGE 144 I 70** — Für die Spruchkörperbildung müssen abstrakte Kriterien im Voraus und in transparenter Weise definiert werden, auch in Form einer gefestigten Praxis (E. 4–6).
 
 ### Öffentlichkeit des Verfahrens
 
-- **BGE 146 I 30** — Gerichtsverhandlung und Urteilsverkündung sind grundsätzlich öffentlich. Vergleichsgespräche im Zivilprozess, in denen das Gericht mit dem Ziel einer einvernehmlichen Beilegung des Streits zwischen den Parteien vermittelt, gelten nicht als Gerichtsverhandlung.
+- **BGE 146 I 30** — Gerichtsverhandlung und Urteilsverkündung sind grundsätzlich öffentlich. Vergleichsgespräche im Zivilprozess, in denen das Gericht mit dem Ziel einer einvernehmlichen Beilegung des Streits vermittelt, gelten nicht als Gerichtsverhandlung (E. 2).
 
-- **BGE 122 V 47** — Die Ausnahme zugunsten der Rechtspflege beim Ausschluss der Öffentlichkeit ist eng auszulegen und darf nicht zur Regel werden.
+- **BGE 122 V 47** — Eine öffentliche Verhandlung setzt einen klaren und unmissverständlichen Parteiantrag voraus; blosse Beweisanträge genügen nicht.
 
 ### Beschleunigungsgebot
 
-- **BGE 139 I 145** — Die übermässige Dauer eines Zivilverfahrens kann eine Konventionsverletzung darstellen. Massgeblich sind die Kriterien von Kudła (Komplexität, Verhalten der Parteien, Verhalten der Behörden, Schwere der drohenden Sanktionen).
+- **BGE 130 I 269** — Massgeblich für die Angemessenheit der Verfahrensdauer sind die Schwere des Tatvorwurfs, die Komplexität des Sachverhalts, die dadurch gebotenen Untersuchungshandlungen sowie das Verhalten des Beschuldigten und der Behörden (E. 3.1).
 
-- **BGE 141 I 113** — Im verwaltungsrechtlichen Verfahren gelten dieselben Grundsätze zum Beschleunigungsgebot. Die Verfahrensdauer ist anhand der Komplexität des Falles, des Verhaltens der Parteien und der Behörden sowie der Bedeutung der Sache zu beurteilen.
+- **BGE 137 IV 118** — Bei strafprozessualer Haft wird diese unrechtmässig, wenn der Entscheid des Zwangsmassnahmengerichts nicht innerhalb von 96 Stunden nach der Festnahme ergeht.
 
-- **BGE 136 I 39** — Die Dauer der Untersuchshaft ist anhand des Beschleunigungsgebots zu prüfen. Bei länger andauernder Untersuchshaft sind besondere Gründe für die Fortdauer erforderlich.
-
-- **BGE 143 I 220** — Die Verfahrensdauer im Asylverfahren muss anhand der Komplexität des Falles und der Bedeutung für die beschuldigte Person beurteilt werden. Bei offensichtlich aussichtslosen Asylgesuchen ist ein beschleunigtes Verfahren geboten.
+- **BGE 143 IV 373** — Die Folgen einer Verletzung des Beschleunigungsgebots sind meist die Strafreduktion, ausnahmsweise der Verzicht auf Strafe oder, als ultima ratio, die Einstellung des Verfahrens (E. 1.4.1).
 
 ### Unschuldsvermutung
 
-- **BGE 127 I 38** — Die Beschränkung der Kognition auf Willkür durch das Kassationsgericht verletzt die Unschuldsvermutung (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) nicht. Die Unschuldsvermutung als Beweislastregel gewährleistet, dass der Staat die Schuld beweisen muss.
-
-- **BGE 124 IV 86** — Der aus Art. 4 BV und Art. 6 Ziff. 2 EMRK fliessende Grundsatz in dubio pro reo besagt, dass bis zum gesetzlichen Nachweis der Schuld vermutet wird, der Angeklagte sei unschuldig.
+- **BGE 127 I 38** — Die Beschränkung der Kognition auf Willkür durch das Kassationsgericht verletzt die Unschuldsvermutung (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) nicht (E. 2c).
 
 ### Nemo tenetur
 
-- **BGE 127 I 54** — Der Grundsatz *nemo tenetur se ipsum accusare* gehört zu den Grundprinzipien eines fairen Verfahrens. Die beschuldigte Person ist nicht verpflichtet, sich selbst zu belasten. Aus dem Schweigen dürfen keine nachteiligen Schlüsse gezogen werden.
+- **BGE 148 IV 205** — Das strafprozessuale Selbstbelastungsprivileg («nemo tenetur se ipsum accusare») und das Recht auf Aussageverweigerung sind grundrechtlich verankert; die Verwertbarkeit von Beweismitteln aus verdeckter Ermittlung setzt die Einhaltung dieser Garantien voraus (E. 2.4).
 
-- **BGE 135 I 257** — Das Recht auf Schweigen und das Recht, nicht aktiv zur eigenen Überführung beizutragen, sind zentrale Elemente des fairen Verfahrens. Die Verwertung von unter Zwang erlangten Aussagen verstösst gegen Art. 6 EMRK.
-
-- **BGE 142 I 99** — Das *nemo tenetur* verbietet nicht die Verwertung von Beweismitteln, die unabhängig vom Willen der beschuldigten Person erhoben wurden. Es verbietet jedoch die Zwangsverwertung von Aussagen und die Herausgabe von Beweismitteln, die zur eigenen Überführung dienen könnten.
+- **BGE 143 I 304** — Die Behörden haben den Entschluss der beschuldigten Person, zu schweigen, zu respektieren und dürfen keine List anwenden, um ihr dennoch belastende Angaben zu entlocken (E. 2.3).
 
 ### Zugang zum Gericht
 
-- **BGE 140 I 99** — Der Zugang zum Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Einschränkungen müssen gesetzlich vorgesehen, einem legitimen Zweck dienend und verhältnismässig sein. Absolute Verjährungsfristen, die den Zugang faktisch verwehren, können gegen Art. 6 Abs. 1 EMRK verstossen.
+- **BGE 136 II 380** — Der Zugang zum Gericht darf nicht durch eine übertriebene Beurteilung der formellen oder finanziellen Voraussetzungen ungebührlich eingeschränkt werden (E. 2 f.).
 
 ### Verteidigungsrechte
 
 - **BGE 129 I 129** — Nach bundesgerichtlicher Praxis können bei der Gewährung der unentgeltlichen Verbeiständung im Rechtsmittelverfahren auch die Erfolgsaussichten berücksichtigt werden. Ein absoluter Anspruch auf amtliche Verteidigung bei aussichtslosen Rechtsmitteln besteht nach der Strassburger Praxis nicht.
 
-- **BGE 143 IV 117** — Die Unterrichtung über die Beschuldigung muss in einer für die beschuldigte Person verständlichen Sprache erfolgen.
-
-- **BGE 145 IV 197** — Aus berechtigten Strafverfolgungsinteressen kann das Recht auf Unterrichtung vorübergehend beschränkt werden, etwa bei Gefährdung des Ermittlungserfolgs.
-
 - **BGE 143 I 284** — Versäumnisse des Rechtsbeistands gehen grundsätzlich zu Lasten der beschuldigten Person.
 
-- **BGE 124 V 90** — Zum Anspruch der Parteien auf Teilnahme an der Zeugenbefragung. Wird die Aussage eines Zeugen schriftlich abgegeben, hat die Partei Anspruch darauf, vom Inhalt dieser Aussage Kenntnis zu nehmen.
+- **BGE 124 V 90** — Zum Anspruch der Parteien auf Teilnahme an der Zeugenbefragung. Wird die Aussage eines Zeugen schriftlich abgegeben, hat die Partei Anspruch darauf, vom Inhalt dieser Aussage Kenntnis zu nehmen; auf Ersuchen ist ihr die Möglichkeit zu geben, dem Zeugen Zusatzfragen zu stellen oder stellen zu lassen.
 
 ---
 
@@ -622,7 +614,7 @@ agent_verified: false
 
 ### Pflichtverteidigung und Zurechnung
 
-### BGer 6B_1005/2024, E. 3–4
+### [BGer 6B_1005/2024 vom 27. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1005_2024)
 
 - **Thema**: Doppeltes Pflichtverteidiger-Versagen
 - **Kornaussage**: Präzisierung: Versäumt der Pflichtverteidiger eine Frist und beantragt auch keine Wiederherstellung der Frist, ist dieses doppelte Versagen der beschuldigten Person nicht zurechenbar. Die Ausnahme vom Zurechnungsgrundsatz bei qualifiziertem Anwaltsverschulden gilt auch beim völligen Unterlassen des Wiederherstellungsgesuchs. Die Vorinstanz muss die Ausnahmevoraussetzungen von Amtes wegen prüfen.
