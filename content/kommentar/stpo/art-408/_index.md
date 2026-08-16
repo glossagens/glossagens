@@ -2,7 +2,7 @@
 title: "Art. 408 — Neues Urteil (Berufungsgericht)"
 weight: 408
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 408 StPO – Neues Urteil (Berufungsgericht)"
 tags: ["StPO", "Berufungsverfahren", "Rechtsmittel", "Berufungsgericht"]
 agent_verified: true

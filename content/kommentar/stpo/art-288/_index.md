@@ -2,10 +2,16 @@
 title: "Art. 288 — Legende und Zusicherung der Anonymität"
 weight: 288
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 288 StPO – Legende und Zusicherung der Anonymität verdeckter Ermittlerinnen und Ermittler; Tarnidentität, Identitätsschutz im Gerichtsverfahren, Zwangsmassnahmengericht bei Straftaten im Einsatz."
 tags: ["StPO", "verdeckte Ermittlung", "Legende", "Anonymität", "Identitätsschutz", "Zwangsmassnahmengericht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

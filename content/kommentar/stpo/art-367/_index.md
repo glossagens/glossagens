@@ -2,7 +2,7 @@
 title: "Art. 367 StPO — Abwesenheitsverfahren: Durchführung und Entscheid"
 weight: 367
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 367 StPO: Durchführung und Entscheid im Abwesenheitsverfahren — Parteivortrag und Verteidigung, Urteilsgrundlage, Wahl zwischen Urteil und Sistierung sowie subsidiäre Geltung der Regeln über das erstinstanzliche Hauptverfahren."
 tags: ["Abwesenheitsverfahren", "Parteivortrag", "Verteidigung", "Hauptverhandlung", "Urteil", "Sistierung", "faires Verfahren"]
 agent_verified: true

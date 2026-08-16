@@ -2,10 +2,16 @@
 title: "Art. 147 StPO — Im Allgemeinen"
 weight: 147
 date: "2026-05-09"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 147 StPO: Teilnahmerecht der Parteien bei Beweiserhebungen, Fragerecht, Wiederholungsverlangen, Verwertungsverbot und Konfrontationsanspruch."
 tags: ["StPO", "Teilnahmerecht", "Beweiserhebung", "rechtliches Gehör", "Verwertungsverbot", "Konfrontationsrecht", "Privatklägerschaft", "Parteiöffentlichkeit", "EMRK"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut
@@ -93,7 +99,7 @@ Aufzeichnungen über unverwertbare Beweise sind aus den Strafakten zu entfernen,
 
 ### 3. Anpassung der Rechtsprechung (2024)
 
-**BGE 150 IV 345** hat die Rechtsprechung angepasst: Eine Einvernahme, an der das Teilnahmerecht gemäss Art. 147 Abs. 1 nicht gewährleistet war, bleibt **auch nach einer rechtskonformen Wiederholung** zu Lasten der beschuldigten Person unverwertbar ([BGE 150 IV 345, E. 1.6.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345)). Der Anschluss eines formellen Konfrontationsanspruchs gemäss Art. 6 Ziff. 3 lit. d EMRK ändert daran nichts.
+**BGE 150 IV 345** hat die Rechtsprechung angepasst: Eine Einvernahme, an der das Teilnahmerecht gemäss Art. 147 Abs. 1 nicht gewährleistet war, bleibt **auch nach einer rechtskonformen Wiederholung** zu Lasten der beschuldigten Person unverwertbar ([BGE 150 IV 345, E. 1.6.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345#e-2)). Der Anschluss eines formellen Konfrontationsanspruchs gemäss Art. 6 Ziff. 3 lit. d EMRK ändert daran nichts.
 
 ### 4. Differenzierung Teilnahmerecht vs. Konfrontationsrecht
 
@@ -101,7 +107,7 @@ Die Garantien von Art. 147 StPO und Art. 6 Ziff. 3 lit. d EMRK sind **nicht deck
 
 ## VI. Konfrontationsanspruch nach EMRK (Art. 6 Ziff. 3 lit. d EMRK)
 
-Eine belastende Zeugenaussage ist grundsätzlich nur verwertbar, wenn die beschuldigte Person wenigstens einmal **angemessene und hinreichende Gelegenheit** hatte, Fragen an den Belastungszeugen zu stellen ([BGer 6B_446/2012, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_446_2012); [BGer 6B_14/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2021); [BGE 150 IV 345, E. 1.6.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345#e-1-6-3-2)).
+Eine belastende Zeugenaussage ist grundsätzlich nur verwertbar, wenn die beschuldigte Person wenigstens einmal **angemessene und hinreichende Gelegenheit** hatte, Fragen an den Belastungszeugen zu stellen ([BGer 6B_446/2012, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_446_2012); [BGer 6B_14/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_14_2021); [BGE 150 IV 345, E. 1.6.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_345#e-2)).
 
 **Indirekte Konfrontation**: Bei der Wahrung des Konfrontationsrechts sind die Interessen der Verteidigung gegen diejenigen des Opfers abzuwägen. Soweit dem Opfer eine direkte Konfrontation nicht zumutbar ist, ist es nicht zwingend, dass die Befragung per Video übertragen wird. Massgeblich ist, ob der Beschuldigte ausreichend Gelegenheit hatte, die Glaubhaftigkeit der Aussagen in Zweifel zu ziehen ([BGE 143 IV 397, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_397#e-5-2)). Opferzeuginnen haben gemäss Art. 152 Abs. 3 i.V.m. Art. 149 Abs. 2 lit. b StPO Anspruch auf indirekte Konfrontation.
 

@@ -2,10 +2,17 @@
 title: "Art. 191 — Selbstantrag des Schuldners"
 weight: 191
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 191 SchKG: Insolvenzerklärung, Konkurseröffnung auf eigenes Begehren, missbräuchliche Insolvenzerklärung"
 tags: ["SchKG", "Insolvenzerklärung", "Konkurs", "Selbstantrag", "Zahlungsunfähigkeit", "missbräuchlich", "Schuldenbereinigung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
 ---
 
 ## Gesetzeswortlaut
@@ -24,7 +31,7 @@ agent_verified: true
 
 ### II. Voraussetzungen der Insolvenzerklärung (Abs. 1)
 
-**2** Der Selbstantrag setzt voraus, dass der Schuldner sich beim zuständigen Konkursgericht **zahlungsunfähig erklärt**. Die Zahlungsunfähigkeit ist ein **deklaratorisches Element**: Der Schuldner erklärt seine Zahlungsunfähigkeit, woraufhin das Gericht die materielle Zahlungsunfähigkeit nicht gesondert festzustellen braucht. Massgeblich ist die Erklärung des Schuldners, nicht eine gerichtliche Prüfung der tatsächlichen Zahlungsunfähigkeit ([BGE 133 III 614, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_614)).
+**2** Der Selbstantrag setzt voraus, dass der Schuldner sich beim zuständigen Konkursgericht **zahlungsunfähig erklärt**. Die Zahlungsunfähigkeit ist ein **deklaratorisches Element**: Der Schuldner erklärt seine Zahlungsunfähigkeit, woraufhin das Gericht die materielle Zahlungsunfähigkeit nicht gesondert festzustellen braucht. Massgeblich ist die Erklärung des Schuldners, nicht eine gerichtliche Prüfung der tatsächlichen Zahlungsunfähigkeit ([BGE 133 III 614, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_614)).
 
 **3** **Formelle Anforderungen.** Der Antrag kann **formlos** gestellt werden; ein Parteiverfahren ist nicht erforderlich. Der blosse Antrag an den Richter genügt ([BGE 118 III 27, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_III_27)). Der Schuldner braucht nicht durch einen Anwalt vertreten zu sein. Das Gericht hat den Antrag von Amtes wegen zu prüfen.
 

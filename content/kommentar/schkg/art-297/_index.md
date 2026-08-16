@@ -2,10 +2,17 @@
 title: "Art. 297 SchKG — Wirkungen der Gläubigerrechte während der Nachlassstundung"
 weight: 297
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 297 SchKG: Wirkungen der Gläubigerrechte während der Nachlassstundung — Betreibungsverbot, Arrestausschluss, Sistierung von Rechtsstreitigkeiten, Stillstand der Verjährungsfristen, Zinsenstillstand und Verrechnung."
 tags: ["SchKG", "Sistierung", "Nachlassstundung", "Schuldbetreibung", "Betreibungsverbot", "Arrest", "Verjährung", "Verrechnung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
 ---
 
 # Art. 297 SchKG

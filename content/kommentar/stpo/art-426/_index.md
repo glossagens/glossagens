@@ -2,7 +2,7 @@
 title: "Art. 426 — Kostentragungspflicht der beschuldigten Person"
 weight: 426
 date: 2026-07-11
-lastmod: 2026-07-31
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person"
 tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung"]
 agent_verified: true

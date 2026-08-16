@@ -2,11 +2,16 @@
 title: "Art. 174 — Beschwerde gegen Konkurseröffnung"
 weight: 174
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 174 SchKG — Anfechtung des Entscheids des Konkursgerichts mit Beschwerde nach der ZPO, Konkurshinderungsgründe (Tilgung, Hinterlegung, Verzicht), Frist für das Glaubhaftmachen der Zahlungsfähigkeit und Urkundenbeweis, aufschiebende Wirkung und vorsorgliche Massnahmen."
 tags: ["SchKG", "Konkurs", "Konkurseröffnung", "Beschwerde", "Konkurshinderungsgründe", "Zahlungsfähigkeit", "Hinterlegung", "aufschiebende Wirkung", "ZPO"]
 agent_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

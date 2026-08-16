@@ -2,8 +2,8 @@
 title: "Art. 28 — Rentenanspruch"
 weight: 28
 date: 2026-06-07
-lastmod: 2026-06-07
-description: "Kommentar zu Art. 28 IVG — Rentenanspruch bei Invalidität: Voraussetzungen, Einkommensvergleich, Eingliederungsvorrang"
+lastmod: "2026-08-14"
+description: "Kommentar zu Art. 28 IVG — Rentenanspruch bei Invalidität: Voraussetzungen, Einkommensvergleich, Eingliederungsvorrang, Beitragsdauer und ordentliche vs. ausserordentliche Rente"
 tags: ["IVG", "Rentenanspruch", "Invalidität", "Einkommensvergleich", "Eingliederung"]
 agent_verified: true
 ---
@@ -53,6 +53,10 @@ Abs. 1bis (eingefügt per 1.1.2022) kodifiziert den Eingliederungsvorrang expliz
 - **Medizinische Eingliederungsmassnahmen**, die noch nicht abgeschlossen sind (vgl. [BGer 9C_173/2025 vom 4.5.2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_173_2025), E. 7.2.1: Invalidität tritt erst nach Abschluss laufender Eingliederungsmassnahmen ein)
 
 Die Praxisänderung wurde durch [BGer 9C_173/2025 vom 4.5.2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_173_2025) präzisiert: Bei laufenden Eingliederungsmassnungen ist die Invalidität zeitlich erst nach deren Abschluss anzusetzen; therapeutische Aspekte stehen der Qualifikation als Eingliederungsmassnahme nach Art. 8 Abs. 3 IVG nicht entgegen.
+
+**N 8a** **Beitragsdauer und Eingliederung.** Nach Abschluss von Eingliederungsmassnahmen kann die Beitragsdauer nach dem Invaliditätszeitpunkt nicht für die Dreijahresmindestfrist der ordentlichen Rente (Art. 36 Abs. 1 IVG) angerechnet werden. Massgeblich ist allein die Beitragsdauer bis zum Eintritt der Invalidität ([BGer 9C_144/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_144_2026) E. 5.2). *Kontextzitat*: Der Entscheid befasst sich primär mit der Abgrenzung ordentliche/ausserordentliche Rente und der Majoration nach Art. 40 Abs. 3 IVG; die Klarstellung zur Beitragsdauer ist eine Konkretisierung von Art. 36 Abs. 1 IVG.
+
+**N 8b** **Eingliederungsvorrang und Zeitpunkt der Invalidität.** Bei laufenden Eingliederungsmassnahmen kann die Invalidität nicht vor deren Abschluss eintreten; der Rentenbeginn ist auf den Abschluss der Massnahmen zu setzen. Dies gilt auch wenn die Massnahmen die Beitragsdauer und damit die Art der Rente (ordentlich vs. ausserordentlich) beeinflussen ([BGer 9C_144/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_144_2026) E. 5.1; bestätigend [BGer 9C_173/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_173_2025) E. 7.2.1).
 
 ### IV. Einkommensvergleich (Rechtsprechung zu Abs. 1 lit. c)
 

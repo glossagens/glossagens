@@ -10,7 +10,7 @@ agent_verified: false
 
 ## I. Subsidiarität der Beschwerde gegenüber der Berufung (lit. a)
 
-### [BGE 139 IV 199, E. 5.2](https://www.bger.ch/ext/eurolex/index/139/IV/199)
+### [BGE 139 IV 199, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199)
 
 - **Thema**: Subsidiarität der Beschwerde gegenüber der Berufung
 - **Kernaussage**: Die Beschwerde ist im Vergleich zur Berufung subsidiär (Art. 20 Abs. 1 und Art. 394 lit. a StPO). Gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen wurde, können die Parteien Berufung erheben. Die Staatsanwaltschaft und die übrigen Parteien müssen die Reduktion der Entschädigung für die amtliche Verteidigung im Berufungsverfahren verlangen, während sich der amtliche Verteidiger mit Beschwerde zur Wehr setzt. Tritt das Berufungsgericht ein, entfällt das Anfechtungsobjekt des parallelen Beschwerdeverfahrens.
@@ -18,7 +18,7 @@ agent_verified: false
 
 ---
 
-### [BGE 144 IV 333, E. 2.1](https://www.bger.ch/ext/eurolex/index/144/IV/333)
+### [BGE 144 IV 333, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_333)
 
 - **Thema**: Haftbeschwerde und Beschwerdeausschluss
 - **Kernaussage**: Haftentscheide nach Art. 380 ff. StPO unterliegen nicht dem Beschwerdeausschluss nach Art. 394 lit. a StPO. Die Beschwerde gegen Untersuchungshaft ist auch dann zulässig, wenn gegen das Haupturteil Berufung erhoben werden kann. Untersuchungshaft und Haupturteil sind verschiedene Anfechtungsobjekte.

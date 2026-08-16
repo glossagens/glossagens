@@ -2,10 +2,16 @@
 title: "Art. 119 — Form und Inhalt der Erklärung"
 weight: 119
 date: 2026-07-12
-lastmod: 2026-07-12
 description: "Kommentar zu Art. 119 StPO – Form und Inhalt der Erklärung (Privatklägerschaft)"
 tags: ["StPO", "Privatklägerschaft", "Strafklage", "Zivilklage", "Parteistellung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut

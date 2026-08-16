@@ -5,7 +5,8 @@ date: 2026-05-09
 lastmod: 2026-05-09
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
-agent_verified: false
+agent_verified: true
+lastmod: 2026-08-14
 ---
 
 # Rechtsprechung zu Art. 141 StPO
@@ -134,6 +135,8 @@ Art. 141 Abs. 5 StPO regelt die Entfernung unverwertbarer Beweismittel aus den A
 
 **[BGE 143 IV 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475)** (vom 5. Oktober 2017, 361 Zitate) — *StPO-Beschwerde gegen Aktenentfernungsentscheid der STA*: Es hält nicht vor Bundesrecht stand, wenn eine letzte kantonale Instanz auf eine StPO-Beschwerde gegen die (Nicht-)Entfernung angeblich unverwertbarer Beweismittel durch die Staatsanwaltschaft nicht eintritt, weil es an einem nicht wieder gutzumachenden Nachteil bzw. an einem rechtlich geschützten Interesse fehle. Die Beschwerde ist zulässig. → E. 2.
 
+**[BGer 7B_1429/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1429_2025)** (vom 5. August 2026) — *SkyECC-Daten, Aktenbereinigung und Zwischenentscheid*: Bestätigung von BGE 141 IV 289 E. 1.2 f. und E. 1.4: Der alleinige Umstand, dass ein unverwertbares Beweismittel in den Akten verbleibt, stellt grundsätzlich keinen nicht wieder gutzumachenden Nachteil dar (E. 1.6.2). Eine andere verfahrensrechtliche Lage besteht, wenn die kantonale Beschwerdeinstanz im Vorverfahren ein Beweismittel als unverwertbar erachtet und seine Entfernung aus den Akten anordnet (Art. 141 Abs. 5 StPO); in diesem Fall droht der Staatsanwaltschaft ein irreparabler Nachteil, wenn die Entfernung die Weiterführung des Verfahrens verunmöglicht oder stark erschwert (E. 1.6.3). — *Kontextzitat*; der Entscheid befasst sich primär mit BGG Art. 93 (Eintretensvoraussetzungen), nicht substantiell mit Art. 141 StPO.
+
 ---
 
 ## 7. Verfahrensrechtliche Aspekte (Zuständigkeit, Beschwerde)
@@ -149,6 +152,8 @@ Kantonsgericht Basel-Landschaft, 470 19 121 (2019) — *Kein Voreingreifen der B
 ### 7.2 Beschwerde gegen Aktenbereinigungsentscheide
 
 **[BGE 143 IV 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475)** (vom 5. Oktober 2017, 361 Zitate) — Die StPO-Beschwerde gegen einen Aktenentfernungsentscheid der Staatsanwaltschaft ist zulässig; Nichteintreten mangels irreparablen Nachteils verletzt Bundesrecht. → E. 2.
+
+**[BGer 7B_1429/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1429_2025)** (vom 5. August 2026) — *SkyECC-Daten, Zwischenentscheid über Beweisverwertbarkeit*: Auf die Beschwerde der Oberstaatsanwaltschaft gegen einen obergerichtlichen Zwischenentscheid, der SkyECC-Daten als unverwertbar erklärt und ihre Entfernung aus den Akten anordnet, wird nicht eingetreten. Ein nicht wieder gutzumachender Nachteil i.S.v. Art. 93 Abs. 1 lit. a BGG liegt nicht vor, wenn die Staatsanwaltschaft das Vorverfahren abschliessen und Anklage erheben konnte und das erstinstanzliche Gericht die Beweise als verwertbar erachtete; der Zwischenentscheid kann mit dem Endentscheid nach Art. 93 Abs. 3 BGG angefochten werden (E. 1.5–1.8). — *Verfahrensrechtlicher Kontext*; der Entscheid bestätigt die Grundsätze von BGE 141 IV 289 zum irreparablen Nachteil bei Aktenbereinigung (Art. 141 Abs. 5 StPO).
 
 ### 7.3 Anwendungsbereich über das Kernstrafverfahren hinaus
 
@@ -174,7 +179,8 @@ Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der
 
 | Geschäftsnummer | Datum | Kurzinhalt |
 |---|---|---|
-| BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |
+|| BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
+|| BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |
 | BGer 6B_865/2025 | 09.03.2026 | Folgeverwertungsverbot; Vorhalten unverwertbarer Aussagen |
 | BGer 6B_462/2025 | 25.03.2026 | Rechtswidrige Observation, Beweisverwertungsverbot |
 | BGer 1B_535/2021 | 19.05.2022 | Zugangscode bei Hausdurchsuchung (Vorläuferentscheid zu BGE 151 IV 73) |

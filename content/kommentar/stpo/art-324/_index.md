@@ -2,10 +2,16 @@
 title: "Art. 324 — Grundsätze (Anklageerhebung)"
 weight: 324
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 324 StPO – Grundsätze der Anklageerhebung"
 tags: ["StPO", "Anklageerhebung", "in dubio pro duriore", "Verfahrenseinstellung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

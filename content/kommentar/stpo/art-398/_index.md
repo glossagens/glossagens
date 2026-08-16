@@ -2,7 +2,7 @@
 title: "Art. 398 — Zulässigkeit und Berufungsgründe"
 weight: 398
 date: "2026-06-20"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 398 StPO – Zulässigkeit und Berufungsgründe: Berufung gegen erstinstanzliche Urteile, umfassende Überprüfungsbefugnis, Berufungsgründe, Beschränkung bei Übertretungen, Zivilpunkt"
 tags: ["StPO", "Berufung", "Zulässigkeit", "Berufungsgründe", "Rechtsverletzung", "Sachverhaltsfeststellung", "Unangemessenheit", "Übertretung", "Zivilpunkt", "reformatorisches Rechtsmittel", "Kognition"]
 agent_verified: true

@@ -2,11 +2,16 @@
 title: "Art. 197 StPO — Grundsätze der Zwangsmassnahmen"
 weight: 197
 date: "2026-07-04"
-lastmod: "2026-08-09"
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 197 StPO: Voraussetzungen aller Zwangsmassnahmen — gesetzliche Grundlage, hinreichender Tatverdacht, Subsidiarität, Verhältnismässigkeit, Schutz nicht beschuldigter Personen."
 tags: ["Zwangsmassnahmen", "Verhältnismässigkeit", "Tatverdacht", "gesetzliche Grundlage", "Subsidiarität", "DNA-Profil", "Grundrechte", "Drittbetroffene"]
 agent_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter konsistenzgeprüft"
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"

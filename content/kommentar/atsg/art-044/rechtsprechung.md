@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 44 ATSG"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
-description: "Übersicht der Entscheide zu Art. 44 ATSG — Begutachtung, Zwischenverfügungspflicht, Mitwirkungsrechte"
-tags: ["Rechtsprechung", "ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht"]
+lastmod: 2026-08-14
+description: "Übersicht der Entscheide zu Art. 44 ATSG — Begutachtung, Zwischenverfügungspflicht, Mitwirkungsrechte, Gerichtsgutachterkosten, Kausalzusammenhang"
+tags: ["Rechtsprechung", "ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht", "Gerichtsgutachterkosten", "Kausalzusammenhang"]
 agent_verified: false
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 9C_365/2025 ergänzt: Gerichtsgutachterkosten, Kausalzusammenhang"
 ---
 
 # Rechtsprechung zu Art. 44 ATSG
@@ -55,6 +61,22 @@ Konkretisierung der Mitwirkungsrechte der versicherten Person bei der Begutachtu
 Verwertbarkeit eines Gutachtens bei Verfahrensfehlern im Begutachtungsverfahren. Wenn die Mitwirkungsrechte der versicherten Person nach Art. 44 ATSG verletzt wurden, kann das Gutachten nicht als Entscheidungsgrundlage verwendet werden. Der Versicherungsträger muss das Verfahren wiederholen.
 
 → [BGer 8C_820/2010](https://mcp.opencaselaw.ch/entscheid/bger_8C_820_2010)
+
+### BGer 9C_365/2025 — Gerichtsgutachterkosten: Kausalzusammenhang mit Mängeln der Verwaltungsabklärung
+
+**BGer 9C_365/2025 vom 21. Juli 2026** (III. öffentlich-rechtliche Abteilung, Präsidentin Moser-Szeless)
+
+Kosten eines gerichtlichen Gutachtens und ihre Zuweisung an den Verwaltungsträger. Das Bundesgericht hält fest:
+
+1. **Gerichtsgutachterkosten als Verwaltungskosten (Art. 45 ATSG):** Gerichtsgutachterkosten sind Verwaltungskosten im Sinne von Art. 45 ATSG, nicht Gerichtskosten im Sinne von Art. 69 Abs. 1bis IVG, wenn die Vorinstanz die Expertise anordnet, weil die Verwaltungsabklärung nicht ausreicht (*Kontextzitat*: E. 4.1; BGE 139 V 496, E. 4.3; BGE 139 V 225, E. 4.3; BGE 137 V 210, E. 4.4.1.4).
+
+2. **Kausalzusammenhang erforderlich:** Die systematische Auferlegung der Gerichtsgutachterkosten an die Verwaltung ist nicht gerechtfertigt. Es muss ein **Kausalzusammenhang** zwischen charakteristischen Mängeln der Verwaltungsabklärung und der Notwendigkeit der gerichtlichen Expertise bestehen (*Kontextzitat*: E. 4.1; BGE 139 V 496, E. 4.4; BGE 137 V 210, E. 4.4.2).
+
+3. **Keine Auferlegung bei ordnungsgemässer Begutachtung (Art. 44 ATSG):** Hat die Verwaltung den Untersuchungsgrundsatz gewahrt und eine Begutachtung nach Art. 44 ATSG angeordnet, und erscheint ihre Beweiswürdigung nicht offensichtlich fehlerhaft, so rechtfertigt dies nicht die Auferlegung der Gerichtsgutachterkosten an die Verwaltung. Eine abweichende Beweiswürdigung des Gerichts allein genügt nicht (*Kontextzitat*: E. 4.2; BGE 143 V 269, E. 3.3; BGer 8C_454/2025, E. 3).
+
+4. **Vorinstanz hat Kausalzusammenhang nicht dargelegt:** Die kantonale Instanz hatte weder benannt, welche ärztlichen Stellungnahmen widersprüchlich waren, noch erklärt, warum die im Verwaltungsverfahren eingeholten Expertisen (CEMed, SMEX) ausser Acht gelassen wurden. Die blosse Erwähnung von «Unsicherheiten» genügt nicht, um einen charakteristischen Mangel der Verwaltungsabklärung zu begründen. Dispositiv-Ziff. III (Kostenauferlegung) wurde aufgehoben (E. 5.2).
+
+→ [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025)
 
 ### BGer 8C_296/2021 — Begutachtung nach WEIV-Reform
 
@@ -110,5 +132,7 @@ Die Rechtsprechung zu Art. 44 ATSG hat sich in drei Phasen entwickelt:
 1. **BGE 137 V 210 (2011)**: Verfassungsrechtliche Grundlagen — Mitwirkungsrechte als Anspruch auf faires Verfahren.
 2. **WEIV-Reform (2022)**: Umsetzung der Mitwirkungsrechte in Gesetzesrecht (Art. 44 Abs. 2–4 ATSG n.F.).
 3. **BGer 8C_445/2025 (2026)**: Art. 44 ATSG nicht abschliessend — Zwischenverfügungspflicht bei Begutachtungsstreit; Korrektur von KSVI Rz. 3067.1.
+
+**BGer 9C_365/2025 (2026)** erweitert die Dogmatik um die Frage der **Gerichtsgutachterkosten**: Die Auferlegung an die Verwaltung setzt einen Kausalzusammenhang zwischen Mängeln der Verwaltungsabklärung und der Notwendigkeit der gerichtlichen Expertise voraus. Hat die IV-Stelle eine ordnungsgemässe Begutachtung nach Art. 44 ATSG durchgeführt, rechtfertigt eine blosse abweichende Beweiswürdigung des Gerichts nicht die Kostenauferlegung. Die Gutachterkosten sind Verwaltungskosten im Sinne von Art. 45 ATSG, nicht Gerichtskosten nach Art. 69 Abs. 1bis IVG.
 
 Die zentrale dogmatische Aussage von BGer 8C_445/2025 ist, dass die Mitwirkungsrechte der versicherten Person im Begutachtungsverfahren **justitiabel** sind: Ein Streit über die Begutachtungsanordnung muss in einer selbstständig anfechtbaren Zwischenverfügung gelöst werden, bevor das Gutachten durchgeführt wird.

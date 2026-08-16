@@ -2,10 +2,16 @@
 title: "Art. 326 — Weitere Angaben und Anträge"
 weight: 326
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 326 StPO – Weitere Angaben und Anträge der Staatsanwaltschaft an das Gericht: Zivilklagen, Zwangsmassnahmen, Untersuchungskosten, Sicherheitshaft, Sanktionsanträge, Schlussbericht."
 tags: ["StPO", "Hauptverfahren", "Anklageerhebung", "Sanktionsantrag", "Schlussbericht", "Sicherheitshaft", "Staatsanwaltschaft"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

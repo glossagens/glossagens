@@ -2,7 +2,7 @@
 title: "Art. 432 — Ansprüche gegenüber Privatklägerschaft"
 weight: 432
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 432 StPO – Ansprüche gegenüber der Privatklägerschaft und der antragstellenden Person"
 tags: ["StPO", "Kosten", "Entschädigung", "Privatklägerschaft", "Antragsdelikte"]
 agent_verified: true

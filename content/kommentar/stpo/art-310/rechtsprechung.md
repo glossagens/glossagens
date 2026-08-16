@@ -145,7 +145,7 @@ Klärung der Rechtsstellung des Anwalts als Dritter im Sinne der ehreverletzende
 
 ## Nichtanhandnahme nach Gutheissung
 
-### [BGer 7B_320/2025 vom 20. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_320/2025) — Gutheissung der Beschwerde gegen Nichtanhandnahme
+### [BGer 7B_320/2025 vom 20. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_320_2025) — Gutheissung der Beschwerde gegen Nichtanhandnahme
 
 **Gutheissung**: Das Bundesgericht hebt die Nichtanhandnahmeverfügung der Staatsanwaltschaft auf und verweist die Sache zu neuer Beurteilung zurück. Die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO darf nur bei klarer Straflosigkeit oder offensichtlich fehlenden Prozessvoraussetzungen ergehen. Bestehen auch nur geringe Zweifel, ob ein Straftatbestand erfüllt ist, ist das Verfahren zwingend zu eröffnen (*in dubio pro duriore*).
 

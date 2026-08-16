@@ -2,10 +2,17 @@
 title: "Art. 190 SchKG — Konkurs ohne vorgängige Betreibung"
 weight: 190
 date: 2026-07-18
-lastmod: "2026-07-18"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 190 SchKG: Konkurs ohne vorgängige Betreibung — Voraussetzungen, Gläubigerqualität, Zahlungseinstellung und nova im kantonalen Rekursverfahren."
 tags: ["SchKG", "Konkurs", "Zahlungseinstellung", "Konkurs ohne Betreibung", "nova"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
 ---
 
 ## Gesetzeswortlaut

@@ -2,7 +2,7 @@
 title: "Art. 431 — Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft"
 weight: 431
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 431 StPO – Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft"
 tags: ["StPO", "Entschädigung", "Genugtuung", "Zwangsmassnahmen", "Überhaft", "Untersuchungshaft", "Sicherheitshaft", "EMRK"]
 agent_verified: true
@@ -92,7 +92,7 @@ Im Jugendstrafrecht entsteht eine komplexe Rechtslage bei der Anrechnung von Haf
 
 #### 6. Überhaft nach Massnahmenvollzug (Art. 364a StPO)
 
-[BGer 7B_190/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_190/2022) behandelt die Entschädigung für Überhaft, wenn nach Erreichen der Höchstdauer einer Massnahme (Art. 364a StPO) Sicherheitshaft angeordnet wurde, die sich nachträglich als ungerechtfertigt erwies. Hier überschneiden sich die Entschädigungstatbestände von Art. 429 und Art. 431 StPO.
+[BGer 7B_190/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_190_2022) behandelt die Entschädigung für Überhaft, wenn nach Erreichen der Höchstdauer einer Massnahme (Art. 364a StPO) Sicherheitshaft angeordnet wurde, die sich nachträglich als ungerechtfertigt erwies. Hier überschneiden sich die Entschädigungstatbestände von Art. 429 und Art. 431 StPO.
 
 ### IV. Abs. 3 — Ausschlussgründe
 

@@ -2,10 +2,16 @@
 title: "Art. 122 StPO — Zivilklage"
 weight: 122
 date: 2026-08-03
-lastmod: 2026-08-03
 description: "Kommentar zu Art. 122 StPO (Geltendmachung zivilrechtlicher Ansprüche als Privatklägerschaft im Adhäsionsverfahren)."
 tags: ["StPO", "Zivilklage", "Adhäsionsprozess", "Privatklägerschaft"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 > **Art. 122 Allgemeine Bestimmungen**

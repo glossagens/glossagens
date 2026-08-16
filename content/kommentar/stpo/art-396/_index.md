@@ -2,7 +2,7 @@
 title: "Art. 396 — Form und Frist (Beschwerde)"
 weight: 396
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 396 StPO – Form und Frist der Beschwerde"
 tags: ["StPO", "Rechtsmittel", "Beschwerde", "Fristen", "Rechtsverweigerung", "Rechtsverzögerung"]
 agent_verified: true

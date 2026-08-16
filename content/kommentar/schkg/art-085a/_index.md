@@ -2,10 +2,17 @@
 title: "Art. 85a SchKG — Negative Feststellungsklage"
 weight: 85
 date: 2026-05-15
-lastmod: 2026-08-02
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 85a SchKG: Die negative Feststellungsklage — Feststellung des Nichtbestehens einer Schuld ungeachtet des Rechtsvorschlags."
 tags: ["Feststellungsklage", "Betreibung", "SchKG", "Rechtsvorschlag", "Schuldbetreibung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG — aufgehobenen Abs. 4 im Gesetzestext ergänzt"
 ---
 
 # Art. 85a SchKG
@@ -18,6 +25,10 @@ agent_verified: true
 2 Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweismittel; erscheint ihm die Klage als sehr wahrscheinlich begründet, so stellt es die Betreibung vorläufig ein: 1. in der Betreibung auf Pfändung oder auf Pfandverwertung vor der Verwertung oder, wenn diese bereits stattgefunden hat, vor der Verteilung; 2. in der Betreibung auf Konkurs nach der Zustellung der Konkursandrohung.
 
 3 Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein.
+
+4 ⚠️ *Aufgehoben durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).*
+
+*Quelle: [Fedlex (SR 281.1, Art. 85a)](https://www.fedlex.admin.ch/eli/cc/27/3_37_45/de#art_85a), Konsolidierung Stand 2026-01-01.*
 
 ## Vorbemerkungen
 

@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 381 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-14
 description: "Übersicht der Entscheide zu Art. 381 StPO – Legitimation der Staatsanwaltschaft"
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Staatsanwaltschaft"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 6B_688/2025 ergänzt: Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben)"
 ---
 
 ## Leitentscheide (BGE)
@@ -37,6 +43,12 @@ agent_verified: false
 ---
 
 ## Weitere Bundesgerichtsentscheide
+
+### BGer 6B_688/2025 vom 29. Juli 2026 — Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben)
+- **Thema**: Rechtsmittellegitimation der Staatsanwaltschaft bei der Anschlussberufung; Grenzen nach Treu und Glauben
+- **Kernaussage**: Die Staatsanwaltschaft kann grundsätzlich frei Rechtsmittel zugunsten und zuungunsten der beschuldigten Person ergreifen (Art. 381 Abs. 1 StPO), ohne dass ihre Legitimation spezifisch von einem rechtlich geschützten Interesse abhängt. Dies gilt jedoch nicht uneingeschränkt für die Anschlussberufung: Deren akzessorischer Charakter und die Missbrauchsgefahr erfordern eine differenziertere Betrachtung. Die Staatsanwaltschaft handelt wider Treu und Glauben, wenn sie die Anschlussberufung mit dem alleinigen Ziel einlegt, die Anwendung des Verbots der reformatio in peius zum Nachteil des Hauptberufungsführers zu verhindern (E. 2.2.3; BGE 147 IV 505 E. 4.4.2 f.). Auf eine Anschlussberufung ist namentlich nicht einzutreten, wenn die Staatsanwaltschaft ihre eigene Hauptberufung zurückgezogen und sich damit mit dem erstinstanzlichen Urteil abgefunden hat, sodann aber Anschlussberufung erhebt, um eine Sanktion durchzusetzen, die im erstinstanzlichen Verfahren nicht beantragt wurde (E. 2.2.4 f., E. 2.2.5). Das Bundesgericht hob das vorinstanzliche Urteil auf, weil die Vorinstanz zu Unrecht auf die Anschlussberufung eingetreten war und eine Landesverweisung angeordnet hatte (E. 2.2.5, E. 3).
+- **Einschlägig für**: Abs. 1; Grenzen der Rechtsmittellegitimation bei der Anschlussberufung; Treu und Glauben; Verschlechterungsverbot (Art. 391 Abs. 2 StGB); Anschlussberufung (Art. 401 StPO)
+- **URL**: [BGer 6B_688/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_688_2025)
 
 ### BGer 6B 360/2014 vom 30. Oktober 2014 — Gabelung des Rechtsmittelwegs bei Entschädigungsentscheiden
 - **Thema**: Rechtsmittelweg der Staatsanwaltschaft und der unentgeltlichen Verbeiständung
@@ -76,4 +88,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 11. Juli 2026*
+*Letzte Aktualisierung: 14. August 2026*

@@ -2,12 +2,17 @@
 title: "Art. 115 — Pfändungsurkunde als Verlustschein"
 weight: 115
 date: 2026-08-10
-lastmod: 2026-08-10
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 115 SchKG — Pfändungsurkunde als Verlustschein und provisorischer Verlustschein, Neuauftreibungspfändung und Anschlusspfändung."
 tags: ["SchKG", "Verlustschein", "Pfändungsurkunde", "provisorischer Verlustschein", "Neuauftreibungspfändung", "Anschlusspfändung"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 SchKG"
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"

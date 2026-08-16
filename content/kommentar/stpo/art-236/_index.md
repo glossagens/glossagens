@@ -2,10 +2,16 @@
 title: "Art. 236 StPO — Vorzeitiger Straf- und Massnahmenvollzug"
 weight: 236
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 236 StPO: Vorzeitiger Straf- und Massnahmenvollzug — Voraussetzungen, Vollzugsregime seit der Revision 2024, Haftprüfung und Entlassungsgesuch."
 tags: ["vorzeitiger Strafvollzug", "Massnahmenvollzug", "Untersuchungshaft", "Sicherheitshaft", "Vollzugsregime", "Haftentlassung", "Zwangsmassnahmen", "Resozialisierung"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

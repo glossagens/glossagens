@@ -2,10 +2,16 @@
 title: "Art. 289 — Genehmigungsverfahren (verdeckte Ermittlung)"
 weight: 289
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 289 StPO – Genehmigungsverfahren für den Einsatz verdeckter Ermittlerinnen und Ermittler"
 tags: ["StPO", "verdeckte Ermittlung", "Zwangsmassnahmengericht", "Beweisverwertungsverbot", "Genehmigungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

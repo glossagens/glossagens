@@ -2,10 +2,16 @@
 title: "Art. 228 StPO — Haftentlassungsgesuch"
 weight: 228
 date: "2026-05-23"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 228 StPO: Haftentlassungsgesuch, Verfahren, Fristen, Sperrfrist, kontradiktorisches Verfahren, Beschwerde und analoge Anwendung."
 tags: ["StPO", "Haftentlassung", "Untersuchungshaft", "Zwangsmassnahmengericht", "Sperrfrist", "kontradiktorisch", "Beschleunigungsgebot", "EMRK"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

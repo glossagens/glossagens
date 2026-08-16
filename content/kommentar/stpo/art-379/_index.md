@@ -2,7 +2,7 @@
 title: "Art. 379 — Anwendbare Vorschriften (Rechtsmittelverfahren)"
 weight: 379
 date: 2026-07-10
-lastmod: 2026-07-12
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 379 StPO – Anwendbare Vorschriften im Rechtsmittelverfahren"
 tags: ["StPO", "Rechtsmittel", "Rechtsmittelverfahren", "Verfahrensrecht", "Anwendbarkeit"]
 agent_verified: true

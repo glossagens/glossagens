@@ -2,10 +2,16 @@
 title: "Art. 343 — Beweisabnahme"
 weight: 343
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 343 StPO — Beweisabnahme durch das Gericht: neue Beweise, Wiederholung unvollständiger/ordnungsgemässer Beweise, Unmittelbarkeitsprinzip"
 tags: ["StPO", "Beweisabnahme", "Unmittelbarkeitsprinzip", "Hauptverhandlung", "Beweiswürdigung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

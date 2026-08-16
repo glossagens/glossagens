@@ -2,10 +2,16 @@
 title: "Art. 220 StPO — Begriffe"
 weight: 220
 date: "2026-05-09"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 220 StPO: Begriffe (Untersuchungshaft / Sicherheitshaft), zeitliche Abgrenzung, Übergang, Ende, vorzeitiger Strafvollzug, Landesverweisung, analoge Anwendung im Nachverfahren."
 tags: ["StPO", "Untersuchungshaft", "Sicherheitshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Landesverweisung", "vorzeitiger Strafvollzug", "EMRK"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

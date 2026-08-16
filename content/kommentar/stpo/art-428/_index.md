@@ -2,7 +2,7 @@
 title: "Art. 428 — Kostentragung im Rechtsmittelverfahren"
 weight: 428
 date: "2026-06-20"
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 428 StPO — Kostentragung im Rechtsmittelverfahren: Grundsatz der Kostenauflage nach Obsiegen und Unterliegen, Ausnahmen bei erst im Rechtsmittelverfahren geschaffenen Voraussetzungen und unwesentlicher Abänderung"
 tags: ["StPO", "Kosten", "Rechtsmittelverfahren", "Obsiegen", "Unterliegen", "Berufung", "Kostentragung", "Verfahrenskosten"]
 agent_verified: true

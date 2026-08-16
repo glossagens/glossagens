@@ -2,7 +2,7 @@
 title: "Art. 435 — Verjährung"
 weight: 435
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 435 StPO – Verjährung (Entschädigungsansprüche)"
 tags: ["StPO", "Verjährung", "Entschädigung", "Genugtuung", "Kosten"]
 agent_verified: true

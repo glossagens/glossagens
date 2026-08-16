@@ -2,10 +2,16 @@
 title: "Art. 319 StPO — Gründe der Einstellung"
 weight: 319
 date: "2026-07-03"
-lastmod: "2026-07-03"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 319 StPO: Einstellungsgründe, Grundsatz in dubio pro duriore, Aussage gegen Aussage, Teileinstellung und ne bis in idem, Einstellung im Opferinteresse."
 tags: ["Einstellung", "in dubio pro duriore", "Tatverdacht", "Teileinstellung", "ne bis in idem", "Opferschutz", "Verjährung", "Aussage gegen Aussage"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

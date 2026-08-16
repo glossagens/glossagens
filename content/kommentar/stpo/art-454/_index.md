@@ -2,7 +2,7 @@
 title: "Art. 454 — Nach Inkrafttreten gefällte Entscheide"
 weight: 454
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 454 StPO – Nach Inkrafttreten gefällte Entscheide: Übergangsrecht für Rechtsmittel gegen nach dem 1. Januar 2011 ergangene erstinstanzliche Entscheide, Anwendung neuen Rechts, Übergang für zweitinstanzliche Entscheide nach bisherigem Recht."
 tags: ["StPO", "Übergangsrecht", "Übergangsbestimmungen", "interlokales Recht", "Rechtsmittel", "Zeitliches Anwendungsrecht", "Inkrafttreten", "erstinstanzlicher Entscheid"]
 agent_verified: true

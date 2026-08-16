@@ -2,10 +2,16 @@
 title: "Art. 325 StPO — Inhalt der Anklageschrift"
 weight: 325
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 325 StPO: Inhalt der Anklageschrift und Anklagegrundsatz — Umgrenzungs- und Informationsfunktion, Sachverhaltsumschreibung, Alternativ- und Eventualanklage, Strafbefehl."
 tags: ["Anklageschrift", "Anklagegrundsatz", "Akkusationsprinzip", "Umgrenzungsfunktion", "Informationsfunktion", "Eventualanklage", "Strafbefehl", "Hauptverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
 ---
 
 ## Gesetzeswortlaut

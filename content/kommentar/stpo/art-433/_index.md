@@ -2,7 +2,7 @@
 title: "Art. 433 — Privatklägerschaft"
 weight: 433
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-13
 description: "Kommentar zu Art. 433 StPO – Privatklägerschaft (Entschädigungsanspruch gegenüber der beschuldigten Person)"
 tags: ["StPO", "Privatklägerschaft", "Entschädigung", "Verfahrenskosten", "Parteientschädigung"]
 agent_verified: true

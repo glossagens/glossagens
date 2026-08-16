@@ -2,10 +2,20 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 141 StPO – Verwertbarkeit rechtswidrig erlangter Beweise (Beweisverwertungsverbot)"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
+  - date: 2026-08-14
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: BGer 7B_1429/2025 (SkyECC-Daten, Aktenbereinigung, Zwischenentscheid) ergaenzt. check_claim_support: partial (Kontextzitat zu Art. 141 Abs. 5). Alle 23+22 OCL-Links verifiziert (HTTP 200)."
+lastmod: "2026-08-14"
 ---
 
 ## Gesetzeswortlaut
@@ -105,6 +115,8 @@ Unverwertbare Beweise sind aus den Strafakten zu entfernen, bis zum rechtskräft
 **Ordnungsvorschriften (Abs. 3)**: Örtlich nicht zuständige Kantonspolizei bei Blutprobe → verwertbar ([BGE 142 IV 23](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_23)). Handy-Durchsuchung bei polizeilicher Anhaltung ohne Vorsatz → Ordnungsvorschriftverletzung, verwertbar ([BGE 139 IV 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_128)).
 
 **Fernwirkung (Abs. 4)**: Zugangscode/PIN → Strafverfolgungsbehörden müssen zeigen, dass Handy auch ohne Code hätte entschlüsselt werden können ([BGE 151 IV 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_73) E. 2.5.2). Aussagen auf Vorhalt unverwertbarer Einvernahmen → unverwertbar (BGer, 6B_865/2025). Grenzkontrolle nach illegaler Telefonüberwachung → grosser Wahrscheinlichkeit der rechtmässigen Erlangung bejaht ([BGE 138 IV 169](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_169)). Geständnis nach illegalem BÜPF-Zufallsfund → mit Sicherheit grenzender Wahrscheinlichkeit auch ohne Zufallsfund erlangt → verwertbar ([BGE 133 IV 329](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_329)).
+
+**Aktenbereinigung (Abs. 5)**: Der alleinige Umstand, dass ein unverwertbares Beweismittel in den Akten verbleibt, stellt grundsätzlich keinen irreparablen Nachteil dar; eine Ausnahme besteht, wenn die kantonale Instanz im Vorverfahren die Entfernung anordnet und die Staatsanwaltschaft keine anderen Beweismittel hat ([BGE 141 IV 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_289); [BGer 7B_1429/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1429_2025) E. 1.6.2–1.6.3).
 
 ## Literatur
 

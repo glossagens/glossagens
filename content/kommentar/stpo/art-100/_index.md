@@ -2,10 +2,16 @@
 title: "Art. 100 — Aktenführung"
 weight: 100
 date: "2026-06-20"
-lastmod: "2026-06-19"
 description: "Kommentar zu Art. 100 StPO – Aktenführung: Pflicht zur Aktendossier-Erstellung, systematische Ablage und Verzeichnispflicht"
 tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Verfahrensleitung"]
 agent_verified: true
+mcp_verified: true
+revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "Voll-Audit Schritt 1–6: Gesetzestext mit Fedlex verifiziert (Tippfehler «die Strafbehörde» → «der Strafbehörde» korrigiert), alle OCL-Links geprüft (HTTP 200), Frontmatter aktualisiert."
+lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut
@@ -16,7 +22,7 @@ agent_verified: true
 >
 > a. die Verfahrens- und die Einvernahmeprotokolle;
 >
-> b. die von die Strafbehörde zusammengetragenen Akten;
+> b. die von der Strafbehörde zusammengetragenen Akten;
 >
 > c. die von den Parteien eingereichten Akten.
 >

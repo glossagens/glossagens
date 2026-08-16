@@ -2,10 +2,16 @@
 title: "Art. 166 StPO — Einvernahme der geschädigten Person"
 weight: 166
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 166 StPO – Einvernahme der geschädigten Person: Grundsatz der Zeugeneinvernahme, Verhältnis zur Auskunftspersonen-Regelung nach Art. 178 StPO, verfassungs- und konventionsrechtliche Verankerung im Anspruch auf rechtliches Gehör, Belehrungspflichten und Beweisverwertungsverbote"
 tags: ["StPO", "geschädigte Person", "Zeugeneinvernahme", "Auskunftsperson", "rechtliches Gehör", "Privatklägerschaft", "Beweisverwertungsverbot"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

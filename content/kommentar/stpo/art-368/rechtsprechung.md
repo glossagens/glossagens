@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 368 StPO"
 weight: 99
 date: "2026-07-17"
-lastmod: "2026-07-17"
+lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 368 StPO: Gesuch um neue Beurteilung eines Abwesenheitsurteils."
 tags: ["Rechtsprechung", "neue Beurteilung", "unentschuldigtes Fernbleiben", "Beweislast"]
 agent_verified: false
@@ -47,6 +47,11 @@ agent_verified: false
 - **Kernaussage**: Nach dem 1. Januar 2011 gestellte Gesuche um neue Beurteilung eines noch unter kantonalem Strafprozessrecht ergangenen Abwesenheitsurteils werden nach dem für die gesuchstellende Person günstigeren Recht beurteilt (Art. 452 Abs. 2 StPO); Art. 368 StPO kann insoweit das günstigere Recht sein (E. 3.2). Eine ordnungsgemässe Vorladung im Sinne von Art. 368 Abs. 3 StPO ist zu bejahen, wenn die verurteilte Person Kenntnis von Verhandlungstermin und Anklage hatte (E. 3.4).
 - **Einschlägig für**: Abs. 3; Übergangsrecht
 
+### [BGer 7B_1429/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1429_2025) vom 5. August 2026 (5ER-Besetzung, Publikation vorgesehen)
+- **Thema**: Konjunktiv-Attest genügt nicht als Entschuldigung; Art. 368 Abs. 3 StPO
+- **Kernaussage**: Präzisierung: Ein ärztliches Attest im Konjunktiv («die beschuldigte Person könne möglicherweise nicht teilnehmen») genügt nicht als Entschuldigungsgrund im Sinne von Art. 368 Abs. 3 StPO. Das Bundesgericht stellt klar, dass die ärztliche Bescheinigung eine konkrete, positive Feststellung der Verhandlungsunfähigkeit enthalten muss, damit das Fernbleiben als entschuldigt gilt. Der Konjunktiv drückt lediglich eine Möglichkeit aus und reicht nicht aus, um das unentschuldigte Fernbleiben auszuräumen. Bestätigt die strenge Praxis zu Art. 368 Abs. 3 StPO, wonach die beschuldigte Person die Entschuldigungsgründe glaubhaft zu machen hat.
+- **Einschlägig für**: Abs. 3 (Konjunktiv-Attest, Entschuldigungspflicht, Beweislast)
+
 ---
 
-*Letzte Aktualisierung: 17.7.2026*
+*Letzte Aktualisierung: 15.8.2026*

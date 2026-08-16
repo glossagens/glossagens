@@ -2,11 +2,16 @@
 title: "Art. 356 — Verfahren vor dem erstinstanzlichen Gericht"
 weight: 356
 date: "2026-06-27"
-lastmod: "2026-07-31"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht nach Einsprache: Überweisung, Gültigkeitsprüfung, Rückzug, Säumnisfiktion, Ungültigkeit"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Gerichtsverfahren", "Säumnisfiktion", "Anklageschrift", "Rückzug"]
 agent_verified: true
 revisions:
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit KW33 StPO"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

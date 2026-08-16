@@ -2,7 +2,7 @@
 title: "Art. 36 — Zusammentreffen verschiedener Schadensursachen"
 weight: 36
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-08-15
 description: "Kommentar zu Art. 36 UVG: Zusammentreffen verschiedener Schadensursachen; Kürzung von Renten bei teilweise unfallbedingter Gesundheitsschädigung; Vorzustände; status quo sine vel ante; Abgrenzung zu Art. 6 UVG."
 tags: ["UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Invalidenrente", "Integritätsentschädigung", "Kürzung"]
 agent_verified: true

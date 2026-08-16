@@ -2,7 +2,7 @@
 title: "Art. 9 BV — Schutz vor Willkür und Wahrung von Treu und Glauben"
 weight: 9
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 9 BV — Willkürverbot in Rechtsanwendung und Beweiswürdigung, Grundsatz von Treu und Glauben und Vertrauensschutz"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte"]
 agent_verified: false
@@ -79,6 +79,8 @@ Art. 9 BV enthält zwei selbständige Garantien: das **Willkürverbot** und den 
 | 5 | Die gesetzliche Ordnung hat seit der Auskunftserteilung keine Änderung erfahren |
 
 **N 8** **Unterlassene Auskunft.** Der unrichtigen Auskunft gleichgestellt ist die Unterlassung einer behördlichen Auskunft, die gesetzlich vorgeschrieben oder nach den im Einzelfall gegebenen Umständen geboten war ([BGE 143 V 341, E. 5.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_341#e-5-2-1)).
+
+**N 8a** **Vertrauensschutz im Verwaltungsvollzug.** Der Grundsatz von Treu und Glauben kann eine Behörde verpflichten, den Bürger vor einem Vollstreckungsschritt zu ermahnen und Gelegenheit zur Anpassung zu geben, wenn ein vorgängiger Kommunikationsaustausch berechtigte Erwartungen geweckt hat ([BGer 1C_186/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_186_2025) E. 2.3.3).
 
 ### C. Verhältnis zum Legalitätsprinzip
 

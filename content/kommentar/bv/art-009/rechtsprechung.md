@@ -5,7 +5,8 @@ date: 2026-05-24
 lastmod: 2026-08-11
 description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
 tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz"]
-agent_verified: false
+agent_verified: true
+lastmod: 2026-08-14
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
@@ -119,6 +120,16 @@ Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheid
 **Bedeutung**: Aktuellste Klärung des Verhältnisses zum Legalitätsprinzip; ausserhalb des Steuerrechts bleibt die Interessenabwägung erforderlich.
 
 - **OCL**: [BGE 150 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_1)
+
+---
+
+#### BGer 1C_186/2025 (4. August 2026) — Treu und Glauben im Vollzugsrecht (Bau- und Planungsrecht)
+
+**Kernaussage**: Eine Behörde verstösst gegen den Grundsatz von Treu und Glauben (Art. 9 BV), wenn sie nach einem vorgängigen Kommunikationsaustausch mit dem Bürger, der berechtigte Erwartungen weckt, eine Vollstreckungsverfügung erlässt, ohne dem Bürger zuvor Gelegenheit zu geben, ein Projektänderungsgesuch einzureichen.
+
+**Bedeutung**: Konkretisierung des Vertrauensschutzes im Verwaltungsvollzug: Die Behörde muss den Bürger vor einem Vollstreckungsschritt ermahnen, wenn ein vorheriger Austausch nahelegt, dass eine Anpassung des Bauvorhabens in Diskussion steht. Verweigerung der Ermahnung verstösst gegen Art. 9 BV i.V.m. Art. 5 Abs. 3 BV. — *Kontextzitat*; der Entscheid befasst sich primär mit Bau- und Planungsrecht, bestätigt aber den Grundsatz von Treu und Glauben im Verwaltungsverfahren.
+
+- **OCL**: [BGer 1C_186/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_186_2025)
 
 ---
 

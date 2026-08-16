@@ -2,10 +2,16 @@
 title: "Art. 212 — Grundsatz"
 weight: 212
 date: "2026-05-09"
-lastmod: "2026-07-03"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen: Freiheitsgrundsatz, Aufhebungsgründe, Dauerlimit."
 tags: ["StPO", "Zwangsmassnahmen", "Haft", "Freiheitsentzug", "Ersatzmassnahmen", "Verhältnismässigkeit"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 Art. 212 abgeglichen, frontmatter korrigiert"
 ---
 
 ## Gesetzeswortlaut

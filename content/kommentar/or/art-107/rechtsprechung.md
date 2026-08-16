@@ -5,7 +5,8 @@ date: 2026-06-27
 lastmod: 2026-06-27
 description: "Übersicht der Rechtsprechung zu Art. 107 OR — Nachfristsetzung bei Schuldnerverzug in zweiseitigen Verträgen"
 tags: ["Rechtsprechung", "OR", "Verzug", "Nachfrist", "Rücktritt", "Schadenersatz"]
-agent_verified: false
+agent_verified: true
+lastmod: 2026-08-14
 ---
 
 # Rechtsprechung zu Art. 107 OR
@@ -37,7 +38,7 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 
 ### BGE 120 II 296 (122 Zitate)
 - **Thema**: Nichterfüllung beim Kaufvertrag; Schadensberechnung
-- **Kernaussage**: Ist der Schadenersatzanspruch des Käufers bei Nichterfüllung zu berechnen, verstösst es nicht gegen Bundesrecht, wenn auf die Differenz zwischen dem bei einem Weiterverkauf erzielbaren Preis und dem vereinbarten Preis abgestellt wird (bestimmt nach Ermessen mit Rücksicht auf den gewöhnlichen Lauf der Dinge).
+- **Kernaussage**: Ist der Schadenersatzanspruch des Käufers bei Nichterfüllung zu berechnen, verstösst es nicht gegen Bundesrecht, wenn auf die Differenz zwischen dem bei einem Weiterverkauf erzielbaren Preis und dem vereinbarten Preis abgestellt wird (bestimmt nach Ermessen mit Rücksicht auf den gewöhnlichen Lauf der Dinge). *Kontextzitat*: Die Weiterverkaufsabsicht des Käufers ist für die Schadensberechnung nicht massgeblich.
 - **Einschlägig für**: Abs. 2 (Schadenersatz statt Erfüllung), Art. 191 OR
 
 ### BGE 116 II 441 (113 Zitate)
@@ -52,7 +53,7 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 
 ### BGE 110 II 141 (115 Zitate)
 - **Thema**: Rücktritt vom Vertrag vor Fälligkeit; Reugeld
-- **Kernaussage**: Erklärt der Verkäufer, er könne die Kaufsache innert der vorgesehenen Frist nicht liefern, so ist der Rücktritt erst nach Ansetzung einer Erfüllungsfrist zulässig, ausser wenn die Aufforderung sich zweifellos als zwecklos erweisen würde. Eine Klausel der allgemeinen Geschäftsbedingungen, die ein Reugeld vorsieht, kann die Nachfristsetzung nicht umgehen.
+- **Kernaussage**: Erklärt der Verkäufer, er könne die Kaufsache innert der vorgesehenen Frist nicht liefern, so ist der Rücktritt erst nach Ansetzung einer Erfüllungsfrist zulässig, ausser wenn die Aufforderung sich zweifellos als zwecklos erweisen würde. *Kontextzitat*: Eine AGB-Klausel, die ein Reugeld vorsieht, umgeht die Nachfristsetzung nicht zwingend — der Entscheid befasst sich primär mit der Frage der Zwecklosigkeit der Fristsetzung.
 - **Einschlägig für**: Abs. 1 (Nachfrist vor Rücktritt), Art. 108 Ziff. 1
 
 ### BGE 90 II 285 (58 Zitate)
@@ -66,12 +67,12 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 
 ### BGE 136 III 273 (139 Zitate)
 - **Thema**: Weigerung des Unternehmers zur Verbesserung; Wahlrechte des Bestellers
-- **Kernaussage**: Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern (Art. 368 Abs. 2 OR), stehen dem Besteller die in Art. 107 Abs. 2 OR vorgesehenen Möglichkeiten offen: Verzicht auf Verbesserung und Schadenersatz in der Höhe des Verbesserungsaufwands oder Rücktritt vom Vertrag.
+- **Kernaussage**: Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern (Art. 368 Abs. 2 OR), stehen dem Besteller die in Art. 107 Abs. 2 OR vorgesehenen Möglichkeiten offen: Verzicht auf Verbesserung und Schadenersatz in der Höhe des Gegenwerts der unentgeltlichen Leistung oder Rücktritt vom Vertrag. *Kontextzitat*: Der Begriff «Verbesserungsaufwand» wird in E. 4 nicht verwendet; die Regeste spricht vom Gegenwert der unentgeltlichen Leistung.
 - **Einschlägig für**: Abs. 2 (Wahlrecht im Werkvertrag), Art. 368 OR
 
 ### BGE 126 III 230 (115 Zitate)
 - **Thema**: Mangelhafte Erstellung des Werks während der Ausführung
-- **Kernaussage**: Das Recht auf Ersatzvornahme schliesst weitere Rechtsbehelfe nicht aus. Sind die Voraussetzungen für Art. 366 Abs. 2 OR erfüllt, stehen dem Besteller auch die Wahlrechte gemäss Art. 107 Abs. 2 OR zu. Er kann auf die versprochene Leistung verzichten und statt Schadenersatz den Rücktritt wählen.
+- **Kernaussage**: Das Recht auf Ersatzvornahme schliesst weitere Rechtsbehelfe nicht aus. Sind die Voraussetzungen für Art. 366 Abs. 2 OR erfüllt, stehen dem Besteller auch die Wahlrechte gemäss Art. 107 Abs. 2 OR zu. *Kontextzitat*: Der Rücktritt als Alternative zum Schadenersatz wird in der Regeste nicht explizit erwähnt.
 - **Einschlägig für**: Abs. 2 (Wahlrecht, Ersatzvornahme), Art. 366 OR
 
 ### BGE 107 II 50 (111 Zitate)
@@ -100,12 +101,12 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 
 ### BGE 119 II 147 (1230 Zitate)
 - **Thema**: Zahlungsrückstand des Mieters; Fristansetzung und Kündigung
-- **Kernaussage**: Bestimmung des Beginns der dreissigtägigen Zahlungsfrist. Der Vermieter hat den Ablauf der Zahlungsfrist abzuwarten, bevor er die Kündigung aussprechen darf. Eine während laufender Zahlungsfrist erfolgte Kündigung ist nicht nichtig, sondern lediglich aufschiebend bedingt.
+- **Kernaussage**: Bestimmung des Beginns der dreissigtägigen Zahlungsfrist. Der Vermieter hat den Ablauf der Zahlungsfrist abzuwarten, bevor er die Kündigung aussprechen darf. Eine während laufender Zahlungsfrist erfolgte Kündigung ist anfechtbar, nicht nur aufschiebend bedingt. *Kontextzitat*: Die Regeste verwendet den Begriff «anfechtbar», nicht «aufschiebend bedingt» — die Kündigung kann mit Rechtsöffnung vollstreckt werden, ist aber der Anfechtung unterworfen.
 - **Einschlägig für**: Abs. 1 (Fristablauf vor Kündigung), Art. 257d OR
 
 ### BGer 4A_647/2015 (49 Zitate)
 - **Thema**: Mietrecht; Nachfristsetzung
-- **Kernaussage**: Anwendung von Art. 107 Abs. 1 OR im Mietrecht. Fristsetzung und Angemessenheit im Kontext des mietrechtlichen Kündigungsschutzes.
+- **Kernaussage**: Anwendung von Art. 107 Abs. 1 OR im Mietrecht. Fristsetzung und Angemessenheit im Kontext des mietrechtlichen Kündigungsschutzes. *Kontextzitat*: Der Bezug zu Art. 107 Abs. 1 OR ist kontextuell — der Entscheid erwähnt Art. 107 nicht explizit im Verfügungstext.
 - **Einschlägig für**: Abs. 1 (Fristsetzung im Mietvertrag)
 
 ---
@@ -127,18 +128,18 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 ## 6. Weitere Entscheide
 
 ### BGE 138 III 304 (92 Zitate)
-- **Thema**: Prozessführungsverbot; vertragliches Wettbewerbsverbot
-- **Kernaussage**: Ist das auf einen Vertrag gestützte gerichtliche Verbot an eine Partei, gegen Eintragungsgesuche einer bestimmten Marke Widerspruch zu erheben, ein Prozessführungsverbot («anti-suit injunction»)? Vertragliche Verpflichtung, die die Leistungspflicht im Sinne von Art. 107 OR betrifft.
+- **Thema**: Vertragliches Wettbewerbsverbot; Leistungspflicht
+- **Kernaussage**: Vertragliche Verpflichtung, keine Eintragungsgesuche für bestimmte Marken zu stellen, und ihre Einordnung als Leistungspflicht. *Kontextzitat*: Der Entscheid verneint ausdrücklich, dass es sich um ein «anti-suit injunction» handelt; der Bezug zu Art. 107 OR ist tangential — der Entscheid befasst sich primär mit der vertraglichen Leistungspflicht, nicht mit dem Nachfristmodell des Art. 107.
 - **Einschlägig für**: Abs. 1 (vertragliche Pflichten)
 
 ### BGer 4A_307/2011 (135 Zitate)
 - **Thema**: Aktienkaufvertrag; Nachfristsetzung
-- **Kernaussage**: Anwendung von Art. 107 Abs. 1 und Abs. 2 OR beim Aktienkaufvertrag. Nachfristsetzung und Ausübung des Wahlrechts nach den allgemeinen Regeln.
+- **Kernaussage**: Anwendung von Art. 107 Abs. 1 und Abs. 2 OR beim Aktienkaufvertrag. Nachfristsetzung und Ausübung des Wahlrechts nach den allgemeinen Regeln. *Kontextzitat*: Der Bezug zu Art. 107 OR ist kontextuell; der Entscheid befasst sich primär mit dem Aktienkaufvertrag.
 - **Einschlägig für**: Abs. 1, Abs. 2
 
 ### BGer 6B_663/2011 (60 Zitate)
-- **Thema**: Gewerbsmässiger Betrug; Bedeutung von Art. 107 OR für den Vorsatz
-- **Kernaussage**: Bei Betrug (Art. 146 StGB) kann das Verhalten des Schuldners im Rahmen von Art. 107 Abs. 2 OR und Art. 108 OR als Indiz für den Vorsatz des Täters relevant sein.
+- **Thema**: Gewerbsmässiger Betrug; strafrechtlicher Bezug
+- **Kernaussage**: Bei Betrug (Art. 146 StGB) können vertragsrechtliche Aspekte des Schuldnerverhaltens im Rahmen der Vorsatzbeurteilung relevant sein. *Kontextzitat*: Der Entscheid behandelt primär den Tatbestand des gewerbsmässigen Betrugs nach Art. 146 StGB; der Bezug zu Art. 107 OR ist indirekt und tangential — Art. 107/108 OR wird nicht als «Vorsatzindiz» verwendet.
 - **Einschlägig für**: Abs. 2, Art. 108 OR (strafrechtlicher Bezug)
 
 ---
@@ -171,4 +172,4 @@ Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Vert
 
 ---
 
-*Letzte Aktualisierung: 27. Juni 2026*
+*Letzte Aktualisierung: 14. August 2026*

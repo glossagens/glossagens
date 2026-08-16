@@ -2,7 +2,7 @@
 title: "Art. 429 StPO — Entschädigung und Genugtuung"
 weight: 429
 date: "2026-07-03"
-lastmod: "2026-07-03"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 429 StPO: Entschädigung und Genugtuung der beschuldigten Person bei Freispruch oder Einstellung — Verteidigungskosten, wirtschaftliche Einbussen, Genugtuung bei Freiheitsentzug, Revision 2024."
 tags: ["Entschädigung", "Genugtuung", "Freispruch", "Einstellung", "Verteidigungskosten", "Anwaltstarif", "Freiheitsentzug", "Wahlverteidigung"]
 agent_verified: true

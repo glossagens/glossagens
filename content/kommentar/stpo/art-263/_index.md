@@ -2,10 +2,16 @@
 title: "Art. 263 StPO — Beschlagnahme (Grundsatz)"
 weight: 263
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 263 StPO: Beschlagnahmearten (Beweismittel-, Kostendeckungs-, Rückgabe-, Einziehungs- und Ersatzforderungsbeschlagnahme), Formvorschriften, vorläufige Sicherstellung."
 tags: ["Beschlagnahme", "Zwangsmassnahmen", "Beweismittel", "Einziehung", "Ersatzforderung", "Kontosperre", "Verhältnismässigkeit", "Siegelung"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut

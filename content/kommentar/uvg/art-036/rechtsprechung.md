@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 36 UVG"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-08-15
 description: "Übersicht der massgeblichen Entscheide zu Art. 36 UVG (Zusammentreffen verschiedener Schadensursachen; Kürzung bei Vorzuständen; status quo sine vel ante)"
 tags: ["Rechtsprechung", "UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Kürzung"]
 agent_verified: false
@@ -113,6 +113,11 @@ agent_verified: false
 - **Kernaussage**: Beurteilung des status quo sine und der Leistungseinstellung.
 - **Einschlägig für**: Art. 36 Abs. 1 UVG; status quo sine
 
+### [BGer 8C_277/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_277_2026) vom 14.08.2026
+- **Thema**: Ergänzungsleistung zur AHV/IV; OAI-Korrekturmechanismen nicht analog im UVG
+- **Kernaussage**: Bestätigung: Die im Rahmen der Obligatorischen Krankenversicherung (OAI/KVG) entwickelten Korrekturmechanismen für den Vergleich von Einkommen vor und nach dem Versicherungsfall finden im UVG keine analoge Anwendung. Der soziale Abzug und der Parallelismus der verglichenen Einkommen bleiben im UVG massgeblich. Das Bundesgericht stellt klar, dass die OAI-spezifischen Korrekturen auf der besonderen Systematik des KVG beruhen und nicht auf das UVG übertragbar sind.
+- **Einschlägig für**: Art. 36 UVG; Abgrenzung zu OAI/KVG; sozialer Abzug; Einkommensvergleich
+
 ---
 
-*Letzte Aktualisierung: 2026-07-17*
+*Letzte Aktualisierung: 15.8.2026*

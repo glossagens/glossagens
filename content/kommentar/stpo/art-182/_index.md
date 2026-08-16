@@ -2,10 +2,16 @@
 title: "Art. 182 — Voraussetzungen für den Beizug einer sachverständigen Person"
 weight: 182
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 182 StPO – Voraussetzungen für den Beizug einer sachverständigen Person"
 tags: ["StPO", "Sachverständiger", "Gutachten", "Beweiswürdigung"]
 agent_verified: true
+revisions:
+  - date: "2026-08-13"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 
 ## Gesetzeswortlaut
