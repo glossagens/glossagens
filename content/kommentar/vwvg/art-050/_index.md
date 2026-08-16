@@ -2,10 +2,16 @@
 title: "Art. 50 VwVG — Beschwerdefrist"
 weight: 50
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 50 VwVG — Beschwerdefrist, Fristbeginn bei Eröffnung, Ausnahme bei Untätigkeitsbeschwerde und Vertrauensschutz bei geänderter Rechtsprechung"
 tags: ["VwVG", "Beschwerdefrist", "Frist", "Verwaltungsverfahren", "Fristwiederherstellung", "Untätigkeitsbeschwerde"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C 38% -> A 83%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 136 II 165 (tatsächlich zum Streitgegenstand bei Fluglärmentschädigung, nicht zu Fristversäumnis) und BGE 129 II 125 (tatsächlich zu Wohnbau-/Eigentumsförderung, keine 30-Tage-Frist-Erwähnung) als Fehlzitate entfernt. Pinpoints für BGE 142 V 551 (E. 4.2 statt nicht existierendem E. 5.4) und BGE 142 II 363 (E. 1.2 statt nicht existierendem E. 3.2) korrigiert. Fabrizierter Verweis 'Art. 34 Abs. 4 VwVG' (Art. 34 hat keinen Abs. 4) entfernt. Tippfehler korrigiert ('trritt', 'aussser', 'Rechtsicherungszwecks')."
 ---
 
 ## Gesetzeswortlaut
@@ -17,7 +23,7 @@ agent_verified: true
 
 ### I. Bedeutung
 
-Art. 50 VwVG regelt die **Beschwerdefrist** — die zentrale Ausschlussfrist für verwaltungsgerichtliche Beschwerden. Die 30-tägige Frist ist eine **Eintretensvoraussetzung**: Ihre Versäumung führt zum **Nichteintreten** und damit zum Ausschluss des verwaltungsgerichtlichen Rechtsschutzes. Die Norm ist Ausdruck des **Rechtsicherungszwecks** von Fristen: Rechtsfrieden durch zeitliche Begrenzung der Anfechtbarkeit.
+Art. 50 VwVG regelt die **Beschwerdefrist** — die zentrale Ausschlussfrist für verwaltungsgerichtliche Beschwerden. Die 30-tägige Frist ist eine **Eintretensvoraussetzung**: Ihre Versäumung führt zum **Nichteintreten** und damit zum Ausschluss des verwaltungsgerichtlichen Rechtsschutzes. Die Norm ist Ausdruck des **Rechtssicherungszwecks** von Fristen: Rechtsfrieden durch zeitliche Begrenzung der Anfechtbarkeit.
 
 ### II. Abs. 1 — 30-tägige Beschwerdefrist
 
@@ -25,21 +31,21 @@ Art. 50 VwVG regelt die **Beschwerdefrist** — die zentrale Ausschlussfrist fü
 
 Die Frist beginnt mit der **Eröffnung** der Verfügung (Art. 34 VwVG). Massgebend ist die **formelle Eröffnung** an die beschwerdeberechtigte Person:
 
-- **Schriftliche Eröffnung**: Datum des Poststempels oder der elektronischen Zustellung (BGE [129 II 125](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=129_II_125), E. 3a)
+- **Schriftliche Eröffnung**: Massgebend ist der Zeitpunkt des Empfangs der Verfügung durch die Partei
 - **Mündliche Eröffnung**: Datum der schriftlichen Bestätigung (Art. 34 Abs. 2 VwVG)
 - **Publikation**: Bei Verfügung ohne individuelle Eröffnung beginnt die Frist mit der Publikation
 
-Die Massgeblichkeit des Eröffnungsdatums bedeutet: Ein Beschwerdeführer, der die Verfügung später tatsächlich zur Kenntnis nimmt, kann sich nicht auf Unkenntnis berufen. Die **Eröffnungsfiktion** (Art. 34 Abs. 4 VwVG) kann den Fristbeginn vorverlegen, wenn die Adresse nicht auffindbar war.
+Die Massgeblichkeit des Eröffnungsdatums bedeutet: Ein Beschwerdeführer, der die Verfügung später tatsächlich zur Kenntnis nimmt, kann sich nicht auf Unkenntnis berufen.
 
 #### 2. Fristdauer
 
-Die **30-tägige Frist** ist **absolut**: Sie kann weder verlängert noch wiederhergestellt werden, aussser durch **Fristwiederherstellung** nach [Art. 24 VwVG](../art-024/) bei unverschuldeter Säumnis.
+Die **30-tägige Frist** ist **absolut**: Sie kann weder verlängert noch wiederhergestellt werden, ausser durch **Fristwiederherstellung** nach [Art. 24 VwVG](../art-024/) bei unverschuldeter Säumnis.
 
 Die Fristberechnung richtet sich nach [Art. 22 VwVG](../art-022/) (Fristberechnung): Wenn der letzte Tag der Frist auf einen Samstag, Sonntag oder amtlichen Feiertag fällt, verfällt die Frist nicht vor Ablauf des nächsten Werktags.
 
 #### 3. Eintretensvoraussetzung
 
-Die fristgerechte Einreichung ist eine **Prozessvoraussetzung**. Das Bundesgericht trritt auf Beschwerden, die nach Ablauf der 30-tägigen Frist eingereicht werden, **nicht ein** (BGE [136 II 165](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=136_II_165), E. 2.1). Das Datum des Poststempels oder der elektronischen Einreichung ist massgebend (Art. 22 Abs. 3 VwVG).
+Die fristgerechte Einreichung ist eine **Prozessvoraussetzung**. Die Beschwerdeinstanz tritt auf Beschwerden, die nach Ablauf der 30-tägigen Frist eingereicht werden, **nicht ein**. Das Datum des Poststempels oder der elektronischen Einreichung ist massgebend (Art. 21 VwVG).
 
 ### III. Abs. 2 — Untätigkeitsbeschwerde
 
@@ -61,7 +67,7 @@ Die Untätigkeitsbeschwerde setzt grundsätzlich ein **vorgängiges Begehren** a
 
 ### IV. Vertrauensschutz bei geänderter Rechtsprechung
 
-Bei geänderter Rechtsprechung zum Fristbeginn kann **Vertrauensschutz** gewähren (BGE [142 V 551](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=142_V_551), E. 5.4). Vertrauensschutz kommt in Betracht, wenn:
+Bei geänderter Rechtsprechung zum Fristbeginn kann **Vertrauensschutz** greifen ([BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551#e-4-2) E. 4.2). Vertrauensschutz kommt in Betracht, wenn:
 
 1. Die bisherige Rechtsprechung eine bestimmte Fristberechnung vorsah
 2. Der Beschwerdeführer sich im guten Glauben an diese Praxis hielt
@@ -79,16 +85,14 @@ Art. 50 VwVG steht unter dem **Vorrang des Spezialgesetzes**. Mehrere Spezialges
 
 ### VI. Kostenregelung bei Rückweisung
 
-Nach Rückweisung durch das Bundesgericht beginnt die **neue Beschwerdefrist** für die Kostenregelung neu zu laufen, wenn die Vorinstanz eine neue Kostenverfügung erlässt (BGE [142 II 363](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=142_II_363), E. 3.2). Die angefochtene Verfügung im Rückweisungsfall ist eine **neue Verfügung** im Sinne von Art. 50 Abs. 1 VwVG.
+Wird die von der unteren Instanz aufgrund eines Rückweisungsentscheids ergangene neue Verfügung **in der Sache nicht mehr angefochten**, kann die Kostenregelung des Rückweisungsentscheids im Anschluss an diese neue Verfügung innert der Beschwerdefrist angefochten werden; fristauslösend ist das Eröffnungsdatum der neuen unterinstanzlichen Verfügung ([BGE 142 II 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_363#e-1-2) E. 1.2).
 
 ### VII. Kasuistik
 
 | Fallgruppe | Relevante Rspr. | Ergebnis |
 |---|---|---|
 | Vertrauensschutz | BGE 142 V 551 | Vertrauensschutz bei geänderter Praxis zum Fristbeginn |
-| Verspätete Rügen | BGE 136 II 165 | Nichteintreten bei Fristversäumung |
-| Wohneigentumsrecht | BGE 129 II 125 | 30-tägige Frist ab Eröffnung |
-| Kosten bei Rückweisung | BGE 142 II 363 | Neue Frist ab neuer Kostenverfügung |
+| Kosten bei Rückweisung | BGE 142 II 363 | Fristbeginn ab Eröffnung der neuen unterinstanzlichen Verfügung |
 
 ### VIII. Verhältnis zu anderen Normen
 
