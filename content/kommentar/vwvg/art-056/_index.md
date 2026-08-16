@@ -21,13 +21,13 @@ revisions:
 
 # Art. 56 VwVG — Andere vorsorgliche Massnahmen
 
-## Gesetzeswortlaut
+## Gesetzestext
 
 > **Art. 56 VwVG — Andere vorsorgliche Massnahmen**
 >
 > Nach Einreichung der Beschwerde kann die Beschwerdeinstanz, ihr Vorsitzender oder der Instruktionsrichter von Amtes wegen oder auf Begehren einer Partei andere vorsorgliche Massnahmen treffen, um den bestehenden Zustand zu erhalten oder bedrohte Interessen einstweilen sicherzustellen.
 
-Quelle: [Fedlex SR 172.021 Art. 56](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_56).
+*(Fedlex-Stand: 2022-07-01)*
 
 ## I. Bedeutung und Abgrenzung zu Art. 55 VwVG
 

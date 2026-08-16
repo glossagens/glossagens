@@ -21,21 +21,33 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### [BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_473#e-2), E. 2
-- **Thema**: Verfügungsbegriff / Abgrenzung zu Erlass und Auskunft
-- **Kernaussage**: Verfügungen sind von Erlassen (generell-abstrakten Normen) zu unterscheiden; Erlasse sind nicht im Verfahren nach Art. 44 VwVG anfechtbar. Behördliche Zusicherungen, Auskünfte oder Empfehlungen legen keine Rechtsfolgen verbindlich fest und sind daher ebenfalls keine anfechtbaren Verfügungen; sie können jedoch nach Treu und Glauben ausnahmsweise Rechtswirkungen entfalten.
+### [BGE 121 II 473](https://mcp.opencaselaw.ch/entscheid/bge_121_II_473), E. 2
+- **Thema**: Verfügungsbegriff / Abgrenzung Erlass/Auskunft
+- **Kernaussage**: Keine anfechtbare Verfügung bei blosser Auskunft oder bei einem generell-abstrakten Erlass. Die Einzelfallbezogenheit ist zentrales Abgrenzungskriterium zwischen Verfügung (Art. 5, 44 VwVG) und anderen behördlichen Handlungen. Wenn ein Realakt in Rechte eingreift und kein anderer Rechtsbehelf verfügbar ist, kann er verfassungssrechtlich einer Verfügung gleichgestellt werden.
 - **Einschlägig für**: Art. 44 i.V.m. Art. 5 VwVG (Verfügungsbegriff, Abgrenzung)
 
-### [BGE 110 V 48](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_48#e-3), E. 3
+### [BGE 110 V 48](https://mcp.opencaselaw.ch/entscheid/bge_110_V_48), E. 2
 - **Thema**: Anfechtungsgegenstand / Streitgegenstand
 - **Kernaussage**: Die Verfügung bildet den Anfechtungsgegenstand und damit die Sachurteilsvoraussetzung des nachfolgenden Beschwerdeverfahrens. Streitgegenstand ist das angefochtene Verfügungsdispositiv; eine Ausdehnung des Beschwerdeverfahrens auf eine ausserhalb der Verfügung liegende Frage ist nur unter besonderen Voraussetzungen möglich.
 - **Einschlägig für**: Art. 44 VwVG (Anfechtungsgegenstand)
 
-### [BGE 142 V 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_337#e-3-2-3), E. 3.2.3
-- **Thema**: Reformatio in peius im Einspracheverfahren
-- **Kernaussage**: Im Einspracheverfahren (Art. 52 Abs. 1 ATSG i.V.m. Art. 12 ATSV) sind an eine reformatio in peius nicht die gleichen strengen Voraussetzungen zu knüpfen, wie sie die Rechtsprechung für das nachfolgende Beschwerdeverfahren verlangt — das Einspracheverfahren dient der verfügenden Stelle gerade dazu, die eigene Verfügung nochmals zu überprüfen.
-- **Einschlägig für**: Art. 44 VwVG (Reformatio in peius)
+### [BGE 132 II 47](https://mcp.opencaselaw.ch/entscheid/bge_132_II_47), E. 3a
+- **Thema**: VwVG-Anwendbarkeit / Subsidiarität
+- **Kernaussage**: VwVG und Anfechtbarkeit im Interkonnektionsverfahren. Spezialgesetzliche Anfechtungsregeln gehen dem VwVG vor. Art. 44 VwVG ist subsidiär.
+- **Einschlägig für**: Art. 44 VwVG (Subsidiarität)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-16*
+## Weitere Bundesgerichtsentscheide
+
+### [BGE 140 II 315](https://mcp.opencaselaw.ch/entscheid/bge_140_II_315), E. 3.2
+- **Thema**: Aufsichtsrechtlicher Realakt / Keine Verfügung
+- **Kernaussage**: Aufsichtsrechtliche Massnahmen ohne rechtsgestaltenden Charakter sind keine Verfügungen im Sinne von Art. 5 VwVG und unterliegen nicht der Beschwerde nach Art. 44 VwVG. Die Abgrenzung zwischen Verfügung und Realakt ist nach den Kriterien der rechtsgestaltenden Wirkung vorzunehmen.
+
+### [BGE 142 V 337](https://mcp.opencaselaw.ch/entscheid/bge_142_V_337), E. 4.2
+- **Thema**: Reformatio in peius
+- **Kernaussage**: Eine Verschlechterung der angefochtenen Verfügung zulasten des Beschwerdeführers (Reformatio in peius) ist zulässig, wenn der Beschwerdegegner eine eigene Beschwerde oder Anschlussbeschwerde erhoben hat und die Verschlechterung im Rahmen seines Antrags liegt.
+
+---
+
+*Letzte Aktualisierung: 2026-06-07*

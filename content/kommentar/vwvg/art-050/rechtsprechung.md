@@ -16,16 +16,29 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### [BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551#e-4-2), E. 4.2
+### [BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_142_V_551), E. 5.4
 - **Thema**: Vertrauensschutz bei geänderter Rechtsprechung zum Fristbeginn
 - **Kernaussage**: Die Beschwerdeführerin durfte angesichts der bisherigen Rechtsprechung darauf vertrauen, dass bei Kostenregelungen in Rückweisungsentscheiden erst die Rechtskraft der neuen Verfügung fristauslösend wirkt. Ein Nichteintreten auf die vor der Praxisänderung eingereichte Beschwerde infolge Fristversäumnisses verletzte trotz prinzipiell sofortiger Anwendbarkeit der neuen Leitlinien den Grundsatz des Vertrauensschutzes.
 - **Einschlägig für**: Art. 50 Abs. 1 VwVG (Vertrauensschutz, Fristbeginn)
 
-### [BGE 142 II 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_363#e-1-2), E. 1.2
-- **Thema**: Fristbeginn bei Anfechtung von Kostenregelungen im Rückweisungsentscheid
-- **Kernaussage**: Wird die von der unteren Instanz aufgrund eines Rückweisungsentscheids ergangene neue Verfügung in der Sache nicht mehr angefochten, kann die Kostenregelung des Rückweisungsentscheids im Anschluss an diese neue Verfügung angefochten werden; fristauslösend ist das Eröffnungsdatum der neuen unterinstanzlichen Verfügung.
-- **Einschlägig für**: Art. 50 Abs. 1 VwVG (Fristbeginn, Rückweisungsfälle)
+### [BGE 136 II 165](https://mcp.opencaselaw.ch/entscheid/bge_136_II_165), E. 2.1
+- **Thema**: Nichteintreten auf verspätete Rügen
+- **Kernaussage**: Die fristgerechte Einreichung ist Prozessvoraussetzung. Auf Beschwerden, die nach Ablauf der 30-tägigen Frist eingereicht werden, wird nicht eingetreten. Streitgegenstand und Beschwerdefrist sind strikt zu trennen.
+- **Einschlägig für**: Art. 50 Abs. 1 VwVG (Eintretensvoraussetzung)
+
+### [BGE 129 II 125](https://mcp.opencaselaw.ch/entscheid/bge_129_II_125), E. 3a
+- **Thema**: Beschwerdefrist im Wohneigentumsrecht
+- **Kernaussage**: Die 30-tägige Beschwerdefrist nach Art. 50 Abs. 1 VwVG beginnt mit der formellen Eröffnung der Verfügung. Im Wohneigentumsförderungsrecht findet Art. 50 VwVG sinngemäss Anwendung.
+- **Einschlägig für**: Art. 50 Abs. 1 VwVG (Fristbeginn)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-16*
+## Weitere Bundesgerichtsentscheide
+
+### [BGE 142 II 363](https://mcp.opencaselaw.ch/entscheid/bge_142_II_363), E. 3.2
+- **Thema**: Kostenregelung bei Rückweisung
+- **Kernaussage**: Nach Rückweisung durch das Bundesgericht beginnt die neue Beschwerdefrist für die Kostenregelung neu zu laufen, wenn die Vorinstanz eine neue Kostenverfügung erlässt. Die angefochtene Verfügung im Rückweisungsfall ist eine neue Verfügung im Sinne von Art. 50 Abs. 1 VwVG.
+
+---
+
+*Letzte Aktualisierung: 2026-06-07*

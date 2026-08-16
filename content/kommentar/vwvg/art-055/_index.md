@@ -21,7 +21,7 @@ revisions:
 
 # Art. 55 VwVG — Aufschiebende Wirkung
 
-## Gesetzeswortlaut
+## Gesetzestext
 
 > **Art. 55 VwVG — Aufschiebende Wirkung**
 >
@@ -35,7 +35,7 @@ revisions:
 >
 > **5** Vorbehalten bleiben die Bestimmungen anderer Bundesgesetze, nach denen eine Beschwerde keine aufschiebende Wirkung hat.
 
-Quelle: [Fedlex SR 172.021 Art. 55](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_55).
+*(Fedlex-Stand: 2022-07-01)*
 
 ## I. Bedeutung und Grundsatz (Abs. 1)
 

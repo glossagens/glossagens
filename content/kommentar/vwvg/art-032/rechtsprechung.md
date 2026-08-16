@@ -16,12 +16,17 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### [BGE 137 II 266](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_266#e-3-2), E. 3.2
+### [BGE 137 II 266](https://mcp.opencaselaw.ch/entscheid/bge_137_II_266), E. 3.2
 - **Thema**: Würdigungspflicht / Rechtliches Gehör
 - **Kernaussage**: Der durch Art. 29 Abs. 2 BV gewährleistete und in den Art. 29 ff. VwVG konkretisierte Grundsatz des rechtlichen Gehörs verpflichtet die Behörde, die Vorbringen der Parteien tatsächlich zu hören, zu prüfen und in der Entscheidfindung zu berücksichtigen (Art. 32 VwVG). Die Begründung muss zumindest kurz die wesentlichen Überlegungen nennen, verlangt aber keine einlässliche Auseinandersetzung mit jedem einzelnen Vorbringen. Verletzung des rechtlichen Gehörs bei mangelnder Auseinandersetzung mit eingereichtem Gutachten.
 - **Einschlägig für**: Art. 32 Abs. 1 VwVG (Würdigungspflicht, Begründungspflicht)
 
-### [BGE 145 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_99), E. 3.1
+### [BGE 130 II 530](https://mcp.opencaselaw.ch/entscheid/bge_130_II_530), E. 2b
+- **Thema**: Erhebliche und rechtzeitige Vorbringen
+- **Kernaussage**: Die Behörde muss alle erheblichen und rechtzeitigen Parteivorbringen würdigen. Die Würdigungspflicht umfasst sowohl Tatsachenbehauptungen als auch rechtliche Einwendungen. Erheblichkeit bedeutet objektive Relevanz für die Entscheidfindung, nicht subjektive Überzeugung der Behörde.
+- **Einschlägig für**: Art. 32 Abs. 1 VwVG (Erheblichkeit, Rechtzeitigkeit)
+
+### [BGE 145 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_145_IV_99), E. 3.1
 - **Thema**: Rechtshilfefall / Elementare Verfahrensgrundsätze
 - **Kernaussage**: In Rechtshilfefällen sind elementare Verfahrensgrundsätze zu wahren, auch wenn das ausländische Verfahren nicht dem Schweizer Standard entspricht. Die Würdigungspflicht nach Art. 32 VwVG gilt sinngemäss im Rechtshilfeverfahren.
 - **Einschlägig für**: Art. 32 VwVG (Rechtshilfe, elementare Verfahrensgrundsätze)

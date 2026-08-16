@@ -21,7 +21,7 @@ revisions:
 
 # Art. 49 VwVG — Beschwerdegründe
 
-## Gesetzeswortlaut
+## Gesetzestext
 
 > **Art. 49 VwVG — Beschwerdegründe**
 >
@@ -33,7 +33,7 @@ revisions:
 >
 > c. Unangemessenheit; die Rüge der Unangemessenheit ist unzulässig, wenn eine kantonale Behörde als Beschwerdeinstanz verfügt hat.
 
-Quelle: [Fedlex SR 172.021 Art. 49](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_49).
+*(Fedlex-Stand: 2022-07-01)*
 
 ## I. Bedeutung und Kognitionsumfang
 

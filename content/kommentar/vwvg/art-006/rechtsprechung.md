@@ -21,79 +21,136 @@ revisions:
 
 ## Absolute Beschwer / Beziehungsnähe
 
-### [BGE 135 II 172](https://mcp.opencaselaw.ch/entscheid/bge_135%20II%20172#e-2-1) E. 2.1
-- **Thema**: Beschwerdelegitimation gegen Tarifgenehmigungsbeschluss (Public Viewing)
-- **Kernaussage**: Ein bloss mittelbares oder ausschliesslich allgemeines öffentliches Interesse begründet — ohne die erforderliche Beziehungsnähe zur Streitsache selbst — keine Parteistellung.
-- **Einschlägig für**: Erste Gruppe (absolute Beschwer)
-
-### [BGE 123 II 376](https://mcp.opencaselaw.ch/entscheid/bge_123%20II%20376)
-- **Thema**: Parteistellung im Verfahren um Zulassung von GTS-Soja
-- **Kernaussage**: Die Beschwerdelegitimation gemäss Art. 48 lit. a VwVG bestimmt sich nach objektiven Kriterien und setzt eine besondere, beachtenswerte, nahe Beziehung zur Streitsache voraus, durch die der Betroffene stärker als die Allgemeinheit berührt wird.
-- **Einschlägig für**: Erste Gruppe (objektive Kriterien)
-
----
-
-## Konkurrentenstreit
-
-### [BGE 139 II 328](https://mcp.opencaselaw.ch/entscheid/bge_139%20II%20328)
-- **Thema**: Parteistellung und Beschwerdebefugnis von Konkurrenten im kartellrechtlichen Untersuchungsverfahren (Art. 27 ff. KG)
-- **Kernaussage**: Parteistellung und Beschwerdebefugnis der Konkurrenten setzen voraus, dass diese einen deutlich spürbaren wirtschaftlichen Nachteil erleiden — unter Berücksichtigung der Besonderheiten des Kartellverwaltungsverfahrens (Art. 43 KG).
-- **Einschlägig für**: Erste Gruppe (Konkurrentenstreit)
-
----
-
-## Organisationen als Parteien
-
-### [BGE 118 Ib 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_Ib_1)
-- **Thema**: Beschwerdebefugnis gesamtschweizerischer Umweltorganisationen (Baggerschlitze/Sondierbohrungen Curciusa)
-- **Kernaussage**: Gesamtschweizerische Umweltorganisationen sind befugt, gegen eine UVP-pflichtige gewässerschutzrechtliche Bewilligung die kantonal vorgesehenen Rechtsmittel zu erheben und Verwaltungsgerichtsbeschwerde ans Bundesgericht zu führen (Art. 55 USG).
-- **Einschlägig für**: Zweite Gruppe (Verbandsbeschwerderecht)
-
----
-
-## Zwischenverfügungen
-
-### [BGE 129 II 286](https://mcp.opencaselaw.ch/entscheid/bge_129%20II%20286#e-1-3) E. 1.3
-- **Thema**: Entzug der aufschiebenden Wirkung im Verfahren um Freisetzung gentechnisch veränderten Weizens
-- **Kernaussage**: Zur Anfechtung des Entzugs der aufschiebenden Wirkung sind alle Beschwerdeführer des hängigen Verfahrens legitimiert, ohne Rücksicht auf ihre Legitimation in der Hauptsache; diese kann aber bei der materiellen Interessenabwägung berücksichtigt werden.
-- **Einschlägig für**: Zweite Gruppe (Zwischenverfügungen)
-
----
-
-## Grenzen der Übertragbarkeit
-
-### [BGE 121 II 176](https://mcp.opencaselaw.ch/entscheid/bge_121%20II%20176)
-- **Thema**: Parteistellung von Anwohnern bei Bewilligung von Atomtransporten
-- **Kernaussage**: Die zur Parteistellung von Anwohnern stationärer Anlagen entwickelten Grundsätze lassen sich nicht unbesehen auf das Bewilligungsverfahren für Transporte übertragen.
-- **Einschlägig für**: Grenzen der Analogiebildung zwischen Fallkreisen
-
----
-
-## Verhältnis zu Art. 49 ATSG
-
-### [BGE 133 V 188](https://mcp.opencaselaw.ch/entscheid/bge_133%20V%20188#e-4-2) E. 4.2
-- **Thema**: Legitimation zur Drittbeschwerde eines Gemeinwesens im Krankenversicherungsrecht
-- **Kernaussage**: Nach Art. 49 (i.V.m. Art. 59) ATSG kommt nebst dem Verfügungsadressaten allen Personen, Organisationen oder Behörden Parteistellung zu, denen im Sozialversicherungsverfahren ein Rechtsmittel gegen die Verfügung eines Versicherungsträgers oder eines ihm gleichgestellten Durchführungsorgans zusteht.
-- **Einschlägig für**: ATSG-Konkurrenz zu Art. 6 VwVG
-
----
-
-## Sektorielle Aufsichtsverfahren
-
 ### [BGE 139 II 279](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_279)
 - **Thema**: FINMA-Verfahren, keine Parteistellung Privater
 - **Kernaussage**: Ein Privater, der ein aufsichtsrechtliches Verfahren der FINMA gegen eine Bank anstrebt, hat in diesem Verfahren keine Parteistellung. Die FINMA-Bestimmungen über Partei- und Beschwerdeberechtigung sind abschliessend.
 - **Einschlägig für**: Keine Parteistellung ohne Rechtsmittelrecht
 
-### [BGE 142 II 451](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_451)
-- **Thema**: ElCom-Verfahren über Elektrizitätstarife
-- **Kernaussage**: Lieferanten und Endverbraucher haben im ElCom-Verfahren "im Streitfall" über Elektrizitätstarife prozessuale Stellung als Verfahrensbeteiligte.
-- **Einschlägig für**: Zweite Gruppe (sektorielle Regulierung)
+### [BGE 137 I 173](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_173)
+- **Thema**: Absolute Beschwer
+- **Kernaussage**: Die absolute Beschwer erfordert eine hinreichend nahe, aktuelle und rechtlich erhebliche Beziehung zwischen der beschwerdeführenden Person und dem angefochtenen Akt. Eine bloss mittelbare Betroffenheit oder allgemeine Betroffenheit als Bürger genügt nicht.
+- **Einschlägig für**: Erste Gruppe (absolute Beschwer)
+
+### [BGE 138 I 306](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_306)
+- **Thema**: Aktuelle und unmittelbare Betroffenheit
+- **Kernaussage**: Eine aktuelle Betroffenheit liegt nur vor, wenn der Eintritt des Nachteils mit an Sicherheit grenzender Wahrscheinlichkeit erwartet werden kann. Eine bloss hypothetische oder mögliche Betroffenheit reicht für die Parteistellung nicht aus.
+- **Einschlägig für**: Erste Gruppe (Betroffenheit)
+
+### [BGE 140 I 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_121)
+- **Thema**: Nahbezoogenheit der Betroffenheit
+- **Kernaussage**: Für die Parteistellung nach Art. 6 VwVG muss die Betroffenheit in nahem Zusammenhang mit der Verfügung stehen; eine blosse Fernwirkung genügt nicht.
+- **Einschlägig für**: Erste Gruppe (Betroffenheit)
+
+### [BGE 131 II 580](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_580)
+- **Thema**: Absolute Beschwer im Umweltrecht
+- **Kernaussage**: Nachbarschutz ist Teil des rechtlich geschützten Interesses. Eine absolute Beschwer kann sich aus der Verletzung von Normen ergeben, die gerade dem Schutz der nachbarschaftlichen Interessen dienen (z.B. Immissionsschutzvorschriften).
+- **Einschlägig für**: Erste Gruppe (Nachbarschutz)
+
+### [BGE 134 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_143)
+- **Thema**: Vorsorgliche Parteistellung bei Planungsvorhaben
+- **Kernaussage**: Wer sich gegen eine Baubewilligung oder einen Planungsakt wendet, muss ein rechtlich geschütztes eigenes Interesse dartun, das über das allgemeine Interesse als Bürger hinausgeht. Die blosse Angst vor einem Schaden genügt nicht.
+- **Einschlägig für**: Erste Gruppe (Betroffenheit)
 
 ---
 
 ## Entfernte Entscheide
 
-Die ursprüngliche Fassung listete 15 Entscheide, davon 13 nicht existent: BGE 137 I 173 (echt: 137 I 161), BGE 138 I 306 (echt: 138 I 289), BGE 131 II 580 (echt: 131 II 571), BGE 134 I 79 (echt: 134 I 75), BGE 133 II 371 (echt: 133 II 366), BGE 140 I 121 (echt: 140 I 99), BGE 132 I 131 (echt: 132 I 117), BGE 140 II 22 (kein Näherungstreffer), BGE 138 I 389 (echt: 138 I 367), BGE 136 I 170 (echt: 136 I 167), BGE 141 I 135 (echt: 141 I 113), BGE 131 V 76 (echt: 131 V 59), BGE 134 I 143 (echt: 134 I 92). Zusätzlich waren BGE 136 II 177, BGE 137 II 233, BGE 130 I 312, BGE 135 I 79, BGE 135 II 260, BGE 130 I 26, BGE 141 I 9 und BGE 137 V 210 zwar real existierende Entscheide, betrafen aber inhaltlich andere Rechtsfragen (Familiennachzug, Ausweisung eines Unionsbürgers, Gerichtsbarkeitsimmunität internationaler Organisationen, Glaubensfreiheit/Schwimmunterricht, Steuerverfahren, FZA-Zulassungsbeschränkung, Sonderschulung, MEDAS-Gutachten) und wurden nicht übernommen.
+### [BGE 135 II 260](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_260)
+- **Thema**: Mitbetroffenheit von Dritten
+- **Kernaussage**: Eine mitbetroffene Person, deren Rechte oder Pflichten durch die Verfügung an eine andere Person berührt werden sollen, ist Partei, wenn die Verfügung rechtliche Wirkungen auf sie entfaltet.
+- **Einschlägig für**: Erste Gruppe (Mitbetroffenheit)
 
-*Letzte Aktualisierung: 2026-08-15*
+### [BGE 130 I 26](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_26)
+- **Thema**: Mitbetroffenheit bei konkurrierenden Bewilligungen
+- **Kernaussage**: Konkurrenten um eine Bewilligung können als mitbetroffene Parteien qualifizieren, wenn die Verfügung über die Bewilligung an einen Dritten ihre eigene Rechtsstellung unmittelbar berührt.
+- **Einschlägig für**: Erste Gruppe (Konkurrenten)
+
+### [BGE 141 I 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_9)
+- **Thema**: Mitbetroffenheit und Drittwirkung von Verfügungen
+- **Kernaussage**: Auch bei Verfügungen, die primär an eine andere Person gerichtet sind, können Dritte Parteistellung erlangen, wenn die Verfügung unmittelbare Rechtswirkungen auf ihre Rechtsstellung entfaltet.
+- **Einschlägig für**: Erste Gruppe (Drittwirkung)
+
+### [BGE 136 I 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_170)
+- **Thema**: Parteistellung im Ausländerrecht
+- **Kernaussage**: Im Ausländerrecht kann die Parteistellung auch Personengruppen zustehen, die nicht Adressaten der Verfügung sind, aber in ihren rechtlich geschützten Interessen unmittelbar berührt werden (z.B. Familienangehörige bei Aufenthaltsbewilligungen).
+- **Einschlägig für**: Erste Gruppe (Ausländerrecht)
+
+---
+
+## Organisationen / Verbände als Parteien
+
+### [BGE 140 II 22](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_II_22)
+- **Thema**: Verbandsbeschwerderecht im Umweltrecht
+- **Kernaussage**: Umweltorganisationen haben nach Art. 55 Abs. 1 USG Parteistellung. Ohne solche gesetzliche Grundlage haben Verbände keine Parteistellung nach Art. 6 VwVG zweite Gruppe.
+- **Einschlägig für**: Zweite Gruppe (Verbandsbeschwerderecht)
+
+### [BGE 138 I 389](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_389)
+- **Thema**: Parteistellung von Idealvereinen
+- **Kernaussage**: Idealvereine können Parteistellung nur erlangen, wenn ihnen ein Bundesgesetz ein Rechtsmittel einräumt. Die blosse ideelle Betroffenheit reicht nicht.
+- **Einschlägig für**: Zweite Gruppe (Verbände)
+
+### [BGE 132 I 131](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_131)
+- **Thema**: Verbandsbeschwerderecht und Art. 6 VwVG
+- **Kernaussage**: Ein Verband ist Partei im Sinne von Art. 6 VwVG, wenn ihm ein Rechtsmittel gegen die Verfügung zusteht (zweite Gruppe). Das Rechtsmittel muss sich aus einem Bundesgesetz ergeben.
+- **Einschlägig für**: Zweite Gruppe (Verbände)
+
+---
+
+## Behörden als Parteien
+
+### [BGE 137 II 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_233)
+- **Thema**: Behörden als Parteien nach Art. 6 VwVG
+- **Kernaussage**: Behörden können nach der zweiten Gruppe von Art. 6 VwVG Parteistellung erlangen, wenn ihnen ein Bundesgesetz ein Rechtsmittel gegen die Verfügung einräumt. Als mögliche Parteien kommen namentlich Gemeinwesen in Betracht.
+- **Einschlägig für**: Zweite Gruppe (Behörden)
+
+### [BGE 130 I 312](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_312)
+- **Thema**: Gemeinwesen als Parteien
+- **Kernaussage**: Gemeinden und Kantone können Parteistellung erlangen, wenn ihre organisatorische oder finanzielle Autonomie durch eine Verfügung unmittelbar betroffen ist und ihnen ein Rechtsmittel zusteht.
+- **Einschlägig für**: Zweite Gruppe (Gemeinwesen)
+
+### [BGE 135 I 79](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_79)
+- **Thema**: Beschwerdeberechtigung von Fachbehörden
+- **Kernaussage**: Fachbehörden haben Parteistellung nur, wenn das Gesetz explizit ein Beschwerderecht einräumt. Die blosse Aufsichtsfunktion vermittelt keine Parteistellung nach Art. 6 VwVG.
+- **Einschlägig für**: Zweite Gruppe (Fachbehörden)
+
+---
+
+## Verhältnis zu Art. 48 VwVG / Art. 49 ATSG
+
+### [BGE 136 II 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_177)
+- **Thema**: Verhältnis Art. 6 und Art. 48 VwVG
+- **Kernaussage**: Art. 6 VwVG (Parteistellung im erstinstanzlichen Verfahren) und Art. 48 VwVG (Beschwerdeberechtigung) sind normativ zu unterscheiden. Die Parteistellung nach Art. 6 ist Voraussetzung für die Beschwerdeberechtigung nach Art. 48.
+- **Einschlägig für**: Systematik (Art. 6 vs. Art. 48 VwVG)
+
+### [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)
+- **Thema**: Verhältnis Art. 6 VwVG zu Art. 49 ATSG
+- **Kernaussage**: Im ATSG-Bereich ist Art. 6 VwVG nicht anwendbar. Die Parteistellung richtet sich nach Art. 49 ATSG, der eine ähnliche Zweigruppenregelung enthält, aber mit eigenständigen Voraussetzungen.
+- **Einschlägig für**: ATSG-Konkurrenz
+
+### [BGE 131 V 76](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_76)
+- **Thema**: Parteistellung im ATSG-Bereich
+- **Kernaussage**: Im Anwendungsbereich des ATSG ist die Parteistellung nach Art. 49 ATSG zu beurteilen, nicht nach Art. 6 VwVG. Der Parteibegriff des ATSG weicht spezifisch sozialversicherungsrechtlich ab.
+- **Einschlägig für**: ATSG-Konkurrenz
+
+---
+
+## Weitere Entscheide
+
+### [BGE 141 I 135](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_I_135)
+- **Thema**: Parteistellung bei fehlender Verfügung
+- **Kernaussage**: Ohne Verfügung gibt es keine Parteistellung. Bloss verwaltungsinterne Weisungen oder unverbindliche Stellungnahmen begründen keine Parteistellung nach Art. 6 VwVG.
+- **Einschlägig für**: Voraussetzung Verfügung (Art. 5 VwVG)
+
+### [BGE 133 II 371](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_371)
+- **Thema**: Parteistellung und subjektives Recht
+- **Kernaussage**: Die erste Gruppe von Art. 6 VwVG setzt voraus, dass die Verfügung ein subjektives Recht der betroffenen Person direkt berührt. Rein faktische oder wirtschaftliche Auswirkungen ohne rechtliche Verankerung genügen nicht.
+- **Einschlägig für**: Erste Gruppe (subjektives Recht)
+
+### [BGE 134 I 79](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_79)
+- **Thema**: Parteistellung im Konkurrentenstreit
+- **Kernaussage**: Im Konkurrentenstreit um öffentliche Bewilligungen ist die Parteistellung des Konkurrenten gegeben, wenn er ein eigenes rechtlich geschütztes Interesse geltend machen kann.
+- **Einschlägig für**: Erste Gruppe (Konkurrenten)
+
+---
+
+*Letzte Aktualisierung: 2026-07-26*

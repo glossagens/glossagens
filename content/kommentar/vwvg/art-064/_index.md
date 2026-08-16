@@ -21,7 +21,7 @@ revisions:
 
 # Art. 64 VwVG — Parteientschädigung
 
-## Gesetzeswortlaut
+## Gesetzestext
 
 > **Art. 64 VwVG — Parteientschädigung**
 >
@@ -33,9 +33,9 @@ revisions:
 >
 > **4** Die Körperschaft oder autonome Anstalt, in deren Namen die Vorinstanz verfügt hat, haftet für die einer unterliegenden Gegenpartei auferlegte Entschädigung, soweit sich diese als uneinbringlich herausstellt.
 >
-> **5** Der Bundesrat regelt die Bemessung der Entschädigung.
+> **5** Der Bundesrat regelt die Bemessung der Entschädigung.^[Vorbehalten bleiben Art. 16 Abs. 1 Bst. a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 (SR 173.32) und Art. 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010 (SR 173.71).]
 
-Quelle: [Fedlex SR 172.021 Art. 64](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_64).
+*(Fedlex-Stand: 2022-07-01)*
 
 ## I. Bedeutung und Anwendungsbereich (Abs. 1)
 

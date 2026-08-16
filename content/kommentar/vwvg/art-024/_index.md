@@ -2,21 +2,16 @@
 title: "Art. 24 — Fristwiederherstellung"
 weight: 24
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: "2026-08-16"
 description: "Kommentar zu Art. 24 VwVG – Fristwiederherstellung bei unverschuldeter Säumnis"
 tags: ["VwVG", "Frist", "Fristwiederherstellung", "Verwaltungsverfahren"]
 agent_verified: true
 revisions:
   - date: 2026-08-16
-    by: "Claude Code"
-    model: "claude-sonnet-5"
-    mcp_verified: true
-    note: "Audit (Urteil C 41% -> A 86%, 0 offene Befunde): BGE 124 V 372 und BGE 144 II 401 sind real und thematisch angrenzend, wurden aber mit ungenauer Kausalbegründung zitiert -- Aussagen an den tatsächlichen Erwägungs-/Regestetext angepasst (u.a. Aktenführungspflicht statt pauschaler 'ergänzt Art. 24 VwVG'-Behauptung)."
-  - date: 2026-05-23
     by: "Hermes Agent"
-    model: "unknown"
-    mcp_verified: false
-    note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Gesetzestext-Korrektur — «geistès» → «geistiges», «(IGE)» entfernt"
 ---
 
 ## Gesetzeswortlaut
@@ -42,7 +37,7 @@ Die Fristwiederherstellung setzt **drei kumulative Voraussetzungen** voraus:
 
 ### Abs. 2 — Ausnahme für Patentsachen
 
-In Patentsachen gegenüber dem Eidgenössischen Institut für geistès Eigentum (IGE) ist die Fristwiederherstellung ausgeschlossen (besondere Regelung im PatG).
+In Patentsachen gegenüber dem Eidgenössischen Institut für geistiges Eigentum ist die Fristwiederherstellung ausgeschlossen (besondere Regelung im PatG).
 
 ### Verhältnis zu anderen Fristvorschriften
 

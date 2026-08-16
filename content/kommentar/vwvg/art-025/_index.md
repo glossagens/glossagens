@@ -1,5 +1,5 @@
 ---
-title: "Art. 25 VwVG — Feststellungsverfügung"
+title: "Art. 25 — Feststellungsverfügung"
 weight: 25
 date: 2026-08-02
 lastmod: 2026-08-02
@@ -19,9 +19,9 @@ revisions:
     note: "Neuerstellung VwVG Art. 25 (mit fehlerhaftem Gesetzestext in Abs. 1 und 3) — Gesetzestext via Fedlex MCP, Leitentscheide via OpenCaseLaw verifiziert."
 ---
 
-# Art. 25 VwVG — Feststellungsverfügung
+# Art. 25 — Feststellungsverfügung
 
-## Gesetzeswortlaut
+## Gesetzestext
 
 > **Art. 25 VwVG — Feststellungsverfügung**
 >
@@ -31,7 +31,7 @@ revisions:
 >
 > **3** Keiner Partei dürfen daraus Nachteile erwachsen, dass sie im berechtigten Vertrauen auf eine Feststellungsverfügung gehandelt hat.
 
-Quelle: [Fedlex SR 172.021 Art. 25](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_25).
+*(Fedlex-Stand: 2022-07-01)*
 
 ## I. Bedeutung und Zweck
 
