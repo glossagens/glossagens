@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 2 EMRK"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 2 EMRK — Recht auf Leben, Schutzpflichten, Todesstrafenverbot"
 tags: ["Rechtsprechung", "EMRK", "Recht auf Leben", "Schutzpflicht", "EGMR"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: BGE 141 I 81 (fabriziert) und BGer 1B_456/2016 (real, aber Beschlagnahme-Verfahren statt Schusswaffengebrauch) ersetzt durch BGE 147 I 494 und BGer 1C_179/2008 (beide via check_claim_support verifiziert). Makaratzis-Aktenzeichen korrigiert (50385/99). Verdaechtige bger.ch/ext/eurolex-URLs (Fabrikationsmuster) entfernt."
 ---
 
 ## Leitentscheide (EGMR)
@@ -31,7 +37,7 @@ agent_verified: false
 
 ---
 
-### [EGMR, Makaratzis v. Griechenland, 50349/99](https://hudoc.echr.coe.int/eng?i=001-67658), §§ 58–64
+### EGMR, Makaratzis v. Griechenland, Nr. 50385/99, Grosse Kammer, §§ 49–55
 - **Thema**: Erforderlichkeit der Gewaltanwendung (Polizeigewalt)
 - **Kernaussage**: Die Ausnahme des Art. 2 Abs. 2 ist eng auszulegen. Die Gewaltanwendung muss «strikt proportional» zum legitimierten Ziel sein. Auch bei der Verfolgung von Straftätern ist der Einsatz von Schusswaffen nur als letztes Mittel zulässig.
 - **Einschlägig für**: Abs. 2 lit. b (Festnahme/Fluchtverhinderung)
@@ -47,16 +53,16 @@ agent_verified: false
 
 ## Bundesgerichtsentscheide
 
-### [BGE 141 I 81](https://www.bger.ch/ext/eurolex/index/141_I_81), E. 3.2
-- **Thema**: Untersuchungspflicht bei Todesfällen in Haft
-- **Kernaussage**: Das Bundesgericht bestätigt die Untersuchungspflicht nach Art. 2 EMRK bei Todesfällen in staatlicher Obhut. Die Untersuchung muss unabhängig, unparteiisch und wirksam sein. Die Schweizer Strafprozessordnung (StPO Art. 297 ff.) erfüllt diese Anforderungen.
+### [BGE 147 I 494](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_494)
+- **Thema**: Untersuchungspflicht bei Suizid in Untersuchungshaft
+- **Kernaussage**: Die Verweigerung der Ermächtigung zur Strafverfolgung gegen Polizeibeamte wegen fahrlässiger Tötung bei einem Suizid in Untersuchungshaft kann gegen die aus Art. 2 EMRK fliessende Untersuchungspflicht verstossen. Eine vom EGMR den Angehörigen zugesprochene Entschädigung gleicht die Folgen einer EMRK-widrig unterlassenen Ermächtigung nicht vollständig aus.
 - **Einschlägig für**: Untersuchungspflicht
 
 ---
 
-### [BGer 1B_456/2016](https://www.bger.ch/ext/eurolex/index/1B_456/2016), E. 2.1
-- **Thema**: Verhältnismässigkeit von Polizeigewalt und Lebensrecht
-- **Kernaussage**: Das Bundesgericht hebt hervor, dass Art. 2 EMRK in Verbindung mit BV Art. 10 Abs. 1 den Einsatz von Gewalt durch Polizeibeamte strengen Verhältnissmassigkeitsanforderungen unterwirft. Der Schusswaffengebrauch ist nur als letztes Mittel zulässig.
+### [BGer 1C_179/2008](https://mcp.opencaselaw.ch/entscheid/bger_1C_179_2008), E. 4.1
+- **Thema**: Verhältnismässigkeit des Schusswaffengebrauchs
+- **Kernaussage**: Schusswaffen sollen nur subsidiär und als letztes Mittel (ultima ratio) eingesetzt werden, wenn andere verfügbare Mittel nicht ausreichen.
 - **Einschlägig für**: Abs. 2 (Ausnahmetatbestände)
 
 ---

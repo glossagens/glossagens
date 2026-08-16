@@ -2,10 +2,16 @@
 title: "Art. 2 — Recht auf Leben"
 weight: 2
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 2 EMRK — Recht auf Leben: Schutzpflichten des Staates, positives und negatives Recht auf Leben, Todesstrafenverbot"
 tags: ["EMRK", "Recht auf Leben", "Todesstrafe", "Schutzpflicht", "Lebensrecht", "EGMR"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit-Sonderfall: Artikel zitiert fast ausschliesslich EGMR ueber hudoc.echr.coe.int -- der Audit-Parser dieses Repos erkennt nur BGE/BGer-Zitierlagen und meldete faelschlich '0 Paare' (Parser-Blindfleck, kein Freispruch). Manuell verifiziert: BGE 141 I 81 fabriziert (kein close_match, cite exists:false), ersetzt durch BGE 147 I 494 (Suizid Untersuchungshaft, Ermaechtigung Strafverfolgung -- exakt einschlaegig). Makaratzis-Aktenzeichen war falsch (50349/99 statt 50385/99, ueber Kreuzzitate in mehreren echten EGMR-Entscheiden bestaetigt). Wortlaut-Warnung als Fehlalarm verifiziert (Formatierungsartefakt gegen Fedlex, wie bei Art. 3/5/8 EMRK). EGMR-Fallnamen sind echte bekannte Leitentscheide, aber Anwendungsnummern ausserhalb des Schweiz-skopierten opencaselaw-Bestands nicht durchgehend verifizierbar -- agent_verified bleibt deshalb false."
 ---
 
 ## Gesetzeswortlaut
@@ -48,7 +54,7 @@ Die drei Ausnahmetatbestände des Abs. 2 sind **erschöpfend** und **eng auszule
 
 - **lit. c (Aufruhr/Aufstand)**: Erlaubt tödliche Gewalt bei der Bekämpfung von Aufruhr oder Aufstand. Dieser Tatbestand ist in der Schweizer Praxis praktisch bedeutungslos.
 
-Das Erforderlichkeitsmerkmal («absolutly necessary» / «unbedingt erforderlich») verlangt eine strenge Verhältnismässigkeitsprüfung. Der EGMR verlangt, dass die Gewaltanwendung «strikt proportional» zum legitimierten Ziel sein muss ([EGMR, Makaratzis v. Griechenland, 50349/99](https://hudoc.echr.coe.int/eng?i=001-67658), § 58).
+Das Erforderlichkeitsmerkmal («absolutly necessary» / «unbedingt erforderlich») verlangt eine strenge Verhältnismässigkeitsprüfung. Der EGMR verlangt, dass die Gewaltanwendung «strikt proportional» zum legitimierten Ziel sein muss (EGMR, Makaratzis v. Griechenland, Nr. 50385/99, Grosse Kammer, §§ 49–55).
 
 ### IV. Positive Schutzpflichten
 
@@ -72,14 +78,14 @@ Art. 2 EMRG verpflichtet den Staat, bei Todesfällen, die in den Verantwortungsb
 - Sie muss innerhalb angemessener Frist durchgeführt werden.
 - Die Angehörigen müssen Zugang zu den Untersuchungsergebnissen haben.
 
-In der Schweiz erfüllen die Regelungen über die ausserordentlichen Untersuchungsmassnahmen (StPO Art. 297 ff.) sowie die Oberaufsichtspflicht der Strafbehörden diese Anforderungen. Bei Todesfällen in Haft obliegt die Untersuchungspflicht der Strafjustiz ([BGE 141 I 81](https://www.bger.ch/ext/eurolex/index/141_I_81) E. 3.2).
+In der Schweiz erfüllen die Regelungen über die ausserordentlichen Untersuchungsmassnahmen (StPO Art. 297 ff.) sowie die Oberaufsichtspflicht der Strafbehörden diese Anforderungen. Bei einem Suizid in Untersuchungshaft kann die Verweigerung der Ermächtigung zur Strafverfolgung gegen die verantwortlichen Beamten wegen fahrlässiger Tötung gegen Art. 2 EMRK verstossen ([BGE 147 I 494](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_494)).
 
 ### VI. Abgrenzungen
 
 - **Art. 3 EMRK**: Das Verbot von Folter und unmenschlicher Behandlung kann bei lebensgefährdenden Haftbedingungen kumulativ zu Art. 2 verletzt sein.
 - **Art. 5 EMRK**: Das Recht auf Freiheit korrespondiert mit Art. 2 bei lebensgefährlicher Haft.
 - **BV Art. 10 Abs. 1**: Das verfassungsrechtliche Lebensrecht in der Schweiz ist weitergehend als Art. 2 EMRK, da es (als BV-Grundrecht) auch Eingriffe von Privaten erfasst.
-- **BV Art. 7 EMRK**: Das Verbot der Rückwirkung strafverschärfender Normen steht nicht in direktem Zusammenhang mit Art. 2, kann aber bei Todesstrafenfragen relevant werden.
+- **Art. 7 EMRK**: Das Verbot der Rückwirkung strafverschärfender Normen steht nicht in direktem Zusammenhang mit Art. 2, kann aber bei Todesstrafenfragen relevant werden.
 
 ## Literatur
 
