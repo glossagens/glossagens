@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 13 EMRK — Recht auf wirksame Beschwerde"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-08-16
 description: "Übersicht der massgeblichen Entscheide zu Art. 13 EMRK: wirksame Beschwerde, arguable claim, nationale Rechtsbehelfe"
 tags: ["Rechtsprechung", "EMRK", "Beschwerde", "wirksamer Rechtsbehelf", "Konventionsbeschwerde"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: BGE 143 I 181 (fabriziert) und BGE 145 I 73/136 I 229/146 IV 297 (thematisch falsch zugeordnet bzw. nicht tragfaehig) entfernt; Pinpoint BGE 136 I 274 von E.2 auf E.1.3 korrigiert (passt zur Kernaussage)."
 ---
 
 Zurück zum Kommentar: [Art. 13 EMRK — Recht auf wirksame Beschwerde](./)
@@ -28,19 +34,11 @@ Zurück zum Kommentar: [Art. 13 EMRK — Recht auf wirksame Beschwerde](./)
 
 ---
 
-### [BGE 137 I 296](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_296), E. 1
+### [BGE 137 I 296](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_296), E. 4 f.
 - **Thema**: Freilassung während Rekursverfahren, Art. 5 Ziff. 4 und Art. 13 EMRK
 - **Kernaussage**: Der Grundsatz der Erschöpfung des kantonalen Instanzenzuges gilt auch im Haftrecht. Art. 13 EMRK i.V.m. Art. 5 Ziff. 4 EMRK verbürgt das Recht auf gerichtliche Überprüfung der Haft. Die Freilassung während des Rekursverfahrens ist Teil des wirksamen Rechtsbehelfs.
 - **Einschlägig für**: Abs. 2 (Wirksamkeit der Beschwerde im Haftrecht)
 - **Zitate**: 1'798
-
----
-
-### [BGE 143 I 181](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_181), E. 4.2–4.3
-- **Thema**: Art. 13 EMRK als eigenständige Garantie
-- **Kernaussage**: Art. 13 EMRK hat einen eigenständigen Schutzbereich gegenüber Art. 6 EMRK. Die Norm verlangt nicht nur ein faires Verfahren, sondern die Verfügbarkeit eines wirksamen Rechtsbehelfs bei Konventionsverletzungen. Lücken bei verwaltungsinternen Beschwerdeverfahren können eine Konventionsverletzung begründen.
-- **Einschlägig für**: Abs. 1 (innerstaatliche Instanz), Abs. 2 (Wirksamkeit)
-- **Zitate**: — (nicht-publizierter BGer-Entscheid)
 
 ---
 
@@ -52,19 +50,11 @@ Zurück zum Kommentar: [Art. 13 EMRK — Recht auf wirksame Beschwerde](./)
 
 ---
 
-### [BGE 145 I 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_73), E. 7.1–7.3
-- **Thema**: Art. 13 EMRK i.V.m. Art. 8 und 29a BV — abstrakte Normenkontrolle
-- **Kernaussage**: Art. 13 EMRK und Art. 29a BV sichern den Zugang zu wirksamen Rechtsbehelfen. Bei aufschiebend wirkungslosen Beschwerden im Migrationsrecht kann der einstweilige Rechtsschutz unzureichend sein. Das Bundesgericht legt Art. 29a BV im Licht von Art. 13 EMRK aus.
-- **Einschlägig für**: Abs. 2 (Wirksamkeit der Beschwerde), Abgrenzung zu Art. 29a BV
-- **Zitate**: 1'746
-
----
-
 ## II. Weitere Bundesgerichtsentscheide
 
-### [BGE 136 I 274](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_274), E. 2
+### [BGE 136 I 274](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_274), E. 1.3
 - **Thema**: Entlassung aus der Untersuchungshaft, Art. 13 EMRK
-- **Kernaussage**: Die Entlassung des Beschwerdeführers aus der Untersuchungshaft während des bundesgerichtlichen Verfahrens berührt das aktuelle praktische Interesse an der Behandlung der Haftbeschwerde. Art. 13 EMRK i.V.m. Art. 5 Ziff. 4 EMRK verlangt einen wirksamen gerichtlichen Rechtsschutz.
+- **Kernaussage**: Trotz Entlassung aus der Untersuchungshaft behandelt das Bundesgericht die Beschwerde ausnahmsweise materiell, wenn eine EMRK-Verletzung offensichtlich war und dem Beschwerdeführer durch Feststellung und günstige Kostenregelung sogleich Wiedergutmachung verschafft werden kann.
 - **Zitate**: 996
 
 ---
@@ -76,24 +66,10 @@ Zurück zum Kommentar: [Art. 13 EMRK — Recht auf wirksame Beschwerde](./)
 
 ---
 
-### [BGE 136 I 229](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_I_229), E. 2.3
-- **Thema**: Subsidiäre Verfassungsbeschwerde und Art. 13 EMRK
-- **Kernaussage**: Ein Prüfungsergebnis (bzw. eine Note) kann mit subsidiärer Verfassungsbeschwerde angefochten werden. Die Kognitionsbeschränkungen des BGG (Art. 83) sind mit Art. 13 EMRK vereinbar, solange ein wirksamer Rechtsbehelf zur Verfügung steht.
-- **Zitate**: 14'711 (BGE mit breitem Bezug zu Art. 29a BV und Art. 13 EMRK)
-
----
-
-### [BGE 128 I 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_167), E. 4.3
+### [BGE 128 I 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_167), E. 4.5
 - **Thema**: Abstrakte Anfechtbarkeit und Art. 13 EMRK
 - **Kernaussage**: Art. 13 EMRK verlangt nicht zwingend die Möglichkeit einer abstrakten Normenkontrolle, aber es muss einen wirksamen Rechtsbehelf gegen konkrete Konventionsverletzungen geben. Bei Polizeieinsatzbefehlen genügt die Möglichkeit der konkreten Anfechtung.
 - **Zitate**: 536
-
----
-
-### [BGE 146 IV 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_297), E. 2.2.3
-- **Thema**: Dublin-Verfahren und Art. 13 EMRK
-- **Kernaussage**: Im Dublin-Verfahren verneint das Bundesgericht unter dem Geltungsbereich von Art. 3 und Art. 13 EMRK eine Rechtsschutzlücke. Die bestehenden Rechtsbehelfe (Beschwerde ans Bundesverwaltungsgericht, ggf. ans Bundesgericht) genügen den Anforderungen von Art. 13 EMRK.
-- **Zitate**: 2'867
 
 ---
 
