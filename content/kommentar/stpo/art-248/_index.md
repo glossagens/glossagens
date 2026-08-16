@@ -2,11 +2,16 @@
 title: "Art. 248 StPO — Siegelung"
 weight: 248
 date: "2026-05-17"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 248 StPO — Siegelung von Aufzeichnungen und Gegenständen, Beschlagnahme von Speichermedien, Smartphone-Durchsuchung, Geheimnisschutz und Entsiegelungsverfahren nach der Revision per 1. Januar 2024"
-tags: ["StPO", "Beschlagnahme", "Speichermedien", "Smartphone", "Durchsuchung", "Privatsphäre", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Art. 264 StPO"]
+lastmod: "2026-08-16"
+description: "Kommentar zu Art. 248 StPO — Siegelung von Aufzeichnungen und Gegenständen, Beschlagnahme von Speichermedien, Smartphone-Durchsuchung, Geheimnisschutz, Datenspiegelung und Praxisänderung BGE 152 IV 107"
+tags: ["StPO", "Beschlagnahme", "Speichermedien", "Smartphone", "Durchsuchung", "Privatsphäre", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Datenspiegelung", "BGE 152 IV 107", "Art. 264 StPO"]
 agent_verified: true
 revisions:
+  - date: "2026-08-16"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Einarbeitung der Grundsatz-Praxisänderung BGE 152 IV 107 (Zulässigkeit vorsorglicher Datenspiegelung bei digitalem Beweisverlust in Abkehr von BGE 148 IV 221)"
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -120,7 +125,20 @@ Diese Auslegung steht im Einklang mit der Lehre (Graf, Jusletter 2021, N. 22 ff.
 
 **12** **Dreitägige Frist** Die Inhaberin oder der Inhaber hat das Siegelungsbegehren innert drei Tagen seit der Sicherstellung vorzubringen (Art. 248 Abs. 1 Satz 2 StPO). Diese Frist ist nicht erstreckbar. Nach Ablauf der Frist kann ein Siegelungsbegehren nicht mehr gestellt werden; die Strafbehörde kann die Aufzeichnungen und Gegenstände dann einsehen und verwenden.
 
-**13** **Siegelungswirkung** Während der dreitägigen Frist und nach einer allfälligen Siegelung darf die Strafbehörde die Aufzeichnungen und Gegenstände weder einsehen noch verwenden (Art. 248 Abs. 1 Satz 3 StPO). Dies gilt absolut und ohne Ausnahmen. Die Siegelung bewirkt ein vollständiges Verbot der Kenntnisnahme und Verwendung durch die Strafbehörde bis zum Entsiegelungsentscheid.
+**13** **Siegelungswirkung** Während der dreitägigen Frist und nach einer allfälligen Siegelung darf die Strafbehörde die Aufzeichnungen und Gegenstände weder einsehen noch verwenden (Art. 248 Abs. 1 Satz 3 StPO). Dies gilt grundsätzlich strikt. Die Siegelung bewirkt ein Verbot der inhaltlichen Kenntnisnahme und Verwendung durch die Untersuchungsbehörde bis zum rechtskräftigen Entsiegelungsentscheid.
+
+### Vorsorgliche Datenspiegelung bei digitalem Beweisverlust (Praxisänderung BGE 152 IV 107)
+
+**13a** **Frühere Rechtsprechung (BGE 148 IV 221)** Nach der früheren Praxis war es den Strafverfolgungsbehörden untersagt, im Zusammenhang mit der Sicherstellung elektronischer Datenträger selber eine Datenkopie (sog. Datenspiegelung bzw. forensisches Image) durch eine sachverständige Person anzuordnen ([BGE 148 IV 221 E. 2.5 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_221#e-2-5)). Eine vorzeitige Datenspiegelung durch die Strafverfolgungsbehörde vor gerichtlicher Entsiegelungsbewilligung galt als schwerer, unheilbarer Verfahrensmangel, der zur Nichtverwertbarkeit der Datenkopie und Rückgabe der Geräte führte ([BGE 148 IV 221 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_221#e-4)).
+
+**13b** **Praxisänderung durch BGE 152 IV 107** Mit Grundsatzentscheid **[BGE 152 IV 107](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107)** (Urteil 7B_550/2024 vom 23. Januar 2026 E. 5.7.8 f.) hat das Bundesgericht diese Rechtsprechung im Lichte der StPO-Revision (per 1.1.2024) und der rasanten technischen Entwicklung **ausdrücklich aufgegeben**:
+- **Fragilität digitaler Daten:** Moderne Mobiltelefone (insb. iPhones mit iOS) und Tablets verfügen über Sicherheitsmechanismen, die bei Inaktivität einen automatischen Neustart in den sog. *Before First Unlock-Modus* auslösen, was eine spätere Datenextraktion nahezu verunmöglicht. Zudem drohen automatische Löschroutinen oder Datenlöschungen per Fernzugriff (*Remote Wiping* via Cloud; [BGE 152 IV 107 E. 5.6](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-6)).
+- **Kein unzulässiges Sichten:** Die rein technische Extraktion von Gerätedaten auf externe Datenträger ohne bildgebende Verfahren stellt kein eigentliches Sichten und keine Datenverwendung im Sinne von Art. 248 Abs. 1 StPO dar ([BGE 152 IV 107 E. 5.7.6](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-6)).
+
+**13c** **Voraussetzungen der zulässigen Datenspiegelung** Strafverfolgungsbehörden dürfen bei unmittelbar drohendem Datenverlust selbst eine vorsorgliche Datenspiegelung anordnen, sofern folgende Kriterien eingehalten sind ([BGE 152 IV 107 E. 5.7.8 f.](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-8)):
+1. **Beizug einer sachverständigen Person:** Die Spiegelung muss durch eine forensisch sachverständige Person (z.B. kriminaltechnischer Dienst) erfolgen, die den gesetzlichen Pflichten nach Art. 184 Abs. 2 StPO untersteht.
+2. **Strikte Funktionentrennung (Ermittlungsverbot):** Die für die Datenspiegelung eingesetzte sachverständige Person darf später *nicht* in die eigentliche operative Ermittlungstätigkeit desselben Strafverfahrens eingebunden werden ([BGE 152 IV 107 E. 5.7.8](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-8)).
+3. **Versiegelung der Datenkopien:** Die erstellten Datensicherungen sind unmittelbar zu versiegeln und dem Zwangsmassnahmengericht zur materiellen Entsiegelung vorzulegen.
 
 ---
 

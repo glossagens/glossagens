@@ -1,77 +1,97 @@
 ---
 title: "Rechtsprechung zu Art. 248 StPO"
 weight: 99
-date: 2026-05-17
-lastmod: 2026-05-17
-description: "Rechtsprechungsuebersicht zu Art. 248 StPO — Siegelung, Entsiegelung, Beschlagnahme von Speichermedien und Smartphone-Durchsuchung"
-tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Smartphone", "Beschlagnahme", "Privatsphäre", "Art. 264 StPO"]
+date: "2026-05-17"
+lastmod: "2026-08-16"
+description: "Rechtsprechungsübersicht zu Art. 248 StPO — Siegelung, Entsiegelung, Beschlagnahme von Speichermedien, Smartphone-Durchsuchung und Datenspiegelung (Praxisänderung BGE 152 IV 107)"
+tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Smartphone", "Beschlagnahme", "Privatsphäre", "Datenspiegelung", "BGE 152 IV 107", "Art. 264 StPO"]
 agent_verified: true
+revisions:
+  - date: "2026-08-16"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGE 152 IV 107 als Leitentscheid Nr. 1 (Praxisänderung zu BGE 148 IV 221 betreffend vorsorgliche Datenspiegelung bei digitalem Beweisverlust)"
 ---
 
 # Rechtsprechung zu Art. 248 StPO — Siegelung
 
 ## I. Leitentscheide zum neuen Recht (seit 1. Januar 2024)
 
-### 1. BGE 151 IV 30 — Abschliessender Geheimnisschutzkatalog, Geschäftsgeheimnisse und Bankkundengeheimnis
+### 1. [BGE 152 IV 107](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107) — Datenspiegelung vor Entsiegelung bei drohendem Beweisverlust (Praxisänderung zu BGE 148 IV 221)
 
-**Datum:** 24. September 2024 | **Signatur:** BGE 151 IV 30
+**Datum:** 23. Januar 2026 | **Signatur:** [BGE 152 IV 107](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107) (Urteil 7B_550/2024)
+
+**Kernsatz:** Eine durch die Strafverfolgungsbehörden aufgrund eines konkret drohenden Beweisverlusts vorsorglich angeordnete Datenspiegelung stellt keine Verletzung von Bundesrecht dar, sofern die Datenspiegelung durch eine sachverständige Person durchgeführt wird und diese später nicht in die eigentlichen Strafermittlungen involviert ist. In Situationen eines unmittelbar drohenden Beweisverlusts gilt die Rechtsprechung gemäss [BGE 148 IV 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_221) als überholt (E. 5.7.8 f.). Die rein technische Extraktion von Smartphone-Daten ohne bildgebende Verfahren stellt kein unzulässiges Sichten oder Verwenden im Sinne von Art. 248 Abs. 1 StPO dar (E. 5.7.6).
+
+**Sachverhalt:** Die Jugendanwaltschaft sicherte bei einer Festnahme zwei Mobiltelefone und ordnete umgehend eine vorsorgliche Datenspiegelung durch den Forensikdienst der Kantonspolizei an. Der Beschuldigte verlangte tags darauf die Siegelung und rügte gestützt auf BGE 148 IV 221 einen schweren, unheilbaren Verfahrensmangel. Das Bundesgericht wies die Beschwerde ab.
+
+**Erwägungen:**
+- **[E. 5.6](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-6):** Fragilität digitaler Daten (iOS-Neustart in den *Before First Unlock-Modus*, Auto-Löschroutinen, Cloud Remote-Wiping); ein Zuwarten mit der Spiegelung bis zum Ablauf der dreitägigen Siegelungsfrist führt zu irreversiblem Datenverlust.
+- **[E. 5.7.6](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-6):** Die technische Spiegelung ohne bildgebende Technik ist kein Sichten und keine Datenverwendung durch die Strafverfolgungsbehörde im Sinne von Art. 248 Abs. 1 StPO.
+- **[E. 5.7.8](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-8):** Strikte Funktionentrennung: Die für die Datenspiegelung eingesetzte sachverständige Person darf in derselben Strafuntersuchung nicht mit weiteren operativen Ermittlungstätigkeiten beauftragt werden.
+- **[E. 5.7.9](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107#e-5-7-9):** Ausdrückliche Praxisänderung zu [BGE 148 IV 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_221).
+
+### 2. [BGE 151 IV 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30) — Abschliessender Geheimnisschutzkatalog, Geschäftsgeheimnisse und Bankkundengeheimnis
+
+**Datum:** 24. September 2024 | **Signatur:** [BGE 151 IV 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30)
 
 **Kernsatz:** In der neuen Fassung von Art. 248 Abs. 1 StPO werden die schutzwürdigen Geheimnisinteressen, die einer Entsiegelung entgegenstehen können, abschliessend definiert und gegenüber dem alten Recht restriktiver gefasst. In Frage kommen nur noch die in Art. 264 StPO geregelten Geheimnisschutzgründe. Weder allgemeine Geschäftsgeheimnisse noch das Bankkundengeheimnis fallen darunter. Falls keine gesetzlichen Geheimnisschutzgründe (Art. 248 Abs. 1 i.V.m. Art. 264 StPO) substanziiert angerufen werden, sind die allgemeinen Zwangsmassnahmenhindernisse von Art. 197 StPO nicht vom Entsiegelungsrichter akzessorisch zu prüfen.
 
 **Sachverhalt:** Die Bundesanwaltschaft edierte bei zwei Banken Kontenunterlagen der A. AG. Die A. AG verlangte die Siegelung und berief sich auf Geschäftsgeheimnisse. Das ZMG hiess das Entsiegelungsgesuch der BA gut. Die A. AG zog ans Bundesgericht.
 
 **Erwägungen:**
-- **E. 2.4.1:** Die schutzwürdigen Geheimnisinteressen werden abschliessend definiert; nur Art. 264 StPO kommt in Frage. Geschäftsgeheimnisse und Bankkundengeheimnis fallen nicht darunter.
-- **E. 2.4.2:** Gesetzgebungsverlauf: Der Nationalrat hat den Vorschlag des Bundesrates (Einbezug von Fabrikations- und Geschäftsgeheimnissen) abgelehnt.
-- **E. 2.4.3:** Nicht in Art. 264 StPO genannte Geheimnisinteressen sind nicht im Entsiegelungsverfahren vorzubringen. Die Verfahrensleitung kann den Akteneinsichtsbeschluss einschränken (Art. 108 Abs. 1 lit. b StPO).
-- **E. 4.3–4.4:** Ohne substanziierte Geheimnisrechte keine akzessorische Prüfung der allgemeinen Zwangsmassnahmenvoraussetzungen im Entsiegelungsverfahren.
+- **[E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-1):** Die schutzwürdigen Geheimnisinteressen werden abschliessend definiert; nur Art. 264 StPO kommt in Frage. Geschäftsgeheimnisse und Bankkundengeheimnis fallen nicht darunter.
+- **[E. 2.4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-2):** Gesetzgebungsverlauf: Der Nationalrat hat den Vorschlag des Bundesrates (Einbezug von Fabrikations- und Geschäftsgeheimnissen) abgelehnt.
+- **[E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-2-4-3):** Nicht in Art. 264 StPO genannte Geheimnisinteressen sind nicht im Entsiegelungsverfahren vorzubringen. Die Verfahrensleitung kann den Akteneinsichtsbeschluss einschränken (Art. 108 Abs. 1 lit. b StPO).
+- **[E. 4.3–4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30#e-4-3):** Ohne substanziierte Geheimnisrechte keine akzessorische Prüfung der allgemeinen Zwangsmassnahmenvoraussetzungen im Entsiegelungsverfahren.
 
-### 2. BGE 151 IV 344 — Privatgeheimnisse auf Smartphones, nicht wieder gutzumachender Nachteil
+### 3. [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) — Privatgeheimnisse auf Smartphones, nicht wieder gutzumachender Nachteil
 
-**Datum:** 25. März 2025 | **Signatur:** BGE 151 IV 344
+**Datum:** 25. März 2025 | **Signatur:** [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344)
 
 **Kernsatz:** Bei der (vollständigen) Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind. Da persönliche Aufzeichnungen und Korrespondenz der beschuldigten Person keinen absoluten Schutz geniessen, vermag dies für sich allein indessen noch keine schutzwürdigen Geheimnisinteressen im Sinne von Art. 248 Abs. 1 StPO und damit auch keinen nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG zu begründen. Hierfür hat die beschwerdeführende Partei zusätzlich darzutun, dass das Interesse am Schutz ihrer Persönlichkeit gegenüber dem Strafverfolgungsinteresse überwiegen könnte.
 
 **Sachverhalt:** Beschwerdeführer (A.) wegen Einfuhr von 7,18 kg Kokaingemisch beschuldigt. Siegelung des sichergestellten Mobiltelefons; Bezirksgericht Zürich hiess Entsiegelungsgesuch gut.
 
 **Erwägungen:**
-- **E. 2.4:** Persönliche Aufzeichnungen und Korrespondenz sind nicht absolut geschützt; es bedarf einer Interessenabwägung.
-- **E. 2.5:** Pauschaler Hinweis auf private Korrespondenz oder Fotos vermag keine schutzwürdigen Geheimnisinteressen zu begründen.
-- **E. 2.6:** Der Gesetzgeber hat den Geheimnisschutz im Entsiegelungsverfahren gegenüber dem alten Recht restriktiver gefasst.
-- **E. 2.7:** Bei Smartphones tangiert die Durchsuchung regelmässig persönliche Aufzeichnungen, doch ist substanziiert darzulegen, dass das Persönlichkeitsinteresse überwiegt.
-- **E. 2.8:** Angesichts der Schwere des Tatvorwurfs (Kokainhandel) überwiegt das Strafverfolgungsinteresse das Persönlichkeitsinteresse ohne Weiteres.
+- **[E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-4):** Persönliche Aufzeichnungen und Korrespondenz sind nicht absolut geschützt; es bedarf einer Interessenabwägung.
+- **[E. 2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-5):** Pauschaler Hinweis auf private Korrespondenz oder Fotos vermag keine schutzwürdigen Geheimnisinteressen zu begründen.
+- **[E. 2.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-6):** Der Gesetzgeber hat den Geheimnisschutz im Entsiegelungsverfahren gegenüber dem alten Recht restriktiver gefasst.
+- **[E. 2.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-7):** Bei Smartphones tangiert die Durchsuchung regelmässig persönliche Aufzeichnungen, doch ist substanziiert darzulegen, dass das Persönlichkeitsinteresse überwiegt.
+- **[E. 2.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344#e-2-8):** Angesichts der Schwere des Tatvorwurfs (Kokainhandel) überwiegt das Strafverfolgungsinteresse das Persönlichkeitsinteresse ohne Weiteres.
 
-### 3. BGer 7B_558/2025 — Nichtbeschuldigte sind siegelungsberechtigt; Arztgeheimnis; Verhältnismässigkeit
+### 4. [BGer 7B_558/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025) — Nichtbeschuldigte sind siegelungsberechtigt; Arztgeheimnis; Verhältnismässigkeit
 
-**Datum:** 20. April 2026 | **Docket:** 7B_558/2025
+**Datum:** 20. April 2026 | **Docket:** [7B_558/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025)
 
 **Kernsatz:** Auch Personen, die sich auf Siegelungsgründe im Sinne von Art. 264 Abs. 1 lit. a–c StPO berufen, im Strafverfahren aber nicht beschuldigt sind, sind siegelungsberechtigt (E. 3.1). Ein Ausschluss von Nichtbeschuldigten widerspräche Art. 197 Abs. 2 StPO. Bei der Verhältnismässigkeitsprüfung «im engeren Sinne» sind drei Konstellationen zu unterscheiden: Schwerverbrechen (vollumfängliche Entsiegelung), Bagatellfälle (Geheimhaltungsinteresse überwiegt), Mittelschwere Delikte (zeitlich/sachlich eingeschränkte Entsiegelung; E. 4.4.1). Das Durchsuchungshindernis des Arztgeheimnisses ist auch bei Nichtbeschuldigten von Bedeutung; bei Betroffenheit von Berufsgeheimnissen Dritter ist die Substanziierungspflicht nicht gleich streng zu handhaben (E. 5.3).
 
 **Erwägungen:**
-- **E. 3.1:** Siegelungsberechtigung auch von Nichtbeschuldigten; Widerspruch zu Art. 197 Abs. 2 StPO bei Ausschluss.
-- **E. 4.3.1:** Deliktskonnex; Beweiserheblichkeit ist für jede Sicherstellung einzeln zu prüfen.
-- **E. 4.4.1:** Drei Konstellationen der Verhältnismässigkeit (Schwerverbrechen, Bagatellfälle, Mittelschwere Delikte).
-- **E. 5.3:** Arztgeheimnis bei Nichtbeschuldigten; er leichterte Substanziierungspflicht bei Berufsgeheimnissen Dritter.
+- **[E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025#e-3-1):** Siegelungsberechtigung auch von Nichtbeschuldigten; Widerspruch zu Art. 197 Abs. 2 StPO bei Ausschluss.
+- **[E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025#e-4-3-1):** Deliktskonnex; Beweiserheblichkeit ist für jede Sicherstellung einzeln zu prüfen.
+- **[E. 4.4.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025#e-4-4-1):** Drei Konstellationen der Verhältnismässigkeit (Schwerverbrechen, Bagatellfälle, Mittelschwere Delikte).
+- **[E. 5.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025#e-5-3):** Arztgeheimnis bei Nichtbeschuldigten; erleichterte Substanziierungspflicht bei Berufsgeheimnissen Dritter.
 
-### 4. BGE 151 IV 350 — Verhältnismässigkeit der Durchsuchung von Privatgeheimnissen
+### 5. [BGE 151 IV 350](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350) — Verhältnismässigkeit der Durchsuchung von Privatgeheimnissen
 
-**Datum:** 13. August 2025 | **Signatur:** BGE 151 IV 350
+**Datum:** 13. August 2025 | **Signatur:** [BGE 151 IV 350](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350)
 
 **Kernsatz:** Die Durchsuchung von Privatgeheimnissen im Sinne von Art. 264 Abs. 1 lit. b StPO ist zulässig, wenn sie sich als geeignet, erforderlich und angemessen erweist, um das angestrebte Ziel zu erreichen. Sicherstellungen, die für die Strafuntersuchung offensichtlich irrelevant erscheinen, sind nicht zu entsiegeln. Bei der Beurteilung der Geeignetheit der Durchsuchung ist indessen nicht zu prüfen, ob grundsätzlich als untersuchungsrelevant erachtete Sicherstellungen Teilmengen enthalten, die für das Verfahren als irrelevant erscheinen. Es liegt in der Natur der Sache, dass bei der Durchsuchung auch Inhalte gesichtet werden, die sich als bedeutungslos erweisen.
 
 **Sachverhalt:** Beschwerdeführer wegen Kokainhandels beschuldigt; Siegelung von zwei Mobiltelefonen.
 
 **Erwägungen:**
-- **E. 2.5.2:** Art. 264 Abs. 1 lit. b StPO konkretisiert das Verhältnismässigkeitsprinzip. Die Durchsuchung muss sich als geeignet, erforderlich und angemessen erweisen.
-- **E. 2.5.3:** Der Deliktskonnex ist gesamthaft zu prüfen, nicht für jeden Gegenstand einzeln.
-- **E. 2.5.4:** Drei Konstellationen: (1) schwere Straftaten — vollumfängliche Entsiegelung; (2) Bagatellfälle — regelmässig höhere Gewichtung des Persönlichkeitsschutzes; (3) mittlere Fälle — sorgfältige Interessenabwägung.
-- **E. 2.5.5:** Bei schweren Betäubungsmitteldelikten überwiegt das Strafverfolgungsinteresse grundsätzlich ohne Weiteres.
+- **[E. 2.5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-2):** Art. 264 Abs. 1 lit. b StPO konkretisiert das Verhältnismässigkeitsprinzip. Die Durchsuchung muss sich als geeignet, erforderlich und angemessen erweisen.
+- **[E. 2.5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-3):** Der Deliktskonnex ist gesamthaft zu prüfen, nicht für jeden Gegenstand einzeln.
+- **[E. 2.5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-4):** Drei Konstellationen: (1) schwere Straftaten — vollumfängliche Entsiegelung; (2) Bagatellfälle — regelmässig höhere Gewichtung des Persönlichkeitsschutzes; (3) mittlere Fälle — sorgfältige Interessenabwägung.
+- **[E. 2.5.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_350#e-2-5-5):** Bei schweren Betäubungsmitteldelikten überwiegt das Strafverfolgungsinteresse grundsätzlich ohne Weiteres.
 
 ---
 
 ## II. Weitere Bundesgerichtsentscheide zum neuen Recht
 
-### 5. 7B_921/2023 — Altrechtliches Siegelungsbegehren, neurechtlicher Entscheid
+### 6. [BGer 7B_921/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_921_2023) — Altrechtliches Siegelungsbegehren, neurechtlicher Entscheid
 
 **Datum:** 8. April 2025 | **Docket:** 7B_921/2023
 
@@ -198,8 +218,20 @@ Per 1. Januar 2024 wurde die bisher geltende Bestimmung zur Siegelung (Art. 248 
 
 Stellt die Untersuchungsbehörde im Vorverfahren ein Entsiegelungsgesuch, hat der Entsiegelungsrichter auf entsprechende substanziierte Vorbringen von Siegelungsberechtigten hin zu prüfen, ob schutzwürdige Geheimnisinteressen oder andere gesetzliche Entsiegelungshindernisse einer Durchsuchung entgegenstehen (altrechtlich Art. 248 Abs. 2–4 StPO).
 
-### 20. BGer 7B_86/2022 — Mobiltelefone und Siegelung
+### 20. [BGer 7B_86/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_86_2022) — Mobiltelefone und Siegelung
 
-**Datum:** 13. Juli 2023 | **Docket:** 7B_86/2022
+**Datum:** 13. Juli 2023 | **Docket:** [7B_86/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_86_2022)
 
 Wenn Mobiltelefone und andere digitale Kommunikationsgeräte physisch sichergestellt werden und die Staatsanwaltschaft die gespeicherten Daten auswerten will, liegt grundsätzlich keine Fernmeldeüberwachung vor. Der Rechtsschutz erfolgt durch Siegelung (altrechtlich Art. 248 Abs. 1 StPO).
+
+---
+
+## VII. Audit-Protokoll
+
+Beim Audit vom 16.08.2026 wurden sämtliche Belegstellen und Kernaussagen über die OpenCaseLaw-MCP-Tools (`cite`, `get_regeste`, `get_erwaegung`, `check_claim_support` und `attest_response`) gegen die Primärquellen geprüft:
+
+* **[BGE 152 IV 107](https://mcp.opencaselaw.ch/entscheid/bge_152%20IV%20107) E. 5.7.8 f.** (Urteil 7B_550/2024 vom 23.01.2026): Vollständig gestützt (`supports: yes`, Confidence 0.99) – Grundsatz-Praxisänderung zu BGE 148 IV 221 betreffend vorsorgliche Datenspiegelung bei digitalem Beweisverlust.
+* **[BGE 151 IV 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_30) E. 2.4.1**: Gestützt für abschliessenden Geheimnisschutzkatalog nach revidierter StPO.
+* **[BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) E. 2.4 f.**: Gestützt für Interessenabwägung bei Smartphone-Durchsuchung.
+* **[BGer 7B_558/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_558_2025) E. 3.1**: Gestützt für Siegelungsberechtigung von Nichtbeschuldigten.
+* `agent_verified: true` ist gesetzt.
