@@ -86,7 +86,7 @@ Die Abgrenzung zwischen den Stufen ist tatrichterlich und hängt von den konkret
 
 **17** **Verwertungsverbot.** Aussagen, die unter Verletzung von Art. 3 EMRK (z.B. durch Folter oder Drohung) erzwungen wurden, sind absolut unverwertbar; dies ergibt sich aus der ständigen Rechtsprechung des EGMR zu Beweisen, die unter Verletzung des absoluten Folterverbots erlangt wurden ([EGMR, Jalloh v. Germany](https://hudoc.echr.coe.int/eng#%7B%22appno%22:%5B%2254810/00%22%5D%7D)).
 
-**18** **Verfahrensrechtliche Garantien.** Art. 3 EMRK i.V.m. Art. 6 EMRK garantiert, dass Beschuldigte nicht durch Folter oder unmenschliche Behandlung zu einem Geständnis gezwungen werden dürfen. Die Grenze zwischen zulässiger Einvernahmetaktik und unzulässiger Nötigung verläuft dort, wo die Willensfreiheit des Beschuldigten aufgehoben oder schwer beeinträchtigt wird ([BGE 143 I 304](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_304) E. 2.3).
+**18** **Verfahrensrechtliche Garantien.** Art. 3 EMRK i.V.m. Art. 6 EMRK garantiert, dass Beschuldigte nicht durch Folter oder unmenschliche Behandlung zu einem Geständnis gezwungen werden dürfen. Für verdeckte Ermittlung im Speziellen gilt: Der Entschluss des Beschuldigten zu schweigen ist zu respektieren; eine listenhafte Umgehung des Aussageverweigerungsrechts ist unzulässig ([BGE 143 I 304](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_304) E. 2.3).
 
 ## Querverweise
 
