@@ -12,6 +12,7 @@ revisions:
     model: "claude-sonnet-5"
     mcp_verified: true
     note: "Audit (Neuaufbau, Urteil C 19% -> B 62%, 0 offene Befunde): Gesetzestext lit. c fehlte der zweite Satzteil ('die Rüge der Unangemessenheit ist unzulässig, wenn eine kantonale Behörde als Beschwerdeinstanz verfügt hat') -- ergänzt, Abschnitt III entsprechend korrigiert (dies ist keine blosse Sondergesetz-Einschränkung, sondern in Art. 49 lit. c VwVG selbst verankert). BGE 133 II 35 war durchgängig als ENSI/BAFU/BFE-Zurückhaltungsdoktrin framet, betrifft tatsächlich die Überprüfungsbefugnis der Rekurskommission INUM im Abfall-/Umweltrecht (Altbatterien-Export, E. 3) -- Kernaussage korrigiert. Fünf BVGer-Asylentscheide waren mit spezifischen, erfundenen Rechtssätzen zitiert (Ermessensunterschreitungsdoktrin, Dublin-III-Selbsteintritt, medizinische Sachverhaltswürdigung); bei Verifikation enthielten diese Entscheide nur generische Eintretens-Erwägungen ohne die behaupteten Inhalte -- als Fehlzitate entfernt."
+  - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
     mcp_verified: true
