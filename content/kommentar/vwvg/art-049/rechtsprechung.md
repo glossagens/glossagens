@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 49 VwVG"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: 2026-08-16
 description: "Übersicht der Rechtsprechung zu Art. 49 VwVG — Beschwerdegründe, Kognition, Zurückhaltung bei Fachfragen."
 tags: ["Rechtsprechung", "VwVG", "Beschwerdegründe", "Kognition", "Zurückhaltung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Ausgangslage Urteil C 19%): BGE 133 II 35 war durchgängig als ENSI/BAFU/BFE-Zurückhaltungsdoktrin framet, betrifft tatsächlich die Überprüfungsbefugnis der Rekurskommission INUM im Abfall-/Umweltrecht (Altbatterien-Export) -- Kernaussage korrigiert. Fünf BVGer-Asylentscheide (E-1866/2015, D-7898/2015, D-2311/2016, E-3427/2021, E-1948/2018, E-5022/2017) waren mit spezifischen, erfundenen Rechtssätzen (Ermessensunterschreitungsdoktrin, Dublin-III-Selbsteintritt, medizinische Sachverhaltswürdigung) zitiert; bei Verifikation enthielten diese Entscheide nur generische Eintretens-Erwägungen ohne die behaupteten Inhalte -- als Fehlzitate entfernt. Wortlaut korrigiert: lit. c fehlte der zweite Satzteil zur Unzulässigkeit der Unangemessenheitsrüge bei kantonalen Vorinstanzen."
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -18,34 +23,10 @@ revisions:
 
 ## I. Leitentscheide
 
-### 1. BGE 133 II 35 — Überprüfungsbefugnis und Zurückhaltung bei technischen Fachfragen
-**[BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35)** (11. Dezember 2006)
-Überprüfungsbefugnis der Rekurskommissionen bzw. des Bundesverwaltungsgerichts nach Art. 49 VwVG im Umwelt- und Technologierecht. Auch wenn das Gesetz die Rüge der Unangemessenheit vorsieht, auferlegt sich das Gericht bei der Überprüfung von Spezialwissen und Fachentscheiden fachkundiger Behörden Zurückhaltung und greift nicht ein, wenn die vorinstanzliche Beurteilung vertretbar ist (E. 3).
-
-### 2. BVGer E-1866/2015 — Kognition im Asyl- und Wegweisungsverfahren
-**[BVGer E-1866/2015](https://mcp.opencaselaw.ch/entscheid/bvger_E-1866_2015)** (15. Juli 2016)
-Grundsätze der Rechts- und Sachverhaltkontrolle nach Art. 49 VwVG bei Beschwerden gegen Verfügungen des Staatssekretariats für Migration (SEM). Abgrenzung der Prüfungsdichte bei Glaubhaftigkeitsbeurteilungen.
-
-### 3. BVGer D-7898/2015 — Rügegründe bei Nichteintretens- und Wegweisungsverfügungen
-**[BVGer D-7898/2015](https://mcp.opencaselaw.ch/entscheid/bvger_D-7898_2015)** (30. Januar 2017)
-Prüfungsumfang des Bundesverwaltungsgerichts bei Ermessensentscheiden bezüglich der Zumutbarkeit des Wegweisungsvollzugs.
+### 1. BGE 133 II 35 — Überprüfungsbefugnis bei fachkundigen Rekurskommissionen
+**[BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35)** (11. Dezember 2006), E. 3
+Im Streit um die Verweigerung einer Exportbewilligung für Altbatterien (Frage der umweltverträglichen Entsorgung) bestätigte das Bundesgericht die Überprüfungsbefugnis der fachkundigen Rekurskommission INUM. Auch wenn das Gesetz die volle Kognition vorsieht, prüft die Rechtsmittelinstanz technische Fachfragen mit einer gewissen Zurückhaltung, ohne die fachliche Einschätzung der Vorinstanz durch eine eigene, freie Neubeurteilung zu ersetzen.
 
 ---
 
-## II. Weitere Entscheide
-
-### 4. BVGer D-2311/2016 — Sachverhaltskontrolle und Untersuchungsmaxime
-**[BVGer D-2311/2016](https://mcp.opencaselaw.ch/entscheid/bvger_D-2311_2016)** (17. August 2017)
-Art. 49 lit. b VwVG verpflichtet das Bundesverwaltungsgericht zur Korrektur unrichtiger oder unvollständiger Sachverhaltsfeststellungen der Vorinstanz.
-
-### 5. BVGer E-3427/2021 — Kognition im Dublin-Verfahren
-**[BVGer E-3427/2021](https://mcp.opencaselaw.ch/entscheid/bvger_E-3427_2021)** (28. März 2022)
-Eingeschränkte Kognition bezüglich der Ermessensausübung bei Selbsteintrittsrechten nach der Dublin-III-Verordnung.
-
-### 6. BVGer E-1948/2018 — Ermessensunterschreitung als Rechtsfehler
-**[BVGer E-1948/2018](https://mcp.opencaselaw.ch/entscheid/bvger_E-1948_2018)** (12. Juni 2018)
-Eine Ermessensunterschreitung (Rechtsfehler nach Art. 49 lit. a VwVG) liegt vor, wenn die Behörde sich fälschlicherweise als gebunden erachtet und das ihr gesetzlich eingeräumte Ermessen nicht ausübt.
-
-### 7. BVGer E-5022/2017 — Kognitionsgrenzen bei medizinischen Sachverhaltselementen
-**[BVGer E-5022/2017](https://mcp.opencaselaw.ch/entscheid/bvger_E-5022_2017)** (10. Juli 2018)
-Würdigung medizinischer Abklärungen im Beschwerdeverfahren nach Art. 49 VwVG.
+*Letzte Aktualisierung: 2026-08-16*

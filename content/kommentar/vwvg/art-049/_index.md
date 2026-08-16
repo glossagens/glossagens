@@ -2,12 +2,16 @@
 title: "Art. 49 VwVG — Beschwerdegründe"
 weight: 49
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 49 VwVG (SR 172.021): Beschwerdegründe — Rügegründe vor Bundesverwaltungsgericht, Kognition, Prüfungsdichte."
 tags: ["VwVG", "Beschwerdegründe", "Kognition", "Rechtsverletzung", "Sachverhaltsfeststellung", "Unangemessenheit"]
 agent_verified: true
 revisions:
-  - date: 2026-08-02
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Urteil C 19% -> B 62%, 0 offene Befunde): Gesetzestext lit. c fehlte der zweite Satzteil ('die Rüge der Unangemessenheit ist unzulässig, wenn eine kantonale Behörde als Beschwerdeinstanz verfügt hat') -- ergänzt, Abschnitt III entsprechend korrigiert (dies ist keine blosse Sondergesetz-Einschränkung, sondern in Art. 49 lit. c VwVG selbst verankert). BGE 133 II 35 war durchgängig als ENSI/BAFU/BFE-Zurückhaltungsdoktrin framet, betrifft tatsächlich die Überprüfungsbefugnis der Rekurskommission INUM im Abfall-/Umweltrecht (Altbatterien-Export, E. 3) -- Kernaussage korrigiert. Fünf BVGer-Asylentscheide waren mit spezifischen, erfundenen Rechtssätzen zitiert (Ermessensunterschreitungsdoktrin, Dublin-III-Selbsteintritt, medizinische Sachverhaltswürdigung); bei Verifikation enthielten diese Entscheide nur generische Eintretens-Erwägungen ohne die behaupteten Inhalte -- als Fehlzitate entfernt."
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
     mcp_verified: true
@@ -24,9 +28,9 @@ revisions:
 >
 > a. Verletzung von Bundesrecht einschliesslich Überschreitung oder Missbrauch des Ermessens;
 >
-> b. unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhalts;
+> b. unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhaltes;
 >
-> c. Unangemessenheit.
+> c. Unangemessenheit; die Rüge der Unangemessenheit ist unzulässig, wenn eine kantonale Behörde als Beschwerdeinstanz verfügt hat.
 
 Quelle: [Fedlex SR 172.021 Art. 49](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_49).
 
@@ -50,21 +54,21 @@ Die Beschwerdeinstanz prüft die Sachverhaltsermittlung der Vorinstanz umfassend
 Unangemessenheit liegt vor, wenn die Vorinstanz zwar innerhalb des gesetzlichen Ermessensrahmens gehandelt hat, die gewählte Lösung aber unzweckmässig oder unbillig erscheint. 
 
 #### Praxis-Einschränkung der Zurückhaltung bei der Unangemessenheitskontrolle:
-Obwohl das Gesetz die Rüge der Unangemessenheit vorsieht, auferlegt sich das Bundesverwaltungsgericht in der Praxis **Zurückhaltung**, wenn:
-- der Vorinstanz ein spezifisches technisches Fachwissen zusteht (z.B. im Umwelt- und Abfallrecht; [BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35), E. 3);
-- örtliche oder spezifische Verhältnisse zu beurteilen sind (vgl. [BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35), E. 3).
+Obwohl das Gesetz die Rüge der Unangemessenheit vorsieht, auferlegt sich die Beschwerdeinstanz in der Praxis **Zurückhaltung**, wenn der Vorinstanz bei der Beurteilung eines technischen Fachgebiets ein Beurteilungsspielraum zusteht: Im Umweltrecht (Export von Altbatterien, Frage der umweltverträglichen Entsorgung) hat das Bundesgericht die Überprüfungsbefugnis der fachkundigen Rekurskommission INUM bestätigt, ohne deren fachliche Einschätzung durch eine eigene, freie Neubeurteilung zu ersetzen ([BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35) E. 3).
 
-## III. Spezialgesetzliche Einschränkungen
+## III. Ausschluss der Unangemessenheitsrüge bei kantonalen Vorinstanzen
 
-Sondergesetze können die Kognition der Beschwerdeinstanz einschränken (z.B. im Asylrecht oder bei Entscheiden kantonaler Instanzen, wo die Unangemessenheitsrüge oft ausgeschlossen ist).
+Art. 49 lit. c VwVG selbst schränkt die Kognition ein: Die Rüge der Unangemessenheit ist **unzulässig, wenn eine kantonale Behörde als Beschwerdeinstanz verfügt hat**. In diesem Fall beschränkt sich die Prüfung durch die Bundesbeschwerdeinstanz auf die Rügegründe nach lit. a und b (Rechtsverletzung und unrichtige/unvollständige Sachverhaltsfeststellung).
+
+Daneben können Sondergesetze die Kognition zusätzlich einschränken (z.B. im Asylrecht).
 
 ## IV. Praxisfragen
 
 ### Praxisfrage 1: Wie unterscheidet sich Ermessensmissbrauch von Unangemessenheit?
 **Antwort:** Ermessensmissbrauch (lit. a) ist ein Rechtsfehler; die Behörde lässt sich von unsachlichen, zweckwidrigen Erwägungen leiten oder verletzt Verfassungsgrundsätze (Willkür, Verhältnismässigkeit). Unangemessenheit (lit. c) liegt vor, wenn der Entscheid zwar rechtmässig und sachlich vertretbar ist, aber eine unzweckmässige Ermessensausübung darstellt.
 
-### Praxisfrage 2: Wie weit prüft das Bundesverwaltungsgericht Fachfragen im Umwelt- und Energierecht?
-**Antwort:** Das Gericht verfügt zwar über volle Kognition, greift jedoch in Ermessens- und Fachentscheide spezialisierter Bundesbehörden (z.B. BAFU, BFE, ENSI) nicht ohne Not ein, solange die Behörde alle wesentlichen Aspekte berücksichtigt hat und die Lösung sachgerecht erscheint (vgl. [BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35), E. 3).
+### Praxisfrage 2: Wie weit prüft die Beschwerdeinstanz Fachfragen im Umweltrecht?
+**Antwort:** Die Beschwerdeinstanz verfügt zwar über volle Kognition, überprüft aber Entscheide fachkundiger Rekurskommissionen bei technischen Fragen (etwa zur umweltverträglichen Entsorgung im Abfallrecht) mit einer gewissen Zurückhaltung, ohne die fachliche Einschätzung durch eine eigene, freie Neubeurteilung zu ersetzen ([BGE 133 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_II_35) E. 3).
 
 ## V. Querverweise
 
