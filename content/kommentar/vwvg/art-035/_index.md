@@ -2,11 +2,16 @@
 title: "Art. 35 VwVG — Form und Begründung der Verfügung"
 weight: 35
 date: 2026-08-02
-lastmod: 2026-08-09
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 35 VwVG (SR 172.021): Eröffnung der Verfügung — Schriftlichkeit, Begründungspflicht, Bezeichnung, Rechtsmittelbelehrung."
 tags: ["VwVG", "Verfügung", "Begründungspflicht", "Rechtliches Gehör", "Rechtsmittelbelehrung", "Eröffnung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Urteil C 32% -> B 76%, 0 offene Befunde): Die Hermes-Agent-Supplementierung vom 2026-08-09 (trotz Vermerk 'OCL-verifiziert') erwies sich als weitgehend fabriziert -- 5 von 6 ergaenzten Zitaten (BGE 133 I 100, 139 I 72, 140 V 282, 146 II 56, 150 I 50) waren themenfremd oder falsch zugeordnet (u.a. BGE 146 II 56 zu ETH-Studienreglement, BGE 150 I 50 zu Gefaengnis-Intimbesuchen -- beide ohne jeden Bezug zu Art. 35 VwVG). Alle fuenf entfernt und durch verifizierte Entscheide ersetzt (BGE 131 II 200, 108 V 130, 125 II 369, 125 V 351, 135 V 65). BGer 1C_313/2026 (Pinpoint E. 4 existierte nicht) auf E. 2.4 korrigiert -- inhaltlich real und einschlaegig. Wortlaut-Abweichungen in Abs. 2/3 (fehlendes 'zulaessige', 'voll' statt 'vollstaendig') korrigiert. BGE 126 III 449 und BGE 130 II 530 als vollstaendig themenfremde Fehlzitate entfernt."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -27,9 +32,9 @@ revisions:
 >
 > **1** Schriftliche Verfügungen sind, auch wenn die Behörde sie in Briefform eröffnet, als solche zu bezeichnen, zu begründen und mit einer Rechtsmittelbelehrung zu versehen.
 >
-> **2** Die Rechtsmittelbelehrung muss das ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist nennen.
+> **2** Die Rechtsmittelbelehrung muss das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist nennen.
 >
-> **3** Die Behörde kann auf Begründung und Rechtsmittelbelehrung verzichten, wenn sie den Begehren der Parteien vollständig entspricht und keine Partei eine Begründung verlangt.
+> **3** Die Behörde kann auf Begründung und Rechtsmittelbelehrung verzichten, wenn sie den Begehren der Parteien voll entspricht und keine Partei eine Begründung verlangt.
 
 Quelle: [Fedlex SR 172.021 Art. 35](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_35).
 
@@ -44,11 +49,9 @@ Verfügungen sind schriftlich zu erlassen und ausdrücklich als **Verfügung** z
 
 ### 2. Begründungspflicht (Abs. 1)
 Die Behörde ist verpflichtet, ihre Verfügungen zu **begründen**.
-- Die Begründung muss so abgefasst sein, dass der Betroffene die Tragweite des Entscheids erfassen und ihn sachgerecht anfechten kann ([BGE 124 V 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_180), E. 4b).
-- Besondere Begründungsanforderungen gelten bei Verfügungen im Rahmen des Öffentlichkeitsgesetzes (BGÖ; [BGE 142 II 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_324), E. 3.6).
-- Die Begründungspflicht ist Ausfluss von Art. 29 Abs. 2 BV und erstreckt sich auf alle wesentlichen Erwägungen, von denen die Behörde sich hat leiten lassen. Eine blosse Zusammenfassung reicht nicht aus, wenn die tragenden Gründe nicht erkennbar sind ([BGE 133 I 100](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_100), E. 2).
-- Im kartellrechtlichen Sanktionsverfahren sind an die Begründung von Sanktionsentscheiden erhöhte Anforderungen zu stellen, namentlich bei der Feststellung des relevanten Marktes und der Marktmacht ([BGE 139 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_72), E. 6).
-- Eine implizite Begründung genügt den Anforderungen von Art. 29 Abs. 2 BV nicht, wenn unterschiedliche rechtliche Fragen (z.B. Verzicht auf Gerichtskosten vs. Dépens-Verweigerung) in einem einzigen Dispositiv zusammengefasst werden, ohne dass die tragenden Gründe für jede Frage einzeln erkennbar sind ([BGer 1C_313/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_313_2026), E. 4).
+- Die Begründung muss so abgefasst sein, dass der Betroffene die Tragweite des Entscheids erfassen und ihn sachgerecht anfechten kann; die Behörde muss die wesentlichen Überlegungen nennen, muss sich aber nicht mit jedem einzelnen Argument der Partei auseinandersetzen ([BGE 124 V 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_180) E. 4b).
+- Besondere Begründungsanforderungen gelten bei Verfügungen im Rahmen des Öffentlichkeitsgesetzes (BGÖ; [BGE 142 II 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_324) E. 3.6).
+- Eine implizite Begründung genügt nicht, wenn der Entscheid, weshalb ein Antrag (hier: auf Parteientschädigung) abgewiesen wird, den Erwägungen der angefochtenen Verfügung nicht entnommen werden kann — eine solche Begründungslosigkeit verletzt den Anspruch auf rechtliches Gehör ([BGer 1C_313/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_313_2026#e-2-4) E. 2.4).
 
 ### 3. Rechtsmittelbelehrung (Abs. 2)
 Die Rechtsmittelbelehrung ist zwingender Bestandteil der Verfügung. Sie muss drei Elemente enthalten:
@@ -56,7 +59,7 @@ Die Rechtsmittelbelehrung ist zwingender Bestandteil der Verfügung. Sie muss dr
 2. Die **zuständige Rechtsmittelinstanz** mit genauer Adressangabe.
 3. Die **Rechtsmittelfrist** (z.B. 30 Tage).
 
-Fehlt die Rechtsmittelbelehrung oder ist sie unrichtig, so wird die Rechtsmittelfrist nicht in Lauf gesetzt (Art. 38 Abs. 2 VwVG; vgl. auch [BGE 126 III 449](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_III_449)).
+Fehlt die Rechtsmittelbelehrung oder ist sie unrichtig, so wird die Rechtsmittelfrist nicht in Lauf gesetzt (Art. 38 Abs. 2 VwVG).
 
 ## III. Verzicht auf Begründung und Rechtsmittelbelehrung (Abs. 3)
 
@@ -70,17 +73,15 @@ Mängel bei der Eröffnung (fehlende oder mangelhafte Begründung, unrichtige Re
 - Mangelhafte Begründungen können im Beschwerdeverfahren geheilt werden, wenn die Rechtsmittelinstanz über volle Kognition verfügt und der Partei keine Nachteile erwachsen.
 - Eine unrichtige Rechtsmittelfrist führt dazu, dass eine verspätete Beschwerde als rechtzeitig gilt, sofern sich die Partei in guten Treuen auf die Angabe verlassen durfte.
 
-## V. Begründungspflicht und Rückweisungsentscheide
+## V. Begründungspflicht in weiteren Konstellationen
 
-Eine besondere Problematik der Begründungspflicht ergibt sich bei **Rückweisungsentscheiden**: Das Bundesgericht hat wiederholt betont, dass die kantonale Instanz nach Rückweisung die rechtlichen Fragen umfassend zu beantworten hat und sich nicht mit einer pauschalen Verweisung auf die Erwägungen des Bundesgerichts begnügen darf ([BGE 140 V 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_V_282), E. 4.2). Die Begründungspflicht wird dabei durch den konkreten Rückweisungsgrund bestimmt — die vorinstanzliche Behörde muss die für den Einzelfall massgeblichen Gesichtspunkte in der Verfügung darlegen.
+Bereits das Bewilligungsgesuch selbst ist zu begründen (Art. 49 Abs. 1 ArG i.V.m. Art. 41 f. ArGV 1), und die Bewilligungsverfügung hat Rechtsgrundlage und Begründung anzuführen ([BGE 131 II 200](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_200#e-4-1) E. 4.1). Die Begründungspflicht nach Art. 35 Abs. 1 VwVG gilt ebenso im Sozialversicherungsrecht: Bei Verfügungen über die Aufnahme von Arzneimitteln in die Spezialitätenliste muss die Begründung erkennen lassen, weshalb die Wirtschaftlichkeitsprüfung zum konkreten Ergebnis führt ([BGE 108 V 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_130#e-3) E. 3 f.).
 
-Ebenso hat das Bundesgericht die Begründungspflicht bei Verfügungen im Rahmen der Prämienverbilligung (Art. 65 Abs. 3 KVG) präzisiert: Die kantonale Instanz muss bei einseitiger Aktualisierung von Einkommens- oder Bedarfsdaten die Gründe für die Nichtberücksichtigung anderer Parameter darlegen ([BGE 146 II 56](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_56), E. 9.1).
+Ein Verzicht auf schriftliche Begründung kommt nur ausnahmsweise und unter strengen Voraussetzungen in Betracht: Bei der Ausschaffungshaft ist ein Verzicht auf schriftliche Begründung des Haftrichterentscheids nur gültig, wenn die betroffene Person ausdrücklich darauf verzichtet und die Voraussetzungen von Art. 35 Abs. 3 VwVG erfüllt sind — andernfalls liegt eine Verletzung der Begründungspflicht vor ([BGE 125 II 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_II_369#e-2) E. 2).
 
-## VI. Willkürkontrolle und Begründungspflicht
+## VI. Vertrauensschutz und Begründungspflicht
 
-Das Bundesgericht überprüft die Begründung von Verfügungen unter dem Willkürmassstab (Art. 9 BV). Eine Begründung ist nicht schon deshalb willkürlich, weil sie knapp oder nicht mustergültig formuliert ist — massgebend ist, ob die tragenden Überlegungen für den Adressaten erkennbar sind ([BGE 150 I 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_50), E. 3.3.1). Dagegen genügt eine blosse appellatorische Kritik (pauschale Behauptung, die Verfügung sei falsch begründet) nicht den Substanziierungsanforderungen im Beschwerdeverfahren.
-
-Im Vertrauensschutz bei geänderter Rechtsprechung hat das Bundesgericht klargestellt, dass auch eine geänderte Rechtsprechung zur Fristberechnung bei Kostenregelungen der Begründung bedarf — die Parteien müssen in die Lage versetzt werden, die Tragweite des Entscheids zu verstehen ([BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551), E. 5).
+Im Vertrauensschutz bei geänderter Rechtsprechung hat das Bundesgericht klargestellt, dass auch eine geänderte Rechtsprechung zur Fristberechnung bei Kostenregelungen der Begründung bedarf — die Parteien müssen in die Lage versetzt werden, die Tragweite des Entscheids zu verstehen ([BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551) E. 3 f.). Auch ein gerichtlicher Abschreibungsbeschluss nach Zustandekommen eines Vergleichs muss zumindest summarisch begründen, dass und inwiefern der Vergleich mit Sachverhalt und Gesetz übereinstimmt ([BGE 135 V 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_65) E. 2.1 ff.).
 
 ## VII. Praxisfragen
 
@@ -91,7 +92,7 @@ Im Vertrauensschutz bei geänderter Rechtsprechung hat das Bundesgericht klarges
 **Antwort:** Das Bundesamt für Sozialversicherungen ist in der Begründung seiner Verfügungen frei und nicht an die Stellungnahmen der Eidgenössischen Arzneimittelkommission gebunden ([BGE 118 V 56](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_V_56), E. 3).
 
 ### Praxisfrage 3: Wann ist eine implizite Begründung ausreichend?
-**Antwort:** Eine implizite Begründung genügt nur ausnahmsweise, wenn sich die tragenden Erwägungen zweifelsfrei aus dem Zusammenhang ergeben. Die blosse Ablehnung eines Begehrens ohne Darlegung der Gründe verstösst gegen Art. 29 Abs. 2 BV ([BGE 133 I 100](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_100), E. 2; [BGer 1C_313/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_313_2026), E. 4).
+**Antwort:** Eine implizite Begründung genügt nur ausnahmsweise, wenn sich die tragenden Erwägungen zweifelsfrei aus dem Zusammenhang ergeben; eine Begründung kann nicht schon daraus abgeleitet werden, dass der Entscheid aus Billigkeitsgründen kosten- oder unentgeltlichkeitsrechtlich günstig ausfiel — eine solche Begründungslosigkeit verstösst gegen Art. 29 Abs. 2 BV ([BGer 1C_313/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_313_2026#e-2-4) E. 2.4).
 
 ## VIII. Querverweise
 

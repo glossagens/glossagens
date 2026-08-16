@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 35 VwVG"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-09
+lastmod: 2026-08-16
 description: "Übersicht der Rechtsprechung zu Art. 35 VwVG — Form und Begründung der Verfügung, Rechtsmittelbelehrung, Gehörsanspruch."
 tags: ["Rechtsprechung", "VwVG", "Begründungspflicht", "Verfügung", "Rechtsmittelbelehrung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Urteil C 32% -> B 76%, 0 offene Befunde): 5 der 6 von Hermes Agent ergaenzten Zitate (BGE 133 I 100, 139 I 72, 140 V 282, 146 II 56, 150 I 50) waren trotz Vermerk 'OCL-verifiziert' themenfremd bzw. falsch zugeordnet -- entfernt und durch verifizierte Entscheide (BGE 131 II 200, 108 V 130, 125 II 369, 125 V 351, 135 V 65) ersetzt. BGer 1C_313/2026 Pinpoint auf E. 2.4 korrigiert. BGE 130 II 530 (Fehlzitat, betrifft Art. 32 BEHG statt VwVG) entfernt."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -35,13 +40,9 @@ Die Anforderungen an die Begründung von Verfügungen im Rahmen des Öffentlichk
 **[BGE 118 V 56](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_V_56)** (30. Januar 1992)
 Das Bundesamt ist in der Begründung seiner Verfügungen grundsätzlich frei. Weicht es jedoch von den Anträgen oder Gutachten von Fachkommissionen ab, hat es in der Verfügung die sachlichen Gründe für das Abweichen ausdrücklich darzulegen (E. 3).
 
-### 4. BGE 133 I 100 — Anspruch auf rechtliches Gehör, Replikrecht
-**[BGE 133 I 100](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_100)** (2007)
-Der Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) umfasst die Pflicht der Behörde, ihre Verfügung so zu begründen, dass die tragenden Erwägungen für den Adressaten erkennbar sind. Eine blosse Zusammenfassung ohne Darlegung der massgeblichen Gründe genügt den verfassungsrechtlichen Anforderungen nicht. Der Verwaltungsrichter muss die Gründe seines Entscheids angeben, damit der Betroffene die Tragweite beurteilen kann (E. 2).
-
-### 5. BGE 131 II 200 — Inhaltliche Bestimmtheit und Streitgegenstand
-**[BGE 131 II 200](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_200)** (16. Februar 2005)
-Das Dispositiv und die Begründung einer Verfügung nach Art. 35 VwVG begrenzen den Streitgegenstand des nachfolgenden Rechtsmittelverfahrens. Die Anforderungen an ein Bewilligungsgesuch und dessen behördliche Beurteilung (E. 3).
+### 4. BGE 131 II 200 — Begründung des Bewilligungsgesuchs und -entscheids
+**[BGE 131 II 200](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_200#e-4-1)** (16. Februar 2005)
+Gemäss Art. 49 Abs. 1 ArG hat der Arbeitgeber Gesuche für gesetzlich vorgesehene Bewilligungen (hier: Sonntagsarbeit) zu begründen; die Bewilligungsverfügung selbst hat nach Art. 42 ArGV 1 Rechtsgrundlage und Begründung anzuführen (E. 4.1).
 
 ### 6. BGE 113 II 204 — Auslagerung der Begründung in ein separates Schriftstück
 **[BGE 113 II 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_113_II_204)** (9. Dezember 1986)
@@ -52,41 +53,25 @@ Die Begründung braucht nicht zwingend im selben Schriftstück enthalten zu sein
 ## II. Weitere Entscheide
 
 ### 7. BGE 108 V 130 — Begründung im Arzneimittelrecht (Spezialitätenliste)
-**[BGE 108 V 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_130)** (1. Januar 1982)
-Anforderungen an die Begründung einer Verfügung über die Aufnahme oder Ablehnung von Arzneimitteln in die Spezialitätenliste des BSV (E. 3, 4).
+**[BGE 108 V 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_130#e-3)** (18. August 1982)
+Anforderungen an die Begründung einer Verfügung über die Aufnahme von Arzneimitteln in die Spezialitätenliste des BSV — wann genügt die Begründung im Lichte der Wirtschaftlichkeitsprüfung? (E. 3 f.).
 
-### 8. BGE 125 II 369 — Eröffnungsmängel und verfassungsrechtlicher Gehörsanspruch
-**[BGE 125 II 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_II_369)** (29. Juni 1999)
-Ein Verzicht auf eine schriftliche Begründung ist bei schweren Grundrechtseingriffen (z.B. Ausschaffungshaft) unzulässig und verletzt Art. 35 VwVG sowie die Rechtswegsgarantie (E. 2).
+### 8. BGE 125 II 369 — Verzicht auf schriftliche Begründung bei Ausschaffungshaft
+**[BGE 125 II 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_II_369#e-2)** (29. Juni 1999)
+Voraussetzungen der Gültigkeit eines Verzichts auf schriftliche Begründung des Haftrichterentscheids bei Ausschaffungshaft (Art. 35 Abs. 3 VwVG) und Folgen bei unzulässigem Verzicht (E. 2).
 
-### 9. BGE 130 II 530 — Begründungspflicht bei Übernahmeangeboten (BEHG)
-**[BGE 130 II 530](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_530)** (25. August 2004)
-Die Eröffnung und Begründung von Verfügungen der Übernahmekommission bzw. EBK/FINMA. Erhöhte Anforderungen an die Begründung bei komplexen kapitalmarktrechtlichen Vorgängen (E. 2.1).
-
-### 10. BGE 125 V 351 — Beweiswürdigung und Parteigutachten im VwVG-Verfahren
+### 9. BGE 125 V 351 — Beweiswürdigung und Parteigutachten im VwVG-Verfahren
 **[BGE 125 V 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_351)** (14. Juni 1999)
-Die Begründungspflicht im Verwaltungsverfahren umfasst auch die Auseinandersetzung mit Parteigutachten, wenn diese erheblich und substantiiert sind. Die Behörde darf nicht über erhebliche Beweismittel hinweggehen, ohne sich damit auseinanderzusetzen (E. 4).
+Ein Parteigutachten besitzt nicht denselben Rang wie ein vom Gericht oder Unfallversicherer eingeholtes Gutachten. Der Richter ist jedoch verpflichtet zu prüfen, ob das Parteigutachten die Schlussfolgerungen des formell bestellten Gutachters derart zu erschüttern vermag, dass davon abzuweichen ist.
 
-### 11. BGE 135 V 65 — Begründung von Abschreibungsbeschlüssen bei Vergleichen
-**[BGE 135 V 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_65)** (7. Juni 2006)
-Anforderungen an die Begründung eines behördlichen oder gerichtlichen Abschreibungsbeschlusses nach Zustandekommen eines Vergleichs im Sozialversicherungsrecht (E. 2.2).
+### 10. BGE 135 V 65 — Begründung von Abschreibungsbeschlüssen bei Vergleichen
+**[BGE 135 V 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_65)** (13. Februar 2009)
+Der Beschluss, mit welchem ein Gericht das Verfahren infolge eines Vergleichs abschreibt, muss zumindest eine summarische Begründung enthalten, welche darlegt, dass und inwiefern der Vergleich mit Sachverhalt und Gesetz übereinstimmt (E. 2.1–2.6).
 
-### 12. BGE 139 I 72 — Begründungspflicht bei kartellrechtlichen Sanktionen
-**[BGE 139 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_72)** (2013)
-Erhöhte Begründungsanforderungen bei Sanktionsentscheiden im Kartellrecht. Die Behörde muss die Feststellung des relevanten Marktes und die Marktmacht des Betroffenen in der Verfügung substantiiert begründen (E. 6). Dient der Transparenz und Nachvollziehbarkeit der Sanktionsbemessung.
+### 11. BGE 142 V 551 — Vertrauensschutz bei geänderter Rechtsprechung und Begründungspflicht
+**[BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551)** (19. August 2016)
+Die bisherige Praxis, wonach bei Kostenregelungen in Rückweisungsentscheiden erst die Rechtskraft (und nicht bereits die Eröffnung) der neuen Verfügung fristauslösend wirkt, wurde mit BGE 142 II 363 geändert; die neue, sofort anwendbare Praxis durfte jedoch nicht ohne Weiteres rückwirkend zulasten einer Partei angewendet werden, die auf die frühere Praxis vertraut hatte — Vertrauensschutzprinzip (E. 3 f.).
 
-### 13. BGE 140 V 282 — Begründungspflicht bei Rückweisungsentscheiden
-**[BGE 140 V 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_V_282)** (2014)
-Die kantonale Instanz muss nach Rückweisung durch das Bundesgericht die rechtlichen Fragen umfassend beantworten und darf sich nicht mit einer pauschalen Verweisung auf die Erwägungen des Bundesgerichts begnügen. Die Begründungspflicht wird durch den konkreten Rückweisungsgrund bestimmt (E. 4.2).
-
-### 14. BGE 146 II 56 — Begründungspflicht bei Prämienverbilligung (KVG)
-**[BGE 146 II 56](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_56)** (2020)
-Die kantonale Instanz muss bei einseitiger Aktualisierung von Einkommens- oder Bedarfsdaten im Rahmen der Prämienverbilligung die Gründe für die Nichtberücksichtigung anderer Parameter darlegen. Ein Schematismus ist nicht gerechtfertigt, wenn massgebliche Parameter einseitig aktualisiert werden (E. 9.1).
-
-### 15. BGE 150 I 50 — Willkürkontrolle der Begründung
-**[BGE 150 I 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_50)** (2024)
-Das Bundesgericht überprüft die Begründung von Verfügungen unter dem Willkürmassstab (Art. 9 BV). Eine Begründung ist nicht schon deshalb willkürlich, weil sie knapp oder nicht mustergültig formuliert ist — massgebend ist, ob die tragenden Überlegungen für den Adressaten erkennbar sind (E. 3.3.1).
-
-### 16. BGE 142 V 551 — Vertrauensschutz bei geänderter Rechtsprechung und Begründungspflicht
-**[BGE 142 V 551](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_551)** (2016)
-Auch eine geänderte Rechtsprechung zur Fristberechnung bei Kostenregelungen bedarf der Begründung — die Parteien müssen in die Lage versetzt werden, die Tragweite des Entscheids zu verstehen. Vertrauensschutz bei geänderter Praxis (E. 5).
+### 12. BGer 1C_313/2026 — Begründungslosigkeit bei Dépens-Verweigerung
+**[BGer 1C_313/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_313_2026#e-2-4)** (15. Juli 2026)
+Der Verzicht auf die Zusprechung von Parteientschädigung (dépens) ohne jede Begründung in den Erwägungen der angefochtenen Entscheidung verletzt den Anspruch auf rechtliches Gehör; eine implizite Begründung kann nicht daraus abgeleitet werden, dass die Verfügung kostenlos erging oder die unentgeltliche Rechtspflege mangels Erfolgsaussichten verweigert wurde (E. 2.4).
