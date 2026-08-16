@@ -2,10 +2,16 @@
 title: "Art. 46 — Selbstständige Anfechtbarkeit von Zwischenverfügungen"
 weight: 46
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 46 VwVG – Selbstständige Anfechtbarkeit von Zwischenverfügungen"
 tags: ["VwVG", "Zwischenverfügung", "Anfechtung", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B 60% -> A 83%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 137 V 210 fehlte ein Pinpoint (nur allgemein zitiert), wodurch die Prüfung gegen die zu breite Regeste erfolgte -- Anker auf die tatsächlich einschlägige E. 3.4.2.6 ergänzt. BGE 138 V 271 Kernaussage war zu allgemein charakterisiert und der Pinpoint (E. 1) existierte nicht -- auf E. 4 (die tatsächliche Schlussfolgerung) korrigiert."
 ---
 
 ## Gesetzeswortlaut
@@ -27,7 +33,7 @@ Ein **nicht wieder gutzumachender Nachteil** liegt vor, wenn die Zwischenverfüg
 - Irreparable Rechtsgüterverletzungen bewirken kann
 - Den Rechtsschutz bei bloßem Abwarten der Endverfügung praktisch vereiteln würde
 
-Praxisrelevant: Die **Anordnung eines medizinischen Gutachtens** kann einen nicht wieder gutzumachenden Nachteil bewirken und ist daher unter Art. 46 Abs. 1 lit. a VwVG selbstständig anfechtbar ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)). Dies gilt jedoch nicht pauschal für jede Gutachtenverfügung ([BGE 138 V 271](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_V_271)).
+Praxisrelevant: Kommt bei der Einholung eines MEDAS-Gutachtens keine Einigung über die Gutachterstelle zustande, ist die Anordnung in Form einer **selbstständig anfechtbaren Zwischenverfügung** zu erlassen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210#e-3-4-2-6) E. 3.4.2.6). Kantonale Entscheide und solche des Bundesverwaltungsgerichts über Beschwerden gegen solche Gutachtensverfügungen sind ihrerseits nur dann an das Bundesgericht weiterziehbar, wenn Ausstandsgründe zu beurteilen waren ([BGE 138 V 271](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_V_271#e-4) E. 4).
 
 ### Abs. 1 lit. b — Verfahrensökonomie
 
@@ -44,6 +50,6 @@ Ist die selbstständige Anfechtung nicht zulässig oder wurde von ihr kein Gebra
 
 ### Kasuistik
 
-- **MEDAS-Gutachten**: Verfügung über Einholung medizinischer Gutachten kann unter Art. 46 Abs. 1 lit. a selbstständig anfechtbar sein ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210))
+- **MEDAS-Gutachten**: Bei fehlender Einigung über die Gutachterstelle ist die Anordnung durch selbstständig anfechtbare Zwischenverfügung zu erlassen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210#e-3-4-2-6) E. 3.4.2.6)
 - **Zusatzfragen an Gutachter**: Verfügung über Zulassung/Ablehnung von Zusatzfragen ([BGE 141 V 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_330))
 - **Auskunftsrecht**: Auskunftsrecht einer Versicherten im UV-Verfahren ([BGE 123 II 534](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_II_534))
