@@ -8,5 +8,5 @@ venv/
 .env.save
 __pycache__/
 *.pyc
-
+.DS_Store
 audit-report.json

@@ -1,7 +1,7 @@
 ---
 name: glossagens-contributor
-description: Contribute legal commentary suggestions to Glossagens — a public Swiss law commentary platform. Research statute text, doctrine, and case law, then submit additions via GitHub Issues or pull requests.
-version: 1.0.0
+description: Contribute legal commentary suggestions to Glossagens — a public Swiss law commentary platform. Research statute text, doctrine, and case law, then audit and submit additions via GitHub Issues or pull requests.
+version: 1.1.0
 author: Glossagens
 license: CC BY-SA 4.0
 tools:
@@ -11,15 +11,21 @@ tools:
   - mcp_opencaselaw_search_decisions
   - mcp_opencaselaw_find_leading_cases
   - mcp_opencaselaw_find_citations
+  - mcp_opencaselaw_cite
+  - mcp_opencaselaw_get_erwaegung
+  - mcp_opencaselaw_find_relevant_erwaegung
+  - mcp_opencaselaw_check_claim_support
+  - mcp_opencaselaw_get_article_history
+  - mcp_opencaselaw_attest_response
   - web_fetch
   - terminal
 ---
 
 # Glossagens Contributor Skill
 
-Contribute to **Glossagens** — a public, agent-maintained commentary on Swiss federal law at https://glossagens.github.io/glossagens/.
+Contribute to **Glossagens** — a public, agent-maintained commentary on Swiss federal law at https://glossagens.ch/.
 
-Anyone (human or agent) can suggest additions. The Glossagens Hermes agent reviews all submissions and implements suitable ones autonomously.
+Anyone (human or agent) can suggest additions. The Glossagens agent reviews all submissions and implements suitable ones autonomously.
 
 ## What you can contribute
 
@@ -44,17 +50,17 @@ This returns all covered laws. To list articles within a law:
 GET https://api.github.com/repos/glossagens/glossagens/contents/content/kommentar/{gesetz}
 ```
 
-Example: `.../contents/content/kommentar/stpo` lists all `art-NNN` directories.
+Example: `.../contents/content/kommentar/stpo` lists all `art-025` directories.
 
 To check a specific article URL directly:
 
 ```
-GET https://glossagens.ch/kommentar/{gesetz}/art-{NNN}/
+GET https://glossagens.ch/kommentar/{gesetz}/art-{nr}/
 ```
 
 ## Step 2: Research the article (if submitting a new commentary)
 
-Use the opencaselaw MCP to gather source material. Make **parallel calls** in one message:
+Use the opencaselaw / fedlex MCP tools to gather source material. Make **parallel calls** in one message:
 
 ```
 get_law(abbreviation='<ABBREV>', article='<N>', language='de')
@@ -84,12 +90,58 @@ Law abbreviation → SR number mapping:
 | StGB  | 311.0   | Strafgesetzbuch            |
 | OR    | 220     | Obligationenrecht          |
 | ZGB   | 210     | Zivilgesetzbuch            |
+| ZPO   | 272     | Zivilprozessordnung        |
 | BV    | 101     | Bundesverfassung           |
 | BGG   | 173.1   | Bundesgerichtsgesetz       |
 | VwVG  | 172.021 | Verwaltungsverfahrensgesetz |
 | SchKG | 281.1   | SchKG                      |
 
-## Step 3: Submit via GitHub Issue (recommended)
+## Step 3: Self-Audit & Quality Check (Pre-Submission Verification)
+
+Before submitting an article via PR or issue, perform self-audit checks against the OpenCaseLaw MCP tools to ensure zero hallucinations:
+
+### 1. Existence & Canonical Links (`cite`)
+Verify that every cited decision exists. `cite` returns canonical citation strings, exact markdown links, and `close_matches` if a citation is slightly off:
+```
+cite(citation='BGE 144 IV 202')
+```
+
+### 2. Pinpoint Verification (`get_erwaegung` / `find_relevant_erwaegung`)
+Verify that the cited consideration exists (e.g. `E. 2.1`):
+```
+get_erwaegung(decision_id='bge_BGE_144_IV_202', erwaegung='2')
+```
+If unsure which consideration contains the legal principle, use:
+```
+find_relevant_erwaegung(decision_id='bge_BGE_144_IV_202', query='<Thema oder Behauptung>')
+```
+
+### 3. Claim Grounding (`check_claim_support`)
+For each assertion in your draft, verify that the cited decision actually supports the proposition:
+```
+check_claim_support(
+    claim='Die Beschwerde in Strafsachen ist grundsätzlich innert 30 Tagen einzureichen.',
+    decision_id='bge_BGE_144_IV_202',
+    erwaegung='2'
+)
+```
+- **`yes`**: The claim is fully supported.
+- **`partial`**: Claim is broader than the ruling — refine wording to include specific conditions.
+- **`no` / `contradicts` / `unrelated`**: The decision does not support the claim. Remove the citation or adjust the text.
+
+### 4. Revision Currency (`get_article_history`)
+Check whether cited precedents predate significant statutory revisions:
+```
+get_article_history(abbreviation='StPO', article='25')
+```
+
+### 5. Final Attestation (`attest_response`)
+Validate your complete drafted section before finalizing:
+```
+attest_response(draft_text='<Dein Entwurfstext>', audit_grounding=true)
+```
+
+## Step 4: Submit via GitHub Issue (recommended)
 
 Create an issue using the structured template:
 
@@ -97,7 +149,7 @@ Create an issue using the structured template:
 
 **Issue template fields**:
 - `typ`: One of `neuer_artikel`, `korrektur`, `rechtsprechung`, `gesetzesaenderung`
-- `gesetz`: Law abbreviation (e.g. `StPO`, `OR`, `ZGB`)
+- `gesetz`: Law abbreviation (e.g. `StPO`, `OR`, `ZGB`, `ZPO`)
 - `artikel`: Article number(s) (e.g. `25` or `25-30`)
 - `beschreibung`: Description of the contribution
 - `quellen`: BGE citations or literature (optional but recommended)
@@ -114,22 +166,22 @@ Create an issue using the structured template:
 **Bedeutung**:
 [2-3 sentences on significance]
 
-**Leitentscheide** (aus find_leading_cases):
-- BGE XXX XX XX — [one-line summary]
+**Leitentscheide** (aus find_leading_cases / verifiziert mit cite):
+- [BGE 144 IV 202 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_202) — [one-line summary]
 
 **Weitere Hinweise**:
 [anything else relevant]
 ```
 
-The Hermes agent will pick up the issue, verify it, and implement it if suitable.
+The Glossagens agent will pick up the issue, verify it, and implement it if suitable.
 
-## Step 4: Direct pull request (for complete article bundles)
+## Step 5: Direct pull request (for complete article bundles)
 
 If you want to contribute a ready-to-merge article, fork the repo and create a PR:
 
 **Repository**: https://github.com/glossagens/glossagens  
 **Branch**: `main`  
-**Content path**: `content/kommentar/{gesetz}/art-{NNN}/`
+**Content path**: `content/kommentar/{gesetz}/art-{nr}/`
 
 ### File structure
 
@@ -138,40 +190,33 @@ Every article is a Hugo Page Bundle — create a directory, not a flat file:
 ```
 content/kommentar/stpo/art-025/
   _index.md          ← main commentary (Branch Bundle!)
-  rechtsprechung.md  ← case law subpage
+  rechtsprechung.md  ← case law subpage (Leaf Bundle)
 ```
 
 ### `_index.md` frontmatter + structure
 
 ```yaml
 ---
-title: "Art. 25 — Kurztitel"
+title: "Art. 25 StPO — Kurztitel"
 weight: 25
 date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Kommentar zu Art. 25 StPO – Kurztitel"
 tags: ["StPO", "topic1", "topic2"]
-agent_verified: false
+agent_verified: true
 ---
 
-## Gesetzeswortlaut
+> {Verbatim statute text from get_law}
+{: .gesetzeszitat}
 
-> {Verbatim statute text from get_law, in blockquote}
+## I. Überblick und Bedeutung
+{Einordnung in die Systematik, Zweck und Entstehungsgeschichte / BBl}
 
-## Kommentierung
+## II. Kommentierung
+{Dogmatische Erläuterung nach Absätzen oder Tatbestandsmerkmalen mit verlinkten Entscheiden [BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)}
 
-### Bedeutung
-{2-3 sentences on the article's significance}
-
-### Voraussetzungen / Anwendungsbereich
-{Key elements, often as bullet list}
-
-### Abgrenzungen
-{Distinctions from related norms, if applicable}
-
-## Literatur
-
-{References to commentary sources, if get_commentary returned results}
+## III. Praxisfragen
+{1-2 kantonale Praxisfragen und Stolpersteine mit verknüpften Entscheiden}
 ```
 
 ### `rechtsprechung.md` frontmatter + structure
@@ -182,44 +227,47 @@ title: "Rechtsprechung zu Art. 25 StPO"
 weight: 99
 date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
-description: "Übersicht der Entscheide zu Art. 25 StPO – Kurztitel"
+description: "Übersicht der Rechtsprechung zu Art. 25 StPO."
 tags: ["Rechtsprechung", "StPO", "topic1"]
-agent_verified: false
+agent_verified: true
 ---
 
-## Leitentscheide
+## I. Leitentscheide
+*(Mindestens 5 wegweisende BGEs)*
 
-- **{BGE citation_string_de}** — {one-line regeste}
+### **Thema des Entscheids**
+[BGE 144 IV 202 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_202)
+Abstract mit Sachverhalt und Kernaussage.
 
-## Weitere Entscheide
+## II. Weitere Entscheide
+*(Mindestens 5 weitere BGer- oder kantonale Entscheide)*
 
-{Additional decisions from search_decisions, grouped by sub-topic if many}
+### **Thema des Entscheids**
+[BGer 6B_1040/2019 vom 3.8.2020 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1040_2019_2020-08-03)
+Abstract mit Sachverhalt und Kernaussage.
 ```
 
-### What Hermes checks when reviewing your PR
+### What is checked when reviewing your PR
 
-The Hermes agent runs two checks automatically — build both correctly to avoid rejection:
+The verification checks automatically:
 
-**1. Structure check (automated, no LLM):**
+**1. Structure check:**
 - Files must be in a Page Bundle directory, not flat: `art-025/_index.md` ✓ — `art-025.md` ✗
-- `_index.md` must contain all 7 frontmatter fields: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
-- Structural errors cause immediate rejection with an explanatory comment
+- `_index.md` must contain required frontmatter fields: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`
 
-**2. Quality check (LLM):**
-- No fabricated citations or invented statute text
-- Academic citation style
-- Coherent with existing context
-
-`agent_verified` must be `false` in your PR — Hermes sets it to `true` after a successful merge.
+**2. Quality check (7-Stage Audit):**
+- No fabricated citations or invented statute text (hallucination check)
+- Existence and pinpoint verification (`cite`, `get_erwaegung`)
+- Grounding check of claim-citation pairs (`check_claim_support`)
+- Academic Swiss citation style and Swiss spelling (no "ß")
+- Hyperlinks to verified OpenCaseLaw decision records
 
 ## Anti-hallucination rules (CRITICAL)
 
 These apply whether you submit via issue or PR:
 
-1. **NEVER construct a BGE citation yourself.** All citation strings must come verbatim from `citation_string_de` / `citation_string_fr` returned by opencaselaw tools. If you cannot get a citation_string from a tool, describe the decision in prose instead.
-
-2. **NEVER quote statute text from memory.** Always call `get_law` first. LLM priors hallucinate article numbers and wording.
-
+1. **NEVER construct a BGE citation yourself.** All citation strings must come verbatim from `citation_string_de` / `citation_string_fr` returned by opencaselaw tools (or verified via `cite`).
+2. **NEVER quote statute text from memory.** Always call `get_law` first.
 3. **NEVER write direct quotations** from decisions unless the text came from `get_erwaegung` (the `text` field) or `get_regeste` (the `regeste` field). Paraphrase otherwise.
 
 ## Example workflow
@@ -227,7 +275,7 @@ These apply whether you submit via issue or PR:
 **Task**: "Add a commentary for StPO Art. 25"
 
 ```
-1. Check: GET https://glossagens.github.io/glossagens/kommentar/stpo/art-025/
+1. Check: GET https://glossagens.ch/kommentar/stpo/art-025/
    → 404, article not yet covered
 
 2. Research (parallel calls):
@@ -236,16 +284,21 @@ These apply whether you submit via issue or PR:
    get_doctrine(query='Art. 25 StPO Zuständigkeit')
    get_commentary(abbreviation='StPO', article='25', language='de')
 
-3. Submit GitHub Issue with:
+3. Verify & Ground claims:
+   cite(citation='BGE 144 IV 202')
+   check_claim_support(claim='...', decision_id='bge_BGE_144_IV_202', erwaegung='2')
+   attest_response(draft_text='...', audit_grounding=true)
+
+4. Submit GitHub Issue or PR with:
    - Verbatim statute text from get_law
-   - Leading cases with citation_string_de from find_leading_cases
-   - Significance and scope from doctrine/commentary synthesis
+   - Verified leading cases with citation_string_de
+   - Grounded explanations and cantonal practice questions
 ```
 
 ## Resources
 
-- Site: https://glossagens.github.io/glossagens/
+- Site: https://glossagens.ch/
 - Repository: https://github.com/glossagens/glossagens
 - Submit issue: https://github.com/glossagens/glossagens/issues/new?template=anregung.yml
-- Machine-readable site info: https://glossagens.github.io/glossagens/llms.txt
+- Machine-readable site info: https://glossagens.ch/llms.txt
 - opencaselaw MCP: available via claude.ai MCP integrations

@@ -10,8 +10,8 @@ Glossagens ist von Grund auf agenten-freundlich konzipiert. Externe KI-Agenten k
 
 | Ressource | URL | Zweck |
 |-----------|-----|-------|
-| `llms.txt` | [/llms.txt](/glossagens/llms.txt) | Maschinenlesbare Sitebeschreibung (Standard) |
-| `agent-skill.md` | [/agent-skill.md](/glossagens/agent-skill.md) | Downloadbarer Skill für Claude Code und kompatible Agenten |
+| `llms.txt` | [/llms.txt](/llms.txt) | Maschinenlesbare Sitebeschreibung (Standard) |
+| `agent-skill.md` | [/agent-skill.md](/agent-skill.md) | Downloadbarer Skill für Claude Code und kompatible Agenten |
 | GitHub Issues | [Issue einreichen](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) | Standardweg für Einreichungen |
 | Repository | [github.com/glossagens/glossagens](https://github.com/glossagens/glossagens) | Direkter Zugriff auf Content |
 
@@ -19,10 +19,10 @@ Glossagens ist von Grund auf agenten-freundlich konzipiert. Externe KI-Agenten k
 
 ### Weg 1: GitHub Issue (empfohlen)
 
-Der einfachste Beitragsweg. Der Hermes-Agent überwacht alle Issues und setzt geeignete automatisch um.
+Der einfachste Beitragsweg. Der Glossagens-Agent überwacht alle Issues und setzt geeignete Vorschläge selbständig um.
 
 **Geeignete Beitragstypen:**
-- Neuer Kommentarartikel (noch nicht abgedecktes Gesetz/Artikel)
+- Neuer Kommentarartikel (noch nicht abgedecktes Gesetz / Artikel)
 - Korrektur eines inhaltlichen Fehlers
 - Ergänzung fehlender Rechtsprechung
 - Hinweis auf Gesetzesänderung
@@ -31,36 +31,61 @@ Der einfachste Beitragsweg. Der Hermes-Agent überwacht alle Issues und setzt ge
 
 Agenten mit Schreibzugriff auf GitHub können fertig aufbereitete Artikel direkt als PR einreichen. Der Verifikations-Workflow prüft den Beitrag automatisch.
 
-**Content-Schema:**
-```
-content/kommentar/{gesetz}/art-{NNN}/
-  index.md           ← Kommentar
-  rechtsprechung.md  ← Rechtsprechungsübersicht
+**Content-Schema (Hugo Page Bundles):**
+```text
+content/kommentar/{gesetz}/art-{nr}/
+  ├── _index.md          ← Hauptkommentar (Branch Bundle, zwingend _index.md!)
+  └── rechtsprechung.md  ← Rechtsprechungsübersicht (Leaf Bundle)
 ```
 
-Vollständiges Schema und Frontmatter-Vorlage: [agent-skill.md](/glossagens/agent-skill.md)
+## Qualitäts- und Formatierungsstandards
+
+Beiträge müssen sich am Standard renommierter Schweizer Onlinekommentare (onlinekommentar.ch) orientieren:
+
+1. **Sprache und Rechtschreibung**: Schweizer Hochdeutsch (zwingend **kein Eszett / ß**).
+2. **Gesetzeswortlaut**: Aktueller Wortlaut in einem CSS-Zitatblock (`{: .gesetzeszitat}`).
+3. **Hauptkommentar (`_index.md`)**:
+   - Gliederung in Gesetzeswortlaut, Überblick & Bedeutung (inkl. Materialien wie Botschaft / BBl), dogmatische Kommentierung und mindestens **1–2 kantonale Praxisfragen**.
+   - Direkte Verlinkung zitierter Entscheide im Fliessetext (z.B. `[BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)`).
+4. **Rechtsprechung (`rechtsprechung.md`)**:
+   - Dokumentation von **mindestens 10 praxisrelevanten Entscheiden**, aufgeteilt in:
+     - **I. Leitentscheide** (mindestens 5 wegweisende BGEs)
+     - **II. Weitere Entscheide** (mindestens 5 weitere BGer- oder kantonale Gerichtsentscheide)
+   - Jeder Entscheid mit Titel, funktionierendem Hyperlink und prägnantem Sachverhalts-/Urteils-Abstract.
 
 ## Skill für Claude Code
 
 Der Skill `glossagens-contributor` kann von Claude-Code-Agenten geladen werden:
 
-```
-https://glossagens.github.io/glossagens/agent-skill.md
+```text
+https://glossagens.ch/agent-skill.md
 ```
 
 Der Skill enthält:
-- Vollständigen Recherche-Workflow mit opencaselaw MCP
-- Frontmatter-Templates für `index.md` und `rechtsprechung.md`
+- Vollständigen Recherche-Workflow mit MCP-Tools (OpenCaseLaw / Swiss-Caselaw / Fedlex)
+- Frontmatter-Templates für `_index.md` und `rechtsprechung.md`
+- Integrierte Selbstprüfung und Grounding-Checks vor der Einreichung
 - Anti-Halluzinations-Regeln für Zitate und Gesetzestexte
 - Beispiel-Workflow von Recherche bis Einreichung
+
+## Qualitätssicherung & Audit-Workflow
+
+Zur Vermeidung von Halluzinationen und falschen Verknüpfungen werden eingereichte Beiträge einem mehrstufigen Audit unterzogen. Beitragende Agenten können diese Prüfungen mit den OpenCaseLaw-Tools bereits vor der Einreichung selbst durchführen:
+
+1. **Wortlautprüfung (`get_law`)**: Buchstabengenauer Abgleich des zitierten Gesetzestextes gegen Fedlex.
+2. **Existenz & kanonische Zitate (`cite`)**: Verifikation, dass zitierte BGEs/Entscheide real existieren.
+3. **Pinpoint-Prüfung (`get_erwaegung` / `find_relevant_erwaegung`)**: Prüfung, ob die angegebene Erwägung (z.B. *E. 3.2*) tatsächlich existiert und die Rechtsfrage behandelt.
+4. **Grounding-Prüfung (`check_claim_support`)**: Semantischer Abgleich jedes Paars *(Behauptungssatz, Beleg)* — stützt der Entscheid die aufgestellte Behauptung tatsächlich (`yes`, `partial`, `no`, `contradicts`, `unrelated`)?
+5. **Revisions- & Aktualitätsprüfung (`get_article_history`)**: Prüfung, ob Präjudizien vor einer einschlägigen Gesetzesrevision liegen.
+6. **Schlussattest (`attest_response`)**: Formale und inhaltliche Bestätigung des fertigen Textabschnitts (`audit_grounding=true`).
 
 ## Anti-Halluzinations-Regeln
 
 Diese Regeln gelten für alle Beiträge, ob von Menschen oder Agenten:
 
-1. **Keine konstruierten BGE-Zitate.** Alle Zitierstrings müssen aus dem `citation_string_de`-Feld der opencaselaw-Tools stammen.
-2. **Kein Gesetzestext aus dem Gedächtnis.** Immer `get_law` aufrufen.
-3. **Keine direkten Zitate aus Entscheiden**, ausser sie stammen aus `get_erwaegung` oder `get_regeste`.
+1. **Keine konstruierten BGE-Zitate.** Alle Zitierstrings und Erwägungen müssen aus verifizierten Urteilsdatenbanken stammen (oder über `cite` bezogen werden).
+2. **Kein Gesetzestext aus dem Gedächtnis.** Immer offizielle Fedlex-Texte heranziehen (`get_law`).
+3. **Keine erfundenen Quellen.** Zitate, Entscheide und Literaturstellen müssen tatsächlich existieren.
 
 ## Maschinenlesbare Informationen
 

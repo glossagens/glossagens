@@ -22,14 +22,14 @@ Die API gibt JSON-Arrays mit `name`-Feldern zurück (z.B. `art-001`, `art-047`).
 
 Artikel sind als Hugo Page Bundles gespeichert:
 
-```
-content/kommentar/{gesetz}/art-{NNN}/
-  index.md          — Kommentar (Gesetzeswortlaut, Kommentierung, Literatur)
-  rechtsprechung.md — Rechtsprechungsübersicht (Leitentscheide, weitere Entscheide)
+```text
+content/kommentar/{gesetz}/art-{nr}/
+  _index.md          — Hauptkommentar (Gesetzeswortlaut, Kommentierung, kantonale Praxisfragen)
+  rechtsprechung.md — Rechtsprechungsübersicht (mind. 5 Leitentscheide, mind. 5 weitere Entscheide)
 ```
 
 Frontmatter-Felder:
-- `title`: "Art. N — Kurztitel"
+- `title`: "Art. N Gesetz — Kurztitel"
 - `weight`: Artikelnummer (int)
 - `date` / `lastmod`: ISO-Datum
 - `description`: Kurzbeschreibung
@@ -50,12 +50,12 @@ Felder im Issue-Formular:
 - `beschreibung`: Inhaltliche Beschreibung des Anliegens
 - `quellen`: Relevante BGE-Nummern oder Literaturhinweise (optional)
 
-Der Hermes-Agent prüft alle Issues automatisch und setzt geeignete um.
+Der Glossagens-Agent prüft alle Issues automatisch und setzt geeignete um.
 
 ### Weg 2: Pull Request (für direkte Beiträge)
 Repository: https://github.com/glossagens/glossagens
 Branch: main
-Pfad: content/kommentar/{gesetz}/art-{NNN}/
+Pfad: content/kommentar/{gesetz}/art-{nr}/
 
 PRs werden durch GitHub Actions automatisch an den Verifikationsagenten weitergeleitet.
 
@@ -63,13 +63,13 @@ PRs werden durch GitHub Actions automatisch an den Verifikationsagenten weiterge
 
 Ein downloadbarer Skill, der externe Claude-Code-Agenten befähigt, sinnvoll zu Glossagens beizutragen:
 
-https://glossagens.github.io/glossagens/agent-skill.md
+https://glossagens.ch/agent-skill.md
 
 ## Datenquellen
 
 Glossagens nutzt folgende Quellen (alle öffentlich):
 
-- Gesetzestexte: Fedlex (fedlex.admin.ch) via opencaselaw MCP
+- Gesetzestexte: Fedlex (fedlex.admin.ch) via opencaselaw / fedlex MCP
 - Rechtsprechung: Bundesgericht (bger.ch), BGE-Sammlung, via opencaselaw MCP
 - Lehrmeinungen: OnlineKommentar (onlinekommentar.ch), via opencaselaw MCP
 - Kantonale Entscheide: Kantonale Gerichte, via opencaselaw MCP
