@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 38 VwVG"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: 2026-08-16
 description: "Übersicht der Rechtsprechung zu Art. 38 VwVG — Mangelhafte Eröffnung, Nachteilsverbot, Vertrauensschutz, Heilung."
 tags: ["Rechtsprechung", "VwVG", "mangelhafte Eröffnung", "Vertrauensschutz", "Rechtsmittelbelehrung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Neuaufbau, Ausgangslage Urteil C 0%): Alle 8 urspruenglichen Zitate erwiesen sich bei Verifikation als vollstaendig themenfremd (u.a. BGE 117 IV 297 zu einer Trunkenheitsfahrt-Strafsache, BGE 132 I 249 zu einer zivilprozessualen Vorladungsnichtigkeit) -- keines betraf tatsaechlich Art. 38 VwVG. Alle entfernt und durch drei via find_leading_cases verifizierte Entscheide ersetzt."
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -18,38 +23,18 @@ revisions:
 
 ## I. Leitentscheide
 
-### 1. BGE 117 IV 297 — Schutz des Vertrauens bei unrichtiger Rechtsmittelbelehrung
-**[BGE 117 IV 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_IV_297)** (1. Januar 1991)
-Aus einer mangelhaften Eröffnung darf den Parteien kein Nachteil erwachsen (Art. 38 VwVG, Art. 9 BV). Wer sich in guten Treuen auf eine unrichtige Rechtsmittelbelehrung verlässt, darf nicht durch Nichteintreten wegen Verspätung bestraft werden (E. 2).
+### 1. BGE 106 V 93 — Grundsatz der Nichtnichtigkeit bei mangelhafter Rechtsmittelbelehrung
+**[BGE 106 V 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_106_V_93#e-2)** (2. Mai 1980), E. 2
+Aus mangelhafter Eröffnung einer Verfügung darf den Parteien nach Art. 107 Abs. 3 OG und Art. 38 VwVG kein Nachteil erwachsen. Daraus folgt, dass nicht jede mangelhafte Eröffnung — auch nicht die Eröffnung ohne Rechtsmittelbelehrung — schlechthin nichtig ist mit der Konsequenz, dass die Rechtsmittelfrist nicht zu laufen beginnen könnte. Massgebend ist nach den konkreten Umständen des Einzelfalls, ob die Partei durch den Mangel tatsächlich irregeführt und benachteiligt wurde; Richtschnur ist der Grundsatz von Treu und Glauben, an dem die Berufung auf Formmängel ihre Grenze findet. Ein solcher Verwaltungsakt muss innerhalb einer vernünftigen Frist in Frage gestellt werden.
 
-### 2. BGE 135 II 145 — Grenzen des Vertrauensschutzes bei anwaltschaftlicher Vertretung
-**[BGE 135 II 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_145)** (9. Februar 2009)
-Ein Anwalt oder eine rechtskundige Partei kann sich nicht auf eine unrichtige Rechtsmittelbelehrung berufen, wenn der Fehler durch Konsultation des Gesetzestextes ohne weiteres erkennbar war. Die Grenze des Nachteilsverbots liegt im Grundsatz von Treu und Glauben (E. 3.2).
+### 2. BGE 144 II 401 — Informationspflicht bei Zustellung ins Ausland
+**[BGE 144 II 401](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_II_401#e-3-2)** (6. November 2018), E. 3.2
+Verfügungsadressaten mit Wohnsitz im Ausland, die weder mit dem schweizerischen Recht vertraut noch anwaltlich vertreten sind, haben Anspruch darauf, von der Verwaltungsbehörde in geeigneter Weise über die besonderen gesetzlichen Anforderungen zur Fristwahrung im internationalen Verhältnis orientiert zu werden (Art. 21 Abs. 1, Art. 35 Abs. 2, Art. 38 VwVG). Ist die Fristversäumnis auf die mangelhafte Orientierung zurückzuführen, darf der Beschwerdeführerin daraus kein Nachteil erwachsen; ein Nichteintreten wegen verspäteter Beschwerde verletzt in diesem Fall Bundesrecht.
 
-### 3. BGE 122 I 97 — Eröffnung an den falschen Empfänger
-**[BGE 122 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_I_97)** (3. Mai 1996)
-Wird eine Verfügung trotz bestehenden Vertretungsverhältnisses direkt der Partei statt dem Rechtsvertreter eröffnet, ist die Eröffnung mangelhaft. Die Frist beginnt erst in dem Zeitpunkt zu laufen, in dem der Vertreter Kenntnis von der Verfügung erhält (E. 3a).
-
-### 4. BGE 132 I 249 — Heilung von Begründungsmängeln im Beschwerdeverfahren
-**[BGE 132 I 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_249)** (18. September 2006)
-Grundsätze der Heilung von Eröffnungsmängeln. Eine Verletzung der Begründungspflicht kann ausnahmsweise geheilt werden, wenn die Rechtsmittelinstanz über die gleiche Kognition verfügt wie die Vorinstanz und der Partei kein Rechtsverlust entsteht (E. 5).
+### 3. BGE 124 V 47 — Zustellung im Ausland als Hoheitsakt
+**[BGE 124 V 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_47)**
+Die Zustellung einer Verfügung im Ausland stellt einen staatlichen Hoheitsakt dar, dessen Ausführung mangels gegenteiliger internationaler Vereinbarung den örtlichen Behörden auf diplomatischem Weg obliegt. Eine formwidrige Direktzustellung per Post an einen im Ausland wohnhaften Versicherten entfaltet keine Wirkung; eine dagegen — selbst verspätet — erhobene Einsprache bleibt zulässig, da die mangelhafte Eröffnung keine fristauslösende Wirkung hatte.
 
 ---
 
-## II. Weitere Entscheide
-
-### 5. BGE 127 II 198 — Fehlen der Rechtsmittelbelehrung
-**[BGE 127 II 198](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_II_198)** (1. Juni 2001)
-Fehlt der Verfügung jegliche Rechtsmittelbelehrung, hat die Behörde der Partei die Möglichkeit zur nachträglichen Anfechtung einzuräumen. Eine Einreichung innerhalb angemessener Frist ab Kenntnisnahme ist rechtzeitig.
-
-### 6. BVGer A-3484/2018 — Pflicht zur Rüge von Eröffnungsmängeln
-**[BVGer A-3484/2018](https://mcp.opencaselaw.ch/entscheid/bvger_A-3484_2018)** (7. September 2021)
-Parteien sind verpflichtet, Eröffnungsmängel nach Treu und Glauben unverzüglich zu rügen, sobald sie davon Kenntnis erlangen.
-
-### 7. BGE 124 V 180 — Vorbescheidverfahren und mangelhafte Eröffnung
-**[BGE 124 V 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_180)** (7. April 1998)
-Rechtsfolgen mangelhafter Verfügungen im Sozialversicherungsrecht (E. 4b).
-
-### 8. BGE 108 V 130 — Auswirkung mangelhafter Eröffnungen auf den Fristenlauf
-**[BGE 108 V 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_130)** (1. Januar 1982)
-Mangelhafte Eröffnung führt zur Hemmung des Fristenlaufs, bis die Partei den Mangel erkennt oder erkennen musste.
+*Letzte Aktualisierung: 2026-08-16*
