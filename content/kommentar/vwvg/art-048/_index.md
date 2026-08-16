@@ -2,10 +2,16 @@
 title: "Art. 48 — Beschwerdelegitimation"
 weight: 48
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 48 VwVG – Beschwerdelegitimation"
 tags: ["VwVG", "Beschwerde", "Legitimation", "Verwaltungsverfahren"]
 agent_verified: true
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil B, 64%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Alle Zitate bei Verifikation als real und thematisch passend bestätigt (teilweise nur ungenaue Paraphrase, kein inhaltlicher Mangel)."
 ---
 
 ## Gesetzeswortlaut
