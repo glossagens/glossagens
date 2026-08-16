@@ -1,12 +1,12 @@
 {{- /*
-  Startseiten-Übersicht: kürzlich geänderte und neu erstellte Artikel über
-  alle Gesetze hinweg, aus `date`/`lastmod` im Artikel-Frontmatter (Pflicht-
-  felder, siehe CLAUDE.md „Revisions-Vermerk"). Ein Artikel, der seit der
-  Erstellung nicht revidiert wurde (lastmod == date), erscheint nur unter
-  „Neu erstellt", nicht zusätzlich unter „Kürzlich geändert".
+  Startseiten-Übersicht für die rechte Sidebar: kürzlich geänderte und neu
+  erstellte Artikel über alle Gesetze hinweg, aus `date`/`lastmod` im
+  Artikel-Frontmatter. Ein Artikel, der seit der Erstellung nicht revidiert
+  wurde (lastmod == date), erscheint nur unter „Neueste Artikel", nicht
+  zusätzlich unter „Kürzlich geändert".
 */ -}}
 
-{{- $anzahl := 6 -}}
+{{- $anzahl := 5 -}}
 {{- $artikel := slice -}}
 {{- range .Sections -}}
   {{- $gesetz := . -}}
@@ -24,79 +24,131 @@
 {{- if $artikel -}}
 
 <style>
-.gl-aktivitaet {
-  display: grid; grid-template-columns: 1fr 1fr; gap: 0 2.5rem;
-  margin: 1.5rem 0 2.5rem;
+.gl-toc-aktivitaet {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
 }
-.gl-aktivitaet .gl-agruppe {
-  margin: 0 0 .25rem; padding-bottom: .4rem;
+.gl-toc-agruppe {
+  margin: 0 0 .5rem;
+  padding-bottom: .3rem;
   border-bottom: 1px solid #e5e7eb;
-  font-size: .8125rem; font-weight: 600;
-  letter-spacing: .06em; text-transform: uppercase; color: #6b7280;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: #6b7280;
 }
-.gl-aktivitaet .gl-summe { font-size: .875rem; color: #6b7280; margin: 0; }
-.gl-aktivitaet .gl-aliste { list-style: none; margin: 0 0 .5rem; padding: 0; }
-.gl-aktivitaet .gl-aliste li + li { border-top: 1px solid #f3f4f6; }
-.gl-aktivitaet .gl-azeile {
-  display: flex; align-items: baseline; gap: .75rem;
-  padding: .5rem .5rem; margin: 0 -.5rem;
-  border-radius: .375rem; text-decoration: none; color: inherit;
+.gl-toc-aliste {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+}
+.gl-toc-azeile {
+  display: block;
+  padding: .375rem .5rem;
+  margin: 0 -.5rem;
+  border-radius: .375rem;
+  text-decoration: none;
+  color: inherit;
   transition: background-color .12s ease;
 }
-.gl-aktivitaet .gl-azeile:hover { background: #f9fafb; text-decoration: none; }
-.gl-aktivitaet .gl-atitel {
-  flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: .05rem;
-  color: #374151; font-size: .9375rem;
+.gl-toc-azeile:hover {
+  background: #f3f4f6;
+  text-decoration: none;
 }
-.gl-aktivitaet .gl-azeile:hover .gl-atitel { color: var(--primary-600, #2563eb); }
-.gl-aktivitaet .gl-atitel small { font-size: .75rem; font-weight: 400; color: #9ca3af; }
-.gl-datum {
-  flex: none; font-variant-numeric: tabular-nums;
-  font-size: .8125rem; color: #9ca3af;
+.gl-toc-atitel {
+  display: block;
+  font-size: .8125rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #374151;
+  word-break: break-word;
 }
-@media (max-width: 640px) {
-  .gl-aktivitaet { grid-template-columns: 1fr; gap: 0; }
-  .gl-aktivitaet > div + div { margin-top: 1.5rem; }
+.gl-toc-azeile:hover .gl-toc-atitel {
+  color: var(--primary-600, #2563eb);
 }
-.dark .gl-aktivitaet .gl-summe, .dark .gl-aktivitaet .gl-agruppe { color: #9ca3af; }
-.dark .gl-aktivitaet .gl-agruppe { border-bottom-color: #262626; }
-.dark .gl-aktivitaet .gl-aliste li + li { border-top-color: #1a1a1a; }
-.dark .gl-aktivitaet .gl-azeile:hover { background: #171717; }
-.dark .gl-aktivitaet .gl-atitel { color: #d1d5db; }
-.dark .gl-aktivitaet .gl-azeile:hover .gl-atitel { color: var(--primary-400, #60a5fa); }
-.dark .gl-aktivitaet .gl-atitel small, .dark .gl-datum { color: #6b7280; }
+.gl-toc-ameta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .5rem;
+  margin-top: .15rem;
+  font-size: .6875rem;
+  color: #9ca3af;
+}
+.gl-toc-gesetz {
+  font-weight: 600;
+  color: #6b7280;
+}
+.gl-toc-datum {
+  font-variant-numeric: tabular-nums;
+}
+.gl-toc-leer {
+  font-size: .75rem;
+  color: #9ca3af;
+  margin: 0;
+}
+
+/* Dark mode */
+.dark .gl-toc-agruppe {
+  border-bottom-color: #262626;
+  color: #9ca3af;
+}
+.dark .gl-toc-azeile:hover {
+  background: #171717;
+}
+.dark .gl-toc-atitel {
+  color: #d1d5db;
+}
+.dark .gl-toc-azeile:hover .gl-toc-atitel {
+  color: var(--primary-400, #60a5fa);
+}
+.dark .gl-toc-ameta {
+  color: #6b7280;
+}
+.dark .gl-toc-gesetz {
+  color: #9ca3af;
+}
+.dark .gl-toc-leer {
+  color: #6b7280;
+}
 </style>
 
-<div class="gl-aktivitaet not-prose">
+<div class="gl-toc-aktivitaet not-prose">
   {{- $spalten := slice
     (dict "titel" "Kürzlich geändert" "leer" "Noch keine Änderungen erfasst."
       "eintraege" (first $anzahl (sort (where $artikel "revidiert" true) "geaendert" "desc")) "feld" "geaendert")
-    (dict "titel" "Neu erstellt" "leer" "Noch keine Artikel erfasst."
+    (dict "titel" "Neueste Artikel" "leer" "Noch keine Artikel erfasst."
       "eintraege" (first $anzahl (sort $artikel "datum" "desc")) "feld" "datum")
   -}}
   {{- range $spalten -}}
     {{- $feld := .feld -}}
     <div>
-      <h2 class="gl-agruppe">{{ .titel }}</h2>
+      <div class="gl-toc-agruppe">{{ .titel }}</div>
       {{- with .eintraege -}}
-        <ul class="gl-aliste">
+        <ul class="gl-toc-aliste">
           {{- range . -}}
             {{- $p := .page -}}
             {{- $g := .gesetz -}}
             {{- $wann := cond (eq $feld "datum") .datum .geaendert -}}
             <li>
-              <a class="gl-azeile" href="{{ $p.RelPermalink }}">
-                <span class="gl-atitel">
-                  {{ $p.Title }}
-                  <small>{{ $g.Params.kuerzel | default $g.Title }}</small>
+              <a class="gl-toc-azeile" href="{{ $p.RelPermalink }}">
+                <span class="gl-toc-atitel">{{ $p.Title }}</span>
+                <span class="gl-toc-ameta">
+                  <span class="gl-toc-gesetz">{{ $g.Params.kuerzel | default $g.Title }}</span>
+                  <span class="gl-toc-datum">{{ $wann.Format "02.01.2006" }}</span>
                 </span>
-                <span class="gl-datum">{{ $wann.Format "02.01.2006" }}</span>
               </a>
             </li>
           {{- end -}}
         </ul>
       {{- else -}}
-        <p class="gl-summe">{{ .leer }}</p>
+        <p class="gl-toc-leer">{{ .leer }}</p>
       {{- end -}}
     </div>
   {{- end -}}

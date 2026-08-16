@@ -2,124 +2,139 @@
 title: "Rechtsprechung zu Art. 3 EMRK"
 weight: 99
 date: 2026-06-12
-lastmod: 2026-08-08
+lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 3 EMRK — Verbot der Folter und unmenschlicher oder erniedrigender Behandlung"
 tags: ["Rechtsprechung", "EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "Non-Refoulement", "Haftbedingungen"]
 agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Leitentscheide-Liste (BGE) komplett neu aufgebaut, da alle bisherigen BGE-Zitate fabriziert waren (0/6 existierten). Ersetzt durch 5 via check_claim_support verifizierte Entscheide. Erfundenen 'BGer-Entscheid vom 7. August 2026 — Hazara-Zugehörigkeit' entfernt (nicht verifizierbar, kein close_match)."
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 122 II 353, E. 2b
-- **Thema**: Absolutheit des Folterverbots; Polizeigewalt
-- **Kernaussage**: Art. 3 EMRK i.V.m. Art. 7 BV verbietet jede Form der Folter sowie der unmenschlichen und erniedrigenden Behandlung ohne Ausnahme. Über das unvermeidbare Mass hinausgehende Polizeigewalt verstösst gegen Art. 3 EMRK. Positive Untersuchungspflicht bei Vorwürfen exzessiver Polizeigewalt.
-- **Einschlägig für**: Absolutheit, Polizeigewalt, positive Pflichten
+### BGE 131 I 455, E. 1.2.5
+- **Thema**: Erniedrigende Behandlung; Untersuchungspflicht bei Polizeigewalt
+- **Kernaussage**: Wer in vertretbarer Weise behauptet, von einem Polizeibeamten erniedrigend behandelt worden zu sein, hat Anspruch auf eine wirksame und vertiefte amtliche Untersuchung.
+- **Einschlägig für**: Positive Pflichten, Untersuchungspflicht, Polizeigewalt
 
 ---
 
-### BGE 125 II 273, E. 4a
-- **Thema**: Non-Refoulement; Rückführung in Folterstaat
-- **Kernaussage**: Art. 3 EMRK begründet ein absolutes Rückführungsverbot. Eine Ausweisung in einen Staat mit systematischer Folter verstösst unabhängig von der Schwere der Straftat gegen Art. 3 EMRK.
-- **Einschlägig für**: Non-Refoulement, Asylrecht
-
----
-
-### BGE 134 I 87, E. 4.1
-- **Thema**: Non-Refoulement; konkrete Gefahr
-- **Kernaussage**: Die Rückweisung verstösst gegen Art. 3 EMRK, wenn die betroffene Person im Empfangsstaat konkret Gefahr läuft, Folter oder unmenschlicher Behandlung unterworfen zu werden. Die Gefahr muss individuell und substantiiert dargetan sein.
-- **Einschlägig für**: Non-Refoulement, Gefahrenprognose
-
----
-
-### BGE 140 IV 144, E. 3.2
-- **Thema**: Irreführungsfreie Einvernahme; Grenze zulässiger List
-- **Kernaussage**: Die beschuldigte Person darf nicht durch Täuschung, Drohung oder Versprechungen zu einer Aussage genötigt werden. Die Grenze zulässiger polizeilicher List verläuft dort, wo die Willensfreiheit des Beschuldigten aufgehoben oder schwer beeinträchtigt wird. Verletzung von Art. 3 EMRK i.V.m. Art. 7 BV bei nötigender Befragung.
+### BGE 143 I 304, E. 2.3
+- **Thema**: Verdeckte Ermittlung; Grenze zulässiger Einvernahmetaktik
+- **Kernaussage**: Verweigert die beschuldigte Person die Aussage, dürfen Behörden bzw. verdeckte Ermittler keine List anwenden, um ihr dennoch ein Geständnis oder belastende Angaben zu entlocken; der Entschluss zu schweigen ist zu respektieren.
 - **Einschlägig für**: Einvernahme, Willensfreiheit, Verwertungsverbot
 
 ---
 
-### BGE 144 I 177, E. 5.2
-- **Thema**: Haftbedingungen; Überbelegung; Mindeststandard
-- **Kernaussage**: Unzureichende Haftbedingungen (Überbelegung, fehlende sanitäre Einrichtungen) können erniedrigende Behandlung nach Art. 3 EMRK darstellen. Anwendung der EGMR-Kriterien zu Zellflächenmassen (Muršić v. Croatia).
-- **Einschlägig für**: Haftbedingungen, Untersuchungshaft, Mindeststandard
+### BGE 140 I 125
+- **Thema**: Haftbedingungen im Gefängnis Champ-Dollon
+- **Kernaussage**: Die Haftbedingungen müssen den Anforderungen gemäss EMRK, BV sowie Bundes- und kantonalem Recht genügen; die Staatsanwaltschaft ist zur Beschwerde gegen einen Entscheid legitimiert, der die Rechtswidrigkeit der Haftbedingungen feststellt.
+- **Einschlägig für**: Haftbedingungen, Untersuchungshaft
 
 ---
 
-### BGE 146 IV 161, E. 2.3
-- **Thema**: Verwertungsverbot; Folterbeweis; fruit of the poisonous tree
-- **Kernaussage**: Aussagen, die unter Verletzung von Art. 3 EMRK erzwungen wurden, sind absolut unverwertbar. Das Verwertungsverbot erstreckt sich auf Beweise, die als «Frucht» der Folterhandlung gewonnen wurden.
-- **Einschlägig für**: Verwertungsverbot, Beweiserhebung
+### BGE 111 Ib 68, E. 2
+- **Thema**: Non-Refoulement; Abschiebung bei drohender menschenrechtswidriger Behandlung
+- **Kernaussage**: Die Abschiebung eines Ausländers in ein Land, in welchem ihm eine schwerwiegende menschenrechtswidrige Behandlung droht, kann Art. 3 EMRK verletzen.
+- **Einschlägig für**: Non-Refoulement, Asylrecht
+
+---
+
+### BGE 148 IV 314
+- **Thema**: Auslieferung; diplomatische Garantien
+- **Kernaussage**: Bestehen konkrete Hinweise auf eine unmenschliche oder erniedrigende Behandlung im ersuchenden Staat, ist zu prüfen, ob diplomatische Garantien das Risiko wirksam ausschliessen.
+- **Einschlägig für**: Non-Refoulement, Auslieferung, Diplomatic Assurances
 
 ---
 
 ## EGMR-Leitentscheide
 
-### EGMR, Ireland v. United Kingdom (5310/71), § 163
+Die folgenden Fälle sind etablierte, allgemein bekannte Leitentscheide des EGMR zu Art. 3 EMRK. Der Audit-Parser dieses Repos prüft nur BGE/BGer-Zitierlagen; der opencaselaw-Bestand deckt EGMR-Entscheide nur insoweit ab, als sie die Schweiz betreffen. Fallnamen und Aktenzeichen unten sind daher nicht über das MCP-Tooling gegenprüfbar (Ausnahme: Soering, s. Vermerk); Absatz-Pinpoints wurden deshalb nicht angegeben, wo sie nicht anderweitig verifizierbar waren.
+
+### EGMR, Ireland v. United Kingdom (5310/71)
 - **Thema**: Drei Stufen der verbotenen Behandlung; Absolutheit
-- **Kernaussage**: Der EGMR unterscheidet zwischen Folter, unmenschlicher und erniedrigender Behandlung. Art. 3 EMRK ist absolut und kennt keine Ausnahme, auch nicht im Kriegs- oder Terroristenfall.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-57350)
+- **Kernaussage**: Der EGMR unterscheidet zwischen Folter, unmenschlicher und erniedrigender Behandlung. Art. 3 EMRK ist absolut und kennt keine Ausnahme.
 
 ---
 
-### EGMR, Soering v. United Kingdom (14038/88), § 91
-- **Thema**: Non-Refoulement; Auslieferung bei Todesstrafenrisiko
-- **Kernaussage**: Die Auslieferung einer Person in einen Staat, in dem sie konkret Gefahr läuft, Folter oder unmenschlicher Behandlung unterworfen zu werden, verstösst gegen Art. 3 EMRK. Begründung des Non-Refoulement-Prinzips.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-57819)
+### EGMR, Soering v. United Kingdom (14038/88), §§ 90–91
+- **Thema**: Non-Refoulement; Auslieferungsverbot bei Misshandlungsrisiko
+- **Kernaussage**: Die Auslieferung einer Person in einen Staat, in dem ihr konkret Folter oder unmenschliche Behandlung droht, verstösst gegen Art. 3 EMRK.
+- **Verifikationsvermerk**: Datum, Paragraphen und Fundstelle (7. Juli 1989, §§ 90–91, Series A no. 161) über wörtliche Zitate in mehreren Schweiz-EGMR-Entscheiden des opencaselaw-Bestands bestätigt (u.a. *A.S. c. Suisse*, hudoc_ch 39350/13; *A.M. v. Switzerland*, hudoc_ch 37466/13).
 
 ---
 
-### EGMR, Selmouni v. France (25803/94), § 95
-- **Thema**: Erhöhter Folterbegriff; Intensitätsschwelle
-- **Kernaussage**: Der EGMR hat den Folterbegriff im Laufe der Zeit «erhöht» — was früher als unmenschliche Behandlung eingestuft wurde, kann heute als Folter qualifiziert werden. Die Schwelle hängt von den konkreten Umständen ab.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-41680)
+### EGMR, Selmouni v. France (25803/94)
+- **Thema**: Absolutheit; erhöhter Massstab bei der Beurteilung von Konventionsverletzungen
+- **Kernaussage**: Art. 3 EMRK enthält keine Ausnahmeklausel.
 
 ---
 
-### EGMR, Kudła v. Poland (30210/96), § 92
-- **Thema**: Positive Untersuchungspflicht; wirksame Abklärung
-- **Kernaussage**: Art. 3 EMRK verpflichtet die Behörden, alle hinreichend begründeten Behauptungen von Misshandlungen wirksam abzuklären. Eine blosse formelhafte Stellungnahme genügt nicht.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-58596)
+### EGMR, Tyrer v. United Kingdom, Costello-Roberts v. United Kingdom, Peers v. Greece
+- **Thema**: Kriterien der unmenschlichen bzw. erniedrigenden Behandlung
+- **Kernaussage**: Massgeblich sind Dauer und Auswirkungen der Behandlung sowie die objektive Eignung, das Opfer zu demütigen — nicht allein die subjektive Wahrnehmung.
 
 ---
 
-### EGMR, Muršić v. Croatia (32573/13), §§ 107–111
-- **Thema**: Haftbedingungen; Zellfläche; Mindestmass
-- **Kernaussage**: Eine Zellfläche von weniger als 3 m² pro Häftling verstösst gegen Art. 3 EMRK. Zwischen 3 und 4 m² besteht eine Widerlegungsvermutung. Ab 4 m² ist die Situation im Einzelfall zu prüfen.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-175532)
+### EGMR, Kudła v. Poland (30210/96)
+- **Thema**: Positive Untersuchungspflicht
+- **Kernaussage**: Art. 3 EMRK verpflichtet die Behörden, hinreichend begründete Behauptungen von Misshandlungen wirksam abzuklären.
 
 ---
 
-### EGMR, Othman (Abu Qatada) v. United Kingdom (8139/09), §§ 187–189
-- **Thema**: Diplomatic Assurances; Zuverlässigkeit
-- **Kernaussage**: Diplomatic Assurances des Empfangsstaats genügen nicht, um das Folterrisiko auszuschliessen, wenn der Empfangsstaat systematisch foltert und die Zusicherungen nicht verlässlich umgesetzt werden.
-- **URL**: [HUDOC](https://hudoc.echr.coe.int/eng?i=001-115343)
+### EGMR, Osman v. United Kingdom (23452/94)
+- **Thema**: Positive Schutzpflicht
+- **Kernaussage**: Der Staat muss schutzbedürftige Personen vor Misshandlung durch Dritte schützen.
+
+---
+
+### EGMR, Assenov v. Bulgaria (24760/94)
+- **Thema**: Untersuchungspflicht
+- **Kernaussage**: Bei hinreichendem Verdacht auf Misshandlung muss der Staat eine effektive Untersuchung durchführen.
+
+---
+
+### EGMR, Muršić v. Croatia (7334/13), Grosse Kammer, 20.10.2016
+- **Thema**: Haftbedingungen; Zellfläche
+- **Kernaussage**: Präzisiert, unterhalb welcher Zellfläche pro Häftling die Vermutung einer Verletzung von Art. 3 EMRK greift.
+- **Hinweis**: Frühere Fassung dieses Artikels nannte fälschlich das Aktenzeichen 32573/13 — korrigiert auf 7334/13.
+
+---
+
+### EGMR, Jalloh v. Germany (54810/00)
+- **Thema**: Verwertungsverbot
+- **Kernaussage**: Beweise, die unter Verletzung des absoluten Folterverbots erlangt wurden, sind unverwertbar.
 
 ---
 
 ## Top-Entscheide im Überblick
 
-| Nr | Entscheidung | Zit. | Kernthese |
-|----|---|---|---|
-| 1 | BGE 122 II 353 | — | Absolutheit des Folterverbots; Polizeigewalt |
-| 2 | BGE 125 II 273 | — | Non-Refoulement; Rückführung in Folterstaat |
-| 3 | BGE 140 IV 144 | — | Irreführungsfreie Einvernahme; Verwertungsverbot |
-| 4 | BGE 144 I 177 | — | Haftbedingungen; Mindeststandard nach EGMR |
-| 5 | EGMR, Ireland v. UK | — | Drei Stufen; Absolutheit |
-| 6 | EGMR, Soering v. UK | — | Non-Refoulement begründet |
-| 7 | EGMR, Muršić v. Croatia | — | Zellflächenmindestmass 3 m² |
-| 8 | EGMR, Kudła v. Poland | — | Positive Untersuchungspflicht |
-| 9 | BGer (Präzisierung, 07.08.2026) | — | Hazara-Zugehörigkeit allein kein Vollzugshindernis nach Art. 3 EMRK |
+| Nr | Entscheidung | Kernthese |
+|----|---|---|
+| 1 | BGE 131 I 455 | Untersuchungspflicht bei Polizeigewalt |
+| 2 | BGE 143 I 304 E. 2.3 | Grenze zulässiger Einvernahmetaktik |
+| 3 | BGE 140 I 125 | Haftbedingungen (Champ-Dollon) |
+| 4 | BGE 111 Ib 68 | Non-Refoulement-Grundsatz |
+| 5 | BGE 148 IV 314 | Diplomatic Assurances |
+| 6 | EGMR, Ireland v. UK | Drei Stufen; Absolutheit |
+| 7 | EGMR, Soering v. UK | Non-Refoulement begründet |
+| 8 | EGMR, Muršić v. Croatia | Zellflächenmindestmass |
+| 9 | EGMR, Kudła v. Poland | Positive Untersuchungspflicht |
 
----
+## Entfernte Entscheide
 
-### BGer-Entscheid vom 7. August 2026 — Hazara-Zugehörigkeit allein kein Vollzugshindernis (Präzisierung)
+Bei der Audit-Überarbeitung vom 2026-08-16 als fabriziert identifiziert und entfernt (existierten laut `cite`-Prüfung gegen den opencaselaw-Bestand nicht):
 
-**Thema**: Non-Refoulement; Hazara; Afghanistan; Art. 3 EMRK
+- BGE 122 II 353
+- BGE 125 II 273
+- BGE 134 I 87 / BGE 134 I 087
+- BGE 140 IV 144
+- BGE 144 I 177
+- BGE 146 IV 161
+- „BGer-Entscheid vom 7. August 2026 — Hazara-Zugehörigkeit" (frei erfunden, kein reales Aktenzeichen)
 
-**Kernaussage**: Die bloss gehörschaftliche Zugehörigkeit zur Ethnie der Hazara genügt für sich allein nicht, um ein Vollzugshindernis nach Art. 3 EMRK zu begründen. Es bedarf einer individuellen Gefährdungsprognose, die über die allgemeine Gefährdungslage hinaus konkrete und substanziierte Gründe für eine drohende Folter oder unmenschliche Behandlung darlegt. Die allgemeine Lage in Afghanistan (insbesondere für Hazara) kann ein Indiz sein, ersetzt aber nicht die individuelle Prüfung.
-
-**Einschlägig für**: Non-Refoulement, Asylrecht, Gefahrenprognose, Art. 3 EMRK
-
----
-
-*Letzte Aktualisierung: 2026-08-08*
+*Letzte Aktualisierung: 2026-08-16*
