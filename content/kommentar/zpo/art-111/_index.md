@@ -80,7 +80,7 @@ Das Urteilsdispositiv stellt für diese Forderung einen definitiven Rechtsöffnu
 
 Wurde einer oder beiden Parteien die unentgeltliche Rechtspflege (Art. 117 ff. ZPO) gewährt, treten die Sonderregeln von Art. 122 und Art. 123 ZPO an die Stelle der allgemeinen Liquidation:
 * Die unentgeltlich verbeiständete Partei ist von Vorschuss- und Gerichtskosten befreit (Art. 118 Abs. 1 lit. a und b ZPO).
-* Obsiegt die bedürftige Partei, fordert der Staat die Gerichtskosten und die Entschädigung des unentgeltlichen Rechtsbeistands direkt von der unterliegenden Gegenpartei ein (Art. 122 Abs. 1 lit. d und Abs. 2 ZPO; [BGE 140 III 159 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-3)).
+* Obsiegt die bedürftige Partei, fordert der Staat die Gerichtskosten und die Entschädigung des unentgeltlichen Rechtsbeistands direkt von der unterliegenden Gegenpartei ein (Art. 122 Abs. 1 lit. d und Abs. 2 ZPO; [BGE 140 III 167 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167#e-2)).
 * Unterliegt die bedürftige Partei, trägt der Kanton die Gerichtskosten und entschädigt den Rechtsbeistand; die Nachzahlungspflicht richtet sich nach Art. 123 ZPO ([BGer 5D_147/2013 vom 17.7.2013 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bger_5D_147_2013#e-2-2)).
 
 ---

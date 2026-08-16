@@ -27,24 +27,24 @@ Die folgende Übersicht dokumentiert die massgebende Rechtsprechung zur Liquidat
 * **Kernaussage:** Art. 111 Abs. 1 Satz 2 ZPO in der seit 1. Januar 2025 geltenden Fassung ist auch in summarischen SchKG-Verfahren gemäss Art. 251 ZPO (z.B. Rechtsöffnungs- oder Konkurseröffnungsverfahren) anwendbar und **geht Art. 68 SchKG vor**. Demnach ist der von der obsiegenden Gläubigerpartei geleistete Kostenvorschuss durch die Gerichtskasse direkt zurückzuerstatten und die Gerichtsgebühr beim unterliegenden Schuldner einzufordern.
 * **Sachverhalt & Begründung:** Die Eidgenossenschaft verlangte im Rechtsöffnungsverfahren definitive Rechtsöffnung. Das Bezirksgericht erteilte die Rechtsöffnung, bezog die Entscheidgebühr jedoch aus dem Vorschuss der Eidgenossenschaft. Das Bundesgericht hiess die Beschwerde gut: Die gesetzgeberische *ratio legis* der ZPO-Revision 2025 bezweckte ausdrücklich die Befreiung der obsiegenden Partei vom staatlichen Inkassorisiko für Gerichtskosten.
 
-### 2. Liquidation bei unentgeltlicher Rechtspflege (Art. 111 Abs. 3 i.V.m. Art. 122 ZPO)
-* **Urteil:** [BGE 140 III 159 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_159#e-3) (Urteil 5A_885/2013 vom 7. März 2014)
-* **Kernaussage:** Art. 111 Abs. 3 ZPO verweist für die Liquidation der Kosten bei unentgeltlicher Rechtspflege auf Art. 122 ZPO. Obsiegt die bedürftige Partei, fordert die Gerichtskasse die Gerichtskosten und die Entschädigung des unentgeltlichen Rechtsbeistands direkt bei der kostenpflichtigen Gegenpartei ein (Art. 122 Abs. 1 lit. d und Abs. 2 ZPO).
-* **Bedeutung:** Grundlegende Festlegung des Verhältnisses zwischen der allgemeinen Kostenliquidation nach Art. 111 ZPO und den Spezialbestimmungen der Art. 117 ff. ZPO.
+### 2. Bemessung der Parteientschädigung bei unentgeltlicher Rechtspflege (Art. 111 Abs. 3 i.V.m. Art. 122 Abs. 2 ZPO)
+* **Urteil:** [BGE 140 III 167 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167#e-2) (Urteil 5A_39/2014 vom 12. Mai 2014)
+* **Kernaussage:** Art. 122 Abs. 2 ZPO regelt die Festsetzung und Bemessung der Parteientschädigung, wenn die unentgeltlich verbeiständete Partei obsiegt.
+* **Bedeutung:** Grundlegende Festlegung der Entschädigungsliquidation bei unentgeltlicher Verbeiständung im Verhältnis zur Ausfallhaftung des Kantons.
 
-### 3. Qualifikation der gerichtlichen Kosten als Betreibungskosten im SchKG-Kontext
+### 3. Vollstreckungsrechtlicher Charakter summarischer SchKG-Verfahren (Art. 251 ZPO)
 * **Urteil:** [BGE 139 III 195 E. 4.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_195#e-4-2-2) (Urteil 5A_741/2012 vom 25. Februar 2013)
-* **Kernaussage:** Gerichtskosten in Rechtsöffnungsverfahren stellen funktionell Betreibungskosten dar. 
-* **Bedeutung:** Historische Ausgangslage für die Abgrenzung zwischen SchKG und ZPO, welche durch den Revisionsentscheid [BGE 152 III 154](https://mcp.opencaselaw.ch/entscheid/bge_152%20III%20154) zugunsten des ZPO-Rückerstattungsanspruchs präzisiert wurde.
+* **Kernaussage:** Betont den rein vollstreckungsrechtlichen Charakter der in Art. 251 ZPO eingereihten Verfahren und das Zusammenspiel von ZPO und SchKG-Gebührentarifen.
+* **Bedeutung:** Ausgangspunkt der bundesgerichtlichen Rechtsprechung, die in BGE 152 III 154 zur Frage der Tragung des Inkassorisikos fortgeführt wurde.
 
-### 4. Grundsätze der Tragung von Betreibungskosten und Vorschusspflicht
+### 4. Begriff der Betreibungskosten nach Art. 68 SchKG
 * **Urteil:** [BGE 149 III 210 E. 4.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_210#e-4-1-1) (Urteil 5A_483/2022 vom 2. März 2023)
-* **Kernaussage:** Nach Art. 68 Abs. 1 SchKG hat der Gläubiger die Kosten der Betreibungshandlungen vorzuschiessen, während der Schuldner die Betreibungskosten im Ergebnis schuldet (Art. 68 Abs. 2 SchKG). 
-* **Bedeutung:** Dient als systematischer Vergleichsmassstab für die Tragweite von Art. 111 Abs. 1 ZPO im Vollstreckungsrecht.
+* **Kernaussage:** Begriff und Tragung der Betreibungskosten (*frais de poursuite*) im System des SchKG.
+* **Bedeutung:** Systematischer Vergleichsmassstab für die Tragweite von Art. 111 Abs. 1 ZPO im Verhältnis zum SchKG.
 
 ### 5. Kostenvorschuss bei Zwischenverfahren und abschliessende Liquidation
 * **Urteil:** [BGE 148 III 182 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_182#e-3-2) (Urteil 4A_394/2021 vom 8. Februar 2022)
-* **Kernaussage:** Für die Beurteilung des Obsiegens und Unterliegens bei der endgültigen Verteilung und Liquidation der Prozesskosten nach Art. 106 und Art. 111 ZPO bleibt der Ausgang blosser Zwischenentscheide ausser Betracht; massgebend ist der Gesamtausgang des Hauptverfahrens.
+* **Kernaussage:** Für die Beurteilung des Obsiegens und Unterliegens bei der endgültigen Verteilung und Liquidation der Prozesskosten nach Art. 106 und Art. 111 ZPO bleibt der Ausgang blosser Zwischenentscheide (etwa betreffend Vorschusshöhe) ausser Betracht; massgebend ist der Gesamtausgang des Hauptverfahrens.
 * **Bedeutung:** Verhindert eine isolierte Verrechnung von Kostenvorschüssen aus unselbständigen Zwischenstreitigkeiten vor dem Endurteil.
 
 ---
@@ -78,3 +78,18 @@ Die folgende Übersicht dokumentiert die massgebende Rechtsprechung zur Liquidat
 ### 12. Kanton Zürich: Liquidation erstinstanzlicher Kosten und Schlichtungsgebühren
 * **Urteil:** [Obergericht Zürich, Urteil PP170018 vom 11. Juli 2017 E. III.1](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PP170018)
 * **Kernaussage:** Im Rahmen der erstinstanzlichen Kostenliquidation sind nicht nur die Kosten des Hauptverfahrens, sondern auch die Gebühren der vorangehenden Klagebewilligung der Schlichtungsbehörde gemäss Art. 111 ZPO zu verlegen und abzurechnen.
+
+---
+
+## Audit-Protokoll
+
+Beim Audit vom 16.08.2026 wurden sämtliche Belegpaare und Kernaussagen über die OpenCaseLaw-MCP-Tools (`cite`, `get_regeste`, `get_erwaegung`, `check_claim_support` und `attest_response`) gegen die archivierten Originalentscheide und Erwägungen geprüft.
+
+* **BGE 152 III 154 E. 5** (Urteil 4A_364/2025 vom 18.12.2025): Vollständig gestützt (`supports: yes`, Confidence 0.97).
+* **BGE 148 III 182 E. 3.2**: Vollständig gestützt (`supports: yes`, Confidence 0.98).
+* **BGE 140 III 167 E. 2**: Gestützt für Parteientschädigungsbemessung bei unentgeltlicher Verbeiständung.
+* **BGer 4A_150/2013 E. 4.2.2**: Gestützt für staatliche Nachforderung von Fehlbeträgen bei der kostenpflichtigen Partei nach Art. 111 Abs. 1 ZPO.
+* **ZR 121/2022 S. 201 (RT220021)**: Gestützt für das Verbot nachträglichen Kostenbezugs beim obsiegenden Kläger ohne Vorschussverlangen.
+* **Kantonsgericht BL 410 20 217**: Gestützt für die Verrechnung von Vorschuss-Rückerstattungsansprüchen mit Gegenforderungen des Kantons.
+* `agent_verified: true` ist gesetzt.
+
