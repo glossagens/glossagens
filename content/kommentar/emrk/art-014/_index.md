@@ -2,10 +2,16 @@
 title: "Art. 14 — Diskriminierungsverbot"
 weight: 14
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-08-16
 description: "Kommentar zu Art. 14 EMRK – Diskriminierungsverbot: Verbot der Diskriminierung bei der Genuss der Konventionsrechte"
 tags: ["EMRK", "Diskriminierungsverbot", "Gleichbehandlung", "Menschenrechte", "EGMR"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-16
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit (Urteil C, 0% -> ...): BGE 146 I 49 (real: Einbuergerungsvoraussetzungen) wurde 6x fuer durchgehend andere, falsche Themen zitiert (Vergleichbarkeit, suspekte Merkmale, Art.8-Abs.2-BV-Parallele, Renten-Geschlechterdiskriminierung, Gesundheit, sogar in der Literaturliste als 'gleichgeschlechtliche Ehe' fehlcharakterisiert). Ersetzt durch via check_claim_support verifizierte, thematisch passende Entscheide (143 I 50, 140 I 77, 129 I 392)."
 ---
 
 ## Gesetzeswortlaut
@@ -40,7 +46,7 @@ Der EGMR hat den Anwendungsbereich jedoch **grosszügig** interpretiert: Nahezu 
 
 ### II. Vergleichbare Sachverhalte (Differenzierung)
 
-Eine Diskriminierung liegt vor, wenn **vergleichbare Sachverhalte unterschiedlich** oder **unterschiedliche Sachverhalte gleich** behandelt werden. Die Vergleichbarkeit bestimmt sich nach dem Zweck der Norm und den relevanten Kriterien ([BGE 146 I 49, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49#e-5-2)).
+Eine Diskriminierung liegt vor, wenn **vergleichbare Sachverhalte unterschiedlich** oder **unterschiedliche Sachverhalte gleich** behandelt werden. Die Vergleichbarkeit bestimmt sich nach dem Zweck der Norm und den relevanten Kriterien.
 
 Der EGMR unterscheidet zwischen:
 
@@ -55,7 +61,7 @@ Die Verhältnismässigkeitsprüfung erfolgt nach drei Stufen:
 2. **Objektive Rechtfertigung**: Es muss ein vernünftiger Zusammenhang zwischen dem Ziel und der Massnahme bestehen
 3. **Angemessenheit**: Die Massnahme muss angemessen sein, das Ziel zu erreichen
 
-Bei **suspekten Diskriminierungsmerkmalen** (Geschlecht, Rasse, ethnische Herkunft, sexuelle Orientierung) wendet der EGMR eine **strikte Verhältnismässigkeitsprüfung** an: Dieifferentielle Behandlung bedarf einer besonders gewichtigen Rechtfertigung ([EGMR, Urteil vom 12.06.2014, Hämäläinen gegen Finnland, § 109](https://hudoc.echr.coe.int/eng?i=37351/11); [BGE 146 I 49, E. 5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49#e-5-3)).
+Bei **suspekten Diskriminierungsmerkmalen** (Geschlecht, Rasse, ethnische Herkunft, sexuelle Orientierung) wendet der EGMR eine **strikte Verhältnismässigkeitsprüfung** an: Die differenzielle Behandlung bedarf einer besonders gewichtigen Rechtfertigung (EGMR, Urteil vom 12.06.2014, Hämäläinen gegen Finnland, § 109); bei geschlechtsbezogenen Statuswechseln kann bereits eine allein familiär bedingte Änderung EMRK-widrig sein ([BGE 143 I 50](https://mcp.opencaselaw.ch/entscheid/bge_143%20I%2050)).
 
 Bei **unsuspekten Merkmalen** (z.B. Wohnsitz, Vermögen) genügt ein weiter Ermessensspielraum des Staates (margin of appreciation).
 
@@ -72,7 +78,7 @@ Art. 14 EMRK nennt einen **nicht abschliessenden Katalog** von Diskriminierungsm
 | Nationalität | Mittel | EGMR, Urteil vom 16.09.1996, Gaygusuz gegen Österreich |
 | Alter | Mittel | EGMR, Urteil vom 16.01.2007, Carvalho Pinto gegen Portugal |
 | Vermögen / soziale Herkunft | Leicht (breiter Ermessensspielraum) | EGMR, Urteil vom 03.02.2011, V.C. gegen der Slowakei |
-| Gesundheit | Mittel | BGE 146 I 49 |
+| Gesundheit | Mittel | [BGE 143 I 50](https://mcp.opencaselaw.ch/entscheid/bge_143%20I%2050) — Invaliditätsbemessung |
 
 ### V. Verhältnis zu Art. 8 Ziff. 2 EMRK und Art. 2 ZP 12
 
@@ -82,12 +88,12 @@ Art. 14 EMRK nennt einen **nicht abschliessenden Katalog** von Diskriminierungsm
 ### Abgrenzungen
 
 - **Art. 14 vs. Art. 2 ZP 12 EMRK**: Art. 14 ist Zubringerrecht; Art. 2 ZP 12 gilt allgemein. In der Schweiz ist nur Art. 14 anwendbar.
-- **Art. 14 vs. Art. 8 Abs. 2 BV**: Art. 8 Abs. 2 BV enthält ein allgemeines Diskriminierungsverbot, das nicht an Konventionsrechte geknüpft ist. Das Schweizer Bundesgericht wendet Art. 8 Abs. 2 BV parallel zu Art. 14 EMRK an ([BGE 146 I 49, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49#e-5-1)).
+- **Art. 14 vs. Art. 8 Abs. 2 BV**: Art. 8 Abs. 2 BV enthält ein allgemeines Diskriminierungsverbot, das nicht an Konventionsrechte geknüpft ist. Das Schweizer Bundesgericht wendet Art. 8 Abs. 2 BV parallel zu Art. 14 EMRK an, etwa bei der verfassungsrechtlichen Prüfung von Initiativen, die Schweizer gegenüber Ausländern ohne sachlichen Grund bevorzugen ([BGE 129 I 392](https://mcp.opencaselaw.ch/entscheid/bge_129%20I%20392)).
 - **Art. 14 vs. Art. 1 BV (Rechtsgleichheit)**: Art. 1 BV gewährleistet die allgemeine Rechtsgleichheit; Art. 14 EMRK verbietet die Diskriminierung spezifisch bei der Wahrnehmung von Konventionsrechten.
 
 ### Kasuistik
 
-- **Geschlechterdiskriminierung bei Renten**: Die unterschiedliche Behandlung von Männern und Frauen bei der Berechnung von Renten ist nur gerechtfertigt, wenn objektive und sachliche Gründe vorliegen ([BGE 146 I 49, E. 5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_49#e-5-3))
+- **Diskriminierung nach Zivilstand bei Renten**: Die Rentenplafonierung nach Art. 35 AHVG führt zu einer Ungleichbehandlung von Ehepaaren und eingetragenen Partnern gegenüber Konkubinatspaaren; sie ist nur gerechtfertigt, wenn sachliche Gründe vorliegen ([BGE 140 I 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_77))
 - **Sexuelle Orientierung**: Die Verweigerung der Adoption an gleichgeschlechtliche Paare verstösst gegen Art. 14 i.V.m. Art. 8 EMRK ([EGMR, Urteil vom 22.01.2023, X und andere gegen Bulgarien](https://hudoc.echr.coe.int/eng?i=22050/13))
 - **Ethnische Diskriminierung bei Polizeikontrollen**: Rassistisch motivierte Polizeikontrollen (racial profiling) verstossen gegen Art. 14 i.V.m. Art. 5 EMRK ([EGMR, Urteil vom 13.12.2005, Nachova gegen Bulgarien](https://hudoc.echr.coe.int/eng?i=43577/98))
 
@@ -95,4 +101,6 @@ Art. 14 EMRK nennt einen **nicht abschliessenden Katalog** von Diskriminierungsm
 
 - Grabenwarter, Christoph, Europäische Menschenrechtskonvention, 6. Aufl. 2021, § 21 (Art. 14 EMRK)
 - Meyer-Ladewig, Jens, EMRK-Kommentar, 4. Aufl. 2017, Art. 14 N. 1–80
-- BGE 146 I 49 (Schweizer Bundesgericht, Diskriminierungsverbot i.V.m. gleichgeschlechtlicher Ehe)
+- BGE 129 I 392 (Schweizer Bundesgericht, Rechtsgleichheit und Diskriminierungsverbot)
+- BGE 143 I 50 (Schweizer Bundesgericht, Art. 14 i.V.m. Art. 8 EMRK, Invaliditätsbemessung)
+- BGE 140 I 77 (Schweizer Bundesgericht, Rentenplafonierung, Diskriminierung nach Zivilstand)
