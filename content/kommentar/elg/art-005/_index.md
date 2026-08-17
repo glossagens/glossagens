@@ -29,6 +29,10 @@ agent_verified: true
 > **d.** zehn Jahre für Personen, die eine Altersrente der AHV beziehen oder das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht haben und deren Altersrente keine Hinterlassenenrente der AHV oder Rente der IV ablöst oder ablösen würde.
 >
 > **4** Ausländerinnen und Ausländer, die weder Flüchtlinge noch staatenlos sind noch unter Absatz 3 fallen, haben nur Anspruch auf Ergänzungsleistungen, wenn sie neben der Karenzfrist nach Absatz 1 eine der Voraussetzungen nach Artikel 4 Absatz 1 Buchstabe a, abis, ater, b Ziffer 2 oder c oder Absatz 2 erfüllen.
+>
+> **5** Hält sich eine Ausländerin oder ein Ausländer ununterbrochen während mehr als drei Monaten oder in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland auf, so beginnt die Karenzfrist mit der Rückkehr in die Schweiz neu zu laufen.
+>
+> **6** Der Bundesrat regelt die Ausnahmen für wichtige Gründe.
 
 ## Kommentierung
 
@@ -47,6 +51,12 @@ agent_verified: true
 **4** **Grundsatz: 10 Jahre** Die Karenzfrist beträgt grundsätzlich 10 Jahre ununterbrochenen Aufenthalt in der Schweiz unmittelbar vor dem Zeitpunkt, ab dem die EL verlangt wird. Die Frist beginnt mit der rechtmässigen Einreise und endet mit dem EL-Gesuch. Unterbrechungen des Aufenthalts, die aus wichtigem Grund erfolgten (Krankheit, Militärdienst, vorübergehende Auslandentsendung), gelten nicht als Unterbrechung der Frist ([BGE 126 V 463](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_V_463)).
 
 **5** **Flüchtlinge und Staatenlose: 5 Jahre** Für anerkannte Flüchtlinge (Art. 1 Flüchtlingskonvention) und staatenlose Personen beträgt die Karenzfrist 5 Jahre. Die verkürzte Frist trägt der besonderen Schutzbedürftigkeit dieser Personengruppen Rechnung. Massgebend ist der Zeitpunkt der Flüchtlingsanerkennung bzw. der Feststellung der Staatenlosigkeit ([BGE 136 V 33](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_33)).
+
+### IIIa. Auslandaufenthalt und Unterbrechung der Karenzfrist (Abs. 5 und 6)
+
+**5a** **90-Tage-Regelung nach Art. 1 Abs. 1 ELV ist verbindlich:** Nach Art. 5 Abs. 5 ELG beginnt die Karenzfrist neu zu laufen, wenn sich eine ausländische Person ununterbrochen oder in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland aufhält. In einem Leitentscheid ([BGer 8C_148/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_148_2026) vom 14. Juli 2026, zur Publikation vorgesehen) stellte das Bundesgericht klar, dass die verordnungsrechtliche Konkretisierung der dreimonatigen Frist auf **90 Tage** in Art. 1 Abs. 1 ELV gesetzes- und verfassungskonform ist (gestützt auf Art. 4 Abs. 4 ELG).
+
+**5b** **Wirkung des Unterbruchs:** Überschreitet der Auslandaufenthalt 90 Tage (ohne Ein- und Ausreisetage), so ist die Karenzfrist grundsätzlich unterbrochen und beginnt bei der Rückkehr in die Schweiz vollständig neu zu laufen ([BGer 8C_148/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_148_2026)). Eine Ausnahme greift nur, wenn ein **wichtiger Grund** im Sinne von Art. 1a Abs. 4 ELV vorliegt (z.B. unvorhergesehene schwere Erkrankung oder Pflege naher Angehöriger im Ausland), welcher die massgebliche Auslandaufenthaltsdauer auf 365 Tage verlängert (Art. 1b ELV).
 
 ### IV. Sozialversicherungsabkommen (Abs. 3)
 

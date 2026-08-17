@@ -31,6 +31,13 @@ agent_verified: false
 
 ---
 
+### [BGer 8C_148/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_148_2026) vom 14. Juli 2026 (zur Publikation vorgesehen)
+- **Thema**: Auslandaufenthalt, Karenzfrist, 90-Tage-Regel (Art. 1 Abs. 1 ELV i.V.m. Art. 5 Abs. 5 ELG)
+- **Kernaussage**: Die Konkretisierung der dreimonatigen Frist für Auslandaufenthalte auf 90 Tage in Art. 1 Abs. 1 ELV liegt im Rahmen der Delegationsbefugnis von Art. 4 Abs. 4 ELG und ist gesetzes- sowie verfassungskonform. Ein Aufenthalt von 92 Tagen unterbricht die Karenzfrist grundsätzlich, sofern kein wichtiger Grund nach Art. 1a Abs. 4 ELV vorliegt.
+- **Einschlägig für**: Abs. 5 und 6 — Auslandaufenthalt, Unterbrechung der Karenzfrist
+
+---
+
 ## Weitere Bundesgerichtsentscheide
 
 ### [BGE 99 Ia 630](https://mcp.opencaselaw.ch/entscheid/bge_BGE_99_Ia_630)

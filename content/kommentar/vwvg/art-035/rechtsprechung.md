@@ -44,6 +44,10 @@ Das Bundesamt ist in der Begründung seiner Verfügungen grundsätzlich frei. We
 **[BGE 131 II 200](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_II_200#e-4-1)** (16. Februar 2005)
 Gemäss Art. 49 Abs. 1 ArG hat der Arbeitgeber Gesuche für gesetzlich vorgesehene Bewilligungen (hier: Sonntagsarbeit) zu begründen; die Bewilligungsverfügung selbst hat nach Art. 42 ArGV 1 Rechtsgrundlage und Begründung anzuführen (E. 4.1).
 
+### 5. BGer 1C_114/2025 — Begründungspflicht bei Geheimhaltungsinteressen (Nachrichtendienst)
+**[BGer 1C_114/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025)** (24. Juli 2026, zur Publikation vorgesehen)
+Auch bei überwiegenden Geheimhaltungsinteressen von Sicherheitsbehörden (Aufschub des Auskunftsrechts beim NDB) genügt ein formelhafter Verweis auf die Gesetzesbestimmung nicht; gefordert ist eine **umschreibende Begründung** (Konkretisierung von BGE 141 I 201). Eine nur dem Gericht vorgelegte vertrauliche Aktennotiz heilt den Begründungsmangel gegenüber der betroffenen Partei nicht.
+
 ### 6. BGE 113 II 204 — Auslagerung der Begründung in ein separates Schriftstück
 **[BGE 113 II 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_113_II_204)** (9. Dezember 1986)
 Die Begründung braucht nicht zwingend im selben Schriftstück enthalten zu sein wie das Verfügungsdispositiv. Eine zeitgleich oder nachfolgend zugestellte Begründung genügt den Anforderungen von Art. 35 Abs. 1 VwVG, sofern der Zusammenhang gewahrt bleibt (E. 2).

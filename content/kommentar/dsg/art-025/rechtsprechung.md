@@ -28,6 +28,10 @@ revisions:
   [Gericht ZH AH250010 vom 26. Februar 2026](https://mcp.opencaselaw.ch/entscheid/zh_bezirksgericht_winterthur_AH250010)
   Bestätigt die Rechtsmissbrauchs-Doktrin zu BGE 138 III 425 und BGer 4A_277/2020 (E. 3.3.3) und stellt klar, dass die Beweislast für einen Einschränkungsgrund nach Art. 26 DSG beim Verantwortlichen liegt, der die entsprechenden Behauptungen in den Rechtsschriften selbst (nicht bloss in Beilagen) zu substantiieren hat. Im konkreten Fall (Personaldossier-Einsicht nach fristloser Kündigung) wurde die Auskunft zum Schutz der Identität minderjähriger, in einer parallelen Ethikuntersuchung anonym aussagender Drittpersonen nach Art. 26 Abs. 1 lit. b DSG eingeschränkt, im Übrigen aber gewährt (E. 3.3.4 ff.).
 
+* **Auskunftsaufschub bei Bundesorganen / Nachrichtendienst: Begründungspflicht (Art. 25/26 DSG, aArt. 9 aDSG)**
+  [BGer 1C_114/2025 vom 24. Juli 2026 (zur Publikation vorgesehen)](https://mcp.opencaselaw.ch/entscheid/bger_1C_114_2025)
+  Auch im Bereich der inneren Sicherheit (Auskunftsgesuch betreffend Daten beim NDB) genügt ein blosser formelhafter Verweis auf überwiegende öffentliche Geheimhaltungsinteressen nicht für einen Aufschub des Auskunftsrechts; erforderlich ist eine umschreibende Begründung (Konkretisierung von BGE 141 I 201). Eine nur dem Gericht vorgelegte vertrauliche Aktennotiz heilt den Mangel gegenüber der betroffenen Person nicht. Zudem: Die Übergangsbestimmung von Art. 70 DSG findet bei grundlegend neuen Verfahrensordnungen auch auf geänderte NDG-Bestimmungen Anwendung.
+
 ---
 
 ## II. Weitere Entscheide
