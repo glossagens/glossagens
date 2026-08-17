@@ -224,6 +224,7 @@ Ein fehlerhaftes Template bricht **den gesamten** Hugo-Build ab, nicht nur die b
 Absicherung:
 
 - `.hugo-version` ist die **einzige** Stelle, an der die Hugo-Version steht. `deploy.yml` liest sie, `scripts/build-check.sh` vergleicht die lokale Installation dagegen und warnt bei Abweichung. Die Versionen müssen übereinstimmen: Der Auslöser des Ausfalls war ein Template-Ausdruck, der unter 0.147.4 (CI) anders auswertete als unter 0.161.1 (lokal) — lokal grün, in CI Cast-Fehler.
+- Der Check bricht ab, wenn der **Submodul-Stand** (`themes/hextra`) von dem im Parent-Repo aufgezeichneten Commit abweicht. Der Runner checkt den aufgezeichneten Commit aus — weicht der lokale ab, prüft der Build lokal ein anderes Theme als die CI baut. Am 17.08.2026 der Auslöser dreier roter Deploys: aufgezeichnet war hextra `c9feec7`, ausgecheckt `38d18a5`; der Projekt-Override `layouts/_partials/toc.html` ruft `utils/headings.html` auf, das es erst im neueren Stand gibt. Beheben mit `git add themes/hextra && git commit`. Theme-Anpassungen gehören nie ins Submodul, sondern nach `layouts/` — das überschreibt `themes/`.
 - `.githooks/pre-push` baut vor jedem Push, der `content/`, `layouts/`, `data/`, `assets/`, `i18n/`, `static/`, `themes/`, `archetypes/`, `hugo.toml` oder `.hugo-version` berührt (~30 s); andere Pushes laufen ungebremst durch. Einmalig pro Klon zu aktivieren: `git config core.hooksPath .githooks`.
 - Manuell: `make build-check` bzw. `./scripts/build-check.sh`. Notausgang: `git push --no-verify`.
 
