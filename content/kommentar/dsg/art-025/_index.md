@@ -83,6 +83,10 @@ Art. 25 DSG regelt das Auskunftsrecht als **«Grundpfeiler des Datenschutzrechts
 
 **11** Art. 25 DSG begründet den Auskunftsanspruch dem Grundsatz nach; **Art. 26 DSG** (→ dortige Kommentierung) regelt demgegenüber abschliessend, unter welchen Voraussetzungen der Verantwortliche die Auskunft verweigern, einschränken oder aufschieben darf. Beide Bestimmungen sind stets zusammen zu lesen: Ein Auskunftsbegehren ist nur dann (teilweise) abzulehnen, wenn sich der Verantwortliche auf einen der in Art. 26 DSG abschliessend aufgezählten Gründe stützen kann und dies entsprechend begründet (Art. 26 Abs. 4 DSG).
 
+### 3. Zugangsrecht bei internen Untersuchungsberichten
+
+**12** Das datenschutzrechtliche Auskunftsrecht nach Art. 25 DSG umfasst grundsätzlich auch den Zugang zu **internen Untersuchungsberichten** (z.B. internen Audits oder Compliance-Untersuchungen), sofern diese personenbezogene Daten über die auskunftssuchende Person enthalten ([BGer 4A_504/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_504_2025) vom 14. August 2026). Eine interne Untersuchung führt nicht per se zu einem überwiegenden Geheimhaltungsinteresse des Verantwortlichen, das eine Verweigerung nach Art. 26 DSG rechtfertigt; das Geheimhaltungsinteresse ist vom Verantwortlichen vielmehr konkret und substanziiert darzulegen.
+
 ## Spezialliteraturverzeichnis
 
 STEIGER MARTIN, Kommentierung zu Art. 25 DSG, in: Steiner Thomas/Morand Anne-Sophie/Hürlimann Daniel (Hrsg.), Onlinekommentar zum Bundesgesetz über den Datenschutz, <https://onlinekommentar.ch/de/kommentare/dsg25>

@@ -88,7 +88,16 @@ Für das Gelingen des Gegenbeweises gilt nicht das Beweismass des Hauptbeweises.
 
 Gelingt der Gegenbeweis, dürfen die vom Anspruchsberechtigten behaupteten Tatsachen nicht als bewiesen — d.h. als überwiegend wahrscheinlich gemacht — anerkannt werden. Der Hauptbeweis ist vielmehr **gescheitert** (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.4).
 
-#### 3. Antizipierte Beweiswürdigung
+#### 3. Natürliche (tatsächliche) Vermutung und Abgrenzung zur Beweislastumkehr
+
+Natürliche (tatsächliche) Vermutungen beruhen nicht auf einer gesetzlichen Anordnung, sondern fliessen aus der allgemeinen Lebenserfahrung ([BGE 149 III 287](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_287) E. 3.3.1; [BGE 123 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_241) E. 3a). Sie ermöglichen eine wahrscheinlichkeitsbasierte Beweiserleichterung, indem aus bekannten Indizien auf das Vorliegen der anspruchsbegründenden Tatsache geschlossen wird ([BGer 4A_290/2018](https://mcp.opencaselaw.ch/entscheid/bger_4A_290_2018) E. 2.4.1).
+
+In einem Grundsatzurteil einer 5er-Besetzung ([BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026) vom 11. Juni 2026, zur Publikation vorgesehen) präzisierte das Bundesgericht die dogmatische Natur der natürlichen Vermutung:
+- Natürliche Vermutungen bewirken **keine Umkehr der Beweislast**, sondern betreffen die **freie Beweiswürdigung** durch das Sachgericht ([BGE 147 III 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_431) E. 3.3.2; [BGE 130 II 482](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_482) E. 3.2; [BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)).
+- Der Vermutungsgegner muss zur Entkräftung der Vermutung **keinen Beweis des Gegenteils** antreten; es genügt der einfache Gegenbeweis, der durch das Wecken hinreichender Zweifel an der Vermutungsbasis oder der Schlüssigkeit des Erfahrungssatzes geführt wird ([BGE 141 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_241) E. 3.2.2; [BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)).
+- Das Bundesgericht stellte klar, dass missverständliche Formulierungen in der früheren Rechtsprechung (insb. BGE 142 III 369) präzisiert werden müssen.
+
+#### 4. Antizipierte Beweiswürdigung
 
 Art. 8 ZGB schliesst die **vorweggenommene (antizipierte) Beweiswürdigung** nicht aus. Es bleibt dem Sachgericht unbenommen, von beantragten Beweiserhebungen abzusehen, weil es sie zum vornherein nicht für geeignet hält, die behaupteten Tatsachen zu beweisen, oder weil es seine Überzeugung bereits gebildet hat und davon ausgeht, dass weitere Abklärungen am massgeblichen Beweisergebnis nichts mehr zu ändern vermöchten (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a; BGE 119 II 114, E. 4c, S. 117; BGE 115 II 305, E. 3).
 
@@ -119,6 +128,10 @@ Im öffentlichen Beschaffungswesen kann sich ein Gemeinwesen als Vergabebehörde
 #### 5. Verfahrensrecht — Rechtsschutz in klaren Fällen
 
 Im summarischen Verfahren des Rechtsschutzes in klaren Fällen (Art. 257 ZPO) gelten besondere **Substantiierungs- und Bestreitungsanforderungen**. Der Beklagte muss sich in tatsächlicher Hinsicht substantiiert gegen den eingeklagten Anspruch äussern; ein blosses formelles Bestreiten genügt nicht, um den Kläger zum vollen Beweis zu verpflichten (BGE [138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620), E. 5.1.1 und 6.2). Klärt der Beklagte nicht ausreichend, welche Tatsachen er bestreitet, so gelten die anspruchsbegründenden Tatsachen als unbestritten.
+
+#### 6. Beweis des Sendungsinhalts (Privatsendungen)
+
+Für den Beweis des Inhalts einer Sendung einer privaten Partei gelten strengere Massstäbe als bei Behördensendungen. Eine natürliche Vermutung, wonach eine eingeschriebene Sendung den vom Absender behaupteten Inhalt hatte, greift nicht, wenn der Versand mehrerer Dokumente in einem einzigen Umschlag atypisch ist ([BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)). In solchen Fällen bleibt der Absender vollumfänglich beweisbelastet für den tatsächlichen Zugang der spezifischen Schriftstücke.
 
 ## Querverweise
 

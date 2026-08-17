@@ -49,6 +49,8 @@ Art. 19 StGB ist die zentrale Norm des schweizerischen Schuldfähigkeitsrechts. 
 
 **6** Die verminderte Schuldfähigkeit allein führt **grundsätzlich nicht** zur Unterschreitung des ordentlichen Strafrahmens. Dazu bedarf es weiterer, ins Gewicht fallender Umstände, die das Verschulden als besonders leicht erscheinen lassen ([BGE 136 IV 55 E. 5.8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55#e-5-8)).
 
+**6a** **Tatfrage und Rechtsfrage:** Die Feststellung des Geisteszustands des Täters und der Schuldfähigkeit zur Tatzeit ist Tatfrage und wird vom Bundesgericht nur unter dem Blickwinkel der Willkür geprüft (Art. 97 Abs. 1 BGG); Rechtsfrage ist hingegen, ob der Begriff der verminderten Schuldfähigkeit richtig ausgelegt und angewendet wurde ([BGE 107 IV 3 E. 1a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_IV_3); [BGer 6B_1012/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1012_2025) vom 29. Juli 2026; [BGer 6B_497/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_497_2024) E. 2.1.5).
+
 ### IV. Massnahmen trotz Schuldunfähigkeit (Abs. 3)
 
 **7** Selbst bei Schuldunfähigkeit können Massnahmen angeordnet werden. In Betracht kommen:
@@ -78,6 +80,8 @@ Art. 19 StGB ist die zentrale Norm des schweizerischen Schuldfähigkeitsrechts. 
 **14** *Art. 19 StGB vs. Art. 20 StGB*: Art. 19 regelt die materiellen Voraussetzungen und Rechtsfolgen der Schuldfähigkeit, Art. 20 das Verfahren zur Begutachtung. Art. 20 ist die prozessuale Vorstufe — er wird angewendet, **bevor** über Art. 19 entschieden werden kann.
 
 **15** *Art. 19 StGB vs. Art. 56 StGB*: Art. 56 StGB regelt die sogenannte **verminderte Zurechnungsfähigkeit** im Rahmen der Massnahmen, während Art. 19 die Schuldfähigkeit als Voraussetzung der Strafe betrifft. Die Konzepte überschneiden sich teilweise, sind aber dogmatisch zu unterscheiden.
+
+**16** *Art. 19 StGB vs. Vorsatz (Art. 12 StGB) und Sachverhaltsirrtum (Art. 13 StGB)*: Die Frage des Tatvorsatzes ([Art. 12 StGB](../art-012/)) ist von derjenigen der Schuldfähigkeit (Art. 19 StGB) rechtlich strikt zu trennen ([BGer 6B_1012/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1012_2025) vom 29. Juli 2026). Selbst ein schuldunfähiger oder vermindert schuldfähiger Täter kann vorsätzlich handeln ([BGE 115 IV 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_221) E. 1; Urteile [6B_401/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_401_2025) E. 3.4; [6B_1115/2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_1115_2022) E. 2.2.4). Krankheitsbedingter Wahn wird ausschliesslich im Rahmen von Art. 19 StGB beurteilt und stellt keinen Sachverhaltsirrtum nach [Art. 13 StGB](../art-013/) dar ([BGE 147 IV 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_193) E. 1.4; [BGer 6B_1012/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1012_2025)).
 
 ## Literatur
 

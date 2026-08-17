@@ -86,6 +86,8 @@ Ein Mangel der fehlenden Ermächtigung zur Strafverfolgung eines Beamten wird **
 
 Der für die Ermächtigung zur Strafverfolgung notwendige **minimale Anfangsverdacht** ist zu bejahen. Die Ermächtigung zur Strafverfolgung ist keine Vorverurteilung; die beteiligten Polizeibeamten stehen unter dem Schutz der Unschuldsvermutung (Art. 32 Abs. 1 BV). Eine EMRK-widrige Verweigerung der Ermächtigung kann Revisionsgrund sein (Art. 2 EMRK i.V.m. Art. 122 lit. c BGG) ([BGE 147 I 494, E. 2.3 und 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_494#e-2-3)).
 
+Im Ermächtigungsverfahren sind ausschliesslich strafrechtliche Gesichtspunkte zu prüfen; für die Erteilung der Ermächtigung genügt ein Mindestmass an Hinweisen auf strafrechtlich relevantes Verhalten, und eine Verweigerung kommt nur bei klarer Straflosigkeit in Betracht ([BGE 149 IV 183 E. 2.1 und 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_183#e-2-1); [BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026) vom 29. Juli 2026). Rechtmässige behördliche Vollzugsmassnahmen — etwa polizeiliche Wohnortkontrollen gestützt auf einen ausländerrechtlichen Zuführungsauftrag (Art. 98a und Art. 124 Abs. 2 AIG) — begründen keinen Amtsmissbrauch (Art. 312 StGB) und rechtfertigen die Ermächtigungsverweigerung mangels Anfangsverdachts ([BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026)).
+
 ## V. Parlamentarische Immunität (Abs. 2 lit. a)
 
 Art. 7 Abs. 2 lit. a StPO gestattet den Kantonen, die strafrechtliche Verantwortlichkeit von Mitgliedern gesetzgebender und richterlicher Behörden sowie der Regierungen für Äusserungen im kantonalen Parlament auszuschliessen oder zu beschränken. Dies betrifft den parlamentarischen **Indemnitätsschutz**.

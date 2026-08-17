@@ -148,6 +148,7 @@ Die Praxis ist **restriktiv**. In der überwältigenden Mehrheit der Fälle wird
 - [BGer 6B_25/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_25_2024) E. 3.2–3.3.3: Kein besonders leichter Fall bei mehrfacher Pornografie mit Darstellungen von Sexualverkehr mit sehr jungen Kindern.
 - [BGer 7B_479/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_479_2023) E. 2.3–2.5: Das zwingende Verbot soll die Regel sein; die Ausnahme ist restriktiv anzuwenden. Gute Legalprognose allein genügt nicht, wenn kein besonders leichter Fall vorliegt.
 - [BGer 6B_821/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_821_2024) E. 5.2: Verhältnismässigkeitsprüfung: Das lebenslängliche Tätigkeitsverbot ist nicht per se unverhältnismässig, wenn der Täter nicht zwingend auf minderjährige Kundschaft angewiesen ist.
+- [BGer 6B_635/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_635_2025) vom 29. Juli 2026: Die gezielte und aktive Suche nach kinderpornografischem Material schliesst die Annahme eines besonders leichten Falls nach Art. 67 Abs. 4bis StGB aus (im Gegensatz zum bloss versehentlichen Besitz).
 
 **Kantonale Abweichung**: Das [Kantonsgericht BL (460 23 101)](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_460%2023%20101) hat als bisher einziges bekanntes kantonales Gericht ein lebenslängliches Tätigkeitsverbot aufgehoben und Art. 67 Abs. 4bis StGB (besonders leichter Fall) angewendet — bei einem 18-jährigen nicht vorbestraften Täter mit einmaliger Delinquenz von geringer Eingriffsintensität (über Kleidung).
 

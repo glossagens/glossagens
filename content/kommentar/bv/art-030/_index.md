@@ -176,6 +176,12 @@ Bei der Geltendmachung der Verletzung des Anspruchs auf den unparteiischen Richt
 - Die **Auslegung und Anwendung des kantonalen Verfahrensrechts** nur unter dem Gesichtswinkel der Willkür
 - Die **Vereinbarkeit** der als vertretbar erkannten Auslegung des kantonalen Prozessrechts mit den Garantien von Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK mit freier Kognition (BGE 126 I 68, E. 3)
 
+### Parteizugehörigkeit und Verfahrensfehler
+
+Die blosse **Parteizugehörigkeit** einer Justizperson begründet für sich allein keinen Anschein der Befangenheit im Sinne von Art. 30 Abs. 1 BV ([BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026); Bestätigung von [BGer 2C_328/2025](https://mcp.opencaselaw.ch/entscheid/bger_2C_328_2025) E. 4.3; [BGer 9F_19/2024](https://mcp.opencaselaw.ch/entscheid/bger_9F_19_2024) E. 2.2.2). Das richterliche Amt verlangt die Unabhängigkeit bei der Rechtsanwendung; eine politische Mitgliedschaft vermag diese Unvoreingenommenheit nicht abstrakt in Zweifel zu ziehen.
+
+Ebenso wenig können prozedurale Fehler oder als materiell unzutreffend empfundene Zwischenentscheide für sich allein als Ausdruck einer Voreingenommenheit qualifiziert werden ([BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026)). Solche Rügen sind auf dem ordentlichen Rechtsmittelweg gegen den betreffenden Entscheid vorzubringen. Erst **besonders krasse und wiederholte Irrtümer**, die einer schweren Amtspflichtverletzung gleichkommen, vermögen objektiv den Anschein der Befangenheit zu rechtfertigen ([BGE 125 I 119](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_I_119) E. 3e; [BGE 116 Ia 135](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_Ia_135) E. 3a; [BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026)).
+
 ### Amterkumulation
 
 Die Amterkumulation (die Ausübung mehrerer Ämter durch dieselbe Person) kann den Anschein der Befangenheit begründen, wenn die kumulierten Funktionen so beschaffen sind, dass eine Person in einem Verfahren eine Rolle einnimmt, die mit der Funktion als Richter unvereinbar ist. Das Bundesgericht hat die Amterkumulation in verschiedenen Konstellationen geprüft und fallweise beurteilt, ob die kumulierten Funktionen den Anschein der Befangenheit begründen (BGE 131 I 24).
