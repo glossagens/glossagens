@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-07-31"
+lastmod: "2026-08-17"
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Landesverweisung, Härtefallklausel, EMRK-Konformität und Freizügigkeitsabkommen"
 tags: ["Rechtsprechung", "Landesverweisung", "StGB", "Härtefallklausel"]
 agent_verified: false
@@ -216,6 +216,10 @@ agent_verified: false
 
 [BGer 6B_822/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_822_2025) (6. Juli 2026) — Bestätigung der etablierten Rechtsprechung zur Landesverweisung. Das Bundesgericht bestätigt die restriktive Härtefallprüfung nach Art. 66a Abs. 2 StGB und die zweistufige Methodik (Härtefallfeststellung + Interessenabwägung).
 
+### BGer 6B_868/2025 — Landesverweisung trotz Kernfamilie bei qualifiziertem Betäubungsmittelhandel (5er-Besetzung)
+
+[BGer 6B_868/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_868_2025) (29. Juli 2026) — 5er-Besetzung. Das Bundesgericht hebt den vorinstanzlichen Verzicht auf die obligatorische Landesverweisung nach Art. 66a Abs. 1 lit. o StGB auf und weist die Sache zurück. Der portugiesische Staatsangehörige (Jahrgang 1994/95) war wegen qualifizierter Widerhandlung gegen das Betäubungsmittelgesetz (18,82 g reines Kokain, Endverkäufer) verurteilt worden. Trotz enger Vater-Tochter-Beziehung (5-jährige schweizerische Tochter, Hauptverdiener, Wochenende-Betreuung) und 20-jährigem Aufenthalt überwiegen die öffentlichen Interessen an der Landesverweisung: (1) Die qualifizierte Betäubungsmitteldelinquenz gilt als schwere Straftat mit schwerwiegender Gefahr für die öffentliche Ordnung (Bestätigung von BGE 150 IV 213 E. 1.6.2.2); (2) Ausgeprägte Vorstrafenbelastung (22 Verurteilungen, darunter Waffendelikte, Sachbeschädigung, Betäubungsmitteldelikte); (3) Delinquenz auch nach Heirat und Geburt der Tochter — die Katalogtat wurde nach der Familienreifung begangen; (4) Hohe Verschuldung mit zahlreichen Verlustscheinen spricht gegen gelungene wirtschaftliche Integration; (5) Das Bundesgericht kritisierte die vorinstanzliche Annahme eines geringen Rückfallrisikos als nicht nachvollziehbar, da der bedingte Vollzug der Geldstrafe verweigert wurde. — Die Zumutbarkeitsprüfung einer Familiennachfolge im Heimatstaat wird restriktiv gehandhabt: Der Beschwerdegegner verfügt über intakte Wiedereingliederungsprognose in Portugal (Sprachkenntnisse, familiäre Bindungen, sporadische Besuche). Die Kindesinteressen werden berücksichtigt, bilden aber kein absolutes Hindernis (BGE 139 I 145 E. 2.3). — *Bestätigt und verschärft die strenge Praxis bei Betäubungsmitteldelikten; Präzisierung, dass wiederholte Delinquenz selbst nach Familienreifung die öffentlichen Interessen überwiegt.*
+
 ---
 
-Zuletzt aktualisiert: 2026-08-08 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](/einreichung)
+Zuletzt aktualisiert: 2026-08-17 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-066a/rechtsprechung.md) | [Anregung einreichen](/einreichung)

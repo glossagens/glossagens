@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 30 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-12
+lastmod: 2026-08-17
 description: "Rechtsprechung zu Art. 30 BV — Gerichtliche Verfahren: gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheit, Vorbefassung, Referentensystem, soziale Medien, Wahlgericht, Ausnahmegerichte, Wohnsitzrichter, Öffentlichkeit"
 tags: ["Rechtsprechung", "BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Vorbefassung", "Referentensystem", "soziale Medien", "Wahlgericht", "Öffentlichkeit", "Art. 30"]
 agent_verified: false
@@ -42,6 +42,14 @@ revisions:
 **BGE 126 I 68** — Leitentscheid zur Garantie des unparteiischen Richters. Nach der in Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK enthaltenen Garantie hat der Einzelne Anspruch darauf, dass seine Sache von einem unparteiischen, unvoreingenommenen und unbefangenen Richter ohne Einwirken sachfremder Umstände entschieden wird. Liegen bei objektiver Betrachtungsweise Gegebenheiten vor, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit zu begründen vermögen, so ist die Garantie verletzt (E. 3). Bei der Geltendmachung der Verletzung des Anspruchs auf den verfassungs- und konventionsmässigen Richter prüft das Bundesgericht die Auslegung und Anwendung des kantonalen Verfahrensrechts nur unter dem Gesichtswinkel der Willkür, mit freier Kognition hingegen, ob die als vertretbar erkannte Auslegung des kantonalen Prozessrechts mit den Garantien von Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar ist (E. 3).
 
 **BGE 140 III 221** — Leitentscheid zur Zusammenfassung der Grundsätze zur Befangenheit einer Gerichtsperson. Das Bundesgericht stellte die in der Rechtsprechung entwickelten Grundsätze zusammen (E. 4). Im konkreten Fall bejahte es den Anschein der Befangenheit einer Oberrichterin wegen besonderer Nähe ihres Ehemannes und ihres Schwagers zu einer mit einer Verfahrenspartei eng verbundenen Person. Über ihren Ehemann und ihren Schwager bestand eine derartige Nähe zu dem die Regressforderung bestreitenden Beschwerdegegner, dass die Oberrichterin wegen des Anscheins der Befangenheit hätte in den Ausstand treten müssen (E. 5.2.4). Gestützt auf Art. 48 ZPO hat eine betroffene Gerichtsperson einen möglichen Ausstandsgrund von sich aus vorgängig offenzulegen.
+
+### Parteizugehörigkeit einer Justizperson
+
+**BGer 1C_84/2026** — Parteizugehörigkeit einer Justizperson für sich allein begründet keinen Ausstandsgrund nach Art. 30 Abs. 1 BV. Die Beschwerdeführerin machte geltend, ein Oberrichter sei als SVP-Mitglied befangen. Das Bundesgericht hielt fest, dass die blosse Parteimitgliedschaft nicht den Anschein der Voreingenommenheit erweckt (Bestätigung von 2C_328/2025 E. 4.3; 9F_19/2024 E. 2.2.2). Ebenso wenig können Verfahrensfehler oder als unzutreffend empfundene Zwischenentscheide für sich allein als Ausdruck einer Voreingenommenheit qualifiziert werden; sie sind im Rechtsmittelverfahren geltend zu machen. Erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund begründen (BGE 125 I 119 E. 3e; 116 Ia 135 E. 3a). — *Bestätigt die ständige Praxis, dass Parteizugehörigkeit allein keinen Befangenheitsanschein begründet.*
+
+### Ermächtigungsverfahren und Amtsmissbrauch
+
+**BGer 1C_84/2026** — Im Ermächtigungsverfahren nach Art. 7 Abs. 2 lit. b StPO sind nur strafrechtliche Gesichtspunkte zu berücksichtigen; für die Erteilung der Ermächtigung genügt ein Mindestmass an Hinweisen auf strafrechtlich relevantes Verhalten (Bestätigung von BGE 149 IV 183 E. 2.1 und 2.3; 137 IV 269 E. 2.1 und 2.4). Eine Verweigerung der Ermächtigung kommt nur bei klarer Straflosigkeit in Betracht. Rechtmässige Vollzugsmassnahmen im Ausländerrecht — hier Wohnortkontrollen gestützt auf einen Zuführungsauftrag nach Art. 98a und Art. 124 Abs. 2 AIG — können nicht ohne Weiteres als Amtsmissbrauch nach Art. 312 StGB qualifiziert werden.
 
 ### Strafanzeige und Zivilklage des Richters
 

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 7 StPO"
 weight: 7
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: "2026-08-17"
 description: "Leading Cases und systematische Rechtsprechung zu Art. 7 StPO (Verfolgungszwang)"
 tags: ["Verfolgungszwang", "Offizialprinzip", "Ermächtigungsvorbehalt", "Einstellung", "in dubio pro duriore", "Nichtanhandnahme"]
 agent_verified: true
@@ -105,6 +105,12 @@ Ein Mangel der fehlenden Ermächtigung zur Strafverfolgung eines Beamten wird ge
 
 Der für die Ermächtigung zur Strafverfolgung notwendige minimale Anfangsverdacht ist zu bejahen. Die Ermächtigung zur Strafverfolgung ist keine Vorverurteilung; die beteiligten Polizeibeamten stehen unter dem Schutz der Unschuldsvermutung (Art. 32 Abs. 1 BV). Eine EMRK-widrige Verweigerung der Ermächtigung kann Revisionsgrund sein (Art. 2 EMRK i.V.m. Art. 122 lit. c BGG).
 → [E. 2.3 und E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_494#e-2-3)
+
+### BGer 1C_84/2026 — Ermächtigungsverweigerung bei Amtsmissbrauchsvorwurf gegen Polizeibeamten
+
+**Niedrige Schwelle der Ermächtigungsverweigerung; rechtmässige Vollzugsmassnahmen sind kein Amtsmissbrauch**
+
+Beschwerde der Lebenspartnerin eines ausreisepflichtigen Ausländers gegen die Verweigerung der Ermächtigung zur Strafverfolgung eines Polizeibeamten wegen Amtsmissbrauchs (Art. 312 StGB) und falscher Anschuldigung. Die Wohnortkontrollen beruhten auf einem rechtmässigen Zuführungsauftrag nach Art. 98a und Art. 124 Abs. 2 AIG. Das Bundesgericht bestätigt: Im Ermächtigungsverfahren sind nur strafrechtliche Gesichtspunkte zu berücksichtigen; für die Erteilung der Ermächtigung genügt ein Mindestmass an Hinweisen auf strafrechtlich relevantes Verhalten (BGE 149 IV 183 E. 2.1 und 2.3; 137 IV 269 E. 2.1 und 2.4). Eine Verweigerung der Ermächtigung kommt nur bei klarer Straflosigkeit in Betracht. Rechtmässige Vollzugsmassnahmen im Ausländerrecht können nicht ohne Weiteres als Amtsmissbrauch qualifiziert werden. — *Bestätigung der niedrigen Schwelle im Ermächtigungsverfahren; rechtmässige Vollzugsmassnahmen begründen keinen Amtsmissbrauch.*
 
 ## Top-Entscheide im Überblick
 

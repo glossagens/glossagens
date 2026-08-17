@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 8 ZGB — Beweislastregel"
 weight: 99
 date: "2026-06-28"
-lastmod: "2026-08-09"
+lastmod: "2026-08-17"
 description: "Rechtsprechungsübersicht zu Art. 8 ZGB — Thematisch geordnete Leading Cases zur Beweislastverteilung, Beweismass, Beweiserleichterungen und Gegenbeweis im Schweizer Zivilrecht."
 tags: ["ZGB", "Beweislast", "Beweisrecht", "Rechtsprechung", "Beweismass", "Beweiserleichterung"]
 agent_verified: true
@@ -73,7 +73,17 @@ mcp_verified: true
 
 **[BGE 130 II 482](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_482)** — Beweis der Einbürgerungsvoraussetzungen und tatsächliche Vermutung beim Erwerb des Schweizer Bürgerrechts. (E. 2)
 
-### E. Übersichtstabelle der Leading Cases
+### E. Natürliche Vermutung und Beweis des Sendungsinhalts
+
+#### 1. Natürliche Vermutung bewirkt keine Beweislastumkehr
+
+**[BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)** (11. Juni 2026, 5er-Besetzung) — Publikation vorgesehen. Präzisierung der Rechtsnatur der natürlichen (tatsächlichen) Vermutung: Natürliche Vermutungen beruhen nicht auf einer gesetzlichen Anordnung, sondern fliessen aus der allgemeinen Lebenserfahrung (BGE 149 III 287 E. 3.3.1; BGE 123 III 241 E. 3a). Sie ermöglichen eine wahrscheinlichkeitsbasierte Beweisvereinfachung, setzen aber einen typischen und naheliegenden Geschehensablauf voraus (Urteil 4A_290/2018 E. 2.4.1). — Natürliche Vermutungen bewirken **keine Umkehr der Beweislast**, sondern betreffen die Beweiswürdigung (BGE 147 III 431 E. 3.3.2; BGE 130 II 482 E. 3.2). Der Vermutungsträger kann den ihm obliegenden Beweis unter Berufung auf die tatsächliche Vermutung erbringen. Der Vermutungsgegner kann sie durch Gegenbeweis entkräften, ohne den Beweis des Gegenteils antreten zu müssen — hinreichende Zweifel an der Vermutungsbasis oder der Schlüssigkeit des Erfahrungssatzes genügen (BGE 141 III 241 E. 3.2.2). — Richtigstellung zu BGE 142 III 369: Die dortige Formulierung wurde präzisiert.
+
+#### 2. Strengere Massstäbe bei Privatsendungen
+
+**[BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)** (11. Juni 2026, 5er-Besetzung) — Für den Beweis des Inhalts einer Sendung einer privaten Partei gelten strengere Massstäbe als bei Behördensendungen. Die natürliche Vermutung, dass eine eingeschriebene Sendung den behaupteten Inhalt hatte, entfällt, wenn der Versand mehrerer Dokumente in einem einzigen Couvert atypisch ist. Im konkreten Fall stritten sich die Parteien darüber, ob ein Couvert ein oder drei Dossiers enthielt; die Schlichtungsstelle bestritt den Inhalt des Couverts. Das Bundesgericht hielt fest, dass bei atypischem Versandverhalten die natürliche Vermutung nicht greift und der Absender den vollen Beweis des Inhalts schuldet. — *Bestätigt die ständige Rechtsprechung, dass natürliche Vermutungen keine Beweislastumkehr bewirken; Präzisierung der strengeren Massstäbe bei Privatsendungen.*
+
+### F. Übersichtstabelle der Leading Cases
 
 | BGE-Entscheid | Thema | Beweisrechtliche Aussage | Zitate |
 |---|---|---|---|

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 19 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 19 StGB – Schuldfähigkeit"
 tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "verminderte Schuldfähigkeit"]
 agent_verified: false
@@ -81,4 +81,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-06-13*
+### [BGer 6B_1012/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1012_2025) — 29. Juli 2026
+- **Thema**: Verminderte Schuldfähigkeit bei Schizophrenie; Trennung von Vorsatz und Schuldfähigkeit; krankheitsbedingter Wahn
+- **Kernaussage**: Die Frage des Vorsatzes (Art. 12 StGB) ist von derjenigen der Schuldfähigkeit (Art. 19 StGB) rechtlich zu trennen. Selbst ein vermindert schuldfähiger oder gar schuldunfähiger Täter kann vorsätzlich handeln, sofern keine äusserst seltenen und hier klar nicht gegebenen Ausnahmefälle vorliegen (BGE 115 IV 221 E. 1; Urteile 6B_401/2025 E. 3.4; 6B_1115/2022 E. 2.2.4; 6B_980/2018 E. 3.4). Der krankheitsbedingte Wahn wird im Rahmen der Schuldfähigkeit (Art. 19 StGB) berücksichtigt, nicht aber als Sachverhaltsirrtum zugunsten des Täters gewertet (Bestätigung von BGE 147 IV 193 E. 1.4.6; Urteile 6B_739/2025 E. 4.5.4; 7B_252/2022 E. 5.3). Die leicht abweichende Diagnose eines Zweitgutachters rechtfertigt keine Abweichung vom Erstgutachten, wenn der Gutachter diese an der Berufungsverhandlung als nachvollziehbar bestätigt. Ein fehlerhaftes Datum der körperlichen Untersuchung vermag das Gutachten im Gesamten nicht in Zweifel zu ziehen. — Die Frage der Schuldfähigkeit ist Tatfrage und wird nur unter dem Gesichtspunkt der Willkür überprüft (Art. 97 Abs. 1 BGG); Rechtsfrage ist hingegen, ob der Begriff der verminderten Schuldfähigkeit richtig ausgelegt und angewendet wurde (BGE 107 IV 3 E. 1a; Urteile 7B_836/2023 E. 2.3.2; 6B_497/2024 E. 2.1.5).
+- **Einschlägig für**: Abs. 1 und 2 (Schuldunfähigkeit, verminderte Schuldfähigkeit bei Schizophrenie); Abgrenzung zu Art. 13 StGB
+
+---
+
+*Letzte Aktualisierung: 2026-08-17*

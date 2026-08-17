@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 13 StGB"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 13 StGB – Sachverhaltsirrtum"
 tags: ["Rechtsprechung", "StGB", "Sachverhaltsirrtum", "Irrtumslehre"]
 agent_verified: false
@@ -68,6 +68,11 @@ agent_verified: false
 - **Thema**: Widerhandlung gegen das Waffengesetz / in dubio pro reo
 - **Kernaussage**: Sachverhaltsirrtum im Kontext einer Widerhandlung gegen das Waffengesetz; Anwendung des Grundsatzes in dubio pro reo.
 - **Einschlägig für**: Abs. 1; Sachverhaltsirrtum im Nebenstrafrecht
+
+### BGer 6B_1012/2025 vom 29. Juli 2026
+- **Thema**: Krankheitsbedingter Wahn und Sachverhaltsirrtum / verminderte Schuldfähigkeit
+- **Kernaussage**: Wer aufgrund einer psychischen Krankheit «irrt», irrt nicht im Sinne von Art. 13 StGB. Der krankheitsbedingte Wahn wird vielmehr im Rahmen der Schuldfähigkeit (Art. 19 StGB) berücksichtigt, nicht aber als Irrtum zugunsten des Täters gewertet (Bestätigung von BGE 147 IV 193 E. 1.4.6; Urteile 6B_739/2025 E. 4.5.4; 7B_252/2022 E. 5.3). Selbst ein vermindert schuldfähiger oder gar schuldunfähiger Täter kann vorsätzlich handeln, sofern keine äusserst seltenen Ausnahmefälle vorliegen (BGE 115 IV 221 E. 1). Die Frage des Vorsatzes (Art. 12 StGB) ist von derjenigen der Schuldfähigkeit (Art. 19 StGB) rechtlich zu trennen.
+- **Einschlägig für**: Abs. 1; Abgrenzung Sachverhaltsirrtum — Schuldunfähigkeit; krankheitsbedingter Irrtum
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Art. 56 — Ausstandsgründe"
 weight: 56
 date: "2026-06-18"
-lastmod: "2026-08-13"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 56 StPO — Ausstandsgründe, Befangenheit, rechtliches Gehör im Ausstandsverfahren"
 tags: ["StPO", "Ausstand", "Befangenheit", "rechtliches Gehör", "Strafprozessrecht", "unparteiischer Richter"]
 agent_verified: true
@@ -97,6 +97,9 @@ Im Rahmen eines Richterkollegiums kann die Präsidentin stellvertretend für das
 
 ### Ausstand im Verwaltungsrecht
 - **Registrierung ausländisches Diplom**: Die blosse Tatsache, dass eine Richterin in einem früheren Verfahren über die gleiche Sache befunden hat, begründet für sich allein keinen Ausstandsgrund ([BGE 143 IV 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_69); [BGer 2C_281/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_281_2026)).
+
+### Ausstand im Strafverfahren — Parteizugehörigkeit und prozessuale Fehler
+- **BGer 7B_663/2026** — Kein Ausstandsgrund nach Art. 56 lit. f StPO aufgrund von Parteizugehörigkeit oder als unzutreffend empfundener Zwischenentscheide. Das Bundesgericht bestätigt: (1) Prozedurale Fehler und als fehlerhaft empfundene Zwischenentscheide begründen für sich allein keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund rechtfertigen (BGE 143 IV 69 E. 3.2; Urteil 7B_1159/2025 E. 4.2.3). (2) Die Kumulationshypothese wird zurückgewiesen, wenn jeder Einzelpunkt für sich nicht tragfähig ist. (3) Die Verweigerung eines nicht gesetzlich vorgesehenen Verfahrensvorschusses (provision procédurale) und die wiederholte Aufforderung zur Beiordnung eines Pflichtverteidigers nach selbst verschuldeter Entlassung des bisherigen Verteidigers begründen keinen Befangenheitsanschein.
 
 ---
 
