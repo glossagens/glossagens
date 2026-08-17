@@ -2,7 +2,7 @@
 title: "Art. 32 VwVG — Würdigung der Parteivorbringen"
 weight: 32
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 32 VwVG — Würdigungspflicht, Berücksichtigung erheblicher und rechtzeitiger Vorbringen, verspätete Vorbringen und rechtliches Gehör"
 tags: ["VwVG", "rechtliches Gehör", "Parteivorbringen", "Verwaltungsverfahren", "Art. 29 BV", "Beweiswürdigung"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 50 AIG — Auflösung der Familiengemeinschaft"
 weight: 50
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: "2026-06-20"
 description: "Kommentar zu Art. 50 AIG: Nachaufenthaltsrecht bei Auflösung der Ehe oder Familiengemeinschaft — wichtige persönliche Gründe, häusliche Gewalt und Härtefälle."
 tags: ["Aufenthaltsbewilligung", "Nachaufenthaltsrecht", "AIG", "Ausländerrecht", "Familiennachzug", "häusliche Gewalt"]
 agent_verified: true

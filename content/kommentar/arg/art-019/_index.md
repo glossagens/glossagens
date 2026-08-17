@@ -2,7 +2,7 @@
 title: "Art. 19 — Ausnahmen vom Verbot der Sonntagsarbeit"
 weight: 19
 date: "2026-07-09"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 description: "Kommentar zu Art. 19 ArG – Ausnahmen vom Verbot der Sonntagsarbeit (Bewilligung, dauernde/regelmässig wiederkehrende vs. vorübergehende Sonntagsarbeit, Lohnzuschlag, Verkaufssonntage)"
 tags: ["ArG", "Sonntagsarbeit", "Arbeitnehmerschutz", "Bewilligung", "Lohnzuschlag", "Verkaufssonntage"]
 agent_verified: true

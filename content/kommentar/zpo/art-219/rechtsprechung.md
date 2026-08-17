@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 219 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 219 ZPO — sinngemässe Anwendung der Bestimmungen des ordentlichen Verfahrens und ihre Grenzen."
 tags: ["Rechtsprechung", "ZPO", "ordentliches Verfahren", "sinngemässe Anwendung", "summarisches Verfahren"]
 agent_verified: false

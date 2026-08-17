@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 139 StGB — Diebstahl"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Übersicht der bundesgerichtlichen Entscheide zu Art. 139 StGB — Diebstahl: Gewahrsam, Qualifikationen, Abgrenzungen, Konkurrenzen"
 tags: ["Rechtsprechung", "StGB", "Diebstahl", "Gewahrsam", "Bande", "Gewerbsmässigkeit", "Entreissdiebstahl", "Raub"]
 agent_verified: false

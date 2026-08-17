@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 305ter StGB"
 weight: 99
 date: 2026-05-29
-lastmod: 2026-05-30
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 305ter StGB – Mangelnde Sorgfalt bei Finanzgeschäften"
 tags: ["Rechtsprechung", "StGB", "Geldwäscherei", "Sorgfaltspflicht", "KYC"]
 agent_verified: false

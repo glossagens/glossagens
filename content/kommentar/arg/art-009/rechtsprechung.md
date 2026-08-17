@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 9 ArG"
 weight: 99
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 9 ArG – Wöchentliche Höchstarbeitszeit"
 tags: ["Rechtsprechung", "ArG", "Höchstarbeitszeit", "Überzeitarbeit", "Arbeitszeit"]
 agent_verified: false

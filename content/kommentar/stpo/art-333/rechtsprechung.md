@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 333 StPO"
 weight: 99
 date: 2026-06-08
-lastmod: 2026-06-20
+lastmod: "2026-08-10"
 description: "Übersicht der Bundesgerichtsentscheide (BGE) zu Art. 333 StPO – Änderung und Erweiterung der Anklage"
 tags: ["Rechtsprechung", "StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
 agent_verified: false

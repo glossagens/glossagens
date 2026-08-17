@@ -2,7 +2,7 @@
 title: "Art. 140 — Raub"
 weight: 140
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 140 StGB – Raub: Grundtatbestand, Qualifikationen (Waffe, Bande, Gefährlichkeit, Lebensgefahr)"
 tags: ["StGB", "Raub", "Diebstahl", "Gewaltdelikt", "Nötigung", "qualifizierter Raub"]
 agent_verified: false

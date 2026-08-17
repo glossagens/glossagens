@@ -2,7 +2,7 @@
 title: "Art. 67 — Tätigkeitsverbot"
 weight: 67
 date: 2025-06-02
-lastmod: '2026-08-13'
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 67 StGB – Tätigkeitsverbot"
 tags: ["StGB", "Tätigkeitsverbot", "Berufsverbot", "Nebenstrafe", "Massnahme", "Sexualdelikte"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 21a — Elektronische Eingaben"
 weight: 215
 date: 2026-07-02
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 21a VwVG: Elektronische Eingaben an Bundesbehörden, qualifizierte elektronische Signatur, Fristwahrung und Verhältnis zum Sozialversicherungsrecht."
 tags: ["VwVG", "Elektronische Eingabe", "Qualifizierte Signatur", "ZertES", "ATSG", "TAF"]
 agent_verified: true

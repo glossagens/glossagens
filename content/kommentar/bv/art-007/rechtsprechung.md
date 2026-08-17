@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 7 BV"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 7 BV — Menschenwürde als Leitgrundsatz, medizinische Zwangsmassnahmen, Haftbedingungen, Nothilfe, Schuldhaft"
 tags: ["Rechtsprechung", "BV", "Menschenwürde", "Zwangsbehandlung", "Haftbedingungen", "Nothilfe"]
 agent_verified: false

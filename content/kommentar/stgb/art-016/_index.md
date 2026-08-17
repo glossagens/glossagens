@@ -2,7 +2,7 @@
 title: "Art. 16 — Notwehrexzess"
 weight: 16
 date: 2026-05-16
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 16 StGB – Notwehrexzess (obligatorische Strafmilderung, entschuldbarer Notwehrexzess)"
 tags: ["StGB", "Notwehrexzess", "Notwehr", "Rechtfertigungsgrund", "Entschuldigungsgrund", "Strafzumessung"]
 agent_verified: true

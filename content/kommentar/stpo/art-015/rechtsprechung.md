@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 15 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-07-12"
 description: "Übersicht der Entscheide zu Art. 15 StPO – Polizei: Abgrenzung strafprozessuale/sicherheitspolizeiliche Tätigkeit, Polizeirapport als Beweismittel, Drogenschnelltests, Verwertbarkeit polizeilicher Aufzeichnungen."
 tags: ["Rechtsprechung", "StPO", "Polizei", "Abgrenzung", "Beweisverwertbarkeit", "Verkehrspolizei", "Drogenschnelltest", "Polizeirapport"]
 agent_verified: false

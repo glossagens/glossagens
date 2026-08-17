@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 58 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 58 ZPO — Dispositionsgrundsatz, Bestimmtheit der Rechtsbegehren, Streitgegenstand, Zusammenspiel mit der Untersuchungsmaxime im Familienrecht."
 tags: ["Rechtsprechung", "ZPO", "Dispositionsgrundsatz", "Offizialgrundsatz", "Untersuchungsmaxime"]
 agent_verified: false

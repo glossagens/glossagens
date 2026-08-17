@@ -2,7 +2,7 @@
 title: "Art. 9 ATSG — Hilflosigkeit"
 weight: 9
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: "2026-06-03"
 description: "Kommentar zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, Dauerhaftigkeit, Schweregrade, Abklärung, Revision der Hilflosenentschädigung."
 tags: ["ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: false

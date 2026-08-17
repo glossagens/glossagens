@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 14 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 14 BV — Trägerschaft des Rechts auf Ehe, Ehevorbereitungsverfahren, Haftbesuchsrecht, Abgrenzung zu Art. 13 BV"
 tags: ["Rechtsprechung", "BV", "Ehe", "Familie", "Ehevorbereitungsverfahren"]
 agent_verified: false

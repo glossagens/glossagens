@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 32 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 32 VwVG – Würdigung der Parteivorbringen"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Parteivorbringen", "Beweiswürdigung"]
 agent_verified: true

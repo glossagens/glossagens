@@ -6,7 +6,7 @@ kuerzel: "OR"
 gesetz_name: "Obligationenrecht"
 weight: 12
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Obligationenrecht (OR, SR 220, vom 30. März 1911).
 tags:
 - OR

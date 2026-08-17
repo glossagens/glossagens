@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 314b ZGB"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-05-10
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 314b ZGB — Fürsorgerische Unterbringung von Kindern"
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "fürsorgerische Unterbringung"]
 agent_verified: false

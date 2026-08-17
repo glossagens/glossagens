@@ -2,7 +2,7 @@
 title: "Art. 169 — Sicherstellung"
 weight: 169
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-07-18"
 description: "Kommentar zu Art. 169 DBG — Sicherstellung bei der direkten Bundessteuer: Voraussetzungen (Wohnsitz im Ausland, Gefährdung), sofortige Vollstreckbarkeit, Steuerarrest, Prosequierung nach SchKG, Beschwerde und aufschiebende Wirkung."
 tags: ["DBG", "Sicherstellung", "direkte Bundessteuer", "Steuerarrest", "SchKG", "Rechtsöffnung", "Prosequierung", "Wohnsitz Ausland"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 12 StGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-05
+lastmod: "2026-08-13"
 description: "Wichtige Entscheide zu Art. 12 StGB – Vorsatz, Eventualvorsatz und Fahrlässigkeit"
 tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 98 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 98 ZPO — Kostenvorschuss, richterliches Ermessen, Verhältnis zur Klagezustellung, unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "ZPO", "Kostenvorschuss", "Gerichtskosten"]
 agent_verified: false

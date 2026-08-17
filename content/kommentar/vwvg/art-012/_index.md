@@ -2,7 +2,7 @@
 title: "Art. 12 — Untersuchungsmaxime"
 weight: 12
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 12 VwVG – Untersuchungsmaxime und Beweismittel"
 tags: ["VwVG", "Untersuchungsmaxime", "Beweis", "Verwaltungsverfahren", "Beweiswürdigung", "Administrativgutachten"]
 agent_verified: true

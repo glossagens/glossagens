@@ -2,7 +2,7 @@
 title: "Art. 26 — Eigentumsgarantie"
 weight: 26
 date: 2026-05-23
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 26 BV — Eigentumsgarantie, Institutsgarantie, Bestandesgarantie, Enteignungsgrundsätze und Verhältnismässigkeit"
 tags: ["BV", "Grundrechte", "Eigentum", "Enteignung", "materielle Enteignung", "Eigentumsbeschränkung", "Entschädigung"]
 agent_verified: false

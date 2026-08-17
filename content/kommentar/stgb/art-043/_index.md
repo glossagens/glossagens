@@ -2,7 +2,7 @@
 title: "Art. 43 — Teilbedingte Freiheitsstrafe"
 weight: 43
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 43 StGB (SR 311.0): Teilbedingte Freiheitsstrafe — Voraussetzungen, Mindest- und Höchstmasse, Verhältnis zur bedingten (Art. 42) und unbedingten Freiheitsstrafe, Legalprognose."
 tags: ["StGB", "Sanktionen", "teilbedingte Strafe", "Freiheitsstrafe", "Legalprognose", "sursis partiel"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 133 StGB"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 133 StGB – Raufhandel"
 tags: ["Rechtsprechung", "StGB", "Raufhandel"]
 agent_verified: false

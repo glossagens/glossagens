@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 385 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 385 StPO — Begründung und Form"
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Begründungspflicht", "Nichteintreten"]
 agent_verified: true

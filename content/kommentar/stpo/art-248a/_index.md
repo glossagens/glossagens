@@ -2,7 +2,7 @@
 title: "Art. 248a — Zuständigkeit zur Entsiegelung und Verfahren"
 weight: 248
 date: "2026-05-22"
-lastmod: "2026-07-27"
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 248a StPO: Zuständigkeit zur Entsiegelung, Verfahrensgrundsätze, Substanziierungspflicht, Fristen, digitale Speichermedien"
 tags: ["StPO", "Entsiegelung", "Beschlagnahme", "Privatgeheimnisse", "digitale Speichermedien", "Smartphone"]
 agent_verified: true

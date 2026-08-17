@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 394 StPO"
 weight: 99
 date: 2026-05-30
-lastmod: 2026-06-12
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 394 StPO – Ausschluss der Beschwerde bei Berufungsmöglichkeit und wiederholbaren Beweisanträgen"
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil"]
 agent_verified: false

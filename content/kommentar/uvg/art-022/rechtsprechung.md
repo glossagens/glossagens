@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 22 UVG"
 weight: 99
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 22 UVG — Revision der Rente, Ausnahme vom Revisionsgrundsatz bei Referenzalter"
 tags: ["Rechtsprechung", "UVG", "Rentenrevision", "Referenzalter"]
 agent_verified: false

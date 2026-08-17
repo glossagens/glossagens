@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 72 StGB — Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation"
 weight: 99
 date: "2026-08-08"
-lastmod: "2026-08-08"
+lastmod: "2026-08-10"
 description: "Übersicht der bundesgerichtlichen und bundesstrafgerichtlichen Entscheide zu Art. 72 StGB: Verfügungsmacht als faktische Verfügbarkeit; Vermutung der Verfügungsmacht bei Beteiligung/Unterstützung; Widerlegung der Vermutung; Verhältnis zu Art. 70 und Art. 71 StGB; internationaler Geltungsbereich; Verjährung und Einziehung im selbständigen Verfahren."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "kriminelle Organisation", "terroristische Organisation", "Verfügungsmacht", "Art. 260ter StGB", "Bruttoprinzip", "Vermutung"]
 agent_verified: true

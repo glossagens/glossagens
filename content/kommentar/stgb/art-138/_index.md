@@ -2,7 +2,7 @@
 title: "Art. 138 — Veruntreuung"
 weight: 138
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 138 StGB – Veruntreuung: Grundtatbestand (Ziff. 1: Aneignung anvertrauter Sachen / Verwendung anvertrauter Vermögenswerte), Qualifikation (Ziff. 2: behördliche Funktion / bewilligter Beruf), Strafantragsdepot"
 tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "anvertraut", "Qualifikation"]
 agent_verified: false

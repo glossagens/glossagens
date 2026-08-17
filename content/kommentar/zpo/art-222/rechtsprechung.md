@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 222 ZPO"
 weight: 2
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 222 ZPO — Zustellung und Fristansetzung, Anforderungen an die Bestreitung, Säumnisfolgen."
 tags: ["Rechtsprechung", "ZPO", "Klageantwort", "Bestreitung", "Säumnis"]
 agent_verified: false

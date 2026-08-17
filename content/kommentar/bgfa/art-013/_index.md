@@ -2,7 +2,7 @@
 title: "Art. 13 — Berufsgeheimnis"
 weight: 13
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-07-18"
 description: "Kommentar zu Art. 13 BGFA — Berufsgeheimnis der Anwältinnen und Anwälte: zeitlich unbegrenzt, gegenüber jedermann, Entbindung, Voraus-Entbindung bei Honorarstreitigkeiten, Entsiegelung von Anwaltsakten, fahrlässige Verletzung."
 tags: ["BGFA", "Berufsgeheimnis", "Anwaltsrecht", "Entbindung", "Art. 321 StGB", "Entsiegelung", "Honorarstreitigkeit"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 140 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: 2026-05-09
+lastmod: "2026-05-15"
 description: "Übersicht der Entscheide zu Art. 140 StPO – Verbotene Beweiserhebungsmethoden"
 tags: ["Rechtsprechung", "StPO", "Beweisverwertungsverbot", "verbotene Beweiserhebung", "nemo tenetur"]
 agent_verified: false

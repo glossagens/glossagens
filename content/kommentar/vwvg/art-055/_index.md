@@ -2,7 +2,7 @@
 title: "Art. 55 VwVG — Aufschiebende Wirkung"
 weight: 55
 date: 2026-08-02
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 55 VwVG (SR 172.021): Aufschiebende Wirkung der Beschwerde — Entzug, Wiederherstellung, vorsorgliche Massnahmen, Interessenabwägung."
 tags: ["VwVG", "aufschiebende Wirkung", "Suspensiveffekt", "vorsorgliche Massnahmen", "Verwaltungsgerichtsbeschwerde"]
 agent_verified: false

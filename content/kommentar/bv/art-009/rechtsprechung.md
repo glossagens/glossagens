@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 9 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-16"
 description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
 tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz"]
 agent_verified: true

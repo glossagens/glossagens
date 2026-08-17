@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 59 ZPO"
 weight: 2
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 59 ZPO — Prozessvoraussetzungen, schutzwürdiges Interesse, Rechtshängigkeit, materielle Rechtskraft, Kostenvorschuss."
 tags: ["Rechtsprechung", "ZPO", "Prozessvoraussetzungen", "Rechtsschutzinteresse", "Rechtshängigkeit", "Rechtskraft"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Art. 11 BV — Schutz der Kinder und Jugendlichen"
 weight: 11
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 11 BV — Anspruch auf besonderen Schutz der Unversehrtheit, Förderung der Entwicklung als programmatischer Gehalt, Ausübung der Rechte im Rahmen der Urteilsfähigkeit"
 tags: ["BV", "Grundrechte", "Kinder", "Jugendliche", "Kindesschutz", "Kindeswohl", "Urteilsfähigkeit"]
 agent_verified: false

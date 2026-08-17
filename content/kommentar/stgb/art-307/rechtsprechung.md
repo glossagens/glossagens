@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 307 StGB"
 weight: 99
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: "2026-06-07"
 description: "Übersicht der Entscheide zu Art. 307 StGB – Falschaussage / Faux témoignage"
 tags: ["Rechtsprechung", "StGB", "Strafrecht", "Falschaussage", "falsches Gutachten", "Privatklägerschaft"]
 agent_verified: false

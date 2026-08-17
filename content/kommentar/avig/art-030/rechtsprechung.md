@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 30 AVIG"
 weight: 99
 date: 2026-08-01
-lastmod: "2026-08-02"
+lastmod: "2026-08-01"
 description: "Übersicht der massgeblichen Entscheide zu Art. 30 AVIG (Einstellung in der Anspruchsberechtigung) — Verschulden an Arbeitslosigkeit, Arbeitsbemühungen/Stellensuche, Meldepflichtverletzung und unrichtige Angaben, IAO-Übereinkommen Nr. 168, Einstellungsdauer."
 tags: ["Rechtsprechung", "AVIG", "Einstellung", "Anspruchsberechtigung", "Verschulden", "Arbeitsbemühungen", "IAO-168"]
 agent_verified: true

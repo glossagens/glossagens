@@ -2,7 +2,7 @@
 title: "Art. 49 VwVG — Beschwerdegründe"
 weight: 49
 date: 2026-08-02
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 49 VwVG (SR 172.021): Beschwerdegründe — Rügegründe vor Bundesverwaltungsgericht, Kognition, Prüfungsdichte."
 tags: ["VwVG", "Beschwerdegründe", "Kognition", "Rechtsverletzung", "Sachverhaltsfeststellung", "Unangemessenheit"]
 agent_verified: true

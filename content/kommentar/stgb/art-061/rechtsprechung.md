@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 61 StGB"
 weight: 99
 date: 2026-07-16
-lastmod: 2026-07-31
+lastmod: "2026-08-10"
 description: "Übersicht der massgeblichen Entscheide zu Art. 61 StGB (Einweisung in eine Einrichtung für junge Erwachsene)"
 tags: ["Rechtsprechung", "StGB", "junge-erwachsene", "massnahme", "altersgrenze", "untermassverbot"]
 agent_verified: true

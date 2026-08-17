@@ -2,7 +2,7 @@
 title: "Art. 22 VwVG — Fristerstreckung"
 weight: 22
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 22 VwVG (SR 172.021): Fristerstreckung — Unterscheidung zwischen gesetzlichen und behördlichen Fristen, Erstreckungsgründe."
 tags: ["VwVG", "Fristerstreckung", "Fristen", "Verwaltungsverfahren"]
 agent_verified: true

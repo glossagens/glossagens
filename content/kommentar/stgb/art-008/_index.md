@@ -2,7 +2,7 @@
 title: "Art. 8 — Begehungsort"
 weight: 8
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 8 StGB: Ort der Tatbegehung (Handlungs- und Erfolgsort), Begehungsort des Versuchs, internationale Zuständigkeit bei Auslandstaten, Erfolgsort bei ehrverletzenden Online-Publikationen."
 tags: ["StGB", "Begehungsort", "Erfolgsort", "Handlungsort", "internationale Zuständigkeit", "Gerichtsstand", "Internetstrafrecht", "Medienstrafrecht"]
 agent_verified: true

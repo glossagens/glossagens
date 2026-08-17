@@ -2,7 +2,7 @@
 title: "Art. 30 — Einstellung in der Anspruchsberechtigung"
 weight: 30
 date: 2026-08-01
-lastmod: 2026-08-02
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 30 AVIG (SR 837.0): Einstellung in der Anspruchsberechtigung der Arbeitslosenversicherung — Einstellgründe (Verschulden an Arbeitslosigkeit, Lohnverzicht, ungenügende Arbeitsbemühungen, Kontrollvorschriften, unrichtige Angaben, unrechtmässiger Leistungsbezug), Zuständigkeit (Abs. 2), Bemessung der Einstellung (Abs. 3). Leitentscheide BGE 123 V 150, BGE 124 V 234, BGE 124 V 225, BGE 122 V 34, BGE 125 V 193, BGE 112 V 242, BGE 139 V 524, BGE 141 V 365."
 tags: ["AVIG", "Arbeitslosenversicherung", "Einstellung", "Anspruchsberechtigung", "Verschulden", "Arbeitsbemühungen", "Meldepflicht", "IAO-Übereinkommen 168"]
 agent_verified: true

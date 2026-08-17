@@ -2,7 +2,7 @@
 title: "Art. 119 ZPO — Gesuch und Verfahren (unentgeltliche Rechtspflege)"
 weight: 119
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 119 ZPO: Gesuch um unentgeltliche Rechtspflege — Verfahren, Darlegungspflicht, summarisches Verfahren, rückwirkende Bewilligung, NeuBeantragung im Rechtsmittelverfahren."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Armutszeugnis", "Rechtsbeistand"]
 agent_verified: false

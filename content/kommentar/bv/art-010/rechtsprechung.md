@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 10 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 10 BV — Recht auf Leben, persönliche Freiheit, Folterverbot, medizinische Zwangsmassnahmen"
 tags: ["Rechtsprechung", "BV", "Recht auf Leben", "Persönliche Freiheit", "Folterverbot"]
 agent_verified: false

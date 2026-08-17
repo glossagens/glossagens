@@ -2,7 +2,7 @@
 title: "Art. 71 StGB — Ersatzforderungen"
 weight: 71
 date: "2026-08-08"
-lastmod: '2026-08-13'
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 71 StGB (Einziehung. Ersatzforderungen): Voraussetzungen (Abs. 1), Verzicht auf die Ersatzforderung bei Uneinbringlichkeit oder Resozialisierung (Abs. 2), Aufhebung von Abs. 3, Brutto-/Nettoprinzip, Mehrpersonenverhältnis, kein Solidarcharakter, Kombination mit Zivilklage, Leading Cases."
 tags: ["StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung"]
 agent_verified: true

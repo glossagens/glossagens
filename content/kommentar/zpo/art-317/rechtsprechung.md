@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 317 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 317 ZPO — Nova in der Berufung, Unverzüglichkeit, zumutbare Sorgfalt, Klageänderung."
 tags: ["Rechtsprechung", "ZPO", "Berufung", "Nova"]
 agent_verified: false

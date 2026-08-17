@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 257 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 257 ZPO — klare Rechtslage, Anforderungen an die Bestreitung, Bedeutung der Beweislast."
 tags: ["Rechtsprechung", "ZPO", "Rechtsschutz in klaren Fällen", "klare Rechtslage", "Einwendungen"]
 agent_verified: false

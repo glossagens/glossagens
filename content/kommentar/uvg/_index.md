@@ -6,7 +6,7 @@ kuerzel: "UVG"
 gesetz_name: "Bundesgesetz über die Unfallversicherung"
 weight: 31
 date: '2026-07-03'
-lastmod: '2026-07-27'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die Unfallversicherung (UVG, SR 832.20, vom 20. März 1981).
 tags:
 - UVG

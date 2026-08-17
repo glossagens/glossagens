@@ -2,7 +2,7 @@
 title: "Art. 108 — Einzelrichter oder Einzelrichterin (vereinfachtes Verfahren)"
 weight: 108
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 108 BGG (SR 173.110): Vereinfachtes Verfahren des Abteilungspräsidenten/der Abteilungspräsidentin — Nichteintreten auf offensichtlich unzulässige, offensichtlich ungenügend begründete oder querulatorische Beschwerden."
 tags: ["BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Begründungspflicht"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 310 StPO"
 weight: 310
 date: 2026-05-24
-lastmod: 2026-06-07
+lastmod: "2026-08-13"
 description: "Leading Cases und systematische Rechtsprechung zu Art. 310 StPO (Nichtanhandnahmeverfügung)"
 tags: ["Nichtanhandnahme", "Eindeutigkeitsgebot", "in dubio pro duriore", "Beschwerdelegitimation", "Privatklägerschaft", "Wiederaufnahme", "Strafantrag"]
 agent_verified: true

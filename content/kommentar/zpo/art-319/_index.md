@@ -2,7 +2,7 @@
 title: "Art. 319 ZPO — Anfechtungsobjekt (Beschwerde)"
 weight: 319
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 319 ZPO: Anfechtungsobjekt der Beschwerde — nicht berufungsfähige Endentscheide, Zwischenentscheide, prozessleitende Verfügungen, Rechtsverzögerung."
 tags: ["ZPO", "Beschwerde", "Anfechtungsobjekt", "Zwischenentscheid", "prozessleitende Verfügung", "Rechtsverzögerung"]
 agent_verified: false

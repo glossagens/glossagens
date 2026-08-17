@@ -2,7 +2,7 @@
 title: "Art. 51 — Anspruchsvoraussetzungen (Insolvenzentschädigung)"
 weight: 51
 date: 2026-07-17
-lastmod: 2026-08-02
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 51 AVIG: Anspruchsvoraussetzungen der Insolvenzentschädigung bei Konkurs, offensichtlicher Überschuldung oder Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer."
 tags: ["AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung", "Arbeitgeberinsolvenz"]
 agent_verified: true

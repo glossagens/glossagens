@@ -2,7 +2,7 @@
 title: "Art. 78 — Grundsatz (Beschwerde in Strafsachen)"
 weight: 78
 date: 2026-05-31
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 78 BGG – Grundsatz der Beschwerde in Strafsachen: sachlicher Anwendungsbereich, Zivilansprüche, Vollzug von Strafen und Massnahmen"
 tags: ["BGG", "Beschwerde", "Strafsachen", "Zivilansprüche", "Vollzug", "Rechtsmittel"]
 agent_verified: true

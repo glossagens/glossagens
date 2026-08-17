@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 310 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 310 ZPO — Berufungsgründe, Kognition des Berufungsgerichts, Rügepflicht."
 tags: ["Rechtsprechung","ZPO","Berufung","Kognition"]
 agent_verified: false

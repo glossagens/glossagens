@@ -2,7 +2,7 @@
 title: "Art. 244 ZPO — Vereinfachte Klage"
 weight: 244
 date: "2026-05-23"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 244 ZPO — Erleichterte Klageform im vereinfachten Verfahren, Formanforderungen, Begründungsfreiheit und Beilagenpflicht"
 tags: ["ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Formvorschriften", "Protokollklage", "Streitwert"]
 agent_verified: false

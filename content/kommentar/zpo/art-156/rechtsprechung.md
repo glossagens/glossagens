@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 156 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 156 ZPO — prozessuale Schutzmassnahmen, strafbewehrte Geheimhaltungspflicht, Reichweite und Glaubhaftmachung."
 tags: ["Rechtsprechung", "ZPO", "schutzwürdige Interessen", "Geschäftsgeheimnis", "Geheimhaltung"]
 agent_verified: false

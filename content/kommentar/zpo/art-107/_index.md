@@ -2,7 +2,7 @@
 title: "Art. 107 ZPO – Verteilung nach Ermessen"
 weight: 107
 date: "2026-05-23"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Ermessensweise Verteilung der Prozesskosten bei unbilligem Ausgang, familienrechtlichen Verfahren und besonderen Umständen"
 tags: ["ZPO", "Prozesskosten", "Ermessensverteilung", "Parteientschädigung", "Billigkeit"]
 agent_verified: false

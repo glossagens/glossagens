@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 398 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 398 StPO – Zulässigkeit und Berufungsgründe, reformatorisches Rechtsmittel, Überprüfungsbefugnis, Übertretungsverfahren, Zivilpunkt"
 tags: ["Rechtsprechung", "StPO", "Berufung", "Zulässigkeit", "Berufungsgründe", "Übertretung", "Kognition", "reformatorisch"]
 agent_verified: false

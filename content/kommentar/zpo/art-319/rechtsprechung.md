@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 319 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 319 ZPO — Anfechtungsobjekt der Beschwerde, Zwischenentscheide, prozessleitende Verfügungen, Rechtsverzögerung."
 tags: ["Rechtsprechung", "ZPO", "Beschwerde", "Anfechtungsobjekt"]
 agent_verified: false

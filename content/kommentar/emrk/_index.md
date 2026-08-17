@@ -6,7 +6,7 @@ kuerzel: "EMRK"
 gesetz_name: "Konvention zum Schutze der Menschenrechte und Grundfreiheiten"
 weight: 1
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten (EMRK, SR 0.101, vom 4. November 1950).
 tags:
 - EMRK

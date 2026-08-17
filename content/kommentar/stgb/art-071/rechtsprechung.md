@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 71 StGB — Ersatzforderungen"
 weight: 99
 date: "2026-08-08"
-lastmod: "2026-08-08"
+lastmod: "2026-08-10"
 description: "Übersicht der bundesgerichtlichen Entscheide zu Art. 71 StGB (Ersatzforderungen): Voraussetzungen, Verzicht bei Uneinbringlichkeit/Resozialisierung, Brutto-/Nettoprinzip, Mehrpersonenverhältnis ohne Solidarhaftung, Aufteilung nach Köpfen, persönlicher Konsum, Ersatzforderung bei Vergleich, Kombination mit Zivilklage, Aktivlegitimation Versicherer, Durchgriff auf Gesellschaftsvermögen."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung", "Vergleich"]
 agent_verified: true

@@ -6,7 +6,7 @@ kuerzel: "ELG"
 gesetz_name: "Bundesgesetz über Ergänzungsleistungen zur AHV/IV"
 weight: 29
 date: '2026-07-16'
-lastmod: '2026-08-01'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über Ergänzungsleistungen zur AHV/IV (ELG, SR 831.30, vom 6. Oktober 2006).
 tags:
 - ELG

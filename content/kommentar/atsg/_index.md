@@ -6,7 +6,7 @@ kuerzel: "ATSG"
 gesetz_name: "Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts"
 weight: 26
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR 830.1, vom 6. Oktober 2000).
 tags:
 - ATSG

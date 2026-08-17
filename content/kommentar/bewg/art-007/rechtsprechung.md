@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 7 BewG"
 weight: 99
 date: 2026-05-11
-lastmod: 2026-05-11
+lastmod: "2026-05-15"
 description: "Übersicht der Entscheide zu Art. 7 BewG – Übrige Ausnahmen von der Bewilligungspflicht"
 tags: ["Rechtsprechung", "BewG", "Grundstückwerbung", "Ausländerrecht"]
 agent_verified: false

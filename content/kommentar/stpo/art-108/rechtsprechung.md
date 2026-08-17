@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 108 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs"
 tags: ["Rechtsprechung", "StPO", "rechtliches Gehör", "Einschränkung", "Parteiöffentlichkeit", "Geheimhaltung"]
 agent_verified: false

@@ -6,7 +6,7 @@ kuerzel: "BehiG"
 gesetz_name: "Behindertengleichstellungsgesetz"
 weight: 6
 date: '2026-07-22'
-lastmod: '2026-08-01'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Behindertengleichstellungsgesetz (BehiG, SR 151.3, vom 13. Dezember 2002).
 tags:
 - BehiG

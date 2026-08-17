@@ -2,7 +2,7 @@
 title: "Art. 403 — Solidarhaftung bei Mitbeauftragten"
 weight: 403
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 403 OR — Solidarhaftung mehrerer Auftraggeber (Abs. 1), Solidarhaftung und gemeinschaftliches Handeln mehrerer Beauftragter (Abs. 2), Innenverhältnis, Gesamtschuldnerschaft"
 tags: ["OR", "Auftragsrecht", "Solidarhaftung", "Gesamtschuldnerschaft", "Mitbeauftragte", "Innenverhältnis", "Gesamtgläubigerschaft"]
 agent_verified: true

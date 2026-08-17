@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 26 DSG"
 weight: 99
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 26 DSG (Einschränkungen des Auskunftsrechts, Begründungspflicht bei Verweigerung, Einschränkung oder Aufschub)"
 tags: ["Rechtsprechung", "DSG", "Auskunftsrecht", "Begründungspflicht", "Nachrichtendienst"]
 agent_verified: true

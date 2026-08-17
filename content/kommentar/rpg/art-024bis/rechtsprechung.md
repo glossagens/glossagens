@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 24bis RPG"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-08-01"
 description: "Übersicht der massgeblichen Entscheide zu Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen"
 tags: ["Rechtsprechung", "RPG", "Mobilfunkanlagen", "Infrastrukturanlagen", "Standortgebundenheit", "NIS", "Bündelung"]
 agent_verified: true

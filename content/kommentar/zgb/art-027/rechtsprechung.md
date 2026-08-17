@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 27 ZGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-06"
 description: "Übersicht der Entscheide zu Art. 27 ZGB — Rechtsfähigkeit, Freiheit, Ordre public und Inhaltskontrolle"
 tags: ["Rechtsprechung", "ZGB", "Rechtsfähigkeit", "Freiheit", "Ordre public", "Inhaltskontrolle"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Art. 22 RPG — Baubewilligung"
 weight: 22
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-07-17"
 description: "Kommentar zu Art. 22 RPG: Baubewilligungspflicht für Bauten und Anlagen — Voraussetzungen, Erheblichkeitsschwelle, nachträgliche Bewilligung"
 tags: ["RPG", "baubewilligung", "baubewilligungspflicht", "nachträgliche-bewilligung", "bauvorhaben"]
 agent_verified: true

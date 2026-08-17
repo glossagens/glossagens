@@ -2,7 +2,7 @@
 title: "Art. 32 — Voraussetzungen (WIR/WZW-Kriterien)"
 weight: 32
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 32 KVG: WIR-/WZW-Kriterien (Wirksamkeit, Zweckmässigkeit, Wirtschaftlichkeit) als Voraussetzung für Leistungsansprüche der obligatorischen Krankenpflegeversicherung, wissenschaftlicher Wirksamkeitsnachweis, periodische Überprüfung, evidenzbasiertes Evaluationsverfahren, Verhältnis zur OPAS."
 tags: ["KVG", "WZW", "WIR", "Wirksamkeit", "Zweckmässigkeit", "Wirtschaftlichkeit", "Krankenversicherung", "OPAS", "Spezialitätenliste"]
 agent_verified: true

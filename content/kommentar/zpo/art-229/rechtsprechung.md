@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 229 ZPO"
 weight: 2
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 229 ZPO — Aktenschluss, echte und unechte Noven, Dupliknoven, thematisch beschränkte Replik."
 tags: ["Rechtsprechung", "ZPO", "Noven", "Aktenschluss", "Dupliknoven"]
 agent_verified: false

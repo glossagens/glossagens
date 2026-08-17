@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 248 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 248 ZPO — Summarisches Verfahren, Aktenschluss, vorsorgliche Massnahmen, klarer Fall."
 tags: ["Rechtsprechung","ZPO","Summarisches Verfahren","vorsorgliche Massnahmen"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 82 SchKG"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 82 SchKG – Vorläufige Rechtsöffnung"
 tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "vorläufige Rechtsöffnung", "öffentliche Urkunde"]
 agent_verified: false

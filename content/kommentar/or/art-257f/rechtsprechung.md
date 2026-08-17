@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 257f OR"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: "2026-05-24"
 description: "Übersicht der Entscheide zu Art. 257f OR – Sorgfalts- und Rücksichtnahmepflicht, ausserordentliche Kündigung"
 tags: ["Rechtsprechung", "OR", "Mietrecht", "ausserordentliche Kündigung"]
 agent_verified: false

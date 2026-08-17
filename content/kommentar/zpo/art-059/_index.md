@@ -2,7 +2,7 @@
 title: "Art. 59 ZPO — Grundsatz (Prozessvoraussetzungen)"
 weight: 59
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 59 ZPO: Prozessvoraussetzungen, Nichteintreten, schutzwürdiges Interesse, Rechtskraft, Rechtshängigkeit, Kostenvorschuss, Amtswegige Prüfung."
 tags: ["ZPO", "Prozessvoraussetzungen", "Nichteintreten", "schutzwürdiges Interesse", "Rechtskraft", "Rechtshängigkeit", "Kostenvorschuss", "Amtswegige Prüfung"]
 agent_verified: false

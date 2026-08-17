@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 264 StPO"
 weight: 99
 date: 2025-07-16
-lastmod: 2025-07-16
+lastmod: "2026-06-24"
 description: "Übersicht der Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme"
 tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung"]
 agent_verified: false

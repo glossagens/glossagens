@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 48 StGB"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 48 StGB – Strafmilderungsgründe"
 tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Strafmilderung"]
 agent_verified: true

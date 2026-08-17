@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 59 StGB"
 weight: 99
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: "2026-06-06"
 description: "Übersicht der Entscheide zu Art. 59 StGB – Stationäre therapeutische Massnahme, Vollzug, Gefährlichkeitsprognose"
 tags: ["Rechtsprechung", "StGB", "therapeutische Massnahme", "Massnahmenvollzug", "Sicherungsverwahrung"]
 agent_verified: false

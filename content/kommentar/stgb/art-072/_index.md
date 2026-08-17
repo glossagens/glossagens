@@ -2,7 +2,7 @@
 title: "Art. 72 StGB — Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation"
 weight: 72
 date: "2026-08-08"
-lastmod: '2026-08-13'
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 72 StGB: Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; Vermutung der Verfügungsmacht bei Beteiligungs- oder Unterstützungshandlungen; Verhältnis zu Art. 70/71 StGB."
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "kriminelle Organisation", "terroristische Organisation", "Verfügungsmacht", "Art. 260ter StGB", "Bruttoprinzip"]
 agent_verified: true

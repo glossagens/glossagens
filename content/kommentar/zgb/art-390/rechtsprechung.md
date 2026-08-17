@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 390 ZGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: "2026-05-24"
 description: "Übersicht der massgeblichen Entscheide zu Art. 390 ZGB (Voraussetzungen der Beistandschaft)"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Beistandschaft", "Subsidiarität", "Handlungsfähigkeitsbeschränkung"]
 agent_verified: false

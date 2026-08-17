@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 89 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: "2026-07-26"
+lastmod: "2026-06-26"
 description: "Übersicht der Entscheide zu Art. 89 StPO – Allgemeine Bestimmungen (gesetzliche Fristen, Gerichtsferien)"
 tags: ["Rechtsprechung", "StPO", "Fristen", "Gerichtsferien", "Allgemeine Bestimmungen", "Wiederherstellung", "Beschleunigungsgebot"]
 agent_verified: false

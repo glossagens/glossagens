@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 191 StGB"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: "2026-06-13"
 description: "Übersicht der Entscheide zu Art. 191 StGB — Schändung, Widerstandsunfähigkeit, Urteilsunfähigkeit, Missbrauch"
 tags: ["Rechtsprechung", "StGB", "Schändung", "Sexualstrafrecht"]
 agent_verified: false

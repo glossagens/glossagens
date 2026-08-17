@@ -2,7 +2,7 @@
 title: "Art. 5 — Zusätzliche Voraussetzungen für Ausländerinnen und Ausländer"
 weight: 5
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 5 ELG: Karenzfrist für Ausländer bei Ergänzungsleistungen, Flüchtlinge, Sozialversicherungsabkommen, rechtmässiger Aufenthalt."
 tags: ["ELG", "Ergänzungsleistungen", "Ausländerrecht", "Karenzfrist", "Sozialversicherung"]
 agent_verified: true

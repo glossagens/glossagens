@@ -2,7 +2,7 @@
 title: "Art. 49 — Mehrere Strafen bei einer Tat"
 weight: 49
 date: 2026-06-13
-lastmod: "2026-07-31"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 49 StGB: Konkurrenzen, Gesamtstrafenbildung (Asperationsprinzip), Zusatzstrafe bei retrospektiver Konkurrenz"
 tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "retrospektive Konkurrenz", "Strafzumessung"]
 agent_verified: true

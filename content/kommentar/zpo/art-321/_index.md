@@ -2,7 +2,7 @@
 title: "Art. 321 ZPO — Einreichen der Beschwerde"
 weight: 321
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 321 ZPO: Einreichen der Beschwerde — Fristen (30 Tage/10 Tage), Form, Begründung, Revision 2023."
 tags: ["ZPO", "Beschwerde", "Beschwerdefrist", "Rechtsmittel", "Fristen", "Revision 2023"]
 agent_verified: false

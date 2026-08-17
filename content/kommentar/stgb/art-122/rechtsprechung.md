@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 122 StGB"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: "2026-08-13"
 description: "Rechtsprechungsübersicht zu Art. 122 StGB — Schwere Körperverletzung"
 tags: ["Rechtsprechung", "StGB", "Schwere Körperverletzung", "Notwehr", "Notwehrexzess", "Versuch"]
 agent_verified: false

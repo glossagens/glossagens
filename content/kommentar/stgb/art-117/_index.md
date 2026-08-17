@@ -2,7 +2,7 @@
 title: "Art. 117 StGB — Fahrlässige Tötung"
 weight: 117
 date: 2026-05-15
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 117 StGB: Tatbestand der fahrlässigen Tötung, Sorgfaltspflichtverletzung, Kausalzusammenhang, Garantenstellung bei Unterlassen."
 tags: ["Fahrlässige Tötung", "Sorgfaltspflicht", "Kausalzusammenhang", "Garantenstellung", "StGB"]
 agent_verified: false

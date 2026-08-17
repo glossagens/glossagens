@@ -2,7 +2,7 @@
 title: "Art. 314b — Fürsorgerische Unterbringung von Kindern"
 weight: 314
 date: "2026-05-10"
-lastmod: "2026-06-19"
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 314b ZGB – Fürsorgerische Unterbringung von Kindern"
 tags: ["ZGB", "Kindesschutz", "fürsorgerische Unterbringung", "Erwachsenenschutz"]
 agent_verified: true

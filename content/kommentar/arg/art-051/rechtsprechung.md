@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 51 ArG"
 weight: 99
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 51 ArG – Verwarnung und Strafandrohung"
 tags: ["Rechtsprechung", "ArG", "Verwarnung", "Vollzug"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 28 IVG"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: "2026-08-16"
 description: "Übersicht der Entscheide zu Art. 28 IVG — Rentenanspruch bei Invalidität"
 tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
 agent_verified: true

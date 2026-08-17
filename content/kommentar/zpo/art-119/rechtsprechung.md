@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 119 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 119 ZPO — Gesuch und Verfahren der unentgeltlichen Rechtspflege, Kostenlosigkeit nach Abs. 6, Bedürftigkeit."
 tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Kostenlosigkeit"]
 agent_verified: false

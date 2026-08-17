@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 78 BGG"
 weight: 99
 date: 2026-05-31
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 78 BGG – Grundsatz der Beschwerde in Strafsachen, sachlicher Anwendungsbereich, Zivilansprüche, Vollzug"
 tags: ["Rechtsprechung", "BGG", "Strafsachen", "Zivilansprüche", "Vollzug", "Beschwerde"]
 agent_verified: false

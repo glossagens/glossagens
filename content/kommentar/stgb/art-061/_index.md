@@ -2,7 +2,7 @@
 title: "Art. 61 — Einweisung in eine Einrichtung für junge Erwachsene"
 weight: 61
 date: 2026-07-16
-lastmod: 2026-07-31
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 61 StGB: Einweisung in eine Einrichtung für junge Erwachsene — Voraussetzungen, Höchstdauer, absolute Altersgrenze und bedingte Entlassung"
 tags: ["StGB", "junge-erwachsene", "massnahme", "altersgrenze", "bedingte-entlassung", "untermassverbot"]
 agent_verified: true

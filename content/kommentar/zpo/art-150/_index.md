@@ -2,7 +2,7 @@
 title: "Art. 150 ZPO — Beweisgegenstand"
 weight: 150
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 150 ZPO: Beweisgegenstand — rechtserhebliche streitige Tatsachen, Übung, Ortsgebrauch, ausländisches Recht."
 tags: ["ZPO", "Beweisgegenstand", "Beweisrecht", "Tatsachen", "ausländisches Recht"]
 agent_verified: false

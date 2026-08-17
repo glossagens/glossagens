@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 100 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 100 StPO – Aktenführung"
 tags: ["Rechtsprechung", "StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier"]
 agent_verified: false

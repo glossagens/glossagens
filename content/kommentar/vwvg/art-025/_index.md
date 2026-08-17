@@ -2,7 +2,7 @@
 title: "Art. 25 — Feststellungsverfügung"
 weight: 25
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 25 VwVG (SR 172.021): Feststellungsverfügung — Voraussetzungen, schutzwürdiges Feststellungsinteresse, Subsidiarität gegenüber Leistungs- und Gestaltungsentscheiden."
 tags: ["VwVG", "Feststellungsverfügung", "Feststellungsinteresse", "Subsidiarität", "Verwaltungsverfahren"]
 agent_verified: false

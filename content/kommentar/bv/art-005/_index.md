@@ -2,7 +2,7 @@
 title: "Art. 5 BV — Grundsätze rechtsstaatlichen Handelns"
 weight: 5
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 5 BV — Legalitätsprinzip, öffentliches Interesse und Verhältnismässigkeit, Treu und Glauben, Beachtung des Völkerrechts"
 tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht", "Rechtsstaatlichkeit"]
 agent_verified: false

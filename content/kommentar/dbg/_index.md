@@ -6,7 +6,7 @@ kuerzel: "DBG"
 gesetz_name: "Bundesgesetz über die direkte Bundessteuer"
 weight: 21
 date: '2026-07-03'
-lastmod: '2026-07-31'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die direkte Bundessteuer (DBG, SR 642.11, vom 14. Dezember 1990).
 tags:
 - DBG

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 51 AVIG"
 weight: 99
 date: 2026-07-17
-lastmod: "2026-08-02"
+lastmod: "2026-08-01"
 description: "Übersicht der massgeblichen Entscheide zu Art. 51 AVIG (Anspruchsvoraussetzungen der Insolvenzentschädigung; Konkurs; offensichtliche Überschuldung; Pfändungsbegehren; Ausschlusstatbestände)"
 tags: ["Rechtsprechung", "AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung"]
 agent_verified: false

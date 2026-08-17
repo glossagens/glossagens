@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 446 ZGB"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: "2026-05-24"
 description: "Übersicht der Entscheide zu Art. 446 ZGB — Verfahrensgrundsätze im Erwachsenenschutz"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Amtswegigkeit", "Gutachten"]
 agent_verified: false

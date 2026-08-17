@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 63 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 63 ZPO — Rückdatierung der Rechtshängigkeit, Erfordernis der identischen Rechtsschrift, Fristbeginn, Schlichtungsgesuch."
 tags: ["Rechtsprechung", "ZPO", "Rechtshängigkeit", "Zuständigkeit", "Verfahrensart", "Neueinreichung"]
 agent_verified: false

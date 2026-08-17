@@ -2,7 +2,7 @@
 title: "Art. 122 — Schwere Körperverletzung"
 weight: 122
 date: 2026-05-16
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 122 StGB – Schwere Körperverletzung (lebensgefährliche Verletzung, Verstümmelung, bleibende Arbeitsunfähigkeit, arg entstellendes Gesicht, andere schwere Schädigung)"
 tags: ["StGB", "Schwere Körperverletzung", "Körperverletzung", "Versuch", "Notwehr", "Notwehrexzess", "Strafzumessung"]
 agent_verified: false

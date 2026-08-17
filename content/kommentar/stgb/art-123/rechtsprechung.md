@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 123 StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-08-13"
 description: "Übersicht der maßgeblichen Entscheide zu Art. 123 StGB – einfache Körperverletzung, Einwilligung, sadomasochistische Praktiken, Qualifizierung, Sportkontext."
 tags: ["Rechtsprechung", "StGB", "Körperverletzung", "Einwilligung"]
 agent_verified: false

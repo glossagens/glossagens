@@ -2,7 +2,7 @@
 title: "Art. 51 — Verwarnung und Strafandrohung"
 weight: 51
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 51 ArG – Verwarnung und Strafandrohung bei Nichtbefolgung von Vorschriften oder Verfügungen (kantonale Behörde, Eidgenössisches Arbeitsinspektorat, Arbeitsärztlicher Dienst)"
 tags: ["ArG", "Verwarnung", "Vollzug", "Strafandrohung", "Art. 292 StGB", "Durchsetzung"]
 agent_verified: true

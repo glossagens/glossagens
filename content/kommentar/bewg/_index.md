@@ -6,7 +6,7 @@ kuerzel: "BewG"
 gesetz_name: "Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland"
 weight: 11
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (BewG, SR 211.412.41, vom 16. Dezember 1983).
 tags:
 - BewG

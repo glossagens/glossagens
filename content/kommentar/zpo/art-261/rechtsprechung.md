@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 261 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 261 ZPO — Vorsorgliche Massnahmen, Glaubhaftmachung, nicht leicht wiedergutzumachender Nachteil."
 tags: ["Rechtsprechung", "ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen"]
 agent_verified: false

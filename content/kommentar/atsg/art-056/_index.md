@@ -2,7 +2,7 @@
 title: "Art. 56 ATSG — Beschwerde gegen Einspracheentscheide"
 weight: 56
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 56 ATSG: Beschwerderecht gegen Einspracheentscheide und Verfügungen, Rechtsverweigerungsbeschwerde."
 tags: ["ATSG", "Sozialversicherungsrecht", "Beschwerde", "Einsprache", "Rechtsverweigerungsbeschwerde", "Verfahrensrecht"]
 agent_verified: true

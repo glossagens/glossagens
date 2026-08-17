@@ -2,7 +2,7 @@
 title: "Art. 323 — Fälligkeit des Lohnes"
 weight: 323
 date: 2026-07-22
-lastmod: 2026-07-24
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Anteil am Geschäftsergebnis, Vorschuss, dispositives vs. absolut zwingendes Recht, kantonale Mindestlohnregelungen, Globalberechnung vs. Monatsberechnung"
 tags: ["OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
 agent_verified: true

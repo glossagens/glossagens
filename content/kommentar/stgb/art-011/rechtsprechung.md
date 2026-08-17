@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 11 StGB"
 weight: 99
 date: 2026-07-24
-lastmod: 2026-07-24
+lastmod: "2026-08-07"
 description: "Übersicht der verifizierten Entscheide zu Art. 11 StGB — unechtes Unterlassungsdelikt, Garantenstellung, Ingerenz, Gleichwertigkeitsklausel"
 tags: ["Rechtsprechung", "StGB", "Unterlassungsdelikt", "Garantenstellung", "Ingerenz"]
 agent_verified: false

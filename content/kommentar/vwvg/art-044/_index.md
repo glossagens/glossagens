@@ -2,7 +2,7 @@
 title: "Art. 44 VwVG — Anfechtbarkeit der Verfügung"
 weight: 44
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 44 VwVG — Anfechtbarkeit der Verfügung, Beschwerdegrundsatz, Verfügungsbegriff und Abgrenzung zum Realakt"
 tags: ["VwVG", "Anfechtbarkeit", "Verfügung", "Verwaltungsverfahren", "Beschwerde", "Realakt"]
 agent_verified: true

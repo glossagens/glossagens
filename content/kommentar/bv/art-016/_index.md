@@ -2,7 +2,7 @@
 title: "Art. 16 — Meinungs- und Informationsfreiheit"
 weight: 16
 date: 2026-05-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
 agent_verified: false

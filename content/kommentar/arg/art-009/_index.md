@@ -2,7 +2,7 @@
 title: "Art. 9 — Wöchentliche Höchstarbeitszeit"
 weight: 9
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 9 ArG – Wöchentliche Höchstarbeitszeit (45/50-Stunden-Regel, Verlängerungsmöglichkeiten, Solidaritätsprinzip Abs. 5)"
 tags: ["ArG", "Höchstarbeitszeit", "Arbeitszeit", "Überzeitarbeit", "Arbeitnehmerschutz"]
 agent_verified: true

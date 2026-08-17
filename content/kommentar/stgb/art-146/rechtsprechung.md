@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 146 StGB – Betrug"
 tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Vorspiegelung", "Bereicherungsabsicht"]
 agent_verified: false

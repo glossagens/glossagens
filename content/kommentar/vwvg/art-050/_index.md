@@ -2,7 +2,7 @@
 title: "Art. 50 VwVG — Beschwerdefrist"
 weight: 50
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 50 VwVG — Beschwerdefrist, Fristbeginn bei Eröffnung, Ausnahme bei Untätigkeitsbeschwerde und Vertrauensschutz bei geänderter Rechtsprechung"
 tags: ["VwVG", "Beschwerdefrist", "Frist", "Verwaltungsverfahren", "Fristwiederherstellung", "Untätigkeitsbeschwerde"]
 agent_verified: true

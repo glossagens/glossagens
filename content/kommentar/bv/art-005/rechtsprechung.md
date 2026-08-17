@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 5 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 5 BV — Legalitätsprinzip, Verhältnismässigkeit, Treu und Glauben, Völkerrecht"
 tags: ["Rechtsprechung", "BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht"]
 agent_verified: false

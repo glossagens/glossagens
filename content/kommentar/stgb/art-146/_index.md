@@ -2,7 +2,7 @@
 title: "Art. 146 — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: "2026-07-31"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 146 StGB – Betrug: Arglistige Täuschung durch Vorspiegelung oder Unterdrückung von Tatsachen, Schädigungsabsicht, Bereicherungsabsicht"
 tags: ["StGB", "Betrug", "Vorspiegelung", "Arglist", "Vermögensdelikt", "Bereicherungsabsicht"]
 agent_verified: false

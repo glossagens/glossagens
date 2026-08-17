@@ -2,7 +2,7 @@
 title: "Art. 14 BV — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 14 BV — Gewährleistung des Rechts auf Ehe und Familie, Trägerschaft unabhängig von Nationalität und Aufenthaltsstatus, Ehevorbereitungsverfahren, Abgrenzung zu Art. 13 BV"
 tags: ["BV", "Grundrechte", "Ehe", "Familie", "Eheschliessungsfreiheit", "Ehevorbereitungsverfahren", "Ehe für alle"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 143bis StGB"
 weight: 99
 date: 2026-07-24
-lastmod: 2026-08-07
+lastmod: "2026-08-10"
 description: "Übersicht der verifizierten Entscheide zu Art. 143bis StGB — Hacking-Tatbestand, Teilsystem-Doktrin, Sicherheitslücken"
 tags: ["Rechtsprechung", "StGB", "Cyberkriminalität", "Hacking"]
 agent_verified: true

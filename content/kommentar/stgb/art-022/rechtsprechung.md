@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 22 StGB"
 weight: 99
 date: 2026-06-28
-lastmod: 2026-08-09
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 22 StGB – Versuch"
 tags: ["Rechtsprechung", "StGB", "Versuch", "untauglicher Versuch", "Strafmilderung"]
 agent_verified: true

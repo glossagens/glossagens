@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 43 ATSG"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 43 ATSG — Amtsermittlungsprinzip, Mitwirkungspflicht, Begutachtung, Anspruch auf externes Gutachten, Zwischenverfügung, Rechtskraft von Dauerleistungen"
 tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlung", "Mitwirkungspflicht", "Begutachtung", "Rechtskraft", "Sozialversicherungsrecht"]
 agent_verified: false

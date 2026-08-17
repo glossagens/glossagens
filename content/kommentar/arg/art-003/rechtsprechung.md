@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 3 ArG"
 weight: 99
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 3 ArG – Ausnahmen vom persönlichen Geltungsbereich (höhere leitende Tätigkeit, wissenschaftliche/künstlerische Tätigkeit)"
 tags: ["Rechtsprechung", "ArG", "persönlicher Geltungsbereich", "höhere leitende Tätigkeit"]
 agent_verified: false

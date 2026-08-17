@@ -2,7 +2,7 @@
 title: "Art. 248 ZPO — Grundsatz (Summarisches Verfahren)"
 weight: 248
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — Rechtsschutz in klaren Fällen, vorsorgliche Massnahmen, Besitzesschutz."
 tags: ["ZPO", "Summarisches Verfahren", "vorsorgliche Massnahmen", "klarer Fall", "Besitzesschutz"]
 agent_verified: false

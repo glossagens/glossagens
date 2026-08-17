@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 70 StGB — Einziehung von Vermögenswerten"
 weight: 99
 date: "2026-08-08"
-lastmod: "2026-08-08"
+lastmod: "2026-08-10"
 description: "Übersicht der bundesgerichtlichen Entscheide zu Art. 70 StGB (Einziehung von Vermögenswerten): Grundsatz der Einziehung, Schutz gutgläubiger Dritter, Verjährung, Schätzungsbefugnis, Brutto-/Nettoprinzip, Durchgriff auf Gesellschaftsvermögen, Verhältnis zu Art. 71/73 StGB, selbständiges Einziehungsverfahren, Verwendung zu Gunsten des Geschädigten, Aktivlegitimation des Versicherers, keine Solidarhaftung."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Verfall", "Vermögensabschöpfung", "Bruttoprinzip", "Drittpersonen", "Schätzung", "Verjährung", "selbständiges Einziehungsverfahren"]
 agent_verified: false

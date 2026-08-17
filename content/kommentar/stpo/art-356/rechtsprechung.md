@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 356 StPO"
 weight: 99
 date: "2026-06-27"
-lastmod: "2026-07-31"
+lastmod: "2026-08-01"
 description: "Übersicht der Entscheide zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht"
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Säumnisfiktion", "Rückzug", "Anklageschrift", "Gültigkeit", "EGMR", "Nejjar"]
 agent_verified: false

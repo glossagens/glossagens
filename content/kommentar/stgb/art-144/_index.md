@@ -2,7 +2,7 @@
 title: "Art. 144 — Sachbeschädigung"
 weight: 144
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 144 StGB – Sachbeschädigung: Grundtatbestand (Abs. 1, Antragdelikt), qualifizierte Begehungsweise bei Zusammenrottung (Abs. 2) und bei grossem Schaden (Abs. 3, von Amtes wegen)"
 tags: ["StGB", "Sachbeschädigung", "Eigentumsdelikt", "Antragdelikt", "unbrauchbar machen", "öffentliche Zusammenrottung", "grosser Schaden"]
 agent_verified: false

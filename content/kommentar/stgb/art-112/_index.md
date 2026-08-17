@@ -2,7 +2,7 @@
 title: "Art. 112 StGB — Mord"
 weight: 112
 date: "2026-06-12"
-lastmod: '2026-08-13'
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung; Mordqualifikation (besonders skrupellos, Beweggrund/Zweck/Art der Ausführung); Heimtücke, Grausamkeit, krasse Missachtung fremden Lebens; Strafrahmen (lebenslänglich oder mind. 10 Jahre); Abgrenzung zu Art. 111/113 StGB; in dubio pro reo; Strafzumessung."
 tags: ["StGB", "Mord", "qualifizierte Tötung", "Skrupellosigkeit", "Heimtücke", "Grausamkeit", "Tötungsdelikte", "besonders verwerflich", "lebenslänglich"]
 revisions:

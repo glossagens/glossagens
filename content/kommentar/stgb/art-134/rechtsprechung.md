@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 134 StGB"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-08-13"
 description: "Übersicht der massgeblichen Entscheide zu Art. 134 StGB (Angriff)"
 tags: ["Rechtsprechung", "StGB", "Angriff", "Raufhandel", "Konkurrenz", "Mittäterschaft"]
 agent_verified: false

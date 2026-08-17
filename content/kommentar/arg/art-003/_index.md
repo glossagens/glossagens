@@ -2,7 +2,7 @@
 title: "Art. 3 — Ausnahmen vom persönlichen Geltungsbereich"
 weight: 3
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 3 ArG – Ausnahmen vom persönlichen Geltungsbereich (höhere leitende Tätigkeit, wissenschaftliche/künstlerische Tätigkeit, Kirchenpersonal, Flugpersonal, Lehrer, Heimarbeitnehmer, Handelsreisende, Rheinschiffer)"
 tags: ["ArG", "persönlicher Geltungsbereich", "höhere leitende Tätigkeit", "Ausnahmen", "Arbeitnehmerschutz"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 24a RPG — Zweckänderungen ohne bauliche Massnahmen ausserhalb der Bauzonen"
 weight: 241
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Kommentar zu Art. 24a RPG: Zweckänderungen bestehender Bauten und Anlagen ausserhalb der Bauzonen, die keine baulichen Massnahmen erfordern."
 tags: ["RPG", "Zweckänderung", "Bauen ausserhalb der Bauzonen", "Ausnahmebewilligung", "Nichtbaugebiet"]
 agent_verified: true

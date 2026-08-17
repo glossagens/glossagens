@@ -6,7 +6,7 @@ kuerzel: "KVG"
 gesetz_name: "Bundesgesetz über die Krankenversicherung"
 weight: 30
 date: '2026-07-31'
-lastmod: '2026-08-07'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die Krankenversicherung (KVG, SR 832.10, vom 18. März 1994).
 tags:
 - KVG

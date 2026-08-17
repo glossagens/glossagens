@@ -2,7 +2,7 @@
 title: "Art. 139 — Diebstahl"
 weight: 139
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 139 StGB – Diebstahl: Grundtatbestand (Ziff. 1), Qualifikationen (Ziff. 3: gewerbsmässig, Bande, Waffe/Explosion, besondere Gefährlichkeit), Strafantragsdepot (Ziff. 4)"
 tags: ["StGB", "Diebstahl", "Vermögensdelikt", "Gewahrsam", "Aneignung", "gewerbsmässig", "Bande", "Qualifikation"]
 agent_verified: false

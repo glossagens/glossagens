@@ -2,7 +2,7 @@
 title: "Art. 219 ZPO — Anwendung des ordentlichen Verfahrens"
 weight: 219
 date: "2026-05-23"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 219 ZPO — Sinngemässe Anwendung der Bestimmungen über das ordentliche Verfahren auf alle anderen Verfahrensarten, Grenzen der Analogie und Novenrecht"
 tags: ["ZPO", "ordentliches Verfahren", "Analogie", "Verfahrensrecht", "Novenrecht", "sinngemässe Anwendung"]
 agent_verified: false

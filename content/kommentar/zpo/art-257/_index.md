@@ -2,7 +2,7 @@
 title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen bei unbestrittenem Sachverhalt und klarer Rechtslage — Voraussetzungen, Ausschluss bei Offizialgrundsatz, Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz", "Klare Fälle", "Unbestrittener Sachverhalt"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Art. 20 — Höhe der Invalidenrente"
 weight: 20
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 20 UVG: Höhe der Invalidenrente, Komplementärrente, Kürzung bei Referenzalter, versicherter Verdienst."
 tags: ["UVG", "Invalidenrente", "Komplementärrente", "Sozialversicherungsrecht", "Unfallversicherung"]
 agent_verified: true

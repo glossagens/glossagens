@@ -2,7 +2,7 @@
 title: "Art. 56 VwVG — Andere vorsorgliche Massnahmen"
 weight: 56
 date: 2026-08-02
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 56 VwVG (SR 172.021): Vorsorgliche Massnahmen im Beschwerdeverfahren — Voraussetzungen, Sicherung des Prozessgegenstands, Verhältnismässigkeit."
 tags: ["VwVG", "vorsorgliche Massnahmen", "einstweiliger Rechtsschutz", "Superprovisorium", "Prozessgegenstand"]
 agent_verified: true

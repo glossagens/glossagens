@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 50 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 50 VwVG – Beschwerdefrist und Untätigkeitsbeschwerde"
 tags: ["Rechtsprechung", "VwVG", "Beschwerdefrist", "Frist", "Untätigkeitsbeschwerde"]
 agent_verified: true

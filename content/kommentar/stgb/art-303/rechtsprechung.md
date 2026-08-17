@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 303 StGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: "2026-05-24"
 description: "Übersicht der Entscheide zu Art. 303 StGB – Falsche Anschuldigung / Dénonciation calomnieuse"
 tags: ["Rechtsprechung", "StGB", "Strafrecht", "falsche Anschuldigung"]
 agent_verified: false

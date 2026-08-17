@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 230 SchKG"
 weight: 99
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 230 SchKG — Einstellung des Konkursverfahrens"
 tags: ["Rechtsprechung", "SchKG", "Konkurs", "Einstellung", "Masseunzulänglichkeit"]
 agent_verified: false

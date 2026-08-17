@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 59 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 59 StPO – Entscheid über Ausstandsbegehren"
 tags: ["Rechtsprechung", "StPO", "Ausstand", "Entscheid", "Zuständigkeit"]
 agent_verified: true

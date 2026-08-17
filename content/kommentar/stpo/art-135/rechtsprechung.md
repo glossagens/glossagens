@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 135 StPO"
 weight: 99
 date: 2026-06-03
-lastmod: 2026-06-03
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 135 StPO – Entschädigung der amtlichen Verteidigung"
 tags: ["Rechtsprechung", "StPO", "amtliche Verteidigung", "Entschädigung"]
 agent_verified: false

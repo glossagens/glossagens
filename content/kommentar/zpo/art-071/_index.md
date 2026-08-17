@@ -2,7 +2,7 @@
 title: "Art. 71 — Einfache Streitgenossenschaft"
 weight: 71
 date: "2026-05-17"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 71 ZPO: Einfache Streitgenossenschaft, eventuelle passive Streitgenossenschaft, Voraussetzungen der Klagenhäufung und verfahrensrechtliche Folgen."
 tags: ["ZPO", "Streitgenossenschaft", "eventuelle Streitgenossenschaft", "Parteistellung"]
 agent_verified: false

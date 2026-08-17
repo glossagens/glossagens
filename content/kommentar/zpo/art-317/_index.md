@@ -2,7 +2,7 @@
 title: "Art. 317 ZPO — Neue Tatsachen, neue Beweismittel und Klageänderung"
 weight: 317
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 317 ZPO: Nova in der Berufung — Voraussetzungen für neue Tatsachen und Beweismittel, Unverzüglichkeit, zumutbare Sorgfalt, Klageänderung in der Rechtsmittelinstanz."
 tags: ["ZPO", "Berufung", "Nova", "Klageänderung", "Rechtsmittel", "Neue Tatsachen"]
 agent_verified: false

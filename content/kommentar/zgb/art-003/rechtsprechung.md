@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 3 ZGB"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-08"
 description: "Übersicht der Entscheide zu Art. 3 ZGB – Vermutung des guten Glaubens, fahrlässiger böser Glaube, Beweislastumkehr"
 tags: ["Rechtsprechung", "ZGB", "guter Glaube", "Vermutung", "Beweislast", "Vertrauensschutz"]
 agent_verified: false

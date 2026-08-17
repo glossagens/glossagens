@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 150 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 150 ZPO — Beweisgegenstand, rechtserhebliche und streitige Tatsachen, Verbot der Beweisausforschung, Privatgutachten."
 tags: ["Rechtsprechung","ZPO","Beweisrecht","Beweisgegenstand","Beweisausforschung"]
 agent_verified: false

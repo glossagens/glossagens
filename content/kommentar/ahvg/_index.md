@@ -6,7 +6,7 @@ kuerzel: "AHVG"
 gesetz_name: "Bundesgesetz über die Alters- und Hinterlassenenversicherung"
 weight: 27
 date: '2026-07-03'
-lastmod: '2026-07-03'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG, SR 831.10, vom 20. Dezember 1946).
 tags:
 - AHVG

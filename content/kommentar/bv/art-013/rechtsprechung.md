@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 13 BV — Schutz der Privatsphäre"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Rechtsprechung zu Art. 13 BV — Privat-, Familien- und Wohnbereich, Datenschutz, informationelle Selbstbestimmung, AFV und Überwachung"
 tags: ["Rechtsprechung", "BV", "Privatsphäre", "Datenschutz", "Informationelle Selbstbestimmung", "AFV", "Überwachung"]
 agent_verified: false

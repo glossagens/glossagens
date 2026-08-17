@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 17 ATSG"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-05-30
+lastmod: "2026-06-12"
 description: "Übersicht der Entscheide zu Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 tags: ["Rechtsprechung", "Rentenrevision", "Invalidenversicherung", "ATSG", "Sachverhaltsänderung"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 140 StGB"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 140 StGB – Raub"
 tags: ["Rechtsprechung", "StGB", "Raub", "Gewaltdelikt"]
 agent_verified: false

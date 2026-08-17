@@ -2,7 +2,7 @@
 title: "Art. 22 — Revision der Rente"
 weight: 22
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Kommentar zu Art. 22 UVG: Revision der Invalidenrente bei Erreichen des Referenzalters, Abweichung von Art. 17 ATSG, Wiedererwägung."
 tags: ["UVG", "Rentenrevision", "Referenzalter", "Sozialversicherungsrecht", "Unfallversicherung"]
 agent_verified: true

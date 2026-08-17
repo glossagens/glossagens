@@ -2,7 +2,7 @@
 title: "Art. 58 — Dispositions- und Offizialgrundsatz"
 weight: 58
 date: 2026-07-17
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 58 ZPO: Dispositions- und Offizialgrundsatz; Bindung des Gerichts an Parteianträge; Ausnahmen durch gesetzliche Offizialmaximen; Auswirkungen auf Kindesunterhalt und nachheblichen Unterhalt."
 tags: ["ZPO", "Zivilprozessordnung", "Dispositionsgrundsatz", "Offizialgrundsatz", "Prozessmaximen", "Parteianträge", "Bezifferung", "Unterhalt"]
 agent_verified: false

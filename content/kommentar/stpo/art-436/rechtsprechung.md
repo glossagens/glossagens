@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 436 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 436 StPO – Entschädigung und Genugtuung im Rechtsmittelverfahren"
 tags: ["Rechtsprechung", "StPO", "Entschädigung", "Rechtsmittelverfahren"]
 agent_verified: false

@@ -6,7 +6,7 @@ kuerzel: "GSchG"
 gesetz_name: "Gewässerschutzgesetz"
 weight: 24
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Gewässerschutzgesetz (GSchG, SR 814.20, vom 24. Januar 1991).
 tags:
 - GSchG

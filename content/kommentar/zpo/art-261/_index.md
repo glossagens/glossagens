@@ -2,7 +2,7 @@
 title: "Art. 261 ZPO — Vorsorgliche Massnahmen (Grundsatz)"
 weight: 261
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 261 ZPO: Voraussetzungen für vorsorgliche Massnahmen im Zivilprozess — Glaubhaftmachung, nicht leicht wiedergutzumachender Nachteil, Interessenabwägung und superprovisorischer Rechtsschutz."
 tags: ["ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen", "Glaubhaftmachung", "Superprovisorium"]
 agent_verified: false

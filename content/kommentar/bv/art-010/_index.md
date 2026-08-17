@@ -2,7 +2,7 @@
 title: "Art. 10 BV — Recht auf Leben und auf persönliche Freiheit"
 weight: 10
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 10 BV — Recht auf Leben, persönliche Freiheit einschliesslich körperlicher und geistiger Unversehrtheit und Bewegungsfreiheit, Verbot von Folter und erniedrigender Behandlung"
 tags: ["BV", "Grundrechte", "Recht auf Leben", "Persönliche Freiheit", "Folterverbot", "Zwangsbehandlung"]
 agent_verified: false

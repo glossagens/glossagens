@@ -2,7 +2,7 @@
 title: "Art. 227 — Klageänderung"
 weight: 227
 date: 2026-06-28
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 227 ZPO – Klageänderung"
 tags: ["ZPO", "Klageänderung", "Verfahrensrecht", "Parteivorträge"]
 agent_verified: false

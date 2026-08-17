@@ -2,7 +2,7 @@
 title: "Art. 143bis — Unbefugtes Eindringen in ein Datenverarbeitungssystem"
 weight: 143
 date: 2026-07-24
-lastmod: 2026-08-07
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 143bis StGB — Hacking-Tatbestand, Teilsystem-Doktrin, Sicherheitslücken, Privilege Escalation, Passwortverbreitung"
 tags: ["StGB", "Cyberkriminalität", "Hacking", "Datenverarbeitungssystem", "Computerstrafrecht"]
 agent_verified: true

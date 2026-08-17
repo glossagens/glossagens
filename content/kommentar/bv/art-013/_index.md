@@ -2,7 +2,7 @@
 title: "Art. 13 — Schutz der Privatsphäre"
 weight: 13
 date: 2026-05-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 13 BV — Recht auf Achtung des Privat- und Familienlebens, der Wohnung sowie des Brief-, Post- und Fernmeldeverkehrs; Schutz vor Missbrauch persönlicher Daten"
 tags: ["BV", "Privatsphäre", "Datenschutz", "Persönlichkeit", "Grundrechte"]
 agent_verified: false

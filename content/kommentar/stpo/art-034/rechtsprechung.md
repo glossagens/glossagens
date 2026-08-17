@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 34 StPO"
 weight: 99
 date: "2026-07-12"
-lastmod: "2026-07-12"
+lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 34 StPO — Durch Begehungsort bestimmte Zuständigkeit"
 tags: ["Rechtsprechung", "StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit"]
 agent_verified: false

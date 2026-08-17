@@ -2,7 +2,7 @@
 title: Art. 47 StGB — Strafzumessung
 weight: 47
 date: 2026-08-11
-lastmod: "2026-08-11"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 47 StGB: Grundsätze der Strafzumessung, Verschulden, Täterkomponenten, Drei-Stufen-Modell, Begründungspflicht."
 tags: ["Strafzumessung", "Verschulden", "StGB", "Sanktionen", "Täterkomponenten", "Doppelverwertungsverbot", "Beschleunigungsgebot"]
 agent_verified: true

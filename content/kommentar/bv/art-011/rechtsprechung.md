@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 11 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 11 BV — Tragweite des Kindesschutzes, Justiziabilität der beiden Teilgehalte, Bindung der Rechtsanwendung"
 tags: ["Rechtsprechung", "BV", "Kinder", "Jugendliche", "Kindesschutz", "Kindeswohl"]
 agent_verified: false

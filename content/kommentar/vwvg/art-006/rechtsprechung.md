@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 6 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: "2026-08-15"
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 6 VwVG – Parteistellung"
 tags: ["Rechtsprechung", "VwVG", "Parteistellung", "Verwaltungsverfahren", "Beschwerdeberechtigung", "absolute Beschwer"]
 agent_verified: false

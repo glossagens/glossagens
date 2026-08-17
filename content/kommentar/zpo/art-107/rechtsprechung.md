@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 107 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 107 ZPO — Verteilung nach Ermessen, familienrechtliche Verfahren, vorsorgliche Beweisführung, Zwischenverfahren."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Ermessensverteilung", "Kostenverteilung"]
 agent_verified: false

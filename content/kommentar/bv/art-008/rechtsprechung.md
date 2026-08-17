@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 8 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 8 BV — allgemeiner Gleichheitssatz, Diskriminierungsverbot, Gleichstellung von Mann und Frau, Behindertengleichstellung"
 tags: ["Rechtsprechung", "BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Lohngleichheit", "Behindertengleichstellung"]
 agent_verified: false

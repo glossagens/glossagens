@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 158 ZPO"
 weight: 99
 date: "2026-06-28"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Entscheide zu Art. 158 ZPO – Vorsorgliche Beweisführung"
 tags: ["Rechtsprechung", "ZPO", "vorsorgliche Beweisführung", "Beweiserhaltung", "Prozessaussichten"]
 agent_verified: false

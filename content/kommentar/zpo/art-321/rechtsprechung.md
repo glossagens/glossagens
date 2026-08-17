@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 321 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 321 ZPO — Einreichen der Beschwerde, Fristen, Form, Begründung."
 tags: ["Rechtsprechung","ZPO","Beschwerde","Fristen"]
 agent_verified: false

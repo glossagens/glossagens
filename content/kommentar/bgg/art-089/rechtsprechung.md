@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 89 BGG"
 weight: 99
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: "2026-06-17"
 description: "Übersicht der Entscheide zu Art. 89 BGG – Beschwerderecht"
 tags: ["Rechtsprechung", "BGG", "Beschwerderecht", "Beschwerdelegitimation"]
 agent_verified: false

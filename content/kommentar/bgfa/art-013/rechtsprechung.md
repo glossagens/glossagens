@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-07-18"
 description: "Leitentscheide und weitere Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis, Entbindung, Voraus-Entbindung, Entsiegelung, fahrlässige Verletzung."
 tags: ["Rechtsprechung", "BGFA", "Berufsgeheimnis", "Entbindung", "Art. 321 StGB"]
 agent_verified: true

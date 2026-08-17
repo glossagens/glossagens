@@ -2,7 +2,7 @@
 title: "Art. 64 VwVG — Parteientschädigung"
 weight: 64
 date: 2026-08-02
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 64 VwVG (SR 172.021): Parteientschädigung im Beschwerdeverfahren — Voraussetzungen, Obsiegerprinzip, Kostenträger, Staatshaftung bei Uneinbringlichkeit, Bemessung nach VGKE."
 tags: ["VwVG", "Parteientschädigung", "Obsiegerprinzip", "Anwaltskosten", "Verfahrenskosten", "VGKE"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 63 StGB"
 weight: 99
 date: 2025-06-12
-lastmod: 2025-06-12
+lastmod: "2026-06-10"
 description: "Übersicht der Entscheide zu Art. 63 StGB – Voraussetzungen und Vollzug der ambulanten Behandlung"
 tags: ["Rechtsprechung", "StGB", "ambulante Behandlung", "Massnahme"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 134 StPO"
 weight: 99
 date: "2026-06-12"
-lastmod: "2026-07-31"
+lastmod: "2026-08-01"
 description: "Übersicht der Entscheide zu Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung"
 tags: ["Rechtsprechung", "StPO", "Widerruf", "Wechsel", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung", "Opferschutz", "Beschleunigungsgebot"]
 agent_verified: false

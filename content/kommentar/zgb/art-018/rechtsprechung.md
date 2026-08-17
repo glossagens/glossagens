@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 18 ZGB"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-06"
 description: "Übersicht der Entscheide zu Art. 18 ZGB — Urteilsfähigkeit"
 tags: ["Rechtsprechung", "ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit"]
 agent_verified: false

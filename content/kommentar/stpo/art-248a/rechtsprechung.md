@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Übersicht der massgeblichen Entscheide zu Art. 248a StPO (Zuständigkeit zur Entsiegelung und Verfahren)"
 tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Beschlagnahme", "Privatgeheimnisse", "Smartphone"]
 agent_verified: false

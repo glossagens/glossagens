@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 71 ZPO"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Uebersicht der massgeblichen Entscheide zu Art. 71 ZPO (Einfache Streitgenossenschaft, eventuelle passive Streitgenossenschaft)."
 tags: ["Rechtsprechung", "ZPO", "Streitgenossenschaft", "eventuelle Streitgenossenschaft"]
 agent_verified: false

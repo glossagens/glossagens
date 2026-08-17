@@ -2,7 +2,7 @@
 title: "Art. 222 ZPO — Klageantwort"
 weight: 222
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 222 ZPO: Die Klageantwort im ordentlichen Zivilprozess — Bestreitungspflicht, Frist, Beschränkung und Säumnisfolgen."
 tags: ["ZPO", "Ordentliches Verfahren", "Klageantwort", "Bestreitungspflicht"]
 agent_verified: false

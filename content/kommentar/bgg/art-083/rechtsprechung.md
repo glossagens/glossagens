@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 83 BGG — Ausnahmen von der Beschwerde"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: "2026-06-07"
 description: "Übersicht der massgeblichen Entscheide zu Art. 83 BGG: Beschwerdeunzulässigkeit nach Sachgebieten — lit. f (Beschaffungen), lit. g (Arbeitsverhältnisse), lit. h (Amtshilfe), lit. t (Prüfungen), lit. c/d (Ausländer/Asyl) und weitere Ausnahmebereiche"
 tags: ["Rechtsprechung", "BGG", "Beschwerdeunzulässigkeit", "Prüfungsentscheide", "Ausländerrecht", "öffentliche Beschaffungen", "Amtshilfe"]
 agent_verified: false

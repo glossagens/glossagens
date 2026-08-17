@@ -2,7 +2,7 @@
 title: "Art. 123 — Einfache Körperverletzung"
 weight: 123
 date: 2026-05-17
-lastmod: "2026-06-19"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 123 StGB: einfache Körperverletzung, Einwilligung, sadomasochistische Praktiken, Abgrenzung zur Tätlichkeit und qualifizierte Begehungsweisen."
 tags: ["StGB", "Körperverletzung", "Einwilligung", "sadomasochistische Praktiken"]
 agent_verified: false

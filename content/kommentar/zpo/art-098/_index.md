@@ -2,7 +2,7 @@
 title: "Art. 98 ZPO — Kostenvorschuss"
 weight: 98
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 98 ZPO: Kostenvorschuss — Voraussetzungen, Höhe, Folgen der Nichtleistung, Revision 2023 (Praxistauglichkeit)."
 tags: ["ZPO", "Kostenvorschuss", "Gerichtskosten", "Prozessvoraussetzung", "Revision 2023"]
 agent_verified: false

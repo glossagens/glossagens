@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 42 StGB — Bedingter Vollzug"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: "2026-08-10"
 description: "Übersicht der massgeblichen Entscheide zu Art. 42 StGB — Bedingter Vollzug einer Freiheitsstrafe"
 tags: ["Rechtsprechung", "StGB", "bedingter Vollzug", "Prognose", "Schlechtprognose", "Strafaufschub"]
 agent_verified: false

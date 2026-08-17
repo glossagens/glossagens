@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 22 RPG"
 weight: 99
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-07-17"
 description: "Übersicht der massgeblichen Entscheide zu Art. 22 RPG (Baubewilligung)"
 tags: ["Rechtsprechung", "RPG", "baubewilligung", "unterhalt", "wiederherstellung"]
 agent_verified: true

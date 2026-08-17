@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 323 OR"
 weight: 99
 date: 2026-07-22
-lastmod: 2026-07-24
+lastmod: "2026-08-10"
 description: "Übersicht der verifizierten Entscheide zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Mindestlohn, Globalberechnung vs. Monatsberechnung"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
 agent_verified: true

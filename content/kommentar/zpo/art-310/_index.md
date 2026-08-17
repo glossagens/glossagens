@@ -2,7 +2,7 @@
 title: "Art. 310 ZPO — Berufungsgründe"
 weight: 310
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 310 ZPO: Die Berufungsgründe — unrichtige Rechtsanwendung, unrichtige Sachverhaltsfeststellung, uneingeschränkte Kognition."
 tags: ["ZPO", "Berufung", "Berufungsgründe", "Rechtsmittel", "Kognition"]
 agent_verified: false

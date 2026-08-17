@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 428 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 428 StPO — Kostentragung im Rechtsmittelverfahren"
 tags: ["Rechtsprechung", "StPO", "Kosten", "Rechtsmittelverfahren", "Obsiegen", "Unterliegen"]
 agent_verified: false

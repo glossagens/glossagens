@@ -6,7 +6,7 @@ kuerzel: "StG"
 gesetz_name: "Bundesgesetz über die Stempelabgaben"
 weight: 20
 date: '2026-07-03'
-lastmod: '2026-07-03'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die Stempelabgaben (StG, SR 641.1, vom 27. Juni 1973).
 tags:
 - StG

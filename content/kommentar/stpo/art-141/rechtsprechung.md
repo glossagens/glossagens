@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: 2026-05-09
+lastmod: "2026-08-16"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true

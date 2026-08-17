@@ -6,7 +6,7 @@ kuerzel: "BGBB"
 gesetz_name: "Bäuerliches Bodenrecht"
 weight: 10
 date: '2026-07-03'
-lastmod: '2026-08-01'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bäuerliches Bodenrecht (BGBB, SR 211.412.11, vom 4. Oktober 1991).
 tags:
 - BGBB

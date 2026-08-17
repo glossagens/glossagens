@@ -2,7 +2,7 @@
 title: "Art. 70 StGB — Einziehung von Vermögenswerten. Grundsätze"
 weight: 70
 date: "2026-08-08"
-lastmod: '2026-08-13'
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 70 StGB — Einziehung von Vermögenswerten: Grundsatz (Abs. 1), Schutz gutgläubiger Dritter (Abs. 2), Verjährung (Abs. 3), amtliche Bekanntmachung (Abs. 4), Schätzungsbefugnis (Abs. 5), Verhältnis zu Art. 71/72/73 StGB, Reform 2024, Brutto-/Nettoprinzip, Leading Cases."
 tags: ["StGB", "Einziehung", "Verfall", "Vermögensabschöpfung", "Gewinnabschöpfung", "Bruttoprinzip", "Drittpersonen", "Schätzung", "Verjährung"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Art. 25 — Schichtwechsel"
 weight: 25
 date: "2026-07-09"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 description: "Kommentar zu Art. 25 ArG – Schichtwechselpflicht (sechs-Wochen-Grundsatz, gleichmässiger Anteil bei Zwei- und Nachtschicht, Ausnahme mit Einverständnis der Arbeitnehmenden)"
 tags: ["ArG", "Schichtwechsel", "Nachtarbeit", "Arbeitnehmerschutz", "Schichtsystem", "Wechselschicht"]
 agent_verified: true

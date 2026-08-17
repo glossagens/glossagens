@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 21 ELG"
 weight: 99
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: "2026-08-10"
 description: "Übersicht der massgeblichen Entscheide zu Art. 21 ELG (Organisation und Verfahren — örtliche Zuständigkeit)"
 tags: ["Rechtsprechung", "ELG", "zuständigkeit", "kinderrente", "zusammenrechnung"]
 agent_verified: true

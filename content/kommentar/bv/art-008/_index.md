@@ -2,7 +2,7 @@
 title: "Art. 8 BV — Rechtsgleichheit"
 weight: 8
 date: 2026-05-23
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 8 BV — allgemeiner Gleichheitssatz, Diskriminierungsverbot, Gleichstellung von Mann und Frau, Beseitigung von Benachteiligungen Behinderter"
 tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Lohngleichheit", "Gleichstellung", "Behindertengleichstellung"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 244 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zum vereinfachten Verfahren — Anwendungsbereich, Verhältnis zur sachlichen Zuständigkeit, Hauptverhandlung."
 tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Klageeinreichung"]
 agent_verified: false

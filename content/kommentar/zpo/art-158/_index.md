@@ -2,7 +2,7 @@
 title: "Art. 158 — Vorsorgliche Beweisführung"
 weight: 158
 date: "2026-06-28"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 158 ZPO – Vorsorgliche Beweisführung: Voraussetzungen, schutzwürdiges Interesse, Gefährdung der Beweismittel, Verhältnis zur Hauptsache"
 tags: ["ZPO", "Beweisrecht", "vorsorgliche Beweisführung", "Beweiserhaltung", "Prozessaussichten"]
 agent_verified: false

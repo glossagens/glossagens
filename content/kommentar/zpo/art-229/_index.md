@@ -2,7 +2,7 @@
 title: "Art. 229 ZPO — Neue Tatsachen und Beweismittel"
 weight: 229
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 229 ZPO: Das erstinstanzliche Novenrecht nach der ZPO-Revision 2025 — Aktenschluss, echte und unechte Nova, Fristen und richterliche Abklärungspflicht."
 tags: ["ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss", "Revision 2025"]
 agent_verified: false

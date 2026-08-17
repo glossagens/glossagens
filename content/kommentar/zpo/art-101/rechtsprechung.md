@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 101 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 101 ZPO — Fristansetzung, zwingende Nachfrist, Fristwahrung bei Zahlung, Kostenfolgen des Nichteintretens."
 tags: ["Rechtsprechung", "ZPO", "Sicherheitsleistung", "Parteientschädigung", "Vorschuss", "Nachfrist"]
 agent_verified: false

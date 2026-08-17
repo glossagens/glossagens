@@ -6,7 +6,7 @@ kuerzel: "StÜ"
 gesetz_name: "Übereinkommen über die Rechtsstellung der Staatenlosen"
 weight: 2
 date: '2026-07-03'
-lastmod: '2026-07-03'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zur Übereinkommen über die Rechtsstellung der Staatenlosen (StÜ, SR 0.142.40, vom 28. September 1954).
 tags:
 - StÜ

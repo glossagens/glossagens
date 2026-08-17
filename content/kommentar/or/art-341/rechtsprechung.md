@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 341 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-06"
 description: "Übersicht der Entscheide zu Art. 341 OR — Unabdingbarkeit, Verzichtssperre, Verjährung und Verwirkung im Arbeitsverhältnis"
 tags: ["Rechtsprechung", "OR", "Unabdingbarkeit", "Arbeitsrecht", "Verzichtssperre", "Verjährung"]
 agent_verified: false

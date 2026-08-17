@@ -6,7 +6,7 @@ kuerzel: "RPG"
 gesetz_name: "Raumplanungsgesetz"
 weight: 22
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Raumplanungsgesetz (RPG, SR 700, vom 22. Juni 1979).
 tags:
 - RPG

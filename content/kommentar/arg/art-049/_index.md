@@ -2,7 +2,7 @@
 title: "Art. 49 — Bewilligungsverfahren"
 weight: 49
 date: "2026-07-09"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 description: "Kommentar zu Art. 49 ArG – Bewilligungsverfahren: Gesuchspflicht, Dringlichkeit und Kanzleigebühren"
 tags: ["ArG", "Bewilligungsverfahren", "Arbeitszeitbewilligung", "Verwaltungsverfahren"]
 agent_verified: true

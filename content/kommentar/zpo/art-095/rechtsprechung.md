@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 95 ZPO"
 weight: 99
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 95 ZPO — Begriffe der Prozesskosten, Gerichtskosten, Parteientschädigung, Umtriebsentschädigung."
 tags: ["Rechtsprechung","ZPO","Prozesskosten","Gerichtskosten","Parteientschädigung"]
 agent_verified: false

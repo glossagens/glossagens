@@ -2,7 +2,7 @@
 title: "Art. 341 OR — Unabdingbarkeit und Verjährung"
 weight: 341
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-06"
 description: "Kommentar zu Art. 341 OR — Verzichtssperre auf unabdingbare Arbeitnehmerrechte während des Arbeitsverhältnisses und Verjährungsregeln für arbeitsvertragliche Forderungen"
 tags: ["OR", "Arbeitsrecht", "Unabdingbarkeit", "Verzichtssperre", "Verjährung", "Arbeitsvertrag"]
 agent_verified: true

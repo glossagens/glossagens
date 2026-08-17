@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 305bis StGB"
 weight: 99
 date: 2026-06-03
-lastmod: 2026-06-03
+lastmod: "2026-06-05"
 description: "Übersicht der Entscheide zu Art. 305bis StGB – Geldwäscherei"
 tags: ["Rechtsprechung", "StGB", "Geldwäscherei", "Vortatenkreis", "Selbstgeldwäscherei"]
 agent_verified: false

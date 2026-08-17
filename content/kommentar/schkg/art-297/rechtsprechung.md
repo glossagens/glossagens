@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 297 SchKG"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-08-13"
 description: "Rechtsprechung zu Art. 297 SchKG — Wirkungen der Gläubigerrechte während der Nachlassstundung"
 tags: ["Rechtsprechung", "SchKG", "Sistierung", "Nachlassstundung", "Betreibungsverbot", "Verrechnung", "Art. 297"]
 agent_verified: true

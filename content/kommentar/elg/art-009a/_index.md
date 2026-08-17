@@ -2,7 +2,7 @@
 title: "Art. 9a ELG — Voraussetzungen hinsichtlich des Vermögens"
 weight: 9
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: "2026-07-18"
 description: "Kommentar zu Art. 9a ELG: Vermögensschwelle als Anspruchsvoraussetzung für Ergänzungsleistungen — 100'000/200'000/50'000 Franken, Selbstbewohnte Liegenschaften, Verzichtsvermögen, Nutzniessung am Nachlass."
 tags: ["ELG", "Ergänzungsleistungen", "Vermögensschwelle", "anrechenbares Vermögen", "Reinvermögen", "Nutzniessung", "Verzichtsvermögen", "Sozialversicherung"]
 agent_verified: true

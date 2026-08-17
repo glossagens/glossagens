@@ -2,7 +2,7 @@
 title: "Art. 43 — Abklärung"
 weight: 43
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlungsprinzip), Umfang medizinischer Abklärungen, Mitwirkungspflicht der versicherten Person, Nichteintreten bei unentschuldbarer Nichtmitwirkung, Verhältnis zu Art. 44 ATSG."
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 agent_verified: true

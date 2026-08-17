@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 417 StPO"
 weight: 99
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: "2026-08-08"
 description: "Übersicht der Entscheide zu Art. 417 StPO (Verursacherprinzip, Kannvorschrift, Abgrenzung zu Art. 426–428 StPO und zum Verwaltungsstrafrecht)"
 tags: ["Rechtsprechung", "StPO", "Kostentragung", "Verursacherprinzip"]
 agent_verified: true

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 16 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Uebersicht der Leitentscheide zu Art. 16 BV — Meinungs- und Informationsfreiheit."
 tags: ["Rechtsprechung", "BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit"]
 agent_verified: false

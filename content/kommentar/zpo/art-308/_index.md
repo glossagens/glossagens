@@ -2,7 +2,7 @@
 title: "Art. 308 ZPO – Anfechtbare Entscheide (Berufung)"
 weight: 308
 date: "2026-05-23"
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 308 ZPO – Anfechtbarkeit erstinstanzlicher End- und Zwischenentscheide sowie vorsorglicher Massnahmen mit Berufung"
 tags: ["ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze", "Anfechtung"]
 agent_verified: false

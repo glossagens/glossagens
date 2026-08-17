@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 125 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-07-17"
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 125 StGB – Fahrlässige Körperverletzung"
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Sportunfall", "Strassenverkehr"]
 agent_verified: false

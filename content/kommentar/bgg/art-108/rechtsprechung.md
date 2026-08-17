@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 108 BGG"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-01"
 description: "Übersicht der Entscheide zu Art. 108 BGG — Vereinfachtes Verfahren des Einzelrichters: Nichteintreten bei offensichtlicher Unzulässigkeit, fehlender Begründung, Querulanz."
 tags: ["Rechtsprechung", "BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch"]
 agent_verified: true

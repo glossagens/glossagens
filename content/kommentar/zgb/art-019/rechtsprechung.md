@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 19 ZGB"
 weight: 3
 date: 2026-05-23
-lastmod: 2026-06-07
+lastmod: "2026-06-06"
 description: "Übersicht der Entscheide zu Art. 19 ZGB — Urteilsfähige Handlungsunfähige"
 tags: ["Rechtsprechung", "ZGB", "Handlungsunfähigkeit", "Zustimmungsvorbehalt", "Deliktsfähigkeit", "Minderjährige"]
 agent_verified: false

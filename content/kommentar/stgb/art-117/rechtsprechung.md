@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 117 StGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 117 StGB — fahrlässige Tötung"
 tags: ["Rechtsprechung", "Fahrlässige Tötung", "Sorgfaltspflicht", "Kausalzusammenhang", "StGB"]
 agent_verified: false

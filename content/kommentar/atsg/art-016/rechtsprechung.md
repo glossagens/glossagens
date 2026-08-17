@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 16 ATSG"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: "2026-06-13"
 description: "Übersicht der Entscheide zu Art. 16 ATSG — Einkommensvergleich, Valideneinkommen, Invalideneinkommen, Tabellenlohnabzug, Parallelisierung"
 tags: ["Rechtsprechung", "ATSG", "Einkommensvergleich", "Invaliditätsbemessung"]
 agent_verified: false

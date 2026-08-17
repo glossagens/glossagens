@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 9 ATSG"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: "2026-06-03"
 description: "Übersicht der Entscheide zu Art. 9 ATSG — Hilflosigkeit, alltägliche Lebensverrichtungen, Schweregrade, Revision der Hilflosenentschädigung"
 tags: ["Rechtsprechung", "ATSG", "Hilflosigkeit", "Hilflosenentschädigung"]
 agent_verified: false

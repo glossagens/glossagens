@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 85a SchKG"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: "2026-08-01"
 description: "Übersicht der Rechtsprechung zu Art. 85a SchKG — Negative Feststellungsklage"
 tags: ["Rechtsprechung", "Feststellungsklage", "SchKG", "Betreibung"]
 agent_verified: false

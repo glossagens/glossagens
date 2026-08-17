@@ -2,7 +2,7 @@
 title: "Art. 7 BV — Menschenwürde"
 weight: 7
 date: 2026-07-17
-lastmod: 2026-08-11
+lastmod: "2026-08-12"
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als Leitgrundsatz und Auffanggrundrecht; Schutzgehalt bei medizinischen Zwangsmassnahmen, Haftbedingungen, Nothilfe und Schuldhaft; Verhältnis zu Art. 3 EMRK."
 tags: ["BV", "Grundrechte", "Menschenwürde", "Auffanggrundrecht", "Zwangsbehandlung", "EMRK", "Haftbedingungen", "Nothilfe", "Schuldhaft"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 80 SchKG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 80 SchKG – Definitive Rechtsöffnung"
 tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "Betreibung"]
 agent_verified: false

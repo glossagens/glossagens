@@ -2,7 +2,7 @@
 title: "Art. 26 DSG — Einschränkungen des Auskunftsrechts"
 weight: 26
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: "2026-08-10"
 description: "Kommentar zu Art. 26 DSG: Verweigerung, Einschränkung und Aufschub des Auskunftsrechts durch private Verantwortliche und Bundesorgane, Konzernprivileg und Begründungspflicht."
 tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Nachrichtendienst", "Begründungspflicht", "Bundesorgane", "Öffentliche Sicherheit"]
 agent_verified: true

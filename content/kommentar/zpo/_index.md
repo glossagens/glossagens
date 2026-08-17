@@ -6,7 +6,7 @@ kuerzel: "ZPO"
 gesetz_name: "Zivilprozessordnung"
 weight: 15
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zur Zivilprozessordnung (ZPO, SR 272, vom 19. Dezember 2008).
 tags:
 - ZPO

@@ -2,7 +2,7 @@
 title: "Art. 6 — Parteistellung"
 weight: 6
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 6 VwVG – Parteistellung und Parteirechte im Verwaltungsverfahren"
 tags: ["VwVG", "Parteistellung", "Verwaltungsverfahren", "Verwaltungsrecht", "Beschwerdeberechtigung", "absolute Beschwer"]
 agent_verified: true

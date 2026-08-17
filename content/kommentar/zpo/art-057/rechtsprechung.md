@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 57 ZPO"
 weight: 2
 date: 2026-08-08
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Rügeprinzip, Dispositionsmaxime und Verhandlungsmaxime, Verhältnis zum rechtlichen Gehör."
 tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Rügeprinzip", "Dispositionsmaxime"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 43 StGB"
 weight: 99
 date: 2026-08-02
-lastmod: 2026-08-02
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 43 StGB — Teilbedingte Freiheitsstrafe: Voraussetzungen, Mindest- und Höchstmasse, Legalprognose, Abgrenzung zur bedingten und unbedingten Strafe."
 tags: ["Rechtsprechung", "StGB", "teilbedingte Strafe", "Freiheitsstrafe", "Legalprognose", "sursis partiel"]
 agent_verified: true

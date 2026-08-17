@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 20 UVG"
 weight: 99
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 20 UVG — Höhe der Invalidenrente, Komplementärrente, Alterskürzung"
 tags: ["Rechtsprechung", "UVG", "Invalidenrente", "Komplementärrente"]
 agent_verified: false

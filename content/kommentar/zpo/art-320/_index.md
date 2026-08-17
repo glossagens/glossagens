@@ -2,7 +2,7 @@
 title: "Art. 320 ZPO — Beschwerdegründe"
 weight: 320
 date: 2026-07-18
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 320 ZPO: Beschwerdegründe — unrichtige Rechtsanwendung und offensichtlich unrichtige Feststellung des Sachverhaltes. Abgrenzung zur Berufung (Art. 310 ZPO)."
 tags: ["ZPO", "Beschwerde", "Beschwerdegründe", "Rechtsmittel", "Sachverhaltsfeststellung"]
 agent_verified: false

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 109 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 109 StPO – Eingaben"
 tags: ["Rechtsprechung", "StPO", "Eingaben", "Verfahrensleitung", "Stellungnahme"]
 agent_verified: false

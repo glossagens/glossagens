@@ -6,7 +6,7 @@ kuerzel: "OHG"
 gesetz_name: "Opferhilfegesetz"
 weight: 19
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Opferhilfegesetz (OHG, SR 312.5, vom 23. März 2007).
 tags:
 - OHG

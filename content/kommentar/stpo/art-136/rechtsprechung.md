@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 136 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-06-20
+lastmod: "2026-06-19"
 description: "Übersicht der Entscheide zu Art. 136 StPO – Voraussetzungen der unentgeltliche Rechtspflege"
 tags: ["Rechtsprechung", "StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer"]
 agent_verified: false

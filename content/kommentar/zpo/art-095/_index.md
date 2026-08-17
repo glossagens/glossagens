@@ -2,7 +2,7 @@
 title: "Art. 95 ZPO — Begriffe (Prozesskosten)"
 weight: 95
 date: 2026-07-19
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 95 ZPO: Begriffe der Prozesskosten — Gerichtskosten, Parteientschädigung, Anwaltskosten, Umtriebsentschädigung."
 tags: ["ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Kostenbegriff"]
 agent_verified: false

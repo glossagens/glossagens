@@ -2,7 +2,7 @@
 title: "Art. 133 — Raufhandel"
 weight: 133
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-08-13"
 description: "Kommentar zu Art. 133 StGB – Raufhandel"
 tags: ["StGB", "Raufhandel", "Körperverletzung", "abstraktes Gefährdungsdelikt"]
 agent_verified: false

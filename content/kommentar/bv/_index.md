@@ -6,7 +6,7 @@ kuerzel: "BV"
 gesetz_name: "Bundesverfassung der Schweizerischen Eidgenossenschaft"
 weight: 3
 date: '2026-08-10'
-lastmod: '2026-08-10'
+lastmod: "2026-08-11"
 description: Kommentierte Artikel zur Bundesverfassung der Schweizerischen Eidgenossenschaft (BV, SR 101, vom 18. April 1999).
 tags:
 - BV

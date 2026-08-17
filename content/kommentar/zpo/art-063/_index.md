@@ -2,7 +2,7 @@
 title: "Art. 63 — Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart"
 weight: 63
 date: 2026-07-02
-lastmod: "2026-08-13"
+lastmod: "2026-08-14"
 description: "Kommentar zu Art. 63 ZPO: Rückdatierung der Rechtshängigkeit bei Einreichung bei unzuständigem Gericht oder im falschen Verfahren."
 tags: ["ZPO", "Rechtshängigkeit", "Zuständigkeit", "Monatsfrist", "Lugano"]
 agent_verified: false

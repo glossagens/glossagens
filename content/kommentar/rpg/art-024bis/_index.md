@@ -2,7 +2,7 @@
 title: "Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen"
 weight: 242
 date: 2026-06-20
-lastmod: 2026-08-02
+lastmod: "2026-08-01"
 description: "Kommentar zu Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen ausserhalb der Bauzonen (nF per 1.1.2026)"
 tags: ["RPG", "Raumplanung", "Infrastrukturanlagen", "Mobilfunkanlagen", "Bündelung", "Standortgebundenheit", "Nichtbaugebiet"]
 agent_verified: true

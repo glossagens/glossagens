@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 49 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-07-31
+lastmod: "2026-08-13"
 description: "Übersicht der Entscheide zu Art. 49 StGB — Konkurrenzen, Gesamtstrafenbildung"
 tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip"]
 agent_verified: false

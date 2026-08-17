@@ -2,7 +2,7 @@
 title: "Art. 24 — Fristwiederherstellung"
 weight: 24
 date: 2026-05-23
-lastmod: "2026-08-16"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 24 VwVG – Fristwiederherstellung bei unverschuldeter Säumnis"
 tags: ["VwVG", "Frist", "Fristwiederherstellung", "Verwaltungsverfahren"]
 agent_verified: true

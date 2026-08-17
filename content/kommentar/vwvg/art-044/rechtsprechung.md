@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 44 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 44 VwVG – Anfechtbarkeit der Verfügung"
 tags: ["Rechtsprechung", "VwVG", "Anfechtbarkeit", "Verfügung", "Beschwerde"]
 agent_verified: true

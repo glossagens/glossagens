@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 5 ELG"
 weight: 99
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 5 ELG — Karenzfrist für Ausländer, Flüchtlinge, Sozialversicherungsabkommen"
 tags: ["Rechtsprechung", "ELG", "Karenzfrist", "Ausländerrecht"]
 agent_verified: false
