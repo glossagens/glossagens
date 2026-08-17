@@ -2,7 +2,7 @@
 title: "Art. 19 — Schuldfähigkeit"
 weight: 19
 date: 2026-06-13
-lastmod: "2026-06-19"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 19 StGB – Schuldfähigkeit, verminderte Schuldfähigkeit und Strafzumessung"
 tags: ["StGB", "Schuldfähigkeit", "Strafzumessung", "verminderte Schuldfähigkeit", "Massnahmen"]
 agent_verified: true

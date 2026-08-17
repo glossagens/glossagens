@@ -2,7 +2,7 @@
 title: "Art. 8 ZGB — Beweislastregel"
 weight: 8
 date: "2026-06-28"
-lastmod: "2026-08-09"
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 8 ZGB — Die allgemeine Beweislastregel des Schweizer Zivilrechts: Wer aus einer behaupteten Tatsache Rechte ableitet, hat deren Vorhandensein zu beweisen. Beweislastverteilung, Beweismass, Beweiserleichterungen und Gegenbeweis."
 tags: ["ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweiserleichterung", "Gegenbeweis", "Zivilprozessrecht"]
 agent_verified: true

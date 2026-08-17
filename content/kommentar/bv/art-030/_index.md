@@ -2,7 +2,7 @@
 title: "Art. 30 BV — Gerichtliche Verfahren"
 weight: 30
 date: 2026-05-17
-lastmod: 2026-08-12
+lastmod: "2026-08-17"
 description: "Kommentar zu Art. 30 BV: Anspruch auf gesetzlichen, zuständigen, unabhängigen und unparteiischen Richter; Ausnahmegerichtsverbot; Wohnsitzrichter; Öffentlichkeit von Gerichtsverhandlung und Urteilsverkündung."
 tags: ["BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Ausnahmegericht", "Wohnsitzrichter", "Öffentlichkeit", "rechtliches Gehör", "EMRK"]
 agent_verified: false
