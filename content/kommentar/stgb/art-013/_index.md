@@ -2,7 +2,7 @@
 title: "Art. 13 — Sachverhaltsirrtum"
 weight: 13
 date: "2026-07-04"
-lastmod: "2026-08-17"
+lastmod: "2026-08-18"
 description: "Kommentar zu Art. 13 StGB – Sachverhaltsirrtum, Vorsatzausschluss und Fahrlässigkeitshaftung"
 tags: ["StGB", "Sachverhaltsirrtum", "Vorsatz", "Fahrlässigkeit", "Irrtumslehre"]
 agent_verified: true
@@ -63,6 +63,8 @@ Der Irrtum über normative Tatbestandsmerkmale qualifiziert als Sachverhaltsirrt
 #### Bewusste Nichtkenntnis: «Wer weiss, dass er nichts weiss, irrt nicht»
 
 In [BGE 135 IV 12](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_12) E. 2.3.1–2.3.2 entschied das Bundesgericht, dass bewusste Nichtkenntnis eines Sachverhalts nicht als Irrtum behandelt wird. Wer bewusst ungelesene Urkunden unterzeichnet, kann sich nicht darauf berufen, ihren wahren Inhalt nicht gekannt zu haben — ein Sachverhaltsirrtum (Art. 13 StGB) liegt insoweit nicht vor. Für die Willenskomponente des Vorsatzes gilt nach ständiger Rechtsprechung, dass nicht unbesehen vom Wissen des Täters auf dessen Willen geschlossen werden darf. Je schwerer die Sorgfaltspflichtverletzung wiegt, desto eher darf auf die Inkaufnahme der Tatbestandsverwirklichung geschlossen werden (E. 2.3.2).
+
+**Grenzen der bewussten Nichtkenntnis**: [BGer 6B_878/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_878_2025) ★ (5er-Besetzung) präzisiert die Grenzen dieser Rechtsprechung: Die bewusste Nichtkenntnis leicht zugänglicher Instruktionen qualifiziert nur bei typischen Manipulationsfällen nicht als Sachverhaltsirrtum, nicht aber beim atypischen Wiederanbringen einer unbeschädigt abgelösten Autobahnvignette. Wer eine selbständig abgefallene (nicht zerstörte) Vignette wieder anbringt, weil er irrig davon ausgeht, sie sei weiterhin gültig, handelt im Sachverhaltsirrtum bezüglich des normativen Tatbestandsmerkmals der «Entwertung». Das Bundesgericht sprach den Beschwerdeführer folglich frei (Aufhebung des Schuldspruchs nach Art. 245 Ziff. 1 StGB).
 
 #### Krankheitsbedingter Irrtum
 

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-08-14
+lastmod: 2026-08-18
 description: "Übersicht der massgeblichen Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, rechtliches Gehör, unentgeltliche Rechtspflege"
 tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "unentgeltliche Rechtspflege"]
 agent_verified: false
@@ -143,11 +143,19 @@ revisions:
 
 ---
 
-#### [BGer 9C_278/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_278_2026) *Kontextzitat*
+#### BGer 9C_278/2026 *Kontextzitat*
 - **Thema**: Umqualifizierung privater Kommunikation / Pflichtvertretung / rechtliches Gehör
 - **Kernaussage**: *Kontextzitat*: Das Bundesgericht qualifizierte die Umdeutung eines privaten Courriels der versicherten Person an ihren Pflichtverteidiger in einen Verfahrensakt (réplique valable) als unhaltbar. Es bejahte eine Verletzung von Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK, da es allein den Parteien zusteht zu entscheiden, welche Vorbringen sie als relevant erachten; private Kommunikation mit dem eigenen Rechtsbeistand ist kein Verfahrensakt. Zudem hielt es fest, dass nach Entbindung des Pflichtverteidigers ein neuer zu bestellen und eine neue Frist zur Ausübung des Replikrechts einzuräumen ist.
 - **Einschlägig für**: Art. 29 Abs. 2 BV; Art. 6 Ziff. 1 EMRK; rechtliches Gehör; Umqualifizierung privater Kommunikation; Pflichtvertretung; Replikrecht; unentgeltliche Rechtspflege
 - **Bedeutung**: Präzisierung der Grenzen der Umqualifizierung privater Äusserungen als Verfahrensakte; Konkretisierung der Pflicht, nach Entbindung des Pflichtvertreters einen neuen zu bestellen
+
+---
+
+#### BGer 7B_1038/2025 vom 2. Juli 2026
+- **Thema**: Star-Praxis / Gehörsrüge / Privatklägerlegitimation
+- **Kernaussage**: Das Bundesgericht bestätigt die ständige Praxis, wonach eine Gehörsrüge wegen fehlender Begründung nur bei völligem Fehlen jeder Motivierung als formelle Rechtspflegeverweigerung unabhängig von der Beschwerdelegitimation durchgeht (BGE 114 Ia 307 [«Star»]), nicht aber bei bloss unvollständiger oder wenig nuancierter Begründung. Im konkreten Fall wurde dem Privatkläger die Beschwerdelegitimation nach Art. 81 Abs. 1 lit. b Ziff. 5 BGG abgesprochen, da er seine Zivilansprüche nicht hinreichend substanziiert darlegte. Die Gehörsrüge wurde als unzulässig erklärt.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Star-Praxis; Gehörsrüge; Art. 81 BGG; Privatklägerlegitimation
+- **Bedeutung**: Präzisierung der Grenzen der Star-Praxis im Strafbeschwerdeverfahren
 
 ---
 
@@ -176,7 +184,7 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 14. August 2026*
+*Letzte Aktualisierung: 18. August 2026*
 ---
 
 ## Audit-Protokoll (12. August 2026)

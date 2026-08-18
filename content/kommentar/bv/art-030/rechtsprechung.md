@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 30 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-17
+lastmod: 2026-08-18
 description: "Rechtsprechung zu Art. 30 BV — Gerichtliche Verfahren: gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheit, Vorbefassung, Referentensystem, soziale Medien, Wahlgericht, Ausnahmegerichte, Wohnsitzrichter, Öffentlichkeit"
 tags: ["Rechtsprechung", "BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Vorbefassung", "Referentensystem", "soziale Medien", "Wahlgericht", "Öffentlichkeit", "Art. 30"]
 agent_verified: false
@@ -50,6 +50,10 @@ revisions:
 ### Ermächtigungsverfahren und Amtsmissbrauch
 
 **BGer 1C_84/2026** — Im Ermächtigungsverfahren nach Art. 7 Abs. 2 lit. b StPO sind nur strafrechtliche Gesichtspunkte zu berücksichtigen; für die Erteilung der Ermächtigung genügt ein Mindestmass an Hinweisen auf strafrechtlich relevantes Verhalten (Bestätigung von BGE 149 IV 183 E. 2.1 und 2.3; 137 IV 269 E. 2.1 und 2.4). Eine Verweigerung der Ermächtigung kommt nur bei klarer Straflosigkeit in Betracht. Rechtmässige Vollzugsmassnahmen im Ausländerrecht — hier Wohnortkontrollen gestützt auf einen Zuführungsauftrag nach Art. 98a und Art. 124 Abs. 2 AIG — können nicht ohne Weiteres als Amtsmissbrauch nach Art. 312 StGB qualifiziert werden.
+
+### Missbräuchliche pauschale Ausstandsbegehren
+
+**BGer 7B_64/2026 vom 31. Juli 2026** — Die Beschwerdeführer (Eltern eines kranken Kindes) hatten Ausstandsablehnungen gegen mehrere Richter und Staatsanwälte gerichtet, welche ihre Strafbeschwerden gegen CHUV-Personal abgewiesen hatten. Das Bundesgericht wies die Beschwerden ab: Bloss fehlerhafte oder negative Entscheide als solche begründen keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK rechtfertigen. Zudem ist die Ablehnung von Richtern, die nicht mehr mit der Sache befasst sind, mangels schutzwürdigen Interesses unzulässig. Das Bundesgericht warnte vor missbräuchlichen, pauschalen Ablehnungsbegehren.
 
 ### Strafanzeige und Zivilklage des Richters
 

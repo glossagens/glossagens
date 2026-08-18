@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 308 ZGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-30
+lastmod: 2026-08-18
 description: "Übersicht der massgeblichen Entscheide zu Art. 308 ZGB (Kindesschutzbeistandschaft)"
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung"]
 agent_verified: false
@@ -141,3 +141,13 @@ Art. 307 Abs. 3 ZGB (Weisungen an die Eltern) und Art. 308 ZGB (Beistandschaft) 
 Die Errichtung einer Beistandschaft verlangt eine eingehende Begründung der Kindeswohlgefährdung — appellatorische Sachverhaltsrügen und pauschale Behauptungen genügen nicht.
 
 *Einschlägig für:* Art. 308 ZGB; Begründungsanforderungen; Kindeswohlgefährdung; Subsidiarität
+
+---
+
+#### 14. BGer 5A_493/2026 vom 22. Juli 2026
+
+**Erziehungsbeistandschaft bei instabiler Betreuungssituation und Untersuchungsgrundsatz**
+
+Bestätigung der Errichtung einer Erziehungsbeistandschaft nach Art. 308 Abs. 1 und 2 ZGB für ein alleinsorgeberechtigtes Kind und dessen alleinerziehende Mutter bei fehlender stabiler Alltagsstruktur und mehreren Risikofaktoren. Das Bundesgericht präzisierte die Grenzen des Untersuchungsgrundsatzes im Kindesschutzverfahren: Die Beschwerdeinstanz muss nicht ohne entsprechende Rüge von sich aus den Sachverhalt in alle Richtungen aktualisieren, wenn Entwicklungen vorliegen, die zugunsten der Beteiligten wirken könnten. Zudem wird bestätigt, dass eine instabile Betreuungssituation alleinsorgeberechtigter Eltern eine konkrete Kindswohlgefährdung im Sinne von Art. 307 Abs. 1 ZGB darstellen kann.
+
+*Einschlägig für:* Art. 308 Abs. 1 und 2 ZGB; Art. 307 Abs. 1 ZGB; Erziehungsbeistandschaft; Untersuchungsgrundsatz; instabile Betreuungssituation

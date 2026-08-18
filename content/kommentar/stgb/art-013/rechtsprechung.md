@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 13 StGB"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-08-17"
+lastmod: "2026-08-18"
 description: "Übersicht der Entscheide zu Art. 13 StGB – Sachverhaltsirrtum"
 tags: ["Rechtsprechung", "StGB", "Sachverhaltsirrtum", "Irrtumslehre"]
 agent_verified: false
@@ -73,6 +73,12 @@ agent_verified: false
 - **Thema**: Krankheitsbedingter Wahn und Sachverhaltsirrtum / verminderte Schuldfähigkeit
 - **Kernaussage**: Wer aufgrund einer psychischen Krankheit «irrt», irrt nicht im Sinne von Art. 13 StGB. Der krankheitsbedingte Wahn wird vielmehr im Rahmen der Schuldfähigkeit (Art. 19 StGB) berücksichtigt, nicht aber als Irrtum zugunsten des Täters gewertet (Bestätigung von BGE 147 IV 193 E. 1.4.6; Urteile 6B_739/2025 E. 4.5.4; 7B_252/2022 E. 5.3). Selbst ein vermindert schuldfähiger oder gar schuldunfähiger Täter kann vorsätzlich handeln, sofern keine äusserst seltenen Ausnahmefälle vorliegen (BGE 115 IV 221 E. 1). Die Frage des Vorsatzes (Art. 12 StGB) ist von derjenigen der Schuldfähigkeit (Art. 19 StGB) rechtlich zu trennen.
 - **Einschlägig für**: Abs. 1; Abgrenzung Sachverhaltsirrtum — Schuldunfähigkeit; krankheitsbedingter Irrtum
+
+### BGer 6B_878/2025 vom 29. Juli 2026 ★
+- **Thema**: Sachverhaltsirrtum bei normativen Tatbestandsmerkmalen / Autobahnvignette / bewusste Nichtkenntnis
+- **Kernaussage**: Das Bundesgericht hebt den Schuldspruch wegen Fälschung amtlicher Wertzeichen (Art. 245 Ziff. 1 StGB) auf und spricht den Beschwerdeführer frei. Der Beschwerdeführer hatte eine selbständig abgefallene (nicht zerstörte) Autobahnvignette mit Kleber wieder angebracht, weil er irrig davon ausging, die Vignette sei weiterhin gültig. Das Bundesgericht qualifizierte dies als Sachverhaltsirrtum nach Art. 13 StGB bezüglich des normativen Tatbestandsmerkmals der «Entwertung». Die bewusste Nichtkenntnis leicht zugänglicher Instruktionen qualifiziert nur bei typischen Manipulationsfällen als kein Sachverhaltsirrtum, nicht aber beim atypischen Wiederanbringen einer unbeschädigt abgelösten Vignette. Die Bindungswirkung bundesgerichtlicher Rückweisungsentscheide (Art. 105 BGG) verhindert, dass die Vorinstanz im zweiten Durchgang den Sachverhalt zum objektiven Tatbestand neu feststellt.
+- **Einschlägig für**: Abs. 1; Sachverhaltsirrtum bei normativen Tatbestandsmerkmalen; bewusste Nichtkenntnis; Grenzen der «Wer weiss, dass er nichts weiss»-Regel
+- **Besetzung**: 5er
 
 ---
 

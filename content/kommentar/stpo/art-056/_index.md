@@ -2,7 +2,7 @@
 title: "Art. 56 — Ausstandsgründe"
 weight: 56
 date: "2026-06-18"
-lastmod: "2026-08-17"
+lastmod: "2026-08-18"
 description: "Kommentar zu Art. 56 StPO — Ausstandsgründe, Befangenheit, rechtliches Gehör im Ausstandsverfahren"
 tags: ["StPO", "Ausstand", "Befangenheit", "rechtliches Gehör", "Strafprozessrecht", "unparteiischer Richter"]
 agent_verified: true
@@ -102,6 +102,8 @@ Im Rahmen eines Richterkollegiums kann die Präsidentin stellvertretend für das
 
 ### Ausstand im Strafverfahren — Parteizugehörigkeit und prozessuale Fehler
 - **[BGer 7B_663/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_663_2026)** (vom 29. Juli 2026) — Kein Ausstandsgrund nach Art. 56 lit. f StPO aufgrund von Parteizugehörigkeit oder als unzutreffend empfundener Zwischenentscheide. Das Bundesgericht bestätigt: (1) Prozedurale Fehler und als fehlerhaft empfundene Zwischenentscheide begründen für sich allein keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund rechtfertigen ([BGE 143 IV 69 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_69); Urteil 7B_1159/2025 E. 4.2.3). (2) Die Kumulationshypothese wird zurückgewiesen, wenn jeder Einzelpunkt für sich nicht tragfähig ist. (3) Die Verweigerung eines nicht gesetzlich vorgesehenen Verfahrensvorschusses (provision procédurale) und die wiederholte Aufforderung zur Beiordnung eines Pflichtverteidigers nach selbst verschuldeter Entlassung des bisherigen Verteidigers begründen keinen Befangenheitsanschein.
+
+- **BGer 7B_64/2026 vom 31. Juli 2026** — Pauschale Ausstandsablehnung mehrerer Richter und Staatsanwälte. Eltern eines kranken Kindes lehnten sämtliche beteiligte Richter und Staatsanwälte ab, die ihre Strafbeschwerden gegen CHUV-Personal abgewiesen hatten. Das Bundesgericht wies die Beschwerden ab: Bloss fehlerhafte oder negative Entscheide als solche begründen keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK rechtfertigen. Zudem ist die Ablehnung von Richtern, die nicht mehr mit der Sache befasst sind, mangels schutzwürdigen Interesses unzulässig. Das Bundesgericht warnte ausdrücklich vor missbräuchlichen, pauschalen Ablehnungsbegehren.
 
 ---
 
