@@ -1,134 +1,105 @@
 ---
-title: "Art. 60 — Vereine mit Persönlichkeit (Statutenpflicht)"
+title: "Art. 60 ZGB — Gründung und Persönlichkeitserwerb des Vereins"
 weight: 60
-date: "2026-08-09"
-lastmod: "2026-08-09"
-description: "Kommentar zu Art. 60 ZGB — V. Vereine mit Persönlichkeit: Gründung und Statutenpflicht. Bedeutung des wirtschaftlichen Zwecks, Formvorschriften und Rechtsfolge der Nichteinhaltung."
-tags: ["ZGB", "Vereinsrecht", "Statutenpflicht", "Rechtsfähigkeit", "wirtschaftlicher Zweck", "Persönlichkeit", "Art. 60"]
+date: "2026-08-18"
+lastmod: "2026-08-18"
+description: "Kommentar zu Art. 60 ZGB — Entstehung der juristischen Persönlichkeit des Vereins ohne Registerzwang, nicht-wirtschaftlicher Zweck, Nebenzweckprivileg und gesetzlicher Mindestinhalt der schriftlichen Statuten."
+tags: ["ZGB", "Vereinsrecht", "Juristische Personen", "Statuten", "Persönlichkeitserwerb", "Nicht-wirtschaftlicher Zweck"]
 agent_verified: true
 revisions:
-  - date: "2026-08-09"
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: "2026-08-18"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Ersterstellung — Kommentar mit 15 OCL-verifizierten Zitationen"
+    note: "Vollständiger Neuaufbau nach Audit (Korrektur des Gesetzeswortlauts, fundierte Dogmatik zur ipso-iure-Entstehung und verifizierte OCL-Rechtsprechung)"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 60 ZGB — Vereine mit Persönlichkeit**
+> **Art. 60 ZGB — A. Errichtung / I. Körperschaftliche Organisation**
 >
-> 1 Die Vereine, die sich nicht dem Zweck dienen, Vermögensstücke zu erwerben (Art. 52 Abs. 2), erhalten Persönlichkeit, sobald ihre Statuten sich bei der Vorsteherbehörde des Ortes eintragen lassen, wo der Verein seinen Sitz hat.
+> 1. Vereine, die sich einer politischen, religiösen, wissenschaftlichen, künstlerischen, wohltätigen, geselligen oder andern nicht wirtschaftlichen Aufgabe widmen, erlangen die Persönlichkeit, sobald der Wille, als Körperschaft zu bestehen, aus den Statuten ersichtlich ist.
 >
-> 2 Die Eintragung hat nur konstitutive Wirkung für die Vereine, die nicht dem Zweck dienen, Vermögensstücke zu erwerben.
->
-> 3 Die Vorsteherbehörde hat die Statuten jederzeit von Amtes wegen zu prüfen und nötigenfalls die Streichung zu verfügen, wenn die Voraussetzungen der Eintragung nicht mehr bestehen.
+> 2. Die Statuten müssen in schriftlicher Form errichtet sein und über den Zweck des Vereins, seine Mittel und seine Organisation Aufschluss geben.
+{: .gesetzeszitat}
 
-## Kommentierung
+---
 
-### Bedeutung und systematische Stellung
+## I. Überblick und Bedeutung
 
-Art. 60 ZGB regelt die **Konstitutivwirkung der Statuteneintragung** für Vereine, die unter Art. 52 Abs. 2 ZGB fallen — also solche ohne wirtschaftlichen Zweck. Er bildet zusammen mit den Art. 52–59 ZGB das **Grundgerüst des vereinsrechtlichen Persönlichkeitserwerbs** und statuiert eine **formelle Publizitätspflicht**, die den Verein als Rechtssubjekt im Rechtsverkehr erkennbar macht.
+### 1. Systematische Stellung und Zweck
+Art. 60 ZGB steht an der Spitze des schweizerischen Vereinsrechts (Art. 60–79 ZGB) im Ersten Teil des Zivilgesetzbuches. Die Bestimmung regelt die Voraussetzungen für die Entstehung der juristischen Persönlichkeit des Vereins und definiert dessen Wesensmerkmale.
 
-Die Bestimmung verbindet drei Elemente: (1) **Negativvoraussetzung** des Nicht-Wirtschaftszwecks (Art. 52 Abs. 2), (2) **konstitutive Eintragung** der Statuten bei der Vorsteherbehörde, und (3) **amtliche Aufsicht** über die Voraussetzungen der Eintragung.
+Im Unterschied zu den Kapitalgesellschaften des Obligationenrechts und der Genossenschaft, die ihre Rechtsfähigkeit gemäss Art. 52 Abs. 2 ZGB erst durch die konstitutive Eintragung in das Handelsregister erlangen, gilt für den Verein das System der freien Entstehung (*ipso iure*). Die Persönlichkeit als Verein setzt voraus, dass der Wille, als Körperschaft zu bestehen, aus den Statuten ersichtlich ist ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)). Das setzt voraus, dass schriftliche Statuten vorliegen, die den Willen ausdrücken, als Körperschaft zu bestehen, und über Zweck, Mittel und Organisation Aufschluss geben ([BGE 82 II 308 E. 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_82_II_308#e-8)).
 
-### Absatz 1 — Voraussetzungen der Persönlichkeit
+### 2. Vereinsfreiheit und Grundsatz der Formfreiheit
+Die freie Entstehung ohne behördliche Genehmigung oder Registerzwang ist der privatrechtliche Ausdruck der verfassungsmässigen Vereinsfreiheit (Art. 23 BV). Der Gesetzgeber wollte ein flexibles Rechtskleid zur Verfügung stellen, um gemeinsame ideelle Ziele zu verfolgen.
 
-#### Kein wirtschaftlicher Zweck
+Die Eintragung in das Handelsregister ist nach Art. 61 Abs. 1 ZGB grundsätzlich fakultativ und rein deklaratorisch. Eine Eintragungspflicht besteht nur ausnahmsweise, wenn der Verein für seinen Zweck ein nach kaufmännischer Art geführtes Gewerbe betreibt oder revisionspflichtig ist (Art. 61 Abs. 2 ZGB).
 
-Der **wirtschaftliche Zweck**, der die Gründung als Verein ausschliesst, setzt nicht voraus, dass die Personenverbindung ein Gewerbe betreibt. Er kann z.B. darin bestehen, dass sie nur darauf ausgeht, ihren gewerbetreibenden Mitgliedern Preise und Lieferungsbedingungen zu sichern ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209), E. 1). Massgebend ist der **Zweck nach den Statuten**, nicht die tatsächliche Tätigkeit ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)).
+---
 
-Die Abgrenzung zwischen wirtschaftlichem und nicht-wirtschaftlichem Zweck ist eine **Rechtsfrage**, die das Bundesgericht frei überprüft. Dabei ist nicht auf die formale Bezeichnung in den Statuten abzustellen, sondern auf den **tatsächlichen Hauptzweck** des Vereins.
+## II. Absatz 1: Voraussetzungen der Rechtspersönlichkeit
 
-#### Statutenpflicht und Eintragung
+### 1. Nicht-wirtschaftliche Zwecksetzung (Ideeller Zweck)
 
-Die Statuten sind die **konstitutive Gründungsurkunde** des Vereins. Sie müssen mindestens enthalten:
+#### a) Begriff und Abgrenzung
+Art. 60 Abs. 1 ZGB nennt beispielhaft politische, religiöse, wissenschaftliche, künstlerische, wohltätige oder gesellige Aufgaben. Diese Aufzählung ist rein demonstrativ: Jeder Zweck, der nicht wirtschaftlicher Natur ist, genügt als Vereinszweck.
 
-1. **Vereinszweck** — Bestimmung des nicht-wirtschaftlichen Ziels
-2. **Mittel zur Erreichung des Zwecks** — Finanzielle und organisatorische Mittel
-3. **Vereinsorgane** — Mindestens Vorstand und Revisionsstelle
-4. **Mitgliedschaftsregelung** — Aufnahme und Austritt
+Der «wirtschaftliche Zweck», der die Gründung als Verein ausschliesst, setzt nicht voraus, dass die Personenverbindung ein Gewerbe betreibt ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)). Er kann z.B. darin bestehen, dass sie nur darauf ausgeht, ihren gewerbetreibenden Mitgliedern Preise und Lieferbedingungen vorzuschreiben ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)).
 
-Die Statuten unterliegen der **privatautonomen Gestaltungsfreiheit**, dürfen aber die zwingenden Schranken der Rechtsordnung nicht überschreiten ([BGE 97 II 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_II_108)). Eine Statutenbestimmung, welche Dritten ein Einspracherecht gegenüber sämtlichen Beschlüssen der Generalversammlung einräumt, ist unzulässig.
+Wollen Personenverbindungen einen wirtschaftlichen Zweck (insbesondere die Erzielung eines gemeinsamen Gewinns oder die genossenschaftliche Selbsthilfe) verfolgen, müssen sie die Rechtsformen des Handelsrechts gemäss Art. 52 Abs. 2 ZGB wählen.
 
-#### Vorsteherbehörde und Sitz
+#### b) Das Nebenzweckprivileg
+Das Bundesgericht und die herrschende Lehre anerkennen das sogenannte Nebenzweckprivileg. Ein ideeller Verein darf zur Erreichung seines nicht-wirtschaftlichen Hauptzwecks wirtschaftliche Tätigkeiten ausüben oder ein Gewerbe betreiben (z.B. Clubheim, Festwirtschaft oder Fachzeitschrift), sofern die wirtschaftliche Tätigkeit dem ideellen Hauptzweck untergeordnet ist und der Gewinn im Vereinsvermögen verbleibt und nicht an die Mitglieder ausgeschüttet wird.
 
-Die Eintragung erfolgt bei der **Vorsteherbehörde des Ortes**, wo der Verein seinen Sitz hat. Der Sitz bestimmt sich nach den Statuten; fehlt eine Sitzbestimmung, gilt der Ort als Sitz, wo die Verwaltung geführt wird (Art. 54 ZGB).
+### 2. Körperschaftlicher Wille
+Persönlichkeit als Verein setzt voraus, dass der Wille, als Körperschaft zu bestehen, aus den Statuten ersichtlich sei ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)). Eine Sektion des Verbandes kann mit eigener Persönlichkeit ein Verein sein, was voraussetzt, dass sie schriftliche Statuten habe, die ihren Willen, als Körperschaft zu bestehen, ausdrücken ([BGE 82 II 308 E. 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_82_II_308#e-8)).
 
-### Absatz 2 — Konstitutivwirkung
+Hierdurch unterscheidet sich der Verein von der einfachen Gesellschaft (Art. 530 ff. OR):
+* **Unabhängigkeit vom Mitgliederbestand**: Der Verein besteht unabhängig vom Wechsel oder Austritt einzelner Mitglieder fort.
+* **Mehrheitsprinzip**: Die Beschlussfassung erfolgt nach dem Mehrheitsprinzip (Art. 67 ZGB).
+* **Trennungsprinzip beim Vermögen**: Für die Verbindlichkeiten des Vereins haftet ausschliesslich das Vereinsvermögen (Art. 75a ZGB).
 
-Die Eintragung hat **konstitutive Wirkung** — der Verein erwirbt erst mit der Eintragung die Rechtsfähigkeit. Vor der Eintragung besteht der Verein als **nicht-rechtsfähige Personenverbindung** (Art. 62 ZGB), für die die persönlich Handelnden solidarisch haften (Art. 62 Abs. 2 ZGB).
+---
 
-Die Konstitutivwirkung bedeutet:
+## III. Absatz 2: Form und Mindestinhalt der Statuten
 
-- **Keine Rechtsfähigkeit ohne Eintragung** — Der Verein kann vor der Eintragung nicht als solcher klagen oder verklagt werden.
-- **Haftung der Gründer** — Bis zur Eintragung haften die Handelnden persönlich und solidarisch.
-- **Publizitätswirkung** — Die Eintragung macht den Verein im Rechtsverkehr erkennbar und schützt den Rechtsverkehr.
+### 1. Schriftform der Statuten
+Die Statuten müssen in schriftlicher Form errichtet sein (Art. 60 Abs. 2 ZGB). Eine Sektion ohne Statuten hat keine Persönlichkeit als Verein ([BGE 82 II 308 E. 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_82_II_308#e-8)).
 
-### Absatz 3 — Aufsichtsrecht der Vorsteherbehörde
+### 2. Gesetzlicher Mindestinhalt
+Die Statuten müssen über den Zweck des Vereins, seine Mittel und seine Organisation Aufschluss geben ([BGE 82 II 308 E. 8](https://mcp.opencaselaw.ch/entscheid/bge_BGE_82_II_308#e-8)):
+1. **Zweck des Vereins**: Umschreibung der ideellen Ausrichtung. Bei einer späteren Umwandlung des Vereinszwecks greift Art. 74 ZGB ([BGE 86 II 389](https://mcp.opencaselaw.ch/entscheid/bge_BGE_86_II_389)).
+2. **Mittel des Vereins**: Regelung über die Beschaffung von Beiträgen oder Vermögenswerten.
+3. **Organisation des Vereins**: Regelung über die Vereinsversammlung (Art. 64 ZGB) und den Vorstand (Art. 69 ZGB).
 
-Die Vorsteherbehörde hat die Statuten **von Amtes wegen zu prüfen** und nötigenfalls die Streichung zu verfügen, wenn die Voraussetzungen der Eintragung nicht mehr bestehen. Dieses Aufsichtsrecht umfasst:
+### 3. Schranken der Statutenautonomie
+Die Vereinssatzungen dürfen die von der Rechtsordnung gesetzten Grenzen nicht überschreiten ([BGE 97 II 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_II_108)). Eine Statutenbestimmung, welche Dritten ein Einspracherecht gegenüber sämtlichen Beschlüssen der Generalversammlung der Vereinsmitglieder einräumt, ist mit der Vereinsautonomie nicht vereinbar; sie verstösst gegen die guten Sitten und ist daher nichtig ([BGE 97 II 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_II_108)).
 
-1. **Materielle Prüfung** — Ob der Verein weiterhin keinen wirtschaftlichen Zweck verfolgt
-2. **Formelle Prüfung** — Ob die Statuten den gesetzlichen Mindestanforderungen genügen
-3. **Streichung** — Bei Wegfall der Voraussetzungen ist die Streichung zwingend
+Eine im Sinne von Art. 27 Abs. 2 ZGB übermässige Bindung kann gegen den Ordre public verstossen, wenn sie eine offensichtliche und schwerwiegende Persönlichkeitsverletzung darstellt ([BGE 138 III 322](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_322)).
 
-### Umwandlung des Vereinszwecks
+---
 
-Ändert sich der Zweck des Vereins nachträglich — etwa weil er einen wirtschaftlichen Zweck annimmt —, so ist die **Umwandlung** nach Art. 74 ZGB erforderlich und kann gerichtlich angefochten werden (Art. 75 ZGB; [BGE 86 II 389](https://mcp.opencaselaw.ch/entscheid/bge_BGE_86_II_389)).
+## IV. Parteifähigkeit, Namensrecht und Verbandsbeschwerde
 
-### Verhältnis zu Art. 52 Abs. 2 ZGB
+### 1. Namensschutz des Vereins
+Juristische Personen geniessen den Schutz des Namensrechts nach Art. 28 und 29 ZGB. Eine Verletzung der Persönlichkeit bzw. des auch einem Verein zustehenden Rechts auf den Namen liegt vor durch die Verwendung eines Namens, der die Gefahr von Verwechslungen in sich birgt ([BGE 117 II 513](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_II_513)).
 
-Art. 60 Abs. 1 verweist auf Art. 52 Abs. 2 ZGB: Vereine, die sich **dem Zweck dienen, Vermögensstücke zu erwerben** (wirtschaftliche Vereine), können die Persönlichkeit nicht nach Art. 60 erwerben. Für sie kommen die **Kapitalgesellschaften** (AG, GmbH) in Betracht.
+### 2. Egoistische Verbandsbeschwerde
+Ein Verband kann die Interessen seiner Mitglieder geltend machen, wenn es sich um solche handelt, die er nach seinen Statuten zu wahren hat, die der Mehrheit oder doch einer Grosszahl seiner Mitglieder gemeinsam sind und zu deren Geltendmachung durch Beschwerde jedes dieser Mitglieder befugt wäre ([BGE 136 II 539 E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_539#e-1-1)). Ein Berufsverband besitzt Beschwerdeberechtigung nach Art. 89 Abs. 1 BGG zur Anfechtung eines Entscheids, der geeignet ist, die Berufsreglementierung als solche in Frage zu stellen ([BGE 142 II 80](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_II_80)).
 
-Der Begriff des **wirtschaftlichen Zwecks** wird **restriktiv ausgelegt**: Nicht jeder Erwerbszweck ist ein wirtschaftlicher Zweck im Sinne von Art. 52 Abs. 2. Hilfstätigkeiten zur Verfolgung eines ideellen Zwecks genügen nicht. Wohl aber kann ein Verein, der seinen Mitgliedern günstige Einkaufsbedingungen verschafft, als wirtschaftlicher Verein qualifiziert werden ([BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209)).
+### 3. Ausschluss und Anfechtung von Vereinsbeschlüssen
+Ein unbestimmter statutarischer Ausschliessungsgrund ist der statutarischen Ausschliessung ohne Grundangabe gleichzustellen; eine Anfechtung der Ausschliessung ist somit nicht statthaft ([BGE 131 III 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_97)). Tritt ein Verein jedoch als massgebende Organisation des betreffenden Berufsstandes oder Wirtschaftszweigs auf, so verfügt er nicht über die umfassende Ausschlussautonomie des Art. 72 Abs. 2 ZGB ([BGE 123 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_193)). Die Klage auf Anfechtung eines Vereinsbeschlusses richtet sich nach Art. 75 ZGB und schützt vor widerrechtlichen Persönlichkeitsverletzungen ([BGE 134 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_193)).
 
-### Vereinsautonomie und Persönlichkeitsrecht
+---
 
-Die **Ausschlussautonomie des Vereins** steht im Spannungsverhältnis zum Persönlichkeitsrecht des einzelnen Mitglieds auf wirtschaftliche Entfaltung. Tritt ein Verein in der Öffentlichkeit wie auch gegenüber Behörden, potentiellen Kunden seiner Mitglieder usw. als massgebende Obrigkeit auf, so kann der Ausschluss eines Mitglieds aus einem berufsständischen Verein gegen das Persönlichkeitsrecht verstossen ([BGE 123 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_193)).
+## V. Kantonale Praxisfragen
 
-Die gerichtliche Anfechtung der **Ausschliessung aus einem Verein** (Art. 72 ZGB) ist nach zwingendem Recht erst zulässig, wenn das höchste zum Entscheid darüber berufene Vereinsorgan den Ausschluss bestätigt hat ([BGE 85 II 525](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_II_525); [BGE 131 III 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_97)).
+### 1. Nachweis der Parteifähigkeit nicht eingetragener Vereine vor kantonalen Gerichten
+* **Praxisproblem**: Da Vereine ohne Handelsregistereintrag Rechtspersönlichkeit erlangen, stellt sich vor kantonalen Gerichten bei Bestreitung die Frage nach dem Nachweis der Parteifähigkeit.
+* **Kantonale Praxis**: Das kantonale Gericht prüft die Parteifähigkeit anhand der vorzulegenden schriftlichen Statuten und der Protokolle über die Organbestellung. Fehlen Statuten, die Zweck, Mittel und Organisation regeln, liegt keine Rechtspersönlichkeit vor und auf Klagen des Vereins wird mangels Parteifähigkeit nicht eingetreten.
 
-### Statuteninhalt und Rechtsfolgen
-
-Die Statuten bilden die **verfassungsrechtliche Grundordnung** des Vereins. Sie dürfen die von der Rechtsordnung gesetzten Grenzen nicht überschreiten ([BGE 97 II 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_II_108)). Insbesondere:
-
-- **Zwingende Bestimmungen** — Art. 64 ZGB (Mindestinhalt der Statuten) ist zwingend
-- **Dispositive Bestimmungen** — Können durch die Statuten abgeändert werden
-- **Statutarische Generalklauseln** — Ein unbestimmter statutarischer Ausschliessungsgrund ist der statutarischen Ausschliessung ohne Grundangabe gleichzustellen; eine Anfechtung der Ausschliessung ist nicht statthaft, es sei denn, der Verein übe wirtschaftliche Macht aus ([BGE 131 III 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_97)).
-
-### Anfechtung von Vereinsbeschlüssen
-
-Die Klage auf Anfechtung eines Vereinsbeschlusses richtet sich nach Art. 75 ZGB. Der Schutz der Persönlichkeit kann im Falle einer Vereinsvorschrift, welche den Gebrauch von Substanzen unabhängig von jeder Wirkung auf die Leistungsfähigkeit verbietet und unter Strafe stellt, eine Rolle spielen ([BGE 134 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_193)).
-
-### Systematisches Übersichtstableau
-
-| Stufe | Absatz | Voraussetzung | Rechtsfolge |
-|-------|--------|--------------|-------------|
-| **1** | Abs. 1 | Kein wirtschaftlicher Zweck (Art. 52 Abs. 2) + Statuteneintragung | Persönlichkeitserwerb |
-| **2** | Abs. 2 | Konstitutivwirkung der Eintragung | Keine Rechtsfähigkeit ohne Eintragung |
-| **3** | Abs. 3 | Aufsichtsrecht der Vorsteherbehörde | Streichung bei Wegfall der Voraussetzungen |
-
-### Verhältnis zum Handelsregister
-
-Die Eintragung nach Art. 60 ZGB bei der **Vorsteherbehörde** ist nicht mit der **Handelsregistereintragung** nach Art. 61 ZGB zu verwechseln. Art. 61 ZGB regelt die Eintragung im Handelsregister für Vereine, die nach Art. 60 Persönlichkeit erworben haben, und hat **deklaratorische** (nicht konstitutive) Wirkung.
-
-## Rechtsprechung
-
-Die zitierte Rechtsprechung zu Art. 60 ZGB umfasst die folgenden Leitentscheide und weitere Nachweise:
-
-- [BGE 88 II 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_88_II_209) — Wirtschaftlicher Zweck, der die Gründung als Verein ausschliesst (Art. 52 Abs. 2, 60 Abs. 1 ZGB)
-- [BGE 97 II 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_II_108) — Verbindlichkeit von Generalversammlungsbeschlüssen (Art. 63 Abs. 2 ZGB), Statuteninhalt
-- [BGE 131 III 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_97) — Ausschliessung aus dem Verein (Art. 72 ZGB), statutarischer Ausschliessungsgrund
-- [BGE 134 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_193) — Anfechtung eines Vereinsbeschlusses (Art. 75 ZGB), Persönlichkeitsschutz
-- [BGE 85 II 525](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_II_525) — Ausschliessung aus einem Verein (Art. 72 ZGB), gerichtliche Anfechtung
-- [BGE 86 II 389](https://mcp.opencaselaw.ch/entscheid/bge_BGE_86_II_389) — Umwandlung des Vereinszwecks (Art. 74 ZGB)
-- [BGE 82 II 308](https://mcp.opencaselaw.ch/entscheid/bge_BGE_82_II_308) — Schadenersatz- und Genugtuungspflicht einer Gewerkschaft, Vereinsrecht
-- [BGE 123 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_193) — Ausschlussautonomie des Vereins, Persönlichkeitsrecht
-- [BGE 130 III 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_345) — Vertrag mit Schutzwirkung zugunsten Dritter, Vertrauenshaftung (Art. 2 ZGB)
-- [BGE 100 II 261](https://mcp.opencaselaw.ch/entscheid/bge_BGE_100_II_261) — Zivilrechtliche Fragen im Zusammenhang mit Vereinsrecht
-- [BGE 119 II 353](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_II_353) — Missbräuchliche Bedingungen der Untermiete, Vereinsrechtlicher Kontext
-- [BGE 113 II 299](https://mcp.opencaselaw.ch/entscheid/bge_BGE_113_II_299) — Mietvertrag, gestaffelte Mietzinse, Vereinsrechtliche Anwendbarkeit
-- [BGE 112 II 493](https://mcp.opencaselaw.ch/entscheid/bge_BGE_112_II_493) — Bauhandwerkerpfandrecht, Vereinsrechtliche Streitigkeiten
-- [BGE 108 II 381](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_II_381) — Forderungsklage, Vereinsrechtliche Zuständigkeit
-- [BGE 98 II 337](https://mcp.opencaselaw.ch/entscheid/bge_BGE_98_II_337) — Ehescheidung, Vereinsrechtlicher Kontext
+### 2. Prüfungskognition des kantonalen Handelsregisteramts bei Zweckabgrenzung
+* **Praxisproblem**: Bei Gesuchen um Eintragung in das Handelsregister prüft das kantonale Handelsregisteramt, ob die Voraussetzungen nach Art. 60 ZGB vorliegen.
+* **Kantonale Praxis**: Ergibt die Auslegung der Statuten, dass die Personenverbindung primär wirtschaftliche Selbsthilfe oder Vermögensvorteile für ihre Mitglieder bezweckt, verweigert das kantonale Handelsregisteramt die Eintragung als Verein zu Recht, da diesfalls die Rechtsformen des Gesellschaftsrechts gewählt werden müssen.
