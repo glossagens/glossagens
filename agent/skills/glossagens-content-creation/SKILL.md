@@ -1,9 +1,14 @@
 ---
 name: glossagens-content-creation
-description: Create and maintain legal commentary articles for the Glossagens Hugo site. Offers three workflows: /kommentar (full creation), /recherche (research only), /loop (iterative gap analysis with subagents).
-version: 3.0.0
+description: >-
+  Create and maintain legal commentary articles for the Glossagens Hugo site, with built-in grounding checks (check_claim_support before writing, attest_response before commit). Offers three workflows: /kommentar (full creation), /recherche (research only), /loop (iterative gap analysis with subagents).
+version: 4.0.0
 author: Hermes Agent
 tools:
+  - mcp_opencaselaw_check_claim_support
+  - mcp_opencaselaw_attest_response
+  - mcp_opencaselaw_find_relevant_erwaegung
+  - mcp_opencaselaw_cite
   - mcp_opencaselaw_get_law
   - mcp_opencaselaw_get_legislation
   - mcp_opencaselaw_get_doctrine
@@ -48,9 +53,13 @@ Create a new commentary from scratch or comprehensively update an existing one.
 2. GESETZESTEXT abrufen (→ Teil B, Abschnitt 2)
 3. RECHERCHE — parallel subagent research (→ Teil B, Abschnitt 3)
 4. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
-5. KOMMENTAR schreiben/ergänzen (→ Teil C)
-6. QUALITÄTSKONTROLLE (→ Teil D)
-7. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
+5. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) durch `check_claim_support` (→ Teil D.1)
+6. KOMMENTAR schreiben/ergänzen (→ Teil C) — nur mit den Belegen, die Schritt 5 überlebt haben
+7. **SCHLUSSATTEST** — `attest_response` auf dem fertigen Text (→ Teil D.3)
+8. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
+9. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
+
+> Schritt 5 und 7 sind **nicht optional**. `mcp_verified: true` setzt beide voraus (→ Teil D.5).
 
 ---
 
@@ -61,8 +70,10 @@ Find new decisions and sources and store them in `rechtsprechung.md` — without
 **Steps:**
 1. INIT (→ Teil B, Abschnitt 1)
 2. RECHERCHE (→ Teil B, Abschnitt 3)
-3. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
-4. Zusammenfassung der neuen Funde, kein Kommentareingriff
+3. **BELEGPRÜFUNG** der Kernaussagen jedes neuen Entscheids (→ Teil D.1) — auch die
+   Rechtsprechungsübersicht behauptet etwas über den Entscheid
+4. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
+5. Zusammenfassung der neuen Funde, kein Kommentareingriff
 
 ---
 
@@ -105,17 +116,31 @@ Continuously research which topics and decisions are still **missing** from the 
 │     Jeder Subagent erhält die BEKANNTE_ENTSCHEIDE     │
 │     Liste zur Duplikationsvermeidung.                 │
 │                                                       │
-│  5. INTEGRATION                                       │
-│     - Neue Entscheide → rechtsprechung.md             │
+│  5. BELEGPRÜFUNG (Teil D.1)                           │
+│     Für JEDEN neuen Entscheid, den die Subagenten     │
+│     melden: check_claim_support(claim, decision_id,   │
+│     pinpoint) VOR der Integration.                    │
+│     yes/partial → übernehmen (partial: abschwächen)   │
+│     no/contradicts/unrelated → verwerfen, nicht       │
+│     «thematisch passend» weiterreichen.               │
+│                                                       │
+│  6. INTEGRATION                                       │
+│     - Geprüfte Entscheide → rechtsprechung.md         │
 │     - Kommentar ergänzen: neue Abschnitte, Kasuistik  │
 │                                                       │
-│  6. FORTSCHRITTSBERICHT                               │
+│  7. SCHLUSSATTEST (Teil D.3)                          │
+│     attest_response(audit_grounding=true) auf den in  │
+│     dieser Iteration NEU geschriebenen Abschnitten.   │
+│     ok:false → zurück zu Schritt 5.                   │
+│                                                       │
+│  8. FORTSCHRITTSBERICHT                               │
 │     - Welche Lücken bearbeitet?                       │
 │     - Welche neuen Entscheide integriert?             │
+│     - Wie viele Belege in Schritt 5 verworfen?        │
 │     - Welche Lücken verbleiben?                       │
 │     - Empfehlung: weitermachen oder beenden?          │
 │                                                       │
-│  7. KONTEXTMANAGEMENT                                 │
+│  9. KONTEXTMANAGEMENT                                 │
 │     Bei vollem Kontext → /compact, dann fortfahren    │
 │                                                       │
 └──────────── Wiederholen bis ──────────────────────────┘
@@ -127,6 +152,8 @@ Continuously research which topics and decisions are still **missing** from the 
 **Loop-Abschlussbericht:**
 - Total Iterationen
 - Neu integrierte Entscheide (BGE / BGer / kantonal / EGMR)
+- In der Belegprüfung verworfene Entscheide (mit Grund)
+- Attest-Status der letzten Iteration
 - Verbleibende offene Fragen
 
 ---
@@ -199,11 +226,23 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > **Ausgabeformat** (je Entscheid):
 > ```
 > URTEIL: {citation_string_de}
+> DECISION_ID: {decision_id aus dem Tool-Ergebnis}
+> PINPOINT: {E. X.Y — nur wenn durch get_erwaegung oder find_relevant_erwaegung belegt, sonst «—»}
 > THEMA: [2–3 Worte]
 > KERNAUSSAGE: [2–4 Sätze]
 > EINSCHLÄGIG FÜR: [Absatz/Tatbestandsmerkmal]
+> BELEGPRÜFUNG: {supports-Wert aus check_claim_support} ({confidence})
 > STATUS: NEU
 > ```
+>
+> **Pflicht vor der Meldung**: Für jeden Entscheid, den du melden willst, einmal
+> `check_claim_support(claim=<deine KERNAUSSAGE>, decision_id=..., pinpoint=...)`.
+> Melde nur `yes` und `partial`. `no` / `contradicts` / `unrelated` werden **nicht**
+> gemeldet — auch nicht mit dem Hinweis «thematisch verwandt». Bei `partial` die
+> Kernaussage so umformulieren, dass der Qualifikator des Gerichts drinsteht
+> (wörtlich zitieren macht aus `partial` meist ein `yes`).
+> **Pinpoint nie raten**: `find_relevant_erwaegung` liefert ihn; bei `no_match` oder
+> Konfidenz `low` gar keinen Pinpoint angeben.
 >
 > Maximal 15 Ergebnisse. Nur Entscheide melden, die NICHT in der Bekannten-Liste stehen.
 > WICHTIG: citation_string_de aus dem Tool-Ergebnis verwenden — nie selbst konstruieren.
@@ -227,11 +266,18 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > **Ausgabeformat** (je Entscheid):
 > ```
 > URTEIL: {citation_string_de}
+> DECISION_ID: {decision_id aus dem Tool-Ergebnis}
 > GERICHT/KANTON: [Gericht, Kanton]
 > THEMA: [2–3 Worte]
 > KERNAUSSAGE: [2–4 Sätze]
+> BELEGPRÜFUNG: {supports-Wert aus check_claim_support} ({confidence})
 > STATUS: NEU
 > ```
+>
+> **Pflicht vor der Meldung**: `check_claim_support(claim=<KERNAUSSAGE>, decision_id=...)`
+> — nur `yes` / `partial` melden. Kantonale Entscheide haben keine strukturierten
+> Erwägungen; dort ohne `pinpoint` prüfen (der Judge liest dann Regeste bzw. Textanfang)
+> und im Kommentar keinen Pinpoint setzen.
 >
 > VERLINKUNG: Alle Entscheide und Gesetze müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern möglich.
 
@@ -263,7 +309,10 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 
 Öffne oder erstelle `/opt/glossagens/content/kommentar/{gesetz}/art-{NNN}/rechtsprechung.md`.
 
-Nur **neue** Entscheide eintragen (Abgleich mit BEKANNTE_ENTSCHEIDE):
+Nur **neue** Entscheide eintragen (Abgleich mit BEKANNTE_ENTSCHEIDE) — und nur solche,
+deren `Kernaussage` in der Belegprüfung `yes` oder `partial` erhalten hat (→ Teil D.1).
+Die `Kernaussage` ist der Behauptungssatz, gegen den `check_claim_support` und später
+`/audit` prüfen: sie muss den Entscheid wiedergeben, nicht das Thema umschreiben.
 
 ```markdown
 ---
@@ -403,6 +452,13 @@ revisions:
 - **Lehre**: Nur wenn keine Rspr. existiert oder eine Kontroverse dokumentiert werden muss
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
 - **Sprache**: Deutsch, konzis, praxisnah
+- **Belegtheit**: Kein Satz mit Beleg, der nicht durch `check_claim_support` gelaufen ist
+  (→ Teil D.1). Lieber eine Aussage ohne Beleg als eine mit dem falschen — und lieber
+  wörtlich zitieren als paraphrasieren: das macht aus `partial` ein `yes`.
+- **Ausgebaute Belege**: Wird ein Beleg in einer Überarbeitung verworfen, gehört er in
+  einen Abschnitt `## Entfernte Belege` am Dateiende — **nicht** in den Fliesstext.
+  Im Fliesstext genannt, erzeugt er dort neue Prüfpaare, die `/audit` prompt als
+  `unrelated` meldet; der eigene Ehrlichkeitsvermerk drückt dann die Belegquote.
 >- **Verlinkung**: Alle Verweise auf Rechtsquellen (BGE, BGer, kantonale Entscheide, Gesetze, Botschaften) müssen zwingend als Markdown-Links auf die Originalquelle (z.B. [BGE 140 III 86](URL)) ausgestaltet werden, sofern eine URL verfügbar ist. Dies gilt sowohl für den Kommentar-Haupttext als auch für die Rechtsprechungsübersicht.
 
 ---
@@ -435,9 +491,152 @@ Kommentar zum [Bundesgesetz ... vom ... (SR {SRNR})](https://www.fedlex.admin.ch
 
 ---
 
-# TEIL D — QUALITÄTSKONTROLLE
+# TEIL D — BELEGPRÜFUNG UND QUALITÄTSKONTROLLE
 
-Vor jedem Commit durchlaufen:
+Ein Kommentar ist nicht dadurch belegt, dass er Entscheide zitiert, sondern dadurch, dass die
+zitierten Entscheide die Sätze tragen, für die sie stehen. Die Prüfeinheit ist deshalb das
+**Paar (Behauptungssatz, Beleg)**, nie das Zitat für sich.
+
+Zwei Kontrollpunkte, beide obligatorisch:
+
+| | Wann | Tool | Fragt |
+|---|---|---|---|
+| **D.1 Belegprüfung** | **vor** dem Schreiben, pro Paar | `check_claim_support` | Trägt dieser Entscheid diesen Satz? |
+| **D.3 Schlussattest** | **nach** dem Schreiben, pro Abschnitt | `attest_response` | Existiert alles Zitierte, stimmen Pinpoints, Verbatim, Daten — und stützt jeder Beleg seinen Satz? |
+
+Die Reihenfolge ist Absicht. `check_claim_support` einzeln und früh verhindert, dass ein
+falscher Beleg überhaupt in den Text kommt; `attest_response` am Schluss fängt, was beim
+Schreiben entstanden ist — umgestellte Sätze, verrutschte Belege, aus dem Gedächtnis
+ergänzte Zitate. Als Eingangsprüfung liefert `attest_response` nur eine unsortierte
+Mängelliste, als Ausgangsprüfung ein belastbares `ok`.
+
+---
+
+## D.1 — Belegprüfung vor dem Schreiben (`check_claim_support`)
+
+Für **jedes** Paar aus geplanter Aussage und Beleg, bevor der Satz geschrieben wird:
+
+```
+check_claim_support: {
+  "claim": "{der Satz, den der Kommentar behaupten wird — ausformuliert, nicht das Stichwort}",
+  "decision_id": "{decision_id aus dem Tool-Ergebnis}",
+  "pinpoint": "{E. X.Y, sofern belegt — sonst weglassen}"
+}
+```
+
+Der `claim` ist der **Kommentarsatz**, nicht das Thema. «Fristwiederherstellung bei
+unverschuldeter Säumnis» ist kein claim; «Die Frist wird nur wiederhergestellt, wenn die
+Partei kein Verschulden trifft» ist einer. Ein vager claim erzeugt ein wertloses `yes`.
+
+| `supports` | Bedeutung | Was zu tun ist |
+|---|---|---|
+| `yes` | Der Entscheid trägt die Aussage | Übernehmen |
+| `partial` | Trägt sie, aber die Paraphrase ist zu weit | Aussage um den Qualifikator ergänzen oder wörtlich zitieren, dann erneut prüfen |
+| `no` | Der Entscheid sagt das nicht | Beleg verwerfen — anderen suchen oder Aussage streichen |
+| `contradicts` | Der Entscheid sagt das Gegenteil | Beleg verwerfen; die Aussage ist vermutlich falsch |
+| `unrelated` | Anderes Thema | Beleg verwerfen |
+
+**`no` / `contradicts` / `unrelated` bei hoher Konfidenz sind Befunde, keine
+Messungenauigkeit.** Ein Entscheid, der thematisch passt, die konkrete Rechtsfolge aber
+nicht stützt, ist genau der Fehler, der einem Praktiker vor Gericht schadet. Nicht
+«abschwächen und trotzdem zitieren» — verwerfen.
+
+Wiederkehrende Beobachtung aus dem Bestand: ein `partial` heisst meist, dass die
+Paraphrase einen Qualifikator des Gerichts weggelassen hat («in Anbetracht der Schwere
+der Grundrechtseinschränkung», «verfassungsmässiges *Individual*recht»). Wörtlich
+zitieren macht daraus ein `yes`.
+
+**Sparsam einsetzen, wo es nichts bringt**: Für den blossen Gesetzeswortlaut (`get_law`)
+und für reine Materialienzitate ist `check_claim_support` nicht das Werkzeug — es prüft
+Entscheide. Für Botschaftsstellen `search_botschaft` / `get_materialien` verwenden und
+verbatim zitieren.
+
+### Pinpoints (`find_relevant_erwaegung`)
+
+Ein Pinpoint wird **nie geschätzt**. Eine Regeste verweist oft auf «(E. 4)», während die
+Erwägung nur als `4.1` / `4.2.1` existiert; `cite` akzeptiert den Verweis trotzdem, und
+erst `get_erwaegung` deckt auf, dass er ins Leere zeigt.
+
+```
+find_relevant_erwaegung: { "decision_id": "...", "claim": "{Kommentarsatz}", "top_k": 3 }
+```
+
+Nur bei Konfidenz `high` übernehmen. Bei `no_match` oder `low`: keinen Pinpoint setzen —
+ein Zitat ohne Pinpoint ist korrekt, ein Zitat mit falschem Pinpoint nicht. Der
+`highlighted_snippet` liefert zugleich den Satz, den man wörtlich zitieren kann.
+
+Nur Bundesentscheide haben strukturierte Erwägungen; bei kantonalen entfällt der Schritt.
+
+---
+
+## D.2 — Existenz und Wortlaut
+
+Vor dem Schreiben ebenfalls:
+
+- **Jede Zitierung** stammt wörtlich aus `citation_string_de` / `markdown_link` einer
+  `cite`- oder Such-Antwort. Nie selbst konstruieren, nie aus dem Gedächtnis ergänzen.
+- **Gesetzeswortlaut** verbatim aus `get_law`, mit Konsolidierungsstand.
+- **Wörtliche Zitate** (≥ 30 Zeichen) nur aus `get_erwaegung` / `get_regeste` — kopiert,
+  nicht nachgeschrieben.
+
+---
+
+## D.3 — Schlussattest (`attest_response`)
+
+Auf dem **fertigen** Text, abschnittsweise (nicht das ganze Bundle auf einmal):
+
+```
+attest_response: { "draft_text": "{Abschnitt des Kommentars}", "audit_grounding": true }
+```
+
+`audit_grounding: true` ist bei Kommentartext immer zu setzen — er enthält praktisch
+nie weniger als zwei Zitierungen. Das Attest prüft fünf Halluzinationsklassen: Existenz
+der Entscheide, Auflösbarkeit der Pinpoints, Existenz der Gesetzesartikel,
+Verbatim-Treue der Zitate ≥ 30 Zeichen, Übereinstimmung der Entscheiddaten — und mit
+`audit_grounding` zusätzlich, ob der jeweils vorangehende Satz durch den Beleg gestützt ist.
+
+Zu attestieren sind **beide** Dateien: `_index.md` und `rechtsprechung.md`. Die
+Rechtsprechungsübersicht behauptet in jeder `Kernaussage` etwas über einen Entscheid — sie
+ist so belegpflichtig wie der Kommentartext.
+
+Bei `ok: false`: jeden Punkt der `issues`-Liste beheben und erneut attestieren. **Nicht
+committen, solange `ok: false` steht.** Beheben heisst je nach Klasse:
+
+| Issue | Behebung |
+|---|---|
+| Zitierung existiert nicht | Aus `close_matches` korrigieren, wenn der `match_reason` die Identität belegt; sonst Beleg raus |
+| Pinpoint löst nicht auf | `find_relevant_erwaegung`; bei `no_match` Pinpoint streichen |
+| Verbatim weicht ab | Durch den Wortlaut aus `get_erwaegung` / `get_regeste` ersetzen |
+| Datum stimmt nicht | Aus der Tool-Antwort korrigieren |
+| Grounding-Beanstandung | Wie D.1: Aussage schärfen oder Beleg verwerfen |
+
+### Belegquote
+
+Aus den Ergebnissen von D.1 und D.3:
+
+```
+Belegquote = (yes + 0.5 × partial) / beurteilte Paare
+```
+
+`partial` zählt halb — die Aussage ist tragfähig, aber zu weit gefasst. Nicht beurteilbare
+Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
+
+| Belegquote | Konsequenz |
+|---|---|
+| ≥ 80 % | Commit nach Behebung der Einzelbefunde |
+| 50–79 % | Vor dem Commit überarbeiten: schwach belegte Passagen abschwächen oder streichen |
+| < 50 % | **Nicht committen.** Belegapparat verwerfen, Aussagen behalten, für jede Aussage neu einen Beleg suchen und einzeln über `check_claim_support` prüfen |
+
+---
+
+## D.4 — Checklisten vor dem Commit
+
+**Belegtheit:**
+- [ ] Jedes Paar (Aussage, Beleg) durch `check_claim_support` geprüft (D.1)?
+- [ ] Kein Beleg mit `no` / `contradicts` / `unrelated` im Text verblieben?
+- [ ] `partial`-Aussagen um den Qualifikator ergänzt oder wörtlich zitiert?
+- [ ] Jeder Pinpoint durch `get_erwaegung` / `find_relevant_erwaegung` belegt — keiner geschätzt?
+- [ ] `attest_response(audit_grounding=true)` auf **beiden** Dateien mit `ok: true` (D.3)?
 
 **Quellenintegrität:**
 - [ ] Alle citation_strings aus Tool-Ergebnissen — nicht selbst konstruiert?
@@ -445,6 +644,8 @@ Vor jedem Commit durchlaufen:
 - [ ] Direkte Zitate nur aus `get_erwaegung` oder `get_regeste`?
 - [ ] Alle Rechtsquellen (Entscheide, Gesetze, Materialien) auf Originalquelle verlinkt?
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
+- [ ] Literaturzitate als das ausgewiesen, was sie sind: mit den Fall-Tools **nicht**
+      verifizierbar — nie als geprüft ausgeben?
 
 **Struktur:**
 - [ ] **Gesetzesübersicht vorhanden?** `content/kommentar/{gesetz}/_index.md` mit minimalem Frontmatter (title, weight, description)?
@@ -459,7 +660,58 @@ Vor jedem Commit durchlaufen:
 - [ ] Rechtsprechung in absteigender Hierarchie (BGE → BGer → kantonal)?
 - [ ] Hugo-Build erfolgreich?
 
-**Abschlussbericht** an Benutzer:
+---
+
+## D.5 — Wann `mcp_verified` / `agent_verified` gesetzt werden dürfen
+
+`mcp_verified: true` ist **nur** zulässig, wenn kumulativ:
+
+1. Der Gesetzeswortlaut aus `get_law` stammt,
+2. jede Zitierung aus einer Tool-Antwort kopiert ist,
+3. jedes Paar (Aussage, Beleg) durch `check_claim_support` gelaufen ist, und
+4. `attest_response(audit_grounding=true)` für die Datei `ok: true` liefert.
+
+`agent_verified: true` in `_index.md` setzt zusätzlich voraus, dass **keine offenen
+Befunde** verbleiben. Fehlt eine der vier Bedingungen — etwa weil der MCP nicht erreichbar
+war oder ein reiner `generate()`-Aufruf den Text erzeugt hat —, dann `mcp_verified: false`
+und `agent_verified: false`. Ein Flag ist eine Tatsachenbehauptung über den Prüfvorgang,
+kein Gütesiegel: falsch gesetzt ist es schädlicher als weggelassen, weil das nachgelagerte
+`/audit` und die PR-Verifikation darauf vertrauen.
+
+Revisionseintrag nach der Prüfung:
+
+```yaml
+lastmod: {heute}
+revisions:
+  - date: {heute}
+    by: "Glossagens Agent"
+    model: "{exakte Modell-ID}"
+    mcp_verified: true
+    note: "{was}; Belege via check_claim_support geprüft, attest_response ok"
+```
+
+---
+
+## D.6 — Grenzen (im Bericht ausweisen, nicht kaschieren)
+
+- **Literaturzitate.** Die Fall-Tools decken sie nicht ab. `search_scholarship` /
+  `find_scholarship_citing_statute` erreichen die OA-Bestände; der klassische
+  Kommentarapparat (BSK, ZK, Stämpfli) liegt grösstenteils ausserhalb → Status
+  «nicht verifizierbar», nie «korrekt».
+- **Botschaften.** `BBl`-Fundstellen prüft `attest_response` nicht; dafür
+  `search_botschaft`.
+- **Juristische Richtigkeit.** Geprüft wird Belegtheit, nicht Qualität. Ein durchgehend
+  belegter Kommentar kann dogmatisch schief sein.
+- **Aktualität — der gefährlichste blinde Fleck.** `check_claim_support` beantwortet
+  «sagt der Entscheid das?», nicht «gilt das noch?». Ein `yes` ist kein
+  Aktualitätsnachweis. Bei Leitentscheiden, die älter als rund zehn Jahre sind, deshalb
+  zusätzlich `get_article_history` (Gesetzesrevision dazwischen?) und `search_decisions`
+  mit dem Sachthema + «Praxisänderung» bzw. dem EGMR-Fallnamen.
+
+---
+
+## D.7 — Abschlussbericht an den Benutzer
+
 ```
 KOMMENTAR-STATUS: {ABBREV} Art. {N}
 ────────────────────────────────────
@@ -468,15 +720,28 @@ Bearbeitete Dateien:
   - rechtsprechung.md [erstellt / ergänzt]
 
 Neue Entscheide integriert:
-  - BGE: {Anzahl}
-  - BGer: {Anzahl}
-  - Kantonal: {Anzahl}
-  - EGMR: {Anzahl}
+  - BGE: {Anzahl}   BGer: {Anzahl}   Kantonal: {Anzahl}   EGMR: {Anzahl}
 
-Offene Fragen: {Kurzbeschreibung oder «keine»}
+Belegprüfung (check_claim_support):
+  Paare geprüft:  {n}
+  gestützt:       {n}      teilweise: {n}
+  verworfen:      {n}  ({no}/{contradicts}/{unrelated})
+  Belegquote:     {x} %
+
+Pinpoints:        {n} gesetzt, alle via get_erwaegung/find_relevant_erwaegung belegt
+Schlussattest:    _index.md {ok|Befunde behoben} · rechtsprechung.md {ok|…}
+
+Nicht verifizierbar: {Literatur/Materialien — Liste + Grund, oder «keine»}
+Offene Fragen:       {Kurzbeschreibung oder «keine»}
 
 Aktualisierungsdatum: {DATUM}
 ```
+
+Verhältnis zu den anderen Skills: `/lint` prüft den **Gesetzeswortlaut**, `/audit` prüft
+den **Belegapparat bestehender** Artikel nachträglich und maschinell über den gesamten
+Bestand. Teil D ist die vorgelagerte Fassung derselben Prüfung — sie soll verhindern, dass
+`/audit` überhaupt etwas zu finden hat. Bei grösseren Überarbeitungen nach dem Commit
+zusätzlich `/audit {gesetz} art-{NNN}` laufen lassen.
 
 ---
 
@@ -499,6 +764,11 @@ Aktualisierungsdatum: {DATUM}
 | `get_materialien` | Materialien-Volltext | Vertiefung |
 | `get_commentary` | OnlineKommentar | Lehrrecherche |
 | `get_doctrine` | Lehrmeinungen | Annotationen |
+| `cite` | Zitierung auflösen, `close_matches` | Existenz prüfen, Zitierstring holen |
+| `find_relevant_erwaegung` | Erwägung zu einer Aussage finden | **Pinpoint statt raten** |
+| `check_claim_support` | Trägt der Entscheid die Aussage? | **Vor jedem Beleg** (Teil D.1) |
+| `attest_response` | Schlussprüfung des Entwurfs | **Vor jedem Commit** (Teil D.3) |
+| `get_article_history` | Revisionen einer Norm | Aktualität alter Belege |
 
 ## Gesetz-Abkürzungen → SR-Nummern
 
@@ -537,6 +807,21 @@ Aktualisierungsdatum: {DATUM}
 - **agent_verified**: In `rechtsprechung.md` immer `false`; in `_index.md` erst nach Verifikation `true` — und nur, wenn die jüngste `revisions`-Zeile `mcp_verified: true` trägt
 - **Revisions-Vermerk vergessen**: Bei **jeder** Änderung (auch Neuanlage) muss oben in `revisions:` ein Eintrag mit `by` / `model` / `mcp_verified` ergänzt werden — sonst ist nicht nachvollziehbar, wer mit welchem Modell und mit/ohne MCP-Prüfung gearbeitet hat
 - **Citation strings**: Nie selbst konstruieren — immer aus `citation_string_de` des MCP-Tools
+- **«Thematisch passend» statt geprüft**: Der häufigste und teuerste Fehler. Ein Entscheid,
+  der Stufe «existiert» besteht, kann trotzdem etwas ganz anderes entscheiden — im Bestand
+  gab es Artikel, deren sämtliche Belege existierten und **keiner** die Aussage trug.
+  `check_claim_support` ist deshalb nicht weglassbar (Teil D.1)
+- **Pinpoint geschätzt**: «E. 3.1» ist geraten, wenn es nicht aus `get_erwaegung` oder
+  `find_relevant_erwaegung` (Konfidenz `high`) stammt. Regesten verweisen auf «E. 4», wo
+  nur `4.1`/`4.2.1` existiert — `cite` merkt das nicht
+- **`attest_response` als Eingangsprüfung**: Am Anfang eingesetzt, liefert es nur eine
+  unsortierte Mängelliste. Es gehört ans Ende, auf den fertigen Text, mit
+  `audit_grounding: true` (Teil D.3)
+- **`rechtsprechung.md` ungeprüft gelassen**: Sie behauptet in jeder `Kernaussage` etwas
+  über einen Entscheid und ist genauso belegpflichtig wie der Kommentar
+- **`mcp_verified: true` als Gütesiegel**: Es ist eine Tatsachenbehauptung über den
+  Prüfvorgang (Teil D.5). Falsch gesetzt, richtet es mehr Schaden an als weggelassen —
+  `/audit` und die PR-Verifikation vertrauen darauf
 - **get_law**: Braucht `abbreviation`, nicht SR-Nummer (obwohl beides funktioniert)
 - **StPO vs. StGB**: Nachfragen wenn unklar, beide beginnen mit «St»
 - **Remote divergence**: Vor Push immer `git pull --rebase` wenn abgelehnt
