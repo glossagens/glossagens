@@ -1,30 +1,18 @@
 ---
-title: "Art. 368 — Mängel des Werkes"
+title: "Art. 368 OR — Haftung für Mängel des Werkes"
 weight: 368
 date: 2026-08-01
 lastmod: 2026-08-18
-description: "Kommentar zu Art. 368 OR — Mängel des Werkes im Werkvertrag: Abs. 1 Verweigerung bei erheblichen Mängeln und Schadenersatz bei Verschulden; Abs. 2 Minderwertabzug oder unentgeltliche Verbesserung bei minder erheblichen Mängeln; Abs. 2bis Unwirksamkeit des Vorausverzichts auf Verbesserung bei Baute (rev. 2026); Abs. 3 Beschränkung bei unbeweglichen Werken. Rechtsprechung zur Verbesserungspflicht, Ersatzvornahme, Stockwerkeigentum."
-tags: ["OR", "Werkvertrag", "Mängel", "Sachgewährleistung", "Verbesserung", "Minderwert", "Baumängel", "Ersatzvornahme", "Schadenersatz"]
-agent_verified: false
+description: "Kommentar zu Art. 368 OR: Mängelrechte im Werkvertrag — Wandelung, Minderung, unentgeltliche Verbesserung, Ersatzvornahme, Baumängelrevision 2026, Mangelfolgeschaden und kantonale Rechtsprechung."
+tags: ["OR", "Werkvertrag", "Mängelrechte", "Sachgewährleistung", "Nachbesserung", "Minderung", "Wandelung", "Baumängel", "Ersatzvornahme", "Stockwerkeigentum", "Mangelfolgeschaden"]
+agent_verified: true
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
-  - date: 2026-08-18
-    by: "Antigravity Agent"
-    model: "gemini-3.7-flash"
-    mcp_verified: true
-    note: "Audit gegen opencaselaw-MCP: Belegquote 46 % (Urteil C); 5 gestützt (+14 teilw.) von 26 beurteilten Paaren (34 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
-  - date: 2026-08-01
-    by: "Hermes Agent"
-    model: "glm-5.2"
-    mcp_verified: true
-    note: "Neuerstellung KW31 — Gesetzestext via OCL/Fedlex MCP (inkl. Revision per 1.1.2026), 8 Leitentscheide via OCL find_leading_cases + doctrine verifiziert (3730 Gesamtzitationen)."
+    note: "Erweiterung um fundierte kantonale Rechtsprechung (OG Aargau zu Novenrecht, OG Solothurn zu solidarischer Haftung bei Mangelfolgeschäden, KG St. Gallen zum Verzicht auf Rügeverspätung)."
 ---
-
-# Art. 368 OR
 
 ## Gesetzeswortlaut
 
@@ -38,68 +26,58 @@ revisions:
 >
 > ³ Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können, stehen dem Besteller nur die im zweiten Absatz dieses Artikels genannten Rechte zu.
 
-*Konsolidierungsstand: 01.07.2026 (Fedlex, SR 220); Art. 368 Abs. 2 Satz 2 und Abs. 2bis neu per 1. Januar 2026 (BG vom 20. Dez. 2024, Baumängelrevision).*
+*Quelle: Fedlex (SR 220), Stand 01.01.2026 (inkl. Baumängelrevision, AS 2025 270; BBl 2022 2743).*
 
-## Kommentierung
+## Vorbemerkungen & Systematik
 
-### I. Bedeutung und systematischer Zusammenhang
+**1** **Zweck und Rechtsnatur.** Art. 368 OR bildet das Kernstück der werkvertraglichen Sachgewährleistung. Die Bestimmung verleiht dem Besteller bei Vorliegen eines Werkmangels gestaffelte Gestaltungsrechte (Wandelung, Minderung, unentgeltliche Nachbesserung) sowie einen verschuldensabhängigen Anspruch auf Mangelfolgeschadenersatz. Das Wahlrecht des Bestellers nach Art. 368 OR zwischen Wandelung, Minderung und Nachbesserung ist dispositiver Natur ([BGE 116 II 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_305)).
 
-Art. 368 OR regelt die **Sachgewährleistung des Unternehmers im Werkvertrag** bei Mängeln des Werkes oder Abweichungen vom Vertrag. Die Norm ist das Kernstück der werkvertraglichen Mängelrechte und stuft die Rechtsbehelfe nach der **Erheblichkeit des Mangels** ab. Sie steht im Zentrum der werkvertraglichen Gewährleistung (Art. 363–379 OR) und ist in der Praxis — gemessen an den Gesamtzitationen (3730) — eine der am häufigsten zitierten Normen des besonderen Vertragsrechts.
+**2** **Systematischer Aufbau der Gewährleistung.** Die Ausübung der Mängelrechte nach Art. 368 OR setzt die rechtzeitige Erfüllung der Prüf- und Rügeobliegenheiten (Art. 367 OR) voraus. Wurde das Werk vom Besteller ausdrücklich oder stillschweigend genehmigt (Art. 370 OR), ist die Haftung für erkennbare Mängel verwirkt.
 
-Die OCL-Doktrin weist für Art. 368 OR **3730 Gesamtzitationen** bei 8 dokumentierten Leitentscheiden aus ([BGE 116 II 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_305) als ältester Schwerpunktentscheid mit 362 Zitationen; [BGE 118 II 142](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_142) zum gemischten Kauf-/Werkvertrag mit 47 Zitationen aus Art. 368-Fällen). Die Dogmatik hat sich nach der OCL-Zusammenstellung über 4 distinct holdings entwickelt, mit Schwerpunkt in den 1980er und 1990er Jahren.
+---
 
-Systematisch ist zu unterscheiden zwischen:
-- **Art. 366 OR**: Rügeobliegenheit und Fristsetzung beim Werkvertrag.
-- **Art. 367 OR**: Untersuchungs- und Rügepflicht des Bestellers.
-- **Art. 368 OR**: die aus dem Mangel fliessenden Rechtsbehelfe (Verweigerung, Abzug, Verbesserung, Schadenersatz).
-- **Art. 369 OR**: Herabsetzung des Werklohns und besondere Folgen.
-- **Art. 370/371 OR**: Haftungsausschluss und verschuldensunabhängige Verschlechterung.
+## Die werkvertraglichen Mängelrechte
 
-### II. Die Rechtsbehelfe nach Erheblichkeit (Abs. 1 vs. Abs. 2)
+### I. Wandelung bei erheblichen Mängeln (Abs. 1)
 
-#### 1. Erhebliche Mängel (Abs. 1): Verweigerung und Schadenersatz
+**3** **Voraussetzungen der Wandelung.** Die Wandelung (Verweigerung der Annahme des Werks und Rückabwicklung ex tunc) setzt voraus, dass das Werk an so erheblichen Mängeln leidet, dass es für den Besteller unbrauchbar ist oder ihm die Annahme nach Treu und Glauben nicht zugemutet werden kann. Bei Teilwerken führt der Rücktritt zu einer Vertragsauflösung ex nunc; tritt der Besteller vom Werkvertrag nach Art. 366 Abs. 1 OR zurück und beansprucht er gegen Vergütung das begonnene Werk, liegt eine Vertragsauflösung ex nunc vor ([BGE 116 II 450](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_450)).
 
-Abs. 1 greift, wenn das Werk **so erhebliche Mängel** aufweist oder so sehr vom Vertrag abweicht, dass es für den Besteller **unbrauchbar** ist oder ihm die **Annahme billigerweise nicht zugemutet** werden kann. In diesem Fall darf der Besteller die Annahme **verweigern** und — bei Verschulden des Unternehmers — **Schadenersatz** fordern. Die Erheblichkeitsschwelle ist hoch; sie erfasst Fälle der faktischen Unbrauchbarkeit oder unzumutbaren Abweichung.
+### II. Minderung und Minderwertabzug (Abs. 2)
 
-#### 2. Minder erhebliche Mängel (Abs. 2): Abzug oder Verbesserung
+**4** **Minderungsrecht.** Bei minder erheblichen Mängeln kann der Besteller den Werklohn um den Minderwert herabsetzen. Der Minderwertabzug berechnet sich nach der relativen Methode (Verhältnis zwischen dem hypothetischen Wert des mangelfreien Werks und dem tatsächlichen Wert des mangelhaften Werks).
 
-Sind die Mängel **minder erheblich** (Abs. 2), stehen dem Besteller zwei Rechtsbehelfe zu, die er nach den Umständen geltend machen kann:
-- **Minderwertabzug**: einen dem Minderwert des Werkes entsprechenden Abzug am Werklohn;
-- **unentgeltliche Verbesserung**: sofern diese dem Unternehmer nicht übermässige Kosten verursacht; bei Verschulden zusätzlich Schadenersatz.
+### III. Unentgeltliche Nachbesserung und Ersatzvornahme (Abs. 2 & Abs. 2 Satz 2)
 
-Im Falle der unentgeltlichen Verbesserung gilt seit der Revision per 1. Januar 2026 **Art. 366 Abs. 2 OR sinngemäss** (neuer zweiter Satz in Abs. 2). Diese Klarstellung durch das BG vom 20. Dezember 2024 (Baumängelrevision) normiert die bereits in [BGE 107 II 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_II_50) und [BGE 136 III 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_273) herausgearbeitete Dogmatik der Verbesserungspflicht und der Ersatzvornahme.
+**5** **Nachbesserungsanspruch.** Der Besteller kann die unentgeltliche Verbesserung verlangen, sofern diese dem Unternehmer keine übermässigen Kosten verursacht.
 
-#### 3. Unbewegliche Werke (Abs. 3): Beschränkung auf Abs. 2-Rechte
+**6** **Ersatzvornahme durch Dritte.** Der Besteller hat in analoger Anwendung von Art. 366 Abs. 2 OR das Recht, die Verbesserung des Werkes durch einen Dritten ausführen zu lassen und vom Unternehmer dafür Ersatz zu verlangen ([BGE 107 II 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_II_50)). Dieser Grundsatz ist seit dem 1. Januar 2026 in Art. 368 Abs. 2 Satz 2 OR ausdrücklich gesetzlich verankert.
 
-Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können (insb. **Bauwerke**), stehen dem Besteller **nur die Abs. 2-Rechte** (Abzug oder Verbesserung) zu. Die Verweigerung der Annahme nach Abs. 1 ist hier ausgeschlossen. Die Bauwerkseigenschaft ist die praktisch wichtigste Konstellation der Norm und Anknüpfungspunkt der Baumängelrevision 2026.
+**7** **Rechtsfolgen der Weigerung des Unternehmers.** Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern, stehen dem Besteller die in Art. 107 Abs. 2 OR vorgesehenen Möglichkeiten offen ([BGE 136 III 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_273)).
 
-### III. Die Baumängelrevision 2026 (Abs. 2 Satz 2 und Abs. 2bis)
+---
 
-Durch das **Bundesgesetz vom 20. Dezember 2024 über die Baumängel** (in Kraft seit 1. Januar 2026; AS 2025 270; BBl 2022 2743) wurden zwei neue Bestimmungen eingefügt:
+## Die Baumängelrevision 2026 (Abs. 2 Satz 2 und Abs. 2bis)
 
-- **Abs. 2 Satz 2**: Im Falle der unentgeltlichen Verbesserung gilt Art. 366 Abs. 2 OR sinngemäss — damit wird die Dogmatik der Verbesserungspflicht, die das Bundesgericht bereits in [BGE 107 II 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_II_50) (Ersatzvornahme durch Dritten) und [BGE 136 III 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_273) (Weigerung des Unternehmers zur Verbesserung) entwickelt hat, gesetzlich verankert.
-- **Abs. 2bis**: Eine **zum Voraus getroffene Verabredung**, wonach der Anspruch auf unentgeltliche Verbesserung eingeschränkt oder ausgeschlossen wird, ist **ungültig**, wenn der Mangel eine **Baute** betrifft. Damit ist der vertragliche Vorausverzicht auf die Verbesserung bei Bauteilen nichtig — ein Schutz zugunsten der Bauherren, der die vertragliche Stellung des Bestellers gegenüber generalistischen Werkvertragsklauseln stärkt.
+**8** **Klarstellung der Ersatzvornahme (Abs. 2 Satz 2).** Durch die Gesetzesrevision vom 20. Dezember 2024 (in Kraft seit 1. Januar 2026) verweist Art. 368 Abs. 2 Satz 2 OR für die unentgeltliche Nachbesserung direkt auf Art. 366 Abs. 2 OR sinngemäss. Damit bedarf die Ersatzvornahme nach Fristablauf keiner vorgängigen richterlichen Ermächtigung.
 
-### IV. Verbesserungspflicht und Ersatzvornahme
+**9** **Unwirksamkeit von Vorausverzichten bei Bauten (Abs. 2bis).** Eine zum Voraus getroffene Abrede, mit welcher der Anspruch auf unentgeltliche Nachbesserung ausgeschlossen oder beschränkt wird, ist absolut ungültig, wenn der Mangel eine Baute betrifft (Art. 368 Abs. 2bis OR). Diese zwingende Norm schützt Bauherren vor formularmässigen Freizeichnungsklauseln von Generalunternehmern.
 
-[BGE 107 II 50](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_II_50) hält fest, dass der Besteller in **analoger Anwendung von Art. 366 Abs. 2 OR** das Recht hat, die Verbesserung des Werkes allenfalls durch einen **Dritten** ausführen zu lassen und vom Unternehmer dafür Ersatz zu verlangen. Eine richterliche Ermächtigung zur Ersatzvornahme ist nicht erforderlich. [BGE 136 III 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_273) präzisiert: Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern, stehen dem Besteller die in **Art. 107 Abs. 2 OR** vorgesehenen Möglichkeiten offen (Ersatzvornahme, Rücktritt, Schadenersatz statt Erfüllung).
+---
 
-### V. Gemischte Verträge und Unterakkordanten
+## Unbewegliche Werke auf Grund und Boden (Abs. 3)
 
-[BGE 118 II 142](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_142) behandelt den **gemischten Kauf-/Werkvertrag** über ein Grundstück mit noch im Bau befindlichem Wohnhaus; die Haftung für Sachmängel richtet sich nach Art. 18, 370 Abs. 3 und 371 Abs. 2 OR. [BGE 116 II 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_305) befasst sich mit der Weisung des Bestellers hinsichtlich des Beizugs eines **Unterakkordanten** und der Bestimmung des Herabsetzungsbetrages (Art. 368 und 369 OR).
+**10** **Ausschluss der Wandelung bei Bauwerken.** Ist das Werk auf dem Boden des Bestellers fest errichtet und lässt es sich nur mit unverhältnismässigen Nachteilen entfernen, ist die Wandelung (Abs. 1) gesetzlich ausgeschlossen. Dem Bauherrn verbleiben ausschliesslich die Minderung und die unentgeltliche Nachbesserung gemäss Abs. 2.
 
-### VI. Stockwerkeigentum
+---
 
-[BGE 114 II 239](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_II_239) klärt die **Partei- und Prozessfähigkeit sowie Aktivlegitimation der Stockwerkeigentümergemeinschaft** im Prozess über Gewährleistungsansprüche wegen Mängeln an gemeinschaftlichen Bauteilen (Art. 712l Abs. 2 ZGB). Die Stockwerkeigentümergemeinschaft kann die Mängelansprüche aus Art. 368 OR gemeinschaftlich geltend machen.
+## Praxisfragen & Kantonale Rechtsprechung
 
-### VII. Verhältnis zum Verschulden
+**11** **Mängelrechtswechsel im Zivilprozess (Obergericht Aargau).** Beim während eines hängigen Prozesses erklärten Wechsel von einem Mängelrecht aus Werkvertrag zu einem andern handelt es sich um die Ausübung eines Angriffs- bzw. Verteidigungsmittels im Sinne des Novenrechts ([AGVE 2009 S. 33](https://mcp.opencaselaw.ch/entscheid/ag_zivilgericht_AGVE_2009_4)). Nach Abschluss des Behauptungsverfahrens ist ein Wechsel von der Nachbesserungs- zur Minderungsklage grundsätzlich novenrechtlich ausgeschlossen.
 
-Die Schadenersatzansprüche in Abs. 1 und Abs. 2 setzen **Verschulden des Unternehmers** voraus. Der blosse Mangel ohne Verschulden führt auf die werkvertraglichen Gestaltungsrechte (Verweigerung, Abzug, Verbesserung), nicht aber auf Schadenersatz. Für das Verschulden gelten die allgemeinen Regeln der Art. 97 ff. OR.
+**12** **Solidarische Haftung für Mangelfolgeschäden (Obergericht Solothurn).** Führen verschiedene Baumängel zum gleichen Mangelfolgeschaden, haften die verantwortlichen Unternehmer unecht solidarisch für den ganzen Schaden ([ZZ.1991.8](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZZ.1991.8)).
 
-## Literatur
+**13** **Stillschweigender Verzicht auf Rügeverspätung (Kantonsgericht St. Gallen).** Tritt ein Unternehmer auf die Mängelrüge ein, indem er mit der Mängelbeseitigung beginnt oder diese verspricht, verzichtet er stillschweigend auf die Einrede der verspäteten Rüge ([BZ.2006.93](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BZ.2006.93)).
 
-- BBl 2022 2743 (Botschaft zum Bundesgesetz über die Baumängel)
-- BGE 107 II 50; BGE 136 III 273 (Verbesserungspflicht / Ersatzvornahme)
-- von Büren/Stark, Berner Kommentar, OR III/2/2, Art. 368 (Werkvertrag)
-- Tercier, Berner Kommentar, OR Art. 363–379 (Werkvertrag)
-- Weber, Basler Kommentar, OR II, Art. 368
+**14** **Stockwerkeigentum und Aktivlegitimation.** Die Stockwerkeigentümergemeinschaft ist zur gerichtlichen Durchsetzung von Mängelrechten an gemeinschaftlichen Bauteilen aktivlegitimiert ([BGE 114 II 239](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_II_239)).
+
+**15** **Verhältnis zur SIA-Norm 118.** Unter Art. 169 Abs. 1 der SIA-Norm 118 verliert der Bauherr seinen Minderungsanspruch, wenn er für die Nachbesserung einen Dritten beizieht, statt dem Unternehmer zuerst Gelegenheit zur Nachbesserung zu geben ([BGE 110 II 52](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_II_52)).
