@@ -632,10 +632,15 @@ def parse_bundle(bundle):
 # ---------------------------------------------------------------- Stufen 1–4
 
 
-def stufe1_wortlaut(mcp, gesetz, article, zitiert):
+def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
     if not zitiert:
         return {"status": "kein_wortlaut_block"}
-    res = mcp.call("get_law", {"abbreviation": gesetz.upper(), "article": article})
+    args = {"article": article}
+    if sr_number:
+        args["sr_number"] = sr_number
+    else:
+        args["abbreviation"] = gesetz.upper()
+    res = mcp.call("get_law", args)
     if "_error" in res:
         return {"status": "nicht_verifizierbar", "grund": res["_error"]}
     stand = res.get("consolidation_date") or res.get("as_of") or res.get("date")
@@ -904,13 +909,14 @@ def sr_from_gesetz(bundle):
 
 
 def audit_bundle(mcp, bundle, gesetz, article, workers=None):
+    sr = sr_from_gesetz(bundle)
     units, quotes, wortlaut = parse_bundle(bundle)
-    w = stufe1_wortlaut(mcp, gesetz, article, wortlaut)
+    w = stufe1_wortlaut(mcp, gesetz, article, wortlaut, sr_number=sr)
     ex = stufe2_existenz(mcp, units)
     pp = stufe3_pinpoints(mcp, units, ex)
     vb = stufe4_verbatim(mcp, quotes, ex)
     gr = stufe5_grounding(mcp, units, ex, pp, workers=workers)
-    ak = stufe6_aktualitaet(mcp, sr_from_gesetz(bundle), article, ex)
+    ak = stufe6_aktualitaet(mcp, sr, article, ex)
 
     halluziniert = [r for r, v in ex.items() if v["status"] == "halluziniert"]
     ungestuetzt = [
