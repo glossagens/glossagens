@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 0 gestützt (+2 teilw.) von 8 beurteilten Paaren (10 Paare gesamt); Wortlaut: korrekt; 2 nicht existente Referenzen, 6 fehlerhafte Pinpoints."
 ---
 
@@ -68,13 +73,13 @@ Aus Art. 321 OR i.V.m. dem Arbeitsvertrag und der Treuepflicht (Art. 321a OR) er
 
 #### 1. Fristlose Entlassung
 
-Schwerwiegende Verletzungen der persönlichen Leistungspflicht nach Art. 321 OR können die **fristlose Entlassung** nach Art. 337 OR rechtfertigen ([BGer 4A_625/2016](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=4A_625_2016), E. 3; [BGE 141 III 329](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_141_III_329), E. 4). Massgeblich ist die Schwere des Pflichtverstosses und ob dem Arbeitgeber die Fortsetzung des Arbeitsverhältnisses nicht mehr zuzumuten ist.
+Schwerwiegende Verletzungen der persönlichen Leistungspflicht nach Art. 321 OR können die **fristlose Entlassung** nach Art. 337 OR rechtfertigen ([BGer 4A_625/2016](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=4A_625_2016), E. 3; [BGE 141 III 302](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_141_III_329), E. 4). Massgeblich ist die Schwere des Pflichtverstosses und ob dem Arbeitgeber die Fortsetzung des Arbeitsverhältnisses nicht mehr zuzumuten ist.
 
 Leichte Verstösse gegen die persönliche Leistungspflicht genügen für eine fristlose Kündigung **nicht** ([BGer 4A_363/2015](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=4A_363_2015), E. 4.2). Eine Abmahnung ist in der Regel vorgängig erforderlich, es sei denn, der Pflichtverstoß ist so schwerwiegend, dass eine solche nicht mehr zumutbar ist.
 
 #### 2. Krankheitsbedingte Arbeitsunfähigkeit
 
-Bei krankheitsbedingter Arbeitsunfähigkeit entfällt die persönliche Leistungspflicht nach Art. 321 OR nicht vollständig ([BGE 137 III 262](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_III_262), E. 4). Der Arbeitnehmer ist verpflichtet, die Arbeitsunfähigkeit nachzuweisen und den Arbeitgeber zu informieren. Bei dauerhafter Arbeitsunfähigkeit kann der Arbeitgeber das Arbeitsverhältnis ordentlich kündigen.
+Bei krankheitsbedingter Arbeitsunfähigkeit entfällt die persönliche Leistungspflicht nach Art. 321 OR nicht vollständig ([BGE 137 III 255](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_III_262), E. 4). Der Arbeitnehmer ist verpflichtet, die Arbeitsunfähigkeit nachzuweisen und den Arbeitgeber zu informieren. Bei dauerhafter Arbeitsunfähigkeit kann der Arbeitgeber das Arbeitsverhältnis ordentlich kündigen.
 
 ### VI. Stellvertretung vs. Unterstellung
 

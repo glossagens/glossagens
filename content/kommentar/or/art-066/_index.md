@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 60 % (Urteil B); 18 gestützt (+11 teilw.) von 39 beurteilten Paaren (53 Paare gesamt); Wortlaut: korrekt; 4 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
@@ -40,7 +45,7 @@ Art. 66 OR steht im dritten Abschnitt des OR (Entstehung der Obligationen aus un
 
 ### 1. Bisherige Rechtsprechung (ausdehnende Auslegung)
 
-Die bisherige Rechtsprechung legte Art. 66 OR **ausdehnend** aus: bei objektiver Sittenwidrigkeit des Leistungszwecks war der Rückforderungsanspruch auch dann ausgeschlossen, wenn die Leistung nicht eigens zur Anstiftung oder Belohnung eines rechtswidrigen Verhaltens erbracht wurde (BGE 74 II 27; BGE 82 II 75). Dies führte bei synallagmatischen Verträgen mit gleichermassen widerrechtlich handelnden Parteien zu unbilligen Ergebnissen, die häufig über Art. 2 ZGB korrigiert werden mussten (BGE 75 II 293; BGE 76 II 369).
+Die bisherige Rechtsprechung legte Art. 66 OR **ausdehnend** aus: bei objektiver Sittenwidrigkeit des Leistungszwecks war der Rückforderungsanspruch auch dann ausgeschlossen, wenn die Leistung nicht eigens zur Anstiftung oder Belohnung eines rechtswidrigen Verhaltens erbracht wurde (BGE 74 II 27; BGE 82 II 72). Dies führte bei synallagmatischen Verträgen mit gleichermassen widerrechtlich handelnden Parteien zu unbilligen Ergebnissen, die häufig über Art. 2 ZGB korrigiert werden mussten (BGE 75 II 293; BGE 76 II 369).
 
 ### 2. Neue Rechtsprechung (einschränkende Auslegung)
 
@@ -50,7 +55,7 @@ Die bisherige ausdehnende Auslegung wurde aufgegeben, weil sie bei synallagmatis
 
 ### 3. Charakterisierung als fragwürdige Bestimmung
 
-**BGE 84 II 179 E. 3c** bezeichnet Art. 66 OR als **gesetzgeberisch fragwürdige Lösung**, die je nach den Umständen zu moralisch unbefriedigenden Ergebnissen führen kann. Die Rechtsprechung hat die Bestimmung deshalb **bald einschränkend** (BGE 53 II 41), **bald ausdehnend** (BGE 74 II 27, BGE 82 II 75) ausgelegt und die Ergebnisse häufig anhand von Art. 2 ZGB korrigiert.
+**BGE 84 II 179 E. 3c** bezeichnet Art. 66 OR als **gesetzgeberisch fragwürdige Lösung**, die je nach den Umständen zu moralisch unbefriedigenden Ergebnissen führen kann. Die Rechtsprechung hat die Bestimmung deshalb **bald einschränkend** (BGE 53 II 41), **bald ausdehnend** (BGE 74 II 27, BGE 82 II 72) ausgelegt und die Ergebnisse häufig anhand von Art. 2 ZGB korrigiert.
 
 ## II. Voraussetzungen des Rückforderungsausschlusses
 

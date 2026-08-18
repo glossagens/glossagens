@@ -20,7 +20,7 @@ Zurück zum Kommentar: [Art. 1 OR — Vertragsschluss](./)
 
 | Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
-| [BGE 130 III 680](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_680) | 2004 | **Vertrauenstheorie:** massgeblich ist der objektive Empfängerhorizont; Annahme mit Änderungen ist ein neuer Antrag (counter-offer); von der erklärten Bedeutung kann nur abgewichen werden, wenn besondere Umstände vorliegen | E. 3, 6 |
+| [BGE 130 III 678](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_678) | 2004 | **Vertrauenstheorie:** massgeblich ist der objektive Empfängerhorizont; Annahme mit Änderungen ist ein neuer Antrag (counter-offer); von der erklärten Bedeutung kann nur abgewichen werden, wenn besondere Umstände vorliegen | E. 3, 6 |
 | [BGE 123 III 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_35) | 1997 | Konsens im Verweisungsvertrag (Prorogation): der Konsens für die Widerklage muss selbstständig vorliegen; übereinstimmende Willensäusserung gemäss Art. 1 OR | E. 3 |
 | [BGE 103 II 190](https://mcp.opencaselaw.ch/entscheid/bge_BGE_103_II_190) | 1977 | **Essentialia vs. non essentialia:** Art. 2 Abs. 1 OR auch anwendbar, wenn sich die Parteien über alle objektiv und subjektiv wesentlichen Punkte geeinigt haben; fehlende Nebenpunkte hindern den Vertragsschluss nicht | E. 1 |
 
@@ -44,7 +44,7 @@ Zurück zum Kommentar: [Art. 1 OR — Vertragsschluss](./)
 
 | Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
-| [BGE 130 III 680](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_680) | 2004 | **Vertrauenstheorie (Leitentscheid):** massgeblich ist der objektive Empfängerhorizont; von der erklärten Bedeutung kann nur abgewichen werden, wenn besondere Umstände vorliegen | E. 3 |
+| [BGE 130 III 678](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_678) | 2004 | **Vertrauenstheorie (Leitentscheid):** massgeblich ist der objektive Empfängerhorizont; von der erklärten Bedeutung kann nur abgewichen werden, wenn besondere Umstände vorliegen | E. 3 |
 | [BGE 133 III 675](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_675) | 2007 | **Auslegung nach dem Vertrauensprinzip:** Grundsätze der Auslegung allgemeiner Versicherungsbedingungen nach dem Vertrauensprinzip; Unterbrechung der Verjährung | E. 2 |
 | [BGE 132 III 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_268) | 2006 | **Konsumentenvertrag und AGB-Auslegung:** Begriff des Konsumentenvertrages im Sinne von Art. 22 Abs. 2 GestG; Auslegung einer Gerichtsstandsklausel in den AGB einer Bank nach dem Vertrauensprinzip | E. 2.2.2, 2.2.3 |
 | [BGE 107 II 417](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_II_417) | 1981 | **Vertragsauslegung nach den Umständen:** Ob ein vertraglicher oder ausservertraglicher Anspruch geltend gemacht wird, ist von Amtes wegen zu beurteilen; nach Vertragsschluss eintretende Umstände für die Auslegung | E. 4 |
@@ -65,7 +65,7 @@ Zurück zum Kommentar: [Art. 1 OR — Vertragsschluss](./)
 | Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
 | [BGE 128 III 70](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_70) | 2002 | **Willensmängel (Art. 23 ff. OR):** Wirksamkeit der Anfechtungserklärung setzt Bestehen des Willensmangels voraus; Ausnahmen vom Grundsatz der Unwiderruflichkeit | E. 1–2 |
-| [BGE 143 III 634](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_634) | 2017 | **Irrtumsanfechtung bei Grundstückkauf:** Wesentlicher Irrtum über den Verkehrswert; Anfechtungsfrist und Beweislast | E. 3 |
+| [BGE 143 III 624](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_624) | 2017 | **Irrtumsanfechtung bei Grundstückkauf:** Wesentlicher Irrtum über den Verkehrswert; Anfechtungsfrist und Beweislast | E. 3 |
 
 ## VII. Culpa in contrahendo und Vertrauenshaftung
 

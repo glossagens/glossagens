@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 9 gestützt (+0 teilw.) von 9 beurteilten Paaren (12 Paare gesamt); Wortlaut: korrekt; 3 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
@@ -43,7 +48,7 @@ Abs. 1 statuiert drei gestaffelte Kündigungsfristen, die sich nach der Dauer de
 - **2.–9. Dienstjahr**: 2 Monate Kündigungsfrist
 - **Ab dem 10. Dienstjahr**: 3 Monate Kündigungsfrist
 
-**Kündigungstermin**: Die Kündigung wirkt *je auf das Ende eines Monats*. Das bedeutet, dass die Frist ab dem auf den Zugang der Kündigung folgenden Tag zu berechnen ist und bis zum Ende eines Monats laufen muss ([BGE 134 III 403 E. 3.2](https://www.bger.ch/il/public/doc/134III403)).
+**Kündigungstermin**: Die Kündigung wirkt *je auf das Ende eines Monats*. Das bedeutet, dass die Frist ab dem auf den Zugang der Kündigung folgenden Tag zu berechnen ist und bis zum Ende eines Monats laufen muss ([BGE 134 III 385 E. 3.2](https://www.bger.ch/il/public/doc/134III403)).
 
 **Berechnung**: Bei einer Kündigung am 15. März mit einmonatiger Frist endet das Arbeitsverhältnis am 30. April. Bei zweimonatiger Frist am 31. Mai.
 

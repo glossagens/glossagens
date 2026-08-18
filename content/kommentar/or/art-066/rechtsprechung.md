@@ -59,7 +59,7 @@ revisions:
 
 **Regeste**: Landwirtschaftliches Bodenrecht. Verhältnis von Art. 42 Abs. 2 BMB zu Art. 66 OR.
 
-**E. 3c**: Art. 66 OR wird als zwingende, aber gesetzgeberisch fragwürdige Bestimmung charakterisiert. Die Rechtsprechung hat die Bestimmung bald einschränkend (BGE 53 II 41), bald ausdehnend (BGE 74 II 27, BGE 82 II 75) ausgelegt und die Ergebnisse häufig anhand von Art. 2 ZGB korrigiert.
+**E. 3c**: Art. 66 OR wird als zwingende, aber gesetzgeberisch fragwürdige Bestimmung charakterisiert. Die Rechtsprechung hat die Bestimmung bald einschränkend (BGE 53 II 41), bald ausdehnend (BGE 74 II 27, BGE 82 II 72) ausgelegt und die Ergebnisse häufig anhand von Art. 2 ZGB korrigiert.
 
 ---
 
@@ -106,7 +106,7 @@ revisions:
 |---|---|---|
 | 1927 | BGE 53 II 41 | Einschränkende Auslegung |
 | 1948 | BGE 74 II 27 | Ausdehnende Auslegung |
-| 1956 | BGE 82 II 75 | Ausdehnende Auslegung (nächst) |
+| 1956 | BGE 82 II 72 | Ausdehnende Auslegung (nächst) |
 | 1958 | BGE 84 II 179 | Fragwürdige Bestimmung; Korrektur über Art. 2 ZGB |
 | 1969 | BGE 95 II 37 | Anwendbarkeit auf Schmiergeld / Gegenleistung |
 | 1975 | BGE 101 IV 177 | Einziehung und Verfall |

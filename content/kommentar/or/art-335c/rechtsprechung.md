@@ -16,7 +16,7 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### BGE 134 III 403, E. 3.2
+### BGE 134 III 385, E. 3.2
 - **Thema**: Berechnung der Kündigungsfrist
 - **Kernaussage**: Die Kündigungsfrist ist ab dem auf den Zugang der Kündigung folgenden Tag zu berechnen. Die Kündigung wirkt auf das Ende eines Monats; die Frist muss bis zum letzten Tag eines Kalendermonats laufen.
 - **Einschlägig für**: Abs. 1
@@ -30,7 +30,7 @@ revisions:
 
 ---
 
-### BGE 125 III 340, E. 2b
+### BGE 125 III 339, E. 2b
 - **Thema**: GAV-Abweichungen und zwingendes Minimum
 - **Kernaussage**: Der Gesamtarbeitsvertrag kann die Kündigungsfristen abändern, jedoch nur unter Einhaltung des gesetzlichen Minimums. Eine Unterschreitung der Fristen ab dem zweiten Dienstjahr unter einen Monat ist auch im GAV unzulässig.
 - **Einschlägig für**: Abs. 2

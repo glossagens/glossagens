@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 64 % (Urteil B); 3 gestützt (+3 teilw.) von 7 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 1 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
@@ -34,7 +39,7 @@ revisions:
 
 ### I. Bestimmung des Umfangs bei fehlender Vereinbarung (Abs. 1)
 
-**4** **Ergänzende Auslegung.** Ist der Umfang des Auftrags nicht ausdrücklich vereinbart, so bestimmt er sich nach der **Natur des zu besorgenden Geschäftes**. Der Umfang wird ergänzend durch Auslegung ermittelt (Art. 18 OR): Massgeblich ist der übereinstimmende wirkliche Wille der Parteien, bei Fehlen eines solchen der objektive Empfängerhorizont (Vertrauenstheorie, [BGE 130 III 680](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_680) E. 3). Die «Natur des Geschäfts» ist ein unbestimmter Rechtsbegriff, der nach den Umständen des Einzelfalls zu konkretisieren ist.
+**4** **Ergänzende Auslegung.** Ist der Umfang des Auftrags nicht ausdrücklich vereinbart, so bestimmt er sich nach der **Natur des zu besorgenden Geschäftes**. Der Umfang wird ergänzend durch Auslegung ermittelt (Art. 18 OR): Massgeblich ist der übereinstimmende wirkliche Wille der Parteien, bei Fehlen eines solchen der objektive Empfängerhorizont (Vertrauenstheorie, [BGE 130 III 678](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_678) E. 3). Die «Natur des Geschäfts» ist ein unbestimmter Rechtsbegriff, der nach den Umständen des Einzelfalls zu konkretisieren ist.
 
 **5** **Beispiel: Vertretung im Steuerverfahren.** Ein Steuerpflichtiger, der auf seiner Steuererklärung schriftlich eine Vertreterin bezeichnet, bestätigt damit, dass eine entsprechende Vollmacht vorliegt. Der Auftrag berechtigt die Vertreterin dazu, sämtliche Schritte zu unternehmen, um die Interessen des Steuerpflichtigen im Steuerverfahren zu wahren, einschliesslich der Wahrung von Beschwerdefristen. Der Umfang des Auftrags bestimmt sich nach der Natur des Geschäfts — der Vertretung im Steuerverfahren — und umfasst alle Handlungen, die dazu gehören ([BGE 145 II 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_II_201) — Art. 117 Abs. 1 DBG; Art. 32 ff. OR; Art. 396 OR; Vertretung eines Steuerpflichtigen im Steuerverfahren; Pflicht des Auftragnehmers, im Rahmen eines Steuerrechtsstreits die Beschwerdefrist zu wahren).
 

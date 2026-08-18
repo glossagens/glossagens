@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 0 % (Urteil C); 0 gestützt (+0 teilw.) von 3 beurteilten Paaren (5 Paare gesamt); Wortlaut: korrekt; 2 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 
@@ -34,7 +39,7 @@ Art. 335b OR regelt die Kündigung während der Probezeit und bildet zusammen mi
 
 **Gesetzliche Probezeit**: Als gesetzliche Probezeit gilt der erste Monat eines Arbeitsverhältnisses. Das Gesetz verwendet eine absolute Frist — es handelt sich um eine *legal definition*, die von den Parteien nur im Rahmen von Abs. 2 abgeändert werden kann.
 
-**Beginn**: Die Probezeit beginnt mit dem vertraglich vereinbarten Arbeitsantritt, nicht mit der Unterzeichnung des Vertrags. Bei verspätetem Antritt beginnt die Probezeit erst mit der effektiven Aufnahme der Arbeit ([BGE 136 III 563 E. 4](https://www.bger.ch/il/public/doc/136III563)).
+**Beginn**: Die Probezeit beginnt mit dem vertraglich vereinbarten Arbeitsantritt, nicht mit der Unterzeichnung des Vertrags. Bei verspätetem Antritt beginnt die Probezeit erst mit der effektiven Aufnahme der Arbeit ([BGE 136 III 552 E. 4](https://www.bger.ch/il/public/doc/136III563)).
 
 ### III. Abweichende Vereinbarungen (Abs. 2)
 
@@ -46,7 +51,7 @@ Abs. 2 lässt drei Formen abweichender Vereinbarungen zu:
 
 **Kürzere Fristen**: Abs. 2 erlaubt auch die Verkürzung der Probezeit und der Kündigungsfrist. Eine Verkürzung der Kündigungsfrist auf null (sofortige Kündigung) ist zulässig, sofern dies schriftlich vereinbart wurde.
 
-**Unverbindlichkeit von überlangen Probezeiten**: Wird eine Probezeit von mehr als drei Monaten vereinbart, so ist die Probezeit auf drei Monate beschränkt. Die über drei Monate hinausgehende Vereinbarung entfaltet keine Rechtswirkung ([BGE 124 III 48 E. 3a](https://www.bger.ch/il/public/doc/124III48)).
+**Unverbindlichkeit von überlangen Probezeiten**: Wird eine Probezeit von mehr als drei Monaten vereinbart, so ist die Probezeit auf drei Monate beschränkt. Die über drei Monate hinausgehende Vereinbarung entfaltet keine Rechtswirkung ([BGE 124 III 44 E. 3a](https://www.bger.ch/il/public/doc/124III48)).
 
 ### IV. Verlängerung der Probezeit bei Krankheit, Unfall oder gesetzlicher Pflicht (Abs. 3)
 
@@ -64,7 +69,7 @@ Abs. 3 regelt die Verlängerung der Probezeit bei *effektiver Verkürzung* infol
 
 ### V. Kündigungsschutz während der Probezeit
 
-Während der Probezeit gelten die Kündigungsschutzbestimmungen des OR grundsätzlich nicht. Art. 336 OR (unzulässige Kündigung) ist jedoch auch während der Probezeit anwendbar — eine Kündigung aus rassistischen, sexistischen oder anderen diskriminierenden Gründen ist auch während der Probezeit unzulässig ([BGE 136 III 563 E. 3](https://www.bger.ch/il/public/doc/136III563)).
+Während der Probezeit gelten die Kündigungsschutzbestimmungen des OR grundsätzlich nicht. Art. 336 OR (unzulässige Kündigung) ist jedoch auch während der Probezeit anwendbar — eine Kündigung aus rassistischen, sexistischen oder anderen diskriminierenden Gründen ist auch während der Probezeit unzulässig ([BGE 136 III 552 E. 3](https://www.bger.ch/il/public/doc/136III563)).
 
 Art. 336b OR (Sperrfrist bei Krankheit/Unfall/Pregnanz) findet während der Probezeit **keine** Anwendung. Dies ist der wesentliche Unterschied zur Kündigung nach Ablauf der Probezeit.
 

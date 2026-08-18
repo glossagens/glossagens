@@ -106,7 +106,7 @@ revisions:
 
 ---
 
-### BGE 144 III 465 — Alkoholproblematik und fristlose Entlassung
+### BGE 144 III 452 — Alkoholproblematik und fristlose Entlassung
 
 **THEMA:** Suchtprobleme / Verwarnungspflicht / Verhältnismässigkeit
 
@@ -116,7 +116,7 @@ revisions:
 
 ---
 
-### BGE 133 III 496 — Lohnrückstand als Kündigungsgrund für den Arbeitnehmer
+### BGE 133 III 490 — Lohnrückstand als Kündigungsgrund für den Arbeitnehmer
 
 **THEMA:** Nichtbezahlung des Lohns / Arbeitnehmerkündigung
 
@@ -126,7 +126,7 @@ revisions:
 
 ---
 
-### BGE 147 III 257 — Krankheit und fristlose Kündigung
+### BGE 147 III 249 — Krankheit und fristlose Kündigung
 
 **THEMA:** Unverschuldete Verhinderung / kantonales Recht
 

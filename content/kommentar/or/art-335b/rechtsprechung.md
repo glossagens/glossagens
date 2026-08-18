@@ -16,14 +16,14 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### BGE 136 III 563, E. 3–4
+### BGE 136 III 552, E. 3–4
 - **Thema**: Unzulässige Kündigung während Probezeit; Beginn der Probezeit
 - **Kernaussage**: Art. 336 OR (unzulässige Kündigung) gilt auch während der Probezeit. Die Probezeit beginnt mit dem vertraglich vereinbarten Arbeitsantritt.
 - **Einschlägig für**: Abs. 1, Art. 336 OR
 
 ---
 
-### BGE 124 III 48, E. 3a
+### BGE 124 III 44, E. 3a
 - **Thema**: Maximale Dauer der Probezeit
 - **Kernaussage**: Eine vereinbarte Probezeit von mehr als drei Monaten ist insoweit nichtig, als sie die gesetzliche Höchstdauer übersteigt. Die Probezeit ist auf drei Monate beschränkt.
 - **Einschlägig für**: Abs. 2

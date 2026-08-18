@@ -77,12 +77,12 @@ revisions:
 
 ## V. Arbeitsverweigerung und Sanktionen
 
-### BGE 141 III 329, E. 4
+### BGE 141 III 302, E. 4
 - **Thema**: Arbeitsverweigerung als vertragswidriges Verhalten
 - **Kernaussage**: Die unberechtigte Arbeitsverweigerung ist ein vertragswidriges Verhalten, das den Arbeitgeber zur Anordnung von Disziplinarmassnahmen oder im schweren Fall zur fristlosen Entlassung berechtigt. Ein wichtiger Grund im Sinne von Art. 337 OR liegt vor, wenn die Arbeitsverweigerung den Arbeitsvertrag für den Arbeitgeber nicht mehr zumutbar macht.
 - **Einschlägig für**: Art. 321 i.V.m. Art. 337 OR
 
-### BGE 137 III 262, E. 4
+### BGE 137 III 255, E. 4
 - **Thema**: Krankheit und persönliche Leistungspflicht
 - **Kernaussage**: Bei krankheitsbedingter Arbeitsunfähigkeit entfällt die persönliche Leistungspflicht nach Art. 321 OR nicht vollständig. Der Arbeitnehmer ist verpflichtet, die Arbeitsunfähigkeit nachzuweisen und den Arbeitgeber zu informieren. Bei dauerhafter Arbeitsunfähigkeit kann der Arbeitgeber das Arbeitsverhältnis kündigen.
 - **Einschlägig für**: Art. 321 OR (Arbeitsunfähigkeit, Krankheit)
