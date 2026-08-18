@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 337 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-08-18
 description: "Wichtige Entscheide zu Art. 337 OR – Fristlose Kündigung aus wichtigem Grund"
 tags: ["OR", "Arbeitsrecht", "fristlose Kündigung", "wichtiger Grund", "Treu und Glauben"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 9 gestützt (+0 teilw.) von 9 beurteilten Paaren (12 Paare gesamt); Wortlaut: korrekt; 3 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Rechtsprechung zu Art. 337 OR

@@ -2,29 +2,40 @@
 title: "Art. 336 — Missbräuchliche Kündigung"
 weight: 336
 date: 2026-05-23
-lastmod: 2026-06-19
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 336 OR – Missbräuchliche Kündigung des Arbeitsvertrags, Tatbestände und Rechtsfolgen"
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 12 gestützt (+0 teilw.) von 12 beurteilten Paaren (12 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
-## Gesetzestext
+## Gesetzeswortlaut
 
-> **Art. 336 OR — Missbräuchliche Kündigung**
+> **Art. 336 OR — Missbräuchliche Kündigung / Grundsatz**
 >
-> 1 Die Kündigung eines Arbeitsverhältnisses ist missbräuchlich, wenn eine Partei sie ausspricht:
->    a. wegen einer Eigenschaft, die der anderen Partei kraft ihrer Persönlichkeit zusteht, es sei denn, diese Eigenschaft stehe in einem Zusammenhang mit dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
->    b. weil die andere Partei ein verfassungsmässiges Recht ausübt, es sei denn, die Rechtsausübung verletze eine Pflicht aus dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
->    c. ausschliesslich um die Entstehung von Ansprüchen der anderen Partei aus dem Arbeitsverhältnis zu vereiteln;
->    d. weil die andere Partei nach Treu und Glauben Ansprüche aus dem Arbeitsverhältnis geltend macht;
->    e. weil die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet oder eine nicht freiwillig übernommene gesetzliche Pflicht erfüllt.
+> ¹ Die Kündigung eines Arbeitsverhältnisses ist missbräuchlich, wenn eine Partei sie ausspricht:
+> a. wegen einer Eigenschaft, die der anderen Partei kraft ihrer Persönlichkeit zusteht, es sei denn, diese Eigenschaft stehe in einem Zusammenhang mit dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
+> b. weil die andere Partei ein verfassungsmässiges Recht ausübt, es sei denn, die Rechtsausübung verletze eine Pflicht aus dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
+> c. ausschliesslich um die Entstehung von Ansprüchen der anderen Partei aus dem Arbeitsverhältnis zu vereiteln;
+> d. weil die andere Partei nach Treu und Glauben Ansprüche aus dem Arbeitsverhältnis geltend macht;
+> e. weil die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet oder eine nicht freiwillig übernommene gesetzliche Pflicht erfüllt.
 >
-> 2 Die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber ist im Weiteren missbräuchlich, wenn sie ausgesprochen wird:
->    a. weil der Arbeitnehmer einem Arbeitnehmerverband angehört oder nicht angehört oder weil er eine gewerkschaftliche Tätigkeit rechtmässig ausübt;
->    b. während der Arbeitnehmer gewählter Arbeitnehmervertreter in einer betrieblichen oder in einer dem Unternehmen angeschlossenen Einrichtung ist, und der Arbeitgeber nicht beweisen kann, dass er einen begründeten Anlass zur Kündigung hatte;
->    c. im Rahmen einer Massenentlassung, ohne dass die Arbeitnehmervertretung oder, falls es keine solche gibt, die Arbeitnehmer, konsultiert worden sind (Art. 335f).
+> ² Die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber ist im Weiteren missbräuchlich, wenn sie ausgesprochen wird:
+> a. weil der Arbeitnehmer einem Arbeitnehmerverband angehört oder nicht angehört oder weil er eine gewerkschaftliche Tätigkeit rechtmässig ausübt;
+> b. während der Arbeitnehmer gewählter Arbeitnehmervertreter in einer betrieblichen oder in einer dem Unternehmen angeschlossenen Einrichtung ist, und der Arbeitgeber nicht beweisen kann, dass er einen begründeten Anlass zur Kündigung hatte;
+> c. im Rahmen einer Massenentlassung, ohne dass die Arbeitnehmervertretung oder, falls es keine solche gibt, die Arbeitnehmer, konsultiert worden sind (Art. 335f).
 >
-> 3 Der Schutz eines Arbeitnehmervertreters nach Absatz 2 Buchstabe b, dessen Mandat infolge Übergangs des Arbeitsverhältnisses endet (Art. 333), besteht so lange weiter, als das Mandat gedauert hätte, falls das Arbeitsverhältnis nicht übertragen worden wäre.
+> ³ Der Schutz eines Arbeitnehmervertreters nach Absatz 2 Buchstabe b, dessen Mandat infolge Übergangs des Arbeitsverhältnisses endet (Art. 333), besteht so lange weiter, als das Mandat gedauert hätte, falls das Arbeitsverhältnis nicht übertragen worden wäre.
 
 ## Kommentierung
 

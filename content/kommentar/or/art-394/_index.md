@@ -2,10 +2,16 @@
 title: "Art. 394 — Begriff des Auftrags; Vergütung"
 weight: 394
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 394 OR — Begriff des Auftrags, Auffangfunktion, Vergütungspflicht, Abgrenzung zu Werkvertrag und Mäklervertrag"
 tags: ["OR", "Auftragsrecht", "Vergütung", "Arztvertrag", "Architektenvertrag", "Anwaltshonorar"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 57 % (Urteil B); 7 gestützt (+9 teilw.) von 20 beurteilten Paaren (21 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

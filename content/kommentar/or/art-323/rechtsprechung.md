@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 323 OR"
 weight: 99
 date: 2026-07-22
-lastmod: "2026-08-10"
+lastmod: 2026-08-18
 description: "Übersicht der verifizierten Entscheide zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Mindestlohn, Globalberechnung vs. Monatsberechnung"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 16 % (Urteil C); 3 gestützt (+4 teilw.) von 31 beurteilten Paaren (31 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

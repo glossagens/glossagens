@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 41 OR — Haftpflicht aus unerlaubter Handlung"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-08-14
+lastmod: 2026-08-18
 description: "Übersicht der wichtigen Entscheide zu Art. 41 OR: Allgemeine Deliktshaftung, Widerrechtlichkeit, Sittenwidrigkeitshaftung."
 tags: ["Rechtsprechung", "Haftpflicht", "Delikt", "OR"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 7 gestützt (+14 teilw.) von 25 beurteilten Paaren (25 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"

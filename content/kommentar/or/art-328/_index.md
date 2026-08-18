@@ -2,19 +2,30 @@
 title: "Art. 328 — Persönlichkeitsschutz und Gesundheitsschutz"
 weight: 328
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 328 OR: Fürsorgepflicht des Arbeitgebers, Persönlichkeitsschutz, Gesundheitsschutz, Schutz vor sexueller Belästigung"
 tags: ["OR", "Arbeitsrecht", "Persönlichkeitsschutz", "Fürsorgepflicht", "Gesundheitsschutz", "sexuelle Belästigung", "Mobbing", "Arbeitgeberpflichten"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 7 gestützt (+15 teilw.) von 26 beurteilten Paaren (28 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 3 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 328** Persönlichkeitsschutz und Gesundheitsschutz
+> **Art. 328 OR — Schutz der Persönlichkeit des Arbeitnehmers / Im Allgemeinen**
 >
-> 1 Der Arbeitgeber hat im Arbeitsverhältnis die Persönlichkeit des Arbeitnehmers zu achten und zu schützen, auf dessen Gesundheit gebührend Rücksicht zu nehmen und für die Wahrung der Sittlichkeit zu sorgen. Er muss insbesondere dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden und dass den Opfern von sexuellen Belästigungen keine weiteren Nachteile entstehen.
+> ¹ Der Arbeitgeber hat im Arbeitsverhältnis die Persönlichkeit des Arbeitnehmers zu achten und zu schützen, auf dessen Gesundheit gebührend Rücksicht zu nehmen und für die Wahrung der Sittlichkeit zu sorgen. Er muss insbesondere dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden und dass den Opfern von sexuellen Belästigungen keine weiteren Nachteile entstehen.
 >
-> 2 Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes angemessen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhältnis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
+> ² Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes angemessen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhältnis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
 
 ## Kommentierung
 

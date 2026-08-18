@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 97 OR"
 weight: 99
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 97 OR — Schadensersatz bei Nicht- oder Schlechterfüllung, Schadensberechnung bei Anlageberatung, Verzugs- und Schadenszins, Arztvertrag und Sterilisationsfehler, Architektenvertrag."
 tags: ["Rechtsprechung", "OR", "Schadensersatz", "Nichterfüllung", "Anlageberatung", "Verzugszins", "Arztvertrag"]
 agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 66 % (Urteil B); 16 gestützt (+14 teilw.) von 35 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"

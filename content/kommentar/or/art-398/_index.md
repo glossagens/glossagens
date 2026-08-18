@@ -2,10 +2,16 @@
 title: "Art. 398 — Sorgfaltspflicht und persönliche Besorgung"
 weight: 398
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 398 OR — Sorgfaltsmassstab des Beauftragten, Treuepflicht, persönliche Besorgung, Anwaltshaftung, Arzthaftung, Architektenhaftung, Vermögensverwalterhaftung"
 tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "Treuepflicht", "Anwaltshaftung", "Arzthaftung", "Architektenhaftung", "Churning", "Persönliche Besorgung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 29 % (Urteil C); 2 gestützt (+7 teilw.) von 19 beurteilten Paaren (20 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

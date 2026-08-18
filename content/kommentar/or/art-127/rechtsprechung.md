@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 127 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 127 OR – Zehnjährige Verjährungsfrist"
 tags: ["Rechtsprechung", "OR", "Verjährung", "zehnjährig"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 39 % (Urteil C); 6 gestützt (+14 teilw.) von 33 beurteilten Paaren (33 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

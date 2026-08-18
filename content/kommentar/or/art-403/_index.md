@@ -2,10 +2,16 @@
 title: "Art. 403 — Solidarhaftung bei Mitbeauftragten"
 weight: 403
 date: 2026-06-27
-lastmod: "2026-08-10"
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 403 OR — Solidarhaftung mehrerer Auftraggeber (Abs. 1), Solidarhaftung und gemeinschaftliches Handeln mehrerer Beauftragter (Abs. 2), Innenverhältnis, Gesamtschuldnerschaft"
 tags: ["OR", "Auftragsrecht", "Solidarhaftung", "Gesamtschuldnerschaft", "Mitbeauftragte", "Innenverhältnis", "Gesamtgläubigerschaft"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 0 gestützt (+1 teilw.) von 4 beurteilten Paaren (5 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

@@ -2,10 +2,16 @@
 title: "Art. 396 — Umfang des Auftrags"
 weight: 396
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 396 OR — Umfang des Auftrags: ergänzende Auslegung, implizite Ermächtigung zu Rechtshandlungen, besondere Ermächtigung für Vergleich, Schiedsgericht, Wechsel, Grundstücke, Schenkungen"
 tags: ["OR", "Auftragsrecht", "Vollmacht", "Ermächtigung", "Vergleich", "Schiedsgericht", "Grundstückgeschäfte"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 64 % (Urteil B); 3 gestützt (+3 teilw.) von 7 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 1 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

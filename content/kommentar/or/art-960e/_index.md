@@ -2,11 +2,21 @@
 title: "Art. 960e — Rückstellungen"
 weight: 960
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 960e OR: Rückstellungen (Verbindlichkeiten zum Nennwert, Bildungspflicht bei drohendem Mittelabfluss, Garantieverpflichtungen, Sanierungen, Restrukturierungen, Gesamtrisiko bei Grossprojekten, Auflösung nicht mehr begründeter Rückstellungen)."
 tags: ["OR", "Rückstellungen", "Buchhaltung", "Rechnungslegung", "Garantieverpflichtungen", "Gesamtrisiko", "Wahrscheinlichkeitsrechnung", "Steuerrecht", "STHG"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 16 gestützt (+16 teilw.) von 43 beurteilten Paaren (55 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,20 +28,19 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 960e**
+> **Art. 960e OR — Verbindlichkeiten und Rückstellungen**
 >
-> **1** Verbindlichkeiten müssen zum Nennwert eingesetzt werden.
+> ¹ Verbindlichkeiten müssen zum Nennwert eingesetzt werden.
 >
-> **2** Lassen vergangene Ereignisse einen Mittelabfluss in künftigen Geschäftsjahren erwarten, so müssen die voraussichtlich erforderlichen Rückstellungen zulasten der Erfolgsrechnung gebildet werden.
+> ² Lassen vergangene Ereignisse einen Mittelabfluss in künftigen Geschäftsjahren erwarten, so müssen die voraussichtlich erforderlichen Rückstellungen zulasten der Erfolgsrechnung gebildet werden.
 >
-> **3** Rückstellungen dürfen zudem insbesondere gebildet werden für:
+> ³ Rückstellungen dürfen zudem insbesondere gebildet werden für:
+> 1. regelmässig anfallende Aufwendungen aus Garantieverpflichtungen;
+> 2. Sanierungen von Sachanlagen;
+> 3. Restrukturierungen;
+> 4. die Sicherung des dauernden Gedeihens des Unternehmens.
 >
-> **1.** regelmässig anfallende Aufwendungen aus Garantieverpflichtungen;
-> **2.** Sanierungen von Sachanlagen;
-> **3.** Restrukturierungen;
-> **4.** die Sicherung des dauernden Gedeihens des Unternehmens.
->
-> **4** Nicht mehr begründete Rückstellungen müssen nicht aufgelöst werden.
+> ⁴ Nicht mehr begründete Rückstellungen müssen nicht aufgelöst werden.
 
 *Konsolidierungsstand: 01.01.2026 (Fedlex, SR 220).*
 

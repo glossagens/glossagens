@@ -2,21 +2,36 @@
 title: "Art. 802 — Auskunft und Einsicht"
 weight: 802
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 802 OR: Auskunfts- und Einsichtsrecht von GmbH-Gesellschaftern, Umfang von Geschäftsbüchern und Akten, legitimes Interesse bei Revision, extensive Auslegung."
 tags: ["OR", "GmbH-Recht", "Auskunftsrecht", "Einsichtsrecht", "Gesellschafter", "Gesellschaftsrecht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 26 % (Urteil C); 6 gestützt (+3 teilw.) von 29 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 # Art. 802 OR
 
 ## Gesetzeswortlaut
 
-> **Art. 802 OR (Auskunftsrecht) und Einsicht**
+> **Art. 802 OR — Rechte und Pflichten der Gesellschafter / Auskunft und Einsicht**
 >
-> **1** Jeder Gesellschafter kann von den Geschäftsführern Auskunft über alle Angelegenheiten der Gesellschaft verlangen.
+> ¹ Jeder Gesellschafter kann von den Geschäftsführern Auskunft über alle Angelegenheiten der Gesellschaft verlangen.
 >
-> **2** Hat die Gesellschaft kein Revisionsorgan, so kann jeder Gesellschafter die Bücher und Akten ohne Einschränkung einsehen; hat sie ein Revisionsorgan, so wird das Einsichtsrecht nur insoweit gewährt, als ein legitimes Interesse dargelegt wird.
+> ² Hat die Gesellschaft keine Revisionsstelle, so kann jeder Gesellschafter in die Geschäftsbücher und Akten uneingeschränkt Einsicht nehmen. Hat sie eine Revisionsstelle, so besteht ein Recht zur Einsichtnahme nur, soweit ein berechtigtes Interesse glaubhaft gemacht wird.
+>
+> ³ Besteht Gefahr, dass der Gesellschafter die erlangten Kenntnisse zum Schaden der Gesellschaft für gesellschaftsfremde Zwecke verwendet, so können die Geschäftsführer die Auskunft und die Einsichtnahme im erforderlichen Umfang verweigern; auf Antrag des Gesellschafters entscheidet die Gesellschafterversammlung.
+>
+> ⁴ Verweigert die Gesellschafterversammlung die Auskunft oder die Einsicht ungerechtfertigterweise, so ordnet sie das Gericht auf Antrag des Gesellschafters an.
 
 ## Kommentierung
 

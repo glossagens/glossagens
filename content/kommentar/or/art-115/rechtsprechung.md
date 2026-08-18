@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 115 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-07-17
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 115 OR – Aufhebungsvertrag"
 tags: ["Rechtsprechung", "OR", "Aufhebungsvertrag", "Schuldrecht"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 2 gestützt (+0 teilw.) von 2 beurteilten Paaren (2 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

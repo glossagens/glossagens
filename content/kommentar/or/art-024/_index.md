@@ -2,11 +2,16 @@
 title: "Art. 24 — Wesentlicher Irrtum"
 weight: 24
 date: 2026-05-23
-lastmod: 2026-07-31
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 24 OR – Wesentlicher Irrtum bei der Willenserklärung"
 tags: ["OR", "Willensmangel", "Irrtum", "Anfechtung", "Grundlagenirrtum"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 70 % (Urteil B); 11 gestützt (+10 teilw.) von 23 beurteilten Paaren (25 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

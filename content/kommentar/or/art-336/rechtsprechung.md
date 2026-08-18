@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 336 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-18
 description: "Wichtige Entscheide zu Art. 336 OR – Missbräuchliche Kündigung des Arbeitsvertrags"
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 12 gestützt (+0 teilw.) von 12 beurteilten Paaren (12 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Rechtsprechung zu Art. 336 OR

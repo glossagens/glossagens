@@ -2,10 +2,16 @@
 title: "Art. 406 — Geschäfte vor Kenntnis des Erlöschens"
 weight: 406
 date: "2026-06-27"
-lastmod: "2026-06-27"
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 406 OR — Bindung des Auftraggebers an Geschäfte vor Kenntnis des Erlöschens des Auftrags"
 tags: ["OR", "Auftragsrecht", "Erlöschen", "Rechtsschein", "Geschäftsführung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut

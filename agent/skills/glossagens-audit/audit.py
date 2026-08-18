@@ -44,7 +44,7 @@ import urllib.request
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
-PARSER_VERSION = 9
+PARSER_VERSION = 10
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
 
@@ -78,10 +78,9 @@ E_CLAIM = re.compile(r"^\s*[-*]?\s*\*\*E\.\s*(\d+(?:\.\d+)*)\*\*\s*:?\s*(.+)$", 
 REGESTE_NORMKETTE = re.compile(
     r"^(?:Art\.\s*[\d\w]+[^.;]*?[.;]\s*)+(?=[A-ZÄÖÜ])"
 )
-# Fedlex setzt Änderungsvermerke mitten in den Normsatz — vor dem Textvergleich raus.
 FEDLEX_FUSSNOTE = re.compile(
-    r"(Fassung gemäss|Eingefügt durch|Aufgehoben durch|Ursprünglich)\b.*?"
-    r"\(\s*(AS|RO|FF|BBl)\b.*?\)\s*\.?",
+    r"(?:Fassung gemäss|Eingefügt durch|Aufgehoben durch|Ursprünglich|Berichtigt von|Zweiter Satz eingefügt durch|Dritter Satz eingefügt durch)\b.*?"
+    r"(?:AS|RO|FF|BBl)\s+\d{4}\s+[^.)]*\)?\s*\.?",
     re.IGNORECASE | re.DOTALL,
 )
 PINPOINT = re.compile(r"\b(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)")
@@ -201,7 +200,7 @@ class Mcp:
 
 
 def norm(s):
-    """Für Textvergleiche: Unicode, Anführungs-/Gedankenstriche, Whitespace."""
+    """Für Textvergleiche: Unicode, Anführungs-/Gedankenstriche, Whitespace, Interpunktion."""
     s = unicodedata.normalize("NFKC", s)
     for a, b in [
         ("«", '"'), ("»", '"'), ("„", '"'), ("“", '"'), ("”", '"'),
@@ -209,6 +208,10 @@ def norm(s):
     ]:
         s = s.replace(a, b)
     s = re.sub(r"\*+|_+|`+", "", s)          # Markdown-Auszeichnung
+    s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
+    s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
+    s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s) # "329 g" -> "329g", "257 d" -> "257d"
+    s = re.sub(r"\berforder\s+lichen\b", "erforderlichen", s) # OCR-Split-Fix
     s = re.sub(r"\s+", " ", s)
     return s.strip().lower()
 

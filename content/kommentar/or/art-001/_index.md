@@ -2,17 +2,30 @@
 title: "Art. 1 OR — Vertragsschluss"
 weight: 1
 date: 2026-05-23
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 1 OR: Übereinstimmende gegenseitige Willensäusserung als Grundlage des Vertragsschlusses; Konsens; ausdrückliche und stillschweigende Willensäusserung"
 tags: ["OR", "Vertragsrecht", "Konsens", "Willensäusserung", "Vertragsschluss", "AGB", "Konkludentes Handeln", "Vertrauenstheorie", "Dissens"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 55 % (Urteil B); 13 gestützt (+22 teilw.) von 44 beurteilten Paaren (52 Paare gesamt); Wortlaut: unvollstaendig; 2 nicht existente Referenzen, 4 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
+> **Art. 1 OR — Abschluss des Vertrages / Übereinstimmende Willensäusserung**
 >
-> **2** Sie kann eine ausdrückliche oder stillschweigende sein.
+> ¹ Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
+>
+> ² Sie kann eine ausdrückliche oder stillschweigende sein.
 
 ## Vorbemerkungen
 

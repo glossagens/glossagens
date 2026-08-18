@@ -2,10 +2,16 @@
 title: "Art. 266a — Kündigungsfristen bei unbefristeten Mietverhältnissen"
 weight: 266
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 266a OR – Kündigungsfristen und Termine bei unbefristeten Mietverhältnissen"
 tags: ["OR", "Mietrecht", "Kündigung", "Mietvertrag", "Kündigungsfrist", "Kündigungstermin", "Mietrechtsschutz"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut

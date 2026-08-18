@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 802 OR"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 802 OR — Auskunfts- und Einsichtsrecht von GmbH-Gesellschaftern"
 tags: ["Rechtsprechung", "OR", "GmbH-Recht", "Auskunftsrecht", "Einsichtsrecht", "Gesellschafter"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 26 % (Urteil C); 6 gestützt (+3 teilw.) von 29 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 # Rechtsprechung zu Art. 802 OR

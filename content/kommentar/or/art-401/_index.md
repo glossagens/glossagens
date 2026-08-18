@@ -2,10 +2,16 @@
 title: "Art. 401 — Forderungs- und Sachenübergang bei Konkurs"
 weight: 401
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 401 OR — Legalzession von Forderungen, Aussonderungsrecht im Konkurs des Beauftragten, Treuhand, fiduziarische Verhältnisse, gesellschaftsrechtliche Mitwirkungsrechte, Verrechnungsverbot"
 tags: ["OR", "Auftragsrecht", "Konkurs", "Legalzession", "Treuhand", "Aussonderung", "Fiduziar", "Verrechnungsverbot"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 62 % (Urteil B); 5 gestützt (+5 teilw.) von 12 beurteilten Paaren (12 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

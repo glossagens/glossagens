@@ -2,11 +2,21 @@
 title: "Art. 97 — Schadensersatz bei Nichterfüllung"
 weight: 97
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 97 OR — Schadensersatz bei Nicht- oder Schlechterfüllung (Abs. 1: Verschuldenshaftung mit Beweislastumkehr zugunsten des Gläubigers; Abs. 2: Verweisung auf SchKG und ZPO für die Vollstreckung)."
 tags: ["OR", "Schadensersatz", "Nichterfüllung", "Schlechterfüllung", "Verschulden", "Beweislast", "Vertragsverletzung"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 66 % (Urteil B); 16 gestützt (+14 teilw.) von 35 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,11 +28,11 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 97**
+> **Art. 97 OR — Nichterfüllung / Im Allgemeinen**
 >
-> **1** Kann die Erfüllung der Verbindlichkeit überhaupt nicht oder nicht gehörig bewirkt werden, so hat der Schuldner für den daraus entstehenden Schaden Ersatz zu leisten, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.
+> ¹ Kann die Erfüllung der Verbindlichkeit überhaupt nicht oder nicht gehörig bewirkt werden, so hat der Schuldner für den daraus entstehenden Schaden Ersatz zu leisten, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.
 >
-> **2** Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes vom 11. April 1889 SR 281.1 über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung vom 19. Dezember 2008 SR 272 (ZPO). Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).
+> ² Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung vom 19. Dezember 2008 (ZPO).
 
 *Konsolidierungsstand: 01.01.2026 (Fedlex, SR 220).*
 

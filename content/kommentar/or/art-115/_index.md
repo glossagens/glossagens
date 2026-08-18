@@ -2,10 +2,16 @@
 title: "Art. 115 — Aufhebungsvertrag"
 weight: 115
 date: 2026-05-23
-lastmod: 2026-07-17
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 115 OR – Formloser Aufhebungsvertrag, Schutzgrenzen im Arbeitsrecht, Anfechtung und Abgrenzung zur Kündigung"
 tags: ["OR", "Aufhebungsvertrag", "Schuldrecht", "Vertragsrecht", "Arbeitsrecht", "Anfechtung", "Erlassvertrag"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 2 gestützt (+0 teilw.) von 2 beurteilten Paaren (2 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzestext

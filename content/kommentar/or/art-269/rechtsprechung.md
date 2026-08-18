@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 269 OR"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-06-06
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 269 OR – Missbräuchlicher Mietzins"
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Nettoertragsmethode"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 41 % (Urteil C); 1 gestützt (+11 teilw.) von 16 beurteilten Paaren (17 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

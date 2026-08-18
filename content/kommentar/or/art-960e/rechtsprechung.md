@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 960e OR"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 960e OR — Rückstellungen, Garantieverpflichtungen, Gesamtrisiko bei Grossprojekten, geschäftsmässige Begründetheit, steuerliche Massgeblichkeit."
 tags: ["Rechtsprechung", "OR", "Rückstellungen", "Rechnungslegung", "Garantieverpflichtungen", "Gesamtrisiko", "Steuerrecht"]
 agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 16 gestützt (+16 teilw.) von 43 beurteilten Paaren (55 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"

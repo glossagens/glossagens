@@ -2,19 +2,32 @@
 title: "Art. 335c — nach Ablauf der Probezeit"
 weight: 335
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 335c OR – Kündigung nach Ablauf der Probezeit: gestaffelte Kündigungsfristen, Abänderbarkeit, Verlängerung bei Elternurlaub"
 tags: ["OR", "Kündigungsfrist", "Kündigung", "Arbeitsvertrag", "Elternurlaub"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 0 % (Urteil C); 0 gestützt (+0 teilw.) von 4 beurteilten Paaren (6 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 2 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Das Arbeitsverhältnis kann im ersten Dienstjahr mit einer Kündigungsfrist von einem Monat, im zweiten bis und mit dem neunten Dienstjahr mit einer Frist von zwei Monaten und nachher mit einer Frist von drei Monaten je auf das Ende eines Monats gekündigt werden.
+> **Art. 335c OR — Kündigungsfristen / Nach Ablauf der Probezeit**
 >
-> **2** Diese Fristen dürfen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag abgeändert werden; unter einen Monat dürfen sie jedoch nur durch Gesamtarbeitsvertrag und nur für das erste Dienstjahr herabgesetzt werden.
+> ¹ Das Arbeitsverhältnis kann im ersten Dienstjahr mit einer Kündigungsfrist von einem Monat, im zweiten bis und mit dem neunten Dienstjahr mit einer Frist von zwei Monaten und nachher mit einer Frist von drei Monaten je auf das Ende eines Monats gekündigt werden.
 >
-> **3** Kündigt der Arbeitgeber das Arbeitsverhältnis und hat die Arbeitnehmerin oder der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf den Urlaub des andern Elternteils nach Artikel 329g, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+> ² Diese Fristen dürfen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag abgeändert werden; unter einen Monat dürfen sie jedoch nur durch Gesamtarbeitsvertrag und nur für das erste Dienstjahr herabgesetzt werden.
+>
+> ³ Kündigt der Arbeitgeber das Arbeitsverhältnis und hat die Arbeitnehmerin oder der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf den Urlaub des andern Elternteils nach Artikel 329g, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
 
 ## Kommentierung
 

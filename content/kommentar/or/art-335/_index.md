@@ -2,10 +2,16 @@
 title: "Art. 335 — Kündigung des unbefristeten Arbeitsverhältnisses"
 weight: 335
 date: 2026-06-06
-lastmod: 2026-07-17
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 335 OR – Kündigungsrecht, Begründungspflicht, Änderungskündigung und Aufhebungsvertrag beim unbefristeten Arbeitsverhältnis"
 tags: ["OR", "Arbeitsrecht", "Kündigung", "Begründungspflicht", "Gestaltungsrecht", "Änderungskündigung", "Aufhebungsvertrag"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 75 % (Urteil B); 10 gestützt (+1 teilw.) von 14 beurteilten Paaren (15 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

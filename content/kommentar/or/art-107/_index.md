@@ -2,10 +2,16 @@
 title: "Art. 107 — Nachfristsetzung bei Schuldnerverzug"
 weight: 107
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 107 OR — Nachfristsetzung bei Schuldnerverzug in zweiseitigen Verträgen; Wahlrecht des Gläubigers bei fruchtlosem Fristablauf"
 tags: ["OR", "Verzug", "Nachfrist", "Rücktritt", "Schadenersatz", "zweiseitiger Vertrag"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 61 % (Urteil B); 30 gestützt (+25 teilw.) von 70 beurteilten Paaren (73 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

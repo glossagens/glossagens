@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 66 OR"
 weight: 66
 date: 2026-05-24
-lastmod: 2026-08-14
+lastmod: 2026-08-18
 description: "Massgebliche Bundesgerichtspraxis zu Art. 66 OR — condictio ob causam turpem, Gaunerlohn, Rückforderungsausschluss bei sittenwidrigen Leistungen"
 tags: ["OR", "condictio ob turpem", "Gaunerlohn", "Rückforderungsausschluss", "Sittenwidrigkeit"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 60 % (Urteil B); 18 gestützt (+11 teilw.) von 39 beurteilten Paaren (53 Paare gesamt); Wortlaut: korrekt; 4 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"

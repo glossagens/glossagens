@@ -2,11 +2,21 @@
 title: "Art. 368 — Mängel des Werkes"
 weight: 368
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 368 OR — Mängel des Werkes im Werkvertrag: Abs. 1 Verweigerung bei erheblichen Mängeln und Schadenersatz bei Verschulden; Abs. 2 Minderwertabzug oder unentgeltliche Verbesserung bei minder erheblichen Mängeln; Abs. 2bis Unwirksamkeit des Vorausverzichts auf Verbesserung bei Baute (rev. 2026); Abs. 3 Beschränkung bei unbeweglichen Werken. Rechtsprechung zur Verbesserungspflicht, Ersatzvornahme, Stockwerkeigentum."
 tags: ["OR", "Werkvertrag", "Mängel", "Sachgewährleistung", "Verbesserung", "Minderwert", "Baumängel", "Ersatzvornahme", "Schadenersatz"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 46 % (Urteil C); 5 gestützt (+14 teilw.) von 26 beurteilten Paaren (34 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,15 +28,15 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 368**
+> **Art. 368 OR — Haftung für Mängel / Rechte des Bestellers**
 >
-> **1** Leidet das Werk an so erheblichen Mängeln oder weicht es sonst so sehr vom Vertrage ab, dass es für den Besteller unbrauchbar ist oder dass ihm die Annahme billigerweise nicht zugemutet werden kann, so darf er diese verweigern und bei Verschulden des Unternehmers Schadenersatz fordern.
+> ¹ Leidet das Werk an so erheblichen Mängeln oder weicht es sonst so sehr vom Vertrage ab, dass es für den Besteller unbrauchbar ist oder dass ihm die Annahme billigerweise nicht zugemutet werden kann, so darf er diese verweigern und bei Verschulden des Unternehmers Schadenersatz fordern.
 >
-> **2** Sind die Mängel oder die Abweichungen vom Vertrage minder erheblich, so kann der Besteller einen dem Minderwerte des Werkes entsprechenden Abzug am Lohne machen oder auch, sofern dieses dem Unternehmer nicht übermässige Kosten verursacht, die unentgeltliche Verbesserung des Werkes und bei Verschulden Schadenersatz verlangen. Im Falle der unentgeltlichen Verbesserung gilt Artikel 366 Absatz 2 sinngemäss. *(Zweiter Satz eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026; AS 2025 270; BBl 2022 2743.)*
+> ² Sind die Mängel oder die Abweichungen vom Vertrage minder erheblich, so kann der Besteller einen dem Minderwerte des Werkes entsprechenden Abzug am Lohne machen oder auch, sofern dieses dem Unternehmer nicht übermässige Kosten verursacht, die unentgeltliche Verbesserung des Werkes und bei Verschulden Schadenersatz verlangen. Im Falle der unentgeltlichen Verbesserung gilt Artikel 366 Absatz 2 sinngemäss.
 >
-> **2bis** Eine zum Voraus getroffene Verabredung, wonach der Anspruch auf unentgeltliche Verbesserung eingeschränkt oder ausgeschlossen wird, ist ungültig, wenn der Mangel eine Baute betrifft. *(Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026; AS 2025 270; BBl 2022 2743.)*
+> ²bis Eine zum Voraus getroffene Verabredung, wonach der Anspruch auf unentgeltliche Verbesserung eingeschränkt oder ausgeschlossen wird, ist ungültig, wenn der Mangel eine Baute betrifft.
 >
-> **3** Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können, stehen dem Besteller nur die im zweiten Absatz dieses Artikels genannten Rechte zu.
+> ³ Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können, stehen dem Besteller nur die im zweiten Absatz dieses Artikels genannten Rechte zu.
 
 *Konsolidierungsstand: 01.07.2026 (Fedlex, SR 220); Art. 368 Abs. 2 Satz 2 und Abs. 2bis neu per 1. Januar 2026 (BG vom 20. Dez. 2024, Baumängelrevision).*
 

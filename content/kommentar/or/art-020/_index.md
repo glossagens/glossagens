@@ -2,11 +2,16 @@
 title: "Art. 20 OR — Nichtigkeit bei unmöglichem, widerrechtlichem oder sittenwidrigem Inhalt"
 weight: 20
 date: "2026-07-17"
-lastmod: "2026-08-09"
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 20 OR: Nichtigkeit von Verträgen mit unmöglichem, widerrechtlichem oder sittenwidrigem Inhalt; Teilnichtigkeit (Abs. 2); Rückabwicklung nichtiger Verträge; Abgrenzung zu Art. 19, 21 OR."
 tags: ["OR", "Vertragsrecht", "Nichtigkeit", "Sittenwidrigkeit", "Widerrechtlichkeit", "Unmöglichkeit", "Teilnichtigkeit", "gute Sitten", "Rückabwicklung", "Bereicherung", "AGB", "Konventionalstrafe"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 68 % (Urteil B); 25 gestützt (+25 teilw.) von 55 beurteilten Paaren (55 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"

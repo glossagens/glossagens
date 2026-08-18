@@ -2,10 +2,16 @@
 title: "Art. 397 — Weisungen des Auftraggebers"
 weight: 397
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 397 OR — Bindung des Beauftragten an Weisungen, Abweichung in Notfällen, unbefugte Abweichung, Sorgfaltspflicht bei unzweckmässigen Weisungen"
 tags: ["OR", "Auftragsrecht", "Weisungen", "Abweichung", "Sorgfaltspflicht", "Geldüberweisung", "Anwaltspflichten"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 gestützt (+3 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

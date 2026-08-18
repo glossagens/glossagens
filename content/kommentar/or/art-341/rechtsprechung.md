@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 341 OR"
 weight: 99
 date: 2026-05-23
-lastmod: "2026-06-06"
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 341 OR — Unabdingbarkeit, Verzichtssperre, Verjährung und Verwirkung im Arbeitsverhältnis"
 tags: ["Rechtsprechung", "OR", "Unabdingbarkeit", "Arbeitsrecht", "Verzichtssperre", "Verjährung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 26 % (Urteil C); 1 gestützt (+9 teilw.) von 21 beurteilten Paaren (21 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 
 ## I. Leitentscheide (BGE)

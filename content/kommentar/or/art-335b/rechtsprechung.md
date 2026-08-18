@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 335b OR"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 335b OR – Kündigung während der Probezeit"
 tags: ["Rechtsprechung", "OR", "Probezeit", "Kündigung", "Krankheit", "Unfall"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 0 % (Urteil C); 0 gestützt (+0 teilw.) von 3 beurteilten Paaren (5 Paare gesamt); Wortlaut: korrekt; 2 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

@@ -2,10 +2,16 @@
 title: "Art. 269a OR — Nicht missbräuchliche Mietzinse (Bruttorenditenmethode)"
 weight: 269
 date: 2026-05-17
-lastmod: 2026-05-18
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 269a OR: Die gesetzlichen Vermutungen der Nichtmissbräuchlichkeit von Mietzinsen, insbesondere die Bruttorenditenmethode bei Neubauten, die Orts- und Quartierüblichkeit sowie die Anfechtung des Anfangsmietzinses."
 tags: ["OR", "Mietrecht", "Anfechtung", "Mietzins", "Bruttorendite", "Erstmalige Miete"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 51 % (Urteil B); 31 gestützt (+54 teilw.) von 113 beurteilten Paaren (113 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 
 ## Wortlaut

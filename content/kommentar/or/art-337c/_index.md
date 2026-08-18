@@ -2,10 +2,16 @@
 title: "Art. 337c OR — Ungerechtfertigte Entlassung"
 weight: 337
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 337c OR — Schadenersatz und Billigkeitsentschädigung bei fristloser Entlassung ohne wichtigen Grund"
 tags: ["OR", "Arbeitsrecht", "fristlose Entlassung", "Schadenersatz", "Billigkeitsentschädigung", "ungerechtfertigte Kündigung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 42 % (Urteil C); 2 gestützt (+1 teilw.) von 6 beurteilten Paaren (6 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

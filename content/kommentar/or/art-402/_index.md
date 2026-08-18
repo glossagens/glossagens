@@ -2,10 +2,16 @@
 title: "Art. 402 — Aufwandersatz und Schadenshaftung"
 weight: 402
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 402 OR — Pflichten des Auftraggebers: Auslagenersatz samt Zinsen, Befreiung von Verbindlichkeiten, Schadenshaftung mit Verschuldensvermutung, Putativauftrag"
 tags: ["OR", "Auftragsrecht", "Aufwandersatz", "Schadenshaftung", "Verschuldensvermutung", "Befreiungsanspruch", "Putativauftrag"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 38 % (Urteil C); 1 gestützt (+4 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

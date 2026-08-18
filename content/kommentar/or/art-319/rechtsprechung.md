@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 319 OR"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-08-18
 description: "Wichtige Entscheide zu Art. 319 OR – Begriff des Einzelarbeitsvertrags, Subordination, Abgrenzung"
 tags: ["OR", "Arbeitsvertrag", "Einzelarbeitsvertrag", "Subordination", "Arbeitsrecht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 85 % (Urteil A); 7 gestützt (+3 teilw.) von 10 beurteilten Paaren (10 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Rechtsprechung zu Art. 319 OR

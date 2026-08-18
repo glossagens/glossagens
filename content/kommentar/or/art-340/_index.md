@@ -2,10 +2,16 @@
 title: "Art. 340 OR -- Nachvertragliches Konkurrenzverbot"
 weight: 340
 date: 2026-05-17
-lastmod: 2026-06-21
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 340 OR: Nachvertragliches Konkurrenzverbot und Karenzentschadigung -- Voraussetzungen, Schriftform, berechtigtes Interesse, Grenzen, Verzicht und Dahinfallen."
 tags: ["OR", "Konkurrenzverbot", "Karenzentschädigung", "Arbeitsvertrag", "nachvertraglich"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 24 gestützt (+62 teilw.) von 155 beurteilten Paaren (161 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 13 fehlerhafte Pinpoints."
 ---
 
 ## Wortlaut

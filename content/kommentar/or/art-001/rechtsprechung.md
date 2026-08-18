@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 1 OR — Vertragsschluss"
 weight: 2
 date: 2026-05-23
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Wichtige Bundesgerichtsentscheide zu Vertragsschluss, Konsens, Willensäusserung, AGB-Inhaltskontrolle und Vertrauenstheorie"
 tags: ["OR", "Vertragsrecht", "Konsens", "Rechtsprechung", "AGB", "Vertrauenstheorie", "Dissens"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 55 % (Urteil B); 13 gestützt (+22 teilw.) von 44 beurteilten Paaren (52 Paare gesamt); Wortlaut: unvollstaendig; 2 nicht existente Referenzen, 4 fehlerhafte Pinpoints."
 ---
 
 Zurück zum Kommentar: [Art. 1 OR — Vertragsschluss](./)

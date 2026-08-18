@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 335c OR"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 335c OR – Kündigung nach Ablauf der Probezeit"
 tags: ["Rechtsprechung", "OR", "Kündigungsfrist", "Kündigung", "Arbeitsvertrag"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 0 % (Urteil C); 0 gestützt (+0 teilw.) von 4 beurteilten Paaren (6 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 2 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

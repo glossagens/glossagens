@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 257f OR"
 weight: 99
 date: 2026-05-22
-lastmod: "2026-05-24"
+lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 257f OR – Sorgfalts- und Rücksichtnahmepflicht, ausserordentliche Kündigung"
 tags: ["Rechtsprechung", "OR", "Mietrecht", "ausserordentliche Kündigung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 47 % (Urteil C); 3 gestützt (+8 teilw.) von 15 beurteilten Paaren (15 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Leitentscheide (BGE)

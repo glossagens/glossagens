@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 269a OR"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-14
+lastmod: 2026-08-18
 description: "UEbersicht der massgeblichen Entscheide zu Art. 269a OR: Bruttorenditenmethode, Orts- und Quartierueblichkeit, Anfechtung des Anfangsmietzinses, Beweislast."
 tags: ["Rechtsprechung", "Mietrecht", "Anfechtung", "Mietzins", "Bruttorendite", "OR"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 51 % (Urteil B); 31 gestützt (+54 teilw.) von 113 beurteilten Paaren (113 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"

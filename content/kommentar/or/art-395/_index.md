@@ -2,10 +2,16 @@
 title: "Art. 395 — Fiktive Auftragsannahme"
 weight: 395
 date: 2026-06-27
-lastmod: 2026-06-27
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 395 OR — Fiktive Auftragsannahme bei obrigkeitlicher Bestellung, gewerbsmässigem Betrieb und öffentlicher Empfehlung; Sofortige Ablehnung; Vertrauensschutz"
 tags: ["OR", "Auftragsrecht", "Fiktive Annahme", "Vertrauensschutz", "Rechtsfiktion", "Berufspflicht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Belegquote 0 % (Urteil C); 0 gestützt (+0 teilw.) von 2 beurteilten Paaren (2 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
 ## Gesetzeswortlaut

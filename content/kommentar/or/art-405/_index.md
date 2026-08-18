@@ -2,10 +2,16 @@
 title: "Art. 405 — Erlöschen des Auftrags"
 weight: 405
 date: "2026-06-27"
-lastmod: "2026-06-27"
+lastmod: 2026-08-18
 description: "Kommentar zu Art. 405 OR — Erlöschen des Auftrags bei Handlungsunfähigkeit, Konkurs, Tod, Verschollenerklärung; Fortführungspflicht"
 tags: ["OR", "Auftragsrecht", "Erlöschen", "Tod", "Konkurs", "Fortführungspflicht"]
 agent_verified: true
+revisions:
+  - date: 2026-08-18
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut
