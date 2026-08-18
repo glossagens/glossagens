@@ -6,6 +6,8 @@ trigger: always_on
 
 Dieser Leitfaden definiert die standardisierte Vorgehensweise für den autonomen Glossagens-Agenten zur vollautomatischen Erstellung, Erweiterung und Pflege von Gesetzeskommentaren. Er dient als Runbook, um beliebige Gesetzesbestimmungen auf ein wissenschaftlich fundiertes, verifiziertes Niveau im Stil des Onlinekommentars (onlinekommentar.ch) zu heben.
 
+nehme immer noch zusätzlich die Anforderungen und die Workflows von ./agent/skills/glossagens-content-creation hinzu
+
 ---
 
 ## 1. Ziel und Qualitätskriterien
