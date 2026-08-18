@@ -135,6 +135,16 @@ python3 agent/skills/glossagens-audit/audit.py content/kommentar/{gesetz} --all
 Das Skript schreibt `audit-report.json` und gibt pro Artikel eine Kopfzeile aus.
 Es cacht MCP-Antworten unter `~/.cache/glossagens-audit/`; Re-Runs kosten nichts.
 
+Stufe 5 ist ~98 % der Laufzeit: `check_claim_support` ist serverseitig ein LLM-Aufruf
+(ø ~5 s), die übrigen Stufen sind Lookups (ø ~0.1 s). Die Calls laufen deshalb
+parallel — 8 gleichzeitig, einstellbar über `--jobs` bzw. `GLOSSAGENS_AUDIT_JOBS`,
+`--jobs 1` schaltet auf seriell. Ein Artikel mit 24 Paaren: 100 s seriell, 17 s mit 8.
+
+`check_claim_support` antwortet nicht deterministisch: derselbe Call liefert mal `no`,
+mal `contradicts`. Die Belegquote schwankt zwischen zwei Läufen um ein bis zwei
+Prozentpunkte — das ist der Richter, nicht die Parallelität. Für die Urteilsgrenzen
+(A ≥ 80 %, B ≥ 50 %) heisst das: knappe Fälle nicht auf den Punkt genau lesen.
+
 Zwei Cache-Fallen, beide im Skript entschärft, beim Ändern nicht wieder aufreissen:
 `PARSER_VERSION` ist Teil des Cache-Keys (sonst liefert der Cache Ergebnisse der alten
 Auswertung — bei Änderungen am Antwort-Parsing hochzählen), und Fehlantworten werden

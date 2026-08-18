@@ -35,11 +35,13 @@ import json
 import os
 import re
 import sys
+import threading
 import time
 import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
@@ -47,6 +49,10 @@ MCP_URL = "https://mcp.opencaselaw.ch/mcp"
 PARSER_VERSION = 10
 CACHE_PATH = os.path.expanduser("~/.cache/glossagens-audit/mcp-cache.json")
 MIN_QUOTE_LEN = 30
+# Stufe 5 ist ~98% der Laufzeit: check_claim_support ist serverseitig ein
+# LLM-Aufruf (ø ~5 s), die übrigen Stufen sind Datenbank-Lookups (ø ~0.1 s).
+# Die Calls sind voneinander unabhängig, also laufen sie parallel.
+MAX_WORKERS = int(os.environ.get("GLOSSAGENS_AUDIT_JOBS", "8"))
 
 CITE_LINK = re.compile(
     r"\[([^\]]*)\]\(https://mcp\.opencaselaw\.ch/entscheid/([^)#\s]+)(#[^)\s]*)?\)"
@@ -116,6 +122,7 @@ class Mcp:
         self.cache = {}
         self.calls = 0
         self.hits = 0
+        self.lock = threading.Lock()   # call() läuft aus mehreren Threads
         if use_cache and os.path.exists(CACHE_PATH):
             try:
                 self.cache = json.load(open(CACHE_PATH))
@@ -130,9 +137,11 @@ class Mcp:
 
     def call(self, tool, args, retries=2):
         key = f"v{PARSER_VERSION}:{tool}:" + json.dumps(args, sort_keys=True)
-        if self.use_cache and key in self.cache:
-            self.hits += 1
-            return self.cache[key]
+        if self.use_cache:
+            with self.lock:
+                if key in self.cache:
+                    self.hits += 1
+                    return self.cache[key]
 
         payload = json.dumps(
             {
@@ -156,17 +165,34 @@ class Mcp:
                 with urllib.request.urlopen(req, timeout=60) as resp:
                     raw = resp.read().decode()
                 result = self._parse(raw)
-                self.calls += 1
-                # Fehlantworten nicht cachen — sonst friert ein transienter
-                # Fehler als Dauerbefund ein.
-                if self.use_cache and "_error" not in result:
-                    self.cache[key] = result
+                with self.lock:
+                    self.calls += 1
+                    # Fehlantworten nicht cachen — sonst friert ein transienter
+                    # Fehler als Dauerbefund ein.
+                    if self.use_cache and "_error" not in result:
+                        self.cache[key] = result
                 return result
             except Exception as e:  # Netzfehler / Timeout
                 last = e
                 if attempt < retries:
                     time.sleep(1.5 * (attempt + 1))
         return {"_error": str(last)}
+
+    def call_many(self, tool, args_by_key, workers=None):
+        """Unabhängige Calls desselben Tools parallel; Ergebnis je Key.
+
+        Ein Fehlschlag betrifft nur seinen Key — `call` fängt Netzfehler ab und
+        liefert `{"_error": ...}`, die Stufen behandeln das bereits als
+        `nicht_verifizierbar`."""
+        if not args_by_key:
+            return {}
+        keys = list(args_by_key)
+        n = min(workers or MAX_WORKERS, len(keys))
+        if n <= 1:
+            return {k: self.call(tool, args_by_key[k]) for k in keys}
+        with ThreadPoolExecutor(max_workers=n) as ex:
+            futs = {ex.submit(self.call, tool, args_by_key[k]): k for k in keys}
+            return {futs[f]: f.result() for f in as_completed(futs)}
 
     @staticmethod
     def _parse(raw):
@@ -739,9 +765,15 @@ def stufe4_verbatim(mcp, quotes, existenz):
     return out
 
 
-def stufe5_grounding(mcp, units, existenz, pinpoints):
-    """Trägt der Beleg die Behauptung? Nur für Paare, die 2–4 überlebt haben."""
-    out, seen = [], {}
+def stufe5_grounding(mcp, units, existenz, pinpoints, workers=None):
+    """Trägt der Beleg die Behauptung? Nur für Paare, die 2–4 überlebt haben.
+
+    Zwei Durchgänge: erst wird geplant (welche Paare kosten überhaupt einen
+    Call), dann laufen die Calls parallel, dann werden die Sätze gefüllt. Die
+    Reihenfolge von `out` bleibt die der `units` — Platzhalter halten den
+    Platz."""
+    out, jobs, erster = [], {}, {}
+    slots = []          # (Index in out, Key, Unit, geprüfter Pinpoint)
     for u in units:
         e = existenz.get(u["reference"], {})
         if e.get("status") != "existiert":
@@ -771,20 +803,26 @@ def stufe5_grounding(mcp, units, existenz, pinpoints):
 
         did = e.get("decision_id") or u["decision_id"]
         key = (u["claim_id"], did, pin)
-        if key in seen:
-            out.append({**seen[key], "file": u["file"], "line": u["line"]})
-            continue
+        if key not in jobs:
+            args = {"claim": u["claim"], "decision_id": did}
+            if pin:
+                args["pinpoint"] = pin
+            jobs[key] = args
+            erster[key] = (u, pin)   # Stammsatz kommt vom ersten Vorkommen
+        slots.append((len(out), key, u, pin))
+        out.append(None)
 
-        args = {"claim": u["claim"], "decision_id": did}
-        if pin:
-            args["pinpoint"] = pin
-        res = mcp.call("check_claim_support", args)
+    ergebnisse = mcp.call_many("check_claim_support", jobs, workers=workers)
+
+    for idx, key, u, _pin in slots:
+        res = ergebnisse.get(key, {"_error": "kein Ergebnis"})
+        quelle, pin = erster[key]
         rec = {
             "file": u["file"],
             "line": u["line"],
-            "claim_id": u["claim_id"],
-            "claim": u["claim"],
-            "reference": u["reference"],
+            "claim_id": quelle["claim_id"],
+            "claim": quelle["claim"],
+            "reference": quelle["reference"],
             "pinpoint": pin,
             "supports": res.get("supports", "nicht_verifizierbar"),
             "confidence": res.get("confidence"),
@@ -799,8 +837,7 @@ def stufe5_grounding(mcp, units, existenz, pinpoints):
                 or (res.get("_text") or "")[:200]
                 or f"unerwartete Antwort, Felder: {sorted(res)[:8]}"
             )
-        seen[key] = rec
-        out.append(rec)
+        out[idx] = rec
     return out
 
 
@@ -866,13 +903,13 @@ def sr_from_gesetz(bundle):
 # ---------------------------------------------------------------- Bericht
 
 
-def audit_bundle(mcp, bundle, gesetz, article):
+def audit_bundle(mcp, bundle, gesetz, article, workers=None):
     units, quotes, wortlaut = parse_bundle(bundle)
     w = stufe1_wortlaut(mcp, gesetz, article, wortlaut)
     ex = stufe2_existenz(mcp, units)
     pp = stufe3_pinpoints(mcp, units, ex)
     vb = stufe4_verbatim(mcp, quotes, ex)
-    gr = stufe5_grounding(mcp, units, ex, pp)
+    gr = stufe5_grounding(mcp, units, ex, pp, workers=workers)
     ak = stufe6_aktualitaet(mcp, sr_from_gesetz(bundle), article, ex)
 
     halluziniert = [r for r, v in ex.items() if v["status"] == "halluziniert"]
@@ -944,6 +981,13 @@ def main():
     ap.add_argument("--all", action="store_true", help="alle art-*-Bundles darunter")
     ap.add_argument("--report", default=None)
     ap.add_argument("--no-cache", action="store_true")
+    ap.add_argument(
+        "--jobs",
+        type=int,
+        default=MAX_WORKERS,
+        help=f"parallele check_claim_support-Calls (Vorgabe {MAX_WORKERS}, "
+        f"1 = seriell; auch über GLOSSAGENS_AUDIT_JOBS)",
+    )
     args = ap.parse_args()
 
     pfad = os.path.abspath(args.pfad)
@@ -966,7 +1010,7 @@ def main():
             print(f"übersprungen (kein art-Bundle): {b}", file=sys.stderr)
             continue
         print(f"→ {gesetz.upper()} Art. {art}", file=sys.stderr)
-        r = audit_bundle(mcp, b, gesetz, art)
+        r = audit_bundle(mcp, b, gesetz, art, workers=args.jobs)
         reports.append(r)
         s = r["zusammenfassung"]
         print(
