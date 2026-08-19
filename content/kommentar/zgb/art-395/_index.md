@@ -1,68 +1,83 @@
 ---
-title: "Art. 395 — Vermögensverwaltung"
+title: "Art. 395 ZGB — Vermögensverwaltung"
 weight: 395
-date: "2026-05-24"
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 395 ZGB – Vermögensverwaltung im Erwachsenenschutzrecht"
-tags: ["ZGB", "Erwachsenenschutz", "Vermögensverwaltung", "Beistandschaft"]
+date: 2026-05-24
+lastmod: 2026-08-19
+description: "Kommentar zu Art. 395 ZGB: Vertretungsbeistandschaft mit Vermögensverwaltung, Umfang, Zugriffsentzug nach Abs. 3, Anlagevorschriften und kantonale Praxis."
+tags: ["ZGB", "Erwachsenenschutz", "Vermögensverwaltung", "Vertretungsbeistandschaft", "Zugriffsentzug"]
 agent_verified: true
+revisions:
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger wissenschaftlicher Overhaul gemäss Onlinekommentar-Standard; Belege via check_claim_support und attest_response verifiziert."
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 395 ZGB — Vermögensverwaltung**
 >
-> 1 Errichtet die Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie die Vermögenswerte, die vom Beistand oder von der Beiständin verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen.
+> <sup>1</sup> Errichtet die Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie die Vermögenswerte, die vom Beistand oder von der Beiständin verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen.
 >
-> 2 Die Verwaltungsbefugnisse umfassen auch die Ersparnisse aus dem verwalteten Einkommen oder die Erträge des verwalteten Vermögens, wenn die Erwachsenenschutzbehörde nichts anderes verfügt.
+> <sup>2</sup> Die Verwaltungsbefugnisse umfassen auch die Ersparnisse aus dem verwalteten Einkommen oder die Erträge des verwalteten Vermögens, wenn die Erwachsenenschutzbehörde nichts anderes verfügt.
 >
-> 3 Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen.
+> <sup>3</sup> Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen.
 >
-> 4 Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), mit Wirkung seit 1. Jan. 2024.
+> <sup>4</sup> … Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), mit Wirkung seit 1. Jan. 2024 (AS 2023 84; BBl 2016 5161, 5175).
 
-## Kommentierung
+## Überblick und Systematik
 
-### Bedeutung
+Art. 395 ZGB regelt die behördliche Vermögensverwaltung im Erwachsenenschutzrecht. Die Vermögensverwaltung ist im Gesetz als besondere Form der Vertretungsbeistandschaft ausgestaltet ([BGer 5A_667/2013, E. 6.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_667_2013#e-6-1)).
 
-Art. 395 ZGB regelt die **Vermögensverwaltung im Rahmen der Vertretungsbeistandschaft**. Die Norm bestimmt den Umfang der Verwaltungsbefugnisse des Beistands und ermöglicht der Erwachsenenschutzbehörde eine massgeschneiderte Lösung: von der Verwaltung einzelner Vermögenswerte bis zur umfassenden Verwaltung des gesamten Einkommens und Vermögens (Abs. 1). Sie konkretisiert damit den Grundsatz «soviel wie nötig, so wenig wie möglich» (Art. 389 Abs. 2 ZGB).
+In Art. 389 ZGB unterstellt der Gesetzgeber alle behördlichen Massnahmen des Erwachsenenschutzes den beiden Maximen der Subsidiarität und der Verhältnismässigkeit ([BGE 140 III 49, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_49#e-4-3-1)). Die Erwachsenenschutzbehörde hat daher keine starren Massnahmen zu treffen, sondern Massnahmen nach Mass, die den individuellen Schutzbedürfnissen der betroffenen Person entsprechen.
 
-### Massschneiderung (Abs. 1)
+## Bestimmung der verwalteten Vermögenswerte (Abs. 1)
 
-Die KESB hat bei der Errichtung einer Vertretungsbeistandschaft mit Vermögensverwaltung drei Abstufungs möglichkeiten:
+Errichtet die Kindes- und Erwachsenenschutzbehörde (KESB) eine Vertretungsbeistandschaft für die Vermögensverwaltung nach Art. 394 Abs. 1 i.V.m. Art. 395 Abs. 1 ZGB, legt sie den Umfang der Vermögenswerte fest. Dabei stehen drei Stufen zur Verfügung:
+1. Teile des Einkommens oder Teile des Vermögens (punktuelle Unterstützung),
+2. das gesamte Einkommen oder das gesamte Vermögen,
+3. das gesamte Einkommen und das gesamte Vermögen (vollständige Finanzverwaltung).
 
-1. **Teile des Einkommens oder des Vermögens** — die mildeste Form, die nur bestimmte Vermögenswerte oder Einkommensquellen umfasst
-2. **Das gesamte Einkommen oder das gesamte Vermögen** — die mittlere Form
-3. **Das gesamte Einkommen und Vermögen** — die umfassendste Form, die der betroffenen Person den Zugriff auf ihr gesamtes Vermögen entzieht
+Wurde für eine Person eine Vertretungsbeistandschaft mit Vermögensverwaltung errichtet, wird sie in Vermögensangelegenheiten von ihrer Beistandsperson vertreten; sie behält grundsätzlich ihre Handlungsfähigkeit, muss sich aber die Handlungen des Beistands anrechnen lassen (Art. 394 Abs. 3 ZGB).
 
-Die Wahl der Stufe richtet sich nach dem konkreten Hilfebedarf und dem Verhältnismässigkeitsgebot. Eine umfassendere Massnahme als nötig ist unzulässig ([BGE 140 III 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_49); [BGer 5A 795/2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_795_2014)).
+## Verwaltungsbefugnisse und Anlagevorschriften (Abs. 2)
 
-### Verwaltungsbefugnisse (Abs. 2)
+Die Verwaltungsbefugnisse umfassen von Gesetzes wegen auch die Ersparnisse aus dem verwalteten Einkommen sowie die Erträge des verwalteten Vermögens (z.B. Zinsen, Dividenden, Mietzinseinnahmen), sofern die Behörde nichts Abweichendes verfügt (Abs. 2).
 
-Die Verwaltungsbefugnisse umfassen grundsätzlich auch die Ersparnisse aus dem verwalteten Einkommen und die Erträge des verwalteten Vermögens, sofern die KESB nichts anderes verfügt. Dies bedeutet: Einnahmen, die aus dem verwalteten Vermögen erwirtschaftet werden (Zinsen, Dividenden, Mieteinnahmen), fallen ebenfalls unter die Verwaltungsbefugnis.
+Die Beistandsperson hat das Vermögen nach Massgabe von Art. 408 ZGB und der Verordnung über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft (VBVV) sorgfältig zu verwalten. Erfüllen bestehende Vermögensanlagen die gesetzlichen Anlagevoraussetzungen nicht, müssen sie innert angemessener Frist umgewandelt werden, wobei sicherzustellen ist, dass die Umwandlung nicht zur Unzeit erfolgt ([BGer 5A_502/2016, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_502_2016#e-2-3)).
 
-### Zugriffsentzug (Abs. 3)
+## Zugriffsentzug ohne Handlungsfähigkeitseinschränkung (Abs. 3)
 
-Abs. 3 erlaubt der KESB, der betroffenen Person den Zugriff auf einzelne Vermögenswerte zu entziehen, **ohne die Handlungsfähigkeit** der betroffenen Person einzuschränken. Dies ist ein wichtiges Instrument bei kognitiv beeinträchtigten Personen, die zwar rechtlich handlungsfähig bleiben, aber im konkreten Bereich des Vermögenszugriffs des Schutzes bedürfen.
+Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen, wobei diese Massnahme verhältnismässig sein muss ([BGer 5A_778/2024, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_778_2024#e-4-4)).
 
-### Abgrenzungen
+Der Zugriffsentzug nach Art. 395 Abs. 3 ZGB bildet ein gezieltes Sicherungsinstrument: Er entzieht der betroffenen Person die tatsächliche Verfügungsmacht über bestimmte Bankkonten oder Sachwerte, ohne ihre zivilrechtliche Handlungsfähigkeit formell zu beschränken. Verbleibt der betroffenen Person trotz Zugriffsbeschränkungen nach Art. 395 Abs. 3 ZGB ein Konto in Eigenverwaltung, kann sie weiterhin für ihre laufenden Bedürfnisse finanziell aufkommen ([BGer 5A_546/2020, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_546_2020#e-3-4)).
 
-- **Art. 394 ZGB**: Die Vertretungsbeistandschaft (Abs. 1) und die Vermögensverwaltung (Art. 395) werden häufig kombiniert (Art. 397 ZGB: kombinierte Beistandschaft), sind aber rechtlich selbstständige Massnahmen.
-- **Art. 408 ZGB**: Die Anlagevorschriften (VBVV) gelten für die Vermögensverwaltung nach Art. 395 ZGB. Nicht vorschriftsmässige Anlagen müssen in angemessener Frist umgewandelt werden ([BGer 5A_502/2016](https://mcp.opencaselaw.ch/entscheid/bger_5A_502_2016)).
-- **Art. 360 ZGB (Vorsorgeauftrag)**: Ist eine private Vorsorge vorhanden, ist die staatliche Vermögensverwaltung subsidiär ([BGer 5A_702/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_702_2013)).
+## Kantonale Praxisfragen
 
-### Kasuistik
+### Praxisfrage 1: Zustellung von Betreibungsurkunden (Art. 68d SchKG)
+Liegt eine Vertretungsbeistandschaft für die Vermögensverwaltung vor, sind Betreibungsurkunden zwingend dem Beistand zuzustellen; wurden sie ausschliesslich an den handlungsfähigen Schuldner zugestellt, sind sie nicht nichtig, aber wegen Verletzung von Art. 68d Abs. 1 SchKG anfechtbar ([Obergericht SH 93/2024/29 vom 11. November 2025](https://mcp.opencaselaw.ch/entscheid/sh_obergericht_93_2024_29)).
 
-**Subsidiarität und Vorsorgeauftrag:** Eine Vertretungsbeistandschaft mit Vermögensverwaltung darf nicht errichtet werden, wenn nahestehende Personen die nötige Hilfe leisten können. Der Vorsorgeauftrag (Art. 360 ZGB) ist als mildere Alternative vorzuziehen ([BGer 5A_702/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_702_2013)).
+### Praxisfrage 2: Umwandlung und Verhältnis zur umfassenden Beistandschaft
+Ergibt die Überprüfung einer Massnahme, dass eine Vertretung genügt, kann eine umfassende Beistandschaft aufgehoben und durch eine Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung nach Art. 394 Abs. 1 i.V.m. Art. 395 Abs. 1 und 2 ZGB ersetzt werden ([Obergericht ZH PQ170036 vom 28. Juni 2017](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PQ170036)).
 
-**Masssschneiderte Lösung statt Vollbeistandschaft:** Die Umwandlung einer umfassenden Beistandschaft in eine Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung illustriert den Grundsatz der massgeschneiderten Lösung (ZH Obergericht PQ170036; AG Zivilgericht XBE.2023.1).
+Verlangt die betroffene Person selbst oder – falls sie dauerhaft und vollumfänglich urteilsunfähig ist – eine ihr nahestehende Person im wohlverstandenen Interesse der betroffenen Person die Errichtung einer umfassenden Beistandschaft, vermag der Verweis auf das Verhältnismässigkeitsprinzip und die daraus fliessende Massschneiderung erwachsenenschutzrechtlicher Massnahmen die Anordnung einer Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung in sämtlichen Belangen anstelle der beantragten umfassenden Beistandschaft nicht zu rechtfertigen ([Gericht LU 3H 15 74 vom 13. November 2015](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3H_15_74)).
 
-**Anlagevorschriften (VBVV):** Die Vermögensverwaltung unterliegt den Anlagevorschriften. Nicht vorschriftsmässige Anlagen (z.B. Goldanlagen, die 75 % des Vermögens ausmachen) müssen umgewandelt werden, jedoch nicht «zur Unzeit» ([BGer 5A_502/2016](https://mcp.opencaselaw.ch/entscheid/bger_5A_502_2016)).
+## Verfahren und Rechtsstellung
 
-**Übergangsrecht:** Altrechtliche Beiratschaften sind in Massnahmen des neuen Rechts zu überführen. Die Vertretungsbeistandschaft mit Vermögensverwaltung (Art. 394 i.V.m. Art. 395 ZGB) ersetzt die frühere Beiratschaft nach aArt. 395 ZGB (BS Appellationsgericht VD.2014.10; [BGer 5A_667/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_667_2013)).
+### Anhörungspflicht
+Soll eine bestehende Massnahme zu einer Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung erweitert werden, gebietet der Untersuchungsgrundsatz, die betroffene Person anzuhören und ihr mitzuteilen, dass eine Verschärfung der Massnahme zur Diskussion steht ([BGer 5A_902/2018, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bger_5A_902_2018#e-4-5)).
 
-**Sozialversicherung:** Eine von der KESB ernannte Fachbeiständin in einer Beistandschaft nach Art. 394 Abs. 1 i.V.m. Art. 395 Abs. 1 ZGB übt eine AHV-beitragsrechtlich selbstständige Erwerbstätigkeit aus ([BGE 146 V 139](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_V_139)).
+### AHV-Beitragsstatus der Fachbeiständin
+Das Amt der von der Kindes- und Erwachsenenschutzbehörde ernannten privaten Fachbeistandsperson ist AHV-beitragsrechtlich als selbstständige Erwerbstätigkeit zu qualifizieren ([BGE 146 V 139, E. 6.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_V_139#e-6-3-2)).
 
-## Literatur
+### Übergangsrecht
+Altrechtliche vormundschaftliche Massnahmen wurden in Massnahmen des neuen Rechts überführt; die Erwachsenenschutzbehörde kann eine frühere Massnahme aufheben und für die betroffene Person eine Vertretungsbeistandschaft mit Einkommens- und Vermögensverwaltung nach neuem Recht errichten ([BGer 5A_151/2014 vom 4. April 2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_151_2014)).
 
-- Botschaft zur Änderung des Schweizerischen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und Kindesrecht), BBl 2006 7001 ff., insb. Ziff. 2.2.1 (Subsidiarität)
-- Henkel, in: Geiser/Reusser, Basler Kommentar zum Erwachsenenschutz, N zu Art. 395 ZGB
+## Literatur & Materialien
+
+- Botschaft zur Änderung des Schweizerischen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und Kindesrecht) vom 28. Juni 2006, [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899), S. 7046 f.
+- **Helmut Henkel**, in: Thomas Geiser / Christiana Fountoulakis (Hrsg.), Basler Kommentar, Zivilgesetzbuch I, 7. Aufl., Basel 2022, Art. 395 ZGB.
+- **Philippe Meier**, in: Andrea Büchler / Christoph Häfeli / Audrey Leuba / Martin Stettler (Hrsg.), FamKomm Erwachsenenschutz, Bern 2013, Art. 395 ZGB.
+- **Christoph Häfeli**, Grundriss zum Erwachsenenschutzrecht, 3. Aufl., Bern 2021, Rz. 19.30 ff.
+- **Hermann Schmid**, Erwachsenenschutz, Kommentar zu Art. 360–456 ZGB, Zürich/St. Gallen 2010, Art. 395 ZGB.
