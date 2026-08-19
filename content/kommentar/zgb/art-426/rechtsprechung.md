@@ -2,164 +2,132 @@
 title: "Rechtsprechung zu Art. 426 ZGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-05-30
-description: "Übersicht der massgeblichen Entscheide zu Art. 426 ZGB (Fürsorgeunterbringung)"
-tags: ["Rechtsprechung", "ZGB", "Fürsorgeunterbringung", "Ultima ratio", "Patientenautonomie", "Gutachtenpflicht"]
+lastmod: 2026-08-19
+description: "Übersicht der massgeblichen Rechtsprechung zu Art. 426 ZGB (Fürsorgerische Unterbringung, Leitentscheide und kantonale Praxis)."
+tags: ["Rechtsprechung", "ZGB", "Fürsorgerische Unterbringung", "Erwachsenenschutz", "Leitentscheide"]
 agent_verified: false
+revisions:
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "Gemini 3.7 Flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung: Gliederung in Leitentscheide (BGE) und weitere Entscheide (BGer/kantonal); alle Entscheide via OpenCaseLaw verifiziert"
 ---
 
-## Rechtsprechung zu Art. 426 ZGB — Fürsorgeunterbringung
+# Rechtsprechung zu Art. 426 ZGB
 
-### Fokusentscheid der Woche
+## I. Leitentscheide (BGE)
 
----
-
-#### BGer 5A_215/2026 vom 7. Mai 2026
-
-**Fürsorgeunterbringung bei schizo-affektiver Störung; Zulässigkeit Beschwerde**
-
-Die Beschwerdeführerin leidet an einer schizo-affektiven Störung (*trouble schizo-affectif mixte*), Anorexie, leichter kognitiver Störung und Persönlichkeitsstörung; sie ist vollständig anosognostisch. Die Beschwerde wurde als unzulässig erklärt (appellatorisch, keine rechtlich genügende Motivation gemäss Art. 42 Abs. 2 und Art. 106 Abs. 2 BGG i.V.m. BGE 142 III 364 E. 2.4). Die Beschwerdeführerin legte keine ausreichend begründeten Rügen gegen die vorinstanzlichen Feststellungen zu Art. 426 Abs. 1 ZGB vor.
-
-*Einschlägig für:* Begründungsanforderungen, Anosognosie, schizo-affektive Störung, Verfahrensrecht
-
----
-
-### Leitentscheide
+### [BGE 145 III 441, E. 8.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_441#e-8-4)
+- **Thema**: Fremdgefährdung als alleiniger Unterbringungsgrund; EMRK-Konformität
+- **Kernaussage**: Art. 426 ZGB bildet keine genügende gesetzliche Grundlage, um allein wegen Fremdgefährdung eine fürsorgerische Unterbringung anzuordnen. Die zivilrechtliche Unterbringung bezweckt den persönlichen Schutz und die Fürsorge der betroffenen Person selbst; eine Freiheitsentziehung zum ausschliesslichen Schutz der Öffentlichkeit erfordert eine spezifische straf- oder polizeirechtliche Grundlage.
+- **Einschlägig für**: Art. 426 Abs. 1 und 2 ZGB, Art. 5 Ziff. 1 lit. e EMRK, Abgrenzung zum Massnahmenrecht
 
 ---
 
-#### 1. BGE 140 III 105 (712 Zitate) — Gutachtenpflicht
-
-**Gutachten der sachverständigen Person bei Fürsorgeunterbringung**
-
-Das gestützt auf Art. 450e Abs. 3 ZGB einzuholende Gutachten muss sich äussern über: (1) Gesundheitszustand; (2) Auswirkungen hinsichtlich Selbst-/Drittgefährdung oder Verwahrlosung; (3) Handlungsbedarf; (4) konkrete Gefahr bei Unterbleiben; (5) Unerlässlichkeit der stationären Behandlung. Ein Fachrichter kann den Beizug eines unabhängigen Gutachters nicht ersetzen. Alte Gutachten aus früheren Verfahren genügen nicht.
-
-*Einschlägig für:* Gutachtenanforderungen, Art. 450e Abs. 3 ZGB, Verfahrensgarantien
+### [BGE 140 III 105, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_105#e-2-4)
+- **Thema**: Anforderungen an das Sachverständigengutachten bei psychischer Störung
+- **Kernaussage**: Das gestützt auf Art. 450e Abs. 3 ZGB einzuholende Gutachten hat sich über den Gesundheitszustand, die Auswirkungen hinsichtlich Selbst- bzw. Drittgefährdung oder Verwahrlosung, den Handlungsbedarf, die konkrete Gefahr bei Unterbleiben der Betreuung sowie die Unerlässlichkeit der stationären Massnahme zu äussern. Ein Fachrichter des Gerichts kann den Beizug eines unabhängigen Gutachters nicht ersetzen.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Art. 450e Abs. 3 ZGB, Verfahrensgarantien
 
 ---
 
-#### 2. BGE 145 III 441 (173 Zitate) — Fremdgefährdung und EMRK
-
-**Fürsorgerische Unterbringung im Anschluss an Freiheitstrafe; Fremdgefährdung als alleiniger Grund**
-
-Art. 426 ZGB bildet keine genügende gesetzliche Grundlage für eine fürsorgerische Unterbringung allein wegen Fremdgefährdung. Der EGMR (T.B. gegen Schweiz, 1760/15, 30. April 2019) hält fest, dass Art. 5 Ziff. 1 lit. e EMRK Freiheitsentziehung wegen Fremdgefährdung zulässt, wenn ein «risque réel» eines «dommage grave» besteht – die Bedingungen müssen jedoch «clairement définies en droit interne» sein. Die Fremdgefährdung kann aber im Rahmen von Art. 426 Abs. 2 ZGB berücksichtigt werden, wenn zugleich ein persönlicher Fürsorgebedarf besteht.
-
-*Einschlägig für:* Ultima-ratio-Prinzip, Fremdgefährdung, EMRK-Konformität, Art. 5 Ziff. 1 lit. e EMRK
+### [BGE 148 I 1, E. 6.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_1#e-6-2-3) & [E. 8.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_1#e-8-1-2)
+- **Thema**: Vorrang der Patientenautonomie und Begriff der schweren Verwahrlosung
+- **Kernaussage**: Das Recht auf Selbstbestimmung drückt sich im medizinischen Bereich durch das Recht auf Zustimmung oder Ablehnung einer Behandlung aus, weshalb das Prinzip der Fürsorge grundsätzlich hinter der Autonomie zurückzutreten hat. Der Begriff der schweren Verwahrlosung setzt einen Zustand voraus, der mit der Menschenwürde unvereinbar ist und nur durch eine Unterbringung behoben werden kann.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Art. 10 Abs. 2 BV, Patientenautonomie, Schwere Verwahrlosung
 
 ---
 
-#### 3. BGE 148 I 1 (310 Zitate) — Patientenautonomie
-
-**Ungerechtfertigte fürsorgerische Unterbringung; schwere Verwahrlosung**
-
-Das Recht auf Selbstbestimmung drückt sich im medizinischen Bereich durch das Recht auf Zustimmung oder Ablehnung einer Behandlung aus. Das Prinzip der Fürsorge muss hinter dem Grundsatz der Autonomie zurücktreten. Der Begriff der «schweren Verwahrlosung» muss einem Zustand entsprechen, der mit der Menschenwürde unvereinbar ist. Vorübergehende Bewusstseinsstörung somatischer Ursache steht einer Unterbringung entgegen.
-
-*Einschlägig für:* Schwere Verwahrlosung, Patientenautonomie, Selbstbestimmungsrecht, Art. 5 Ziff. 1 EMRK
+### [BGE 148 III 1, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1#e-2-4-3) & [E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1#e-3-3)
+- **Thema**: Unabhängigkeit des Sachverständigen und rechtliches Gehör bei Grundwechsel
+- **Kernaussage**: Die gerichtliche Beschwerdeinstanz hat bei psychischen Störungen das Gutachten einer behörden- und gerichtsunabhängigen sachverständigen Person einzuholen. Das Gericht ist befugt, die fürsorgerische Unterbringung auf einen anderen als den im ärztlichen Entscheid genannten Grund zu stützen, sofern der betroffenen Person dazu vorgängig das rechtliche Gehör gewährt wurde.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Art. 439 Abs. 3 ZGB, Art. 450e Abs. 3 ZGB, Rechtliches Gehör
 
 ---
 
-#### 4. BGE 143 III 189 (264 Zitate) — Gutachten bei ärztlicher Einweisung
-
-**Anrufung des Gerichts nach ärztlicher fürsorgerischer Unterbringung**
-
-Im Falle einer psychischen Störung ist ein Gutachten einer sachverständigen Person auch im Beschwerdeverfahren gegen eine ärztliche Unterbringung (Art. 439 Abs. 1 Ziff. 1 ZGB i.V.m. Art. 450e Abs. 3 ZGB) zwingend erforderlich. Das Gutachten muss die konkrete Gefahr benennen; eine allgemeine «latente» Gefährdung ohne Konkretisierung genügt nicht.
-
-*Einschlägig für:* Gutachtenpflicht bei ärztlicher Einweisung, Konkretisierung der Gefahr, Entlassungsanspruch
+### [BGE 140 III 101, E. 6.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_101#e-6-2-3)
+- **Thema**: Begründungsdichte des Entscheids und Feststellung der konkreten Gefahr
+- **Kernaussage**: Der Entscheid über die fürsorgerische Unterbringung muss in tatsächlicher Hinsicht darlegen, welche konkrete, gutachterlich festgestellte Gefahr für Leben oder Gesundheit der betroffenen Person bei einer Entlassung fortbestünde. Eine rein abstrakte oder latente Gefährdung genügt zur Rechtfertigung des Freiheitsentzugs nicht.
+- **Einschlägig für**: Art. 426 Abs. 1 und 3 ZGB, Begründungspflicht, Verhältnismässigkeit
 
 ---
 
-#### 5. BGE 148 III 1 (129 Zitate) — Gutachter-Unabhängigkeit
-
-**Gerichtliche Überprüfung ärztlich angeordneter Fürsorgeunterbringung**
-
-Der Gutachter muss vom Gericht unabhängig sein und darf nicht fachkundiges Mitglied des Spruchkörpers sein. Das Gericht darf die Unterbringung auf einen anderen als den im ärztlichen Entscheid angegebenen Grund stützen, wenn die betroffene Person sich dazu vorgängig äussern konnte (rechtliches Gehör). Bestätigt EGMR D.N. gegen Schweiz (27154/95).
-
-*Einschlägig für:* Unabhängigkeit des Gutachters, Fachrichter-Verbot, rechtliches Gehör
+### [BGE 143 III 189, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_189#e-3-2)
+- **Thema**: Gutachtenpflicht bei gerichtlicher Beschwerde gegen ärztliche Einweisung
+- **Kernaussage**: Wird das Gericht nach einer ärztlichen fürsorgerischen Unterbringung (Art. 429 ZGB) angerufen, ist bei einer psychischen Störung gestützt auf das Gutachten einer sachverständigen Person nach Art. 450e Abs. 3 ZGB zu entscheiden. Die zeitliche Befristung der ärztlichen Massnahme rechtfertigt keinen Verzicht auf die Begutachtung.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Art. 429 ZGB, Art. 439 Abs. 3 ZGB, Gutachtenpflicht
 
 ---
 
-### Weitere massgebliche Entscheide
+### [BGE 146 III 377, E. 6.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_377#e-6-3-3)
+- **Thema**: Interkantonale gerichtliche Zuständigkeit bei ärztlicher Unterbringung
+- **Kernaussage**: Für die Beurteilung der Beschwerde gegen eine ärztlich angeordnete fürsorgerische Unterbringung ist interkantonal das Gericht am Ort zuständig, wo die Unterbringung angeordnet wurde.
+- **Einschlägig für**: Art. 426 ZGB, Art. 429 ZGB, Art. 439 Abs. 1 Ziff. 1 ZGB, Örtliche Zuständigkeit
 
 ---
 
-#### 6. 5A_500/2014 — Drei abschliessende Schwächezustände
-
-Ultima ratio; Ausgangspunkt der EGMR-Entscheidung T.B. gegen Schweiz.
-
-*Einschlägig für:* Ultima-ratio-Prinzip, drei Unterbringungsgründe
-
----
-
-#### 7. 5A_247/2025 — EMRK-Konformität; Selbstgefährdung
-
-Aktuelle Bestätigung der EMRK-konformen Auslegung von Art. 426 ZGB im Jahr 2025.
-
-*Einschlägig für:* Selbstgefährdung, EMRK-Konformität
+### [BGE 143 III 337, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_337#e-2-4-1)
+- **Thema**: Abgrenzung der Unterbringung zur medikamentösen Zwangsbehandlung
+- **Kernaussage**: Wird eine Person zur Behandlung einer psychischen Störung untergebracht, bedarf eine medizinische Behandlung ohne ihre Zustimmung einer gesonderten schriftlichen Anordnung durch die Chefärztin oder den Chefarzt nach Art. 434 Abs. 1 ZGB. Die Unterbringungsverfügung allein legitimiert keine Zwangsmedikation.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Art. 434 ZGB, Zwangsbehandlung
 
 ---
 
-#### 8. 5A 228/2016 — Belastung Angehöriger
+## II. Weitere Entscheide (Bundesgericht und kantonale Gerichte)
 
-Angehörigenbelastung und Entlassungsanspruch gemäss Art. 426 Abs. 2 und Abs. 4 ZGB.
-
-*Einschlägig für:* Art. 426 Abs. 2 ZGB (Belastung Angehöriger), Entlassungsanspruch
-
----
-
-#### 9. 5A_638/2013 — Ultima ratio; persönliche Fürsorge
-
-Ultima-ratio-Prinzip; Belastung Angehöriger; persönliche Fürsorge und Pflege als Massstab.
-
-*Einschlägig für:* Ultima ratio, Art. 426 Abs. 2 ZGB, ambulante Alternativen
+### [BGer 5A_500/2014 vom 8. Juli 2014, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_500_2014#e-1-1)
+- **Thema**: Die drei abschliessenden Schwächezustände nach Art. 426 Abs. 1 ZGB
+- **Kernaussage**: Erste gesetzliche Voraussetzung für eine Anordnung der fürsorgerischen Unterbringung nach Art. 426 Abs. 1 ZGB ist das Vorliegen eines der drei abschliessend genannten Schwächezustände: psychische Störung, geistige Behinderung oder schwere Verwahrlosung.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Gesetzliche Voraussetzungen
 
 ---
 
-#### 10. 5A_857/2024 — Paranoide Schizophrenie
-
-Chronische Erkrankung; Behandlung ohne Zustimmung. Vergleichsfall zu 5A_215/2026.
-
-*Einschlägig für:* Schizophrenie, chronische Erkrankung, Zwangsbehandlung
-
----
-
-### EGMR-Entscheid
+### [BGer 5A_1127/2025 vom 20. April 2026, E. 4.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_1127_2025#e-4.4.2)
+- **Thema**: Freiwilliger Spitaleintritt und Abgrenzung zur fürsorgerischen Unterbringung
+- **Kernaussage**: Dass eine urteilsfähige Person ihre Zustimmung zum Eintritt in eine Einrichtung äussert, reicht nicht, um den Eintritt als freiwillig zu qualifizieren; die Zustimmung muss auf dem freien und unverfälschten Willen beruhen und von eigener Überzeugung getragen sein. Ein freiwilliger Eintritt steht der fürsorgerischen Unterbringung nur entgegen, wenn er die Gefährdung hinreichend abzuwenden vermag.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Subsidiaritätsprinzip, Freiwilligkeit
 
 ---
 
-#### EGMR 1760/15, T.B. gegen Schweiz, 30. April 2019
-
-Art. 5 Ziff. 1 lit. e EMRK lässt Freiheitsentziehung wegen Fremdgefährdung zu, wenn ein «risque réel» eines «dommage grave» besteht. Die Bedingungen müssen jedoch «clairement définies en droit interne» sein. BGE 145 III 441 E. 8.4 setzt dies um: Art. 426 ZGB genügt dieser Anforderung nicht für rein fremdgefährdende Unterbringungen.
-
----
-
-### Neuere Entscheide (2024–2025)
+### [BGer 5A_1048/2025 vom 18. Dezember 2025, E. 3.3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_1048_2025#e-3-3-2)
+- **Thema**: Geeignetheit der Einrichtung und Kostentragung
+- **Kernaussage**: Wer für die Kosten einer fürsorgerischen Unterbringung aufzukommen hat, ist im Streit um die Geeignetheit der Einrichtung im Sinne von Art. 426 Abs. 1 ZGB kein Thema; diese Frage wird durch das kantonale Recht geregelt.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Geeignetheit der Einrichtung, Kostentragung
 
 ---
 
-#### 11. BGer 5A_1127/2025 — Subsidiaritätsprinzip bei Entlassung
-
-**Subsidiaritätsprinzip bei Entlassung aus fürsorgerischer Unterbringung**
-
-Nach Art. 426 Abs. 3 ZGB gilt das Subsidiaritätsprinzip auch bei der Frage der Entlassung: Wenn ambulante Betreuungsmöglichkeiten ausreichen, ist die Unterbringung aufzuheben.
-
-*Einschlägig für:* Art. 426 Abs. 3 ZGB; Entlassungsanspruch; Subsidiaritätsprinzip; ambulante Alternativen
+### [BGer 5A_638/2013 vom 20. September 2013, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_638_2013#e-2-1)
+- **Thema**: Schwere Alkoholabhängigkeit als psychische Störung; Rückfallgefahr
+- **Kernaussage**: Eine schwere Alkoholabhängigkeit stellt eine psychische Störung im Sinne von Art. 426 Abs. 1 ZGB dar, an der eine derzeitige Abstinenz in geschützter Umgebung nichts ändert. Bei hoher Rückfallgefahr und gravierender Selbstgefährdung ist eine Entlassung nicht gerechtfertigt.
+- **Einschlägig für**: Art. 426 Abs. 1 und 3 ZGB, Suchterkrankungen, Entlassungsprüfung
 
 ---
 
-#### 12. BGer 5A_1048/2025 — Geeignetheit der Einrichtung
-
-**Geeignetheit der Einrichtung bei fürsorgerischer Unterbringung**
-
-Die Unterbringung muss in einer auf die Bedürfnisse der betroffenen Person ausgerichteten Einrichtung erfolgen; eine Notlösung kann vorübergehend zulässig sein, erfüllt aber nicht die Anforderungen einer dauerhaften Lösung.
-
-*Einschlägig für:* Art. 426 Abs. 1 ZGB; Geeignetheit der Einrichtung; Verhältnismässigkeit
+### [BGer 5A_467/2025 vom 9. Juli 2025, E. 3.3.5](https://mcp.opencaselaw.ch/entscheid/bger_5A_467_2025#e-3-3-5)
+- **Thema**: Demenzielle Erkrankung als Unterbringungsgrund; Verhältnismässigkeit
+- **Kernaussage**: Demenzielle Erkrankungen stellen psychische Störungen im Sinne von Art. 426 Abs. 1 ZGB dar. Droht bei fehlender ambulanter Betreubarkeit eine erhebliche Selbst- oder Drittgefährdung, ist die Unterbringung in einem geeigneten Pflegeheim verhältnismässig.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Demenz, Verhältnismässigkeit
 
 ---
 
-#### 13. BGer 5A_467/2025 — Belastung Angehöriger, Entlassung
+### [BGer 5A_215/2026 vom 7. Mai 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_5A_215_2026#e-5)
+- **Thema**: Schizoaffektive Störung und vollständige Anosognosie
+- **Kernaussage**: Vollständige Krankheitseinsichtslosigkeit (Anosognosie) bei einer schizoaffektiven Störung begründet nach dem Scheitern ambulanter Massnahmen das Erfordernis einer stationären Unterbringung.
+- **Einschlägig für**: Art. 426 Abs. 1 ZGB, Anosognosie, Ambulante Massnahmen
 
-**Suchtmittelabhängigkeit als Unterbringungsgrund; Belastung der Angehörigen**
+---
 
-Die Weigerung der betroffenen Person, sich freiwillig in Behandlung zu begeben, kann die fürsorgerische Unterbringung rechtfertigen, wenn eine konkrete Selbst- oder Fremdgefährdung vorliegt. Bei der Entlassung nach Art. 426 Abs. 3 ZGB ist zu berücksichtigen, dass die Belastung der Angehörigen bei der Frage der Geeignetheit der ambulanten Versorgung mitzubeurteilen ist.
+### [Gericht LU 3H 21 18 vom 27. April 2021](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3H_21_18)
+- **Kanton**: Luzern (Kantonsgericht)
+- **Thema**: Abgrenzung der fürsorgerischen Unterbringung zur Begutachtungseinweisung
+- **Kernaussage**: Die Einweisung einer Person in eine geeignete Einrichtung zur Begutachtung nach Art. 449 ZGB ist von der fürsorgerischen Unterbringung nach Art. 426 ZGB abzugrenzen. Da die stationäre Begutachtung nicht der Krisenintervention dient, kann sie nicht vorsorglich durch ein einzelnes Behördenmitglied angeordnet werden.
+- **Einschlägig für**: Art. 426 ZGB, Art. 449 ZGB, Krisenintervention
 
-*Einschlägig für:* Art. 426 Abs. 1 und 3 ZGB; Suchtmittelabhängigkeit; Belastung Angehöriger; Entlassung
+---
+
+### [Gericht SG V-2013/323 vom 7. Januar 2014](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_V-2013_323)
+- **Kanton**: St. Gallen (Verwaltungsrekurskommission)
+- **Thema**: Kollegialbehördenzuständigkeit der KESB und persönliche Anhörung
+- **Kernaussage**: Ordnet die KESB eine fürsorgerische Unterbringung an, ist die betroffene Person vorgängig in der Regel durch die Kollegialbehörde anzuhören (Art. 447 Abs. 2 ZGB).
+- **Einschlägig für**: Art. 426 ZGB, Art. 440 Abs. 2 ZGB, Art. 447 Abs. 2 ZGB, Anhörungspflicht

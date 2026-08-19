@@ -1,113 +1,102 @@
 ---
-title: "Art. 426 — Fürsorgeunterbringung"
+title: "Art. 426 ZGB — Voraussetzungen"
 weight: 426
-date: "2026-05-22"
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 426 ZGB: Fürsorgeunterbringung bei psychischer Störung, geistiger Behinderung oder schwerer Verwahrlosung; Ultima-ratio-Prinzip; Verfahrensgarantien; Entlassungsanspruch"
-tags: ["ZGB", "Erwachsenenschutz", "Fürsorgeunterbringung", "Ultima ratio", "Patientenautonomie", "Verfahrensgarantien"]
+date: 2026-05-22
+lastmod: 2026-08-19
+description: "Kommentar zu Art. 426 ZGB: Voraussetzungen der fürsorgerischen Unterbringung (psychische Störung, geistige Behinderung, schwere Verwahrlosung), Verhältnismässigkeit, Angehörigenschutz und Entlassungsanspruch."
+tags: ["ZGB", "Erwachsenenschutz", "Fürsorgerische Unterbringung", "Selbstgefährdung", "Verfahrensgarantien"]
 agent_verified: true
+revisions:
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "Gemini 3.7 Flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Einarbeitung BGE 145 III 441, BGE 148 I 1, BGE 148 III 1, BGE 140 III 105, BGE 146 III 377, BGE 152 III 218 sowie kantonale Praxisfragen; Belege via check_claim_support geprüft, attest_response ok"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 426 ZGB — Fürsorgeunterbringung**
+> **Art. 426**
 >
-> 1 Eine Person, die an einer psychischen Störung oder an geistiger Behinderung leidet oder schwer verwahrlost ist, darf in einer geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann.
+> ^1 Eine Person, die an einer psychischen Störung oder an geistiger Behinderung leidet oder schwer verwahrlost ist, darf in einer geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann.
 >
-> 2 Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
+> ^2 Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
 >
-> 3 Die betroffene Person wird entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind.
+> ^3 Die betroffene Person wird entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind.
 >
-> 4 Die betroffene oder eine ihr nahestehende Person kann jederzeit um Entlassung ersuchen. Über dieses Gesuch ist ohne Verzug zu entscheiden.
----
-
-### I. Überblick und Verfassungsrechtlicher Rahmen
-
-Art. 426 ZGB ist die zentrale Norm der fürsorgerischen Unterbringung im Schweizer Recht. Die Unterbringung führt zu Freiheitsentzug i.S.v. Art. 5 Ziff. 1 EMRK und bedarf daher einer klaren gesetzlichen Grundlage, die den Anforderungen der EMRK genügt (BGE 145 III 441; EGMR T.B. gegen Schweiz, 1760/15). Die Patientenautonomie ist als Grundrecht zu wahren: Das Prinzip der Fürsorge muss hinter dem Grundsatz der Selbstbestimmung zurücktreten (BGE 148 I 1).
+> ^4 Die betroffene oder eine ihr nahestehende Person kann jederzeit um Entlassung ersuchen. Über dieses Gesuch ist ohne Verzug zu entscheiden.
+{: .gesetzeszitat}
 
 ---
 
-### II. Unterbringungsgründe (Abs. 1)
+## Überblick und Bedeutung
 
-#### 1. Psychische Störung
+Art. 426 ZGB bildet die materiell-rechtliche Grundnorm der fürsorgerischen Unterbringung (FU) im Schweizer Erwachsenenschutzrecht. Die Bestimmung regelt die Voraussetzungen, unter denen eine volljährige Person gegen ihren Willen oder ohne ihre wirksame Zustimmung in einer geschlossenen oder offenen Einrichtung untergebracht bzw. zurückbehalten werden darf ([Botschaft Erwachsenenschutz, BBl 2006 7001, S. 7058 ff.](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-Der Begriff der psychischen Störung ist weit zu verstehen und umfasst alle krankheitswertigen psychischen Zustände: Schizophrenie, schizo-affektive Störungen, Bipolarstörungen, schwere Depressionen mit Suizidalität, Suchterkrankungen etc. Die Störung muss aktuell bestehen und eine Betreuung erforderlich machen, die ausserhalb einer Einrichtung nicht möglich ist.
-
-**Anosognosie**: Vollständige Krankheitseinsichtslosigkeit (Anosognosie) spricht für eine Unterbringung, da die betroffene Person ihren Zustand nicht selbst erkennen und eine Behandlung nicht freiwillig in Anspruch nehmen kann (5A_215/2026 E. 5).
-
-#### 2. Geistige Behinderung
-
-Geistige Behinderung im Sinne von Art. 426 Abs. 1 ZGB umfasst angeborene wie erworbene kognitive Beeinträchtigungen (Intelligenzminderung, Demenz etc.), die eine stationäre Betreuung erforderlich machen.
-
-#### 3. Schwere Verwahrlosung
-
-Der Begriff der «schweren Verwahrlosung» muss einem Zustand entsprechen, der mit der Menschenwürde unvereinbar ist und nur durch Unterbringung behoben werden kann. Er schliesst Handlungen aus, die auf vorübergehende Beeinträchtigung zurückzuführen sind (BGE 148 I 1 E. 8.1.2). Vorübergehende Bewusstseinsstörungen somatischer Ursache stehen einer Unterbringung entgegen.
+Da die fürsorgerische Unterbringung einen schwerwiegenden Eingriff in die persönliche Freiheit und die körperliche wie geistige Integrität darstellt (Art. 10 Abs. 2 BV; Art. 5 Ziff. 1 lit. e EMRK), unterliegt sie strengen verfassungs- und konventionsrechtlichen Schranken. Das Recht auf Selbstbestimmung drückt sich im medizinischen Bereich durch das Recht auf Zustimmung oder Ablehnung einer Behandlung aus ([BGE 148 I 1, E. 6.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_1#e-6-2-3)). Unter Vorbehalt besonderer gesetzlicher Konstellationen muss das Prinzip der wohlwollenden Fürsorge hinter dem Grundsatz des Respekts vor der Patientenautonomie zurücktreten ([BGE 148 I 1, E. 6.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_1#e-6-2-3)).
 
 ---
 
-### III. Ultima-ratio-Prinzip
+## Kommentierung
 
-Die Fürsorgeunterbringung ist das äusserste Mittel («ultima ratio»). Sie darf nur angeordnet werden, **wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann** (Abs. 1). Das bedeutet:
+### I. Unterbringungsgründe (Abs. 1)
 
-1. **Ambulante Alternativen**: Zunächst sind ambulante Behandlungen, Tageskliniken, betreutes Wohnen und andere weniger eingreifende Massnahmen zu prüfen.
-2. **Angehörige und Dritte**: Wenn Angehörige oder Dritte die notwendige Betreuung übernehmen können und bereit dazu sind, ist eine stationäre Unterbringung nicht erforderlich (5A_638/2013).
-3. **Kontinuierliche Überprüfung**: Die Voraussetzungen sind während der gesamten Unterbringungsdauer zu überprüufen (Art. 431 ZGB; periodische Überprüfung).
+Erste gesetzliche Voraussetzung für eine Anordnung der fürsorgerischen Unterbringung nach Art. 426 Abs. 1 ZGB ist das Vorliegen eines der drei vom Gesetzgeber abschliessend genannten Schwächezustände ([BGer 5A_500/2014 vom 8. Juli 2014, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_500_2014#e-1-1)):
 
-**Fremdgefährdung allein**: Art. 426 ZGB bildet keine genügende gesetzliche Grundlage für eine Unterbringung allein wegen Fremdgefährdung. Der EGMR (T.B. gegen Schweiz, 1760/15, 30. April 2019) hält fest, dass Art. 5 Ziff. 1 lit. e EMRK Freiheitsentziehung wegen Fremdgefährdung zwar zulässt, wenn ein «risque réel» eines «dommage grave» besteht – die Bedingungen müssen jedoch «clairement définies en droit interne» sein. Art. 426 ZGB genügt diesem nicht für rein fremdgefährdende Fälle (BGE 145 III 441).
+1. **Psychische Störung**: Der Rechtsbegriff der psychischen Störung umfasst sämtliche anerkannten Krankheitsbilder der Psychiatrie (nach ICD bzw. DSM). Hierzu zählen endogene Psychosen, schizoaffektive Störungen, bipolare Störungen sowie schwere Depressionen mit Suizidalität. Eine schwere Alkoholabhängigkeit stellt eine psychische Störung im Sinne von Art. 426 Abs. 1 ZGB dar, an der eine derzeitige Abstinenz in geschützter Umgebung nichts ändert ([BGer 5A_638/2013 vom 20. September 2013, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_638_2013#e-2-1)). Ebenso stellen demenzielle Erkrankungen psychische Störungen im Sinne von Art. 426 Abs. 1 ZGB dar ([BGer 5A_467/2025 vom 9. Juli 2025, E. 3.3.5](https://mcp.opencaselaw.ch/entscheid/bger_5A_467_2025#e-3-3-5)). Bei vollständiger Krankheitseinsichtslosigkeit (Anosognosie) ist die Abwehrbereitschaft gegenüber ambulanter Hilfe besonders ausgeprägt, was bei der Behandlungsbedürftigkeit zu gewichten ist ([BGer 5A_215/2026 vom 7. Mai 2026, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_5A_215_2026#e-5)).
+2. **Geistige Behinderung**: Umfasst angeborene wie früh erworbene Defizite der intellektuellen Entwicklung und kognitiven Fähigkeiten, sofern dadurch ein dauerhafter stationärer Betreuungsbedarf ausgelöst wird.
+3. **Schwere Verwahrlosung**: Dieser Unterbringungsgrund ist restriktiv auszulegen. Der Begriff der schweren Verwahrlosung setzt einen Zustand voraus, der mit der Menschenwürde unvereinbar ist und nur durch eine Unterbringung in einer Einrichtung behoben werden kann ([BGE 148 I 1, E. 8.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_1#e-8-1-2)). Eine bloss unkonventionelle oder sozial abweichende Lebensführung genügt nicht.
 
----
+### II. Behandlungs- und Betreuungsbedürftigkeit sowie Verhältnismässigkeit (Abs. 1)
 
-### IV. Belastung und Schutz von Angehörigen und Dritten (Abs. 2)
+Das Vorliegen eines Schwächezustands allein rechtfertigt keinen Freiheitsentzug. Hinzutreten muss, dass die betroffene Person der persönlichen Fürsorge, Behandlung oder Betreuung bedarf und dieser Bedarf «nicht anders» als durch eine Unterbringung in einer geeigneten Einrichtung gedeckt werden kann (Subsidiaritäts- und Verhältnismässigkeitsprinzip):
 
-Die Belastung von Angehörigen, die die Pflege übernehmen, und der Schutz Dritter vor Gefährdung sind bei der Unterbringungsentscheidung zu berücksichtigen. Die Angehörigenbelastung kann eine stationäre Unterbringung rechtfertigen, auch wenn die betroffene Person grundsätzlich noch zu Hause betreut werden könnte (5A 228/2016; 5A_638/2013). Die Belastung muss jedoch konkret und erheblich sein.
+- **Vorrang ambulanter Massnahmen**: Kann der Gefährdung durch ambulante Betreuung, Spitex, Tagesstrukturen oder Beistandschaften wirksam begegnet werden, ist eine Unterbringung unzulässig.
+- **Freiwilliger Eintritt und Willensmängel**: Dass eine urteilsfähige Person ihre Zustimmung zum Eintritt in eine Einrichtung äussert, reicht nicht, um den Eintritt als freiwillig zu qualifizieren; die Zustimmung muss auf dem freien und unverfälschten Willen beruhen und von eigener Überzeugung getragen sein ([BGer 5A_1127/2025 vom 20. April 2026, E. 4.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_1127_2025#e-4-4-2)). Ein freiwilliger Eintritt steht der fürsorgerischen Unterbringung zudem nur entgegen, wenn er die Gefährdung hinreichend abzuwenden vermag ([BGer 5A_1127/2025 vom 20. April 2026, E. 4.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_1127_2025#e-4-4-2)).
+- **Geeignetheit der Einrichtung**: Die gewählte Institution muss nach ihrer baulichen, personellen und therapeutischen Ausstattung in der Lage sein, die erforderliche Betreuung oder Behandlung tatsächlich zu erbringen ([BGE 152 III 218, E. 3.3.3](https://mcp.opencaselaw.ch/entscheid/bge_152%20III%20218#e-3-3-3)). Wer für die Kosten einer fürsorgerischen Unterbringung aufzukommen hat, ist im Streit um die Geeignetheit der Einrichtung im Sinne von Art. 426 Abs. 1 ZGB kein Thema; diese Frage wird durch das kantonale Recht geregelt ([BGer 5A_1048/2025 vom 18. Dezember 2025, E. 3.3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_1048_2025#e-3-3-2)).
+- **Abgrenzung zur Zwangsbehandlung**: Die fürsorgerische Unterbringung zur Behandlung einer psychischen Störung nach Art. 426 Abs. 1 ZGB ermächtigt nicht ohne Weiteres zu einer medikamentösen Zwangsbehandlung. Wird eine Person zur Behandlung einer psychischen Störung untergebracht, bedarf eine medizinische Behandlung ohne ihre Zustimmung einer gesonderten schriftlichen Anordnung durch die Chefärztin oder den Chefarzt nach Art. 434 Abs. 1 ZGB ([BGE 143 III 337, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_337#e-2-4-1)).
 
----
+### III. Fremdgefährdung und Schutz Dritter (Abs. 2)
 
-### V. Entlassungsanspruch (Abs. 3 und 4)
+- **Keine Unterbringung allein wegen Fremdgefährdung**: Art. 426 ZGB bildet keine genügende gesetzliche Grundlage, um allein wegen Fremdgefährdung eine fürsorgerische Unterbringung anzuordnen ([BGE 145 III 441, E. 8.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_441#e-8-4); gestützt auf EGMR *T.B. gegen Schweiz*, 1760/15). Art. 426 ZGB ist eine zivilrechtliche Fürsorgemassnahme zum Schutz der betroffenen Person selbst; dem reinen Schutz der Allgemeinheit vor Delikten dienen das Straf- und Massnahmenrecht (Art. 56 ff. StGB) sowie das Polizeirecht.
+- **Berücksichtigung nach Abs. 2**: Liegt jedoch ein persönlicher Fürsorgebedarf wegen eines Schwächezustands vor, sind die Belastung und der Schutz von Angehörigen und Dritten im Rahmen der Verhältnismässigkeitsprüfung mitzuberücksichtigen (Art. 426 Abs. 2 ZGB; [BGer 5A_638/2013 vom 20. September 2013, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_638_2013#e-1-1)). Eine unzumutbare Überlastung pflegender Angehöriger kann dazu führen, dass eine ambulante Betreuung als nicht mehr ausreichend beurteilt werden muss.
 
-Der Entlassungsanspruch nach Art. 426 Abs. 3 und 4 ZGB räumt der bevormundeten Person ein Recht auf Entlassung ein, wenn die Voraussetzungen für die Massnahme weggefallen sind. Nach [BGer 5A_1127/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_1127_2025) gilt das Subsidiaritätsprinzip auch bei der Frage der Entlassung: Wenn ambulante Betreuungsmöglichkeiten ausreichen, ist die Unterbringung aufzuheben. [BGer 5A_1048/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_1048_2025) konkretisiert die Geeignetheit der Einrichtung: Die Unterbringung muss in einer auf die Bedürfnisse der betroffenen Person ausgerichteten Einrichtung erfolgen; eine Notlösung kann vorübergehend zulässig sein, erfüllt aber nicht die Anforderungen einer dauerhaften Lösung.
+### IV. Entlassung und Entlassungsgesuch (Abs. 3 und 4)
 
-Die betroffene Person ist **unverzüglich** zu entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind (Abs. 3). Das Entlassungsgesuch kann von der betroffenen Person oder einer nahestehenden Person **jederzeit** gestellt werden. Über das Gesuch ist **ohne Verzug** zu entscheiden (Abs. 4).
+- **Entlassungsanspruch bei Wegfall der Voraussetzungen (Abs. 3)**: Die Massnahme ist strikt an das Fortbestehen ihrer gesetzlichen Voraussetzungen gebunden. Sobald der Schwächezustand remittiert, die Behandlung ambulant weitergeführt werden kann oder eine geeignete Betreuung ausserhalb der Einrichtung bereitsteht, ist die betroffene Person zwingend zu entlassen.
+- **Jederzeitiges Gesuchsrecht (Abs. 4)**: Die betroffene oder eine ihr nahestehende Person kann jederzeit ein Entlassungsgesuch einreichen. Über dieses Gesuch ist ohne Verzug zu entscheiden. Der Entscheid über die fürsorgerische Unterbringung muss in tatsächlicher Hinsicht darlegen, welche konkrete, gutachterlich festgestellte Gefahr für Leben oder Gesundheit der betroffenen Person bei einer Entlassung fortbestünde ([BGE 140 III 101, E. 6.2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_101#e-6-2-3)).
+- **Parteientschädigung**: Obsiegt die untergebrachte Person im gerichtlichen Beschwerdeverfahren und wird ihre Entlassung angeordnet, steht ihr nach bundesgerichtlicher Rechtsprechung eine Parteientschädigung zu ([BGE 140 III 167](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_167)).
 
----
+### V. Verfahrensgarantien und Gutachtenpflicht
 
-### Vb. Suchtmittelabhängigkeit als Unterbringungsgrund
+Aufgrund der Schwere des Eingriffs statuiert das Gesetz zwingende Verfahrensgarantien:
 
-Suchtmittelabhängigkeit kann als psychische Störung im Sinne von Art. 426 Abs. 1 ZGB eine fürsorgerische Unterbringung rechtfertigen, sofern die Voraussetzungen der Selbst- oder Fremdgefährdung erfüllt sind. [BGer 5A_467/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_467_2025) hielt fest, dass die Weigerung der betroffenen Person, sich freiwillig in Behandlung zu begeben, die fürsorgerische Unterbringung rechtfertigen kann, wenn eine konkrete Selbst- oder Fremdgefährdung vorliegt. Bei der Entlassung nach Art. 426 Abs. 3 ZGB ist zu berücksichtigen, dass die Belastung der Angehörigen bei der Frage der Geeignetheit der ambulanten Versorgung mitzubeurteilen ist.
-
----
-
-### VI. Verfahrensgarantien
-
-#### 1. Gutachtenpflicht
-
-Bei Unterbringung wegen psychischer Störung ist ein Gutachten einer sachverständigen Person zwingend erforderlich (Art. 450e Abs. 3 ZGB). Das Gutachten hat sich zu äussern über (BGE 140 III 105):
-
-1. den Gesundheitszustand;
-2. wie sich die gesundheitlichen Störungen hinsichtlich Selbst- oder Fremdgefährdung oder Verwahrlosung auswirken;
-3. ob Handlungsbedarf besteht;
-4. mit welcher konkreten Gefahr bei Unterbleiben der Behandlung zu rechnen ist;
-5. ob die stationäre Behandlung unerlässlich ist.
-
-Das Gutachten muss die konkrete Gefahr benennen; eine allgemeine «latente» Selbst- oder Fremdgefährdung ohne Konkretisierung genügt nicht (BGE 143 III 189).
-
-#### 2. Unabhängigkeit des Gutachters
-
-Der Gutachter muss vom Gericht unabhängig sein und darf nicht fachkundiges Mitglied des Spruchkörpers sein (BGE 148 III 1). Ein Fachrichter kann den Beizug eines unabhängigen Gutachters nicht ersetzen (BGE 140 III 105).
-
-#### 3. Rechtliches Gehör
-
-Das Gericht darf die Unterbringung auf einen anderen als den im ärztlichen Entscheid angegebenen Grund stützen, wenn die betroffene Person sich dazu vorgängig äussern konnte (BGE 148 III 1).
+- **Zwingendes Gutachten bei psychischer Störung**: Das gestützt auf Art. 450e Abs. 3 ZGB einzuholende Gutachten einer sachverständigen Person hat sich über den Gesundheitszustand, die Auswirkungen hinsichtlich Gefährdung oder Verwahrlosung, den Handlungsbedarf, die konkrete Gefahr bei Unterbleiben der Behandlung sowie die Unerlässlichkeit der stationären Massnahme zu äussern ([BGE 140 III 105, E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_105#e-2-4)). Wird das Gericht nach einer ärztlichen fürsorgerischen Unterbringung angerufen, ist bei einer psychischen Störung ebenfalls gestützt auf das Gutachten einer sachverständigen Person zu entscheiden ([BGE 143 III 189, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_189#e-3-2)).
+- **Unabhängigkeit des Gutachters / Fachrichterverbot**: Die gerichtliche Beschwerdeinstanz hat das Gutachten einer behörden- und gerichtsunabhängigen sachverständigen Person einzuholen; ein Fachrichter des Spruchkörpers kann den Beizug eines unabhängigen Experten nicht ersetzen ([BGE 148 III 1, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1#e-2-4-3); [BGE 140 III 105, E. 2.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_105#e-2-7)).
+- **Rechtliches Gehör bei Grundwechsel**: Das Gericht ist befugt, die fürsorgerische Unterbringung auf einen anderen als den im ärztlichen Entscheid genannten gesetzlichen Unterbringungsgrund zu stützen, sofern den Parteien dazu das rechtliche Gehör gewährt wurde ([BGE 148 III 1, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1#e-3-3)).
 
 ---
 
-### VII. Materialien
+## Praxisfragen
 
-**Botschaft vom 28. Juni 2006** zur Änderung des Schweizerischen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und Kindesrecht), BBl 2006 7001 ff. Ergänzend: BGE 148 III 1 E. 2.4.2 verweist auf die Botschaft zu Art. 450e ZGB und EGMR D.N. gegen Schweiz (27154/95, 29. März 2001).
+### 1. Zuständigkeit bei ärztlicher Einweisung und KESB-Verfahren
+
+In der Praxis erfolgen Notfallunterbringungen häufig durch Ärztinnen und Ärzte (Art. 429 ZGB) für maximal sechs Wochen, während die behördliche Unterbringung und deren Verlängerung in die Zuständigkeit der KESB fallen (Art. 428, Art. 431 ZGB).
+
+- **Interkantonale örtliche Zuständigkeit**: Für die gerichtliche Beurteilung der Beschwerde gegen eine ärztlich angeordnete fürsorgerische Unterbringung ist interkantonal das Gericht an dem Ort zuständig, wo die Unterbringung angeordnet wurde ([BGE 146 III 377, E. 6.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_377#e-6-3-3)).
+- **Kollegialbehördenprinzip der KESB**: Ordnet die KESB eine fürsorgerische Unterbringung an, ist die betroffene Person vorgängig in der Regel durch die Kollegialbehörde anzuhören ([Gericht SG V-2013/323 vom 7. Januar 2014](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_V-2013_323); Art. 447 Abs. 2 ZGB).
+
+### 2. Abgrenzung zur Einweisung zur Begutachtung (Art. 449 ZGB)
+
+In kantonalen Verfahren stellt sich wiederholt die Frage, ob eine Person zur Erstellung eines Gutachtens vorsorglich untergebracht werden darf.
+
+- Die Einweisung einer Person in eine geeignete Einrichtung zur Begutachtung nach Art. 449 ZGB ist von der fürsorgerischen Unterbringung nach Art. 426 ZGB abzugrenzen; da die stationäre Begutachtung nicht der Krisenintervention dient, kann sie nicht vorsorglich durch ein einzelnes Behördenmitglied angeordnet werden ([Gericht LU 3H 21 18 vom 27. April 2021](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3H_21_18)). Eine sofortige Freiheitsentziehung im Krisenfall setzt stets die materiellen Voraussetzungen von Art. 426 ff. ZGB voraus.
 
 ---
 
-### VIII. Literaturhinweise
+## Literatur
 
-- OnlineKommentar.ch: kein Eintrag zu Art. 426 ZGB vorhanden (Lücke)
-- Systematische Doktrintimeline über [OpenCaseLaw.ch](https://mcp.opencaselaw.ch)
+- **Geiser Thomas / Etzensberger Sarah**, in: Geiser/Fountoulakis (Hrsg.), Basler Kommentar, Zivilgesetzbuch I, 7. Aufl., Basel 2022, Art. 426–439 ZGB.
+- **Delabays Olivier / Delaloye Guy**, in: Commentaire romand, Code civil I, 2. Aufl., Basel 2024, Art. 426 ZGB.
+- **Bernhart Christof**, Handbuch der fürsorgerischen Unterbringung, Basel 2011.
+- **Fountoulakis Christiana / Breitschmid Peter / Geiser Thomas** (Hrsg.), Fachhandbuch Kindes- und Erwachsenenschutzrecht, Zürich/Basel/Genf 2016.
