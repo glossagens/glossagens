@@ -1,11 +1,17 @@
 ---
-title: "Art. 388 — Leitprinzipien des Erwachsenenschutzes"
+title: "Art. 388 ZGB — Leitprinzipien des Erwachsenenschutzes"
 weight: 388
-date: "2026-05-24"
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 388 ZGB – Wohl, Schutz und Selbstbestimmung als Leitprinzipien des Erwachsenenschutzrechts"
+date: 2026-05-24
+lastmod: 2026-08-19
+description: "Kommentar zu Art. 388 ZGB – Wohl, Schutz und Erhaltung sowie Förderung der Selbstbestimmung als fundamentale Leitprinzipien des Schweizer Erwachsenenschutzrechts."
 tags: ["ZGB", "Erwachsenenschutz", "Selbstbestimmung", "Beistandschaft", "Wohl", "Subsidiarität"]
 agent_verified: true
+revisions:
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Kompletter Overhaul: Systematische Aufbereitung von Wohl, Schutz und Selbstbestimmung; Verfassungs- und Konventionsbezug (Art. 10 Abs. 2 BV, Art. 12 UN-BRK); Integration von BGE 151 III 529, BGE 140 III 49 und kantonalen Leitentscheiden; Belege via check_claim_support und attest_response verifiziert."
 ---
 
 ## Gesetzeswortlaut
@@ -16,86 +22,90 @@ agent_verified: true
 >
 > 2 Sie sollen die Selbstbestimmung der betroffenen Person so weit wie möglich erhalten und fördern.
 
+---
+
 ## Kommentierung
 
 ### I. Überblick und Bedeutung
 
-**1** **Leitnorm des Erwachsenenschutzrechts.** Art. 388 ZGB ist die **Leitnorm des gesamten Erwachsenenschutzrechts** (Art. 360–456 ZGB). Er formuliert zwei Grundprinzipien, die als Auslegungsrichtlinien für sämtliche Massnahmen des Erwachsenenschutzes dienen: das **Wohl- und Schutzprinzip** (Abs. 1) und das **Selbstbestimmungsprinzip** (Abs. 2). Zusammen mit Art. 389 ZGB (Subsidiarität und Verhältnismässigkeit) bildet Art. 388 den massgeblichen Rahmen für die Errichtung, Ausgestaltung und Aufhebung aller Beistandschaften.
+**1** **Fundamentale Leitnorm.** Art. 388 ZGB statuiert die **tragenden Grundprinzipien des gesamten Erwachsenenschutzrechts** (Art. 360–456 ZGB). Die Bestimmung formuliert ein doppeltes Leitmotiv: Einerseits verpflichtet Abs. 1 die Behörden zur Sicherstellung von **Wohl und Schutz** hilfsbedürftiger Personen (Schutzprinzip); andererseits verlangt Abs. 2, die **Selbstbestimmung** der betroffenen Person so weit wie möglich zu erhalten und aktiv zu fördern (Selbstbestimmungsprinzip). Zusammen mit den in Art. 389 ZGB verankerten Handlungsmaximen der Subsidiarität und Verhältnismässigkeit bildet Art. 388 ZGB den normativen Massstab für die Anordnung, Ausgestaltung, Überprüfung und Aufhebung sämtlicher behördlicher Massnahmen.
 
-Die Norm wurde mit der Revision des Kindes- und Erwachsenenschutzrechts (KESR, Inkrafttreten 1.1.2013) neu eingefügt und ersetzt die vormundschaftsrechtlichen Grundprinzipien des alten Rechts. Die Botschaft (BBl 2006 7001, S. 7022) betont, dass die Förderung der Selbstbestimmung das erklärte Ziel der Revision war — das alte Vormundschaftsrecht wurde als zu bevormundend und nicht ausreichend respektvolld gegenüber der Autonomie der betroffenen Person kritisiert.
+**2** **Historischer Kontext und Paradigmenwechsel.** Mit dem Inkrafttreten des revidierten Kindes- und Erwachsenenschutzrechts per 1. Januar 2013 vollzog der Bundesgesetzgeber eine grundlegende Abkehr vom früheren, bevormundenden Vormundschaftsrecht ([Botschaft BBl 2006 7001, S. 7042](https://fedlex.data.admin.ch/eli/fga/2006/899)). Während das alte Recht primär auf statusmässigen Schutz und Entmündigung ausgerichtet war, stellt das moderne Recht die persönliche Autonomie und die massgeschneiderte Unterstützung („Massnahme nach Mass“, Art. 391 Abs. 1 ZGB) in den Mittelpunkt.
 
-**2** **Geltungsbereich.** Art. 388 ZGB gilt für **alle** Massnahmen des Erwachsenenschutzes: Beistandschaften (Art. 393–395 ZGB), Vorsorgeaufträge (Art. 360–362 ZGB), Vertretungsbeistandschaften (Art. 394 ZGB), Vermögensverwaltungsbeistandschaften (Art. 395 ZGB) und umfassende Beistandschaften (Art. 398 ZGB). Auch bei Massnahmen der fürsorgerischen Unterbringung (Art. 426–439 ZGB) ist Art. 388 als Auslegungsrichtlinie heranzuziehen.
-
-**3** **Verfassungsrang.** Das Selbstbestimmungsprinzip hat Verfassungsrang und konkretisiert das Recht auf persönliche Freiheit (Art. 10 Abs. 2 BV) sowie die Würde des Menschen (Art. 7 BV). Auf internationaler Ebene ist Art. 12 UN-Behindertenrechtskonvention (CRPD) massgeblich, der den gleichberechtchten Zugang zur Rechts- und Handlungsfähigkeit gewährleistet.
+**3** **Verfassungs- und Völkerrechtsbezug.** Das Selbstbestimmungsprinzip von Art. 388 Abs. 2 ZGB konkretisiert auf Gesetzesebene das verfassungsmässige Grundrecht der persönlichen Freiheit (Art. 10 Abs. 2 BV) sowie den Schutz der Menschenwürde (Art. 7 BV). International korrespondiert die Norm mit Art. 12 des Übereinkommens über die Rechte von Menschen mit Behinderungen (UN-Behindertenrechtskonvention, UN-BRK; SR 0.109) sowie Art. 8 EMRK (Recht auf Achtung des Privat- und Familienlebens; [BGE 130 I 16, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_I_16#e-5-2)).
 
 ---
 
 ### II. Wohl- und Schutzprinzip (Abs. 1)
 
-**4** **Schutzauftrag des Staates.** Abs. 1 statuiert den **Schutzauftrag des Staates**: Die behördlichen Massnahmen stellen das Wohl und den Schutz hilfsbedürftiger Personen sicher. Dies ist die Legitimationsgrundlage für staatliche Eingriffe in die Handlungsfähigkeit und Autonomie der betroffenen Person. Der Schutzauftrag umfasst sowohl die Gefahrenabwehr als auch die positive Förderung des Wohls der hilfsbedürftigen Person ([BGer 5A_211/2014](https://www.bger.ch/ext/eurolex/index/5A_211/2014)).
+**4** **Schutzauftrag als staatliche Legitimation.** Nach [BGer 5A_211/2014 vom 14. Juli 2014, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_211_2014#e-3-1) haben die behördlichen Massnahmen das Wohl und den Schutz hilfsbedürftiger Personen sicherzustellen. Dieser gesetzlich verankerte Schutzauftrag begründet das öffentliche Interesse an behördlichen Interventionen und rechtfertigt unter den verfassungsrechtlichen Voraussetzungen von Art. 36 BV auch Eingriffe in Grundrechte der betroffenen Person.
 
-**5** **Wohl der betroffenen Person.** Das Wohl («Wohl der hilfsbedürftigen Person») ist ein unbestimmter Rechtsbegriff, der im Einzelfall durch Interessenabwägung zu konkretisieren ist. Das Bundesgericht versteht darunter die **Gesamtheit der Interessen** der betroffenen Person — einschliesslich der gesundheitlichen, sozialen, finanziellen und persönlichen Belange. Das Wohl ist nicht identisch mit dem, was die Behörde für richtig hält, sondern muss aus der Perspektive der betroffenen Person bestimmt werden ([BGer 5A_611/2017](https://www.bger.ch/ext/eurolex/index/5A_611/2017), E. 4).
+**5** **Begriff des Wohls.** Das „Wohl“ ist ein unbestimmter Rechtsbegriff, der die Gesamtheit der persönlichen, gesundheitlichen, sozialen und materiellen Interessen der hilfsbedürftigen Person umfasst. Massgebend ist das objektive Schutzbedürfnis, verknüpft mit dem subjektiven Empfinden der betroffenen Person. Das Schutzprinzip dient nicht der Durchsetzung gesellschaftlicher Konformität oder administrativer Zweckmässigkeit, sondern ausschliesslich dem individuellen Interesse der betroffenen Person.
 
-**6** **Hilfsbedürftigkeit.** Der Begriff der «hilfsbedürftigen Person» verweist auf die Errichtungsvoraussetzungen der jeweiligen Schutzmassnahme (Art. 393 ZGB: geistige Behinderung, psychische Störung, altersbedingte Hilflosigkeit etc.). Art. 388 Abs. 1 definiert nicht selbständig, wer hilfsbedürftig ist, sondern beschreibt das Ziel der Massnahme für diejenigen, die als hilfsbedürftig anerkannt wurden.
+**6** **Erfordernis konkreter Hilfsbedürftigkeit.** Nach [BGer 5A_211/2014 vom 14. Juli 2014, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_211_2014#e-3-3) bezwecken die behördlichen Massnahmen des Erwachsenenschutzes, das Wohl und den Schutz der hilfsbedürftigen Person sicherzustellen, wozu tatsächliche Umstände dargetan sein müssen, die auf eine Hilfsbedürftigkeit schliessen lassen. Eine blosse psychische Auffälligkeit oder eine Belastung des sozialen Umfelds genügt für sich allein noch nicht, um eine behördliche Schutzbedürftigkeit zu begründen.
 
-**7** **Schutz als Rechtfertigungsgrenze.** Der Schutzzweck ist nicht nur Legitimation, sondern auch **Grenze** behördlichen Handelns: Massnahmen, die nicht dem Wohl und Schutz der hilfsbedürftigen Person dienen, sind rechtswidrig. Dies gilt insbesondere für Massnahmen, die primär den Interessen Dritter (z.B. Anverwandte, Heime) dienen ([BGer 5A 101/2023](https://www.bger.ch/ext/eurolex/index/5A_101/2023)).
+**7** **Schutz vor Drittinteressen.** Die behördlichen Schutzmassnahmen sind ausschliesslich auf das Wohl der hilfsbedürftigen Person auszurichten. Behördliche Massnahmen dürfen nicht dazu missbraucht werden, Belange dritter Personen oder fiskalische Interessen des Gemeinwesens zu befriedigen ([BGer 5A_101/2023 vom 9. Juni 2023, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_101_2023#e-3-4)).
 
 ---
 
 ### III. Selbstbestimmungsprinzip (Abs. 2)
 
-**8** **Erhalt und Förderung der Selbstbestimmung.** Abs. 2 formuliert das **Gegenprinzip** zum Schutzgedanken: Die Selbstbestimmung der betroffenen Person soll so weit wie möglich erhalten und gefördert werden. Dies ist nicht nur ein Defensivrecht (Abwehr übermässiger Eingriffe), sondern auch ein Förderauftrag: Die Behörde soll die Eigeninitiative und die Autonomie der betroffenen Person aktiv stärken.
+**8** **Erhaltung und Förderauftrag.** Art. 388 Abs. 2 ZGB enthält ein zweifaches Gebot: Die Selbstbestimmung ist einerseits als Abwehrrecht gegen unzulässige staatliche Eingriffe **so weit wie möglich zu erhalten**; andererseits enthält die Norm einen positiven **Förderauftrag**, wonach die verbleibenden Fähigkeiten der betroffenen Person zur eigenverantwortlichen Lebensgestaltung gestärkt und reaktiviert werden sollen.
 
-**9** **Stufenverhältnis.** Art. 388 Abs. 2 ZGB begründet ein **Stufenverhältnis**: Massnahmen sind so zu wählen, dass die Selbstbestimmung **so weit wie möglich** erhalten bleibt. Dies bedeutet, dass eine leichtere Massnahme Vorrang hat, wenn sie den erforderlichen Schutz ebenso gut gewährleistet ([BGE 140 III 49](https://www.bger.ch/ext/eurolex/index/140/III/49), E. 4.3.1). Das Stufenverhältnis ist: Vorsorgeauftrag → Beistandschaft für einzelne Handlungen → Beistandschaft mit Vertretung in bestimmten Angelegenheiten → umfassende Beistandschaft.
+**9** **Vorrang der Selbstvorsorge.** Das Selbstbestimmungsprinzip manifestiert sich primär im Vorrang der eigenen Vorsorge durch Vorsorgeauftrag (Art. 360 ff. ZGB) oder Patientenverfügung (Art. 370 ff. ZGB). Das Bundesgericht hält fest, dass das Selbstbestimmungsrecht der auftraggebenden Person bei der Prüfung eines Vorsorgeauftrags möglichst weitgehend zu respektieren und die Eignung der beauftragten Person nur zurückhaltend zu verneinen ist ([BGE 151 III 529, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_151%20III%20529#e-3-1)). Solange die beauftragte Person geeignet ist, darf die Behörde selbst bei innerfamiliären Differenzen nicht intervenieren.
 
-**10** **Selbstbestimmung und Verhältnismässigkeit.** Art. 388 Abs. 2 ZGB konkretisiert das verfassungsrechtliche Verhältnismässigkeitsgebot im Erwachsenenschutzrecht. Das Kantonsgericht Graubünden ([ZK1 2018 58](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1_2018_58)) hebt hervor, dass das Selbstbestimmungsrecht Verfassungsrang hat und jede Massnahme einer **Verhältnismässigkeitsprüfung** standhalten muss. Das Gebot lautet: so viel Selbstbestimmung wie möglich, so viel staatlicher Schutz wie nötig.
-
-**11** **Willensäusserung der betroffenen Person.** Die Selbstbestimmung äussert sich besonders in der **Willensäusserung** der betroffenen Person. Nach Art. 393 Abs. 2 ZGB ist der Wille der betroffenen Person zu berücksichtigen, soweit dies ihr Wohl zulässt. Hat die Person einen Vorsorgeauftrag errichtet (Art. 360 ff. ZGB), ist dieser grundsätzlich vor Amtes-weg-Massnahmen zu berücksichtigen ([BGer 5A_165/2019](https://www.bger.ch/ext/eurolex/index/5A_165/2019)).
-
-**12** **Grenzen der Selbstbestimmung.** Die Selbstbestimmung ist nicht schrankenlos. Wenn die Person durch ihre Entscheidungen ihr eigenes Wohl erheblich gefährdet, kann eine Schutzmassnahme gerechtfertigt sein, die die Selbstbestimmung einschränkt. Das Bundesgericht betont jedoch, dass eine bloss unvernünftige Entscheidung noch keine Gefährdung darstellt — es muss eine **erhebliche** Gefährdung vorliegen ([BGer 5A 902/2018](https://www.bger.ch/ext/eurolex/index/5A_902/2018)).
+**10** **Handlungsfähigkeit als Grundsatz.** Als Ausfluss des Selbstbestimmungsprinzips gilt: Eine Vertretungsbeistandschaft schränkt unter Vorbehalt einer anderweitigen Anordnung die Handlungsfähigkeit der betroffenen Person nicht ein ([BGer 5A_677/2014 vom 27. März 2015, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_677_2014#e-3-2)). Ein Entzug oder eine Beschränkung der Handlungsfähigkeit (Art. 394 Abs. 2, Art. 395 Abs. 3, Art. 398 ZGB) bildet die schwerste Massnahme und bedarf einer besonderen, qualifizierten Rechtfertigung ([BGE 140 III 97, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_97#e-4-2)).
 
 ---
 
-### IV. Spannungsverhältnis zwischen Wohl und Selbstbestimmung
+### IV. Spannungsverhältnis und praktische Konkordanz
 
-**13** **Grundspannung.** Abs. 1 (Wohl und Schutz) und Abs. 2 (Selbstbestimmung) stehen in einem **Spannungsverhältnis**: Je mehr Schutz die Massnahme bietet, desto mehr beeinträchtigt sie in der Regel die Selbstbestimmung. Die Aufgabe der Behörde besteht darin, im Einzelfall den angemessenen Ausgleich zu finden.
+**11** **Spannung zwischen Schutz und Autonomie.** Wohl/Schutz (Abs. 1) und Selbstbestimmung (Abs. 2) stehen in einem ständigen dialektischen Spannungsverhältnis. Ein übermässiger Schutzgedanke („Fürsorgefalle“) birgt das Risiko unzulässiger Bevormundung; eine überdehnte Selbstbestimmung kann hilflose Personen schutzlos Gefahren für Leib, Leben oder Vermögen aussetzen.
 
-**14** **Praktische Konkordanz.** Das Bundesgericht löst dieses Spannungsverhältnis durch den Grundsatz der **praktischen Konkordanz**: Wohl und Selbstbestimmung sind nicht als absolute, sondern als relative Prinzipien zu verstehen, die im Einzelfall gegeneinander abzuwägen sind ([BGer 5A 443/2008](https://www.bger.ch/ext/eurolex/index/5A_443_2008)). Je schwerer die Hilfsbedürftigkeit, desto mehr Gewicht erhält der Schutzgedanke; je geringer die Hilfsbedürftigkeit, desto mehr Gewicht hat die Selbstbestimmung.
+**12** **Praktische Konkordanz und Stufenverhältnis.** Dieses Spannungsverhältnis wird durch den Grundsatz der praktischen Konkordanz sowie die Maximen von Art. 389 ZGB gelöst: Subsidiarität bedeutet, dass behördliche Massnahmen nur dann anzuordnen sind, wenn die Betreuung der hilfsbedürftigen Person auf andere Weise nicht angemessen sichergestellt ist ([BGE 140 III 49, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_49#e-4-3-1)). Es gilt die Leitlinie: „So viel staatliche Fürsorge wie nötig, so wenig staatlicher Eingriff wie möglich.“
 
-**15** **Beispiel: Kontozugriff.** Der Entzug des Zugriffs auf das Sparkonto im Rahmen einer Beistandschaft muss dem Wohl- und Selbstbestimmungsgebot (Art. 388 ZGB) sowie dem Verhältnismässigkeitsgebot (Art. 389 ZGB) standhalten. Das Bundesgericht hat in [BGer 5A 621/2018](https://www.bger.ch/ext/eurolex/index/5A_621_2018) ausgeführt, dass eine umfassende Vermögensverwaltung nur gerechtfertigt ist, wenn die betroffene Person ihre Finanzen offensichtlich nicht mehr selbst besorgen kann.
-
----
-
-### V. Abgrenzungen
-
-- **Art. 389 ZGB**: Konkretisiert die Leitprinzipien von Art. 388 durch die Grundsätze der Subsidiarität (Abs. 1) und der Verhältnismässigkeit (Abs. 2). Art. 388 liefert die Wertung, Art. 389 die Operationalisierung.
-- **Art. 393 ZGB**: Errichtungsvoraussetzungen der Beistandschaft — definieren, wann eine Person «hilfsbedürftig» im Sinne von Art. 388 Abs. 1 ist.
-- **Art. 10 BV**: Das Selbstbestimmungsprinzip von Art. 388 Abs. 2 ZGB hat Verfassungsrang und ist eine Konkretisierung des Rechts auf persönliche Freiheit (Art. 10 Abs. 2 BV).
-- **Art. 12 UN-BRK**: Der gleichberechtigte Zugang zur Rechts- und Handlungsfähigkeit verpflichtet die Schweiz, Selbstbestimmung zu fördern und bevormundende Massnahmen zu vermeiden.
-- **Art. 360 ff. ZGB**: Der Vorsorgeauftrag ist das wichtigste Instrument der Selbstbestimmung im Erwachsenenschutz — er hat Vorrang vor einer Amtes-weg-Beistandschaft.
+**13** **Recht auf eine unkonventionelle Lebensführung.** Das Selbstbestimmungsrecht umfasst auch das Recht eines urteilsfähigen Menschen, ein eigenwilliges oder von gesellschaftlichen Normen abweichendes Leben zu führen. Solange keine Selbstgefährdung von erheblichem Ausmass oder eine Urteilsunfähigkeit vorliegt, rechtfertigt eine unkonventionelle Lebensweise (z.B. Vernachlässigung der Wohnungsordnung bei erhaltener Urteilsfähigkeit) keine behördliche Beistandschaft gegen den erklärten Willen des Betroffenen ([Gericht GR ZK1 2018 58 vom 20. August 2018](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1%202018%2058)).
 
 ---
 
-### VI. Verfahrensrechtliche Dimension
+### V. Verfahrensrechtliche Dimension
 
-**16** **Anhörungsrecht.** Die Selbstbestimmung äussert sich auch verfahrensrechtlich: Die betroffene Person ist vor jeder Massnahme anzuhören (Art. 449 ZGB). Die Anhörung ist nicht nur formales Erfordernis, sondern Ausdruck des Selbstbestimmungsprinzips.
+**14** **Persönliche Anhörung.** Die materiellen Leitprinzipien von Art. 388 ZGB strahlen direkt in das Verfahrensrecht aus. Die persönliche Anhörung der betroffenen Person soll, Art. 388 ZGB entsprechend, das Wohl und den Schutz hilfsbedürftiger Personen sicherstellen und die Selbstbestimmung der betroffenen Person so weit wie möglich erhalten und fördern ([BGer 5A_902/2018 vom 14. August 2019, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_902_2018#e-4-2); [BGer 5A_611/2017 vom 31. Januar 2018, E. 7.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_611_2017#e-7-1)). Die mündliche Anhörung gemäss Art. 447 Abs. 1 ZGB ist unverzichtbarer Ausdruck der Subjektstellung der betroffenen Person.
 
-**17** **Beschwerdelegitimation.** Ein Dritter ist zur Vormundschaftsbeschwerde legitimiert, wenn er sich auf Interessen der schutzbedürftigen Person beruft oder die Verletzung eigener Rechte geltend macht ([BGE 137 III 67](https://www.bger.ch/ext/eurolex/index/137/III/67)). Dieser Grundsatz aus dem alten Recht gilt nach wie vor und wird durch Art. 450 ZGB konkretisiert.
+**15** **Beweisführung und Gutachten.** Bei schwerwiegenden Eingriffen in die Rechtsstellung (insbesondere bei umfassender Beistandschaft nach Art. 398 ZGB) gebietet das Schutz- und Verhältnismässigkeitsprinzip zwingend die Einholung eines unabhängigen Sachverständigengutachtens, sofern der Spruchkörper nicht selbst über die erforderliche medizinisch-psychiatrische Fachkompetenz verfügt ([BGE 140 III 97, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_97#e-4-2)).
+
+---
+
+### VI. Praxisfragen
+
+#### 1. Grenzen behördlicher Intervention bei unkonventioneller Lebensführung („Hilfe wider Willen“)
+*Streitpunkt in der Praxis:* Wann schlägt der staatliche Schutzauftrag (Abs. 1) in eine unzulässige Bevormundung um, wenn eine Person trotz diagnostizierter Störung eine unkonventionelle Lebensführung wählt?
+*Lösung:* Bei erhaltener Urteilsfähigkeit gebietet Art. 388 Abs. 2 ZGB den Respekt vor der individuellen Lebensgestaltung. Eine Beistandschaft darf nicht aufgedrängt werden, wenn die Person ihre Angelegenheiten im Wesentlichen besorgen kann und keine schwere Verwahrlosung droht ([Gericht GR ZK1 2018 58 vom 20. August 2018](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1%202018%2058)).
+
+#### 2. Eignungsprüfung beim Vorsorgeauftrag im familiären Konfliktfeld
+*Streitpunkt in der Praxis:* Inwieweit darf die KESB einen Vorsorgeauftrag wegen familiärer Spannungen für unzureichend erklären und eine behördliche Beistandschaft errichten?
+*Lösung:* Das Bundesgericht verlangt grösste Zurückhaltung: Das Selbstbestimmungsrecht der vorsorgenden Person geht vor; blosse Spannungen unter Angehörigen rechtfertigen keine behördliche Massnahme, solange die gewählte Vertrauensperson zur Aufgabenerfüllung objektiv geeignet ist ([BGE 151 III 529, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_151%20III%20529#e-3-1); [Gericht AG AGVE 2014 56 vom 3. April 2013](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2014_56)).
+
+#### 3. Wahl massgeschneiderter Vertretungsbeistandschaften statt umfassender Massnahmen bei Demenz
+*Streitpunkt in der Praxis:* Muss bei fortgeschrittener Demenz automatisch eine umfassende Beistandschaft (Art. 398 ZGB) errichtet werden?
+*Lösung:* Nein. Selbst bei schweren kognitiven Einschränkungen gebietet Art. 388 Abs. 2 ZGB, die mildestmögliche Massnahme zu wählen. Eine Vertretungsbeistandschaft mit breitem Aufgabenkreis (Art. 394/395 ZGB) ohne generelle Handlungsfähigkeitsbeschränkung reicht in der Regel aus ([Gericht AG AGVE 2014 61 vom 14. November 2014](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2014_61)).
 
 ---
 
 ### Kasuistik
 
-**Errichtung einer Beistandschaft:** Bei der Errichtung jeder Beistandschaft sind Wohl, Schutz und Selbstbestimmung der betroffenen Person massgebend ([BGer 5A 902/2018](https://www.bger.ch/ext/eurolex/index/5A_902/2018); [BGer 5A_165/2019](https://www.bger.ch/ext/eurolex/index/5A_165/2019)). Die Massnahme muss subsidiär und verhältnismässig sein.
+- **Verfassungsrang und Verhältnismässigkeit:** Das Selbstbestimmungsrecht hat Verfassungsrang (Art. 10 Abs. 2 BV); behördliche Eingriffe unterliegen der strengen Verhältnismässigkeitsprüfung ([Gericht GR ZK1 2018 58 vom 20. August 2018](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_ZK1%202018%2058)).
+- **Subsidiarität und Stufenverhältnis:** Behördliche Unterstützung ist subsidiär zu privater und familiärer Hilfeleistung ([BGE 140 III 49, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_49#e-4-3-1); [Gericht VS C1 24 70 vom 26. Juni 2024](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C1%2024%2070); [Gericht OW OGVE 2018/19 Nr. 62 vom 19. Dezember 2022](https://mcp.opencaselaw.ch/entscheid/ow_gerichte_OGVE%202018_19%20Nr.%2062)).
+- **Verfahrensrechte und Anhörungspflicht:** Die persönliche Anhörung nach Art. 447 ZGB ist Ausfluss der Grundprinzipien von Art. 388 ZGB ([BGer 5A_902/2018 vom 14. August 2019, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_902_2018#e-4-2); [BGer 5A_611/2017 vom 31. Januar 2018, E. 7.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_611_2017#e-7-1)).
+- **Begutachtungspflicht:** Anordnung von psychiatrischen Gutachten zur Klärung des Schutzbedarfs nur bei ernsthafter Massnahmeindikation ([BGE 140 III 97, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_97#e-4-2); [BGer 5A_211/2014 vom 14. Juli 2014, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_211_2014#e-3-1)).
 
-**Massnahmenbemessung:** Die Wahl und der Umfang der Schutzmassnahme orientieren sich an den Grundsätzen von Art. 388 ZGB (Wohl, Schutz, Selbstbestimmung) und Art. 389 ZGB (Subsidiarität, Verhältnismässigkeit) ([BGer 5A_611/2017](https://www.bger.ch/ext/eurolex/index/5A_611/2017)).
-
-**Rechtsverzögerungsbeschwerde:** Die Schutzmassnahmen müssen dem Wohl und Schutz der hilfsbedürftigen Person dienen (Art. 388 Abs. 1 ZGB); dies gilt auch im Verfahrensrecht ([BGer 5A 101/2023](https://www.bger.ch/ext/eurolex/index/5A_101/2023)).
+---
 
 ## Literatur
 
-- Häfeli, in: Bucher et al., FamKomm Erwachsenenschutz, N 5 zu Art. 388 ZGB
-- Henkel, in: Geiser/Reusser, Basler Kommentar zum Erwachsenenschutz, N 9 zu Art. 388 ZGB
-- Reusser, in: Fountoulakis et al., Fachhandbuch Kindes- und Erwachsenenschutzrecht, N 2.6 ff.
-- Botschaft zum Kindes- und Erwachsenenschutzrecht, BBl 2006 7001
-- Auer, Der Vorsorgeauftrag, 2. Aufl. 2018, § 3 (Selbstbestimmung im Erwachsenenschutzrecht)
+- Christoph Häfeli / Daniel Rosch, in: Berner Kommentar zum ZGB, Der Erwachsenenschutz – Die behördlichen Massnahmen – Art. 388–425 ZGB, Bern 2023.
+- Philippe Meier, in: Zürcher Kommentar zum ZGB, Art. 388–404 ZGB, Der Erwachsenenschutz, Zürich 2021.
+- Thomas Geiser / Ruth Reusser (Hrsg.), Basler Kommentar zum Zivilgesetzbuch I (Art. 1–456 ZGB), 7. Aufl., Basel 2022.
+- Andrea Büchler / Christoph Häfeli / Audrey Leuba / Martin Stettler (Hrsg.), FamKomm Erwachsenenschutz, Bern 2013.
+- Botschaft zur Änderung des Schweizerischen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und Kindesrecht) vom 28. Juni 2006, [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899).
+- Daniel Rosch / Christa Liniger / Christof Steck Parmeggiani (Hrsg.), Praxisanleitung Erwachsenenschutzrecht, 2. Aufl., Zürich/St. Gallen 2020.
