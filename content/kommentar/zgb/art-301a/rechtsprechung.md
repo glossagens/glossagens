@@ -1,99 +1,128 @@
 ---
-title: "Rechtsprechung zu Art. 301a ZGB — Aufenthaltsbestimmungsrecht"
-weight: 301
-date: 2026-08-15
-lastmod: 2026-08-15
-description: "Rechtsprechungsübersicht zu Art. 301a ZGB: Leitentscheide zum Aufenthaltsbestimmungsrecht, Zustimmungserfordernis bei Auslandumzug, Informationspflicht, Förderbereitschaft und Kindeswohl."
-tags: ["ZGB", "Aufenthaltsbestimmungsrecht", "elterliche Sorge", "Auslandumzug", "Kindeswohl", "Förderbereitschaft", "Zustimmungserfordernis", "Rechtsprechung"]
-agent_verified: true
+title: "Rechtsprechung zu Art. 301a ZGB — Aufenthaltsort des Kindes"
+weight: 99
+date: 2026-08-19
+lastmod: 2026-08-19
+description: "Übersicht der Rechtsprechung zu Art. 301a ZGB: Grundsatzurteile des Bundesgerichts zu Ausland- und Inlandumzügen, aufschiebender Wirkung, Sanktionslosigkeit und kantonale Praxis."
+tags: ["Rechtsprechung", "ZGB", "Aufenthaltsbestimmungsrecht", "Elterliche Sorge", "Auslandumzug", "Inlandumzug"]
+agent_verified: false
 revisions:
-  - date: 2026-08-15
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Neuerstellung KW33 — Leitentscheid 5A_539/2026 aufgenommen."
+    note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit verifizierten Leitentscheiden, Bundesgerichtsurteilen und kantonalen Entscheiden."
 ---
 
-## Rechtsprechung zu Art. 301a ZGB — Aufenthaltsbestimmungsrecht
+## I. Leitentscheide (BGE)
 
-### 1. BGer 5A_539/2026 — Mangelnde Förderbereitschaft als selbstständiges Versagungskriterium
-
-**Leitsatz:** Verweigert der andere Elternteil die Zustimmung zum Auslandumzug des Kindes, so kann die mangelnde Förderbereitschaft des umzugswilligen Elternteils (fehlende Bereitschaft, die Beziehung des Kindes zum anderen Elternteil zu fördern) ein selbstständiges Versagungskriterium nach Art. 301a Abs. 2 ZGB darstellen. Das Bundesgericht stellt klar, dass die Förderbereitschaft nicht nur im Rahmen der Kindeswohlabwägung zu berücksichtigen ist, sondern als eigenständiger Grund für die Verweigerung der Zustimmung qualifizieren kann.
-
-**Sachverhalt:** Die allein obhutsberechtigte Mutter wollte mit dem gemeinsamen Kind ins Ausland umziehen. Der Vater verweigerte die Zustimmung. Die Mutter hatte in der Vergangenheit den Kontakt zwischen Kind und Vater wiederholt erschwert und geäussert, sie werde den Kontakt nach dem Umzug nicht aktiv fördern.
-
-**Erwägungen:** Das Bundesgericht hielt fest, dass die mangelnde Förderbereitschaft der Mutter ein gewichtiges Indiz gegen die Ersetzung der elterlichen Zustimmung sei. Die Förderbereitschaft sei als selbstständiges Kriterium zu prüfen und nicht lediglich als ein Faktor unter vielen in der Kindeswohlabwägung. Eine Elternteil, das sich nicht ernsthaft bereit erklärt, die Beziehung des Kindes zum anderen Elternteil zu fördern, vermag die Zustimmung des anderen Elternteils nicht ersetzen zu lassen.
-
-**Bedeutung:** Der Entscheid präzisiert die Anforderungen an die Ersetzung der elterlichen Zustimmung nach Art. 301a Abs. 2 ZGB und stärkt die Position des zurückbleibenden Elternteils. Die Förderbereitschaft wird als eigenständige Voraussetzung für die gerichtliche Zustimmungsersetzung anerkannt.
+### [BGE 142 III 481](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_481), E. 2.5–2.8
+- **Thema**: Wegzug des Kindes ins Ausland; Prüfungsmassstab und Niederlassungsfreiheit
+- **Kernaussage**: Bei der Beurteilung eines Auslandumzugs des Kindes gemäss [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a) ist von der verfassungsmässigen Niederlassungs- und Bewegungsfreiheit der Eltern ([Art. 24 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_24)) auszugehen. Das Gericht forscht nicht nach den Umzugsmotiven des Elternteils, sondern prüft unter der Prämisse des Wegzugs anhand des Kindeswohls, ob das Kind mit dem wegzugswilligen Elternteil gehen soll oder beim zurückbleibenden Elternteil verbleibt. Die Anpassung der Betreuungs-, Besuchs- und Unterhaltsregelung ([Art. 301a Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)) bildet eine notwendige Einheit mit dem Wegzugsentscheid.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
 
 ---
 
-### 2. BGE 142 III 617 — Auslandumzug und Kindeswohl
-
-**Leitsatz:** Bei einem Auslandumzug eines Elternteils mit dem Kind ist die Zustimmung des andern Elternteils erforderlich, sofern gemeinsame elterliche Sorge besteht. Das Gericht ersetzt die Zustimmung, wenn der Umzug dem Kindeswohl entspricht. Dabei sind alle Umstände des Einzelfalls umfassend abzuwägen, insbesondere die Gründe für den Umzug, die Auswirkungen auf das Kind und die Aufrechterhaltung des Kontakts zum zurückbleibenden Elternteil.
-
-**Sachverhalt:** Die Mutter wollte mit den gemeinsamen Kindern von der Schweiz nach Deutschland umziehen. Der Vater verweigerte die Zustimmung.
-
-**Erwägungen:** Das Bundesgericht entwickelte eine differenzierte Abwägungsmethodik. Massgebliche Kriterien sind: die Gründe für den Umzug, die familiäre und soziale Situation des Kindes am neuen Wohnort, die Auswirkungen auf den persönlichen Verkehr mit dem andern Elternteil, die Sprach- und Kulturgewöhnung des Kindes und die Zumutbarkeit für den zurückbleibenden Elternteil.
-
-**Bedeutung:** BGE 142 III 617 ist der führende Grundsatzentscheid zum Auslandumzug bei gemeinsamer elterlicher Sorge und bildet die Grundlage der heutigen Praxis, die in Art. 301a ZGB kodifiziert wurde.
+### [BGE 142 III 498](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_498), E. 4.4–4.6
+- **Thema**: Auslandumzug bei hälftiger Betreuung / alternierender Obhut
+- **Kernaussage**: Betreuen beide Elternteile das Kind bisher je zur Hälfte (alternierende Obhut), ist die Ausgangslage für die Wegzugsbeurteilung neutral. Die Kriterien der Obhutszuteilung im Trennungsfall sind heranzuziehen: persönliche Beziehung, Erziehungsfähigkeit, Stabilität der Verhältnisse sowie Sprache und Bezugspunkte zum Zielland. Wandert der Elternteil in ein Land aus, zu dem weder er noch das Kind persönliche oder sprachliche Bezüge aufweisen, kann die Zustimmung zum Auslandumzug des Kindes verweigert werden.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
 
 ---
 
-### 3. BGE 144 III 281 — Zustimmung zum Auslandumzug und erweiterte Abwägung
-
-**Leitsatz:** Die Zustimmung zum Auslandumzug kann nur ersetzt werden, wenn eine umfassende Abwägung aller Kindeswohlbelange ergibt, dass der Umzug dem Kindeswohl besser entspricht als das Verbleiben am bisherigen Wohnort. Die blosse Verbesserung der wirtschaftlichen Situation des umzugsbereiten Elternteils genügt für sich allein nicht.
-
-**Sachverhalt:** Die allein obhutsberechtigte Mutter wollte mit dem Kind nach Spanien umziehen, wo sie eine neue Arbeitsstelle gefunden hatte. Der Vater lebte in der Schweiz und übte regelmässigen persönlichen Verkehr aus.
-
-**Erwägungen:** Das Bundesgericht betonte, dass der persönliche Verkehr mit dem zurückbleibenden Elternteil ein zentrales Kindeswohlbelang darstellt. Die wirtschaftlichen Gründe des umzugsberechtigten Elternteils sind zu berücksichtigen, können aber für sich allein die Zustimmung nicht ersetzen. Vielmehr ist eine Gesamtbeurteilung aller relevanten Faktoren erforderlich.
-
-**Bedeutung:** Der Entscheid präzisiert, dass die Kindeswohlabwägung nicht auf wirtschaftliche Aspekte beschränkt werden darf, sondern die Gesamtsituation des Kindes umfassend zu berücksichtigen ist.
+### [BGE 142 III 502](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_502), E. 2.4–2.6
+- **Thema**: Umzug des Kindes im Inland; Begriff der erheblichen Auswirkungen
+- **Kernaussage**: Die «erheblichen Auswirkungen auf die Ausübung der elterlichen Sorge» gemäss [Art. 301a Abs. 2 lit. b ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a) beziehen sich in erster Linie auf die Wahrnehmung konkreter Betreuungsanteile; massgeblich ist, ob das bisherige Betreuungskonzept aufrechterhalten werden kann. Alternativ machen auch erhebliche Auswirkungen auf den persönlichen Verkehr den Umzug zustimmungsbedürftig. Für die Bewilligung des Inlandumzugs gelten dieselben Kindeswohlkriterien wie beim Wegzug ins Ausland.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. b und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
 
 ---
 
-### 4. BGE 140 III 654 — Aufenthaltsbestimmung und persönlicher Verkehr
-
-**Leitsatz:** Das Aufenthaltsbestimmungsrecht ist Teil der elterlichen Sorge und kann nicht isoliert von dieser übertragen oder entzogen werden. Bei einem Aufenthaltswechsel sind die Auswirkungen auf den persönlichen Verkehr massgeblich zu berücksichtigen.
-
-**Sachverhalt:** Streit zwischen Eltern über den Wohnort des Kindes nach Trennung. Der obhutsberechtigte Vater wollte innerhalb der Schweiz umziehen, was den persönlichen Verkehr der Mutter erheblich erschwerte.
-
-**Erwägungen:** Das Bundesgericht hielt fest, dass auch Inlandumzüge erhebliche Auswirkungen auf den persönlichen Verkehr haben können und in solchen Fällen das Gericht eine Regelung nach Massgabe des Kindeswohls treffen muss. Das Aufenthaltsbestimmungsrecht ist nicht schrankenlos, sondern im Rahmen der elterlichen Sorge unter dem Vorbehalt des Kindeswohls auszuüben.
-
-**Bedeutung:** Der Entscheid zeigt auf, dass auch Inlandumzüge unter Kindeswohlgesichtspunkten zu beurteilen sind, und bereitete die Regelung in Art. 301a Abs. 2 lit. b ZGB vor.
+### [BGE 144 III 10](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_10), E. 4–7
+- **Thema**: Zivilrechtliche Sanktionslosigkeit; Weisung als Kindesschutzmassnahme; Besuchsrechtsanpassung
+- **Kernaussage**: Die Verletzung des Zustimmungserfordernisses nach [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a) bleibt zivilrechtlich sanktionslos. Eine auf [Art. 307 Abs. 3 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_307) gestützte Weisung betreffend den Aufenthaltsort des Kindes stellt eine eigenständige Kindesschutzmassnahme dar, die eine konkrete Gefährdung des Kindeswohls voraussetzt und auf Ausnahmefälle beschränkt ist. Bei der Anpassung des persönlichen Verkehrs ([Art. 301a Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)) ist einzelfallbezogen auf Distanz und Lebensumstände abzustellen; ein schematischer Verweis auf ein kantonales Regelbesuchsrecht ist unzulässig.
+- **Einschlägig für**: [Art. 301a Abs. 2 und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 307 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_307)
 
 ---
 
-### 5. BGE 141 III 345 — Alleinige elterliche Sorge und Informationspflicht
-
-**Leitsatz:** Der allein sorgeberechtigte Elternteil ist verpflichtet, den anderen Elternteil über einen beabsichtigten Aufenthaltswechsel des Kindes rechtzeitig zu informieren. Die Informationspflicht besteht auch bei alleiniger elterlicher Sorge und bezweckt den Schutz der Rechte des andern Elternteils, insbesondere des persönlichen Verkehrs.
-
-**Sachverhalt:** Die allein sorgeberechtigte Mutter zog mit dem Kind um, ohne den Vater vorher zu informieren. Der Vater erfuhr erst nachträglich von dem Umzug und konnte den persönlichen Verkehr nicht mehr wie bisher ausüben.
-
-**Erwägungen:** Das Bundesgericht bejahte eine Informationspflicht des allein sorgeberechtigten Elternteils und betonte, dass die elterliche Sorge nicht das Recht beinhaltet, den anderen Elternteil über den Aufenthalt des Kindes im Unklaren zu lassen. Die Information hat so rechtzeitig zu erfolgen, dass der andere Elternteil seine Rechte (insbesondere Anpassung der Besuchsrechtsregelung) geltend machen kann.
-
-**Bedeutung:** Der Entscheid bildet die Grundlage für die gesetzliche Regelung in Art. 301a Abs. 3–4 ZGB und statuiert erstmals ausdrücklich eine Informationspflicht des allein sorgeberechtigten Elternteils.
+### [BGE 144 III 469](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_469), E. 4.1–4.2
+- **Thema**: Aufschiebende Wirkung bei Aufenthaltsveränderung des Kindes
+- **Kernaussage**: Bei der Entscheidung über die aufschiebende Wirkung einer Beschwerde gegen einen Wegzugsentscheid ([Art. 315 Abs. 5 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_315); [Art. 325 Abs. 2 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_325)) ist nach pflichtgemässem Ermessen unter zentraler Berücksichtigung der Hauptsachenprognose abzuwägen. Bei bisheriger Alleinobhut ist der Umzug im Inland in der Regel bereits während des Rechtsmittelverfahrens zu ermöglichen. Bei praktizierter alternierender Obhut und bei einer Auswanderung ins Ausland ist zur Vermeidung einer Präjudizierung der Hauptsache bzw. eines Verlusts der schweizerischen Zuständigkeit tendenziell der bisherige Zustand aufrechtzuerhalten.
+- **Einschlägig für**: [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 315 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_315), [Art. 325 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_325)
 
 ---
 
-### 6. BGer 5A_448/2026 — Placement d'enfants und Besuchsrecht bei Auslandumzug
-
-**Leitsatz:** Bei der Anpassung der Besuchsrechtsregelung nach einem Auslandumzug ist das Kindeswohl massgebend. Das Gericht hat eine Regelung zu treffen, die den persönlichen Verkehr mit dem zurückbleibenden Elternteil soweit möglich aufrechterhält, auch wenn dies erhöhte logistische Anforderungen stellt.
-
-**Sachverhalt:** Nach einem gerichtlich genehmigten Auslandumzug war die Besuchsrechtsregelung neu anzupassen. Die Parteien stritten sich über die Häufigkeit und Dauer der Besuche.
-
-**Erwägungen:** Das Bundesgericht betonte, dass die Anpassung nach Art. 301a Abs. 5 ZGB unter Wahrung des Kindeswohls zu erfolgen hat und dass der persönliche Verkehr mit dem zurückbleibenden Elternteil nicht ohne zwingende Gründe eingeschränkt werden darf. Ferne Besuchsrechte können durch längere Besuchsperioden in den Ferien kompensiert werden.
-
-**Bedeutung:** Der Entscheid illustriert die praktische Anwendung des Abs. 5 und die Anforderungen an die Anpassung der Regelungen nach einem Aufenthaltswechsel.
+### [BGE 143 III 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_193), E. 2–4
+- **Thema**: Auswanderung des Kindes; Entzug der aufschiebenden Wirkung; Verlust der internationalen Zuständigkeit
+- **Kernaussage**: Mit der Begründung des gewöhnlichen Aufenthaltes des Kindes in einem andern HKsÜ-Vertragsstaat entfällt die internationale Entscheidzuständigkeit der schweizerischen Gerichte ([Art. 5 Abs. 2 HKsÜ](https://www.fedlex.admin.ch/eli/cc/2009/447/de#art_5)). In Fällen, welche keinen Aufschub dulden, ist der Entzug der aufschiebenden Wirkung einer allfälligen Beschwerde gegen den Wegzugsentscheid keine blosse Möglichkeit, sondern Pflicht ([Art. 450c ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_450c)). Dies verletzt weder die Rechtsweggarantie ([Art. 29a BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29a)) noch den Anspruch auf eine wirksame Beschwerde ([Art. 13 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#art_13) i.V.m. [Art. 8 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#art_8)).
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 450c ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_450c)
 
 ---
 
-### 7. BGE 137 III 4 — Elterliche Sorge und Aufenthaltsbestimmung
+## II. Weitere Bundesgerichtsentscheide
 
-**Leitsatz:** Das Aufenthaltsbestimmungsrecht ist ein wesentlicher Bestandteil der elterlichen Sorge. Bei gemeinsamer elterlicher Sorge bedarf der Aufenthaltswechsel der Zustimmung beider Elternteile, sofern er nicht durch das Gericht ersetzt wird.
+### [BGer 5A_395/2017 vom 10. Juli 2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_395_2017), E. 3–4
+- **Thema**: Eigenmächtiger interkantonaler Umzug; Bindungstoleranz und Obhutszuteilung
+- **Kernaussage**: Bestätigung, dass das Aufenthaltsbestimmungsrecht unter Art. 301a Abs. 1 ZGB einen Teil der elterlichen Sorge bildet und nicht durch Zuteilung der alleinigen Obhut ausgehebelt werden kann. Ein eigenmächtiger Wegzug begründet zwar Zweifel an der Kooperationsbereitschaft, führt aber nicht zur Umteilung der Obhut, wenn sich die Bindungstoleranz in der Folge durch Gewährung eines grosszügigen Kontaktrechts bestätigt.
+- **Einschlägig für**: [Art. 301a Abs. 1, Abs. 2 lit. b und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
 
-**Sachverhalt:** Eltern mit gemeinsamer elterlicher Sorge stritten sich über den Wohnort des Kindes. Die Mutter wollte mit dem Kind in eine andere Sprachregion ziehen.
+---
 
-**Erwägungen:** Das Bundesgericht hielt fest, dass bei gemeinsamer elterlicher Sorge beide Elternteile über den Aufenthalt des Kindes bestimmen. Ein einseitiger Aufenthaltswechsel ohne Zustimmung des anderen Elternteils ist nicht zulässig. Das Gericht kann die Zustimmung ersetzen, wenn der Umzug dem Kindeswohl entspricht.
+### [BGer 5A_538/2024 vom 12. September 2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_538_2024), E. 3.2–3.3
+- **Thema**: Bewilligung der Ausreise der Kinder im Eheschutzverfahren
+- **Kernaussage**: Im Eheschutzverfahren ist bei Auswanderungsplänen eines Elternteils von dessen Niederlassungsfreiheit auszugehen. Die gerichtliche Bewilligung der Ausreise der Kinder ist zu erteilen, wenn das Betreuungskonzept tragfähig ist, die Kinder altersbedingt stark personenbezogen sind und durch Ferienregelungen der Kontakt zum andern Elternteil aufrechterhalten werden kann.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
 
-**Bedeutung:** Der Entscheid ist ein frühes Grundsatzurteil zur Aufenthaltsbestimmung bei gemeinsamer elterlicher Sorge und wurde durch Art. 301a ZGB legislatorisch bestätigt.
+---
+
+### [BGer 5A_536/2023 vom 7. November 2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_536_2023), E. 1
+- **Thema**: Rechtsmittelweg bei Wegzugsentscheiden nach Art. 301a ZGB
+- **Kernaussage**: Ein kantonal letztinstanzlicher Entscheid über die Verlegung des Aufenthaltsortes eines Kindes nach Art. 301a Abs. 2 lit. a ZGB ist ein Zivilrechtsentscheid, gegen den beim Bundesgericht die Beschwerde in Zivilsachen ([Art. 72 Abs. 1 BGG](https://www.fedlex.admin.ch/eli/cc/2006/218/de#art_72)) und nicht die Beschwerde in öffentlich-rechtlichen Angelegenheiten gegeben ist.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 72 BGG](https://www.fedlex.admin.ch/eli/cc/2006/218/de#art_72)
+
+---
+
+### [BGer 5A_397/2018 vom 16. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_5A_397_2018), E. 2–3
+- **Thema**: Ersetzung der Zustimmung bei strittigem Aufenthaltswechsel
+- **Kernaussage**: Bei Uneinigkeit der sorgeberechtigten Eltern über den Aufenthaltswechsel des Kindes ersetzt das Gericht oder die KESB die verweigerte Zustimmung, wenn der Umzug unter Würdigung aller Umstände des Einzelfalls und unter Anpassung des Besuchsrechts dem Kindeswohl am besten entspricht.
+- **Einschlägig für**: [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
+
+---
+
+### [BGer 5A_945/2015 vom 7. Juli 2016](https://mcp.opencaselaw.ch/entscheid/bger_5A_945_2015), E. 4.4
+- **Thema**: Kriterien der gerichtlichen Beurteilung bei beabsichtigtem Wegzug
+- **Kernaussage**: Das Bundesgericht bestätigt, dass bei der Anwendung von Art. 301a ZGB die Zuteilungskriterien im Trennungsfall massgebend sind und der Entscheid über den Aufenthaltsort eng mit der Prüfung der Betreuungsanteile und des Kindeswohls verknüpft werden muss.
+- **Einschlägig für**: [Art. 301a Abs. 2 und Abs. 5 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
+
+---
+
+## III. Kantonale Entscheide
+
+### [Kantonsgericht SG FS.2019.1 vom 4. August 2020](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_FS.2019.1)
+- **Kanton**: St. Gallen
+- **Thema**: Örtliche Zuständigkeit des Eheschutzrichters bei unbewilligtem Wegzug des Kindes
+- **Kernaussage**: Begründet ein getrenntlebender Ehegatte mit den Kindern an einem neuen Ort Wohnsitz, ist das dortige Eheschutzgericht gemäss [Art. 23 Abs. 1 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_23) i.V.m. [Art. 176 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_176) umfassend für alle Kinderbelange zuständig. Dies gilt selbst dann, wenn der andere Elternteil geltend macht, der Aufenthaltswechsel sei ohne Zustimmung im Sinne von [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a) erfolgt.
+- **Einschlägig für**: [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 176 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_176), [Art. 23 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_23)
+
+---
+
+### [Obergericht TG RBOG 2024 Nr. 03 vom 31. Januar 2024](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2024_Nr._03)
+- **Kanton**: Thurgau
+- **Thema**: Örtliche Zuständigkeit der KESB bei interkantonalem Wohnsitzwechsel und strittiger Obhut
+- **Kernaussage**: Fehlt bei gemeinsamer elterlicher Sorge eine formelle Obhutszuteilung und ist die tatsächliche Ausübung einer alternierenden Obhut nach der Trennung strittig, bestimmt sich der Wohnsitz des Kindes ([Art. 25 Abs. 1 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_25)) nach dem Ort, zu dem das Kind den stärkeren familiären und sozialen Bezug (Spielgruppe, Kindergarten, Hauptbetreuung) aufweist. Die KESB am Ort dieser tatsächlichen Integration ist für das Verfahren nach Art. 301a ZGB zuständig.
+- **Einschlägig für**: [Art. 301a Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 25 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_25), [Art. 315 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_315), [Art. 444 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_444)
+
+---
+
+### [Appellationsgericht BS KE.2023.18 vom 31. Juli 2023](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_KE.2023.18)
+- **Kanton**: Basel-Stadt
+- **Thema**: Keine faktische Residenzpflicht des betreuenden Elternteils
+- **Kernaussage**: Die kantonale Instanz bestätigt, dass aus Art. 301a Abs. 2 ZGB keine faktische Residenzpflicht für den betreuenden Elternteil abgeleitet werden darf. Die behördliche Beurteilung hat vom Auswanderungsentschluss als Prämisse auszugehen und zu prüfen, bei welchem Elternteil das Kind unter den neuen Gegebenheiten am besten aufgehoben ist.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a), [Art. 24 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_24)
+
+---
+
+### [Kantonsgericht SG ZV.2020.135 vom 16. Juli 2020](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_ZV.2020.135)
+- **Kanton**: St. Gallen
+- **Thema**: Prüfungsmassstab beim Wegzug ins Ausland
+- **Kernaussage**: Im Rahmen der Prüfung einer Bewilligung des Wegzugs eines Elternteils mit den Kindern ins Ausland geht es nicht um die Frage, ob es für das Kind besser wäre, wenn beide Elternteile im Inland verblieben. Die entscheidende Fragestellung ist vielmehr, ob sein Wohl besser gewahrt ist, wenn es mit dem auswanderungswilligen Elternteil wegzieht oder wenn es sich beim zurückbleibenden Elternteil aufhält.
+- **Einschlägig für**: [Art. 301a Abs. 2 lit. a ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_301a)
