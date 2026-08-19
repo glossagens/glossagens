@@ -58,7 +58,7 @@
 | [Art. 446](content/kommentar/zgb/art-446/_index.md) | 🔴 C | 46 % | 3 | 15 | 23 | `korrekt` | 0 | 0 |
 | [Art. 447](content/kommentar/zgb/art-447/_index.md) | 🔴 C | 38 % | 2 | 5 | 12 | `korrekt` | 0 | 0 |
 | [Art. 467](content/kommentar/zgb/art-467/_index.md) | 🔴 C | 15 % | 0 | 3 | 10 | `korrekt` | 2 | 0 |
-| [Art. 519](content/kommentar/zgb/art-519/_index.md) | 🔴 C | 17 % | 1 | 1 | 9 | `korrekt` | 2 | 0 |
+| [Art. 519](content/kommentar/zgb/art-519/_index.md) | 🟢 A | 87 % | 53 | 14 | 69 | `korrekt` | 0 | 0 |
 | [Art. 533](content/kommentar/zgb/art-533/_index.md) | 🟡 B | 61 % | 31 | 33 | 78 | `korrekt` | 4 | 0 |
 | [Art. 301a](content/kommentar/zgb/art-301a/_index.md) | 🔴 C | 0 % | 0 | 0 | 6 | `korrekt` | 0 | 4 |
 | [Art. 314b](content/kommentar/zgb/art-314b/_index.md) | 🔴 C | 21 % | 2 | 15 | 46 | `korrekt` | 6 | 0 |
@@ -140,9 +140,6 @@
 - **Art. 467 ZGB** (2 Fehler):
   - `5A_842/2025 E. 6.1.1`
   - `5A_842/2025 E. 6.1.2`
-- **Art. 519 ZGB** (2 Fehler):
-  - `5A_842/2025 E. 4.1`
-  - `5A_842/2025 E. 6.1.1`
 - **Art. 533 ZGB** (4 Fehler):
   - `BGE 138 III 354 E. 5.2`
   - `BGE 73 II 6 E. 5`
