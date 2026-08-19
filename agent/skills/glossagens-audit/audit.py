@@ -157,6 +157,7 @@ class Mcp:
             headers={
                 "Content-Type": "application/json",
                 "Accept": "application/json, text/event-stream",
+                "User-Agent": "glossagens-audit/1.0 (https://glossagens.ch)",
             },
         )
         last = None
