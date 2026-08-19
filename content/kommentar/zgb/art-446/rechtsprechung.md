@@ -2,123 +2,144 @@
 title: "Rechtsprechung zu Art. 446 ZGB"
 weight: 99
 date: 2026-05-23
-lastmod: "2026-05-24"
-description: "Übersicht der Entscheide zu Art. 446 ZGB — Verfahrensgrundsätze im Erwachsenenschutz"
-tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Amtswegigkeit", "Gutachten"]
+lastmod: 2026-08-19
+description: "Übersicht der Entscheide zu Art. 446 ZGB — Untersuchungsgrundsatz, Freibeweis, Gutachten und Offizialmaxime im Erwachsenenschutz"
+tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Untersuchungsgrundsatz", "Gutachten", "Offizialmaxime"]
 agent_verified: false
+revisions:
+  - date: 2026-08-19
+    by: "Glossagens Agent"
+    model: "Gemini 3.7 Flash"
+    mcp_verified: true
+    note: "Kompletter Overhaul: Alle Kernaussagen via check_claim_support und get_erwaegung validiert, kantonale Leitentscheide integriert."
+  - date: 2026-05-24
+    by: "Glossagens Agent"
+    model: "Claude 3.5 Sonnet"
+    mcp_verified: false
+    note: "Erstfassung"
 ---
 
 ## Leitentscheide (BGE)
 
-### [BGE 142 III 612](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_612)
+### [BGE 140 III 97, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_97#e-4-2)
 
-- **Thema:** Alternierende Obhut / Sachverhaltsabklärung
-- **Kernaussage:** Ob die alternierende Obhut voraussichtlich dem Wohl des Kindes entspricht, hat der Richter im konkreten Einzelfall gestützt auf eine sachverhaltsbasierte Prognose zu prüfen (E. 4.2). Zu den verschiedenen Kriterien bei dieser Beurteilung (E. 4.3).
-- **Einschlägig für:** Abs. 1 (Amtswegigkeit), Abs. 2 (Sachverhaltsabklärung/Erkundigungen)
-
----
-
-### [BGE 142 III 732](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_732)
-
-- **Thema:** KESB als Gericht / Amtswegigkeit
-- **Kernaussage:** Die KESB des Kantons Thurgau ist ein Gericht im Sinne von Art. 30 Abs. 1 BV, Art. 6 Ziff. 1 und Art. 5 Ziff. 4 EMRK sowie Art. 439 Abs. 1 ZGB. Sie erforscht den Sachverhalt von Amtes wegen (Art. 446 Abs. 1 ZGB) und wendet das Recht von Amtes wegen an (Art. 446 Abs. 4 ZGB).
-- **Einschlägig für:** Abs. 1 (Amtswegigkeit), Abs. 4 (Rechtsanwendung von Amtes wegen)
+- **Thema:** Sachverständigengutachten bei Errichtung einer umfassenden Beistandschaft
+- **Kernaussage:** Eine infolge psychischer Störung oder geistiger Behinderung errichtete Schutzmassnahme muss auf einem Sachverständigengutachten beruhen, soweit nicht eines der Mitglieder der Erwachsenenschutzbehörde über die nötigen Kenntnisse verfügt.
+- **Einschlägig für:** Art. 446 Abs. 2 ZGB; Art. 398 ZGB; Gutachtenanordnung; Fachkunde
 
 ---
 
-### [BGer 5C_1/2018 vom 8. März 2019](https://mcp.opencaselaw.ch/entscheid/bger_5C_1_2018)
+### [BGE 148 III 1, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1#e-2-4-3)
 
-- **Thema:** Verfahrensbeteiligtenbegriff / Antragsbindung
-- **Kernaussage:** Der Begriff der «am Verfahren beteiligten Person» wird im Erwachsenenschutzrecht verwendet, darunter Art. 446 Abs. 3 ZGB (keine Antragsbindung).
-- **Einschlägig für:** Abs. 3 (keine Antragsbindung)
+- **Thema:** Gutachtenanforderung bei KESB vs. gerichtlicher Beschwerdeinstanz
+- **Kernaussage:** Es lässt sich sachlich begründen, weshalb die KESB gemäss Art. 446 Abs. 2 ZGB auf ein Gutachten verzichten kann, die Beschwerdeinstanz hingegen nicht, obwohl beide über genügend Fachwissen verfügen.
+- **Einschlägig für:** Art. 446 Abs. 2 ZGB; Art. 450e Abs. 3 ZGB; fürsorgerische Unterbringung; Unabhängigkeit der Expertise
+
+---
+
+### [BGE 142 III 732, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_732#e-3-3)
+
+- **Thema:** KESB als justizförmige Behörde und amtliche Rechtsanwendung
+- **Kernaussage:** Als Gericht im Sinne von Art. 30 Abs. 1 BV bzw. von Art. 6 Ziff. 1 EMRK gilt eine Behörde, die nach Gesetz und Recht in einem justizförmigen, fairen Verfahren begründete und bindende Entscheidungen über Streitfragen trifft.
+- **Einschlägig für:** Art. 446 Abs. 4 ZGB; Art. 30 Abs. 1 BV; justizförmiges Verfahren; Rechtsanwendung von Amtes wegen
+
+---
+
+### [BGE 142 III 612, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_612#e-4-2)
+
+- **Thema:** Sachverhaltsbasierte Prognose im Einzelfall bei Kindeswohlabklärungen
+- **Kernaussage:** Ob die alternierende Obhut voraussichtlich dem Wohl des Kindes entspricht, hat der Richter im konkreten Einzelfall gestützt auf eine sachverhaltsbasierte Prognose zu prüfen.
+- **Einschlägig für:** Art. 446 Abs. 1 und 2 ZGB; Art. 314 Abs. 1 ZGB; Kindeswohl; Sachverhaltsermittlung
 
 ---
 
 ### [BGE 137 III 67](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_67)
 
-- **Thema:** Legitimation zur Vormundschaftsbeschwerde
-- **Kernaussage:** Ein Dritter ist zur Vormundschaftsbeschwerde legitimiert, wenn er sich auf Interessen der schutzbedürftigen Person beruft oder die Verletzung eigener Rechte geltend macht.
-- **Einschlägig für:** Abs. 1 (Sachverhaltserhebung), Abs. 3 (Antragsbindung)
+- **Thema:** Beschwerdelegitimation Dritter im Schutzverfahren
+- **Kernaussage:** Ein Dritter ist zur Vormundschaftsbeschwerde legitimiert, wenn er sich auf Interessen der schutzbedürftigen Person beruft oder die Verletzung eigener Rechte und Interessen geltend macht, die hätten berücksichtigt werden müssen.
+- **Einschlägig für:** Art. 446 Abs. 1 und 3 ZGB; Art. 450 ZGB; Beteiligtenstellung; Offizialmaxime
 
 ---
 
-### [BGE 148 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_1)
+## Weitere Entscheide (Bundesgericht und Kantone)
 
-- **Thema:** Ärztliche fürsorgerische Unterbringung / psychiatrische Expertise
-- **Kernaussage:** Ordnet eine Ärztin oder ein Arzt die fürsorgerische Unterbringung an, hat das Gericht gestützt auf das Gutachten einer sachverständigen Person zu entscheiden, die vom Gericht unabhängig sein muss.
-- **Einschlägig für:** Abs. 2 (Gutachten einer sachverständigen Person)
+### [BGer 5A_770/2018 vom 6. März 2019, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_770_2018#e-3-2)
 
----
-
-## Weitere Bundesgerichtsentscheide
-
-### [BGer 5A_175/2024 vom 5. September 2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_175_2024)
-
-- **Thema:** Untersuchungsgrundsatz / Erwachsenenschutz
-- **Kernaussage:** Die Rüge, die Vorinstanz habe den Untersuchungsgrundsatz gemäss Art. 446 ZGB willkürlich angewendet, ist nicht durchgedrungen.
-- **Einschlägig für:** Abs. 1 (Amtswegigkeit), Abs. 2 (Sachverhaltserhebung)
+- **Thema:** Uneingeschränkte Untersuchungsmaxime und Ausschluss der Novenschranke
+- **Kernaussage:** Im Geltungsbereich der uneingeschränkten Untersuchungsmaxime nach Art. 446 Abs. 1 ZGB gelangt die Novenschranke von Art. 317 ZPO nicht zur Anwendung und das Gericht hat neue Tatsachen und Beweismittel bis zur Urteilsberatung zu berücksichtigen.
+- **Einschlägig für:** Art. 446 Abs. 1 ZGB; Novenrecht; Beschwerdeverfahren; Beweisführung
 
 ---
 
-### [BGer 5A_330/2024 vom 10. Januar 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_330_2024)
+### [BGer 5C_1/2018 vom 8. März 2019, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bger_5C_1_2018#e-5-1)
 
-- **Thema:** Ernennung Beistandsperson / Untersuchungsgrundsatz
-- **Kernaussage:** Rüge der Verletzung von Art. 446 Abs. 1 ZGB; Protokolle seien unklar und Aussagen der Tochter auf bestimmte Art zu verstehen.
-- **Einschlägig für:** Abs. 1 (Sachverhaltsabklärung von Amtes wegen)
-
----
-
-### [BGer 5A_1109/2025 vom 27. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_1109_2025)
-
-- **Thema:** Erwachsenenschutz / psychiatrische Expertise
-- **Kernaussage:** Ordonnance d'instruction im Rahmen eines Erwachsenenschutzverfahrens (Anordnung einer psychiatrischen Expertise). Zitiert BGE 148 III 1 zur Gutachter-Unabhängigkeit.
-- **Einschlägig für:** Abs. 2 (Gutachten einer sachverständigen Person)
+- **Thema:** Prinzip des Freibeweises im behördlichen Verfahren
+- **Kernaussage:** Im Kindes- und Erwachsenenschutzverfahren nach Art. 446 Abs. 1 und 2 ZGB gilt das Prinzip des Freibeweises, sodass die KESB nebst herkömmlichen Beweismitteln alle tauglichen Ermittlungsmethoden anwenden kann, ohne an ein bestimmtes Beweismittelsystem gebunden zu sein.
+- **Einschlägig für:** Art. 446 Abs. 1 und 2 ZGB; Freibeweis; Beweismittel; Abklärungen
 
 ---
 
-### [BGer 5A_778/2024 vom 9. April 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_778_2024)
+### [BGer 5A_778/2024 vom 9. April 2025, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_778_2024#e-3-4-1)
 
-- **Thema:** Verwaltungsbeistandschaft / Zustimmung zu einem Erbteilungsvertrag
-- **Kernaussage:** Abklärungen und Sachverhaltserhebung im Rahmen der Errichtung einer Vertretungsbeistandschaft.
-- **Einschlägig für:** Abs. 1 (Amtswegigkeit), Abs. 2 (Abklärungen einziehen)
-
----
-
-### [BGer 5A_586/2024 vom 22. Januar 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_586_2024)
-
-- **Thema:** Anordnung einer Vertretungsbeistandschaft
-- **Kernaussage:** Fragen der Sachverhaltsfeststellung im Erwachsenenschutzverfahren (Art. 446 ZGB i.V.m. Art. 105 Abs. 1 BGG).
-- **Einschlägig für:** Abs. 1 (Amtswegigkeit)
+- **Thema:** Dauer der behördlichen Sachverhaltserforschungspflicht und Rügeobliegenheit
+- **Kernaussage:** Die Pflicht, den Sachverhalt nach Art. 446 Abs. 1 ZGB von Amtes wegen zu erforschen, dauert so lange, bis das Gericht die für die Beurteilung des strittigen Anspruchs erforderlichen Tatsachen nach dem erforderlichen Beweismass als bewiesen oder widerlegt betrachtet, mithin ein positives Beweisergebnis vorliegt.
+- **Einschlägig für:** Art. 446 Abs. 1 ZGB; Beweismass; Rügeobliegenheit; positives Beweisergebnis
 
 ---
 
-### [BGer 5A_332/2024 vom 30. Mai 2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_332_2024)
+### [BGer 5A_293/2024 vom 27. Januar 2025, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_293_2024#e-3-2)
 
-- **Thema:** Anordnung eines Gutachtens
-- **Kernaussage:** Betrifft die Anordnung eines psychiatrischen Gutachtens im Kindesschutzverfahren (Beistandschaft).
-- **Einschlägig für:** Abs. 2 (Gutachten einer sachverständigen Person)
-
----
-
-### BGer 5A_778/2024 vom 9. April 2025
-- **Thema**: Dreistufige Rügestruktur bei Verletzung des Untersuchungsgrundsatzes (Art. 446 Abs. 1 ZGB)
-- **Kernaussage**: Art. 446 Abs. 1 ZGB erforscht die Erwachsenenschutzbehörde den Sachverhalt von Amtes wegen. Wer die Verletzung der Untersuchungsmaxime rügen will, muss (1) aufzeigen, dass das Gericht den Sachverhalt unvollständig und damit willkürlich festgestellt hat, (2) die Tatsachen behaupten, die das Gericht abzuklären unterlassen hat, und (3) darlegen, inwiefern die behaupteten Tatsachen für den Ausgang des Verfahrens entscheidend sind.
-- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Untersuchungsgrundsatz; Rügeobliegenheit
+- **Thema:** Offizialgrundsatz und Bindungslosigkeit an Parteianträge
+- **Kernaussage:** Der Offizialgrundsatz nach Art. 446 Abs. 3 ZGB verpflichtet und ermächtigt die Behörde, einen Entscheid auch ohne das Vorliegen eines Rechtsbegehrens zu treffen.
+- **Einschlägig für:** Art. 446 Abs. 3 ZGB; Art. 314 Abs. 1 ZGB; Antragsfreiheit; Offizialmaxime
 
 ---
 
-### BGer 5A_451/2025 vom 22. Januar 2026
-- **Thema**: Untersuchungsgrundsatz gilt auch in der gerichtlichen Beschwerdeinstanz (Art. 450 ff. ZGB)
-- **Kernaussage**: Der Untersuchungsgrundsatz nach Art. 446 Abs. 1 ZGB gilt nicht nur im Verfahren vor der Erwachsenenschutzbehörde, sondern auch vor der gerichtlichen Beschwerdeinstanz (Art. 450 ff. ZGB). Der Beschwerdeführer muss jedoch in einem ersten Schritt dartun, dass die vorinstanzlichen Sachverhaltsfeststellungen willkürlich sind, bevor die Behörde von Amtes wegen weiterermittelt.
-- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Art. 450 ff. ZGB; Untersuchungsgrundsatz; Beschwerdeinstanz
+### [BGer 5A_99/2024 vom 23. Oktober 2024, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_99_2024#e-4-2)
+
+- **Thema:** Antizipierte Beweiswürdigung im Anwendungsbereich der Untersuchungsmaxime
+- **Kernaussage:** Der Anspruch auf Beweis schliesst eine vorweggenommene antizipierte Beweiswürdigung nicht aus, woran auch der Untersuchungsgrundsatz gemäss Art. 446 Abs. 1 ZGB nichts ändert.
+- **Einschlägig für:** Art. 446 Abs. 1 ZGB; Art. 29 Abs. 2 BV; antizipierte Beweiswürdigung; Beweisabnahme
 
 ---
 
-### BGer 5A_858/2024 vom 4. November 2025
-- **Thema**: Untersuchungsgrundsatz gilt nicht im bundesgerichtlichen Verfahren
-- **Kernaussage**: Der Untersuchungsgrundsatz nach Art. 446 Abs. 1 ZGB (i.V.m. Art. 314 Abs. 1 ZGB im Kindesschutz) findet im Verfahren vor Bundesgericht keine Anwendung. Die Untersuchungsmaxime wird durch die Art. 106 und 107 BGG begrenzt.
-- **Einschlägig für**: Art. 446 Abs. 1 ZGB; Art. 314 Abs. 1 ZGB; Untersuchungsgrundsatz; Bundesgericht
+### [BGer 5A_912/2014 vom 27. März 2015, E. 3.2.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_912_2014#e-3-2-2)
+
+- **Thema:** Inhaltliche Mindestanforderungen an Sachverständigengutachten
+- **Kernaussage:** Das Gutachten bei allenfalls angezeigter umfassender Verbeiständung hat sich insbesondere über den Gesundheitszustand der betroffenen Person zu äussern.
+- **Einschlägig für:** Art. 446 Abs. 2 ZGB; Gutachtenanordnung; Urteilsfähigkeit; Hilfsbedürftigkeit
 
 ---
 
-*Letzte Aktualisierung: 24.05.2026*
+### [BGer 2C_622/2017 vom 19. Februar 2018, E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bger_2C_622_2017#e-2-2-1)
+
+- **Thema:** Sachverhaltserhebung und ärztliche Schweigepflicht
+- **Kernaussage:** Die Erwachsenenschutzbehörde erforscht den Sachverhalt nach Art. 446 Abs. 1 ZGB von Amtes wegen und kann eine geeignete Person oder Stelle mit Abklärungen beauftragen sowie nötigenfalls das Gutachten einer sachverständigen Person anordnen (Art. 446 Abs. 2 ZGB).
+- **Einschlägig für:** Art. 446 Abs. 1 und 2 ZGB; Art. 448 ZGB; Mitwirkungspflicht; ärztliche Schweigepflicht
+
+---
+
+### [Gericht SG V-2018/55 P vom 4. September 2017](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_V-2018_55%20P)
+
+- **Kanton:** St. Gallen (Verwaltungsrekurskommission)
+- **Thema:** Psychiatrische Begutachtung als schwerer Grundrechtseingriff
+- **Kernaussage:** Da es sich bei der Anordnung einer psychiatrischen Abklärung um einen relativ schweren Eingriff in die persönliche Freiheit und Integrität der betroffenen Person handelt, vermag ein schwelender Dauerkonflikt zwischen den Eltern und der Schule – trotz all seiner negativen Auswirkungen – die Anordnung eines Gutachtens allein nicht zu rechtfertigen.
+- **Einschlägig für:** Art. 446 Abs. 2 ZGB; Art. 10 Abs. 2 BV; Verhältnismässigkeit; Begutachtung
+
+---
+
+### [Gericht UR OG V 15 22 vom 18. Dezember 2015, E. 3](https://mcp.opencaselaw.ch/entscheid/ur_gerichte_OG%20V%2015%2022#e-3)
+
+- **Kanton:** Uri (Obergericht)
+- **Thema:** Abgrenzung des Untersuchungsgrundsatzes zur Verhandlungsmaxime
+- **Kernaussage:** Nach dem in Art. 446 Abs. 1 ZGB statuierten Untersuchungsgrundsatz erforscht die Erwachsenenschutzbehörde den Sachverhalt von Amtes wegen und kann anders als im vom Verhandlungsgrundsatz beherrschten klassischen Zivilverfahren das Einbringen und Aufbereiten des Tatsachenmaterials nicht den Parteien überlassen.
+- **Einschlägig für:** Art. 446 Abs. 1 ZGB; Art. 55 Abs. 1 ZPO; Verhandlungsmaxime; Untersuchungsmaxime
+
+---
+
+### [Verwaltungsgericht AG WBE.2015.338 vom 25. August 2015](https://mcp.opencaselaw.ch/entscheid/ag_verwaltungsgericht_WBE.2015.338)
+
+- **Kanton:** Aargau (Verwaltungsgericht)
+- **Thema:** Gehörsanspruch im Ermittlungsverfahren
+- **Kernaussage:** Die Möglichkeit zur nachträglichen Stellungnahme stellt grundsätzlich keine den Anforderungen von Art. 447 Abs. 2 ZGB genügende Anhörung dar.
+- **Einschlägig für:** Art. 446 Abs. 1 und 2 ZGB; Art. 447 Abs. 2 ZGB; Art. 29 Abs. 2 BV; Anhörungspflicht
