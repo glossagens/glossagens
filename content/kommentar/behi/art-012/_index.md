@@ -46,18 +46,18 @@ revisions:
 
 **3** **Anwendungsbereich.** Abs. 1 erfasst Benachteiligungen beim Zugang zu:
 - öffentlich zugänglichen Bauten und Anlagen (Art. 3 lit. a BehiG),
-- Wohngebäuden mit mehr als acht Wohneinheiten (Art. 3 lit. c BehiG; vgl. [Baurekursgericht ZH BRKE I Nr. 0043/2005](https://mcp.opencaselaw.ch/entscheid/zh_baurekursgericht_BRKE%20I%20Nr.%200043_2005)),
+- Wohngebäuden mit mehr als acht Wohneinheiten: Nach Art. 3 lit. c BehiG gilt das Gesetz für Wohngebäude mit mehr als acht Wohneinheiten, für welche nach Inkrafttreten eine Bewilligung für den Bau oder die Erneuerung erteilt wird ([Baurekursgericht ZH BRKE I Nr. 0043/2005 vom 25. Mai 2004](https://mcp.opencaselaw.ch/entscheid/zh_baurekursgericht_BRKE%20I%20Nr.%200043_2005)),
 - Gebäuden mit mehr als 50 Arbeitsplätzen (Art. 3 lit. d BehiG).
 
-**4** **Rechtsnatur der Schwellenwerte.** Übersteigt der finanzielle Mehraufwand für die behindertengerechte Anpassung die gesetzlichen Grenzwerte (5 % des Gebäudeversicherungswerts bzw. Neuwerts oder 20 % der Erneuerungskosten), ordnet die Behörde die Beseitigung *nicht* an. Das Gesetz normiert hier eine gesetzliche Vermutung der Unzumutbarkeit. Massnahmen zugunsten Behinderter müssen verhältnismässig sein und können sich im Einzelfall selbst bei Neubauten als unzulässig erweisen, wenn der Nutzen den Aufwand nicht rechtfertigt ([Baurekursgericht ZH BRGE I Nr. 0054/2013](https://mcp.opencaselaw.ch/entscheid/zh_baurekursgericht_BRGE%20I%20Nr.%200054_2013)).
+**4** **Rechtsnatur der Schwellenwerte.** Übersteigt der finanzielle Mehraufwand für die behindertengerechte Anpassung die gesetzlichen Grenzwerte (5 % des Gebäudeversicherungswerts bzw. Neuwerts oder 20 % der Erneuerungskosten), ordnet die Behörde die Beseitigung *nicht* an. Das Gesetz normiert hier eine gesetzliche Vermutung der Unzumutbarkeit. Massnahmen zugunsten Behinderter müssen verhältnismässig sein und können sich im Einzelfall selbst bei Neubauten als unzulässig erweisen ([Baurekursgericht ZH BRGE I Nr. 0054/2013 vom 5. April 2006](https://mcp.opencaselaw.ch/entscheid/zh_baurekursgericht_BRGE%20I%20Nr.%200054_2013)).
 
 **5** **Umfang bei Teilrenovationen.** Bei der Erneuerung von öffentlich zugänglichen Bauten richtet sich der Umfang der Anpassungspflicht danach, ob nur ein Teil der öffentlich zugänglichen Bereiche des Gebäudes oder der entsprechenden Anlagen erneuert wird ([BGE 134 II 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_II_249) E. 4). Die Schwellenwertberechnung bezieht sich dabei auf den spezifisch erneuerten Gebäudeteil und die dadurch ausgelösten baulichen Mehrkosten.
 
 ### Abs. 2 — Öffentlicher Verkehr und Übergangsfristen
 
-**6** **Koordination mit dem Sanierungsregime.** Abs. 2 stellt klar, dass das Diskriminierungs- und Benachteiligungsverbot für Behinderte auch im Bereich des öffentlichen Verkehrs gilt, wobei Rechtsgrundlagen des Eisenbahnrechts und des Behindertengleichstellungsrechts anzuwenden sind ([BGE 139 II 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_289) E. 2.2). 
+**6** **Koordination mit dem Sanierungsregime.** Das Diskriminierungs- und Benachteiligungsverbot für Behinderte gilt auch im Bereich des öffentlichen Verkehrs ([BGE 139 II 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_II_289) E. 2.2). 
 
-**7** **Berücksichtigung von Investitionsplanung und Finanzhilfen.** Bei der Interessenabwägung dürfen Transportunternehmen nicht isoliert zu sofortigen Vollanpassungen verpflichtet werden, wenn dies der geordneten Betriebs- und Investitionsplanung oder dem Umsetzungskonzept des Bundes nach Art. 23 Abs. 3 BehiG widerspricht. Auch bei der Erneuerung von Bahnanlagen (z.B. Perronkanten an Bahnhöfen) sind die technischen Vorgaben und Übergangsfristen zu berücksichtigen ([BVGer BVGE 2008/58](https://mcp.opencaselaw.ch/entscheid/bvger_BVGE%202008_58)).
+**7** **Berücksichtigung von Investitionsplanung und Finanzhilfen.** Bei der Interessenabwägung dürfen Transportunternehmen nicht isoliert zu sofortigen Vollanpassungen verpflichtet werden, wenn dies der geordneten Betriebs- und Investitionsplanung oder dem Umsetzungskonzept des Bundes nach Art. 23 Abs. 3 BehiG widerspricht. 
 
 ### Abs. 3 — Ersatzlösungspflicht
 
@@ -71,15 +71,15 @@ revisions:
 
 **10** **Praxisfrage 1: Schwellenwertberechnung bei Nutzungsänderungen mit geringen Investitionen.**
 In der kantonalen Praxis war strittig, wie die 20 %-Schwelle der Erneuerungskosten zu berechnen ist, wenn ein bestehendes Gebäude ohne grosse bauliche Eingriffe umgenutzt wird (z.B. Umwandlung eines Vereinslokals in ein öffentlich zugängliches religiöses Zentrum).
-- *Kantonale Praxis*: Die wirtschaftliche Tragbarkeitsgrenze von 20 % der Erneuerungskosten kommt auch bei Nutzungsänderungen zur Anwendung, welche nur minimale bauliche Investitionskosten auslösen ([Gericht AG AGVE 2015 74](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2015_74)). Damit wird verhindert, dass eine geringfügige bauliche Anpassung unverhältnismässig hohe Gesamtsanierungspflichten auslöst.
+- *Kantonale Praxis*: Die wirtschaftliche Tragbarkeitsgrenze von 20 % der Erneuerungskosten kommt auch bei Nutzungsänderungen zur Anwendung, welche nur minimale bauliche Investitionskosten auslösen ([Gericht AG AGVE 2015 74 vom 26. November 2014](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2015_74)). Damit wird verhindert, dass eine geringfügige bauliche Anpassung unverhältnismässig hohe Gesamtsanierungspflichten auslöst.
 
 **11** **Praxisfrage 2: Verfahrensstufe der Durchsetzung im Baurecht.**
 Oftmals wird von Einsprechern verlangt, dass Behindertengleichstellungsanforderungen bereits auf Stufe der Richt- oder Erschliessungsplanung bindend festgelegt werden.
-- *Kantonale Praxis*: Die Umsetzung der Vorschriften über hindernisfreie Bauten und Anlagen ist im Planungsverfahren nicht vorgesehen, sondern erfolgt auf Stufe Baubewilligung ([Gericht AG AGVE 2011 35](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2011_35)). Untergeordnete Massnahmen zur Gewährleistung der Zugänglichkeit können dabei im Baubewilligungsverfahren als Auflage hinterlegt werden, deren Erfüllung bei der späteren Nutzungsbewilligung überprüft wird ([BGer 1C_450/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_450_2025) E. 3.3).
+- *Kantonale Praxis*: Die Umsetzung der Vorschriften über hindernisfreie Bauten und Anlagen ist im Planungsverfahren nicht vorgesehen, sondern erfolgt auf Stufe Baubewilligung ([Gericht AG AGVE 2011 35 vom 4. April 2011](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_AGVE_2011_35)). Untergeordnete Massnahmen zur Gewährleistung der Zugänglichkeit können als Auflage (clause accessoire) einer Baubewilligung angeordnet werden ([BGer 1C_450/2025 vom 8. Juni 2026 E. 3.3.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_450_2025#e-3-3-1)).
 
 **12** **Praxisfrage 3: Verhältnismässigkeit bei Haltestellen im kantonalen Strassennetz.**
 Bei der baulichen Anpassung von Bushaltestellen im Strassennetz stellt sich regelmässig die Frage, ob jede Haltestelle zwingend mit maximaler Kantenhöhe auszurüsten ist.
-- *Kantonale Praxis*: Bei baulichen Massnahmen zur Erhöhung der Kantenhöhe bei Bushaltestellen ist die Verhältnismässigkeit nach Art. 11 Abs. 1 BehiG zu prüfen ([Gericht LU 7H 19 181](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_7H_19_181)). Technische Hindernisse oder örtliche Gegebenheiten im Strassenraum können im Rahmen der Interessenabwägung berücksichtigt werden.
+- *Kantonale Praxis*: Bei baulichen Massnahmen zur Erhöhung der Kantenhöhe bei Bushaltestellen ist die Verhältnismässigkeit nach Art. 11 Abs. 1 BehiG zu prüfen ([Gericht LU 7H 19 181 vom 21. August 2020](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_7H_19_181)). Technische Hindernisse oder örtliche Gegebenheiten im Strassenraum können im Rahmen der Interessenabwägung berücksichtigt werden.
 
 ---
 
