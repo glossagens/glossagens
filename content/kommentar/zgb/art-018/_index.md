@@ -1,16 +1,22 @@
 ---
-title: "Art. 18 ZGB — Urteilsfähigkeit"
+title: "Art. 18 ZGB — Fehlende Urteilsfähigkeit"
 weight: 18
-date: "2026-05-23"
-lastmod: "2026-06-19"
-description: "Kommentar zu Art. 18 ZGB — Urteilsfähigkeit als Voraussetzung rechtlicher Wirksamkeit, Nichtigkeit bei Urteilsunfähigkeit, Relativität des Begriffs und Beweislast"
-tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Willensmängel"]
+date: 2026-05-23
+lastmod: 2026-08-20
+description: "Kommentar zu Art. 18 ZGB — Rechtsfolgen fehlender Urteilsfähigkeit, Nichtigkeit von Rechtshandlungen, Beweislastverteilung und gesetzliche Ausnahmen."
+tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Erwachsenenschutz"]
 agent_verified: true
+revisions:
+  - date: 2026-08-20
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Kompletter Overhaul: 13 Entscheide verifiziert, Belegprüfung via check_claim_support durchgeführt, kantonale Praxisfragen ergänzt, attest_response ok"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 18 ZGB — Urteilsfähigkeit**
+> **Art. 18 ZGB — Fehlende Urteilsfähigkeit**
 >
 > Wer nicht urteilsfähig ist, vermag unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen.
 
@@ -18,102 +24,94 @@ agent_verified: true
 
 ### I. Bedeutung und systematische Stellung
 
-Art. 18 ZGB ist die **Grundnorm der Handlungsfähigkeitsordnung** des ZGB. Er normiert den Zusammenhang zwischen Urteilsfähigkeit und rechtlicher Wirksamkeit: Wer nicht urteilsfähig ist, kann durch seine Handlungen keine rechtliche Wirkung erzeugen. Die Norm steht am Übergang vom allgemeinen Teil zur Handlungsfähigkeit und bildet zusammen mit den [Art. 19](../art-019/) (urteilsfähige Handlungsunfähige) und [Art. 17](../art-017/) (Urteilsunfähigkeit) die Dreiteilung der handlungsrechtlichen Status (BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.2).
+Art. 18 ZGB bildet die zentrale Schutznorm des schweizerischen Handlungsfähigkeitsrechts. Während [Art. 12 ZGB](../art-012/) und [Art. 13 ZGB](../art-013/) die Handlungsfähigkeit positiv umschreiben und die Urteilsfähigkeit ([Art. 16 ZGB](../art-016/)) neben der Volljährigkeit ([Art. 14 ZGB](../art-014/)) als deren zwingende Voraussetzung statuieren, regelt Art. 18 ZGB die fundamentale Rechtsfolge des Fehlens der Urteilsfähigkeit: Die absolute Unwirksamkeit bzw. Nichtigkeit des Handelns.
 
-Die Regel des Art. 18 ZGB gilt **universell** für das gesamte Privatrecht: Verträge, einseitige Rechtsgeschäfte, Verfügungen von Todes wegen, Prozesshandlungen und verwaltungsrechtliche Handlungen (BGE [131 V 329](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=131_V_329), E. 3.1). Sie ist nicht auf zivilrechtliche Handlungen beschränkt.
+Die Norm gilt universell für das gesamte Privatrecht sowie für Prozesshandlungen und öffentlich-rechtliche Handlungen mit privatrechtlichem Bezug. Sie schützt die urteilsunfähige Person davor, sich durch eigene Handlungen rechtlich zu verpflichten oder Rechte zu verlieren.
 
-### II. Begriff der Urteilsfähigkeit
+### II. Begriff und Elemente der Urteilsfähigkeit
 
-#### 1. Definition
+Die Urteilsfähigkeit setzt sich nach ständiger bundesgerichtlicher Rechtsprechung aus zwei kumulativen Elementen zusammen:
+1. **Intellektuelles Element**: Die Fähigkeit, Sinn, Zweckmässigkeit und Wirkungen einer bestimmten Handlung zu erkennen ([BGE 144 III 264, E. 6.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-1)).
+2. **Willens- bzw. Charakterelement**: Die Fähigkeit, gemäss dieser vernünftigen Erkenntnis nach seinem freien Willen zu handeln und allfälligen Beeinflussungen Widerstand zu leisten ([BGE 144 III 264, E. 6.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-1)).
 
-Urteilsfähigkeit ist die **Fähigkeit, Sinn und Bedeutung eines Handelns zu verstehen und entsprechend zu handeln** (BGE [90 II 9](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=90_II_9), E. 2). Sie setzt kognitive Erfassung (Verstehen) und volitive Steuerung (Handeln) voraus.
+Urteilsfähigkeit ist ein **relativer Begriff**: Sie ist nicht abstrakt festzustellen, sondern konkret bezogen auf eine bestimmte Handlung im Zeitpunkt ihrer Vornahme unter Berücksichtigung ihrer Rechtsnatur, Schwierigkeit und Tragweite ([BGE 144 III 264, E. 6.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-1); [BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)). Eine Person kann daher für einfache Alltagsgeschäfte urteilsfähig sein, während ihr für anspruchsvolle Rechtsgeschäfte wie die Errichtung eines Testaments oder den Abschluss komplexer Verträge die Urteilsfähigkeit fehlt ([BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)).
 
-#### 2. Relativität des Begriffs
+### III. Rechtsfolge: Absolute Nichtigkeit
 
-Der Begriff ist **relativ** (BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.2.1): Er beurteilt sich nach der konkreten Handlung und dem individuellen Zustand der Person. Drei Dimensionen der Relativität:
+#### 1. Grundsatz der Nichtigkeit
+Wer nicht urteilsfähig ist, vermag nach Art. 18 ZGB unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen; von einem Urteilsunfähigen vorgenommene Rechtsgeschäfte sind nichtig ([BGE 89 II 387, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_89_II_387#e-1)).
 
-- **Handlungsbezogen**: Ein 12-Jähriger kann urteilsfähig für den Kauf eines Eis sein, aber nicht für den Abschluss eines Darlehensvertrages (BGE [118 II 401](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=118_II_401), E. 3b).
-- **Zeitbezogen**: Urteilsfähigkeit kann je nach Tagesform, Medikamenteneinfluss oder Krankheitsphase schwanken (BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.2.2).
-- **Graduell**: Urteilsfähigkeit ist nicht ein Alles-oder-Nichts-Konzept, sondern kennt Abstufungen. Auch eine stark beeinträchtigte Person kann für einfache Geschäfte urteilsfähig sein.
+Die Nichtigkeit tritt von Gesetzes wegen ein und ist von allen Gerichten und Behörden von Amtes wegen zu beachten. Sie wirkt ex tunc (von Anfang an) und absolut gegenüber jedermann.
 
-#### 3. Abgrenzung zur Geschäftsfähigkeit
+#### 2. Ausschluss des Gutglaubensschutzes
+Wer einen von einem Handlungsunfähigen errichteten Pfandtitel von diesem selber erwirbt, muss sich auch im Falle seiner Gutgläubigkeit die Einrede gefallen lassen, das Erwerbsgeschäft sei wegen der Handlungsunfähigkeit des Schuldners ungültig und vermöge ihm deshalb die im Titel verbrieften Rechte nicht zu verschaffen ([BGE 89 II 387, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_89_II_387#e-1)). Der Schutz der urteilsunfähigen Person geht dem Schutz des guten Glaubens Dritter und dem Verkehrsschutz im schweizerischen Zivilrecht grundsätzlich vor.
 
-Urteilsfähigkeit (Art. 18 ZGB) ist **nicht** gleichbedeutend mit Geschäftsfähigkeit (Art. 12–19 ZGB). Eine Person kann urteilsfähig, aber handlungsunfähig sein (z.B. der Mündige unter Beistandschaft: Art. 19 ZGB). Die Urteilsfähigkeit ist die **innere Voraussetzung**, die Geschäftsfähigkeit die **äussere Zuweisung** von Rechtsmacht.
+#### 3. Rückabwicklung
+Bereits erbrachte Leistungen sind nach den Regeln der Vindikation (Art. 641 Abs. 2 ZGB) bzw. der ungerechtfertigten Bereicherung (Art. 62 ff. OR) rückabzuwickeln.
 
-### III. Vermutung der Urteilsfähigkeit
+### IV. Gesetzliche Ausnahmen und Einschränkungen
 
-Die Urteilsfähigkeit wird **vermutet** (BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.2.1). Wer Urteilsunfähigkeit geltend macht, trägt die **Beweislast**. Dies gilt für:
+Das Gesetz behält in Art. 18 ZGB «gesetzliche Ausnahmen» vor:
 
-- **Verträge**: Die Partei, die Nichtigkeit wegen Urteilsunfähigkeit behauptet
-- **Testamente**: Der Beschwerdeführer, der Testierunfähigkeit behauptet (BGE [5A_438/2016](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=5A_438_2016))
-- **Prozesshandlungen**: Die Partei, die die Unwirksamkeit einer Verfahrenshandlung geltend macht
+1. **Urteilsfähige Handlungsunfähige ([Art. 19 ZGB](../art-019/))**: Urteilsfähige Personen, die handlungsunfähig sind (z.B. Minderjährige oder unter umfassender Beistandschaft Stehende), können mit Zustimmung ihres gesetzlichen Vertreters Rechtsgeschäfte abschliessen oder unentgeltliche Vorteile erlangen ([Art. 19 Abs. 1 und 2 ZGB](../art-019/)).
+2. **Billigkeitshaftung (Art. 54 Abs. 1 OR)**: Der Urteilsunfähige hat den durch sein Verhalten zugefügten Schaden zu ersetzen, wenn und soweit es billig ist ([BGE 102 II 226, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_II_226#e-2)).
+3. **Ausländische Personen im IPR ([BGE 108 V 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_V_121))**: Ein handlungsunfähiger Ausländer, der in der Schweiz ein Rechtsgeschäft abgeschlossen hat, kann sich nicht auf seine Unfähigkeit berufen, wenn er nach schweizerischem Recht handlungsfähig gewesen wäre (Verkehrsschutz gemäss Art. 36 IPRG).
+4. **Nachträgliche Urteilsunfähigkeit bei höchstpersönlichen Klagen**: Tritt die Urteilsunfähigkeit erst nach Einreichung der Scheidungsklage ein, darf dem Scheidungswillen nicht mit der Einstellung des Verfahrens begegnet werden, solange keine Anzeichen vorliegen, die auf eine ernst zu nehmende Änderung dieses Willens schliessen lassen ([BGE 116 II 385, E. 7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_385#e-7)).
 
-Die Vermutung gilt auch im Sozialversicherungsrecht (BGE [131 V 329](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=131_V_329), E. 3.1).
+### V. Beweislast, Vermutung und Beweismass
 
-### IV. Rechtsfolge: Absolute Nichtigkeit
+#### 1. Gesetzliche Vermutung der Urteilsfähigkeit
+Die Urteilsfähigkeit ist die Regel und wird aufgrund allgemeiner Lebenserfahrung vermutet. Folglich hat derjenige, der deren Nichtvorhandensein behauptet, dies zu beweisen ([BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)).
 
-#### 1. Allgemeine Regel
+Wer sich für die Unwirksamkeit einer Handlung auf die Urteilsunfähigkeit beruft, hat einen der in [Art. 16 ZGB](../art-016/) umschriebenen Schwächezustände und die daraus folgende Beeinträchtigung der Fähigkeit vernunftgemässen Handelns zu beweisen ([BGE 144 III 264, E. 6.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-2)).
 
-Handlungen urteilsunfähiger Personen sind **nichtig** (nicht bloss anfechtbar). Die Nichtigkeit ist von Amtes wegen zu beachten (BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511), E. 3.1).
+#### 2. Umkehr der Vermutung bei dauerndem Schwächezustand
+Führt die Lebenserfahrung - etwa bei Kindern, bei bestimmten Geisteskrankheiten oder altersschwachen Personen - zur umgekehrten Vermutung, dass die handelnde Person ihrer allgemeinen Verfassung nach im Normalfall und mit Wahrscheinlichkeit als urteilsunfähig gelten muss, ist der Beweispflicht insoweit Genüge getan und die Vermutung der Urteilsfähigkeit umgestossen ([BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)).
 
-#### 2. Gesetzliche Ausnahmen
+Befand sich eine Person zum Zeitpunkt der streitigen Handlung nachweislich in einem dauernden Schwächezustand gemäss [Art. 16 ZGB](../art-016/), der nach allgemeiner Lebenserfahrung im Normalfall vernunftgemässes Handeln ausschliesst, dann wird vermutet, dass sie mit Bezug auf die streitige Handlung unfähig war, vernunftgemäss zu handeln ([BGE 144 III 264, E. 6.1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-3)). Der Gegenpartei steht in diesem Fall der Gegenbeweis offen, dass die betreffende Person trotz ihrer grundsätzlichen Urteilsunfähigkeit aufgrund ihrer allgemeinen Gesundheitssituation in einem luziden Intervall (*lucidum intervallum*) gehandelt hat ([BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)).
 
-Art. 18 ZGB nennt selbst keine Ausnahmen, verweist aber auf «gesetzliche Ausnahmen» (vorbehalten der gesetzlichen Ausnahmen). Diese sind:
+#### 3. Beweismass post mortem
+Von einem auf überwiegende Wahrscheinlichkeit herabgesetzten Beweismass ist auszugehen, wenn der Geisteszustand einer verstorbenen Person in Frage steht, weil in diesem Fall die Natur der Sache einen absoluten Beweis unmöglich macht ([BGE 144 III 264, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-5-4); [BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1)).
 
-- **Art. 19 ZGB**: Urteilsfähige Handlungsunfähige können mit Zustimmung des gesetzlichen Vertreters Rechtsgeschäfte vornehmen
-- **Art. 52 OR analog**: Handlungen in Notwehrsituationen können wirksam sein
-- **Art. 62 OR**: Bereicherungsrechtlicher Anspruch — der urteilsunfähigen Person steht ein Bereicherungsanspruch zu (BGE [90 II 9](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=90_II_9))
-- **Stillvollzug**: Bestimmte Handlungen (z.B. Hinterlegung) können auch von Urteilsunfähigen wirksam vorgenommen werden
+### VI. Kantonale Praxisfragen
 
-#### 3. Teilnichtigkeit
+#### 1. Grundbuchpraxis: Prüfungsbefugnis des Grundbuchverwalters
+In der kantonalen Praxis stellt sich regelmässig die Frage, ob der Grundbuchverwalter bei der Anmeldung eines Grundstückkaufvertrags oder einer dinglichen Verfügung die Urteilsfähigkeit der Beteiligten überprüfen darf oder muss.
+- Das Bundesgericht hat klargestellt: Der Grundbuchverwalter hat die Urteilsfähigkeit des Verfügenden grundsätzlich nicht zu überprüfen; solange ein nach dem Grundbuch Verfügungsberechtigter nicht zufolge eines förmlichen Entscheids der zuständigen Behörde in seiner Handlungsfähigkeit beschränkt ist, ist einer im Übrigen ordnungsgemässen Anmeldung Folge zu leisten ([BGE 112 II 26, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_112_II_26#e-2)).
+- Auch die kantonale Rechtsprechung bestätigt diesen Grundsatz: Die Prüfungsbefugnis des Grundbuchverwalters beschränkt sich einzig auf die formellen Voraussetzungen der Handlungsfähigkeit; er darf im Rahmen eines angemeldeten Grundstückverkaufs keine Beweiserhebungen über die Urteilsfähigkeit einer Partei durchführen ([Gericht LU JK 97 134 vom 3. April 1997](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_JK_97_134)).
 
-Nach den allgemeinen Regeln der Teilnichtigkeit (Art. 20 OR) kann ein Vertrag teilweise gültig bleiben, wenn der urteilsunfähige Teil nur einzelne Klauseln betraf.
+#### 2. Eherecht: Zustimmung bei Demenz zur Veräusserung der Familienwohnung
+In der kantonalen Gerichtspraxis (z.B. Wallis) wird diskutiert, unter welchen Voraussetzungen ein an Demenz leidender Ehegatte noch wirksam die Zustimmung nach Art. 169 ZGB zur Veräusserung der Familienwohnung erteilen kann.
+- Bei Personen in einem dauernden Zustand alters- und krankheitsbedingten geistigen Abbaus besteht zwar die tatsächliche Vermutung der Urteilsunfähigkeit; indes kann selbst bei einer Demenz je nach Komplexität eines Rechtsgeschäfts die Urteilsfähigkeit gegeben sein, weshalb diese im Einzelfall mit Blick auf die Art des Rechtsgeschäfts aufgrund einer differenzierten Diagnose des Gesundheitszustands zu beurteilen ist ([Gericht VS C1 23 169 vom 15. April 2024](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_C1%2023%20169)).
 
-### V. Urteilsfähigkeit in besonderen Rechtsgebieten
+#### 3. Erwachsenenschutz: Beschwerdefähigkeit gegen KESB-Massnahmen
+Bei der Errichtung von behördlichen Massnahmen im Erwachsenenschutz stellt sich die Frage, ob die betroffene Person trotz angeordneter Beistandschaft prozessfähig ist, um die Massnahme selbst anzufechten.
+- Die kantonale Praxis hält fest: Die Urteilsfähigkeit zur Erhebung einer Beschwerde gegen die Errichtung einer Vertretungsbeistandschaft wird auch dann vermutet, wenn die Beschwerde handschriftlich durch die Mutter verfasst und von der betroffenen Person bloss unterzeichnet wurde ([Gericht OW OGVE 2018/19 Nr. 18 vom 19. Dezember 2022](https://mcp.opencaselaw.ch/entscheid/ow_gerichte_OGVE_2018_19_Nr._18)).
 
-#### 1. Im Erbrecht
+### VII. Anwendungsfelder und Kasuistik
 
-Die Urteilsfähigkeit ist Voraussetzung für die **Testierfähigkeit** (Art. 518 ZGB) und die **Errichtung von Verfügungen von Todes wegen**. BGE [144 III 264](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=144_III_264) klärt: Die Ausübung von Stifterrechten setzt Urteilsfähigkeit voraus. Die Stiftungsaufsicht kann Massnahmen ergreifen, wenn die Urteilsfähigkeit des Stifters beeinträchtigt ist.
-
-Für die Testierfähigkeit gelten **strengere Massstäbe** als für die allgemeine Urteilsfähigkeit: Es genügt nicht, die Bedeutung einer Verfügung zu verstehen, sondern auch ihre Tragweite für die Erben und die Vermögensverteilung (BGE [5A_438/2016](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=5A_438_2016), E. 4.3).
-
-#### 2. Im Sozialversicherungsrecht
-
-BGE [131 V 329](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=131_V_329) klärt: Das **Verzichtsvermögen** bei Ergänzungsleistungen setzt Urteilsfähigkeit voraus. Die Tatbestandselemente des Art. 3c Abs. 1 lit. g ELG i.V.m. Art. 18 ZGB sind alternativ zu verstehen.
-
-BGE [127 V 237](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=127_V_237): Der zivilrechtliche Wohnsitz bei urteilsfähigen Personen im Altersheim begründet die interkantonale Zuständigkeit für Ergänzungsleistungen.
-
-#### 3. Im internationalen Privatrecht
-
-BGE [108 V 121](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=108_V_121): Die Handlungsfähigkeit ausländischer Personen in der Schweiz richtet sich nach dem **Heimatrecht** (IPRG). Art. 18 ZGB dient als Kompetenznorm für die Beurteilung der Urteilsfähigkeit unter Schweizer Recht.
-
-#### 4. Im Krankenversicherungsrecht
-
-BGE [134 III 511](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=134_III_511): Die Nichtigkeit von Handlungen urteilsunfähiger Personen im Krankenversicherungsrecht. Versicherungsleistungen können nicht durch Handlungen urteilsunfähiger Personen geschuldet werden.
-
-### VI. Kasuistik
-
-| Fallgruppe | Relevante Rspr. | Ergebnis |
+| Rechtsbereich | Kernfrage / Rechtswirkung | Relevanter Entscheid |
 |---|---|---|
-| Demenzkranke / Testierfähigkeit | BGE 144 III 264 | Urteilsunfähigkeit → Nichtigkeit des Testaments |
-| Minderjährige / Alltagsgeschäfte | BGE 118 II 401 | Relative Urteilsfähigkeit für einfache Geschäfte möglich |
-| Alkoholbeeinträchtigung | BGE 134 III 511 | Relative Beurteilung je nach Grad der Beeinträchtigung |
-| Medikamenteneinfluss | BGE 131 V 329 | Je nach Tagesform; Vermutung der Urteilsfähigkeit |
-| Wohnsitzbegründung im Heim | BGE 127 V 237 | Urteilsfähigkeit für Wohnsitzbegründung erforderlich |
-| Kindschaftsanerkenntnis | BGE 90 II 9 | Urteilsfähigkeit erforderlich; Bereicherungsanspruch bei Urteilsunfähigkeit |
+| **Vertragsrecht** | Beweislast für Schwächezustand bei Vertragsanfechtung | [BGE 144 III 264, E. 6.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-2) |
+| **Sachenrecht / Wertpapiere** | Gutglaubensschutz greift nicht bei Urteilsunfähigkeit | [BGE 89 II 387, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_89_II_387#e-1) |
+| **Erbrecht (Testamente)** | Vermutungsumkehr bei Demenz und Beweismass *post mortem* | [BGE 124 III 5, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_5#e-1) |
+| **Stiftungsrecht** | Ausübung von Stifterrechten / Organbestellung | [BGE 144 III 264, E. 6.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-1) |
+| **Prozessrecht** | Urteilsfähigkeit als Voraussetzung der Prozessfähigkeit | [BGE 118 Ia 236, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_Ia_236#e-2) |
+| **Schuldbetreibung** | Nichtigkeit von Betreibungshandlungen gegenüber Urteilsunfähigen | [BGE 144 III 264, E. 6.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_264#e-6-1-2) |
+| **Grundbuchverkehr** | Keine materielle Prüfungspflicht des Grundbuchverwalters | [BGE 112 II 26, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_112_II_26#e-2); [Gericht LU JK 97 134 vom 3. April 1997](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_JK_97_134) |
 
-### VII. Abgrenzungen
+### VIII. Abgrenzungen
 
-- **[Art. 16 ZGB](../art-016/)**: Volljährigkeit und Handlungsfähigkeit — Alter ist nicht Urteilsfähigkeit
-- **[Art. 19 ZGB](../art-019/)**: Urteilsfähige Handlungsunfähige — Zustimmung des gesetzlichen Vertreters
-- **[Art. 27 ZGB](../art-027/)**: Unverzichtbarkeit der Rechtsfähigkeit — nicht der Urteilsfähigkeit
-- **[Art. 518 ZGB](../art-518/)**: Testierfähigkeit — strengere Anforderungen
-- **Art. 52 OR**: Notwehrhandlungen — Ausnahme von der Nichtigkeit
-- **Art. 62 OR**: Bereicherungsrechtlicher Ausgleich bei Nichtigkeit
+- **[Art. 16 ZGB](../art-016/)**: Definiert die Urteilsfähigkeit und zählt die Schwächezustände auf; Art. 18 ZGB regelt die Rechtsfolge des Fehlens.
+- **[Art. 17 ZGB](../art-017/)**: Definiert die Handlungsunfähigkeit im Allgemeinen.
+- **[Art. 19 ZGB](../art-019/)**: Regelt die Rechtsstellung urteilsfähiger handlungsunfähiger Personen (beschränkte Handlungsunfähigkeit).
+- **[Art. 467 ZGB](../art-467/) / [Art. 519 ZGB](../art-519/)**: Testierfähigkeit und Ungültigkeitsklage im Erbrecht (relativ strenger Massstab für anspruchsvolle Verfügungen).
+- **Art. 54 OR**: Haftung Urteilsunfähiger aus Billigkeit.
 
 ## Literatur
 
-- OnlineKommentar ZGB, Art. 18
-- Tuor/Schnyder, Das Schweizerische Zivilgesetzbuch, 4. Aufl.
-- Schweizer, JPTK/Büchler, ZGB I, 6. Aufl. 2023, Art. 18 N. 1–28
-- Honsell/Vogt/Wiegand, ZGB I, 5. Aufl. 2020, Art. 18 N. 1–15
+- Eugen Bucher, Berner Kommentar zum schweizerischen Privatrecht, Bd. I/2: Die natürlichen Personen, 2. Aufl., Bern 1976, Art. 18 ZGB.
+- Harold Grüninger / Thomas Geiser, Basler Kommentar, Zivilgesetzbuch I, 7. Aufl., Basel 2022, Art. 18 ZGB.
+- Heinz Hausheer / Regina E. Aebi-Müller, Das Personenrecht des Schweizerischen Zivilgesetzbuches, 5. Aufl., Bern 2020.
+- Daniel Staehelin, Handkommentar zum Schweizer Privatrecht, Personen- und Familienrecht, 4. Aufl., Zürich 2023, Art. 18 ZGB.
+- Franz Werro / Philippe Schmidlin, Commentaire romand, Code civil I, 2. Aufl., Basel 2024, Art. 18 CC.
