@@ -1,143 +1,96 @@
 ---
-title: "Rechtsprechung zu Art. 276 ZGB — Unterhaltspflicht der Eltern"
+title: "Rechtsprechung zu Art. 276 ZGB"
 weight: 99
-date: 2026-08-09
-lastmod: 2026-08-09
-description: "Übersicht der Rechtsprechung zu Art. 276 ZGB: Unterhaltspflicht der Eltern"
-tags: ["Rechtsprechung", "ZGB", "Unterhaltspflicht", "Eltern", "Kindesunterhalt", "Familienrecht"]
+date: 2026-05-15
+lastmod: 2026-08-20
+description: "Übersicht der Rechtsprechung zu Art. 276 ZGB – Grundsatz der Unterhaltspflicht, Natural- und Geldunterhalt, Betreuungsunterhalt, Kindesschutzmassnahmen und kantonale Praxis."
+tags: ["Rechtsprechung", "ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Betreuungsunterhalt", "Kindesschutzmassnahmen"]
 agent_verified: false
 revisions:
+  - date: 2026-08-20
+    by: "Glossagens Agent"
+    model: "gemini-3-7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul der Rechtsprechungsübersicht mit verifizierten Leitentscheiden und kantonaler Praxis zu Art. 276 ZGB."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht mit 17 OCL-verifizierten Entscheiden"
+    mcp_verified: false
+    note: "Erstfassung mit unzutreffenden Entscheiden"
 ---
 
 # Rechtsprechung zu Art. 276 ZGB
 
-## I. Bundesgerichtsentscheide (BGE)
+## I. Leitentscheide
 
-### BGE 150 III 1 (19.07.2023)
+### **Grundsätze des Kindesunterhalts und zweistufige Methode**
+* **Fundstelle**: [BGE 147 III 265, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-5-1)
+* **Kernaussage**: Der Unterhalt eines Kindes wird durch Pflege, Erziehung und Geldzahlung geleistet (Art. 276 Abs. 1 ZGB); für diese drei Unterhaltskomponenten sorgen die Eltern gemeinsam, ein jeder nach seinen Kräften. Für die Bemessung des Geldunterhalts ist schweizweit verbindlich die zweistufige Methode mit Überschussverteilung anzuwenden.
 
-**Unterhaltsbemessung bei getrennt lebenden Eltern; massgeblicher Zeitpunkt**
+---
 
-Das Bundesgericht hält fest, dass für die Bemessung des Kindesunterhalts die Verhältnisse im Zeitpunkt der Beurteilung massgebend sind. Nachträgliche Änderungen sind nur unter engen Voraussetzungen zu berücksichtigen.
+### **Bemessung des Betreuungsunterhalts nach dem Lebenshaltungskostenmodell**
+* **Fundstelle**: [BGE 144 III 377, E. 7.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_377#e-7-1-4)
+* **Kernaussage**: Zur Bemessung des Betreuungsunterhaltes des Kindes entspricht die Lebenshaltungskosten-Methode am besten dem vom Gesetzgeber verfolgten Ziel. Massgebend ist die Differenz zwischen dem Nettoverdienst aus der Erwerbstätigkeit und den Lebenshaltungskosten des betreuenden Elternteils zur Deckung des familienrechtlichen Existenzminimums.
 
-🔗 [BGE 150 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_1)
+---
 
-### BGE 143 III 233 (02.05.2017)
+### **Schulstufenmodell für die Erwerbsobliegenheit des betreuenden Elternteils**
+* **Fundstelle**: [BGE 144 III 481, E. 4.7.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481#e-4-7-6)
+* **Kernaussage**: Das Bundesgericht wendet für die Zumutbarkeit der Erwerbstätigkeit des betreuenden Elternteils das Schulstufenmodell an: ab obligatorischer Einschulung des jüngsten Kindes 50 %, ab Eintritt in die Sekundarstufe I 80 % und ab vollendetem 16. Altersjahr 100 %.
 
-**Ausbildungszuschuss nach Mündigkeit; Angemessenheit**
+---
 
-Das Bundesgericht präzisiert den Begriff der angemessenen Ausbildung nach Art. 276 Abs. 2 ZGB. Massgeblich sind die Fähigkeiten und Neigungen des Kindes sowie die wirtschaftlichen Verhältnisse der Eltern.
+### **Tragung der Kosten von Kindesschutzmassnahmen und Fremdplatzierungen**
+* **Fundstelle**: [BGE 151 III 249, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_249#e-4-1)
+* **Kernaussage**: Die Kosten von Kindesschutzmassnahmen, namentlich auch die Kosten der Fremdplatzierung nach Art. 310 ZGB, gehören gemäss Art. 276 Abs. 2 ZGB zum Unterhaltsanspruch des Kindes und sind in erster Linie durch die Eltern zu tragen.
 
-🔗 [BGE 143 III 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_III_233)
+---
 
-### BGE 140 III 462 (22.08.2014)
+### **Pflegeplatzkosten als Bestandteil des Kindesunterhalts**
+* **Fundstelle**: [BGE 141 III 401, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_401#e-4)
+* **Kernaussage**: Kosten für Kindesschutzmassnahmen einschliesslich Pflegeplatzkosten gehören zum Kindesunterhalt nach Art. 276 ZGB. Die in Anwendung der PAVO erlassenen kantonalen Pflegegeld-Richtlinien sind als Verwaltungsverordnungen zu qualifizieren, von denen nur mit sachlicher Begründung abgewichen werden darf.
 
-**Unterhaltsbeitrag bei wechselnden Einkommensverhältnissen**
+---
 
-Die Anpassung des Unterhaltsbeitrags bei wechselnden Einkommensverhältnissen der Eltern ist unter Wahrung des Kindeswohls vorzunehmen. Der Mindestunterhalt bleibt auch bei vorübergehender Leistungsschwäche geschützt.
+### **Prozessmaximen im Kindesunterhalt**
+* **Fundstelle**: [BGE 147 III 301, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301#e-2-2)
+* **Kernaussage**: In Bezug auf den Kindesunterhalt kommt unabhängig von der Art des Verfahrens stets die Offizialmaxime und die uneingeschränkte Untersuchungsmaxime im Sinn der Erforschungspflicht zur Anwendung (Art. 296 Abs. 1 und 3 ZPO).
 
-🔗 [BGE 140 III 462](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_462)
+---
 
-### BGE 137 III 580 (03.11.2011)
+## II. Weitere Entscheide
 
-**Beiderseitige Unterhaltspflicht; Leistungsfähigkeit**
+### **Gleichwertigkeit von Natural- und Geldunterhalt**
+* **Fundstelle**: [BGer 5A_727/2018, E. 4.3.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_727_2018#e-4-3-1)
+* **Kernaussage**: Naturalunterhalt durch Pflege und Erziehung und Geldunterhalt sind nach der Konzeption des Gesetzes gleichwertig. Steht das Kind unter alleiniger Obhut, erfüllt der betreuende Elternteil seinen Beitrag durch Naturalunterhalt, während der andere grundsätzlich für den Geldunterhalt aufkommt.
 
-Beide Elternteile sind unterhaltspflichtig. Die Verteilung richtet sich nach der jeweiligen Leistungsfähigkeit. Ist ein Elternteil nicht leistungsfähig, trifft den anderen die Alleinpflicht.
+---
 
-🔗 [BGE 137 III 580](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_580)
+### **Konkrete Bedarfs- und Unterhaltsberechnung bei Scheidung**
+* **Fundstelle**: [BGer 5A_311/2019, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_311_2019#e-5-1)
+* **Kernaussage**: Der Unterhalt eines Kindes wird durch Pflege, Erziehung und Geldzahlung geleistet (Art. 276 Abs. 1 ZGB); für diese drei Unterhaltskomponenten sorgen die Eltern gemeinsam, ein jeder nach seinen Kräften. Bei der Festsetzung im Scheidungsverfahren sind Bar- und Betreuungsunterhalt getrennt auszuweisen.
 
-### BGE 128 III 1 (16.11.2001)
+---
 
-**Unterhalt des unmündigen Kindes**
+### **Kantonale Praxis: Zivilrechtliche Rückforderung bevorschusster Kindesschutzkosten**
+* **Fundstelle**: [Gericht AG ZSU.2019.215 vom 25. November 2019](https://mcp.opencaselaw.ch/entscheid/ag_gerichte_ZSU.2019.215)
+* **Kernaussage**: Bevorschusste Kindesschutzkosten können von den Eltern oder einem Elternteil nur auf dem zivilrechtlichen Weg zurückgefordert werden; eine hoheitliche Festsetzung mittels Gemeinderatsbeschluss ist unzulässig.
 
-Das Bundesgericht bekräftigt die unbedingte Unterhaltspflicht der Eltern gegenüber unmündigen Kindern nach Art. 276 Abs. 1 ZGB.
+---
 
-🔗 [BGE 128 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_1)
+### **Kantonale Praxis: Klageweise Durchsetzung von Kindesschutzkosten**
+* **Fundstelle**: [Gericht SG V-2017/136 vom 20. Juli 2018](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_V-2017_136)
+* **Kernaussage**: Die Kosten für Kindesschutzmassnahmen gehören zu den elterlichen Unterhaltspflichten nach Art. 276 ZGB und sind bei fehlender Einigung der Eltern klageweise vor den Zivilgerichten und nicht durch hoheitliche Verfügung der KESB durchzusetzen.
 
-### BGE 126 III 345 (08.06.2000)
+---
 
-**Angemessene Ausbildung nach Mündigkeit**
+### **Kantonale Praxis: Heranziehung von Kindesvermögen für Schutzmassnahmen**
+* **Fundstelle**: [Gericht LU 3H 14 12 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3H_14_12)
+* **Kernaussage**: Sind die sorgeberechtigten Eltern nicht leistungsfähig, kann freies Kindesvermögen nach Art. 323 ZGB für die Finanzierung von Kindesschutzmassnahmen herangezogen werden, wobei dem Kind ein Vermögensfreibetrag von Fr. 24'000.-- zu belassen ist.
 
-Leitentscheid zum Begriff der angemessenen Ausbildung nach Art. 276 Abs. 2 ZGB. Das Bundesgericht definiert die Kriterien für die Angemessenheit der Ausbildung unter Berücksichtigung der individuellen Fähigkeiten.
+---
 
-🔗 [BGE 126 III 345](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_III_345)
-
-### BGE 150 II 244 (29.02.2024)
-
-**Steuerrechtliche Aspekte des Unterhalts; Wohnsitzbegriff**
-
-Das Bundesgericht befasst sich mit den steuerrechtlichen Auswirkungen der Unterhaltspflicht und präzisiert den massgebenden Zeitpunkt für die Beurteilung.
-
-🔗 [BGE 150 II 244](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_244)
-
-### BGE 147 II 35 (10.07.2020)
-
-**Unterhaltsbemessung und Existenzminimum**
-
-Die Unterhaltsbemessung hat das Existenzminimum des Kindes zu wahren. Die Notlagenquote kann nicht dazu führen, dass das Kind unter das Existenzminimum absinkt.
-
-🔗 [BGE 147 II 35](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_35)
-
-### BGE 146 II 6 (31.01.2020)
-
-**Leistungsfähigkeit und Unterhaltsbeitrag**
-
-Das Bundesgericht präzisiert die Berechnung der Leistungsfähigkeit der Eltern und deren Auswirkung auf den Unterhaltsbeitrag.
-
-🔗 [BGE 146 II 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_6)
-
-### BGE 122 III 1 (05.03.1996)
-
-**Arrestierung von Freizügigkeitsleistungen**
-
-Die Freizügigkeitsleistung kann zur Sicherung von Unterhaltsansprüchen arrestiert werden.
-
-🔗 [BGE 122 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_1)
-
-## II. Bundesgerichtsentscheide (nicht publiziert)
-
-### BGer 5A_744/2023 (21.02.2024)
-
-Aktuelle Praxis zur Ausbildungsmöglichkeit des Kindes und zur Angemessenheit der Ausbildung nach Art. 276 Abs. 2 ZGB.
-
-🔗 [BGer 5A_744/2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_744_2023)
-
-### BGer 5A_319/2023 (19.09.2023)
-
-Unterhaltsbeitrag und Studierfähigkeit des Kindes; Beurteilung der Angemessenheit der Ausbildung.
-
-🔗 [BGer 5A_319/2023](https://mcp.opencaselaw.ch/entscheid/bger_5A_319_2023)
-
-### BGer 5A_487/2022 (27.06.2022)
-
-Rechtsverweigerung im familiengerichtlichen Verfahren betreffend Unterhalt.
-
-🔗 [BGer 5A_487/2022](https://mcp.opencaselaw.ch/entscheid/bger_5A_487_2022)
-
-### BGer 5A_611/2021 (09.08.2021)
-
-Pfändung und Unterhalt; Verhältnis von Unterhaltsanspruch zu betreibungsrechtlichen Massnahmen.
-
-🔗 [BGer 5A_611/2021](https://mcp.opencaselaw.ch/entscheid/bger_5A_611_2021)
-
-### BGer 5A_923/2020 (01.07.2021)
-
-Definitive Rechtsöffnung und Unterhaltsanspruch; Glaubhaftmachung im Rechtsöffnungsverfahren.
-
-🔗 [BGer 5A_923/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_923_2020)
-
-### BGer 5A_485/2020 (25.03.2021)
-
-Unterhaltsbemessung bei veränderten Einkommensverhältnissen.
-
-🔗 [BGer 5A_485/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_485_2020)
-
-### BGer 5A_856/2019 (07.08.2020)
-
-Mandatierung im Rechtsöffnungsverfahren bei Unterhaltsforderungen.
-
-🔗 [BGer 5A_856/2019](https://mcp.opencaselaw.ch/entscheid/bger_5A_856_2019)
+### **Kantonale Praxis: Mehrkosten bei alternierender Obhut**
+* **Fundstelle**: [Kantonsgericht SG FO.2015.22 vom 18. August 2017](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_FO.2015.22)
+* **Kernaussage**: Diese sogenannte alternierende Obhut zieht im Vergleich zum traditionellen Modell Mehrkosten nach sich, welche grundsätzlich von den Eltern zu übernehmen sind.
