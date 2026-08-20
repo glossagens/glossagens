@@ -1,136 +1,141 @@
 ---
-title: "Art. 285 ZGB — Unterhaltsbeitrag"
+title: "Art. 285 ZGB — Bemessung des Unterhaltsbeitrags"
 weight: 285
-date: 2026-08-09
-lastmod: 2026-08-09
-description: "Kommentar zu Art. 285 ZGB – Unterhaltsbeitrag (Bemessung): Methodik, Bedarf, Einkommen, Existenzminimum, Kindesunterhalt, Ehegattenunterhalt"
-tags: ["ZGB", "Unterhaltsbeitrag", "Unterhalt", "Bemessung", "Existenzminimum", "Kindesunterhalt", "Ehegattenunterhalt"]
+date: 2026-05-15
+lastmod: 2026-08-20
+description: "Kommentar zu Art. 285 ZGB – Bemessung des Kindesunterhalts: Zweistufige Methode mit Überschussverteilung, Barunterhalt, Betreuungsunterhalt und Schulstufenmodell."
+tags: ["ZGB", "Kindesunterhalt", "Unterhalt", "Bemessung", "Betreuungsunterhalt", "Barunterhalt", "Schulstufenmodell"]
 agent_verified: true
 revisions:
+  - date: 2026-08-20
+    by: "Glossagens Agent"
+    model: "gemini-3-7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Korrektur des Gesetzeswortlauts (Revision 2017), Umstellung auf die verbindliche zweistufige Methode mit Überschussverteilung (BGE 147 III 265) und Betreuungsunterhalt (BGE 144 III 377, BGE 144 III 481, BGE 149 III 441); Belegapparat via check_claim_support vollständig verifiziert."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
-    note: "Neuerstellung — ZGB Art. 285 Kommentar mit 20 OCL-verifizierten Zitationen"
+    mcp_verified: false
+    note: "Erstfassung (fehlerhafter Gesetzestext und unzutreffende BGE-Zitate)"
 ---
 
-## Art. 285 ZGB — Unterhaltsbeitrag
+# Art. 285 ZGB
 
 ## Gesetzeswortlaut
 
-> **Art. 285 ZGB — Unterhaltsbeitrag**
+> **Art. 285 ZGB — Bemessung des Unterhaltsbeitrags / Ausrichtung**
 >
-> 1 Der Unterhaltsbeitrag ist nach den Bedürfnissen des Berechtigten sowie nach der Leistungsfähigkeit des Pflichtigen und nach den Lebenshaltungskosten im massgeblichen Umkreis zu bemessen.
+> 1 Der Unterhaltsbeitrag soll den Bedürfnissen des Kindes sowie der Lebensstellung und Leistungsfähigkeit der Eltern entsprechen; dabei sind das Vermögen und die Einkünfte des Kindes zu berücksichtigen.
 >
-> 2 Er ist in der Regel als Rente auszurichten und wird vorausbezahlt.
+> 2 Der Unterhaltsbeitrag dient auch der Gewährleistung der Betreuung des Kindes durch die Eltern oder Dritte.
 >
-> 3 Wird der Beitrag als Rente ausgerichtet, so ist er auf den Anfang des Monates fällig, in dem er geschuldet wird.
->
-> 4 Die Bestimmungen über die Herabsetzung oder den Wegfall der Rente bei dauernder Unmöglichkeit der Zahlung (Art. 119) sind sinngemäss anwendbar.
+> 3 Er ist zum Voraus zu entrichten. Das Gericht setzt die Zahlungstermine fest.
 
-### I. Bedeutung und Einordnung
+---
 
-**1** Art. 285 ZGB regelt die **Bemessung des Unterhaltsbeitrags** als zentrale Norm des Schweizerischen Unterhaltsrechts. Der Unterhaltsbeitrag ist die wichtigste geldwerte Leistung im Familienrecht und wird sowohl im Kindesunterhalt (Art. 276 ff. ZGB) als auch im Ehegattenunterhalt (Art. 163 ff. ZGB) angewendet. Die Norm konkretisiert den Unterhaltsanspruch und stellt die drei **Bemessungskriterien** Bedarf, Leistungsfähigkeit und Lebenshaltungskosten in den massgebenden Umkreis als gleichrangige Faktoren nebeneinander (BGE 134 III 589 E. 4.1; BGE 137 III 569 E. 3.1).
+## Kommentierung
 
-**2** Die Bemessung des Unterhaltsbeitrags erfolgt in einem **zweistufigen Verfahren**: Zunächst ist der **Bedarf** des Berechtigten zu ermitteln (Existenzminimum plus angemessene Bedürfnisse), sodann die **Leistungsfähigkeit** des Pflichtigen (Einkommen abzüglich eigener Bedarf). Ergibt sich eine **Deckungslücke**, ist der Unterhaltsbeitrag entsprechend zu bemessen; übersteigt das verfügbare Einkommen den Bedarf des Berechtigten, wird der Beitrag im Rahmen der Leistungsfähigkeit festgesetzt (BGE 139 III 337 E. 4.2; BGE 141 III 313 E. 5).
+### Überblick und Bedeutung
 
-**3** Art. 285 ZGB ist anwendbar auf:
-- **Kindesunterhalt** (Art. 276 ff. ZGB, Art. 285 ff. ZGB)
-- **Ehegattenunterhalt** (Art. 163 ff. ZGB i.V.m. Art. 285 ZGB)
-- **Nachträglichen Unterhalt** (Art. 129 ZGB)
-- **Unterhaltsbeitrag bei Eheschutz** (Art. 173 ff. ZGB)
+**1** Art. 285 ZGB ist die zentrale materiellrechtliche Bestimmung für die Bemessung und Ausrichtung des **Kindesunterhaltsbeitrags**. Mit der am 1. Januar 2017 in Kraft getretenen Revision des Kindesunterhaltsrechts (Botschaft vom 29. November 2013, [BBl 2014 529](https://www.fedlex.admin.ch/eli/fga/2014/195/de)) wurde das Unterhaltsrecht grundlegend modernisiert. Kernstück der Revision war die Einführung des **Betreuungsunterhalts** in Abs. 2, der sicherstellt, dass die wirtschaftlichen Nachteile der persönlichen Betreuung des Kindes als eigenständige Unterhaltsposition abgegolten werden ([BGE 144 III 377, E. 7.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_377#e-7-1-4); [BGE 149 III 172, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172#e-3-4-1)).
 
-### II. Bemessungskriterien (Abs. 1)
+**2** Das Bundesgericht hat in einer Leitentscheid-Reihe vom November 2020 den bisherigen kantonalen Methodenpluralismus (z.B. Zürcher Tabellen, Prozentmethode, zweistufige Methode) beendet: Für die gesamte Schweiz ist für die Berechnung des Kindesunterhalts nunmehr verbindlich die **zweistufige Methode mit Überschussverteilung** (auch zweistufig-konkrete Methode) anzuwenden ([BGE 147 III 265, E. 6.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-6-6)).
 
-#### A. Bedarf des Berechtigten
+**3** Der Kindesunterhalt setzt sich aus zwei Komponenten zusammen:
+- dem **Barunterhalt** (direkte Kosten des Kindes wie Wohnen, Nahrung, Kleidung, Krankenkasse, Fremdbetreuung; Abs. 1);
+- dem **Betreuungsunterhalt** (indirekte Kosten der persönlichen Betreuung zur Deckung des Lebensunterhalts des betreuenden Elternteils; Abs. 2).
 
-**4** Der **Bedarf** des Berechtigten umfasst:
-- Das **Existenzminimum** (notwendiger Lebensunterhalt: Nahrung, Kleidung, Wohnung, Krankenkasse, grundlegende Mobilität)
-- Die **angemessenen Bedürfnisse** (Ausbildung, Erholung, soziale Kontakte, berufliche Weiterentwicklung)
-- **Besondere Bedürfnisse** (Krankheit, Behinderung, besondere Ausbildungskosten)
+---
 
-**5** Das Existenzminimum richtet sich nach den Richtlinien der Schweizerischen Konferenz der Fürsorgeämter (SKOS-Richtlinien) und der bundesgerichtlichen Praxis. Das Bundesgericht hat wiederholt klargestellt, dass die SKOS-Richtlinien eine wertvolle Orientierungshilfe darstellen, aber nicht bindend sind — das Gericht muss die konkreten Verhältnisse des Einzelfalls berücksichtigen (BGE 134 III 589 E. 5.1; BGE 137 III 569 E. 4.2).
+## Abs. 1 — Bemessung des Barunterhalts und Berechnungsmethode
 
-**6** Beim **Kindesunterhalt** sind die altersbedingten Bedürfnisse besonders zu berücksichtigen. Kleinkinder haben andere Bedürfnisse als Schulkindliche oder Jugendliche. Die Betreuungskosten (Krippe, Tagesfamilie, Hort) sind Teil des Bedarfs und nicht Teil des Betreuungsbeitrags (BGE 136 III 601 E. 3.2).
+### Die zweistufige Methode mit Überschussverteilung
 
-#### B. Leistungsfähigkeit des Pflichtigen
+**4** Für die Berechnung des Kindesunterhalts nach Art. 285 Abs. 1 ZGB ist die zweistufige Methode mit Überschussverteilung schweizweit einheitlich zur Anwendung zu bringen ([BGE 147 III 265, E. 6.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-6-6)). Diese Methode bildet die gesetzlichen Vorgaben, wonach der Unterhalt den Bedürfnissen des Kindes sowie der Lebensstellung und Leistungsfähigkeit der Eltern entsprechen soll, optimal ab. Tabellenwerte wie die Zürcher Tabellen oder die SKOS-Richtlinien können nicht mehr unmittelbar als Berechnungsgrundlage herangezogen werden ([BGE 147 III 265, E. 6.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-6-4)).
 
-**7** Die **Leistungsfähigkeit** des Pflichtigen wird bestimmt durch:
-- Das **Bruttoeinkommen** (Erwerbseinkommen, Ersatzeinkommen, Vermögensertrag)
-- Abzüge für **berufliche Auslagen** (Berufskosten, Pendelkosten)
-- Abzüge für **Steuerlast** (effektive Steuern oder angemessener Steuersatz)
-- Abzüge für **eigene Bedürfnisse** (Existenzminimum des Pflichtigen)
-- Abzüge für **vorhergehende Unterhaltspflichten** (andere Kinder, Ehegatten)
+**5** Das Vorgehen gliedert sich in zwei Rechenschritte:
+1. **Stufe 1 (Bedarfs- und Ressourcenermittlung)**: Feststellung der Gesamteinkünfte beider Elternteile sowie der konkreten Bedarfe aller Familienmitglieder (ausgehend vom betreibungsrechtlichen bzw. familienrechtlichen Existenzminimum).
+2. **Stufe 2 (Mittelverteilung & Überschussverteilung)**: Deckung der Existenzminima in gesetzlicher Rangordnung und Verteilung eines allfälligen Überschusses nach Ermessen.
 
-**8** Die Leistungsfähigkeit ist nicht starr, sondern dynamisch: Ändert sich das Einkommen des Pflichtigen dauernd, kann der Unterhaltsbeitrag angepasst werden (Art. 285 Abs. 4 ZGB i.V.m. Art. 119 ZGB). Vorübergehende Einkommensschwankungen begründen jedoch keine Anpassung (BGE 138 III 513 E. 3.1).
+### Bedarfsermittlung (Barbedarf des Kindes)
 
-**9** Bei **fehlender Leistungsfähigkeit** ist der Pflichtige zum Minimalunterhalt (Existenzminimum des Kindes) verpflichtet, soweit ihm dies nach seinen eigenen Verhältnissen zugemutet werden kann. Restansprüche bleiben bestehen und können bei verbesserter Leistungsfähigkeit geltend gemacht werden (BGE 134 II 361 E. 3.2).
+**6** Bei der Bedarfsermittlung bilden die Richtlinien für das betreibungsrechtliche Existenzminimum den Ausgangspunkt, wobei für jedes Kind ein Wohnkostenanteil und Fremdbetreuungskosten hinzuzurechnen sind ([BGE 147 III 265, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-7-2)). Der Barbedarf setzt sich zusammen aus:
+- dem betreibungsrechtlichen **Grundbetrag** (nach Alter abgestuft);
+- dem **Wohnkostenanteil** des Kindes (in der Regel 15–20 % der Wohnkosten des betreuenden Elternteils bei einem Kind, 25–30 % bei zwei Kindern);
+- den direkten **Krankenkassenprämien** (obligatorische Grundversicherung);
+- den effektiven **Fremdbetreuungskosten** (Krippe, Hort, Tagesfamilie);
+- den unumgänglichen **Schul- und besonderen Gesundheitskosten**.
 
-#### C. Lebenshaltungskosten im massgeblichen Umkreis
+**7** Soweit es die finanziellen Mittel zulassen, ist der gebührende Unterhalt zwingend auf das **familienrechtliche Existenzminimum** zu erweitern ([BGE 147 III 265, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-7-2)). Beim Barbedarf des Kindes gehören dazu insbesondere die Ausscheidung eines **Steueranteils**, ein den konkreten Verhältnissen angepasster Wohnkostenanteil sowie allfällige Zusatzversicherungen.
 
-**10** Die **Lebenshaltungskosten im massgeblichen Umkreis** bilden das dritte Bemessungskriterium. Sie dienen als Referenzgrösse für die angemessenen Bedürfnisse des Berechtigten. Massgebend ist der Lebensstandard, der in dem sozialen und geografischen Umfeld des Berechtigten üblich ist (BGE 134 III 589 E. 7.2; BGE 137 III 569 E. 5.1).
+### Eigene Einkünfte und Vermögen des Kindes
 
-**11** Das Bundesgericht hat klargestellt, dass bei der Bemessung des Ehegattenunterhalts der **eheliche Lebensstandard** massgebend ist: der Unterhalt soll es dem berechtigten Ehegatten ermöglichen, den während der Ehe gepflegten Lebensstandard im Wesentlichen beizubehalten (BGE 135 III 610 E. 3.2; BGE 141 III 313 E. 4.1). Diese Bemessungsmethode wird als «ehelicher Lebensstandard» oder «ehelicher Standard» bezeichnet.
+**8** Nach Art. 285 Abs. 1 ZGB sind Vermögen und Einkünfte des Kindes zu berücksichtigen:
+- **Kinder- und Ausbildungszulagen** (Art. 285a Abs. 1 ZGB) sind an den Barbedarf des Kindes anzurechnen und mindern die Unterhaltspflicht der Eltern entsprechend.
+- Eigene **Einkünfte** des Kindes (z.B. Lehrlingslohn) und Erträge aus dem Kindesvermögen (Art. 319 ZGB) sind vorab zur Deckung des eigenen Bedarfs heranzuziehen.
+- Der **Vermögensstamm** des Kindes darf nur unter den engen Voraussetzungen von Art. 320 ZGB für den Unterhalt angezehrt werden.
 
-### III. Rente und Einmalzahlung (Abs. 2–3)
+### Überschussverteilung
 
-#### A. Unterhaltsrente
+**9** Soweit nach allseitiger Deckung des familienrechtlichen Existenzminimums aller Beteiligten ein Überschuss verbleibt, partizipiert das Kind über einen Überschussanteil am höheren Lebensstandard der Eltern ([BGE 147 III 265, E. 7.2–7.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-7-2)). Die Verteilung erfolgt in der Regel nach «grossen Köpfen» (Erwachsene: Gewicht 2 bzw. 1) und «kleinen Köpfen» (Kinder: Gewicht 1 bzw. 0.5).
 
-**12** Der Unterhaltsbeitrag wird in der Regel als **Rente** ausgerichtet (Abs. 2). Die Rentenform entspricht der fortlaufenden Natur des Unterhaltsbedarfs und ermöglicht eine Anpassung bei veränderten Verhältnissen (BGE 139 III 337 E. 5.1).
+**10** Ist bei Kindern nicht verheirateter Eltern nur der eine Elternteil unterhaltspflichtig, findet die Überschussrechnung zwischen ihm und den unterhaltsberechtigten Kindern statt; es wird kein virtueller «grosser Kopf» für den betreuenden Elternteil eingesetzt, wenn dieser keinen eigenen Unterhaltsanspruch hat ([BGE 149 III 441, E. 2.7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_441#e-2-7)).
 
-**13** Die Rente ist **vorausbezahlbar** und wird am Anfang des Monats fällig, in dem sie geschuldet wird (Abs. 3). Dies schützt den Berechtigten vor Rückständen und gewährleistet die laufende Deckung seines Bedarfs.
+---
 
-#### B. Kapitalabfindung
+## Abs. 2 — Betreuungsunterhalt
 
-**14** Ausnahmsweise kann der Unterhaltsbeitrag als **Einmalzahlung (Kapitalabfindung)** festgelegt werden, wenn:
-- Die Verhältnisse eine Rentenzahlung als unzweckmässig erscheinen lassen
-- Der Pflichtige dazu in der Lage ist
-- Der Berechtigte damit einverstanden ist
+### Rechtsnatur und Grundkonzept
 
-**15** Bei der Kapitalabfindung wird die Rente nach versicherungsmathematischen Grundsätzen kapitalisiert. Das Bundesgericht hat klargestellt, dass die Kapitalabfindung die Ausnahme darstellt und nur bei besonderen Gründen angeordnet werden darf (BGE 131 III 598 E. 3; BGE 133 III 265 E. 4).
+**11** Der Betreuungsunterhalt (Art. 285 Abs. 2 ZGB) ist als **Anspruch des Kindes** ausgestaltet, wirtschaftlich jedoch dem betreuenden Elternteil zugedacht ([BGE 149 III 172, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_172#e-3-4-1)). Er dient dazu, dem betreuenden Elternteil die persönliche Betreuung des Kindes finanziell zu ermöglichen, indem er dessen dadurch bedingte Erwerbseinbussen ausgleicht.
 
-### IV. Herabsetzung und Wegfall (Abs. 4 i.V.m. Art. 119 ZGB)
+**12** Mit dem Betreuungsunterhalt soll die Differenz zwischen dem eigenen Einkommen und den anfallenden Lebenshaltungskosten abgegolten werden, die einem Elternteil dadurch entsteht, dass er aufgrund einer persönlichen Betreuung des Kindes davon abgehalten wird, durch Arbeitserwerb für seinen Lebensunterhalt aufzukommen ([BGE 148 III 353, E. 7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_353#e-7); [BGE 144 III 481, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481#e-4-3)).
 
-**16** Art. 285 Abs. 4 ZGB verweist auf die Bestimmungen über die Herabsetzung oder den Wegfall der Rente bei dauernder Unmöglichkeit der Zahlung (Art. 119 ZGB). Dies bedeutet:
-- Bei **dauernder Unmöglichkeit** der Zahlung kann der Richter den Beitrag herabsetzen oder aufheben
-- Die Herabsetzung setzt eine **wesentliche Änderung** der Verhältnisse voraus
-- Vorübergehende Schwierigkeiten begründen keine Herabsetzung (BGE 138 III 513 E. 4.1)
+### Berechnung nach dem Lebenshaltungskostenmodell
 
-**17** Die Herabsetzung ist ein **Ermessensentscheid** des Richters, der im Rahmen von Art. 119 ZGB zu treffen ist. Der Richter hat die Interessen beider Parteien abzuwägen und den Unterhaltsbeitrag so festzusetzen, dass der Bedarf des Berechtigten gedeckt wird, soweit dies der Pflichtige nach seinen Verhältnissen leisten kann (BGE 134 III 589 E. 8; BGE 137 III 569 E. 6).
+**13** Die Bemessung des Betreuungsunterhalts erfolgt nach dem **Lebenshaltungskostenmodell** ([BGE 144 III 377, E. 7.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_377#e-7-1-4)):
+- Massgebend ist das rechnerische **Manko** des betreuenden Elternteils, d.h. der ungedeckte Betrag zur Deckung seines familienrechtlichen Existenzminimums (bzw. in Mangellagen des betreibungsrechtlichen Existenzminimums).
+- Der Betreuungsunterhalt ist der Höhe nach auf das **familienrechtliche Existenzminimum** des betreuenden Elternteils beschränkt; er nimmt auch bei sehr guten wirtschaftlichen Verhältnissen nicht an einer Überschussverteilung teil ([BGE 144 III 377, E. 7.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_377#e-7-1-4); [BGE 147 III 265, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-7-2)).
+- Die **Hilflosenentschädigung** des minderjährigen Kindes darf nicht vom Betreuungsunterhalt abgezogen werden ([BGE 149 III 297, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_297#e-3-3)).
 
-### V. Kindesunterhalt (Art. 276 ff. i.V.m. Art. 285 ZGB)
+### Zumutbarkeit der Erwerbstätigkeit (Schulstufenmodell)
 
-**18** Der **Kindesunterhalt** bemisst sich nach Art. 285 ZGB i.V.m. Art. 276 ff. ZGB. Besonderheiten:
-- Das Kind hat einen **selbständigen Unterhaltsanspruch** gegenüber beiden Elternteilen (Art. 276 Abs. 1 ZGB)
-- Der betreuende Elternteil leistet seinen Beitrag in der Regel durch **Betreuung** (Art. 276 Abs. 2 ZGB)
-- Der **Mindestunterhalt** (Existenzminimum) ist zwingend und kann nicht herabgesetzt werden (BGE 134 II 361 E. 3.2)
+**14** Für die zeitliche Bemessung und die Frage, in welchem Umfang dem betreuenden Elternteil eine Erwerbstätigkeit zumutbar ist, gilt nach der bundesgerichtlichen Rechtsprechung das **Schulstufenmodell** ([BGE 144 III 481, E. 4.7.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481#e-4-7-6)):
+- **Bis zur obligatorischen Einschulung** des jüngsten Kindes (Kindergarten bzw. Primarschule): keine Erwerbstätigkeit zumutbar (0 % Erwerbsobliegenheit).
+- **Ab obligatorischer Beschulung** des jüngsten Kindes: Erwerbstätigkeit von **50 %** zumutbar.
+- **Ab Eintritt des jüngsten Kindes in die Sekundarstufe I** (ca. 12. Altersjahr): Erwerbstätigkeit von **80 %** zumutbar.
+- **Ab Vollendung des 16. Altersjahres** des jüngsten Kindes: Vollzeiterwerb (**100 %**) zumutbar.
 
-**19** Bei der Bemessung des Kindesunterhalts sind die **Betreuungskosten** (Krippe, Hort, Tagesfamilie) vom betreuenden Elternteil geltend zu machen und gehören zum Bedarf des Kindes, nicht zum Betreuungsbeitrag (BGE 136 III 601 E. 3.2; BGE 134 III 589 E. 5.3).
+**15** Das Schulstufenmodell bildet eine widerlegbare Richtlinie. Es kann im Einzelfall bei Vorliegen besonderer Umstände (z.B. besondere Betreuungsbedürftigkeit eines behinderten Kindes oder fehlende tatsächliche Erwerbsmöglichkeiten) angepasst werden ([BGE 144 III 481, E. 4.7.8–4.7.9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481#e-4-7-8)).
 
-### VI. Ehegattenunterhalt (Art. 163 ff. i.V.m. Art. 285 ZGB)
+### Rangordnung bei Mangellagen (Art. 276a ZGB)
 
-**20** Der **Ehegattenunterhalt** nach der Scheidung bemisst sich nach Art. 163 ZGB i.V.m. Art. 285 ZGB. Das Bundesgericht unterscheidet zwischen:
-- **Ehelichem Unterhalt** (während des Eheschutzverfahrens oder der Trennung): Massgebend ist der eheliche Lebensstandard
-- **Nachehelichem Unterhalt** (nach der Scheidung): Massgebend ist der Eigenversorgungsgrundsatz, ergänzt durch den nachehelichen Solidaritätsbeitrag (BGE 135 III 610 E. 3.1; BGE 137 III 569 E. 4.3)
+**16** Reichen die Mittel des unterhaltspflichtigen Elternteils nicht aus, um alle Unterhaltspflichten zu erfüllen (Mangellage), greift die gesetzliche Prioritätenordnung von Art. 276a Abs. 1 ZGB:
+1. **1. Rang**: Der **Barunterhalt des minderjährigen Kindes** geht allen anderen Unterhaltspflichten absolut vor.
+2. **2. Rang**: Der **Betreuungsunterhalt** des minderjährigen Kindes.
+3. **3. Rang**: Der **(nach-)eheliche Unterhalt** (Art. 125 ZGB / Art. 163 ZGB bzw. Art. 176 ZGB).
+4. **4. Rang**: Der **Volljährigenunterhalt** (Art. 277 Abs. 2 ZGB).
 
-**21** Der **Eigenversorgungsgrundsatz** besagt, dass jeder Ehegatte nach der Scheidheit für sich selbst zu sorgen hat. Ein nachehelicher Unterhaltsbeitrag wird nur gewährt, wenn die Eigenversorgung nicht oder nicht vollständig möglich ist (BGE 137 III 569 E. 4.3). Die nacheheliche Solidarität gebietet einen Übergangsunterhalt für die Zeit, die notwendig ist, um die Eigenversorgung zu erreichen.
+---
 
-### VII. Besondere Bemessungsfragen
+## Abs. 3 — Zahlungsmodalitäten und Fälligkeit
 
-#### A. Existenzminimum und Notbedarf
+**17** Der Unterhaltsbeitrag ist **zum Voraus** zu entrichten (Abs. 3 Satz 1). In der gerichtlichen Praxis wird der Beitrag in der Regel als monatliche Rente auf den Ersten eines jeden Kalendermonats fällig gestellt. Das Gericht setzt die Zahlungstermine im Entscheiddispositiv verbindlich fest (Abs. 3 Satz 2).
 
-**22** Das **Existenzminimum** des Berechtigten ist der unterste Bemessungswert. Es umfasst die notwendigen Lebenskosten (Wohnen, Nahrung, Kleidung, Krankenversicherung, grundlegende Mobilität). Wird das Existenzminimum des Berechtigten nicht erreicht, muss der Pflichtige — soweit ihm dies nach seinen eigenen Verhältnissen zugemutet werden kann — den Differenzbetrag leisten (BGE 134 II 361 E. 3.2; BGE 139 III 337 E. 4.3).
+---
 
-#### B. Steuerliche Aspekte
+## Praxisfragen und kantonale Besonderheiten
 
-**23** Die Unterhaltsbeiträge unterliegen der **Steuerpflicht** beim Berechtigten (Art. 22 Abs. 1 lit. a DBG). Der Pflichtige kann die Beiträge unter bestimmten Voraussetzungen vom steuerbaren Einkommen abziehen (Art. 33 Abs. 1 lit. c DBG). Die steuerliche Behandlung beeinflusst die Netto-Leistungsfähigkeit des Pflichtigen und ist bei der Bemessung zu berücksichtigen (BGE 133 III 265 E. 5).
+### 1. Aufteilung des Betreuungsunterhalts bei Halbgeschwistern
 
-#### C. Indexierung und Anpassung
+**18** Wächst ein Kind zusammen mit Halbgeschwistern bei der Mutter auf, die von verschiedenen Vätern abstammen, stellt sich in der kantonalen Praxis die Frage der Zuteilung des Betreuungsunterhalts. Das Kantonsgericht St. Gallen hat entschieden, dass der nach dem Lebenshaltungskostenmodell ermittelte Betreuungsunterhalt (Manko der Mutter) anteilsmässig auf alle bei der Mutter aufwachsenden Kinder aufzuteilen ist, da beide bzw. alle Väter anteilig zur Deckung des Betreuungsunterhalts beizutragen haben ([Kantonsgericht St. Gallen, FO.2018.14 vom 5. Februar 2020](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_FO.2018.14)).
 
-**24** Unterhaltsrenten können indexiert werden, um den Kaufkraftverlust auszugleichen. Die **Indexierung** ist eine gerichtliche Anpassung der Rente an die Teuerung oder Lohnentwicklung. Sie ist im Dispositiv des Urteils oder in der Vereinbarung vorzusehen (BGE 130 III 337 E. 3; BGE 138 III 513 E. 5). Fehlt eine Indexierungsklausel, kann der Berechtigte eine Anpassung nach Art. 285 Abs. 4 i.V.m. Art. 119 ZGB verlangen, wenn sich die Verhältnisse wesentlich verändern.
+### 2. Berücksichtigung von Besuchsrechtskosten und Leasing in Mangellagen
 
-### VIII. Verfahrensrechtliche Aspekte
+**19** In der kantonalen Gerichtspraxis ist umstritten, welche Auslagen bei knappen Verhältnissen in das Existenzminimum des Pflichtigen einfliessen dürfen. Das Kantonsgericht Basel-Landschaft hat klargestellt, dass die Unterhaltsberechnung in knappen Verhältnissen strikt auf dem betreibungsrechtlichen Existenzminimum basiert; weder Kosten für die Ausübung des Besuchsrechts noch Leasinggebühren für ein Privatfahrzeug ohne Kompetenzcharakter dürfen das Existenzminimum erhöhen, wenn dadurch der Barunterhalt des Kindes geschmälert würde ([Kantonsgericht Basel-Landschaft, 400 23 189 vom 7. November 2023](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_400_23_189)).
 
-**25** Der Unterhaltsbeitrag wird im Rahmen des **Eheschutzverfahrens** (Art. 173 ff. ZGB), der **Scheidung** (Art. 271 ff. ZGB) oder des **vorsorglichen Massnahmenverfahrens** (Art. 274 ZGB) festgesetzt. Das Verfahren richtet sich nach der ZPO (Art. 200 ff. ZPO für Eheschutz und Art. 207 ff. ZPO für Scheidung).
+---
 
-**26** Die **Vollstreckung** des Unterhaltsbeitrags richtet sich nach dem SchKG (Art. 67 ff. SchKG für Betreibung auf Unterhaltsbeitrag). Der Berechtigte hat Anspruch auf **Vorschüsse** nach den kantonalen Bestimmungen über die Unterhaltsvorschüsse (UVG, SR 831.221), wenn der Pflichtige nicht oder nicht rechtzeitig leistet (BGE 136 III 601 E. 2).
+## Literatur
+
+BSK ZGB I-BREITSCHMID PETER, 7. Aufl., Basel 2022, Art. 285; SCHWEIGHAUSER JONAS, in: FamKomm Scheidung, Bd. I, 3. Aufl., Bern 2017, Art. 285; HEGNAUER CYRIL, Berner Kommentar, Bd. II/2/1, Bern 1997, Art. 285; HAUSHEER HEINZ/SPYCHER ANNETTE, Handbuch des Unterhaltsrechts, 2. Aufl., Bern 2010; BÄHLER DANIEL, Unterhaltsberechnungen – von der Methode zu den Franken, FamPra.ch 2015 S. 272 ff.; SPYCHER ANNETTE, Betreuungsunterhalt: Zielsetzung, offene Fragen und Berechnungsthemen, FamPra.ch 2017 S. 198 ff.
