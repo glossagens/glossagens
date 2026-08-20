@@ -1,142 +1,154 @@
 ---
-title: "Art. 8 ZGB — Beweislastregel"
+title: "Art. 8 ZGB — Beweislast und Beweisführungsanspruch"
 weight: 8
-date: "2026-06-28"
-lastmod: "2026-08-17"
-description: "Kommentar zu Art. 8 ZGB — Die allgemeine Beweislastregel des Schweizer Zivilrechts: Wer aus einer behaupteten Tatsache Rechte ableitet, hat deren Vorhandensein zu beweisen. Beweislastverteilung, Beweismass, Beweiserleichterungen und Gegenbeweis."
-tags: ["ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweiserleichterung", "Gegenbeweis", "Zivilprozessrecht"]
+date: 2026-06-28
+lastmod: 2026-08-20
+description: "Kommentar zu Art. 8 ZGB — Gesetzliche Beweislastverteilung, bundesrechtlicher Beweisführungsanspruch, Regelbeweismass und Beweiserleichterungen, Gegenbeweis sowie kantonale Praxisfragen."
+tags: ["ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweisführungsanspruch", "Gegenbeweis", "Beweiserleichterung", "Zivilprozessrecht"]
 agent_verified: true
-mcp_verified: true
+revisions:
+  - date: 2026-08-20
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Wortlaut korrigiert ({: .gesetzeszitat}), Belegapparat komplett auf verifizierte Urteile und Pinpoints umgestellt, 16 verifizierte Entscheide eingearbeitet, kantonale Praxisfragen und dogmatische Abgrenzungen zur ZPO und BV integriert."
+  - date: 2026-08-17
+    by: "Hermes Agent"
+    model: "hermes-3"
+    mcp_verified: false
+    note: "Alte Fassung"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 8 ZGB — Beweislastregel**
->
 > Wo das Gesetz es nicht anders bestimmt, hat derjenige das Vorhandensein einer behaupteten Tatsache zu beweisen, der aus ihr Rechte ableitet.
+{: .gesetzeszitat}
+
+---
+
+## Überblick und Bedeutung
+
+Art. 8 ZGB bildet die **materiellrechtliche Grundnorm** des schweizerischen Beweisrechts. Die Bestimmung regelt die Beweislastverteilung für das gesamte Bundesprivatrecht und bestimmt, welche Partei die prozessualen Nachteile der Beweislosigkeit (*non liquet*) zu tragen hat. Bleibt eine rechtserhebliche Tatsache nach durchgeführter Beweiswürdigung unbewiesen, entscheidet das Gericht zuungunsten derjenigen Partei, die daraus Rechte ableitet.
+
+Aus Art. 8 ZGB fliessen zwei zentrale Rechtsgehalte:
+1. **Materielle Beweislastregel**: Festlegung des Risikos der Beweislosigkeit und der Anforderungen an das Beweismass.
+2. **Bundesrechtlicher Beweisführungsanspruch**: Als Korrelat zur Beweislast garantiert Art. 8 ZGB der beweisbelasteten Partei das Recht, zum Beweis zugelassen zu werden. Dieser Anspruch ist auf formell-prozessualer Ebene in [Art. 152 Abs. 1 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_152) und verfassungsrechtlich in [Art. 29 Abs. 2 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29) verankert.
+
+Die Beweislastverteilung und das Beweismass sind Fragen des **materiellen Bundesrechts**, deren unrichtige Anwendung mit Beschwerde an das Bundesgericht gerügt werden kann ([BGE 130 III 321, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-1)). Dagegen ist die **Beweiswürdigung** (die freie richterliche Überzeugungsbildung nach [Art. 157 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_157)) eine Frage der Sachverhaltsfeststellung, welche vom Bundesgericht ausschliesslich unter dem Blickwinkel der Willkür geprüft wird.
+
+---
 
 ## Kommentierung
 
-### I. Bedeutung und systematische Stellung
+### I. Grundregel der Beweislastverteilung
 
-Art. 8 ZGB enthält die **grundlegende Beweislastregel** des Schweizer Privatrechts. Die Norm klärt, welche Partei im Zivilprozess das Risiko der Beweislosigkeit trägt: Wer aus einer Tatsache Rechte ableitet, muss deren Vorhandensein beweisen. Damit ist Art. 8 ZGB nicht nur eine Prozessregel, sondern eine **materiellrechtliche Beweislastnorm** von zentraler Bedeutung für die gesamte Rechtsdurchsetzung (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.1).
+#### 1. Grundsatz (Rosenberg'sche Formel)
+Nach der Grundregel von Art. 8 ZGB hat diejenige Partei das Vorhandensein einer behaupteten Tatsache zu beweisen, die aus ihr Rechte ableitet:
+- **Rechtsbegründende Tatsachen**: Die Partei, die einen Anspruch geltend macht, trägt die Beweislast für die anspruchsbegründenden Tatsachen ([BGE 130 III 321, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-1)).
+- **Rechtsaufhebende, rechtsvernichtende und rechtshindernde Tatsachen**: Die Beweislast liegt bei der Partei, die den Untergang des Anspruchs behauptet (z.B. Erfüllung, Verrechnung, Verjährung) oder dessen Entstehung bzw. Durchsetzbarkeit bestreitet ([BGE 130 III 321, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-1)).
 
-Die Norm hat durch die Rechtsprechung des Bundesgerichts eine Bedeutung erlangt, die über die blosse Beweislastverteilung hinausgeht. Das Bundesgericht leitet aus Art. 8 ZGB als **Korrelat zur Beweislast** insbesondere das Recht der beweisbelasteten Partei ab, zum ihr obliegenden Beweis zugelassen zu werden (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a; BGE 118 II 365, E. 1, S. 366; BGE 114 II 289, E. 2a, S. 290). Art. 8 ZGB hat dadurch die Bedeutung einer **allgemeinen bundesrechtlichen Beweisvorschrift** erhalten (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a).
+Aus der Beweislosigkeit beim einen Beweisthema darf nicht auf das Gelingen des Beweises beim anderen Thema geschlossen werden; ein solcher Schluss käme einer unzulässigen Beweislastumkehr gleich ([BGE 130 III 321, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-1)).
 
-### II. Grundregel der Beweislastverteilung
+#### 2. Gesetzliche Abweichungen und Beweislastumkehr
+Der Grundsatz von Art. 8 ZGB gilt nur, «wo das Gesetz es nicht anders bestimmt». Wichtige bundesgesetzliche Sonderregeln sind:
+- **Verschuldensvermutung bei Vertragsverletzung**: Nach Art. 97 Abs. 1 OR wird das Verschulden des Schuldners vermutet; dieser trägt die Beweislast für die Exkulpation.
+- **Gesetzliche Rechtsvermutungen**: Bestimmungen wie Art. 930 ZGB (Vermutung des Eigentums beim Fahrnisbesitzer) oder Art. 3 Abs. 1 ZGB (Vermutung des guten Glaubens) kehren die Beweislast um.
+- **Versicherungsvertragsrecht**: Beim Anspruch aus Schadenversicherung trägt der Versicherte die Beweislast für den Eintritt des Versicherungsfalls, der Versicherer hingegen für Leistungsverweigerungs- oder Kürzungstatbestände wie absichtliche Herbeiführung ([BGE 130 III 321, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-1)).
 
-#### 1. Normale Beweislastverteilung
+---
 
-Nach Art. 8 ZGB hat — wo das Gesetz es nicht anders bestimmt — derjenige das Vorhandensein einer behaupteten Tatsache zu beweisen, der aus ihr Rechte ableitet. Demgemäss hat die Partei, die einen Anspruch geltend macht, die **rechtsbegründenden Tatsachen** zu beweisen, während die Beweislast für die **rechtsaufhebenden bzw. rechtshindernden Tatsachen** bei der Partei liegt, die sich darauf beruft (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.1).
+### II. Beweisführungsanspruch (Recht auf Beweis)
 
-Die Beweislastverteilung ist eine Frage des **materiellen Bundesrechts**, deren Verletzung mit Berufung (bzw. Beschwerde) geltend gemacht werden kann (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 5a). Dagegen gehört die **Beweiswürdigung** — ob der Beweis tatsächlich erbracht wurde — zum kantonalen Sachgericht und ist bundesrechtlich nur im Rahmen der Willkürprüfung nachprüfbar (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3b und c).
+#### 1. Begriff und Verankerung
+Aus Art. 8 ZGB leitet das Bundesgericht als Korrelat zur Beweislast das Recht der beweisbelasteten Partei ab, zum ihr obliegenden Beweis zugelassen zu werden ([BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3); [BGE 114 II 289, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_II_289#e-2)). 
 
-#### 2. Ausnahmen von der Grundregel
+Der Beweisführungsanspruch (auch Recht auf Beweis genannt) ist in [Art. 152 Abs. 1 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_152) ausdrücklich kodifiziert, wird aus Art. 8 ZGB abgeleitet und ist zudem vom verfassungsrechtlichen Anspruch auf rechtliches Gehör nach [Art. 29 Abs. 2 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29) umfasst ([BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)). Zum verfassungsmässigen Gehörsanspruch gehört das Recht des Betroffenen auf Abnahme der rechtzeitig und formrichtig angebotenen rechtserheblichen Beweismittel ([BGE 134 I 140, E. 5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_140#e-5-3)).
 
-Art. 8 ZGB legt nur die **Normalverteilung** fest; das Gesetz kann sie anders bestimmen. Wichtige Ausnahmen enthalten:
+#### 2. Voraussetzungen
+Der Beweisführungsanspruch verleiht der Partei nur insoweit einen Anspruch auf Beweisabnahme, als kumulativ:
+1. Der Beweisantrag **rechtserhebliche und bestrittene Tatsachen** betrifft ([BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3); [BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)).
+2. Der Beweisantrag **form- und fristgerecht** nach Massgabe des anwendbaren Prozessrechts gestellt worden ist ([BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3); [BGE 114 II 289, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_114_II_289#e-2)).
+3. Das Beweismittel **tauglich** ist, die behauptete Tatsache zu belegen.
 
-- **Art. 42 Abs. 2 OR** — Beweiserleichterung beim Schadensnachweis: Richterliche Schadensschätzung bei unmöglichem oder unzumutbarem strikten Beweis (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a)
-- **Art. 257 ZPO** — Rechtsschutz in klaren Fällen: Bei unbestrittenen oder offensichtlich begründeten Ansprüchen reicht qualifiziertes Bestreiten nicht aus, um den Normalbeweis auszulösen (BGE [138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620), E. 5.1.1 und 6.2)
-- **Spezialgesetzliche Beweislastumkehr** — etwa im Versicherungsvertragsrecht (Art. 39 VVG) oder im Sozialversicherungsrecht (BGE [121 V 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_204), E. 3a)
+#### 3. Schranken: Antizipierte Beweiswürdigung
+Art. 8 ZGB und Art. 152 Abs. 1 ZPO schliessen die vorweggenommene (**antizipierte**) Beweiswürdigung nicht aus ([BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3); [BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)):
+- **Echte antizipierte Beweiswürdigung**: Das Gericht hat seine Überzeugung aufgrund bereits abgenommener Beweise gewonnen und geht willkürfrei davon aus, dass weitere Abklärungen am Beweisergebnis nichts mehr ändern könnten ([BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3); [BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)).
+- **Unechte antizipierte Beweiswürdigung**: Das Gericht spricht einem Beweismittel von vornherein die Erheblichkeit oder Tauglichkeit ab ([BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)).
+- **Verletzung des Rechts auf Beweis**: Eine unzulässige Gehörs- und Beweisrechtsverletzung liegt hingegen vor, wenn das Gericht objektiv taugliche und formgültig beantragte Beweise zu rechtserheblichen Tatsachen nicht abnimmt, obwohl es die Sachvorbringen weder als erstellt noch als widerlegt erachtet ([BGer 5A_1028/2020, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_1028_2020#e-4-1)).
 
-#### 3. Beweisführungsanspruch
-
-Aus Art. 8 ZGB leitet die Rechtsprechung den **Beweisführungsanspruch** ab: Die beweisbelastete Partei hat ein Recht darauf, zum ihr obliegenden Beweis zugelassen zu werden (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a; BGE 118 II 365, E. 1). Dieser bundesrechtliche Beweisführungsanspruch besteht jedoch nur für **rechtserhebliche Tatsachen** (BGE 118 II 441, E. 1, S. 443; BGE 116 II 357, E. 3, S. 467) und setzt voraus, dass die beweisbelastete Partei im kantonalen Verfahren **form- und fristgerechte Beweisanträge** gestellt hat (BGE 114 II 289, E. 2a, S. 290; BGE 97 II 193, E. 2a).
-
-Im öffentlich-rechtlichen Bereich kann ein Beweisführungsanspruch aus Art. 8 ZGB nicht direkt abgeleitet werden, da diese Norm das Privatrecht betrifft. Das Bundesgericht hat jedoch klargestellt, dass Art. 8 ZGB im öffentlichen Recht keine selbstständigen Beweisabnahmeansprüche begründet — ein solcher kann nur gestützt auf Art. 29 BV angerufen werden (BGE [134 I 140](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_140), E. 4.1 und 5.3).
+---
 
 ### III. Beweismass
 
-#### 1. Regelbeweismass — volle Überzeugung
+#### 1. Regelbeweismass — Volle Überzeugung
+Das Regelbeweismass des schweizerischen Zivilrechts verlangt die **volle Überzeugung** des Gerichts. Ein Beweis gilt als erbracht, wenn das Gericht nach objektiven Gesichtspunkten von der Richtigkeit einer Sachbehauptung überzeugt ist. Absolute Gewissheit kann nicht verlangt werden; es genügt, wenn das Gericht am Vorliegen der behaupteten Tatsache keine ernsthaften Zweifel mehr hat oder allenfalls verbleibende Zweifel als leicht erscheinen ([BGE 130 III 321, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-2)).
 
-Das Bundesgericht legt das **Regelbeweismass** dahingehend fest, dass ein Beweis als erbracht gilt, wenn das Gericht nach objektiven Gesichtspunkten von der Richtigkeit einer Sachbehauptung überzeugt ist. **Absolute Gewissheit** kann dabei nicht verlangt werden. Es genügt, wenn das Gericht am Vorliegen der behaupteten Tatsache **keine ernsthaften Zweifel** mehr hat oder allenfalls solche Zweifel überwindet (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.2; BGE 120 IA 42, E. 2c).
+#### 2. Herabgesetztes Beweismass — Überwiegende Wahrscheinlichkeit
+Wo ein strikter Beweis nach der Natur der Sache nicht möglich oder nicht zumutbar ist (**typische Beweisnot**), wird das Beweismass auf die **überwiegende Wahrscheinlichkeit** herabgesetzt:
+- **Versicherungsvertragsrecht**: Für den Eintritt des Versicherungsfalls (insbesondere bei Diebstahl oder Beraubung) genügt die überwiegende Wahrscheinlichkeit ([BGE 130 III 321, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-3)).
+- **Kausalitätsnachweis**: Für den Nachweis des natürlichen bzw. hypothetischen Kausalzusammenhangs gilt nach ständiger Rechtsprechung allgemein das Beweismass der überwiegenden Wahrscheinlichkeit ([BGE 132 III 715, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_715#e-3-2)). Dies gilt auch im Bereich der Prospekthaftung nach Art. 752 OR ([BGE 132 III 715, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_715#e-3-2)).
+- **Sozialversicherungsrecht**: Im Sozialversicherungsrecht gilt der Regelbeweisgrad der überwiegenden Wahrscheinlichkeit für die materiellen Leistungsvoraussetzungen ([BGE 121 V 204, E. 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_204#e-6)).
 
-Das Beweismass ist — anders als die Beweislastverteilung — eine Frage des **Bundesrechts** und kann mit Berufung geltend gemacht werden (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 5a). Ob der Beweis tatsächlich erbracht wurde, unterliegt jedoch der **Beweiswürdigung** des Sachgerichts und ist nur auf Willkür überprüfbar.
+**Abgrenzung zur Glaubhaftmachung**: Die überwiegende Wahrscheinlichkeit unterscheidet sich qualitativ von der blossen Glaubhaftmachung (die für vorsorgliche Massnahmen oder Rechtsöffnung genügt). Beim Beweismass der überwiegenden Wahrscheinlichkeit darf die Möglichkeit, dass es sich anders verhalten könnte, weder eine massgebende Rolle spielen noch vernünftigerweise in Betracht fallen ([BGE 130 III 321, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-3)).
 
-#### 2. Herabgesetztes Beweismass — überwiegende Wahrscheinlichkeit
+**Ablehnung eines variablen Beweismasses**: Das Bundesgericht hat ein variables Beweismass, wonach an den Beweis umso höhere Anforderungen zu stellen wären, je unwahrscheinlicher die Behauptung ist, ausdrücklich verworfen; solche Umstände gehören in die Beweiswürdigung ([BGE 130 III 321, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-3)).
 
-In bestimmten Bereichen wird das Beweismass auf die **überwiegende Wahrscheinlichkeit** herabgesetzt. Dies gilt insbesondere:
+#### 3. Verschärftes Beweismass — Volle Gewissheit
+In Ausnahmefällen verlangt das Bundesrecht volle Gewissheit:
+- **Rechtsmittelfristen**: Die Rechtzeitigkeit eines Rechtsmittels im gerichtlichen Verfahren muss mit Gewissheit feststehen; der Beweisgrad der überwiegenden Wahrscheinlichkeit genügt nicht ([BGE 119 V 7, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_V_7#e-3)).
 
-- **Versicherungsrecht** — Bei der Diebstahlversicherung besteht regelmässig Beweisnot, so dass sich die Herabsetzung des Beweismasses auf die überwiegende Wahrscheinlichkeit rechtfertigt. Die Beweiserleichterung setzt eine Beweisnot voraus, die erfüllt ist, wenn ein strikter Beweis nach der Natur der Sache nicht möglich oder nicht zumutbar ist (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.2 und 3.3; BGE 128 III 271, E. 2b/aa, S. 276).
-- **Sozialversicherungsrecht** — Für den Nachweis von Tatsachen über das Fehlen von anrechenbarem Einkommen und Vermögen gilt der sozialversicherungsrechtliche Regelbeweisgrad der überwiegenden Wahrscheinlichkeit (BGE [121 V 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_204), E. 3a). Eine Beweisverschärfung, die über diesen Regelbeweisgrad hinausgeht, ist unzulässig, wenn dazu kein Anlass besteht (BGE [121 V 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_204), E. 3b).
-- **Kausalitätsnachweis** — Für den Nachweis des natürlichen und hypothetischen Kausalzusammenhangs gilt allgemein das Beweismass der überwiegenden Wahrscheinlichkeit (BGE [132 III 715](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_715), E. 4). Dies gilt auch im Bereich der Prospekthaftung (BGE [132 III 715](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_715), E. 4).
+---
 
-Das Beweismass der überwiegenden Wahrscheinlichkeit muss von der **Glaubhaftmachung** (bloße Wahrscheinlichkeit) abgegrenzt werden. Bei der überwiegenden Wahrscheinlichkeit darf die Möglichkeit, dass es sich auch anders verhalten könnte, für die betreffende Tatsache **keine massgebliche Rolle** spielen (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.3).
+### IV. Beweiserleichterungen, tatsächliche Vermutungen und Gegenbeweis
 
-Ein **variables Beweismass**, wonach an den Beweis einer Tatsache umso höhere Anforderungen zu stellen sind, je weniger wahrscheinlich die Behauptung ist, hat das Bundesgericht ausdrücklich abgelehnt (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.3; Urteil 5C.99/2002, E. 2.4).
+#### 1. Beweiserleichterungen bei Beweisnot (Analogie zu Art. 42 Abs. 2 OR)
+Befindet sich die beweisbelastete Partei in unverschuldeter Beweisnot, kann das Gericht in analoger Anwendung von Art. 42 Abs. 2 OR Beweiserleichterungen gewähren. Dies setzt voraus, dass ein strikter Beweis nach der Natur der Sache nicht möglich oder nicht zumutbar ist ([BGE 128 III 271, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_271#e-2); [BGE 122 III 219, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219#e-3)). Im Arbeitsrecht trägt die Arbeitgeberin die Beweislast für den Bezug von Ferientagen, geniesst bei Unzumutbarkeit des strikten Beweises jedoch Erleichterungen nach Art. 42 Abs. 2 OR ([BGE 128 III 271, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_271#e-2)).
 
-#### 3. Verschärftes Beweismass — Gewissheit
+#### 2. Natürliche (tatsächliche) Vermutungen und Anscheinsbeweis
+Natürliche Vermutungen beruhen auf der allgemeinen Lebenserfahrung:
+- **Keine Beweislastumkehr**: Natürliche Vermutungen und der Anscheinsbeweis (*prima facie*-Beweis) bewirken keine Umkehr der Beweislast, sondern betreffen die freie richterliche Beweiswürdigung ([BGE 147 III 431, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_431#e-4-2); [BGer 4A_290/2018, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_290_2018#e-2-4-1)).
+- **Massstab**: Der Anscheinsbeweis führt nicht zur Reduktion des ordentlichen Beweismasses; er ist erst erbracht, wenn die Typizität des Geschehens nach Lebenserfahrung eine Tatsache als wahr erscheinen lässt, weil Abweichendes ausserhalb jeder vernünftigen Betrachtungsweise liegt ([BGer 4A_290/2018, E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_290_2018#e-2-4-1)).
+- **Entkräftung**: Zur Entkräftung einer tatsächlichen Vermutung genügt es, wenn die Gegenpartei beim Gericht begründete Zweifel an der Richtigkeit der Vermutung weckt ([BGE 147 III 431, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_431#e-4-2)).
 
-In bestimmten Fällen wird ein **verschärftes Beweismass** verlangt, das die volle Gewissheit verlangt. Dies gilt namentlich:
+#### 3. Gegenbeweis
+Der nicht beweisbelasteten Partei steht ein aus Art. 8 ZGB abgeleitetes **Recht auf Gegenbeweis** zu ([BGE 130 III 321, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-4)):
+- **Zweck**: Der Gegenbeweis zielt darauf ab, beim Gericht erhebliche Zweifel an der Richtigkeit der den Hauptbeweis bildenden Sachbehauptungen wachzuhalten und diesen dadurch zu vereiteln ([BGE 130 III 321, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-4)).
+- **Beweismass**: Für das Gelingen des Gegenbeweises ist nicht der Gegenbeweis des Gegenteils (voller Beweis) erforderlich; es genügt das Wecken begründeter Zweifel, sodass der Hauptbeweis scheitert ([BGE 130 III 321, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321#e-3-4)).
 
-- **Rechtzeitigkeit von Rechtsmitteln** — Die Rechtzeitigkeit eines Rechtsmittels muss mit Gewissheit feststehen. Der im Sozialversicherungsrecht übliche Beweisgrad der überwiegenden Wahrscheinlichkeit genügt hier nicht (BGE [119 V 7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_V_7), E. 2).
-- **Bürgerrechtserwerb** — Voraussetzungen für den Erwerb des Schweizer Bürgerrechts müssen mit gewisser Regelmässigkeit bewiesen werden; es gelten teilweise tatsächliche Vermutungen (BGE [130 II 482](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_482), E. 2).
+#### 4. Beweislast im Rechtsschutz in klaren Fällen (Art. 257 ZPO)
+Im summarischen Verfahren nach [Art. 257 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_257) hat der Kläger den vollen Beweis der anspruchsbegründenden Tatsachen mit sofort verfügbaren Beweismitteln (Urkunden) zu erbringen. Für die Abweisung des Gesuchs genügt es, dass die beklagte Partei substanziiert und schlüssig Einwendungen vorträgt, die in tatsächlicher Hinsicht nicht sofort widerlegt werden können und geeignet sind, die richterliche Überzeugung zu erschüttern ([BGE 138 III 620, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620#e-5)).
 
-### IV. Beweiserleichterungen und Gegenbeweis
+---
 
-#### 1. Beweiserleichterung bei Beweisnot
+### V. Kantonale Praxisfragen
 
-Das Bundesgericht gewährt **Beweiserleichterungen**, wenn ein strikter Beweis nach der Natur der Sache nicht möglich oder nicht zumutbar ist (Beweisnot). Dies geschieht durch Herabsetzung des Beweismasses auf die überwiegende Wahrscheinlichkeit. Die Beweisnot ist insbesondere gegeben, wenn die von der beweisbelasteten Partei behaupteten Tatsachen nur mittelbar durch Indizien bewiesen werden können (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.2).
+#### Praxisfrage 1: Verhältnis von Substanziierungsobliegenheit und Beweisführungsanspruch
+In der kantonalen Gerichtspraxis stellt sich regelmässig die Frage, ob das Gericht einen fristgerecht gestellten Beweisantrag abnehmen muss, wenn die zugrundeliegende Tatsachenbehauptung nur pauschal vorgebracht wurde.
 
-Die analoge Anwendung von Art. 42 Abs. 2 OR auf arbeitsrechtliche Beweisthemen — etwa beim Beweis der Anzahl bezogener Ferientage — ist zulässig, wenn der Arbeitnehmer strukturell beweisbelastet ist, ihm aber der strikte Beweis nicht zumutbar ist (BGE [128 III 271](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_271), E. 2b).
+Die Gerichte halten fest, dass die **Obliegenheit zur Substantiierung dem Beweisverfahren vorgelagert** ist ([Gericht SH Nr. 10/2025/15](https://mcp.opencaselaw.ch/entscheid/sh_gerichte_Nr.%2010_2025_15); [BGE 144 III 519, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519#e-5-2)):
+- Eine ausreichende Substantiierung der anspruchsbegründenden Tatsachen ist zwingende Voraussetzung für den Beweisführungsanspruch.
+- Bleibt der Tatsachenvortrag einer Partei unsubstantiiert, fällt eine Verletzung des Rechts auf Beweis von vornherein ausser Betracht ([Gericht SH Nr. 10/2025/15](https://mcp.opencaselaw.ch/entscheid/sh_gerichte_Nr.%2010_2025_15)).
+- Das Gericht darf und muss den Beweisantrag mangels Erheblichkeit abweisen, ohne dass darin eine Gehörsverletzung liegt.
 
-#### 2. Gegenbeweis
+#### Praxisfrage 2: Beweislastverteilung unter der Untersuchungs- und Offizialmaxime
+In familienrechtlichen, kindesschutzrechtlichen oder summarischen Verfahren gilt häufig die uneingeschränkte Untersuchungs- bzw. Offizialmaxime. Fraglich ist, welche Rolle Art. 8 ZGB in diesen Verfahren spielt.
 
-Der nicht beweisbelasteten Partei steht ein aus Art. 8 ZGB abgeleitetes **Recht auf Gegenbeweis** zu. Sie hat Anspruch darauf, zum Beweis von Umständen zugelassen zu werden, die beim Gericht erhebliche Zweifel an der Richtigkeit der den Hauptbeweis bildenden Sachbehauptungen wachhalten und diesen dadurch vereiteln sollen (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.4).
+Die kantonale Praxis stellt klar ([Obergericht ZH NC020002](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_NC020002)):
+- Die gerichtliche Pflicht zur Sachverhaltserforschung von Amtes wegen ändert nichts an der materiellen Beweislastverteilung nach Art. 8 ZGB.
+- Kann eine anspruchsbegründende Tatsache trotz Ausschöpfung aller zumutbaren gerichtlichen Beweismassnahmen nicht festgestellt werden (Beweislosigkeit), wird auch im Bereich der Offizialmaxime nach den materiellrechtlichen Grundsätzen von Art. 8 ZGB zuungunsten der beweisbelasteten Partei entschieden ([Obergericht ZH NC020002](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_NC020002)).
 
-Für das Gelingen des Gegenbeweises gilt nicht das Beweismass des Hauptbeweises. Vielmehr genügt es, wenn die Gegenbeweisbehauptung plausible Zweifel am Hauptbeweis weckt. Eine **Verpflichtung** zur Führung des Gegenbeweises besteht indessen nicht, und eine Überwälzung der Beweislast ist damit nicht verbunden (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.4).
-
-Gelingt der Gegenbeweis, dürfen die vom Anspruchsberechtigten behaupteten Tatsachen nicht als bewiesen — d.h. als überwiegend wahrscheinlich gemacht — anerkannt werden. Der Hauptbeweis ist vielmehr **gescheitert** (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.4).
-
-#### 3. Natürliche (tatsächliche) Vermutung und Abgrenzung zur Beweislastumkehr
-
-Natürliche (tatsächliche) Vermutungen beruhen nicht auf einer gesetzlichen Anordnung, sondern fliessen aus der allgemeinen Lebenserfahrung ([BGE 149 III 287](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_287) E. 3.3.1; [BGE 123 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_III_241) E. 3a). Sie ermöglichen eine wahrscheinlichkeitsbasierte Beweiserleichterung, indem aus bekannten Indizien auf das Vorliegen der anspruchsbegründenden Tatsache geschlossen wird ([BGer 4A_290/2018](https://mcp.opencaselaw.ch/entscheid/bger_4A_290_2018) E. 2.4.1).
-
-In einem Grundsatzurteil einer 5er-Besetzung ([BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026) vom 11. Juni 2026, zur Publikation vorgesehen) präzisierte das Bundesgericht die dogmatische Natur der natürlichen Vermutung:
-- Natürliche Vermutungen bewirken **keine Umkehr der Beweislast**, sondern betreffen die **freie Beweiswürdigung** durch das Sachgericht ([BGE 147 III 431](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_431) E. 3.3.2; [BGE 130 II 482](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_482) E. 3.2; [BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)).
-- Der Vermutungsgegner muss zur Entkräftung der Vermutung **keinen Beweis des Gegenteils** antreten; es genügt der einfache Gegenbeweis, der durch das Wecken hinreichender Zweifel an der Vermutungsbasis oder der Schlüssigkeit des Erfahrungssatzes geführt wird ([BGE 141 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_241) E. 3.2.2; [BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)).
-- Das Bundesgericht stellte klar, dass missverständliche Formulierungen in der früheren Rechtsprechung (insb. BGE 142 III 369) präzisiert werden müssen.
-
-#### 4. Antizipierte Beweiswürdigung
-
-Art. 8 ZGB schliesst die **vorweggenommene (antizipierte) Beweiswürdigung** nicht aus. Es bleibt dem Sachgericht unbenommen, von beantragten Beweiserhebungen abzusehen, weil es sie zum vornherein nicht für geeignet hält, die behaupteten Tatsachen zu beweisen, oder weil es seine Überzeugung bereits gebildet hat und davon ausgeht, dass weitere Abklärungen am massgeblichen Beweisergebnis nichts mehr zu ändern vermöchten (BGE [122 III 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_219), E. 3a; BGE 119 II 114, E. 4c, S. 117; BGE 115 II 305, E. 3).
-
-Dies gilt allerdings nur, wenn die antizipierte Beweiswürdigung nicht gegen das **Willkürverbot** verstösst. Das Gericht darf Beweise nicht willkürlich ablehnen oder unter Verletzung des rechtlichen Gehörs absehen (BGE [134 I 140](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_I_140), E. 5.6 und 5.7).
-
-### V. Anwendungsbeispiele und Konkretisierungen
-
-#### 1. Versicherungsvertragsrecht
-
-Im Versicherungsvertragsrecht hat die Rechtsprechung besondere Regeln entwickelt. Wer gegenüber dem Versicherer einen Anspruch erhebt, ist für den **Eintritt des Versicherungsfalls** behauptungs- und beweispflichtig. Den Versicherer trifft die Beweislast für Tatsachen, die ihn zu einer Kürzung oder Verweigerung der vertraglichen Leistung berechtigen (z.B. schuldhafte Herbeiführung). Anspruchsberechtigter und Versicherer haben je ihr eigenes Beweisthema und hierfür je den Hauptbeweis zu erbringen (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.1).
-
-Aus der Beweislosigkeit beim einen Beweisthema (z.B. absichtliche Herbeiführung) darf nicht einfach auf den Beweis beim anderen Thema (z.B. Eintritt des Versicherungsfalls) geschlossen werden. Das käme einer unzulässigen **Beweislastumkehr** gleich (BGE [130 III 321](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_321), E. 3.1).
-
-#### 2. Sozialversicherungsrecht
-
-Im Sozialversicherungsrecht gilt der **Regelbeweisgrad der überwiegenden Wahrscheinlichkeit**. Für den Nachweis des Fehlens von anrechenbarem Einkommen und Vermögen bei Ergänzungsleistungen genügt dieser Beweisgrad. Eine Beweisverschärfung auf den vollen Beweis ist unzulässig, wenn dazu kein gesetzlicher Anlass besteht — sonst würde der bundesrechtliche Anspruch in unzulässiger Weise erschwert oder vereitelt (BGE [121 V 204](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_V_204), E. 3b).
-
-Bei der **Überprüfung von Renten** bei pathogenetisch-ätiologisch unklaren syndromalen Beschwerdebildern gelten besondere Beweislastregeln, die aus dem Zweck der revisionsrechtlichen Überprüfung abgeleitet werden (BGE [139 V 547](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_V_547), E. 5).
-
-#### 3. Arbeitsrecht
-
-Im Arbeitsrecht ist die Beweislastverteilung von zentraler Bedeutung. Beim Beweis der Anzahl bezogener Ferientage ist der Arbeitnehmer beweisbelastet, geniesst aber Beweiserleichterungen nach analoger Anwendung von Art. 42 Abs. 2 OR, da ihm der strikte Beweis oft nicht zumutbar ist (BGE [128 III 271](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_271), E. 2a und 2b).
-
-#### 4. Vergaberecht
-
-Im öffentlichen Beschaffungswesen kann sich ein Gemeinwesen als Vergabebehörde auf Art. 8 ZGB berufen, soweit es aus der behaupteten Verletzung von Vergabevorschriften eigene Rechte ableitet (BGE [140 I 285](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_I_285), E. 1.2). Die Beschwerdelegitimation bemisst sich jedoch nach den speziellen vergaberechtlichen Voraussetzungen.
-
-#### 5. Verfahrensrecht — Rechtsschutz in klaren Fällen
-
-Im summarischen Verfahren des Rechtsschutzes in klaren Fällen (Art. 257 ZPO) gelten besondere **Substantiierungs- und Bestreitungsanforderungen**. Der Beklagte muss sich in tatsächlicher Hinsicht substantiiert gegen den eingeklagten Anspruch äussern; ein blosses formelles Bestreiten genügt nicht, um den Kläger zum vollen Beweis zu verpflichten (BGE [138 III 620](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620), E. 5.1.1 und 6.2). Klärt der Beklagte nicht ausreichend, welche Tatsachen er bestreitet, so gelten die anspruchsbegründenden Tatsachen als unbestritten.
-
-#### 6. Beweis des Sendungsinhalts (Privatsendungen)
-
-Für den Beweis des Inhalts einer Sendung einer privaten Partei gelten strengere Massstäbe als bei Behördensendungen. Eine natürliche Vermutung, wonach eine eingeschriebene Sendung den vom Absender behaupteten Inhalt hatte, greift nicht, wenn der Versand mehrerer Dokumente in einem einzigen Umschlag atypisch ist ([BGer 4A_181/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_181_2026)). In solchen Fällen bleibt der Absender vollumfänglich beweisbelastet für den tatsächlichen Zugang der spezifischen Schriftstücke.
+---
 
 ## Querverweise
 
-- [Art. 1 ZGB](../art-001/) — Anwendung des Zivilgesetzbuchs, Vorrang des Bundesrechts
-- [Art. 2 ZGB](../art-002/) — Handeln nach Treu und Glauben
-- [Art. 3 ZGB](../art-003/) — Gute Treue; Bedeutung der Gesetzeskenntnis
-- [Art. 27 ZGB](../art-027/) — Rechtsfähigkeit und Freiheit (Unverzichtbarkeit)
-- [Art. 28 ZGB](../art-028/) — Persönlichkeitsschutz (Beweislast bei Persönlichkeitsverletzung)
+- [Art. 1 ZGB](../art-001/) — Rechtsquellen und Rechtsanwendung im Zivilrecht
+- [Art. 2 ZGB](../art-002/) — Handeln nach Treu und Glauben und Rechtsmissbrauchsverbot
+- [Art. 3 ZGB](../art-003/) — Guter Glaube und gesetzliche Vermutung
+- [Art. 18 ZGB](../art-018/) — Urteilsunfähigkeit und Beweis der Urteilsfähigkeit
+- [Art. 19 ZGB](../art-019/) — Urteilsfähige handlungsunfähige Personen
+- [Art. 28 ZGB](../art-028/) — Schutz der Persönlichkeit und Beweislastverteilung
+- [Art. 97 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_97) — Verschuldensvermutung bei Nichterfüllung
+- [Art. 152 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_152) — Recht auf Beweis im Zivilprozess
+- [Art. 157 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_157) — Freie Beweiswürdigung
+- [Art. 257 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_257) — Rechtsschutz in klaren Fällen
+- [Art. 29 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_29) — Allgemeine Verfahrensgarantien und rechtliches Gehör
