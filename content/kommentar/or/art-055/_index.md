@@ -95,3 +95,17 @@ Der Rückgriffsanspruch ist **beschränkt** auf den Betrag, für den die Hilfspe
 ## Verjährung
 
 Die **längere strafrechtliche Verjährungsfrist** nach Art. 60 Abs. 2 OR findet **keine Anwendung** auf den Ersatzanspruch gegen den Geschäftsherrn für Hilfspersonen. Die Verjährungsfrist richtet sich nach Art. 60 Abs. 1 OR (10 Jahre) ([BGE 122 III 225, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_225#e-5)).
+
+## Kantionale Rechtsprechung
+
+### Zürcher Obergericht
+
+**Mehrstufige Unterordnungsverhältnisse — Organ vs. Hilfsperson.** Bei mehrstufigen Über- bzw. Unterordnungsverhältnissen ist immer die **hierarchisch höchststehende Person Geschäftsherr** (BSK OR I-HEIERLI/SCHNYDER, 5. Aufl. 2011, Art. 55 N 10). Auch juristische Personen können bei gegebenen Voraussetzungen Subjekte der Geschäftsherrenhaftung sein. Zwischen der juristischen Person und ihren Organen besteht jedoch **kein Über- bzw. Unterordnungsverhältnis** im Sinne der Geschäftsherrenhaftung. Das Organ ist weder Hilfsperson der juristischen Person noch umgekehrt; die Organe geben dem Willen der juristischen Person Ausdruck ([ZH OGer PS120226, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PS120226#e-3-2-1)). Die Haftung zwischen juristischer Person und ihren Organen richtet sich nach Art. 55 Abs. 2 und 3 ZGB sowie dem jeweiligen Verantwortlichkeitsrecht (z.B. Art. 754 OR).
+
+**Organisationspflicht des Werkstattleiters.** Der Werkstattleiter muss als Geschäftsherr die Werkstatt **zweckmässig organisieren**, für ein **adäquates Sicherheitskonzept** sorgen und die ihm unterstellten Mitarbeiter **genügend auswählen, unterrichten und überwachen**. Diese Pflichten entsprechen der Trilogie *cura in eligendo, instruendo vel custodiendo* ([ZH OGer SU140008, E. 3.4](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SU140008#e-3-4)).
+
+**Alternativer Exkulpationsbeweis.** Der Geschäftsherr kann sich neben dem Beweis, alle nach den Umständen gebotene Sorgfalt aufgewendet zu haben, auch mit dem Nachweis von der Haftung befreien, dass der **Schaden selbst bei Anwendung der erforderlichen Sorgfalt eingetreten wäre**. Der Kausalzusammenhang zwischen der Sorgfaltspflichtverletzung und dem Schaden kann fehlen, wenn es zum Schaden kommt, obwohl sich die Hilfsperson trotz Sorgfaltspflichtverletzung des Geschäftsherrn richtig verhalten hat ([ZH OGer LB240046, E. 5.5](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_LB240046#e-5-5)).
+
+### St. Galler Kantonsgericht
+
+**Regress bei Hilfsperson.** Ein aus Vertrag Leistungspflichtiger, der für das Verschulden einer Hilfsperson einstehen muss, kann gegen einen anderen aus Vertrag Haftpflichtigen nur dann regressieren, wenn das **Verschulden der Hilfsperson schwer** ist ([SG Kantonsgericht BZ.2004.7, E. 3](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BZ.2004.7#e-3)). Diese Einschränkung des Regressrechts gilt jedoch nur im Vertragsverhältnis; bei deliktischer Haftung stehen dem Geschäftsherrn weitergehende Regressmöglichkeiten zu.

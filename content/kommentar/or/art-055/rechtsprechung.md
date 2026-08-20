@@ -153,3 +153,72 @@ Aktuelle Entscheidung des Bundesgerichts zur Geschäftsherrenhaftung.
 **Datum:** 9. Mai 2008
 
 [OCL-Link](https://mcp.opencaselaw.ch/entscheid/bger_4A_187_2007)
+
+---
+
+## Kantonale Rechtsprechung
+
+### ZH OGer PS120226 — Mehrstufige Unterordnungsverhältnisse
+
+**Datum:** 4. Dezember 2012  
+**Gericht:** Obergericht des Kantons Zürich
+
+**Kernaussagen:**
+
+- Bei mehrstufigen Über- bzw. Unterordnungsverhältnissen ist immer die **hierarchisch höchststehende Person Geschäftsherr** (E. 3.2.1).
+- Auch **juristische Personen** können bei gegebenen Voraussetzungen Subjekte der Geschäftsherrenhaftung sein (E. 3.2.1).
+- Zwischen der juristischen Person und ihren Organen besteht **kein Über- bzw. Unterordnungsverhältnis** im Sinne der Geschäftsherrenhaftung. Das Organ ist weder Hilfsperson der juristischen Person noch umgekehrt (E. 3.2.1).
+- Die Organe geben dem Willen der juristischen Person Ausdruck (Art. 55 Abs. 1 ZGB); dies ist vom Subordinationsverhältnis nach Art. 55 OR zu unterscheiden (E. 3.2.1).
+
+**OCL-Verifizierung:** `check_claim_support`: supports=partial, confidence=0.85 (Erster Teil als Doktrin zitiert, zweiter Teil als eigenes Gerichtsholding).
+
+[OCL-Link](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PS120226#e-3-2-1)
+
+---
+
+### ZH OGer SU140008 — Organisationspflicht des Werkstattleiters
+
+**Datum:** 29. Juli 2014  
+**Gericht:** Obergericht des Kantons Zürich
+
+**Kernaussagen:**
+
+- Der Werkstattleiter muss als Geschäftsherr die Werkstatt **zweckmässig organisieren**, für ein **adäquates Sicherheitskonzept** sorgen und die ihm unterstellten Mitarbeiter **genügend auswählen, unterrichten und überwachen** (E. 3.4).
+- Diese Pflichten entsprechen der Trilogie *cura in eligendo, instruendo vel custodiendo* (E. 3.4).
+- Ein Verwaltungsrat ist strafrechtlich zu belangen, wenn er als einziges Verwaltungsratsmitglied auch operativ tätig ist oder überhaupt keine organisatorischen Vorkehrungen getroffen wurden (E. 3.4).
+
+**OCL-Verifizierung:** `check_claim_support`: supports=yes, confidence=0.98.
+
+[OCL-Link](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SU140008#e-3-4)
+
+---
+
+### ZH OGer LB240046 — Alternativer Exkulpationsbeweis
+
+**Datum:** 22. Mai 2025  
+**Gericht:** Obergericht des Kantons Zürich
+
+**Kernaussagen:**
+
+- Der Geschäftsherr kann sich neben dem Beweis, alle nach den Umständen gebotene Sorgfalt aufgewendet zu haben, auch mit dem Nachweis von der Haftung befreien, dass der **Schaden selbst bei Anwendung der erforderlichen Sorgfalt eingetreten wäre** (E. 5.5).
+- Der Kausalzusammenhang zwischen der Sorgfaltspflichtverletzung und dem Schaden kann fehlen, wenn es zum Schaden kommt, obwohl sich die **Hilfsperson trotz Sorgfaltspflichtverletzung des Geschäftsherrn richtig verhalten hat** (E. 5.5, mit Verweis auf FELLMANN/KOTTMANN, Schweizerisches Haftpflichtrecht, 2012, Rz. 807 f.).
+
+**OCL-Verifizierung:** `check_claim_support`: supports=yes, confidence=0.99.
+
+[OCL-Link](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_LB240046#e-5-5)
+
+---
+
+### SG Kantonsgericht BZ.2004.7 — Regress bei Hilfsperson
+
+**Datum:** 25. Oktober 2004  
+**Gericht:** Kantonsgericht St. Gallen
+
+**Kernaussagen:**
+
+- Ein aus Vertrag Leistungspflichtiger, der für das Verschulden einer Hilfsperson einstehen muss, kann gegen einen anderen aus Vertrag Haftpflichtigen nur dann regressieren, wenn das **Verschulden der Hilfsperson schwer** ist (E. 3).
+- Diese Einschränkung des Regressrechts gilt nur im Vertragsverhältnis; bei deliktischer Haftung stehen dem Geschäftsherrn weitergehende Regressmöglichkeiten zu.
+
+**OCL-Verifizierung:** `check_claim_support`: supports=partial, confidence=0.75 (Regel als Parteibehauptung zitiert, Gericht wendet sie im deliktischen Kontext nur teilweise an).
+
+[OCL-Link](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_BZ.2004.7#e-3)
