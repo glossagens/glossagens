@@ -9,7 +9,7 @@
     git -C themes/hextra show HEAD:layouts/_partials/toc.html > layouts/_partials/toc.html
 
   und anschliessend die beiden ANPASSUNG-Blöcke wieder einsetzen. Zuletzt
-  gemacht für Hextra 38d18a5 (13.08.2026); die vorherige Fassung hing auf dem
+  gemacht für Hextra c9feec7 (20.08.2026); die vorherige Fassung hing auf dem
   Stand vor `--navbar-height` → `--hextra-navbar-height` fest, was die
   Sticky-Spalte nach dem Update stillschweigend gebrochen hätte.
 */}}
@@ -21,8 +21,7 @@
 {{- $backToTop := (T "backToTop") | default "Scroll to top" -}}
 {{- $tableOfContents := (T "tableOfContents") | default "Table of contents" -}}
 {{- $page := . -}}
-{{- $headingData := partial "utils/headings.html" $page -}}
-{{- $headings := index $headingData "headings" -}}
+{{- $headings := .Fragments.Headings -}}
 
 <nav class="hextra-toc hx:order-last hx:hidden hx:w-64 hx:shrink-0 hx:xl:block hx:print:hidden hx:px-4" aria-label="{{ $tableOfContents }}">
   {{- if $toc }}
@@ -87,7 +86,7 @@
           <span>
             {{- $backToTop -}}
           </span>
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" focusable="false" class="hx:inline hx:ltr:ml-1 hx:rtl:mr-1 hx:h-3.5 hx:w-3.5 hx:rounded-full hx:border hx:border-gray-500 hx:hover:border-gray-900 hx:dark:border-gray-400 hx:dark:hover:border-gray-100 hx:contrast-more:border-gray-800 hx:contrast-more:dark:border-gray-50">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" focusable="false" class="hx:inline hx:ltr:ml-1 hx:rtl:mr-1 hx:h-3.5 hx:w-3.5 hx:rounded-full hx:border hx:border-gray-500 hx:hover:border-gray-900 hx:dark:border-gray-400 hx:dark:hover:border-gray-100 hx:contrast-more:border-gray-800 hx:contrast-more:dark:text-gray-50">
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
           </svg>
         </button>
