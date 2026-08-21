@@ -1,17 +1,22 @@
 ---
-title: "Art. 89 — Allgemeine Bestimmungen"
+title: "Art. 89 StPO — Allgemeine Bestimmungen"
 weight: 89
 date: "2026-06-20"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 89 StPO – Allgemeine Bestimmungen: Unabänderlichkeit gesetzlicher Fristen und Verbot von Gerichtsferien im Strafverfahren"
-tags: ["StPO", "Fristen", "Gerichtsferien", "Allgemeine Bestimmungen", "Fristenrecht", "Wiederherstellung", "Beschleunigungsgebot"]
-agent_verified: false
+lastmod: 2026-08-21
+description: "Kommentar zu Art. 89 StPO: Unabänderlichkeit der gesetzlichen Fristen, Abgrenzung zu den behördlich angesetzten Fristen nach Art. 92 StPO und Verbot von Gerichtsferien im Strafverfahren."
+tags: ["StPO", "Fristen", "Gerichtsferien", "Fristerstreckung", "Rechtsmittelfrist", "Nachfrist", "Wiederherstellung"]
+agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 3 %). Zwei themenfremde BGE entfernt: BGE 141 IV 61 betrifft Mord und Konkurrenz (Art. 112/49 StGB), BGE 142 IV 105 die stationäre Massnahme (Art. 59 Abs. 4 StGB) — beide wurden für fristenrechtliche Aussagen zitiert. BGE 143 IV 5 richtig gefasst (Art. 91 Abs. 5 StPO, Nachweis der Kontobelastung). BGer 1B_232/2017 betrifft die Begründungsanforderungen, nicht die Gerichtsferien. Falsche Angabe zum Fristenstillstand im Zivilprozess korrigiert (Art. 145 ZPO, nicht Art. 41). Neu belegt mit 6B_319/2021, 6B_182/2020, 6B_8/2025, 6B_265/2014 und TPF 2008 167."
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
-    note: "Sofortmassnahme nach Audit (Belegquote 3 %): sechs nicht existierende BGE-Referenzen (138 IV 34, 139 IV 197, 140 IV 183, 144 IV 290, 145 IV 222, 146 IV 113), die nicht auffindbare Fundstelle 6B_438/2021 sowie die erfundene Literaturliste entfernt. agent_verified auf false zurückgestuft. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar; die verbleibenden Entscheidverweise sind noch nicht verifiziert."
+    note: "Sofortmassnahme: sechs nicht existierende BGE-Referenzen und die erfundene Literaturliste entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -27,58 +32,74 @@ revisions:
 >
 > 2 Im Strafverfahren gibt es keine Gerichtsferien.
 
-{{< callout type="warning" >}}
-**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass ein Grossteil der ursprünglich angeführten Belege die zugehörigen Aussagen nicht stützt. Sechs nicht existierende BGE-Referenzen wurden am 21.08.2026 entfernt. Die verbleibenden Verweise auf Bundesgerichtsentscheide sind noch nicht einzeln verifiziert und daher mit Vorbehalt zu lesen; der Gesetzeswortlaut ist geprüft.
-{{< /callout >}}
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+
+## Überblick und Bedeutung
+
+Art. 89 StPO eröffnet das 5. Kapitel über die Fristen und Termine (Art. 89–94 StPO) mit zwei knappen, aber folgenreichen Grundsätzen: Gesetzliche Fristen sind unabänderlich (Abs. 1), und im Strafverfahren steht der Fristenlauf nie still (Abs. 2). Beide Sätze wirken in dieselbe Richtung — sie nehmen den Verfahrensbeteiligten und den Strafbehörden jede Möglichkeit, den Ablauf einer gesetzlichen Frist hinauszuschieben.
+
+Die praktische Folge ist hart: Wer eine gesetzliche Frist verpasst, verliert das Recht endgültig. Der einzige Ausweg ist die Wiederherstellung nach Art. 94 StPO — und die setzt voraus, dass die säumige Partei **kein** Verschulden trifft (vgl. den [Kommentar zu Art. 94 StPO](../art-094/)).
 
 ## Kommentierung
 
-### I. Bedeutung und Systematik
+### A. Gesetzliche und behördlich angesetzte Fristen (Abs. 1)
 
-**1** Art. 89 StPO enthält **allgemeine Bestimmungen** über das Fristenrecht im Strafverfahren und statuiert zwei Grundregeln: die **Unabänderlichkeit gesetzlicher Fristen** (Abs. 1) und das **Verbot von Gerichtsferien** (Abs. 2). Die Norm gehört zum Ersten Teil der StPO (Allgemeine Bestimmungen), Kapitel 5 (Fristen), und bildet zusammen mit den Art. 90–94 das Fristenregime des Strafverfahrens.
+Die Norm unterscheidet nicht ausdrücklich, setzt die Unterscheidung aber voraus. **Gesetzliche** Fristen sind solche, deren Dauer das Gesetz selbst bestimmt — allen voran die Rechtsmittelfristen. **Behördlich angesetzte** Fristen werden von der Verfahrensleitung im Einzelfall festgelegt; für sie gilt Art. 92 StPO, der eine Erstreckung auf rechtzeitiges Gesuch hin erlaubt.
 
-**2** Die beiden Absätze stehen in einem **funktionellen Zusammenhang**: Abs. 1 verbietet die Erstreckung gesetzlicher Fristen, während Abs. 2 sicherstellt, dass Gerichtsferien als Hindernis für die Fristwahrung nicht gelten. Beide Regelungen dienen dem **Beschleunigungsgebot** (Art. 5 StPO, Art. 29 Abs. 1 BV, Art. 6 Abs. 1 EMRK) und der **Rechtssicherheit**.
+Das Bundesgericht zieht die Grenze deutlich:
 
-### II. Unabänderlichkeit gesetzlicher Fristen (Abs. 1)
+> «Die Vorinstanz weist im angefochtenen Entscheid zu Recht darauf hin, dass Art. 92 StPO nur auf behördliche Fristen, nicht jedoch auf gesetzliche Fristen wie die Beschwerdefrist gemäss Art. 396 Abs. 1 und Art. 322 Abs. 2 i.V.m. Art. 310 Abs. 2 StPO anwendbar ist, welche weder unterbrochen noch erstreckt werden können (Art. 89 Abs. 1 StPO).»
 
-**3** **Gesetzliche Fristen** sind solche, die direkt im Gesetz vorgesehen sind — etwa die Beschwerdefrist von zehn Tagen (Art. 398 Abs. 3 StPO), die Berufungsfrist von zehn Tagen (Art. 399 Abs. 3 StPO) oder die Frist für die Sicherheitsleistung (vgl. [BGE 143 IV 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_5)). Im Gegensatz zu **richterlich angesetzten Fristen** (Art. 92 StPO) können gesetzliche Fristen **nicht erstreckt** werden. Die Erstreckung ist weder durch die Strafbehörde noch durch das Gericht zulässig ([BGE 141 IV 61](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_61); 6B_798/2019).
+([BGer 6B_319/2021 vom 15. Juli 2021, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_319_2021#e-5)). Bemerkenswert ist die Verdoppelung: Gesetzliche Fristen können nicht nur nicht **erstreckt**, sondern auch nicht **unterbrochen** werden.
 
-**4** Wird eine gesetzliche Frist versäumt, kommt **allein die Wiederherstellung** (Art. 94 StPO) in Betracht — sofern die versäumte Partei kein Verschulden trifft. Das Verschulden eines Vertreters wird der vertretenen Partei zugerechnet (1B_610/2020). Leichte Fahrlässigkeit des Rechtsbeistands steht der Wiederherstellung nicht entgegen; massgebend ist, ob die säumige Partei selbst kein Verschulden trifft (1B_610/2020). Bei Verschulden des Vertreters ist die Wiederherstellung jedoch ausgeschlossen (1B_22/2022).
+Dass Rechtsmittelfristen zu den gesetzlichen Fristen zählen, wendet die Praxis routinemässig an — etwa auf die zehntägige Beschwerdefrist gegen eine Feststellungsverfügung der Staatsanwaltschaft ([BGer 6B_8/2025 vom 31. März 2025, E. 1.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_8_2025#e-1-2)).
 
-**5** Die **absolute Unabänderlichkeit** gesetzlicher Fristen ist Ausdruck des **Rechtsstaatsprinzips**: Die Fristdauer wird vom Gesetzgeber bestimmt und kann nicht der Disposition einzelner Verfahrensbeteiligter überlassen werden. Dies gewährleistet Gleichbehandlung und Rechtssicherheit (6B_1003/2020).
+Ein Erstreckungsgesuch ist bei einer gesetzlichen Frist von vornherein aussichtslos. Es hemmt den Fristenlauf nicht; wer am letzten Tag der Frist ein Fristerstreckungsgesuch statt der Rechtsmittelschrift einreicht, ist säumig (vgl. den Sachverhalt in [BGer 6B_319/2021 vom 15. Juli 2021, E. 4 f.](https://mcp.opencaselaw.ch/entscheid/bger_6B_319_2021#e-4)).
 
-**6** Der Säumnisgrund für die Wiederherstellung muss **glaubhaft gemacht** werden. Die 30-Tage-Frist für das Wiederherstellungsgesuch (Art. 94 Abs. 2 StPO) beginnt mit Wegfall des Säumnisgrundes und kann selbst nicht erstreckt werden — sie ist ihrerseits eine gesetzliche Frist im Sinne von Art. 89 Abs. 1 StPO (1B_296/2019). Die versäumte Verhandlungshandlung muss innert dieser Frist nachgeholt werden.
+### B. Keine Umgehung über die Nachfrist nach Art. 385 Abs. 2 StPO
 
-### III. Keine Gerichtsferien (Abs. 2)
+Praktisch bedeutsam ist die Frage, ob die Nachfrist zur Verbesserung einer mangelhaften Rechtsschrift (Art. 385 Abs. 2 StPO) die Strenge von Art. 89 Abs. 1 StPO aufweicht. Das Bundesgericht verneint dies und ordnet beide Bestimmungen einander zu: Art. 385 Abs. 2 StPO
 
-**8** Art. 89 Abs. 2 StPO bestimmt, dass es im Strafverfahren **keine Gerichtsferien** gibt. Alle Fristen laufen auch während der gerichtlichen Ferienperioden (Sommer- und Winterferien der Gerichte) **normal weiter**. Im Gegensatz zum Zivilprozessrecht, wo Gerichtsferien die Frist hemmen (Art. 41 Abs. 2 Ziff. 4 ZPO), gibt es im Strafverfahren keine solche Unterbrechung (1B_370/2021).
+> «konkretisiert das für staatliche Stellen geltende Verbot des überspitzten Formalismus, wonach sich die Behörde nicht auf das strikte Einhalten von Formvorschriften berufen darf, wenn dies durch keine schützenswerten Interessen gedeckt ist […]. Demgegenüber ist Art. 385 Abs. 2 StPO nicht anwendbar für Eingaben, die der Einreicher, dem die Anforderungen bekannt sind, bewusst mangelhaft abfasst. Ansonsten wäre es ihm möglich, die Bestimmung von Art. 89 Abs. 1 StPO zu umgehen»
 
-**9** Die Regelung steht im Einklang mit dem **Beschleunigungsgebot** (Art. 5 StPO, Art. 29 Abs. 1 BV, Art. 6 Abs. 1 EMRK). Strafverfahren sollen möglichst rasch durchgeführt werden; ein Fristenstillstand während der Gerichtsferien würde diesem Grundsatz widersprechen.
+([BGer 6B_182/2020 vom 6. Januar 2021, E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_182_2020#e-2-5)). Die Nachfrist dient also der Korrektur unbeholfener, nicht der Belohnung taktisch leerer Eingaben. Entsprechend darf eine nachträgliche Ergänzung der Beschwerde nur mit Zurückhaltung bewilligt werden; zumutbar ist es in der Regel, eine kurze Verfügung innert der gesetzlichen Frist rechtsgenüglich anzufechten ([BGer 6B_319/2021 vom 15. Juli 2021, E. 5](https://mcp.opencaselaw.ch/entscheid/bger_6B_319_2021#e-5)).
 
-**10** Praktisch bedeutet dies: Fristen, die in die Gerichtsferien fallen, müssen **fristgerecht** gewahrt werden. Die Parteien können sich nicht darauf berufen, dass das Gericht in den Ferien nicht erreichbar war (1B_414/2020). Eine Fristverlängerung ist bei gesetzlichen Fristen ausgeschlossen (Abs. 1); bei richterlich angesetzten Fristen allenfalls nach Art. 92 StPO.
+### C. Rechtsfolge der Säumnis
 
-### IV. Abgrenzung zu richterlich angesetzten Fristen (Art. 92 StPO)
+Wird eine gesetzliche Frist versäumt, tritt Säumnis nach Art. 93 StPO ein; das Rechtsmittel ist unzulässig. Weder die Strafbehörde noch das Gericht kann die Frist nachträglich verlängern. Offen bleibt allein die Wiederherstellung nach Art. 94 StPO, die einen strengen Verschuldensmassstab kennt — sie kommt nur in Fällen klarer Schuldlosigkeit in Betracht.
 
-**11** Im Unterschied zu den gesetzlichen Fristen können **richterlich angesetzte Fristen** erstreckt werden (Art. 92 StPO). Die Erstreckung setzt ein Gesuch voraus, das vor Fristablauf einzureichen ist. Massgebendes Kriterium für die Unterscheidung ist die **Rechtsquelle**: Fristen, die das Gesetz selbst bestimmt (z.B. Rechtsmittelfristen), sind gesetzlich; Fristen, die die Verfahrensbehörde im Einzelfall ansetzt (z.B. Frist für Stellungnahme zu Beweisanträgen), sind richterlich ([BGE 142 IV 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_105); 1B_558/2018).
+Davon zu unterscheiden ist die Frage, ob die Frist überhaupt zu laufen begonnen hat: Ohne rechtsgültige Zustellung wird kein Fristenlauf ausgelöst, und die Frage der Säumnis stellt sich gar nicht erst (vgl. [BGE 142 IV 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_201), E. 2).
 
-**12** Die Frist für die Einreichung einer **Strafbeschwerde** ist eine gesetzliche Frist (Art. 89 Abs. 1 StPO), nicht eine richterlich angesetzte Frist; Art. 92 StPO ist nicht anwendbar (6B_1225/2020). Dagegen kann eine von der Verfahrensleitung angesetzte Frist für eine Stellungnahme nach Art. 92 StPO erstreckt werden (1B_558/2018).
+Eine Sonderfrage betrifft **Zahlungsfristen** gegenüber Strafbehörden. Wird eine Sicherheitsleistung per Post- oder Banküberweisung angewiesen und der Strafbehörde nicht rechtzeitig gutgeschrieben, darf die Behörde daraus nicht ohne Weiteres auf Säumnis schliessen; sie muss die vorschusspflichtige Person auffordern, den Nachweis zu erbringen, dass der Betrag am letzten Tag der Frist ihrem Konto in der Schweiz belastet wurde ([BGE 143 IV 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_5), E. 2, zu Art. 9 BV sowie Art. 3 Abs. 2 und Art. 91 Abs. 5 StPO).
 
-### V. Fristberechnung (Art. 90–91 StPO)
+### D. Keine Gerichtsferien (Abs. 2)
 
-**13** Die Fristberechnung richtet sich nach den Art. 90 und 91 StPO. Fristen beginnen am Tag nach der Mitteilung zu laufen (Art. 90 Abs. 1 StPO). Fällt der letzte Tag auf einen Samstag, Sonntag oder anerkannten Feiertag, endet die Frist am nächstfolgenden Werktag (Art. 90 Abs. 2 StPO; 6B_1041/2021).
+Abs. 2 schliesst jeden Fristenstillstand aus. Fristen laufen auch über Ostern, im Sommer und zwischen den Jahren unverändert weiter.
 
-**14** Die Frist ist gewahrt, wenn die Eingabe spätestens am letzten Tag der Frist der Schweizerischen Post übergeben wird (Art. 91 Abs. 2 StPO); massgebend ist der Poststempel (6B_68/2020). Eingaben, die fristgerecht bei einer unzuständigen schweizerischen Behörde eingereicht werden, wahren die Frist nach Art. 91 Abs. 4 StPO; die Weiterleitungspflicht trifft die unzuständige Behörde.
+Die Verfassungs- und Konventionsmässigkeit dieser Strenge ist geklärt. Auf die Rüge, die Einschränkung stehe «in krassem Widerspruch zu den dem Beschuldigten zustehenden Rechten», antwortete das Bundesgericht:
 
-### VI. Konnex zum Beschleunigungsgebot und zur EMRK
+> «Diese Auffassung ist abwegig, denn die Rechte des Beschuldigten und insbesondere sein Recht, Berufung zu erheben, werden dadurch, dass in Strafsachen keine Gerichtsferien gelten, in keiner Weise beschnitten.»
 
-**15** Die Unabänderlichkeit gesetzlicher Fristen (Abs. 1) und das Verbot von Gerichtsferien (Abs. 2) dienen beide dem **Beschleunigungsgebot**. Dieses ist in Art. 5 StPO (Grundsatz der Beschleunigung), Art. 29 Abs. 1 BV (Anspruch auf rechtliches Gehör innerhalb angemessener Frist) und Art. 6 Abs. 1 EMRK (Recht auf Verfahren innerhalb angemessener Frist) verankert.
+([BGer 6B_265/2014 vom 14. April 2014, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_6B_265_2014#e-2); Abweisung im Verfahren nach Art. 109 BGG).
 
-**16** Bei Haftverfahren kommt **Art. 5 Abs. 3 EMRK** (Haftprüfung innerhalb angemessener Frist) verschärft zum Tragen. Die gesetzlichen Fristen für Haftbeschwerden sind unabänderlich und laufen auch während der Gerichtsferien weiter.
+**Reichweite über die StPO hinaus.** Abs. 2 gilt auch dort, wo andere Erlasse auf die StPO verweisen. Im Verwaltungsstrafverfahren richten sich die Fristen im gerichtlichen Verfahren nach Art. 31 Abs. 2 VStrR nach der StPO; folglich bestehen auch dort keine Gerichtsferien ([BStGer TPF 2008 167](https://mcp.opencaselaw.ch/entscheid/bstger_TPF_2008_167)).
 
-### VII. Abgrenzung zum Zivilprozessrecht
+**Kein Wiederherstellungsgrund bei Irrtum.** Wer irrtümlich von einem Fristenstillstand ausgeht, kann sich darauf nicht berufen: Ein solcher Irrtum begründet keine unverschuldete Säumnis im Sinne von Art. 94 StPO, wenn keine Behörde Anlass zu dieser Auffassung gegeben hat und ein Blick ins Gesetz genügt hätte (so für das Steuerstrafverfahren [Obergericht TG, TVR 2017 Nr. 13](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_TVR_2017_Nr._13); ebenso [Kantonsgericht GR, SK1 2014 14](https://mcp.opencaselaw.ch/entscheid/gr_gerichte_SK1%202014%2014)).
 
-**17** Im Zivilverfahren gelten Gerichtsferien als Frist hemmend (Art. 41 Ziff. 4 ZPO i.V.m. kantonalen Ferienordnungen). Art. 89 Abs. 2 StPO enthält demgegenüber eine **Sonderregel** für das Strafverfahren, die die Geltung von Gerichtsferien generell ausschliesst. Diese Differenzierung ist Ausdruck der unterschiedlichen Verfahrensphilosophie: Im Strafverfahren hat die Beschleunigung Vorrang vor prozessualer Erleichterung.
+### E. Abgrenzung zum Zivilprozess
+
+Der Kontrast zur ZPO ist deutlich. Art. 145 Abs. 1 ZPO lässt gesetzliche **und** gerichtliche Fristen stillstehen: vom siebten Tag vor bis und mit dem siebten Tag nach Ostern, vom 15. Juli bis und mit dem 15. August sowie vom 18. Dezember bis und mit dem 2. Januar; ausgenommen sind das Schlichtungs- und das summarische Verfahren (Art. 145 Abs. 2 ZPO). Art. 89 Abs. 2 StPO kennt keine solche Regelung und auch keine Ausnahme davon.
+
+Wer sowohl zivil- als auch strafprozessual tätig ist, muss die beiden Fristenregime deshalb strikt getrennt halten — die Zivilprozessferien schützen im Strafverfahren nicht, auch nicht beim Adhäsionsprozess.
+
+### F. Verhältnis zu Art. 90–94 StPO
+
+Art. 89 StPO regelt nur die Unabänderlichkeit und den ununterbrochenen Lauf. Beginn und Ende der Fristen richten sich nach Art. 90 StPO, die Fristwahrung nach Art. 91 StPO, die Erstreckung behördlicher Fristen und die Verschiebung von Terminen nach Art. 92 StPO, die Säumnis nach Art. 93 StPO und die Wiederherstellung nach Art. 94 StPO.
+
+## Rechtsprechung
+
+Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 89 StPO](rechtsprechung/)
 
 ## Literatur
 
-Die Literaturangaben wurden entfernt, weil die ursprünglich aufgeführten Titel nicht verifizierbar waren. Sie werden im Rahmen des ausstehenden Overhauls neu erhoben.
+Die früher an dieser Stelle aufgeführten Titel liessen sich nicht verifizieren und wurden entfernt. Die Literaturangaben werden neu erhoben.
