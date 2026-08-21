@@ -14,7 +14,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 8 | [ ] | [Art. 430](content/kommentar/stpo/art-430/_index.md) | 24 % | 21 | `korrekt` | 1 | 0 |
 | 9 | [ ] | [Art. 100](content/kommentar/stpo/art-100/_index.md) | 25 % | 12 | `korrekt` | 2 | 0 |
 | 10 | [ ] | [Art. 68](content/kommentar/stpo/art-068/_index.md) | 25 % | 10 | `korrekt` | 0 | 0 |
-| 11 | [~] Teilfix 2026-08-21 | [Art. 264](content/kommentar/stpo/art-264/_index.md) | 27 % | 39 | `korrekt` | 7 | 1 |
+| 11 | [x] 2026-08-21 | [Art. 264](content/kommentar/stpo/art-264/_index.md) | 27 % | 39 | `korrekt` | 7 | 1 |
 | 12 | [ ] | [Art. 126](content/kommentar/stpo/art-126/_index.md) | 27 % | 44 | `halluziniert_oder_veraltet` | 6 | 0 |
 | 13 | [ ] | [Art. 318](content/kommentar/stpo/art-318/_index.md) | 27 % | 22 | `kein_wortlaut_block` | 4 | 0 |
 | 14 | [ ] | [Art. 108](content/kommentar/stpo/art-108/_index.md) | 29 % | 12 | `korrekt` | 3 | 0 |

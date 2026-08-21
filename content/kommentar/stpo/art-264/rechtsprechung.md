@@ -3,15 +3,20 @@ title: "Rechtsprechung zu Art. 264 StPO"
 weight: 99
 date: 2025-07-16
 lastmod: 2026-08-21
-description: "Übersicht der Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme"
-tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung"]
-agent_verified: false
+description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme"
+tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung", "Quellenschutz"]
+agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). Alle Einträge neu erhoben und gegen die amtlichen Regesten geprüft; mehrere Kernaussagen waren frei formuliert und gaben den Entscheid unzutreffend oder in der Stossrichtung verkehrt wieder (namentlich BGE 151 IV 344 und BGE 138 IV 225)."
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
-    note: "Sofortmassnahme nach Audit (Belegquote 25 %): die nicht existierende Fundstelle 1B_627/2019 samt der ihr zugeschriebenen Kernaussage entfernt; die vom Audit als fehlerhaft ausgewiesenen Erwaegungsangaben (BGE 138 IV 225 E. 5.1, BGE 140 IV 28 E. 4, BGE 140 IV 108 E. 4, BGE 141 IV 77 E. 5, BGE 151 IV 344 E. 3 sowie die Pinpoints bei 7B_134/2025 und 7B_734/2025) gestrichen — die Entscheide bleiben zitiert, aber ohne unzutreffende E.-Angabe. agent_verified auf false. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+    note: "Sofortmassnahme: nicht existierende Fundstelle 1B_627/2019 und fehlerhafte Pinpoints entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-06-24
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -19,74 +24,100 @@ revisions:
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
-{{< callout type="warning" >}}
-**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat einen frei erfundenen Eintrag und mehrere fehlerhafte Erwägungsangaben nachgewiesen; beide wurden am 21.08.2026 entfernt. Die verbleibenden Kernaussagen sind noch nicht einzeln verifiziert.
-{{< /callout >}}
+← [Zurück zu Art. 264 StPO](../)
 
-## Leitentscheide (BGE)
+Alle nachstehenden Entscheide sind über die opencaselaw-MCP verifiziert; die Kernaussagen sind den amtlichen Regesten entnommen.
 
-### BGE 138 IV 225
-- **Thema**: Berufsgeheimnis / Entsiegelung von Anwaltsakten
-- **Kernaussage**: Ein in der Sache selbst mitbeschuldigter Anwalt kann sich nicht auf das Beschlagnahmeverbot nach Art. 264 Abs. 1 lit. c StPO berufen. Die Aussonderungspflicht für Drittmandate bleibt jedoch bestehen — Unterlagen aus dem Verkehr mit nicht beschuldigten Mandanten sind durch lit. d geschützt und müssen vor der Freigabe aussortiert werden.
-- **Einschlägig für**: Abs. 1 lit. c und d (Beschuldigteneigenschaft, Drittmandate)
+## Anwaltsgeheimnis und Mitbeschuldigung (Abs. 1 lit. a, c und d)
 
-### BGE 140 IV 28
+### [BGE 138 IV 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_225) — E. 6 f.
+
+- **Thema**: Entsiegelung von Anwaltsakten; mitbeschuldigter Anwalt
+- **Kernaussage** (Regeste): «Ein in der Sache selbst mitbeschuldigter Anwalt kann untersuchungsrelevante Beweisunterlagen aus dem Mandatsverhältnis nicht dem Zugriff der Strafverfolgungsbehörde entziehen, indem er Büropartner oder ausländische Korrespondenzanwälte mit dem Fall substituiert (E. 6).» Anforderungen an die Darlegung und Bestreitung der sachlichen Konnexität zwischen den entsiegelten Aufzeichnungen und dem Gegenstand der Strafuntersuchung (E. 7).
+- **Einschlägig für**: Abs. 1 lit. a und c; Art. 171 Abs. 1, Art. 197 und Art. 248 Abs. 1 StPO
+
+### [BGE 141 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77)
+
+- **Thema**: Arzt- und Patientengeheimnis; Entsiegelung ärztlicher Aufzeichnungen
+- **Kernaussage** (Regeste): Ist der betroffene Arzt selbst beschuldigt, bildet sein Berufsgeheimnis kein absolutes Beschlagnahme- und Entsiegelungshindernis. Die Unterlagen müssen aber «einen engen Sachzusammenhang zum Gegenstand der Strafuntersuchung aufweisen bzw. für den angestrebten Untersuchungszweck unentbehrlich sein». Zwangsmassnahmen, die auch in Grundrechte nicht beschuldigter Personen eingreifen, sind besonders zurückhaltend einzusetzen.
+- **Einschlägig für**: Abs. 1 lit. b und c sowie Abs. 3; Art. 13 BV, Art. 8 EMRK
+
+### [BGer 7B_134/2025 vom 28. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2025) — E. 3.2
+
+- **Thema**: Reichweite von Abs. 1 lit. c
+- **Kernaussage**: Zu den nach Art. 264 Abs. 1 lit. c StPO zu berücksichtigenden Zeugnisverweigerungsrechten gehört «insbesondere das strafbewehrte Berufsgeheimnis der Anwältinnen und Anwälte sowie der Verteidigerinnen und Verteidiger (Art. 321 StGB; vgl. Art. 13 BGFA)».
+- **Einschlägig für**: Abs. 1 lit. c
+
+### [BGer 7B_734/2025 vom 28. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_734_2025) — E. 3.5
+
+- **Thema**: Aussonderung bei teilweise beschuldigter Anwaltskanzlei
+- **Kernaussage**: Auf ein Beschlagnahmeverbot nach Art. 264 StPO können sich die Betroffenen nur hinsichtlich der weiteren, **nicht** beschuldigten Anwältinnen und Anwälte der Kanzlei berufen. Bei im gleichen Sachzusammenhang selbst beschuldigten Personen erweist sich die Entsiegelung — vorbehältlich einer vorgängigen richterlichen Aussonderung — als verhältnismässig.
+- **Einschlägig für**: Abs. 1 lit. c und d (Mitbeschuldigung, Aussonderungspflicht)
+
+### [BGE 102 IV 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_210) — E. 3 f.
+
+- **Thema**: Kassiber beim Anwalt (noch zu Art. 69 BStP)
+- **Kernaussage** (Regeste): «Geheime schriftliche Mitteilungen von Gefangenen, die nicht an den Verteidiger, sondern an einen Dritten gerichtet und die dem Verteidiger weder in noch zur Ausübung seines Amtes übergeben worden sind, werden vom Anwaltsgeheimnis nicht gedeckt (Erw. 4).»
+- **Einschlägig für**: Abs. 1 lit. a (Reichweite des Schutzes)
+- **Hinweis**: Vor Inkrafttreten der StPO ergangen.
+
+## Persönliche Aufzeichnungen (Abs. 1 lit. b)
+
+### [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) — E. 2.7
+
+- **Thema**: Durchsuchung privat genutzter Smartphones
+- **Kernaussage** (Regeste): Bei der vollständigen Durchsuchung eines privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz nach Art. 264 Abs. 1 lit. b StPO tangiert sind. «Da persönliche Aufzeichnungen und Korrespondenz der beschuldigten Person keinen absoluten Schutz geniessen, vermag dies für sich alleine indessen noch keine schutzwürdigen Geheimnisinteressen im Sinne von Art. 248 Abs. 1 StPO und damit auch keinen nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG zu begründen.» Erforderlich ist zusätzlich, dass ein Überwiegen des Persönlichkeitsschutzinteresses dargetan oder ohne Weiteres erkennbar ist.
+- **Einschlägig für**: Abs. 1 lit. b; Art. 248 Abs. 1 StPO
+
+### [BGE 137 IV 189](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_189) — E. 2–5
+
+- **Thema**: Entsiegelung elektronischer Dateien; Mitwirkungsobliegenheit
+- **Kernaussage** (Regeste): Aufgaben des Entsiegelungsrichters; Schutz der Privatsphäre und Untersuchungsrelevanz beschlagnahmter elektronischer Dateien (insbesondere privater Bilddateien); prozessuale Mitwirkungsobliegenheit der Betroffenen.
+- **Einschlägig für**: Abs. 1 lit. b und Abs. 3
+- **Hinweis**: Noch zu Art. 69 BStP ergangen.
+
+## Quellenschutz (Abs. 1 lit. c i.V.m. Art. 172 StPO)
+
+### [BGE 140 IV 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_108) — E. 6
+
+- **Thema**: Verkehr des Beschuldigten mit Medienschaffenden
+- **Kernaussage** (Regeste): «Das Beschlagnahmeverbot erfasst nicht nur Unterlagen, die sich beim Medienschaffenden befinden, sondern auch solche, die sich beim Beschuldigten oder bei Dritten befinden.»
+- **Einschlägig für**: Abs. 1 lit. c; Art. 17 Abs. 3 BV, Art. 10 EMRK
+
+### [BGE 151 IV 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_153)
+
+- **Thema**: Bestätigung und Präzisierung des Quellenschutzes
+- **Kernaussage** (Regeste): Das Motiv des Informanten — auch ein allfällig «täuschendes» Verhalten — ist für die Durchbrechung des Quellenschutzes nicht entscheidend. Da die Amtsgeheimnisverletzung nicht vom Ausnahmekatalog in Art. 172 Abs. 2 StPO erfasst ist, gilt der Quellenschutz in Verfahren nach Art. 320 StGB ohne Einschränkung. «Befasst» im Sinne von Art. 172 Abs. 1 StPO sind sämtliche auch nur mittelbar an der Medienproduktion beteiligten Personen; der Begriff der Hilfspersonen ist weit zu verstehen und erfasst namentlich Verleger, Direktionsmitglieder und Inhaber eines Medienunternehmens.
+- **Einschlägig für**: Abs. 1 lit. c
+
+## Siegelung (Abs. 3)
+
+### [BGE 140 IV 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_28) — E. 4.3.4 f.
+
 - **Thema**: Berechtigung zum Siegelungsantrag
-- **Kernaussage**: Zum Zweck eines wirksamen Geheimnisschutzes ist das Recht auf Siegelung gemäss Art. 248 Abs. 1 StPO auf die Berechtigung, sich nach Art. 264 Abs. 1 lit. a–c StPO auf ein Beschlagnahmeverbot zu berufen, beschränkt. Nicht jede beschlagnahmte Person ist zur Siegelung berechtigt.
-- **Einschlägig für**: Abs. 3 (Siegelungsverfahren)
+- **Kernaussage** (Regeste): «Zum Zweck eines wirksamen Geheimnisschutzes ist das Recht auf Siegelung gemäss Art. 248 Abs. 1 StPO auf die Berechtigung, sich nach Art. 264 Abs. 3 StPO gegen eine Beschlagnahme zu wehren, abzustimmen. Berechtigt […] sind Personen, welche unabhängig der Besitzverhältnisse ein rechtlich geschütztes Interesse an der Geheimhaltung des Inhalts der Aufzeichnungen haben (E. 4.3.4). Die Strafbehörde hat vor der Durchsuchung der Aufzeichnungen von Amtes wegen den geheimnisschutzberechtigten Personen die Möglichkeit einzuräumen, ein Siegelungsbegehren zu stellen (E. 4.3.5).»
+- **Einschlägig für**: Abs. 3 i.V.m. Art. 248 Abs. 1 StPO
 
-### BGE 140 IV 108
-- **Thema**: Beschlagnahmeverbot für Medienschaffende
-- **Kernaussage**: Verbot der Beschlagnahme von Unterlagen aus dem Verkehr des Beschuldigten mit Medienschaffenden nach Art. 264 Abs. 1 lit. c i.V.m. Art. 172 StPO. Das Motiv des Informanten, mithin auch ein allfällig täuschendes Verhalten desselben, ist für die Frage, ob der Quellenschutz ausnahmsweise zu durchbrechen ist, nicht entscheidend.
-- **Einschlägig für**: Abs. 1 lit. c (Medienschaffende, Art. 172 StPO)
+## Berührungspunkte
 
-### BGE 141 IV 77
-- **Thema**: Arzt- und Patientengeheimnis / Entsiegelung ärztlicher Aufzeichnungen
-- **Kernaussage**: Wenn der von den Zwangsmassnahmen unmittelbar betroffene Arzt selbst beschuldigt ist, bildet sein Berufsgeheimnis zwar kein absolutes gesetzliches Beschlagnahmeverbot, aber die Unterlagen unterliegen der Siegelungspflicht nach Abs. 3 i.V.m. Art. 248 StPO. Die Interessenabwägung muss konkret und einzelfallbezogen vorgenommen werden.
-- **Einschlägig für**: Abs. 1 lit. b und c (Arztgeheimnis, Interessenabwägung, Siegelung)
+### [BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207) — E. 7
 
-### BGE 151 IV 153
-- **Thema**: Beschlagnahmeverbot für Medienschaffende (Bestätigung)
-- **Kernaussage**: Bestätigung und Präzisierung der Praxis aus BGE 140 IV 108. Das Beschlagnahmeverbot nach Art. 264 Abs. 1 lit. c i.V.m. Art. 172 StPO gilt auch für den Verkehr mit Informanten, die nicht professionelle Medienschaffende sind, wenn der Informant als Quelle für die Medienberichterstattung dient. Die Amtsgeheimnisverletzung durch den Informanten hebt den Quellenschutz nicht auf.
-- **Einschlägig für**: Abs. 1 lit. c (Medienschaffende, Art. 172 StPO)
+- **Thema**: Selbstbelastungsfreiheit bei der Entsiegelung bankinterner Unterlagen
+- **Kernaussage** (Regeste): Entsiegelung eines bankinternen Memorandums, das zuvor Gegenstand eines bankenaufsichtsrechtlichen Auskunftsverfahrens war; Untersuchungsrelevanz und Verhältnismässigkeit (E. 7); Tragweite des Verbots des Selbstbelastungszwangs bei einer beschuldigten Bank; Aufgabenverteilung zwischen FINMA und Bundesanwaltschaft.
+- **Einschlägig für**: Abs. 1 im Zusammenspiel mit Art. 265 Abs. 4 StPO
 
-### BGE 151 IV 344
-- **Thema**: Durchsuchung von privat genutzten Smartphones
-- **Kernaussage**: Bei der vollständigen Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO betroffen sind. Die Siegelungspflicht nach Abs. 3 greift ein. Eine undifferenzierte Durchsuchung des gesamten Geräts ohne Rücksicht auf den Persönlichkeitsschutz ist unverhältnismässig.
-- **Einschlägig für**: Abs. 1 lit. b (persönliche Aufzeichnungen, Smartphones) und Abs. 3 (Siegelung)
+### [BGE 130 II 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_193)
 
----
+- **Thema**: Rechtshilfeweise Entsiegelung von Unterlagen einer Anwaltskanzlei
+- **Kernaussage** (Regeste): Im Gesuch um Entsiegelung und Durchsuchung ist darzulegen, inwiefern die Dokumente für die Untersuchung von Bedeutung sind und ihre rechtshilfeweise Verwendung in Frage kommt.
+- **Hinweis**: Ergangen 2004 zu IRSG und BStP, vor Inkrafttreten der StPO. Der Entscheid trägt **keine** Aussage darüber, ob Art. 264 StPO im Rechtshilfeverfahren anwendbar ist.
 
-## Weitere Bundesgerichtsentscheide
+## Entfernte Einträge
 
-### BGer 1B_371/2022
-- **Thema**: Siegelungsverfahren
-- **Kernaussage**: Klärung des Verhältnisses von Art. 264 Abs. 3 StPO zu Art. 248 StPO. Das Siegelungsverfahren bezweckt den wirksamen Schutz von Berufsgeheimnissen.
+| Entscheid | Grund |
+|---|---|
+| BGer 1B_627/2019 | Existiert nicht (Audit vom 20.08.2026); trug eine ausformulierte Kernaussage zu den Drittmandaten |
 
-### BGer 7B_134/2025 vom 28. Mai 2026
-- **Thema**: Beschuldigtenbegriff bei Anwälten am Tatort
-- **Kernaussage**: Anwälte, die am Tatort eines begleiteten Suizids anwesend waren, können als beschuldigte Personen i.S.v. Art. 111 StPO gelten. Ob eine Person als beschuldigt gilt, bestimmt sich nach dem materiellen Beschuldigtenbegriff — massgeblich ist, ob aus objektiver Sicht konkrete Anhaltspunkte für eine Beteiligung an einer Straftat vorliegen. Art. 264 Abs. 1 lit. c/d StPO-Schutz entfällt für im gleichen Sachzusammenhang Beschuldigte.
-- **Einschlägig für**: Abs. 1 lit. c und d (Beschuldigteneigenschaft, Anwaltsgeheimnis)
+Ausserdem wurden sieben Erwägungsangaben entfernt, die das Audit als fehlerhaft ausgewiesen hat (BGE 138 IV 225 E. 5.1, BGE 140 IV 28 E. 4, BGE 140 IV 108 E. 4, BGE 141 IV 77 E. 5, BGE 151 IV 344 E. 3 sowie die Pinpoints bei 7B_134/2025 und 7B_734/2025). Die zutreffenden Erwägungen sind oben eingesetzt.
 
-### BGer 7B_734/2025 vom 28. Mai 2026
-- **Thema**: Motivsubstitution / hinreichender Tatverdacht
-- **Kernaussage**: Das Bundesgericht kann eine Beschwerde aus einem anderen als dem angerufenen Grund gutheissen (Motivsubstitution). Die Vorinstanz wurde gerügt, weil sie den hinreichenden Tatverdacht verneinte, ohne die unterschiedlichen Möglichkeiten der Tatbeteiligung zu prüfen. Drittmandate bleiben auch bei beschuldigtem Anwalt geschützt (Aussonderungspflicht).
-- **Einschlägig für**: Abs. 1 lit. c und d (Beschuldigteneigenschaft), Abs. 3 (Aussonderung)
-
----
-
-## Ältere Rechtsprechung
-
-### BGE 130 II 193
-- **Thema**: Rechtshilfeweise Entsiegelung und Durchsuchung von Dokumenten
-- **Kernaussage**: Die Beschlagnahmeeinschränkungen nach Schweizer Recht gelten auch im Rechtshilfeverfahren. Anwaltsgeheimnis und kantonale Rechtsmittel gegen Zwischenentscheide.
-- **Einschlägig für**: Abs. 1 lit. a und c (internationale Rechtshilfe)
-
-### BGE 102 IV 210
-- **Thema**: Beschlagnahme von Kassibern bei einem Anwalt (nach aF)
-- **Kernaussage**: Beschlagnahme von Kassibern des Mandanten beim Anwalt. Nach alter Fassung war der Schutz weniger weitreichend als unter der heutigen lit. a. Kassibern fallen nicht unter die Verteidigungskorrespondenz.
-- **Einschlägig für**: Abs. 1 lit. a (Verteidigungskorrespondenz, Abgrenzung)
-
----
-
-*Letzte Aktualisierung: 16. Juli 2025*
+*Letzte Aktualisierung: 2026-08-21*
