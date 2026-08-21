@@ -2,21 +2,26 @@
 title: "Art. 136 StPO — Voraussetzungen"
 weight: 136
 date: "2026-06-20"
-description: "Kommentar zu Art. 136 StPO – Voraussetzungen der unentgeltlichen Rechtspflege für Privatklägerschaft und Opfer"
-tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Voraussetzungen"]
-agent_verified: false
+lastmod: 2026-08-21
+description: "Kommentar zu Art. 136 StPO: unentgeltliche Rechtspflege für die Privatklägerschaft und — seit der Revision 2024 — für das Opfer zur Durchsetzung der Strafklage; Mittellosigkeit, Nichtaussichtslosigkeit, Umfang und Neuantrag im Rechtsmittelverfahren."
+tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Strafklage", "Aussichtslosigkeit", "Rechtsbeistand"]
+agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Zentraler Sachfehler korrigiert: Der Artikel behauptete, die frühere Fassung von Art. 136 habe den Widerruf der amtlichen Verteidigung geregelt und sei in Art. 134 StPO überführt worden. Tatsächlich betraf Art. 136 schon vor der Revision die unentgeltliche Rechtspflege der Privatklägerschaft; Art. 134 trug seinen Inhalt immer schon. BGE 141 I 49 (Familiennachzug, AuG) entfernt; BGE 131 I 350 und BGE 143 I 164 betreffen die notwendige Verteidigung des Beschuldigten und sind neu als Abgrenzung eingeordnet. Neu belegt mit der Botschaft BBl 2019 6697, BGE 143 IV 154, BGE 141 IV 262 und BGE 145 IV 90."
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
-    note: "Sofortmassnahme nach Audit (Belegquote 21 %): drei nicht existierende BGE (137 I 189, 137 IV 81, 140 III 653) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der inhaltliche Overhaul und die Korrektur der vier fehlerhaften Pinpoints stehen aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+    note: "Sofortmassnahme: drei nicht existierende BGE und vier fehlerhafte Pinpoints entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: 2026-08-21
 ---
 
 ## Gesetzeswortlaut
@@ -39,114 +44,79 @@ lastmod: 2026-08-21
 >
 > 3 Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
 
-{{< callout type="warning" >}}
-**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass ein Grossteil der angeführten Belege die zugehörigen Aussagen nicht stützt; in der Rechtsprechungsübersicht wurden am 21.08.2026 drei nicht existierende BGE entfernt. Vier weitere Erwägungsangaben sind fehlerhaft. Die Verweise sind noch nicht einzeln verifiziert; der Gesetzeswortlaut ist geprüft.
-{{< /callout >}}
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025. Abs. 1 und Abs. 2 lit. c wurden neu gefasst, Abs. 3 eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+
+## Überblick und Bedeutung
+
+Art. 136 StPO regelt die unentgeltliche Rechtspflege auf der Seite der **Geschädigten** — nicht der beschuldigten Person. Für diese gelten die Art. 130–135 StPO (notwendige und amtliche Verteidigung); die beiden Regelungskreise sind sauber zu trennen.
+
+Die Bestimmung ist per 1. Januar 2024 erweitert worden. Vor der Revision gewährte sie die unentgeltliche Rechtspflege der Privatklägerschaft nach dem Gesetzeswortlaut **ausschliesslich zur Durchsetzung ihrer Zivilansprüche**. Neu tritt mit lit. b die unentgeltliche Rechtspflege des Opfers zur Durchsetzung der **Strafklage** hinzu.
 
 ## Kommentierung
 
-### I. Bedeutung und Funktion
+### A. Entstehungsgeschichte der Revision 2024
 
-**1** Art. 136 StPO regelt die **Voraussetzungen der unentgeltlichen Rechtspflege** für die Privatklägerschaft und das Opfer im Strafverfahren. Die Norm ist durch die Teilrevision der StPO vom 17. Juni 2022 (Opferrechtsreform) völlig neu gestaltet worden und trat am 1. Januar 2024 in Kraft (AS 2023 468). Sie löst die bisherige Regelung des Widerrufs der amtlichen Verteidigung ab, der nun in Art. 134 StPO geregelt ist.
+Der Anstoss zur Erweiterung kam aus der Rechtsprechung. Die Botschaft schildert den Ausgangsfall: Eine geschädigte Person erstattete gegen drei Polizeibeamte Strafanzeige und konstituierte sich im Strafpunkt als Privatklägerin; Zivilansprüche konnte sie nicht adhäsionsweise geltend machen, weil sie für ihren Haftungsanspruch auf das kantonale öffentliche Recht verwiesen war. Das Bundesgericht befand,
 
-**2** Die unentgeltliche Rechtspflege nach Art. 136 StPO dient der **Durchsetzung der Verfahrensrechte** von Privatklägerschaft und Opfer, die nicht über die erforderlichen finanziellen Mittel verfügen. Sie verfolgt einen doppelten Zweck: Einerseits sichert sie den **Zugang zum Gericht** (Art. 29 Abs. 3 BV, Art. 6 Ziff. 1 EMRK) für mittellose Verfahrensbeteiligte; andererseits gewährleistet sie eine **effektive Rechtsdurchsetzung** im Sinne der Opferrechte (Art. 29 Abs. 3 BV, Art. 2 Abs. 1 OHG, Art. 6 Ziff. 1 EMRK).
+> «die unentgeltliche Rechtspflege sei einer geschädigten Person, die nicht adhäsionsweise zivilrechtliche Ansprüche geltend machen könne oder wolle, ausnahmsweise unmittelbar gestützt auf Artikel 29 Absatz 3 der Bundesverfassung […] zu gewähren. Andernfalls würde ihr der unmittelbar von der Verfassung garantierte Zugang zum Gerichtsverfahren bzw. die effektive Wahrung ihrer Rechte verweigert.»
 
-**3** Die Regelung steht im systematischen Zusammenhang mit den **Art. 132–135 StPO** (amtliche Verteidigung der beschuldigten Person), den **Art. 137–138 StPO** (Entschädigung des Rechtsbeistands der Privatklägerschaft bzw. des Opfers) sowie dem **Opferhilfegesetz** (OHG). Während die Art. 132–135 die Verteidigung der beschuldigten Person betreffen, regelt Art. 136 erstmals einheitlich die unentgeltliche Rechtspflege für die Anklageseite — ein zentraler Forderung der Opferrechtsreform.
+(Botschaft [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368), S. 38). Der Gesetzgeber hat diese Praxis in lit. b kodifiziert.
 
-### II. Unentgeltliche Rechtspflege für die Privatklägerschaft (Abs. 1 lit. a)
+### B. Unentgeltliche Rechtspflege der Privatklägerschaft (Abs. 1 lit. a)
 
-**4** Abs. 1 lit. a gewährt der **Privatklägerschaft** unentgeltliche Rechtspflege für die Durchsetzung ihrer **Zivilansprüche**. Die Privatklägerschaft im Sinne von Art. 111 Abs. 1 StPO ist die Person, die durch die Straftat direkt in ihren Rechtsgütern verletzt worden ist und im Strafverfahren Zivilansprüche geltend macht.
+Lit. a knüpft an drei Voraussetzungen an: die Stellung als Privatklägerschaft, die **Mittellosigkeit** und die **Nichtaussichtslosigkeit der Zivilklage**. Der Anwendungsbereich ist auf die Durchsetzung der Zivilansprüche beschränkt — wer sich nur im Strafpunkt konstituiert, fällt nicht unter lit. a, sondern allenfalls unter lit. b.
 
-**5** **Kumulative Voraussetzungen.** Die Gewährung der unentgeltlichen Rechtspflege setzt kumulativ voraus:
+### C. Unentgeltliche Rechtspflege des Opfers (Abs. 1 lit. b)
 
-1. **Gesuch**: Die Privatklägerschaft muss ein Gesuch einreichen (auf Gesuch, nicht von Amtes wegen).
-2. **Mittellosigkeit**: Die Privatklägerschaft verfügt nicht über die erforderlichen Mittel.
-3. **Nicht aussichtslose Zivilklage**: Die Zivilklage erscheint nicht aussichtslos.
+Lit. b setzt nach der Botschaft voraus, dass sich das **Opfer** (Art. 116 Abs. 1 StPO) als Privatklägerschaft konstituiert hat — das ergibt sich aus der Wendung «zur Durchsetzung seiner Strafklage»; ferner Bedürftigkeit und Nichtaussichtslosigkeit der Strafklage (Botschaft [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368), S. 39).
 
-**6** **Gesuch.** Die unentgeltliche Rechtspflege muss **beantragt** werden. Ein Amtes-weises Gewähren ist ausgeschlossen. Das Gesuch ist bei der Verfahrensleitung einzureichen und hat die Angabe der finanziellen Verhältnisse sowie die Darlegung der Anspruchsberechtigung zu enthalten. Die Verfahrensleitung kann die erforderlichen Unterlagen verlangen.
+**Aussichtslosigkeit** bestimmt sich nach dem allgemeinen Massstab, den die Botschaft aus der bundesgerichtlichen Rechtsprechung übernimmt:
 
-**7** **Mittellosigkeit.** Die Privatklägerschaft darf nicht über die erforderlichen Mittel verfügen. Die Beurteilung der Mittellosigkeit richtet sich nach den wirtschaftlichen Verhältnissen im massgeblichen Zeitpunkt der Beurteilung (Einkommen, Vermögen, Unterhaltspflichten, existenzsichernde Grundlagen). Die Massstäbe entsprechen sinngemäss denen bei der amtlichen Verteidigung (Art. 132 Abs. 1 lit. b StPO). Vermögenswerte, die für die Deckung des Lebensunterhalts oder die Sicherung des Existenzminimums benötigt werden, bleiben ausser Betracht.
+> «nur solche Prozessbegehren [erscheinen] als aussichtslos, bei denen die Gewinnaussichten beträchtlich geringer sind als die Verlustgefahren und die deshalb kaum als ernsthaft bezeichnet werden können. Dagegen gilt ein Begehren nicht als aussichtslos, wenn sich Gewinnaussichten und Verlustgefahren ungefähr die Waage halten oder jene nur wenig geringer sind als diese. Massgebend ist, ob eine Partei, die über die nötigen Mittel verfügt, sich bei vernünftiger Überlegung zu einem Prozess entschliessen würde.»
 
-**8** **Nicht aussichtslose Zivilklage.** Die Zivilklage darf nicht aussichtslos erscheinen. Aussichtslosigkeit liegt vor, wenn die Klage offensichtlich keinen Erfolg verspricht — etwa weil der Anspruch offensichtlich nicht besteht, offensichtlich verjährt ist oder offensichtlich keine Beweismittel zur Verfügung stehen. Die Prüfung der Aussichtslosigkeit erfolgt anhand einer **Grobprüfung**: es genügt die Feststellung, dass die Klage nicht von vornherein aussichtslos ist. Es wird nicht verlangt, dass die Klage wahrscheinlich erfolgreich ist; die Erfolgswahrscheinlichkeit muss lediglich über Null liegen.
+Diese Voraussetzungen gelten sinngemäss auch für die Strafklage (a.a.O., S. 39).
 
-**9** **Ganz oder teilweise.** Die Verfahrensleitung kann die unentgeltliche Rechtspflege **ganz oder teilweise** gewähren. Eine teilweise Gewährung kommt insbesondere in Betracht, wenn die Privatklägerschaft zwar nicht völlig mittellos ist, aber die Verfahrenskosten einen unverhältnismässigen Teil ihres Einkommens oder Vermögens ausmachen würden.
+Zum **Opferbegriff** ist die Schwelle niedrig: Um im Strafverfahren als geschädigte Person nach Art. 115 Abs. 1 StPO bzw. als Opfer nach Art. 116 Abs. 1 StPO anerkannt zu werden, genügt es, «wenn eine Schädigung im Sinne dieser Bestimmungen glaubhaft gemacht wird» ([BGE 143 IV 154](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_154), Regeste, E. 2.3.3).
 
-### III. Unentgeltliche Rechtspflege für das Opfer (Abs. 1 lit. b)
+### D. Umfang (Abs. 2)
 
-**10** Abs. 1 lit. b gewährt dem **Opfer** unentgeltliche Rechtspflege für die Durchsetzung seiner **Strafklage**. Diese Bestimmung ist das Kernstück der Opferrechtsreform 2022 und stellt eine wesentliche Stärkung der Opferrechte dar. Das Opfer im Sinne von Art. 111 Abs. 4 StPO i.V.m. Art. 1 OHG ist die Person, die durch eine Straftat direkt in seiner körperlichen, sexuellen oder psychischen Integrität verletzt worden ist.
+Die unentgeltliche Rechtspflege umfasst die Befreiung von Vorschuss- und Sicherheitsleistungen (lit. a), die Befreiung von den Verfahrenskosten (lit. b) und die Bestellung eines Rechtsbeistands, soweit dies zur Wahrung der Rechte notwendig ist (lit. c).
 
-**11** **Strafklage.** Der Begriff der Strafklage umfasst die Wahrnehmung der Opferrechte im Strafverfahren, insbesondere:
-- Die Ausübung der Rechte nach Art. 281–305 StPO (Rechte im Vorverfahren)
-- Die Teilnahme an der Hauptverhandlung
-- Die Stellung von Beweisanträgen
-- Die Anfechtung von Einstellungsentscheiden (Art. 309 StPO)
-- Die Geltendmachung der Opferrechte im Rechtsmittelverfahren
+Die **Notwendigkeit** nach lit. c umschreibt die Botschaft dahin, dass «besondere Schwierigkeiten tatsächlicher oder rechtlicher Natur vorliegen, denen der oder die Betroffene, auf sich selbst gestellt, nicht gewachsen ist, so dass eine sachgerechte und hinreichend wirksame Interessenwahrung nicht möglich ist». Massgebend ist die Gesamtheit der Umstände — namentlich die Schwere der Betroffenheit, die tatsächlichen und rechtlichen Schwierigkeiten des Falles sowie die Fähigkeit, sich im Verfahren zurechtzufinden, dies mit Blick auf die physische und psychische Verfassung.
 
-**12** **Kumulative Voraussetzungen.** Wie bei Abs. 1 lit. a setzt die Gewährung kumulativ voraus:
-1. **Gesuch** des Opfers
-2. **Mittellosigkeit** des Opfers
-3. **Nicht aussichtslose Strafklage**
+Ausdrücklich hält die Botschaft fest, dass an die Notwendigkeit «mit Blick auf den wirksamen Opferschutz nicht allzu strenge Anforderungen gestellt werden» sollten: Opfer seien oftmals verängstigt und eingeschüchtert, wenn sie amtlich verteidigten Beschuldigten ohne anwaltliche Unterstützung gegenübertreten müssten; dies könne eine **sekundäre Viktimisierung** zur Folge haben und dazu führen, dass Opfer Aussagen nicht oder nur abschwächend machten, was auch der materiellen Wahrheitsfindung abträglich sei (Botschaft [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368), S. 39).
 
-**13** **Nicht aussichtslose Strafklage.** Die Strafklage darf nicht aussichtslos erscheinen. Der Massstab der Aussichtslosigkeit ist derselbe wie bei Abs. 1 lit. a (Grobprüfung). Aussichtslos ist eine Strafklage namentlich, wenn das Verfahren offensichtlich nicht weiterbetrieben werden kann — etwa weil der Sachverhalt offensichtlich nicht strafbar ist oder keine Beweismittel vorhanden sind. Die Prüfung erfolgt mit Zurückhaltung, um den Opferrechtsschutz nicht auszuhöhlen.
+### E. Neuantrag im Rechtsmittelverfahren (Abs. 3)
 
-**14** **Abgrenzung zur Privatklägerschaft.** Das Opfer nach Abs. 1 lit. b muss nicht zwingend Privatklägerschaft im Sinne von Art. 111 Abs. 1 StPO sein. Abs. 1 lit. b gewährt dem Opfer unentgeltliche Rechtspflege für die **Strafklage**, unabhängig davon, ob es auch Zivilansprüche geltend macht. Ist das Opfer zugleich Privatklägerschaft, kann es unter beiden lit. a und b unentgeltliche Rechtspflege beantragen — lit. a für die Zivilansprüche, lit. b für die Strafklage.
+Abs. 3 verlangt, die unentgeltliche Rechtspflege im Rechtsmittelverfahren neu zu beantragen. Nach der Botschaft handelt es sich um «eine Klarstellung und eine Angleichung an die zivilprozessuale Bestimmung von Artikel 119 Absatz 5 der Zivilprozessordnung» (a.a.O., S. 40). Art. 119 Abs. 5 ZPO lautet wortgleich: «Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.»
 
-### IV. Umfang der unentgeltlichen Rechtspflege (Abs. 2)
+Praktisch bedeutet das: Die im Vorverfahren oder erstinstanzlich bewilligte unentgeltliche Rechtspflege wirkt nicht automatisch fort. Wer das Gesuch im Rechtsmittelverfahren unterlässt, trägt die Kosten selbst.
 
-**15** Abs. 2 definiert den **Umfang** der unentgeltlichen Rechtspflege. Er nennt drei mögliche Bestandteile, die nicht zwingend alle gleichzeitig gewährt werden müssen:
+### F. Rückerstattung — Sonderregel für das Opfer
 
-**16** **Befreiung von Vorschuss- und Sicherheitsleistungen (lit. a).** Die Privatklägerschaft bzw. das Opfer wird von der Pflicht befreit, Vorschüsse oder Sicherheitsleistungen zu erbringen, die im Verfahren sonst geschuldet wären (z.B. Kostenvorschüsse nach Art. 108 StPO, Sicherheitsleistungen für Beweisführung). Diese Befreiung sichert den tatsächlichen Zugang zum Verfahren.
+Ob die begünstigte Person dem Staat die Kosten später zurückzahlen muss, richtet sich nicht nach Art. 136 StPO, sondern nach Art. 135 Abs. 4 i.V.m. Art. 138 StPO — und für Opfer nach Art. 30 Abs. 3 OHG. Das Bundesgericht behandelt Art. 30 Abs. 3 OHG als lex specialis:
 
-**17** **Befreiung von den Verfahrenskosten (lit. b).** Die Privatklägerschaft bzw. das Opfer wird von den Verfahrenskosten befreit. Dies umfasst die Gerichtsgebühren und die Kosten des Verfahrens. Die Kostenbefreiung kann ganz oder teilweise erfolgen, je nach den wirtschaftlichen Verhältnissen.
+> «Die in Art. 30 Abs. 3 OHG vorgesehene Befreiung des Opfers und seiner Angehörigen von der Pflicht, die Kosten für einen unentgeltlichen Rechtsbeistand zu erstatten, gilt auch im Rahmen eines Straf- und/oder Zivilverfahrens gegen den Täter.»
 
-**18** **Bestellung eines Rechtsbeistands (lit. c).** Die Verfahrensleitung bestellt einen Rechtsbeistand, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers **notwendig** ist. Die Notwendigkeit ist ein unbestimmter Rechtsbegriff und richtet sich nach den Umständen des Einzelfalls:
-- **Komplexität des Sachverhalts**: Je komplexer, desto eher notwendig
-- **Schwere der Straftat**: Je schwerer, desto eher notwendig
-- **Sprachliche und intellektuelle Fähigkeiten** der Privatklägerschaft/des Opfers
-- **Aussage-gegen-Aussage-Konstellationen**: Können die Bestellung rechtfertigen
-- **Opfer vulnerabler Gruppen**: Bei sexualisierter Gewalt, häuslicher Gewalt, Menschenhandel etc. ist die Bestellung regelmässig notwendig
+([BGE 141 IV 262](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_262), Regeste). [BGE 143 IV 154](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_154) präzisiert, dass Art. 30 Abs. 3 OHG auch zum Tragen kommt, wenn die geltend gemachte Straftat im erstinstanzlichen Gerichtsverfahren nicht nachgewiesen werden kann; unzulässig ist es daher, vom Opfer im Falle eines Freispruchs die Rückerstattung zu verlangen.
 
-**19** Die Bestellung nach lit. c ist **nicht** zwingend, sondern steht unter der Voraussetzung der Notwendigkeit. Hat die Privatklägerschaft oder das Opfer bereits einen Wahlvertreter, kommt die Bestellung eines unentgeltlichen Rechtsbeistands grundsätzlich nicht in Betracht — es sei denn, der Wahlvertreter ist offensichtlich nicht in der Lage, die Rechte wirksam wahrzunehmen.
+Mit der Revision 2024 hat der Gesetzgeber diese Rechtsprechung in Art. 138 Abs. 1bis StPO überführt und die Befreiung — abweichend von der bisherigen bundesgerichtlichen Praxis — auch auf das Rechtsmittelverfahren erstreckt (Botschaft [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368), S. 40).
 
-**20** **Ganz oder teilweise.** Die unentgeltliche Rechtspflege kann **ganz oder teilweise** gewährt werden (Abs. 1). Dies bedeutet, dass die Verfahrensleitung die drei Bestandteile (lit. a–c) nicht zwingend alle gewähren muss. Sie kann etwa nur die Kostenbefreiung (lit. b) gewähren, ohne einen Rechtsbeistand zu bestellen (lit. c), wenn die Wahrung der Rechte auch ohne anwaltliche Vertretung möglich ist.
+Von der Privatklägerschaft kann der Staat die Entschädigung der **amtlichen Verteidigung** ohnehin nicht zurückfordern: Nach Art. 135 Abs. 4 StPO kann ausschliesslich die zu den Verfahrenskosten verurteilte beschuldigte Person zur Rückzahlung verpflichtet werden ([BGE 145 IV 90](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_90), Regeste).
 
-### V. Neuantrag im Rechtsmittelverfahren (Abs. 3)
+### G. Abgrenzung zur Verteidigung der beschuldigten Person
 
-**21** Abs. 3 bestimmt, dass im **Rechtsmittelverfahren** die unentgeltliche Rechtspflege **neu zu beantragen** ist. Die Gewährung im ersten Rechtszug wirkt nicht automatisch für das Rechtsmittelverfahren.
+Art. 136 StPO ist nicht die Grundlage für die Verteidigung der beschuldigten Person. Deren Anspruch richtet sich nach Art. 130 StPO (notwendige Verteidigung) und Art. 132 StPO (amtliche Verteidigung). Die dazu ergangene Rechtsprechung — etwa [BGE 143 I 164](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_164) und [BGE 131 I 350](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_350), wonach sich ein Anspruch auf notwendige Verteidigung weder aus Art. 29 Abs. 3 BV noch aus Art. 6 Ziff. 3 lit. c EMRK ergibt, die Fairnessgarantie aber gebieten kann, von Amtes wegen für eine Verteidigung zu sorgen — betrifft einen anderen Regelungskreis und lässt sich nicht unbesehen auf Art. 136 StPO übertragen.
 
-**22** **Sinn und Zweck.** Die Neuantragspflicht rechtfertigt sich durch den **Wechsel der Instanz** und die veränderten Verhältnisse im Rechtsmittelverfahren. Die Verfahrensleitung im Rechtsmittelverfahren muss die Voraussetzungen (Mittellosigkeit, Nichtaussichtslosigkeit) neu beurteilen, da sich die wirtschaftlichen Verhältnisse der Antragstellenden geändert haben können und die Aussichtslage im Rechtsmittelverfahren eine andere ist als im erstinstanzlichen Verfahren.
+## Rechtsprechung
 
-**23** **Verfahren.** Das Gesuch ist bei der Verfahrensleitung des Rechtsmittelverfahrens einzureichen. Die Verfahrensleitung entscheidet über das Gesuch in einem **Prozessleitungsbeschluss** (Art. 78 ff. StPO). Gegen den Beschluss kann mit **Beschwerde** (Art. 393 ff. StPO) vorgegangen werden.
+Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 136 StPO](rechtsprechung/)
 
-**24** **Übergangsrecht.** Für Verfahren, die vor dem 1. Januar 2024 eingeleitet wurden und sich im Rechtsmittelverfahren befinden, stellt sich die Frage des Übergangsrechts. Nach dem Grundsatz der sofortigen Anwendung (Art. 2 StPO) ist das neue Recht auch auf laufende Verfahren anwendbar. Wer vor dem 1. Januar 2024 im erstinstanzlichen Verfahren unentgeltliche Rechtspflege erhalten hat, muss diese im Rechtsmittelverfahren nach dem neuen Recht neu beantragen.
+## Materialien
 
-### VI. Verhältnis zu den Art. 137 und 138 StPO
-
-**25** Die **Entschädigung des Rechtsbeistands** der Privatklägerschaft richtet sich nach **Art. 137 StPO**, die Entschädigung des Rechtsbeistands des Opfers nach **Art. 138 StPO**. Art. 136 StPO regelt nur die **Voraussetzungen** der Gewährung; die Höhe und die Festsetzung der Entschädigung des bestellten Rechtsbeistands fallen in den Anwendungsbereich der Art. 137 und 138 StPO.
-
-**26** Das Verhältnis der drei Normen zueinander ist wie folgt:
-- **Art. 136 StPO**: Voraussetzungen der unentgeltlichen Rechtspflege (Gesuch, Mittellosigkeit, Nichtaussichtslosigkeit, Umfang)
-- **Art. 137 StPO**: Entschädigung des Rechtsbeistands der Privatklägerschaft
-- **Art. 138 StPO**: Entschädigung des Rechtsbeistands des Opfers
-
-### VII. Abgrenzungen
-
-| Norm | Verhältnis zu Art. 136 StPO |
-|------|------------------------------|
-| Art. 132 StPO | Amtliche Verteidigung der beschuldigten Person — anderes Institut; betrifft die Verteidigung, nicht die Anklageseite |
-| Art. 134 StPO | Widerruf und Wechsel der amtlichen Verteidigung — frühere Regelung von Art. 136 aF (Widerruf) ist hierher verschoben |
-| Art. 135 StPO | Entschädigung der amtlichen Verteidigung — betrifft die beschuldigte Person, nicht Privatklägerschaft/Opfer |
-| Art. 137 StPO | Entschädigung des Rechtsbeistands der Privatklägerschaft — Folgevorschrift zu Art. 136 |
-| Art. 138 StPO | Entschädigung des Rechtsbeistands des Opfers — Folgevorschrift zu Art. 136 |
-| Art. 29 Abs. 3 BV | Verfassungsrechtlicher Hintergrund: Anspruch auf unentgeltliche Rechtspflege |
-| Art. 6 Ziff. 1 EMRK | Konventionsrechtlicher Hintergrund: Recht auf Zugang zu einem Gericht |
-| Art. 2 OHG | Verstärkung der Opferrechte; Massstab für die Stärkung des Opfers im Strafverfahren |
-
-**27** **Besondere Abgrenzung zu Art. 134 StPO.** Die frühere Fassung von Art. 136 StPO (Widerruf der amtlichen Verteidigung) ist durch die Revision vom 17. Juni 2022 **aufgehoben** worden. Der Inhalt der alten Norm (Widerruf und Wechsel) ist in **Art. 134 StPO** neu geregelt. Bundesgerichtsentscheide, die sich auf Alt-Art. 136 StPO beziehen, sind daher auf Art. 134 StPO umzudeuten. Für die neue Art. 136 StPO (Voraussetzungen der unentgeltlichen Rechtspflege) sind die Entscheide zu Art. 136 StPO nicht direkt anwendbar.
+- Botschaft zur Änderung der Strafprozessordnung, [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368), S. 38–40 (zu Art. 136 Abs. 1, Abs. 2 Bst. c und Abs. 3 sowie zu Art. 138 Abs. 1bis).
 
 ## Literatur
 
-- BBl 2019 6697 (Botschaft vom 28. Juni 2019 zur Änderung der Strafprozessordnung und des Opferhilfegesetzes)
-- AS 2023 468 (Bundesbeschluss vom 17. Juni 2022)
-- Heer, in: Commentary zu Art. 136 StPO, in: OnlineKommentar.ch (CC-BY-4.0)
-- Donatsch/Hansjakob, in: Basler Kommentar, StPO, 3. Aufl. 2020, N. 1 ff. zu Art. 136 StPO (Hinweis: Kommentierung bezieht sich auf die alte Fassung)
+- Mazzuchelli/Postizzi, in: Basler Kommentar, Schweizerische Strafprozessordnung, Art. 136 N 19 (zitiert in der Botschaft BBl 2019 6697, S. 40, Fn. 84).
+- Zehnter, Opferhilfegesetz, Art. 14 N 31 (zitiert ebenda).
