@@ -2,11 +2,26 @@
 title: "Rechtsprechung zu Art. 89 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: "2026-06-26"
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 89 StPO – Allgemeine Bestimmungen (gesetzliche Fristen, Gerichtsferien)"
 tags: ["Rechtsprechung", "StPO", "Fristen", "Gerichtsferien", "Allgemeine Bestimmungen", "Wiederherstellung", "Beschleunigungsgebot"]
 agent_verified: false
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 3 %): Einträge zu den sechs nicht existierenden BGE (138 IV 34, 139 IV 197, 140 IV 183, 144 IV 290, 145 IV 222, 146 IV 113) und zur nicht auffindbaren Fundstelle 6B_438/2021 samt ihren frei erfundenen Kernaussagen gelöscht; fehlender revisions-Block ergänzt. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+  - date: 2026-06-26
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
+
+{{< callout type="warning" >}}
+**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat sechs frei erfundene BGE-Einträge nachgewiesen; sie wurden am 21.08.2026 entfernt. Die verbleibenden Entscheide existieren, ihre hier wiedergegebenen Kernaussagen und Erwägungsangaben sind aber noch nicht einzeln verifiziert.
+{{< /callout >}}
 
 ## Leitentscheide (BGE)
 
@@ -20,40 +35,10 @@ agent_verified: false
 - **Kernaussage**: Bestätigung des Grundsatzes, dass gesetzliche Fristen (Art. 89 Abs. 1 StPO) nicht erstreckt werden können; klare Abgrenzung zu richterlich angesetzten Fristen (Art. 92 StPO), welche erstreckbar sind.
 - **Einschlägig für**: Abs. 1, Abgrenzung zu Art. 92 StPO
 
-### BGE 144 IV 290
-- **Thema**: Wiederherstellung — Voraussetzungen
-- **Kernaussage**: Wiederherstellung nach Art. 94 StPO setzt voraus: (1) Fristversäumnis, (2) erheblicher und unersetzlicher Rechtsverlust, (3) kein Verschulden an der Säumnis. Die 30-Tage-Frist für das Wiederherstellungsgesuch ist ihrerseits eine gesetzliche Frist (Art. 89 Abs. 1 StPO).
-- **Einschlägig für**: Abs. 1 i.V.m. Art. 94 StPO
-
-### BGE 138 IV 34
-- **Thema**: Gerichtsferien im Strafverfahren
-- **Kernaussage**: Im Strafverfahren gibt es keine Gerichtsferien (Art. 89 Abs. 2 StPO); Fristen laufen auch während der ordentlichen Gerichtsferien der Zivilgerichte ungehindert weiter.
-- **Einschlägig für**: Abs. 2 (Keine Gerichtsferien)
-
-### BGE 139 IV 197
-- **Thema**: Fristwahrung bei unzuständiger Behörde
-- **Kernaussage**: Eingaben, die fristgerecht bei einer unzuständigen schweizerischen Behörde eingereicht werden, wahren die Frist nach Art. 91 Abs. 4 StPO. Die Weiterleitungspflicht trifft die unzuständige Behörde.
-- **Einschlägig für**: Fristberechnung (Art. 91 StPO)
-
-### BGE 140 IV 183
-- **Thema**: Beschleunigungsgebot, Art. 6 EMRK
-- **Kernaussage**: Das Beschleunigungsgebot (Art. 6 Abs. 1 EMRK, Art. 5 Abs. 3 EMRK bei Haft) gebietet, dass das Strafverfahren ohne unnötige Verzögerung durchgeführt wird; die gesetzlichen Fristen (Art. 89 StPO) dienen der Verfahrensbeschleunigung.
-- **Einschlägig für**: Abs. 1, Abs. 2 i.V.m. Beschleunigungsgebot
-
 ### BGE 142 IV 105
 - **Thema**: Abgrenzung Art. 89/92 StPO
 - **Kernaussage**: Nur richterlich oder behördlich angesetzte Fristen können nach Art. 92 StPO erstreckt werden; gesetzliche Fristen (z.B. Rechtsmittelfristen) fallen zwingend unter Art. 89 Abs. 1 StPO und sind unabänderlich.
 - **Einschlägig für**: Abgrenzung Abs. 1 vs. Art. 92 StPO
-
-### BGE 145 IV 222
-- **Thema**: Sicherheitsleistung, Fristencharakter
-- **Kernaussage**: Die Frist für die Sicherheitsleistung im Beschwerdeverfahren hat fristenrechtlichen Charakter; bei Nichtwahrung kommt es zum Verlust des Rechtsmittels, Wiederherstellung nach Art. 94 StPO ist möglich.
-- **Einschlägig für**: Abs. 1 (Fristencharakter der Sicherheitsleistung)
-
-### BGE 146 IV 113
-- **Thema**: Beschleunigungsgebot, Haftfristen
-- **Kernaussage**: Übermässige Verfahrensdauer verletzt das Beschleunigungsgebot; die Unabänderlichkeit gesetzlicher Fristen (Art. 89 Abs. 1 StPO) steht dem Beschleunigungsgebot nicht entgegen, sondern dient diesem.
-- **Einschlägig für**: Abs. 1, Abs. 2 i.V.m. Beschleunigungsgebot
 
 ---
 
@@ -114,11 +99,6 @@ agent_verified: false
 - **Kernaussage**: Der Säumnisgrund muss glaubhaft gemacht werden; die 30-Tage-Frist für das Gesuch (Art. 94 Abs. 2 StPO) beginnt mit Wegfall des Säumnisgrundes und kann nicht erstreckt werden.
 - **Einschlägig für**: Abs. 1 i.V.m. Art. 94 StPO
 
-### 6B_438/2021
-- **Thema**: Wiederherstellung, Nachholung
-- **Kernaussage**: Die versäumte Verhandlungshandlung muss innert der 30-Tage-Frist nach Art. 94 Abs. 2 StPO nachgeholt werden; fehlt die Nachholung, ist das Wiederherstellungsgesuch mangels Erfüllung der doppelten Frist unzulässig.
-- **Einschlägig für**: Abs. 1 i.V.m. Art. 94 StPO
-
 ### 6B_68/2020
 - **Thema**: Fristwahrung durch Postaufgabe
 - **Kernaussage**: Die Frist ist gewahrt, wenn die Eingabe spätestens am letzten Tag der Frist der Schweizerischen Post übergeben wird (Art. 91 Abs. 2 StPO); massgebend ist der Poststempel.
@@ -131,4 +111,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 2026-07-26*
+*Letzte Aktualisierung: 2026-08-21*
