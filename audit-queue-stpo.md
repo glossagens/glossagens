@@ -18,7 +18,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 12 | [x] 2026-08-21 | [Art. 126](content/kommentar/stpo/art-126/_index.md) | 27 % | 44 | `korrekt` ² | 6 | 0 |
 | 13 | [x] 2026-08-21 | [Art. 318](content/kommentar/stpo/art-318/_index.md) | 27 % | 22 | `kein_wortlaut_block` | 4 | 0 |
 | 14 | [x] 2026-08-21 | [Art. 108](content/kommentar/stpo/art-108/_index.md) | 29 % | 12 | `korrekt` | 3 | 0 |
-| 15 | [ ] | [Art. 426](content/kommentar/stpo/art-426/_index.md) | 29 % | 26 | `korrekt` | 3 | 0 |
+| 15 | [x] 2026-08-21 | [Art. 426](content/kommentar/stpo/art-426/_index.md) | 29 % | 26 | `korrekt` | 3 | 0 |
 | 16 | [ ] | [Art. 358](content/kommentar/stpo/art-358/_index.md) | 29 % | 7 | `korrekt` | 0 | 0 |
 | 17 | [ ] | [Art. 417](content/kommentar/stpo/art-417/_index.md) | 30 % | 35 | `kein_wortlaut_block` | 6 | 0 |
 | 18 | [x] 2026-08-21 | [Art. 394](content/kommentar/stpo/art-394/_index.md) | 31 % | 13 | `korrekt` | 1 | 3 |
