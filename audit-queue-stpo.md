@@ -8,7 +8,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 2 | [~] Teilfix 2026-08-21 | [Art. 89](content/kommentar/stpo/art-089/_index.md) | 3 % | 34 | `korrekt` | 3 | 6 |
 | 3 | [ ] | [Art. 94](content/kommentar/stpo/art-094/_index.md) | 10 % | 15 | `korrekt` | 3 | 0 |
 | 4 | [~] Teilfix 2026-08-21 | [Art. 232](content/kommentar/stpo/art-232/_index.md) | 13 % | 23 | `halluziniert_oder_veraltet` | 0 | 5 |
-| 5 | [ ] | [Art. 136](content/kommentar/stpo/art-136/_index.md) | 21 % | 17 | `korrekt` | 0 | 3 |
+| 5 | [~] Teilfix 2026-08-21 | [Art. 136](content/kommentar/stpo/art-136/_index.md) | 21 % | 17 | `korrekt` | 0 | 3 |
 | 6 | [ ] | [Art. 109](content/kommentar/stpo/art-109/_index.md) | 21 % | 7 | `korrekt` | 1 | 0 |
 | 7 | [ ] | [Art. 13](content/kommentar/stpo/art-013/_index.md) | 24 % | 41 | `korrekt` | 8 | 0 |
 | 8 | [ ] | [Art. 430](content/kommentar/stpo/art-430/_index.md) | 24 % | 21 | `korrekt` | 1 | 0 |

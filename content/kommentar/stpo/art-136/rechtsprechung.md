@@ -2,11 +2,26 @@
 title: "Rechtsprechung zu Art. 136 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: "2026-06-19"
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 136 StPO – Voraussetzungen der unentgeltliche Rechtspflege"
 tags: ["Rechtsprechung", "StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer"]
 agent_verified: false
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 21 %): drei nicht existierende BGE (137 I 189, 137 IV 81, 140 III 653) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der inhaltliche Overhaul und die Korrektur der vier fehlerhaften Pinpoints stehen aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+  - date: 2026-06-20
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
+
+{{< callout type="warning" >}}
+**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat drei frei erfundene BGE-Einträge nachgewiesen; sie wurden am 21.08.2026 entfernt. Bei vier weiteren Entscheiden ist die Erwägungsangabe fehlerhaft. Die verbleibenden Kernaussagen sind noch nicht einzeln verifiziert.
+{{< /callout >}}
 
 ## Wichtiger Hinweis
 
@@ -23,14 +38,6 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 - **Thema**: Verfassungsrechtlicher Anspruch auf unentgeltliche Rechtspflege
 - **Kernaussage**: Der Anspruch auf unentgeltliche Rechtspflege nach Art. 29 Abs. 3 BV setzt voraus, dass die Partei mittellos ist und die Rechtsbegehren nicht aussichtslos erscheinen. Diese Voraussetzungen gelten sinngemäss auch im Strafverfahren.
 - **Einschlägig für**: Art. 136 Abs. 1 lit. a und b StPO (Mittellosigkeit, Nichtaussichtslosigkeit)
-
----
-
-### BGE 137 I 189 — 3. Mai 2011
-
-- **Thema**: Aussichtslosigkeit der Klage
-- **Kernaussage**: Aussichtslosigkeit im Sinne der unentgeltlichen Rechtspflege liegt vor, wenn die Klage offensichtlich keinen Erfolg verspricht. Die Prüfung erfolgt anhand einer Grobprüfung; es wird nicht verlangt, dass die Klage wahrscheinlich erfolgreich ist.
-- **Einschlägig für**: Art. 136 Abs. 1 lit. a und b StPO (Nichtaussichtslosigkeit)
 
 ---
 
@@ -62,14 +69,6 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 ## Unentgeltliche Rechtspflege des Opfers (Abs. 1 lit. b)
 
-### BGE 137 IV 81 — 17. Februar 2011
-
-- **Thema**: Opferrechte im Strafverfahren
-- **Kernaussage**: Das Opfer hat nach Art. 2 Abs. 1 OHG das Recht auf kostenlose Prozessbegleitung durch eine Fachstelle. Die Einführung der unentgeltlichen Rechtspflege für das Opfer (Art. 136 Abs. 1 lit. b StPO nF) stärkt die Opferrechte über die Prozessbegleitung hinaus, indem sie dem Opfer einen eigenen Anspruch auf unentgeltliche anwaltliche Vertretung gewährt.
-- **Einschlägig für**: Art. 136 Abs. 1 lit. b StPO, Art. 2 OHG
-
----
-
 ### BGer 6B_1122/2019 — 4. September 2020
 
 - **Thema**: Opferbegriff und Strafklage
@@ -96,16 +95,6 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 ---
 
-## Neuantrag im Rechtsmittelverfahren (Abs. 3)
-
-### BGE 140 III 653 — 22. Januar 2015
-
-- **Thema**: Neuantrag im Rechtsmittelverfahren (Zivilprozessrecht)
-- **Kernaussage**: Im Zivilprozessrecht ist die unentgeltliche Rechtspflege für jede Instanz neu zu beantragen (Art. 119 ZPO). Dieser Grundsatz gilt nach Art. 136 Abs. 3 StPO nF nun auch im Strafverfahren für die Privatklägerschaft und das Opfer. Die Neuantragspflicht ist Ausdruck des Instanzenwechsels und der veränderten Beurteilung der Aussichtslosigkeit.
-- **Einschlägig für**: Art. 136 Abs. 3 StPO (Neuantrag im Rechtsmittelverfahren)
-
----
-
 ## Übergangsrecht und Opferrechtsreform 2022/2024
 
 ### BG vom 17. Juni 2022 (AS 2023 468; BBl 2019 6697)
@@ -120,7 +109,7 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 *Die folgenden Entscheide beziehen sich auf die frühere Fassung von Art. 136 StPO (Widerruf der amtlichen Verteidigung). Seit dem 1. Januar 2024 ist dieser Inhalt in Art. 134 StPO geregelt. Die Entscheide sind auf Art. 134 StPO umzudeuten.*
 
-### BGE 139 IV 113, E. 5.1 (697 Zit.) — Widerruf bei Wegfall der Voraussetzungen
+### BGE 139 IV 113 (697 Zit.) — Widerruf bei Wegfall der Voraussetzungen
 
 - **Thema**: Obligatorischer Widerruf bei Wegfall der Voraussetzungen
 - **Kernaussage**: Die amtliche Verteidigung ist zu widerrufen, wenn die Voraussetzungen nach Art. 132 Abs. 1 nicht mehr gegeben sind. Der Widerruf kann jedoch erst erfolgen, wenn die Voraussetzungen tatsächlich entfallen sind; eine blosse Veränderung der Einschätzung genügt nicht.
@@ -128,7 +117,7 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 ---
 
-### BGE 143 I 164, E. 2.2 (619 Zit.) — Kein verfassungsrechtlicher Anspruch
+### BGE 143 I 164 (619 Zit.) — Kein verfassungsrechtlicher Anspruch
 
 - **Thema**: Widerruf bei Wegfall der Bedürftigkeit
 - **Kernaussage**: Ein Anspruch auf unentgeltliche Verteidigung ergibt sich weder aus Art. 29 Abs. 3 BV noch aus Art. 6 Ziff. 3 lit. c EMRK. Bei Wegfall der Bedürftigkeit kann die amtliche Verteidigung widerrufen werden.
@@ -136,7 +125,7 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 ---
 
-### BGer 6B_909/2018, E. 1.2 — Verweigerung der Zusammenarbeit
+### BGer 6B_909/2018 — Verweigerung der Zusammenarbeit
 
 - **Thema**: Fakultativer Widerruf bei Verweigerung der Zusammenarbeit
 - **Kernaussage**: Die Verweigerung der Zusammenarbeit mit dem Offizialverteidiger kann einen Widerruf rechtfertigen, wenn die Verweigerung dauerhaft und nachhaltig erfolgt. Vor einem Widerruf ist der Wechsel nach Art. 134 StPO zu prüfen.
@@ -144,7 +133,7 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 
 ---
 
-### BGer 1B_479/2022, E. 2.4 — Wechsel statt Widerruf
+### BGer 1B_479/2022 — Wechsel statt Widerruf
 
 - **Thema**: Wechsel statt Widerruf bei gestörtem Vertrauensverhältnis
 - **Kernaussage**: Bei gestörtem Vertrauensverhältnis ist der Wechsel nach Art. 134 StPO der regelmässige Weg. Der Widerruf ist nur bei Wegfall der Voraussetzungen oder bei mutwilliger Behinderung angebracht.
@@ -157,14 +146,12 @@ Für die neue Art. 136 StPO sind vor allem Entscheide zur **unentgeltlichen Rech
 | Nr | Entscheidung | Zit. | Kernthese | Heutige Norm |
 |----|---|---|---|---|
 | 1 | BGE 141 I 49 | — | Verfassungsrechtlicher Anspruch auf unentgeltliche Rechtspflege: Mittellosigkeit und Nichtaussichtslosigkeit | Art. 136 Abs. 1 StPO nF |
-| 2 | BGE 137 I 189 | — | Aussichtslosigkeit: Grobprüfung, nicht Wahrscheinlichkeit | Art. 136 Abs. 1 StPO nF |
 | 3 | BGE 143 I 164 | 619 | Kein Anspruch auf unentgeltliche Verteidigung aus BV/EMRK; gesetzliche Voraussetzungen massgebend | Art. 136 Abs. 1 StPO nF |
 | 4 | BGE 131 I 350 | — | Notwendigkeit der Bestellung eines Rechtsbeistands | Art. 136 Abs. 2 lit. c StPO nF |
-| 5 | BGE 137 IV 81 | — | Opferrechte und kostenlose Prozessbegleitung | Art. 136 Abs. 1 lit. b StPO nF |
 | 6 | BGE 139 IV 113 | 697 | Widerruf bei Wegfall der Voraussetzungen (Alt-Art. 136) | Art. 134 StPO |
 | 7 | BGer 6B_909/2018 | — | Verweigerung der Zusammenarbeit (Alt-Art. 136) | Art. 134 StPO |
 | 8 | BGer 1B_479/2022 | — | Wechsel statt Widerruf (Alt-Art. 136) | Art. 134 StPO |
 
 ---
 
-*Letzte Aktualisierung: 2026-06-20*
+*Letzte Aktualisierung: 2026-08-21*

@@ -4,14 +4,19 @@ weight: 136
 date: "2026-06-20"
 description: "Kommentar zu Art. 136 StPO – Voraussetzungen der unentgeltlichen Rechtspflege für Privatklägerschaft und Opfer"
 tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Voraussetzungen"]
-agent_verified: true
-mcp_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 21 %): drei nicht existierende BGE (137 I 189, 137 IV 81, 140 III 653) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der inhaltliche Overhaul und die Korrektur der vier fehlerhaften Pinpoints stehen aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 ---
 
 ## Gesetzeswortlaut
@@ -33,6 +38,10 @@ lastmod: "2026-08-13"
 > c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
 >
 > 3 Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
+
+{{< callout type="warning" >}}
+**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass ein Grossteil der angeführten Belege die zugehörigen Aussagen nicht stützt; in der Rechtsprechungsübersicht wurden am 21.08.2026 drei nicht existierende BGE entfernt. Vier weitere Erwägungsangaben sind fehlerhaft. Die Verweise sind noch nicht einzeln verifiziert; der Gesetzeswortlaut ist geprüft.
+{{< /callout >}}
 
 ## Kommentierung
 
