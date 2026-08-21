@@ -2,11 +2,26 @@
 title: "Rechtsprechung zu Art. 394 StPO"
 weight: 99
 date: 2026-05-30
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 394 StPO – Ausschluss der Beschwerde bei Berufungsmöglichkeit und wiederholbaren Beweisanträgen"
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil"]
 agent_verified: false
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 31 %): drei nicht existierende Fundstellen (BGE 144 IV 333, BGer 1B_464/2015, BGer 1B_637/2016) samt der ihnen zugeschriebenen Kernaussagen entfernt; fehlerhafte Erwaegungsangabe bei BGE 137 III 67 gestrichen; agent_verified auf false zurueckgestuft; fehlender revisions-Block ergaenzt. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht funktionsfaehig."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
+
+{{< callout type="warning" >}}
+**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat drei frei erfundene Einträge nachgewiesen; sie wurden am 21.08.2026 entfernt. Die verbleibenden Kernaussagen sind noch nicht einzeln verifiziert.
+{{< /callout >}}
 
 ## I. Subsidiarität der Beschwerde gegenüber der Berufung (lit. a)
 
@@ -15,14 +30,6 @@ agent_verified: false
 - **Thema**: Subsidiarität der Beschwerde gegenüber der Berufung
 - **Kernaussage**: Die Beschwerde ist im Vergleich zur Berufung subsidiär (Art. 20 Abs. 1 und Art. 394 lit. a StPO). Gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen wurde, können die Parteien Berufung erheben. Die Staatsanwaltschaft und die übrigen Parteien müssen die Reduktion der Entschädigung für die amtliche Verteidigung im Berufungsverfahren verlangen, während sich der amtliche Verteidiger mit Beschwerde zur Wehr setzt. Tritt das Berufungsgericht ein, entfällt das Anfechtungsobjekt des parallelen Beschwerdeverfahrens.
 - **Einschlägig für**: lit. a (Beschwerdeausschluss bei Berufungsmöglichkeit)
-
----
-
-### [BGE 144 IV 333, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_333)
-
-- **Thema**: Haftbeschwerde und Beschwerdeausschluss
-- **Kernaussage**: Haftentscheide nach Art. 380 ff. StPO unterliegen nicht dem Beschwerdeausschluss nach Art. 394 lit. a StPO. Die Beschwerde gegen Untersuchungshaft ist auch dann zulässig, wenn gegen das Haupturteil Berufung erhoben werden kann. Untersuchungshaft und Haupturteil sind verschiedene Anfechtungsobjekte.
-- **Einschlägig für**: lit. a (Ausnahme: Haftbeschwerde)
 
 ---
 
@@ -65,22 +72,6 @@ agent_verified: false
 - **Thema**: Rechtsnachteilsbegriff bei Beweisanträgen / Beschlagnahmeantrag
 - **Kernaussage**: Der Rechtsnachteil im Sinne von Art. 394 lit. b StPO unterscheidet sich nicht vom irreparablen Nachteil nach Art. 93 Abs. 1 lit. a BGG. Beschwerde zulässig bei konkretem Risiko der Zerstörung oder des Verlusts des Beweismittels; blosse theoretische Möglichkeit genügt nicht. Im Fall bejaht bzgl. begehrter Beschlagnahme von Bankdokumenten (zehnjährige Aufbewahrungspflicht abgelaufen), verneint bzgl. Zeugenanhörung und Gutachtenantrag.
 - **Einschlägig für**: lit. b (konkreter Beweisverlust als Rechtsnachteil)
-
----
-
-### BGer 1B_464/2015 vom 22. Februar 2016
-
-- **Thema**: Beschwerdeausschluss und selbstständige Beweiswürdigung
-- **Kernaussage**: Die Ablehnung eines Beweisantrags durch die Staatsanwaltschaft kann nur dann mit Beschwerde angefochten werden, wenn ein nicht wieder gutzumachender Rechtsnachteil droht (Art. 394 lit. b StPO). Der blosse Umstand, dass ein Beweismittel erst vor dem erstinstanzlichen Gericht erhoben werden könnte, genügt für den Beschwerdeausschluss, solange dies ohne Rechtsnachteil möglich ist.
-- **Einschlägig für**: lit. b (kein Rechtsnachteil bei wiederholbarem Antrag)
-
----
-
-### BGer 1B_637/2016 vom 12. Juni 2017
-
-- **Thema**: Beweiserhebung im Ermittlungsverfahren / Aktenentfernungsbegehren
-- **Kernaussage**: Ein Begehren um Akteneinsicht oder Aktenentfernung im Ermittlungsverfahren ist keine Beweisantragsablehnung im Sinne von Art. 394 lit. b StPO. Der Beschwerdeausschluss nach lit. b betrifft nur die Ablehnung von Beweisanträgen im engeren Sinn, nicht prozessleitende Verfügungen über Verfahrensfragen.
-- **Einschlägig für**: lit. b (Abgrenzung zu prozessleitenden Verfügungen)
 
 ---
 
