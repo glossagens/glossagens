@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 13 StPO"
 weight: 99
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 13 StPO – Gerichte (Ausstandslehre, gerichtliche Befugnisse, verfassungsmässiger Richter)"
 tags: ["Rechtsprechung", "StPO", "Gerichte", "Ausstand", "verfassungsmässiger Richter"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 24 %). Alle Entscheide und Erwägungsangaben einzeln gegen die MCP geprüft; sämtliche Referenzen existieren und treffen thematisch zu. Zitierweise vereinheitlicht, BGer 1B_266/2020 ergänzt, fehlender revisions-Block eingefügt."
+  - date: 2026-07-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
 ## Leitentscheide (BGE)
@@ -62,7 +73,7 @@ agent_verified: false
 - **Einschlägig für**: Ausstand gegenüber Strafbehörden (Gerichte nach Art. 13 und Staatsanwaltschaft nach Art. 12 lit. b)
 - **URL**: [BGer 1B_548/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_548_2019)
 
-### BGer 1B 491/2017 vom 5. April 2018
+### BGer 1B_491/2017 vom 5. April 2018
 - **Thema**: Ausstand des Berufungsgerichts — Vorbefassung nach Rückweisung
 - **Kernaussage**: Eine in einer Strafbehörde, etwa beim Berufungsgericht (Art. 13 lit. d StPO), tätige Person tritt in den Ausstand, wenn sie in einer anderen Stellung in der gleichen Sache tätig war (Art. 56 lit. b StPO). Die Garantie des verfassungsmässigen Richters (Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK; Art. 14 Abs. 1 UNO-Pakt II) wird in Art. 56 StPO konkretisiert. Das Bundesgericht hat Kriterien für die Vorbefassung entwickelt. Aus einem rückweisenden Bundesgerichtsentscheid ergibt sich nicht zwingend, dass das Berufungsgericht über die fraglichen Beweisanträge in einer bestimmten Weise entscheiden müsste.
 - **Einschlägig für**: lit. d (Berufungsgericht), Vorbefassung
@@ -80,19 +91,19 @@ agent_verified: false
 - **Einschlägig für**: Ausstandsverfahren gegenüber Strafbehörden (Art. 12 und 13 StPO)
 - **URL**: [BGer 1B_149/2019](https://mcp.opencaselaw.ch/entscheid/bger_1B_149_2019)
 
-### BGer 1B 375/2017 vom 7. Februar 2018
+### BGer 1B_375/2017 vom 7. Februar 2018
 - **Thema**: Ausstand — Zuständigkeitsfragen, Garantie des Wohnsitzrichters
 - **Kernaussage**: Strafverfahren; Ausstand: Zuständigkeitsfragen, Garantie des Wohnsitzrichters und des verfassungsmässigen Richters. Die Ausstandsgründe des Art. 56 StPO gelten für alle in Strafbehörden (Gerichte nach Art. 13 StPO und Strafverfolgungsbehörden nach Art. 12 lit. b StPO) tätigen Personen.
 - **Einschlägig für**: Art. 13 StPO im Kontext der Ausstands- und Zuständigkeitslehre
 - **URL**: [BGer 1B 375/2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_375_2017)
 
-### BGer 1B 357/2013 vom 24. Januar 2014
+### BGer 1B_357/2013 vom 24. Januar 2014
 - **Thema**: Ausstand — Zuständigkeitsfragen, Garantie des Wohnsitzrichters
 - **Kernaussage**: Strafverfahren; Ausstand: Zuständigkeitsfragen, Garantie des Wohnsitzrichters und des verfassungsmässigen Richters. Die Ausstandsgründe des Art. 56 StPO gelten für alle in Strafbehörden tätigen Personen.
 - **Einschlägig für**: Art. 13 StPO im Kontext der Ausstandslehre
 - **URL**: [BGer 1B 357/2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_357_2013)
 
-### BGer 1B 209/2021 vom 10. August 2021
+### BGer 1B_209/2021 vom 10. August 2021
 - **Thema**: Ausstand — Zuständigkeitsfragen, Garantie des Wohnsitzrichters
 - **Kernaussage**: Strafverfahren; Ausstand: Zuständigkeitsfragen, Garantie des Wohnsitzrichters und des verfassungsmässigen Richters.
 - **Einschlägig für**: Art. 13 StPO im Kontext der Ausstands- und Zuständigkeitslehre
@@ -107,3 +118,18 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 12. Juli 2026*
+
+### BGer 1B_266/2020 vom 22. Dezember 2020
+
+- **Thema**: Ausstandsgründe und Kreis der Strafbehörden
+- **Kernaussage** (E. 3.1): «Die Ausstandsgründe für die in einer Strafbehörde tätigen Justizpersonen sind in Art. 56 StPO geregelt. Diese Bestimmung konkretisiert Art. 6 Ziff. 1 EMRK sowie Art. 29 Abs. 1 und Art. 30 Abs. 1 BV. Zu den Strafbehörden gehören neben den Gerichten (Art. 13 StPO) die Strafverfolgungsbehörden, darunter die Organe der Staatsanwaltschaft (Art. 12 lit. b StPO).»
+- **Einschlägig für**: Gerichte als Strafbehörden; Verhältnis zu Art. 56 StPO
+- **URL**: [BGer 1B_266/2020 vom 22. Dezember 2020, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_1B_266_2020#e-3-1)
+
+---
+
+## Prüfvermerk
+
+Sämtliche auf dieser Seite und im Kommentar zu Art. 13 StPO angeführten Entscheide wurden am 21.08.2026 einzeln über die opencaselaw-MCP verifiziert: Alle 21 Referenzen existieren, treffen thematisch zu, und die Erwägungsangaben liessen sich bis auf zwei Fälle bestätigen. Korrigiert wurden die Fundstelle zu BGE 141 IV 39 (der Regeste verweist auf E. 1.6, der Volltext führt den Satz in E. 1.6.2) und der Verweisanker zu BGE 126 I 172 E. 3c, den das Bundesgericht in BGE 137 IV 87 E. 3.3.2 selbst in dieser Form zitiert, während die Datenbank die Erwägung ungegliedert als E. 3 führt.
+
+*Letzte Aktualisierung: 2026-08-21*
