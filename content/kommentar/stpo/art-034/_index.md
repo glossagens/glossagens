@@ -2,11 +2,16 @@
 title: "Art. 34 StPO — Gerichtsstand bei mehreren an verschiedenen Orten verübten Straftaten"
 weight: 34
 date: "2026-07-12"
-lastmod: "2026-08-13"
+lastmod: 2026-08-22
 description: "Kommentar zu Art. 34 StPO: Zuständigkeitsbestimmung bei mehreren Straftaten an verschiedenen Orten (Schwerste-Tat-Prinzip), Verfahrenstrennung bei bereits erhobener Anklage, gerichtliche Gesamtstrafenfestsetzung."
 tags: ["StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit", "Gesamtstrafe", "Gerichtsstandskonflikt", "Asperation"]
 agent_verified: true
 revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 34 %). Alle 25 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 138 IV 214 E. 3 → E. 3.6 (Spezialisierung der Staatsanwaltschaften darf die Verfahrenseinheit nicht zur Ausnahme machen), E. 1 → E. 1.2 ff. (Zulässigkeit der Beschwerde ans Bundesgericht), BGE 144 IV 217 E. 2 → E. 2.2 (Geld- und Freiheitsstrafe sind keine gleichartigen Strafen). Die im Audit als «unrelated» gemeldeten BStGer-Entscheide sind Artefakte der Auswertung einer Aufzählung; sie sind sämtlich einschlägig."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -25,7 +30,7 @@ revisions:
 
 ## I. Bedeutung und Funktion
 
-Art. 34 StPO regelt die **örtliche Zuständigkeit** bei Mehrfachtäterschaft: Hat eine beschuldigte Person mehrere Straftaten an verschiedenen Orten — insbesondere in verschiedenen Kantonen — verübt, bestimmt diese Norm, welcher Kanton für die Verfolgung und Beurteilung **sämtlicher Taten** zuständig ist. Die Vorschrift ist Ausdruck des Grundsatzes der **Verfahrenseinheit** (→ [Art. 29](../art-029/)), der besagt, dass mehrere Straftaten derselben Person nach Möglichkeit in einem einzigen Verfahren zu beurteilen sind ([BGE 138 IV 214, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Art. 34 StPO regelt die **örtliche Zuständigkeit** bei Mehrfachtäterschaft: Hat eine beschuldigte Person mehrere Straftaten an verschiedenen Orten — insbesondere in verschiedenen Kantonen — verübt, bestimmt diese Norm, welcher Kanton für die Verfolgung und Beurteilung **sämtlicher Taten** zuständig ist. Die Vorschrift ist Ausdruck des Grundsatzes der **Verfahrenseinheit** (→ [Art. 29](../art-029/)), der besagt, dass mehrere Straftaten derselben Person nach Möglichkeit in einem einzigen Verfahren zu beurteilen sind ([BGE 138 IV 214, E. 3.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-3-6)).
 
 Art. 34 StPO steht im Kontext der Art. 31–37 StPO (örtliche Zuständigkeit) und der Art. 29–30 StPO (Verfahrenseinheit und -trennung). Während Art. 31 StPO den allgemeinen Gerichtsstand am Begehungsort begründet, konkretisiert Art. 34 StPO diese Regel für den Fall, dass eine Person an mehreren Orten Straftaten verübt hat. Die Art. 39–42 StPO wiederum regeln das Verfahren bei **Gerichtsstandskonflikten** zwischen Kantonen (→ Art. 35–42 StPO, nicht als separate Kommentare vorhanden).
 
@@ -33,7 +38,7 @@ Art. 34 StPO steht im Kontext der Art. 31–37 StPO (örtliche Zuständigkeit) u
 
 ### 1. Grundregel
 
-Abs. 1 Satz 1 bestimmt: Sind mehrere Straftaten an verschiedenen Orten verübt worden, so sind die Behörden des Ortes zuständig, an dem die **mit der schwersten Strafe bedrohte Tat** begangen worden ist. Das Kriterium ist somit **abstrakt**: Es kommt auf die im Gesetz angedrohte Höchststrafe an, nicht auf die im konkreten Fall ausgefällte Strafe. Der Ort der schwersten Tat «zieht» das gesamte Verfahren an sich — der Grundsatz der Verfahrenseinheit wird dadurch gewahrt ([BGE 138 IV 214, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Abs. 1 Satz 1 bestimmt: Sind mehrere Straftaten an verschiedenen Orten verübt worden, so sind die Behörden des Ortes zuständig, an dem die **mit der schwersten Strafe bedrohte Tat** begangen worden ist. Das Kriterium ist somit **abstrakt**: Es kommt auf die im Gesetz angedrohte Höchststrafe an, nicht auf die im konkreten Fall ausgefällte Strafe. Der Ort der schwersten Tat «zieht» das gesamte Verfahren an sich — der Grundsatz der Verfahrenseinheit wird dadurch gewahrt ([BGE 138 IV 214, E. 3.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-3-6)).
 
 ### 2. Bei gleicher Strafdrohung
 
@@ -41,7 +46,7 @@ Abs. 1 Satz 2 regelt den subsidiären Fall: Sind mehrere Taten mit **gleich hohe
 
 ### 3. Praxis der Spezialisierung
 
-Die Spezialisierung verschiedener Staatsanwaltschaften auf bestimmte Deliktsgruppen (z.B. Wirtschaftskriminalität, Drogen, organisierte Kriminalität) darf nicht dazu führen, dass der Grundsatz der Verfahrenseinheit zur Ausnahme und die Verfahrenstrennung zur Regel wird. Vielmehr ist zu gewährleisten, dass nur ein Strafverfahren mit einer **einheitlichen Untersuchung** durchgeführt wird, ausser es gibt **sachliche Gründe** für ein Abweichen. Rein organisatorische Aspekte auf Seiten der Strafverfolgungsbehörden genügen für eine Verfahrenstrennung nicht ([BGE 138 IV 214, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Die Spezialisierung verschiedener Staatsanwaltschaften auf bestimmte Deliktsgruppen (z.B. Wirtschaftskriminalität, Drogen, organisierte Kriminalität) darf nicht dazu führen, dass der Grundsatz der Verfahrenseinheit zur Ausnahme und die Verfahrenstrennung zur Regel wird. Vielmehr ist zu gewährleisten, dass nur ein Strafverfahren mit einer **einheitlichen Untersuchung** durchgeführt wird, ausser es gibt **sachliche Gründe** für ein Abweichen. Rein organisatorische Aspekte auf Seiten der Strafverfolgungsbehörden genügen für eine Verfahrenstrennung nicht ([BGE 138 IV 214, E. 3.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-3-6)).
 
 ## III. Verfahrenstrennung bei bereits erhobener Anklage (Abs. 2)
 
@@ -56,12 +61,12 @@ Voraussetzung ist, dass die Anklage **vor** Abschluss des Gerichtsstandsverfahre
 Abs. 3 regelt den Fall der **nachträglichen Gesamtstrafenbildung**: Ist eine Person von verschiedenen Gerichten zu mehreren gleichartigen Strafen verurteilt worden — ohne dass es zu einem einheitlichen Verfahren gekommen ist —, so setzt das Gericht, das die **schwerste Strafe** ausgesprochen hat, auf **Gesuch der verurteilten Person** eine Gesamtstrafe fest. Diese Bestimmung setzt voraus:
 
 - **Mehrere Verurteilungen** durch verschiedene Gerichte (nicht dieselbe Instanz)
-- **Gleichartige Strafen** (z.B. mehrere Freiheitsstrafen; Geld- und Freiheitsstrafe sind nicht gleichartig, [BGE 144 IV 217, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217))
+- **Gleichartige Strafen** (z.B. mehrere Freiheitsstrafen; Geld- und Freiheitsstrafe sind nicht gleichartig, [BGE 144 IV 217, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217#e-2-2))
 - **Gesuch der verurteilten Person** — das Verfahren ist nicht von Amtes wegen durchzuführen.
 
 ### 2. Gleichartigkeit der Strafen
 
-Die Bildung einer Gesamtstrafe nach Art. 49 Abs. 1 StGB (Asperationsprinzip) ist nur möglich, wenn das Gericht im konkreten Fall für jeden einzelnen Normverstoss **gleichartige Strafen** ausfällt. Dass die anzuwendenden Strafbestimmungen (teilweise) abstrakt gleichartige Strafen androhen, genügt nicht. **Geld- und Freiheitsstrafe** sind keine gleichartigen Strafen im Sinne von Art. 49 Abs. 1 StGB («konkrete Methode»; [BGE 144 IV 217, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217)). Art. 34 Abs. 3 StPO setzt dementsprechend voraus, dass die von verschiedenen Gerichten ausgefällten Strafen gleichartig sind.
+Die Bildung einer Gesamtstrafe nach Art. 49 Abs. 1 StGB (Asperationsprinzip) ist nur möglich, wenn das Gericht im konkreten Fall für jeden einzelnen Normverstoss **gleichartige Strafen** ausfällt. Dass die anzuwendenden Strafbestimmungen (teilweise) abstrakt gleichartige Strafen androhen, genügt nicht. **Geld- und Freiheitsstrafe** sind keine gleichartigen Strafen im Sinne von Art. 49 Abs. 1 StGB («konkrete Methode»; [BGE 144 IV 217, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217#e-2-2)). Art. 34 Abs. 3 StPO setzt dementsprechend voraus, dass die von verschiedenen Gerichten ausgefällten Strafen gleichartig sind.
 
 ### 3. Zuständigkeit und Verfahren
 
@@ -73,7 +78,7 @@ Art. 34 StPO bestimmt zwar, *welcher* Kanton zuständig ist; *ob* es zu einem Ko
 
 ### 1. Anrufung der Anklagekammer
 
-Die kantonalen Behörden können bei einem Gerichtsstandskonflikt die **Anklagekammer des Bundesstrafgerichts** anrufen (Art. 40 Abs. 2 StPO). Gegen den Entscheid der Ober- oder Generalstaatsanwaltschaft bzw. der kantonalen Beschwerdeinstanz über einen Kompetenzkonflikt verschiedener Untersuchungsbehörden steht direkt die **Beschwerde in Strafsachen** an das Bundesgericht offen (Art. 80 BGG), auch wenn es sich nicht um den Entscheid einer gerichtlichen Behörde handelt ([BGE 138 IV 214, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Die kantonalen Behörden können bei einem Gerichtsstandskonflikt die **Anklagekammer des Bundesstrafgerichts** anrufen (Art. 40 Abs. 2 StPO). Gegen den Entscheid der Ober- oder Generalstaatsanwaltschaft bzw. der kantonalen Beschwerdeinstanz über einen Kompetenzkonflikt verschiedener Untersuchungsbehörden steht direkt die **Beschwerde in Strafsachen** an das Bundesgericht offen (Art. 80 BGG), auch wenn es sich nicht um den Entscheid einer gerichtlichen Behörde handelt ([BGE 138 IV 214, E. 1.2–1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-1-2)).
 
 ### 2. Praxis des Bundesstrafgerichts
 
@@ -83,11 +88,11 @@ Die **Anfechtung des Gerichtsstands** nach Art. 41 Abs. 2 StPO steht der beschul
 
 ## VI. Verhältnis zu Art. 29 und 30 StPO
 
-Art. 34 StPO ist eine **Ausprägung** des Grundsatzes der Verfahrenseinheit (→ [Art. 29](../art-029/)): Mehrere Straftaten derselben Person sollen nach Möglichkeit in einem Verfahren beurteilt werden. Die Trennung und Vereinigung von Strafverfahren (→ [Art. 30](../art-030/)) bleibt jedoch möglich, wenn sachliche Gründe dies rechtfertigen — etwa bei besonderer Komplexität, bei Verzögerungsgefahr oder wenn ein Verfahren bereits weit fortgeschritten ist (vgl. Abs. 2). Die Trennung darf aber nicht zur Regel werden ([BGE 138 IV 214, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Art. 34 StPO ist eine **Ausprägung** des Grundsatzes der Verfahrenseinheit (→ [Art. 29](../art-029/)): Mehrere Straftaten derselben Person sollen nach Möglichkeit in einem Verfahren beurteilt werden. Die Trennung und Vereinigung von Strafverfahren (→ [Art. 30](../art-030/)) bleibt jedoch möglich, wenn sachliche Gründe dies rechtfertigen — etwa bei besonderer Komplexität, bei Verzögerungsgefahr oder wenn ein Verfahren bereits weit fortgeschritten ist (vgl. Abs. 2). Die Trennung darf aber nicht zur Regel werden ([BGE 138 IV 214, E. 3.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-3-6)).
 
 ## VII. Verhältnis zum materiellen Recht (Art. 49 StGB)
 
-Art. 34 Abs. 3 StPO ist die **verfahrensrechtliche Grundlage** für die nachträgliche gerichtliche Gesamtstrafenfestsetzung, die materiellrechtlich in Art. 49 StGB geregelt ist. Während Art. 49 StGB das Asperationsprinzip als Berechnungsmethode festlegt («das Gericht erhöht die Strafe») und bestimmt, dass die Gesamtstrafe die Summe der Einzelstrafen nicht erreichen darf, regelt Art. 34 Abs. 3 StPO das **Verfahren** und die **Zuständigkeit** für diese Festsetzung. Die Verbindung beider Normen ist in der Praxis zentral, da die Gesamtstrafenfestsetzung nur auf Gesuch der verurteilten Person erfolgt (Art. 34 Abs. 3 StPO) und das Gericht mit der schwersten Einzelstrafe zuständig ist (ebenda; [BGE 144 IV 217, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217)).
+Art. 34 Abs. 3 StPO ist die **verfahrensrechtliche Grundlage** für die nachträgliche gerichtliche Gesamtstrafenfestsetzung, die materiellrechtlich in Art. 49 StGB geregelt ist. Während Art. 49 StGB das Asperationsprinzip als Berechnungsmethode festlegt («das Gericht erhöht die Strafe») und bestimmt, dass die Gesamtstrafe die Summe der Einzelstrafen nicht erreichen darf, regelt Art. 34 Abs. 3 StPO das **Verfahren** und die **Zuständigkeit** für diese Festsetzung. Die Verbindung beider Normen ist in der Praxis zentral, da die Gesamtstrafenfestsetzung nur auf Gesuch der verurteilten Person erfolgt (Art. 34 Abs. 3 StPO) und das Gericht mit der schwersten Einzelstrafe zuständig ist (ebenda; [BGE 144 IV 217, E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217#e-2-2)).
 
 ## VIII. Verhältnis zu Art. 56 StPO
 
@@ -99,7 +104,7 @@ Die nachträgliche Gesamtstrafenfestsetzung nach Abs. 3 unterliegt der strafproz
 
 ## X. Rechtsmittel
 
-Gegen den Entscheid über die Gesamtstrafenfestsetzung nach Abs. 3 stehen die **allgemeinen Rechtsmittel** offen (Berufung nach Art. 391 ff. StPO, Beschwerde nach Art. 379 ff. StPO, je nach Instanz und Gegenstand). Gegen den Entscheid im Gerichtsstandsverfahren (Art. 39–42 StPO) ist die Beschwerde in Strafsachen an das Bundesgericht zulässig (Art. 80 BGG; [BGE 138 IV 214, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214)).
+Gegen den Entscheid über die Gesamtstrafenfestsetzung nach Abs. 3 stehen die **allgemeinen Rechtsmittel** offen (Berufung nach Art. 391 ff. StPO, Beschwerde nach Art. 379 ff. StPO, je nach Instanz und Gegenstand). Gegen den Entscheid im Gerichtsstandsverfahren (Art. 39–42 StPO) ist die Beschwerde in Strafsachen an das Bundesgericht zulässig (Art. 80 BGG; [BGE 138 IV 214, E. 1.2–1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_214#e-1-2)).
 
 ## XI. Zusammenfassung
 
