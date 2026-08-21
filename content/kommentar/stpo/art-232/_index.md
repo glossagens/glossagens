@@ -2,11 +2,16 @@
 title: "Art. 232 — Sicherheitshaft im Berufungsverfahren"
 weight: 232
 date: 2026-08-09
-lastmod: 2026-08-13
+lastmod: 2026-08-21
 description: "Kommentar zu Art. 232 StPO – Sicherheitshaft im Berufungsverfahren: Voraussetzungen, Haftgründe, Verhältnismässigkeit, Haftdauer"
 tags: ["StPO", "Sicherheitshaft", "Berufungsverfahren", "Haftgründe", "Fluchtgefahr", "Kollusionsgefahr", "Verhältnismässigkeit", "Haftprüfung"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 13 %): fuenf nicht existierende BGE (139 IV 38, 140 IV 269, 141 IV 96, 143 IV 237, 144 IV 307) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der wiedergegebene Gesetzeswortlaut deckt sich laut Audit nicht mit dem amtlichen Text und ist noch zu korrigieren. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -28,6 +33,10 @@ revisions:
 > b. die Sicherheitshaft im erstinstanzlichen Verfahren angeordnet war oder die Voraussetzungen für eine solche vorliegen.
 >
 > 2 Artikel 224 Absatz 3 bleibt vorbehalten.
+
+{{< callout type="warning" >}}
+**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass der oben wiedergegebene Gesetzeswortlaut nicht dem amtlichen Text entspricht — er ist vor der Verwendung am Fedlex-Stand zu prüfen. Zudem stützte ein Grossteil der ursprünglichen Belege die zugehörigen Aussagen nicht; fünf nicht existierende BGE wurden am 21.08.2026 entfernt. Die verbleibenden Entscheidverweise sind noch nicht einzeln verifiziert.
+{{< /callout >}}
 
 ## Kommentierung
 
@@ -75,7 +84,7 @@ Die Sicherheitshaft ist ein **ultima ratio**-Eingriff in die persönliche Freihe
 
 #### 2. Haftdauer
 
-Die **Haftdauer** im Berufungsverfahren ist an die allgemeinen Haftfristen gebunden (Art. 224–229 StPO). Die Dauer der erstinstanzlichen Haft wird auf die Berufungshaft angerechnet. Die Gesamtshaftdauer muss verhältnismässig bleiben, insbesondere im Hinblick auf die zu erwartende Strafe ([BGE 144 IV 307](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_307)).
+Die **Haftdauer** im Berufungsverfahren ist an die allgemeinen Haftfristen gebunden (Art. 224–229 StPO). Die Dauer der erstinstanzlichen Haft wird auf die Berufungshaft angerechnet. Die Gesamtshaftdauer muss verhältnismässig bleiben, insbesondere im Hinblick auf die zu erwartende Strafe.
 
 #### 3. Verhältnismässigkeit bei langer Verfahrensdauer
 
@@ -107,7 +116,7 @@ Die beschuldigte Person hat Anspruch auf **haftbezogene Überprüfung** durch ei
 
 #### 3. Art. 5 Abs. 3 EMRK
 
-Die **Anhaltung vor Gericht** nach Art. 5 Abs. 3 EMRK (Vorführung innert angemessener Frist) gilt auch im Berufungsverfahren. Überlange Haft ohne Verurteilung verstösst gegen die Konvention ([BGE 143 IV 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_237)).
+Die **Anhaltung vor Gericht** nach Art. 5 Abs. 3 EMRK (Vorführung innert angemessener Frist) gilt auch im Berufungsverfahren. Überlange Haft ohne Verurteilung verstösst gegen die Konvention.
 
 ### VII. Besondere Problembereiche
 
@@ -117,7 +126,7 @@ Die **Neuhaftanordnung** nach Art. 232 Abs. 1 lit. b Alt. 2 StPO ist zulässig, 
 
 #### 2. Fortdauer der erstinstanzlichen Haft
 
-Die **Fortdauer** der erstinstanzlichen Haft im Berufungsverfahren bedarf einer eigenständigen Prüfung der Haftgründe durch das Berufungsgericht. Die blosse Fortschreibung der erstinstanzlichen Haft ohne neue Prüfung genügt nicht ([BGE 139 IV 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_38)).
+Die **Fortdauer** der erstinstanzlichen Haft im Berufungsverfahren bedarf einer eigenständigen Prüfung der Haftgründe durch das Berufungsgericht. Die blosse Fortschreibung der erstinstanzlichen Haft ohne neue Prüfung genügt nicht.
 
 #### 3. Haft und Rechtsmittelverzicht
 

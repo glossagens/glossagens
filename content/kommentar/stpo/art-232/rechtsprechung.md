@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 232 StPO"
 weight: 99
 date: 2026-08-09
-lastmod: 2026-08-09
+lastmod: 2026-08-21
 description: "Übersicht der massgeblichen Entscheide zu Art. 232 StPO – Sicherheitshaft im Berufungsverfahren"
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Berufungsverfahren", "Haftgründe", "Verhältnismässigkeit"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 13 %): fuenf nicht existierende BGE (139 IV 38, 140 IV 269, 141 IV 96, 143 IV 237, 144 IV 307) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der wiedergegebene Gesetzeswortlaut deckt sich laut Audit nicht mit dem amtlichen Text und ist noch zu korrigieren. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -14,25 +19,13 @@ revisions:
     note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 232 StPO"
 ---
 
+{{< callout type="warning" >}}
+**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat fünf frei erfundene BGE-Einträge nachgewiesen; sie wurden am 21.08.2026 entfernt. Die verbleibenden Entscheide existieren, ihre hier wiedergegebenen Kernaussagen sind aber noch nicht einzeln verifiziert.
+{{< /callout >}}
+
 ## Rechtsprechung zu Art. 232 StPO — Sicherheitshaft im Berufungsverfahren
 
 ### Leitentscheide (BGE)
-
-#### [BGE 143 IV 237](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_237)
-- **Thema**: Sicherheitshaft im Berufungsverfahren — Haftgründe und Verhältnismässigkeit
-- **Kernaussage**: Die Sicherheitshaft im Berufungsverfahren setzt die Erfüllung der Haftgründe nach Art. 221–223 StPO voraus. Das Berufungsgericht hat die Haftvoraussetzungen eigenständig zu prüfen; die blosse Fortschreibung der erstinstanzlichen Haft genügt nicht.
-- **Einschlägig für**: Art. 232 StPO; Art. 221 StPO; Art. 222 StPO; Fluchtgefahr; Verhältnismässigkeit
-- **Bedeutung**: Grundlegende Leitentscheidung zur Haftprüfung im Berufungsverfahren
-
----
-
-#### [BGE 144 IV 307](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_307)
-- **Thema**: Haftdauer und Verhältnismässigkeit — Gesamtshaftdauer
-- **Kernaussage**: Die Dauer der Untersuchungshaft einschliesslich der Berufungshaft muss in einem angemessenen Verhältnis zur erwarteten Sanktion stehen. Bei relativ kurzen Strafen kann eine lange Untersuchungshaft unverhältnismässig sein.
-- **Einschlägig für**: Art. 232 StPO; Art. 224 StPO; Art. 5 Abs. 3 EMRK; Haftdauer; Verhältnismässigkeit
-- **Bedeutung**: Präzisierung der Verhältnismässigkeit bei langer Haftdauer
-
----
 
 #### [BGE 145 IV 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_268)
 - **Thema**: Verhältnismässigkeit der Untersuchungshaft bei geringer Straferwartung
@@ -71,30 +64,6 @@ revisions:
 - **Kernaussage**: Die Fluchtgefahr ist anhand konkreter Umstände zu beurteilen. Der Wunsch, den Verteidiger zu wechseln, begründet für sich allein keine Fluchtgefahr. Wohl aber können die Umstände des Wechsels (z.B. plötzlicher Wechsel kurz vor der Hauptverhandlung) im Rahmen der Gesamtwürdigung berücksichtigt werden.
 - **Einschlägig für**: Art. 232 StPO; Art. 221 Abs. 1 StPO; Fluchtgefahr; Verteidigerwechsel
 - **Bedeutung**: Fluchtgefahr und Verteidigerrecht im Spannungsverhältnis
-
----
-
-#### [BGE 139 IV 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_38)
-- **Thema**: Haftprüfung im Berufungsverfahren — eigenständige Prüfungspflicht
-- **Kernaussage**: Das Berufungsgericht hat die Haftvoraussetzungen eigenständig und umfassend zu prüfen. Die blosse Übernahme der erstinstanzlichen Haftbegründung genügt den Anforderungen von Art. 232 StPO i.V.m. Art. 224 StPO nicht.
-- **Einschlägig für**: Art. 232 StPO; Art. 224 StPO; Haftprüfung; Verfahrensgarantien
-- **Bedeutung**: Eigenständige Haftprüfung im Berufungsverfahren
-
----
-
-#### [BGE 140 IV 269](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_269)
-- **Thema**: Untersuchungshaft — Haftgründe und Ersatzmassnahmen
-- **Kernaussage**: Vor der Anordnung der Untersuchungshaft sind stets Ersatzmassnahmen zu prüfen. Die Untersuchungshaft ist das letzte Mittel (ultima ratio), das nur in Betracht kommt, wenn mildere Massnahmen nicht geeignet sind, den Haftzweck zu erreichen.
-- **Einschlägig für**: Art. 232 StPO; Art. 222 StPO; Ersatzmassnahmen; ultima ratio
-- **Bedeutung**: Subsidiarität der Untersuchungshaft
-
----
-
-#### [BGE 141 IV 96](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_96)
-- **Thema**: Fluchtgefahr — konkrete Anhaltspunkte
-- **Kernaussage**: Fluchtgefahr im Sinne von Art. 221 Abs. 1 StPO setzt konkrete Anhaltspunkte voraus, dass sich die beschuldigte Person dem Verfahren entziehen will. Abstrakte Gefahr genügt nicht; die Fluchtgefahr muss mit Bezug auf die konkreten Umstände des Einzelfalls dargetan werden.
-- **Einschlägig für**: Art. 232 StPO; Art. 221 Abs. 1 StPO; Fluchtgefahr; Substanziierung
-- **Bedeutung**: Strenge Substanziierung der Fluchtgefahr
 
 ---
 
