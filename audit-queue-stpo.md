@@ -23,7 +23,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 17 | [x] 2026-08-21 | [Art. 417](content/kommentar/stpo/art-417/_index.md) | 30 % | 35 | `kein_wortlaut_block` | 6 | 0 |
 | 18 | [x] 2026-08-21 | [Art. 394](content/kommentar/stpo/art-394/_index.md) | 31 % | 13 | `korrekt` | 1 | 3 |
 | 19 | [x] 2026-08-22 | [Art. 124](content/kommentar/stpo/art-124/_index.md) | 31 % | 40 | `korrekt` | 4 | 0 |
-| 20 | [ ] | [Art. 10](content/kommentar/stpo/art-010/_index.md) | 33 % | 130 | `korrekt` | 8 | 0 |
+| 20 | [x] 2026-08-22 | [Art. 10](content/kommentar/stpo/art-010/_index.md) | 33 % | 130 | `korrekt` | 8 | 0 |
 | 21 | [ ] | [Art. 34](content/kommentar/stpo/art-034/_index.md) | 34 % | 22 | `korrekt` | 3 | 0 |
 | 22 | [ ] | [Art. 189](content/kommentar/stpo/art-189/_index.md) | 35 % | 41 | `korrekt` | 3 | 0 |
 | 23 | [ ] | [Art. 381](content/kommentar/stpo/art-381/_index.md) | 35 % | 33 | `halluziniert_oder_veraltet` | 3 | 0 |

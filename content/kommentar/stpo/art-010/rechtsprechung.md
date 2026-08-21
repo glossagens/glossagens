@@ -2,31 +2,31 @@
 title: "Rechtsprechung zu Art. 10 StPO"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-05-17
+lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 10 StPO – Unschuldsvermutung und Beweiswürdigung"
 tags: ["Rechtsprechung", "StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "Willkürkontrolle", "Beweismass", "Glaubhaftigkeitsgutachten"]
 agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 33 %). Der als Nr. 1 geführte BGE 146 IV 88 ist entfernt: Er betrifft Art. 91a SVG und Art. 10 Abs. 2 der Strassenverkehrskontrollverordnung, nicht Art. 10 StPO. Erwägungsangaben zu den Leitentscheiden ergänzt; fehlender revisions-Block eingefügt."
 ---
 
 # Rechtsprechung zu Art. 10 StPO — Unschuldsvermutung und Beweiswürdigung
 
 ## I. Leitentscheide
 
-### 1. BGE 146 IV 88 — In-dubio-pro-reo-Grundsatz als Entscheidungsregel
-
-**Datum:** 2020 | **Signatur:** BGE 146 IV 88
-
-**Kernsatz:** Der in-dubio-pro-reo-Grundsatz ist eine Entscheidungsregel, die erst nach Abschluss der Beweiserhebung und -würdigung zur Anwendung gelangt, nicht eine Beweiswürdigungsregel, die vorgängig bestimmt, wie einzelne Beweismittel zu würdigen sind. Das Bundesgericht systematisiert die Beweiswürdigung in einem dreistufigen Modell: (1) Beweissammlung und -sichtung — in dubio pro reo nicht anwendbar; (2) Beweisauswertung — freie Beweiswürdigung (Art. 10 Abs. 2); (3) Beweisresultat — in dubio pro reo als Beweismass- und Entscheidungsregel. Das Beweismass erfordert an Sicherheit grenzende Wahrscheinlichkeit; absolute Gewissheit kann nicht gefordert werden.
-
 ### 2. BGE 144 IV 345 — In dubio pro reo und DNA-Beweisführung
 
-**Datum:** 2018 | **Signatur:** BGE 144 IV 345
+**Datum:** 2018 | **Signatur:** [BGE 144 IV 345, E. 2.2.3.1–2.2.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_345#e-2-2-3-1)
 
 **Kernsatz:** In dubio pro reo ist eine Entscheidungsregel, keine Beweiswürdigungsregel. Der Grundsatz findet auf die Frage, welche Beweismittel zu berücksichtigen und wie sie zu würdigen sind, keine Anwendung. DNA-Spuren allein beweisen die Täterschaft nicht; sie sind Indizien, die im Rahmen der Gesamtwürdigung zu beurteilen sind. Vor Bundesgericht kann nur das Übersehen offensichtlich erheblicher Zweifel eine Verletzung von Art. 10 Abs. 3 darstellen.
 
 ### 3. BGE 120 Ia 31 — Grundlegendes Urteil zum in-dubio-pro-reo-Grundsatz
 
-**Datum:** 1993 | **Signatur:** BGE 120 Ia 31
+**Datum:** 1993 | **Signatur:** [BGE 120 Ia 31, E. 2b–2d](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_Ia_31#e-2)
 
 **Kernsatz:** Der in-dubio-pro-reo-Grundsatz hat eine Doppelfunktion: Als Beweislastregel bedeutet er, dass die Anklagebehörde die Schuld beweisen muss und das Gericht freisprechen muss, wenn es von den schuldbegründenden Tatsachen nicht überzeugt ist. Als Beweiswürdigungsregel (heute: Entscheidungsregel) gebietet er, bei unüberwindlichen Zweifeln die für die beschuldigte Person günstigere Sachlage zugrunde zu legen. Die Verletzung als Beweislastregel wird in freier Kognition geprüft; als Beweiswürdigungsregel nur im Rahmen der Willkürkontrolle.
 
@@ -175,3 +175,21 @@ agent_verified: true
 **Kernsatz:** Äusserungen eines Mandanten gegenüber seinem Rechtsanwalt sind im Kontext der Anwalt-Mandant-Beziehung zurückhaltend zu beurteilen: Um die freie Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, ist eine Ehrenverletzung in diesem Kontext nur zurückhaltend zu bejahen. Dies folgt aus der Unschuldsvermutung und dem Schutz des Verteidigungsverhältnisses.
 
 *Letzte Aktualisierung: 17. Mai 2026*
+
+---
+
+## Entfernte Einträge
+
+| Entscheid | Tatsächlicher Gegenstand |
+|---|---|
+| [BGE 146 IV 88](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_88) | Verweigerung von Massnahmen zur Feststellung der Fahrunfähigkeit (Art. 91a SVG); Betäubungsmittelvortests nach **Art. 10 Abs. 2 der Strassenverkehrskontrollverordnung**. Der Entscheid erwähnt Art. 10 StPO im gesamten Volltext kein einziges Mal. Er war hier als Leitentscheid Nr. 1 für das dreistufige Modell der Beweiswürdigung geführt. |
+
+## Prüfvermerk
+
+Alle 30 im Kommentar und auf dieser Seite angeführten Referenzen wurden am 22.08.2026 über die opencaselaw-MCP verifiziert; sämtliche existieren.
+
+Die acht im Audit-Bericht gemeldeten Pinpoint-Fehler (BGE 146 IV 88 E. 2, E. 1.3 und E. 2.2.3.1; BGE 140 III 264 E. 5.3; BGE 144 IV 345 E. 1.3; BGer 6B_477/2021 E. 2.2.3; BGer 6B_651/2018 E. 2.2.3.1; BGer 6B_344/2016 E. 2.2.3.1) sind **Paarungsartefakte**: An den betroffenen Stellen führte der Artikel gar keine Erwägungsangaben. Die im Kommentar tatsächlich verwendeten Pinpoints — BGE 144 IV 345 E. 2.2.3 und E. 2.2.3.1, BGE 140 III 264 E. 2.3, BGer 6B_651/2018 E. 1.3.3 — wurden geprüft und treffen zu.
+
+Der einzige echte Belegfehler betraf BGE 146 IV 88 (oben).
+
+*Letzte Aktualisierung: 2026-08-22*
