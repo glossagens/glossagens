@@ -2,17 +2,26 @@
 title: "Art. 264 — Einschränkungen"
 weight: 264
 date: 2025-07-16
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 description: "Kommentar zu Art. 264 StPO – Einschränkungen der Beschlagnahme: Anwaltsgeheimnis, persönliche Aufzeichnungen, Zeugnisverweigerungsrechte, Drittmandate und Siegelungsverfahren"
 tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Verteidigungskorrespondenz"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 25 %): die nicht existierende Fundstelle 1B_627/2019 samt der ihr zugeschriebenen Kernaussage entfernt; die vom Audit als fehlerhaft ausgewiesenen Erwaegungsangaben (BGE 138 IV 225 E. 5.1, BGE 140 IV 28 E. 4, BGE 140 IV 108 E. 4, BGE 141 IV 77 E. 5, BGE 151 IV 344 E. 3 sowie die Pinpoints bei 7B_134/2025 und 7B_734/2025) gestrichen — die Entscheide bleiben zitiert, aber ohne unzutreffende E.-Angabe. agent_verified auf false. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
     note: "Voll-Audit: bger.ch-Links auf OCL umgestellt, relevancy.bger.ch-Links auf OCL umgestellt, frontmatter aktualisiert"
 ---
+
+{{< callout type="warning" >}}
+**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass ein Grossteil der angeführten Belege die zugehörigen Aussagen nicht oder nur teilweise stützt. Eine nicht existierende Fundstelle und die als fehlerhaft erkannten Erwägungsangaben wurden am 21.08.2026 entfernt. Die verbleibenden Verweise sind noch nicht einzeln verifiziert; der Gesetzeswortlaut ist geprüft.
+{{< /callout >}}
 
 ## Gesetzeswortlaut
 
@@ -38,7 +47,7 @@ revisions:
 
 Art. 264 StPO ist die zentrale Norm zum Schutz von Vertrauensverhältnissen im Strafverfahren. Er schützt vor dem Zugriff der Strafverfolgungsbehörden vier Kategorien von Unterlagen und Gegenständen, die untrennbar mit grundrechtlich geschützten Positionen verknüpft sind: die Verteidigungskorrespondenz (lit. a), die persönliche Privatsphäre (lit. b), das Zeugnisverweigerungsrecht (lit. c) und das Anwaltsgeheimnis Dritter (lit. d). Die Norm steht in engem Zusammenhang mit dem Siegelungsverfahren nach [Art. 248 StPO](https://glossagens.ch/kommentar/stpo/art-248/) und den Durchsuchungsvoraussetzungen nach Art. 197 Abs. 1 lit. c und d StPO.
 
-Der Schutzzweck reicht über die blosse Vertraulichkeit hinaus: Art. 264 schützt die Integrität der Verteidigung (Art. 29 Abs. 2 BV, Art. 6 Ziff. 3 EMRK), die Privatsphäre (Art. 13 BV, Art. 8 EMRK) und das Berufsgeheimnis (Art. 321 StGB, Art. 17 Abs. 3 BV). Ohne diesen Schutz wäre eine effektive Verteidigung nicht möglich — die beschuldigte Person müsste befürchten, dass jeder anwaltliche Ratschlag und jede private Notiz in die Hände der Strafverfolgungsbehörden gelangt ([BGE 138 IV 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_225) E. 5.1).
+Der Schutzzweck reicht über die blosse Vertraulichkeit hinaus: Art. 264 schützt die Integrität der Verteidigung (Art. 29 Abs. 2 BV, Art. 6 Ziff. 3 EMRK), die Privatsphäre (Art. 13 BV, Art. 8 EMRK) und das Berufsgeheimnis (Art. 321 StGB, Art. 17 Abs. 3 BV). Ohne diesen Schutz wäre eine effektive Verteidigung nicht möglich — die beschuldigte Person müsste befürchten, dass jeder anwaltliche Ratschlag und jede private Notiz in die Hände der Strafverfolgungsbehörden gelangt ([BGE 138 IV 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_225)).
 
 ### II. Absatz 1 lit. a — Verteidigungskorrespondenz
 
@@ -79,7 +88,7 @@ Bei der Abwägung sind folgende Faktoren zu berücksichtigen:
 - **Bedeutung der Aufzeichnungen als Beweismittel**: Je zentraler die Unterlagen für die Aufklärung der Straftat sind, desto eher überwiegt das Strafverfolgungsinteresse.
 - **Grad der Persönlichkeitsbetroffenheit**: Intimaufzeichnungen, Tagebucheinträge und private Korrespondenz mit Familienangehörigen sind stärker geschützt als Geschäftsnotizen.
 
-Das Bundesgericht hat in [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) (E. 3.2) klargestellt, dass bei der vollständigen Durchsuchung von privat genutzten Smartphones davon auszugehen ist, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO betroffen sind. Die umfassende Aussperrung der Strafverfolgungsbehörden von der Durchsuchung privater elektronischer Geräte verlangt eine differenzierte Siegelung nach Abs. 3 i.V.m. Art. 248 StPO.
+Das Bundesgericht hat in [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) klargestellt, dass bei der vollständigen Durchsuchung von privat genutzten Smartphones davon auszugehen ist, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO betroffen sind. Die umfassende Aussperrung der Strafverfolgungsbehörden von der Durchsuchung privater elektronischer Geräte verlangt eine differenzierte Siegelung nach Abs. 3 i.V.m. Art. 248 StPO.
 
 #### 3. Smartphones und elektronische Geräte
 
@@ -96,7 +105,7 @@ Lit. c schützt **Gegenstände und Unterlagen aus dem Verkehr der beschuldigten 
 - **Medienschaffende** (Art. 172 StPO): Redaktorinnen und Redaktoren über ihre Informantinnen und Informanten
 - **Personen mit beruflicher Geheimhaltungspflicht** (Art. 173 StPO)
 
-Die Voraussetzung, dass die zeugnisverweigerungsberechtigte Person **im gleichen Sachzusammenhang nicht selber beschuldigt** ist, ist eine **zwingende negative Bedingung**: Ist die zeugnisverweigerungsberechtigte Person im gleichen Sachzusammenhang selbst beschuldigt, entfällt der Schutz nach lit. c vollständig. Die beschuldigte Person kann sich nicht auf das Berufsgeheimnis ihres eigenen Anwalts berufen, wenn dieser im gleichen Sachzusammenhang selbst beschuldigt ist ([BGE 141 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77) E. 5.2; [BGer 7B_134/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2025) E. 3.3; [BGer 7B_734/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_734_2025) E. 4.3).
+Die Voraussetzung, dass die zeugnisverweigerungsberechtigte Person **im gleichen Sachzusammenhang nicht selber beschuldigt** ist, ist eine **zwingende negative Bedingung**: Ist die zeugnisverweigerungsberechtigte Person im gleichen Sachzusammenhang selbst beschuldigt, entfällt der Schutz nach lit. c vollständig. Die beschuldigte Person kann sich nicht auf das Berufsgeheimnis ihres eigenen Anwalts berufen, wenn dieser im gleichen Sachzusammenhang selbst beschuldigt ist ([BGE 141 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77); [BGer 7B_134/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2025); [BGer 7B_734/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_734_2025)).
 
 #### 2. Informationsgeheimnis und Medienschaffende
 
@@ -206,7 +215,6 @@ Art. 264 StPO findet auch im Rahmen der internationalen Rechtshilfe in Strafsach
 
 #### Weitere Bundesgerichtsentscheide
 
-- **BGer 1B_627/2019** — Drittmandate im Strafverfahren; Beschlagnahmeverbot für Anwaltsunterlagen bei nicht beschuldigten Drittmandanten.
 - **BGer 1B_371/2022** — Siegelungsverfahren; Verhältnis von Art. 264 Abs. 3 StPO zu Art. 248 StPO.
 - **BGer 7B_134/2025** vom 28. Mai 2026 — Anwälte als beschuldigte Personen i.S.v. Art. 111 StPO. Materieller Beschuldigtenbegriff. Art. 264 Abs. 1 lit. c/d StPO-Schutz entfällt bei Beschuldigteneigenschaft im gleichen Sachzusammenhang.
 - **BGer 7B_734/2025** vom 28. Mai 2026 — Suizidkapsel. Motivsubstitution durch das Bundesgericht zulässig. Vorinstanz wurde gerügt, weil sie den hinreichenden Tatverdacht verneinte, ohne die unterschiedlichen Möglichkeiten der Tatbeteiligung zu prüfen.

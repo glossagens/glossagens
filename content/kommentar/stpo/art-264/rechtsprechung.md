@@ -2,30 +2,45 @@
 title: "Rechtsprechung zu Art. 264 StPO"
 weight: 99
 date: 2025-07-16
-lastmod: "2026-06-24"
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme"
 tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Sofortmassnahme nach Audit (Belegquote 25 %): die nicht existierende Fundstelle 1B_627/2019 samt der ihr zugeschriebenen Kernaussage entfernt; die vom Audit als fehlerhaft ausgewiesenen Erwaegungsangaben (BGE 138 IV 225 E. 5.1, BGE 140 IV 28 E. 4, BGE 140 IV 108 E. 4, BGE 141 IV 77 E. 5, BGE 151 IV 344 E. 3 sowie die Pinpoints bei 7B_134/2025 und 7B_734/2025) gestrichen — die Entscheide bleiben zitiert, aber ohne unzutreffende E.-Angabe. agent_verified auf false. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+  - date: 2026-06-24
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
+
+{{< callout type="warning" >}}
+**Diese Übersicht wird überarbeitet.** Ein Audit vom 20.08.2026 hat einen frei erfundenen Eintrag und mehrere fehlerhafte Erwägungsangaben nachgewiesen; beide wurden am 21.08.2026 entfernt. Die verbleibenden Kernaussagen sind noch nicht einzeln verifiziert.
+{{< /callout >}}
 
 ## Leitentscheide (BGE)
 
-### BGE 138 IV 225, E. 5.1–6.3
+### BGE 138 IV 225
 - **Thema**: Berufsgeheimnis / Entsiegelung von Anwaltsakten
 - **Kernaussage**: Ein in der Sache selbst mitbeschuldigter Anwalt kann sich nicht auf das Beschlagnahmeverbot nach Art. 264 Abs. 1 lit. c StPO berufen. Die Aussonderungspflicht für Drittmandate bleibt jedoch bestehen — Unterlagen aus dem Verkehr mit nicht beschuldigten Mandanten sind durch lit. d geschützt und müssen vor der Freigabe aussortiert werden.
 - **Einschlägig für**: Abs. 1 lit. c und d (Beschuldigteneigenschaft, Drittmandate)
 
-### BGE 140 IV 28, E. 4
+### BGE 140 IV 28
 - **Thema**: Berechtigung zum Siegelungsantrag
 - **Kernaussage**: Zum Zweck eines wirksamen Geheimnisschutzes ist das Recht auf Siegelung gemäss Art. 248 Abs. 1 StPO auf die Berechtigung, sich nach Art. 264 Abs. 1 lit. a–c StPO auf ein Beschlagnahmeverbot zu berufen, beschränkt. Nicht jede beschlagnahmte Person ist zur Siegelung berechtigt.
 - **Einschlägig für**: Abs. 3 (Siegelungsverfahren)
 
-### BGE 140 IV 108, E. 4–6
+### BGE 140 IV 108
 - **Thema**: Beschlagnahmeverbot für Medienschaffende
 - **Kernaussage**: Verbot der Beschlagnahme von Unterlagen aus dem Verkehr des Beschuldigten mit Medienschaffenden nach Art. 264 Abs. 1 lit. c i.V.m. Art. 172 StPO. Das Motiv des Informanten, mithin auch ein allfällig täuschendes Verhalten desselben, ist für die Frage, ob der Quellenschutz ausnahmsweise zu durchbrechen ist, nicht entscheidend.
 - **Einschlägig für**: Abs. 1 lit. c (Medienschaffende, Art. 172 StPO)
 
-### BGE 141 IV 77, E. 5–7
+### BGE 141 IV 77
 - **Thema**: Arzt- und Patientengeheimnis / Entsiegelung ärztlicher Aufzeichnungen
 - **Kernaussage**: Wenn der von den Zwangsmassnahmen unmittelbar betroffene Arzt selbst beschuldigt ist, bildet sein Berufsgeheimnis zwar kein absolutes gesetzliches Beschlagnahmeverbot, aber die Unterlagen unterliegen der Siegelungspflicht nach Abs. 3 i.V.m. Art. 248 StPO. Die Interessenabwägung muss konkret und einzelfallbezogen vorgenommen werden.
 - **Einschlägig für**: Abs. 1 lit. b und c (Arztgeheimnis, Interessenabwägung, Siegelung)
@@ -35,7 +50,7 @@ agent_verified: false
 - **Kernaussage**: Bestätigung und Präzisierung der Praxis aus BGE 140 IV 108. Das Beschlagnahmeverbot nach Art. 264 Abs. 1 lit. c i.V.m. Art. 172 StPO gilt auch für den Verkehr mit Informanten, die nicht professionelle Medienschaffende sind, wenn der Informant als Quelle für die Medienberichterstattung dient. Die Amtsgeheimnisverletzung durch den Informanten hebt den Quellenschutz nicht auf.
 - **Einschlägig für**: Abs. 1 lit. c (Medienschaffende, Art. 172 StPO)
 
-### BGE 151 IV 344, E. 3
+### BGE 151 IV 344
 - **Thema**: Durchsuchung von privat genutzten Smartphones
 - **Kernaussage**: Bei der vollständigen Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO betroffen sind. Die Siegelungspflicht nach Abs. 3 greift ein. Eine undifferenzierte Durchsuchung des gesamten Geräts ohne Rücksicht auf den Persönlichkeitsschutz ist unverhältnismässig.
 - **Einschlägig für**: Abs. 1 lit. b (persönliche Aufzeichnungen, Smartphones) und Abs. 3 (Siegelung)
@@ -43,10 +58,6 @@ agent_verified: false
 ---
 
 ## Weitere Bundesgerichtsentscheide
-
-### BGer 1B_627/2019
-- **Thema**: Drittmandate im Strafverfahren
-- **Kernaussage**: Beschlagnahmeverbot für Anwaltsunterlagen bei nicht beschuldigten Drittmandanten nach Art. 264 Abs. 1 lit. d StPO. Die Aussonderungspflicht für Drittmandate besteht auch bei beschuldigtem Anwalt.
 
 ### BGer 1B_371/2022
 - **Thema**: Siegelungsverfahren
