@@ -5,13 +5,18 @@ date: 2026-07-11
 description: "Kommentar zu Art. 126 StPO – Entscheid über die Zivilklage"
 tags: ["StPO", "Zivilklage", "Zivilanspruch", "Adhäsionsverfahren", "Privatklägerschaft", "Verweisung Zivilweg"]
 agent_verified: true
-mcp_verified: true
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 27 %). Alle 14 Referenzen existieren und treffen thematisch zu. Sechs Erwägungsangaben verwiesen auf Elternnummern, die es im Volltext nicht gibt; sie sind auf die zutreffenden Untererwägungen präzisiert (BGE 146 IV 211 E. 3 → E. 3.1 und E. 4 → E. 4.2.2; 6B_28/2018 E. 2.4 → E. 4.2.3; 6B_1046/2013 E. 2 → E. 2.3 f.; 6B_666/2014 E. 2.1 → E. 4.1; 6B_1202/2019 E. 2 → E. 1.2). Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Artefakt der Schreibweise «a^bis»; der Wortlaut ist korrekt und wurde nur typografisch an Fedlex angeglichen. Unzulässiges Top-Level-Feld mcp_verified entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 ---
 
 ## Gesetzeswortlaut
@@ -26,7 +31,7 @@ lastmod: "2026-08-13"
 >
 > **a.** das Strafverfahren eingestellt wird;
 >
-> **a^bis.** darüber nicht im Strafbefehlsverfahren entschieden werden kann;
+> **abis.** darüber nicht im Strafbefehlsverfahren entschieden werden kann;
 >
 > **b.** die Privatklägerschaft ihre Klage nicht hinreichend begründet oder beziffert hat;
 >
@@ -37,6 +42,8 @@ lastmod: "2026-08-13"
 > **3** Wäre die vollständige Beurteilung des Zivilanspruchs unverhältnismässig aufwendig, so kann das Gericht die Zivilklage nur dem Grundsatz nach entscheiden und sie im Übrigen auf den Zivilweg verweisen. Ansprüche von geringer Höhe beurteilt das Gericht nach Möglichkeit selbst.
 >
 > **4** In Fällen, in denen Opfer beteiligt sind, kann das Gericht vorerst nur den Schuld- und Strafpunkt beurteilen; anschliessend beurteilt die Verfahrensleitung als Einzelgericht nach einer weiteren Parteiverhandlung die Zivilklage, ungeachtet des Streitwerts.
+
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025. Abs. 2 lit. a wurde neu gefasst und lit. abis eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
 
 ## Kommentierung
 
@@ -54,7 +61,7 @@ Die Norm wurde durch das Bundesgesetz vom 17. Juni 2022 (in Kraft seit 1. Januar
 
 Art. 126 Abs. 1 lit. a StPO bestimmt, dass das Gericht über die anhängig gemachte Zivilklage entscheidet, wenn es die beschuldigte Person schuldig spricht. Diese Regelung ist zwingender Natur: Spricht das Gericht die beschuldigte Person schuldig, so ist es verpflichtet, über die hinreichend begründeten und bezifferten Schadenersatzforderungen zu entscheiden. Eine Verweisung auf den Zivilweg ist bei Schuldspruch grundsätzlich nicht zulässig.^4
 
-Das Bundesgericht hat dies in [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3 unmissverständlich klargestellt: «Soweit das Gericht die beschuldigte Person schuldig spricht, ist der Entscheid über die anhängig gemachten Schadenersatzforderungen, soweit sie hinreichend begründet und beziffert sind, zwingend.» Eine Verletzung von Art. 126 Abs. 1 lit. a StPO kann mit Beschwerde geltend gemacht werden.^5
+Das Bundesgericht hat dies in [BGE 146 IV 211, E. 3.1 f.](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211#e-3-1) unmissverständlich klargestellt: «Soweit das Gericht die beschuldigte Person schuldig spricht, ist der Entscheid über die anhängig gemachten Schadenersatzforderungen, soweit sie hinreichend begründet und beziffert sind, zwingend.» Eine Verletzung von Art. 126 Abs. 1 lit. a StPO kann mit Beschwerde geltend gemacht werden.^5
 
 #### 2. Voraussetzung: Hinreichende Begründung und Bezifferung
 
@@ -62,7 +69,7 @@ Der zwingende Entscheid bei Schuldspruch setzt voraus, dass die Zivilklage hinre
 
 #### 3. Haftung des Geldwäschers für Vortatsschaden
 
-In [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 4 hat das Bundesgericht zudem festgehalten, dass der Tatbestand der Geldwäscherei (Art. 305^bis Ziff. 2 StGB) in Fällen, in denen die der Einziehung unterliegenden Vermögenswerte aus Delikten gegen das Vermögen herrühren, neben dem Einziehungsinteresse des Staates auch dem Schutz der individuell durch die Vortat geschädigten Person dient. Die Haftung des Geldwäschers erstreckt sich auch auf den durch die Vortat verursachten Schaden im Umfang der Vermögenswerte, deren Einziehung durch die Geldwäscherei vereitelt worden ist. Dies erweitert den Anwendungsbereich von Art. 126 Abs. 1 lit. a StPO im Bereich der Wirtschaftskriminalität erheblich.^7
+In [BGE 146 IV 211, E. 4.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211#e-4-2-2) hat das Bundesgericht zudem festgehalten, dass der Tatbestand der Geldwäscherei (Art. 305^bis Ziff. 2 StGB) in Fällen, in denen die der Einziehung unterliegenden Vermögenswerte aus Delikten gegen das Vermögen herrühren, neben dem Einziehungsinteresse des Staates auch dem Schutz der individuell durch die Vortat geschädigten Person dient. Die Haftung des Geldwäschers erstreckt sich auch auf den durch die Vortat verursachten Schaden im Umfang der Vermögenswerte, deren Einziehung durch die Geldwäscherei vereitelt worden ist. Dies erweitert den Anwendungsbereich von Art. 126 Abs. 1 lit. a StPO im Bereich der Wirtschaftskriminalität erheblich.^7
 
 #### 4. Massgeblicher Schuldspruch und Strafbefehl
 
@@ -114,7 +121,7 @@ Das Bundesgericht hat in [BGer 6B_694/2012 vom 27. Juni 2013](https://mcp.openca
 
 #### 2. Ansprüche geringer Höhe
 
-Abs. 3 Satz 2 bestimmt, dass das Gericht Ansprüche von geringer Höhe nach Möglichkeit selbst beurteilt. Diese Bestimmung drückt den Vorrang der adhäsionsweisen Beurteilung bei geringfügigen Ansprüchen aus. Das Bundesgericht hat dies in [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) bestätigt: Die kantonalen Instanzen dürfen die Zivilklage dem Grundsatz nach gutheissen und gemäss Art. 126 Abs. 3 StPO zur vollständigen Beurteilung auf den Zivilweg verweisen. Hat die Privatklägerschaft im Zivilpunkt obsiegt, so hat sie auch in dieser Hinsicht Anspruch auf eine Parteientschädigung.^19
+Abs. 3 Satz 2 bestimmt, dass das Gericht Ansprüche von geringer Höhe nach Möglichkeit selbst beurteilt. Diese Bestimmung drückt den Vorrang der adhäsionsweisen Beurteilung bei geringfügigen Ansprüchen aus. Das Bundesgericht hat dies in [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) bestätigt: «Die Privatklägerschaft obsiegt, wenn im Falle der Strafklage die beschuldigte Person schuldig gesprochen und/oder wenn im Falle der Zivilklage die Zivilforderung geschützt wird» (E. 2.3). Wird die Zivilklage dem Grundsatz nach gutgeheissen und im Übrigen nach Art. 126 Abs. 3 StPO auf den Zivilweg verwiesen, hat die Privatklägerschaft auch im Zivilpunkt Anspruch auf eine Parteientschädigung nach Art. 433 Abs. 1 lit. a StPO.^19
 
 #### 3. Aufteilung Straf-/Zivilpunkt und Parteientschädigung
 
@@ -128,7 +135,7 @@ Art. 126 Abs. 4 StPO erlaubt dem Gericht, in Fällen mit Opferbeteiligung vorers
 
 #### 2. Praktische Anwendung bei grosser Anzahl Privatkläger
 
-Das Bundesgericht hat in [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 2.4 eine Anwendung von Art. 126 Abs. 4 StPO bei einer hohen Anzahl von 1'300 Personen, die sich im Vorverfahren als Privatkläger konstituiert hatten, als sachlich begründet erachtet. Die Vorinstanz hatte die Urteilseröffnung im Schuld- und Strafpunkt vorgezogen und die Eröffnung des Entscheids im Zivilpunkt auf einen späteren Zeitpunkt verschoben. Dies war bei dieser aussergewöhnlichen Anzahl zu beurteilender Schadenersatzklagen sachlich begründet.^21
+Das Bundesgericht hat in [BGer 6B_28/2018 vom 7. August 2018, E. 4.2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-4-2-3) eine Anwendung von Art. 126 Abs. 4 StPO bei einer hohen Anzahl von 1'300 Personen, die sich im Vorverfahren als Privatkläger konstituiert hatten, als sachlich begründet erachtet. Die Vorinstanz hatte die Urteilseröffnung im Schuld- und Strafpunkt vorgezogen und die Eröffnung des Entscheids im Zivilpunkt auf einen späteren Zeitpunkt verschoben. Dies war bei dieser aussergewöhnlichen Anzahl zu beurteilender Schadenersatzklagen sachlich begründet.^21
 
 #### 3. Einzelgericht als Verfahrensleitung
 
@@ -169,13 +176,13 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat Art. 126 St
 
 ---
 
-^1 Vgl. [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3; [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 4.3.
+^1 Vgl. [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1; [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 4.3.
 ^2 OpenCaseLaw, leading-cases für Art. 126 StPO (Stand Juli 2026): 996 Zitationen (BGE 139 IV 102 als meistzitierter Entscheid).
 ^3 Botschaft vom 28. August 2019 zur Änderung der StPO, BBl 2019 6697 ff.; AS 2023 468.
-^4 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.
-^5 [BGer 6B_1202/2019 vom 9. Juli 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1202_2019) E. 2.
-^6 [BGer 6B_666/2014 vom 16. Dezember 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_666_2014) E. 2.1.
-^7 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 4.
+^4 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1 f.
+^5 [BGer 6B_1202/2019 vom 9. Juli 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1202_2019) E. 1.2.
+^6 [BGer 6B_666/2014 vom 16. Dezember 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_666_2014) E. 4.1.
+^7 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 4.2.2.
 ^8 [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 4.3 und 4.4.
 ^9 [BGer 6B_1421/2021 vom 25. Mai 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_1421_2021) E. 6.1.
 ^10 [BGer 7B_269/2022 vom 11. Juni 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_269_2022) E. 4.2.1.
@@ -183,11 +190,11 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat Art. 126 St
 ^12 [BGer 6B_981/2017 vom 7. Februar 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_981_2017) E. 1.
 ^13 [BGer 6B_75/2014 vom 30. September 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_75_2014) E. 2.4.2 und 2.4.3.
 ^14 [BGer 6B_1421/2021 vom 25. Mai 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_1421_2021) E. 6.2.
-^15 [BGer 6B_666/2014 vom 16. Dezember 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_666_2014) E. 2.1.
+^15 [BGer 6B_666/2014 vom 16. Dezember 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_666_2014) E. 4.1.
 ^16 [BGer 7B_269/2022 vom 11. Juni 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_269_2022) E. 4.2.1.
-^17 [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) E. 2.
+^17 [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) E. 2.3 f.
 ^18 [BGer 6B_694/2012 vom 27. Juni 2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_694_2012) E. 3.4.
-^19 [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) E. 2.
-^20 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 2.4.
-^21 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 2.4.
-^22 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 2.4.
+^19 [BGer 6B_1046/2013 vom 14. Mai 2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013) E. 2.3 f.
+^20 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.
+^21 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.
+^22 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.

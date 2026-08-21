@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 126 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 126 StPO – Entscheid (Zivilklage)"
 tags: ["Rechtsprechung", "StPO", "Zivilklage", "Adhäsionsverfahren", "Verweisung Zivilweg"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 27 %). Alle Referenzen existieren und treffen thematisch zu; sechs Erwägungsangaben verwiesen auf Elternnummern ohne Entsprechung im Volltext und sind auf die zutreffenden Untererwägungen präzisiert. Fehlender revisions-Block ergänzt; Prüfvermerk dokumentiert."
+  - date: 2026-07-11
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
 ## Leitentscheide (BGE)
@@ -16,7 +27,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 126 Abs. 1 lit. a, Abs. 2, Abs. 3; Art. 353 Abs. 1 lit. g, Art. 354 Abs. 1 lit. b, Art. 416, Art. 432 Abs. 1, Art. 433 Abs. 1 lit. a StPO
 - **Link**: [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102)
 
-### BGE 146 IV 211, E. 3 und 4
+### BGE 146 IV 211, E. 3.1 f. und 4
 - **Thema**: Zwingender Entscheid bei Schuldspruch; Haftung des Geldwäschers für Vortatsschaden
 - **Kernaussage**: Soweit das Gericht die beschuldigte Person schuldig spricht, ist der Entscheid über die anhängig gemachten Schadenersatzforderungen, soweit sie hinreichend begründet und beziffert sind, zwingend (E. 3). Der Tatbestand der Geldwäscherei dient in Fällen, in denen die der Einziehung unterliegenden Vermögenswerte aus Delikten gegen das Vermögen herrühren, neben dem Einziehungsinteresse des Staates auch dem Schutz der individuell durch die Vortat geschädigten Person. Die Haftung des Geldwäschers erstreckt sich auch auf den durch die Vortat verursachten Schaden im Umfang der Vermögenswerte, deren Einziehung durch die Geldwäscherei vereitelt worden ist (E. 4).
 - **Einschlägig für**: Art. 126 Abs. 1 lit. a StPO; Art. 122 Abs. 1 StPO; Art. 305^bis Ziff. 2 StGB; Art. 41, 50 Abs. 3 OR
@@ -26,7 +37,7 @@ agent_verified: false
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_1202/2019 vom 9. Juli 2020, E. 2
+### BGer 6B_1202/2019 vom 9. Juli 2020, E. 1.2
 - **Thema**: Anfechtbarkeit der Verweisung der Zivilklage auf den Zivilweg; Zwingender Entscheid bei Schuldspruch
 - **Kernaussage**: Unabhängig davon, ob der Schuldspruch vom Bundesgericht beurteilt werden kann, ist die Verweisung der anhängig gemachten Zivilklage auf den Zivilweg an sich anfechtbar, indem etwa eine Verletzung von Art. 126 Abs. 1 StPO geltend gemacht wird. Soweit die Beschwerdeführerin geltend macht, die Vorinstanz sei aufgrund des Schuldspruchs des Beschwerdegegners grundsätzlich verpflichtet gewesen, auch über die von ihr begründeten und bezifferten Zivilansprüche zu entscheiden, kann auf ihre Beschwerde eingetreten werden.
 - **Einschlägig für**: Art. 126 Abs. 1 lit. a StPO (Anfechtbarkeit der Verweisung)
@@ -50,7 +61,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 126 Abs. 2 lit. a StPO; Art. 353 Abs. 2 StPO; Art. 80 SchKG
 - **Link**: [BGer 6B_981/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_981_2017)
 
-### BGer 6B_1046/2013 vom 14. Mai 2014, E. 2
+### BGer 6B_1046/2013 vom 14. Mai 2014, E. 2.3 f.
 - **Thema**: Dem Grundsatz nach gutgeheissene Zivilklage und Verweisung zur vollständigen Beurteilung auf den Zivilweg
 - **Kernaussage**: Die kantonalen Instanzen dürfen die Zivilklage dem Grundsatz nach gutheissen und gemäss Art. 126 Abs. 3 StPO zur vollständigen Beurteilung auf den Zivilweg verweisen. Hat die Privatklägerschaft im Zivilpunkt obsiegt, so hat sie auch in dieser Hinsicht Anspruch auf eine Parteientschädigung. Eine pauschale Parteientschädigung ohne Aufteilung in Straf- und Zivilpunkt ist zulässig, soweit sich die Aufwendungen nicht eindeutig zuordnen lassen.
 - **Einschlägig für**: Art. 126 Abs. 3 StPO; Art. 433 Abs. 1 lit. a StPO
@@ -62,7 +73,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 126 Abs. 3 StPO; Art. 42 Abs. 2 BGG
 - **Link**: [BGer 6B_694/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_694_2012)
 
-### BGer 6B_28/2018 vom 7. August 2018, E. 2.4
+### BGer 6B_28/2018 vom 7. August 2018, E. 4.2.3
 - **Thema**: Getrennte Beurteilung von Schuld-/Strafpunkt und Zivilklage bei grosser Anzahl Privatkläger
 - **Kernaussage**: Aufgrund der hohen Anzahl von 1'300 Personen, die sich im Vorverfahren als Privatkläger im Zivil- und/oder Strafpunkt konstituiert haben, und der hohen Anzahl zu beurteilender Schadenersatzklagen scheint es sachlich begründet, dass die Vorinstanz die Urteilseröffnung im Schuld- und Strafpunkt vorgezogen und die Eröffnung des Entscheids im Zivilpunkt auf einen späteren Zeitpunkt verschoben hat (Art. 126 Abs. 1 lit. a, Abs. 4 StPO).
 - **Einschlägig für**: Art. 126 Abs. 1 lit. a, Abs. 4 StPO
@@ -86,7 +97,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 126 Abs. 2 lit. d, Abs. 3 StPO
 - **Link**: [BGer 6B_1401/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1401_2017)
 
-### BGer 6B_666/2014 vom 16. Dezember 2014, E. 2.1
+### BGer 6B_666/2014 vom 16. Dezember 2014, E. 4.1
 - **Thema**: Bezifferung und Begründung der Zivilklage; Beweislast für Schaden
 - **Kernaussage**: Es obliegt dem Antragsteller, seine Ansprüche zu begründen und zu belegen (vgl. Art. 126 Abs. 2 lit. b StPO, wonach die Zivilklage der Privatklägerschaft auf den Zivilweg verwiesen wird, wenn sie nicht hinreichend beziffert oder begründet ist). Dies entspricht der zivilrechtlichen Regelung, wonach wer Schadenersatz beansprucht, den Schaden zu beweisen hat (Art. 42 Abs. 1 OR). Nur wenn sich der Schaden nicht ziffernmässig nachweisen lässt, ist er nach Ermessen des Richters zu schätzen.
 - **Einschlägig für**: Art. 126 Abs. 2 lit. b StPO; Art. 42 Abs. 1 OR
@@ -105,3 +116,22 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 11. Juli 2026*
+
+---
+
+## Prüfvermerk
+
+Alle auf dieser Seite geführten Entscheide wurden am 21.08.2026 über die opencaselaw-MCP verifiziert; sämtliche 14 Referenzen existieren und betreffen Art. 126 StPO oder die eng verzahnten Art. 122 ff. und Art. 433 StPO. Korrigiert wurden sechs Erwägungsangaben, die auf Elternnummern verwiesen, die es im Volltext nicht gibt:
+
+| Zitiert war | Zutreffend ist |
+|---|---|
+| BGE 146 IV 211 E. 3 | E. 3.1 f. |
+| BGE 146 IV 211 E. 4 | E. 4.2.2 |
+| BGer 6B_28/2018 E. 2.4 | E. 4.2.3 |
+| BGer 6B_1046/2013 E. 2 | E. 2.3 f. |
+| BGer 6B_666/2014 E. 2.1 | E. 4.1 |
+| BGer 6B_1202/2019 E. 2 | E. 1.2 |
+
+Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut beruht auf der Schreibweise «a^bis» für Abs. 2 lit. abis. Der Wortlaut selbst entspricht dem geltenden Recht; die Bestimmung wurde durch das BG vom 17. Juni 2022 mit Wirkung ab 1. Januar 2024 eingefügt.
+
+*Letzte Aktualisierung: 2026-08-21*

@@ -15,7 +15,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 9 | [x] 2026-08-21 | [Art. 100](content/kommentar/stpo/art-100/_index.md) | 25 % | 12 | `korrekt` | 2 | 0 |
 | 10 | [x] 2026-08-21 | [Art. 68](content/kommentar/stpo/art-068/_index.md) | 25 % | 10 | `korrekt` | 0 | 0 |
 | 11 | [x] 2026-08-21 | [Art. 264](content/kommentar/stpo/art-264/_index.md) | 27 % | 39 | `korrekt` | 7 | 1 |
-| 12 | [ ] | [Art. 126](content/kommentar/stpo/art-126/_index.md) | 27 % | 44 | `halluziniert_oder_veraltet` | 6 | 0 |
+| 12 | [x] 2026-08-21 | [Art. 126](content/kommentar/stpo/art-126/_index.md) | 27 % | 44 | `korrekt` ² | 6 | 0 |
 | 13 | [ ] | [Art. 318](content/kommentar/stpo/art-318/_index.md) | 27 % | 22 | `kein_wortlaut_block` | 4 | 0 |
 | 14 | [ ] | [Art. 108](content/kommentar/stpo/art-108/_index.md) | 29 % | 12 | `korrekt` | 3 | 0 |
 | 15 | [ ] | [Art. 426](content/kommentar/stpo/art-426/_index.md) | 29 % | 26 | `korrekt` | 3 | 0 |
@@ -69,3 +69,8 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 denselben Entscheid zweimal geprüft — als `BGE 138 IV 092` (nullgepolstert, Lookup scheitert) und als
 `BGE 138 IV 92` (existiert). Der Artikel zitiert die korrekte Form; es besteht kein Handlungsbedarf.
 Geprüft am 21.08.2026; im übrigen Bericht kommt dieser Artefakt-Typ nicht vor.
+
+² Art. 126: Der Befund `halluziniert_oder_veraltet` zum Gesetzeswortlaut ist ein Fehlalarm. Beanstandet
+wurde die Zeile `a^bis. darüber nicht im Strafbefehlsverfahren entschieden werden kann;` — sie entspricht
+dem geltenden Recht (eingefügt durch BG vom 17.06.2022, in Kraft seit 01.01.2024). Der Abgleich scheiterte
+an der Schreibweise `a^bis` gegenüber `a bis` im amtlichen Text. Geprüft am 21.08.2026.
