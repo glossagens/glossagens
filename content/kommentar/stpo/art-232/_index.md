@@ -1,160 +1,115 @@
 ---
-title: "Art. 232 — Sicherheitshaft im Berufungsverfahren"
+title: "Art. 232 StPO — Sicherheitshaft während eines Verfahrens vor dem Berufungsgericht"
 weight: 232
 date: 2026-08-09
 lastmod: 2026-08-21
-description: "Kommentar zu Art. 232 StPO – Sicherheitshaft im Berufungsverfahren: Voraussetzungen, Haftgründe, Verhältnismässigkeit, Haftdauer"
-tags: ["StPO", "Sicherheitshaft", "Berufungsverfahren", "Haftgründe", "Fluchtgefahr", "Kollusionsgefahr", "Verhältnismässigkeit", "Haftprüfung"]
-agent_verified: false
+description: "Kommentar zu Art. 232 StPO: erstmalige Anordnung von Sicherheitshaft bei neu auftretenden Haftgründen im Berufungsverfahren — Zuständigkeit der Verfahrensleitung, Vorführung und Anhörung, 48-Stunden-Frist, Begründungsanforderungen und Anfechtbarkeit."
+tags: ["StPO", "Sicherheitshaft", "Berufungsverfahren", "Verfahrensleitung", "Vorführung", "Begründungspflicht", "Haftgründe"]
+agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 13 %). Der Artikel kommentierte die falsche Norm: Der wiedergegebene Gesetzeswortlaut («Das Berufungsgericht kann die Sicherheitshaft anordnen, wenn …») findet sich nirgends in der StPO. Art. 232 regelt die erstmalige Haftanordnung bei erst im Berufungsverfahren auftretenden Haftgründen. Wortlaut via get_law ersetzt, Kommentierung vollständig neu geschrieben und mit BGE 138 IV 81, BGE 139 IV 277, BGer 7B_793/2024, BGer 7B_358/2025 und BGE 150 IV 38 belegt."
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
     mcp_verified: false
-    note: "Sofortmassnahme nach Audit (Belegquote 13 %): fuenf nicht existierende BGE (139 IV 38, 140 IV 269, 141 IV 96, 143 IV 237, 144 IV 307) samt der ihnen zugeschriebenen Kernaussagen entfernt; agent_verified auf false zurueckgestuft. Der wiedergegebene Gesetzeswortlaut deckt sich laut Audit nicht mit dem amtlichen Text und ist noch zu korrigieren. Der inhaltliche Overhaul steht aus — die opencaselaw-MCP war am 21.08.2026 nicht erreichbar."
+    note: "Sofortmassnahme: fünf nicht existierende BGE entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
+    mcp_verified: false
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter konsistenzgeprüft"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
-    note: "Ersterstellung des Kommentars zu Art. 232 StPO – Sicherheitshaft im Berufungsverfahren"
+    mcp_verified: false
+    note: "Ersterstellung des Kommentars zu Art. 232 StPO"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 232 StPO — Sicherheitshaft im Berufungsverfahren**
+> **Art. 232 StPO — Sicherheitshaft während eines Verfahrens vor dem Berufungsgericht**
 >
-> 1 Das Berufungsgericht kann die Sicherheitshaft anordnen, wenn:
-> a. die Voraussetzungen nach den Artikeln 221–223 erfüllt sind; und
-> b. die Sicherheitshaft im erstinstanzlichen Verfahren angeordnet war oder die Voraussetzungen für eine solche vorliegen.
+> 1 Ergeben sich Haftgründe erst während eines Verfahrens vor dem Berufungsgericht, so lässt die Verfahrensleitung des Berufungsgerichts die in Haft zu setzende Person unverzüglich vorführen und hört sie an.
 >
-> 2 Artikel 224 Absatz 3 bleibt vorbehalten.
+> 2 Sie entscheidet innert 48 Stunden seit der Zuführung; dieser Entscheid ist nicht anfechtbar.
 
-{{< callout type="warning" >}}
-**Dieser Kommentar wird überarbeitet.** Ein Audit vom 20.08.2026 hat ergeben, dass der oben wiedergegebene Gesetzeswortlaut nicht dem amtlichen Text entspricht — er ist vor der Verwendung am Fedlex-Stand zu prüfen. Zudem stützte ein Grossteil der ursprünglichen Belege die zugehörigen Aussagen nicht; fünf nicht existierende BGE wurden am 21.08.2026 entfernt. Die verbleibenden Entscheidverweise sind noch nicht einzeln verifiziert.
-{{< /callout >}}
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+
+## Überblick und Bedeutung
+
+Art. 232 StPO schliesst eine schmale, aber praktisch wichtige Lücke im Haftrecht. Die Sicherheitshaft im Rechtsmittelstadium ist im Grundsatz in Art. 231 StPO geregelt: Das erstinstanzliche Gericht entscheidet mit dem Urteil, ob die verurteilte Person in Sicherheitshaft zu setzen oder zu behalten ist. Was aber, wenn ein Haftgrund erst später entsteht — wenn sich also während des hängigen Berufungsverfahrens erstmals Fluchtgefahr oder eine andere Haftvoraussetzung abzeichnet? Für diesen Fall gibt Art. 232 StPO der Verfahrensleitung des Berufungsgerichts die Kompetenz, die betroffene Person vorführen zu lassen, sie anzuhören und innert 48 Stunden über die Haft zu entscheiden.
+
+Die Norm ist damit **keine** allgemeine Grundlage der Sicherheitshaft im Berufungsverfahren, sondern die Sonderregel für die **erstmalige** Haftanordnung nach Rechtshängigkeit der Berufung.
 
 ## Kommentierung
 
-### Bedeutung
+### A. Anwendungsbereich: erstmalige Haftanordnung
 
-Art. 232 StPO regelt die **Sicherheitshaft im Berufungsverfahren** als spezialisierte Fortsetzung der Untersuchungshaft. Er stellt klar, dass die Haftgründe des erstinstanzlichen Verfahrens (Art. 221–223 StPO) auch im Berufungsverfahren gelten, und schafft eine eigenständige Rechtsgrundlage für die Haftfortdauer oder Neuhaftanordnung während des Berufungsverfahrens. Die Bestimmung ist Ausdruck des **Legalitätsprinzips** (Art. 5 Abs. 1 BV, Art. 5 Ziff. 1 EMRK) und des **Verhältnismässigkeitsgebots** bei Freiheitsentzug.
+Das Bundesgericht grenzt den Anwendungsbereich präzise ab:
 
-### I. Voraussetzungen
+> «Ergeben sich Haftgründe erst während eines Verfahrens vor dem Berufungsgericht, sieht Art. 232 Abs. 1 StPO — entsprechend dem Grundsatz von Art. 31 Abs. 3 BV — vor, dass die Verfahrensleitung des Berufungsgerichts die in Haft zu setzende Person unverzüglich vorführen lässt und sie anhört. Die Bestimmung betrifft die erstmalige Anordnung von Sicherheitshaft nach Rechtshängigkeit des Berufungsverfahrens.»
 
-#### 1. Haftgründe nach Art. 221–223 StPO
+([BGer 7B_793/2024 vom 31. Juli 2024, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_793_2024#e-2-3-2), mit Hinweis auf Forster, BSK StPO, 3. Aufl. 2023, N. 1 zu Art. 232 StPO).
 
-Die Sicherheitshaft im Berufungsverfahren setzt voraus, dass die allgemeinen Haftgründe nach Art. 221–223 StPO erfüllt sind:
+**Nicht erfasst** sind Konstellationen, in denen sich die betroffene Person bereits in strafprozessualer Haft befindet. Das ergibt sich schon aus dem Wortlaut: Die Wendungen «Ergeben sich Haftgründe erst» und «die in Haft zu setzende Person» setzen voraus, dass zuvor keine Haft bestand. Bei Art. 232 StPO geht es darum, «eine Person wegen neuer Tatsachen, die während des Berufungsverfahrens aufgetreten seien, in Haft zu versetzen» ([BGE 139 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_277), E. 2.2, zitiert in [BGer 7B_793/2024 vom 31. Juli 2024, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_793_2024#e-2-3-2)).
 
-- **Fluchtgefahr** (Art. 221 Abs. 1 StPO): Die beschuldigte Person entzieht sich dem Verfahren oder besteht konkreter Verdacht, dass sie sich entziehen wird ([BGE 138 IV 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_161)).
+Bestand bereits Untersuchungshaft oder vorzeitiger Strafvollzug, handelt es sich bei der Anordnung von Sicherheitshaft faktisch um eine **Haftverlängerung**. Dafür sieht Art. 229 Abs. 3 lit. b i.V.m. Art. 227 Abs. 6 StPO im Grundsatz das schriftliche Verfahren vor — eine Vorführung nach Art. 232 Abs. 1 StPO ist dann nicht geboten (a.a.O., E. 2.3.2 f.). Die Abgrenzung entscheidet also darüber, ob die betroffene Person Anspruch auf eine mündliche Vorführung hat.
 
-- **Kollusionsgefahr** (Art. 221 Abs. 2 StPO): Die beschuldigte Person beeinflusst oder vernichtet Beweismittel oder beeinträchtigt Mitbeschuldigte, Zeugen oder Sachverständige ([BGE 146 IV 68](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_68)).
+### B. Zuständigkeit
 
-- **Schwere der Tat und Deliktskatalog** (Art. 221 Abs. 3 StPO): Mindeststrafe von 1 Jahr Freiheitsstrafe oder fortlaufende Tatausführung.
+Zuständig ist nach dem Wortlaut die **Verfahrensleitung** des Berufungsgerichts, also dessen Präsidium. Das schliesst einen Entscheid des Gerichts in seiner vollen Besetzung aber nicht aus:
 
-- **Wiederholungsgefahr** (Art. 223 StPO): Bei bestimmten Delikten (Sexualdelikte, Gewaltdelikte gegen Leib und Leben) besteht die Gefahr weiterer Taten.
+> «Obwohl nach Art. 232 StPO die Verfahrensleitung, d.h. der Präsident des Berufungsgerichts zur Anordnung der Sicherheitshaft zuständig ist, kann darüber auch das Berufungsgericht in corpore entscheiden (E. 2.1).»
 
-#### 2. Anordnung im erstinstanzlichen Verfahren oder neue Haftgründe
+([BGE 138 IV 81](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_81), Regeste). Die Wahrnehmung der Haftzuständigkeit ist mit der sachrichterlichen Tätigkeit vereinbar; sie begründet für sich allein keinen Ausstandsgrund (vgl. [BStGer CN.2020.5 vom 12. Januar 2021](https://mcp.opencaselaw.ch/entscheid/bstger_CN.2020.5), E. 6, mit Hinweis auf Art. 61 lit. c, Art. 62, Art. 231 Abs. 2, Art. 232, Art. 233 und Art. 388 lit. b StPO).
 
-Art. 232 Abs. 1 lit. b StPO stellt zwei alternative Voraussetzungen auf:
+### C. Verfahren: Vorführung, Anhörung, 48 Stunden
 
-- **Alternative 1**: Die Sicherheitshaft war im **erstinstanzlichen Verfahren angeordnet**. Dies bedeutet, dass eine bestehende Haft ohne neue Haftgründe im Berufungsverfahren fortgesetzt werden kann, wenn die Haftgründe weiterhin bestehen.
+Abs. 1 verlangt die **unverzügliche Vorführung** und die **Anhörung** der betroffenen Person. Das Bundesgericht führt dieses Erfordernis ausdrücklich auf Art. 31 Abs. 3 BV zurück — den Anspruch jeder in Untersuchungshaft genommenen Person, unverzüglich einer Richterin oder einem Richter vorgeführt zu werden ([BGer 7B_793/2024 vom 31. Juli 2024, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_793_2024#e-2-3-2)).
 
-- **Alternative 2**: Die **Voraussetzungen für eine Sicherheitshaft liegen vor**, auch wenn im erstinstanzlichen Verfahren keine Haft angeordnet war. Dies ermöglicht die **Neuhaftanordnung** im Berufungsverfahren, etwa wenn sich neue Haftgründe ergeben haben.
+Die Verfahrensleitung entscheidet innert **48 Stunden seit der Zuführung** (Abs. 2). Die Frist ist kurz bemessen und knüpft an die Zuführung an, nicht an die Anhörung oder an das Entstehen des Haftgrundes.
 
-### II. Zuständigkeit
+### D. Materielle Voraussetzungen
 
-#### 1. Berufungsgericht
+Art. 232 StPO regelt Zuständigkeit und Verfahren, nicht die Haftvoraussetzungen. Massgebend bleiben die allgemeinen Grundvoraussetzungen der strafprozessualen Haft nach Art. 221 StPO — dringender Tatverdacht auf ein Verbrechen oder Vergehen und ein besonderer Haftgrund (so ausdrücklich [Kantonsgericht VS, P2 22 48 vom 19. April 2024](https://mcp.opencaselaw.ch/entscheid/vs_gerichte_P2%2022%2048), E. 1.1, unter Verweis auf Forster, BSK StPO, 3. Aufl. 2023, N. 2 zu Art. 232 StPO). Ebenso gelten die Verhältnismässigkeit und der Vorrang von Ersatzmassnahmen (Art. 197 und Art. 237 StPO).
 
-Die **Zuständigkeit** für die Haftanordnung im Berufungsverfahren liegt beim **Berufungsgericht** (Art. 232 Abs. 1 StPO). Das Berufungsgericht entscheidet als Sachgericht und kann die Haft unabhängig vom erstinstanzlichen Haftentscheid anordnen oder bestätigen.
+### E. Begründungsanforderungen
 
-#### 2. Beschwerde in Strafsachen
+Die praktisch folgenreichste Rechtsprechung betrifft die Begründung des Haftentscheids. [BGE 138 IV 81](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_81) hält im Regeste fest:
 
-Gegen Haftentscheide des Berufungsgerichts ist die **Beschwerde in Strafsachen** an das Bundesgericht zulässig (Art. 78 ff. BGG). Das Bundesgericht übt keine Sachprüfung, sondern lediglich eine **Rechtsprüfung** (Art. 95 BGG) bzw. **Willkürkontrolle** (Art. 97 BGG) aus ([BGE 147 IV 534](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_534)).
+> «Der Entscheid muss den Anforderungen des analog anwendbaren Art. 226 Abs. 2 StPO genügen. Für die Begründung sind die aus dem Anspruch auf rechtliches Gehör gemäss Art. 29 Abs. 2 BV und Art. 3 Abs. 2 lit. c StPO abgeleiteten Regeln massgebend (E. 2.2). Mit diesen Anforderungen nicht vereinbar ist die Haftanordnung im Dispositiv eines Berufungsentscheids, dessen Begründung drei Wochen später zugestellt wird (E. 2.3). Folgen der Verletzung der Begründungspflicht (E. 2.4). Wird die Haft im Rahmen eines Berufungsentscheids angeordnet, der zunächst nur im Dispositiv eröffnet wird, so muss der Haftentscheid als separate schriftliche Verfügung mit zumindest kurzer Begründung ausgefertigt werden.»
 
-### III. Verhältnismässigkeit
+Für die Praxis heisst das: Ein blosser Dispositivsatz «X wird in Sicherheitshaft versetzt» genügt nicht. Wird das Berufungsurteil zunächst nur im Dispositiv eröffnet, ist der Haftentscheid **separat** und wenigstens kurz begründet auszufertigen und innert kürzester Frist zu eröffnen.
 
-#### 1. Grundsatz
+### F. Haft nach Erlass des Berufungsurteils
 
-Die Sicherheitshaft ist ein **ultima ratio**-Eingriff in die persönliche Freiheit (Art. 10 Abs. 2 BV, Art. 5 EMRK). Sie darf nur angeordnet werden, wenn weniger einschneidende Massnahmen (z.B. Ausweisungspflicht, Meldepflicht, Kaution) nicht geeignet sind, den Haftgrund abzuwenden ([BGE 148 IV 329](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_329)).
+[BGE 139 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_277) klärt die Anschlussfrage, wie die Haft nach dem Berufungsurteil zu handhaben ist. Der Regeste:
 
-#### 2. Haftdauer
+> «Art. 232 und 388 lit. b StPO; Haft nach Erlass des Berufungsurteils. Das Berufungsgericht muss sich im Urteil zur Frage der Haft aussprechen (E. 2.1-2.3). Die Verfahrensleitung des Berufungsgerichts kann noch nachträglich über diese Frage entscheiden, gestützt auf Art. 232 StPO (E. 2.4). Sie kann zuvor vorsorgliche Massnahmen i.S. von Art. 388 lit. b StPO anordnen (E. 2.5).»
 
-Die **Haftdauer** im Berufungsverfahren ist an die allgemeinen Haftfristen gebunden (Art. 224–229 StPO). Die Dauer der erstinstanzlichen Haft wird auf die Berufungshaft angerechnet. Die Gesamtshaftdauer muss verhältnismässig bleiben, insbesondere im Hinblick auf die zu erwartende Strafe.
+Die Haftfrage ist demnach primär im Urteil selbst zu regeln; unterbleibt dies, bleibt der Weg über Art. 232 StPO offen, flankiert von vorsorglichen Massnahmen nach Art. 388 lit. b StPO.
 
-#### 3. Verhältnismässigkeit bei langer Verfahrensdauer
+### G. Anfechtbarkeit (Abs. 2)
 
-Bei **langer Verfahrensdauer** kann die Fortdauer der Haft unverhältnismässig werden. Das Bundesgericht hat mehrfach darauf hingewiesen, dass die Haftdauer nicht ausser Verhältnis zur erwarteten Sanktion stehen darf. Bei Strafen im unteren Bereich kann eine lange Untersuchungshaft unverhältnismässig sein ([BGE 145 IV 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_268)).
+Abs. 2 erklärt den Entscheid für «nicht anfechtbar». Das betrifft den **kantonalen** Instanzenzug: Gegen den Haftentscheid der Verfahrensleitung des Berufungsgerichts steht kein kantonales Rechtsmittel offen.
 
-### IV. Haftprüfung
+Die **Beschwerde in Strafsachen an das Bundesgericht** bleibt dagegen zulässig. Das Bundesgericht stützt dies auf Art. 80 Abs. 2 Satz 3 BGG (vgl. [BGer 7B_358/2025 vom 28. Mai 2025, E. 1.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_358_2025#e-1-1), zu Art. 364b Abs. 4 i.V.m. Art. 232 Abs. 2 StPO). Für das selbstständige gerichtliche Nachverfahren hat es dies in [BGE 150 IV 38](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_IV_38) ausdrücklich bestätigt: «Gegen kantonal letztinstanzliche Entscheide über die Anordnung von Sicherheitshaft im selbstständigen gerichtlichen Nachverfahren betreffend die nachträgliche Anordnung einer stationären Massnahme steht die Beschwerde in Strafsachen an das Bundesgericht offen.» Über Haftentschädigungs- und Genugtuungsbegehren ist dabei nicht im Haftprüfungsverfahren zu entscheiden, sondern im dafür vorgesehenen Verfahren (a.a.O., E. 1).
 
-#### 1. Obligatorische Haftprüfung
+### H. Ausstrahlung auf die nachträglichen richterlichen Verfahren
 
-Die **obligatorische Haftprüfung** nach Art. 224 StPO gilt auch im Berufungsverfahren. Das Gericht hat die Haftvoraussetzungen periodisch zu überprüfen. Entfallen die Haftgründe, ist die Haft unverzüglich aufzuheben.
+Art. 232 StPO wirkt über das eigentliche Berufungsverfahren hinaus. Bei selbstständigen nachträglichen Entscheiden — namentlich der Verlängerung einer stationären therapeutischen Massnahme — ist die Verfahrensleitung des zuständigen Obergerichts auch für die strafprozessualen Haftentscheide zuständig; die Haft stützt sich auf Art. 229–233 i.V.m. Art. 220 Abs. 2 StPO ([BGE 139 IV 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_175), Regeste).
 
-#### 2. Haftbeschwerde
+Die neuere Rechtsprechung ordnet dieses Feld über Art. 364b StPO: [BGE 151 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_151%20IV%20330) hält fest, dass sich das Verfahren nach der Verfahrensstufe richtet und das Berufungsgericht die Sicherheitshaft auch ohne Verlängerungsantrag der Staatsanwaltschaft oder der Vollzugsbehörde verlängern kann.
 
-Die beschuldigte Person kann jederzeit eine **Haftbeschwerde** einreichen (Art. 226 StPO). Das Beschwerdegericht überprüft die Haftvoraussetzungen umfassend (Sachverhaltsprüfung im kantonalen Verfahren, Rechtsprüfung im Bundesgerichtsverfahren).
+## Rechtsprechung
 
-### V. Verhältnis zu Art. 224 Abs. 3 StPO
+Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 232 StPO](rechtsprechung/)
 
-Der Vorbehalt von **Art. 224 Abs. 3 StPO** (in der bis 31.12.2024 geltenden Fassung: Verlängerung der Haftdauer bei besonderer Schwierigkeit des Falles) stellt sicher, dass die besonderen Haftdauerbestimmungen auch im Berufungsverfahren gelten. Nach der Revision per 1.1.2025 wurde die Haftdauerverlängerung neu geregelt.
+## Literatur
 
-### VI. EMRK-Konformität
-
-#### 1. Art. 5 Abs. 1 lit. c EMRK
-
-Die Sicherheitshaft im Berufungsverfahren muss den Anforderungen von **Art. 5 Abs. 1 lit. c EMRK** genügen: Es muss ein **hinreichender dringender Tatverdacht** bestehen, und die Haftgründe (Fluchtgefahr, Kollusionsgefahr, Wiederholungsgefahr) müssen konkret dargetan sein.
-
-#### 2. Art. 5 Abs. 4 EMRK
-
-Die beschuldigte Person hat Anspruch auf **haftbezogene Überprüfung** durch ein Gericht (Art. 5 Abs. 4 EMRK). Das Berufungsverfahren ersetzt nicht die obligatorische Haftprüfung nach Art. 224 StPO.
-
-#### 3. Art. 5 Abs. 3 EMRK
-
-Die **Anhaltung vor Gericht** nach Art. 5 Abs. 3 EMRK (Vorführung innert angemessener Frist) gilt auch im Berufungsverfahren. Überlange Haft ohne Verurteilung verstösst gegen die Konvention.
-
-### VII. Besondere Problembereiche
-
-#### 1. Neuhaftanordnung im Berufungsverfahren
-
-Die **Neuhaftanordnung** nach Art. 232 Abs. 1 lit. b Alt. 2 StPO ist zulässig, wenn sich im Berufungsverfahren neue Haftgründe ergeben. Dies ist etwa der Fall, wenn die beschuldigte Person im erstinstanzlichen Verfahren nicht in Haft war, aber im Berufungsverfahren Fluchtgefahr entsteht ([BGer 1B 189/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_189_2021)).
-
-#### 2. Fortdauer der erstinstanzlichen Haft
-
-Die **Fortdauer** der erstinstanzlichen Haft im Berufungsverfahren bedarf einer eigenständigen Prüfung der Haftgründe durch das Berufungsgericht. Die blosse Fortschreibung der erstinstanzlichen Haft ohne neue Prüfung genügt nicht.
-
-#### 3. Haft und Rechtsmittelverzicht
-
-Verzichtet die beschuldigte Person auf das Berufungsverfahren, entfällt die Grundlage für die Berufungshaft. Die Haft kann nicht mit dem Argument aufrechterhalten werden, dass ein Rechtsmittelverfahren noch möglich sei ([BGer 1B 200/2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_200_2022)).
-
-#### 4. Untersuchungshaft und bedingte Entlassung
-
-Im Zusammenhang mit Art. 232 StPO stellt sich die Frage der **bedingten Entlassung** aus dem Strafvollzug (Art. 86 StGB). Hat die beschuldigte Person die Untersuchungshaft teilweise verbüsst, ist die Anrechnung auf die Strafe sicherzustellen (Art. 51 StGB).
-
-### VIII. Verhältnis zu anderen Normen
-
-| Norm | Verhältnis zu Art. 232 StPO |
-|------|-------------------------------|
-| Art. 221 StPO | Haftgründe (Flucht, Kollusion, Deliktskatalog) |
-| Art. 222 StPO | Verhältnismässigkeit der Haft |
-| Art. 223 StPO | Wiederholungsgefahr |
-| Art. 224 StPO | Haftdauer und obligatorische Haftprüfung |
-| Art. 225 StPO | Haftbefehl |
-| Art. 226 StPO | Haftbeschwerde |
-| Art. 227 StPO | Aufhebung der Haft |
-| Art. 51 StGB | Anrechnung der Untersuchungshaft |
-| Art. 86 StGB | Bedingte Entlassung |
-| Art. 10 Abs. 2 BV | Persönliche Freiheit |
-| Art. 5 EMRK | Freiheitsentzug |
-
-## Siehe auch
-
-- [Art. 221 StPO — Haftgründe](/kommentar/stpo/art-221/)
-- [Art. 222 StPO — Verhältnismässigkeit der Haft](/kommentar/stpo/art-222/)
-- [Art. 223 StPO — Wiederholungsgefahr](/kommentar/stpo/art-223/)
-- [Art. 224 StPO — Haftdauer und Haftprüfung](/kommentar/stpo/art-224/)
+- Forster, Marc, in: Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl. 2023, Art. 232 StPO N. 1 f. (zitiert in BGer 7B_793/2024 und Kantonsgericht VS, P2 22 48).
+- Ziegler/Keller, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2014, Art. 388 StPO N. 1 (zitiert in BStGer CN.2020.5).
