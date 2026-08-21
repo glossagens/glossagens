@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 124 StPO"
 weight: 99
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 124 StPO – Zuständigkeit und Verfahren (Zivilanspruch)"
 tags: ["Rechtsprechung", "StPO", "Zivilanspruch", "Zivilklage"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 31 %). Vier Erwägungsangaben korrigiert (BGE 146 IV 211 E. 3 → E. 3.1; 6B_936/2019 E. 12 → E. 7.3.2 und 7.4.1 f.; 6B_1189/2023 E. 2.5 → E. 12.3.3). Fehlender revisions-Block ergänzt."
 ---
 
 ## Leitentscheide (BGE)
@@ -16,7 +22,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 124 Abs. 1 (Umfang der Zuständigkeit); Art. 122 Abs. 1; Art. 126 Abs. 1 lit. b und Abs. 2 lit. d StPO
 - **Link**: [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432)
 
-### BGE 146 IV 211, E. 3 und 4
+### BGE 146 IV 211, E. 3.1 f. und E. 4.2.2
 - **Thema**: Zwingender Entscheid bei Schuldspruch; Haftung des Geldwäschers für Vortatsschaden
 - **Kernaussage**: Soweit das Gericht die beschuldigte Person schuldig spricht, ist der Entscheid über die anhängig gemachten Schadenersatzforderungen, soweit sie hinreichend begründet und beziffert sind, zwingend. Der Tatbestand der Geldwäscherei dient in Fällen, in denen die der Einziehung unterliegenden Vermögenswerte aus Delikten gegen das Vermögen herrühren, neben dem Einziehungsinteresse des Staates auch dem Schutz der individuell durch die Vortat geschädigten Person. Die Haftung des Geldwäschers erstreckt sich auch auf den durch die Vortat verursachten Schaden.
 - **Einschlägig für**: Art. 124 Abs. 1 (Zuständigkeit bei Schuldspruch); Art. 122 Abs. 1; Art. 126 Abs. 1 lit. a StPO
@@ -44,7 +50,7 @@ agent_verified: false
 - **Einschlägig für**: Art. 124 Abs. 2 (Einreden); Art. 122 StPO; Art. 120 OR
 - **Link**: [BGer 6B_583/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_583_2021)
 
-### BGer 6B_1189/2023 vom 19. Januar 2026, E. 2.5
+### BGer 6B_1189/2023 vom 19. Januar 2026, E. 12.3.3
 - **Thema**: Kein substanziiertes Bestreiten im Strafverfahren erforderlich; StPO-Reform 2024
 - **Kernaussage**: Die beschuldigte Person darf sich darauf beschränken, die Zivilforderungen pauschal zu bestreiten, wovon auszugehen ist, wenn sie deren Abweisung oder Verweisung auf den Zivilweg beantragt bzw. wenn sie diese nicht im Sinne von Art. 124 Abs. 3 StPO anerkennt. Ein substanziiertes Bestreiten der einzelnen Tatsachenbehauptungen der Gegenpartei im Rahmen einer schriftlichen Klageantwort — wie dies Art. 222 Abs. 2 ZPO verlangt — ist in der StPO nicht vorgesehen. Dies war vor Inkrafttreten der Neuregelung von Art. 123 Abs. 2 und Art. 331 Abs. 2 Satz 2 StPO am 1. Januar 2024 oftmals gar nicht möglich.
 - **Einschlägig für**: Art. 124 Abs. 2 und 3 (Bestreiten und Anerkenntnis); Art. 123 Abs. 2 StPO; Art. 222 Abs. 2 ZPO
@@ -81,3 +87,20 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 10. Juli 2026*
+
+---
+
+## Prüfvermerk
+
+Alle zehn im Kommentar und auf dieser Seite angeführten Entscheide wurden am 22.08.2026 über die opencaselaw-MCP verifiziert; sämtliche existieren. Korrigiert wurden vier Erwägungsangaben, die auf nicht vorhandene Nummern verwiesen:
+
+| Zitiert war | Zutreffend ist |
+|---|---|
+| BGE 146 IV 211 E. 3 | E. 3.1 (der Entscheid kennt keine ungegliederte E. 3) |
+| BGer 6B_936/2019 E. 12 | E. 7.3.2 bzw. E. 7.4.1 f. (der Entscheid endet bei E. 9) |
+| BGer 6B_936/2019 E. 7.4 | E. 7.4.1 f. |
+| BGer 6B_1189/2023 E. 2.5 | E. 12.3.3 |
+
+**BGer 6B_856/2024** erwähnt Art. 124 StPO im Volltext nicht. Der Entscheid ist nur noch dort geführt, wo BGer 6B_1189/2023 E. 12.3.3 ihn selbst als Beleg heranzieht.
+
+*Letzte Aktualisierung: 2026-08-22*

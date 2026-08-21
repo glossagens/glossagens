@@ -11,7 +11,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-08-22
 ---
 
 ## Gesetzeswortlaut
@@ -140,7 +140,7 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat die Artikel
 ^1 Vgl. BGE 148 IV 432 E. 3.1.1.
 ^2 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.
 ^3 OpenCaseLaw, leading-cases für Art. 124 StPO (Stand Juli 2026): 1'769 Zitationen (BGE 126 I 19 als meistzitierter Entscheid).
-^4 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3; [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
+^4 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1; [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
 ^5 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.
 ^6 Art. 126 Abs. 1 lit. b StPO; vgl. [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432) E. 3.1.2–3.3.
 ^7 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.
@@ -150,15 +150,15 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat die Artikel
 ^11 [BGE 126 I 19](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_19) E. 2b und 2d.
 ^12 [BGer 6B_583/2021 vom 2. November 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_583_2021) E. 12.
 ^13 [BGer 6B_583/2021 vom 2. November 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_583_2021) E. 12; [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
-^14 Botschaft vom 28. August 2019 zur Änderung der StPO, BBl 2019 6697 ff.; [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 2.5.
-^15 [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 2.5.
-^16 [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 2.5; [BGer 6B_856/2024 vom 10. September 2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_856_2024) E. 2.5.
+^14 Botschaft vom 28. August 2019 zur Änderung der StPO, BBl 2019 6697 ff.; [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 12.3.3.
+^15 [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 12.3.3.
+^16 [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 12.3.3, der seinerseits auf [BGer 6B_856/2024 vom 10. September 2025, E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_856_2024#e-2-5) verweist.
 ^17 [BGer 6B_583/2021 vom 2. November 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_583_2021) E. 12.
 ^18 [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2 und 7.4.
 ^19 [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.4.
 ^20 [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.4.
 ^21 [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
-^22 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3; [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
-^23 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3; [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432) E. 3.1.1.
-^24 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3; [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432) E. 3.1.2–3.3.
-^25 Botschaft vom 28. August 2019 zur Änderung der StPO, BBl 2019 6697 ff.; [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 2.5.
+^22 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1; [BGer 6B_936/2019 vom 20. Mai 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_936_2019) E. 7.3.2.
+^23 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1; [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432) E. 3.1.1.
+^24 [BGE 146 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_211) E. 3.1; [BGE 148 IV 432](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_432) E. 3.1.2–3.3.
+^25 Botschaft vom 28. August 2019 zur Änderung der StPO, BBl 2019 6697 ff.; [BGer 6B_1189/2023 vom 19. Januar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1189_2023) E. 12.3.3.
