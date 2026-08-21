@@ -2,10 +2,15 @@
 title: "Art. 89 — Beschwerderecht"
 weight: 89
 date: 2026-05-31
-lastmod: 2026-06-17
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 89 BGG – Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
-tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten"]
+tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten", "Nachbargemeinden"]
 agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 1C_325/2024 (Nachbargemeinden, Art. 89 Abs. 1 BGG)"
 ---
 
 ## Gesetzeswortlaut
@@ -41,6 +46,8 @@ Die blosse Zugehörigkeit zu einer Behörde verschafft nicht für sich allein di
 
 Der Kanton seinerseits ist nicht qualifiziert in eigenen hoheitlichen Interessen betroffen, wenn er die umstrittene Steuer im Hauptanwendungsfall gerade abgeschafft hat ([BGE 136 II 383](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=136:2:383)). Ein bestrafter Nachbar muss seine Beschwerdebefugnis konkret dartun; die blosse Nachbarschaft genügt nicht ([BGE 133 II 249](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=133:2:249)).
 
+**Nachbargemeinden**: Auch Gemeinwesen können sich ausnahmsweise auf Art. 89 Abs. 1 BGG berufen, wenn sie in spezifischer, schutzwürdiger Weise in der Wahrnehmung einer hoheitlichen Aufgabe betroffen werden. Das allgemeine Interesse an der richtigen Rechtsanwendung begründet keine Beschwerdebefugnis. Nachbargemeinden, die durch erhebliche Immissionen eines Bauvorhabens im Nachbarkanton betroffen sind — namentlich durch nächtlichen Mehrverkehr und Lärmimmissionen auf der Hauptverkehrsachse durch ihr Siedlungsgebiet —, sind beschwerdelegitimiert nach Art. 89 Abs. 1 BGG, wenn sie eigenständige Anliegen raumplanerischer Natur geltend machen, die über das Interesse an der richtigen Erfüllung der im Streit liegenden Staatsaufgabe hinausreichen. Massgeblich ist, ob die Gemeinde durch die Zunahme des Verkehrs in der Nacht und die damit verbundenen Lärmimmissionen auf der Hauptverkehrsachse durch ihr Siedlungsgebiet in spezifischen Eigeninteressen betroffen ist; dass sich die Wohnquartiere nicht hauptsächlich direkt an der Hauptverkehrsstrasse befinden, steht der Legitimation nicht entgegen, da andernfalls die Beschwerdelegitimation bei grösseren Gemeinden praktisch nie erfüllt wäre ([BGer 1C_325/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_325_2024) E. 3.2, 3.3, 3.8).
+
 #### Rz. 3 — Schutzwürdiges Interesse (lit. c)
 
 Das schutzwürdige Interesse verlangt, dass der Beschwerdeführer ein aktuelles, konkretes und rechtlich anerkennenswertes Interesse am Ausgang des Verfahrens hat. Ein blosses Interesse als Rechtssubjekt oder Mitglied der Allgemeinheit genügt nicht. Das Interesse muss zum Zeitpunkt des Bundesgerichtsurteils noch bestehen (aktuelles Interesse).
@@ -56,6 +63,8 @@ Die Bundeskanzlei, die Departemente des Bundes und — soweit das Bundesrecht es
 #### Rz. 5 — Gemeinwesen (lit. c)
 
 Gemeinden und andere öffentlich-rechtliche Körperschaften sind nach Art. 89 Abs. 2 lit. c BGG zur Beschwerde berechtigt, wenn sie die Verletzung von Garantien rügen, die ihnen die Kantons- oder Bundesverfassung gewährt. Erforderlich ist die Rüge einer spezifischen Autonomieverletzung; die blosse behauptete Bundesrechtsverletzung genügt nicht ([BGE 140 V 328](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=140:5:328)).
+
+Gemeinwesen können sich jedoch auch ausserhalb von Art. 89 Abs. 2 lit. c BGG auf die allgemeine Legitimationsklausel von Art. 89 Abs. 1 BGG berufen, sofern sie durch den angefochtenen Entscheid in spezifischer, schutzwürdiger Weise in der Wahrnehmung einer hoheitlichen Aufgabe betroffen werden. Dies gilt namentlich für Nachbargemeinden, die durch Immissionen eines Bauvorhabens im Nachbarkanton in eigenen hoheitlichen Aufgaben (Raumplanung, Verkehrssicherheit, Baupolizei) betroffen sind und eigenständige Anliegen raumplanerischer Natur geltend machen ([BGer 1C_325/2024](https://mcp.opencaselaw.ch/entscheid/bger_1C_325_2024) E. 3.2, 3.3, 3.8). Die Legitimation nach Art. 89 Abs. 1 BGG ist restriktiv und setzt eine erhebliche Betroffenheit in wichtigen öffentlichen Interessen voraus ([BGE 147 II 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II_227) E. 2.3.2).
 
 Ein kommunaler Zweckverband ist als Träger hoheitlicher Gewalt gestützt auf Art. 89 Abs. 2 lit. c BGG legitimiert, die Verletzung verfassungsmässiger Garantien zu rügen. Die Beschwerdelegitimation des Gemeinwesens nach Art. 89 Abs. 1 BGG ist auch gegeben, wenn dieses in vermögensrechtlichen Streitigkeiten im öffentlichen Personalrecht berührt ist ([BGE 134 I 204](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:1:204)).
 

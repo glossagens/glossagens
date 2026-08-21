@@ -2,8 +2,8 @@
 title: "Art. 18 UVG — Invalidität"
 weight: 18
 date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG sowie analoge Anwendung von Art. 26bis Abs. 3 IVV."
+lastmod: "2026-08-21"
+description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG (BGer 8C_254/2025)."
 tags: ["UVG", "Invalidenrente", "Sozialversicherung", "Invalidität", "IVV"]
 agent_verified: true
 ---
@@ -57,11 +57,17 @@ Das Invalideneinkommen ist nach Art. 26bis IVV (analog) zu bestimmen:
 - **Statistisches Einkommen**: Wenn kein tatsächliches Einkommen erzielt wird, ist das Einkommen auf Basis der LSE-Statistik zu bestimmen (Art. 26bis Abs. 2 IVV). Dabei sind die Referenzwerte für die entsprechende Branche und die Anforderungsniveaus (NOGA-Code, Kompetenzniveau) zu verwenden.
 - **Abzüge (Art. 26bis Abs. 3 IVV)**: Auf den statistischen Wert ist ein **10 %-Abzug** zu gewähren (als Pauschalabgeltung für behinderungsbedingte Nachteile). Bei einer Funktionstüchtigkeit von 50 % oder weniger beträgt der Abzug **20 %**. Weitere Abzüge sind nicht zulässig (seit 1. Januar 2024).
 
-### Analogie von Art. 26bis Abs. 3 IVV im UVG-Bereich
+### Analogie von Art. 26bis Abs. 3 IVV im UVG-Bereich — Verneint
 
-Das Bundesgericht hatte sich in **BGer 8C_254/2025** erstmals mit der analogen Anwendung von Art. 26bis Abs. 3 IVV im Bereich der Unfallversicherung zu befassen. Das Tessiner kantonale Verwaltungsgericht hatte diese Norm analog angewandt, was vom Bundesgericht bestätigt wurde. Die Frage war, ob die 10 %- bzw. 20 %-Abzüge, die in der IVV im Rahmen der IV eingeführt wurden, auch bei der UVG-Invalidenrente gelten. Das Bundesgericht hiess die analoge Anwendung gut und begründete dies mit der **Ähnlichkeit der Situationen** und dem **Harmonisierungsziel** des ATSG (BGE 130 V 71 E. 3.2.1).
+**Wichtige Korrektur**: Das Bundesgericht hat mit **BGer 8C_254/2025** (vom 23. Juni 2026, zur Veröffentlichung bestimmt) **verneint**, dass Art. 26 und Art. 26bis Abs. 3 OV (Sozialabzug und Einkommensparallelisierung) im Bereich der Unfallversicherung analog anwendbar seien. Zuvor hatte das Tessiner kantonale Verwaltungsgericht diese Normen analog angewandt — das Bundesgericht hob dies auf.
 
-**Vorgeschichte**: Die Mozione 22.3377 der CSSS-N (Commissione della sicurezza sociale e della sanità del Consiglio nazionale) vom 6. April 2022 forderte eine Berücksichtigung der realistischen Verdienstmöglichkeiten von Personen mit gesundheitlichen Beeinträchtigungen. Dies führte zur Revision von Art. 26bis IVV (per 1. Januar 2024). Die kantonale Instanz hatte in 8C_254/2025 klargestellt, dass die direkte Anwendung auf die UVG nicht möglich sei (die IVV ist nur im IV-Bereich direkt anwendbar), die analoge Anwendung aber gerechtfertigt sei.
+**Begründung**: (1) Es fehlt an einer echten Gesetzeslücke im Recht der Unfallversicherung; eine analoge Anwendung setzt eine Regelungslücke voraus, die hier nicht besteht (E. 7.5). (2) Die unterschiedliche Rentenschwelle — 10 % im UVG (Art. 18 Abs. 1 UVG) gegenüber 40 % in der IV (Art. 28 Abs. 1 IVG) — spricht gegen eine Analogie: Die niedrigere Schwelle im UVG führt zu mehr Kleinrenten, bei denen die Abzüge ins Gewicht fallen, was systematisch gegen eine Übertragung der IV-Abzüge spricht (E. 7.4.5). (3) Die analoge Anwendung würde eine Ergänzung des normativen Rahmens darstellen, die in die Kompetenz des Verordnungsgebers fällt, nicht in diejenige der Gerichte (E. 7.5; [BGE 147 V 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_V_2) E. 4.4.1).
+
+**BGer 8C_682/2025** (vom 6. August 2026) bestätigt diese Rechtsprechung und wendet sie an: Auch dort wurde die analoge Anwendung von Art. 26 OV (Einkommensparallelisierung) abgelehnt, da die Gründe von 8C_254/2025 mutatis mutandis auch für Art. 26 OV gelten ([BGer 8C_682/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_682_2025) E. 7, 8.2).
+
+**Folge für die Praxis**: Im UVG-Bereich gelten die bisherigen Korrekturen des Validen- und Invalideneinkommens nach der bisherigen Rechtsprechung weiter. Insbesondere:
+- Die Einkommensparallelisierung (parallelisme des revenus) nach [8C_141/2016](https://mcp.opencaselaw.ch/entscheid/bger_8C_141_2016) E. 5.2.2 bleibt anwendbar, wenn kein GAV-Lohn massgeblich ist.
+- Der Sozialabzug nach Art. 26bis Abs. 3 OV findet im UVG-Bereich **keine** analoge Anwendung.
 
 ## Verhältnis zu Art. 16 ATSG
 
@@ -77,8 +83,8 @@ Die Rechtsprechung zu Art. 18 UVG ist umfangreich und konzentriert sich auf zwei
 
 1. **Kausalzusammenhang und medizinische Begutachtung**: Wann ist ein Gesundheitsschaden unfallursächlich? Die Rechtsprechung hat eine komplexe Methodik entwickelt (BGE 125 V 351, BGE 134 V 231, BGE 115 V 133), die den Beweiswert medizinischer Gutachten, die Anforderungen an die Begutachtung und die Rolle von Parteigutachten regelt.
 
-2. **Bemessung des Invaliditätsgrades**: Die Ermittlung von Validen- und Invalideneinkommen ist eine der am meisten diskutierten Fragen im Sozialversicherungsrecht. Die jüngste Entwicklung (BGer 8C_254/2025) betrifft die analoge Anwendung der 10 %- und 20 %-Abzüge nach Art. 26bis Abs. 3 IVV auf das UVG-Invalideneinkommen.
+2. **Bemessung des Invaliditätsgrades**: Die Ermittlung von Validen- und Invalideneinkommen ist eine der am meisten diskutierten Fragen im Sozialversicherungsrecht. Die jüngste Entwicklung betrifft die **Verneinung** der analogen Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG durch BGer 8C_254/2025 und 8C_682/2025 — der Sozialabzug und die Einkommensparallelisierung nach der neuen IVV gelten im UVG-Bereich nicht analog.
 
 ## Fazit
 
-Art. 18 UVG ist die zentrale Anspruchsgrundlage für die Invalidenrente der Unfallversicherung. Die Norm verweist auf das ATSG und die IVV, die analog anwendbar sind. Die Bemessung des Invaliditätsgrades erfolgt nach dem Einkommensvergleich mit komplexen Regeln, die durch die Rechtsprechung kontinuierlich weiterentwickelt werden. Die analoge Anwendung von Art. 26bis Abs. 3 IVV (BGer 8C_254/2025) ist ein jüngstes Beispiel für die Harmonisierung zwischen IV- und UVG-Bereich im Rahmen des ATSG. Die Bagatellgrenze von 10 % und das Referenzalter begrenzen den Anspruch der Rentenleistung auf Fälle mit erheblicher, unfallbedingter Erwerbseinbusse vor dem pensionsfähigen Alter.
+Art. 18 UVG ist die zentrale Anspruchsgrundlage für die Invalidenrente der Unfallversicherung. Die Norm verweist auf das ATSG und die IVV, deren analoge Anwendung jedoch Grenzen hat: **BGer 8C_254/2025 und 8C_682/2025 haben klargestellt, dass Art. 26 und 26bis Abs. 3 OV im UVG-Bereich nicht analog anwendbar sind.** Die Bemessung des Invaliditätsgrades erfolgt nach dem Einkommensvergleich mit den bisherigen Korrekturmethoden (Einkommensparallelisierung nach 8C_141/2016). Die Bagatellgrenze von 10 % und das Referenzalter begrenzen den Anspruch der Rentenleistung auf Fälle mit erheblicher, unfallbedingter Erwerbseinbusse vor dem pensionsfähigen Alter.

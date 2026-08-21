@@ -2,10 +2,15 @@
 title: "Art. 125 — Nachehelicher Unterhalt"
 weight: 125
 date: "2026-05-24"
-lastmod: "2026-07-17"
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 125 ZGB – Nachehelicher Unterhalt: Voraussetzungen, Berechnungsmethoden, Lebensprägung und Abwägungskriterien"
-tags: ["ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt", "Scheidung"]
+tags: ["ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt", "Scheidung", "Lebensprägung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 5A_118/2025 (lebensprägende Ehe, appellatorische Kritik ungenügend)"
 ---
 
 ## Gesetzeswortlaut
@@ -30,7 +35,7 @@ Art. 125 ZGB regelt den **nachehelichen Unterhalt** als Zentralnorm des Scheidun
 
 **Zumutbarkeit der Eigenversorgung** ist die zentrale Voraussetzung. Nicht zuzumuten ist die Eigenversorgung namentlich bei:
 
-- **Lebensprägender Ehe**([BGE 147 III 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_249)): Die Rollenteilung während der Ehe prägt die Erwerbsaussichten derart, dass eine vollständige Eigenversorgung nach der Scheidung nicht erwartet werden kann. Kein «Kippeffekt» — auch bei Lebensprägung geht Eigenversorgung vor, aber der eheliche Standard bleibt Anknüpfungspunkt.
+- **Lebensprägender Ehe**([BGE 147 III 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_249)): Die Rollenteilung während der Ehe prägt die Erwerbsaussichten derart, dass eine vollständige Eigenversorgung nach der Scheidung nicht erwartet werden kann. Kein «Kippeffekt» — auch bei Lebensprägung geht Eigenversorgung vor, aber der eheliche Standard bleibt Anknüpfungspunkt. [BGer 5A_118/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_118_2025) bestätigt diese Praxis bei einer seit 1992 bestehenden, ab 2005 getrennt lebenden Ehe: Die Aufgabe der Erwerbstätigkeit zugunsten von Haushalt und Kindererziehung begründet Lebensprägung, die auch 20 Jahre nach Trennung nicht entfällt.
 - **Pensionierung**([BGE 141 III 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_465)): Erreicht der Berechtigte das Rentenalter, ist ihm die Eigenversorgung regelmässig nicht mehr zuzumuten. [BGE 151 III 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_9) präzisiert: Bei Scheidung im Rentenalter findet die Pflicht zur Leistung nachehelichen Unterhaltes bis zum ordentlichen Pensionierungsalter des Pflichtigen keine Anwendung.
 - **Betreuung von Kindern** (Abs. 2 Ziff. 6): Kinderbetreuung kann die Aufnahme einer Erwerbstätigkeit zumutbar einschränken oder verunmöglichen.
 
@@ -65,7 +70,7 @@ Die acht Kriterien sind **nicht abschliessend** («insbesondere»). Sie bilden e
 - **Abs. 2 Ziff. 7** (Erwerbsaussichten): Bedeutung der beruflichen Eingliederung
 - **Abs. 2 Ziff. 8** (Vorsorgeanwartschaften): AHV/ BVG-Anwartschaften und Teilung der Austrittsleistungen
 
-[BGE 128 III 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_4) betont den weiten **Ermessensspielraum** des Richters bei der Festsetzung.
+[BGE 128 III 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_4) betont den weiten **Ermessensspielraum** des Richters bei der Festsetzung. [BGer 5A_118/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_118_2025) unterstreicht die Bedeutung des Grundsatzes der materiellen Erschöpfung der kantonalen Instanzen (Art. 75 Abs. 1 BGG): Rügen, die erstmals vor Bundesgericht vorgebracht werden, ohne dass eine Gehörsrüge erhoben wird, bleiben unberücksichtigt. Appellatorische Kritik genügt den Begründungsanforderungen von Art. 42 Abs. 2 BGG nicht.
 
 ### V. Ausnahmsweise Versagung oder Kürzung (Abs. 3)
 

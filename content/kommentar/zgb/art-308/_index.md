@@ -2,11 +2,15 @@
 title: "Art. 308 ZGB — Ernennung eines Beistands"
 weight: 308
 date: "2026-05-22"
-lastmod: "2026-08-20"
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Erziehungsbeistandschaft (Abs. 1), besondere Befugnisse bei Vaterschaft, Unterhalt und Besuchsrecht (Abs. 2), Beschränkung der elterlichen Sorge (Abs. 3)."
-tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Erziehungsbeistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge"]
+tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Erziehungsbeistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge", "Schulbeistandschaft"]
 agent_verified: true
 revisions:
+  - date: "2026-08-21"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 5A_430/2026 (Schulbeistandschaft, elterliches Verhalten gegenüber Schule)"
   - date: "2026-08-20"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -45,6 +49,10 @@ Die Kindesschutzbeistandschaft folgt den verfassungs- und zivilrechtlichen Leitp
 - **Subsidiarität**: Behördliche Massnahmen greifen erst Platz, wenn die Eltern eine bestehende Gefährdung nicht aus eigenen Kräften oder durch freiwillige Hilfsangebote abzuwenden vermögen ([BGer 5A_765/2016 vom 18. Juli 2017 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_765_2016); [BGer 5A_230/2024 vom 6. Januar 2025 E. 6.1.1.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_230_2024)).
 - **Proportionalität / Verhältnismässigkeit**: Die Massnahme muss zur Erreichung des Schutzzwecks geeignet und erforderlich sein; der Eingriff in die Elternrechte darf nicht weiter gehen als zur Gefahrenabwehr zwingend notwendig ([BGer 5A_690/2022 vom 31. Januar 2023 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_690_2022); [BGE 140 III 241 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_241)).
 - **Komplementarität**: Die Beistandschaft bezweckt primär die Unterstützung der Eltern («Rat und Tat»), nicht deren Bevormundung oder Verdrängung.
+
+#### 4. Schulbezogene Beistandschaft bei elterlichem Fehlverhalten gegenüber der Schule
+
+Das Verhalten der Eltern gegenüber Dritten — namentlich gegenüber Schulen — kann eine Gefährdung des Kindeswohls i.S.v. Art. 307 Abs. 1 ZGB darstellen, wenn es zur Ausschliessung des Kindes aus der Schule führt. In einem solchen Fall kann die Anordnung einer Erziehungsbeistandschaft nach Art. 308 Abs. 1 ZGB mit Beschränkung der elterlichen Sorge nach Abs. 3 verhältnismässig und erforderlich sein, wenn vorangehende mildere Massnahmen (z.B. Beistandschaft nach Art. 308 Abs. 2 ZGB für die Überwachung des persönlichen Verkehrs, Weisungen nach Art. 307 Abs. 3 ZGB) nicht ausreichen. Massgeblich ist, ob die Eltern ausserstande sind, ihr Verhalten gegenüber der Schule von sich aus zu korrigieren, und ob die Beistandschaft erforderlich ist, um die Schulausbildung des Kindes zu sichern ([BGer 5A_430/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_430_2026) E. 3.1.1, 3.2).
 
 ---
 

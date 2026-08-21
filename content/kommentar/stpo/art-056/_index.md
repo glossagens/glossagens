@@ -2,7 +2,7 @@
 title: "Art. 56 — Ausstandsgründe"
 weight: 56
 date: "2026-06-18"
-lastmod: "2026-08-18"
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 56 StPO — Ausstandsgründe, Befangenheit, rechtliches Gehör im Ausstandsverfahren"
 tags: ["StPO", "Ausstand", "Befangenheit", "rechtliches Gehör", "Strafprozessrecht", "unparteiischer Richter"]
 agent_verified: true
@@ -11,6 +11,10 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit KW33 StPO"
+  - date: 2026-08-21
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 7B_223/2026 (Präredaktion), 7B_257/2026 (Sachverständigen-Ausstand)"
 ---
 
 ## Gesetzeswortlaut
@@ -76,6 +80,14 @@ Nur **aussergewöhnliche Umstände** rechtfertigen eine Ausstandsablehnung, name
 
 **EMRK-Rechtsprechung**: Der EGMR verlangt einen Befangenheitsanschein nur bei besonderen Umständen, die objektiv berechtigte Zweifel an der Unparteiischkeit begründen. Die blosse Tatsache, dass ein Richter in einem früheren Verfahren entschieden hat, genügt nicht (vgl. *Gomez de Liaño y Botella c. Espagne*, EGMR). Das Bundesgericht unterscheidet jedoch zwischen Konstellationen, in denen Richter bei der Anklageerhebung Formulierungen verwendet haben, die den Eindruck einer vorgängigen Schuldfeststellung erwecken (Befangenheit bejaht), und solchen, in denen ein Spruchkörper über einen neuen Antrag im Rahmen eines neuen Verfahrens entscheidet (keine Befangenheit; [BGer 7B_846/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_846_2025) E. 3.4).
 
+#### 4. Analogie auf Sachverständige (lit. f)
+
+Art. 56 lit. f StPO gilt **analog** für Sachverständige. Die Parteien haben das Recht, die Ablehnung einer Sachverständigen zu verlangen, deren Situation oder Verhalten geeignet ist, Zweifel an ihrer Unparteiischkeit aufkommen zu lassen. Es genügt, dass die Umstände den **Anschein der Befangenheit** erwecken und eine parteiische Tätigkeit befürchten lassen; massgeblich sind ausschliesslich **objektiv festgestellte Umstände**, rein subjektive Eindrücke einer Partei sind nicht entscheidend ([BGer 7B_257/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_257_2026) E. 3.2.1; [BGE 148 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_137) E. 2.2; [BGer 7B_46/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_46_2025) E. 2.2).
+
+**Sachliche Kritik am Gutachten ≠ Ausstandsgrund**: Kritik am **inhaltlichen Gehalt** eines Sachverständigengutachtens — etwa der Einwand, die Sachverständige habe bestimmte Aspekte nicht berücksichtigt oder ihre Schlussfolgerungen seien unvollständig — begründet für sich allein keinen Ausstandsgrund nach Art. 56 lit. f StPO. Solche Einwände betreffen die **Beweiswürdigung** und sind vor dem Sachgericht im Rahmen der freien Beweiswürdigung geltend zu machen. Erst ein Verhalten, das über eine blosse inhaltliche Unvollständigkeit oder einen Beurteilungsfehler hinausgeht und den Anschein der Parteilichkeit erweckt, kann einen Ausstandsgrund rechtfertigen ([BGer 7B_257/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_257_2026) E. 3.3).
+
+**Präredaktion eines Urteils**: Die vom Bundesgericht anerkannte Praxis, dass eine Berichterstatterin im Vorfeld der Hauptverhandlung einen Arbeitsentwurf («pré-rédaction») erstellen darf — namentlich einen Sachverhaltsentwurf oder Entwürfe von Erwägungen —, begründet für sich allein keinen Befangenheitsanschein. Ein solcher Arbeitsentwurf dient der Vorbereitung und ermöglicht es der Berichterstatterin, sachgerechte Fragen an die Parteien zu stellen. Selbst wenn ein Urteil von erheblicher Länge (127 Seiten) innerhalb von gut zwei Monaten nach Schluss der Parteivorträge erlassen wird, rechtfertigt dies nicht den Schluss auf eine vorgängige Festlegung des Ausgangs ([BGer 7B_223/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_223_2026) E. 4.3 und 4.5.5).
+
 ---
 
 ### III. Ausstandsverfahren (Art. 58 StPO)
@@ -100,7 +112,12 @@ Im Rahmen eines Richterkollegiums kann die Präsidentin stellvertretend für das
 ### Ausstand im Verwaltungsrecht
 - **Registrierung ausländisches Diplom**: Die blosse Tatsache, dass eine Richterin in einem früheren Verfahren über die gleiche Sache befunden hat, begründet für sich allein keinen Ausstandsgrund ([BGE 143 IV 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_69); [BGer 2C_281/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_281_2026)).
 
-### Ausstand im Strafverfahren — Parteizugehörigkeit und prozessuale Fehler
+### Ausstand von Sachverständigen
+- **[BGer 7B_257/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_257_2026)** (vom 2. Juli 2026) — Art. 56 lit. f StPO gilt analog für Sachverständige. Die Beschwerdeführerin verlangte die Ablehnung einer Sachverständigen, nachdem diese sich geweigert hatte, ihr Gutachten aufgrund neuer Rechnungsunterlagen zu ergänzen, und lediglich erklärt hatte, sie habe nichts hinzuzufügen. Das Bundesgericht hielt fest: (1) Die Weigerung einer Sachverständigen, ein Gutachten zu ergänzen, kann zwar unter bestimmten Umständen einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 29 Abs. 1 BV und Art. 6 Ziff. 1 EMRK darlegen — jedoch nur dann, wenn der Anschein der Befangenheit objektiv begründet ist (E. 3.2.1). (2) Sachliche Kritik am Inhalt eines Gutachtens begründet keinen Ausstandsgrund; solche Einwände sind im Rahmen der freien Beweiswürdigung vor dem Sachgericht vorzubringen (E. 3.3). (3) Allenfalls bestehende Fehler im Gutachten sind nicht geeignet, einen Ausstandsgrund zu rechtfertigen; nötigenfalls kann die Verfahrensleitung die Entschädigung der Sachverständigen verweigern und ein neues Gutachten anordnen (E. 3.4).
+
+### Ausstand im Strafverfahren — Präredaktion und Parteizugehörigkeit
+- **[BGer 7B_223/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_223_2026)** (vom 2. Juli 2026) — Kein Ausstandsgrund nach Art. 56 lit. f StPO bei behaupteter Präredaktion eines Urteils. Die Beschwerdeführer brachten vor, das 127-seitige Urteil der Vorinstanz sei vor der Hauptverhandlung präredigiert gewesen, was auf eine vorgängige Festlegung hindeute. Das Bundesgericht bestätigt: (1) Die Erstellung eines Arbeitsentwurfs durch die Berichterstatterin im Vorfeld der Hauptverhandlung («pré-rédaction») ist zulässige Vorbereitungshandlung und begründet keinen Befangenheitsanschein. (2) Selbst ein Urteil von erheblicher Länge, das innerhalb von gut zwei Monaten nach Schluss der Parteivorträge erlassen wird, rechtfertigt nicht den Schluss auf eine vorgängige Festlegung des Ausgangs. (3) Die pauschale Behauptung, das Urteil sei präredigiert, genügt nicht, um einen objektiven Befangenheitsanschein zu begründen (E. 4.3, 4.4, 4.5.5).
+
 - **[BGer 7B_663/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_663_2026)** (vom 29. Juli 2026) — Kein Ausstandsgrund nach Art. 56 lit. f StPO aufgrund von Parteizugehörigkeit oder als unzutreffend empfundener Zwischenentscheide. Das Bundesgericht bestätigt: (1) Prozedurale Fehler und als fehlerhaft empfundene Zwischenentscheide begründen für sich allein keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund rechtfertigen ([BGE 143 IV 69 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_69); Urteil 7B_1159/2025 E. 4.2.3). (2) Die Kumulationshypothese wird zurückgewiesen, wenn jeder Einzelpunkt für sich nicht tragfähig ist. (3) Die Verweigerung eines nicht gesetzlich vorgesehenen Verfahrensvorschusses (provision procédurale) und die wiederholte Aufforderung zur Beiordnung eines Pflichtverteidigers nach selbst verschuldeter Entlassung des bisherigen Verteidigers begründen keinen Befangenheitsanschein.
 
 - **BGer 7B_64/2026 vom 31. Juli 2026** — Pauschale Ausstandsablehnung mehrerer Richter und Staatsanwälte. Eltern eines kranken Kindes lehnten sämtliche beteiligte Richter und Staatsanwälte ab, die ihre Strafbeschwerden gegen CHUV-Personal abgewiesen hatten. Das Bundesgericht wies die Beschwerden ab: Bloss fehlerhafte oder negative Entscheide als solche begründen keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK rechtfertigen. Zudem ist die Ablehnung von Richtern, die nicht mehr mit der Sache befasst sind, mangels schutzwürdigen Interesses unzulässig. Das Bundesgericht warnte ausdrücklich vor missbräuchlichen, pauschalen Ablehnungsbegehren.

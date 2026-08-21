@@ -2,9 +2,9 @@
 title: "Art. 117 StGB — Fahrlässige Tötung"
 weight: 117
 date: 2026-05-15
-lastmod: "2026-08-13"
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 117 StGB: Tatbestand der fahrlässigen Tötung, Sorgfaltspflichtverletzung, Kausalzusammenhang, Garantenstellung bei Unterlassen."
-tags: ["Fahrlässige Tötung", "Sorgfaltspflicht", "Kausalzusammenhang", "Garantenstellung", "StGB"]
+tags: ["Fahrlässige Tötung", "Sorgfaltspflicht", "Kausalzusammenhang", "Garantenstellung", "StGB", "ärztliche Sorgfaltspflicht", "Ex-ante-Perspektive"]
 agent_verified: false
 revisions:
   - date: 2026-08-13
@@ -16,6 +16,10 @@ revisions:
     model: "glm-5.1"
     mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
+  - date: 2026-08-21
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 7B_854/2025 (ärztliche Sorgfaltspflicht, Ex-ante-Perspektive)"
 ---
 
 ## Gesetzeswortlaut
@@ -45,7 +49,7 @@ revisions:
 
 **6** **Vertrauensgrundsatz** Im Strassenverkehr und in anderen arbeitsteiligen Bereichen darf grundsätzlich darauf vertraut werden, dass andere die massgeblichen Regeln einhalten. Eine Pflicht zur Vorsorge gegen normwidrige Handlungen Dritter besteht nur, wenn das normwidrige Verhalten erkennbar war ([BGE 118 IV 277](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_277), E. 4a–4b). Gegenüber Kindern und anderen besonders gefährdeten Personen gilt ein erhöhtes Misstrauensprinzip: Von einem Kind darf kein verkehrsgerechtes Verhalten erwartet werden, weshalb gegenüber Kindern erhöhte Vorsicht geboten ist ([BGE 129 IV 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_282), E. 2).
 
-**7** **Subjektive Sorgfaltspflichtverletzung; persönliche Verhältnisse** Neben dem objektiven Sorgfaltsmassstab ist zu prüfen, ob der Täter nach seinen persönlichen Fähigkeiten und Kenntnissen zur Einhaltung der gebotenen Sorgfalt in der Lage war. Ein ungelernter, unerfahrener Arbeiter, der auf Anweisung seines Arbeitgebers handelt, ist nach einem entsprechend angepassten Massstab zu beurteilen ([BGE 122 IV 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_145), E. 3). Besondere Fachkenntnisse begründen umgekehrt erhöhte Anforderungen an die Sorgfalt.
+**7** **Subjektive Sorgfaltspflichtverletzung; persönliche Verhältnisse** Neben dem objektiven Sorgfaltsmassstab ist zu prüfen, ob der Täter nach seinen persönlichen Fähigkeiten und Kenntnissen zur Einhaltung der gebotenen Sorgfalt in der Lage war. Ein ungelernter, unerfahrener Arbeiter, der auf Anweisung seines Arbeitgebers handelt, ist nach einem entsprechend angepassten Massstab zu beurteilen ([BGE 122 IV 145](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_145), E. 3). Besondere Fachkenntnisse begründen umgekehrt erhöhte Anforderungen an die Sorgfalt. Bei Assistenzärzten im Notfallkontext besteht keine Pflicht zum Beizug eines Facharztes, wenn im Untersuchungszeitpunkt keine erkennbaren Anhaltspunkte für die entsprechende Fachproblematik vorliegen; die Sorgfaltsbeurteilung hat strikt nach der **Ex-ante-Perspektive** zu erfolgen — retrospektive Betrachtungen mit Kenntnis des späteren Geschehens sind nicht massgeblich ([BGer 7B_854/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_854_2025)).
 
 **8** **Voraussehbarkeit** Strafbar ist nur, wer den tödlichen Erfolg hätte vorhersehen und vermeiden können. Nicht erforderlich ist, dass der Täter den konkreten Geschehensablauf im Detail voraussah; es genügt, wenn er das Risiko eines Todeserfolgs der eingetretenen Art erkennen konnte ([BGer, 6B_75/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_75_2025) v. 16.4.2026, zur BGE-Publikation vorgesehen). Eine Sorgfaltspflichtverletzung scheidet aus, wenn ein ausserordentliches, für den Täter nicht vorhersehbares Ereignis den Todeserfolg herbeiführt.
 

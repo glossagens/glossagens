@@ -2,9 +2,9 @@
 title: "Art. 138 — Veruntreuung"
 weight: 138
 date: "2026-07-04"
-lastmod: "2026-08-13"
+lastmod: "2026-08-21"
 description: "Kommentar zu Art. 138 StGB – Veruntreuung: Grundtatbestand (Ziff. 1: Aneignung anvertrauter Sachen / Verwendung anvertrauter Vermögenswerte), Qualifikation (Ziff. 2: behördliche Funktion / bewilligter Beruf), Strafantragsdepot"
-tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "anvertraut", "Qualifikation"]
+tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "anvertraut", "Qualifikation", "Beistandschaft"]
 agent_verified: false
 revisions:
   - date: 2026-08-13
@@ -12,6 +12,10 @@ revisions:
     model: "glm-5.1"
     mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
+  - date: 2026-08-21
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    note: "BGer-Update: 6B_224/2024 (Anvertrautsein bei Beistandschaft)"
 ---
 
 ## Gesetzeswortlaut
@@ -97,6 +101,10 @@ In Fällen, die sowohl gewerbsmässigen Betrug als auch (qualifizierte) Veruntre
 #### Berufsmässige Vermögensverwaltung — Qualifikation nach Ziff. 2
 
 Ein berufsmässiger Vermögensverwalter, der ihm anvertraute Kundenvermögenswerte unrechtmässig verwendet, verwirklicht die Qualifikation nach Art. 138 Ziff. 2 StGB mit einem Strafrahmen bis zu zehn Jahren Freiheitsstrafe. Die Qualifikation greift auch bei konzessionierten Treuhändern, Rechtsanwälten und Finanzvermittlern, soweit die Tat in Ausübung der behördlich bewilligten Tätigkeit begangen wird. Vgl. [BGer 6B_66/2008](https://mcp.opencaselaw.ch/entscheid/bger_6B_66_2008) (mehrfache Veruntreuung, ungetreue Geschäftsbesorgung, Misswirtschaft; Strafzumessung; Zivilforderungen).
+
+#### Anvertrautsein bei Ernennung zum Vertretungsbeistand
+
+Vermögenswerte gelten bereits mit der **Ernennung zum Vertretungsbeistand** als anvertraut im Sinne von Art. 138 Ziff. 2 StGB — auch wenn ausländische Banken die Ernennungsurkunde noch nicht akzeptiert haben. Die rechtliche Grundlage des Anvertrautseins entsteht durch die Ernennung, nicht durch die faktische Anerkennung durch Dritte. Ein Berufsbeistand, der nach der Ernennung durch die KESB über Fr. 365'946.90 an Vermögenswerten der verbeiständeten Person verfügte und diese auf eigene Konten verschob, verwirklicht den Tatbestand der qualifizierten Veruntreuung nach Art. 138 Ziff. 2 StGB. Die Selbstgeldwäscherei (Art. 305bis StGB) kann auch bei vielfältigen Transaktionen über eigene Konten und ins Ausland erfüllt sein ([BGer 6B_224/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_224_2024)).
 
 #### Mehrfache Veruntreuung und Gehilfenschaft
 
