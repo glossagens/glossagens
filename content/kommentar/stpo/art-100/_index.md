@@ -1,17 +1,22 @@
 ---
-title: "Art. 100 — Aktenführung"
+title: "Art. 100 StPO — Aktenführung"
 weight: 100
 date: "2026-06-20"
-description: "Kommentar zu Art. 100 StPO – Aktenführung: Pflicht zur Aktendossier-Erstellung, systematische Ablage und Verzeichnispflicht"
-tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Verfahrensleitung"]
+lastmod: 2026-08-21
+description: "Kommentar zu Art. 100 StPO: Aktendossier, systematische Ablage und Verzeichnispflicht; Dokumentationspflicht der Strafbehörden als Voraussetzung des rechtlichen Gehörs und der Akteneinsicht."
+tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Akteneinsicht", "rechtliches Gehör"]
 agent_verified: true
-mcp_verified: true
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). BGE 147 IV 167 entfernt — der Entscheid betrifft die Unzulässigkeit eines zusätzlichen Schuldspruchs bei im Berufungsverfahren erweitertem Anklagesachverhalt, nicht die Aktenführung. Pinpoint 6B_719/2011 E. 5 auf E. 4.5 korrigiert, 6B_1366/2016 E. 3 entfernt (existiert nicht). Neu belegt mit BGer 6B_1368/2017 E. 2.3, das die Dokumentationspflicht ausformuliert. Erfundene Literaturliste durch die in der Rechtsprechung nachgewiesenen Werke ersetzt; unzulässiges Top-Level-Feld mcp_verified entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    note: "Voll-Audit Schritt 1–6: Gesetzestext mit Fedlex verifiziert (Tippfehler «die Strafbehörde» → «der Strafbehörde» korrigiert), alle OCL-Links geprüft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+    mcp_verified: false
+    note: "Voll-Audit Schritt 1–6: Gesetzestext mit Fedlex verifiziert, alle OCL-Links geprüft (HTTP 200), Frontmatter aktualisiert."
 ---
 
 ## Gesetzeswortlaut
@@ -28,47 +33,73 @@ lastmod: "2026-08-13"
 >
 > 2 Die Verfahrensleitung sorgt für die systematische Ablage der Akten und für deren fortlaufende Erfassung in einem Verzeichnis; in einfachen Fällen kann sie von einem Verzeichnis absehen.
 
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+
+## Überblick und Bedeutung
+
+Art. 100 StPO wirkt auf den ersten Blick wie eine blosse Ordnungsvorschrift. Tatsächlich ist die Bestimmung die gesetzliche Verankerung der **Dokumentationspflicht** der Strafbehörden — und damit die Grundlage, auf der Akteneinsicht (Art. 101 StPO), rechtliches Gehör (Art. 107 StPO) und wirksame Verteidigung überhaupt erst möglich werden.
+
+Das Bundesgericht formuliert den Zusammenhang so:
+
+> «Die effektive Wahrnehmung dieses Anspruchs setzt notwendigerweise voraus, dass die Akten vollständig sind. In einem Strafverfahren bedeutet dies, dass die Beweismittel, jedenfalls soweit sie nicht unmittelbar an der gerichtlichen Hauptverhandlung erhoben werden, in den Untersuchungsakten vorhanden sein müssen und dass aktenmässig belegt sein muss, wie sie produziert wurden, damit die beschuldigte Person in der Lage ist zu prüfen, ob sie inhaltliche oder formelle Mängel aufweisen und gegebenenfalls Einwände gegen deren Verwertbarkeit erheben kann.»
+
+([BGer 6B_1368/2017 vom 14. Juni 2018, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3), mit Hinweis auf [BGE 129 I 85, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_85#e-4-1)).
+
 ## Kommentierung
 
-### I. Bedeutung und Systematik
+### A. Das Aktendossier (Abs. 1)
 
-**1** Art. 100 StPO regelt die **Aktenführung** im Strafverfahren. Die Norm statuiert die Pflicht zur Erstellung eines Aktendossiers für jede Strafsache (Abs. 1) und die Pflicht zur systematischen Ablage und fortlaufenden Erfassung in einem Verzeichnis (Abs. 2). Die Aktenführung ist eine zentrale verfahrensrechtliche Pflicht, die Transparenz, Nachvollziehbarkeit und Fairness des Strafverfahrens sicherstellt.
+Für **jede** Strafsache ist ein Aktendossier anzulegen — unabhängig von der Schwere des Vorwurfs oder der Komplexität des Falles. Abs. 1 nennt drei Kategorien:
 
-**2** Die Regelung konkretisiert den in [Art. 3 Abs. 2 StPO](../art-003/) (Fairnessgebot) und [Art. 5 StPO](../art-005/) (Beschleunigungsgebot) verankerten Grundsatz der **Dokumentationspflicht** der Strafbehörden. Eine ordnungsgemässe Aktenführung ist Voraussetzung für das rechtliche Gehör (Art. 107 StPO), die Akteneinsicht (Art. 101 StPO) und die gerichtliche Überprüfung.
+- **lit. a — Verfahrens- und Einvernahmeprotokolle**: die Protokolle über die Verfahrenshandlungen und die Einvernahmen der beschuldigten Person, der Zeugen und der Auskunftspersonen (vgl. Art. 76 ff. StPO).
+- **lit. b — von der Strafbehörde zusammengetragene Akten**: was die Behörde von Amtes wegen erhebt oder beschafft — Gutachten, Berichte, Registerauskünfte.
+- **lit. c — von den Parteien eingereichte Akten**: Eingaben, Beweisanträge und Belege der Parteien (vgl. [Art. 109 StPO](../art-109/)).
 
-### II. Aktendossier (Abs. 1)
+Die Aufzählung ist nicht als Höchstmass zu lesen. Die Dokumentationspflicht reicht weiter, als der Wortlaut vermuten lässt (unten B).
 
-**3** **Pflicht zur Dossier-Erstellung.** Abs. 1 verpflichtet die Strafbehörde, für **jede Strafsache** ein Aktendossier anzulegen. Dies gilt unabhängig von der Schwere des Vorwurfs oder der Komplexität des Falles. Die Pflicht besteht ab Einleitung des Strafverfahrens.
+### B. Die Dokumentationspflicht
 
-**4** **Inhalt des Aktendossiers.** Abs. 1 lit. a–c nennt die drei Kategorien von Aktenstücken, die das Dossier umfassen muss:
+Der praktisch bedeutsame Gehalt von Art. 100 StPO ergibt sich aus der Rechtsprechung zur Dokumentationspflicht. [BGer 6B_1368/2017 vom 14. Juni 2018, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3) fasst sie zusammen:
 
-- **Lit. a — Verfahrens- und Einvernahmeprotokolle**: Dies umfasst alle Protokolle über Verfahrenshandlungen (z.B. Haftprüfungsverfahren, Beschlagnahmeanordnungen) sowie die Einvernahmeprotokolle der beschuldigten Person, von Zeugen und Auskunftspersonen ([BGE 147 IV 167, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_167#e-1-3); [6B_28/2018, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-7-3)).
+> «Die Anklagebehörde muss dem Gericht sämtliches Material zuleiten, das mit der Tat als Gegenstand eines gegen eine bestimmte Person erhobenen Vorwurfs in thematischem Zusammenhang steht. Sie muss dem Gericht und dem Beschuldigten respektive der Verteidigung sämtliche Spurenvorgänge zur Kenntnis bringen, die im Verfahren — und sei es auch nur mit geringer Wahrscheinlichkeit — Bedeutung erlangen können. Die Ermittlungs- und Untersuchungsbehörden dürfen grundsätzlich kein von ihnen erhobenes oder ihnen zugekommenes Material zurückbehalten, das einen Bezug zur Sache hat.»
 
-- **Lit. b — Von der Strafbehörde zusammengetragene Akten**: Dies umfasst alle Akten, die die Strafbehörde von Amtes wegen erhebt oder beschafft — Gutachten, Überwachungsberichte, Auskünfte aus Registern etc.
+Drei Punkte verdienen Hervorhebung:
 
-- **Lit. c — Von den Parteien eingereichte Akten**: Dies umfasst alle Eingaben, Beweisanträge und Belege, die die Parteien (beschuldigte Person, Privatklägerschaft, etc.) einreichen ([Art. 109 StPO](../art-109/)).
+**Geltung auf allen Verfahrensstufen.** Die Dokumentationspflicht gilt «auf allen Verfahrensstufen, also auch bereits im polizeilichen Ermittlungsverfahren» (a.a.O., mit Hinweis auf [BGer 6B_719/2011 vom 12. November 2012, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_719_2011#e-4-5)). Dort heisst es grundsätzlich: «Es gehört zu den elementaren Grundsätzen des Strafprozessrechts, dass sämtliche im Rahmen des Verfahrens vorgenommenen Erhebungen aktenkundig gemacht werden.»
 
-**5** Die dreiteilige Struktur stellt sicher, dass das Aktendossier die **gesamte Verfahrenshistorie** lückenlos abbildet. Fehlende Aktenstücke können einen Verfahrensfehler darstellen und im Einzelfall zu einem Beweisverwertungsverbot führen ([BGE 141 IV 39, E. 1.6.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39#e-1-6-1)).
+**Auch ergebnislose Ermittlungen.** Zu berücksichtigen ist, «dass auch ergebnislose oder unergiebige Ermittlungen in ihrem negativen Ausgang einen für die Urteilsfällung relevanten Gehalt aufweisen können». Auf die Einverleibung unergiebiger Aufzeichnungen kann jedoch verzichtet werden, «wenn die Tatsache der erfolglosen Überwachung in den Akten vermerkt ist» ([BGer 6B_1368/2017 vom 14. Juni 2018, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3), mit Hinweis auf Schmutz, BSK StPO, 2. Aufl. 2014, N. 14 zu Art. 100 StPO, und Krauss, BJM 1983 S. 62).
 
-### III. Systematische Ablage und Verzeichnispflicht (Abs. 2)
+**Beiakten.** Wichtig ist, «dass sich aus der Hauptakte der Bestand der verhandlungsrelevanten Beiakten jederzeit feststellen lässt und die richterliche Verfahrensgestaltung ebenso wie die Gewährung von Akteneinsicht diese zusätzlichen Materialien einbezieht» (a.a.O.).
 
-**6** **Systematische Ablage.** Die Verfahrensleitung sorgt für die **systematische Ablage** der Akten. Dies bedeutet, dass die Akten in einer logischen und nachvollziehbaren Reihenfolge geführt werden müssen, die eine effiziente Akteneinsicht und gerichtliche Überprüfung ermöglicht. Die Ablage muss den Zweck der Transparenz und Fairness erfüllen.
+### C. Systematische Ablage und Verzeichnis (Abs. 2)
 
-**7** **Fortlaufende Erfassung im Verzeichnis.** Die Verfahrensleitung muss die Akten in einem **Verzeichnis** fortlaufend erfassen. Das Verzeichnis ermöglicht den Parteien, den Umfang und Inhalt des Dossiers zu überblicken, und dient der Kontrolle der Vollständigkeit der Aktenführung. [BGer 6B_28/2018, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-7-3) stellt klar, dass die Grundsätze zur Aktenführungs- und Dokumentationspflicht in Art. 100 StPO konkretisiert werden.
+Die Verfahrensleitung sorgt für die systematische Ablage und die fortlaufende Erfassung in einem Verzeichnis. Beides dient demselben Zweck: Die Parteien sollen den Umfang des Dossiers überblicken und dessen Vollständigkeit kontrollieren können.
 
-**8** **Ausnahme in einfachen Fällen.** In **einfachen Fällen** kann die Verfahrensleitung von einem Verzeichnis absehen. Was als einfacher Fall gilt, bestimmt sich nach dem Ermessen der Verfahrensleitung. Die Ausnahme soll unnötigen Verwaltungsaufwand vermeiden, ohne die Dokumentationspflicht im Kern zu beeinträchtigen. Kriterium für die Einfachheit ist namentlich die geringe Anzahl von Aktenstücken, die eine separate Verzeichniserstellung entbehrlich machen.
+**Ausnahme in einfachen Fällen.** In einfachen Fällen darf die Verfahrensleitung von einem Verzeichnis absehen. Die Ausnahme betrifft nur das Verzeichnis — die Pflicht zur Anlage eines Dossiers (Abs. 1) und zur systematischen Ablage bleibt bestehen.
 
-### IV. Verhältnis zur Akteneinsicht und zum rechtlichen Gehör
+### D. Aktenführung und Akteneinsicht
 
-**9** Die ordnungsgemässe Aktenführung nach Art. 100 StPO ist **Voraussetzung** für die Gewährung der Akteneinsicht (Art. 101 StPO) und des rechtlichen Gehörs (Art. 107 StPO). Ohne vollständiges und systematisch geordnetes Aktendossier können die Parteien ihre Verteidigungsrechte nicht effektiv wahrnehmen.
+Der Anspruch auf Akteneinsicht folgt aus Art. 29 Abs. 2 BV und Art. 6 Ziff. 3 EMRK sowie aus Art. 3 Abs. 2 lit. c und Art. 107 Abs. 1 lit. a StPO. Er gibt der beschuldigten Person «das grundsätzlich uneingeschränkte Recht, in alle für das Verfahren wesentlichen Akten Einsicht zu nehmen»; das Akteneinsichtsrecht «soll sicherstellen, dass die beschuldigte Person als Verfahrenspartei von den Entscheidgrundlagen Kenntnis nehmen und sich wirksam und sachbezogen verteidigen kann» ([BGer 6B_28/2018, E. 7.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018#e-7-3); [BGer 6B_1368/2017 vom 14. Juni 2018, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3)).
 
-**10** Die Rückweisung eines Falles an die Staatsanwaltschaft nach Art. 329 Abs. 2 StPO kann unter anderem dann in Betracht kommen, wenn die Akten nicht im Sinne von [Art. 100 StPO ordnungsgemäss geführt sind](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39#e-1-6-1) oder — ausnahmsweise — wenn Beweise zu ergänzen sind ([BGE 147 IV 167, E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_167#e-1-3)).
+Die Aktenführung nach Art. 100 StPO ist damit nicht Selbstzweck: Sie ist die tatsächliche Voraussetzung dafür, dass Art. 107 StPO nicht leerläuft.
 
-### V. Verhältnis zu kantonalen Bestimmungen
+### E. Fremdsprachige Beweismittel
 
-**11** Kantonale Ausführungsbestimmungen können die Aktenführung im Detail regeln (z.B. Form des Verzeichnisses, elektronische Aktenführung). Die kantonalen Regelungen müssen jedoch den Mindestanforderungen von Art. 100 StPO genügen. Beispiel: Die kantonale Verordnung über die Staatsanwaltschaft des Kantons BS verweist ausdrücklich auf die Pflicht zur systematischen Aktenablage und fortlaufenden Erfassung nach Art. 100 Abs. 2 StPO.
+Ein früher Leitentscheid betrifft die Überwachung fremdsprachiger Telefongespräche. [BGE 129 I 85](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_85) hält im Regeste fest, die aus dem rechtlichen Gehör folgenden Verteidigungsrechte erheischten, «dass aktenmässig belegt ist, wie Beweismittel produziert wurden». Der Entscheid erging noch zum kantonalen Recht und vor Inkrafttreten der StPO, wird aber in der Praxis zu Art. 100 StPO weiterhin herangezogen (vgl. [BGer 6B_1368/2017 vom 14. Juni 2018, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3)).
+
+### F. Folgen mangelhafter Aktenführung
+
+Die StPO knüpft an einen Verstoss gegen Art. 100 StPO keine ausdrückliche Sanktion. In Betracht kommen die Rüge der Gehörsverletzung, die Nachforderung der fehlenden Unterlagen und — je nach Gewicht des Mangels — Folgen für die Verwertbarkeit des betroffenen Beweismittels nach Art. 141 StPO.
+
+Eine **Rückweisung der Anklage an die Staatsanwaltschaft** kommt dagegen nur zurückhaltend in Betracht. Das Bundesgericht hat für die Beweisergänzung entschieden, eine Rückweisung nach Art. 329 Abs. 2 StPO sei «nur ganz ausnahmsweise zulässig»; es sei Aufgabe des Gerichts, neue Beweise zu erheben, unvollständig erhobene zu ergänzen und im Vorverfahren nicht ordnungsgemäss abgenommene nochmals zu erheben ([BGE 141 IV 39](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_39), Regeste und E. 1.6.2). Dieser Massstab ist auf Aktenführungsmängel zu übertragen: Das Gericht hat die Lücke primär selbst zu schliessen.
+
+## Rechtsprechung
+
+Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 100 StPO](rechtsprechung/)
 
 ## Literatur
 
-- Donatsch/Hans/Hostettler/Heimgartner, Kommentar zur Schweizerischen Strafprozessordnung, Art. 100 N. 1 ff.
-- Riedo/Fellmann/Niggli, Basler Kommentar StPO, Art. 100 N. 1 ff.
+Die folgenden Werke werden in der Rechtsprechung zu Art. 100 StPO herangezogen:
+
+- Schmutz, Markus, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2014, N. 14 zu Art. 100 StPO (zitiert in [BGer 6B_1368/2017, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1368_2017#e-2-3)).
+- Krauss, Detlef, Der Umfang der Strafakte, BJM 1983, S. 49 ff., 62 (zitiert ebenda).
