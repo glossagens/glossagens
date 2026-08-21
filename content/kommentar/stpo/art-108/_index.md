@@ -5,13 +5,18 @@ date: "2026-06-20"
 description: "Kommentar zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs: Voraussetzungen, Grenzen und nachträgliche Gewährung"
 tags: ["StPO", "rechtliches Gehör", "Einschränkung", "Geheimhaltungsinteresse", "Rechtsbeistand", "Parteiöffentlichkeit"]
 agent_verified: true
-mcp_verified: true
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 29 %). BGer 1B_467/2016 entfernt — der Entscheid erwähnt Art. 108 StPO kein einziges Mal, war aber als Beleg zu Abs. 2 geführt. Vier weitere Entscheide (6B_330/2016, 1B_404/2012, 1B_315/2014, 6B_256/2017) trugen Kernaussagen, die im Volltext nicht stehen; sie sind nach ihrem tatsächlichen Inhalt neu gefasst und den zutreffenden Absätzen zugeordnet. Pinpoints korrigiert: BGE 143 IV 457 E. 4 → E. 1, 6B_330/2016 E. 3 → E. 3.4.2, 1B_404/2012 E. 3 → E. 2.2 f., 1B_315/2014 E. 2 → E. 4.1 f., 6B_256/2017 E. 5 → E. 3.3. Das unbelegte Beispiel der Geschäftsgeheimnisse Dritter ist durch die tatsächlich entschiedenen Konstellationen ersetzt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 ---
 
 ## Gesetzeswortlaut
@@ -52,17 +57,19 @@ lastmod: "2026-08-13"
 
 **5** Die **Sicherheit von Personen** kann eine Einschränkung rechtfertigen, namentlich wenn Zeugen oder Auskunftspersonen gefährdet sind. Dies gilt insbesondere im Bereich der organisierten Kriminalität und bei Gefährdung von V-Personen oder deren Kontaktpersonen.
 
-**6** **Öffentliche oder private Geheimhaltungsinteressen** rechtfertigen eine Einschränkung, wenn die Offenlegung von Informationen die Sicherheit des Staates, den Schutz von Geschäftsgeheimnissen oder andere schutzwürdige Interessen gefährden würde. Beispiel: Die Nichteröffnung von Akten, die Geschäftsgeheimnisse von Dritten enthalten ([BGE 141 IV 220, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220#e-4-4); [BGE 138 IV 78, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_78#e-3)).
+**6** **Öffentliche oder private Geheimhaltungsinteressen** rechtfertigen eine Einschränkung, wenn die Offenlegung von Informationen die Sicherheit des Staates, den Schutz von Geschäftsgeheimnissen oder andere schutzwürdige Interessen gefährden würde. Die Prüfung erfolgt stets konkret. [BGE 138 IV 78, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_78#e-3) zeigt den Regelfall: Die Privatklägerin hat als Partei Anspruch auf Akteneinsicht «unter Vorbehalt von Art. 108 StPO (Art. 101 Abs. 1 StPO)»; im dortigen Fall waren «Gründe für Einschränkungen des rechtlichen Gehörs im Sinne von Art. 108 StPO […] nicht ersichtlich», weshalb auch die Akten des Haftprüfungsverfahrens einzusehen waren.
+
+Dass die Parteiöffentlichkeit «unter Umständen zu Effizienzverlusten und zu gewissen prozessualen Ungleichbehandlungen von Mitbeschuldigten führen» kann, rechtfertigt für sich allein keine Einschränkung; die StPO stellt dafür eigene Bestimmungen bereit ([BGE 141 IV 220, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_220#e-4-4)).
 
 ### III. Einschränkungen gegenüber Rechtsbeiständen (Abs. 2)
 
-**7** Abs. 2 enthält eine **besondere Schutzvorschrift** für Rechtsbeistände. Einschränkungen gegenüber Rechtsbeiständen sind **nur zulässig**, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt. Dies bedeutet: Die Einschränkung des rechtlichen Gehörs der beschuldigten Person darf nicht über den Umweg der Einschränkung des Rechtsbeistands erfolgen, es sei denn, der Rechtsbeistand selbst ist der Grund für die Beschränkung (z.B. Verdacht der Kollusion, Verdacht der Beweisvereitelung durch den Anwalt).
+**7** Abs. 2 enthält eine **besondere Schutzvorschrift** für Rechtsbeistände. Einschränkungen gegenüber Rechtsbeiständen sind **nur zulässig**, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt. Dies bedeutet: Die Einschränkung des rechtlichen Gehörs der beschuldigten Person darf nicht über den Umweg der Einschränkung des Rechtsbeistands erfolgen, es sei denn, der Rechtsbeistand selbst ist der Grund für die Beschränkung. Publizierte bundesgerichtliche Rechtsprechung, die den Anwendungsbereich von Abs. 2 näher konturiert, liess sich im Rahmen dieser Überarbeitung nicht nachweisen; [BGer 1B_315/2014, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_1B_315_2014#e-4-1) gibt die Bestimmung wieder, ohne sie zu vertiefen.
 
 **8** Diese Regelung schützt das **Vertrauensverhältnis** zwischen der beschuldigten Person und ihrem Rechtsbeistand. Eine Einschränkung der Akteneinsicht gegenüber dem Rechtsbeistand ist nur in engen Grenzen zulässig und setzt voraus, dass der Rechtsbeistand selbst die Gefahr darstellt.
 
 ### IV. Befristung und Begrenzung (Abs. 3)
 
-**9** Einschränkungen des rechtlichen Gehörs sind **zu befristen** oder auf **einzelne Verfahrenshandlungen zu begrenzen**. Dies konkretisiert das Verhältnismässigkeitsgebot: Die Einschränkung darf nicht länger andauern als notwendig und nicht weiter reichen als der Einschränkungsgrund erfordert. Offene Einschränkungen ohne zeitliche oder sachliche Begrenzung sind verfassungswidrig.
+**9** Einschränkungen des rechtlichen Gehörs sind **zu befristen** oder auf **einzelne Verfahrenshandlungen zu begrenzen**. Dies konkretisiert das Verhältnismässigkeitsgebot: Die Einschränkung darf nicht länger andauern als notwendig und nicht weiter reichen als der Einschränkungsgrund erfordert. Eine Einschränkung ohne zeitliche oder sachliche Begrenzung widerspricht dem Wortlaut von Abs. 3.
 
 **10** Die Befristung kann sich auf einen bestimmten Zeitraum (z.B. bis zum Abschluss einer bestimmten Untersuchung) oder auf eine bestimmte Verfahrenshandlung (z.B. eine konkrete Einvernahme) beziehen. Nach Ablauf der Frist oder nach Abschluss der betroffenen Verfahrenshandlung muss das rechtliche Gehör wieder vollständig gewährt werden.
 
