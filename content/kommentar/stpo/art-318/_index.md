@@ -2,18 +2,27 @@
 title: "Art. 318 StPO — Abschluss"
 weight: 318
 date: 2026-08-03
-lastmod: "2026-08-13"
+lastmod: 2026-08-21
 description: "Kommentar zu Art. 318 StPO (Abschluss der Untersuchung, Parteimitteilung, Konstituierung der Privatklägerschaft, Beweisanträge, antizipierte Beweiswürdigung und Unanfechtbarkeit)."
 tags: ["StPO", "Vorverfahren", "Untersuchungsverfahren", "Abschluss der Untersuchung", "Beweisanträge", "Rechtliches Gehör", "Privatklägerschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 27 %). Alle 13 Referenzen existieren und treffen thematisch zu. Fehlende Überschrift «Gesetzeswortlaut» ergänzt und die Kramdown-Zeile «{: .gesetzeszitat}» entfernt, die Hugo wörtlich ausgab. Drei Erwägungsangaben korrigiert: BGE 149 IV 205 E. 2 → E. 3.3 (der Regeste verweist selbst darauf), OG Aargau SBK.2025.284 E. 2.2 → E. 4.2.1, BGE 142 I 10 E. 2.4 → E. 2. Beim Entscheid OG Bern BK 2011 147 sind in der Datenbank keine gegliederten Erwägungen hinterlegt; die E.-Angabe ist entfallen."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
+    mcp_verified: false
     note: "Voll-Audit KW33 StPO"
 ---
 
+## Gesetzeswortlaut
+
+> **Art. 318 StPO — Abschluss**
+>
 > <sup>1</sup> Erachtet die Staatsanwaltschaft die Untersuchung als vollständig, so erlässt sie einen Strafbefehl oder kündigt den Parteien mit bekanntem Wohnsitz schriftlich den bevorstehenden Abschluss an und teilt ihnen mit, ob sie Anklage erheben oder das Verfahren einstellen will. Gleichzeitig setzt sie den Parteien eine Frist, Beweisanträge zu stellen.
 >
 > <sup>1bis</sup> Sie teilt den geschädigten Personen mit bekanntem Wohnsitz, die noch nicht über ihre Rechte informiert wurden, schriftlich mit, dass sie einen Strafbefehl erlassen, Anklage erheben oder das Verfahren durch Einstellung abschliessen will, und setzt ihnen eine Frist, innerhalb welcher sie sich als Privatklägerschaft konstituieren und Beweisanträge stellen können.
@@ -21,7 +30,8 @@ revisions:
 > <sup>2</sup> Sie kann Beweisanträge nur ablehnen, wenn damit die Beweiserhebung über Tatsachen verlangt wird, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind. Der Entscheid ergeht schriftlich und mit kurzer Begründung. Abgelehnte Beweisanträge können im Hauptverfahren erneut gestellt werden.
 >
 > <sup>3</sup> Mitteilungen nach den Absätzen 1 und 1<sup>bis</sup> sowie Entscheide nach Absatz 2 sind nicht anfechtbar.
-{: .gesetzeszitat}
+
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025. Abs. 1bis wurde eingefügt und Abs. 3 neu gefasst durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
 
 ## I. Überblick und Bedeutung
 
@@ -43,7 +53,7 @@ Die Pflicht zur Erteilung der Abschlussmitteilung entsteht, sobald die Staatsanw
 * **Ausnahme Strafbefehl**: Will die Staatsanwaltschaft das Verfahren durch Strafbefehl erledigen (Art. 352 ff. StPO), ergeht in der Regel keine vorgängige Abschlussmitteilung nach Abs. 1. Das rechtliche Gehör wird in diesem Fall nachgelagert über das Einspracherecht (Art. 354 StPO) gewahrt, wo Beweisanträge im Rahmen des Einspracheverfahrens gestellt werden können.
 
 ### 2. Schutz bisher uninformierter Geschädigter (Abs. 1bis)
-Durch das Gesetz zur Verbesserung der Praxistauglichkeit der StPO (in Kraft seit 1. Januar 2024) verpflichtet **Abs. 1<sup>bis</sup>** die Staatsanwaltschaft, Geschädigte, die bislang nicht über ihre Mitwirkungs- und Parteirechte belehrt wurden (z.B. Opfer, die im Polizeirapport nicht ausdrücklich als Privatkläger erfasst wurden), schriftlich über den bevorstehenden Untersuchungsabschluss zu orientieren ([OG Aargau SBK.2025.284 E. 2.2](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SBK.2025.284)). 
+Durch das Gesetz zur Verbesserung der Praxistauglichkeit der StPO (in Kraft seit 1. Januar 2024) verpflichtet **Abs. 1<sup>bis</sup>** die Staatsanwaltschaft, Geschädigte, die bislang nicht über ihre Mitwirkungs- und Parteirechte belehrt wurden (z.B. Opfer, die im Polizeirapport nicht ausdrücklich als Privatkläger erfasst wurden), schriftlich über den bevorstehenden Untersuchungsabschluss zu orientieren ([Gericht SBK.2025.284 vom 4. November 2025, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SBK.2025.284#e-4-2-1): «Die Aufklärungspflicht gemäss Art. 118 Abs. 4 StPO wird durch Art. 318 Abs. 1bis StPO abgesichert»). 
 Ihnen ist eine Frist einzuräumen, innerhalb derer sie:
 1. Sich formgültig als Privatklägerschaft (Straf- und/oder Zivilkläger, Art. 118 f. StPO) konstituieren können.
 2. Beweisanträge nach Abs. 2 stellen können.
@@ -71,10 +81,10 @@ Wird ein Beweisantrag von der Staatsanwaltschaft im Vorverfahren abgelehnt, geht
 
 ### 1. Grundsatz der Unanfechtbarkeit
 Nach **Abs. 3** sind sowohl die Abschlussmitteilungen nach Abs. 1 und Abs. 1<sup>bis</sup> als auch Ablehnungsentscheide über Beweisanträge nach Abs. 2 **grundsätzlich nicht anfechtbar**. 
-Der Gesetzgeber wollte verhindern, dass das Vorverfahren durch Zwischenbeschwerden gegen prozessleitende Beweisverfügungen schleppend verzögert wird ([BGE 143 IV 475 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475); [OG Bern BK 2011 147](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_BK_2011_147)). Der Rechtsschutz wird dadurch gewahrt, dass Beweisanträge im Hauptverfahren wiederholt oder Beweisrügen im Rahmen der Beschwerde gegen eine Einstellungsverfügung erhoben werden können ([BGer 6B_1158/2016 E. 1.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1158_2016)).
+Der Gesetzgeber wollte verhindern, dass das Vorverfahren durch Zwischenbeschwerden gegen prozessleitende Beweisverfügungen schleppend verzögert wird ([BGE 143 IV 475 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475); [Gericht BK 2011 147 vom 6. September 2011](https://mcp.opencaselaw.ch/entscheid/be_zivilstraf_BK_2011_147)). Der Rechtsschutz wird dadurch gewahrt, dass Beweisanträge im Hauptverfahren wiederholt oder Beweisrügen im Rahmen der Beschwerde gegen eine Einstellungsverfügung erhoben werden können ([BGer 6B_1158/2016 E. 1.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1158_2016)).
 
 ### 2. Ausnahmsweise Anfechtbarkeit bei drohendem Rechtsnachteil
-Das Bundesgericht hat klargestellt, dass das grundsätzliche Rechtsmittelverbot von Art. 318 Abs. 3 StPO in systematischer Abstimmung mit **Art. 394 lit. b StPO** und **Art. 93 Abs. 1 lit. a BGG** durchbrochen werden kann ([BGE 149 IV 205 E. 1.2 & E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205)).
+Das Bundesgericht hat klargestellt, dass das grundsätzliche Rechtsmittelverbot von Art. 318 Abs. 3 StPO in systematischer Abstimmung mit **Art. 394 lit. b StPO** und **Art. 93 Abs. 1 lit. a BGG** durchbrochen werden kann ([BGE 149 IV 205, E. 1.2 und E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205#e-3-3)).
 
 Eine sofortige Beschwerde an die kantonale Beschwerdeinstanz (Art. 393 StPO) ist ausnahmsweise zulässig, wenn der betroffenen Partei durch die Ablehnung des Beweisantrags ein **nicht wieder gutzumachender (Rechts-)Nachteil** droht, der auch durch einen späteren Gerichtsentscheid im Hauptverfahren oder im Berufungsverfahren nicht mehr behoben werden kann.
 
@@ -86,7 +96,7 @@ Eine sofortige Beschwerde an die kantonale Beschwerdeinstanz (Art. 393 StPO) ist
 
 **Problemstellung**: Parteien versuchen häufig, abgelehnte Beweisanträge direkt mit Beschwerde nach Art. 393 StPO anzufechten. Die kantonale Praxis steht vor der Frage, wann das Rechtsmittelverbot gemäss Art. 318 Abs. 3 StPO greift und wann ausnahmsweise auf die Beschwerde einzutreten ist.
 
-**Rechtsprechung und Lösung**: Die kantonale Beschwerdeinstanz tritt gemäss der bundesgerichtlichen Leitdoktrin ([BGE 149 IV 205 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205); [OG Basel-Stadt BES.2015.147 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_BES.2015.147)) nur dann auf eine Beschwerde ein, wenn ein *rechtlicher* Nachteil droht. Ein bloss tatsächlicher Nachteil (wie die Verlängerung des Verfahrens oder zusätzliche Kosten) genügt nicht. 
+**Rechtsprechung und Lösung**: Die kantonale Beschwerdeinstanz tritt gemäss der bundesgerichtlichen Leitdoktrin ([BGE 149 IV 205, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205#e-3-3); [OG Basel-Stadt BES.2015.147 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_BES.2015.147)) nur dann auf eine Beschwerde ein, wenn ein *rechtlicher* Nachteil droht. Ein bloss tatsächlicher Nachteil (wie die Verlängerung des Verfahrens oder zusätzliche Kosten) genügt nicht. 
 Ein drohender Rechtsnachteil liegt namentlich in folgenden Ausnahmefällen vor:
 1. **Uniederbringlicher Beweisverlust**: Wenn die Gefahr besteht, dass das Beweismittel bis zum Hauptverfahren vernichtet wird, Zeugen versterben oder der Zustand einer Sache sich verändert (Beweissicherungsnotstand).
 2. **Drohende Schutzgut- oder Grundrechtsverletzung**: Wenn die Weigerung zur Beweiserhebung unmittelbar in verfassungsmässige Rechte (wie die persönliche Freiheit oder das Fernmeldegeheimnis) eingreift.

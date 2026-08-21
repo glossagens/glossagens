@@ -2,16 +2,22 @@
 title: "Rechtsprechung zu Art. 318 StPO"
 weight: 99
 date: 2026-08-03
-lastmod: 2026-08-03
+lastmod: 2026-08-21
 description: "Übersicht der wesentlichen Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 318 StPO (Abschluss der Untersuchung, Beweisanträge und Unanfechtbarkeit)."
 tags: ["Rechtsprechung", "StPO", "Abschluss der Untersuchung", "Beweisanträge", "Rechtliches Gehör"]
 agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 27 %). Alle Referenzen verifiziert; Erwägungsangaben zu BGE 149 IV 205, BGE 142 I 10 und SBK.2025.284 korrigiert. Fehlender revisions-Block ergänzt."
 ---
 
 ## I. Leitentscheide
 
 * **Ausnahmsweise Anfechtbarkeit der Ablehnung von Beweisanträgen bei drohendem nicht wieder gutzumachendem Rechtsnachteil**
-  [BGE 149 IV 205 E. 1.2 & E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205)
+  [BGE 149 IV 205, E. 1.2 und E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205#e-3-3)
   Das Bundesgericht stellt klar, dass der in Art. 394 lit. b StPO verankerte Begriff des Rechtsnachteils deckungsgleich ist mit dem nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG. Obwohl Verfügungen über Beweisanträge nach Art. 318 Abs. 3 StPO grundsätzlich unanfechtbar sind, ist die Beschwerde ausnahmsweise zulässig, wenn die Ablehnung eines Beweisantrags einen irreversiblen Rechtsnachteil bewirken würde, der im Hauptverfahren oder im Einstellungsverfahren nicht mehr geheilt werden kann.
 
 * **Grundsatz der Unanfechtbarkeit verfahrensleitender Entscheidungen über Beweiserhebungen im Vorverfahren**
@@ -27,7 +33,7 @@ agent_verified: true
   Der Anspruch auf rechtliches Gehör im Rahmen der Abschlussmitteilung nach Art. 318 Abs. 1 StPO verlangt, dass die Parteien vor einer Verfahrenseinstellung Gelegenheit erhalten, sich zum Verfahrensausgang, zu allfälligen Beweisanträgen sowie zu den Kosten- und Entschädigungsfolgen zu äussern.
 
 * **Verbot des überspitzten Formalismus bei Fristansetzung und Fristversäumnis im Vorverfahren**
-  [BGE 142 I 10 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_142%20I%2010)
+  [BGE 142 I 10, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_10#e-2)
   Das Recht auf ein faires Verfahren (Art. 29 Abs. 1 BV, Art. 3 Abs. 2 lit. a StPO) verbietet überspitzten Formalismus bei der Handhabung von Fristen zur Einreichung von Beweisanträgen nach Art. 318 Abs. 1 StPO. Bei Unklarheiten oder entschuldbaren Fristversäumnissen ist den Parteien eine Nachfrist einzuräumen.
 
 ---
@@ -59,5 +65,5 @@ agent_verified: true
   Das Appellationsgericht führt aus, dass die Ablehnung eines Antrags auf Einholung eines Ergänzungsgutachtens im Untersuchungsverfahren mangels Rechtsnachteils i.S.v. Art. 394 lit. b StPO unanfechtbar ist, sofern keine unmittelbare Gefahr des Beweisverlusts besteht.
 
 * **Anwendung von Art. 318 Abs. 1bis StPO zur Gewährung von Privatklägerrechten Geschädigter (StPO-Revision 2024)**
-  [OG Aargau SBK.2025.284 vom 04.11.2025](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SBK.2025.284)
+  [Gericht SBK.2025.284 vom 4. November 2025, E. 4.2.1](https://mcp.opencaselaw.ch/entscheid/ag_strafgericht_SBK.2025.284#e-4-2-1)
   Das Obergericht konkretisiert die Anwendung von Art. 318 Abs. 1<sup>bis</sup> StPO (in Kraft seit 1. Januar 2024): Wurde eine geschädigte Person im Vorverfahren noch nicht ordnungsgemäss belehrt, muss ihr mit der Abschlussmitteilung zwingend Frist zur Erklärung über die Konstituierung als Privatklägerschaft angesetzt werden.
