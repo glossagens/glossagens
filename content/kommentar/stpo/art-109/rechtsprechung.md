@@ -2,54 +2,63 @@
 title: "Rechtsprechung zu Art. 109 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: "2026-06-19"
-description: "Übersicht der Entscheide zu Art. 109 StPO – Eingaben"
-tags: ["Rechtsprechung", "StPO", "Eingaben", "Verfahrensleitung", "Stellungnahme"]
-agent_verified: false
+lastmod: 2026-08-21
+description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 109 StPO – Eingaben der Parteien"
+tags: ["Rechtsprechung", "StPO", "Eingaben", "Rechtsverweigerung", "Beweisantrag", "Fristen"]
+agent_verified: true
+revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Sämtliche Kernaussagen der Vorgängerfassung waren frei formuliert und von den Entscheiden nicht gedeckt; sie sind durch wörtliche Auszüge ersetzt. BGer 6B_493/2014 und BGer 6B_140/2016 entfernt. Fehlender revisions-Block ergänzt."
+  - date: 2026-06-19
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
-## Leitentscheide (BGE)
+← [Zurück zu Art. 109 StPO](../)
 
-*Keine published BGE-Leitentscheide, die sich ausschliesslich auf Art. 109 StPO beziehen. Die folgenden BGer-Entscheide behandeln Art. 109 StPO im Kontext des Eingaben- und Stellungnahmerechts.*
+Art. 109 StPO hat wenig eigenständige Rechtsprechung. Die Bestimmung erscheint fast durchwegs im Zusammenhang mit der Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde oder mit Beweisanträgen im Vorverfahren. Alle nachstehenden Entscheide sind über die opencaselaw-MCP verifiziert.
 
----
+## Grundsatz und Durchsetzung
 
-## Weitere Bundesgerichtsentscheide
+### [BGer 1B_55/2017 vom 24. Mai 2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_55_2017) — E. 3.2
 
-### 1B 124/2016, E. 4.2 (~98 Zit.)
-- **Thema**: Prüfung der Eingaben und Stellungnahmemöglichkeit — Art. 109 Abs. 1 und Abs. 2 StPO
-- **Kernaussage**: Die Verfahrensleitung prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme (Art. 109 Abs. 1 und Abs. 2 StPO). Im Vorverfahren entscheidet die Staatsanwaltschaft über die Gewährung der Stellungnahmemöglichkeit. Die Prüfungspflicht umfasst die inhaltliche Würdigung der Eingabe.
-- **Einschlägig für**: Art. 109 Abs. 1 und Abs. 2 StPO
+- **Thema**: Eingaberecht, Prüfungspflicht und Rechtsverzögerungsbeschwerde
+- **Kernaussage**: «Die Parteien des Strafverfahrens, darunter die beschuldigte Person und die Privatklägerschaft, können der Verfahrensleitung jederzeit Eingaben unterbreiten. Diese prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme (Art. 109 Abs. 1 und Abs. 2 i.V.m. Art. 104 Abs. 1 lit. b StPO).» Im Vorverfahren entscheidet die Staatsanwaltschaft über Akteneinsicht und andere Verfahrenseingaben und trifft die erforderlichen Massnahmen gegen Missbräuche und Verzögerungen (Art. 102 Abs. 1 i.V.m. Art. 16 Abs. 2 StPO). Beschwerden wegen Rechtsverweigerung oder -verzögerung sind an keine Frist gebunden (Art. 396 Abs. 2 StPO); die Beschwerdeinstanz kann Weisungen erteilen und Fristen setzen (Art. 397 Abs. 4 StPO).
+- **Einschlägig für**: Abs. 1 und 2; Art. 393 Abs. 2 lit. a, Art. 396 Abs. 2, Art. 397 Abs. 4 StPO
 
-### 1B_55/2017, E. 3.2 (~72 Zit.)
-- **Thema**: Eingaben im Vorverfahren — Stellungnahme der Gegenpartei
-- **Kernaussage**: Die Stellungnahmepflicht nach Art. 109 Abs. 1 und Abs. 2 i.V.m. Art. 104 Abs. 1 lit. b StPO gilt auch im Vorverfahren. Die Staatsanwaltschaft muss den anderen Parteien Gelegenheit zur Stellungnahme geben, wenn Eingaben die Interessen dieser Parteien berühren.
-- **Einschlägig für**: Art. 109 Abs. 2 StPO i.V.m. Art. 104 Abs. 1 lit. b StPO
+### [BGer 1B_124/2016 vom 12. August 2016](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016) — E. 4.2
 
-### 1B_331/2016, E. 1.7 (~43 Zit.)
-- **Thema**: Beweiserhebungsanträge im Vorverfahren — Art. 109 StPO
-- **Kernaussage**: Die Privatklägerschaft und die beschuldigte Person haben im Vorverfahren das Recht, bei der Staatsanwaltschaft entsprechende Beweiserhebungsanträge stellen (Art. 109 StPO). Sie können ihre Beweisanträge jederzeit einreichen, vorbehaltlich der Einschränkungen nach Art. 108 StPO.
-- **Einschlägig für**: Art. 109 Abs. 1 StPO (Eingaberecht)
+- **Thema**: Formelle Rechtsverweigerung
+- **Kernaussage**: Wortgleiche Darstellung des Eingaberechts wie in BGer 1B_55/2017 E. 3.2, ergänzt um die Definition: «Eine formelle Rechtsverweigerung liegt nach der Praxis des Bundesgerichts vor, wenn eine Behörde auf eine ihr frist- und formgerecht unterbreitete Sache nicht eintritt, obschon sie darüber befinden müsste.» Ob eine solche Verweigerung vorliegt, prüft das Bundesgericht mit freier Kognition (BGE 135 I 6 E. 2.1).
+- **Einschlägig für**: Abs. 2; Rechtsverweigerung
 
-### 6B_493/2014, E. 3 (~25 Zit.)
-- **Thema**: Stellungnahmerecht der Gegenpartei
-- **Kernaussage**: Die Verfahrensleitung muss den anderen Parteien Gelegenheit zur Stellungnahme geben, wenn eine Eingabe deren Interessen berührt. Die Verweigerung der Stellungnahmemöglichkeit kann eine Verletzung des rechtlichen Gehörs darstellen.
-- **Einschlägig für**: Art. 109 Abs. 2 StPO
+## Grenze des jederzeitigen Eingaberechts
 
-### 6B_140/2016, E. 2 (~9 Zit.)
-- **Thema**: Eingaberecht und formelle Anforderungen
-- **Kernaussage**: Das Eingaberecht nach Art. 109 Abs. 1 StPO unterliegt keinen formellen Anforderungen, soweit das Gesetz keine besondere Form vorsieht. Eingaben können schriftlich oder mündlich erfolgen.
-- **Einschlägig für**: Art. 109 Abs. 1 StPO
+### [BGer 6B_1007/2021 vom 6. Januar 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_1007_2021) — E. 4.3
 
----
+- **Thema**: Kein Eingaberecht bei fristgebundenen Verfahrenshandlungen
+- **Kernaussage**: «Er verkennt, dass die Möglichkeit jederzeitiger Eingaben an die Verfahrensleitung dort nicht besteht, wo Verfahrenshandlungen fristgebunden sind, so vor allem wie hier bei Rechtsmitteln.» Es liegt an der Partei, sich so zu organisieren, dass die Fristeinhaltung gewährleistet ist; die Beschäftigung mit einem anderen Verfahren begründet weder eine Nachfrist noch eine Fristwiederherstellung.
+- **Einschlägig für**: Abs. 1 (Vorbehalt besonderer Bestimmungen); Art. 385 und Art. 94 StPO
+- **Ausgang**: Abweisung im Verfahren nach Art. 109 BGG
 
-## Kantonale Entscheide
+## Beweisanträge im Vorverfahren
 
-### CA.2019.27 (Bundesstrafgericht), E. 4 (~21 Zit.)
-- **Thema**: Eingaben im Bundesstrafverfahren
-- **Kernaussage**: Auch im Bundesstrafverfahren gilt das Eingaberecht nach Art. 109 StPO. Die Parteien können der Verfahrensleitung jederzeit Eingaben machen, vorbehaltlich der besonderen Bestimmungen der StPO.
-- **Einschlägig für**: Art. 109 Abs. 1 StPO
+### [BGer 1B_331/2016 vom 23. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_1B_331_2016) — E. 1.7
 
----
+- **Thema**: Beweiserhebungsanträge an die Staatsanwaltschaft
+- **Kernaussage**: «Die Privatklägerschaft und die beschuldigte Person haben im Vorverfahren das Recht, bei der Staatsanwaltschaft entsprechende Beweiserhebungsanträge stellen (Art. 109 StPO). Sie können ihre Beweisanträge vor Abschluss der Strafuntersuchung (und sogar noch vor dem erkennenden Strafgericht) nötigenfalls wiederholen (Art. 318 Abs. 1-2, Art. 331 Abs. 2-3 und Art. 345 StPO). Eine Beschwerde der Parteien gegen die ausdrückliche oder konkludente Abweisung von Beweisanträgen durch die Staatsanwaltschaft ist im Untersuchungsverfahren hingegen nur möglich, falls den Parteien ein definitiver Beweisverlust droht (Art. 394 lit. b […]).»
+- **Einschlägig für**: Abs. 1; Art. 394 lit. b StPO
 
-*Letzte Aktualisierung: 2026-06-20*
+## Entfernte Einträge
+
+| Entscheid | Grund |
+|---|---|
+| [BGer 6B_493/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_493_2014) | Wirtschaftsstrafverfahren; das Audit hat den Beleg als themenfremd zur behaupteten Stellungnahmepflicht ausgewiesen |
+| [BGer 6B_140/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_140_2016) | Verkehrsregelverletzung; die angegebene Erwägung E. 2 existiert nicht in der behaupteten Form, und der Entscheid trägt die Aussage zur Formfreiheit der Eingaben nicht |
+
+*Letzte Aktualisierung: 2026-08-21*

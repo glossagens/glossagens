@@ -1,17 +1,22 @@
 ---
-title: "Art. 109 — Eingaben"
+title: "Art. 109 StPO — Eingaben"
 weight: 109
 date: "2026-06-20"
-description: "Kommentar zu Art. 109 StPO – Eingaben: Recht der Parteien auf Einreichung von Eingaben und Pflicht der Verfahrensleitung zur Prüfung und Stellungnahmewehr"
-tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag"]
+lastmod: 2026-08-21
+description: "Kommentar zu Art. 109 StPO: jederzeitiges Eingaberecht der Parteien und seine Grenze bei fristgebundenen Verfahrenshandlungen; Prüfungs- und Stellungnahmepflicht der Verfahrensleitung; Durchsetzung über die Rechtsverweigerungsbeschwerde."
+tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag", "Rechtsverweigerung"]
 agent_verified: true
-mcp_verified: true
 revisions:
+  - date: 2026-08-21
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Die Kernaussagen waren durchweg frei formuliert und von den zitierten Entscheiden nicht gedeckt; namentlich stammt die Aussage zur «formelhaften Ablehnung» nicht aus BGer 1B_124/2016. Neu belegt mit BGer 1B_55/2017 E. 3.2, BGer 1B_124/2016 E. 4.2, BGer 6B_1007/2021 E. 4.3 (Grenze des jederzeitigen Eingaberechts bei Fristen) und BGer 1B_331/2016 E. 1.7. Unzutreffende Pinpoint-Angabe bei 6B_140/2016 entfernt; BGer 6B_493/2014 gestrichen. Erfundene Literaturliste entfernt; unzulässiges Top-Level-Feld mcp_verified aus dem Frontmatter entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
+    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
 ---
 
 ## Gesetzeswortlaut
@@ -22,59 +27,69 @@ lastmod: "2026-08-13"
 >
 > 2 Die Verfahrensleitung prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme.
 
+*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+
+## Überblick und Bedeutung
+
+Art. 109 StPO gibt den Parteien ein allgemeines Eingaberecht und verpflichtet die Verfahrensleitung im Gegenzug zu zweierlei: die Eingabe zu prüfen und die übrigen Parteien dazu anzuhören. Die Norm schliesst damit das Kapitel über die allgemeinen Parteirechte (Art. 104 ff. StPO) ab und ergänzt das rechtliche Gehör (Art. 107 StPO) um seine aktive Seite — nicht nur angehört zu werden, sondern das Verfahren von sich aus mit Anträgen zu bespielen.
+
+Praktisch entfaltet die Bestimmung ihre Wirkung vor allem dort, wo eine Behörde auf eine Eingabe **gar nicht** reagiert. Art. 109 StPO ist deshalb in der Rechtsprechung fast durchwegs im Zusammenhang mit der Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde zu finden.
+
 ## Kommentierung
 
-### I. Bedeutung und Systematik
+### A. Jederzeitiges Eingaberecht (Abs. 1)
 
-**1** Art. 109 StPO regelt das **Eingaberecht** der Parteien im Strafverfahren. Die Norm enthält zwei Grundregeln: das **Recht der Parteien auf Einreichung von Eingaben** (Abs. 1) und die **Pflicht der Verfahrensleitung zur Prüfung und Anhörung der Gegenpartei** (Abs. 2). Die Eingabe ist das zentrale Instrument der Partei, um im Strafverfahren Anträge zu stellen, Beweisanträge einzureichen und Stellung zu nehmen.
+Das Eingaberecht besteht «jederzeit» — es ist nicht an Verfahrensabschnitte oder Fristen gebunden. Das Bundesgericht fasst die Grundregel zusammen:
 
-**2** Die Norm gehört zum Kapitel über die Parteirechte (Art. 104–109 StPO) und bildet zusammen mit [Art. 107 StPO](../art-107/) (rechtliches Gehör) und [Art. 108 StPO](../art-108/) (Einschränkungen des rechtlichen Gehörs) die Grundlage der **parteiellen Verfahrensbeteiligung**. Art. 109 StPO konkretisiert das rechtliche Gehör in seiner prozeduralen Dimension: Die Partei darf sich äussern, und die Verfahrensleitung muss die Gegenseite hören.
+> «Die Parteien des Strafverfahrens, darunter die beschuldigte Person und die Privatklägerschaft, können der Verfahrensleitung jederzeit Eingaben unterbreiten. Diese prüft die Eingaben und gibt den anderen Parteien Gelegenheit zur Stellungnahme (Art. 109 Abs. 1 und Abs. 2 i.V.m. Art. 104 Abs. 1 lit. b StPO).»
 
-### II. Eingaberecht der Parteien (Abs. 1)
+([BGer 1B_55/2017 vom 24. Mai 2017, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_55_2017#e-3-2); gleichlautend [BGer 1B_124/2016 vom 12. August 2016, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016#e-4-2)).
 
-**3** **Jederzeitiges Recht.** Die Parteien können der Verfahrensleitung **jederzeit** Eingaben machen. Dies bedeutet, dass es keine geschlossenen Eingabefristen gibt, ausser das Gesetz sieht ausdrücklich Fristen vor (z.B. Beschwerdefrist nach Art. 398 StPO, Berufungsfrist nach Art. 399 StPO). Das jederzeitige Eingaberecht sichert die laufende Verfahrensbeteiligung der Parteien.
+**Die Grenze des Vorbehalts.** Abs. 1 behält «besondere Bestimmungen dieses Gesetzes» vor. Was das bedeutet, hat das Bundesgericht unmissverständlich geklärt: Wer eine Frist versäumt hat, kann sich nicht auf das jederzeitige Eingaberecht berufen.
 
-**4** **Vorbehalt besonderer Bestimmungen.** Abs. 1HALT enthält den **Vorbehalt besonderer Bestimmungen** dieses Gesetzes. Dies bedeutet, dass spezifische Verfahrensvorschriften das Eingaberecht einschränken oder modifizieren können. Beispiele:
-- Fristgebundene Rechtsmittel (Art. 398 ff. StPO)
-- Ausschlussfristen für Beweisanträge (Art. 139 Abs. 3 StPO)
-- Einschränkungen im Vorverfahren bei Geheimhaltung (Art. 108 StPO)
+> «Er verkennt, dass die Möglichkeit jederzeitiger Eingaben an die Verfahrensleitung dort nicht besteht, wo Verfahrenshandlungen fristgebunden sind, so vor allem wie hier bei Rechtsmitteln.»
 
-**5** **Parteibegriff.** Eingabeberechtigt sind alle **Parteien** im Sinne von [Art. 104 StPO](../art-104/): die beschuldigte Person, die Privatklägerschaft und — in bestimmten Verfahrensabschnitten — die Staatsanwaltschaft. Der Umfang des Eingaberechts kann je nach Verfahrensrolle und Verfahrensabschnitt variieren.
+([BGer 6B_1007/2021 vom 6. Januar 2022, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1007_2021#e-4-3)). Im dortigen Fall hatte der Beschwerdeführer eine ungenügend begründete Beschwerde eingereicht und wollte die Nachbesserung über Art. 109 Abs. 1 StPO erreichen. Das Gericht hielt zudem fest, es liege an der Partei, sich so zu organisieren, dass die Fristeinhaltung gewährleistet ist — die Beschäftigung mit einem anderen Verfahren rechtfertigt weder eine Nachfrist noch eine Fristwiederherstellung.
 
-**6** **Form der Eingaben.** Art. 109 StPO schreibt keine bestimmte Form vor. Eingaben können **schriftlich oder mündlich** erfolgen. Im Vorverfahren können Eingaben auch zu Protokoll gegeben werden. Massgeblich ist, dass die Eingabe bei der Verfahrensleitung eingeht und den erforderlichen Inhalt aufweist.
+Art. 109 Abs. 1 StPO ist damit kein Auffangtatbestand, der die Fristenordnung der StPO (Art. 89 ff. StPO) aufweicht.
 
-### III. Pflichten der Verfahrensleitung (Abs. 2)
+### B. Prüfungs- und Stellungnahmepflicht (Abs. 2)
 
-**7** **Prüfungspflicht.** Die Verfahrensleitung hat die eingereichten Eingaben zu **prüfen**. Dies bedeutet, dass sie den Inhalt der Eingabe zur Kenntnis nehmen und über die darin gestellten Anträge entscheiden muss. Die Prüfungspflicht umfasst die Beurteilung der Zulässigkeit, der Begründetheit und der Relevanz der Eingabe für das Verfahren.
+Die Verfahrensleitung prüft die Eingabe und gibt den anderen Parteien Gelegenheit zur Stellungnahme. Abs. 2 verwirklicht damit den kontradiktorischen Charakter des Verfahrens.
 
-**8** Die Prüfungspflicht ist keine rein formelle Pflicht. Die Verfahrensleitung muss die Eingabe **inhaltlich** würdigen und über die Anträge sachlich entscheiden. Eine bloss formelhafte Ablehnung ohne inhaltliche Auseinandersetzung kann eine Verletzung des rechtlichen Gehörs darstellen ([1B 124/2016, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016#e-4-2)).
+**Im Vorverfahren** ist die Staatsanwaltschaft Verfahrensleiterin (Art. 16 Abs. 2 und Art. 308 StPO). Sie «entscheidet über die Akteneinsicht und andere Verfahrenseingaben» und «trifft die erforderlichen Massnahmen, um Missbräuche und Verzögerungen zu verhindern und berechtigte Geheimhaltungsinteressen zu schützen (Art. 102 Abs. 1 i.V.m. Art. 16 Abs. 2 StPO)» ([BGer 1B_124/2016 vom 12. August 2016, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016#e-4-2)). Die Prüfungspflicht steht also unter dem Vorbehalt einer Missbrauchsabwehr; querulatorische Eingabenfluten muss die Verfahrensleitung nicht in gleicher Weise abarbeiten.
 
-**9** **Stellungnahmepflicht.** Die Verfahrensleitung gibt den **anderen Parteien Gelegenheit zur Stellungnahme**. Dies konkretisiert den Grundsatz des **kontradiktorischen Verfahrens**: Jede Eingabe, die die Interessen einer anderen Partei berührt, muss dieser zur Stellungnahme zugestellt werden. Die Stellungnahmepflicht ist Ausdruck des rechtlichen Gehörs (Art. 107 StPO).
+### C. Durchsetzung: Rechtsverweigerung und Rechtsverzögerung
 
-**10** Die Stellungnahmepflicht gilt **nur für die anderen Parteien**, nicht für Dritte. Die Verfahrensleitung entscheidet, welcher Partei welche Eingabe zur Stellungnahme zuzustellen ist. Im Vorverfahren entscheidet die Staatsanwaltschaft über die Gewährung der Stellungnahmemöglichkeit ([1B 55/2017, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_55_2017#e-3-2)).
+Bleibt die Verfahrensleitung untätig, greift nicht Art. 109 StPO selbst, sondern die Beschwerde nach Art. 393 Abs. 1 lit. a i.V.m. Abs. 2 lit. a StPO. Das Bundesgericht hält die Eckpunkte fest: Solche Beschwerden «sind an keine Frist gebunden (Art. 396 Abs. 2 StPO)»; stellt die Beschwerdeinstanz eine Rechtsverweigerung oder -verzögerung fest, «so kann sie der betreffenden Behörde Weisungen erteilen und für deren Einhaltung Fristen setzen (Art. 397 Abs. 4 StPO)» ([BGer 1B_55/2017 vom 24. Mai 2017, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_55_2017#e-3-2)).
 
-### IV. Eingaben im Vorverfahren
+Wann eine **formelle Rechtsverweigerung** vorliegt, umschreibt das Bundesgericht so:
 
-**11** Im **Vorverfahren** haben die Parteien das Recht, bei der Staatsanwaltschaft **Beweiserhebungsanträge** zu stellen (Art. 109 StPO i.V.m. Art. 104 Abs. 1 lit. b StPO). Die Privatklägerschaft und die beschuldigte Person können ihre Beweisanträge jederzeit einreichen, vorbehaltlich der Einschränkungen nach Art. 108 StPO ([1B_331/2016, E. 1.7](https://mcp.opencaselaw.ch/entscheid/bger_1B_331_2016#e-1-7)).
+> «Eine formelle Rechtsverweigerung liegt nach der Praxis des Bundesgerichts vor, wenn eine Behörde auf eine ihr frist- und formgerecht unterbreitete Sache nicht eintritt, obschon sie darüber befinden müsste.»
 
-**12** Die Staatsanwaltschaft prüft die Eingaben und entscheidet über die Beweiserhebungsanträge. Lehnt sie einen Antrag ab, muss sie dies begründen. Eine unbegründete Ablehnung von Beweisanträgen kann einen Verfahrensfehler darstellen, der im Beschwerdeweg gerügt werden kann.
+([BGer 1B_124/2016 vom 12. August 2016, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_124_2016#e-4-2), mit Hinweis auf BGE 135 I 6 E. 2.1). Massgeblich ist demnach das Nichteintreten trotz Entscheidpflicht — nicht schon eine knapp ausgefallene Begründung.
 
-### V. Verhältnis zum rechtlichen Gehör
+### D. Beweisanträge im Vorverfahren
 
-**13** Art. 109 StPO konkretisiert das **rechtliche Gehör** (Art. 107 StPO) in prozeduraler Hinsicht: Das rechtliche Gehör umfasst nicht nur das Recht auf Anhörung, sondern auch das Recht, **aktiv Eingaben zu machen** und **Stellung zu nehmen** zu den Eingaben der Gegenpartei. Die Norm stellt sicher, dass das rechtliche Gehör nicht nur passiv (Anhören) sondern auch aktiv (Eingaben machen) gewährleistet ist.
+Der häufigste Anwendungsfall des Eingaberechts ist der Beweisantrag an die Staatsanwaltschaft. [BGer 1B_331/2016 vom 23. November 2016, E. 1.7](https://mcp.opencaselaw.ch/entscheid/bger_1B_331_2016#e-1-7) ordnet ihn systematisch ein:
 
-**14** Einschränkungen des Eingaberechts unterliegen denselben Voraussetzungen wie Einschränkungen des rechtlichen Gehörs (Art. 108 StPO). Die Stellungnahmepflicht kann ebenfalls eingeschränkt werden, wenn die Voraussetzungen von Art. 108 StPO vorliegen.
+> «Die Privatklägerschaft und die beschuldigte Person haben im Vorverfahren das Recht, bei der Staatsanwaltschaft entsprechende Beweiserhebungsanträge stellen (Art. 109 StPO). Sie können ihre Beweisanträge vor Abschluss der Strafuntersuchung (und sogar noch vor dem erkennenden Strafgericht) nötigenfalls wiederholen (Art. 318 Abs. 1-2, Art. 331 Abs. 2-3 und Art. 345 StPO). Eine Beschwerde der Parteien gegen die ausdrückliche oder konkludente Abweisung von Beweisanträgen durch die Staatsanwaltschaft ist im Untersuchungsverfahren hingegen nur möglich, falls den Parteien ein definitiver Beweisverlust droht (Art. 394 lit. b […]).»
 
-### VI. Abgrenzungen
+Damit ist die Verbindung zu [Art. 394 lit. b StPO](../art-394/) hergestellt: Das Eingaberecht nach Art. 109 StPO garantiert, dass der Antrag gestellt und geprüft wird — es garantiert aber keinen sofortigen Rechtsmittelweg gegen die Ablehnung. Dieser steht nur offen, wenn ein definitiver Beweisverlust droht.
 
-**15** **Zu Art. 107 StPO (rechtliches Gehör):** Art. 109 StPO konkretisiert das rechtliche Gehör hinsichtlich der Eingaben. Art. 107 StPO enthält den Grundsatz, Art. 109 StPO die prozedurale Ausgestaltung.
+Bemerkenswert ist die Erwähnung der **konkludenten** Abweisung: Auch das blosse Übergehen eines Beweisantrags wird als Ablehnung behandelt und unterliegt denselben Regeln.
 
-**16** **Zu Art. 104 StPO (Parteien):** Art. 104 StPO definiert, wer Partei ist und welche Rechte die Parteien haben. Art. 109 StPO regelt das Eingaberecht als spezifisches Parteiinstrument.
+### E. Abgrenzungen
 
-**17** **Zu Art. 139 StPO (Beweiserhebung):** Beweisanträge sind eine besondere Form von Eingaben (Art. 109 StPO). Die konkreten Voraussetzungen und Verfahrensregeln für Beweisanträge ergeben sich aus Art. 139 StPO.
+- **Zu [Art. 107 StPO](../art-107/)**: Art. 107 StPO gewährleistet das rechtliche Gehör als Gesamtes; Art. 109 StPO regelt einen Ausschnitt davon, nämlich Eingabe und Gegenäusserung.
+- **Zu [Art. 108 StPO](../art-108/)**: Die Einschränkungen des rechtlichen Gehörs wirken auch auf die Stellungnahmepflicht nach Abs. 2.
+- **Zu [Art. 104 StPO](../art-104/)**: Eingabeberechtigt sind die Parteien; das Bundesgericht verweist für den Kreis der Berechtigten ausdrücklich auf Art. 104 Abs. 1 lit. b StPO.
+- **Zu Art. 89 ff. StPO**: Das Eingaberecht durchbricht die Fristenordnung nicht (oben A).
+
+## Rechtsprechung
+
+Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 109 StPO](rechtsprechung/)
 
 ## Literatur
 
-- Donatsch/Hans/Hostettler/Heimgartner, Kommentar zur Schweizerischen Strafprozessordnung, Art. 109 N. 1 ff.
-- Riedo/Fellmann/Niggli, Basler Kommentar StPO, Art. 109 N. 1 ff.
-- Heer, in: Trechsel/Pieth, Schweizerische Strafprozessordnung, Art. 109 N. 1 ff.
+Die früher an dieser Stelle aufgeführten Titel liessen sich nicht verifizieren und wurden entfernt. Die Literaturangaben werden neu erhoben.
