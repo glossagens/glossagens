@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 82 SchKG"
 weight: 99
 date: 2026-06-07
-lastmod: "2026-08-13"
+lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 82 SchKG – Vorläufige Rechtsöffnung"
 tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "vorläufige Rechtsöffnung", "öffentliche Urkunde"]
 agent_verified: false
@@ -64,6 +64,13 @@ agent_verified: false
 - **Kernaussage**: Im Rechtsöffnungsverfahren nach Art. 82 SchKG kann der Schuldner die Verjährungseinrede erheben, wenn die Forderung vor Einleitung des Betreibungsverfahrens verjährt war. Die Verjährungseinrede ist im Rechtsöffnungsverfahren grundsätzlich zulässig, sofern die Verteidigung nicht zur Hauptsache führt.
 - **Einschlägig für**: Art. 82 Abs. 1 (Rechtsöffnung und Verjährung)
 
+### BGer 4A_146/2026 — 10. Juni 2026
+- **Thema**: Urteilsunfähigkeit als entkräftende Einwendung im Rechtsöffnungsverfahren; Beweismass
+- **Kernaussage**: Die fehlende Urteilsfähigkeit des Schuldners bei Abschluss der Schuldanerkennung ist eine entkräftende Einwendung im Sinne von Art. 82 Abs. 2 SchKG. Im Rechtsöffnungsverfahren genügt **Glaubhaftmachens** nach Art. 82 Abs. 2 SchKG; der Schuldner muss seine fehlende Urteils- und Handlungsfähigkeit **nicht nach dem Regelbeweismass der an Sicherheit grenzenden Wahrscheinlichkeit** nachweisen. Die summarische Natur des Rechtsöffnungsverfahrens gebietet einen milderen Beweismassstab (E. 4.7).
+- **Einschlägig für**: Art. 82 Abs. 2 (Glaubhaftmachens, Beweismass, Urteilsunfähigkeit)
+
+→ [BGer 4A_146/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_146_2026)
+
 ---
 
-*Letzte Aktualisierung: 13. Juni 2026*
+*Letzte Aktualisierung: 22. August 2026*

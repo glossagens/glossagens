@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 173 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 173 StGB — üble Nachrede, Wahrheits- und Gutglaubensbeweis, Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit, Ehrverletzung im Prozess, Auskunftspersonen und Anzeigeerstatter."
 tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit"]
 agent_verified: false
@@ -115,6 +115,19 @@ Bundesgerichtsentscheid zur üblen Nachrede, zum Entlastungsbeweis und zur Willk
 Leitentscheid zur Ehrverletzung durch die Presse (Art. 173 Ziff. 2 StGB). Für die Verdächtigung (oder die Weiterverbreitung) gibt es keinen besondern Wahrheitsbeweis: Dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht im Nachweis der Verdachtsmomente. Klärt zudem die Gutgläubigkeitsbeweisfragen der Presseberichterstattung.
 
 → [BGE 102 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_176)
+
+### BGer 6B_880/2025 — Diffamation eines Politikers im Rahmen einer Interpellation (Freispruch)
+
+**BGer 6B_880/2025 vom 11. Mai 2026**
+
+Leitentscheid zur Meinungsäusserungsfreiheit bei politischen Äusserungen (Art. 173 StGB, Art. 16 Abs. 2 BV, Art. 10 EMRK). Ein Gemeinderat hatte in einer Interpellation einem Notar fälschlich vorgeworfen, ein Baurechtsdokument instrumentalisiert zu haben. Das Bundesgericht hob die Verurteilung auf und sprach den Beschwerdeführer frei:
+
+- Bloss die Herabsetzung einer Person in ihren **politischen Qualitäten** oder in der **beruflichen Rolle** genügt nicht für die Ehrenrührigkeit; die Kritik muss geeignet sein, die Person **als Mensch** dem Verachtungsurteil anderer auszusetzen (E. 1.2; Bestätigung von BGE 137 IV 369 E. 2.1.4).
+- Die Grenzen der zulässigen Kritik sind gegenüber einem **Politiker**, der in dieser Eigenschaft angesprochen wird, **weiter** als gegenüber einem Privatmann (E. 1.2; BGE 137 IV 313 E. 3.3.2; EGMR Lacroix c. France, § 40–43).
+- Eine strafrechtliche Sanktion gegen Äusserungen, die sich auf ein **offizielles Dokument** stützen und im Rahmen eines öffentlichen Interessenkonflikts geäussert werden, ist ein **unverhältnässiger Eingriff** in die Meinungsäusserungsfreiheit (Ultima-ratio-Prinzip, E. 1.6).
+- Der gute Glaube des Äussernden im Sinne von Art. 173 Abs. 2 StGB ist im politischen Kontext **weit zu fassen**, wenn die Äusserung auf einem offiziellen Dokument beruht (E. 1.6).
+
+→ [BGer 6B_880/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_880_2025)
 
 ### BGE 115 IV 1 — Umfang eines Strafantrags (Ehrverletzung / falsche Anschuldigung)
 

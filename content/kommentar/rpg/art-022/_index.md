@@ -2,7 +2,7 @@
 title: "Art. 22 RPG — Baubewilligung"
 weight: 22
 date: 2026-07-16
-lastmod: "2026-07-17"
+lastmod: "2026-08-22"
 description: "Kommentar zu Art. 22 RPG: Baubewilligungspflicht für Bauten und Anlagen — Voraussetzungen, Erheblichkeitsschwelle, nachträgliche Bewilligung"
 tags: ["RPG", "baubewilligung", "baubewilligungspflicht", "nachträgliche-bewilligung", "bauvorhaben"]
 agent_verified: true
@@ -77,6 +77,10 @@ In BGer 1C_239/2025 (6.7.2026, 3er) präzisierte das Bundesgericht die Rechtspre
 - **Sachverhalt**: Ersatz von 9 von 16 tragenden Pfählen eines Bootsstegs (56%) in einer Moorlandschaft von nationaler Bedeutung.
 - **Erwägung**: Ersatz tragender Teile — auch in Etappen — überschreitet die «normale Lebensdauer» und ist unzulässig (Art. 23d Abs. 2 lit. b NHG). Der Steg ist nicht integraler Bestandteil des Ferienhauses, sondern selbstständig zu beurteilen.
 - **Folge**: Versagung der nachträglichen Baubewilligung und Wiederherstellungsverfügung (vollständiger Rückbau).
+
+### Aufhebung einer erteilten Baubewilligung in der Planungszone
+
+Eine rechtsgültig erteilte Baubewilligung kann **aufgehoben** werden, wenn das Bauvorhaben den Zielen der Planungszone widerspricht und das **öffentliche Interesse an der Sicherung des planerischen Spielraums** das private Bauinteresse überwiegt. Das Bundesgericht hat in [BGer 1C_322/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_322_2025) (E. 3.4.4) klargestellt, dass in einer **Planungszone** (zone réservée) das Interesse der Planungsbehörde an einem ausreichenden **planerischen Ermessensspielraum** für die Anpassung der Nutzungsplanung (insb. die Redimensionierung der überdimensionierten Bauzone) gegenüber dem privaten Interesse an der Realisierung des Bauprojekts **prävaliert**. Die Interessenabwägung hat unter Einbezug des Verhältnismässigkeitsgrundsatzes zu erfolgen (Eignung, Erforderlichkeit, Verhältnismässigkeit im engeren Sinne; BGE 140 I 168 E. 4.2.1; BGer 1C_47/2025 E. 4.2). Eine nachträglich erteilte Baubewilligung in einer Planungszone kann daher aufgehoben werden, wenn das Bauprojekt die planerische Neugestaltung der Zone behindert (E. 3.4.4).
 
 ## Wiederherstellung des rechtmässigen Zustands
 

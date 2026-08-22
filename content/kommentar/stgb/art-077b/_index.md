@@ -2,7 +2,7 @@
 title: "Art. 77b StGB -- Halbgefangenschaft (Arbeit)"
 weight: 77
 date: 2026-05-17
-lastmod: "2026-08-13"
+lastmod: "2026-08-22"
 description: "Kommentar zu Art. 77b StGB -- Halbgefangenschaft: Voraussetzungen, Begriff der Arbeit, Pensionäre, Vollzug und Leitentscheide"
 tags: ["StGB", "Halbgefangenschaft", "Arbeit", "Sanktionen", "Vollzug"]
 agent_verified: true
@@ -22,7 +22,7 @@ revisions:
 >
 > 2 Der Gefangene setzt seine Arbeit, Ausbildung oder Beschäftigung ausserhalb der Anstalt fort und verbringt die Ruhe- und Freizeit in der Anstalt.
 >
-> 3 Die Halbgefangenschaft kann in einer besonderen Abteilung eines Untersuchungsgefängnisses durchgeführt werden, wenn die notwen dige Betreuung des Verurteilten gewährleistet ist.
+> 3 Die Halbgefangenschaft kann in einer besonderen Abteilung eines Untersuchungsgefängnisses durchgeführt werden, wenn die notwendige Betreuung des Verurteilten gewährleistet ist.
 >
 > 4 Erfüllt der Verurteilte die Bewilligungsvoraussetzungen nicht mehr oder leistet er die Halbgefangenschaft trotz Mahnung nicht entsprechend den von der Vollzugsbehörde festgelegten Bedingungen und Auflagen, so wird die Freiheitsstrafe im Normalvollzug vollzogen.
 

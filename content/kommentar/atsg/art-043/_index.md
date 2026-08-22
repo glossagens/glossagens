@@ -2,12 +2,17 @@
 title: "Art. 43 — Abklärung"
 weight: 43
 date: 2026-07-31
-lastmod: "2026-08-10"
+lastmod: "2026-08-22"
 description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlungsprinzip), Umfang medizinischer Abklärungen, Mitwirkungspflicht der versicherten Person, Nichteintreten bei unentschuldbarer Nichtmitwirkung, Verhältnis zu Art. 44 ATSG."
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 agent_verified: true
 revisions:
 
+  - date: "2026-08-22"
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Drittpersonen-Mitwirkungsmangel ergänzt (9C_285/2026)."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -62,6 +67,12 @@ revisions:
 **9** Abs. 3 sanktioniert die unentschuldbare Nichtmitwirkung: Der Versicherungsträger kann **auf Grund der Akten verfügen** oder die Erhebungen einstellen und **Nichteintreten beschliessen**. Voraussetzung ist eine **vorherige schriftliche Mahnung** mit Hinweis auf die Rechtsfolgen und die Einräumung einer angemessenen Bedenkzeit. Diese Verfahrensgarantie stellt sicher, dass die versicherte Person vor einer Sanktion informiert wird und die Möglichkeit hat, ihre Mitwirkung nachzuholen.
 
 **10** Die Sanktion des Abs. 3 ist **ultima ratio**. Sie setzt voraus, dass die Nichtmitwirkung **unentschuldbar** ist, d.h. die versicherte Person die Mitwirkung ohne rechtmässigen Grund verweigert. Besteht ein Grund (z.B. Krankheit, Unzumutbarkeit der Untersuchung), darf nicht nach Abs. 3 vorgegangen werden; der Versicherungsträger muss seine Abklärungen anderweitig vornehmen.
+
+### VI. Drittpersonen-Mitwirkungsmangel
+
+**10a** Verweigert eine **Drittperson** (insb. eine behandelnde Ärztin oder ein behandelnder Arzt) die Auskunft trotz mehrfacher Aufforderung, so darf dies **nicht zulasten der versicherten Person** gehen. Die Auskunftspflicht Dritter nach Art. 28 Abs. 3 ATSG statuiert eine gesetzliche Mitwirkungspflicht, deren Verletzung mit Busse sanktioniert werden kann (Art. 70 IVG i.V.m. Art. 88 AHVG); die Androhung der Ungehorsamsstrafe nach Art. 292 StGB scheidet jedoch aus, da die Aufforderung nicht in Form einer Verfügung ergeht ([BGer 9C_285/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_285_2026) E. 5.3.1; Pärli/Kunz, Basler Kommentar ATSG, 2. Aufl. 2025, N. 42 und 43a zu Art. 28 ATSG).
+
+**10b** Konfrontiert der Versicherungsträger mit dem Auskunftsverweigerungs einer Drittperson, so hat er seiner **Abklärungspflicht nach Art. 43 Abs. 1 ATSG** mit **alternativen Massnahmen** nachzukommen. Das Bundesgericht hat klargestellt, dass das Schweigen des behandelnden Psychiaters keinerlei Rückschlüsse auf das Nichtvorhandensein psychischer Beeinträchtigungen zulässt; die IV-Stelle muss den entscheidwesentlichen medizinischen Sachverhalt anhand anderer geeigneter Vorkehren ermitteln, namentlich durch Anordnung eines **RAD-Gutachtens** ([BGer 9C_285/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_285_2026) E. 5.4 und 5.5). Ein Verzicht auf zusätzliche Abklärungen verstösst gegen den Untersuchungsgrundsatz (Art. 61 lit. c ATSG).
 
 ## Verhältnis zu Art. 44 ATSG
 

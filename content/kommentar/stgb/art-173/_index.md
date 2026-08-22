@@ -2,7 +2,7 @@
 title: "Art. 173 — Üble Nachrede"
 weight: 173
 date: 2026-07-31
-lastmod: "2026-08-13"
+lastmod: "2026-08-22"
 description: "Kommentar zu Art. 173 StGB — Üble Nachrede: ehrverletzende Beschuldigung oder Verdächtigung, Wahrheitsbeweis, Gutglaubensbeweis (ernsthafte Gründe, in guten Treuen für wahr zu halten), Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK), Rücknahme der Äusserung."
 tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Antragsdelikt", "Strafantrag", "Ehre"]
 agent_verified: true
@@ -67,6 +67,8 @@ revisions:
 **10** **Ausschluss des Beweises ohne öffentliches Interesse.** Abs. 3 versagt dem Beschuldigten den Beweis und erklärt ihn strafbar, wenn die Äusserung **ohne Wahrung öffentlicher Interessen** oder **sonst wie ohne begründete Veranlassung**, **vorwiegend in der Absicht** vorgebracht oder verbreitet wird, **jemandem Übles vorzuwerfen** — insbesondere, wenn sich die Äusserungen auf das **Privat- oder Familienleben** beziehen. Die Schranke schützt die Privatsphäre: Selbst eine wahre, aber rein privatbezogene und böswillige Äusserung ist nicht vom Wahrheitsbeweis gedeckt.
 
 **11** **Meinungsäusserungsfreiheit.** Die Zulassung zum Wahrheitsbeweis ist im Lichte der **Meinungsäusserungsfreiheit** (Art. 16 Abs. 2 BV, Art. 10 EMRK) zu beurteilen. Nach [BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313) ist einer Person zu unterstellen, sie habe Sympathien für das Nazi-Regime, selbst für einen Politiker ehrverletzend; die Voraussetzungen von Art. 173 Ziff. 3 StGB für die **Zulassung zum Wahrheitsbeweis** bestimmen sich unter Berücksichtigung der Meinungsäusserungsfreiheit. Die Schranken des Abs. 3 dürfen nicht so ausgelegt werden, dass sie die legitime Meinungsäusserung, namentlich im politischen und publizistischen Kontext, unverhältnismässig einschränken.
+
+**11a** **Meinungsäusserungsfreiheit im politischen Kontext.** Für **politische Äusserungen** im Rahmen eines öffentlichen Interessenkonflikts gelten erweiterte Schutzmassstäbe. Bloss die Herabsetzung einer Person in ihren **politischen Qualitäten** oder in der **beruflichen Rolle** genügt nicht für die Ehrenrührigkeit im Sinne von Art. 173 StGB; die Kritik oder der Angriff muss geeignet sein, die Person **als Mensch** dem Verachtungsurteil anderer auszusetzen ([BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313) E. 2.1.4; [BGer 6B_880/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_880_2025) E. 1.2). Die Grenzen der zulässigen Kritik sind gegenüber einem **Politiker**, der in dieser Eigenschaft angesprochen wird, **weiter** als gegenüber einem Privatmann: Der Politiker setzt sich unvermeidbar und bewusst einer aufmerksamen Kontrolse durch die Öffentlichkeit aus und muss daher **mehr Toleranz** aufweisen ([BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313) E. 3.3.2; [BGer 6B_880/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_880_2025) E. 1.2). Eine strafrechtliche Sanktion gegen Äusserungen, die sich auf ein **offizielles Dokument** stützen und im Rahmen eines öffentlichen Interessenkonflikts geäussert werden, ist ein **unverhältnässiger Eingriff** in die Meinungsäusserungsfreiheit (Ultima-ratio-Prinzip; [BGer 6B_880/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_880_2025) E. 1.6).
 
 ### IV. Rücknahme und Feststellung (Abs. 4 und 5)
 

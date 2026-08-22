@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 43 ATSG"
 weight: 99
 date: 2026-07-31
-lastmod: "2026-08-10"
+lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 43 ATSG — Amtsermittlungsprinzip, Mitwirkungspflicht, Begutachtung, Anspruch auf externes Gutachten, Zwischenverfügung, Rechtskraft von Dauerleistungen"
 tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlung", "Mitwirkungspflicht", "Begutachtung", "Rechtskraft", "Sozialversicherungsrecht"]
 agent_verified: false
@@ -61,6 +61,19 @@ Leitentscheid zu Art. 49 und 52 Abs. 1 sowie Art. 17 ATSG; Art. 87 Abs. 3 und 4 
 
 → [BGE 136 V 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_369)
 
+### BGer 9C_285/2026 — Drittpersonen-Mitwirkungsmangel und Abklärungspflicht (Art. 43 Abs. 1 ATSG, Art. 28 Abs. 3 ATSG)
+
+**BGer 9C_285/2026 vom 29. Juli 2026** (2. sozialrechtliche Abteilung)
+
+Leitentscheid zum Drittpersonen-Mitwirkungsmangel im sozialversicherungsrechtlichen Abklärungsverfahren. Der behandelnde Psychiater hatte trotz mehrfacher Aufforderung keine Auskunft zum Gesundheitszustand der versicherten Person erteilt. Das Bundesgericht hielt fest:
+
+- Verweigert eine Drittperson (insb. eine behandelnde Ärztin oder ein behandelnder Arzt) die Auskunft, so dürfen daraus **keine Rückschlüsse auf das Nichtvorhandensein** von gesundheitlichen Beeinträchtigungen gezogen werden (E. 5.4).
+- Die IV-Stelle muss ihrer **Abklärungspflicht nach Art. 43 Abs. 1 ATSG** mit **alternativen Massnahmen** nachkommen, namentlich durch Anordnung eines **RAD-Gutachtens** (E. 5.4 und 5.5).
+- Die Auskunftspflicht Dritter nach Art. 28 Abs. 3 ATGB wird durch Bussandrohung (Art. 70 IVG i.V.m. Art. 88 AHVG) sanktioniert; die Androhung der Ungehorsamsstrafe nach Art. 292 StGB scheidet aus, da die Aufforderung nicht in Form einer Verfügung ergeht (E. 5.3.1; Pärli/Kunz, Basler Kommentar ATSG, 2. Aufl. 2025, N. 46 zu Art. 28 ATSG).
+- Ein Verzicht auf zusätzliche Abklärungen bei unvollständigem Sachverhalt verstösst gegen den **Untersuchungsgrundsatz** (Art. 61 lit. c ATSG) (E. 5.5).
+
+→ [BGer 9C_285/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_285_2026)
+
 ## Zusammenfassung
 
 Die Rechtsprechung zu Art. 43 ATSG hat sich in folgenden Etappen entwickelt:
@@ -69,5 +82,6 @@ Die Rechtsprechung zu Art. 43 ATSG hat sich in folgenden Etappen entwickelt:
 3. **BGE 137 V 210 (2011)**: Verfassungsrechtliche Mindestanforderungen an MEDAS-Begutachtung (fairness, Mitwirkungsrechte) — dogmatisches Fundament der heutigen Art. 43/44 ATSG.
 4. **WEIV-Reform (2022)**: Kodifikation der Mitwirkungsrechte in Art. 43 Abs. 1bis und Art. 44 ATSG n.F.
 5. **BGer 8C_445/2025 (2026)**: Klarstellung, dass Art. 44 ATSG nicht abschliessend ist und die verfassungsrechtlichen Mitwirkungsrechte aus BGE 137 V 210 über die Gesetzesrevision hinaus fortbestehen; Korrektur von KSVI Rz. 3067.1.
+6. **BGer 9C_285/2026 (2026)**: Drittpersonen-Mitwirkungsmangel — Auskunftsverweigerung Dritter darf nicht zulasten der versicherten Person gehen; die IV-Stelle muss alternative Abklärungen anordnen.
 
 Die zentrale dogmatische Aussage ist, dass das **Amtsermittlungsprinzip** (Art. 43 Abs. 1) und die **Mitwirkungspflicht** (Art. 43 Abs. 2) durch die verfassungsrechtlichen Verfahrensgarantien (Art. 29 BV, Art. 6 Ziff. 1 EMRK) überlagert werden: Der Versicherungsträger bestimmt zwar Art und Umfang der Abklärungen (Abs. 1bis), doch die versicherte Person hat abgeleitete Mitwirkungsrechte, die justitiabel sind und nicht durch Kreisschreiben beschnitten werden können.

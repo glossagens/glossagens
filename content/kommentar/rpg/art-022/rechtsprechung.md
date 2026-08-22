@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 22 RPG"
 weight: 99
 date: 2026-07-16
-lastmod: "2026-07-17"
+lastmod: "2026-08-22"
 description: "Übersicht der massgeblichen Entscheide zu Art. 22 RPG (Baubewilligung)"
 tags: ["Rechtsprechung", "RPG", "baubewilligung", "unterhalt", "wiederherstellung"]
 agent_verified: true
@@ -71,6 +71,14 @@ agent_verified: true
 - **Einschlägig für**: Art. 78 Abs. 5 BV; Art. 23d NHG
 - **Status**: Grundlegende Entscheidung, zitiert in 1C_239/2025 (E. 4.2)
 
+### BGer 1C_322/2025 (21.07.2026)
+- **Thema**: Aufhebung einer Baubewilligung in einer Planungszone — Interessenabwägung und Verhältnismässigkeit
+- **Kernaussage**: In einer Planungszone (zone réservée) kann eine erteilte Baubewilligung aufgehoben werden, wenn das Bauvorhaben die Planungsziele behindert. Das öffentliche Interesse an der Sicherung des planerischen Ermessensspielraums der Planungsbehörde (insb. für die Redimensionierung der überdimensionierten Bauzone) **prävaliert** gegenüber dem privaten Bauinteresse, sofern die Interessenabwägung unter Einbezug des Verhältnismässigkeitsgrundsatzes (Eignung, Erforderlichkeit, Verhältnismässigkeit im engeren Sinne) vorgenommen wird (E. 3.4.4; BGE 140 I 168 E. 4.2.1; BGer 1C_47/2025 E. 4.2).
+- **Einschlägig für**: Art. 22 RPG (Baubewilligung), Art. 15 Abs. 2 RPG (Planungszone), kantonales Planungsrecht
+- **Status**: Leitentscheid zur Aufhebung von Baubewilligungen in Planungszonen
+
+→ [BGer 1C_322/2025](https://mcp.opencaselaw.ch/entscheid/bger_1C_322_2025)
+
 ---
 
-*Letzte Aktualisierung: 2026-07-16*
+*Letzte Aktualisierung: 2026-08-22*

@@ -2,7 +2,7 @@
 title: "Art. 82 — Vorläufige Rechtsöffnung"
 weight: 82
 date: 2026-06-07
-lastmod: "2026-08-13"
+lastmod: "2026-08-22"
 description: "Kommentar zu Art. 82 SchKG – Vorläufige Rechtsöffnung, Voraussetzungen, Verfahren und Rechtsmittel"
 tags: ["SchKG", "Rechtsöffnung", "vorläufige Rechtsöffnung", "Betreibung", "Zwangsvollstreckung"]
 agent_verified: true
@@ -50,6 +50,10 @@ Zulässige Einwendungen nach Art. 82 Abs. 2 sind namentlich:
 - Fehlende Fälligkeit oder Bedingungseintritt
 
 Nicht zulässig im Rechtsöffnungsverfahren sind Einwendungen, die den Grundvertrag betreffen, sofern sie nicht aus dem Titel selbst ersichtlich sind (BGE 140 III 372 E. 3.1).
+
+#### Urteilsunfähigkeit als entkräftende Einwendung
+
+Die fehlende **Urteilsfähigkeit** des Schuldners bei Abschluss der Schuldanerkennung ist eine entkräftende Einwendung im Sinne von Art. 82 Abs. 2 SchKG. Im Rechtsöffnungsverfahren genügt insoweit **Glaubhaftmachens** nach Art. 82 Abs. 2 SchKG; der Schuldner muss seine fehlende Urteils- und Handlungsfähigkeit **nicht nach dem Regelbeweismass der an Sicherheit grenzenden Wahrscheinlichkeit** nachweisen ([BGer 4A_146/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_146_2026) E. 4.7). Vielmehr obliegt dem Schuldner im summarischen Verfahren des Art. 82 SchKG lediglich die Glaubhaftmachung, dass er zum Zeitpunkt des Vertragsabschlusses urteilsunfähig war (Art. 18 ZGB).
 
 ### Aberkennungsklage (Art. 83 SchKG)
 

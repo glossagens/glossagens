@@ -2,10 +2,26 @@
 title: "Art. 18 UVG — Invalidität"
 weight: 18
 date: 2026-07-18
-lastmod: "2026-08-21"
-description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG (BGer 8C_254/2025)."
+lastmod: "2026-08-22"
+description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG (BGer 8C_254/2025, bestätigt durch 8C_188/2026). Beweiswert unvollständiger Gutachten ohne MRI stark vermindert (8C_165/2026)."
 tags: ["UVG", "Invalidenrente", "Sozialversicherung", "Invalidität", "IVV"]
 agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Glossagens Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "8C_188/2026 (Bestätigung 8C_254/2025) und 8C_165/2026 (Beweiswert Gutachten ohne MRI, Status quo sine, Integritätsentschädigung) integriert; check_claim_support: yes für alle Kernclaims"
+  - date: 2026-08-21
+    by: "Glossagens Agent"
+    model: "claude-opus-4-8"
+    mcp_verified: true
+    note: "8C_682/2025 ergänzt; Analoge-Anwendung-Abschnitt aktualisiert"
+  - date: 2026-07-18
+    by: "Glossagens Agent"
+    model: "claude-sonnet-4-20250514"
+    mcp_verified: true
+    note: "Ersterstellung des Kommentars"
 ---
 
 ## Gesetzeswortlaut
@@ -65,6 +81,8 @@ Das Invalideneinkommen ist nach Art. 26bis IVV (analog) zu bestimmen:
 
 **BGer 8C_682/2025** (vom 6. August 2026) bestätigt diese Rechtsprechung und wendet sie an: Auch dort wurde die analoge Anwendung von Art. 26 OV (Einkommensparallelisierung) abgelehnt, da die Gründe von 8C_254/2025 mutatis mutandis auch für Art. 26 OV gelten ([BGer 8C_682/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_682_2025) E. 7, 8.2).
 
+**BGer 8C_188/2026** (vom 6. August 2026) bestätigt 8C_254/2025 erneut und setzt die Nichtanwendung von Art. 26bis Abs. 3 OAI im UVG-Bereich um: Das Tessiner kantonale Verwaltungsgericht hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest, da der Abzug unzulässig ist ([BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bger_8C_188_2026#e-7-2)).
+
 **Folge für die Praxis**: Im UVG-Bereich gelten die bisherigen Korrekturen des Validen- und Invalideneinkommens nach der bisherigen Rechtsprechung weiter. Insbesondere:
 - Die Einkommensparallelisierung (parallelisme des revenus) nach [8C_141/2016](https://mcp.opencaselaw.ch/entscheid/bger_8C_141_2016) E. 5.2.2 bleibt anwendbar, wenn kein GAV-Lohn massgeblich ist.
 - Der Sozialabzug nach Art. 26bis Abs. 3 OV findet im UVG-Bereich **keine** analoge Anwendung.
@@ -85,6 +103,16 @@ Die Rechtsprechung zu Art. 18 UVG ist umfangreich und konzentriert sich auf zwei
 
 2. **Bemessung des Invaliditätsgrades**: Die Ermittlung von Validen- und Invalideneinkommen ist eine der am meisten diskutierten Fragen im Sozialversicherungsrecht. Die jüngste Entwicklung betrifft die **Verneinung** der analogen Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG durch BGer 8C_254/2025 und 8C_682/2025 — der Sozialabzug und die Einkommensparallelisierung nach der neuen IVV gelten im UVG-Bereich nicht analog.
 
+### Beweiswert unvollständiger Gutachten und Status quo sine
+
+**BGer 8C_165/2026** (vom 4. August 2026) präzisiert die Anforderungen an den Beweiswert medizinischer Gutachten im UVG und bestätigt die Praxis zum Status quo sine:
+
+- **Gutachten ohne MRI-Bildgebung**: Versicherungsmedizinische Beurteilungen, die die entscheidrelevanten MRI-Befunde nicht würdigen, haben **stark verminderten Beweiswert** und sind als unvollständig und mangelhaft zu qualifizieren. Dies gilt auch, wenn die vorbefassten Ärzte die MRI-Bildgebung nicht eingesehen hatten — die daraus resultierende Kaskade unvollständiger Beurteilungen vermindert den Beweiswert weiter ([BGer 8C_165/2026 vom 4. August 2026, E. 4.5](https://mcp.opencaselaw.ch/entscheid/bger_8C_165_2026#e-4-5); vgl. auch [8C_143/2024](https://mcp.opencaselaw.ch/entscheid/bger_8C_143_2024) E. 4.2, [BGE 134 V 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_231) E. 5.1, [BGE 125 V 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_351) E. 3a).
+
+- **Status quo sine bei degenerativer Überlagerung**: Der natürliche Kausalzusammenhang zwischen Unfall und Gesundheitsschaden kann dahinfallen, wenn ein degenerativer Vorzustand den unfallbedingten Schaden überlagert und der Status quo sine erreicht ist. Das Bundesgericht bestätigt, dass die Feststellung des Status quo sine auf einer sorgfältigen gutachterlichen Gesamtwürdigung beruht, die den klinischen und bildgebenden Verlauf, den Schadenmechanismus und die Arthroseprogression einbezieht ([BGer 8C_165/2026 vom 4. August 2026, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_8C_165_2026#e-4-4); vgl. [BGE 150 V 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_V_188) E. 4.2).
+
+- **Integritätsentschädigung und Leistungseinstellung**: Eine bereits zugesprochene Integritätsentschädigung steht der nachträglichen Einstellung von Leistungen nicht entgegen. Der Unfallversicherer kann die durch Ausrichtung von Heilbehandlung (und allfällig Taggeld) anerkannte Leistungspflicht mit Wirkung **ex nunc et pro futuro** einstellen, ohne den Rückkommenstitel der Wiedererwägung oder Revision zu benötigen. Eine rückwirkende Einstellung ist unter der Bedingung möglich, dass keine Leistungen zurückgefordert werden ([BGer 8C_165/2026 vom 4. August 2026, E. 4.6](https://mcp.opencaselaw.ch/entscheid/bger_8C_165_2026#e-4-6); vgl. [BGE 130 V 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_380) E. 2.3.1, [BGE 150 V 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_V_188) E. 7.2).
+
 ## Fazit
 
-Art. 18 UVG ist die zentrale Anspruchsgrundlage für die Invalidenrente der Unfallversicherung. Die Norm verweist auf das ATSG und die IVV, deren analoge Anwendung jedoch Grenzen hat: **BGer 8C_254/2025 und 8C_682/2025 haben klargestellt, dass Art. 26 und 26bis Abs. 3 OV im UVG-Bereich nicht analog anwendbar sind.** Die Bemessung des Invaliditätsgrades erfolgt nach dem Einkommensvergleich mit den bisherigen Korrekturmethoden (Einkommensparallelisierung nach 8C_141/2016). Die Bagatellgrenze von 10 % und das Referenzalter begrenzen den Anspruch der Rentenleistung auf Fälle mit erheblicher, unfallbedingter Erwerbseinbusse vor dem pensionsfähigen Alter.
+Art. 18 UVG ist die zentrale Anspruchsgrundlage für die Invalidenrente der Unfallversicherung. Die Norm verweist auf das ATSG und die IVV, deren analoge Anwendung jedoch Grenzen hat: **BGer 8C_254/2025, 8C_682/2025 und 8C_188/2026 haben klargestellt, dass Art. 26 und 26bis Abs. 3 OV im UVG-Bereich nicht analog anwendbar sind.** Die Bemessung des Invaliditätsgrades erfolgt nach dem Einkommensvergleich mit den bisherigen Korrekturmethoden (Einkommensparallelisierung nach 8C_141/2016). Zum Beweiswert medizinischer Gutachten präzisiert **8C_165/2026**, dass Gutachten ohne MRI-Bildgebung stark verminderten Beweiswert haben und der Status quo sine bei degenerativer Überlagerung zur Leistungseinstellung führen kann. Die Bagatellgrenze von 10 % und das Referenzalter begrenzen den Anspruch der Rentenleistung auf Fälle mit erheblicher, unfallbedingter Erwerbseinbusse vor dem pensionsfähigen Alter.
