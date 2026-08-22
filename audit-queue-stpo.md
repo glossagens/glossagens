@@ -29,7 +29,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 23 | [x] 2026-08-22 | [Art. 381](content/kommentar/stpo/art-381/_index.md) | 35 % | 33 | `korrekt` ³ | 0 ³ | 0 |
 | 24 | [x] 2026-08-22 | [Art. 56](content/kommentar/stpo/art-056/_index.md) | 35 % | 26 | `korrekt` | 2 | 0 |
 | 25 | [x] 2026-08-22 | [Art. 14](content/kommentar/stpo/art-014/_index.md) | 37 % | 19 | `korrekt` | 0 | 0 |
-| 26 | [ ] | [Art. 398](content/kommentar/stpo/art-398/_index.md) | 38 % | 34 | `korrekt` | 4 | 0 |
+| 26 | [x] 2026-08-22 | [Art. 398](content/kommentar/stpo/art-398/_index.md) | 38 % | 34 | `korrekt` | 4 | 0 |
 | 27 | [ ] | [Art. 140](content/kommentar/stpo/art-140/_index.md) | 38 % | 33 | `korrekt` | 0 | 0 |
 | 28 | [ ] | [Art. 244](content/kommentar/stpo/art-244/_index.md) | 38 % | 17 | `korrekt` | 0 | 0 |
 | 29 | [ ] | [Art. 15](content/kommentar/stpo/art-015/_index.md) | 39 % | 51 | `korrekt` | 3 | 0 |
