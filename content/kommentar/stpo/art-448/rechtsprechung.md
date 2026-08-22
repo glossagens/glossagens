@@ -2,71 +2,86 @@
 title: "Rechtsprechung zu Art. 448 StPO"
 weight: 99
 date: 2026-07-10
-lastmod: 2026-07-10
-description: "Übersicht der Entscheide zu Art. 448 StPO – Anwendbares Recht (Übergangsbestimmungen)."
-tags: ["Rechtsprechung", "StPO", "Übergangsrecht"]
+lastmod: 2026-08-22
+description: "Übersicht der Entscheide zu Art. 448 StPO – Anwendbares Recht: Leitentscheide zur intertemporalen Fortführung hängiger Verfahren, Bestandsschutz und kantonale Praxis."
+tags: ["Rechtsprechung", "StPO", "Übergangsrecht", "Intertemporales Recht"]
 agent_verified: false
+revisions:
+  - date: 2026-08-22
+    by: "Antigravity Agent"
+    model: "gemini-2.5-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 12 verifizierten Entscheiden (5 Leitentscheide BGE, 7 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 
-## Leitentscheid zum Übergangsrecht der StPO
+## I. Leitentscheide (BGE)
 
-### [BGE 137 IV 352](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352) (2011)
-- **Thema**: Schweizerische Strafprozessordnung, Übergangsrecht (Art. 448 und 453 Abs. 1 StPO); Entschädigung für Anwaltskosten bei Freispruch (Art. 426 und 430 Abs. 1 lit. a StPO)
-- **Kernaussage**: Die Schweizerische Strafprozessordnung ist auf ein nach dem 1. Januar 2011 beurteiltes Entschädigungsgesuch anwendbar (E. 1.2). Hat ein Freigesprochener das Strafverfahren in rechtswidriger und schuldhafter Weise verursacht oder erschwert, kann eine Entschädigung für Anwaltskosten herabgesetzt oder verweigert werden (E. 2.1). Werden die Gerichtskosten der unterliegenden Partei auferlegt, ist grundsätzlich keine Entschädigung auszurichten. Bei Übernahme der Kosten durch die Staatskasse hat die beschuldigte Person einen Anspruch auf Entschädigung (E. 2.4.2).
-- **Einschlägig für**: Abs. 1; Grundprinzip des Übergangsrechts
+### [BGE 137 IV 352 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352#e-1-2)
+- **Thema**: Anwendbarkeit der StPO auf Entschädigungsgesuche
+- **Kernaussage**: Muss eine Instanz nach dem 1. Januar 2011 als einzige Instanz über ein Entschädigungsgesuch entscheiden, greift mangels Anwendbarkeit von Art. 453 Abs. 1 StPO der Grundsatz von Art. 448 StPO, womit die Schweizerische Strafprozessordnung anwendbar ist.
+- **Einschlägig für**: Abs. 1; Auffangfunktion von Art. 448 StPO
 
-## Kosten- und Entschädigungsrecht im Übergang
+### [BGE 138 IV 248 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248#e-1)
+- **Thema**: Bestandsschutz der Privatkläger-Konstituierung
+- **Kernaussage**: Nach Art. 448 Abs. 2 StPO behalten altrechtliche Verfahrenshandlungen ihre Gültigkeit; dies gilt auch für die Frage, ob sich eine Partei vor Inkrafttreten der StPO als Privatkläger konstituiert hat.
+- **Einschlägig für**: Abs. 2; Gültigkeit früherer Parteierklärungen
 
-### [BGE 138 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248) (26.9.2012)
-- **Thema**: Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten (Art. 118 ff. und 427 Abs. 2 StPO); Kostentragung und Anspruch auf Entschädigung im Rechtsmittelverfahren (Art. 428 Abs. 1 und Art. 432 Abs. 2 StPO)
-- **Kernaussage**: Dem Strafantrag stellenden Privatkläger, der sich abgesehen von der Strafklage am Strafverfahren nicht aktiv beteiligt, können bei Freispruch der beschuldigten Person nur in besonderen Fällen Verfahrenskosten auferlegt werden (E. 4.4). Als private Partei kann im strafrechtlichen Verfahren nur obsiegen oder unterliegen, wer Anträge gestellt hat. Verzichtet die Privatklägerschaft darauf, können ihr keine Verfahrenskosten auferlegt werden und kann sie auch nicht zur Leistung einer Parteientschädigung verpflichtet werden (E. 5.3).
-- **Einschlägig für**: Abs. 1; Kostenrecht nach neuem Recht
+### [BGE 137 IV 219 E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_219#e-1-1)
+- **Thema**: Abgrenzung des massgebenden Rechts im Rechtsmittelverfahren
+- **Kernaussage**: Ausschlaggebend für die Anwendbarkeit des alten oder neuen Prozessrechts im Rechtsmittelverfahren ist das Datum des erstinstanzlichen Entscheids.
+- **Einschlägig für**: Abs. 1 i.V.m. Art. 453/454 StPO
 
-## Anwendbarkeit der StPO auf hängige Verfahren
+### [BGE 145 IV 252 E. 1.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_252#e-1-6)
+- **Thema**: Anwendungsbereich und Abgrenzung zu Sonderverfahren
+- **Kernaussage**: Weder das Ordnungsbussengesetz noch die Ordnungsbussenverordnung enthalten eigene Zustellungsvorschriften; für das Ordnungsbussenverfahren sind die Bestimmungen der Schweizerischen Strafprozessordnung grundsätzlich nicht anwendbar.
+- **Einschlägig für**: Abs. 1; Geltungsbereich des Bundesprozessrechts
 
-### [BGer 6B_369/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_369_2013) (31.10.2013)
-- **Thema**: Übergangsrecht; Anwendbarkeit der StPO auf vor dem 1. Januar 2011 eingeleitete Verfahren
-- **Kernaussage**: Bestätigung des Grundsatzes, dass hängige Verfahren nach dem Inkrafttreten der StPO nach neuem Recht fortgeführt werden.
-- **Einschlägig für**: Abs. 1
+### [BGE 151 IV 84 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_84#e-2-3)
+- **Thema**: Teilrevision der StPO 2024 und Legitimation
+- **Kernaussage**: Nach dem revidierten Art. 429 StPO ist sowohl die beschuldigte Person als auch ihre Wahlverteidigung legitimiert, den Entscheid über die Entschädigung der Wahlverteidigung anzufechten.
+- **Einschlägig für**: Abs. 1; Intertemporale Geltung revidierter StPO-Bestimmungen
 
-### [BGer 6B_529/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_529_2014) (10.12.2014)
-- **Thema**: Übergangsregeln im Kontext kantonalen Rechtsmittelverfahrens
-- **Kernaussage**: Anwendung der Übergangsbestimmungen der StPO auf ein Verfahren, das den Stichtag des 1. Januar 2011 überspannt.
-- **Einschlägig für**: Abs. 1; Verhältnis zu Art. 453 StPO
+---
 
-### [BGer 6B_89/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_89_2014) (1.5.2014)
-- **Thema**: Übergangsrecht; Anwendbarkeit der StPO
-- **Kernaussage**: Bestätigung der Grundsätze von BGE 137 IV 352 zur Anwendbarkeit der StPO auf nach dem 1. Januar 2011 beurteilte Verfahren.
-- **Einschlägig für**: Abs. 1
+## II. Weitere Entscheide (BGer und Kantone)
 
-### [BGer 6B_676/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_676_2013) (28.4.2014)
-- **Thema**: Übergangsrecht; Anwendbarkeit der StPO
-- **Kernaussage**: Bestätigung der Anwendbarkeit der StPO auf hängige Verfahren nach Art. 448 Abs. 1 StPO.
-- **Einschlägig für**: Abs. 1
+### [BGer 1B_99/2011 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_99_2011#e-1-2) (28. März 2011)
+- **Thema**: Gesetzgeberischer Zweck des Übergangsrechts
+- **Kernaussage**: Die Übergangsbestimmungen der StPO basieren auf dem gesetzgeberischen Grundsatz, die bisherigen Verfahrensordnungen von Bund und Kantonen möglichst rasch durch die StPO zu ersetzen.
+- **Einschlägig für**: Abs. 1; Zielsetzung des Übergangsrechts
 
-### [BGer 6B_432/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_432_2011) (26.10.2011)
-- **Thema**: Übergangsrecht; Fortführung hängiger Verfahren nach neuem Recht
-- **Kernaussage**: Verfahren, die vor dem Inkrafttreten der StPO eingeleitet wurden, sind ab dem 1. Januar 2011 nach der StPO fortzuführen.
-- **Einschlägig für**: Abs. 1
+### [BGer 6B_428/2012 E. 1.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_428_2012#e-1-1) (19. November 2012)
+- **Thema**: Fortführung hängiger Verfahren nach neuem Recht
+- **Kernaussage**: Gemäss Art. 448 StPO werden Verfahren, die bei Inkrafttreten der StPO hängig sind, grundsätzlich nach neuem Recht fortgeführt.
+- **Einschlägig für**: Abs. 1; Grundsatz
 
-### [BGer 6B_684/2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_684_2012) (15.5.2013)
-- **Thema**: Übergangsrecht; Anwendbarkeit der StPO
-- **Kernaussage**: Anwendbarkeit der StPO auf ein hängiges Verfahren nach Art. 448 Abs. 1 StPO.
-- **Einschlägig für**: Abs. 1
+### [BGer 1B_381/2011 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_1B_381_2011#e-2-1) (5. August 2011)
+- **Thema**: Gesuche um Entlassung aus der Sicherheitshaft
+- **Kernaussage**: Gesuche um Entlassung aus der Sicherheitshaft fallen nicht unter Art. 453 StPO, sondern sind entsprechend dem Grundsatz von Art. 448 Abs. 1 StPO ab dem 1. Januar 2011 nach der Schweizerischen Strafprozessordnung zu beurteilen.
+- **Einschlägig für**: Abs. 1; Haftverfahren
 
-### [BGer 6B_610/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_610_2013) (12.12.2013)
-- **Thema**: Übergangsrecht; Anwendbarkeit der StPO
-- **Kernaussage**: Bestätigung der Grundsätze zum Übergangsrecht der StPO.
-- **Einschlägig für**: Abs. 1
+### [BGer 1B_303/2012 E. 5](https://mcp.opencaselaw.ch/entscheid/bger_1B_303_2012#e-5) (1. November 2012)
+- **Thema**: Kein kumulativer Beschwerdeweg
+- **Kernaussage**: Die einschlägigen Übergangsbestimmungen der StPO sehen keinen kumulativen Beschwerdeweg über die altrechtlichen und die neurechtlich zuständigen Rekursinstanzen vor; Art. 448 Abs. 1 StPO behält die spezifischen intertemporalrechtlichen Bestimmungen als leges speciales vor.
+- **Einschlägig für**: Abs. 1; Verhältnis zu Rechtsmittelvorschriften
 
-## Haft und Zwangsmassnahmen im Übergang
+### [BGer 1B_354/2010 E. 1.3](https://mcp.opencaselaw.ch/entscheid/bger_1B_354_2010#e-1-3) (8. Februar 2011)
+- **Thema**: Anordnung von Zwangsmassnahmen
+- **Kernaussage**: Gemäss Art. 448 Abs. 1 StPO in Verbindung mit Art. 449 Abs. 1 StPO werden Verfahren, die bei Inkrafttreten der StPO hängig sind, nach neuem Recht von den danach zuständigen Behörden geführt, weshalb sich Zwangsmassnahmen nach neuem Recht richten.
+- **Einschlägig für**: Abs. 1; Zwangsmassnahmen
 
-### [BGer 1B_99/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_99_2011) (28.3.2011)
-- **Thema**: Übergangsrecht; Haft; Anwendbarkeit der StPO
-- **Kernaussage**: Die StPO ist auf hängige Verfahren anwendbar; kein Vertrauensschutz auf Fortgeltung des kantonalen Rechts.
-- **Einschlägig für**: Abs. 1; Verhältnis zu Art. 451–452 StPO
+### [Gericht SO STBER.2023.32 vom 22. Januar 2024, E. 5.2](https://mcp.opencaselaw.ch/entscheid/so_gerichte_STBER.2023.32#e-5-2)
+- **Gericht / Kanton**: Obergericht Kanton Solothurn
+- **Thema**: Intertemporale Wirkung von StPO-Teilrevisionen
+- **Kernaussage**: Die allgemeinen Verfahrensbestimmungen nach Art. 448 ff. StPO kommen als Übergangsbestimmungen zur Anwendung, wenn eine neue Änderung der StPO beschlossen und nichts Anderslautendes geregelt wird, womit grundsätzlich sofort das neue Recht gilt.
+- **Einschlägig für**: Abs. 1; Tragweite bei Gesetzesnovellen
 
-### [BGer 1B_381/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_381_2011) (5.8.2011)
-- **Thema**: Gesuch um Entlassung aus der Sicherheitshaft; Übergangsrecht
-- **Kernaussage**: Anwendbarkeit der StPO auf Haftfragen in hängigen Verfahren; kein Vertrauensschutz auf Fortgeltung des kantonalen Haftrechts.
-- **Einschlägig für**: Abs. 1; Verhältnis zu Art. 451–452 StPO
+### [Obergericht ZH AC110001 vom 26. Januar 2011, E. 9](https://mcp.opencaselaw.ch/entscheid/zh_gerichte_AC110001)
+- **Gericht / Kanton**: Obergericht des Kantons Zürich
+- **Thema**: Übergangsrechtliche Beurteilung von Zwangsmassnahmen
+- **Kernaussage**: Zwangsmassnahmen und deren Überprüfung nach dem Inkrafttreten der eidgenössischen StPO richten sich materiell und formell nach dem neuen Bundesrecht.
+- **Einschlägig für**: Abs. 1 und 2; Zwangsmassnahmen in der kantonalen Praxis
+
+---
+
+*Letzte Aktualisierung: 22. August 2026*
