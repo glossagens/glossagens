@@ -42,7 +42,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 36 | [x] 2026-08-22 | [Art. 448](content/kommentar/stpo/art-448/_index.md) | 40 % | 30 | `korrekt` | 0 | 0 |
 | 37 | [x] 2026-08-22 | [Art. 101](content/kommentar/stpo/art-101/_index.md) | 41 % | 16 | `korrekt` | 5 | 0 |
 | 38 | [x] 2026-08-22 | [Art. 427](content/kommentar/stpo/art-427/_index.md) | 41 % | 17 | `korrekt` | 1 | 0 |
-| 39 | [ ] | [Art. 431](content/kommentar/stpo/art-431/_index.md) | 42 % | 30 | `halluziniert_oder_veraltet` | 1 | 0 |
+| 39 | [x] 2026-08-22 | [Art. 431](content/kommentar/stpo/art-431/_index.md) | 42 % | 30 | `halluziniert_oder_veraltet` | 1 | 0 |
 | 40 | [ ] | [Art. 433](content/kommentar/stpo/art-433/_index.md) | 42 % | 50 | `korrekt` | 1 | 0 |
 | 41 | [ ] | [Art. 320](content/kommentar/stpo/art-320/_index.md) | 43 % | 43 | `korrekt` | 5 | 0 |
 | 42 | [ ] | [Art. 224](content/kommentar/stpo/art-224/_index.md) | 43 % | 21 | `korrekt` | 1 | 0 |
