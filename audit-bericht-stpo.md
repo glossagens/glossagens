@@ -629,3 +629,62 @@
    - Gründlicher Makeover / Overhaul erforderlich (v.a. bei Art. 342 mit 0%, Art. 430 mit 24%, Art. 264 mit 27%, Art. 318 mit 27%, Art. 426 mit 29%).
    - Fehlende Wortlautblöcke ergänzen (z.B. Art. 318, 393, 417, 432).
    - Halluzinierte Referenzen (z.B. bei Art. 342, 394, 264) bereinigen und durch verifizierte Leitentscheide ersetzen.
+
+---
+
+## 5. Überarbeitungsstand (Stand 22. August 2026)
+
+*Ergänzt am 22.08.2026 von Claude Code (claude-opus-5). Dieser Abschnitt dokumentiert den Fortschritt der Sanierung und dient als Übergabe an einen anderen KI-Agenten.*
+
+### 5.1 Stand
+
+**35 von 58 C-Artikeln überarbeitet (60 %).** Die Arbeitsliste ist `audit-queue-stpo.md`; sie ist nach Belegquote aufsteigend sortiert, erledigte Einträge tragen `[x]` mit Datum. Jeder Overhaul ist ein eigener Commit `fix(stpo): Overhaul Art. X StPO nach Audit (Belegquote war Y %)`. **Nichts ist gepusht** — alle Commits liegen lokal auf `main`.
+
+Erledigt (in Bearbeitungsreihenfolge): Art. 342, 89, 94, 232, 136, 109, 13, 430, 100, 68, 264, 126, 318, 108, 426, 358, 417, 394, 124, 10, 34, 189, 381, 56, 14, 398, 140, 244, 15, 82, 228, 453, 12, 132, 384.
+
+**Offen (23 Artikel, 40–49 % Belegquote):** Art. 448, 101, 427, 431, 433, 320, 224, 120, 428, 104, 408, 143, 393, 345, 221, 115, 368, 248, 9, 412, 435, 139, 324.
+
+### 5.2 Arbeitsweise, die sich bewährt hat
+
+1. **Detailbefunde aus `audit-report-stpo.json`** ziehen (`reports` → `artikel`), insbesondere `stufe5_grounding` mit `supports != yes`.
+2. **Gesetzeswortlaut über `get_law` prüfen** — auch die *zitierten Nachbarnormen*, nicht nur die kommentierte. Über die Hälfte der gefundenen Fehler waren falsch bezeichnete Normen in Querverweisen und Fliesstext.
+3. **Jeden Entscheid im Volltext holen** (`get_decision`) und mit `grep -c 'Art. X'` prüfen, ob er die Norm überhaupt erwähnt. Das ist der wirksamste Einzelschritt.
+4. **Regeste gegen die Behauptung halten** (`get_regeste`).
+5. **Erwägungsnummern im Volltext lokalisieren**, nicht der Existenzprüfung des Audits vertrauen (siehe 5.4).
+6. Erst dann schreiben. Zitierstrings wörtlich aus `citation_string_de`.
+
+### 5.3 Wiederkehrende Fehlermuster in den geprüften Artikeln
+
+| Muster | Häufigkeit | Beispiel |
+|---|---|---|
+| **Entscheid erwähnt die kommentierte Norm nicht** | sehr häufig | Art. 12: acht von neun Ausstandsentscheiden nennen Art. 12 StPO kein einziges Mal; Art. 398: drei Entscheide zu Abs. 4/5, die weder Abs. 4 noch Abs. 5 erwähnen |
+| **Aussage sagt das Gegenteil ihres Belegs** | häufig | Art. 228: Dreitagesfrist «enger auszulegen» — der Entscheid sagt: Arbeitstage, kein Pikettdienst. Art. 132: «Bestellung steht im Ermessen» — die zitierte Erwägung begründet eine Fürsorgepflicht |
+| **Doppelführung Aktenzeichen / amtliche Publikation** | 5 Fälle | 6B_210/2021 = BGE 148 IV 205; 6B_525/2024 = BGE 151 IV 73; 6B_821/2021 = BGE 149 IV 369; 7B_455/2023 = BGE 151 IV 18; 6B_1005/2024 in falschem Artikel |
+| **Veraltete Rechtslage (Revision per 1.1.2024)** | häufig | Art. 14 (Art. 40 Abs. 1 StPO: «endgültig» gestrichen); Art. 228 (Art. 222: «Einzig die verhaftete Person»); Art. 132 (Art. 133 Abs. 2: Eignung neu vorangestellt, neuer Abs. 1bis); Art. 140 (Art. 141 Abs. 4 erfasst neu auch Abs. 1) |
+| **Erfundene Normen / Rechtsinstitute** | mehrfach | «Bundesgesetz über die Bundesanwaltschaft (BAVG)»; «Durchsuchung bei Journalisten (Art. 245 StPO)»; «Nebenamtliche Verteidigung»; Untergliederung von Art. 398 Abs. 4 in lit. a/b |
+| **Leere Pinpoint-Platzhalter** | Art. 15 (5×) | «vom 7. Dezember 2018 E. zur Abgrenzung» — abgeschnittene Erwägungsangabe ohne Nummer |
+| **Weggelassene tragende Einschränkung** | häufig | Art. 244: Zufallsfunde verwertbar, «soweit die ursprüngliche Massnahme rechtmässig war» — genau daran scheiterte der Leitfall |
+| **Fehlender `revisions`-Block** | ca. ⅓ der Bundles | strukturell PR-Reject nach CLAUDE.md |
+| **`mcp_verified` auf oberster Frontmatter-Ebene** | mehrfach | Art. 140, Art. 132 — nach CLAUDE.md unzulässig |
+
+### 5.4 Grenzen des Audit-Berichts — wichtig für die Weiterarbeit
+
+Der Bericht ist eine Fundgrube, aber **jeder Einzelbefund muss gegengeprüft werden**. Bestätigte Fehlalarm-Klassen:
+
+1. **Nullgepolsterte BGE-Nummern** — `BGE 138 IV 092` wird als halluziniert gemeldet, `BGE 138 IV 92` existiert (Art. 228).
+2. **`a^bis`-Schreibweise** — Wortlaut-Fehlalarm bei Art. 126.
+3. **Paarungs-Artefakte bei Pinpoints** — gemeldete Erwägungsnummern stammen aus benachbarten Zitaten und stehen im Artikel nirgends (Art. 381, Art. 398, Art. 453).
+4. **Listen-Parsing-Artefakte** — als «claim» geprüft wurden Linktext-Fragmente («Juni 2014](https://…);», «URL: 6B800/2016», «Zitate: 161»). Erklärt fast alle `claim_nicht_extrahierbar`- und viele `unrelated`-Befunde.
+5. **Nicht-deutschsprachige BGE** — für italienische und französische Entscheide speichert die DB keine gegliederten Erwägungen; `pinpoint_fehlt` ist dort gegen den Volltext zu prüfen (Art. 56, BGE 134 IV 289).
+6. **BGE ohne strukturierte Erwägungen** — `available_e_numbers: None` betrifft viele deutschsprachige BGE (137 IV 219, 141 IV 396, 142 IV 70, 143 IV 40, 145 IV 137, 139 IV 113 …). Die Existenzprüfung greift dort ins Leere: sie meldet teils `pinpoint_fehlt` für existierende Erwägungen — **und umgekehrt `existiert` für Erwägungen, deren Inhalt nichts mit der Behauptung zu tun hat** (Art. 132: alle acht Pinpoints als «existiert» bewertet, sieben davon inhaltlich falsch).
+7. **Unveröffentlichte Erwägungen** — BGE 137 IV 189 E. 1 wird vom Bundesgericht selbst zitiert, ist aber nicht in der amtlichen Sammlung; der Volltext enthält die Fundstelle deshalb nicht (Art. 453).
+8. **Zitierform mit E. vor dem Datum** — «BGer 6B_429/2020 E. 1.1 vom 1. Oktober 2020» wird vom Parser nicht erkannt; bei Art. 384 meldete der Bericht deshalb **null** Pinpoints, obwohl der Artikel voll davon ist.
+9. **Widersprüchliche `nicht_zitierte_einschlaegige`-Liste** — nennt teils Entscheide, die im Artikel bereits zitiert sind (Art. 384, Art. 453).
+
+**Konsequenz:** `stufe3_pinpoints` prüft nur die Existenz einer Erwägungsnummer, nicht ihren Inhalt. Ein grüner Pinpoint-Befund ist kein Qualitätsnachweis.
+
+### 5.5 Offene Punkte ausserhalb der Queue
+
+- **Projektweite Bereinigung `{: .gesetzeszitat}`**: Diese Kramdown-Attributsyntax wird in `content/fuer-agenten/_index.md` und `static/agent-skill.md` empfohlen und in `content/kommentar/svg/art-031`, `svg/art-091` verwendet. Hugo/Goldmark rendert sie als sichtbaren Text. In Art. 318 und Art. 417 bereits behoben; die Agenten-Dokumentation und die SVG-Artikel stehen aus.
+- **Systematische Nachprüfung der B-Artikel (78)**: Dieselben Fehlermuster treten dort mit geringerer Dichte auf; die Fehlerklassen aus 5.3 lassen sich mechanisch suchen (z.B. `grep` nach Aktenzeichen mit Leerzeichen, nach `E.` ohne folgende Ziffer, nach `mcp_verified` auf oberster Ebene).
+- **MCP-Zugang**: Während der gesamten Sanierung war der MCP-Client dieser Session defekt (`Invalid request parameters`). Gearbeitet wurde über ein SSE-Hilfsskript direkt gegen `https://mcp.opencaselaw.ch/`. Ein neuer Agent sollte zuerst prüfen, ob die regulären `mcp__opencaselaw__*`-Tools funktionieren.
