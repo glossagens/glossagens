@@ -2,22 +2,33 @@
 title: "Rechtsprechung zu Art. 228 StPO"
 weight: 228
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: "2026-08-22"
 description: "Leading Cases und systematische Rechtsprechung zu Art. 228 StPO (Haftentlassungsgesuch)"
 tags: ["Haftentlassung", "Untersuchungshaft", "Zwangsmassnahmengericht", "Sperrfrist", "kontradiktorisch", "Beschleunigungsgebot", "EMRK"]
 agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 40 %). Alle 21 Aktenzeichen und Daten gegen citation_string_de geprüft; alle stimmen. Malformierte Aktenzeichen mit Leerzeichen (BGer 1B_614/2022 usw.) korrigiert. Zuordnung der 3-Stunden-Regel berichtigt: Sie steht in BGer 1B_577/2019 E. 2.4, nicht in BGE 139 IV 314. Art. 222 StPO in der seit 1.1.2024 geltenden Fassung nachgetragen; die überholten Entscheide zum staatsanwaltschaftlichen Beschwerderecht sind nun als solche gekennzeichnet. Fehlender revisions-Block ergänzt."
+  - date: 2026-05-24
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
 ## Leitentscheide (BGE)
 
 ### BGE 137 IV 237 (145 Zit.) — 31. August 2011
 
-**Aufschiebende Wirkung; Freilassungspflicht**
+**Aufschiebende Wirkung; Freilassungspflicht** *(überholt, siehe unten)*
 
 Die wirksame Geltendmachung des Beschwerderechts der Staatsanwaltschaft setzt voraus, dass die beschuldigte Person in Haft bleibt, bis die Beschwerdeinstanz superprovisorisch entscheiden kann. In zeitlich begrenztem Umfang ist die aufschiebende Wirkung Teil des Beschwerderechts der StA. Superprovisorische Haftanordnung ohne vorherige Anhörung möglich, wenn Schutz des Untersuchungszwecks; nachträgliche Gehörsgewährung zwingend (Art. 29 Abs. 2 BV).
 → [E. 2.1, 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_237#e-2-1)
 
-*Hinweis: Die Beschwerdelegitimation der StA gegen Haftentlassungsentscheide wurde durch BGer 1B 614/2022 aufgehoben (siehe unten).*
+*Hinweis: Die Beschwerdelegitimation der StA gegen Haftentlassungsentscheide wurde durch BGer 1B_614/2022 aufgehoben (siehe unten).*
 
 ### BGE 138 IV 92 (124 Zit.) — 4. Januar 2012
 
@@ -28,12 +39,14 @@ Vorgehen, damit die Freilassung bis zum Entscheid der Beschwerdeinstanz verhinde
 
 ### BGE 139 IV 314 — 27. November 2013
 
+*Regeste: «Anders als bei der Anfechtung eines Haftentlassungsentscheids des Zwangsmassnahmengerichts oder des erstinstanzlichen Strafrichters (E. 2.2), kann mit einer Beschwerde in Strafsachen gegen eine Haftentlassung durch die Verfahrensleitung des Berufungsgerichts in der Regel nicht verhindert werden, dass die Haftentlassung sofort vollzogen wird (E. 2.3).» Die **3-Stunden-Regel selbst** ist nicht hier, sondern in BGer 1B_577/2019 E. 2.4 formuliert; BGE 139 IV 314 E. 2.2.1 enthält die dogmatische Grundlage — den Anspruch auf unverzügliche Freilassung nach Art. 226 Abs. 5 StPO.*
+
 **3-Stunden-Regel bei Haftentlassung**
 
 Eine beschuldigte Person ist gemäss Art. 226 Abs. 5 StPO unverzüglich freizulassen, wenn das ZMG die Untersuchungshaft nicht anordnet. Die StA muss Beschwerdeankündigung unmittelbar nach Kenntnis des Haftentlassungsentscheids machen und spätestens 3 Stunden nach Ankündigung schriftlich einreichen. Unterlassene vorgängige Ankündigung kann nicht nachträglich geheilt werden.
 → [E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_314#e-2-2-1)
 
-*Hinweis: Mit Aufhebung der Beschwerdelegitimation der StA (BGer 1B 614/2022) hat die 3-Stunden-Regel ihre praktische Bedeutung weitgehend verloren.*
+*Hinweis: Mit Aufhebung der Beschwerdelegitimation der StA (BGer 1B_614/2022) hat die 3-Stunden-Regel ihre praktische Bedeutung weitgehend verloren.*
 
 ### BGE 137 IV 186 (85 Zit.) — 4. Mai 2011
 
@@ -48,13 +61,17 @@ Im Berufungsverfahren hat der Beschuldigte keinen formellen Anspruch auf mündli
 Die Beschwerdeinstanz kann ohne vorherige Anhörung der beschuldigten Person die vorläufige Weiterführung der Haft anordnen, wenn dies zum Schutz des Untersuchungszwecks notwendig ist. Nichtbehandlung des Gesuchs um vorläufige Weiterführung vereitelt das Beschwerderecht der Staatsanwaltschaft.
 → [E. 2.2.1, 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_230#e-2-2-1)
 
-*Hinweis: Beschwerdelegitimation der StA durch BGer 1B 614/2022 aufgehoben.*
+*Hinweis: Beschwerdelegitimation der StA durch BGer 1B_614/2022 aufgehoben.*
 
 ---
 
-## Praxisänderung 2023: Aufhebung der Beschwerdelegitimation der StA
+## Wegfall der Beschwerdelegitimation der Staatsanwaltschaft
 
-### BGer 1B 614/2022 — 10. Januar 2023
+> **Geltende Rechtslage.** Art. 222 StPO lautet seit dem 1. Januar 2024: «Einzig die verhaftete Person kann Entscheide über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- oder Sicherheitshaft bei der Beschwerdeinstanz anfechten. Vorbehalten bleibt Artikel 233.» Die nachstehend aufgeführten Entscheide zum Beschwerderecht der Staatsanwaltschaft (BGE 137 IV 22, BGE 137 IV 230, BGE 137 IV 237, BGE 138 IV 92, BGE 139 IV 314, BGer 1B_577/2019) sind damit **überholt**; sie bleiben für das Verständnis der Rechtsentwicklung und für Altfälle von Interesse.
+
+### Praxisänderung 2023
+
+### BGer 1B_614/2022 — 10. Januar 2023
 
 **Aufhebung der ständigen Rechtsprechung zur Beschwerdelegitimation der Staatsanwaltschaft**
 
@@ -76,7 +93,7 @@ Da die Praxisänderung unvorhersehbar war, wurde keine unverzügliche Haftentlas
 Treten Haftentlassungsgründe erst nach dem erstinstanzlichen Entscheid ein, hat der Beschuldigte den Rechtsbehelf von Art. 228 StPO zu ergreifen. Inhaftierte dürfen nicht auf neue Haftentlassungsgesuche verwiesen werden, wenn bereits ein Haftprüfungsverfahren hängig ist. Komplizierende Verfahrensvorkehren sind zu vermeiden.
 → [E. 3, 4.4](https://mcp.opencaselaw.ch/entscheid/bger_1B_51_2015)
 
-### BGer 1B 304/2013 — 27. September 2013
+### BGer 1B_304/2013 — 27. September 2013
 
 **Haftentlassungsgesuch als Parteieingabe; 3-Tage-Frist**
 
@@ -121,18 +138,18 @@ Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) im Haftentlassungsverfahren;
 
 ## Analoge Anwendung im Nachverfahren
 
-### BGer 1B 270/2017 — 28. Juli 2017
+### BGer 1B_270/2017 — 28. Juli 2017
 
 Die Regeln der Untersuchungshaft (einschliesslich Haftentlassungsgesuch nach Art. 228) gelten im Nachverfahren analog.
 
-### BGer 1B 160/2020 — 28. April 2020
+### BGer 1B_160/2020 — 28. April 2020
 
 **Sicherheitshaft im Nachverfahren; analoge Anwendung**
 
 Keine ausdrückliche gesetzliche Regelung für Sicherheitshaft im Nachverfahren (Art. 363 ff. StPO). Art. 221 und 229 ff. StPO sind analog anwendbar. Die Analogie stützt sich auf lang andauernde und konstante höchstrichterliche Rechtsprechung. EGMR-Grundsätze berücksichtigt.
 → [E. 2.3, 2.5](https://mcp.opencaselaw.ch/entscheid/bger_1B_160_2020)
 
-### BGer 1B 24/2020 — 3. Februar 2020
+### BGer 1B_24/2020 — 3. Februar 2020
 
 **EMRK-Konformität der analogen Anwendung**
 
@@ -172,8 +189,26 @@ Haftentlassungsgesuch; Sperrfrist (1 Monat); Verhandlung und aufschiebende Wirku
 | 3 | BGer 1B_51/2015 | 123 | Jederzeitiges Gesuch; Beschleunigungsgebot |
 | 4 | BGE 137 IV 186 | 85 | Kein Verhandlungsanspruch im Berufungsverfahren |
 | 5 | BGE 137 IV 230 | 84 | StA-Beschwerde gegen Freilassung (historisch) |
-| 6 | BGer 1B 304/2013 | 80 | Parteieingabe; 3-Tage-Frist der StA |
+| 6 | BGer 1B_304/2013 | 80 | Parteieingabe; 3-Tage-Frist der StA |
 | 7 | BGer 7B_154/2023 | 74 | Art. 228 vs. Art. 227: massgebliches Verfahren |
 | 8 | BGer 7B_155/2024 | 70 | Rechtsschutzinteresse trotz Sicherheitshaft |
-| 9 | BGer 1B 614/2022 | — | **Praxisänderung**: StA-Beschwerde aufgehoben |
+| 9 | BGer 1B_614/2022 | — | **Praxisänderung**: StA-Beschwerde aufgehoben |
 | 10 | BGE 139 IV 314 | — | 3-Stunden-Regel (historisch) |
+
+---
+
+## Berichtigte Einträge
+
+| Fundstelle | Was falsch war | Befund |
+|---|---|---|
+| [BGer 1B_304/2013 vom 27. September 2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_304_2013) E. 2.5 | Im Kommentar als Beleg dafür angeführt, die Dreitagesfrist nach Art. 228 Abs. 2 StPO sei «enger auszulegen, als der Wortlaut suggeriert», und eine bewusste Ausschöpfung sei rechtsmissbräuchlich | Der Entscheid sagt das Gegenteil: Die Frist bezieht sich «grundsätzlich nicht auf Kalender-, sondern auf Arbeitstage (vgl. Art. 90 StPO)», und das Gesetz verlangt keinen Pikettdienst der Staatsanwaltschaften über das Wochenende (E. 2.4). Ob eine bewusste Ausschöpfung rechtsmissbräuchlich wäre, ist ausdrücklich **offengelassen** (E. 2.5). |
+| [BGE 139 IV 314](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_314) E. 2.2.1 | Als Fundstelle der 3-Stunden-Regel angeführt | E. 2.2.1 enthält den Anspruch auf unverzügliche Freilassung nach Art. 226 Abs. 5 StPO. Die 3-Stunden-Regel ist in BGer 1B_577/2019 E. 2.4 formuliert. |
+| «Parteieingabe nach Art. 109–110 StPO (E. 2.5)» | Auf E. 2.5 gestützt | Die Aussage steht in E. 2.3 als Wiedergabe der vorinstanzlichen Auffassung, die das Bundesgericht in E. 2.4 als bundesrechtskonform bestätigt. |
+
+## Prüfvermerk
+
+Sämtliche 21 Aktenzeichen und Datumsangaben wurden gegen `citation_string_de` geprüft; alle stimmen, und alle 13 Erwägungsangaben liessen sich auflösen. Fünf Aktenzeichen waren mit Leerzeichen statt Unterstrich geschrieben («BGer 1B 614/2022»).
+
+Der vom Audit gemeldete halluzinierte Beleg `BGE 138 IV 092` ist ein Artefakt der nullgepolsterten Schreibweise: Derselbe Entscheid wurde zusätzlich als `BGE 138 IV 92` geprüft und existiert. Der Artikel verwendet die korrekte Form.
+
+*Letzte Aktualisierung: 2026-08-22*
