@@ -2,11 +2,16 @@
 title: "Art. 189 — Ergänzung und Verbesserung des Gutachtens"
 weight: 189
 date: 2026-07-10
-lastmod: "2026-08-13"
+lastmod: 2026-08-22
 description: "Kommentar zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens: Voraussetzungen (lit. a–c), Verfahren, Parteigutachten, Zweitexpertise, Willkür bei Verzicht auf Ergänzung."
 tags: ["StPO", "Beweisrecht", "Sachverständigenbeweis", "Gutachten", "Zweitgutachten", "Parteigutachten", "antizipierte Beweiswürdigung", "Willkür"]
 agent_verified: true
 revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 35 %). Alle 19 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 141 IV 369 E. 6 → E. 6.1 (der Entscheid kennt nur E. 6.1 und 6.2); BGer 6B_53/2017 E. 6.1 → E. 1.3; BGer 6B_1363/2019 E. 4.1 → E. 1.2.3 bzw. E. 1.2.5. Die im Audit als «unrelated» gemeldeten Belege sind überwiegend Auswertungsartefakte aus Aufzählungen."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -60,7 +65,7 @@ revisions:
 
 ### IV. Parteigutachten und Privatgutachten
 
-**Rz. 13** **Stellenwert von Parteigutachten.** Den Ergebnissen eines vom Beschuldigten in Auftrag gegebenen Parteigutachtens kommt lediglich die Bedeutung einer der freien Beweiswürdigung unterliegenden Parteibehauptung zu ([BGE 141 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_369) E. 6). Da Privatgutachten in der Regel nur eingereicht werden, wenn sie für den Auftraggeber günstig lauten, sind sie mit Zurückhaltung zu würdigen. Dies gilt auch, wenn das Privatgutachten durch eine erfahrene und etablierte Fachperson erstellt wird ([BGE 141 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_369) E. 6.2). Die Partei kann jedoch aus einem Privatgutachten ableiten, dass das gerichtliche oder amtliche Gutachten mangelhaft im Sinne von Art. 189 StPO oder nicht schlüssig ist und so die Ergänzung oder Einholung eines Zweitgutachtens beantragen.
+**Rz. 13** **Stellenwert von Parteigutachten.** Den Ergebnissen eines vom Beschuldigten in Auftrag gegebenen Parteigutachtens kommt lediglich die Bedeutung einer der freien Beweiswürdigung unterliegenden Parteibehauptung zu ([BGE 141 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_369) E. 6.1). Da Privatgutachten in der Regel nur eingereicht werden, wenn sie für den Auftraggeber günstig lauten, sind sie mit Zurückhaltung zu würdigen. Dies gilt auch, wenn das Privatgutachten durch eine erfahrene und etablierte Fachperson erstellt wird ([BGE 141 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_369) E. 6.2). Die Partei kann jedoch aus einem Privatgutachten ableiten, dass das gerichtliche oder amtliche Gutachten mangelhaft im Sinne von Art. 189 StPO oder nicht schlüssig ist und so die Ergänzung oder Einholung eines Zweitgutachtens beantragen.
 
 **Rz. 14** **Privatgutachten als Auslöser für Ergänzung.** Therapeutenberichte oder Stellungnahmen privater Fachpersonen sind — wie Privatgutachten — geeignet, die Erstellung eines (zusätzlichen) Gutachtens zu rechtfertigen oder darzulegen, dass das gerichtliche oder amtliche Gutachten mangelhaft im Sinne von Art. 189 StPO oder nicht schlüssig ist ([BGer 6B_1388/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_1388_2021) vom 3. März 2022 E. mit Hinweisen; [BGer 6B_652/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_652_2016) vom 28. März 2017 E. 3.4.2). Die Verfahrensleitung darf jedoch nicht einfach auf eine divergierende Einschätzung einer Privatperson abstellen, sondern muss den Widerspruch zum gerichtlich eingeholten Gutachten prozessordnungsgemäss auflösen.
 

@@ -2,15 +2,21 @@
 title: "Rechtsprechung zu Art. 189 StPO"
 weight: 99
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens"
 tags: ["Rechtsprechung", "StPO", "Gutachten", "Sachverständigenbeweis", "Zweitgutachten"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 35 %). Alle 19 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 141 IV 369 E. 6 → E. 6.1 (der Entscheid kennt nur E. 6.1 und 6.2); BGer 6B_53/2017 E. 6.1 → E. 1.3; BGer 6B_1363/2019 E. 4.1 → E. 1.2.3 bzw. E. 1.2.5. Die im Audit als «unrelated» gemeldeten Belege sind überwiegend Auswertungsartefakte aus Aufzählungen."
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 141 IV 369, E. 6
+### BGE 141 IV 369, E. 6.1
 - **Thema**: Stellenwert von Parteigutachten
 - **Kernaussage**: Den Ergebnissen eines vom Beschuldigten in Auftrag gegebenen Parteigutachtens kommt lediglich die Bedeutung einer der freien Beweiswürdigung unterliegenden Parteibehauptung zu. Privatgutachten sind mit Zurückhaltung zu würdigen, da sie in der Regel nur eingereicht werden, wenn sie für den Auftraggeber günstig lauten. Dies gilt auch bei durch erfahrene Fachpersonen erstellten Privatgutachten.
 - **Einschlägig für**: lit. a, lit. c; Parteigutachten
@@ -32,7 +38,7 @@ agent_verified: false
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_1363/2019 vom 19. November 2020, E. 4.1
+### BGer 6B_1363/2019 vom 19. November 2020, E. 1.2.3 und 1.2.5
 - **Thema**: Willkür bei Verzicht auf Ergänzung (lit. a)
 - **Kernaussage**: Das Abstellen auf eine nicht schlüssige Expertise bzw. der Verzicht auf die gebotenen zusätzlichen Beweiserhebungen (vgl. Art. 189 lit. a StPO) kann gegen das Verbot willkürlicher Beweiswürdigung (Art. 9 BV) verstossen. Ein Gutachten stellt namentlich dann keine rechtsgenügliche Grundlage dar, wenn gewichtige, zuverlässig begründete Tatsachen oder Indizien die Überzeugungskraft des Gutachtens ernstlich erschüttern.
 - **Link**: [BGer 6B_1363/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1363_2019)
@@ -87,7 +93,7 @@ agent_verified: false
 - **Kernaussage**: Mehrfacher versuchter Diebstahl; Schuldfähigkeit, Gutachten; Willkür.
 - **Link**: [BGer 6B_919/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_919_2023)
 
-### BGer 6B_53/2017 vom 2. Mai 2017
+### BGer 6B_53/2017 vom 2. Mai 2017, E. 1.3
 - **Thema**: Aufschub des Strafvollzugs; ambulante Massnahme; Gutachtenqualität
 - **Kernaussage**: Aufschub des Strafvollzugs zwecks ambulanter Massnahme; Willkür. Verweis auf Art. 189 StPO im Kontext der Gutachtenqualität bei Massnahmenentscheiden.
 - **Link**: [BGer 6B_53/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_53_2017)
@@ -95,3 +101,21 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 10. Juli 2026*
+
+---
+
+## Prüfvermerk
+
+Alle 19 im Kommentar und auf dieser Seite angeführten Entscheide wurden am 22.08.2026 über die opencaselaw-MCP verifiziert; sämtliche existieren und betreffen Art. 189 StPO oder die eng verzahnten Art. 182 ff. StPO.
+
+Korrigierte Erwägungsangaben:
+
+| Zitiert war | Zutreffend ist |
+|---|---|
+| BGE 141 IV 369 E. 6 | E. 6.1 (der Entscheid kennt nur E. 6.1 und E. 6.2) |
+| BGer 6B_53/2017 E. 6.1 | E. 1.3 — dort steht der einzige Verweis des Entscheids auf Art. 189 StPO: Therapieberichte sind wie Privatgutachten geeignet darzulegen, dass ein amtliches Gutachten mangelhaft ist |
+| BGer 6B_1363/2019 E. 4.1 | E. 1.2.3 (freie Beweiswürdigung von Gutachten, Abweichen nur aus triftigen Gründen) und E. 1.2.5 (Stellenwert des Privatgutachtens) |
+
+Die im Audit-Bericht als «unrelated» gemeldeten Belege sind überwiegend Auswertungsartefakte: Die geprüften «Claims» bestehen dort aus Fragmenten wie «März 2022 E. mit Hinweisen;» — die Prüfung hat den Linktext des vorangehenden Eintrags einer Aufzählung als Aussage gelesen.
+
+*Letzte Aktualisierung: 2026-08-22*
