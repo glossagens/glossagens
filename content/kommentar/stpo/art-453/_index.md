@@ -2,8 +2,14 @@
 title: "Art. 453 — Vor Inkrafttreten gefällte Entscheide"
 weight: 453
 date: 2026-07-10
-lastmod: 2026-08-13
-description: "Kommentar zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide: Übergangsrecht für Rechtsmittel gegen vor dem 1. Januar 2011 ergangene Entscheide, Anwendung bisherigen Rechts und bisheriger Zuständigkeiten, Neuapplication bei Rückweisung."
+lastmod: "2026-08-22"
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Vollständiger Overhaul nach Audit (Belegquote 40 %). Fehlender revisions-Block ergänzt. Rz. 13 war falsch: Abs. 2 gilt nicht «unabhängig davon», wann der angefochtene Entscheid erging — nach BGer 6B_425/2011 E. 2.2.2 ist neues Recht nur anwendbar, wenn der Rückweisungsentscheid nach dem 1.1.2011 gefällt wurde. Dieser einschlägige Entscheid fehlte ganz und ist neu eingearbeitet. Abschnitt VIII gab nur die Auffassung der Vorinstanz wieder und verschwieg, dass das Bundesgericht sie als bundesrechtswidrig verwarf (6B_1412/2019 E. 2.3). Abschnitt IX stützte sich auf BGE 145 IV 137, der Art. 453 StPO nicht erwähnt und die lex mitior nach Art. 2 Abs. 2 StGB betrifft; die Verknüpfung stammt aus BGer 7B_1022/2023 E. 1.2 und ist entsprechend umattribuiert. BGE 137 IV 189 E. 1 als unveröffentlichte Erwägung gekennzeichnet und um BGE 138 IV 248 E. 1 als zugängliche Fundstelle ergänzt. Falsche Absatzzuordnung bei BGer 6B_574/2010 dokumentiert."
+description: "Kommentar zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide: Übergangsrecht für Rechtsmittel gegen vor dem 1. Januar 2011 ergangene Entscheide, Anwendung bisherigen Rechts und bisheriger Zuständigkeiten, Neuanwendung bei Rückweisung."
 tags: ["StPO", "Übergangsrecht", "Übergangsbestimmungen", "interlokales Recht", "Rechtsmittel", "Zeitliches Anwendungsrecht", "Rückweisung", "Inkrafttreten"]
 agent_verified: true
 ---
@@ -20,9 +26,9 @@ agent_verified: true
 
 ### I. Bedeutung und systematische Stellung
 
-Art. 453 StPO ist eine zentrale Norm des intertemporalen Strafprozessrechts bei Inkrafttreten der Schweizerischen Strafprozessordnung am 1. Januar 2011. Die Bestimmung regelt die Rechtsmittel gegen Entscheide, die **vor** diesem Stichtag gefällt worden sind, und bildet damit das Gegenstück zu Art. 454 StPO, der die Rechtsmittelsituation für nach dem 31. Dezember 2010 ergangene erstinstanzliche Entscheide behandelt. Während Art. 448 StPO den allgemeinen Grundsatz der Fortführung hängiger Verfahren nach neuem Recht aufstellt, stellt Art. 453 Abs. 1 eine **bewusste Ausnahme** von diesem Grundsatz dar: Alt-rechtliche Entscheide sollen auch alt-rechtlich (d.h. nach bisherigem kantonalen oder eidgenössischem Strafprozessrecht) mit Rechtsmitteln überpüft werden, und zwar durch die Behörden, die bisher zuständig waren (Rz. 1).
+Art. 453 StPO ist eine zentrale Norm des intertemporalen Strafprozessrechts bei Inkrafttreten der Schweizerischen Strafprozessordnung am 1. Januar 2011. Die Bestimmung regelt die Rechtsmittel gegen Entscheide, die **vor** diesem Stichtag gefällt worden sind, und bildet damit das Gegenstück zu Art. 454 StPO, der die Rechtsmittelsituation für nach dem 31. Dezember 2010 ergangene erstinstanzliche Entscheide behandelt. Während Art. 448 StPO den allgemeinen Grundsatz der Fortführung hängiger Verfahren nach neuem Recht aufstellt, stellt Art. 453 Abs. 1 eine **bewusste Ausnahme** von diesem Grundsatz dar: Alt-rechtliche Entscheide sollen auch alt-rechtlich (d.h. nach bisherigem kantonalen oder eidgenössischem Strafprozessrecht) mit Rechtsmitteln überprüft werden, und zwar durch die Behörden, die bisher zuständig waren (Rz. 1).
 
-Die Norm dient dem **Rechtssicherheit und Vertrauensschutz**: Die Parteien sollen darauf vertrauen können, dass die im Zeitpunkt der Urteilsfällung geltende Verfahrensordnung auch für die Überprüfung des Urteils massgebend bleibt. Dies verhindert, dass das neue Recht rückwirkend in laufende Rechtsmittelverfahren eingreift (Rz. 2).
+Die Norm dient der **Rechtssicherheit und dem Vertrauensschutz**: Die Parteien sollen darauf vertrauen können, dass die im Zeitpunkt der Urteilsfällung geltende Verfahrensordnung auch für die Überprüfung des Urteils massgebend bleibt. Dies verhindert, dass das neue Recht rückwirkend in laufende Rechtsmittelverfahren eingreift (Rz. 2).
 
 Art. 453 Abs. 2 wiederum modifiziert den Grundgedanken des Abs. 1 für den Fall der **Rückweisung**: Wird ein Verfahren von der Rechtsmittelinstanz oder vom Bundesgericht zur neuen Beurteilung an die Vorinstanz zurückgewiesen, so ist ab diesem Zeitpunkt neues Recht anwendbar. Damit wird sichergestellt, dass das neue Recht möglichst rasch in den Instanzenzug Einzug hält und alt-rechtliche Verfahren nicht endlos weitergeführt werden (Rz. 3).
 
@@ -34,9 +40,9 @@ Die Schweizerische Strafprozessordnung trat am **1. Januar 2011** in Kraft (AS 2
 
 #### 2. Massgebender Zeitpunkt: erstinstanzliches Entscheiddatum
 
-Das Bundesgericht hat in ständiger Praxis klargestellt, dass **ausschlaggebend für die Anwendbarkeit des alten oder neuen Prozessrechts das erstinstanzliche Entscheiddatum** ist. Ist der erstinstanzliche Entscheid vor dem 1. Januar 2011 ergangen, so wird auch das Rechtsmittelverfahren nach bisherigem Recht und von den bisher zuständigen Behörden durchgeführt. Dies wurde erstmals in [BGE 137 IV 189](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_189) E. 1 festgehalten und seither in ständiger Rechtsprechung bestätigt — etwa in [BGE 137 IV 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_219) E. 1.1, BGer [1B_224/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_224_2010) vom 11. Januar 2011 E. 2, BGer [1B_411/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_411_2010) vom 7. Februar 2011 E. 1.3, BGer [1B_412/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_412_2010) vom 4. April 2011 E. 1 sowie BGer [1B_99/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_99_2011) vom 28. März 2011 E. 2 (Rz. 5).
+Das Bundesgericht hat in ständiger Praxis klargestellt, dass **ausschlaggebend für die Anwendbarkeit des alten oder neuen Prozessrechts das erstinstanzliche Entscheiddatum** ist. Ist der erstinstanzliche Entscheid vor dem 1. Januar 2011 ergangen, so wird auch das Rechtsmittelverfahren nach bisherigem Recht und von den bisher zuständigen Behörden durchgeführt. Die Formel lautet: «Ausschlaggebend für die Anwendbarkeit des alten oder des neuen Prozessrechts ist insofern das Datum des erstinstanzlichen Entscheids» ([BGE 138 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248) E. 1). Das Bundesgericht führt sie auf [BGE 137 IV 189](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_189) E. 1 und [BGE 137 IV 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_219) E. 1.1 zurück; die Erwägung 1 von BGE 137 IV 189 ist allerdings nicht in die amtliche Sammlung aufgenommen worden (publiziert sind dort die Erwägungen zur Entsiegelung, E. 2–5), weshalb sie nur über die zitierenden Entscheide zugänglich ist. Bestätigt in [BGE 137 IV 219](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_219) E. 1.1, BGer [1B_224/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_224_2010) vom 11. Januar 2011 E. 2, BGer [1B_411/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_411_2010) vom 7. Februar 2011 E. 1.3, BGer [1B_412/2010](https://mcp.opencaselaw.ch/entscheid/bger_1B_412_2010) vom 4. April 2011 E. 1 sowie BGer [1B_99/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_99_2011) vom 28. März 2011 E. 2 (Rz. 5).
 
-Die Lehre stimmt dieser Lesart überein: Viktor Lieber (Zürcher Kommentar StPO, 2010, N. 2 zu Art. 453), Niklaus Schmid (Übergangsrecht der Schweizerischen Strafprozessordnung, 2010, Rz. 280 ff.) und Hans-Peter Uster (Basler Kommentar StPO, 2010, N. 1 zu Art. 453) bestätigen das erstinstanzliche Entscheiddatum als massgebendes Kriterium (Rz. 6).
+Die Lehre stimmt dieser Lesart zu: Viktor Lieber (Zürcher Kommentar StPO, 2010, N. 2 zu Art. 453), Niklaus Schmid (Übergangsrecht der Schweizerischen Strafprozessordnung, 2010, Rz. 280 ff.) und Hans-Peter Uster (Basler Kommentar StPO, 2010, N. 1 zu Art. 453) bestätigen das erstinstanzliche Entscheiddatum als massgebendes Kriterium (Rz. 6).
 
 #### 3. Begriff des «Entscheids»
 
@@ -66,7 +72,11 @@ Diese Ausnahme betrifft jedoch **nur das Rechtsmittelverfahren**, nicht das der 
 
 #### 1. Grundsatz: neues Recht für die neue Beurteilung
 
-Art. 453 Abs. 2 StPO bricht mit dem alt-rechtlichen Regime, sobald eine Sache **zurückgewiesen** wird: Wird ein Verfahren von der Rechtsmittelinstanz oder vom Bundesgericht zur neuen Beurteilung an die Vorinstanz zurückgewiesen, so ist neues Recht (d.h. die StPO) anwendbar. Diese Regelung gilt unabhängig davon, ob der angefochtene Entscheid vor oder nach dem 1. Januar 2011 ergangen ist — der Wechsel zum neuen Recht findet bei der Rückweisung statt (Rz. 13).
+Art. 453 Abs. 2 StPO bricht mit dem alt-rechtlichen Regime, sobald eine Sache **zurückgewiesen** wird: Wird ein Verfahren von der Rechtsmittelinstanz oder vom Bundesgericht zur neuen Beurteilung an die Vorinstanz zurückgewiesen, so ist neues Recht (d.h. die StPO) anwendbar. Entscheidend ist dabei der Zeitpunkt des **Rückweisungsentscheids**, nicht jener des aufgehobenen Entscheids oder der neuen Beurteilung. Das Bundesgericht hat dies in [BGer 6B_425/2011 vom 10. April 2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_425_2011) E. 2.2.1 f. entschieden — Art. 453 Abs. 2 StPO regelt die Frage nicht ausdrücklich und wird in der Botschaft nicht erläutert (BBl 2006 1085 ff., 1353, 1529). Aus dem Randtitel und der Systematik von Art. 453 StPO ergibt sich, dass die Bestimmung die Konstellation regelt, in der der angefochtene Entscheid vor und der Rechtsmittelentscheid nach dem Inkrafttreten ergeht; entsprechend betrifft auch Abs. 2 den Fall, «dass der Rückweisungsentscheid der Rechtsmittelinstanz nach dem Inkrafttreten des neuen Rechts ergeht». Das Bundesgericht folgert:
+
+> «Das neue Prozessrecht ist im neuen Verfahren vor der Vorinstanz somit nur anwendbar, wenn der Rückweisungsentscheid der Rechtsmittelinstanz beziehungsweise des Bundesgerichts nach dem Inkrafttreten der StPO am 1. Januar 2011 gefällt» wurde.
+
+Dafür spricht auch Abs. 2 Satz 2: Eine Beurteilung durch die nach neuem Recht zuständige Behörde ist erst nach dessen Inkrafttreten überhaupt möglich. Wurde die Sache **vor** dem 1. Januar 2011 zurückgewiesen, existierte damals noch keine zuständige Behörde im Sinne von Abs. 2 Satz 2; die neue Beurteilung erfolgt dann nach altem Recht durch die danach zuständige Behörde — und zwar auch dann, wenn das neue Urteil erst nach dem Stichtag ergeht (E. 2.2.2; Parallele zu Art. 450 StPO) (Rz. 13).
 
 #### 2. Bisherige vs. neue Zuständigkeit bei Rückweisung
 
@@ -78,9 +88,11 @@ Das Bundesgericht hat dies in BGer [6B_432/2011](https://mcp.opencaselaw.ch/ents
 
 Der Vertrauensschutz des Abs. 1 greift bei der Rückweisung nicht: Die Parteien haben **keinen wohlerworbenen Anspruch** darauf, dass das zurückgewiesene Verfahren nach bisherigem Recht weitergeführt wird. Das Bundesgericht hat dies in BGer [6B_432/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_432_2011) vom 26. Oktober 2011 ausdrücklich festgehalten: Der Beschwerdeführer könne sich bezüglich der früheren gesetzlichen Regelung nicht auf ein wohlerworbenes Recht berufen, da keine Ansprüche zur Diskussion stünden, die vor dem Inkrafttreten der StPO bereits materiell erworben worden seien (Rz. 16).
 
-#### 4. Genugtuung und Entschädigung nach altem Recht
+#### 4. Genugtuung und Entschädigung nach altem Recht — ein Anwendungsfall von Abs. 1
 
-Eine besondere Konstellation betrifft die Genugtuungssumme nach Freispruch. In BGer [6B_574/2010](https://mcp.opencaselaw.ch/entscheid/bger_6B_574_2010) vom 31. Januar 2011 E. 1.1 beurteilte das Bundesgericht eine Beschwerde gegen ein Urteil, das vor dem 1. Januar 2011 ergangen war. Die Beschwerde war deshalb nach bisherigem Recht (Art. 453 Abs. 2 StPO) zu beurteilen, d.h. nach § 191 Satz 1 i.V.m. § 43 Abs. 1 StPO/ZH. Dies betraf die Frage der Genugtuung für einen freigesprochenen Angeklagten, dessen Kosten nicht auferlegt wurden (Rz. 17).
+Eine besondere Konstellation betrifft die Genugtuungssumme nach Freispruch. In [BGer 6B_574/2010 vom 31. Januar 2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_574_2010) E. 1.1 war das angefochtene Urteil vor dem 1. Januar 2011 ergangen; die Beschwerde war deshalb nach bisherigem Recht zu beurteilen, d.h. nach § 191 Satz 1 i.V.m. § 43 Abs. 1 StPO/ZH (Genugtuung für einen freigesprochenen Angeklagten, dem die Kosten nicht auferlegt wurden).
+
+*Hinweis:* Der Entscheid nennt an dieser Stelle «Art. 453 **Abs. 2** StPO». Nach der wiedergegebenen Begründung — Urteil vor Inkrafttreten ergangen, deshalb bisheriges Recht — ist jedoch Abs. 1 gemeint; Abs. 2 regelt die Rückweisung. Es handelt sich um einen offensichtlichen Verschrieb im Entscheid. Der Fall gehört systematisch zu Abs. 1 (Rz. 17).
 
 ### VI. Abgrenzung zu Art. 454 StPO
 
@@ -99,23 +111,30 @@ Das Bundesgericht wendete somit die neuen Art. 429 und 430 StPO auf ein nach dem
 
 ### VIII. Revision: Übergangsrecht nach dem 1. Januar 2019
 
-Eine spezielle Übergangskonstellation ergab sich im Zusammenhang mit der Revision von Entscheiden des Bundesstrafgerichts. Bis zum 31. Dezember 2018 war das Bundesgericht nach aArt. 119a BGG für Revisionen gegen Entscheide der Strafkammer des Bundesstrafgerichts zuständig. In BGer [6B_1412/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1412_2019) vom 17. August 2020 befasste sich das Bundesgericht mit der Frage, ob Art. 453 Abs. 1 StPO auch für Revisionsgesuche gegen vor dem 1. Januar 2011 gefällte Entscheide gelte. Die Vorinstanz hatte dies bejaht und ihre Zuständigkeit für die Behandlung des Revisionsgesuchs mit dem Argument verneint, dass gemäss Art. 453 Abs. 1 StPO Rechtsmittel gegen vor dem Inkrafttreten der StPO gefällte Entscheide nach bisherigem Recht und von den bisher zuständigen Behörden zu beurteilen seien. Die frühere Revisionsinstanz (das Bundesgericht) sei noch vorhanden und habe sich bereits mit der Sache befasst (Rz. 21).
+Eine spezielle Übergangskonstellation ergab sich im Zusammenhang mit der Revision von Entscheiden des Bundesstrafgerichts. Bis zum 31. Dezember 2018 war das Bundesgericht nach aArt. 119a BGG für Revisionen gegen Entscheide der Strafkammer des Bundesstrafgerichts zuständig. In [BGer 6B_1412/2019 vom 17. August 2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1412_2019) ging es um die Zuständigkeit für ein Revisionsgesuch gegen ein Urteil der Strafkammer des Bundesstrafgerichts vom 19. Dezember 2017 — also aus der Zeit vor Schaffung der Berufungskammer per 1. Januar 2019. Die Berufungskammer verneinte ihre Zuständigkeit gestützt auf **Art. 453 Abs. 1 StPO**: Rechtsmittel gegen früher gefällte Entscheide seien von den bisher zuständigen Behörden zu beurteilen, und die frühere Revisionsinstanz — das Bundesgericht — sei noch vorhanden (E. 2.1).
 
-### IX. Weiterentwicklung: Art. 453 Abs. 1 als Prüfungsmaßstab nach Reformen
+**Das Bundesgericht verwarf diese Begründung.** «Indem sie in der Folge gestützt auf Art. 453 Abs. 1 StPO ihre Zuständigkeit verneint und das Bundesgericht für zuständig erachtet, verletzt sie Bundesrecht» (E. 2.3). Begründung: Im Rahmen der Schaffung der Berufungskammer wurden das BGG und das StBOG geändert, nicht aber die für das Revisionsverfahren massgebenden Bestimmungen der StPO. Zur Zuständigkeit für Revisionsgesuche in Fällen der Bundesgerichtsbarkeit äussern sich in erster Linie diese beiden Erlasse und nicht die StPO. Zudem ist die StPO im Verfahren vor Bundesgericht grundsätzlich nicht anwendbar. Das Übergangsrecht war deshalb anhand von BGG und StBOG zu prüfen — nicht nach Art. 453 StPO (Rz. 21).
 
-Die Norm behält auch nach Inkrafttreten der StPO Bedeutung als **Prüfungsmaßstab für künftige Gesetzesänderungen**. Das Bundesgericht hat klargestellt, dass es in Strafsachen nur prüft, ob die kantonale Instanz das Bundesrecht — mithin das Recht, welches im Zeitpunkt der Ausfällung des angefochtenen Urteils gegolten hat — richtig angewendet hat ([BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137) E. 2.6 ff.; BGer [7B_1022/2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_1022_2023) vom 11. Januar 2024 E. 1.2). Dies bedeutet, dass eine nachträgliche Gesetzesänderung — etwa die per 1. Januar 2024 in Kraft getretene Reform der Haftbestimmungen — grundsätzlich **keine Auswirkungen** auf die Beurteilung eines bereits vorher gefällten Entscheids hat. Das Bundesgericht wendet in der Rechtsmittelinstanz das Recht an, das im Zeitpunkt der Ausfällung des angefochtenen Entscheids galt (Rz. 22).
+Der Fall zeigt die Grenze der Norm: **Art. 453 StPO regelt das Übergangsrecht zur StPO von 2011, nicht das Übergangsrecht beliebiger späterer Organisationsreformen.**
+
+### IX. Fortwirkung: massgebend ist das Recht im Zeitpunkt der Ausfällung
+
+Über den historischen Stichtag von 2011 hinaus wird Art. 453 Abs. 1 StPO gelegentlich als Ausdruck eines allgemeineren Grundsatzes herangezogen. In [BGer 7B_1022/2023 vom 11. Januar 2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1022_2023) E. 1.2 heisst es: «Das Bundesgericht prüft in Strafsachen nur, ob die kantonale Instanz das Bundesrecht, mithin das Recht, welches im Zeitpunkt der Ausfällung des angefochtenen Urteils gegolten hat, richtig angewendet hat (Art. 453 Abs. 1 StPO; BGE 145 IV 137 E. 2.6 ff.).» Eine nachträgliche Gesetzesänderung — etwa die per 1. Januar 2024 in Kraft getretene StPO-Revision — wirkt sich danach grundsätzlich nicht auf die Beurteilung eines vorher gefällten Entscheids aus (Rz. 22).
+
+*Zur Fundstelle:* [BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137) selbst erwähnt Art. 453 StPO nicht. Regeste a lautet: «Art. 2 Abs. 2 StGB; lex mitior. Das Bundesgericht prüft nicht, ob das nach Ausfällung des angefochtenen kantonalen Entscheids in Kraft getretene Recht milder ist (E. 2).» Der Entscheid betrifft also das **materielle** intertemporale Strafrecht. Die Verbindung zu Art. 453 Abs. 1 StPO stellt erst BGer 7B_1022/2023 her; sie ist deshalb diesem Entscheid zuzuschreiben, nicht BGE 145 IV 137 (Rz. 23).
 
 ### X. Zusammenfassung und Praxisrelevanz
 
-Art. 453 StPO ist eine **intertemporale Bestimmung von grosser praktischer Relevanz**, die in den ersten Jahren nach Inkrafttreten der StPO (2011–2015) eine Fülle von Entscheiden hervorbrachte. Die Norm sichert den Vertrauensschutz für vor dem 1. Januar 2011 gefällte Entscheide, öffnet aber bei Rückweisung die Tür zum neuen Recht. Die massgebenden Kriterien sind (Rz. 23):
+Art. 453 StPO ist eine **intertemporale Bestimmung von grosser praktischer Relevanz**, die in den ersten Jahren nach Inkrafttreten der StPO (2011–2015) eine Fülle von Entscheiden hervorbrachte. Die Norm sichert den Vertrauensschutz für vor dem 1. Januar 2011 gefällte Entscheide, öffnet aber bei Rückweisung die Tür zum neuen Recht. Die massgebenden Kriterien sind (Rz. 24):
 
 1. **Stichtag**: 1. Januar 2011 (Inkrafttreten der StPO).
 2. **Massgeblicher Zeitpunkt**: Erstinstanzliches Entscheiddatum (nicht Datum des Rechtsmittels).
 3. **Rechtsfolge bei Abs. 1**: Bisheriges Recht und bisherige Behörden.
 4. **Ausnahme bei Abs. 2**: Neues Recht und neue Zuständigkeit bei Rückweisung.
-5. **Prüfungsmaßstab**: Recht zum Zeitpunkt der Ausfällung des angefochtenen Entscheids.
+5. **Grenze von Abs. 2**: Neues Recht nur, wenn der **Rückweisungsentscheid** nach dem 1. Januar 2011 erging (6B_425/2011 E. 2.2.2).
+6. **Grenze der Norm insgesamt**: Art. 453 StPO regelt den Übergang zur StPO von 2011, nicht spätere Organisationsreformen (6B_1412/2019 E. 2.3).
 
-Die Praxis hat die Norm in zahlreichen Konstellationen angewendet: von Einstellungsverfügungen über Haftentscheide bis zu Genugtuungs- und Entschädigungsgesuchen. Die Übergangsfragen sind heute (2026) weitgehend ausgestanden, da kaum noch Verfahren aus der Zeit vor dem 1. Januar 2011 hängig sind. Die Norm behält jedoch ihre Bedeutung als Prüfungsmaßstab für künftige Gesetzesänderungen, wie die Anwendung auf die per 1. Januar 2024 in Kraft getretene Haftreform zeigt (Rz. 24).
+Die Praxis hat die Norm in zahlreichen Konstellationen angewendet: von Einstellungsverfügungen über Haftentscheide bis zu Genugtuungs- und Entschädigungsgesuchen. Die Übergangsfragen sind heute (2026) weitgehend ausgestanden, da kaum noch Verfahren aus der Zeit vor dem 1. Januar 2011 hängig sind. Als Ausdruck des Grundsatzes, dass massgebend das im Zeitpunkt der Ausfällung geltende Recht ist, wird Abs. 1 gelegentlich weiterhin zitiert (BGer 7B_1022/2023 E. 1.2) (Rz. 25).
 
 ## Querverweise
 

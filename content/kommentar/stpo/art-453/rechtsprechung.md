@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 453 StPO"
 weight: 99
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide (Übergangsrecht)"
 tags: ["Rechtsprechung", "StPO", "Übergangsrecht", "Übergangsbestimmungen"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 40 %). Alle 14 Entscheide im Volltext geprüft. BGE 145 IV 137 erwähnt Art. 453 StPO nicht (lex mitior nach Art. 2 Abs. 2 StGB) — Zuschreibung berichtigt. BGE 137 IV 189 E. 1 als unveröffentlichte Erwägung gekennzeichnet. BGE 138 IV 248: Pinpoint E. 1.1 → E. 1, Zusammenfassung berichtigt (die StPO war anwendbar, weil das Urteil vom 22. Juni 2011 datierte). Neu aufgenommen: BGer 6B_425/2011 E. 2.2.1 f. — der Leitentscheid zur zeitlichen Reichweite von Abs. 2. Fehlender revisions-Block ergänzt."
+  - date: 2026-07-10
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
 ## Leitentscheide (BGE)
@@ -22,10 +33,11 @@ agent_verified: false
 - **Einschlägig für**: Art. 453 Abs. 1 StPO (Ausnahme von Art. 448; Konstellation der einzigen Instanz)
 - **URL**: [BGE 137 IV 352](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352)
 
-### BGE 138 IV 248, E. 1.1
+### BGE 138 IV 248, E. 1
 - **Thema**: Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten, Übergangsrecht
-- **Kernaussage**: Das Bundesgericht befasst sich mit der Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten (Art. 118 ff. und 427 Abs. 2 StPO) sowie der Kostentragung und dem Anspruch auf Entschädigung im Rechtsmittelverfahren (Art. 428 Abs. 1 und Art. 432 Abs. 2 StPO). Der Entscheid berührt das Übergangsrecht, soweit die Frage der Anwendbarkeit der neuen kostenrechtlichen Bestimmungen auf alt-rechtliche Verfahren zu klären war.
-- **Einschlägig für**: Art. 453 Abs. 1 StPO i.V.m. Art. 428, 432 StPO (Kosten und Entschädigung)
+- **Kernaussage** (E. 1, wörtlich): «Soweit ein Entscheid noch vor Inkrafttreten der StPO gefällt worden ist, werden dagegen erhobene Rechtsmittel nach bisherigem Recht und von den bisher zuständigen Behörden beurteilt (Art. 453 Abs. 1 StPO). Für Rechtsmittel gegen erstinstanzliche Entscheide, die nach dem 31. Dezember 2010 gefällt wurden, gilt das neue Recht (Art. 454 Abs. 1 StPO). Ausschlaggebend für die Anwendbarkeit des alten oder des neuen Prozessrechts ist insofern das Datum des erstinstanzlichen Entscheids (BGE 137 IV 189 E. 1 und 219 E. 1.1 mit Hinweisen).» Im konkreten Fall datierte das Urteil des Bezirksgerichts vom 22. Juni 2011, weshalb die StPO Anwendung fand. Ergänzend: Nach Art. 448 Abs. 2 StPO behalten vor dem Inkrafttreten angeordnete oder durchgeführte Verfahrenshandlungen ihre Gültigkeit — auch für die Frage, ob sich jemand als Privatkläger konstituiert hat.
+- **Bedeutung**: Die am besten zugängliche Fundstelle für die Formel vom massgebenden erstinstanzlichen Entscheiddatum. Die in der Regeste publizierten Erwägungen (Kostentragung der Privatklägerschaft, Art. 118 ff. und 427 Abs. 2 StPO) betreffen das Übergangsrecht nicht.
+- **Einschlägig für**: Art. 453 Abs. 1, Art. 454 Abs. 1, Art. 448 Abs. 2 StPO
 - **URL**: [BGE 138 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248)
 
 ---
@@ -86,13 +98,13 @@ agent_verified: false
 - **Einschlägig für**: Art. 453 Abs. 1 StPO (Revision, bisherige Zuständigkeit, aArt. 119a BGG)
 - **URL**: [BGer 6B_1412/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1412_2019)
 
-### BGE 145 IV 137, E. 2.6 ff.
+### BGE 145 IV 137, E. 2.6 ff. — *kein Entscheid zu Art. 453 StPO*
 - **Thema**: Prüfungsmaßstab (Recht zum Zeitpunkt der Ausfällung), lex mitior
 - **Kernaussage**: Das Bundesgericht prüft nicht, ob das nach Ausfällung des angefochtenen kantonalen Entscheids in Kraft getretene Recht milder ist. Dies bestätigt den Grundsatz, dass das Bundesgericht das Recht anwendet, das im Zeitpunkt der Ausfällung des angefochtenen Entscheids galt — ein Prinzip, das in engem Zusammenhang mit Art. 453 Abs. 1 StPO steht. Wird in der Rechtsprechung als Massstab zitiert (vgl. BGer 7B_1022/2023 E. 1.2).
 - **Einschlägig für**: Art. 453 Abs. 1 StPO (Prüfungsmaßstab, intertemporales Recht)
 - **URL**: [BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137)
 
-### BGE 137 IV 189, E. 1
+### BGE 137 IV 189, E. 1 — *unveröffentlichte Erwägung*
 - **Thema**: Erstinstanzliches Entscheiddatum als massgebender Stichtag
 - **Kernaussage**: Der Entscheid begründet die Praxis, dass das erstinstanzliche Entscheiddatum ausschlaggebend für die Anwendbarkeit des alten oder neuen Prozessrechts ist. Wird in BGE 137 IV 219 E. 1.1 als Referenz zitiert.
 - **Einschlägig für**: Art. 453 Abs. 1 StPO (Stichtag, Praxisbildung)
@@ -101,3 +113,28 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 2026-07-10*
+
+---
+
+## Berichtigte Einträge
+
+| Entscheid | Was falsch war | Befund |
+|---|---|---|
+| [BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137) | Im Kommentar als Beleg dafür angeführt, Art. 453 Abs. 1 StPO sei «Prüfungsmassstab für künftige Gesetzesänderungen» | Der Entscheid erwähnt Art. 453 StPO im gesamten Volltext nicht. Regeste a: «Art. 2 Abs. 2 StGB; lex mitior. Das Bundesgericht prüft nicht, ob das nach Ausfällung des angefochtenen kantonalen Entscheids in Kraft getretene Recht milder ist (E. 2).» Es geht um das **materielle** intertemporale Strafrecht. Die Verknüpfung mit Art. 453 Abs. 1 StPO stellt erst BGer 7B_1022/2023 E. 1.2 her; sie ist diesem Entscheid zugeschrieben. |
+| [BGE 137 IV 189](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_189) E. 1 | Als Fundstelle angeführt, in der die Regel «erstmals festgehalten» worden sei | Die Zitation ist echt — das Bundesgericht führt sie selbst so (BGE 138 IV 248 E. 1). Die Erwägung 1 ist jedoch **nicht in die amtliche Sammlung aufgenommen**; publiziert sind die Erwägungen zur Entsiegelung (Art. 69 BStP, E. 2–5). Der Volltext enthält deshalb keine Fundstelle zu Art. 453 StPO, was den Audit-Befund `pinpoint_fehlt` erklärt. Als zugängliche Fundstelle ist BGE 138 IV 248 E. 1 ergänzt. |
+| [BGE 138 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248) | Pinpoint E. 1.1; Zusammenfassung: «Der Entscheid berührt das Übergangsrecht, soweit die Frage der Anwendbarkeit der neuen kostenrechtlichen Bestimmungen auf alt-rechtliche Verfahren zu klären war.» | Die übergangsrechtliche Passage steht in **E. 1**. Und die Anwendbarkeit war nicht streitig: Das erstinstanzliche Urteil datierte vom 22. Juni 2011, weshalb die StPO ohne Weiteres galt. |
+| [BGer 6B_574/2010 vom 31. Januar 2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_574_2010) E. 1.1 | Unter Abs. 2 eingeordnet, mit der Angabe «Art. 453 Abs. 2 StPO» | Der Entscheid nennt tatsächlich «Abs. 2», meint aber nach seiner Begründung (Urteil vor Inkrafttreten ergangen → bisheriges Recht) Abs. 1. Offensichtlicher Verschrieb im Entscheid; im Kommentar unter Abs. 1 eingeordnet und als solcher gekennzeichnet. |
+
+## Neu aufgenommen
+
+### [BGer 6B_425/2011 vom 10. April 2012](https://mcp.opencaselaw.ch/entscheid/bger_6B_425_2011), E. 2.2.1 f.
+- **Thema**: Zeitliche Reichweite von Art. 453 Abs. 2 StPO — massgebend ist das Datum des Rückweisungsentscheids
+- **Kernaussage**: Art. 453 Abs. 2 StPO regelt nicht ausdrücklich, ob neues Recht auch dann gilt, wenn der Rückweisungsentscheid vor, die neue Beurteilung aber nach dem 1. Januar 2011 erfolgte; die Botschaft (BBl 2006 1085 ff., 1353, 1529) erläutert die Bestimmung nicht. Aus Randtitel und Systematik folgt, dass Abs. 1 und Abs. 2 die Konstellation betreffen, in der der Rechtsmittel- bzw. Rückweisungsentscheid nach dem Inkrafttreten ergeht. Ergebnis: «Das neue Prozessrecht ist im neuen Verfahren vor der Vorinstanz somit nur anwendbar, wenn der Rückweisungsentscheid der Rechtsmittelinstanz beziehungsweise des Bundesgerichts nach dem Inkrafttreten der StPO am 1. Januar 2011 gefällt» wurde. Wurde vorher zurückgewiesen, bestand noch keine nach Abs. 2 Satz 2 zuständige Behörde; die neue Beurteilung richtet sich dann nach altem Recht — auch wenn das neue Urteil erst nach dem Stichtag ergeht (Parallele zu Art. 450 StPO).
+- **Einschlägig für**: Art. 453 Abs. 2, Art. 450 StPO
+- **Hinweis**: Der Entscheid erwähnt Art. 453 StPO dreizehnmal und ist damit die dichteste Fundstelle zur Norm. Das Audit hatte ihn als einschlägig, aber nicht zitiert gemeldet.
+
+## Prüfvermerk
+
+Alle 14 Entscheide existieren; die Aktenzeichen und Daten stimmen gegen `citation_string_de`. Von den sechs gemeldeten `pinpoint_fehlt`-Befunden erklären sich drei durch die fehlende Erwägungsgliederung in der Datenbank (`available_e_numbers: None` bei allen fünf BGE), einer durch die Nichtpublikation der Erwägung (BGE 137 IV 189 E. 1). Der Befund, BGE 137 IV 352 sei «einschlägig, aber nicht zitiert», trifft nicht zu — der Entscheid ist im Kommentar zweimal zitiert (Abschnitte IV und VII).
+
+*Letzte Aktualisierung: 2026-08-22*
