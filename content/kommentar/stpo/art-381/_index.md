@@ -2,11 +2,16 @@
 title: "Art. 381 — Legitimation der Staatsanwaltschaft"
 weight: 381
 date: 2026-07-11
-lastmod: 2026-08-14
+lastmod: 2026-08-22
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
 agent_verified: true
 revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 35 %). Alle 14 Referenzen existieren und treffen thematisch zu. Die drei gemeldeten Pinpoint-Fehler sind Paarungsartefakte — der Artikel führte diese Erwägungsangaben nirgends. Korrigiert wurde die einzige unzutreffende Angabe: BGE 139 IV 199 E. 5 → E. 5.5 (der Entscheid kennt nur E. 5.1–5.6). Den Übersichtseinträgen wurden fehlende Erwägungsangaben ergänzt. Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Fehlalarm: Der aufgehobene Abs. 4 steht mit demselben Hinweis auch im amtlichen Fedlex-Text; der Abgleich scheiterte an der Formatierung. Der Wortlaut ist unverändert."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -40,7 +45,7 @@ revisions:
 
 **5** Voraussetzung für die Rechtsmittelergreifung ist — wie bei allen Parteien — ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des angefochtenen Entscheids (vgl. [Art. 382 Abs. 1](../art-382) StPO). Das rechtlich geschützte Interesse der Staatsanwaltschaft leitet sich aus dem staatlichen Strafanspruch ab, den sie zu vertreten hat. Die Staatsanwaltschaft ist daher beschwerdebefugt, wenn es um die Durchsetzung des Strafanspruchs als solchen oder um damit zusammenhängende materiell- und prozessrechtliche Belange geht ([BGer 6B_519/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_519_2020) E. 1.2; BGE 134 IV 36 E. 1.4.3).
 
-**6** Das Bundesgericht hat in [BGE 139 IV 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199) E. 2 klargestellt, dass die Staatsanwaltschaft die Höhe der Entschädigung für die amtliche Verteidigung mit Beschwerde in Strafsachen anfechten kann. Ihr steht das Beschwerderecht in Strafsachen ohne Einschränkung zu; sie kann namentlich auch die Höhe der Entschädigung für die private oder amtliche Verteidigung anfechten ([BGer 6B 824/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_824_2016) E. 2.1). Die Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 StPO ist damit umfassend und nicht auf Sachentscheide im engeren Sinn beschränkt.
+**6** Das Bundesgericht hat in [BGE 139 IV 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199) E. 2 klargestellt, dass die Staatsanwaltschaft die Höhe der Entschädigung für die amtliche Verteidigung mit Beschwerde in Strafsachen anfechten kann. Ihr steht das Beschwerderecht in Strafsachen ohne Einschränkung zu; sie kann namentlich auch die Höhe der Entschädigung für die private oder amtliche Verteidigung anfechten ([BGer 6B_824/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_824_2016) E. 2.1). Die Rechtsmittellegitimation der Staatsanwaltschaft nach Art. 381 StPO ist damit umfassend und nicht auf Sachentscheide im engeren Sinn beschränkt.
 
 ### III. Kantonale Organisation: Ober- und Generalstaatsanwaltschaft (Abs. 2)
 
@@ -68,7 +73,7 @@ revisions:
 
 **14** Ein zentraler Anwendungsbereich des Art. 381 StPO ist die Anfechtung von Kosten- und Entschädigungsentscheiden. Die Strafbehörde legt im Endentscheid die Kosten- und Entschädigungsfolgen fest (Art. 421 Abs. 1 StPO). Dazu zählen nicht nur die Entschädigungen für die private Rechtsvertretung, sondern auch die Auslagen für die amtliche Verteidigung und die unentgeltliche Verbeiständung. Die Staatsanwaltschaft kann gegen den erstinstanzlichen Entschädigungsentscheid Berufung erheben (Art. 398 Abs. 1 i.V.m. Art. 381 StPO; [BGer 6B 360/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_360_2014) E. 1.3).
 
-**15** Während die Entschädigung für die private Rechtsvertretung mit Berufung anzufechten ist (Art. 398 Abs. 1 und 2 StPO), ergibt sich die Rechtsmittellegitimation der amtlichen Verteidigung und der unentgeltlichen Verbeiständung aus der besonderen Regelung in Art. 135 Abs. 3 StPO. Die Staatsanwaltschaft ist — anders als der amtliche Verteidiger — gemäss Art. 398 Abs. 1 i.V.m. Art. 381 StPO zur Berufung legitimiert. Sie muss die Reduktion der Entschädigung des amtlichen Verteidigers durch das erstinstanzliche Gericht daher im Berufungsverfahren verlangen ([BGer 6B 824/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_824_2016) E. 2.2.1; [BGE 139 IV 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199) E. 5).
+**15** Während die Entschädigung für die private Rechtsvertretung mit Berufung anzufechten ist (Art. 398 Abs. 1 und 2 StPO), ergibt sich die Rechtsmittellegitimation der amtlichen Verteidigung und der unentgeltlichen Verbeiständung aus der besonderen Regelung in Art. 135 Abs. 3 StPO. Die Staatsanwaltschaft ist — anders als der amtliche Verteidiger — gemäss Art. 398 Abs. 1 i.V.m. Art. 381 StPO zur Berufung legitimiert. Sie muss die Reduktion der Entschädigung des amtlichen Verteidigers durch das erstinstanzliche Gericht daher im Berufungsverfahren verlangen ([BGer 6B_824/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_824_2016) E. 2.2.1; [BGE 139 IV 199](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_199) E. 5.5).
 
 **16** Das Bundesgericht hat in [BGE 148 IV 275](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_275) E. 1 allerdings eine Grenze aufgezeigt: Die Staatsanwaltschaft ist grundsätzlich nicht dazu legitimiert, mit Beschwerde in Strafsachen die Festsetzung eines Entschädigungsanspruchs an eine Drittperson im Sinne von Art. 434 StPO anzufechten. Die Beschwerdelegitimation der Staatsanwaltschaft endet dort, wo es nicht mehr um die Durchsetzung des staatlichen Strafanspruchs oder damit zusammenhängende prozessrechtliche Belange geht, sondern um privatrechtliche Entschädigungsansprüche Dritter.
 

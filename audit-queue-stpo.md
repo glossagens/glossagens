@@ -26,7 +26,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 20 | [x] 2026-08-22 | [Art. 10](content/kommentar/stpo/art-010/_index.md) | 33 % | 130 | `korrekt` | 8 | 0 |
 | 21 | [x] 2026-08-22 | [Art. 34](content/kommentar/stpo/art-034/_index.md) | 34 % | 22 | `korrekt` | 3 | 0 |
 | 22 | [x] 2026-08-22 | [Art. 189](content/kommentar/stpo/art-189/_index.md) | 35 % | 41 | `korrekt` | 3 | 0 |
-| 23 | [ ] | [Art. 381](content/kommentar/stpo/art-381/_index.md) | 35 % | 33 | `halluziniert_oder_veraltet` | 3 | 0 |
+| 23 | [x] 2026-08-22 | [Art. 381](content/kommentar/stpo/art-381/_index.md) | 35 % | 33 | `korrekt` ³ | 0 ³ | 0 |
 | 24 | [ ] | [Art. 56](content/kommentar/stpo/art-056/_index.md) | 35 % | 26 | `korrekt` | 2 | 0 |
 | 25 | [ ] | [Art. 14](content/kommentar/stpo/art-014/_index.md) | 37 % | 19 | `korrekt` | 0 | 0 |
 | 26 | [ ] | [Art. 398](content/kommentar/stpo/art-398/_index.md) | 38 % | 34 | `korrekt` | 4 | 0 |
@@ -74,3 +74,9 @@ Geprüft am 21.08.2026; im übrigen Bericht kommt dieser Artefakt-Typ nicht vor.
 wurde die Zeile `a^bis. darüber nicht im Strafbefehlsverfahren entschieden werden kann;` — sie entspricht
 dem geltenden Recht (eingefügt durch BG vom 17.06.2022, in Kraft seit 01.01.2024). Der Abgleich scheiterte
 an der Schreibweise `a^bis` gegenüber `a bis` im amtlichen Text. Geprüft am 21.08.2026.
+
+³ Art. 381: Sowohl der Wortlaut-Befund als auch die drei Pinpoint-Fehler sind Fehlalarme. Beanstandet wurde
+die Zeile zum aufgehobenen Abs. 4 — sie steht mit demselben Hinweis im amtlichen Fedlex-Text. Die drei
+gemeldeten Erwägungsangaben (6B_519/2020 E. 1.5.2, BGE 139 IV 199 E. 2.2.1, 6B_688/2025 E. 4.4.2) kommen im
+Artikel nirgends vor; sie stammen aus benachbarten Zitaten (BGE 142 IV 196 E. 1.5.2, 6B_824/2016 E. 2.2.1).
+Geprüft am 22.08.2026.

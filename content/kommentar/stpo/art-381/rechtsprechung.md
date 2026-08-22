@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 381 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-08-14
+lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 381 StPO – Legitimation der Staatsanwaltschaft"
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Staatsanwaltschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 35 %). Alle 14 Referenzen existieren und treffen thematisch zu. Die drei gemeldeten Pinpoint-Fehler sind Paarungsartefakte. Fehlende Erwägungsangaben in den Überschriften ergänzt; BGE 139 IV 199 E. 5 → E. 5.5 korrigiert. Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Fehlalarm: Der aufgehobene Abs. 4 steht mit demselben Hinweis auch im amtlichen Fedlex-Text; der Abgleich scheiterte an der Formatierung. Der Wortlaut ist unverändert."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,7 +21,7 @@ revisions:
 
 ## Leitentscheide (BGE)
 
-### BGE 139 IV 199 — Entschädigung der amtlichen Verteidigung / Rechtsmittellegitimation der Staatsanwaltschaft
+### BGE 139 IV 199, E. 2, E. 4 und E. 5.5 — Entschädigung der amtlichen Verteidigung / Rechtsmittellegitimation der Staatsanwaltschaft
 - **Thema**: Rechtsmittellegitimation der Staatsanwaltschaft bei Entschädigungsentscheiden
 - **Kernaussage**: Die Staatsanwaltschaft kann die Höhe der Entschädigung für die amtliche Verteidigung mit Beschwerde in Strafsachen anfechten (E. 2). Entsprechend steht ihr auch der Rechtsmittelweg im Kanton offen (E. 4). Das Gericht hat über die Entschädigung des amtlichen Verteidigers im Sachurteil selbst zu befinden. Die Gabelung des Rechtsmittelwegs zwischen Berufung (Staatsanwaltschaft, Parteien) und Beschwerde (amtlicher Verteidiger, unentgeltliche Verbeiständung) wird dargelegt.
 - **Einschlägig für**: Abs. 1; Verhältnis zu Art. 135 Abs. 3 StPO
@@ -44,7 +49,7 @@ revisions:
 
 ## Weitere Bundesgerichtsentscheide
 
-### BGer 6B_688/2025 vom 29. Juli 2026 — Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben)
+### BGer 6B_688/2025 vom 29. Juli 2026, E. 2.2.3–2.2.5 — Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben)
 - **Thema**: Rechtsmittellegitimation der Staatsanwaltschaft bei der Anschlussberufung; Grenzen nach Treu und Glauben
 - **Kernaussage**: Die Staatsanwaltschaft kann grundsätzlich frei Rechtsmittel zugunsten und zuungunsten der beschuldigten Person ergreifen (Art. 381 Abs. 1 StPO), ohne dass ihre Legitimation spezifisch von einem rechtlich geschützten Interesse abhängt. Dies gilt jedoch nicht uneingeschränkt für die Anschlussberufung: Deren akzessorischer Charakter und die Missbrauchsgefahr erfordern eine differenziertere Betrachtung. Die Staatsanwaltschaft handelt wider Treu und Glauben, wenn sie die Anschlussberufung mit dem alleinigen Ziel einlegt, die Anwendung des Verbots der reformatio in peius zum Nachteil des Hauptberufungsführers zu verhindern (E. 2.2.3; BGE 147 IV 505 E. 4.4.2 f.). Auf eine Anschlussberufung ist namentlich nicht einzutreten, wenn die Staatsanwaltschaft ihre eigene Hauptberufung zurückgezogen und sich damit mit dem erstinstanzlichen Urteil abgefunden hat, sodann aber Anschlussberufung erhebt, um eine Sanktion durchzusetzen, die im erstinstanzlichen Verfahren nicht beantragt wurde (E. 2.2.4 f., E. 2.2.5). Das Bundesgericht hob das vorinstanzliche Urteil auf, weil die Vorinstanz zu Unrecht auf die Anschlussberufung eingetreten war und eine Landesverweisung angeordnet hatte (E. 2.2.5, E. 3).
 - **Einschlägig für**: Abs. 1; Grenzen der Rechtsmittellegitimation bei der Anschlussberufung; Treu und Glauben; Verschlechterungsverbot (Art. 391 Abs. 2 StGB); Anschlussberufung (Art. 401 StPO)
@@ -68,7 +73,7 @@ revisions:
 - **Einschlägig für**: Abs. 1; Verhältnis zu Art. 222 StPO
 - **URL**: [BGer 1B 174/2011](https://mcp.opencaselaw.ch/entscheid/bger_1B_174_2011)
 
-### BGer 6B_519/2020 vom 27. September 2021 — Beschwerdelegitimation und kantonale Zuständigkeit
+### BGer 6B_519/2020 vom 27. September 2021, E. 1.3 — Beschwerdelegitimation und kantonale Zuständigkeit
 - **Thema**: Herleitung des rechtlich geschützten Interesses der Staatsanwaltschaft
 - **Kernaussage**: Das rechtlich geschützte Interesse der Staatsanwaltschaft an der Aufhebung oder Änderung eines Entscheids leitet sich aus dem staatlichen Strafanspruch ab, den sie zu vertreten hat (E. 1.2). Ist in einem Kanton eine übergeordnete staatsanwaltliche Behörde zuständig, kann nur diese mit Beschwerde in Strafsachen an das Bundesgericht gelangen (Art. 81 Abs. 1 lit. b Ziff. 3 BGG i.V.m. Art. 381 Abs. 2 StPO; E. 1.3).
 - **Einschlägig für**: Abs. 1 und Abs. 2
@@ -89,3 +94,17 @@ revisions:
 ---
 
 *Letzte Aktualisierung: 14. August 2026*
+
+---
+
+## Prüfvermerk
+
+Alle 14 im Kommentar und auf dieser Seite angeführten Entscheide wurden am 22.08.2026 über die opencaselaw-MCP verifiziert; sämtliche existieren und betreffen Art. 381 StPO oder die eng verzahnten Art. 135, 382, 398 und 401 StPO.
+
+Die drei im Audit-Bericht gemeldeten Pinpoint-Fehler (BGer 6B_519/2020 E. 1.5.2, BGE 139 IV 199 E. 2.2.1, BGer 6B_688/2025 E. 4.4.2) sind **Paarungsartefakte**: Keine dieser Erwägungsangaben kommt im Artikel vor. Der Kommentar zitiert BGE 142 IV 196 E. 1.5.2 und BGer 6B_824/2016 E. 2.2.1 — die Prüfung hat diese Nummern offenbar auf benachbarte Entscheide übertragen. Die tatsächlich verwendeten Pinpoints wurden geprüft und treffen zu.
+
+Korrigiert wurde eine Angabe, die der Bericht nicht erfasst hatte: **BGE 139 IV 199 E. 5** → **E. 5.5** (der Entscheid kennt keine ungegliederte E. 5).
+
+Der Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ebenfalls ein Fehlalarm: Beanstandet wurde die Zeile zum aufgehobenen Abs. 4. Diese steht mit demselben Hinweis auch im amtlichen Fedlex-Text («4 … Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024»). Der Wortlaut ist unverändert geblieben.
+
+*Letzte Aktualisierung: 2026-08-22*
