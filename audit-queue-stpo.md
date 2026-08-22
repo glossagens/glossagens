@@ -61,7 +61,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 55 | [x] 2026-08-22 | [Art. 412](content/kommentar/stpo/art-412/_index.md) | 48 % | 43 | `korrekt` | 1 | 0 |
 | 56 | [x] 2026-08-22 | [Art. 435](content/kommentar/stpo/art-435/_index.md) | 48 % | 22 | `korrekt` | 1 | 0 |
 | 57 | [x] 2026-08-22 | [Art. 139](content/kommentar/stpo/art-139/_index.md) | 48 % | 100 | `korrekt` | 0 | 0 |
-| 58 | [ ] | [Art. 324](content/kommentar/stpo/art-324/_index.md) | 49 % | 38 | `korrekt` | 1 | 0 |
+| 58 | [x] 2026-08-22 | [Art. 324](content/kommentar/stpo/art-324/_index.md) | 49 % | 38 | `korrekt` | 1 | 0 |
 
 **Total: 58 Artikel mit Urteil C.**
 
