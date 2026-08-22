@@ -59,7 +59,7 @@ Reihenfolge: schlechteste Belegquote zuerst. Nach Abschluss eines Artikels `[ ]`
 | 53 | [x] 2026-08-22 | [Art. 248](content/kommentar/stpo/art-248/_index.md) | 48 % | 146 | `korrekt` | 5 | 0 |
 | 54 | [x] 2026-08-22 | [Art. 9](content/kommentar/stpo/art-009/_index.md) | 48 % | 54 | `korrekt` | 1 | 0 |
 | 55 | [x] 2026-08-22 | [Art. 412](content/kommentar/stpo/art-412/_index.md) | 48 % | 43 | `korrekt` | 1 | 0 |
-| 56 | [ ] | [Art. 435](content/kommentar/stpo/art-435/_index.md) | 48 % | 22 | `korrekt` | 1 | 0 |
+| 56 | [x] 2026-08-22 | [Art. 435](content/kommentar/stpo/art-435/_index.md) | 48 % | 22 | `korrekt` | 1 | 0 |
 | 57 | [ ] | [Art. 139](content/kommentar/stpo/art-139/_index.md) | 48 % | 100 | `korrekt` | 0 | 0 |
 | 58 | [ ] | [Art. 324](content/kommentar/stpo/art-324/_index.md) | 49 % | 38 | `korrekt` | 1 | 0 |
 
