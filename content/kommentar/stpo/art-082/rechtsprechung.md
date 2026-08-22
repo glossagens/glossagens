@@ -2,27 +2,55 @@
 title: "Rechtsprechung zu Art. 82 StPO"
 weight: 99
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 82 StPO – Einschränkungen der Begründungspflicht"
 tags: ["Rechtsprechung", "StPO", "Begründungspflicht", "Verweisung"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-22
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Overhaul nach Audit (Belegquote 39 %). Alle 24 Aktenzeichen und Daten gegen citation_string_de geprüft; alle stimmen. Zitierzahlen auf den heutigen Stand gebracht und datiert. Pinpoints ergänzt und präzisiert (BGE 141 IV 244 E. 1.2.1 und E. 1.2.3; BGE 143 IV 40 E. 3.2–3.6 mit Ergebnis in E. 3.4.4; 6B_409/2018 E. 1.2.2 und E. 2.1; 6B_28/2018 E. 4.3.2 f.). Neu aufgenommen: BGer 6B_570/2019 E. 4.2. Fehlender revisions-Block ergänzt; agent_verified auf true."
+  - date: 2026-07-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 141 IV 244 vom 9. April 2015, E. 1.2
-- **Zitate**: 1'804
+### BGE 141 IV 244, E. 1.2.1 und E. 1.2.3
+- **Zitate**: 1'863 Entscheide (Stand 22. August 2026)
 - **Thema**: Begründungspflicht der Rechtsmittelinstanz; Verweisung nach Art. 82 Abs. 4 StPO
 - **Kernaussage**: Aus einem Entscheid muss klar hervorgehen, von welchem festgestellten Sachverhalt das Gericht ausgegangen ist und welche rechtlichen Überlegungen es angestellt hat (E. 1.2.1). Von der Möglichkeit, auf die Begründung der Vorinstanz zu verweisen (Art. 82 Abs. 4 StPO), ist zurückhaltend Gebrauch zu machen. Ein Verweis kommt bei strittigen Sachverhalten und in Bezug auf die rechtliche Subsumtion nur dann in Frage, wenn die Rechtsmittelinstanz den vorinstanzlichen Erwägungen (vollumfänglich) beipflichtet (E. 1.2.3).
 - **Einschlägig für**: Art. 82 Abs. 4 StPO; Art. 112 Abs. 1 lit. b BGG
 - **URL**: [BGE 141 IV 244](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_244)
 
-### BGE 143 IV 40 vom 16. Dezember 2016, E. 3.2–3.6
-- **Zitate**: 2'068
+### BGE 143 IV 40, E. 3.2–3.6
+- **Zitate**: 2'117 Entscheide (Stand 22. August 2026)
 - **Thema**: Fristbeginn der Beschwerde gegen ein Urteil; nachträgliche Urteilsbegründung
-- **Kernaussage**: Die Frist für die Beschwerde gegen ein Urteil beginnt mit der Eröffnung des schriftlich begründeten Entscheids (E. 3.2–3.4). Der amtliche Verteidiger und der unentgeltliche Rechtsbeistand der Privatklägerschaft können in eigenem Namen innert zehn Tagen nach Zustellung des Dispositivs eine Urteilsbegründung betreffend die Kosten für die amtliche Verteidigung respektive unentgeltliche Verbeiständung verlangen (E. 3.6). Stellt einzig der amtliche Verteidiger ein entsprechendes Gesuch, ist das Urteil einzig betreffend die Kosten des Gesuchstellers zu begründen (Art. 82 Abs. 3 StPO analog).
+- **Kernaussage**: Regeste a: «Die Frist für die Beschwerde gegen ein Urteil beginnt mit der Eröffnung des schriftlich begründeten Entscheids (E. 3.2-3.4).» Tragend ist die Auslegung von Art. 384 lit. a StPO in E. 3.4.4; die Begründung eines Rechtsmittels knüpft an die Motivation des Entscheids an (E. 3.4), und ein Rechtsmittelverfahren ohne Kenntnis der Entscheidgründe ist den Parteien nicht zuzumuten (E. 3.4.3). Der amtliche Verteidiger und der unentgeltliche Rechtsbeistand der Privatklägerschaft können in eigenem Namen innert zehn Tagen nach Zustellung des Dispositivs eine Urteilsbegründung betreffend die Kosten für die amtliche Verteidigung respektive unentgeltliche Verbeiständung verlangen (E. 3.6). Stellt einzig der amtliche Verteidiger ein entsprechendes Gesuch, ist das Urteil einzig betreffend die Kosten des Gesuchstellers zu begründen (Art. 82 Abs. 3 StPO analog).
 - **Einschlägig für**: Art. 82 Abs. 2 lit. a und Abs. 3 StPO; Art. 384 lit. a StPO; Art. 396 Abs. 1 StPO; Art. 105 Abs. 1 lit. f und Abs. 2 StPO
 - **URL**: [BGE 143 IV 40](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_40)
+
+---
+
+## Zusammenfassung der Grundsätze
+
+### [BGer 6B_570/2019 vom 23. September 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_570_2019) — E. 4.2
+- **Thema**: Zusammenfassende Darstellung der Verweisungsgrundsätze
+- **Kernaussage**: «Im Rechtsmittelverfahren kann das Gericht für die tatsächliche und die rechtliche Würdigung des angeklagten Sachverhalts aus Gründen der Prozessökonomie auf die Begründung der Vorinstanz verweisen, wenn es dieser beipflichtet. Art. 82 Abs. 4 StPO entbindet die Rechtsmittelinstanzen hingegen nicht von deren Begründungspflicht und findet seine Grenzen, wenn sich nicht mehr ohne Weiteres feststellen lässt, was die massgebenden tatsächlichen und rechtlichen Erwägungen der Rechtsmittelinstanz sind. Von der Möglichkeit, auf die Begründung der Vorinstanz zu verweisen, ist zurückhaltend Gebrauch zu machen.» Aufgrund der umfassenden Sach- und Rechtskognition der Rechtsmittelinstanzen kommt ein Verweis «in erster Linie bei nicht streitigen Sachverhalten und abstrakten Rechtsausführungen in Betracht oder wenn die Rechtsmittelinstanz sich die vorinstanzlichen Erwägungen vollumfänglich zu eigen macht».
+- **Anwendung im Fall**: Dass die Vorinstanz mehrfach auf die erstinstanzlichen Erwägungen verwies, war für sich allein kein Verstoss gegen die Begründungspflicht — sie machte sich diese grösstenteils vollumfänglich zu eigen und ergänzte sie mit eigenen Ausführungen.
+- **Einschlägig für**: Art. 82 Abs. 4 StPO
+- **URL**: [BGer 6B_570/2019 vom 23. September 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_570_2019)
+
+### [BGer 6B_409/2018 vom 7. Juni 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_409_2018) — E. 1.2.2 und E. 2.1
+- **Thema**: Grundlage in der Botschaft; Grenzen der Verweisung
+- **Kernaussage** (E. 1.2.2, wörtlich): «Im Rechtsmittelverfahren kann das Gericht für die tatsächliche und die rechtliche Würdigung des angeklagten Sachverhalts aus Gründen der Prozessökonomie auf die Begründung der Vorinstanz verweisen, wenn es dieser beipflichtet (Art. 82 Abs. 4 StPO; Botschaft vom 21. Dezember 2005 zur Vereinheitlichung des Strafprozessrechts, BBl 2006 1157 Ziff. 2.2.8.5 zu Art. 80). Art. 82 Abs. 4 StPO entbindet die Rechtsmittelinstanzen hingegen nicht von deren Begründungspflicht und findet seine Grenzen, wenn sich nicht mehr ohne Weiteres feststellen lässt, was die massgebenden tatsächlichen und rechtlichen Erwägungen der Rechtsmittelinstanz sind.»
+- **Einschlägig für**: Art. 82 Abs. 4 StPO; BBl 2006 1157 Ziff. 2.2.8.5
+- **URL**: [BGer 6B_409/2018 vom 7. Juni 2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_409_2018)
 
 ---
 
@@ -177,3 +205,20 @@ agent_verified: false
 ---
 
 *Letzte Aktualisierung: 12. Juli 2026*
+---
+
+## Berichtigte Einträge
+
+| Fundstelle | Was falsch war | Befund |
+|---|---|---|
+| BGE 143 IV 40 E. 3.6 | Im Kommentar als Beleg dafür angeführt, die zehntägige Frist nach Art. 82 Abs. 2 lit. a StPO sei «eine materielle Frist, deren Versäumung die Folgen von Art. 94 ff. StPO nach sich zieht» | E. 3.6 enthält keine solche Aussage. Sie behandelt die Legitimation der amtlichen Verteidigung nach Art. 105 Abs. 1 lit. f und Abs. 2 StPO, eine Begründung zu verlangen. Die Aussage ist ersatzlos gestrichen. |
+| BGE 143 IV 40 E. 3.4 | Als Beleg dafür angeführt, die mündliche Begründung müsse die Parteien in die Lage versetzen, über die Ergreifung eines Rechtsmittels zu entscheiden | E. 3.4 betrifft den Fristbeginn, nicht die Anforderungen an die mündliche Begründung. Der Massstab folgt aus E. 3.4.3 (Gehörsanspruch) und aus Art. 84 Abs. 1 StPO, konkretisiert in BGer 6B_28/2018 E. 4.3.2. |
+| BGE 143 IV 40 E. 3.2–3.4 | Als Beleg dafür angeführt, dass «erst mit der Zustellung des Dispositivs die Fristen … für die Rechtsmittelerhebung zu laufen beginnen» | Das ist das Gegenteil des Entscheids. Die Beschwerdefrist beginnt gerade **nicht** mit dem Dispositiv, sondern mit der Eröffnung des schriftlich begründeten Entscheids (E. 3.4.4). An das Dispositiv knüpfen nur die Frist nach Art. 82 Abs. 2 lit. a StPO und die Berufungsanmeldung nach Art. 399 Abs. 1 StPO an. |
+
+## Prüfvermerk
+
+Sämtliche 24 Aktenzeichen und Datumsangaben wurden gegen `citation_string_de` geprüft; alle stimmen, und alle Entscheide existieren. Die vom Audit gemeldeten `pinpoint_fehlt`-Befunde zu BGE 143 IV 40 E. 3.2 und BGE 141 IV 244 E. 1.2 sind Artefakte: Für beide Bundesgerichtsentscheide speichert die Datenbank keine gegliederten Erwägungen (`available_e_numbers: None`), weshalb die Auflösung scheitert. Beide Erwägungen existieren im Volltext — E. 3.2 mit den Untergliederungen 3.2.1–3.2.4, E. 1.2 mit 1.2.1–1.2.3.
+
+Ebenso Fehlalarm sind die zahlreichen `claim_nicht_extrahierbar`-Befunde: Die geprüften «claims» waren durchwegs die Kopfzeilen dieser Seite («URL: 6B800/2016», «Zitate: 161»), nicht Tatsachenbehauptungen.
+
+*Letzte Aktualisierung: 2026-08-22*
