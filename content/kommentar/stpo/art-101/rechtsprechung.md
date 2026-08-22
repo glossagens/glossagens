@@ -2,165 +2,92 @@
 title: "Rechtsprechung zu Art. 101 StPO"
 weight: 99
 date: 2026-06-29
-lastmod: "2026-06-29"
-description: "Übersicht der Entscheide zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren"
-tags: ["Rechtsprechung", "StPO", "Akteneinsicht", "Parteien", "Dritte"]
+lastmod: 2026-08-22
+description: "Übersicht der Entscheide zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren: Leitentscheide zu Parteieinsicht, Auskunftspersonen, Mandatsführung der Verteidigung und Dritteinsicht."
+tags: ["Rechtsprechung", "StPO", "Akteneinsicht", "Parteien", "Dritte", "Verteidigung"]
 agent_verified: false
+revisions:
+  - date: 2026-08-22
+    by: "Antigravity Agent"
+    model: "gemini-2.5-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 13 verifizierten Entscheiden (5 Leitentscheide BGE, 8 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide (BGE)
 
-### BGE 137 IV 280, E. 2.1–2.2.3
+### [BGE 137 IV 280 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_280#e-2-1)
 - **Thema**: Akteneinsicht für Auskunftspersonen
-- **Kernaussage**: Als Verfahrensbeteiligte geniessen Auskunftspersonen insofern die Verfahrensrechte einer Partei, als sie in ihren Rechten i.S. von Art. 105 Abs. 2 StPO unmittelbar betroffen sind. Dies setzt eine direkte, unmittelbare und persönliche Betroffenheit voraus. Die blosse Vorladung zu einer Einvernahme bedeutet keine derartige Betroffenheit. Die offene Formulierung von Art. 101 Abs. 1 StPO räumt der Verfahrensleitung einen gewissen Ermessensspielraum ein.
-- **Einschlägig für**: Abs. 1 (Parteibegriff, Auskunftspersonen)
+- **Kernaussage**: Als Verfahrensbeteiligte geniessen Auskunftspersonen nur dann die Verfahrensrechte einer Partei gemäss Art. 101 Abs. 1 StPO, als sie in ihren Rechten im Sinne von Art. 105 Abs. 2 StPO unmittelbar betroffen sind; die blosse Vorladung zu einer Einvernahme begründet keine unmittelbare Betroffenheit (E. 2.2.2).
+- **Einschlägig für**: Abs. 1; Parteistellung und Auskunftspersonen
+
+### [BGE 138 IV 78 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_78#e-3)
+- **Thema**: Akteneinsichtsrecht im Haftprüfungsverfahren
+- **Kernaussage**: Das Haftprüfungsverfahren gemäss Art. 220 ff. StPO ist ein Teilverfahren des Strafverfahrens; die Akten gehören zu den Strafakten, weshalb die Privatklägerin im Rahmen von Art. 101 Abs. 1 StPO Anspruch auf Einsicht in die Akten dieses Teilverfahrens hat.
+- **Einschlägig für**: Abs. 1; Teilverfahren und Haftprüfung
+
+### [BGE 146 IV 218 E. 3.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_218#e-3-2-2)
+- **Thema**: Information der Mandantschaft durch die Verteidigung
+- **Kernaussage**: Ein Verbot an die Verteidigung, ihrer Mandantschaft über den Inhalt von eingesehenen Aktenstücken zu berichten, verletzt die anwaltliche Treue- und Sorgfaltspflicht und stellt eine unzulässige Einschränkung des Akteneinsichtsrechts dar; die Geheimhaltungspflicht nach Art. 73 Abs. 2 StPO gilt gegenüber verfahrensfremden Dritten (E. 3.2.3).
+- **Einschlägig für**: Abs. 1; Schranken von Geheimhaltungsauflagen
+
+### [BGE 139 IV 25 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_25)
+- **Thema**: Zeitpunkt der Akteneinsicht im Vorverfahren
+- **Kernaussage**: Klärt die Verfahrensregeln der getrennten Einvernahmen und der Parteiöffentlichkeit von Beweiserhebungen im Vorverfahren im Verhältnis zu Art. 101 Abs. 1 StPO.
+- **Einschlägig für**: Abs. 1; Zeitpunkt der Akteneinsicht
+
+### [BGE 120 Ia 65](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_Ia_65)
+- **Thema**: Akteneinsicht in Untersuchungshaft
+- **Kernaussage**: Die Wahrnehmung des Akteneinsichtsrechts durch den inhaftierten Beschuldigten über seinen Verteidiger ist verfassungs- und bundesrechtskonform.
+- **Einschlägig für**: Abs. 1; Akteneinsichtsmodalitäten bei Freiheitsentzug
 
 ---
 
-### BGE 139 IV 25, E. 4
-- **Thema**: Akteneinsicht und Teilnahmerecht im Vorverfahren
-- **Kernaussage**: Klärt die Verfahrensregeln der getrennten Einvernahmen und der Parteiöffentlichkeit von Beweiserhebungen. Der Anspruch beschuldigter Personen auf Teilnahme an Beweiserhebungen gilt grundsätzlich auch für die Einvernahme von Mitbeschuldigten. Die Akteneinsicht nach Art. 101 Abs. 1 StPO gilt für die Phase bis zur Erhebung der Anklage; danach geht Art. 312 Abs. 2 StPO.
-- **Einschlägig für**: Abs. 1 (Zeitpunkt, Verhältnis zu Art. 312)
+## II. Weitere Entscheide (BGer und Kantone)
+
+### [BGer 6B_98/2014 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_98_2014#e-2-3) (30. September 2014)
+- **Thema**: Aktenführungspflicht als Voraussetzung der Akteneinsicht
+- **Kernaussage**: Aus dem Gehörsrecht und Art. 101 StPO ergibt sich der Anspruch auf Akteneinsicht; soll dieser effizient wahrgenommen werden können, ist erforderlich, dass alles in den Akten festgehalten wird, was zur Sache gehört und entscheidwesentlich sein kann.
+- **Einschlägig für**: Abs. 1; Aktenführung
+
+### [BGer 1B_326/2011 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_1B_326_2011#e-2-3) (30. August 2011)
+- **Thema**: Einschränkung vor Erhebung der wichtigsten Beweise
+- **Kernaussage**: Die beschuldigte Person hat vor der Durchführung ihrer ersten Einvernahme und vor Erhebung der wichtigsten Beweise grundsätzlich keinen absoluten Anspruch auf vollständige Akteneinsicht; bei Kollusionsgefahr darf die Staatsanwaltschaft die Einsicht verweigern.
+- **Einschlägig für**: Abs. 1; Vorverfahren und Kollusionsgefahr
+
+### [BGer 7B_256/2023 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_256_2023#e-2-3) (5. März 2024)
+- **Thema**: Wahrnehmung der Akteneinsicht in Untersuchungshaft
+- **Kernaussage**: Es verletzt kein Bundesrecht, wenn eine beschuldigte Person ihr Recht auf Akteneinsicht gemäss Art. 101 Abs. 1 StPO während der Untersuchungshaft nicht persönlich, sondern über ihren amtlichen Verteidiger wahrnehmen muss.
+- **Einschlägig für**: Abs. 1; Ausübung in Haft
+
+### [BGer 1B_585/2021 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bger_1B_585_2021#e-1-2) (16. Februar 2022)
+- **Thema**: Anfechtung von Zwischenentscheiden über Akteneinsicht
+- **Kernaussage**: Bei einer Verweigerung der Akteneinsicht im Strafverfahren ist die Voraussetzung des nicht wieder gutzumachenden Nachteils nach Art. 93 Abs. 1 lit. a BGG dann erfüllt, wenn die beschuldigte Person im gegebenen Verfahrensstadium grundsätzlich über ein Recht auf Akteneinsicht verfügt.
+- **Einschlägig für**: Rechtsschutz
+
+### [BStGer SN.2024.3 vom 11. März 2024](https://mcp.opencaselaw.ch/entscheid/bstger_SN.2024.3)
+- **Thema**: Dritteinsicht nach Art. 101 Abs. 3 StPO
+- **Kernaussage**: Ein schützenswertes Interesse von nicht am Verfahren beteiligten Dritten im Sinne von Art. 101 Abs. 3 StPO ist nach der bundesgerichtlichen und bundesstrafgerichtlichen Praxis nur in begründeten Ausnahmefällen anzuerkennen.
+- **Einschlägig für**: Abs. 3; Dritteinsicht
+
+### [Kantonsgericht SG AK.2022.146-AK vom 14. Juli 2022](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_AK.2022.146-AK)
+- **Gericht / Kanton**: Kantonsgericht St. Gallen
+- **Thema**: Akteneinsicht nach Fusion
+- **Kernaussage**: Der Rechtsnachfolgerin einer juristischen Person, welche eine Strafanzeige erstattet hat, kommt nach einer Fusion keine Parteistellung im laufenden Strafverfahren zu; ihr Akteneinsichtsbegehren ist nach Art. 101 Abs. 3 StPO als Drittgesuch zu prüfen.
+- **Einschlägig für**: Abs. 3; Dritteinsicht und Rechtsnachfolge
+
+### [Kantonsgericht LU 2N 14 98 vom 23. September 2014](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_14_98)
+- **Gericht / Kanton**: Kantonsgericht Luzern
+- **Thema**: Schutz vor sachverhaltsfremden Aktenstücken
+- **Kernaussage**: Material der Untersuchungsakten sind grundsätzlich alle Informationen, die mit dem möglichen Schuldbefund und der allfälligen Strafzumessung in Zusammenhang stehen; zum Schutz der Persönlichkeit erfolgt keine Integration sachverhaltsfremder Aktenstücke in die Untersuchungsakten.
+- **Einschlägig für**: Abs. 1; Umfang der Aktenführung und Einsicht
+
+### [Kantonsgericht BL 2021_08_25_sr_1 vom 25. August 2021](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_2021_08_25_sr_1)
+- **Gericht / Kanton**: Kantonsgericht Basel-Landschaft
+- **Thema**: Rechtsmittelweg bei Dritteinsicht
+- **Kernaussage**: Ist eine Strafuntersuchung rechtshängig, können Drittpersonen Einsicht nehmen, wenn sie ein schützenswertes Interesse nach Art. 101 Abs. 3 StPO nachweisen; wird dem Gesuch nicht entsprochen, steht die Beschwerde gemäss Art. 393 ff. StPO offen.
+- **Einschlägig für**: Abs. 3; Rechtsschutz für Dritte
 
 ---
 
-### BGE 140 IV 172, E. 1.2
-- **Thema**: Teilnahmerecht bei getrennt geführten Verfahren
-- **Kernaussage**: Der Anspruch beschuldigter Personen auf Teilnahme an Beweiserhebungen gilt nicht in getrennt geführten Verfahren gegen andere beschuldigte Personen. Die Akteneinsicht umfasst nur die Akten des eigenen (vereinigten) Verfahrens, nicht jene getrennt geführter Verfahren gegen Mitbeschuldigte.
-- **Einschlägig für**: Abs. 1 (Umfang der Akteneinsicht)
-
----
-
-### BGE 141 IV 220, E. 4–5
-- **Thema**: Teilnahmerecht und Unverwertbarkeit
-- **Kernaussage**: Der Beschuldigte hat grundsätzlich das Recht, an Einvernahmen von Mitbeschuldigten in vereinigten Verfahren teilzunehmen. Bei Verletzung des Teilnahmerechts sind belastende Aussagen von Mitbeschuldigten nicht verwertbar. Die Akteneinsicht ist Voraussetzung für die effektive Ausübung des Teilnahmerechts.
-- **Einschlägig für**: Abs. 1 (Bezug zum Teilnahmerecht, Art. 147 StPO)
-
----
-
-### BGE 143 IV 397, E. 2
-- **Thema**: Verzicht auf das Teilnahmerecht
-- **Kernaussage**: Der Verzicht des Beschuldigten auf sein Teilnahmerecht bei Beweiserhebungen durch die Staatsanwaltschaft kann auch vom Verteidiger erklärt werden. Soweit der bei Einvernahmen anwesende Verteidiger gegen die Abwesenheit des Beschuldigten nicht opponiert und keinen Antrag auf dessen Teilnahme stellt, darf angenommen werden, dieser habe auf sein Teilnahmerecht verzichtet.
-- **Einschlägig für**: Abs. 1 (Verzicht, Treu und Glauben)
-
----
-
-### BGE 150 IV 345
-- **Thema**: Praxisänderung — Unverwertbarkeit bei Verletzung des Teilnahmerechts
-- **Kernaussage**: Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO nicht verwertet werden darf, bleibt auch nach einer Wiederholung der Einvernahme unter Wahrung des Teilnahmerechts unverwertbar. Anpassung der Rechtsprechung. Dies unterstreicht die Bedeutung der Akteneinsicht als Voraussetzung für die Wahrnehmung des Teilnahmerechts.
-- **Einschlägig für**: Abs. 1 (Bezug zu Art. 147 StPO, Unverwertbarkeit)
-
----
-
-## Weitere Bundesgerichtsentscheide
-
-### BGer 1B 124/2016 vom 12. August 2016
-- **Thema**: Rechtsverweigerung / Rechtsverzögerung
-- **Kernaussage**: Verweigert die Strafbehörde die Akteneinsicht grundlos oder verzögert sie diese, kann dies den Tatbestand der Rechtsverweigerung oder Rechtsverzögerung im Sinne von Art. 393 Abs. 2 lit. a StPO erfüllen.
-- **Einschlägig für**: Durchsetzung (Rechtsmittel)
-
----
-
-### BGer 1B 306/2014 vom 12. Januar 2015
-- **Thema**: Akteneinsicht im Strafverfahren
-- **Kernaussage**: Bestätigt die Praxis zu Art. 101 StPO im Kontext von Akteneinsichtsgesuchen im hängigen Verfahren.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 1B 33/2014 vom 13. März 2014
-- **Thema**: Akteneinsicht
-- **Kernaussage**: Klarstellung zur Handhabung der Akteneinsicht im Strafverfahren.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 1B 326/2011 vom 30. August 2011
-- **Thema**: Akteneinsicht etc.
-- **Kernaussage**: Früher Entscheid zur Akteneinsicht im Rahmen der StPO.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 1B 55/2019 vom 14. Juni 2019
-- **Thema**: Akteneinsicht im Strafverfahren
-- **Kernaussage**: Bestätigung der Rechtsprechung zu Art. 101 StPO.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 1B 92/2020 vom 4. September 2020
-- **Thema**: Abtrennung des Strafverfahrens gegen einen Mitbeschuldigten
-- **Kernaussage**: Behandelt die Auswirkungen der Verfahrenstrennung auf die Akteneinsicht und das Teilnahmerecht.
-- **Einschlägig für**: Abs. 1 (Umfang bei Verfahrenstrennung)
-
----
-
-### BGer 6B 23/2021 vom 20. Juli 2021
-- **Thema**: Rechtliches Gehör, Garantie auf ein faires Verfahren
-- **Kernaussage**: Zusammenhang zwischen Akteneinsicht, rechtlichem Gehör und fairem Verfahren im Betäubungsmittelstrafrecht.
-- **Einschlägig für**: Abs. 1 (Verfassungsbezüge)
-
----
-
-### BGer 6B_1003/2020 vom 21. April 2021
-- **Thema**: Akteneinsicht im Vorverfahren
-- **Kernaussage**: Weitere Präzisierung zur Akteneinsicht nach Art. 101 StPO im kantonalen Verfahren.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 6B_1149/2020 vom 17. April 2023
-- **Thema**: Akteneinsicht und Verfahrensrechte
-- **Kernaussage**: Bestätigt die Grundsätze zur Akteneinsicht im hängigen Verfahren.
-- **Einschlägig für**: Abs. 1
-
----
-
-### BGer 6B_1320/2020 vom 12. Januar 2022
-- **Thema**: Akteneinsicht im Strafverfahren
-- **Kernaussage**: Klärt Fragen der Akteneinsicht im Rahmen der StPO.
-- **Einschlägig für**: Abs. 1
-
----
-
-## Kantonale Entscheide
-
-### Kantonsgericht Luzern, 2N 13 76 vom 29. Oktober 2013
-- **Thema**: Akteneinsicht durch Dritte nach Art. 101 Abs. 3 StPO
-- **Kernaussage**: Gewährt einem Dritten unter spezifischen Voraussetzungen Akteneinsicht nach Art. 101 Abs. 3 StPO in ein hängiges Strafverfahren.
-- **Einschlägig für**: Abs. 3 (Dritteinsicht)
-
----
-
-### Kantonsgericht St. Gallen, AK.2022.146-AK vom 14. Juli 2022
-- **Thema**: Akteneinsichtsrecht nach einer Fusion
-- **Kernaussage**: Der Rechtsnachfolgerin einer juristischen Person, welche eine Strafanzeige erstattet hat, kommt nach einer Fusion keine Parteistellung im laufenden Strafverfahren zu. Zu prüfen bleibt, ob ihr als Dritte ein Akteneinsichtsrecht nach Art. 101 Abs. 3 StPO zusteht.
-- **Einschlägig für**: Abs. 3 (Dritteinsicht, juristische Personen, Rechtsnachfolge)
-
----
-
-## Bundesstrafgerichtliche Entscheide
-
-### BStGer BB.2015.80 vom 17. Februar 2016
-- **Thema**: Akteneinsicht (Art. 101 f. i.V.m. Art. 107 Abs. 1 lit. a StPO)
-- **Kernaussage**: Bestätigt die Anwendbarkeit von Art. 101 StPO im Bundesstrafverfahren.
-- **Einschlägig für**: Abs. 1 (Bundesstrafverfahren)
-
----
-
-### BStGer BB.2022.115 vom 2. Mai 2023
-- **Thema**: Akteneinsicht (Art. 101 f. i.V.m. Art. 107 Abs. 1 lit. a StPO)
-- **Kernaussage**: Weitere Klärung der Akteneinsicht im Bundesstrafverfahren.
-- **Einschlägig für**: Abs. 1 (Bundesstrafverfahren)
-
----
-
-### BStGer BB.2025.82 vom 23. März 2026
-- **Thema**: Verfahrenshandlung der Bundesanwaltschaft; Akteneinsicht; Rechtsverweigerung
-- **Kernaussage**: Akteneinsicht nach Art. 101 f. i.V.m. Art. 107 Abs. 1 lit. a StPO im Kontext von Rechtsverweigerung/Rechtsverzögerung nach Art. 393 Abs. 2 lit. a StPO.
-- **Einschlägig für**: Abs. 1 (Bundesstrafverfahren, Durchsetzung)
-
----
-
-*Letzte Aktualisierung: 2026-06-29*
+*Letzte Aktualisierung: 22. August 2026*
