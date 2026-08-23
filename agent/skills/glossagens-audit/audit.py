@@ -237,6 +237,7 @@ def norm(s):
     ]:
         s = s.replace(a, b)
     s = re.sub(r"\*+|_+|`+", "", s)          # Markdown-Auszeichnung
+    s = re.sub(r"\[\s*(?:AS|RO|FF|BBl)[^\]]*\]\.?\s*(?:Siehe\s+heute:[^)]*\)\.?)?", " ", s, flags=re.I)
     s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
     s = re.sub(r"\b(?:AS|RO|FF|BBl)\s+\d{4}\s+\d+\b", " ", s) # Fedlex-interne AS/BBl-Einschübe
     s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
