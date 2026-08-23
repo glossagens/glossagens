@@ -238,6 +238,7 @@ def norm(s):
         s = s.replace(a, b)
     s = re.sub(r"\*+|_+|`+", "", s)          # Markdown-Auszeichnung
     s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
+    s = re.sub(r"\b(?:AS|RO|FF|BBl)\s+\d{4}\s+\d+\b", " ", s) # Fedlex-interne AS/BBl-Einschübe
     s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
     s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s) # "329 g" -> "329g", "257 d" -> "257d"
     s = re.sub(r"\b([a-z])\s+(bis|ter|quater|quinquies)\b", r"\1\2", s) # "a bis" -> "abis"
