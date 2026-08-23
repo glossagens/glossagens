@@ -2,123 +2,86 @@
 title: "Rechtsprechung zu Art. 8 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
-description: "Übersicht der Entscheide zu Art. 8 StGB — Begehungsort, Handlungs- und Erfolgsort, Versuchsbegehung, Erfolgsort bei ehrverletzenden Online-Publikationen."
-tags: ["Rechtsprechung", "StGB", "Begehungsort", "Erfolgsort", "Gerichtsstand", "Internetstrafrecht"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 8 StGB — Begehungsort, Handlungs- und Erfolgsort, Ubiquitätsprinzip, Versuch und Internetdelikte."
+tags: ["Rechtsprechung", "StGB", "Begehungsort", "Handlungsort", "Erfolgsort", "Ubiquitätsprinzip", "Allgemeiner Teil"]
+agent_verified: true
 revisions:
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Neuerstellung KW31 — 15 Entscheide via OCL verifiziert."
+    note: "Vollständiger Neuaufbau nach C-Audit: Systematische Gliederung in Leitentscheide und weitere Entscheide; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 
-# Rechtsprechung zu Art. 8 StGB
+## I. Leitentscheide des Bundesgerichts
 
-## Leitentscheide
+### [BGE 125 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177) E. 2 — Erfolgsort bei Ehrverletzungen durch Briefsendungen aus dem Ausland
+- **Thema**: Ubiquitätsprinzip; Erfolgsort bei grenzüberschreitenden Äusserungsdelikten.
+- **Kernaussage**: Bei ehrverletzenden Äusserungen in Briefen, die im Ausland verfasst und zielgerichtet an Personen in der Schweiz gesandt werden, liegt der Erfolgsort am Wohnsitz des Adressaten, an welchem die Äusserung zur Kenntnis genommen wird. Die blosse Zugänglichkeit genügt nicht, erforderlich ist die zielgerichtete Übermittlung.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 173 StGB.
 
-### BGE 125 IV 177 — Erfolgsort bei ehrverletzenden Äusserungen in Briefen
+---
 
-**BGE 125 IV 177 vom 15. Juni 1999** (5er-Besetzung)
+### [BGer 7B_1119/2024 vom 18. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1119_2024) — Kein Erfolgsort bei blosser weltweiter Internetabrufbarkeit
+- **Thema**: Präzisierung von BGE 125 IV 177 für das Internetzeitalter; Medien- und Onlinedelikte.
+- **Kernaussage**: Bei ehrverletzenden Online-Publikationen über Massenmedien begründet die blosse weltweite Abrufbarkeit einer Webseite keinen Erfolgsort in der Schweiz nach Art. 8 StGB. Erforderlich ist eine zielgerichtete Ausrichtung auf das schweizerische Publikum.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 173 StGB, Art. 28 ZGB.
 
-Grundlegendes Leiturteil zum Erfolgsort bei Äusserungsdelikten. Schweizerische Gerichtsbarkeit bejaht bei ehrverletzenden Äusserungen in Briefen, die im Ausland verfasst, aus dem Ausland zielgerichtet an individuell bestimmte Personen in der Schweiz versandt und von den Adressaten in der Schweiz empfangen wurden. Der Erfolgsort der Ehrverletzung liegt am Wohnsitz des Adressaten. Zentrale Dogmatik der Zielgerichtetheit der Übermittlung — massgeblich präzisiert in BGer 7B_1119/2024 für Online-Publikationen.
+---
 
-→ [BGE 125 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177)
+### [BGE 141 IV 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_336) E. 1 — Erfolgsort bei Fälschung amtlicher Wertzeichen im Ausland
+- **Thema**: Begehungsort bei Auslandsfälschung für den inländischen Gebrauch.
+- **Kernaussage**: Wer im Ausland eine schweizerische Autobahnvignette fälscht, um diese im Inland auf gebührenpflichtigen Strassen zu verwenden, begründet durch den beabsichtigten Gebrauchsort einen Erfolgsort und damit die schweizerische Gerichtsbarkeit nach Art. 8 Abs. 1 StGB.
+- **Einschlägig für**: Art. 3 StGB, Art. 8 Abs. 1 StGB, Art. 245 StGB.
 
-### BGer 7B_1119/2024 — Präzisierung BGE 125 IV 177 für das Internetzeitalter
+---
 
-**BGer 7B_1119/2024 vom 18. Juni 2026** (5er-Besetzung, zur Publikation vorgesehen)
+### [BGE 148 IV 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_385) E. 1 — Begehungsort bei versuchter Anstiftung
+- **Thema**: Selbständiger Anknüpfungspunkt bei der versuchten Anstiftung (Art. 24 Abs. 2 StGB).
+- **Kernaussage**: Die versuchte Anstiftung nach Art. 24 Abs. 2 StGB ist ein selbständiges Delikt. Ihr Begehungsort bestimmt sich nach Art. 8 Abs. 2 StGB nach dem Handlungsort des Anstifters und dem Ort, an welchem der Anstifterfolg nach seiner Vorstellung hätte eintreten sollen.
+- **Einschlägig für**: Art. 8 Abs. 2 StGB, Art. 24 Abs. 2 StGB.
 
-Präzisierung von BGE 125 IV 177 für das Internetzeitalter. Bei ehrverletzenden Online-Publikationen über Massenmedien begründet die blosse Zugänglichkeit keinen Erfolgsort nach Art. 8 StGB. Erforderlich ist eine zielgerichtete Übermittlung an individuell bestimmte, in der Schweiz anwesende Personen. Die weltweite Abrufbarkeit einer Online-Publikation reicht für sich allein nicht aus, um den schweizerischen Gerichtsstand zu begründen.
+---
 
-→ [BGer 7B_1119/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1119_2024)
+### [BGE 144 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_265) — Keine schweizerische Gerichtsbarkeit bei reiner Auslandshaupttat
+- **Thema**: Akzessorietät der Teilnahme und Begehungsort nach Art. 8 StGB.
+- **Kernaussage**: Aufgrund der Akzessorietät zur Haupttat begründet die blosse Teilnahmehandlung (Anstiftung oder Gehilfenschaft) keinen selbständigen Begehungsort. Wurde die Haupttat ausschliesslich im Ausland begangen, greift die schweizerische Strafhoheit für eine in der Schweiz erbrachte Gehilfenschaft nicht.
+- **Einschlägig für**: Art. 3 StGB, Art. 8 StGB, Art. 25 StGB.
 
-### BGE 141 IV 336 — Begehungsort bei Fälschung amtlicher Wertzeichen
+---
 
-**BGE 141 IV 336 vom 3. Juli 2015**
+## II. Weitere Entscheide
 
-Im Falle einer Fälschung amtlicher Wertzeichen (Autobahnvignette) gilt die Tat auch dann als in der Schweiz begangen, wenn der Täter die Vignette im Ausland fälscht in der Absicht, diese auf einer gebührenpflichtigen Strasse in der Schweiz zu verwenden. Der Erfolgsort (Gebrauch in der Schweiz) begründet den schweizerischen Begehungsort.
+### [BGE 141 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_155) E. 4.2 — Erfolgsort beim Verrat von Geschäftsgeheimnissen
+- **Thema**: Wirtschaftlicher Nachrichtendienst (Art. 273 StGB); Verletzung des Bankkundengeheimnisses.
+- **Kernaussage**: Der Verkauf von Schweizer Bankkundendaten im Ausland verletzt den wirtschaftlichen Geheimniskreis am inländischen Sitz der Bank, wodurch ein schweizerischer Erfolgsort nach Art. 8 Abs. 1 StGB begründet wird.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 273 StGB.
 
-→ [BGE 141 IV 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_336)
+---
 
-### BGE 148 IV 385 — Begehungsort bei versuchter Anstiftung
+### [BGE 141 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_205) E. 5.2 — Erfolgsort bei grenzüberschreitender Kindesentführung
+- **Thema**: Entziehen von Unmündigen (Art. 220 StGB); Anknüpfung am Festhalteort.
+- **Kernaussage**: Bei der grenzüberschreitenden Kindesentführung liegt der Erfolgsort des fortdauernden Entziehens am Wohnsitz des sorgeberechtigten Elternteils bzw. an dem Ort in der Schweiz, an welchen die Rückgabe verweigert wird.
+- **Einschlägig für**: Art. 3 Abs. 1 StGB, Art. 8 Abs. 1 StGB, Art. 220 StGB.
 
-**BGE 148 IV 385 vom 24. August 2022**
+---
 
-Die versuchte Anstiftung nach Art. 24 Abs. 2 StGB ist ein selbständiges Delikt und begründet damit einen selbständigen Anknüpfungspunkt. Dieser bestimmt sich nach Art. 8 Abs. 2 StGB, d.h. nach dem Handlungsort des Anstifters und dem Ort, an dem der (angestiftete) Erfolg nach der Vorstellung des Anstifters hätte eintreten sollen.
+### [BGE 115 IV 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_270) E. 2 — Handlungsort bei mehraktigen Betrugshandlungen
+- **Thema**: Ausführungshandlung beim Betrug; Vorbereitungshandlung vs. Tatausführung.
+- **Kernaussage**: Als Handlungsort gilt der Ort des letzten entscheidenden Schritts, von dem es in der Regel kein Zurück mehr gibt. Eine blosse telefonische Vorankündigung stellt noch keine Ausführungshandlung dar; der Handlungsort wird erst mit der schriftlichen Geltendmachung begründet.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 146 StGB.
 
-→ [BGE 148 IV 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_385)
+---
 
-### BGE 144 IV 265 — Akzessorische Teilnahme begründet keinen selbständigen Begehungsort
+### [BStGer BG.2022.34 vom 17. November 2022](https://mcp.opencaselaw.ch/entscheid/bstger_BG.2022.34) — Gerichtsstand bei Distanzdelikten via Telekommunikation
+- **Thema**: Gerichtsstandskonflikt bei Drohung (Art. 180 StGB); Erfolgsort als Anknüpfungspunkt.
+- **Kernaussage**: Die Drohung nach Art. 180 StGB stellt ein Erfolgsdelikt dar, bei dem der Erfolg am Wohn- oder Aufenthaltsort des Opfers eintritt, wo die Drohung wahrgenommen und Furcht ausgelöst wird.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 180 StGB, Art. 40 Abs. 2 StPO.
 
-**BGE 144 IV 265 vom 23. Juli 2018**
+---
 
-Aufgrund ihrer Akzessorietät zur Haupttat begründet die Handlung eines Anstifters oder Gehilfen keinen selbständigen Anknüpfungspunkt, um einen Begehungsort nach Art. 3 und Art. 8 StGB zu bestimmen. Wenn die Haupttat ausschliesslich im Ausland begangen wird, kann die in der Schweiz geleistete Teilnahme nicht unter Art. 8 StGB subsumiert werden.
-
-→ [BGE 144 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_265)
-
-## Weitere Entscheide
-
-### BGE 141 IV 155 — Begehungsort bei Veräusserung von Bankkundendaten
-
-**BGE 141 IV 155 vom 25. Februar 2015**
-
-Verkauf von Bankkundendaten; wirtschaftlicher Nachrichtendienst (Art. 273 Abs. 2 StGB); Einziehung des Verkaufserlöses (Art. 70 Abs. 1 StGB). Die Veräusserung von Daten von Kunden einer Schweizer Bank begründet einen schweizerischen Begehungsort, sofern der Schweizer Wirtschaftsraum betroffen ist.
-
-→ [BGE 141 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_155)
-
-### BGE 141 IV 205 — Zuständigkeit bei Kindesentführung
-
-**BGE 141 IV 205 vom 19. Mai 2015**
-
-Art. 3 Abs. 1 und Art. 8 Abs. 1 StGB i.V.m. HKsÜ: Schweizerische Gerichtsbarkeit bejaht bei Entführung und Entziehung eines Unmündigen, wenn das Kind in die Schweiz verbracht und hier festgehalten wird. Der Erfolgsort liegt am tatsächlichen Aufenthaltsort des Kindes.
-
-→ [BGE 141 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_205)
-
-### BGE 145 IV 114 — Unterstellung unter das Bankkundengeheimnis
-
-**BGE 145 IV 114 vom 10. Oktober 2018**
-
-Begehungsort bejaht, wenn eine Tätigkeit für ein ausländisches Bankinstitut erfolgt, das einen Teil von Vermögensverwaltungsdienstleistungen einer schweizerischen Bank erbringt. Die Unterstellung unter das Bankkundengeheimnis richtet sich nach dem räumlichen Bezug zur Schweiz.
-
-→ [BGE 145 IV 114](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_114)
-
-### BGE 115 IV 270 — Handlungsort bei mehraktigem Betrug
-
-**BGE 115 IV 270 vom 26. September 1989**
-
-Die in betrügerischer Absicht erfolgte telefonische Meldung eines gar nicht eingetretenen Verlustes von Reisechecks ist noch nicht Ausführungshandlung beim Betrug; der letzte entscheidende Schritt wird erst getan, wenn die schriftliche Geltendmachung erfolgt. Der Handlungsort richtet sich nach dem Ort des letzten entscheidenden Schritts.
-
-→ [BGE 115 IV 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_270)
-
-### BGE 122 IV 162 — Gerichtsstand für Auslandstat
-
-**BGE 122 IV 162 vom 2. April 1996**
-
-Die Bestimmung des Gerichtsstandes gemäss Art. 346 ff. StGB aF setzt voraus, dass die schweizerische Strafgerichtsbarkeit nach den Art. 3 bis 7 StGB überhaupt bejaht ist. Liegt kein Begehungsort in der Schweiz vor, fehlt es an der Gerichtsbarkeit, und der Gerichtsstand kann nicht bestimmt werden.
-
-→ [BGE 122 IV 162](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_162)
-
-### BGer 6B_127/2013 — Begehungsort bei Betrug
-
-**BGer 6B_127/2013 vom 3. September 2013**
-
-Anwendung der Grundsätze von Art. 8 StGB im Rahmen einer Nichtanhandnahme einer Untersuchung (Betrug). Begehungsort bei mehraktigem Tatgeschehen mit Auslandsbezug.
-
-→ [BGer 6B_127/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_127_2013)
-
-## Übersichtstabelle
-
-| Entscheidung | Datum | Kernthema |
-|--------------|-------|----------|
-| BGE 125 IV 177 | 15.06.1999 | Erfolgsort bei ehrverletzenden Briefen (Leitentscheid) |
-| BGer 7B_1119/2024 | 18.06.2026 | Präzisierung für Online-Publikationen (5er) |
-| BGE 141 IV 336 | 03.07.2015 | Begehungsort bei Fälschung amtlicher Wertzeichen |
-| BGE 148 IV 385 | 24.08.2022 | Versuchte Anstiftung als selbständiges Delikt |
-| BGE 144 IV 265 | 23.07.2018 | Akzessorische Teilnahme ohne selbständigen Begehungsort |
-| BGE 141 IV 155 | 25.02.2015 | Begehungsort bei Veräusserung von Bankkundendaten |
-| BGE 141 IV 205 | 19.05.2015 | Zuständigkeit bei Kindesentführung |
-| BGE 145 IV 114 | 10.10.2018 | Bankkundengeheimnis bei Auslandstätigkeit |
-| BGE 115 IV 270 | 26.09.1989 | Handlungsort bei mehraktigem Betrug |
-| BGE 122 IV 162 | 02.04.1996 | Gerichtsstand für Auslandstaten |
+### [Appellationsgericht BS BES.2017.154 vom 10. Oktober 2017](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_BES.2017.154) — Ubiquitätsprinzip bei Vermögensdelikten mit Auslandsbezug
+- **Thema**: Schweizerische Strafhoheit bei ungetreuer Geschäftsbesorgung (Art. 158 StGB).
+- **Kernaussage**: Das Ubiquitätsprinzip nach Art. 8 Abs. 1 StGB erweitert die schweizerische Strafhoheit auf im Ausland vorgenommene Tathandlungen, wenn der vermögensrechtliche Erfolg bzw. Schaden im Inland eingetreten ist.
+- **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 158 StGB.

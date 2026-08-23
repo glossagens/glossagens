@@ -1,85 +1,105 @@
 ---
-title: "Art. 8 — Begehungsort"
+title: "Art. 8 StGB — Begehungsort"
 weight: 8
 date: 2026-07-31
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 8 StGB: Ort der Tatbegehung (Handlungs- und Erfolgsort), Begehungsort des Versuchs, internationale Zuständigkeit bei Auslandstaten, Erfolgsort bei ehrverletzenden Online-Publikationen."
-tags: ["StGB", "Begehungsort", "Erfolgsort", "Handlungsort", "internationale Zuständigkeit", "Gerichtsstand", "Internetstrafrecht", "Medienstrafrecht"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 8 StGB: Ubiquitätsprinzip, Handlungs- und Erfolgsort, Begehungsort bei Versuch und Teilnahme, Internet- und Äusserungsdelikte."
+tags: ["StGB", "Begehungsort", "Handlungsort", "Erfolgsort", "Ubiquitätsprinzip", "Gerichtsstand", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach C-Audit: Systematische Einordnung, präzise E-Nummern und kantonale Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Präzisierung 7B_1119/2024 (BGE 125 IV 177 für das Internetzeitalter); Gesetzestext via Fedlex MCP, 15 Entscheide via OCL verifiziert."
+    note: "Neuerstellung: Gesetzestext via Fedlex MCP verifiziert"
 ---
-
-# Art. 8 StGB
 
 ## Gesetzeswortlaut
 
-> **Art. 8 StGB (Begehungsort)**
+> **Art. 8 StGB — Begehungsort**
 >
-> **1** Ein Verbrechen oder Vergehen gilt als da begangen, wo der Täter es ausführt oder pflichtwidrig untätig bleibt, und da, wo der Erfolg eingetreten ist.
+> 1 Ein Verbrechen oder Vergehen gilt als da begangen, wo der Täter es ausführt oder pflichtwidrig untätig bleibt, und da, wo der Erfolg eingetreten ist.
 >
-> **2** Der Versuch gilt als da begangen, wo der Täter ihn ausführt, und da, wo nach seiner Vorstellung der Erfolg hätte eintreten sollen.
+> 2 Der Versuch gilt als da begangen, wo der Täter ihn ausführt, und da, wo nach seiner Vorstellung der Erfolg hätte eintreten sollen.
 
-*Konsolidierungsstand: 12.06.2026 (Fedlex, SR 311.0).*
+---
 
-## Kommentierung
+## I. Überblick und systematische Bedeutung
 
-### I. Bedeutung und systematischer Zusammenhang
+### 1. Das Ubiquitätsprinzip (Allgegenwaltsprinzip)
+**1** Art. 8 StGB regelt den **Begehungsort** einer Straftat nach dem sogenannten **Ubiquitätsprinzip** (Allgegenwaltsprinzip). Eine strafbare Handlung gilt kumulativ und gleichwertig an mehreren Orten als begangen: am Ort der Ausführungshandlung (**Handlungsort**), am Ort der Pflichtverletzung bei Unterlassungen (**Unterlassungsort**) sowie am Ort des Erfolgseintritts (**Erfolgsort**).
 
-**1** Art. 8 StGB bestimmt den **Begehungsort** einer Straftat und damit den inländischen Gerichtsstand. Die Norm gehört zu den räumlichen Geltungsbestimmungen der Art. 3–7 StGB, welche die schweizerische Strafgerichtsbarkeit bei Auslandstaten eröffnen. Art. 8 StGB ist eine doppelte Anknüpfung: Eine Tat gilt sowohl am **Handlungsort** (wo der Täter ausführt oder pflichtwidrig untätig bleibt) wie am **Erfolgsort** (wo der Erfolg eintritt) als begangen ([BGE 141 IV 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_336), E. 1).
+### 2. Funktion im Sanktionen- und Geltungsrecht
+**2** Die Bestimmung erfüllt eine doppelte Funktion:
+- **Materiell-rechtlich**: Art. 8 StGB konkretisiert das Territorialitätsprinzip ([Art. 3 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_3)). Liegt entweder der Handlungs- oder der Erfolgsort in der Schweiz, untersteht die Tat der schweizerischen Strafhoheit, selbst wenn wesentliche Tatanteile im Ausland verübt wurden (Distanztat, vgl. [BGE 125 IV 177 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177)).
+- **Strafprozessual**: Art. 8 StGB liefert die materiellen Anknüpfungspunkte für die Bestimmung der örtlichen Zuständigkeit und des Gerichtsstands ([Art. 31 ff. StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_31)).
 
-**2** Die Norm hat sowohl strafprozessuale (örtliche Zuständigkeit, Art. 27 ff. StPO) als auch materiell-rechtliche Bedeutung (Begründung schweizerischer Strafgerichtsbarkeit bei Auslandstaten nach Art. 3–5 StGB). Das Ubiquitätsprinzip des Art. 8 StGB erlaubt es, dass eine im Ausland begonnene und in der Schweiz vollendete Tat (oder umgekehrt) der schweizerischen Gerichtsbarkeit unterfällt. Art. 8 StGB regelt dabei nicht die **gerichtliche** Zuständigkeit im engeren Sinn, sondern den **Begehungsort** als Voraussetzung der Anwendbarkeit schweizerischen Strafrechts ([BGE 125 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177), E. 2a).
+---
 
-### II. Handlungsort (Abs. 1, 1. Alternative)
+## II. Handlungs- und Unterlassungsort (Abs. 1, 1. Alternative)
 
-**3** Der **Handlungsort** ist der Ort, an dem der Täter die Tatausführungshandlung vornimmt. Bei einem Unterlassungsdelikt ist dies der Ort, an dem der Täter pflichtwidrig untätig bleibt (Ort der hypothetischen Handlungspflicht). Bei Beteiligungsdelikten (Anstiftung, Gehilfenschaft) ist der Handlungsort der Ort der jeweiligen Beteiligungshandlung. Für die **akzessorische Teilnahme** gilt jedoch, dass die Teilnahmehandlung aufgrund ihrer Akzessorietät zur Haupttat keinen selbständigen Anknüpfungspunkt begründet: Ist die Haupttat ausschliesslich im Ausland begangen, kann auch die in der Schweiz geleistete Teilnahme nicht unter Art. 8 StGB subsumiert werden ([BGE 144 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_265), E. 2.3).
+### 1. Handlungsort bei Tätigkeitsdelikten
+**3** Handlungsort ist derjenige Ort, an dem der Täter die Ausführungshandlung vornimmt. Setzt sich die Ausführung aus mehreren Teilakten zusammen (mehraktige Delikte), gilt jeder Ort als Handlungsort, an welchem eine tatbestandsmässige Ausführungshandlung vorgenommen wurde. 
 
-**4** Beim **Versuch** (Abs. 2) ist der Handlungsort der Ort, an dem der Täter die Versuchshandlung ausführt. Der Versuch stellt — im Gegensatz zur akzessorischen Teilnahme — ein selbständiges Delikt dar und begründet damit einen selbständigen Anknüpfungspunkt nach Art. 8 Abs. 2 StGB. Bei der versuchten Anstiftung (Art. 24 Abs. 2 StGB) bestimmen sich Handlungs- und Erfolgsort nach den Kriterien von Art. 8 Abs. 2 StGB ([BGE 148 IV 385](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_385), E. 1.2.3).
+**4** Bei Vorbereitungshandlungen, die noch nicht in das Versuchsstadium münden, liegt noch kein Handlungsort im Sinne von Art. 8 StGB vor. Der massgebliche Schritt wird erst mit der eigentlichen Ausführungshandlung vollzogen ([BGE 115 IV 270 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_270)).
 
-### III. Erfolgsort (Abs. 1, 2. Alternative)
+### 2. Unterlassungsort bei echten und unechten Unterlassungsdelikten
+**5** Bleibt der Täter pflichtwidrig untätig, gilt die Tat an dem Ort als begangen, an welchem der Garant zur Abwendung des Erfolgs hätte handeln müssen (Ort der hypothetischen Handlungspflicht).
 
-**5** Der **Erfolgsort** ist der Ort, an dem der zum Tatbestand gehörende Erfolg eintritt. Beim vollendeten Delikt ist dies der Ort der Rechtsgutsverletzung. Der Erfolgsort begründet einen vom Handlungsort unabhängigen zweiten Begehungsort, weshalb die Tat an beiden Orten als begangen gilt (Ubiquität). Dies ist insbesondere bei Distanztaten (Handlung im Ausland, Erfolg in der Schweiz) relevant: Die schweizerische Gerichtsbarkeit wird über Art. 3 bzw. Art. 4 StGB eröffnet, wenn der Erfolg in der Schweiz eintritt ([BGE 125 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177), E. 2b).
+---
 
-**6** Bei mehraktigen Delikten (z.B. Betrug mit telefonischer Meldung und anschliessender schriftlicher Geltendmachung) gilt als Handlungsort der Ort des letzten entscheidenden Schritts, von dem es in der Regel kein Zurück mehr gibt. Eine in betrügerischer Absicht erfolgte telefonische Meldung eines gar nicht eingetretenen Verlustes von Reisechecks ist noch nicht Ausführungshandlung beim Betrug; dieser Schritt wird erst mit der schriftlichen Geltendmachung getan ([BGE 115 IV 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_270), E. 2).
+## III. Erfolgsort (Abs. 1, 2. Alternative)
 
-### IV. Erfolgsort bei ehrverletzenden Äusserungen — das Brief-Urteil BGE 125 IV 177
+### 1. Begriff des Erfolgsorts bei Erfolgsdelikten
+**6** Der Erfolgsort ist der Ort, an dem der gesetzlich vorausgesetzte tatbestandsmässige Erfolg eintritt. Bei reinen Tätigkeitsdelikten (z.B. falsches Zeugnis gemäss [Art. 307 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_307)) gibt es begrifflich keinen Erfolgsort; massgeblich ist ausschliesslich der Handlungsort.
 
-**7** **Leitentscheid BGE 125 IV 177.** Das Bundesgericht bejahte die schweizerische Gerichtsbarkeit bei ehrverletzenden Äusserungen in Briefen, die im Ausland verfasst, aus dem Ausland zielgerichtet an individuell bestimmte Personen in der Schweiz versandt und von den Adressaten in der Schweiz empfangen wurden. Der Erfolgsort der Ehrverletzung liegt am Wohnsitz des Adressaten, wo die ehrverletzende Äusserung zur Kenntnis genommen wird und die Ehre als Rechtsgut tatsächlich beeinträchtigt wird. Die blosse **Zugänglichkeit** einer Äusserung begründet dabei noch keinen Erfolgsort; erforderlich ist die **zielgerichtete Übermittlung** an eine in der Schweiz befindliche Person ([BGE 125 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177), E. 2c).
+### 2. Distanzdelikte und Rechtsgutsverletzung
+**7** Tritt der Erfolg in der Schweiz ein, begründet dies die schweizerische Gerichtsbarkeit auch dann, wenn sämtliche Ausführungshandlungen im Ausland vorgenommen wurden. Bei der Fälschung amtlicher Wertzeichen im Ausland liegt der Erfolgsort in der Schweiz, wenn die Fälschung für den Gebrauch im Inland bestimmt war ([BGE 141 IV 336 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_336)). Beim wirtschaftlichen Nachrichtendienst ([Art. 273 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_273)) liegt der Erfolgsort am schweizerischen Sitz der betroffenen Institution, deren Geheimnissphäre verletzt wurde ([BGE 141 IV 155 E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_155)). Bei grenzüberschreitender Kindesentziehung liegt der Erfolgsort am Wohnsitz des sorgeberechtigten Elternteils bzw. am Ort der verweigerten Rückgabe ([BGE 141 IV 205 E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_205)).
 
-**8** BGE 125 IV 177 hat die Grundsätze für den Erfolgsort bei Äusserungsdelikten im analogen Briefverkehr geprägt. Die auf Art. 173 ff. StGB (Ehrverletzung) entwickelte Dogmatik lässt sich auf den gesamten Bereich der durch Übermittlung begangenen Äusserungsdelikte übertragen. Zentral ist die **Zielgerichtetheit** der Übermittlung: Nur wer die Äusserung an eine in der Schweiz anwesende Person richtet, begründet einen Erfolgsort in der Schweiz. Die Verbreitung an einen unbestimmten Personenkreis («Publikum») reicht nach BGE 125 IV 177 für einen Erfolgsort nicht aus, soweit keine zielgerichtete Übermittlung an eine in der Schweiz befindliche Person vorliegt.
+---
 
-### V. Präzisierung für das Internetzeitalter — BGer 7B_1119/2024
+## IV. Begehungsort bei Versuch und Teilnahme
 
-**9** **Präzisierung BGer 7B_1119/2024 (18.06.2026, 5er-Besetzung, zur Publikation vorgesehen).** Das Bundesgericht präzisiert BGE 125 IV 177 für das Internetzeitalter. Bei **ehrverletzenden Online-Publikationen über Massenmedien** begründet die **blosse Zugänglichkeit** einer Publikation im Internet keinen Erfolgsort in der Schweiz nach Art. 8 StGB. Erforderlich ist — wie beim Briefverkehr nach BGE 125 IV 177 — eine **zielgerichtete Übermittlung** an individuell bestimmte, in der Schweiz anwesende Personen. Die weltweite Abrufbarkeit einer Online-Publikation reicht für sich allein nicht aus, um den schweizerischen Gerichtsstand zu begründen; dies würde andernfalls zu einer uferlosen Ausdehnung der schweizerischen Strafgerichtsbarkeit über das Internet führen.
+### 1. Der Versuch (Abs. 2)
+**8** Beim Versuch gilt die Tat als begangen:
+- an dem Ort, wo der Täter die **Versuchshandlung ausführt**, und
+- an dem Ort, wo nach der **subjektiven Vorstellung des Täters** der Erfolg hätte eintreten sollen.
 
-**10** Die Präzisierung hält an der Dogmatik von BGE 125 IV 177 fest, wonach der Erfolgsort einer Ehrverletzung dort liegt, wo die Äusserung von der betroffenen Person zur Kenntnis genommen wird — jedoch nur bei **zielgerichteter** Übermittlung. Im Unterschied zum Brief, der an einen bestimmten Adressaten versandt wird, ist eine Online-Publikation einem unbestimmten, weltweiten Publikum zugänglich. Die blosse Abrufbarkeit von der Schweiz aus macht die Schweiz nicht zum Erfolgsort. Damit bestätigt das Bundesgericht eine restriktive Erfolgsort-Lehre im Medienstrafrecht und grenzt sich von einer ubiquitären Internet-Zuständigkeit ab.
+**9** Die versuchte Anstiftung ([Art. 24 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_24)) stellt ein selbständiges Delikt dar. Ihr Begehungsort richtet sich nach Art. 8 Abs. 2 StGB, mithin nach dem Handlungsort des Anstifters und dem Ort, an welchem der Erfolg nach seiner Vorstellung hätte eintreten sollen ([BGE 148 IV 385 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_385)).
 
-**11** Die Dogmatik wirkt auch über Art. 8 StGB hinaus: Entsprechende Grundsätze gelten im internationalen Zivilprozessrecht für den Gerichtsstand bei Persönlichkeitsverletzungen durch Online-Medien (vgl. die parallele Rechtsprechung zu Art. 28 ZGB / Art. 13 LugÜ). Die Präzisierung in 7B_1119/2024 bestätigt die Kontinuität der Linie BGE 125 IV 177 und verhindert einen Gerichtsstands-Tourismus bei grenzüberschreitenden Online-Äusserungen.
+### 2. Akzessorische Teilnahme
+**10** Nach der Rechtsprechung begründet die blosse Teilnahmehandlung (Anstiftung oder Gehilfenschaft) aufgrund ihrer Akzessorietät zur Haupttat keinen selbständigen Begehungsort nach Art. 8 StGB. Wurde die Haupttat ausschliesslich im Ausland begangen, begründet eine in der Schweiz erbrachte Teilnahmehandlung für sich allein keine schweizerische Strafhoheit ([BGE 144 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_265)).
 
-### VI. Begehungsort bei Auslandstaten und Mehrfachbegehung
+---
 
-**12** Bei Tatbeständen mit **Auslandsbezug** (z.B. Fälschung amtlicher Wertzeichen) gilt die Tat auch dann als in der Schweiz begangen, wenn der Täter die Vignette im Ausland fälscht in der Absicht, diese auf einer gebührenpflichtigen Strasse in der Schweiz zu verwenden. Der Erfolgsort (Gebrauch in der Schweiz) begründet den schweizerischen Begehungsort, selbst wenn die Fälschungshandlung im Ausland vorgenommen wurde ([BGE 141 IV 336](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_336), E. 1).
+## V. Äusserungs-, Medien- und Internetdelikte
 
-**13** Bei **Datendiebstahl und wirtschaftlichem Nachrichtendienst** (Art. 273 StGB) kann der Begehungsort am Ort der Veräusserung der Daten liegen, aber auch am Ort, wo die geschädigte Bank ihren Sitz hat und das geschützte Rechtsgut (wirtschaftlicher Geheimniskreis der Schweiz) beeinträchtigt wird. Die Veräusserung von Daten von Kunden einer Schweizer Bank mit Wohnsitz oder Sitz in Deutschland durch eine nicht bei der Bank angestellte Person begründet einen schweizerischen Begehungsort, sofern das Schweizer Bankkundengeheimnis bzw. der Schweizer Wirtschaftsraum betroffen ist ([BGE 141 IV 155](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_155), E. 4.2).
+### 1. Analoger Briefverkehr und zielgerichtete Übermittlung
+**11** Bei ehrverletzenden Äusserungen in Briefen, die aus dem Ausland an bestimmte Personen in der Schweiz gesandt werden, liegt der Erfolgsort am Wohnsitz des Adressaten in der Schweiz, an welchem die Äusserung zur Kenntnis genommen wird. Voraussetzung ist die **zielgerichtete Übermittlung** an individuell bestimmte Personen ([BGE 125 IV 177 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_177)).
 
-**14** Bei der **Kindesentführung** (HKsÜ / Art. 220 StGB aF) wird die schweizerische Gerichtsbarkeit bejaht, wenn das Kind in die Schweiz verbracht und hier festgehalten wird. Der Erfolgsort der Entziehung liegt am Ort, wo das Kind sich tatsächlich aufhält. Die Zuständigkeit der schweizerischen Gerichtsbarkeit bestimmt sich nach Art. 3 Abs. 1 und Art. 8 Abs. 1 StGB i.V.m. dem HKsÜ ([BGE 141 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_205), E. 3).
+### 2. Online-Publikationen und Internetmedien
+**12** Bei Ehrverletzungen über Online-Massenmedien begründet die **blosse weltweite Abrufbarkeit** einer Webseite in der Schweiz keinen schweizerischen Erfolgsort nach Art. 8 StGB. Erforderlich ist ein qualifizierter Inlandsbezug in Form einer zielgerichteten Ausrichtung auf das schweizerische Publikum ([BGer 7B_1119/2024 vom 18. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1119_2024)).
 
-### VII. Begehungsort und Anklagezuständigkeit
+---
 
-**15** Die Bestimmung des Gerichtsstandes (Art. 346 ff. StGB aF bzw. die entsprechenden Bestimmungen der StPO) setzt voraus, dass die schweizerische Strafgerichtsbarkeit nach den Art. 3 bis 7 StGB überhaupt bejaht ist. Art. 8 StGB liefert dabei die Anknüpfungspunkte (Handlungs- und Erfolgsort), die für die Begründung der Gerichtsbarkeit und die örtliche Zuständigkeit massgebend sind. Liegt kein Begehungsort in der Schweiz vor, fehlt es an der schweizerischen Gerichtsbarkeit, und der Gerichtsstand kann nicht bestimmt werden ([BGE 122 IV 162](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_162), E. 1).
+## VI. Kantonale Praxisfragen
 
-**16** Für das Bankgeheimnis (Art. 47 BankG) hat das Bundesgericht den Begehungsort bejaht, wenn eine Tätigkeit für ein ausländisches Bankinstitut erfolgt, das einen Teil von Vermögensverwaltungsdienstleistungen einer schweizerischen Bank erbringt. Die Unterstellung unter das Bankkundengeheimnis richtet sich nach den anwendbaren Fassungen des BankG und dem räumlichen Bezug zur Schweiz ([BGE 145 IV 114](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_114), E. 3.2).
+### 1. Gerichtsstandskonflikte bei überkantonalen Drohungsdelikten
+**13** Bei Distanzdelikten wie Drohungen ([Art. 180 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_180)) via Telekommunikation tritt der tatbestandsmässige Erfolg (Schrecken oder Angst) am Aufenthaltsort des Opfers ein. Zur Vermeidung von Kompetenzkonflikten zwischen den beteiligten Kantonen knüpft die interkantonale Praxis an den Erfolgsort an, wenn der Absendeort unklar oder im Ausland gelegen ist ([BStGer BG.2022.34 vom 17. November 2022](https://mcp.opencaselaw.ch/entscheid/bstger_BG.2022.34)).
 
-## Querverweise
+### 2. Begründung kantonaler Strafhoheit bei grenzüberschreitenden Vermögensdelikten
+**14** In der kantonalen Gerichtspraxis bildet das Ubiquitätsprinzip von Art. 8 Abs. 1 StGB die zentrale Grundlage für die Bejahung der schweizerischen Gerichtsbarkeit bei aus dem Ausland gesteuerten Betrugs- und Veruntreuungshandlungen, wenn der Vermögensschaden bei einer inländischen Gesellschaft oder Bank eintritt (vgl. [Appellationsgericht BS BES.2017.154 vom 10. Oktober 2017](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_BES.2017.154), [Obergericht ZH UE220136 vom 14. Februar 2023](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_UE220136)).
 
-- [Art. 3 StGB](../art-001/) — Tat im Inland *(→ StGB)*
-- [Art. 10 StGB](../art-010/) — Verbrechen und Vergehen
-- [Art. 22 StGB](../art-022/) — Versuch
-- [Art. 25 StGB](../art-025/) — Gehilfenschaft
-- [Art. 24 StGB] — Anstiftung *(→ StGB)*
-- [Art. 173 StGB] — Ehrverletzung *(→ StGB)*
-- [Art. 273 StGB] — Wirtschaftlicher Nachrichtendienst *(→ StGB)*
+---
+
+## VII. Literatur
+
+- **DONATSCH/THOMMEN/WOHLERS**, Strafrecht I: Verbrechenslehre, 10. Aufl., Zürich/Basel/Genf 2022, § 5.
+- **NIGGLI/WIPRÄCHTIGER** (Hrsg.), Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 4. Aufl., Basel 2019, Art. 8.
+- **STRATENWERTH/WOHLERS**, Schweizerisches Strafgesetzbuch: Handkommentar, 4. Aufl., Bern 2020, Art. 8.
+- **TRECHSEL/PIETH** (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 8.
