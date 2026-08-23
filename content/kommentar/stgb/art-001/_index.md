@@ -1,94 +1,88 @@
 ---
-title: "Art. 1 StGB — Legalitätsprinzip"
+title: "Art. 1 StGB — Keine Sanktion ohne Gesetz"
 weight: 1
 date: 2026-05-15
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 1 StGB: Das Legalitätsprinzip — nullum crimen, nulla poena sine lege — als Grundgarantie des Schweizer Strafrechts."
-tags: ["Legalitätsprinzip", "nullum crimen sine lege", "Bestimmtheitsgebot", "Analogieverbot", "StGB", "Strafrecht"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 1 StGB: Das Legalitätsprinzip (nullum crimen, nulla poena sine lege), Bestimmtheitsgebot, Analogieverbot und kantonale Praxis."
+tags: ["StGB", "Legalitätsprinzip", "Bestimmtheitsgebot", "Analogieverbot", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach C-Audit: Pinpoint-Fehler bereinigt; Belege, Dogmatik und Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200; agent_verified korrigiert"
+    note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 1 StGB — Legalitätsprinzip**
+> **Art. 1 StGB — Keine Sanktion ohne Gesetz**
 >
 > Eine Strafe oder Massnahme darf nur wegen einer Tat verhängt werden, die das Gesetz ausdrücklich unter Strafe stellt.
 
+---
 
-## Vorbemerkungen
+## I. Überblick und rechtsstaatliche Bedeutung
 
-**1** **Stellung und Bedeutung.** Art. 1 StGB verankert das Legalitätsprinzip (*nullum crimen, nulla poena sine lege*) als zentrale Garantie des Schweizer Strafrechts. Die Bestimmung ist Ausdruck des Rechtsstaatsprinzips und hat Verfassungsrang (Art. 5 Abs. 1 BV: Grundrechte müssen nach dem Prinzip der Legalität angewendet werden; Art. 7 EMRK; Art. 15 UNO-Pakt II). Das Legalitätsprinzip umfasst mehrere Teilgehalte: das Bestimmtheitsgebot, das Analogieverbot, das Rückwirkungsverbot (Art. 2 StGB) und das Verbot der Gewohnheitsstrafrechtsschaffung.
+### 1. Fundamentalprinzip des Strafrechts (*nullum crimen, nulla poena sine lege*)
+**1** Art. 1 StGB statuiert das materielle **Legalitätsprinzip** als obersten Grundsatz des schweizerischen Strafrechts. Es besagt, dass menschliches Verhalten nur dann mit einer staatlichen Kriminalstrafe oder sichernden Massnahme belegt werden darf, wenn die Tatbestandsmerkmale und die angedrohten Sanktionen vor der Tatbegehung in einem formellen Gesetz hinreichend bestimmt umschrieben worden sind.
 
-**2** **Gesetzgebungsgeschichte.** Art. 1 StGB wurde mit dem Strafgesetzbuch von 1937 eingeführt und geht auf die rechtsstaatlichen Forderungen der Aufklärung zurück. Die Formulierung folgt dem kontinentaleuropäischen Legalitätsgedanken, der in Art. 7 EMRK und Art. 15 UNO-Pakt II völkerrechtlich verankert ist. Der Wortlaut ist seit 1937 unverändert geblieben.
-
-**3** **Verhältnis zu Verfassungsrecht und Völkerrecht.** Das Legalitätsprinzip hat eine mehrfache Absicherung: auf Stufe der Bundesverfassung in Art. 5 Abs. 1 BV (Grundsatz der Legalität), Art. 9 BV (Willkürverbot und Vertrauensschutz), Art. 29 BV (Anspruch auf rechtliches Gehör) und Art. 30 BV (Garantie des gesetzlichen Richters); auf völkerrechtlicher Stufe in Art. 7 EMRK und Art. 15 UNO-Pakt II. Art. 1 StGB konkretisiert diese allgemeinen Grundsätze für das Strafrecht.
+**2** Das Legalitätsprinzip geniesst eine mehrfache verfassungs- und völkerrechtliche Verankerung:
+- **Bundesverfassung**: Grundsatz des rechtsstaatlichen Handelns ([Art. 5 Abs. 1 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_5)), Willkürverbot ([Art. 9 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_9)) und das Erfordernis der Gesetzesform für wichtige Rechtssätze ([Art. 164 Abs. 1 lit. c BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_164)).
+- **Völkerrecht**: [Art. 7 Abs. 1 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#art_7) sowie [Art. 15 Abs. 1 UNO-Pakt II](https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/de#art_15).
 
 ---
 
-## I. Teilgehalte des Legalitätsprinzips
+## II. Die vier Teilgehalte des Legalitätsprinzips
 
-### A. Bestimmtheitsgebot (*nulla poena sine lege certa*)
+Das Legalitätsprinzip gliedert sich klassisch in vier fundamentale Ausprägungen:
 
-**4** **Allgemeines.** Eine Strafe oder Massnahme darf nur wegen einer Tat verhängt werden, die das Gesetz ausdrücklich unter Strafe stellt (Art. 1 StGB). Der Grundsatz der Legalität (*nullum crimen, nulla poena sine lege*) ist ebenfalls in Art. 7 EMRK ausdrücklich verankert. Er ergibt sich auch aus Art. 5 Abs. 1, Art. 9 und Art. 164 Abs. 1 lit. c BV ([BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4.1). Der Grundsatz ist verletzt, wenn jemand wegen eines Verhaltens strafrechtlich verfolgt wird, das im Gesetz überhaupt nicht als strafbar bezeichnet wird; wenn das Gericht ein Verhalten unter eine Strafnorm subsumiert, unter welche es auch bei weitestgehender Auslegung der Bestimmung nach den massgebenden Grundsätzen nicht subsumiert werden kann; oder wenn jemand in Anwendung einer Strafbestimmung verfolgt wird, die rechtlich keinen Bestand hat ([BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4.1).
+### 1. Gesetzlichkeitserfordernis (*nulla poena sine lege scripta*)
+**3** Neue Straftatbestände oder Sanktionsarten dürfen ausschliesslich durch geschriebenes Recht auf Stufe eines formellen Gesetzes geschaffen werden. Die Begründung von Kriminalstrafrecht durch richterliches Gewohnheitsrecht ist absolut unzulässig.
 
-**5** **Anforderungen an die Bestimmtheit.** Aus dem Grundsatz der Legalität wird das Bestimmtheitsgebot abgeleitet (*nulla poena sine lege certa*). Eine Strafnorm muss hinreichend bestimmt sein. Welche Anforderungen daran zu stellen sind, hängt unter anderem von der Komplexität der Regelungsmaterie und der angedrohten Strafe ab (POPP/LEVANTE, Basler Kommentar, Strafrecht I, N. 32 zu Art. 1 StGB). Das Gesetz muss so präzise formuliert sein, dass der Bürger sein Verhalten danach richten und die Folgen eines bestimmten Verhaltens mit einem den Umständen entsprechenden Grad an Gewissheit erkennen kann ([BGE 119 IV 242](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_242) E. 1c; [BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4.1).
+### 2. Bestimmtheitsgebot (*nulla poena sine lege certa*)
+**4** Der Gesetzgeber ist verpflichtet, Straftatbestände so präzise und klar zu formulieren, dass der Rechtsunterworfene sein Verhalten danach ausrichten und die strafrechtlichen Konsequenzen eines Verhaltens mit hinreichender Gewissheit voraussehen kann ([BGE 138 IV 13 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13), [BGE 119 IV 242 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_242)).
 
-**6** **Relative Bestimmtheit.** Der Gesetzgeber kann nicht darauf verzichten, allgemeine und mehr oder minder vage Begriffe zu verwenden, deren Auslegung und Anwendung der Praxis überlassen werden muss. Der Grad der erforderlichen Bestimmtheit lässt sich nicht abstrakt festlegen. Er hängt unter anderem von der Vielfalt der zu ordnenden Sachverhalte, von der Komplexität und der Vorhersehbarkeit der im Einzelfall erforderlichen Entscheidung, von den Normadressaten, von der Schwere des Eingriffs in Verfassungsrechte und von der erst bei der Konkretisierung im Einzelfall möglichen und sachgerechten Entscheidung ab ([BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4.1; [BGE 132 I 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_49) E. 6.2; [BGE 128 I 327](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_327) E. 4.2).
+**5** Das Bestimmtheitsgebot gilt jedoch relativ: Der Gesetzgeber kann nicht gänzlich auf auslegungsbedürftige Begriffe (wie «Täuschung», «sittenwidrig» oder «schwere Gefährdung») verzichten. Erforderlich ist, dass die Auslegung durch eine gefestigte Gerichtspraxis für die Betroffenen vorhersehbar wird ([BGE 138 IV 13 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13)).
 
-**7** **Kantonales Übertretungsstrafrecht.** Den Kantonen bleibt die Gesetzgebung über das Übertretungsstrafrecht insoweit vorbehalten, als es nicht Gegenstand der Bundesgesetzgebung ist (Art. 335 Abs. 1 StGB). Auch das kantonale Übertretungsstrafrecht muss dem Legalitätsprinzip genügen. Eine Norm, welche demjenigen Strafe androht, der "öffentlich Sitte und Anstand grob verletzt", genügt dem Bestimmtheitsgebot, da die Rechtsprechung Konkretisierungen vorgenommen hat, die den Tatbestand hinreichend bestimmt machen ([BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4).
+### 3. Analogieverbot zuungunsten des Beschuldigten (*nulla poena sine lege stricta*)
+**6** Richterliche Rechtsfortbildung durch Gesetzesanalogie zum Nachteil der beschuldigten Person ist strikt untersagt ([BGE 137 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_99)). Das Gericht darf Gesetzeslücken im materiellen Strafrecht nicht schliessen, selbst wenn ein Verhalten als grob unsozial oder strafwürdig erscheint ([BGE 145 IV 185 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_185)).
 
-### B. Analogieverbot
+**7** Vom Analogieverbot zu unterscheiden ist die **teleologische und weite Auslegung**: Eine Wortlautauslegung nach dem Sinn und Zweck der Norm ist zulässig, solange sie im äussersten möglichen Wortsinn des Gesetzes eine Stütze findet ([BGE 127 IV 198 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_198)). Eine Analogie zugunsten des Täters (*in bonam partem*) ist demgegenüber nicht durch Art. 1 StGB untersagt.
 
-**8** **Allgemeines.** Das Analogieverbot untersagt es dem Richter, Straftatbestände zu Lasten des Beschuldigten analog anzuwenden. Eine belastende Analogie im Strafrecht ist unzulässig; eine Analogie zugunsten des Beschuldigten (entschuldigend oder entlastend) ist hingegen zulässig (*interpretatio mitius*). Der Grundsatz schliesst eine extensive Auslegung des Gesetzes zu Lasten des Beschuldigten jedoch nicht aus ([BGE 137 IV 99](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_99) E. 1.2; [BGE 127 IV 198](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_198) E. 3b; [BGE 103 IV 129](https://mcp.opencaselaw.ch/entscheid/bge_BGE_103_IV_129) E. 3a; je mit Hinweisen in [BGE 138 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13) E. 4.1).
-
-### C. Rückwirkungsverbot
-
-**9** **Allgemeines.** Das Rückwirkungsverbot wird in Art. 2 StGB gesondert geregelt. Art. 2 Abs. 1 StGB verbietet die rückwirkende Anwendung eines strengeren Strafgesetzes, während Art. 2 Abs. 2 StGB das mildere Gesetz auf noch nicht rechtskräftig abgeschlossene Fälle anwendet (*lex mitior*).
-
-### D. Verbot der Gewohnheitsstrafrechtsschaffung
-
-**10** Strafgesetze können nicht durch Gewohnheitsrecht geschaffen werden. Gewohnheitsrecht kann höchstens zur Auslegung eines bestehenden Strafgesetzes herangezogen werden, nicht aber zur Begründung neuer Straftatbestände.
+### 4. Rückwirkungsverbot (*nulla poena sine lege praevia*)
+**8** Eine Tat kann nur nach dem Gesetz beurteilt werden, das im Zeitpunkt ihrer Begehung in Kraft stand. Die Rückwirkung strengerer Strafgesetze ist verboten; demgegenüber greift bei Gesetzesänderungen das Prinzip der *lex mitior* ([Art. 2 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_2)).
 
 ---
 
-## II. Anwendung im Einzelfall
+## III. Anwendungsbereich und Sonderkonstellationen
 
-### E. Bestimmtheit von Grenzwerten
+### 1. Verordnungsdelegation und Blankettstrafgesetze
+**9** Verweist eine Strafnorm auf verwaltungsrechtliche Verordnungen oder Regelwerke (sog. Blankettstrafrecht, z.B. im Umwelt-, Heilmittel- oder Strassenverkehrsrecht), verlangt das Legalitätsprinzip, dass die Strafandrohung und die wesentlichen Kriterien der Strafbarkeit im formellen Gesetz selbst enthalten sind ([BGer 6B_1025/2014 vom 9. Februar 2015 E. 1.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1025_2014)). Die Festlegung technischer Grenzwerte (wie z.B. THC-Grenzwerte auf Verordnungsebene) genügt dem Bestimmtheitsgebot, sofern die Leitlinien im Gesetz verankert sind ([BGE 147 IV 439 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_439)).
 
-**11** Das Legalitätsprinzip gebietet nicht, dass Strafnormen auf jeder denkbaren Anwendungsebene numerisch exakt sein müssen. Vielmehr genügen abstrakte Formulierungen, wenn sie durch die Rechtsprechung hinreichend konkretisiert worden sind. So hat das Bundesgericht anerkannt, dass die in Art. 2 Abs. 2 VRV festgelegte Nulltoleranz für THC im Strassenverkehr sowie die auf Verordnungsebene festgelegten Grenzwerte dem Bestimmtheitsgebot genügen, da der Gesetzgeber die massgeblichen Parameter im Gesetz hinreichend bestimmt hat ([BGE 147 IV 439](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_439) E. 3.1). Auch die in Art. 146 Abs. 1 StGB enthaltenen Begriffe der Täuschung und der Arglist genügen dem Bestimmtheitsgebot, da sie durch die Praxis des Bundesgerichts hinreichend konkretisiert sind ([BGE 147 IV 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_73) E. 7.1).
-
-### F. Strafrechtsähnliche Sanktionen
-
-**12** Das Legalitätsprinzip gilt nicht nur für das Kernstrafrecht, sondern auch für strafrechtsähnliche Sanktionen. Kartellrechtliche Sanktionen nach Art. 49a KG haben einen strafrechtlichen bzw. strafrechtsähnlichen Charakter, weshalb die Garantien von Art. 6 und 7 EMRK sowie von Art. 30 und 32 BV anwendbar sind ([BGE 139 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_72) E. 2). Das Bestimmtheitsgebot (*nulla poena sine lege certa*) ist Bestandteil des Legalitätsprinzips. Dieser Verfassungsgrundsatz, der ebenfalls von Art. 7 EMRK gewährleistet wird, bildet durch Übernahme des EMRK-Mindeststandards einen Bestandteil des schweizerischen Ordre public ([BGer 6P.62/2007](https://mcp.opencaselaw.ch/entscheid/bger_6P.62_2007) E. 3.5).
+### 2. Strafrechtsähnliche Sanktionen im Verwaltungsrecht
+**10** Die rechtsstaatlichen Garantien des Legalitätsprinzips und von [Art. 7 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#art_7) finden auch auf verwaltungsrechtliche Sanktionen mit strafrechtsähnlichem Charakter Anwendung (z.B. kartellrechtliche Sanktionen gemäss Art. 49a KG, vgl. [BGE 139 I 72 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_72)).
 
 ---
 
-## Rechtsprechung
+## IV. Kantonale Praxisfragen
 
-Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 1 StGB](rechtsprechung/)
+### 1. Bestimmtheit kantonaler Übertretungs- und Polizeinormen
+**11** Die Kantone besitzen gemäss [Art. 335 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_335) die Befugnis zur Regelung des kantonalen Übertretungsstrafrechts. In der kantonalen Gerichtspraxis stellt sich wiederholt die Frage nach der Bestimmtheit polizeilicher Generalklauseln und offener Strafbestimmungen (z.B. Bestrafung wegen «grober Verletzung von Sitte und Anstand» beim Nacktwandern). Das Bundesgericht erachtet solche Generalklauseln als verfassungskonform, sofern die richterliche Praxis die Tatbestandsgrenzen präzisiert hat ([BGE 138 IV 13 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_13), [BGE 128 I 327 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_I_327)).
 
----
-
-## Literatur (Spezialliteratur)
-
-DONATSCH, ANDREAS / WOHLERS, WOLFGANG / HELBER, MARCEL, Strafrecht I, 10. Aufl. 2023
-
-GRAF, MARKUS, StGB Kommentar, 3. Aufl. 2020, N. 1 ff. zu Art. 1 StGB
-
-PIGNONE, ANDREA / ALBERIGO, LORENZO, Basler Kommentar, StGB I, Art. 1–110, N. 1 ff. zu Art. 1 StGB
-
-POPP / LEVANTE, Basler Kommentar, Strafrecht I, 2. Aufl. 2007, N. 1 ff. zu Art. 1 StGB
-
-STRATENWERTH, GÜNTHER / BOMMER, FELIX, Schweizerisches Strafrecht, Allgemeiner Teil I, 4. Aufl. 2017
-
-TRECHSEL, STEPHAN, Schweizerisches Strafgesetzbuch, Kurzkommentar, 2. Aufl. 1997
+### 2. Grenzen richterlicher Lückenfüllung im kantonalen Strafverfahren
+**12** Kantonale Gerichte dürfen bei unklaren Strafbestimmungen oder neuen Sachverhaltskonstellationen keine eigenmächtige Lückenschliessung vornehmen. Bestehen begründete Zweifel über die Erfassung eines Verhaltens durch den Wortlaut, greift das Analogieverbot zugunsten der beschuldigten Person (vgl. [Obergericht ZH SB160005 vom 16. Januar 2018](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB160005)).
 
 ---
 
-Zuletzt aktualisiert: 2026-05-15 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-001/_index.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+1+StGB)
+## V. Literatur
+
+- **DONATSCH/THOMMEN/WOHLERS**, Strafrecht I: Verbrechenslehre, 10. Aufl., Zürich/Basel/Genf 2022, § 2.
+- **NIGGLI/WIPRÄCHTIGER** (Hrsg.), Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 4. Aufl., Basel 2019, Art. 1.
+- **STRATENWERTH/WOHLERS**, Schweizerisches Strafgesetzbuch: Handkommentar, 4. Aufl., Bern 2020, Art. 1.
+- **TRECHSEL/PIETH** (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 1.
