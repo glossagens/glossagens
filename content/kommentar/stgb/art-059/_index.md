@@ -1,130 +1,100 @@
 ---
-title: "Art. 59 — Stationäre therapeutische Massnahme"
+title: "Art. 59 StGB — Stationäre Behandlung von psychischen Störungen"
 weight: 59
 date: 2026-06-05
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 59 StGB – Stationäre therapeutische Massnahme: Voraussetzungen, Unterbringung, Vollzug und Verhältnis zu Art. 58 und Art. 64 StGB"
-tags: ["StGB", "therapeutische Massnahme", "Sanktionenrecht", "Massnahmenvollzug", "Unterbringung", "Behandlung"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen, Anordnungsvoraussetzungen, Vollzugsregime, Höchstdauer und Verlängerung."
+tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach C-Audit: 5 halluzinierte BGE-Zitate entfernt; Belege, Dogmatik und Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit KW33: Art. 59: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
+    note: "Audit KW33"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 59 StGB — Stationäre therapeutische Massnahme**
+> **Art. 59 StGB — Stationäre Behandlung von psychischen Störungen**
 >
-> 1 Ist der Täter psychisch schwer gestört, so kann das Gericht eine stationäre Behandlung anordnen, wenn: a. der Täter ein Verbrechen oder Vergehen begangen hat, das mit seiner psychischen Störung in Zusammenhang steht; und b. zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit seiner psychischen Störung in Zusammenhang stehender Taten begegnen.
+> 1 Ist der Täter psychisch schwer gestört, so kann das Gericht eine stationäre Behandlung anordnen, wenn:
+> a. der Täter ein Verbrechen oder Vergehen begangen hat, das mit seiner psychischen Störung in Zusammenhang steht; und
+> b. zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit seiner psychischen Störung in Zusammenhang stehender Taten begegnen.
 >
 > 2 Die stationäre Behandlung erfolgt in einer geeigneten psychiatrischen Einrichtung oder einer Massnahmevollzugseinrichtung.
 >
-> 3 Solange die Gefahr besteht, dass der Täter flieht oder weitere Straftaten begeht, wird er in einer geschlossenen Einrichtung behandelt. Er kann auch in einer Strafanstalt nach Artikel 76 Absatz 2 behandelt werden, sofern die nötige therapeutische Behandlung durch Fachpersonal gewährleistet ist.
+> 3 Solange die Gefahr besteht, dass der Täter flieht oder weitere Straftaten begeht, wird er in einer geschlossenen Einrichtung behandelt. Er kann auch in einer Strafanstalt nach Artikel 76 Absatz 2 behandelt werden, sofern die nötige therapeutische Behandlung durch Fachpersonal gewährleistet ist.
 >
-> 4 Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel höchstens fünf Jahre. Sind die Voraussetzungen für die bedingte Entlassung nach fünf Jahren noch nicht gegeben und ist zu erwarten, durch die Fortführung der Massnahme lasse sich der Gefahr weiterer mit der psychischen Störung des Täters in Zusammenhang stehender Verbrechen und Vergehen begegnen, so kann das Gericht auf Antrag der Vollzugsbehörde die Verlängerung der Massnahme um jeweils höchstens fünf Jahre anordnen.
+> 4 Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel höchstens fünf Jahre. Sind die Voraussetzungen für die bedingte Entlassung nach fünf Jahren noch nicht gegeben und ist zu erwarten, durch die Fortführung der Massnahme lasse sich der Gefahr weiterer mit der psychischen Störung des Täters in Zusammenhang stehender Verbrechen und Vergehen begegnen, so kann das Gericht auf Antrag der Vollzugsbehörde die Verlängerung der Massnahme um jeweils höchstens fünf Jahre anordnen.
 
+---
 
-## 1. Bedeutung und systematischer Zusammenhang
+## I. Überblick und systematische Einordnung
 
-Art. 59 StGB regelt die wichtigste therapeutische Massnahme des Schweizer Sanktionenrechts: die stationäre therapeutische Unterbringung von Straftätern, deren Tat auf ein schweres psychisches Leiden oder eine schwere Persönlichkeitsstörung zurückzuführen ist. Die Norm bildet das Fundament des sogenannten «dualen Systems», bei dem Strafe und Massnahme nebeneinander stehen und nach unterschiedlichen Gesichtspunkten vollzogen werden (BGE 144 IV 285 E. 5.1; BGE 146 IV 161 E. 2.2).
+### 1. Zentrales Instrument des therapeutischen Massnahmenrechts
+**1** Art. 59 StGB regelt die stationäre therapeutische Massnahme für psychisch schwer gestörte Straftäter. Sie bildet das Herzstück des schweizerischen Massnahmenrechts und folgt dem dualistisch-vikariierenden System: Neben einer schuldangemessenen Strafe kann das Gericht eine therapeutische Massnahme anordnen, wobei der Vollzug der Freiheitsstrafe zugunsten der Massnahme aufgeschoben wird ([Art. 57 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_57)).
 
-Die stationäre therapeutische Massnahme nach Art. 59 StGB unterscheidet sich fundamental von der sicherungsverwahrenden Unterbringung nach Art. 64 StGB: Während Art. 64 auf der Gefährdungsprognose ohne Behandlungsbezug beruht und rein sichernden Charakter hat, zielt Art. 59 auf die **Heilung oder Besserung** des Täters ab. Die Massnahme soll die Gefahr weiterer Taten **mindern**, nicht bloss den Täter von der Gesellschaft fernhalten (BGE 137 IV 46 E. 4.2; BGE 144 IV 271 E. 3.2).
+### 2. Zweck und Abgrenzung zur Verwahrung (Art. 64 StGB)
+**2** Primäres Ziel der Massnahme nach Art. 59 StGB ist die **Heilung oder Besserung** des Täters zur Beseitigung oder deutlichen Verringerung der Rückfallgefahr. Im Gegensatz zur sichernden Verwahrung ([Art. 64 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_64)) setzt Art. 59 StGB zwingend eine **Therapiefähigkeit und -bedürftigkeit** voraus ([BGE 140 IV 1 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_1)). Fehlt jede realistische Behandlungsperspektive, ist die Massnahme unzulässig und darf nicht als Surrogat einer Verwahrung angeordnet werden ([BGer 6B_68/2016 vom 28. November 2016 E. 4.4.6](https://mcp.opencaselaw.ch/entscheid/bger_6B_68_2016)).
 
-Die Revision durch das Massnahmenrevisionsgesetz vom 21. Dezember 2007 (in Kraft seit 1. Januar 2011) hat Art. 59 grundlegend neu gefasst. Die heutige Fassung betont den therapeutischen Ansatz deutlicher als die Vorgängernorm und hat das Vollzugsregime inhaltlich verändert — insbesondere durch die Regelung des Vollzugs in einer Strafanstalt als Ultima Ratio (Abs. 3) und die ausdrückliche Begrenzung des Freiheitsentzugs auf in der Regel höchstens fünf Jahre mit Verlängerungsmöglichkeit (Abs. 4).
+---
 
-## 2. Tatbestandsmerkmale
+## II. Materielle Anordnungsvoraussetzungen (Abs. 1)
 
-### I. Schweres psychisches Leiden oder schwere Persönlichkeitsstörung (Abs. 1)
+Die Anordnung einer stationären Behandlung erfordert die kumulative Erfüllung folgender Voraussetzungen:
 
-**a) Schweres psychisches Leiden.** Art. 59 Abs. 1 lit. a StGB setzt voraus, dass die Tat auf ein **schweres psychisches Leiden** oder eine **schwere Persönlichkeitsstörung** zurückzuführen ist. Der Begriff des «schweren psychischen Leidens» setzt eine diagnostizierbare psychische Störung im Sinne der anerkannten Klassifikationssysteme (ICD-10, DSM-5) voraus, die das Verhalten des Täters massgeblich beeinflusst hat. Das Bundesgericht verlangt eine **Kausalitätsprüfung** im Einzelfall: Das Leiden muss für die Tatausführung kausal mitgewirkt haben (BGE 144 IV 271 E. 3.1; BGer 7B_1360/2025 E. 3.2).
+### 1. Schwere psychische Störung
+**3** Der Täter muss an einer **schweren psychischen Störung** (Geisteskrankheit, schwere Persönlichkeitsstörung oder organische Hirnschädigung nach ICD/DSM) leiden. Die Diagnose muss durch ein unabhängiges psychiatrisches Sachverständigengutachten ([Art. 56 Abs. 3 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_56)) fundiert nachgewiesen sein ([BGE 134 IV 315 E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_315)).
 
-**b) Schwere Persönlichkeitsstörung.** Nicht jedes abnormales Verhalten genügt; die Persönlichkeitsstörung muss «schwer» sein. Das Bundesgericht unterscheidet zwischen abweichendem Verhalten und pathologischen Störungen. Rein dissoziale oder psychopathische Verhaltensmuster ohne tiefgreifende strukturelle Störung erfüllen das Tatbestandsmerkmal nicht ohne weiteres (BGE 137 IV 46 E. 4.3; BGer 7B_1360/2025 E. 3.3).
+### 2. Anlasstat und Kausalzusammenhang (lit. a)
+**4** Der Täter muss ein **Verbrechen oder Vergehen** begangen haben, das in einem direkten kausalen Zusammenhang mit der festgestellten psychischen Störung steht (sog. symptomatische Anlasstat).
 
-**c) Rückführbarkeit der Tat.** Die Tat muss **auf** das Leiden oder die Störung zurückzuführen sein. Dies setzt einen Kausalzusammenhang zwischen der psychischen Störung und der konkreten Tat voraus. Nicht ausreichend ist ein blosser zeitlicher Zusammenhang; das Leiden muss die Tat **motiviert** oder **ermöglicht** haben (BGE 146 IV 161 E. 3.1).
+### 3. Erfolgsprognose / Therapiefähigkeit (lit. b)
+**5** Es muss die begründete Erwartung bestehen, dass sich durch die stationäre Behandlung die Gefahr weiterer mit der psychischen Störung zusammenhängender Straftaten über einen Zeitraum von fünf Jahren deutlich verringern lässt ([BGE 134 IV 315 E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_315)). Eine blosse vage Hoffnung genügt nicht; erforderlich ist eine hinreichende Erfolgswahrscheinlichkeit ([BGer 6B_543/2015 vom 10. Dezember 2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_543_2015); [BGer 6B_100/2017 vom 9. März 2017 E. 5.7](https://mcp.opencaselaw.ch/entscheid/bger_6B_100_2017)).
 
-### II. Hohe Wahrscheinlichkeit weiterer schwerer Straftaten (Abs. 1 lit. a)
+---
 
-**a) Gefährlichkeitsprognose.** Das Gericht muss mit **hoher Wahrscheinlichkeit** den Eintritt weiterer schwerer Straftaten prognostizieren. Die Gefährlichkeitsprognose stützt sich auf eine interdisziplinäre Begutachtung (Art. 56 Abs. 3 StGB) und berücksichtigt sämtliche relevanten Faktoren: Vorstrafen, Tatbegehungsweise, Kooperationsbereitschaft, therapeutische Ansprechbarkeit und soziale Einbindung (BGE 144 IV 285 E. 5.3).
+## III. Vollzugsregime und Unterbringung (Abs. 2 und 3)
 
-**b) Schwere Straftaten.** Nicht jede mögliche Wiederholungstat genügt; es müssen **schwere** Straftaten drohen. Das Bundesgericht interpretiert «schwer» im Sinne von Verbrechen und Vergehen mit hoher Kriminalitätsschwere, namentlich Gewaltstraftaten gegen Leib und Leben (BGE 137 IV 46 E. 4.4).
+### 1. Vollzugseinrichtungen (Abs. 2)
+**6** Die Massnahme wird grundsätzlich in einer geeigneten psychiatrischen Klinik oder einer spezialisierten Massnahmevollzugseinrichtung vollzogen ([Art. 59 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_59)).
 
-**c) Zusammenhang mit dem Leiden.** Die wahrscheinlichen weiteren Straftaten müssen **auf das Leiden oder die Störung zurückzuführen** sein. Dieser Kausalzusammenhang ist eine eigenständige Voraussetzung, die über die allgemeine Gefährlichkeitsprognose hinausgeht.
+### 2. Geschlossener Vollzug und Unterbringung in einer Strafanstalt (Abs. 3)
+**7** Besteht Flucht- oder Wiederholungsgefahr, wird die Behandlung in einer **geschlossenen Einrichtung** durchgeführt. Ausnahmsweise kann der Vollzug auch in einer Strafanstalt ([Art. 76 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_76)) erfolgen, sofern die erforderliche therapeutische Behandlung durch psychiatrisches Fachpersonal gewährleistet ist. 
 
-### III. Eignung der Massnahme (Abs. 1 lit. b)
+**8** Die Entscheidung über die konkrete Unterbringung in einer offenen oder geschlossenen Anstalt stellt eine Vollzugsfrage dar, die in die Zuständigkeit der kantonalen Vollzugsbehörden fällt ([BGE 142 IV 1 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_1)).
 
-Die Massnahme muss **geeignet** sein, die Gefahr weiterer Taten zu mindern. Die Eignung ist eine objektive Prognose: Kann die therapeutische Behandlung in einer geeigneten Einrichtung die Rückfallgefahr tatsächich reduzieren? (BGE 144 IV 271 E. 3.3.) Die Eignungsvoraussetzung dient als Filter gegen nicht-therapeutische Unterbringungen, die besser unter Art. 64 StGB (Sicherungsverwahrung) einzuordnen wären.
+---
 
-### IV. Verhältnismässigkeit
+## IV. Dauer, Überprüfung und Verlängerung (Abs. 4)
 
-Schliesslich muss die Massnahme **verhältnismässig** sein (Art. 56 Abs. 2 StGB). Der Freiheitsentzug durch die stationäre Unterbringung muss im Verhältnis zur Schwere der Tat und zur Gefährdung stehen. Bei prognostisch günstiger Therapieprognose ist die Massnahme eher verhältnismässig als bei therapierefraktären Fällen.
+### 1. Regelhöchstdauer von fünf Jahren
+**9** Der mit der stationären Massnahme verbundene Freiheitsentzug beträgt in der Regel **höchstens fünf Jahre** ([Art. 59 Abs. 4 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_59)). Die Vollzugsbehörde hat jährlich von Amtes wegen zu prüfen, ob die Voraussetzungen für eine bedingte Entlassung ([Art. 62 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62)) vorliegen ([Art. 62d Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62d)).
 
-## 3. Vollzugsmodalitäten
+### 2. Gerichtliche Verlängerung
+**10** Sind die Voraussetzungen für eine bedingte Entlassung nach fünf Jahren noch nicht erfüllt und lässt sich der Gefährlichkeit durch die Weiterführung der Therapie begegnen, kann das zuständige Gericht auf Antrag der Vollzugsbehörde die Massnahme um jeweils **höchstens fünf Jahre verlängern** ([Art. 59 Abs. 4 Satz 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_59)).
 
-### I. Unterbringung in einer Spezialeinrichtung (Abs. 2)
+---
 
-Der Regelfall sieht die Unterbringung in einer **eigens dafür eingerichteten Einrichtung** oder einer **geeigneten Abteilung einer Anstalt** vor (Art. 59 Abs. 2 StGB). Diese Einrichtungen müssen fachärztlich geleitet sein, über therapeutisch geschultes Personal verfügen und eine adäquate Behandlung gewährleisten. In der Schweiz bestehen kantonale und interkantonale forensisch-psychiatrische Einrichtungen (z.B. die Klinik Münsterlingen, die UPK Basel, das ZFP Liestal).
+## V. Kantonale Praxisfragen
 
-### II. Vollzug in einer Strafanstalt — Art. 59 Abs. 3 als lex specialis zu Art. 58 Abs. 2 (Abs. 3)
+### 1. Vorzeitiger Massnahmenantritt im kantonalen Strafverfahren
+**11** In der kantonalen Praxis wird häufig von der Möglichkeit des vorzeitigen Massnahmenantritts Gebrauch gemacht. Die während des vorzeitigen Vollzugs gemachten therapeutischen Verlaufsbeobachtungen dienen dem Sachgericht als wertvolle Entscheidungshilfe bei der Beurteilung der Therapiewilligkeit und der Erfolgsprognose nach Art. 59 StGB ([BGE 136 IV 70 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_70)).
 
-**a) Ultima-Ratio-Prinzip.** Art. 59 Abs. 3 StGB erlaubt den Vollzug der stationären therapeutischen Massnahme in einer **Strafanstalt**, wenn der Vollzug in einer Spezialeinrichtung nicht möglich oder nicht angebracht ist. Dieser Ausnahmetatbestand unterliegt **strengen Voraussetzungen**:
+### 2. Massnahmenanordnung bei schuldunfähigen Tätern und Aufhebung wegen Aussichtslosigkeit
+**12** Bei schuldunfähigen Personen ([Art. 19 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_19)) kann eine stationäre Massnahme nach Art. 59 StGB auch dann angeordnet werden, wenn die fehlende Rechtswidrigkeit gerade auf der wahnhaften Störung beruht (vgl. [Gericht LU 4M 20 51 vom 14. Januar 2021](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_4M_20_51)). Erweist sich die Massnahme im Vollzug nach wiederholten Versuchen als endgültig aussichtslos, ist sie durch die zuständige kantonale Behörde aufzuheben ([Verwaltungsgericht ZH VB.2016.00040 vom 8. Februar 2016](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht_VB.2016.00040)).
 
-Nach der Rechtsprechung sind die Voraussetzungen für den Vollzug in einer Strafanstalt **mit besonderer Sorgfalt** zu prüfen. Es genügt nicht, dass eine Strafanstalt über eine medizinische Abteilung verfügt; vielmehr muss eine **geeignete Behandlung durch Fachpersonal** gewährleistet sein. BGer 7B_1360/2025 bestätigt, dass Art. 59 Abs. 3 StGB **lex specialis zu Art. 58 Abs. 2 StGB** ist und dass die Unterbringung in der Strafanstalt bei gewährleisteter Behandlung durch Fachpersonal EMRK-konform ist.
+---
 
-**b) Verhältnis zu Art. 58 Abs. 2 StGB.** Art. 58 Abs. 2 StGB verankert das **Trennungsgebot**, wonach die therapeutischen Einrichtungen vom Strafvollzug getrennt zu führen sind. Art. 59 Abs. 3 StGB lässt hiervon eine Ausnahme zu, indem er den Vollzug der stationären Behandlung unter eingeschränkten Voraussetzungen in einer Strafanstalt erlaubt; insoweit geht die spezielle Regelung von Art. 59 Abs. 3 StGB dem Trennungsgebot vor (vgl. BGer 7B_1360/2025).
+## VI. Literatur
 
-**c) EMRK-Konformität.** Die Unterbringung in einer Strafanstalt unter therapeutischen Massstabgebungen ist EMRK-konform, wenn das Therapieziel dominiert und Fachpersonal die Behandlung verantwortet. Das Bundesgericht verlangt in ständiger Praxis, dass die Strafanstalt besondere forensisch-psychiatrische Abteilungen und Therapieangebote vorhält (BGE 146 IV 161 E. 4.2; BGer 7B_1360/2025 E. 4.1).
-
-### III. Beendigung des Anstaltsvollzugs (Abs. 4)
-
-Art. 59 Abs. 4 StGB ordnet zwingend an, dass der Vollzug in einer Strafanstalt **zu beenden** ist, sobald eine Unterbringung in einer geeigneten Einrichtung möglich wird. Diese Vorschrift unterstreicht den Exceptioncharakter des Strafanstaltvollzugs und verpflichtt die Vollzugsbehörde, kontinuierlich nach einer adäquaten Therapieeinrichtung zu suchen.
-
-### IV. Höchstdauer und Verlängerung (Abs. 4)
-
-Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel **höchstens fünf Jahre** (Abs. 4). Sind die Voraussetzungen für die bedingte Entlassung nach Ablauf dieser Frist noch nicht gegeben und ist zu erwarten, dass sich durch die Fortführung der Massnahme der Gefahr weiterer mit der psychischen Störung zusammenhängender Verbrechen und Vergehen begegnen lässt, so kann das Gericht auf Antrag der Vollzugsbehörde die Massnahme um jeweils **höchstens fünf Jahre verlängern**. Die fünfjährige Regelhöchstdauer ist Ausdruck des Verhältnismässigkeitsgrundsatzes; eine Verlängerung verlangt eine erneute, sorgfältig begründete Gefährlichkeits- und Therapieprognose (vgl. BGE 144 IV 285).
-
-## 4. Abgrenzungen
-
-### I. Art. 59 StGB vs. Art. 64 StGB (Sicherungsverwahrung)
-
-| Merkmal | Art. 59 StGB | Art. 64 StGB |
-|---------|-------------|-------------|
-| Ziel | Heilung/Besserung | Sicherung der Öffentlichkeit |
-| Voraussetzung | Therapiemotivation/-fähigkeit | Fortbestehende Gefährdung |
-| Dauer | Bis zur Heilung/Entlassung | Unbegrenzt (mit Überprüfung) |
-| Vollzug | Spezialeinrichtung (prioritär) | Strafanstalt (Ultima Ratio) |
-
-Art. 59 ist die **therapeutische Alternative** zur Sicherungsverwahrung. Besteht keine realistische Therapieaussicht, kommt nur Art. 64 StGB in Betracht (BGE 137 IV 46 E. 4.5).
-
-### II. Art. 59 StGB vs. Art. 63 StGB (ambulante Behandlung)
-
-Art. 63 StGB regelt die **ambulante** therapeutische Massnahme, die nur bei vergleichsweise geringer Gefährdung in Betracht kommt. Art. 59 StGB setzt eine **stationäre** Unterbringung voraus. Die ambulante Behandlung setzt voraus, dass der Täter nicht zwingend stationär untergebracht werden muss, um weitere Taten zu vermeiden (BGE 146 IV 161 E. 2.3).
-
-### III. Art. 59 Abs. 3 StGB vs. Art. 58 Abs. 2 StGB
-
-Wie BGer 7B_1360/2025 klarstellt, geht Art. 59 Abs. 3 StGB als speziellere Regelung dem **Trennungsgebot** von Art. 58 Abs. 2 StGB vor: Der therapeutisch begründete Vollzug in einer Strafanstalt ist trotz des Grundsatzes der Trennung von Straf- und Massnahmenvollzug zulässig, sofern die nötige Behandlung durch Fachpersonal gewährleistet ist.
-
-## 5. Beendigung und Überprüfung
-
-### I. Regelmässige Überprüfung
-
-Die zuständige Behörde prüft auf Gesuch oder von Amtes wegen, ob und wann der Täter bedingt aus dem Massnahmenvollzug zu entlassen oder die Massnahme aufzuheben ist; sie fasst darüber mindestens einmal jährlich einen Beschluss (Art. 62d Abs. 1 StGB).
-
-### II. Bedingte Entlassung
-
-Der Täter wird aus dem stationären Vollzug bedingt entlassen, sobald sein Zustand es rechtfertigt, dass ihm Gelegenheit gegeben wird, sich in der Freiheit zu bewähren (Art. 62 Abs. 1 StGB). Die Probezeit beträgt ein bis fünf Jahre; für ihre Dauer kann Bewährungshilfe angeordnet und können Weisungen erteilt werden (Art. 62 Abs. 2 und 3 StGB).
-
-### III. Aufhebung
-
-Die Massnahme ist aufzuheben, wenn ihre Durchführung oder Fortsetzung als aussichtslos erscheint oder wenn ihre Voraussetzungen weggefallen sind (Art. 56 Abs. 6 StGB). Dies gilt namentlich, wenn keine Rückfallgefahr mehr besteht.
-
-## Literatur
-
-- DONATSCH ANDREAS, TAG BRUNO WERVO SCHWEIZER, Strafrecht III, Strafen und Massnahmen, 9. Aufl., Zürich 2020
-- GLESS SABINE, MONTEAGUDO HEGEMANN VICKI, Strafprozessrecht, 4. Aufl., Bern 2022
-- TRECHSEL STEPHAN, Schweizerisches Strafgesetzbuch, Praxiskommentar, 3. Aufl., Zürich/Basel/Genf 2018
-- BGE 144 IV 285 (Voraussetzungen stationäre therapeutische Massnahme)
-- BGE 146 IV 161 (Gefährlichkeitsprognose)
-- BGE 137 IV 46 (Abgrenzung Art. 59 vs. Art. 64 StGB)
+- **HEER**, Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 4. Aufl., Basel 2019, Art. 59.
+- **SCHWARZENEGGER/HUG/JOSITSCH**, Strafrecht II: Strafen und Massnahmen, 9. Aufl., Zürich/Basel/Genf 2021, § 8.
+- **STRATENWERTH/WOHLERS**, Schweizerisches Strafgesetzbuch: Handkommentar, 4. Aufl., Bern 2020, Art. 59.
+- **TRECHSEL/CONINX** (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 59.
