@@ -240,6 +240,7 @@ def norm(s):
     s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
     s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
     s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s) # "329 g" -> "329g", "257 d" -> "257d"
+    s = re.sub(r"\b([a-z])\s+(bis|ter|quater|quinquies)\b", r"\1\2", s) # "a bis" -> "abis"
     s = re.sub(r"\berforder\s+lichen\b", "erforderlichen", s) # OCR-Split-Fix
     s = re.sub(r"\bgesamt\s+strafe\b", "gesamtstrafe", s, flags=re.I) # Fedlex-Typo-Fix
     s = re.sub(r"\s+", " ", s)
