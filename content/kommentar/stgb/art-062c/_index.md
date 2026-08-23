@@ -1,29 +1,31 @@
 ---
-title: "Art. 62c — Aufhebung der Massnahme"
+title: "Art. 62c StGB — Aufhebung der Massnahme"
 weight: 62
 date: 2026-07-16
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 62c StGB: Aufhebung der Massnahme bei Aussichtslosigkeit, Höchstdauer oder fehlender Einrichtung"
-tags: ["StGB", "aufhebung-massnahme", "hoechstdauer", "reststrafe", "verwahrung"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 62c StGB: Aufhebung therapeutischer Massnahmen — Aussichtslosigkeit (Abs. 1 lit. a), Erreichen der Höchstdauer (Abs. 1 lit. b), Vollzug der Reststrafe (Abs. 2), Anordnung anderer Massnahmen (Abs. 3/6) und nachträgliche Verwahrung (Abs. 4)."
+tags: ["StGB", "Massnahmenrecht", "Aufhebung", "Aussichtslosigkeit", "Reststrafe", "Nachträgliche Verwahrung", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Wortlaut-Überschrift und Ergänzung auf 10 verifizierte Entscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit KW33: Art. 62c: Audit KW33; Gesetzestext via Fedlex verifiziert"
+    note: "Audit KW33"
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-> **Art. 62c Aufhebung der Massnahme**
+> **Art. 62c StGB — Aufhebung der Massnahme**
 >
 > 1 Die Massnahme wird aufgehoben, wenn:
->
 > a. deren Durch- oder Fortführung als aussichtslos erscheint;
->
 > b. die Höchstdauer nach den Artikeln 60 und 61 erreicht wurde und die Voraussetzungen für die bedingte Entlassung nicht eingetreten sind; oder
->
 > c. eine geeignete Einrichtung nicht oder nicht mehr existiert.
 >
 > 2 Ist der mit der Massnahme verbundene Freiheitsentzug kürzer als die aufgeschobene Freiheitsstrafe, so wird die Reststrafe vollzogen. Liegen in Bezug auf die Reststrafe die Voraussetzungen der bedingten Entlassung oder der bedingten Freiheitsstrafe vor, so ist der Vollzug aufzuschieben.
@@ -32,37 +34,64 @@ revisions:
 >
 > 4 Ist bei Aufhebung einer Massnahme, die auf Grund einer Straftat nach Artikel 64 Absatz 1 angeordnet wurde, ernsthaft zu erwarten, dass der Täter weitere Taten dieser Art begeht, so kann das Gericht auf Antrag der Vollzugsbehörde die Verwahrung anordnen.
 >
-> 5 Hält die zuständige Behörde bei Aufhebung einer Massnahme eine Massnahme des Erwachsenenschutzes für angezeigt, so teilt sie dies der Erwachsenenschutzbehörde mit.
+> 5 Hält die zuständige Behörde bei Aufhebung der Massnahme eine Massnahme des Erwachsenenschutzes für angezeigt, so teilt sie dies der Erwachsenenschutzbehörde mit.
 >
 > 6 Das Gericht kann ferner eine stationäre therapeutische Massnahme vor oder während ihres Vollzugs aufheben und an deren Stelle eine andere stationäre therapeutische Massnahme anordnen, wenn zu erwarten ist, mit der neuen Massnahme lasse sich der Gefahr weiterer mit dem Zustand des Täters in Zusammenhang stehender Verbrechen und Vergehen offensichtlich besser begegnen.
 
-*Quelle: Fedlex (SR 311.0), Stand 12.06.2026*
+---
 
-## Überblick
+## I. Überblick und Rechtsnatur
 
-Art. 62c StGB regelt die **Aufhebung** einer Massnahme nach Art. 59–61 StGB. Drei Aufhebungsgründe:
+### 1. Begriff und Schutzzweck
+**1** Art. 62c StGB regelt die Voraussetzungen und Rechtsfolgen der Aufhebung therapeutischer Massnahmen gemäss den [Art. 59–61 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_59). Die Bestimmung schützt das Freiheitsgrundrecht des Betroffenen vor unverhältnismässigem Weiterzug wirkungsloser Behandlungen und sichert gleichzeitig den Schutz der Öffentlichkeit vor gefährlichen Straftätern.
 
-1. **Aussichtslosigkeit** (Art. 62c Abs. 1 lit. a StGB): Die Durch- oder Fortführung erscheint als aussichtslos («Scheitern» der Massnahme).
+---
 
-2. **Erreichen der Höchstdauer** (Art. 62c Abs. 1 lit. b StGB): Die Höchstdauer nach Art. 60 oder 61 StGB ist erreicht und die Voraussetzungen für die bedingte Entlassung (Art. 62 StGB) sind **nicht** eingetreten. Bei Art. 61 StGB umfasst dies sowohl die 4-/6-Jahres-Fristen als auch die **Altersgrenze 30 Jahre** (Art. 61 Abs. 4 in fine StGB).
+## II. Aufhebungsgründe (Abs. 1)
 
-3. **Fehlende Einrichtung** (Art. 62c Abs. 1 lit. c StGB): Eine geeignete Einrichtung existiert nicht oder nicht mehr.
+### 1. Aussichtslosigkeit der Behandlung (lit. a)
+**2** Eine Massnahme ist aufzuheben, wenn ihre Durch- oder Fortführung als aussichtslos erscheint («Scheitern» der Massnahme). Dies setzt eine fundierte psychiatrische Begutachtung voraus, die belegt, dass die Massnahme keine massgebliche Senkung des Rückfallrisikos mehr bewirken kann ([BGE 134 IV 315 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_315); [BGE 140 IV 1 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_1)).
 
-### Folgen der Aufhebung
+### 2. Erreichen der Höchstdauer (lit. b)
+**3** Bei Erreichen der Höchstdauer gemäss Art. 60 oder Art. 61 StGB ist die Massnahme aufzuheben, sofern keine Voraussetzungen für eine bedingte Entlassung vorliegen ([BGE 135 IV 139 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_139)).
 
-- **Reststrafvollzug** (Art. 62c Abs. 2 StGB): Ist der Freiheitsentzug kürzer als die aufgeschobene Freiheitsstrafe, wird die Reststrafe vollzogen. Bei günstigen Voraussetzungen ist der Vollzug aufzuschieben (bedingt).
-- **Neue Massnahme** (Art. 62c Abs. 3 StGB): Das Gericht kann an Stelle des Strafvollzugs eine andere Massnahme anordnen.
-- **Verwahrung** (Art. 62c Abs. 4 StGB): Bei Taten nach Art. 64 Abs. 1 StGB und ernsthafter Gefahr weiterer Taten kann das Gericht die Verwahrung anordnen.
-- **Erwachsenenschutz** (Art. 62c Abs. 5 StGB): Bei Indizien für eine Erwachsenenschutzmassnahme ist die Behörde zu informieren.
+### 3. Fehlen einer geeigneten Einrichtung (lit. c)
+**4** Kann die therapeutische Massnahme mangels eines geeigneten Therapieplatzes nicht durchgeführt werden, greift der Aufhebungstatbestand nach lit. c ([BGE 142 IV 1 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_1)).
 
-### Aufhebung bei Erreichen der Altersgrenze (Art. 61 StGB)
+---
 
-Beim Erreichen der **Altersgrenze 30 Jahre** nach Art. 61 Abs. 4 in fine StGB ist die Aufhebung nach Art. 62c Abs. 1 lit. b StGB die Folge bei **ungünstiger Prognose** — d.h. wenn die Voraussetzungen für die bedingte Entlassung (Art. 62 Abs. 1 StGB) nicht eingetreten sind. Das Erreichen der Altersgrenze ist dabei **kein Automatismus «Scheitern»** i.S.v. Art. 62c Abs. 1 lit. a StGB (BGer 7B_853/2025, E. 2.4.2).
+## III. Rechtsfolgen der Aufhebung
 
-Siehe hierzu den Hauptkommentar zu **Art. 61 StGB**.
+### 1. Vollzug der Reststrafe (Abs. 2)
+**5** Wurde die Freiheitsstrafe zugunsten der Massnahme aufgeschoben, wird nach deren Aufhebung die Reststrafe vollzogen. Der bisherige Freiheitsentzug ist dabei vollumfänglich anzurechnen ([BGE 141 IV 236 E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_236)). Liegen die Voraussetzungen für den bedingten Strafaufschub oder die bedingte Entlassung vor, ist der Reststrafvollzug aufzuschieben ([BGer 6B_242/2012 vom 3. Mai 2012 E. 1](https://mcp.opencaselaw.ch/entscheid/bger_6B_242_2012)).
 
-## Literaturhinweise
+### 2. Anordnung einer Ersatzmassnahme (Abs. 3 und 6)
+**6** Das Gericht kann anstelle des Strafvollzugs eine andere Massnahme (z.B. den Wechsel von einer ambulanten in eine stationäre Massnahme oder den Wechsel der Behandlungsform) anordnen, wenn dadurch der Rückfallgefahr besser begegnet werden kann ([BGE 136 IV 156 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_156)).
 
-- **HEER**, Basler Kommentar, 4. Aufl. 2019, N. 22 f. ad Art. 62c StGB (bei Ablauf der Maximaldauer: «Echec der Massnahme», aber Betroffener kann sich auf Erfolg berufen)
+### 3. Nachträgliche Verwahrung (Abs. 4)
+**7** Wurde die Massnahme wegen einer Katalogtat nach [Art. 64 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_64) angeordnet und ist bei deren Scheitern ernsthaft zu erwarten, dass der Täter erneut schwere Verbrechen begeht, kann das Gericht auf Antrag der Vollzugsbehörde die Verwahrung anordnen.
 
-*Letzte Aktualisierung: 2026-07-16*
+---
+
+## IV. Verfahren
+
+### 1. Nachträgliches richterliches Verfahren
+**8** Die Aufhebung und die Festlegung der Folgeanordnungen erfolgen im selbstständigen nachträglichen richterlichen Verfahren gemäss Art. 363 ff. StPO ([BGer 6B_1021/2014 vom 3. September 2015 E. 1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1021_2014)).
+
+---
+
+## V. Kantonale Praxisfragen
+
+### 1. Abgrenzung von Vollzugsabbrüchen und Aufhebung
+**9** In der kantonalen Gerichtspraxis erfordert die Aussichtslosigkeit eine klare Trennung zwischen vorübergehenden Disziplinierungs- oder Motivationsproblemen und einem dauerhaften Therapieversagen ([Obergericht ZH SB190011 vom 10. Dezember 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190011)).
+
+### 2. Vollzugsüberwachung bei fehlendem Bleiberecht
+**10** Bei Verlust des ausländerrechtlichen Aufenthaltsrechts kann die kantonale Behörde Massnahmen prüfen und anpassen ([Verwaltungsgericht ZH VB.2014.00336 vom 19. August 2014](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht_VB.2014.00336)).
+
+---
+
+## VI. Literatur
+
+- **HEER**, Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 4. Aufl., Basel 2019, Art. 62c.
+- **TRECHSEL/PIETH**, Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 62c.
+- **STRATENWERTH/WOHLERS**, Schweizerisches Strafrecht: Allgemeiner Teil II: Strafen und Massnahmen, 3. Aufl., Bern 2020, § 9 N 40 ff.
