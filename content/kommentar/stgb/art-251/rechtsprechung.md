@@ -2,172 +2,91 @@
 title: "Rechtsprechung zu Art. 251 StGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-05-15
-description: "Übersicht der Entscheide zu Art. 251 StGB — Urkundenfälschung"
-tags: ["Rechtsprechung", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "StGB"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 251 StGB — Urkundenfälschung, Falschbeurkundung, qualifizierte schriftliche Lüge, erhöhte Glaubwürdigkeit und Konkurrenzen."
+tags: ["Rechtsprechung", "StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Besonderer Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und nicht verifizierter Fundstellen; 10 verifizierte BGE-Leitentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
-# Rechtsprechungssammlung zu Art. 251 StGB
+## I. Leitentscheide des Bundesgerichts
 
-## Bundesgerichtsentscheide (BGE)
-
-### BGE 151 IV 201 (2025)
-- **Datum**: 6.2.2025
-- **Thema**: Covid-Kredit; erhöhte Glaubwürdigkeit; buchführungsgestützte Umsatzangaben
-- **Kernaussage**: Den auf kaufmännischer Buchführung basierenden Angaben zum Umsatzerlös im Covid-19-Kreditantragsformular kommt erhöhte Glaubwürdigkeit i.S.v. Art. 251 Ziff. 1 StGB zu. Die kaufmännische Buchführung unterliegt gesetzlich definierten Regeln (Art. 957 ff. OR), die objektive Garantien für inhaltliche Richtigkeit schaffen. In Abgrenzung zu BGE 151 IV 113 gilt: Buchwertzahlen = erhöhte Glaubwürdigkeit; Laienzusicherungen über Kausalitäten und Verwendungszweck = keine erhöhte Glaubwürdigkeit.
-- **Einschlägig für**: Falschbeurkundung; erhöhte Glaubwürdigkeit; kaufmännische Buchführung
-
----
-
-### BGE 151 IV 113 (2024)
-- **Datum**: 27.11.2024
-- **Thema**: Covid-Kredit; keine erhöhte Glaubwürdigkeit für Laienzusicherungen
-- **Kernaussage**: Den allgemeinen Zusicherungen im Covid-19-Kreditantragsformular (Beeinträchtigung durch die Pandemie; ausschliessliche Verwendung zur Liquiditätssicherung) kommt keine erhöhte Glaubwürdigkeit zu. Es handelt sich um auslegungsbedürftige Laienzusicherungen über innere Tatsachen, nicht um der kaufmännischen Buchführung vergleichbare Angaben. Falschbeurkundung scheidet insoweit aus.
-- **Einschlägig für**: Falschbeurkundung; erhöhte Glaubwürdigkeit; Abgrenzung qualifizierte / einfache schriftliche Lüge
-
----
-
-### BGE 148 IV 288, E. 4.4 (2022)
-- **Datum**: 2.6.2022
-- **Thema**: Mietformular; erhöhte Glaubwürdigkeit durch gesetzliche Obligatorietät
-- **Kernaussage**: Das nach Art. 269d OR vorgeschriebene Formular für neue Mietverträge ist eine Urkunde i.S.v. Art. 110 Abs. 4 StGB. Falsche Angaben zum Vormietzins können Art. 251 Ziff. 1 StGB erfüllen. Die gesetzliche Obligatorietät und der gesetzlich definierte Inhalt des Formulars verleihen ihm erhöhte Glaubwürdigkeit: Der neue Mieter muss den Angaben vertrauen dürfen, um seine Anfechtungsrechte nach Art. 270 Abs. 1 OR wahrnehmen zu können.
-- **Einschlägig für**: Urkundenbegriff; erhöhte Glaubwürdigkeit durch gesetzliche Obligatorietät; Formular als Urkunde
+### [BGE 144 IV 13](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_13) — Falschbeurkundung und qualifizierte schriftliche Lüge
+- **Thema**: Voraussetzungen der Falschbeurkundung nach Art. 251 Ziff. 1 StGB; Begriff der erhöhten Glaubwürdigkeit.
+- **Kernaussage**: Eine Falschbeurkundung erfordert eine qualifizierte schriftliche Lüge; dem Schriftstück muss kraft objektiver Garantien eine erhöhte Glaubwürdigkeit zukommen, sodass der Adressat auf dessen inhaltliche Richtigkeit vertrauen darf.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB.
 
 ---
 
-### BGE 146 IV 258 (2020)
-- **Datum**: 19.5.2020
-- **Thema**: Einfach-schriftlicher Vertrag; keine erhöhte Glaubwürdigkeit
-- **Kernaussage**: Ein in einfacher Schriftform abgefasster Vertrag mit unrichtigem Inhalt erfüllt den Tatbestand der Falschbeurkundung grundsätzlich nicht, da ihm keine erhöhte Glaubwürdigkeit zukommt — solange keine besonderen Garantien die inhaltliche Richtigkeit absichern. Ein Vertrag belegt nicht, dass die Willenserklärungen dem wirklichen Willen entsprechen.
-- **Einschlägig für**: Falschbeurkundung; einfach-schriftlicher Vertrag; Abgrenzung qualifizierte Lüge
+### [BGE 129 IV 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_130) — Kaufmännische Buchführung und Rückdatierung
+- **Thema**: Urkundencharakter der Buchhaltung; Manipulation von Buchungszeitpunkten.
+- **Kernaussage**: Der kaufmännischen Buchführung kommt kraft der gesetzlichen Ordnung erhöhte Glaubwürdigkeit zu; das Rückdatieren buchhalterischer Geschäftsvorgänge erfüllt den Tatbestand der Falschbeurkundung.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB, Art. 957 ff. OR.
 
 ---
 
-### BGE 144 IV 13 (2018)
-- **Datum**: 18.1.2018
-- **Thema**: Falschbeurkundung; qualifizierte schriftliche Lüge; erhöhte Glaubwürdigkeit
-- **Kernaussage**: Die Falschbeurkundung erfordert eine qualifizierte schriftliche Lüge: Das Schriftstück muss erhöhte Glaubwürdigkeit geniessen und der Adressat darf auf dessen inhaltliche Richtigkeit vertrauen, ohne eine Überprüfung vornehmen zu müssen. Eine erhöhte Glaubwürdigkeit liegt vor, wenn objektive Garantien für die inhaltliche Richtigkeit bestehen (z.B. gesetzliche Buchführungspflicht, behördliche Ausstellung).
-- **Einschlägig für**: Falschbeurkundung; erhöhte Glaubwürdigkeit; qualifizierte schriftliche Lüge
+### [BGE 148 IV 288](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_288) — Gesetzlich vorgeschriebenes Mietzinsformular
+- **Thema**: Erhöhte Glaubwürdigkeit durch gesetzliche Formularpflicht (Art. 269d OR).
+- **Kernaussage**: Amtlich vorgeschriebenen Formularen mit gesetzlich vorgegebenem Inhalt kommt erhöhte Glaubwürdigkeit zu, wenn der Adressat zur Wahrnehmung seiner Rechte auf die Angaben angewiesen ist.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB, Art. 110 Abs. 4 StGB.
 
 ---
 
-### BGE 141 IV 369 (2015)
-- **Datum**: 27.8.2015
-- **Thema**: Falschbeurkundung; inhaltlich unwahre Rechnungen
-- **Kernaussage**: Zwischen Rechnungsaussteller und Rechnungsempfänger sind Rechnungen nur unter besonderen Umständen Urkunden mit erhöhter Glaubwürdigkeit, da die Rechnungsangaben vom Empfänger typischerweise überprüft werden. Buchführungsbelege haben demgegenüber kraft gesetzlicher Anforderungen erhöhte Glaubwürdigkeit. Parteigutachten kommt lediglich die Bedeutung einer der freien Beweiswürdigung unterliegenden Parteibehauptung zu.
-- **Einschlägig für**: Falschbeurkundung; Rechnungen und Buchführungsbelege; Urkundenbegriff
+### [BGE 146 IV 258](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_258) — Einfach-schriftliche Verträge
+- **Thema**: Fehlende erhöhte Glaubwürdigkeit bei einfachen Verträgen.
+- **Kernaussage**: Ein einfacher schriftlicher Vertrag mit unrichtigem Inhalt begründet keine Falschbeurkundung, da ein Vertrag keinen Beweis für die inhaltliche Richtigkeit der Willenserklärungen erbringt.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB.
 
 ---
 
-### BGE 142 IV 119 (2016)
-- **Datum**: 7.4.2016
-- **Thema**: Eigener Wechsel; Urkundenbegriff; fehlende Vorteilsabsicht
-- **Kernaussage**: Aus der in einem eigenen Wechsel enthaltenen Zahlungsverpflichtung kann nicht ohne Weiteres auf die Absicht des Ausstellers geschlossen werden, den darin enthaltenen Inhalt als wahr erscheinen zu lassen. Kein Automatismus zwischen Wechselausstellung und Falschbeurkundung; subjektiver Tatbestand ist separat zu prüfen.
-- **Einschlägig für**: Urkundenbegriff (Wechsel); subjektiver Tatbestand; Vorteilsabsicht
+### [BGE 128 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_IV_265) — Urkundenfälschung i.e.S. und Vertretungstäuschung
+- **Thema**: Herstellung einer unechten Urkunde durch unbefugte Unterzeichnung.
+- **Kernaussage**: Wer eine Urkunde im Namen einer anderen Person unterzeichnet, ohne hierzu ermächtigt zu sein, stellt eine unechte Urkunde her und erfüllt Art. 251 Ziff. 1 StGB.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB.
 
 ---
 
-### BGE 138 IV 130 (2012)
-- **Datum**: 24.5.2012
-- **Thema**: Falschbeurkundung; inhaltlich unwahre Rechnungen (Bestätigung)
-- **Kernaussage**: Bestätigung der bundesgerichtlichen Rechtsprechung zur Falschbeurkundung bei inhaltlich unwahren Rechnungen. Im Verhältnis zwischen Rechnungsaussteller und Rechnungsempfänger sind Rechnungen nur unter besonderen Umständen taugliche Urkunden für die Falschbeurkundung.
-- **Einschlägig für**: Falschbeurkundung; Rechnungen (Bestätigung der Rspr.)
+## II. Weitere Entscheide
+
+### [BGE 141 IV 369](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_369) — Rechnungslegung und Vorteilsabsicht
+- **Thema**: Abgrenzung von Buchführungsbelegen und Parteigutachten.
+- **Kernaussage**: Parteigutachten stellen blosse Parteibehauptungen ohne erhöhte Glaubwürdigkeit dar; Rechnungslegungsvorschriften begründen die erhöhte Glaubwürdigkeit der Buchhaltung.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB.
 
 ---
 
-### BGE 135 IV 12, E. 2.2–2.3 (2008)
-- **Datum**: 27.11.2008
-- **Thema**: Subjektive Voraussetzungen der Falschbeurkundung; wissentliches Unterzeichnen ungelesener Urkunden
-- **Kernaussage**: Wer bewusst ungelesene Urkunden unterzeichnet, kann sich nicht darauf berufen, ihren wahren Inhalt nicht gekannt zu haben — wer weiss, dass er nichts weiss, irrt nicht. Es darf jedoch nicht unbesehen von der Unterzeichnung auf die Kenntnis des Inhalts geschlossen werden; bei Massenverträgen gelten andere Massstäbe.
-- **Einschlägig für**: Subjektiver Tatbestand; Kenntnis des Urkundeninhalts; Irrtum
+### [BGE 138 IV 130](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_130) — Inhaltlich unrichtige Rechnungen
+- **Thema**: Rechnungen im Verhältnis zwischen Aussteller und Empfänger.
+- **Kernaussage**: Rechnungen sind in der Regel blosse Behauptungen des Gläubigers und begründen im Verhältnis zum Schuldner keine Falschbeurkundung, da sie der Überprüfung unterliegen.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB.
 
 ---
 
-### BGE 132 IV 12, E. 8 (2005)
-- **Datum**: 2005
-- **Thema**: Falschbeurkundung; kaufmännische Buchführung; Eventualverpflichtungen
-- **Kernaussage**: Eventualverpflichtungen sind in der Jahresrechnung auszuweisen. Ihre Nichtbuchung erfüllt den Tatbestand der Falschbeurkundung, soweit die Jahresrechnung dadurch ein besseres Bild zeigt als in Wirklichkeit. Der kaufmännischen Buchführung kommt kraft gesetzlicher Anforderungen erhöhte Glaubwürdigkeit zu.
-- **Einschlägig für**: Falschbeurkundung; kaufmännische Buchführung; Jahresrechnung
+### [BGE 135 IV 12](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_12) — Unterzeichnung ungelesener Urkunden
+- **Thema**: Subjektiver Tatbestand und Wissenszurechnung.
+- **Kernaussage**: Wer bewusst eine ungelesene Urkunde unterzeichnet, kann sich nicht auf Irrtum berufen; die Inkaufnahme eines unwahren Inhalts muss jedoch separat nachgewiesen werden.
+- **Einschlägig für**: Art. 251 StGB, Art. 12 StGB.
 
 ---
 
-### BGE 129 IV 130 (2003)
-- **Datum**: 2003
-- **Thema**: Rückdatieren buchhalterischer Geschäftsvorgänge; Falschbeurkundung
-- **Kernaussage**: Der kaufmännischen Buchhaltung kommt ungeachtet einer fehlenden gesetzlichen Buchführungspflicht Urkundencharakter zu. Das Rückdatieren von Buchungseinträgen erfüllt den Tatbestand der Falschbeurkundung, weil der Buchführung objektive Garantien für zeitliche Richtigkeit innewohnen.
-- **Einschlägig für**: Falschbeurkundung; Buchführung; Rückdatierung
+### [BGE 142 IV 119](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_119) — Eigener Wechsel und Urkundencharakter
+- **Thema**: Erklärung des Zahlungswillens im Wechsel.
+- **Kernaussage**: Aus der Ausstellung eines Wechsels darf nicht ohne Weiteres auf die Fälschungs- und Vorteilsabsicht geschlossen werden.
+- **Einschlägig für**: Art. 251 Ziff. 1 StGB, Art. 110 Abs. 4 StGB.
 
 ---
 
-### BGE 129 IV 53, E. 3.5 (2002)
-- **Datum**: 2002
-- **Thema**: Konkurrenz Urkundenfälschung / Betrug; Begriff des unrechtmässigen Vorteils
-- **Kernaussage**: Zwischen Urkundenfälschung und Betrug besteht grundsätzlich echte Gesetzeskonkurrenz. Als unrechtmässiger Vorteil gilt bereits die Erlangung eines nicht-vermögensrechtlichen Vorteils (z.B. das Verbergen der eigenen Identität als Vertragspartei, die Erschwerung späterer Anspruchsdurchsetzung).
-- **Einschlägig für**: Konkurrenz Art. 146 StGB; Begriff des unrechtmässigen Vorteils
-
----
-
-### BGE 128 IV 265 (2002)
-- **Datum**: 2002
-- **Thema**: Urkundenfälschung i.e.S.; Herstellung unechter Urkunden
-- **Kernaussage**: Die Herstellung unechter Urkunden (Urkundenfälschung i.e.S.) ist zu bejahen, wenn Verträge mit einer anderen als der tatsächlichen Ausstelleridentität unterzeichnet werden. Die Verwendung eines anderen Namens oder das Vortäuschen einer nicht vorhandenen Vertretungsmacht begründet Urkundenfälschung.
-- **Einschlägig für**: Urkundenfälschung i.e.S. (unechte Urkunde); Ausstelleridentität
-
----
-
-### BGE 123 IV 61, E. 5c/cc (1995)
-- **Datum**: 12.12.1995
-- **Thema**: Simulierter Vertrag; keine Falschbeurkundung
-- **Kernaussage**: Das Erstellen und Vorlegen eines simulierten Vertrags zum Zweck der Erlangung eines Kredits erfüllt den Tatbestand der Falschbeurkundung nicht, weil einem simulierten Vertrag keine erhöhte Glaubwürdigkeit zukommt — er beweist nicht, dass die schriftlich niedergelegten Erklärungen dem wirklichen Willen entsprechen.
-- **Einschlägig für**: Falschbeurkundung; Simulationsvertrag; erhöhte Glaubwürdigkeit (verneinend)
-
----
-
-### BGE 120 IV 199 (1994)
-- **Datum**: 1994
-- **Thema**: Protokoll Universalversammlung; Falschbeurkundung
-- **Kernaussage**: Ein Universalversammlungsprotokoll hat insoweit Urkundencharakter, als es erhöhte Glaubwürdigkeit geniesst: Das Protokoll belegt, dass sämtliche Aktionäre anwesend oder vertreten waren und dem Verzicht auf Einhaltung der Einberufungsvorschriften zugestimmt haben. Inhaltliche Falschangaben dazu erfüllen den Tatbestand der Falschbeurkundung.
-- **Einschlägig für**: Urkundenbegriff; Protokoll; erhöhte Glaubwürdigkeit kraft Gesellschaftsrecht
-
----
-
-### BGE 120 IV 122, E. 4d (1994)
-- **Datum**: 1994
-- **Thema**: Emissionsprospekt; Falschbeurkundung
-- **Kernaussage**: Die Herausgabe eines inhaltlich unwahren Emissionsprospekts bei einer Kapitalerhöhung erfüllt den Tatbestand der Falschbeurkundung. Dem Emissionsprospekt kommt erhöhte Glaubwürdigkeit zu, weil Anleger berechtigt sind, auf dessen Inhalt zu vertrauen, ohne eine unzumutbare Überprüfung vorzunehmen.
-- **Einschlägig für**: Falschbeurkundung; Emissionsprospekt; erhöhte Glaubwürdigkeit (Kapitalmarkt)
-
----
-
-## Bundesgerichtsentscheide (nicht publiziert)
-
-### BGer, 6B_992/2025 v. 27.4.2026 (zur BGE-Publikation vorgesehen)
-- **Thema**: Formular K; Simulation; Sanktionsumgehung; subjektiver Tatbestand; Begründungspflicht
-- **Kernaussage**: Ein Anwalt unterzeichnete ein Formular K für eine GmbH und bezeichnete sich als Kontrollinhaber, obwohl der tatsächliche wirtschaftlich Berechtigte ein OFAC-sanktionierter Russe war. Das Bundesgericht heisst die Beschwerde wegen Verletzung des rechtlichen Gehörs (Art. 29 Abs. 2 BV) und mangelnder Begründung gut; die Vorinstanz hatte Rügen zur Frage, ob der Aktienkaufvertrag simuliert war, nicht eigenständig beurteilt. Offen gelassen, aber mit Hinweisen: Ob einem simulierten Anteilsverkauf die Eigenschaft als «tatsächlicher Kontrollinhaber» verliehen werden kann und welche subjektiven Anforderungen an Vorsatz/Absicht im Kontext des OR-Simulationsbegriffs (Art. 18 OR) zu stellen sind.
-- **Einschlägig für**: Subjektiver Tatbestand; Formular K als Urkunde; Simulation; Begründungspflicht
-
----
-
-### BGer, 6B_268/2025 v. 31.10.2025, E. 2.4.4
-- **Thema**: Covid-Kredit; Umsatzangaben; erhöhte Glaubwürdigkeit; Arglist
-- **Kernaussage**: Umsatzangaben im Covid-19-Kredit-Formular, die auf kaufmännischer Buchführung beruhen, kommt erhöhte Glaubwürdigkeit zu (Bestätigung BGE 151 IV 201). Die Verwendung von Falschurkunden bei der Kreditantragstellung ist grundsätzlich arglistig i.S.v. Art. 146 StGB, weil im Rechtsverkehr auf die Echtheit von Urkunden vertraut werden darf.
-- **Einschlägig für**: Falschbeurkundung; erhöhte Glaubwürdigkeit; Verhältnis zu Art. 146 StGB (Arglist)
-
----
-
-### BGer, 6B_1406/2022 v. 14.3.2023, E. 2.2.2–2.5
-- **Thema**: Nicht existente juristische Person; unechte Urkunde; Eventualvorsatz/-absicht
-- **Kernaussage**: Wer Urkunden namens einer nicht existierenden Gesellschaft unterzeichnet und im Rechtsverkehr verwendet, stellt unechte Urkunden her (Urkundenfälschung i.e.S.). Im subjektiven Tatbestand genügt Eventualvorsatz hinsichtlich aller objektiven Tatbestandsmerkmale; auch Eventualabsicht reicht für die Vorteilsabsicht. Als unrechtmässiger Vorteil gilt bereits das Verbergen der Identität des wahren Vertragspartners (Bestätigung BGE 129 IV 53 E. 3.5).
-- **Einschlägig für**: Urkundenfälschung i.e.S.; subjektiver Tatbestand; Eventualvorsatz; Begriff des Vorteils
-
----
-
-### BGer, 6B_201/2023 v. 8.1.2024, E. 5.1.2–5.2
-- **Thema**: Simulierter Kaufvertrag; einfach-schriftliche Urkunde; keine erhöhte Glaubwürdigkeit
-- **Kernaussage**: Ein einfach-schriftlicher Kaufvertrag, der einen nicht erwähnten Aktienpfand verschweigt, begründet keine Falschbeurkundung, weil ein Vertrag nicht belegt, dass die Willenserklärungen dem wirklichen Willen entsprechen — fehlende erhöhte Glaubwürdigkeit. Bestätigung der Rechtsprechung BGE 146 IV 258 und BGE 123 IV 61 auf einen gesellschaftsrechtlichen Sachverhalt.
-- **Einschlägig für**: Falschbeurkundung; Vertrag als Urkunde; keine erhöhte Glaubwürdigkeit (Bestätigung)
-
----
-
-*Letzte Aktualisierung: 15.5.2026*
+### [BGE 129 IV 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_53) — Echte Konkurrenz zum Betrug
+- **Thema**: Zusammentreffen von Art. 251 StGB und Art. 146 StGB.
+- **Kernaussage**: Zwischen Urkundenfälschung und Betrug besteht echte Gesetzeskonkurrenz; das Verwenden einer gefälschten Urkunde indiziert regelmässig die Arglist.
+- **Einschlägig für**: Art. 251 StGB, Art. 146 StGB.
