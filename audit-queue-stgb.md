@@ -16,7 +16,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 10 | [x] 2026-08-23 | [Art. 144](content/kommentar/stgb/art-144/_index.md) | 🟢 A | 100 % | 21 | `korrekt` | 0 | 0 |
 | 11 | [x] 2026-08-23 | [Art. 70](content/kommentar/stgb/art-070/_index.md) | 🟢 A | 100 % | 24 | `korrekt` | 0 | 0 |
 | 12 | [x] 2026-08-23 | [Art. 146](content/kommentar/stgb/art-146/_index.md) | 🟢 A | 100 % | 20 | `korrekt` | 0 | 0 |
-| 13 | [ ] | [Art. 239](content/kommentar/stgb/art-239/_index.md) | ⚪ – | – | 0 | `korrekt` | 0 | 1 |
+| 13 | [x] 2026-08-23 | [Art. 239](content/kommentar/stgb/art-239/_index.md) | 🟢 A | 100 % | 20 | `korrekt` | 0 | 0 |
 | 14 | [ ] | [Art. 287](content/kommentar/stgb/art-287/_index.md) | ⚪ – | – | 0 | `korrekt` | 0 | 1 |
 | 15 | [ ] | [Art. 72](content/kommentar/stgb/art-072/_index.md) | ⚪ – | – | 0 | `kein_wortlaut_block` | 9 | 0 |
 | 16 | [ ] | [Art. 66a](content/kommentar/stgb/art-066a/_index.md) | ⚪ – | – | 0 | `halluziniert_oder_veraltet` | 7 | 0 |

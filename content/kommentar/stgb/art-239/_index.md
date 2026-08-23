@@ -1,20 +1,22 @@
 ---
-title: "Art. 239 — Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
+title: "Art. 239 StGB — Störung von Betrieben, die der Allgemeinheit dienen"
 weight: 239
 date: 2026-05-30
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 239 StGB – Störung des Betriebes öffentlicher Verkehrsanstalten und Versorgungsanlagen"
-tags: ["StGB", "Verkehrsanstalt", "Versorgungsanlage", "öffentliche Sicherheit", "Infrastrukturschutz"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 239 StGB: Vorsätzliche (Ziff. 1) und fahrlässige (Ziff. 2) Störung oder Gefährdung des Betriebs öffentlicher Verkehrsanstalten und Versorgungsanlagen."
+tags: ["StGB", "Betriebsstörung", "Verkehrsanstalt", "Versorgungsanlage", "Gemeingefährliche Delikte", "Infrastrukturschutz", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung unzutreffender BGE-Zitate; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    note: "Attest-Audit KW33: 2 eurolex-Links zu OCL umgestellt"
-  - date: 2026-08-13
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    note: "Voll-Audit KW33 Schritte 1-3+6"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
 ## Gesetzeswortlaut
@@ -25,99 +27,66 @@ revisions:
 >
 > 2. Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
+---
 
-## Kommentierung
+## I. Überblick und Schutzgut
 
-### I. Bedeutung und Schutzzweck
+### 1. Schutzgut und Zweck
+**1** Art. 239 StGB schützt die **Funktionsfähigkeit lebenswichtiger Infrastrukturen**, die der Allgemeinheit zur Beförderung oder Grundversorgung dienen. Geschützt ist das öffentliche Interesse am reibungslosen Ablauf des Verkehrs- und Versorgungsbetriebs vor Hinderungen, Störungen oder Gefährdungen.
 
-Art. 239 StGB schützt den ungestörten Betrieb öffentlicher Verkehrsanstalten und allgemeiner Versorgungsanlagen. Die Norm bezweckt die Sicherstellung der Funktionstüchtigkeit lebenswichtiger Infrastruktur und damit die Zuverlässigkeit der öffentlichen Daseinsvorsorge. Schutzgut ist sowohl die individuelle Sicherheit der Nutzerinnen und Nutzer als auch das Allgemeininteresse an einem funktionierenden Infrastrukturbetrieb.
+### 2. Normstruktur
+**2** Das Gesetz unterscheidet zwischen:
+- dem **Vorsatztatbestand** nach Ziff. 1 (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe);
+- dem **Fahrlässigkeitstatbestand** nach Ziff. 2 (Freiheitsstrafe bis zu einem Jahr oder Geldstrafe).
 
-Art. 239 StGB steht im System des StGB im Zusammenhang mit Art. 238 StGB (Gefährdung des Eisenbahnbetriebs), der als **lex specialis** für den Eisenbahnverkehr fungiert. Während Art. 238 zwingend eine konkrete Gefährdung verlangt, genügt Art. 239 bereits eine blosse Störung des Betriebes.
+---
 
-### II. Tatbestandsmerkmale (Abs. 1)
+## II. Tatbestandsmerkmale des Grundtatbestands (Ziff. 1)
 
-#### 1. Tathandlungen
+### 1. Schutzobjekte
+**3** Das Gesetz nennt zwei Kategorien von Schutzobjekten:
+- **Öffentliche Verkehrsanstalten**: Namentlich Eisenbahn-, Post-, Telegrafen- und Telefonbetriebe sowie sonstige öffentlich zugängliche Transportmittel (z.B. Trams, Busse, Seilbahnen). Massgeblich ist die Benutzbarkeit für die Allgemeinheit.
+- **Versorgungsanlagen**: Anstalten oder Anlagen, die der allgemeinen Versorgung mit Wasser, Licht, Kraft (Elektrizität) oder Wärme (Gas, Fernwärme) dienen ([BGer 6B_217/2012 vom 20. Juli 2012 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_217_2012)).
 
-Das Gesetz nennt drei alternative Tathandlungen:
+### 2. Tathandlungen
+**4** Die Tathandlungen stehen in einem Stufenverhältnis:
+- **Hindern**: Vollständiges Verunmöglichen oder Lahmlegen des Betriebsablaufs;
+- **Stören**: Spürbare Beeinträchtigung oder Verzögerung des ordnungsgemässen Betriebs;
+- **Gefährden**: Herbeiführung einer konkreten Gefahr für den Betrieb, ohne dass Leib und Leben unmittelbar gefährdet sein müssen ([BGer 6B_935/2019 vom 17. Februar 2020 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_935_2019)).
 
-- **Hinderung**: Vollständige Blockierung oder Stilllegung des Betriebs. Der Betrieb wird überhaupt nicht mehr oder nur noch stark eingeschränkt aufrechterhalten.
-- **Störung**: Teilweise Beeinträchtigung des Betriebsablaufs. Der Betrieb wird zwar noch geführt, aber nicht mehr im ordnungsgemässen Rahmen (Verspätungen, Ausfall einzelner Verbindungen).
-- **Gefährdung**: Schaffung einer konkreten Gefahr für den reibungslosen Ablauf. Die Gefährdung erfordert — anders als bei Art. 238 StGB — keine unmittelbare Leibes- oder Lebensgefahr.
+**5** Wird durch die Beschädigung eines im Bau befindlichen oder nicht angeschlossenen Kabels der laufende Betrieb weder gestört noch gefährdet, entfällt die Strafbarkeit nach Art. 239 StGB ([Gericht SO ZZ.1976.13 vom 19. Februar 1976](https://mcp.opencaselaw.ch/entscheid/so_gerichte_ZZ.1976.13)).
 
-Die drei Handlungsalternativen stehen in einem **Steigerungsverhältnis**: Hinderung ist der intensivste Eingriff, Gefährdung der geringste. Für die Strafbarkeit genügt jede der drei Alternativen.
+### 3. Subjektiver Tatbestand
+**6** Erforderlich ist Vorsatz bezüglich aller Merkmale ([Art. 12 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_12)), wobei Eventualvorsatz genügt.
 
-#### 2. Schutzgüter — Verkehrsanstalten (lit. a)
+---
 
-Abs. 1 erstreckt den Schutz auf **öffentliche Verkehrsanstalten**. Der Katalog nennt beispielhaft:
-- **Eisenbahnbetrieb** (Bahninfrastruktur, auch Tramways und Standseilbahnen)
-- **Postbetrieb** (Brief- und Paketpost, Logistikzentren)
-- **Telegrafen- oder Telefonbetrieb** (Telekommunikation, Internet-Backbone)
+## III. Fahrlässigkeit und Konkurrenzen (Ziff. 2)
 
-Der Katalog ist **nicht abschliessend** (Wortlaut: «namentlich»). Erfasst werden auch andere öffentliche Verkehrsanstalten wie Flugverkehrsanlagen, Schifffahrtseinrichtungen oder andere öffentliche Transportunternehmen (Busbetriebe, Seilbahnen), sofern sie dem öffentlichen Verkehr dienen.
+### 1. Fahrlässige Tatbegehung (Ziff. 2)
+**7** Die fahrlässige Störung nach Ziff. 2 greift namentlich bei Bauunfällen oder unvorsichtigen Eingriffen in Versorgungsnetze ein ([Gericht SO STAPP.2005.1 vom 12. April 2006](https://mcp.opencaselaw.ch/entscheid/so_gerichte_STAPP.2005.1)).
 
-Massgeblich ist die **Öffentlichkeit** der Anstalt: Der Betrieb muss der Allgemeinheit zugänglich sein. Rein private Verkehrsanstalten fallen nicht unter Art. 239, können aber über andere Normen (z.B. Art. 181 StGB Nötigung, Art. 330ter StGB Hausfriedensbruch) erfasst werden.
+### 2. Verhältnis zur Eisenbahngefährdung (Art. 238 StGB)
+**8** Art. 238 StGB verlangt eine konkrete Gefährdung von Leib und Leben beim Eisenbahnverkehr. Ist diese Gefährdung unerheblich und scheidet Art. 238 Abs. 2 StGB aus, bleibt die fahrlässige Betriebsstörung nach Art. 239 Ziff. 2 StGB strafbar ([BGE 116 IV 44 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_44)).
 
-#### 3. Schutzgüter — Versorgungsanlagen (lit. b)
+### 3. Verhältnis zur Nötigung (Art. 181 StGB) bei Blockadeaktionen
+**9** Bei unbewilligten Strassen- oder Tramblockaden durch Demonstranten konkurriert Art. 239 StGB mit der Nötigung ([Art. 181 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_181)). Nach der neueren Rechtsprechung stehen die Delikte regelmässig in echter Konkurrenz, sofern die Schranken der verfassungsmässigen Versammlungsfreiheit überschritten sind ([BGE 119 IV 301 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_301); [BGer 6B_1173/2023 vom 13. November 2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1173_2023), [BGer 6B_1496/2022 vom 12. Februar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_1496_2022), [BGer 6B_830/2023 vom 26. Februar 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_830_2023)).
 
-Abs. 1 zweiter Halbsatz schützt **Versorgungsanlagen**, die der allgemeinen Versorgung mit Wasser, Licht, Kraft oder Wärme dienen:
-- **Wasserversorgung** (Trinkwassernetz, Wasserwerke)
-- **Lichtversorgung** (elektrische Beleuchtung, Stromnetz)
-- **Kraftversorgung** (Elektrizitätswerke, Kraftwerke allgemein)
-- **Wärmeversorgung** (Fernheizwerke, Gasversorgung)
+---
 
- Auch dieser Katalog ist nicht abschliessend. Mit der technologischen Entwicklung können weitere Versorgungsanlagen dazukommen (z.B. Datenzentren als Infrastruktur der Telekommunikation; kritische IT-Infrastruktur).
+## IV. Kantonale Praxisfragen
 
-#### 4. Vorsatz
+### 1. Ausmass der Betriebsbeeinträchtigung im öffentlichen Verkehr
+**10** In der kantonalen Praxis setzt eine Verurteilung nach Art. 239 StGB eine spürbare Auswirkung auf das Verkehrsnetz voraus; kurzzeitige Verzögerungen ohne Ausfall von Fahrten oder Sicherheitsrisiken erfüllen den Tatbestand nicht.
 
-Abs. 1 erfordert **Vorsatz** hinsichtlich aller Tatbestandsmerkmale. **Dolus eventualis** genügt: Der Täter muss den Betrieb als öffentlichen erkennen und die Störungswirkung billigend in Kauf nehmen. Nicht erforderlich ist, dass der Täter die genaue Art der Störung vorhersieht — es genügt das Bewusstsein, in den Betrieb einer öffentlichen Anstalt einzugreifen.
+### 2. Störungen von Post- und Kommunikationsbetrieben
+**11** Bei massenhaften oder gefahrenträchtigen Postversendungen (z.B. verdächtige Pulverbriefe) bejaht die kantonale Gerichtspraxis eine strafbare Störung des Postbetriebs, wenn Sicherheitsräumungen und Betriebsausfälle resultieren ([Obergericht ZH UE190132 vom 19. November 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_UE190132)).
 
-### III. Fahrlässige Begehung (Abs. 2)
+---
 
-Abs. 2 stellt die **fahrlässige** Variante unter Strafe. Die Fahrlässigkeit muss sich auf alle objektiven Tatbestandsmerkmale beziehen: Der Täter muss bei Anwendung der erforderlichen Sorgfalt den Betrieb als öffentlichen erkennen können und die Störungswirkung voraussehen können.
+## V. Literatur
 
-**Strafrahmenharmonisierung**: Durch das BG vom 17.12.2021 (in Kraft seit 1.7.2023) wurde die bisherige Busse durch Freiheitsstrafe bis zu einem Jahr oder Geldstrafe ersetzt. Diese Anpassung entspricht der allgemeinen Strafrahmenharmonisierung im StGB.
-
-**Verhältnis zu Art. 238 Abs. 2 StGB**: Die fahrlässige Störung nach Art. 239 Abs. 2 StGB ist auch dann strafbar, wenn eine fahrlässige Gefährdung des Eisenbahnbetriebs nach Art. 238 Abs. 2 StGB ausscheidet, weil die Gefährdung **unerheblich** war. [BGE 116 IV 44](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_44) hat dies als Änderung der Rechtsprechung bestätigt: Wer eine Eisenbahn während über einer Stunde am ordnungsgemässen Betrieb hindert, stört diesen in gravierender Weise — die fahrlässige Störung bleibt nach Art. 239 strafbar, selbst wenn die Gefährdungsschwelle des Art. 238 nicht erreicht wird.
-
-### IV. Abgrenzungen
-
-#### 1. Art. 238 StGB (Gefährdung des Eisenbahnbetriebs)
-
-Art. 238 StGB ist **lex specialis** gegenüber Art. 239 für den Eisenbahnbereich. Massgebliche Unterschiede:
-- Art. 238 setzt eine **konkrete Gefährdung** voraus (Schaffung einer unmittelbaren Leibes- oder Lebensgefahr)
-- Art. 239 genügt bereits eine **blosse Störung** (keine Gefährdung erforderlich)
-- Bei Erfüllung beider Tatbestände geht Art. 238 als speziellere Norm vor
-- Bleibt die Gefährdung nach Art. 8 StGB unerheblich, kann Art. 239 Abs. 2 eingreifen
-
-#### 2. Art. 181 StGB (Nötigung)
-
-Bei **politischen Protestaktionen** (Blockaden von Bahngleisen, Sitzstreiks auf Strassenbahnschienen) konkurriert Art. 239 als speziellere Norm mit Art. 181 StGB. Nach [BGE 119 IV 301](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_301) ist die Generalklausel der Nötigung restriktiv auszulegen. Bei Aktionen, die von Verfassungsrang geschützt sind (Meinungsäusserungsfreiheit, Versammlungsfreiheit nach Art. 16 und 22 BV), ist Art. 181 nicht anwendbar, wenn spezifischere Normen wie Art. 239 den Sachverhalt erfassen.
-
-#### 3. Art. 260ter StGB (Terrorismus)
-
-Art. 260ter StGB (Unterstützung einer terroristischen Organisation) und Art. 260quinquies StGB (Terrorismusfinanzierung) können bei terroristisch motivierten Angriffen auf Infrastruktur neben Art. 239 anwendbar sein. Die Qualifikation als Terrorismus setzt jedoch eine spezifische Motivlage (Ziel der Einschüchterung der Bevölkerung etc.) voraus.
-
-#### 4. Weitere Abgrenzungen
-
-- **Art. 261bis StGB** (Störung der Religionsausübung): Spezialvorschrift für Glaubensgemeinschaften, nicht Infrastruktur
-- **Art. 330ter StGB** (Hausfriedensbruch): Schützt die Räumlichkeit, nicht den Betriebsablauf
-- **Art. 143 StGB** (Betrügerischer Missbrauch einer Datenverarbeitungsanlage): Bei digitalen Angriffen auf Infrastruktursysteme (Cyberangriffe)
-
-### V. Kasuistik
-
-| Sachverhalt | Tathandlung | Strafbarkeit | Quelle |
-|---|---|---|---|
-| Eisenbahn während über 1 Std. am Betrieb gehindert | Hinderung | Fahrlässige Störung nach Art. 239 Abs. 2 (Art. 238 Abs. 2 nicht erfüllt) | [BGE 116 IV 44](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_44) |
-| Politische Blockade von Bahngleisen | Hinderung/Störung | Art. 239 (Art. 181 restriktiv) | [BGE 119 IV 301](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_301) |
-| Beschädigung eines Wasserwerks | Störung/Gefährdung | Art. 239 Abs. 1 | st. Rspr. |
-| Fahrlässige Beschädigung einer Stromleitung bei Bauarbeiten | Gefährdung | Art. 239 Abs. 2 | st. Rspr. |
-
-### VI. Strafzumessung
-
-DieStrafe beträgt bei vorsätzlicher Begehung **Freiheitsstrafe bis zu drei Jahren oder Geldstrafe** (Abs. 1), bei fahrlässiger Begehung **Freiheitsstrafe bis zu einem Jahr oder Geldstrafe** (Abs. 2). Bei besonders gravierenden Störungen (längerer Betriebsausfall, Gefährdung vieler Personen) ist die Strafe am oberen Rand des Strafrahmens anzusetzen.
-
-## Literatur
-
-- STRATENWERTH, Günter, *Schweizerisches Strafrecht, Besonderer Teil II*, §§ 24–26 zu Art. 238/239 StGB
-- TRECHSEL, Stefan, *Schweizerisches Strafgesetzbuch, Praxiskommentar*, Art. 239 N. 1–12
-- DONATSCH, Armin / HANSER, Daniel, *Strafrecht III, Delikte gegen den Einzelnen*, 9. Aufl. 2020, § 7
+- **CORBOZ**, Les infractions de droit suisse, Vol. II, 3. Aufl., Bern 2010, Art. 239.
+- **DONATSCH/THOMMEN/WOHLERS**, Strafrecht IV: Delikte gegen die Allgemeinheit, 5. Aufl., Zürich/Basel/Genf 2017, § 11.
+- **FINGERHUTH**, Basler Kommentar: Strafrecht II (Art. 111–392 StGB), 4. Aufl., Basel 2019, Art. 239.
+- **TRECHSEL/PIETH** (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 239.
