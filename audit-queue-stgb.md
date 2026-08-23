@@ -8,7 +8,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 2 | [x] 2026-08-23 | [Art. 12](content/kommentar/stgb/art-012/_index.md) | 🟢 A | 100 % | 23 | `korrekt` | 0 | 0 |
 | 3 | [x] 2026-08-23 | [Art. 1](content/kommentar/stgb/art-001/_index.md) | 🟢 A | 100 % | 22 | `korrekt` | 0 | 0 |
 | 4 | [x] 2026-08-23 | [Art. 8](content/kommentar/stgb/art-008/_index.md) | 🟢 A | 100 % | 23 | `korrekt` | 0 | 0 |
-| 5 | [ ] | [Art. 222](content/kommentar/stgb/art-222/_index.md) | ⚪ – | – | 0 | `kein_wortlaut_block` | 3 | 14 |
+| 5 | [x] 2026-08-23 | [Art. 222](content/kommentar/stgb/art-222/_index.md) | 🟢 A | 100 % | 19 | `korrekt` | 0 | 0 |
 | 6 | [ ] | [Art. 59](content/kommentar/stgb/art-059/_index.md) | ⚪ – | – | 0 | `korrekt` | 3 | 5 |
 | 7 | [ ] | [Art. 71](content/kommentar/stgb/art-071/_index.md) | ⚪ – | – | 0 | `halluziniert_oder_veraltet` | 3 | 3 |
 | 8 | [ ] | [Art. 158](content/kommentar/stgb/art-158/_index.md) | ⚪ – | – | 0 | `korrekt` | 0 | 3 |
