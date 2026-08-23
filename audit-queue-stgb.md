@@ -5,7 +5,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | # | Status | Artikel | Urteil | Belegquote | Belege | Wortlaut | Pinpoint-Fehler | Halluzinierte Refs |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | [x] 2026-08-23 | [Art. 10](content/kommentar/stgb/art-010/_index.md) | 🟢 A | 100 % | 21 | `korrekt` | 0 | 0 |
-| 2 | [ ] | [Art. 12](content/kommentar/stgb/art-012/_index.md) | 🔴 C | 27 % | 24 | `korrekt` | 7 | 1 |
+| 2 | [x] 2026-08-23 | [Art. 12](content/kommentar/stgb/art-012/_index.md) | 🟢 A | 100 % | 23 | `korrekt` | 0 | 0 |
 | 3 | [ ] | [Art. 1](content/kommentar/stgb/art-001/_index.md) | 🔴 C | 38 % | 26 | `korrekt` | 5 | 0 |
 | 4 | [ ] | [Art. 8](content/kommentar/stgb/art-008/_index.md) | 🔴 C | 43 % | 50 | `korrekt` | 0 | 0 |
 | 5 | [ ] | [Art. 222](content/kommentar/stgb/art-222/_index.md) | ⚪ – | – | 0 | `kein_wortlaut_block` | 3 | 14 |
