@@ -32,7 +32,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 26 | [x] 2026-08-23 | [Art. 111](content/kommentar/stgb/art-111/_index.md) | 🟢 A | 100 % | 20 | `korrekt` | 0 | 0 |
 | 27 | [x] 2026-08-23 | [Art. 117](content/kommentar/stgb/art-117/_index.md) | 🟢 A | 100 % | 22 | `korrekt` | 0 | 0 |
 | 28 | [x] 2026-08-23 | [Art. 125](content/kommentar/stgb/art-125/_index.md) | 🟢 A | 100 % | 20 | `korrekt` | 0 | 0 |
-| 29 | [ ] | [Art. 190](content/kommentar/stgb/art-190/_index.md) | ⚪ – | – | 0 | `kein_wortlaut_block` | 1 | 0 |
+| 29 | [x] 2026-08-23 | [Art. 190](content/kommentar/stgb/art-190/_index.md) | 🟢 A | 100 % | 18 | `korrekt` | 0 | 0 |
 | 30 | [ ] | [Art. 46](content/kommentar/stgb/art-046/_index.md) | ⚪ – | – | 0 | `halluziniert_oder_veraltet` | 0 | 0 |
 | 31 | [ ] | [Art. 62c](content/kommentar/stgb/art-062c/_index.md) | ⚪ – | – | 0 | `halluziniert_oder_veraltet` | 0 | 0 |
 | 32 | [ ] | [Art. 66abis](content/kommentar/stgb/art-066abis/_index.md) | ⚪ – | – | 0 | `halluziniert_oder_veraltet` | 0 | 0 |
