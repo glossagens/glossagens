@@ -656,8 +656,8 @@ def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
     if "_error" in res:
         return {"status": "nicht_verifizierbar", "grund": res["_error"]}
     md = res.get("_text", "")
-    pat = re.compile(r"^### Art\.\s*" + re.escape(article) + r"(?:\s|$|[^\d])", re.M | re.I)
-    if md and not pat.search(md) and article.isdigit():
+    block_offset = 0
+    if ("No articles found" in md or not md.strip()) and article.isdigit():
         art_int = int(article)
         for prev in range(art_int - 1, max(1, art_int - 5), -1):
             args_prev = dict(args, article=str(prev))
@@ -672,6 +672,19 @@ def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
                     break
             if res is res_prev:
                 break
+    elif "No articles found" in md or not md.strip():
+        m_suf = re.search(r"(bis|ter|quater|quinquies)$", article)
+        if m_suf:
+            suffix = m_suf.group(1)
+            base = article[:-len(suffix)]
+            res_base = mcp.call("get_law", dict(args, article=base))
+            md_base = res_base.get("_text", "")
+            if md_base and "No articles found" not in md_base:
+                res = res_base
+                md = md_base
+                suffix_map = {"bis": 1, "ter": 2, "quater": 3, "quinquies": 4}
+                block_offset = suffix_map.get(suffix, 0)
+
     stand = res.get("consolidation_date") or res.get("as_of") or res.get("date")
     arts = res.get("articles") or []
     if arts:
@@ -683,7 +696,8 @@ def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
         sm = re.search(r"Consolidation date:\s*(\S+)", md)
         stand = stand or (sm.group(1) if sm else None)
         block = re.split(r"^### Art\. ", md, flags=re.M)
-        body = block[1] if len(block) > 1 else md
+        idx = 1 + block_offset if len(block) > 1 + block_offset else 1
+        body = block[idx] if len(block) > idx else md
         body = re.split(r"\n(?=### Art\.)", body)[0]
         body = re.split(r"^---\s*$", body, maxsplit=1, flags=re.M)[0]
         amtlich = "\n".join(body.split("\n")[1:])   # Überschriftszeile weg
