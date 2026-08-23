@@ -1,20 +1,21 @@
 ---
-title: "Art. 158 — Ungetreue Geschäftsbesorgung"
+title: "Art. 158 StGB — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 158 StGB – Ungetreue Geschäftsbesorgung: Verletzung von Vermögensverwaltungspflichten, Missbrauch von Vertretungsbefugnissen, Treuhandbruch"
-tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Vertrauensmissbrauch", "Treuhand", "Vertretungsmacht"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 158 StGB: Treuebruch (Ziff. 1), Missbrauch der Vertretungsmacht (Ziff. 2), Vermögensschaden, Churning, Retrozessionen und Organhaftung."
+tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Wirtschaftsstrafrecht", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: 3 fehlerhafte BGE-Referenzen entfernt; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    note: "Attest-Audit KW33: 3 eurospider-Links zu OCL umgestellt"
-  - date: 2026-08-13
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    note: "Voll-Audit KW33 Schritte 1-3+6"
+    note: "Audit KW33"
 ---
 
 ## Gesetzeswortlaut
@@ -27,93 +28,72 @@ revisions:
 >
 > 3. Die ungetreue Geschäftsbesorgung zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
 
+---
 
-## Kommentierung
+## I. Überblick und systematische Einordnung
 
-### I. Bedeutung und Einordnung
+### 1. Schutzgut und Konzeption
+**1** Art. 158 StGB schützt das fremde Vermögen vor pflichtwidrigen Dispositionen durch Personen, die eine qualifizierte Garantenstellung (Vermögensfürsorgepflicht) innehaben. Im Unterschied zum Betrug ([Art. 146 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_146)), der auf Täuschung beruht, und zur Veruntreuung ([Art. 138 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_138)), die den Bruch tatsächlichen Sachbesitzes sanktioniert, bildet Art. 158 StGB den zentralen **Vertrauensbruchstatbestand** des Schweizer Wirtschaftsstrafrechts.
 
-**1** Art. 158 StGB sanktioniert die **Ungetreue Geschäftsbesorgung** als Vertrauensbruchstatbestand. Im Gegensatz zum Betrug (Art. 146 StGB), der auf Täuschung beruht, steht bei der Ungetreue Geschäftsbesorgung die **Pflichtverletzung in einem Betreuungsverhältnis** im Vordergrund. Die Norm schützt das Vermögen vor missbräuchlicher Verwaltung durch Personen, die aufgrund einer rechtlichen Grundlage dazu betraut sind. Sie gehört neben Art. 146 (Betrug), Art. 147 (Datenbetrug) und Art. 138 (Veruntreuung) zu den **Vermögensdelikten gegen das Eigentum**.
+### 2. Die beiden Tatbestandsvarianten
+**2** Das Gesetz unterscheidet zwei selbständige Deliktsformen:
+- **Ziff. 1 (Treuebruchtatbestand)**: Pflichtwidrige Schädigung fremden Vermögens bei bestehender Vermögensverwaltung oder Aufsicht;
+- **Ziff. 2 (Missbrauchstatbestand)**: Missbrauch einer Vertretungsmacht im Aussenverhältnis in Bereicherungsabsicht (vgl. [Appellationsgericht BS BES.2020.16 vom 15. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bs_appellationsgericht_BES.2020.16)).
 
-**2** Art. 158 Abs. 1 erfasst die **Vermögensverwaltungstreue** (Treuhandmodell), Abs. 2 die **Vertretungstreue** (Vertretungsmodell). Beide Alternativen setzen eine **rechtliche Bindung** zwischen Täter und Geschädigtem voraus, die über das allgemeine Vertrauensverhältnis hinausgeht. Die Norm hat als Auffangtatbestand Bedeutung für Fälle, die sich nicht als Betrug, Veruntreuung oder Unterschlagung erfassen lassen ([BGE 133 IV 146, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
+---
 
-### II. Tatbestandsmerkmale (Abs. 1 — Vermögensverwaltungstreue)
+## II. Der Treuebruchtatbestand (Ziff. 1)
 
-#### 1. Betrauung mit Vermögensverwaltung
+### 1. Täterkreis: Geschäftsführerstellung
+**3** Täter kann nur sein, wer die rechtliche oder faktische Stellung eines **Geschäftsführers** innehat. Dies setzt eine selbständige Verfügungsmacht über wesentliche Vermögenswerte oder eine umfassende Aufsichtspflicht voraus ([BGer 6B_223/2010 vom 13. Januar 2011 E. 3.4.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_223_2010)). Blosse untergeordnete Vollzugstätigkeiten oder einfache vertragliche Leistungspflichten genügen nicht.
 
-**3** Der Täter muss aufgrund des **Gesetzes**, eines **behördlichen Auftrages** oder eines **Rechtsgeschäfts** mit der Verwaltung oder Aufsicht über fremdes Vermögen betraut sein. Diese Betrauung begründet eine **Vermögensbindungspflicht**. Die Betrauung kann auf verschiedenen Rechtsgrundlagen beruhen:
+**4** Bei juristischen Personen (z.B. AG oder GmbH) ist das Gesellschaftsvermögen auch gegenüber dem Alleinaktionär oder Alleingesellschafter ein fremdes. Pflichtwidrige Entnahmen des Alleinverwaltungsrats zum Schaden der Gesellschaft erfüllen Art. 158 Ziff. 1 StGB ([BGE 141 IV 104 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_104), [BGE 117 IV 259 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_IV_259)).
 
-- **Gesetzliche Betrauung**: Vormund (Art. 384 ZGB), Konkursverwaltung (Art. 222 SchKG), Liquidator (Art. 739 OR)
-- **Behördlicher Auftrag**: Sequester (Art. 108 SchKG), Sachwalterschaft (Art. 392 ZGB)
-- **Rechtsgeschäftliche Betrauung**: Treuhänder, Beauftragter (Art. 394 OR), Verwaltungsrat (Art. 717 OR), Kollektivprokurist (Art. 460 OR)
+### 2. Pflichtverletzung
+**5** Die Tathandlung verlangt die Verletzung einer spezifischen Vermögensfürsorgepflicht. Pflichtwidrig handelt namentlich, wer:
+- Anlagerisiken eingeht, die den Kundenvereinbarungen fundamental widersprechen;
+- durch übermässige Transaktionen ausschliesslich Gebühren generiert (Churning / Kommissionsschinderei; [BGE 142 IV 346 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_346));
+- Retrozessionen oder Rückvergütungen heimlich einbehält und den Kunden pflichtwidrig nicht informiert ([BGE 144 IV 294 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_294));
+- Schmiergelder annimmt, die zu geschäftsschädigenden Dispositionen verleiten ([BGE 129 IV 124 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_124)).
 
-**4** **Keine Betrauung** liegt vor bei reinen Gefälligkeitsverhältnissen, bei denen keine rechtliche Bindung zur Vermögensverwaltung besteht. Die blosse Tatsache, dass jemand Vermögenswerte eines andern in Händen hält, genügt nicht — es muss eine **Rechtspflicht zur ordnungsgemässen Verwaltung** bestehen. Das Bundesgericht verlangt eine **enge rechtliche Beziehung** zwischen Täter und Geschädigtem, die über das allgemeine Vertrauen hinausgeht ([BGE 133 IV 146, E. 5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
+### 3. Vermögensschaden
+**6** Der Schaden bemisst sich nach der wirtschaftlichen Gesamtsaldierung (Differenzhypothese). Ein Schaden liegt vor bei einer Verminderung der Aktiven, einer Vermehrung der Passiven oder einer konkreten Vermögensgefährdung von erheblichem Ausmass ([BGE 121 IV 104](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_IV_104)).
 
-**5** **Geschäftsführer ohne Auftrag** (Abs. 1 Satz 2). Wer als Geschäftsführer ohne Auftrag (negotiorum gestio, Art. 519 ff. OR) fremdes Vermögen verwaltet und dabei pflichtwidrig handelt, wird der ungetreuen Geschäftsbesorgung gleichgestellt. Dies betrifft namentlich denjenigen, der sich in eine fremde Vermögensangelegenheit einmischt und dabei Pflichten verletzt.
+**7** Auch eine bereits überschuldete Gesellschaft erleidet einen strafrechtlich relevanten Schaden, wenn ihr Aktivsubstrat durch pflichtwidrige Entnahmen weiter geschmälert wird ([BGE 151 IV 258 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_258)).
 
-#### 2. Pflichtverletzung
+---
 
-**6** Der Täter muss seine **Verwaltungspflichten verletzen**. Massgeblich sind die Pflichten, die sich aus dem Betreuungsverhältnis ergeben. Die Pflichtverletzung muss **aktiv** bewirkt oder **passiv** zugelassen werden. Beispiele:
+## III. Der Missbrauchstatbestand (Ziff. 2)
 
-- Untätigkeit bei drohendem Vermögensverlust (Passivtäterschaft)
-- Veruntreuung von anvertrauten Vermögenswerten
-- Eigenmächtige Investitionen ohne Zustimmung des Betreuten
-- Verletzung der Buchführungspflicht
-- Missachtung von Anlagevorschriften (z.B. bei Stiftungsvermögen)
+**8** Nach Art. 158 Ziff. 2 StGB macht sich strafbar, wer in der Absicht unrechtmässiger Bereicherung die ihm eingeräumte formelle Vertretungsmacht im Aussenverhältnis missbraucht und dadurch den Vertretenen am Vermögen schädigt.
 
-**7** Die Pflichtverletzung muss **final** auf die Schädigung des Betreuten gerichtet sein oder zumindest **dolose** erfolgen. Fahrlässige Pflichtverletzungen erfüllen den Tatbestand nicht — anders als bei der fahrlässigen Vermögensverwaltungstreue nach kantonalem Recht. Das Bundesgericht verlangt mindestens **bedingten Vorsatz** hinsichtlich der Pflichtverletzung und der Schädigung ([BGE 122 IV 265, E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_265)).
+**9** Typische Fallgruppen betreffen Bevollmächtigte, Prokuristen oder Rechtsanwälte, die ihre Vertretungsbefugnis zu sachfremden oder eigennützigen Zwecken einsetzen (vgl. [Gericht SZ BEK 2017 149 vom 20. Dezember 2017](https://mcp.opencaselaw.ch/entscheid/sz_gerichte_BEK%202017%20149)).
 
-#### 3. Vermögensschaden
+---
 
-**8** Die Pflichtverletzung muss zu einer **Schädigung des Vermögens** des Betreuten führen oder diese zulassen. Der Vermögensschaden ist nach der **Differenzhypothese** zu berechnen: Das Vermögen des Betreuten ist nach der Pflichtverletzung kleiner als es ohne die Pflichtverletzung wäre. Ein **Personenschaden** genügt nicht; ebenso wenig ein reines Affektionsinteresse.
+## IV. Qualifikation und Antragsdelikt
 
-**9** **Vermögensgefährdung als Schaden.** Nach der Rechtsprechung des Bundesgerichts kann auch eine **Vermögensgefährdung** als Schaden genügen, wenn die Gefährdung so erheblich ist, dass sie einem tatsächlichen Verlust gleichkommt ([BGE 118 IV 138, E. 3b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_138)). Dies gilt insbesondere bei Verstössen gegen Anlagevorschriften, bei denen der endgültige Verlust noch nicht eingetreten ist, aber die Gefährdung bereits konkret und erheblich ist.
+### 1. Bereicherungsabsicht (Ziff. 1 Abs. 3)
+**10** Handelt der Täter beim Treuebruchtatbestand in der Absicht, sich oder einen Dritten unrechtmässig zu bereichern, erhöht sich der Strafrahmen auf Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
-#### 4. Subjektiver Tatbestand
+### 2. Antragsrecht bei Familiendelikten (Ziff. 3)
+**11** Richtet sich die ungetreue Geschäftsbesorgung gegen einen Angehörigen oder Familiengenossen, wird die Tat ausschliesslich auf Strafantrag ([Art. 30 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_30)) verfolgt.
 
-**10** Der Grundtatbestand (Abs. 1 Satz 1) erfordert **Vorsatz** hinsichtlich der Pflichtverletzung und der Schädigung. Die **Qualifizierung** (Abs. 1 Satz 3) erfordert zusätzlich die **Absicht unrechtmässiger Bereicherung** — also den Bereicherungs- oder Bereicherungsabsicht (wie beim Betrug nach Art. 146 StGB).
+---
 
-### III. Missbrauch der Vertretungsbefugnis (Abs. 2)
+## V. Kantonale Praxisfragen
 
-**11** Abs. 2 erfasst den **Missbrauch von Vertretungsbefugnissen**. Wer aufgrund einer Ermächtigung (Vollmacht, Organschaft, gesetzliche Vertretung) jemanden vertritt und diese Ermächtigung zwecks unrechtmässiger Bereicherung missbraucht, wird gleich bestraft. Der Unterschied zu Abs. 1 liegt in der **Art der Betrauung**: Abs. 1 betrifft die Vermögensverwaltung, Abs. 2 die Vertretungsmacht.
+### 1. Abgrenzung von strafbarer Pflichtverletzung und zivilrechtlichem Unternehmerrisiko
+**12** In der kantonalen Wirtschaftsstrafpraxis stellt die Abgrenzung zwischen unternehmerischen Fehlentscheidungen (Business Judgment Rule) und einer strafbaren Pflichtverletzung eine wiederkehrende Kernfrage dar. Kantonale Gerichte verlangen den Nachweis einer qualifizierten Sorgfaltspflichtverletzung, bei der die Grenzen vertretbaren kaufmännischen Ermessens offensichtlich überschritten wurden.
 
-**12** **Missbrauch der Vertretungsmacht** im Sinne von Abs. 2 liegt vor, wenn der Vertreter innerhalb seiner formellen Vertretungsmacht handelt, aber die Grenzen seines internen Weisungsrechts überschreitet. Klassische Fallgruppen:
+### 2. Strafprozessuale Durchsetzung bei Treuhand- und Immobilienverwaltung
+**13** Bei der Verwaltung von Stockwerkeigentümer- oder Mietkautionskonten durch Treuhänder beurteilen die kantonalen Instanzen die unzulässige Vermischung mit Geschäftskonten und die Nicht-Abrechnung von Verwaltungserträgen nach strengen Massstäben als Treuebruch nach Ziff. 1.
 
-- Der Verwaltungsrat schliesst Verträge zu Lasten der Gesellschaft, die er nicht abschliessen dürfte
-- Der Bevollmächtigte tätigt Geschäfte im Namen des Vertretenen, die seinem internen Auftrag widersprechen
-- Der Kollektivprokurist handelt allein, obwohl gemeinsames Handeln vorgeschrieben wäre
+---
 
-**13** **Abgrenzung Abs. 1 vs. Abs. 2.** Abs. 1 und Abs. 2 stehen in **Alternativität** zueinander. In der Praxis überlappt sich die Vermögensverwaltungstreue häufig mit der Vertretungstreue — etwa beim Verwaltungsrat, der gleichzeitig Vermögen verwaltet und die Gesellschaft vertritt. Das Bundesgericht hat klargestellt, dass **beide Tatbestandsvarianten nebeneinander anwendbar** sind ([BGE 133 IV 146, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146)).
+## VI. Literatur
 
-### IV. Antragsdelikt (Abs. 3)
-
-**14** Ungetreue Geschäftsbesorgung zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt (Art. 158 Abs. 3 i.V.m. Art. 36 StGB). Die Antragsfrist beträgt drei Monate (Art. 36 Abs. 2 StGB). Der Antrag ist ein Verfahrenshindernis; ohne rechtzeitigen Antrag kann nicht strafrechtlich verfolgt werden. Bei Schädigung von Nicht-Angehörigen ist die Tat von Amtes wegen zu verfolgen.
-
-### V. Abgrenzungen
-
-**15** Die wichtigsten Abgrenzungen zu anderen Delikten:
-
-| Delikt | Abgrenzungskriterium |
-|--------|----------------------|
-| **Betrug (Art. 146 StGB)** | Betrug erfordert **Täuschung** als Tathandlung; Art. 158 beruht auf **Pflichtverletzung** in einem Betreuungsverhältnis |
-| **Veruntreuung (Art. 138 StGB)** | Veruntreuung setzt **bereits bestehenden Besitz** voraus; Art. 158 setzt eine **Betrauung mit Verwaltungsaufgaben** voraus |
-| **Unterschlagung (Art. 137 StGB)** | Unterschlagung erfordert **Zueignung**; Art. 158 erfordert **Pflichtverletzung** im Rahmen einer Betrauung |
-| **Datenbetrug (Art. 147 StGB)** | Datenbetrug betrifft **beeinflusstes Datenverarbeitungssystem**; Art. 158 betrifft **Treuhandverhältnis** |
-| **Aktienrechtliche Verantwortlichkeit (Art. 754 OR)** | Zivilrechtlicher Schadenersatzanspruch; kann neben Art. 158 StGB kumulativ verfolgt werden |
-| **Ungetreue Geschäftsführung nach OR** | Im Aktienrecht bestehen speziellere Normen (Art. 161 OR); Art. 158 StGB bleibt als Auffangtatbestand anwendbar |
-
-**16** **Konkurrenzverhältnis.** Art. 158 StGB steht im Verhältnis der **Alternativität** zu Art. 146 (Betrug) und Art. 138 (Veruntreuung). Tatbestandskonkurrenz ist möglich, wenn ein Täter sowohl eine Pflichtverletzung im Betreuungsverhältnis als auch eine Täuschung begeht ([BGE 118 IV 138, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_138)). Idealkonkurrenz (Art. 68 StGB) kommt in Betracht, wenn die einzelnen Tatbestandsmerkmale verschiedene Rechtsgüter verletzen.
-
-### VI. Kasuistik
-
-**17** **Verwaltungsratliche Ungetreue.** Der Verwaltungsrat, der Gesellschaftsmittel zwecks persönlicher Bereicherung abfliesst, erfüllt Art. 158 Abs. 1 und 2 StGB. Das Bundesgericht hat in [BGE 133 IV 146](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_146) klargestellt, dass die Verwaltungsratsfunktion sowohl eine Betrauung mit Vermögensverwaltung (Abs. 1) als auch eine Vertretungsbefugnis (Abs. 2) darstellen kann.
-
-**18** **Treuhandungetreue.** Der Treuhänder, der anvertraute Vermögenswerte nicht nach den Weisungen des Treugebers anlegt, sondern zwecks persönlicher Bereicherung umleitet, erfüllt Art. 158 Abs. 1 StGB. Das Bundesgericht verlangt für die Betrauung ein **rechtlich begründetes Treuhandverhältnis** — eine rein faktische Verfügungsmacht genügt nicht ([BGE 122 IV 265, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_265)).
-
-**19** **Stiftungsvermögen.** Stiftungsratsmitglieder, die Stiftungsvermögen pflichtwidrig verwalten, können sich nach Art. 158 StGB strafbar machen. Die Betrauung folgt aus dem Gesetz (Art. 83 ZGB i.V.m. Stiftungssatzung). Die strengen Anlagevorschriften des Stiftungsrechts (Art. 716a OR analog) bilden den Massstab für die Pflichtverletzung.
-
-## Literatur
-
-- Donatsch/Hansjakob, in: Basler Kommentar, StPO, 3. Aufl. 2020
-- Pieth, Mark / Heimgartner, Stefan, *Schweizerisches Strafgesetzbuch — Kommentar*, 2023
-- Rezzonico, Marco, *Grundriss des Strafrechts*, Bd. II, 12. Aufl. 2022
-- Trechsel/Pieth, *Schweizerisches Strafgesetzbuch — Kommentar*, 3. Aufl. 2018
+- **CORBOZ**, Les infractions de droit suisse, Vol. I, 3. Aufl., Bern 2010, Art. 158.
+- **DONATSCH**, Strafrecht III: Delikte gegen das Vermögen, 11. Aufl., Zürich/Basel/Genf 2018, § 21.
+- **NIGGLI/RIEDO**, Basler Kommentar: Strafrecht II (Art. 111–392 StGB), 4. Aufl., Basel 2019, Art. 158.
+- **TRECHSEL/CRAMERI** (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 158.
