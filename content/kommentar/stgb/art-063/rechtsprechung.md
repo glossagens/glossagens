@@ -2,119 +2,86 @@
 title: "Rechtsprechung zu Art. 63 StGB"
 weight: 99
 date: 2025-06-12
-lastmod: "2026-06-10"
-description: "Übersicht der Entscheide zu Art. 63 StGB – Voraussetzungen und Vollzug der ambulanten Behandlung"
-tags: ["Rechtsprechung", "StGB", "ambulante Behandlung", "Massnahme"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 63 StGB — Ambulante Behandlung, Strafaufschub, Fristberechnung, Verlängerung und Aufhebung."
+tags: ["Rechtsprechung", "StGB", "Ambulante Behandlung", "Massnahme", "Strafaufschub", "Allgemeiner Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Dummy-Referenzen bereinigt; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide des Bundesgerichts
 
-### BGE 134 IV 17, E. 4.1 und 5.2
-- **Thema**: Voraussetzungen der ambulanten Behandlung
-- **Kernaussage**: Das Bundesgericht konkretisiert die Voraussetzungen von Art. 63 Abs. 1 StGB. Eine ambulante Behandlung kommt nur in Betracht, wenn der Täter psychisch schwer gestört oder suchtstoffabhängig ist, der Zusammenhang zwischen der Störung und der Tat besteht (lit. a) und die Prognose ergibt, dass die Behandlung die Gefahr weiterer Taten verringern kann (lit. b). Der Zusammenhang muss die Tat in wesentlicher Weise mitprägen, nicht bloss kausal sein.
-- **Einschlägig für**: Abs. 1 lit. a und b
-
----
-
-### BGE 137 IV 26, E. 4.2
-- **Thema**: Subsidiaritätsverhältnis stationär/ambulant
-- **Kernaussage**: Klärung des Verhältnisses zwischen Art. 59 StGB (stationäre Massnahme) und Art. 63 StGB (ambulante Behandlung). Die ambulante Behandlung ist gegenüber der stationären Behandlung subsidiär; sie kommt nur in Betracht, wenn die weniger eingriffsintensive Massnahme geeignet ist, um die gesetzlichen Ziele zu erreichen (Ultima-ratio-Prinzip im Massnahmenvollzug).
-- **Einschlägig für**: Systematisches Verhältnis Art. 59/63
-
----
-
-### BGE 140 IV 275, E. 6.3
-- **Thema**: Höchstdauer und Verlängerung
-- **Kernaussage**: Präzisierung der Höchstdauer von 5 Jahren nach Art. 63 Abs. 4 StGB. Eine Verlängerung über 5 Jahre hinaus ist nur unter strikten Voraussetzungen möglich und setzt voraus, dass weiterhin eine ernsthafte Gefahr weiterer Taten besteht und die Verlängerung zur Erreichung des Behandlungsziels notwendig ist. Eine «automatische» Verlängerung ohne individuelle Prüfung ist unzulässig.
-- **Einschlägig für**: Abs. 4 (Verlängerung)
+### [BGE 147 IV 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_209) E. 2.4.4 — Beginn der Fünfjahresfrist bei ambulanter Behandlung
+- **Thema**: Berechnung der Höchstdauer nach Art. 63 Abs. 4 StGB; Vorzeitiger Massnahmeantritt.
+- **Kernaussage**: Die Fünfjahresfrist der ambulanten Massnahme beginnt erst mit dem tatsächlichen Behandlungsantritt nach Eintritt der Rechtskraft zu laufen. Eine vorzeitige Behandlung während des strafprozessualen Freiheitsentzugs verkürzt die Frist nicht.
+- **Einschlägig für**: Art. 63 Abs. 4 StGB.
 
 ---
 
-## Weitere Bundesgerichtsentscheide
-
-### BGer 6B_1050/2019 v. 27.2.2020, E. 3.2
-- **Thema**: Zusammenhang zwischen Störung und Tat (lit. a)
-- **Kernaussage**: Bei Persönlichkeitsstörungen ist der Zusammenhang zwischen Zustand und Tat (lit. a) besonders sorgfältig zu prüfen. Die blosse Feststellung einer Persönlichkeitsstörung genügt nicht; es muss dargetan werden, wie die Störung die Tatausführung in wesentlicher Weise mitgeprägt hat.
-- **Einschlägig für**: Abs. 1 lit. a
+### [BGE 143 IV 445](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_445) E. 2 — Aufhebung und Verwahrungsausschluss
+- **Thema**: Sanktionenwechsel nach gescheiterter ambulanter Massnahme; Art. 63b Abs. 5 StGB.
+- **Kernaussage**: Wird eine strafvollzugsbegleitende ambulante Behandlung infolge Aussichtslosigkeit aufgehoben, kann das Gericht die Massnahme nicht nachträglich in eine Verwahrung nach Art. 64 StGB umwandeln.
+- **Einschlägig für**: Art. 63 StGB, Art. 63b Abs. 5 StGB, Art. 64 StGB.
 
 ---
 
-### BGer 6B_1234/2020 v. 15.6.2021, E. 4.1
-- **Thema**: Verlängerung und aktualisierte Gefahrenprognose
-- **Kernaussage**: Die Verlängerung der ambulanten Behandlung nach Abs. 4 setzt eine aktualisierte Gefahrenprognose voraus, die sich auf ein aktuelles Gutachten stützen muss. Die blosse Fortschreibung einer früheren Prognose genügt nicht den Anforderungen des Gesetzes.
-- **Einschlägig für**: Abs. 4 (Verlängerung)
+### [BGE 143 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_1) E. 5.4 — Nachträglicher Wechsel ambulanter Massnahmen
+- **Thema**: Zulässigkeit des Wechsels zwischen verschiedenen ambulanten Behandlungsformen.
+- **Kernaussage**: Praxisänderung: Nach Aufhebung einer ambulanten Massnahme wegen Aussichtslosigkeit ist die nachträgliche Anordnung einer anderen ambulanten Massnahme nicht grundsätzlich ausgeschlossen.
+- **Einschlägig für**: Art. 63 StGB, Art. 63b Abs. 5 StGB.
 
 ---
 
-### BGer 1B_390/2021 v. 8.11.2021, E. 2.3
-- **Thema**: Vorübergehende stationäre Behandlung (Abs. 3)
-- **Kernaussage**: Die vorübergehende stationäre Behandlung nach Art. 63 Abs. 3 StGB ist auf maximal 2 Monate begrenzt und stellt eine Ausnahme dar. Sie darf nicht als Umgehung der Voraussetzungen von Art. 59 StGB missbraucht werden. Die Massnahme dient ausschliesslich der Überbrückung bis zur Wiederaufnahme der ambulanten Behandlung.
-- **Einschlägig für**: Abs. 3 (vorübergehend stationär)
+### [BGE 146 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_1) E. 3.2 — Gutachtenserfordernis bei Massnahmenanordnung
+- **Thema**: Anforderungen an psychiatrische Sachverständigengutachten bei therapeutischen Massnahmen.
+- **Kernaussage**: Grundsatzentscheid zu den formellen und materiellen Anforderungen an forensisch-psychiatrische Aktengutachten bei der Anordnung von Massnahmen.
+- **Einschlägig für**: Art. 56 Abs. 3 StGB, Art. 63 Abs. 1 StGB.
 
 ---
 
-### BGer 6B_567/2018 v. 24.10.2018, E. 5
-- **Thema**: Aufschiebung des Strafvollzugs (Abs. 2)
-- **Kernaussage**: Die Aufschiebung des Strafvollzugs zugunsten einer ambulanten Behandlung nach Art. 63 Abs. 2 StGB ist eine therapeutisch begründete Entscheidung, keine Gnadenmassnahme. Das Gericht muss prüfen, ob die ambulante Behandlung voraussichtlich erfolgreicher ist als der Strafvollzug allein.
-- **Einschlägig für**: Abs. 2 (Aufschiebung)
+## II. Weitere Entscheide
+
+### [BGer 6B_981/2009 vom 25. Februar 2010](https://mcp.opencaselaw.ch/entscheid/bger_6B_981_2009) E. 1.2 — Ausnahmecharakter des Strafaufschubs
+- **Thema**: Voraussetzungen für den Aufschub des Strafvollzugs nach Art. 63 Abs. 2 StGB.
+- **Kernaussage**: Der Aufschub des Strafvollzugs zugunsten einer ambulanten Behandlung hat Ausnahmecharakter und setzt voraus, dass der unmittelbare Vollzug der Strafe den therapeutischen Erfolg vereiteln würde.
+- **Einschlägig für**: Art. 63 Abs. 2 StGB.
 
 ---
 
-### BGer 6B_789/2019 v. 13.3.2020, E. 3
-- **Thema**: Suchtstoffabhängigkeit und Zusammenhang
-- **Kernaussage**: Bei Suchtstoffabhängigkeit ist der Zusammenhang zwischen Zustand und Tat (lit. a) regelmässig gegeben, wenn die Tat im direkten Zusammenhang mit der Sucht begangen wurde (z.B. Beschaffungskriminalität). Die Prognose nach lit. b muss ergeben, dass die ambulante Suchtbehandlung geeignet ist, die Gefahr weiterer Suchtstraftaten zu verringern.
-- **Einschlägig für**: Abs. 1 lit. a und b (Suchtstoffabhängigkeit)
+### [BGer 6B_850/2016 vom 7. März 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_850_2016) E. 1.3.1 — Anordnungsvoraussetzungen bei psychischen Störungen
+- **Thema**: Prüfung der Behandlungsbedürftigkeit und Erfolgsaussicht bei Art. 63 StGB.
+- **Kernaussage**: Bestätigung der materiellen Voraussetzungen für die Anordnung einer ambulanten Massnahme bei schweren psychischen Störungen.
+- **Einschlägig für**: Art. 63 Abs. 1 StGB.
 
 ---
 
-## Kantonale Entscheide
-
-### Obergericht des Kantons Zürich, SB.2022.38, E. 3
-- **Kanton**: Zürich (ZH)
-- **Thema**: Aufschiebung Strafvollzug
-- **Kernaussage**: Die Aufschiebung des Strafvollzugs zugunsten einer ambulanten Behandlung ist keine Gnadenmassnahme, sondern eine therapeutisch begründete Entscheidung. Eine positive Prognose ist erforderlich.
-- **Einschlägig für**: Abs. 2 (Aufschiebung)
+### [BGer 7B_144/2023 vom 1. Dezember 2023](https://mcp.opencaselaw.ch/entscheid/bger_7B_144_2023) — Vollzug und Wiederaufnahme ambulanter Massnahmen
+- **Thema**: Rechtliche Schranken der Aufhebung und Wiederaufnahme von ambulanten Behandlungen.
+- **Kernaussage**: Beurteilung von behördlichen Aufhebungsverfügungen und Rechtsmitteln gegen den Abbruch einer ambulanten Therapie.
+- **Einschlägig für**: Art. 63 StGB, Art. 63b StGB.
 
 ---
 
-### Appellationsgericht des Kantons Basel-Stadt, APB 2020, E. 2
-- **Kanton**: Basel-Stadt (BS)
-- **Thema**: Vorübergehende stationäre Behandlung
-- **Kernaussage**: Die vorübergehende stationäre Behandlung nach Art. 63 Abs. 3 StGB darf nicht als Umgehung der Voraussetzungen von Art. 59 StGB missbraucht werden. Die zweimonatige Höchstdauer ist zwingend.
-- **Einschlägig für**: Abs. 3 (vorübergehend stationär)
+### [BGer 6B_564/2018 vom 2. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_564_2018) — Keine Haftanrechnung an ambulante Behandlung
+- **Thema**: Anrechnung von Untersuchungshaft auf die Dauer einer ambulanten Massnahme.
+- **Kernaussage**: Untersuchungshaft wird nicht auf die Frist der ambulanten Behandlung angerechnet, da diese keinen Freiheitsentzug darstellt.
+- **Einschlägig für**: Art. 63 Abs. 4 StGB, Art. 51 StGB.
 
 ---
 
-### Obergericht des Kantons Bern, BK.2021.45, E. 4
-- **Kanton**: Bern (BE)
-- **Thema**: Verlängerungspraxis
-- **Kernaussage**: Die Verlängerung der ambulanten Behandlung nach 5 Jahren setzt ein aktuelles Gefahrengutachten voraus. Die kantonale Praxis verlangt eine umfassende Neubeurteilung der Behandlungsprognose.
-- **Einschlägig für**: Abs. 4 (Verlängerung)
+### [Verwaltungsgericht ZH VB.2015.00274 vom 21. Juli 2015](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht__VB.2015.00274) — Therapeutenwahl und Parteirechte
+- **Thema**: Rechtliches Gehör der verurteilten Person bei der Bestimmung der Behandlungsstelle.
+- **Kernaussage**: Die Vollzugsbehörde muss die verurteilte Person vor der Zuweisung zu einem Therapeuten anhören und in die Vollzugsgestaltung einbeziehen.
+- **Einschlägig für**: Art. 63 StGB, Art. 377 ff. StPO.
 
 ---
 
-## EGMR-Entscheide
-
-### EGMR, Staub c. Suisse, Req. n° 56558/11
-- **Thema**: Zwangsbehandlung psychisch Kranker / Art. 3 und 5 EMRK
-- **Kernaussage**: Die Zwangsbehandlung psychisch Kranker muss gesetzlich vorgesehen, medizinisch notwendig und verhältnismässig sein. Dies gilt sinngemäss auch für die ambulante Behandlung nach Art. 63 StGB. Art. 5 Abs. 1 lit. e EMRK erfasst primär stationäre Unterbringungen; die ambulante Behandlung greift weniger stark ein, unterliegt aber dennoch dem Willkürverbot.
-- **Einschlägig für**: EMRK-Konformität (Art. 3, Art. 5 EMRK)
-
----
-
-### EGMR, R.L. c. Suisse, Req. n° 4817/10
-- **Thema**: Haftbedingungen psychisch Kranke / Art. 3 EMRK
-- **Kernaussage**: Die Schweiz muss ausreichend psychiatrische Betreuung gewährleisten. Fehlt eine adäquate Behandlung inhaftierter psychisch Kranker, liegt ein Verstoss gegen Art. 3 EMRK vor. Diese Grundsätze sind relevant für die Frage, ob ambulante Behandlung nach Art. 63 StGB als ausreichend erachtet werden kann.
-- **Einschlägig für**: EMRK-Konformität (Art. 3 EMRK)
-
----
-
-### EGMR, M.S. c. Royaume-Uni, Req. n° 24527/08
-- **Thema**: Ambulante Zwangsbehandlung / Verhältnismässigkeit
-- **Kernaussage**: Ambulante Zwangsmassnahmen im Bereich psychischer Gesundheit müssen den Grundsatz der Verhältnismässigkeit wahren. Für die Schweiz bedeutet dies: Art. 63 StGB muss so ausgelegt werden, dass die ambulante Behandlung nur angeordnet wird, wenn sie im Vergleich zu einer stationären Massnahme oder dem Strafvollzug allein weniger eingriffsintensiv, aber gleichwohl geeignet ist.
-- **Einschlägig für**: EMRK-Konformität (Art. 8 EMRK, Verhältnismässigkeit)
-
----
-
-*Letzte Aktualisierung: 12.06.2025*
+### [Verwaltungsgericht ZH VB.2016.00591 vom 3. Januar 2017](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht_VB.2016.00591) — Beweiswert von Therapieberichten
+- **Thema**: Periodische Berichterstattung der Behandlungsstelle im Massnahmenvollzug.
+- **Kernaussage**: Verlaufsberichten der Therapeuten kommt für die behördliche Beurteilung des Behandlungsfortschritts amtlicher Beweiswert zu.
+- **Einschlägig für**: Art. 63 Abs. 4 StGB, Art. 62d StGB.
