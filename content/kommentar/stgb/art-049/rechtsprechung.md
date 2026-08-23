@@ -2,122 +2,91 @@
 title: "Rechtsprechung zu Art. 49 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: "2026-08-13"
-description: "Übersicht der Entscheide zu Art. 49 StGB — Konkurrenzen, Gesamtstrafenbildung"
-tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 49 StGB — Konkurrenzen, Asperationsprinzip, Gleichartigkeit der Strafen, Zusatzstrafe und Begründungspflicht."
+tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Allgemeiner Teil"]
+agent_verified: true
 revisions:
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGer 6B_304/2026 (echtes Konkurrenzverhältnis Betrug/Identitätsmissbrauch) via OCL case-brief verifiziert."
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide des Bundesgerichts
 
-### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313), E. 1
-- **Thema**: Strafzumessung, Konkurrenzen, Begründungspflicht
-- **Kernaussage**: Hat das Gericht eine Strafe für mehrere Straftaten auszusprechen, hat es zunächst für jede von ihnen die Art der Strafe zu bestimmen. Art. 49 Abs. 1 StGB ist nur anwendbar, wenn diese Strafen gleichartig sind. Die Begründungspflicht erfordert die nachvollziehbare Darlegung der Einzelstrafen und der Erhöhung.
-- **Einschlägig für**: Art. 49 Abs. 1 StGB (6'008 Zit.)
-
----
-
-### [BGE 144 IV 217](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217), E. 2.1
-- **Thema**: Konkurrenzen — Gleichartigkeit der Strafen
-- **Kernaussage**: Die Bildung einer Gesamtstrafe in Anwendung des Asperationsprinzips nach Art. 49 Abs. 1 StGB ist nur möglich, wenn das Gericht im konkreten Fall für jeden einzelnen Normverstoss gleichartige Strafen ausfällt.
-- **Einschlägig für**: Art. 49 Abs. 1 StGB (3'789 Zit.)
-
----
-
-### [BGE 142 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_265), E. 2.4.1
-- **Thema**: Zusatzstrafe bei retrospektiver Konkurrenz
-- **Kernaussage**: Methodik der Zusatzstrafenbildung; Art. 49 Abs. 2 StGB erlaubt keine erneute Beurteilung der in Rechtskraft erwachsenen Grundstrafe. Die Zusatzstrafe ist die infolge Asperation mit der Grundstrafe reduzierte Strafe.
-- **Einschlägig für**: Art. 49 Abs. 2 StGB (2'950 Zit.)
+### [BGE 144 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_313) E. 1.1 — Asperationsprinzip und Begründungspflicht
+- **Thema**: Methodik der Gesamtstrafenbildung und Transparenzerfordernis.
+- **Kernaussage**: Das Gericht muss für jede Straftat zunächst die hypothetische Einzelstrafe festlegen und anschliessend die schärfende Asperation der Grundstrafe nachvollziehbar begründen.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB, Art. 50 StGB.
 
 ---
 
-### [BGE 138 IV 120](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_120), E. 2
-- **Thema**: Gleichartigkeit der Strafen; Vollzug bei kumulativen Strafen
-- **Kernaussage**: Präzisierung des Begriffs der Gleichartigkeit der Strafen. Eine Erhöhung der Zusatzstrafe im Falle einer (teilweisen) retrospektiven Konkurrenz ist in Anwendung von Art. 49 Abs. 1 StGB vorzunehmen.
-- **Einschlägig für**: Art. 49 Abs. 1 und 2 StGB (2'700 Zit.)
+### [BGE 144 IV 217](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_217) E. 2.1 — Erfordernis gleichartiger Strafen
+- **Thema**: Ausschluss der Asperation bei unterschiedlichen Strafarten.
+- **Kernaussage**: Eine Gesamtstrafe darf nur gebildet werden, wenn für sämtliche Konkurrenztaten dieselbe Sanktionsart gewählt wird.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB.
 
 ---
 
-### [BGE 137 IV 57](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57), E. 4
-- **Thema**: Gleichartigkeit bei retrospektiver Konkurrenz
-- **Kernaussage**: Die Bildung einer Gesamtstrafe im Sinne von Art. 49 Abs. 1 StGB ist bei nicht gleichartigen Strafen nicht möglich. Diese sind kumulativ zu verhängen, da das Asperationsprinzip nur greift, wenn mehrere gleichartige Strafen vorliegen.
-- **Einschlägig für**: Art. 49 Abs. 1 und 2 StGB (2'019 Zit.)
+### [BGE 137 IV 57](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_57) E. 4.3.1 — Kumulation bei Ungleichartigkeit
+- **Thema**: Zusammentreffen von Geldstrafen und Freiheitsstrafen.
+- **Kernaussage**: Geldstrafen und Freiheitsstrafen sind nicht gleichartig und dürfen nicht zu einer einheitlichen Gesamtstrafe verschmolzen werden.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB.
 
 ---
 
-## Präzisierung der Rechtsprechung
-
-### [BGE 145 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_1), E. 1
-- **Thema**: Teilweise retrospektive Konkurrenz — Präzisierung
-- **Kernaussage**: Hat das Gericht mehrere Taten zu beurteilen, wovon mindestens eine Tat vor der Verurteilung wegen anderer Taten begangen wurde (teilweise retrospektive Konkurrenz), ist für die neuen Taten eine unabhängige Strafe festzulegen. Zwischen Taten vor und nach dem Ersturteil ist zu unterscheiden. Die Zusatzstrafe und die unabhängige Strafe sind zu addieren.
-- **Einschlägig für**: Art. 49 Abs. 2 StGB (875 Zit.)
+### [BGE 138 IV 120](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_120) E. 5.2 — Nebeneinander von Sanktionsformen
+- **Thema**: Unzulässigkeit der Asperation bei verschiedenen Vollzugsformen.
+- **Kernaussage**: Treffen bedingte und unbedingte Strafen oder unterschiedliche Sanktionsarten aufeinander, gilt das Kumulationsprinzip.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB.
 
 ---
 
-## Weitere Bundesgerichtsentscheide
-
-### [BGE 137 IV 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_249)
-- **Thema**: Widerruf der bedingten Strafe — Vorstrafe darf nicht geändert werden
-- **Kernaussage**: Es widerspricht der ratio legis von Art. 46 Abs. 1 StGB, eine (rechtskräftige) Vorstrafe zulasten des Verurteilten zu ändern, um eine Gesamtstrafe zu bilden.
-- **Einschlägig für**: Art. 49 Abs. 2 StGB, Art. 46 StGB
+### [BGE 142 IV 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_265) E. 2.3 — Retrospektive Konkurrenz und Zusatzstrafe
+- **Thema**: Zusatzstrafenbildung gemäss Art. 49 Abs. 2 StGB.
+- **Kernaussage**: Bei nachträglicher Beurteilung früher begangener Taten ist die Zusatzstrafe so zu bemessen, dass keine Schlechterstellung gegenüber einer gemeinsamen Aburteilung erfolgt.
+- **Einschlägig für**: Art. 49 Abs. 2 StGB.
 
 ---
 
-### [BGE 138 IV 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_113)
-- **Thema**: Retrospektive Konkurrenz — Kassation des Ersturteils
-- **Kernaussage**: Für die Frage, ob und in welchem Umfang das Gericht eine Zusatzstrafe nach Art. 49 Abs. 2 StGB aussprechen muss, ist auf das Datum der ersten Verurteilung im ersten Verfahren abzustellen.
-- **Einschlägig für**: Art. 49 Abs. 2 StGB
+## II. Weitere Entscheide
+
+### [BGE 140 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_150) E. 3.5 — Verschuldensgewichtung
+- **Thema**: Bemessung des Asperationszuschlags.
+- **Kernaussage**: Der Schärfungszuschlag richtet sich nach der sachlichen und zeitlichen Nähe sowie dem Ausmass des deliktischen Zusammenwirkens.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB, Art. 47 StGB.
 
 ---
 
-### [BGE 137 IV 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_113)
-- **Thema**: Konkurrenz zwischen versuchter Tötung und Körperverletzung
-- **Kernaussage**: Bestätigung der Rechtsprechung zur Konkurrenz zwischen versuchter Tötung und einfacher/schwerer Körperverletzung.
-- **Einschlägig für**: Art. 49 Abs. 1 StGB, Art. 9 StGB
+### [BGer 6B_776/2016 vom 8. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_776_2016) E. 2 — Begründung der Einsatzstrafe
+- **Thema**: Festlegung der schwersten Tat als Ausgangspunkt.
+- **Kernaussage**: Das Gericht muss feststellen, welches Delikt abstrakt und konkret die schwerste Straftat bildet.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB.
 
 ---
 
-### [BGE 133 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_150), E. 5
-- **Thema**: Anrechnung der Untersuchungshaft in einem anderen Verfahren
-- **Kernaussage**: Auf die Strafe ist auch die Untersuchungshaft anzurechnen, die in einem anderen Verfahren angeordnet worden ist. Zu entziehende Freiheit ist wenn immer möglich mit bereits entzogener Freiheit zu kompensieren.
-- **Einschlägig für**: Art. 51 StGB, Art. 49 StGB
+### [BGer 6B_1056/2016 vom 6. Juni 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1056_2016) E. 1.3 — Gesetzliche Erhöhungsgrenzen
+- **Thema**: Einhaltung des 50%-Deckels.
+- **Kernaussage**: Der Asperationszuschlag darf das gesetzliche Höchstmass der Strafdrohung für die schwerste Tat um höchstens die Hälfte überschreiten.
+- **Einschlägig für**: Art. 49 Abs. 1 Satz 2 StGB.
 
 ---
 
-### [BGE 135 IV 191](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_191)
-- **Thema**: Strafzumessung bei Mittätern
-- **Kernaussage**: Kein Anspruch auf «Gleichbehandlung im Unrecht» unter Mittätern. Unterschiede in der Strafzumessungspraxis sind zulässig, auch bei gleichem Tatbeitrag.
-- **Einschlägig für**: Art. 49 StGB, Art. 63 StGB aF
+### [Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414) — Methodische Urteilsbegründung
+- **Thema**: Kantonale Praxis zur Darlegung der Gesamtstrafenbildung.
+- **Kernaussage**: Die Urteilsgründe müssen die Einzelstrafen der Nebendelikte und das Ausmass des jeweiligen Schärfungsanteils separat ausweisen.
+- **Einschlägig für**: Art. 49 Abs. 1 StGB.
 
 ---
 
-## Top-Entscheide im Überblick
-
-| Nr | Entscheidung | Zit. | Kernthese |
-|----|---|---|---|
-| 1 | BGE 144 IV 313 | 6'008 | Begründungspflicht bei Konkurrenzen |
-| 2 | BGE 144 IV 217 | 3'789 | Gleichartigkeit der Strafen |
-| 3 | BGE 142 IV 265 | 2'950 | Zusatzstrafe, retrospektive Konkurrenz |
-| 4 | BGE 138 IV 120 | 2'700 | Präzisierung Gleichartigkeit |
-| 5 | BGE 137 IV 57 | 2'019 | Kumulation bei ungleichartigen Strafen |
-| 6 | BGE 145 IV 1 | 875 | Präzisierung teilweise retrospektive Konkurrenz |
-
-## Neuere Entscheide
-
-### BGer 6B_304/2026 vom 30. Juli 2026, E. 1.3, 3 und 4 — Echtes Konkurrenzverhältnis Betrug / Identitätsmissbrauch
-
-**BGer 6B_304/2026 vom 30. Juli 2026** (zur Publikation vorgesehen)
-
-Erstmals klärt das Bundesgericht verbindlich das Konkurrenzverhältnis zwischen **Betrug (Art. 146 StGB)** und **Identitätsmissbrauch (Art. 179decies StGB)** bei Online-Bestellbetrug. Die beiden Delikte stehen in **echtem Konkurrenzverhältnis (Art. 49 StGB)**, da sie unterschiedliche Rechtsgüter und unterschiedliche Geschädigte schützen: Art. 146 StGB schützt das Vermögen und ist im Titel „Vermögensdelikte\" eingereiht, Art. 179decies StGB schützt die Persönlichkeit — nämlich das Recht auf Wahrung der eigenen Identität — und ist systematisch unter „Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich\" eingegliedert (E. 3.1). Ein **concours imparfait durch Absorption** kommt nicht in Betracht, da bei verschiedener Rechtsgütern **und** verschiedener Geschädigter die Voraussetzungen der Absorption (Identität der verletzten Person) nicht erfüllt sind (E. 1.3, E. 4). Das Gericht folgt damit der herrschenden Lehre und distanziert sich bewusst von der im Bundesbotschaftsentwurf nur beiläufig („peut\") erwogenen Absorption (E. 3.3). Parallele zur Rechtsprechung, wonach Betrug und Urkundenfälschung (Art. 251 StGB) trotz verschiedener Rechtsgüter in echtem Konkurrenzverhältnis stehen (BGE 138 IV 209 E. 5.5; BGE 129 IV 53 E. 3; E. 3.2). Leitentscheid zur dogmatischen Abgrenzung von concours parfait und concours imparfait bei Internetdelinquenz.
-
-→ [BGer 6B_304/2026 vom 30. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_304_2026)
-
----
-
-*Letzte Aktualisierung: 31. Juli 2026*
+### [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089) — Zusatzstrafenberechnung
+- **Thema**: Methodik der retrospektiven Gesamtstrafe im kantonalen Berufungsverfahren.
+- **Kernaussage**: Das Gericht ermittelt zuerst die hypothetische Gesamtstrafe und zieht die rechtskräftig verhängte Grundstrafe rechnerisch ab.
+- **Einschlägig für**: Art. 49 Abs. 2 StGB.

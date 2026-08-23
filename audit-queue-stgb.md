@@ -57,7 +57,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 51 | [x] 2026-08-23 | [Art. 42](content/kommentar/stgb/art-042/_index.md) | 🟢 A | 100 % | 19 | `korrekt` | 0 | 0 |
 | 52 | [x] 2026-08-23 | [Art. 43](content/kommentar/stgb/art-043/_index.md) | 🟢 A | 100 % | 16 | `korrekt` | 0 | 0 |
 | 53 | [x] 2026-08-23 | [Art. 48](content/kommentar/stgb/art-048/_index.md) | 🟢 A | 100 % | 17 | `korrekt` | 0 | 0 |
-| 54 | [ ] | [Art. 49](content/kommentar/stgb/art-049/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
+| 54 | [x] 2026-08-23 | [Art. 49](content/kommentar/stgb/art-049/_index.md) | 🟢 A | 100 % | 18 | `korrekt` | 0 | 0 |
 | 55 | [ ] | [Art. 128](content/kommentar/stgb/art-128/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
 
 **Total: 55 sanierungsbedürftige Artikel in der Queue.**
