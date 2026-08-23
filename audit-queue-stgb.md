@@ -44,7 +44,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 38 | [x] 2026-08-23 | [Art. 259](content/kommentar/stgb/art-259/_index.md) | 🟢 A | 100 % | 18 | `korrekt` | 0 | 0 |
 | 39 | [x] 2026-08-23 | [Art. 285](content/kommentar/stgb/art-285/_index.md) | 🟢 A | 100 % | 17 | `korrekt` | 0 | 0 |
 | 40 | [x] 2026-08-23 | [Art. 286](content/kommentar/stgb/art-286/_index.md) | 🟢 A | 100 % | 20 | `korrekt` | 0 | 0 |
-| 41 | [ ] | [Art. 305bis](content/kommentar/stgb/art-305bis/_index.md) | ⚪ – | – | 0 | `korrekt` | 22 | 0 |
+| 41 | [x] 2026-08-23 | [Art. 305bis](content/kommentar/stgb/art-305bis/_index.md) | 🟢 A | 100 % | 23 | `korrekt` | 0 | 0 |
 | 42 | [ ] | [Art. 305ter](content/kommentar/stgb/art-305ter/_index.md) | ⚪ – | – | 0 | `korrekt` | 8 | 0 |
 | 43 | [ ] | [Art. 106](content/kommentar/stgb/art-106/_index.md) | ⚪ – | – | 0 | `korrekt` | 4 | 0 |
 | 44 | [ ] | [Art. 67](content/kommentar/stgb/art-067/_index.md) | ⚪ – | – | 0 | `korrekt` | 3 | 0 |
