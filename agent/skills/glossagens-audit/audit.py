@@ -85,7 +85,7 @@ REGESTE_NORMKETTE = re.compile(
     r"^(?:Art\.\s*[\d\w]+[^.;]*?[.;]\s*)+(?=[A-ZÄÖÜ])"
 )
 FEDLEX_FUSSNOTE = re.compile(
-    r"(?:Fassung(?:\s+[\w\s]+)?\s+gemäss|"
+    r"(?:(?:Fassung|Ausdruck)(?:\s+[\w\s]+)?\s+gemäss|"
     r"(?:[A-Za-zÄÖÜäöü]+\s+)?Satz eingefügt durch|"
     r"Eingefügt durch|Aufgehoben durch|Ursprünglich|Berichtigt von)\b.*?"
     r"(?:AS|RO|FF|BBl)\s+\d{4}\s+[^.)]*\)?\s*\.?",
