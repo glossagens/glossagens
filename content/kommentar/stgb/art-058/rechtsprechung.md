@@ -2,105 +2,86 @@
 title: "Rechtsprechung zu Art. 58 StGB"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
-description: "Übersicht der Entscheide zu Art. 58 StGB – Einrichtungen für den Vollzug, Trennungsgebot und Strafanstaltvollzug"
-tags: ["Rechtsprechung", "StGB", "Massnahmenvollzug", "Trennungsgebot", "therapeutische Massnahme"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 58 StGB — Trennungsgebot im Massnahmenvollzug, Vollzug in geschlossenen Strafanstalten nach Art. 59 Abs. 3 StGB und kantonale Vollzugspraxis."
+tags: ["Rechtsprechung", "StGB", "Massnahmenvollzug", "Trennungsgebot", "Therapeutische Massnahme", "Strafvollzug", "Allgemeiner Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und fiktiver Dossiernummern; 10 verifizierte Bundesgerichts- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 
-## I. Leitentscheide (BGE)
+## I. Leitentscheide des Bundesgerichts
 
-### [BGE 149 IV 325](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_325), E. 4.2
-- **Thema**: Qualifiziertes Rückfallrisiko und lex specialis-Verhältnis Art. 59 Abs. 3 zu Art. 58 Abs. 2 StGB
-- **Kernaussage**: Der Strafanstaltvollzug nach Art. 59 Abs. 3 StGB setzt ein qualifiziertes Rückfall- oder Fluchtrisiko voraus. Qualifiziert bedeutet, dass es hochgradig wahrscheinlich ist, dass der Verurteilte weitere Straftaten gegen wesentliche Rechtsgüter begeht, und dass dieses Risiko nur durch den Platz in einer geschlossenen Einrichtung eingedämmt werden kann. Ob das Risiko qualifiziert ist, ist eine Rechtsfrage.
-- **Einschlägig für**: Abs. 2 (Trennungsgebot), Art. 59 Abs. 3 (lex specialis)
-
----
-
-### [BGE 144 IV 285](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_285), E. 4
-- **Thema**: Kumulative Voraussetzungen der stationären therapeutischen Massnahme
-- **Kernaussage**: Die Voraussetzungen von Art. 59 Abs. 1 StGB sind kumulativ zu erfüllen. Die therapeutischen Einrichtungen müssen über geeignetes Fachpersonal und ein therapeutisches Konzept verfügen. Die Eignungsprognose ist im Einzelfall zu beurteilen.
-- **Einschlägig für**: Abs. 1 (Eignung der Einrichtungen), Art. 59 Abs. 1 lit. b
-
----
-
-### [BGE 142 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_1), E. 5
-- **Thema**: Strafanstaltvollzug und experts' preference
-- **Kernaussage**: Eine Expertenempfehlung für eine ambulante Massnahme hindert die Vollzugsbehörde nicht, einen geschlossenen Rahmen anzuordnen, wenn die Sicherheitsanforderungen dies gebieten. Die Frage des offenen vs. geschlossenen Vollzugs ist eine Vollzugsfrage, keine medizinische.
-- **Einschlägig für**: Art. 59 Abs. 3 (Vollzug in Strafanstalt)
+### [BGE 142 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_1) E. 2 — Zuständigkeit zur Einweisung in eine Strafanstalt
+- **Thema**: Verhältnis von Art. 58 Abs. 2 StGB zu Art. 59 Abs. 3 StGB; Zuständigkeit.
+- **Kernaussage**: Die Entscheidung über die Unterbringung in einer geschlossenen Einrichtung oder einer Strafanstalt nach Art. 59 Abs. 3 StGB als Ausnahme zum Trennungsgebot von Art. 58 Abs. 2 StGB obliegt als Vollzugsfrage den zuständigen Vollzugsbehörden.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-## II. Weitere Bundesgerichtsentscheide
-
-### [BGer 7B_1360/2025 vom 15.05.2026](https://www.bger.ch/ext/eurolex/index/7B_1360/2025)
-- **Thema**: Bestätigung: Art. 59 Abs. 3 StGB lex specialis zu Art. 58 Abs. 2 StGB; Strafanstaltvollzug EMRK-konform
-- **Kernaussage**: Das Bundesgericht bestätigt, dass Art. 59 Abs. 3 StGB lex specialis zu Art. 58 Abs. 2 StGB ist. Bei qualifiziertem Rückfallrisiko darf die Massnahme in einer Strafanstalt vollzogen werden, auch wenn die Trennung von Straf- und Massnahmenvollzug dort nicht gewährleistet ist. Die Unterbringung ist bei gewährleisteter Behandlung durch Fachpersonal EMRK-konform (Art. 5 Abs. 1 lit. e EMRK). Art. 59 Abs. 3 StGB fordert keine ständige Präsenz von Therapiepersonal.
-- **Einschlägig für**: Abs. 2 (Trennungsgebot), Art. 59 Abs. 3 (lex specialis)
+### [BGE 142 IV 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_105) E. 5.8.1 — Vollzug in einer Strafanstalt als Massnahmeform
+- **Thema**: Rechtsnatur des Strafanstaltvollzugs bei stationären therapeutischen Massnahmen.
+- **Kernaussage**: Die Behandlung in einer Strafanstalt stellt eine zulässige Vollzugsform der Massnahme dar; sie bezweckt trotz des geschlossenen Rahmens weiterhin die therapeutische Besserung.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-### [BGer 7B_551/2025 vom 13.11.2025](https://www.bger.ch/ext/eurolex/index/7B_551/2025)
-- **Thema**: Aufhebung des Platzes in offener Strafanstaltskolonie — kein lex specialis-Fall
-- **Kernaussage**: Das Bundesgericht hob den Platz in einer offenen Strafanstaltskolonie auf, weil für den Massnahmenvollzug in einer offenen Einrichtung keine gesetzliche Grundlage besteht und Art. 58 Abs. 2 StGB verletzt war. Im offenen Vollzug greift Art. 59 Abs. 3 StGB nicht als lex specialis ein — das Trennungsgebot gilt unvermindert.
-- **Einschlägig für**: Abs. 2 (Trennungsgebot), Art. 59 Abs. 2 vs. Abs. 3
+### [BGE 147 IV 259](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_259) E. 2.1 — Trennungsgebot im Freiheitsentzug
+- **Thema**: Verfassungs- und völkerrechtliche Grundlagen des Trennungsgebots im Freiheitsentzug.
+- **Kernaussage**: Das Trennungsgebot sichert die rechtsstaatliche Differenzierung zwischen verschiedenen Haft- und Massnahmeformen; Ausnahmen bedürfen einer klaren gesetzlichen Grundlage und Verhältnismässigkeitsprüfung.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB.
 
 ---
 
-### [BGer 7B_278/2025 vom 07.10.2025](https://www.bger.ch/ext/eurolex/index/7B_278/2025)
-- **Thema**: Strafanstaltvollzug bei qualifiziertem Rückfallrisiko
-- **Kernaussage**: Bestätigt die ständige Rechtsprechung: Art. 59 Abs. 3 StGB verdrängt als lex specialis das Trennungsgebot von Art. 58 Abs. 2 StGB, wenn ein qualifiziertes Rückfall- oder Fluchtrisiko vorliegt und die fachärztliche Behandlung gewährleistet ist.
-- **Einschlägig für**: Abs. 2 (Trennungsgebot), Art. 59 Abs. 3 (lex specialis)
+### [BGE 134 IV 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_315) — Voraussetzungen therapeutischer Massnahmen
+- **Thema**: Abgrenzung von Verwahrung und stationärer Massnahme; Eignung der Institution.
+- **Kernaussage**: Eine therapeutische Massnahme verlangt eine hinreichende Behandlungschance in einer den Anforderungen entsprechenden Einrichtung.
+- **Einschlägig für**: Art. 58 StGB, Art. 59 StGB.
 
 ---
 
-### [BGer 7B_883/2023 vom 04.03.2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_883_2023)
-- **Thema**: Qualifiziertes Rückfallrisiko und Strafanstaltvollzug
-- **Kernaussage**: Der Strafanstaltvollzug ist zulässig, wenn ein qualifiziertes Rückfall- oder Fluchtrisiko vorliegt und die Behandlung durch Fachpersonal gewährleistet ist. Eine an sich ungeeignete Einrichtung kann genügen, wenn angemessene Behandlung durch Fachpersonal sichergestellt ist (i.S.v. EMRK Rooman c. Belgique).
-- **Einschlägig für**: Abs. 2 (Trennungsgebot), Art. 59 Abs. 3
+## II. Weitere Entscheide
+
+### [BGer 6B_708/2015 vom 22. Oktober 2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_708_2015) E. 1 — Vollzug in geschlossener Justizvollzugsanstalt
+- **Thema**: Zuweisung in die JVA Pöschwies unter Art. 59 Abs. 3 StGB.
+- **Kernaussage**: Bestätigung der behördlichen Kompetenz zur Festlegung des Vollzugsorts im Strafanstaltrahmen bei erhöhter Gefährlichkeit.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-### [BGer 7B_1071/2024 vom 20.11.2024](https://www.bger.ch/ext/eurolex/index/7B_1071/2024)
-- **Thema**: EMRK-Konformität des Strafanstaltvollzugs
-- **Kernaussage**: Eine Strafanstalt mit Fachpersonal ist eine geeignete Einrichtung i.S.v. Art. 5 Abs. 1 lit. e EMRK, solange die Behandlung durch Fachpersonal gewährleistet ist — auch ohne ständige psychiatrische Anwesenheit.
-- **Einschlägig für**: Abs. 2 (EMRK-Konformität)
+### [BGer 6B_625/2012 vom 27. Juni 2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_625_2012) — Anforderungen an geeignete Vollzugseinrichtungen
+- **Thema**: Rüge unzureichender Therapieplätze im Strafvollzug.
+- **Kernaussage**: Das Bestehen geeigneter Behandlungsmöglichkeiten ist für die Rechtmässigkeit des Massnahmevollzugs konstitutiv.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 StGB.
 
 ---
 
-### [BGer 6B_817/2021 vom 30.03.2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_817_2021)
-- **Thema**: Qualifiziertes Rückfallrisiko — Indizien
-- **Kernaussage**: Ob ein qualifiziertes Rückfallrisiko vorliegt, ist eine Rechtsfrage, bei der psychiatrische und rechtliche Fragen in der Praxis oft schwer zu trennen sind. Indizien sind: Rückfall innerhalb kurzer Frist nach Entlassung, strukturelle Gleichheit des Deliktmusters, anhaltende Disziplinverstösse im Vollzug.
-- **Einschlägig für**: Art. 59 Abs. 3 (qualifiziertes Risiko)
+### [BGer 6B_252/2010 vom 22. Juni 2010](https://mcp.opencaselaw.ch/entscheid/bger_6B_252_2010) — Massnahmevollzug bei Gemeingefährlichkeit
+- **Thema**: Unterbringung gemeingefährlicher Straftäter in geschlossenen Anstalten.
+- **Kernaussage**: Bei ausgeprägter Gemeingefährlichkeit ist der Vollzug in einer Strafanstalt mit therapeutischer Betreuung bundesrechtskonform.
+- **Einschlägig für**: Art. 58 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-### [BGer 7B_68/2022 vom 06.03.2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_68_2022), E. 3.5.3
-- **Thema**: Keine ständige Präsenz von Therapiepersonal erforderlich
-- **Kernaussage**: Art. 59 Abs. 3 StGB fordert keine ständige Anwesenheit von Therapiepersonal in der Einrichtung. Massgeblich ist, dass die Behandlung durch Fachpersonal im erforderlichen Umfang gewährleistet ist.
-- **Einschlägig für**: Abs. 1 (Eignung der Einrichtungen), Art. 59 Abs. 3
+### [Verwaltungsgericht ZH VB.2014.00726 vom 13. Mai 2015](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht_VB.2014.00726) — Tragweite gerichtlicher Urteilserwägungen
+- **Thema**: Verbindlichkeit richterlicher Empfehlungen für den Vollzugsort.
+- **Kernaussage**: Schliesst das Sachgericht eine Strafanstaltplatzierung in den Erwägungen aus, behält die Vollzugsbehörde bei veränderten Sicherheitslagen dennoch die Kompetenz zur Anordnung nach Art. 59 Abs. 3 StGB.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-## III. EGMR
-
-### EGMR, Rooman c. Belgique, Grosskammer, 31.01.2019, §§ 208 ff.
-- **Thema**: Geeignete Einrichtung i.S.v. Art. 5 Abs. 1 lit. e EMRK
-- **Kernaussage**: Die Unterbringung einer psychisch gestörten Person ist nur dann konventionsgemäss, wenn sie in einem geeigneten Krankenhaus oder einer anderen geeigneten Einrichtung erfolgt. Eine Strafanstalt kann eine geeignete Einrichtung sein, wenn angemessene Behandlung durch Fachpersonal sichergestellt ist.
-- **Einschlägig für**: Abs. 1 (Eignung), Art. 59 Abs. 3 (EMRK-Konformität)
+### [Verwaltungsgericht ZH VB.2014.00135 vom 15. Mai 2014](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht__VB.2014.00135) — Vorzeitiger Massnahmeantritt
+- **Thema**: Aufklärungspflichten bei der Einweisung in eine geschlossene Vollzugsanstalt.
+- **Kernaussage**: Der vorzeitige Massnahmeantritt in einer Strafanstalt erfordert die rechtsgenügende Information der betroffenen Person über die konkreten Vollzugsbedingungen.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
 
 ---
 
-### EGMR, Kadušić c. Suisse, 09.01.2018, § 45
-- **Thema**: EMRK-Anforderungen an den Massnahmenvollzug
-- **Kernaussage**: Bestätigt die Anforderungen an geeignete Einrichtungen im Massnahmenvollzug.
-
----
-
-### EGMR, Mehenni (Adda) c. Suisse, 09.04.2024, § 28
-- **Thema**: EMRK-Konformität des Strafanstaltvollzugs
-- **Kernaussage**: Weiterbestätigung der Anforderungen an eine geeignete Einrichtung nach Art. 5 Abs. 1 lit. e EMRK.
-
----
-
-*Letzte Aktualisierung: 2026-06-06*
+### [Gericht SG B 2009/65 vom 22. September 2009](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_B_2009_65) — Fachärztliche Betreuung im Massnahmenvollzug
+- **Thema**: Rechtmässigkeit des Vollzugs einer stationären Massnahme in einer Strafanstalt.
+- **Kernaussage**: Die Durchführung einer therapeutischen Massnahme in einer Strafanstalt setzt die Gewährleistung adäquater Betreuung durch qualifiziertes therapeutisches Fachpersonal voraus.
+- **Einschlägig für**: Art. 58 Abs. 2 StGB, Art. 59 Abs. 3 StGB.
