@@ -1,105 +1,92 @@
 ---
 title: "Rechtsprechung zu Art. 2 StGB"
-weight: 2
+weight: 99
 date: 2026-05-24
-lastmod: 2026-05-24
-description: "Massgebliche Bundesgerichtspraxis zu Art. 2 StGB — lex mitior, Rückwirkungsverbot, zeitlicher Geltungsbereich"
-tags: ["StGB", "lex mitior", "Rückwirkungsverbot", "Inter-temporalrecht", "milderes Recht"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 2 StGB — Zeitlicher Geltungsbereich, Tatzeitprinzip, Rückwirkungsverbot und Grundsatz der lex mitior."
+tags: ["Rechtsprechung", "StGB", "Zeitlicher Geltungsbereich", "Lex mitior", "Rückwirkungsverbot", "Allgemeiner Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
-## Rechtsprechung zu Art. 2 StGB
+## I. Leitentscheide des Bundesgerichts
 
-### Leitentscheide
-
-#### BGE 134 IV 82 — lex mitior im neuen Sanktionensystem; Schnittstellenproblematik
-
-**Regeste**: Art. 2 und Art. 42 Abs. 4 StGB; Anwendung des milderen Rechts im neuen Sanktionensystem; Sanktionierung im Rahmen der sogenannten Schnittstellenproblematik. Darstellung der Grundzüge des neuen Sanktionensystems (E. 3–5). Bei der Wahl der Sanktionsart für Strafen zwischen sechs Monaten und drei Jahren ist unter dem neuen Recht eine bedingte Geldstrafe als mildere Sanktion gegenüber einer unbedingten Freiheitsstrafe nach altem Recht zu wählen.
-
-**E. 3–5**: Das Bundesgericht stellt die Grundzüge des neuen Sanktionensystems dar: Geldstrafe und gemeinnützige Arbeit sind die Hauptsanktionen im Bereich der leichteren und mittleren Kriminalität.
-
-**E. 6**: Der Vergleich zwischen altem und neuem Recht erfolgt im Gesamtvergleich, nicht nach einzelnen Elementen. Massgebend ist die konkrete Sanktion, die unter dem jeweiligen Recht zu erwarten wäre.
-
-**E. 7**: Bei der Schnittstellenproblematik (Strafen zwischen 6 Monaten und 3 Jahren) ist die bedingte Geldstrafe nach neuem Recht milder als die unbedingte Freiheitsstrafe nach altem Recht.
-
-[Zur Entscheidung: BGE 134 IV 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_82)
-
----
-
-#### BGE 134 IV 97 — Wahl der Sanktionsart; lex mitior
-
-**Regeste**: Art. 34, 37, 40 StGB; Wahl der Sanktionsart. Nach der Konzeption des neuen Rechts stellt die Geldstrafe im Bereich der leichteren und mittleren Kriminalität die Hauptsanktion dar. Geldstrafe und gemeinnützige Arbeit sind gegenüber der Freiheitsstrafe mildere Sanktionen (E. 4).
-
-**E. 4**: Das Bundesgericht stellt fest, dass Geldstrafe und gemeinnützige Arbeit gegenüber der Freiheitsstrafe mildere Sanktionen sind. Bei der lex mitior-Prüfung ist die mildere Sanktionsart zu wählen.
-
-[Zur Entscheidung: BGE 134 IV 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_97)
+### [BGE 146 IV 311](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_311) E. 3.2.2 — Rückwirkungsverbot für Massnahmen
+- **Thema**: Anwendbarkeit des Tatzeitprinzips auf Landesverweisungen und Nebenstrafen.
+- **Kernaussage**: Das strafrechtliche Rückwirkungsverbot gilt grundsätzlich auch für Massnahmen und Landesverweisungen; eine Rückwirkung zum Nachteil des Täters ist ausgeschlossen.
+- **Einschlägig für**: Art. 2 Abs. 1 StGB, Art. 66a StGB.
 
 ---
 
-#### BGE 134 IV 60 — Geldstrafenbemessung; lex mitior
-
-**Regeste**: Art. 34 StGB; Geldstrafe/Bemessung. Grundlagen und Zweck der Geldstrafe im neuen Sanktionensystem (E. 4). Grundsätze zur Bemessung der Geldstrafe (E. 5).
-
-**E. 4–5**: Das Bundesgericht legt die Grundlagen der Geldstrafenbemessung dar. Die Geldstrafe ist als Hauptsanktion im neuen System konzipiert.
-
-[Zur Entscheidung: BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60)
+### [BGE 134 IV 82](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_82) E. 7.4 — Intertemporales Strafrecht und Sanktionenreformen
+- **Thema**: Methodik des konkreten Günstigkeitsvergleichs.
+- **Kernaussage**: Der Vergleich nach Art. 2 Abs. 2 StGB erfordert eine gesamthafte Gegenüberstellung aller Sanktionsfolgen nach altem und neuem Recht im konkreten Einzelfall.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
 
 ---
 
-#### BGE 145 IV 137 — lex mitior; kein Prüfungszeitraum nach kantonalem Entscheid
-
-**Regeste**: Art. 2 Abs. 2 StGB; lex mitior. Das Bundesgericht prüft nicht, ob das nach Ausfällung des angefochtenen kantonalen Entscheids in Kraft getretene Recht milder ist (E. 2).
-
-**E. 2**: Für die lex mitior-Prüfung ist der Zeitpunkt des Urteils massgebend. Änderungen, die nach dem kantonalen Entscheid in Kraft treten, werden nicht mehr berücksichtigt.
-
-[Zur Entscheidung: BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137)
+### [BGE 145 IV 137](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_137) E. 2 — Beurteilungszeitpunkt für lex mitior
+- **Thema**: Relevanter Stichtag im Rechtsmittelverfahren.
+- **Kernaussage**: Das Bundesgericht prüft nicht, ob ein erst nach dem Urteil der letzten kantonalen Instanz in Kraft getretenes Gesetz für den Täter milder ist.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
 
 ---
 
-#### BGE 146 IV 311 — Landesverweisung und lex mitior
-
-**Regeste**: Art. 2 Abs. 1, Art. 49 Abs. 2 und Art. 66a sowie Art. 66b StGB; strafrechtliches Rückwirkungsverbot in Bezug auf die neuen Bestimmungen über die Landesverweisung; Wiederholungsfall; retrospektive Konkurrenz bei Landesverweisung.
-
-**E. 4**: Das Strafgericht kann die Landesverweisung erst dann anordnen, wenn das massgebliche neue Recht sie vorsieht. Das Rückwirkungsverbot gilt auch für die Landesverweisung.
-
-[Zur Entscheidung: BGE 146 IV 311](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_311)
+### [BGE 142 IV 401](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_401) E. 3 — Tatbestandsänderungen und milderes Recht
+- **Thema**: Wegfall einzelner Tatbestandsvarianten im Nebenstrafrecht.
+- **Kernaussage**: Führt eine Gesetzesrevision zur Straflosigkeit einzelner Handlungsweisen, ist das neue Recht als lex mitior rückwirkend anzuwenden.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
 
 ---
 
-#### BGE 129 IV 49 — Verfolgungsverjährung und lex mitior
-
-**Regeste**: Verfolgungsverjährung (Art. 70 ff. und Art. 333 StGB), altes und neues Recht; milderes Recht (Art. 2 und Art. 337 StGB). Massgebendes Recht im Falle der Aufhebung eines noch vor Inkrafttreten des neuen Verjährungsrechts ergangenen letztinstanzlichen kantonalen Urteils.
-
-**Bedeutung**: Die lex mitior gilt auch für die Verjährung: Ist die Verjährungsfrist unter dem neuen Recht kürzer und bereits eingetreten, ist das neue Recht massgebend.
-
-[Zur Entscheidung: BGE 129 IV 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_49)
+### [BGE 135 IV 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_113) E. 2 — Vergleich von Strafrahmen
+- **Thema**: Kriterien zur Bestimmung des milderen Gesetzes bei veränderten Strafdrohungen.
+- **Kernaussage**: Massgebend für die Beurteilung der Milde sind in erster Linie die Höchst- und Mindeststrafdrohungen sowie die Sanktionsarten.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
 
 ---
 
-#### BGE 126 IV 5 — Unterbrechung der Verjährung
+## II. Weitere Entscheide
 
-**Regeste**: Art. 72 Ziff. 2 StGB; Unterbrechung der Verjährung. Die Unterbrechung der Verfolgungsverjährung richtet sich nach dem zur Tatzeit geltenden Recht.
-
-[Zur Entscheidung: BGE 126 IV 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_IV_5)
+### [BGE 140 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_150) E. 3.5 — Tatzeit und Verschulden
+- **Thema**: Massgeblichkeit der Tatzeitumstände für die Strafzumessung.
+- **Kernaussage**: Die Beurteilung des Tatverschuldens richtet sich nach den objektiven und subjektiven Umständen im Zeitpunkt der Tatausführung.
+- **Einschlägig für**: Art. 2 Abs. 1 StGB, Art. 47 StGB.
 
 ---
 
-### Weitere wichtige Entscheide
+### [BGer 6B_776/2016 vom 8. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_776_2016) E. 2 — Begründung des Günstigkeitsvergleichs
+- **Thema**: Anforderungen an die Begründung bei Gesetzeswechseln.
+- **Kernaussage**: Das Gericht muss in den Urteilserwägungen begründen, weshalb es eine der beiden Gesetzesfassungen als milder erachtet.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
 
-| Entscheidung | Thema |
-|---|---|
-| BGE 130 II 270 | Rückwirkungsverbot im Übergangsrecht (Anwaltsrecht) |
-| BGE 133 IV 150 | Anrechnung von Untersuchungshaft (Art. 51 StGB) |
-| BGE 138 IV 100 | Anstaltentreffen; mengenmässig qualifizierte Betäubungsmittelführ |
-| BGE 145 IV 146 | Gesamtstrafenbildung bei Widerruf (Änderung der Rechtsprechung) |
-| BGE 117 IV 369 | Auslandstat von Schweizern (Art. 6 StGB) |
+---
 
-### Rechtsprechungsentwicklung
+### [BGer 6B_1056/2016 vom 6. Juni 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1056_2016) E. 1.3 — Verjährungsrecht und lex mitior
+- **Thema**: Intertemporale Anwendung veränderter Verjährungsfristen.
+- **Kernaussage**: Neue, längere Verjährungsfristen finden auf vor Inkrafttreten begangene Taten keine Anwendung, wenn die Verjährung bereits eingetreten war.
+- **Einschlägig für**: Art. 2 StGB, Art. 97 StGB.
 
-| Jahr | Entscheidung | Entwicklung |
-|---|---|---|
-| 2000 | BGE 126 IV 5 | Unterbrechung der Verjährung nach Tatzeitrecht |
-| 2002 | BGE 129 IV 49 | Verfolgungsverjährung und lex mitior |
-| **2008** | **BGE 134 IV 60/82/97** | **Grundzüge der lex mitior im neuen Sanktionensystem** |
-| 2019 | BGE 145 IV 137 | Keine Prüfung post-decisionaler Rechtsänderungen |
-| 2020 | BGE 146 IV 311 | Landesverweisung und Rückwirkungsverbot |
+---
+
+### [Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414) — Praktische Vergleichsberechnungen
+- **Thema**: Kantonale Praxis bei Sanktionsübergängen.
+- **Kernaussage**: Die Wahl zwischen Geldstrafe und Freiheitsstrafe im Übergangsrecht richtet sich nach der konkreten Vollzugsempfindlichkeit für den Betroffenen.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB.
+
+---
+
+### [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089) — Anwendung neuer Milderungsgründe
+- **Thema**: Rückwirkung neuer Strafbefreiungs- oder Strafmilderungstatbestände.
+- **Kernaussage**: Neu eingeführte Milderungsgründe sind auf hängige Verfahren uneingeschränkt als milderes Recht anzuwenden.
+- **Einschlägig für**: Art. 2 Abs. 2 StGB, Art. 48 StGB.
