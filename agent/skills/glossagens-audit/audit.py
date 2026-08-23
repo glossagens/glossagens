@@ -88,7 +88,7 @@ FEDLEX_FUSSNOTE = re.compile(
     r"(?:(?:Fassung|Ausdruck)(?:\s+[\w\s]+)?\s+gemäss|"
     r"(?:[A-Za-zÄÖÜäöü]+\s+)?Satz eingefügt durch|"
     r"Eingefügt durch|Aufgehoben durch|Ursprünglich|Berichtigt von)\b.*?"
-    r"(?:AS|RO|FF|BBl)\s+\d{4}\s+[^.)]*\)?\s*\.?",
+    r"(?:AS|RO|FF|BBl)\s+\d{4}\s+[^.)]*\)?\.?(?:\s*Diese\s+[^.]*?\.\s*wurde\s+[^.]*\.)?\s*",
     re.IGNORECASE | re.DOTALL,
 )
 PINPOINT = re.compile(r"\b(?:E\.|consid\.)\s*(\d+(?:\.\d+)*)")
