@@ -52,7 +52,7 @@ Reihenfolge: C-Artikel zuerst, gefolgt von Artikeln mit halluzinierten Referenze
 | 46 | [x] 2026-08-23 | [Art. 19](content/kommentar/stgb/art-019/_index.md) | 🟢 A | 100 % | 18 | `korrekt` | 0 | 0 |
 | 47 | [x] 2026-08-23 | [Art. 133](content/kommentar/stgb/art-133/_index.md) | 🟢 A | 100 % | 17 | `korrekt` | 0 | 0 |
 | 48 | [x] 2026-08-23 | [Art. 2](content/kommentar/stgb/art-002/_index.md) | 🟢 A | 100 % | 19 | `korrekt` | 0 | 0 |
-| 49 | [ ] | [Art. 13](content/kommentar/stgb/art-013/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
+| 49 | [x] 2026-08-23 | [Art. 13](content/kommentar/stgb/art-013/_index.md) | 🟢 A | 100 % | 18 | `korrekt` | 0 | 0 |
 | 50 | [ ] | [Art. 30](content/kommentar/stgb/art-030/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
 | 51 | [ ] | [Art. 42](content/kommentar/stgb/art-042/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
 | 52 | [ ] | [Art. 43](content/kommentar/stgb/art-043/_index.md) | ⚪ – | – | 0 | `korrekt` | 1 | 0 |
