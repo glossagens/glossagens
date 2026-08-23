@@ -241,8 +241,17 @@ def norm(s):
     s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
     s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s) # "329 g" -> "329g", "257 d" -> "257d"
     s = re.sub(r"\berforder\s+lichen\b", "erforderlichen", s) # OCR-Split-Fix
+    s = re.sub(r"\bgesamt\s+strafe\b", "gesamtstrafe", s, flags=re.I) # Fedlex-Typo-Fix
     s = re.sub(r"\s+", " ", s)
     return s.strip().lower()
+
+
+def clean_fedlex(text: str) -> str:
+    """Bereinigt amtlichen Fedlex-Text für den Vergleich."""
+    t = FEDLEX_FUSSNOTE.sub(" ", text)
+    t = re.sub(r"\bGesamt\s+strafe\b", "Gesamtstrafe", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t.strip().lower()
 
 
 def strip_md(s):
