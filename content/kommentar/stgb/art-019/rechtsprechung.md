@@ -2,90 +2,91 @@
 title: "Rechtsprechung zu Art. 19 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: "2026-08-17"
-description: "Übersicht der Entscheide zu Art. 19 StGB – Schuldfähigkeit"
-tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "verminderte Schuldfähigkeit"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 19 StGB — Schuldfähigkeit, Schuldunfähigkeit, verminderte Schuldfähigkeit, Massnahmen und actio libera in causa."
+tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Massnahmen", "Allgemeiner Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide des Bundesgerichts
 
-### [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55), E. 5.5–5.8
-- **Thema**: Strafzumessung bei verminderter Schuldfähigkeit
-- **Kernaussage**: Ausgehend von der objektiven Tatschwere hat der Richter das subjektive Tatverschulden zu bewerten, wobei er die verminderte Schuldfähigkeit zu berücksichtigen hat. Er muss dartun, in welchem Umfang sich diese verschuldensmindernd auswirkt. Die verminderte Schuldfähigkeit allein führt grundsätzlich nicht zur Unterschreitung des ordentlichen Strafrahmens.
-- **Einschlägig für**: Abs. 2 (verminderte Schuldfähigkeit, Strafmilderung)
-
----
-
-### [BGE 143 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_330), E. 2.2
-- **Thema**: Freiheitsentziehende Massnahmen trotz Schuldunfähigkeit
-- **Kernaussage**: Eine freiheitsentziehende Strafe oder Massnahme kommt ungeachtet einer vollständigen oder teilweisen Schuldunfähigkeit (Art. 19 StGB) in Betracht. Der Haftrichter prüft nur den dringenden Tatverdacht, nicht die Schuldfragen.
-- **Einschlägig für**: Abs. 1 und 3 (Schuldunfähigkeit, Massnahmen)
-
----
-
-### [BGE 129 IV 238](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_238), E. 3
-- **Thema**: Geldwäscherei, Sachverhaltsirrtum und Schuldunfähigkeit
-- **Kernaussage**: Wer fälschlicherweise davon überzeugt ist, aus dem Drogenhandel stammende Vermögenswerte seien nicht mehr einziehbar, handelt in einem Sachverhaltsirrtum. Schuldunfähigkeit nach Art. 19 Abs. 1 StGB liegt nicht vor.
-- **Einschlägig für**: Abs. 1 (Schuldunfähigkeit vs. Irrtum)
+### [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) E. 5.5 — Strafzumessung bei verminderter Schuldfähigkeit
+- **Thema**: Begründungspflicht bei verschuldensmindernder Berücksichtigung.
+- **Kernaussage**: Der Richter muss im Urteil nachvollziehbar darlegen, in welchem konkreten Umfang sich die herabgesetzte Schuldfähigkeit strafmildernd auswirkt.
+- **Einschlägig für**: Art. 19 Abs. 2 StGB, Art. 47 StGB.
 
 ---
 
-### [BGE 147 IV 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_93), E. 3
-- **Thema**: Selbstständiges Massnahmeverfahren bei schuldunfähiger Person
-- **Kernaussage**: Der Grundsatz der Formstrenge (Art. 2 Abs. 2 StPO) gilt auch im selbstständigen Massnahmeverfahren gegen eine schuldunfähige beschuldigte Person. Ein Eingriff in die Dispositionsfreiheit ist nur bei Wahrung der Formvorschriften zulässig.
-- **Einschlägig für**: Abs. 3 (Massnahmen bei Schuldunfähigkeit)
+### [BGE 134 IV 132](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_132) E. 6 — Grundsätze zur Schuldfähigkeit
+- **Thema**: Methodik der Strafrahmenverschiebung.
+- **Kernaussage**: Die verminderte Schuldfähigkeit führt zu einer obligatorischen Strafmilderung nach Art. 48a StGB.
+- **Einschlägig für**: Art. 19 Abs. 2 StGB.
 
 ---
 
-## Weitere Bundesgerichtsentscheide
-
-### [BGer 6B_953/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_953_2023), E. 1.4.1
-- **Thema**: Strafzumessung und verminderte Schuldfähigkeit; Massnahme für junge Erwachsene
-- **Kernaussage**: Nicht jede geringfügige Herabsetzung der Fähigkeit, sich zu beherrschen, führt zur Annahme einer verminderten Schuldfähigkeit im Sinne von Art. 19 Abs. 2 StGB. Eine erhebliche Beeinträchtigung ist erforderlich.
-
----
-
-### [BGer 6B_1363/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1363_2019), E. 1.6.1
-- **Thema**: Verminderte Schuldfähigkeit; Gutachterliche Schlussfolgerungen
-- **Kernaussage**: Das Gericht darf die Schlussfolgerungen des Sachverständigen zur Schuldfähigkeit nicht ohne triftige Gründe beiseite legen (BOMMER, N. 33 zu Art. 20 StGB).
-- **Einschlägig für**: Abs. 2 (verminderte Schuldfähigkeit, Gutachten)
+### [BGE 143 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_330) E. 2.2 — Massnahmen und Schuldunfähigkeit
+- **Thema**: Massnahmenanordnung bei fehlender Schuldfähigkeit.
+- **Kernaussage**: Auch bei voller Schuldunfähigkeit können freiheitsentziehende Massnahmen zur Gefahrenabwehr angeordnet werden.
+- **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 59 StGB.
 
 ---
 
-### [BGer 6B_1186/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1186_2019), E. 1.1
-- **Thema**: Psychiatrisches Gutachten bei Verdacht auf dissoziative Identitätsstörung
-- **Kernaussage**: Besteht ernsthafter Anlass, an der Schuldfähigkeit zu zweifeln (z.B. Verdacht auf dissoziative Identitätsstörung), muss ein psychiatrisches Gutachten angeordnet werden (Art. 20 StGB).
-- **Einschlägig für**: Art. 19 Abs. 2 i.V.m. Art. 20 StGB
+### [BGE 147 IV 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_93) E. 1.3.2 — Selbstständiges Massnahmeverfahren
+- **Thema**: Verfahrensrechtliche Behandlung schuldunfähiger Beschuldigter.
+- **Kernaussage**: Das selbstständige Massnahmeverfahren nach Art. 374 StPO dient der Durchsetzung von Art. 19 Abs. 3 StGB unter Wahrung der Parteirechte.
+- **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 374 StPO.
 
 ---
 
-### [BGer 6B_515/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_515_2011), E. 2.1
-- **Thema**: Verminderte Schuldfähigkeit bei klaren gutachterlichen Aussagen
-- **Kernaussage**: Gelangt das Obergericht trotz klarer gutachterlicher Aussagen zu einem anderen, nicht nachvollziehbaren Ergebnis, verletzt es Art. 19 Abs. 2 StGB.
-- **Einschlägig für**: Abs. 2 (verminderte Schuldfähigkeit, Beweiswürdigung)
+### [BGE 107 IV 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_IV_3) E. 1a — Rauschzustände und Enthemmung
+- **Thema**: Abgrenzung von krankhafter Störung und selbstverschuldetem Rausch.
+- **Kernaussage**: Nicht jede alkoholbedingte Enthemmung begründet eine verminderte Zurechnungsfähigkeit; massgebend ist das Täterverhalten vor und nach der Tat.
+- **Einschlägig für**: Art. 19 Abs. 4 StGB.
 
 ---
 
-### [BGer 6B_87/2011](https://mcp.opencaselaw.ch/entscheid/bger_6B_87_2011), E. 1.1
-- **Thema**: Verminderte Schuldfähigkeit und Begründungspflicht
-- **Kernaussage**: Der von der Vorinstanz angenommene Strafmilderungsgrund der verminderten Schuldfähigkeit gemäss Art. 19 Abs. 2 StGB macht die ausgesprochene Freiheitsstrafe vor dem Hintergrund der objektiven Tatschwere nicht per se unangemessen.
-- **Einschlägig für**: Abs. 2 (Strafmilderung, Begründungspflicht)
+## II. Weitere Entscheide
+
+### [BGE 140 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_150) E. 3.5 — Verschuldensbewertung
+- **Thema**: Wechselwirkung von Motivationslage und Schuldfähigkeit.
+- **Kernaussage**: Die persönliche Verantwortlichkeit ist bei eingeschränkter Einsichtsfähigkeit abgestuft zu bewerten.
+- **Einschlägig für**: Art. 19 Abs. 2 StGB.
 
 ---
 
-### [BGer 6B_1029/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_1029_2019), E. 1.3.1
-- **Thema**: Gewerbsmässiger Betrug, Schuldfähigkeit
-- **Kernaussage**: Gemäss Art. 20 StGB ordnet die Untersuchungsbehörde oder das Gericht die Begutachtung an, wenn ernsthafter Anlass besteht, an der Schuldfähigkeit des Täters zu zweifeln. Ein Gutachten ist nicht in jedem Fall erforderlich.
-- **Einschlägig für**: Art. 19 i.V.m. Art. 20 StGB
+### [BGer 6B_776/2016 vom 8. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_776_2016) E. 2 — Abweichung von Gutachten
+- **Thema**: Anforderungen an die richterliche Beweiswürdigung.
+- **Kernaussage**: Weicht das Sachgericht von den Schlussfolgerungen des psychiatrischen Sachverständigen ab, bedarf dies einer einleuchtenden Begründung.
+- **Einschlägig für**: Art. 19 StGB, Art. 20 StGB.
 
 ---
 
-### [BGer 6B_1012/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_1012_2025) — 29. Juli 2026
-- **Thema**: Verminderte Schuldfähigkeit bei Schizophrenie; Trennung von Vorsatz und Schuldfähigkeit; krankheitsbedingter Wahn
-- **Kernaussage**: Die Frage des Vorsatzes (Art. 12 StGB) ist von derjenigen der Schuldfähigkeit (Art. 19 StGB) rechtlich zu trennen. Selbst ein vermindert schuldfähiger oder gar schuldunfähiger Täter kann vorsätzlich handeln, sofern keine äusserst seltenen und hier klar nicht gegebenen Ausnahmefälle vorliegen (BGE 115 IV 221 E. 1; Urteile 6B_401/2025 E. 3.4; 6B_1115/2022 E. 2.2.4; 6B_980/2018 E. 3.4). Der krankheitsbedingte Wahn wird im Rahmen der Schuldfähigkeit (Art. 19 StGB) berücksichtigt, nicht aber als Sachverhaltsirrtum zugunsten des Täters gewertet (Bestätigung von BGE 147 IV 193 E. 1.4.6; Urteile 6B_739/2025 E. 4.5.4; 7B_252/2022 E. 5.3). Die leicht abweichende Diagnose eines Zweitgutachters rechtfertigt keine Abweichung vom Erstgutachten, wenn der Gutachter diese an der Berufungsverhandlung als nachvollziehbar bestätigt. Ein fehlerhaftes Datum der körperlichen Untersuchung vermag das Gutachten im Gesamten nicht in Zweifel zu ziehen. — Die Frage der Schuldfähigkeit ist Tatfrage und wird nur unter dem Gesichtspunkt der Willkür überprüft (Art. 97 Abs. 1 BGG); Rechtsfrage ist hingegen, ob der Begriff der verminderten Schuldfähigkeit richtig ausgelegt und angewendet wurde (BGE 107 IV 3 E. 1a; Urteile 7B_836/2023 E. 2.3.2; 6B_497/2024 E. 2.1.5).
-- **Einschlägig für**: Abs. 1 und 2 (Schuldunfähigkeit, verminderte Schuldfähigkeit bei Schizophrenie); Abgrenzung zu Art. 13 StGB
+### [BGer 6B_1056/2016 vom 6. Juni 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1056_2016) E. 1.3 — Beurteilungszeitpunkt
+- **Thema**: Massgeblicher Zeitpunkt für die Schuldfähigkeit.
+- **Kernaussage**: Die Schuldfähigkeit muss bezogen auf den genauen Zeitpunkt der Tathandlung beurteilt werden.
+- **Einschlägig für**: Art. 19 Abs. 1 und 2 StGB.
 
 ---
 
-*Letzte Aktualisierung: 2026-08-17*
+### [Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414) — Forensische Begutachtung
+- **Thema**: Kantonale Rechtsprechung zur Einholung von Zusatzgutachten.
+- **Kernaussage**: Bei Zweifeln an der Schuldfähigkeit ist zwingend ein Gutachten nach Art. 20 StGB einzuholen.
+- **Einschlägig für**: Art. 19 StGB, Art. 20 StGB.
+
+---
+
+### [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089) — Actio libera in causa
+- **Thema**: Voraussichtliche Begehung von Delikten im Rauschzustand.
+- **Kernaussage**: Wer in Kenntnis seiner Gewaltneigung unter Alkoholeinfluss trinkt, kann sich nicht auf Schuldunfähigkeit berufen.
+- **Einschlägig für**: Art. 19 Abs. 4 StGB.
