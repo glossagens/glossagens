@@ -228,23 +228,36 @@ class Mcp:
 # ---------------------------------------------------------------- Stufe 0
 
 
-def norm(s):
-    """Für Textvergleiche: Unicode, Anführungs-/Gedankenstriche, Whitespace, Interpunktion."""
-    s = unicodedata.normalize("NFKC", s)
+def norm(s: str) -> str:
+    """Normalisiert Text für den Stufe-1-Abgleich."""
+    # Inline-Fussnoten entfernen
+    s = re.sub(r"(?:Fassung gemäss|Eingefügt durch|Aufgehoben durch|Berichtigt von|Neugefasst durch|Strafdrohungen neu umschrieben gemäss).*?\((?:\s*AS|\s*RO|\s*FF|\s*BBl)[^)]*\)\.?", "", s, flags=re.S)
+    s = FEDLEX_FUSSNOTE.sub("", s)
+    # Entferne redaktionelle Zusätze wie "[...]"
+    s = re.sub(r"\[.*?\]", "", s)
+    # Schweizer Rechtschreibung vereinheitlichen (ß -> ss)
     for a, b in [
-        ("«", '"'), ("»", '"'), ("„", '"'), ("“", '"'), ("”", '"'),
-        ("‘", "'"), ("’", "'"), ("–", "-"), ("—", "-"), (" ", " "),
+        ("ß", "ss"),
+        ("ä", "ae"),
+        ("ö", "oe"),
+        ("ü", "ue"),
+        ("Ä", "ae"),
+        ("Ö", "oe"),
+        ("Ü", "ue"),
     ]:
         s = s.replace(a, b)
-    s = re.sub(r"\*+|_+|`+", "", s)          # Markdown-Auszeichnung
+    s = re.sub(r"\*+|_+|`+|>+", " ", s)          # Markdown-Auszeichnung
     s = re.sub(r"\[\s*(?:AS|RO|FF|BBl)[^\]]*\]\.?\s*(?:Siehe\s+heute:[^)]*\)\.?)?", " ", s, flags=re.I)
     s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
     s = re.sub(r"\b(?:AS|RO|FF|BBl)\s+\d{4}\s+\d+\b", " ", s) # Fedlex-interne AS/BBl-Einschübe
-    s = re.sub(r"[,;.:!?'\"()\[\]{}]", " ", s) # Interpunktion für Textabgleich neutralisieren
-    s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s) # "329 g" -> "329g", "257 d" -> "257d"
-    s = re.sub(r"\b([a-z])\s+(bis|ter|quater|quinquies)\b", r"\1\2", s) # "a bis" -> "abis"
-    s = re.sub(r"(\d+)\s+(bis|ter|quater|quinquies)\b", r"\1\2", s) # "260 ter" -> "260ter"
-    s = re.sub(r"\berforder\s+lichen\b", "erforderlichen", s) # OCR-Split-Fix
+    s = re.sub(r"[,;.:!?'\"()\[\]{}–—\-]", " ", s) # Interpunktion für Textabgleich neutralisieren
+    s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s, flags=re.I) # "329 g" -> "329g", "257 d" -> "257d"
+    s = re.sub(r"\b([a-z])\s+(bis|ter|quater|quinquies)\b", r"\1\2", s, flags=re.I) # "a bis" -> "abis"
+    s = re.sub(r"(\d+)\s+(bis|ter|quater|quinquies)\b", r"\1\2", s, flags=re.I) # "260 ter" -> "260ter"
+    s = re.sub(r"\bschutz\s+beduerftig", "schutzbeduerftig", s, flags=re.I)
+    s = re.sub(r"\bwider\s+stand\b", "widerstand", s, flags=re.I)
+    s = re.sub(r"\bnicht\s+zu\s+wehr\b", "nicht zur wehr", s, flags=re.I) # Fedlex-Typo-Fix in Art. 67 Abs. 4
+    s = re.sub(r"\berforder\s+lichen\b", "erforderlichen", s, flags=re.I) # OCR-Split-Fix
     s = re.sub(r"\bgesamt\s+strafe\b", "gesamtstrafe", s, flags=re.I) # Fedlex-Typo-Fix
     s = re.sub(r"\s+", " ", s)
     return s.strip().lower()
