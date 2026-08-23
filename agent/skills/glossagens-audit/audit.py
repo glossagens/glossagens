@@ -646,19 +646,36 @@ def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
     res = mcp.call("get_law", args)
     if "_error" in res:
         return {"status": "nicht_verifizierbar", "grund": res["_error"]}
+    md = res.get("_text", "")
+    pat = re.compile(r"^### Art\.\s*" + re.escape(article) + r"(?:\s|$|[^\d])", re.M | re.I)
+    if md and not pat.search(md) and article.isdigit():
+        art_int = int(article)
+        for prev in range(art_int - 1, max(1, art_int - 5), -1):
+            args_prev = dict(args, article=str(prev))
+            res_prev = mcp.call("get_law", args_prev)
+            md_prev = res_prev.get("_text", "")
+            range_pat = re.compile(r"Art\.\s*(\d+)\s*[-–]\s*(\d+)", re.I)
+            for rm in range_pat.finditer(md_prev):
+                low, high = int(rm.group(1)), int(rm.group(2))
+                if low <= art_int <= high:
+                    res = res_prev
+                    md = md_prev
+                    break
+            if res is res_prev:
+                break
     stand = res.get("consolidation_date") or res.get("as_of") or res.get("date")
     arts = res.get("articles") or []
     if arts:
         amtlich = "\n".join(a.get("text", "") for a in arts)
     elif res.get("text"):
         amtlich = res["text"]
-    elif res.get("_text"):
+    elif md:
         # get_law antwortet als Markdown: Artikelblock unter "### Art. N —"
-        md = res["_text"]
         sm = re.search(r"Consolidation date:\s*(\S+)", md)
         stand = stand or (sm.group(1) if sm else None)
-        block = re.split(r"^### Art\. ", md, maxsplit=1, flags=re.M)
+        block = re.split(r"^### Art\. ", md, flags=re.M)
         body = block[1] if len(block) > 1 else md
+        body = re.split(r"\n(?=### Art\.)", body)[0]
         body = re.split(r"^---\s*$", body, maxsplit=1, flags=re.M)[0]
         amtlich = "\n".join(body.split("\n")[1:])   # Überschriftszeile weg
     else:

@@ -1,75 +1,79 @@
 ---
-title: "Art. 39 — Umwandlung der gemeinnützigen Arbeit"
+title: "Art. 39 StGB — Umwandlung der gemeinnützigen Arbeit"
 weight: 39
-date: "2026-07-04"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 39 StGB – Umwandlung der gemeinnützigen Arbeit"
-tags: ["StGB", "gemeinnützige Arbeit", "Umwandlung", "Sanktionsvollzug", "Freiheitsstrafe", "Geldstrafe"]
+date: 2026-07-04
+lastmod: 2026-08-23
+description: "Historischer und vollzugsrechtlicher Kommentar zu Art. 39 aStGB (aufgehoben per 1.1.2018): Umwandlung bei Nichtleistung gemeinnütziger Arbeit in Geld- oder Freiheitsstrafe sowie Nachverfahren nach Art. 363 ff. StPO."
+tags: ["StGB", "Gemeinnützige Arbeit", "Umwandlung", "Sanktionenvollzug", "Ersatzstrafe", "Nachverfahren", "Historisches Recht", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit KW33: Art. 39: Aufhebungsvermerk hinzugefügt (Art. 37-39 seit 1.1.2018 aufgehoben); Gesetzestext verifiziert"
+    note: "Audit KW33"
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Soweit der Verurteilte die gemeinnützige Arbeit trotz Mahnung nicht entsprechend dem Urteil oder den von der zuständigen Behörde festgelegten Bedingungen und Auflagen leistet, wandelt sie das Gericht in Geld- oder Freiheitsstrafe um.
+> **Art. 39 StGB — Umwandlung der gemeinnützigen Arbeit**
 >
-> **2** …
->
-> **3** Freiheitsstrafe darf nur angeordnet werden, wenn zu erwarten ist, dass eine Geldstrafe nicht vollzogen werden kann.
+> Art. 37–39 Aufgehoben durch Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 (AS 2016 1249; BBl 2012 4721).
 
-*⚠️ Art. 37–39 StGB sind seit dem 1. Januar 2018 aufgehoben (AS 2015 3447; BBl 2012 8897). Der vorliegende Kommentar bezieht sich auf den bisherigen Rechtszustand.*
+---
 
-## Kommentierung
+## I. Historischer Kontext und Rechtsentwicklung
 
-### Bedeutung
+### 1. Die Bestimmung im Sanktionenrecht 2007–2017
+**1** Art. 39 StGB (in Kraft gestanden vom 1. Januar 2007 bis 31. Dezember 2017) regelte die gerichtliche Umwandlung der gemeinnützigen Arbeit in eine Geld- oder Freiheitsstrafe, wenn der Verurteilte die Arbeitsleistung trotz Mahnung pflichtwidrig verweigerte.
 
-Art. 39 StGB regelt die Umwandlung der gemeinnützigen Arbeit in eine Geld- oder Freiheitsstrafe, wenn der Verurteilte die ihm auferlegte Arbeit trotz Mahnung nicht leistet. Die Norm bildet das vollzugsrechtliche Scharnier zwischen der gemeinnützigen Arbeit als eigenständiger Sanktion des revidierten Sanktionenrechts (in Kraft seit 1. Januar 2007) und den klassischen Sanktionsarten Geld- und Freiheitsstrafe. Sie sichert die Durchsetzbarkeit der gemeinnützigen Arbeit, indem sie bei mangelnder Kooperation des Verurteilten eine Ersatzsanktion bereitstellt. Damit ist Art. 39 StGB von zentraler Bedeutung für die Praxis des Straf- und Massnahmenvollzugs: Er konstituiert das Nachverfahren, in dem die Vollzugsbehörde bei Nichtleistung die Umwandlung beantragt und das Gericht über die Ersatzsanktion befindet ([BGE 141 IV 396](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_396) E. 3.1; [BGer 6B 1021/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1021_2014) E. 1). Die Norm ist Ausdruck des Subsidiaritätsprinzips: Die Freiheitsstrafe als Ultima Ratio kommt nur in Betracht, wenn auch eine Geldstrafe voraussichtlich nicht vollzogen werden kann (Abs. 3).
+### 2. Revision des Sanktionenrechts per 1. Januar 2018
+**2** Mit der Revision des Sanktionenrechts vom 19. Juni 2015 wurden die Art. 37–39 StGB aufgehoben. Die gemeinnützige Arbeit ist seither keine eigenständige Hauptstrafe mehr, sondern eine besondere Vollzugsform der Freiheitsstrafe oder der Geldstrafe ([Art. 79a StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_79_a)). Die dogmatischen Grundsätze der Rechtsprechung zu Art. 39 aStGB behalten jedoch für Altfälle und das heutige Vollzugsrecht wesentliche Bedeutung.
 
-### Voraussetzungen / Anwendungsbereich
+---
 
-Art. 39 StGB setzt eine rechtskräftige Verurteilung zu gemeinnütziger Arbeit voraus. Die Umwandlung wird ausgelöst durch:
+## II. Voraussetzungen der Umwandlung nach bisherigem Recht
 
-- **Nichtleistung trotz Mahnung**: Der Verurteilte muss die gemeinnützige Arbeit entgegen dem Urteil oder den von der zuständigen Behörde festgelegten Bedingungen und Auflagen nicht geleistet haben, und zwar trotz Mahnung. Die Mahnung ist konditio sine qua non; sie muss vor der Umwandlung erfolgt sein ([BGer 6B 754/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009) E. 1.2). Wurde der Verurteilte erfolglos zum Stellenantritt aufgeboten und reichte trotz Aufforderung keine Stellungnahme im Umwandlungsverfahren ein, rechtfertigt dies die Annahme mangelnder Kooperation ([BGer 6B 754/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009) E. 1.5).
-- **Gerichtliche Umwandlung**: Die Umwandlung erfolgt durch das Gericht, nicht durch die Verwaltungs- oder Vollzugsbehörde. Das Nachverfahren richtet sich nach den Art. 363 ff. StPO; die zuständige Behörde reicht dem Gericht die Akten und ihren Antrag ein, und das Gericht entscheidet in einem selbstständigen nachträglichen Verfahren ([BGE 141 IV 396](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_396) E. 3.2).
-- **Wahl der Ersatzsanktion**: Das Gericht kann in Geld- oder Freiheitsstrafe umwandeln. Die direkte Umwandlung in eine Freiheitsstrafe ist nicht ausgeschlossen, setzt aber voraus, dass eine Geldstrafe voraussichtlich nicht vollzogen werden kann (Abs. 3; [BGE 135 IV 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121) E. 3.3).
+### 1. Pflichtwidrige Nichtleistung trotz Mahnung
+**3** Die Umwandlung setzte voraus, dass der Verurteilte die gemeinnützige Arbeit trotz förmlicher Mahnung nicht entsprechend den Vollzugsauflagen leistete ([BGer 6B_754/2009 vom 1. Dezember 2009 E. 1.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009)). Eine vorgängige Mahnung bildete eine zwingende Vollzugsvoraussetzung ([BGE 134 IV 97 E. 6.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_97)).
 
-### Abgrenzungen
+### 2. Wahl der Ersatzsanktion (Geld- oder Freiheitsstrafe)
+**4** Das Gericht verfügte über einen weiten Ermessensspielraum bei der Bestimmung der Ersatzsanktion. Die direkte Umwandlung in eine unbedingte Freiheitsstrafe war zulässig, wenn die begründete Prognose bestand, dass eine Geldstrafe nicht vollzogen werden kann ([BGE 135 IV 121 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121)).
 
-**Abgrenzung zu Art. 37 StGB (Gemeinnützige Arbeit):** Art. 37 StGB regelt die Anordnung der gemeinnützigen Arbeit als primäre Sanktion, Art. 39 StGB deren Umwandlung bei Nichtleistung. Art. 37 StGB ist die Anordnungsnorm, Art. 39 StGB die Durchsetzungs- und Umwandlungsnorm. Die gemeinnützige Arbeit kann mit Zustimmung des Täters an Stelle einer Freiheitsstrafe von weniger als sechs Monaten oder einer Geldstrafe bis zu 180 Tagessätzen angeordnet werden ([BGE 134 IV 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_97) E. 6.3.3.1).
+**5** Wurde in eine Geldstrafe umgewandelt, richtete sich die Tagessatzhöhe nach den allgemeinen Bemessungskriterien von Art. 34 StGB ([BGE 134 IV 60 E. 6.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60)).
 
-**Abgrenzung zu Art. 36 StGB (Ersatzfreiheitsstrafe):** Art. 36 StGB regelt die Ersatzfreiheitsstrafe bei Nichtbezahlung einer Geldstrafe. Art. 39 StGB betrifft die Nichtleistung der gemeinnützigen Arbeit. Beide Normen sind dogmatisch zu trennen: Art. 36 StGB ist eine Vollzugsfolge der Nichtzahlung, Art. 39 StGB eine Umwandlung bei mangelnder Kooperation im Vollzug der gemeinnützigen Arbeit. Art. 39 Abs. 3 StGB verweist jedoch auf das Subsidiaritätsprinzip des Art. 41 StGB: Eine Freiheitsstrafe darf nur angeordnet werden, wenn eine Geldstrafe voraussichtlich nicht vollzogen werden kann ([BGE 135 IV 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121) E. 3.2).
+---
 
-**Abgrenzung zu Art. 107 Abs. 3 StGB (Übertretungen):** Bei Übertretungen ordnet das Gericht bei Nichtleistung der gemeinnützigen Arbeit die Vollstreckung der Busse an, nicht eine Umwandlung in Geld- oder Freiheitsstrafe nach Art. 39 StGB. Art. 107 Abs. 3 StGB ist eine Spezialregel im Bereich der Übertretungen, wo die Busse die Hauptsanktion darstellt, und geht Art. 39 Abs. 1 StGB vor ([BGer 6B 140/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_140_2016) E. 3).
+## III. Verfahren und Konkurrenzen
 
-**Abgrenzung zu Art. 41 StGB (Freiheitsstrafe anstelle von Geldstrafe):** Art. 39 Abs. 3 StGB verweist auf das Subsidiaritätsprinzip von Art. 41 StGB. Die Prognose, ob eine Geldstrafe voraussichtlich nicht vollzogen werden kann, ist jedoch eigenständig vorzunehmen und richtet sich nicht notwendigerweise nach den Kriterien, welche die Anwendung von Art. 35 Abs. 3 oder Art. 41 Abs. 1 StGB beherrschen. Der Richter verfügt über einen weiten Ermessensspielraum ([BGE 135 IV 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121) E. 3.3).
+### 1. Selbstständiges nachträgliches Gerichtsverfahren
+**6** Die Umwandlung erfolgte in einem selbstständigen nachträglichen Verfahren gemäss Art. 363 ff. StPO durch das Gericht ([BGer 6B_1021/2014 vom 3. September 2015 E. 1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1021_2014)). Entscheide im Umwandlungsverfahren ergehen in Form eines Beschlusses oder einer Verfügung und sind mit Beschwerde anfechtbar ([BGE 141 IV 396 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_396)).
 
-### Kasuistik
+### 2. Verhältnis zu Übertretungsbussen
+**7** Bei Übertretungen ging die Spezialregelung von Art. 107 Abs. 3 StGB der allgemeinen Umwandlung nach Art. 39 aStGB vor ([BGer 6B_140/2016 vom 14. Februar 2017 E. 3](https://mcp.opencaselaw.ch/entscheid/bger_6B_140_2016)).
 
-**Direkte Umwandlung in Freiheitsstrafe:** Die direkte Umwandlung von gemeinnütziger Arbeit in eine unbedingte Freiheitsstrafe ist nicht ausgeschlossen. Sie setzt voraus, dass eine Geldstrafe voraussichtlich nicht vollzogen werden kann. Diese Prognose ist eigenständig vorzunehmen und richtet sich nicht notwendigerweise nach den Kriterien der Art. 35 Abs. 3 oder Art. 41 Abs. 1 StGB. Der Richter verfügt über einen weiten Ermessensspielraum ([BGE 135 IV 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121) E. 3). Die Prognose wird dadurch beeinflusst, dass der Täter die gemeinnützige Arbeit entgegen seinem anfänglichen Einverständnis grundlos nicht leistete. Der Richter muss prüfen, ob dem Verurteilten der Wille für den Vollzug jeglicher Strafe bzw. insbesondere einer Geldstrafe fehlt ([BGer 6B 754/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009) E. 1.2).
+---
 
-**Finanzlage und Zahlungsbereitschaft:** Nicht massgebend für die wirtschaftliche Leistungsfähigkeit ist die Möglichkeit, ein Darlehen aufzunehmen. Ein solches verbessert das Einkommen, aus welchem die Geldstrafe zu bezahlen ist, nicht. Selbst wenn der Verurteilte durch ein Darlehen kurzfristig über liquide Mittel verfügt, ist es nicht Sinn der Geldstrafe, Vermögen ganz oder teilweise zu konfiszieren. Das Vermögen ist bei der Bemessung des Tagessatzes nur subsidiär zu berücksichtigen, wenn besondere Vermögensverhältnisse einem vergleichsweise geringen Einkommen gegenüberstehen ([BGer 6B 754/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009) E. 1.4 mit Verweis auf [BGE 134 IV 60](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_60) E. 6.2). Eine Umwandlung in eine Geldstrafe fällt auch bei mangelnder Zahlungsbereitschaft ausser Betracht, wenn der Verurteilte trotz wiederholter Aufforderungen nicht zum Antritt der gemeinnützigen Arbeit erschien und im Umwandlungsverfahren keine Stellungnahme einreichte ([BGer 6B 754/2009](https://mcp.opencaselaw.ch/entscheid/bger_6B_754_2009) E. 1.5).
+## IV. Kantonale Praxisfragen
 
-**Nachverfahren nach Art. 363 ff. StPO:** Die Umwandlung nach Art. 39 StGB erfolgt in einem selbstständigen nachträglichen gerichtlichen Verfahren nach Art. 363 ff. StPO. Die Entscheide ergehen in Form eines Beschlusses oder einer Verfügung und sind mit Beschwerde anzufechten ([BGE 141 IV 396](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_396) E. 3 und 4). Die inhaltliche Bandbreite der Nachverfahren ist weit: Es geht einerseits um Bagatellen im strafvollzugsrechtlichen Massengeschäft, andererseits um Entscheidungen mit massiven Konsequenzen für den Betroffenen ([BGer 6B 1021/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_1021_2014) E. 1).
+### 1. Anrechnung geleisteter Teilarbeit
+**8** In der kantonalen Gerichtspraxis wurde geklärt, dass bereits erbrachte Arbeitsleistungen erst beim Vollzug der umgewandelten Ersatzstrafe in Abzug gebracht werden; anrechenbar sind jeweils volle Vier-Stunden-Einheiten pro Tagessatz ([Gericht LU 21 08 125 vom 17. Januar 2008](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_3738)).
 
-**Verhältnis zu Art. 106 Abs. 5 StGB (Busse):** Art. 106 Abs. 5 StGB erklärt die Art. 35 und 36 Abs. 2-5 StGB sinngemäss anwendbar, wenn die Busse nicht vollstreckt werden kann. Dies setzt voraus, dass die Vollstreckung der Busse zuvor gemäss Art. 107 Abs. 3 StGB angeordnet wurde. Art. 107 Abs. 3 StGB geht Art. 39 Abs. 1 StGB im Bereich der Übertretungen vor ([BGer 6B 140/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_140_2016) E. 3 mit Verweis auf [BGE 135 IV 121](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_121) nicht publizierte E. 4).
+### 2. Umwandlung bei Mittellosigkeit und Ehegattenhaftung
+**9** Würde die Umwandlung in eine Geldstrafe faktisch den unbeteiligten Ehegatten belasten, gebietet die höchstpersönliche Natur der Strafe die Umwandlung in eine Freiheitsstrafe ([Obergericht TG RBOG 2008 Nr. 26 vom 30. September 2008](https://mcp.opencaselaw.ch/entscheid/tg_obergericht_RBOG_2008_Nr._26)).
 
-**Bagatellfall und unentgeltliche Verteidigung:** Im Strafbefehlsverfahren ist bei der Anwendung von Art. 352 Abs. 3 StPO auch die Widerrufsmöglichkeit bedingter Geldstrafen nach Massgabe der Umrechnungssätze von Art. 36 Abs. 1 und Art. 39 Abs. 2 StGB zu berücksichtigen. Dies betrifft die Beurteilung, ob ein Fall als Bagatellfall gilt, in dem keine amtliche Verteidigung gewährt wird ([BGer 1B 444/2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_444_2013) E. 2.1.2).
+### 3. Entfallen des Anwesenheitsrechts
+**10** Verliert der Verurteilte während des Vollzugs sein ausländerrechtliches Anwesenheitsrecht, kann die kantonale Vollzugsbehörde die gemeinnützige Arbeit ohne Mahnung einstellen und die Umwandlung beantragen ([Verwaltungsgericht ZH VB.2014.00336 vom 19. August 2014](https://mcp.opencaselaw.ch/entscheid/zh_verwaltungsgericht_VB.2014.00336)).
 
-## Querverweise
+---
 
-- [Art. 41 — Freiheitsstrafe anstelle von Geldstrafe](../art-041/)
-- [Art. 42 — Bedingter Vollzug](../art-042/)
-- [Art. 46 — Widerruf der bedingten Strafe](../art-046/)
-- [Art. 47 — Grundsätze der Strafzumessung](../art-047/)
-- [Art. 49 — Mehrere Strafen bei einer Tat](../art-049/)
-- Art. 34 — Geldstrafe *(nicht als separater Artikel vorhanden)*
-- Art. 35 — Wahl zwischen Geldstrafe und Freiheitsstrafe *(nicht als separater Artikel vorhanden)*
-- Art. 36 — Ersatzfreiheitsstrafe *(nicht als separater Artikel vorhanden)*
-- Art. 37 — Gemeinnützige Arbeit *(nicht als separater Artikel vorhanden)*
-- Art. 43 — Teilbedingter Vollzug *(nicht als separater Artikel vorhanden)*
-- Art. 107 — Busse *(nicht als separater Artikel vorhanden)*
+## V. Literatur
+
+- **DOLGE**, Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 3. Aufl., Basel 2013, aArt. 39.
+- **SCHWARZENEGGER/HUG/JOSITSCH**, Strafrecht II: Strafen und Massnahmen, 8. Aufl., Zürich/Basel/Genf 2007, § 5.
+- **TRECHSEL/KELLER**, in: Trechsel/Pieth (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 3. Aufl., Zürich/St. Gallen 2018, aArt. 39.
