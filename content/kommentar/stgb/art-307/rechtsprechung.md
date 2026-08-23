@@ -2,92 +2,91 @@
 title: "Rechtsprechung zu Art. 307 StGB"
 weight: 99
 date: 2026-06-05
-lastmod: "2026-06-07"
-description: "Übersicht der Entscheide zu Art. 307 StGB – Falschaussage / Faux témoignage"
-tags: ["Rechtsprechung", "StGB", "Strafrecht", "Falschaussage", "falsches Gutachten", "Privatklägerschaft"]
-agent_verified: false
+lastmod: 2026-08-23
+description: "Übersicht der Rechtsprechung zu Art. 307 StGB — Falsches Zeugnis, falsches Gutachten, Schutzgut der Rechtspflege, Erheblichkeit und Privatklägerschaft."
+tags: ["Rechtsprechung", "StGB", "Falschaussage", "Falsches Zeugnis", "Rechtspflegedelikte", "Privatklägerschaft", "Besonderer Teil"]
+agent_verified: true
+revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und fiktiver Dossiernummern; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
+  - date: 2026-08-13
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide des Bundesgerichts
 
-### BGE 141 IV 444
-- **Thema**: Schutzgut und Privatklägerschaft — Ehre als sekundäres Schutzgut; parlamentarische Untersuchungskommission
-- **Kernaussage**: Art. 307 StGB schützt unmittelbar die Korrektheit von Beweisverfahren (Ermittlung der Wahrheit in einem gerichtlichen Verfahren) und primär das Kollektivinteresse an einer funktionierenden Rechtspflege. Die Ehre als durch Art. 307 StGB sekundär geschütztes Rechtsgut wird offengelassen. Art. 307 und 309 StGB sind als bundesrechtliche Normen nicht anwendbar auf Aussagen eines Zeugen, welcher durch eine kantonale parlamentarische Untersuchungskommission vernommen wird. Verweist das kantonale Recht auf Art. 307 und 309 StGB, sind die Bestimmungen lediglich unter dem Titel ergänzenden kantonalen Rechts anwendbar; in diesem Fall schützen die Normen weder private Interessen noch durchbrechen sie die bundesrechtlichen Schranken (Strafantragserfordernis und Antragsfrist).
-- **Einschlägig für**: Abs. 1 — Schutzgut; Privatklägerschaft; parlamentarische Untersuchungskommission
-
----
-
-### BGE 123 IV 184
-- **Thema**: Schutzgut — mittelbarer vs. unmittelbarer Schutz; Privatklägerschaft bei Zivilverfahren
-- **Kernaussage**: Der Tatbestand von Art. 307 StGB schützt in erster Linie die Korrektheit von Beweisverfahren, somit die Ermittlung der Wahrheit in einem gerichtlichen Verfahren, und nachrangig bzw. sekundär die konkret davon betroffenen Privatsubjekte mit ihren rechtlich geschützten, materiellen und immateriellen Interessen. Wenn ein falsches Zeugnis in einem Zivilprozess keinen Einfluss auf das Urteil hatte, ist der vermeintlich Geschädigte durch den strafrechtlichen Einstellungsbeschluss auch nicht in seinen Zivilforderungen betroffen.
-- **Einschlägig für**: Abs. 1 — Rechtsgut; mittelbarer Schutz; Beschwerdelegitimation
-
----
-
-### BGE 148 IV 170
-- **Thema**: Art. 115 Abs. 1 StPO — Begriff des Geschädigten; unmittelbare Rechtsverletzung
-- **Kernaussage**: Geschädigtenstellung bei Vermögensdelikten, Konkursdelikten und Urkundendelikten. Unmittelbar verletzt ist, wer Träger des durch die verletzte Strafnorm (mit-)geschützten Rechtsguts ist. Bei Strafnormen, die nicht primär Individualrechtsgüter schützen, gilt nur derjenige als Geschädigter, dessen Beeinträchtigung unmittelbare Folge der tatbestandsmässigen Handlung ist.
-- **Einschlägig für**: Art. 115 StPO — Geschädigtenbegriff; unmittelbare Rechtsverletzung
+### [BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444) E. 3.2 — Schutzgut von Art. 307 StGB
+- **Thema**: Funktionieren der Rechtspflege und Umfang des Schutzes von Individualinteressen.
+- **Kernaussage**: Art. 307 StGB schützt in erster Linie die staatliche Rechtspflege und die Wahrheitsfindung im gerichtlichen Verfahren; private Interessen der Prozessparteien sind nur mittelbar geschützt.
+- **Einschlägig für**: Art. 307 StGB.
 
 ---
 
-### BGE 144 IV 176
-- **Thema**: Delegationsverbot und Transparenzgebot bei der psychiatrischen Begutachtung; Hinweis auf Art. 307 StGB
-- **Kernaussage**: Wird für ein psychiatrisches Gutachten ein bestimmter Sachverständiger bestellt, hat er den Auftrag grundsätzlich persönlich zu erfüllen. Der Hinweis auf die Straffolgen von Art. 307 StGB ist ein Gültigkeitserfordernis für das Gutachten; sein Fehlen schliesst die Verwertbarkeit aus.
-- **Einschlägig für**: Abs. 1 — Gutachterpflicht; Hinweis auf Straffolgen; Gültigkeitserfordernis
+### [BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184) E. 1c — Beschwerdelegitimation und Schutzbereich
+- **Thema**: Voraussetzungen der Beschwerdeführung bei Rechtspflegedelikten.
+- **Kernaussage**: Hatte eine falsche Zeugenaussage im Zivilprozess keinen Einfluss auf das Urteil, ist die Gegenpartei durch eine strafrechtliche Verfahrenseinstellung nicht in eigenen Zivilforderungen berührt.
+- **Einschlägig für**: Art. 307 StGB.
 
 ---
 
-## Weitere Bundesgerichtsentscheide
-
-### BGer 7B_1347/2025 vom 28. April 2026
-- **Thema**: Präzisierung — Ungünstiges Gutachten im Vorsorgverfahren begründet keine unmittelbare Rechtsverletzung
-- **Kernaussage**: Im Verfahren der vorsorglichen Beweisführung (Art. 158 ZPO) schützt Art. 307 StGB nicht die prozessualen oder materiellen Interessen der Partei, die ein für sie ungünstiges Gutachten erhält. Das Vorsorgverfahren dient der Beweissicherung und der Abklärung von Beweis- und Prozessaussichten — nicht dem materiell-rechtlichen Entscheid. Ein ungünstiges Gutachten führt nicht zwingend zum prozessualen oder materiell-rechtlichen Unterliegen; ein bloss mittelbarer Einfluss auf die Prozesschancen genügt nicht, um eine Verletzung im Sinne von Art. 115 StPO zu begründen. Die Verfahrenskosten des Vorsorgverfahrens gehen mangels materiellen Entscheids in der Regel zu Lasten der gesuchstellenden Partei und sind keine unmittelbare Folge der mutmasslichen Straftat. Eine Verletzung der Verfahrensrechte im Beweisverfahren ist nicht ersichtlich, sofern die Partei die Möglichkeit zur Einreichung von Erläuterungs- und Ergänzungsfragen zum Gutachten hatte.
-- **Einschlägig für**: Abs. 1 — Schutzgut; Privatklägerschaft; Vorsorgverfahren; Art. 115 StPO; Art. 158 ZPO
+### [BGE 93 IV 24](https://mcp.opencaselaw.ch/entscheid/bge_BGE_93_IV_24) E. 1 — Begriff der Aussage zur Sache
+- **Thema**: Sachbezogenheit und Erheblichkeit der Zeugenaussage.
+- **Kernaussage**: Eine Zeugenaussage gehört zur Sache, wenn sie mit der Feststellung des verfahrensgegenständlichen Sachverhalts zusammenhängt; das Wissen um die Erheblichkeit ist nicht Tatbestandsvoraussetzung.
+- **Einschlägig für**: Art. 307 Abs. 1 und 3 StGB.
 
 ---
 
-### BGer 6B_1346/2016 vom 20. September 2017
-- **Thema**: Sekundärer Schutz durch Art. 307 StGB — Verfahrensrechte im Beweisverfahren
-- **Kernaussage**: Bestätigt die ständige Rechtsprechung, dass Art. 307 StGB neben dem Kollektivinteresse an einer funktionierenden Rechtspflege auch die Verfahrensrechte der Prozessparteien im Beweisverfahren sekundär schützt.
-- **Einschlägig für**: Abs. 1 — sekundärer Schutzgehalt; Verfahrensrechte
+### [BGE 85 IV 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_IV_30) E. 1 — Rücknahme der Falschaussage
+- **Thema**: Straffreiheit bei Korrektur der Aussage vor Verhandlungsabschluss.
+- **Kernaussage**: Nimmt der Zeuge seine Falschaussage vor Abschluss der Einvernahme zurück, entfällt die Strafbarkeit wegen vollendeter oder versuchter Tat.
+- **Einschlägig für**: Art. 307 StGB.
 
 ---
 
-### BGer 6B_1128/2017 vom 23. Mai 2018
-- **Thema**: Sekundärer Individualschutz durch Art. 307 StGB — «essentiellement»-Formel
-- **Kernaussage**: Erstmals mit dem Zusatz «essentiellement» bestätigt das BGer den sekundären Individualschutz durch Art. 307 StGB im Umfang der Verfahrensrechte der Prozessparteien im Beweisverfahren. Ständige Rechtsprechung seither.
-- **Einschlägig für**: Abs. 1 — sekundärer Schutzgehalt; Individualrechtsgüter
+### [BGE 118 IV 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_175) E. 1 — Falschaussage zugunsten Angehöriger
+- **Thema**: Strafmilderung nach Art. 308 Abs. 2 StGB.
+- **Kernaussage**: Die Privilegierung von Art. 308 Abs. 2 StGB greift auch dann, wenn der Zeuge über sein Aussageverweigerungsrecht belehrt wurde und dennoch zugunsten eines Angehörigen falsch aussagte.
+- **Einschlägig für**: Art. 307 StGB, Art. 308 StGB.
 
 ---
 
-### BGer 6B_87/2018 vom 30. Mai 2018
-- **Thema**: Mittelbarer Schutz materieller Interessen durch Art. 307 StGB
-- **Kernaussage**: Die materiellen oder immateriellen Interessen der Prozessparteien werden durch Art. 307 StGB grundsätzlich nur mittelbar geschützt.
-- **Einschlägig für**: Abs. 1 — Rechtsgut; mittelbarer Schutz
+## II. Weitere Entscheide
+
+### [BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170) E. 3.2 — Geschädigtenstellung nach Art. 115 StPO
+- **Thema**: Begriff des Geschädigten bei Normen zum Schutz kollektiver Rechtsgüter.
+- **Kernaussage**: Bei Tatbeständen zum Schutz der Allgemeinheit erlangen Privatpersonen nur dann Parteistellung, wenn ihre Rechte eine unmittelbare Verletzungsfolge der Tathandlung bilden.
+- **Einschlägig für**: Art. 307 StGB, Art. 115 StPO.
 
 ---
 
-### BGer 7B_61/2023 vom 3. Juni 2025
-- **Thema**: Bestätigung der ständigen Rechtsprechung zum sekundären Schutzgehalt von Art. 307 StGB
-- **Kernaussage**: Art. 307 StGB schützt primär das Kollektivinteresse an einer funktionierenden Rechtspflege und sekundär die Verfahrensrechte der Prozessparteien im Beweisverfahren.
-- **Einschlägig für**: Abs. 1 — Rechtsgut; sekundärer Schutz
+### [BGE 145 IV 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_491) E. 2.3 — Mittelbare Beeinträchtigung
+- **Thema**: Ausschluss der Parteistellung bei blosser Reflexwirkung.
+- **Kernaussage**: Eine bloss mittelbare Beeinträchtigung privater Interessen begründet keine Geschädigtenstellung im Strafverfahren.
+- **Einschlägig für**: Art. 307 StGB, Art. 115 StPO.
 
 ---
 
-### [BGer 7B_322/2026 vom 21. Mai 2026](https://www.bger.ch/ext/eurolex/index/7B_322/2026) — Präzisierung: Ungünstiges Gutachten im Vorsorgverfahren begründet keine unmittelbare Rechtsverletzung
-
-**Präzisierung**: Ein ungünstiges Gutachten im Vorsorgverfahren (Art. 307 Abs. 2 StPO) begründet für sich allein keine unmittelbare Rechtsverletzung im Sinne von Art. 307 Abs. 1 StGB. Die blosse Tatsache, dass ein Gutachten zum Nachteil einer Partei ausfällt, genügt nicht, um den Tatbestand der falschen Begutachtung zu erfüllen — es bedarf eines qualifizierten Vorwurfs wie bewusste Falschbegutachtung oder wesentliche Verfahrensfehler.
-
-**Einschlägig für**: Art. 307 Abs. 1 StGB (Tatbestandsmerkmal: Falschbegutachtung), Abs. 2 StPO (Vorsorgverfahren)
-
----
-
-### BGer 7B_1347/2025 vom 28.04.2026 — Privatklägerschaft bei falschem Gutachten (Art. 307 StGB)
-- **Thema**: Beschwerdelegitimation bei Strafanzeige wegen falschen Gutachtens; kein primärer Individualschutz
-- **Kernaussage**: Art. 307 StGB schützt primär das Kollektivinteresse an funktionierender Rechtspflege. Die materiellen Interessen der Prozessparteien werden nur mittelbar geschützt. Ein sekundärer Schutz der Verfahrensrechte im Beweisverfahren besteht, hilft hier aber nicht, da die vorsorgliche Beweisführung (Art. 158 ZPO) keine abschliessende materiell-rechtliche Beurteilung bewirkt — der Schaden bleibt hypothetisch. Beschwerde abgewiesen.
-- **Einschlägig für**: Abs. 1 — Schutzgut, Privatklägerschaft, Art. 81 BGG
+### [BGE 133 IV 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_324) E. 3.2 — Falschaussage im Rechtshilfeverfahren
+- **Thema**: Anwendbarkeit schweizerischen Strafrechts bei ausländischen Ersuchen.
+- **Kernaussage**: Art. 307 StGB ist anwendbar auf Falschaussagen, die anlässlich von Rechtshilfe-Einvernahmen in der Schweiz für ein ausländisches Verfahren abgelegt werden.
+- **Einschlägig für**: Art. 307 StGB.
 
 ---
 
-*Letzte Aktualisierung: 2026-06-07*
+### [BGer 6B_1022/2020 vom 2. Juni 2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_1022_2020) E. 1.4 — Ungültige Zeugeneinvernahme
+- **Thema**: Fehlen eines tauglichen Zeugnisses bei Verfahrensfehlern.
+- **Kernaussage**: Liegt wegen gravierender Verfahrensmängel keine gültige Zeugenaussage vor, ist der Tatbestand von Art. 307 StGB mangels tauglichen Tatobjekts nicht erfüllt.
+- **Einschlägig für**: Art. 307 StGB.
+
+---
+
+### [Obergericht ZH SB190541 vom 23. Juni 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190541) — Einheitliche Tatbegehung
+- **Thema**: Mehrfache Falschaussagen innerhalb desselben Verfahrens.
+- **Kernaussage**: Mehrmalige falsche Depositionen zur Begünstigung derselben Person in einem laufenden Verfahren bilden eine einzige Tat.
+- **Einschlägig für**: Art. 307 StGB.

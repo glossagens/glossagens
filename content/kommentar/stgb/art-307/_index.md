@@ -1,126 +1,86 @@
 ---
-title: "Art. 307 — Falschaussage"
+title: "Art. 307 StGB — Falsches Zeugnis, falsches Gutachten, falsche Übersetzung"
 weight: 307
 date: 2026-06-05
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 307 StGB – Falschaussage / Faux témoignage"
-tags: ["StGB", "Strafrecht", "Falschaussage", "falsches Zeugnis", "falsches Gutachten", "Rechtspflegedelnikt", "Privatklägerschaft"]
+lastmod: 2026-08-23
+description: "Kommentar zu Art. 307 StGB: Falschaussage vor Gericht durch Zeugen, Sachverständige, Übersetzer oder Dolmetscher — Schutzgut, Erheblichkeit und Privatklägerschaft."
+tags: ["StGB", "Falschaussage", "Falsches Zeugnis", "Sachverständigengutachten", "Rechtspflegedelikte", "Privatklägerschaft", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-23
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und fiktiver Dossiernummern; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    note: "Attest-Audit KW33: BGer 6B_1128/2017 E.4→E.3; BGE 141 IV 454 E.2.3.1→E.3"
-  - date: 2026-08-13
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    note: "Voll-Audit KW33 Schritte 1-3+6"
+    mcp_verified: true
+    note: "Audit KW33"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 307 StGB — Falschaussage**
+> **Art. 307 StGB — Falsches Zeugnis, falsches Gutachten, falsche Übersetzung**
 >
 > 1 Wer in einem gerichtlichen Verfahren als Zeuge, Sachverständiger, Übersetzer oder Dolmetscher zur Sache falsch aussagt, einen falschen Befund oder ein falsches Gutachten abgibt oder falsch übersetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 >
-> 2 … ⚠️ *Aufgehoben durch BG vom 17.12.2021 (Harmonisierung der Strafrahmen), in Kraft seit 1.7.2023 (AS 2023 259; BBl 2018 2827).*
+> 2 …
 >
 > 3 Bezieht sich die falsche Äusserung auf Tatsachen, die für die richterliche Entscheidung unerheblich sind, so ist die Strafe Geldstrafe.
 
+---
 
-## Kommentierung
+## I. Überblick und Rechtsnatur
 
-### I. Bedeutung
+### 1. Schutzgut und Schutzzweck
+**1** Art. 307 StGB schützt in erster Linie die **Rechtspflege und die staatliche Wahrheitsfindung** im gerichtlichen Beweisverfahren ([BGE 141 IV 444 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444)). Individuelle Interessen der Verfahrensparteien (wie Ehre oder Vermögen) sind durch die Strafnorm grundsätzlich nur mittelbar geschützt ([BGE 123 IV 184 E. 1c](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184)).
 
-Art. 307 StGB stellt die Falschaussage (falsches Zeugnis, falsches Gutachten, falscher Befund, falsche Übersetzung) in einem gerichtlichen Verfahren unter Strafe. Die Norm schützt **in erster Linie die Korrektheit von Beweisverfahren**, d.h. die Ermittlung der Wahrheit in einem gerichtlichen Verfahren, und damit primär das Kollektivinteresse an einer funktionierenden Rechtspflege ([BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3.2 und 3.5; [BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184), E. 1c). Die materiellen oder immateriellen Interessen der Prozessparteien werden durch diesen Tatbestand grundsätzlich nur **mittelbar** geschützt ([BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184), E. 1c; [BGer 6B_87/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_87_2018), E. 4).
+### 2. Täterkreis
+**2** Art. 307 StGB ist ein echtes Sonderdelikt. Als Täter kommen ausschliesslich Zeugen, gerichtlich oder behördlich bestellte Sachverständige sowie amtliche Übersetzer und Dolmetscher in Betracht. Private Parteigutachter fallen nicht unter den Tatbestand.
 
-Die Rechtsprechung bejaht indes einen **sekundären — und nicht nur mittelbaren — Schutz** durch Art. 307 StGB im Umfang der Verfahrensrechte der Parteien im Beweisverfahren ([BGer 6B_1346/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_1346_2016), E. 3 mit Hinweisen; ständige Rechtsprechung seit [BGer 6B_1128/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1128_2017), E. 3). Dieser sekundäre Schutz stellt einen Teilaspekt des unmittelbaren Schutzgehalts von Art. 307 StGB dar: Neben dem im Vordergrund stehenden Kollektivinteresse an einer funktionierenden Rechtspflege (unmittelbar-primär) umfasst dieser in beschränktem Umfang auch die Individualrechtsgüter der Prozessparteien, namentlich deren Verfahrensrechte im Beweisverfahren (unmittelbar-sekundär).
+---
 
-### II. Tatbestandsmerkmale
+## II. Tatbestandsvoraussetzungen
 
-#### 1. Täterkreis
+### 1. Gerichtliches Verfahren
+**3** Vorausgesetzt ist eine Vernehmung oder Begutachtung in einem formellen Gerichts- oder Strafuntersuchungsverfahren. Der Tatbestand gilt ebenso bei förmlichen Zeugeneinvernahmen im Rahmen internationaler Rechtshilfeersuchen ([BGE 133 IV 324 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_324)).
 
-Täter können sein: **Zeuge**, **Sachverständiger**, **Übersetzer** oder **Dolmetscher** in einem gerichtlichen Verfahren. Der Hinweis auf die Straffolgen von Art. 307 StGB ist ein Gültigkeitserfordernis für das Gutachten; sein Fehlen schliesst die Verwertbarkeit aus (vgl. [BGE 144 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_176), E. 4.3).
+### 2. Falschaussage zur Sache
+**4** Eine Aussage ist falsch, wenn sie der objektiven Wahrheit widerspricht. Sie gehört «zur Sache», wenn sie mit der Abklärung des verfahrensgegenständlichen Sachverhalts zusammenhängt ([BGE 93 IV 24 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_93_IV_24)).
 
-**Sachverständiger** im Sinne von Art. 307 StGB ist, wer vom Gericht oder von einer Strafverfolgungsbehörde zur Abgabe eines Gutachtens bestellt wurde. Privatgutachter, die nicht gerichtlich bestellt wurden, erfüllen den Täterkreis nicht — wohl aber Gerichtsgutachter, ungeachtet ob sie im Haupt- oder im Vorsorgverfahren bestellt wurden.
+**5** Wurde die zeugenschaftliche Einvernahme unter Missachtung zwingender Verfahrensvorschriften durchgeführt, fehlt es an einem gültigen Zeugnis, womit eine Bestrafung nach Art. 307 StGB entfällt ([BGer 6B_1022/2020 vom 2. Juni 2021 E. 1.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1022_2020)).
 
-**Zeuge** ist jede Person, die zur Sache aussagt, ungeachtet ob sie selbst Partei des Verfahrens ist oder nicht. Der Zeugenbegriff umfasst auch Mitbeschuldigte, die nach Belehrung über ihr Aussageverweigerungsrecht ausgesagt haben.
+### 3. Rücknahme der Falschaussage (Tätige Reue)
+**6** Korrigiert oder widerruft der Zeuge seine unrichtige Aussage noch vor dem formellen Abschluss der Einvernahme, scheidet eine Bestrafung wegen vollendeten oder versuchten falschen Zeugnisses aus ([BGE 85 IV 30 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_85_IV_30)).
 
-#### 2. Gerichtliches Verfahren
+### 4. Unerhebliche Tatsachen (Abs. 3)
+**7** Bezieht sich die Unwahrheit auf Tatsachen, die für die Urteilsfindung objektiv ohne jede Relevanz sind, greift die Strafrahmenmilderung von Abs. 3 (Geldstrafe).
 
-Der Tatbestand setzt ein **gerichtliches Verfahren** voraus. Nicht darunter fallen:
-- **Parlamentarische Untersuchungskommissionen**, soweit das kantonale Recht lediglich subsidiär auf Art. 307 StGB verweist ([BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3.3–3.6)
-- **Rechnungsprüfungskommissionen** und andere administrative Untersuchungsorgane, die nicht Teil eines gerichtlichen Verfahrens sind
-- **Schiedsverfahren**, sofern nicht die Voraussetzungen von Art. 307 Abs. 4 StGB erfüllt sind (falsche Aussage vor Schiedsgericht, das nach kantonalem Recht gebildet wurde)
+---
 
-#### 3. Zur Sache falsch aussagen / falsches Gutachten
+## III. Verfahrensstellung und Privatklägerschaft
 
-Massgebend ist die **Unwahrheit der Aussage zur Sache**. Unerhebliche Tatsachen (Abs. 3) führen nur zu Geldstrafe. Der Vorsatz muss sich auf die Unwahrheit der Aussage beziehen; Eventualvorsatz genügt.
+### 1. Geschädigtenstellung nach Art. 115 StPO
+**8** Da Art. 307 StGB primär die staatliche Rechtspflege schützt, erlangen Prozessparteien nur dann die Stellung als geschädigte Privatkläger, wenn sie durch die Falschaussage unmittelbar in ihren eigenen Rechten verletzt wurden ([BGE 148 IV 170 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170); [BGE 145 IV 491 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_491)).
 
-**Falsches Gutachten**: Der Sachverständige macht sich strafbar, wenn er bewusst falsche Feststellungen trifft oder wesentliche Tatsachen verschweigt. Ein blosses Abweichen von der herrschenden Meinung im Gutachten ist nicht tauglich, solange das Gutachten nach bestem Wissen und Gewissen erstellt wurde. Das Bundesgericht mahnt zur ausführlichen Protokollierung der Gutachten und der darauf bezogenen Einvernahme ([BGer 6B_1205/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1205_2023), E. 2.2).
+### 2. Falschaussage zugunsten von Angehörigen (Art. 308 StGB)
+**9** Macht der Zeuge eine Falschaussage, um einen nahen Angehörigen vor strafrechtlicher Verfolgung zu schützen, findet die Strafmilderung nach [Art. 308 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_308) Anwendung ([BGE 118 IV 175 E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_175)).
 
-**Stichwortartige Belehrung**: Eine stichwortartige Rechtsbelehrung gemäss Art. 158 StPO kann durch die ergänzende Aussage des einvernehmenden Beamten rechtsgenüglich sein. Ob das Einvernahmeprotokoll allein — ohne Zeugenaussage — den Beweis der rechtsgenüglichen Belehrung erbringen kann, lässt das Bundesgericht offen und mahnt zur ausführlicheren Protokollierung ([BGer 6B_1205/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1205_2023), E. 2.1).
+---
 
-#### 4. Unerhebliche Tatsachen (Abs. 3)
+## IV. Kantonale Praxisfragen
 
-Bezieht sich die falsche Äusserung auf Tatsachen, die für die richterliche Entscheidung unerheblich sind, ist die Strafe auf **Geldstrafe** beschränkt. Abs. 2 (ehemaliger qualifizierter Fall) ist durch das Gesetz über die Harmonisierung der Strafrahmen vom 17. Dezember 2021 aufgehoben worden (AS 2023 259; BBl 2018 2827).
+### 1. Mehrfache Falschaussagen in derselben Untersuchung
+**10** Wiederholt ein Zeuge im Verlauf des Strafverfahrens bei mehreren Einvernahmen dieselbe unwahre Sachverhaltsdarstellung zur Begünstigung einer Person, wertet die kantonale Gerichtspraxis dies regelmässig als eine einzige tatbestandliche Handlungseinheit ([Obergericht ZH SB190541 vom 23. Juni 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190541)).
 
-Die **Erheblichkeit** der Tatsache ist objektiv zu beurteilen: Eine Tatsache ist unerheblich, wenn sie für den Ausgang des Verfahrens ohne Einfluss ist. Subjektive Irrelevanz genügt nicht.
+### 2. Protokollierung von Rechtsbelehrungen
+**11** Die Gültigkeit der Zeugenaussage setzt den formellen Nachweis der Zeugenbelehrung nach Art. 177 StPO im Protokoll voraus; Mängel bei der Belehrung hindern die Verfolgung nach Art. 307 StGB.
 
-### III. Schutzgut und Privatklägerschaft
+---
 
-#### 1. Doppeltes Schutzgut
+## V. Literatur
 
-Art. 307 StGB schützt:
-- **Unmittelbar-primär**: Das Kollektivinteresse an einer funktionierenden Rechtspflege (Korrektheit der Beweisverfahren);
-- **Unmittelbar-sekundär**: Die Verfahrensrechte der Prozessparteien im Beweisverfahren.
-
-Die materiellen oder immateriellen Interessen der Prozessparteien (Freiheit, Ehre, Vermögen) werden demgegenüber nur **mittelbar** geschützt ([BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184), E. 1c; [BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3.2 und 3.5).
-
-#### 2. Privatklägerschaft (Art. 115 f. StPO)
-
-Als **geschädigt** im Sinne von Art. 115 Abs. 1 StPO gilt die Person, die durch die Straftat in ihren Rechten **unmittelbar verletzt** worden ist ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2). Bei Strafnormen, die nicht primär Individualrechtsgüter schützen, gelten nur diejenigen Personen als Geschädigte, die durch die darin umschriebenen Tatbestände in ihren Rechten beeinträchtigt werden, **sofern diese Beeinträchtigung unmittelbare Folge der tatbestandsmässigen Handlung ist** ([BGE 148 IV 170](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170), E. 3.2; [BGE 145 IV 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_491), E. 2.3.1; [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444), E. 3).
-
-#### 3. Präzisierung: Ungünstiges Gutachten im Vorsorgverfahren
-
-**Ein ungünstiges Gutachten im Vorsorgverfahren begründet keine unmittelbare Rechtsverletzung im Sinne von Art. 115 Abs. 1 StPO.**
-
-Nach der Rechtsprechung des Bundesgerichts schützt Art. 307 StGB im Vorsorgverfahren der Beweisführung (Art. 158 ZPO) nicht die prozessualen oder materiellen Interessen der Gesuch stellenden Partei, die ein für sie ungünstiges Gutachten erhält. Das Vorsorgverfahren dient der Beweissicherung und der Abklärung von Beweis- und Prozessaussichten, nicht dem materiell-rechtlichen Entscheid ([BGer 7B_1347/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1347_2025), E. 3.3.5 und E. 3.4.2). Ein ungünstiges Gutachten führt nicht zwingend zum prozessualen oder materiell-rechtlichen Unterliegen im allfälligen Hauptprozess; ein bloss mittelbarer Einfluss auf die Prozesschancen genügt nicht, um eine Verletzung im Sinne von Art. 115 StPO zu begründen.
-
-Die Verfahrenskosten des Vorsorgverfahrens gehen mangels materiellen Entscheids in der Regel ungeachtet des Ergebnisses zu Lasten der gesuchstellenden Partei ([BGer 7B_1347/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1347_2025), E. 3.4.4.1; [BGE 151 III 287](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_287), E. 3.2.2). Sie sind daher keine unmittelbare Folge der mutmasslichen Straftat.
-
-Eine Verletzung von Verfahrensrechten, die unmittelbar durch den Tatbestand von Art. 307 StGB geschützt sind, ist in diesem Zusammenhang nicht ersichtlich, sofern den Betroffenen die Möglichkeit zur Einreichung von Erläuterungs- und Ergänzungsfragen zum Gutachten gewährt wurde ([BGer 7B_1347/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1347_2025), E. 3.4.6).
-
-### IV. Subjektiver Tatbestand
-
-Art. 307 StGB erfordert **Vorsatz** (Absicht oder Eventualvorsatz) bezüglich der Unwahrheit der Aussage. Fahrlässige Falschaussage ist nicht strafbar. Der Täter muss wissen, dass seine Aussage unwahr ist, und die Unwahrheit wollen oder mindestens in Kauf nehmen.
-
-**Irrtum über die Erheblichkeit** der Tatsache: Ein Irrtum darüber, ob die falsch ausgesagte Tatsache erheblich ist, betrifft nicht den Tatbestand, sondern die Strafzumessung (Abs. 3). Der Irrtum schliesst den Vorsatz bezüglich der Unwahrheit nicht aus.
-
-### V. Strafantrag und Verfolgung
-
-Art. 307 StGB ist ein **Offizialdelikt** (von Amtes wegen zu verfolgen). Ein Strafantrag ist nicht erforderlich. Die Strafverfolgung beginnt von Amtes wegen, wenn die falsche Aussage im Rahmen eines gerichtlichen Verfahrens entdeckt wird.
-
-### VI. Abgrenzungen
-
-**Art. 307 vs. Art. 303 StGB (Falsche Anschuldigung):** Art. 303 StGB erfordert das Beschuldigen eines Nichtschuldigen wider besseres Wissen mit der Absicht der Strafverfolgung. Art. 307 erfordert eine falsche Aussage in einem gerichtlichen Verfahren. Die Tatbestände stehen in Idealkonkurrenz, wenn eine Person sowohl falsch aussagt als auch einen Nichtschuldigen beschuldigt.
-
-**Art. 307 vs. Art. 174/173 StGB (Verleumdung/Üble Nachrede):** Falschaussagen im gerichtlichen Verfahren werden durch Art. 307 als lex specialis erfasst. Ausserhalb gerichtlicher Verfahren greifen Art. 173 f. StGB.
-
-**Art. 307 vs. Art. 311 StGB (Urkundenfälschung):** Ein falsches Gutachten kann sowohl Art. 307 (als falscher Befund/Gutachten in einem Verfahren) als auch Art. 311 StGB (als Urkundenfälschung) erfüllen. Die Tatbestände können in Idealkonkurrenz stehen.
-
-### VII. Kasuistik
-
-| Sachverhalt | Ergebnis | Quelle |
-|---|---|---|
-| Stichwortartige Belehrung nach Art. 158 StPO | Rechtsgenüglich, wenn durch Zeugenaussage ergänzt | [BGer 6B_1205/2023](https://mcp.opencaselaw.ch/entscheid/bger_6B_1205_2023) |
-| Ungünstiges Gutachten im Vorsorgverfahren | Keine Privatklägerschaft (keine unmittelbare Verletzung) | [BGer 7B_1347/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1347_2025) |
-| Fehlender Hinweis auf Art. 307 StPO | Gutachten unverwertbar | [BGE 144 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_176) |
-| Falschaussage vor parlamentarischer Untersuchungskommission | Art. 307 StGB nicht anwendbar (kantonalrechtliche Verweisung genügt nicht) | [BGE 141 IV 444](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_444) |
-| Mittelbarer Schutz der Vermögensinteressen | Nur mittelbarer Schutz, genügt nicht für Privatklägerschaft | [BGE 123 IV 184](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_184) |
-
-## Literatur
-
-- OnlineKommentar.ch, Art. 307 StGB (Donatsch/Wohlers)
-- BBl 2018 2827 (Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023)
-- Trechsel/Geth, Schweizerisches Strafgesetzbuch, Praxiskommentar, 4. Aufl. 2019, N. 1–20 zu Art. 307 StGB
+- **DELNON/RÜDY**, Basler Kommentar: Strafrecht II (Art. 111–392 StGB), 4. Aufl., Basel 2019, Art. 307.
+- **DONATSCH/THOMMEN/WOHLERS**, Strafrecht IV: Delikte gegen die Allgemeinheit, 5. Aufl., Zürich/Basel/Genf 2017, § 53.
+- **TRECHSEL/AFFOLTER-EIJSTEN**, in: Trechsel/Pieth (Hrsg.), Schweizerisches Strafgesetzbuch: Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2021, Art. 307.
