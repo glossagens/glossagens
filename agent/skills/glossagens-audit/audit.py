@@ -13,21 +13,36 @@ Stufen:
   2  Existenz      — cite: existiert die Referenz?
   3  Pinpoint      — get_erwaegung: existiert E. X.Y?
   4  Verbatim      — wörtliche Zitate exakt im Quelltext?
-  5  Grounding     — check_claim_support: trägt der Entscheid die Behauptung?
+  5  Grounding     — Judge-Verdikt: trägt der Entscheid die Behauptung?
   6  Aktualität    — get_article_history: Belege vor Revision, fehlende Leitentscheide
 
-Die Stufen 2–4 gaten Stufe 5: nur Paare mit existierendem Beleg kosten einen
-LLM-Call. Stufe 7 (attest_response auf dem korrigierten Text) liegt beim Agenten.
+Dieses Skript ruft **kein** LLM-Tool der opencaselaw-MCP mehr auf. Stufe 5 lief
+früher über `check_claim_support`, das serverseitig ein Sonnet-Aufruf ist und
+opencaselaw pro Paar Geld kostet (allein aus diesem Repo 16 359 Aufrufe). Das
+Urteil fällt jetzt ein Judge-Subagent des jeweiligen Agenten — Claude Code,
+Antigravity oder Hermes — gegen den Prüftext, den dieses Skript vorher über die
+kostenfreien Lookups holt. Das Skript selbst bleibt LLM-frei: es stellt Jobs,
+nimmt Verdikte an, prüft sie mechanisch und rechnet die Belegquote.
+
+Genutzt werden nur Lookup-Tools (`cite`, `get_law`, `get_erwaegung`,
+`get_regeste`, `get_decision`, `get_article_history`) — Datenbankabfragen ohne
+LLM-Anteil. Die Stufen 2–4 gaten Stufe 5 weiterhin: für ein halluziniertes
+Zitat wird kein Judge bemüht. Stufe 7 (Schlussattest) ist kein eigenes Tool
+mehr, sondern ein erneuter Lauf über den korrigierten Text.
 
 Der MCP wird per HTTP-JSON-RPC angesprochen, nicht über die MCP-Client-Tools:
-batchbar, cachebar, und check_claim_support wird vom Client teils mit
-"Invalid request parameters" abgewiesen.
+batchbar und cachebar.
 
 Usage:
   python3 audit.py content/kommentar/bv/art-045
   python3 audit.py content/kommentar/bv/art-045 --report /pfad/report.json
   python3 audit.py content/kommentar/bv --all          # alle Bundles eines Gesetzes
   python3 audit.py ... --no-cache                      # Cache ignorieren
+
+  # Stufe 5 ohne opencaselaw-Kosten: Jobs ausgeben, urteilen lassen, einlesen
+  python3 audit.py content/kommentar/bv/art-045 --emit-jobs
+  python3 audit.py --ingest audit-jobs/bv-045
+  python3 audit.py --import-cache      # Altbestand aus dem MCP-Cache übernehmen
 """
 import argparse
 import hashlib
@@ -44,6 +59,22 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
+# Tools, die serverseitig ein LLM anwerfen und opencaselaw damit Geld kosten.
+# Sie werden hier nie aufgerufen — `Mcp.call` blockt sie, damit sie auch nicht
+# versehentlich über eine neue Stufe zurückkommen. Der Ersatz für Stufe 5 steht
+# im Abschnitt „Judge-Ledger"; `attest_response` und `reflect` haben in diesem
+# Skript nie eine Entsprechung gehabt.
+BILLED_TOOLS = {"check_claim_support", "attest_response", "reflect"}
+# Suchtools kosten serverseitig ebenfalls einen (kleinen) LLM-Anteil
+# — Query-Parse, Expansion, Rerank. Dieses Skript braucht keine Suche; die
+# Liste steht hier, damit eine künftige Stufe nicht unbemerkt eine aufmacht.
+SEARCH_TOOLS = {
+    "search", "search_decisions", "search_laws", "search_legislation",
+    "search_scholarship", "search_botschaft", "search_practice",
+    "search_commentaries", "search_materialien", "find_relevant_erwaegung",
+    "find_leading_cases", "find_citations", "find_scholarship_citing_decision",
+    "find_scholarship_citing_statute",
+}
 # Teil des Cache-Keys: bei Änderungen am Antwort-Parsing hochzählen, sonst
 # liefert der Cache Ergebnisse der alten Auswertung zurück.
 PARSER_VERSION = 10
@@ -53,6 +84,35 @@ MIN_QUOTE_LEN = 30
 # LLM-Aufruf (ø ~5 s), die übrigen Stufen sind Datenbank-Lookups (ø ~0.1 s).
 # Die Calls sind voneinander unabhängig, also laufen sie parallel.
 MAX_WORKERS = int(os.environ.get("GLOSSAGENS_AUDIT_JOBS", "8"))
+
+SKILL_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.abspath(os.path.join(SKILL_DIR, "..", "..", ".."))
+# Der Ledger liegt im Repo, nicht unter ~/.cache: Claude Code, Antigravity und
+# Hermes laufen auf verschiedenen Maschinen: ein maschinenlokaler Cache wäre
+# für jeden ein anderer, und ein Verdikt soll nachprüfbar festhalten, welches
+# Modell es gefällt hat — dieselbe Logik wie beim `revisions`-Vermerk.
+LEDGER_PATH = os.environ.get(
+    "GLOSSAGENS_JUDGE_LEDGER", os.path.join(SKILL_DIR, "verdicts", "ledger.jsonl")
+)
+JOBS_ROOT = os.environ.get(
+    "GLOSSAGENS_JUDGE_JOBS", os.path.join(REPO_ROOT, "audit-jobs")
+)
+# Promptfassung des Judge (judge-prompt.md). Teil der job_id: wird der Prompt
+# geändert, sind alte Verdikte nicht mehr vergleichbar und müssen neu ergehen.
+JUDGE_PROMPT_VERSION = 1
+SUPPORTS_ENUM = ("yes", "partial", "no", "contradicts", "unrelated")
+# Textbudget für den Volltext-Rückfall — gleicher Wert, den der
+# opencaselaw-Server intern verwendete.
+VOLLTEXT_BUDGET = 4000
+
+# Höflichkeitsbremse. nginx bei opencaselaw lässt 30 req/s zu; acht parallele
+# Lookups ohne Bremse erzeugen kurze Spitzen weit darüber. Am 23.08.2026 hat
+# der Betreiber diesen Client per IP gesperrt — Grund laut nginx-Konfiguration:
+# «4,229 verify_claim attempts in one day against a 200/day quota, retry loop
+# with no backoff». Die Bremse hier ist die Antwort darauf: fester Abstand
+# zwischen Requests, exponentieller Backoff, und bei 403/429 wird der Lauf
+# abgebrochen statt weitergehämmert.
+REQ_PRO_SEK = float(os.environ.get("GLOSSAGENS_AUDIT_RPS", "4"))
 
 CITE_LINK = re.compile(
     r"\[([^\]]*)\]\(https://mcp\.opencaselaw\.ch/entscheid/([^)#\s]+)(#[^)\s]*)?\)"
@@ -125,6 +185,9 @@ class Mcp:
         self.calls = 0
         self.hits = 0
         self.lock = threading.Lock()   # call() läuft aus mehreren Threads
+        self.takt = threading.Lock()   # serialisiert den Requestabstand
+        self.letzter_req = 0.0
+        self.blockiert = None          # gesetzt bei 403/429: keine weiteren Requests
         if use_cache and os.path.exists(CACHE_PATH):
             try:
                 self.cache = json.load(open(CACHE_PATH))
@@ -138,6 +201,23 @@ class Mcp:
         json.dump(self.cache, open(CACHE_PATH, "w"))
 
     def call(self, tool, args, retries=2):
+        # Kostenschutz: LLM-Tools gehen nie ins Netz. Ein bereits bezahltes
+        # Ergebnis aus dem Altbestand darf gelesen werden — es kostet nichts
+        # mehr —, ein neuer Aufruf nicht.
+        if tool in BILLED_TOOLS:
+            key = f"v{PARSER_VERSION}:{tool}:" + json.dumps(args, sort_keys=True)
+            if self.use_cache and key in self.cache:
+                with self.lock:
+                    self.hits += 1
+                return self.cache[key]
+            return {
+                "_error": (
+                    f"{tool} ist gesperrt: serverseitiger LLM-Aufruf, der "
+                    "opencaselaw Kosten verursacht. Stufe 5 urteilt über den "
+                    "Judge-Ledger (--emit-jobs / --ingest), siehe SKILL.md."
+                )
+            }
+
         key = f"v{PARSER_VERSION}:{tool}:" + json.dumps(args, sort_keys=True)
         if self.use_cache:
             with self.lock:
@@ -162,9 +242,15 @@ class Mcp:
                 "User-Agent": "glossagens-audit/1.0 (https://glossagens.ch)",
             },
         )
+        if self.blockiert:
+            # Ein einmal abgewiesener Client fragt nicht weiter. Genau die
+            # fehlende Bremse hat zur Sperre geführt.
+            return {"_error": self.blockiert}
+
         last = None
         for attempt in range(retries + 1):
             try:
+                self._takten()
                 with urllib.request.urlopen(req, timeout=60) as resp:
                     raw = resp.read().decode()
                 result = self._parse(raw)
@@ -175,11 +261,36 @@ class Mcp:
                     if self.use_cache and "_error" not in result:
                         self.cache[key] = result
                 return result
+            except urllib.error.HTTPError as e:
+                if e.code in (403, 429):
+                    grund = (
+                        "opencaselaw antwortet mit HTTP {}. Der Lauf bricht ab, "
+                        "statt weiterzufragen. 403 = dieser Client ist gesperrt "
+                        "(Kontakt: team@jonashertner.com), 429 = Tageskontingent "
+                        "erschöpft.".format(e.code)
+                    )
+                    with self.lock:
+                        self.blockiert = grund
+                    return {"_error": grund}
+                last = e
+                if attempt < retries:
+                    time.sleep(2.0 ** attempt)
             except Exception as e:  # Netzfehler / Timeout
                 last = e
                 if attempt < retries:
-                    time.sleep(1.5 * (attempt + 1))
+                    time.sleep(2.0 ** attempt)
         return {"_error": str(last)}
+
+    def _takten(self):
+        """Mindestabstand zwischen zwei Requests, über alle Threads hinweg."""
+        if REQ_PRO_SEK <= 0:
+            return
+        abstand = 1.0 / REQ_PRO_SEK
+        with self.takt:
+            warten = self.letzter_req + abstand - time.monotonic()
+            if warten > 0:
+                time.sleep(warten)
+            self.letzter_req = time.monotonic()
 
     def call_many(self, tool, args_by_key, workers=None):
         """Unabhängige Calls desselben Tools parallel; Ergebnis je Key.
@@ -223,6 +334,179 @@ class Mcp:
             except json.JSONDecodeError:
                 pass
         return {"_text": text}
+
+
+# ---------------------------------------------------------------- Judge-Ledger
+#
+# Stufe 5 fragt nicht mehr bei opencaselaw nach, ob ein Entscheid eine
+# Behauptung trägt — dieser Aufruf war serverseitig ein LLM-Call und damit die
+# Kostenstelle des ganzen Audits. Stattdessen:
+#
+#   1. `--emit-jobs` schreibt für jedes noch unbeurteilte Paar einen Job mit
+#      vorgeholtem Prüftext. Ein Job ist selbsttragend: der Judge braucht weder
+#      Repo noch Netz noch Werkzeuge — nur Prompt und Text.
+#   2. Ein Judge-Subagent des jeweiligen Agenten urteilt (judge-prompt.md).
+#   3. `--ingest` prüft die Verdikte mechanisch und schreibt sie in den Ledger.
+#
+# Der Ledger ist die gemeinsame Wahrheit aller Agenten; ein einmal gefälltes
+# Urteil wird nie zweimal bezahlt.
+
+
+def claim_key(s):
+    """Normalform des Behauptungssatzes für die job_id — bewusst schwach:
+    nur Whitespace und Gross-/Kleinschreibung. Eine schärfere Normalisierung
+    (wie `norm`) würde Sätze zusammenfallen lassen, die ein Judge verschieden
+    beurteilen müsste."""
+    return re.sub(r"\s+", " ", (s or "")).strip().casefold()
+
+
+def job_id(claim, decision_id, pinpoint):
+    roh = "v{}\x1f{}\x1f{}\x1f{}".format(
+        JUDGE_PROMPT_VERSION, claim_key(claim), decision_id or "", pinpoint or ""
+    )
+    return hashlib.sha1(roh.encode("utf-8")).hexdigest()[:16]
+
+
+def flat(s):
+    """Für den Verbatim-Abgleich der Exzerpte: entfernt, was ein Modell beim
+    Abschreiben variiert — Whitespace, typografische Anführungen, Gedankenstriche."""
+    s = unicodedata.normalize("NFKC", s or "")
+    for a, b in (
+        ("«", '"'), ("»", '"'), ("„", '"'), ("“", '"'), ("”", '"'),
+        ("’", "'"), ("‘", "'"), ("–", "-"), ("—", "-"), ("\u00a0", " "),
+    ):
+        s = s.replace(a, b)
+    return re.sub(r"\s+", "", s).casefold()
+
+
+def text_sha(t):
+    return hashlib.sha1(flat(t).encode("utf-8")).hexdigest()[:16]
+
+
+class Ledger:
+    """Append-only JSONL im Repo. Späterer Eintrag zur selben job_id gewinnt —
+    so lässt sich ein Verdikt durch ein besseres ersetzen, ohne Historie zu
+    verlieren."""
+
+    def __init__(self, path=LEDGER_PATH):
+        self.path = path
+        self.by_id = {}
+        self.neu = []
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        v = json.loads(line)
+                    except json.JSONDecodeError:
+                        continue
+                    if v.get("job_id"):
+                        self.by_id[v["job_id"]] = v
+
+    def get(self, jid):
+        return self.by_id.get(jid)
+
+    def add(self, verdict):
+        self.by_id[verdict["job_id"]] = verdict
+        self.neu.append(verdict)
+
+    def save(self):
+        if not self.neu:
+            return 0
+        os.makedirs(os.path.dirname(self.path) or ".", exist_ok=True)
+        with open(self.path, "a", encoding="utf-8") as f:
+            for v in self.neu:
+                f.write(json.dumps(v, ensure_ascii=False, sort_keys=True) + "\n")
+        n = len(self.neu)
+        self.neu = []
+        return n
+
+
+def validate_verdict(raw, job=None):
+    """Verdikte kommen von fremden Agenten und werden geprüft, nicht geglaubt.
+
+    Die Verbatim-Bedingung für die Exzerpte ist der Kern: der
+    opencaselaw-Server verlangte sie im Prompt und prüfte sie nie nach. Hier
+    ist sie erzwingbar, weil der Harness den Prüftext besitzt — ein Modell,
+    das Exzerpte erfindet, fällt auf, bevor sein Urteil in die Belegquote
+    eingeht. Rückgabe: (Verdikt-Datensatz, None) oder (None, Grund)."""
+    if not isinstance(raw, dict):
+        return None, "kein JSON-Objekt"
+    jid = (raw.get("job_id") or "").strip()
+    if not jid:
+        return None, "job_id fehlt"
+    if job and jid != job["job_id"]:
+        return None, "job_id gehört zu keinem ausgegebenen Job"
+    sup = raw.get("supports")
+    if sup not in SUPPORTS_ENUM:
+        return None, "supports ungültig: {!r}".format(sup)
+    try:
+        conf = float(raw.get("confidence"))
+    except (TypeError, ValueError):
+        return None, "confidence fehlt oder ist keine Zahl"
+    if not 0.0 <= conf <= 1.0:
+        return None, "confidence ausserhalb [0,1]"
+    model = (raw.get("judge_model") or "").strip()
+    if not model:
+        return None, "judge_model fehlt — ein Verdikt ohne Urheber ist wertlos"
+
+    exz = {}
+    for feld in ("supporting_excerpt", "qualifying_excerpt"):
+        val = raw.get(feld)
+        if val is None or (isinstance(val, str) and not val.strip()):
+            exz[feld] = None
+            continue
+        if not isinstance(val, str):
+            return None, "{} ist kein Text".format(feld)
+        if job and job.get("text") and flat(val) not in flat(job["text"]):
+            return None, "{} steht nicht wörtlich im Prüftext".format(feld)
+        exz[feld] = val.strip()
+    # yes/partial ohne Belegstelle ist eine Behauptung über eine Behauptung.
+    if job and sup in ("yes", "partial") and not exz["supporting_excerpt"]:
+        return None, "{} ohne supporting_excerpt".format(sup)
+
+    rec = {
+        "job_id": jid,
+        "supports": sup,
+        "confidence": round(conf, 3),
+        "supporting_excerpt": exz["supporting_excerpt"],
+        "qualifying_excerpt": exz["qualifying_excerpt"],
+        "reasoning": (raw.get("reasoning") or "").strip()[:400],
+        "judge_model": model,
+        "judge_agent": (raw.get("judge_agent") or "").strip() or "unbekannt",
+        "prompt_version": JUDGE_PROMPT_VERSION,
+        "date": time.strftime("%Y-%m-%d"),
+        "excerpt_geprueft": bool(job and job.get("text")),
+    }
+    if job:
+        rec.update(
+            claim_kurz=job["claim"][:160],
+            decision_id=job["decision_id"],
+            pinpoint=job.get("pinpoint"),
+            text_quelle=job.get("text_quelle"),
+            text_sha=job.get("text_sha"),
+        )
+    return rec, None
+
+
+def pruef_text(mcp, unit, pinpoint, decision_id, pinpoints):
+    """Text, gegen den geurteilt wird — dieselbe Rangfolge, die der
+    opencaselaw-Server intern anwandte: Pinpoint-Erwägung, sonst Regeste,
+    sonst Volltextkopf. Alle drei sind Lookups ohne LLM-Anteil."""
+    if pinpoint:
+        t = (pinpoints.get("{} E. {}".format(unit["reference"], pinpoint)) or {}).get("text")
+        if t:
+            return t, "Erwägung {}".format(pinpoint)
+    r = mcp.call("get_regeste", {"decision_id": decision_id})
+    if r.get("regeste"):
+        return r["regeste"], "Regeste"
+    d = mcp.call("get_decision", {"decision_id": decision_id})
+    ft = d.get("full_text") or d.get("text") or ""
+    if len(ft.strip()) >= 30:
+        return ft[:VOLLTEXT_BUDGET], "Volltext (erste {} Zeichen)".format(VOLLTEXT_BUDGET)
+    return None, None
 
 
 # ---------------------------------------------------------------- Stufe 0
@@ -830,12 +1114,17 @@ def stufe4_verbatim(mcp, quotes, existenz):
     return out
 
 
-def stufe5_grounding(mcp, units, existenz, pinpoints, workers=None):
+def stufe5_grounding(mcp, units, existenz, pinpoints, ledger,
+                     jobs_out=None, workers=None):
     """Trägt der Beleg die Behauptung? Nur für Paare, die 2–4 überlebt haben.
 
-    Zwei Durchgänge: erst wird geplant (welche Paare kosten überhaupt einen
-    Call), dann laufen die Calls parallel, dann werden die Sätze gefüllt. Die
-    Reihenfolge von `out` bleibt die der `units` — Platzhalter halten den
+    Das Urteil kommt aus dem Verdikt-Ledger, nicht mehr von `check_claim_support`
+    (siehe Abschnitt „Judge-Ledger"). Fehlt eines, gilt das Paar als `offen`:
+    ein fehlendes Urteil ist kein Freispruch und geht darum auch nicht in die
+    Belegquote ein. Ist `jobs_out` eine Liste, wird für jedes offene Paar der
+    Prüftext geholt und ein Job gesammelt.
+
+    Die Reihenfolge von `out` bleibt die der `units` — Platzhalter halten den
     Platz."""
     out, jobs, erster = [], {}, {}
     slots = []          # (Index in out, Key, Unit, geprüfter Pinpoint)
@@ -849,7 +1138,7 @@ def stufe5_grounding(mcp, units, existenz, pinpoints, workers=None):
         ).get("status") != "existiert":
             pin = None   # ungültiger Pinpoint → Entscheid als Ganzes prüfen
         # Kein brauchbarer Behauptungssatz extrahierbar → als Befund melden,
-        # nicht dem Richter vorwerfen (er antwortet sonst mit einem Fehler).
+        # nicht dem Judge vorwerfen (er urteilte sonst über einen Satzrest).
         if len(re.sub(r"[^\wäöüÄÖÜ]", "", u["claim"])) < 20:
             out.append(
                 {
@@ -869,19 +1158,37 @@ def stufe5_grounding(mcp, units, existenz, pinpoints, workers=None):
         did = e.get("decision_id") or u["decision_id"]
         key = (u["claim_id"], did, pin)
         if key not in jobs:
-            args = {"claim": u["claim"], "decision_id": did}
-            if pin:
-                args["pinpoint"] = pin
-            jobs[key] = args
+            jobs[key] = {"claim": u["claim"], "decision_id": did, "pinpoint": pin}
             erster[key] = (u, pin)   # Stammsatz kommt vom ersten Vorkommen
         slots.append((len(out), key, u, pin))
         out.append(None)
 
-    ergebnisse = mcp.call_many("check_claim_support", jobs, workers=workers)
+    # Offene Paare bestimmen. Der Prüftext wird nur geholt, wenn Jobs
+    # ausgegeben werden sollen — für den reinen Berichtslauf wäre er
+    # unnötiger Netzverkehr.
+    offen_keys = [
+        k for k, a in jobs.items()
+        if not ledger.get(job_id(a["claim"], a["decision_id"], a["pinpoint"]))
+    ]
+    texte = {}
+    if jobs_out is not None and offen_keys:
+        def hole(k):
+            u, pin = erster[k]
+            return k, pruef_text(mcp, u, pin, jobs[k]["decision_id"], pinpoints)
 
+        n = min(workers or MAX_WORKERS, len(offen_keys))
+        if n <= 1:
+            texte = dict(hole(k) for k in offen_keys)
+        else:
+            with ThreadPoolExecutor(max_workers=n) as ex:
+                texte = dict(f.result() for f in as_completed(
+                    [ex.submit(hole, k) for k in offen_keys]))
+
+    gesehen = set()
     for idx, key, u, _pin in slots:
-        res = ergebnisse.get(key, {"_error": "kein Ergebnis"})
         quelle, pin = erster[key]
+        did = jobs[key]["decision_id"]
+        jid = job_id(quelle["claim"], did, pin)
         rec = {
             "file": u["file"],
             "line": u["line"],
@@ -889,18 +1196,66 @@ def stufe5_grounding(mcp, units, existenz, pinpoints, workers=None):
             "claim": quelle["claim"],
             "reference": quelle["reference"],
             "pinpoint": pin,
-            "supports": res.get("supports", "nicht_verifizierbar"),
-            "confidence": res.get("confidence"),
-            "geprueft_gegen": res.get("checked_text_source"),
-            "begruendung": res.get("reasoning"),
-            "beleg_exzerpt": res.get("supporting_excerpt"),
+            "job_id": jid,
         }
-        if "supports" not in res:
-            rec["supports"] = "nicht_verifizierbar"
-            rec["begruendung"] = (
-                res.get("_error")
-                or (res.get("_text") or "")[:200]
-                or f"unerwartete Antwort, Felder: {sorted(res)[:8]}"
+        v = ledger.get(jid)
+        if v:
+            rec.update(
+                supports=v["supports"],
+                confidence=v.get("confidence"),
+                geprueft_gegen=v.get("text_quelle"),
+                begruendung=v.get("reasoning"),
+                beleg_exzerpt=v.get("supporting_excerpt"),
+                einschraenkung=v.get("qualifying_excerpt"),
+                judge_model=v.get("judge_model"),
+                judge_agent=v.get("judge_agent"),
+                excerpt_geprueft=v.get("excerpt_geprueft"),
+            )
+            out[idx] = rec
+            continue
+
+        text, quelle_label = texte.get(key, (None, None))
+        if jobs_out is not None and not text:
+            if mcp.blockiert:
+                # Kein Urteil möglich, aber auch kein Befund über den Bestand:
+                # das Paar bleibt offen, bis der Zugang wieder besteht.
+                rec.update(
+                    supports="offen",
+                    confidence=None,
+                    begruendung="Prüftext nicht beschaffbar — " + mcp.blockiert,
+                )
+            else:
+                # Kein Prüftext beschaffbar (kantonaler Entscheid ohne Regeste
+                # und ohne Volltext) — Grenze des Bestands, kein Befund.
+                rec.update(
+                    supports="nicht_verifizierbar",
+                    confidence=None,
+                    begruendung="kein Prüftext verfügbar (weder Erwägung noch Regeste noch Volltext)",
+                )
+            out[idx] = rec
+            continue
+
+        rec.update(
+            supports="offen",
+            confidence=None,
+            begruendung="kein Verdikt im Ledger — mit --emit-jobs ausgeben und "
+                        "von einem Judge-Subagenten beurteilen lassen",
+        )
+        if jobs_out is not None and jid not in gesehen:
+            gesehen.add(jid)
+            jobs_out.append(
+                {
+                    "job_id": jid,
+                    "prompt_version": JUDGE_PROMPT_VERSION,
+                    "claim": quelle["claim"],
+                    "reference": quelle["reference"],
+                    "decision_id": did,
+                    "pinpoint": pin,
+                    "text_quelle": quelle_label,
+                    "text_sha": text_sha(text),
+                    "text": text,
+                    "fundstelle": f"{quelle['file']}:{quelle['line']}",
+                }
             )
         out[idx] = rec
     return out
@@ -968,14 +1323,15 @@ def sr_from_gesetz(bundle):
 # ---------------------------------------------------------------- Bericht
 
 
-def audit_bundle(mcp, bundle, gesetz, article, workers=None):
+def audit_bundle(mcp, bundle, gesetz, article, ledger, jobs_out=None, workers=None):
     sr = sr_from_gesetz(bundle)
     units, quotes, wortlaut = parse_bundle(bundle)
     w = stufe1_wortlaut(mcp, gesetz, article, wortlaut, sr_number=sr)
     ex = stufe2_existenz(mcp, units)
     pp = stufe3_pinpoints(mcp, units, ex)
     vb = stufe4_verbatim(mcp, quotes, ex)
-    gr = stufe5_grounding(mcp, units, ex, pp, workers=workers)
+    gr = stufe5_grounding(mcp, units, ex, pp, ledger,
+                          jobs_out=jobs_out, workers=workers)
     ak = stufe6_aktualitaet(mcp, sr, article, ex)
 
     halluziniert = [r for r, v in ex.items() if v["status"] == "halluziniert"]
@@ -988,6 +1344,7 @@ def audit_bundle(mcp, bundle, gesetz, article, workers=None):
         g for g in gr
         if g["supports"] in ("yes", "partial", "no", "contradicts", "unrelated")
     ]
+    offen = [g for g in gr if g["supports"] == "offen"]
     ja = len([g for g in beurteilt if g["supports"] == "yes"])
     teils = len([g for g in beurteilt if g["supports"] == "partial"])
     quote = round((ja + 0.5 * teils) / len(beurteilt) * 100) if beurteilt else None
@@ -1027,6 +1384,10 @@ def audit_bundle(mcp, bundle, gesetz, article, workers=None):
                 for g in gr
                 if g["supports"] == "claim_nicht_extrahierbar"
             ],
+            "belege_offen": len(offen),
+            "judge_modelle": sorted(
+                {g.get("judge_model") for g in beurteilt if g.get("judge_model")}
+            ),
             "belege_beurteilt": len(beurteilt),
             "belege_gestuetzt": ja,
             "belege_teilweise": teils,
@@ -1041,20 +1402,200 @@ def article_from_dir(bundle):
     return (m.group(1) + m.group(2)) if m else None
 
 
+# ---------------------------------------------------------------- Jobs & Ingest
+
+
+def jobs_dir_for(gesetz, article=None):
+    name = gesetz.lower() + ("-" + article if article else "")
+    return os.path.join(JOBS_ROOT, name)
+
+
+def lies_jsonl(pfad):
+    """JSONL — toleriert eine JSON-Liste und Code-Fences, weil die Datei von
+    einem Subagenten geschrieben wird und nicht jeder Agent JSONL sauber
+    trifft. Was nicht parst, wird als Fehlzeile gemeldet, nicht verschluckt."""
+    roh = open(pfad, encoding="utf-8").read().strip()
+    if roh.startswith("```"):
+        roh = roh.split("\n", 1)[-1].rsplit("```", 1)[0].strip()
+    if roh.startswith("["):
+        try:
+            daten = json.loads(roh)
+            return [(0, d) for d in daten], []
+        except json.JSONDecodeError as e:
+            return [], [(0, str(e))]
+    out, fehler = [], []
+    for i, line in enumerate(roh.split("\n"), 1):
+        line = line.strip().rstrip(",")
+        if not line or line in ("[", "]"):
+            continue
+        try:
+            out.append((i, json.loads(line)))
+        except json.JSONDecodeError as e:
+            fehler.append((i, str(e)))
+    return out, fehler
+
+
+def ingest(pfad, ledger):
+    """Verdikte einlesen, mechanisch prüfen, Ledger fortschreiben.
+
+    `pfad` ist das Job-Verzeichnis eines Laufs (enthält `jobs.jsonl` und die
+    `verdicts*.jsonl` der Subagenten) oder eine einzelne Verdikt-Datei; im
+    zweiten Fall werden die Jobs aus dem Nachbarverzeichnis gelesen."""
+    pfad = os.path.abspath(pfad)
+    if not os.path.exists(pfad):
+        print("nichts einzulesen: {} existiert nicht".format(pfad), file=sys.stderr)
+        return 1
+    if os.path.isdir(pfad):
+        vdir = pfad
+        vfiles = sorted(
+            os.path.join(pfad, f) for f in os.listdir(pfad)
+            if f.startswith("verdicts") and f.endswith(".jsonl")
+        )
+    else:
+        vdir = os.path.dirname(pfad)
+        vfiles = [pfad]
+    jobs = {}
+    jpfad = os.path.join(vdir, "jobs.jsonl")
+    if os.path.exists(jpfad):
+        for _, j in lies_jsonl(jpfad)[0]:
+            if j.get("job_id"):
+                jobs[j["job_id"]] = j
+    else:
+        print(
+            "WARNUNG: keine jobs.jsonl neben den Verdikten — die Exzerpte "
+            "können nicht gegen den Prüftext geprüft werden.",
+            file=sys.stderr,
+        )
+    if not vfiles:
+        print("keine verdicts*.jsonl in " + vdir, file=sys.stderr)
+        return 1
+
+    uebernommen, verworfen, unbekannt = 0, [], 0
+    for vf in vfiles:
+        zeilen, fehler = lies_jsonl(vf)
+        for ln, e in fehler:
+            verworfen.append((os.path.basename(vf), ln, "kein JSON: " + e[:60]))
+        for ln, raw in zeilen:
+            job = jobs.get((raw or {}).get("job_id")) if isinstance(raw, dict) else None
+            if jobs and not job:
+                unbekannt += 1
+                verworfen.append(
+                    (os.path.basename(vf), ln, "job_id gehört zu keinem Job dieses Laufs")
+                )
+                continue
+            rec, grund = validate_verdict(raw, job)
+            if grund:
+                verworfen.append((os.path.basename(vf), ln, grund))
+                continue
+            ledger.add(rec)
+            uebernommen += 1
+
+    n = ledger.save()
+    print(
+        "Ingest: {} Verdikte übernommen, {} verworfen ({} Jobs im Lauf)".format(
+            uebernommen, len(verworfen), len(jobs)
+        ),
+        file=sys.stderr,
+    )
+    for datei, ln, grund in verworfen[:25]:
+        print("  verworfen {}:{} — {}".format(datei, ln, grund), file=sys.stderr)
+    if len(verworfen) > 25:
+        print("  … und {} weitere".format(len(verworfen) - 25), file=sys.stderr)
+    print("Ledger: +{} Zeilen → {}".format(n, ledger.path), file=sys.stderr)
+    # Ein verworfenes Verdikt ist ein Befund über den Judge, kein Betriebsfehler:
+    # Exit 0, damit ein Lauf mit ein paar Ausreissern nicht als Absturz gilt.
+    return 0
+
+
+def import_cache(ledger):
+    """Einmalige Übernahme der bereits bezahlten opencaselaw-Verdikte aus dem
+    lokalen MCP-Cache. Sie sind bezahlt, brauchbar und dienen ausserdem als
+    Vergleichsmassstab für die Kalibrierung neuer Judge-Modelle. Ihre Exzerpte
+    sind nie gegen den Prüftext geprüft worden — das hält `excerpt_geprueft`
+    fest."""
+    if not os.path.exists(CACHE_PATH):
+        print("kein MCP-Cache unter " + CACHE_PATH, file=sys.stderr)
+        return 1
+    cache = json.load(open(CACHE_PATH, encoding="utf-8"))
+    datum = time.strftime("%Y-%m-%d", time.localtime(os.path.getmtime(CACHE_PATH)))
+    uebernommen, uebersprungen = 0, 0
+    for key, v in cache.items():
+        if ":check_claim_support:" not in key or not isinstance(v, dict):
+            continue
+        if v.get("supports") not in SUPPORTS_ENUM:
+            uebersprungen += 1      # Fehlantworten des Servers, kein Urteil
+            continue
+        try:
+            args = json.loads(key.split(":check_claim_support:", 1)[1])
+        except json.JSONDecodeError:
+            uebersprungen += 1
+            continue
+        jid = job_id(args.get("claim"), args.get("decision_id"), args.get("pinpoint"))
+        if ledger.get(jid):
+            continue
+        ledger.add(
+            {
+                "job_id": jid,
+                "claim_kurz": (args.get("claim") or "")[:160],
+                "decision_id": args.get("decision_id"),
+                "pinpoint": args.get("pinpoint"),
+                "text_quelle": v.get("checked_text_source"),
+                "text_sha": None,
+                "supports": v["supports"],
+                "confidence": round(float(v.get("confidence") or 0.0), 3),
+                "supporting_excerpt": v.get("supporting_excerpt"),
+                "qualifying_excerpt": v.get("qualifying_excerpt"),
+                "reasoning": (v.get("reasoning") or "")[:400],
+                "judge_model": "claude-sonnet-4-6",
+                "judge_agent": "opencaselaw-mcp (Altbestand, vor der Umstellung)",
+                "prompt_version": JUDGE_PROMPT_VERSION,
+                "date": datum,
+                "excerpt_geprueft": False,
+            }
+        )
+        uebernommen += 1
+    n = ledger.save()
+    print(
+        "Altbestand: {} Verdikte übernommen, {} übersprungen (keine Urteile)\n"
+        "Ledger: +{} Zeilen → {}".format(uebernommen, uebersprungen, n, ledger.path),
+        file=sys.stderr,
+    )
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("pfad", help="Bundle (art-045) oder Gesetzesverzeichnis mit --all")
+    ap.add_argument("pfad", nargs="?",
+                    help="Bundle (art-045) oder Gesetzesverzeichnis mit --all")
     ap.add_argument("--all", action="store_true", help="alle art-*-Bundles darunter")
     ap.add_argument("--report", default=None)
     ap.add_argument("--no-cache", action="store_true")
+    ap.add_argument("--ledger", default=LEDGER_PATH,
+                    help=f"Verdikt-Ledger (Vorgabe {LEDGER_PATH})")
+    ap.add_argument("--emit-jobs", nargs="?", const="", default=None, metavar="DIR",
+                    help="offene Paare als Judge-Jobs ausgeben (Vorgabe: "
+                         "audit-jobs/{gesetz}[-{art}])")
+    ap.add_argument("--ingest", default=None, metavar="PFAD",
+                    help="Verdikte eines Job-Verzeichnisses einlesen und prüfen")
+    ap.add_argument("--import-cache", action="store_true",
+                    help="bereits bezahlte opencaselaw-Verdikte aus dem MCP-Cache "
+                         "in den Ledger übernehmen (einmalig)")
     ap.add_argument(
         "--jobs",
         type=int,
         default=MAX_WORKERS,
-        help=f"parallele check_claim_support-Calls (Vorgabe {MAX_WORKERS}, "
+        help=f"parallele Lookups beim Beschaffen der Prüftexte (Vorgabe {MAX_WORKERS}, "
         f"1 = seriell; auch über GLOSSAGENS_AUDIT_JOBS)",
     )
     args = ap.parse_args()
+
+    ledger = Ledger(args.ledger)
+    if args.import_cache:
+        sys.exit(import_cache(ledger))
+    if args.ingest:
+        sys.exit(ingest(args.ingest, ledger))
+    if not args.pfad:
+        ap.error("pfad fehlt (oder --ingest / --import-cache verwenden)")
 
     pfad = os.path.abspath(args.pfad)
     if args.all:
@@ -1069,14 +1610,18 @@ def main():
         gesetz = os.path.basename(os.path.dirname(pfad))
 
     mcp = Mcp(use_cache=not args.no_cache)
-    reports = []
+    reports, alle_jobs = [], []
     for b in bundles:
         art = article_from_dir(b)
         if not art:
             print(f"übersprungen (kein art-Bundle): {b}", file=sys.stderr)
             continue
         print(f"→ {gesetz.upper()} Art. {art}", file=sys.stderr)
-        r = audit_bundle(mcp, b, gesetz, art, workers=args.jobs)
+        r = audit_bundle(
+            mcp, b, gesetz, art, ledger,
+            jobs_out=alle_jobs if args.emit_jobs is not None else None,
+            workers=args.jobs,
+        )
         reports.append(r)
         s = r["zusammenfassung"]
         print(
@@ -1085,7 +1630,7 @@ def main():
             f"halluziniert={len(s['referenzen_halluziniert'])} "
             f"Pinpoint-Fehler={len(s['pinpoints_fehlend'])} "
             f"gestützt={s['belege_gestuetzt']}(+{s['belege_teilweise']} teilw.)"
-            f"/{s['belege_beurteilt']} "
+            f"/{s['belege_beurteilt']} offen={s['belege_offen']} "
             f"→ {s['belegquote_prozent']}% Urteil {s['urteil']}",
             file=sys.stderr,
         )
@@ -1104,6 +1649,25 @@ def main():
         f"\nMCP-Calls: {mcp.calls} (Cache-Treffer: {mcp.hits})\nBericht: {out}",
         file=sys.stderr,
     )
+
+    if mcp.blockiert:
+        print("\nACHTUNG: " + mcp.blockiert, file=sys.stderr)
+
+    if args.emit_jobs is not None:
+        art = article_from_dir(bundles[0]) if not args.all else None
+        d = args.emit_jobs or jobs_dir_for(gesetz, art)
+        os.makedirs(d, exist_ok=True)
+        jp = os.path.join(d, "jobs.jsonl")
+        with open(jp, "w", encoding="utf-8") as f:
+            for j in alle_jobs:
+                f.write(json.dumps(j, ensure_ascii=False) + "\n")
+        print(
+            f"Judge-Jobs: {len(alle_jobs)} → {jp}\n"
+            f"  Prompt: {os.path.join(SKILL_DIR, 'judge-prompt.md')}\n"
+            f"  Urteile als {os.path.join(d, 'verdicts-*.jsonl')} ablegen, dann:\n"
+            f"  python3 {os.path.relpath(__file__, REPO_ROOT)} --ingest {os.path.relpath(d, REPO_ROOT)}",
+            file=sys.stderr,
+        )
 
 
 if __name__ == "__main__":

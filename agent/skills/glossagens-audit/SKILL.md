@@ -1,17 +1,20 @@
 ---
 name: glossagens-audit
 description: >
-  Auditiert Glossagens-Kommentarartikel auf Belegtheit: prüft jedes Paar (Behauptungssatz, Beleg) gegen die
-  opencaselaw-MCP — Gesetzeswortlaut, Existenz der Zitate, Pinpoints, wörtliche Zitate, ob der Entscheid die
-  Behauptung wirklich trägt, und Aktualität. Bietet den Workflow /audit ({gesetz} | {gesetz} art-{nr}): wendet
-  mechanisch belegbare Korrekturen automatisch an und legt alles Inhaltliche zur Bestätigung vor.
-version: 1.0.0
+  Auditiert Glossagens-Kommentarartikel auf Belegtheit: prüft jedes Paar (Behauptungssatz, Beleg) — Gesetzeswortlaut,
+  Existenz der Zitate, Pinpoints, wörtliche Zitate, ob der Entscheid die Behauptung wirklich trägt, und Aktualität.
+  Fakten kommen aus den kostenfreien opencaselaw-Lookups, das Grounding-Urteil von Judge-Subagenten des jeweiligen
+  Agenten (Claude Code, Antigravity, Hermes) — die LLM-Tools von opencaselaw werden nicht mehr aufgerufen.
+  Bietet den Workflow /audit ({gesetz} | {gesetz} art-{nr}): wendet mechanisch belegbare Korrekturen automatisch an
+  und legt alles Inhaltliche zur Bestätigung vor.
+version: 2.0.0
 author: Claude Code
 license: MIT
 tools:
   - Bash
   - Read
   - Edit
+  - Task
 metadata:
   hermes:
     tags: [Glossagens, Legal, Audit, Verification, QualityControl, AntiHallucination]
@@ -82,6 +85,37 @@ die Nummern dort führen. Bei BV Art. 9 kostete das drei Paare und neun Prozentp
 
 ---
 
+## KOSTENREGEL GEGENÜBER OPENCASELAW (verbindlich)
+
+opencaselaw ist ein nichtkommerzielles Projekt und stellt den Bestand gratis
+bereit. Ein Teil seiner Tools ruft im Hintergrund Claude auf und kostet den
+Betreiber laut seiner Fair-Use-Richtlinie **$0.05–$0.50 pro Aufruf**. Für diese
+Tools gilt ein Kontingent von 200 Aufrufen pro Tag und IP.
+
+**Dieser Skill hat das überzogen.** Am 23.08.2026 hat der Betreiber den Client
+`glossagens-audit/1.0` per IP gesperrt; im nginx-Regelwerk von opencaselaw steht
+als Grund: *«4,229 verify_claim attempts in one day against a 200/day quota,
+retry loop with no backoff»*. Seither antwortet der Server auf **alle** Anfragen
+dieser IP mit 403 — auch auf die kostenlosen.
+
+Daraus die Regeln, ausnahmslos:
+
+| Tool | erlaubt? |
+|---|---|
+| `cite`, `get_law`, `get_erwaegung`, `get_regeste`, `get_decision`, `get_decision_structure`, `get_article_history` | ✅ frei — SQLite-Lookups, laut Fair-Use-Richtlinie ausdrücklich ungedrosselt |
+| `check_claim_support`, `attest_response`, `reflect` | ⛔ **nie** — LLM-Aufruf beim Betreiber; `audit.py` blockt sie im Code |
+| `search_decisions`, `search_laws`, `find_relevant_erwaegung`, `find_leading_cases`, übrige `search_*` | ⚠️ nur wenn ein Lookup die Antwort nicht liefert — Query-Parse, Expansion und Rerank sind serverseitig kleine LLM-Aufrufe |
+
+Wer eine Referenz kennt, schlägt sie nach (`cite`), statt sie zu suchen. Wer
+eine Erwägungsnummer sucht, holt die Struktur (`get_decision_structure`), statt
+`find_relevant_erwaegung` zu rufen.
+
+`audit.py` setzt das technisch durch: die drei LLM-Tools sind hart gesperrt,
+Requests laufen mit fester Taktbremse (`GLOSSAGENS_AUDIT_RPS`, Vorgabe 4/s), und
+bei 403 oder 429 bricht der Lauf ab, statt zu wiederholen.
+
+---
+
 ## AUTONOMIE-VERTRAG (verbindlich)
 
 **Modus: «Prüfen + mechanisch belegbare Fixes».**
@@ -109,7 +143,9 @@ verschwindet die richtige Aussage mit dem falschen Beleg. Er wird markiert und v
 1. Keine Zitierung selbst konstruieren. Ersatzzitate stammen wörtlich aus `citation_string_de`
    bzw. `markdown_link` einer `cite`-Antwort.
 2. Keinen Pinpoint raten. Ohne `get_erwaegung`-Bestätigung wird er entfernt, nicht ersetzt.
-   Ein passender Ersatz kommt nur aus `find_relevant_erwaegung` mit Konfidenz `high`.
+   Ein Ersatz kommt aus `get_decision_structure` — dort stehen die tatsächlich
+   vorhandenen Erwägungsnummern —, nie aus einer Schätzung und nicht aus
+   `find_relevant_erwaegung` (Suchtool, siehe Kostenregel).
 3. Gesetzeswortlaut nie aus dem Gedächtnis — nur aus `get_law`, mit Konsolidierungsdatum.
 4. `supports: unrelated` bei hoher Konfidenz ist ein **Befund**, keine Messungenauigkeit.
 5. Literaturzitate sind mit den Fall-Tools **nicht** verifizierbar → Status
@@ -135,14 +171,20 @@ python3 agent/skills/glossagens-audit/audit.py content/kommentar/{gesetz} --all
 Das Skript schreibt `audit-report.json` und gibt pro Artikel eine Kopfzeile aus.
 Es cacht MCP-Antworten unter `~/.cache/glossagens-audit/`; Re-Runs kosten nichts.
 
-Stufe 5 ist ~98 % der Laufzeit: `check_claim_support` ist serverseitig ein LLM-Aufruf
-(ø ~5 s), die übrigen Stufen sind Lookups (ø ~0.1 s). Die Calls laufen deshalb
-parallel — 8 gleichzeitig, einstellbar über `--jobs` bzw. `GLOSSAGENS_AUDIT_JOBS`,
-`--jobs 1` schaltet auf seriell. Ein Artikel mit 24 Paaren: 100 s seriell, 17 s mit 8.
+Das Skript ruft **kein** LLM auf — weder bei opencaselaw noch sonstwo. Stufe 5
+urteilt nicht selbst, sondern schlägt im **Verdikt-Ledger** nach
+(`agent/skills/glossagens-audit/verdicts/ledger.jsonl`, im Repo versioniert).
+Ein Paar ohne Verdikt erscheint als `offen`. **Offen ist kein Freispruch**: solche
+Paare bleiben aus der Belegquote heraus, damit ein nicht gefälltes Urteil nie wie
+ein bestandenes aussieht. Die Kopfzeile weist sie separat aus (`offen=n`).
 
-`check_claim_support` antwortet nicht deterministisch: derselbe Call liefert mal `no`,
-mal `contradicts`. Die Belegquote schwankt zwischen zwei Läufen um ein bis zwei
-Prozentpunkte — das ist der Richter, nicht die Parallelität. Für die Urteilsgrenzen
+Der Ledger enthält 11 728 Verdikte aus der Zeit, als Stufe 5 noch über
+`check_claim_support` lief (Sonnet-4.6, bezahlt von opencaselaw). Sie bleiben
+gültig und dienen zugleich als Vergleichsmassstab für neue Judge-Modelle.
+
+Das Urteil ist nicht deterministisch: derselbe Fall liefert mal `no`, mal
+`contradicts`. Die Belegquote schwankt zwischen zwei Läufen um ein bis zwei
+Prozentpunkte — das ist der Judge, nicht der Harness. Für die Urteilsgrenzen
 (A ≥ 80 %, B ≥ 50 %) heisst das: knappe Fälle nicht auf den Punkt genau lesen.
 
 Zwei Cache-Fallen, beide im Skript entschärft, beim Ändern nicht wieder aufreissen:
@@ -157,18 +199,57 @@ Auswertung — bei Änderungen am Antwort-Parsing hochzählen), und Fehlantworte
 | 2 Existenz | `cite` | existiert die Referenz? sonst `close_matches` |
 | 3 Pinpoint | `get_erwaegung` | existiert E. X.Y? |
 | 4 Verbatim | `get_regeste`, `get_decision_structure` | wörtliche Zitate exakt im Quelltext |
-| 5 Grounding | `check_claim_support` | trägt der Entscheid den Behauptungssatz? |
+| 5 Grounding | Judge-Subagent über den Ledger | trägt der Entscheid den Behauptungssatz? |
 | 6 Aktualität | `get_article_history` | Belege vor der letzten Revision; einschlägige Entscheide, die fehlen |
 
-**Gating:** Stufe 5 läuft nur auf Paaren, die 2–4 überlebt haben. Bei einem Gesamtlauf ist
-das der Unterschied zwischen machbar und nicht — halluzinierte Zitate kosten keinen
-LLM-Call.
+**Gating:** Stufe 5 läuft nur auf Paaren, die 2–4 überlebt haben. Für ein
+halluziniertes Zitat wird weder ein Prüftext geholt noch ein Judge bemüht.
 
-> Der MCP wird per HTTP-JSON-RPC angesprochen, nicht über die MCP-Client-Tools: batchbar,
-> cachebar, und `check_claim_support` wird vom Client teils mit
-> `Invalid request parameters` abgewiesen. Antworten kommen als SSE; JSON-Antworten tragen
+> Der MCP wird per HTTP-JSON-RPC angesprochen, nicht über die MCP-Client-Tools:
+> batchbar, cachebar und mit fester Taktbremse.
+> Antworten kommen als SSE; JSON-Antworten tragen
 > einen angehängten Hinweis-Footer, `get_law` antwortet ganz als Markdown — beides
 > behandelt `Mcp._parse`.
+
+## Schritt 1b — Offene Paare beurteilen lassen (Stufe 5)
+
+```bash
+# 1. Jobs ausgeben — holt den Prüftext über die kostenfreien Lookups
+python3 agent/skills/glossagens-audit/audit.py content/kommentar/{gesetz}/art-{nr} --emit-jobs
+#    → audit-jobs/{gesetz}-{nr}/jobs.jsonl
+
+# 2. Urteilen lassen (siehe unten) → audit-jobs/{gesetz}-{nr}/verdicts-*.jsonl
+
+# 3. Verdikte prüfen und in den Ledger schreiben
+python3 agent/skills/glossagens-audit/audit.py --ingest audit-jobs/{gesetz}-{nr}
+```
+
+Ein Job ist **selbsttragend**: `claim`, `decision_id`, `pinpoint` und der `text`,
+gegen den zu urteilen ist. Der Judge braucht damit keinerlei Werkzeuge — und darf
+auch keine benutzen. Genau deshalb trägt dasselbe Verfahren für jeden Agenten:
+Claude Code verteilt die Jobs auf Task-Subagenten, Antigravity auf sein eigenes
+Fan-out, Hermes schickt sie einzeln durch `generate()`; keiner von ihnen braucht
+für Stufe 5 einen MCP-Zugang.
+
+**Als Claude Code:** Jobs in Scheiben zu 10–15 aufteilen, pro Scheibe ein
+Subagent mit genau diesem Auftrag:
+
+> Lies `agent/skills/glossagens-audit/judge-prompt.md` und beurteile die Zeilen
+> {a}–{b} von `audit-jobs/{gesetz}-{nr}/jobs.jsonl`. Benutze **keine** Werkzeuge
+> ausser Read und Write; urteile ausschliesslich über den mitgelieferten `text`.
+> Schreibe eine JSON-Zeile pro Job nach
+> `audit-jobs/{gesetz}-{nr}/verdicts-{scheibe}.jsonl`.
+
+`--ingest` prüft jede Zeile mechanisch: Enum, Wertebereich, `job_id`, und ob die
+Exzerpte **wörtlich** im Prüftext stehen. Verworfene Zeilen werden mit Grund
+gemeldet und gelten als nicht geurteilt — nie als Befund gegen den Kommentar.
+Ein Judge, der Exzerpte erfindet, fällt hier auf; der opencaselaw-Server hat
+diese Bedingung nur im Prompt verlangt und nie nachgeprüft.
+
+**Ein `no`/`contradicts`/`unrelated`, das zum Ausbau eines Belegs führt, braucht
+die Bestätigung eines zweiten Modells.** Das sind wenige Paare pro Artikel; der
+Schaden eines falschen Ausbaus — eine richtige Aussage verliert ihren Beleg —
+wiegt schwerer als der Aufwand einer zweiten Meinung. `yes` bleibt einstimmig.
 
 ## Schritt 2 — Befunde klassifizieren
 
@@ -221,17 +302,22 @@ revisions:
 `mcp_verified: true` ist hier zulässig, weil jeder Fix aus einer MCP-Antwort stammt.
 `agent_verified: true` nur, wenn das Audit **ohne** offene Befunde durchläuft.
 
-## Schritt 4 — Stufe 7: Schlussattest
+## Schritt 4 — Schlussattest: derselbe Lauf auf dem korrigierten Text
 
-Auf dem **korrigierten** Text, abschnittsweise:
-
-```
-attest_response(draft_text=<Abschnitt>, audit_grounding=true)
+```bash
+python3 agent/skills/glossagens-audit/audit.py content/kommentar/{gesetz}/art-{nr} --emit-jobs
 ```
 
-Ans Ende, nicht an den Anfang: als Eingangsprüfung liefert `attest_response` eine
-unsortierte Mängelliste, als Ausgangsprüfung ein belastbares `ok`. Bei `ok: false` zurück
-zu Schritt 2. Entfällt bei Urteil C — dort gibt es keinen korrigierten Text.
+Das frühere `attest_response` braucht keinen Ersatz. Es war serverseitig zu neun
+Zehnteln dasselbe, was die Stufen 0–4 hier ohnehin tun — Zitate parsen, Existenz,
+Pinpoints, Verbatim —, plus derselbe Grounding-Judge. Ein zweiter Lauf über den
+korrigierten Text leistet dasselbe und ist schärfer, weil er den ganzen Artikel
+prüft und nicht nur den Abschnitt, den man ihm vorlegt.
+
+Neue und geänderte Sätze erzeugen neue `job_id`s und sind damit automatisch
+`offen`; sie durchlaufen Schritt 1b erneut. Bestanden ist das Attest, wenn kein
+Paar mehr `offen` ist und keine Befunde offenstehen. Entfällt bei Urteil C —
+dort gibt es keinen korrigierten Text.
 
 ## Schritt 5 — Bericht
 
@@ -242,6 +328,8 @@ Wortlaut:        {status}
 Belegpaare:      {n} geprüft
   gestützt:      {n}     teilweise: {n}
   ungestützt:    {n}  ({no}/{contradicts}/{unrelated})
+  offen:         {n}  (kein Verdikt — bleibt aus der Quote)
+  Judge:         {Modelle}
 Referenzen:      {n} geprüft, {n} nicht existent
 Pinpoints:       {n} fehlerhaft
 Verbatim:        {n} abweichend
@@ -267,7 +355,7 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
 - **Botschaften.** `BBl`-Fundstellen prüft dieses Audit nicht; dafür `search_botschaft`.
 - **Juristische Richtigkeit.** Geprüft wird Belegtheit, nicht Qualität. Ein durchgehend
   belegter Kommentar kann dogmatisch schief sein.
-- **Aktualität — der gefährlichste blinde Fleck.** `check_claim_support` beantwortet
+- **Aktualität — der gefährlichste blinde Fleck.** Das Grounding-Urteil beantwortet
   «sagt der Entscheid das?», nicht «gilt das noch?». Bei BV Art. 13 stand BGE 137 V 334
   korrekt zitiert und mit zutreffender Wiedergabe im Text — und war trotzdem falsch:
   die Aussage zur gemischten Methode der Invaliditätsbemessung ist durch das
@@ -275,7 +363,8 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
   wenn eine Gesetzesrevision dazwischenliegt; eine Praxisänderung durch EGMR oder
   Bundesgericht sieht sie nicht. Bei Leitentscheiden, die älter als rund zehn Jahre
   sind und eine Grundrechtsfrage entscheiden, deshalb zusätzlich nach einer
-  Praxisänderung suchen (`search_decisions` mit dem Sachthema + «Praxisänderung»
+  Praxisänderung suchen — hier ist `search_decisions` trotz Kostenregel richtig,
+  weil kein Lookup die Frage beantwortet (mit dem Sachthema + «Praxisänderung»
   bzw. dem EGMR-Fallnamen). Ein `yes` ist kein Aktualitätsnachweis.
 - **Nur Bundesentscheide** haben strukturierte Erwägungen; bei kantonalen greift Stufe 3
   nicht.
@@ -291,16 +380,16 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
 | Belegquote | **0 % — C** | **84 % — A** | **12 % — C** | **95 % — A** |
 
 BV Art. 5 zeigt, wie ein C-Artikel zu sanieren ist: Belegapparat verwerfen, Aussagen
-behalten, für jede Aussage einen Beleg suchen und **vor** dem Schreiben einzeln über
-`check_claim_support` prüfen. Die dabei wiederkehrende Beobachtung: ein `partial` heisst
+behalten, für jede Aussage einen Beleg suchen und **vor** dem Schreiben einzeln
+durch einen Judge prüfen lassen. Die dabei wiederkehrende Beobachtung: ein `partial` heisst
 meist, dass die Paraphrase einen Qualifikator des Gerichts weggelassen hat
 («in Anbetracht der Schwere der Grundrechtseinschränkung», «verfassungsmässiges
 *Individual*recht»). Wörtlich zitieren macht daraus ein `yes`.
 
 Ebenso wiederkehrend: eine Regeste verweist auf «(E. 4)», aber die Erwägung existiert nur
 als `4.1`/`4.2.1`. `cite` akzeptiert den Abschnittsverweis trotzdem — erst
-`get_erwaegung` deckt auf, dass der Pinpoint ins Leere zeigt. Den echten Pinpoint liefert
-`find_relevant_erwaegung`, nie eine Schätzung.
+`get_erwaegung` deckt auf, dass der Pinpoint ins Leere zeigt. Den echten Pinpoint
+liefert die Erwägungsliste aus `get_decision_structure`, nie eine Schätzung.
 
 Art. 45 und Art. 429 trugen beide `mcp_verified: true`. Zwei Lehren:
 

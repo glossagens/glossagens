@@ -12,18 +12,30 @@ CLI: python3 ocl_helper.py <action> <args...>
    search <query> [limit]
    decisions_search <query> [limit]
 """
-import json, urllib.request, urllib.parse, sys, time
+import json, urllib.request, urllib.error, urllib.parse, sys, time
 
 MCP='https://mcp.opencaselaw.ch/mcp'
 REST='https://mcp.opencaselaw.ch/api'
+# Ehrliche Kennung statt Browser-Tarnung: der Betreiber soll erkennen können,
+# wer da anfragt — und uns notfalls gezielt bremsen statt die IP zu sperren.
+UA='glossagens/1.0 (+https://glossagens.ch)'
+# Tools, die serverseitig ein LLM anwerfen und opencaselaw $0.05–$0.50 je Aufruf
+# kosten (Kontingent 200/Tag/IP). Werden hier nicht mehr aufgerufen; die
+# Grounding-Prüfung läuft über agent/skills/glossagens-audit/audit.py.
+BILLED={'check_claim_support','attest_response','reflect'}
 
 def _mcp(tool, arguments):
+    if tool in BILLED:
+        return {'error': f'{tool} ist gesperrt (LLM-Aufruf zulasten von '
+                         'opencaselaw). Grounding läuft über '
+                         'agent/skills/glossagens-audit/audit.py.'}
     payload={'jsonrpc':'2.0','id':1,'method':'tools/call',
              'params':{'name':tool,'arguments':arguments}}
     data=json.dumps(payload).encode()
     req=urllib.request.Request(MCP, data=data, headers={
         'Content-Type':'application/json',
-        'Accept':'application/json, text/event-stream'})
+        'Accept':'application/json, text/event-stream',
+        'User-Agent':UA})
     for attempt in range(3):
         try:
             resp=urllib.request.urlopen(req, timeout=60)
@@ -35,23 +47,37 @@ def _mcp(tool, arguments):
                     try: return json.loads(content)
                     except json.JSONDecodeError: return content
             return raw
+        except urllib.error.HTTPError as e:
+            # 403/429 nicht wiederholen: genau die Wiederholschleife ohne
+            # Backoff hat am 23.08.2026 zur Sperre dieses Clients geführt.
+            if e.code in (403,429):
+                return {'error':f'HTTP {e.code} — Anfrage abgewiesen, kein Retry. '
+                                 'Kontakt: team@jonashertner.com'}
+            if attempt==2: return {'error':str(e)}
+            time.sleep(2**attempt)
         except Exception as e:
             if attempt==2: return {'error':str(e)}
-            time.sleep(2)
+            time.sleep(2**attempt)
     return {'error':'timeout'}
 
 def _rest(path, **params):
     url=REST+path
     if params:
         url+='?'+urllib.parse.urlencode(params)
-    req=urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0'})
+    req=urllib.request.Request(url, headers={'User-Agent':UA})
     for attempt in range(3):
         try:
             resp=urllib.request.urlopen(req, timeout=60)
             return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code in (403,429):
+                return {'error':f'HTTP {e.code} — Anfrage abgewiesen, kein Retry. '
+                                 'Kontakt: team@jonashertner.com'}
+            if attempt==2: return {'error':str(e)}
+            time.sleep(2**attempt)
         except Exception as e:
             if attempt==2: return {'error':str(e)}
-            time.sleep(2)
+            time.sleep(2**attempt)
     return {'error':'timeout'}
 
 class OCL:
@@ -89,8 +115,14 @@ class OCL:
         p={'q':query,'limit':limit}
         if court: p['court']=court
         return _rest('/decisions', **p)
-    def attest(self, draft_text, audit_grounding=True):
-        return _mcp('attest_response', {'draft_text':draft_text,'audit_grounding':audit_grounding})
+    def erwaegung(self, decision_id, e_number):
+        """Wortlaut einer Erwägung — der Text, gegen den ein Beleg zu prüfen ist."""
+        return _mcp('get_erwaegung', {'decision_id':decision_id,'e_number':e_number})
+    def decision_structure(self, decision_id):
+        """Vorhandene Erwägungsnummern — statt einen Pinpoint zu schätzen."""
+        return _mcp('get_decision_structure', {'decision_id':decision_id})
+    # attest() entfernt: `attest_response` ist ein LLM-Aufruf zulasten von
+    # opencaselaw. Die Schlussprüfung macht agent/skills/glossagens-audit/audit.py.
 
 if __name__=='__main__':
     o=OCL(); action=sys.argv[1]

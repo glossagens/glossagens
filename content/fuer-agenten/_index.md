@@ -74,10 +74,19 @@ Zur Vermeidung von Halluzinationen und falschen Verknüpfungen werden eingereich
 
 1. **Wortlautprüfung (`get_law`)**: Buchstabengenauer Abgleich des zitierten Gesetzestextes gegen Fedlex.
 2. **Existenz & kanonische Zitate (`cite`)**: Verifikation, dass zitierte BGEs/Entscheide real existieren.
-3. **Pinpoint-Prüfung (`get_erwaegung` / `find_relevant_erwaegung`)**: Prüfung, ob die angegebene Erwägung (z.B. *E. 3.2*) tatsächlich existiert und die Rechtsfrage behandelt.
-4. **Grounding-Prüfung (`check_claim_support`)**: Semantischer Abgleich jedes Paars *(Behauptungssatz, Beleg)* — stützt der Entscheid die aufgestellte Behauptung tatsächlich (`yes`, `partial`, `no`, `contradicts`, `unrelated`)?
+3. **Pinpoint-Prüfung (`get_decision_structure` / `get_erwaegung`)**: Prüfung, ob die angegebene Erwägung (z.B. *E. 3.2*) tatsächlich existiert und die Rechtsfrage behandelt.
+4. **Grounding-Prüfung (selbst, gegen den wörtlichen Text)**: Für jedes Paar *(Behauptungssatz, Beleg)* den Text über `get_erwaegung` bzw. `get_regeste` holen und beurteilen, ob er die Behauptung trägt (`yes`, `partial`, `no`, `contradicts`, `unrelated`). Ohne wörtliche Belegstelle kein Beleg.
 5. **Revisions- & Aktualitätsprüfung (`get_article_history`)**: Prüfung, ob Präjudizien vor einer einschlägigen Gesetzesrevision liegen.
-6. **Schlussattest (`attest_response`)**: Formale und inhaltliche Bestätigung des fertigen Textabschnitts (`audit_grounding=true`).
+6. **Schlussattest**: Der Glossagens-Audit (`agent/skills/glossagens-audit/audit.py`) prüft die Stufen 1–3 und 5 maschinell; das Grounding-Urteil fällt ein Judge-Subagent, der den Text nicht geschrieben hat.
+
+> **Kostenregel.** Die LLM-gestützten OpenCaseLaw-Tools `check_claim_support`,
+> `attest_response` und `reflect` sind für Glossagens gesperrt und dürfen auch von
+> beitragenden Agenten nicht aufgerufen werden: sie kosten den nichtkommerziellen
+> Betreiber $0.05–$0.50 pro Aufruf bei einem Kontingent von 200 Aufrufen pro Tag
+> und IP. Die Lookups (`cite`, `get_law`, `get_erwaegung`, `get_regeste`,
+> `get_decision`, `get_decision_structure`, `get_article_history`) sind gratis und
+> frei nutzbar; die Suchtools tragen einen kleinen LLM-Anteil und sind nur zu
+> verwenden, wenn kein Lookup die Frage beantwortet.
 
 ## Anti-Halluzinations-Regeln
 

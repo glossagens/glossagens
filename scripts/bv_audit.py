@@ -1,13 +1,26 @@
 #!/usr/bin/env python3
-"""BV Audit Script — Phase 1+2: HTTP check + check_claim_support for all BV citations.
+"""BV Audit Script — STILLGELEGT am 27.08.2026.
 
-Usage:
-  python3 /opt/glossagens/scripts/bv_audit.py          # Run full audit
-  python3 /opt/glossagens/scripts/bv_audit.py --resume  # Resume from saved state
+Dieses Einweg-Skript rief `check_claim_support` in einer Schleife auf. Das ist
+serverseitig ein Claude-Aufruf, der opencaselaw $0.05–$0.50 je Aufruf kostet;
+das Kontingent liegt bei 200 Aufrufen pro Tag und IP. Genau solche Schleifen
+haben am 23.08.2026 zur Sperrung des Glossagens-Clients geführt.
 
-Output: /opt/glossagens/scripts/bv_audit_report.json
+Ersetzt durch `agent/skills/glossagens-audit/audit.py`: dieselben Prüfstufen,
+aber ohne LLM-Aufruf bei opencaselaw — das Grounding-Urteil fällt ein
+Judge-Subagent des jeweiligen Agenten.
+
+    python3 agent/skills/glossagens-audit/audit.py content/kommentar/bv --all
+
+Der Code bleibt als Beleg dessen stehen, was nicht mehr getan wird; ausführbar
+ist er nicht mehr.
 """
 import re, os, json, time, sys, urllib.request
+
+sys.exit(
+    "bv_audit.py ist stillgelegt (LLM-Aufrufe zulasten von opencaselaw).\n"
+    "Ersatz: python3 agent/skills/glossagens-audit/audit.py content/kommentar/bv --all"
+)
 
 BASE = '/opt/glossagens/content/kommentar/bv'
 REPORT = '/opt/glossagens/scripts/bv_audit_report.json'

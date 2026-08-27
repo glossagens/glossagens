@@ -66,6 +66,29 @@ und faktisch belegbare Labels. Alles, was inhaltliche Wertung erfordert, wird nu
 
 ---
 
+
+### Kostenregel gegenüber opencaselaw (verbindlich)
+
+opencaselaw ist nichtkommerziell und stellt den Bestand gratis bereit. Die
+Lookups laufen gegen lokale SQLite-Indizes und sind laut Fair-Use-Richtlinie
+ausdrücklich frei nutzbar: `get_law`, `get_legislation`, `get_decision`,
+`get_decision_structure`, `get_erwaegung`, `get_regeste`, `get_materialien`,
+`cite`, `get_article_history`.
+
+**Gesperrt — nie aufrufen:** `check_claim_support`, `attest_response`, `reflect`.
+Diese Tools rufen serverseitig Claude auf und kosten den Betreiber $0.05–$0.50
+pro Aufruf; das Kontingent liegt bei 200 Aufrufen pro Tag und IP. Am 23.08.2026
+wurde der Glossagens-Client wegen Überzugs (4229 Aufrufe an einem Tag) per IP
+gesperrt. Ob ein Entscheid eine Aussage trägt, wird stattdessen selbst beurteilt:
+Text über `get_erwaegung` / `get_regeste` holen und den Satz gegen **diesen** Text
+prüfen — ohne wörtliche Belegstelle kein Beleg. Regeln dazu in
+`agent/skills/glossagens-audit/judge-prompt.md` im Glossagens-Repo.
+
+**Sparsam:** Die Suchtools (`search_*`, `find_*`) tragen einen kleinen LLM-Anteil
+(Query-Parse, Expansion, Rerank). Wer eine Referenz kennt, schlägt sie nach
+(`cite`), statt sie zu suchen; wer eine Erwägungsnummer sucht, holt die Struktur
+(`get_decision_structure`), statt `find_relevant_erwaegung` zu rufen.
+
 ## ANTI-HALLUZINATIONS-REGELN
 
 1. **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben. Jeder Ersatztext stammt

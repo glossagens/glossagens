@@ -13,10 +13,8 @@ tools:
   - mcp_opencaselaw_find_citations
   - mcp_opencaselaw_cite
   - mcp_opencaselaw_get_erwaegung
-  - mcp_opencaselaw_find_relevant_erwaegung
-  - mcp_opencaselaw_check_claim_support
+  - mcp_opencaselaw_get_decision_structure
   - mcp_opencaselaw_get_article_history
-  - mcp_opencaselaw_attest_response
   - web_fetch
   - terminal
 ---
@@ -106,28 +104,35 @@ Verify that every cited decision exists. `cite` returns canonical citation strin
 cite(citation='BGE 144 IV 202')
 ```
 
-### 2. Pinpoint Verification (`get_erwaegung` / `find_relevant_erwaegung`)
+### 2. Pinpoint Verification (`get_decision_structure` / `get_erwaegung`)
 Verify that the cited consideration exists (e.g. `E. 2.1`):
 ```
-get_erwaegung(decision_id='bge_BGE_144_IV_202', erwaegung='2')
+get_decision_structure(decision_id='bge_BGE_144_IV_202')   # lists the existing E-numbers
+get_erwaegung(decision_id='bge_BGE_144_IV_202', e_number='2')
 ```
-If unsure which consideration contains the legal principle, use:
-```
-find_relevant_erwaegung(decision_id='bge_BGE_144_IV_202', query='<Thema oder Behauptung>')
-```
+Never guess a pinpoint: a Regeste often refers to "(E. 4)" while only `4.1` / `4.2.1`
+exist. If no consideration carries the proposition, cite the decision without a pinpoint.
 
-### 3. Claim Grounding (`check_claim_support`)
-For each assertion in your draft, verify that the cited decision actually supports the proposition:
-```
-check_claim_support(
-    claim='Die Beschwerde in Strafsachen ist grundsätzlich innert 30 Tagen einzureichen.',
-    decision_id='bge_BGE_144_IV_202',
-    erwaegung='2'
-)
-```
-- **`yes`**: The claim is fully supported.
-- **`partial`**: Claim is broader than the ruling — refine wording to include specific conditions.
-- **`no` / `contradicts` / `unrelated`**: The decision does not support the claim. Remove the citation or adjust the text.
+### 3. Claim Grounding — judge it yourself against the verbatim text
+
+**Do not call `check_claim_support`.** It is an LLM-backed endpoint that costs the
+OpenCaseLaw project $0.05–$0.50 per call and is capped at 200 calls/day/IP (see
+their [fair-use policy](https://mcp.opencaselaw.ch/fair-use)). Glossagens used to
+call it and had its client IP blocked for overrunning that quota.
+
+Instead, for each assertion in your draft: fetch the text you are relying on with
+the free lookups (`get_erwaegung`, else `get_regeste`, else `get_decision`) and
+judge the sentence against **that text**:
+
+- **`yes`**: The text states or directly implies the claim.
+- **`partial`**: The text supports it, but with a qualification your sentence omits —
+  add the qualifier or quote verbatim.
+- **`no` / `contradicts` / `unrelated`**: The decision does not support the claim.
+  Remove the citation or adjust the text. On-topic is not the same as supporting.
+
+**Rule of thumb: no verbatim supporting sentence, no citation.** If you cannot
+point to a sentence in the fetched text that carries your proposition, the
+decision is not authority for it.
 
 ### 4. Revision Currency (`get_article_history`)
 Check whether cited precedents predate significant statutory revisions:
@@ -135,11 +140,16 @@ Check whether cited precedents predate significant statutory revisions:
 get_article_history(abbreviation='StPO', article='25')
 ```
 
-### 5. Final Attestation (`attest_response`)
-Validate your complete drafted section before finalizing:
-```
-attest_response(draft_text='<Dein Entwurfstext>', audit_grounding=true)
-```
+### 5. Final Self-Audit (no tool call)
+Before submitting, walk your finished text once more and confirm for every
+citation: it resolves via `cite`, its pinpoint exists, every verbatim quote of
+30+ characters was copied from `get_erwaegung` / `get_regeste`, and the sentence
+it backs is carried by the text you fetched. `attest_response` is the LLM-backed
+endpoint for this and must **not** be called — see step 3.
+
+Glossagens re-runs this audit mechanically on every submission
+(`agent/skills/glossagens-audit/audit.py` in the repository); a citation whose
+supporting sentence you cannot name will surface there.
 
 ## Step 4: Submit via GitHub Issue (recommended)
 
@@ -258,7 +268,7 @@ The verification checks automatically:
 **2. Quality check (7-Stage Audit):**
 - No fabricated citations or invented statute text (hallucination check)
 - Existence and pinpoint verification (`cite`, `get_erwaegung`)
-- Grounding check of claim-citation pairs (`check_claim_support`)
+- Grounding check of claim-citation pairs (judged against the verbatim decision text)
 - Academic Swiss citation style and Swiss spelling (no "ß")
 - Hyperlinks to verified OpenCaseLaw decision records
 
@@ -286,8 +296,9 @@ These apply whether you submit via issue or PR:
 
 3. Verify & Ground claims:
    cite(citation='BGE 144 IV 202')
-   check_claim_support(claim='...', decision_id='bge_BGE_144_IV_202', erwaegung='2')
-   attest_response(draft_text='...', audit_grounding=true)
+   get_erwaegung(decision_id='bge_BGE_144_IV_202', e_number='2')
+   → read the Erwägung and check that it carries your sentence; keep the
+     supporting sentence verbatim
 
 4. Submit GitHub Issue or PR with:
    - Verbatim statute text from get_law
