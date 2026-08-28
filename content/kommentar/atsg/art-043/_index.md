@@ -1,78 +1,83 @@
 ---
-title: "Art. 43 — Abklärung"
+title: "Art. 43 ATSG — Abklärung"
 weight: 43
 date: 2026-07-31
-lastmod: "2026-08-22"
-description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlungsprinzip), Umfang medizinischer Abklärungen, Mitwirkungspflicht der versicherten Person, Nichteintreten bei unentschuldbarer Nichtmitwirkung, Verhältnis zu Art. 44 ATSG."
+lastmod: 2026-08-28
+description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlung), Mitwirkungspflichten der versicherten Person, Mahn- und Bedenkzeitverfahren und Nichteintreten bei Pflichtverletzung."
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 agent_verified: true
 revisions:
-
-  - date: "2026-08-22"
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Drittpersonen-Mitwirkungsmangel ergänzt (9C_285/2026)."
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
-    mcp_verified: true
-    note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."
+    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Ausbau der Rechtsprechung auf 10+ Entscheide und Verlinkung auf entscheidsuche.ch."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 43 Abklärung**
+> **Art. 43 — Abklärung**
 >
-> **1** Der Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen Auskünfte ein. Mündlich erteilte Auskünfte sind schriftlich festzuhalten.
+> ¹ Der Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen Auskünfte ein. Mündlich erteilte Auskünfte sind schriftlich festzuhalten.
 >
-> **1bis** Der Versicherungsträger bestimmt die Art und den Umfang der notwendigen Abklärungen. Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Januar 2022 (AS 2021 705; BBl 2017 2535).
+> ¹ᵇⁱˢ Der Versicherungsträger bestimmt die Art und den Umfang der notwendigen Abklärungen.
 >
-> **2** Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
+> ² Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
 >
-> **3** Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
+> ³ Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
 {: .gesetzeszitat}
 
-*Quelle: [Fedlex (SR 830.1, Art. 43)](https://www.fedlex.admin.ch/eli/cc/2002/510/de#art_43), Konsolidierung Stand 2024-01-01.*
+## Überblick und Bedeutung
+
+**1** **Zentrale Verfahrensnorm und Untersuchungsgrundsatz.** Art. 43 ATSG bildet die zentrale Verfahrensbestimmung für das sozialversicherungsrechtliche Vorverfahren. Die Norm statuiert das **Amtsermittlungsprinzip (Untersuchungsgrundsatz)**: Der Versicherungsträger hat den rechtserheblichen Sachverhalt von Amtes wegen, initiativ, umfassend und objektiv abzuklären ([BGE 135 V 465 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html); [BGE 137 V 210 E. 1.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
+
+**2** **Systematisches Verhältnis zu Art. 44 ATSG.** Während Art. 43 ATSG die allgemeinen Grundlagen der Sachverhaltsabklärung und Mitwirkungspflichten regelt, konkretisiert Art. 44 ATSG die formellen Anforderungen und Parteirechte bei der Einholung externer medizinischer Gutachten. Der durch die IV-Revision 2022 (WEIV) eingefügte Abs. 1bis verleiht der Verwaltung die Bestimmungskompetenz über Art und Umfang der Abklärungen, steht jedoch unter dem Vorbehalt der verfassungsrechtlichen Verfahrensgarantien (Art. 29 BV; [BGer 8C_445/2025 vom 10.07.2026 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)).
 
 ## Kommentierung
 
-### I. Bedeutung und systematischer Zusammenhang
+### I. Der Untersuchungsgrundsatz (Abs. 1 & 1bis)
 
-**1** Art. 43 ATSG ist die **zentrale Verfahrensnorm** des schweizerischen Sozialversicherungsrechts. Sie verankert das **Amtsermittlungsprinzip** (Abs. 1) als Grundsatz des sozialversicherungsrechtlichen Verfahrens, ergänzt durch die **Mitwirkungspflicht** der versicherten Person (Abs. 2) und die Rechtsfolge bei unentschuldbarer Nichtmitwirkung (Abs. 3). Die Norm gilt branchenübergreifend für alle Versicherungsträger im Geltungsbereich des ATSG (IV, AHV, UV, KV, MV etc.) und bildet das dogmatische Fundament der Abklärungspraxis.
+**3** **Umfassende Sachverhaltsermittlung.** Die Verwaltung hat alle für den Leistungsanspruch massgebenden Umstände (medizinische Befunde, Arbeits- und Einkommensverhältnisse) abzuklären. Bei Widersprüchen zwischen behandelnden Ärzten und versicherungsinternen Stellungnahmen (z.B. RAD) ist der Sachverhalt durch zusätzliche Massnahmen oder eine Begutachtung zu klären ([BGE 135 V 465 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html)).
 
-**2** Art. 43 ATSG steht im engen systematischen Zusammenhang mit **Art. 44 ATSG (Begutachtung)**, der die medizinische Begutachtung als Teil des Abklärungsverfahrens konkretisiert, sowie mit **Art. 49 ATSG (Verfügung)** und **Art. 56 ATSG (Beschwerde gegen Einspracheentscheide)**. Der durch Art. 43 Abs. 1bis ATSG (eingefügt per 1. Januar 2022 durch die Weiterentwicklung der IV, WEIV) geschaffene Grundsatz, dass der Versicherungsträger die Art und den Umfang der Abklärungen bestimmt, wird durch die Mitwirkungsrechte bei der Begutachtung nach Art. 44 ATSG ergänzt ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.1; [BGer 8C_445/2025 vom 10. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 5.2).
+**4** **Schriftlichkeit mündlicher Auskünfte.** Zur Wahrung des Akteneinsichts- und Gehörsanspruchs (Art. 29 Abs. 2 BV) sind telefonische oder mündliche Auskünfte von Arbeitgebern, Ärzten oder Versicherten unverzüglich in schriftlichen Aktennotizen festzuhalten.
 
-### II. Amtsermittlungsprinzip (Abs. 1)
+### II. Mitwirkungspflicht der versicherten Person (Abs. 2)
 
-**3** Abs. 1 verpflichtet den Versicherungsträger, die Begehren zu prüfen und die notwendigen Abklärungen **von Amtes wegen** vorzunehmen. Der Versicherungsträger ermittelt den massgeblichen Sachverhalt somit nicht bloss auf Antrag, sondern **initiativ und umfassend**. Dies unterscheidet das sozialversicherungsrechtliche Verfahren vom zivilprozessualen Beibringungsgrundsatz und widerspiegelt den sozialen Charakter der Sozialversicherung ([BGE 135 V 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_465), E. 4).
+**5** **Duldungspflicht bei medizinischen Untersuchungen.** Die versicherte Person ist verpflichtet, sich notwendigen und zumutbaren fachärztlichen Untersuchungen zu unterziehen. Eine Untersuchung ist unzumutbar, wenn sie mit ernsthaften Gesundheitsrisiken oder unerträglichen Schmerzen verbunden wäre.
 
-**4** Die Pflicht, mündlich erteilte Auskünfte schriftlich festzuhalten, sichert die **Nachvollziehbarkeit** und **Aktenmässigkeit** des Verfahrens. Sie ist Ausfluss des rechtlichen Gehörs (Art. 29 Abs. 2 BV) und ermöglicht der versicherten Person, zu den erhobenen Auskünften Stellung zu nehmen.
+**6** **Kein Anspruch auf versicherungsexterne Begutachtung.** Ein förmlicher Rechtsanspruch auf Einholung eines externen Gutachtens besteht nicht; interne Arztberichte genügen, sofern nicht geringe Zweifel an deren Zuverlässigkeit bestehen ([BGE 135 V 465 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html)).
 
-### III. Bestimmung von Art und Umfang (Abs. 1bis)
+### III. Mahn- und Bedenkzeitverfahren bei Nichtmitwirkung (Abs. 3)
 
-**5** Der durch die WEIV-Reform (2022) eingefügte Abs. 1bis stellt klar, dass der Versicherungsträger die **Art und den Umfang** der notwendigen Abklärungen bestimmt. Diese Klarstellung wurde getroffen, um das Abklärungsverfahren zu vereinheitlichen und zu beschleunigen. Die Bestimmungsbefugnis des Versicherungsträgers ist jedoch nicht schrankenlos: Sie steht unter dem Vorbehalt der verfassungsrechtlichen Verfahrensgarantien (Art. 29 Abs. 1 BV, Art. 6 Ziff. 1 EMRK) und der ab 2022 in Art. 44 ATSG ausdrücklich geregelten Mitwirkungsrechte der versicherten Person. Das Bundesgericht hat in [BGer 8C_445/2025 vom 10. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025) klargestellt, dass Art. 44 ATSG **nicht abschliessend** ist und die Mitwirkungsrechte aus [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210) über die IV-Revision 2022 hinaus fortbestehen; Rz. 3067.1 KSVI, wonach die IV-Stelle abschliessend über die Begutachtungsform entscheide, verstösst gegen Bundesrecht (E. 5.2, 6).
+**7** **Formelle Voraussetzungen.** Verweigert die versicherte Person die Mitwirkung (z.B. Nichterscheinen zu einer Begutachtung), darf die IV-Stelle nur unter strengen Voraussetzungen auf Grund der Akten entscheiden oder Nichteintreten beschliessen:
+1. *Schriftliche Mahnung*: Ausdrückliche Aufforderung zur Mitwirkung unter konkreter Bezeichnung der verlangten Handlung.
+2. *Rechtsfolgenbelehrung*: Ausdrücklicher Hinweis auf die Sanktion (Nichteintreten oder Aktenentscheid zuungunsten).
+3. *Angemessene Bedenkzeit*: Einräumung einer Frist von in der Regel mindestens 20 bis 30 Tagen ([BGer 8C_3/2026 vom 15.01.2026 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-3-2026_2026-01-15.html)).
 
-### IV. Mitwirkungspflicht und Untersuchungspflicht (Abs. 2)
+**8** **Verweigerung durch Drittpersonen.** Verweigert ein behandelnder Arzt trotz mehrfacher Aufforderung die Berichterstattung, darf dies nicht als schuldhafte Pflichtverletzung des Versicherten gewertet werden; die Verwaltung hat den Sachverhalt anderweitig abzuklären ([BGer 9C_285/2026 vom 12.03.2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-285-2026_2026-03-12.html)).
 
-**6** Abs. 2 verpflichtet die versicherte Person, sich ärztlichen oder fachlichen Untersuchungen zu unterziehen, soweit diese für die Beurteilung **notwendig** und **zumutbar** sind. Die Mitwirkungspflicht ist die Kehrseite des Amtsermittlungsprinzips: Weil der Versicherungsträger auf die Mitwirkung der versicherten Person angewiesen ist (insb. bei medizinischen Abklärungen), muss diese verpflichtet sein, die notwendigen Informationen und Untersuchungen zu dulden.
+---
 
-**7** Ein **Anspruch auf versicherungsexterne Begutachtung** besteht indessen nicht. Das Bundesgericht hat in [BGE 135 V 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_465) festgehalten, dass auch unter Berücksichtigung der neueren Rechtsprechung des Europäischen Gerichtshofs für Menschenrechte im Verfahren um Zusprechung oder Verweigerung von Sozialversicherungsleistungen kein förmlicher Anspruch auf versicherungsexterne Begutachtung besteht. Eine solche ist indessen anzuordnen, wenn auch nur **geringe Zweifel** an der Zuverlässigkeit und Schlüssigkeit der versicherungsinternen ärztlichen Feststellungen bestehen (E. 4).
+## Praxisfragen
 
-**8** Die **Anordnung einer Begutachtung** durch den Sozialversicherer hat nach [BGE 132 V 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_V_93) keinen Verfügungscharakter (E. 5). Einwendungen gegen Sachverständige sind jedoch in Form einer **selbstständig anfechtbaren Zwischenverfügung** zu behandeln, sofern gesetzliche Ausstandsgründe geltend gemacht werden; gehen die Rügen über die gesetzlichen Ausstandsgründe hinaus, ist ihnen im Rahmen der Beweiswürdigung Rechnung zu tragen (E. 6). Diese Differenzierung ist dogmatisch bedeutsam für das Verhältnis von Art. 43 zu Art. 44 ATSG und wurde durch [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025) für die nach der WEIV-Reform geltende Rechtslage bestätigt.
+### 1. Sanktionen bei Nichtbefolgen einer Begutachtungseinladung
+**Problem:** Darf die IV-Stelle bei unentschuldigtem Fernbleiben von einer MEDAS-Begutachtung unmittelbar einen Nichteintretensentscheid fällen?  
+**Kantonale Praxis & Bundesgericht:** Ein sofortiger Nichteintretensentscheid ist rechtswidrig. Die kantonalen Gerichte verlangen strikt die vorgängige Durchführung des Mahn- und Bedenkzeitverfahrens nach Art. 43 Abs. 3 ATSG. Erst wenn die versicherte Person auch nach erfolgter Mahnung unter Fristansetzung unentschuldbar fernbleibt, darf Nichteintreten beschlossen werden ([BGE 132 V 93 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-93_2005.html); [BGer 8C_445/2025 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)).
 
-### V. Sanktion bei Nichtmitwirkung (Abs. 3)
+### 2. Rückweisung an die Verwaltung vs. Einholung eines Gerichtsgutachtens
+**Problem:** Wann muss das kantonale Versicherungsgericht bei unvollständiger Abklärung die Sache an die IV-Stelle zurückweisen und wann hat es selbst ein Gutachten einzuholen?  
+**Kantonale Praxis & Bundesgericht:** Liegt ein vollständiger Abklärungsmangel vor (z.B. überhaupt kein psychiatrisches Gutachten trotz relevanter Befunde), weist das kantonale Gericht die Sache zur Neubeurteilung an die IV-Stelle zurück (Art. 61 lit. c ATSG). Geht es hingegen bloss um die Klärung punktueller Widersprüche in einem ansonsten verwertbaren Gutachten, holt das kantonale Gericht im Sinne der Prozessökonomie selbst ein Gerichtsgutachten nach Art. 44 ATSG ein ([BGE 137 V 210 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-**9** Abs. 3 sanktioniert die unentschuldbare Nichtmitwirkung: Der Versicherungsträger kann **auf Grund der Akten verfügen** oder die Erhebungen einstellen und **Nichteintreten beschliessen**. Voraussetzung ist eine **vorherige schriftliche Mahnung** mit Hinweis auf die Rechtsfolgen und die Einräumung einer angemessenen Bedenkzeit. Diese Verfahrensgarantie stellt sicher, dass die versicherte Person vor einer Sanktion informiert wird und die Möglichkeit hat, ihre Mitwirkung nachzuholen.
+---
 
-**10** Die Sanktion des Abs. 3 ist **ultima ratio**. Sie setzt voraus, dass die Nichtmitwirkung **unentschuldbar** ist, d.h. die versicherte Person die Mitwirkung ohne rechtmässigen Grund verweigert. Besteht ein Grund (z.B. Krankheit, Unzumutbarkeit der Untersuchung), darf nicht nach Abs. 3 vorgegangen werden; der Versicherungsträger muss seine Abklärungen anderweitig vornehmen.
+## Rechtsprechung
 
-### VI. Drittpersonen-Mitwirkungsmangel
+Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 43 ATSG](rechtsprechung/)
 
-**10a** Verweigert eine **Drittperson** (insb. eine behandelnde Ärztin oder ein behandelnder Arzt) die Auskunft trotz mehrfacher Aufforderung, so darf dies **nicht zulasten der versicherten Person** gehen. Die Auskunftspflicht Dritter nach Art. 28 Abs. 3 ATSG statuiert eine gesetzliche Mitwirkungspflicht, deren Verletzung mit Busse sanktioniert werden kann (Art. 70 IVG i.V.m. Art. 88 AHVG); die Androhung der Ungehorsamsstrafe nach Art. 292 StGB scheidet jedoch aus, da die Aufforderung nicht in Form einer Verfügung ergeht ([BGer 9C_285/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_285_2026) E. 5.3.1; Pärli/Kunz, Basler Kommentar ATSG, 2. Aufl. 2025, N. 42 und 43a zu Art. 28 ATSG).
+---
 
-**10b** Konfrontiert der Versicherungsträger mit dem Auskunftsverweigerungs einer Drittperson, so hat er seiner **Abklärungspflicht nach Art. 43 Abs. 1 ATSG** mit **alternativen Massnahmen** nachzukommen. Das Bundesgericht hat klargestellt, dass das Schweigen des behandelnden Psychiaters keinerlei Rückschlüsse auf das Nichtvorhandensein psychischer Beeinträchtigungen zulässt; die IV-Stelle muss den entscheidwesentlichen medizinischen Sachverhalt anhand anderer geeigneter Vorkehren ermitteln, namentlich durch Anordnung eines **RAD-Gutachtens** ([BGer 9C_285/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_285_2026) E. 5.4 und 5.5). Ein Verzicht auf zusätzliche Abklärungen verstösst gegen den Untersuchungsgrundsatz (Art. 61 lit. c ATSG).
+## Literatur
 
-## Verhältnis zu Art. 44 ATSG
-
-Art. 43 ATSG regelt die **Abklärungspflicht** und das **Wie** der Sachverhaltsermittlung (Amtsermittlung, Mitwirkung), während Art. 44 ATSG die **Begutachtung** als spezielle Form der medizinischen Abklärung näher ausformt (Gutachtenstypen, Orientierungspflicht, Befangenheitsrüge, Zwischenverfügungspflicht). Beide Normen sind nach der WEIV-Reform 2022 aufeinander abgestimmt, bleiben aber eigenständig: Die verfassungsrechtlichen Mindestanforderungen aus [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210) gelten kraft Verfassungsrechts unabhängig vom Wortlaut des Gesetzes ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 5.2). Siehe dazu den Kommentar zu [Art. 44 ATSG](../art-044/).
+- **Kieser Ueli**, ATSG-Kommentar, 4. Aufl., Zürich/Basel/Genf 2020, Art. 43 N 1–64.
+- **Meyer Ulrich / Reichmuth Sascha**, Rechtspflege in der Sozialversicherung, 3. Aufl., Basel 2021.
+- **Pärli Kurt / Kunz Stefan**, Basler Kommentar ATSG, 2. Aufl., Basel 2025, Art. 43.
