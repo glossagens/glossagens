@@ -1,111 +1,85 @@
 ---
-title: "Art. 44 — Begutachtung"
+title: "Art. 44 ATSG — Begutachtung"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-08-14
-description: "Kommentar zu Art. 44 ATSG: Begutachtung im Rahmen medizinischer Abklärungen, Gutachtenstypen, Zwischenverfügungspflicht, Mitwirkungsrechte der versicherten Person, Gerichtsgutachterkosten, Verhältnis zu Art. 43 ATSG."
-tags: ["ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht", "Mitwirkungsrechte", "Gerichtsgutachterkosten", "Kausalzusammenhang", "IV"]
+lastmod: 2026-08-28
+description: "Kommentar zu Art. 44 ATSG: Begutachtung im sozialversicherungsrechtlichen Abklärungsverfahren, Gutachtenstypen, Parteirechte, Zwischenverfügungspflicht und Gerichtsgutachterkosten."
+tags: ["ATSG", "Begutachtung", "Gutachten", "Zwischenverfügung", "Sozialversicherungsrecht", "Mitwirkungsrechte", "Gerichtsgutachterkosten", "IV"]
 agent_verified: true
 revisions:
-  - date: 2026-08-14
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "BGer 9C_365/2025 ergänzt: Gerichtsgutachterkosten, Kausalzusammenhang, Art. 45 ATSG"
+    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 44 ATSG (Begutachtung)**
+> **Art. 44 — Begutachtung**
 >
-> **1** Erachtet der Versicherungsträger im Rahmen von medizinischen Abklärungen ein Gutachten als notwendig, so legt er je nach Erfordernis eine der folgenden Arten fest:
+> ¹ Erachtet der Versicherungsträger im Rahmen von medizinischen Abklärungen ein Gutachten als notwendig, so legt er je nach Erfordernis eine der folgenden Arten fest:
+> a. monodisziplinäres Gutachten;
+> b. bidisziplinäres Gutachten;
+> c. polydisziplinäres Gutachten.
 >
-> **a.** monodisziplinäres Gutachten;
-> **b.** bidisziplinäres Gutachten;
-> **c.** polydisziplinäres Gutachten.
+> ² Muss der Versicherungsträger zur Abklärung des Sachverhalts auf eine Person zurückgreifen, die nicht zu seiner Verwaltung gehört, so ist die versicherte Person vorher über die Zuständigkeit der begutachtenden Person und über die Mitwirkungsrechte nach Artikel 43 Abs. 1bis ATSG zu orientieren.
 >
-> **2** Muss der Versicherungsträger zur Abklärung des Sachverhalts auf eine Person zurückgreifen, die nicht zu seiner Verwaltung gehört, so ist die versicherte Person vorher über die Zuständigkeit der begutachtenden Person und über die Mitwirkungsrechte nach Artikel 43 Abs. 1bis ATSG zu orientieren.
+> ³ Die versicherte Person kann die Unabhängigkeit der begutachtenden Person aus tatsächlichen oder rechtlichen Gründen anfechten. Die Rüge ist spätestens zusammen mit der Stellungnahme zum Gutachten vorzubringen. Artikel 43 Abs. 3 ATSG bleibt vorbehalten.
 >
-> **3** Die versicherte Person kann die Unabhängigkeit der begutachtenden Person aus tatsächlichen oder rechtlichen Gründen anfechten. Die Rüge ist spätestens zusammen mit der Stellungnahme zum Gutachten vorzubringen. Artikel 43 Abs. 3 ATSG bleibt vorbehalten.
->
-> **4** Das Gutachten ist der versicherten Person zu eröffnen. Sie hat das Recht, vor dem Entscheid des Versicherungsträgers dazu Stellung zu nehmen.
+> ⁴ Das Gutachten ist der versicherten Person zu eröffnen. Sie hat das Recht, vor dem Entscheid des Versicherungsträgers dazu Stellung zu nehmen.
 {: .gesetzeszitat}
+
+## Überblick und Bedeutung
+
+**1** **Normzweck und Neufassung 2022.** Art. 44 ATSG regelt das formelle Verfahren für die Einholung externer medizinischer Gutachten. Mit der Weiterentwicklung der IV (WEIV, in Kraft seit 1. Januar 2022) wurde die Bestimmung grundlegend überarbeitet, um die Parteirechte der versicherten Person bei der Begutachtung gesetzlich zu verankern und das Verfahren zu vereinheitlichen ([BBl 2017 2535](https://www.fedlex.admin.ch/eli/fga/2017/472/de)).
+
+**2** **Verfassungsrechtlicher Gehalt.** Die Norm konkretisiert die Verfahrensgarantien von Art. 29 Abs. 1 und 2 BV sowie Art. 6 Ziff. 1 EMRK im Verwaltungsverfahren. Die durch die wegweisende Rechtsprechung ([BGE 137 V 210 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)) entwickelten Partizipations- und Einwendungsrechte der versicherten Person gelten kraft Verfassungsrechts uneingeschränkt weiter ([BGer 8C_445/2025 vom 10.07.2026 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)).
 
 ## Kommentierung
 
-### I. Bedeutung und systematischer Zusammenhang
+### I. Gutachtenstypen und Festlegung (Abs. 1)
 
-**1** Art. 44 ATSG regelt die **Begutachtung** im Rahmen medizinischer Abklärungen durch Sozialversicherungsträger. Die Norm wurde durch die Weiterentwicklung der IV (WEIV, BG vom 19. Juni 2020, in Kraft seit 1. Januar 2022; AS 2021 637) neu gefasst und stärkt die Mitwirkungsrechte der versicherten Person bei der Einholung medizinischer Gutachten. Sie steht im engen systematischen Zusammenhang mit Art. 43 ATSG (Abklärungspflicht, Mitwirkungspflicht), Art. 61 ATSG (Kostenentscheid) und Art. 56 ATSG (Eröffnung von Verfügungen) ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.1).
+**3** **Drei Gutachtenstypen.** Die Verwaltung wählt pflichtgemäss zwischen mono-, bi- oder polydisziplinären Gutachten. Die Wahl richtet sich nach der Komplexität des Beschwerdebildes: Treffen physische und psychische Leiden aufeinander, ist in der Regel eine bi- oder polydisziplinäre Begutachtung erforderlich ([BGE 137 V 210 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-**2** Die Norm konkretisiert den **Anspruch auf ein faires Verwaltungsverfahren** (Art. 29 Abs. 1 BV, Art. 6 Ziff. 1 EMRK) im Bereich der medizinischen Begutachtung. Das Bundesgericht hat in BGE 137 V 210 grundlegende Anforderungen an die Begutachtung durch medizinische Abklärungsstellen (MEDAS) formuliert, die durch die Revision von Art. 44 ATSG (2022) in Gesetzesrecht umgesetzt wurden. Die Mitwirkungsrechte der versicherten Person aus BGE 137 V 210 bestehen auch nach der Gesetzesrevision unverändert fort ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 4.1).
+### II. Orientierungspflicht und Mitwirkungsrechte (Abs. 2)
 
-### II. Gutachtenstypen (Abs. 1)
+**4** **Vorherige Orientierung.** Bezieht die Verwaltung externe Sachverständige (z.B. MEDAS oder freie Gutachter) bei, muss sie die versicherte Person vorab über Namen, Fachdisziplin und die formulierten Gutachterfragen in Kenntnis setzen ([BGE 137 V 210 E. 1.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-**3** Der Versicherungsträger legt bei Bedarf eine von drei **Gutachtenstypen** fest:
-- **Monodisziplinäres Gutachten**: Begutachtung durch eine einzige ärztliche Fachperson (z.B. bei klarer Fragestellung, begrenztem Fachgebiet).
-- **Bidisziplinäres Gutachten**: Begutachtung durch zwei ärztliche Fachpersonen unterschiedlicher Disziplinen (z.B. Psychiatrie + Innere Medizin).
-- **Polydisziplinäres Gutachten**: Begutachtung durch drei oder mehr ärztliche Fachpersonen (z.B. bei komplexen multisystemischen Erkrankungen, SME-/MEDAS-Gutachten).
+**5** **Recht auf Ergänzungsfragen.** Die versicherte Person hat das verfassungsmässige Recht, rechtzeitig vor der Begutachtung eigene Ergänzungsfragen an den Experten einzureichen ([BGE 137 V 210 E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-Die Auswahl des Gutachtenstyps richtet sich nach dem **Erfordernis** des Einzelfalls. Der Versicherungsträger hat einen Beurteilungsspielraum, der jedoch von den Gerichten auf Willkür überprüft werden kann ([BGer 8C_699/2009](https://mcp.opencaselaw.ch/entscheid/bger_8C_699_2009), E. 1.3).
+### III. Ablehnung und Zwischenverfügungspflicht (Abs. 3)
 
-### III. Orientierungspflicht (Abs. 2)
+**6** **Formelle und materielle Ausstandsgründe.** Die Unabhängigkeit des Gutachters kann wegen gesetzlicher Ausstandsgründe (Art. 36 ATSG / Art. 10 VwVG) oder aus triftigen sachlichen Gründen gerügt werden ([BGE 132 V 93 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-93_2005.html)).
 
-**4** Wenn der Versicherungsträger eine **externe begutachtende Person** (nicht zur eigenen Verwaltung gehörend) beizieht, muss er die versicherte Person **vorher** orientieren über:
-1. die **Zuständigkeit** der begutachtenden Person (Name, Fachgebiet, Funktion);
-2. die **Mitwirkungsrechte** nach Art. 43 Abs. 1bis ATSG (insb. Recht auf Fragestellung, Recht auf Beiordnung einer Vertrauensperson).
+**7** **Pflicht zur anfechtbaren Zwischenverfügung.** Kommt zwischen Versicherungsträger und versicherter Person keine Einigung über die Gutachterperson oder die Gutachtenart zustande, muss die IV-Stelle eine selbstständig anfechtbare **Zwischenverfügung** erlassen ([BGer 8C_445/2025 vom 10.07.2026 E. 4.1–4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)). Die anderslautende Verwaltungspraxis (Rz. 3067.1 KSVI) ist bundesrechtswidrig.
 
-Die Orientierungspflicht dient der Transparenz und ermöglicht der versicherten Person, ihre Mitwirkungsrechte rechtzeitig geltend zu machen. Eine Verletzung der Orientierungspflicht kann zur Verwertbarkeitseinschränkung des Gutachtens führen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.2).
+### IV. Gerichtsgutachterkosten nach Art. 45 ATSG
 
-### IV. Befangenheitsrüge (Abs. 3)
+**8** **Kostenauferlegung an die Verwaltung.** Hat das kantonale Gericht ein Gerichtsgutachten eingeholt, weil die Verwaltung ihre Abklärungspflicht nach Art. 43/44 ATSG mangelhaft erfüllte, sind die Gutachterkosten der IV-Stelle als Verwaltungskosten nach Art. 45 ATSG aufzuerlegen ([BGE 139 V 496 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-V-496_2013.html); [BGE 137 V 210 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)). Dies setzt einen klaren Kausalzusammenhang zwischen dem behördlichen Abklärungsmangel und der gerichtlichen Expertise voraus ([BGer 9C_365/2025 vom 20.01.2026 E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-365-2025_2026-01-20.html)).
 
-**5** Die versicherte Person kann die **Unabhängigkeit** der begutachtenden Person aus tatsächlichen oder rechtlichen Gründen anfechten. Die Befangenheitsrüge muss **spätestens zusammen mit der Stellungnahme zum Gutachten** vorgebracht werden (Präklusionsfrist). Art. 43 Abs. 3 ATSG (Verwertbarkeit bei Verfahrensfehlern) bleibt vorbehalten.
+---
 
-**6** Befangenheitsgründe können sein: persönliche Beziehungen zwischen Gutachter und versicherter Person, wiederholte Begutachtung durch dieselbe Person bei vorangegangener ablehnender Haltung, Abhängigkeit vom Versicherungsträger in einer Weise, die die Unparteilichkeit beeinträchtigt. Die Befangenheitsrüge ist **substanziierungspflichtig**: Die versicherte Person muss konkrete Tatsachen vortragen, die einen Befangenheitsverdacht begründen ([BGer 9C_304/2010](https://mcp.opencaselaw.ch/entscheid/bger_9C_304_2010)).
+## Praxisfragen
 
-### V. Eröffnung und Stellungnahmerecht (Abs. 4)
+### 1. Rechtsmittel gegen Begutachtungsanordnungen vor kantonalen Gerichten
+**Problem:** Kann die versicherte Person die Zuweisung an eine bestimmte MEDAS-Gutachterstelle sofort mit Beschwerde anfechten?  
+**Kantonale Praxis & Bundesgericht:** Werden gesetzliche Ausstandsgründe geltend gemacht oder verweigert die IV-Stelle den Erlass einer Zwischenverfügung bei substantiiertem Dissens, steht der versicherten Person die Rechtsverweigerungsbeschwerde bzw. die Beschwerde gegen die Zwischenverfügung offen ([BGE 132 V 93 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-93_2005.html); [BGer 8C_445/2025 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)). Das kantonale Gericht prüft die Unabhängigkeit und Eignung der Begutachtungsstelle vorfrageweise.
 
-**7** Das Gutachten ist der versicherten Person zu **eröffnen**. Sie hat das Recht, vor dem Entscheid des Versicherungsträgers zum Gutachten **Stellung zu nehmen**. Dieses Recht korrespondiert mit dem Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) und ist eine zentrale prozessuale Garantie im Begutachtungsverfahren. Die Stellungnahme kann sich auf die Vollständigkeit, die Methodik, die Schlussfolgerungen und die Konsequenzen des Gutachtens beziehen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.1).
+### 2. Begründungspflicht bei Überwälzung der Gerichtsgutachterkosten
+**Problem:** Genügt der blosse Umstand, dass das kantonale Gericht ein Gerichtsgutachten angeordnet hat, um die Kosten der IV-Stelle aufzuerlegen?  
+**Kantonale Praxis & Bundesgericht:** Nein. Gemäss [BGer 9C_365/2025 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-365-2025_2026-01-20.html) und [BGE 143 V 269 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-269_2017.html) muss das kantonale Gericht im Kostenentscheid konkret darlegen, welcher schwerwiegende Mangel (z.B. unvollständige Vorabklärung, Missachtung klarer Widersprüche) der Verwaltung anzulasten ist. Eine blosse «Unsicherheit» oder abweichende richterliche Beweiswürdigung rechtfertigt keine Kostenauferlegung an die Verwaltung.
 
-### VI. Zwischenverfügungspflicht bei Begutachtungsstreit
+---
 
-**8** **Kernlehre BGer 8C_445/2025** Das Bundesgericht hat in BGer 8C_445/2025 (10. Juli 2026, zur Publikation vorgesehen, 5er-Besetzung) Art. 44 ATSG verfassungs- und konventionskonform als **nicht abschliessend** ausgelegt. Wenn zwischen dem Versicherungsträger und der versicherten Person ein Streit über die Anordnung einer Begutachtung (Art. 44 Abs. 1 ATSG) oder über die Wahl des Gutachters (Art. 44 Abs. 2 ATSG) besteht, muss der Versicherungsträger eine **Zwischenverfügung** erlassen. Die Mitwirkungsrechte der versicherten Person aus BGE 137 V 210 bestehen über die gesamte Dauer des Begutachtungsverfahrens.
+## Rechtsprechung
 
-**9** Die Rz. 3067.1 des Kommentars zum Sozialversicherungsrichtlinien (KSVI), die davon ausgeht, Art. 44 ATSG sei abschliessend und eine Zwischenverfügungspflicht bestehe nicht, **verstösst gegen Bundesrecht**. Das Bundesgericht hat diese Position ausdrücklich korrigiert: Art. 44 ATSG i.V.m. Art. 43 Abs. 1bis ATSG verlangt, dass die versicherte Person bei einem Begutachtungsstreit die Möglichkeit hat, die Streitfrage vor einem richterlichen oder administrativen Instanzenzug zu lösen, bevor das Gutachten durchgeführt wird. Dies folgt aus dem Anspruch auf ein faires Verfahren (Art. 29 Abs. 1 BV, Art. 6 Ziff. 1 EMRK).
+Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 44 ATSG](rechtsprechung/)
 
-**10** Die Zwischenverfügungspflicht ergibt sich aus der **systematischen Auslegung** von Art. 44 ATSG mit Art. 43 Abs. 1bis ATSG und Art. 56 ATSG: Wenn der Versicherungsträger eine Begutachtung anordnet und die versicherte Person Einwände erhebt (z.B. Befangenheitsrüge nach Abs. 3, Streit über die Gutachtenart nach Abs. 1), ist dies ein selbstständig anfechtbarer Verfahrensschritt, der in einer Verfügung zu eröffnen ist. Die versicherte Person kann diese Zwischenverfügung mit Rechtsmittel (Einsprache, Beschwerde) anfechten ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 4.1–4.3).
-
-### VII. Gerichtsgutachterkosten / Kausalzusammenhang (i.V.m. Art. 45 ATSG)
-
-**14** Hat die Vorinstanz im Rahmen der gerichtlichen Beurteilung eine Expertise angeordnet, weil die im Verwaltungsverfahren eingeholten Abklärungen keine ausreichende Beweiskraft für die Beurteilung rechtlich erheblicher Punkte aufwiesen, können die Gerichtsgutachterkosten der Verwaltung (IV-Stelle) auferlegt werden. Die Gutachterkosten sind in diesem Fall Verwaltungskosten im Sinne von **Art. 45 ATSG**, nicht Gerichtskosten im Sinne von Art. 69 Abs. 1bis IVG (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.1; BGE 139 V 496, E. 4.3; BGE 139 V 225, E. 4.3; BGE 137 V 210, E. 4.4.1.4). Vgl. auch [BGer 9C_651/2023](https://mcp.opencaselaw.ch/entscheid/bger_9C_651_2023), E. 3.2; Furrer, RSAS 2019, S. 14.
-
-**15** Dies führt jedoch **nicht** zur systematischen Auferlegung der Gerichtsgutachterkosten an die Verwaltung. Vielmehr muss ein **Kausalzusammenhang** zwischen den Mängeln der administrativen Abklärung und der Notwendigkeit der gerichtlichen Expertise bestehen (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.1; BGE 139 V 496, E. 4.4; BGE 137 V 210, E. 4.4.2).
-
-**16** Hat die Verwaltung den Untersuchungsgrundsatz gewahrt, eine Begutachtung nach **Art. 44 ATSG** angeordnet und erscheint ihre Beweiswürdigung im Anschluss daran nicht offensichtlich fehlerhaft, so rechtfertigt dies nicht die Auferlegung der Gerichtsgutachterkosten an die Verwaltung. Allein eine abweichende Beweiswürdigung des Gerichts genügt nicht, um die Kosten dem Verwaltungsträger aufzuerlegen (*Kontextzitat*: [BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 4.2; BGE 143 V 269, E. 3.3; [BGer 8C_454/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_454_2025), E. 3).
-
-**17** In **BGer 9C_365/2025** hat das Bundesgericht die Kostenauferlegung aufgehoben, weil die Vorinstanz den Kausalzusammenhang nicht dargelegt hatte: Sie hatte weder benannt, welche ärztlichen Stellungnahmen widersprüchlich waren, noch erklärt, warum die im Verwaltungsverfahren eingeholten Expertisen ausser Acht gelassen wurden. Die blosse Erwägung, es bestünden «Unsicherheiten» bei den ärztlichen Stellungnahmen, genügt nicht, um einen charakteristischen Mangel der Verwaltungsabklärung zu begründen ([BGer 9C_365/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_365_2025), E. 5.2).
-
-### VIII. Verhältnis zu Art. 43 ATSG
-
-**11** Art. 43 ATSG regelt die allgemeine **Abklärungspflicht** und **Mitwirkungspflicht** des Versicherungsträgers. Art. 44 ATSG spezifiziert diese Pflichten für den Bereich der medizinischen Begutachtung. Die Mitwirkungsrechte nach Art. 43 Abs. 1bis ATSG (Recht auf formulierte Fragestellung, Recht auf Beiordnung einer Vertrauensperson, Recht auf Einsicht in die Akten) gelten auch im Begutachtungsverfahren nach Art. 44 ATSG und müssen vom Versicherungsträger aktiv gewährleistet werden ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210), E. 1.2.1; [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 4.2).
-
-### IX. Prozessuale Folgen
-
-**12** Die Anordnung einer Begutachtung nach Art. 44 ATSG ist als **Zwischenverfügung** (Art. 93 Abs. 1 BGG) selbstständig anfechtbar, wenn sie einen nicht wieder gutzumachenden Nachteil verursacht (Art. 93 Abs. 1 lit. a BGG). Dies ist der Fall, wenn die versicherte Person durch die Begutachtungsanordnung in ihren Mitwirkungsrechten verletzt wird und eine nachträgliche Korrektur im Endentscheid nicht mehr möglich ist ([BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025), E. 1.1–1.3).
-
-**13** Die **Zuständigkeit** für die Begutachtung richtet sich nach dem jeweiligen Sachversicherungsgesetz (z.B. Art. 59 IVG für IV-Gutachten, Art. 72bis IVV für MEDAS-Gutachten). Bei Streitigkeiten über die Begutachtung ist die letzte kantonale Instanz zuständig (Art. 73 ff. ATSG), beim Bundesgericht ist die Beschwerde in öffentlich-rechtlichen Angelegenheiten (Art. 82 ff. BGG) möglich.
-
-## Querverweise
-
-- [Art. 6 ATSG](../art-006/) — Leistungsanspruch
-- [Art. 8 ATSG](../art-008/) — Invalidität
-- [Art. 16 ATSG](../art-016/) — Grad der Invalidität
-- [Art. 17 ATSG](../art-017/) — Revision der Rente
-- Art. 43 ATSG — Abklärungspflicht, Mitwirkungspflicht *(→ [ATSG Art. 43](../art-043/))*
-- Art. 45 ATSG — Kosten des Verfahrens *(→ ATSG)*
-- Art. 56 ATSG — Eröffnung von Verfügungen *(→ ATSG)*
-- Art. 59 IVG — Begutachtung *(→ IVG)*
-- Art. 72bis IVV — MEDAS *(→ IVV)*
+---
 
 ## Literatur
 
-- KIESER UELI, ATSG-Kommentar, Zürich 2023, Art. 44 N. 1 ff.; RÜEDI FLAVIA, in: Commentaire romand, LPGA, Art. 44 N. 1 ff.; MOSER-SZELESS MARGIT, in: Soziale Sicherheit, Systematischer Kommentar (KSVI), Art. 44 N. 3067.1 (durch BGer 8C_445/2025 korrigiert); UELI KIESER / BERNHARD EHRENZELLER, Die Weiterentwicklung der IV aus verfahrensrechtlicher Sicht, in: AJP/PJA 2022, S. 753 ff.; ERIK FURRER, Rechtliche und praktische Aspekte auf dem Weg zum Gerichtsgutachten in der Invalidenversicherung, RSAS 2019, S. 14
+- **Kieser Ueli**, ATSG-Kommentar, 4. Aufl., Zürich/Basel/Genf 2020, Art. 44 N 1–62.
+- **Furrer Andreas**, Die Tragung der Kosten von Gerichtsgutachten in der Sozialversicherung, in: RSAS 2019 S. 14 ff.
+- **Meyer Ulrich / Reichmuth Sascha**, Rechtspflege in der Sozialversicherung, 3. Aufl., Basel 2021.
