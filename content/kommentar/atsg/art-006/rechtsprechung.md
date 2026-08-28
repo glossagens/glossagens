@@ -2,67 +2,58 @@
 title: "Rechtsprechung zu Art. 6 ATSG — Arbeitsunfähigkeit"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-07-17
-description: "Übersicht der wichtigen Entscheide zu Art. 6 ATSG: Arbeitsunfähigkeit, Invaliditätsbegriff, strukturiertes Beweisverfahren, MEDAS-Gutachten."
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 6 ATSG: Arbeitsunfähigkeit, Invaliditätsbegriff, strukturiertes Beweisverfahren und Beweiswürdigung."
 tags: ["Rechtsprechung", "ATSG", "Arbeitsunfähigkeit", "Invalidität", "MEDAS", "psychische Leiden"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
 Zurück zum Kommentar: [Art. 6 ATSG — Arbeitsunfähigkeit](./)
 
-## I. Grundlegende Begriffe: Arbeitsunfähigkeit, Erwerbsunfähigkeit, Invalidität
+## I. Leitentscheide
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 130 V 343 | 2003 | **Leitentscheid:** Definition der Begriffe Arbeitsunfähigkeit, Erwerbsunfähigkeit und Invalidität; Drei-Stufen-Modell; Einkommensvergleichsmethode; Rentenrevision | E. 2.1, 3–3.6 |
-| BGE 137 V 210 | 2011 | Einholung von Administrativ- und Gerichtsgutachten bei MEDAS; Wahrung eines fairen Verfahrens | E. 4.2 |
-| BGE 140 V 193 | 2014 | Aufgabenteilung zwischen rechtsanwendender Stelle und begutachtender Arztperson bei der Bestimmung der Zumutbarkeit einer Ersatztätigkeit | E. 4 |
+### [BGE 130 V 343](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html) — Definition und Drei-Stufen-Modell
+- **Kernaussage**: Definition der Begriffe Arbeitsunfähigkeit, Erwerbsunfähigkeit und Invalidität. Die Arbeitsunfähigkeit ist die gesundheitlich bedingte Unfähigkeit, im bisherigen Beruf zumutbare Arbeit zu leisten. Nach längerer Dauer ist auf eine zumutbare Ersatztätigkeit abzustellen (E. 2.1 & 3.1–3.6).
 
-## II. Strukturiertes Beweisverfahren (nach BGE 141 V 281)
+### [BGE 141 V 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html) — Einführung des strukturierten Beweisverfahrens
+- **Kernaussage**: Bei psychosomatischen Leiden (somatoforme Schmerzstörung) gilt keine Vermutung der Überwindbarkeit mehr; die Arbeitsunfähigkeit ist im Rahmen eines strukturierten Beweisverfahrens anhand von Standardindikatoren (funktioneller Schweregrad und Konsistenz) nachzuweisen (E. 5–7).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 141 V 281 | 2015 | **Wendepunkt:** Einführung des strukturierten Beweisverfahrens bei psychosomatischen Leiden (somatoforme Schmerzstörung); diagnostische Anforderungen an die Feststellung der Arbeitsunfähigkeit | E. 5–7 |
-| BGE 143 V 418 | 2017 | Ausdehnung des strukturierten Beweisverfahrens auf *sämtliche* psychischen Erkrankungen; Präzisierung der Anforderungen | E. 4 |
-| BGE 143 V 409 | 2017 | Depressive Störungen leicht- bis mittelgradiger Natur und rentenbegründende Invalidität; strenge Anforderungen an die Kausalitätsprüfung | E. 3–5 |
-| BGE 145 V 215 | 2019 | Ausdehnung auf Abhängigkeitssyndrome (IV-relevante Suchterkrankungen); strukturiertes Beweisverfahren auch bei Sucht | E. 3 |
+### [BGE 143 V 418](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-418_2017.html) — Ausdehnung auf alle psychischen Erkrankungen
+- **Kernaussage**: Das strukturierte Beweisverfahren nach BGE 141 V 281 findet ausnahmslos auf sämtliche psychischen Störungen Anwendung. Die Prüfung der funktionellen Einschränkung im Alltag steht im Zentrum (E. 4).
 
-## III. MEDAS-Gutachten und Beweiswürdigung
+### [BGE 143 V 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-409_2017.html) — Arbeitsunfähigkeit bei depressiven Störungen
+- **Kernaussage**: Leicht- bis mittelgradige depressive Episoden begründen nur dann eine rentenrelevante Arbeitsunfähigkeit, wenn sie nach den Regeln des strukturierten Beweisverfahrens zu einer dauerhaften funktionellen Einschränkung führen und therapieresistent sind (E. 3–5).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 137 V 210 | 2011 | Einholung von MEDAS-Gutachten; faire Verfahrensführung; Zuzug von Fachärzten | E. 4.2 |
-| BGE 132 V 93 | 2005 | Begutachtung durch Sozialversicherer; Ausstandsbegehren; kein Verfügungscharakter der Begutachtungsanordnung | E. 3 |
-| BGE 135 V 465 | 2009 | Kein förmlicher Anspruch auf versicherungseigenes Gutachten; freie Beweiswürdigung des Gerichts | E. 4 |
-| BGE 143 V 124 | 2017 | Beweiswert polydisziplinärer Gutachten ohne abschliessende Konsensbesprechung; Anforderungen an die Konsensfindung | E. 4 |
+### [BGE 145 V 215](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-145-V-215_2019.html) — Abhängigkeitssyndrome und Suchterkrankungen
+- **Kernaussage**: Primäre Suchterkrankungen (Abhängigkeitssyndrome) sind als eigenständige psychische Krankheiten anzuerkennen; ihre Auswirkung auf die Arbeitsfähigkeit ist im strukturierten Beweisverfahren zu prüfen (E. 3).
 
-## IV. Berufswechsel und Zumutbarkeit
+### [BGE 140 V 193](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-140-V-193_2014.html) — Aufgabenteilung bei Verweisungstätigkeiten
+- **Kernaussage**: Klare Trennung zwischen ärztlicher Feststellung des medizinischen Leistungsprofils und rechtsanwendender Bestimmung der konkreten zumutbaren Ersatztätigkeiten durch die Verwaltung bzw. Gerichte (E. 4).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 130 V 343 | 2003 | Bei langer Dauer der Arbeitsunfähigkeit wird auf einen zumutbaren Beruf in einem anderen Aufgabenbereich abgestellt; Berufswechselklausel | E. 3.5 |
-| BGE 140 V 193 | 2014 | Aufgabenteilung zwischen rechtsanwendender Stelle und begutachtender Arztperson; Zumutbarkeit einer Ersatztätigkeit | E. 4 |
+---
 
-## V. Arbeitsunfähigkeit bei psychischen Leiden — Einzelaspekte
+## II. Weitere Entscheide
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 141 V 281 | 2015 | Strukturiertes Beweisverfahren bei somatoformen Schmerzstörungen; qualitative Anforderungen an Arztberichte | E. 5–7 |
-| BGE 143 V 409 | 2017 | Leicht- bis mittelgradige Depression: strenge Anforderungen an die Kausalitätsprüfung; nicht jedes psychische Leiden begründet eine Rente | E. 3–5 |
-| BGE 145 V 215 | 2019 | Suchterkrankungen als IV-relevante psychische Leiden; strukturiertes Beweisverfahren | E. 3 |
+### [BGE 137 V 210](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html) — Verfahrensgarantien bei MEDAS-Begutachtungen
+- **Kernaussage**: Anforderungen an ein faires Begutachtungsverfahren; Parteirechte bei der Gutachterauswahl und Einholung von MEDAS-Expertisen (E. 4.2).
 
-## VI. Neuere Rechtsprechung (2026)
+### [BGE 135 V 465](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html) — Beweiswürdigung von Arztberichten
+- **Kernaussage**: Freie richterliche Beweiswürdigung; Differenzierung zwischen Berichten der behandelnden Ärzte (Erfahrungstatsache der Patientennähe) und versicherungsinternen bzw. gerichtlichen Gutachten (E. 4.5).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGer 8C_3/2026 | 2026 | Präzisierung: Stellenangebote im angestammten Tätigkeitsgebiet bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen; Krankentaggelder des Arbeitgebers gehören nicht zum massgebenden Invalideneinkommen (Art. 25 Abs. 1 lit. a IVV) | E. 4–5.2 |
+### [BGE 143 V 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-124_2017.html) — Beweiswert polydisziplinärer Gutachten
+- **Kernaussage**: Ein interdisziplinäres Gutachten verlangt eine substantielle Konsensbesprechung der beteiligten Fachdisziplinen; fehlt ein echter Konsens, ist der Beweiswert gemindert (E. 4).
 
-## VII. Neuere Rechtsprechung (2023/2024)
+### [BGE 142 V 504](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-142-V-504_2016.html) — Arbeitsunfähigkeit im Aufgabenbereich (Haushalt)
+- **Kernaussage**: Bei Nichterwerbstätigen ist die Arbeitsunfähigkeit anhand einer konkreten Haushaltsabklärung an Ort und Stelle unter Berücksichtigung der zumutbaren Mithilfe von Familienangehörigen zu quantifizieren (E. 4.1).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| [BGer 8C_492/2023](https://mcp.opencaselaw.ch/entscheid/bger_8C_492_2023) | 2024 | Eingliederungsmassnahmen, Arbeitsunfähigkeit: Wenn aus medizinischer Sicht in umfassender Betrachtung geschlossen wird, dass aus juristischer Sicht der medizinisch attestierten Arbeitsunfähigkeit **nicht gefolgt werden kann** (Bestätigung des strukturierten Beweisverfahrens nach BGE 141 V 281, E. 5.2), kann die IV-Stelle die Eingliederungsmassnahmen ablehnen. Die Arbeitsunfähigkeit ist rechtlich nach Massgabe des strukturierten Beweisverfahrens zu beurteilen, nicht nach der blossen medizinischen Attestierung | E. 5.2 |
-| [BGer 9C_436/2022](https://mcp.opencaselaw.ch/entscheid/bger_9C_436_2022) | 2023 | Anpassungsstörung und psychosoziale Faktoren: Eine bescheinigte Arbeitsunfähigkeit, deren Erklärung weitestgehend in psychosozialen Faktoren liegt, vermag zwar medizinisch die Diagnose einer Anpassungsstörung zu tragen; rechtlich indessen kann daraus keine Arbeitsunfähigkeit abgeleitet werden, wenn die rechtserheblichen Indikatoren des strukturierten Beweisverfahrens nicht erfüllt sind | E. 3.1 |
-| [BGer 9C_389/2022](https://mcp.opencaselaw.ch/entscheid/bger_9C_389_2022) | 2023 | Arbeitsunfähigkeit bei psychischen Leiden: Die ärztlichen Feststellungen müssen anhand der rechtserheblichen Indikatoren auf eine Arbeitsunfähigkeit schliessen lassen, wie sie vom medizinisch-psychiatrischen Experten abschliessend eingeschätzt worden ist. Eine davon losgelöste rechtliche Würdigung ist nicht zulässig | E. 2.3.2 |
+### [BGE 146 V 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-146-V-252_2020.html) — Somme-Prinzip bei Mehrfachleiden
+- **Kernaussage**: Bei Zusammentreffen mehrerer physischer und psychischer Leiden ist die Gesamtwirkung auf die Leistungsfähigkeit massgebend; eine blosse Addition der medizinischen Teilprozente genügt nicht (E. 4.1).
 
-*Letzte Aktualisierung: 2026-07-17*
+### [BGer 8C_3/2026 vom 15.01.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-3-2026_2026-01-15.html) — Stellenangebote bei Revisionsprüfung
+- **Kernaussage**: Konkrete Stellenangebote im angestammten Tätigkeitsbereich sind bei der Beurteilung der Invaliditätskarriere und der Selbsteingliederungsmöglichkeit zu berücksichtigen.

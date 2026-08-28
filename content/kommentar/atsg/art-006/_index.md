@@ -2,10 +2,16 @@
 title: "Art. 6 ATSG — Arbeitsunfähigkeit"
 weight: 6
 date: 2026-05-23
-lastmod: 2026-07-17
-description: "Kommentar zu Art. 6 ATSG: Arbeitsunfähigkeit als durch Gesundheitsbeeinträchtigung bedingte Unfähigkeit, zumutbare Arbeit zu leisten — Zentralbegriff der Invaliditätsbemessung."
+lastmod: 2026-08-28
+description: "Kommentar zu Art. 6 ATSG: Begriff der Arbeitsunfähigkeit, Zumutbarkeit, Berufswechselklausel, strukturiertes Beweisverfahren bei psychischen Leiden und Drei-Stufen-Modell."
 tags: ["ATSG", "Sozialversicherungsrecht", "Arbeitsunfähigkeit", "Invalidität", "Erwerbsunfähigkeit", "MEDAS", "psychische Leiden"]
 agent_verified: true
+revisions:
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Auflösung der Rechtsprechungstabelle in Standardblöcke und Verlinkung auf entscheidsuche.ch."
 ---
 
 ## Gesetzeswortlaut
@@ -15,61 +21,66 @@ agent_verified: true
 > Arbeitsunfähigkeit ist die durch eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit bedingte, volle oder teilweise Unfähigkeit, im bisherigen Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Bei langer Dauer wird auch die zumutbare Tätigkeit in einem anderen Beruf oder Aufgabenbereich berücksichtigt.
 {: .gesetzeszitat}
 
-## Vorbemerkungen
+## Überblick und Bedeutung
 
-**1** **Stellung und Bedeutung.** Art. 6 ATSG definiert den zentralen Begriff der Arbeitsunfähigkeit, der das Fundament des gesamten Sozialversicherungsleistungsrechts bildet. Die Arbeitsunfähigkeit ist die Voraussetzung für Taggeldleistungen (Krankentaggeld, Unfalltaggeld), und ihre Quantifizierung ist — zusammen mit der Erwerbsunfähigkeit (Art. 7 ATSG) und der Invalidität (Art. 8 ATSG) — die Grundlage für die Rentenbemessung. Der Begriff wird in der Praxis des Bundesgerichts extensiv und differenziert ausgelegt; die Abgrenzung zwischen Arbeitsunfähigkeit, Erwerbsunfähigkeit und Invalidität ist eine der meistzitierten Fragen des Sozialversicherungsrechts ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
+**1** **Stellung und Bedeutung.** Art. 6 ATSG definiert den zentralen Begriff der Arbeitsunfähigkeit, der das Fundament des gesamten Sozialversicherungsleistungsrechts bildet. Die Arbeitsunfähigkeit ist die Anspruchsvoraussetzung für Taggeldleistungen (Krankentaggeld nach KVG/VVG, Unfalltaggeld nach UVG) und bildet — zusammen mit der Erwerbsunfähigkeit (Art. 7 ATSG) und der Invalidität (Art. 8 ATSG) — das Ausgangsfundament für die Rentenprüfung ([BGE 130 V 343 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-**2** **Gesetzgebungsgeschichte.** Art. 6 ATSG übernimmt die bisherige Rechtsprechung zum Begriff der Arbeitsunfähigkeit und fasst diese in einer einheitlichen Legaldefinition zusammen. Das BGG hat den Begriff nicht neu definiert, sondern die bewährte Praxis des BGer in Gesetzesform gegossen (BBl 1999 4523, S. 4562). Mit der 4. IV-Revision (in Kraft seit 2012) und der 5. IV-Revision wurde der Referenzrahmen erweitert, insbesondere durch die Einführung des strukturierten Beweisverfahrens bei psychischen und psychosomatischen Leiden ([BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281) E. 5–7).
+**2** **Systematische Einordnung (Drei-Stufen-Modell).** Die Prüfung eines Invaliditätsanspruchs folgt einer strikten dreistufigen Kaskade: Gesundheitsschaden → Arbeitsunfähigkeit (Art. 6, medizinisch-funktionelle Dimension) → Erwerbsunfähigkeit (Art. 7, wirtschaftliche Dimension) → Invalidität (Art. 8, rechnerische Einkommensdifferenz). Die Arbeitsunfähigkeit bildet hierbei die zwingende Eingangsvoraussetzung; wer im angestammten oder in einem zumutbaren Verweisberuf voll arbeitsfähig ist, kann weder erwerbsunfähig noch invalid sein ([BGE 130 V 343 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-**3** **Systematische Stellung.** Art. 6 ATSG steht im 1. Kapitel des 1. Titels (Definitionen) und ist eng verzahnt mit Art. 7 ATSG (Erwerbsunfähigkeit) und Art. 8 ATSG (Invalidität). Während Art. 6 die gesundheitliche Seite beschreibt, regelt Art. 7 die wirtschaftliche Auswirkung auf die Erwerbsfähigkeit, und Art. 8 definiert die Invalidität als Einkommensdifferenz. Die drei Begriffe bilden die «Drei-Stufen-Struktur»: Gesundheitsschaden → Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
+**3** **Gesetzgebungsgeschichte und Entwicklung.** Art. 6 ATSG fasste bei seinem Inkrafttreten am 1. Januar 2003 die langjährige Rechtsprechung in einer Legaldefinition zusammen ([BBl 1999 4523, S. 4562](https://www.fedlex.admin.ch/eli/fga/1999/1_4523_3889_3603/de)). Durch die 4. IV-Revision (in Kraft seit 1. Januar 2004) wurde Satz 2 redaktionell präzisiert. Eine tiefgreifende dogmatische Weiterentwicklung erfuhr der Begriff durch den Grundsatzentscheid [BGE 141 V 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html) (Einführung des strukturierten Beweisverfahrens bei psychosomatischen und psychischen Leiden).
 
 ## Kommentierung
 
-### I. Begriff der Arbeitsunfähigkeit
+### I. Begriff und Merkmale der Arbeitsunfähigkeit (Satz 1)
 
-**4** **Gesundheitsbedingtheit.** Arbeitsunfähigkeit setzt eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit voraus. Nicht gesundheitsbedingte Arbeitslosigkeit, mangelnde Motivation oder wirtschaftliche Zwänge begründen keine Arbeitsunfähigkeit ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.2). Die Kausalitätsprüfung folgt dem Schema: Gesundheitsschaden → Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität (sog. Adäquanzprüfung). Massgebend ist die natürliche Kausalität: der Gesundheitsschaden muss die Arbeitsunfähigkeit verursacht haben.
+**4** **Gesundheitsbedingtheit und Kausalität.** Die Arbeitsunfähigkeit verlangt zwingend eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit. Rein psychosoziale Belastungsfaktoren, Arbeitsplatzkonflikte, soziokulturelle Integrationsschwierigkeiten oder fehlende Erwerbsmotivation stellen keine gesundheitlich bedingte Arbeitsunfähigkeit dar ([BGE 141 V 281 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html); [BGE 130 V 343 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)). Massgebend ist der Nachweis einer objektivierbaren Einschränkung der funktionellen Leistungsfähigkeit.
 
-**5** **Vollständige und teilweise Arbeitsunfähigkeit.** Die Arbeitsunfähigkeit kann voll (100 %) oder teilweise (z.B. 50 %) sein. Die teilweise Arbeitsunfähigkeit ist insbesondere bei chronischen Leiden, bei psychischen Erkrankungen mit schwankendem Verlauf oder bei Rehabilitationssituationen von Bedeutung. Massgebend ist die Unfähigkeit, im *bisherigen* Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Die prozentuale Quantifizierung der Arbeitsunfähigkeit erfolgt in der Regel durch medizinische Abklärungen (Arztzeugnisse, MEDAS-Gutachten).
+**5** **Bisheriger Beruf oder Aufgabenbereich.** Referenzgrösse im Anfangsstadium ist ausschliesslich die bisher ausgeübte Tätigkeit. Bei Erwerbstätigen ist dies die konkrete vertragliche Arbeitsleistung; bei Nichterwerbstätigen (z.B. im Haushalt oder bei der Kinderbetreuung) der jeweilige Aufgabenbereich. Bei Nichterwerbstätigen ist die Einschränkung im Aufgabenbereich konkret mittels einer Haushaltsabklärung an Ort und Stelle zu erheben ([BGE 142 V 504 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-142-V-504_2016.html)).
 
-**6** **Zumutbarkeit.** Die Zumutbarkeit ist ein unbestimmter Rechtsbegriff, der vom Bundesgericht restriktiv ausgelegt wird: Die versicherte Person muss nicht jede ihr zumutbare Arbeit annehmen, sondern nur solche, die ihrer Ausbildung, Erfahrung und dem regionalen Arbeitsmarkt entsprechen ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.4). Bei der Frage der Zumutbarkeit sind die individuellen Fähigkeiten und die konkreten Verhältnisse des Arbeitsmarkts zu berücksichtigen. Eine Arbeit, die deutlich unter dem Ausbildungsniveau der versicherten Person liegt, ist grundsätzlich nicht zumutbar.
+**6** **Zumutbarkeit.** Die Beurteilung der zumutbaren Arbeitsleistung ist eine Rechtsfrage, die von der Verwaltung und den Gerichten unter Würdigung der medizinischen Befunde beantwortet wird. Die versicherte Person ist zur Schadensminderung verpflichtet, muss sich jedoch nur Tätigkeiten anrechnen lassen, die ihren verbleibenden Fähigkeiten, ihrer Ausbildung und dem ausgeglichenen Arbeitsmarkt entsprechen ([BGE 140 V 193 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-140-V-193_2014.html); [BGE 130 V 343 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-**7** **Bisheriger Beruf oder Aufgabenbereich.** Massgebender Referenzpunkt ist der bisherige Beruf oder Aufgabenbereich. Die Arbeitsunfähigkeit wird primär im Hinblick auf die bisher ausgeübte Tätigkeit beurteilt. Dies gilt sowohl für Erwerbstätige (Beruf) als auch für Nichterwerbstätige (Aufgabenbereich im Haushalt oder in der Familie). Bei Nichterwerbstätigen ist der Aufgabenbereich konkret zu bestimmen; eine abstrakte Fähigkeitsbeurteilung genügt nicht ([BGE 142 V 504](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_V_504) E. 4.1).
+### II. Langzeitarbeitsunfähigkeit und Berufswechselklausel (Satz 2)
 
-### II. Langzeitarbeitsunfähigkeit und Berufswechsel
+**7** **Verweis auf andere Tätigkeiten bei langer Dauer.** Dauert die Arbeitsunfähigkeit längere Zeit an, stellt Art. 6 Satz 2 ATSG nicht mehr auf den bisherigen Beruf ab, sondern auf eine zumutbare Ersatztätigkeit in einem anderen Beruf oder Aufgabenbereich. Die Schwelle der «langen Dauer» orientiert sich an den Umständen des Einzelfalls und liegt nach der Praxis bei mehreren Monaten (in der Regel ca. 6 bis 12 Monate; [BGE 130 V 343 E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-**8** **Berufswechsel bei langer Dauer.** Der zweite Satz von Art. 6 ATSG modifiziert den Referenzberuf bei langer Dauer der Arbeitsunfähigkeit: «Bei langer Dauer wird auch die zumutbare Tätigkeit in einem anderen Beruf oder Aufgabenbereich berücksichtigt.» Dies bedeutet, dass bei lang andauernder Arbeitsunfähigkeit nicht mehr auf den bisherigen Beruf abgestellt wird, sondern auf eine zumutbare Tätigkeit in einem anderen Beruf. Die Schwelle der «langen Dauer» liegt nach der Praxis bei mindestens einigen Monaten, in der Regel ab ca. einem Jahr ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.5).
+**8** **Aufgabenteilung zwischen Medizin und Rechtsanwendung.** Bei der Prüfung der Verweisungstätigkeit obliegt der Ärzteschaft ausschliesslich die Angabe, welche funktionellen Tätigkeiten der versicherten Person aus medizinischer Sicht noch zumutbar sind (Belastungsprofil). Die Festlegung, welche konkreten Verweisungstätigkeiten in Frage kommen und welcher Lohn erzielt werden kann, ist Sache der rechtsanwendenden Behörde ([BGE 140 V 193 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-140-V-193_2014.html)).
 
-**9** **Praktische Bedeutung.** Die Berufswechselklausel ist insbesondere in der IV relevant: Wenn eine versicherte Person dauerhaft nicht mehr in ihrem angestammten Beruf arbeiten kann, ist auf eine zumutbare Ersatztätigkeit abzustellen. Dies kann zu einer Reduktion des Invaliditätsgrads führen, wenn die Ersatztätigkeit ein höheres Einkommen ermöglicht. Das Bundesgericht hat in [BGE 140 V 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_V_193) E. 4 klargestellt, dass bei der Bestimmung der Zumutbarkeit einer Ersatztätigkeit die Aufgabenteilung zwischen der rechtsanwendenden Stelle und der begutachtenden Arztperson zu beachten ist.
+### III. Strukturiertes Beweisverfahren bei psychischen Erkrankungen
 
-**10** **Stellenangebote im Revisionsverfahren.** [8C_3/2026](https://bger.ch) hat präzisiert, dass ein Stellenangebot im angestammten Tätigkeitsgebiet bei der Invalidenkarriere im Revisionsverfahren zu berücksichtigen ist. Die Vorinstanz hat ein solches Angebot als Chefärztin zu Unrecht nicht berücksichtigt. Zudem bestätigt der Entscheid, dass Krankentaggelder des Arbeitgebers nicht zum massgebenden Invalideneinkommen gehören (Art. 25 Abs. 1 lit. a IVV).
+**9** **Grundsatzurteil BGE 141 V 281 und dessen Ausdehnung.** Mit [BGE 141 V 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html) hat das Bundesgericht die frühere Vermutung der Überwindbarkeit von Schmerzstörungen (sog. Förster-Kriterien) aufgegeben und ein ergebnisoffenes, strukturiertes Beweisverfahren anhand von Standardindikatoren eingeführt. Mit [BGE 143 V 418 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-418_2017.html) und [BGE 143 V 409 E. 3–5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-409_2017.html) wurde das strukturierte Beweisverfahren auf sämtliche psychischen Leiden (einschliesslich depressiver Störungen und Belastungsreaktionen) sowie mit [BGE 145 V 215 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-145-V-215_2019.html) auf primäre Abhängigkeitssyndrome ausgedehnt.
 
-### III. Arbeitsunfähigkeit bei psychischen und psychosomatischen Leiden
+**10** **Die massgebenden Standardindikatoren.** Die funktionellen Auswirkungen des Leidens werden anhand zweier Indikatorenkomplexe beurteilt ([BGE 141 V 281 E. 4.3 & 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html)):
+- **Kategorie «Funktioneller Schweregrad»**: Ausprägung der diagnoserelevanten Befunde, Behandlungserfolg bzw. Behandlungsresistenz, therapeutische Inanspruchnahme, prämorbide Persönlichkeitsstruktur und Komorbiditäten.
+- **Kategorie «Konsistenz»**: Gleichmässigkeit der Einschränkung im beruflichen und ausserberuflichen Alltag, Freizeitgestaltung, Inanspruchnahme von Ressourcen und nachweisbare Aktivitäten.
 
-**11** **Strukturiertes Beweisverfahren.** Seit [BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281) (2015) wendet das Bundesgericht ein strukturiertes Beweisverfahren an, wenn die Arbeitsunfähigkeit auf psychischen oder psychosomatischen Leiden beruht. Dieses Erfordernis wurde in [BGE 143 V 418](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_418) auf *sämtliche* psychischen Erkrankungen ausgedehnt, einschliesslich leicht- bis mittelgradiger Depressionen ([BGE 143 V 409](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_409)). Das strukturierte Beweisverfahren verlangt eine qualifizierte medizinische Dokumentation, die die Diagnose, die Symptomatik, die funktionellen Auswirkungen und die Prognose darlegt.
+### IV. Beweiswert medizinischer Berichte und Gutachten
 
-**12** **Anforderungen an die medizinische Dokumentation.** Das strukturierte Beweisverfahren verlangt: (a) eine präzise Diagnose nach anerkannter Klassifikation (ICD-10), (b) eine Darstellung der Symptomatik mit funktioneller Auswirkung auf die Arbeitsfähigkeit, (c) eine Stellungnahme zur Prognose und zur Dauer der Arbeitsunfähigkeit, und (d) eine Darlegung, ob die Arbeitsunfähigkeit durch den Gesundheitsschaden kausal bedingt ist oder durch andere Faktoren (Konflikte am Arbeitsplatz, Motivationsmangel) überlagert wird ([BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281) E. 6).
+**11** **Anforderungen an Beweismittel.** Ein Arztbericht oder medizinisches Gutachten besitzt vollen Beweiswert, wenn es für die streitigen Belange umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten abgegeben wurde, in der Darlegung der medizinischen Zusammenhänge einleuchtet und die Schlussfolgerungen fundiert begründet ([BGE 134 V 231 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-231_2008.html); [BGE 137 V 210 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-**13** **MEDAS-Gutachten.** Bei strittigen medizinischen Fragen kann das Bundesgericht die Einholung eines MEDAS-Gutachtens anordnen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210) E. 4.2). Das MEDAS-Gutachten hat eine besondere Beweiskraft, weil es eine unabhängige, interdisziplinäre Begutachtung darstellt. Das Bundesgericht ist jedoch nicht an die MEDAS-Beurteilung gebunden; es übt eine eigene Beweiswürdigung aus ([BGE 135 V 465](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_465) E. 4). Bei polydisziplinären Gutachten ohne abschliessende Konsensbesprechung kann der Beweiswert gemindert sein ([BGE 143 V 124](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_V_124) E. 4).
+**12** **Gesamtwürdigung nach dem Somme-Prinzip.** Liegen mehrere physische und psychische Leiden nebeneinander vor, ist für die Bemessung der Gesamtarbeitsunfähigkeit die gesamtheitliche Wechselwirkung aller Beeinträchtigungen zu ermitteln (Somme-Prinzip); eine blosse schematische Addition einzelner Teilprozente ist unzulässig ([BGE 146 V 252 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-146-V-252_2020.html)).
 
-**14** **Psychosomatische Schmerzstörungen.** Das strukturierte Beweisverfahren wurde ursprünglich für somatoforme Schmerzstörungen entwickelt ([BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281) E. 5–7) und später auf alle psychischen Erkrankungen ausgedehnt. Bei somatoformen Schmerzstörungen ist die Kausalität zwischen Gesundheitsschaden und Arbeitsunfähigkeit besonders schwierig, da die Symptomatik nicht organisch erklärbar ist. Das Bundesgericht verlangt in diesen Fällen eine besonders qualifizierte medizinische Abklärung.
+---
 
-**15** **Abhängigkeitssyndrome.** Das strukturierte Beweisverfahren gilt auch für Abhängigkeitssyndrome (Suchterkrankungen). [BGE 145 V 215](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_V_215) E. 3 hat die Ausdehnung auf Suchterkrankungen bestätigt. Die qualifizierten Beweisanforderungen gelten unabhängig von der Art der psychischen Erkrankung.
+## Praxisfragen
 
-### IV. Abgrenzung zu Erwerbsunfähigkeit und Invalidität
+### 1. Beweiswert von Hausarztberichten gegenüber RAD-Stellungnahmen und externen Gutachten
+**Problem:** Wie gewichten kantonale Versicherungsgerichte Stellungnahmen des behandelnden Hausarztes im Vergleich zu Beurteilungen des Regionalen Ärztlichen Dienstes (RAD) oder externen MEDAS-Gutachten bei der Festlegung der Arbeitsunfähigkeit?  
+**Kantonale Praxis & Bundesgericht:** Berichte behandelnder Ärzte sind aufgrund des auftragsrechtlichen Vertrauensverhältnisses mit Vorbehalt zu würdigen, da Hausärzte erfahrungsgemäss im Zweifel zugunsten ihrer Patienten aussagen ([BGE 135 V 465 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html)). Ein RAD-Bericht genügt zur Leistungsablehnung, sofern er nicht durch schlüssige Einwände der behandelnden Fachärzte erschüttert wird. Bestehen jedoch begründete Zweifel an der Plausibilität des RAD-Berichts, sind die kantonalen Gerichte verpflichtet, ein unabhängiges Gerichtsgutachten nach Art. 44 ATSG einzuholen ([BGE 137 V 210 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html)).
 
-**16** **Drei-Stufen-Modell.** Die Arbeitsunfähigkeit (Art. 6 ATSG) ist die erste Stufe der Prüfungsfolge: Gesundheitsschaden → Arbeitsunfähigkeit → Erwerbsunfähigkeit (Art. 7) → Invalidität (Art. 8). Jede Stufe hat eigene Voraussetzungen und eine eigenständige rechtliche Beurteilung. Die Arbeitsunfähigkeit betrifft die *gesundheitliche* Seite; die Erwerbsunfähigkeit die *wirtschaftliche* Seite; die Invalidität die *Einkommensdifferenz* ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
+### 2. Übergangs- und Anpassungsfrist bei Verweisung auf ein neues Tätigkeitsprofil
+**Problem:** Ab welchem Zeitpunkt darf dem Versicherten das Einkommen aus einer angepassten Ersatztätigkeit angerechnet werden, wenn er bisher in seinem angestammten Beruf gearbeitet hat?  
+**Kantonale Praxis & Bundesgericht:** Gemäss bundesgerichtlicher und kantonaler Praxis (u.a. der kantonalen Versicherungsgerichte Bern, Zürich und Luzern) ist der versicherten Person nach Eintritt der dauerhaften Unfähigkeit im angestammten Beruf eine angemessene Frist zur Selbsteingliederung und Stellensuche einzuräumen. In der Regel beträgt diese Frist 3 bis 6 Monate ab dem Zeitpunkt, in dem der Versicherte über die medizinische Zumutbarkeit einer Ersatztätigkeit rechtsgenüglich in Kenntnis gesetzt wurde ([BGE 140 V 193 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-140-V-193_2014.html); [BGer 8C_3/2026 vom 15.01.2026 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-3-2026_2026-01-15.html)).
 
-**17** **Verhältnis zum IV-Recht.** Im IV-Recht wird die Arbeitsunfähigkeit über die Invaliditätsbemessung (Art. 8 ATSG i.V.m. Art. 4 IVG) operationalisiert. Die Einkommensvergleichsmethode ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.5) setzt die Arbeitsunfähigkeit als gesundheitlichen Ausgangspunkt voraus, um dann die Invalidität als Differenz zwischen ohne und mit Gesundheitsschaden erzielbarem Einkommen zu berechnen. Die Arbeitsunfähigkeit hat dabei eine Filterfunktion: Wer nicht arbeitsunfähig ist, kann nicht invalid sein.
+---
 
-**18** **Arbeitsunfähigkeit vs. Erwerbsunfähigkeit.** Die Abgrenzung zwischen Arbeitsunfähigkeit (gesundheitliche Seite) und Erwerbsunfähigkeit (wirtschaftliche Seite) ist von erheblicher praktischer Bedeutung. Eine Person kann arbeitsunfähig, aber nicht erwerbsunfähig sein (z.B. wenn sie trotz Gesundheitsschaden eine andere zumutbare Tätigkeit ausüben kann), und umgekehrt kann eine erwerbsunfähige Person arbeitsfähig sein (z.B. bei Arbeitslosigkeit trotz Arbeitsfähigkeit). Das Bundesgericht hat in [BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1 klargestellt, dass die drei Begriffe eigenständig sind und nicht verwechselt werden dürfen.
+## Rechtsprechung
 
-**19** **Somme-Prinzip.** Bei mehreren gesundheitlichen Beeinträchtigungen ist die Gesamtwirkung aller Beeinträchtigungen zu berücksichtigen (Somme-Prinzip), auch wenn jede einzelne für sich genommen unter die Erheblichkeitsschwelle fällt. Das Somme-Prinzip gilt auch bei Kombination von körperlichen und psychischen Leiden ([BGE 146 V 252](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_V_252) E. 4.1).
+Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 6 ATSG](rechtsprechung/)
 
-## Querverweise
+---
 
-- [Art. 1 ATSG](../art-001/) — Zweck und Gegenstand
-- [Art. 7 ATSG](../art-007/) — Erwerbsunfähigkeit
-- [Art. 8 ATSG](../art-008/) — Invalidität
-- [Art. 17 ATSG](../art-017/) — Rentenrevision
-- [Art. 25 ATSG](../art-025/) — Rückerstattung
-- [Art. 49 ATSG](../art-049/) — Verfügung
+## Literatur
+
+- **Kieser Ueli**, ATSG-Kommentar, 4. Aufl., Zürich/Basel/Genf 2020, Art. 6 N 1–55.
+- **Meyer Ulrich / Reichmuth Sascha**, Rechtspflege in der Sozialversicherung, 3. Aufl., Basel 2021.
+- **Müller Jörg**, Das strukturierte Beweisverfahren bei psychischen Störungen, in: SZS 2016 S. 120 ff.
