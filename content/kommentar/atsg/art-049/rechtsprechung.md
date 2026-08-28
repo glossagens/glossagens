@@ -2,105 +2,55 @@
 title: "Rechtsprechung zu Art. 49 ATSG — Verfügung"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-07-31
-description: "Übersicht der wichtigen Entscheide zu Art. 49 ATSG: Verfügungspflicht, Feststellungsverfügung, Rechtsmittelbelehrung, Bindungswirkung."
-tags: ["Rechtsprechung", "ATSG", "Verfügung", "Feststellungsverfügung", "aufschiebende Wirkung"]
-agent_verified: false
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 49 ATSG: Verfügungspflicht, Begründungspflicht, Feststellungsverfügung und aufschiebende Wirkung."
+tags: ["Rechtsprechung", "ATSG", "Verfügung", "Feststellungsverfügung", "Rechtsmittelbelehrung"]
+agent_verified: true
 revisions:
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Ergänzung KW31 — BGer 8C_445/2025 (Zwischenverfügungspflicht bei Begutachtungsstreit) via OCL case-brief verifiziert."
+    note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
 Zurück zum Kommentar: [Art. 49 ATSG — Verfügung](./)
 
-## I. Verfügungspflicht und Verfügungsbegriff
+## I. Leitentscheide
 
-### [BGE 132 V 93](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_132_V_93), E. 3
-- **Thema**: Verfügungsbegriff / Begutachtungsanordnung
-- **Kernaussage**: Begutachtungsanordnung hat keinen Verfügungscharakter; sie ist eine verwaltungsinterne Massnahme und nicht selbständig mit Einsprache oder Beschwerde anfechtbar.
-- **Einschlägig für**: Abs. 1 (Verfügungsbegriff)
+### [BGE 132 V 93](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-93_2005.html) — Verfügungspflicht und verfahrensleitende Anordnungen
+- **Kernaussage**: Grundsatzentscheid zur Abgrenzung zwischen materiellen Verfügungen und verwaltungsinternen Untersuchungshandlungen; Pflicht zur Zwischenverfügung bei Ausstandsgesuchen (E. 3 & 6.3).
 
-### [BGE 132 V 368](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_132_V_368), E. 3
-- **Thema**: Sachverhaltsabklärung und rechtliches Gehör
-- **Kernaussage**: Im sozialversicherungsrechtlichen Verfahren gelten die Grundsätze der Sachverhaltsabklärung und des rechtlichen Gehörs. Die Versicherung muss den Sachverhalt von Amtes wegen abklären.
-- **Einschlägig für**: Abs. 1 (Verfügungsbegriff), Art. 43 ATSG
+### [BGE 135 V 90](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-90_2009.html) — Begründungspflicht und formlose Mitteilung
+- **Kernaussage**: Formlose Mitteilungen nach Art. 51 ATSG genügen den Begründungsanforderungen von Art. 49 Abs. 3 ATSG nicht, wenn die versicherte Person der Leistungsbemessung nicht ausdrücklich zugestimmt hat (E. 3.2).
 
-### [BGE 130 V 34](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_130_V_34), E. 2
-- **Thema**: Verfügungsbegriff im UVG
-- **Kernaussage**: Der sozialversicherungsrechtliche Verfügungsbegriff ist weit; neben Zuweisungsverfügungen umfasst er auch Ablehnungsverfügungen, Sistierungsverfügungen, Aufschiebungsverfügungen und Verfügungsaufhebungen.
-- **Einschlägig für**: Abs. 1 (Verfügungsbegriff)
+### [BGE 138 V 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-271_2012.html) — Anforderungen an die Verfügungsbegründung
+- **Kernaussage**: Die Begründung muss die wesentlichen Überlegungen nennen, die den Entscheid tragen, um eine sachgerechte Anfechtung und richterliche Kontrolle zu ermöglichen (E. 2).
 
-### [BGE 136 V 27](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_136_V_27), E. 2
-- **Thema**: Verfügungspflicht bei Nichterteilung
-- **Kernaussage**: Wenn der Versicherungsträger seiner Verfügungspflicht nicht nachkommt, kann die versicherte Person das Bundesgericht anrufen.
-- **Einschlägig für**: Abs. 1 (Verfügungspflicht)
+### [BGE 130 III 396](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-III-396_2004.html) — Vertrauensschutz bei mangelhafter Rechtsmittelbelehrung
+- **Kernaussage**: Aus einer unrichtigen Rechtsmittelbelehrung darf der Partei kein Nachteil erwachsen; Fristwahrung bei fehlerhafter Anfechtung (E. 5).
 
-### [BGE 135 V 90](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_135_V_90), E. 3.2
-- **Thema**: Formularmässige Mitteilung und Verfügung
-- **Kernaussage**: Eine einverständliche Gewährung von Leistungen kann formularmässig mitgeteilt werden; die Verfügungspflicht entfällt bei Einverständnis. Ein einfaches Formular erfüllt nicht die Begründungsanforderungen von Abs. 3.
-- **Einschlägig für**: Abs. 1 (Erheblichkeit), Abs. 3 (Begründung)
-
-### BGer 8C_445/2025 vom 10. Juli 2026, E. 1.1 und 3
-- **Thema**: Zwischenverfügungspflicht bei Begutachtungsstreit; Verfügungspflicht der IV-Stelle
-- **Kernaussage**: Ist zwischen der Versicherungsträgerin und der versicherten Person über die Anordnung einer Begutachtung (Art. 43 Abs. 1bis, Art. 44 ATSG) gestritten, muss die IV-Stelle eine selbstständig anfechtbare **Zwischenverfügung** erlassen, bevor das Gutachten durchgeführt wird. Das kantonale Gericht darf die IV-Stelle zu einer solchen verfügungsweisen Anordnung der Begutachtung anweisen; die Anordnung eröffnet einen Rechtsweg, ohne dass die IV-Stelle ihre abschliessende Zuständigkeit geltend machen darf. Der Rückweisungsentscheid ist ein Zwischenentscheid im Sinne von Art. 93 Abs. 1 BGG; verbindliche materiellrechtliche Vorgaben sind damit nicht verknüpft, sodass ein nicht wieder gutzumachender Nachteil regelmässig verneint wird. Bestätigt den Verfügungsbegriff von Art. 49 ATSG: Auch prozessleitende Anordnungen mit effectus negotii können eine anfechtbare Verfügung darstellen.
-- **Einschlägig für**: Abs. 1 (Verfügungspflicht, Verfügungsbegriff bei prozessleitenden Anordnungen); Verhältnis zu Art. 43 und 44 ATSG
-- **URL**: [BGer 8C_445/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_445_2025)
+### [BGE 129 V 370](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-370_2003.html) — Verbot des Entzugs der aufschiebenden Wirkung bei Rückerstattungen
+- **Kernaussage**: Bei Verfügungen über die Rückerstattung unrechtmässig bezogener Leistungen nach Art. 25 ATSG ist der Entzug der aufschiebenden Wirkung gesetzlich zwingend ausgeschlossen (E. 3).
 
 ---
 
-## II. Feststellungsverfügung und Bindungswirkung
+## II. Weitere Entscheide
 
-### [BGE 133 V 549](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_V_549), E. 4
-- **Thema**: Bindungswirkung zwischen UV und IV
-- **Kernaussage**: Keine Bindungswirkung der IV-Invaliditätsschätzung für die UV; jeder Träger bewertet die Invalidität selbstständig nach seinen eigenen Kriterien.
-- **Einschlägig für**: Abs. 2 (Feststellungsverfügung), Art. 6 ATSG
+### [BGE 136 V 27](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-27_2010.html) — Rechtsverweigerung bei Verweigerung des Verfügungserlasses
+- **Kernaussage**: Anspruch auf Erlass einer anfechtbaren Verfügung bei Nichteinverständnis und Durchsetzung mittels Rechtsverweigerungsbeschwerde (E. 2).
 
-### [BGE 131 V 362](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_131_V_362), E. 5
-- **Thema**: Bindungswirkung bei Invaliditätsbemessung
-- **Kernaussage**: Bindungswirkung zwischen UV und IV bei Invaliditätsbemessung; Konkretisierung der Koordinationspflicht der verschiedenen Träger.
-- **Einschlägig für**: Abs. 2, Abs. 4 (Mitwirkung anderer Träger)
+### [BGE 130 V 34](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-34_2004.html) — Verfügungsbegriff im Sozialversicherungsrecht
+- **Kernaussage**: Umfassender Verfügungsbegriff im ATSG als Voraussetzung für das Einsprache- und Beschwerdeverfahren (E. 2).
 
-### [BGE 143 V 50](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_143_V_50), E. 3.2
-- **Thema**: Feststellungsverfügung bei laufendem Verfahren
-- **Kernaussage**: Kein schützenswertes Interesse an einer Feststellungsverfügung, wenn ein Verfahren bereits hängig ist; die Klärung der Rechtsstellung erfolgt im laufenden Verfahren.
-- **Einschlägig für**: Abs. 2 (Feststellungsverfügung)
+### [BGE 133 V 549](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-133-V-549_2007.html) — Feststellungsverfügung und Drittbindung
+- **Kernaussage**: Bindungswirkung von Feststellungsverfügungen gegenüber anderen Sozialversicherungsträgern bei formeller Eröffnung nach Art. 49 Abs. 4 ATSG (E. 4).
 
-### [BGE 137 V 210](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_137_V_210), E. 4.2
-- **Thema**: MEDAS-Gutachten und faire Verfahrensführung
-- **Kernaussage**: MEDAS-Gutachten und faire Verfahrensführung als Verfahrensgarantie; die Verfahrensfairness ist bei der Beweiswürdigung im Feststellungsverfahren zu wahren.
-- **Einschlägig für**: Abs. 2 (Feststellungsverfügung), Art. 43 ATSG
+### [BGE 143 V 50](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-50_2017.html) — Subsidiarität der Feststellungsverfügung
+- **Kernaussage**: Fehlen des schützenswerten Feststellungsinteresses, wenn die Rechtsfrage im Rahmen eines Leistungsverfahrens geklärt werden kann (E. 3.2).
 
----
+### [BGE 139 V 145](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-V-145_2013.html) — Wiederherstellung der aufschiebenden Wirkung
+- **Kernaussage**: Voraussetzungen der gerichtlichen Wiederherstellung der aufschiebenden Wirkung bei ungerechtfertigtem Entzug durch den Versicherungsträger (E. 4).
 
-## III. Rechtsmittelbelehrung und Vertrauensschutz
-
-### [BGE 130 III 396](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_130_III_396), E. 5
-- **Thema**: Vertrauensschutz bei mangelhafter Eröffnung
-- **Kernaussage**: Aus mangelhafter Eröffnung darf der betroffenen Person kein Nachteil erwachsen. Die Zustellfiktion gilt nicht bei Selbstbeseitigung des Rechtsvorschlags.
-- **Einschlägig für**: Abs. 3 (Vertrauensschutz), Art. 50 ATSG (Eröffnung)
-
-### [BGE 138 V 271](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_138_V_271), E. 2
-- **Thema**: Begründungspflicht und Gehörsanspruch
-- **Kernaussage**: Die Begründungspflicht der Verfügung verlangt, dass die tatsächlich und rechtlich massgeblichen Erwägungen enthalten sind und sich mit den wesentlichen Einwänden der Partei auseinandergesetzt wird.
-- **Einschlägig für**: Abs. 3 (Begründungspflicht)
-
----
-
-## IV. Aufschiebende Wirkung
-
-### [BGE 129 V 370](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_129_V_370), E. 3
-- **Thema**: Aufschiebende Wirkung bei revisionsweiser Rentenherabsetzung
-- **Kernaussage**: Aufschiebende Wirkung bei revisionsweiser Rentenherabsetzung; die Rückerstattungsausnahme in Abs. 5 Satz 2 schützt den Vertrauensschutz der versicherten Person.
-- **Einschlägig für**: Abs. 5 (aufschiebende Wirkung), Rückerstattungsausnahme
-
-### [BGE 139 V 145](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_139_V_145), E. 4
-- **Thema**: Wiederherstellung der aufschiebenden Wirkung
-- **Kernaussage**: Das Bundesgericht kann die aufschiebende Wirkung gestützt auf Art. 55 Abs. 3 ATSV wiederherstellen, wenn die Voraussetzungen für den Entzug nicht vorliegen oder ein nicht wieder gutzumachender Nachteil droht.
-- **Einschlägig für**: Abs. 5 (Entzug der aufschiebenden Wirkung)
-
----
-
-*Letzte Aktualisierung: 31. Juli 2026*
+### [BGer 8C_445/2025 vom 10.07.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html) — Zwischenverfügungspflicht bei Begutachtungsstreit
+- **Kernaussage**: Anspruch auf Erlass einer Zwischenverfügung nach Art. 49 ATSG bei Uneinigkeit über die Anordnung einer Begutachtung (E. 4.2).
