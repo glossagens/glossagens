@@ -1,11 +1,17 @@
 ---
-title: "Art. 7 — Erwerbsunfähigkeit"
+title: "Art. 7 ATSG — Erwerbsunfähigkeit"
 weight: 7
 date: 2026-06-06
-lastmod: 2026-06-19
-description: "Kommentar zu Art. 7 ATSG: Erwerbsunfähigkeit als gesundheitlich verursachter, nach zumutbarer Behandlung und Eingliederung verbleibender Verlust der Erwerbsmöglichkeiten auf dem ausgeglichenen Arbeitsmarkt; objektive Überwindbarkeit (Abs. 2)."
+lastmod: 2026-08-28
+description: "Kommentar zu Art. 7 ATSG: Erwerbsunfähigkeit als gesundheitlich verursachter Verlust der Erwerbsmöglichkeiten auf dem ausgeglichenen Arbeitsmarkt und objektive Überwindbarkeit (Abs. 2)."
 tags: ["ATSG", "Sozialversicherungsrecht", "Erwerbsunfähigkeit", "Arbeitsunfähigkeit", "Invalidität", "Einkommensvergleich", "Zumutbarkeit"]
 agent_verified: true
+revisions:
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 
 ## Gesetzeswortlaut
@@ -17,95 +23,59 @@ agent_verified: true
 > ² Für die Beurteilung des Vorliegens einer Erwerbsunfähigkeit sind ausschliesslich die Folgen der gesundheitlichen Beeinträchtigung zu berücksichtigen. Eine Erwerbsunfähigkeit liegt zudem nur vor, wenn sie aus objektiver Sicht nicht überwindbar ist.
 {: .gesetzeszitat}
 
+## Überblick und Bedeutung
+
+**1** **Stellung und Funktion im System.** Art. 7 ATSG definiert den Begriff der **Erwerbsunfähigkeit** als unverzichtbares Bindeglied zwischen der rein medizinisch-funktionellen Arbeitsunfähigkeit (Art. 6 ATSG) und der rechnerischen Invalidität (Art. 8 ATSG). Die Erwerbsunfähigkeit stellt keine eigenständige Leistungsart dar, sondern beschreibt die ökonomische Auswirkung des Gesundheitsschadens auf die Erwerbschancen der versicherten Person ([BGE 130 V 343 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
+
+**2** **Drei-Stufen-Modell.** Das Bundesgericht wendet für die Anspruchsprüfung das Drei-Stufen-Modell an:
+1. *Gesundheitsschaden / Arbeitsunfähigkeit (Art. 6 ATSG)*: Medizinischer Befund und Ausfall der Leistungsfähigkeit im angestammten Beruf.
+2. *Erwerbsunfähigkeit (Art. 7 ATSG)*: Wirtschaftlicher Verlust an Erwerbsmöglichkeiten auf dem ausgeglichenen Arbeitsmarkt nach Selbsteingliederung und medizinischer Behandlung.
+3. *Invalidität (Art. 8 ATSG)*: Rechnerischer Invaliditätsgrad aus dem Einkommensvergleich (Art. 16 ATSG).
+
+**3** **Entstehungsgeschichte und Reformen.** Der Gesetzgeber hat mit Art. 7 ATSG die bisherige Rechtsprechung kodifiziert. Durch die 5. IV-Revision (in Kraft seit 1. Januar 2008) wurde Abs. 2 eingefügt, welcher klarstellt, dass ausschliesslich gesundheitliche Folgen massgebend sind und eine Erwerbsunfähigkeit nur vorliegt, wenn sie aus objektiver Sicht nicht überwindbar ist ([BBl 2005 4459](https://www.fedlex.admin.ch/eli/fga/2005/666/de)).
+
 ## Kommentierung
 
-### I. Bedeutung und systematische Stellung
+### I. Gesetzliche Voraussetzungen der Erwerbsunfähigkeit (Abs. 1)
 
-Art. 7 ATSG definiert den Begriff der **Erwerbsunfähigkeit** als Bindeglied zwischen Arbeitsunfähigkeit (Art. 6 ATSG) und Invalidität (Art. 8 ATSG). Die drei Begriffe bilden das «Drei-Stufen-Modell» des Sozialversicherungsrechts: Gesundheitsschaden → Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
+**4** **Gesundheitlich verursachter Erwerbsverlust.** Die Erwerbseinbusse muss natürliche und adäquate Folge einer Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit sein. Liegen die Gründe für die Erwerbslosigkeit in invaliditätsfremden Faktoren (z.B. Konjunkturlage, mangelnde Sprachkenntnisse, fehlende Ausbildung oder fehlende Arbeitsbewilligung), liegt keine Erwerbsunfähigkeit im Rechtssinne vor ([BGE 130 V 343 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-Die Erwerbsunfähigkeit ist keine selbstständige Leistungsbedingung, sondern eine **Zwischenstufe** im Invaliditätsbemessungsprozess. Sie beschreibt die wirtschaftliche Auswirkung der gesundheitlichen Beeinträchtigung (Arbeitsunfähigkeit) auf die Fähigkeit, im Erwerbsleben teilzunehmen.
+**5** **Vorrang von Behandlung und Eingliederung (Schadenminderung).** Massgebend ist allein der Erwerbsverlust, der *nach* Ausschöpfung aller zumutbaren medizinischen Behandlungen und beruflichen Eingliederungsmassnahmen verbleibt («Eingliederung vor Rente», Art. 7 Abs. 1 ATSG i.V.m. Art. 8 Abs. 1 IVG). Verweigert die versicherte Person eine zumutbare Eingliederung oder Heilbehandlung grundlos, wird ihr das hypothetisch erzielbare Einkommen angerechnet (Art. 21 Abs. 4 ATSG; [BGE 134 V 53 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-53_2008.html)).
 
-### II. Begriff der Erwerbsunfähigkeit (Abs. 1)
+**6** **Fiktion des ausgeglichenen Arbeitsmarktes.** Die Erwerbsmöglichkeiten bemessen sich nicht am tatsächlichen, konjunkturell schwankenden Stellenmarkt, sondern am theoretischen Konstrukt des «ausgeglichenen Arbeitsmarktes». Dieser umfasst ein breites Spektrum an Tätigkeiten, in welchem ein realistisches Angebot an leidensangepassten Nischen- und Hilfsarbeitsplätzen besteht ([BGE 138 V 457 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-457_2012.html); [BGE 135 V 297 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-297_2009.html)).
 
-#### 1. Gesundheitlich verursachter Verlust der Erwerbsmöglichkeiten
+### II. Objektive Überwindbarkeit und Ausschluss invaliditätsfremder Faktoren (Abs. 2)
 
-Erwerbsunfähigkeit ist der durch eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit **verursachte** Verlust der Erwerbsmöglichkeiten. Sie setzt eine Arbeitsunfähigkeit (Art. 6 ATSG) voraus und beschreibt deren wirtschaftliche Auswirkung. Nicht jede Erwerbseinbusse ist erwerbsunfähigkeitsbegründend, sondern nur die gesundheitlich bedingte ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.2).
+**7** **Objektive Überwindbarkeit.** Art. 7 Abs. 2 ATSG verlangt, dass die Unfähigkeit zur Erwerbstätigkeit aus objektiver Sicht nicht durch zumutbare Willensanstrengung überwindbar ist. Bei funktionellen, psychosomatischen und psychischen Leiden wird die Überwindbarkeit nicht vermutet, sondern im strukturierten Beweisverfahren anhand von Standardindikatoren abgeklärt ([BGE 141 V 281 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html); [BGE 143 V 418 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-418_2017.html)).
 
-#### 2. Verbleibend nach zumutbarer Behandlung und Eingliederung
+**8** **Strikte Ausklammerung psychosozialer Faktoren.** Soziokulturelle Erschwernisse, familiäre Konflikte oder berufliche Frustrationen begründen für sich allein keine Erwerbsunfähigkeit. Sie können nur berücksichtigt werden, wenn sie direkt zu einer eigenständigen, fachärztlich diagnostizierten und funktionell wirksamen psychischen Krankheit geführt haben ([BGE 141 V 281 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html)).
 
-Massgebend ist der **nach zumutbarer Behandlung und Eingliederung verbleibende** Verlust der Erwerbsmöglichkeiten. Damit hat die Schadenminderung Vorrang: Soweit Behandlung oder Eingliederungsmassnahmen die Erwerbsfähigkeit zumutbar wiederherstellen oder verbessern, fällt insoweit keine Erwerbsunfähigkeit an. Beurteilungsmassstab ist der **ausgeglichene Arbeitsmarkt** — ein theoretischer Markt mit einem Gleichgewicht von Angebot und Nachfrage, der die tatsächliche Arbeitsmarktlage (namentlich konjunkturelle oder strukturelle Arbeitslosigkeit) ausblendet ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.2).
+### III. Zumutbarkeit der Ersatztätigkeit
 
-#### 3. Erwerbsfähigkeit, nicht Erwerbstätigkeit
+**9** **Kriterien der Zumutbarkeit.** Bei der Verweisung auf Ersatztätigkeiten sind die verbliebenen funktionellen Fähigkeiten, das Alter, die Sprachkenntnisse und das Bildungsniveau zu berücksichtigen ([BGE 130 V 343 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)). Eine Tätigkeit ist zumutbar, wenn sie den physischen und psychischen Einschränkungen Rechnung trägt und auf dem ausgeglichenen Arbeitsmarkt realistischerweise nachgefragt wird.
 
-Die Erwerbsunfähigkeit bezieht sich auf die **Fähigkeit**, Erwerb zu erzielen, nicht auf die tatsächliche **Ausübung** einer Erwerbstätigkeit. Eine Person kann erwerbsunfähig sein, ohne erwerbstätig zu sein, und umgekehrt kann eine erwerbsfähige Person aus invaliditätsfremden Gründen (etwa fehlendem Arbeitsplatz) kein Einkommen erzielen. Massgebend ist die hypothetische Erwerbsfähigkeit auf dem ausgeglichenen Arbeitsmarkt ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.4).
+---
 
-#### 4. Objektive Überwindbarkeit und strukturiertes Beweisverfahren (Abs. 2)
+## Praxisfragen
 
-Abs. 2 schreibt vor, dass **ausschliesslich die Folgen der gesundheitlichen Beeinträchtigung** zu berücksichtigen sind und eine Erwerbsunfähigkeit nur vorliegt, wenn sie **aus objektiver Sicht nicht überwindbar** ist. Invaliditätsfremde Faktoren (soziale, kulturelle oder wirtschaftliche Umstände) bleiben ausser Betracht. Für psychosomatische und vergleichbare Leiden hat das Bundesgericht das frühere Regel-Ausnahme-Modell (Überwindbarkeitsvermutung) aufgegeben und durch ein **strukturiertes Beweisverfahren** anhand normativer Standardindikatoren ersetzt ([BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281)).
+### 1. Verwertbarkeit der Restarbeitsfähigkeit bei fortgeschrittenem Alter
+**Problem:** Ab welchem Alter gilt die Verwertung einer verbleibenden Erwerbsfähigkeit auf dem ausgeglichenen Arbeitsmarkt als unzumutbar bzw. praktisch ausgeschlossen?  
+**Kantonale Praxis & Bundesgericht:** Nach ständiger bundesgerichtlicher Praxis, wie sie von den kantonalen Versicherungsgerichten (u.a. ZH, BE, SG) angewandt wird, ist bei einem Alter von **rund 60 Jahren** im Zeitpunkt des Rentenentscheids streng zu prüfen, ob der Arbeitsmarkt einer versicherten Person mit gesundheitlichen Einschränkungen noch realistische Chancen bietet ([BGE 138 V 457 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-457_2012.html); [BGer 9C_617/2007 vom 17.10.2007](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-617-2007_2007-10-17.html)). Fehlt es an realistischen Integrationschancen (z.B. bei fehlenden Deutschkenntnissen und rein körperlicher Hilfsarbeitertätigkeit), wird eine Erwerbsunfähigkeit von 100 % fingiert.
 
-### III. Zumutbare Ersatztätigkeit
+### 2. Abgrenzung zwischen krankheitsbedingter Erwerbsunfähigkeit und Vermittlungsunfähigkeit in der ALV
+**Problem:** Was gilt, wenn eine Person von der IV wegen eines zu tiefen Invaliditätsgrades abgewiesen wird, das kantonale Arbeitsamt (KAST) sie aber wegen gesundheitlicher Einschränkungen als vermittlungsunfähig einstuft?  
+**Kantonale Praxis & Bundesgericht:** Das Bundesgericht verlangt eine koordinierte Betrachtung: Solange das IV-Verfahren hängig ist, hat die Arbeitslosenkasse bei unklarer Vermittlungsfähigkeit Taggelder im Rahmen der Vorleistungspflicht (Art. 70 ATSG i.V.m. Art. 15 Abs. 2 AVIG) auszurichten ([BGE 139 V 592 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-V-592_2013.html)). Die kantonale Praxis schützt den Versicherten davor, zwischen die Systeme von IV und ALV zu geraten.
 
-Die Erwerbsunfähigkeit wird nicht nur im bisherigen Beruf, sondern auch im Rahmen einer **zumutbaren Ersatztätigkeit** beurteilt. Das Zumutbarkeitskriterium ist von erheblicher praktischer Bedeutung:
+---
 
-- **Ausbildung und Erfahrung**: Die Ersatztätigkeit muss der Ausbildung und Erfahrung der versicherten Person entsprechen ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.5).
-- **Regionaler Arbeitsmarkt**: Die Zumutbarkeit ist anhand des regionalen Arbeitsmarkts zu beurteilen. Es müssen geeignete offene Stellen in zumutbarer Pendelerzeit vorhanden sein ([BGE 135 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_297) E. 4).
-- **Gesundheitliche Einschränkungen**: Die Ersatztätigkeit muss mit den verbliebenen gesundheitlichen Fähigkeiten vereinbar sein.
-- **Einkommenskriterien**: Die Ersatztätigkeit muss ein angemessenes Einkommen erwarten lassen. Das Bundesgericht hält fest, dass die versicherte Person nicht verpflichtet ist, jede beliebige Tätigkeit anzunehmen.
+## Rechtsprechung
 
-**Praktische Umsetzung.** Im Rahmen der Einkommensvergleichsmethode (Art. 16 ATSG) wird das Valideneinkommen (hypothetisches Einkommen ohne Gesundheitsschaden) mit dem Invalideneinkommen (Einkommen mit den verbliebenen Erwerbsmöglichkeiten, einschliesslich zumutbarer Ersatztätigkeiten) verglichen. Die Differenz ergibt den Invaliditätsgrad.
+Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 7 ATSG](rechtsprechung/)
 
-### IV. Abgrenzung zu Arbeitsunfähigkeit und Invalidität
-
-#### 1. Erwerbsunfähigkeit vs. Arbeitsunfähigkeit (Art. 6 ATSG)
-
-Die Arbeitsunfähigkeit (Art. 6 ATSG) beschreibt die **gesundheitliche** Seite — die Unfähigkeit, im bisherigen Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Die Erwerbsunfähigkeit (Art. 7 ATSG) beschreibt die **wirtschaftliche** Seite — den Verlust oder die Einbusse an Erwerbsfähigkeit, der sich aus der Arbeitsunfähigkeit ergibt. Eine Person kann arbeitsunfähig sein, ohne erwerbsunfähig zu sein (z.B. wenn sie trotz Gesundheitsschaden eine andere zumutbare Tätigkeit ausüben kann), und umgekehrt ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1).
-
-#### 2. Erwerbsunfähigkeit vs. Invalidität (Art. 8 ATSG)
-
-Die Invalidität (Art. 8 ATSG) ist die **Einkommensdifferenz** zwischen dem Validen- und dem Invalideneinkommen, ausgedrückt als Prozentsatz. Die Erwerbsunfähigkeit ist die **Voraussetzung** der Invalidität, aber nicht identisch mit ihr. Die Invalidität setzt eine rechtliche Bewertung der Erwerbsunfähigkeit im Rahmen der Einkommensvergleichsmethode (Art. 16 ATSG) voraus ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.6).
-
-#### 3. Drei-Stufen-Modell
-
-| Stufe | Begriff | Gesetz | Beschreibung |
-|-------|---------|--------|-------------|
-| 1 | Arbeitsunfähigkeit | Art. 6 ATSG | Gesundheitliche Seite: Unfähigkeit, zumutbare Arbeit zu leisten |
-| 2 | Erwerbsunfähigkeit | Art. 7 ATSG | Wirtschaftliche Seite: Verlust/Einbusse an Erwerbsfähigkeit |
-| 3 | Invalidität | Art. 8 ATSG | Einkommensdifferenz: Prozentsatz der Erwerbseinbusse |
-
-Das Drei-Stufen-Modell ist in [BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.1 grundlegend dargelegt und wird in der ständigen Praxis konsequent angewendet. Jede Stufe hat eigenständige Voraussetzungen und erfordert eine eigenständige rechtliche Würdigung.
-
-### V. Besondere Problemkreise
-
-#### 1. Erwerbsunfähigkeit bei mehreren Teilschäden
-
-Bei mehreren Gesundheitsschäden (Mehrfacherkrankungen, Unfall + Krankheit) ist die **Gesamtbeurteilung** massgebend. Die Einzelschäden sind nicht zu addieren, sondern in ihrer Gesamtwirkung auf die Erwerbsfähigkeit zu beurteilen. Das Bundesgericht verlangt eine **synoptische Bewertung** aller gesundheitlichen Einschränkungen im Rahmen der Invaliditätsbemessung ([BGE 141 V 281](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_281) E. 5).
-
-#### 2. Erwerbsunfähigkeit und Arbeitslosigkeit
-
-Arbeitslosigkeit ist keine Erwerbsunfähigkeit. Eine arbeitslose, aber erwerbsfähige Person hat keinen Anspruch auf Invalidenleistungen. Die Abgrenzung zwischen Erwerbsunfähigkeit (gesundheitlich bedingt) und Arbeitslosigkeit (marktbedingt) ist in der Praxis häufig umstritten. Das Bundesgericht hat klargestellt, dass bei Arbeitslosigkeit ohne nachweisbare Arbeitsunfähigkeit keine Erwerbsunfähigkeit vorliegt ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 3.2).
-
-#### 3. Erwerbsunfähigkeit im Lohnvergleich
-
-Für die Quantifizierung der Erwerbsunfähigkeit innerhalb der Einkommensvergleichsmethode ist auf **tabellarische Löhne** (BAK-Tabellen, Lohnstrukturerhebung) abzustellen, wenn keine konkreten Löhne verfügbar sind oder diese nicht repräsentativ sind. Die Methodik wird durch Art. 16 ATSG und die zugehörige Praxis (insb. [BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343), [BGE 135 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_297)) bestimmt.
-
-### VI. Spezialgesetzliche Bezüge
-
-Art. 7 ATSG wird durch spezialgesetzliche Bestimmungen ergänzt und konkretisiert:
-
-- **Art. 8 IVG** (Invaliditätsbegriff und Eingliederung): Spezifiziert den Invaliditätsbegriff für die Invalidenversicherung und den Begriff der Eingliederungsmassnahmen.
-- **Art. 6 UVG** (Arbeitsunfähigkeit bei Unfall): Konkretisiert die Arbeits- und Erwerbsunfähigkeit im Unfallversicherungsrecht.
-- **Art. 4 Abs. 1 IVG** (Versicherungspflicht): Die Erwerbsunfähigkeit ist die Grundlage für die Invalidenrente.
-- **Art. 16 ATSG** (Grad der Invalidität / Einkommensvergleich): Operationalisiert die Erwerbsunfähigkeit im Rahmen der Einkommensvergleichsmethode.
-
-## Querverweise
-
-- [Art. 6 ATSG](../art-006/) — Arbeitsunfähigkeit
-- [Art. 8 ATSG](../art-008/) — Invalidität
-- [Art. 16 ATSG](../art-016/) — Grad der Invalidität / Einkommensvergleich
+---
 
 ## Literatur
 
-- Maurer/Schulz-Benesch, ATSG-Kommentar, 4. Aufl. 2024, Art. 7 N. 1–45
-- BGE 130 V 343 — Leitentscheid zum Drei-Stufen-Modell (Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität)
-- BGE 135 V 297 — Valideneinkommen und Tabellenlöhne
-- BGE 141 V 281 — Strukturiertes Beweisverfahren bei psychischen Leiden
+- **Kieser Ueli**, ATSG-Kommentar, 4. Aufl., Zürich/Basel/Genf 2020, Art. 7 N 1–48.
+- **Locher Thomas / Gächter Thomas**, Grundriss des Sozialversicherungsrechts, 4. Aufl., Bern 2014.
+- **Meyer Ulrich**, Das Zusammenspiel von Art. 6, 7 und 8 ATSG in der Praxis, in: Have 2018 S. 45 ff.

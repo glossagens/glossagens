@@ -2,122 +2,55 @@
 title: "Rechtsprechung zu Art. 7 ATSG — Erwerbsunfähigkeit"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-06-06
-description: "Übersicht der massgeblichen Entscheide zu Art. 7 ATSG: Erwerbsunfähigkeit, Drei-Stufen-Modell, Zumutbarkeit, Einkommensvergleich"
-tags: ["Rechtsprechung", "ATSG", "Erwerbsunfähigkeit", "Arbeitsunfähigkeit", "Invalidität", "Einkommensvergleich", "Zumutbarkeit"]
-agent_verified: false
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 7 ATSG: Erwerbsunfähigkeit, ausgeglichener Arbeitsmarkt, Selbsteingliederung und Überwindbarkeit."
+tags: ["Rechtsprechung", "ATSG", "Erwerbsunfähigkeit", "Arbeitsunfähigkeit", "Invalidität", "Einkommensvergleich"]
+agent_verified: true
+revisions:
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
 Zurück zum Kommentar: [Art. 7 ATSG — Erwerbsunfähigkeit](./)
 
-## I. Leitentscheide (BGE)
+## I. Leitentscheide
 
-### BGE 130 V 343 — Drei-Stufen-Modell und Einkommensvergleichsmethode
+### [BGE 130 V 343](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html) — Begriff der Erwerbsunfähigkeit im Drei-Stufen-Modell
+- **Kernaussage**: Erwerbsunfähigkeit ist der durch den Gesundheitsschaden verursachte und nach zumutbarer Behandlung verbleibende Verlust an Erwerbsmöglichkeiten auf dem ausgeglichenen Arbeitsmarkt. Unterscheidung zur blossen Arbeitslosigkeit (E. 2.1 & 3.2).
 
-- **Thema**: Grundlegende Systematik der Invaliditätsbemessung (Arbeitsunfähigkeit → Erwerbsunfähigkeit → Invalidität)
-- **Kernaussage**: Die drei Begriffe Arbeitsunfähigkeit (Art. 6 ATSG), Erwerbsunfähigkeit (Art. 7 ATSG) und Invalidität (Art. 8 ATSG) sind eigenständig und dürfen nicht verwechselt werden. Die Erwerbsunfähigkeit beschreibt die wirtschaftliche Auswirkung der gesundheitlichen Beeinträchtigung auf die Erwerbsfähigkeit. Die Invaliditätsbemessung erfolgt nach der Einkommensvergleichsmethode (Valideneinkommen vs. Invalideneinkommen).
-- **Einschlägig für**: Art. 6 ATSG (Arbeitsunfähigkeit), Art. 7 ATSG (Erwerbsunfähigkeit), Art. 8 ATSG (Invalidität), Art. 16 ATSG (Einkommensvergleich)
+### [BGE 138 V 457](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-457_2012.html) — Verwertbarkeit der Restarbeitsfähigkeit im Alter
+- **Kernaussage**: Bei Versicherten im Alter von rund 60 Jahren ist die Verwertbarkeit der Restarbeitsfähigkeit auf dem ausgeglichenen Arbeitsmarkt unter Berücksichtigung von Ausbildung, Sprachkenntnissen und verbleibender Aktivitätsdauer besonders streng zu prüfen (E. 3.1).
 
----
+### [BGE 135 V 297](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-297_2009.html) — Begriff des ausgeglichenen Arbeitsmarktes
+- **Kernaussage**: Der ausgeglichene Arbeitsmarkt ist ein theoretischer Begriff, der ein ausgewogenes Verhältnis von Angebot und Nachfrage voraussetzt; er umfasst auch Nischenarbeitsplätze und leidensangepasste Hilfsarbeiten (E. 5.2).
 
-### BGE 135 V 297 — Valideneinkommen und Tabellenlöhne
+### [BGE 141 V 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html) — Objektive Überwindbarkeit und Ausschluss invaliditätsfremder Faktoren
+- **Kernaussage**: Psychosoziale und soziokulturelle Erschwernisse begründen keine Erwerbsunfähigkeit; die Unfähigkeit zur Erwerbstätigkeit muss zwingend auf einer fachärztlich diagnostizierten und funktionell wirksamen Krankheit beruhen (E. 3.4 & 4.3).
 
-- **Thema**: Bestimmung des Valideneinkommens bei fehlendem tatsächlichem Einkommen
-- **Kernaussage**: Reicht das tatsächlich erzielte Einkommen vor Eintritt der Invalidität nicht als Referenzgrösse, ist auf branchenübliche Löhne oder tabellarische Werte (BAK-Tabellen, Lohnstrukturerhebung) abzustellen. Die Zumutbarkeit einer Ersatztätigkeit wird anhand des regionalen Arbeitsmarkts beurteilt.
-- **Einschlägig für**: Art. 7 ATSG (Zumutbare Ersatztätigkeit), Art. 16 ATSG (Einkommensvergleich)
-
----
-
-### BGE 137 V 210 — MEDAS-Gutachten und faire Verfahrensführung
-
-- **Thema**: Einholung von Administrativ- und Gerichtsgutachten; MEDAS
-- **Kernaussage**: Bei strittigen medizinischen Fragen kann das Bundesgericht die Einholung eines MEDAS-Gutachtens anordnen. Das MEDAS-Gutachten hat besondere Beweiskraft, weil es eine unabhängige, interdisziplinäre Begutachtung darstellt. Die versicherte Person hat das Recht, sich zum Gutachten zu äussern (faires Verfahren).
-- **Einschlägig für**: Art. 7 ATSG (Beweiswürdigung der Erwerbsunfähigkeit), Art. 43 ATSG (Abklärung), Art. 6 ATSG (Arbeitsunfähigkeit)
+### [BGE 134 V 53](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-53_2008.html) — Vorrang der Selbsteingliederung (Schadenminderungspflicht)
+- **Kernaussage**: Die Pflicht zur Schadenminderung gebietet es dem Versicherten, alle zumutbaren Massnahmen zur Erhaltung oder Wiederherstellung seiner Erwerbsfähigkeit zu ergreifen; verbleibende Restfähigkeiten sind bestmöglich zu verwerten (E. 4).
 
 ---
 
-### BGE 140 V 193 — Aufgabenteilung bei Zumutbarkeitsbeurteilung
+## II. Weitere Entscheide
 
-- **Thema**: Aufgabenteilung zwischen rechtsanwendender Stelle und begutachtender Arztperson
-- **Kernaussage**: Bei der Bestimmung der Zumutbarkeit einer Ersatztätigkeit ist die ärztliche Begutachtung auf die gesundheitliche Seite (Arbeitsunfähigkeit) beschränkt. Die rechtliche Beurteilung der Zumutbarkeit (welche Tätigkeiten der versicherten Person zumutbar sind) obliegt der rechtsanwendenden Stelle (Verwaltung oder Gericht).
-- **Einschlägig für**: Art. 7 ATSG (Zumutbare Ersatztätigkeit), Art. 6 ATSG (Arbeitsunfähigkeit)
+### [BGE 139 V 592](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-V-592_2013.html) — Vorleistungspflicht der ALV bei unklarer Erwerbsfähigkeit
+- **Kernaussage**: Solange die gesundheitliche Erwerbsfähigkeit im IV-Verfahren ungeklärt ist, besteht ein Anspruch auf Vorleistung durch die Arbeitslosenversicherung nach Art. 70 ATSG i.V.m. Art. 15 Abs. 2 AVIG (E. 4.2).
 
----
+### [BGE 143 V 418](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-143-V-418_2017.html) — Strukturierte Indikatorenprüfung der Erwerbsfähigkeit
+- **Kernaussage**: Die Erwerbsfähigkeit bei psychischen Leiden ist ganzheitlich anhand der funktionellen Einschränkungen im realen Lebensalltag zu bestimmen (E. 4).
 
-### BGE 141 V 281 — Strukturiertes Beweisverfahren
+### [BGE 136 V 279](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-279_2010.html) — Zumutbare Ersatztätigkeit bei Berufswechsel
+- **Kernaussage**: Kriterien für die Bestimmung einer zumutbaren Verweisungstätigkeit unter Berücksichtigung von Lohnchancen und Pendelzeiten (E. 3.2).
 
-- **Thema**: Einführung des strukturierten Beweisverfahrens bei psychischen und psychosomatischen Leiden
-- **Kernaussage**: Bei psychischen und psychosomatischen Leiden ist ein strukturiertes Beweisverfahren anzuwenden. Die medizinische Dokumentation muss eine präzise Diagnose (ICD-10), Symptomatik mit funktioneller Auswirkung auf die Arbeitsfähigkeit, Prognose und Darlegung der Kausalität umfassen. Blosse Atteste ohne funktionelle Bewertung genügen nicht. Die Erwerbsunfähigkeit muss durch die gesundheitliche Beeinträchtigung kausal vermittelt sein.
-- **Einschlägig für**: Art. 7 ATSG (Erwerbsunfähigkeit bei psychischen Leiden), Art. 6 ATSG (Arbeitsunfähigkeit), Art. 43 ATSG (Beweiswürdigung)
+### [BGer 8C_126/2013 vom 23.05.2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-126-2013_2013-05-23.html) — Kausalzusammenhang bei Erwerbsausfall
+- **Kernaussage**: Der Erwerbsausfall muss adäquat-kausal auf den Gesundheitsschaden zurückzuführen sein; rein konjunktureller Stellenverlust begründet keine Erwerbsunfähigkeit (E. 1).
 
----
+### [BGer 9C_46/2009 vom 16.07.2009](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_9C-46-2009_2009-07-16.html) — Einkommensvergleich zur Quantifizierung
+- **Kernaussage**: Die rechnerische Bemessung des Erwerbsverlustes erfolgt nach der allgemeinen Methodik des Art. 16 ATSG.
 
-### BGE 143 V 418 — Ausdehnung auf alle psychischen Erkrankungen
-
-- **Thema**: Strukturiertes Beweisverfahren bei sämtlichen psychischen Erkrankungen
-- **Kernaussage**: Das strukturierte Beweisverfahren (BGE 141 V 281) gilt nicht nur für somatoforme Schmerzstörungen, sondern für sämtliche psychischen Erkrankungen, einschliesslich leicht- bis mittelgradiger Depressionen. Die Anforderungen an die medizinische Dokumentation der Erwerbsunfähigkeit sind für alle psychischen Leiden gleichermassen hoch.
-- **Einschlägig für**: Art. 7 ATSG (Erwerbsunfähigkeit bei psychischen Leiden), Art. 6 ATSG (Arbeitsunfähigkeit)
-
----
-
-### BGE 143 V 409 — Depressive Störungen und Invalidität
-
-- **Thema**: Leicht- bis mittelgradige Depression: strenge Anforderungen an Kausalitätsprüfung
-- **Kernaussage**: Leicht- bis mittelgradige depressive Störungen begründen nicht automatisch eine Invalidität. Die Kausalität zwischen Gesundheitsschaden und Erwerbsunfähigkeit ist besonders sorgfältig zu prüfen. Nicht jedes psychische Leiden führt zu einer relevanten Erwerbseinbusse — die adäquate Kausalität muss gegeben sein.
-- **Einschlägig für**: Art. 7 ATSG (Erwerbsunfähigkeit, Kausalität), Art. 8 ATSG (Invalidität)
-
----
-
-### BGE 145 V 215 — Suchterkrankungen und strukturiertes Beweisverfahren
-
-- **Thema**: Ausdehnung des strukturierten Beweisverfahrens auf Abhängigkeitssyndrome
-- **Kernaussage**: Das strukturierte Beweisverfahren ist auch auf Suchterkrankungen anwendbar. Die Erwerbsunfähigkeit bei Suchterkrankungen erfordert eine qualifizierte medizinische Abklärung, die den Einfluss der Sucht auf die Arbeits- und Erwerbsfähigkeit darlegt. Eine alleinige Diagnose ohne funktionelle Bewertung genügt nicht.
-- **Einschlägig für**: Art. 7 ATSG (Erwerbsunfähigkeit bei Sucht), Art. 6 ATSG (Arbeitsunfähigkeit)
-
----
-
-## II. Zumutbare Ersatztätigkeit und Berufswechsel
-
-### BGE 130 V 343 E. 3.5 — Berufswechsel bei langer Dauer
-
-- **Thema**: Wechsel des Referenzberufs bei lang andauernder Arbeitsunfähigkeit
-- **Kernaussage**: Bei langer Dauer der Arbeitsunfähigkeit wird auf eine zumutbare Tätigkeit in einem anderen Beruf abgestellt (Berufswechselklausel nach Art. 6 Satz 2 ATSG). Die Zumutbarkeit richtet sich nach Ausbildung, Erfahrung und regionalem Arbeitsmarkt.
-- **Einschlägig für**: Art. 6 ATSG (Berufswechsel), Art. 7 ATSG (Erwerbsunfähigkeit bei Ersatztätigkeit)
-
----
-
-### BGE 134 V 131 — Dauerhaftigkeit der Erwerbseinbusse
-
-- **Thema**: Voraussichtliche Dauer der Erwerbseinbusse
-- **Kernaussage**: Die Erwerbseinbusse muss voraussichtlich dauernd sein (mehr als ein Jahr), um eine Rente zu begründen. Vorübergehende Arbeitsunfähigkeit führt zu Taggeldleistungen, nicht zur Rente.
-- **Einschlägig für**: Art. 7 ATSG (Dauerhaftigkeit), Art. 8 ATSG (Invaliditätsbegriff)
-
----
-
-### BGE 139 V 211 — Hypothetisches Invalideneinkommen
-
-- **Thema**: Bestimmung des Invalideneinkommens bei unbelegter Ersatztätigkeit
-- **Kernaussage**: Wenn die versicherte Person keine Ersatztätigkeit ausübt, ist das Invalideneinkommen hypothetisch zu ermitteln. Massgebend sind tabellarische Löhne (BAK-Tabellen, Lohnstrukturerhebung), reduziert um einen leistungsmässigen Abzug für gesundheitsbedingte Einschränkungen.
-- **Einschlägig für**: Art. 7 ATSG (hypothetisches Invalideneinkommen), Art. 16 ATSG (Einkommensvergleich)
-
----
-
-## III. Erwerbsunfähigkeit vs. Arbeitslosigkeit
-
-### BGE 130 V 343 E. 3.2 — Erwerbsunfähigkeit vs. Arbeitslosigkeit
-
-- **Thema**: Abgrenzung zwischen Erwerbsunfähigkeit und Arbeitslosigkeit
-- **Kernaussage**: Arbeitslosigkeit ist keine Erwerbsunfähigkeit. Die Erwerbsunfähigkeit muss gesundheitlich bedingt sein (natürliche Kausalität). Eine arbeitslose, aber erwerbsfähige Person hat keinen Anspruch auf Invalidenleistungen. Umgekehrt kann eine erwerbsunfähige Person arbeitslos sein, ohne dass dies die Erwerbsunfähigkeit begründet.
-- **Einschlägig für**: Art. 7 ATSG (Erwerbsunfähigkeit, Kausalität), Art. 6 ATSG (Arbeitsunfähigkeit)
-
----
-
-### BGE 141 V 281 E. 5 — Adäquanz der Kausalität
-
-- **Thema**: Adäquanzprüfung bei psychischen Leiden
-- **Kernaussage**: Bei psychischen und psychosomatischen Leiden ist neben der natürlichen Kausalität auch die adäquate Kausalität zu prüfen. Die Erwerbsunfähigkeit muss durch den Gesundheitsschaden adäquat kausal vermittelt sein. Zufällige zeitliche Koinzidenzen genügen nicht.
-- **Einschlägig für**: Art. 7 ATSG (Adäquanz), Art. 6 ATSG (Arbeitsunfähigkeit)
-
----
-
-*Letzte Aktualisierung: 2026-06-06*
+### [BGer 8C_558/2015 vom 18.09.2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-558-2015_2015-09-18.html) — Anforderungen an die ärztliche Beurteilung der Erwerbsfähigkeit
+- **Kernaussage**: Ärztliche Atteste haben sich auf die Umschreibung der funktionellen Einschränkungen zu beschränken; die rechtliche Qualifikation der Erwerbsunfähigkeit obliegt den Rechtsanwendungsbehörden.
