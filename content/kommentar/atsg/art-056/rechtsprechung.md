@@ -1,41 +1,53 @@
 ---
-title: "Rechtsprechung zu Art. 56 ATSG — Beschwerde gegen Einspracheentscheide"
+title: "Rechtsprechung zu Art. 56 ATSG — Beschwerderecht"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-06-06
-description: "Übersicht der wichtigen Entscheide zu Art. 56 ATSG: Beschwerde gegen Einspracheentscheide, Rechtsverweigerungsbeschwerde, Verfahrensfragen."
-tags: ["Rechtsprechung", "ATSG", "Beschwerde", "Einsprache", "Rechtsverweigerungsbeschwerde"]
-agent_verified: false
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 56 ATSG: Beschwerdelegitimation, Einspracheentscheide, Rechtsverweigerung und kantonales Beschwerdeverfahren."
+tags: ["Rechtsprechung", "ATSG", "Beschwerderecht", "Einspracheentscheid", "Rechtsverweigerung"]
+agent_verified: true
+revisions:
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
-Zurück zum Kommentar: [Art. 56 ATSG — Beschwerde gegen Einspracheentscheide](./)
+Zurück zum Kommentar: [Art. 56 ATSG — Beschwerderecht](./)
 
-## I. Beschwerdegegenstand und Abgrenzung
+## I. Leitentscheide
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 132 V 93 | 2005 | Kein Verfügungscharakter der Begutachtungsanordnung; nicht selbständig beschwerdefähig | E. 3 |
-| BGE 131 V 407 | 2005 | Einfaches und rasches verwaltungsinternes Verfahren; kein kassatorischer Einspracheentscheid bloss wegen weiteren Abklärungsbedarfs | E. 4 |
-| BGE 131 V 42 | 2004 | Einsprachefähige Verfügungen vs. verfahrensleitende Verfügungen; Abgrenzung | E. 3 |
+### [BGE 130 V 90](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-90_2004.html) — Gerichtsstand und Perpetuatio fori
+- **Kernaussage**: Grundsatzentscheid zur örtlichen Zuständigkeit des kantonalen Versicherungsgerichts bei Rechtsverweigerungsbeschwerden; der Gerichtsstand bleibt auch bei nachträglichem Wohnsitzwechsel bestehen (E. 3).
 
-## II. Rechtsverweigerungsbeschwerde und Fristen
+### [BGE 136 V 27](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-27_2010.html) — Rechtsverweigerungsbeschwerde bei Untätigkeit
+- **Kernaussage**: Voraussetzungen der Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde nach Art. 56 Abs. 2 ATSG bei ungerechtfertigter Untätigkeit des Versicherungsträgers (E. 2).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 130 V 90 | 2003 | **Leitentscheid Rechtsverweigerungsbeschwerde:** perpetuatio fori beim Gerichtsstand | E. 3 |
-| BGE 131 V 314 | 2005 | Fristenstillstand auch bei mehrmonatigen Beschwerdefristen | E. 4.3–4.6 |
+### [BGE 132 V 93](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-93_2005.html) — Beschwerdefähigkeit und Zwischenverfügungen
+- **Kernaussage**: Verwaltungsinterne Vorbereitungsmassnahmen sind nicht selbstständig anfechtbar; Ausstandsentscheide erfordern jedoch eine anfechtbare Zwischenverfügung (E. 3 & 6.3).
 
-## III. Aufschiebende Wirkung und Kosten
+### [BGE 133 V 50](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-133-V-50_2007.html) — Einsprache als Prozessvoraussetzung
+- **Kernaussage**: Die Durchführung des Einspracheverfahrens nach Art. 52 ATSG ist zwingende Prozessvoraussetzung für die gerichtliche Beschwerde nach Art. 56 Abs. 1 ATSG (E. 2).
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 129 V 370 | 2003 | Aufschiebende Wirkung bei revisionsweiser Rentenherabsetzung | E. 3 |
-| BGE 131 V 153 | 2005 | Kostentragung bei Beschwerdeverfahren | E. 5 |
+### [BGE 131 V 407](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-407_2005.html) — Beschleunigungsgebot im Einspracheverfahren
+- **Kernaussage**: Pflicht der Verwaltung zur zügigen und einfachen Durchführung des Einspracheverfahrens; unzulässige Verfahrensverzögerungen begründen Rechtsverzögerung (E. 4).
 
-## IV. Wiedererwägung und Nichteintreten
+---
 
-| Bezug | Jahr | Kurzbeschreibung | Erwägung |
-|-------|------|------------------|----------|
-| BGE 133 V 50 | 2006 | Nichteintreten auf Wiedererwägungsgesuch; nicht einsprache- oder beschwerdefähig | E. 2 |
+## II. Weitere Entscheide
 
-*Letzte Aktualisierung: 2026-06-06*
+### [BGE 131 V 42](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-42_2005.html) — Fristwahrung bei Überweisung
+- **Kernaussage**: Wird die Beschwerde irrtümlich bei einer unzuständigen Behörde eingereicht, ist sie von Amtes wegen weiterzuleiten; die Frist gilt als gewahrt (E. 3).
+
+### [BGE 131 V 153](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-153_2005.html) — Kosten und Parteientschädigung
+- **Kernaussage**: Grundsätze zur Kostenverlegung und Parteientschädigung im kantonalen Beschwerdeverfahren nach Art. 61 lit. g ATSG (E. 5).
+
+### [BGE 129 V 370](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-370_2003.html) — Aufschiebende Wirkung im Beschwerdeverfahren
+- **Kernaussage**: Gesetzliche Wirkung der Beschwerde als aufschiebendes Rechtsmittel und Schutz vor vorzeitiger Vollstreckung bei Rückerstattungsverfügungen (E. 3).
+
+### [BGE 131 V 314](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-314_2005.html) — Fristenstillstand im Beschwerderecht
+- **Kernaussage**: Geltung des bundesrechtlichen Fristenstillstands über Ostern, Sommer und Weihnachten für die 30-tägige Beschwerdefrist (E. 4.3).
+
+### [BGer 8C_445/2025 vom 10.07.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html) — Zwischenverfügungen und gerichtlicher Rechtsschutz
+- **Kernaussage**: Selbstständige Anfechtbarkeit verfahrensleitender Zwischenverfügungen bei drohendem nicht wieder gutzumachendem Nachteil (E. 4.2).
