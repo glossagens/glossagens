@@ -40,7 +40,7 @@ agent_verified: false
 
 ### BGE 142 V 259 — 28. April 2016
 - **Thema**: Kenntnisnahme der Versicherungseinrichtung
-- **Kernaussage**: Die Kenntnisnahme im Sinne von Art. 25 Abs. 2 ATSG setzt voraus, dass die Versicherungseinrichtung die Unrechtmässigkeit bei Anwendung der erforderlichen Sorgfalt hätte erkennen müssen. Ein bloßer Verwaltungsfehler, der für die Versicherungseinrichtung nicht erkennbar war, löst die relative Verjährungsfrist nicht aus.
+- **Kernaussage**: Die Kenntnisnahme im Sinne von Art. 25 Abs. 2 ATSG setzt voraus, dass die Versicherungseinrichtung die Unrechtmässigkeit bei Anwendung der erforderlichen Sorgfalt hätte erkennen müssen. Ein blosser Verwaltungsfehler, der für die Versicherungseinrichtung nicht erkennbar war, löst die relative Verjährungsfrist nicht aus.
 - **Einschlägig für**: Art. 25 Abs. 2 ATSG (relative Verjährung)
 
 ---

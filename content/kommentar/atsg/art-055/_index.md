@@ -15,6 +15,7 @@ agent_verified: false
 > **1bis** Der Bundesrat kann vorsehen, dass die Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 über den elektronischen Verkehr mit Behörden auch für Verfahren nach diesem Gesetz gelten.
 >
 > **2** Das Verfahren vor einer Bundesbehörde richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968, ausser wenn sie über sozialversicherungsrechtliche Leistungen, Forderungen und Anordnungen entscheidet.
+{: .gesetzeszitat}
 
 *(Fedlex-Stand: 2024-01-01)*
 

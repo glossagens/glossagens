@@ -17,6 +17,7 @@ agent_verified: true
 > 2 Der Rückforderungsanspruch erlischt drei Jahre, nachdem die Versicherungseinrichtung davon Kenntnis erhalten hat, spätestens aber fünf Jahre seit der Auszahlung der einzelnen Leistung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
 >
 > 3 Zuviel bezahlte Beiträge können zurückgefordert werden. Der Anspruch erlischt mit dem Ablauf eines Jahres, nachdem der Beitragspflichtige von seinen zu hohen Zahlungen Kenntnis erhalten hat, spätestens aber fünf Jahre nach Ablauf des Kalenderjahres, in dem die Beiträge bezahlt wurden.
+{: .gesetzeszitat}
 
 ## Kommentierung
 

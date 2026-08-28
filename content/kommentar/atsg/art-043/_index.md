@@ -20,8 +20,6 @@ revisions:
     note: "Ergänzung KW31 — BGE 136 V 369 (Rechtskraft Dauerleistungen) in rechtsprechung.md angehängt."
 ---
 
-# Art. 43 ATSG
-
 ## Gesetzeswortlaut
 
 > **Art. 43 Abklärung**
@@ -33,6 +31,7 @@ revisions:
 > **2** Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
 >
 > **3** Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
+{: .gesetzeszitat}
 
 *Quelle: [Fedlex (SR 830.1, Art. 43)](https://www.fedlex.admin.ch/eli/cc/2002/510/de#art_43), Konsolidierung Stand 2024-01-01.*
 

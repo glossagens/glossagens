@@ -27,6 +27,7 @@ revisions:
 > ⁴ Erlässt ein Versicherungsträger eine Verfügung, welche die Leistungspflicht eines anderen Trägers berührt, so hat er auch ihm die Verfügung zu eröffnen. Dieser kann die gleichen Rechtsmittel ergreifen wie die versicherte Person.
 >
 > ⁵ Der Versicherungsträger kann in seiner Verfügung einer Einsprache oder Beschwerde die aufschiebende Wirkung entziehen, auch wenn die Verfügung eine Geldleistung zum Gegenstand hat. Ausgenommen sind Verfügungen über die Rückerstattung unrechtmässig bezogener Leistungen.
+{: .gesetzeszitat}
 
 ## Vorbemerkungen
 

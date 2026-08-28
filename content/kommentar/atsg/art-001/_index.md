@@ -21,6 +21,7 @@ agent_verified: false
 > c. die Leistungen aufeinander abstimmt;
 >
 > d. den Rückgriff der Sozialversicherungen auf Dritte ordnet.
+{: .gesetzeszitat}
 
 ## Vorbemerkungen
 

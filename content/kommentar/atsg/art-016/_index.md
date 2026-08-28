@@ -8,8 +8,6 @@ tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicher
 agent_verified: false
 ---
 
-# Art. 16 ATSG
-
 ## Gesetzestext
 
 Für die Bestimmung des Invaliditätsgrades wird das Erwerbseinkommen, das die versicherte Person nach Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung gesetzt zum Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid geworden wäre.

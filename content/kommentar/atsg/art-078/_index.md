@@ -27,6 +27,7 @@ revisions:
 > 4 Für die Verfahren nach den Absätzen 1 und 3 gelten die Bestimmungen dieses Gesetzes. Ein Einspracheverfahren wird nicht durchgeführt. Die Artikel 3–9, 11, 12, 20 Absatz 1, 21 und 23 des Verantwortlichkeitsgesetzes vom 14. März 1958 sind sinngemäss anwendbar.
 >
 > 5 Personen, die als Organe oder Funktionäre eines Versicherungsträgers, einer Revisions- oder Kontrollstelle handeln oder denen durch die Einzelgesetze bestimmte Aufgaben übertragen wurden, unterliegen der gleichen strafrechtlichen Verantwortlichkeit wie Behördemitglieder und Beamte nach dem Strafgesetzbuch.
+{: .gesetzeszitat}
 
 ## Vorbemerkungen
 

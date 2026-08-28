@@ -13,6 +13,7 @@ agent_verified: true
 > **Art. 6 — Arbeitsunfähigkeit**
 >
 > Arbeitsunfähigkeit ist die durch eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit bedingte, volle oder teilweise Unfähigkeit, im bisherigen Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Bei langer Dauer wird auch die zumutbare Tätigkeit in einem anderen Beruf oder Aufgabenbereich berücksichtigt.
+{: .gesetzeszitat}
 
 ## Vorbemerkungen
 

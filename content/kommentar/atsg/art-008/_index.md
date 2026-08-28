@@ -17,6 +17,7 @@ agent_verified: true
 > ² Nicht erwerbstätige Minderjährige gelten als invalid, wenn die Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit voraussichtlich eine ganze oder teilweise Erwerbsunfähigkeit zur Folge haben wird.
 >
 > ³ Volljährige, die vor der Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit nicht erwerbstätig waren und denen eine Erwerbstätigkeit nicht zugemutet werden kann, gelten als invalid, wenn eine Unmöglichkeit vorliegt, sich im bisherigen Aufgabenbereich zu betätigen. Artikel 7 Absatz 2 ist sinngemäss anwendbar.
+{: .gesetzeszitat}
 
 ## Kommentierung
 

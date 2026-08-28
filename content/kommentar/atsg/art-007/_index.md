@@ -15,6 +15,7 @@ agent_verified: true
 > ¹ Erwerbsunfähigkeit ist der durch Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit verursachte und nach zumutbarer Behandlung und Eingliederung verbleibende ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen Arbeitsmarkt.
 >
 > ² Für die Beurteilung des Vorliegens einer Erwerbsunfähigkeit sind ausschliesslich die Folgen der gesundheitlichen Beeinträchtigung zu berücksichtigen. Eine Erwerbsunfähigkeit liegt zudem nur vor, wenn sie aus objektiver Sicht nicht überwindbar ist.
+{: .gesetzeszitat}
 
 ## Kommentierung
 

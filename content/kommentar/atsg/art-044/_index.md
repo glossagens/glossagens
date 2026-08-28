@@ -14,8 +14,6 @@ revisions:
     note: "BGer 9C_365/2025 ergänzt: Gerichtsgutachterkosten, Kausalzusammenhang, Art. 45 ATSG"
 ---
 
-# Art. 44 ATSG
-
 ## Gesetzeswortlaut
 
 > **Art. 44 ATSG (Begutachtung)**
@@ -31,6 +29,7 @@ revisions:
 > **3** Die versicherte Person kann die Unabhängigkeit der begutachtenden Person aus tatsächlichen oder rechtlichen Gründen anfechten. Die Rüge ist spätestens zusammen mit der Stellungnahme zum Gutachten vorzubringen. Artikel 43 Abs. 3 ATSG bleibt vorbehalten.
 >
 > **4** Das Gutachten ist der versicherten Person zu eröffnen. Sie hat das Recht, vor dem Entscheid des Versicherungsträgers dazu Stellung zu nehmen.
+{: .gesetzeszitat}
 
 ## Kommentierung
 

@@ -15,6 +15,7 @@ agent_verified: true
 > ¹ Gegen Einspracheentscheide oder Verfügungen, gegen welche eine Einsprache ausgeschlossen ist, kann Beschwerde erhoben werden.
 >
 > ² Beschwerde kann auch erhoben werden, wenn der Versicherungsträger entgegen dem Begehren der betroffenen Person keine Verfügung oder keinen Einspracheentscheid erlässt.
+{: .gesetzeszitat}
 
 ---
 

@@ -8,8 +8,6 @@ tags: ["Rentenrevision", "Invalidenversicherung", "Sachverhaltsänderung", "ATSG
 agent_verified: true
 ---
 
-# Art. 17 ATSG
-
 ## Gesetzestext
 
 **1** Die Invalidenrente wird von Amtes wegen oder auf Gesuch hin für die Zukunft erhöht, herabgesetzt oder aufgehoben, wenn der Invaliditätsgrad einer Rentenbezügerin oder eines Rentenbezügers sich:

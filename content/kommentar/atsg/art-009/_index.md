@@ -8,8 +8,6 @@ tags: ["ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Sozialversicherungsr
 agent_verified: false
 ---
 
-# Art. 9 ATSG
-
 ## Gesetzestext
 
 Als hilflos gilt eine Person, die wegen der Beeinträchtigung der Gesundheit für alltägliche Lebensverrichtungen dauernd der Hilfe Dritter oder der persönlichen Überwachung bedarf.
