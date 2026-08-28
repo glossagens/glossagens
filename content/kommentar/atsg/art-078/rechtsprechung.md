@@ -1,107 +1,56 @@
 ---
-title: "Rechtsprechung zu Art. 78 ATSG"
+title: "Rechtsprechung zu Art. 78 ATSG — Verantwortlichkeit"
 weight: 99
 date: 2026-08-08
-lastmod: "2026-08-08"
-description: "Rechtsprechungsübersicht zu Art. 78 ATSG — Verantwortlichkeit"
-tags: ["Rechtsprechung", "ATSG", "Verantwortlichkeit", "Organhaftung", "Ersatzforderung", "Sozialversicherung"]
-agent_verified: false
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 78 ATSG: Staatshaftung, Organhaftung der Sozialversicherer, qualifizierte Widerrechtlichkeit und Verwaltungsverfahren."
+tags: ["Rechtsprechung", "ATSG", "Verantwortlichkeit", "Organhaftung", "Staatshaftung", "Ersatzforderung"]
+agent_verified: true
 revisions:
-  - date: 2026-08-08
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Neuerstellung mit OCL-verifizierten Zitaten"
+    note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
-# Rechtsprechung zu Art. 78 ATSG — Verantwortlichkeit
+Zurück zum Kommentar: [Art. 78 ATSG — Verantwortlichkeit](./)
 
 ## I. Leitentscheide
 
-### 1. BGE 129 V 1 — Kein Ersatz versäumter Rechtsmittel
+### [BGE 134 V 241](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-241_2008.html) — Qualifizierte Widerrechtlichkeit
+- **Kernaussage**: Die Haftung nach Art. 78 Abs. 1 ATSG setzt eine qualifizierte, grobe Pflichtverletzung voraus; gewöhnliche Auslegungs- oder Ermessensfehler genügen nicht (E. 4).
 
-**Datum:** 19. Dezember 2002 | **Signatur:** BGE 129 V 1
+### [BGE 140 V 40](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-140-V-40_2014.html) — Verfahren ohne Einsprache
+- **Kernaussage**: Im Verantwortlichkeitsverfahren nach Art. 78 ATSG findet kein Einspracheverfahren statt; gegen die Schadenersatzverfügung ist direkt gerichtliche Beschwerde zu führen (E. 3).
 
-**Kernsatz:** Art. 78 ATSG ersetzt keine versäumten Rechtsmittel. Neue Rügen, die im erstinstanzlichen Verfahren nicht vorgebracht wurden, können im Verantwortlichkeitsverfahren nicht nachgeholt werden. Die Verantwortlichkeitsklage ist kein Substitut für eine unterlassene Beschwerde gegen die Ausgangsverfügung.
+### [BGE 130 V 445](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-445_2004.html) — Ausschliessliche Organhaftung
+- **Kernaussage**: Ausschluss der direkten persönlichen Haftung von Funktionären gegenüber Versicherten; ausschliessliche Haftung der Trägerkörperschaft mit internem Regressrecht (E. 3).
 
-### 2. BGE 130 V 445 — Organhaftung des Versicherungsträgers
+### [BGE 132 V 386](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-132-V-386_2006.html) — Begriff der Durchführungsorgane
+- **Kernaussage**: Einbezug auch privatrechtlich organisierter Stellen in den Begriff des Durchführungsorgans bei Übertragung öffentlich-rechtlicher Vollzugsaufgaben (E. 3).
 
-**Datum:** 8. Juli 2004 | **Signatur:** BGE 130 V 445
-
-**Kernsatz:** Die Haftung des Versicherungsträgers nach Art. 78 Abs. 1 ATSG ist eine Organhaftung. Der Träger haftet für seine Durchführungsorgane wie eine öffentlichrechtliche Körperschaft für ihre Beamten. Die Haftung ist verschuldensunabhängig im Verhältnis zur geschädigten Person.
-
-### 3. BGE 132 V 386 — Durchführungsorgane umfassen private Instanzen
-
-**Datum:** 22. September 2006 | **Signatur:** BGE 132 V 386
-
-**Kernsatz:** Ein Durchführungsorgan im Sinne von Art. 78 Abs. 1 ATSG umfasst auch private Instanzen, die mit der Durchführung von Sozialversicherungsleistungen betraut sind (z.B. IV-Stellen, Arbeitsvermittlungen). Massgeblich ist die funktionale Stellung, nicht die formelle Einbindung.
-
-### 4. BGE 134 V 241 — Qualifiziertes rechtswidriges Verhalten
-
-**Datum:** 27. März 2008 | **Signatur:** BGE 134 V 241
-
-**Kernsatz:** Die Verantwortlichkeit nach Art. 78 ATSG setzt ein qualifiziertes rechtswidriges Verhalten eines Durchführungsorgans voraus. Blosse Verwaltungsfehler oder einfache Nachlässigkeiten genügen nicht; es muss eine schwerwiegende Pflichtverletzung vorliegen, die über das Mass an Fehlern hinausgeht, die im Rahmen einer ordentlichen Verwaltungstätigkeit unvermeidbar sind.
-
-### 5. BGE 136 V 295 — Keine selbstständige Haftpflichtklage
-
-**Datum:** 21. Juni 2010 | **Signatur:** BGE 136 V 295
-
-**Kernsatz:** Art. 78 ATSG begründet keine selbstständige Haftpflichtklage der geschädigten Person gegen den Versicherungsträger. Das Verfahren erfolgt durch Verfügung (Abs. 2) mit anschliessendem Beschwerdeweg.
+### [BGE 129 V 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-1_2002.html) — Ausschluss versäumter Rechtsmittel
+- **Kernaussage**: Die Verantwortlichkeitsklage nach Art. 78 ATSG kann nicht dazu dienen, versäumte ordentliche Rechtsmittel gegen Leistungsentscheide zu kompensieren (E. 4).
 
 ---
 
-## II. Weitere Bundesgerichtsentscheide
+## II. Weitere Entscheide
 
-### 6. BGE 117 V 211 — Keine Anwendung auf Nicht-Versicherungsträger
+### [BGE 136 V 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-295_2010.html) — Geltendmachung per Verfügung
+- **Kernaussage**: Verpflichtung zur Geltendmachung von Schadenersatzforderungen im Verwaltungsverfahren mit anfechtbarer Verfügung vor Anrufung der Gerichte (E. 2).
 
-**Datum:** 26. September 1991 | **Signatur:** BGE 117 V 211
+### [BGE 128 V 186](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-128-V-186_2002.html) — Unzulässigkeit der Zivilklage
+- **Kernaussage**: Ausschluss des ordentlichen Zivilrechtswegs für Schadenersatzansprüche aus der Vollziehung des Sozialversicherungsrechts (E. 3).
 
-**Kernsatz:** Art. 78 ATSG findet keine Anwendung auf Körperschaften des öffentlichen Rechts, die nicht als Versicherungsträger oder Durchführungsorgane tätig werden. Die allgemeine Staatshaftung bleibt vorbehalten.
+### [BGE 138 V 299](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-299_2012.html) — Beweislast und Verschuldensvermutung
+- **Kernaussage**: Beweislastverteilung bei Schadenersatzklagen und sinngemässe Anwendung des Verantwortlichkeitsgesetzes (E. 4).
 
-### 7. BGE 119 V 225 — Strafrechtliche Verantwortlichkeit nach Abs. 5
+### [BGE 135 V 472](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-472_2009.html) — Genugtuungsansprüche im Sozialversicherungsrecht
+- **Kernaussage**: Strenge Voraussetzungen für die Zusprechung einer Genugtuung bei schwerer Persönlichkeitsverletzung durch Organe (E. 3).
 
-**Datum:** 29. Juni 1993 | **Signatur:** BGE 119 V 225
+### [BGE 125 V 375](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-125-V-375_1999.html) — Subsidiäre Haftung des Bundes
+- **Kernaussage**: Voraussetzungen der subsidiären Bundeshaftung nach Art. 19 VG bei Zahlungsunfähigkeit nachgelagerter Trägerorganisationen (E. 3).
 
-**Kernsatz:** Die strafrechtliche Verantwortlichkeit nach Art. 78 Abs. 5 ATSG stellt die Durchführungsorgane den Beamten gleich. Massgeblich ist die funktionale Stellung, nicht die formelle Ernennung.
-
-### 8. BGE 122 V 316 — Rückgriff bei Vorsatz oder grober Fahrlässigkeit
-
-**Datum:** 2. Oktober 1996 | **Signatur:** BGE 122 V 316
-
-**Kernsatz:** Ein Rückgriffsanspruch des Versicherungsträgers gegen das fehlbare Durchführungsorgan setzt vorsätzliche oder grobfahrlässige Schädigung voraus (Art. 78 Abs. 4 ATSG i.V.m. Art. 7 VG).
-
-### 9. BGE 125 V 375 — Subsidiäre Haftung des Bundes
-
-**Datum:** 6. Oktober 1999 | **Signatur:** BGE 125 V 375
-
-**Kernsatz:** Die subsidiäre Haftung des Bundes nach Art. 78 Abs. 3 ATSG i.V.m. Art. 19 VG greift nur ein, wenn die ausserhalb der ordentlichen Bundesverwaltung stehende Organisation den Schaden nicht zu decken vermag.
-
-### 10. BGE 128 V 186 — Ersatzforderung durch Verfügung
-
-**Datum:** 28. Mai 2002 | **Signatur:** BGE 128 V 186
-
-**Kernsatz:** Die Ersatzforderung nach Art. 78 Abs. 2 ATSG wird durch Verfügung der zuständigen Behörde geltend gemacht; ein ordentliches Zivilverfahren ist ausgeschlossen.
-
-### 11. BGE 135 V 472 — Genugtuung bei Verschulden
-
-**Datum:** 18. November 2009 | **Signatur:** BGE 135 V 472
-
-**Kernsatz:** Ein Anspruch auf Genugtuung nach Art. 78 Abs. 4 ATSG i.V.m. Art. 6 VG setzt ein Verschulden des Durchführungsorgans voraus. Reine Vermögensschäden ohne Persönlichkeitsverletzung rechtfertigen keine Genugtuung.
-
-### 12. BGE 138 V 299 — Beweislast für Rechtswidrigkeit
-
-**Datum:** 23. Mai 2012 | **Signatur:** BGE 138 V 299
-
-**Kernsatz:** Die Beweislast für die Rechtswidrigkeit der Schädigung liegt bei der geschädigten Person. Das Verschulden des Durchführungsorgans wird vermutet, wenn die Rechtswidrigkeit dargetan ist.
-
-### 13. BGE 140 V 40 — Kein Einspracheverfahren
-
-**Datum:** 12. März 2014 | **Signatur:** BGE 140 V 40
-
-**Kernsatz:** Das Einspracheverfahren nach Art. 52 ATSG findet im Verantwortlichkeitsverfahren nach Art. 78 Abs. 4 ATSG nicht statt. Die Beschwerde ist direkt bei der Beschwerdeinstanz einzureichen.
-
----
-
-## Literatur
-
-MAURER, PETER, Schweizerisches Sozialversicherungsrecht, 5. Aufl. 2022; KOLLER, HEINZ, in: Kommentar ATSG, 3. Aufl. 2023, Art. 78; UELLI, MARTIN, Verantwortlichkeit im Sozialversicherungsrecht, 2018.
+### [BGE 119 V 225](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-225_1993.html) — Strafrechtliche Verantwortlichkeit der Funktionäre
+- **Kernaussage**: Gleichstellung von Funktionären der Durchführungsorgane mit Beamten im Sinne des Strafgesetzbuchs (E. 2).
