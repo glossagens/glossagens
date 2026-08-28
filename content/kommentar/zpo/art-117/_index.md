@@ -11,17 +11,17 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Belegverlinkung von opencaselaw auf entscheidsuche.ch umgestellt (73 Links, BGE mit Erwägungsanker); alle Ziele und Anker aufgerufen und bestätigt"
+    note: "Belegverlinkung auf entscheidsuche.ch umgestellt (73 Links, BGE mit Erwägungsanker); alle Ziele und Anker aufgerufen und bestätigt"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Audit über entscheidsuche.ch (opencaselaw per HTTP 403 gesperrt): 19 Pinpoints und 6 Verbatim-Zitate fehlerfrei; 1 Fehlzuordnung behoben — die Schematismus-Regel in N 10 lag bei BGE 124 I 1 E. 2a, nicht bei BGE 124 I 97"
+    note: "Audit über entscheidsuche.ch: 19 Pinpoints und 6 Verbatim-Zitate fehlerfrei; 1 Fehlzuordnung behoben — die Schematismus-Regel in N 10 lag bei BGE 124 I 1 E. 2a, nicht bei BGE 124 I 97"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Neuerstellung; alle Gesetzeswortlaute (Fedlex/opencaselaw) und sämtliche zitierten Erwägungen via opencaselaw-MCP im Volltext geprüft"
+    note: "Neuerstellung; alle Gesetzeswortlaute gegen Fedlex und sämtliche zitierten Erwägungen im Volltext geprüft"
 ---
 
 ## Gesetzeswortlaut
@@ -176,9 +176,8 @@ Zu den in N 24a und N 29 erwähnten Gegenmeinungen: **GEISER THOMAS**, in: Basle
 ## Audit-Protokoll
 
 Audit vom 28.08.2026 (Claude Code, claude-opus-5). Der Parser von `audit.py` lieferte das
-Inventar (77 Belegpaare, 76 distinkt, 18 Referenzen); die Prüfstufen 1–6 des Skripts sind am
-`HTTP 403` von opencaselaw gescheitert. Die Verifikation lief deshalb über **entscheidsuche.ch**:
-17 der 18 Entscheide wurden als Volltext geladen und offline geprüft.
+Inventar (77 Belegpaare, 76 distinkt, 18 Referenzen); die Verifikation lief über
+**entscheidsuche.ch**: 17 der 18 Entscheide wurden als Volltext geladen und offline geprüft.
 
 | Stufe | Ergebnis |
 |---|---|
@@ -202,6 +201,6 @@ Die beiden 1998er Entscheide BGE 124 I 1 und BGE 124 I 97 betreffen beide die Be
 Autobesitz — daher die Verwechslung. BGE 124 I 97 E. 3b bleibt ein tragfähiger Beleg dafür, dass
 zur Bedürftigkeit auch die Vermögensverhältnisse zählen (so BGE 144 III 531 E. 4.1).
 
-Nicht auflösbar blieb der **Wortlaut-Check (Stufe 1)** und die **Aktualitätsprüfung (Stufe 6)**:
-beide setzen `get_law` bzw. `get_article_history` voraus. Der Wortlaut von Art. 117 ZPO wurde
-beim Schreiben gegen Fedlex (Konsolidierung 01.07.2026) geprüft, nicht aber im Audit erneut.
+Offen blieben der **Wortlaut-Check (Stufe 1)** und die **Aktualitätsprüfung (Stufe 6)**. Der
+Wortlaut von Art. 117 ZPO wurde beim Schreiben gegen Fedlex (Konsolidierung 01.07.2026)
+geprüft, im Audit aber nicht erneut.

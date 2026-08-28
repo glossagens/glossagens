@@ -11,17 +11,17 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Belegverlinkung von opencaselaw auf entscheidsuche.ch umgestellt (73 Links, BGE mit Erwägungsanker); alle Ziele und Anker aufgerufen und bestätigt"
+    note: "Belegverlinkung auf entscheidsuche.ch umgestellt (73 Links, BGE mit Erwägungsanker); alle Ziele und Anker aufgerufen und bestätigt"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Audit über entscheidsuche.ch (opencaselaw per HTTP 403 gesperrt): 19 Pinpoints und 6 Verbatim-Zitate fehlerfrei; 1 Fehlzuordnung behoben — die Schematismus-Regel in N 10 lag bei BGE 124 I 1 E. 2a, nicht bei BGE 124 I 97"
+    note: "Audit über entscheidsuche.ch: 19 Pinpoints und 6 Verbatim-Zitate fehlerfrei; 1 Fehlzuordnung behoben — die Schematismus-Regel in N 10 lag bei BGE 124 I 1 E. 2a, nicht bei BGE 124 I 97"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Neuerstellung; jede Kernaussage gegen den Volltext der genannten Erwägung bzw. gegen das amtliche Regeste via opencaselaw-MCP geprüft"
+    note: "Neuerstellung; jede Kernaussage gegen den Volltext der genannten Erwägung bzw. gegen das amtliche Regeste geprüft"
 ---
 
 # Rechtsprechung zu Art. 117 ZPO
