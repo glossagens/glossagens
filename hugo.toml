@@ -10,6 +10,20 @@ theme = "hextra"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
+# Keine Taxonomien. Hugo legt sonst per Default `tags` und `categories` an und
+# erzeugt daraus eine Term-Seite pro Tag — am 28.08.2026 waren das 1884 Seiten.
+# Verlinkt war keine davon: Die Übersicht entsteht aus `data/systematik/`, und
+# `params.toc.displayTags` ist nicht gesetzt, weshalb auch die TOC keine Tags
+# ausgibt. Die Seiten kosteten trotzdem 3,2 GB der 6,1 GB Ausgabe und je einen
+# vollständigen Sidebar-Render — gut die Hälfte der Deploy-Zeit für Seiten, die
+# niemand erreichen konnte.
+#
+# `tags:` im Frontmatter bleibt als Metadatum erhalten und wird weiterhin
+# gepflegt; es erzeugt nur keine eigenen Seiten mehr. Der Hextra-Partial
+# `tags.html` rendert Tag-Links ohnehin nur, wenn die Term-Seite existiert
+# (`Site.GetPage`), es entstehen also keine toten Links.
+[taxonomies]
+
 [params]
   description = "Öffentlicher juristischer Gesetzeskommentar"
   displayUpdatedDate = true
