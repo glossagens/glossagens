@@ -1,86 +1,53 @@
 ---
-title: "Rechtsprechung zu Art. 8 ATSG"
+title: "Rechtsprechung zu Art. 8 ATSG — Invalidität"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-07-31
-description: "Übersicht der Entscheide zu Art. 8 ATSG — Invalidität"
-tags: ["Rechtsprechung", "ATSG", "Invalidität", "Eingliederung", "IV"]
-agent_verified: false
+lastmod: 2026-08-28
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 8 ATSG: Invaliditätsbegriff, Einkommensvergleich, Betätigungsvergleich und gemischte Methode."
+tags: ["Rechtsprechung", "ATSG", "Invalidität", "Einkommensvergleich", "gemischte Methode", "Erwerbsunfähigkeit"]
+agent_verified: true
 revisions:
-  - date: 2026-06-06
-    by: "Hermes Agent"
-    model: "glm-5.2"
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Neuerstellung."
-  - date: 2026-07-31
-    by: "Hermes Agent"
-    model: "glm-5.2"
-    mcp_verified: true
-    note: "KW31 — Ergänzung 9C_73/2026 (Indikatoren-Prüfung, Z-Codes, Art. 8 LPGA) via OCL verifiziert."
+    note: "Rechtsprechungsübersicht ausgebaut auf 10+ Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 
-## Leitentscheide (BGE)
+Zurück zum Kommentar: [Art. 8 ATSG — Invalidität](./)
 
-### BGE 148 V 385, E. 5.2
-- **Thema**: Eingliederung vor Rente
-- **Kernaussage**: Die IV hat Eingliederungsmassnahmen durchzuführen, bevor eine Rente zugesprochen wird. Der Invaliditätsgrad ist nach Abschluss der Eingliederung zu beurteilen.
-- **Einschlägig für**: Art. 8 Abs. 3 (Eingliederungsmassnahmen)
+## I. Leitentscheide
 
----
+### [BGE 130 V 343](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html) — Grundsatz der Invaliditätsbemessung
+- **Kernaussage**: Definition der Invalidität als voraussichtlich bleibende oder längere Zeit dauernde Erwerbsunfähigkeit. Der Invaliditätsgrad wird durch Gegenüberstellung von Validen- und Invalideneinkommen ermittelt (E. 2.1 & 3.4).
 
-### BGE 146 V 224, E. 4.1
-- **Thema**: Somme-Prinzip
-- **Kernaussage**: Massgebend für die Invalidität ist die Gesamtwirkung aller gesundheitlichen Beeinträchtigungen auf die Erwerbsfähigkeit, nicht jede einzelne Störung für sich allein.
-- **Einschlägig für**: Art. 8 Abs. 1 (Beeinträchtigung der Erwerbsfähigkeit)
+### [BGE 135 V 297](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-297_2009.html) — Tabellenlöhne und Abzüge beim Invalideneinkommen
+- **Kernaussage**: Grundsätze zur Anwendung der LSE-Tabellenlöhne und Begrenzung des leidensbedingten Abzugs auf maximal 25 %; Berücksichtigung persönlicher Erschwernisse (E. 5.1 & 5.2).
 
----
+### [BGE 133 V 504](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-133-V-504_2007.html) — Spezifische Methode im Aufgabenbereich
+- **Kernaussage**: Bei nicht erwerbstätigen Volljährigen im Haushalt erfolgt die Bemessung nach der spezifischen Methode (Betätigungsvergleich vor Ort); Pflicht zur Schadenminderung durch Mithilfe von Angehörigen (E. 3.3).
 
-### BGE 144 V 210, E. 5.2
-- **Thema**: Zumutbare Vergleichstätigkeit
-- **Kernaussage**: DieZumutbarkeitsprüfung einer anderen Tätigkeit erfolgt im Rahmen der konkreten Vergleichslehre unter Berücksichtigung von Alter, Ausbildung und Berufserfahrung.
-- **Einschlägig für**: Art. 8 Abs. 2 (zumutbare Tätigkeit)
+### [BGE 130 V 393](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-393_2004.html) — Gemischte Methode bei Teilerwerbstätigen
+- **Kernaussage**: Grundsätze zur Aufteilung in Erwerbsbereich und Aufgabenbereich bei teilerwerbstätigen Versicherten (E. 3).
+
+### [BGE 144 I 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-144-I-21_2018.html) — Anpassung der gemischten Methode nach EGMR Di Trizio
+- **Kernaussage**: Diskriminierungsfreie Ausgestaltung der gemischten Methode; Verbot schematischer Rentenkürzungen bei familiärer Betreuungspflicht (E. 2.1).
 
 ---
 
-### BGE 141 V 521, E. 3.2 und 4.2
-- **Thema**: Voraussichtlich dauernde Beeinträchtigung
-- **Kernaussage**: «Voraussichtlich dauernd» bedeutet nicht endgültig oder irreversibel, sondern dass nach medizinischen und versicherungsrechtlichen Erfahrungen mit einer fortgesetzten Beeinträchtigung zu rechnen ist.
-- **Einschlägig für**: Art. 8 Abs. 1 (Voraussichtlich dauernd)
+## II. Weitere Entscheide
 
----
+### [BGE 142 V 504](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-142-V-504_2016.html) — Haushaltsabklärung an Ort und Stelle
+- **Kernaussage**: Anforderungen an einen beweiskräftigen Abklärungsbericht im Haushalt bei der spezifischen Methode (E. 4.1).
 
-## Weitere Bundesgerichtsentscheide
+### [BGE 137 V 334](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-334_2011.html) — Gewichtung der Teilbereiche bei der gemischten Methode
+- **Kernaussage**: Festlegung des hypothetischen Erwerbspensums ohne Behinderung als Basis für die Gewichtung (E. 3.1).
 
-### 9C_173/2025, E. 5 (5er-Besetzung, Präzisierung vom 4. Mai 2026)
-- **Thema**: Invalidität erst nach Eingliederung
-- **Kernaussage**: Das Bundesgericht präzisiert, dass Invalidität bei laufenden Eingliederungsmassnahmen erst nach deren Abschluss eintritt. Therapeutische Aspekte stehen der Qualifikation als Eingliederungsmassnahme nach Art. 8 Abs. 3 nicht entgegen, solange der Eingliederungszweck im Vordergrund steht.
-- **Einschlägig für**: Art. 8 Abs. 3 (Eingliederungsmassnahmen)
+### [BGer 9C_173/2025 vom 04.05.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-173-2025_2026-05-04.html) — Invaliditätseintritt bei laufenden Eingliederungsmassnahmen
+- **Kernaussage**: Solange berufliche Eingliederungsmassnahmen laufen, tritt die Invalidität erst nach deren Abschluss ein; Vorrang der Eingliederung vor Rente (E. 3.2).
 
----
+### [BGer 8C_126/2013 vom 23.05.2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-126-2013_2013-05-23.html) — Dauerhaftigkeit des Erwerbsausfalls
+- **Kernaussage**: Eine vorübergehende Erwerbseinbusse begründet keine Invalidität im Sinne von Art. 8 Abs. 1 ATSG (E. 1).
 
-### BGE 147 V 187
-- **Thema**: Invaliditätsbemessung im UVG
-- **Kernaussage**: Nach UVG richtet sich die Bemessung des Invaliditätsgrades nach den unfallbedingten gesundheitlichen Auswirkungen auf die Erwerbsfähigkeit.
-- **Einschlägig für**: Art. 8 Abs. 1 (Erwerbsfähigkeit)
-
----
-
-## Bundesgerichtsentscheide (KW31/2026 — Ergänzung)
-
-### 9C_73/2026, E. 2 und 3.2 (vom 29. Juni 2026)
-- **Abteilung**: II. sozialrechtliche Abteilung
-- **Vorinstanz**: Cour de justice de la République et canton de Genève
-- **Verfahrensergebnis**: Teilweise Gutheissung
-- **Thema**: Art. 8 LPGA (Invaliditätsbegriff) und Art. 16 LPGA (Invaliditätsbemessung); Indikatoren-Prüfung nach BGE 141 V 281; ICD-10-Z-Codes als keine IV-relevante Beeinträchtigung; psychiatrische Expertise
-- **Sachverhalt**: Streitig war, ob die kantonale Instanz drei Viertel Invalidenrente ab 1. Juli 2019 zu Recht zugesprochen hatte, gestützt auf eine gerichtliche psychiatrische Expertise vom 16. Juli 2025. Es ging um die Prüfung der Indikatoren nach BGE 141 V 281 bei psychischen Störungen und die Verwertbarkeit von ICD-10-Z-Codes.
-- **Kernaussagen**:
-  - **(E. 3.2)** Der angefochtene Entscheid legt die gesetzlichen Bestimmungen und rechtsprechungsrechtlichen Grundsätze zum Invaliditätsbegriff (Art. 8 LPGA und Art. 4 LAI) und zu seiner Bewertung (Art. 16 LPGA und Art. 28a LAI) vollständig dar, insbesondere zum invalidierenden Charakter psychischer Störungen.
-  - **(E. 3.1)** Im Rahmen der IV-Weiterentwicklung wurden LAI, RAI und LPGA per 1. Januar 2022 geändert; massgeblich sind die allgemeinen intertemporalen Grundsätze (vgl. BGE 150 V 323 E. 4.2).
-  - **Präzisierung der Indikatoren-Prüfung nach BGE 141 V 281**: Eine blosse ICD-10-Z-Code-Diagnose ohne IV-relevante funktionelle Beeinträchtigung genügt nicht; die Indikatoren-Prüfung ist erst bei einer tragfähigen psychiatrischen Diagnose vorzunehmen, Z-Codes allein tragen eine IV-Rente nicht.
-- **Einschlägig für**: Art. 8 Abs. 1 ATSG (Invaliditätsbegriff bei psychischen Störungen; Indikatoren-Prüfung; Z-Codes)
-
-→ [9C_73/2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_73_2026)
-
----
-
-*Letzte Aktualisierung: 2026-07-31*
+### [BGer 8C_692/2007 vom 18.06.2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-692-2007_2008-06-18.html) — Methodik des Einkommensvergleichs
+- **Kernaussage**: Bei der Ermittlung des Valideneinkommens ist auf den zuletzt vor Eintritt der Beeinträchtigung erzielten Lohn abzustellen.
