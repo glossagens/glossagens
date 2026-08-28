@@ -183,6 +183,29 @@ revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt 
 ---
 ```
 
+### Quellen für Gesetzeswortlaute: Fedlex zuerst, opencaselaw nur als Rückfall
+
+Der **authentische Normtext** kommt aus der **Fedlex-MCP** — sie ist die amtliche Quelle und
+unabhängig von der Verfügbarkeit von opencaselaw:
+
+| Zweck | Aufruf |
+|---|---|
+| Einzelner Artikel | `mcp__fedlex-connector__get_article` (`rs_number`, `article`, optional `date`) |
+| Ganzer Erlass / Abschnitt | `mcp__fedlex-connector__get_law_text` |
+| SR-Nummer unbekannt | `mcp__fedlex-connector__search_by_title` |
+| Änderungshistorie | `mcp__fedlex-connector__list_amendments` |
+
+`get_law` der opencaselaw-MCP ist **nur Rückfallebene** — zu verwenden, wenn Fedlex die Norm nicht
+liefert, praktisch also bei **kantonalem Recht** (Fedlex führt nur Bundesrecht). Wird auf den
+Rückfall ausgewichen, gehört das in die `note` des Revisionseintrags.
+
+Grund: Am 23.08.2026 wurde der Glossagens-Client von opencaselaw per IP gesperrt (HTTP 403 auf
+alles). Seither scheitert jede Prüfung, die den Normtext von dort holt — `audit.py` meldet Stufe 1
+seither `nicht_verifizierbar`. Fedlex war davon nie betroffen. Für **Entscheide** bleibt es bei
+opencaselaw bzw. **entscheidsuche** als gleichwertigem Weg; nur der Gesetzestext wandert zu Fedlex.
+
+Unverändert gilt: **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben.
+
 ### Pflicht: Revisions-Vermerk bei jeder Änderung
 
 **Jede** inhaltliche Änderung an einem Kommentarartikel (`_index.md` **und** `rechtsprechung.md`) — auch die Neuanlage — MUSS als neuer Eintrag **zuoberst** in der `revisions:`-Liste des Frontmatters vermerkt werden. So ist jederzeit nachvollziehbar, wer mit welchem KI-Modell den Beitrag erstellt/geändert hat und ob die Zitate maschinell verifiziert wurden. Pflichtangaben pro Eintrag:
@@ -192,7 +215,7 @@ revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt 
 | `date` | Datum der Änderung (`YYYY-MM-DD`) |
 | `by` | **Wer** die Änderung vorgenommen hat — Mensch (`"Jonas Achermann"`) oder Agent (`"Claude Code"`, `"Hermes Agent"`) |
 | `model` | **Mit welchem KI-Modell** — exakte Modell-ID (z. B. `claude-opus-4-8`, `hermes3`); bei rein manueller Bearbeitung ohne KI: `human` |
-| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide über die opencaselaw-MCP verifiziert wurden (`cite` / `get_law` / `get_erwaegung` / `get_regeste`). Andernfalls `false` |
+| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP**, Entscheide über opencaselaw (`cite` / `get_erwaegung` / `get_regeste`) oder entscheidsuche. Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute") |
 | `note` | optional — kurze Beschreibung der Änderung |
 
 Regeln:

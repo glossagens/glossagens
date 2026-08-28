@@ -126,7 +126,7 @@ bei 403 oder 429 bricht der Lauf ab, statt zu wiederholen.
 | Ungültigen Pinpoint entfernen (Zitat bleibt) | ✅ ja |
 | Wörtliches Zitat durch Verbatim aus `get_erwaegung` ersetzen | ✅ ja |
 | Referenz korrigieren, wenn `close_matches` **eindeutig** ist | ✅ ja |
-| Gesetzeswortlaut aus `get_law` ersetzen | ✅ ja |
+| Gesetzeswortlaut aus Fedlex (`get_article`) ersetzen | ✅ ja |
 | `lastmod` + `revisions`-Eintrag setzen | ✅ ja (Pflicht) |
 | Beleg entfernen bei `supports: no/contradicts/unrelated` | ⛔ Bestätigung |
 | Satz umschreiben oder streichen | ⛔ Bestätigung |
@@ -146,7 +146,8 @@ verschwindet die richtige Aussage mit dem falschen Beleg. Er wird markiert und v
    Ein Ersatz kommt aus `get_decision_structure` — dort stehen die tatsächlich
    vorhandenen Erwägungsnummern —, nie aus einer Schätzung und nicht aus
    `find_relevant_erwaegung` (Suchtool, siehe Kostenregel).
-3. Gesetzeswortlaut nie aus dem Gedächtnis — nur aus `get_law`, mit Konsolidierungsdatum.
+3. Gesetzeswortlaut nie aus dem Gedächtnis — nur aus `mcp__fedlex-connector__get_article`
+   (Rückfall `get_law`, siehe unten), stets mit Konsolidierungsdatum.
 4. `supports: unrelated` bei hoher Konfidenz ist ein **Befund**, keine Messungenauigkeit.
 5. Literaturzitate sind mit den Fall-Tools **nicht** verifizierbar → Status
    `nicht_verifizierbar`, niemals `korrekt`.
@@ -195,12 +196,24 @@ Auswertung — bei Änderungen am Antwort-Parsing hochzählen), und Fehlantworte
 | Stufe | Tool | Prüft |
 |---|---|---|
 | 0 Inventar | — | Bundle parsen: Wortlaut, Paare, Verbatim-Zitate ≥30 Zeichen |
-| 1 Wortlaut | `get_law` | zitierter Gesetzestext absatzweise gegen Fedlex |
+| 1 Wortlaut | `mcp__fedlex-connector__get_article` (Rückfall: `get_law`) | zitierter Gesetzestext absatzweise gegen Fedlex |
 | 2 Existenz | `cite` | existiert die Referenz? sonst `close_matches` |
 | 3 Pinpoint | `get_erwaegung` | existiert E. X.Y? |
 | 4 Verbatim | `get_regeste`, `get_decision_structure` | wörtliche Zitate exakt im Quelltext |
 | 5 Grounding | Judge-Subagent über den Ledger | trägt der Entscheid den Behauptungssatz? |
 | 6 Aktualität | `get_article_history` | Belege vor der letzten Revision; einschlägige Entscheide, die fehlen |
+
+**Stufe 1 holt den Normtext aus der Fedlex-MCP, nicht aus opencaselaw.** Fedlex ist die amtliche
+Quelle und unabhängig von der opencaselaw-Verfügbarkeit — das ist keine Stilfrage: Seit der
+IP-Sperre vom 23.08.2026 (HTTP 403 auf alles) meldet Stufe 1 bei jedem Lauf über `get_law`
+`nicht_verifizierbar`, der Wortlaut-Check fällt also stillschweigend aus. `get_law` bleibt
+**Rückfallebene** für kantonales Recht (Fedlex führt nur Bundesrecht) und für Fälle, in denen
+Fedlex die Norm nicht liefert.
+
+Für **Entscheide** ändert sich nichts: opencaselaw, und wenn dieses gesperrt ist, **entscheidsuche**
+(`https://entscheidsuche.ch/_search.php` als ES-Proxy, Volltexte unter `/docs/{Sammlung}/{id}.html`).
+Beim Audit von ZPO Art. 117 am 28.08.2026 lief so die vollständige Verifikation der Stufen 2–5,
+während das Skript selbst an Stufe 1 abbrach.
 
 **Gating:** Stufe 5 läuft nur auf Paaren, die 2–4 überlebt haben. Für ein
 halluziniertes Zitat wird weder ein Prüftext geholt noch ein Judge bemüht.

@@ -9,7 +9,7 @@ die Prüfung gegen den tatsächlichen Satz findet.
 
 Stufen:
   0  Inventar      — Bundle parsen: Wortlaut, Paare, Verbatim-Zitate
-  1  Wortlaut      — get_law: zitierter Gesetzestext vs. geltende Fassung
+  1  Wortlaut      — Fedlex: zitierter Gesetzestext vs. geltende Fassung
   2  Existenz      — cite: existiert die Referenz?
   3  Pinpoint      — get_erwaegung: existiert E. X.Y?
   4  Verbatim      — wörtliche Zitate exakt im Quelltext?
@@ -59,6 +59,11 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 MCP_URL = "https://mcp.opencaselaw.ch/mcp"
+# Gesetzeswortlaute gehören NICHT hierher: Der authentische Normtext kommt aus der
+# Fedlex-MCP (mcp__fedlex-connector__get_article / get_law_text). opencaselaws `get_law`
+# ist nur Rückfallebene für kantonales Recht und für Normen, die Fedlex nicht führt.
+# Seit der IP-Sperre vom 23.08.2026 (HTTP 403) liefert `get_law` hier ohnehin nichts mehr,
+# weshalb Stufe 1 stillschweigend ausfällt — siehe stufe1_wortlaut().
 # Tools, die serverseitig ein LLM anwerfen und opencaselaw damit Geld kosten.
 # Sie werden hier nie aufgerufen — `Mcp.call` blockt sie, damit sie auch nicht
 # versehentlich über eine neue Stufe zurückkommen. Der Ersatz für Stufe 5 steht
@@ -946,6 +951,17 @@ def parse_bundle(bundle):
 
 
 def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
+    """Gleicht den im Bundle zitierten Normtext gegen die geltende Fassung ab.
+
+    SOLL-Quelle ist die **Fedlex-MCP** (`get_article` mit rs_number + article), weil sie
+    amtlich und von opencaselaw unabhängig ist. Dieses Skript spricht den MCP per
+    HTTP-JSON-RPC an und erreicht damit vorerst nur opencaselaw; solange das so ist,
+    ruft die Funktion `get_law` auf und meldet bei der seit 23.08.2026 bestehenden
+    IP-Sperre `nicht_verifizierbar`. Ein Lauf mit dieser Meldung hat den Wortlaut
+    NICHT geprüft — das Ergebnis nie als bestanden werten, sondern den Wortlaut über
+    die Fedlex-MCP von Hand gegenprüfen (oder diese Funktion auf einen Fedlex-Client
+    umstellen; die Fedlex-Schnittstelle kennt keine Sperre).
+    """
     if not zitiert:
         return {"status": "kein_wortlaut_block"}
     args = {"article": article}

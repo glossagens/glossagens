@@ -5,6 +5,10 @@ description: >-
 version: 5.0.0
 author: Hermes Agent
 tools:
+  - mcp__fedlex-connector__get_article
+  - mcp__fedlex-connector__get_law_text
+  - mcp__fedlex-connector__search_by_title
+  - mcp__fedlex-connector__list_amendments
   - mcp_opencaselaw_cite
   - mcp_opencaselaw_get_law
   - mcp_opencaselaw_get_legislation
@@ -189,12 +193,28 @@ Continuously research which topics and decisions are still **missing** from the 
 
 ## 2. GESETZESTEXT — Wortlaut abrufen
 
+> **Quelle: Fedlex zuerst.** Der Normtext kommt aus der Fedlex-MCP —
+> `mcp__fedlex-connector__get_article` (`rs_number`, `article`; `date` für einen
+> historischen Stand), `get_law_text` für ganze Erlasse, `search_by_title` wenn die
+> SR-Nummer unklar ist. `get_law` der opencaselaw-MCP ist **nur Rückfallebene**: bei
+> kantonalem Recht (Fedlex führt nur Bundesrecht) oder wenn Fedlex die Norm nicht
+> liefert. Grund: opencaselaw sperrt den Glossagens-Client seit dem 23.08.2026 per IP
+> (HTTP 403); Fedlex war nie betroffen. Wird der Rückfall benutzt, im Revisionsvermerk
+> festhalten. Für **Entscheide** bleibt opencaselaw bzw. entscheidsuche massgebend.
+
 ```
-mcp_opencaselaw_get_law: { "abbreviation": "{ABBREV}", "article": "Art. {N}", "language": "de" }
+mcp__fedlex-connector__get_article: { "rs_number": "{SRNR}", "article": "{N}", "language": "de" }
 ```
 
-Alternativ:
+Ganzer Erlass bzw. SR-Nummer unbekannt:
 ```
+mcp__fedlex-connector__get_law_text:   { "rs_number": "{SRNR}" }
+mcp__fedlex-connector__search_by_title: { "query": "{Gesetzestitel}" }
+```
+
+Rückfall (nur kantonales Recht oder wenn Fedlex nichts liefert):
+```
+mcp_opencaselaw_get_law: { "abbreviation": "{ABBREV}", "article": "Art. {N}", "language": "de" }
 mcp_opencaselaw_get_legislation: { "query": "Art. {N} {ABBREV} SR {SRNR}" }
 ```
 
@@ -421,14 +441,14 @@ revisions:
 ---
 ```
 
-> **Pflicht — Revisions-Vermerk:** Bei **jeder** Änderung (auch Neuanlage) einen neuen Eintrag **zuoberst** in `revisions:` einfügen: `by` (wer), `model` (welches KI-Modell; `human` bei manueller Bearbeitung), `mcp_verified` (`true` nur, wenn alle Gesetzestexte und Entscheide via opencaselaw-MCP `cite`/`get_law`/`get_erwaegung` geprüft wurden). Ältere Einträge bleiben erhalten. `agent_verified: true` nur, wenn die jüngste Revision `mcp_verified: true` trägt.
+> **Pflicht — Revisions-Vermerk:** Bei **jeder** Änderung (auch Neuanlage) einen neuen Eintrag **zuoberst** in `revisions:` einfügen: `by` (wer), `model` (welches KI-Modell; `human` bei manueller Bearbeitung), `mcp_verified` (`true` nur, wenn alle Gesetzestexte via Fedlex-MCP und alle Entscheide via opencaselaw/entscheidsuche `cite`/`get_erwaegung` geprüft wurden). Ältere Einträge bleiben erhalten. `agent_verified: true` nur, wenn die jüngste Revision `mcp_verified: true` trägt.
 
 ## Inhaltliche Struktur
 
 ```markdown
 ## Gesetzeswortlaut
 
-> {Verbatim statute text from get_law, in blockquote}
+> {Verbatim statute text from mcp__fedlex-connector__get_article, in blockquote}
 
 ## Kommentierung
 
@@ -566,7 +586,7 @@ Paare nochmals — dort mit einem Judge, der den Satz nicht geschrieben hat. Das
 Verfahren fängt trotzdem den grössten Teil ab, weil es die Frage stellt, bevor
 der Satz existiert.
 
-**Wo es nichts bringt**: Für den blossen Gesetzeswortlaut (`get_law`) und für
+**Wo es nichts bringt**: Für den blossen Gesetzeswortlaut (Fedlex `get_article`) und für
 reine Materialienzitate ist die Grounding-Prüfung nicht das Werkzeug — sie prüft
 Entscheide. Für Botschaftsstellen `get_materialien` verwenden und verbatim zitieren.
 
@@ -596,7 +616,7 @@ Vor dem Schreiben ebenfalls:
 
 - **Jede Zitierung** stammt wörtlich aus `citation_string_de` / `markdown_link` einer
   `cite`- oder Such-Antwort. Nie selbst konstruieren, nie aus dem Gedächtnis ergänzen.
-- **Gesetzeswortlaut** verbatim aus `get_law`, mit Konsolidierungsstand.
+- **Gesetzeswortlaut** verbatim aus Fedlex `get_article`, mit Konsolidierungsstand.
 - **Wörtliche Zitate** (≥ 30 Zeichen) nur aus `get_erwaegung` / `get_regeste` — kopiert,
   nicht nachgeschrieben.
 
@@ -665,7 +685,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 **Quellenintegrität:**
 - [ ] Alle citation_strings aus Tool-Ergebnissen — nicht selbst konstruiert?
-- [ ] Gesetzestext verbatim aus `get_law` — nicht aus dem Gedächtnis?
+- [ ] Gesetzestext verbatim aus Fedlex `get_article` — nicht aus dem Gedächtnis?
 - [ ] Direkte Zitate nur aus `get_erwaegung` oder `get_regeste`?
 - [ ] Alle Rechtsquellen (Entscheide, Gesetze, Materialien) auf Originalquelle verlinkt?
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
@@ -691,7 +711,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 `mcp_verified: true` ist **nur** zulässig, wenn kumulativ:
 
-1. Der Gesetzeswortlaut aus `get_law` stammt,
+1. Der Gesetzeswortlaut aus Fedlex `get_article` stammt (Rückfall `get_law` nur bei kantonalem Recht),
 2. jede Zitierung aus einer Tool-Antwort kopiert ist,
 3. jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext beurteilt wurde
    (D.1), und
@@ -778,7 +798,8 @@ zusätzlich `/audit {gesetz} art-{NNN}` laufen lassen.
 
 | Call | Beschreibung | Typischer Einsatz |
 |------|-------------|-------------------|
-| `get_law` | Gesetzestext verbatim | Immer als erstes |
+| `mcp__fedlex-connector__get_article` | Gesetzestext verbatim | **Immer als erstes** |
+| `get_law` (opencaselaw) | Gesetzestext verbatim | Nur Rückfall: kantonales Recht / Fedlex führt die Norm nicht |
 | `find_leading_cases` | Leitentscheide zu einer Norm | Erstrecherche |
 | `find_citations` | Entscheide die Art. zitieren | Breite Abdeckung |
 | `search_decisions` | Volltextsuche | Thematische Suche |
@@ -857,6 +878,7 @@ Rerank sind kleine LLM-Aufrufe).
 - **`mcp_verified: true` als Gütesiegel**: Es ist eine Tatsachenbehauptung über den
   Prüfvorgang (Teil D.5). Falsch gesetzt, richtet es mehr Schaden an als weggelassen —
   `/audit` und die PR-Verifikation vertrauen darauf
-- **get_law**: Braucht `abbreviation`, nicht SR-Nummer (obwohl beides funktioniert)
+- **Fedlex `get_article`**: Braucht `rs_number` (SR-Nummer), nicht die Abkürzung
+- **get_law** (Rückfall): Braucht `abbreviation`, nicht SR-Nummer (obwohl beides funktioniert)
 - **StPO vs. StGB**: Nachfragen wenn unklar, beide beginnen mit «St»
 - **Remote divergence**: Vor Push immer `git pull --rebase` wenn abgelehnt

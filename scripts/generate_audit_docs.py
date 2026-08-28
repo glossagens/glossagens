@@ -77,7 +77,7 @@ def main():
     lines.append(f"# Audit-Bericht: {gesetz_upper} ({gesetz_full})\n")
     lines.append(f"*Erstellt am: {date_str}*  ")
     lines.append(f"*Geprüfte Bundles: {total_articles} Artikel*  ")
-    lines.append(f"*Prüfbasis: opencaselaw-MCP & Fedlex (Stufen 0–6)*\n")
+    lines.append(f"*Prüfbasis: Fedlex-MCP (Gesetzeswortlaute, Stufe 1) und opencaselaw/entscheidsuche (Entscheide, Stufen 2–6)*\n")
     lines.append("---\n")
     lines.append("## 1. Gesamtergebnis & Kennzahlen\n")
     lines.append("| Kennzahl | Wert |")

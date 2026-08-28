@@ -10,6 +10,10 @@ version: 1.0.0
 author: Hermes Agent
 license: MIT
 tools:
+  - mcp__fedlex-connector__get_article
+  - mcp__fedlex-connector__get_law_text
+  - mcp__fedlex-connector__get_article
+  - mcp__fedlex-connector__search_by_title
   - mcp_opencaselaw_get_law
   - mcp_opencaselaw_search_laws
 metadata:
@@ -24,8 +28,17 @@ metadata:
 Dieser Skill prüft, ob die in den Glossagens-Kommentaren zitierten **Gesetzeswortlaute**
 tatsächlich korrekt und aktuell sind oder ob sie veraltet, falsch (andere Norm/anderes
 Gesetz) oder halluziniert sind. Er gleicht jeden zitierten Text mit dem authentischen,
-konsolidierten Fedlex-Text ab (`get_law`) und behebt Befunde nach einem festen
-Autonomie-Vertrag.
+konsolidierten Fedlex-Text ab und behebt Befunde nach einem festen Autonomie-Vertrag.
+
+> **Quelle: Fedlex zuerst.** Der Normtext kommt aus der Fedlex-MCP —
+> `mcp__fedlex-connector__get_article` (`rs_number`, `article`; `date` für einen
+> historischen Stand), `get_law_text` für ganze Erlasse, `search_by_title` wenn die
+> SR-Nummer unklar ist. `get_law` der opencaselaw-MCP ist **nur Rückfallebene**: bei
+> kantonalem Recht (Fedlex führt nur Bundesrecht) oder wenn Fedlex die Norm nicht
+> liefert. Grund: opencaselaw sperrt den Glossagens-Client seit dem 23.08.2026 per IP
+> (HTTP 403); Fedlex war nie betroffen. Wird der Rückfall benutzt, im Revisionsvermerk
+> festhalten. Für **Entscheide** bleibt opencaselaw bzw. entscheidsuche massgebend.
+
 
 ## Geltungsbereich
 
@@ -60,7 +73,7 @@ Das andere Skill `gesetzeskommentar-workflows` arbeitet auf dem Flat-File-Arbeit
 | Artikel/Bundle **löschen** + Tabellenzeile entfernen | ⛔ erst nach Bestätigung |
 | `agent_verified` auf `true` setzen | ⛔ nur wenn explizit verlangt |
 
-Sichere Fixes betreffen ausschliesslich den **wörtlich aus `get_law` übernommenen Text**
+Sichere Fixes betreffen ausschliesslich den **wörtlich aus Fedlex übernommenen Text**
 und faktisch belegbare Labels. Alles, was inhaltliche Wertung erfordert, wird nur
 **vorgeschlagen** und nach Freigabe ausgeführt.
 
@@ -92,10 +105,12 @@ prüfen — ohne wörtliche Belegstelle kein Beleg. Regeln dazu in
 ## ANTI-HALLUZINATIONS-REGELN
 
 1. **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben. Jeder Ersatztext stammt
-   wörtlich aus dem `text`-Feld von `mcp_opencaselaw_get_law`.
-2. Im Bericht stets das **Konsolidierungsdatum** aus der `get_law`-Antwort nennen
+   wörtlich aus der Antwort von `mcp__fedlex-connector__get_article` — ersatzweise, bei
+   kantonalem Recht oder wenn Fedlex nichts liefert, aus dem `text`-Feld von
+   `mcp_opencaselaw_get_law`.
+2. Im Bericht stets das **Konsolidierungsdatum** aus der Fedlex-Antwort nennen
    (z.B. „Stand 2026-01-01").
-3. Findet `get_law` einen Artikel nicht (z.B. SR-Nr./Abkürzung unklar), zuerst
+3. Findet Fedlex einen Artikel nicht (z.B. SR-Nr. unklar), zuerst
    `search_laws` zur Klärung; im Zweifel als „nicht verifizierbar" melden, **nicht** raten.
 4. Keine neuen Urteils-/Literaturzitate in Korrekturen erfinden; bei inhaltlichen
    Überarbeitungen nur belegbare Verweise verwenden.
@@ -145,7 +160,7 @@ for d in art-*/; do
 done
 ```
 
-## Schritt 3 — ARTIKELNUMMER → `get_law`-PARAMETER
+## Schritt 3 — ARTIKELNUMMER → FEDLEX-PARAMETER
 
 Aus dem Verzeichnisnamen `art-{nr}` den `article`-Parameter bilden:
 - führendes `art-` entfernen, führende Nullen des Zahlteils streichen, Buchstabensuffix behalten.
@@ -154,7 +169,8 @@ Aus dem Verzeichnisnamen `art-{nr}` den `article`-Parameter bilden:
 
 ## Schritt 4 — VERIFIZIEREN
 
-Für jeden Artikel `mcp_opencaselaw_get_law` mit `{ abbreviation: "{GESETZ}", article: "{nr}" }`
+Für jeden Artikel `mcp__fedlex-connector__get_article` mit `{ rs_number: "{SRNR}", article: "{nr}" }`
+(Rückfall bei kantonalem Recht: `mcp_opencaselaw_get_law` mit `{ abbreviation: "{GESETZ}", article: "{nr}" }`)
 aufrufen (parallele Aufrufe in Batches von ~6–8 sind effizient). Den zurückgegebenen Text
 **Absatz für Absatz** mit dem zitierten Wortlaut vergleichen und klassifizieren:
 
@@ -167,7 +183,7 @@ aufrufen (parallele Aufrufe in Batches von ~6–8 sind effizient). Den zurückge
 | 🔴 HALLUZINIERT | Absätze/Sätze, die im Gesetz nicht existieren |
 
 **Hinweise**
-- Aufgehobene Absätze: `get_law` zeigt sie als „… Aufgehoben durch …". Zitiert ein
+- Aufgehobene Absätze: Fedlex zeigt sie als „… Aufgehoben durch …". Zitiert ein
   Kommentar Inhalt für einen aufgehobenen Absatz → 🔴.
 - Revisionen prüfen: Wenn der Kommentar vorgibt, die geltende Fassung zu behandeln, der
   Text aber einer früheren entspricht → 🟠 (z.B. Sexualstrafrecht seit 1.7.2024).
@@ -184,7 +200,7 @@ Den Kommentar-Fliesstext lesen und beurteilen, ob er die **richtige** Norm behan
 
 ## Schritt 6 — SICHERE FIXES ANWENDEN (ohne Rückfrage)
 
-1. **Wortlaut ersetzen**: Den zitierten Block durch den verifizierten `get_law`-Text
+1. **Wortlaut ersetzen**: Den zitierten Block durch den verifizierten Fedlex-Text
    ersetzen. Formatierung des Bundles beibehalten (Blockquote `>`, Absatznummerierung
    `1`, `2`, … wie im Bestand). Fedlex-Quellenfussnoten (`Fassung gemäss …`) dürfen
    gekürzt werden, der **normative Satz** muss wörtlich stimmen.
@@ -199,10 +215,10 @@ Den Kommentar-Fliesstext lesen und beurteilen, ob er die **richtige** Norm behan
      - date: {heute}
        by: "Claude Code"
        model: "{exakte Modell-ID, z. B. claude-opus-4-8}"
-       mcp_verified: true          # Wortlaut/Entscheide wurden per opencaselaw-MCP (get_law/cite) geprüft
+       mcp_verified: true          # Wortlaut via Fedlex-MCP geprüft (Entscheide: opencaselaw/entscheidsuche)
        note: "Lint: Wortlaut gegen Fedlex verifiziert / Labels korrigiert"
    ```
-   `mcp_verified: true` ist hier zulässig, weil der Lint jeden Ersatztext aus `get_law`
+   `mcp_verified: true` ist hier zulässig, weil der Lint jeden Ersatztext aus Fedlex
    bezieht. Ältere Einträge unverändert erhalten.
 
 ## Schritt 7 — BESTÄTIGUNGSPFLICHTIGES VORSCHLAGEN
@@ -248,10 +264,12 @@ Commit/Push nur, wenn der Benutzer es verlangt (Projektkonvention: direkter Comm
 
 | Call | Einsatz |
 |------|---------|
-| `mcp_opencaselaw_get_law` | Autoritativer Artikel-Wortlaut (`abbreviation`+`article`); liefert Konsolidierungsdatum |
-| `mcp_opencaselaw_search_laws` | Abkürzung/SR-Nummer klären, falls `get_law` nicht greift |
+| `mcp__fedlex-connector__get_article` | **Primär.** Amtlicher Artikel-Wortlaut (`rs_number`+`article`); liefert das Konsolidierungsdatum |
+| `mcp__fedlex-connector__search_by_title` | SR-Nummer klären, wenn sie unbekannt ist |
+| `mcp_opencaselaw_get_law` | **Nur Rückfall** — kantonales Recht oder wenn Fedlex die Norm nicht führt |
+| `mcp_opencaselaw_search_laws` | Rückfall, um Abkürzung/SR-Nummer zu klären |
 
-**Effizienz**: `get_law`-Aufrufe parallel batchen. Bei Gesamt-Lint zuerst alle Wortlaute
+**Effizienz**: Fedlex-Aufrufe parallel batchen. Bei Gesamt-Lint zuerst alle Wortlaute
 extrahieren, dann in Batches verifizieren, dann Fixes bündeln.
 
 **Schweizer Rechtschreibung** in allen Ausgaben (kein Eszett).
