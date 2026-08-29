@@ -1,5 +1,6 @@
 ---
 title: "Art. 1 OHG — Grundsätze"
+date: 2026-05-30
 gesetz: OHG
 artikel: "1"
 sr_number: "312.5"

@@ -1,5 +1,6 @@
 ---
 title: "Art. 48 OHG — Übergangsbestimmungen"
+date: 2026-05-30
 gesetz: OHG
 artikel: "48"
 sr_number: "312.5"

@@ -1,5 +1,6 @@
 ---
 title: "Art. 55 OR – Geschäftsherrenhaftung"
+date: 2026-08-20
 law_code: OR
 article_number: 55
 slug: art-055

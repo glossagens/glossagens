@@ -3,6 +3,28 @@ locale = "de-CH"
 title = "Glossagens"
 theme = "hextra"
 
+# Liest die Git-Historie ein und speist daraus `lastmod` (Hugo setzt die Kette
+# dann auf [':git', 'lastmod', 'date', ':fileModTime', ':default'] — Git gewinnt
+# also über das Frontmatter). Grund: Am 29.08.2026 trugen 75 von 587 Artikeln ein
+# veraltetes `lastmod` und 4 gar keines, ausnahmslos zu alt — nie zu neu. Es ist
+# der klassische vergessene Bump, und er kommt wieder: Commit 96b1c65 hat am
+# 17.08.2026 schon einmal 162 Dateien von Hand nachgeführt, zwölf Tage später
+# waren es erneut 75. Die Startseite meldete deshalb Artikel als unverändert,
+# an denen gearbeitet worden war.
+#
+# Kostet einen einzigen `git log`-Lauf beim Build-Start (~0.36 s, Build 2.65 s →
+# 3.00 s), nicht einen Aufruf pro Datei. Setzt die volle Historie voraus —
+# `deploy.yml` checkt mit `fetch-depth: 0` aus. Bei einem flachen Klon fehlt die
+# GitInfo und Hugo fällt auf das Frontmatter zurück, also auf den Stand von vor
+# dieser Änderung; der Build bricht nicht ab.
+#
+# `date` bleibt bewusst beim Frontmatter: Git kennt nur die erste Anlage der
+# Datei, und bei 71 Artikeln steht dort absichtlich ein späteres Datum, weil
+# zuerst ein Stub lag und der Kommentar später kam (stpo/art-324: im Repo seit
+# 09.05., `date: 2026-07-10`). Das ist eine redaktionelle Aussage, die Git nicht
+# treffen kann.
+enableGitInfo = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

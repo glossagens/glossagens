@@ -1,9 +1,19 @@
 {{- /*
   Startseiten-Übersicht für die rechte Sidebar: kürzlich geänderte und neu
-  erstellte Artikel über alle Gesetze hinweg, aus `date`/`lastmod` im
-  Artikel-Frontmatter. Ein Artikel, der seit der Erstellung nicht revidiert
-  wurde (lastmod == date), erscheint nur unter „Neueste Artikel", nicht
-  zusätzlich unter „Kürzlich geändert".
+  erstellte Artikel über alle Gesetze hinweg. Ein Artikel, der seit der
+  Erstellung nicht revidiert wurde, erscheint nur unter „Neueste Artikel",
+  nicht zusätzlich unter „Kürzlich geändert".
+
+  Die beiden Spalten haben verschiedene Quellen:
+
+  - „Kürzlich geändert" kommt aus der Git-Historie (`enableGitInfo` in
+    hugo.toml, Begründung dort). Massgebend ist das Maximum über das ganze
+    Page Bundle, nicht nur `_index.md`: Wer eine Kasuistik in
+    `rechtsprechung.md` oder `strafzumessung.md` nachträgt, hat am Artikel
+    gearbeitet. bv/art-009 etwa stand auf 14.08.2026, während die
+    Rechtsprechungsseite am 17.08. überarbeitet wurde.
+  - „Neueste Artikel" kommt weiterhin aus `date` im Frontmatter. Git kennt nur
+    die erste Anlage der Datei; wo zuerst ein Stub lag, wäre das irreführend.
 */ -}}
 
 {{- $anzahl := 5 -}}
@@ -11,12 +21,16 @@
 {{- range .Sections -}}
   {{- $gesetz := . -}}
   {{- range where $gesetz.Sections "Kind" "section" -}}
+    {{- $geaendert := .Lastmod -}}
+    {{- range .Pages -}}
+      {{- if .Lastmod.After $geaendert -}}{{- $geaendert = .Lastmod -}}{{- end -}}
+    {{- end -}}
     {{- $artikel = $artikel | append (dict
       "page" .
       "gesetz" $gesetz
       "datum" .Date
-      "geaendert" .Lastmod
-      "revidiert" (not (.Date.Equal .Lastmod))
+      "geaendert" $geaendert
+      "revidiert" (not (.Date.Equal $geaendert))
     ) -}}
   {{- end -}}
 {{- end -}}

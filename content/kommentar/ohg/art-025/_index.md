@@ -1,5 +1,6 @@
 ---
 title: "Art. 25 OHG — Fristen"
+date: 2026-05-30
 gesetz: OHG
 artikel: "25"
 sr_number: "312.5"
