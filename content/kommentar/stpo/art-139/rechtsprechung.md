@@ -8,6 +8,11 @@ tags: ["Rechtsprechung", "StPO", "Beweisrecht", "Wahrheitsfindung", "antizipiert
 agent_verified: true
 revisions:
   - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit: Belegapparat und Links gegen entscheidsuche verifiziert; Datum 6B_1397/2022 korrigiert; URLs 6B_323/2013 und 6B_615/2024 korrigiert; fehlende Urteils-Links ergänzt."
+  - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
     mcp_verified: true
@@ -121,7 +126,7 @@ Konkreter Fall: Beschuldigter verlangte Sachverständigengutachten zur Sichtbark
 Die Rüge unzulässiger antizipierter Beweiswürdigung prüft das Bundesgericht nur unter dem Aspekt der Willkür (Art. 9 BV, Art. 97 Abs. 1 BGG). Konkreter Fall: Beschuldigter rügt unzulässige antizipierte BW und Verletzung des rechtlichen Gehörs; BGer verneint Willkür, da die Vorinstanz die Überzeugung willkürfrei gebildet hatte und in willkürfreier antizipierter BW annehmen durfte, dass die beantragten Zeugen die Überzeugung nicht erschüttern würden.
 → [E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-900-2017_2018-02-14.html#consideration_1.2)
 
-### BGer 6B_1397/2022 — 24. Mai 2023
+### BGer 6B_1397/2022 — 8. Februar 2023
 
 **Antizipierte Beweiswürdigung bei Veruntreuung**
 
@@ -151,11 +156,12 @@ Der Beweisantrag muss das Beweisthema, das Beweismittel und die zu beweisende Ta
 **Kantonale Geoportale als gerichtskundig**
 
 Über das kantonale Geoportal «GéoPortail Jura» frei zugängliche Grundbuch- und Eigentumsdaten weisen offiziellen Anstrich auf, stammen aus nicht-streitigen Quellen (Grundbuch, Art. 970 Abs. 2 ZGB) und können als gerichtskundig i.S.v. Art. 139 Abs. 2 StPO qualifiziert werden. Konfrontation entbehrlich, soweit Beschwerdeführer selbst entsprechende Auszüge ins Verfahren eingebracht hatte.
-→ [E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-615-2024_2026-04-10.html#consideration_2.4)
+→ [E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-615-2024_2026-04-20.html#consideration_2.4)
 
 ### BGer 6B_725/2024 — 13. Januar 2026
 
 Bestätigung: Kantonale Geoportal-Daten gerichtskundig.
+→ [E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-725-2024_2026-01-13.html#consideration_2)
 
 ---
 
@@ -184,13 +190,14 @@ Beweisanträge dürfen nur in den engen Grenzen von Art. 139 Abs. 2 StPO abgewie
 **Polizeirapport als Beweismittel**
 
 Der Polizeirapport ist ein zulässiges Beweismittel i.S.v. Art. 139 Abs. 1 StPO i.V.m. Art. 100 Abs. 1 lit. b StPO. Konfrontationsrecht (Art. 6 Ziff. 3 lit. d EMRK) zu beachten.
+→ [E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1057-2013_2014-05-19.html#consideration_2.3)
 
 ### BGer 6B_323/2013 — 3. Juni 2013
 
 **Kein staatliches Beweismonopol**
 
 Art. 139 Abs. 1 StPO begründet kein staatliches Monopol auf Beweiserhebungen. Private Parteien dürfen entlastendes Material selbst sammeln und dem Verfahren zuführen.
-→ [E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-323-2013_2014-04-10.html#consideration_3.3)
+→ [E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-323-2013_2013-06-03.html#consideration_3.3)
 
 ---
 
@@ -200,7 +207,7 @@ Art. 139 Abs. 1 StPO begründet kein staatliches Monopol auf Beweiserhebungen. P
 
 **In-dubio pro reo als Beweiswürdigungsregel**
 
-Dem Grundsatz *in dubio pro reo* kommt in seiner Funktion als Beweiswürdigungsregel im Verfahren vor dem Bundesgericht keine über das Willkürverbot von Art. 9 BV hinausgehende Bedeutung zu (BGE 146 IV 88 E. 1.3.1; 143 IV 500 E. 1.1).
+Dem Grundsatz *in dubio pro reo* kommt in seiner Funktion als Beweiswürdigungsregel im Verfahren vor dem Bundesgericht keine über das Willkürverbot von Art. 9 BV hinausgehende Bedeutung zu ([BGE 146 IV 88 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-88_2020.html#consideration_1.3.1); 143 IV 500 E. 1.1).
 → [E. 2.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-200-2022_2023-11-09.html#consideration_2.2.1)
 
 ---
@@ -215,6 +222,7 @@ Art. 139 Abs. 1 StPO i.V.m. Art. 182 StPO: Psychiatrische Begutachtung erfordert
 ### BGer 6B_1251/2014 — 1. Juni 2015
 
 Direkte Anwendung von Art. 139 StPO auf Sachverständigenbeweis bei Sexualdelikten.
+→ [E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1251-2014_2015-06-01.html#consideration_1.3)
 
 ---
 
@@ -230,6 +238,7 @@ Art. 140/141 StPO: Beweiserhebungs- und Beweisverwertungsverbote bei Privaterheb
 **Verwertbarkeit rechtswidrig erhobener Beweise (AFV)**
 
 Mangels hinreichend bestimmter gesetzlicher Grundlage rechtswidrig erhobene Beweismittel (automatische Fahrzeugfahndung) sind nach Art. 141 Abs. 2 StPO auf Verwertbarkeit zu prüfen. Verwertbarkeit im konkreten Fall verneint. Zeigt die Schnittstelle zwischen Art. 139 Abs. 1 (rechtliche Zulässigkeit) und Art. 141 StPO (Verwertungsverbote).
+→ [E. 4.1–4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146-I-11_2020.html#consideration_4.1)
 
 ---
 

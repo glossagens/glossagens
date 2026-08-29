@@ -8,6 +8,11 @@ tags: ["StPO", "Beweisrecht", "Beweismittel", "Wahrheitsfindung", "antizipierte 
 agent_verified: true
 revisions:
   - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Audit: Belegapparat und Gesetzeswortlaut gegen Fedlex und entscheidsuche verifiziert; URLs zu 6B_323/2013 und 6B_615/2024 korrigiert; BGE-Links ergänzt."
+  - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
     mcp_verified: true
@@ -38,7 +43,7 @@ revisions:
 
 **Rz. 1** Art. 139 StPO formuliert die Grundsätze der Beweiserhebung im Strafverfahren und hat zugleich zentrale Bedeutung als Schranke: Abs. 1 verpflichtet die Strafbehörden zur umfassenden Sachaufklärung, Abs. 2 erlaubt den Verzicht auf Beweiserhebung in bestimmten Konstellationen. Die Bestimmung steht im Spannungsverhältnis zwischen dem Untersuchungsgrundsatz (Art. 6 StPO) und der Verfahrensökonomie und ist zusammen mit Art. 10 StPO (freie Beweiswürdigung, Unschuldsvermutung) sowie Art. 318 Abs. 2 StPO (Beweisanträge im Untersuchungsverfahren) zu lesen.
 
-**Rz. 2** Die Regelung kodifiziert in Abs. 2 Massstäbe, die das Bundesgericht bereits vor Inkrafttreten der StPO aus Art. 29 Abs. 2 BV abgeleitet hatte (BGE 136 I 229 E. 5.3; [6B_899/2014 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-899-2014_2015-05-07.html)). Seit dem 1. Januar 2011 haben diese Grundsätze eine ausdrückliche gesetzliche Grundlage. Die vier Tatbestandsvarianten des Abs. 2 sind abschliessend; ein Beweisverzicht aus anderen Gründen ist nicht zulässig ([6B_110/2020 E. 1.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-110-2020_2020-10-01.html); [6B_764/2013 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-764-2013_2014-05-26.html)).
+**Rz. 2** Die Regelung kodifiziert in Abs. 2 Massstäbe, die das Bundesgericht bereits vor Inkrafttreten der StPO aus Art. 29 Abs. 2 BV abgeleitet hatte ([BGE 136 I 229 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html#consideration_5.3); [6B_899/2014 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-899-2014_2015-05-07.html)). Seit dem 1. Januar 2011 haben diese Grundsätze eine ausdrückliche gesetzliche Grundlage. Die vier Tatbestandsvarianten des Abs. 2 sind abschliessend; ein Beweisverzicht aus anderen Gründen ist nicht zulässig ([6B_110/2020 E. 1.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-110-2020_2020-10-01.html); [6B_764/2013 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-764-2013_2014-05-26.html)).
 
 ### II. Abs. 1: Wahrheitsfindungspflicht und Beweismittel
 
@@ -54,7 +59,7 @@ revisions:
 - **Zeugenbeweis**: Auch bei widersprüchlichen Zeugenaussagen ist die Einvernahme entlastender Zeugen grundsätzlich geboten, sofern die Aussage nicht von vornherein offensichtlich ungeeignet ist ([6B_574/2021 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-574-2021_2021-11-22.html)).
 - **Neue Beweismittel**: Technologische Entwicklungen (DNA-Analysen, digitale Beweisauswertung) sind einzubeziehen, sobald sie wissenschaftlich anerkannt sind.
 
-**Rz. 5** Die rechtliche Zulässigkeit begrenzt die Wahrheitsfindung: Beweismittel, die unter Verletzung von Art. 140 StPO erhoben wurden (z. B. Folter, narkotische Einvernahme), dürfen nicht eingesetzt werden. Die Verwertbarkeit rechtswidrig erhobener Beweise richtet sich nach Art. 141 StPO (dazu BGE 146 I 11; [6B_893/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-893-2015_2016-06-14.html)). Art. 139 Abs. 1 StPO begründet dabei kein staatliches Monopol auf Beweiserhebungen — Private dürfen entlastendes Material selbst sammeln und dem Verfahren zuführen ([6B_323/2013 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-323-2013_2014-04-10.html)).
+**Rz. 5** Die rechtliche Zulässigkeit begrenzt die Wahrheitsfindung: Beweismittel, die unter Verletzung von Art. 140 StPO erhoben wurden (z. B. Folter, narkotische Einvernahme), dürfen nicht eingesetzt werden. Die Verwertbarkeit rechtswidrig erhobener Beweise richtet sich nach Art. 141 StPO (dazu [BGE 146 I 11](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146-I-11_2020.html); [6B_893/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-893-2015_2016-06-14.html)). Art. 139 Abs. 1 StPO begründet dabei kein staatliches Monopol auf Beweiserhebungen — Private dürfen entlastendes Material selbst sammeln und dem Verfahren zuführen ([6B_323/2013 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-323-2013_2013-06-03.html)).
 
 ### III. Abs. 2: Verzicht auf Beweiserhebung
 
@@ -71,10 +76,10 @@ revisions:
 
 #### 2. Offenkundige Tatsachen
 
-**Rz. 9** Offenkundig (auch: gerichtskundig) sind Tatsachen, die allgemein bekannt sind oder die das entscheidende Gericht aus eigener, zuverlässiger Kenntnis weiss. Die Offenkundigkeit ist mit Zurückhaltung zu bejahen, da sie eine Ausnahme vom Beweisführungsgrundsatz darstellt (BGE 143 IV 380 E. 1.2).
+**Rz. 9** Offenkundig (auch: gerichtskundig) sind Tatsachen, die allgemein bekannt sind oder die das entscheidende Gericht aus eigener, zuverlässiger Kenntnis weiss. Die Offenkundigkeit ist mit Zurückhaltung zu bejahen, da sie eine Ausnahme vom Beweisführungsgrundsatz darstellt ([BGE 143 IV 380 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-380_2017.html)).
 
-- **Gerichtskundigkeit im Internet**: BGE 143 IV 380 präzisierte, dass als «der Strafbehörde bekannt» i.S.v. Art. 139 Abs. 2 StPO im Internet grundsätzlich nur Informationen gelten, denen aufgrund ihrer leichten Zugänglichkeit und verlässlichen Quellen ein offizieller Anstrich anhaftet — etwa Bundesamt für Statistik, Handelsregister, Wechselkurse, SBB-Fahrplan. Wiktionnaire-Definitionen allein genügen nicht (BGE 143 IV 380 E. 1.2).
-- **Kantonale Geoportale**: [6B_615/2024 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-615-2024_2026-04-10.html) qualifizierte Grundbuch- und Eigentumsdaten aus dem kantonalen Geoportal «GéoPortail Jura» als gerichtskundig, da sie frei zugänglich sind, offiziellen Anstrich aufweisen und aus nicht-streitigen Quellen (Grundbuch, Art. 970 Abs. 2 ZGB) stammen.
+- **Gerichtskundigkeit im Internet**: BGE 143 IV 380 präzisierte, dass als «der Strafbehörde bekannt» i.S.v. Art. 139 Abs. 2 StPO im Internet grundsätzlich nur Informationen gelten, denen aufgrund ihrer leichten Zugänglichkeit und verlässlichen Quellen ein offizieller Anstrich anhaftet — etwa Bundesamt für Statistik, Handelsregister, Wechselkurse, SBB-Fahrplan. Wiktionnaire-Definitionen allein genügen nicht ([BGE 143 IV 380 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-380_2017.html)).
+- **Kantonale Geoportale**: [6B_615/2024 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-615-2024_2026-04-20.html) qualifizierte Grundbuch- und Eigentumsdaten aus dem kantonalen Geoportal «GéoPortail Jura» als gerichtskundig, da sie frei zugänglich sind, offiziellen Anstrich aufweisen und aus nicht-streitigen Quellen (Grundbuch, Art. 970 Abs. 2 ZGB) stammen.
 - **Allgemeinbekanntheit**: Dass die Sonne im Osten aufgeht, dass Wasser bei 100 °C kocht, dass der 1. August der Nationalfeiertag der Schweiz ist — solche Tatsachen sind offenkundig und bedürfen keines Beweises.
 
 **Rz. 10** Nicht offenkundig sind hingegen Tatsachen, die zwar in bestimmten Fachkreisen bekannt sind, aber nicht zum allgemeinen Erfahrungswissen gehören. Auch Internet-Rechercheergebnisse ohne verlässliche Quelle erfüllen die Offenkundigkeit nicht (BGE 143 IV 380). Wird eine offenkundige Tatsache bestritten, so ist sie dennoch beweiserheblich und kann nicht mehr als offenkundig behandelt werden.
@@ -100,7 +105,7 @@ Die Konstellation ist eng verwandt mit der Gerichtskundigkeit, erfasst aber Fäl
 3. **Begründungspflicht**: Lehnt die Strafbehörde einen Beweisantrag ab, hat sie nicht nur darzulegen, weshalb sie aufgrund der bereits abgenommenen Beweise eine bestimmte Überzeugung gewonnen hat, sondern auch, weshalb die beantragte Beweismassnahme aus ihrer Sicht nichts an ihrer Überzeugung zu ändern vermag ([6B_110/2020 E. 1.1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-110-2020_2020-10-01.html); [6B_574/2021 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer/CH_BGer_006_6B-574-2021_2021-11-22.html)).
 4. **Implizite Begründung genügt**: Die Begründung kann implizit erfolgen und sich aus verschiedenen Erwägungen des angefochtenen Entscheids ergeben. Es muss nicht ausdrücklich auf Art. 139 Abs. 2 StPO verwiesen werden ([7B_186/2022 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-186-2022_2023-08-14.html)).
 
-**Rz. 15** **Willkürprüfung**: Die Rüge unzulässiger antizipierter Beweiswürdigung prüft das Bundesgericht nur unter dem Aspekt der Willkür (Art. 9 BV, Art. 97 Abs. 1 BGG). Dies bedeutet, dass die Beweiswürdigung nur dann aufgehoben wird, wenn sie schlechterdings unhaltbar ist — nicht schon dann, wenn eine andere Lösung ebenfalls möglich erscheint (BGE 146 IV 88 E. 1.3.1; [6B_1395/2020 E. 1.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1395-2020_2021-03-22.html); [6B_900/2017 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-900-2017_2018-02-14.html)).
+**Rz. 15** **Willkürprüfung**: Die Rüge unzulässiger antizipierter Beweiswürdigung prüft das Bundesgericht nur unter dem Aspekt der Willkür (Art. 9 BV, Art. 97 Abs. 1 BGG). Dies bedeutet, dass die Beweiswürdigung nur dann aufgehoben wird, wenn sie schlechterdings unhaltbar ist — nicht schon dann, wenn eine andere Lösung ebenfalls möglich erscheint ([BGE 146 IV 88 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-88_2020.html#consideration_1.3.1); [6B_1395/2020 E. 1.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1395-2020_2021-03-22.html); [6B_900/2017 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-900-2017_2018-02-14.html)).
 
 ### V. Praxisfälle
 
