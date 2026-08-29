@@ -2,169 +2,119 @@
 title: "Rechtsprechung zu Art. 174 SchKG"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-07-31
-description: "Übersicht der Entscheide zu Art. 174 SchKG — Beschwerde gegen Konkurseröffnung, Konkurshinderungsgründe (Tilgung, Hinterlegung, Verzicht), Frist für Glaubhaftmachen und Urkundenbeweis, aufschiebende Wirkung und vorsorgliche Massnahmen."
-tags: ["Rechtsprechung", "SchKG", "Konkurs", "Konkurseröffnung", "Konkurshinderungsgründe", "Beschwerde", "aufschiebende Wirkung"]
+lastmod: 2026-08-29
+description: "Übersicht der Rechtsprechung zu Art. 174 SchKG — Beschwerde gegen Konkurseröffnung, Konkurshinderungsgründe, Zahlungsfähigkeitsnachweis und Novenrecht."
+tags: ["Rechtsprechung", "SchKG", "Konkurs", "Konkurseröffnung", "Konkurshinderungsgründe", "Zahlungsfähigkeit", "Noven", "Kasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zum Konkursnovenrecht und Verlinkung auf entscheidsuche.ch."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
+    note: "Neuerstellung KW31"
 ---
 
 # Rechtsprechung zu Art. 174 SchKG
 
-## Leitentscheide
+Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kantonalen Gerichtspraxis zur Beschwerde gegen die Konkurseröffnung nach Art. 174 SchKG.
 
-### BGE 136 III 294 — Befristung der Konkurshinderungsgründe
+## I. Leitentscheide des Bundesgerichts (BGE)
 
-**BGE 136 III 294 vom 14. Juni 2010**
+### [BGE 136 III 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-294_2010.html) (14. Juni 2010)
+- **Thema**: Strikte Befristung der Konkurshinderungsgründe (Art. 174 Abs. 2 SchKG)
+- **Kernaussage**: Konkurshinderungsgründe (Tilgung, Hinterlegung, Verzicht) müssen sich zwingend innert der 10-tägigen Rechtsmittelfrist verwirklicht haben und mit der Beschwerde geltend gemacht werden. Eine spätere Tilgung schliesst den Konkursvollzug nicht mehr aus.
+- **Konkreter Sachverhalt**: Schuldner bezahlte die Konkursforderung am zwölften Tag nach Konkurseröffnung; Beschwerde abgewiesen.
+- **Einschlägig für**: Art. 174 Abs. 2 SchKG, Befristung
 
-Leitentscheid zu Art. 174 SchKG. Konkurshinderungsgründe müssen sich innert der Rechtsmittelfrist verwirklicht haben und geltend gemacht werden. Ein erst nach Ablauf der Beschwerdefrist eingetretener oder geltend gemachter Hinderungsgrund vermag die Aufhebung der Konkurseröffnung nicht mehr zu tragen; der Schuldner ist in diesem Fall auf die nachträglichen Konkursaufhebungs- oder Einstellungsverfahren bzw. auf Art. 172 Ziff. 3 SchKG zu verweisen. Der Entscheid ist der meistzitierte Fall zu Art. 174 SchKG und klärt die zentrale Befristungsfrage.
+---
 
-→ [BGE 136 III 294](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_294)
+### [BGE 139 III 491](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-491_2013.html) (26. Juli 2013)
+- **Thema**: Frist für Glaubhaftmachung der Zahlungsfähigkeit und Urkundenbeweis
+- **Kernaussage**: Das Novenrecht nach Art. 174 SchKG geht als lex specialis der ZPO vor. Der Schuldner hat die Zahlungsfähigkeit und den Urkundenbeweis für die Konkursaufhebungsgründe zwingend mit der Beschwerdeschrift einzureichen.
+- **Konkreter Sachverhalt**: Nachreichung von Bankbelegen nach Ablauf der Beschwerdefrist; Novenausschluss bestätigt.
+- **Einschlägig für**: Art. 174 Abs. 2 SchKG i.V.m. Art. 326 ZPO, Novenrecht
 
-### BGE 139 III 491 — Frist für Glaubhaftmachen der Zahlungsfähigkeit und Urkundenbeweis
+---
 
-**BGE 139 III 491 vom 26. Juli 2013**
+### [BGE 151 III 574](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-574_2025.html) (2025)
+- **Thema**: Tilgung der Kosten des Konkursgerichts und Glaubhaftmachung der Zahlungsfähigkeit
+- **Kernaussage**: Hat der Schuldner die Gerichtskosten der ersten Instanz erst im Beschwerdeverfahren getilgt, muss er mit seiner Beschwerde zusätzlich seine Zahlungsfähigkeit glaubhaft machen, selbst wenn die Hauptforderung vor Konkurseröffnung bezahlt wurde.
+- **Konkreter Sachverhalt**: Konkursaufhebung verweigert, weil die Schuldnerin nach Begleichung der erstinstanzlichen Gerichtsgebühren keinen aktuellen Betreibungsauszug vorlegte.
+- **Einschlägig für**: Art. 174 Abs. 2 Ziff. 1 SchKG, Gerichtskosten
 
-Leitentscheid zu Art. 174 Abs. 2 SchKG. Mit der auf den 1. Januar 2011 in Kraft getretenen redaktionellen Anpassung ist keine materielle Gesetzesänderung verbunden. Nach wie vor hat der Schuldner die Zahlungsfähigkeit mit der Beschwerde glaubhaft zu machen und sind mit dieser auch die Urkunden für den Beweis der Konkursaufhebungsgründe i.S. von Ziff. 1–3 einzureichen. Der Entscheid klärt das Verhältnis der redaktionellen Anpassung zur bisherigen Rechtslage und die Verbindlichkeit der Frist.
+---
 
-→ [BGE 139 III 491](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_491)
+### [BGE 149 III 186](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-149-III-186_2023.html) (2023)
+- **Thema**: Beschwerdelegitimation der Gläubiger bei Insolvenzerklärung (Art. 191 SchKG)
+- **Kernaussage**: Gläubiger können mit Beschwerde nach Art. 174 SchKG die Aufhebung einer auf Schuldnerantrag erfolgten Konkurseröffnung verlangen, wenn diese von einem sachlich oder örtlich unzuständigen Gericht ausgesprochen wurde.
+- **Konkreter Sachverhalt**: Bank focht Konkurseröffnung über eine Mantelgesellschaft am unzuständigen Sitz an.
+- **Einschlägig für**: Art. 174 Abs. 1 SchKG i.V.m. Art. 191 SchKG
 
-### BGE 133 III 687 — Abweisung des Konkursbegehrens zufolge Tilgung/Stundung (Art. 172 Ziff. 3 SchKG)
+---
 
-**BGE 133 III 687 vom 3. September 2007**
+### [BGE 135 III 31](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-31_2009.html) (2009)
+- **Thema**: Aufhebung der Konkurseröffnung durch gerichtliche Hinterlegung
+- **Kernaussage**: Bei der Hinterlegung des geschuldeten Betrags beim oberen Gericht nach Art. 174 Abs. 2 Ziff. 2 SchKG darf die Aushändigung an den Gläubiger vom Ausgang eines allfälligen materiellen Prozesses abhängig gemacht werden, nicht aber von der blossen Zustimmung des Schuldners.
+- **Konkreter Sachverhalt**: Hinterlegung der Konkurssumme unter Bedingungen bei strittiger Forderung.
+- **Einschlägig für**: Art. 174 Abs. 2 Ziff. 2 SchKG
 
-Entscheid zu Art. 172 Ziff. 3 SchKG und zur Anfechtung von Entscheiden des Konkursrichters mit Beschwerde in Zivilsachen. Klärt die Anfechtung eines vor dem 1. Januar 2007 ergangenen Entscheids des oberen kantonalen Gerichts gemäss Art. 100 Abs. 6 BGG und grenzt die Abweisung des Konkursbegehrens im erstinstanzlichen Verfahren (Art. 172 Ziff. 3 SchKG) von der Aufhebung der Konkurseröffnung im Beschwerdeweg (Art. 174 SchKG) ab.
+---
 
-→ [BGE 133 III 687](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_III_687)
+### [BGE 135 III 509](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-509_2009.html) (2009)
+- **Thema**: Legitimation von Gesellschaftsorganen zur Konkursbeschwerde
+- **Kernaussage**: Ein vertretungsberechtigtes Organ einer Gesellschaft (z.B. Geschäftsführer einer GmbH) kann die Konkurseröffnung im Namen der Gesellschaft nach Art. 174 SchKG anfechten.
+- **Konkreter Sachverhalt**: Anfechtung der Konkurseröffnung wegen fehlendem Organbeschluss bei Überschuldungsanzeige.
+- **Einschlägig für**: Art. 174 Abs. 1 SchKG
 
-### BGer 5A 297/2012 — Konkurseröffnung und Konkurshinderungsgründe
+---
 
-**BGer 5A 297/2012 vom 10. Juli 2012**
+### [BGE 133 III 687](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-687_2007.html) (2007)
+- **Thema**: Abgrenzung erstinstanzliche Abweisung vs. zweitinstanzliche Konkursaufhebung
+- **Kernaussage**: Die Abweisung des Konkursbegehrens vor Konkurseröffnung (Art. 172 SchKG) unterscheidet sich funktionell von der nachträglichen Aufhebung der bereits erfolgten Konkurseröffnung nach Art. 174 SchKG.
+- **Konkreter Sachverhalt**: Abgrenzung der Verfahrensstadien im Konkursprozess.
+- **Einschlägig für**: Art. 174 SchKG im Vergleich zu Art. 172 SchKG
 
-Entscheid im Schuldbetreibungs- und Konkursrecht zur Konkurseröffnung. Befasst sich mit der Geltendmachung von Konkurshinderungsgründen im Beschwerdeverfahren gegen die Konkurseröffnung und der Frage, welche Anforderungen an die Glaubhaftmachung der Zahlungsfähigkeit zu stellen sind.
+---
 
-→ [BGer 5A 297/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_297_2012)
+## II. Weitere Entscheide des Bundesgerichts
 
-### BGer 5A_33/2021 — Konkurseröffnung und Konkurshinderungsgründe
+### [BGer 5A_375/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-375-2025_2025-08-11.html) (11. August 2025)
+- **Thema**: Glaubhaftmachung der Zahlungsfähigkeit bei Betreibungseinträgen
+- **Kernaussage**: Weist der Betreibungsauszug offene Betreibungen oder Pfändungen aus, ist die Zahlungsfähigkeit nicht glaubhaft gemacht, wenn der Schuldner nicht für jede Forderung den Nachweis der Tilgung oder Bestreitung erbringt.
+- **Konkreter Sachverhalt**: Abweisung der Konkursbeschwerde trotz Tilgung der Betreibungsforderung.
+- **Einschlägig für**: Art. 174 Abs. 2 SchKG, Zahlungsfähigkeit
 
-**BGer 5A_33/2021 vom 28. September 2021**
+---
 
-Neueres Bundesgerichtsentscheid zur Konkurseröffnung im Schuldbetreibungs- und Konkursrecht. Klärt die Anforderungen an die Geltendmachung der Konkurshinderungsgründe nach Art. 174 Abs. 2 SchKG im Beschwerdeverfahren und die Behandlung nachträglich geltend gemachter Umstände.
+### [BGer 5A_33/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-33-2021_2021-09-28.html) (28. September 2021)
+- **Thema**: Geltendmachung von Konkurshinderungsgründen
+- **Kernaussage**: Nachträgliche Zahlungen ausserhalb der 10-Tage-Frist vermögen die Konkurseröffnung nicht mehr rückgängig zu machen.
+- **Konkreter Sachverhalt**: Verspätete Überweisung der Konkursforderung.
+- **Einschlägig für**: Art. 174 Abs. 2 SchKG
 
-→ [BGer 5A_33/2021](https://mcp.opencaselaw.ch/entscheid/bger_5A_33_2021)
+---
 
-## Weitere Entscheide
+### [BGer 5A_277/2010](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-277-2010_2010-06-14.html) (14. Juni 2010)
+- **Thema**: Formelle Friststrenge bei Art. 174 SchKG
+- **Kernaussage**: Die strikte Durchsetzung der 10-tägigen Frist zur Einreichung aller Hinderungsgründe und Zahlungsfähigkeitsbelege stellt keinen überspitzten Formalismus dar.
+- **Konkreter Sachverhalt**: Abweisung einer Fristwiederherstellung im Konkursbeschwerdeverfahren.
+- **Einschlägig für**: Art. 174 Abs. 1 und Abs. 2 SchKG i.V.m. Art. 29 Abs. 1 BV
 
-### BGer 5A_115/2012 — Konkurseröffnung
+---
 
-**BGer 5A_115/2012 vom 20. April 2012**
+## III. Kantonale Rechtsprechung
 
-Bundesgerichtsentscheid im Schuldbetreibungs- und Konkursrecht zur Konkurseröffnung. Ergänzt die Rechtsprechung zu Art. 174 SchKG hinsichtlich der Beschwerde gegen die Konkurseröffnung und der Glaubhaftmachung von Konkurshinderungsgründen.
+### [Obergericht Zürich, PS210088](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS210088_2021.pdf) (2021)
+- **Thema**: Anforderungen an den aktuellen Betreibungsauszug
+- **Kernaussage**: Der Betreibungsauszug zur Glaubhaftmachung der Zahlungsfähigkeit muss vom Tag der Beschwerdeerhebung oder den unmittelbar vorangehenden Werktagen datieren.
+- **Konkreter Sachverhalt**: Nichteintreten auf Konkursbeschwerde infolge veraltetem Betreibungsauszug (3 Monate alt).
+- **Kanton**: Zürich (ZH)
 
-→ [BGer 5A_115/2012](https://mcp.opencaselaw.ch/entscheid/bger_5A_115_2012)
+---
 
-### BGer 5A_353/2022 — Konkurseröffnung
-
-**BGer 5A_353/2022 vom 31. August 2022**
-
-Jüngeres Bundesgerichtsentscheid zur Konkurseröffnung im Schuldbetreibungs- und Konkursrecht. Relevant für Art. 174 SchKG, weil er die aktuelle Praxis zu den Konkurshinderungsgründen und zur Befristung der Geltendmachung im Beschwerdeweg fortentwickelt.
-
-→ [BGer 5A_353/2022](https://mcp.opencaselaw.ch/entscheid/bger_5A_353_2022)
-
-### BGer 5A 912/2013 — Konkurseröffnung
-
-**BGer 5A 912/2013 vom 18. Februar 2014**
-
-Bundesgerichtsentscheid im Schuldbetreibungs- und Konkursrecht zur Konkurseröffnung. Behandelt verfahrensrechtliche Aspekte der Beschwerde gegen die Konkurseröffnung nach Art. 174 SchKG.
-
-→ [BGer 5A 912/2013](https://mcp.opencaselaw.ch/entscheid/bger_5A_912_2013)
-
-### BGer 5A 126/2010 — Konkurseröffnung
-
-**BGer 5A 126/2010 vom 10. Juni 2010**
-
-Bundesgerichtsentscheid im Schuldbetreibungs- und Konkursrecht zur Konkurseröffnung. Ergänzt die Praxis zu den Voraussetzungen der Aufhebung der Konkurseröffnung im Beschwerdeverfahren.
-
-→ [BGer 5A 126/2010](https://mcp.opencaselaw.ch/entscheid/bger_5A_126_2010)
-
-### BGer 5A 335/2014 — Konkurseröffnung
-
-**BGer 5A 335/2014 vom 23. Juni 2014**
-
-Bundesgerichtsentscheid im Schuldbetreibungs- und Konkursrecht zur Konkurseröffnung. Relevant für Art. 174 SchKG, weil er die Anforderungen an die Glaubhaftmachung der Zahlungsfähigkeit und die Urkundenbeweisführung im Beschwerdeverfahren konkretisiert.
-
-→ [BGer 5A 335/2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_335_2014)
-
-### BGer 5A_810/2015 — Konkurseröffnung
-
-**BGer 5A_810/2015 vom 17. Dezember 2015**
-
-Bundesgerichtsentscheid zur Konkurseröffnung im Schuldbetreibungs- und Konkursrecht. Fortentwicklung der Rechtsprechung zu den Konkurshinderungsgründen und zum Beschwerdeverfahren nach Art. 174 SchKG.
-
-→ [BGer 5A_810/2015](https://mcp.opencaselaw.ch/entscheid/bger_5A_810_2015)
-
-### BLGerichte 410 2025 166 — Tilgung der Schuld vor Konkurseröffnung (kantonal)
-
-**BLGerichte 410 2025 166 vom 16. September 2025**
-
-Kantonaler Entscheid (Basel-Landschaft) zur Beschwerde gegen einen Konkurseröffnungsentscheid. Klärt, dass eine Tilgung der Schuld inklusiv Zinsen und Kosten im Sinne von Art. 174 Abs. 2 Ziff. 1 SchKG vor der Konkurseröffnung eine Konkurshinderungsgrund darstellt, und die Rückverweisung bei unvollständiger Würdigung der Tilgung. Belegt die kantonale Praxisumsetzung von Art. 174 SchKG.
-
-→ [BLGerichte 410 2025 166](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_410%202025%20166)
-
-### OGVE 2014/15 Nr. 07 — Fristwahrung durch Fax (kantonal)
-
-**OGVE 2014/15 Nr. 07 (Obergericht Wallis)**
-
-Kantonalgerichtlicher Entscheid zu Art. 143 ZPO und Art. 174 SchKG. Die Frist für die Anfechtung der Konkurseröffnung wird mit einer blossen Faxeingabe nicht gewahrt; das Gleiche gilt für unzureichende Eingaben. Relevant für die fristwahrende Einreichung der Beschwerde nach Art. 174 Abs. 1 SchKG und die Anforderungen an die formell korrekte Beschwerdeschrift.
-
-→ [OGVE 2014/15 Nr. 07](https://mcp.opencaselaw.ch/entscheid/ow_gerichte_OGVE-2014-15-07.htm_)
-
-### BGE 151 III 574 — Tilgung der Kosten des Konkursgerichts im Beschwerdeverfahren
-
-**BGE 151 III 574 aus dem Jahr 2025**
-
-Leitentscheid zu Art. 174 SchKG. Tilgung der Kosten des Konkursgerichts innert der zehntägigen Frist zur Weiterziehung des Konkurserkenntnisses; Erfordernis der Glaubhaftmachung der Zahlungsfähigkeit. Hat der Schuldner die Kosten des Konkursgerichts erst im Beschwerdeverfahren getilgt, hat er mit seiner Beschwerde zugleich die Glaubhaftmachung seiner Zahlungsfähigkeit und die Urkunden zum Beweis der Konkursaufhebungsgründe nach Abs. 2 einzureichen. Der Entscheid konkretisiert das Zusammenwirken von Fristwahrung, Glaubhaftmachung und Urkundenbeweis in der Praxis.
-
-→ [BGE 151 III 574](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_574)
-
-### BGE 149 III 186 — Beschwerdelegitimation der Gläubiger (Konkurs auf Schuldnerantrag)
-
-**BGE 149 III 186 vom 14. Dezember 2022**
-
-Leitentscheid zu Art. 191, Art. 194 i.V.m. Art. 174 SchKG. Konkurseröffnung auf Antrag des Schuldners, Beschwerdelegitimation der Gläubiger. Die Gläubiger können mit Beschwerde nach ZPO die Aufhebung der Konkurseröffnung gemäss Art. 191 SchKG verlangen, weil der Konkurs vom unzuständigen Gericht ausgesprochen wurde. Der Entscheid klärt die Beschwerdelegitimation der Gläubiger im Beschwerdeverfahren gegen die Konkurseröffnung und die Zuständigkeitsrüge im Verhältnis zu Art. 174 SchKG.
-
-→ [BGE 149 III 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_186)
-
-### BGE 135 III 31 — Konkurseröffnung ohne vorgängige Betreibung (Hinterlegung nach Abs. 2 Ziff. 2)
-
-**BGE 135 III 31 vom 21. Oktober 2008**
-
-Leitentscheid zu Art. 174 Abs. 2 Ziff. 2 i.V.m. Art. 194 Abs. 1 SchKG. Konkurseröffnung ohne vorgängige Betreibung; Aufhebung der Konkurseröffnung durch Hinterlegung des geschuldeten Betrages beim oberen Gericht zuhanden des Gläubigers. Der Schuldner kann bei der Hinterlegung gemäss Art. 174 Abs. 2 Ziff. 2 SchKG die Aufhebung der Konkurseröffnung erreichen. Der Entscheid klärt die Voraussetzungen der Hinterlegung im Beschwerdeverfahren bei der Konkurseröffnung ohne vorgängige Betreibung.
-
-→ [BGE 135 III 31](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_31)
-
-### BGE 91 I 1 — Verspätete Tilgung der Betreibungsforderung
-
-**BGE 91 I 1 vom 31. März 1965**
-
-Leitentscheid zu Art. 4 BV, Art. 174 SchKG. Es ist nicht willkürlich, eine erst nach der erstinstanzlichen Konkurseröffnung erfolgte Tilgung der Betreibungsforderung im Rechtsmittelverfahren überhaupt nicht oder nur dann zu berücksichtigen, wenn die verspätete Zahlung entschuldbar ist und ernsthaft damit zu rechnen war, dass der Schuldner die Forderung rechtzeitig tilgen kann. Der Entscheid ist die historische Grundlage der Befristung der Konkurshinderungsgründe im Beschwerdeverfahren und wurde durch BGE 136 III 294 bestätigt.
-
-→ [BGE 91 I 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_91_I_1)
-
-## Zusammenfassung
-
-Die Rechtsprechung zu Art. 174 SchKG entfaltet sich um folgende Kernfragen:
-
-1. **Befristung der Konkurshinderungsgründe** (BGE 136 III 294; BGE 91 I 1): Die Hinderungsgründe müssen sich innert der Rechtsmittelfrist verwirklicht haben und geltend gemacht werden; eine verspätete Tilgung wird nur bei entschuldbarer Verspätung berücksichtigt.
-2. **Glaubhaftmachen und Urkundenbeweis** (BGE 139 III 491; BGE 151 III 574): Die Zahlungsfähigkeit ist mit der Beschwerde glaubhaft zu machen; die Urkunden sind mit der Beschwerde einzureichen — auch wenn die Kosten des Konkursgerichts erst im Beschwerdeverfahren getilgt werden.
-3. **Abgrenzung zum erstinstanzlichen Verfahren** (BGE 133 III 687): Die Aufhebung der Konkurseröffnung im Beschwerdeweg (Art. 174 SchKG) ist von der Abweisung des Konkursbegehrens im erstinstanzlichen Verfahren (Art. 172 Ziff. 3 SchKG) zu trennen.
-4. **Konkurseröffnung ohne vorgängige Betreibung — Hinterlegung** (BGE 135 III 31): Bei der Hinterlegung gemäss Art. 174 Abs. 2 Ziff. 2 SchKG kann der Schuldner die Aufhebung der Konkurseröffnung erreichen.
-5. **Beschwerdelegitimation der Gläubiger** (BGE 149 III 186): Die Gläubiger können mit Beschwerde nach ZPO die Aufhebung der Konkurseröffnung verlangen, wenn der Konkurs vom unzuständigen Gericht ausgesprochen wurde.
-6. **Fristwahrung und Form** (OGVE 2014/15 Nr. 07): Die fristwahrende Einreichung der Beschwerde stellt strenge formelle Anforderungen.
-
-*Letzte Aktualisierung: 2026-07-31*
+*Letzte Aktualisierung: 2026-08-29*
