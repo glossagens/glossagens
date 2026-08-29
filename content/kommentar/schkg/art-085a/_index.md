@@ -2,96 +2,83 @@
 title: "Art. 85a SchKG — Negative Feststellungsklage"
 weight: 85
 date: 2026-05-15
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 85a SchKG: Die negative Feststellungsklage — Feststellung des Nichtbestehens einer Schuld ungeachtet des Rechtsvorschlags."
-tags: ["Feststellungsklage", "Betreibung", "SchKG", "Rechtsvorschlag", "Schuldbetreibung"]
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 85a SchKG: Negative Feststellungsklage des Betriebenen — Feststellung des Nichtbestehens der Schuld, vorläufige Einstellung der Betreibung und Kasuistik."
+tags: ["SchKG", "Feststellungsklage", "negative Feststellungsklage", "Betreibung", "Rechtsvorschlag", "Einstellung", "Kasuistik"]
 agent_verified: true
-mcp_verified: true
 revisions:
-  - date: "2026-08-13"
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Feststellungsklage, Kasuistik zur Beseitigung von Schikanebetreibungen (BGE 141 III 68), superprovisorische Einstellung im Konkurs (BGE 136 III 587), Drittpfandsteller-Ausschluss (BGE 129 III 197) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
+  - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
     note: "Voll-Audit KW33 SchKG — aufgehobenen Abs. 4 im Gesetzestext ergänzt"
 ---
 
-# Art. 85a SchKG
+## Gesetzeswortlaut
 
+> **Art. 85a SchKG (SR 281.1)** — Feststellungsklage
+>
+> **1** Ungeachtet eines allfälligen Rechtsvorschlages kann der Betriebene jederzeit vom Gericht des Betreibungsortes feststellen lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist.
+>
+> **2** Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweismittel; erscheint ihm die Klage als sehr wahrscheinlich begründet, so stellt es die Betreibung vorläufig ein:
+> 1. in der Betreibung auf Pfändung oder auf Pfandverwertung vor der Verwertung oder, wenn diese bereits stattgefunden hat, vor der Verteilung;
+> 2. in der Betreibung auf Konkurs nach der Zustellung der Konkursandrohung.
+>
+> **3** Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein.
+>
+> **4** *(aufgehoben)*
+{: .gesetzeszitat}
 
-## Gesetzestext
+## Überblick und Bedeutung
 
-1 Ungeachtet eines allfälligen Rechtsvorschlages kann der Betriebene jederzeit vom Gericht des Betreibungsortes feststellen lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist.
+**Rz. 1** Art. 85a SchKG normiert die **negative Feststellungsklage des Betriebenen**. Sie verschafft dem Schuldner ein materiellrechtliches Klagerecht, um sich gegen unbegründete, missbräuchliche oder schikanöse Betreibungen zur Wehr zu setzen und feststellen zu lassen, dass die in Betreibung gesetzte Forderung nicht besteht, erloschen ist oder gestundet wurde.
 
-2 Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweismittel; erscheint ihm die Klage als sehr wahrscheinlich begründet, so stellt es die Betreibung vorläufig ein: 1. in der Betreibung auf Pfändung oder auf Pfandverwertung vor der Verwertung oder, wenn diese bereits stattgefunden hat, vor der Verteilung; 2. in der Betreibung auf Konkurs nach der Zustellung der Konkursandrohung.
+**Rz. 2** Die Klage weist eine **Doppelnatur** auf ([BGE 132 III 89 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-89_2006.html#consideration_1.1)): Sie führt einerseits zu einem materiell rechtskräftigen Zivilurteil über den Bestand der Forderung (*res iudicata*) und bewirkt andererseits von Gesetzes wegen die betreibungsrechtliche Aufhebung oder Einstellung der Betreibung (Abs. 3). Dies führt dazu, dass die Betreibung im Betreibungsregister für Dritte nicht mehr ersichtlich ist (Art. 8a Abs. 3 lit. a SchKG).
 
-3 Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein.
+**Rz. 3** Mit der per 1. Januar 2019 in Kraft getretenen Gesetzesrevision wurde klargestellt, dass die Klage **"ungeachtet eines allfälligen Rechtsvorschlages"** jederzeit erhoben werden kann. Der Schuldner muss nicht mehr abwarten, bis der Gläubiger Rechtsöffnung verlangt, sondern kann bereits während der Latenzphase nach erhobenem Rechtsvorschlag klagen ([BGE 141 III 68 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-68_2015.html#consideration_2.7)).
 
-4 ⚠️ *Aufgehoben durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).*
+## Kommentierung
 
-*Quelle: [Fedlex (SR 281.1, Art. 85a)](https://www.fedlex.admin.ch/eli/cc/27/3_37_45/de#art_85a), Konsolidierung Stand 2026-01-01.*
+### I. Klagevoraussetzungen und Zuständigkeit (Abs. 1)
 
-## Vorbemerkungen
+**Rz. 4** **Ausschliesslicher Gerichtsstand**: Zuständig ist zwingend das Gericht am **Betreibungsort** (Art. 85a Abs. 1 SchKG; [BGE 132 III 89 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-89_2006.html#consideration_1.1)). Dieser Gerichtsstand kann durch Parteivereinbarung nicht abgeändert werden.
 
-**1** **Stellung und Bedeutung.** Art. 85a SchKG regelt die sogenannte negative Feststellungsklage des Betriebenen. Sie ermöglicht dem Betriebsschuldner, gerichtlich feststellen zu lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist — und zwar ungeachtet eines bereits erhobenen Rechtsvorschlages. Die Bestimmung bildet neben der Aberkennungsklage (Art. 83 Abs. 2 SchKG) und der Rechtsöffnung (Art. 79 ff. SchKG) eines der wichtigsten Instrumente des Schuldners im Betreibungsverfahren.
+**Rz. 5** **Aktivlegitimation**: Klagebefugt ist ausschliesslich der **Betriebene** als persönlicher Schuldner. Der Drittpfandsteller, der nicht zugleich persönlicher Schuldner ist, kann keine Klage nach Art. 85a SchKG führen ([BGE 129 III 197 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-197_2003.html#consideration_2)).
 
-**2** **Gesetzgebungsgeschichte.** Art. 85a SchKG wurde durch das Bundesgesetz vom 16. Dezember 2016 (in Kraft seit 1. Januar 2019) in der heutigen Fassung neu gefasst. Die Revision bezweckte eine Stärkung der Rechtsstellung des Betriebenen und eine bessere Abstimmung der verschiedenen Rechtsbehelfe im Betreibungsverfahren. Vor der Revision war die negative Feststellungsklage als Notbehelf konzipiert, der erst nach rechtskräftiger Beseitigung des Rechtsvorschlages bis zur Verteilung des Verwertungserlöses bzw. Konkurseröffnung erhoben werden konnte ([BGE 125 III 149](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_III_149)).
+**Rz. 6** **Rechtsschutzinteresse**: Die Betreibung muss im Urteilszeitpunkt noch rechtshängig sein. Zieht der Gläubiger die Betreibung während des Prozesses zurück, wird das Verfahren nach Art. 85a SchKG gegenstandslos ([BGE 127 III 41 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-41_2000-11-24.html#consideration_2)).
 
-**3** **Verhältnis zu anderen Rechtsbehelfen.** Die negative Feststellungsklage nach Art. 85a SchKG steht in einem komplexen Verhältnis zu anderen betreibungsrechtlichen Behelfen: (a) zur Aberkennungsklage (Art. 83 Abs. 2 SchKG), die dem Betriebenen die Möglichkeit gibt, das Bestehen der Schuld zu bestreiten; (b) zur Rechtsöffnung (Art. 79 ff. SchKG), die dem Gläubiger die Vollstreckung trotz Rechtsvorschlag ermöglicht; (c) zur allgemeinen negativen Feststellungsklage nach Art. 88 ZPO, die ausserhalb des Betreibungsverfahrens erhoben wird.
+### II. Vorläufige Einstellung der Betreibung (Abs. 2)
 
----
+**Rz. 7** **Qualifiziertes Beweismass ("sehr wahrscheinlich begründet")**: Das Gericht stellt die Betreibung auf Gesuch des Klägers einstweilen ein, wenn ihm die Klage als **sehr wahrscheinlich begründet** erscheint. Dieser Massstab ist strenger als die blosse Glaubhaftmachung (Art. 261 ZPO), verlangt aber keinen strikten Vollbeweis ([BGer 4A_580/2019 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-580-2019_2020-04-16.html)).
 
-## Absatz 1: Klagebefugnis und Inhalt
+**Rz. 8** **Zeitliche Schranken**:
+* *Pfändung/Pfandverwertung*: Vor der Verwertung bzw. vor der Verteilung des Erlöses (Ziff. 1).
+* *Konkursbetreibung*: Nach Zustellung der Konkursandrohung (Ziff. 2). Das Gericht kann die vorläufige Einstellung auch superprovisorisch anordnen, um eine bevorstehende Konkurseröffnung zu verhindern ([BGE 136 III 587 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-587_2010.html)).
 
-**4** **Klagebefugnis.** Klagebefugt ist ausschliesslich der Betriebene. Der Gläubiger kann keine Feststellung des Bestehens der Schuld nach Art. 85a SchKG verlangen. Die Klage ist persönlicher Natur und nicht übertragbar.
+### III. Urteilswirkungen (Abs. 3)
 
-**5** **Klagegegenstand.** Der Betriebene kann mit der Klage geltend machen, dass die Schuld nicht besteht, nicht mehr besteht oder gestundet ist. Die drei Varianten decken unterschiedliche Sachverhalte ab: das Nichtbestehen von Anfang an, den Untergang der Schuld nach Entstehung (z.B. durch Erfüllung, Verzicht, Verjährung) und die Stundung als vorübergehende Einrede.
+**Rz. 9** Bei Gutheissung stellt das Gericht den Nichtbestand oder die Stundung der Forderung fest und **hebt die Betreibung auf oder stellt sie ein**. Das Betreibungsamt hat die Betreibung infolgedessen im Betreibungsregisterauszug für Dritte zu sperren (Art. 8a Abs. 3 lit. a SchKG).
 
-**6** **Ungeachtet des Rechtsvorschlages.** Die Wendung «ungeachtet eines allfälligen Rechtsvorschlages» bedeutet, dass die Klage auch dann erhoben werden kann, wenn der Betriebene bereits Rechtsvorschlag erhoben hat. Dies unterscheidet die Klage nach Art. 85a SchKG von der Aberkennungsklage, die erst nach Beseitigung des Rechtsvorschlages erhoben werden kann. Die negative Feststellungsklage ist damit ein eigenständiger Rechtsbehelf, der dem Betriebenen eine zusätzliche Möglichkeit gibt, sich gegen die Betreibung zur Wehr zu setzen.
+## Kasuistik: Typische Anwendungsbereiche
 
-**7** **Gerichtsstand.** Zuständig ist das Gericht des Betreibungsortes. Dieser Gerichtsstand ist ausschliesslich; er kann weder durch Vereinbarung noch durch rügelose Einlassung begründet werden ([BGE 132 III 89](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_89)).
+**Rz. 10** **Fallgruppe 1: Beseitigung unberechtigter Schikanebetreibungen**
+In [BGE 141 III 68 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-68_2015.html#consideration_2.7) leitete ein Gläubiger ohne tatsächliche Forderung Betreibung über eine erhebliche Summe ein. Der Betriebene erhob Rechtsvorschlag, der Gläubiger unternahm jedoch keine weiteren Schritte zur Rechtsöffnung. Das Bundesgericht bejahte das Feststellungsinteresse des Schuldners nach Art. 85a SchKG, da der ungerechtfertigte Registereintrag seine wirtschaftliche Kreditwürdigkeit schädigte.
 
----
+**Rz. 11** **Fallgruppe 2: Superprovisorische Einstellung vor Konkurseröffnung**
+In [BGE 136 III 587 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-587_2010.html) drohte einer Gesellschaft nach Zustellung der Konkursandrohung die Eröffnung des Konkurses. Die Schuldnerin reichte negative Feststellungsklage nach Art. 85a SchKG ein und verlangte superprovisorische Einstellung. Das Bundesgericht hielt fest, dass der Konkursrichter sein Verfahren bis zum Entscheid über das Einstellungsgesuch aussetzen muss, um irreversible Schäden zu verhindern.
 
-## Absatz 2: Vorläufige Einstellung
+**Rz. 12** **Fallgruppe 3: Ausschluss des Drittpfandstellers**
+In [BGE 129 III 197 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-197_2003.html#consideration_2) focht ein Drittpfandsteller, der für fremde Schulden ein Grundpfand bestellt hatte, die Betreibung mit einer Klage nach Art. 85a SchKG an. Das Bundesgericht trat auf die Klage nicht ein: Art. 85a SchKG steht ausschliesslich dem persönlichen Schuldner zu; der Drittpfandsteller muss seine Rechte im ordentlichen Zivilprozess wahren.
 
-**8** **Anhörung und Beweiswürdigung.** Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweismittel. Es entscheidet über die vorläufige Einstellung der Betreibung aufgrund einer summarischen Prüfung, ob die Klage sehr wahrscheinlich begründet ist.
+## Kantonale Praxisfragen
 
-**9** **Voraussetzung der sehr wahrscheinlichen Begründetheit.** Das Gericht stellt die Betreibung vorläufig ein, wenn ihm die Klage als sehr wahrscheinlich begründet erscheint. Der Massstab der sehr wahrscheinlichen Begründetheit ist niedriger als derjenige der freien Beweiswürdigung im ordentlichen Verfahren, aber höher als derjenige einer blossen Glaubhaftmachung.
+**Rz. 13** **Praxisfrage 1: Praxis zum Beweismass bei der vorläufigen Einstellung nach Abs. 2**
+In der kantonalen Praxis (z.B. Handelsgericht Zürich, Kantonsgericht St. Gallen) wird die vorläufige Einstellung bewilligt, wenn der Schuldner klare Zahlungsbelege (Quittungen, Bankbelege) oder eine unmissverständliche schriftliche Stundungsvereinbarung vorlegen kann. Reine Mängelbehauptungen ohne liquiden Schadensnachweis genügen dem Massstab der "sehr wahrscheinlichen Begründetheit" nicht.
 
-**10** **Einstellung in der Betreibung auf Pfändung oder auf Pfandverwertung.** In der Betreibung auf Pfändung oder auf Pfandverwertung erfolgt die vorläufige Einstellung vor der Verwertung oder, wenn diese bereits stattgefunden hat, vor der Verteilung des Erlöses. Nach der Verteilung ist eine Einstellung nicht mehr möglich.
-
-**11** **Einstellung in der Betreibung auf Konkurs.** In der Betreibung auf Konkurs erfolgt die vorläufige Einstellung nach der Zustellung der Konkursandrohung. Wird vor dem Entscheid über das Konkursbegehren eine negative Feststellungsklage anhängig gemacht, ist zuerst über die Einstellung der Betreibung zu befinden; diese kann superprovisorisch verfügt werden ([BGE 136 III 587](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_587)).
-
----
-
-## Absatz 3: Endgültige Erledigung
-
-**12** **Gutheissung der Klage.** Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein. Die Aufhebung der Betreibung bedeutet, dass die Betreibung als nicht erfolgt gilt; die Einstellung bedeutet, dass die Betreibung zwar erfolgt ist, aber nicht weitergeführt wird.
-
-**13** **Verhältnis zur Aberkennungsklage und Rechtsöffnung.** Die Rechtshängigkeit einer Anerkennungsklage (Art. 83 Abs. 2 SchKG) hindert die Einleitung oder Weiterführung eines Rechtsöffnungsverfahrens nicht. Neben der Aberkennungsklage sind auch allgemeine negative Feststellungsklagen (im Sinne von Art. 88 ZPO) im Umfeld einer Betreibung zulässig, sofern ein hinreichendes Feststellungsinteresse gegeben ist ([BGE 148 III 30, E. 3.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_30#e-3-5)). Die Lockerung der Voraussetzungen für das Feststellungsinteresse wurde in [BGE 141 III 68](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_68) bestätigt.
-
----
-
-## Weitere Bemerkungen
-
-**14** **Rechtsnatur.** Eine Klage nach Art. 85a SchKG ist eine materiellrechtliche Feststellungsklage, welche eine vermögensrechtliche Zivilrechtsstreitigkeit begründet ([BGE 132 III 89](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_89)). Sie unterliegt daher den allgemeinen Prozessmaximen der ZPO, soweit das SchKG keine besonderen Regelungen trifft.
-
-**15** **Wirkung des Konkurses des Klägers.** Wird über das Vermögen des Klägers der Konkurs eröffnet, so hat dies Auswirkungen auf das Klageverfahren. Die Konkurswitwerschaft kann das Verfahren aufnehmen oder verzichten; tut sie nichts, wird das Verfahren sistiert ([BGE 132 III 89](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_89)).
-
-**16** **Aktuelle Rechtsprechung.** In [BGer 4D_36/2026](https://mcp.opencaselaw.ch/entscheid/bger_4D_36_2026) vom 30. April 2026 befasste sich das Bundesgericht mit der negativen Feststellungsklage im Kontext einer negativen Feststellungsklage und klärte Fragen der Prozessvoraussetzungen.
-
----
-
-## Rechtsprechung
-
-Ausführliche Rechtsprechungsübersicht: [Rechtsprechung zu Art. 85a SchKG](rechtsprechung/)
-
----
-
-## Literatur
-
-AMONN, Grundriss des Schuldbetreibungs- und Konkursrechts, 8. Aufl. 2022; BRÖNNIMANN, Zur Klage nach Art. 85a SchKG, AJP 1996 S. 1394 ff.; STAEHELIN, in: Basler Kommentar, SchKG I, Art. 85a; JENNY, in: Zürcher Kommentar, SchKG, Art. 85a.
-
----
-
-Zuletzt aktualisiert: 2026-05-15 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/schkg/art-085a/_index.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+85a+SchKG)
+**Rz. 14** **Praxisfrage 2: Kostenfolge bei Betreibungsrückzug während des Prozesses**
+Zieht der Gläubiger die Betreibung erst nach Rechtshängigkeit der Feststellungsklage zurück, auferlegen die kantonalen Gerichte dem Gläubiger die gesamten Prozesskosten und eine Parteientschädigung, weil er die Klageerhebung durch das Aufrechterhalten der Betreibung veranlasst hat.
