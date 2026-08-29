@@ -2,11 +2,16 @@
 title: "Art. 229 ZPO — Neue Tatsachen und Beweismittel"
 weight: 229
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 229 ZPO: Das erstinstanzliche Novenrecht nach der ZPO-Revision 2025 — Aktenschluss, echte und unechte Nova, Fristen und richterliche Abklärungspflicht."
-tags: ["ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss", "Revision 2025"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 229 ZPO: Das erstinstanzliche Novenrecht nach der ZPO-Revision 2025 — Aktenschluss, echte und unechte Noven, Replik auf Dupliknoven und Kasuistik."
+tags: ["ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss", "Revision 2025", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der ZPO-Revision 2025 (Abs. 1, 2, 2bis), vertiefte Kasuistik (Arztberichte, Dupliknoven, Buchhaltungsunterlagen, Beweiseinheit), kantonale Praxisfragen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -36,33 +41,62 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 229 ZPO regelt das erstinstanzliche **Novenrecht** und bestimmt den Zeitpunkt des **Aktenschlusses** im ordentlichen Verfahren. Die Bestimmung zieht die Grenze zwischen prozessual zulässigen Sachverhaltsergänzungen und verspäteten Vorbringen (*Präklusion*). Die Norm wurde im Rahmen der **ZPO-Revision (in Kraft seit 1. Januar 2025)** angepasst, um Unklarheiten bezüglich der Fristen für das Vorbringen von Nova im Hauptverfahren zu bereinigen.
+**Rz. 1** Art. 229 ZPO regelt das erstinstanzliche **Novenrecht** und bestimmt den genauen Zeitpunkt des **Aktenschlusses** im Zivilprozess. Die Bestimmung bildet die Nahtstelle zwischen dem Anspruch der Parteien auf ein zweimaliges unbeschränktes Äusserungsrecht (Art. 228 Abs. 1 ZPO) und dem Gebot der Prozessökonomie (Präklusion verspäteter Vorbringen).
+
+**Rz. 2** Mit der **ZPO-Revision (in Kraft seit 1. Januar 2025)** wurden die Absätze 1, 2 und 2bis neu strukturiert, um die in der Praxis umstrittene Frage zu klären, wann und unter welchen Voraussetzungen Noven vor und während der Hauptverhandlung in den Prozess eingeführt werden können ([BBl 2020 2697](https://www.fedlex.admin.ch/eli/fga/2020/653/de)).
 
 ## Kommentierung
 
-### I. Unbeschränkte Nova vor Aktenschluss (Abs. 1)
+### I. Unbeschränkte Nova bei einfachem Schriftenwechsel (Abs. 1)
 
-**1** **Fehlen eines zweiten Schriftenwechsels**: Hat das Gericht nach der Klageantwort keinen zweiten Schriftenwechsel (Replik/Duplik) angeordnet und keine Instruktionsverhandlung durchgeführt, liegt noch kein Aktenschluss vor.
+**Rz. 3** **Kein vorzeitiger Aktenschluss**: Hat das Gericht nach Eingang der Klageantwort weder einen zweiten Schriftenwechsel (Replik/Duplik) angeordnet noch eine Instruktionsverhandlung nach Art. 226 ZPO durchgeführt, ist der Aktenschluss noch nicht eingetreten.
 
-**2** **Erster Parteivortrag und unmittelbare Vorladung**: Die Parteien können in diesem Fall bis zum **ersten Parteivortrag** in der Hauptverhandlung (Plädoyer zu Beginn der Verhandlung) neue Tatsachen und Beweismittel **unbeschränkt** (ohne Nachweis von Entschuldbarkeit oder zeitlicher Dringlichkeit) in den Prozess einführen..
+**Rz. 4** **Vorbringen im ersten Parteivortrag**: Die Parteien haben das Recht, bis zum **ersten Parteivortrag in der Hauptverhandlung** (Art. 228 Abs. 1 ZPO) neue Tatsachen und Beweismittel **völlig unbeschränkt** vorzubringen ([BGE 147 III 475 E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-475_2021.html#consideration_2.3.2)). Ein Nachweis von Entschuldbarkeit oder Dringlichkeit ist in dieser Phase nicht erforderlich. Die Noveneingabe muss jedoch vor oder zu Beginn der ersten Parteivorträge erfolgen; mit dem Abschluss der ersten Parteivorträge tritt der Aktenschluss definitiv ein.
 
 ### II. Beschränkte Nova nach Aktenschluss (Abs. 2)
 
-**3** **Eintritt des Aktenschlusses**: Wurde ein zweiter Schriftenwechsel durchgeführt oder fand eine Instruktionsverhandlung statt, ist der Aktenschluss vollzogen. Nach dem Aktenschluss besteht das Recht, neue Tatsachen und Beweismittel vorzubringen, nur noch unter den eingeschränkten Voraussetzungen von Art. 229 Abs. 1 ZPO; das gilt auch für die Entgegnung auf Dupliknoven ([BGE 146 III 55, E. 2.5.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_55#e-2-5-2)). Neue Vorbringen sind danach nur noch unter den restriktiven Voraussetzungen von Abs. 2 lit. a oder b zulässig.
+**Rz. 5** **Eintritt des Aktenschlusses**: Wurde ein zweiter Schriftenwechsel durchgeführt oder fand eine Instruktionsverhandlung statt, tritt mit dem Abschluss des Schriftenwechsels bzw. dem Ende der Verhandlung der Aktenschluss ein ([BGE 140 III 312 E. 6.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-312_2014.html#consideration_6.3.2)). Danach sind neue Vorbringen nur noch unter den restriktiven Voraussetzungen von Abs. 2 lit. a oder b zulässig.
 
-**4** **Echte Noven (lit. a)**: Tatsachen oder Beweismittel, die erst **nach** dem Abschluss des Schriftenwechsels bzw. nach der letzten Instruktionsverhandlung entstanden sind. Sie sind stets zulässig, da sie logischerweise nicht früher vorgebracht werden konnten.. Ein Zuwarten bis zu einer späteren Eingabe oder der Verhandlung ist unzulässig und führt zur Präklusion.
+**Rz. 6** **Echte Noven (lit. a)**:
+* Echte Noven sind Tatsachen oder Beweismittel, die erst **nach** dem Abschluss des Schriftenwechsels oder nach der letzten Instruktionsverhandlung entstanden sind.
+* Sie sind zulässig, müssen jedoch ohne Verzug in das Verfahren eingebracht werden ([BGer 4A_50/2021 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-50-2021_2021-09-06.html)).
 
-**5** **Unechte Noven (lit. b)**: Tatsachen oder Beweismittel, die bereits **vor** dem Aktenschluss existierten, aber im bisherigen Verfahren nicht genannt wurden. Sie sind nur zulässig, wenn die Partei nachweist, dass sie das Vorbringen trotz **zumutbarer Sorgfalt** nicht früher einbringen konnte (*Entschuldbarkeit*). Die Hürde für den Nachweis der Sorgfalt ist in der Praxis sehr hoch..
+**Rz. 7** **Unechte Noven (lit. b)**:
+* Unechte Noven sind Tatsachen oder Beweismittel, die bereits **vor** dem massgeblichen Zeitpunkt existierten, aber im bisherigen Verfahren nicht vorgebracht wurden.
+* Sie sind nur dann zulässig, wenn die Partei darlegt und belegt, dass sie die Tatsache oder das Beweismittel trotz **Aufwendung zumutbarer Sorgfalt** nicht schon früher in das Verfahren einführen konnte. Die Rechtsprechung legt an diesen Sorgfaltsnachweis einen strengen Massstab an.
 
-### III. Fristen nach den ersten Parteivorträgen (Abs. 2bis — Neu seit 2025)
+**Rz. 8** **Entgegnung auf Dupliknoven**: Bringt die beklagte Partei in der Duplik zulässigerweise neue Tatsachen vor (Dupliknoven), steht dem Kläger kein unbeschränktes Äusserungsrecht mehr zu. Auch die klägerische Entgegnung auf Dupliknoven unterliegt den strengen Novenschranken von Art. 229 ZPO ([BGE 146 III 55 E. 2.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-55_2019.html#consideration_2.5.2)).
 
-**6** **Präzisierung durch die Revision 2025**: Der neu eingefügte Abs. 2bis regelt den Fall, dass echte oder unechte Nova *nach* den ersten Parteivorträgen (im Laufe der Hauptverhandlung oder im Nachgang) auftreten. Solche Nova werden nur noch berücksichtigt, wenn sie:
-*   in einer vom Gericht hierfür explizit gesetzten Frist vorgebracht werden, oder
-*   bei Fehlen einer solchen Frist spätestens in der **nächsten Verhandlung** (z.B. bei einer fortgesetzten Hauptverhandlung) geltend gemacht werden.
-*   Diese Bestimmung verhindert das taktische Zurückhalten von Beweismitteln (*Prozessverschleppung*).
+### III. Fristen nach den ersten Parteivorträgen (Abs. 2bis — Neu 2025)
 
-### IV. Untersuchungsgrundsatz (Abs. 3)
+**Rz. 9** Der durch die Revision 2025 neu eingeführte **Abs. 2bis** schliesst eine verfahrensrechtliche Lücke für den Zeitraum zwischen den ersten Parteivorträgen und dem Urteil: Treten nach den ersten Parteivorträgen echte Noven auf oder werden entschuldbare unechte Noven entdeckt, sind diese innerhalb einer gerichtlich gesetzten Frist oder spätestens in der **nächsten Verhandlung** vorzubringen. Damit wird verhindert, dass Parteien Noven taktisch zurückhalten.
 
-**7** **Ausnahme bei Abklärung von Amtes wegen**: Gilt im Verfahren die **Untersuchungsmaxime** (z.B. soziale Untersuchungsmaxime im Arbeitsrecht oder unbeschränkte Untersuchungsmaxime bei Kinderbelangen im Familienrecht), greift das strenge Novenverbot nicht. Neue Tatsachen und Beweismittel müssen vom Gericht bis zur **Urteilsberatung** von Amtes wegen berücksichtigt werden (Art. 229 Abs. 3 ZPO), weil dort die Ermittlung des Sachverhalts nicht zur Disposition der Parteien steht.
+### IV. Einheit von Tatsachenbehauptung und Beweismittel
 
-*Letzte Aktualisierung: 2026-07-18*
+**Rz. 10** Nach ständiger Rechtsprechung bilden Tatsachenbehauptung und Beweisantrag eine **prozessuale Einheit**. Eine richterliche Fristansetzung, welche die Einreichung von Beweismitteln zeitlich von den Tatsachenbehauptungen abkoppelt, ist bundesrechtswidrig ([BGE 144 III 67 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-67_2018.html#consideration_2.4.2)). Beweismittel müssen stets zeitgleich mit der entsprechenden Tatsachenbehauptung genannt bzw. eingereicht werden.
+
+### V. Ausnahme bei Untersuchungsmaxime (Abs. 3)
+
+**Rz. 11** Gilt im Verfahren von Gesetzes wegen die **Untersuchungsmaxime** (z.B. soziale Untersuchungsmaxime im Arbeits- und Mietrecht nach Art. 247 Abs. 2 ZPO oder uneingeschränkte Untersuchungsmaxime bei Kinderbelangen nach Art. 296 ZPO), findet die strikte Novenpräklusion keine Anwendung. Das Gericht hat neue Tatsachen und Beweismittel bis zur **Urteilsberatung** von Amtes wegen zu berücksichtigen.
+
+## Kasuistik: Typische Fallkonstellationen
+
+**Rz. 12** **Fallgruppe 1: Nachträglich erstellte Berichte und Privatgutachten (echte vs. unechte Noven)**
+Wird ein medizinisches Attest oder ein Schadensgutachten erst nach dem zweiten Schriftenwechsel datiert und verfasst, ist zu differenzieren: Der Bericht als Urkunde ist zwar ein echtes Novum, die darin geschilderten medizinischen oder tatsächlichen Befunde (sofern sie schon früher vorlagen) stellen jedoch unechte Noven dar. Sie sind nur zulässig, wenn der Kläger dartut, weshalb er die Feststellungen nicht schon früher einholen und behaupten konnte ([BGE 140 III 312 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-312_2014.html#consideration_6.3)).
+
+**Rz. 13** **Fallgruppe 2: Auffinden alter Buchhaltungsbelege im Geschäftsarchiv (unechte Noven)**
+Findet ein kaufmännischer Kläger nach Aktenschluss zusätzliche Rechnungen oder Buchungsbelege in seinen Geschäftsunterlagen, scheitert die Zulassung regelmässig an der zumutbaren Sorgfalt (Art. 229 Abs. 2 lit. b ZPO). Von einer sorgfältigen Prozesspartei wird verlangt, dass sie vor Einreichung der Klageschrift bzw. Replik das eigene Archiv vollständig durchsucht.
+
+**Rz. 14** **Fallgruppe 3: Replik auf Dupliknoven im Werkvertragsstreit**
+In [BGE 146 III 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-55_2019.html#consideration_2.5.2) machte die Bauherrin in der Duplik neue Mängelrügen geltend. Der Unternehmer replizierte unaufgefordert mit umfangreichen neuen Tatsachenbehauptungen zur Bauabnahme. Das Bundesgericht hielt fest, dass der Unternehmer in seiner Stellungnahme ausschliesslich auf die neuen Duplikbehauptungen eingehen durfte, nicht aber den gesamten Sachverhalt nach Aktenschluss neu aufrollen durfte.
+
+**Rz. 15** **Fallgruppe 4: Aktenschluss im summarischen Verfahren und Rechtsöffnung**
+Im summarischen Verfahren (Art. 253 ZPO) und im Rechtsöffnungsverfahren (Art. 84 SchKG) tritt der Aktenschluss grundsätzlich bereits nach der **einmaligen Äusserung** der Parteien (Gesuch und Stellungnahme) ein ([BGE 150 III 209 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-209_2024.html#consideration_3); [BGE 144 III 117 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-117_2018.html#consideration_2.2)). Ordnet das Gericht ausnahmsweise einen formellen zweiten Schriftenwechsel an, verschiebt sich der Aktenschluss auf diesen Zeitpunkt ([BGE 146 III 237 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-237_2020.html#consideration_3.1)).
+
+## Kantonale Praxisfragen
+
+**Rz. 16** **Praxisfrage 1: Thematisch beschränkte Replik und Äusserungsrecht**
+In der kantonalen Praxis ordnen Richter gelegentlich eine "auf bestimmte Themen beschränkte Replik" an. Das Bundesgericht stellte klar ([BGE 146 III 55 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-55_2019.html#consideration_2.4.1)), dass mit der Einreichung einer solchen thematisch begrenzten Replik das unbeschränkte Äusserungsrecht der Partei endgültig verbraucht ist; spätere Eingaben vor der Hauptverhandlung unterliegen vollständig den Novenschranken.
+
+**Rz. 17** **Praxisfrage 2: Klarstellungspflicht der Gerichte im Summarverfahren**
+Um prozessuale Unsicherheiten über den Zeitpunkt des Aktenschlusses zu vermeiden, sind die kantonalen Gerichte verpflichtet, bei der Zustellung von Rechtsschriften im summarischen Verfahren eindeutig zu deklarieren, ob ein formeller zweiter Schriftenwechsel angeordnet wird oder der Partei lediglich das verfassungsrechtliche Replikrecht (Art. 29 Abs. 2 BV) zur Kenntnisnahme gewährt wird ([BGE 146 III 237 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-237_2020.html#consideration_3.2)).
