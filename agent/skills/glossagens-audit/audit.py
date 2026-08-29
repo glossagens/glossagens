@@ -120,7 +120,7 @@ VOLLTEXT_BUDGET = 4000
 REQ_PRO_SEK = float(os.environ.get("GLOSSAGENS_AUDIT_RPS", "4"))
 
 CITE_LINK = re.compile(
-    r"\[([^\]]*)\]\(https://mcp\.opencaselaw\.ch/entscheid/([^)#\s]+)(#[^)\s]*)?\)"
+    r"\[([^\]]*)\]\((https://(?:mcp\.opencaselaw\.ch/entscheid/|entscheidsuche\.ch/docs/)[^)#\s]+)(#[^)\s]*)?\)"
 )
 # Unverlinkte Zitierungen im Fliesstext. Ein grosser Teil des Bestands zitiert
 # ohne Link (BV Art. 5/8/10/13/16/30/31/32/36 überhaupt nur so); würde der Parser
@@ -779,7 +779,14 @@ def parse_file(path, rel):
 
     units = []
     for m in CITE_LINK.finditer(body):
-        label, decision_id, anchor = m.group(1), m.group(2), m.group(3)
+        label, url_raw, anchor = m.group(1), m.group(2), m.group(3)
+        if "mcp.opencaselaw.ch/entscheid/" in url_raw:
+            decision_id = url_raw.split("mcp.opencaselaw.ch/entscheid/")[1]
+            ref = ref_from_id(decision_id)
+        else:
+            decision_id = None
+            pm_ref = CITE_PLAIN.search(label)
+            ref = pm_ref.group(0) if pm_ref else label
         line = line_at(m.start())
 
         pin, claim = None, None
@@ -794,7 +801,7 @@ def parse_file(path, rel):
             if pm:
                 pin = pm.group(1)
         if claim is None and line.lstrip().startswith("|"):
-            claim = table_claim(line, ref_from_id(decision_id))
+            claim = table_claim(line, ref)
         if claim is None:
             claim = sentence_before(body, m.start())
         if len(claim) < 25 or not re.sub(r"\(?\s*" + CITE_PLAIN.pattern + r".*", "", claim).strip():
@@ -803,8 +810,8 @@ def parse_file(path, rel):
         elif satz_laeuft_weiter(body, m.start(), claim):
             claim = sentence_around(body, m.start()) or claim
         if pin is None and anchor:
-            # URL-Anker codiert den Pinpoint: #e-2-1-1 → 2.1.1
-            am = re.match(r"#e-([\d-]+)$", anchor)
+            # URL-Anker codiert den Pinpoint: #e-2-1-1 → 2.1.1 oder #consideration_2.1
+            am = re.match(r"#(?:e-|consideration_)([\d.-]+)$", anchor)
             if am:
                 pin = am.group(1).replace("-", ".")
         if pin is None:
@@ -823,7 +830,7 @@ def parse_file(path, rel):
                 "file": rel,
                 "line": lineno(m.start()),
                 "decision_id": decision_id,
-                "reference": ref_from_id(decision_id),
+                "reference": ref,
                 "pinpoint": pin,
                 "claim": claim,
                 "claim_id": hashlib.sha256(norm(claim).encode()).hexdigest()[:12],
