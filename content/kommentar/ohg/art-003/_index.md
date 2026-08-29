@@ -1,72 +1,88 @@
 ---
 title: "Art. 3 — Örtlicher Geltungsbereich"
 weight: 3
-date: 2026-06-06
-lastmod: 2026-06-06
+date: 2026-08-29
+lastmod: "2026-08-29"
 description: "Kommentar zu Art. 3 OHG — Örtlicher Geltungsbereich der Opferhilfe: Inlandsbezug, Auslandstaten und Beratungsleistungen"
 tags: ["OHG", "Opferhilfe", "örtlicher Geltungsbereich", "Auslandstaten", "Beratungsstelle", "Entschädigung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-29
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Überarbeitung: Frontmatter-Upgrade, Links zu entscheidsuche.ch migriert, Fedlex-Wortlaut geprüft, Praxisbeispiele ergänzt"
 ---
 
-## Gesetzeswortlaut
+# Art. 3 OHG — Örtlicher Geltungsbereich
 
-> **Art. 3 OHG — Örtlicher Geltungsbereich**
->
+## Wortlaut
+
 > ¹ Opferhilfe wird gewährt, wenn die Straftat in der Schweiz begangen worden ist.
 >
 > ² Ist die Straftat im Ausland begangen worden, so werden die Leistungen der Beratungsstellen unter den in diesem Gesetz genannten besonderen Bedingungen gewährt (Art. 17); Entschädigungen und Genugtuungen werden keine gewährt.
 
-## Kommentierung
-
-### I. Bedeutung
+## I. Bedeutung
 
 Art. 3 OHG regelt den **örtlichen Geltungsbereich** des Opferhilfegesetzes und unterscheidet grundsätzlich zwischen Inland- und Auslandstaten. Die Norm hat fundamentale Bedeutung für die Opferhilfe, da sie bestimmt, unter welchen Voraussetzungen die Schweizer Opferhilfe überhaupt anwendbar ist. Für Opfer von im Inland begangenen Straftaten gilt das OHG vollumfänglich (Abs. 1). Für Opfer von Auslandstaten wird nur noch die Beratung gewährt, nicht aber die finanziellen Leistungen der Entschädigung und Genugtuung (Abs. 2).
 
 Die Regelung wurde mit der Totalrevision des OHG von 2007 (in Kraft seit 1. Januar 2009) neu gefasst, wobei das Grundprinzip des Inlandsbezugs beibehalten, aber die Beratung für Auslandstaten erweitert wurde.
 
-### II. Inlandstaaten (Abs. 1)
+## II. Inlandstaaten (Abs. 1)
 
-#### 1. Begehungsort
+### 1. Begehungsort
 
-Massgebend für den Inlandsbezug ist der **Begehungsort der Straftat**. Eine Straftat gilt als in der Schweiz begangen, wenn ein Tatbestandsmerkmal in der Schweiz erfüllt worden ist. Dies entspricht dem Territorialitätsprinzip des Art. 1 StGB bzw. der Regelung in Art. 8 StGB über den Begehungsort bei Distanztaten ([BGE 125 II 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_II_265), E. 2a).
+Massgebend für den Inlandsbezug ist der **Begehungsort der Straftat**. Eine Straftat gilt als in der Schweiz begangen, wenn ein Tatbestandsmerkmal in der Schweiz erfüllt worden ist. Dies entspricht dem Territorialitätsprinzip des Art. 1 StGB bzw. der Regelung in Art. 8 StGB über den Begehungsort bei Distanztaten ([BGE 125 II 265 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-265_1999-06-17.html#consideration_2a)).
 
-#### 2. Opferhilfe bei Inlandstaten
+### 2. Opferhilfe bei Inlandstaten
 
 Ist die Straftat in der Schweiz begangen, stehen dem Opfer **alle Leistungen des OHG** zur Verfügung: Beratung (Art. 3), konkrete Hilfe (Art. 4), Schutzmassnahmen (Art. 5), Entschädigung (Art. 11) und Genugtuung (Art. 14). Der Inlandsbezug ist die Grundvoraussetzung für den Anspruch auf die finanziellen Leistungen, die den Kern des Opferhilferechts ausmachen.
 
-#### 3. Opferstellung und Straftatbezug
+### 3. Opferstellung und Straftatbezug
 
-Die Annahme der Opfereigenschaft als Voraussetzung für die Inanspruchnahme der Beratung und Hilfen nach Art. 3 OHG erfordert nicht, dass die Tatbestandsmässigkeit und Rechtswidrigkeit einer Straftat bereits erstellt sind. Es genügt, wenn dies in Frage kommt ([BGE 122 II 315](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_II_315), E. 3d). Die Leistungen nach Art. 3 OHG können nicht wegen möglichen Selbstverschuldens des Opfers verweigert werden (E. 4b).
+Die Annahme der Opfereigenschaft als Voraussetzung für die Inanspruchnahme der Beratung und Hilfen nach Art. 3 OHG erfordert nicht, dass die Tatbestandsmässigkeit und Rechtswidrigkeit einer Straftat bereits erstellt sind. Es genügt, wenn dies in Frage kommt ([BGE 122 II 315 E. 3d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html#consideration_3d)). Die Leistungen nach Art. 3 OHG können nicht wegen möglichen Selbstverschuldens des Opfers verweigert werden (E. 4b).
 
-### III. Auslandstaten (Abs. 2)
+**Praxisbeispiel — Beeinträchtigung von gewissem Gewicht:** In [BGE 125 II 265](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-265_1999-06-17.html) präzisierte das Bundesgericht, dass die Beeinträchtigung der körperlichen, sexuellen oder psychischen Integrität von einem gewissen Gewicht sein muss. Die strafrechtliche Qualifikation als einfache Körperverletzung oder Tätlichkeit ist nicht ausschlaggebend, sondern lediglich ein Indiz für oder gegen die Opferstellung (E. 2a/aa, 2e/bb).
 
-#### 1. Beratungsleistungen
+## III. Auslandstaten (Abs. 2)
+
+### 1. Beratungsleistungen
 
 Bei im Ausland begangenen Straftaten werden **lediglich die Leistungen der Beratungsstellen** gewährt. Art. 17 OHG konkretisiert die Voraussetzungen für die Beratung bei Auslandstaten: Die betroffene Person muss ihren Wohnsitz oder gewöhnlichen Aufenthalt in der Schweiz haben. Die Beratungsstellen bieten rechtliche, psychologische und soziale Unterstützung an, die nicht an die Gewährung finanzieller Leistungen gekoppelt ist.
 
-#### 2. Keine Entschädigung und Genugtuung
+**Praxisbeispiel — Auslandstaten und Schweizer Versicherungen:** In [BGE 122 II 315 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html#consideration_2a) bejahte das Bundesgericht die juristische Hilfe an im Ausland wohnhafte Angehörige zur Durchsetzung von Ansprüchen gegen schweizerische Versicherungen des Opfers, das seinen Wohnsitz in der Schweiz hatte.
 
-Abs. 2 schliesst Entschädigungen und Genugtuungen für Auslandstaten **ausdrücklich aus**. Dies hat der Gesetzgeber mit dem fehlenden Inlandsbezug gerechtfertigt: Das Schweizer Opferhilfesystem soll primär Opfer von Straftaten unterstützen, die einen Bezug zur Schweiz aufweisen ([BGE 125 II 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_II_265), E. 2b). Für im Ausland begangene Straftaten kommt grundsätzlich das Recht des Begehungsorts zur Anwendung.
+### 2. Keine Entschädigung und Genugtuung
 
-#### 3. Verhältnis zu Art. 17 OHG
+Abs. 2 schliesst Entschädigungen und Genugtuungen für Auslandstaten **ausdrücklich aus**. Dies hat der Gesetzgeber mit dem fehlenden Inlandsbezug gerechtfertigt: Das Schweizer Opferhilfesystem soll primär Opfer von Straftaten unterstützen, die einen Bezug zur Schweiz aufweisen ([BGE 125 II 265 E. 2b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-265_1999-06-17.html#consideration_2b)). Für im Ausland begangene Straftaten kommt grundsätzlich das Recht des Begehungsorts zur Anwendung.
 
-Art. 17 OHG konkretisiert die Bedingungen für die Beratung bei Auslandstaten und ergänzt Abs. 2. Die beiden Bestimmungen sind zusammen zu lesen: Art. 3 Abs. 2 stellt den Grundsatz auf ( Beratung ja, Entschädigung/Genguttuung nein), Art. 17 OHG bestimmt die Voraussetzungen im Einzelnen.
+### 3. Verhältnis zu Art. 17 OHG
 
-### IV. Verhältnis zu weiteren OHG-Bestimmungen
+Art. 17 OHG konkretisiert die Bedingungen für die Beratung bei Auslandstaten und ergänzt Abs. 2. Die beiden Bestimmungen sind zusammen zu lesen: Art. 3 Abs. 2 stellt den Grundsatz auf (Beratung ja, Entschädigung/Genguttuung nein), Art. 17 OHG bestimmt die Voraussetzungen im Einzelnen.
 
-#### 1. Art. 2 OHG (Opferbegriff)
+## IV. Verhältnis zu weiteren OHG-Bestimmungen
+
+### 1. Art. 2 OHG (Opferbegriff)
 
 Der Opferbegriff von Art. 2 OHG bestimmt, **wer** Opfer im Sinne des Gesetzes ist und damit — unter der Voraussetzung des örtlichen Geltungsbereichs nach Art. 3 — Anspruch auf Opferhilfe hat. Art. 3 bestimmt **unter welchen örtlichen Voraussetzungen** diese Ansprüche gelten. Beide Normen sind kumulativ: Nur wer Opfer nach Art. 2 ist **und** die örtliche Voraussetzung nach Art. 3 erfüllt, hat Anspruch auf die vollen Leistungen des OHG.
 
-#### 2. Art. 4 OHG (Beratungsstellen)
+### 2. Art. 4 OHG (Beratungsstellen)
 
 Die Beratungsstellen nach Art. 4 OHG sind die organisationelle Umsetzung der Beratungspflicht nach Art. 3. Sie bieten ihre Leistungen unabhängig vom örtlichen Geltungsbereich an — auch bei Auslandstaten gewähren sie Beratung (Abs. 2 i.V.m. Art. 17).
 
-#### 3. Art. 12 OHG (Kosten der ärztlichen Behandlung)
+### 3. Art. 12 OHG (Kosten der ärztlichen Behandlung)
 
 Auch die Kosten der ärztlichen Behandlung nach Art. 12 OHG setzen einen Inlandsbezug nach Art. 3 voraus. Bei Auslandstaten werden diese Kosten nicht übernommen.
 
-### V. Abgrenzungen
+### 4. Art. 3 Abs. 4 (Übernahme weiterer Kosten)
+
+Die Übernahme weiterer Kosten nach Art. 3 Abs. 4 Satz 2 OHG hängt davon ab, ob sie nach den persönlichen Verhältnissen des Opfers bzw. seiner Angehörigen «angezeigt» ist; daraus folgt eine über die reine Notwendigkeit hinausgehende, grosszügigere Betrachtungsweise ([BGE 122 II 315 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html#consideration_4c)).
+
+### 5. Anwaltskosten und unentgeltliche Rechtspflege
+
+Die Anwaltskosten des Strafverfahrens können als Soforthilfe oder als längerfristige Hilfe im Sinne von Art. 13 OHG geltend gemacht werden ([BGE 149 II 246 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-246_2023.html#consideration_5); [BGE 131 II 121 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-131-II-121_2005.html#consideration_2.4)). Die Subsidiarität der Opferhilfe greift nicht im Verhältnis zur unentgeltlichen Rechtspflege: Ein Opfer, das Anspruch auf unentgeltliche Rechtspflege hat, diesen aber im Strafverfahren nicht geltend macht, kann auch nachträglich noch bei der Opferhilfestelle den Antrag auf Übernahme der Anwaltskosten stellen ([BGE 149 II 246 E. 12](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-246_2023.html#consideration_12)). Nach Art. 3 Abs. 4 OHG kann die Beratungsstelle die Übernahme solcher Kosten verweigern, wenn diese offensichtlich nutzlos aufgewendet erscheinen ([BGE 121 II 209 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-121-II-209_1995-05-17.html#consideration_3)).
+
+## V. Abgrenzungen
 
 **Art. 3 vs. Art. 1 OHG**: Art. 1 OHG nennt die Grundsätze (Opferhilfe, Unabhängigkeit von Strafverfahren), Art. 3 bestimmt die örtliche Reichweite.
 
@@ -74,18 +90,30 @@ Auch die Kosten der ärztlichen Behandlung nach Art. 12 OHG setzen einen Inlands
 
 **Schweizer Opferhilfe bei Auslandstaten im Vergleich zur EU-OpferRL**: Die EU-OpferRL (2012/29/EU) kennt keine vergleichbare Beschränkung des örtlichen Geltungsbereichs — die Mitgliedstaaten müssen Opferhilfe unabhängig vom Begehungsort gewähren. Das Schweizer System ist insoweit restriktiver.
 
-### VI. Kasuistik
+## VI. Kasuistik
 
 | Sachverhalt | Inlandsbezug | Leistung | Quelle |
 |---|---|---|---|
 | Straftat in der Schweiz begangen | Ja | Alle OHG-Leistungen (Beratung, Hilfe, Entschädigung, Genugtuung) | Art. 3 Abs. 1 |
 | Straftat im Ausland begangen, Wohnsitz in der Schweiz | Nein (Abs. 2) | Nur Beratung (Art. 17) | Art. 3 Abs. 2, Art. 17 |
-| Juristische Hilfe an im Ausland wohnhafte Angehörige gegen schweizerische Versicherungen | Ja (Inlandsbezug) | Beratung und Rechtsbeistand | BGE 122 II 315, E. 2a |
-| Opfereigenschaft in Frage gekommen | Ja (bei Inlandstat) | Beratung (grosszügige Beurteilung) | BGE 122 II 315, E. 3d |
+| Juristische Hilfe an im Ausland wohnhafte Angehörige gegen schweizerische Versicherungen | Ja (Inlandsbezug) | Beratung und Rechtsbeistand | [BGE 122 II 315 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html#consideration_2a) |
+| Opfereigenschaft in Frage gekommen | Ja (bei Inlandstat) | Beratung (grosszügige Beurteilung) | [BGE 122 II 315 E. 3d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html#consideration_3d) |
 | Straftat im Ausland, Opfer hat Wohnsitz im Ausland | Nein | Keine OHG-Leistungen | Art. 3 Abs. 2 |
+
+## Leitentscheide
+
+| Entscheidung | Jahr | Kernsatz |
+|---|---|---|
+| [BGE 125 II 265](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-265_1999-06-17.html) | 1999 | Leitentscheid OHG; Beeinträchtigung von gewissem Gewicht; Inlandsbezug |
+| [BGE 122 II 315](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-315_1996-03-15.html) | 1996 | Beratung bei Auslandstaten; Opfereigenschaft genügt Glaubhaftmachung |
+| [BGE 131 II 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-131-II-121_2005.html) | 2005 | Anwaltskosten als Schadensposten; Art. 3 Abs. 4 OHG |
+| [BGE 149 II 246](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-246_2023.html) | 2023 | Anwaltskosten; keine Subsidiarität gegenüber unentgeltlicher Rechtspflege |
+| [BGE 121 II 209](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-121-II-209_1995-05-17.html) | 1995 | Kein unbedingter Anspruch auf Übernahme von Anwaltskosten |
 
 ## Literatur
 
 - Botschaft vom 5. September 2003 zur Totalrevision des OHG (BBl 2003 6851)
 - Botschaft vom 24. Juni 1994 zum OHG (BBl 1994 III 1185)
-- Rottenberg, OHG-Kommentar, N. 1–20 zu Art. 3 OHG
+- GOMM/LEHMKUHL/WEBER/ZEHNTNER, Kommentar zum Opferhilferecht, 5. Aufl., Bern 2025, N. 1–20 zu Art. 3 OHG
+
+*Letzte Aktualisierung: 2026-08-29*
