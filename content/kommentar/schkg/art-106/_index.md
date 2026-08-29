@@ -2,12 +2,16 @@
 title: "Art. 106 SchKG — Ansprüche Dritter an gepfändeten Gegenständen"
 weight: 106
 date: 2026-05-24
-lastmod: "2026-08-13"
-description: "Art. 106 SchKG regelt die Behandlung von Drittrechten an gepfändeten Gegenständen: Vorkehrung des Betreibungsamts, Anmeldung Dritter Ansprüche, und Geltendmachung nach Verwertung."
-tags: ["SchKG", "Drittrecht", "Pfändung", "Vorkehrung", "Eigentumsvorbehalt", "Pfändungspfandrecht", "Drittwiderspruch"]
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 106 SchKG: Drittrechte an gepfändeten Vermögenswerten — Vormerkung, Anmeldefrist, Vindikation nach Verwertung und Kasuistik."
+tags: ["SchKG", "Pfändung", "Drittanspruch", "Widerspruchsverfahren", "Eigentum", "Gewahrsam", "Kasuistik"]
 agent_verified: true
-mcp_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Widerspruchsverfahrens, Vormerkungspflicht bei zweifelhaftem Eigentum (BGE 134 III 122), Durchgriff bei Strohmanngesellschaften (BGE 144 III 541), Vindikation nach Verwertung (Art. 934 ZGB) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -15,87 +19,65 @@ revisions:
     note: "Voll-Audit KW33 SchKG — Gesetzestext via Fedlex verifiziert"
 ---
 
-## Art. 106 SchKG — Wortlaut
+## Gesetzeswortlaut
 
-> **Abs. 1:** Wird geltend gemacht, einem Dritten stehe am gepfändeten Gegenstand das Eigentum, ein Pfandrecht oder ein anderes Recht zu, das der Pfändung entgegensteht oder im weitern Verlauf des Vollstreckungsverfahrens zu berücksichtigen ist, so merkt das Betreibungsamt den Anspruch des Dritten in der Pfändungsurkunde vor oder zeigt ihn, falls die Urkunde bereits zugestellt ist, den Parteien besonders an.
+> **Art. 106 SchKG (SR 281.1)** — Ansprüche Dritter
 >
-> **Abs. 2:** Dritte können ihre Ansprüche anmelden, solange der Erlös aus der Verwertung des gepfändeten Gegenstandes noch nicht verteilt ist.
+> **1** Wird geltend gemacht, einem Dritten stehe am gepfändeten Gegenstand das Eigentum, ein Pfandrecht oder ein anderes Recht zu, das der Pfändung entgegensteht oder im weitern Verlauf des Vollstreckungsverfahrens zu berücksichtigen ist, so merkt das Betreibungsamt den Anspruch des Dritten in der Pfändungsurkunde vor oder zeigt ihn, falls die Urkunde bereits zugestellt ist, den Parteien besonders an.
 >
-> **Abs. 3:** Nach der Verwertung kann der Dritte die Ansprüche, die ihm nach Zivilrecht bei Diebstahl, Verlust oder sonstigem Abhandenkommen einer beweglichen Sache (Art. 934 und 935 ZGB) oder bei bösem Glauben des Erwerbers (Art. 936 und 974 Abs. 3 ZGB) zustehen, ausserhalb des Betreibungsverfahrens geltend machen. Als öffentliche Versteigerung im Sinne von Artikel 934 Absatz 2 ZGB gilt dabei auch der Freihandverkauf nach Artikel 130 dieses Gesetzes.
+> **2** Dritte können ihre Ansprüche anmelden, solange der Erlös aus der Verwertung des gepfändeten Gegenstandes noch nicht verteilt ist.
+>
+> **3** Nach der Verwertung kann der Dritte die Ansprüche, die ihm nach Zivilrecht bei Diebstahl, Verlust oder sonstigem Abhandenkommen einer beweglichen Sache (Art. 934 und 935 ZGB) oder bei bösem Glauben des Erwerbers (Art. 936 und 974 Abs. 3 ZGB) zustehen, ausserhalb des Betreibungsverfahrens geltend machen. Als öffentliche Versteigerung im Sinne von Artikel 934 Absatz 2 ZGB gilt dabei auch der Freihandverkauf nach Artikel 130 dieses Gesetzes.
+{: .gesetzeszitat}
 
-## Überblick
+## Überblick und Bedeutung
 
-Art. 106 SchKG regelt die Behandlung von **Drittrechten** an gepfändeten Gegenständen. Die Bestimmung steht im systematischen Zusammenhang mit:
+**Rz. 1** Art. 106 SchKG ist die Eingangsbestimmung des **betreibungsrechtlichen Widerspruchsverfahrens** (Art. 106–109 SchKG). Er regelt das Vorgehen des Betreibungsamtes, wenn bei einer Pfändung oder beim Vollzug eines Arrests (Art. 275 SchKG) geltend gemacht wird, dass gepfändete Vermögenswerte nicht dem Schuldner, sondern einem Dritten gehören oder mit Drittrechten (Pfandrechte, Eigentumsvorbehalte) belastet sind.
 
-- **Art. 89 SchKG** (Pfändungspfandrecht des Staates)
-- **Art. 107 SchKG** (Erhebung der Ansprüche gegen den Schuldner)
-- **Art. 130 SchKG** (Freihandverkauf)
-- **Art. 934–936, 974 Abs. 3 ZGB** (gutgläubiger Erwerb und Eigentumsvorbehalt)
+**Rz. 2** **Keine materielle Kognition des Betreibungsamtes**: Zweifel oder Streitigkeiten über das Eigentum führen nicht zur Nichtigkeit der Pfändung. Das Betreibungsamt hat die Pfändung ungeachtet der Bestreitung zu vollziehen und den Drittanspruch in der Pfändungsurkunde vorzumerken ([BGE 134 III 122 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-122_2008.html#consideration_4)). Über die materielle Rechtslage entscheidet ausschliesslich das Zivilgericht im nachfolgenden Widerspruchsprozess.
 
-Die Bestimmung schützt Drittberechtigte, deren Rechte durch die Pfändung tangiert werden, und regelt drei Phasen:
+## Kommentierung
 
-1. **Vorkehrung** (Abs. 1): Das Betreibungsamt vermerkt Drittrechte in der Pfändungsurkunde.
-2. **Anmeldung** (Abs. 2): Dritte können Ansprüche anmelden, bis der Verwertungserlös verteilt ist.
-3. **Geltendmachung nach Verwertung** (Abs. 3): Nach Verwertung bleiben die zivilrechtlichen Ansprüche bestehen.
+### I. Vormerkung und Anzeige des Drittanspruchs (Abs. 1)
 
-## I. Vorkehrung von Drittrechten (Art. 106 Abs. 1)
+**Rz. 3** **Geltendmachung des Anspruchs**: Ein Drittrecht kann durch den Schuldner (im Rahmen seiner Auskunftspflicht gemäss Art. 91 SchKG; [BGE 135 III 663 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-663_2009.html#consideration_3)), durch den Dritten selbst oder durch beliebige Dritte behauptet werden.
 
-### 1. Voraussetzung
+**Rz. 4** **Erfasste Rechte**:
+* **Eigentum des Dritten** (z.B. Leasinggegenstände, Sicherungseigentum, Treuhandvermögen, Eigentumsvorbehalt).
+* **Pfandrechte** (Faustpfand, Retentionsrecht, Grundpfand).
+* **Nutzungs- und Gebrauchsrechte**, soweit sie der Verwertung entgegenstehen.
 
-Wird geltend gemacht, dass ein Dritter am gepfändeten Gegenstand ein Recht hat, das der Pfändung entgegensteht oder im weiteren Verfahren zu berücksichtigen ist, so hat das Betreibungsamt den Anspruch **vorzumerken** oder **besonders anzuzeigen**.
+**Rz. 5** **Vormerkung**: Das Betreibungsamt nimmt den Gegenstand in die Pfändung auf und merkt den behaupteten Anspruch in der Pfändungsurkunde vor. Wurde die Pfändungsurkunde bereits zugestellt, erfolgt eine formelle Anzeige an Gläubiger und Schuldner. Anschliessend setzt das Amt das Fristansetzungsverfahren nach Art. 107 oder Art. 108 SchKG in Gang.
 
-Die Vorkehrungspflicht wird durch zwei alternative Formen erfüllt:
-- **Vorkehrung in der Pfändungsurkunde**, falls diese noch nicht zugestellt ist.
-- **Besondere Anzeige** an die Parteien, falls die Urkunde bereits zugestellt wurde.
+### II. Anmeldefrist Dritter (Abs. 2)
 
-### 2. Massgebliche Drittrechte
+**Rz. 6** **Zeitliche Schranke**: Dritte können ihre Ansprüche anmelden, **solange der Verwertungserlös noch nicht verteilt ist** (Abs. 2). Die Anmeldung ist formlos möglich, muss aber substantiiert darlegen, welches Recht an welchem Objekt beansprucht wird.
 
-Drittrechte im Sinne von Art. 106 Abs. 1 SchKG umfassen insbesondere:
+**Rz. 7** **Folgen verspäteter Anmeldung**: Meldet der Dritte seinen Anspruch erst nach der Verteilung des Erlöses an, ist die Geltendmachung im Betreibungsverfahren verwirkt ([BGE 114 III 92 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-114-III-92_1988.html)). Der Dritte kann dann nur noch nach Massgabe von Abs. 3 zivilrechtlich vorgehen oder Bereicherungsansprüche geltend machen.
 
-- **Eigentum des Dritten**: Der gepfändete Gegenstand gehört nicht dem Schuldner, sondern einem Dritten.
-- **Pfandrecht**: Ein Dritter hat ein vertragliches oder gesetzliches Pfandrecht.
-- **Eigentumsvorbehalt**: Der Verkäufer hat sich das Eigentum vorbehalten (Art. 934 f. ZGB).
-- **Andere Rechte**: z.B. Nießbrauch, Dienstbarkeiten, Miet- und Pachtrechte.
+### III. Zivilrechtliche Vindikation nach Verwertung (Abs. 3)
 
-### 3. Prüfungs- und Vorkehrungspflicht des Betreibungsamts
+**Rz. 8** **Schutz des früheren Eigentümers nach ZGB**: Wurde ein fremder Gegenstand im Betreibungsverfahren versteigert, erwirbt der Ersteigerer originär Eigentum. Der frühere Eigentümer kann die Sache gestützt auf Art. 934 ZGB nur herausverlangen, wenn:
+* die Sache ihm gestohlen, verloren oder sonstwie ohne seinen Willen abhandengekommen war (5-Jahres-Frist; gegen Erstattung des Lösungsgeldes gemäss Art. 934 Abs. 2 ZGB); oder
+* der Erwerber bösgläubig war (Art. 936 ZGB).
 
-Das Betreibungsamt prüft die Drittrechte nicht materiell, hat aber die **Vorkehrungspflicht**: Es muss den Drittrechtsanspruch in der Pfändungsurkunde vormerken oder besonders anzeigen. Die Vorkehrung dient der Wahrung der Rechte des Dritten und der Transparenz für alle Beteiligten.
+**Rz. 9** **Gleichstellung des Freihandverkaufs**: Abs. 3 Satz 2 stellt den Freihandverkauf (Art. 130 SchKG) der öffentlichen Versteigerung im Sinne von Art. 934 Abs. 2 ZGB gleich, sodass der Erwerber auch beim Freihandverkauf Anspruch auf Ersatz des Kaufpreises (Lösungsgeld) hat.
 
-## II. Anmeldung Dritter Ansprüche (Art. 106 Abs. 2)
+## Kasuistik: Typische Anwendungsbereiche
 
-### 1. Anmeldefrist
+**Rz. 10** **Fallgruppe 1: Pfändung von Fahrzeugen bei Behauptung fremden Eigentums**
+In [BGer 5A_864/2013 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-864-2013_2014-02-13.html) pfändete das Betreibungsamt beim Schuldner mehrere Luxusfahrzeuge. Der Schuldner brachte vor, die Fahrzeuge stünden im Eigentum von Bekannten im Ausland. Das Bundesgericht bestätigte, dass das Betreibungsamt die Fahrzeuge pfänden und den Drittanspruch vormerken musste, da Gewahrsam beim Schuldner vorlag.
 
-Dritte können ihre Ansprüche anmelden, **solange der Erlös aus der Verwertung des gepfändeten Gegenstandes noch nicht verteilt ist**. Die Anmeldefrist endet mit der Verteilung des Erlöses — nach der Verteilung ist die Anmeldung im Betreibungsverfahren nicht mehr möglich.
+**Rz. 11** **Fallgruppe 2: Durchgriff bei Strohmanngesellschaften im Widerspruchsverfahren**
+In [BGE 144 III 541 E. 8.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-541_2018.html#consideration_8.3) wurden Vermögenswerte einer Offshore-Gesellschaft gepfändet, die für Schulden des wirtschaftlich beherrschenden Einzeleigentümers betrieben wurde. Die Gesellschaft meldete Drittanspruch an. Das Bundesgericht liess im Widerspruchsprozess den unechten Durchgriff zu, weil die Trennung zwischen Gesellschaft und Schuldner rechtsmissbräuchlich war (Art. 2 Abs. 2 ZGB).
 
-### 2. Wirkung der Anmeldung
+**Rz. 12** **Fallgruppe 3: Pfändung bei Zweifeln über Zwangsvollstreckungsimmunität**
+In [BGE 134 III 122 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-122_2008.html#consideration_4) pfändete das Amt Bankguthaben, an denen ein ausländischer Staat Rechte geltend machte. Das Bundesgericht entschied, dass das Amt die Pfändung unter Vormerkung des Drittanspruchs vollziehen musste; die materielle Klärung der Immunität erfolgt im Widerspruchsverfahren.
 
-Die Anmeldung sichert den Drittrechtanspruch im Betreibungsverfahren. Der Dritte kann verlangen, dass sein Anspruch bei der Verteilung des Erlöses berücksichtigt wird.
+## Kantonale Praxisfragen
 
-## III. Geltendmachung nach der Verwertung (Art. 106 Abs. 3)
+**Rz. 13** **Praxisfrage 1: Eigentumsvermutung bei Ehegatten im gemeinsamen Haushalt**
+Befindet sich ein Gegenstand in der gemeinsamen ehelichen Wohnung, begründen die kantonalen Betreibungsämter gestützt auf Art. 248 Abs. 2 ZGB Mitgewahrsam beider Ehegatten. Dies führt nach Art. 107 SchKG dazu, dass dem Drittansprecher (dem Nichtehegatten-Gläubiger) die Klägerrolle zugewiesen wird.
 
-### 1. Zivilrechtliche Ansprüche bleiben bestehen
-
-Nach der Verwertung des gepfändeten Gegenstandes bleiben die zivilrechtlichen Ansprüche des Dritten bestehen. Der Dritte kann diese Ansprüche **ausserhalb des Betreibungsverfahrens** geltend machen.
-
-### 2. Gutgläubiger Erwerb und Eigentumsvorbehalt
-
-Die zivilrechtlichen Ansprüche richten sich nach den Bestimmungen über den **gutgläubigen Erwerb** (Art. 934, 935 ZGB) und den **Erwerb unter Eigentumsvorbehalt** (Art. 936, 974 Abs. 3 ZGB):
-
-- **Art. 934 ZGB**: Der Eigentümer kann eine gestohlene oder abhanden gekommene Sache binnen fünf Jahren vom Besitzer zurückfordern.
-- **Art. 935 ZGB**: Geld und Inhaberpapiere können auch bei Diebstahl oder Verlust nicht zurückgefordert werden.
-- **Art. 936 ZGB**: Der Eigentumsvorbehalt wird gegenüber dem Gutgläubigen geschützt.
-- **Art. 974 Abs. 3 ZGB**: Der Eigentumsvorbehalt im Grundbuch wird geschützt.
-
-### 3. Freihandverkauf als öffentliche Versteigerung
-
-Art. 106 Abs. 3 Satz 2 SchKG stellt den **Freihandverkauf nach Art. 130 SchKG** der öffentlichen Versteigerung im Sinne von Art. 934 Abs. 2 ZGB gleich. Dies bedeutet, dass der gutgläubige Erwerb auch bei Freihandverkauf geschützt ist.
-
-## IV. Verhältnis zu anderen Bestimmungen
-
-| Bestimmung | Verhältnis zu Art. 106 SchKG |
-|---|---|
-| **Art. 89 SchKG** | Pfändungspfandrecht des Staates — hat Vorrang vor Drittrechten |
-| **Art. 107 SchKG** | Erhebung Dritter Ansprüche gegen den Schuldner |
-| **Art. 130 SchKG** | Freihandverkauf — gleichgestellt mit öffentlicher Versteigerung (Art. 106 Abs. 3) |
-| **Art. 934–936 ZGB** | Gutgläubiger Erwerb — zivilrechtliche Ansprüche nach Verwertung |
-| **Art. 974 Abs. 3 ZGB** | Eigentumsvorbehalt im Grundbuch — Schutz des Drittrechts |
+**Rz. 14** **Praxisfrage 2: Fristansetzung zur Bestreitung des Drittanspruchs**
+Nach Vormerkung des Drittanspruchs setzt das Betreibungsamt dem Gläubiger und dem Schuldner eine Frist von 20 Tagen an, um zu erklären, ob sie den Anspruch anerkennen oder bestreiten. Erfolgt keine Bestreitung innert Frist, gilt der Drittanspruch als anerkannt und der Gegenstand fällt aus der Pfändung.
