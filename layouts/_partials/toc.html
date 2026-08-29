@@ -9,9 +9,15 @@
     git -C themes/hextra show HEAD:layouts/_partials/toc.html > layouts/_partials/toc.html
 
   und anschliessend die beiden ANPASSUNG-Blöcke wieder einsetzen. Zuletzt
-  gemacht für Hextra c9feec7 (20.08.2026); die vorherige Fassung hing auf dem
-  Stand vor `--navbar-height` → `--hextra-navbar-height` fest, was die
-  Sticky-Spalte nach dem Update stillschweigend gebrochen hätte.
+  gemacht für Hextra c9feec7 (29.08.2026).
+
+  ACHTUNG bei Tailwind-Klassen: `themes/hextra/assets/css/compiled/main.css`
+  ist vorkompiliert. Eine hier erfundene Utility-Klasse erzeugt KEINE Regel —
+  sie fällt lautlos aus. Nur Klassen verwenden, die im Theme-Markup schon
+  vorkommen. Genau daran hing die Sticky-Spalte: die Fassung vom 20.08.2026
+  setzte `hx:top-[var(--hextra-navbar-height)]`, doch c9feec7 kennt nur
+  `--navbar-height`; die Klasse war im Bundle nicht vorhanden, `top` blieb
+  `auto` und `position: sticky` damit wirkungslos.
 */}}
 {{/* TODO: toc bottom part should be able to hide */}}
 {{- $toc := .Params.toc | default true -}}
@@ -25,7 +31,7 @@
 
 <nav class="hextra-toc hx:order-last hx:hidden hx:w-64 hx:shrink-0 hx:xl:block hx:print:hidden hx:px-4" aria-label="{{ $tableOfContents }}">
   {{- if $toc }}
-    <div class="hextra-scrollbar hx:sticky hx:top-[var(--hextra-navbar-height)] hx:overflow-y-auto hx:pr-4 hx:pt-6 hx:text-sm [hyphens:auto] hx:max-h-[calc(100vh-var(--hextra-navbar-height)-env(safe-area-inset-bottom))] hx:ltr:-mr-4 hx:rtl:-ml-4">
+    <div class="hextra-scrollbar hx:sticky hx:top-16 hx:overflow-y-auto hx:pr-4 hx:pt-6 hx:text-sm [hyphens:auto] hx:max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] hx:ltr:-mr-4 hx:rtl:-ml-4">
       {{- with $headings -}}
         <p class="hx:mb-4 hx:font-semibold hx:tracking-tight">{{ $onThisPage }}</p>
         {{- range . -}}
