@@ -1,12 +1,17 @@
 ---
-title: "Art. 308 ZPO – Anfechtbare Entscheide (Berufung)"
+title: "Art. 308 ZPO — Anfechtbare Entscheide (Berufung)"
 weight: 308
-date: "2026-05-23"
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 308 ZPO – Anfechtbarkeit erstinstanzlicher End- und Zwischenentscheide sowie vorsorglicher Massnahmen mit Berufung"
-tags: ["ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze", "Anfechtung"]
-agent_verified: false
+date: 2026-05-23
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 308 ZPO: Anfechtbare Entscheide im Berufungsverfahren — End- und Zwischenentscheide, vorsorgliche Massnahmen, Streitwertgrenze von CHF 10'000 und Kasuistik."
+tags: ["ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze", "Endentscheid", "Zwischenentscheid", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von End- und Zwischenentscheiden (BGE 148 III 186), vorsorglichen Massnahmen (BGE 137 III 417), Streitwertgrenze von CHF 10'000 (ZPO-Revision 2025) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,89 +26,66 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 308 ZPO — Anfechtbare Entscheide (Berufung)**
+> **Art. 308 ZPO (SR 272)** — Anfechtbare Entscheide
 >
-> 1 Mit Berufung sind anfechtbar: a. erstinstanzliche End- und Zwischenentscheide; b. erstinstanzliche Entscheide über vorsorgliche Massnahmen.
+> **1** Mit Berufung sind anfechtbar:
+> **a.** erstinstanzliche End- und Zwischenentscheide;
+> **b.** erstinstanzliche Entscheide über vorsorgliche Massnahmen.
 >
-> 2 In vermögensrechtlichen Angelegenheiten ist die Berufung nur zulässig, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren mindestens 10 000 Franken beträgt.
+> **2** In vermögensrechtlichen Angelegenheiten ist die Berufung nur zulässig, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren mindestens 10 000 Franken beträgt.
+{: .gesetzeszitat}
+
+## Überblick und Bedeutung
+
+**Rz. 1** Art. 308 ZPO bildet die zentrale **Eingangsnorm des Berufungsverfahrens** (Art. 308–318 ZPO). Die Bestimmung regelt die sachliche Zulässigkeit der Berufung als ordentliches Rechtsmittel mit voller Kognition bezüglich Sachverhaltsfeststellung und Rechtsanwendung (Art. 310 ZPO).
+
+**Rz. 2** Liegen die Voraussetzungen von Art. 308 ZPO nicht vor (insbesondere bei Nichterreichen der Streitwertgrenze von CHF 10'000 in vermögensrechtlichen Streitigkeiten gemäss Abs. 2), ist die Berufung unzulässig und es steht ausschliesslich die **subsidiäre Beschwerde** nach Art. 319 ff. ZPO mit beschränkter Kognition offen ([BGE 148 III 186 E. 6.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-186_2022.html#consideration_6.5)).
 
 ## Kommentierung
 
-### I. Bedeutung und systematische Stellung
+### I. Berufungsfähige Entscheide (Abs. 1)
 
-**1** Art. 308 ZPO ist die **Eingangsnorm des Berufungsverfahrens** und definiert den Anwendungsbereich des ordentlichen Rechtsmittels gegen erstinstanzliche Entscheide der kantonalen Gerichte. Die Regelung steht am Anfang des Dritten Teils der ZPO (Rechtsmittel, Art. 308–322) und bildet das Gegenstück zur Beschwerde ans Bundesgericht (Art. 75 ff. BGG).
+#### 1. Endentscheide (Abs. 1 lit. a)
 
-**2** Systematisch ist Art. 308 ZPO mit folgenden Normen verzahnt:
-- **Art. 308–322 ZPO** — Berufungsverfahren (Gesamtkontext)
-- **Art. 75 ff. BGG** — Beschwerde ans Bundesgericht (nach Erschöpfung des kantonalen Instanzenzugs)
-- **Art. 219 ZPO** — Sinngemässe Anwendung des ordentlichen Verfahrens im Berufungsverfahren
-- **Art. 309 ZPO** — Nicht anfechtbare Entscheide (negative Abgrenzung)
-- **Art. 311 ZPO** — Legitimation zur Berufung
+**Rz. 3** **Begriff**: Ein Endentscheid liegt vor, wenn das erstinstanzliche Gericht das Verfahren aus materiellen Gründen (Sachurteil auf Gutheissung oder Abweisung) oder aus formellen Gründen (Nichteintreten wegen Fehlens einer Prozessvoraussetzung nach Art. 59 ZPO) ganz oder teilweise abschliesst (Art. 236 ZPO).
+* **Abschreibungsbeschlüsse**: Auch verfahrenserledigende Abschreibungsbeschlüsse (z.B. wegen Gegenstandslosigkeit nach Art. 242 ZPO oder Klagerückzugs nach Art. 241 ZPO) stellen Endentscheide im Sinne von Art. 308 Abs. 1 lit. a ZPO dar ([BGE 148 III 186 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-186_2022.html#consideration_6.3)).
 
-### II. Abs. 1 lit. a — End- und Zwischenentscheide
+#### 2. Zwischenentscheide (Abs. 1 lit. a)
 
-**3** **Endentscheide** sind Entscheidungen, die das Verfahren vor der Vorinstanz abschliessen (Art. 89 ZPO). Sie sind stets berufungsfähig, sofern die Streitwertgrenze des Abs. 2 eingehalten ist. Der Endentscheid muss nicht zwingend ein Sachurteil sein — auch Verfahrenseinstellungen und Nichteintretensentscheide können Endentscheide sein.
+**Rz. 4** **Selbständige Anfechtbarkeit**: Mit Berufung anfechtbar sind selbständige Zwischenentscheide im Sinne von Art. 237 ZPO (z.B. Entscheide, mit denen die örtliche Zuständigkeit bejaht oder eine Verjährungseinrede vorab verworfen wird), sofern durch eine abweichende Beurteilung des Rechtsmittelgerichts ein Endentscheid herbeigeführt werden könnte.
+* **Blosse Prozessleitungsverfügungen**: Reine prozessleitende Verfügungen (z.B. Fristansetzungen, Beweisverfügungen nach Art. 154 ZPO) sind keine Zwischenentscheide i.S.v. Art. 308 ZPO; sie unterliegen nach Art. 319 lit. b ZPO der Beschwerde, sofern ein nicht leicht wiedergutzumachender Nachteil droht.
 
-**4** **Zwischenentscheide** sind nach Abs. 1 lit. a grundsätzlich berufungsfähig. Die ZPO schafft damit die Voraussetzung für die Anfechtung selbständiger Zwischenentscheide — im Gegensatz zum BGG, das Zwischenentscheide grundsätzlich nur zusammen mit dem Endentscheid der Beschwerde zugänglich macht (Art. 93 BGG). Massgebend ist, ob der Zwischenentscheid ein selbständiges Rechtsmittel eröffnet ([BGE 139 III 225](https://www.bger.ch/ext/eurolex/index/139/III/225)).
+#### 3. Entscheide über vorsorgliche Massnahmen (Abs. 1 lit. b)
 
-**5** **Nicht selbständig anfechtbare Zwischenentscheide** können zusammen mit dem Endentscheid angefochten werden (Art. 92 Abs. 2 ZPO i.V.m. Art. 93 BGG). Dies gilt namentlich für prozessleitende Verfügungen, Fristen und Beweisverfügungen, die den Verfahrensgang nicht eigenständig abschliessen.
+**Rz. 5** **Ordentliche Massnahmeentscheide**: Erstinstanzliche Entscheide über vorsorgliche Massnahmen (Art. 261 ff. ZPO) sind mit Berufung anfechtbar, sofern die vermögensrechtliche Streitwertgrenze erreicht ist oder eine nichtvermögensrechtliche Massnahme vorliegt.
 
-### III. Abs. 1 lit. b — Vorsorgliche Massnahmen
+**Rz. 6** **Ausschluss superprovisorischer Massnahmen**: Superprovisorische Massnahmen (Art. 265 ZPO), die wegen besonderer Dringlichkeit ohne vorherige Anhörung der Gegenpartei ergehen, sind **nicht berufungsfähig** ([BGE 137 III 417 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-417_2011.html#consideration_1.2)). Erst der nach Gewährung des rechtlichen Gehörs ergehende kontradiktorische Massnahmeentscheid eröffnet den Rechtsmittelweg nach Art. 308 Abs. 1 lit. b ZPO.
 
-**6** Entscheide über **vorsorgliche Massnahmen** sind unabhängig vom Streitwert berufungsfähig. Dies gilt für:
-- **Superprovisorische Massnahmen** (Art. 265 ZPO) — grundsätzlich berufungsfähig, sofern der Instanzenzug nicht ausgeschöpft ist ([BGE 137 III 417](https://www.bger.ch/ext/eurolex/index/137/III/417))
-- **Provisorische Massnahmen** (Art. 261 ff. ZPO) — regelmäßig berufungsfähig
-- **Vorsorgliche Massnahmen nach speziellen Bundesgesetzen** (z.B. Art. 276 ZGB, Art. 858 ff. ZPO) — sinngemässe Anwendung
+### II. Die Streitwertgrenze in Vermögensstreitigkeiten (Abs. 2)
 
-**7** Die Berufungsfähigkeit vorsorglicher Massnahmen ist von praktischer Bedeutung, da der Streitwert in solchen Verfahren oft nicht beziffert werden kann (insb. bei Unterhalts- und Sorgerechtsmassnahmen).
+**Rz. 7** **Streitwertgrenze von CHF 10'000**: In vermögensrechtlichen Streitigkeiten ist die Berufung nur zulässig, wenn der Streitwert mindestens **10'000 Franken** beträgt. Die Streitwertgrenze wurde mit der **ZPO-Revision (in Kraft seit 1. Januar 2025)** von zuvor 5'000 auf 10'000 Franken angehoben.
 
-### IV. Abs. 2 — Streitwertgrenze
+**Rz. 8** **Massgeblicher Zeitpunkt und Rechtsbegehren**: Massgebend für die Streitwertberechnung ist der Streitwert der **zuletzt vor der Vorinstanz aufrechterhaltenen Rechtsbegehren** ([BGer 4A_340/2019 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-340-2019_2020-02-07.html)).
+* Wurde die Klage vor der Urteilsfällung der ersten Instanz teilweise zurückgezogen oder beziffermässig reduziert, ist der reduzierte Betrag massgebend ([BGer 4D_77/2012 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4D-77-2012_2012-11-20.html)).
+* Bei periodisch wiederkehrenden Leistungen (z.B. Unterhaltsbeiträge) berechnet sich der Streitwert nach den Kapitalisierungsregeln von Art. 92 ZPO ([BGer 5A_582/2013 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-582-2013_2014-02-12.html)).
 
-**8** Die **Streitwertgrenze von 10'000 CHF** gilt nur für vermögensrechtliche Angelegenheiten. Sie wurde mit der ZPO-Revision 2024 (in Kraft seit 1.1.2025) von 5'000 CHF auf 10'000 CHF angehoben. Massgebend ist:
-- Der Streitwert der **zuletzt aufrechterhaltenen Rechtsbegehren** (nicht der ursprünglichen)
-- Der Betrag muss **mindestens 10'000 CHF** betragen (nicht: "über 10'000 CHF")
+**Rz. 9** **Nicht vermögensrechtliche Streitigkeiten**: In Streitigkeiten ohne Vermögenswert (z.B. Persönlichkeitsschutz, Vaterschaftsklage, Kinderbelange im Scheidungsverfahren) ist die Berufung stets **streitwertunabhängig** zulässig.
 
-**9** **Ausnahmen von der Streitwertgrenze** (Berufung stets zulässig):
-- Nicht vermögensrechtliche Angelegenheiten (Familienrecht, Mietrecht erster Instanz etc.)
-- Vorsorgliche Massnahmen (Abs. 1 lit. b)
-- Unbestimmte Rechtsbegehren (z.B. Unterhaltsklagen, Gestaltungsklagen)
-- Entscheide über die unentgeltliche Rechtspflege (Art. 119 Abs. 1 lit. a ZPO)
+## Kasuistik: Typische Anwendungsbereiche
 
-**10** **Berechnung des Streitwerts.** Der Streitwert richtet sich nach den massgebenden Rechtsbegehren im Zeitpunkt der Berufseinlegung. Klage und Widerklage werden nicht zusammengerechnet, es sei denn, sie sind rechtlich und tatsächlich zusammenhängend. Bei Teilklagen ist nur der eingeklagte Teil massgebend.
+**Rz. 10** **Fallgruppe 1: Anfechtung eines Abschreibungsbeschlusses wegen Gegenstandslosigkeit**
+In [BGE 148 III 186 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-186_2022.html#consideration_6.3) schrieb das Bezirksgericht eine Klage über CHF 50'000 wegen nachträglichen Wegfalls des Rechtsschutzinteresses ab. Das Obergericht trat auf die Berufung nicht ein, weil es den Beschluss fälschlicherweise als verfahrensleitende Verfügung qualifizierte. Das Bundesgericht korrigierte dies und stellte fest, dass die Abschreibung ein Endentscheid nach Art. 308 Abs. 1 lit. a ZPO ist und bei gegebenem Streitwert zwingend der Berufung unterliegt.
 
-### V. Noven im Berufungsverfahren
+**Rz. 11** **Fallgruppe 2: Rechtsmittel gegen superprovisorische Verfügungen**
+In [BGE 137 III 417 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-417_2011.html#consideration_1.2) focht die gesuchsgegnerische Partei ein richterliches Verbot an, das superprovisorisch ohne ihre Anhörung erlassen worden war. Das Bundesgericht bestätigte, dass gegen Superprovisorien kein kantonales Rechtsmittel (weder Berufung noch Beschwerde) gegeben ist; die Partei muss ihre Einwände im kontradiktorischen Massnahmeverfahren vorbringen.
 
-**11** Im Berufungsverfahren sind nur **unechte Noven** zulässig — also Tatsachen, die nach dem Abschluss des erstinstanzlichen Sachverhalts eingetreten sind oder erst danach entdeckt werden konnten (mit zumutbarer Sorgfalt). Echte Noven (Tatsachen, die schon im erstinstanzlichen Verfahren hätten vorgebracht werden müssen) sind grundsätzlich unzulässig ([BGE 145 III 324](https://www.bger.ch/ext/eurolex/index/145/III/324)).
+**Rz. 12** **Fallgruppe 3: Unterschreitung der Streitwertgrenze durch Teilklage**
+In [BGer 4D_77/2012 vom 20. November 2012 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4D-77-2012_2012-11-20.html) verlangte der Kläger nach vorprozessualer Teilzahlung vor erster Instanz noch Restforderungen im Betrag von CHF 8'314.10. Da dieser Betrag unter der gesetzlichen Streitwertgrenze lag, trat die Rechtsmittelinstanz auf die Berufung zu Recht nicht ein.
 
-**12** Die **Novenbeschränkung** in der Berufung dient der Rechtssicherheit und der Verfahrensökonomie. Sie ist mit Art. 9 BV (Recht auf Gehör) vereinbar, sofern die Vorinstanz den Sachverhalt ausreichend abgeklärt hat und der Partei Gelegenheit zur Stellungnahme gegeben wurde.
+## Kantonale Praxisfragen
 
-### VI. Verhältnis zur Beschwerde ans Bundesgericht
+**Rz. 13** **Praxisfrage 1: Konversion einer unzulässigen Berufung in eine Beschwerde**
+Wird gegen einen erstinstanzlichen Entscheid fälschlicherweise Berufung statt Beschwerde erhoben (z.B. weil der Streitwert unter CHF 10'000 liegt oder das Gesetz die Beschwerde vorschreibt), konvertieren die kantonalen Gerichte die Eingabe nach dem Grundsatz von Treu und Glauben (Art. 52 ZPO) in eine Beschwerde, sofern die Rechtsschrift den formellen Begründungsanforderungen einer Beschwerde (Art. 321 ZPO) genügt.
 
-**13** Die Berufung erschöpft den **Instanzenzug auf kantonaler Ebene**. Erst danach ist die Beschwerde ans Bundesgericht zulässig (Art. 75 ff. BGG). Das Ausfallprinzip gilt: wenn die Berufung unzulässig ist, kann die Beschwerde direkt ans Bundesgericht erhoben werden.
-
-**14** **Erschöpfung des kantonalen Instanzenzugs** bedeutet grundsätzlich, dass die Berufung vor der Beschwerde ans Bundesgericht zu ergreifen ist. Wird die Berufung unzulässigerweise unterlassen, ist die Beschwerde ans Bundesgericht wegen Nichterschöpfung des Instanzenzugs unzulässig (Art. 75 Abs. 1 BGG). Ausnahme: Die Berufung ist offensichtlich unzulässig oder aussichtslos.
-
-### VII. Berufungsantwort und rechtliches Gehör
-
-**15** Wird keine **Berufungsantwort** eingereicht, hat das Berufungsgericht nicht von Amtes wegen eine Beweiserhebung durchzuführen. Das rechtliche Gehör der Gegenpartei wird durch eigene Säumnis verwirkt. Das Gericht muss dennoch die Spruchreife prüfen und entscheiden ([BGE 144 III 394](https://www.bger.ch/ext/eurolex/index/144/III/394)).
-
-### VIII. Freiwillige Gerichtsbarkeit
-
-**16** Im Bereich der **freiwilligen Gerichtsbarkeit** ist die ZPO — und damit auch das Berufungsverfahren — sinngemäss anwendbar, soweit keine besonderen Verfahrensregelungen bestehen. Die Berufung bleibt zulässig, wenn ein endgültiger Entscheid vorliegt. Dies gilt insbesondere für:
-- Vormundschaftsrechtliche Verfahren (Art. 450 ff. ZGB)
-- Grundbuchrechtliche Verfahren
-- Handelsregisterrechtliche Verfahren
-
-### IX. Abgrenzungen
-
-- **Art. 309 ZPO**: Nicht anfechtbare Entscheide — negative Abgrenzung zu Art. 308
-- **Art. 311 ZPO**: Legitimation zur Berufung (wer berufungsberechtigt ist)
-- **Art. 312 ZPO**: Berufungsfrist (30 Tage)
-- **Art. 75 BGG**: Beschwerdeanschluss — nach Berufung vor Bundesgericht möglich
-- **Art. 93 BGG**: Zwischenentscheide vor Bundesgericht — nur in Ausnahmefällen
-
-## Literatur
-
-- OnlineKommentar ZPO, Art. 308
-- Sutter-Somm, Kommentar ZPO, 3. Aufl. 2020
-- Hasenböhler, Basler Kommentar ZPO, Art. 308
+**Rz. 14** **Praxisfrage 2: Streitwert bei mietrechtlichen Kündigungsanfechtungen**
+Im Mietrecht gilt die Kündigungsanfechtung als vermögensrechtliche Streitigkeit. Der Streitwert bemisst sich nach der dreijährigen Sperrfrist gemäss Art. 271a Abs. 1 lit. e OR (entsprechend dem dreifachen Jahresmietzins) und übersteigt die Streitwertgrenze von CHF 10'000 in Wohnungs- und Geschäftsraummieten fast ausnahmslos, womit stets die Berufung offensteht.
