@@ -2,10 +2,16 @@
 title: "Art. 24 RPG — Standortgebundene Bauten und Anlagen"
 weight: 24
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: "2026-08-29"
 description: "Kommentar zu Art. 24 RPG: Ausnahmebewilligung für standortgebundene Bauten und Anlagen ausserhalb der Bauzonen, einschliesslich der Voraussetzungen der Standortgebundenheit und der Interessenabwägung."
 tags: ["RPG", "Ausnahmebewilligung", "Standortgebundenheit", "Bauen ausserhalb der Bauzonen", "Raumplanung", "Nichtbaugebiet", "Interessenabwägung"]
 agent_verified: true
+revisions:
+  - date: 2026-08-29
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Entscheide mit entscheidsuche.ch-Links verknüpft, kantonale Praxis ergänzt, Revisions-Vermerk ergänzt"
 ---
 
 # Art. 24 RPG — Standortgebundene Bauten und Anlagen
@@ -50,60 +56,66 @@ Die Standortgebundenheit ist die erste kumulative Voraussetzung der Ausnahmebewi
 
 #### 1. Objektiver Massstab
 
-Die Standortgebundenheit beurteilt sich nach **objektiven Massstäben**. Weder die subjektiven Vorstellungen des Bauherrn noch die persönliche Zweckmässigkeit oder Bequemlichkeit sind massgebend (BGE 124 II 252 E. 4a S. 255; BGE 117 Ib 266 E. 2a). Generell ist bei der Beurteilung der Voraussetzungen ein **strenger Massstab** anzulegen (BGE 117 Ib 379 E. 3a).
+Die Standortgebundenheit beurteilt sich nach **objektiven Massstäben**. Weder die subjektiven Vorstellungen des Bauherrn noch die persönliche Zweckmässigkeit oder Bequemlichkeit sind massgebend ([BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 4a S. 255; BGE 117 Ib 266 E. 2a). Generell ist bei der Beurteilung der Voraussetzungen ein **strenger Massstab** anzulegen (BGE 117 Ib 379 E. 3a).
 
 #### 2. Absolute und relative Standortgebundenheit
 
 Die Rechtsprechung unterscheidet zwei Ausprägungen:
 
-**Absolute Standortgebundenheit** liegt vor, wenn eine Anlage aus technischen oder betriebswirtschaftlichen Gründen oder wegen der Bodenbeschaffenheit auf einen Standort ausserhalb der Bauzone *angewiesen* ist oder wenn die Anlage aus bestimmten Gründen in einer Bauzone ausgeschlossen ist (BGE 129 II 63 E. 3.1; BGE 124 II 252 E. 4a; BGE 136 II 214 E. 2.1).
+**Absolute Standortgebundenheit** liegt vor, wenn eine Anlage aus technischen oder betriebswirtschaftlichen Gründen oder wegen der Bodenbeschaffenheit auf einen Standort ausserhalb der Bauzone *angewiesen* ist oder wenn die Anlage aus bestimmten Gründen in einer Bauzone ausgeschlossen ist ([BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) E. 3.1; [BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 4a; [BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 2.1).
 
-**Relative Standortgebundenheit** genügt, wenn gewichtige Gründe einen Standort in der Nichtbauzone gegenüber anderen Standorten innerhalb der Bauzone als *erheblich vorteilhafter* erscheinen lassen (BGE 136 II 214 E. 2.1; BGE 141 II 245 E. 7.6.1). Ein Standort in der Bauzone muss nicht absolut ausgeschlossen sein. Die Bejahung der relativen Standortgebundenheit setzt jedoch eine umfassende Interessenabwägung voraus, die sich mit derjenigen nach Art. 24 lit. b RPG überschneidet (BGE 141 II 245 E. 7.6.1 S. 254; 1C_502/2024 E. 4.1; 1C_416/2024 E. 3.1).
+**Relative Standortgebundenheit** genügt, wenn gewichtige Gründe einen Standort in der Nichtbauzone gegenüber anderen Standorten innerhalb der Bauzone als *erheblich vorteilhafter* erscheinen lassen ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 2.1; [BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 7.6.1). Ein Standort in der Bauzone muss nicht absolut ausgeschlossen sein. Die Bejahung der relativen Standortgebundenheit setzt jedoch eine umfassende Interessenabwägung voraus, die sich mit derjenigen nach Art. 24 lit. b RPG überschneidet ([BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 7.6.1 S. 254; [BGer 1C_502/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-502-2024_2025-12-15.html) E. 4.1; [BGer 1C_416/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-416-2022_2024-03-21.html) E. 3.1).
 
 #### 3. Typische Fallgruppen
 
 Die bundesgerichtliche Rechtsprechung hat die Standortgebundenheit in zahlreichen Fallgruppen geprüft:
 
-- **Mobilfunkanlagen**: Mobilfunkanlagen sind als Infrastrukturbauten gemäss dem Prinzip der Trennung von Bau- und Nichtbaugebiet grundsätzlich innerhalb der Bauzonen zu errichten. Ausserhalb der Bauzonen ist eine Ausnahmebewilligung erforderlich (BGE 141 II 245 E. 7.6). Die Standortgebundenheit kann infolge der technischen Erfordernisse des Funknetzausbaus bejaht werden (BGE 133 II 409 E. 4). Das Kaskadenmodell — das Mobilfunkanlagen in erster Linie in Arbeitszonen, dann in gemischten Bauzonen und schliesslich in Wohnzonen zulässt — ist bundesrechtlich zulässig (BGE 138 II 173 E. 6.4–6.6).
+- **Mobilfunkanlagen**: Mobilfunkanlagen sind als Infrastrukturbauten gemäss dem Prinzip der Trennung von Bau- und Nichtbaugebiet grundsätzlich innerhalb der Bauzonen zu errichten. Ausserhalb der Bauzonen ist eine Ausnahmebewilligung erforderlich ([BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 7.6). Die Standortgebundenheit kann infolge der technischen Erfordernisse des Funknetzausbaus bejaht werden ([BGE 133 II 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-409_2007.html) E. 4). Das Kaskadenmodell — das Mobilfunkanlagen in erster Linie in Arbeitszonen, dann in gemischten Bauzonen und schliesslich in Wohnzonen zulässt — ist bundesrechtlich zulässig ([BGE 138 II 173](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-173_2012.html) E. 6.4–6.6). Wird eine Mobilfunkanlage in der Bauzone verboten, ist in erster Linie zu prüfen, ob in der Bauzone andere taugliche Standorte vorhanden sind; nur dann darf ein Ausweichen auf einen Standort in der Nichtbauzone verlangt werden ([BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 7.6–7.9).
 
-- **Bergrestaurants**: Bergrestaurants ausserhalb der Bauzonen werden grundsätzlich als standortgebunden anerkannt, da sie aus betriebswirtschaftlichen Gründen auf den Standort ausserhalb der Bauzonen angewiesen sind (BGE 136 II 214 E. 2.2; BGE 117 Ib 266 E. 2a). Dies berechtigt jedoch nicht dazu, jeden Standort auf einem Berggipfel in Anspruch zu nehmen — die Standortgebundenheit ist unter Berücksichtigung möglicher Alternativstandorte zu prüfen (BGE 136 II 214 E. 2.2; BGE 129 II 63 E. 3.3).
+- **Bergrestaurants**: Bergrestaurants ausserhalb der Bauzonen werden grundsätzlich als standortgebunden anerkannt, da sie aus betriebswirtschaftlichen Gründen auf den Standort ausserhalb der Bauzonen angewiesen sind ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 2.2; BGE 117 Ib 266 E. 2a). Dies berechtigt jedoch nicht dazu, jeden Standort auf einem Berggipfel in Anspruch zu nehmen — die Standortgebundenheit ist unter Berücksichtigung möglicher Alternativstandorte zu prüfen ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 2.2; [BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) E. 3.3).
 
-- **Deponienebenganlagen**: Eine "abgeleitete" Standortgebundenheit einer grösseren Nebenanlage zu einem Hauptbetrieb, der der Planungspflicht untersteht, wurde verneint (BGE 124 II 252 E. 4). Die Deponie als Hauptanlage war ihrerseits planungspflichtig; die Reststoffverfestigungsanlage musste daher im Nutzungsplanungsverfahren bewilligt werden.
+- **Deponienebenganlagen**: Eine "abgeleitete" Standortgebundenheit einer grösseren Nebenanlage zu einem Hauptbetrieb, der der Planungspflicht untersteht, wurde verneint ([BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 4). Die Deponie als Hauptanlage war ihrerseits planungspflichtig; die Reststoffverfestigungsanlage musste daher im Nutzungsplanungsverfahren bewilligt werden.
 
-- **Kleinwasserkraftwerke**: Ein Kleinwasserkraftwerk erfordert keine Grundlage im Richtplan (BGE 140 II 262 E. 2). Die Standortgebundenheit ergibt sich aus der Natur der Wasserkraftnutzung.
+- **Kleinwasserkraftwerke**: Ein Kleinwasserkraftwerk erfordert keine Grundlage im Richtplan ([BGE 140 II 262](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-262_2014.html) E. 2). Die Standortgebundenheit ergibt sich aus der Natur der Wasserkraftnutzung.
 
-- **Beleuchtungsanlagen auf Berggipfeln**: Beleuchtungskörper stellen bewilligungspflichtige Anlagen im Sinne von Art. 22 Abs. 1 RPG dar. Sie sind standortgebunden, wenn der Zweck der Anlage den Standort ausserhalb der Bauzonen erfordert (BGE 123 II 256 E. 4–5).
+- **Beleuchtungsanlagen auf Berggipfeln**: Beleuchtungskörper stellen bewilligungspflichtige Anlagen im Sinne von Art. 22 Abs. 1 RPG dar. Sie sind standortgebunden, wenn der Zweck der Anlage den Standort ausserhalb der Bauzonen erfordert ([BGE 123 II 256](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-123-II-256_1997-04-16.html) E. 4–5). Die Scheinwerfer sind nicht als geringfügige Änderung der Bergstation zu betrachten.
 
-- **Probebohrungen im Waldgebiet**: Probebohrungen im Waldgebiet bedürfen einer Ausnahmebewilligung gemäss Art. 24 RPG, wenn das Vorhaben so gewichtige Auswirkungen auf Raum und Umwelt hat (BGE 139 II 134).
+- **Probebohrungen im Waldgebiet**: Probebohrungen im Waldgebiet bedürfen einer Ausnahmebewilligung gemäss Art. 24 RPG, wenn das Vorhaben so gewichtige Auswirkungen auf Raum und Umwelt hat ([BGE 139 II 134](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-134_2013.html) E. 5.2).
+
+- **Werkhof**: Die gewerbliche Nutzung eines Werkhofs ausserhalb der Bauzone wurde nie bewilligt und konnte auch gestützt auf Art. 39 RPV oder Art. 24c RPG nicht bewilligt werden. Frage der Nichtigkeit der ursprünglichen Baubewilligung; Wiederherstellung des rechtmässigen Zustands ([BGE 132 II 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-21_2006.html)).
+
+- **Lawinenauslösesystem**: Die entscheidende Behörde durfte nicht davon ausgehen, dass sich die vorgesehene Installation zur Auslösung von Lawinen durch ihre Zweckbestimmung am geplanten Ort aufdrängt, ohne die vorgeschlagenen Alternativen zu prüfen ([BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) E. 3).
+
+- **Kräuterbearbeitung in der Landwirtschaftszone**: Ein Betriebsgebäude, das dazu dient, sowohl die auf dem Gelände der Gärtnerei angebauten als auch die importierten Kräuter konsumentengerecht zu verpacken und zu etikettieren, ist nicht zonenkonform ([BGE 125 II 278](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-278_1999-05-17.html) E. 7).
 
 #### 4. Abgeleitete Standortgebundenheit
 
-Die Frage der sogenannten abgeleiteten Standortgebundenheit stellt sich bei Nebenanlagen, die funktional mit einem Hauptbetrieb ausserhalb der Bauzone verbunden sind. Das Bundesgericht hat dies für die Reststoffverfestigungsanlage einer Deponie verneint: Eine "abgeleitete" Standortgebundenheit kann nicht bejaht werden, wenn die Anlage ihrerseits der Planungspflicht untersteht (BGE 124 II 252 E. 4). Vielmehr ist in einem solchen Fall das gesamte Vorhaben im Rahmen einer Nutzungsplanung zu bewilligen.
+Die Frage der sogenannten abgeleiteten Standortgebundenheit stellt sich bei Nebenanlagen, die funktional mit einem Hauptbetrieb ausserhalb der Bauzone verbunden sind. Das Bundesgericht hat dies für die Reststoffverfestigungsanlage einer Deponie verneint: Eine "abgeleitete" Standortgebundenheit kann nicht bejaht werden, wenn die Anlage ihrerseits der Planungspflicht untersteht ([BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 4). Vielmehr ist in einem solchen Fall das gesamte Vorhaben im Rahmen einer Nutzungsplanung zu bewilligen.
 
 #### 5. Pflicht zur Alternativenprüfung
 
-Die Bejahung der Standortgebundenheit ist unvollständig, wenn keine Auseinandersetzung mit möglichen Alternativstandorten oder -lösungen stattfindet (BGE 136 II 214 E. 2.2; BGE 129 II 63 E. 3.3). Das Interesse an der Schonung der Landschaft verlangt die Prüfung, ob auch an einem anderen Standort, der mit weniger starken Eingriffen in die Landschaft verbunden ist, das Vorhaben errichtet und wirtschaftlich geführt werden kann (BGE 136 II 214 E. 3.2).
+Die Bejahung der Standortgebundenheit ist unvollständig, wenn keine Auseinandersetzung mit möglichen Alternativstandorten oder -lösungen stattfindet ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 2.2; [BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) E. 3.3). Das Interesse an der Schonung der Landschaft verlangt die Prüfung, ob auch an einem anderen Standort, der mit weniger starken Eingriffen in die Landschaft verbunden ist, das Vorhaben errichtet und wirtschaftlich geführt werden kann ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 3.2). Dies gilt insbesondere bei Bergrestaurants (E. 3.2) und Lawinenauslösesystemen ([BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) E. 4).
 
 ### II. Keine überwiegenden Interessen (Art. 24 Abs. 1 lit. b RPG)
 
 Die zweite kumulative Voraussetzung verlangt, dass dem Vorhaben keine überwiegenden Interessen entgegenstehen. Dies erfordert eine umfassende Interessenabwägung, bei der alle für und gegen das Vorhaben sprechenden öffentlichen und privaten Interessen zu berücksichtigen sind.
 
-#### 1. Natur und Heimatschutz als Bundesaufgabe
+#### 1. Natur- und Heimatschutz als Bundesaufgabe
 
-Die Erteilung einer Ausnahmebewilligung nach Art. 24 RPG stellt eine Bundesaufgabe im Sinne von Art. 2 Abs. 1 lit. b NHG dar (BGE 136 II 214 E. 3; BGE 112 Ib 70 E. 4b; BGE 123 II 289 E. 1e). Bund und Kantone haben dafür zu sorgen, dass das heimatliche Landschafts- und Ortsbild geschont wird (Art. 3 Abs. 1 NHG). Diese Pflicht gilt unabhängig davon, ob ein Objekt in einem Bundesinventar nach Art. 5 NHG eingetragen ist (Art. 3 Abs. 3 NHG; BGE 136 II 214 E. 3.1).
+Die Erteilung einer Ausnahmebewilligung nach Art. 24 RPG stellt eine Bundesaufgabe im Sinne von Art. 2 Abs. 1 lit. b NHG dar ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 3; BGE 112 Ib 70 E. 4b; BGE 123 II 289 E. 1e). Bund und Kantone haben dafür zu sorgen, dass das heimatliche Landschafts- und Ortsbild geschont wird (Art. 3 Abs. 1 NHG). Diese Pflicht gilt unabhängig davon, ob ein Objekt in einem Bundesinventar nach Art. 5 NHG eingetragen ist (Art. 3 Abs. 3 NHG; [BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 3.1).
 
 #### 2. Gewichtung der Interessen
 
 Bei der Interessenabwägung sind insbesondere zu berücksichtigen:
 
-- **Landschaftsschutz**: Die Schonung des Landschaftsbildes ist ein wesentliches öffentliches Interesse (BGE 136 II 214 E. 3).
-- **Trennungsgrundsatz**: Der fundamentale raumplanerische Grundsatz der Trennung von Bau- und Nichtbaugebiet (Art. 1 RPG) spricht gegen eine Ausnahmebewilligung (BGE 141 II 245 E. 2.1).
-- **Telekommunikationsversorgung**: Der Versorgungsauftrag der Mobilfunkbetreiber gemäss dem Fernmelderecht darf durch kommunale Ästhetikvorschriften nicht vereitelt oder über Gebühr erschwert werden (BGE 141 II 245 E. 7.1).
-- **Betriebswirtschaftliche Erfordernisse**: Die betriebswirtschaftliche Notwendigkeit eines bestimmten Standorts kann für die Standortgebundenheit sprechen, rechtfertigt aber für sich allein noch keine Ausnahmebewilligung (BGE 124 II 252 E. 4a).
+- **Landschaftsschutz**: Die Schonung des Landschaftsbildes ist ein wesentliches öffentliches Interesse ([BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) E. 3).
+- **Trennungsgrundsatz**: Der fundamentale raumplanerische Grundsatz der Trennung von Bau- und Nichtbaugebiet (Art. 1 RPG) spricht gegen eine Ausnahmebewilligung ([BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 2.1).
+- **Telekommunikationsversorgung**: Der Versorgungsauftrag der Mobilfunkbetreiber gemäss dem Fernmelderecht darf durch kommunale Ästhetikvorschriften nicht vereitelt oder über Gebühr erschwert werden ([BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) E. 7.1).
+- **Betriebswirtschaftliche Erfordernisse**: Die betriebswirtschaftliche Notwendigkeit eines bestimmten Standorts kann für die Standortgebundenheit sprechen, rechtfertigt aber für sich allein noch keine Ausnahmebewilligung ([BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 4a).
 
 #### 3. Planungspflicht als Grenze der Ausnahmebewilligung
 
-Ausnahmebewilligungen nach Art. 24 RPG haben den planerischen Stufenbau zu beachten. Für Bauten und Anlagen, die ihrer Natur nach nur in einem Planungsverfahren angemessen erfasst werden können, dürfen keine Ausnahmebewilligungen erteilt werden. Zieht ein nicht zonenkonformes Vorhaben durch seine Ausmasse oder Natur bedeutende Auswirkungen auf die bestehende Nutzungsordnung nach sich, so darf es erst nach einer entsprechenden Änderung des Zonenplans bewilligt werden (BGE 124 II 252 E. 3). Der Umstand, dass für eine Anlage eine Umweltverträglichkeitsprüfung vorgeschrieben ist, ist ein gewichtiges Indiz für die Planungspflicht (BGE 120 Ib 436 E. 2d).
+Ausnahmebewilligungen nach Art. 24 RPG haben den planerischen Stufenbau zu beachten. Für Bauten und Anlagen, die ihrer Natur nach nur in einem Planungsverfahren angemessen erfasst werden können, dürfen keine Ausnahmebewilligungen erteilt werden. Zieht ein nicht zonenkonformes Vorhaben durch seine Ausmasse oder Natur bedeutende Auswirkungen auf die bestehende Nutzungsordnung nach sich, so darf es erst nach einer entsprechenden Änderung des Zonenplans bewilligt werden ([BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) E. 3). Der Umstand, dass für eine Anlage eine Umweltverträglichkeitsprüfung vorgeschrieben ist, ist ein gewichtiges Indiz für die Planungspflicht (BGE 120 Ib 436 E. 2d).
 
 ### III. Energetische Sanierungen (Art. 24 Abs. 2 RPG)
 
@@ -118,24 +130,27 @@ Art. 24 RPG ist nicht die einzige Ausnahmebestimmung für das Bauen ausserhalb d
 - **Art. 24c RPG**: Massvolle Erweiterungen bestehender Bauten und Anlagen
 - **Art. 24d RPG**: Erhaltung baulicher Anlagen
 
-Die verschiedenen Ausnahmebestimmungen sind ihrer Reichweite nach abgestuft: Während Art. 24 RPG die allgemeine Ausnahmebewilligung für standortgebundene Bauten darstellt, gewähren Art. 24a–d RPG spezifische, engere Ausnahmeregelungen für bestimmte Fallgruppen. Für massvolle Erweiterungen bestehender Bauten ist vorrangig Art. 24c RPG zu prüfen (BGE 133 II 409 E. 3).
+Die verschiedenen Ausnahmebestimmungen sind ihrer Reichweite nach abgestuft: Während Art. 24 RPG die allgemeine Ausnahmebewilligung für standortgebundene Bauten darstellt, gewähren Art. 24a–d RPG spezifische, engere Ausnahmeregelungen für bestimmte Fallgruppen. Für massvolle Erweiterungen bestehender Bauten ist vorrangig Art. 24c RPG zu prüfen ([BGE 133 II 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-409_2007.html) E. 3).
 
 ## Verfahren
 
-Nach Art. 25 Abs. 2 RPG entscheidet die zuständige kantonale Behörde bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann (BGE 132 II 21 E. 3.2.1). Der Gesetzgeber wollte damit eine einheitliche Rechtsanwendung auf dem gesamten Kantonsgebiet sicherstellen. Die Kantone können entweder eine ausschliesslich kantonale Bewilligungsbehörde bestimmen oder die Zuständigkeit bei der ordentlichen (in der Regel kommunalen) Bewilligungsbehörde belassen, sofern die Zustimmung einer kantonalen Behörde eingeholt wird.
+Nach Art. 25 Abs. 2 RPG entscheidet die zuständige kantonale Behörde bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann ([BGE 132 II 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-21_2006.html) E. 3.2.1). Der Gesetzgeber wollte damit eine einheitliche Rechtsanwendung auf dem gesamten Kantonsgebiet sicherstellen. Die Kantone können entweder eine ausschliesslich kantonale Bewilligungsbehörde bestimmen oder die Zuständigkeit bei der ordentlichen (in der Regel kommunalen) Bewilligungsbehörde belassen, sofern die Zustimmung einer kantonalen Behörde eingeholt wird.
 
 ## Leitentscheide
 
 | Entscheidung | Jahr | Kernsatz |
 |---|---|---|
-| BGE 124 II 252 | 1998 | Standortgebundenheit verlangt objektiven Massstab; abgeleitete Standortgebundenheit einer Deponie-Nebenanlage verneint; Planungspflicht bei UVP-pflichtigem Vorhaben |
-| BGE 132 II 21 | 2005 | Erweiterung eines ausserhalb der Bauzone unzulässigen Werkhofs; Nichtigkeit einer Baubewilligung; Wiederherstellung des rechtmässigen Zustands |
-| BGE 133 II 409 | 2007 | Mobilfunkantenne ausserhalb der Bauzonen; Erweiterung als neue Bewilligung gemäss Art. 24 RPG; Standortgebundenheit bejaht |
-| BGE 136 II 214 | 2010 | Bergrestaurant auf dem Weisshorn; Standortgebundenheit von Bergrestaurants; Ausnahmebewilligung als Bundesaufgabe; Pflicht zur Alternativenprüfung |
-| BGE 141 II 245 | 2015 | Mobilfunkanlagen innerhalb und ausserhalb der Bauzonen; Ästhetikvorschriften vs. Versorgungsauftrag; relatives Standortgebundenheitserfordernis |
+| [BGE 124 II 252](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-252_1998-03-20.html) | 1998 | Standortgebundenheit verlangt objektiven Massstab; abgeleitete Standortgebundenheit einer Deponie-Nebenanlage verneint; Planungspflicht bei UVP-pflichtigem Vorhaben |
+| [BGE 129 II 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-63_2003.html) | 2003 | Lawinenauslösesystem: Pflicht zur Alternativenprüfung; relative Standortgebundenheit |
+| [BGE 132 II 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-21_2006.html) | 2006 | Erweiterung eines unzulässigen Werkhofs; Nichtigkeit; Wiederherstellung |
+| [BGE 133 II 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-409_2007.html) | 2007 | Mobilfunkantenne ausserhalb der Bauzonen; Standortgebundenheit bejaht |
+| [BGE 136 II 214](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-214_2010.html) | 2010 | Bergrestaurant Weisshorn: Standortgebundenheit; Bundesaufgabe; Alternativenprüfung; ENHK |
+| [BGE 141 II 245](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-245_2015.html) | 2015 | Mobilfunkanlagen: relatives Standortgebundenheitserfordernis; Ästhetik vs. Versorgungsauftrag |
 
 ## Weiterführende Hinweise
 
 - **Art. 3 RPG** (Planungsgrundsätze): Der Trennungsgrundsatz (Trennung von Bau- und Nichtbaugebiet) bildet den massgeblichen Hintergrund für die restriktive Auslegung von Art. 24 RPG.
 - **Art. 78 Abs. 2 BV**: Bundesaufgabe im Natur- und Heimatschutz, die bei der Interessenabwägung nach Art. 24 lit. b RPG zu berücksichtigen ist.
 - **Art. 25 RPG**: Zuständigkeit der kantonalen Behörde bei Bauvorhaben ausserhalb der Bauzonen.
+
+*Letzte Aktualisierung: 2026-08-29*
