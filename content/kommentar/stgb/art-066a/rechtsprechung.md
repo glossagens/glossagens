@@ -12,7 +12,7 @@ revisions:
     by: "Antigravity"
     model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Erweiterung um Leitentscheide zur Bemessung der Dauer der Landesverweisung (BGer 6B_323/2025, BGer 7B_1374/2024, BGer 6B_213/2026, BGer 6B_1301/2023, BGer 6B_1079/2022, BGer 7B_1055/2023); alle Links auf entscheidsuche.ch umgestellt."
+    note: "Audit & Verifikation: Ergänzung sämtlicher fehlender Pinpoint-Erwägungen (BGer 6B_627/2018 E. 1.5, BGer 6B_423/2019 E. 2.2.2, BGer 6B_747/2019 E. 2.2.3, BGer 6B_1152/2017 E. 2.6); lückenlose Pinpoint-Compliance."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -110,28 +110,28 @@ revisions:
 
 ---
 
-### [BGer 6B_627/2018 vom 22. März 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-627-2018_2019-03-22.html) — Interessenabwägung bei schweren Delikten von Secondos
+### [BGer 6B_627/2018 vom 22. März 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-627-2018_2019-03-22.html) E. 1.5 — Interessenabwägung bei schweren Delikten von Secondos
 - **Thema**: Überwiegen der Fernhalteinteressen trotz Bejahung eines persönlichen Härtefalls.
 - **Kernaussage**: Bei schwerer Kriminalität oder wiederholter Delinquenz setzen sich die öffentlichen Sicherheitsinteressen auch gegenüber in der Schweiz aufgewachsenen Tätern durch.
 - **Einschlägig für**: Art. 66a Abs. 2 StGB.
 
 ---
 
-### [BGer 6B_423/2019 vom 17. März 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-423-2019_2020-03-17.html) — Beachtung völkerrechtlicher Vollzugshindernisse
+### [BGer 6B_423/2019 vom 17. März 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-423-2019_2020-03-17.html) E. 2.2.2 — Beachtung völkerrechtlicher Vollzugshindernisse
 - **Thema**: Pflicht des Sachgerichts zur Prüfung von Non-Refoulement-Garantien.
 - **Kernaussage**: Völkerrechtliche Vollzugshindernisse müssen bereits im Sachurteil bei der Härtefallprüfung einbezogen werden.
 - **Einschlägig für**: Art. 66a Abs. 2 StGB.
 
 ---
 
-### [BGer 6B_747/2019 vom 24. Juni 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-747-2019_2020-06-24.html) — Schranken der Flüchtlingskonvention
+### [BGer 6B_747/2019 vom 24. Juni 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-747-2019_2020-06-24.html) E. 2.2.3 — Schranken der Flüchtlingskonvention
 - **Thema**: Landesverweisung anerkannter Flüchtlinge unter Art. 32 FK.
 - **Kernaussage**: Die Ausweisung von Flüchtlingen verlangt eine qualifizierte, schwerwiegende Gefährdung der inneren Sicherheit.
 - **Einschlägig für**: Art. 66a StGB, Art. 32 FK.
 
 ---
 
-### [BGer 6B_1152/2017 vom 28. November 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1152-2017_2018-11-28.html) — FZA-Schutz nur bei bestehendem Aufenthaltsrecht
+### [BGer 6B_1152/2017 vom 28. November 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1152-2017_2018-11-28.html) E. 2.6 — FZA-Schutz nur bei bestehendem Aufenthaltsrecht
 - **Thema**: Anwendungsbereich der Freizügigkeitsgarantien.
 - **Kernaussage**: Auf das FZA kann sich nur berufen, wer tatsächlich über ein geschütztes Aufenthalts- oder Erwerbsrecht in der Schweiz verfügt.
 - **Einschlägig für**: Art. 66a StGB.
