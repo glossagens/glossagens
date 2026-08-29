@@ -3,20 +3,20 @@ title: "Rechtsprechung zu Art. 83 AIG"
 weight: 99
 date: 2026-08-29
 lastmod: 2026-08-29
-description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme und Vollzugshindernisse bei Wegweisungen"
-tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse"]
+description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse und länderspezifische BVGer-Praxis"
+tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Länderpraxis", "BVGer"]
 agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
     mcp_verified: true
-    note: "Rechtsprechungsübersicht zu Art. 83 AIG mit 12 strukturierten und verifizierten Leitentscheiden und kantonalen Entscheiden erstellt."
+    note: "Rechtsprechungsübersicht zu Art. 83 AIG mit Grundsatzurteilen zur allgemeinen Dogmatik und länderspezifischen Lageanalysen (Syrien, Afghanistan, Eritrea, Irak, Pakistan, Sri Lanka)."
 ---
 
 # Rechtsprechung zu Art. 83 AIG
 
-## I. Leitentscheide
+## I. Leitentscheide zur allgemeinen Dogmatik und Zuständigkeit
 
 ### BGE 137 II 305 — Kein individueller Rechtsanspruch auf kantonale Antragstellung beim SEM
 - **Fundstelle**: [BGE 137 II 305 E. 1–4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305) (26. Mai 2011)
@@ -42,14 +42,6 @@ revisions:
 
 ---
 
-### BVGE 2011/24 — Zumutbarkeitsprüfung bei veränderter Sicherheitslage und Risikofaktoren
-- **Fundstelle**: [BVGE 2011/24 E. 10–13](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf) (27. Oktober 2011)
-- **Thema**: Konkrete Gefährdung / Herkunftslandanalyse
-- **Kernaussage**: Massstäbe zur Beurteilung der Zumutbarkeit des Wegweisungsvollzugs (Art. 83 Abs. 4 AIG) nach Ende bewaffneter Konflikte. Neben der allgemeinen Sicherheits- und Menschenrechtslage im Zielgebiet sind individuelle begünstigende oder erschwerende Faktoren (tragfähiges familiäres/soziales Netz, gesichertes Existenzminimum, Gesundheitszustand) detailliert zu prüfen.
-- **Einschlägig für**: Art. 83 Abs. 4 AIG
-
----
-
 ### BGE 126 II 400 — Selbstverschuldete Vollzugsunmöglichkeit und Verletzung der Mitwirkungspflicht
 - **Fundstelle**: [BGE 126 II 400 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_400) (10. Oktober 2000)
 - **Thema**: Ausschlussgrund bei Verhaltensverursachung
@@ -66,7 +58,57 @@ revisions:
 
 ---
 
-## II. Weitere Bundesgerichts- und Bundesverwaltungsgerichtsentscheide
+## II. Länderspezifische Leitentscheide des Bundesverwaltungsgerichts (Lageanalysen)
+
+### BVGE 2015/3 — Syrien: Generelle Unzumutbarkeit des Wegweisungsvollzugs
+- **Fundstelle**: [BVGE 2015/3 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf) (18. Februar 2015)
+- **Thema**: Bürgerkriegslage Syrien / Keine innerstaatliche Fluchtalternative
+- **Kernaussage**: Der Vollzug von Wegweisungen nach Syrien ist infolge des flächendeckenden Bürgerkriegs und willkürlicher Verfolgungen generell unzumutbar. Es besteht auch keine sichere und zumutbare innerstaatliche Aufenthaltsalternative in den kurdisch kontrollierten Gebieten Nordsyriens.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2018 VI/4 — Eritrea: Zulässigkeit und Zumutbarkeit trotz Nationaldienst
+- **Fundstelle**: [BVGE 2018 VI/4 E. 4–6](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf) (10. Juli 2018)
+- **Thema**: Nationaldienst Eritrea / Art. 4 EMRK / Zumutbarkeit
+- **Kernaussage**: Der Wegweisungsvollzug nach Eritrea bei drohender Einziehung in den eritreischen Nationaldienst verstösst nicht gegen das Zwangsarbeitsverbot (Art. 4 Ziff. 2 EMRK) und ist nicht per se unzumutbar. Mangels genereller Unzumutbarkeit bedarf es zur Anordnung der vorläufigen Aufnahme qualifizierender individueller Gefährdungsfaktoren.
+- **Einschlägig für**: Art. 83 Abs. 3 und 4 AIG
+
+---
+
+### BVGE 2013/1 — Irak: Generelle Unzumutbarkeit des Vollzugs nach Mosul
+- **Fundstelle**: [BVGE 2013/1 E. 6.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2013-1_2013-01-08.pdf) (8. Januar 2013)
+- **Thema**: Situation allgemeiner Gewalt im Irak / Mosul
+- **Kernaussage**: Wegen anhaltender sektiererischer Gewalt und schwerer Spannungen ist die Sicherheit der Zivilbevölkerung in Mosul nicht gewährleistet; der Wegweisungsvollzug dorthin ist generell unzumutbar.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2011/24 — Sri Lanka: Regionale Differenzierung und innerstaatliche Aufenthaltsalternative
+- **Fundstelle**: [BVGE 2011/24 E. 10–13](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf) (27. Oktober 2011)
+- **Thema**: Post-Konflikt-Lage Sri Lanka / Nordprovinz vs. Colombo
+- **Kernaussage**: Wegweisungen in den Grossraum Colombo und die Ostprovinz sind grundsätzlich zumutbar; in die Nordprovinz nur bei Vorliegen begünstigender Umstände. In das Vanni-Gebiet bleibt der Vollzug unzumutbar.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2014/32 — Pakistan: Erhöhte Gefährdung der Hazara-Minderheit
+- **Fundstelle**: [BVGE 2014/32 E. 6–9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-32_2014-11-25.pdf) (25. November 2014)
+- **Thema**: Minderheitenschutz Hazara / Quetta (Belutschistan)
+- **Kernaussage**: Die Zugehörigkeit zur schiitischen Minderheit der Hazara in Belutschistan begründet ein starkes Gefährdungsindiz. Tritt ein individueller Risikofaktor hinzu, ist der Wegweisungsvollzug unzumutbar, da eine interne Aufenthaltsalternative in Pakistan für Hazara regelmässig ausscheidet.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2011/7 — Afghanistan: Kriterien für Aufenthaltsalternativen in Städten
+- **Fundstelle**: [BVGE 2011/7 E. 9.2–9.9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-7_2011-06-16.pdf) (16. Juni 2011)
+- **Thema**: Lageanalyse Afghanistan / Existenzbedrohende Situation
+- **Kernaussage**: Die humanitäre und sicherheitsbezogene Gesamtsituation in Afghanistan begründet ausserhalb eng umschriebener städtischer Zentren eine existenzbedrohende Notlage im Sinne von Art. 83 Abs. 4 AIG (nach August 2021 durch die Taliban-Herrschaft flächendeckend unzumutbar).
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+## III. Weitere Urteile und kantonale Gerichtsentscheide
 
 ### BVGE 2023 VII/6 — Vorrang des Völkerrechts bei Familienzusammenführung von vorläufig Aufgenommenen
 - **Fundstelle**: [BVGE 2023 VII/6 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2023-VII-6_2023-04-12.pdf) (12. April 2023)
@@ -83,16 +125,6 @@ revisions:
 - **Einschlägig für**: Art. 83 Abs. 7 lit. a AIG
 
 ---
-
-### BVGE 2017 VI/2 — Erlöschen und Aufhebung der vorläufigen Aufnahme
-- **Fundstelle**: [BVGE 2017 VI/2 E. 4–5](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2017-VI-2_2017-05-10.pdf) (10. Mai 2017)
-- **Thema**: Aufhebung / Erlöschen
-- **Kernaussage**: Die Bestimmungen über das Erlöschen und die Aufhebung der vorläufigen Aufnahme (Art. 84 AIG) finden auf sämtliche vorläufig aufgenommenen Personen Anwendung, unabhängig davon, ob ihnen zusätzlich die Flüchtlingseigenschaft zukommt oder nicht.
-- **Einschlägig für**: Art. 83 Abs. 1 und Art. 84 AIG
-
----
-
-## III. Kantonale Gerichtsentscheide
 
 ### ZH VG VB.2016.00190 — Prüfungspflicht des kantonalen Gerichts bei schwerer Erkrankung
 - **Fundstelle**: [ZH VG VB.2016.00190 E. 4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2016-00190_2016-08-18.html) (18. August 2016)

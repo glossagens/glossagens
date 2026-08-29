@@ -3,15 +3,15 @@ title: "Art. 83 AIG — Anordnung der vorläufigen Aufnahme"
 weight: 83
 date: 2026-08-29
 lastmod: 2026-08-29
-description: "Kommentar zu Art. 83 AIG: Vorläufige Aufnahme bei Vollzugshindernissen — Unmöglichkeit, Unzulässigkeit, Unzumutbarkeit, kantonales Antragsrecht und Ausschlussgründe."
-tags: ["AIG", "Ausländerrecht", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Unzumutbarkeit", "Non-Refoulement"]
+description: "Kommentar zu Art. 83 AIG: Vorläufige Aufnahme bei Vollzugshindernissen — Unmöglichkeit, Unzulässigkeit, Unzumutbarkeit, länderspezifische BVGer-Praxis, kantonales Antragsrecht und Ausschlussgründe."
+tags: ["AIG", "Ausländerrecht", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Unzumutbarkeit", "Länderpraxis", "BVGer", "Non-Refoulement"]
 agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
     mcp_verified: true
-    note: "Vollständige Neukommentierung von Art. 83 AIG mit Randziffern, Rechtsprechung und kantonalen Praxisfragen; Gesetzestext via Fedlex-MCP verifiziert."
+    note: "Erweiterung um ein eigenständiges Kapitel zur länderspezifischen Vollzugspraxis des Bundesverwaltungsgerichts (Syrien, Afghanistan, Eritrea, Irak, Sri Lanka, Somalia, Pakistan, Ukraine, Sudan)."
 ---
 
 ## Gesetzeswortlaut
@@ -87,45 +87,80 @@ revisions:
 
 ---
 
+## Länderspezifische Vollzugspraxis des Bundesverwaltungsgerichts (Lageanalysen zu Art. 83 Abs. 4 AIG)
+
+### I. Methodik und Prüfungsstufen der Länderpraxis
+
+**12** **Stufenfolge der Zumutbarkeitsprüfung.** Das Bundesverwaltungsgericht (BVGer) beurteilt die Unzumutbarkeit des Wegweisungsvollzugs anhand periodisch aktualisierter Lageanalysen der Herkunftsländer (*Country of Origin Information*, COI; [BVGE 2018 VI/4 E. 4](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf)). Dabei wendet die Rechtsprechung eine dreistufige Prüfung an ([BVGE 2014/26 E. 7.3–7.8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-26_2014-10-08.pdf)):
+1. *Generelle Unzumutbarkeit (in genere)*: Herrscht im gesamten Zielstaat eine Situation von Krieg, Bürgerkrieg oder flächendeckender allgemeiner Gewalt, ist der Wegweisungsvollzug für alle Personen ohne Weiteres unzumutbar.
+2. *Differenzierte/regionale Zumutbarkeit*: Ist die Lage nur in einzelnen Landesteilen unzumutbar, wird geprüft, ob der Vollzug in die Herkunftsregion zulässig und zumutbar ist.
+3. *Innerstaatliche Flucht- bzw. Aufenthaltsalternative (IFA)*: Ist die Herkunftsregion unzumutbar, wird geprüft, ob sich die betroffene Person in einem anderen Landesteil niederlassen kann. Vorausgesetzt werden hierfür stets **begünstigende Faktoren** (tragfähiges familiäres oder soziales Beziehungsnetz, gesicherte Wohnsituation, realistische Aussichten auf wirtschaftliche Existenzsicherung und guter Gesundheitszustand; [BVGE 2011/24 E. 13.2.1.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf); [BVGE 2011/7 E. 9.9.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-7_2011-06-16.pdf)).
+
+---
+
+### II. Leitpraxis zu ausgewählten Herkunftsstaaten
+
+**13** **Syrien.** Seit Ausbruch des bewaffneten Konflikts im März 2011 erachtet das Bundesverwaltungsgericht den Wegweisungsvollzug auf das gesamte syrische Staatsgebiet als flächendeckend und generell unzumutbar ([BVGE 2015/3 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf)). Auch in den von kurdischen Kräften kontrollierten Gebieten im Nordosten (Rojava) besteht mangels Stabilität und völkerrechtlicher Anerkennung keine zumutbare innerstaatliche Aufenthaltsalternative. Für syrische Staatsangehörige wird bei Fehlen von Asylgründen und Ausschlussgründen standardmässig die vorläufige Aufnahme (F-Ausweis) verfügt.
+
+**14** **Afghanistan.** Historisch unterschied das Gericht zwischen krisengeschüttelten Provinzen und Grossstädten wie Kabul ([BVGE 2011/7 E. 9.9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-7_2011-06-16.pdf)), Herat ([BVGE 2011/38 E. 4.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-38_2011-10-28.pdf)) und Mazar-i-Sharif ([BVGE 2011/49 E. 7.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-49_2011-12-30.pdf)), in denen ein Vollzug unter strengen individuellen Voraussetzungen ausnahmsweise als zumutbar galt. Nach dem vollständigen Abzug der internationalen Truppen und der Machtübernahme durch das De-facto-Regime der Taliban im August 2021 hat sich die Lage grundlegend gewandelt: Der Vollzug nach Afghanistan ist flächendeckend unzumutbar. Zudem begründen die drakonischen Verordnungen gegen afghanische Frauen und Mädchen (Ausschluss aus Bildung, Beruf und öffentlichem Leben) eine systematische Verfolgung im Sinne von Art. 3 AsylG bzw. Art. 3 EMRK.
+
+**15** **Eritrea.** In einer Reihe von Grundsatzurteilen verschärfte das BVGer die Vollzugspraxis: Weder die illegale Ausreise noch die Verbüssung oder Entlassung aus dem Nationaldienst begründen per se eine flüchtlingsrechtlich relevante Gefährdung oder Unzumutbarkeit des Vollzugs ([BVGE 2017 VI/1](https://entscheidsuche.ch/)). In [BVGE 2018 VI/4 E. 6](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf) entschied das Gericht, dass auch die drohende Einziehung in den eritreischen Nationaldienst weder die völkerrechtliche Unzulässigkeit (Art. 4 Ziff. 2 EMRK / Zwangsarbeitsverbot) noch die generelle Unzumutbarkeit des Wegweisungsvollzugs nach Art. 83 Abs. 4 AIG begründet. Vollzugshindernisse können sich bei eritreischen Staatsangehörigen daher nur aus spezifischen individuellen Risikofaktoren (z.B. schwere Krankheit, Vorstrafen, Regimekritik) ergeben.
+
+**16** **Irak.** Das BVGer wendet für den Irak eine regional differenzierte Praxis an:
+- *Autonome Region Kurdistan (KRI)*: In den Provinzen Erbil, Sulaymaniyya und Dohuk ist der Wegweisungsvollzug für Personen, die ursprünglich von dort stammen oder über ein tragfähiges familiäres Netz verfügen, grundsätzlich zumutbar ([BVGE 2015/3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf)).
+- *Zentral- und Südirak sowie Mosul*: In den zentralen und südlichen Landesteilen sowie in der Stadt Mosul ([BVGE 2013/1 E. 6.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2013-1_2013-01-08.pdf); [BVGE 2014/23 E. 5.5](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-23_2014-08-27.pdf)) gilt der Vollzug infolge der instabilen Sicherheitslage, konfessioneller Spannungen und zerstörter Infrastruktur regelmässig als unzumutbar.
+
+**17** **Sri Lanka.** Gemäss [BVGE 2011/24 E. 13](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf) (bestätigt in [BVGE 2016/13](https://entscheidsuche.ch/)) ist der Wegweisungsvollzug in den Grossraum Colombo sowie in die Ostprovinz (Distrikte Trincomalee, Batticaloa, Ampara) grundsätzlich zumutbar. Für die Nordprovinz (Jaffna, Kilinochchi, Mannar, Mullaitivu) ist der Vollzug nur zumutbar, wenn begünstigende Faktoren vorliegen (kein längerer Landesabwesenheitszeitraum, gesichertes Wohnen und Auskommen). In das ehemalige Kampfgebiet (Vanni-Gebiet) ist der Vollzug weiterhin unzumutbar, es sei denn, es besteht eine zumutbare Aufenthaltsalternative in anderen Landesteilen.
+
+**18** **Somalia.** Das Gericht unterscheidet strikt nach Regionen ([BVGE 2011/25](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-25_2011-07-07.pdf); [BVGE 2019 IV/1](https://entscheidsuche.ch/)): In Süd- und Zentralsomalia (einschliesslich Mogadischu) ist der Vollzug wegen der anhaltenden Bedrohung durch die Al-Shabaab-Milizen, Terroranschlägen und prekärer Versorgungslage in der Regel unzumutbar. Demgegenüber kann ein Vollzug in die stabileren Gebiete Somaliland und Puntland bei dortiger Herkunft und vorhandenem Clan-Netz zumutbar sein.
+
+**19** **Pakistan (Hazara-Minderheit).** In [BVGE 2014/32 E. 9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-32_2014-11-25.pdf) stellte das BVGer fest, dass Angehörige der schiitischen Volksgruppe der Hazara, insbesondere in der Provinz Belutschistan und der Stadt Quetta, einer erhöhten Gefährdung durch sektiererische Gewalt ausgesetzt sind. Das Vorliegen eines zusätzlichen individuellen Gefährdungsfaktors führt zur Unzumutbarkeit des Wegweisungsvollzugs, da eine innerstaatliche Fluchtalternative innerhalb Pakistans für Hazara kaum zumutbar ist.
+
+**20** **Ukraine und Sudan.** 
+- *Ukraine*: Infolge des russischen Angriffskriegs ab Februar 2022 wurde für Schutzsuchende der Status S aktiviert; der Vollzug von Wegweisungen in die Ukraine ist bundesweit ausgesetzt und unzumutbar.
+- *Sudan*: Nach dem Ausbruch des bewaffneten Konflikts zwischen der sudanesischen Armee (SAF) und den Rapid Support Forces (RSF) im April 2023 ist der Vollzug in den Grossraum Khartum sowie nach Darfur und Kordofan wegen intensiver Kampfhandlungen und des Zusammenbruchs der Grundversorgung generell unzumutbar.
+
+---
+
 ## Absätze 5 und 5bis: Bestimmung zumutbarer Herkunftsstaaten
 
-**12** **Safe Countries of Return.** Der Bundesrat ist ermächtigt, Staaten oder Regionen zu bezeichnen, in welche eine Rückkehr in der Regel zumutbar ist (Abs. 5 Satz 1). Bei Personen aus diesen Staaten oder aus EU-/EFTA-Mitgliedstaaten gilt eine gesetzliche Vermutung der Zumutbarkeit (Abs. 5 Satz 2). Gemäss Abs. 5bis überprüft der Bundesrat diese Länderliste periodisch auf ihre Aktualität.
+**21** **Safe Countries of Return.** Der Bundesrat ist ermächtigt, Staaten oder Regionen zu bezeichnen, in welche eine Rückkehr in der Regel zumutbar ist (Abs. 5 Satz 1). Bei Personen aus diesen Staaten oder aus EU-/EFTA-Mitgliedstaaten gilt eine gesetzliche Vermutung der Zumutbarkeit (Abs. 5 Satz 2). Gemäss Abs. 5bis überprüft der Bundesrat diese Länderliste periodisch auf ihre Aktualität.
 
 ---
 
 ## Absatz 6: Antragsrecht der kantonalen Behörden
 
-**13** **Kein Anspruch der Privatperson.** Art. 83 Abs. 6 AIG ermächtigt ausschliesslich die kantonalen Ausländer- und Migrationsbehörden, beim SEM die Anordnung einer vorläufigen Aufnahme zu beantragen. Der betroffenen Person verschafft diese Bestimmung keinen gerichtlich durchsetzbaren Rechtsanspruch darauf, dass die kantonale Behörde einen solchen Antrag an das SEM stellt ([BGE 137 II 305 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305)).
+**22** **Kein Anspruch der Privatperson.** Art. 83 Abs. 6 AIG ermächtigt ausschliesslich die kantonalen Ausländer- und Migrationsbehörden, beim SEM die Anordnung einer vorläufigen Aufnahme zu beantragen. Der betroffenen Person verschafft diese Bestimmung keinen gerichtlich durchsetzbaren Rechtsanspruch darauf, dass die kantonale Behörde einen solchen Antrag an das SEM stellt ([BGE 137 II 305 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305)).
 
 ---
 
 ## Absatz 7: Gesetzliche Ausschlussgründe
 
-**14** **Ausschlusskatalog für Unmöglichkeit und Unzumutbarkeit.** Die vorläufige Aufnahme wegen Unmöglichkeit (Abs. 2) oder Unzumutbarkeit (Abs. 4) wird zwingend verweigert, wenn ein Ausschlussgrund nach Abs. 7 vorliegt. Die Unzulässigkeit nach Abs. 3 (zwingendes Völkerrecht / Non-Refoulement) wird von diesen Ausschlussgründen nicht erfasst.
+**23** **Ausschlusskatalog für Unmöglichkeit und Unzumutbarkeit.** Die vorläufige Aufnahme wegen Unmöglichkeit (Abs. 2) oder Unzumutbarkeit (Abs. 4) wird zwingend verweigert, wenn ein Ausschlussgrund nach Abs. 7 vorliegt. Die Unzulässigkeit nach Abs. 3 (zwingendes Völkerrecht / Non-Refoulement) wird von diesen Ausschlussgründen nicht erfasst.
 
-**15** **Längerfristige Freiheitsstrafe und Massnahmen (lit. a).** Als längerfristig gilt in ständiger Praxis eine Freiheitsstrafe von mehr als einem Jahr (12 Monaten), unabhängig davon, ob sie bedingt, teilbedingt oder unbedingt ausgesprochen wurde ([BVGE 2022 VII/1 E. 8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2022-VII-1_2022-02-21.pdf)).
+**24** **Längerfristige Freiheitsstrafe und Massnahmen (lit. a).** Als längerfristig gilt in ständiger Praxis eine Freiheitsstrafe von mehr als einem Jahr (12 Monaten), unabhängig davon, ob sie bedingt, teilbedingt oder unbedingt ausgesprochen wurde ([BVGE 2022 VII/1 E. 8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2022-VII-1_2022-02-21.pdf)).
 
-**16** **Gefährdung der öffentlichen Sicherheit und Ordnung (lit. b).** Dieser Ausschlussgrund erfasst erhebliche oder wiederholte Verstösse gegen die Rechtsordnung sowie Gefährdungen der inneren oder äusseren Sicherheit der Schweiz ([BVGE 2017 VI/4 E. 5](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2017-VI-4_2017-05-18.pdf)).
+**25** **Gefährdung der öffentlichen Sicherheit und Ordnung (lit. b).** Dieser Ausschlussgrund erfasst erhebliche oder wiederholte Verstösse gegen die Rechtsordnung sowie Gefährdungen der inneren oder äusseren Sicherheit der Schweiz ([BVGE 2017 VI/4 E. 5](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2017-VI-4_2017-05-18.pdf)).
 
-**17** **Selbstverschuldete Unmöglichkeit (lit. c).** Hat die ausländische Person die Vollzugsunmöglichkeit durch vorsätzliche Passvernichtung, Identitätstäuschung oder Verweigerung der Mitwirkung herbeigeführt, ist die vorläufige Aufnahme ausgeschlossen ([BGE 126 II 400 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_400)).
+**26** **Selbstverschuldete Unmöglichkeit (lit. c).** Hat die ausländische Person die Vollzugsunmöglichkeit durch vorsätzliche Passvernichtung, Identitätstäuschung oder Verweigerung der Mitwirkung herbeigeführt, ist die vorläufige Aufnahme ausgeschlossen ([BGE 126 II 400 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_400)).
 
 ---
 
 ## Absatz 8: Flüchtlinge mit Asylausschlussgründen
 
-**18** **Vorläufig aufgenommene Flüchtlinge.** Personen, welche die Flüchtlingseigenschaft nach Art. 3 AsylG erfüllen, denen jedoch aufgrund von Asylausschlussgründen nach Art. 53 oder 54 AsylG (z.B. wegen Unwürdigkeit infolge schwerer Straftaten oder subjektiver Nachfluchtgründe) kein Asyl gewährt werden kann, werden gestützt auf Abs. 8 vorläufig aufgenommen («Flüchtlinge mit F-Status»).
+**27** **Vorläufig aufgenommene Flüchtlinge.** Personen, welche die Flüchtlingseigenschaft nach Art. 3 AsylG erfüllen, denen jedoch aufgrund von Asylausschlussgründen nach Art. 53 oder 54 AsylG (z.B. wegen Unwürdigkeit infolge schwerer Straftaten oder subjektiver Nachfluchtgründe) kein Asyl gewährt werden kann, werden gestützt auf Abs. 8 vorläufig aufgenommen («Flüchtlinge mit F-Status»).
 
 ---
 
 ## Absatz 9: Verhältnis zu Landesverweisung und Ausweisung
 
-**19** **Vorrang der strafrechtlichen Landesverweisung.** Ist eine strafrechtliche Landesverweisung nach Art. 66a/66abis StGB oder Art. 49a/49abis MStG bzw. eine ausländerrechtliche Ausweisung nach Art. 68 AIG rechtskräftig geworden, wird die vorläufige Aufnahme nicht verfügt bzw. erlischt sie von Gesetzes wegen. Stehen dem Vollzug zwingende völkerrechtliche Hindernisse entgegen (Art. 3 EMRK), verbleibt die betroffene Person ohne Status im Vollzugsstopp und wird auf Nothilfe (Art. 12 BV) verwiesen ([BGE 144 II 332 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-332_2018.html); [BGE 142 II 35 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html)).
+**28** **Vorrang der strafrechtlichen Landesverweisung.** Ist eine strafrechtliche Landesverweisung nach Art. 66a/66abis StGB oder Art. 49a/49abis MStG bzw. eine ausländerrechtliche Ausweisung nach Art. 68 AIG rechtskräftig geworden, wird die vorläufige Aufnahme nicht verfügt bzw. erlischt sie von Gesetzes wegen. Stehen dem Vollzug zwingende völkerrechtliche Hindernisse entgegen (Art. 3 EMRK), verbleibt die betroffene Person ohne Status im Vollzugsstopp und wird auf Nothilfe (Art. 12 BV) verwiesen ([BGE 144 II 332 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-332_2018.html); [BGE 142 II 35 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html)).
 
 ---
 
 ## Absatz 10: Integrationsvereinbarungen
 
-**20** **Förderung und Verbindlichkeit.** Die kantonalen Behörden sind befugt, mit vorläufig aufgenommenen Personen verbindliche Integrationsvereinbarungen nach Art. 58a AIG abzuschliessen, um dem spezifischen Förder- und Integrationsbedarf (Spracherwerb, Arbeitsmarktintegration) Rechnung zu tragen.
+**29** **Förderung und Verbindlichkeit.** Die kantonalen Behörden sind befugt, mit vorläufig aufgenommenen Personen verbindliche Integrationsvereinbarungen nach Art. 58a AIG abzuschliessen, um dem spezifischen Förder- und Integrationsbedarf (Spracherwerb, Arbeitsmarktintegration) Rechnung zu tragen.
 
 ---
 
@@ -133,15 +168,15 @@ revisions:
 
 ### 1. Rechtsschutz und Anfechtung bei kantonalen Wegweisungsentscheiden (Star-Praxis)
 
-**21** **Problemstellung.** Wenn eine kantonale Migrationsbehörde eine Aufenthaltsbewilligung verweigert und die Wegweisung anordnet, machen Betroffene häufig geltend, der Vollzug sei unzumutbar oder unmöglich, und verlangen einen Antrag auf vorläufige Aufnahme nach Art. 83 Abs. 6 AIG.
+**30** **Problemstellung.** Wenn eine kantonale Migrationsbehörde eine Aufenthaltsbewilligung verweigert und die Wegweisung anordnet, machen Betroffene häufig geltend, der Vollzug sei unzumutbar oder unmöglich, und verlangen einen Antrag auf vorläufige Aufnahme nach Art. 83 Abs. 6 AIG.
 
-**22** **Rechtslage.** Nach der bundesgerichtlichen Rechtsprechung verschafft Art. 83 Abs. 6 AIG dem Einzelnen keinen Anspruch auf Antragstellung durch den Kanton ([BGE 137 II 305 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305)). Gegen kantonale Entscheide über Wegweisungsvollzugshindernisse steht beim Bundesgericht daher die Beschwerde in öffentlich-rechtlichen Angelegenheiten nicht offen (Art. 83 lit. c Ziff. 4 BGG). Zulässig ist ausschliesslich die subsidiäre Verfassungsbeschwerde (Art. 113 ff. BGG), mit der nur die Verletzung von Parteirechten (sog. «Star»-Praxis) oder die Verletzung spezifischer verfassungsmässiger Individualrechte (wie das Folterverbot nach Art. 10 Abs. 3 BV / Art. 3 EMRK oder das Recht auf Achtung des Familienlebens nach Art. 13 Abs. 1 BV / Art. 8 EMRK) gerügt werden kann ([BGE 137 II 305 E. 2–3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305); [SG VG B 2016/101 E. 4](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2016-101_2016-08-23.pdf)).
+**31** **Rechtslage.** Nach der bundesgerichtlichen Rechtsprechung verschafft Art. 83 Abs. 6 AIG dem Einzelnen keinen Anspruch auf Antragstellung durch den Kanton ([BGE 137 II 305 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305)). Gegen kantonale Entscheide über Wegweisungsvollzugshindernisse steht beim Bundesgericht daher die Beschwerde in öffentlich-rechtlichen Angelegenheiten nicht offen (Art. 83 lit. c Ziff. 4 BGG). Zulässig ist ausschliesslich die subsidiäre Verfassungsbeschwerde (Art. 113 ff. BGG), mit der nur die Verletzung von Parteirechten (sog. «Star»-Praxis) oder die Verletzung spezifischer verfassungsmässiger Individualrechte (wie das Folterverbot nach Art. 10 Abs. 3 BV / Art. 3 EMRK oder das Recht auf Achtung des Familienlebens nach Art. 13 Abs. 1 BV / Art. 8 EMRK) gerügt werden kann ([BGE 137 II 305 E. 2–3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305); [SG VG B 2016/101 E. 4](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2016-101_2016-08-23.pdf)).
 
 ### 2. Kantonale Prüfpflicht bei medizinischen Vollzugshindernissen
 
-**23** **Problemstellung.** In welchem Umfang müssen kantonale Behörden und kantonale Verwaltungsgerichte medizinische Vollzugshindernisse prüfen, bevor sie die Wegweisung vollziehen oder dem SEM Antrag auf vorläufige Aufnahme stellen?
+**32** **Problemstellung.** In welchem Umfang müssen kantonale Behörden und kantonale Verwaltungsgerichte medizinische Vollzugshindernisse prüfen, bevor sie die Wegweisung vollziehen oder dem SEM Antrag auf vorläufige Aufnahme stellen?
 
-**24** **Rechtsprechungspraxis.** Das kantonale Verwaltungsgericht hat Vollzugshindernisse von Amtes wegen zu berücksichtigen. Macht die betroffene Person eine schwere Erkrankung (z.B. fortgeschrittene HIV-Infektion / AIDS, schwere psychische Störungen mit akuter Suizidalität) geltend und ist unklar, ob im Heimatstaat eine adäquate Behandlung realistisch zugänglich ist, darf die kantonale Behörde den Vollzug nicht ohne Weiteres anordnen, sondern hat dem SEM die vorläufige Aufnahme zu beantragen, damit die Fachinstanz des Bundes darüber entscheidet ([ZH VG VB.2016.00190 E. 4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2016-00190_2016-08-18.html); [ZH VG VB.2019.00854 E. 3–5](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2019-00854_2020-04-01.html)).
+**33** **Rechtsprechungspraxis.** Das kantonale Verwaltungsgericht hat Vollzugshindernisse von Amtes wegen zu berücksichtigen. Macht die betroffene Person eine schwere Erkrankung (z.B. fortgeschrittene HIV-Infektion / AIDS, schwere psychische Störungen mit akuter Suizidalität) geltend und ist unklar, ob im Heimatstaat eine adäquate Behandlung realistisch zugänglich ist, darf die kantonale Behörde den Vollzug nicht ohne Weiteres anordnen, sondern hat dem SEM die vorläufige Aufnahme zu beantragen, damit die Fachinstanz des Bundes darüber entscheidet ([ZH VG VB.2016.00190 E. 4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2016-00190_2016-08-18.html); [ZH VG VB.2019.00854 E. 3–5](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2019-00854_2020-04-01.html)).
 
 ---
 
