@@ -1,0 +1,29 @@
+# Systematik-Gliederung für das UVG (SR 832.20)
+gruppen:
+  - name: "Allgemeine Bestimmungen und Versicherte"
+    von: 1
+    bis: 5
+  - name: "Der Versicherungsfall"
+    von: 6
+    bis: 9
+  - name: "Versicherungsleistungen — Pflegeleistungen und Kostenvergütungen"
+    von: 10
+    bis: 13
+  - name: "Versicherungsleistungen — Geldleistungen: Taggeld"
+    von: 14
+    bis: 17
+  - name: "Versicherungsleistungen — Geldleistungen: Invalidenrente"
+    von: 18
+    bis: 23
+  - name: "Versicherungsleistungen — Geldleistungen: Integritäts- und Hilflosenentschädigung"
+    von: 24
+    bis: 27
+  - name: "Versicherungsleistungen — Geldleistungen: Hinterlassenenrenten"
+    von: 28
+    bis: 33
+  - name: "Gemeinsame Bestimmungen über die Versicherungsleistungen"
+    von: 34
+    bis: 41
+  - name: "Organisation und Durchführung"
+    von: 58
+    bis: 95
