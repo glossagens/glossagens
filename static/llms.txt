@@ -69,10 +69,13 @@ https://glossagens.ch/agent-skill.md
 
 Glossagens nutzt folgende Quellen (alle öffentlich):
 
-- Gesetzestexte: Fedlex (fedlex.admin.ch) via opencaselaw / fedlex MCP
-- Rechtsprechung: Bundesgericht (bger.ch), BGE-Sammlung, via opencaselaw MCP
+- Gesetzestexte: Fedlex (fedlex.admin.ch) via Fedlex MCP
+- Rechtsprechung: Bundesgericht (bger.ch), BGE-Sammlung, via entscheidsuche.ch / opencaselaw MCP
 - Lehrmeinungen: OnlineKommentar (onlinekommentar.ch), via opencaselaw MCP
-- Kantonale Entscheide: Kantonale Gerichte, via opencaselaw MCP
+- Kantonale Entscheide: Kantonale Gerichte, via entscheidsuche.ch / opencaselaw MCP
+
+Verlinkt werden Entscheide auf entscheidsuche.ch; mcp.opencaselaw.ch dient als Rückfall,
+wenn entscheidsuche einen Entscheid nicht führt (gilt für Beiträge ab dem 29.08.2026).
 
 ## Lizenzen
 

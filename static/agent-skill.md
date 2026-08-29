@@ -5,6 +5,8 @@ version: 1.1.0
 author: Glossagens
 license: CC BY-SA 4.0
 tools:
+  - mcp__entscheidsuche__search_by_case_number
+  - mcp__entscheidsuche__search
   - mcp_opencaselaw_get_law
   - mcp_opencaselaw_get_doctrine
   - mcp_opencaselaw_get_commentary
@@ -177,7 +179,7 @@ Create an issue using the structured template:
 [2-3 sentences on significance]
 
 **Leitentscheide** (aus find_leading_cases / verifiziert mit cite):
-- [BGE 144 IV 202 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_202) — [one-line summary]
+- [BGE 144 IV 202 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2) — [one-line summary]
 
 **Weitere Hinweise**:
 [anything else relevant]
@@ -223,7 +225,7 @@ agent_verified: true
 {Einordnung in die Systematik, Zweck und Entstehungsgeschichte / BBl}
 
 ## II. Kommentierung
-{Dogmatische Erläuterung nach Absätzen oder Tatbestandsmerkmalen mit verlinkten Entscheiden [BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)}
+{Dogmatische Erläuterung nach Absätzen oder Tatbestandsmerkmalen mit verlinkten Entscheiden [BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)}
 
 ## III. Praxisfragen
 {1-2 kantonale Praxisfragen und Stolpersteine mit verknüpften Entscheiden}
@@ -246,14 +248,14 @@ agent_verified: true
 *(Mindestens 5 wegweisende BGEs)*
 
 ### **Thema des Entscheids**
-[BGE 144 IV 202 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_202)
+[BGE 144 IV 202 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2)
 Abstract mit Sachverhalt und Kernaussage.
 
 ## II. Weitere Entscheide
 *(Mindestens 5 weitere BGer- oder kantonale Entscheide)*
 
 ### **Thema des Entscheids**
-[BGer 6B_1040/2019 vom 3.8.2020 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1040_2019_2020-08-03)
+[BGer 6B_1040/2019 vom 17.10.2019 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1040-2019_2019-10-17.html)
 Abstract mit Sachverhalt und Kernaussage.
 ```
 
@@ -270,7 +272,7 @@ The verification checks automatically:
 - Existence and pinpoint verification (`cite`, `get_erwaegung`)
 - Grounding check of claim-citation pairs (judged against the verbatim decision text)
 - Academic Swiss citation style and Swiss spelling (no "ß")
-- Hyperlinks to verified OpenCaseLaw decision records
+- Hyperlinks to entscheidsuche.ch decision records (OpenCaseLaw only as fallback)
 
 ## Anti-hallucination rules (CRITICAL)
 
@@ -279,6 +281,7 @@ These apply whether you submit via issue or PR:
 1. **NEVER construct a BGE citation yourself.** All citation strings must come verbatim from `citation_string_de` / `citation_string_fr` returned by opencaselaw tools (or verified via `cite`).
 2. **NEVER quote statute text from memory.** Always call `get_law` first.
 3. **NEVER write direct quotations** from decisions unless the text came from `get_erwaegung` (the `text` field) or `get_regeste` (the `regeste` field). Paraphrase otherwise.
+4. **NEVER construct a decision URL yourself.** Link every decision to **entscheidsuche.ch**, copying the `document_url` field verbatim from `mcp__entscheidsuche__search_by_case_number`. `https://mcp.opencaselaw.ch/entscheid/...` is a **fallback only**, for decisions entscheidsuche does not carry. For a pinpoint, append the `#consideration_{E-No}` anchor — HTML documents only (`is_pdf: false`), and only if that consideration actually exists in the document.
 
 ## Example workflow
 

@@ -9,6 +9,9 @@ tools:
   - mcp__fedlex-connector__get_law_text
   - mcp__fedlex-connector__search_by_title
   - mcp__fedlex-connector__list_amendments
+  - mcp__entscheidsuche__search_by_case_number
+  - mcp__entscheidsuche__search
+  - mcp__entscheidsuche__fetch_document
   - mcp_opencaselaw_cite
   - mcp_opencaselaw_get_law
   - mcp_opencaselaw_get_legislation
@@ -201,6 +204,7 @@ Continuously research which topics and decisions are still **missing** from the 
 > liefert. Grund: opencaselaw sperrt den Glossagens-Client seit dem 23.08.2026 per IP
 > (HTTP 403); Fedlex war nie betroffen. Wird der Rückfall benutzt, im Revisionsvermerk
 > festhalten. Für **Entscheide** bleibt opencaselaw bzw. entscheidsuche massgebend.
+> **Linkziel für Entscheide ist entscheidsuche.ch** (siehe D.2a), opencaselaw nur als Rückfall.
 
 ```
 mcp__fedlex-connector__get_article: { "rs_number": "{SRNR}", "article": "{N}", "language": "de" }
@@ -622,6 +626,33 @@ Vor dem Schreiben ebenfalls:
 
 ---
 
+## D.2a — Linkziel: entscheidsuche.ch, opencaselaw nur als Rückfall
+
+Jeder zitierte Entscheid wird **auf entscheidsuche.ch verlinkt**, soweit dort ein
+Dokument vorliegt. `mcp.opencaselaw.ch/entscheid/...` ist nur noch **Rückfallebene** —
+für Entscheide, die entscheidsuche nicht führt (ältere kantonale Entscheide, EGMR).
+Am Rechercheweg ändert das nichts: opencaselaw bleibt für `cite`, `get_erwaegung` und
+`get_regeste` massgebend; nur das *Linkziel* wechselt.
+
+**Die URL nie konstruieren.** Sie enthält eine nicht ableitbare Sammlungsnummer
+(`CH_BGE_005_...`). Verbatim aus dem Feld `document_url` übernehmen:
+
+```
+mcp__entscheidsuche__search_by_case_number: { "case_number": "BGE 144 III 519", "size": 3 }
+→ document_url: https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html
+```
+
+- **Pinpoint als Anker**: HTML-Dokumente tragen `id="consideration_{E-Nr}"` —
+  `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)`.
+  Anker nur setzen, wenn die Erwägungsnummer im Dokument wirklich vorkommt.
+- **PDF-Dokumente** (`is_pdf: true`, viele kantonale Entscheide) haben keine Anker:
+  ohne `#` verlinken.
+- Kein Treffer bei entscheidsuche → Rückfall `https://mcp.opencaselaw.ch/entscheid/{decision_id}`.
+- Die Regel gilt **nur für die Zukunft**: bestehende opencaselaw-Links werden nicht
+  migriert.
+
+---
+
 ## D.3 — Schlussattest (Audit-Lauf über das Bundle)
 
 Auf dem **fertigen** Bundle, beide Dateien auf einmal:
@@ -860,6 +891,7 @@ Rerank sind kleine LLM-Aufrufe).
 - **agent_verified**: In `rechtsprechung.md` immer `false`; in `_index.md` erst nach Verifikation `true` — und nur, wenn die jüngste `revisions`-Zeile `mcp_verified: true` trägt
 - **Revisions-Vermerk vergessen**: Bei **jeder** Änderung (auch Neuanlage) muss oben in `revisions:` ein Eintrag mit `by` / `model` / `mcp_verified` ergänzt werden — sonst ist nicht nachvollziehbar, wer mit welchem Modell und mit/ohne MCP-Prüfung gearbeitet hat
 - **Citation strings**: Nie selbst konstruieren — immer aus `citation_string_de` des MCP-Tools
+- **Linkziel**: Entscheide auf entscheidsuche.ch verlinken (`document_url` verbatim), opencaselaw nur als Rückfall — siehe D.2a
 - **«Thematisch passend» statt geprüft**: Der häufigste und teuerste Fehler. Ein Entscheid,
   der Stufe «existiert» besteht, kann trotzdem etwas ganz anderes entscheiden — im Bestand
   gab es Artikel, deren sämtliche Belege existierten und **keiner** die Aussage trug.

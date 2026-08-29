@@ -158,7 +158,7 @@ revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt 
   - date: YYYY-MM-DD
     by: "Name des Bearbeiters"    # Mensch oder Agent, z. B. "Claude Code", "Hermes Agent", "Jonas Achermann"
     model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
-    mcp_verified: true            # true nur, wenn Gesetzestexte UND Entscheide via opencaselaw-MCP geprüft
+    mcp_verified: true            # true nur, wenn Gesetzestexte (Fedlex) UND Entscheide (entscheidsuche/opencaselaw) geprüft
     note: "kurze Beschreibung der Änderung"   # optional
 ---
 ```
@@ -178,7 +178,7 @@ revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt 
   - date: YYYY-MM-DD
     by: "Name des Bearbeiters"
     model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
-    mcp_verified: true            # true nur, wenn alle Entscheide via opencaselaw-MCP geprüft
+    mcp_verified: true            # true nur, wenn alle Entscheide via entscheidsuche/opencaselaw geprüft
     note: "kurze Beschreibung der Änderung"   # optional
 ---
 ```
@@ -206,6 +206,40 @@ opencaselaw bzw. **entscheidsuche** als gleichwertigem Weg; nur der Gesetzestext
 
 Unverändert gilt: **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben.
 
+### Verlinkung von Entscheiden: entscheidsuche.ch zuerst, opencaselaw nur als Rückfall
+
+Jeder im Text zitierte Entscheid wird **auf entscheidsuche.ch verlinkt**, soweit dort ein Dokument
+vorliegt. `mcp.opencaselaw.ch/entscheid/...` ist nur noch **Rückfallebene** — zulässig, wenn
+entscheidsuche den Entscheid nicht führt (kommt bei älteren kantonalen Entscheiden und bei
+EGMR-Urteilen vor).
+
+Grund: entscheidsuche.ch ist die etablierte, offen zugängliche Publikationsplattform der Schweizer
+Gerichte; ihre Dokument-URLs sind stabil und für Leserinnen und Leser ohne Umweg über einen
+MCP-Server erreichbar. opencaselaw bleibt als Rechercheinstrument massgebend — nur das *Linkziel*
+wechselt.
+
+**Die URL wird nie von Hand konstruiert.** Sie enthält eine nicht ableitbare Sammlungsnummer
+(`CH_BGE_005_…`) und wird deshalb **verbatim** aus dem Feld `document_url` einer Antwort von
+`mcp__entscheidsuche__search_by_case_number` bzw. `mcp__entscheidsuche__search` übernommen:
+
+```
+BGE  → https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html
+BGer → https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-466-2020_2021-02-10.html
+```
+
+Regeln:
+- **Pinpoint als Anker**: HTML-Dokumente tragen `id="consideration_{E-Nr}"`. Der Link auf eine
+  Erwägung lautet also `…_2018.html#consideration_5.2.1`. Den Anker nur anhängen, wenn die
+  Erwägungsnummer im Dokument tatsächlich vorkommt — sonst ohne Anker verlinken.
+- **PDF-Dokumente** (`is_pdf: true`, viele kantonale Entscheide) haben keine Anker: ohne `#`
+  verlinken, der Pinpoint steht dann nur im Zitattext.
+- Findet `search_by_case_number` den Entscheid nicht, gilt der Rückfall auf
+  `https://mcp.opencaselaw.ch/entscheid/{decision_id}`. Kein Vermerk nötig; die inhaltliche
+  Verifikation des Entscheids bleibt davon unberührt.
+- Die Entscheidung gilt **nur für die Zukunft**: neue und überarbeitete Kommentare. Bestehende
+  opencaselaw-Links werden nicht migriert — sie funktionieren weiter. Wer ohnehin einen Abschnitt
+  überarbeitet, darf die dortigen Links mitziehen, muss aber nicht.
+
 ### Pflicht: Revisions-Vermerk bei jeder Änderung
 
 **Jede** inhaltliche Änderung an einem Kommentarartikel (`_index.md` **und** `rechtsprechung.md`) — auch die Neuanlage — MUSS als neuer Eintrag **zuoberst** in der `revisions:`-Liste des Frontmatters vermerkt werden. So ist jederzeit nachvollziehbar, wer mit welchem KI-Modell den Beitrag erstellt/geändert hat und ob die Zitate maschinell verifiziert wurden. Pflichtangaben pro Eintrag:
@@ -215,7 +249,7 @@ Unverändert gilt: **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben.
 | `date` | Datum der Änderung (`YYYY-MM-DD`) |
 | `by` | **Wer** die Änderung vorgenommen hat — Mensch (`"Jonas Achermann"`) oder Agent (`"Claude Code"`, `"Hermes Agent"`) |
 | `model` | **Mit welchem KI-Modell** — exakte Modell-ID (z. B. `claude-opus-4-8`, `hermes3`); bei rein manueller Bearbeitung ohne KI: `human` |
-| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP**, Entscheide über opencaselaw (`cite` / `get_erwaegung` / `get_regeste`) oder entscheidsuche. Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute") |
+| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP**, Entscheide über entscheidsuche (`search_by_case_number` / `fetch_document`) oder opencaselaw (`cite` / `get_erwaegung` / `get_regeste`). Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute" und „Verlinkung von Entscheiden") |
 | `note` | optional — kurze Beschreibung der Änderung |
 
 Regeln:

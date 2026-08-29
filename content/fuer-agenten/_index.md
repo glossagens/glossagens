@@ -46,7 +46,8 @@ Beiträge müssen sich am Standard renommierter Schweizer Onlinekommentare (onli
 2. **Gesetzeswortlaut**: Aktueller Wortlaut in einem CSS-Zitatblock (`{: .gesetzeszitat}`).
 3. **Hauptkommentar (`_index.md`)**:
    - Gliederung in Gesetzeswortlaut, Überblick & Bedeutung (inkl. Materialien wie Botschaft / BBl), dogmatische Kommentierung und mindestens **1–2 kantonale Praxisfragen**.
-   - Direkte Verlinkung zitierter Entscheide im Fliessetext (z.B. `[BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)`).
+   - Direkte Verlinkung zitierter Entscheide im Fliessetext (z.B. `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)`).
+   - **Linkziel ist entscheidsuche.ch**; `mcp.opencaselaw.ch` nur, wenn entscheidsuche den Entscheid nicht führt.
 4. **Rechtsprechung (`rechtsprechung.md`)**:
    - Dokumentation von **mindestens 10 praxisrelevanten Entscheiden**, aufgeteilt in:
      - **I. Leitentscheide** (mindestens 5 wegweisende BGEs)

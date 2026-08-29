@@ -93,7 +93,7 @@ Der Kommentarartikel ist wie folgt zu gliedern:
 
 1. **Gesetzeswortlaut**: Zitat der aktuellen Gesetzesbestimmung (inkl. Absatznummerierung) in einem CSS-Zitat-Block (`{: .gesetzeszitat}`).
 2. **Überblick und Bedeutung**: Einordnung der Norm in die Systematik des Gesetzes, Zweck und Tragweite unter Beizug der Gesetzesmaterialien (Botschaft, BBl) und Dogmatik.
-3. **Kommentierung**: Absatzweise oder thematische Gliederung der Bestimmung. Hierbei sind Kernaussagen der wichtigsten Bundesgerichtsentscheide und Lehrmeinungen direkt im Text mit korrekter Zitierweise und Hyperlinks zu zitieren (z.B. `([BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519))`).
+3. **Kommentierung**: Absatzweise oder thematische Gliederung der Bestimmung. Hierbei sind Kernaussagen der wichtigsten Bundesgerichtsentscheide und Lehrmeinungen direkt im Text mit korrekter Zitierweise und Hyperlinks zu zitieren (z.B. `([BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2))`).
 4. **Praxisfragen**: Dokumentation kantonaler Besonderheiten, Streitpunkte oder verfahrensrechtlicher Hürden (z.B. Fristberechnungen, Unterschriftsmängel, Zustellungsfragen). Jede Frage muss mit dem klärenden Entscheid verknüpft sein.
 
 ### B. Rechtsprechungsseite (`art-{nr}/rechtsprechung.md`)
@@ -104,7 +104,7 @@ Die Rechtsprechungsseite listet **mindestens 10 ausgewählte Entscheide** auf (e
 
 Jeder Eintrag muss Folgendes enthalten:
 * Ein aussagekräftiges, fettgedrucktes Thema als Überschrift.
-* Zitatsyntax mit funktionierendem Link und Erwägung (z.B. `[BGE 144 III 519 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_519)`).
+* Zitatsyntax mit funktionierendem Link und Erwägung (z.B. `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)`).
 * Ein Abstract, das den Sachverhalt kurz skizziert und die prozessuale bzw. materielle Kernaussage präzise auf den Punkt bringt.
 
 ---
@@ -140,7 +140,12 @@ graph TD
 
 ### Schritt 4: Verlinkung & Referenzierung
 * Erstellung of Hyperlinks für alle Entscheide.
-* Formatierung gemäss Zitierregeln: `[BGE XXX III YYY E. Z](https://mcp.opencaselaw.ch/entscheid/bge_BGE_XXX_III_YYY)`.
+* **Linkziel: entscheidsuche.ch**, opencaselaw nur als Rückfall (siehe CLAUDE.md, „Verlinkung von
+  Entscheiden"). Die URL nie konstruieren, sondern verbatim aus `document_url` von
+  `mcp__entscheidsuche__search_by_case_number` übernehmen.
+* Formatierung gemäss Zitierregeln: `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)` — Anker
+  `#consideration_{E-Nr}` nur bei HTML-Dokumenten und nur, wenn die Erwägung dort existiert; bei
+  PDF-Dokumenten ohne Anker verlinken.
 * Kreuzverweise: Einbau der Links direkt in den fliessenden Erläuterungstext des Hauptkommentars.
 
 ### Schritt 5: Verifikation & Build
