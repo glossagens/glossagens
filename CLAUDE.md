@@ -50,7 +50,8 @@ content/
 │   ├── _index.md                     ← Gesetzesübersicht
 │   └── art-{nr}/                     ← Page Bundle pro Artikel
 │       ├── _index.md                 ← Hauptkommentar (Branch Bundle, nicht index.md!)
-│       └── rechtsprechung.md         ← Rechtsprechungsübersicht
+│       ├── rechtsprechung.md         ← Rechtsprechungsübersicht
+│       └── strafzumessung.md        ← optional, nur Straftatbestände (Skill `strafzumessungskommentar`)
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
 
@@ -64,11 +65,12 @@ agent/
 ├── requirements.txt
 ├── .env.example
 ├── glossagens-agent.service          ← systemd-Unit für Hetzner
-└── skills/
-    ├── glossagens-content-creation/  ← Skill für Hermes: Artikel erstellen
-    │   └── SKILL.md
-    └── glossagens-queue/             ← Skill für Hermes: Queue verwalten
-        └── SKILL.md
+└── skills/                           ← verbindlicher Standort (.agents/rules/skills-standort.md)
+    ├── glossagens-content-creation/  ← Artikel erstellen
+    ├── glossagens-audit/             ← Grounding-Audit inkl. Judge-Ledger
+    ├── glossagens-lint/              ← Gesetzeswortlaute gegen Fedlex prüfen
+    ├── glossagens-queue/             ← Queue verwalten
+    └── strafzumessungskommentar/     ← Strafzumessungs-Praxiskommentar (strafzumessung.md)
 
 static/
 └── agent-skill.md                    ← Öffentlicher Contributor-Skill (für externe Agenten)
@@ -83,6 +85,7 @@ static/
 1. Verzeichnis `content/kommentar/{gesetz}/art-{nr}/` anlegen
 2. `_index.md` für den Kommentar (Branch Bundle — nicht `index.md`!)
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
+3a. Bei Straftatbeständen optional `strafzumessung.md` — empirischer Strafzumessungs-Praxiskommentar aus der publizierten Praxis (Skill `strafzumessungskommentar`, `weight: 98`). Die Artikelseite verlinkt die Seite automatisch, sobald sie im Bundle liegt (`layouts/kommentar/list.html`).
 4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / `mcp_verified`) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
 
 ### Frontmatter-Schema — Gesetzesübersicht (`content/kommentar/{gesetz}/_index.md`)

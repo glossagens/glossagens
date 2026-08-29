@@ -21,14 +21,18 @@
 
           {{/* ============ /kommentar/{gesetz}/art-X/ — Artikelseite ============ */}}
           {{ else }}
-            {{- $rs := .GetPage "rechtsprechung" -}}
-            {{- if $rs -}}
-              <div class="hx:mt-8 hx:p-4 hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:rounded-lg hx:bg-gray-50 hx:dark:bg-neutral-900">
-                <a href="{{ $rs.RelPermalink }}" class="hx:no-underline hx:flex hx:items-center hx:gap-2 hx:font-semibold">
-                  <span aria-hidden="true">📋</span>
-                  <span>{{ $rs.Title }}</span>
-                </a>
-              </div>
+            {{/* Zusatzseiten des Page Bundles: Rechtsprechung, Strafzumessung.
+                 Jede erscheint nur, wenn die Datei im Bundle vorhanden ist. */}}
+            {{- range slice (dict "name" "rechtsprechung" "icon" "📋") (dict "name" "strafzumessung" "icon" "⚖️") -}}
+              {{- $icon := .icon -}}
+              {{- with $.GetPage .name -}}
+                <div class="hx:mt-8 hx:p-4 hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:rounded-lg hx:bg-gray-50 hx:dark:bg-neutral-900">
+                  <a href="{{ .RelPermalink }}" class="hx:no-underline hx:flex hx:items-center hx:gap-2 hx:font-semibold">
+                    <span aria-hidden="true">{{ $icon }}</span>
+                    <span>{{ .Title }}</span>
+                  </a>
+                </div>
+              {{- end -}}
             {{- end -}}
             {{ partial "kommentar/article-nav.html" . }}
           {{ end }}
