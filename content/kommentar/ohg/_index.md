@@ -6,14 +6,19 @@ kuerzel: "OHG"
 gesetz_name: "Opferhilfegesetz"
 weight: 19
 date: '2026-08-10'
-lastmod: "2026-08-11"
+lastmod: "2026-08-29"
 description: Kommentierte Artikel zum Opferhilfegesetz (OHG, SR 312.5, vom 23. März 2007).
 tags:
 - OHG
 - Opferhilfe
 - Strafrecht
-agent_verified: false
+agent_verified: true
 revisions:
+- date: '2026-08-29'
+  by: Antigravity Agent
+  model: gemini-3.7-flash
+  mcp_verified: true
+  note: Kommentierung und Rechtsprechungsausbau zu Art. 19–22 OHG
 - date: '2026-08-10'
   by: Claude Code
   model: minimax-m3
