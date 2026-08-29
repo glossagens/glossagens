@@ -14,6 +14,9 @@
           {{/* ============ /kommentar/ — Gesetzes-Übersicht ============ */}}
           {{ if eq $depth 1 }}
             {{ partial "kommentar/gesetze-grid.html" . }}
+            {{/* Dieselbe Liste wie in der TOC-Spalte, hier für Mobil und
+                 Tablet; ab 1280px per CSS ausgeblendet, siehe Partial. */}}
+            {{ partial "kommentar/aktivitaet.html" (dict "context" . "variant" "inline") }}
 
           {{/* ============ /kommentar/{gesetz}/ — Artikel-Übersicht ============ */}}
           {{ else if eq $depth 2 }}

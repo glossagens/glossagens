@@ -1,10 +1,24 @@
 {{- /*
-  Startseiten-Übersicht für die rechte Sidebar: kürzlich geänderte und neu
-  erstellte Artikel über alle Gesetze hinweg. Ein Artikel, der seit der
-  Erstellung nicht revidiert wurde, erscheint nur unter „Neueste Artikel",
-  nicht zusätzlich unter „Kürzlich geändert".
+  Startseiten-Übersicht: kürzlich geänderte und neu erstellte Artikel über alle
+  Gesetze hinweg. Ein Artikel, der seit der Erstellung nicht revidiert wurde,
+  erscheint nur unter „Neueste Artikel", nicht zusätzlich unter „Kürzlich
+  geändert".
 
-  Die beiden Spalten haben verschiedene Quellen:
+  Aufruf mit einem Dict:
+
+    {{ partial "kommentar/aktivitaet.html" (dict "context" . "variant" "sidebar") }}
+
+  `variant` steuert nur die Platzierung, nicht den Inhalt:
+
+  - "sidebar" — in der rechten TOC-Spalte (toc.html). Die trägt selbst
+    `hx:hidden hx:xl:block`, ist also erst ab 1280px da.
+  - "inline"  — am Ende der Gesetzesliste (kommentar/list.html), als schmale
+    Doppelspalte. Deckt genau den Bereich unter 1280px ab, in dem es die
+    TOC-Spalte nicht gibt, und blendet sich darüber wieder aus. Beide Fassungen
+    stehen im DOM; welche sichtbar ist, entscheidet allein die Media Query, denn
+    der Umschaltpunkt der TOC ist CSS und nicht im Template abfragbar.
+
+  Die beiden Spalten haben verschiedene Datenquellen:
 
   - „Kürzlich geändert" kommt aus der Git-Historie (`enableGitInfo` in
     hugo.toml, Begründung dort). Massgebend ist das Maximum über das ganze
@@ -14,11 +28,17 @@
     Rechtsprechungsseite am 17.08. überarbeitet wurde.
   - „Neueste Artikel" kommt weiterhin aus `date` im Frontmatter. Git kennt nur
     die erste Anlage der Datei; wo zuerst ein Stub lag, wäre das irreführend.
+
+  Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
+  Theme heraus kompiliert, hier erfundene Varianten fehlen im Bundle.
 */ -}}
+
+{{- $ctx := .context -}}
+{{- $variant := .variant | default "sidebar" -}}
 
 {{- $anzahl := 5 -}}
 {{- $artikel := slice -}}
-{{- range .Sections -}}
+{{- range $ctx.Sections -}}
   {{- $gesetz := . -}}
   {{- range where $gesetz.Sections "Kind" "section" -}}
     {{- $geaendert := .Lastmod -}}
@@ -37,6 +57,11 @@
 
 {{- if $artikel -}}
 
+{{- /* Beide Varianten stehen auf derselben Seite; das CSS darf nur einmal
+       ins Dokument. */ -}}
+{{- $cssFehlt := not ($ctx.Store.Get "glAktivitaetCSS") -}}
+{{- $ctx.Store.Set "glAktivitaetCSS" true -}}
+{{- if $cssFehlt -}}
 <style>
 .gl-toc-aktivitaet {
   display: flex;
@@ -108,6 +133,29 @@
   margin: 0;
 }
 
+/* Inline-Fassung am Ende der Gesetzesliste — siehe Kopfkommentar. */
+.gl-akt-mobil {
+  margin-top: 2.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+.gl-akt-titel {
+  margin: 0 0 1.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151;
+}
+.gl-akt-inline .gl-toc-atitel { font-size: .875rem; }
+.gl-akt-inline .gl-toc-ameta { font-size: .75rem; }
+@media (min-width: 600px) {
+  .gl-akt-inline { flex-direction: row; gap: 2.5rem; }
+  .gl-akt-inline > div { flex: 1 1 0; min-width: 0; }
+}
+/* Ab 1280px zeigt die TOC-Spalte dieselbe Liste (hx:xl:block). */
+@media (min-width: 1280px) {
+  .gl-akt-mobil { display: none; }
+}
+
 /* Dark mode */
 .dark .gl-toc-agruppe {
   border-bottom-color: #262626;
@@ -131,16 +179,35 @@
 .dark .gl-toc-leer {
   color: #6b7280;
 }
+.dark .gl-akt-mobil { border-top-color: #262626; }
+.dark .gl-akt-titel { color: #e5e7eb; }
 </style>
+{{- end -}}
 
-<div class="gl-toc-aktivitaet not-prose">
-  {{- $spalten := slice
-    (dict "titel" "Kürzlich geändert" "leer" "Noch keine Änderungen erfasst."
-      "eintraege" (first $anzahl (sort (where $artikel "revidiert" true) "geaendert" "desc")) "feld" "geaendert")
-    (dict "titel" "Neueste Artikel" "leer" "Noch keine Artikel erfasst."
-      "eintraege" (first $anzahl (sort $artikel "datum" "desc")) "feld" "datum")
-  -}}
-  {{- range $spalten -}}
+{{- $spalten := slice
+  (dict "titel" "Kürzlich geändert" "leer" "Noch keine Änderungen erfasst."
+    "eintraege" (first $anzahl (sort (where $artikel "revidiert" true) "geaendert" "desc")) "feld" "geaendert")
+  (dict "titel" "Neueste Artikel" "leer" "Noch keine Artikel erfasst."
+    "eintraege" (first $anzahl (sort $artikel "datum" "desc")) "feld" "datum")
+-}}
+
+{{- if eq $variant "inline" -}}
+  <section class="gl-akt-mobil not-prose">
+    <h2 class="gl-akt-titel">Letzte Änderungen</h2>
+    <div class="gl-toc-aktivitaet gl-akt-inline">
+      {{- template "gl-akt-spalten" $spalten -}}
+    </div>
+  </section>
+{{- else -}}
+  <div class="gl-toc-aktivitaet not-prose">
+    {{- template "gl-akt-spalten" $spalten -}}
+  </div>
+{{- end -}}
+
+{{- end -}}
+
+{{- define "gl-akt-spalten" -}}
+  {{- range . -}}
     {{- $feld := .feld -}}
     <div>
       <div class="gl-toc-agruppe">{{ .titel }}</div>
@@ -166,6 +233,4 @@
       {{- end -}}
     </div>
   {{- end -}}
-</div>
-
 {{- end -}}
