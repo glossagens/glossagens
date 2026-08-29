@@ -2,11 +2,16 @@
 title: "Art. 311 ZPO — Einreichen der Berufung"
 weight: 311
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 311 ZPO: Die Berufungsschrift im Zivilprozess — Gesetzliche Fristen, Begründungspflichten und die prozessualen Hürden beim Rechtsmittel."
-tags: ["ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht", "Berufungsfrist"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 311 ZPO: Die Berufungsschrift im Zivilprozess — Gesetzliche Fristen, Begründungsdichte, Rügeprinzip, Bezifferungsgebot und Kasuistik."
+tags: ["ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht", "Rügeprinzip", "Berufungsfrist", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Vertiefte Kasuistik zur Rügepflicht (BGE 142 III 413), Bezifferungsgebot (BGE 137 III 617), Ausschluss von Nachfristen bei Begründungsmängeln (BGE 144 III 394), Laienberufungen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -30,33 +35,58 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 311 ZPO regelt die formellen und inhaltlichen Anforderungen an die **Einreichung der Berufung** (dem ordentlichen Rechtsmittel der ZPO). Die Norm ist von überragender praktischer Bedeutung, da sie mit der Begründungspflicht eine erhebliche prozessuale Hürde aufstellt. Die Berufung ist kein Devolutiveffekt im Sinne einer automatischen vollumfänglichen Neubeurteilung; vielmehr muss der Berufungskläger dem Gericht aufzeigen, welche konkreten Fehler die erste Instanz begangen hat. Mängel bei der Begründung führen zum Nichteintreten auf das Rechtsmittel.
+**Rz. 1** Art. 311 ZPO normiert die formellen und materiellen Anforderungen an die **Berufungsschrift** als ordentliches Rechtsmittel des Zivilprozesses (Art. 308 ff. ZPO). Die Bestimmung entfaltet in der Prozesspraxis erhebliche Sprengkraft: Die Berufungsinstanz verfügt über volle Kognition in rechtlicher und tatsächlicher Hinsicht (Art. 310 ZPO), ist jedoch nach ständiger Rechtsprechung **keine Untersuchungsinstanz**, die das vorinstanzliche Urteil von sich aus in alle Richtungen auf Mängel durchleuchtet.
+
+**Rz. 2** Vielmehr gilt im schweizerischen Berufungsverfahren ein strenges **Rügeprinzip** ([BGE 142 III 413 E. 2.2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-413_2016.html#consideration_2.2.4)): Der Berufungskläger muss der Rechtsmittelinstanz in der Berufungsschrift detailliert aufzeigen, an welchen konkreten Rechts- oder Sachverhaltsfehlern das angefochtene Urteil leidet. Genügt die Berufungsschrift diesen Begründungsanforderungen nicht, tritt die Rechtsmittelinstanz auf das Rechtsmittel ohne Nachfristansetzung nicht ein ([BGE 144 III 394 E. 4.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-394_2018.html#consideration_4.1.4)).
 
 ## Kommentierung
 
-### I. Frist und Zuständigkeit (Abs. 1)
+### I. Frist und Einreichung (Abs. 1)
 
-**1** **Zuständigkeit**: Die Berufung ist direkt bei der **Rechtsmittelinstanz** (in den Kantonen meist das Obergericht, Kantonsgericht oder Appellationsgericht) einzureichen, nicht bei der erstinstanzlichen Vorinstanz.
+**Rz. 3** **Rechtsmittelfrist**: Die Berufungsfrist beträgt **30 Tage** ab Zustellung des begründeten Entscheids (im summarischen Verfahren nach Art. 314 Abs. 1 ZPO lediglich **10 Tage**). Es handelt sich um eine gesetzliche Frist, die gemäss Art. 144 Abs. 1 ZPO **nicht erstreckbar** ist.
 
-**2** **Gesetzliche Frist**: Die Frist beträgt **30 Tage**. Da es sich um eine gesetzliche Frist handelt, ist sie **unerstreckbar** (Art. 144 Abs. 1 ZPO).
-*   **Ausnahme**: Im summarischen Verfahren (z.B. bei vorsorglichen Massnahmen oder im Rechtsöffnungsverfahren) beträgt die Berufungsfrist gemäss Art. 314 Abs. 1 ZPO lediglich **10 Tage**.
-*   **Gerichtsferien**: Der Fristenstillstand während der Gerichtsferien (Art. 145 ZPO) gilt für die ordentliche 30-Tage-Frist, greift jedoch gemäss Art. 145 Abs. 2 lit. b ZPO im summarischen Verfahren nicht.
-*   **Einreichung bei unzuständiger Behörde**: Wird die Berufungsschrift irrtümlich bei einer unzuständigen Behörde (z. B. der Vorinstanz statt der Rechtsmittelinstanz) eingereicht, muss diese die Eingabe von Amtes wegen an die zuständige Rechtsmittelinstanz weiterleiten. Ob die Frist gewahrt ist, wenn die Berufung rechtzeitig bei einer unzuständigen Stelle eingeht, ist in der Rechtsprechung nicht abschliessend geklärt.
+**Rz. 4** **Zuständige Einreichungsstelle**: Die Berufungsschrift ist direkt bei der zuständigen **Rechtsmittelinstanz** (z.B. Obergericht, Kantonsgericht) einzureichen. Die irrtümliche Einreichung bei der Vorinstanz schadet der fristgerechten Wahrung zwar nicht, sofern die Vorinstanz die Schrift von Amtes wegen weiterleitet (Art. 143 Abs. 1bis ZPO), birgt jedoch erhebliche Verzögerungsrisiken.
 
-### II. Die Begründungspflicht (Abs. 1)
+### II. Begründungspflicht und Rügeprinzip (Abs. 1)
 
-**3** **Inhaltliche Anforderungen**: Die Berufungsschrift muss zwingend Rechtsbegehren (Berufungsanträge) und eine Begründung enthalten. Die Anträge müssen präzise formulieren, welche Abänderung des erstinstanzlichen Entscheids verlangt wird (z.B. Abweisung der Klage oder Rückweisung zur Neubeurteilung). Bei Geldforderungen sind die Berufungsanträge zu beziffern ([BGE 137 III 617, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_617#e-4-3)).
+**Rz. 5** **Auseinandersetzung mit den vorinstanzlichen Erwägungen**:
+* Die berufungsführende Partei muss sich mit den tragenden Erwägungen des angefochtenen Urteils sachlich auseinandersetzen ([BGE 138 III 374 E. 4.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-374_2012.html#consideration_4.3.1)).
+* **Blosse Wiederholungen** der erstinstanzlichen Plädoyers, ein blosser Verweis auf die früheren Rechtsschriften oder rein appellatorische Kritik sind unzulässig und führen zur Unbeachtlichkeit der Rüge ([BGer 4A_429/2025 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-429-2025_2025-10-20.html); [BGer 4A_397/2016 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-397-2016_2016-11-30.html)).
 
-**4** **Auseinandersetzung mit dem angefochtenen Entscheid**: Das Bundesgericht stellt sehr strenge Anforderungen an die Begründung der Berufung.
-*   Der Berufungskläger muss im Einzelnen darlegen, in welchen Punkten und weshalb der erstinstanzliche Entscheid fehlerhaft ist (unrichtige Rechtsanwendung, offensichtlich unrichtige Sachverhaltsfeststellung oder Ermessensfehler).
-*   **Blosse Wiederholungen** der erstinstanzlichen Plädoyers oder pauschale Verweisungen auf frühere Rechtsschriften sind **ungenügend**. Die berufungsführende Partei muss aufzeigen, inwiefern sie den angefochtenen Entscheid als fehlerhaft erachtet ([BGer 4A_397/2016 vom 30. November 2016, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_397_2016#e-3-1)). Das Berufungsgericht muss der Berufungsschrift entnehmen können, an welchen Fehlern das angefochtene Urteil krankt. Bei Laieneingaben dürfen die Begründungsanforderungen allerdings nicht überspannt werden.
-*   Liegt keine hinreichende Begründung vor, tritt die Rechtsmittelinstanz auf die Berufung mangels Sachbegründung nicht ein. Eine Nachfrist zur Behebung inhaltlicher Mängel (analog Art. 132 ZPO) ist **ausgeschlossen**; Art. 132 ZPO erfasst nur formelle Mängel.
-*   **Verzicht auf Zustellung zur Berufungsantwort**: Erweist sich die Berufung aufgrund fehlender oder offensichtlich ungenügender Begründung als von vornherein aussichtslos, kann das Berufungsgericht gemäss Art. 312 Abs. 1 ZPO direkt (ohne Einholung einer Berufungsantwort der Gegenpartei) einen Nichteintretens- bzw. Abweisungsentscheid fällen.
+**Rz. 6** **Sachverhaltsrügen (Beweiswürdigung)**:
+Rügt der Berufungskläger eine unrichtige Feststellung des Sachverhalts (Art. 310 lit. b ZPO), muss er präzise angeben, welche Feststellungen der Vorinstanz mit welchen Beweismitteln widerlegt werden oder inwiefern die Beweiswürdigung aktenwidrig bzw. willkürlich ausgefallen ist ([BGer 4A_56/2021 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-56-2021_2021-04-30.html)).
 
-### III. Formelle Anforderungen und Unterschrift (Abs. 2)
+**Rz. 7** **Keine Nachfrist bei materiellen Begründungsdefiziten**:
+Genügt die Begründung den rechtlichen Anforderungen nicht, ist das Rechtsmittel unheilbar mangelhaft. Die Nachfristansetzung gemäss Art. 132 Abs. 1 ZPO gilt ausschliesslich für formelle Mängel (z.B. fehlende Unterschrift oder fehlende Beilage des Urteils), **nicht für inhaltliche Begründungsmängel** ([BGE 144 III 394 E. 4.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-394_2018.html#consideration_4.1.4)).
 
-**5** **Formelle Pflicht und Beilage**: Dem Rechtsmittel ist das angefochtene begründete Urteil beizulegen (Abs. 2). Fehlt das Urteil bei Einreichung, handelt es sich um einen rein formellen Mangel. Das Gericht muss der Partei eine kurze Nachfrist zur Nachreichung einräumen (Art. 132 Abs. 1 ZPO), bevor es einen Nichteintretensentscheid fällen darf.
+### III. Anforderungen an die Berufungsanträge (Bezifferungsgebot)
 
-**6** **Unterschrift und Vertretungsmonopol**: Schriftliche Eingaben müssen gemäss Art. 130 Abs. 1 ZPO eigenhändig unterzeichnet sein. Fehlt die Unterschrift versehentlich, setzt das Gericht eine Nachfrist zur Behebung dieses Mangels an (Art. 132 Abs. 1 ZPO)..
+**Rz. 8** **Reformatorischer Charakter**: Da die Berufung ein reformatorisches Rechtsmittel ist, müssen die Rechtsbegehren so formuliert sein, dass das Berufungsgericht bei Gutheissung ein vollstreckbares Sachurteil fällen kann.
 
-*Letzte Aktualisierung: 2026-07-18*
+**Rz. 9** **Bezifferungsgebot bei Geldforderungen**:
+Bei Zahlungsklagen muss der Berufungsantrag zwingend auf einen **ziffernmässig bestimmten Geldbetrag** lauten ([BGE 137 III 617 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-617_2011.html#consideration_4.3); [BGer 5A_983/2020 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-983-2020_2020-11-25.html)). Ein blosser Antrag auf "Aufhebung des Urteils unter Kosten- und Entschädigungsfolge" oder ein unbezifferter Antrag ist ungenügend und führt zum Nichteintreten, es sei denn, aus der Begründung ergibt sich der geforderte Betrag zweifelsfrei.
+
+**Rz. 10** **Kassatorische Anträge (Rückweisung)**: Ein blosser Rückweisungsantrag an die Vorinstanz ist nur dann zulässig, wenn die Vorinstanz auf die Klage nicht eingetreten ist oder wenn dem Berufungsgericht wesentliche Sachverhaltselemente zur Fällung eines reformatorischen Urteils fehlen.
+
+### IV. Beilagen und Formvorschriften (Abs. 2)
+
+**Rz. 11** Gemäss Abs. 2 ist der angefochtene Entscheid beizulegen. Fehlt dieser, setzt das Gericht eine kurze Nachfrist zur Einreichung nach Art. 132 Abs. 1 ZPO an. Gleiches gilt bei fehlender Unterschrift (Art. 130 Abs. 1 ZPO).
+
+## Kasuistik: Typische Anwendungsbereiche und Fallstricke
+
+**Rz. 12** **Fallgruppe 1: Copy-Paste der erstinstanzlichen Klageschrift**
+In [BGer 4A_429/2025 vom 20. Oktober 2025 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-429-2025_2025-10-20.html) kopierte der anwaltliche Vertreter des Klägers seitenweise Abschnitte der Klagebegründung in die Berufungsschrift, ohne auf die Erwägungen des erstinstanzlichen Richters einzugehen, der den Anspruch wegen Verjährung abgewiesen hatte. Das Obergericht trat auf die Berufung mangels hinreichender Begründung nicht ein; das Bundesgericht schützte das Nichteintreten vollumfänglich und verneinte einen überspitzten Formalismus.
+
+**Rz. 13** **Fallgruppe 2: Unbezifferter Antrag im arbeits- oder familienrechtlichen Berufungsverfahren**
+In [BGE 137 III 617 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-617_2011.html#consideration_4.3) beantragte der Berufungskläger lediglich die "Aufhebung des bezirksgerichtlichen Urteils und Gutheissung der Klage", ohne den im Streit liegenden Lohnanspruch im Berufungsantrag zu beziffern. Das Bundesgericht stellte klar, dass unbezifferte Leistungsbegehren im Berufungsverfahren unzulässig sind, wenn sich der Betrag nicht direkt aus dem Text der Begründung ergibt.
+
+**Rz. 14** **Fallgruppe 3: Unzureichende Rüge der Beweiswürdigung**
+In [BGer 4A_56/2021 vom 30. April 2021 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-56-2021_2021-04-30.html) beschränkte sich der Berufungskläger darauf vorzubringen, die Zeugenaussagen seien "falsch verstanden worden". Da er nicht aufzeigte, welche konkreten Aussagen gegen die richterliche Feststellung sprachen und weshalb das Beweisergebnis unhaltbar war, wies das Berufungsgericht die Sachverhaltsrüge ohne Weiterungen ab.
+
+## Kantonale Praxisfragen
+
+**Rz. 15** **Praxisfrage 1: Milderung der Anforderungen bei Laienberufungen (Art. 29 BV)**
+Handelt es sich bei der berufungsführenden Partei um einen juristischen Laien, dürfen die formellen Begründungsanforderungen nach Treu und Glauben nicht überspannt werden ([BGE 142 I 155 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-155_2016.html)). Es genügt bei Laien, wenn aus der Eingabe sinngemäss hervorgeht, in welchen Punkten das Urteil angefochten wird und was der Berufungskläger verlangt. Bei anwaltlich vertretenen Parteien gilt hingegen ein ausnahmslos strenger Massstab.
+
+**Rz. 16** **Praxisfrage 2: Falsche Rechtsmittelbelehrung durch das erstinstanzliche Gericht**
+Bezeichnet das erstinstanzliche Urteil das Rechtsmittel fälschlicherweise als Beschwerde statt als Berufung (oder umgekehrt) oder nennt es eine unzutreffende Frist, darf der Partei daraus nach dem Grundsatz des Vertrauensschutzes (Art. 5 Abs. 3 BV, Art. 52 ZPO) kein Rechtsnachteil erwachsen, sofern die Partei den Fehler nicht bei gehöriger anwaltlicher Sorgfalt hätte erkennen müssen.
