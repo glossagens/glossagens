@@ -138,7 +138,7 @@ Beweise, die in Verletzung von Art. 147 StPO erhoben wurden, unterliegen einem *
 ### 2. Grundlegende Praxisänderung durch BGE 150 IV 345 (2024)
 Das Bundesgericht hat mit **[BGE 150 IV 345 E. 1.6.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html#consideration_1.6.7)** seine Rechtsprechung grundlegend korrigiert und klargestellt:
 
-> Eine Einvernahme, an der das Teilnahmerecht gemäss Art. 147 Abs. 1 StPO unzulässigerweise nicht gewährt wurde und die gemäss Art. 147 Abs. 4 StPO unverwertbar ist, **bleibt auch nach einer rechtskonformen Wiederholung oder nachträglichen Konfrontation weiterhin absolut unverwertbar**.
+> «Eine Einvernahme, an der das Teilnahmerecht der beschuldigten Person gemäss Art. 147 Abs. 1 StPO unzulässigerweise nicht gewährleistet war und die daher gemäss Art. 147 Abs. 4 StPO nicht verwertet werden darf, bleibt auch nach einer Wiederholung der Einvernahme unter Wahrung des Teilnahmerechts bzw. unter hinreichender Konfrontation weiterhin unverwertbar im Sinne von Art. 147 Abs. 4 StPO. Eine spätere Einräumung des Teilnahmerechts bzw. Gewährleistung der Konfrontation führt nicht zur Verwertbarkeit von nach Art. 147 Abs. 4 StPO unverwertbaren Einvernahmen.» ([BGE 150 IV 345 E. 1.6.7.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html#consideration_1.6.7.4))
 
 **Konsequenzen für die Strafverfolgungspraxis**:
 - **Keine Heilung früherer Protokolle**: Die frühere Einvernahme wird durch eine spätere Wiederholung nicht "rückwirkend verwertbar".
