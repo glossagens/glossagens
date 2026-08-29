@@ -2,10 +2,16 @@
 title: "Art. 24b RPG — Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen"
 weight: 242
 date: 2026-06-20
-lastmod: "2026-06-19"
+lastmod: "2026-08-29"
 description: "Kommentar zu Art. 24b RPG: Bewilligung betriebsnaher nichtlandwirtschaftlicher Nebenbetriebe in bestehenden Bauten ausserhalb der Bauzonen."
 tags: ["RPG", "Nebenbetrieb", "Landwirtschaftszone", "Zusatzeinkommen", "Bauen ausserhalb der Bauzonen", "betriebsnah"]
 agent_verified: true
+revisions:
+  - date: 2026-08-29
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Revisions-Vermerk ergänzt"
 ---
 
 # Art. 24b RPG — Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen
@@ -46,6 +52,8 @@ Abs. 1 setzt voraus, dass das landwirtschaftliche Gewerbe **ohne ein Zusatzeinko
 
 Abs. 1bis — unabhängig vom Erfordernis eines Zusatzeinkommens — erlaubt Nebenbetriebe mit einem **engen sachlichen Bezug** zum landwirtschaftlichen Gewerbe. Auch hier können massvolle Erweiterungen zugelassen werden, sofern in den bestehenden Bauten und Anlagen kein oder zu wenig Raum zur Verfügung steht. Der enge sachliche Bezug verlangt eine funktionale Verknüpfung zwischen dem landwirtschaftlichen Gewerbe und dem Nebenbetrieb (z.B. Käseherstellung aus eigener Milch, Holzverarbeitung aus eigenem Holz).
 
+**Praxisbeispiel — Imbissstube in Alphütte:** In [BGE 143 II 485](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-II-485_2017.html) befasste sich das Bundesgericht mit der Bewirtschaftung einer Imbissstube in einer Alphütte. Ein Sömmerungsbetrieb kann als landwirtschaftliches Gewerbe im Sinne von Art. 24b RPG qualifiziert werden. Die Imbissstube kann als Nebenbetrieb mit engem sachlichem Bezug zum landwirtschaftlichen Gewerbe im Sinne von Art. 24b Abs. 1bis RPG bewilligt werden, wenn die funktionale Verknüpfung zwischen Sömmerungsbetrieb und Gastwirtschaftsbetrieb gegeben ist. Eine Alphütte ohne landwirtschaftliche Infrastruktur kann jedoch nicht als temporäres Betriebszentrum im Sinne von Art. 24b Abs. 1ter RPG betrachtet werden (E. 2.3).
+
 ### III. Temporäre Betriebszentren (Abs. 1ter)
 
 Bei temporären Betriebszentren (z.B. Alpsennereien) können bauliche Massnahmen nur in bestehenden Bauten und Anlagen und nur für gastwirtschaftliche Nebenbetriebe bewilligt werden. Diese Einschränkung trägt dem beschränkten und saisonalen Betrieb Rechnung.
@@ -58,11 +66,13 @@ Um Wettbewerbsverzerrungen zu vermeiden, müssen nichtlandwirtschaftliche Nebenb
 
 Der Begriff der Betriebsnähe hat zwei Dimensionen:
 
-- **Örtliche Nähe**: Der Nebenbetrieb muss im Hofbereich des landwirtschaftlichen Gewerbes liegen (Art. 40 Abs. 2 lit. a RPV). Isoliert stehende Bauten ohne räumliche Beziehung zum Hauptbetrieb können nicht als betriebsnah gelten (BGE 128 II 222 E. 3.4).
+- **Örtliche Nähe**: Der Nebenbetrieb muss im Hofbereich des landwirtschaftlichen Gewerbes liegen (Art. 40 Abs. 2 lit. a RPV). Isoliert stehende Bauten ohne räumliche Beziehung zum Hauptbetrieb können nicht als betriebsnah gelten ([BGE 128 II 222](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-128-II-222_2002.html) E. 3.4).
 
 - **Sachliche Nähe**: Der Nebenbetrieb muss in einem funktionalen Zusammenhang mit dem landwirtschaftlichen Gewerbe stehen. Die Bewirtschaftung des landwirtschaftlichen Gewerbes muss gewährleistet bleiben (Art. 40 Abs. 2 lit. b RPV), und der Hofcharakter muss im Wesentlichen unverändert bleiben (Art. 40 Abs. 2 lit. c RPV).
 
-Die örtliche Nähe ist **in erster Linie** massgebend; die sachliche Nähe ist zusätzlich zu berücksichtigen (BGE 128 II 222 E. 3.2.3).
+Die örtliche Nähe ist **in erster Linie** massgebend; die sachliche Nähe ist zusätzlich zu berücksichtigen ([BGE 128 II 222](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-128-II-222_2002.html) E. 3.2.3).
+
+**Praxisbeispiel — Grümelhütte:** In [BGE 128 II 222](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-128-II-222_2002.html) verneinte das Bundesgericht die Betriebsnähe einer isoliert stehenden Hütte (Grümelhütte) oberhalb des Hofzentrums, die auf allen Seiten von Wald umgeben war und über keinen Strom- und Wasseranschluss verfügte. Hof und Nebenbetrieb müssen als Einheit wahrgenommen werden. Der Begriff «betriebsnah» in Art. 40 Abs. 2 RPV ist verfassungsmässig und überschreitet nicht die Vollzugskompetenz des Bundesrates (E. 3.2.1–3.2.3).
 
 ### VI. Persönliche Anforderungen (Abs. 2)
 
@@ -82,12 +92,14 @@ Die Existenz des Nebenbetriebs ist im Grundbuch anzumerken (Abs. 3). Nichtlandwi
 
 | Entscheidung | Jahr | Kernsatz |
 |---|---|---|
-| BGE 128 II 222 | 2002 | Betriebsnähe nichtlandwirtschaftlicher Nebenbetriebe; örtliche Nähe ist in erster Linie massgebend; isoliert stehende Baute ohne räumlichen Bezug zum Hauptbetrieb genügt nicht |
-| BGE 143 II 485 | 2017 | Bewirtschaftung einer Imbissstube in einer Alphütte; Sömmerungsbetrieb als landwirtschaftliches Gewerbe im Sinne von Art. 24b RPG |
-| 1C 238/2021 | 2022 | Pferdehaltung ausserhalb der Bauzonen; Abgrenzung zwischen landwirtschaftlicher Nutzung und nichtlandwirtschaftlichem Nebenbetrieb |
+| [BGE 128 II 222](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-128-II-222_2002.html) | 2002 | Betriebsnähe nichtlandwirtschaftlicher Nebenbetriebe; örtliche Nähe ist in erster Linie massgebend; isoliert stehende Baute ohne räumlichen Bezug zum Hauptbetrieb genügt nicht |
+| [BGE 143 II 485](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-II-485_2017.html) | 2017 | Bewirtschaftung einer Imbissstube in einer Alphütte; Sömmerungsbetrieb als landwirtschaftliches Gewerbe i.S.v. Art. 24b RPG |
+| [BGer 1C_238/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-238-2021_2022-04-27.html) | 2022 | Pferdehaltung ausserhalb der Bauzonen; Abgrenzung zwischen landwirtschaftlicher Nutzung und nichtlandwirtschaftlichem Nebenbetrieb |
 
 ## Weiterführende Hinweise
 
 - **Art. 40 RPV**: Konkretisiert den Begriff der Betriebsnähe (örtliche Nähe, sachliche Nähe, Hofcharakter)
 - **Art. 16 RPG**: Zonenkonformität in der Landwirtschaftszone
 - **Art. 58–60 BGBB**: Realteilungs- und Zerstückelungsverbot für landwirtschaftliche Gewerbe
+
+*Letzte Aktualisierung: 2026-08-29*
