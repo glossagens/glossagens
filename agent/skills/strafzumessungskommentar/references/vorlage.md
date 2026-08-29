@@ -30,7 +30,7 @@ Art. {NR} {Gesetz} — {Strafrahmen wörtlich aus Fedlex}
 
 {{< callout type="info" >}}
 **Auswertungsstand** {DD.MM.YYYY} · **Ausgewertete Entscheide** {n} ·
-**Belegte Strafwerte** {m} · **Status** Prototyp
+**Belegte Strafwerte** {m}
 {{< /callout >}}
 
 ## Grundlage und Grenzen dieser Auswertung
@@ -190,9 +190,7 @@ Merkmale der Tatschwere in der Reihenfolge ihres belegten Gewichts.
 - …
 - BGE {…} — {Leitsatz in einer Zeile}
 
----
-
-*Empirische Auswertung aus {n} im Volltext ausgewerteten Entscheiden; alle Zahlenangaben gegen
-Urteilstext und Dispositiv rückgeprüft. Die Auswertung ersetzt keine eigene Prüfung der Entscheide
-im Einzelfall.*
 ```
+
+Kein Schlussvermerk zu KI-Erstellung, Verifikationsstand oder Haftung: Das steht global unter
+`/ueber/`. Die inhaltlichen Vorbehalte trägt der Abschnitt «Grundlage und Grenzen» am Anfang.

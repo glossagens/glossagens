@@ -250,7 +250,7 @@ Lehrbuchsystematik. Leitfragen:
 
 **Schwelle:** Unter 20 im Volltext ausgewerteten Entscheiden oder unter 8 belegten Strafwerten
 trägt kein Kommentar. Dann `/sz-recherche` melden, den Befund berichten und mit dem Benutzer
-klären, ob die Seite als «Prototyp» mit ausdrücklichem Vorbehalt trotzdem entstehen soll.
+klären, ob die Seite mit ausdrücklich ausgewiesener schmaler Basis trotzdem entstehen soll.
 
 ---
 
@@ -291,9 +291,15 @@ Variable Blöcke, je nach Befund und in dieser Reihenfolge:
 ```
 {{< callout type="info" >}}
 **Auswertungsstand** 29.08.2026 · **Ausgewertete Entscheide** 70 ·
-**Belegte Strafwerte** 12 · **Status** Prototyp
+**Belegte Strafwerte** 12
 {{< /callout >}}
 ```
+
+Kein Hinweis auf KI-Erstellung, fehlende Verifikation oder «Prototyp»-Status: Die Plattform
+deklariert beides global unter `/ueber/`, und `revisions` samt `agent_verified` halten es pro
+Seite maschinenlesbar fest. Ein solcher Hinweis im Artikel selbst ist Redundanz — anders als bei
+den Prototypen auf strafzumessung.ch, wo er die Rubrik als Ganzes betrifft. Was in den Artikel
+gehört, sind die **inhaltlichen** Vorbehalte: der Trichter (R5) und der Abschnitt «Grenzen» (R6).
 
 Darüber: H1 = Deliktsbezeichnung (nicht «Art. X»), darunter eine Zeile
 `Art. 166 StGB — Freiheitsstrafe bis zu drei Jahren oder Geldstrafe`.
