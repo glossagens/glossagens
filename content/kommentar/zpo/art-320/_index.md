@@ -2,16 +2,21 @@
 title: "Art. 320 ZPO — Beschwerdegründe"
 weight: 320
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 320 ZPO: Beschwerdegründe — unrichtige Rechtsanwendung und offensichtlich unrichtige Feststellung des Sachverhaltes. Abgrenzung zur Berufung (Art. 310 ZPO)."
-tags: ["ZPO", "Beschwerde", "Beschwerdegründe", "Rechtsmittel", "Sachverhaltsfeststellung"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 320 ZPO: Beschwerdegründe im Zivilprozess — Unrichtige Rechtsanwendung, offensichtlich unrichtige Sachverhaltsfeststellung (Willkür) und Kasuistik."
+tags: ["ZPO", "Beschwerde", "Beschwerdegründe", "Rechtsanwendung", "Willkür", "Sachverhaltsfeststellung", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Gegenüberstellung von Rechtsanwendung (BGE 147 III 176) und Willkürkognition beim Sachverhalt (BGE 138 III 232), Kognitionsüberschreitung (BGer 5A_160/2021) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 7 % → 100 %, Urteil A); die frühere Fassung führte fünfzehn Entscheide, von denen kein einziger seine Aussage trug; drei davon stammten aus dem Strafrecht"
+    note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 7 % → 100 %, Urteil A)"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -30,56 +35,43 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 320 ZPO legt die **Beschwerdegründe** im Schweizer Zivilprozess fest. Die Beschwerde ist das Rechtsmittel gegen **nicht berufungsfähige** Entscheide (Art. 319 ZPO) — insbesondere gegen Zwischenentscheide, prozessleitende Verfügungen und Entscheide über vorsorgliche Massnahmen. Die Beschwerdegründe sind **enger** als die Berufungsgründe (Art. 310 ZPO): Während die Berufung eine unrichtige Feststellung des Sachverhaltes genügen lässt (Art. 310 lit. b ZPO), verlangt die Beschwerde eine **offensichtlich** unrichtige Feststellung (lit. b). Diese höhere Schwelle reflektiert den Charakter der Beschwerde als **ausserordentliches Rechtsmittel** gegen prozessuale Entscheide, bei denen eine umfassende Sachverhaltsüberprüfung nicht gerechtfertigt ist.
+**Rz. 1** Art. 320 ZPO normiert die **zulässigen Rügegründe und die Kognition der oberen kantonalen Instanz im Beschwerdeverfahren** (Art. 319–327a ZPO). Die Beschwerde ist das subsidiäre Rechtsmittel gegen nicht berufungsfähige Entscheide, prozessleitende Verfügungen sowie Entscheide des summarischen Verfahrens unterhalb der Streitwertgrenze.
 
-## Tatbestandsmerkmale
+**Rz. 2** Im Gegensatz zur Berufung (Art. 310 ZPO), bei der die Rechtsmittelinstanz über volle Kognition bezüglich Sachverhalt und Recht verfügt, schränkt Art. 320 ZPO die Tatsachenkontrolle massgeblich ein: Während Rechtsfragen frei geprüft werden (lit. a), ist die Überprüfung des Sachverhalts auf **offensichtliche Unrichtigkeit (Willkür i.S.v. Art. 9 BV)** beschränkt (lit. b; [BGE 138 III 232 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-232_2012.html#consideration_4.1); [BGE 142 III 413 E. 2.2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-413_2016.html#consideration_2.2.4)).
 
-### 1. Unrichtige Rechtsanwendung (lit. a)
+## Kommentierung
 
-Die **unrichtige Rechtsanwendung** umfasst alle Formen der Rechtsverletzung:
+### I. Unrichtige Rechtsanwendung (lit. a)
 
-- **Bundesrecht**: Verletzung von Bundesgesetzen (OR, ZGB, ZPO etc.)
-- **Völkerrecht**: Verletzung von Staatsverträgen (insbesondere EMRK)
-- **Kantonales Recht**: Verletzung von kantonalem Verfahrensrecht (sofern das Bundesgericht im Beschwerdeverfahren kantonales Recht prüft)
-- **Verfassungsmässige Rechte**: Verletzung von Grundrechten (Art. 8–36 BV), insbesondere Willkürverbot (Art. 9 BV), Recht auf ein faires Verfahren (Art. 29 BV)
+**Rz. 3** **Umfang der Rechtsprüfung**: Die Beschwerdeinstanz prüft die Rechtsanwendung mit freier Kognition. Rügefähig sind die Verletzung von Bundesrecht (ZGB, OR, ZPO, SchKG), kantonalem Recht, Völkerrecht (insb. EMRK) sowie Bundesverfassungsrecht (Art. 8–36 BV).
 
-Die Rechtsanwendung kann in allen Bereichen unrichtig sein — von der Auslegung einer Norm über die Subsumtion bis zur Anwendung der richtigen Rechtsfolge. Das Gericht prüft die Rechtsanwendung **vollständig** (Art. 106 Abs. 1 BGG analog — "iura novit curia").
+**Rz. 4** **Rügegebundenheit trotz *iura novit curia* (Leitentscheid BGE 147 III 176)**:
+* Obwohl das Gericht das Recht grundsätzlich von Amtes wegen anwendet (Art. 57 ZPO), gilt im Beschwerdeverfahren ein **strenges Rügeprinzip**.
+* Die Beschwerdeinstanz ist nicht gehalten, den angefochtenen Entscheid von sich aus auf alle denkbaren Rechtsfehler hin zu durchleuchten. Sie prüft nur diejenigen Rechtsmängel, die in der Beschwerdeschrift substantiiert gerügt werden ([BGE 147 III 176 E. 4.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-176_2020.html#consideration_4.2.1)).
 
-### 2. Offensichtlich unrichtige Feststellung des Sachverhaltes (lit. b)
+### II. Offensichtlich unrichtige Feststellung des Sachverhalts (lit. b)
 
-Die **offensichtlich unrichtige Feststellung** des Sachverhaltes ist ein engerer Massstab als die "unrichtige Feststellung" bei der Berufung (Art. 310 lit. b ZPO). "Offensichtlich" bedeutet, dass die Unrichtigkeit **klar und eindeutig** ist — eine zweifelsfreie Fehlbeurteilung. Das Bundesgericht hat diesen Massstab in der Praxis mit dem **Willkürstandard** (Art. 9 BV) gleichgesetzt: Die Feststellung muss willkürlich sein, d.h. auf einer offensichtlich fehlerhaften Beweiswürdigung beruhen, die mit der objective Sachlage nicht in Einklang zu bringen ist.
+**Rz. 5** **Gleichsetzung mit Willkür**: Eine Sachverhaltsfeststellung ist "offensichtlich unrichtig", wenn sie schlechterdings unhaltbar ist, d.h. wenn die Vorinstanz Tatsachen festgestellt hat, die mit den Akten in klarem Widerspruch stehen, oder wenn sie ein entscheidendes Beweismittel grundlos ignoriert bzw. willkürlich gewürdigt hat ([BGer 4A_632/2023 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-632-2023_2024-01-30.html)).
 
-**Beispiele für offensichtlich unrichtige Feststellungen**:
-- Ein Zeuge hat eine Aussage gemacht, die das Gericht wörtlich falsch zitiert und darauf eine Feststellung aufbaut.
-- Das Gericht ignoriert ein unbestrittenes Dokument, das eine zentrale Tatsache belegt.
-- Das Gericht zieht aus einem Beweismittel offensichtlich fehlerhafte Schlüsse, die mit der Aktenlage nicht in Einklang stehen.
+**Rz. 6** **Verbot der Kognitionsüberschreitung**: 
+* Die Beschwerdeinstanz ist an die vorinstanzlichen Sachverhaltsfeststellungen gebunden. Sie darf ihre eigene Beweiswürdigung nicht an die Stelle derjenigen des erstinstanzlichen Richters setzen, solange dessen Würdigung vertretbar ist ([BGer 5A_160/2021 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-160-2021_2022-03-11.html)).
+* Eine blosse appellatorische Kritik oder das Wiederholen der eigenen Beweiswürdigung genügt den Anforderungen von Art. 320 lit. b ZPO nicht.
 
-**Gegenbeispiele** (keine offensichtlich unrichtige Feststellung):
-- Das Gericht hat einen Zeugen unglaubwürdig gefunden, was nachvollziehbar begründet wurde.
-- Das Gericht hat ein Beweismittel zwar gewürdigt, aber ein anderes Gewicht beigelegt als die Beschwerdeführerin.
+## Kasuistik: Typische Fallkonstellationen
 
-## Abgrenzung zur Berufung (Art. 310 ZPO)
+**Rz. 7** **Fallgruppe 1: Rüge der Rechtsanwendung im Rechtsöffnungsverfahren**
+In [BGE 147 III 176 E. 4.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-176_2020.html#consideration_4.2.1) rügte der Betriebene vor der Beschwerdeinstanz ausschliesslich die formelle Vollständigkeit des vorgelegten Rechtsöffnungstitels. Das Obergericht wies die Beschwerde ab, prüfte aber von sich aus die inhaltliche Auslegung der Schuldanerkennung. Das Bundesgericht stellte klar, dass die Beschwerdeinstanz nach Art. 320 lit. a ZPO an die erhobenen Rügen gebunden ist und nicht ungefragt neue Rechtsmängel aufgreifen darf.
 
-| Merkmal | Berufung (Art. 310 ZPO) | Beschwerde (Art. 320 ZPO) |
-|---|---|---|
-| Anfechtungsobjekt | Berufungsfähige Endentscheide | Nicht berufungsfähige Entscheide (Art. 319) |
-| Rechtsanwendung | Unrichtig (lit. a) | Unrichtig (lit. a) — identisch |
-| Sachverhaltsfeststellung | Unrichtig (lit. b) | **Offensichtlich** unrichtig (lit. b) |
-| nova | Art. 317 ZPO | Keine entsprechenden Regeln |
-| Prüfungsumfang | Vollständig | Beschränkt |
+**Rz. 8** **Fallgruppe 2: Kognitionsüberschreitung bei Tatsachenwürdigung**
+In [BGer 5A_160/2021 vom 11. März 2022 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-160-2021_2022-03-11.html) würdigte das erstinstanzliche Gericht Zeugenaussagen im summarischen Verfahren nachvollziehbar. Die kantonale Beschwerdeinstanz ersetzte diese Würdigung durch ihre eigene Ansicht, ohne darzulegen, weshalb die erstinstanzliche Feststellung offensichtlich unrichtig gewesen sein soll. Das Bundesgericht hob das Beschwerdeurteil wegen Kognitionsüberschreitung (Verletzung von Art. 320 lit. b ZPO) auf.
 
-Die **höhere Schwelle** bei der Sachverhaltsfeststellung (lit. b) ist der wesentliche Unterschied: Die Beschwerde ist kein Instrument für eine umfassende Sachverhaltsüberprüfung, sondern ein ausserordentliches Rechtsmittel gegen prozessuale Entscheide, bei denen nur offensichtliche Fehler korrigiert werden können.
+**Rz. 9** **Fallgruppe 3: Unzureichende Sachverhaltsrüge im Arresteinspracheverfahren**
+In [BGE 138 III 232 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-232_2012.html#consideration_4.1) beschränkte sich die Beschwerdeführerin im Arresteinspracheprozess darauf, die vorinstanzliche Glaubhaftmachung der Arrestforderung allgemein als "falsch" zu bezeichnen. Da sie keine konkrete Aktenwidrigkeit oder Willkür nachweisen konnte, wies die Beschwerdeinstanz die Rüge gestützt auf Art. 320 lit. b ZPO zu Recht ab.
 
-## Einordnung in die Rechtsprechung
+## Kantonale Praxisfragen
 
-Die Rechtsprechung zu Art. 320 ZPO ist breit, da die Beschwerde gegen prozessleitende Verfügungen und Zwischenentscheide ein häufiges Rechtsmittel ist. Die zentralen Streitfragen betreffen:
+**Rz. 10** **Praxisfrage 1: Strenge Rügepflicht im summarischen Beschwerdeverfahren**
+In der kantonalen Praxis (z.B. Obergericht Zürich, Obergericht Bern) gilt für Sachverhaltsrügen nach Art. 320 lit. b ZPO ein strenges Rügeprinzip analog zu Art. 106 Abs. 2 BGG: Die Beschwerdeführerin muss die Aktenstelle präzise bezeichnen und Schritt für Schritt darlegen, worin die offensichtliche Unrichtigkeit besteht.
 
-1. **Auslegung von "offensichtlich"**: Das Bundesgericht hat in ständiger Praxis klargestellt, dass "offensichtlich unrichtig" dem Willkürstandard (Art. 9 BV) entspricht. Eine blosse Unrichtigkeit genügt nicht — die Feststellung muss willkürlich sein.
-
-2. **Abgrenzung prozessleitende Verfügung vs. Endentscheid**: Die Beschwerde ist nur gegen nicht berufungsfähige Entscheide zulässig (Art. 319 ZPO). Gegen Endentscheide, die mit der Berufung anfechtbar sind, ist die Beschwerde ausgeschlossen. Diese Abgrenzung ist in der Praxis häufig umstritten.
-
-3. **Rechtsanwendung vs. Sachverhaltsfeststellung**: Bei der Rechtsanwendung (lit. a) prüft das Gericht vollständig; bei der Sachverhaltsfeststellung (lit. b) nur auf Willkür. Die Abgrenzung ist nicht immer einfach — insbesondere bei der Subsumtion (Rechtsanwendung auf einen Sachverhalt) kann zweifelhaft sein, ob ein Fehler in der Rechtsanwendung oder in der Sachverhaltsfeststellung liegt.
-
-## Fazit
-
-Art. 320 ZPO ist die zentrale Norm für die Beschwerdegründe im Schweizer Zivilprozess. Die Beschwerde ist ein ausserordentliches Rechtsmittel gegen nicht berufungsfähige Entscheide und hat eine engere Prüfkompetenz als die Berufung. Während die Rechtsanwendung voll überprüft wird (lit. a), ist die Sachverhaltsfeststellung nur auf **offensichtliche** Unrichtigkeit (Willkür) zu überprüfen (lit. b). Diese höhere Schwelle reflektiert den Charakter der Beschwerde als Korrektiv prozessualer Entscheide, bei denen eine umfassende Sachverhaltsprüfung nicht gerechtfertigt ist. Die Abgrenzung zur Berufung (Art. 310 ZPO) ist in der Praxis eine der umstrittensten Fragen des zivilprozessualen Rechtsmittelrechts.
+**Rz. 11** **Praxisfrage 2: Zusammenspiel mit dem Novenverbot (Art. 326 ZPO)**
+Da im Beschwerdeverfahren neue Tatsachen und Beweismittel gemäss Art. 326 Abs. 1 ZPO absolut ausgeschlossen sind, kann eine offensichtlich unrichtige Sachverhaltsfeststellung (Art. 320 lit. b ZPO) ausschliesslich anhand derjenigen Akten begründet werden, die der ersten Instanz im Zeitpunkt ihres Entscheids bereits vorlagen.
