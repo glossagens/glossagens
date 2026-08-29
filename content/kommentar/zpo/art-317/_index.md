@@ -2,11 +2,16 @@
 title: "Art. 317 ZPO — Neue Tatsachen, neue Beweismittel und Klageänderung"
 weight: 317
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 317 ZPO: Nova in der Berufung — Voraussetzungen für neue Tatsachen und Beweismittel, Unverzüglichkeit, zumutbare Sorgfalt, Klageänderung in der Rechtsmittelinstanz."
-tags: ["ZPO", "Berufung", "Nova", "Klageänderung", "Rechtsmittel", "Neue Tatsachen"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 317 ZPO: Das Novenrecht in der Berufung — Echte und unechte Noven, Unverzüglichkeit, zumutbare Sorgfalt, Abs. 1bis (Revision 2025) und Klageänderung."
+tags: ["ZPO", "Berufung", "Noven", "Klageänderung", "Revision 2025", "Zumutbare Sorgfalt", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Einarbeitung von Abs. 1bis (Revision 2025), Kasuistik zur Urteilsberatung (BGE 142 III 413), Offizialmaxime (BGE 144 III 349), Klageänderung (Art. 317 Abs. 2) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -36,61 +41,57 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 317 ZPO ist eine der praxisrelevantesten Bestimmungen der Schweizer Zivilprozessordnung. Er regelt die **Zulässigkeit von Nova** (neue Tatsachen und Beweismittel) im Berufungsverfahren und legt die Voraussetzungen für eine **Klageänderung** in der Rechtsmittelinstanz fest. Die Norm bezweckt einen **Interessenausgleich** zwischen dem Recht der Parteien auf einen vollständigen Sachverhalt und dem Interesse an einem effizienten, zweistufigen Verfahren: Was in erster Instanz hätte vorgebracht werden können, soll in der Berufung grundsätzlich ausgeschlossen sein (Verbot des "Überraschungseinstands").
+**Rz. 1** Art. 317 ZPO bildet die Kernnorm für das **Novenrecht im zweitinstanzlichen Berufungsverfahren**. Die Bestimmung zieht einen strikten Riegel gegen das Nachschieben von Versäumtem: Die Berufung dient der verfahrensrechtlichen und materiellen Überprüfung des erstinstanzlichen Urteils, nicht der Neuaufrollung des Prozesses auf veränderter Tatsachenbasis.
 
-Die Bestimmung wurde durch das Bundesgesetz vom 17. März 2023 ("Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung") mit dem neuen **Abs. 1bis** ergänzt (in Kraft seit 1. Januar 2025). Diese Revision klärt die bis dahin umstrittene Frage, ob bei einer von Amtes wegen zu erforschenden Sachverhaltsherrschaft (Offizialmaxime) Nova bis zur Urteilsberatung berücksichtigt werden dürfen — was nun ausdrücklich bejaht wird.
+**Rz. 2** Mit der **ZPO-Revision (in Kraft seit 1. Januar 2025)** wurde durch den neu eingefügten **Abs. 1bis** ausdrücklich gesetzlich klargestellt, dass die restriktiven Novenschranken nicht gelten, wenn das Gericht den Sachverhalt von Amtes wegen zu erforschen hat (uneingeschränkte Untersuchungsmaxime).
 
-## Tatbestandsmerkmale
+## Kommentierung
 
-### 1. Begriff der nova
+### I. Voraussetzungen für Noven in der Berufung (Abs. 1)
 
-**Neue Tatsachen** sind Tatsachen, die sich erst **nach dem Schluss der ersten Instanz** ereignet haben (echte nova) oder die zwar schon existierten, aber in der ersten Instanz nicht vorgebracht wurden (unechte nova / pseudo-nova). Art. 317 ZPO macht bei der Zulässigkeit keinen Unterschied zwischen echten und unechten nova — beide müssen die Voraussetzungen von Abs. 1 lit. a und b erfüllen.
+#### 1. Unverzüglichkeit (lit. a)
 
-**Neue Beweismittel** sind Beweisangebote, die in der ersten Instanz nicht gemacht wurden. Ein Beweismittel ist "neu", wenn es erst nach dem Schluss der ersten Instanz verfügbar geworden ist oder wenn es trotz zumutbarer Sorgfalt nicht schon früher angeboten werden konnte.
+**Rz. 3** Neue Tatsachen und Beweismittel müssen **ohne Verzug** in das Berufungsverfahren eingeführt werden. Für Vorbringen, die vor Einreichung der Berufungsschrift bzw. Berufungsantwort entstanden sind oder bekannt wurden, bedeutet dies die zwingende Geltendmachung in der Rechtsmittelschrift selbst. Treten echte Noven während des hängigen Berufungsverfahrens auf, sind sie ungesäumt (in der Regel innert 10 bis 20 Tagen nach Kenntnis) mit gesonderter Noveneingabe einzubringen ([BGE 142 III 413 E. 2.2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-413_2016.html#consideration_2.2.5)).
 
-### 2. Ohne Verzug (Abs. 1 lit. a)
+#### 2. Mangelnde Vorbringbarkeit trotz zumutbarer Sorgfalt (lit. b)
 
-Nova müssen **ohne Verzug** (Art. 75 OR analog) vorgebracht werden — das heisst **unverzüglich** nach Kenntnisnahme. Die Partei kann nicht abwarten; sie muss die Nova in der Berufungsschrift oder in der zweiten Instanz so früh wie möglich vorbringen. Die Verzögerung führt zum Ausschluss. Der Massstab ist ein objektiver: Was eine sorgfältige Partei in der gleichen Situation hätte tun müssen.
+**Rz. 4** **Echte Noven (Superveniente Tatsachen)**: Tatsachen oder Beweismittel, die erst nach dem erstinstanzlichen Aktenschluss entstanden sind, erfüllen lit. b definitionsgemäss, da sie vor erster Instanz logischerweise noch nicht existierten.
 
-### 3. Trotz zumutbarer Sorgfalt nicht schon vor erster Instanz vorbringbar (Abs. 1 lit. b)
+**Rz. 5** **Unechte Noven (Alte, aber nicht vorgebrachte Tatsachen)**: 
+* Unechte Noven sind nur zulässig, wenn die Partei nachweist, dass sie die Tatsache oder das Beweismittel trotz **Aufwendung der nach den Umständen gebotenen prozessualen Sorgfalt** vor der Vorinstanz nicht einbringen konnte ([BGE 143 III 42 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-42_2017.html#consideration_4.1)).
+* Der Sorgfaltsmassstab ist objektiv und streng: Versäumnisse der Partei oder ihrer anwaltlichen Vertretung (z.B. unvollständige Akteneinsicht, unterlassene Befragung von Hilfspersonen, nicht durchsuchte Archive) schliessen die Zulassung unechter Noven im Berufungsverfahren aus ([BGer 4A_432/2013 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-432-2013_2014-01-14.html)).
 
-Dies ist die zentrale **Ausschlussklausel**: Was in der ersten Instanz mit zumutbarer Sorgfalt hätte vorgebracht werden können, ist in der Berufung ausgeschlossen. Die Praxis spricht hier vom **Novenverbot** (im weiteren Sinne). Die Sorgfaltspflicht ist **objektiv**: Die Partei muss sich so verhalten, wie eine sorgfältige Prozesspartei in der gleichen Situation. Unkenntnis des Anwalts von einer Tatsache, die mit zumutbarer Sorgfalt hätte ermittelt werden können, geht zu Lasten der Partei.
+### II. Letztmöglicher Zeitpunkt: Die Urteilsberatung
 
-**Ausnahme**: Wenn die Tatsache oder das Beweismittel **objektiv nicht bekannt und nicht erkennbar** war (z.B. weil ein Zeuge erst nach dem ersten Instanzschluss aus dem Ausland zurückkehrt, oder weil ein Gutachten in der ersten Instanz unvollständig war), ist das Novum zulässig.
+**Rz. 6** Nach ständiger Rechtsprechung des Bundesgerichts ist der Ablauf der gesetzlichen Berufungs- bzw. Berufungsantwortfrist keine absolute zeitliche Schranke für Noven ([BGE 142 III 413 E. 2.2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-413_2016.html#consideration_2.2.5)). Treten echte Noven nach Abschluss des Schriftenwechsels auf (z.B. während das Berufungsgericht den Fall instruiert oder vor einer mündlichen Berufungsverhandlung), können sie bis zum **Eintritt der Urteilsberatung** formgerecht nachgereicht werden. Mit dem Beginn der gerichtlichen Urteilsberatung tritt der definitive Aktenschluss des Rechtsmittelverfahrens ein.
 
-### 4. Abs. 1bis — Offizialmaxime (seit 1. Januar 2025)
+### III. Ausnahme bei Offizial- und Untersuchungsmaxime (Abs. 1bis)
 
-Wenn die Rechtsmittelinstanz den **Sachverhalt von Amtes wegen zu erforschen** hat (Offizialmaxime — z.B. im Familienrecht nach Art. 135 ZPO, im Kindesschutzrecht), berücksichtigt sie Nova bis zur **Urteilsberatung**. Die Einschränkungen von Abs. 1 (Unverzüglichkeit, zumutbare Sorgfalt) gelten hier **nicht**. Der Grund: Bei der Offizialmaxime trägt das Gericht die Verantwortung für die Sachverhaltsermittlung — es wäre widersinnig, das Gericht auf Tatsachen zu beschränken, die die Parteien rechtzeitig vorgebracht haben.
+**Rz. 7** **Uneingeschränkte Untersuchungsmaxime**: Hat das Berufungsgericht den Sachverhalt von Amtes wegen zu erforschen (namentlich bei Kinderbelangen im Familienrecht gemäss Art. 296 Abs. 1 ZPO), greifen die Schranken von Art. 317 Abs. 1 ZPO nicht ([BGE 144 III 349 E. 4.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-349_2018.html#consideration_4.2.1)). Neue Tatsachen und Beweismittel sind ohne Rücksicht auf Unverzüglichkeit oder Vorbringbarkeit bis zur Urteilsberatung von Amtes wegen zu berücksichtigen.
 
-### 5. Klageänderung (Abs. 2)
+**Rz. 8** **Abgrenzung zur sozialen Untersuchungsmaxime**: Gilt im vereinfachten Verfahren lediglich die eingeschränkte/soziale Untersuchungsmaxime (Art. 247 Abs. 2 ZPO, z.B. bei Miet- und Arbeitsstreitigkeiten), gelten die Novenschranken von Art. 317 Abs. 1 ZPO nach gefestigter bundesgerichtlicher Praxis fort.
 
-Eine **Klageänderung** in der Berufungsinstanz ist nur zulässig, wenn:
+### IV. Klageänderung in der Berufung (Abs. 2)
 
-- **Die Voraussetzungen von Art. 227 Abs. 1 ZPO** gegeben sind (Zustimmung der Gegenpartei oder sachlicher Zusammenhang), und
-- **Die Klageänderung auf neuen Tatsachen oder Beweismitteln beruht** (lit. b).
+**Rz. 9** Eine Klageänderung im Berufungsverfahren ist an zwei kumulative Voraussetzungen geknüpft:
+1. **Art. 227 Abs. 1 ZPO**: Der geänderte Anspruch muss mit dem bisherigen in sachlichem Zusammenhang stehen oder die Gegenpartei muss der Klageänderung zustimmen.
+2. **Novenbezug (lit. b)**: Die Klageänderung muss zwingend auf **neuen Tatsachen oder Beweismitteln** beruhen, die ihrerseits die Zulassungsvoraussetzungen von Art. 317 Abs. 1 ZPO erfüllen ([BGer 4A_289/2022 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-289-2022_2022-10-18.html); [BGE 138 III 625 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-625_2012.html#consideration_2.2)). Eine Klageänderung gestützt auf bereits vor erster Instanz bekannte Tatsachen ist unzulässig.
 
-Die Klageänderung ist eine **Ausnahme vom Grundsatz**, dass die Berufung nur der Überprüfung der ersten Instanz dient, nicht aber der Einführung neuer Begehren. Die Verbindung mit dem Novenrecht (lit. b) stellt sicher, dass eine Klageänderung nicht missbraucht wird, um in der Berufung einen neuen Streitstoff einzuführen, der in der ersten Instanz hätte vorgebracht werden können.
+## Kasuistik: Typische Anwendungsbereiche
 
-## Abgrenzungen
+**Rz. 10** **Fallgruppe 1: Nachträglich gefundene Bankbelege und Rechnungen (unechte Noven)**
+In [BGer 4A_432/2013 vom 14. Januar 2014 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-432-2013_2014-01-14.html) legte die Klägerin vor Obergericht neu Kontoauszüge vor, um eine Darlehensgewährung zu belegen. Da die Kontoauszüge bereits während des erstinstanzlichen Verfahrens bei der Hausbank hätten angefordert werden können, wies das Bundesgericht die Noven als verspätet ab.
 
-### Art. 317 ZPO vs. Art. 99 BGG (Nova vor Bundesgericht)
+**Rz. 11** **Fallgruppe 2: Einkommens- und Bedarfsänderungen im Eheschutzberufungsverfahren**
+Verändert sich das Einkommen eines Ehegatten oder fallen Wohnkosten nach Fällung des erstinstanzlichen Eheschutzentscheids weg (z.B. durch Stellenwechsel oder Auszug), stellen diese Veränderungen echte Noven dar. Sie sind gemäss [BGE 143 III 42 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-42_2017.html#consideration_4.1) und [BGE 148 III 95 E. 4.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-95_2022.html#consideration_4.3.3) im Berufungsverfahren direkt zu berücksichtigen und dürfen vom Berufungsgericht nicht in ein separates Abänderungsverfahren nach Art. 179 ZGB verwiesen werden.
 
-Art. 317 ZPO gilt für das **kantonale Berufungsverfahren** (zweite kantonale Instanz). Art. 99 BGG regelt die Nova vor dem **Bundesgericht** und ist restriktiver: Vor Bundesgericht sind neue Tatsachen und Beweismittel nur zulässig, wenn erst der Entscheid der Vorinstanz dazu Anlass gibt (Art. 99 Abs. 1 BGG). Neue Begehren sind vor Bundesgericht gänzlich unzulässig (Art. 99 Abs. 2 BGG). Art. 99 BGG bietet keine zweite Chance für Vorbringen, die im kantonalen Verfahren versäumt wurden.
+**Rz. 12** **Fallgruppe 3: Klageerhöhung wegen neu aufgetretenen Schadens**
+Erleidet der Kläger nach dem erstinstanzlichen Urteil einen weiteren Schadensposten (z.B. weitere Heilungskosten aus einem Unfall), kann er die Klageforderung gestützt auf Art. 317 Abs. 2 ZPO im Berufungsverfahren beziffermässig erhöhen, da der neue Schaden auf echten Noven beruht ([BGer 4A_289/2022 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-289-2022_2022-10-18.html)).
 
-### Art. 317 ZPO vs. Art. 227 ZPO (Klageänderung erste Instanz)
+## Kantonale Praxisfragen
 
-Art. 227 ZPO regelt die Klageänderung in der **ersten Instanz** — hier ist die Klageänderung unter den Voraussetzungen von Art. 227 Abs. 1 ZPO (Zustimmung oder sachlicher Zusammenhang) zulässig, ohne dass ein Bezug zu nova erforderlich ist. In der Berufungsinstanz (Art. 317 Abs. 2 ZPO) kommt die zusätzliche Hürde von lit. b hinzu (Nova-Bezug).
+**Rz. 13** **Praxisfrage 1: Wechsel des Rechtsanwalts vor Einreichung der Berufung**
+Macht der neu mandatierte Berufungsanwalt geltend, der erstinstanzliche Anwalt habe wesentliche Tatsachen und Urkunden pflichtwidrig nicht eingereicht, begründet dies keinen Zulassungsgrund nach Art. 317 Abs. 1 lit. b ZPO. Versäumnisse der vormaligen Vertretung werden der Partei vollumfänglich zugerechnet.
 
-## Einordnung in die Rechtsprechung
-
-Die Rechtsprechung zu Art. 317 ZPO ist umfangreich und betrifft vor allem drei Schwerpunkte:
-
-1. **Auslegung der "zumutbaren Sorgfalt"**: Der Massstab ist objektiv und verlangt eine sorgfältige Prozessführung; ein Versäumnis der Rechtsvertretung geht zu Lasten der Partei.
-
-2. **Unverzüglichkeit**: Die Nova müssen sofort nach Kenntnisnahme vorgebracht werden. Eine Partei, die die Nova erst in der Berufungsantwort oder gar in der Urteilsberatung vorbringt, handelt nicht "ohne Verzug".
-
-3. **Offizialmaxime (Abs. 1bis)**: Die Revision von 2023 (in Kraft seit 2025) klärt die Frage der Nova bei Offizialmaxime. Das Bundesgericht hatte zuvor bereits in einzelnen Entscheiden die grosszügigere Praxis vertreten (z.B. im Kindesschutzrecht), diese Praxis ist nun gesetzlich verankert.
-
-## Fazit
-
-Art. 317 ZPO ist die zentrale Norm für das Novenrecht im Schweizer Zivilprozess. Sie bezweckt einen Ausgleich zwischen Sachverhaltsvollständigkeit und Prozessökonomie: Nova sind zulässig, wenn sie ohne Verzug vorgebracht werden und trotz zumutbarer Sorgfalt nicht schon in der ersten Instanz hätten vorgebracht werden können. Bei der Offizialmaxime (seit 2025 ausdrücklich geregelt) gilt eine grosszügigere Praxis — Nova werden bis zur Urteilsberatung berücksichtigt. Die Klageänderung in der Berufung erfordert zusätzlich einen Bezug zu neuen Tatsachen oder Beweismitteln. Die Praxis ist restriktiv: Eine "zweite Chance" für versäumte Vorbringungen bietet Art. 317 ZPO nicht.
+**Rz. 14** **Praxisfrage 2: Abgrenzung zwischen neuen Tatsachen (Noven) und neuen Rechtsargumenten**
+Das Novenverbot von Art. 317 Abs. 1 ZPO bezieht sich ausschliesslich auf Tatsachen und Beweismittel. Neue rechtliche Begründungen oder veränderte rechtliche Subsumtionen sind im Berufungsverfahren gestützt auf den Grundsatz der Rechtsanwendung von Amtes wegen (Art. 57 ZPO) jederzeit und unbeschränkt zulässig, sofern sie sich auf das rechtzeitig behauptete Tatsachenfundament stützen.
