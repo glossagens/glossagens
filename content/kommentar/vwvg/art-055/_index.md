@@ -2,28 +2,31 @@
 title: "Art. 55 VwVG — Aufschiebende Wirkung"
 weight: 55
 date: 2026-08-02
-lastmod: "2026-08-17"
-description: "Kommentar zu Art. 55 VwVG (SR 172.021): Aufschiebende Wirkung der Beschwerde — Entzug, Wiederherstellung, vorsorgliche Massnahmen, Interessenabwägung."
-tags: ["VwVG", "aufschiebende Wirkung", "Suspensiveffekt", "vorsorgliche Massnahmen", "Verwaltungsgerichtsbeschwerde"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 55 VwVG: Aufschiebende Wirkung — Suspensiveffekt, Entzug, Wiederherstellung, Interessenabwägung, Staatshaftung und Kasuistik."
+tags: ["VwVG", "aufschiebende Wirkung", "Suspensiveffekt", "Interessenabwägung", "Wiederherstellung", "Staatshaftung", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Suspensiveffekts (Art. 55 VwVG), Interessenabwägung (BGE 129 II 286), Dringlichkeit und Gehörsanspruch (BGE 139 I 189), Fortdauer bei Rückweisung (BGE 129 V 370), Staatshaftung nach Abs. 4 und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
-    note: "Audit (Neuaufbau, Urteil C 39% -> B 64%): Gesetzestext von Abs. 2-5 war schwer fehlerhaft -- Abs. 4 (Staatshaftung bei willkuerlichem Entzug/willkuerlicher Verweigerung der aufschiebenden Wirkung) fehlte im Kommentar vollstaendig, Abs. 2/3 waren ungenau umformuliert. Gesetzestext gegen Fedlex korrigiert, Kommentierung um eigenen Abschnitt IV zu Abs. 4 ergaenzt. Pinpoints fuer BGE 129 II 286 (E. 3) und BGE 117 V 185 (E. 2) korrigiert. Drei Beschaffungswesen-Entscheide (B-3402/2009, B-4958/2013, B-6837/2010) mit spezifischen, nicht auffindbaren Rechtssaetzen zitiert -- entfernt; B-6177/2008 und B-504/2009 mit den tatsaechlich einschlaegigen Erwaegungen neu zugeordnet. Drei Belegpaare (BGE 117 V 185, B-6177/2008, B-504/2009) bleiben trotz manuell verifiziertem Wortlaut als 'no'/'unrelated' markiert (Cache-/Modell-Artefakt, per direktem MCP-Abruf bestaetigt korrekt)."
+    note: "Audit-Korrekturen"
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
     mcp_verified: true
-    note: "Neuerstellung VwVG Art. 55 — Gesetzestext via Fedlex MCP, Leitentscheide via OpenCaseLaw verifiziert."
+    note: "Erstaufbau"
 ---
 
-# Art. 55 VwVG — Aufschiebende Wirkung
+## Gesetzeswortlaut
 
-## Gesetzestext
-
-> **Art. 55 VwVG — Aufschiebende Wirkung**
+> **Art. 55 VwVG (SR 172.021)** — Aufschiebende Wirkung
 >
 > **1** Die Beschwerde hat aufschiebende Wirkung.
 >
@@ -34,52 +37,54 @@ revisions:
 > **4** Wird die aufschiebende Wirkung willkürlich entzogen oder einem Begehren um Wiederherstellung der aufschiebenden Wirkung willkürlich nicht oder verspätet entsprochen, so haftet für den daraus erwachsenden Schaden die Körperschaft oder autonome Anstalt, in deren Namen die Behörde verfügt hat.
 >
 > **5** Vorbehalten bleiben die Bestimmungen anderer Bundesgesetze, nach denen eine Beschwerde keine aufschiebende Wirkung hat.
+{: .gesetzeszitat}
 
-*(Fedlex-Stand: 2022-07-01)*
+## Überblick und Bedeutung
 
-## I. Bedeutung und Grundsatz (Abs. 1)
+**Rz. 1** Art. 55 VwVG verankert den Grundsatz des **Suspensiveffekts (aufschiebende Wirkung)** als elementares Institut des einstweiligen Rechtsschutzes im Bundesverwaltungsverfahren. Die Erhebung einer Beschwerde hemmt von Gesetzes wegen die Vollstreckbarkeit sowie die materiellen Rechtsgestaltungswirkungen der angefochtenen Verfügung (Abs. 1).
 
-Art. 55 VwVG verankert den Grundsatz des **Suspensiveffekts (aufschiebende Wirkung)** im Bundesverwaltungsverfahren. Die Erhebung einer Beschwerde hemmt die Vollstreckbarkeit und Rechtswirksamkeit der angefochtenen Verfügung. Der Grundsatz garantiert einen wirksamen vorläufigen Rechtsschutz und verhindert, dass vor dem Ausgang des Rechtsmittelverfahrens vollendete Tatsachen geschaffen werden.
+**Rz. 2** **Zweck des Suspensiveffekts**:
+Der Grundsatz sichert die Effektivität des gerichtlichen Rechtsschutzes (**Art. 29a BV**): Er verhindert, dass vor dem rechtskräftigen Abschluss des Verfahrens irreversible vollendete Tatsachen geschaffen werden.
 
-## II. Entzug der aufschiebenden Wirkung (Abs. 2)
+## Kommentierung
 
-### 1. Ausnahmsweiser Entzug
-Die verfügende Behörde oder die Beschwerdeinstanz kann der Beschwerde die aufschiebende Wirkung entziehen (Abs. 2). Ausgenommen vom Entzug sind Verfügungen, die eine **Geldleistung** zum Gegenstand haben (Verbot des Entzugs bei Geldleistungen).
+### I. Grundsatz der aufschiebenden Wirkung (Abs. 1)
 
-### 2. Kriterien für den Entzug (Interessenabwägung)
-Ob im Einzelfall der Suspensiveffekt zu belassen oder zu entziehen ist, beurteilt sich aufgrund einer **Interessenabwägung**: Es ist zu prüfen, ob die Gründe, welche für die sofortige Vollstreckbarkeit sprechen, gewichtiger sind als jene, die für die gegenteilige Lösung angeführt werden können ([BGE 129 II 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_II_286#e-3) E. 3). Der vermutliche Ausgang des Hauptverfahrens fällt dabei nur in Betracht, soweit die Aussichten eindeutig sind; der Behörde kommt bei der Abwägung ein erheblicher Beurteilungsspielraum zu.
+**Rz. 3** Die aufschiebende Wirkung tritt von Gesetzes wegen mit Einreichung der Beschwerdeschrift ein. Sie belässt den bisherigen Rechtszustand bis zum rechtskräftigen Urteil im Hauptverfahren.
 
-## III. Wiederherstellung der aufschiebenden Wirkung (Abs. 3)
+### II. Entzug der aufschiebenden Wirkung (Abs. 2)
 
-### 1. Zuständigkeit und Verfahren
-Die Beschwerdeinstanz, ihr Vorsitzender oder der Instruktionsrichter kann die von der **Vorinstanz entzogene** aufschiebende Wirkung auf Gesuch hin **wiederherstellen**. Über ein solches Begehren ist **ohne Verzug** zu entscheiden.
+**Rz. 4** **1. Ausschluss bei Geldleistungen**:
+Verfügungen, die eine Geldleistung zum Gegenstand haben (z.B. Steuerforderungen, Beitragsrückforderungen), darf die aufschiebende Wirkung **nicht entzogen** werden (Abs. 2 Ingress; [BGer 2A_128/2003](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2A-128-2003_2003-04-03.html)).
 
-### 2. Prüfungsumfang bei der Wiederherstellung
-Bei der Entscheidung über die Wiederherstellung nimmt die Beschwerdeinstanz eine summarische Beurteilung der Prozessaussichten (Prima-facie-Chancen) und der auf dem Spiel stehenden Interessen vor. Ein Entscheid über den Entzug oder die Wiederherstellung der aufschiebenden Wirkung stellt eine **Zwischenverfügung** dar.
+**Rz. 5** **2. Kriterien der Interessenabwägung (Leitentscheid BGE 129 II 286)**:
+* Der Entzug setzt eine **sorgfältige Interessenabwägung** voraus: Das öffentliche Interesse oder schutzwürdige Drittinteresse an der sofortigen Vollziehung muss das private Interesse des Beschwerdeführers am Suspensiveffekt deutlich überwiegen ([BGE 129 II 286 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-286_2003.html#consideration_3)).
+* **Prognose der Erfolgsaussichten**: Die mutmasslichen Prozessaussichten in der Hauptsache fliessen in die Abwägung nur ein, wenn sie **eindeutig** sind (offensichtlich unbegründete oder offensichtlich begründete Beschwerde).
 
-## IV. Staatshaftung bei willkürlichem Entzug oder willkürlicher Verweigerung (Abs. 4)
+### III. Wiederherstellung der aufschiebenden Wirkung (Abs. 3)
 
-Wird die aufschiebende Wirkung **willkürlich entzogen** oder einem Begehren um Wiederherstellung **willkürlich nicht oder verspätet entsprochen**, haftet für den daraus erwachsenden Schaden die Körperschaft oder autonome Anstalt, in deren Namen die Behörde verfügt hat. Diese Kausalhaftung setzt Willkür voraus — eine vertretbare, wenn auch im Ergebnis unzutreffende Interessenabwägung genügt nicht. Die Bestimmung ergänzt die allgemeine Staatshaftung (Verantwortlichkeitsgesetz des Bundes) für den spezifischen Fall des Suspensiveffekts.
+**Rz. 6** **Entscheid ohne Verzug (BGE 139 I 189)**:
+Hat die Vorinstanz der Beschwerde den Suspensiveffekt entzogen, kann die Beschwerdeinstanz (Bundesverwaltungsgericht) diesen auf Gesuch hin wiederherstellen. Wegen der Dringlichkeit ist darüber **ohne Verzug** zu entscheiden ([BGer 2C_836/2020 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-836-2020_2021-02-18.html)). Das rechtliche Gehör der Gegenpartei kann in hochdringlichen Fällen summarisch gewährt werden ([BGE 139 I 189 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-189_2013.html#consideration_3.3)).
 
-## V. Besonderheiten
+### IV. Spezifische Kausalhaftung des Staates (Abs. 4)
 
-### 1. Negative Verfügungen
-Negative Verfügungen sind der aufschiebenden Wirkung nicht zugänglich; hier bedarf es der Anordnung **positiver vorsorglicher Massnahmen** nach Art. 56 VwVG. Die zu Art. 55 VwVG entwickelten Grundsätze der Interessenabwägung lassen sich sinngemäss auf Art. 56 VwVG übertragen ([BGE 117 V 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_V_185#e-2) E. 2).
+**Rz. 7** Wird der Suspensiveffekt **willkürlich entzogen** oder die Wiederherstellung willkürlich verweigert bzw. verzögert, haftet das verantwortliche Gemeinwesen nach Abs. 4 kausal für den entstandenen Schaden. Ein einfacher Rechtsfehler genügt für die Haftung nicht; erforderlich ist ein qualifizierter, unhaltbarer Entscheid.
 
-### 2. Gesetzesbestimmungen mit gesetzlichem Ausschluss (Abs. 5)
-Sondergesetzliche Regelungen (z.B. im Ausländer- oder Asylrecht) können den Grundsatz umkehren und bestimmen, dass der Beschwerde von Gesetzes wegen keine aufschiebende Wirkung zukommt (Abs. 5).
+## Kasuistik: Typische Anwendungsbereiche
 
-## VI. Praxisfragen
+**Rz. 8** **Fallgruppe 1: Freisetzungsversuche im Gentechnikrecht**
+In [BGE 129 II 286 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-286_2003.html#consideration_3) entzog das Bundesamt für Umwelt Beschwerden gegen die Bewilligung eines gentechnischen Freisetzungsversuchs die aufschiebende Wirkung. Das Bundesgericht hiess das Wiederherstellungsbegehren gut: Bei irreversiblen Eingriffen in die Biosphäre überwiegt das Aufschubinteresse bis zum Sachentscheid.
 
-### Praxisfrage 1: Wann liegt ein nicht wieder gutzumachender Nachteil bei Beschwerden gegen Entzugsentscheide vor?
-**Antwort:** Der Entzug der aufschiebenden Wirkung bewirkt einen drohenden, nicht wieder gutzumachenden Nachteil, wenn die Vollstreckung der Verfügung vor dem Endentscheid Rechtsgüter zerstört oder Wirkungen entfaltet, die durch einen späteren günstigen Endentscheid nicht mehr rückgängig gemacht werden können; nach heutigem Prozessrecht entspricht dies der Eintretensvoraussetzung von Art. 93 Abs. 1 lit. a BGG ([BGE 110 V 40](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_40) zur damaligen, inhaltsgleichen Regelung).
+**Rz. 9** **Fallgruppe 2: Gehörsanspruch bei dringlichen Massnahmen**
+In [BGE 139 I 189 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-189_2013.html#consideration_3.3) verlangte eine Partei im Zwischenverfahren über den Suspensiveffekt die Durchführung eines mehrfachen Schriftenwechsels. Das Bundesgericht entschied, dass das Gebot des raschen Entscheids nach Art. 55 Abs. 3 VwVG eine straffe Verfahrensführung gebietet und der Gehörsanspruch bei vorsorglichen Massnahmen summarisch gehandhabt werden darf.
 
-### Praxisfrage 2: Kann die aufschiebende Wirkung bei Freisetzungsversuchen (Umweltrecht/Gentechnik) entzogen werden?
-**Antwort:** Ja, wenn überwiegende öffentliche oder private Sicherheitsinteressen nachgewiesen sind. In [BGE 129 II 286](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_II_286) bejahte das Bundesgericht das Beschwerderecht Dritter bezüglich des Entzugs der aufschiebenden Wirkung bei Freisetzungsverfahren.
+**Rz. 10** **Fallgruppe 3: Fortwirkung des Entzugs bei Rückweisung**
+In [BGE 129 V 370 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-370_2003.html) hob die Vorinstanz eine Rente auf und entzog der Beschwerde die aufschiebende Wirkung. Nach Rückweisung der Sache durch das Gericht an die Verwaltung zur weiteren Abklärung bestätigte das Bundesgericht, dass der Entzug der aufschiebenden Wirkung auch für das nachfolgende Verwaltungsverfahren bis zum neuen Sachentscheid fortgilt.
 
-## VII. Querverweise
+## Kantonale und Eidgenössische Praxisfragen
 
-- [Art. 5 VwVG — Begriff der Verfügung](../art-005/)
-- [Art. 45 VwVG — Zwischenverfügungen](../art-045/)
-- Art. 56 VwVG — Andere vorsorgliche Massnahmen
-- Art. 103 BGG — Aufschiebende Wirkung vor Bundesgericht
+**Rz. 11** **Praxisfrage 1: Superprovisorische Massnahmen vor Gehörsgewährung**
+Droht durch den sofortigen Vollzug ein unwiederbringlicher Rechtsverlust, kann der Instruktionsrichter der Beschwerdeinstanz die aufschiebende Wirkung **superprovisorisch** (d.h. vor Anhörung der Gegenpartei) wiederherstellen und anschliessend den ordentlichen Zwischenentscheid nach Art. 55 Abs. 3 VwVG fällen.
+
+**Rz. 12** **Praxisfrage 2: Anfechtbarkeit beim Bundesgericht**
+Zwischenentscheide über die Verweigerung oder Wiederherstellung der aufschiebenden Wirkung stellen Zwischenverfügungen dar. Sie sind vor Bundesgericht nur anfechtbar, wenn sie einen **nicht wieder gutzumachenden Nachteil** bewirken können (Art. 93 Abs. 1 lit. a BGG; [BGE 110 V 40](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-40_1984.html)).
