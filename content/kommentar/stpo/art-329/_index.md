@@ -77,7 +77,7 @@ revisions:
 
 #### 1. Typische Rückweisungsgründe
 **Rz. 10** Eine Rückweisung nach Abs. 2 kommt namentlich in Betracht bei:
-* **Mängeln der Anklageschrift**: Unklare, widersprüchliche, unvollständige oder alternative Sachverhaltsschilderungen, die den Anklagegrundsatz verletzen ([BGE 144 IV 217](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-217_2018.html));
+* **Mängeln der Anklageschrift**: Unklare, widersprüchliche, unvollständige oder den Anklagegrundsatz verletzende Sachverhaltsschilderungen ([BGE 143 IV 63 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-63_2017.html#consideration_2.2); [BGE 141 IV 39 E. 1.6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-39_2015.html#consideration_1.6.1));
 * **Aktenmängeln**: Fehlende Aktenordnung, ungeordnete Beilagen, Fehlen von Schlusseinvernahmeprotokollen oder unterlassene Benachrichtigung gemäss Art. 318 StPO;
 * **Ungültigen Strafbefehlen im Überweisungsverfahren**: Entspricht ein nach Einsprache an das Gericht überwiesener Strafbefehl nicht den gesetzlichen Mindestanforderungen (z.B. fehlende Begründung des Sachverhalts oder fehlende gültige Unterschrift), wird er aufgehoben und der Fall zur Neubeurteilung zurückgewiesen (Art. 356 Abs. 5 StPO analog; [Obergericht AG SBE.2017.31 vom 26.9.2017](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBE-2017-31_2017-09-26.pdf)).
 
