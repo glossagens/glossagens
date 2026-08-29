@@ -1,0 +1,605 @@
+{
+  "norm": "Art. 146 StGB",
+  "auswertungsstand": "2026-08-29",
+  "quelle": "entscheidsuche.ch, Volltextrecherche",
+  "trichter": {
+    "normzitat_art_146_stgb": 1892,
+    "schuldspruchformel_betrug": 395,
+    "schuldspruchformel_gewerbsmaessig": 152,
+    "schuldspruchformel_und_einsatzstrafe": 130,
+    "schuldspruchformel_gewerbsm_und_einsatzstrafe": 78,
+    "kernkorpus_benannte_einsatzstrafe": 53,
+    "volltext_ausgewertet": 53,
+    "verfahren_nach_bereinigung": 50,
+    "strafwerte_belegt": 45,
+    "asperationszuschlaege_belegt": 15
+  },
+  "verteilung": {
+    "ZH": 25,
+    "CH_Bund": 16,
+    "BL": 4,
+    "BS": 4,
+    "BE": 2,
+    "AG": 1,
+    "SZ": 1,
+    "sprache": {
+      "de": 53
+    }
+  },
+  "rechtsaenderung": {
+    "datum": "2023-07-01",
+    "alt": "aArt. 146 Abs. 2 StGB: Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen",
+    "neu": "Art. 146 Abs. 2 StGB: Freiheitsstrafe von sechs Monaten bis zu zehn Jahren",
+    "quelle": "BG vom 17.12.2021 über die Harmonisierung der Strafrahmen, AS 2023 259",
+    "praxis": "KG BL 460 24 266 wendet nach Art. 2 Abs. 2 StGB den milderen alten Rahmen an"
+  },
+  "werte_abs1": [
+    {
+      "entscheid": "OG ZH SB250449",
+      "datum": "2026-03-26",
+      "grad": "sehr leicht",
+      "wert": "30 Tage FS",
+      "vorinstanz": "60 TS",
+      "ausgesprochen": "40 Tage FS + Busse Fr. 1'700",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB250449_2026-03-26.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB250036",
+      "datum": "2026-03-13",
+      "grad": "noch leicht",
+      "wert": "90 TS",
+      "betrag": "COVID-19-Kredit; zweiter Fall rund Fr. 750",
+      "ausgesprochen": "90 TS Geldstrafe",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB250036_2026-03-13.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB240394",
+      "datum": "2025-09-11",
+      "grad": "mittelschwer",
+      "wert": "30 Monate",
+      "ausgesprochen": "24 Mt FS + 110 TS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240394_2025-09-11.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG AG SST.2024.144",
+      "datum": "2025-06-25",
+      "grad": "sehr leicht bis leicht",
+      "wert": "1 Monat (30 Strafeinheiten)",
+      "betrag": "CHF 3'921.45",
+      "ausgesprochen": "2 Mt FS unbedingt",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-144_2025-06-25.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH GG240008",
+      "datum": "2025-05-07",
+      "grad": "sehr leicht",
+      "wert": "60 Tage FS",
+      "ausgesprochen": "90 Tage FS + Busse Fr. 2'100",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_GG240008_2025-05-07.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BGer 6B_309/2024",
+      "datum": "2025-03-10",
+      "wert": "50 Monate",
+      "betrag": "Fr. 3'375'000",
+      "ausgesprochen": "Beschwerde abgewiesen",
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-309-2024_2025-03-10.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB230507",
+      "datum": "2024-08-30",
+      "grad": "leicht",
+      "wert": "75 TS",
+      "vorinstanz": "90 TS",
+      "betrag": "Fr. 29'168.50",
+      "ausgesprochen": "120 TS Geldstrafe",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230507_2024-08-30.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BStGer CA.2023.33",
+      "datum": "2024-06-02",
+      "grad": "zwischen noch leicht und nicht mehr leicht",
+      "wert": "180 Strafeinheiten, als Geldstrafe 150 TS",
+      "betrag": "Fr. 15'775.10",
+      "ausgesprochen": "34 Mt FS + 180 TS + Busse Fr. 700",
+      "url": "https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_CA-2023-33_2024-06-02.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG SZ STK 2022 42",
+      "datum": "2024-03-26",
+      "wert": "Geldstrafe (Einsatzstrafe Betrug)",
+      "betrag": "rund Fr. 25'000 (COVID-19-Kredit)",
+      "ausgesprochen": "68 TS + Busse Fr. 2'720",
+      "url": "https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2022-42_2024-03-26.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB230144",
+      "datum": "2023-11-15",
+      "grad": "nicht mehr leicht",
+      "wert": "16 Monate",
+      "betrag": "über Fr. 100'000",
+      "ausgesprochen": "18 Mt FS + 80 TS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230144_2023-11-15.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB220251",
+      "datum": "2023-01-20",
+      "grad": "noch gering (Deliktsbetrag)",
+      "wert": "2 Monate",
+      "betrag": "Fr. 2'452",
+      "ausgesprochen": "10 Mt FS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB220251_2023-01-20.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2021.108",
+      "datum": "2022-08-24",
+      "grad": "noch leicht",
+      "wert": "40 TS",
+      "betrag": "Fr. 11'895.35",
+      "ausgesprochen": "50 TS (nach Asperation)",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2021-108_2022-08-24.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB210009",
+      "datum": "2022-03-29",
+      "wert": "4 Monate (Einzelstrafe)",
+      "ausgesprochen": "5 Mt FS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210009_2022-03-29.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH GG190213-L",
+      "datum": "2020-02-12",
+      "wert": "240 TS bzw. 8 Monate",
+      "ausgesprochen": "210 TS + Busse Fr. 1'500",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_GG190213-L_2020-02-12.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB160506",
+      "datum": "2017-10-17",
+      "wert": "13 Monate",
+      "betrag": "Fr. 37'000",
+      "ausgesprochen": "16 Mt FS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160506_2017-10-17.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2016.43",
+      "datum": "2017-03-24",
+      "wert": "7 Monate (Betrug + Urkundenfälschung, asperiert)",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2016-43_2017-03-24.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB150293",
+      "datum": "2016-02-23",
+      "grad": "nicht mehr leicht",
+      "wert": "18 Monate",
+      "betrag": "Fr. 122'212",
+      "ausgesprochen": "27 Mt FS + 60 TS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150293_2016-02-23.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB120286",
+      "datum": "2013-02-15",
+      "grad": "noch leicht",
+      "wert": "9 Monate",
+      "betrag": "Fr. 50'400",
+      "ausgesprochen": "20 Mt FS + Busse Fr. 1'000",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB120286_2013-02-15.pdf",
+      "is_pdf": true
+    }
+  ],
+  "werte_abs2": [
+    {
+      "entscheid": "BGer 6B_689/2025",
+      "datum": "2026-04-30",
+      "grad": "erheblich (objektiv)",
+      "wert": "60 Monate objektiv, nach subjektiver Reduktion 45 Mt, nach Geständnis 30 Mt",
+      "betrag": "Fr. 919'866.95 / 15 Jahre",
+      "ausgesprochen": "Beschwerde abgewiesen",
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BGer 6B_949/2024",
+      "datum": "2026-03-04",
+      "grad": "mittelschwer",
+      "wert": "5 Jahre (60 Monate)",
+      "ausgesprochen": "im Strafpunkt bestätigt",
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-949-2024_2026-03-04.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "KG BL 460 25 189 (Besch. 1)",
+      "datum": "2025-11-07",
+      "grad": "noch leicht bis nicht mehr leicht",
+      "wert": "23 Monate",
+      "betrag": "Fr. 122'861.55",
+      "ausgesprochen": "27 Mt FS teilbedingt (6 Mt unbedingt) + 15 TS",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-25-189_2025-11-07.pdf",
+      "is_pdf": true,
+      "bestaetigt": "BGer 6B_221/2026 vom 18.06.2026 (Beschwerde abgewiesen)",
+      "altrecht": true
+    },
+    {
+      "entscheid": "KG BL 460 25 189 (Besch. 2)",
+      "datum": "2025-11-07",
+      "grad": "noch leicht",
+      "wert": "21 Monate",
+      "betrag": "Fr. 102'613.15",
+      "ausgesprochen": "22 Mt FS bedingt",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-25-189_2025-11-07.pdf",
+      "is_pdf": true,
+      "altrecht": true
+    },
+    {
+      "entscheid": "KG BL 460 24 266",
+      "datum": "2025-10-22",
+      "grad": "mittel",
+      "wert": "60 Monate",
+      "betrag": "rund Fr. 1'400'000 / 7 Jahre",
+      "ausgesprochen": "3 Jahre 9 Mt FS (Verschlechterungsverbot; angemessen wären 4 J. 2 Mt)",
+      "verschlechterungsverbot": true,
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-24-266_2025-10-22.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BGer 6B_1148/2023",
+      "datum": "2025-02-20",
+      "wert": "60 Monate (Haupttat)",
+      "ausgesprochen": "36 Mt FS (nach -25 Mt Beschleunigungsgebot und -35 Mt Art. 48 lit. e)",
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1148-2023_2025-02-20.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BGer 7B_783/2023",
+      "datum": "2024-10-15",
+      "wert": "18 Monate (Einzelstrafe)",
+      "betrag": "Fr. 465'171",
+      "ausgesprochen": "teilweise Gutheissung, Rückweisung in anderen Punkten",
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-783-2023_2024-10-15.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB230433",
+      "datum": "2024-06-17",
+      "grad": "nicht mehr leicht",
+      "wert": "24 Monate",
+      "betrag": "CHF 351'050",
+      "ausgesprochen": "4½ Jahre FS + 130 TS",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230433_2024-06-17.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2022.131",
+      "datum": "2024-01-18",
+      "grad": "an der Grenze zwischen leicht und mittelschwer",
+      "wert": "33 Monate (Vorinstanz 30)",
+      "betrag": "knapp CHF 900'000 allein 2010-2014",
+      "ausgesprochen": "3 Jahre 5 Mt FS + 10 TS",
+      "bestaetigt": "BGer 6B_239/2024 vom 16.01.2025",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2022-131_2024-01-18.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB220158",
+      "datum": "2023-05-04",
+      "grad": "keineswegs leicht",
+      "wert": "36 Monate",
+      "betrag": "über CHF 1.2 Mio",
+      "ausgesprochen": "3½ Jahre FS + 75 TS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB220158_2023-05-04.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 2021 112",
+      "datum": "2022-01-04",
+      "grad": "leicht bis nicht mehr leicht",
+      "wert": "270 Tage",
+      "betrag": "Beuteanteil CHF 28'000",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-2021-112_2022-01-04.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB200039",
+      "datum": "2020-10-20",
+      "grad": "erheblich (objektiv)",
+      "wert": "38 Monate",
+      "ausgesprochen": "36 Mt FS + 120 TS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200039_2020-10-20.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB190520",
+      "datum": "2020-03-05",
+      "wert": "30 Monate (nach Asperation 33)",
+      "ausgesprochen": "30 Mt FS, 8 Mt vollziehbar",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB190520_2020-03-05.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG BE SK 2019 77",
+      "datum": "2019-12-19",
+      "wert": "180 Tage FS (Tatkomponenten), 210 Tage nach Täterkomponente",
+      "betrag": "tiefer Deliktsbetrag, Vielzahl von Handlungen",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2019-77_2019-12-19.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 19 151",
+      "datum": "2019-11-08",
+      "grad": "Ausmass des Erfolgs äusserst gross",
+      "wert": "48 Monate",
+      "betrag": "rund Fr. 12'800'000, rund 200 Geschädigte",
+      "ausgesprochen": "Asperation auf 60 Mt",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-19-151_2019-11-08.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BGer 6B_301/2019",
+      "datum": "2019-09-17",
+      "grad": "gerade noch leicht",
+      "wert": "6 Monate",
+      "betrag": "Fr. 2'628",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-301-2019_2019-09-17.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB180362",
+      "datum": "2019-06-25",
+      "wert": "30 Monate (Sozialhilfebetrug)",
+      "betrag": "rund Fr. 159'000",
+      "ausgesprochen": "30 Mt FS + 90 TS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180362_2019-06-25.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB170498",
+      "datum": "2018-11-01",
+      "wert": "30 Monate (erste Phase)",
+      "ausgesprochen": "29 Mt FS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB170498_2018-11-01.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG BE BK 2017 368",
+      "datum": "2017-11-22",
+      "wert": "20 Monate",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2017-368_2017-11-22.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BGer 6B_1245/2016",
+      "datum": "2017-10-13",
+      "grad": "leicht bis mittelschwer",
+      "wert": "30 Monate (im ersten Berufungsurteil 40)",
+      "betrag": "knapp Fr. 155'000",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1245-2016_2017-10-13.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BGer 6B_958/2016",
+      "datum": "2017-07-19",
+      "wert": "2½ Jahre (30 Monate)",
+      "betrag": "Schaden rund Fr. 5 Mio",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-958-2016_2017-07-19.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "AppG BS SB.2015.77",
+      "datum": "2017-06-02",
+      "wert": "90 TS Geldstrafe",
+      "ausgesprochen": "180 TS Geldstrafe (Zusatzstrafe)",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2015-77_2017-06-02.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB140546",
+      "datum": "2015-08-27",
+      "wert": "rund 30 Monate",
+      "betrag": "Fr. 50'010",
+      "ausgesprochen": "36 Mt FS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB140546_2015-08-27.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB150050",
+      "datum": "2015-05-12",
+      "grad": "nicht mehr leicht",
+      "wert": "33 Monate",
+      "betrag": "Fr. 33'400",
+      "ausgesprochen": "30 Mt FS + 20 TS",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150050_2015-05-12.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB140275",
+      "datum": "2014-10-20",
+      "grad": "erheblich",
+      "wert": "45-48 Monate",
+      "ausgesprochen": "30 Mt FS (Vorinstanz 50 Mt, -20 Mt für Nachtatverhalten und Beschleunigungsgebot)",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB140275_2014-10-20.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BGer 6B_1179/2013 (Mitbeschuldigter Y.)",
+      "datum": "2014-08-28",
+      "wert": "72 Monate",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1179-2013_2014-08-28.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BGer 6B_1179/2013 (Beschwerdeführer)",
+      "datum": "2014-08-28",
+      "wert": "30 Monate",
+      "ausgesprochen": "Asperation +16 Mt",
+      "altrecht": true,
+      "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1179-2013_2014-08-28.html",
+      "is_pdf": false
+    }
+  ],
+  "asperationszuschlaege": [
+    {
+      "entscheid": "OG ZH SB250449",
+      "datum": "2026-03-26",
+      "zuschlag": "20 Tage",
+      "basis": "30 Tage FS",
+      "nebendelikt": "Urkundenfälschung"
+    },
+    {
+      "entscheid": "OG ZH SB250036",
+      "datum": "2026-03-13",
+      "zuschlag": "60 TS (zweiter Betrug) + 30 TS (zwei Urkundenfälschungen)",
+      "basis": "90 TS",
+      "bemerkung": "grosszügige Asperation wegen sehr engen Konnexes"
+    },
+    {
+      "entscheid": "OG ZH SB230433",
+      "datum": "2024-06-17",
+      "zuschlag": "4 Monate",
+      "isolierte_einzelstrafe": "8 Monate",
+      "nebendelikt": "Betrug Dossier 10 B"
+    },
+    {
+      "entscheid": "BStGer CA.2023.33",
+      "datum": "2024-06-02",
+      "zuschlag": "30 TS",
+      "basis": "150 TS",
+      "nebendelikt": "mehrfache Gewaltdarstellungen"
+    },
+    {
+      "entscheid": "AppG BS SB.2022.131",
+      "datum": "2024-01-18",
+      "zuschlag": "6 Monate (Urkundenfälschung) + 5 Monate (mehrfacher Betrug)",
+      "basis": "33 Monate",
+      "isolierte_einzelstrafe": "12 Monate (Urkundenfälschung), 10 Monate (mehrfacher Betrug)"
+    },
+    {
+      "entscheid": "OG ZH SB220251",
+      "datum": "2023-01-20",
+      "zuschlag": "14 Monate",
+      "basis": "2 Monate",
+      "nebendelikt": "Vernachlässigung von Unterhaltspflichten",
+      "bemerkung": "Nebendelikt wiegt schwerer als das Einsatzstrafdelikt"
+    },
+    {
+      "entscheid": "OG ZH SB220053",
+      "datum": "2022-11-30",
+      "zuschlag": "1 Monat",
+      "bemerkung": "isoliert waere deutlich hoehere Strafe auszufaellen",
+      "ausgesprochen": "8 Mt FS"
+    },
+    {
+      "entscheid": "AppG BS SB.2021.108",
+      "datum": "2022-08-24",
+      "zuschlag": "10 TS",
+      "basis": "40 TS",
+      "isolierte_einzelstrafe": "40 TS",
+      "nebendelikt": "Falschbeurkundung"
+    },
+    {
+      "entscheid": "OG ZH SB210009",
+      "datum": "2022-03-29",
+      "zuschlag": "10 Tage",
+      "isolierte_einzelstrafe": "15 Tage"
+    },
+    {
+      "entscheid": "OG ZH SB190520",
+      "datum": "2020-03-05",
+      "zuschlag": "3 Monate",
+      "basis": "30 Monate",
+      "nebendelikt": "mehrfache Urkundenfälschung"
+    },
+    {
+      "entscheid": "OG ZH SB180362",
+      "datum": "2019-06-25",
+      "zuschlag": "6 Monate",
+      "basis": "30 Monate",
+      "nebendelikt": "Urkundenfälschung und unrechtmässiger Bezug"
+    },
+    {
+      "entscheid": "KG BL 460 19 151",
+      "datum": "2019-11-08",
+      "zuschlag": "12 Monate",
+      "basis": "48 Monate",
+      "bemerkung": "für sämtliche weiteren Delikte zusammen"
+    },
+    {
+      "entscheid": "KG BL 460 24 266",
+      "datum": "2025-10-22",
+      "zuschlag": "10 Monate",
+      "basis": "62 Monate",
+      "bemerkung": "gemässigte Asperation, da Grundstrafe bereits asperiert war"
+    },
+    {
+      "entscheid": "BGer 6B_1245/2016",
+      "datum": "2017-10-13",
+      "zuschlag": "6 Monate (früher 8)",
+      "isolierte_einzelstrafe": "15 Monate",
+      "nebendelikt": "Urkundenfälschung"
+    },
+    {
+      "entscheid": "OG ZH GG190213-L",
+      "datum": "2020-02-12",
+      "zuschlag": "60 TS bzw. 2 Monate",
+      "basis": "240 TS bzw. 8 Monate",
+      "bemerkung": "mehrfache Begehung (9 Delikte) und Deliktsmehrheit"
+    }
+  ],
+  "ausgeschieden": [
+    {
+      "entscheid": "OG ZH SB190283 (14.04.2020 / 03.09.2020)",
+      "grund": "zwei Fassungen desselben Berufungsurteils - zählt als ein Verfahren"
+    },
+    {
+      "entscheid": "BGer 6B_1201/2019 und 6B_1209/2019",
+      "grund": "dasselbe Verfahren, zwei Mitbeschuldigte"
+    },
+    {
+      "entscheid": "BGer 6B_239/2024",
+      "grund": "prüft AppG BS SB.2022.131 - ein Verfahren, zwei Dokumente"
+    },
+    {
+      "entscheid": "BGer 6B_1172/2013, 6B_711/2011, 6B_849/2016",
+      "grund": "kein bezifferter Strafwert für Art. 146 StGB; nur methodische bzw. Deliktsbetragsaussagen"
+    },
+    {
+      "entscheid": "OG ZH SB110137",
+      "grund": "Einsatzstrafe als zu hoch aufgehoben, ohne neue Bezifferung für Art. 146 allein"
+    }
+  ]
+}
