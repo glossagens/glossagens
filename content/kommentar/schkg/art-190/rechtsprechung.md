@@ -2,60 +2,111 @@
 title: "Rechtsprechung zu Art. 190 SchKG"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-07-18"
-description: "Übersicht der Rechtsprechung zu Art. 190 SchKG — Konkurs ohne vorgängige Betreibung, Gläubigerqualität, Zahlungseinstellung und nova."
-tags: ["Rechtsprechung", "SchKG", "Konkurs", "Zahlungseinstellung"]
+lastmod: 2026-08-29
+description: "Übersicht der Rechtsprechung zu Art. 190 SchKG — Konkurs ohne vorgängige Betreibung, Gläubigerqualität, Zahlungseinstellung und Flucht."
+tags: ["Rechtsprechung", "SchKG", "Konkurs", "Zahlungseinstellung", "Gläubigerantrag", "Flucht", "Kasuistik"]
 agent_verified: false
+revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zur Zahlungseinstellung und Verlinkung auf entscheidsuche.ch."
+  - date: 2026-07-18
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Erstaufbau Rechtsprechung"
 ---
 
 # Rechtsprechung zu Art. 190 SchKG
 
-## I. Fokusentscheid
+Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kantonalen Gerichtspraxis zur Konkurseröffnung ohne vorgängige Betreibung nach Art. 190 SchKG.
 
-### BGer 5A_57/2026 — nova im Konkurs ohne Betreibung und Gläubigerqualität
+## I. Leitentscheide des Bundesgerichts (BGE)
 
-[BGer 5A_57/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_57_2026) (23. Juni 2026) — Zentraler Entscheid zu Art. 190 SchKG mit zwei tragenden Aussagen:
+### [BGE 120 III 87](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-III-87_1994.html) (1994)
+- **Thema**: Voraussetzungen und Indizien der Zahlungseinstellung (Art. 190 Abs. 1 Ziff. 2 SchKG)
+- **Kernaussage**: Zahlungseinstellung liegt vor, wenn der Schuldner unbestrittene, fällige Forderungen dauernd nicht bezahlt, gegen sämtliche Betreibungen systematisch Rechtsvorschlag erhebt und über keine ausreichende Liquidität verfügt.
+- **Konkreter Sachverhalt**: Systematische Nichtbezahlung von Löhnen und Sozialversicherungen; Konkurseröffnung geschützt.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 SchKG
 
-**1. Nova im kantonalen Rekurs**: Im Konkurs ohne vorgängige Betreibung (Art. 190 SchKG) sind grundsätzlich nur pseudo-nova (uneigentliche nova) zulässig — Tatsachen, die sich vor dem ersten Konkursurteil ereignet haben. Echte nova sind nur in den Ausnahmefällen von Art. 174 Abs. 2 SchKG zulässig. Die Bestimmung, dass die Solvenzverbesserung nach dem ersten Konkursurteil eingetreten ist, ist *fremd* zur Konkurseröffnung und daher nicht zulässig. **Ausnahme**: Der Rückzug des Konkursbegehrens durch den Gläubiger ist zulässig, da er nicht fremd zur Konkurseröffnung ist.
+---
 
-**2. Gläubigerqualität**: Die Gläubigerqualität der antragstellenden Partei muss **zum Zeitpunkt des ersten Konkursurteils** gegeben sein. Eine nachträglich erworbene Gläubigerqualität (durch im kantonalen Rekursverfahren neu geltend gemachte Forderungen, z.B. Schadensersatz für zukünftige Nutzungszeiten) heilt den Mangel nicht. Die Forderung muss nicht fällig sein, aber sie muss als bestehend qualifizieren — eine künftige Forderung reicht nicht aus.
+### [BGE 135 III 31](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-31_2009.html) (2008)
+- **Thema**: Ausserordentlicher Charakter und Verhältnismässigkeit
+- **Kernaussage**: Die Konkurseröffnung ohne Betreibung ist ein ausserordentliches Instrument; der Konkursrichter hat das Vorliegen der Tatbestandsmerkmale von Amtes wegen streng zu prüfen.
+- **Konkreter Sachverhalt**: Abwehr der Konkurseröffnung durch gerichtliche Hinterlegung der strittigen Summe.
+- **Einschlägig für**: Art. 190 SchKG i.V.m. Art. 174 Abs. 2 Ziff. 2 SchKG
 
-**3. Beurteilungszeitpunkt**: Die Zahlungseinstellung als Voraussetzung von Art. 190 Abs. 1 Ziff. 2 SchKG ist zum Zeitpunkt des **ersten Konkursurteils** zu beurteilen. Eine danach eintretende Solvenzverbesserung ist unbeachtlich, sofern sie nicht unter eine der Ausnahmen von Art. 174 Abs. 2 SchKG fällt. Die kantonale Instanz, die sich auf einen aktuellen Betreibungsregisterauszug nach dem ersten Urteil stützte, handelte nicht willkürlich, wenn der Auszug nur die Fortdauer der Zahlungseinstellung bestätigte.
+---
 
-## II. Leitentscheide
+### [BGE 97 I 309](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-97-I-309_1971.html) (1971)
+- **Thema**: Begriff des flüchtigen Schuldners (Art. 190 Abs. 1 Ziff. 1 SchKG)
+- **Kernaussage**: Die Flucht setzt ein aktives Verheimlichen oder Verlassen des Wohnsitzes in der Absicht voraus, sich Gläubigerverbindlichkeiten zu entziehen.
+- **Konkreter Sachverhalt**: Schuldner tauchte nach Pfändungsankündigung im Ausland unter.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 1 SchKG
 
-### BGE 120 III 87 — Voraussetzungen der Zahlungseinstellung
+---
 
-[BGE 120 III 87](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_III_87) (5. Mai 1994) — Grundlagenentscheid zur Konkurseröffnung ohne vorgängige Betreibung. Das Bundesgericht präzisierte die Indizien, die eine Zahlungseinstellung im Sinne von Art. 190 Abs. 1 Ziff. 2 SchKG begründen: Nicht jede einzelne unbezahlte Rechnung stellt eine Zahlungseinstellung dar; erforderlich ist eine nachhaltige Unfähigkeit, die fälligen Verbindlichkeiten zu begleichen. Mehrere laufende Betreibungen, unbezahlte Steuerrechnungen und eine unzureichende Liquidität bei fälligen Verbindlichkeiten sind starke Indizien.
+## II. Weitere Entscheide des Bundesgerichts
 
-### BGE 135 III 31 — Konkurs ohne Betreibung und Verhältnismässigkeit
+### [BGer 5A_82/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-82-2023_2023-07-19.html) (19. Juli 2023)
+- **Thema**: Konkurseröffnung wegen Zahlungseinstellung
+- **Kernaussage**: Der Konkursrichter darf den Konkurs nach Art. 190 Abs. 1 Ziff. 2 SchKG nur aussprechen, wenn die Zahlungseinstellung liquide feststeht und der Gläubiger seine Forderung nachweist.
+- **Konkreter Sachverhalt**: Streit über das Vorliegen von Zahlungseinstellung bei hängigen Schadenersatzprozessen.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 SchKG
 
-[BGE 135 III 31](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_III_31) (21. Oktober 2008) — Das Bundesgericht betonte, dass die Konkurseröffnung ohne vorgängige Betreibung ein ausserordentliches Institut ist und die Voraussetzungen strikt zu prüfen sind. Der Konkursrichter hat eine umfassende Sachverhaltsabklärung vorzunehmen, insbesondere zur Frage, ob die Voraussetzungen von Art. 190 Abs. 1 Ziff. 1 oder 2 SchKG erfüllt sind. Eine summarische Prüfung genügt nicht.
+---
 
-### BGE 97 I 309 — Flüchtiger Schuldner
+### [BGer 5A_1014/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1014-2019_2020-03-25.html) (25. März 2020)
+- **Thema**: Konkursfähigkeit des Schuldners
+- **Kernaussage**: Die Konkurseröffnung wegen Zahlungseinstellung nach Art. 190 Abs. 1 Ziff. 2 SchKG setzt zwingend voraus, dass der Schuldner der Konkursbetreibung nach Art. 39 SchKG unterliegt.
+- **Konkreter Sachverhalt**: Prüfung der Parteifähigkeit und Konkursfähigkeit einer Kollektivgesellschaft.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 i.V.m. Art. 39 SchKG
 
-[BGE 97 I 309](https://mcp.opencaselaw.ch/entscheid/bge_BGE_97_I_309) (9. Juni 1971) — Frühentscheid zum Begriff der Flüchtigkeit (Art. 190 Abs. 1 Ziff. 1 SchKG). Der Schuldner gilt als flüchtig, wenn er sich seinen Verbindlichkeiten entzieht, indem er seine Adresse verschleiert oder ins Ausland abtaucht. Eine blosse Abwesenheit reicht nicht aus — es muss eine **Fluchtabsicht** vorliegen, sich den Verbindlichkeiten zu entziehen.
+---
 
-## III. Weitere BGer-Entscheide
+### [BGer 5A_790/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-790-2017_2018-09-03.html) (3. September 2018)
+- **Thema**: Abgrenzung zum vorübergehenden Liquiditätsengpass
+- **Kernaussage**: Eine blosse Zahlungsstockung oder die Nichtbegleichung einer einzelnen streitigen Forderung genügt nicht für die Annahme einer Zahlungseinstellung.
+- **Konkreter Sachverhalt**: Abweisung eines Konkursbegehrens bei nachgewiesener Gesamtsolvenz der Schuldnerin.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 SchKG
 
-### BGer 5A_264/2020 — Solvenz im Konkurs ohne Betreibung
+---
 
-[BGer 5A_264/2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_264_2020) (18. Juni 2020) — Das Bundesgericht bestätigte, dass im Konkurs ohne vorgängige Betreibung der Schuldner im kantonalen Rekurs nicht geltend machen kann, er habe im laufenden Rekursverfahren seine Schulden beglichen oder sein Zustand habe sich verbessert. Diese Umstände sind echte nova und als solche nicht zulässig, soweit sie nicht unter eine der Ausnahmen von Art. 174 Abs. 2 SchKG fallen.
+### [BGer 5A_587/2011](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-587-2011_2011-11-09.html) (9. November 2011)
+- **Thema**: Tragweite einer Zahlungssperre
+- **Kernaussage**: Eine Zahlungseinstellung liegt vor, wenn sich die Zahlungssperre auf einen wesentlichen Teil der Geschäftstätigkeit erstreckt und der Schuldner den Betrieb nicht mehr aufrechterhalten kann.
+- **Konkreter Sachverhalt**: Konkurseröffnung über ein Bauunternehmen nach Einstellung aller Lohn- und Materialzahlungen.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 SchKG
 
-### BGer 5A_243/2019 — Solvenz und nova
+---
 
-[BGer 5A_243/2019](https://mcp.opencaselaw.ch/entscheid/bger_5A_243_2019) (17. Mai 2019) — Bestätigung der Rechtsprechung zu den nova im Konkurs ohne Betreibung. Eine Solvenzverbesserung im laufenden Verfahren ist unbeachtlich, sofern sie nicht auf einer der exhaustiv aufgezählten Ausnahmen von Art. 174 Abs. 2 SchKG beruht. Publiziert in SJ 2019 I p. 376.
+### [BGer 5A_860/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-860-2008_2009-05-28.html) (28. Mai 2009)
+- **Thema**: Nachweis der Gläubigerstellung
+- **Kernaussage**: Der Gläubiger muss seine Aktivlegitimation durch Vorlage liquider Beweismittel im Konkursverfahren glaubhaft dartun.
+- **Konkreter Sachverhalt**: Bestreitung einer Darlehensforderung im summarischen Konkursverfahren.
+- **Einschlägig für**: Art. 190 Abs. 1 SchKG
 
-### BGer 5A_183/2024 — Pseudo-nova und rechtliches Gehör
+---
 
-[BGer 5A_183/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_183_2024) (10. Mai 2024) — Das Bundesgericht klärte, dass pseudo-nova (uneigentliche nova — Tatsachen vor dem ersten Konkursurteil) im kantonalen Rekurs zulässig sind. Der Gläubiger hat im Rahmen seines rechtlichen Gehörs (Art. 29 Abs. 2 BV) das Recht, nova zu produzieren, die der Widerlegung der nova des Schuldners dienen. Publiziert in BlSchK 2024 p. 251 und SVR 2025 BVG Nr. 7 p. 28.
+### [BGer 5A_556/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-556-2021_2022-09-20.html) (20. September 2022)
+- **Thema**: Beweiswert des Betreibungsregisterauszugs
+- **Kernaussage**: Ein Betreibungsauszug mit zahlreichen unbeglichenen Betreibungen und offenen Pfändungsvollzügen bildet ein gewichtiges Indiz für die Zahlungseinstellung.
+- **Konkreter Sachverhalt**: Konkurseröffnung gestützt auf Auszug mit 30 offenen Betreibungen.
+- **Einschlägig für**: Art. 190 Abs. 1 Ziff. 2 SchKG
 
-### BGer 5A_899/2014 — Gläubigerqualität und Fälligkeit
+---
 
-[BGer 5A_899/2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_899_2014) (5. Januar 2015) — Bestätigung der Rechtsprechung, dass die Forderung des antragstellenden Gläubigers nicht fällig oder betreibungsreif sein muss, um als Gläubiger im Sinne von Art. 190 SchKG zu qualifizieren. Die Forderung muss jedoch als bestehend nachgewiesen sein. Publiziert in SJ 2015 I p. 437.
+## III. Kantonale Rechtsprechung
 
-## IV. BGE 151 III 574 — Nova bei Konkurs mit Betreibung
+### [Handelsgericht Zürich, HE200140](https://entscheidsuche.ch/docs/ZH_Handelsgericht/ZH_HG_001_HE200140_2020.pdf) (2020)
+- **Thema**: Kostenvorschuss bei Art. 190 SchKG
+- **Kernaussage**: Der antragstellende Gläubiger hat die mutmasslichen Kosten für das summarische Konkurseröffnungsverfahren sowie die Konkurspublikation vorzuschiessen.
+- **Konkreter Sachverhalt**: Nichteintreten auf Konkursgesuch nach unbenutztem Ablauf der Vorschussfrist.
+- **Kanton**: Zürich (ZH)
 
-[BGE 151 III 574](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_III_574) — Das Bundesgericht bestätigte, dass die Regeln von Art. 174 Abs. 2 SchKG bei der Konkurseröffnung mit vorgängiger Betreibung (Art. 197 SchKG) gelten und der Schuldner in diesem Rahmen nova geltend machen kann, die seine Solvenz nach dem ersten Konkursurteil betreffen. Diese Regeln sind jedoch *nicht* direkt auf den Konkurs ohne Betreibung (Art. 190 SchKG) übertragbar.
+---
 
-*Letzte Aktualisierung: 2026-07-18*
+*Letzte Aktualisierung: 2026-08-29*
