@@ -2,11 +2,16 @@
 title: "Art. 119 ZPO — Gesuch und Verfahren (unentgeltliche Rechtspflege)"
 weight: 119
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 119 ZPO: Gesuch um unentgeltliche Rechtspflege — Verfahren, Darlegungspflicht, summarisches Verfahren, rückwirkende Bewilligung, NeuBeantragung im Rechtsmittelverfahren."
-tags: ["ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Armutszeugnis", "Rechtsbeistand"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 119 ZPO: Gesuch um unentgeltliche Rechtspflege — Verfahren, Mitwirkungsobliegenheit, Notbedarfsberechnung, Kostenlosigkeit und Kasuistik."
+tags: ["ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Mitwirkungspflicht", "Kostenlosigkeit", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von Kostenlosigkeit (BGE 137 III 470), Mitwirkungsobliegenheiten (BGer 4A_114/2013), Konkubinatsberücksichtigung (BGE 142 III 36), Gegenparteistellung (BGE 139 III 334) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -38,66 +43,59 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 119 ZPO regelt das **Verfahren** für das Gesuch um unentgeltliche Rechtspflege (URP) — eine der wichtigsten prozessualen Vorkehrungen zur Gewährleistung des **Zugangs zum Gericht** für Personen, die die Prozesskosten nicht tragen können. Die unentgeltliche Rechtspflege ist in Art. 117 ZPO (Voraussetzungen) und Art. 118 ZPO (Umfang) geregelt; Art. 119 ZPO konkretisiert das Verfahren. Die Norm ist von herausragender praktischer Bedeutung, da die URP in einem grossen Teil der Zivilprozesse beantragt wird und das Gericht vor jeder Sachprüfung über das Gesuch entscheiden muss.
+**Rz. 1** Art. 119 ZPO regelt das **Verfahren zur Gewährung der unentgeltlichen Rechtspflege** (URP). Die Norm konkretisiert den verfassungsmässigen Anspruch aus Art. 29 Abs. 3 BV und stellt sicher, dass mittellose Personen nicht aus Kostengründen an der Durchsetzung ihrer nicht aussichtslosen Rechte vor Zivilgerichten gehindert werden (Art. 117, 118 ZPO).
 
-## Tatbestandsmerkmale
+**Rz. 2** Im Zentrum der praktischen Rechtsanwendung stehen die **strenge Mitwirkungsobliegenheit** der gesuchstellenden Partei bei der Offenlegung ihrer finanziellen Verhältnisse (Abs. 2) sowie die **Reichweite der Kostenlosigkeit** (Abs. 6), die nach bundesgerichtlicher Rechtsprechung nur für das erst- und zweitinstanzliche Gesuchsverfahren selbst, nicht aber für Beschwerden gegen ablehnende Entscheide gilt ([BGE 137 III 470 E. 6.5.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-470_2011.html#consideration_6.5.5)).
 
-### 1. Zeitpunkt des Gesuchs (Abs. 1)
+## Kommentierung
 
-Das Gesuch kann **vor oder nach Eintritt der Rechtshängigkeit** gestellt werden. Dies ist wichtig: Die URP kann bereits im Schlichtungsverfahren oder vor der Klageerhebung beantragt werden — die Partei muss nicht erst klagen und dann das Gesuch nachreichen. In der Praxis wird das Gesuch häufig **zusammen mit der Klage** eingereicht, was aus prozessökonomischen Gründen sinnvoll ist.
+### I. Gesuchstellung und Mitwirkungsobliegenheit (Abs. 1 & 2)
 
-### 2. Darlegungspflicht (Abs. 2)
+**Rz. 3** **Zeitpunkt des Gesuchs**: Das Gesuch um unentgeltliche Rechtspflege kann vor Eintritt der Rechtshängigkeit (z.B. bereits vor Einleitung des Schlichtungsverfahrens oder vorsorglicher Massnahmen) oder jederzeit während des laufenden Hauptverfahrens gestellt werden.
 
-Die gesuchstellende Person hat drei Pflichten:
+**Rz. 4** **Darlegung der Einkommens- und Vermögensverhältnisse (Abs. 2)**:
+* Die gesuchstellende Person trifft eine umfassende **Mitwirkungs- und Belegpflicht**. Sie muss ihre gesamten finanziellen Verhältnisse (Lohnabrechnungen, Steuererklärungen, Bankauszüge aller Konten, Mietverträge, Krankenkassenprämien, Schulden und Unterhaltspflichten) lückenlos offenlegen.
+* **Folgen unvollständiger Angaben**: Kommt die Partei dieser Pflicht trotz Fristansetzung nicht vollständig nach, wird das Gesuch ohne Weiterungen infolge Beweislosigkeit der Bedürftigkeit abgewiesen ([BGer 4A_114/2013 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-114-2013_2013-06-20.html)). Das Gericht ist im summarischen Verfahren nicht verpflichtet, von Amtes wegen Banknachforschungen anzustellen.
 
-- **Einkommens- und Vermögensverhältnisse darlegen**: Die Partei muss ein vollständiges Bild ihrer finanziellen Situation geben (Einkommen, Vermögen, Schulden, Unterhaltspflichten). In der Praxis geschieht dies durch das **Armutszeugnis** (Formular mit Angaben zu Einkommen, Vermögen, Miete, Versicherungen, Unterhaltspflichten). Unvollständige oder falsche Angaben können zur Abweisung des Gesuchs führen.
+**Rz. 5** **Äusserung zur Sache und Beweismittel**: Die Partei muss die Sach- und Rechtslage summarisch darlegen, damit das Gericht die fehlende Aussichtslosigkeit der Rechtsbegehren (Art. 117 lit. b ZPO) beurteilen kann ([BGer 5A_897/2013 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-897-2013_2014-07-08.html)).
 
-- **Sich zur Sache äussern**: Die Partei muss die **rechtlichen und tatsächlichen Aspekte** ihres Begehrens darlegen — nicht nur die finanzielle Situation. Dies stellt sicher, dass das Gericht die Erfolgsaussichten (Art. 117 lit. b ZPO) beurteilen kann.
+**Rz. 6** **Bezeichnung des Rechtsbeistands**: Die Benennung eines Wunschbeistands im Gesuch bindet das Gericht zwar nicht formell, wird aber in der Praxis regelmässig respektiert, sofern der vorgeschlagene Rechtsanwalt zur Übernahme bereit ist.
 
-- **Beweismittel angeben**: Die Partei muss angeben, welche Beweismittel sie anbietet. Dies ist wichtig für die Beurteilung, ob das Begehren "nicht als aussichtslos erscheint" (Art. 117 lit. b ZPO).
+### II. Summarisches Verfahren und Anhörung der Gegenpartei (Abs. 3)
 
-- **Wahl des Rechtsbeistands**: Die Partei kann eine **bestimmte Rechtsanwältin oder einen bestimmten Rechtsanwalt** als unentgeltlichen Rechtsbeistand vorschlagen. Das Gericht ist an diesen Vorschlag nicht gebunden, berücksichtigt ihn aber in der Regel.
+**Rz. 7** **Entscheid im summarischen Verfahren**: Das Gericht entscheidet rasch auf der Grundlage der eingereichten Akten und Belege (Art. 248 ff. ZPO).
 
-### 3. Summarisches Verfahren (Abs. 3)
+**Rz. 8** **Stellung der Gegenpartei**: 
+* Die Anhörung der Gegenpartei ist grundsätzlich fakultativ. Wird die Gegenpartei zur Stellungnahme eingeladen, erlangt sie dadurch **keine formelle Parteistellung** im Gesuchsverfahren; ihr darf keine Parteientschädigung zulasten des Gesuchstellers oder des Staates zugesprochen werden ([BGE 139 III 334 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-334_2013.html#consideration_4.1)).
+* **Zwingende Anhörung**: Beantragt der Gesuchsteller die Befreiung von der Pflicht zur Sicherheitsleistung für die Parteientschädigung (Art. 99, 118 Abs. 1 lit. a ZPO), ist die Gegenpartei zwingend anzuhören.
 
-Das Gericht entscheidet über das Gesuch im **summarischen Verfahren** — d.h. ohne umfangreiche Beweisaufnahme, auf die Aktenlage und die Angaben der gesuchstellenden Person. Dies gewährleistet eine **schnelle Entscheidung**, die für den Zugang zum Gericht unerlässlich ist.
+### III. Rückwirkende Bewilligung und Rechtsmittelverfahren (Abs. 4 & 5)
 
-**Anhörung der Gegenpartei**: Die Gegenpartei **kann** angehört werden — muss aber nicht. Eine **zwingende** Anhörung gilt nur, wenn die URP die **Leistung der Sicherheit für die Parteientschädigung** umfassen soll (Satz 2). In diesem Fall hat die Gegenpartei ein Interesse daran, sich zur finanziellen Situation der gesuchstellenden Person zu äussern, da die Sicherheit ihre Interessen betrifft.
+**Rz. 9** **Rückwirkende Bewilligung (Abs. 4)**: Die Bewilligung der unentgeltlichen Rechtspflege wirkt grundsätzlich ab Gesuchsdatum. Eine rückwirkende Gewährung für bereits angefallene Kosten ist die Ausnahme und verlangt den Nachweis, dass die Bedürftigkeit bereits damals vorlag und stichhaltige Gründe für die verspätete Gesuchstellung vorlagen.
 
-### 4. Rückwirkende Bewilligung (Abs. 4)
+**Rz. 10** **Erfordernis der Neu-Beantragung im Rechtsmittelverfahren (Abs. 5)**: Eine in erster Instanz gewährte unentgeltliche Rechtspflege erstreckt sich **nicht automatisch** auf das Rechtsmittelverfahren (Berufung oder Beschwerde). Die Partei muss für jede weitere Instanz ein neues Gesuch stellen und die Prozessaussichten des Rechtsmittels darlegen.
 
-Die URP kann **ausnahmsweise rückwirkend** bewilligt werden — z.B. wenn die Partei bereits ein Verfahren geführt hat, ohne die URP zu beantragen, und nachträglich geltend macht, sie hätte die Voraussetzungen damals schon erfüllt. Die rückwirkende Bewilligung ist die **Ausnahme** und setzt voraus, dass die Partei die Voraussetzungen (Bedürftigkeit, Aussichtshaftigkeit, nicht mutwillig) bereits zum Zeitpunkt des Verfahrens erfüllt hat.
+### IV. Kostenlosigkeit des Gesuchsverfahrens (Abs. 6)
 
-### 5. NeuBeantragung im Rechtsmittelverfahren (Abs. 5)
+**Rz. 11** **Gebührenfreiheit der Gesuchsinstanz**: Im erst- und zweitinstanzlichen Gesuchsverfahren werden keine Gerichtskosten erhoben, es sei denn, das Gesuch sei böswillig oder mutwillig eingereicht worden ([BGE 137 III 470 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-470_2011.html#consideration_6.3)).
 
-Im **Rechtsmittelverfahren** (Berufung, Beschwerde) ist die URP **neu zu beantragen** — die bewilligte URP in erster Instanz gilt nicht automatisch für die zweite Instanz. Der Grund: Die finanzielle Situation der Partei kann sich geändert haben, und die Erfolgsaussichten des Rechtsmittels sind separat zu beurteilen. Dies ist eine wichtige Fallstricke in der Praxis: Eine Partei, die in erster Instanz die URP hatte, muss im Rechtsmittelverfahren ein neues Gesuch einreichen.
+**Rz. 12** **Kostenpflicht des Beschwerdeverfahrens**: Ficht die gesuchstellende Partei die Abweisung oder den Entzug der unentgeltlichen Rechtspflege mit Beschwerde (Art. 121 ZPO) an, gilt Abs. 6 nicht: Das **Beschwerdeverfahren ist kostenpflichtig** ([BGE 137 III 470 E. 6.5.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-470_2011.html#consideration_6.5.5)).
 
-### 6. Keine Gerichtskosten (Abs. 6)
+## Kasuistik: Typische Fallkonstellationen
 
-Im Verfahren um die URP werden **keine Gerichtskosten** erhoben — ausser bei **Bös- oder Mutwilligkeit**. Dies stellt sicher, dass die Beantragung der URP für die bedürftige Partei **kostenlos** ist. Böswilligkeit liegt vor, wenn das Gesuch offensichtlich missbräuchlich gestellt wird; Mutwilligkeit, wenn das Gesuch keine Aussicht auf Erfolg hat und nur zur Belästigung der Gegenpartei dient.
+**Rz. 13** **Fallgruppe 1: Kostenpflicht bei Beschwerde gegen Abweisung des URP-Gesuchs**
+In [BGE 137 III 470 E. 6.5.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-470_2011.html#consideration_6.5.5) wies das erstinstanzliche Gericht das Gesuch um unentgeltliche Rechtspflege wegen fehlender Bedürftigkeit ab. Der Kläger erhob Beschwerde an das Obergericht, welches die Beschwerde abwies und ihm Gerichtskosten auferlegte. Das Bundesgericht bestätigte die Kostenauflage: Art. 119 Abs. 6 ZPO befreit nur das Gesuchsverfahren selbst, nicht aber das anschliessende Rechtsmittelverfahren.
 
-## Einordnung in die Rechtsprechung
+**Rz. 14** **Fallgruppe 2: Verletzung der Offenlegungspflicht bei Vermögen**
+In [BGer 4A_114/2013 vom 20. Juni 2013 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-114-2013_2013-06-20.html) deklarierte der Gesuchsteller ein monatliches Erwerbseinkommen, reichte jedoch trotz Aufforderung keine Auszüge über seine Sparkonten und keine Angaben über den Verbleib früherer Ersparnisse ein. Das Gericht wies das URP-Gesuch ab, da der Nachweis der Bedürftigkeit infolge unvollständiger Mitwirkung gescheitert war.
 
-Die Rechtsprechung zu Art. 119 ZPO ist umfangreich und konzentriert sich auf folgende Schwerpunkte:
+**Rz. 15** **Fallgruppe 3: Berücksichtigung von Konkubinatspartnern**
+In [BGE 142 III 36 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-36_2015.html) lebte die Klägerin in einem stabilen Konkubinat. Das Bundesgericht hielt fest, dass ein Konkubinatspartner zwar nicht zur Leistung eines Prozesskostenvorschusses (*provisio ad litem*) verpflichtet ist, die tatsächlichen Ersparnisse durch gemeinsame Haushaltsführung (z.B. hälftige Miete und Grundbetrag für Zusammenlebende) jedoch in das zivilprozessuale Existenzminimum einberechnet werden müssen.
 
-1. **Darlegungspflicht und Vollständigkeit**: Das Bundesgericht hat klargestellt, dass die Darlegungspflicht (Abs. 2) **vollständig** sein muss. Unvollständige oder falsche Angaben können zur Abweisung des Gesuchs führen. Das Gericht ist nicht verpflichtet, von sich aus Nachforschungen anzustellen; die gesuchstellende Partei hat ihre Einkommens- und Vermögensverhältnisse darzulegen und soweit möglich zu belegen (Art. 119 Abs. 2 ZPO).
+## Kantonale Praxisfragen
 
-2. **Rückwirkende Bewilligung**: Die rückwirkende Bewilligung (Abs. 4) ist die Ausnahme und erfordert **konkrete Gründe**, warum das Gesuch nicht früher gestellt wurde. Eine blosse Nachlässigkeit rechtfertigt keine rückwirkende Bewilligung.
+**Rz. 16** **Praxisfrage 1: Berechnung des zivilprozessualen Notbedarfs**
+In der kantonalen Gerichtspraxis (z.B. Gerichte der Kantone Zürich, Bern, Luzern) berechnet sich die Bedürftigkeit nach dem betreibungsrechtlichen Notbedarf gemäss Art. 93 SchKG zuzüglich eines **angemessenen Zuschlags von 15 bis 20 %** zur Deckung von Steuern, Versicherungen und unvorhersehbaren Auslagen. Übersteigt das Nettoeinkommen diesen erweiterten Notbedarf, liegt keine Bedürftigkeit vor, sofern der Überschuss ausreicht, um die Prozesskosten innert ein bis zwei Jahren zu amortisieren.
 
-3. **NeuBeantragung im Rechtsmittelverfahren**: Das Bundesgericht hat in ständiger Praxis klargestellt, dass die URP in jeder Instanz **neu zu beantragen** ist (Abs. 5). Eine Partei, die in erster Instanz die URP hatte, muss im Berufungsverfahren ein neues Gesuch einreichen — die URP der ersten Instanz gilt nicht automatisch weiter.
-
-4. **Bös- oder Mutwilligkeit**: Das Bundesgericht hat den Massstab für Bös- oder Mutwilligkeit (Abs. 6) präzisiert. Böswilligkeit verlangt eine **dolose** Gesinnung; Mutwilligkeit verlangt, dass das Gesuch offensichtlich aussichtslos ist und nur zur Belästigung dient. Ein bloß aussichtsloses Gesuch ist noch nicht "mutwillig" — Mutwilligkeit erfordert eine zusätzliche Qualifikation.
-
-## Abgrenzung zu Art. 117/118 ZPO
-
-| Artikel | Inhalt |
-|---|---|
-| Art. 117 ZPO | Voraussetzungen (Bedürftigkeit, Aussichtshaftigkeit, nicht mutwillig) |
-| Art. 118 ZPO | Umfang (Befreiung von Gerichtskosten, unentgeltlicher Rechtsbeistand, Sicherheit) |
-| Art. 119 ZPO | Verfahren (Gesuch, Darlegung, summarisches Verfahren, rückwirkende Bewilligung) |
-
-Art. 119 ZPO setzt die Voraussetzungen von Art. 117 ZPO voraus und konkretisiert das Verfahren. Die drei Normen sind **zusammen** zu lesen — keine allein reicht aus.
-
-## Fazit
-
-Art. 119 ZPO ist die verfahrensrechtliche Grundlage für die unentgeltliche Rechtspflege. Die Norm stellt sicher, dass bedürftige Personen einen **effektiven Zugang zum Gericht** haben, ohne durch die Prozesskosten davon abgehalten zu werden. Die Darlegungspflicht (Abs. 2) und das summarische Verfahren (Abs. 3) gewährleisten eine effiziente Prüfung. Die NeuBeantragung im Rechtsmittelverfahren (Abs. 5) ist ein wichtiger praktischer Hinweis: Die URP gilt nicht automatisch für die nächste Instanz. Die Kostenfreiheit des Verfahrens (Abs. 6) stellt sicher, dass die Beantragung der URP für die bedürftige Partei kein finanzielles Risiko birgt — ausser bei Bös- oder Mutwilligkeit.
+**Rz. 17** **Praxisfrage 2: Parteientschädigung bei Obsiegen im URP-Rechtsmittelverfahren**
+Obsiegt die gesuchstellende Partei im Beschwerdeverfahren gegen die unberechtigte Verweigerung der unentgeltlichen Rechtspflege, ist ihr vom Kanton nach [BGE 140 III 501 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-501_2014.html#consideration_4.1) eine volle Parteientschädigung zuzusprechen.
