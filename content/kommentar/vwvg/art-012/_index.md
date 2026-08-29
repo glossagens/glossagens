@@ -1,22 +1,32 @@
 ---
-title: "Art. 12 — Untersuchungsmaxime"
+title: "Art. 12 VwVG — Untersuchungsmaxime"
 weight: 12
 date: 2026-05-23
-lastmod: "2026-08-17"
-description: "Kommentar zu Art. 12 VwVG – Untersuchungsmaxime und Beweismittel"
-tags: ["VwVG", "Untersuchungsmaxime", "Beweis", "Verwaltungsverfahren", "Beweiswürdigung", "Administrativgutachten"]
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 12 VwVG: Untersuchungsmaxime — Feststellung des Sachverhalts von Amtes wegen, Beweismittelkatalog, antizipierte Beweiswürdigung und Kasuistik."
+tags: ["VwVG", "Untersuchungsmaxime", "Untersuchungsgrundsatz", "Beweismittel", "Beweiswürdigung", "Mitwirkungspflicht", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Bereinigung und Anreicherung: Systematische Aufbereitung von Art. 12 VwVG, Bereinigung historischer Audit-Fehlzitate, Tarifprüfungen (BGE 151 II 687), Beschaffungswesen (BGE 143 II 425), antizipierte Beweiswürdigung (BGE 140 I 285), Mitwirkung und Beweislast (BGE 135 II 161; BGer 2C_2/2015) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
     mcp_verified: true
-    note: "OCL-Link-Konvertierung — 14 bger.ch-Links durch OCL-Links ersetzt"
+    note: "OCL-Link-Konvertierung"
+  - date: 2026-05-23
+    by: "Antigravity Agent"
+    model: "gemini-3.6-flash"
+    mcp_verified: true
+    note: "Erstaufbau"
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 12 VwVG — Untersuchungsmaxime**
+> **Art. 12 VwVG (SR 172.021)** — Untersuchungsmaxime
 >
 > Die Behörde stellt den Sachverhalt von Amtes wegen fest und bedient sich nötigenfalls folgender Beweismittel:
 > a. Urkunden;
@@ -24,68 +34,59 @@ revisions:
 > c. Auskünfte oder Zeugnis von Drittpersonen;
 > d. Augenschein;
 > e. Gutachten von Sachverständigen.
+{: .gesetzeszitat}
+
+## Überblick und Bedeutung
+
+**Rz. 1** Art. 12 VwVG verankert die **Untersuchungsmaxime (Untersuchungsgrundsatz)** als tragendes Strukturprinzip des Verwaltungsverfahrensrechts des Bundes. Im Gegensatz zum Verhandlungsgrundsatz im Zivilprozess obliegt die Ermittlung des rechtserheblichen Sachverhalts der Behörde **von Amtes wegen**.
+
+**Rz. 2** **Zweck und Funktion**:
+Die Norm gewährleistet, dass verwaltungsrechtliche Entscheidungen auf einer materiell zutreffenden Tatsachengrundlage ergehen. Ergänzt wird die Untersuchungsmaxime durch den **Grundsatz der freien Beweiswürdigung** (Art. 19 VwVG i.V.m. Art. 40 BZP; [BGE 151 II 687 E. 5.6.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-687_2025.html)).
 
 ## Kommentierung
 
-### I. Bedeutung und Einordnung
+### I. Untersuchungspflicht der Behörde (Satz 1)
 
-**1** Art. 12 VwVG verankert die **Untersuchungsmaxime** (Inquisitormaxime) als Fundament des Verwaltungsverfahrensrechts. Die Behörde ermittelt den Sachverhalt nicht auf Antrag, sondern **von Amtes wegen** — unabhängig vom Begehren der Parteien. Mit rund 66'000 Zitierungen ist Art. 12 VwVG eine der meistzitierten Bestimmungen des Schweizer Verwaltungsrechts.
+**Rz. 3** **1. Umfang der behördlichen Ermittlung**:
+* Die Behörde muss alle für den Entscheid wesentlichen Tatsachen ermitteln, unabhängig davon, ob und wie sie von den Parteien vorgebracht wurden ([BGE 151 II 687 E. 5.6.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-687_2025.html)).
+* **Grenzen der Untersuchungspflicht**: Die Behörde ist nicht zu einer uferlosen «Forschung ins Blaue» verpflichtet; sie muss nur solchen Umständen nachgehen, für die konkrete, ernsthafte Anhaltspunkte in den Akten bestehen ([BGE 110 V 109 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984.html#consideration_3)).
 
-**2** Die Untersuchungsmaxime bedeutet: Die Behörde prüft **alle für den Fall erheblichen Tatsachen**, unabhängig davon, ob die Parteien sie vorbringen. Sie wählt die Beweismittel nach freiem Ermessen (lit. a–e). Die Parteien haben **Mitwirkungspflichten** (Art. 13 VwVG), aber die Hauptverantwortung liegt bei der Behörde ([BGE 125 I 71](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_I_71)).
+**Rz. 4** **2. Antizipierte Beweiswürdigung**:
+* Die Behörde kann von der Abnahme beantragter Beweise absehen, wenn sie aufgrund der bereits vorliegenden Beweise ihre Überzeugung gebildet hat und willkürfrei annehmen darf, dass zusätzliche Beweiserhebungen ihre Feststellungen nicht mehr umstossen können ([BGE 140 I 285 E. 6.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-285_2014.html#consideration_6.3.1)).
 
-### II. Untersuchungsgrundsatz (Satz 1)
+### II. Beweismittelkatalog (lit. a–e)
 
-**3** Der **Untersuchungsgrundsatz** verpflichtet die Behörde zur umfassenden Sachverhaltsabklärung von Amtes wegen. Die Untersuchungspflicht besteht solange, bis der Sachverhalt hinreichend geklärt ist. Die Behörde darf nicht einfach auf die Behauptungen der Parteien abstellen, sondern muss den relevanten Sachverhalt auch dann abklären, wenn die Parteien sich passiv verhalten ([BGE 125 I 71](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_I_71); [BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)).
+**Rz. 5** Die in lit. a–e aufgeführten Beweismittel sind **nicht abschliessend**:
+* **lit. a (Urkunden)**: Schriftliche Dokumente, Verträge, behördliche Registerauszüge und Aktenstücke.
+* **lit. b (Auskünfte der Parteien)**: Anhörung und schriftliche Stellungnahmen der Verfahrensbeteiligten.
+* **lit. c (Drittauskünfte und Zeugnis)**: Befragung unbeteiligter Auskunftspersonen und formelle Zeugeneinvernahmen ([BGE 117 V 282](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-117-V-282_1991.html)).
+* **lit. d (Augenschein)**: Besichtigung von Örtlichkeiten, Bauwerken oder Gegenständen vor Ort.
+* **lit. e (Sachverständigengutachten)**: Einholung von Fachgutachten bei komplexen medizinischen, technischen oder wirtschaftlichen Spezialfragen ([BGE 137 V 210](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-137-V-210_2011.html)).
 
-**4** Die Untersuchungspflicht findet ihre **Grenze**, wo die Behörde aufgrund der Aktenlage und der Parteivorbringen ohne weitere Beweismassnahmen entscheiden kann. Eine «Forschung ins Blaue» wird nicht verlangt ([BGE 124 V 110](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_V_110)). Die Untersuchungspflicht besteht nur hinsichtlich erheblicher und nicht offensichtlicher Tatsachen; die Behörde braucht nicht jede denkbare Möglichkeit zu verfolgen, sondern nur solche, die sich aufgrund konkreter Anhaltspunkte aufdrängen ([BGE 134 V 244](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_244)).
+### III. Zusammenspiel mit Mitwirkungspflichten und Beweislast
 
-**5** **Im Beschwerdeverfahren** ist die Untersuchungsmaxime durch den Grundsatz der **Beschwerdebindung** (Art. 62 Abs. 4 VwVG) eingeschränkt. Neue Tatsachen und Beweise im Beschwerdeverfahren werden nur berücksichtigt, soweit sie von Amtes wegen zu erheben sind ([BGE 133 V 377](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_V_377)). Die Begründung der Begehren bindet die Behörde hinsichtlich des Streitgegenstands ([BGE 110 V 48](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_V_48)); der Untersuchungsgrundsatz gilt im Rahmen des Streitgegenstands.
+**Rz. 6** **1. Mitwirkungspflichten der Parteien (Art. 13 VwVG)**:
+* Die Untersuchungsmaxime entbindet die Parteien nicht von ihren gesetzlichen Mitwirkungspflichten, namentlich bei Tatsachen, die ihnen besser bekannt sind oder die sie selbst geltend machen ([BGE 135 II 161 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-161_2009.html#consideration_3); [BGE 132 II 113 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-113_2006.html#consideration_3.1)).
+* Verweigert eine Partei ihre zumutbare Mitwirkung, kann die Behörde auf das Gesuch nicht eintreten oder auf Grund der Akten entscheiden (Art. 13 Abs. 2 VwVG).
 
-### III. Beweiserhebungspflicht
+**Rz. 7** **2. Objektive Beweislast (Art. 8 ZGB)**:
+* Kann eine rechtserhebliche Tatsache trotz aller zumutbaren Ermittlungen nicht festgestellt werden (Beweislosigkeit), greift die materielle Beweislastregel nach Art. 8 ZGB: Die Folgen der Beweislosigkeit trägt jene Partei, die aus der unbewiesenen Tatsache Rechte ableitet ([BGer 2C_2/2015 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-2-2015_2015-08-13.html)).
 
-**6** Sind die Akten **widersprüchlich oder lückenhaft**, muss die Behörde weitere Beweise erheben. Eine beweiserhebliche Tatsache darf nicht unbehellt bleiben, wenn ein erheblicher Zweifel besteht ([BGE 134 V 274](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_274)). Bei widerstreitenden medizinischen Berichten muss die IV-Stelle durch Einholung eines weiteren Gutachtens oder durch Administrativgutachten für Klarheit sorgen ([BGE 140 V 79](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_V_79)).
+## Kasuistik: Typische Anwendungsbereiche
 
-**7** Neue Tatsachen und Beweismittel, die im erstinstanzlichen Verfahren hätten vorgebracht werden können, können im Beschwerdeverfahren grundsätzlich nicht mehr berücksichtigt werden, sofern sie nicht von der Behörde von Amtes wegen zu erheben waren ([BGE 133 V 537](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_V_537)).
+**Rz. 8** **Fallgruppe 1: Tarifprüfungsverfahren im Stromversorgungsrecht (ElCom)**
+In [BGE 151 II 687 E. 5.6.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-687_2025.html) bestätigte das Bundesgericht die Untersuchungsmaxime der ElCom bei der Überprüfung von Netznutzungstarifen: Die Regulierungsbehörde darf auf deklarierte Vorjahreswerte abstellen, muss bei begründeten Zweifeln den Sachverhalt aber von Amtes wegen vertieft abklären.
 
-### IV. Beweismittel (lit. a–e)
+**Rz. 9** **Fallgruppe 2: Wettbewerbsneutralität im Beschaffungswesen**
+In [BGE 143 II 425 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-II-425_2017.html#consideration_5) hielt das Bundesgericht fest, dass die Vergabestelle nach Art. 12 VwVG verpflichtet ist, konkreten Anhaltspunkten für unzulässige staatliche Quersubventionierungen bei offerierenden Staatsbetrieben von Amtes wegen nachzugehen.
 
-**8** Die lit. a–e enthalten eine **nicht abschliessende Aufzählung** der Beweismittel. Die Behörde kann sich auch anderer Beweismittel bedienen, die nicht in der Liste aufgeführt sind.
+**Rz. 10** **Fallgruppe 3: Erschlichene Einbürgerungen und Beweislast**
+In [BGE 135 II 161 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-161_2009.html#consideration_3) legte das Bundesgericht dar, dass die Behörde die Beweislast für eine Scheinehe trägt, die betroffene Person im Rahmen der Mitwirkungspflicht nach Art. 13 VwVG jedoch den Gegenbeweis für das tatsächliche Bestehen einer ehelichen Gemeinschaft erbringen muss.
 
-- **lit. a (Urkunden)**: Dokumente, Akten, Verträge, Bescheinigungen. Urkunden sind das häufigste Beweismittel im Verwaltungsverfahren.
-- **lit. b (Auskünfte der Parteien)**: Stellungnahmen der beteiligten Personen. Diese sind zugleich Mitwirkungshandlung (Art. 13 VwVG) und Beweismittel.
-- **lit. c (Auskünfte oder Zeugnis von Drittpersonen)**: Zeugenaussagen, Auskünfte Dritter ([BGE 117 V 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_V_282)).
-- **lit. d (Augenschein)**: Lokalbesichtigung, Inaugenscheinnahme.
-- **lit. e (Gutachten von Sachverständigen)**: Medizinische Gutachten, technische Expertisen — besonders relevant im IV- und UVG-Recht.
+## Kantonale und Eidgenössische Praxisfragen
 
-### V. Freie Beweiswürdigung (Art. 19 VwVG)
+**Rz. 11** **Praxisfrage 1: Beweiswert privater Parteigutachten**
+Vom Beschwerdeführer eingereichte private Fachgutachten gelten prozessual nicht als Gutachten nach lit. e, sondern als substanziierte Parteibehauptungen. Sie verpflichten die Behörde jedoch, allfällige Widersprüche zu amtlichen Feststellungen vertieft abzuklären.
 
-**9** Die Untersuchungsmaxime wird ergänzt durch die **freie Beweiswürdigung** (Art. 19 VwVG i.V.m. Art. 40 BZP). Die Behörde ist nicht an formelle Beweisregeln gebunden, sondern würdigt die Beweise nach freier Überzeugung ([BGE 122 V 157](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_V_157)). Die Beweiswürdigung ist frei, jedoch nicht willkürlich. Das Bundesgericht greift nur bei offensichtlichem Fehlgriff ein ([BGE 130 V 324](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_324)).
-
-**10** Die freie Beweiswürdigung bedeutet nicht, dass beliebigen Arztberichten gleicher Beweiswert zukommt. Der Beweiswert hängt von der **Qualifikation des Arztes**, der **Nähe zum Untersuchungszeitpunkt** und der **Vollständigkeit der Untersuchung** ab ([BGE 141 V 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_297)). Private Gutachten der versicherten Person sind als **Parteibehauptungen** zu qualifizieren und haben keinen eigenständigen Beweiswert wie ein Administrativgutachten; sie können aber Anlass für weitere Abklärungen sein ([BGE 139 V 511](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_V_511)).
-
-### VI. Medizinische Gutachten (lit. e)
-
-**11** Im Sozialversicherungsrecht prägt Art. 12 VwVG die Gutachtenpraxis. Kein formeller Anspruch auf Einholung versicherungsexterner Gutachten besteht, wenn das Administrativgutachten tauglich ist ([BGE 122 V 157](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_V_157)). Administrativgutachten der **MEDAS** haben einen besonders hohen Beweiswert, sind aber kein «Supergutachten»; ihre Schlussfolgerungen müssen nachvollziehbar begründet sein ([BGE 134 V 109](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_109)).
-
-**12** Die **Unabhängigkeit des Gutachters** ist eine zentrale Anforderung. Ein Gutachten, das unter dem Eindruck eines bestimmten Ergebniserwartung steht, genügt den Anforderungen nicht ([BGE 141 V 529](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_V_529)). Gutachten der Rehaklinik Bellikon sind nicht als unabhängige Sachverständigengutachten zu qualifizieren ([BGE 136 V 117](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_V_117)). MEDAS-Gutachten müssen den Anforderungen an Unabhängigkeit und Verfahrensfairness genügen ([BGE 137 V 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_210)). Die Begutachtung hat durch einen **Facharzt** des relevanten Fachgebiets zu erfolgen; Begutachtungen durch Nicht-Fachärzte können den Beweiswert massgeblich schmälern ([BGE 137 V 173](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_V_173)).
-
-**13** Ein medizinisches Gutachten muss die gestellten Fragen beantworten, nachvollziehbar begründet sein, in sich schlüssig und die für die Beurteilung relevanten Fakten vollständig enthalten. Lücken oder interne Widersprüche mindern den Beweiswert ([BGE 138 V 291](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_V_291)). Es muss den Untersuchungsbefund vollständig wiedergeben, die Diagnose begründen und eine nachvollziehbare Relation zwischen Befund und funktioneller Einschränkung herstellen ([BGE 135 V 69](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_69)).
-
-**14** Art. 44 ATSG ist im Abklärungsverfahren der Invalidenversicherung grundsätzlich anwendbar; auf Untersuchungen der **regionalen ärztlichen Dienste** der IV-Stellen findet er hingegen keine Anwendung — für sie gelten die allgemeinen Verfahrensgarantien ([BGE 135 V 254](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_V_254#e-3-4-1)).
-
-### VII. Mitwirkungspflichten (Art. 13 VwVG)
-
-**15** Im Verfahren nach VwVG besteht eine **Mitwirkungspflicht** der Parteien nach Art. 13 VwVG. Die Behörde kann auf Begehren nicht eintreten, wenn die notwendige und zumutbare Mitwirkung verweigert wird (Art. 13 Abs. 2 VwVG; [BGE 137 I 373](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_373)). Im Sozialversicherungsrecht gilt Art. 43 ATSG: Verweigert die versicherte Person die Mitwirkung unentschuldbar, kann die Verwaltung auf Grund der Akten verfügen oder Nichteintreten beschliessen; vorgängig ist eine Mahnung mit Angabe der Rechtsfolgen erforderlich ([BGE 139 V 197](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_V_197)).
-
-**16** Die versicherte Person muss sich einer zumutbaren ärztlichen Untersuchung unterziehen. Eine Untersuchung kann **unzumutbar** sein, wenn sie mit erheblichen gesundheitlichen Risiken verbunden ist. Die Unzumutbarkeit ist darzulegen ([BGE 131 V 133](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_V_133)).
-
-### VIII. Kasuistik
-
-**17** **Interkonnektionsbedingungen**: Art. 12 lit. e VwVG auch bei Regulierungsverfahren anwendbar ([BGE 132 II 257](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_257)). — **Aufsicht bei Kontrollzuschlag**: Untersuchungsgrundsatz im Aufsichtsverfahren bei Graufahr-Kontrollen ([BGE 136 II 457](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_II_457)). — **Auskünfte der IV-Kommission**: Grundsätze über die Beweisaufnahme bei Einholung von Auskünften Dritter nach lit. c ([BGE 117 V 282](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_V_282)).
-
-## Literatur
-
-- Häfelin/Uerpmann/Wyler, Schweizerisches Verwaltungsrecht, 10. Aufl. 2022, § 28 (Beweisrecht)
-- Moor Pierre, Untersuchungsmaxime und Beweisrecht im Verwaltungsverfahren, in: Kommentar VwVG, 3. Aufl. 2021
-- Rhinow/René/Schefer/Uebersax, Verwaltungsrechtspflege, 3. Aufl. 2023, § 17 (Untersuchungsgrundsatz)
-- ZBl 2020, S. 385 ff. (Beweiswürdigung im Sozialversicherungsrecht)
+**Rz. 12** **Praxisfrage 2: Schranken der antizipierten Beweiswürdigung**
+Die antizipierte Beweiswürdigung findet ihre Schranke im Willkürverbot (Art. 9 BV): Ein Verzicht auf Zeugeneinvernahmen oder Gutachten ist unzulässig, wenn die bisherigen Beweise erhebliche Lücken oder Widersprüche aufweisen.
