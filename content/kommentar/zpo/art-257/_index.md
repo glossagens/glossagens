@@ -2,11 +2,16 @@
 title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
-lastmod: "2026-08-14"
-description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen bei unbestrittenem Sachverhalt und klarer Rechtslage — Voraussetzungen, Ausschluss bei Offizialgrundsatz, Nichteintreten."
-tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz", "Klare Fälle", "Unbestrittener Sachverhalt"]
-agent_verified: false
+lastmod: 2026-08-29
+description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen im summarischen Verfahren — unbestrittener/liquider Sachverhalt, klare Rechtslage, Kasuistik bei Mieterausweisungen und Nichteintreten."
+tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
+agent_verified: true
 revisions:
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Praxisorientierte Anreicherung: Vertiefte Kasuistik (Zahlungsverzugskündigung, Kündigungsschutz vs. Ausweisung, Verrechnungseinreden, Arbeitsrecht), kantonale Praxisfragen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -34,60 +39,63 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 257 ZPO eröffnet den **Rechtsschutz in klaren Fällen** — d.h. für Angelegenheiten, in denen der Sachverhalt unbestritten oder sofort beweisbar ist und die Rechtslage klar ist. Diese Norm ist von zentraler praktischer Bedeutung, da sie den **Zugang zu einem schnellen, effizienten Verfahren** ermöglicht, wenn eine vollumfängliche Sachverhaltsermittlung (wie im ordentlichen Verfahren) nicht erforderlich ist. Der Rechtsschutz nach Art. 257 ZPO ist ein **ausserordentliches Instrument** — er greift nur in klaren Fällen und ist kein Ersatz für das ordentliche Verfahren.
+**Rz. 1** Art. 257 ZPO eröffnet einen **beschleunigten Zugang zu einem definitiven Sachurteil** im summarischen Verfahren (Art. 248 lit. b ZPO). Im Gegensatz zu den vorsorglichen Massnahmen (Art. 261 ZPO), die lediglich provisorische Sicherungsanordnungen treffen, ergeht der Gutheissungsentscheid nach Art. 257 ZPO als materiell rechtskräftiges und vollstreckbares Endurteil ([BGE 138 III 620 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-620_2012.html)).
 
-## Tatbestandsmerkmale
+**Rz. 2** Die Norm hat in der gerichtlichen Praxisragende Bedeutung, insbesondere bei **Mieterausweisungen** nach Zahlungsverzug oder Kündigung sowie bei unbestrittenen Geld- und Herausgabeforderungen. Da das Verfahren ohne vorangehende Schlichtung direkt beim Gericht eingeleitet wird (Art. 198 lit. a ZPO), schützt es den Kläger vor zeitraubenden Schikanen, verlangt aber im Gegenzug strikte Liquidität von Sachverhalt und Rechtslage.
 
-### 1. Unbestrittener oder sofort beweisbarer Sachverhalt (Abs. 1 lit. a)
+## Kommentierung
 
-**Unbestritten** ist der Sachverhalt, wenn die Parteien über die **massgebenden Tatsachen** einig sind. Eine Meinungsverschiedenheit über die **rechtliche Bewertung** (z.B. ob eine Vertragsklausel gültig ist) berührt die Unbestrittenheit des Sachverhalts nicht — der Sachverhalt ist unbestritten, wenn die Fakten geklärt sind.
+### I. Die kumulativen Voraussetzungen (Abs. 1)
 
-**Sofort beweisbar** ist der Sachverhalt, wenn er mit **einfachen, schnell verfügbaren Beweismitteln** (z.B. Urkunden, unstrittige Zeugenaussagen) bewiesen werden kann. Die Beweisaufnahme darf nicht komplex oder zeitaufwendig sein — eine mehrstufige Beweisführung mit umfangreichen Gutachten oder zahlreichen Zeugen ist mit dem summarischen Verfahren nicht vereinbar.
+#### 1. Unbestrittener oder sofort beweisbarer Sachverhalt (lit. a)
 
-### 2. Klare Rechtslage (Abs. 1 lit. b)
+**Rz. 3** **Beweismass für den Kläger**: Der Kläger hat die anspruchsbegründenden Tatsachen voll zu beweisen (Regelbeweismass der vollen richterlichen Überzeugung; Glaubhaftmachung genügt nicht, [BGE 144 III 462 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-462_2018.html#consideration_3.1)).
 
-Die **Rechtslage** ist klar, wenn die massgebende Rechtsfrage **eindeutig** zu beantworten ist — entweder weil das Gesetz eindeutig ist, oder weil die Rechtsprechung die Frage bereits geklärt hat und keine neuen Gesichtspunkte vorliegen. Eine umstrittene Rechtsfrage, bei der verschiedene Ansichten vertreten werden, ist nicht "klar" im Sinne von Art. 257 lit. b ZPO.
+**Rz. 4** **Sofortige Beweisbarkeit (Liquidität)**: Der Beweis muss ohne zeitliche Verzögerung mit liquiden, sofort verfügbaren Beweismitteln erbracht werden können. In der Praxis bedeutet dies im Wesentlichen den **Urkundenbeweis** (Art. 177 ff. ZPO). Zeitaufwendige Beweiserhebungen wie Sachverständigengutachten, Augenscheine oder umfangreiche Zeugeneinvernahmen sind mit dem Wesen des Rechtsschutzes in klaren Fällen unvereinbar ([BGE 138 III 123 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-123_2012.html#consideration_2.1.1)).
 
-**Beispiele für klare Rechtslagen**:
-- Eindeutige Vertragsverletzung (z.B. unbezahlte Rechnung bei unbestrittenem Vertrag)
-- Klare Eigentumsverletzung (z.B. unberechtigte Besitznahme einer Sache)
-- Unstrittiger Unterhaltsanspruch mit klarem Einkommen
+**Rz. 5** **Anforderungen an die Einwendungen des Beklagten**: 
+* Die beklagte Partei muss ihre tatsächlichen Einwendungen oder Einreden **nicht beweisen**. Es genügt, dass sie diese **substanziiert und schlüssig vorträgt**, sodass der Sachverhalt nicht mehr als unbestritten oder liquid gelten kann ([BGE 138 III 620 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-620_2012.html#consideration_6.2)).
+* Offensichtlich haltlose, unsubstanziierte oder querulatorische Bestreitungen bringen den Rechtsschutz hingegen nicht zu Fall ([BGE 141 III 262 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-262_2015.html#consideration_3.2)).
 
-**Gegenbeispiele** (keine klare Rechtslage):
-- Komplexe vertragsrechtliche Auslegungsfragen
-- Neue rechtliche Fragen ohne klare Rechtsprechung
-- Fragen, bei denen verschiedene kantonale Praktiken auseinandergehen
+#### 2. Klare Rechtslage (lit. b)
 
-### 3. Ausschluss bei Offizialgrundsatz (Abs. 2)
+**Rz. 6** Die Rechtslage ist klar, wenn sich die Rechtsfolge bei der Rechtsanwendung auf den Sachverhalt **eindeutig und zweifelsfrei** aus dem Gesetzestext oder einer gefestigten, unbestrittenen Lehre und Rechtsprechung ergibt ([BGE 138 III 123 E. 2.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-123_2012.html#consideration_2.1.2)).
 
-Wenn die Angelegenheit dem **Offizialgrundsatz** unterliegt (d.h. das Gericht hat den Sachverhalt von Amtes wegen zu ermitteln — Art. 135 ZPO), ist der Rechtsschutz nach Art. 257 ZPO **ausgeschlossen**. Der Grund: Bei Offizialmaxime trägt das Gericht die Verantwortung für die Sachverhaltsermittlung — eine Beschränkung auf unbestrittene oder sofort beweisbare Tatsachen wäre mit dieser Verantwortung nicht vereinbar.
+**Rz. 7** **Ausschluss bei Ermessens- und Wertungsentscheiden**: 
+* Eine klare Rechtslage ist in der Regel **ausgeschlossen**, wenn die anzuwendende Bestimmung dem Richter einen **Ermessens- oder Billigkeitsspielraum** einräumt (Art. 4 ZGB), wie etwa bei der Beurteilung von Rechtsmissbrauch, Angemessenheit oder Herabsetzungsgründen ([BGE 138 III 123 E. 2.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-123_2012.html#consideration_2.1.2); [BGE 144 III 462 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-462_2018.html#consideration_3.1)).
+* Ebenso fehlt die Klarheit, wenn eine Rechtsfrage höchstrichterlich noch ungeklärt ist und in der Doktrin kontrovers diskutiert wird.
 
-**Betroffene Verfahren**: Insbesondere Kindesschutzverfahren (Art. 135 ZPO), Ehesachen (Art. 135 ZPO) und andere Verfahren mit Untersuchungsmaxime.
+### II. Ausschluss bei Offizialgrundsatz (Abs. 2)
 
-### 4. Nichteintreten bei Unanwendbarkeit (Abs. 3)
+**Rz. 8** Unterliegt der Streitgegenstand dem **Offizialgrundsatz** (z.B. Kinderbelange in familienrechtlichen Verfahren nach Art. 296 ZPO, vorsorgliche Massnahmen im Kindesschutz), ist der Rechtsschutz in klaren Fällen kraft ausdrücklicher gesetzlicher Anordnung ausgeschlossen. In diesen Bereichen darf das Gericht seine Entscheidung nicht auf blosse Parteiunbestrittenheit stützen.
 
-Kann der Rechtsschutz nach Art. 257 ZPO nicht gewährt werden (z.B. weil der Sachverhalt nicht unbestritten ist, die Rechtslage nicht klar ist oder der Offizialgrundsatz eingreift), tritt das Gericht auf das Gesuch **nicht ein**. Die klagende Partei muss dann den Weg des **ordentlichen Verfahrens** (Art. 219 ff. ZPO) oder eines anderen summarischen Verfahrens (z.B. vorsorgliche Massnahmen nach Art. 261 ff. ZPO) wählen.
+### III. Rechtsfolge bei fehlenden Voraussetzungen: Nichteintreten (Abs. 3)
 
-## Abgrenzungen
+**Rz. 9** Sind die Voraussetzungen von Art. 257 Abs. 1 ZPO nicht erfüllt (z.B. weil Tatsachen bestritten sind, die Rechtslage kontrovers ist oder Ermessen vorliegt), darf das Gericht die Klage **nicht materiell abweisen**, sondern muss auf das Gesuch **nichteintreten** ([BGE 140 III 315 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-315_2014.html#consideration_5)).
 
-### Art. 257 ZPO vs. Art. 248 ZPO (Katalog summarischer Verfahren)
+**Rz. 10** **Wirkung des Nichteintretens**: Der Nichteintretensentscheid ist ein reiner Prozessentscheid ohne materielle Rechtskraftwirkung bezüglich des materiellen Anspruchs. Dem Kläger steht es frei, denselben Anspruch nach Durchführung des Schlichtungsverfahrens im ordentlichen oder vereinfachten Verfahren neu anhängig zu machen.
 
-Art. 248 ZPO enthält einen **Katalog** von Angelegenheiten, die im summarischen Verfahren zu erledigen sind (z.B. vorsorgliche Massnahmen, Schuldbetreibung, Mietrecht). Art. 257 ZPO ist **allgemein** und eröffnet den summarischen Rechtsschutz für alle Angelegenheiten, die nicht im Katalog von Art. 248 ZPO aufgeführt sind, aber dennoch die Voraussetzungen von Art. 257 ZPO erfüllen (klare Fälle).
+### IV. Kasuistik: Typische Anwendungsbereiche
 
-### Art. 257 ZPO vs. Art. 261 ff. ZPO (Vorsorgliche Massnahmen)
+**Rz. 11** **Fallgruppe 1: Mieterausweisung nach Zahlungsverzugskündigung (Art. 257d OR)**
+In der Praxis der häufigste Anwendungsfall. Der Vermieter weist durch Urkunden den Mietvertrag, die Zahlungsaufforderung mit 30-tägiger Kündigungsandrohung, den Zugang der Mahnung, das Ausbleiben des fristgerechten Zahlungseingangs und die Kündigung auf amtlichem Formular nach ([BGE 144 III 462 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-462_2018.html#consideration_3)). Bestreitet der Mieter den Formularzugang nicht substanziiert, ist der Ausweisungsbefehl im summarischen Verfahren zu erteilen.
 
-Vorsorgliche Massnahmen (Art. 261 ff. ZPO) sind **vorläufig** und werden im summarischen Verfahren gewährt, um einen drohenden Nachteil abzuwenden. Art. 257 ZPO hingegen gewährt **definitiven** Rechtsschutz — der Entscheid ist endgültig, nicht vorläufig. Die Voraussetzungen sind unterschiedlich: Vorsorgliche Massnahmen verlangen **Glaubhaftmachung** und **Dringlichkeit**, Art. 257 ZPO verlangt **Unbestrittenheit** und **klare Rechtslage**.
+**Rz. 12** **Fallgruppe 2: Ausweisungsbegehren bei hängiger Kündigungsschutzklage**
+Erhebt der Mieter bei der Schlichtungsbehörde Kündigungsschutzklage (Anfechtung der Kündigung oder Erstreckung), hindert dies den Vermieter nicht daran, parallel ein Ausweisungsgesuch gestützt auf Art. 257 ZPO beim Gericht einzureichen ([BGE 141 III 262 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-262_2015.html#consideration_3); [BGer 4A_184/2015 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-184-2015_2015-08-11.html)). Erweist sich die Kündigung im summarischen Verfahren als offensichtlich gültig (z.B. bei unstrittigem Zahlungsverzug), wird die Ausweisung verfügt; das Verfahren vor der Schlichtungsbehörde wird damit gegenstandslos.
 
-## Einordnung in die Rechtsprechung
+**Rz. 13** **Fallgruppe 3: Verrechnungseinreden des Beklagten**
+Macht die beklagte Partei gegenüber dem klägerischen Anspruch eine Gegenforderung zur Verrechnung geltend, scheitert der Rechtsschutz nach Art. 257 ZPO nur dann nicht, wenn die Gegenforderung ihrerseits sofort liquide und unbestritten ist ([BGE 138 III 620 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-620_2012.html#consideration_6.2)). Trägt der Beklagte hingegen substanziierte Gegenforderungen (z.B. Schadenersatz wegen Mängeln) vor, die nicht sofort urkundlich widerlegt werden können, muss das Gericht auf das Gesuch nach Art. 257 Abs. 3 ZPO nicht eintreten.
 
-Die Rechtsprechung zu Art. 257 ZPO ist breit und konzentriert sich auf die Auslegung der Voraussetzungen:
+**Rz. 14** **Fallgruppe 4: Rückgabe von Geschäftsunterlagen nach Beendigung des Arbeitsverhältnisses**
+Ein Arbeitgeber verlangte gestützt auf Art. 339a OR und Art. 257 ZPO die Herausgabe sämtlicher Kundendossiers und Geschäftsunterlagen durch einen ausgeschiedenen Mitarbeiter ([BGE 141 III 23 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-23_2015.html#consideration_3)). Das Bundesgericht entschied, dass das Gesuch im klaren Fall nur dann geschützt werden kann, wenn der Anspruch bezüglich sämtlicher verlangter Aktenstücke vollumfänglich liquid ist; andernfalls ist auf das gesamte Gesuch nicht einzutreten.
 
-1. **Unbestrittenheit**: Das Bundesgericht hat klargestellt, dass die Unbestrittenheit **alle massgebenden Tatsachen** betrifft — nicht nur einen Teil. Es genügt, dass die beklagte Partei substanziiert und schlüssig Einwendungen vorträgt, die der Durchsetzung des Anspruchs entgegenstünden, wenn sie tatsächlich und rechtlich begründet wären; beweisen muss sie diese Einwendungen nicht. Der Beweislastverteilung kommt in diesem Verfahren keine entscheiderhebliche Bedeutung zu ([BGE 138 III 620, E. 6.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_620#e-6-2)).
+**Rz. 15** **Fallgruppe 5: Geschäftsraumausweisungen vor Handelsgericht**
+Besteht zwischen zwei im Handelsregister eingetragenen Rechtssubjekten ein Streit über die Räumung von Geschäftsliegenschaften, ist das Handelsgericht auch für das Verfahren um Rechtsschutz in klaren Fällen sachlich zuständig ([BGE 142 III 515 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-515_2016.html#consideration_2.2)).
 
-2. **Klare Rechtslage**: Die Rechtslage muss **eindeutig** sein. Eine umstrittene Rechtsfrage, bei der verschiedene Ansichten vertreten werden, ist nicht "klar". Eine klare Rechtslage setzt voraus, dass die Rechtsanwendung zu einem eindeutigen Ergebnis führt; das trifft in der Regel nicht zu, wenn die Anwendung einer Norm einen Ermessens- oder Billigkeitsentscheid erfordert ([BGE 138 III 123, E. 2.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_123#e-2-1-2)).
+### V. Kantonale Praxisfragen
 
-3. **Nichteintreten**: Das Nichteintreten nach Abs. 3 ist eine **prozessuale Sanktion**, die die klagende Partei auf den Weg des ordentlichen Verfahrens verweist. Das Nichteintreten ist keine Sachentscheidung; die klagende Partei kann denselben Anspruch im ordentlichen Verfahren erneut geltend machen.
+**Rz. 16** **Praxisfrage 1: Vertretungsverhältnisse auf dem amtlichen Kündigungsformular**
+Im kantonalen Ausweisungsverfahren nach Art. 257 ZPO stellt sich regelmässig die Frage, ob Mängel bei der Bezeichnung des Vertreters auf dem amtlichen Kündigungsformular die Rechtslage unklar machen. Das [Obergericht des Kantons Schaffhausen (10/2025/5 vom 29. August 2025)](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_10-2025-5_2025-08-29.html) hielt fest, dass die Rechtslage klar bleibt, wenn der Mieter um das Vertretungsverhältnis wusste oder dieses aus den Gesamtumständen zweifelsfrei erkennen konnte.
 
-## Fazit
-
-Art. 257 ZPO ist ein wertvolles Instrument für den **schnellen Rechtsschutz** in klaren Fällen. Die Voraussetzungen sind jedoch **streng**: Der Sachverhalt muss unbestritten oder sofort beweisbar sein, und die Rechtslage muss klar sein. Bei Offizialgrundsatz ist der Rechtsschutz ausgeschlossen. Kann der Rechtsschutz nicht gewährt werden, tritt das Gericht auf das Gesuch nicht ein — die klagende Partei muss den Weg des ordentlichen Verfahrens wählen. Die Norm ist in der Praxis ein wichtiges Instrument für einfache, unstrittige Angelegenheiten, bei denen ein ordentliches Verfahren unverhältnismässig wäre.
+**Rz. 17** **Praxisfrage 2: Ausschluss abweichender kantonaler Ausweisungsverfahren**
+Vor Inkrafttreten der ZPO sahen einzelne Kantone (z.B. Kanton Schwyz) besondere summarische Befehlsverfahren für Mieterausweisungen vor. Das Bundesgericht stellte klar, dass Art. 257 ZPO das Ausweisungsverfahren im summarischen Rechtsschutz bundesrechtlich abschliessend regelt und entgegenstehende kantonale Zuweisungsnormen derogiert sind ([BGE 139 III 38 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-38_2013.html#consideration_2)).
