@@ -9,7 +9,7 @@ agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
-    model: "claude-sonnet-5"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, kantonale Praxis ergänzt, Revisions-Vermerk ergänzt"
 ---
