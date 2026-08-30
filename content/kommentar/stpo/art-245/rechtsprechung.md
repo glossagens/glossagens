@@ -32,16 +32,11 @@ revisions:
 - **Einschlägig für**: Abs. 2 i.V.m. Art. 248 StPO
 
 ### [BGE 140 IV 57](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-57_2014.html) E. 2.2
-- **Thema**: Überprüfungsbefugnis bei Zwangsmassnahmen
+- **Thema**: Überprüfungsbefugnis und Grundrechtsschutz bei Zwangsmassnahmen
 - **Kernaussage**: Das Bundesgericht prüft die Rechtmässigkeit von strafprozessualen Zwangsmassnahmen wie Hausdurchsuchungen und Beschlagnahmen mit freier Kognition; die Kognitionsbeschränkung nach Art. 98 BGG für vorsorgliche Massnahmen kommt nicht zur Anwendung.
 - **Einschlägig für**: Abs. 1 und 2
 
-### [BGE 138 IV 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-169_2012.html) E. 3.2
-- **Thema**: Grundrechtsschutz bei Durchsuchungen von Privaträumen
-- **Kernaussage**: Die Durchsuchung von Wohn- und Geschäftsräumen stellt einen schwerwiegenden Eingriff in das Grundrecht auf Achtung des Privatlebens und der Wohnung (Art. 13 BV, Art. 8 EMRK) dar. Die Durchführungsmodalitäten bezwecken die Schonung der Betroffenen und die Gewährleistung transparenter Beweissicherung.
-- **Einschlägig für**: Abs. 1 und 2
-
-### [BGE 151 IV 18](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-18_2025.html) E. 4.3
+### [BGE 151 IV 18](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-18_2025.html) E. 4.3 f.
 - **Thema**: Formvorschriften bei Zwangsmassnahmen und Gültigkeitserfordernisse
 - **Kernaussage**: Mündlich angeordnete Zwangsmassnahmen bedürfen der zeitnahen schriftlichen Bestätigung. Die Einhaltung der gesetzlichen Förmlichkeiten dient der Rechtssicherheit und Rechtskontrolle im Nachgang zur Vollziehung.
 - **Einschlägig für**: Abs. 1
@@ -50,7 +45,7 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide
 
-### [BGer 1B_215/2015 vom 24.11.2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-215-2015_2015-11-24.html) E. 2.3
+### [BGer 1B_215/2015 vom 24.11.2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-215-2015_2015-11-24.html) E. 4.1
 - **Thema**: Vorweisen des Befehls zu Beginn der Massnahme und Zweck der Anwesenheit
 - **Kernaussage**: Die Pflicht zur Vorweisung des Hausdurchsuchungsbefehls zu Beginn der Massnahme soll der betroffenen Person die Überprüfung der Rechtmässigkeit und der Befugnisse der handelnden Beamten ermöglichen. Das Beiwohnungsrecht schützt davor, dass Beweise unbemerkt manipuliert oder Gegenstände ungerechtfertigt entwendet werden.
 
@@ -58,29 +53,25 @@ revisions:
 - **Thema**: Begriff der Räumlichkeiten und Abgrenzung zur polizeilichen Festnahme
 - **Kernaussage**: Der Begriff der nicht allgemein zugänglichen Räume in Art. 244 f. StPO knüpft an den Schutzbereich von Art. 186 StGB an. Müssen im Rahmen einer Fahndung oder Festnahme private Räume betreten werden, sind die Regeln über die Hausdurchsuchung zwingend zu beachten.
 
-### [BGer 1B_188/2020 vom 24.04.2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-188-2020_2020-04-24.html) E. 2.1
-- **Thema**: Zuständigkeit und Delegation bei der Vollziehung von Durchsuchungen
-- **Kernaussage**: Die Staatsanwaltschaft kann die operative Durchführung der Hausdurchsuchung an die Polizei delegieren. Die polizeilichen Einsatzkräfte sind an den im Befehl festgelegten Durchsuchungsrahmen gebunden.
-
-### [BGer 7B_93/2022 vom 27.08.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-93-2022_2024-08-27.html) E. 3.2
-- **Thema**: Protokollierung der Durchsuchung und Sicherstellung
-- **Kernaussage**: Über den Verlauf der Hausdurchsuchung und sämtliche sichergestellten Gegenstände ist zwingend ein genaues Protokoll bzw. Verzeichnis zu erstellen. Das Protokoll dient der Beweissicherung und ermöglicht der betroffenen Person die spätere Rüge allfälliger Verfahrensmängel.
+### [BGer 1B_726/2012 vom 26.02.2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-726-2012_2013-02-26.html) E. 5.2
+- **Thema**: Begrenzungs- und Überprüfungsfunktion des Durchsuchungsbefehls bei polizeilichem Vollzug
+- **Kernaussage**: Der schriftliche Hausdurchsuchungsbefehl steckt die Grenzen der polizeilichen Befugnisse ab und ermöglicht der betroffenen Person die Überprüfung der Massnahme. Die Vollzugsorgane dürfen die gesetzten Grenzen nicht eigenmächtig überschreiten.
 
 ### [BGer 1B_179/2012 vom 13.04.2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-179-2012_2012-04-13.html) E. 2.2
 - **Thema**: Qualifikation von Art. 245 StPO als Ordnungsvorschrift
 - **Kernaussage**: Die Vorschriften über die Durchführungsmodalitäten einer Hausdurchsuchung nach Art. 245 StPO stellen grundsätzlich Ordnungsvorschriften dar. Eine Verletzung des Beiwohnungsrechts führt nicht automatisch zur Unverwertbarkeit sichergestellter Sachbeweise, sofern die Durchsuchung an sich materiell zulässig war.
 
-### [BGer 1B_134/2018 vom 24.09.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-134-2018_2018-09-24.html) E. 3.1
+### [BGer 1B_134/2018 vom 24.09.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-134-2018_2018-09-24.html) E. 2.7
 - **Thema**: Kein generelles Anwesenheitsrecht der Verteidigung bei Durchsuchungen
-- **Kernaussage**: Die Parteirechte nach Art. 147 StPO (Teilnahmerecht) beziehen sich auf Beweiserhebungen wie Einvernahmen und Augenscheine. Bei rein operativen Zwangsmassnahmen wie der Hausdurchsuchung besteht kein Anspruch auf Zuwarten bis zum Eintreffen der Verteidigung, da dies den Überraschungs- und Sicherungszweck vereiteln könnte.
+- **Kernaussage**: Die Parteirechte nach Art. 147 StPO (Teilnahmerecht) beziehen sich auf Beweiserhebungen wie Einvernahmen und Augenscheine. Bei rein operativen Zwangsmassnahmen wie der Hausdurchsuchung besteht kein gesetzlicher Anspruch auf Zuwarten bis zum Eintreffen der Verteidigung, da dies den Überraschungs- und Sicherungszweck vereiteln könnte.
 
 ### [BGer 6B_899/2017 vom 03.05.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-899-2017_2018-05-03.html) E. 1.7.2
-- **Thema**: Abgrenzung von öffentlich zugänglichen Lokalen und privaten Räumen
+- **Thema**: Abgrenzung von öffentlich zugänglichen Gasträumen und privaten Räumen
 - **Kernaussage**: Beim Betreten von öffentlich zugänglichen Gasträumen liegt keine Hausdurchsuchung vor; ein Befehl nach Art. 245 Abs. 1 StPO ist dafür nicht erforderlich. Werden jedoch Hinterräume oder private Büroabteile durchsucht, greift Art. 245 StPO vollumfänglich.
 
-### [BGer 6B_307/2017 vom 19.02.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-307-2017_2018-02-19.html) E. 3.3
-- **Thema**: Rechtsmissbräuchliche Umgehung des Beiwohnungsrechts
-- **Kernaussage**: Wird die anwesende Person von der Polizei vorsätzlich oder treuwidrig daran gehindert, der Durchsuchung beizuwohnen, ohne dass dafür ein rechtfertigender Grund (wie akute Gegenwehr oder Fluchtgefahr) vorliegt, kann dies die Verwertbarkeit der aufgefundenen Beweismittel im Lichte von Art. 141 Abs. 2 StPO in Frage stellen.
+### [BGer 6B_860/2018 vom 18.12.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-860-2018_2018-12-18.html) E. 2.4
+- **Thema**: Tragweite von Verfahrensmängeln beim Durchsuchungsvollzug
+- **Kernaussage**: Formvorschriften bei der praktischen Durchführung von Durchsuchungen dienen der geordneten Beweissicherung. Mängel beim Vollzug berühren die Verwertbarkeit aufgespürter Gegenstände nur bei schwerwiegenden Rechtsverletzungen oder treuwidrigem Verhalten.
 
 ---
 
@@ -88,18 +79,18 @@ revisions:
 
 ### [TG Obergericht RBOG 2025 Nr. 30](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--30_2025.html)
 - **Kanton**: Thurgau
-- **Thema**: Verwertbarkeit von Beweisen aus einer Hausdurchsuchung in Abwesenheit
-- **Kernaussage**: Die Bestimmungen von Art. 245 StPO bezwecken die ordnungsgemässe Abwicklung der Durchsuchung. Die Abwesenheit der beschuldigten Person macht gefundene Sachbeweise nicht per se unverwertbar, wenn die Massnahme zur Aufklärung einer schweren Straftat unerlässlich war.
+- **Thema**: Verwertbarkeit von Beweisen aus einer Hausdurchsuchung in Abwesenheit und Schriftlichkeitserfordernis
+- **Kernaussage**: Bei den Durchführungsmodalitäten gemäss Art. 245 StPO handelt es sich um Ordnungsvorschriften; das Fehlen eines schriftlichen Hausdurchsuchungsbefehls nach Art. 241 Abs. 1 StPO stellt dagegen eine Gültigkeitsvorschrift dar. Die Abwesenheit der beschuldigten Person macht gefundene Sachbeweise nicht per se unverwertbar.
 
 ### [TG Obergericht RBOG 2023 Nr. 42](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2023-Nr--42_2023.html)
 - **Kanton**: Thurgau
 - **Thema**: Verhältnismässigkeit der Durchführung und Beizug Dritter
 - **Kernaussage**: Bei Abwesenheit der Rauminhaberin hat die Polizei pflichtgemäss zu prüfen, ob der Beizug eines Familienangehörigen oder einer Vertrauensperson möglich und zweckmässig ist, ohne dass die Beweissicherung gefährdet wird.
 
-### [BS Appellationsgericht BES.2022.102 vom 24.01.2023](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-102_2023-01-24.html)
+### [BS Appellationsgericht BES.2022.102 vom 24.01.2023](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-102_2023-01-24.html) E. 3.2
 - **Kanton**: Basel-Stadt
-- **Thema**: Vorweisen des Befehls und Eilkompetenz bei Gefahrenlagen
-- **Kernaussage**: Bei akuter Gefahrenlage (Verdacht auf Sprengstoff oder Waffen) darf das Betreten der Räumlichkeiten der formellen Befehlsvorweisung vorangehen, um die Sicherheit der Einsatzkräfte zu gewährleisten; der Befehl ist unverzüglich nach Sicherung der Lage vorzuweisen.
+- **Thema**: Aushändigung von Durchsuchungsbefehl und Durchsuchungsprotokoll an betroffene Rauminhaber
+- **Kernaussage**: Betroffene Rauminhaber (auch Mitbewohner) haben Anspruch auf Aushändigung einer Kopie des Durchsuchungsbefehls und des Protokolls. Die Verletzung von Art. 245 StPO stellt eine Ordnungsvorschrift dar.
 
 ### [BS Appellationsgericht BES.2019.78 vom 30.07.2019](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2019-78_2019-07-30.html)
 - **Kanton**: Basel-Stadt
@@ -116,15 +107,15 @@ revisions:
 - **Thema**: Vorweisung des Durchsuchungsbefehls bei polizeilicher Festnahme
 - **Kernaussage**: Wird die beschuldigte Person vor Ort festgenommen, ist ihr der Durchsuchungsbefehl vor Beginn der Wohnungsdurchsuchung auszuhändigen oder zur Kenntnis zu bringen; die polizeiliche Dokumentation muss den Zeitpunkt der Eröffnung festhalten.
 
-### [SG Kantonsgericht AK.2022.354-AK vom 02.11.2022](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2022-354-AK_2022-11-02.pdf)
+### [SG Kantonsgericht AK.2022.354-AK vom 02.11.2022](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2022-354-AK_2022-11-02.pdf) E. 2
 - **Kanton**: St. Gallen
 - **Thema**: Rechtsschutzinteresse bei abgeschlossener Hausdurchsuchung
 - **Kernaussage**: Gegen eine bereits abgeschlossene Hausdurchsuchung besteht nur dann ein aktuelles praktisches Rechtsschutzinteresse für eine Beschwerde nach Art. 382/393 StPO, wenn keine Siegelung oder Beschlagnahme erfolgte und die Rüge einer schwerwiegenden Grundrechtsverletzung im Raum steht.
 
 ### [GL Obergericht OG.2020.00067 vom 13.11.2020](https://entscheidsuche.ch/docs/GL_Omni/GL_OG_001_OG-2020-00067_2020-11-13.html)
 - **Kanton**: Glarus
-- **Thema**: Rechtmässigkeit des Beizugs von Ersatzpersonen bei Abwesenheit
-- **Kernaussage**: Ist der Inhaber nachweislich nicht erreichbar, genügt für die Wahrung der Verfahrensrechte die Hinzuziehung einer neutralen Amtsperson oder eines volljährigen Mitbewohners.
+- **Thema**: Durchsuchung einer Wohngemeinschaft bei Anwesenheit eines Mitbewohners
+- **Kernaussage**: Bei einer WG-Wohnung mit Zugang des anwesenden Beschuldigten zu allen Räumen ist die Durchsuchung der Gemeinschafts- und Wohnräume nach den im Befehl genannten Gegenständen rechtmässig, auch wenn ein Mitbewohner abwesend ist.
 
 ### [SO Obergericht STBER.2018.15 vom 13.09.2018](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STBER-2018-15_2018-09-13.html)
 - **Kanton**: Solothurn
