@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 19 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-08-23
-description: "Übersicht der Rechtsprechung zu Art. 19 StGB — Schuldfähigkeit, Schuldunfähigkeit, verminderte Schuldfähigkeit, Massnahmen und actio libera in causa."
-tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Massnahmen", "Allgemeiner Teil"]
+lastmod: "2026-08-30"
+description: "Übersicht der Rechtsprechung zu Art. 19 StGB — Schuldfähigkeit: alkoholbedingte Enthemmung, Strafzumessung bei verminderter Schuldfähigkeit, selbstständiges Massnahmeverfahren und actio libera in causa."
+tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Schuldunfähigkeit", "Massnahmen", "Actio libera in causa", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-30
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau: 5 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 107 IV 3 (alkoholbedingte Enthemmung, Raubversuch), BGE 136 IV 55 (Strafzumessung), BGE 134 IV 132 (Strafrahmenverschiebung), BGE 143 IV 330 (Haftverfahren, Schuldfragen), BGE 147 IV 93 (selbstständiges Massnahmeverfahren); fabrizierte und irrelevante Zitate entfernt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -21,72 +26,38 @@ revisions:
 
 ## I. Leitentscheide des Bundesgerichts
 
-### [BGE 136 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_IV_55) E. 5.5 — Strafzumessung bei verminderter Schuldfähigkeit
-- **Thema**: Begründungspflicht bei verschuldensmindernder Berücksichtigung.
-- **Kernaussage**: Der Richter muss im Urteil nachvollziehbar darlegen, in welchem konkreten Umfang sich die herabgesetzte Schuldfähigkeit strafmildernd auswirkt.
-- **Einschlägig für**: Art. 19 Abs. 2 StGB, Art. 47 StGB.
+### [BGE 107 IV 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-107-IV-3_1981-01-20.html) E. 1a — Alkoholbedingte Enthemmung begründet keine Schuldminderung; actio libera in causa
+
+- **Sachverhalt**: K. hielt sich am Abend des 3. Mai 1980 zusammen mit seiner Freundin in verschiedenen Restaurants auf und konsumierte Bier, Wein und Whisky in nicht mehr genau feststellbarer Menge. Nachdem er um ca. 1 Uhr nachts mit dem Taxi nach St. Gallen gefahren war und sich von seiner Freundin verabschiedet hatte, fuhr er um 1:40 Uhr zum Restaurant A. zurück. Das Lokal war inzwischen geschlossen; auf sein Klopfen wurde ihm nicht geöffnet. Er begab sich zum nebenan gelegenen Restaurant B., schlug ein Fenster ein, drang ins Gebäude ein und stieg ins Schlafzimmer des 80jährigen Wirts Z. Er verlangte von Z. die Herausgabe von Geld und drohte, ihn sonst zusammenzuschlagen. Als Z. Widerstand leistete, erkannte K. das Risiko als zu gross und flüchtete.
+- **Kernaussage**: Nicht jede durch den Konsum von Alkohol bewirkte kurzfristige Enthemmung oder Verdummung genügt, um die Zurechnungsfähigkeit herabzusetzen. Massgebend ist das gesamte Verhalten des Täters vor, während und nach der Tat. Das folgerichtige Vorgehen — gezielter Einbruch, Drohung, und die Flucht bei Widerstand — zeugte von erhaltener Einsichts- und Steuerungsfähigkeit. Gleiches gilt für die Wirkung anderer bewusstseins- und willensbeeinflussender Drogen (E. 1a).
+- **Einschlägig für**: Art. 19 Abs. 1 und 4 StGB, Art. 10 f. StGB (alkoholbedingte Enthemmung, actio libera in causa, Steuerungsfähigkeit).
 
 ---
 
-### [BGE 134 IV 132](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_132) E. 6 — Grundsätze zur Schuldfähigkeit
-- **Thema**: Methodik der Strafrahmenverschiebung.
-- **Kernaussage**: Die verminderte Schuldfähigkeit führt zu einer obligatorischen Strafmilderung nach Art. 48a StGB.
-- **Einschlägig für**: Art. 19 Abs. 2 StGB.
+### [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) E. 5.5–5.8 — Strafzumessung bei verminderter Schuldfähigkeit; Begründungspflicht
+
+- **Kernaussage**: Ausgehend von der objektiven Tatschwere hat der Richter das (subjektive) Tatverschulden zu bewerten und dabei die verminderte Schuldfähigkeit zu berücksichtigen. Er muss dartun, in welchem Umfang sich diese verschuldensmindernd auswirkt (E. 5.5, 5.6). Die Gesamteinschätzung des Tatverschuldens ist im Urteil zu benennen (E. 5.7). Die verminderte Schuldfähigkeit allein führt grundsätzlich nicht zur Unterschreitung des ordentlichen Strafrahmens; dazu bedarf es weiterer, ins Gewicht fallender Umstände, die das Verschulden als besonders leicht erscheinen lassen (E. 5.8).
+- **Einschlägig für**: Art. 19 Abs. 2 StGB, Art. 47, Art. 48a StGB (Strafzumessung, verminderte Schuldfähigkeit, Strafrahmenverschiebung).
 
 ---
 
-### [BGE 143 IV 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_330) E. 2.2 — Massnahmen und Schuldunfähigkeit
-- **Thema**: Massnahmenanordnung bei fehlender Schuldfähigkeit.
-- **Kernaussage**: Auch bei voller Schuldunfähigkeit können freiheitsentziehende Massnahmen zur Gefahrenabwehr angeordnet werden.
-- **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 59 StGB.
+### [BGE 134 IV 132](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-132_2008.html) E. 6 — Strafrahmenverschiebung bei verminderter Schuldfähigkeit
+
+- **Kernaussage**: Die verminderte Schuldfähigkeit führt zu einer obligatorischen Strafmilderung nach Art. 48a StGB (E. 6.1). Bestätigt und klärt die Grundsätze zur Strafzumessung bei verminderter Schuldfähigkeit. Die Unterschreitung des ordentlichen Strafrahmens ist nur zulässig, wenn besondere Umstände dafür sprechen, die in der Urteilsbegründung darzulegen sind (E. 6.6).
+- **Einschlägig für**: Art. 19 Abs. 2 StGB, Art. 48a StGB (obligatorische Strafmilderung, Strafrahmenverschiebung).
 
 ---
 
-### [BGE 147 IV 93](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_93) E. 1.3.2 — Selbstständiges Massnahmeverfahren
-- **Thema**: Verfahrensrechtliche Behandlung schuldunfähiger Beschuldigter.
-- **Kernaussage**: Das selbstständige Massnahmeverfahren nach Art. 374 StPO dient der Durchsetzung von Art. 19 Abs. 3 StGB unter Wahrung der Parteirechte.
-- **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 374 StPO.
+### [BGE 143 IV 330](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-330_2017.html) E. 2.2 — Haftrechtliche Tragweite der Schuldunfähigkeit; dringender Tatverdacht bei eventualvorsätzlicher Tötung
+
+- **Sachverhalt**: Der Beschuldigte war mit seinem Fahrzeug in frontal entgegenkommenden Verkehr geraten, wobei der Lenker des entgegenkommenden Fahrzeugs getötet wurde. Die Staatsanwaltschaft ging von einem eventualvorsätzlichen Tötungsversuch aus; die Verteidigung machte Schuldunfähigkeit geltend und berief sich auf ein psychiatrisches Gutachten.
+- **Kernaussage**: Der dringende Tatverdacht bezieht sich grundsätzlich auf ein tatbestandsmässiges und rechtswidriges Verbrechen oder Vergehen. Das Vorliegen und das Ausmass der Schuldfähigkeit sind dem Sachrichter vorbehalten. Ausnahmsweise kann die Schuldunfähigkeit aber bereits im Haftverfahren präjudiziell geprüft werden, wenn klar ist, dass weder eine Strafe noch eine freiheitsentziehende Massnahme in Frage kommt (E. 2.2).
+- **Einschlägig für**: Art. 19 StGB, Art. 221 StPO (Untersuchungshaft, dringender Tatverdacht, Schuldunfähigkeit im Haftverfahren).
 
 ---
 
-### [BGE 107 IV 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_IV_3) E. 1a — Rauschzustände und Enthemmung
-- **Thema**: Abgrenzung von krankhafter Störung und selbstverschuldetem Rausch.
-- **Kernaussage**: Nicht jede alkoholbedingte Enthemmung begründet eine verminderte Zurechnungsfähigkeit; massgebend ist das Täterverhalten vor und nach der Tat.
-- **Einschlägig für**: Art. 19 Abs. 4 StGB.
+### [BGE 147 IV 93](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-93_2021.html) E. 1.3, 1.4 — Selbstständiges Massnahmeverfahren bei Schuldunfähigkeit
 
----
-
-## II. Weitere Entscheide
-
-### [BGE 140 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_150) E. 3.5 — Verschuldensbewertung
-- **Thema**: Wechselwirkung von Motivationslage und Schuldfähigkeit.
-- **Kernaussage**: Die persönliche Verantwortlichkeit ist bei eingeschränkter Einsichtsfähigkeit abgestuft zu bewerten.
-- **Einschlägig für**: Art. 19 Abs. 2 StGB.
-
----
-
-### [BGer 6B_776/2016 vom 8. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_776_2016) E. 2 — Abweichung von Gutachten
-- **Thema**: Anforderungen an die richterliche Beweiswürdigung.
-- **Kernaussage**: Weicht das Sachgericht von den Schlussfolgerungen des psychiatrischen Sachverständigen ab, bedarf dies einer einleuchtenden Begründung.
-- **Einschlägig für**: Art. 19 StGB, Art. 20 StGB.
-
----
-
-### [BGer 6B_1056/2016 vom 6. Juni 2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1056_2016) E. 1.3 — Beurteilungszeitpunkt
-- **Thema**: Massgeblicher Zeitpunkt für die Schuldfähigkeit.
-- **Kernaussage**: Die Schuldfähigkeit muss bezogen auf den genauen Zeitpunkt der Tathandlung beurteilt werden.
-- **Einschlägig für**: Art. 19 Abs. 1 und 2 StGB.
-
----
-
-### [Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414) — Forensische Begutachtung
-- **Thema**: Kantonale Rechtsprechung zur Einholung von Zusatzgutachten.
-- **Kernaussage**: Bei Zweifeln an der Schuldfähigkeit ist zwingend ein Gutachten nach Art. 20 StGB einzuholen.
-- **Einschlägig für**: Art. 19 StGB, Art. 20 StGB.
-
----
-
-### [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089) — Actio libera in causa
-- **Thema**: Voraussichtliche Begehung von Delikten im Rauschzustand.
-- **Kernaussage**: Wer in Kenntnis seiner Gewaltneigung unter Alkoholeinfluss trinkt, kann sich nicht auf Schuldunfähigkeit berufen.
-- **Einschlägig für**: Art. 19 Abs. 4 StGB.
+- **Sachverhalt**: Eine als schuldunfähig beurteilte Person war Gegenstand eines selbstständigen Massnahmeverfahrens nach Art. 374 ff. StPO. Das erstinstanzliche Gericht hatte dennoch einen Schuldspruch ausgesprochen.
+- **Kernaussage**: Das selbstständige Massnahmeverfahren nach Art. 374 StPO ist ein vom ordentlichen Verfahren klar abzugrenzendes besonderes Verfahren, in dem mangels Vorwurfs eines schuldhaften Verhaltens kein Schuldspruch ergehen kann (E. 1.3). Wird in einem solchen Verfahren ein Schuldspruch ausgesprochen, stellt dies einen besonders schweren und offensichtlichen Verfahrensfehler dar, der jedoch nicht zur Nichtigkeit, sondern zur Anfechtbarkeit führt. Das Berufungsgericht muss einen solchen Schuldspruch auch dann überprüfen und aufheben, wenn er nicht angefochten wurde (E. 1.4, 1.5).
+- **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 374 ff. StPO, Art. 404 Abs. 2 StPO (selbstständiges Massnahmeverfahren, Schuldspruchunfähigkeit, Formstrenge).
