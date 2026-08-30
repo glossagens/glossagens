@@ -1,0 +1,444 @@
+{
+  "created_date": "2026-08-30",
+  "total": 73,
+  "items": [
+    {
+      "path": "content/kommentar/stgb/art-002",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:29:15",
+      "notes": "Verifiziert: Alle BGEs, Pinpoints und entscheidsuche-URLs korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-013",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:30:15",
+      "notes": "Verifiziert: BGE 147 IV 193, 135 IV 12, 129 IV 238, 6B_804/2018, 6B_878/2025 korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-062b",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:30:25",
+      "notes": "Verifiziert: BGer 7B_853/2025, 6B_881/2013, 6B_473/2014, 7B_155/2026 korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-066abis",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:30:50",
+      "notes": "Verifiziert: BGer 7B_457/2023, BGE 146 IV 105, 144 IV 332, 145 IV 364, 144 IV 168, 151 IV 249, 6B_419/2024; Tippfehler Art. 66bis behoben"
+    },
+    {
+      "path": "content/kommentar/stgb/art-128",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:30:55",
+      "notes": "Verifiziert: BGE 121 IV 18, 87 IV 7, 150 IV 384, BGer 6B_165/2024, 7B_259/2022, 6B_1055/2020, 6B_57/2024 korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-133",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:35:15",
+      "notes": "Verifiziert: BGE 137 IV 1, 139 IV 168, 141 IV 454, 106 IV 246, 131 IV 150, 152 IV 64, 6B_87/2024, 6B_1297/2023 korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-182",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:35:18",
+      "notes": "Verifiziert: BGE 151 IV 265, 129 IV 81, 128 IV 117, 126 IV 225, 6B_296/2024, 6B_1360/2023, 7B_133/2024, 6B_1363/2023 korrekt"
+    },
+    {
+      "path": "content/kommentar/stgb/art-259",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:35:25",
+      "notes": "Verifiziert: BGE 152 IV 14, 145 IV 433, 130 IV 111, 126 IV 176, 111 IV 151, 6B_288/2019, 6B_856/2018, 6B_924/2023 korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-215",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:35:42",
+      "notes": "Verifiziert: BGE 139 IV 128, 137 IV 118, 138 IV 153, 140 IV 74, BGer 7B_258/2022, 6B_913/2021, 6B_1409/2019, 1B_180/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-216",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:35:58",
+      "notes": "Verifiziert: BGE 139 IV 128, 137 IV 118, 140 IV 74, 138 IV 153, 7B_258/2022, 1B_180/2021, 6B_913/2021, 6B_1409/2019 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-217",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:40:22",
+      "notes": "Verifiziert: BGE 137 IV 118, 140 IV 74, 139 IV 128, 138 IV 153, 144 IV 28, 1B_180/2021, 6B_913/2021, 7B_258/2022 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-218",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:40:44",
+      "notes": "Verifiziert: BGE 140 IV 74, 139 IV 128, 137 IV 118, 144 IV 28, 138 IV 153, 6B_913/2021, 6B_1409/2019 und kantonale Entscheide; Linkfehler in Rz. 8 behoben"
+    },
+    {
+      "path": "content/kommentar/stpo/art-219",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:41:37",
+      "notes": "Verifiziert: BGE 137 IV 118, 143 IV 316, 139 IV 25, 150 IV 239, 140 IV 74, 108 IA 261, 1B_180/2021, 1B_468/2021, 1B_249/2022, 1B_576/2021, 1B_128/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-221",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:41:53",
+      "notes": "Verifiziert: BGE 143 IV 316, 145 IV 503, 137 IV 122, 143 IV 330, 146 IV 136, 140 IV 19, 7B_127/2023, 1B_180/2021, 6B_913/2021, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-222",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:42:09",
+      "notes": "Verifiziert: BGE 144 IV 383, 137 IV 122, 143 IV 316, 140 IV 19, 148 IV 456, 7B_127/2023, 1B_180/2021, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-224",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:45:18",
+      "notes": "Verifiziert: BGE 137 IV 118, 143 IV 316, 139 IV 25, 140 IV 19, 144 IV 383, 1B_180/2021, 7B_127/2023, 6B_913/2021, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-225",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:45:34",
+      "notes": "Verifiziert: BGE 142 IV 289, 137 IV 122, 138 IV 81, 143 IV 330, 143 IV 316, 140 IV 74, 1B_468/2021, 1B_576/2021, 1B_249/2022, 7B_100/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-226",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:45:50",
+      "notes": "Verifiziert: BGE 137 IV 118, 147 IV 123, 143 IV 316, 143 IV 330, 1B_180/2021, 1B_468/2021, 1B_249/2022, 1B_576/2021, 7B_100/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-227",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:46:07",
+      "notes": "Verifiziert: BGE 143 IV 316, 140 IV 19, 137 IV 122, 144 IV 383, 139 IV 25, 7B_127/2023, 1B_180/2021, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-228",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:46:23",
+      "notes": "Verifiziert: BGE 143 IV 316, 137 IV 122, 140 IV 19, 144 IV 383, 139 IV 25, 1B_180/2021, 7B_127/2023, 7B_177/2023, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-229",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:50:17",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 139 IV 25, 143 IV 316, 137 IV 122, 1B_180/2021, 7B_127/2023, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-230",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:50:33",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 139 IV 25, 143 IV 316, 137 IV 122, 1B_180/2021, 7B_127/2023, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-241",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:51:04",
+      "notes": "Verifiziert: BGE 149 IV 369, 139 IV 128, 138 IV 153, 144 IV 74, 140 IV 57, 1B_179/2012, 1B_134/2018, 6B_899/2017 und kantonale Entscheide; Linkfehler SG AK behoben"
+    },
+    {
+      "path": "content/kommentar/stpo/art-242",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:51:21",
+      "notes": "Verifiziert: BGE 149 IV 369, 139 IV 128, 138 IV 153, 140 IV 74, 144 IV 74, 6B_899/2017, 1B_179/2012, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-243",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:51:35",
+      "notes": "Verifiziert: BGE 139 IV 128, 144 IV 74, 141 IV 77, 143 IV 21, 140 IV 28, 1B_65/2014, 7B_177/2023, 1B_418/2020 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-245",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:27:33",
+      "notes": "Manuell geprüft und committet"
+    },
+    {
+      "path": "content/kommentar/stpo/art-246",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:55:16",
+      "notes": "Verifiziert: BGE 144 IV 74, 139 IV 128, 140 IV 28, 141 IV 77, 143 IV 21, 1B_65/2014, 7B_177/2023, 1B_418/2020 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-247",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:55:31",
+      "notes": "Verifiziert: BGE 144 IV 74, 141 IV 77, 140 IV 28, 139 IV 128, 143 IV 21, 1B_65/2014, 7B_177/2023, 1B_418/2020 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-249",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:55:48",
+      "notes": "Verifiziert: BGE 141 IV 77, 149 IV 369, 140 IV 74, 144 IV 74, 139 IV 128, 6B_913/2021, 1B_180/2021, 7B_258/2022 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-250",
+      "status": "completed",
+      "last_checked": "2026-08-30T12:56:04",
+      "notes": "Verifiziert: BGE 141 IV 77, 149 IV 369, 144 IV 74, 140 IV 74, 139 IV 128, 7B_258/2022, 6B_913/2021, 1B_180/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-251",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:00:18",
+      "notes": "Verifiziert: BGE 144 IV 74, 141 IV 77, 140 IV 74, 149 IV 369, 139 IV 128, 7B_258/2022, 1B_180/2021, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-252",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:00:36",
+      "notes": "Verifiziert: BGE 144 IV 74, 141 IV 77, 140 IV 74, 139 IV 128, 149 IV 369, 7B_258/2022, 1B_180/2021, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-253",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:00:52",
+      "notes": "Verifiziert: BGE 144 IV 74, 141 IV 77, 140 IV 74, 139 IV 128, 149 IV 369, 7B_258/2022, 1B_180/2021, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-254",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:01:10",
+      "notes": "Verifiziert: BGE 144 IV 74, 141 IV 77, 140 IV 74, 149 IV 369, 139 IV 128, 7B_258/2022, 1B_180/2021, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-255",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:01:27",
+      "notes": "Verifiziert: BGE 147 IV 249, 145 IV 263, 141 IV 87, 144 IV 127, 143 IV 21, 1B_180/2021, 7B_177/2023, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-256",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:05:16",
+      "notes": "Verifiziert: BGE 147 I 372, 144 IV 127, 128 II 259, 145 IV 263, 7B_177/2023, 1B_418/2020, 1B_188/2020, 1B_335/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-257",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:05:34",
+      "notes": "Verifiziert: BGE 147 IV 249, 145 IV 263, 141 IV 87, 144 IV 127, 148 IV 456, 7B_177/2023, 1B_180/2021, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-258",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:05:52",
+      "notes": "Verifiziert: BGE 145 IV 263, 147 IV 249, 141 IV 87, 140 IV 74, 148 IV 456, 1B_180/2021, 7B_177/2023, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-260",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:06:09",
+      "notes": "Verifiziert: BGE 147 IV 249, 145 IV 263, 141 IV 87, 140 IV 74, 148 IV 456, 1B_180/2021, 7B_177/2023, 6B_913/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-265",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:10:17",
+      "notes": "Verifiziert: BGE 143 IV 21, 142 IV 207, 140 IV 181, 144 IV 74, 141 IV 77, 150 IV 139, 1B_335/2021, 7B_177/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-268",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:10:35",
+      "notes": "Verifiziert: BGE 141 IV 360, 144 IV 285, 140 IV 57, 147 IV 47, 1B_379/2013, 1B_442/2021, 7B_44/2023, 6B_439/2019 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-311",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:10:52",
+      "notes": "Verifiziert: BGE 141 IV 20, 144 IV 28, 143 IV 214, 140 IV 136, 139 IV 25, 1B_585/2021, 7B_127/2023, 6B_776/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-312",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:11:08",
+      "notes": "Verifiziert: BGE 143 IV 397, 141 IV 20, 140 IV 136, 139 IV 25, 144 IV 28, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-313",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:11:22",
+      "notes": "Verifiziert: BGE 143 IV 214, 139 IV 25, 144 IV 28, 140 IV 136, 141 IV 20, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-314",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:15:16",
+      "notes": "Verifiziert: BGE 141 IV 20, 143 IV 214, 139 IV 25, 144 IV 28, 140 IV 136, 1B_585/2021, 7B_127/2023, 6B_776/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-315",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:15:31",
+      "notes": "Verifiziert: BGE 141 IV 20, 139 IV 25, 143 IV 214, 144 IV 28, 140 IV 136, 7B_127/2023, 6B_776/2021, 1B_585/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-316",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:15:47",
+      "notes": "Verifiziert: BGE 140 IV 118, 142 IV 163, 152 III 61, 147 IV 47, 138 IV 248, 6B_374/2013, 6B_633/2017, 6B_1052/2019 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-317",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:25:05",
+      "notes": "Verifiziert: BGE 143 IV 214, 140 IV 136, 139 IV 25, 141 IV 20, 1B_585/2021, 1B_73/2014, 6B_913/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-318",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:50:22",
+      "notes": "Verifiziert: BGE 144 IV 28, 140 IV 136, 139 IV 25, 141 IV 20, 143 IV 214, 1B_585/2021, 7B_127/2023, 6B_776/2021 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-320",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:50:41",
+      "notes": "Verifiziert: BGE 144 IV 362, 141 IV 20, 140 IV 136, 143 IV 214, 139 IV 25, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-321",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:50:57",
+      "notes": "Verifiziert: BGE 144 IV 362, 140 IV 136, 141 IV 20, 143 IV 214, 139 IV 25, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-322",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:51:14",
+      "notes": "Verifiziert: BGE 144 IV 362, 141 IV 20, 140 IV 136, 143 IV 214, 139 IV 25, 1B_585/2021, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-323",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:51:32",
+      "notes": "Verifiziert: BGE 141 IV 194, 144 IV 97, 144 IV 362, 141 IV 349, TPF 2016 1, TPF 2015 44, 6B_77/2021, 6B_1052/2019 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-324",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:55:19",
+      "notes": "Verifiziert: BGE 144 IV 362, 141 IV 20, 140 IV 136, 143 IV 214, 139 IV 25, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-325",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:55:37",
+      "notes": "Verifiziert: BGE 144 IV 362, 141 IV 20, 140 IV 136, 143 IV 214, 139 IV 25, 6B_776/2021, 1B_585/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-333",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:55:43",
+      "notes": "Verifiziert: BGE 149 IV 42, 148 IV 124, 147 IV 167, 144 I 234, 141 IV 39, 7B_1231/2024, 7B_256/2024, 7B_286/2022 und kantonale Entscheide vollständig belegt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-384",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:56:02",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 143 IV 288, 148 IV 456, 139 IV 25, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-385",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:56:21",
+      "notes": "Verifiziert: BGE 144 IV 383, 142 IV 299, 138 IV 86, 147 IV 127, 141 IV 244, 6B_776/2021, 6B_606/2018, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-386",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:56:39",
+      "notes": "Verifiziert: BGE 141 IV 269, 144 IV 383, 138 IV 157, 143 IV 40, 142 IV 206, TPF 2020 55, TPF CN.2021.1, SO STBER.2016.70 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-387",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:56:55",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 143 IV 288, 148 IV 456, 139 IV 25, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-388",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:57:11",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 148 IV 456, 142 IV 299, 147 IV 127, 6B_776/2021, 6B_606/2018, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-389",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:57:28",
+      "notes": "Verifiziert: BGE 143 IV 288, 140 IV 196, 144 IV 383, 141 IV 220, 147 IV 127, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-390",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:57:46",
+      "notes": "Verifiziert: BGE 144 IV 383, 143 IV 288, 140 IV 196, 147 IV 127, 141 IV 220, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-398",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:58:03",
+      "notes": "Verifiziert: BGE 144 IV 383, 141 IV 244, 147 IV 127, 148 IV 456, 150 IV 417, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-399",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:58:19",
+      "notes": "Verifiziert: BGE 143 IV 40, 138 IV 157, 144 IV 383, 141 IV 396, 139 IV 199, 147 IV 127, 6B_100/2022, 6B_776/2021 und TPF/kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-400",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:58:34",
+      "notes": "Verifiziert: BGE 149 IV 284, 151 IV 219, 147 IV 36, 144 IV 383, 143 IV 40, 6B_776/2021, 6B_1045/2021, 7B_127/2023 und TPF/kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-401",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:58:52",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 143 IV 288, 148 IV 456, 150 IV 417, 6B_606/2018, 6B_776/2021 und TPF/kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-402",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:59:08",
+      "notes": "Verifiziert: BGE 144 IV 383, 140 IV 1, 148 IV 456, 150 IV 417, 143 IV 288, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-403",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:59:26",
+      "notes": "Verifiziert: BGE 149 IV 284, 147 IV 127, 144 IV 121, 143 IV 40, 138 IV 157, 6B_776/2021, 6B_100/2022 und TPF/kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-404",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:59:43",
+      "notes": "Verifiziert: BGE 144 IV 383, 141 IV 244, 140 IV 1, 139 IV 282, 142 IV 206, 6B_349/2016, 6B_634/2012, 6B_769/2016 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-405",
+      "status": "completed",
+      "last_checked": "2026-08-30T13:59:59",
+      "notes": "Verifiziert: BGE 148 IV 456, 143 IV 288, 150 IV 417, 143 IV 483, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-406",
+      "status": "completed",
+      "last_checked": "2026-08-30T14:00:22",
+      "notes": "Verifiziert: BGE 150 IV 417, 143 IV 483, 148 IV 456, 147 IV 127, 144 IV 383, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    },
+    {
+      "path": "content/kommentar/stpo/art-407",
+      "status": "completed",
+      "last_checked": "2026-08-30T14:00:40",
+      "notes": "Verifiziert: BGE 143 IV 288, 148 IV 456, 150 IV 417, 144 IV 383, 140 IV 1, 6B_606/2018, 6B_776/2021, 7B_127/2023 und kantonale Entscheide korrekt"
+    }
+  ]
+}
