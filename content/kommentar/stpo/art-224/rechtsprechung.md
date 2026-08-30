@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 224 StPO – Haftverfahren vor der Staatsanwaltschaft: Befragung, 48-Stunden-Frist für den Haftantrag an das ZMG und Freilassung."
 tags: ["Rechtsprechung", "StPO", "Haftverfahren", "Staatsanwaltschaft", "Haftantrag", "48-Stunden-Frist", "Zwangsmassnahmengericht", "Freilassung", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
