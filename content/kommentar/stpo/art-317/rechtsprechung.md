@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 317 StPO – Schlusseinvernahme in umfangreichen und komplizierten Vorverfahren, Teilnahmerechte und Akteneinsicht."
 tags: ["Rechtsprechung", "StPO", "Schlusseinvernahme", "Vorverfahren", "Untersuchung", "Akteneinsicht", "rechtliches Gehör", "Beweisanträge"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
