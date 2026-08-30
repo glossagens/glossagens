@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 388 StPO – Zuständigkeit der Verfahrensleitung für verfahrensleitende/vorsorgliche Massnahmen sowie Nichteintretensentscheide."
 tags: ["Rechtsprechung", "StPO", "Verfahrensleitung", "vorsorgliche Massnahmen", "Sicherheitshaft", "Nichteintreten", "Querulanz", "Rechtsmittelverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
