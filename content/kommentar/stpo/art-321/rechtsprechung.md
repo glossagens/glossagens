@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 321 StPO – Mitteilung der Einstellungsverfügung: Adressatenkreis, Opferrechte, betroffene Dritte und Zustellregeln."
 tags: ["Rechtsprechung", "StPO", "Einstellung", "Mitteilung", "Opferschutz", "Zustellung", "Rechtsmittelfrist", "Vorverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
