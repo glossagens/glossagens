@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 252 StPO – Durchführung von Untersuchungen am Körper: Zwingender Arztvorbehalt, medizinisches Fachpersonal und Beweisverwertungsverbote."
 tags: ["Rechtsprechung", "StPO", "körperliche Untersuchung", "Arztvorbehalt", "medizinisches Personal", "Blutentnahme", "Beweisverwertung", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
