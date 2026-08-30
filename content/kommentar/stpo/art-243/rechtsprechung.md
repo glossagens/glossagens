@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 243 StPO – Sicherstellung und Verwertbarkeit von Zufallsfunden bei Durchsuchungen, Verbot der Beweisausforschung."
 tags: ["Rechtsprechung", "StPO", "Zufallsfunde", "Durchsuchung", "Sicherstellung", "Beweisverwertung", "Ausforschungsverbot", "Beweismittel"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
