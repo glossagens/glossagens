@@ -79,7 +79,7 @@ revisions:
 
 ### 1. Reichweite des Hausdurchsuchungsbefehls bei Geschäftsräumen
 **Rz. 10** Gilt ein auf eine Unternehmung lautender Durchsuchungsbefehl für sämtliche Büros am Geschäftssitz?
-Die kantonale Praxis verlangt, dass der Befehl die Arbeitsplätze und Räumlichkeiten der konkreten Zielpersonen so genau wie möglich umschreibt. Räume unbeteiligter Mitarbeiter dürfen nicht anlasslos durchsucht werden ([SG Kantonsgericht AK.2022.354-AK vom 20. Januar 2023](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK.2022.354-AK_2023-01-20.pdf)).
+Die kantonale Praxis verlangt, dass der Befehl die Arbeitsplätze und Räumlichkeiten der konkreten Zielpersonen so genau wie möglich umschreibt. Räume unbeteiligter Mitarbeiter dürfen nicht anlasslos durchsucht werden ([SG Kantonsgericht AK.2022.354-AK vom 2. November 2022](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2022-354-AK_2022-11-02.pdf)).
 
 ### 2. Freiwillige Einwilligung als Ersatz des Befehls
 **Rz. 11** Stimmt der Wohnungsinhaber der Durchsuchung zu, bedarf es keines Befehls. Die kantonale Rechtsprechung verlangt jedoch den strikten Nachweis einer vorangegangenen Aufklärung über das Verweigerungsrecht. Eine unter Druck oder Irreführung erteilte Einwilligung heilt das Fehlen eines Durchsuchungsbefehls nicht ([SO Obergericht STBER.2021.12 vom 12. Juli 2021](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STBER-2021-12_2021-07-12.html)).

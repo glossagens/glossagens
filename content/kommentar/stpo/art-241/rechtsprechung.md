@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 241 StPO – Durchsuchungsbefehl, Schriftform, Gefahr im Verzug und polizeiliche Sicherheitsdurchsuchung."
 tags: ["Rechtsprechung", "StPO", "Durchsuchungsbefehl", "Durchsuchung", "Gefahr im Verzug", "Sicherheitsdurchsuchung", "Bestimmtheitsgebot", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
@@ -99,7 +99,7 @@ revisions:
 - **Thema**: Befehlsvorweisung bei simultaner Festnahme
 - **Kernaussage**: Die Befehlsvorweisung hat unverzüglich zu erfolgen, sobald die Sicherung der Örtlichkeit abgeschlossen ist.
 
-### [SG Kantonsgericht AK.2022.354-AK vom 20.01.2023](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK.2022.354-AK_2023-01-20.pdf)
+### [SG Kantonsgericht AK.2022.354-AK vom 02.11.2022](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2022-354-AK_2022-11-02.pdf)
 - **Kanton**: St. Gallen
 - **Thema**: Durchsuchung von Geschäftsräumen juristischer Personen
 - **Kernaussage**: Der Befehl muss bei juristischen Personen die Geschäftsräumlichkeiten und Arbeitsplätze der verdächtigten Organe präzise bezeichnen.
