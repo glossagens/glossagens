@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 253 StPO – Aussergewöhnliche Todesfälle: Legalinspektion, Obduktion, Identifizierung und Leichenfreigabe zur Bestattung."
 tags: ["Rechtsprechung", "StPO", "Todesfall", "Legalinspektion", "Obduktion", "Rechtsmedizin", "Leichenfreigabe", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
