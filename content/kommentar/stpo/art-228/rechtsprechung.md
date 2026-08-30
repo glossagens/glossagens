@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 228 StPO – Haftentlassungsgesuch: Jederzeitiges Antragsrecht, 3-tägige Weiterleitungs- und Replikfrist, Verhandlung vor dem ZMG und Gesuchssperre."
 tags: ["Rechtsprechung", "StPO", "Haftentlassungsgesuch", "Haftentlassung", "Zwangsmassnahmengericht", "Replik", "Gesuchssperre", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
