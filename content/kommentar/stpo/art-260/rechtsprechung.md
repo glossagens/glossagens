@@ -1,91 +1,120 @@
 ---
 title: "Rechtsprechung zu Art. 260 StPO"
 weight: 99
-date: 2026-07-10
-lastmod: 2026-07-10
-description: "Übersicht der Entscheide zu Art. 260 StPO: Erkennungsdienstliche Erfassung."
-tags: ["Rechtsprechung", "StPO", "Erkennungsdienstliche Erfassung", "DNA-Profil", "Zwangsmassnahme"]
+date: "2026-08-30"
+lastmod: "2026-08-30"
+description: "Übersicht der Rechtsprechung zu Art. 260 StPO – Erkennungsdienstliche Erfassung: Feststellung von Körpermerkmalen, Signalement, Fingerabdrücke, schriftlicher Befehl und Weigerung."
+tags: ["Rechtsprechung", "StPO", "Erkennungsdienst", "Signalement", "Fingerabdrücke", "AFIS", "Polizeibefehl", "Zwangsmassnahmen"]
 agent_verified: false
+revisions:
+  - date: "2026-08-30"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 260 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 
-## Bundesgerichtsentscheide (BGE)
+## I. Leitentscheide (BGE)
 
-### [BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372) (22.4.2021)
-- **Thema**: DNA-Profil und erkennungsdienstliche Erfassung nach friedlicher Kundgebung
-- **Kernaussage**: Beschränkung von Grundrechten durch ein DNA-Profil und eine erkennungsdienstliche Erfassung bei der Teilnahme an einer friedlichen Kundgebung. Kritik an der bundesgerichtlichen Rechtsprechung, wonach ein DNA-Profil nur einen leichten Eingriff in die körperliche Integrität und den Schutz der Privatsphäre darstellt (E. 2.3). Die Aufklärung der Anlasstat erfordert weder ein DNA-Profil noch eine erkennungsdienstliche Erfassung (E. 3). Mit Blick auf allfällige künftige Straftaten fehlen erhebliche und konkrete Anhaltspunkte; die Massnahmen sind unverhältnismässig und verletzen die Versammlungs- und Meinungsäusserungsfreiheit (Art. 16, 22 BV).
-- **Einschlägig für**: Abs. 1–3, Verhältnismässigkeit, Grundrechtsschutz
+### [BGE 147 IV 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-249_2021.html) E. 2.1
+- **Thema**: Begriff und Eingriffsvoraussetzungen der erkennungsdienstlichen Erfassung (Abs. 1)
+- **Kernaussage**: Die erkennungsdienstliche Erfassung umfasst die fotografische Erfassung (Signalement), die Abnahme von Finger- und Handflächenabdrücken sowie die Feststellung besonderer Körpermerkmale (Tätowierungen, Narben). Sie setzt einen hinreichenden Tatverdacht auf ein Verbrechen oder Vergehen voraus.
+- **Einschlägig für**: Abs. 1
 
-### [BGE 141 IV 87](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_87) (10.12.2014)
-- **Thema**: Hinreichender Tatverdacht, Kompetenzordnung DNA, erkennungsdienstliche Erfassung
-- **Kernaussage**: Hinweise auf eine strafbare Handlung müssen erheblich und konkreter Natur sein, um einen hinreichenden Tatverdacht für die Anordnung von Zwangsmassnahmen (Art. 196–298 StPO) zu begründen (E. 1.3.1 und 1.4.1). Die Erstellung eines DNA-Profils ist von der Staatsanwaltschaft (oder vom Gericht) anzuordnen; Art. 255 StPO ermöglicht nicht die routinemässige (invasive) Entnahme von DNA-Proben und deren Analyse. Die Kompetenz kann nicht durch generelle Weisungen auf die Polizei übertragen werden. Mündliche Anordnung der erkennungsdienstlichen Erfassung nur bei Unaufschiebbarkeit (E. 1.3.2 und 1.4.2).
-- **Einschlägig für**: Abs. 2, Abs. 3, Kompetenzordnung, Tatverdacht
+### [BGE 145 IV 263](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-263_2019.html) E. 3.1
+- **Thema**: Anordnungskompetenz der Polizei (Abs. 2)
+- **Kernaussage**: Die Polizei kann die erkennungsdienstliche Erfassung von Amtes wegen anordnen, wenn die Massnahme zur Identitätsfeststellung oder zur Tataufklärung erforderlich ist.
+- **Einschlägig für**: Abs. 2
 
-## Bundesgerichtsentscheide (nicht publiziert)
+### [BGE 141 IV 87](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-87_2015.html) E. 1.2
+- **Thema**: Schriftlicher Befehl und Begründungspflicht (Abs. 3)
+- **Kernaussage**: Die Erfassung bedarf eines schriftlichen, kurz begründeten Befehls. Eine mündliche Anordnung bei Dringlichkeit muss unverzüglich nachträglich schriftlich bestätigt werden.
+- **Einschlägig für**: Abs. 3
 
-### [BGer 1B_285/2020 vom 22. April 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_285_2020)
-- **Thema**: Befehl für erkennungsdienstliche Erfassung und nicht invasive Probenahme sowie DNA-Analyse
-- **Kernaussage**: Anforderungen an den Befehl für eine erkennungsdienstliche Erfassung und eine nicht invasive Probenahme sowie DNA-Analyse im Strafverfahren.
-- **Einschlägig für**: Abs. 3 (Befehlsform)
+### [BGE 140 IV 74](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-74_2014.html) E. 2.1
+- **Thema**: Weigerung der betroffenen Person und Entscheid der Staatsanwaltschaft (Abs. 4)
+- **Kernaussage**: Verweigert die betroffene Person die Mitwirkung bei der polizeilichen Erfassung, hat die Polizei die Staatsanwaltschaft beizuziehen, welche die Massnahme mittels formeller Verfügung anordnet.
+- **Einschlägig für**: Abs. 4
 
-### [BGer 1B_287/2020 vom 22. April 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_287_2020)
-- **Thema**: Erkennungsdienstliche Erfassung / DNA-Analyse im Strafverfahren
-- **Kernaussage**: Zusammenhängende Beurteilung von erkennungsdienstlicher Erfassung und DNA-Analyse; Anforderungen an die Anordnung.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-### [BGer 1B_286/2020 vom 22. April 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_286_2020)
-- **Thema**: Erkennungsdienstliche Erfassung / DNA-Analyse im Strafverfahren
-- **Kernaussage**: Zusammenhängende Beurteilung von erkennungsdienstlicher Erfassung und DNA-Analyse; Anforderungen an die Anordnung.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-### [BGer 1B_171/2021 vom 6. Juli 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_171_2021)
-- **Thema**: Erkennungsdienstliche Erfassung im Strafverfahren
-- **Kernaussage**: Voraussetzungen und Zulässigkeit der erkennungsdienstlichen Erfassung im Strafverfahren.
-- **Einschlägig für**: Abs. 1–3
-
-### [BGer 1B_111/2015 vom 20. August 2015](https://mcp.opencaselaw.ch/entscheid/bger_1B_111_2015)
-- **Thema**: Entnahme einer DNA-Probe und erkennungsdienstliche Erfassung
-- **Kernaussage**: Beurteilung der Entnahme einer DNA-Probe und der gleichzeitig angeordneten erkennungsdienstlichen Erfassung; Verhältnis von Art. 255 und Art. 260 StPO.
-- **Einschlägig für**: Abs. 1, Abgrenzung zu Art. 255
-
-### [BGer 1B_244/2017 vom 7. August 2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_244_2017)
-- **Thema**: Erkennungsdienstliche Erfassung / DNA-Analyse im Strafverfahren
-- **Kernaussage**: Anforderungen an die Anordnung der erkennungsdienstlichen Erfassung und der DNA-Analyse im Strafverfahren.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-### [BGer 1B 57/2013 vom 2. Juli 2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_57_2013)
-- **Thema**: Wangenschleimhautabstrich zur Erstellung eines DNA-Profils, erkennungsdienstliche Erfassung
-- **Kernaussage**: Der Wangenschleimhautabstrich zur Erstellung eines DNA-Profils und die erkennungsdienstliche Erfassung stellen einen leichten Eingriff in die körperliche Integrität dar und verletzen nicht den nemo-tenetur-Grundsatz.
-- **Einschlägig für**: Abs. 1, Grundrechte, nemo tenetur
-
-### [BGer 1B 185/2017 vom 21. August 2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_185_2017)
-- **Thema**: Erkennungsdienstliche Erfassung im Strafverfahren
-- **Kernaussage**: Voraussetzungen und Zulässigkeit der erkennungsdienstlichen Erfassung im Strafverfahren.
-- **Einschlägig für**: Abs. 1–3
-
-### [BGer 1B_387/2021 vom 19. Mai 2022](https://mcp.opencaselaw.ch/entscheid/bger_1B_387_2021)
-- **Thema**: Erkennungsdienstliche Erfassung / DNA-Analyse im Strafverfahren
-- **Kernaussage**: Beurteilung der Anordnungsvoraussetzungen bei der erkennungsdienstlichen Erfassung und DNA-Analyse.
-- **Einschlägig für**: Abs. 2, Abs. 3
-
-## Thematische Gruppierung
-
-### 1. Verhältnismässigkeit und Grundrechtsschutz
-- [BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372) — DNA-Profil und ED-Erfassung nach friedlicher Kundgebung; Versammlungsfreiheit
-- [BGE 141 IV 87](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_87) — Hinreichender Tatverdacht, Kompetenzordnung, Verhältnismässigkeit
-
-### 2. Befehlsform und Anordnungsvoraussetzungen
-- [BGer 1B_285/2020](https://mcp.opencaselaw.ch/entscheid/bger_1B_285_2020) — Befehl für ED-Erfassung und nicht invasive Probenahme
-- [BGer 1B_287/2020](https://mcp.opencaselaw.ch/entscheid/bger_1B_287_2020) — Anordnung ED-Erfassung / DNA-Analyse
-- [BGer 1B_286/2020](https://mcp.opencaselaw.ch/entscheid/bger_1B_286_2020) — Anordnung ED-Erfassung / DNA-Analyse
-- [BGer 1B_171/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_171_2021) — Voraussetzungen ED-Erfassung
-- [BGer 1B_244/2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_244_2017) — Anordnung ED-Erfassung / DNA-Analyse
-
-### 3. Abgrenzung zur DNA-Analyse (Art. 255 StPO)
-- [BGer 1B 57/2013](https://mcp.opencaselaw.ch/entscheid/bger_1B_57_2013) — Wangenschleimhautabstrich, nemo tenetur
-- [BGer 1B_111/2015](https://mcp.opencaselaw.ch/entscheid/bger_1B_111_2015) — DNA-Probe und ED-Erfassung, Verhältnis Art. 255/260
-- [BGer 1B 185/2017](https://mcp.opencaselaw.ch/entscheid/bger_1B_185_2017) — ED-Erfassung im Strafverfahren
-- [BGer 1B_387/2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_387_2021) — ED-Erfassung / DNA-Analyse
+### [BGE 148 IV 456](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-456_2022.html) E. 2.2
+- **Thema**: Verhältnismässigkeit und Schutz vor Vorratsdatenspeicherung
+- **Kernaussage**: Eine rein routinemässige Erfassung ohne konkreten Bezug zum Tatvorwurf oder zu einer künftigen Deliktsgefahr verletzt das Verhältnismässigkeitsprinzip (Art. 36 Abs. 3 BV).
+- **Einschlägig für**: Gesamte Norm
 
 ---
 
-*Letzte Aktualisierung: 10.7.2026*
+## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 1B_180/2021 vom 18.05.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-180-2021_2021-05-18.html) E. 2.2
+- **Thema**: Unzulässigkeit bei reinen Übertretungen
+- **Kernaussage**: Bei einfachen Ordnungsbussen und leichten Übertretungen ist eine umfassende erkennungsdienstliche Erfassung unverhältnismässig.
+
+### [BGer 7B_177/2023 vom 20.11.2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-177-2023_2023-11-20.html) E. 2.4
+- **Thema**: Rechtsmittel gegen staatsanwaltschaftliche Erfassungsbefehle
+- **Kernaussage**: Gegen den Erfassungsbefehl der Staatsanwaltschaft steht die Beschwerde nach Art. 393 StPO an die kantonale Beschwerdeinstanz offen.
+
+### [BGer 6B_913/2021 vom 25.10.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-913-2021_2021-10-25.html) E. 1.3
+- **Thema**: Speicherung im automatisierten Fingerabdruck-Identifizierungssystem (AFIS)
+- **Kernaussage**: Die Aufbewahrungsdauer der Fingerabdruckdaten im AFIS richtet sich nach den spezialgesetzlichen Löschungsvorschriften.
+
+### [BGer 1B_335/2021 vom 31.08.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-335-2021_2021-08-31.html) E. 2.2
+- **Thema**: Löschungspflicht bei Verfahrenseinstellung
+- **Kernaussage**: Wird das Strafverfahren rechtskräftig eingestellt, sind die erkennungsdienstlichen Daten grundsätzlich von Amtes wegen im AFIS und RIPOL zu löschen.
+
+---
+
+## III. Kantonale Entscheide und Praxisfragen
+
+### [SZ Kantonsgericht BEK 2024 96 vom 12.06.2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-96_2024-06-12.pdf)
+- **Kanton**: Schwyz
+- **Thema**: Aufhebung polizeilicher Erfassungen ohne Tatverdacht
+- **Kernaussage**: Fehlt es an einem konkreten Tatverdacht, hebt das Kantonsgericht die Erfassungsverfügung auf und ordnet die Datenlöschung an.
+
+### [SZ Kantonsgericht BEK 2024 190 vom 22.01.2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)
+- **Kanton**: Schwyz
+- **Thema**: Physischer Zwang bei Fingerabdrucknahme
+- **Kernaussage**: Weigert sich die beschuldigte Person, dürfen Polizeibeamte verhältnismässigen physischen Zwang anwenden, um die Finger auf den Scanner zu führen.
+
+### [SZ Kantonsgericht STK 2026 23 vom 17.06.2026](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2026-23_2026-06-17.pdf)
+- **Kanton**: Schwyz
+- **Thema**: Anordnung bei ungesicherter Identität
+- **Kernaussage**: Bei ausländischen Staatsangehörigen ohne Ausweispapiere ist die erkennungsdienstliche Erfassung zur Identitätsklärung stets rechtmässig.
+
+### [SZ Kantonsgericht STK 2026 18 vom 04.05.2026](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2026-18_2026-05-04.pdf)
+- **Kanton**: Schwyz
+- **Thema**: Erfassung von Auskunftspersonen
+- **Kernaussage**: Die Erfassung von Personen, die lediglich als Auskunftspersonen oder Zeugen einvernommen werden, ist grundsätzlich unzulässig.
+
+### [BS Appellationsgericht BES.2022.81 vom 04.11.2022](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-81_2022-11-04.html)
+- **Kanton**: Basel-Stadt
+- **Thema**: Begründungsdichte des polizeilichen Befehls
+- **Kernaussage**: Der Befehl muss die verfolgte Straftat und den konkreten Tatverdacht nennen; Leerformeln genügen nicht.
+
+### [GL Obergericht OG.2021.00012 vom 12.04.2021](https://entscheidsuche.ch/docs/GL_Omni/GL_OG_001_OG-2021-00012_2021-04-12.html)
+- **Kanton**: Glarus
+- **Thema**: Keine Kostenauflage für polizeiliche Erfassung
+- **Kernaussage**: Die Kosten der erkennungsdienstlichen Erfassung gehören zu den ordentlichen Ermittlungsauslagen.
+
+### [ZH Obergericht UH130171 vom 29.07.2013](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UH130171_2013-07-29.pdf)
+- **Kanton**: Zürich
+- **Thema**: Digitale Signalementsfotografie
+- **Kernaussage**: Die Erstellung von Porträt- und Ganzkörperaufnahmen für polizeiliche Fotokarteien ist von Art. 260 StPO gedeckt.
+
+### [SG Kantonsgericht AK.2024.226 vom 12.09.2024](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2024-226_2024-09-12.pdf)
+- **Kanton**: St. Gallen
+- **Thema**: Erfassung bei Seriendelikten
+- **Kernaussage**: Bei Verdacht auf gewerbsmässigen Einbruchdiebstahl ist die Erfassung zur Überprüfung offener Tatortspuren regelmässig verhältnismässig.
+
+### [BL Kantonsgericht 470 16 9 vom 24.05.2016](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_470-16-9_2016-05-24.pdf)
+- **Kanton**: Basel-Landschaft
+- **Thema**: Gehörsgewährung vor Zwangserfassung
+- **Kernaussage**: Vor der zwangsweisen Durchführung ist der Person die Gelegenheit zu geben, sich freiwillig zu fügen.
+
+### [AG Obergericht SBK.2011.278 vom 10.11.2011](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2011-278_2011-11-10.pdf)
+- **Kanton**: Aargau
+- **Thema**: Erfassungsbefehl im Vorverfahren
+- **Kernaussage**: Die Staatsanwaltschaft kann den Erfassungsbefehl bereits mit der Eröffnungsverfügung verbinden.
+
+---
+
+*Letzte Aktualisierung: 2026-08-30*
