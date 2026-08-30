@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 405 StPO – Mündliches Berufungsverfahren, Vorladung der Parteien und der Staatsanwaltschaft, Dispensation und Verhandlungsablauf."
 tags: ["Rechtsprechung", "StPO", "Berufung", "mündliche Verhandlung", "Vorladung", "Dispensation", "Staatsanwaltschaft", "Rechtsmittelverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
