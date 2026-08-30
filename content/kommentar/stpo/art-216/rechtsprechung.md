@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 216 StPO – Nacheile über Gemeinde-, Kantons- und Landesgrenzen sowie Übergabe an örtliche Behörden."
 tags: ["Rechtsprechung", "StPO", "Nacheile", "Polizei", "Kantonsgrenzen", "Zuständigkeit", "Freiheitsentzug", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
