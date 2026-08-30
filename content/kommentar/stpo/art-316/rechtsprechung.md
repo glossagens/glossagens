@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 316 StPO – Vergleichsverhandlung bei Antragsdelikten, Wiedergutmachung (Art. 53 StGB), Rückzugsfiktion und Sicherheitsleistung."
 tags: ["Rechtsprechung", "StPO", "Vergleichsverhandlung", "Antragsdelikte", "Wiedergutmachung", "Einstellung", "Rückzugsfiktion", "Sicherheitsleistung"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
