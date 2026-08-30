@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 387 StPO – Aufschiebende Wirkung von Rechtsmitteln: Grundsatz der Nichthemmung, gesetzliche Ausnahmen und Gewährung durch die Verfahrensleitung."
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "aufschiebende Wirkung", "Suspensiveffekt", "Verfahrensleitung", "Vollstreckbarkeit", "Rechtsmittelverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
