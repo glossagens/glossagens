@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 217 StPO – Vorläufige Festnahme durch die Polizei, Festnahmepflicht bei frischer Tat, Festnahmerechte und Übertretungen."
 tags: ["Rechtsprechung", "StPO", "Festnahme", "Polizei", "frische Tat", "Ausschreibung", "Übertretung", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
