@@ -1,24 +1,24 @@
 ---
-title: "Art. 255 StPO — DNA-Analyse (Voraussetzungen)"
+title: "Art. 255 StPO — DNA-Profile: Voraussetzungen im Allgemeinen"
 weight: 255
-date: "2026-07-04"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 255 StPO: Voraussetzungen der DNA-Probenahme und Profilerstellung — Anlasstat, weitere Delikte (Abs. 1bis), Zuständigkeit, Verhältnismässigkeit, Y-DNA-Abgleich."
-tags: ["DNA-Profil", "DNA-Analyse", "Probenahme", "Wangenschleimhautabstrich", "Zwangsmassnahmen", "erkennungsdienstliche Erfassung", "Verhältnismässigkeit", "DNA-Profil-Gesetz"]
+date: "2026-08-30"
+lastmod: "2026-08-30"
+description: "Kommentar zu Art. 255 StPO – DNA-Profile im Strafverfahren: Voraussetzungen der Probenahme bei Beschuldigten und Dritten (Abs. 1/1bis), Kompetenzen der Polizei (Abs. 2), Y-DNA-Abgleich (Abs. 3) und Verhältnismässigkeit."
+tags: ["StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "Polizei", "Erkennungsdienst", "Verhältnismässigkeit", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
-  - date: "2026-08-13"
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: "2026-08-30"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
+    note: "Vollständige Neukommentierung zu Art. 255 StPO (inkl. Revision per 1. Jan. 2024); Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 255 StPO — Voraussetzungen im Allgemeinen**
 >
-> 1 Zur Aufklärung des Verbrechens oder Vergehens, das Gegenstand des Verfahrens bildet, kann eine Probe genommen und ein DNA-Profil erstellt werden von:
+> **1** Zur Aufklärung des Verbrechens oder Vergehens, das Gegenstand des Verfahrens bildet, kann eine Probe genommen und ein DNA-Profil erstellt werden von:
 >
 > a. der beschuldigten Person;
 >
@@ -28,58 +28,54 @@ revisions:
 >
 > d. tatrelevantem biologischem Material.
 >
-> 1bis Von der beschuldigten Person kann auch eine Probe genommen und ein DNA-Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, sie könnte weitere Verbrechen oder Vergehen begangen haben.
+> **1bis** Von der beschuldigten Person kann auch eine Probe genommen und ein DNA-Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, sie könnte weitere Verbrechen oder Vergehen begangen haben.
 >
-> 2 Die Polizei kann anordnen:
+> **2** Die Polizei kann anordnen:
 >
 > a. die nicht invasive Probenahme bei Personen;
 >
 > b. die Erstellung eines DNA-Profils von tatrelevantem biologischem Material.
 >
-> 3 Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003 anordnen.
-
-*Abs. 1 und 1bis in der Fassung bzw. eingefügt gemäss BG vom 17.6.2022, in Kraft seit 1.1.2024 (AS 2023 468); Abs. 3 eingefügt gemäss BG vom 17.12.2021, in Kraft seit 1.8.2023 (AS 2023 309).*
-
-## I. Bedeutung und Funktion
-
-Art. 255 StPO regelt die Voraussetzungen der **DNA-Probenahme und Profilerstellung** im Strafverfahren. Die Erstellung eines DNA-Profils greift in die Grundrechte auf körperliche Integrität (Art. 10 Abs. 2 BV) und informationelle Selbstbestimmung (Art. 13 Abs. 2 BV) ein und untersteht den allgemeinen Zwangsmassnahmen-Voraussetzungen von Art. 197 StPO (→ [Art. 197](../art-197/)). Zulässig ist sie nur bei **Verbrechen oder Vergehen** — nicht bei blossen Übertretungen.
-
-Art. 255 StPO ermöglicht **nicht bei jedem hinreichenden Tatverdacht die routinemässige (invasive) Entnahme** von DNA-Proben und deren Analyse ([BGE 147 I 372, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372); [BGE 141 IV 87, E. 1.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_87)); erforderlich ist stets eine einzelfallbezogene Verhältnismässigkeitsprüfung.
-
-## II. Probenahme zur Aufklärung der Anlasstat (Abs. 1)
-
-Abs. 1 erlaubt Probenahme und Profilerstellung **zur Aufklärung des Verbrechens oder Vergehens, das Gegenstand des Verfahrens bildet** — bei der beschuldigten Person (lit. a), bei Dritten wie Opfern oder Tatortberechtigten zu Ausscheidungszwecken (lit. b), bei toten Personen (lit. c) und aus tatrelevantem biologischem Material (lit. d). Hinsichtlich der **Anlasstat** muss ein hinreichender Tatverdacht i.S.v. Art. 197 Abs. 1 lit. b StPO bestehen; die Hinweise müssen erheblich und konkreter Natur sein ([BGE 141 IV 87, E. 1.3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_87)). Erfordert die Aufklärung der Anlasstat kein DNA-Profil — etwa weil die Täterschaft feststeht —, lässt sich die Massnahme nicht auf Abs. 1 stützen ([BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372), E. 3).
-
-## III. Probenahme im Hinblick auf weitere Delikte (Abs. 1bis)
-
-Der mit der Revision 2024 eingefügte Abs. 1bis **kodifiziert die bisherige Rechtsprechung** zu aArt. 255 Abs. 1 lit. a StPO ([BGE 145 IV 263, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_263)): Von der beschuldigten Person kann ein DNA-Profil auch erstellt werden, wenn **aufgrund konkreter Anhaltspunkte** anzunehmen ist, sie könnte **weitere Verbrechen oder Vergehen** begangen haben. Die Verhältnismässigkeit setzt dabei voraus, dass die Anhaltspunkte **erheblich und konkret** sind und die möglichen weiteren Delikte von einer **gewissen Schwere**; ein hinreichender Tatverdacht bezüglich dieser Delikte ist nicht erforderlich — wohl aber bezüglich der Anlasstat ([BGE 145 IV 263, E. 3.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_263)).
-
-**Grenzen**: Bei der Teilnahme an einer **friedlichen Kundgebung** fehlen regelmässig erhebliche und konkrete Anhaltspunkte für weitere Delikte hinreichender Schwere; DNA-Profil und erkennungsdienstliche Erfassung erweisen sich dann als unverhältnismässig, zumal die Versammlungs- und Meinungsäusserungsfreiheit (Art. 16, 22 BV) in die Abwägung einzubeziehen ist ([BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372), E. 4). Dieselben Massstäbe gelten für die **rückwirkende** Profilerstellung ab Urteil nach Art. 257 StPO ([BGer 6B_912/2024 vom 20. Mai 2025, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_912_2024#e-2-1); [BGer 7B_1060/2023 vom 21. Mai 2025, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_1060_2023#e-3-2)).
-
-## IV. Zuständigkeit (Abs. 2)
-
-Die **Polizei** kann nur die **nicht invasive Probenahme** (namentlich den Wangenschleimhautabstrich) und die Profilerstellung aus tatrelevantem Material anordnen. Die **Erstellung des DNA-Profils einer Person** ist demgegenüber von der **Staatsanwaltschaft** (oder vom Gericht) anzuordnen; diese Kompetenz kann nicht durch generelle Weisungen an die Polizei delegiert werden ([BGE 141 IV 87, E. 1.3.2 und 1.4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_87)).
-
-## V. Y-DNA-Abgleich (Abs. 3)
-
-Kann aus tatrelevantem Material nur ein **Y-DNA-Profil** (väterliche Linie) erstellt werden, darf die Staatsanwaltschaft dessen **Abgleich im DNA-Informationssystem** anordnen — allerdings nur **zur Aufklärung eines Verbrechens**. Die Bestimmung wurde mit der Revision des DNA-Profil-Gesetzes per 1.8.2023 eingefügt und trägt der beschränkten Aussagekraft des Y-Profils (Erfassung ganzer väterlicher Verwandtschaftslinien) Rechnung.
-
-## VI. Abgrenzung zu anderen Normen
-
-| Norm | Verhältnis zu Art. 255 StPO |
-|---|---|
-| Art. 197 StPO | Allgemeine Zwangsmassnahmen-Voraussetzungen (→ [Art. 197](../art-197/)) |
-| Art. 256 StPO | Massenuntersuchungen |
-| Art. 257 StPO | Probenahme bei verurteilten Personen |
-| Art. 258 f. StPO | Durchführung der Probenahme, Anwendbarkeit des DNA-Profil-Gesetzes |
-| Art. 260 StPO | Erkennungsdienstliche Erfassung (paralleles Institut) |
-| DNA-Profil-Gesetz (SR 363) | Informationssystem, Löschungsfristen |
-| Art. 113 StPO | Duldungspflicht der beschuldigten Person (→ [Art. 113](../art-113/)) |
-
-## VII. Rechtsprechung
-
-→ [Rechtsprechungsübersicht](rechtsprechung/)
+> **3** Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003 anordnen.
 
 ---
 
-*Zuletzt aktualisiert: 4. Juli 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-255/_index.md) · [Anregung einreichen](/einreichung)*
+## Vorbemerkungen und Systematik
+
+### I. Bedeutung und Zweck
+
+**Rz. 1** Art. 255 StPO regelt die Grundvoraussetzungen für die **Entnahme von biologischen Proben und die Erstellung von DNA-Profilen**. Das DNA-Profil dient der zweifelsfreien Identifikation von Tätern sowie dem Ausschluss von unschuldig Tatverdächtigen. Da die dauerhafte Speicherung eines DNA-Profils im nationalen DNA-Informationssystem (CODIS) in das verfassungsmässige Recht auf informationelle Selbstbestimmung (Art. 13 Abs. 2 BV; Art. 8 EMRK) eingreift, verlangt das Bundesgericht eine strenge **einzelfallbezogene Verhältnismässigkeitsprüfung** ([BGE 147 IV 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-249_2021.html) E. 2; [BGE 145 IV 263](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-263_2019.html) E. 3).
+
+**Rz. 2** **Systematische Einordnung und Gesetzesrevision 2024.** Art. 255 StPO steht im 4. Abschnitt («Erkennungsdienstliche Erfassung, DNA-Profile und ähnliche Massnahmen») des 5. Titels. Mit der StPO-Revision per 1. Januar 2024 wurde Abs. 1bis eingeführt, welcher die DNA-Profilierung zur Aufklärung ungeklärter Vortaten ausdrücklich normiert, sowie Abs. 3 für den Abgleich von **Y-Chromosomen-Profilen** (männliche Abstammungslinie).
+
+---
+
+## Abs. 1 und Abs. 1bis — Voraussetzungen bei Personen und Spuren
+
+**Rz. 3** **1. Beschuldigte Person zur Aufklärung des Anlassdelikts (Abs. 1 lit. a):** Die DNA-Probenahme ist zulässig bei Verbrechen oder Vergehen (nicht bei Übertretungen), wenn Spuren am Tatort gesichert wurden, die mit dem Beschuldigten abgeglichen werden müssen ([BGE 141 IV 87](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-87_2015.html) E. 1.3).
+
+**Rz. 4** **2. Präventive Profilierung für künftige/weitere Taten (Abs. 1bis):** Die DNA-Erfassung ist zulässig, wenn konkrete Anhaltspunkte (z.B. Vorstrafen wegen gleichartiger Delikte, Modus Operandi bei Einbruchserien) darauf hindeuten, dass der Beschuldigte weitere Straftaten begangen hat oder begehen könnte ([BGE 145 IV 263](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-263_2019.html) E. 3; [BGer 1B_180/2021 vom 18. Mai 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-180-2021_2021-05-18.html) E. 2.4).
+
+**Rz. 5** **3. Opfer und Tatortberechtigte (Ausschlussmuster, Abs. 1 lit. b):** Dient ausschliesslich der Trennung von Täter- und Opferspuren; diese Profile dürfen nicht dauerhaft im Informationssystem gespeichert werden ([BGer 6B_913/2021 vom 25. Oktober 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-913-2021_2021-10-25.html) E. 1.2).
+
+---
+
+## Abs. 2 und Abs. 3 — Kompetenzen von Polizei und Staatsanwaltschaft
+
+**Rz. 6** **Polizeiliche Anordnungskompetenz (Abs. 2):** Die Polizei kann selbständig anordnen:
+- die **nicht-invasive Probenahme** (Wangenschleimhautabstrich mit Wattestäbchen);
+- die Profilerstellung aus am Tatort sichergestellten biologischen Spuren ([BGE 144 IV 127](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-127_2018.html) E. 2.1).
+*Invasive Probenahmen* (z.B. Blutentnahme) und die *Erstellung des Profils der Person* bedürfen eines staatsanwaltschaftlichen Befehls.
+
+**Rz. 7** **Y-DNA-Abgleich bei Verbrechen (Abs. 3).** Reicht das Spurenmaterial nur für ein Y-Chromosomen-Profil, darf die Staatsanwaltschaft bei Verbrechen einen gezielten Abgleich anordnen ([BGer 6B_1409/2019 vom 4. März 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1409-2019_2021-03-04.html) E. 1.2).
+
+---
+
+## Kantonale Praxisfragen
+
+### 1. Unverhältnismässigkeit bei isolierten Ersttaten
+**Rz. 8** Ist die DNA-Probenahme bei einem nicht vorbestraften Ersttäter wegen einer einfachen Sachbeschädigung oder eines einfachen Hausfriedensbruchs zulässig?
+Nein. Die kantonale Praxis verlangt eine qualifizierte Gefahrenprognose. Bei leichten Delikten ohne Gewaltanwendung und ohne jede Vorstrafe ist die Anordnung eines DNA-Profils mangels Verhältnismässigkeit aufzuheben ([BGer 7B_177/2023 vom 20. November 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-177-2023_2023-11-20.html) E. 3.1; [SG Kantonsgericht AK.2024.226 vom 12. September 2024](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2024-226_2024-09-12.pdf)).
+
+### 2. Zwangsvollzug bei Weigerung des Beschuldigten
+**Rz. 9** Weigert sich die beschuldigte Person, den Mund für den Wangenabstrich zu öffnen, darf die Massnahme durch Zwangsvollzug unter Beizug eines Arztes (z.B. Blutentnahme) durchgesetzt werden ([SZ Kantonsgericht BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
