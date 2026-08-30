@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 320 StPO – Einstellungsverfügung: Freispruchswirkung (ne bis in idem), Aufhebung von Zwangsmassnahmen, Einziehung und Zivilklagen."
 tags: ["Rechtsprechung", "StPO", "Einstellungsverfügung", "Staatsanwaltschaft", "Freispruchswirkung", "ne bis in idem", "Zwangsmassnahmen", "Zivilklage", "Vorverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
