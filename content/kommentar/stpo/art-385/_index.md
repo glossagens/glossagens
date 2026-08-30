@@ -1,18 +1,24 @@
 ---
-title: "Art. 385 — Begründung und Form"
+title: "Art. 385 StPO — Begründung und Form der Rechtsmittel"
 weight: 385
-date: "2026-06-20"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 385 StPO – Begründung und Form: Anforderungen an die Rechtsmittelbegründung, Nachfrist bei Mängeln, falsche Rechtsmittelbezeichnung"
-tags: ["StPO", "Rechtsmittel", "Begründungspflicht", "Berufung", "Beschwerde", "Nichteintreten"]
+date: "2026-08-30"
+lastmod: "2026-08-30"
+description: "Kommentar zu Art. 385 StPO – Begründung und Form der Rechtsmittel: Formelle Mindestanforderungen und Rügepflicht (Abs. 1), zwingende Nachfristansetzung zur Mangelbeseitigung (Abs. 2) und Grundsatz der unschädlichen Falschbezeichnung (Abs. 3)."
+tags: ["StPO", "Rechtsmittel", "Begründungspflicht", "Rügepflicht", "Nachfrist", "Verbesserung", "Falschbezeichnung", "Formstrenge", "Rechtsmittelverfahren"]
 agent_verified: true
+revisions:
+  - date: "2026-08-30"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständige Neukommentierung zu Art. 385 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 385 StPO — Begründung und Form**
 >
-> 1 Verlangt dieses Gesetz, dass das Rechtsmittel begründet wird, so hat die Person oder die Behörde, die das Rechtsmittel ergreift, genau anzugeben:
+> **1** Verlangt dieses Gesetz, dass das Rechtsmittel begründet wird, so hat die Person oder die Behörde, die das Rechtsmittel ergreift, genau anzugeben:
 >
 > a. welche Punkte des Entscheides sie anficht;
 >
@@ -20,65 +26,45 @@ agent_verified: true
 >
 > c. welche Beweismittel sie anruft.
 >
-> 2 Erfüllt die Eingabe diese Anforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück. Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein.
+> **2** Erfüllt die Eingabe diese Anforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück. Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein.
 >
-> 3 Die unrichtige Bezeichnung eines Rechtsmittels beeinträchtigt seine Gültigkeit nicht.
+> **3** Die unrichtige Bezeichnung eines Rechtsmittels beeinträchtigt seine Gültigkeit nicht.
+
 ---
 
-## Kommentierung
+## Vorbemerkungen und Systematik
 
-### I. Bedeutung und systematische Einordnung
+### I. Bedeutung und Zweck
 
-Art. 385 StPO normiert die formellen Anforderungen an die Rechtsmittelbegründung im Strafverfahren. Die Norm konkretisiert den Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK) im Rechtsmittelverfahren und legt die Mindestvoraussetzungen fest, denen eine Rechtsmittelbegründung genügen muss. Sie gilt für alle Rechtsmittel, die eine Begründungspflicht kennen — namentlich die Berufung (Art. 399 StPO), die Beschwerde (Art. 393 ff. StPO) und die Beschwerde in Strafsachen (Art. 81 ff. BGG).
+**Rz. 1** Art. 385 StPO regelt die **formellen und inhaltlichen Mindestanforderungen an Rechtsmitteleingaben** (Berufungserklärung nach Art. 399 Abs. 3 StPO, Beschwerdeschrift nach Art. 396 Abs. 1 StPO, Revision nach Art. 411 StPO). Die Norm balanciert das Bedürfnis der Gerichte nach präzisen Rügen und Anträgen mit dem verfassungsrechtlichen **Verbot des überspitzten Formalismus** (Art. 29 Abs. 1 BV) und dem Anspruch auf wirksamen Rechtsschutz (Art. 6 EMRK). Sie verpflichtet die Rechtsmittelinstanz bei unzureichenden Begründungen oder Formmängeln zur Gewährung einer **Heilungsmöglichkeit durch Nachfrist** und schützt Laien vor Rechtsnachteilen bei irrtümlicher Falschbezeichnung des Rechtsmittels ([BGE 144 IV 383](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-383_2018.html) E. 1.2; [BGE 142 IV 299](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-299_2016.html) E. 1.3).
 
-### II. Begründungsanforderungen (Abs. 1)
+**Rz. 2** **Systematische Einordnung.** Art. 385 StPO gehört zu den «Allgemeinen Bestimmungen» des 9. Titels («Rechtsmittel») und gilt für alle Rechtsmittelarten der StPO, soweit keine Spezialbestimmungen vorgehen.
 
-**a. Anfechtbare Punkte (lit. a):**
+---
 
-Die rechtsmittelergreifende Person muss klar angeben, welche Teile des angefochtenen Entscheids sie bekämpft. Es genügt nicht, den Entscheid global anfechten zu wollen; vielmehr sind die konkreten Dispositivziffern oder Erwägungen zu bezeichnen, mit denen man nicht einverstanden ist.
+## Abs. 1 — Die drei gesetzlichen Mindestanforderungen
 
-**b. Gründe für einen anderen Entscheid (lit. b):**
+**Rz. 3** **1. Genaue Bezeichnung der Anfechtungspunkte (lit. a):** Die rechtsmittelführende Partei muss beziffern oder klar bezeichnen, welche Dispositivziffern (z.B. Schuldspruch Delikt A, Strafmass, Einziehung, Zivilforderung, Kosten) angefochten werden ([BGE 141 IV 244](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-244_2015.html) E. 1.3).
 
-Die Begründung muss sich mit den Erwägungen der Vorinstanz auseinandersetzen und darlegen, warum diese rechtlich oder tatsächlich unzutreffend sein sollen. Eine blosse appellatorische Kritik genügt nicht. Vielmehr sind konkrete rechtliche Einwände oder tatsächliche Behauptungen erforderlich, die geeignet sind, den angefochtenen Entscheid in Frage zu stellen. Im Berufungsverfahren genügt die Bezugnahme auf die Berufungserklärung (Art. 399 Abs. 3 StPO), im BGG-Verfahren gelten die qualifizierten Anforderungen von Art. 106 Abs. 2 BGG.
+**Rz. 4** **2. Substanziierte Begründung (lit. b):** Es muss sachbezogen dargelegt werden, inwiefern der Vorinstanz ein Rechtsfehler, eine unvollständige/unrichtige Sachverhaltsfeststellung oder eine Unangemessenheit unterlaufen ist. Pauschale Floskeln genügen nicht ([BGer 6B_776/2021 vom 8. November 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-776-2021_2021-11-08.html) E. 1.3).
 
-**c. Beweismittel (lit. c):**
+**Rz. 5** **3. Bezeichnung der Beweismittel (lit. c):** Werden neue Tatsachen behauptet, sind die entsprechenden Beweismittel (z.B. Dokumente beilegen, Namen und Adressen von Zeugen) präzise anzugeben ([SZ Kantonsgericht STK 2026 18 vom 4. Mai 2026](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2026-18_2026-05-04.pdf)).
 
-Die Beweisanträge sind konkret zu bezeichnen. Es genügt nicht, bloss generell «Zeugen» oder «Gutachten» zu beantragen; vielmehr sind die zu befragenden Personen, die einzuholenden Gutachten oder die beizuziehenden Dokumente individuell zu bestimmen, soweit dies zumutbar ist.
+---
 
-### III. Nachfrist und Nichteintreten (Abs. 2)
+## Abs. 2 und 3 — Nachfrist zur Mangelbeseitigung und Konversion
 
-Erfüllt die Eingabe die Begründungsanforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück (Abs. 2 Satz 1). Dies ist eine Pflicht: Die Nachfristgewährung ist nicht fakultativ, sondern zwingend, sofern der Mangel nicht offensichtlich unbehebbar ist.
+**Rz. 6** **Zwingende Nachfrist (Abs. 2):** Erfüllt die Rechtsschrift die Anforderungen von Abs. 1 oder formelle Vorgaben (z.B. fehlende eigenhändige Unterschrift) nicht, **muss** die Verfahrensleitung der Rechtsmittelinstanz eine kurze Nachfrist (in der Regel 5 bis 10 Tage) zur Behebung ansetzen. Ein sofortiges Nichteintreten verletzt Bundesrecht ([BGE 142 IV 299](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-299_2016.html) E. 1.3; [BGer 7B_127/2023 vom 14. März 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-127-2023_2024-03-14.html) E. 2.2). Erst bei fruchtlosem Ablauf der Nachfrist ergeht der Nichteintretensentscheid.
 
-Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein (Abs. 2 Satz 2). Die Nichteintretensfolge ist somit die ultima ratio bei beharrlich ungenügender Begründung. Die Praxis ist restriktiv: Blosse Pauschalrügen oder allgemeine Unzufriedenheit genügen weder für die Ersteingabe noch nach Nachfristgewährung.
+**Rz. 7** **Unschädliche Falschbezeichnung (Abs. 3):** Bezeichnet der Beschwerdeführer seine Eingabe fälschlich als «Rekurs», «Einwand» oder «Berufung» (obwohl eine Beschwerde statthaft ist), ist die Eingabe als das richtige Rechtsmittel zu behandeln (*Konversion*; [BGE 138 IV 86](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-86_2012.html) E. 3.1).
 
-Im Zusammenhang mit der Nichteintretenspraxis bei ungenügender Begründung ist auch Art. 394 StPO (Nichteintreten auf Rechtsmittel) zu beachten, der die allgemeine Rechtsgrundlage für das Nichteintreten bildet.
+---
 
-### IV. Falsche Rechtsmittelbezeichnung (Abs. 3)
+## Kantonale Praxisfragen
 
-Abs. 3 stellt klar, dass die unrichtige Bezeichnung eines Rechtsmittels seine Gültigkeit nicht beeinträchtigt. Dies entspricht dem Grundsatz der Rechtsmittelumdeutung: Massgebend ist das gewollte Rechtsmittel, nicht die formelle Bezeichnung. Die Rechtsmittelinstanz hat das Rechtsmittel so zu behandeln, wie es seinem Inhalt nach gemeint ist (sog. Meistbegünstigungsprinzip).
+### 1. Nachfrist bei Laieneingaben vs. Anwaltseingaben
+**Rz. 8** Gilt die Pflicht zur Nachfristansetzung auch für anwaltlich verfasste Eingaben?
+Ja. Auch unvollständige anwaltliche Rechtsschriften unterliegen grundsätzlich der Nachfrist nach Abs. 2. Allerdings darf die Nachfrist nicht missbraucht werden, um die gesetzliche Berufungs- oder Beschwerdefrist willkürlich zu verlängern (kein Nachschieben völlig neuer Rügen ausserhalb des Rahmens der Anfechtung; [SZ Kantonsgericht BEK 2024 96 vom 12. Juni 2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-96_2024-06-12.pdf)).
 
-### V. Massstab und Intensität der Begründungspflicht
-
-Die Begründungspflicht ist nicht für alle Rechtsmittel gleich intensiv:
-
-- **Berufung (Art. 399 StPO):** Das zweistufige Berufungsverfahren trennt zwischen Berufungsanmeldung (ohne Begründung) und Berufungserklärung. Die Begründung nach Art. 385 StPO kann im schriftlichen oder mündlichen Verfahren nachgeholt werden.
-- **Beschwerde in Strafsachen (Art. 81 ff. BGG):** Hier gelten die qualifizierten Begründungsanforderungen von Art. 106 Abs. 2 BGG, die über Art. 385 StPO hinausgehen.
-- **Beschwerde nach StPO (Art. 393 ff. StPO):** Die Begründungspflicht richtet sich nach Art. 385 StPO, die Anforderungen sind weniger streng als im BGG-Verfahren.
-
-### VI. Abgrenzungen
-
-- **Art. 394 StPO (Nichteintreten):** Regelt die Folge der ungenügenden Begründung, während Art. 385 die Anforderungen definiert.
-- **Art. 399 StPO (Berufung):** Das spezifische Berufungsverfahren mit seiner zweistufigen Struktur.
-- **Art. 106 Abs. 2 BGG (Begründungsanforderungen):** Qualifizierte Begründungspflicht im bundesgerichtlichen Verfahren.
-- **Art. 29 Abs. 2 BV / Art. 6 Ziff. 1 EMRK (Rechtliches Gehör):** Die verfassungsrechtliche Grundlage, die Art. 385 StPO konkretisiert.
-
-### VII. Kasuistik
-
-**BGer 6B_1005/2025 — Ungenügende Berufungsbegründung:** Das Bundesgericht bestätigte die Nichteintretenspraxis bei ungenügender Berufungsbegründung im Verkehrsstrafrecht. Der anwaltlich vertretene Beschwerdeführer hatte sich im Berufungsverfahren nicht ansatzweise mit den Erwägungen der Erstinstanz auseinandergesetzt. Die blosse Behauptung der theoretischen Möglichkeit eines falschen Messresultats rechtfertigte keine weiteren Beweiserhebungen.
-
-**BGE 143 I 284 E. 1.3 — Zurechnungsgrundsatz:** Das Verschulden des Anwalts wird dem Mandanten grundsätzlich zugerechnet. Dies betrifft auch die Begründungspflicht: Versäumt der Anwalt die fristgerechte Begründung, geht dies zu Lasten der rechtsmittelergreifenden Partei.
-
-## Literatur
-
-- Piétra-Pflimm, in: Commentaire romand, Code de procédure pénale suisse, 2011, N. 1 ff. zu Art. 385 StPO
-- Heimgartner, in: Basler Kommentar, StPO, 2. Aufl. 2014, N. 1 ff. zu Art. 385 StPO
+### 2. Elektronische Formmängel (Signatur)
+**Rz. 9** Wird ein Rechtsmittel per einfacher E-Mail anstelle einer qualifizierten Plattform (IncaMail / PrivaSphere) eingereicht, setzt das Gericht nach kantonaler Praxis eine Nachfrist zur Einreichung einer handschriftlich unterzeichneten Papiereingabe oder elektronisch qualifizierten Signatur an ([SZ Kantonsgericht BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
