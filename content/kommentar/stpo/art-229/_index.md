@@ -1,82 +1,61 @@
 ---
-title: "Art. 229 — Entscheid über die Anordnung der Sicherheitshaft"
+title: "Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft"
 weight: 229
-date: "2026-05-23"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 229 StPO – Entscheidung über die Anordnung der Sicherheitshaft nach erstinstanzlichem Urteil"
-tags: ["StPO", "Sicherheitshaft", "Zwangsmassnahmen", "Haftrecht"]
+date: "2026-08-30"
+lastmod: "2026-08-30"
+description: "Kommentar zu Art. 229 StPO – Entscheid über die Anordnung der Sicherheitshaft: Richterliche Zuständigkeit des Zwangsmassnahmengerichts (Abs. 1), Haftverfahren des Sachgerichts bei nachträglichen Haftgründen (Abs. 2) sowie anwendbare Verfahrensregeln (Abs. 3)."
+tags: ["StPO", "Sicherheitshaft", "Untersuchungshaft", "Zwangsmassnahmengericht", "Anklageerhebung", "Sachgericht", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
-  - date: "2026-08-13"
-    by: "Hermes Agent"
-    model: "glm-5.1"
+  - date: "2026-08-30"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
+    note: "Vollständige Neukommentierung zu Art. 229 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft**
 >
-> 1 Über die Anordnung der Sicherheitshaft bei vorbestehender Untersuchungshaft entscheidet das Zwangsmassnahmengericht auf schriftliches Gesuch der Staatsanwaltschaft.
+> **1** Über die Anordnung der Sicherheitshaft bei vorbestehender Untersuchungshaft entscheidet das Zwangsmassnahmengericht auf schriftliches Gesuch der Staatsanwaltschaft.
 >
-> 2 Ergeben sich erst nach der Anklageerhebung Haftgründe, so führt die Verfahrensleitung des erstinstanzlichen Gerichts in sinngemässer Anwendung von Artikel 224 ein Haftverfahren durch und beantragt dem Zwangsmassnahmengericht die Anordnung der Sicherheitshaft.
+> **2** Ergeben sich erst nach der Anklageerhebung Haftgründe, so führt die Verfahrensleitung des erstinstanzlichen Gerichts in sinngemässer Anwendung von Artikel 224 ein Haftverfahren durch und beantragt dem Zwangsmassnahmengericht die Anordnung der Sicherheitshaft.
 >
-> 3 Das Verfahren vor dem Zwangsmassnahmengericht richtet sich:
+> **3** Das Verfahren vor dem Zwangsmassnahmengericht richtet sich:
 >
 > a. ohne vorbestehende Untersuchungshaft: sinngemäss nach den Artikeln 225 und 226;
 >
 > b. bei vorbestehender Untersuchungshaft: sinngemäss nach Artikel 227.
 
-## Kommentierung
+---
 
-### Bedeutung
+## Vorbemerkungen und Systematik
 
-Art. 229 StPO regelt das Verfahren zur Anordnung von Sicherheitshaft nach Anklageerhebung. Die Sicherheitshaft tritt an die Stelle der Untersuchungshaft und sichert das Strafverfahren in der Phase zwischen Anklageeingang und Rechtskraft (Art. 220 Abs. 2 StPO). Die Vorschrift statuiert eine Zuständigkeits- und Verfahrensordnung, die zwischen zwei Konstellationen unterscheidet: bei bereits bestehender Untersuchungshaft (Abs. 1 und 3 lit. b) und bei erst nach Anklageerhebung entstehenden Haftgründen (Abs. 2 und 3 lit. a).
+### I. Bedeutung und Zweck
 
-### Voraussetzungen
+**Rz. 1** Art. 229 StPO regelt das **richterliche Verfahren zur Anordnung der Sicherheitshaft** beim Übergang vom Vorverfahren in das erstinstanzliche Hauptverfahren. Nach Art. 220 Abs. 2 StPO beginnt die Sicherheitshaft mit dem Eingang der Anklageschrift beim erstinstanzlichen Gericht. Um die verfassungsrechtliche Gewaltentrennung und die Unvoreingenommenheit des Sachgerichts (Art. 30 Abs. 1 BV; Art. 6 Ziff. 1 EMRK) zu wahren, entscheidet über die Anordnung der Sicherheitshaft nicht das zur Hauptsache berufene Sachgericht, sondern weiterhin das unabhängige **Zwangsmassnahmengericht (ZMG)** ([BGE 144 IV 383](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-383_2018.html) E. 1.2; [BGE 140 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-1_2013.html) E. 2.1).
 
-**Vorbestehende Untersuchungshaft (Abs. 1 und 3 lit. b):**
-- Die Staatsanwaltschaft reicht ein schriftliches Gesuch beim Zwangsmassnahmengericht ein.
-- Das Verfahren richtet sich sinngemäss nach Art. 227 StPO (Verfahren bei Untersuchungshaft), insbesondere hinsichtlich der periodischen Überprüfung ([BGE 137 IV 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_180), E. 3.5).
+**Rz. 2** **Systematische Einordnung.** Die Norm schliesst die allgemeinen Vorschriften über die Einleitung der Sicherheitshaft ab und leitet zum Verfahren vor dem erstinstanzlichen Gericht (Art. 230 ff. StPO) über.
 
-**Erst nach Anklageerhebung entstehende Haftgründe (Abs. 2 und 3 lit. a):**
-- Die Verfahrensleitung des erstinstanzlichen Gerichts führt das Haftverfahren sinngemäss nach Art. 224 StPO durch.
-- Das Zwangsmassnahmengericht entscheidet sinngemäss nach den Art. 225 und 226 StPO.
-- Erforderlich ist ein Haftgrund (insb. Fluchtgefahr, Kollusionsgefahr oder Ausführungsgefahr nach Art. 221 StPO).
+---
 
-### Dauer der Sicherheitshaft
+## Die Verfahrenskonstellationen (Abs. 1 bis 3)
 
-Nach der massgeblichen Praxis des Bundesgerichts gilt für die Dauer der Sicherheitshaft eine **Obergrenze von 3 Monaten**, die in Ausnahmefällen auf 6 Monate verlängert werden kann ([BGE 137 IV 180](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_180), E. 3.5). Diese Begrenzung gilt sowohl für die erstmalige Anordnung als auch für die Verlängerung.
+**Rz. 3** **1. Übergang bei vorbestehender Untersuchungshaft (Abs. 1 und Abs. 3 lit. b):**
+- Reicht die Staatsanwaltschaft beim Gericht Anklage ein, stellt sie beim ZMG gleichzeitig das Gesuch um Anordnung der Sicherheitshaft;
+- Das ZMG wendet sinngemäss die Vorschriften über das Haftverlängerungsverfahren (Art. 227 StPO) an: Dem Angeklagten und seiner Verteidigung wird eine 3-tägige Frist zur schriftlichen Stellungnahme gewährt, und das ZMG entscheidet innert 5 Tagen ([BGE 143 IV 316](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-316_2017.html) E. 3.1).
 
-**BGE 146 IV 279** präzisiert: Die 6-Monats-Frist ist die Ausnahme und setzt besondere Gründe voraus. Das erstinstanzliche Gericht muss in der Lage sein, die Hauptverhandlung innert 3 Monaten anzusetzen ([BGE 146 IV 279](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_279)). Die 3-Monats-Regel spiegelt das Beschleunigungsgebot in Haftsachen wider.
+**Rz. 4** **2. Nachträgliche Haftgründe nach Anklageerhebung (Abs. 2 und Abs. 3 lit. a):**
+- Befand sich der Beschuldigte bei Anklageerhebung auf freiem Fuss und treten erst danach Haftgründe auf (z.B. Fluchtvorbereitung, Zeugenbeeinflussung), führt die **Verfahrensleitung des Sachgerichts** die persönliche Einvernahme durch (Art. 224 StPO) und beantragt beim ZMG die Haft;
+- Das ZMG führt das Verfahren nach den Regeln über die erstmalige Haftanordnung (Art. 225/226 StPO) mit einer nicht öffentlichen mündlichen Verhandlung durch ([BGE 137 IV 122](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html) E. 4.1).
 
-### Ausführungsgefahr und Ersatzmassnahmen
+---
 
-Die Verlängerung der Sicherheitshaft setzt das Fortbestehen eines Haftgrunds voraus. Bei drohenden schweren Gewaltdelikten ist **keine maximal ausgeprägte ungünstige Prognose erforderlich**, um eine ernsthaften und unmittelbaren Ausführungsgefahr i.S.v. Art. 221 Abs. 2 StPO anzunehmen ([BGer 7B_501/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_501_2026)).
+## Kantonale Praxisfragen
 
-Ersatzmassnahmen (Art. 237 StPO) müssen geeignet sein, die konkrete Gefahr zu bannen. Ein Rayon- und Kontaktverbot kann die Ausführungsgefahr vermindern, reicht aber bei akuter Gefahr von schwerer Gewalt nicht aus ([BGE 140 IV 19](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_19), E. 3).
+### 1. Befristung und Beschleunigungsgebot
+**Rz. 5** Das ZMG bewilligt die Sicherheitshaft in der Regel für maximal 3 Monate oder bis zum erstinstanzlichen Urteil, falls die Verhandlung zeitnah angesetzt ist. Das Sachgericht ist verpflichtet, die Verhandlung mit absoluter Priorität durchzuführen ([BGer 7B_127/2023 vom 14. März 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-127-2023_2024-03-14.html) E. 1.2; [BS Appellationsgericht BES.2022.81 vom 4. November 2022](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-81_2022-11-04.html)).
 
-### Sicherheitshaft im Massnahmennachverfahren
-
-Die Art. 221 und 229 ff. StPO sind im selbstständigen nachträglichen Verfahren über die Verlängerung einer stationären therapeutischen Massnahme (Art. 59 Abs. 4 StGB i.V.m. Art. 363 Abs. 1 StPO) **sinngemäss anwendbar** ([BGE 139 IV 175](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_175); [BGE 146 I 115](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_115)). Diese analoge Anwendbarkeit stützt sich auf eine lang andauernde und konstante Praxis und ist EMRK-konform.
-
-### Keine periodische Überprüfung im Berufungsverfahren
-
-Gemäss [BGE 139 IV 186](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_186) erfolgt im Berufungsverfahren **keine periodische automatische Überprüfung** der Sicherheitshaft. Art. 231 Abs. 2 StPO schliesst die analoge Anwendung von Art. 227 Abs. 7 StPO aus.
-
-### Begründungsanforderungen
-
-Der Haftverlängerungsentscheid muss den Anforderungen des rechtlichen Gehörs entsprechen (Art. 29 Abs. 2 BV, Art. 3 Abs. 2 lit. c StPO). Die Begründung muss erkennen lassen, welche Haftgründe vorliegen und warum mildere Massnahmen nicht genügen ([BGE 139 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_179)).
-
-### Vollzugsrechtliche Sicherheitshaft
-
-Im Verfahren betreffend nachträgliche Anordnung der Verwahrung (Art. 65 Abs. 2 StGB) oder Änderung einer Massnahme (Art. 62c Abs. 3 StGB) richtet sich die Anordnung vollzugsrechtlicher Sicherheitshaft nach Art. 221 und Art. 229 StPO ([BGE 137 IV 333](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_333)).
-
-### Abgrenzungen
-
-- **Art. 220 StPO**: Definiert Untersuchungshaft (Abs. 1) und Sicherheitshaft (Abs. 2) als eigenständige Haftformen.
-- **Art. 228 StPO**: Haftentlassungsgesuch — sinngemäss anwendbar gemäss Art. 230 Abs. 5 StPO.
-- **Art. 230 StPO**: Entlassung aus Sicherheitshaft während erstinstanzlichem Verfahren.
-- **Art. 231 StPO**: Sicherheitshaft nach dem erstinstanzlichen Urteil.
-- **Art. 232 StPO**: Sicherheitshaft während Verfahren vor dem Berufungsgericht.
+### 2. Beschwerde an die kantonale Beschwerdeinstanz (Art. 222 StPO)
+**Rz. 6** Gegen den Entscheid des ZMG über die Anordnung der Sicherheitshaft steht der inhaftierten Person innert 3 Tagen die Beschwerde an das kantonale Obergericht bzw. Kantonsgericht offen ([SZ Kantonsgericht BEK 2024 96 vom 12. Juni 2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-96_2024-06-12.pdf)).
