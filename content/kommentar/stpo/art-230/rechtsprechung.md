@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 230 StPO – Entlassung aus der Sicherheitshaft während des erstinstanzlichen Verfahrens: Zuständigkeit der Verfahrensleitung, Weiterleitung an das ZMG und Zustimmung der Staatsanwaltschaft."
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Haftentlassung", "Verfahrensleitung", "Sachgericht", "Zwangsmassnahmengericht", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
