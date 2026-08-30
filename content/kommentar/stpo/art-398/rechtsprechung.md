@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 398 StPO – Zulässigkeit der Berufung, umfassende Kognition, Berufungsgründe, Beschränkungen bei Übertretungen und Zivilpunkt."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Rechtsmittelverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
