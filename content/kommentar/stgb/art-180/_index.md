@@ -1,12 +1,17 @@
 ---
-title: "Art. 180 StGB — Drohung"
+title: "Art. 180 — Drohung"
 weight: 180
 date: 2026-08-01
-lastmod: 2026-08-23
+lastmod: "2026-08-30"
 description: "Kommentar zu Art. 180 StGB: Drohung — Begriff der schweren Drohung, Versetzen in Schrecken oder Angst (Abs. 1), Offizialverfolgung bei häuslicher Gewalt in Ehe, Partnerschaft und Konkubinat (Abs. 2)."
 tags: ["StGB", "Drohung", "Schwere Drohung", "Antragsdelikt", "Offizialdelikt", "Häusliche Gewalt", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-08-30
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGer 6B_776/2016, BGer 6B_1056/2016); irrelevante Zitate entfernt (BGE 137 IV 258 = Art. 66, BGE 134 IV 216 = Art. 181, BGE 126 IV 124 = Art. 190, BGE 120 IV 17 = Art. 181); dubiose kantonale Zitate entfernt; BGE 141 IV 1 (juristische Person, Geschädigteneigenschaft) ergänzt; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -19,7 +24,7 @@ revisions:
     note: "Audit KW33"
 ---
 
-## Gesetzeswortlaut
+## Wortlaut
 
 > **Art. 180 StGB — Drohung**
 >
@@ -30,39 +35,45 @@ revisions:
 > abis. die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Drohung während der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde; oder
 > b. der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Drohung während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.
 
----
+*Quelle: Fedlex (SR 311.0), Stand 12.06.2026*
 
 ## I. Überblick und Rechtsnatur
 
-### 1. Begriff und Schutzzweck
-**1** Art. 180 StGB schützt das Rechtsgut der **persönlichen Ruhe und Freiheit vor Furcht**. Während die Nötigung gemäss [Art. 181 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_181) eine Beeinträchtigung der Handlungsfreiheit bezweckt, sanktioniert Art. 180 StGB bereits die emotionale Beeinträchtigung durch das Versetzen in Schrecken oder Angst ([BGE 99 IV 212 E. 1a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_99_IV_212)).
+### 1. Schutzzweck und Deliktsnatur
+
+**1** Art. 180 StGB schützt das Rechtsgut der **persönlichen Ruhe und Freiheit vor Furcht** (innere Freiheit und Sicherheitsgefühl). Während die Nötigung gemäss [Art. 181 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_181) eine Beeinträchtigung der Handlungsfreiheit bezweckt, sanktioniert Art. 180 StGB bereits die emotionale Beeinträchtigung durch das Versetzen in Schrecken oder Angst. Eine juristische Person hat keine solchen Gefühle und ist nicht Trägerin der von Art. 180 StGB geschützten Rechtsgüter; sie ist daher nicht geschädigt im Sinne von Art. 115 StPO ([BGE 141 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-1_2015.html) E. 3.2).
+
+### 2. Antragserfordernis und Ausnahme (Abs. 2)
+
+**2** Der Grundtatbestand ist ein **Antragsdelikt** (Abs. 1). In Ehe-, eingetragener Partnerschaft und Konkubinatsverhältnissen wird die Tat von Amtes wegen verfolgt (Abs. 2), um Opfer vor häuslichem Druck und wiederholter Einschüchterung zu schützen. Die Jahresfrist nach Auflösung oder Trennung schützt vor Nachwirkungen häuslicher Gewalt.
 
 ---
 
 ## II. Tatbestandsmerkmale des Grundtatbestands (Abs. 1)
 
 ### 1. Schwere Drohung
-**2** Eine Drohung ist schwer, wenn das Inaussichtstellen eines Nachteils nach objektivem Massstab geeignet ist, bei einem durchschnittlich empfindsamen Menschen erhebliche Furcht hervorzurufen ([BGE 99 IV 212 E. 1a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_99_IV_212); [BGE 141 IV 1 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_1)).
+
+**3** Eine Drohung ist schwer, wenn das Inaussichtstellen eines Nachteils nach objektivem Massstab geeignet ist, bei einem durchschnittlich empfindsamen Menschen erhebliche Furcht hervorzurufen. Bei der Feststellung, ob eine Drohung objektiv geeignet ist, Furcht hervorzurufen, muss nicht nur auf die angewendeten Mittel, sondern auch auf die gesamten Umstände abgestellt werden ([BGE 99 IV 212](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-99-IV-212_1973-12-21.html) E. 1a). Die Drohung kann auch durch Gesten, konkludentes Verhalten oder durch das «Wissenlassen» erfolgen, ohne dass sie ausdrücklich geäussert werden muss.
 
 ### 2. Taterfolg: Versetzen in Schrecken oder Angst
-**3** Erforderlich ist, dass das Opfer die Drohung tatsächlich wahrgenommen hat und dadurch in einen Zustand von Angst oder Schrecken versetzt worden ist ([BGE 137 IV 258 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_258)).
 
-### 3. Widerrechtlichkeit und Rechtsausübung
-**4** Die Drohung ist widerrechtlich, wenn das angedrohte Übel rechtswidrig ist oder die Verknüpfung zwischen Mittel und Zweck gegen die guten Sitten verstösst ([BGE 120 IV 17 E. 2a](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_17); [BGE 134 IV 216 E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_IV_216)).
+**4** Erforderlich ist, dass das Opfer die Drohung tatsächlich wahrgenommen hat und dadurch in einen Zustand von Angst oder Schrecken versetzt worden ist. Massgeblich ist eine Gesamtwürdigung der Tatumstände — nicht nur die Worte, sondern das gesamte Drohszenario ([BGE 99 IV 212](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-99-IV-212_1973-12-21.html) E. 1a).
+
+### 3. Widerrechtlichkeit
+
+**5** Die Drohung ist widerrechtlich, wenn das angedrohte Übel rechtswidrig ist oder die Verknüpfung zwischen Mittel und Zweck gegen die guten Sitten verstösst. Das Androhen rechtlicher Schritte ist widerrechtlich, wenn damit sachfremde Vorteile erzwungen werden sollen. Wo Art. 180 und Art. 181 StGB anwendbar sind, liegt Gesetzeskonkurrenz vor ([BGE 99 IV 212](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-99-IV-212_1973-12-21.html) E. 1b).
 
 ---
 
 ## III. Offizialverfolgung bei häuslicher Gewalt (Abs. 2)
 
-### 1. Geschützter Personenkreis
-**5** In Ehe-, Partnerschafts- und Konkubinatsverhältnissen wird die Drohung von Amtes wegen verfolgt, um Opfer vor häuslichem Druck und wiederholter Einschüchterung zu schützen ([BGE 126 IV 124 E. 3b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_IV_124)).
+**6** In Ehe-, Partnerschafts- und Konkubinatsverhältnissen wird die Drohung **von Amtes wegen** verfolgt, um Opfer vor häuslichem Druck und wiederholter Einschüchterung zu schützen. Als Nötigungsmittel kommen fortlaufendes Drangsalieren und anhaltender Psychoterror in Betracht. Der Tatbestand kann erfüllt sein, wenn sich das Opfer in einer ausweglosen Situation befindet, in der es ausser Stande ist, sich zu widersetzen.
 
 ---
 
-## IV. Kantonale Praxisfragen
+## IV. Geschädigteneigenschaft juristischer Personen
 
-### 1. Beweiswürdigung bei digitalen Drohungen
-**6** In der kantonalen Gerichtspraxis erfolgt der Nachweis schwerer Drohungen zunehmend über Chatnachrichten und Sprachnachrichten, deren Ernsthaftigkeit und Kontext im Einzelfall zu würdigen sind ([Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414); [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089)).
+**7** Eine juristische Person ist nicht Trägerin der von Art. 180 StGB geschützten Rechtsgüter (innere Freiheit, Sicherheitsgefühl) und daher nicht geschädigt im Sinne von Art. 115 StPO ([BGE 141 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-1_2015.html) E. 3.2). Dagegen kann eine juristische Person bei den Tatbeständen der Nötigung ([Art. 181 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_181)) und der Widerhandlungen gegen die Bestimmungen zum Schutz der Mieter von Wohn- und Geschäftsräumen ([Art. 325bis StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_325bis)) geschädigt sein, weil diese Normen die freie Willensbildung und Willensbetätigung schützen, deren Trägerin auch eine juristische Person sein kann (E. 3.3, 3.4).
 
 ---
 
