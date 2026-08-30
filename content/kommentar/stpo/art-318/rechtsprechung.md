@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 318 StPO – Abschluss der Untersuchung, Ankündigung der Schlusserledigung, Beweisanträge und Ablehnungsgründe."
 tags: ["Rechtsprechung", "StPO", "Abschluss der Untersuchung", "Beweisanträge", "Staatsanwaltschaft", "Anklage", "Einstellung", "Vorverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
