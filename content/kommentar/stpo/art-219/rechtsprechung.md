@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 219 StPO – Vorgehen der Polizei bei der vorläufigen Festnahme, 24-Stunden-Frist, Belehrungspflicht und Zuführung zur Staatsanwaltschaft."
 tags: ["Rechtsprechung", "StPO", "vorläufige Festnahme", "Polizei", "Freiheitsentzug", "Fristen", "Zuführung", "Haftgründe"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
