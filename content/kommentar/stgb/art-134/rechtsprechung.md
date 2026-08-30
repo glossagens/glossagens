@@ -1,92 +1,39 @@
 ---
 title: "Rechtsprechung zu Art. 134 StGB"
 weight: 99
-date: 2026-07-17
-lastmod: 2026-08-23
-description: "Übersicht der Rechtsprechung zu Art. 134 StGB — Angriff, Abgrenzung zum Raufhandel, Mittäterschaft, Konkurrenz und Haftgründe."
+date: 2026-08-30
+lastmod: "2026-08-30"
+description: "Übersicht der Rechtsprechung zu Art. 134 StGB — Angriff: Konkurrenzverhältnisse, Mittäterschaft, Abgrenzung zum Raufhandel und Konsumtion durch Erfolgsdelikte."
 tags: ["Rechtsprechung", "StGB", "Angriff", "Raufhandel", "Körperverletzung", "Mittäterschaft", "Besonderer Teil"]
 agent_verified: true
 revisions:
-  - date: 2026-08-23
-    by: "Antigravity"
-    model: "gemini-3.7-flash"
-    mcp_verified: true
-    note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
-  - date: 2026-08-13
-    by: "Hermes Agent"
+  - date: 2026-08-30
+    by: "Claude Code"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Audit KW33"
+    note: "Neu erstellt: 3 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 135 IV 152 (Konkurrenz), BGE 141 IV 454 (Abgrenzung Raufhandel, Geschädigteneigenschaft), BGE 118 IV 227 (Mittäterschaft, Konsumtion); fabrizierte und irrelevante Zitate entfernt"
 ---
 
 ## I. Leitentscheide des Bundesgerichts
 
-### [BGE 135 IV 152](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_152) E. 2.1 — Konkurrenzverhältnisse
-- **Thema**: Zusammentreffen von Angriff und Verletzungsdelikten.
-- **Kernaussage**: Konkurrenz zwischen Art. 134 StGB und vorsätzlichen Tötungs- oder Körperverletzungsdelikten besteht nur, wenn Dritte gefährdet wurden oder der Verletzungserfolg hinter der Gefährdung zurückbleibt.
-- **Einschlägig für**: Art. 134 StGB, Art. 111 ff. StGB, Art. 122 ff. StGB.
+### [BGE 135 IV 152](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-152_2009.html) E. 2.1 — Konkurrenz zwischen Angriff und Erfolgsdelikten
+
+- **Sachverhalt**: Der Beschwerdeführer hatte zusammen mit einem anderen Mann ein Opfer tätlich angegriffen und dabei Fusstritte gegen den am Boden Liegenden ausgeteilt.
+- **Kernaussage**: Eine Konkurrenz zwischen Art. 134 StGB und den Art. 111 ff. oder den Art. 122 ff. StGB fällt nur in Betracht, wenn eine andere als die beim Angriff getötete oder verletzte Person in Gefahr gebracht wurde, oder wenn die Person, die während des Angriffs verletzt wurde, lediglich einfache Körperverletzungen erlitt, obgleich sie einer weitergehenden Gefährdung ausgesetzt war (E. 2.1). Es genügt der Nachweis der Beteiligungsabsicht am Angriff; ein individueller Verletzungsbeitrag muss nicht nachgewiesen werden.
+- **Einschlägig für**: Art. 134, Art. 111, Art. 122, Art. 123 StGB (Konkurrenz, Gefährdungsdelikt, Beteiligungsabsicht).
 
 ---
 
-### [BGE 141 IV 454](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_454) E. 2.3.1 — Abgrenzung zum Raufhandel
-- **Thema**: Begriff des Geschädigten und Schutzbereich von Raufhandel und Angriff.
-- **Kernaussage**: Der Angriff erfordert ein einseitiges feindseliges Vorgehen gegen ein Opfer, während der Raufhandel durch wechselseitige Tätlichkeiten gekennzeichnet ist.
-- **Einschlägig für**: Art. 134 StGB, Art. 133 StGB.
+### [BGE 118 IV 227](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-227_1992-09-02.html) E. 5b, 5d — Mittäterschaft und Konsumtion beim Gruppenangriff
+
+- **Sachverhalt**: Mehrere Angreifer hatten ein Opfer gemeinschaftlich getreten und geschlagen, was zum Tod des Opfers führte. Die Frage der Mittäterschaft und Konkurrenz zwischen Art. 134 und den Tötungs- bzw. Körperverletzungsdelikten war zu klären.
+- **Kernaussage**: Richtet sich der Vorsatz des Teilnehmers an einem Raufhandel oder Angriff auf Tötung oder Körperverletzung, so ist er neben Art. 133 oder Art. 134 StGB auch wegen der entsprechenden Erfolgsdelikte zu verurteilen (E. 5d). War der Verletzte die einzige angegriffene Person, wird Art. 134 StGB durch den Verletzungstatbestand konsumiert (E. 5b). Für die Mittäterschaft genügt es, dass der Beteiligte sich den Vorsatz seines Mittäters zu eigen macht; eine Mitwirkung an der Entschlussfassung ist nicht erforderlich. Der Mittäter haftet nur bis zur Grenze seines Vorsatzes; der Exzess des Mittäters kann ihm nicht angerechnet werden.
+- **Einschlägig für**: Art. 111, Art. 122, Art. 133, Art. 134 StGB (Mittäterschaft, Konsumtion, Exzess).
 
 ---
 
-### [BGE 118 IV 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_227) E. 5b — Mittäterschaft und Konsumtion
-- **Thema**: Vorsatzzurechnung beim Gruppenangriff.
-- **Kernaussage**: Wer sich an einem Angriff beteiligt und den Tötungs- oder Verletzungsvorsatz der Mittäter teilt, haftet für das Erfolgsdelikt; Art. 134 StGB wird konsumiert, wenn nur das spätere Opfer angegriffen wurde.
-- **Einschlägig für**: Art. 134 StGB, Art. 111 StGB.
+### [BGE 141 IV 454](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-454_2015.html) E. 2.3.1, 2.3.2 — Geschädigteneigenschaft beim Raufhandel und Angriff
 
----
-
-### [BGE 131 IV 100](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_100) E. 2 — Tatbeitrag und Beteiligungshandlung
-- **Thema**: Anforderungen an den individuellen Tatbeitrag bei Gewaltdelikten.
-- **Kernaussage**: Das Einbinden in das kollektive Angriffsgeschehen begründet die Haftung als Mittäter oder Beteiligter.
-- **Einschlägig für**: Art. 134 StGB, Art. 25 StGB.
-
----
-
-### [BGE 140 IV 150](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_150) E. 3.5 — Mittäterbegriff bei Gewalttaten
-- **Thema**: Gemeinsame Tatausführung bei dynamischen Auseinandersetzungen.
-- **Kernaussage**: Mittäterschaft setzt eine funktionelle Rollenteilung voraus, bei welcher der Beitrag für das Gelingen der Tat wesentlich ist.
-- **Einschlägig für**: Art. 134 StGB.
-
----
-
-## II. Weitere Entscheide
-
-### [BGE 137 IV 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_113) E. 1.4 — Kausalität und Zurechnung
-- **Thema**: Zurechnung von Verletzungserfolgen bei unübersichtlicher Tatlage.
-- **Kernaussage**: Die objektive Strafbarkeitsbedingung erfordert einen adäquaten Zusammenhang zwischen dem Gesamtangriff und der eingetretenen Schädigung.
-- **Einschlägig für**: Art. 134 StGB.
-
----
-
-### [BGer 7B_707/2026 vom 2. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_707_2026) E. 3.2 — Dringender Tatverdacht bei Gruppenangriffen
-- **Thema**: Kognitionsmassstab im Haftprüfungsverfahren.
-- **Kernaussage**: Die Identifikation der Beteiligung an einem tätlichen Gruppenübergriff genügt für die Annahme eines dringenden Tatverdachts nach Art. 134 StGB.
-- **Einschlägig für**: Art. 134 StGB, Art. 221 StPO.
-
----
-
-### [BGer 6B_776/2016 vom 8. November 2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_776_2016) E. 2 — Subjektive Tatseite
-- **Thema**: Eventualvorsatz bezüglich der Beteiligung am gewaltsamen Angriff.
-- **Kernaussage**: Der Beteiligte muss die feindselige Ausrichtung der Gruppe erkennen und sich dieser bewusst anschliessen.
-- **Einschlägig für**: Art. 134 StGB, Art. 12 StGB.
-
----
-
-### [Obergericht ZH SB180414 vom 24. Mai 2019](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB180414) — Abgrenzung Beteiligung und Zuschauen
-- **Thema**: Kantonale Praxis zur Beteiligung an Schlägereien und Angriffen.
-- **Kernaussage**: Blosse Anwesenheit begründet keine Strafbarkeit, wenn keine psychische Stärkung der Angreifer oder Einwirkung auf das Opfer erfolgt.
-- **Einschlägig für**: Art. 134 StGB.
-
----
-
-### [Obergericht ZH SB190089 vom 9. März 2020](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_SB190089) — Beweiswürdigung bei Gruppenübergriffen
-- **Thema**: Identifikation einzelner Handlungsbeiträge bei Mehrfachtäterschaft.
-- **Kernaussage**: Zeugenaussagen und Videoaufnahmen sind im Gesamtzusammenhang zur Feststellung der aktiven Mitwirkung zu würdigen.
-- **Einschlägig für**: Art. 134 StGB.
+- **Sachverhalt**: Die Frage der Geschädigteneigenschaft nach einem Raufhandel war zu klären.
+- **Kernaussage**: Unmittelbar verletzt und geschädigt im Sinne von Art. 115 StPO ist, wer Träger des durch die verletzte Strafnorm geschützten oder zumindest mitgeschützten Rechtsgutes ist (E. 2.3.1). Der Raufhandel gemäss Art. 133 StGB ist ein abstraktes Gefährdungsdelikt. Bei abstrakten Gefährdungsdelikten gibt es keine Geschädigten im Sinne von Art. 115 Abs. 1 StPO, es sei denn, jemand werde als Folge der Begehung konkret gefährdet (E. 2.3.2). Der Tatbestand des Raufhandels schützt in erster Linie das öffentliche Interesse, Schlägereien zu verhindern, und in zweiter Linie das Individualinteresse der Opfer. Eine Person, die durch einen Raufhandel verletzt oder konkret gefährdet wird, ist Geschädigte.
+- **Einschlägig für**: Art. 115 StPO, Art. 133, Art. 134 StGB (Geschädigteneigenschaft, Raufhandel, abstraktes Gefährdungsdelikt).
