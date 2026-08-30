@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 218 StPO – Vorläufige Festnahme durch Privatpersonen (Jedermanns-Festnahme), Schranken der Gewaltanwendung und Übergabe an die Polizei."
 tags: ["Rechtsprechung", "StPO", "Festnahme", "Privatpersonen", "Jedermannsrecht", "frische Tat", "Gewaltanwendung", "Zwangsmassnahmen"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"

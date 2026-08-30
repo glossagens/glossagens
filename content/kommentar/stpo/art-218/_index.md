@@ -65,7 +65,7 @@ revisions:
 
 ### 1. Kein Durchsuchungsrecht für Privatpersonen
 **Rz. 8** Dürfen Ladendetektive oder Sicherheitsmitarbeiter die Taschen oder Kleider einer festgenommenen Person gegen deren Willen durchsuchen?
-Nein. Art. 218 StPO verleiht lediglich ein Festhalterecht, jedoch keine Zwangsdurchsuchungsbefugnis. Das Durchsuchen von Personen und Behältnissen ist ausschliesslich den Polizeiorganen vorbehalten ([SZ Kantonsgericht BEK 2024 96 vom 12. Juni 2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-96_2024-06-12.pdf); [SG Kantonsgericht AK.2024.226 vom 12. September 2024](https://entscheidsuche.ch/docs/SG_Gerichte/SZ_KG_001_AK-2024-226_2024-09-12.pdf)).
+Nein. Art. 218 StPO verleiht lediglich ein Festhalterecht, jedoch keine Zwangsdurchsuchungsbefugnis. Das Durchsuchen von Personen und Behältnissen ist ausschliesslich den Polizeiorganen vorbehalten ([SZ Kantonsgericht BEK 2024 96 vom 12. Juni 2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-96_2024-06-12.pdf); [SG Kantonsgericht AK.2024.226 vom 12. September 2024](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2024-226_2024-09-12.pdf)).
 
 ### 2. Zivilrechtliche Haftung bei rechtswidriger Festnahme
 **Rz. 9** Stellt sich im Nachhinein heraus, dass kein Delikt vorlag und die Festnahme auf einem voreiligen Irrtum beruhte, haftet der handelnde Private nach Art. 41 OR für allfällige Schäden oder Genugtuungsansprüche des unschuldig Festgehaltenen ([SZ Kantonsgericht BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
