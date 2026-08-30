@@ -5,7 +5,7 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 325 StPO – Inhalt der Anklageschrift: Das Anklageprinzip (Informations- und Umgrenzungsfunktion), Tatumschreibung und Eventualanklage."
 tags: ["Rechtsprechung", "StPO", "Anklageschrift", "Anklageprinzip", "Informationsfunktion", "Umgrenzungsfunktion", "Eventualanklage", "Hauptverfahren"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
