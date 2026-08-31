@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 42 IVG"
 weight: 99
 date: 2026-08-17
-lastmod: 2026-08-17
-description: "Übersicht der Rechtsprechung zu Art. 42 IVG — Hilflosenentschädigung, Hilflosigkeitsgrade, alltägliche Lebensverrichtungen, Wartejahr, lebenspraktische Begleitung und Leistungsausschluss bei Eingliederungsinstitutionen."
+lastmod: 2026-08-31
+description: "Übersicht der Rechtsprechung zu Art. 42 IVG — Hilflosenentschädigung, Hilflosigkeitsgrade, alltägliche Lebensverrichtungen, Wartejahr, lebenspraktische Begleitung, Beweiswert von Abklärungsberichten und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["Rechtsprechung", "IVG", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_560/2025 ergänzt: Begleitbedarf bei schizoaffektiver Störung verneint; Alltagsbewährung und Ausschluss von Beistandschaften nach Art. 38 Abs. 3 IVV."
   - date: 2026-08-17
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -73,3 +78,7 @@ Zur Abgrenzung des medizinischen Pflegeaufwands und der Hilflosigkeit bei Kinder
 ### 13. Kantonale Praxis: Lebenspraktische Begleitung bei Intelligenzminderung
 **[Kantonsgericht BL, 2018-07-19-sv-2](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_2018-07-19-sv-2)** (19. Juli 2018)
 Eine leichte Intelligenzminderung stellt keine Beeinträchtigung der psychischen Gesundheit im Sinne von Art. 42 Abs. 3 Satz 2 IVG dar. Für die lebenspraktische Begleitung muss bei geistiger Behinderung kein Rentenanspruch vorliegen.
+
+### 14. Begleitbedarf bei psychischer Erkrankung und Alltagsbewährung
+**[BGer 8C_560/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_560_2025)** (vom 11. August 2026, publiziert 31. August 2026)
+Das Bundesgericht verneint einen Anspruch auf Hilflosenentschädigung leichten Grades bei einer IV-Rentnerin mit schizoaffektiver Störung. Mangelnde Motivation oder Initiative genügen nicht, wenn die Person den Haushalt im Wesentlichen eigenständig führen kann (Beweiswert des Abklärungsberichts vs. Arztberichte; E. 6.2). Eine Beistandschaft zu Vertretungs- und Verwaltungszwecken (Art. 390–398 ZGB) fällt nach Art. 38 Abs. 3 IVV ausdrücklich nicht unter die lebenspraktische Begleitung (E. 6.3). Gelegentliche Anstösse durch Angehörige fallen unter die zumutbare Schadensminderungspflicht (E. 6.4).

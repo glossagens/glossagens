@@ -2,11 +2,16 @@
 title: "Art. 42 IVG — Anspruch auf Hilflosenentschädigung"
 weight: 42
 date: 2026-08-17
-lastmod: 2026-08-17
+lastmod: 2026-08-31
 description: "Kommentar zu Art. 42 IVG: Anspruch auf Hilflosenentschädigung der Invalidenversicherung, Hilflosigkeitsgrade, sechs alltägliche Lebensverrichtungen, lebenspraktische Begleitung, Wartejahr und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["IVG", "Invalidenversicherung", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr", "Eingliederungsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_560/2025 vom 11.08.2026 (publ. 31.08.2026) integriert: Konkretisierung des Begleitbedarfs bei psychischen Störungen (Alltagsbewährung, Beistandschaft nach Art. 38 Abs. 3 IVV, Beweiswert Abklärungsbericht)."
   - date: 2026-08-17
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
@@ -90,6 +95,10 @@ revisions:
 
 **9** **Besonderheit bei psychischer Beeinträchtigung**: Liegt ausschliesslich ein psychischer Gesundheitsschaden vor, entsteht der Anspruch auf Hilflosenentschädigung wegen lebenspraktischer Begleitung nur, wenn die versicherte Person gleichzeitig Anspruch auf eine Rente der Invalidenversicherung hat (Art. 42 Abs. 3 Satz 2 IVG; Fassung gemäss Weiterentwicklung der IV per 1. Januar 2022). Bei geistiger Behinderung oder somatischen Schäden gilt diese Einschränkung nicht ([Kantonsgericht BL 2018-07-19-sv-2](https://mcp.opencaselaw.ch/entscheid/bl_gerichte_2018-07-19-sv-2)).
 
+**9bis** **Grenzen des Begleitbedarfs und Alltagsbewährung ([BGer 8C_560/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_560_2025))**:
+* Eine psychische Erkrankung (z.B. schizoaffektive Störung) führt nicht per se zu einem anspruchsbegründenden Begleitbedarf. Mängel an Antrieb, Motivation oder Organisationsfähigkeit genügen nicht, wenn die versicherte Person im Alltag funktionstüchtig bleibt.
+* Die konkrete Alltagsbewährung (z.B. eigenständige Führung des Haushalts und Begleitung von Kindern während monatelanger Abwesenheit des Partners) bildet ein starkes Indiz gegen das Vorliegen einer Hilflosigkeit (E. 6.2).
+* Nach Art. 38 Abs. 3 IVV fallen Vertretungs- und Verwaltungstätigkeiten im Rahmen von Massnahmen des Erwachsenenschutzes (Art. 390–398 ZGB) ausdrücklich **nicht** unter die lebenspraktische Begleitung; die blosse Errichtung einer Beistandschaft vermag daher keinen Begleitbedarf nach Art. 42 Abs. 3 IVG zu begründen (E. 6.3).
 ---
 
 ## V. Wartezeit und Entstehung des Anspruchs (Abs. 4 und 4bis)
