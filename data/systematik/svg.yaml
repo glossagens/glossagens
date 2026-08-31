@@ -2,6 +2,9 @@
 # Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-016a -> 16).
 # Ein Artikel landet in der ENGSTEN passenden Gruppe.
 gruppen:
+  - name: "Führer- und Lernfahrausweise"
+    von: 10
+    bis: 15
   - name: "Entzug und Wiedererteilung der Ausweise"
     von: 16
     bis: 17
