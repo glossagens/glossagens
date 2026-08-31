@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 18 UVG"
 weight: 99
 date: 2026-07-18
-lastmod: "2026-08-22"
-description: "Übersicht der Rechtsprechung zu Art. 18 UVG — Invalidenrente, Kausalzusammenhang, Bemessung des Invaliditätsgrades, Beweiswert medizinischer Gutachten und analoge Anwendung von Art. 26bis Abs. 3 IVV."
+lastmod: "2026-08-31"
+description: "Übersicht der Rechtsprechung zu Art. 18 UVG — Invalidenrente, Kausalzusammenhang, Bemessung des Invaliditätsgrades, Beweiswert medizinischer Gutachten und Ausschluss der analogen Anwendung von Art. 26/26bis IVV (BGer 8C_65/2026, 8C_188/2026, 8C_254/2025)."
 tags: ["Rechtsprechung", "UVG", "Invalidenrente", "Invalidität", "Beweiswert", "Status quo sine"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "8C_65/2026 vom 06.08.2026 (publ. 31.08.2026) integriert: Konsolidierung der Rechtsprechung zum qualifizierten Schweigen des Gesetzgebers gegen IVV-Analogie im UVG und Abweisung der Art. 8 BV-Rüge"
   - date: 2026-08-22
     by: "Glossagens Agent"
     model: "glm-5.1"
@@ -67,6 +72,16 @@ revisions:
 - **Thema**: Analoge Anwendung von Art. 26bis Abs. 3 OAI im UVG
 - **Kernaussage**: Art. 26 und 26bis Abs. 3 OAI sind im UVG-Bereich nicht analog anwendbar; der 10%-Abzug vom statistisch ermittelten Invalideneinkommen entfällt. Die durch das kantonale Gericht vorgenommene analoge Anwendung ist rechtswidrig.
 - **Einschlägig für**: Art. 18 UVG Abs. 1 (Invaliditätsbemessung), Art. 26bis IVV (analog)
+
+---
+
+### BGer 8C_65/2026 — Konsolidierung: Qualifiziertes Schweigen schliesst IVV-Analogie im UVG aus
+
+[BGer 8C_65/2026 vom 6. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) (publiziert 31. August 2026, Gutheissung der SUVA-Beschwerde) — **Konsolidierung und verfassungsrechtliche Absicherung von 8C_254/2025**:
+
+- **Thema**: Ausschluss der Parallelisierung (Art. 26 IVV) und des 10 %-Pauschalabzugs (Art. 26bis Abs. 3 IVV) im UVG-Einkommensvergleich.
+- **Kernaussage**: Die Korrekturinstrumente der IVV finden im UVG weder direkt noch analog Anwendung. Es fehlt an einer echten Gesetzeslücke: Der bewusste Verzicht des Gesetzgebers auf eine entsprechende Übertragung auf das UVG stellt ein qualifiziertes Schweigen dar (E. 7.1 & 7.4.1). Die 10 %-Schwelle nach Art. 18 Abs. 1 UVG verbietet es, durch Pauschalabzüge Marginalrenten zu generieren (E. 7.4.5). Die verfassungsrechtliche Rüge einer Verletzung der Rechtsgleichheit (Art. 8 BV) ist unbegründet, da sachliche Unterschiede zwischen den Zweigen bestehen (E. 7 am Ende).
+- **Einschlägig für**: Art. 18 Abs. 1 UVG, Art. 16 ATSG, Art. 26bis Abs. 3 IVV (keine Analogie).
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 18 UVG — Invalidität"
 weight: 18
 date: 2026-07-18
-lastmod: "2026-08-22"
-description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 OV auf die UVG (BGer 8C_254/2025, bestätigt durch 8C_188/2026). Beweiswert unvollständiger Gutachten ohne MRI stark vermindert (8C_165/2026)."
+lastmod: "2026-08-31"
+description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 IVV auf die UVG (BGer 8C_254/2025, bestätigt durch 8C_188/2026 und 8C_65/2026). Beweiswert unvollständiger Gutachten ohne MRI stark vermindert (8C_165/2026)."
 tags: ["UVG", "Invalidenrente", "Sozialversicherung", "Invalidität", "IVV"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_65/2026 (vom 06.08.2026, publ. 31.08.2026) integriert: Bekräftigung des qualifizierten Schweigens des Gesetzgebers gegen IVV-Analogie im UVG und Abweisung der Art. 8 BV-Rüge"
   - date: 2026-08-22
     by: "Glossagens Agent"
     model: "glm-5.1"
@@ -81,11 +86,14 @@ Das Invalideneinkommen ist nach Art. 26bis IVV (analog) zu bestimmen:
 
 **BGer 8C_682/2025** (vom 6. August 2026) bestätigt diese Rechtsprechung und wendet sie an: Auch dort wurde die analoge Anwendung von Art. 26 OV (Einkommensparallelisierung) abgelehnt, da die Gründe von 8C_254/2025 mutatis mutandis auch für Art. 26 OV gelten ([BGer 8C_682/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_682_2025) E. 7, 8.2).
 
-**BGer 8C_188/2026** (vom 6. August 2026) bestätigt 8C_254/2025 erneut und setzt die Nichtanwendung von Art. 26bis Abs. 3 OAI im UVG-Bereich um: Das Tessiner kantonale Verwaltungsgericht hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest, da der Abzug unzulässig ist ([BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bger_8C_188_2026#e-7-2)).
+**BGer 8C_188/2026** (vom 6. August 2026) und **BGer 8C_65/2026** (vom 6. August 2026, publiziert 31. August 2026) bestätigen 8C_254/2025 erneut und festigen die Praxis:
+- Das Bundesgericht bekräftigt, dass der bewusste Verzicht des Gesetzgebers auf eine analoge Regelung im UVG ein **qualifiziertes Schweigen** darstellt und keine echte Gesetzeslücke vorliegt (E. 7.1 & 7.4.1).
+- Die 10 %-Mindestinvaliditätsschwelle des Art. 18 Abs. 1 UVG verbietet pauschale Abzüge nach Art. 26bis Abs. 3 IVV, da diese gerade zu jenen marginalen Rentenansprüchen führen würden, die der Gesetzgeber ausschliessen wollte (E. 7.4.5).
+- Zudem verwarf das Gericht die verfassungsrechtliche Rüge einer Verletzung des Rechtsgleichheitsgebots (Art. 8 BV): Die sachlichen Differenzen zwischen IV und UVG (unterschiedliche Rentenschwellen, lineare Rente im UVG vs. Stufenrente/lineares Rentensystem im IVG) rechtfertigen unterschiedliche Bemessungsmethoden ([BGer 8C_65/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) E. 7).
 
 **Folge für die Praxis**: Im UVG-Bereich gelten die bisherigen Korrekturen des Validen- und Invalideneinkommens nach der bisherigen Rechtsprechung weiter. Insbesondere:
 - Die Einkommensparallelisierung (parallelisme des revenus) nach [8C_141/2016](https://mcp.opencaselaw.ch/entscheid/bger_8C_141_2016) E. 5.2.2 bleibt anwendbar, wenn kein GAV-Lohn massgeblich ist.
-- Der Sozialabzug nach Art. 26bis Abs. 3 OV findet im UVG-Bereich **keine** analoge Anwendung.
+- Der Sozialabzug nach Art. 26bis Abs. 3 IVV findet im UVG-Bereich **keine** analoge Anwendung.
 
 ## Verhältnis zu Art. 16 ATSG
 
