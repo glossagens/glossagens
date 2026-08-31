@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 16 ATSG — Grad der Invalidität"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-08-28
-description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug und Parallelisierung."
+lastmod: 2026-08-31
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug, Parallelisierung und Verhältnis zwischen IV und UVG."
 tags: ["Rechtsprechung", "ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_65/2026 ergänzt: Relativierung des Einheitsprinzips und Ausschluss der Übertragung von IVV-Korrekturregeln in die Unfallversicherung."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -54,3 +59,6 @@ Zurück zum Kommentar: [Art. 16 ATSG — Grad der Invalidität](./)
 
 ### [BGer 8C_3/2026 vom 15.01.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-3-2026_2026-01-15.html) — Invalidenkarriere und Revisionsvergleich
 - **Kernaussage**: Berücksichtigung von Stellenangeboten und tatsächlicher Lohnentwicklung im Revisionsverfahren.
+
+### [BGer 8C_65/2026 vom 06.08.2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) — Relativierung des Einheitsprinzips (IV vs. UVG)
+- **Kernaussage**: Der Grundsatz der Einheit des Invaliditätsbegriffs nach Art. 16 ATSG schliesst divergierende Berechnungsmodalitäten zwischen den Zweigen nicht aus; die IV-spezifischen Korrekturregeln (Art. 26 und Art. 26bis Abs. 3 IVV) finden im UVG-Einkommensvergleich keine analoge Anwendung (E. 7.4.4).

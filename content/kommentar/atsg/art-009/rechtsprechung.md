@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 9 ATSG — Hilflosigkeit"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-08-28
-description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, lebenspraktische Begleitung und Abklärungsverfahren."
+lastmod: 2026-08-31
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, lebenspraktische Begleitung, Beweiswert von Abklärungsberichten und Schadensminderungspflicht."
 tags: ["Rechtsprechung", "ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_560/2025 ergänzt: Abgrenzung elementare Lebensverrichtungen vs. lebenspraktische Begleitung; blosse Anstösse durch Angehörige als zumutbare Schadensminderung."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -54,3 +59,6 @@ Zurück zum Kommentar: [Art. 9 ATSG — Hilflosigkeit](./)
 
 ### [BGer 9C_444/2023 vom 28.02.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-444-2023_2024-02-28.html) — Lebenspraktische Begleitung bei psychischer Behinderung
 - **Kernaussage**: Mittelschwere Hilflosigkeit bei psychisch bedingtem Begleitbedarf von mindestens 20 Stunden pro Woche zur Vermeidung von Isolation (E. 4.3).
+
+### [BGer 8C_560/2025 vom 11.08.2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_560_2025) — Abgrenzung der Hilflosigkeit und Anstösse durch Angehörige
+- **Kernaussage**: Das blosse Angewiesensein auf Anstösse, Ermunterungen und Erinnerungen durch Angehörige bei der Haushaltsführung begründet weder eine Hilflosigkeit nach Art. 9 ATSG noch einen Begleitbedarf nach Art. 38 IVV, sondern ist im Rahmen der familiären Schadensminderungspflicht zumutbar (E. 6.4).

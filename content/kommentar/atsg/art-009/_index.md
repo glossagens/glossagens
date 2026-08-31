@@ -2,11 +2,16 @@
 title: "Art. 9 ATSG — Hilflosigkeit"
 weight: 9
 date: 2026-06-02
-lastmod: 2026-08-28
+lastmod: 2026-08-31
 description: "Kommentar zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, persönliche Überwachung, lebenspraktische Begleitung, Schweregrade und Abklärungsverfahren."
 tags: ["ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_560/2025 vom 11.08.2026 (publ. 31.08.2026) integriert: Bestätigung, dass blosse Anstösse/Erinnerungen durch Angehörige keine Hilflosigkeit begründen und der Schadensminderungspflicht unterliegen; Beweiswert von Abklärungsberichten."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -43,7 +48,7 @@ revisions:
 
 ### II. Direkte Dritthilfe, persönliche Überwachung und lebenspraktische Begleitung
 
-**5** **Formen der Dritthilfe.** Dritthilfe kann direkt (physisches Handeln) oder indirekt (Anleitung, Erinnerung, ständige Kontrolle) erfolgen.
+**5** **Formen der Dritthilfe und Schadensminderungspflicht.** Dritthilfe kann direkt (physisches Handeln) oder indirekt (Anleitung, ständige Kontrolle) erfolgen. Blosse Anstösse, Ermunterungen oder Erinnerungen durch im gleichen Haushalt lebende Angehörige stellen nach gefestigter Rechtsprechung keine anspruchsbegründende Dritthilfe dar, sondern fallen unter die familiäre Beistandspflicht und die zumutbare Schadensminderungspflicht ([BGer 8C_560/2025 vom 11.08.2026 E. 6.4](https://mcp.opencaselaw.ch/entscheid/bger_8C_560_2025); [Urteil 9C_330/2017 vom 14.12.2017 E. 4](https://mcp.opencaselaw.ch/entscheid/bger_9C_330_2017)).
 
 **6** **Persönliche Überwachung.** Dauernde persönliche Überwachung liegt vor, wenn die versicherte Person wegen kognitiver oder psychischer Einschränkungen (z.B. Demenz, schwere Epilepsie, akute Selbst- oder Fremdgefährdung) nicht über längere Zeit allein gelassen werden kann ([BGE 107 V 145 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-107-V-145_1981.html); [BGer 9C_556/2025 vom 02.04.2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-556-2025_2026-04-02.html)).
 

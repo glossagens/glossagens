@@ -2,11 +2,16 @@
 title: "Art. 16 ATSG — Grad der Invalidität"
 weight: 16
 date: 2026-06-02
-lastmod: 2026-08-28
+lastmod: 2026-08-31
 description: "Kommentar zu Art. 16 ATSG: Allgemeine Methode der Invaliditätsbemessung, Einkommensvergleich, Valideneinkommen, Invalideneinkommen, LSE-Tabellenlöhne, Abzüge und Parallelisierung."
 tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-08-31
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "BGer 8C_65/2026 integriert: Relativierung des Grundsatzes der Einheit des Invaliditätsbegriffs zwischen IVG und UVG trotz Art. 16 ATSG; Ausschluss der IVV-Analogie im UVG."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -25,7 +30,7 @@ revisions:
 
 **1** **Zweck und Methode.** Art. 16 ATSG statuiert die allgemeine Methode zur Bemessung des Invaliditätsgrades bei erwerbstätigen Versicherten: den **Einkommensvergleich**. Zur Bestimmung der Erwerbseinbusse wird das hypothetische Erwerbseinkommen ohne Gesundheitsschaden (Valideneinkommen) dem trotz Gesundheitsschadens zumutbar erzielbaren Einkommen (Invalideneinkommen) gegenübergestellt. Die prozentuale Differenz ergibt den Invaliditätsgrad ([BGE 130 V 343 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-343_2004.html)).
 
-**2** **Geltungsbereich.** Die Methode gilt bundesweit einheitlich für alle erwerbsbezogenen Sozialversicherungszweige (IV, UV, MV, BV). Nicht anwendbar ist der ordentliche Einkommensvergleich bei nicht erwerbstätigen Personen (hier: Betätigungsvergleich im Aufgabenbereich Haushalt, Art. 8 Abs. 3 ATSG) sowie bei Teilerwerbstätigen (hier: gemischte Methode, [BGE 144 I 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-144-I-21_2018.html)).
+**2** **Geltungsbereich und Relativierung des Einheitsprinzips.** Die Methode gilt grundsätzlich für alle erwerbsbezogenen Sozialversicherungszweige (IV, UV, MV, BV). Zwar bezweckt Art. 16 ATSG die Einheit des Invaliditätsbegriffs; die Rechtsprechung hat diesen Grundsatz jedoch im Verhältnis zwischen IV und UVG relativiert: IV- und UVG-Renten sind materiell und verfahrensmässig unabhängig voneinander festzusetzen ([BGE 136 V 279 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-279_2010.html)). Die für die IV erlassenen Korrekturinstrumente (Art. 26 und Art. 26bis Abs. 3 IVV) finden im Unfallversicherungsrecht weder direkte noch analoge Anwendung ([BGer 8C_65/2026 vom 06.08.2026 E. 7.4.4](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026); [BGer 8C_254/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_254_2025)). Nicht anwendbar ist der ordentliche Einkommensvergleich bei nicht erwerbstätigen Personen (hier: Betätigungsvergleich im Aufgabenbereich Haushalt, Art. 8 Abs. 3 ATSG) sowie bei Teilerwerbstätigen (hier: gemischte Methode, [BGE 144 I 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-144-I-21_2018.html)).
 
 ## Kommentierung
 
