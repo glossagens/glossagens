@@ -56,6 +56,8 @@ Art. 9 BV enthält zwei selbständige Garantien: das **Willkürverbot** und den 
 
 **N 5** **Einbürgerungsrecht.** Die die Einbürgerung regelnden Normen dienen nicht nur allgemeinen, sondern auch individuellen Interessen; die gesetzliche Regelung räumt den zuständigen Behörden weder ausdrücklich noch sinngemäss ein Entschliessungsermessen ein ([BGE 138 I 305, E. 1.4.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_305#e-1-4-5)). Daraus folgt die Rügefähigkeit ablehnender Entscheide — ohne rechtlich geschütztes Interesse gäbe es keine Willkürrüge.
 
+**N 5a** **Kommunale Planungsverträge und Quartierplanungen.** Bei der verfassungsrechtlichen Prüfung kommunaler städtebaulicher Vereinbarungen und Quartierplanungen greift das Bundesgericht nur bei qualifizierter Willkür ein; die Wahl einer von mehreren sachlich vertretbaren Planungs- oder Entschädigungslösungen durch die Gemeinde verletzt Art. 9 BV nicht ([BGer 1C_513/2025 vom 10. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.07.2026_1C_513/2025)).
+
 ## II. Treu und Glauben und Vertrauensschutz
 
 ### A. Gehalt
