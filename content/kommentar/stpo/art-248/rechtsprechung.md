@@ -208,6 +208,10 @@ Anwendung von Art. 248a Abs. 3 StPO (nicht erstreckbare Frist von 10 Tagen für 
 
 Per 1. Januar 2024 wurde die bisher geltende Bestimmung zur Siegelung (Art. 248 StPO) geändert und durch Art. 248 sowie Art. 248a StPO ersetzt. Übergangsrechtliche Fragen bei Entsiegelungsverfahren, die unter dem alten Recht eingeleitet wurden.
 
+### 19. [BGer 7B_219/2026 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_7B_219/2026) — Akteneinsichtsbeschränkung und Informationsschranken beim ZMG
+
+Im Entsiegelungsverfahren vor dem Zwangsmassnahmengericht (ZMG) darf die gesuchstellende Staatsanwaltschaft keine Einsicht in die versiegelten Datenträger oder deren Triage-Ergebnisse erhalten, bevor das ZMG über die Geheimnisschutzrügen (Art. 264 StPO) entschieden hat (Information Wall); die vorzeitige Kenntnisnahme begründet eine schwere Verletzung des Siegelungsschutzes.
+
 ---
 
 ## VI. Altrechtliche Leitentscheide (auszugsweise)
