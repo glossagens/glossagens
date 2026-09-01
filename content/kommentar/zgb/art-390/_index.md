@@ -121,6 +121,10 @@ In der kantonalen Gerichtspraxis stellt sich regelmässig die Frage, welche Bewe
 Häufig machen Betroffene geltend, ihr informelles soziales Umfeld mache eine behördliche Massnahme entbehrlich.
 * **Kantonale Praxis**: Eine mit Realitätsverweigerung gepaarte ausufernde Vermögensverschleuderung kann einen ähnlichen in der Person liegenden Schwächezustand im Sinne von Art. 390 Abs. 1 Ziff. 1 ZGB begründen ([Kantonsgericht SG KES.2023.16-K2 vom 24. Juni 2024](https://mcp.opencaselaw.ch/entscheid/sg_publikationen_KES.2023.16-K2)).
 
+### Praxisfrage 3: Massnahmenbeibehaltung bei erreichter Stabilisierung unter Schutzrahmen
+Oftmals beantragen verbeiständete Personen die Aufhebung der Massnahme mit dem Argument, ihre Verhältnisse seien stabil und geordnet.
+* **Bundesgerichtliche Klärung**: Die Aufhebung einer Vertretungsbeistandschaft nach Art. 390 Abs. 1 Ziff. 1 i.V.m. Art. 399 ZGB ist nicht bereits dadurch gerechtfertigt, dass die Situation der betroffenen Person unter dem bestehenden Schutzschirm stabil verläuft; ist bei Wegfall der Beistandschaft ein unmittelbarer Rückfall in die Überforderung und Hilflosigkeit zu befürchten, gebietet der Grundsatz der Verhältnismässigkeit die Beibehaltung der Massnahme ([BGer 5A_501/2026 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_5A_501/2026)).
+
 ---
 
 ## VIII. Materialien und Literatur
