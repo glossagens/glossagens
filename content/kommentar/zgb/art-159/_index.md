@@ -58,7 +58,9 @@ Die **Treuepflicht** (Art. 159 Abs. 3 ZGB) umfasst die physische und emotionale 
 
 ### 2. Beistandspflicht
 
-Die **Beistandspflicht** (Art. 159 Abs. 3 ZGB) verpflichtet die Ehegatten, einander beizustehen, namentlich in Notlagen, bei Krankheit, in rechtlichen Auseinandersetzungen und im Alltag. Die Beistandspflicht konkretisiert sich in der **Unterhaltspflicht** (Art. 163 ZGB) und der **Pflicht zur Leistung eines Prozesskostenvorschusses** (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB; [BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36) E. — keine Prozesskostenvorschusspflicht für den Konkubinatspartner).
+Die **Beistandspflicht** (Art. 159 Abs. 3 ZGB) verpflichtet die Ehegatten, einander beizustehen, namentlich in Notlagen, bei Krankheit, in rechtlichen Auseinandersetzungen und im Alltag. Die Beistandspflicht konkretisiert sich in der **Unterhaltspflicht** (Art. 163 ZGB), der Erwerbsobliegenheit beider Ehegatten und der **Pflicht zur Leistung eines Prozesskostenvorschusses** (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB; [BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36) E. — keine Prozesskostenvorschusspflicht für den Konkubinatspartner).
+
+Macht ein Ehegatte im Rahmen eherechtlicher Pflichten eine gesundheitsbedingte Einschränkung seiner Erwerbsfähigkeit geltend, so genügt ein einfaches Arztzeugnis nicht; nach **[BGer 5A_639/2025 vom 11. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.07.2026_5A_639/2025)** verlangt die Beistands- und Mitwirkungspflicht fundierte, nachvollziehbar begründete medizinische Berichte, die konkrete funktionelle Einschränkungen detailliert darlegen.
 
 ## Prozesskostenvorschusspflicht (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB)
 
