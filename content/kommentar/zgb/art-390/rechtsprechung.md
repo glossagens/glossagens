@@ -101,3 +101,14 @@ revisions:
 * **Kanton**: Basel-Landschaft
 * **Thema**: Beistandschaft nach Art. 390 Abs. 1 Ziff. 1 ZGB als Indiz für amtliche Verteidigung im Strafprozess.
 * **Kernaussage**: Eine notwendige Verteidigung nach Art. 130 lit. c StPO ist insbesondere dann anzuordnen, wenn die beschuldigte Person wegen ihres geistigen Zustands ihre Verfahrensinteressen nicht ausreichend wahren kann; ein Indiz hierfür stellt das Bestehen einer aufgrund von Art. 390 Abs. 1 Ziff. 1 ZGB errichteten Beistandschaft dar.
+
+---
+
+### [BGer 5A_501/2026 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_5A_501/2026)
+* **Thema**: Weiterführung einer Beistandschaft bei erreichter Stabilisierung unter bestehendem Schutzrahmen
+* **Kernaussage**: Die Aufhebung einer Vertretungsbeistandschaft nach Art. 390 Abs. 1 Ziff. 1 i.V.m. Art. 399 Abs. 1 ZGB ist nicht bereits dadurch gerechtfertigt, dass sich die persönliche oder finanzielle Situation der betroffenen Person unter der bestehenden Beistandschaft stabilisiert hat; ist bei Wegfall des Schutzes mit einem unmittelbaren Rückfall in den Schwächezustand und die Hilflosigkeit zu rechnen, gebietet der Grundsatz der Verhältnismässigkeit die Beibehaltung der Massnahme.
+* **Einschlägig für**: Art. 390 Abs. 1 ZGB i.V.m. Art. 389 und 399 ZGB (Beibehaltung von Schutzmassnahmen)
+
+---
+
+*Letzte Aktualisierung: 2026-09-01*
