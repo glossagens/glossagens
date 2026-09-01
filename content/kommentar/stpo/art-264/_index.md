@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Praxisänderung eingearbeitet: BGer 7B_219/2026 vom 20. August 2026 (zur Publ. vorgesehen, 5er-Besetzung) gibt die Doktrin des absoluten Entsiegelungsverbots nach Art. 264 Abs. 1 lit. a StPO auf; bei Mitbeschuldigung des Verteidigers im gleichen Sachzusammenhang greift das Beschlagnahmeverbot nicht mehr, wobei das Mandantengeheimnis durch gerichtliche Schutzmassnahmen (Informationswall) abzusichern ist."
+  - date: 2026-09-01
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Loop-Iteration: Umstellung aller Urteilslinks auf entscheidsuche.ch, Integration von BGE 151 IV 175 (Ausschluss von Art. 173 Abs. 2 als Siegelungsgrund), BGE 151 IV 350 (Privatgeheimnisse bei schweren Straftaten), BGE 148 IV 221 (Spiegelungsverbot vor Siegelung), BGE 143 IV 462 (Abgrenzung anwaltliche Kernaufgaben) sowie kantonale Praxisfragen zur Substanziierung und Triage."
   - date: 2026-08-21
     by: "Claude Code"
@@ -59,19 +64,28 @@ Art. 264 StPO zieht der allgemeinen Beweismittelbeschlagnahme ([Art. 263 StPO](h
 
 Die Verbote zeichnen sich durch zwei Grundsätze aus:
 1. **Objektbezogener Schutz:** Das Beschlagnahmeverbot gilt «ungeachtet des Ortes, wo sie sich befinden, und des Zeitpunktes, in welchem sie geschaffen worden sind» — der Schutz haftet am Dokument bzw. Datenträger, nicht an der physischen Aufbewahrung.
-2. **Grenze der Mitbeschuldigung:** In den Fällen von lit. c und d entfällt das Verbot, soweit die Geheimnisträgerin oder der Geheimnisträger **im gleichen Sachzusammenhang selber beschuldigt** ist.
+2. **Grenze der Mitbeschuldigung:** Ist der Geheimnisträger **im gleichen Sachzusammenhang selber beschuldigt**, entfällt das Beschlagnahmeverbot nicht nur nach lit. c und d, sondern praxisändernd nach der neueren Leitpraxis des Bundesgerichts auch unter lit. a ([BGer 7B_219/2026 vom 20. August 2026, zur Publ. vorgesehen](https://mcp.opencaselaw.ch/entscheid/bger_7B_219_2026)).
 
-Mit der Revision der StPO per 1. Januar 2024 wurde das Zusammenspiel zwischen Art. 264 und Art. 248 StPO verschärft: Nach [BGE 151 IV 175 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html) dürfen andere gesetzlich geschützte Geheimnisse nach Art. 173 Abs. 2 StPO (wie das Bank-, Geschäfts- oder Fabrikationsgeheimnis) nicht mehr zur Begründung eines Siegelungsbegehrens angerufen werden; massgeblich sind einzig noch die Schranken von Art. 264 StPO.
+Mit der Revision der StPO per 1. Januar 2024 wurde zudem das Verhältnis zwischen Art. 264 und Art. 248 StPO verschärft: Nach [BGE 151 IV 175 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html) dürfen andere gesetzlich geschützte Geheimnisse nach Art. 173 Abs. 2 StPO (wie das Bank-, Geschäfts- oder Fabrikationsgeheimnis) nicht mehr zur Begründung eines Siegelungsbegehrens angerufen werden; massgeblich sind einzig noch die Schranken von Art. 264 StPO.
 
 ## Kommentierung
 
 ### A. Unterlagen aus dem Verkehr mit der Verteidigung (Abs. 1 lit. a)
 
-Lit. a gewährleistet den absoluten Schutz der Verteidigungskorrespondenz. Dieser Schutz gilt ohne die bei Privatgeheimnissen vorgesehene Interessenabwägung (lit. b) und ohne den Vorbehalt der Mitbeschuldigung (lit. c und d). Er erfasst Notizen, Entwürfe, Gutachten und Schriftwechsel, die im Rahmen der Mandatsführung zwischen der beschuldigten Person und ihrer Rechtsvertretung ausgetauscht werden.
+Lit. a gewährleistet den grundlegenden Schutz der Verteidigungskorrespondenz (Notizen, Entwürfe, Gutachten und Schriftwechsel im Rahmen der Mandatsführung). 
 
-Grenzen bestehen dort, wo die Form des Anwaltsverhältnisses missbraucht wird:
-- **Mitbeschuldigter Anwalt und Schein-Substitution:** Ein in der Sache selbst mitbeschuldigter Anwalt kann untersuchungsrelevante Beweisunterlagen nicht dem Zugriff entziehen, indem er Büropartner oder ausländische Korrespondenzanwälte substituiert ([BGE 138 IV 225 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html#consideration_6)).
-- **Mandatsfremde Unterlagen / Kassiber:** Schriftstücke, die dem Verteidiger weder in noch zur Ausübung seines Amtes übergeben wurden — namentlich geheime Mitteilungen an Dritte —, unterstehen nicht dem Schutz von lit. a ([BGE 102 IV 210 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-210_1976-10-11.html#consideration_4)).
+#### 1. Grundsatz und bisherige Doktrin des absoluten Schutzes
+Nach bisheriger ständiger Praxis ging das Bundesgericht davon aus, dass Art. 264 Abs. 1 lit. a StPO ein absolutes Beschlagnahme- und Entsiegelungsverbot statuiert, weil lit. a — anders als lit. c und d — keinen Vorbehalt der Mitbeschuldigung im Gesetzestext enthält ([BGE 147 IV 385 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-385_2021.html); [BGE 138 IV 225 E. 6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html#consideration_6.1)).
+
+#### 2. Praxisänderung: Mitbeschuldigung des Verteidigers (BGer 7B_219/2026)
+Mit Grundsatzurteil [BGer 7B_219/2026 vom 20. August 2026 (zur Publ. vorgesehen, 5er-Besetzung)](https://mcp.opencaselaw.ch/entscheid/bger_7B_219_2026) hat das Bundesgericht diese Doktrin **ausdrücklich aufgegeben**:
+- **Redaktionelles Versehen des Gesetzgebers:** Anhand der Gesetzgebungsgeschichte (Art. 274 AP StPO) und einer teleologischen sowie systematischen Auslegung stellte das Gericht fest, dass das Fehlen der Ausnahmeklausel in lit. a ein redaktionelles Versehen darstellt (E. 2.6.3). Art. 264 Abs. 1 lit. a StPO verleiht keinen weitergehenden Schutz als lit. c (E. 2.6.6).
+- **Kein Schutz bei eigener Beschuldigung:** Ein Verteidiger, der im gleichen Sachzusammenhang selbst beschuldigt ist (z.B. wegen Gehilfenschaft/Mittäterschaft, Weitergabe geheimer Ermittlungsakten oder Begünstigung), kann sich **weder auf lit. a noch auf lit. c** berufen, um einer Durchsuchung und Entsiegelung der bei ihm sichergestellten Verteidigungsunterlagen entgegenzutreten (E. 2.6.6 f.).
+- **Schutz des Mandantengeheimnisses / Informationswall:** Die Entsiegelung beim mitbeschuldigten Verteidiger darf jedoch nicht dazu führen, dass die vertrauliche Verteidigerdokumentation zum Nachteil des Mandanten in dessen getrennt geführtem Strafverfahren verwertet wird. Liegen beide Verfahren bei derselben Staatsanwaltschaft, hat das Entsiegelungsgericht (ZMG) zwingend Schutzmassnahmen zu treffen — namentlich die Errichtung eines **Informationswalls** (z.B. Akteneinsicht des für das Anwaltsverfahren zuständigen Staatsanwalts nur in den Räumen des ZMG unter absolutem Weitergabeverbot an den für den Mandanten zuständigen Staatsanwalt; E. 2.7).
+
+#### 3. Grenzen des Schutzes im Übrigen
+- **Schein-Substitution:** Ein mitbeschuldigter Anwalt kann untersuchungsrelevante Beweisunterlagen nicht dem Zugriff entziehen, indem er Büropartner oder Korrespondenzanwälte substituiert ([BGE 138 IV 225 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html#consideration_6)).
+- **Mandatsfremde Schriftstücke / Kassiber:** Schriftstücke, die dem Verteidiger nicht zur Ausübung seines Amtes übergeben wurden (z.B. geheime Mitteilungen an Dritte), fallen nicht unter lit. a ([BGE 102 IV 210 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-210_1976-10-11.html#consideration_4)).
 
 ### B. Persönliche Aufzeichnungen und Korrespondenz (Abs. 1 lit. b)
 
@@ -99,11 +113,9 @@ Lit. d schützt Dokumente aus dem Verkehr unbeteiligter dritter Personen mit der
 
 ### E. Die entscheidende Grenze: Mitbeschuldigung im gleichen Sachzusammenhang
 
-In den Fällen von lit. c und lit. d entfällt das Beschlagnahmeverbot, wenn der Geheimnisträger im gleichen Sachzusammenhang selbst beschuldigt ist.
-
-Das Bundesgericht verlangt bei Kanzleidurchsuchungen eine differenzierte Betrachtung:
-> «Auf ein Beschlagnahmeverbot gemäss Art. 264 StPO können sich die Betroffenen nur hinsichtlich weiterer bei der Kanzlei tätiger, nicht beschuldigter Anwältinnen und Anwälte berufen. Bei im gleichen Sachzusammenhang selbst beschuldigten Personen ist die Entsiegelung vorbehältlich einer vorgängigen richterlichen Aussonderung zulässig.»
-([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-734-2025_2026-05-28.html)).
+Ist der Geheimnisträger im gleichen Sachzusammenhang selbst beschuldigt, entfällt das Beschlagnahmeverbot nunmehr für **lit. a, c und d** gleichermassen:
+- **Kanzleidurchsuchung:** Bei teilweise beschuldigter Kanzlei greift das Beschlagnahmeverbot nur zugunsten der unbeteiligten Anwälte; bezüglich der mitbeschuldigten Kanzleimitglieder ist die Entsiegelung nach vorangehender Aussonderung zulässig ([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-734-2025_2026-05-28.html)).
+- **Verteidiger als Mitbeschuldigter:** Auch die Verteidigerkorrespondenz nach lit. a ist bei Mitbeschuldigung des Anwalts der Entsiegelung zugänglich, bedarf aber prozessualer Schutzvorkehren zur Vermeidung von Nachteilen für den Mandanten ([BGer 7B_219/2026 vom 20. August 2026, E. 2.6 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_219_2026)).
 
 ### F. Rückgabe und Einziehung (Abs. 2)
 
@@ -141,6 +153,14 @@ Die kantonalen Gerichte verlangen gestützt auf die bundesgerichtliche Rechtspre
 - Die Strafverfolgungsbehörde darf die Datenbestände nicht selbst sichten ([BGE 148 IV 221 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html#consideration_2)).
 - Das kantonale Zwangsmassnahmengericht nimmt eine Triage vor, indem es entweder gezielte Suchbegriffe (Keywords) zur Filterung anwendet oder einen unabhängigen Sachverständigen mit der Aussonderung beauftragt ([Obergericht Zürich, UE210345 vom 8. Juni 2022](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE210345_2022-06-08.pdf)).
 - Nur die für die Strafuntersuchung relevanten und nicht unter Drittmandate fallenden Dokumente werden der Staatsanwaltschaft übergeben ([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-734-2025_2026-05-28.html)).
+
+### 3. Informationswall bei mitbeschuldigtem Verteidiger (Art. 264 Abs. 1 lit. a StPO)
+
+**Streitpunkt:** Wie wird verhindert, dass entsiegelte Verteidigerunterlagen eines mitbeschuldigten Anwalts im Strafverfahren gegen den Mandanten verwertet werden, wenn beide Verfahren bei derselben Staatsanwaltschaft geführt werden?
+
+**Gerichtspraxis nach BGer 7B_219/2026:**
+- Das Zwangsmassnahmengericht darf entsiegelte Unterlagen nicht ohne flankierende Schutzvorkehrungen an die Staatsanwaltschaft herausgeben.
+- Erforderlich ist die Errichtung eines **Informationswalls**: Der für das Verfahren gegen den Anwalt zuständige Staatsanwalt erhält die Einsichtnahme ausschliesslich in den Räumlichkeiten des ZMG, verbunden mit dem ausdrücklichen prozessualen Verbot, die Dokumente dem für das Verfahren gegen den Mandanten zuständigen Staatsanwalt zugänglich zu machen ([BGer 7B_219/2026 vom 20. August 2026, E. 2.7](https://mcp.opencaselaw.ch/entscheid/bger_7B_219_2026)).
 
 ## Rechtsprechung
 

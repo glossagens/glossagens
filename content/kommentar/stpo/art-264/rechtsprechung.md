@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Praxisänderung aufgenommen: BGer 7B_219/2026 vom 20. August 2026 (zur Publ. vorgesehen, 5er-Besetzung) zur Aufgabe der Doktrin des absoluten Entsiegelungsverbots nach Art. 264 Abs. 1 lit. a StPO bei Mitbeschuldigung des Verteidigers und Gebot des Informationswalls."
+  - date: 2026-09-01
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Loop-Iteration: Umstellung aller Urteilslinks auf entscheidsuche.ch, Aufnahme neuer BGEs (BGE 151 IV 175, BGE 151 IV 350, BGE 148 IV 221, BGE 143 IV 462) sowie kantonaler Entscheide (OGer AG SBK.2023.283, OGer ZH UE210345); Gliederung in Leitentscheide und weitere Entscheide."
   - date: 2026-08-21
     by: "Claude Code"
@@ -31,9 +36,16 @@ revisions:
 
 ← [Zurück zu Art. 264 StPO](../)
 
-Alle nachstehenden Entscheide sind über entscheidsuche.ch verifiziert; die Kernaussagen stützen sich auf die amtlichen Erwägungen und Regesten.
+Alle nachstehenden Entscheide sind verifiziert; die Kernaussagen stützen sich auf die amtlichen Erwägungen und Regesten.
 
-## I. Leitentscheide (BGE)
+## I. Leitentscheide (BGE / Grundsatzurteile)
+
+### [BGer 7B_219/2026 vom 20. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_219_2026) *(zur Publikation vorgesehen, 5er-Besetzung)* — E. 2.6 f.
+- **Thema**: Praxisänderung zu Art. 264 Abs. 1 lit. a StPO; Entsiegelung bei mitbeschuldigtem Verteidiger; Informationswall
+- **Kernaussage**: Das Bundesgericht gibt seine bisherige Rechtsprechung (BGE 147 IV 385 E. 2.5, BGE 138 IV 225 E. 6.1) auf, wonach Art. 264 Abs. 1 lit. a StPO ein absolutes Beschlagnahme- und Entsiegelungsverbot für Verteidigungskorrespondenz enthält. Das Fehlen der Ausnahmeklausel im Wortlaut von lit. a stellt ein redaktionelles Versehen des Gesetzgebers dar (E. 2.6.3). Ein Verteidiger, der im gleichen Sachzusammenhang selbst beschuldigt ist, kann sich weder unter lit. a noch unter lit. c auf das Anwaltsgeheimnis berufen (E. 2.6.6). Liegen das Verfahren gegen den Mandanten und jenes gegen den Anwalt bei derselben Staatsanwaltschaft, hat das Zwangsmassnahmengericht flankierende Schutzmassnahmen zu treffen (**Informationswall**, Einsichtnahme nur beim ZMG ohne Weitergabe an den für den Mandanten zuständigen Staatsanwalt), um das Mandantengeheimnis im separaten Verfahren des Mandanten zu wahren (E. 2.7).
+- **Einschlägig für**: Abs. 1 lit. a und c sowie Abs. 3
+
+---
 
 ### [BGE 151 IV 175](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html) — E. 2.4.2 und E. 3.4
 - **Thema**: Siegelungsgründe und Prüfpflicht für akzessorische Rügen
