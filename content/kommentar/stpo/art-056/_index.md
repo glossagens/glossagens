@@ -128,6 +128,9 @@ Im Rahmen eines Richterkollegiums kann die Präsidentin stellvertretend für das
 
 - **BGer 7B_64/2026 vom 31. Juli 2026** — Pauschale Ausstandsablehnung mehrerer Richter und Staatsanwälte. Eltern eines kranken Kindes lehnten sämtliche beteiligte Richter und Staatsanwälte ab, die ihre Strafbeschwerden gegen CHUV-Personal abgewiesen hatten. Das Bundesgericht wies die Beschwerden ab: Bloss fehlerhafte oder negative Entscheide als solche begründen keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK rechtfertigen. Zudem ist die Ablehnung von Richtern, die nicht mehr mit der Sache befasst sind, mangels schutzwürdigen Interesses unzulässig. Das Bundesgericht warnte ausdrücklich vor missbräuchlichen, pauschalen Ablehnungsbegehren.
 
+### Ausstand im Strafverfahren — Institutionelle Kritik und Star-Praxis
+- **[BGer 7B_105/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_105/2026)** — Keine Befangenheit aus abstrakter Kritik an der Behördenorganisation. Eine rein abstrakte oder institutionelle Kritik an der Gerichts- und Behördenorganisation vermag keine konkrete Befangenheit einer einzelnen Gerichtsperson nach Art. 56 lit. f StPO zu begründen; wer den Ausstand verlangt, muss greifbare Anhaltspunkte für eine persönliche Voreingenommenheit darlegen. Parteiangehörige können die Ablehnung verfahrensrechtlicher Ausstandsbegehren über die Star-Praxis vor Bundesgericht rügen.
+
 ---
 
 ### V. Literaturhinweise
