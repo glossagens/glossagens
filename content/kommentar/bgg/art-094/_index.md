@@ -52,9 +52,11 @@ revisions:
 
 **9** **Beschränkter Streitgegenstand** Das Verfahren nach Art. 94 BGG beschränkt sich auf die Frage der Rechtsverweigerung; auf materielle Anträge (im Fall: Zusprechung der Insolvenzentschädigung) tritt das Bundesgericht nicht ein ([BGer 8C_235/2026, E. 4](https://mcp.opencaselaw.ch/entscheid/bger_8C_235_2026#e-4)).
 
+**10** **Substanziierungsanforderungen bei Rechtsverzögerung** Wird vor Bundesgericht eine ungebührliche Verfahrensdauer oder Untätigkeit einer kantonalen Aufsichts- oder Gerichtsbehörde gerügt, muss der Beschwerdeführer in seiner Rechtsschrift gemäss Art. 42 Abs. 2 BGG substantiiert darlegen, in welchen konkreten Zeiträumen die Behörde unrechtmässig untätig geblieben ist ([BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026)). Pauschale Verzögerungsvorwürfe führen zum Nichteintreten.
+
 > **Annotation**
 >
-> **9a** **Niedrige Eintretenshürde als Rechtsschutzgarantie** Der Entscheid zeigt die rechtsschutzfreundliche Handhabung von Art. 94 BGG bei Laieneingaben: Weder das Fehlen eines formellen Anfechtungsobjekts noch die informelle Form der gerichtlichen Weigerung (E-Mail) schadet der beschwerdeführenden Partei. Massgebend ist der aus der Eingabe **objektiv erkennbare Beschwerdewille** — ein strenger Massstab für die Kanzleien der Gerichte, die bei Sammel- und Gemeinschaftseingaben die Parteirollen sorgfältig zu erfassen haben. Zugleich bestätigt der Entscheid die Grenze: Materielle Begehren bleiben im Rechtsverweigerungsverfahren ausgeklammert.
+> **10a** **Niedrige Eintretenshürde als Rechtsschutzgarantie** Der Entscheid zeigt die rechtsschutzfreundliche Handhabung von Art. 94 BGG bei Laieneingaben: Weder das Fehlen eines formellen Anfechtungsobjekts noch die informelle Form der gerichtlichen Weigerung (E-Mail) schadet der beschwerdeführenden Partei. Massgebend ist der aus der Eingabe **objektiv erkennbare Beschwerdewille** — ein strenger Massstab für die Kanzleien der Gerichte, die bei Sammel- und Gemeinschaftseingaben die Parteirollen sorgfältig zu erfassen haben. Zugleich bestätigt der Entscheid die Grenze: Materielle Begehren bleiben im Rechtsverweigerungsverfahren ausgeklammert.
 
 ---
 
