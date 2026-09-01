@@ -107,6 +107,12 @@ Als Garanten kommen namentlich in Betracht: die Eltern (natürliche und Adoptive
 
 ---
 
+## VII. Verfahrensrecht: Beweiswürdigung und In dubio pro duriore
+
+**16** Stehen im Ermittlungsverfahren gegensätzliche Aussagen der Beteiligten im Raum (z.B. Vorwurf der Vernachlässigung oder Misshandlung gegenüber Bestreitung der Erziehungsberechtigten), verbietet der Grundsatz **«in dubio pro duriore»** ([Art. 319 StPO](../../stpo/art-319/)) eine vorzeitige Verfahrenseinstellung durch die Staatsanwaltschaft ([BGer 7B_316/2026 vom 17. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.07.2026_7B_316/2026)). Wenn die Glaubhaftigkeit von Kinderaussagen nicht von vornherein erschüttert ist, gebietet das Legalitätsprinzip die Erhebung der Anklage zur Beurteilung durch das Sachgericht.
+
+---
+
 ## VII. Strafrahmen
 
 | Absatz | Schuldform | Strafrahmen |
