@@ -132,6 +132,14 @@ Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheid
 
 ---
 
+#### [BGer 1C_513/2025 vom 10. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.07.2026_1C_513/2025) — Willkürverbot bei Quartierplanvereinbarungen und Zessionen
+
+**Kernaussage**: Bei der Überprüfung kommunaler Quartierplanvereinbarungen und städtebaulicher Verträge auf Willkür (Art. 9 BV) greift das Bundesgericht nur ein, wenn die behördliche Auslegung und Interessenabwägung offensichtlich unhaltbar ist oder mit den tatsächlichen Gegebenheiten in unlösbarem Widerspruch steht; das Vorliegen vertretbarer anderer Gestaltungsoptionen begründet keine Willkür.
+
+**Bedeutung**: Strikte Einhaltung der Willkürkognition im Bereich kommunaler Planungsautonomie.
+
+---
+
 ## Entfernte Entscheide (Audit vom 11. August 2026)
 
 Ausgangslage: 44 beurteilte Paare, davon 5 gestützt (30 %).
