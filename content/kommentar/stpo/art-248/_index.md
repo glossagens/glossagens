@@ -59,6 +59,13 @@ revisions:
 #### 2. Dritte als Berechtigte
 **Rz. 9** Ist die Inhaberin nicht identisch mit der an den Aufzeichnungen berechtigten Person (Art. 248 Abs. 2 StPO), ist dieser Gelegenheit zu geben, innert drei Tagen selbst die Siegelung zu verlangen.
 
+#### 3. Information Wall und Einsichtsschranken vor dem ZMG
+**Rz. 10** Das strikte Einsichts- und Verwendungsverbot gemäss Art. 248 Abs. 1 StPO gilt während des gesamten Entsiegelungsverfahrens vor dem Zwangsmassnahmengericht («Information Wall»). Das ZMG darf der Staatsanwaltschaft versiegelte Dokumente oder vom Gesuchsgegner eingereichte vertrauliche Unterlagen (z.B. zur Begründung des Geheimnisschutzes) nicht zur Stellungnahme zustellen, bevor rechtskräftig über die Entsiegelung entschieden wurde ([BGer 7B_219/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_219/2026)).
+
+---
+
+*Letzte Aktualisierung: 1. September 2026*
+
 ## Querverweise
 
 - [Art. 246 StPO — Durchsuchung von Aufzeichnungen](../art-246/)
