@@ -87,3 +87,27 @@ agent_verified: true
 **KERNAUSSAGE:** Ein Prüfungsergebnis kann mit subsidiärer Verfassungsbeschwerde angefochten werden. Für die Begründungspflicht gilt insoweit Art. 42 Abs. 2 BGG. Der Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) verlangt eine Begründung, die die betroffene Person in die Lage versetzt, ihre Rechte wirksam wahrzunehmen.
 
 **EINSCHLÄGIG FÜR:** Art. 42 Abs. 2 (Begründungspflicht im Verhältnis zu Art. 29 Abs. 2 BV)
+
+---
+
+### [BGE 142 III 364 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-364_2016.html) — Verweisung auf kantonale Rechtsschriften unzulässig
+
+**THEMA:** Begründungsanforderungen und Verweisungsverbot
+
+**KERNAUSSAGE:** Die Begründung muss in der Beschwerdeschrift selbst enthalten sein. Ein blosser Verweis auf Ausführungen in Rechtsschriften der Vorinstanzen oder auf Beilagen genügt den Anforderungen von Art. 42 Abs. 1 und 2 BGG nicht und ist unbeachtlich.
+
+**EINSCHLÄGIG FÜR:** Art. 42 Abs. 1 und 2 (Selbständigkeit der Beschwerdeschrift)
+
+---
+
+### [BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026) — Appellatorische Kritik und Nichteintreten
+
+**THEMA:** Nichteintreten bei rein appellatorischer Kritik
+
+**KERNAUSSAGE:** Wer vor Bundesgericht lediglich die eigene Sichtweise wiederholt und die Sachverhalts- oder Beweiswürdigung der kantonalen Vorinstanz als falsch bezeichnet, ohne präzise darzulegen, inwiefern Bundesrecht verletzt oder das Willkürverbot missachtet wurde, genügt den Anforderungen von Art. 42 Abs. 2 BGG nicht; auf eine solche Beschwerde wird nicht eingetreten.
+
+**EINSCHLÄGIG FÜR:** Art. 42 Abs. 2 BGG i.V.m. Art. 106 Abs. 2 BGG (Appellatorische Kritik)
+
+---
+
+*Letzte Aktualisierung: 2026-09-01*
