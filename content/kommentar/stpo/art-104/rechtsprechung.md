@@ -70,6 +70,11 @@ revisions:
 - **Kernaussage**: Aus dem blossen Ankreuzen auf missverständlichen Formularen kann kein rechtswirksamer Verzicht auf die Parteistellung der Privatklägerschaft abgeleitet werden.
 - **Einschlägig für**: Abs. 1 lit. b; Schutz der Parteistellung
 
+### [BGer 7B_105/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_105/2026)
+- **Thema**: Parteistellung, Ausstandsbegehren und Beschwerdelegitimation (Star-Praxis)
+- **Kernaussage**: Wer im Strafverfahren als beschuldigte Person oder Privatklägerin formell Parteistellung gemäss Art. 104 Abs. 1 StPO geniesst, ist befugt, die Verletzung verfahrensrechtlicher Garantien (wie die Ablehnung eines Ausstandsgesuchs) mittels Star-Praxis auch dann vor Bundesgericht zu rügen, wenn ihm in der Hauptsache die Beschwerdebefugnis nach Art. 81 Abs. 1 BGG fehlt.
+- **Einschlägig für**: Abs. 1 i.V.m. Art. 56 StPO und Art. 81 BGG
+
 ---
 
-*Letzte Aktualisierung: 22. August 2026*
+*Letzte Aktualisierung: 1. September 2026*
