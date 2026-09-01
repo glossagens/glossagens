@@ -104,9 +104,14 @@ revisions:
 - **Kernaussage**: Art. 26 BV räumt dem Enteigneten keine weitergehende Entschädigungsgarantie ein als das kantonale Recht; ein Unfreiwilligkeitszuschlag ist bundesverfassungsrechtlich nicht gefordert.
 - **Einschlägig für**: Art. 26 Abs. 2 BV (Entschädigungspflicht)
 
+### [BGer 1C_513/2025 vom 10. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.07.2026_1C_513/2025)
+- **Thema**: Eigentumsgarantie bei Quartierplanverträgen und Landabtretungen (Zessionen)
+- **Kernaussage**: Städtebauliche Vereinbarungen im Rahmen von Quartierplanungen, die entgeltliche Abtretungen für öffentliche Erschliessungs- oder Ausgleichsanlagen vorsehen, verletzen die Eigentumsgarantie (Art. 26 Abs. 1 und 2 BV) nicht, wenn sie auf einer gesetzlichen Grundlage beruhen, im öffentlichen Interesse liegen und verhältnismässig entschädigt werden.
+- **Einschlägig für**: Art. 26 Abs. 1 und 2 BV i.V.m. Art. 5 RPG
+
 ---
 
-*Letzte Aktualisierung: 2026-05-23*
+*Letzte Aktualisierung: 2026-09-01*
 ---
 
 ## Audit-Protokoll (11. August 2026)
