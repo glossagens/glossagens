@@ -107,4 +107,11 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-09*
+### [BGer 5A_639/2025 vom 11. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.07.2026_5A_639/2025)
+- **Thema**: Beistandspflicht, Erwerbsobliegenheit und Beweiswert von Arztzeugnissen
+- **Kernaussage**: Die aus Art. 159 Abs. 3 ZGB fliessende Pflicht zur gegenseitigen Unterstützung und zum gemeinsamen Unterhalt gebietet es beiden Ehegatten, ihre Arbeitskraft nach Kräften einzusetzen. Macht ein Ehegatte zur Abwehr von Beiträgen eine Arbeitsunfähigkeit geltend, muss diese durch substanziierte medizinische Berichte nachgewiesen werden.
+- **Einschlägig für**: Art. 159 Abs. 3 ZGB i.V.m. Art. 163 und 176 ZGB
+
+---
+
+*Letzte Aktualisierung: 2026-09-01*
