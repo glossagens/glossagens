@@ -50,19 +50,19 @@ Seit dem 1. Januar 2025 können Rechtsschriften in **Zivilsachen in englischer S
 In der Begründung ist **in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt**. Der Beschwerdeführer muss sich wenigstens kurz mit den Erwägungen des angefochtenen Entscheids auseinandersetzen ([BGE 134 II 244](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_II_244), E. 2.1). 
 
 **Nicht ausreichend** ist:
-- Blosse Wiederholung der kantonalen Argumentation
-- Appellatorische Kritik ohne konkrete Rechtswidrigkeitsrüge
-- Allgemeine Unzufriedenheit mit dem Entscheid
+- Blosse Wiederholung der kantonalen Argumentation oder pauschale Verweise auf frühere Rechtsschriften und Akten ([BGE 142 III 364 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-364_2016.html));
+- Appellatorische Kritik ohne konkrete Rechtswidrigkeitsrüge ([BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026));
+- Allgemeine Unzufriedenheit mit dem Entscheid.
 
 #### Auseinandersetzungspflicht
 
-Der Beschwerdeführer muss sich **gezielt mit den für das Ergebnis massgeblichen Erwägungen** auseinandersetzen und plausibel aufzeigen, welche Rechte bzw. Rechtsnormen die Vorinstanz verletzt haben soll ([BGE 148 IV 205](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_148_IV_205), E. 2.6; [BGer 2C_732/2025](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=2C_732_2025), E. 3.1).
+Der Beschwerdeführer muss sich **gezielt mit den für das Ergebnis massgeblichen Erwägungen** auseinandersetzen und plausibel aufzeigen, welche Rechte bzw. Rechtsnormen die Vorinstanz verletzt haben soll ([BGE 148 IV 205](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-205_2022.html), E. 2.6; [BGer 2C_732/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-732-2025_2025-10-31.html), E. 3.1).
 
 #### Qualifizierte Rüge- und Begründungspflicht
 
-Für Rügen der **Verletzung von Grundrechten**, einschliesslich des Willkürverbots, gilt eine **qualifizierte Rüge- und Begründungspflicht** nach Art. 106 Abs. 2 BGG. Die Beschwerdeschrift muss die wesentlichen Tatsachen und eine kurz gefasste Darlegung darüber enthalten, welche verfassungsmässigen Rechte inwiefern verletzt worden sind ([BGE 134 II 244](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_II_244), E. 2.2; [BGE 133 IV 286](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_IV_286)).
+Für Rügen der **Verletzung von Grundrechten**, einschliesslich des Willkürverbots, gilt eine **qualifizierte Rüge- und Begründungspflicht** nach Art. 106 Abs. 2 BGG. Die Beschwerdeschrift muss die wesentlichen Tatsachen und eine kurz gefasste Darlegung darüber enthalten, welche verfassungsmässigen Rechte inwiefern verletzt worden sind ([BGE 134 II 244](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-134-II-244_2008.html), E. 2.2; [BGE 133 IV 286](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-286_2007.html)).
 
-Auf **rein appellatorische Kritik** tritt das Bundesgericht in Grundrechtsfragen nicht ein.
+Auf **rein appellatorische Kritik** tritt das Bundesgericht in Grundrechtsfragen nicht ein ([BGer 5A_131/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026)).
 
 #### Grundsatzfragen und besonders bedeutende Fälle
 
