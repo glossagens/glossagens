@@ -158,3 +158,14 @@ revisions:
 - **Thema**: Arglist bei einfachen Falschangaben im Selbstdeklarationsverfahren der Covid-19-Kreditvergabe.
 - **Kernaussage**: Beim Covid-19-Kredit kann die Arglist durch einfache Falschangaben zum Umsatzerlös erfüllt sein, da die Kreditvergabe bewusst unbürokratisch gestaltet war und die Bank auf die Richtigkeit der Angaben im Antragsformular vertrauen durfte. Eine Opfermitverantwortung der Bank kommt nicht in Betracht (E. 2.4.3, E. 3.3.2).
 - **Einschlägig für**: Art. 146 Abs. 1 StGB — Arglist bei einfachen Falschangaben, Covid-19-Kreditbetrug.
+
+---
+
+### [BGer 7B_1359/2025 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_7B_1359/2025) — Lügengebäude und Schneeballsystem bei Anlagebetrug
+- **Thema**: Arglist durch raffiniertes Lügengebäude bei Schneeballsystemen; Überwälzung deliktischer Gelder an Dritte.
+- **Kernaussage**: Baut der Täter ein komplexes Geflecht aus fingierten Renditeversprechen, gefälschten Depotauszügen und scheinbaren Auszahlungen aus Vorinvestitionen auf (Schneeballsystem), liegt ein arglistiges Lügengebäude vor. Die Opfermitverantwortung entfällt, wenn dem Anleger die Überprüfung der inneren Geldflüsse faktisch verunmöglicht wird.
+- **Einschlägig für**: Art. 146 Abs. 1 und 2 StGB i.V.m. Art. 70/71 StGB — Lügengebäude, Anlagebetrug, Ersatzforderung.
+
+---
+
+*Letzte Aktualisierung: 2026-09-01*
