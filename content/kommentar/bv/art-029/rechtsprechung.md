@@ -184,7 +184,15 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 18. August 2026*
+#### [BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026) — Begründungsdichte und Gehörsanspruch
+
+- **Thema**: Begründungspflicht bei Aufsichtsbeschwerden
+- **Kernaussage**: Aus dem Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) folgt die Pflicht der Behörde, ihren Entscheid so abzufassen, dass der Betroffene ihn sachgerecht anfechten kann; die Behörde muss sich jedoch nicht mit jedem einzelnen Parteivorbringen auseinandersetzen, sondern darf sich auf die für den Entscheid wesentlichen Punkte beschränken.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Begründungspflicht; Erwägungsdichte
+
+---
+
+*Letzte Aktualisierung: 1. September 2026*
 ---
 
 ## Audit-Protokoll (12. August 2026)
