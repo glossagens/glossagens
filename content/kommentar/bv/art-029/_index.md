@@ -129,6 +129,8 @@ Mindestanforderungen an die Begründung:
 
 In [BGer 9C_550/2025](https://mcp.opencaselaw.ch/entscheid/bger_9C_550_2025) bestätigte das Bundesgericht: Auf eine Beschwerde, die offensichtlich keine hinreichende Begründung im Sinne von Art. 42 Abs. 2 BGG enthält, ist im vereinfachten Verfahren nach Art. 108 Abs. 1 lit. b BGG nicht einzutreten.
 
+In [BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026) präzisierte das Bundesgericht: Bei Aufsichtsbeschwerden (z.B. im SchKG-Verfahren) genügt die Begründung den verfassungsrechtlichen Mindestanforderungen von Art. 29 Abs. 2 BV, wenn die Aufsichtsbehörde die wesentlichen Überlegungen nennt, von denen sie sich leiten liess; sie muss sich nicht mit jedem einzelnen Parteivorbringen ausdrücklich auseinandersetzen, sofern der Betroffene die Tragweite des Entscheids erkennen und sachgerecht anfechten kann.
+
 ### 6. Überraschungsverbot
 
 Als Ausprägung des rechtlichen Gehörs gilt das **Überraschungsverbot**: Eine Behörde darf ihren Entscheid nicht auf Erwägungen stützen, mit denen die betroffene Partei nicht rechnen musste und zu denen sie sich nicht äussern konnte. Das Überraschungsverbot verletzt den Grundsatz des fairen Verfahrens und ist eine Verletzung von Art. 29 Abs. 2 BV.
