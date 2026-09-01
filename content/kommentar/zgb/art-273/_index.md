@@ -87,6 +87,10 @@ BGer 5A_528/2015 E. 5.1: Der gänzliche Ausschluss kommt nur in Frage, wenn sich
 
 BGer 5A_457/2009 E. 3.2–3.4: Der obhutsberechtigte Elternteil hat **aktiv** auf die Ermöglichung des Besuchsrechts hinzuwirken und alles zu unterlassen, was das Kind-Elternteil-Verhältnis beeinträchtigt (Art. 274 Abs. 1 ZGB). Sich nach erfolgreicher Manipulation auf die Verweigerungshaltung der Kinder zu berufen, ist unstatthaft.
 
+#### 7. Beweiswürdigung bei verweigerter Begutachtung
+
+[BGer 5A_812/2025 vom 11. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.07.2026_5A_812/2025): Weigert sich ein Elternteil grundlos, an einer behördlich oder gerichtlich angeordneten familienpsychologischen Begutachtung zur Regelung des Besuchsrechts mitzuwirken, darf das Gericht diesen Umstand im Rahmen der freien Beweiswürdigung (Art. 164 ZPO) zu seinen Lasten würdigen und den Kontakt auf ein überwachtes oder begleitetes Besuchsrecht (Art. 273 Abs. 2 ZGB) beschränken.
+
 ### Internationale Dimension
 
 - **Ausländerrecht**: BGer 143 I 21 E. 5.3 — besuchsrechtsgleicher Umgang genügt für Familiennachzug nicht zwingend; alternierende Obhut erforderlich
