@@ -173,9 +173,12 @@ Zwischen Täuschung und Vermögensdisposition muss **Kausalität** bestehen; der
 **24** Der **Anlagebetrug** ist durch systematische Täuschung über Anlageprodukte, Renditen und Risiken gekennzeichnet. Typische Merkmale sind:
 - Verschleierung tatsächlicher Gebühren und Kommissionen;
 - Vorspiegelung ferner oder übertriebener Ertragschancen;
+- Aufbau eines Schneeballsystems (Ponzi-Scheme) mit fingierten Depotauszügen und Auszahlung scheinbarer Renditen aus Nachfolgeinvestitionen;
 - Aufbau eines Systems von Vertriebsagenten, die selbst im Irrtum über die Kommissionsstruktur sind.
 
 > **Beispiel — Anlagebetrug**: In [BGE 135 IV 76](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-76_2009.html) hatte der Täter ein System aggressiver Telefonverkäufer aufgebaut, die Aktienoptionen unter Verschleierung der Kommissionen vermittelten. Das Bundesgericht bejahte Arglist: Die mündliche, aggressive Vermittlung unter Verschleierung der Gebühren erfüllte den Tatbestand des Betruges, auch wenn die Kunden nachträglich aus den Abrechnungen die Höhe der Kommissionen hätten errechnen können (E. 5.3).
+> 
+> In **[BGer 7B_1359/2025 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_7B_1359/2025)** bekräftigte das Bundesgericht: Errichtet der Täter ein raffiniertes Lügengebäude durch gefälschte Depotauszüge und Scheinauszahlungen im Rahmen eines Schneeballsystems, scheidet eine anspruchsmindernde Opfermitverantwortung aus, da die Anleger die intransparenten internen Geldflüsse nicht überprüfen können. Deliktserlöse, die an begünstigte Dritte ohne adäquate Gegenleistung weitergeleitet wurden, unterliegen der Einziehung bzw. Ersatzforderung nach Art. 70/71 StGB.
 
 ### 4. Sozialleistungsbetrug (Leistungsbetrug)
 **25** Beim unrechtmässigen Bezug von Sozialleistungen (IV-Rente, Sozialhilfe, Arbeitslosenentschädigung) durch Verschweigen von Einkünften oder Vermögenswerten prüfen die Gerichte streng, ob die behördliche Überprüfungspflicht durch das Verschweigen arglistig unterlaufen wurde. Ein Lügengebäude ist nicht zwingend erforderlich: Wenn die Behörde die wahren Verhältnisse nur mit unverhältnismässigem Aufwand hätte aufklären können, genügt die bewusste Falschangabe auf den Formularen für Arglist.
