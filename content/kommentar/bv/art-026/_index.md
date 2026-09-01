@@ -82,6 +82,8 @@ Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Geset
 - **Leichter Eingriff** (generelle gesetzliche Grundlage genügt): Die Sanierungspflicht für Gebäude mit dezentraler Elektroheizung schränkt die Eigentumsgarantie ein ([BGE 150 I 106](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_I_106)); ob ein Eingriff als schwer gilt, entscheidet sich nach Intensität und Tragweite im Einzelfall. Bauverbote in der Landwirtschaftszone gehören zum sozialtypischen Eigentumsrisiko und sind grundsätzlich entschädigungslos hinzunehmen.
 - **Sonderopfertheorie**: Ein Eigentumseingriff, der eine Einzelperson oder eine kleine Gruppe unverhältnismässig stärker trifft als die Allgemeinheit, stellt ein Sonderopfer dar und ist voll zu entschädigen.
 
+**11a** **Quartierplanungen und Landabtretungen (Zessionen).** Städtebauliche Verträge im Rahmen von Quartierplanungen, die entgeltliche Abtretungen von Grundstücken für öffentliche Infrastruktur- oder Ausgleichsanlagen vorsehen, verletzen Art. 26 Abs. 1 und 2 BV nicht, sofern sie auf einer gesetzlichen Grundlage im kantonalen Raumplanungsrecht beruhen, im öffentlichen Interesse liegen und eine angemessene Entschädigung vorsehen ([BGer 1C_513/2025 vom 10. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.07.2026_1C_513/2025)).
+
 **12** **Vollentschädigung.** Der Entschädigungsanspruch nach Art. 26 Abs. 2 BV erfordert **Vollentschädigung**. Massgeblich ist der Verkehrswert im Zeitpunkt des Eingriffs. Es genügt nicht, dass der Eigentümer den Schaden «sozial hinnehmen muss»; jede Enteignung erfordert eine vollständige Kompensation des Vermögensnachteils.
 
 ### V. Verhältnismässigkeit (Art. 36 BV)
