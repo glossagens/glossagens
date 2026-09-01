@@ -58,6 +58,8 @@ Bei «Aussage gegen Aussage»-Situationen — typisch etwa bei häuslicher Gewal
 
 Bestehen nebst den sich widersprechenden Parteiaussagen keine weiteren Beweise und erscheint die Anzeige durch nachvollziehbare Umstände (z.B. zeitlicher Zusammenhang mit einem Beziehungskonflikt) relativiert, kann die Teileinstellung auch bei Vorwürfen der Nötigung und Drohung im häuslichen Kontext vor Bundesrecht standhalten ([BGer 7B_173/2025 vom 6. März 2026, E. 3.3 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_173_2025)).
 
+Dagegen verletzt die Verfahrenseinstellung den Grundsatz «in dubio pro duriore», wenn bei Vorwürfen von Sexualdelikten oder Fürsorgepflichtverletzungen an Kindern (Art. 187 und 219 StGB) unvollständige Ermittlungen vorliegen oder die Glaubhaftigkeit der belastenden Aussagen einer vertieften richterlichen Einvernahme und Würdigung bedarf ([BGer 7B_316/2026 vom 17. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.07.2026_7B_316/2026)).
+
 ## III. Die Einstellungsgründe (Abs. 1)
 
 ### 1. Lit. a — Kein hinreichender Tatverdacht
