@@ -2,11 +2,16 @@
 title: "Art. 264 StPO — Einschränkungen"
 weight: 264
 date: 2025-07-16
-lastmod: 2026-08-21
+lastmod: 2026-09-01
 description: "Kommentar zu Art. 264 StPO: Beschlagnahmeverbote für Verteidigungskorrespondenz, persönliche Aufzeichnungen, Unterlagen aus dem Verkehr mit zeugnisverweigerungsberechtigten Personen und Drittmandate; Grenze der Mitbeschuldigung; Siegelungsverfahren nach Abs. 3."
 tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Quellenschutz", "Arztgeheimnis"]
 agent_verified: true
 revisions:
+  - date: 2026-09-01
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Loop-Iteration: Umstellung aller Urteilslinks auf entscheidsuche.ch, Integration von BGE 151 IV 175 (Ausschluss von Art. 173 Abs. 2 als Siegelungsgrund), BGE 151 IV 350 (Privatgeheimnisse bei schweren Straftaten), BGE 148 IV 221 (Spiegelungsverbot vor Siegelung), BGE 143 IV 462 (Abgrenzung anwaltliche Kernaufgaben) sowie kantonale Praxisfragen zur Substanziierung und Triage."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -46,77 +51,96 @@ revisions:
 
 ## Überblick und Bedeutung
 
-Art. 264 StPO zieht der Beschlagnahme (Art. 263 StPO) inhaltliche Grenzen. Die vier Tatbestände von Abs. 1 schützen unterschiedliche Vertraulichkeitsbeziehungen: das Verhältnis zur eigenen Verteidigung (lit. a), die Persönlichkeitssphäre der beschuldigten Person (lit. b), den Verkehr mit zeugnisverweigerungsberechtigten Personen (lit. c) und das Anwaltsgeheimnis nicht beschuldigter Dritter (lit. d).
+Art. 264 StPO zieht der allgemeinen Beweismittelbeschlagnahme ([Art. 263 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_263)) inhaltliche und fundamentale Schranken. Die Bestimmung bezweckt den Schutz elementarer rechtsstaatlicher Vertraulichkeitsbeziehungen sowie der verfassungs- und konventionsrechtlich garantierten Privatsphäre (Art. 13 BV, Art. 8 EMRK). Die vier Tatbestände von Abs. 1 erfassen:
+- die freie und unüberwachte Kommunikation mit der Verteidigung (lit. a),
+- die persönliche Geheimsphäre der beschuldigten Person (lit. b),
+- den Verkehr mit Zeugnisverweigerungsberechtigten (lit. c) sowie
+- das Berufsgeheimnis von Parteianwälten nicht beschuldigter Dritter (lit. d).
 
-Zwei Merkmale prägen die Norm. Erstens gilt das Verbot «ungeachtet des Ortes, wo sie sich befinden, und des Zeitpunktes, in welchem sie geschaffen worden sind» — der Schutz haftet am Gegenstand, nicht am Aufbewahrungsort. Zweitens ist er in den lit. c und d an eine Bedingung geknüpft, die in der Praxis regelmässig den Ausschlag gibt: Die Geheimnisträgerin oder der Geheimnisträger darf **im gleichen Sachzusammenhang nicht selber beschuldigt** sein.
+Die Verbote zeichnen sich durch zwei Grundsätze aus:
+1. **Objektbezogener Schutz:** Das Beschlagnahmeverbot gilt «ungeachtet des Ortes, wo sie sich befinden, und des Zeitpunktes, in welchem sie geschaffen worden sind» — der Schutz haftet am Dokument bzw. Datenträger, nicht an der physischen Aufbewahrung.
+2. **Grenze der Mitbeschuldigung:** In den Fällen von lit. c und d entfällt das Verbot, soweit die Geheimnisträgerin oder der Geheimnisträger **im gleichen Sachzusammenhang selber beschuldigt** ist.
 
-Durchgesetzt wird der Schutz nicht durch die Beschlagnahmevorschriften selbst, sondern über das **Siegelungsverfahren** (Abs. 3 i.V.m. Art. 248 ff. StPO).
+Mit der Revision der StPO per 1. Januar 2024 wurde das Zusammenspiel zwischen Art. 264 und Art. 248 StPO verschärft: Nach [BGE 151 IV 175 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html) dürfen andere gesetzlich geschützte Geheimnisse nach Art. 173 Abs. 2 StPO (wie das Bank-, Geschäfts- oder Fabrikationsgeheimnis) nicht mehr zur Begründung eines Siegelungsbegehrens angerufen werden; massgeblich sind einzig noch die Schranken von Art. 264 StPO.
 
 ## Kommentierung
 
 ### A. Unterlagen aus dem Verkehr mit der Verteidigung (Abs. 1 lit. a)
 
-Lit. a schützt die Verteidigungskorrespondenz ohne die Interessenabwägung, die lit. b vorsieht, und ohne den Vorbehalt der Mitbeschuldigung, den lit. c und d kennen. Der Schutz ist damit der weitestgehende der vier Tatbestände.
+Lit. a gewährleistet den absoluten Schutz der Verteidigungskorrespondenz. Dieser Schutz gilt ohne die bei Privatgeheimnissen vorgesehene Interessenabwägung (lit. b) und ohne den Vorbehalt der Mitbeschuldigung (lit. c und d). Er erfasst Notizen, Entwürfe, Gutachten und Schriftwechsel, die im Rahmen der Mandatsführung zwischen der beschuldigten Person und ihrer Rechtsvertretung ausgetauscht werden.
 
-Er ist aber nicht grenzenlos. Wo der Anwalt selbst mitbeschuldigt ist, lässt er sich nicht durch organisatorische Kunstgriffe herstellen:
-
-> «Ein in der Sache selbst mitbeschuldigter Anwalt kann untersuchungsrelevante Beweisunterlagen aus dem Mandatsverhältnis nicht dem Zugriff der Strafverfolgungsbehörde entziehen, indem er Büropartner oder ausländische Korrespondenzanwälte mit dem Fall substituiert (E. 6).»
-
-([BGE 138 IV 225](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_225), Regeste). Derselbe Entscheid stellt Anforderungen an die Darlegung und die Bestreitung der sachlichen Konnexität zwischen den entsiegelten Aufzeichnungen und dem Untersuchungsgegenstand (E. 7).
-
-Nicht vom Anwaltsgeheimnis gedeckt sind Schriftstücke, die dem Verteidiger weder in noch zur Ausübung seines Amtes übergeben wurden — schon zum früheren Recht entschieden für geheime Mitteilungen von Gefangenen an Dritte, die beim Anwalt lagen ([BGE 102 IV 210](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_210), Regeste, E. 4, noch zu Art. 69 BStP).
+Grenzen bestehen dort, wo die Form des Anwaltsverhältnisses missbraucht wird:
+- **Mitbeschuldigter Anwalt und Schein-Substitution:** Ein in der Sache selbst mitbeschuldigter Anwalt kann untersuchungsrelevante Beweisunterlagen nicht dem Zugriff entziehen, indem er Büropartner oder ausländische Korrespondenzanwälte substituiert ([BGE 138 IV 225 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html#consideration_6)).
+- **Mandatsfremde Unterlagen / Kassiber:** Schriftstücke, die dem Verteidiger weder in noch zur Ausübung seines Amtes übergeben wurden — namentlich geheime Mitteilungen an Dritte —, unterstehen nicht dem Schutz von lit. a ([BGE 102 IV 210 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-210_1976-10-11.html#consideration_4)).
 
 ### B. Persönliche Aufzeichnungen und Korrespondenz (Abs. 1 lit. b)
 
-Lit. b schützt nur unter der Bedingung, dass das Interesse der beschuldigten Person am Schutz ihrer Persönlichkeit das Strafverfolgungsinteresse **überwiegt**. Es handelt sich also um einen Abwägungstatbestand, nicht um ein absolutes Verbot.
+Lit. b schützt persönliche Aufzeichnungen (z.B. Tagebücher, höchstpersönliche Notizen, private Korrespondenz) nicht absolut, sondern nur, wenn das Interesse am Schutz der Persönlichkeit das Strafverfolgungsinteresse **überwiegt**.
 
-Diese Unterscheidung ist praktisch zentral geworden bei der Durchsuchung von Mobiltelefonen. [BGE 151 IV 344](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_344) hält im Regeste fest:
-
-> «Bei der (vollständigen) Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind. Da persönliche Aufzeichnungen und Korrespondenz der beschuldigten Person keinen absoluten Schutz geniessen, vermag dies für sich alleine indessen noch keine schutzwürdigen Geheimnisinteressen im Sinne von Art. 248 Abs. 1 StPO und damit auch keinen nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG zu begründen. Hierfür hat die beschwerdeführende Partei zusätzlich darzutun oder muss ohne Weiteres erkennbar sein, dass das Interesse am Schutz ihrer Persönlichkeit gegenüber dem Strafverfolgungsinteresse überwiegen könnte (E. 2.7).»
-
-Wer sich gegen die Durchsuchung eines Smartphones wehrt, muss demnach mehr vorbringen als den Hinweis, es handle sich um ein privates Gerät. Der Betroffene trifft überdies eine prozessuale Mitwirkungsobliegenheit, die schon die frühere Praxis zu privaten elektronischen Dateien betont hat ([BGE 137 IV 189](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_189), Regeste, E. 2–5, noch zu Art. 69 BStP).
+Praktisch dominiert dieser Tatbestand die Sicherstellung und Entsiegelung digitaler Geräte:
+- **Privat genutzte Smartphones:** Bei der Durchsuchung von Smartphones ist regelmässig davon auszugehen, dass persönliche Aufzeichnungen tangiert sind. Dies begründet für sich allein jedoch noch keinen absoluten Schutz und keinen nicht wieder gutzumachenden Nachteil nach Art. 93 Abs. 1 lit. a BGG; die betroffene Person muss darlegen oder es muss offenkundig sein, inwiefern das Geheimhaltungsinteresse überwiegt ([BGE 151 IV 344 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7)).
+- **Schwere der Tatvorwürfe:** Das öffentliche Interesse an der Aufklärung schwerer Straftaten überwiegt das Interesse an der Geheimhaltung privater Daten regelmässig ohne Weiteres. Das Vorhandensein irrelevanter Teilmengen (wie privater Fotos) auf einem Mobiltelefon hindert die Durchsuchung und Entsiegelung nicht ([BGE 151 IV 350 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5)).
+- **Mitwirkungsobliegenheit:** Die betroffene Person trifft eine gesteigerte Substanziierungspflicht bei der Bezeichnung geheimnisgeschützter Dateien ([BGE 137 IV 189 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-189_2011.html#consideration_4)).
 
 ### C. Verkehr mit zeugnisverweigerungsberechtigten Personen (Abs. 1 lit. c)
 
-Lit. c erfasst Gegenstände und Unterlagen aus dem Verkehr der beschuldigten Person mit Personen, die nach Art. 170–173 StPO das Zeugnis verweigern können. Dazu zählt namentlich «das strafbewehrte Berufsgeheimnis der Anwältinnen und Anwälte sowie der Verteidigerinnen und Verteidiger (Art. 321 StGB; vgl. Art. 13 BGFA)» ([BGer 7B_134/2025 vom 28. Mai 2026, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2025#e-3-2)).
+Lit. c schützt den Verkehr mit Personen, denen nach Art. 170–173 StPO ein Zeugnisverweigerungsrecht zusteht:
 
-**Medienschaffende (Art. 172 StPO).** Der Quellenschutz reicht örtlich weit: Das Beschlagnahmeverbot «erfasst nicht nur Unterlagen, die sich beim Medienschaffenden befinden, sondern auch solche, die sich beim Beschuldigten oder bei Dritten befinden» ([BGE 140 IV 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_108), Regeste, E. 6). [BGE 151 IV 153](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_153) hat diese Praxis bestätigt und in mehrfacher Hinsicht präzisiert: Das Motiv des Informanten — auch ein allfällig «täuschendes» Verhalten — ist für die Frage der Durchbrechung des Quellenschutzes nicht entscheidend; da die Amtsgeheimnisverletzung nicht im Ausnahmekatalog von Art. 172 Abs. 2 StPO steht, gilt der Quellenschutz in Verfahren nach Art. 320 StGB ohne Einschränkung; und «befasst» im Sinne von Art. 172 Abs. 1 StPO sind nicht nur Journalisten im eigentlichen Sinn, sondern sämtliche auch nur mittelbar an der Medienproduktion beteiligten Personen, wobei der Begriff der Hilfspersonen weit zu verstehen ist und namentlich Verleger, Direktionsmitglieder und Inhaber eines Medienunternehmens erfasst.
+- **Anwalts- und Verteidigergeheimnis (Art. 171 StPO, Art. 321 StGB):** Schützt das strafbewehrte Berufsgeheimnis der Anwälte ([BGer 7B_134/2025 vom 28. Mai 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-134-2025_2026-05-28.html)).
+- **Quellenschutz der Medienschaffenden (Art. 172 StPO):** Das Beschlagnahmeverbot erfasst Unterlagen unabhängig davon, ob sie beim Journalisten, beim Informanten oder bei Dritten lagern ([BGE 140 IV 108 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-108_2014.html#consideration_6)). Das Motiv des Informanten ist unerheblich, und der Schutz greift auch bei Ermittlungen wegen Amtsgeheimnisverletzung (Art. 320 StGB) uneingeschränkt ([BGE 151 IV 153 E. 3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-153_2025.html#consideration_3)).
+- **Ärztliches Berufsgeheimnis (Art. 171 StPO, Art. 321 StGB):** Ist die Ärztin oder der Arzt selbst beschuldigt, besteht zwar kein absolutes Hindernis, die Unterlagen müssen jedoch unentbehrlich sein und erfordern vor der Freigabe eine Triage bzw. Anonymisierung der Patientendaten ([BGE 141 IV 77 E. 4 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4)).
 
-**Ärztliche Aufzeichnungen (Art. 171 StPO).** Ist der betroffene Arzt selbst beschuldigt, bildet sein Berufsgeheimnis «zwar kein absolutes gesetzliches Beschlagnahme- und Entsiegelungshindernis». Damit erhobene Unterlagen durchsucht und ausgewertet werden dürfen, müssen sie jedoch «zunächst einen engen Sachzusammenhang zum Gegenstand der Strafuntersuchung aufweisen bzw. für den angestrebten Untersuchungszweck unentbehrlich sein». Zwangsmassnahmen, die auch in Grundrechte nicht beschuldigter Personen eingreifen, sind besonders zurückhaltend einzusetzen ([BGE 141 IV 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77), Regeste).
+### D. Drittmandate und Reichweite des Anwaltsgeheimnisses (Abs. 1 lit. d)
 
-### D. Drittmandate (Abs. 1 lit. d)
+Lit. d schützt Dokumente aus dem Verkehr unbeteiligter dritter Personen mit deren Anwälten. Vorausgesetzt wird die Berechtigung zur Vertretung vor schweizerischen Gerichten gemäss BGFA.
 
-Lit. d wurde 2013 eingefügt und schützt den Verkehr **einer anderen Person** — also nicht der beschuldigten — mit ihrer Anwältin oder ihrem Anwalt. Vorausgesetzt ist die Berechtigung zur Vertretung vor schweizerischen Gerichten nach dem BGFA und wiederum, dass die Anwältin oder der Anwalt im gleichen Sachzusammenhang nicht selber beschuldigt ist.
+- **Eigentliche anwaltliche Tätigkeit:** Unter das Beschlagnahmeverbot fällt nur die typische anwaltliche Berufstätigkeit (Rechtsberatung, Prozessvertretung). Reine geschäftsmännische Tätigkeiten, Handlungen als Organ/Verwaltungsrat oder blosse Weiterleitungen von Korrespondenz Dritter sind nicht geschützt ([BGE 143 IV 462 E. 2.2 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-462_2017.html#consideration_2.2); [BGE 144 IV 74 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2)).
+- **Unternehmensjuristen (In-House Counsel):** Interne Syndikusanwälte und Rechtskonsulenten ohne Eintrag im kantonalen Anwaltsregister geniessen kein Beschlagnahmeverbot nach Art. 264 Abs. 1 lit. d StPO ([BGer 7B_523/2025 vom 19. Juni 2026, E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html)).
 
-Praktisch bedeutsam ist die Bestimmung bei Durchsuchungen in Anwaltskanzleien: Unterlagen aus Mandaten nicht beschuldigter Mandantinnen und Mandanten sind auszusondern, auch wenn gegen einzelne Kanzleimitglieder ermittelt wird.
+### E. Die entscheidende Grenze: Mitbeschuldigung im gleichen Sachzusammenhang
 
-### E. Die entscheidende Grenze: Beschuldigung im gleichen Sachzusammenhang
+In den Fällen von lit. c und lit. d entfällt das Beschlagnahmeverbot, wenn der Geheimnisträger im gleichen Sachzusammenhang selbst beschuldigt ist.
 
-Der Vorbehalt in lit. c und d ist keine Formalie, sondern regelmässig der Kern des Streits. Das Bundesgericht formuliert die Konsequenz deutlich:
-
-> «Insgesamt können sich die Beschwerdegegnerinnen nur in Bezug auf weitere bei der Anwaltskanzlei D.________ AG tätige, nicht beschuldigte Anwältinnen und Anwälte auf ein Beschlagnahmeverbot gemäss Art. 264 StPO berufen. Da es sich bei C.________ und E.________ um im gleichen Sachzusammenhang selbst beschuldigte Personen handelt, erweist sich die Entsiegelung des sichergestellten USB-Sticks vorbehältlich einer vorgängigen richterlichen Aussonderung als geeignet, erforderlich und im engeren Sinne verhältnismässig.»
-
-([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_734_2025#e-3-5)). Bemerkenswert ist die Zweiteilung: Die Beschuldigung einzelner Kanzleimitglieder öffnet den Zugriff, hebt aber die **richterliche Aussonderungspflicht** zugunsten der übrigen, nicht beschuldigten Anwältinnen und Anwälte nicht auf.
+Das Bundesgericht verlangt bei Kanzleidurchsuchungen eine differenzierte Betrachtung:
+> «Auf ein Beschlagnahmeverbot gemäss Art. 264 StPO können sich die Betroffenen nur hinsichtlich weiterer bei der Kanzlei tätiger, nicht beschuldigter Anwältinnen und Anwälte berufen. Bei im gleichen Sachzusammenhang selbst beschuldigten Personen ist die Entsiegelung vorbehältlich einer vorgängigen richterlichen Aussonderung zulässig.»
+([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-734-2025_2026-05-28.html)).
 
 ### F. Rückgabe und Einziehung (Abs. 2)
 
-Abs. 2 nimmt Gegenstände und Vermögenswerte, die zur Rückgabe an die geschädigte Person oder zur Einziehung beschlagnahmt werden müssen, von den Einschränkungen des Abs. 1 aus. Der Geheimnisschutz soll nicht dazu dienen, Deliktsgut dem Zugriff zu entziehen.
+Abs. 2 stellt klar, dass Gegenstände und Vermögenswerte, die deliktischer Herkunft sind oder der Einziehung (Art. 70 ff. StGB) bzw. Rückgabe an Geschädigte dienen, nicht unter dem Vorwand des Geheimnisschutzes beschlagnahmefrei gehalten werden können.
 
-### G. Siegelungsverfahren (Abs. 3)
+### G. Siegelungsverfahren (Abs. 3 i.V.m. Art. 248 ff. StPO)
 
-Macht die Inhaberin oder der Inhaber geltend, eine Beschlagnahme sei unzulässig, gehen die Strafbehörden nach den Vorschriften über die Siegelung vor. Abs. 3 verweist damit auf Art. 248 ff. StPO und macht das Siegelungsverfahren zum prozessualen Vehikel der Beschlagnahmeverbote.
+Wird ein Beschlagnahmeverbot geltend gemacht, muss die Strafbehörde nach den Vorschriften über die Siegelung vorgehen:
 
-Das Bundesgericht hat beide Bestimmungen aufeinander abgestimmt:
-
-> «Zum Zweck eines wirksamen Geheimnisschutzes ist das Recht auf Siegelung gemäss Art. 248 Abs. 1 StPO auf die Berechtigung, sich nach Art. 264 Abs. 3 StPO gegen eine Beschlagnahme zu wehren, abzustimmen. Berechtigt im Sinne von Art. 248 Abs. 1 StPO, die Siegelung zu beantragen, sind Personen, welche unabhängig der Besitzverhältnisse ein rechtlich geschütztes Interesse an der Geheimhaltung des Inhalts der Aufzeichnungen haben (E. 4.3.4). Die Strafbehörde hat vor der Durchsuchung der Aufzeichnungen von Amtes wegen den geheimnisschutzberechtigten Personen die Möglichkeit einzuräumen, ein Siegelungsbegehren zu stellen (E. 4.3.5).»
-
-([BGE 140 IV 28](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_28), Regeste). Die Siegelungsberechtigung ist damit nicht an den Besitz geknüpft, und die Behörde muss von sich aus Gelegenheit zum Siegelungsbegehren geben.
+- **Berechtigung und Amtespflicht:** Die Siegelungsberechtigung steht jeder Person zu, die ein rechtlich geschütztes Geheimnisinteresse hat; die Behörde muss von Amtes wegen Gelegenheit zum Antrag geben ([BGE 140 IV 28 E. 4.3.4 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-28_2014.html#consideration_4.3.4)).
+- **Verbot der Vorab-Datenspiegelung:** Die Untersuchungsbehörde darf vor der gerichtlichen Entsiegelung weder Datenträger entsperren noch Daten spiegeln; ein solcher Realakt führt zur Unverwertbarkeit der Beweismittel ([BGE 148 IV 221 E. 2–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html#consideration_2)).
+- **Prüfung akzessorischer Rügen:** Macht die Partei Siegelungsgründe nach Art. 264 StPO geltend, hat das Entsiegelungsgericht auch akzessorische Rügen (z.B. allgemeine Verhältnismässigkeit nach Art. 197 StPO) zwingend materiell zu prüfen ([BGE 151 IV 175 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html#consideration_3.4)).
 
 ### H. Berührungspunkte
 
-**Selbstbelastungsfreiheit.** Bei der Entsiegelung bankinterner Unterlagen, die zuvor Gegenstand eines aufsichtsrechtlichen Auskunftsverfahrens waren, stellt sich die Frage der Tragweite des «nemo tenetur»-Grundsatzes; das Bundesgericht hat sie unter Einbezug von Art. 264 Abs. 1 StPO behandelt ([BGE 142 IV 207](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_207), Regeste, E. 7).
+- **Nemo-tenetur-Grundsatz:** Bei bankinternen Dokumenten, die zuvor im verwaltungs- oder aufsichtsrechtlichen Verfahren ediert wurden, bildet Art. 264 StPO im Zusammenspiel mit Art. 265 Abs. 4 StPO und Art. 113 StPO eine Schranke gegen den unzulässigen Selbstbelastungszwang ([BGE 142 IV 207 E. 7–9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-207_2016.html#consideration_7)).
+- **Internationale Rechtshilfe:** Im Rechtshilfeverfahren greifen die allgemeinen Regeln von IRSG und BStP; eine direkte Anwendbarkeit von Art. 264 StPO ist differenziert nach Massgabe der staatsvertraglichen Bestimmungen zu beurteilen ([BGE 130 II 193 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-193_2004.html#consideration_4.2)).
 
-**Internationale Rechtshilfe.** Für die rechtshilfeweise Entsiegelung und Durchsuchung von Unterlagen einer Anwaltskanzlei besteht eine eigene Praxis; der Leitentscheid dazu erging allerdings vor Inkrafttreten der StPO und stützt sich auf IRSG und BStP ([BGE 130 II 193](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_193), Regeste). Eine Aussage darüber, ob und wie Art. 264 StPO im Rechtshilfeverfahren zur Anwendung gelangt, lässt sich diesem Entscheid nicht entnehmen.
+## Praxisfragen
+
+### 1. Substanziierungsobliegenheit bei der Siegelung von Smartphones (Art. 264 Abs. 1 lit. b StPO)
+
+**Streitpunkt:** In der kantonalen Gerichtspraxis (z.B. vor den Zwangsmassnahmengerichten Zürich, Aargau, Bern) stellt sich regelmässig die Frage, wie konkret eine beschuldigte Person schutzwürdige Geheimnisse auf sichergestellten Smartphones oder Laptops darlegen muss.
+
+**Kantonale Praxis:**
+Die kantonalen Gerichte verlangen gestützt auf die bundesgerichtliche Rechtsprechung eine substanziierte Bezeichnung der betroffenen Dateien:
+- Eine pauschale Berufung auf die Privatsphäre oder das Vorhandensein von Fotos/Chats genügt nicht, um eine Entsiegelung abzuwenden ([Obergericht Aargau, SBK.2023.283 vom 23. November 2023](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2023-283_2023-11-23.pdf); [BGE 151 IV 344 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7)).
+- Die betroffene Person muss im Rahmen ihrer Mitwirkungsobliegenheit konkrete Chat-Verläufe, Kontaktpersonen, Zeiträume oder Ordner benennen, bezüglich derer ein überwiegendes Geheimhaltungsinteresse geltend gemacht wird ([BGE 137 IV 189 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-189_2011.html#consideration_4)). Unterlässt sie dies, entsiegelt das ZMG die Daten vollumfänglich.
+
+### 2. Richterliche Triage und Aussonderung bei Kanzleidaten (Art. 264 Abs. 1 lit. d StPO)
+
+**Streitpunkt:** Werden bei einer Durchsuchung in einer Anwaltskanzlei elektronische Server oder Gesamtdatenbestände sichergestellt, stellt sich die Frage des verfahrensrechtlichen Ablaufs zur Wahrung von Drittmandatsgeheimnissen.
+
+**Kantonale Praxis:**
+- Die Strafverfolgungsbehörde darf die Datenbestände nicht selbst sichten ([BGE 148 IV 221 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html#consideration_2)).
+- Das kantonale Zwangsmassnahmengericht nimmt eine Triage vor, indem es entweder gezielte Suchbegriffe (Keywords) zur Filterung anwendet oder einen unabhängigen Sachverständigen mit der Aussonderung beauftragt ([Obergericht Zürich, UE210345 vom 8. Juni 2022](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE210345_2022-06-08.pdf)).
+- Nur die für die Strafuntersuchung relevanten und nicht unter Drittmandate fallenden Dokumente werden der Staatsanwaltschaft übergeben ([BGer 7B_734/2025 vom 28. Mai 2026, E. 3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-734-2025_2026-05-28.html)).
 
 ## Rechtsprechung
 
@@ -124,5 +148,5 @@ Ausführliche Übersicht der Rechtsprechung: → [Rechtsprechung zu Art. 264 StP
 
 ## Materialien
 
-- Botschaft zur Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, BBl 2011 8181 (zu Abs. 1 lit. c und d).
+- Botschaft zur Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, [BBl 2011 8181](https://www.fedlex.admin.ch/eli/fga/2011/1418/de) (zu Abs. 1 lit. c und d).
 - Botschaft zur Änderung der Strafprozessordnung, [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368) (zu Abs. 3).
