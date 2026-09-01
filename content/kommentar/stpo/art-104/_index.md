@@ -68,6 +68,9 @@ revisions:
 #### 2. Behördenbeteiligung in kantonalen Spezialgesetzen
 **Rz. 10** Kantonale Spezialgesetze können Behörden (wie z.B. Kindes- und Erwachsenenschutzbehörden oder Steuerverwaltungen) beschränkte Parteirechte im Sinne von Art. 104 Abs. 2 StPO einräumen.
 
+#### 3. Parteistellung und Rüge von Verfahrensgarantien (Star-Praxis)
+**Rz. 11** Die formelle Parteistellung nach Art. 104 Abs. 1 StPO berechtigt dazu, die Verletzung verfahrensrechtlicher Garantien (wie die Abweisung eines Ausstandsbegehrens nach Art. 56 StPO oder Gehörsverletzungen nach Art. 107 StPO) mittels der sogenannten **Star-Praxis** vor Bundesgericht selbst dann zu rügen, wenn der Partei in der materiellen Hauptsache die Beschwerdebefugnis nach Art. 81 Abs. 1 BGG fehlt ([BGer 7B_105/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_105/2026)).
+
 ## Querverweise
 
 - [Art. 105 StPO — Andere Verfahrensbeteiligte](../art-105/)
