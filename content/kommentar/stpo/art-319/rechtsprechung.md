@@ -72,4 +72,11 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 3.7.2026*
+### [BGer 7B_316/2026 vom 17. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.07.2026_7B_316/2026)
+- **Thema**: In dubio pro duriore und unvollständige Beweiserhebung
+- **Kernaussage**: Die Einstellung einer Strafuntersuchung wegen sexueller Handlungen mit Kindern (Art. 187 StGB) oder Verletzung der Fürsorgepflicht (Art. 219 StGB) verletzt den Grundsatz «in dubio pro duriore», wenn die Beweislage nicht eindeutig geklärt ist und gegensätzliche Aussagen der Beteiligten einer vertieften Würdigung durch den Sachrichter bedürfen.
+- **Einschlägig für**: Abs. 1 lit. a und b (In dubio pro duriore)
+
+---
+
+*Letzte Aktualisierung: 1. September 2026*
