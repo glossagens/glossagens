@@ -248,5 +248,13 @@ Die Änderung der Regelung des persönlichen Verkehrs setzt eine **wesentliche �
 
 ---
 
-*Letzte Aktualisierung: 2026-08-01*
+#### 26. [BGer 5A_812/2025 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_5A_812/2025) — Verweigerung der Begutachtung und Besuchsrechtsausübung
+
+Verweigert ein Elternteil im Verfahren um Ausgestaltung des Besuchsrechts die Mitwirkung an einem gerichtlich angeordneten familienpsychologischen Sachverständigengutachten, darf das Gericht hieraus im Rahmen der freien Beweiswürdigung (Art. 157 ZPO) Schlüsse hinsichtlich der Erziehungsfähigkeit und Kooperationsbereitschaft ziehen; das Besuchsrecht kann zum Schutz des Kindeswohls auf ein begleitetes Besuchsrecht beschränkt werden.
+
+*Einschlägig für:* Art. 273 Abs. 1 ZGB i.V.m. Art. 274 ZGB; Begutachtung; Beweiswürdigung; begleitetes Besuchsrecht
+
+---
+
+*Letzte Aktualisierung: 2026-09-01*
 
