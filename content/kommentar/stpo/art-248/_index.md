@@ -2,11 +2,16 @@
 title: "Art. 248 — Siegelung"
 weight: 248
 date: 2026-07-10
-lastmod: 2026-08-22
-description: "Kommentar zu Art. 248 StPO – Siegelung: Voraussetzungen des Siegelungsbegehrens, Schutz von Geheimhaltungsinteressen und Fristen für das Entsiegelungsgesuch."
-tags: ["StPO", "Zwangsmassnahmen", "Siegelung", "Entsiegelung", "Berufsgeheimnis", "Durchsuchung", "Beschlagnahme"]
+lastmod: 2026-09-02
+description: "Kommentar zu Art. 248 StPO – Siegelung: Voraussetzungen des Siegelungsbegehrens, Beschränkung auf Art. 264 StPO, vorsorgliche Datenspiegelung (BGE 152 IV 107) und Entsiegelungsfristen."
+tags: ["StPO", "Zwangsmassnahmen", "Siegelung", "Entsiegelung", "Berufsgeheimnis", "Durchsuchung", "Beschlagnahme", "Datenspiegelung", "BGE 152 IV 107", "BGE 151 IV 30"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Umfassender Loop-Ausbau: Einarbeitung von BGE 152 IV 107 (Praxisänderung Datenspiegelung), BGE 151 IV 30 (Geheimnisschutzkatalog), BGE 151 IV 344/350 (Smartphones/Verhältnismässigkeit), BGer 7B_558/2025 (Siegelungsbefugnis Dritter); Umstellung aller Primärquellen auf entscheidsuche.ch."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -33,38 +38,68 @@ revisions:
 
 ### I. Bedeutung und Systematik
 
-**Rz. 1** Art. 248 StPO regelt das Siegelungsverfahren bei strafprozessualen Durchsuchungen und Beschlagnahmen.
+**Rz. 1** Art. 248 StPO regelt das Siegelungsverfahren bei strafprozessualen Durchsuchungen und Sicherstellungen. Das Rechtsinstitut der Siegelung bezweckt den vorsorglichen Schutz von Geheimhaltungsinteressen und Berufsgeheimnissen vor unbefugter staatlicher Kenntnisnahme, bis ein gerichtlicher Entscheid im Entsiegelungsverfahren (Art. 248a StPO) vorliegt ([BGE 144 IV 74 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.2)).
 
-**Rz. 2** Die Bestimmung bezweckt den vorläufigen Schutz von Geheimhaltungsinteressen und Berufsgeheimnissen bis zum gerichtlichen Entscheid im Entsiegelungsverfahren.
+**Rz. 2** Im Zuge der am 1. Januar 2024 in Kraft getretenen Revision der Strafprozessordnung wurde das Siegelungsverfahren grundlegend neu geordnet: Während Art. 248 StPO nunmehr ausschliesslich das Siegelungsbegehren, dessen formelle Voraussetzungen und die vorläufigen Schutzwirkungen regelt, ist das gerichtliche Entsiegelungsverfahren in den neu geschaffenen [Art. 248a StPO](../art-248a/) überführt worden (Botschaft zur Änderung der Strafprozessordnung vom 28. August 2019, [BBl 2019 6697, S. 6750 ff.](https://www.fedlex.admin.ch/eli/fbl/2019/6697/de)).
 
-### II. Voraussetzungen und Wirkungen der Siegelung (Abs. 1 und 2)
+### II. Voraussetzungen des Siegelungsbegehrens (Abs. 1)
 
-**Rz. 3** Aufzeichnungen und Gegenstände, die nach Angaben der Inhaberin oder des Inhabers wegen eines Aussage- oder Zeugnisverweigerungsrechts oder aus anderen Gründen nicht durchsucht oder beschlagnahmt werden dürfen, sind zu versiegeln und dürfen von den Strafbehörden weder eingesehen noch verwendet werden ([BGE 144 IV 74 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_74#e-2-2)).
+#### 1. Siegelungsberechtigung
+**Rz. 3** Zur Stellung des Siegelungsbegehrens ist primär die Inhaberin oder der Inhaber der sichergestellten Aufzeichnungen oder Gegenstände legitimiert (Art. 248 Abs. 1 StPO). Auch Personen, die sich auf Siegelungsgründe im Sinne von Art. 264 Abs. 1 lit. a–c StPO berufen, im Strafverfahren aber nicht beschuldigt sind, sind siegelungsberechtigt ([BGer 7B_558/2025 vom 20. April 2026 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_3.1)). Ein Ausschluss nicht beschuldigter Dritter stünde im klaren Widerspruch zum Grundsatz von Art. 197 Abs. 2 StPO, wonach Zwangsmassnahmen gegenüber Nichtbeschuldigten besonders zurückhaltend einzusetzen sind ([BGer 7B_558/2025 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_3.1)).
 
-**Rz. 4** Macht die Inhaberin oder der Inhaber von Aufzeichnungen oder anderen Gegenständen geltend, diese dürften wegen eines Aussage- oder Zeugnisverweigerungsrechtes oder aus anderen Gründen nicht inhaltlich durchsucht oder förmlich beschlagnahmt werden, sind die betreffenden Aufzeichnungen und Gegenstände zu versiegeln ([BGE 141 IV 77 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_77#e-4-1)).
+#### 2. Gesetzliche Siegelungsgründe (Art. 264 StPO)
+**Rz. 4** In der revidierten Fassung von Art. 248 Abs. 1 StPO werden die schutzwürdigen Geheimnisinteressen, die einer Entsiegelung entgegenstehen können, abschliessend definiert und gegenüber dem alten Recht restriktiver gefasst ([BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)). In Frage kommen ausschliesslich die in [Art. 264 StPO](../art-264/) geregelten Beschlagnahmehindernisse ([BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)). Weder allgemeine Geschäftsgeheimnisse noch das Bankkundengeheimnis fallen unter die gesetzlichen Siegelungsgründe ([BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)). Nicht in Art. 264 StPO genannte Geheimnisinteressen sind folglich nicht im Entsiegelungsverfahren vorzubringen, sondern können allenfalls über eine Einschränkung des Akteneinsichtsrechts nach Art. 108 Abs. 1 lit. b StPO gewahrt werden ([BGE 151 IV 30 E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.3)).
 
-**Rz. 5** Der Beschuldigte ist aufgrund seines Aussageverweigerungsrechts berechtigt zu schweigen, ohne dass ihm daraus Nachteile erwachsen dürfen ([BGE 148 IV 221 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_221#e-2-2)).
+**Rz. 5** Werden keine gesetzlichen Geheimnisschutzgründe im Sinne von Art. 248 Abs. 1 i.V.m. Art. 264 StPO substanziiert angerufen, findet keine akzessorische Prüfung der allgemeinen Zwangsmassnahmenvoraussetzungen (wie Verhältnismässigkeit oder hinreichender Tatverdacht gemäss Art. 197 StPO) durch den Entsiegelungsrichter statt ([BGE 151 IV 30 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_4.3)). Entsprechende Rügen sind diesfalls mit der allgemeinen Beschwerde nach Art. 393 ff. StPO geltend zu machen ([BGE 151 IV 30 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_4.3); [BGE 144 IV 74 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.2)).
 
-### III. Frist für das Entsiegelungsgesuch (Abs. 3)
+#### 3. Privatgeheimnisse bei Smartphones und elektronischen Datenträgern
+**Rz. 6** Bei der Durchsuchung von privat genutzten Smartphones ist davon auszugehen, dass persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind ([BGE 151 IV 344 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7)). Da persönliche Aufzeichnungen der beschuldigten Person keinen absoluten Schutz geniessen, vermag der blosse pauschale Hinweis auf private Daten für sich allein jedoch noch kein schutzwürdiges Entsiegelungshindernis zu begründen ([BGE 151 IV 344 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.5); [BGE 151 IV 344 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7)). Die betroffene Partei hat darzutun, dass das Interesse am Schutz ihrer Persönlichkeit gegenüber dem Strafverfolgungsinteresse überwiegt ([BGE 151 IV 344 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7)).
 
-**Rz. 6** Stellt die Strafbehörde nicht innert 20 Tagen seit der Siegelung ein Entsiegelungsgesuch beim zuständigen Zwangsmassnahmengericht, so sind die versiegelten Gegenstände zurückzugeben.
+**Rz. 7** Bei der Verhältnismässigkeitsprüfung von Privatgeheimnissen sind nach der Rechtsprechung drei Fallkonstellationen massgebend ([BGE 151 IV 350 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4); [BGer 7B_558/2025 E. 4.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_4.4.1)):
+1. *Schwere Straftaten:* Das öffentliche Strafverfolgungsinteresse überwiegt das Geheimhaltungsinteresse regelmässig ohne Weiteres, womit die Daten vollumfänglich zu entsiegeln sind ([BGE 151 IV 350 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4)).
+2. *Bagatellfälle:* Das Interesse am Schutz der persönlichen Daten ist regelmässig höher zu gewichten, sodass die Durchsuchung von vornherein unangemessen ist ([BGE 151 IV 350 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4)).
+3. *Mittelschwere Delikte:* Es bedarf einer sorgfältigen Abwägung des konkreten Erkenntnisgewinns; die Entsiegelung ist bei Bedarf zeitlich oder sachlich einzuschränken ([BGE 151 IV 350 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4)).
 
-**Rz. 7** Die 20-tägige Frist ist eine gesetzliche Verwirkungsfrist; nach deren unbenutztem Ablauf entfällt der staatliche Zugriff auf die versiegelten Unterlagen.
+#### 4. Frist für das Siegelungsbegehren
+**Rz. 8** Das Siegelungsbegehren ist innert drei Tagen seit der Sicherstellung vorzubringen (Art. 248 Abs. 1 Satz 2 StPO). Die Frist beginnt mit dem tatsächlichen Gewahrsamswechsel zu laufen. Bei der 3-Tage-Frist handelt es sich um eine gesetzliche Verwirkungsfrist; wird sie unbenutzt versäumt, entfällt der Siegelungsschutz und die Strafbehörde darf die Aufzeichnungen und Gegenstände sichten und durchsuchen ([BGE 141 IV 77 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4.1)).
 
-### IV. Praxisfragen
+### III. Wirkungen der Siegelung und Sicherung digitaler Daten (Abs. 1)
 
-#### 1. Fristwahrung beim Siegelungsbegehren
-**Rz. 8** Das Siegelungsbegehren ist innert drei Tagen seit der Sicherstellung vorzubringen; wird die Frist versäumt, tritt Verwirkung ein und die Strafbehörde darf die Aufzeichnungen durchsuchen.
+#### 1. Einsichts- und Verwendungsverbot
+**Rz. 9** Während der dreitägigen Bedenkfrist und nach erfolgter Siegelung gilt ein striktes Einsichts- und Verwendungsverbot für die Strafverfolgungsbehörden (Art. 248 Abs. 1 Satz 3 StPO; [BGE 144 IV 74 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.2); [BGE 141 IV 77 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4.1)). Offensichtlich nicht dem Geheimnisschutz unterliegende Gegenstände (z.B. Bargeld, Drogen) dürfen von der Siegelung ausgenommen und direkt beschlagnahmt werden ([BGE 144 IV 74 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.2)).
 
-#### 2. Dritte als Berechtigte
-**Rz. 9** Ist die Inhaberin nicht identisch mit der an den Aufzeichnungen berechtigten Person (Art. 248 Abs. 2 StPO), ist dieser Gelegenheit zu geben, innert drei Tagen selbst die Siegelung zu verlangen.
+#### 2. Vorsorgliche Datenspiegelung bei drohendem Beweisverlust (Praxisänderung BGE 152 IV 107)
+**Rz. 10** Eine durch die Strafverfolgungsbehörden aufgrund eines konkret drohenden Beweisverlusts vorsorglich angeordnete Datenspiegelung stellt keine Verletzung von Bundesrecht dar, sofern die Spiegelung durch eine sachverständige Person durchgeführt wird und diese später nicht in die eigentlichen Strafermittlungen involviert ist ([BGE 152 IV 107 E. 5.7.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.7.8)). Das Bundesgericht hat damit die frühere restriktive Rechtsprechung von BGE 148 IV 221 ausdrücklich als überholt erklärt ([BGE 152 IV 107 E. 5.7.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.7.9)).
 
-#### 3. Information Wall und Einsichtsschranken vor dem ZMG
-**Rz. 10** Das strikte Einsichts- und Verwendungsverbot gemäss Art. 248 Abs. 1 StPO gilt während des gesamten Entsiegelungsverfahrens vor dem Zwangsmassnahmengericht («Information Wall»). Das ZMG darf der Staatsanwaltschaft versiegelte Dokumente oder vom Gesuchsgegner eingereichte vertrauliche Unterlagen (z.B. zur Begründung des Geheimnisschutzes) nicht zur Stellungnahme zustellen, bevor rechtskräftig über die Entsiegelung entschieden wurde ([BGer 7B_219/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_219/2026)).
+**Rz. 11** Die Praxisänderung trägt der Fragilität digitaler Daten (automatische Neustarts in den *Before First Unlock-Modus*, Cloud Remote-Wipe, automatische Löschroutinen) Rechnung ([BGE 152 IV 107 E. 5.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.6)). Die rein technische Extraktion ohne bildgebende Verfahren stellt kein unzulässiges Sichten oder Verwenden im Sinne von Art. 248 Abs. 1 StPO dar ([BGE 152 IV 107 E. 5.7.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.7.6)). Die strikte Funktionentrennung stellt sicher, dass eventuelle Kenntnisse des Sachverständigen keinen Eingang in die operativen Ermittlungshandlungen finden ([BGE 152 IV 107 E. 5.7.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.7.8)).
+
+### IV. Benachrichtigung Dritter (Abs. 2)
+
+**Rz. 12** Stellt die Strafbehörde fest, dass die Inhaberin oder der Inhaber nicht mit der an den Aufzeichnungen oder Gegenständen berechtigten Person identisch ist (Art. 248 Abs. 2 StPO), hat sie dieser unverzüglich Gelegenheit zu geben, innert drei Tagen die Siegelung zu verlangen. Bis zum Ablauf dieser Frist bzw. bis zum Entscheid über ein allfälliges Siegelungsbegehren gilt das Verwendungsverbot fort.
+
+### V. Frist für das Entsiegelungsgesuch (Abs. 3)
+
+**Rz. 13** Stellt die Strafbehörde nicht innert 20 Tagen seit der Siegelung ein Entsiegelungsgesuch beim zuständigen Zwangsmassnahmengericht (Art. 248a Abs. 1 lit. a StPO), so werden die versiegelten Aufzeichnungen und Gegenstände der Inhaberin oder dem Inhaber zurückgegeben (Art. 248 Abs. 3 StPO).
+
+**Rz. 14** Die 20-tägige Frist ist eine gesetzliche Verwirkungsfrist. Läuft sie unbenutzt ab, erlischt der staatliche Zugriff auf die sichergestellten Beweismittel unwiderruflich, und die Gegenstände sind herauszugeben bzw. erstellte Spiegelkopien zu löschen.
+
+### VI. Praxisfragen
+
+#### 1. Vorsorgliche Datenspiegelung digitaler Datenträger vs. Siegelungsschutz
+**Rz. 15** In der Praxis stellt sich regelmässig die Frage, wie mit Smartphones und verschlüsselten Datenträgern umzugehen ist, wenn ein Datenverlust droht. Nach [BGE 152 IV 107 E. 5.7.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html#consideration_5.7.8) darf die Strafbehörde eine forensische Spiegelung unmittelbar anordnen. Die kantonale Praxis hat hierbei strikt darauf zu achten, dass der forensische Sachverständige organisatorisch und personell vollständig von den ermittelnden Polizeibeamten getrennt bleibt.
+
+#### 2. Geltendmachung von Geschäfts- und Berufsgeheimnissen
+**Rz. 16** Beruft sich eine betroffene Unternehmung oder Bank im Siegelungsverfahren auf Betriebs- oder Bankgeheimnisse, so bildet dies nach [BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1) kein zulässiges Entsiegelungshindernis mehr. Die Wahrung solcher Geheimhaltungsinteressen muss in der Praxis über Anträge auf Einschränkung der Parteiakteneinsicht nach Art. 108 Abs. 1 lit. b StPO an die Verfahrensleitung erfolgen ([BGE 151 IV 30 E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.3)).
+
+#### 3. Siegelungsbefugnis nicht beschuldigter Dritter
+**Rz. 17** Werden bei Drittpersonen (z.B. Arbeitgebern, Treuhändern, Ärzten) Dokumente sichergestellt, sind diese zur Siegelung nach Art. 248 Abs. 1 i.V.m. Art. 264 Abs. 1 lit. a–c StPO legitimiert ([BGer 7B_558/2025 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_3.1)). Bei Berufsgeheimnissen Dritter (z.B. Patientengeheimnis) dürfen die Anforderungen an die Substanziierungspflicht nicht überspannt werden ([BGer 7B_558/2025 E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_5.3)).
+
+#### 4. Information Wall und Akteneinsichtsschranken vor dem ZMG
+**Rz. 18** Das Verwendungsverbot gemäss Art. 248 Abs. 1 StPO bindet auch das Entsiegelungsgericht («Information Wall»). Das ZMG darf der Staatsanwaltschaft versiegelte Unterlagen oder vertrauliche Triagedokumente nicht vor dem rechtskräftigen Abschluss des Entsiegelungsverfahrens zur Stellungnahme zustellen ([BGer 7B_219/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_219/2026)).
 
 ---
 
-*Letzte Aktualisierung: 1. September 2026*
+*Letzte Aktualisierung: 2. September 2026*
 
 ## Querverweise
 
@@ -78,4 +113,6 @@ revisions:
 - Andreas J. Keller, in: Donatsch et al. (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Art. 248 N 1–40.
 - Stefan Wehrenberg / David Borer, in: Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl., Basel 2023, Art. 248 N 1–55.
 - Niklaus Schmid / Daniel Jositsch, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 248 N 1–25.
+- Damian K. Graf, Praxishandbuch zur Siegelung, Basel 2022.
+- Damian Graf / Florian Rütsche, Datensicherung von Mobiltelefonen und Tablets – technische und [siegelungs-]rechtliche Herausforderungen im Strafverfahren, SJZ 121/2025, S. 607 ff.
 - Botschaft zur Änderung der Strafprozessordnung vom 28. August 2019, BBl 2019 6697, S. 6750 ff.
