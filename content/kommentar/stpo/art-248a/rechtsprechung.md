@@ -218,3 +218,17 @@ revisions:
 **Erwägungen:**
 - **E. 1.2:** Voraussetzungen für das Vorliegen eines nicht wieder gutzumachenden Nachteils bei Entsiegelungsentscheiden.
 - **E. 1.2.2:** Erfordernis der Substanziierung gesetzlicher Geheimnisrechte bereits vor dem Entsiegelungsgericht.
+
+---
+
+### 15. [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026) vom 15.07.2026 (publiziert 02.09.2026; vgl. auch 7B_133/2026) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft (Art. 110 StPO)
+
+**Datum:** 15. Juli 2026 | **Signatur:** [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026)
+
+**Kernsatz:** Art. 110 Abs. 1 und 2 StPO gilt analog auch für Gesuche und Eingaben der Staatsanwaltschaft an das Zwangsmassnahmengericht. Die Übermittlung eines Entsiegelungsgesuchs per einfacher, unsignierter E-Mail ist formunwirksam und wahrt die gesetzliche 20-tägige Frist von Art. 248 Abs. 3 StPO nicht. Die Pflicht zur Ansetzung einer Nachfrist zur Verbesserung von Formmängeln (Art. 110 Abs. 4 StPO) gilt für Strafbehörden nicht. Das ZMG tritt auf formungültige Gesuche nicht ein; die versiegelten Datenträger sind herauszugeben und Spiegelungen zu löschen.
+
+**Erwägungen:**
+- **E. 2.3:** Analoge Geltung von Art. 110 Abs. 1 und 2 StPO für Behördeneingaben im strafprozessualen Zwangsmassnahmenverfahren.
+- **E. 2.4:** Ausschluss einer Nachfristansetzung zugunsten von Strafbehörden und Verwirkung des Entsiegelungsanspruchs.
+
+

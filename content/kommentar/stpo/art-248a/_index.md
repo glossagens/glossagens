@@ -8,6 +8,11 @@ tags: ["StPO", "Zwangsmassnahmen", "Entsiegelung", "Zwangsmassnahmengericht", "G
 agent_verified: true
 revisions:
   - date: "2026-09-02"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 7B_165/2026 vom 15. Juli 2026 und BGer 7B_133/2026 (publiziert 02.09.2026): Analoge Geltung von Art. 110 StPO für Entsiegelungsgesuche der Staatsanwaltschaft; Formungültigkeit von E-Mail-Gesuchen ohne qualifizierte elektronische Signatur und Nichteintreten."
+  - date: "2026-09-02"
     by: "Antigravity"
     model: "gemini-3.7-flash"
     mcp_verified: true
@@ -54,8 +59,12 @@ revisions:
 #### 2. Einzige kantonale Instanz und funktionelle Reichweite
 **Rz. 4** Das Zwangsmassnahmengericht entscheidet gemäss Art. 248a Abs. 1 lit. a und Abs. 4 i.V.m. Art. 380 StPO als einzige kantonale Instanz ([BGer 7B_1170/2025 vom 03.03.2026 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1170-2025_2026-03-03.html#consideration_1.1); [BGer 7B_219/2026 vom 20.08.2026 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html#consideration_1.1); [BGer 7B_419/2025 vom 08.07.2026 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html#consideration_1.1)). Diese ausschliessliche funktionelle Zuständigkeit erstreckt sich nicht nur auf den verfahrensabschliessenden Sachentscheid, sondern auch auf alle verfahrensleitenden Zwischenverfügungen sowie auf Nichteintretensentscheide wegen ungültiger oder rechtsmissbräuchlicher Gesuche ([BGer 7B_1170/2025 vom 03.03.2026 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1170-2025_2026-03-03.html#consideration_1.2); [BGer 7B_1154/2024 vom 02.10.2025 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html#consideration_2.4.1)).
 
-#### 3. Akzessorische Prüfungskompetenz (Art. 197 StPO)
+#### 3. Formelle Gültigkeit des Entsiegelungsgesuchs (Art. 110 StPO)
+**Rz. 4a** Das Entsiegelungsgesuch der Staatsanwaltschaft an das ZMG unterliegt den allgemeinen Formvorschriften für Eingaben gemäss [Art. 110 StPO](https://glossagens.ch/kommentar/stpo/art-110/), die analog auch für Strafbehörden gelten ([BGer 7B_165/2026 vom 15. Juli 2026 E. 2.3](https://mcp.opencaselaw.ch/entscheid/7B_165/2026); [BGer 7B_133/2026](https://mcp.opencaselaw.ch/entscheid/7B_133/2026)). Reicht die Staatsanwaltschaft das Entsiegelungsgesuch per einfacher E-Mail ohne qualifizierte elektronische Signatur ein, ist das Gesuch formunwirksam. Das ZMG tritt auf ein solches Gesuch nicht ein; eine Fristansetzung zur Behebung des Formmangels findet zugunsten von Behörden nicht statt (Art. 110 Abs. 4 StPO e contrario; [BGer 7B_165/2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/7B_165/2026)).
+
+#### 4. Akzessorische Prüfungskompetenz (Art. 197 StPO)
 **Rz. 5** Werden formelle Siegelungsgründe nach Art. 248 Abs. 1 i.V.m. Art. 264 Abs. 1 StPO geltend gemacht, muss das Entsiegelungsgericht auch sogenannte akzessorische Rügen prüfen, namentlich das Vorliegen eines hinreichenden Tatverdachts und die allgemeine Verhältnismässigkeit der Beweiserhebung gemäss Art. 197 StPO ([BGE 151 IV 175 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html#consideration_3.4)). Diese akzessorische Prüfpflicht besteht selbst dann, wenn das Entsiegelungsgericht die angerufenen materiellen Geheimnisgründe letztlich verwirft, etwa weil die berechtigte Person ihrer Substanziierungsobliegenheit nicht hinreichend nachgekommen ist ([BGE 151 IV 175 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html#consideration_3.4)).
+
 
 ---
 
