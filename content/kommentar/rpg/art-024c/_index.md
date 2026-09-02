@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 24c RPG: Bestandsschutz und massvolle Erweiterun
 tags: ["RPG", "Bestandsschutz", "massvolle Erweiterung", "Altrechtlichkeit", "Bauen ausserhalb der Bauzonen", "Zonenwidrigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 1C_380/2025 vom 24. Juli 2026 (publiziert 02.09.2026): Beurteilungsmassstab für Aussenanlagen und Annexbauten nach Art. 24c Abs. 2 RPG i.V.m. Art. 42 RPV (Identität des Standorts, unmittelbares Angrenzen, Einfriedungen)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -67,6 +72,16 @@ Die massvolle Erweiterung muss von untergeordneter Bedeutung sein. Sie darf den 
 Die massvolle Erweiterung ist nach Art. 42 Abs. 1 RPV konkretisiert: Erweiterungen dürfen maximal 30 % der Wohn- oder Nutzfläche der bestehenden Baute, höchstens jedoch 100 m², ausmachen. Der Bundesrat hat diese Grenzen durch die Revision der RPV von 2023 angepasst.
 
 **Praxisbeispiel — Grenzen der massvollen Erweiterung:** In [BGer 1C_556/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-556-2022_2023-10-31.html) befasste sich das Bundesgericht mit der Erweiterung der Wohnfläche um 30 % respektive maximal 100 m² nach Art. 24c Abs. 4 RPG i.V.m. Art. 42 Abs. 3 RPV. Die Grenzen der massvollen Erweiterung sind bundesrechtlich vorgegeben und können durch kantonales Recht nicht unterschritten werden.
+
+#### d) Aussenanlagen, Annexbauten und Einfriedungen (Art. 42 RPV)
+
+**Massstab für Aussenanlagen:** Anlagen, die das Hauptgebäude nicht berühren und das Bauvolumen nicht erhöhen (z.B. Hundezwinger, Tiergehege, Geräteschuppen), sind nicht nach Art. 24c Abs. 4 RPG (Wohnnutzung), sondern nach **Art. 24c Abs. 2 RPG i.V.m. Art. 42 RPV** an der Identität des Standorts und den Auswirkungen auf das Landschaftsbild zu messen ([BGer 1C_380/2025 vom 24. Juli 2026 E. 3.1](https://mcp.opencaselaw.ch/entscheid/1C_380/2025); [BGer 1C_515/2025 vom 20. März 2026 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-515-2025_2026-03-20.html)).
+
+**Praxisbeispiel — Hundezwinger und Einfriedungen:** In [BGer 1C_380/2025](https://mcp.opencaselaw.ch/entscheid/1C_380/2025) (publiziert 02.09.2026) verweigerte das Bundesgericht die nachträgliche Bewilligung für einen rund 6 m vom Wohnhaus entfernten Hundezwinger mit Dachaufbau und einer bis zu 2,04 m hohen Metallzaunanlage in der Landwirtschaftszone. Das Bundesgericht stellte klar:
+1. **Keine Annexbaute:** Kleine Bauten fallen nur dann unter Erleichterungen kantonaler Richtlinien, wenn sie unmittelbar **angrenzend** (*contigu*) an das Hauptgebäude errichtet werden; eine blosse Nähe auf demselben Grundstück genügt nicht.
+2. **Einfriedungen:** Die Erhöhung einer bestehenden Einfriedung von 1,20 m auf über 1,80 m wahrt die Identität der Anlage nicht und überschreitet das nach Art. 24c RPG Zulässige ([BGer 1A.202/2003 vom 17. Februar 2004 E. 4.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1A-202-2003_2004-02-17.html)).
+3. **Zweckänderung des Hausgartens:** Die Umwandlung eines Hausgartens in eine Zwingeranlage verändert Charakter und Landschaftsbild wesentlich.
+
 
 **Praxisbeispiel — Keine massvolle Erweiterung bei Mobilfunk:** In [BGE 133 II 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-409_2007.html) stellte das Bundesgericht fest, dass die Erweiterung einer bestehenden Mobilfunkantenne mit UMTS-Aufrüstung und erhöhter Sendeleistung keine massvolle Erweiterung im Sinne von Art. 24c RPG darstellt, sondern eine neue Bewilligung gemäss Art. 24 RPG erfordert. Die massvolle Erweiterung verlangt, dass der Umfang der Veränderung von untergeordneter Bedeutung bleibt (E. 3).
 

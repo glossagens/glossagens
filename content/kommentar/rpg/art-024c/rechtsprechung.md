@@ -7,6 +7,11 @@ description: "Rechtsprechung zu Art. 24c RPG — Altrechtliche Bauten und Anlage
 tags: ["Rechtsprechung", "RPG", "Bestandsschutz", "massvolle Erweiterung", "Art. 24c"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 1C_380/2025 vom 24. Juli 2026 (publiziert 02.09.2026): Beurteilungsmassstab für Aussenanlagen und Annexbauten nach Art. 24c Abs. 2 RPG i.V.m. Art. 42 RPV (Hundezwinger, Einfriedungen, Erfordernis des unmittelbaren Angrenzens)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -15,6 +20,15 @@ revisions:
 ---
 
 # Rechtsprechung zu Art. 24c RPG
+
+## Aussenanlagen, Annexbauten und Einfriedungen (Art. 42 RPV)
+
+**[BGer 1C_380/2025 vom 24. Juli 2026](https://mcp.opencaselaw.ch/entscheid/1C_380/2025)** (publiziert 02.09.2026) — Beurteilungsmassstab für freistehende Aussenanlagen (Hundezwinger mit Dachaufbau und hoher Metallzaunanlage).
+- **Kernaussage:** Anlagen, die das Hauptgebäude nicht berühren und das Bauvolumen nicht erhöhen, sind nicht nach Art. 24c Abs. 4 RPG (Wohnnutzung), sondern nach **Art. 24c Abs. 2 RPG i.V.m. Art. 42 RPV** an der Identität des Standorts und den Auswirkungen auf das Landschaftsbild zu messen (E. 3.1).
+- Kleine Bauten qualifizieren nur dann als Annexbauten kantonaler Richtlinien, wenn sie unmittelbar **angrenzend** (*contigu*) an das Hauptgebäude errichtet werden.
+- Die Erhöhung einer bestehenden Einfriedung von 1,20 m auf über 1,80 m wahrt die Identität nicht und überschreitet das nach Art. 24c RPG Zulässige (E. 3.2–3.4).
+
+**[BGer 1A.202/2003 vom 17. Februar 2004](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1A-202-2003_2004-02-17.html)** — Einfriedungen im Nichtbaugebiet. Bereits eine geringfügige Erhöhung einer bestehenden Umzäunung um 30 cm zerstört die Wesensgleichheit und verliert den Bestandsschutz (E. 4.4.2).
 
 ## Bestandsschutz und Rechtmässigkeit
 
