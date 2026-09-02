@@ -7,6 +7,11 @@ description: "Übersicht der massgeblichen Entscheide zu Art. 24bis RPG — Bün
 tags: ["Rechtsprechung", "RPG", "Mobilfunkanlagen", "Infrastrukturanlagen", "Standortgebundenheit", "NIS", "Bündelung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 1C_710/2025 vom 17. August 2026: Gesetzliche Fiktion der Standortgebundenheit für Erweiterungen bestehender Mobilfunkanlagen (Art. 24bis Abs. 3 RPG)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -18,8 +23,16 @@ Zurück zum Kommentar: [Art. 24bis RPG — Bündelung von Infrastrukturanlagen u
 
 ## I. Erstanwendung von Art. 24bis Abs. 3 RPG (Bestandsschutz)
 
+### BGer 1C_710/2025 vom 17. August 2026 (publiziert 02.09.2026)
+- **Thema**: Gesetzliche Fiktion der Standortgebundenheit für Erweiterungen (Art. 24bis Abs. 3 RPG); unmittelbare Anwendbarkeit im hängigen Verfahren
+- **Kernaussage**: Bei der Erweiterung bzw. dem Umbau einer bestehenden Mobilfunkanlage in der Landwirtschaftszone entfällt mit Inkrafttreten von Art. 24bis Abs. 3 RPG per 1. Januar 2026 der Nachweis der Standortgebundenheit nach Art. 24 Abs. 1 lit. a RPG. Diese für die Bauherrschaft günstigere Bestimmung ist nach intertemporalen Grundsätzen im bundesgerichtlichen Verfahren direkt anwendbar (E. 4).
+- **Einschlägig für**: Abs. 3 (Standortgebundenheitsfiktion für Erweiterungen), Intertemporalrecht
+
+---
+
 ### BGer 1C_371/2024 vom 7. April 2026
 - **Thema**: Erstanwendung von Art. 24bis Abs. 3 RPG (nF per 1.1.2026); Intertemporalrecht; Umbau einer Mobilfunkanlage in der Landwirtschaftszone
+
 - **Kernaussage**: Das Bundesgericht wendet Art. 24bis Abs. 3 RPG erstmals an. Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfunkanlagen ausserhalb der Bauzone gelten seit dem 1. Januar 2026 von Gesetzes wegen als standortgebunden. Im konkreten Fall (Umbau einer Mobilfunkanlage auf einem bestehenden 40 m Mast in der Landwirtschaftszone) bestätigte das Bundesgericht die Standortgebundenheit der Erweiterung. Die Norm findet auch auf hängige Beschwerdeverfahren unmittelbare Anwendung, da sie eine Lockerung des Bewilligungsregimes darstellt (E. 6.2). Der Umbau bestehender Anlagen (Austausch von Antennenmodulen, Montage kleinerer RRH) fällt unter Abs. 3, selbst wenn die Baubewilligung vor dem Inkrafttreten erteilt wurde (E. 5.3, 6.3).
 - **Einschlägig für**: Abs. 3 (Standortgebundenheit kraft Gesetz), Intertemporalrecht
 

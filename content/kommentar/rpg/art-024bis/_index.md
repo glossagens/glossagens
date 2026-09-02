@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 24bis RPG — Bündelung von Infrastrukturanlage
 tags: ["RPG", "Raumplanung", "Infrastrukturanlagen", "Mobilfunkanlagen", "Bündelung", "Standortgebundenheit", "Nichtbaugebiet"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 1C_710/2025 vom 17. August 2026 (publiziert 02.09.2026): Direkte Anwendung der gesetzlichen Fiktion der Standortgebundenheit (Art. 24bis Abs. 3 RPG) auf Mobilfunkerweiterungen im hängigen Verfahren."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -74,9 +79,10 @@ Abs. 3 erklärt Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfun
 
 Die gesetzliche Fiktion der Standortgebundenheit bedeutet, dass die Behörde die Standortgebundenheit nicht mehr gesondert prüfen muss — sie ist gesetzlich vorausgesetzt. Zu prüfen bleiben jedoch die übrigen Voraussetzungen von Art. 24 Abs. 1 lit. b RPG (keine überwiegenden Interessen entgegenstehen) sowie die übrigen Bewilligungsvoraussetzungen (NISV, kantonales Baurecht).
 
-**Praxisbeispiel — Erstanwendung von Art. 24bis Abs. 3 RPG:** In [BGer 1C_371/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-371-2024_2026-04-07.html) wandte das Bundesgericht Art. 24bis Abs. 3 RPG erstmals an. Das ARE hatte in seiner Stellungnahme darauf hingewiesen, dass Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfunkanlagen ausserhalb der Bauzone ab 1. Januar 2026 von Gesetzes wegen als standortgebunden gelten (E. 6). Das Bundesgericht hielt fest, dass die neu in Kraft getretene Norm eine Lockerung des Bewilligungsregimes darstellt und daher im hängigen Beschwerdeverfahren unmittelbar anwendbar ist (E. 6.2). Der Umbau der bestehenden Mobilfunkanlage (Ersetzung von Antennen, keine Erweiterung des Mastfundaments) fiel unter Abs. 3 (E. 5.3, 6.3).
+**Praxisbeispiel — Direkte materielle Anwendung von Art. 24bis Abs. 3 RPG bei Erweiterung:** In [BGer 1C_710/2025](https://mcp.opencaselaw.ch/entscheid/1C_710/2025) vom 17. August 2026 (publiziert 02.09.2026) wendete das Bundesgericht Art. 24bis Abs. 3 RPG direkt auf ein hängiges Verfahren über die Erweiterung einer bestehenden Mobilfunkanlage in der Landwirtschaftszone an (Zubau von adaptiven 5G-Antennen). Das Bundesgericht hielt fest, dass durch die gesetzliche Fiktion der Standortgebundenheit der Nachweis nach Art. 24 Abs. 1 lit. a RPG entfällt. Da die Bestimmung für die Bauherrschaft günstiger ist, fand sie nach allgemeinen intertemporalen Grundsätzen unmittelbar Anwendung (E. 4).
 
-**Praxisbeispiel — Intertemporalrecht:** Das Bundesgericht stellte in [BGer 1C_371/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-371-2024_2026-04-07.html) klar, dass im öffentlichen Baurecht hängige Beschwerdeverfahren nach bisherigem Recht zu Ende geführt werden, sofern das neue Recht für die gesuchstellende Partei nicht günstiger ist. Da Art. 24bis Abs. 3 RPG eine Lockerung des Bewilligungsregimes darstellt (Wegfall der Prüfung der Standortgebundenheit), erweist sich das neue Recht für die Beschwerdegegnerin als günstiger und findet daher unmittelbare Anwendung (E. 6.2; vgl. auch [BGer 1C_438/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-438-2025_2026-03-31.html) E. 7).
+**Praxisbeispiel — Intertemporalrecht:** Das Bundesgericht stellte in [BGer 1C_371/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-371-2024_2026-04-07.html) und [BGer 1C_438/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-438-2025_2026-03-31.html) (E. 7) klar, dass im öffentlichen Baurecht hängige Beschwerdeverfahren nach bisherigem Recht zu Ende geführt werden, sofern das neue Recht für die gesuchstellende Partei nicht günstiger ist. Da Art. 24bis Abs. 3 RPG eine Lockerung des Bewilligungsregimes darstellt (Wegfall der Prüfung der Standortgebundenheit), erweist sich das neue Recht für die Bauherrschaft als günstiger und findet daher unmittelbare Anwendung.
+
 
 ### V. NISV und Standortdatenblatt
 
