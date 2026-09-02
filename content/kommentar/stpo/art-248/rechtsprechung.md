@@ -214,11 +214,11 @@ Anwendung von Art. 248a Abs. 3 StPO (nicht erstreckbare Frist von 10 Tagen für 
 
 Im Entsiegelungsverfahren vor dem Zwangsmassnahmengericht (ZMG) darf die gesuchstellende Staatsanwaltschaft keine Einsicht in die versiegelten Datenträger oder deren Triage-Ergebnisse erhalten, bevor das ZMG über die Geheimnisschutzrügen (Art. 264 StPO) entschieden hat (Information Wall); die vorzeitige Kenntnisnahme begründet eine schwere Verletzung des Siegelungsschutzes.
 
-### 22. [BGer 7B_86/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-86-2022_2023-07-13.html) — Mobiltelefone und Siegelung
+### 23. [BGer 7B_165/2026 vom 15. Juli 2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026) (publiziert 02.09.2026; vgl. auch 7B_133/2026) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft
 
-**Datum:** 13. Juli 2023 | **Docket:** [BGer 7B_86/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-86-2022_2023-07-13.html)
-
-Wenn Mobiltelefone und andere digitale Kommunikationsgeräte physisch sichergestellt werden und die Staatsanwaltschaft die gespeicherten Daten auswerten will, liegt grundsätzlich keine Fernmeldeüberwachung vor. Der Rechtsschutz erfolgt durch Siegelung (Art. 248 Abs. 1 StPO).
+- **Thema:** Schriftlichkeit des Entsiegelungsgesuchs; analoge Anwendbarkeit von Art. 110 Abs. 1 und 2 StPO auf die Staatsanwaltschaft; Fristwahrung nach Art. 248 Abs. 3 StPO.
+- **Kernaussage:** Art. 110 Abs. 1 und 2 StPO gilt sinngemäss auch für Gesuche und Eingaben der Staatsanwaltschaft an das Zwangsmassnahmengericht. Die Übermittlung eines Entsiegelungsgesuchs per einfacher, unsignierter E-Mail ist formunwirksam und wahrt die gesetzliche 20-tägige Frist von Art. 248 Abs. 3 StPO nicht. Die Pflicht zur Ansetzung einer Nachfrist zur Verbesserung von Formmängeln (Art. 110 Abs. 4 StPO) gilt für die Strafverfolgungsbehörden nicht. Nach Fristablauf hat die Staatsanwaltschaft die versiegelten Datenträger herauszugeben und Spiegelungen zu löschen (E. 2).
+- **Einschlägig für:** Art. 248 Abs. 3 StPO i.V.m. Art. 110 StPO
 
 ---
 

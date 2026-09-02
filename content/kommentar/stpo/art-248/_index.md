@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
+    note: "Einarbeitung von BGer 7B_165/2026 vom 15. Juli 2026 und BGer 7B_133/2026 (publiziert 02.09.2026): Analoge Anwendbarkeit von Art. 110 StPO auf die Staatsanwaltschaft; Formungültigkeit von Entsiegelungsgesuchen per einfacher E-Mail und Verwirkung der Frist nach Art. 248 Abs. 3 StPO."
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
     note: "Umfassender Loop-Ausbau: Einarbeitung von BGE 152 IV 107 (Praxisänderung Datenspiegelung), BGE 151 IV 30 (Geheimnisschutzkatalog), BGE 151 IV 344/350 (Smartphones/Verhältnismässigkeit), BGer 7B_558/2025 (Siegelungsbefugnis Dritter); Umstellung aller Primärquellen auf entscheidsuche.ch."
   - date: 2026-08-22
     by: "Antigravity Agent"
@@ -83,6 +88,8 @@ revisions:
 
 **Rz. 14** Die 20-tägige Frist ist eine gesetzliche Verwirkungsfrist. Läuft sie unbenutzt ab, erlischt der staatliche Zugriff auf die sichergestellten Beweismittel unwiderruflich, und die Gegenstände sind herauszugeben bzw. erstellte Spiegelkopien zu löschen.
 
+**Rz. 14a** Das Entsiegelungsgesuch der Staatsanwaltschaft an das ZMG unterliegt dem zwingenden **Schriftlichkeitsgebot**. Nach der Rechtsprechung gilt [Art. 110 Abs. 1 und 2 StPO](https://glossagens.ch/kommentar/stpo/art-110/) analog auch für Gesuche und Eingaben der Staatsanwaltschaft ([BGer 7B_165/2026 vom 15. Juli 2026 E. 2.3](https://mcp.opencaselaw.ch/entscheid/7B_165/2026); [BGer 7B_133/2026](https://mcp.opencaselaw.ch/entscheid/7B_133/2026)). Ein Gesuch per einfacher, unsignierter E-Mail ist formungültig und vermag die 20-Tage-Frist nicht zu wahren; eine Nachfristansetzung ist ausgeschlossen (Art. 110 Abs. 4 StPO).
+
 ### VI. Praxisfragen
 
 #### 1. Vorsorgliche Datenspiegelung digitaler Datenträger vs. Siegelungsschutz
@@ -96,6 +103,9 @@ revisions:
 
 #### 4. Information Wall und Akteneinsichtsschranken vor dem ZMG
 **Rz. 18** Das Verwendungsverbot gemäss Art. 248 Abs. 1 StPO bindet auch das Entsiegelungsgericht («Information Wall»). Das ZMG darf der Staatsanwaltschaft versiegelte Unterlagen oder vertrauliche Triagedokumente nicht vor dem rechtskräftigen Abschluss des Entsiegelungsverfahrens zur Stellungnahme zustellen ([BGer 7B_219/2026 vom 14. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.07.2026_7B_219/2026)).
+
+#### 5. Formungültige Entsiegelungsgesuche per E-Mail (Art. 110 StPO)
+**Rz. 19** Übermittelt die Staatsanwaltschaft das Entsiegelungsgesuch an das ZMG per gewöhnlicher E-Mail ohne qualifizierte elektronische Signatur, ist das Gesuch nach [Art. 110 Abs. 2 StPO](https://glossagens.ch/kommentar/stpo/art-110/) formunwirksam ([BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026); [BGer 7B_133/2026](https://mcp.opencaselaw.ch/entscheid/7B_133/2026)). Das ZMG darf auf ein solches Gesuch nicht eintreten. Da die 20-tägige Frist von Art. 248 Abs. 3 StPO eine Verwirkungsfrist ist, hat die Strafbehörde die Aufzeichnungen und Datenträger zwingend an die Inhaberin herauszugeben bzw. Spiegelungen unwiderruflich zu vernichten.
 
 ---
 
