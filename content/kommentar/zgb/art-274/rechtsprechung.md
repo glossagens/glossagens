@@ -7,6 +7,11 @@ description: "Übersicht der Rechtsprechung zu Art. 274 ZGB – Verweigerung, En
 tags: ["Rechtsprechung", "ZGB", "Familienrecht", "Persönlicher Verkehr", "Besuchsrecht", "Kindeswohl"]
 agent_verified: false
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 5A_322/2026 vom 10. August 2026 (publiziert 02.09.2026): Besuchsrechtsentzug als Ultima Ratio bei gescheiterten Massnahmen und Berücksichtigung des Kindeswillens bei einem 8-jährigen Kind."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -73,6 +78,13 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichts- und kantonale Entscheide
+
+### [BGer 5A_322/2026 vom 10. August 2026](https://mcp.opencaselaw.ch/entscheid/5A_322/2026) (publiziert 02.09.2026) — Besuchsrechtsentzug als Ultima Ratio bei gescheiterten Massnahmen
+- **Thema**: Vollständiger Besuchsrechtsentzug (auch des begleiteten Besuchsrechts), Kindeswille eines 8-jährigen Kindes, Ultima Ratio
+- **Kernaussage**: Das Bundesgericht schützt den vollständigen Entzug des Besuchsrechts eines Vaters zu seiner 8-jährigen Tochter. Nach über zweieinhalbjährigem Scheitern begleiteter Kontakte und Beistandschaften, bei völliger Uneinsichtigkeit des Vaters und anhaltender psychischer Destabilisierung des Kindes, bildet der vollständige Entzug des Kontaktrechts die einzige verbleibende *ultima ratio* zum Schutz des Kindeswohls. Auch bei unter 12-jährigen Kindern ist ein autonom und konstant geäusserter Ablehnungswille im Rahmen der Verhältnismässigkeit massgebend zu berücksichtigen (E. 5).
+- **Einschlägig für**: Art. 274 Abs. 2 ZGB (Ultima-Ratio-Entzug, Begleitung, Kindeswille)
+
+---
 
 ### [BGer 5A_719/2013 vom 17. Oktober 2014](https://mcp.opencaselaw.ch/entscheid/bger_5A_719_2013) — Kriterien der Kindeswohlgefährdung und des Kinderwillens
 - **Thema**: Ultima ratio, Begriffsbestimmung Gefährdung, Urteilsfähigkeit ab 12 Jahren

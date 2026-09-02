@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 274 ZGB – Loyalitätspflicht, Schranken des pe
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Persönlicher Verkehr", "Besuchsrecht", "Loyalitätspflicht", "Kindeswohl", "Kindesschutz"]
 agent_verified: true
 revisions:
+  - date: 2026-09-02
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 5A_322/2026 vom 10. August 2026 (publiziert 02.09.2026): Vollständiger Besuchsrechtsentzug als Ultima Ratio nach Scheitern begleiteter Kontakte und Berücksichtigung des konstanten Kindeswillens bei einem 8-jährigen Kind."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -58,7 +63,7 @@ revisions:
 **5** Art. 274 Abs. 2 ZGB bezweckt den **Schutz des Kindes und nicht, die Eltern zu bestrafen**: Dass diese ihre Pflichten verletzen und sich nicht ernsthaft um ihr Kind kümmern, rechtfertigt die Verweigerung oder die Entziehung des persönlichen Verkehrs nur, wenn diese Verhaltensweisen das Kindeswohl beeinträchtigen ([BGE 118 II 21](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_21)).
 
 **6** Das Bundesgericht betont den Grundsatz der Verhältnismässigkeit:
-- **Ultima ratio**: Der gänzliche Ausschluss eines Elternteils vom persönlichen Verkehr kommt nur als ultima ratio in Frage; er ist einzig dann statthaft, wenn sich die nachteiligen Auswirkungen eines Besuchsrechts nicht anderweitig in für das Kind vertretbaren Grenzen halten lassen ([BGer 5A_719/2013, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_719_2013#e-4-3)).
+- **Ultima ratio**: Der gänzliche Ausschluss eines Elternteils vom persönlichen Verkehr kommt nur als ultima ratio in Frage; er ist einzig dann statthaft, wenn sich die nachteiligen Auswirkungen eines Besuchsrechts nicht anderweitig in für das Kind vertretbaren Grenzen halten lassen ([BGer 5A_719/2013, E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_719_2013#e-4-3); [BGer 5A_322/2026 vom 10. August 2026 E. 5.1](https://mcp.opencaselaw.ch/entscheid/5A_322/2026)).
 - **Elterliche Konflikte**: Konflikte zwischen den Eltern sind für sich allein kein Grund für eine Beschränkung des Besuchsrechts gegenüber dem Kind. Eine solche rechtfertigt sich einzig, wenn aufgrund der tatsächlichen Umstände davon auszugehen ist, dass die Gewährung des üblichen Besuchsrechts das Kindeswohl gefährdet ([BGE 131 III 209, E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_209#e-5)).
 
 ---
@@ -73,7 +78,7 @@ revisions:
 
 #### 3. Begleitetes Besuchsrecht und Beistandschaft
 
-**9** **Begleitetes Besuchsrecht**: Können die befürchteten nachteiligen Auswirkungen des persönlichen Verkehrs für das Kind durch die persönliche Anwesenheit einer Drittperson in Grenzen gehalten werden, so verbietet sich die Verweigerung des persönlichen Verkehrs ([BGer 5A_505/2013, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_505_2013#e-2-3)).
+**9** **Begleitetes Besuchsrecht**: Können die befürchteten nachteiligen Auswirkungen des persönlichen Verkehrs für das Kind durch die persönliche Anwesenheit einer Drittperson in Grenzen gehalten werden, so verbietet sich die Verweigerung des persönlichen Verkehrs ([BGer 5A_505/2013, E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_505_2013#e-2.3)).
 
 **10** **Besuchsrechtsbeistandschaft ([Art. 308 Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_308))**:
 - Falls die Gefährdung des Kindeswohls sich auf Schwierigkeiten bei der Ausübung des Besuchsrechts beschränkt, ist keine Erziehungsbeistandschaft gemäss Art. 308 Abs. 1 ZGB, sondern eine auf die Überwachung des persönlichen Verkehrs begrenzte Beistandschaft gemäss Art. 308 Abs. 2 ZGB anzuordnen ([BGE 140 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_241)).
@@ -82,9 +87,11 @@ revisions:
 
 ---
 
-#### 4. Berücksichtigung des Kinderwillens
+#### 4. Berücksichtigung des Kindeswillens und Ultima-Ratio-Entzug
 
-**11** Bei der Ausgestaltung des Besuchsrechts soll nicht der Wille des betroffenen Kindes allein ausschlaggebend sein. Es ist in jedem einzelnen Fall abzuklären, weshalb das vom Besuchsrecht betroffene Kind gegenüber dem nicht obhutsberechtigten Elternteil eine Abwehrhaltung einnimmt ([BGE 111 II 405, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_111_II_405#e-3)). Bei der Berücksichtigung des Willens des Kindes ist zunächst dessen Alter bzw. dessen Fähigkeit zu autonomer Willensbildung, welche ungefähr ab dem 12. Altersjahr anzunehmen ist, sodann aber auch das Aussageverhalten und namentlich die Konstanz des geäusserten Willens zentral. Das Kind kann nicht in Eigenregie bestimmen, ob es Umgang haben möchte ([BGer 5A_719/2013, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_719_2013#e-4-4)).
+**11** Bei der Ausgestaltung des Besuchsrechts soll nicht der Wille des betroffenen Kindes allein ausschlaggebend sein. Es ist in jedem einzelnen Fall abzuklären, weshalb das vom Besuchsrecht betroffene Kind gegenüber dem nicht obhutsberechtigten Elternteil eine Abwehrhaltung einnimmt ([BGE 111 II 405, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_111_II_405#e-3)). Bei der Berücksichtigung des Willens des Kindes ist zunächst dessen Alter bzw. dessen Fähigkeit zu autonomer Willensbildung, welche ungefähr ab dem 12. Altersjahr anzunehmen ist, sodann aber auch das Aussageverhalten und namentlich die Konstanz des geäusserten Willens zentral ([BGer 5A_719/2013, E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_719_2013#e-4-4)).
+
+**Praxisbeispiel — Besuchsrechtsentzug bei gescheiterten Massnahmen und Kindeswille:** In [BGer 5A_322/2026](https://mcp.opencaselaw.ch/entscheid/5A_322/2026) vom 10. August 2026 (publiziert 02.09.2026) bestätigte das Bundesgericht den vollständigen Entzug auch des begleiteten Besuchsrechts bei einem 8-jährigen Kind. Nachdem über zweieinhalb Jahre hinweg begleitete Besuche, Mediationen und Beistandschaften erfolglos blieben, der Vater keinerlei Einsicht in kindliche Belastungsgrenzen zeigte und das Kind eine gefestigte, konstante Abwehrhaltung artikulierte, erwies sich der vollständige Kontaktabbruch als *ultima ratio* zum Schutz vor gravierenden Loyalitätskonflikten und psychischer Destabilisierung als verhältnismässig (E. 5).
 
 ---
 
