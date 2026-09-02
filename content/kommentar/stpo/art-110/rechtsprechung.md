@@ -11,6 +11,11 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
+    note: "Nachtrag BGer 7B_165/2026 vom 5. August 2026 (Fünferbesetzung) und BGer 7B_487/2025 vom 24. September 2025. 7B_165/2026 nuanciert den Anwendungsbereich: Art. 110 StPO gilt analog, wo die Staatsanwaltschaft als Rechtssuchende an ein Gericht gelangt (Entsiegelungsgesuch), während 6B_700/2025 nur das verfahrensleitende Handeln der Strafbehörde von Abs. 2 ausnimmt; Abschnitt A entsprechend in drei Unterabschnitte umgebaut. 7B_487/2025 ergänzt das Ausstandsgesuch nach Art. 58 Abs. 1 StPO. Der Volltext von 7B_165/2026 wurde über opencaselaw geholt und die verwendeten Zitate zusätzlich gegen die amtliche Fassung auf bger.ch geprüft; entscheidsuche.ch führt den Entscheid noch nicht, daher ausnahmsweise Rückfall-Verlinkung auf opencaselaw."
+  - date: 2026-09-02
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
     note: "Erstanlage. Jeder Entscheid wurde im Volltext über entscheidsuche.ch (fetch_document) geholt; die Kernaussagen sind wörtlich aus dem Entscheidtext übernommen oder eng daran gebildet. Erwägungsanker nur bei BGE-Dokumenten, da die BGer- und BStGer-Dokumente auf entscheidsuche keine `consideration`-Anker bzw. PDF-Format haben. Schlussattest: Wortlaut korrekt (Fedlex); alle 20 Bundesentscheide über opencaselaw als existierend bestätigt; 135 von 138 wörtlichen Zitaten maschinell gegen die entscheidsuche-Volltexte verifiziert, die drei übrigen einzeln von Hand (Fehlschlag nur wegen eingeschobener Seitenumbruchmarken). Vier Zitate wurden dabei korrigiert (Kasus/ausgelassenes Wort) und zwei Auslassungen mit […] gekennzeichnet. Offen bleiben zwei Werkzeugbefunde ohne Sachgehalt: audit.py meldet die kantonalen und Bundesstrafgerichtsentscheide als «halluziniert», weil ihre Zitierform von opencaselaws citation_string abweicht (die close_matches weisen sie aus), und die Pinpoints BGE 142 I 10 E. 2.4.1–2.4.9 als nicht auflösbar, weil opencaselaw für diesen BGE nur die Erwägung «2» führt; die Erwägungsnummern sind im publizierten Text belegt (Anker consideration_2.4.x auf entscheidsuche)."
 ---
 
@@ -136,6 +141,23 @@ Die Rechtsprechung zu Art. 110 StPO ordnet sich nach den vier Absätzen und eine
 - **Ausgang**: Nichteintreten.
 - **Einschlägig für**: Abs. 2; Art. 91 Abs. 2 und 3, Art. 396 Abs. 1 StPO, Art. 4, 6 und 8b VeÜ-ZSSV
 
+### [BGer 7B_165/2026 vom 5. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) — E. 2.4.1–2.4.4
+
+- **Thema**: Art. 110 StPO analog auf das Entsiegelungsgesuch der Staatsanwaltschaft; Formstrenge gegenüber der Behörde
+- **Sachverhalt**: Die Staatsanwaltschaft Limmattal/Albis stellte in einem Betrugsverfahren am 30. Juli 2025 bei einer Hausdurchsuchung zwei Mobiltelefone, drei Laptops und Akten sicher; die Beschuldigte liess sie gleichentags siegeln. Am 4. August 2025 verlangte die Staatsanwaltschaft mit elektronischer Eingabe beim Zwangsmassnahmengericht Dietikon die Entsiegelung. Der eingescannte Antrag war von zwei Staatsanwältinnen handschriftlich unterzeichnet, aber nicht elektronisch signiert. Das Zwangsmassnahmengericht trat am 8. Januar 2026 mangels gültiger Form nicht ein. Entschieden in Fünferbesetzung.
+- **Kernaussage**: Art. 248 Abs. 3 StPO enthält keine Formvorschrift; das Bundesgericht leitet die Schriftlichkeit aus dem Begründungserfordernis, dem Ablauf des Entsiegelungsverfahrens (Art. 248a Abs. 3 und 4 StPO) und der systematischen Nähe zu Art. 241 Abs. 1 StPO ab und zieht ergänzend Art. 110 StPO heran: «Im Entsiegelungsverfahren gelangt die Staatsanwaltschaft zudem als Rechtssuchende an das Entsiegelungsgericht, wobei ihr die siegelungsberechtigte Partei gegenübersteht. Sie ist daher insofern durchaus im weiteren Sinn Partei dieses Verfahrens. Daran ändert nichts, dass die Staatsanwaltschaft im Vorverfahren grundsätzlich ermittelnde Behörde und allenfalls nicht formell Partei ist.» (E. 2.4.3). Zur Folge: «Eine elektronische Eingabe, die nicht mit einer qualifizierten Signatur versehen ist, hat keine fristwahrende oder anderweitige Wirkung. […] Dies muss erst Recht für eine Behörde wie die Staatsanwaltschaft gelten.» (E. 2.4.4). Die Nichtheilbarkeit von Fax- und E-Mail-Eingaben «muss erst Recht für die Staatsanwaltschaft gelten. Es leuchtet nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt.» Unerheblich ist, «ob die Identität des Absenders dem Gericht bekannt war und ob das Gesuch tatsächlich von der genannten Partei stammte». Keine Nachfrist, weil sich die Behörde «offensichtlich bewusst für ein Gesuch in Form eines — nicht signierten — E-Mails entschieden hat». Der Entscheid bestätigt ausdrücklich [7B_235/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-235-2025_2025-04-03.html).
+- **Ausgang**: Abweisung der Beschwerde der Oberstaatsanwaltschaft, soweit Eintreten; die Gegenstände bleiben versiegelt.
+- **Einschlägig für**: Abs. 1 und 2 (analoge Anwendung); Art. 197, 241, 248 Abs. 3, 248a StPO
+- **Hinweis zur Verlinkung**: entscheidsuche.ch führt den Entscheid noch nicht; verlinkt ist deshalb die Rückfallebene opencaselaw. Wortlaut zusätzlich gegen die amtliche Fassung auf bger.ch geprüft.
+
+### [BGer 7B_487/2025 vom 24. September 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-487-2025_2025-09-24.html) — E. 2.3.3 und 2.3.4
+
+- **Thema**: Ausstandsgesuch per einfacher E-Mail; keine Nachfrist gegenüber Anwälten
+- **Sachverhalt**: In einem Verfahren um die Einsetzung eines amtlichen Verteidigers sandte der Verteidiger am 15. Januar 2025 eine E-Mail an den Oberstaatsanwalt, in der er sinngemäss den Anschein der Befangenheit rügte und «höflich um Kenntnisnahme» bat. Die E-Mail trug keine elektronische Signatur; die Oberstaatsanwaltschaft leitete kein Ausstandsverfahren ein.
+- **Kernaussage**: «Zur Form eines Ausstandsgesuchs äussert sich Art. 58 Abs. 1 StPO nicht. Nach Art. 110 Abs. 1 StPO können Eingaben schriftlich eingereicht oder mündlich zu Protokoll gegeben werden. […] Auch elektronische Eingaben sind grundsätzlich zulässig. Diesfalls muss die Eingabe gemäss Art. 110 Abs. 2 StPO mit einer qualifizierten elektronischen Signatur […] versehen werden. Unter dieser Voraussetzung kann ein Ausstandsbegehren somit grundsätzlich auch elektronisch gestellt werden.» (E. 2.3.3). Die E-Mail «wahrt die Formvorschriften der StPO somit nicht und die Verteidigung konnte nicht damit rechnen, mit dieser E-Mail eine rechtsgültige Eingabe zu tätigen, welche die Einleitung eines ordentlichen Ausstandsverfahrens bewirkt». Da kein Versehen geltend gemacht wurde, war die Oberstaatsanwaltschaft «auch nicht gehalten, eine Nachfrist im Sinne von Art. 110 Abs. 4 StPO zur formgerechten Einreichung der Eingabe anzusetzen» (E. 2.3.4).
+- **Ausgang**: Abweisung, soweit Eintreten.
+- **Einschlägig für**: Abs. 1, 2 und 4; Art. 58 Abs. 1 StPO
+
 ---
 
 ## Abs. 3 — Formfreiheit
@@ -147,7 +169,7 @@ Die Rechtsprechung zu Art. 110 StPO ordnet sich nach den vier Absätzen und eine
 - **Kernaussage**: «Zu Unrecht beruft sich der Beschwerdeführer auf Art. 110 Abs. 2 StPO […]. Er verkennt, dass sich diese Bestimmung auf 'Eingaben' von Parteien bezieht, nicht jedoch auf Verfahrenshandlungen der Verfahrensleitung, für die Art. 110 Abs. 3 StPO zur Anwendung gelangt. Letztere sind an keine Formvorschriften gebunden, soweit die Strafprozessordnung nichts Abweichendes bestimmt. Der Gutachtensauftrag ist schriftlich zu erteilen (Art. 184 Abs. 2 StPO). Dabei handelt es sich jedoch lediglich um eine Ordnungsvorschrift (BGE 141 IV 423 E. 3.2).» Eine allfällige rein elektronische Auftragserteilung ohne qualifizierte Signatur würde daher nicht zur Unverwertbarkeit des Gutachtens führen.
 - **Einschlägig für**: Abs. 2 und 3; Art. 184 Abs. 2 StPO
 
-*(Zu Abs. 3 siehe ferner [BGE 143 IV 483 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-483_2017.html#consideration_2.2.2) oben unter «Leitentscheide».)*
+*(Gegenstück zur Rollenabgrenzung: [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) — wo die Staatsanwaltschaft nicht verfahrensleitend handelt, sondern als Rechtssuchende ein Gesuch stellt, gilt Art. 110 StPO analog. Zu Abs. 3 siehe ferner [BGE 143 IV 483 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-483_2017.html#consideration_2.2.2) oben unter «Leitentscheide».)*
 
 ---
 
