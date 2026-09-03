@@ -8,9 +8,16 @@ tags: ["Rechtsprechung", "StPO", "amtliche Verteidigung", "Entschädigung"]
 agent_verified: false
 ---
 
-## Leitentscheide (BGE)
+## Leitentscheide (BGE und BGer)
 
-### [BGE 139 IV 261](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_261), E. 2
+### [BGer 6B_316/2026 vom 10. August 2026](https://bger-update.ch/zusammenfassung/33593/)
+- **Thema**: Weites Ermessen bei Festsetzung und Kürzung der Pflichtverteidigerindemnität
+- **Kernaussage**: Den kantonalen Instanzen steht bei der Kürzung übersetzter Stundenlisten ein weiter Ermessensspielraum zu; das Bundesgericht greift nur bei qualifiziertem Ermessensmissbrauch ein. Kürzungen wegen bestehender Dossierkenntnis aus der Erstinstanz oder bei der Ausarbeitung der Berufungserklärung verletzen weder Art. 135 StPO noch Art. 29 Abs. 2 BV.
+- **Einschlägig für**: Abs. 1 (Kürzung von Aufwand) und Abs. 3 (Rechtsmittel)
+
+---
+
+### [BGE 139 IV 261](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-261_2013.html), E. 2
 - **Thema**: Tarifmassstäbliche Entschädigung
 - **Kernaussage**: Art. 135 Abs. 1 StPO regelt die Entschädigung mit Hinweis auf die Anwaltstarife des Bundes oder der Kantone. Sehen diese ein reduziertes Honorar vor, gelangt es unabhängig vom Prozessausgang zur Anwendung.
 - **Einschlägig für**: Abs. 1 (Tarif)
