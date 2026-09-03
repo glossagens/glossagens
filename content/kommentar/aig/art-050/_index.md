@@ -82,7 +82,9 @@ agent_verified: true
 
 **16** **Ermessensspielraum.** Die Behörden verfügen bei der Beurteilung der Integrationskriterien (Abs. 1 lit. a) und der wichtigen persönlichen Gründe (Abs. 1 lit. b) über einen gewissen Ermessensspielraum. Dieser ist jedoch durch die EMRK und die Verfassung begrenzt: bei hinreichender Integration und bei Vorliegen häuslicher Gewalt ist der Anspruch in der Regel zu bejahen.
 
-**17** **Aktuelle Rechtsprechung.** In [BGer 2C_243/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_243_2026) vom 4. Mai 2026 hat das Bundesgericht die Voraussetzungen des Nachaufenthaltsrechts nach Scheidung bei kurzer Ehedauer und fehlender Ehegemeinschaft geprüft und festgehalten, dass die Voraussetzungen von Art. 50 Abs. 1 lit. a AIG (Dreijahresfrist) nicht erfüllt sind, wenn die eheliche Gemeinschaft weniger als drei Jahre gedauert hat.
+**17** **Aktuelle Rechtsprechung & Verfahrensrechtliche Hürden (BGer 2C_127/2026).**
+- In [BGer 2C_243/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_243_2026) vom 4. Mai 2026 hat das Bundesgericht festgehalten, dass die Dreijahresfrist (Art. 50 Abs. 1 lit. a AIG) nicht erfüllt ist, wenn die eheliche Lebensgemeinschaft weniger als drei Jahre gedauert hat.
+- Im Urteil **[BGer 2C_127/2026 vom 29. Juli 2026](https://bger-update.ch/zusammenfassung/33583/)** bekräftigte das Bundesgericht die strenge Praxis zur Fristwahrung und Fristwiederherstellung bei Verfahren um die Nichtverlängerung der Aufenthaltsbewilligung nach Art. 50 AIG: Selbst eine attestierte schwere depressive Episode bildet nur dann einen Entschuldigungsgrund für Fristversäumnisse oder unterlassene Beweissicherungen (Postbelege), wenn jegliches auf Fristwahrung gerichtete Handeln gänzlich verunmöglicht war. Die Beweislast für die rechtzeitige Anfechtung der Bewilligungsverweigerung trägt die ausländische Person.
 
 ---
 
