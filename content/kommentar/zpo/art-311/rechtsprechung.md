@@ -75,6 +75,13 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ## II. Weitere Entscheide des Bundesgerichts
 
+### [BGer 5A_368/2026 vom 20. August 2026](https://bger-update.ch/zusammenfassung/33612/)
+- **Thema**: Begründungspflicht bei Berufung in Kindesschutzverfahren (Untersuchungsgrundsatz)
+- **Kernaussage**: Die Pflicht zur hinreichenden Auseinandersetzung mit den erstinstanzlichen Erwägungen nach Art. 311 Abs. 1 ZPO gilt auch in Verfahren, die der Untersuchungs- und Offizialmaxime unterliegen (Obhutsumteilung, ZGB/ZPO). Das Nichteintreten mangels Begründung ist kein überspitzter Formalismus (Art. 29 Abs. 1 BV).
+- **Einschlägig für**: Art. 311 Abs. 1 ZPO i.V.m. Art. 296 ZPO
+
+---
+
 ### [BGer 4A_429/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-429-2025_2025-10-20.html) (20. Oktober 2025)
 - **Thema**: Blosse Wiederholung des Klagevortrags als ungenügende Begründung
 - **Kernaussage**: Wer in der Berufungsschrift den erstinstanzlichen Klagevortrag wortgleich wiederholt, ohne auf die abweisenden Erwägungen der Vorinstanz einzugehen, genügt der Begründungspflicht von Art. 311 Abs. 1 ZPO nicht.

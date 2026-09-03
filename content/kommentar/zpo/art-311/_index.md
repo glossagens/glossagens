@@ -51,6 +51,7 @@ revisions:
 
 **Rz. 5** **Auseinandersetzung mit den vorinstanzlichen Erwägungen**:
 * Die berufungsführende Partei muss sich mit den tragenden Erwägungen des angefochtenen Urteils sachlich auseinandersetzen ([BGE 138 III 374 E. 4.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-374_2012.html#consideration_4.3.1)).
+* **Geltung auch bei Untersuchungsmaxime (Kindesschutz)**: Die Begründungspflicht gilt uneingeschränkt auch in Verfahren, die der Untersuchungs- oder Offizialmaxime unterstehen (z.B. Kinderbelange, Obhutsumteilungen nach Art. 296 ZPO). Der Untersuchungsgrundsatz entbindet den Rechtsmittelkläger nicht von der Pflicht, sich substanziiert mit dem angefochtenen Entscheid auseinanderzusetzen; das Nichteintreten bei unzureichender Begründung verletzt weder das rechtliche Gehör noch das Verbot des überspitzten Formalismus ([BGer 5A_368/2026 vom 20. August 2026, E. 2](https://bger-update.ch/zusammenfassung/33612/)).
 * **Blosse Wiederholungen** der erstinstanzlichen Plädoyers, ein blosser Verweis auf die früheren Rechtsschriften oder rein appellatorische Kritik sind unzulässig und führen zur Unbeachtlichkeit der Rüge ([BGer 4A_429/2025 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-429-2025_2025-10-20.html); [BGer 4A_397/2016 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-397-2016_2016-11-30.html)).
 
 **Rz. 6** **Sachverhaltsrügen (Beweiswürdigung)**:
