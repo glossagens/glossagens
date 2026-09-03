@@ -16,7 +16,12 @@ revisions:
 
 ## I. Leitentscheide des Bundesgerichts
 
-### [BGE 136 III 273](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_273)
+### [BGer 4A_65/2026 vom 22. Juni 2026](https://bger-update.ch/zusammenfassung/33588/)
+**Kernaussage**: Ein Werkmangel liegt auch bei Fehlen einer nach Treu und Glauben vorausgesetzten Eigenschaft vor. Bei der Sanierung eines Pflegeheims ist die Beibehaltung der schwellenlosen Niveaugleichheit der Böden selbstverständlicher Vertragsinhalt; eine Planung mit 15 mm Niveauunterschied begründet die Haftung der Architektin für Mangelfolgeschäden.
+
+---
+
+### [BGE 136 III 273](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-273_2010.html)
 **Kernaussage**: Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern, stehen dem Besteller die in Art. 107 Abs. 2 OR vorgesehenen Möglichkeiten offen.
 
 ---

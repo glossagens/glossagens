@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 368 OR: Mängelrechte im Werkvertrag — Wandelu
 tags: ["OR", "Werkvertrag", "Mängelrechte", "Sachgewährleistung", "Nachbesserung", "Minderung", "Wandelung", "Baumängel", "Ersatzvornahme", "Stockwerkeigentum", "Mangelfolgeschaden"]
 agent_verified: true
 revisions:
+  - date: 2026-09-03
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Nachtrag BGer 4A_65/2026 zu vorausgesetzten Eigenschaften beim Architekturvertrag (Niveaugleichheit im Pflegeheim)."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -30,7 +35,9 @@ revisions:
 
 ## Vorbemerkungen & Systematik
 
-**1** **Zweck und Rechtsnatur.** Art. 368 OR bildet das Kernstück der werkvertraglichen Sachgewährleistung. Die Bestimmung verleiht dem Besteller bei Vorliegen eines Werkmangels gestaffelte Gestaltungsrechte (Wandelung, Minderung, unentgeltliche Nachbesserung) sowie einen verschuldensabhängigen Anspruch auf Mangelfolgeschadenersatz. Das Wahlrecht des Bestellers nach Art. 368 OR zwischen Wandelung, Minderung und Nachbesserung ist dispositiver Natur ([BGE 116 II 305](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_II_305)).
+**1** **Zweck und Rechtsnatur.** Art. 368 OR bildet das Kernstück der werkvertraglichen Sachgewährleistung. Die Bestimmung verleiht dem Besteller bei Vorliegen eines Werkmangels gestaffelte Gestaltungsrechte (Wandelung, Minderung, unentgeltliche Nachbesserung) sowie einen verschuldensabhängigen Anspruch auf Mangelfolgeschadenersatz. Das Wahlrecht des Bestellers nach Art. 368 OR zwischen Wandelung, Minderung und Nachbesserung ist dispositiver Natur ([BGE 116 II 305](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-305_1990-11-20.html)).
+
+**1a** **Werkmangel und vorausgesetzte Eigenschaften (BGer 4A_65/2026).** Ein Werkmangel liegt nicht nur bei Abweichung von ausdrücklichen vertraglichen Vereinbarungen vor, sondern auch, wenn dem Werk eine nach Treu und Glauben vorausgesetzte Eigenschaft fehlt. Bei der Sanierung eines Pflegeheims ist die Beibehaltung der schwellenlosen Niveaugleichheit der Böden (für Rollstühle und Pflegebetten) nach Treu und Glauben selbstverständlicher Vertragsinhalt; plant die Architektin dennoch einen Niveauunterschied von ca. 15 mm ein, liegt eine mangelhafte Ausführungsplanung und eine vertragswidrige Werkausführung vor ([BGer 4A_65/2026 vom 22. Juni 2026, E. 4](https://bger-update.ch/zusammenfassung/33588/)).
 
 **2** **Systematischer Aufbau der Gewährleistung.** Die Ausübung der Mängelrechte nach Art. 368 OR setzt die rechtzeitige Erfüllung der Prüf- und Rügeobliegenheiten (Art. 367 OR) voraus. Wurde das Werk vom Besteller ausdrücklich oder stillschweigend genehmigt (Art. 370 OR), ist die Haftung für erkennbare Mängel verwirkt.
 
