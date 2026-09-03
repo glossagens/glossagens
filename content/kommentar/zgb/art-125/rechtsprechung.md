@@ -70,7 +70,14 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide
 
-### [BGE 147 III 265](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265), E. 5
+### [BGer 5A_793/2025 vom 7. August 2026](https://bger-update.ch/zusammenfassung/33611/) E. 3.2
+- **Thema**: Flexibilität des Schulstufenmodells und Anrechnung hypothetischen Einkommens
+- **Kernaussage**: Das Schulstufenmodell ist keine starre Pflicht zu einem 100%-Pensum bei Erreichen der Volljährigkeit der Kinder. Bei marginaler Berufserfahrung nach langjähriger Familienphase darf das Gericht im Rahmen seines Ermessens (Art. 4 ZGB) auf die Anrechnung eines hypothetischen 100%-Einkommens verzichten, wenn die berechtigte Person bereits über 75 % stabil erwerbstätig ist.
+- **Einschlägig für**: Art. 125 Abs. 1 und Abs. 2 Ziff. 6 und 7 ZGB
+
+---
+
+### [BGE 147 III 265](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2020.html), E. 5
 - **Thema**: Kindesunterhalt und Wechselwirkung mit nachehelichem Unterhalt
 - **Kernaussage**: Die zweistufige Methode mit Überschussverteilung ist für das gesamte Familienunterhaltsrecht verbindlich. Kindesunterhalt (insb. Betreuungsunterhalt) geht dem nachehelichen Ehegattenunterhalt im Rang vor.
 

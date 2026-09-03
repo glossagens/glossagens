@@ -67,11 +67,13 @@ Mit [BGE 147 III 308 E. 5.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_II
 - Massgebend ist eine konkrete Einzelfallprüfung anhand der Kriterien von Abs. 2 (Gesundheit, Vorbildung, Arbeitsmarktlage, bisherige Tätigkeiten, Sprachkenntnisse);
 - Gegebenenfalls sind der berechtigten Person angemessene **Übergangsfristen** für die Vorbereitung, Weiterbildung oder den Stellensuchprozess einzuräumen ([BGE 147 III 308 E. 5.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_308)).
 
-#### 3. Schulstufenmodell bei Kinderbetreuung
-Für Ehegatten mit Betreuungspflichten gilt das bundesgerichtliche Schulstufenmodell ([BGE 144 III 481](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_III_481)):
+#### 3. Schulstufenmodell bei Kinderbetreuung und richterliche Flexibilität
+Für Ehegatten mit Betreuungspflichten gilt das bundesgerichtliche Schulstufenmodell ([BGE 144 III 481](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-III-481_2018.html)):
 - Ab **obligatorischer Einschulung** des jüngsten Kindes (Kindergarten / Primarschule): Aufnahme bzw. Erhöhung der Erwerbstätigkeit auf mindestens **50 %**;
 - Ab **Eintritt in die Sekundarstufe I** (ca. 12. Altersjahr): Erhöhung auf mindestens **80 %**;
 - Ab **Vollendung des 16. Altersjahrs**: Vollerwerb (**100 %**).
+
+**Kein starres Dogma (BGer 5A_793/2025):** Das Bundesgericht hat bekräftigt, dass das Schulstufenmodell keine mathematisch starre Regel darstellt. Selbst bei Erreichen der Volljährigkeit der Kinder ist einem Ehegatten ein 100%-Pensum nicht zwingend zumutbar, wenn konkrete Umstände (z.B. langjähriger Berufsunterbruch, marginale Berufserfahrung, Fehlen realer Vollzeitstellen) dagegen sprechen. Die Gerichte dürfen im Rahmen ihres Ermessens (Art. 4 ZGB) davon absehen, ein hypothetisches 100%-Einkommen anzurechnen, wenn der Berechtigte ein stabiles Teilzeitpensum von über 75 % ausschöpft ([BGer 5A_793/2025 vom 7. August 2026, E. 3.2](https://bger-update.ch/zusammenfassung/33611/)).
 
 ---
 
