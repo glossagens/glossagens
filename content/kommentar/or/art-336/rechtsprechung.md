@@ -16,7 +16,17 @@ revisions:
 
 ## Rechtsprechung zu Art. 336 OR
 
-### BGE 130 III 699 — Verfassungsmässige Rechte bei Tendenzbetrieben
+### [BGer 4A_60/2026 vom 30. Juni 2026](https://bger-update.ch/zusammenfassung/33589/) — Impfobligatorium im Arbeitsverhältnis
+
+**THEMA:** Verfassungsmässige Rechte / Weisungsbefolgung / Impfobligatorium
+
+**KERNAUSSAGE:** Das Covid-19-Impfobligatorium einer Fluggesellschaft stellt unter den gegebenen Umständen eine zulässige Weisung nach Art. 321d OR dar. Die Kündigung einer Flight Attendant wegen beharrlicher Impfverweigerung ist nicht missbräuchlich nach Art. 336 Abs. 1 lit. a oder b OR.
+
+**EINSCHLÄGIG FÜR:** Art. 336 Abs. 1 lit. b OR i.V.m. Art. 321d OR
+
+---
+
+### [BGE 130 III 699](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-III-699_2004.html) — Verfassungsmässige Rechte bei Tendenzbetrieben
 
 **THEMA:** Verfassungsmässige Rechte / Tendenzbetrieb
 

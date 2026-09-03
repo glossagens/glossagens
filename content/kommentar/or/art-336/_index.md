@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 336 OR – Missbräuchliche Kündigung des Arbei
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-09-03
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Nachtrag BGer 4A_60/2026 und 4A_612/2025 zur Zulässigkeit der Kündigung bei Weigerung zur Covid-19-Impfung (kein Kündigungsmissbrauch)."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -57,15 +62,18 @@ Die Kündigung wegen einer **Persönlichkeitseigenschaft** (Alter, Geschlecht, N
 
 Kadermitarbeiter, die ihre Treuepflicht verletzen, fallen nicht unter den Schutz von lit. a, wenn die Kündigung auf der Zerstörung der Vertrauensgrundlage beruht ([BGE 127 III 86](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_127_III_86)).
 
-### Absatz 1 lit. b — Verfassungsmässige Rechte
+### Absatz 1 lit. b — Verfassungsmässige Rechte und Weisungsbefolgung
 
-Die Kündigung wegen Ausübung eines **verfassungsmässigen Rechts** (Meinungsäusserungsfreiheit, Streikrecht etc.) ist missbräuchlich, ausser:
-- die Rechtsausübung **verletzt eine Pflicht** aus dem Arbeitsvertrag, oder
-- sie **beeinträchtigt die Zusammenarbeit in wesentlichem Masse**.
+Die Kündigung wegen Ausübung eines **verfassungsmässigen Rechts** (Meinungsäusserungsfreiheit, persönliche Freiheit, Streikrecht etc.) ist missbräuchlich, ausser:
+- die Rechtsausübung **verletzt eine Pflicht** aus dem Arbeitsvertrag (Art. 321d Abs. 2 OR), oder
+- sie **beeinträchtigt die Zusammenarbeit im Betrieb in wesentlichem Masse**.
 
-Bei **Tendenzbetrieben** kann die Ausübung verfassungsmässiger Rechte stärker eingeschränkt werden, insb. für Arbeitnehmer mit erhöhter Treuepflicht ([BGE 130 III 699](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_130_III_699)).
+#### Kasuistik Impfobligatorium (BGer 4A_60/2026 und BGer 4A_612/2025)
+Verweigert eine Arbeitnehmerin (z.B. eine Flugbegleiterin) eine rechtmässige, betrieblich notwendige Weisung zur Covid-19-Impfung, beruft sie sich zwar auf ihre persönliche Freiheit und körperliche Unversehrtheit. Die Kündigung wegen beharrlicher Impfverweigerung ist jedoch **nicht missbräuchlich** nach Art. 336 Abs. 1 lit. a oder b OR: Wer sich in Kenntnis der Kündigungsfolge bewusst gegen die Befolgung einer verhältnismässigen Weisung entscheidet, verletzt eine wichtige vertragliche Pflicht und setzt selbst den Entlassungsgrund ([BGer 4A_60/2026 vom 30. Juni 2026, E. 4.4](https://bger-update.ch/zusammenfassung/33589/); [BGer 4A_612/2025 vom 27. Mai 2026](https://bger-update.ch/zusammenfassung/33586/)).
 
-Die Teilnahme an einem **rechtmässigen Streik** verletzt den Arbeitsvertrag nicht und kann daher nicht als missbräuchlicher Kündigungsgrund angeführt werden ([BGE 125 III 277](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_125_III_277)).
+Bei **Tendenzbetrieben** kann die Ausübung verfassungsmässiger Rechte stärker eingeschränkt werden, insb. für Arbeitnehmer mit erhöhter Treuepflicht ([BGE 130 III 699](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-III-699_2004.html)).
+
+Die Teilnahme an einem **rechtmässigen Streik** verletzt den Arbeitsvertrag nicht und kann daher nicht als missbräuchlicher Kündigungsgrund angeführt werden ([BGE 125 III 277](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-III-277_1999-07-06.html)).
 
 ### Absatz 1 lit. c — Vereitelung von Ansprüchen
 
