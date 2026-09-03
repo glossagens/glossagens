@@ -44,6 +44,12 @@ agent_verified: true
 
 ## II. Weitere Entscheide
 
+### **Einkommensermittlung bei Selbstständigen und Einbezug von Elternzuwendungen**
+* **Fundstelle**: [BGer 5A_281/2026 vom 18. August 2026](https://bger-update.ch/zusammenfassung/33610/) E. 3 & 4
+* **Sachverhalt & Kernaussage**: Streit um den Kindesunterhalt für ein aussereheliches Kind. Bei einem selbstständigen Vater mit stetig steigendem Ertrag darf auf das letzte zuverlässige Rechnungsjahr abgestellt werden. Erhebliche, regelmässige Zuwendungen der Eltern oder einer Familiengesellschaft (formell als «Vorschüsse» bezeichnet) dürfen ohne Willkür in die Leistungsfähigkeit des Vaters einbezogen werden, wenn sie tatsächlich zur Finanzierung des Lebensstandards dienen und eine Rückzahlungspflicht nicht glaubhaft ist.
+
+---
+
 ### **Zweck des Betreuungsunterhalts und Konkurrenz mit vorehelichen Pflichten**
 * **Fundstelle**: [BGE 148 III 353, E. 7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_III_353#e-7)
 * **Sachverhalt & Kernaussage**: Mit dem Betreuungsunterhalt soll die Differenz zwischen dem eigenen Einkommen und den anfallenden Lebenshaltungskosten abgegolten werden, die einem Elternteil dadurch entsteht, dass er infolge persönlicher Kinderbetreuung an einem Erwerb gehindert ist. Steht dieser Anspruch in Konkurrenz zu ehelichen Unterhaltspflichten, ist die gesetzliche Rangordnung zu beachten.

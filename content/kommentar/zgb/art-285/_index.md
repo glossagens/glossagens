@@ -57,6 +57,10 @@ revisions:
 1. **Stufe 1 (Bedarfs- und Ressourcenermittlung)**: Feststellung der Gesamteinkünfte beider Elternteile sowie der konkreten Bedarfe aller Familienmitglieder (ausgehend vom betreibungsrechtlichen bzw. familienrechtlichen Existenzminimum).
 2. **Stufe 2 (Mittelverteilung & Überschussverteilung)**: Deckung der Existenzminima in gesetzlicher Rangordnung und Verteilung eines allfälligen Überschusses nach Ermessen.
 
+**5a** **Einkommensermittlung bei Selbstständigen und Einbezug von Drittzuwendungen (BGer 5A_281/2026):**
+- **Selbstständige**: Massgebend ist der Nettoertrag; bei stetig steigenden Einnahmen darf das Gericht auf das letzte zuverlässige Rechnungsjahr abstellen, statt einen Dreijahresdurchschnitt zu bilden ([BGE 143 III 617 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-III-617_2017.html); [BGer 5A_281/2026 vom 18. August 2026, E. 3](https://bger-update.ch/zusammenfassung/33610/)).
+- **Freiwillige Eltern- und Familienzuwendungen**: Regelmässige und erhebliche finanzielle Zuwendungen von Eltern oder Familiengesellschaften (auch wenn formell als «Vorschüsse» oder «Darlehen» bezeichnet) können in die Leistungsfähigkeit des Unterhaltspflichtigen einbezogen werden, wenn sie tatsächlich den Lebensunterhalt finanzieren und eine Rückzahlungspflicht nicht glaubhaft gemacht wird ([BGer 5A_281/2026 E. 4](https://bger-update.ch/zusammenfassung/33610/); vgl. auch [BGE 128 III 161 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-128-III-161_2002.html)).
+
 ### Bedarfsermittlung (Barbedarf des Kindes)
 
 **6** Bei der Bedarfsermittlung bilden die Richtlinien für das betreibungsrechtliche Existenzminimum den Ausgangspunkt, wobei für jedes Kind ein Wohnkostenanteil und Fremdbetreuungskosten hinzuzurechnen sind ([BGE 147 III 265, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-7-2)). Der Barbedarf setzt sich zusammen aus:
