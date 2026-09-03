@@ -55,6 +55,13 @@ Zurück zum Kommentar: [Art. 28a IVG — Bemessung des Invaliditätsgrades](./)
 
 ## II. Weitere Entscheide
 
+### [BGer 9C_462/2025 vom 17.08.2026](https://bger-update.ch/zusammenfassung/33617/) — Keine doppelte Teilzeitgewichtung im BVG
+- **Thema**: Koordination mit der 2. Säule und Verfassungsmässigkeit
+- **Kernaussage**: Der vorsorgerechtliche Invaliditätsgrad bei Teilzeitbeschäftigten bemisst sich nach Herunterrechnung des Valideneinkommens auf das versicherte Teilzeitpensum. Eine darüber hinausgehende Multiplikation des Resultats mit dem Teilzeitfaktor ist unzulässig und verletzt Art. 8 Abs. 1 BV sowie Art. 9 BV.
+- **Einschlägig für**: Art. 28a Abs. 3 IVG i.V.m. Art. 23 BVG
+
+---
+
 ### [BGer 8C_65/2026 vom 06.08.2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) — Ausschluss der IVV-Verordnungsanalogie im UVG
 - **Thema**: Reichweite der Verordnungsdelegation nach Art. 28a Abs. 1 IVG
 - **Kernaussage**: Die Verordnungsdelegation nach Art. 28a Abs. 1 Satz 2 IVG ermächtigt den Bundesrat nur für die Invalidenversicherung. Die Korrekturinstrumente (Art. 26 und 26bis IVV) sind in der Unfallversicherung weder direkt noch analog anwendbar; es liegt ein qualifiziertes Schweigen des Gesetzgebers vor (E. 7).

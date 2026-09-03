@@ -100,6 +100,12 @@ Nach der Verurteilung der Schweiz durch den EGMR im Urteil *Di Trizio gegen Schw
 
 Versicherte, die nur teilzeitlich arbeiten und ihre restliche Zeit nicht im Aufgabenbereich verbringen (sondern z.B. in der Freizeit), fallen nicht unter die gemischte Methode von Abs. 3, sondern unter die reine Erwerbsmethode. Die Erwerbseinbusse ist proportional auf das Teilzeitpensum umzulegen (**[BGE 142 V 290 E. 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-142-V-290_2016.html)**).
 
+#### 4. Koordination mit der 2. Säule (BVG): Keine doppelte Teilzeitgewichtung (BGer 9C_462/2025)
+
+In der beruflichen Vorsorge (BVG) ist die IV-spezifische Gewichtung der gemischten Methode nach Art. 28a Abs. 3 IVG nicht anwendbar. Das Bundesgericht stellte im Leitentscheid **BGer 9C_462/2025 vom 17. August 2026** klar:
+- Der vorsorgerechtliche Invaliditätsgrad bemisst sich durch Herunterrechnung des Valideneinkommens auf das versicherte Teilzeitpensum ([BGE 144 V 63 E. 6.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-144-V-63_2018.html)).
+- Eine **zusätzliche Multiplikation mit dem Teilzeitfaktor** (wie in der IV-Praxis vor der EGMR-Wende) ist im BVG-Bereich unzulässig und verfassungswidrig: Sie verletzt Art. 8 Abs. 1 BV (Rechtsgleichheit) und Art. 9 BV (Willkürverbot), weil sie Teilzeitbeschäftigte überproportional benachteiligt und den Anspruch auf eine Invalidenrente bei Pensen unter 70 % faktisch ausschliessen würde ([BGer 9C_462/2025 E. 4.6](https://bger-update.ch/zusammenfassung/33617/)).
+
 ---
 
 ## Praxisfragen
