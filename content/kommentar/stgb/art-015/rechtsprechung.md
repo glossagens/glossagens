@@ -91,6 +91,13 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide
 
+### [BGer 6B_848/2025 vom 12. August 2026](https://bger-update.ch/zusammenfassung/33596/) E. 1.2–1.4 — Notwehr bei wechselseitigen Tätlichkeiten
+- **Thema**: Begründungspflicht bei Notwehrverneinung und Reziprozität von Schlägen und Beschimpfungen.
+- **Kernaussage**: Das Vorliegen einer Notwehrlage wird nicht bereits durch die blosse Wechselseitigkeit von Schlägen und Beschimpfungen ausgeschlossen. Die kantonale Instanz muss differenziert begründen, von wem der Angriff ausging, wer Verteidiger war, ob Verteidigungswille vorlag und ob die Abwehr angemessen war; eine pauschale Verneinung wegen Gegenseitigkeit verletzt Art. 112 Abs. 1 lit. b BGG.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 StGB, Art. 112 BGG.
+
+---
+
 ### [BGer 6B_251/2013 vom 24. Oktober 2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-251-2013_2013-10-24.html) E. 1.2 & 1.3 — Absichtsprovokation und Wechsel der Angreiferrolle bei Flucht
 - **Thema**: Ausschluss des Notwehrrechts bei Absichtsprovokation, Notwehr bei verschuldetem Vorverhalten und Rollenwechsel bei nacheilender Verfolgung.
 - **Kernaussage**: Bei Absichtsprovokation entfällt Art. 15 StGB gänzlich. Hat der Angegriffene den Angriff zwar verschuldet, aber nicht absichtlich provoziert, bleibt das Notwehrrecht eingeschränkt bestehen. Verlässt der ursprüngliche Täter den Tatort fluchtartig und wird er vom Opfer mit Waffen verfolgt («private Strafaktion»), ist der frühere Angriff beendet und der Verfolger handelt ohne Recht; der Flüchtende erlangt das Notwehrrecht gegen den Verfolger.
