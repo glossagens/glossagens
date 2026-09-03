@@ -55,7 +55,7 @@ revisions:
 
 ### III. Geltendmachung und Bezifferungspflicht (Abs. 2)
 
-**Rz. 9** Die Privatklägerschaft hat ihre Entschädigungsforderung bei der Strafbehörde zu beantragen, zu beziffern und zu belegen; kommt sie dieser Pflicht nicht nach, tritt die Strafbehörde auf den Antrag nicht ein (Abs. 2).
+**Rz. 9** Die Privatklägerschaft hat ihre Entschädigungsforderung bei der Strafbehörde zu beantragen, zu beziffern und zu belegen; kommt sie dieser Pflicht nicht nach, tritt die Strafbehörde auf den Antrag nicht ein (Abs. 2). Ein pauschales oder unbegründetes Entschädigungsbegehren ohne Nachweis des konkreten anwaltlichen Aufwands ist unzulässig ([BGer 6B_848/2025 vom 12. August 2026, E. 3](https://bger-update.ch/zusammenfassung/33596/)).
 
 ### IV. Praxisfragen
 

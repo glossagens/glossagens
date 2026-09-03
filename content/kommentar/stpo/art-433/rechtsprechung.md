@@ -45,6 +45,13 @@ revisions:
 
 ## II. Weitere Entscheide (BGer und Kantone)
 
+### [BGer 6B_848/2025 vom 12. August 2026](https://bger-update.ch/zusammenfassung/33596/) E. 3
+- **Thema**: Begründungspflicht bei Entschädigungsbegehren der Privatklägerschaft
+- **Kernaussage**: Das Begehren um Parteientschädigung nach Art. 433 StPO ist unzulässig, wenn es die gesetzliche Begründungs- und Substanziierungspflicht (Art. 433 Abs. 2 StPO i.V.m. Art. 42 Abs. 2 BGG) missachtet.
+- **Einschlägig für**: Abs. 2; Substanziierungspflicht
+
+---
+
 ### [BGer 6B_1046/2013 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1046_2013#e-2-3) (14. Mai 2014)
 - **Thema**: Begriff des Obsiegens im Straf- und Zivilpunkt
 - **Kernaussage**: Die Privatklägerschaft obsiegt nach Art. 433 Abs. 1 lit. a StPO, wenn im Falle der Strafklage die beschuldigte Person schuldig gesprochen und/oder wenn im Falle der Zivilklage die Zivilforderung geschützt wird.
