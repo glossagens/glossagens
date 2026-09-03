@@ -4,8 +4,13 @@ weight: 6
 date: 2026-07-03
 lastmod: 2026-07-03
 description: "Kommentar zu Art. 6 UVG: Versicherungsfall (Berufsunfall, Nichtberufsunfall); natürlicher und adäquater Kausalzusammenhang; Beweiswürdigung medizinischer Gutachten; Status quo ante."
-tags: ["UVG", "Unfallversicherung", "Kausalzusammenhang", "Berufsunfall", "Nichtberufsunfall", "Gutachten"]
-agent_verified: false
+agent_verified: true
+revisions:
+  - date: 2026-09-03
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Nachtrag BGer 8C_628/2025 zur Abgrenzung zwischen vorübergehender Aktivierung und richtunggebender Verschlimmerung bei Vorzuständen (Omarthrose)."
 ---
 
 ## Gesetzeswortlaut
@@ -48,7 +53,9 @@ agent_verified: false
 
 **8** **Ablösung durch Status quo ante** Die Leistungspflicht endet, wenn der Kausalzusammenhang mit dem Unfall gelöst ist — d.h. wenn der Versicherte den **Status quo ante** (Zustand vor dem Unfall) oder den **Status quo sine** (Zustand, wie er ohne Unfall bestünde) erreicht hat. Ab diesem Zeitpunkt ist nur noch die unfallunabhängige Grunderkrankung oder der Vorzustand leistungsrelevant.
 
-**9** **Vorbestehende degenerative Schäden** Besteht bereits vor dem Unfall ein degenerativer Schaden (z.B. Meniskusverschleiss, Bandscheibendegeneration), muss die SUVA gleichwohl leisten, solange der Unfall das Auftreten oder die Verstärkung der Symptome mitverursacht. Das Bundesgericht hat jedoch klargestellt, dass eine **bloss vorübergehende Reaktivierung** vorbestehender Beschwerden durch ein Trauma nicht zu einer dauerhaften Leistungspflicht führt: Wenn eine degenerative Meniskusverletzung nach 3–4 Wochen keine aktiven Unfallresiduen mehr aufweist und die Bildgebung (MRT) eine typische degenerative Läsion ohne unfallspezifische Befunde zeigt, ist die Kausalität mit dem Unfall aufgelöst (BGer 8C_571/2025 vom 19. Mai 2026, E. 3.2). Dies gilt gleichermassen für HWS-Distorsionen bei vorbestehenden Abnutzungserscheinungen der Halswirbelsäule ([BGer 8C_142/2026 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_8C_142/2026)).
+**9** **Vorbestehende degenerative Schäden und Zweitunfälle** Besteht bereits vor dem Unfall ein degenerativer Schaden (z.B. Meniskusverschleiss, Bandscheibendegeneration, Omarthrose), muss der Unfallversicherer gleichwohl leisten, solange der Unfall das Auftreten oder die Verstärkung der Symptome mitverursacht. Das Bundesgericht unterscheidet strikt zwischen:
+- **Vorübergehender Aktivierung**: Das Trauma lässt einen schmerzfreien Vorzustand vorübergehend symptomatisch werden. Nach klinischen Erfahrungswerten klingt eine blosse Aktivierung nach Tagen bis Wochen, spätestens nach drei Monaten ab. Zeigt die Bildgebung (MRT) keine entzündlichen posttraumatischen Veränderungen oder strukturellen Läsionen, ist der Status quo sine erreicht und die Leistungspflicht des Zweitversicherers erlischt ([BGer 8C_628/2025 vom 18. August 2026, E. 5.3–6.3](https://bger-update.ch/zusammenfassung/33608/); [BGer 8C_571/2025 vom 19. Mai 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-571-2025_2026-05-19.html)).
+- **Richtunggebender Verschlimmerung**: Der Unfall verändert den schicksalhaften Verlauf der degenerativen Erkrankung dauerhaft und beschleunigt den Schadenseintritt massgeblich. Nur in diesem Fall haftet der Unfallversicherer über das Abklingen der Akutphase hinaus für Spätfolgen wie Prothesenimplantationen ([BGer 8C_628/2025 E. 7.1](https://bger-update.ch/zusammenfassung/33608/); vgl. auch [BGE 129 V 177 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-177_2003.html)).
 
 **10** **Ablehnung von «post hoc ergo propter hoc»** Allein die zeitliche Abfolge («nach dem Unfall, also wegen des Unfalls») begründet keinen natürlichen Kausalzusammenhang. Das Bundesgericht lehnt die «post hoc ergo propter hoc»-Logik ausdrücklich ab: Die blosse Möglichkeit eines Kausalzusammenhangs reicht nicht aus — erforderlich ist der Beweis nach dem Beweismassstab der überwiegenden Wahrscheinlichkeit (BGE 142 V 325, zit. in BGer 8C_571/2025, E. 2.2).
 

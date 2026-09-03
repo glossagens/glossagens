@@ -57,6 +57,13 @@ revisions:
 
 ## Weitere Bundesgerichtsentscheide
 
+### [BGer 8C_628/2025 vom 18. August 2026](https://bger-update.ch/zusammenfassung/33608/)
+- **Thema**: Abgrenzung Aktivierung vs. richtunggebende Verschlimmerung bei Omarthrose
+- **Kernaussage**: Eine blosse Aktivierung einer vorbestehenden Omarthrose durch einen Zweitunfall klingt erfahrungsgemäss nach Tagen bis Wochen, spätestens nach drei Monaten ab. Fehlen im MRT posttraumatische entzündliche Veränderungen, ist der Status quo sine erreicht und der Zweitunfall stellt für eine spätere Schulterprothese eine blosse Gelegenheitsursache dar.
+- **Einschlägig für**: Abs. 1 (Vorzustand, Status quo sine, Mehrversicherer)
+
+---
+
 ### [BGer 8C_142/2026 vom 15. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.07.2026_8C_142/2026)
 - **Thema**: Status quo sine vel ante bei degenerativer Vorbelastung der Halswirbelsäule
 - **Kernaussage**: Zeigen bildgebende Untersuchungen (MRT) nach einem leichten Auffahrunfall ausschliesslich vorbestehende, degenerative Veränderungen und keine traumatischen Läsionen, darf der Unfallversicherer seine Leistungen einstellen, sobald die unfallbedingte Reizung abgeklungen ist (Erreichen des Status quo sine).
