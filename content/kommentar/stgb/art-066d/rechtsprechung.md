@@ -21,7 +21,14 @@ revisions:
 
 ## Leitentscheide (BGE und zur Publikation bestimmte BGer-Urteile)
 
-### 1. [BGer 7B_594/2024 vom 4. Juni 2026 E. 2.5](https://mcp.opencaselaw.ch/entscheid/7B_594/2024) (zur Publikation bestimmt)
+### 1. [BGer 7B_303/2026 vom 20. August 2026](https://bger-update.ch/zusammenfassung/33614/) (5er-Besetzung, zur Publikation bestimmt)
+- **Thema**: Materielle Rechtskraftsperre und Unbeachtlichkeit von Alttatsachen unter Art. 2 und 3 EMRK
+- **Kernaussage**: Die Ausnahme von der materiellen Rechtskraft bei unveräusserlichen und unverzichtbaren Grundrechten greift im Verfahren auf Aufschub des Vollzugs der Landesverweisung (Art. 66d StGB) grundsätzlich **nicht** durch. Behauptet der Betroffene Vollzugshindernisse (z.B. Herkunfts- oder Krankheitsrisiken), die bereits im Zeitpunkt des strafrechtlichen Sachurteils bestanden haben, und hat er das Strafurteil unangefochten in Rechtskraft erwachsen lassen, fehlt ihm die Beschwerdelegitimation zur Geltendmachung eines Vollzugsaufschubs.
+- **Einschlägig für**: Art. 66d Abs. 1 StGB; materielle Rechtskraft
+
+---
+
+### 2. [BGer 7B_594/2024 vom 4. Juni 2026 E. 2.5](https://mcp.opencaselaw.ch/entscheid/7B_594/2024) (zur Publikation bestimmt)
 - **Thema**: Kein Vollzugsaufschub gestützt auf Art. 8 EMRK / Art. 13 Abs. 1 BV (Ausschluss des Schutzes des Familienlebens)
 - **Kernaussage**: Art. 66d Abs. 1 lit. b StGB ist dahingehend auszulegen, dass im Vollstreckungsstadium der obligatorischen Landesverweisung Änderungen der Situation, die sich auf das neu entstandene Bestehen eines Familienlebens nach Art. 8 EMRK und Art. 13 Abs. 1 BV beziehen (z.B. Heirat, Geburt von Kindern), für sich allein **nicht** herangezogen werden können, um den Aufschub dieser Massnahme zu rechtfertigen. Die Bestimmung erfasst ausschliesslich zwingendes Völkerrecht (Art. 3 EMRK / Non-Refoulement).
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB
