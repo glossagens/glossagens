@@ -52,6 +52,13 @@ agent_verified: false
 
 ## Bundesgerichtsentscheide (nicht publiziert)
 
+### [BGer 7B_1210/2025 vom 21. August 2026](https://bger-update.ch/zusammenfassung/33619/)
+- **Thema**: Beschlagnahme von Leasingfahrzeugen; Beschwerdelegitimation (Leasingnehmer vs. Halter)
+- **Kernaussage**: Der Leasingnehmer eines zur Einziehung beschlagnahmten Motorfahrzeugs ist wegen des Entzugs des obligatorischen Nutzungsrechts zur Beschwerde legitimiert. Der blosse administrative Halter ohne eigene Nutzungsansprüche erleidet keinen rechtlichen Nachteil (Nichteintreten). Der Beschlagnahmerichter prüft die Einziehungsvoraussetzungen nach Art. 90a SVG nicht abschliessend.
+- **Einschlägig für**: Abs. 1 lit. d i.V.m. Art. 90a SVG; Beschwerdelegitimation
+
+---
+
 ### [BGer 6B_623/2025 vom 17. Dezember 2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_623_2025)
 - **Thema**: Verwertung beschlagnahmter Liegenschaft, Übergang zu lit. e
 - **Kernaussage**: Der Verwertungserlös wird gestützt auf aArt. 71 Abs. 3 StGB (bis Ende 2023) bzw. Art. 263 Abs. 1 lit. e StPO (seit 1.1.2024) zur Sicherung der Ersatzforderung mit Beschlag belegt.
