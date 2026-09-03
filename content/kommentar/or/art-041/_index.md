@@ -5,8 +5,13 @@ date: 2026-05-15
 lastmod: 2026-08-18
 description: "Kommentar zu Art. 41 OR: Die allgemeine Deliktshaftung — Schadenersatz bei widerrechtlicher Schadenszufügung und sittenwidriger Schädigung."
 tags: ["Haftpflicht", "Delikt", "Schadenersatz", "Widerrechtlichkeit", "Sittenwidrigkeit", "OR"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-09-03
+    by: "Glossagens Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Nachtrag BGer 4A_59/2026 zur Voraussehbarkeitsgrenze der Fahrlässigkeit bei alltäglichen Handlungen im Freizeitbereich."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -62,6 +67,8 @@ revisions:
 **10** **Vorsatz.** Verschulden umfasst Vorsatz (Absicht) und Fahrlässigkeit. Vorsatz liegt vor, wenn der Schädiger den Schadenseintritt will oder ihn zumindest in Kauf nimmt (Eventualvorsatz). Die Absicht im Sinne von Art. 41 Abs. 2 OR setzt ein Wissen und Wollen der Schädigung voraus, das über den Eventualvorsatz hinausgeht.
 
 **11** **Fahrlässigkeit.** Fahrlässigkeit im Sinne von Art. 41 Abs. 1 OR liegt vor, wenn der Schädiger die im Verkehr erforderliche Sorgfalt ausser acht lässt. Massstab ist die Sorgfalt eines ordentlichen und vorsichtigen Menschen in denselben Umständen (objektiver Sorgfaltsmassstab). Die Beweislast für das Verschulden trägt grundsätzlich der Geschädigte.
+
+**11a** **Voraussehbarkeitsgrenze bei alltäglichen Verrichtungen (BGer 4A_59/2026).** Eine Handlung, die im gewöhnlichen Lebenslauf typischerweise ungefährlich ist (wie das Wegziehen eines quer liegenden Astes von einem Wanderweg), begründet keine Sorgfaltspflichtverletzung, selbst wenn sie unter besonderen Umständen (z.B. weil der Ast unter unerkennbarer Spannung stand) zu schweren Kopfverletzungen eines Begleiters führt. Für die Beurteilung der Voraussehbarkeit ist auf die Perspektive einer durchschnittlichen Person ohne forstwirtschaftliches Sonderwissen abzustellen; dass auch andere Anwesende die Gefahr nicht erkannten und im Gefahrenbereich verharrten, bekräftigt das Fehlen eines Verschuldens ([BGer 4A_59/2026 vom 20. Mai 2026, E. 4.2–4.3](https://bger-update.ch/zusammenfassung/33585/)).
 
 ### V. Adäquater Kausalzusammenhang
 

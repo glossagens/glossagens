@@ -33,7 +33,8 @@ Zurück zum Kommentar: [Art. 41 OR — Haftpflicht aus unerlaubter Handlung](./)
 
 | Bezug | Jahr | Kurzbeschreibung | Erwägung |
 |-------|------|------------------|----------|
-|| BGE 123 III 110 | 1997 | Adäquanz als Generalklausel; richterliche Wertung nach Art. 4 ZGB *Kontextzitat: bestätigt richterliche Wertung, bezeichnet Adäquanz jedoch nicht ausdrücklich als Generalklausel*; unterschiedliche Adäquanzkriterien im Haftpflicht- und Sozialversicherungsrecht | E. 3 |
+| [BGer 4A_59/2026](https://bger-update.ch/zusammenfassung/33585/) | 20.05.2026 | Voraussehbarkeitsgrenze der Fahrlässigkeit bei alltäglichen Handlungen im Freizeitbereich (Wegräumen eines Astes vom Wanderweg); kein Verschulden ohne erkennbare Gefahr | E. 4.2 f. |
+| [BGE 123 III 110](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-123-III-110_1997.html) | 1997 | Adäquanz als Generalklausel; richterliche Wertung nach Art. 4 ZGB *Kontextzitat: bestätigt richterliche Wertung, bezeichnet Adäquanz jedoch nicht ausdrücklich als Generalklausel*; unterschiedliche Adäquanzkriterien im Haftpflicht- und Sozialversicherungsrecht | E. 3 |
 | BGE 131 III 12 | 2004 | Konstitutionelle Prädisposition bei der Schadensberechnung vs. Schadenersatzbemessung | E. 2 |
 
 ### C. Unterlassungshaftung
