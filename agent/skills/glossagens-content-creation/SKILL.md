@@ -476,6 +476,16 @@ revisions:
 ## Inhaltliche Grundsätze
 
 - **Primär Rechtsprechung**: BGE zuerst, dann nicht publizierte BGer-Entscheide, dann kantonale Rspr.
+- **BGE = BGer, keine Dublette**: Ein BGE ist ein BGer-Entscheid, den das Bundesgericht zur Publikation
+  in der Amtlichen Sammlung ausgewählt hat — nicht zwei verschiedene Entscheide. Der Urteilskopf jeder
+  BGE-Randnote nennt die zugrunde liegende Geschäftsnummer (z.B. „BGE 149 IV 42 … 6B_171/2022 vom 29.
+  November 2022"): dieselbe Entscheidung, zweimal referenzierbar. Nie die Geschäftsnummer als eigenen,
+  „bestätigenden" oder chronologisch späteren Entscheid neben dem BGE zitieren (z.B. „BGE X E. Y;
+  bestätigt in BGer Z") — das erzeugt eine Schein-Bestätigung durch Selbstzitat und ist zudem oft
+  chronologisch unsinnig, da BGE-Bandnummern dem Publikationsjahr folgen, nicht dem Urteilsdatum.
+  Ist ein Entscheid als BGE publiziert, **ausschliesslich aus dem BGE zitieren** (E.-Nummern und Regeste
+  sind dort massgeblich); die Geschäftsnummer nur nennen, wenn keine BGE-Fundstelle existiert, oder um
+  bei „nicht publ. in: BGE X" auf eine in der amtlichen Sammlung fehlende Erwägung zu verweisen.
 - **Materialien**: Einarbeiten wenn sie der Rspr. etwas hinzufügen oder keine Praxis existiert
 - **Lehre**: Nur wenn keine Rspr. existiert oder eine Kontroverse dokumentiert werden muss
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
