@@ -25,7 +25,7 @@ revisions:
 
 ### BGer 8C_254/2025 — Analoge Anwendung von Art. 26bis Abs. 3 IVV im UVG-Bereich
 
-[BGer 8C_254/2025](https://mcp.opencaselaw.ch/entscheid/bger_8C_254_2025) (23. Juni 2026, 5er-Besetzung, Publikation vorgesehen) — **Leitentscheid zur analogen Anwendung der 10 %- und 20 %-Abzüge nach Art. 26bis Abs. 3 IVV im Bereich der Unfallversicherung**. Das Bundesgericht befasste sich erstmals mit der Frage, ob die 10 %- bzw. 20 %-Abzüge, die in der IV-Verordnung für das Invalideneinkommen (statistisches Einkommen) eingeführt wurden, auch im UVG-Bereich gelten. Das Tessiner kantonale Verwaltungsgericht hatte diese Norm analog angewandt und ein Invalideneinkommen von Fr. 61'376.80 (Valideneinkommen Fr. 70'739.95 → Invaliditätsgrad 13 %) festgelegt.
+[BGer 8C_254/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-254-2025_2026-06-23.html) (23. Juni 2026, 5er-Besetzung, Publikation vorgesehen) — **Leitentscheid zur analogen Anwendung der 10 %- und 20 %-Abzüge nach Art. 26bis Abs. 3 IVV im Bereich der Unfallversicherung**. Das Bundesgericht befasste sich erstmals mit der Frage, ob die 10 %- bzw. 20 %-Abzüge, die in der IV-Verordnung für das Invalideneinkommen (statistisches Einkommen) eingeführt wurden, auch im UVG-Bereich gelten. Das Tessiner kantonale Verwaltungsgericht hatte diese Norm analog angewandt und ein Invalideneinkommen von Fr. 61'376.80 (Valideneinkommen Fr. 70'739.95 → Invaliditätsgrad 13 %) festgelegt.
 
 **Zentrale Aussagen**:
 
@@ -37,21 +37,21 @@ revisions:
 
 4. **BGE 150 V 410 als Hintergrund**: In BGE 150 V 410 hatte das Bundesgericht die bisherige Praxis (die den parallelismo dei redditi und die deduzione sociale im IV-Bereich anwandte) als nicht mehr haltbar bezeichnet und eine Korrektur gefordert. Die Revision von Art. 26bis IVV war die Umsetzung dieser Kritik.
 
-5. **BGer 8C_188/2026** bestätigt diesen Leiturteil erneut: Das Tessiner kantonale Verwaltungsgericht hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest ([BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bger_8C_188_2026#e-7-2)).
+5. **BGer 8C_188/2026** bestätigt diesen Leiturteil erneut: Das Tessiner kantonale Verwaltungsgericht hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest ([BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-188-2026_2026-08-06.html)).
 
 ## II. Leitentscheide
 
 ### BGE 125 V 351 — Beweiswert medizinischer Gutachten
 
-[BGE 125 V 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_351) (14. Juni 1999) — Grundlagenentscheid zur Beweiswürdigung medizinischer Gutachten im Sozialversicherungsrecht. Ein Parteigutachten besitzt nicht den gleichen Rang wie ein vom Gericht oder vom Unfallversicherer nach dem vorgegebenen Verfahren eingeholtes Gutachten. Das Bundesgericht präzisierte die Anforderungen an die Begutachtung (Qualifikation des Gutachters,vollständige Aktenkenntnis, methodische Transparenz, Berücksichtigung der Diagnosen und Prognosen).
+[BGE 125 V 351](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-125-V-351_1999-06-14.html) (14. Juni 1999) — Grundlagenentscheid zur Beweiswürdigung medizinischer Gutachten im Sozialversicherungsrecht. Ein Parteigutachten besitzt nicht den gleichen Rang wie ein vom Gericht oder vom Unfallversicherer nach dem vorgegebenen Verfahren eingeholtes Gutachten. Das Bundesgericht präzisierte die Anforderungen an die Begutachtung (Qualifikation des Gutachters,vollständige Aktenkenntnis, methodische Transparenz, Berücksichtigung der Diagnosen und Prognosen).
 
 ### BGE 134 V 231 — Beweiswert diagnostischer Methoden (fMRT, Schleudertrauma)
 
-[BGE 134 V 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_231) (26. Mai 2008) — Eine medizinisch-diagnostische Methode muss **wissenschaftlich anerkannt** sein, damit der mit ihr erhobene Befund eine zuverlässige Beurteilungsgrundlage bietet. Die funktionelle Magnetresonanztomographie (fMRT) genügt diesem Standard für die Diagnose eines Schleudertraumas. Das Bundesgericht klärte die Anforderungen an die wissenschaftliche Anerkennung einer medizinischen Methode.
+[BGE 134 V 231](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-231_2008.html) (26. Mai 2008) — Eine medizinisch-diagnostische Methode muss **wissenschaftlich anerkannt** sein, damit der mit ihr erhobene Befund eine zuverlässige Beurteilungsgrundlage bietet. Die funktionelle Magnetresonanztomographie (fMRT) genügt diesem Standard für die Diagnose eines Schleudertraumas. Das Bundesgericht klärte die Anforderungen an die wissenschaftliche Anerkennung einer medizinischen Methode.
 
 ### BGE 115 V 133 — Adäquater Kausalzusammenhang
 
-[BGE 115 V 133](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_V_133) (16. Juni 1989) — Präzisierung der Rechtsprechung zum adäquaten Kausalzusammenhang (Art. 6 und 18 UVG). Das Bundesgericht entwickelte die Kriterien, nach denen ein Unfall als adäquate Ursache eines Gesundheitsschadens zu qualifizieren ist — insbesondere die Kriterien der Unterbrechung des Kausalzusammenhangs und der atypischen Entwicklung. Die Rechtsprechung wurde später in BGE 113 V 307 weiterentwickelt.
+[BGE 115 V 133](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-115-V-133_1989-06-16.html) (16. Juni 1989) — Präzisierung der Rechtsprechung zum adäquaten Kausalzusammenhang (Art. 6 und 18 UVG). Das Bundesgericht entwickelte die Kriterien, nach denen ein Unfall als adäquate Ursache eines Gesundheitsschadens zu qualifizieren ist — insbesondere die Kriterien der Unterbrechung des Kausalzusammenhangs und der atypischen Entwicklung. Die Rechtsprechung wurde später in BGE 113 V 307 weiterentwickelt.
 
 ### BGE 122 V 157 — Anspruch auf Beizug externer Gutachten
 
@@ -67,7 +67,7 @@ revisions:
 
 ### BGer 8C_188/2026 — Bestätigung: Kein IV-Abzug im UVG (Art. 26bis Abs. 3 OAI nicht analog anwendbar)
 
-[BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bger_8C_188_2026#e-7-2) (3er-Besetzung, Abweisung) — **Bestätigung des Leiturteils 8C_254/2025**: Das Bundesgericht stellt klar, dass Art. 26 und Art. 26bis Abs. 3 OAI (Sozialabzug und Einkommensparallelisierung) im Bereich der Unfallversicherung nicht analog anwendbar sind. Die Vorinstanz hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest.
+[BGer 8C_188/2026 vom 6. August 2026, E. 7.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-188-2026_2026-08-06.html) (3er-Besetzung, Abweisung) — **Bestätigung des Leiturteils 8C_254/2025**: Das Bundesgericht stellt klar, dass Art. 26 und Art. 26bis Abs. 3 OAI (Sozialabzug und Einkommensparallelisierung) im Bereich der Unfallversicherung nicht analog anwendbar sind. Die Vorinstanz hatte den 10%-Abzug analog angewandt; das Bundesgericht hob dies auf und setzte den Invaliditätsgrad auf 25 % (statt 33 %) fest.
 
 - **Thema**: Analoge Anwendung von Art. 26bis Abs. 3 OAI im UVG
 - **Kernaussage**: Art. 26 und 26bis Abs. 3 OAI sind im UVG-Bereich nicht analog anwendbar; der 10%-Abzug vom statistisch ermittelten Invalideneinkommen entfällt. Die durch das kantonale Gericht vorgenommene analoge Anwendung ist rechtswidrig.
@@ -77,7 +77,7 @@ revisions:
 
 ### BGer 8C_65/2026 — Konsolidierung: Qualifiziertes Schweigen schliesst IVV-Analogie im UVG aus
 
-[BGer 8C_65/2026 vom 6. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) (publiziert 31. August 2026, Gutheissung der SUVA-Beschwerde) — **Konsolidierung und verfassungsrechtliche Absicherung von 8C_254/2025**:
+[BGer 8C_65/2026 vom 6. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-65-2026_2026-08-06.html) (publiziert 31. August 2026, Gutheissung der SUVA-Beschwerde) — **Konsolidierung und verfassungsrechtliche Absicherung von 8C_254/2025**:
 
 - **Thema**: Ausschluss der Parallelisierung (Art. 26 IVV) und des 10 %-Pauschalabzugs (Art. 26bis Abs. 3 IVV) im UVG-Einkommensvergleich.
 - **Kernaussage**: Die Korrekturinstrumente der IVV finden im UVG weder direkt noch analog Anwendung. Es fehlt an einer echten Gesetzeslücke: Der bewusste Verzicht des Gesetzgebers auf eine entsprechende Übertragung auf das UVG stellt ein qualifiziertes Schweigen dar (E. 7.1 & 7.4.1). Die 10 %-Schwelle nach Art. 18 Abs. 1 UVG verbietet es, durch Pauschalabzüge Marginalrenten zu generieren (E. 7.4.5). Die verfassungsrechtliche Rüge einer Verletzung der Rechtsgleichheit (Art. 8 BV) ist unbegründet, da sachliche Unterschiede zwischen den Zweigen bestehen (E. 7 am Ende).
@@ -87,11 +87,11 @@ revisions:
 
 ### BGer 8C_165/2026 — Beweiswert unvollständiger Gutachten, Status quo sine, Integritätsentschädigung und Leistungseinstellung
 
-[BGer 8C_165/2026 vom 4. August 2026, E. 4.4–4.6](https://mcp.opencaselaw.ch/entscheid/bger_8C_165_2026#e-4-4) (3er-Besetzung, Abweisung) — **Präzisierung zum Beweiswert medizinischer Gutachten und zum Status quo sine**.
+[BGer 8C_165/2026 vom 4. August 2026, E. 4.4–4.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-165-2026_2026-08-04.html) (3er-Besetzung, Abweisung) — **Präzisierung zum Beweiswert medizinischer Gutachten und zum Status quo sine**.
 
-- **Thema 1 — Beweiswert**: Versicherungsmedizinische Beurteilungen, die entscheidrelevante MRI-Befunde nicht würdigen, haben stark verminderten Beweiswert und sind als unvollständig und mangelhaft zu qualifizieren (E. 4.5; vgl. [8C_143/2024](https://mcp.opencaselaw.ch/entscheid/bger_8C_143_2024) E. 4.2, [BGE 134 V 231](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_V_231) E. 5.1, [BGE 125 V 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_V_351) E. 3a).
-- **Thema 2 — Status quo sine**: Der natürliche Kausalzusammenhang kann dahinfallen, wenn ein degenerativer Vorzustand den unfallbedingten Schaden überlagert. Die Feststellung des Status quo sine beruht auf einer sorgfältigen Gesamtwürdigung des klinischen und bildgebenden Verlaufs (E. 4.4; vgl. [BGE 150 V 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_V_188) E. 4.2).
-- **Thema 3 — Integritätsentschädigung und Leistungseinstellung**: Eine bereits zugesprochene Integritätsentschädigung steht der nachträglichen Einstellung von Leistungen nicht entgegen. Der Unfallversicherer kann die Leistungspflicht ex nunc et pro futuro einstellen, ohne den Rückkommenstitel der Wiedererwägung zu benötigen (E. 4.6; vgl. [BGE 130 V 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_380) E. 2.3.1, [BGE 150 V 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_V_188) E. 7.2). Eine rückwirkende Einstellung ist möglich, sofern keine Leistungen zurückgefordert werden.
+- **Thema 1 — Beweiswert**: Versicherungsmedizinische Beurteilungen, die entscheidrelevante MRI-Befunde nicht würdigen, haben stark verminderten Beweiswert und sind als unvollständig und mangelhaft zu qualifizieren (E. 4.5; vgl. [8C_143/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-143-2024_2026-01-27.html) E. 4.2, [BGE 134 V 231](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-231_2008.html) E. 5.1, [BGE 125 V 351](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-125-V-351_1999-06-14.html) E. 3a).
+- **Thema 2 — Status quo sine**: Der natürliche Kausalzusammenhang kann dahinfallen, wenn ein degenerativer Vorzustand den unfallbedingten Schaden überlagert. Die Feststellung des Status quo sine beruht auf einer sorgfältigen Gesamtwürdigung des klinischen und bildgebenden Verlaufs (E. 4.4; vgl. [BGE 150 V 188](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-188_2024.html) E. 4.2).
+- **Thema 3 — Integritätsentschädigung und Leistungseinstellung**: Eine bereits zugesprochene Integritätsentschädigung steht der nachträglichen Einstellung von Leistungen nicht entgegen. Der Unfallversicherer kann die Leistungspflicht ex nunc et pro futuro einstellen, ohne den Rückkommenstitel der Wiedererwägung zu benötigen (E. 4.6; vgl. [BGE 130 V 380](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_380) E. 2.3.1, [BGE 150 V 188](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-188_2024.html) E. 7.2). Eine rückwirkende Einstellung ist möglich, sofern keine Leistungen zurückgefordert werden.
 - **Einschlägig für**: Art. 18 UVG (Kausalzusammenhang, Beweiswert), Art. 10 UVG (Integritätsentschädigung)
 
 ---
@@ -100,7 +100,7 @@ revisions:
 
 ### BGer 8C_17/2026 — Kausalzusammenhang in der Unfallversicherung
 
-[BGer 8C_17/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_17_2026) (29. Juni 2026) — Gutheissung einer Beschwerde, die den adäquaten Kausalzusammenhang zwischen einem Unfall und einem Gesundheitsschaden betraf. Das Bundesgericht bestätigte seine Rechtsprechung, dass der natürliche Kausalzusammenhang zu bejahen ist, wenn der Unfall eine ursächliche Bedingung für den Gesundheitsschaden war, und der adäquate Kausalzusammenhang nach den etablierten Kriterien zu prüfen ist.
+[BGer 8C_17/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-17-2026_2026-06-29.html) (29. Juni 2026) — Gutheissung einer Beschwerde, die den adäquaten Kausalzusammenhang zwischen einem Unfall und einem Gesundheitsschaden betraf. Das Bundesgericht bestätigte seine Rechtsprechung, dass der natürliche Kausalzusammenhang zu bejahen ist, wenn der Unfall eine ursächliche Bedingung für den Gesundheitsschaden war, und der adäquate Kausalzusammenhang nach den etablierten Kriterien zu prüfen ist.
 
 ### BGer 8C_652/2025 — Kausalzusammenhang (Unfallversicherung)
 

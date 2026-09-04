@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 36 UVG"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-08-15
+lastmod: 2026-09-04
 description: "Übersicht der massgeblichen Entscheide zu Art. 36 UVG (Zusammentreffen verschiedener Schadensursachen; Kürzung bei Vorzuständen; status quo sine vel ante)"
 tags: ["Rechtsprechung", "UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Kürzung"]
 agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Verifikation gegen entscheidsuche.ch. ENTFERNT: Eintrag zu BGer 8C_277/2026 — der Entscheid existiert, ist aber ein einzelrichterlicher Nichteintretensentscheid vom 28. Juli 2026 (nicht 14.08.2026) betreffend Ergaenzungsleistungen zur AHV/IV; die ihm zugeschriebene Aussage zum Einkommensvergleich im UVG ist frei erfunden. KORRIGIERT: Kernaussage zu BGer 8C_17/2026 — sie behauptete eine rechtmaessige Leistungseinstellung, waehrend das Bundesgericht die Beschwerde gutgeheissen und den Einspracheentscheid aufgehoben hat (das Feld «Verfahrensergebnis: Gutheissung» stand bereits richtig daneben); Sachverhalt und Erwaegungen neu aus dem Volltext. Erstmals Revisionsvermerk gesetzt."
 ---
 
 # Rechtsprechungssammlung zu Art. 36 UVG
@@ -16,7 +22,8 @@ agent_verified: false
 - **Vorinstanz**: Tribunal cantonal du canton de Vaud, Cour des assurances sociales
 - **Verfahrensergebnis**: Gutheissung (Leitentscheid, Zusammenfassung markiert)
 - **Thema**: Assurance-accidents (lien de causalité); status quo sine bei vorbestehender chronischer Sprunggelenksinstabilität; natürlicher und adäquater Kausalzusammenhang
-- **Kernaussage**: Der Versicherter erlitt einen Arbeitsunfall mit Quetschung des rechten Beins und Muskelfaserriss. Eine vorbestehende chronische bilaterale Sprunggelenksinstabilität bei wiederholten Verstauchungen hatte vermutlich die vollständige funktionelle Erholung der Muskelläsion verhindert. Das Bundesgericht bestätigte, dass der Unfall die vorbestehenden Sprunggelenksbeschwerden nicht aggraviert hatte und der status quo sine mit Abschluss der Heilbehandlung erreicht war, sodass die Leistungseinstellung durch die SUVA rechtmässig war. Es bestätigte die Praxis, wonach bei körperlichen Verletzungen die adäquate Kausalität sich weitgehend mit der natürlichen Kausalität deckt (BGE 123 V 102; 122 V 417).
+- **Sachverhalt**: Einem 1993 geborenen Maurer fiel am 13. Mai 2022 auf einer Baustelle eine rund 700 kg schwere Metallplatte auf das rechte Bein (Quetschung des Unterschenkels, Riss der Peronealmuskulatur), bei anamnestisch wiederholten Verstauchungen beider Sprunggelenke. Der Kreisarzt hielt fest, ein traumatischer Muskelriss heile funktionell in höchstens vier Monaten aus und die vorbestehende chronische bilaterale Sprunggelenksinstabilität habe die vollständige Erholung verhindert; der Unfall habe den Vorzustand am Sprunggelenk nicht verschlimmert. Die Suva stellte die Leistungen per 31. März 2024 ein.
+- **Kernaussage**: Das Bundesgericht **hiess die Beschwerde gut** und hob das kantonale Urteil sowie den Einspracheentscheid auf. Der Verweis des Kreisarztes auf die «übliche» Heilungsdauer eines einfachen traumatischen Muskelrisses genügt nicht, um das Dahinfallen des Kausalzusammenhangs zu belegen; da der unfallkausale Muskelriss unbestrittenermassen nicht ausgeheilt war, dauert die Unfallfolge an. Die Beweislast für das Dahinfallen der Kausalität trägt, wer die Aufhebung des Anspruchs geltend macht. Rückweisung an die Suva; diese trug Gerichtskosten und Fr. 3'000.– Parteientschädigung (E. 3.3, 4.4).
 - **Einschlägig für**: Art. 36 Abs. 1 und 2 UVG; status quo sine; Abgrenzung Unfallfolge vs. Vorzustand
 
 ---
@@ -113,11 +120,5 @@ agent_verified: false
 - **Kernaussage**: Beurteilung des status quo sine und der Leistungseinstellung.
 - **Einschlägig für**: Art. 36 Abs. 1 UVG; status quo sine
 
-### [BGer 8C_277/2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_277_2026) vom 14.08.2026
-- **Thema**: Ergänzungsleistung zur AHV/IV; OAI-Korrekturmechanismen nicht analog im UVG
-- **Kernaussage**: Bestätigung: Die im Rahmen der Obligatorischen Krankenversicherung (OAI/KVG) entwickelten Korrekturmechanismen für den Vergleich von Einkommen vor und nach dem Versicherungsfall finden im UVG keine analoge Anwendung. Der soziale Abzug und der Parallelismus der verglichenen Einkommen bleiben im UVG massgeblich. Das Bundesgericht stellt klar, dass die OAI-spezifischen Korrekturen auf der besonderen Systematik des KVG beruhen und nicht auf das UVG übertragbar sind.
-- **Einschlägig für**: Art. 36 UVG; Abgrenzung zu OAI/KVG; sozialer Abzug; Einkommensvergleich
-
----
 
 *Letzte Aktualisierung: 15.8.2026*

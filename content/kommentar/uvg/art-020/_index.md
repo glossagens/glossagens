@@ -7,6 +7,11 @@ description: "Kommentar zu Art. 20 UVG: Höhe der Invalidenrente, Komplementärr
 tags: ["UVG", "Invalidenrente", "Komplementärrente", "versicherter Verdienst", "Alterskürzung", "Überentschädigung", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Verifikationslauf gegen entscheidsuche.ch. Inhaltlich keine Beanstandung: BGE 149 V 129, 147 V 213, 145 V 75, 146 V 364, 130 V 39, 115 V 416, 119 V 484, 122 V 338, 122 V 343, 123 V 133, 124 V 301 und 126 V 506 existieren und decken die ihnen zugeschriebenen Aussagen. KORRIGIERT: 15 von 22 Erwaegungsankern zeigten ins Leere — Buchstaben-Erwaegungen aelterer BGE (#consideration_4.b, 3.c) sind auf entscheidsuche nur unter der Hauptnummer verankert, Top-Level-Anker brauchen den Schlusspunkt (#consideration_5.), und BGer-Dokumente tragen ueberhaupt keine consideration-Anker; letztere wurden entfernt. Saemtliche verbleibenden Anker sind maschinell gegen das Zieldokument geprueft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -53,7 +58,7 @@ revisions:
 - **Gleichartige ausländische Renten (Abs. 2bis)**: Seit 1. Januar 2017 werden auch Renten ausländischer Sozialversicherungen koordiniert, um eine ungerechtfertigte Doppelbegünstigung oder Unterdeckung im internationalen Verhältnis zu vermeiden.
 - **Kürzung beim Erreichen des Referenzalters (Abs. 2ter und 2quater)**: Ebenfalls per 1. Januar 2017 (präzisiert per 1. Januar 2024 durch das Bundesgesetz über die Stabilisierung der AHV [AHV 21]) eingeführt, soll die Überversorgung im Rentenalter dämpfen, wenn der Unfall erst nach dem 45. Altersjahr erlitten wurde.
 
-**2** **Systematischer Kontext:** Art. 20 UVG setzt den Anspruchsgrund nach [Art. 18 UVG](../art-018/) voraus. Die Bemessungsgrundlage (der versicherte Verdienst) richtet sich nach Art. 15 UVG und Art. 22–24 UVV. Die Norm geht als Spezialregelung den allgemeinen Kürzungsregeln des ATSG vor ([BGE 149 V 129 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-V-129_2023.html#consideration_5)).
+**2** **Systematischer Kontext:** Art. 20 UVG setzt den Anspruchsgrund nach [Art. 18 UVG](../art-018/) voraus. Die Bemessungsgrundlage (der versicherte Verdienst) richtet sich nach Art. 15 UVG und Art. 22–24 UVV. Die Norm geht als Spezialregelung den allgemeinen Kürzungsregeln des ATSG vor ([BGE 149 V 129 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-V-129_2023.html#consideration_5.)).
 
 ---
 
@@ -66,8 +71,8 @@ Bei einer Teilinvalidität von beispielsweise 50 % beträgt die Rente mithin $50
 
 #### 2. Massgebender versicherter Verdienst und Bindungswirkung
 **4** Als versicherter Verdienst gilt gemäss Art. 15 Abs. 1 und 2 UVG der innerhalb eines Jahres vor dem Unfall bezogene Lohn bis zum gesetzlichen Höchstbetrag (Art. 22 Abs. 1 UVV). 
-- Nach gefestigter bundesgerichtlicher Rechtsprechung bleibt der bei Rentenbeginn festgesetzte versicherte Verdienst für die **gesamte Dauer des Rentenanspruchs grundsätzlich verbindlich** und wird bei einer späteren Rentenrevision wegen Veränderung des Invaliditätsgrades (Art. 17 Abs. 1 ATSG) nicht mehr neu festgesetzt ([BGE 147 V 213 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-147-V-213_2021.html#consideration_3.4.4); [BGE 119 V 484 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-484_1993-08-25.html#consideration_4.b)).
-- Bei Lohnänderungen im Vorjahr ist auf den Verordnungsstand im Zeitpunkt des Unfalls abzustellen ([BGE 123 V 133 E. 2b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-123-V-133_1997-09-08.html#consideration_2.b)).
+- Nach gefestigter bundesgerichtlicher Rechtsprechung bleibt der bei Rentenbeginn festgesetzte versicherte Verdienst für die **gesamte Dauer des Rentenanspruchs grundsätzlich verbindlich** und wird bei einer späteren Rentenrevision wegen Veränderung des Invaliditätsgrades (Art. 17 Abs. 1 ATSG) nicht mehr neu festgesetzt ([BGE 147 V 213 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-147-V-213_2021.html#consideration_3.4.4); [BGE 119 V 484 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-484_1993-08-25.html#consideration_4.)).
+- Bei Lohnänderungen im Vorjahr ist auf den Verordnungsstand im Zeitpunkt des Unfalls abzustellen ([BGE 123 V 133 E. 2b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-123-V-133_1997-09-08.html#consideration_2.)).
 
 ---
 
@@ -83,19 +88,19 @@ Die Komplementärrente ist nach oben doppelt begrenzt:
 #### 2. Vorrang vor Art. 69 ATSG und Ausschluss von Anwaltskosten
 **6** Art. 20 Abs. 2 UVG enthält eine ausdrückliche Ausnahme von der allgemeinen sozialversicherungsrechtlichen Überentschädigungsordnung des Art. 69 ATSG:
 - Während Art. 69 Abs. 2 ATSG vorsieht, dass bei der Überentschädigungsberechnung anrechenbare Kosten (wie Anwaltskosten zur Durchsetzung von Ansprüchen) zu berücksichtigen sind, gilt dies für die Komplementärrente nach Art. 20 Abs. 2 UVG **nicht**.
-- Das Bundesgericht hat in [BGE 149 V 129 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-V-129_2023.html#consideration_5) entschieden, dass das Komplementärrentensystem der Unfallversicherung als in sich geschlossene Spezialordnung abschliessend ist und keinen Raum für den Abzug von Anwaltskosten lässt.
+- Das Bundesgericht hat in [BGE 149 V 129 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-V-129_2023.html#consideration_5.) entschieden, dass das Komplementärrentensystem der Unfallversicherung als in sich geschlossene Spezialordnung abschliessend ist und keinen Raum für den Abzug von Anwaltskosten lässt.
 
 #### 3. Festsetzungs- und Anpassungsmodalitäten
 **7** Die Komplementärrente wird **beim erstmaligen Zusammentreffen** mit der IV- oder AHV-Rente festgesetzt (Satz 2).
 - **Statischer Grundsatz**: Nachträgliche allgemeine Rentenanpassungen oder Lohnsteigerungen führen grundsätzlich nicht zu einer Neuberechnung der Komplementärrente.
 - **Gesetzliche Anpassungstatbestände (Satz 3)**: Eine Anpassung erfolgt zwingend, wenn:
   1. die AHV-Rente infolge eines **Aufschubs oder Vorbezugs** geändert wird (eingefügt durch AHV 21 per 01.01.2024);
-  2. die **für Familienangehörige bestimmten Teile** der IV- oder AHV-Rente (namentlich Kinder- oder Zusatzrenten) hinzutreten, wegfallen oder sich ändern ([BGE 122 V 338 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-338_1996-06-28.html#consideration_4.b); [BGE 145 V 75 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-145-V-75_2019.html#consideration_3.2); [BGer 8C_172/2017 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-172-2017_2018-04-27.html#consideration_3.3)).
-  3. sich der der UVG-Rente zugrunde liegende **Invaliditätsgrad ändert** (Art. 33 Abs. 1 lit. b UVV; [BGE 122 V 343 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-343_1996-08-19.html#consideration_3)).
-- Bei Neufestsetzung wegen Änderung von Familienrenten ist auf die Verhältnisse im Zeitpunkt des erstmaligen Zusammentreffens abzustellen (*ex tunc*-Berechnung, [BGE 122 V 338 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-338_1996-06-28.html#consideration_4.c)).
+  2. die **für Familienangehörige bestimmten Teile** der IV- oder AHV-Rente (namentlich Kinder- oder Zusatzrenten) hinzutreten, wegfallen oder sich ändern ([BGE 122 V 338 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-338_1996-06-28.html#consideration_4.); [BGE 145 V 75 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-145-V-75_2019.html#consideration_3.2); [BGer 8C_172/2017 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-172-2017_2018-04-27.html)).
+  3. sich der der UVG-Rente zugrunde liegende **Invaliditätsgrad ändert** (Art. 33 Abs. 1 lit. b UVV; [BGE 122 V 343 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-343_1996-08-19.html#consideration_3.)).
+- Bei Neufestsetzung wegen Änderung von Familienrenten ist auf die Verhältnisse im Zeitpunkt des erstmaligen Zusammentreffens abzustellen (*ex tunc*-Berechnung, [BGE 122 V 338 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-338_1996-06-28.html#consideration_4.)).
 
 #### 4. Teuerungszulagen
-**8** Teuerungszulagen werden gemäss Art. 34 UVG und Art. 20 Abs. 2 UVG **allein auf der tatsächlich ausgerichteten Komplementärrente** berechnet und nicht auf der theoretischen Grundrente nach Abs. 1 ([BGE 119 V 484 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-484_1993-08-25.html#consideration_3)).
+**8** Teuerungszulagen werden gemäss Art. 34 UVG und Art. 20 Abs. 2 UVG **allein auf der tatsächlich ausgerichteten Komplementärrente** berechnet und nicht auf der theoretischen Grundrente nach Abs. 1 ([BGE 119 V 484 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-484_1993-08-25.html#consideration_3.)).
 
 ---
 
@@ -134,7 +139,7 @@ Die Rechtsprechung hat die Anwendung von Art. 20 UVG in zahlreichen konkreten Fa
 
 #### 2. Volle Anrechnung der IV-Kinderrente bei volljährigen Kindern in Zweitausbildung
 **14** **Sachverhalt und Streitfrage:** Ein unfallversicherter Vater bezog eine Komplementärrente. Für seine 22-jährige Tochter in Zweitausbildung richtete die IV eine Kinderrente aus. Der Vater wandte ein, zivilrechtlich bestehe nach Art. 277 Abs. 2 ZGB keine Unterhaltspflicht mehr, weshalb die IV-Kinderrente bei seiner UVG-Komplementärrente nicht als einkommensmindernd angerechnet werden dürfe.
-- **Entscheidung:** Das Bundesgericht stellte klar: Die fehlende zivilrechtliche Unterhaltspflicht rechtfertigt kein Abweichen von der vollen Anrechnung der IV-Kinderrente. Massgebend ist allein der sozialversicherungsrechtliche Zweck der Kinderrente zur Deckung des Familienunterhalts ([BGE 145 V 75 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-145-V-75_2019.html#consideration_5.2); [BGer 8C_630/2018 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-630-2018_2019-02-12.html#consideration_5.2)).
+- **Entscheidung:** Das Bundesgericht stellte klar: Die fehlende zivilrechtliche Unterhaltspflicht rechtfertigt kein Abweichen von der vollen Anrechnung der IV-Kinderrente. Massgebend ist allein der sozialversicherungsrechtliche Zweck der Kinderrente zur Deckung des Familienunterhalts ([BGE 145 V 75 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-145-V-75_2019.html#consideration_5.2); [BGer 8C_630/2018 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-630-2018_2019-02-12.html)).
 
 #### 3. Zusammentreffen von UVG-Invalidenrente mit AHV-Altersrente nach krankheitsbedingter IV-Rente
 **15** **Sachverhalt und Streitfrage:** Ein Versicherter bezog eine UVG-Teilinvalidenrente (für unfallbedingte Teilerwerbsunfähigkeit) und daneben eine rein krankheitsbedingte ganze IV-Rente. Vor Erreichen des 65. Altersjahres fand mangels sachlicher Kongruenz keine Komplementärrentenberechnung statt. Mit 65 Jahren löste die AHV-Altersrente die IV-Rente ab. Die Suva berechnete nun erstmals eine Komplementärrente und kürzte die UVG-Rente auf Fr. 0.–, da die AHV-Rente bereits 90 % des Verdienstes überstieg.
@@ -142,19 +147,19 @@ Die Rechtsprechung hat die Anwendung von Art. 20 UVG in zahlreichen konkreten Fa
 
 #### 4. Rechtsschutzinteresse an höherem Invaliditätsgrad bei 90%-Deckelung
 **16** **Sachverhalt und Streitfrage:** Ein Taxifahrer bezog eine Komplementärrente, die zusammen mit der IV-Rente den 90 %-Plafond erreichte. Er focht die Verfügung der Suva an und verlangte die Feststellung eines höheren unfallbedingten Invaliditätsgrades sowie die Berücksichtigung von Trinkgeldern beim versicherten Verdienst. Der Versicherer bestritt das Rechtsschutzinteresse, da eine Erhöhung des Invaliditätsgrades die Auszahlungshöhe nicht verändern würde.
-- **Entscheidung:** Das Bundesgericht bejahte das schutzwürdige Interesse an der Feststellung des höheren Invaliditätsgrades, da bei einem künftigen Wegfall oder einer Kürzung der IV-Rente der unfallbedingte Stammrentenanspruch nach Abs. 1 wieder voll zum Tragen kommt. Extratrinkgelder im Taxigewerbe gehören jedoch nicht zum versicherten Verdienst ([BGE 115 V 416 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-115-V-416_1989-12-21.html#consideration_3.b) und [E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-115-V-416_1989-12-21.html#consideration_5)).
+- **Entscheidung:** Das Bundesgericht bejahte das schutzwürdige Interesse an der Feststellung des höheren Invaliditätsgrades, da bei einem künftigen Wegfall oder einer Kürzung der IV-Rente der unfallbedingte Stammrentenanspruch nach Abs. 1 wieder voll zum Tragen kommt. Extratrinkgelder im Taxigewerbe gehören jedoch nicht zum versicherten Verdienst ([BGE 115 V 416 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-115-V-416_1989-12-21.html#consideration_3.) und [E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-115-V-416_1989-12-21.html#consideration_5.)).
 
 #### 5. Echte Verordnungslücke beim versicherten Verdienst von Schnupperlehrlingen
 **17** **Sachverhalt und Streitfrage:** Ein Jugendlicher erlitt während eines unentgeltlichen Schnuppereinsatzes bei den SBB einen schweren Stromunfall mit Beinamputation. Die UVV enthielt keine Sonderbestimmung zur Berechnung des versicherten Verdienstes für Schnupperlehrlinge ohne Lohnanspruch.
-- **Entscheidung:** Das Bundesgericht schloss diese echte Lücke der UVV durch analoge Anwendung von Art. 26 Abs. 1 IVV: Massgebend sind die nach Alter abgestuften Prozentsätze des Durchschnittslohnes für Personen, die invaliditätsbedingt keine zureichenden beruflichen Kenntnisse erwerben konnten ([BGE 124 V 301 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-124-V-301_1998-06-30.html#consideration_4.c)).
+- **Entscheidung:** Das Bundesgericht schloss diese echte Lücke der UVV durch analoge Anwendung von Art. 26 Abs. 1 IVV: Massgebend sind die nach Alter abgestuften Prozentsätze des Durchschnittslohnes für Personen, die invaliditätsbedingt keine zureichenden beruflichen Kenntnisse erwerben konnten ([BGE 124 V 301 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-124-V-301_1998-06-30.html#consideration_4.)).
 
 #### 6. Bindung an den versicherten Verdienst bei Rentenrevision von Lehrlingen
 **18** **Sachverhalt und Streitfrage:** Ein Bäckerlehrling erlitt einen Unfall und erhielt eine Rente auf Basis des Lehrlingslohnes (Art. 15 Abs. 2 UVG). Jahre später verschlechterte sich der Gesundheitszustand. Bei der Rentenrevision nach Art. 17 ATSG verlangte er die Neuberechnung des versicherten Verdienstes anhand eines ausgelernten Bäckerlohnes.
-- **Entscheidung:** Das Bundesgericht wies das Begehren ab: Unter dem Vorbehalt von Art. 24 Abs. 4 UVV bleibt der bei Rentenbeginn festgesetzte versicherte Verdienst für die gesamte Dauer des Rentenanspruchs auch bei revisionsweiser Rentenerhöhung bindend ([BGE 147 V 213 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-147-V-213_2021.html#consideration_3.4.4); [BGer 8C_378/2020 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-378-2020_2021-01-21.html#consideration_3.4.4)).
+- **Entscheidung:** Das Bundesgericht wies das Begehren ab: Unter dem Vorbehalt von Art. 24 Abs. 4 UVV bleibt der bei Rentenbeginn festgesetzte versicherte Verdienst für die gesamte Dauer des Rentenanspruchs auch bei revisionsweiser Rentenerhöhung bindend ([BGE 147 V 213 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-147-V-213_2021.html#consideration_3.4.4); [BGer 8C_378/2020 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-378-2020_2021-01-21.html)).
 
 #### 7. Ablösung der Witwenrente durch eine einfache Altersrente
 **19** **Sachverhalt und Streitfrage:** Eine Witwe bezog nach dem unfallbedingten Tod ihres Ehemannes eine UVG-Komplementärrente. Bei Erreichen des AHV-Alters löste die einfache AHV-Altersrente die AHV-Witwenrente ab. Strittig war, ob die Komplementärrente neu festzusetzen sei.
-- **Entscheidung:** Das Bundesgericht bejahte dies: Die Ablösung der Witwenrente durch eine Altersrente stellt einen Anpassungstatbestand nach Art. 43 Abs. 1 und Art. 33 Abs. 2 lit. b UVV dar. Die Verordnungsbestimmungen sind gesetzes- und verfassungskonform ([BGE 126 V 506 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-126-V-506_2000-12-27.html#consideration_3.c)).
+- **Entscheidung:** Das Bundesgericht bejahte dies: Die Ablösung der Witwenrente durch eine Altersrente stellt einen Anpassungstatbestand nach Art. 43 Abs. 1 und Art. 33 Abs. 2 lit. b UVV dar. Die Verordnungsbestimmungen sind gesetzes- und verfassungskonform ([BGE 126 V 506 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-126-V-506_2000-12-27.html#consideration_3.)).
 
 ---
 
