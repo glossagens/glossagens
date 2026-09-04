@@ -1,8 +1,8 @@
 ---
 name: praxisorientierter-kommentar
 description: >-
-  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, prozessuale Klippen und taktische Merksätze.
-version: 1.0.0
+  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, schonungslose Offenlegung echter Judikaturwidersprüche (ohne Scheinharmonisierung), prozessuale Klippen und taktische Merksätze.
+version: 1.1.0
 author: Antigravity Agent
 tools:
   - mcp__fedlex-connector__get_article
@@ -40,6 +40,7 @@ gilt **dieser Skill als zwingende Stilleitlinie** ergänzend zu den allgemeinen 
 | **Erkenntnisquelle** | Abstrakt-deduktiv aus Doktrin, Systematik und Gesetzestext | Konkret-induktiv aus tatsächlichen Lebenssachverhalten der Gerichtspraxis |
 | **Urteilsdarstellung** | Schlagwort-Zitat: *«Das Bundesgericht bejahte Missbräuchlichkeit (BGE 131 III 535)»* | **Umfangreiche Sachverhaltserzählung**: Wer, was, welche Vorwürfe, welches Kündigungsschreiben, welche Entlastungsmomente, warum gekippt? |
 | **Normgrenzen** | Aufzählung von Tatbestandsmerkmalen | **Zweiseitige Grenzkasuistik**: Ausführliche Gegenüberstellung von Fällen, in denen die Norm *angewandt* wurde, und Grenzfällen, in denen sie *verworfen* wurde |
+| **Widersprüche** | Scheinharmonisierung («hängt vom Einzelfall ab», feine Sachverhaltsnuancen erfunden) | **Echte Brüche benennen**: Divergenzen zwischen Gerichten/Kammern offen als unvereinbar herausarbeiten |
 | **Prozessrealität** | Fokus auf materiellrechtliche Auslegungsfragen | Fokus auf Beweislast, Fristen, Verwirkung, Versehensnachweis, Prozessfallen |
 | **Orientierungshilfe** | Abstrakte Lehrmeinungsstreitigkeiten | **Taktische Merksätze** (`> **Merksatz.**`) und Handlungsanweisungen für Parteien und Behörden |
 | **Textelement** | Fliessender Prosa-Kommentar | Dichte Kasuistik, Gegenüberstellungstabellen, wörtliche Kernzitate |
@@ -59,7 +60,7 @@ Vor dem Verfassen eines praxisorientierten Kommentars sind die beiden Vorzeigeko
 
 ---
 
-## 3. Die 6 Grundregeln des praxisorientierten Stils
+## 3. Die 7 Grundregeln des praxisorientierten Stils
 
 ### Regel 1: Narrative Sachverhaltsschilderung («Storytelling aus den Akten»)
 
@@ -96,7 +97,29 @@ Durch die Gegenüberstellung von *«Gerade noch geschützt / missbräuchlich / u
 
 ---
 
-### Regel 3: Strukturierte Kasuistik- und Kriterientabellen
+### Regel 3: Echte Judikaturwidersprüche offenlegen (Verbot der Scheinharmonisierung)
+
+Juristische Urteile stehen nicht immer in eleganter Harmonie zueinander; sie können zueinander in **echtem, unauflösbarem Widerspruch** stehen:
+- zwischen verschiedenen Abteilungen oder Kammern desselben Gerichts (z.B. I. öffentlich-rechtliche vs. strafrechtliche Kammer des BGer; verschiedene Zivilkammern eines Obergerichts),
+- zwischen der kantonalen Gerichtspraxis (Obergerichte / Kantonsgerichte) und dem Bundesgericht,
+- oder im Zeitablauf bei schleichenden oder uneinheitlich vollzogenen Praxisänderungen.
+
+#### Das Verbot der Scheinharmonisierung:
+Es ist ein schwerer methodischer Fehler, solche Brüche in der Judikatur **künstlich weg-zuharmonisieren**, indem man behauptet, die Entscheide liessen sich durch vermeintliche Nuancen im Sachverhalt (z.B. minimale Altersunterschiede, Branchenbesonderheiten oder kantonale Herkunft) widerspruchsfrei erklären, obwohl die Gerichte in Wahrheit gegensätzliche rechtliche Massstäbe oder Wertungen angewandt haben.
+
+> **Grundsatz:** Wo Gerichte bei im Kern vergleichbaren Sachverhalten unvereinbare Massstäbe anlegen, wird dieser Widerspruch **offen, präzise und ungeschönt beim Namen genannt** — anstatt ihn mit Scheindifferenzierungen zu übertünchen.
+
+#### Wie Widersprüche darzustellen sind:
+1. **Den Konflikt klar benennen**: Explizite Abschnitte wie *«Uneinheitliche Praxis / Judikaturdivergenz»*, *«Gespaltener Massstab»* oder *«Widerspruch zwischen Bundesgericht und kantonaler Praxis»*.
+2. **Die unvereinbaren Linien konfrontieren**: Sachverhalte beider Entscheide schildern und zeigen, warum die jeweiligen Begründungen sachlich nicht zusammenpassen.
+3. **Keine Scheinerklärungen konstruieren**: Keine Randtatsachen als Erklärung vorschieben, die das Gericht selbst gar nicht als tragend gewertet hat.
+4. **Prozessuale Taktik herausarbeiten**:
+   - Für die Rechtsmittelpraxis: Ein offener Widerspruch ist der stärkste Hebel, um eine Rechtsfrage von grundsätzlicher Bedeutung zu begründen, eine Plenar- oder Fünferbesetzung (z.B. Art. 23 BGG) zu verlangen oder eine Praxisänderung anzuregen.
+   - Für das Instanzgericht: Parteien können gezielt die für sie günstigere Linie unter Hinweis auf die Divergenz einfordern.
+
+---
+
+### Regel 4: Strukturierte Kasuistik- und Kriterientabellen
 
 Wo mehrere Entscheide denselben Tatbestand konkretisieren, fasst eine **Vergleichstabelle** die Sachverhaltskerne und Ergebnisse zusammen.
 
@@ -120,7 +143,7 @@ Wo mehrere Entscheide denselben Tatbestand konkretisieren, fasst eine **Vergleic
 
 ---
 
-### Regel 4: Harte Prozessrealität statt Elfenbeinturm
+### Regel 5: Harte Prozessrealität statt Elfenbeinturm
 
 Praxiskommentare sparen nicht an den prozessualen Klippen, an denen Verfahren in der Praxis scheitern. Sie arbeiten systematisch heraus:
 
@@ -136,7 +159,7 @@ Praxiskommentare sparen nicht an den prozessualen Klippen, an denen Verfahren in
 
 ---
 
-### Regel 5: Taktische Merksätze («Merksatz.»)
+### Regel 6: Taktische Merksätze («Merksatz.»)
 
 Jeder Hauptabschnitt schliesst mit einem hervorgehobenen Merksatz oder mit Handlungsanweisungen für die Prozessparteien ab.
 
@@ -154,7 +177,7 @@ Jeder Hauptabschnitt schliesst mit einem hervorgehobenen Merksatz oder mit Handl
 
 ---
 
-### Regel 6: Absolutes Grounding & wörtliche Schlüsselerwägungen
+### Regel 7: Absolutes Grounding & wörtliche Schlüsselerwägungen
 
 Praxiskommentare enthalten niemals erfundene Urteilssachverhalte oder spekulative Sachverhaltsdetails.
 - **Volltextrecherche**: Jeder geschilderte Sachverhalt stammt aus einem Urteil, das über `entscheidsuche.ch` oder `mcp.opencaselaw.ch` im Volltext gesichtet wurde.
@@ -192,8 +215,9 @@ content/kommentar/{gesetz}/art-{nr}/
      - Dogmatische Grundlinie (prägnant).
      - **Ausführliche Sachverhalte konkreter Urteile** (siehe Regel 1).
      - **Gegenüberstellung angewandter vs. verworfener Fälle** (siehe Regel 2).
-     - **Kasuistik- oder Vergleichstabelle** (siehe Regel 3).
-     - **Taktische Merksätze** (siehe Regel 5).
+     - **Offenlegung echter Judikaturwidersprüche ohne Scheinharmonisierung** (siehe Regel 3).
+     - **Kasuistik- oder Vergleichstabelle** (siehe Regel 4).
+     - **Taktische Merksätze** (siehe Regel 6).
 5. **Kantonale Praxisfragen**:
    - Mindestens 1–2 konkrete Streitpunkte oder Verfahrensdivergenzen kantonaler Gerichte (z.B. Obergerichte ZH, BE, SG, AG, LU).
 
@@ -205,6 +229,7 @@ Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 
 - [ ] **Sachverhaltstiefe**: Werden die Urteile als reale Geschichten mit Berufsbezeichnungen, Dienstjahren, Verhaltensweisen, Datumsangaben und Parteivorbringen geschildert (keine Einzeiler-Zitate)?
 - [ ] **Doppelte Kasuistik**: Sind zu den Hauptstreitpunkten sowohl Fälle enthalten, in denen das Gericht die Norm angewandt hat, als auch Fälle, in denen es die Anwendung verworfen hat?
+- [ ] **Widersprüche offengelegt**: Wurden echte Judikaturdivergenzen und Widersprüche zwischen Gerichten, Kammern oder im Zeitablauf klar benannt, anstatt sie künstlich über feine Sachverhaltsunterschiede wegzuerklären?
 - [ ] **Tabellarische Vergleiche**: Gibt es mindestens eine strukturierte Tabelle, die Grenzfälle oder gegensätzliche Gerichtsentscheide nebeneinanderstellt?
 - [ ] **Prozessuale Klippen**: Werden Beweislast, Fristen, Verwirkung, Versehensnachweis oder Substanziierungsobliegenheiten explizit thematisiert?
 - [ ] **Merksätze vorhanden**: Enthalten die massgebenden Abschnitte prägnante `> **Merksatz.**`-Blöcke oder Rollen-Merksätze für Anwälte/Behörden?
