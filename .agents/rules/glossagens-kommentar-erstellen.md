@@ -7,7 +7,7 @@ trigger: always_on
 Dieser Leitfaden definiert die standardisierte Vorgehensweise für den autonomen Glossagens-Agenten zur vollautomatischen Erstellung, Erweiterung und Pflege von Gesetzeskommentaren. Er dient als Runbook, um beliebige Gesetzesbestimmungen auf ein wissenschaftlich fundiertes, verifiziertes Niveau im Stil des Onlinekommentars (onlinekommentar.ch) zu heben.
 
 nehme immer noch zusätzlich die Anforderungen und die Workflows von ./agent/skills/glossagens-content-creation hinzu.
-Wird verlangt, dass der Kommentar «praxisorientiert» sein soll (oder als «Praxiskommentar» verfasst werden soll), gilt zusätzlich zwingend der Stil und Aufbau gemäss ./agent/skills/praxisorientierter-kommentar (Muster: Art. 110 StPO, Art. 336 OR mit ausführlichen Lebenssachverhalten, Gegenüberstellung von Anwendungs- und Verwerfungsfällen und taktischen Merksätzen).
+Wird verlangt, dass der Kommentar «praxisorientiert» sein soll (oder als «Praxiskommentar» verfasst werden soll), gilt zusätzlich zwingend der Stil und Aufbau gemäss ./agent/skills/praxisorientierter-kommentar (Muster: Art. 110 StPO, Art. 336 OR mit ausführlichen Lebenssachverhalten, Gegenüberstellung von Anwendungs- und Verwerfungsfällen und taktischen Merksätzen). Das Grundgerüst bleiben auch dort die abstrakten Tatbestandsmerkmale der Norm: Gegliedert wird entlang des Prüfschemas, die Praxisschilderungen werden den einzelnen Merkmalen zugeordnet — nie nach Urteilen oder Fallgeschichten.
 
 ---
 

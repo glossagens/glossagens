@@ -1,8 +1,8 @@
 ---
 name: praxisorientierter-kommentar
 description: >-
-  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, schonungslose Offenlegung echter Judikaturwidersprüche (ohne Scheinharmonisierung), prozessuale Klippen und taktische Merksätze.
-version: 1.1.0
+  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Grundgerüst bleiben stets die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Praxisschilderungen werden entlang dieses Gerüsts gegliedert, nie umgekehrt. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, schonungslose Offenlegung echter Judikaturwidersprüche (ohne Scheinharmonisierung), prozessuale Klippen und taktische Merksätze.
+version: 1.2.0
 author: Antigravity Agent
 tools:
   - mcp__fedlex-connector__get_article
@@ -22,6 +22,8 @@ metadata:
 
 Dieser Skill definiert den massgebenden **Stil**, den **inhaltlichen Aufbau** und die **Kasuistik** für alle Glossagens-Kommentare, die **praxisorientiert** verfasst oder zu einem Praxiskommentar ausgebaut werden sollen.
 
+> **Vorbemerkung — das Gerüst bleibt dogmatisch.** «Praxisorientiert» beschreibt, *womit* die Kommentierung gefüllt wird, nicht *wie sie gegliedert* ist. Das Gerüst sind und bleiben die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Fallschilderungen hängen an diesem Gerüst. Ein Text, der nach Urteilen, Gerichten oder Fallgeschichten gegliedert ist, ist kein Kommentar, sondern eine Urteilssammlung — siehe Abschnitt 3.
+
 ---
 
 ## 1. Geltungsbereich und Zweck
@@ -37,9 +39,10 @@ gilt **dieser Skill als zwingende Stilleitlinie** ergänzend zu den allgemeinen 
 
 | Dimension | Akademischer / Konventioneller Kommentar | Praxisorientierter Kommentar (DIESER SKILL) |
 |---|---|---|
-| **Erkenntnisquelle** | Abstrakt-deduktiv aus Doktrin, Systematik und Gesetzestext | Konkret-induktiv aus tatsächlichen Lebenssachverhalten der Gerichtspraxis |
+| **Erkenntnisquelle** | Abstrakt-deduktiv aus Doktrin, Systematik und Gesetzestext | Konkret-induktiv aus tatsächlichen Lebenssachverhalten der Gerichtspraxis — *innerhalb* des dogmatischen Rasters |
+| **Gliederung** | Tatbestandsmerkmale, dogmatisch abgehandelt | **Dieselben Tatbestandsmerkmale** als Abschnittsraster — je Merkmal die Kasuistik, die es konkretisiert (nie Gliederung nach Urteilen oder Fallgeschichten) |
 | **Urteilsdarstellung** | Schlagwort-Zitat: *«Das Bundesgericht bejahte Missbräuchlichkeit (BGE 131 III 535)»* | **Umfangreiche Sachverhaltserzählung**: Wer, was, welche Vorwürfe, welches Kündigungsschreiben, welche Entlastungsmomente, warum gekippt? |
-| **Normgrenzen** | Aufzählung von Tatbestandsmerkmalen | **Zweiseitige Grenzkasuistik**: Ausführliche Gegenüberstellung von Fällen, in denen die Norm *angewandt* wurde, und Grenzfällen, in denen sie *verworfen* wurde |
+| **Normgrenzen** | Tatbestandsmerkmale abstrakt umschrieben, ohne Schwellenwert | Jedes Merkmal zusätzlich mit **zweiseitiger Grenzkasuistik** unterlegt: Fälle, in denen es *bejaht*, und Fälle, in denen es *verneint* wurde |
 | **Widersprüche** | Scheinharmonisierung («hängt vom Einzelfall ab», feine Sachverhaltsnuancen erfunden) | **Echte Brüche benennen**: Divergenzen zwischen Gerichten/Kammern offen als unvereinbar herausarbeiten |
 | **Prozessrealität** | Fokus auf materiellrechtliche Auslegungsfragen | Fokus auf Beweislast, Fristen, Verwirkung, Versehensnachweis, Prozessfallen |
 | **Orientierungshilfe** | Abstrakte Lehrmeinungsstreitigkeiten | **Taktische Merksätze** (`> **Merksatz.**`) und Handlungsanweisungen für Parteien und Behörden |
@@ -60,7 +63,49 @@ Vor dem Verfassen eines praxisorientierten Kommentars sind die beiden Vorzeigeko
 
 ---
 
-## 3. Die 7 Grundregeln des praxisorientierten Stils
+## 3. Das Grundgerüst: die abstrakten Tatbestandsmerkmale
+
+**Grundsatz.** Das tragende Gerüst jedes Kommentars sind und bleiben die **abstrakten Tatbestandsmerkmale** der kommentierten Norm — also die einzelnen Voraussetzungen, an die das Gesetz seine Rechtsfolge knüpft, so wie sie sich aus Wortlaut, Systematik und Materialien ergeben. Die Kasuistik ist kein eigenständiger Gliederungspunkt und kein Selbstzweck, sondern die **Füllung dieses Gerüsts**: Jeder geschilderte Lebenssachverhalt steht dort, wo dasjenige Merkmal abgehandelt wird, über dessen Vorliegen er entscheidet.
+
+Der Sinn der Regel: Wer den Kommentar zur Hand nimmt, prüft einen eigenen Fall. Er braucht ein Raster, das er der Reihe nach abarbeiten kann — und an jedem Rasterpunkt die Fälle, die zeigen, wo die Gerichte die Schwelle ziehen. Ein Text, der nach Urteilen, Gerichten oder Fallgeschichten gegliedert ist, zwingt ihn, sich das Raster selbst zu bauen; er ist keine Kommentierung, sondern eine Urteilssammlung.
+
+### 3.1 Merkmalskatalog vor der ersten Zeile Fliesstext
+
+Vor dem Schreiben wird die Norm zerlegt:
+
+1. **Wortlaut verbatim aus Fedlex** holen, Absatz für Absatz (nie aus dem Gedächtnis).
+2. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
+3. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
+4. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
+
+### 3.2 Die Kasuistik folgt dem Merkmalskatalog
+
+- **Ein Abschnitt pro Merkmal.** Die Überschriften benennen Tatbestandsmerkmale, nicht Urteile oder Fallgeschichten.
+  - Falsch: *«Die WhatsApp-Story des Seilbahnangestellten»*, *«Der Entscheid BGer 4A_368/2023»*, *«Neuere Rechtsprechung 2024».*
+  - Richtig: *«Kündigung wegen Ausübung eines verfassungsmässigen Rechts (Abs. 1 lit. b)»* — die Story steht **darin**.
+- **Merkmalssatz vor Fallgeschichte.** Jeder Abschnitt beginnt mit ein bis drei Sätzen abstrakter Dogmatik: was das Merkmal verlangt und woran es sich bemisst. Erst danach folgen die Sachverhalte. Die Leserin muss wissen, wonach sie sucht, bevor sie die Geschichte liest.
+- **Rückbindung jeder Schilderung.** Jede Sachverhaltsschilderung schliesst mit dem Satz, welches Merkmal der Entscheid bejaht oder verneint hat — formuliert in der Sprache des Merkmals, nicht bloss im Ergebnis («die Klage wurde abgewiesen» genügt nicht; es muss heissen, an welchem Merkmal sie scheiterte).
+- **Grenzkasuistik ist merkmalsbezogen.** Das «angewandt vs. verworfen» aus Regel 2 wird nicht auf die Norm als Ganzes bezogen, sondern auf das einzelne Merkmal. Eine Norm scheitert im Prozess nie «insgesamt», sondern stets an einem bestimmten Merkmal — genau das ist die Information, die der Praktiker braucht.
+- **Vollständigkeit des Rasters.** Auch Merkmale, zu denen die Recherche keine plastischen Fälle geliefert hat, erhalten ihren Abschnitt — mit dem ausdrücklichen Vermerk, dass publizierte Praxis dazu fehlt oder sich in Formelzitaten erschöpft. Ein Merkmal darf nie deshalb fehlen, weil es keine gute Geschichte hergibt. Die Lücke ist selbst eine Information: Sie zeigt, wo ein Streitpunkt offen ist.
+- **Keine Doppelablage.** Ein Entscheid, der mehrere Merkmale betrifft, wird beim **tragenden** Merkmal ausführlich geschildert; bei den übrigen steht nur ein Querverweis mit dem dort relevanten Satz.
+- **Kein Merkmalsproporz nach Materialmenge.** Die Gewichtung folgt der praktischen Bedeutung des Merkmals, nicht der Anzahl gefundener Entscheide. Ein streitanfälliges Merkmal mit drei Entscheiden trägt mehr Text als ein unstreitiges mit dreissig.
+
+> **Grundsatz.** Wer den Kommentar nur quer liest, muss allein an den Überschriften die vollständige Prüfung der Norm ablesen können. Die Fallgeschichten sind das Fleisch — die Tatbestandsmerkmale sind das Skelett. Ohne Skelett fällt der Praxiskommentar zur Anekdotensammlung zusammen.
+
+### 3.3 Beispiel: dieselbe Kasuistik, falsch und richtig aufgehängt
+
+| | Falsch (fallgetrieben) | Richtig (merkmalsgetrieben) |
+|---|---|---|
+| Überschrift | «Der Fall des Bankvize» | «B. Verpöntes Motiv: Kündigung wegen einer Eigenschaft der anderen Partei (Abs. 1 lit. a)» |
+| Einstieg | Sofortige Sachverhaltserzählung | Ein bis drei Sätze: Was verlangt das Merkmal, wer trägt die Beweislast — *dann* der Sachverhalt |
+| Abschluss | «Das Bundesgericht wies die Beschwerde ab.» | «Das Merkmal war zu bejahen; die Klage scheiterte erst am **Kausalzusammenhang** — dazu Abschnitt D.» |
+| Wirkung | Leser muss aus Geschichten selbst ein Raster bauen | Leser arbeitet sein eigenes Verfahren am Raster ab |
+
+---
+
+## 4. Die 7 Grundregeln des praxisorientierten Stils
+
+Die folgenden Regeln bestimmen, **wie** die einzelnen Abschnitte des unter Abschnitt 3 aufgestellten Merkmalsrasters ausgefüllt werden. Sie ersetzen dieses Raster nicht.
 
 ### Regel 1: Narrative Sachverhaltsschilderung («Storytelling aus den Akten»)
 
@@ -94,6 +139,8 @@ Praktiker lesen einen Kommentar, um die **Grenze des rechtlich Möglichen** ausz
 
 #### Der didaktische Zweck:
 Durch die Gegenüberstellung von *«Gerade noch geschützt / missbräuchlich / ungebührlich»* und *«Noch zulässig / verworfen»* wird der Schwellenwert der Gerichte greifbar.
+
+**Bezugspunkt ist stets das einzelne Tatbestandsmerkmal**, nicht die Norm als Ganzes (siehe Abschnitt 3.2): Die Gegenüberstellung gehört in denjenigen Abschnitt, dessen Merkmal im geschilderten Verfahren den Ausschlag gab.
 
 ---
 
@@ -186,7 +233,7 @@ Praxiskommentare enthalten niemals erfundene Urteilssachverhalte oder spekulativ
 
 ---
 
-## 4. Gliederung und Umfang im Page Bundle
+## 5. Gliederung und Umfang im Page Bundle
 
 Ein praxisorientierter Kommentar wird als vollwertiges Page Bundle angelegt:
 
@@ -207,14 +254,14 @@ content/kommentar/{gesetz}/art-{nr}/
    - Bei komplexen Normen: Eine vorangestellte Übersichtstabelle («Die Tatbestände auf einen Blick»).
 3. **Überblick und Bedeutung**:
    - 1–2 Absätze zur praktischen Tragweite und den typischen Stolpersteinen in der Praxis.
-   - **Prüfschema / Schichten-Tabelle**: Übersicht über die logische Prüfungsreihenfolge und wer die Beweislast trägt.
+   - **Prüfschema / Schichten-Tabelle**: der Merkmalskatalog nach Abschnitt 3.1 — Prüfungsreihenfolge der Tatbestandsmerkmale und Beweislast je Merkmal. Diese Tabelle ist zugleich das Inhaltsverzeichnis der nachfolgenden Kommentierung.
    - Zentrale Leitentscheide im wörtlichen Zitat.
 4. **Kommentierung (Abschnitte A, B, C...)**:
-   - Gliederung nach Absätzen oder Kernproblemen.
-   - Jeder Abschnitt enthält:
-     - Dogmatische Grundlinie (prägnant).
-     - **Ausführliche Sachverhalte konkreter Urteile** (siehe Regel 1).
-     - **Gegenüberstellung angewandter vs. verworfener Fälle** (siehe Regel 2).
+   - Gliederung **entlang der Tatbestandsmerkmale** in der Reihenfolge des Prüfschemas (siehe Abschnitt 3.2) — nicht nach Urteilen, Gerichten, Jahrgängen oder Fallgeschichten. Die Absatzgliederung der Norm ist dabei nur der Ausgangspunkt: Trägt ein Absatz mehrere Merkmale, erhält jedes seinen eigenen Abschnitt.
+   - Jeder Abschnitt enthält, in dieser Reihenfolge:
+     - **Was das Merkmal verlangt** — dogmatische Grundlinie in ein bis drei Sätzen, vor jeder Fallschilderung (siehe Abschnitt 3.2).
+     - **Ausführliche Sachverhalte konkreter Urteile** (siehe Regel 1), je mit Rückbindung an das Merkmal.
+     - **Gegenüberstellung angewandter vs. verworfener Fälle — bezogen auf dieses Merkmal** (siehe Regel 2).
      - **Offenlegung echter Judikaturwidersprüche ohne Scheinharmonisierung** (siehe Regel 3).
      - **Kasuistik- oder Vergleichstabelle** (siehe Regel 4).
      - **Taktische Merksätze** (siehe Regel 6).
@@ -223,10 +270,14 @@ content/kommentar/{gesetz}/art-{nr}/
 
 ---
 
-## 5. Qualitäts-Checkliste für den praxisorientierten Kommentar
+## 6. Qualitäts-Checkliste für den praxisorientierten Kommentar
 
 Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 
+- [ ] **Merkmalsraster vorhanden**: Beruht die Gliederung auf den abstrakten Tatbestandsmerkmalen der Norm in ihrer Prüfungsreihenfolge — und benennen die Abschnittsüberschriften Merkmale statt Urteile, Gerichte oder Fallgeschichten?
+- [ ] **Prüfschema deckungsgleich**: Findet sich jede Zeile der einleitenden Prüfschema-Tabelle als Abschnitt der Kommentierung wieder, in derselben Reihenfolge — und umgekehrt?
+- [ ] **Kein Merkmal ausgelassen**: Ist auch jedes Merkmal abgehandelt, zu dem keine plastische Kasuistik gefunden wurde — mit ausdrücklichem Vermerk der fehlenden Praxis?
+- [ ] **Dogmatik vor Kasuistik**: Beginnt jeder Abschnitt mit dem, was das Merkmal verlangt, bevor der erste Sachverhalt erzählt wird — und ist jede Schilderung an das Merkmal rückgebunden (nicht bloss ans Ergebnis)?
 - [ ] **Sachverhaltstiefe**: Werden die Urteile als reale Geschichten mit Berufsbezeichnungen, Dienstjahren, Verhaltensweisen, Datumsangaben und Parteivorbringen geschildert (keine Einzeiler-Zitate)?
 - [ ] **Doppelte Kasuistik**: Sind zu den Hauptstreitpunkten sowohl Fälle enthalten, in denen das Gericht die Norm angewandt hat, als auch Fälle, in denen es die Anwendung verworfen hat?
 - [ ] **Widersprüche offengelegt**: Wurden echte Judikaturdivergenzen und Widersprüche zwischen Gerichten, Kammern oder im Zeitablauf klar benannt, anstatt sie künstlich über feine Sachverhaltsunterschiede wegzuerklären?
