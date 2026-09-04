@@ -11,7 +11,7 @@ revisions:
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
-    note: "17 neue Entscheide ergänzt (8 BGer, 9 kantonal/BStGer) im Rahmen des praxisorientierten Ausbaus von Art. 333 StPO; alle Links via entscheidsuche.ch verifiziert"
+    note: "17 neue Entscheide ergänzt (8 BGer, 9 kantonal/BStGer) im Rahmen des praxisorientierten Ausbaus von Art. 333 StPO; alle Links via entscheidsuche.ch verifiziert; Dublette entfernt — BGer 6B_171/2022 vom 29.11.2022 ist dieselbe Entscheidung wie der bereits als Leitentscheid geführte BGE 149 IV 42 (Geschäftsnummer statt eigenständiger Entscheid)"
   - date: "2026-08-30"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -106,10 +106,6 @@ revisions:
 ### [BGer 6B_1040/2023 vom 6. März 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1040-2023_2024-03-06.html) — Zurückweisung zur Anklageerweiterung und richterliche Kognition
 - **Thema**: Gestattung der Anklageerweiterung bei neuen Delikten (Abs. 2) und Grenzen der Weisungsbefugnis
 - **Kernaussage**: Das Gericht kann der Staatsanwaltschaft die Anklageerweiterung gestatten, darf dieser aber keine inhaltlichen Weisungen bezüglich des materiellen Untersuchungsergebnisses erteilen.
-
-### [BGer 6B_171/2022 vom 29. November 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-171-2022_2022-11-29.html) — Ausschluss der Nachbesserung bei Fahrlässigkeitstatbeständen
-- **Thema**: Fehlende Tatsachenelemente bei fahrlässiger Tötung
-- **Kernaussage**: Enthält die Anklageschrift bezüglich des angeklagten Fahrlässigkeitsdelikts keine hinreichenden Tatsachenangaben zur Sorgfaltspflichtverletzung, ist Art. 333 Abs. 1 StPO nicht anwendbar; ein Mangel innerhalb desselben Tatbestands berechtigt nicht zur Anklageänderung.
 
 ### [BGer 6B_1216/2020 vom 11. April 2022 E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1216-2020_2022-04-11.html#consideration_1.3.2) — Ergänzung von Qualifikationsmerkmalen als Anklageänderung
 - **Thema**: Funktion von Art. 333 Abs. 1 StPO und Einbezug von Qualifikationsmerkmalen
