@@ -11,7 +11,7 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO: Zweiseitige Grenzkasuistik (angewandt vs. verworfen) zu allen Haftgründen; Auswertung von BGE 145 IV 503, BGer 1B_323/2023, BGE 150 IV 149, BGer 7B_708/2026, BGE 151 IV 57, BGE 137 IV 122, BGE 143 IV 316, BGer 1B_135/2022; Kasuistik- und Grenzziehungstabellen; Erläuterung der Revision per 1. Januar 2024 (Abs. 1bis n.F.); Prozessklippen und taktische Merksätze. Sämtliche Entscheide und Zitate über entscheidsuche.ch im Volltext verifiziert."
+    note: "Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO: Zweiseitige Grenzkasuistik (angewandt vs. verworfen) zu allen Haftgründen; Auswertung von BGE 145 IV 503, BGer 1B_323/2023, BGE 150 IV 149, BGer 7B_708/2026, BGE 151 IV 57, BGE 137 IV 122, BGE 143 IV 316, BGer 1B_135/2022; Einarbeitung der gesetzgeberischen Invalidierung der Rechtsprechung zu den Vortaten (BGE 137 IV 84, BGE 143 IV 9) durch BBl 2019 6743 und den Leitentscheid BGer 7B_1035/2024 (zwingend zwei rechtskräftige Vorstrafen für Abs. 1 lit. c); Kasuistik- und Grenzziehungstabellen; Erläuterung der Revision per 1. Januar 2024 (Abs. 1bis n.F.); Prozessklippen und taktische Merksätze. Sämtliche Entscheide und Zitate über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -183,13 +183,31 @@ Seit dem 1. Januar 2024 kennt Art. 221 StPO zwei grundverschiedene Tatbestände 
 
 | Merkmal | Einfache Wiederholungsgefahr (Abs. 1 lit. c) | Qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.) |
 |---|---|---|
-| **Vortatenerfordernis** | **Zwingend**: Frühere gleichartige Straftaten (Vorstrafen oder erdrückende Beweislage) | **Keine Vortaten erforderlich** (gilt auch für Ersttäter) |
+| **Vortatenerfordernis** | **Zwingend**: Mindestens zwei **rechtskräftig verurteilte** Vorstrafen ([BGer 7B_1035/2024 E. 2.11](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html)) | **Keine Vortaten erforderlich** (gilt auch für unvorbestrafte Ersttäter) |
 | **Anlasstat** | Verbrechen oder schwere Vergehen beliebiger Rechtsgüter | Verbrechen oder schwere Vergehen gegen physische, psychische oder sexuelle Integrität |
 | **Drohende Delikte** | Gleichartige Verbrechen oder schwere Vergehen | Gleichartiges **schweres Verbrechen** |
 | **Gefahrengrad** | Erhebliche unmittelbare Gefährdung der Sicherheit | «Ernsthafte und unmittelbare Gefahr» (untragbar hohes Risiko) |
 
-#### 2. Das Vortatenerfordernis von Abs. 1 lit. c
-Für die einfache Wiederholungsgefahr genügt nicht jedes frühere Delikt. Die Vortaten müssen rechtskräftig beurteilt sein oder im laufenden Verfahren mit an Sicherheit grenzender Wahrscheinlichkeit feststehen (z.B. durch ein glaubhaftes Geständnis; [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2016.html); [BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html)). Fehlt es an solchen Taten, scheitert Haft nach Abs. 1 lit. c zwingend.
+#### 2. Das Vortatenerfordernis von Abs. 1 lit. c: Die gesetzgeberische Invalidierung der alten Rechtsprechung (BGer 7B_1035/2024)
+
+##### a) Altrechtliche Fiktion: Vortaten aus hängigem Verfahren
+Unter dem bis Ende 2023 geltenden Recht hatte das Bundesgericht in ständiger Rechtsprechung entschieden, dass die für einfache Wiederholungsgefahr erforderlichen Vortaten («bereits früher verübt») **nicht** rechtskräftig beurteilt sein mussten. Es genügte, wenn die Taten Gegenstand desselben pendenten Strafverfahrens bildeten und mit «an Sicherheit grenzender Wahrscheinlichkeit» feststanden – etwa aufgrund eines Geständnisses oder erdrückender Videoaufnahmen ([BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html); [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2016.html); [BGE 146 IV 326 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-326_2020.html)). Zudem war mit der prätorischen «qualifizierten Wiederholungsgefahr» bei schwersten Gewalttaten sogar ganz auf Vortaten verzichtet worden ([BGE 137 IV 13 E. 3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html)).
+
+##### b) Der Wille des Gesetzgebers (StPO-Revision 2024)
+Mit der per 1. Januar 2024 in Kraft getretenen Revision (AS 2023 468) hat der Gesetzgeber diese Praxis **gezielt invalidiert**:
+1. **Botschaft des Bundesrates (BBl 2019 6697, S. 6743)**: Der Bundesrat hielt unmissverständlich fest, dass das Wort «verübt» in Art. 221 Abs. 1 lit. c StPO voraussetzt, dass die früheren Straftaten **rechtskräftig beurteilt** sein müssen (*«passé en force»*, *«passata in giudicato»*), da nur ein rechtskräftiges Urteil einen gesicherten Anhaltspunkt für die Legalprognose bildet. Zudem verlangt der Plural («Straftaten») **mindestens zwei** solche Vortaten.
+2. **Ablehnung des Minderheitsantrags Addor (AB 2022 N 75)**: Im Parlament scheiterte ein Antrag, auf das Erfordernis der effektiven Vorverurteilung zu verzichten, deutlich. Für unvorbestrafte Täter schuf der Gesetzgeber stattdessen den eigenständigen, eng begrenzten Ausnahmetatbestand von **Art. 221 Abs. 1bis StPO**.
+
+##### c) Grundsatzurteil BGer 7B_1035/2024: Formelle Abkehr von BGE 137 IV 84
+Im Grundsatzentscheid [BGer 7B_1035/2024 vom 19. November 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html) (zur Publikation in der Amtlichen Sammlung vorgesehen; Fünferbesetzung) vollzog das Bundesgericht die Kehrtwende und erklärte seine frühere Rechtsprechung förmlich für **überholt und nicht weiterführbar**:
+> «Die Auslegung von Art. 221 Abs. 1 lit. c StPO ergibt, dass die beschuldigte Person nur wegen einfacher Wiederholungsgefahr inhaftiert werden kann, wenn sie bereits zuvor wegen mindestens zwei gleichartigen Straftaten verurteilt worden ist. Die in BGE 137 IV 84 E. 3.2 etablierte Rechtsprechung lässt sich unter dem neuen Recht nicht weiterführen.» ([BGer 7B_1035/2024 E. 2.11](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html)).
+
+Im konkreten Zürcher Fall hatte der Beschuldigte an der Langstrasse einem Opfer eine Glasflasche mit voller Wucht gegen den Kopf geschlagen (versuchte schwere Körperverletzung) und die Tat auf Video und per Geständnis eingeräumt. Da er jedoch im Strafregister **nur eine einzige Vorstrafe** (wegen eines früheren Stockschlags) aufwies, verwarf das Bundesgericht die einfache Wiederholungsgefahr: Das Geständnis der aktuellen Tat kann unter revidiertem Recht nicht als «zweite Vortat» fingiert werden.
+
+##### d) Praxiskonsequenzen für Staatsanwaltschaft und Verteidigung
+- **Strikte Zweitatenregel**: Liegt nicht mindestens zwei rechtskräftige Vorverurteilungen vor, scheitert Untersuchungshaft nach Art. 221 Abs. 1 lit. c StPO zwingend.
+- **Keine Verrechnung pendenter Seriendelikte**: Ein unvorbestrafter Einbrecher oder Betrüger, der im hängigen Verfahren 30 vollumfänglich gestandene Serieneinbrüche aufweist, kann **nicht** gestützt auf Art. 221 Abs. 1 lit. c StPO in Haft genommen werden!
+- **Sperrwirkung gegenüber Vermögensdelikten**: Da Art. 221 Abs. 1bis StPO nur Delikte gegen die körperliche, psychische oder sexuelle Integrität erfasst, besteht für reine Seriendelinquenz gegen das Vermögen mangels Vorstrafen eine bewusste gesetzgeberische Haftbegrenzung. Staatsanwaltschaften müssen in solchen Konstellationen Flucht- oder Kollusionsgefahr nachweisen oder Ersatzmassnahmen prüfen.
 
 #### 3. Qualifizierte Wiederholungsgefahr: Leitentscheid BGE 150 IV 149 (Uster-Messerstichfall)
 In [BGE 150 IV 149](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-149_2024.html) begründete das Bundesgericht seine Praxis zur neuen Norm:

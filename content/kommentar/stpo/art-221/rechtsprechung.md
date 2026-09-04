@@ -11,7 +11,7 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Aktualisierung und Ausbau der Rechtsprechungsübersicht im Praxiskommentar-Standard: Ergänzung von BGE 150 IV 149 (Abs. 1bis n.F.), BGE 151 IV 57 (Verjährung als Prozesshindernis), BGer 1B_323/2023 (Flucht- und Kollusionsgefahr verneint), BGer 7B_708/2026 (Abs. 1bis bei Sexualdelikten und Aufgleisung von Ersatzmassnahmen), BGer 1B_135/2022 (Tatverdacht nach 22 Jahren bei Altfällen) und TPF 2024 77 (Ersatzmassnahmen-Offerte)."
+    note: "Einarbeitung der gesetzgeberischen Invalidierung von BGE 137 IV 84 / BGE 143 IV 9 durch die StPO-Revision 2024 und das Grundsatzurteil BGer 7B_1035/2024 (zwingendes Erfordernis von mindestens zwei rechtskräftigen Vorstrafen bei Abs. 1 lit. c)."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -20,6 +20,11 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 7B_1035/2024 vom 19.11.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html) E. 2.9–2.11 (zur Publikation als BGE bestimmt)
+- **Thema**: Gesetzgeberische Invalidierung der bisherigen Rechtsprechung zu den Vortaten bei einfacher Wiederholungsgefahr (Abs. 1 lit. c)
+- **Kernaussage**: Mit Inkrafttreten der revidierten StPO per 1. Januar 2024 (BBl 2019 6743) ist die in [BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html), [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2016.html) und [BGE 146 IV 326 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-326_2020.html) begründete Praxis **invalidiert und nicht weiterführbar**. Einfache Wiederholungsgefahr setzt zwingend voraus, dass die beschuldigte Person **zuvor wegen mindestens zwei gleichartigen Straftaten rechtskräftig verurteilt** worden ist. Handlungen aus dem hängigen Untersuchungsverfahren können – selbst bei erdrückender Beweislage, Videoaufnahmen oder vollem Geständnis – **nicht** mehr als Vortaten herangezogen werden.
+- **Einschlägig für**: Abs. 1 lit. c
 
 ### [BGE 150 IV 149](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-149_2024.html) E. 3.1–3.7
 - **Thema**: Qualifizierte Wiederholungsgefahr nach revidiertem Recht (Art. 221 Abs. 1bis StPO n.F. seit 1. Januar 2024)
