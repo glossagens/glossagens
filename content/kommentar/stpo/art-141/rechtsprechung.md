@@ -2,10 +2,21 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: "2026-08-16"
+lastmod: "2026-09-04"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Revisions-Vermerk nachgetragen (fehlte bisher, Pflichtfeld gemäss CLAUDE.md). Im Zuge des praxisorientierten Ausbaus von _index.md keine inhaltliche Änderung dieser Datei; die dort ausführlich geschilderten Leitentscheide (BGE 151 IV 73, 148 IV 205, 147 IV 9, 147 IV 16, 151 IV 18, 139 IV 128, BGer 7B_1429/2025) waren hier bereits erfasst."
+  - date: 2026-08-16
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Letzter Stand vor Einführung des Revisions-Pflichtfelds; Datum aus lastmod übernommen."
 ---
 
 # Rechtsprechung zu Art. 141 StPO
