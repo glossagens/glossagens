@@ -70,7 +70,8 @@ agent/
     ├── glossagens-audit/             ← Grounding-Audit inkl. Judge-Ledger
     ├── glossagens-lint/              ← Gesetzeswortlaute gegen Fedlex prüfen
     ├── glossagens-queue/             ← Queue verwalten
-    └── strafzumessungskommentar/     ← Strafzumessungs-Praxiskommentar (strafzumessung.md)
+    ├── strafzumessungskommentar/     ← Strafzumessungs-Praxiskommentar (strafzumessung.md)
+    └── praxisorientierter-kommentar/ ← Stil-Leitfaden für praxisorientierte Kommentare (Art. 110 StPO, Art. 336 OR)
 
 static/
 └── agent-skill.md                    ← Öffentlicher Contributor-Skill (für externe Agenten)
