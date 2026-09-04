@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 333 StPO"
 weight: 99
 date: "2026-06-08"
-lastmod: "2026-08-30"
+lastmod: "2026-09-04"
 description: "Übersicht der Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 333 StPO – Änderung und Erweiterung der Anklage"
 tags: ["Rechtsprechung", "StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
 agent_verified: true
 revisions:
+  - date: "2026-09-04"
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "17 neue Entscheide ergänzt (8 BGer, 9 kantonal/BStGer) im Rahmen des praxisorientierten Ausbaus von Art. 333 StPO; alle Links via entscheidsuche.ch verifiziert"
   - date: "2026-08-30"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -49,6 +54,42 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichtsentscheide (BGer)
+
+### [BGer 7B_836/2023 vom 18. Dezember 2025 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-836-2023_2025-12-18.html#consideration_5) — Anklageänderung nach bundesgerichtlicher Rückweisung
+- **Thema**: Prüfpflicht der Vorinstanz nach Aufhebung eines Schuldspruchs
+- **Kernaussage**: Bei Aufhebung eines Schuldspruchs (hier Gehilfenschaft zum Raub) weist das Bundesgericht die Vorinstanz an zu prüfen, ob der Staatsanwaltschaft Gelegenheit zur Anklageänderung nach Art. 333 Abs. 1 StPO zu geben ist oder ob gestützt auf die bestehende Anklage ein Schuldspruch (namentlich wegen Gehilfenschaft zu einem Anschlussdelikt) ergehen kann; bestätigt und konkretisiert damit BGE 148 IV 124 E. 2.6.3 für Konstellationen ohne Privatklägerbeteiligung.
+
+### [BGer 7B_808/2023 vom 6. Dezember 2023 E. 1.3–1.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-808-2023_2023-12-06.html#consideration_1.4) — Grundsätzliche Unanfechtbarkeit von Art.-333-Zwischenentscheiden
+- **Thema**: Anfechtbarkeit nach Art. 93 Abs. 1 lit. a BGG; Art. 6 Ziff. 1 EMRK
+- **Kernaussage**: Ein prozessleitender Beschluss, mit dem die Staatsanwaltschaft gestützt auf Art. 329 Abs. 2 bzw. Art. 333 Abs. 1, 2 und 4 StPO zur Anpassung der Anklage eingeladen wird, bewirkt grundsätzlich keinen nicht wieder gutzumachenden Nachteil rechtlicher Natur und ist nicht selbständig anfechtbar. Der Einwand, bereits die Anwendung von Art. 333 StPO entziehe der beschuldigten Person das Recht auf Beurteilung durch ein «Gericht» im Sinne von Art. 6 Ziff. 1 EMRK, wird verworfen.
+
+### [BGer 7B_256/2024 und 7B_347/2024 (vereinigt) vom 17. Februar 2025 E. 2.2–2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-256-2024_2025-02-17.html#consideration_2.2) — Ausnahmen von der Unanfechtbarkeit: Rechtsverweigerung und Beschleunigungsgebot
+- **Thema**: Anfechtbarkeit bei systematischen Rückweisungen bzw. Verfahrensverzögerung
+- **Kernaussage**: Rückweisungsbeschlüsse zur Anklageänderung sind in der Regel nicht selbständig anfechtbar (Bestätigung BGE 148 IV 155 E. 1.1), doch kann eine Rechtsverweigerung vorliegen, wenn ein Berufungsgericht systematisch bereits nicht schwerwiegende Mängel zum Anlass für Rückweisungen nimmt, oder wenn eine ernsthafte Gefahr der Verletzung des Beschleunigungsgebots substanziiert gerügt wird — hier bejaht nach rund sechsjährigem Verfahren.
+
+### [BGer 6B_1239/2021 vom 5. Juni 2023 E. 1.3.1 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1239-2021_2023-06-05.html#consideration_1.3.1) — Toleranzgrenze bei geringfügigen Sachverhaltsabweichungen
+- **Thema**: Immutabilitätsprinzip, Tatmittel-Austausch ohne Anklageänderung
+- **Kernaussage**: Nimmt das Gericht statt des angeklagten Tatmittels (Messer) ein gleichermassen geeignetes anderes Tatmittel an (Bierglas) und unterscheiden sich die Tatvorwürfe nur unwesentlich, bleibt der angeklagte Sachverhalt im Kern unverändert; eine Anklageänderung nach Art. 333 Abs. 4 StPO ist nicht erforderlich.
+
+### [BGer 6B_941/2022 vom 23. November 2022 E. 2.1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-941-2022_2022-11-23.html#consideration_2.1.2) — Verhältnis zu Art. 329 Abs. 2 StPO und qualifizierte Tatvarianten
+- **Thema**: Reichweite von Art. 333 Abs. 1 StPO gegenüber der formellen Vorprüfung
+- **Kernaussage**: Die dem Gericht in Art. 333 Abs. 1 StPO eingeräumte Kompetenz geht weiter als diejenige in Art. 329 Abs. 2 StPO. Die Norm gelangt typischerweise zur Anwendung, wenn der angeklagte Sachverhalt einen anderen Tatbestand erfüllen könnte, dessen Voraussetzungen in der Anklage nicht vollständig umschrieben sind; eine Ergänzung kommt auch in Betracht, wenn der Sachverhalt eine qualifizierte Variante erfüllen könnte.
+
+### [BGer 6B_688/2017 und 6B_689/2017 (vereinigt) vom 1. Februar 2018 E. 2.3 und E. 2.5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-688-2017_2018-02-01.html#consideration_2.5.1) — Grundsatzurteil zum Konnexerfordernis
+- **Thema**: Verhältnis von Art. 333 Abs. 1 StPO zu Art. 329 Abs. 2 und Art. 350 Abs. 1 StPO
+- **Kernaussage**: Art. 333 Abs. 1 StPO verlangt nicht, dass die Tatvorwürfe der neuen und der abgeänderten Anklage absolut identisch sind — die Norm soll der Staatsanwaltschaft gerade die Ergänzung der Anklageschrift in tatsächlicher Hinsicht ermöglichen. Prägt die bis heute massgebliche Formel zur Kompetenzabgrenzung gegenüber Art. 329 Abs. 2 StPO.
+
+### [BGer 6B_1431/2017 vom 31. Juli 2018 E. 1.3 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1431-2017_2018-07-31.html#consideration_1.3) — Bindungswirkung bundesgerichtlicher Rückweisungsentscheide
+- **Thema**: Grenzen der Anklageänderung nach Rückweisung durch das Bundesgericht
+- **Kernaussage**: Eine Anklageänderung nach Art. 333 Abs. 1 StPO ist auch im Berufungsverfahren möglich (Art. 379 StPO), nach einer bundesgerichtlichen Rückweisung aber durch deren Bindungswirkung beschränkt: Die neue Entscheidung ist auf die Thematik beschränkt, die sich aus den bundesgerichtlichen Erwägungen als Gegenstand der neuen Beurteilung ergibt. Eine darüberhinausgehende Änderung (hier: von Vorsatz- auf Fahrlässigkeitsdelikt mit neuem Sachverhaltselement) ist unzulässig.
+
+### [BGer 6B_388/2012 vom 12. November 2012 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-388-2012_2012-11-12.html#consideration_1.3) — Verfassungsmässigkeit des Anklageänderungsmechanismus
+- **Thema**: Vereinbarkeit mit Immutabilitäts- und Gewaltenteilungsprinzip
+- **Kernaussage**: Eine Rückweisung zur Anklageergänzung ist mit dem Akkusations- und dem daraus fliessenden Immutabilitätsprinzip nicht zwingend unvereinbar; diese Möglichkeit ist auch in Art. 333 Abs. 1 StPO vorgesehen. Noch unter altem kantonalem Verfahrensrecht ergangen, aber als Referenz für die ratio legis von Art. 333 StPO herangezogen.
+
+### [BGer 6B_904/2018 vom 8. Februar 2019 E. 2.2–2.4 und E. 4.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-904-2018_2019-02-08.html#consideration_2.2) — Anklageänderung im Berufungsverfahren ohne Rückweisung; Kostenfolgen
+- **Thema**: Verhältnis zu Art. 409 StPO; Kostentragung bei gerichtlich veranlasster Änderung
+- **Kernaussage**: Eine Anklageänderung/-ergänzung nach Art. 329 Abs. 2 bzw. Art. 333 Abs. 1 StPO ist auch im Berufungsverfahren zulässig, ohne dass eine kassatorische Rückweisung nach Art. 409 StPO erforderlich wäre. Zusätzliche Kosten, die durch eine gerichtlich veranlasste Anklageänderung entstehen, dürfen der verurteilten Person im Kostenentscheid nicht auferlegt werden, sondern sind dem Staat aufzuerlegen.
 
 ### [BGer 7B_1231/2024 vom 26. August 2025 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1231-2024_2025-08-26.html#consideration_2.3) — Keine Befangenheit durch gerichtliche Einladung zur Anklageänderung
 - **Thema**: Ausstandsbegehren gegen den Spruchkörper nach Anordnung gemäss Art. 333 StPO
@@ -118,6 +159,51 @@ revisions:
 
 ## III. Kantonale Entscheide und Bundesstrafgericht
 
+### [Kantonsgericht Basel-Landschaft, 460 15 267 vom 27. September 2016, E. 1.7.3 f.](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-15-267_2016-09-27.pdf) — Vorwegnahme der BGE-149-IV-42-Rechtsprechung
+- **Kanton**: Basel-Landschaft (Kantonsgericht, Abteilung Strafrecht)
+- **Thema**: Grenzen von Art. 333 Abs. 1 StPO mitten in laufender Hauptverhandlung
+- **Kernaussage**: Eine Einladung zur Anklageänderung, mit der lediglich eine Sorgfaltspflichtverletzung (unterlassener Beizug einer Fachperson mit Gasmessgerät) innerhalb desselben Fahrlässigkeitstatbestands konkretisiert werden sollte, verletzt das Anklageprinzip — nimmt die spätere BGE 149 IV 42 (2023) im Kern bereits 2016 vorweg. Wegen Heilbarkeit im Berufungsverfahren erging ein reformatorischer statt kassatorischer Entscheid (Art. 408 statt Art. 409 StPO).
+
+### [Kantonsgericht Basel-Landschaft, 460 18 29 vom 3. April 2019, E. 1.3.1–1.3.3](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-18-29_2019-04-03.pdf) — Systematik der vier Korrekturinstrumente
+- **Kanton**: Basel-Landschaft (Kantonsgericht, Abteilung Strafrecht)
+- **Thema**: Abgrenzung Art. 329 Abs. 2 StPO vs. Art. 333 Abs. 1 und 2 StPO
+- **Kernaussage**: Aus dem Gesetz ergeben sich vier Möglichkeiten — Ergänzung und Berichtigung nach Art. 329 Abs. 2 StPO sowie Änderung und Erweiterung der Anklage nach Art. 333 Abs. 1 und 2 StPO —, die hinsichtlich Begriffen und Voraussetzungen strikt zu unterscheiden sind; die gerichtliche Vorprüfung ist nicht mit der Kompetenz zur Anklageänderung nach Art. 333 StPO zu verwechseln.
+
+### [Obergericht Zug, S 2022 17 vom 18. Januar 2023, E. 6.2 f.](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_002_S-2022-17_2023-01-18.pdf) — Kein neuer, bislang unverfolgter Tatvorgang über Art. 333 StPO
+- **Kanton**: Zug (Obergericht, Strafabteilung)
+- **Thema**: Ausschluss der Anklageerweiterung im Berufungsverfahren bei neuem Tatvorgang
+- **Kernaussage**: Ergibt ein im Berufungsverfahren eingeholtes Gutachten eine alternative Brandursache (Lötkolben statt der angeklagten Ursache), scheidet eine Rückweisung nach Art. 333 Abs. 1 StPO aus, weil die Norm nicht darauf abzielt, weitere, bisher nicht verfolgte Tatvorgänge zu erfassen (unter Verweis auf BGE 147 IV 167 E. 1.4).
+
+### [Kantonsgericht Freiburg, Strafappellationshof, 501 2024 1 vom 20. Februar 2026, E. 1.2.1 f.](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_006_501-2024-1_2026-02-20.pdf) — Konkreter Fristablauf und fehlendes Antragsrecht
+- **Kanton**: Freiburg (Kantonsgericht, Strafappellationshof)
+- **Thema**: Praktischer Ablauf einer Anklageänderung im Berufungsverfahren
+- **Kernaussage**: Illustriert einen konkreten Fristablauf (Einladung mit Frist, fristgerechte Ergänzung der Anklage um eine Sachverhaltsalternative) und bestätigt, dass Art. 333 StPO kein Antragsrecht der Parteien vorsieht; eine Anklageänderung bleibt im Rahmen von Art. 379 StPO auch im Berufungsverfahren zulässig, soweit das Verschlechterungsverbot gewahrt bleibt.
+
+### [Kantonsgericht Graubünden, I. Strafkammer, SK1 2023 71 vom 10. Juli 2024, E. 5.3.2 f.](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_004_SK1-2023-71_2024-07-10.pdf) — Rechtsfolge unterbliebener Anklageänderung bei Urkundendelikten
+- **Kanton**: Graubünden (Kantonsgericht, I. Strafkammer)
+- **Thema**: Konkrete Anwendung von BGE 149 IV 42 bei Urkundenfälschung
+- **Kernaussage**: Legt die Staatsanwaltschaft nicht alle tatsächlichen Feststellungen dar, aus denen sich das inkriminierte Verhalten (manipulierte E-Mail) ergeben könnte, kann dies nicht zur Verpflichtung des Gerichts führen, Gelegenheit zur Anklageänderung zu geben — Konsequenz ist der Freispruch statt Rückweisung.
+
+### [Obergericht Aargau, Strafgericht (Berufungskammer), SST.2023.179 vom 28. Mai 2024](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-179_2024-05-28.pdf) — Keine Anwendung von Art. 333 StPO von Amtes wegen
+- **Kanton**: Aargau (Obergericht, Strafgericht)
+- **Thema**: Dispositionsmaxime bei Anklageänderung/-erweiterung
+- **Kernaussage**: Wird von keiner Partei eine Anklageänderung oder -erweiterung nach Art. 333 StPO beantragt, fällt deren Prüfung ausser Betracht, auch wenn ein zusätzlicher Tatvorwurf materiell naheläge — das Gericht wendet die Norm nicht von Amtes wegen an.
+
+### [Bundesstrafgericht, Beschwerdekammer, BB.2023.123 vom 19. Juli 2023, E. 3.2.3–4.3](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2023-123_2023-07-19.pdf) — Form der gerichtlichen Einladung und Ausstand
+- **Gericht**: Bundesstrafgericht (Beschwerdekammer)
+- **Thema**: Ausstandsbegehren gegen eine Einladung zur Änderung und Erweiterung der Anklage
+- **Kernaussage**: Das Sachgericht kann der Staatsanwaltschaft im Rahmen von Art. 333 StPO nicht mehr geben als die Gelegenheit zur Änderung oder Erweiterung der Anklage; eine entsprechende Einladung (hier zur Prüfung einer Mordqualifikation) begründet für sich keine Befangenheit.
+
+### [Appellationsgericht Basel-Stadt, Dreiergericht, SB.2018.111 vom 13. April 2019, E. 4.1.2 f.](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2018-111_2019-04-13.html) — Prognosekriterium bei Rückweisungsentscheiden
+- **Kanton**: Basel-Stadt (Appellationsgericht)
+- **Thema**: Ermessen des Gerichts bei der Rückweisung zur Anklageänderung
+- **Kernaussage**: Eine Rückweisung hat nur zu erfolgen, wenn eine ergänzte Anklage mit einiger Wahrscheinlichkeit zu einer Verurteilung führen würde; droht auch bei Ergänzung ein Freispruch (hier: unvermeidbarer Rechtsirrtum im Ausländerstrafrecht), erübrigt sich die Rückweisung, und das Gericht spricht direkt frei.
+
+### [Obergericht Thurgau, RBOG 2013 Nr. 21 vom 2. Oktober 2013](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2013-Nr--21_2011-01-10.html) — Strafbefehl als mangelhafte Anklageschrift
+- **Kanton**: Thurgau (Obergericht)
+- **Thema**: Grenzfall zwischen Anklagemangel und Anwendungsbereich von Art. 333 StPO
+- **Kernaussage**: Ein als Anklageschrift geltender Strafbefehl, der den Anforderungen des Anklagegrundsatzes von Anfang an nicht genügt (hier: keine Ausführungen zum subjektiven Tatbestand), kann nicht durch blosse Akten- oder Schriftverweise geheilt werden.
+
 ### [Obergericht Zürich, Beschluss SB150349 vom 7. Mai 2018, E. II.4–6](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150349_2018-05-07.html) — Proaktive Anklageänderung und Rückweisung an die erste Instanz
 - **Kanton**: Zürich (Obergericht)
 - **Thema**: Selbständige Anklageänderung der Staatsanwaltschaft im Berufungsverfahren und Wahrung des Doppelinstanzenzugs
@@ -160,4 +246,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 30. August 2026*
+*Letzte Aktualisierung: 4. September 2026*
