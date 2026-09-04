@@ -5,7 +5,13 @@ date: "2026-07-09"
 lastmod: "2026-07-09"
 description: "Kommentar zu Art. 93 BGG – Anfechtbarkeit anderer Vor- und Zwischenentscheide, nicht wieder gutzumachender Nachteil, Verfahrensökonomie"
 tags: ["BGG", "Vorentscheid", "Zwischenentscheid", "nicht wieder gutzumachender Nachteil", "Verfahrensökonomie", "Rückweisungsentscheid"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut

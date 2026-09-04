@@ -5,7 +5,13 @@ date: 2026-05-23
 lastmod: 2026-06-20
 description: "Kommentar zu Art. 42 BGG – Begründungspflicht der Beschwerde, Mindestanforderungen und qualifizierte Rügepflicht"
 tags: ["BGG", "Beschwerde", "Begründungspflicht", "Rechtsschrift", "Bundesgericht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Querverweise korrigiert, Gesetzeswortlaut gegen Fedlex verifiziert"
 ---
 
 ## Gesetzestext
@@ -47,34 +53,34 @@ Seit dem 1. Januar 2025 können Rechtsschriften in **Zivilsachen in englischer S
 
 #### Mindestanforderung
 
-In der Begründung ist **in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt**. Der Beschwerdeführer muss sich wenigstens kurz mit den Erwägungen des angefochtenen Entscheids auseinandersetzen ([BGE 134 II 244](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_II_244), E. 2.1). 
+In der Begründung ist **in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt**. Der Beschwerdeführer muss sich wenigstens kurz mit den Erwägungen des angefochtenen Entscheids auseinandersetzen ([BGE 134 II 244](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-134-II-244_2008.html), E. 2.1).
 
 **Nicht ausreichend** ist:
 - Blosse Wiederholung der kantonalen Argumentation oder pauschale Verweise auf frühere Rechtsschriften und Akten ([BGE 142 III 364 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-364_2016.html));
-- Appellatorische Kritik ohne konkrete Rechtswidrigkeitsrüge ([BGer 5A_131/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026));
+- Appellatorische Kritik ohne konkrete Rechtswidrigkeitsrüge ([BGer 5A_131/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-131-2026_2026-08-11.html));
 - Allgemeine Unzufriedenheit mit dem Entscheid.
 
 #### Auseinandersetzungspflicht
 
-Der Beschwerdeführer muss sich **gezielt mit den für das Ergebnis massgeblichen Erwägungen** auseinandersetzen und plausibel aufzeigen, welche Rechte bzw. Rechtsnormen die Vorinstanz verletzt haben soll ([BGE 148 IV 205](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-205_2022.html), E. 2.6; [BGer 2C_732/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-732-2025_2025-10-31.html), E. 3.1).
+Der Beschwerdeführer muss sich **gezielt mit den für das Ergebnis massgeblichen Erwägungen** auseinandersetzen und plausibel aufzeigen, welche Rechte bzw. Rechtsnormen die Vorinstanz verletzt haben soll ([BGE 148 IV 205 E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-205_2022.html); [BGer 2C_732/2025 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-732-2025_2025-10-31.html)).
 
 #### Qualifizierte Rüge- und Begründungspflicht
 
-Für Rügen der **Verletzung von Grundrechten**, einschliesslich des Willkürverbots, gilt eine **qualifizierte Rüge- und Begründungspflicht** nach Art. 106 Abs. 2 BGG. Die Beschwerdeschrift muss die wesentlichen Tatsachen und eine kurz gefasste Darlegung darüber enthalten, welche verfassungsmässigen Rechte inwiefern verletzt worden sind ([BGE 134 II 244](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-134-II-244_2008.html), E. 2.2; [BGE 133 IV 286](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-286_2007.html)).
+Für Rügen der **Verletzung von Grundrechten**, einschliesslich des Willkürverbots, gilt eine **qualifizierte Rüge- und Begründungspflicht** nach Art. 106 Abs. 2 BGG. Die Beschwerdeschrift muss die wesentlichen Tatsachen und eine kurz gefasste Darlegung darüber enthalten, welche verfassungsmässigen Rechte inwiefern verletzt worden sind ([BGE 134 II 244 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-134-II-244_2008.html); [BGE 133 IV 286](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-286_2007.html)).
 
-Auf **rein appellatorische Kritik** tritt das Bundesgericht in Grundrechtsfragen nicht ein ([BGer 5A_131/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026)).
+Auf **rein appellatorische Kritik** tritt das Bundesgericht in Grundrechtsfragen nicht ein ([BGer 5A_131/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-131-2026_2026-08-11.html)).
 
 #### Grundsatzfragen und besonders bedeutende Fälle
 
-Ist die Beschwerde nur bei **grundsätzlicher Bedeutung** oder bei **besonders bedeutendem Fall** zulässig (Art. 74 Abs. 2 lit. a und b BGG), muss **explizit dargelegt** werden, warum diese Voraussetzung erfüllt ist ([BGE 133 III 439](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_133_III_439)). Erfolgt dies nicht, ist darauf nicht einzutreten.
+Ist die Beschwerde nur bei **grundsätzlicher Bedeutung** oder bei **besonders bedeutendem Fall** zulässig (Art. 74 Abs. 2 lit. a und b BGG), muss **explizit dargelegt** werden, warum diese Voraussetzung erfüllt ist ([BGE 133 III 439 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-439_2007.html)). Erfolgt dies nicht, ist darauf nicht einzutreten.
 
 ### Begründungspflicht auch für die beschwerdegegnerische Partei
 
-Die Begründungspflicht nach Art. 42 Abs. 2 BGG gilt **sinngemäss auch für die beschwerdegegnerische Partei**. Das Bundesgericht wendet das Recht zwar von Amtes wegen an (Art. 106 Abs. 1 BGG), setzt aber voraus, dass die minimalen Begründungsanforderungen erfüllt sind ([BGE 140 III 86](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_140_III_86), E. 2).
+Die Begründungspflicht nach Art. 42 Abs. 2 BGG gilt **sinngemäss auch für die beschwerdegegnerische Partei**. Das Bundesgericht wendet das Recht zwar von Amtes wegen an (Art. 106 Abs. 1 BGG), setzt aber voraus, dass die minimalen Begründungsanforderungen erfüllt sind ([BGE 140 III 86 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-86_2014.html)).
 
 ### Absatz 5 — Nachfrist nur bei formellen Mängeln
 
-Art. 42 Abs. 5 BGG ermöglicht die Ansetzung einer **Nachfrist nur bei formellen Mängeln** (fehlende Unterschrift, Vollmacht oder Beilagen). Bei **inhaltlichen Begründungsmängeln** besteht kein Nachfristanspruch ([BGE 134 II 244](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_134_II_244), E. 2.4.2).
+Art. 42 Abs. 5 BGG ermöglicht die Ansetzung einer **Nachfrist nur bei formellen Mängeln** (fehlende Unterschrift, Vollmacht oder Beilagen). Bei **inhaltlichen Begründungsmängeln** besteht kein Nachfristanspruch ([BGE 134 II 244 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-134-II-244_2008.html)).
 
 ### Absätze 6 und 7 — Zurückweisung und Querulatorensperre
 

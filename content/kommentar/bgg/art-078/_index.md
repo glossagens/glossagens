@@ -5,7 +5,13 @@ date: 2026-05-31
 lastmod: "2026-07-31"
 description: "Kommentar zu Art. 78 BGG – Grundsatz der Beschwerde in Strafsachen: sachlicher Anwendungsbereich, Zivilansprüche, Vollzug von Strafen und Massnahmen"
 tags: ["BGG", "Beschwerde", "Strafsachen", "Zivilansprüche", "Vollzug", "Rechtsmittel"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut
@@ -27,13 +33,13 @@ agent_verified: true
 
 Der Begriff der Strafsache umfasst alle Entscheide, die sich auf die Beurteilung einer strafbaren Handlung, die Verhängung oder den Erlass einer Strafe oder Massnahme beziehen. Dies erstreckt sich auf das gesamte Strafverfahrensrecht: Anklage, Schuldspruch, Strafzumessung, Massnahmen, Einstellung, Freispruch und die damit verbundenen prozessualen Zwischenentscheide.
 
-Die Beschwerde in Strafsachen steht der Staatsanwaltschaft ohne Einschränkung zu; sie kann alle Beschwerdegründe nach Art. 95–98 BGG vorbringen ([BGE 134 IV 36](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2).
+Die Beschwerde in Strafsachen steht der Staatsanwaltschaft ohne Einschränkung zu; sie kann alle Beschwerdegründe nach Art. 95–98 BGG vorbringen ([BGE 134 IV 36 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-36_2008.html)).
 
 #### Rz. 3 — Abgrenzung zur Zivilbeschwerde
 
-Ist nur noch der Zivilpunkt strittig, so ist die Beschwerde in Zivilsachen und nicht die Strafbeschwerde zulässig. Die Strafbeschwerde setzt keinen Streitwert voraus, während die Zivilbeschwerde an die Streitwertgrenze von Art. 74 BGG gebunden ist ([BGE 133 III 701](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2).
+Ist nur noch der Zivilpunkt strittig, so ist die Beschwerde in Zivilsachen und nicht die Strafbeschwerde zulässig. Die Strafbeschwerde setzt keinen Streitwert voraus, während die Zivilbeschwerde an die Streitwertgrenze von Art. 74 BGG gebunden ist ([BGE 133 III 701 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-701_2007.html)).
 
-Die Abgrenzung ist von erheblicher praktischer Bedeutung, da die Zivilbeschwerde an den Streitwert von Art. 74 BGG gebunden ist, während die Strafbeschwerde ohne solche Voraussetzung erhoben werden kann. Geschädigte, die nicht Opfer im Sinne des OHG sind, sind zur Beschwerde im strafrechtlichen Schuldpunkt nicht legitimiert ([BGE 136 IV 29](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2).
+Die Abgrenzung ist von erheblicher praktischer Bedeutung, da die Zivilbeschwerde an den Streitwert von Art. 74 BGG gebunden ist, während die Strafbeschwerde ohne solche Voraussetzung erhoben werden kann. Geschädigte, die nicht Opfer im Sinne des OHG sind, sind zur Beschwerde im strafrechtlichen Schuldpunkt nicht legitimiert ([BGE 136 IV 29 E. 1.1–1.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-29_2010.html)).
 
 #### Rz. 4 — Kriminaladministrativmassnahmen
 
@@ -45,7 +51,7 @@ Nicht unter den Strafsachenbegriff fallen kriminaladministrative Massnahmen wie 
 
 Zivilansprüche unterliegen der Beschwerde in Strafsachen, wenn sie zusammen mit der Strafsache zu behandeln sind. Dies setzt voraus, dass die letzte kantonale Instanz sowohl den Straf- als auch den Zivilpunkt zu beurteilen hatte. War nur noch der Zivilpunkt strittig, ist ausschliesslich die Beschwerde in Zivilsachen zulässig.
 
-Die Strafbeschwerde kann auch zur Durchsetzung von Zivilansprüchen genutzt werden, soweit diese mit der Strafsache zusammenhängen. Der Geschädigte, der nicht Opfer im Sinne des OHG ist, ist jedoch im Schuldpunkt nicht legitimiert; ob ihm die Strafbeschwerde überhaupt zur Verfügung steht, hängt gemäss Art. 78 Abs. 2 lit. a BGG davon ab, ob die Zivilansprüche zusammen mit der Strafsache zu behandeln sind ([BGE 136 IV 29](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2).
+Die Strafbeschwerde kann auch zur Durchsetzung von Zivilansprüchen genutzt werden, soweit diese mit der Strafsache zusammenhängen. Der Geschädigte, der nicht Opfer im Sinne des OHG ist, ist jedoch im Schuldpunkt nicht legitimiert; ob ihm die Strafbeschwerde überhaupt zur Verfügung steht, hängt gemäss Art. 78 Abs. 2 lit. a BGG davon ab, ob die Zivilansprüche zusammen mit der Strafsache zu behandeln sind ([BGE 136 IV 29 E. 1.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-29_2010.html)).
 
 #### Rz. 6 — Adhäsionsverfahren
 
@@ -63,25 +69,25 @@ Der Vollzug von Strafen und Massnahmen unterliegt der Beschwerde in Strafsachen.
 - Aussetzung von Strafen
 - Bewährungshilfe und Nachbetreuung
 
-Das kantonale Verwaltungsgericht ist gemäss Art. 80 Abs. 2 BGG i.V.m. kantonalem Übergangsrecht letzte kantonale Rechtsmittelinstanz in Straf- und Massnahmevollzugsstreitigkeiten, deren Entscheide mit Beschwerde in Strafsachen ans Bundesgericht weiterzuziehen sind ([BGE 135 I 6](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2). Die Verweigerung der Zuständigkeit durch das kantonale Gericht verstösst gegen Verfassungs- und Bundesrecht.
+Das kantonale Verwaltungsgericht ist gemäss Art. 80 Abs. 2 BGG i.V.m. kantonalem Übergangsrecht letzte kantonale Rechtsmittelinstanz in Straf- und Massnahmevollzugsstreitigkeiten, deren Entscheide mit Beschwerde in Strafsachen ans Bundesgericht weiterzuziehen sind ([BGE 135 I 6 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-6_2009.html)). Die Verweigerung der Zuständigkeit durch das kantonale Gericht verstösst gegen Verfassungs- und Bundesrecht.
 
 #### Rz. 8 — SIS-Ausschreibung und Landesverweisung
 
-Gegen die Ausschreibung der Landesverweisung im Schengener Informationssystem (SIS) ist die Beschwerde in Strafsachen an das Bundesgericht gegeben (Art. 78 ff. BGG). Die Ausschreibung ist vollzugs- bzw. polizeirechtlicher Natur, unterliegt nicht dem Anklageprinzip und muss zwingend im Dispositiv des Strafurteils erwähnt werden ([BGE 146 IV 172](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 3). Im Berufungsverfahren gelangt das Verschlechterungsverbot (reformatio in peius) auf die SIS-Ausschreibung mindestens dann nicht zur Anwendung, wenn die Frage erstinstanzlich unbehandelt blieb.
+Gegen die Ausschreibung der Landesverweisung im Schengener Informationssystem (SIS) ist die Beschwerde in Strafsachen an das Bundesgericht gegeben (Art. 78 ff. BGG). Die Ausschreibung ist vollzugs- bzw. polizeirechtlicher Natur, unterliegt nicht dem Anklageprinzip und muss zwingend im Dispositiv des Strafurteils erwähnt werden ([BGE 146 IV 172 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-172_2020.html)). Im Berufungsverfahren gelangt das Verschlechterungsverbot (reformatio in peius) auf die SIS-Ausschreibung mindestens dann nicht zur Anwendung, wenn die Frage erstinstanzlich unbehandelt blieb.
 
 #### Rz. 9 — Rechtsschutzinteresse im Vollzugsstadium
 
-Die Beschwerde im Vollzugsstadium setzt ein aktuelles und konkretes Rechtsschutzinteresse voraus. Ein solches Interesse kann allein aufgrund des Zeitablaufs weder a priori ausgeschlossen noch vermutet werden. Der Beschwerdeführer muss glaubhaft machen, dass sich die massgebenden Umstände seit dem anordnenden Urteil verändert haben ([BGE 147 IV 453](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 3).
+Die Beschwerde im Vollzugsstadium setzt ein aktuelles und konkretes Rechtsschutzinteresse voraus. Ein solches Interesse kann allein aufgrund des Zeitablaufs weder a priori ausgeschlossen noch vermutet werden. Der Beschwerdeführer muss glaubhaft machen, dass sich die massgebenden Umstände seit dem anordnenden Urteil verändert haben ([BGE 147 IV 453 E. 1.4.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html)).
 
 ### IV. Prozessuale Besonderheiten
 
 #### Rz. 10 — Fristenstillstand
 
-Beim Fristenstillstand nach Art. 46 BGG ist zwischen End- und Zwischenentscheiden zu unterscheiden. Strafprozessuale Zwischenentscheide (insbesondere Beschlagnahmen) sind als andere vorsorgliche Massnahmen (Art. 46 Abs. 2 BGG) zu behandeln, bei denen kein Fristenstillstand eintritt. Endentscheide, namentlich Einstellungsverfügungen, unterliegen hingegen den Gerichtsferien ([BGE 138 IV 186](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 3).
+Beim Fristenstillstand nach Art. 46 BGG ist zwischen End- und Zwischenentscheiden zu unterscheiden. Strafprozessuale Zwischenentscheide (insbesondere Beschlagnahmen) sind als andere vorsorgliche Massnahmen (Art. 46 Abs. 2 BGG) zu behandeln, bei denen kein Fristenstillstand eintritt. Endentscheide, namentlich Einstellungsverfügungen, unterliegen hingegen den Gerichtsferien ([BGE 138 IV 186 E. 1.1–1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-186_2012.html)).
 
 #### Rz. 11 — Geschädigtenlegitimation
 
-Der Geschädigte, der nicht Opfer im Sinne des OHG ist, ist zur Beschwerde in Strafsachen im strafrechtlichen Schuldpunkt nicht legitimiert. Bei Verkehrsunfällen ohne Körperschaden klärt die Rechtsprechung den Begriff des Geschädigten im Kontext der Beschwerde in Strafsachen ([BGE 138 IV 258](https://bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&mode=index), E. 2). Beschwerde gegen einen Zwischenentscheid wegen Rechtsverweigerung (Art. 93 Abs. 1 lit. a BGG) verzichtet auf das Erfordernis des nicht wieder gutzumachenden Nachteils.
+Der Geschädigte, der nicht Opfer im Sinne des OHG ist, ist zur Beschwerde in Strafsachen im strafrechtlichen Schuldpunkt nicht legitimiert. Bei Verkehrsunfällen ohne Körperschaden klärt die Rechtsprechung den Begriff des Geschädigten im Kontext der Beschwerde in Strafsachen ([BGE 138 IV 258 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-258_2012.html)). Beschwerde gegen einen Zwischenentscheid wegen Rechtsverweigerung (Art. 93 Abs. 1 lit. a BGG) verzichtet auf das Erfordernis des nicht wieder gutzumachenden Nachteils.
 
 #### Rz. 12 — Verhältnis zur Beschwerde in öffentlich-rechtlichen Angelegenheiten
 

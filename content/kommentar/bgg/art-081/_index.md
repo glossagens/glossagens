@@ -61,7 +61,7 @@ Vorausgesetzt ist die Parteistellung und tatsächliche Mitwirkung vor der Vorins
 
 #### 1. Die beschuldigte Person (Ziff. 1)
 Die beschuldigte Person ist durch jeden verurteilenden oder sie anderweitig beschwerenden Strafentscheid (z.B. Massnahmenanordnung, Kostenauflage, Entsiegelung) unmittelbar in ihren rechtlich geschützten Interessen betroffen.
-- **Keine Geltendmachung fremder Rechte:** Die beschuldigte Person (wie auch ihr Verteidiger) kann vor Bundesgericht nur die Verletzung eigener Rechte rügen; die Rüge einer Rechtsverletzung zulasten von Mitbeschuldigten oder Mandanten ist mangels eigenem Rechtsschutzinteresse unzulässig ([BGer 7B_219/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=20.08.2026_7B_219/2026); [BGE 145 IV 161 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-145-IV-161_2019.html)).
+- **Keine Geltendmachung fremder Rechte:** Die beschuldigte Person (wie auch ihr Verteidiger) kann vor Bundesgericht nur die Verletzung eigener Rechte rügen; die Rüge einer Rechtsverletzung zulasten von Mitbeschuldigten oder Mandanten ist mangels eigenem Rechtsschutzinteresse unzulässig ([BGer 7B_219/2026 vom 20. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html); [BGE 145 IV 161 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-145-IV-161_2019.html)).
 
 #### 2. Die Staatsanwaltschaft (Ziff. 3)
 Die Staatsanwaltschaft vertritt den staatlichen Strafanspruch und ist grundsätzlich zur Beschwerde in Strafsachen befugt.
@@ -79,7 +79,7 @@ Fehlt es der Privatklägerschaft an der materiellen Legitimation (z.B. weil kein
 ## Praxisfragen
 
 ### 1. Fehlendes Rechtsschutzinteresse bei behördeninternen Organisationsgründen
-In der Praxis versuchen Parteien oder Behörden gelegentlich, Ausstands- oder Zuständigkeitsentscheide anzufechten. Nach der Rechtsprechung ([BGer 7B_105/2026 vom 11. August 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_7B_105/2026)) begründen blosse organisatorische Nachteile, personeller Mehraufwand oder allgemeine Überlegungen zur behördlichen Ressourcenverschwendung kein rechtlich geschütztes Interesse im Sinne von Art. 81 Abs. 1 lit. b BGG.
+In der Praxis versuchen Parteien oder Behörden gelegentlich, Ausstands- oder Zuständigkeitsentscheide anzufechten. Nach der Rechtsprechung ([BGer 7B_105/2026 vom 12. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-105-2026_2026-08-12.html)) begründen blosse organisatorische Nachteile, personeller Mehraufwand oder allgemeine Überlegungen zur behördlichen Ressourcenverschwendung kein rechtlich geschütztes Interesse im Sinne von Art. 81 Abs. 1 lit. b BGG.
 
 ### 2. Keine Beschwerdebefugnis der abgelehnten Gerichtsperson
 Wird ein Ausstandsgesuch gegen eine Richterin oder einen Staatsanwalt gutgeheissen, kann die abgelehnte Amtsperson diesen Entscheid nicht selbst beim Bundesgericht anfechten ([BGE 149 IV 213 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-213_2023.html)). Das Ausstandsrecht dient der Garantie eines unparteiischen Gerichts für die Parteien und verleiht dem Richter kein persönliches Abwehrrecht.

@@ -5,7 +5,13 @@ date: 2026-05-23
 lastmod: 2026-06-20
 description: "Kommentar zu Art. 95 BGG: Rügegründe der Beschwerde — Verletzung von Bundesrecht, Völkerrecht, kantonalen verfassungsrechtlichen Rechten und interkantonalem Recht."
 tags: ["BGG", "Bundesgericht", "Beschwerdegründe", "Bundesrechtsverletzung", "Willkür", "Völkerrecht", "Rechtsmittel"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut

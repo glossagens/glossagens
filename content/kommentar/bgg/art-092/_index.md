@@ -5,7 +5,13 @@ date: "2026-07-09"
 lastmod: "2026-07-09"
 description: "Kommentar zu Art. 92 BGG – Anfechtbarkeit von Vor- und Zwischenentscheiden über Zuständigkeit und Ausstand"
 tags: ["BGG", "Vorentscheid", "Zwischenentscheid", "Zuständigkeit", "Ausstand", "Beschwerde"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut

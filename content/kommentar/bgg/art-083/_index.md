@@ -5,7 +5,13 @@ date: 2026-05-23
 lastmod: 2026-06-20
 description: "Kommentar zu Art. 83 BGG: Exhaustiver Katalog der Beschwerdeunzulässigkeit — Prüfungsentscheide, Ausländerrecht, Asylrecht, öffentliche Beschaffungen, Arbeitsverhältnisse, Amtshilfe und weitere Ausnahmebereiche"
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht", "öffentliche Beschaffungen", "Amtshilfe"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 
 ## Gesetzeswortlaut
