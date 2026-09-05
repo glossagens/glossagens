@@ -5,8 +5,13 @@ date: 2026-08-30
 lastmod: 2026-09-04
 description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher Zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: false
+    note: "Umbau auf das Merkmalsraster nach Skill praxisorientierter-kommentar Abschnitt 3 (Fassung vom 04.09.2026, 15:09): Prüfschema-Tabelle mit Beweislast je Merkmal als deckungsgleiches Inhaltsverzeichnis eingesetzt (ersetzt die bisherige Fünf-Stufen-Übersicht ohne Abschnittsbezug); Abschnitte entlang der Merkmale neu benannt und geordnet; neuer Abschnitt A zum bisher fehlenden Merkmal der zulässigen Anlasstat samt ausdrücklichem Vermerk der Praxislücke; die bisher unter «Praxis- und Verfahrensklippen» vermischten Punkte auf die Merkmale 4 (Ersatzmassnahmen) und 5 (Überhaftverbot) sowie einen eigenen prozessualen Abschnitt aufgeteilt. Gesetzeswortlaut verbatim gegen Fedlex (SR 312.0, Konsolidierung 01.04.2025) geprüft. VERIFIKATIONSBEFUND: Drei Fundstellen hielten der Volltextprüfung auf entscheidsuche.ch nicht stand und wurden entfernt — BGer 7B_177/2023 (angeblich vom 20.11.2023 zur Ausführungsgefahr; tatsächlich Urteil vom 07.05.2024, Genfer Nichtanhandnahmeverfahren wegen falschen Zeugnisses, ohne jeden Haftbezug), BGer 1B_180/2021 (angeblich vom 18.05.2021 zu Ersatzmassnahmen; tatsächlich Urteil vom 10.05.2021 über ein Ausstandsgesuch gegen einen Staatsanwalt) und GL OG OG.2021.00012 (angeblich vom 12.04.2021 zu Ersatzmassnahmen; tatsächlich Editionsverfügung vom 04.02.2021). Die betroffene kantonale Praxisfrage ist ohne diese Belege neu gefasst und trägt neu einen Vermerk der Praxislücke. Zwei weitere Links korrigiert (BGE 143 IV 9 falsches Jahr 2016 statt 2017, BGE 132 I 21 falsches Jahr 2005 statt 2006). Alle übrigen Fundstellen des Artikels wurden im Rahmen dieses Laufs nicht einzeln nachgeprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -49,24 +54,54 @@ Art. 221 StPO ist die schärfste Eingriffsnorm der Schweizerischen Strafprozesso
 
 Weil der Eingriff in die persönliche Freiheit (Art. 10 Abs. 2, Art. 31 BV; Art. 5 EMRK) maximal intensiv ist, verlangt das Bundesgericht strikt die Beachtung des **Ultima-Ratio-Prinzips** (Art. 197 Abs. 1 lit. c und d StPO; Art. 212 Abs. 2 lit. c StPO). Die Inhaftierung ist verfassungsrechtlich nur haltbar, wenn die materiellen Haftgründe und die Verhältnismässigkeit kumulativ nachgewiesen sind.
 
-Die gerichtliche Prüfung folgt fünf logischen Stufen:
+### Prüfschema: die Merkmale in ihrer Prüfungsreihenfolge
 
-| Stufe | Prüfschritt | Gesetzliche Basis | Dogmatische Kernfrage |
-|---|---|---|---|
-| **1. Stufe** | Zulässige Anlasstat | Abs. 1 Ingress / Abs. 1bis lit. a | Liegt ein Verbrechen oder Vergehen vor (Übertretungen genügen nie)? |
-| **2. Stufe** | Dringender Tatverdacht | Abs. 1 Ingress | Erscheint die Tatbeteiligung mit erheblicher Wahrscheinlichkeit gegeben? |
-| **3. Stufe** | Besonderer Haftgrund | Abs. 1 lit. a–c, Abs. 1bis lit. b, Abs. 2 | Liegt Flucht-, Kollusions-, Wiederholungs- oder Ausführungsgefahr vor? |
-| **4. Stufe** | Verhältnismässigkeit (Ersatzmassnahmen) | Art. 197 Abs. 1 lit. c, Art. 237 StPO | Kann der Zweck durch mildere Massnahmen (Kaution, EM, Rayonverbot) erreicht werden? |
-| **5. Stufe** | Zeitliche Verhältnismässigkeit (Überhaft) | Art. 212 Abs. 3 StPO | Nähert sich die erstandene Haftdauer der mutmasslichen Freiheitsstrafe? |
+Die Haft ist nur zulässig, wenn **alle** Merkmale kumulativ erfüllt sind. Die folgende Tabelle ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile findet sich unten als Abschnitt wieder, in derselben Reihenfolge.
+
+| Nr. | Merkmal | Was zu prüfen ist | Behauptungs- und Beweislast / Beweismass | Abschnitt |
+|---|---|---|---|---|
+| 1 | **Zulässige Anlasstat** | Verbrechen oder Vergehen (Abs. 1); bei Abs. 1 lit. c und Abs. 1bis qualifiziert: Verbrechen oder **schweres** Vergehen; bei Abs. 2 **schweres Verbrechen** | Staatsanwaltschaft; reine Rechtsfrage der Deliktsqualifikation | [A](#a-merkmal-1-die-anlasstat--verbrechen-oder-vergehen) |
+| 2 | **Dringender Tatverdacht** | Konkrete Verdachtsmomente, wonach das Verhalten mit **erheblicher Wahrscheinlichkeit** die Tatbestandsmerkmale erfüllt; dynamisch steigender Massstab | Staatsanwaltschaft; **kein** Regelbeweismass, keine erschöpfende Beweiswürdigung | [B](#b-merkmal-2-dringender-tatverdacht-abs-1) |
+| 3a | **Fluchtgefahr** (Abs. 1 lit. a) | Ernsthafte Anhaltspunkte; Straferwartung allein genügt nie; Abwägung Fluchtanreize gegen Verankerung | Staatsanwaltschaft; konkrete Indizien | [C](#c-merkmal-3a-fluchtgefahr-abs-1-lit-a) |
+| 3b | **Kollusionsgefahr** (Abs. 1 lit. b) | Konkrete Verdunkelungshandlungen; abstrakte Behauptungen genügen nicht | Staatsanwaltschaft; strikter Massstab | [D](#d-merkmal-3b-kollusionsgefahr-abs-1-lit-b) |
+| 3c | **Wiederholungsgefahr** (Abs. 1 lit. c / Abs. 1bis) | Vortatenerfordernis nach lit. c; ohne Vortaten nur über Abs. 1bis bei schwerer Integritätsverletzung | Staatsanwaltschaft; Rückfallprognose, regelmässig gutachterlich | [E](#e-merkmal-3c-wiederholungsgefahr-abs-1-lit-c-und-abs-1bis) |
+| 3d | **Ausführungsgefahr** (Abs. 2) | Ernsthafte und **unmittelbare** Gefahr der Verwirklichung einer Drohung; nur bei schweren Verbrechen | Staatsanwaltschaft; strikte Schranke | [F](#f-merkmal-3d-ausführungsgefahr-abs-2) |
+| 4 | **Verhältnismässigkeit: Ersatzmassnahmen** | Kann der Haftzweck mit milderen Mitteln erreicht werden (Art. 197 Abs. 1 lit. c, Art. 237 StPO)? | Von Amtes wegen zu prüfen; Verteidigung trägt die **Substanziierungslast** für konkrete Vorschläge | [G](#g-merkmal-4-verhältnismässigkeit--der-vorrang-der-ersatzmassnahmen) |
+| 5 | **Zeitliche Verhältnismässigkeit** | Nähert sich die erstandene Haft der mutmasslichen Freiheitsstrafe (Art. 212 Abs. 3 StPO)? | Von Amtes wegen; Prognose der konkret zu erwartenden Strafe | [H](#h-merkmal-5-zeitliche-verhältnismässigkeit--das-überhaftverbot) |
+
+> **Grundsatz.** Die Merkmale 1 und 2 tragen jede Haft; die Merkmale 3a–3d stehen **alternativ** zueinander — ein einziger Haftgrund genügt. Die Merkmale 4 und 5 sind demgegenüber wieder kumulativ: Auch bei erdrückendem Tatverdacht und klarer Fluchtgefahr fällt die Haft, wenn eine mildere Massnahme genügt oder Überhaft droht.
 
 ### Die Revision per 1. Januar 2024: Schliessung der Schutzlücke für Ersttäter
-Mit der Revision per 1. Januar 2024 hat der Bundesgesetzgeber eine der umstrittensten Fragen der StPO-Praxis gelöst. Nach bisherigem Recht (aArt. 221 Abs. 1 lit. c StPO) setzte die Wiederholungsgefahr zwingend voraus, dass die Person *«bereits früher gleichartige Straftaten verübt hat»*. Das Bundesgericht hatte diese «Planwidrigkeit» in praxi bereits ab [BGE 137 IV 13](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html) und [BGE 143 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2016.html) durch richterliche Lückenfüllung korrigiert («qualifizierte Wiederholungsgefahr» bei untragbar hohem Risiko). Mit dem neuen **Abs. 1bis** schuf der Gesetzgeber die ausdrückliche gesetzliche Grundlage, um Ersttäter bei schwersten Integritätsdelikten (Gewalt-, Tötungs- und Sexualdelikte) auch ohne Vorstrafen in Präventivhaft zu nehmen ([BGE 150 IV 149 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-149_2024.html)).
+Mit der Revision per 1. Januar 2024 hat der Bundesgesetzgeber eine der umstrittensten Fragen der StPO-Praxis gelöst. Nach bisherigem Recht (aArt. 221 Abs. 1 lit. c StPO) setzte die Wiederholungsgefahr zwingend voraus, dass die Person *«bereits früher gleichartige Straftaten verübt hat»*. Das Bundesgericht hatte diese «Planwidrigkeit» in praxi bereits ab [BGE 137 IV 13](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html) und [BGE 143 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2017.html) durch richterliche Lückenfüllung korrigiert («qualifizierte Wiederholungsgefahr» bei untragbar hohem Risiko). Mit dem neuen **Abs. 1bis** schuf der Gesetzgeber die ausdrückliche gesetzliche Grundlage, um Ersttäter bei schwersten Integritätsdelikten (Gewalt-, Tötungs- und Sexualdelikte) auch ohne Vorstrafen in Präventivhaft zu nehmen ([BGE 150 IV 149 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-149_2024.html)).
 
 ---
 
 ## Kommentierung
 
-### A. Der allgemeine Haftgrund: Dringender Tatverdacht (Abs. 1)
+### A. Merkmal 1: Die Anlasstat — Verbrechen oder Vergehen
+
+**Was das Merkmal verlangt.** Vor jedem Haftgrund steht die Frage, ob die vorgeworfene Tat überhaupt haftfähig ist. Art. 221 StPO stuft die Anforderungen an die Anlasstat je nach Haftgrund ab — und diese Abstufung ist der einzige Prüfpunkt der Norm, der eine **reine Rechtsfrage** ist und deshalb im Haftverfahren voll überprüft wird:
+
+| Haftgrund | Erforderliche Anlasstat | Zusätzliche Qualifikation |
+|---|---|---|
+| **Abs. 1 lit. a** (Fluchtgefahr) | Verbrechen oder Vergehen | — |
+| **Abs. 1 lit. b** (Kollusionsgefahr) | Verbrechen oder Vergehen | — |
+| **Abs. 1 lit. c** (Wiederholungsgefahr) | Verbrechen oder Vergehen | Die **befürchteten** Taten müssen Verbrechen oder **schwere** Vergehen sein; zusätzlich früher verübte gleichartige Straftaten |
+| **Abs. 1bis** (qualifizierte Wiederholungsgefahr) | Verbrechen oder **schweres** Vergehen | Schwere Beeinträchtigung der physischen, psychischen oder sexuellen Integrität; befürchtet wird ein gleichartiges **schweres Verbrechen** |
+| **Abs. 2** (Ausführungsgefahr) | — (Drohung genügt) | Angedroht sein muss ein **schweres Verbrechen** |
+
+Zwei Konsequenzen sind praktisch bedeutsam:
+
+1. **Übertretungen tragen niemals Haft.** Weder Untersuchungs- noch Sicherheitshaft sind zulässig, wenn dem Beschuldigten ausschliesslich eine Übertretung (Art. 103 StGB) vorgeworfen wird — unabhängig davon, wie ausgeprägt die Fluchtgefahr ist. Der Wortlaut von Abs. 1 lässt keine Ausnahme zu.
+2. **Bei Abs. 2 entscheidet die Qualifikation der angedrohten Tat.** Wer mit einem Vergehen droht, kann nach Abs. 2 nicht inhaftiert werden, mag die Gefahr noch so unmittelbar sein. Das ist die häufigste erfolgreiche Rüge gegen Präventivhaft (dazu Abschnitt F).
+
+**Praxislücke.** Publizierte Kasuistik, in der eine Haft allein an der Deliktsqualifikation der Anlasstat scheiterte, ist selten — Staatsanwaltschaften beantragen bei blossen Übertretungen von vornherein keine Haft. Die Rüge lohnt sich deshalb praktisch nur bei **Abs. 2** und bei der Abgrenzung «schweres Vergehen» im Rahmen von Abs. 1 lit. c und Abs. 1bis, wo die Praxis noch im Aufbau ist. Wer hier argumentiert, kann sich nicht auf eine gefestigte Linie stützen.
+
+> **Merksatz.** Prüfen Sie die Deliktsqualifikation vor allem anderen — sie ist der einzige Punkt, an dem das Haftgericht nicht mit dem Hinweis auf den Sachrichter ausweichen kann. Bei Abs. 2 lautet die erste Frage nie «wie gefährlich ist die Person», sondern «ist die angedrohte Tat ein schweres Verbrechen».
+
+---
+
+### B. Merkmal 2: Dringender Tatverdacht (Abs. 1)
 
 #### 1. Dogmatischer Massstab und Abgrenzung zum Sachrichter
 Das Haftprüfungsverfahren ist kein vorgezogenes Sachurteil. Das Zwangsmassnahmengericht und die Beschwerdeinstanz dürfen der Beweiswürdigung des Sachrichters nicht vorgreifen:
@@ -103,7 +138,7 @@ Das Bundesgericht stellte in einem Grundsatzurteil klar:
 
 ---
 
-### B. Fluchtgefahr (Abs. 1 lit. a)
+### C. Merkmal 3a: Fluchtgefahr (Abs. 1 lit. a)
 
 #### 1. Kriterien der Fluchtgefahr
 Fluchtgefahr darf nicht abstrakt vermutet oder allein auf eine hohe Straferwartung gestützt werden:
@@ -144,14 +179,14 @@ Das Bundesgericht hob den Entscheid auf und **ordnete die sofortige Haftentlassu
 
 ---
 
-### C. Kollusionsgefahr (Abs. 1 lit. b)
+### D. Merkmal 3b: Kollusionsgefahr (Abs. 1 lit. b)
 
 #### 1. Begriff und strikter Massstab
 Kollusionsgefahr verlangt die ernsthafte Befürchtung, der Beschuldigte werde die Freiheit dazu missbrauchen, Zeugen einzuschüchtern, Mittäter abzustimmen oder Beweismittel verschwinden zu lassen. Das Bundesgericht verlangt **konkrete Tatsachen**:
 
 > «Die strafprozessuale Haft wegen Kollusionsgefahr soll verhindern, dass die beschuldigte Person die Freiheit dazu missbrauchen würde, die wahrheitsgetreue Abklärung des Sachverhalts zu vereiteln oder zu gefährden. Konkrete Anhaltspunkte für Kollusionsgefahr können sich […] namentlich ergeben aus dem bisherigen Verhalten des Beschuldigten im Strafprozess, aus seinen persönlichen Merkmalen […]. Die blosse theoretische Möglichkeit der Kollusion genügt nicht.»
 
-([BGE 137 IV 122 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html); [BGE 132 I 21 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-132-I-21_2005.html)).
+([BGE 137 IV 122 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html); [BGE 132 I 21 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-132-I-21_2006.html)).
 
 Verfassungsrechtlich elementar: **Aussageverweigerung, Bestreiten oder das Äussern von Schutzbehauptungen dürfen niemals als Kollusionsgefahr ausgelegt werden** (*nemo-tenetur*-Grundsatz). Wer schweigt, kolludiert nicht.
 
@@ -176,7 +211,7 @@ In [BGE 137 IV 122](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-
 
 ---
 
-### D. Wiederholungsgefahr (Abs. 1 lit. c und Abs. 1bis n.F.)
+### E. Merkmal 3c: Wiederholungsgefahr (Abs. 1 lit. c und Abs. 1bis)
 
 #### 1. Die systematische Zweiteilung
 Seit dem 1. Januar 2024 kennt Art. 221 StPO zwei grundverschiedene Tatbestände der Wiederholungsgefahr:
@@ -191,7 +226,7 @@ Seit dem 1. Januar 2024 kennt Art. 221 StPO zwei grundverschiedene Tatbestände 
 #### 2. Das Vortatenerfordernis von Abs. 1 lit. c: Die gesetzgeberische Invalidierung der alten Rechtsprechung (BGer 7B_1035/2024)
 
 ##### a) Altrechtliche Fiktion: Vortaten aus hängigem Verfahren
-Unter dem bis Ende 2023 geltenden Recht hatte das Bundesgericht in ständiger Rechtsprechung entschieden, dass die für einfache Wiederholungsgefahr erforderlichen Vortaten («bereits früher verübt») **nicht** rechtskräftig beurteilt sein mussten. Es genügte, wenn die Taten Gegenstand desselben pendenten Strafverfahrens bildeten und mit «an Sicherheit grenzender Wahrscheinlichkeit» feststanden – etwa aufgrund eines Geständnisses oder erdrückender Videoaufnahmen ([BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html); [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2016.html); [BGE 146 IV 326 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-326_2020.html)). Zudem war mit der prätorischen «qualifizierten Wiederholungsgefahr» bei schwersten Gewalttaten sogar ganz auf Vortaten verzichtet worden ([BGE 137 IV 13 E. 3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html)).
+Unter dem bis Ende 2023 geltenden Recht hatte das Bundesgericht in ständiger Rechtsprechung entschieden, dass die für einfache Wiederholungsgefahr erforderlichen Vortaten («bereits früher verübt») **nicht** rechtskräftig beurteilt sein mussten. Es genügte, wenn die Taten Gegenstand desselben pendenten Strafverfahrens bildeten und mit «an Sicherheit grenzender Wahrscheinlichkeit» feststanden – etwa aufgrund eines Geständnisses oder erdrückender Videoaufnahmen ([BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html); [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2017.html); [BGE 146 IV 326 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-326_2020.html)). Zudem war mit der prätorischen «qualifizierten Wiederholungsgefahr» bei schwersten Gewalttaten sogar ganz auf Vortaten verzichtet worden ([BGE 137 IV 13 E. 3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html)).
 
 ##### b) Der Wille des Gesetzgebers (StPO-Revision 2024)
 Mit der per 1. Januar 2024 in Kraft getretenen Revision (AS 2023 468) hat der Gesetzgeber diese Praxis **gezielt invalidiert**:
@@ -230,7 +265,7 @@ Das Bundesgericht wies die Beschwerde ab ([BGer 7B_708/2026 E. 4.4](https://ents
 
 ---
 
-### E. Ausführungsgefahr (Abs. 2)
+### F. Merkmal 3d: Ausführungsgefahr (Abs. 2)
 
 #### 1. Strikte Schranke: Nur schwere Verbrechen (BGE 137 IV 122)
 Art. 221 Abs. 2 StPO regelt die eigentliche «Präventivhaft» vor der Tatbegehung, wenn jemand droht, ein Verbrechen wahrzumachen. Hier zieht die Rechtsordnung eine eiserne Grenze:
@@ -241,51 +276,82 @@ In [BGE 137 IV 122](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-
 ([BGE 137 IV 122 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html)). Drohung (Art. 180 StGB) und Nötigung (Art. 181 StGB) sind gesetzlich **Vergehen** (Maximalstrafe bis 3 Jahre). Weil der Täter nicht mit Mord oder schwerer Körperverletzung gedroht hatte, war Haft nach Abs. 2 bundesrechtswidrig.
 
 #### 2. Anwendungsfälle bei akuter Eskalation
-Haft nach Abs. 2 wird geschützt, wenn die Drohung sich auf Delikte wie Tötung (Art. 111 ff. StGB), Brandstiftung (Art. 221 StGB) oder Geiselnahme bezieht und konkrete Anzeichen für eine Umsetzung vorliegen (z.B. Kauf von Schusswaffen, Benzinkanistern, Nachstellen oder akute Eskalationsdynamik; [BGE 146 IV 136 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-136_2020.html); [BGer 7B_177/2023 vom 20. November 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-177-2023_2023-11-20.html)).
+Haft nach Abs. 2 wird geschützt, wenn die Drohung sich auf Delikte wie Tötung (Art. 111 ff. StGB), Brandstiftung (Art. 221 StGB) oder Geiselnahme bezieht und konkrete Anzeichen für eine Umsetzung vorliegen (z.B. Kauf von Schusswaffen, Benzinkanistern, Nachstellen oder akute Eskalationsdynamik; [BGE 146 IV 136 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-136_2020.html)).
 
 > **Merksatz.** Blosse wüste Beschimpfungen oder verbale Drohungen mit Schlägen («Ich mach dich fertig») rechtfertigen niemals eine Inhaftierung nach Art. 221 Abs. 2 StPO. Staatsanwälte müssen belegen, dass ein Verbrechen (Freiheitsstrafe über 3 Jahre) angedroht wurde und die Drohung ernst gemeint war.
 
 ---
+### G. Merkmal 4: Verhältnismässigkeit — der Vorrang der Ersatzmassnahmen
 
-### F. Praxis- und Verfahrensklippen (Harte Prozessrealität)
+**Was das Merkmal verlangt.** Haft ist *ultima ratio*. Nach Art. 197 Abs. 1 lit. c StPO und Art. 212 Abs. 2 lit. c StPO ist sie unzulässig, wenn der Haftzweck mit milderen Massnahmen erreicht werden kann. Das Zwangsmassnahmengericht hat die Verhältnismässigkeit **von Amtes wegen** zu prüfen — die Substanziierungslast für konkrete Vorschläge liegt gleichwohl bei der Verteidigung.
 
-#### 1. Die Fristenfalle: Nur 3 Tage Beschwerdefrist
+#### 1. Die Substanziierungslast: keine abstrakten Angebote
+
+Wer die Freilassung gegen Ersatzmassnahmen verlangt, darf dies nicht abstrakt tun. Das Bundesgericht verlangt, dass die Verteidigung dem Gericht **konkrete, realisierbare Massnahmen unterbreitet** ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Wer Kaution anbietet, muss deren Herkunft und die finanziellen Verhältnisse substanziieren; wer Therapie anbietet, muss eine Bestätigung der Institution über einen freien Therapieplatz vorlegen.
+
+**Rückbindung.** Das Merkmal scheitert in der Praxis fast nie an der Rechtslage, sondern an der Darlegung: Ein pauschaler Antrag «eventualiter sei der Beschwerdeführer unter Anordnung geeigneter Ersatzmassnahmen freizulassen» erfüllt die Anforderungen nicht und wird ohne materielle Prüfung abgewiesen.
+
+#### 2. Kautionsbemessung (Art. 238 StPO)
+
+Eine Sicherheitsleistung bannt Fluchtgefahr nur, wenn sie dem Beschuldigten tatsächlich «wehtut»: Sie muss so bemessen sein, dass der drohende Vermögensverlust den Fluchtanreiz neutralisiert. Bei vermögenden Beschuldigten sind Kautionssummen im sechs- oder siebenstelligen Bereich üblich; für Mittellose kann auch ein kleiner Betrag genügen ([SZ KG BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
+
+**Rückbindung.** Die Kaution wirkt nur auf **Merkmal 3a** (Fluchtgefahr). Gegen Kollusions-, Wiederholungs- und Ausführungsgefahr ist sie von vornherein untauglich — dort helfen nur Kontakt- und Rayonverbote, Electronic Monitoring oder eine ambulante Behandlung (Art. 237 Abs. 2 StPO).
+
+> **Merksatz.** Warten Sie nicht darauf, dass Staatsanwaltschaft oder Gericht Ersatzmassnahmen vorschlagen. Bringen Sie bezugsfertige Lösungen: bestätigte Therapieplätze, Meldeadressen ausserhalb des Opferschutzrayons, verbindliche Kautionsangebote mit offengelegter Mittelherkunft. Und wählen Sie die Massnahme passend zum **konkreten** Haftgrund — eine Kaution gegen Kollusionsgefahr ist ein Eigentor.
+
+---
+
+### H. Merkmal 5: Zeitliche Verhältnismässigkeit — das Überhaftverbot
+
+**Was das Merkmal verlangt.** Nach Art. 212 Abs. 3 StPO darf die erstandene Haftdauer die mutmassliche Freiheitsstrafe nicht erreichen. Massgebend ist die im konkreten Fall zu erwartende Strafe, nicht der abstrakte Strafrahmen.
+
+Droht bei einem Vergehen eine Strafe von sechs Monaten und sitzt der Beschuldigte bereits fünf Monate in Untersuchungshaft, ist er wegen drohender Überhaft zwingend zu entlassen ([BGE 140 IV 19 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-19_2014.html)).
+
+**Rückbindung.** Das Merkmal wirkt unabhängig von allen anderen: Selbst bei erdrückendem Tatverdacht und akuter Fluchtgefahr fällt die Haft, sobald die Grenze erreicht ist. Es ist damit der einzige Prüfpunkt, der mit blossem Zeitablauf zugunsten des Beschuldigten kippt — und deshalb in langen Verfahren periodisch neu zu erheben.
+
+> **Merksatz.** Rechnen Sie in jedem Haftverlängerungsverfahren die Prognose neu: bedingter Strafvollzug, Anrechnung nach Art. 51 StGB, Möglichkeit der bedingten Entlassung nach zwei Dritteln (Art. 86 StGB). Die Staatsanwaltschaft rechnet regelmässig mit der Höchststrafe — das Gericht muss mit der wahrscheinlichen rechnen.
+
+---
+
+### I. Prozessuale Klippen
+
+#### Die Fristenfalle: nur 3 Tage Beschwerdefrist
+
 Gegen Haftentscheide des Zwangsmassnahmengerichts steht die Beschwerde nach Art. 222 und Art. 393 ff. StPO an die kantonale Beschwerdeinstanz offen. Hier lauert die grösste prozessuale Falle der StPO:
-- Gemäss Art. 396 Abs. 1 StPO beträgt die Beschwerdefrist bei Haftentscheiden **lediglich 3 Tage** (nicht die regulären 10 Tage!).
+
+- Gemäss Art. 396 Abs. 1 StPO beträgt die Beschwerdefrist bei Haftentscheiden **lediglich 3 Tage** (nicht die regulären 10 Tage).
 - Die Frist beginnt mit der schriftlichen Eröffnung bzw. Aushändigung des begründeten Entscheids und ist nicht erstreckbar ([BS Appellationsgericht BES.2022.81 vom 4. November 2022](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-81_2022-11-04.html)).
 
-#### 2. Rügeobliegenheiten bei Ersatzmassnahmen (Art. 237 StPO)
-Wer die Freilassung gegen Ersatzmassnahmen verlangt, darf dies nicht abstrakt tun:
-Das Bundesgericht verlangt, dass die Verteidigung dem Gericht **konkrete, realisierbare Massnahmen unterbreitet** ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Wer Kaution anbietet, muss deren Herkunft und die finanziellen Verhältnisse substanziieren. Wer Therapie anbietet, muss eine Bestätigung der Institution über einen freien Therapieplatz vorlegen.
+---
 
-#### 3. Kautionsbemessung (Art. 238 StPO)
-Eine Sicherheitsleistung bannt Fluchtgefahr nur, wenn sie dem Beschuldigten tatsächlich «wehtut»:
-Die Kaution muss so bemessen sein, dass der drohende Vermögensverlust den Fluchtanreiz neutralisiert. Bei vermögenden Beschuldigten sind Kautionssummen im sechs- oder siebenstelligen Bereich üblich; für Mittellose kann auch ein kleiner Betrag genügen ([SZ KG BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
+### J. Kantonale Praxisfragen
 
-#### 4. Das Überhaftverbot (Art. 212 Abs. 3 StPO)
-Die erstandene Haftdauer darf die mutmassliche Freiheitsstrafe nicht erreichen. Droht bei einem Vergehen eine Strafe von 6 Monaten und sitzt der Beschuldigte bereits 5 Monate in Untersuchungshaft, ist er wegen drohender Überhaft zwingend zu entlassen ([BGE 140 IV 19 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-19_2014.html)).
+#### 1. Vorrang und praktische Umsetzung von Ersatzmassnahmen (Art. 237 StPO)
+
+In der kantonalen Praxis ist umstritten, wie weit die Pflicht des Haftgerichts reicht, **von sich aus** Ersatzmassnahmen zu prüfen und anzuordnen, wenn die Verteidigung keine konkreten Vorschläge unterbreitet. Bundesrechtlich steht fest, dass die Verhältnismässigkeit von Amtes wegen zu prüfen ist (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c StPO); ebenso steht fest, dass die Verteidigung die Substanziierungslast für die konkrete Ausgestaltung trägt ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Offen — und je nach Kanton unterschiedlich gehandhabt — bleibt, was dazwischen liegt: ob das Gericht bei Delikten der häuslichen Gewalt Rayon- und Kontaktverbote in Verbindung mit Electronic Monitoring auch dann prüfen muss, wenn sie niemand beantragt hat.
+
+> **Praxislücke.** Zu dieser Frage liess sich keine einschlägige publizierte kantonale Leitentscheidung verifizieren. Wer sich darauf beruft, sollte die Praxis des zuständigen Obergerichts im Einzelfall erheben, statt auf eine gefestigte Linie zu vertrauen.
+
+#### 2. Kautionsberechnung bei unklaren Vermögensverhältnissen
+
+In der Schwyzer Gerichtspraxis ([SZ KG BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)) wird betont, dass eine Kaution nur dann Fluchtgefahr bannt, wenn die Herkunft der Mittel transparent offengelegt ist. Hinterlegt ein Dritter die Kaution, muss sichergestellt sein, dass der Beschuldigte bei einer Flucht den Regress des Dritten empfindlich fürchten muss; blosse «Strohmann-Kautionen» werden von den Gerichten zurückgewiesen.
 
 ---
 
-### G. Die Merksätze für die Praxis
+### K. Die Merksätze für die Praxis
 
 #### Für die Verteidigung
-- **Tatverdacht rügen bringt selten etwas**: Vorbringen, die auf die Glaubwürdigkeit von Belastungszeugen zielen («Aussage gegen Aussage»), prallen am Haftrichter regelmässig ab. Konzentrieren Sie sich auf **liquide Alibis**, **Verjährung** oder **fehlende Deliktsqualifikation** (z.B. Vergehen statt Verbrechen bei Abs. 2).
-- **Aussageverweigerung ist keine Kollusion**: Lassen Sie sich vom Argument der Staatsanwaltschaft, der Beschuldigte sei «nicht geständig», nicht beirren. Das Schweigen des Beschuldigten ist verfassungsrechtlich geschützt und darf im Haftentscheid nicht als Kollusionsgefahr gewertet werden.
-- **Ersatzmassnahmen aktiv aufgleisen**: Warten Sie nicht darauf, dass Staatsanwalt oder Richter Ersatzmassnahmen vorschlagen. Bringen Sie bezugsfertige Lösungen: Bestätigte Therapieplätze, Meldeadressen ausserhalb des Opferschutzrayons und verbindliche Kautionsangebote.
-- **3-Tage-Frist wahren**: Verpassen Sie bei Haftbeschwerden niemals die 3-tägige Rügefrist von Art. 396 Abs. 1 StPO.
+
+- **Merkmal für Merkmal vorgehen.** Prüfen Sie zuerst die Deliktsqualifikation (Merkmal 1) — sie ist der einzige Punkt voller Kognition. Erst danach den Haftgrund, zuletzt die Verhältnismässigkeit.
+- **Tatverdacht rügen bringt selten etwas** (Merkmal 2): Vorbringen zur Glaubwürdigkeit von Belastungszeugen («Aussage gegen Aussage») prallen am Haftrichter regelmässig ab. Erfolg versprechen **liquide Alibis**, **Verjährung** und **fehlende Deliktsqualifikation**.
+- **Aussageverweigerung ist keine Kollusion** (Merkmal 3b): Das Schweigen des Beschuldigten ist verfassungsrechtlich geschützt und darf im Haftentscheid nicht als Kollusionsgefahr gewertet werden.
+- **Ersatzmassnahmen aktiv aufgleisen** (Merkmal 4) — und passend zum konkreten Haftgrund wählen.
+- **Überhaft periodisch neu rechnen** (Merkmal 5).
+- **3-Tage-Frist wahren**: Verpassen Sie bei Haftbeschwerden niemals die Frist von Art. 396 Abs. 1 StPO.
 
 #### Für die Staatsanwaltschaft
-- **Konkrete Verdunkelungshandlungen dokumentieren**: Eine Haftverlängerung wegen Kollusionsgefahr hält vor Bundesgericht nicht stand, wenn sie nur mit der Schwere der Vorwürfe begründet wird. Dokumentieren Sie abgefangene Kassiber, verdächtige WhatsApp-Löschungen oder Kontaktaufnahmen mit Zeugen.
-- **Wiederholungsgefahr bei Ersttätern**: Stützen Sie Anträge bei Tätern ohne Vorstrafen seit 2024 präzise auf **Art. 221 Abs. 1bis StPO** und fordern Sie unverzüglich ein forensisch-psychiatrisches Vorabgutachten an.
-- **Ersatzmassnahmen prüfen**: Ein Haftantrag wird angreifbar, wenn mildere Massnahmen (wie GPS-Rayonverbote bei häuslicher Gewalt) nicht einmal erwogen wurden.
 
----
-
-## Kantonale Praxisfragen
-
-### 1. Vorrang und praktische Umsetzung von Ersatzmassnahmen (Art. 237 StPO)
-In der kantonalen Praxis (insb. ZH, BE, SG, GL) ist umstritten, wie weit die Pflicht des Haftrichters geht, von sich aus Ersatzmassnahmen anzuordnen. Nach der Praxis des Obergerichts Glarus ([GL OG OG.2021.00012 vom 12. April 2021](https://entscheidsuche.ch/docs/GL_Omni/GL_OG_001_OG-2021-00012_2021-04-12.html)) und des Bundesgerichts ([BGer 1B_180/2021 vom 18. Mai 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-180-2021_2021-05-18.html)) muss das Zwangsmassnahmengericht den Grundsatz der Verhältnismässigkeit von Amtes wegen prüfen; bei Delikten der häuslichen Gewalt sind Rayon- und Kontaktverbote in Verbindung mit Electronic Monitoring prioritär zu evaluieren, bevor Haft verlängert wird.
-
-### 2. Kautionsberechnung bei unklaren Vermögensverhältnissen
-In der Schwyzer Gerichtspraxis ([SZ KG BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)) wird betont, dass eine Kaution nur dann Fluchtgefahr bannt, wenn die Herkunft der Mittel transparent offengelegt ist. Hinterlegt ein Dritter die Kaution, muss sichergestellt sein, dass der Beschuldigte bei einer Flucht den Regress des Dritten empfindlich fürchten muss; blosse «Strohmann-Kautionen» werden von den Gerichten zurückgewiesen.
+- **Konkrete Verdunkelungshandlungen dokumentieren** (Merkmal 3b): Eine Haftverlängerung wegen Kollusionsgefahr hält vor Bundesgericht nicht stand, wenn sie nur mit der Schwere der Vorwürfe begründet wird. Dokumentieren Sie abgefangene Kassiber, verdächtige Löschungen oder Kontaktaufnahmen mit Zeugen.
+- **Wiederholungsgefahr bei Ersttätern** (Merkmal 3c): Stützen Sie Anträge bei Tätern ohne Vorstrafen seit 2024 präzise auf Art. 221 Abs. 1bis StPO und fordern Sie unverzüglich ein forensisch-psychiatrisches Vorabgutachten an.
+- **Bei Abs. 2 die angedrohte Tat qualifizieren** (Merkmal 1): Belegen Sie, dass ein **Verbrechen** angedroht wurde — nicht bloss Schläge.
+- **Ersatzmassnahmen prüfen** (Merkmal 4): Ein Haftantrag wird angreifbar, wenn mildere Massnahmen (GPS-Rayonverbote bei häuslicher Gewalt) nicht einmal erwogen wurden.

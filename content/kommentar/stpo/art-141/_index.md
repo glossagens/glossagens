@@ -9,6 +9,11 @@ agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Nachführung auf die Skill-Fassung vom 04.09.2026, 15:09 (Tatbestandsmerkmale als Grundgerüst): Abschnittsüberschriften benannten bisher Fälle statt Merkmale («Der Zugangscode-Fall», «Die Wahrsagerin als verdeckte Ermittlerin», «Zwei private Filmaufnahmen, zwei Ergebnisse», «Der irreparable Nachteil als Wächter des Rechtswegs») und sind neu nach den Merkmalen benannt. Die Abschnitte zur Unerlässlichkeit (Abs. 2) und zur Qualifikation als Gültigkeits- oder Ordnungsvorschrift waren gegenüber dem eigenen Prüfschema vertauscht — die Reihenfolge folgt neu der Prüfungsreihenfolge (Schutzzweck-Qualifikation vor Interessenabwägung). Prüfschema-Tabelle um Lastverteilung und Abschnittsbezug ergänzt, Querverweis in der Einleitung korrigiert. Fundstelle BGE 146 IV 226 von opencaselaw auf entscheidsuche.ch umgestellt und im Volltext geprüft. Gesetzeswortlaut erneut verbatim gegen Fedlex (SR 312.0, Konsolidierung 01.04.2025) geprüft; Bestand an Entscheiden und Zitaten unverändert."
+  - date: 2026-09-04
+    by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
     note: "Praxisorientierter Ausbau (Skill praxisorientierter-kommentar): narrative Sachverhaltsschilderungen zu BGE 151 IV 73, 148 IV 205, 147 IV 9, 147 IV 16, 151 IV 18, 139 IV 128 und BGer 7B_1429/2025 ergänzt, Judikaturspannung Gültigkeits-/Ordnungsvorschrift offengelegt, Kasuistiktabellen und Merksätze eingefügt. Gesetzestext unverändert aus Vorrevision übernommen (bereits Fedlex-verifiziert); alle neu ausgewerteten Entscheide im Volltext über opencaselaw geprüft, Verlinkung auf entscheidsuche.ch umgestellt (CLAUDE.md-Vorgabe vom 29.08.2026)."
@@ -52,21 +57,26 @@ revisions:
 
 Art. 141 StPO ist die zentrale Norm des strafprozessualen Beweisverwertungsrechts und zugleich eine der praxisrelevantesten Bestimmungen der StPO überhaupt: Kaum ein Verfahren mit Zwangsmassnahmen, verdeckter Ermittlung oder privater Beweiserhebung kommt ohne eine Auseinandersetzung mit dieser Norm aus. Sie ist Ausdruck des Grundsatzes, dass der Staat nicht durch Rechtsbrüche zu seinem Recht kommen darf («keine Frucht des vergifteten Baumes») — steht aber in einem Dauerspannungsfeld zum ebenso legitimen Interesse an der materiellen Wahrheitsfindung (Art. 139 StPO).
 
-Der grösste praktische Stolperstein liegt nicht im Gesetzestext selbst, sondern in der **Abgrenzung zwischen den drei Stufen**: Ob eine verletzte Norm eine Gültigkeits- oder eine blosse Ordnungsvorschrift darstellt, entscheidet das Bundesgericht seit jeher nach dem **Schutzzweck der Norm** — mit einer Kasuistik, die für dieselbe Grundnorm (z.B. das Erfordernis eines staatsanwaltschaftlichen Befehls) je nach Zwangsmassnahme und Fallkonstellation zu gegensätzlichen Ergebnissen kommt (dazu unten Abschnitt D). Wer die Verwertbarkeit eines Beweises beurteilen will, sollte deshalb schematisch vorgehen:
+Der grösste praktische Stolperstein liegt nicht im Gesetzestext selbst, sondern in der **Abgrenzung zwischen den drei Stufen**: Ob eine verletzte Norm eine Gültigkeits- oder eine blosse Ordnungsvorschrift darstellt, entscheidet das Bundesgericht seit jeher nach dem **Schutzzweck der Norm** — mit einer Kasuistik, die für dieselbe Grundnorm (z.B. das Erfordernis eines staatsanwaltschaftlichen Befehls) je nach Zwangsmassnahme und Fallkonstellation zu gegensätzlichen Ergebnissen kommt (dazu unten Abschnitt B). Wer die Verwertbarkeit eines Beweises beurteilen will, sollte deshalb schematisch vorgehen:
 
-### Prüfschema
+### Prüfschema: die Merkmale in ihrer Prüfungsreihenfolge
 
-| Schritt | Frage | Bei Bejahung |
-|---|---|---|
-| 1 | Wurde der Beweis unter Verletzung von Art. 140 StPO erhoben oder erklärt ihn das Gesetz ausdrücklich für unverwertbar? | **Absolut unverwertbar** (Abs. 1) — Prüfung endet hier |
-| 2 | Wurde der Beweis von Strafbehörden **strafbar** erhoben oder wurde eine **Gültigkeitsvorschrift** verletzt? | Weiter zu Schritt 3 |
-| 3 | Ist die Verwertung zur Aufklärung einer **schweren Straftat unerlässlich** (konkrete Tatschwere, nicht abstrakte Strafdrohung)? | Verwertbar (Abs. 2); sonst unverwertbar |
-| 4 | Wurde nur eine **Ordnungsvorschrift** verletzt? | **Verwertbar** (Abs. 3) |
-| 5 | Wurde ein **Folgebeweis** erst durch einen unverwertbaren Primärbeweis ermöglicht? | Nur verwertbar, wenn auch ohne den Primärbeweis erlangbar (Abs. 4, Fernwirkung) |
+Die folgende Tabelle ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile findet sich unten als Abschnitt wieder, in derselben Reihenfolge. Die Prüfung bricht ab, sobald ein Merkmal die Unverwertbarkeit trägt.
 
-## A. Absolutes Beweisverwertungsverbot (Abs. 1)
+| Nr. | Merkmal | Was zu prüfen ist | Wer trägt die Last | Abschnitt |
+|---|---|---|---|---|
+| 1 | **Absolutes Verwertungsverbot** (Abs. 1) | Verletzung von Art. 140 StPO oder gesetzliche Unverwertbarkeitsanordnung; massgebend ist der **materielle** Einvernahmebegriff | Beschuldigter rügt; Verstoss ist von Amtes wegen zu beachten. Keine Abwägung möglich | [A](#a-merkmal-1-absolutes-verwertungsverbot-abs-1) |
+| 2 | **Gültigkeits- oder Ordnungsvorschrift?** (Abs. 2 und 3) | Qualifikation der verletzten Norm **nach ihrem Schutzzweck**: Erreicht die Vorschrift ihr Ziel nur bei Ungültigkeit der Verfahrenshandlung? | Rechtsfrage; wer sich auf ein Präjudiz beruft, muss die Vergleichbarkeit der konkreten Umstände dartun | [B](#b-merkmal-2-gültigkeitsvorschrift-oder-ordnungsvorschrift-der-schutzzweck-test) |
+| 3 | **Unerlässlichkeit zur Aufklärung schwerer Straftaten** (Abs. 2) | Massgebend ist die **konkrete** Tatschwere, nicht die abstrakte Strafdrohung; bei privater Beweiserhebung vorgelagert die Rechtfertigung nach Art. 13 DSG | Strafverfolgungsbehörde, die sich auf die Ausnahme beruft | [C](#c-merkmal-3-unerlässlichkeit-zur-aufklärung-schwerer-straftaten-abs-2) |
+| 4 | **Fernwirkung** (Abs. 4) | Wäre der Folgebeweis auch **ohne** den unverwertbaren Primärbeweis mit grosser Wahrscheinlichkeit erlangt worden? | **Strafverfolgungsbehörden**; der Nachweis gelingt in der Praxis selten | [D](#d-merkmal-4-fernwirkung-abs-4) |
+| 5 | **Aktenbereinigung und ihre Durchsetzung** (Abs. 5) | Entfernung, separater Verschluss, Vernichtung — und die Frage, wann darüber überhaupt vorab entschieden werden darf | Sachgericht; Vorabanfechtung nur bei nicht wieder gutzumachendem Nachteil | [E](#e-merkmal-5-aktenbereinigung-abs-5-und-die-schranken-der-vorabklärung) |
 
-### Der Zugangscode-Fall: Die PIN-Erfragung als verdeckte Einvernahme (BGE 151 IV 73)
+> **Grundsatz.** Die Reihenfolge ist zwingend und wird in der Praxis regelmässig verletzt: Wer sofort über die «Schwere der Straftat» streitet (Merkmal 3), hat die vorgelagerte Frage übersprungen, ob überhaupt eine **Gültigkeitsvorschrift** verletzt wurde (Merkmal 2). Ist es bloss eine Ordnungsvorschrift, ist der Beweis nach Abs. 3 ohne jede Abwägung verwertbar — die Interessenabwägung findet dann gar nicht statt.
+
+
+## A. Merkmal 1: Absolutes Verwertungsverbot (Abs. 1)
+
+### 1. Der materielle Einvernahmebegriff: Erhebung des Zugangscodes ohne Belehrung
 
 Ein Bezirksgericht Zofingen verurteilte 2022 einen Mann wegen versuchter sexueller Nötigung, sexueller Handlungen mit Kindern und Pornografie zu zwölf Monaten bedingt; das Obergericht Aargau erhöhte im Berufungsverfahren 2023 auf drei Jahre teilbedingt. Grundlage für einen Teil der Schuldsprüche (Vorwürfe zulasten weiterer, im Verfahren als B., C., D. und E. bezeichneter Geschädigter) waren Daten, die von einem Mobiltelefon LG V20 stammten. Bei einer Hausdurchsuchung am 11. November 2018 hatte die Polizei den Beschuldigten nach dem Zugangscode zu seinem Telefon gefragt — ohne ihn vorher über sein Aussage- und Mitwirkungsverweigerungsrecht nach Art. 158 Abs. 1 lit. b StPO zu belehren. Über die so entschlüsselten Handydaten stiess die Polizei auf weitere mutmassliche Opfer auf Facebook und Lovoo.
 
@@ -78,7 +88,7 @@ Ein Bezirksgericht Zofingen verurteilte 2022 einen Mann wegen versuchter sexuell
 
 > **Merksatz.** Wer bei einer Hausdurchsuchung nach dem Gerätecode gefragt wird, befindet sich materiell in einer Einvernahmesituation — unabhängig davon, ob die Frage formell als «Erleichterung der Durchsuchung» getarnt wird. Fehlt die vorgängige Belehrung nach Art. 158 Abs. 1 lit. b StPO, ist nicht nur das Telefon selbst, sondern grundsätzlich auch jeder darauf gestützte Folgebeweis unverwertbar — die Strafverfolgungsbehörden tragen die (in der Praxis meist unerfüllbare) Beweislast für die hypothetisch rechtmässige Erlangbarkeit.
 
-### Die Wahrsagerin als verdeckte Ermittlerin: Umgehung des Aussageverweigerungsrechts (BGE 148 IV 205)
+### 2. Umgehung der Selbstbelastungsfreiheit durch verdeckte Ermittlung
 
 Am frühen Morgen des 19. Oktober 2009 wurde B.A. vor der ehelichen Wohnung in Zürich erschossen. Ihr Ehemann A.A. bestritt während der jahrelangen Strafuntersuchung durchgehend, etwas mit der Tat zu tun zu haben. Weil die Ermittlungen ins Stocken gerieten, ordnete die Staatsanwaltschaft eine verdeckte Ermittlung an: «C.» baute über Monate ein Vertrauensverhältnis zum Beschuldigten auf; als dieser sich in Bedrängnis fühlte, schlug «C.» ihm — im Wissen, dass A.A. an übersinnliche Wesen glaubte und schon früher Wahrsager aufgesucht hatte — einen Besuch bei der Hellseherin «D.» vor. Auch «D.» war eine verdeckte Ermittlerin.
 
@@ -90,37 +100,9 @@ Das Bundesgericht verwarf ausdrücklich die von der Beschwerdeführerin (Obersta
 
 > **Merksatz.** Die Grenze zwischen zulässiger List und unzulässiger Umgehung der Aussageverweigerung verläuft nicht bei der Täuschung als solcher, sondern bei der **Funktion** der Interaktion: Sobald der verdeckte Ermittler faktisch Vernehmungsfragen zu einer bereits begangenen Tat stellt und gezielt Druck aufbaut, tritt Art. 293 Abs. 4 StPO (Strafmilderung) zurück und es greift das absolute Verwertungsverbot nach Art. 141 Abs. 1 StPO — unabhängig davon, ob sich der Beschuldigte zuvor ausdrücklich auf sein Schweigerecht berufen hat.
 
-## B. Relatives Beweisverwertungsverbot (Abs. 2): Die Schwere-Straftat-Kasuistik
+## B. Merkmal 2: Gültigkeitsvorschrift oder Ordnungsvorschrift? Der Schutzzweck-Test
 
-### Zwei private Filmaufnahmen, zwei Ergebnisse
-
-Die Frage, wann eine Straftat «schwer» genug ist, um die Verwertung eines rechtswidrig erhobenen Beweises zu rechtfertigen, lässt sich am besten anhand zweier Bundesgerichtsurteile im Abstand von zwei Monaten illustrieren — beide betreffen private Videoaufnahmen, beide betreffen (rechtlich betrachtet) blosse **Vergehen**, und dennoch fallen sie gegensätzlich aus.
-
-**Fall 1 — Landfriedensbruch verwertbar.** Am 25. April 2015 versammelten sich rund 300 Personen zu einer unbewilligten Kundgebung auf dem Bundesplatz in Bern. Während des Umzugs kam es zu Sachbeschädigungen an einer Bankfiliale, einem Hotel, einem Coiffeursalon und der Lorrainebrücke; vermummte Sprayer wurden von der Menge wiederholt vor der Polizei versteckt. A. nahm am Umzug teil und verteilte Flugblätter, ohne selbst Gewalt auszuüben. Er wurde wegen Landfriedensbruchs zu 60 Tagessätzen bedingt verurteilt — auf der Grundlage von Videoaufnahmen der Sicherheitskamera eines Hotels, die ohne gesetzliche Grundlage angefertigt worden waren. In [BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html) bestätigte das Bundesgericht die Verwertung: Massgebend für den Begriff der «schweren Straftat» nach Art. 141 Abs. 2 StPO sei nicht das abstrakt angedrohte Strafmass, sondern die **Schwere der konkreten Tat** (E. 1.4.2). Landfriedensbruch als kollektive Gewalttätigkeit verletze gewichtige Rechtsgüter (die öffentliche Friedensordnung), und der Tatbestand trage überdies der typischen Beweisnot bei Massendelikten Rechnung — wer sich in der Anonymität der Zusammenrottung verstecke, solle sich nicht zusätzlich auf ein Verwertungsverbot berufen können (E. 1.4.3). Massgebend seien dabei die Gesamtumstände der Kundgebung, nicht der individuelle, hier bescheidene Tatbeitrag des Beschwerdeführers (E. 1.4.4).
-
-**Fall 2 — Verkehrsregelverletzung nicht verwertbar.** Am 18. Mai 2018 überholte ein Autofahrer in Lausanne einen Elektrocyclomotoristen in einer langen Linkskurve, hupte grundlos, fuhr mit rund zehn Metern Abstand an ihm vorbei, scherte dann abrupt vor ihm ein und bremste — der Cyclomotorist musste ebenfalls scharf bremsen und schlug mit der Hand gegen das Fahrzeugheck, um auf sich aufmerksam zu machen; im Moment des Vorfalls betrug der Abstand zwischen Trottoirkante und Fahrzeug weniger als 70 cm. Der Cyclomotorist hatte die Szene mit einer am Lenker montierten GoPro-Kamera gefilmt und das Video zu den Akten gegeben. Das kantonale Gericht verurteilte den Autofahrer wegen einfacher und grober Verkehrsregelverletzung (Art. 90 Abs. 1 und 2 SVG) auf der Basis dieses Videos. In [BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html) hob das Bundesgericht dies auf: Die GoPro-Aufnahme sei — wie eine Dashcam — kontinuierlich, nicht erkennbar und ohne Diskriminierung erfolgt, was eine Persönlichkeitsverletzung nach Art. 4 Abs. 4, Art. 12 Abs. 2 lit. a DSG darstelle (E. 7.1). Ein Rechtfertigungsgrund nach Art. 13 DSG scheide aus, weil die Verkehrsüberwachung eine staatliche Aufgabe sei und der «Apprenti-Shérif»-Gedanke keinen privaten Rechtfertigungsgrund begründe (E. 3, 5). Und selbst wenn man diese Hürde nähme: Verkehrsregelverletzungen nach Art. 90 Abs. 1 und 2 SVG seien — anders als der Landfriedensbruch im Parallelfall — abstrakt keine schweren Straftaten, und auch die konkreten Umstände (kein Unfall, keine Verletzung) erreichten die erforderliche Schwelle nicht (E. 7.2).
-
-**Die Tabelle im Vergleich:**
-
-| Kriterium | [BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html) — Landfriedensbruch (**verwertbar**) | [BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html) — Verkehrsregelverletzung (**nicht verwertbar**) |
-|---|---|---|
-| Abstrakte Einordnung | Vergehen (Art. 260 Abs. 1 StGB) | Vergehen/Übertretung (Art. 90 Abs. 1 und 2 SVG) |
-| Konkreter Vorfall | Teilnahme an gewalttätiger Kundgebung, keine eigene Gewalt des Beschwerdeführers | Gefährliches Überholmanöver, Cyclomotorist auf < 70 cm an Trottoirkante gedrängt, kein Unfall |
-| Geschütztes Rechtsgut | Öffentliche Friedensordnung (kollektiv) | Verkehrssicherheit (Individualgefährdung) |
-| Institutionelles Argument | Beweisnot bei Massendelikten spricht für Verwertung | «Apprenti-Shérif»-Verbot spricht gegen private Verkehrsüberwachung |
-| Ergebnis der Interessenabwägung | Öffentliches Interesse überwiegt — **verwertbar** | Privates Interesse überwiegt — **unverwertbar** |
-
-Der Vergleich zeigt eine **Spannung, die das Bundesgericht selbst nicht auflöst**: Der Cyclomotorist wurde real und unmittelbar gefährdet (Sturzgefahr, weniger als eine Armlänge Abstand zur Bordsteinkante), während dem Landfriedensbruch-Teilnehmer kein eigener Gewaltakt vorgeworfen wurde. Dennoch wiegt die kollektive Falschheit des einen Delikts abstrakt schwerer als die individuelle Gefährdung des anderen — eine Wertung, die sich aus dem institutionellen Zweck von Art. 260 StGB (Bekämpfung der Beweisnot bei Massendelikten) erklärt, nicht aus der tatsächlichen Gefährdungsintensität. Für die Praxis bedeutet dies: Die «Schwere der konkreten Tat» ist kein rein empirisches, sondern ein normativ mitbestimmtes Kriterium, bei dem der Deliktstyp (Kollektivdelikt vs. Individualdelikt) mindestens so stark wirkt wie die tatsächliche Gefährdung im Einzelfall.
-
-> **Merksatz.** Wer sich auf die Unverwertbarkeit privat erhobener Beweise beruft, sollte nicht allein mit der abstrakten Strafdrohung argumentieren — das Bundesgericht fragt nach der konkreten Tatschwere. Bei Kollektivdelikten (Landfriedensbruch, Raufhandel) ist die Hürde wegen des institutionellen Beweisnot-Arguments tendenziell tiefer als bei Individualdelikten mit vergleichbarer oder höherer abstrakter Strafdrohung.
-
-### Private Beweiserhebung: zweistufige Prüfung
-
-Werden Beweise nicht vom Staat, sondern von Privaten rechtswidrig erhoben, prüft das Bundesgericht seit [BGE 146 IV 226](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_226) zweistufig: Erst ist zu fragen, ob ein Rechtfertigungsgrund nach Art. 13 DSG (Einwilligung, überwiegendes privates oder öffentliches Interesse, gesetzliche Grundlage) die datenschutzrechtliche Widerrechtlichkeit beseitigt — bejahendenfalls ist der Beweis **uneingeschränkt verwertbar**. Erst wenn die Rechtswidrigkeit bestehen bleibt, folgt die strafprozessuale Prüfung nach Art. 141 Abs. 2 StPO (BGE 147 IV 16 E. 5). Rechtfertigungsgründe werden bei Dashcam-artigen Dauer- und Streuaufnahmen «nur mit grosser Zurückhaltung» anerkannt (BGE 147 IV 16 E. 3.3), während sie bei punktuellen, situativ ausgelösten Aufnahmen (z.B. Bodycam-Video eines konkreten Vorfalls) eher in Betracht kommen (BGer 6B_810/2020 E. 2.6).
-
-## C. Ordnungsvorschrift oder Gültigkeitsvorschrift? Der Schutzzweck-Test in der Praxis
-
-### Zwei Grenzfälle, gegensätzlich entschieden — und ein Gericht, das die eigene Vorentscheidung einhegt
+### Die Qualifikation nach dem Schutzzweck — und der offene Judikaturbruch
 
 Ob eine verletzte Verfahrensvorschrift eine Gültigkeits- oder eine blosse Ordnungsvorschrift darstellt, entscheidet sich «primär nach dem Schutzzweck der Norm»: Hat die Vorschrift für die zu schützenden Interessen eine derart erhebliche Bedeutung, dass sie ihr Ziel nur bei Ungültigkeit der Verfahrenshandlung erreichen kann, liegt eine Gültigkeitsvorschrift vor. Dieser abstrakt einleuchtende Massstab führt in der Anwendung zu einer Kasuistik, die selbst das Bundesgericht zur ausdrücklichen Distanzierung von einer eigenen früheren Erwägung zwingt.
 
@@ -143,7 +125,35 @@ Ob eine verletzte Verfahrensvorschrift eine Gültigkeits- oder eine blosse Ordnu
 
 > **Merksatz.** Bei Zwangsmassnahmen mit **Rechtsmittelfrist-Relevanz** (insb. Beschlagnahme, deren Anfechtungsfrist erst mit schriftlicher Zustellung zu laufen beginnt) tendiert das Bundesgericht zur Gültigkeitsvorschrift; bei Massnahmen ohne unmittelbare Auswirkung auf die Verteidigungsrechte und ohne Anhaltspunkte für ein bewusstes Umgehen der Zuständigkeitsordnung eher zur Ordnungsvorschrift. Eine sichere Prognose erlaubt beides nicht.
 
-## D. Fernwirkung (Abs. 4)
+## C. Merkmal 3: Unerlässlichkeit zur Aufklärung schwerer Straftaten (Abs. 2)
+
+### Die konkrete Tatschwere: zweiseitige Grenzkasuistik
+
+Die Frage, wann eine Straftat «schwer» genug ist, um die Verwertung eines rechtswidrig erhobenen Beweises zu rechtfertigen, lässt sich am besten anhand zweier Bundesgerichtsurteile im Abstand von zwei Monaten illustrieren — beide betreffen private Videoaufnahmen, beide betreffen (rechtlich betrachtet) blosse **Vergehen**, und dennoch fallen sie gegensätzlich aus.
+
+**Fall 1 — Landfriedensbruch verwertbar.** Am 25. April 2015 versammelten sich rund 300 Personen zu einer unbewilligten Kundgebung auf dem Bundesplatz in Bern. Während des Umzugs kam es zu Sachbeschädigungen an einer Bankfiliale, einem Hotel, einem Coiffeursalon und der Lorrainebrücke; vermummte Sprayer wurden von der Menge wiederholt vor der Polizei versteckt. A. nahm am Umzug teil und verteilte Flugblätter, ohne selbst Gewalt auszuüben. Er wurde wegen Landfriedensbruchs zu 60 Tagessätzen bedingt verurteilt — auf der Grundlage von Videoaufnahmen der Sicherheitskamera eines Hotels, die ohne gesetzliche Grundlage angefertigt worden waren. In [BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html) bestätigte das Bundesgericht die Verwertung: Massgebend für den Begriff der «schweren Straftat» nach Art. 141 Abs. 2 StPO sei nicht das abstrakt angedrohte Strafmass, sondern die **Schwere der konkreten Tat** (E. 1.4.2). Landfriedensbruch als kollektive Gewalttätigkeit verletze gewichtige Rechtsgüter (die öffentliche Friedensordnung), und der Tatbestand trage überdies der typischen Beweisnot bei Massendelikten Rechnung — wer sich in der Anonymität der Zusammenrottung verstecke, solle sich nicht zusätzlich auf ein Verwertungsverbot berufen können (E. 1.4.3). Massgebend seien dabei die Gesamtumstände der Kundgebung, nicht der individuelle, hier bescheidene Tatbeitrag des Beschwerdeführers (E. 1.4.4).
+
+**Fall 2 — Verkehrsregelverletzung nicht verwertbar.** Am 18. Mai 2018 überholte ein Autofahrer in Lausanne einen Elektrocyclomotoristen in einer langen Linkskurve, hupte grundlos, fuhr mit rund zehn Metern Abstand an ihm vorbei, scherte dann abrupt vor ihm ein und bremste — der Cyclomotorist musste ebenfalls scharf bremsen und schlug mit der Hand gegen das Fahrzeugheck, um auf sich aufmerksam zu machen; im Moment des Vorfalls betrug der Abstand zwischen Trottoirkante und Fahrzeug weniger als 70 cm. Der Cyclomotorist hatte die Szene mit einer am Lenker montierten GoPro-Kamera gefilmt und das Video zu den Akten gegeben. Das kantonale Gericht verurteilte den Autofahrer wegen einfacher und grober Verkehrsregelverletzung (Art. 90 Abs. 1 und 2 SVG) auf der Basis dieses Videos. In [BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html) hob das Bundesgericht dies auf: Die GoPro-Aufnahme sei — wie eine Dashcam — kontinuierlich, nicht erkennbar und ohne Diskriminierung erfolgt, was eine Persönlichkeitsverletzung nach Art. 4 Abs. 4, Art. 12 Abs. 2 lit. a DSG darstelle (E. 7.1). Ein Rechtfertigungsgrund nach Art. 13 DSG scheide aus, weil die Verkehrsüberwachung eine staatliche Aufgabe sei und der «Apprenti-Shérif»-Gedanke keinen privaten Rechtfertigungsgrund begründe (E. 3, 5). Und selbst wenn man diese Hürde nähme: Verkehrsregelverletzungen nach Art. 90 Abs. 1 und 2 SVG seien — anders als der Landfriedensbruch im Parallelfall — abstrakt keine schweren Straftaten, und auch die konkreten Umstände (kein Unfall, keine Verletzung) erreichten die erforderliche Schwelle nicht (E. 7.2).
+
+**Die Tabelle im Vergleich:**
+
+| Kriterium | [BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html) — Landfriedensbruch (**verwertbar**) | [BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html) — Verkehrsregelverletzung (**nicht verwertbar**) |
+|---|---|---|
+| Abstrakte Einordnung | Vergehen (Art. 260 Abs. 1 StGB) | Vergehen/Übertretung (Art. 90 Abs. 1 und 2 SVG) |
+| Konkreter Vorfall | Teilnahme an gewalttätiger Kundgebung, keine eigene Gewalt des Beschwerdeführers | Gefährliches Überholmanöver, Cyclomotorist auf < 70 cm an Trottoirkante gedrängt, kein Unfall |
+| Geschütztes Rechtsgut | Öffentliche Friedensordnung (kollektiv) | Verkehrssicherheit (Individualgefährdung) |
+| Institutionelles Argument | Beweisnot bei Massendelikten spricht für Verwertung | «Apprenti-Shérif»-Verbot spricht gegen private Verkehrsüberwachung |
+| Ergebnis der Interessenabwägung | Öffentliches Interesse überwiegt — **verwertbar** | Privates Interesse überwiegt — **unverwertbar** |
+
+Der Vergleich zeigt eine **Spannung, die das Bundesgericht selbst nicht auflöst**: Der Cyclomotorist wurde real und unmittelbar gefährdet (Sturzgefahr, weniger als eine Armlänge Abstand zur Bordsteinkante), während dem Landfriedensbruch-Teilnehmer kein eigener Gewaltakt vorgeworfen wurde. Dennoch wiegt die kollektive Falschheit des einen Delikts abstrakt schwerer als die individuelle Gefährdung des anderen — eine Wertung, die sich aus dem institutionellen Zweck von Art. 260 StGB (Bekämpfung der Beweisnot bei Massendelikten) erklärt, nicht aus der tatsächlichen Gefährdungsintensität. Für die Praxis bedeutet dies: Die «Schwere der konkreten Tat» ist kein rein empirisches, sondern ein normativ mitbestimmtes Kriterium, bei dem der Deliktstyp (Kollektivdelikt vs. Individualdelikt) mindestens so stark wirkt wie die tatsächliche Gefährdung im Einzelfall.
+
+> **Merksatz.** Wer sich auf die Unverwertbarkeit privat erhobener Beweise beruft, sollte nicht allein mit der abstrakten Strafdrohung argumentieren — das Bundesgericht fragt nach der konkreten Tatschwere. Bei Kollektivdelikten (Landfriedensbruch, Raufhandel) ist die Hürde wegen des institutionellen Beweisnot-Arguments tendenziell tiefer als bei Individualdelikten mit vergleichbarer oder höherer abstrakter Strafdrohung.
+
+### Vorgelagert bei privater Beweiserhebung: die Rechtfertigung nach Art. 13 DSG
+
+Werden Beweise nicht vom Staat, sondern von Privaten rechtswidrig erhoben, prüft das Bundesgericht seit [BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html) zweistufig: Erst ist zu fragen, ob ein Rechtfertigungsgrund nach Art. 13 DSG (Einwilligung, überwiegendes privates oder öffentliches Interesse, gesetzliche Grundlage) die datenschutzrechtliche Widerrechtlichkeit beseitigt — bejahendenfalls ist der Beweis **uneingeschränkt verwertbar**. Erst wenn die Rechtswidrigkeit bestehen bleibt, folgt die strafprozessuale Prüfung nach Art. 141 Abs. 2 StPO (BGE 147 IV 16 E. 5). Rechtfertigungsgründe werden bei Dashcam-artigen Dauer- und Streuaufnahmen «nur mit grosser Zurückhaltung» anerkannt (BGE 147 IV 16 E. 3.3), während sie bei punktuellen, situativ ausgelösten Aufnahmen (z.B. Bodycam-Video eines konkreten Vorfalls) eher in Betracht kommen (BGer 6B_810/2020 E. 2.6).
+
+## D. Merkmal 4: Fernwirkung (Abs. 4)
 
 Abs. 4 wurde durch Ziff. I des BG vom 17. Juni 2022 (in Kraft seit 1.1.2024) neu gefasst und erfasst seither ausdrücklich **sowohl** Abs. 1 **als auch** Abs. 2 (zuvor nur Abs. 2). Die Frage, ob bei absoluten Verwertungsverboten eine strikte Fernwirkung gelten sollte, war zuvor umstritten und in BGE 138 IV 169 E. 3.2 offengelassen worden. In BGer 7B_257/2022 vom 4. Dezember 2023 und bestätigend in [BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) E. 2.5.2 entschied das Bundesgericht, dass die bisherige — nicht nach der Art des Verwertungsverbots differenzierende — Rechtsprechung auch unter neuem Recht weitergilt: **Keine strikte Fernwirkung**, sondern die (regelmässig schwer zu erbringende) Frage, ob der Folgebeweis auch ohne den unverwertbaren Primärbeweis mit grosser Wahrscheinlichkeit erlangt worden wäre (BGE 138 IV 169 E. 3.3.3; BGE 133 IV 329 E. 4.5). Die blosse theoretische Möglichkeit rechtmässiger Erlangung genügt nicht.
 
@@ -154,9 +164,9 @@ Abs. 4 wurde durch Ziff. I des BG vom 17. Juni 2022 (in Kraft seit 1.1.2024) neu
 
 > **Merksatz.** In der Praxis ist die Fernwirkungsfrage regelmässig **entscheidend** für den Verfahrensausgang, weil die Strafverfolgungsbehörden einen hypothetischen Kausalverlauf nachträglich kaum je lückenlos rekonstruieren können. Die Verteidigung sollte deshalb nicht nur den Primärverstoss, sondern konsequent jeden darauf gestützten Folgebeweis einzeln adressieren und dessen selbstständige, hypothetisch rechtmässige Erlangbarkeit aktiv bestreiten.
 
-## E. Aktenbereinigung (Abs. 5) und die SkyECC-Prozessfalle
+## E. Merkmal 5: Aktenbereinigung (Abs. 5) und die Schranken der Vorabklärung
 
-### Der irreparable Nachteil als Wächter des Rechtswegs
+### Der nicht wieder gutzumachende Nachteil als Zulässigkeitsschranke
 
 Nach ständiger Rechtsprechung stellt der blosse Verbleib eines angeblich unverwertbaren Beweismittels in den Akten grundsätzlich **keinen** nicht wieder gutzumachenden Nachteil dar — die Frage kann bis zum Sachurteil offenbleiben (BGE 141 IV 289 E. 1.2 f.). Anders liegt es, wenn eine kantonale Beschwerdeinstanz **während des Vorverfahrens** entgegen der Ansicht der Staatsanwaltschaft ein Beweismittel für unverwertbar erklärt und dessen Entfernung anordnet — dann droht der Staatsanwaltschaft ein irreparabler Nachteil, wenn dadurch die Weiterführung des Verfahrens verunmöglicht oder stark erschwert wird (BGE 141 IV 289 E. 1.4).
 
