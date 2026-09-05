@@ -133,7 +133,7 @@ Alle drei Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besor
 | Nachbar giesst Pflanzen nicht (Gefälligkeit) | Nein (i.d.R.) | Sorgfalt in eigenen Angelegenheiten | Nein (nur grobe Fahrlässigkeit) |
 | Gefälligkeitsfahrer verursacht Unfall | Eingeschränkt | Sorgfalt in eigenen Angelegenheiten | Nur bei grober Fahrlässigkeit |
 | Beauftragter delegiert an Dritten ohne Ortsgebrauch/Natur des Geschäfts | Ja (persönliche Besorgung verletzt) | Objektiv | Ja |
-| Treuhänder delegiert Routinearbeiten an Mitarbeiter | Nein (Natur des Geschäfts) | Fachlich | Neine — Delegation zulässig |
+| Treuhänder delegiert Routinearbeiten an Mitarbeiter | Nein (Natur des Geschäfts) | Fachlich | Nein — Delegation zulässig |
 
 ### E. Praxishinweise
 
@@ -146,8 +146,8 @@ Alle drei Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besor
 **Für die Beauftragten:**
 
 1. **Kennen Sie Ihren Sorgfaltsmassstab**: Bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab — Sie haften für jedes Verschulden, das ein durchschnittlicher Fachmann Ihrer Berufsgruppe nicht begehen würde.
-2. **Besorgen Sie das Geschäft persönlich**: Delegieren Sie nur, wenn der Ortsgebrauch oder die Natur des Geschäfts es erfordern. Im Zweifel: vorher nachfragen.
-3. **Dokumentieren Sie Ihre Sorgfalt**: Halten Sie fest, welche Massnahmen Sie ergriffen haben und warum — im Schadensfall können Sie so nachweisen, dass Sie die gebotene Sorgfalt angewendet haben.
+2. **Besorgen Sie das Geschäft persönlich**: Delegieren Sie nur, wenn Sie ermächtigt sind (Art. 399 OR), durch die Umstände genötigt sind, oder wenn eine Vertretung übungsgemäss zulässig ist.
+3. **Informieren Sie den Auftraggeber**: Bei unzweckmässigen oder unerfüllbaren Weisungen haben Sie eine Hinweispflicht — schweigen Sie nicht, sondern klären Sie den Auftraggeber auf ([BGE 108 II 197](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-108-II-197_1982-05-04.html)).
 
 ## Querverweise
 
@@ -158,6 +158,7 @@ Alle drei Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besor
 - Art. 97 OR — Sorgfaltsmassstab
 - Art. 99 OR — Haftung für Hilfspersonen
 - Art. 101 OR — Haftung für Hilfspersonen (allgemein)
+- Art. 44 OR — Mitverschulden
 
 ## Literatur
 
