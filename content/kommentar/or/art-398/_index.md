@@ -21,37 +21,42 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Beauftragte hat den Auftrag mit der Sorgfalt eines treuen Hausvaters zu erfüllen; er ist verpflichtet, das Geschäft persönlich zu besorgen, soweit es nicht Ortsgebrauch oder die Natur des Geschäfts mit sich bringen, dass er es durch Dritte erledigen lässt.
+> **1** Der Beauftragte haftet im Allgemeinen für die gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis.^[Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 (AS 1971 1465; BBl 1967 II 241). Siehe auch die Schl- und UeB des X. Tit.]
 >
-> **2** Verletzt er diese Pflichten und entsteht dem Auftraggeber daraus ein Schaden, so ist er zum Ersatze verpflichtet.
+> **2** Er haftet dem Auftraggeber für getreue und sorgfältige Ausführung des ihm übertragenen Geschäftes.
+>
+> **3** Er hat das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird.
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
+*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Januar 1972.*
 
 ### Prüfschema
 
 | Ziff. | Merkmal | Prüffrage | Beweislast |
 |---|---|---|---|
-| I.A | Sorgfaltspflicht | Hat der Beauftragte den Auftrag mit der Sorgfalt eines treuen Hausvaters erfüllt? | Auftraggeber (behauptet Pflichtverletzung) |
-| I.B | Massstab | Welcher Sorgfaltsmassstab ist anwendbar (entgeltlich/unentgeltlich, Professionalität)? | Richter (Ermessensausfüllung) |
-| II.A | Persönliche Besorgung | Hat der Beauftragte das Geschäft persönlich besorgt? | Beauftragter (behauptet, Dritte durfte er einsetzen) |
-| II.B | Ausnahme: Ortsgebrauch | Erlaubt der Ortsgebrauch die Delegation an Dritte? | Beauftragter |
-| II.C | Ausnahme: Natur des Geschäfts | Erlaubt die Natur des Geschäfts die Delegation an Dritte? | Beauftragter |
-| III | Schaden | Ist dem Auftraggeber durch die Pflichtverletzung ein Schaden entstanden? | Auftraggeber |
-| IV | Kausalität | Ist die Pflichtverletzung kausal für den Schaden? | Auftraggeber |
+| I.A | Sorgfaltspflicht (Abs. 1) | Hat der Beauftragte die gleiche Sorgfalt wie ein Arbeitnehmer im Arbeitsverhältnis angewendet? | Auftraggeber (behauptet Pflichtverletzung) |
+| I.B | Sorgfaltsmassstab | Welcher Sorgfaltsmassstab ist anwendbar (entgeltlich/unentgeltlich, Professionalität)? | Richter (Ermessensausfüllung) |
+| II.A | Getreue und sorgfältige Ausführung (Abs. 2) | Hat der Beauftragte den Auftrag getreu und sorgfältig ausgeführt? | Auftraggeber |
+| II.B | Persönliche Besorgung (Abs. 3) | Hat der Beauftragte das Geschäft persönlich besorgt? | Beauftragter (behauptet Delegation war zulässig) |
+| II.C | Ausnahme: Ermächtigung | War der Beauftragte zur Übertragung an einen Dritten ermächtigt (Art. 399 OR)? | Beauftragter |
+| II.D | Ausnahme: Umstände | Wurde der Beauftragte durch die Umstände zur Übertragung genötigt? | Beauftragter |
+| II.E | Ausnahme: Üblichkeit | War eine Vertretung übungsgemäss als zulässig betrachtet worden? | Beauftragter |
+| III | Schaden und Kausalität | Ist dem Auftraggeber durch die Pflichtverletzung ein Schaden entstanden? Ist die Pflichtverletzung kausal? | Auftraggeber |
 
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 398 OR ist die zentrale Haftungsbestimmung des Auftragsrechts. Abs. 1 statuiert zwei Grundpflichten des Beauftragten: die **Sorgfaltspflicht** (Sorgfalt eines treuen Hausvaters) und die **Pflicht zur persönlichen Besorgung**. Abs. 2 regelt die Haftung für die Verletzung dieser Pflichten.
+**1** **Stellung und Bedeutung.** Art. 398 OR ist die zentrale Haftungsbestimmung des Auftragsrechts. Abs. 1 bestimmt den Sorgfaltsmassstab (gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis), Abs. 2 konkretisiert die Sorgfaltspflicht (getreue und sorgfältige Ausführung) und Abs. 3 statuiert die **Pflicht zur persönlichen Besorgung** mit ihren Ausnahmen.
 
-**2** **Sorgfalt eines treuen Hausvaters.** Der Massstab der «Sorgfalt eines treuen Hausvaters» (diligentia boni patris familias) ist ein objektiver Sorgfaltsmassstab. Er verlangt nicht die Sorgfalt eines Fachmanns, sondern die Sorgfalt eines durchschnittlich sorgfältigen Menschen, der seine eigenen Angelegenheiten mit der gebotenen Aufmerksamkeit besorgt. Der Massstab ist flexibel und passt sich den Umständen an.
+**2** **Revision von 1971.** Die Fassung von Art. 398 OR wurde durch das erste Arbeitsgesetz (BG vom 25. Juni 1971, in Kraft seit 1. Januar 1972) geändert. Die frühere Fassung sprach von der «Sorgfalt eines treuen Hausvaters» — dieser Massstab wurde durch die «gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis» ersetzt, um die Angleichung an das Arbeitsrecht zu vollziehen. Der Massstab ist im Ergebnis ähnlich, aber die Terminologie wurde an das Arbeitsrecht angepasst. Der «treue Hausvater» wird in der Praxis weiterhin als objektiver Sorgfaltsmassstab zitiert.
 
-**3** **Systematischer Zusammenhang.** Art. 398 OR bildet mit Art. 397 OR (Weisungen) und Art. 399 OR (Substitution) das Pflichten-Trio des auftragsrechtlichen Pflichtenprogramms: Art. 397 OR regelt die **inhaltliche** Steuerung (Weisungen), Art. 398 OR die **qualitative** Anforderung (Sorgfalt) und die **personelle** Zuordnung (persönliche Besorgung), und Art. 399 OR die **vertretungsrechtliche** Frage der Substitution.
+**3** **Dreiteilige Struktur.** Art. 398 OR ist dreiteilig strukturiert: Abs. 1 statuiert den **Sorgfaltsmassstab** (gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis), Abs. 2 konkretisiert die **Haftung für getreue und sorgfältige Ausführung**, und Abs. 3 regelt die **Pflicht zur persönlichen Besorgung** mit drei Ausnahmen (Ermächtigung, Umstände, Üblichkeit).
+
+**4** **Systematischer Zusammenhang.** Art. 398 OR bildet mit Art. 397 OR (Weisungen) und Art. 399 OR (Substitution) das Pflichten-Trio des auftragsrechtlichen Pflichtenprogramms: Art. 397 OR regelt die **inhaltliche** Steuerung (Weisungen), Art. 398 OR die **qualitative** Anforderung (Sorgfalt) und die **personelle** Zuordnung (persönliche Besorgung), und Art. 399 OR die **vertretungsrechtliche** Frage der Substitution.
 
 ## Kommentierung
 
-### A. Sorgfaltspflicht (Abs. 1 Satz 1)
+### A. Sorgfaltsmassstab (Abs. 1 und 2)
 
-**4** Der Beauftragte hat den Auftrag mit der **Sorgfalt eines treuen Hausvaters** zu erfüllen. Der Sorgfaltsmassstab ist **objektiv**: Massgeblich ist nicht die subjektive Sorgfalt des konkreten Beauftragten, sondern die Sorgfalt, die ein durchschnittlich sorgfältiger Mensch unter den gleichen Umständen anwenden würde.
+**4** Abs. 1 bestimmt den Sorgfaltsmassstab: Der Beauftragte haftet im Allgemeinen für die **gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis**. Abs. 2 konkretisiert: Er haftet dem Auftraggeber für **getreue und sorgfältige Ausführung** des ihm übertragenen Geschäftes. Der Sorgfaltsmassstab ist **objektiv**: Massgeblich ist nicht die subjektive Sorgfalt des konkreten Beauftragten, sondern die Sorgfalt, die ein durchschnittlich sorgfältiger Mensch unter den gleichen Umständen anwenden würde.
 
 **5** **Abstufung nach Entgeltlichkeit.** Die Rechtsprechung stuft den Sorgfaltsmassstab nach der Entgeltlichkeit des Auftrags ab:
 
@@ -77,34 +82,33 @@ revisions:
 | Gefälligkeitsfahrer verursacht leichten Blechschaden | **Eingeschränkt** | Mildere Haftung bei unentgeltlichem Auftrag |
 | Nachbar giesst Pflanzen nicht während Abwesenheit | **Nein** (i.d.R.) | Unentgeltlicher Gefälligkeitsauftrag; Sorgfalt im eigenen Angelegenheiten genügt |
 
-### B. Pflicht zur persönlichen Besorgung (Abs. 1 Satz 2)
+### B. Pflicht zur persönlichen Besorgung (Abs. 3)
 
-**9** Der Beauftragte ist verpflichtet, das Geschäft **persönlich zu besorgen**. Die persönliche Besorgung ist Ausdruck des Vertrauensverhältnisses: Der Auftraggeber vertraut der Person des Beauftragten, nicht einem beliebigen Dritten.
+**9** Abs. 3 statuiert die Pflicht zur **persönlichen Besorgung**: Der Beauftragte hat das Geschäft persönlich zu besorgen. Die persönliche Besorgung ist Ausdruck des Vertrauensverhältnisses: Der Auftraggeber vertraut der Person des Beauftragten, nicht einem beliebigen Dritten.
 
-**10** **Ausnahmen.** Die Pflicht zur persönlichen Besorgung kennt zwei Ausnahmen:
+**10** **Ausnahmen.** Abs. 3 nennt drei Ausnahmen von der Pflicht zur persönlichen Besorgung:
 
-1. **Ortsgebrauch**: Wenn es ortsüblich ist, das Geschäft durch Dritte erledigen zu lassen.
-2. **Natur des Geschäfts**: Wenn die Natur des Geschäfts die Delegation an Dritte erfordert oder nahelegt.
+1. **Ermächtigung**: Der Beauftragte ist zur Übertragung an einen Dritten **ermächtigt** (entspricht Art. 399 OR).
+2. **Umstände**: Der Beauftragte ist durch die **Umstände genötigt**, das Geschäft an einen Dritten zu übertragen (z.B. Krankheit, Verhinderung).
+3. **Übungsgebot**: Eine Vertretung ist **übungsgemäss als zulässig betrachtet** (entspricht dem Ortsgebrauch nach der früheren Fassung).
 
-Beide Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besorgung ist der Grundsatz; die Delegation ist die Ausnahme.
+Alle drei Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besorgung ist der Grundsatz; die Delegation ist die Ausnahme.
 
-**11** **Ortsgebrauch.** Der Ortsgebrauch rechtfertigt die Delegation, wenn es in der betreffenden Gegend oder Branche üblich ist, bestimmte Geschäfte durch Dritte erledigen zu lassen. Beispiele:
+**11** **Ermächtigung.** Die Ermächtigung zur Substitution entspricht Art. 399 OR: Der Beauftragte kann ermächtigt werden, das Geschäft ganz oder teilweise an einen Dritten zu übertragen. Die Ermächtigung kann ausdrücklich oder konkludent erteilt werden.
+
+**12** **Umstände.** Die Umstände können den Beauftragten zur Übertragung an einen Dritten **nötigen**: Krankheit, Verhinderung, zeitliche Überlastung. Die Nötigung setzt voraus, dass dem Beauftragten die persönliche Besorgung **unzumutbar** oder **unmöglich** ist und die Übertragung im Interesse des Auftraggebers liegt.
+
+**13** **Übungsgemässe Vertretung.** Die übungsgemässe Vertretung rechtfertigt die Delegation, wenn es in der betreffenden Branche üblich ist, bestimmte Geschäfte durch Dritte erledigen zu lassen. Beispiele:
 
 - Der Anwalt, der eine gerichtliche Verhandlung durch einen Kollegen vertreten lässt (Substitution, Art. 399 OR).
 - Der Handwerker, der einen Teil der Arbeiten an einen Subunternehmer vergibt, soweit dies ortsüblich ist.
 - Der Treuhänder, der Routinearbeiten an Angestellte delegiert.
 
-**12** **Natur des Geschäfts.** Die Natur des Geschäfts rechtfertigt die Delegation, wenn das Geschäftsbesorgungspersonal notwendigerweise eingesetzt werden muss, um den Auftrag überhaupt erfüllen zu können. Beispiele:
-
-- Der Arzt, der Laboruntersuchungen an ein Labor delegiert.
-- Der Anwalt, der Gutachten durch Sachverständige einholt.
-- Der Vermögensverwalter, der Transaktionen über die Bank abwickelt.
-
 **13** **Gefälligkeitsaufträge.** Bei Gefälligkeitsaufträgen (unentgeltliche Aufträge geringer Bedeutung) ist der Sorgfaltsmassstab gemildert: Der Gefälligkeitsfahrer haftet nur für grobe Fahrlässigkeit — nicht für leichte Fahrlässigkeit bei der Gefälligkeitsfahrt.
 
 ### C. Haftung (Abs. 2)
 
-**14** Verletzt der Beauftragte seine Sorgfaltspflicht oder die Pflicht zur persönlichen Besorgung und entsteht dem Auftraggeber daraus ein Schaden, so ist der Beauftragte zum **Ersatz verpflichtet**. Die Haftung setzt voraus:
+**14** Abs. 2 regelt die Haftung: Verletzt der Beauftragte seine Pflicht zu getreuer und sorgfältiger Ausführung und entsteht dem Auftraggeber daraus ein Schaden, so ist der Beauftragte zum **Ersatz verpflichtet**. Die Haftung setzt voraus:
 
 1. **Pflichtverletzung**: Der Beauftragte hat die Sorgfaltspflicht oder die Pflicht zur persönlichen Besorgung verletzt.
 2. **Schaden**: Dem Auftraggeber ist ein Schaden entstanden.
@@ -115,7 +119,7 @@ Beide Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besorgung
 
 **16** **Mitverschulden.** Hat der Auftraggeber den Schaden mitverursacht (z.B. durch ungenügende Weisungen, mangelnde Mitarbeit), kann der Schadenersatz nach Art. 44 OR gekürzt werden.
 
-> **Leitsatz.** Der Beauftragte hat den Auftrag mit der Sorgfalt eines treuen Hausvaters zu erfüllen und das Geschäft persönlich zu besorgen — Delegation an Dritte ist nur bei Ortsgebrauch oder wenn die Natur des Geschäfts es erfordert zulässig; bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab (Art. 398 OR).
+> **Leitsatz.** Der Beauftragte haftet für die gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis und hat das Geschäft persönlich zu besorgen — Delegation an Dritte ist nur bei Ermächtigung, Nötigung durch Umstände oder übungsgemässer Vertretung zulässig; bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab (Art. 398 OR).
 
 ### D. Grenzkasuistik
 
