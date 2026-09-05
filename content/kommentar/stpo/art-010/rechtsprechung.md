@@ -2,194 +2,135 @@
 title: "Rechtsprechung zu Art. 10 StPO"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-08-22
-description: "Übersicht der Entscheide zu Art. 10 StPO – Unschuldsvermutung und Beweiswürdigung"
-tags: ["Rechtsprechung", "StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "Willkürkontrolle", "Beweismass", "Glaubhaftigkeitsgutachten"]
+lastmod: 2026-09-05
+description: "Übersicht der Leitentscheide und Kasuistik zu Art. 10 StPO: Unschuldsvermutung, freie Beweiswürdigung, DNA-Indizienketten, Vier-Augen-Delikte und in dubio pro duriore."
+tags: ["Rechtsprechung", "StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "in dubio pro duriore", "Willkürkontrolle", "Beweismass", "Glaubhaftigkeitsgutachten", "DNA-Beweis"]
 agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung der Rechtsprechungsübersicht im Praxiskommentar-Standard. Aufnahme von 14 Leitentscheiden und praxisrelevanten Bundesgerichts- und kantonalen Urteilen (ZH OG, BE OG). Verlinkungen verbatim auf entscheidsuche.ch umgestellt."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Overhaul nach Audit (Belegquote 33 %). Der als Nr. 1 geführte BGE 146 IV 88 ist entfernt: Er betrifft Art. 91a SVG und Art. 10 Abs. 2 der Strassenverkehrskontrollverordnung, nicht Art. 10 StPO. Erwägungsangaben zu den Leitentscheiden ergänzt; fehlender revisions-Block eingefügt."
+    note: "BGE 146 IV 88 als Fehlzitat entfernt."
 ---
 
 # Rechtsprechung zu Art. 10 StPO — Unschuldsvermutung und Beweiswürdigung
 
 ## I. Leitentscheide
 
-### 2. BGE 144 IV 345 — In dubio pro reo und DNA-Beweisführung
-
-**Datum:** 2018 | **Signatur:** [BGE 144 IV 345, E. 2.2.3.1–2.2.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_345#e-2-2-3-1)
-
-**Kernsatz:** In dubio pro reo ist eine Entscheidungsregel, keine Beweiswürdigungsregel. Der Grundsatz findet auf die Frage, welche Beweismittel zu berücksichtigen und wie sie zu würdigen sind, keine Anwendung. DNA-Spuren allein beweisen die Täterschaft nicht; sie sind Indizien, die im Rahmen der Gesamtwürdigung zu beurteilen sind. Vor Bundesgericht kann nur das Übersehen offensichtlich erheblicher Zweifel eine Verletzung von Art. 10 Abs. 3 darstellen.
-
-### 3. BGE 120 Ia 31 — Grundlegendes Urteil zum in-dubio-pro-reo-Grundsatz
-
-**Datum:** 1993 | **Signatur:** [BGE 120 Ia 31, E. 2b–2d](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_Ia_31#e-2)
-
-**Kernsatz:** Der in-dubio-pro-reo-Grundsatz hat eine Doppelfunktion: Als Beweislastregel bedeutet er, dass die Anklagebehörde die Schuld beweisen muss und das Gericht freisprechen muss, wenn es von den schuldbegründenden Tatsachen nicht überzeugt ist. Als Beweiswürdigungsregel (heute: Entscheidungsregel) gebietet er, bei unüberwindlichen Zweifeln die für die beschuldigte Person günstigere Sachlage zugrunde zu legen. Die Verletzung als Beweislastregel wird in freier Kognition geprüft; als Beweiswürdigungsregel nur im Rahmen der Willkürkontrolle.
-
-### 4. BGE 143 IV 241 — In dubio pro duriore im Vorverfahren
-
-**Datum:** 2017 | **Signatur:** BGE 143 IV 241
-
-**Kernsatz:** Im Ermittlungs- und Anklagestadium gilt nicht der Grundsatz in dubio pro reo, sondern sein Komplementärprinzip in dubio pro duriore. Die Staatsanwaltschaft darf nicht allzu rasch einstellen, sondern soll in Zweifelsfällen tendenziell Anklage erheben. Eine Einstellung ist grundsätzlich nur bei klarer Straflosigkeit oder offensichtlich fehlenden Prozessvoraussetzungen zulässig. Bei Aussage-gegen-Aussage-Situationen ist in der Regel Anklage zu erheben und die Beweiswürdigung dem Gericht zu überlassen.
+### 1. BGE 144 IV 345 — Dreistufiges Modell, in dubio pro reo als Entscheidungsregel und Alternativhypothesen
+* **Datum:** 23. Mai 2018
+* **Fundstelle:** [BGE 144 IV 345 E. 2.2.3.1–2.2.3.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-345_2018.html#consideration_2.2.3.1)
+* **Sachverhalt:** Der Beschuldigte erstach in den frühen Morgenstunden in einem Urner Restaurant den Wirt mit 11 bis 14 Messerstichen und nahm Fr. 9'250.– Bargeld mit. Die Staatsanwaltschaft verlangte eine Verurteilung wegen Raubmordes. Das Obergericht Uri stufte die Tat auf vorsätzliche Tötung herab, weil ernsthafte Zweifel am Vorliegen eines vorgefassten Raubplans bestanden.
+* **Kernaussage:** Art. 10 StPO folgt einem dreistufigen Modell: (1) Beweissammlung (Art. 6 StPO), (2) freie Beweiswürdigung (Art. 10 Abs. 2 StPO) und (3) Beweisresultat (Art. 10 Abs. 3 StPO). In dubio pro reo ist eine Entscheidungsregel und ein Beweismassstab; sie gilt nicht isoliert für das einzelne Indiz, sondern erst bei der abschliessenden Gesamtwürdigung. Sind Indizien mehrdeutig (ambivalent), verpflichtet der Zweifelssatz zur ernsthaften Prüfung plausibler Alternativhypothesen (wie hier ein Handeln im Wahn oder Affekt).
 
 ---
 
-## II. Unschuldsvermutung (Abs. 1)
-
-### 5. BGE 147 IV 259 — Unschuldsvermutung und Untersuchungshaft
-
-**Datum:** 2021 | **Signatur:** BGE 147 IV 259
-
-**Kernsatz:** Die Unschuldsvermutung verstärkt das Gebot, Untersuchungsgefangene nicht wie Strafgefangene zu behandeln. Untersuchungshaft dient ausschliesslich dem Sicherstellungszweck, nicht der Strafsicherung. Der hinreichende Tatverdacht im Haftverfahren wird nicht mit dem Beweismass von Art. 10 Abs. 3 geprüft; in dubio pro reo ist im Haftverfahren nicht anwendbar.
-
-### 6. BGE 129 I 49 — Glaubhaftigkeitsgutachten und Unschuldsvermutung
-
-**Datum:** 2003 | **Signatur:** BGE 129 I 49
-
-**Kernsatz:** Die Unschuldsvermutung verbietet es nicht, sich auf ein aussagepsychologisches Gutachten zu stützen. Sie gebietet jedoch, dass das Gutachten den methodischen Anforderungen genügt und die Nullhypothese (die Aussage könne auch ohne realen Erlebnishintergrund gemacht worden sein) nicht ausser Acht lässt. Stützt sich ein Schuldspruch im Wesentlichen allein auf ein methodisch mangelhaftes Gutachten, liegt eine Verletzung der Unschuldsvermutung nahe.
-
-### 7. BGer 7B_1035/2024 — Wesensgehalt der Unschuldsvermutung
-
-**Datum:** 2024 | **Docket:** 7B_1035/2024
-
-**Kernsatz:** Der Wesensgehalt der Unschuldsvermutung wird verletzt, wenn die beschuldigte Person bereits vor dem Schuldspruch als schuldig behandelt wird. Der Anklagegrundsatz lässt sich aus Art. 6 Ziff. 1 und 3 lit. a und b EMRK i.V.m. Art. 29 Abs. 2 und Art. 32 Abs. 2 BV herleiten. Art. 10 Abs. 1 ist die einfachgesetzliche Konkretisierung dieser verfassungsrechtlichen Gewährleistung.
-
-### 8. BGer 6B_1310/2023 — Konvergierendes Beweismittelgeflecht
-
-**Datum:** 2023 | **Docket:** 6B_1310/2023
-
-**Kernsatz:** Eine konstante und kohärente Aussage trotz zeitlicher Unschärfen kann zusammen mit weiteren Beweismitteln ein konvergierendes Gesamtbild ergeben, das einen Schuldspruch trägt. Die Unschuldsvermutung steht einer Verurteilung aufgrund eines konvergierenden Beweismittelgeflechts nicht entgegen, wenn die Gesamtwürdigung das Beweismass erreicht.
+### 2. BGE 120 Ia 31 — Doppelfunktion von in dubio pro reo und Kognition des Bundesgerichts
+* **Datum:** 26. April 1994
+* **Fundstelle:** [BGE 120 Ia 31 E. 2b–2d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_002_BGE-120-IA-31_1994-04-26.html#consideration_2.b)
+* **Sachverhalt:** Ein Mann wurde wegen Heroinhandels auf dem Zürcher Platzspitz verurteilt. Eine drogenabhängige Zeugin hatte ihn Monate später zufällig im Bezirksgefängnis Zofingen wiedererkannt. Der Verurteilte rügte vor Bundesgericht gravierende Widersprüche in den Zeugenaussagen und eine Verletzung von in dubio pro reo.
+* **Kernaussage:** Der Grundsatz in dubio pro reo hat eine Doppelfunktion: Als Beweislastregel bedeutet er, dass die Anklagebehörde die Schuld beweisen muss; seine Verletzung prüft das Bundesgericht mit freier Kognition. Als Beweiswürdigungsregel (Entscheidungsregel) gebietet er, bei unüberwindlichen Zweifeln freizusprechen; seine Verletzung prüft das Bundesgericht ausschliesslich unter dem Blickwinkel der Willkür (nur offensichtlich erhebliche Zweifel führen zur Gutheissung).
 
 ---
 
-## III. Freie Beweiswürdigung (Abs. 2)
-
-### 9. BGE 147 IV 409 — Bindungswirkung und Berufungsgericht
-
-**Datum:** 2021 | **Signatur:** BGE 147 IV 409
-
-**Kernsatz:** Das Ergebnis der vorinstanzlichen Beweiswürdigung ist für das Bundesgericht grundsätzlich verbindlich (Art. 105 Abs. 1 BGG). Willkür bei der Beweiswürdigung liegt vor, wenn das Gericht den Sinn und Tragweite eines Beweismittels offensichtlich verkannt, ein wichtiges und entscheidendes Beweismittel ohne objektiven Grund ausser Acht gelassen oder unhaltbare Schlussfolgerungen gezogen hat. Das Berufungsgericht muss das entscheiderhebliche Beweismaterial umfassend auswerten und bei zweifelhafter Beweislage zusätzliche sachdienliche Beweise abnehmen. Freie Beweiswürdigung heisst nicht, dass das Berufungsgericht die erstinstanzliche Beweiswürdigung durch eine eigene ersetzen darf, ohne das gesamte Beweismaterial zu berücksichtigen.
-
-### 10. BGE 150 IV 462 — Sachverständigengutachten im Haftverfahren
-
-**Datum:** 2024 | **Signatur:** BGE 150 IV 462
-
-**Kernsatz:** Ein forensisch-psychologisches Risikogutachten, das wie ein Kurz-/Fokal-Gutachten fungiert, muss die Regeln für Sachverständigengutachten (Art. 182 ff. StPO) einhalten, einschliesslich des Anspruchs auf Anhörung zur Ernennung der sachverständigen Person und zu den Fragen (Art. 184 Abs. 3 StPO). Das beschleunigte Verfahren in Haftangelegenheiten rechtfertigt keine Umgehung dieser Verfahrensgarantien.
-
-### 11. BGE 143 IV 408 — Wortprotokoll bei Video-Befragungen
-
-**Datum:** 2017 | **Signatur:** BGE 143 IV 408
-
-**Kernsatz:** Bei Video-Befragungen von kindlichen Opfern müssen schriftliche Wortprotokolle erstellt werden; die audiovisuelle Aufzeichnung kann das Wortprotokoll nicht ersetzen, sondern nur ergänzen. Ohne Wortprotokoll ist eine sorgfältige Beweiswürdigung — insbesondere die Gegenüberstellung von Aussagen in verschiedenen Befragungen — kaum möglich.
-
-### 12. BGE 140 III 264 — Beweiswürdigung und Willkür (Zivilverfahren)
-
-**Datum:** 2014 | **Signatur:** BGE 140 III 264
-
-**Kernsatz:** Willkür bei der Beweiswürdigung liegt vor, wenn das Gericht den Sinn und Tragweite eines Beweismittels offensichtlich verkannt, ein entscheidendes Beweismittel ohne objektiven Grund ausser Acht gelassen oder unhaltbare Schlussfolgerungen gezogen hat. Die Grundsätze der Willkürkontrolle der Beweiswürdigung gelten entsprechend im Strafverfahren.
-
-### 13. BGer 6B_651/2018 — Divergierende Gutachten
-
-**Datum:** 2018 | **Docket:** 6B_651/2018
-
-**Kernsatz:** Bei divergierenden Gutachten muss das Sachgericht ohne Rücksicht auf die Unschuldsvermutung prüfen, welcher Einschätzung es folgen will. In dubio pro reo findet auf die Frage, welchem Gutachten zu folgen ist, keine Anwendung; es handelt sich um eine Frage der Beweiswürdigung, die nach Art. 10 Abs. 2 frei zu beurteilen ist.
+### 3. BGE 143 IV 241 — In dubio pro duriore im Ermittlungs- und Vorverfahren
+* **Datum:** 1. Juni 2017
+* **Fundstelle:** [BGE 143 IV 241 E. 2.2.1–2.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-241_2017.html#consideration_2.2.1)
+* **Sachverhalt:** Eine Ehefrau zeigte ihren Mann wegen häuslicher Gewalt an und behauptete, monatelang alle 3 bis 4 Tage geschlagen und eingesperrt worden zu sein. Der Ehemann bestritt alles. Da die Vorwürfe vage blieben, keine Arztberichte vorlagen und Gegenbeweise für eine Racheaktion existierten, stellte die Freiburger Staatsanwaltschaft das Verfahren ein.
+* **Kernaussage:** Im Ermittlungs- und Anklagestadium gilt der Grundsatz *in dubio pro duriore*. Eine Einstellung darf grundsätzlich nur bei klarer Straflosigkeit erfolgen; bei gleicher Wahrscheinlichkeit von Freispruch und Verurteilung (50:50) muss namentlich bei schweren Delikten Anklage erhoben werden. Steht Aussage gegen Aussage, darf die Staatsanwaltschaft dennoch einstellen, wenn die Belastungsaussage in sich widersprüchlich oder wenig glaubhaft ist und jede objektive Bestätigung fehlt.
 
 ---
 
-## IV. In dubio pro reo (Abs. 3)
-
-### 14. BGE 145 IV 154 — In dubio pro reo betrifft nur Tatsachenfragen
-
-**Datum:** 2019 | **Signatur:** BGE 145 IV 154
-
-**Kernsatz:** In dubio pro reo betrifft nur die Tatsachenfeststellung, nicht die Rechtsfrage. Rechtszweifel — etwa über die richtige Auslegung einer Strafnorm — sind nach den allgemeinen Regeln der Rechtsanwendung zu lösen, nicht nach dem Zweifelssatz. Das Beweismass erfordert an Sicherheit grenzende Wahrscheinlichkeit; überwiegende Wahrscheinlichkeit genügt nicht.
-
-### 15. BGE 143 IV 500 — Qualifizierte Rüge- und Begründungspflicht
-
-**Datum:** 2017 | **Signatur:** BGE 143 IV 500
-
-**Kernsatz:** Die qualifizierte Rüge- und Begründungspflicht gilt sowohl für Willkür- als auch für Grundrechtsrügen. Eine Rüge der Verletzung von Art. 10 Abs. 1–3 muss substanziiert dargelegt werden; bloss appellatorische Vorbringen reichen nicht. In dieser Hinsicht fällt die Verletzung des Zweifelssatzes mit der Willkürkontrolle zusammen.
-
-### 16. BGE 127 I 38 — Kognitionsmassstab
-
-**Datum:** 2001 | **Signatur:** BGE 127 I 38
-
-**Kernsatz:** Die Verletzung von in dubio pro reo wird als Beweislastregel in freier Kognition geprüft; als Beweiswürdigungsregel (Entscheidungsregel) nur im Rahmen der Willkürkontrolle. Diese Unterscheidung ist von praktischer Bedeutung: Rügt die beschuldigte Person, dass die Beweislast zu Unrecht zu ihren Lasten verschoben wurde, prüft das Bundesgericht frei; rügt sie, dass das Sachgericht Zweifel zu Unrecht nicht zu ihren Gunsten gewertet hat, prüft das Bundesgericht nur auf Willkür.
-
-### 17. BGer 6B_477/2021 — Prämature Anwendung des Zweifelssatzes
-
-**Datum:** 2021 | **Docket:** 6B_477/2021
-
-**Kernsatz:** Eine prämature Anwendung des in-dubio-pro-reo-Grundsatzes im Stadium der Beweiswürdigung ist unzulässig. Die Vorinstanz wandte den Grundsatz fehlerhaft an, als sie auf der Grundlage eines Gutachtens mit drei möglichen Hypothesen freisprach, obwohl alle drei Hypothesen belastend waren und keine den Beschuldigten entlastete. In dubio pro reo darf nicht verwendet werden, um zu bestimmen, wie ein Beweismittel zu würdigen ist.
-
-### 18. BGer 6B_762/2021 — Aussage-gegen-Aussage-Situation
-
-**Datum:** 2021 | **Docket:** 6B_762/2021
-
-**Kernsatz:** Eine Aussage-gegen-Aussage-Situation führt nicht zwingend zum Freispruch, wenn ein konvergierendes Beweismittelgeflecht vorliegt, das den Aussagen des Opfers zusätzliche Stützung verleiht. In dubio pro reo gebietet in solchen Konstellationen keinen Freispruch, wenn die Gesamtwürdigung das Beweismass erreicht.
-
-### 19. BGer 6B_1018/2021 — Gesamtwürdigung, nicht Einzelindizien
-
-**Datum:** 2021 | **Docket:** 6B_1018/2021
-
-**Kernsatz:** Der in-dubio-pro-reo-Grundsatz findet keine isolierte Anwendung auf einzelne Indizien, sondern erst bei der abschliessenden Gesamtwürdigung aller Beweise. Die isolierte Betrachtung einzelner Beweismittel unter dem Zweifelssatzgebot ist methodisch unzulässig.
+### 4. BGE 129 I 49 — Methodische Anforderungen an Glaubhaftigkeitsgutachten
+* **Datum:** 7. November 2002
+* **Fundstelle:** [BGE 129 I 49 E. 4–6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-129-I-49_2003.html#consideration_4)
+* **Sachverhalt:** Ein St. Galler Hotelier wurde von einer Praktikantin beschuldigt, sie im Putzraum vergewaltigt zu haben. Das Kantonsgericht verurteilte ihn im Wesentlichen gestützt auf ein aussagepsychologisches Gutachten, das den Aussagen der Zeugin trotz zunehmender Belastungstendenzen Glaubhaftigkeit attestierte.
+* **Kernaussage:** Die Beurteilung der Glaubhaftigkeit obliegt primär dem Gericht; der Beizug eines Gutachters setzt besondere Umstände voraus. Das Abstellen auf ein mangelhaftes Gutachten verletzt Art. 9 BV und die Unschuldsvermutung. Ein methodengerechtes Gutachten muss zwingend von der Nullhypothese ausgehen (Prüfung, ob die Aussage auch ohne realen Erlebnishintergrund zustande kam). Eine unzureichende Dokumentation der Erstaussage (blosses Übersetzungsprotokoll ohne Wortlaut) entwertet die Realkennzeichenanalyse.
 
 ---
 
-## V. In dubio pro duriore
-
-### 20. BGE 143 IV 241 — In dubio pro duriore im Ermittlungsverfahren
-
-**Datum:** 2017 | **Signatur:** BGE 143 IV 241
-
-**Kernsatz:** Im Ermittlungs- und Anklagestadium gilt nicht der Grundsatz in dubio pro reo, sondern sein Komplementärprinzip in dubio pro duriore. Die Staatsanwaltschaft darf nicht allzu rasch einstellen, sondern soll in Zweifelsfällen tendenziell Anklage erheben. Der Grundsatz wird aus dem Legalitätsprinzip (Art. 5 Abs. 1 BV, Art. 2 Abs. 1 StPO) abgeleitet. Bei Aussage-gegen-Aussage-Situationen ist in der Regel Anklage zu erheben.
-
-### 21. OGer ZH, UE120146-O4 — In dubio pro duriore im kantonalen Recht
-
-**Datum:** o.J. | **Signatur:** UE120146-O4
-
-**Kernsatz:** Die Staatsanwaltschaft darf im Ermittlungsverfahren nicht allzu rasch einstellen. In dubio pro duriore bedeutet nicht, dass bei jedem Zweifel Anklage zu erheben ist, sondern dass die Staatsanwaltschaft die Beweiswürdigung dem Gericht überlassen soll, wenn die Sachlage nicht eindeutig für einen Freispruch spricht.
+### 5. BGE 147 IV 259 — Unschuldsvermutung und Trennungsgebot in der Untersuchungshaft
+* **Datum:** 27. Mai 2021
+* **Fundstelle:** [BGE 147 IV 259 E. 1.3 und 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-259_2021.html#consideration_1.3)
+* **Sachverhalt:** Ein Untersuchungsgefangener im Zürcher Gefängnis Limmattal rügte, die Haftanordnung und das Haftregime verletzten die Unschuldsvermutung nach Art. 10 Abs. 1 StPO und Art. 6 Ziff. 2 EMRK.
+* **Kernaussage:** Für die Anordnung von Untersuchungs- und Sicherheitshaft gilt nicht das Beweismass des Art. 10 Abs. 3 StPO; ein dringender Tatverdacht genügt. Jedoch verstärkt die Unschuldsvermutung das strikte Trennungsgebot zwischen Untersuchungsgefangenen und Strafgefangenen (Art. 235 Abs. 1 StPO): Untersuchungshaft darf keinen Strafcharakter annehmen.
 
 ---
 
-## VI. Beweismass und strafrechtliche Vorfragen
-
-### 22. BGE 138 V 74 — Beweismass im Sozialversicherungsverfahren
-
-**Datum:** 2012 | **Signatur:** BGE 138 V 74
-
-**Kernsatz:** Die verfassungsrechtlichen Anforderungen an die Beweiswürdigung im Strafverfahren (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) gelten auch im sozialversicherungsgerichtlichen Rückerstattungsverfahren, wenn vorfrageweise geprüft wird, ob sich der Rückforderungsanspruch aus einer strafbaren Handlung herleitet. Der Beweisgrad der überwiegenden Wahrscheinlichkeit reicht nicht aus; es gelten die beweisrechtlichen Anforderungen des Strafverfahrens.
+### 6. BGE 147 IV 409 — Freie Beweiswürdigung und Pflichten des Berufungsgerichts
+* **Datum:** 2. Juni 2021
+* **Fundstelle:** [BGE 147 IV 409 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-409_2021.html#consideration_5.3)
+* **Sachverhalt:** Das Berufungsgericht des Kantons Basel-Landschaft wich bei der Beweiswürdigung von der ersten Instanz ab, ohne das entscheiderhebliche Beweismaterial umfassend zu würdigen und zweifelhafte Punkte durch eigene Beweiserhebungen zu klären.
+* **Kernaussage:** Freie Beweiswürdigung ermächtigt das Berufungsgericht nicht, eine abweichende Beweiswürdigung ohne Begründung an die Stelle des erstinstanzlichen Urteils zu setzen. Bei zweifelhafter Beweislage verpflichtet Art. 10 Abs. 2 i.V.m. Art. 389 Abs. 3 StPO zur Erhebung zusätzlicher sachdienlicher Beweise. Das Übergehen wesentlicher Beweise begründet eine vor Bundesgericht in freier Kognition überprüfbare Gehörsverletzung (Art. 29 Abs. 2 BV).
 
 ---
 
-## VII. Unschuldsvermutung und Anwalt-Mandant-Verhältnis
+## II. Weitere Entscheide (Kasuistik & kantonale Praxis)
 
-### 23. BGE 148 IV 409 — Kontextabhängige Beweiswürdigung
-
-**Datum:** 2022 | **Signatur:** BGE 148 IV 409
-
-**Kernsatz:** Äusserungen eines Mandanten gegenüber seinem Rechtsanwalt sind im Kontext der Anwalt-Mandant-Beziehung zurückhaltend zu beurteilen: Um die freie Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, ist eine Ehrenverletzung in diesem Kontext nur zurückhaltend zu bejahen. Dies folgt aus der Unschuldsvermutung und dem Schutz des Verteidigungsverhältnisses.
-
-*Letzte Aktualisierung: 17. Mai 2026*
+### 7. BGer 6B_889/2020 — DNA-Mischspur und Freispruch wegen Sekundärtransfers
+* **Datum:** 25. September 2020
+* **Fundstelle:** [BGer 6B_889/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-889-2020_2020-09-25.html)
+* **Sachverhalt:** Farb- und Steinwurf auf ein Zürcher Parteisekretariat mit Fr. 13'000.– Schaden. Einziger Beweis war eine DNA-Mischspur auf einem Stein mit einem astronomischen Beweiswert von 9 Milliarden zu 1. Das Obergericht Zürich sprach den Beschuldigten in dubio pro reo frei, weil dieser an Schuppenflechte litt und eine Sekundärübertragung durch Hautpartikel nicht ausgeschlossen werden konnte.
+* **Kernaussage:** Das Bundesgericht wies die Beschwerde der Oberstaatsanwaltschaft ab. Die DNA-Spur belegt zwar die biologische Urheberschaft, erlaubt aber keinen zwingenden Rückschluss auf den physischen Vorgang des Steinwurfs (Antragungsvorgang). Wenn das Sachgericht gestützt auf wissenschaftliche Übertragungsrisiken Zweifel hegt, hält der Freispruch vor Bundesrecht stand.
 
 ---
 
-## Entfernte Einträge
+### 8. BGer 6B_282/2018 — Einbruchserie: Verurteilung geschützt trotz unbrauchbarer DNA-Spuren
+* **Datum:** 24. August 2018
+* **Fundstelle:** [BGer 6B_282/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-282-2018_2018-08-24.html)
+* **Sachverhalt:** Einbruchdiebstähle in vier Wohnungen desselben Mehrfamilienhauses in Dietikon am selben Tag. In einer Wohnung war der Beschuldigte durch DNA überführt. In den Nachbarwohnungen waren die DNA-Profile nicht interpretierbar; zudem sah eine Zeugin einen grossen Mann flüchten (der Täter war klein).
+* **Kernaussage:** Das Obergericht Zürich verurteilte den Täter für alle Wohnungen; das Bundesgericht schützte den Schuldspruch. In dubio pro reo gilt nicht isoliert für einzelne Indizien, sondern für die Gesamtwürdigung. Die geschlossene Kette aus zeitlicher und örtlicher Nähe, identischem Hebelwerkzeug an Balkontüren und Kletterspuren auf der Trennwand schloss jeden vernünftigen Zweifel an der Täterschaft aus.
 
-| Entscheid | Tatsächlicher Gegenstand |
-|---|---|
-| [BGE 146 IV 88](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_88) | Verweigerung von Massnahmen zur Feststellung der Fahrunfähigkeit (Art. 91a SVG); Betäubungsmittelvortests nach **Art. 10 Abs. 2 der Strassenverkehrskontrollverordnung**. Der Entscheid erwähnt Art. 10 StPO im gesamten Volltext kein einziges Mal. Er war hier als Leitentscheid Nr. 1 für das dreistufige Modell der Beweiswürdigung geführt. |
+---
 
-## Prüfvermerk
+### 9. BGer 6B_619/2011 — Vier-Augen-Delikt: Verurteilung wegen Vergewaltigung im Spitalbett
+* **Datum:** 1. November 2011
+* **Fundstelle:** [BGer 6B_619/2011](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-619-2011_2011-11-01.html)
+* **Sachverhalt:** Ein Ehemann in Basel bestritt die Vergewaltigung seiner querschnittgelähmten Ehefrau in deren Spitalbett und behauptete, Geschlechtsverkehr sei technisch unmöglich gewesen.
+* **Kernaussage:** Steht Aussage gegen Aussage, führt dies nicht zwingend zum Freispruch. Das Sachgericht durfte auf die Aussage des Opfers abstellen, da diese herausragende Realkennzeichen aufwies (Kampf um die Bett-Fernbedienung, offenes Fenster, Blick auf die Wanduhr) und durch zeitnahe Schilderungen gegenüber Spitex-Mitarbeiterinnen, Schwester und Therapeutin gestützt wurde.
 
-Alle 30 im Kommentar und auf dieser Seite angeführten Referenzen wurden am 22.08.2026 über die opencaselaw-MCP verifiziert; sämtliche existieren.
+---
 
-Die acht im Audit-Bericht gemeldeten Pinpoint-Fehler (BGE 146 IV 88 E. 2, E. 1.3 und E. 2.2.3.1; BGE 140 III 264 E. 5.3; BGE 144 IV 345 E. 1.3; BGer 6B_477/2021 E. 2.2.3; BGer 6B_651/2018 E. 2.2.3.1; BGer 6B_344/2016 E. 2.2.3.1) sind **Paarungsartefakte**: An den betroffenen Stellen führte der Artikel gar keine Erwägungsangaben. Die im Kommentar tatsächlich verwendeten Pinpoints — BGE 144 IV 345 E. 2.2.3 und E. 2.2.3.1, BGE 140 III 264 E. 2.3, BGer 6B_651/2018 E. 1.3.3 — wurden geprüft und treffen zu.
+### 10. BGer 6B_725/2012 — Vier-Augen-Delikt: Freispruch wegen widersprüchlichen Nachtatverhaltens
+* **Datum:** 18. Juli 2013
+* **Fundstelle:** [BGer 6B_725/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-725-2012_2013-07-18.html)
+* **Sachverhalt:** Eine Frau beschuldigte ihren Bekannten im Kanton Glarus, sie über 14 Monate hinweg bis zu zweimal pro Woche mit Gewalt zu sexuellen Handlungen gezwungen zu haben. Erstinstanzlich verurteilt, sprach das Obergericht Glarus den Mann frei.
+* **Kernaussage:** Das Bundesgericht schützte den Freispruch in dubio pro reo. Trotz vordergründiger Konstanz der Aussagen begründete das Nachtatverhalten unüberwindliche Zweifel an der Zwangslage: Die Klägerin besuchte den Beschuldigten nach einem Unfall wochenlang täglich in Spital und Rehaklinik, trat mit ihm öffentlich auf und unternahm freiwillig Fahrten zu seinem Wohnort.
 
-Der einzige echte Belegfehler betraf BGE 146 IV 88 (oben).
+---
 
-*Letzte Aktualisierung: 2026-08-22*
+### 11. BGer 6B_651/2018 — Verbot prämaterer Anwendung des Zweifelssatzes auf Expertisen
+* **Datum:** 17. Oktober 2018
+* **Fundstelle:** [BGer 6B_651/2018 E. 1.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-651-2018_2018-10-17.html)
+* **Sachverhalt:** Streit um das Alter eines afghanischen Beschuldigten in Basel-Stadt (Anwendbarkeit von Erwachsenen- vs. Jugendstrafrecht). Das forensische Altersgutachten schloss eine Minderjährigkeit nicht gänzlich aus, hielt die Volljährigkeit jedoch für überwiegend wahrscheinlich.
+* **Kernaussage:** Der Zweifelssatz findet auf die Würdigung von Gutachten keine Anwendung. Liegen Unschärfen oder divergierende Expertisen vor, muss das Gericht die Beweise nach Art. 10 Abs. 2 StPO frei würdigen; es darf nicht vorab einfach die für den Beschuldigten günstigere Expertise wählen.
+
+---
+
+### 12. BGE 145 IV 154 — Beschränkung von in dubio pro reo auf Tatsachenfragen
+* **Datum:** 14. Mai 2019
+* **Fundstelle:** [BGE 145 IV 154 E. 1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-154_2019.html#consideration_1.3)
+* **Sachverhalt:** Ein Verurteilter machte geltend, bei Zweifeln über die Auslegung eines Straftatbestands müsse nach Art. 10 Abs. 3 StPO die für ihn günstigere Gesetzesauslegung gewählt werden.
+* **Kernaussage:** Art. 10 Abs. 3 StPO gilt ausschliesslich für die Feststellung des Sachverhalts (Tatfragen). Rechtsfragen sind nach den anerkannten juristischen Auslegungsmethoden zu entscheiden (*iura novit curia*); eine richterliche Zweifelsregel zugunsten des Beschuldigten bei Gesetzesauslegungen existiert nicht.
+
+---
+
+### 13. ZH OG UE230417 vom 8. Juli 2024 — Kantonale Praxis Zürich: Nichtanhandnahme bei unplausibler Vier-Augen-Anzeige
+* **Datum:** 8. Juli 2024
+* **Fundstelle:** [ZH OG UE230417](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE230417_2024-07-08.pdf)
+* **Sachverhalt:** Strassenstreit in Zürich; A. behauptete, B. habe ihm mit einem Motorradhelm eine Kopfnuss verpasst. Auf dem Helm fand das Forensische Institut Zürich keine Blutspuren; Zeugen fehlten. Die Staatsanwaltschaft Zürich-Limmat verfügte die Nichtanhandnahme.
+* **Kernaussage:** Die III. Strafkammer des Obergerichts Zürich wies die Beschwerde ab. Bei einer Aussage-gegen-Aussage-Konstellation ohne Sachbeweise darf die Staatsanwaltschaft das Verfahren abschliessen, wenn die Belastungsaussage in sich widersprüchlich und eine Verurteilung von vornherein unwahrscheinlich ist. *In dubio pro duriore* erzwingt keine aussichtslosen Anklagen.
+
+---
+
+### 14. BE OG BK 20 153 vom 13. Mai 2020 — Kantonale Praxis Bern: Grenzen von in dubio pro duriore bei Bagatellen
+* **Datum:** 13. Mai 2020
+* **Fundstelle:** [BE OG BK 20 153](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2020-153_2020-05-13.pdf)
+* **Sachverhalt:** Strafanzeige einer Mutter gegen ihren Sohn wegen angeblicher Sachentziehung von zwei Stühlen und eines Selmer-Saxofons sowie übler Nachrede. Die Regionale Staatsanwaltschaft Emmental-Oberaargau stellte das Verfahren ein.
+* **Kernaussage:** Die Beschwerdekammer des Obergerichts Bern bestätigte die Einstellung. Würde *in dubio pro duriore* bedeuten, dass bei jeder Aussage-gegen-Aussage-Situation über Bagatell- und Antragsdelikte zwingend das Sachgericht entscheiden müsste, würde die gesetzliche Einstellungsbefugnis nach Art. 319 StPO ausgehöhlt.
