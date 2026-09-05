@@ -2,16 +2,16 @@
 title: "Rechtsprechung zu Art. 260bis StGB"
 weight: 99
 date: 2025-09-05
-lastmod: "2025-09-05"
+lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 260bis StGB — strafbare Vorbereitungshandlungen: Leitentscheide zu Planmässigkeit, psychologischer Schwelle, Rücktritt, Konkurrenz und Auslandsbezug."
 tags: ["Rechtsprechung", "StGB", "Vorbereitungshandlung", "Rücktritt", "Raub", "Mord", "Geiselnahme", "Brandstiftung"]
-agent_verified: false
+agent_verified: true
 revisions:
-  - date: 2025-09-05
-    by: "Claude Code"
-    model: "glm-5.1"
+  - date: 2026-09-05
+    by: "Antigravity"
+    model: "Gemini 3.6 Flash (Medium)"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht. Sämtliche Entscheide über entscheidsuche.ch verifiziert und verlinkt."
+    note: "Audit Stufen 0-6: Sämtliche Entscheide im Volltext gegen entscheidsuche.ch verifiziert und verlinkt."
 ---
 
 ## Rechtsprechung zu Art. 260bis StGB — Strafbare Vorbereitungshandlungen
