@@ -11,6 +11,11 @@ revisions:
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
+    note: "Nachführung auf die Skill-Fassung vom 04.09.2026, 15:09 (Tatbestandsmerkmale als Grundgerüst, Abschnitt 3.1 Ziff. 4): Die bisherige vierzeilige Prüfungsreihenfolge deckte nur einen Teil der Kommentierung ab und fasste die Abschnitte C bis I in einer einzigen Zeile zusammen. Sie ist durch ein vollständiges Prüfschema ersetzt, das jedes Merkmal mit Prüffrage, Beweislast und Beweismass ausweist und Zeile für Zeile mit den Abschnitten A bis K deckungsgleich ist. Gliederung, Kasuistik und Fundstellen unverändert; keine inhaltliche Änderung am Text der Kommentierung."
+  - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Format von Art. 110 StPO: Gesetzeswortlaut neu gegliedert und mit Übersichtstabelle der acht benannten Tatbestände versehen; Kommentierung von zwei auf dreizehn Abschnitte erweitert und durchgehend auf geschilderte Sachverhalte umgestellt. Neu ausgewertet und im Volltext geprüft: BGE 150 III 78, BGE 149 III 304, BGE 138 III 359, BGE 136 III 96, BGE 125 III 277 sowie BGer 4A_388/2025, 4A_368/2023, 4A_295/2024, 4A_44/2021, 4A_33/2025, 4A_259/2019 und die kantonalen Entscheide SG KG BO.2024.11-K3, AG OG ZOR.2025.11 und ZOR.2025.27. Volltexte über entscheidsuche.ch geholt, die Belegstellen wörtlich übernommen und die Entscheide dorthin verlinkt (Erwägungsanker nur bei BGE, da die BGer-Dokumente auf entscheidsuche keine consideration-Anker tragen). BGer 4A_60/2026 und 4A_612/2025 existieren (über opencaselaw bestätigt), werden von entscheidsuche jedoch noch nicht geführt; die bisherigen Links auf bger-update.ch (Sekundärquelle) wurden deshalb durch den opencaselaw-Rückfall ersetzt und der Volltext von 4A_60/2026 dort geholt. Gesetzeswortlaut verbatim aus Fedlex (SR 220, Konsolidierung 1. Januar 2026). Nicht übernommen: das im früheren Text zitierte «BGE 125 III 285» (auf opencaselaw nicht auffindbar)."
   - date: 2026-09-03
     by: "Glossagens Agent"
@@ -92,14 +97,27 @@ Der gedankliche Ausgangspunkt ist die Kündigungsfreiheit. Das Bundesgericht wie
 
 ([BGer 4A_368/2023 vom 19. Januar 2024, E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-368-2023_2024-01-19.html), Fünferbesetzung; gleichlautend [4A_295/2024 vom 20. August 2024, E. 3.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-295-2024_2024-08-20.html) und [4A_44/2021 vom 2. Juni 2021, E. 4.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-44-2021_2021-06-02.html)).
 
-Daraus folgt die Prüfungsreihenfolge, die den ganzen Kommentar strukturiert:
+### Prüfschema: die Merkmale in ihrer Prüfungsreihenfolge
 
-| Schritt | Frage | Wer trägt die Last | Abschnitt |
-|---|---|---|---|
-| 1 | Wurde rechtzeitig schriftlich Einsprache erhoben? | gekündigte Partei | → K |
-| 2 | Liegt ein verpöntes **Motiv** (Abs. 1/2) oder eine verpönte **Art und Weise** vor? | gekündigte Partei | → C–I |
-| 3 | War dieses Motiv für die Kündigung **kausal**? | gekündigte Partei | → B |
-| 4 | Wie hoch ist die Entschädigung? | Ermessen des Gerichts | → K |
+Daraus folgt die Prüfungsreihenfolge, die den ganzen Kommentar strukturiert. Die Tabelle ist zugleich das Inhaltsverzeichnis: Jede Zeile findet sich unten als Abschnitt wieder, in derselben Reihenfolge.
+
+| Nr. | Merkmal | Was zu prüfen ist | Behauptungs- und Beweislast / Beweismass | Abschnitt |
+|---|---|---|---|---|
+| 0 | **Vorfrage: Einsprache und Klagefrist** | Wurde bis zum Ende der Kündigungsfrist **schriftlich** Einsprache erhoben (Art. 336b Abs. 1 OR) und danach fristgerecht geklagt? | Gekündigte Partei; Verwirkungsfolge — die häufigste Falle überhaupt | [K.1](#1-die-einsprache-nach-art-336b-abs-1-or--die-häufigste-falle) |
+| 1 | **Angriffslinie bestimmen** | Motivmissbrauch (verpönter Kündigungsgrund) oder Ausübungsmissbrauch (verpönte Art und Weise)? Massgebend ist die **Gesamtwürdigung**, nicht eine Merkmalsabhakliste | Gekündigte Partei wählt die Linie | [A](#a-der-rahmen-motivmissbrauch-und-ausübungsmissbrauch) |
+| 2 | **Motiv und Kausalität** | War das verpönte Motiv für den Kündigungsentschluss **ausschlaggebend**? Mehrere Motive: das entscheidende zählt; nachgeschobene Gründe bleiben unbeachtlich | Gekündigte Partei — **auch für die Kausalität**; Beweismass der hohen Wahrscheinlichkeit; Indizien und tatsächliche Vermutung, aber keine Beweislastumkehr | [B](#b-das-kündigungsmotiv-wo-die-prozesse-entschieden-werden) |
+| 3a | **Abs. 1 lit. a — Eigenschaft kraft Persönlichkeit** | Alter, Geschlecht, Herkunft, Religion, Krankheit; Gegenausnahme: Zusammenhang mit dem Arbeitsverhältnis oder wesentliche Beeinträchtigung der Zusammenarbeit | Gekündigte Partei; Gegenausnahme beim Arbeitgeber | [C](#c-abs-1-lit-a--eigenschaft-kraft-persönlichkeit) |
+| 3b | **Abs. 1 lit. b — Ausübung verfassungsmässiger Rechte** | Meinungsäusserung, Streik, persönliche Freiheit; Gegenausnahme: Vertragspflichtverletzung oder wesentliche Beeinträchtigung der Zusammenarbeit | dito | [D](#d-abs-1-lit-b--ausübung-verfassungsmässiger-rechte) |
+| 3c | **Abs. 1 lit. c und d — Vereitelung und Rache** | lit. c nur bei **ausschliesslicher** Vereitelungsabsicht und Ansprüchen, die «in naher Zukunft» entstünden; lit. d verlangt einen **in guten Treuen** erhobenen Anspruch | Gekündigte Partei | [E](#e-abs-1-lit-c-und-d--vereitelung-und-rache) |
+| 3d | **Abs. 1 lit. e — Dienstpflichten** | Militär-, Schutz- oder Zivildienst, gesetzliche Pflicht; keine Gegenausnahme | Gekündigte Partei | [F](#f-abs-1-lit-e--militär-schutz-und-zivildienst) |
+| 3e | **Abs. 2 — arbeitgeberseitige Tatbestände** | lit. a Gewerkschaftszugehörigkeit (Tätigkeit muss rechtmässig sein); lit. b Arbeitnehmervertreter — **Beweislastumkehr**; lit. c Massenentlassung ohne Konsultation | bei lit. b: **Arbeitgeber** muss «begründeten Anlass» beweisen | [G](#g-abs-2--die-arbeitgeberseitigen-zusatztatbestände) |
+| 3f | **Ungeschriebene Tatbestände** | Fürsorgepflichtverletzung im Konflikt, Alters-, Sündenbock-, Änderungs- und Verdachtskündigung; Schwelle: vergleichbar mit den gesetzlichen Tatbeständen | Gekündigte Partei | [H](#h-die-ungeschriebenen-tatbestände) |
+| 4 | **Art und Weise der Kündigung** | Gebot schonender Rechtsausübung; blosse Unanständigkeit genügt nicht | Gekündigte Partei | [I](#i-die-art-und-weise-der-kündigung-was-zählt-und-was-nicht) |
+| 5 | **Sonderfall Probezeit** | Herabgesetzter Massstab, aber kein rechtsfreier Raum | Gekündigte Partei | [J](#j-kündigung-während-der-probezeit) |
+| 6 | **Rechtsfolge und Verfahren** | Entschädigung bis sechs Monatslöhne (Art. 336a OR); kein Bestandesschutz, kein selbständiges Feststellungsbegehren; Kognition des Bundesgerichts | Ermessen des Gerichts | [K](#k-rechtsfolge-und-verfahren) |
+
+> **Grundsatz.** Merkmal 0 wird chronologisch zuerst relevant, steht aber inhaltlich am Schluss (Abschnitt K) — deshalb die Nummer 0. Wer die Einsprachefrist verpasst, verliert unabhängig davon, wie eindeutig das verpönte Motiv ist. Und Merkmal 2 entscheidet mehr Prozesse als alle Tatbestände zusammen: Der Streit geht selten darum, *ob* Alter oder Krankheit ein verpöntes Motiv wären, sondern darum, ob sie *ausschlaggebend* waren.
+
 
 Zwei Leitsätze durchziehen die gesamte Rechtsprechung und erklären die meisten Prozessausgänge:
 
