@@ -24,7 +24,7 @@ revisions:
 
 Leitentscheid zu Art. 28, 303 und 173 ff. StGB; Umfang eines Strafantrags. Ein Strafantrag wegen «falscher Anschuldigung» (Art. 303 StGB) kann grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen (E. 2b); aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Der Entscheid klärt die Reichweite des Strafantrags an der Schnittstelle von Ehrverletzung und falscher Anschuldigung.
 
-→ [BGE 115 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_1)
+→ [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html)
 
 ### BGE 102 IV 176 — Ehrverletzung durch die Presse / Wahrheitsbeweis bei Verdächtigung
 
@@ -32,7 +32,7 @@ Leitentscheid zu Art. 28, 303 und 173 ff. StGB; Umfang eines Strafantrags. Ein S
 
 Leitentscheid zur Ehrverletzung durch die Presse (Art. 173 Ziff. 2 StGB; der Grundsatz gilt entsprechend für Art. 174 StGB). Für die Verdächtigung (oder die Weiterverbreitung) gibt es keinen besondern Wahrheitsbeweis: Dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht im Nachweis der Verdachtsmomente. Klärt zudem die Gutgläubigkeitsbeweisfragen der Presseberichterstattung und die Abgrenzung zulässiger Berichterstattung von ehrverletzender Verbreitung.
 
-→ [BGE 102 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_176)
+→ [BGE 102 IV 176](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-176_1976.html)
 
 ### BGer 6B_1046/2021 — Verleumdung
 

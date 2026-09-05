@@ -24,7 +24,7 @@ revisions:
 
 Leitentscheid zu Art. 173 StGB; Art. 16 Abs. 2 BV, Art. 10 EMRK; üble Nachrede; Zulassung zum Wahrheitsbeweis; Meinungsäusserungsfreiheit. Einer Person zu unterstellen, sie habe Sympathien für das Nazi-Regime, ist selbst für einen Politiker ehrverletzend. Der Entscheid klärt die Voraussetzungen von Art. 173 Ziff. 3 StGB für die Zulassung zum Wahrheitsbeweis unter Berücksichtigung der Meinungsäusserungsfreiheit und die Grenzen politischer Kritik.
 
-→ [BGE 137 IV 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_313)
+→ [BGE 137 IV 313](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-313_2011.html)
 
 ### BGE 131 IV 154 — Ehrverletzende Äusserungen von Anwälten im Prozess
 
@@ -32,7 +32,7 @@ Leitentscheid zu Art. 173 StGB; Art. 16 Abs. 2 BV, Art. 10 EMRK; üble Nachrede;
 
 Leitentscheid zur üblen Nachrede (Art. 173 StGB) im Spannungsverhältnis zur Berufspflicht (Art. 32 StGB) und zur Pflicht zur sorgfältigen und gewissenhaften Ausübung des Anwaltsberufs (Art. 12 lit. a BGFA). Ehrverletzende Äusserungen von Anwälten im Prozess sind durch die Darlegungspflicht und die Berufspflicht gerechtfertigt, sofern sie sachlich-relevante Abklärungen im Rahmen der Prozessführung betreffen.
 
-→ [BGE 131 IV 154](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_154)
+→ [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html)
 
 ### BGE 119 IV 44 — Bedeutung des Gutglaubensbeweises
 
@@ -40,7 +40,7 @@ Leitentscheid zur üblen Nachrede (Art. 173 StGB) im Spannungsverhältnis zur Be
 
 Leitentscheid zur Legitimation im Falle einer Strafbefreiung: Wer zwar von Strafe befreit, aber schuldig gesprochen worden ist, kann den Schuldspruch anfechten. Klärt zu Art. 173 Ziff. 2 StGB die Bedeutung des Gutglaubensbeweises: Ist der Gutglaubensbeweis erbracht, so ist ein Schuldvorwurf ausgeschlossen.
 
-→ [BGE 119 IV 44](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_44)
+→ [BGE 119 IV 44](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-119-IV-44_1993-03-15.html)
 
 ### BGE 124 IV 149 — Gutglaubensbeweis: gute Treue und ernsthafte Gründe
 
@@ -48,7 +48,7 @@ Leitentscheid zur Legitimation im Falle einer Strafbefreiung: Wer zwar von Straf
 
 Leitentscheid zu Art. 173 Ziff. 2 StGB (Gutglaubensbeweis). Aus Art. 173 Ziff. 2 StGB folgt, dass der gute Glaube nicht genügt; der Angeschuldigte muss überdies **ernsthafte Gründe** gehabt haben, an die Wahrheit seiner Äusserung zu glauben. Der Entscheid klärt die Bedingungen, unter denen die Bestimmung anwendbar ist (kumulative Voraussetzungen der guten Treue und der ernsthaften Gründe).
 
-→ [BGE 124 IV 149](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_IV_149)
+→ [BGE 124 IV 149](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-124-IV-149_1998-05-18.html)
 
 ### BGE 135 IV 177 — Rechtfertigungsgrund der Auskunftsperson
 
@@ -56,7 +56,7 @@ Leitentscheid zu Art. 173 Ziff. 2 StGB (Gutglaubensbeweis). Aus Art. 173 Ziff. 2
 
 Leitentscheid zu Art. 14 und 173 ff. StGB. Auch die polizeilich oder richterlich befragte Auskunftsperson kann sich im Falle ehrenrühriger Äusserungen unter vergleichbaren Voraussetzungen, wie sie für andere Verfahrensbeteiligte (etwa Zeugen oder Prozessparteien) gelten, auf den Rechtfertigungsgrund von Art. 14 und 173 ff. StGB berufen.
 
-→ [BGE 135 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_177)
+→ [BGE 135 IV 177](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-177_2009.html)
 
 ### BGE 116 IV 205 — Gutglaubensbeweis des Anzeigeerstatters
 
@@ -64,7 +64,7 @@ Leitentscheid zu Art. 14 und 173 ff. StGB. Auch die polizeilich oder richterlich
 
 Leitentscheid zu Art. 173 StGB; üble Nachrede, Gutglaubensbeweis. Wird gegen einen Anzeigeerstatter aufgrund seiner Anzeige eine Ehrverletzungsklage erhoben, so dürfen an den Gutglaubensbeweis keine strengen Anforderungen gestellt werden; insbesondere dann nicht, wenn die Anzeige vorwiegend Verdachtsmomente enthält.
 
-→ [BGE 116 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_205)
+→ [BGE 116 IV 205](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-116-IV-205_1990-09-12.html)
 
 ### BGE 147 IV 47 — Beschwerdelegitimation der Privatklägerschaft (Kostentragung)
 
@@ -72,7 +72,7 @@ Leitentscheid zu Art. 173 StGB; üble Nachrede, Gutglaubensbeweis. Wird gegen ei
 
 Leitentscheid zu Art. 81 Abs. 1 lit. b BGG; Art. 426 Abs. 2, Art. 433 Abs. 1 lit. b StPO. Beschwerdelegitimation der Privatklägerschaft bezüglich der Kostentragungspflicht einer beschuldigten Person, deren Verfahren eingestellt wurde. Das rechtlich geschützte Interesse der Privatklägerschaft ist gegeben, wenn der Feststellungsanspruch nach der Verfahrenseinstellung weiterhin verfolgbar bleibt. Relevant für das Ehrverletzungsstrafverfahren, in dem die Privatklägerschaft antragsberechtigt ist.
 
-→ [BGE 147 IV 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_47)
+→ [BGE 147 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html)
 
 ## Weitere Entscheide
 
@@ -114,7 +114,7 @@ Bundesgerichtsentscheid zur üblen Nachrede, zum Entlastungsbeweis und zur Willk
 
 Leitentscheid zur Ehrverletzung durch die Presse (Art. 173 Ziff. 2 StGB). Für die Verdächtigung (oder die Weiterverbreitung) gibt es keinen besondern Wahrheitsbeweis: Dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht im Nachweis der Verdachtsmomente. Klärt zudem die Gutgläubigkeitsbeweisfragen der Presseberichterstattung.
 
-→ [BGE 102 IV 176](https://mcp.opencaselaw.ch/entscheid/bge_BGE_102_IV_176)
+→ [BGE 102 IV 176](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-176_1976.html)
 
 ### BGer 6B_880/2025 — Diffamation eines Politikers im Rahmen einer Interpellation (Freispruch)
 
@@ -127,7 +127,7 @@ Leitentscheid zur Meinungsäusserungsfreiheit bei politischen Äusserungen (Art.
 - Eine strafrechtliche Sanktion gegen Äusserungen, die sich auf ein **offizielles Dokument** stützen und im Rahmen eines öffentlichen Interessenkonflikts geäussert werden, ist ein **unverhältnässiger Eingriff** in die Meinungsäusserungsfreiheit (Ultima-ratio-Prinzip, E. 1.6).
 - Der gute Glaube des Äussernden im Sinne von Art. 173 Abs. 2 StGB ist im politischen Kontext **weit zu fassen**, wenn die Äusserung auf einem offiziellen Dokument beruht (E. 1.6).
 
-→ [BGer 6B_880/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_880_2025)
+→ [BGer 6B_880/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-880-2025_2026-05-11.html)
 
 ### BGE 115 IV 1 — Umfang eines Strafantrags (Ehrverletzung / falsche Anschuldigung)
 
@@ -135,7 +135,7 @@ Leitentscheid zur Meinungsäusserungsfreiheit bei politischen Äusserungen (Art.
 
 Leitentscheid zu Art. 28, 303 und 173 ff. StGB; Umfang eines Strafantrags. Ein Strafantrag wegen «falscher Anschuldigung» (Art. 303 StGB) kann grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen; aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Relevant für die Bestimmung des Umfangs des Strafantrags im Ehrverletzungsstrafrecht.
 
-→ [BGE 115 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_IV_1)
+→ [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html)
 
 ## Zusammenfassung
 

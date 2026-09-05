@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 240 StGB"
 weight: 99
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: "2026-09-05"
 description: "Übersicht der massgeblichen Entscheide zu Art. 240 StGB (Geldfälschung) — Absichtsbegriff, Übergabe an Eingeweihte, besonders leichter Fall, Konkurrenz zu Art. 242 und 146 StGB."
 tags: ["Rechtsprechung", "StGB", "Geldfälschung", "Falschgeld", "Absicht", "Konkurrenz"]
 agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; kantonale Praxis (VS, AG) ergänzt; alle BGE-Links verifiziert"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -24,7 +29,7 @@ Zurück zum Kommentar: [Art. 240 StGB — Geldfälschung](./)
 - **Kernaussage**: Art. 240 StGB setzt nicht voraus, dass der Fälscher die Absicht habe, das Falschgeld **selbst** (oder durch ein nicht vorsätzlich handelndes Werkzeug) als echt in Umlauf zu setzen. Den Tatbestand erfüllt auch derjenige, welcher Geld in der Absicht fälscht, es als Falsifikat einem Dritten zu übergeben, und dabei weiss oder zumindest in Kauf nimmt, dass dieser Dritte oder dessen Abnehmer das Falschgeld als echtes Geld in Umlauf setzen werde. Die erforderliche Absicht ist gegeben, wenn der Fälscher will, dass das Falschgeld überhaupt — **von wem auch immer** — als echtes in Umlauf gelangt.
 - **Erwägung**: E. 1 ff.
 - **Einschlägig für**: Abs. 1 (Absicht des Inumlaufbringens)
-- **Quelle**: [BGE 119 IV 154](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_IV_154)
+- **Quelle**: [BGE 119 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-119-IV-154_1993-07-08.html)
 
 ## Konkurrenzen
 
@@ -34,7 +39,7 @@ Zurück zum Kommentar: [Art. 240 StGB — Geldfälschung](./)
 - **Kernaussage**: Ein **besonders leichter Fall** der Geldfälschung im Sinne von Art. 240 Abs. 2 StGB wird bei der Herstellung von **acht Zweihunderternoten** bejaht (E. 3). Zwischen der Geldfälschung (Art. 240 StGB) und dem Inumlaufsetzen falschen Geldes (Art. 242 StGB) besteht **echte Konkurrenz** (Präzisierung der Rechtsprechung; E. 4.2). Zwischen dem Inumlaufsetzen falschen Geldes (Art. 242 StGB) und dem Betrug (Art. 146 StGB) besteht ebenfalls **echte Konkurrenz** (Änderung der Rechtsprechung; E. 4.3). Wer Falschgeld in Umlauf bringt, begeht damit regelmässig keinen Betrug.
 - **Erwägung**: E. 3, 4.2, 4.3
 - **Einschlägig für**: Abs. 2 (besonders leichter Fall); Konkurrenz Art. 240/242/146 StGB
-- **Quelle**: [BGE 133 IV 256](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_256)
+- **Quelle**: [BGE 133 IV 256](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-256_2007.html)
 
 ## Übergabe an Eingeweihte
 
@@ -44,7 +49,7 @@ Zurück zum Kommentar: [Art. 240 StGB — Geldfälschung](./)
 - **Kernaussage**: Wer falsches Geld einem **Eingeweihten** übergibt (veräussert) und in Kauf nimmt, dass dieser oder eine andere Person es als echtes Geld in Umlauf setzen werde, kann nur nach den Regeln über die **Mittäterschaft und Teilnahme** an der Tat des andern wegen (versuchten) In-Umlauf-Setzens falschen Geldes als echt bestraft werden. Die Übergabe (Veräusserung) von Falschgeld an einen Eingeweihten ist **nicht schon als solche** Versuch des In-Umlauf-Setzens falschen Geldes als echtes Geld. Vorbehalten bleibt eine Verurteilung wegen Vorbereitungshandlungen (Art. 243 StGB).
 - **Erwägung**: E. 1 ff.
 - **Einschlägig für**: Abs. 1 (Absicht, Teilnahme); Art. 21, 22, 24, 25, 242, 243, 244 StGB
-- **Quelle**: [BGE 123 IV 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_9)
+- **Quelle**: [BGE 123 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-123-IV-9_1997-01-30.html)
 
 ## Einziehung falscher Goldmünzen
 
@@ -54,4 +59,18 @@ Zurück zum Kommentar: [Art. 240 StGB — Geldfälschung](./)
 - **Kernaussage**: Die gemäss der Spezialbestimmung von **Art. 249 StGB** obligatorische Einziehung setzt **keine strafbare Handlung** im Sinne der Art. 240 ff. StGB voraus (E. 1). Auch sogenannte **Probeprägungen** in Messing unterliegen der Einziehung, sofern die Verwechslungsgefahr mit echten Goldmünzen zu bejahen ist (E. 2a–c). Der Zweck der Einziehung ist erreicht, wenn die falsche Goldmünze durch **Einschneiden unbrauchbar** gemacht wird (E. 2f). Die eingezogene und unbrauchbar gemachte Münze ist dem Berechtigten zurückzugeben, sofern sie für diesen noch verwertbar ist.
 - **Erwägung**: E. 1, 2a–c, 2f
 - **Einschlägig für**: Abs. 1 (Fälschungsbegriff); Art. 249 StGB (Einziehung)
-- **Quelle**: [BGE 123 IV 55](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_55)
+- **Quelle**: [BGE 123 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-123-IV-55_1997-03-12.html)
+
+## Kantonale Praxis
+
+### VS Strafgerichtshof P1 06/102 (05.07.2007)
+
+- **Thema**: Besonders leichter Fall der Geldfälschung (Art. 240 Abs. 2 StGB)
+- **Kernaussage**: Keine allgemein gültigen Kriterien für das Vorliegen eines besonders leichten Falls; Beurteilung nach richterlichem Ermessen. Herstellung von 31 falschen Hunderternoten mit einfachem Scanner und Tintenstrahldrucker auf Fotokopierpapier ohne Wasserzeichen: besonders leichter Fall bejaht.
+- **Quelle**: [VS Strafgerichtshof P1 06/102](https://entscheidsuche.ch/docs/VS_Gerichte/VS_BZG_999_P1-06-102_2007-07-05.pdf)
+
+### AG Obergericht SST.2010.145 (18.08.2010)
+
+- **Thema**: Art. 240 Abs. 1 und 2 StGB; Grundtatbestand vs. besonders leichter Fall
+- **Kernaussage**: Der Grundtatbestand nach Art. 240 Abs. 1 StGB ist bereits erfüllt, wenn die Fälschung nicht leicht erkennbar oder nicht bloss wenige Falsifikate mit geringem Nominalwert hergestellt worden sind, auch wenn die Vorgehensweise einfach und die kriminelle Energie gering war.
+- **Quelle**: [AG Obergericht SST.2010.145](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2010-145_2010-08-18.pdf)

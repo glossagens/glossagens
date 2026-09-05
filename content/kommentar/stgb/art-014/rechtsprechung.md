@@ -24,7 +24,7 @@ revisions:
 
 Leitentscheid zu Art. 14 und 173 ff. StGB. Auch die polizeilich oder richterlich befragte Auskunftsperson kann sich im Falle ehrenrühriger Äusserungen unter vergleichbaren Voraussetzungen, wie sie für andere Verfahrensbeteiligte (etwa Zeugen oder Prozessparteien) gelten, auf den Rechtfertigungsgrund von Art. 14 StGB berufen. Spitzenreiter mit 322 entscheidungsspezifischen Zitationen.
 
-→ [BGE 135 IV 177](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_IV_177)
+→ [BGE 135 IV 177](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-177_2009.html)
 
 ### BGE 141 IV 417 — Nachfahrkontrolle als gesetzlich erlaubte Handlung
 
@@ -32,7 +32,7 @@ Leitentscheid zu Art. 14 und 173 ff. StGB. Auch die polizeilich oder richterlich
 
 Nachfahrkontrolle, gesetzlich erlaubte Handlung (Art. 14 StGB, § 8 Abs. 3 PolG/ZH); Beweisverwertung (Art. 141 Abs. 2 StPO). Ein angebliches Rechtsüberholen eines Personenwagens durch den Lenker eines zivilen Polizeifahrzeugs im Rahmen einer Nachfahrkontrolle betreffend einen anderen Personenwagen wird vom Rechtfertigungsgrund des Art. 14 StGB gedeckt.
 
-→ [BGE 141 IV 417](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_417)
+→ [BGE 141 IV 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-417_2015.html)
 
 ### BGE 131 IV 154 — Berufspflicht des Anwalts bei ehrverletzenden Prozessäusserungen
 
@@ -40,7 +40,7 @@ Nachfahrkontrolle, gesetzlich erlaubte Handlung (Art. 14 StGB, § 8 Abs. 3 PolG/
 
 Üble Nachrede (Art. 173 StGB); Berufspflicht (Art. 14 StGB); Pflicht zur sorgfältigen und gewissenhaften Ausübung des Anwaltsberufs (Art. 12 lit. a BGFA). Ehrverletzende Äusserungen von Anwälten im Prozess sind durch die Darlegungspflicht und die Berufspflicht gerechtfertigt, sofern sie sachlich erforderlich und geboten sind.
 
-→ [BGE 131 IV 154](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_IV_154)
+→ [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html)
 
 ### BGE 146 IV 297 — Notstandshilfe im Asyl- und Dublin-Verfahren
 
@@ -48,7 +48,7 @@ Nachfahrkontrolle, gesetzlich erlaubte Handlung (Art. 14 StGB, § 8 Abs. 3 PolG/
 
 Art. 5 Abs. 3 BV; Art. 116 Abs. 1 lit. a i.V.m. Abs. 2 AIG; Art. 17 StGB; Förderung der rechtswidrigen Einreise; Notstandshilfe; Dublin-Verfahren. Der Entscheid klärt die Grenzen strafbarer Fluchthilfe und das Verhältnis zu rechtfertigendem Notstand (Art. 17) sowie zum rechtmässigen Verhalten — mit Reflexwirkungen auf Art. 14 StGB.
 
-→ [BGE 146 IV 297](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_297)
+→ [BGE 146 IV 297](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-297_2020.html)
 
 ### BGer 6B_584/2016 — Üble Nachrede, Willkür, Entlastungsbeweis
 
@@ -66,7 +66,7 @@ Art. 5 Abs. 3 BV; Art. 116 Abs. 1 lit. a i.V.m. Abs. 2 AIG; Art. 17 StGB; Förde
 
 Art. 14 StGB. Rechtfertigungsgrund der Amtspflicht. Wer in amtlicher Funktion ehrenrührige Fakten erwähnen und persönliche Eigenschaften und Motive werten muss, ist durch Art. 14 StGB gedeckt, soweit er nicht über das Notwendige hinausgeht oder wider besseres Wissen handelt.
 
-→ [BGE 106 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_106_IV_179)
+→ [BGE 106 IV 179](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-106-IV-179_1980-06-06.html)
 
 ### BGE 116 IV 211 — Üble Nachrede durch eine Prozesspartei
 
@@ -74,7 +74,7 @@ Art. 14 StGB. Rechtfertigungsgrund der Amtspflicht. Wer in amtlicher Funktion eh
 
 Art. 173 und 14 StGB; üble Nachrede durch eine Prozesspartei. Wer anlässlich eines Vermittlungs- oder Gerichtsverfahrens ehrenrührige Behauptungen aufstellt, kann sich über den Entlastungsbeweis von Art. 173 Ziff. 2 StGB hinaus auf die entsprechenden Verfahrensbestimmungen (Darlegungspflicht) berufen.
 
-→ [BGE 116 IV 211](https://mcp.opencaselaw.ch/entscheid/bge_BGE_116_IV_211)
+→ [BGE 116 IV 211](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-116-IV-211_1990-07-09.html)
 
 ### BGE 118 IV 248 — Bestreiten belastender Aussagen im Strafverfahren
 
@@ -82,7 +82,7 @@ Art. 173 und 14 StGB; üble Nachrede durch eine Prozesspartei. Wer anlässlich e
 
 Art. 173 ff. StGB; Ehrverletzung. Der Angeklagte, der im Rahmen des Strafverfahrens ihn belastende Aussagen bestreitet, macht sich gegenüber deren Urheber in der Regel nicht der Ehrverletzung schuldig; er ist durch Art. 14 StGB geschützt, wenn er sich auf notwendige und erhebliche Äusserungen beschränkt.
 
-→ [BGE 118 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_IV_248)
+→ [BGE 118 IV 248](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-248_1992-07-10.html)
 
 ### BGE 123 IV 97 — Rechtfertigung unwahrer ehrverletzender Äusserung durch Amtspflicht
 
@@ -90,7 +90,7 @@ Art. 173 ff. StGB; Ehrverletzung. Der Angeklagte, der im Rahmen des Strafverfahr
 
 Art. 14, 173 StGB. Rechtfertigung einer unwahren ehrverletzenden Äusserung durch Amtspflicht. Voraussetzungen; Verhältnis zum Gutglaubensbeweis (E. 2c).
 
-→ [BGE 123 IV 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_IV_97)
+→ [BGE 123 IV 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-123-IV-97_1997-04-25.html)
 
 ### BGE 94 IV 5 — Waffengebrauch der Polizei; Verwaltungsvorschriften
 
@@ -98,7 +98,7 @@ Art. 14, 173 StGB. Rechtfertigung einer unwahren ehrverletzenden Äusserung durc
 
 Art. 14 StGB. Waffengebrauch der Polizei. 1. Zur Rechtfertigung seines Verhaltens kann der Beamte sich auch auf Verwaltungsvorschriften berufen, wenn seine Pflichten bloss in solchen Vorschriften statt in gesetzlichen Bestimmungen geregelt sind (Erw. 1). 2. Der Grundsatz der Verhältnismässigkeit ist zu beachten.
 
-→ [BGE 94 IV 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_94_IV_5)
+→ [BGE 94 IV 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-94-IV-5_1968-02-08.html)
 
 ### BGE 111 IV 113 — Waffengebrauch der Polizei; kantonales Dienstrecht
 
@@ -106,7 +106,7 @@ Art. 14 StGB. Waffengebrauch der Polizei. 1. Zur Rechtfertigung seines Verhalten
 
 Art. 14 StGB. Waffengebrauch der Polizei. 1. Bei der Frage der Rechtfertigung durch Amtspflicht ist neben dem Grundsatz der Verhältnismässigkeit auch das entsprechende kantonale Dienstrecht zu beachten (Erw. 2). 2. Ob die Körperverletzungen durch die Amtspflicht im Sinne des einschlägigen Dienstrechts gedeckt sind.
 
-→ [BGE 111 IV 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_111_IV_113)
+→ [BGE 111 IV 113](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-111-IV-113_1985-12-13.html)
 
 ### BGer 6B_118/2015 — Üble Nachrede und Rechtfertigung
 
