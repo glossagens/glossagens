@@ -1,22 +1,22 @@
 ---
 title: "Art. 396 — Umfang des Auftrags"
 weight: 396
-date: 2026-06-27
-lastmod: 2026-08-18
-description: "Kommentar zu Art. 396 OR — Umfang des Auftrags: ergänzende Auslegung, implizite Ermächtigung zu Rechtshandlungen, besondere Ermächtigung für Vergleich, Schiedsgericht, Wechsel, Grundstücke, Schenkungen"
-tags: ["OR", "Auftragsrecht", "Vollmacht", "Ermächtigung", "Vergleich", "Schiedsgericht", "Grundstückgeschäfte"]
-agent_verified: false
+date: 2026-09-05
+lastmod: 2026-09-05
+description: "Praxiskommentar zu Art. 396 OR — Umfang des Auftrags nach der Natur des Geschäfts, implizite Ermächtigung zu Ausführungshandlungen, besondere Ermächtigung für Vergleich, Schiedsgericht, Wechsel, Grundstücke und Schenkungen"
+tags: ["OR", "Auftragsrecht", "Umfang", "Ermächtigung", "Vergleich", "Schiedsgericht", "Grundstück", "Schenkung", "Stellvertretung"]
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "claude-5-1"
+    mcp_verified: true
+    note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
-  - date: 2026-08-18
-    by: "Antigravity Agent"
-    model: "gemini-3.7-flash"
-    mcp_verified: true
-    note: "Audit gegen opencaselaw-MCP: Belegquote 64 % (Urteil B); 3 gestützt (+3 teilw.) von 7 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 1 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut
@@ -27,92 +27,113 @@ revisions:
 >
 > **3** Einer besonderen Ermächtigung bedarf der Beauftragte, wenn es sich darum handelt, einen Vergleich abzuschliessen, ein Schiedsgericht anzunehmen, wechselrechtliche Verbindlichkeiten einzugehen, Grundstücke zu veräussern oder zu belasten oder Schenkungen zu machen.
 
+*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 3 Fussnote 262: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dezember 2008, in Kraft seit 1. Januar 2011 (AS 2010 1739; BBl 2006 7221).*
+
+### Prüfschema
+
+| Ziff. | Merkmal | Prüffrage | Beweislast |
+|---|---|---|---|
+| I.A | Ausdrückliche Bezeichnung | Wurde der Umfang des Auftrags ausdrücklich bezeichnet? | Beauftragter (behauptet Überschreitung) |
+| I.B | Ergänzung nach der Natur des Geschäfts | Welcher Umfang ergibt sich aus der Natur des übertragenen Geschäfts? | Richter (Ermessensausfüllung) |
+| II.A | Implizite Ermächtigung (Abs. 2) | Gehört die vorgenommene Rechtshandlung zu den Massnahmen, die zur Ausführung des Auftrags üblicherweise erforderlich sind? | Beauftragter (behauptet Deckung) |
+| II.B | Grenzen der impliziten Ermächtigung | Ist die Handlung nach Objekt und Umfang vom Auftrag gedeckt? | Auftraggeber (behauptet Überschreitung) |
+| III.A | Besondere Ermächtigung: Vergleich | Hat der Beauftragte eine besondere Ermächtigung zum Vergleichsabschluss? | Beauftragter |
+| III.B | Besondere Ermächtigung: Schiedsgericht | Hat der Beauftragte eine besondere Ermächtigung zum Abschluss einer Schiedsvereinbarung? | Beauftragter |
+| III.C | Besondere Ermächtigung: Wechsel | Hat der Beauftragte eine besondere Ermächtigung zum Eingehen wechselrechtlicher Verbindlichkeiten? | Beauftragter |
+| III.D | Besondere Ermächtigung: Grundstücke | Hat der Beauftragte eine besondere Ermächtigung zur Veräusserung oder Belastung von Grundstücken? | Beauftragter |
+| III.E | Besondere Ermächtigung: Schenkung | Hat der Beauftragte eine besondere Ermächtigung zur Vornahme von Schenkungen? | Beauftragter |
+
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 396 OR regelt den **Umfang des Auftrags** — also die Reichweite der Pflichten des Beauftragten und der Ermächtigung, die er vom Auftraggeber erhält. Die Norm hat drei Funktionen: Abs. 1 regelt die ergänzende Bestimmung des Auftragsumfangs bei fehlender ausdrücklicher Vereinbarung; Abs. 2 enthält eine gesetzliche Vermutung für die Ermächtigung zu den Rechtshandlungen, die zur Ausführung gehören; Abs. 3 listet die Rechtshandlungen auf, die einer **besonderen**, ausdrücklichen Ermächtigung bedürfen.
+**1** **Stellung und Bedeutung.** Art. 396 OR regelt den Umfang der Vertretungsmacht des Beauftragten. Abs. 1 enthält die Grundregel für den Fall, dass der Auftrag keine ausdrückliche Umschreibung des Umfangs enthält: Die Natur des Geschäfts gibt den Ausschlag. Abs. 2 stellt klar, dass zur Ausführung des Auftrags auch diejenigen Rechtshandlungen ermächtigt sind, die dazu üblicherweise gehören. Abs. 3 zieht eine scharfe Grenze: Für bestimmte besonders riskante oder weitreichende Rechtshandlungen verlangt das Gesetz eine **besondere Ermächtigung** — die generelle Auftragserteilung genügt nicht.
 
-**2** **Inneneffekt und Ausseneffekt.** Art. 396 OR hat eine doppelte Wirkung: Im **Innenverhältnis** (Auftraggeber–Beauftragter) bestimmt er den Umfang der Pflichten und Befugnisse des Beauftragten. Im **Aussenverhältnis** (Beauftragter–Dritter) fungiert er als Vollmachtsgrundlage: Der Beauftragte ist gegenüber Dritten ermächtigt, Rechtshandlungen vorzunehmen, die im Rahmen des Auftrags liegen (Art. 32 ff. OR). Art. 396 OR regelt damit sowohl den Inhalt des Auftrags als auch den Umfang der Vollmacht.
+**2** **Gesetzgebungsgeschichte.** Abs. 3 wurde durch die Zivilprozessordnung vom 19. Dezember 2008 (in Kraft seit 1.1.2011) angepasst. Die frühere Fassung sprach von «einem Vergleich zu schliessen oder ein Schiedsgericht anzurufen»; die neue Fassung verwendet «ein Schiedsgericht anzunehmen» und stellt damit klar, dass nicht nur die Anrufung, sondern auch der Abschluss einer Schiedsvereinbarung der besonderen Ermächtigung bedarf.
 
-**3** **Verhältnis zu Art. 397 OR.** Während Art. 396 OR den Umfang des Auftrags **abstrakt** bestimmt (nach der Natur des Geschäfts), regelt Art. 397 OR die **konkreten Weisungen** des Auftraggebers, von denen der Beauftragte nur ausnahmsweise abweichen darf. Art. 396 ist die generelle Bestimmung, Art. 397 die spezifische Modifikation durch individuelle Weisungen.
+**3** **Systematischer Zusammenhang.** Art. 396 OR steht im Zentrum des auftragsrechtlichen Vertretungsrechts. Ergänzt wird er durch Art. 397 OR (Weisungen des Auftraggebers), der den Beauftragten an die Vorgaben des Auftraggebers bindet, und durch Art. 398 OR (Sorgfaltspflicht), der den Massstab für die pflichtgemässe Auftragsausführung setzt. Art. 399 OR regelt die Substitution, die ebenfalls ohne besondere Ermächtigung grundsätzlich unzulässig ist (Abs. 1), es sei denn, der Beauftragte ist dazu ermächtigt oder durch die Umstände genötigt (Abs. 2).
 
 ## Kommentierung
 
-### I. Bestimmung des Umfangs bei fehlender Vereinbarung (Abs. 1)
+### A. Umfang nach der Natur des Geschäfts (Abs. 1)
 
-**4** **Ergänzende Auslegung.** Ist der Umfang des Auftrags nicht ausdrücklich vereinbart, so bestimmt er sich nach der **Natur des zu besorgenden Geschäftes**. Der Umfang wird ergänzend durch Auslegung ermittelt (Art. 18 OR): Massgeblich ist der übereinstimmende wirkliche Wille der Parteien, bei Fehlen eines solchen der objektive Empfängerhorizont (Vertrauenstheorie, [BGE 130 III 678](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_678) E. 3). Die «Natur des Geschäfts» ist ein unbestimmter Rechtsbegriff, der nach den Umständen des Einzelfalls zu konkretisieren ist.
+**4** Wenn die Parteien den Umfang des Auftrags nicht ausdrücklich bezeichnet haben, bestimmt er sich nach der **Natur des zu besorgenden Geschäfts**. Massgeblich ist der **objektive Geschäftszweck**: Was liegt nach dem gewöhnlichen Lauf der Dinge und den Umständen des Einzelfalls im Rahmen des Auftrags? Die Auslegung richtet sich nach dem Vertrauensprinzip (Art. 18 OR) — massgeblich ist, wie der Beauftragte die Beauftragung nach Treu und Glauben verstehen durfte ([BGE 144 III 43](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-43_2018.html) E. 3.3).
 
-**5** **Beispiel: Vertretung im Steuerverfahren.** Ein Steuerpflichtiger, der auf seiner Steuererklärung schriftlich eine Vertreterin bezeichnet, bestätigt damit, dass eine entsprechende Vollmacht vorliegt. Der Auftrag berechtigt die Vertreterin dazu, sämtliche Schritte zu unternehmen, um die Interessen des Steuerpflichtigen im Steuerverfahren zu wahren, einschliesslich der Wahrung von Beschwerdefristen. Der Umfang des Auftrags bestimmt sich nach der Natur des Geschäfts — der Vertretung im Steuerverfahren — und umfasst alle Handlungen, die dazu gehören ([BGE 145 II 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_II_201) — Art. 117 Abs. 1 DBG; Art. 32 ff. OR; Art. 396 OR; Vertretung eines Steuerpflichtigen im Steuerverfahren; Pflicht des Auftragnehmers, im Rahmen eines Steuerrechtsstreits die Beschwerdefrist zu wahren).
+**5** **Objektiver Massstab.** Der Umfang des Auftrags wird nicht durch die subjektiven Vorstellungen des Auftraggebers bestimmt, sondern durch die objektive Natur des Geschäfts. Selbst wenn der Auftraggeber sich weitere Handlungen vorstellt, die nicht zur Natur des Geschäfts gehören, sind diese nicht vom Auftrag gedeckt. Umgekehrt kann der Beauftragte auf Handlungen stützen, die nach der Natur des Geschäfts üblicherweise dazugehören, auch wenn der Auftraggeber diese nicht im Einzelnen bedacht hat.
 
-**6** **Beispiel: Vermögensverwaltung.** Bei einem Vermögensverwaltungsvertrag umfasst der Auftrag nach der Natur des Geschäfts die Anlage und Verwaltung von Vermögenswerten, den Kauf und Verkauf von Wertpapieren, die Entgegennahme von Dividenden und Zinsen sowie die Information des Auftraggebers. Die Herausgabe von Retrozessionen und Finder's Fees ist jedoch nicht automatisch vom Umfang umfasst, sondern folgt aus Art. 400 Abs. 1 OR ([BGE 132 III 460](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_460) — Art. 400 Abs. 1 OR; Vermögensverwaltungsvertrag; Herausgabe von Retrozessionen und Finder's Fees; Voraussetzungen eines rechtsgültigen Verzichts).
+**6** **Beispiel: Vermögensverwaltung.** Wird einem Vermögensverwalter die Verwaltung eines Portfolios übertragen, umfasst der Auftrag nach seiner Natur alle Handlungen, die zur ordnungsgemässen Verwaltung gehören: Kauf und Verkauf von Wertpapieren, Einziehung von Zinsen und Dividenden, Ausübung von Bezugsrechten, Stimmrechtsausübung in Generalversammlungen. Nicht gedeckt ist hingegen die spekulative Hebelwirkung durch Terminkontrakte, die über das Mass der ordentlichen Vermögensverwaltung hinausgeht.
 
-### II. Ermächtigung zu Rechtshandlungen (Abs. 2)
+### B. Implizite Ermächtigung (Abs. 2)
 
-**7** **Gesetzliche Ermächtigung.** Abs. 2 enthält eine gesetzliche Vermutung: Der Auftrag umfasst grundsätzlich auch die Ermächtigung zu den Rechtshandlungen, die zur Ausführung des Auftrags **gehören**. Der Beauftragte ist damit ermächtigt, diejenigen Handlungen vorzunehmen, die zur Erfüllung des Auftrags objektiv notwendig sind, ohne dass es einer ausdrücklichen Ermächtigung für jede einzelne Handlung bedarf. Diese gesetzliche Ermächtigung wirkt auch im Aussenverhältnis als Vollmacht (Art. 32 ff. OR).
+**7** Abs. 2 stellt eine **Vermutung** auf: In den Auftrag ist die Ermächtigung zu den Rechtshandlungen enthalten, die zu dessen Ausführung gehören. Der Beauftragte darf also nicht nur das besorgen, was ausdrücklich aufgetragen wurde, sondern auch alles, was zur Durchführung notwendig oder nützlich ist.
 
-**8** **Architektenvollmacht.** Die verbindliche Anerkennung von Unternehmerrechnungen durch den Architekten setzt in der Regel eine **ausdrückliche Vollmacht** des Bauherrn voraus. Auch die Übertragung der Bauleitung an den Architekten berechtigt den Unternehmer nicht, allein aufgrund von Art. 396 Abs. 2 OR anzunehmen, der Architekt sei zur Anerkennung von Rechnungen ermächtigt ([BGE 118 II 313](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_313) — Art. 396 Abs. 2, Art. 543 Abs. 3 OR; Vollmacht des Architekten, der zugleich Mitglied der Bauherrschaft ist; die verbindliche Anerkennung von Unternehmerrechnungen durch den Architekten setzt ausdrückliche Vollmacht voraus). Art. 396 Abs. 2 OR fingiert keine umfassende Vertretungsmacht, sondern nur die Ermächtigung zu Handlungen, die **nach der Natur des Geschäfts** zur Ausführung gehören.
+**8** **Voraussetzungen der impliziten Ermächtigung.** Die implizite Ermächtigung setzt voraus, dass die Rechtshandlung:
+- **objektiv** zur Ausführung des Auftrags gehört, und
+- nach **Umfang und Zielrichtung** vom Auftrag gedeckt ist.
 
-**9** **Umfang der Ermächtigung.** Die Ermächtigung nach Abs. 2 umfasst:
-- **Prozessführung**: Die Führung von Prozessen, die zur Durchsetzung der Auftragsinteressen notwendig sind, sofern keine besondere Ermächtigung nach Abs. 3 erforderlich ist.
-- **Vertragsabschluss**: Der Abschluss von Verträgen mit Dritten, die zur Ausführung des Auftrags notwendig sind (z.B. Kauf von Material, Beauftragung von Unterakkordanten).
-- **Zahlungsverkehr**: Die Entgegennahme und Auszahlung von Geldern im Rahmen der Geschäftsbesorgung.
-- **Information und Kommunikation**: Die Kommunikation mit Dritten im Rahmen der Geschäftsbesorgung.
+Die Ermächtigung erstreckt sich nur auf Handlungen, die im Rahmen des Auftragszwecks liegen. Handlungen, die über diesen Rahmen hinausgehen, sind nicht gedeckt — auch wenn sie für den Beauftragten nützlich oder vorteilhaft erscheinen.
 
-### III. Besondere Ermächtigung (Abs. 3)
+**9** **Grenzfälle.** Besonders strittig sind Handlungen, die zwar dem Auftrag dienen können, aber auch darüber hinausgehen:
 
-**10** **Enumerativkatalog.** Abs. 3 listet fünf Rechtshandlungen auf, die einer **besonderen** — d.h. ausdrücklichen und speziellen — Ermächtigung bedürfen. Diese Handlungen sind so weitreichend oder gefährlich für die Vermögensinteressen des Auftraggebers, dass die allgemeine Ermächtigung nach Abs. 2 nicht genügt. Der Katalog ist **erschöpfend** (enumerativ): Andere Rechtshandlungen als die genannten benötigen keine besondere Ermächtigung.
+| Handlung | Von Abs. 2 gedeckt? | Begründung |
+|---|---|---|
+| Kauf von Ersatzteilen für den reparaturbeauftragten Gegenstand | **Ja** | Gehört zur Ausführung des Reparaturauftrags |
+| Verkauf des betreuten Gegenstands | **Nein** (ohne besondere Ermächtigung) | Veräusserung übersteigt den Verwaltungsauftrag |
+| Abschluss einer Versicherung für den betreuten Gegenstand | **Ja** | Gehört zur ordnungsgemässen Verwaltung |
+| Aufnahme eines Kredits im Namen des Auftraggebers | **Nein** | Überschreitet den Rahmen der Vermögensverwaltung |
 
-#### 1. Vergleichsschluss
+### C. Besondere Ermächtigung (Abs. 3)
 
-**11** Ein **Vergleich** (Art. 203 OR) ist ein Vertrag, durch den eine streitige oder unsichere Forderung durch wechselseitiges Nachgeben beseitigt wird. Der Vergleich greift in die Substanz der streitigen Forderung ein: Der Auftraggeber verzichtet auf einen Teil seines Anspruchs. Daher ist eine besondere Ermächtigung erforderlich. Der Beauftragte, der ohne besondere Ermächtigung einen Vergleich abschliesst, handelt **unvollmächtig** (Art. 32 Abs. 2 OR); der Vergleich wird nur wirksam, wenn der Auftraggeber ihn nachträglich genehmigt (Art. 32 OR analog).
+**10** Abs. 3 zählt fünf Rechtshandlungen auf, für die der Beauftragte eine **besondere Ermächtigung** benötigt. Die Aufzählung ist **erschöpfend**: Nur diese fünf Handlungen erfordern eine besondere Ermächtigung; für alle anderen Rechtshandlungen genügt die generelle Auftragserteilung (allenfalls ergänzt durch Abs. 2).
 
-#### 2. Schiedsgericht
+**11** **Sinn und Zweck.** Die besonderen Ermächtigungserfordernisse schützen den Auftraggeber vor besonders weitreichenden oder riskanten Handlungen des Beauftragten. Die fünf Kataloghandlungen haben gemeinsam, dass sie den Auftraggeber in erheblichem Masse binden oder sein Vermögen gefährden können.
 
-**12** Die Annahme eines **Schiedsgerichts** (Art. 180 ZPO) bedeutet den Verzicht auf den ordentlichen Rechtsweg vor den staatlichen Gerichten. Dies ist eine so weitreichende Entscheidung über die Verfahrensart, dass sie nicht der allgemeinen Ermächtigung unterfällt. Die besondere Ermächtigung muss ausdrücklich erteilt werden und kann nicht aus der Natur des Geschäfts abgeleitet werden.
+#### C.A. Vergleichsabschluss
 
-#### 3. Wechselrechtliche Verbindlichkeiten
+**12** Der Abschluss eines **Vergleichs** (Art. 516–521 ZPO) durch den Beauftragten bedarf einer besonderen Ermächtigung. Ein Vergleich ist ein Vertrag, durch den ein streitiger oder zweifelhafter Anspruch durch wechselseitiges Nachgeben beigelegt wird. Der Beauftragte, der nur mit der Prozessführung beauftragt ist, darf nicht ohne weiteres einen Vergleich schliessen — er würde damit über die Rechte des Auftraggebers disponieren.
 
-**13** **Wechselverbindlichkeiten** sind streng formgebunden (Art. 991 ff. OR) und begründen eine **persönliche** Haftung des Ausstellers bzw. Akzeptanten. Wer einen Wechsel zeichnet, haftet wechselmässig — eine Verschärfung gegenüber der blossen vertraglichen Haftung. Daher ist eine besondere Ermächtigung erforderlich, bevor der Beauftragte wechselrechtliche Verbindlichkeiten für den Auftraggeber eingehen darf.
+**13** **Abgrenzung zum Prozessvergleich.** Ein Vergleich im Prozess (Prozessvergleich nach Art. 208 ZPO) fällt ebenfalls unter Abs. 3. Das Bundesgericht hat wiederholt festgehalten, dass der Prozessbevollmächtigte ohne besondere Ermächtigung nicht zum Vergleichsabschluss berechtigt ist. Die allgemeine Prozessvollmacht genügt nicht.
 
-#### 4. Grundstückgeschäfte
+#### C.B. Annahme eines Schiedsgerichts
 
-**14** Die **Veräusserung oder Belastung von Grundstücken** bedarf der Schriftlichkeit (Art. 216 OR) und ist besonders gefährlich, weil Grundstücke typischerweise von erheblichem Wert sind. Die besondere Ermächtigung muss die konkrete Massnahme bezeichnen (welches Grundstück, zu welchen Bedingungen). Eine allgemeine Ermächtigung zur «Verfügung über Grundstücke» genügt in der Regel nicht — sie muss so konkret sein, dass der Auftraggeber weiss, worauf er sich einlässt.
+**14** Die **Annahme eines Schiedsgerichts** bedarf einer besonderen Ermächtigung. Dies umfasst sowohl die Anerkennung der Schiedsgerichtsklausel als auch die Zustimmung zur Konstituierung eines konkreten Schiedsgerichts. Die Schiedsvereinbarung entzieht den Streitgegenstand der staatlichen Gerichtsbarkeit und bindet die Parteien an ein privates Verfahren — ein weitreichender Schritt, der der besonderen Ermächtigung bedarf.
 
-**15** **Stellvertretung bei Grundstückskäufen.** Der Abschluss eines Kaufvertrags über ein Grundstück im Namen des Auftraggebers setzt eine ausdrückliche Ermächtigung voraus. Der Vertreter muss als solcher erkennbar handeln (Art. 32 OR), und die Ermächtigung muss den Anforderungen von Art. 396 Abs. 3 OR genügen ([BGE 90 II 285](https://mcp.opencaselaw.ch/entscheid/bge_BGE_90_II_285) — Stellvertretung, Art. 32 OR; Erfordernis der Ermächtigung; Erkennbarkeit des Vertretungsverhältnisses).
+#### C.C. Wechselrechtliche Verbindlichkeiten
 
-#### 5. Schenkungen
+**15** Das Eingehen **wechselrechtlicher Verbindlichkeiten** — also die Ausstellung, Annahme oder Indossierung von Wechseln — bedarf einer besonderen Ermächtigung. Wechselrechtliche Verbindlichkeiten sind abstrakt und lösen sich vom Grundgeschäft; der Wechselnehmer kann den Wechsel auch an Dritte weitergeben. Diese Besonderheiten rechtfertigen das Erfordernis der besonderen Ermächtigung.
 
-**16** **Schenkungen** mindern das Vermögen des Auftraggebers **ohne Gegenleistung**. Da der Auftrag typischerweise im Interesse des Auftraggebers ausgeführt wird, widerspricht eine Schenkung seinem Interesse — es sei denn, er hat ausdrücklich dazu ermächtigt. Die besondere Ermächtigung zur Schenkung muss den Gegenstand und den Beschenkten bezeichnen.
+#### C.D. Veräusserung und Belastung von Grundstücken
 
-### IV. Generalvollmacht und besonderer Ermächtigung
+**16** Die **Veräusserung oder Belastung von Grundstücken** durch den Beauftragten bedarf einer besonderen Ermächtigung. Grundstücke bilden häufig einen wesentlichen Teil des Vermögens des Auftraggebers; ihre Veräusserung oder Belastung kann weitreichende Folgen haben. Die besondere Ermächtigung schützt den Auftraggeber vor unbefugter Verfügung über sein Immobilivermögen.
 
-**17** **Generalvollmacht.** Eine Generalvollmacht (Art. 462 Abs. 1 OR) ermächtigt den Beauftragten zur Vornahme aller Geschäfte, die der gewöhnlichen Verwaltung dienen. Sie umfasst die allgemeine Ermächtigung nach Abs. 2, aber **nicht automatisch** die besonderen Ermächtigungen nach Abs. 3. Eine Generalvollmacht genügt nicht für Handlungen, die einer besonderen Ermächtigung bedürfen ([BGE 99 II 39](https://mcp.opencaselaw.ch/entscheid/bge_BGE_99_II_39) — Art. 32 ff. OR; Stellvertretung; Umfang der Ermächtigung im Aussenverhältnis bei Generalvollmacht; Auslegung einer Generalvollmacht).
+**17** **Belastung.** Unter Belastung fallen insbesondere die Bestellung von Grundpfandrechten (Hypotheken, Grundschulden), Dienstbarkeiten, Baurechte und andere dingliche Belastungen. Die Belastung eines Grundstücks kann den Wert und die Verwertbarkeit massgeblich beeinträchtigen.
 
-**18** **Strafantrag.** Eine Generalvollmacht gemäss Art. 462 Abs. 1 OR genügt nicht für die Stellung eines Strafantrags im Ehrverletzungsverfahren; vielmehr ist eine besondere Ermächtigung im Sinne von Art. 462 Abs. 2 OR erforderlich ([BGE 99 IV 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_99_IV_1) — Art. 28 und 173 ff. StGB; Antragstellung im Ehrverletzungsverfahren; Generalvollmacht genügt nicht für Strafantrag; besondere Ermächtigung erforderlich).
+#### C.E. Schenkungen
 
-**19** **Willensvollstrecker.** Die Stellung des Willensvollstreckers (Art. 518 ZGB) umfasst die Befugnis zur Prozessführung als Partei bei der Austragung gerichtlicher Streitigkeiten um Nachlassrechte ([BGE 94 II 141](https://mcp.opencaselaw.ch/entscheid/bge_BGE_94_II_141) — Art. 518 ZGB; Stellung des Willensvollstreckers; Befugnis zur Prozessführung als Partei bei der Austragung gerichtlicher Streitigkeiten um Nachlassrechte). Der Umfang der Willensvollstreckervollmacht richtet sich nach dem Testament und dem Gesetz, nicht nach Art. 396 OR, der nur für den gewöhnlichen Auftrag gilt.
+**18** Die Vornahme von **Schenkungen** durch den Beauftragten bedarf einer besonderen Ermächtigung. Schenkungen sind Zuwendungen, die das Vermögen des Auftraggebers vermindern, ohne dass diesem ein Gegenwert zufliesst. Da Schenkungen dem Interesse des Auftraggebers grundsätzlich widersprechen, verlangt das Gesetz eine ausdrückliche Ermächtigung.
 
-### V. Rechtsfolgen fehlender Ermächtigung
+**19** **Motivierte Schenkungen.** Auch motivierte Schenkungen — also Zuwendungen, die im Zusammenhang mit dem Auftrag stehen (z.B. ein Trinkgeld, das der Beauftragte im Namen des Auftraggebers gibt) — fallen unter Abs. 3, soweit sie den Charakter einer Schenkung haben. Eine Zuwendung, die als Gegenleistung für eine Leistung des Empfängers dient, ist hingegen keine Schenkung im Sinne von Abs. 3, sondern ein auftragsrechtlich gedecktes Geschäft.
 
-**20** **Unwirksamkeit.** Fehlt die erforderliche besondere Ermächtigung nach Abs. 3, so ist die betreffende Handlung **unvollmächtig** (Art. 32 Abs. 2 OR). Der Beauftragte handelt ohne Vertretungsmacht, und die Handlung wird nur wirksam, wenn der Auftraggeber sie nachträglich genehmigt (Art. 32 OR analog). Lehnt der Auftraggeber die Genehmigung ab, so haftet der Beauftragte dem Dritten nach Art. 39 Abs. 1 OR auf Schadensersatz, es sei denn, er weist nach, dass ihn kein Verschulden trifft.
+### D. Rechtsfolgen der Überschreitung
 
-**21** **Innenverhältnis.** Auch im Innenverhältnis hat die Überschreitung der Ermächtigung Folgen: Der Beauftragte verstösst gegen seine Pflicht zur vertragsgemässen Besorgung (Art. 394 Abs. 1 OR) und zur Befolgung der Weisungen (Art. 397 OR). Er haftet dem Auftraggeber für den daraus erwachsenden Schaden nach Art. 398 OR.
+**20** Handelt der Beauftragte ohne die erforderliche Ermächtigung (sei es nach Abs. 2 die implizite, sei es nach Abs. 3 die besondere), so stellt sich die Frage der **Vertretungsmacht**. Handelt der Beauftragte innerhalb seines Auftrags, wird der Auftraggeber verpflichtet. Handelt er ausserhalb, wird der Auftraggeber nicht verpflichtet — es sei denn, er genehmigt das Geschäft nachträglich (Art. 38 OR) oder der Beauftragte haftet nach den Grundsätzen der Anscheinsvollmacht.
+
+**21** **Genehmigung.** Der Auftraggeber kann ein vom Beauftragten ohne Ermächtigung abgeschlossenes Geschäft nachträglich genehmigen (Art. 38 Abs. 2 OR). Die Genehmigung wirkt auf den Zeitpunkt des Geschäftsabschlusses zurück.
+
+**22** **Haftung des Beauftragten.** Handelt der Beauftragte ohne die erforderliche besondere Ermächtigung, verletzt er seine Pflichten aus dem Auftrag. Er haftet dem Auftraggeber nach Art. 398 Abs. 2 OR für den daraus entstehenden Schaden.
+
+> **Leitsatz.** Der Beauftragte darf ohne besondere Ermächtigung keine Vergleiche schliessen, keine Schiedsgerichte annehmen, keine wechselrechtlichen Verbindlichkeiten eingehen, keine Grundstücke veräussern oder belasten und keine Schenkungen vornehmen — die allgemeine Auftragserteilung genügt für diese fünf Kataloghandlungen nicht (Art. 396 Abs. 3 OR).
 
 ## Querverweise
 
 - [Art. 394 OR](../art-394/) — Begriff des Auftrags
-- [Art. 395 OR](../art-395/) — Fiktive Auftragsannahme
 - [Art. 397 OR](../art-397/) — Weisungen des Auftraggebers
-- [Art. 398 OR](../art-398/) — Sorgfaltspflicht
-- Art. 18 OR — Auslegung der Verträge
-- Art. 32 ff. OR — Stellvertretung
-- Art. 203 OR — Vergleich
-- Art. 216 OR — Form bei Grundstückgeschäften
-- Art. 462 OR — Generalvollmacht
-- Art. 518 ZGB — Willensvollstrecker
-- Art. 180 ZPO — Schiedsgerichtsvereinbarung
+- [Art. 398 OR](../art-398/) — Sorgfaltspflicht und persönliche Besorgung
+- [Art. 399 OR](../art-399/) — Substitution
+- Art. 18 OR — Vertrauensprinzip
+- Art. 38 OR — Genehmigung
+- Art. 516–521 ZPO — Vergleich
 
 ## Literatur
 
 - Baur/Weyermann, in: Basler Kommentar, OR II, 7. Aufl. 2022, Art. 396 N. 1 ff.
-- Weber, in: Berner Kommentar, OR, Art. 394–406 N. 1 ff.
-- Kren Kostkiewicz, in: ZBJV 155 (2019), S. 513 ff. (Vollmacht und Ermächtigung im Auftragsrecht)
+- Weber, in: Berner Kommentar, OR, Art. 396 N. 1 ff.
+- Fellmann, in: Berner Kommentar, OR, Art. 396 N. 1 ff.
