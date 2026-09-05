@@ -1,8 +1,8 @@
 ---
 name: praxisorientierter-kommentar
 description: >-
-  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Grundgerüst bleiben stets die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Praxisschilderungen werden entlang dieses Gerüsts gegliedert, nie umgekehrt. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, schonungslose Offenlegung echter Judikaturwidersprüche (ohne Scheinharmonisierung), prozessuale Klippen und taktische Merksätze.
-version: 1.2.0
+  Standard für den Stil, Aufbau und die Kasuistik eines praxisorientierten Gesetzeskommentars bei Glossagens nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Gilt immer dann, wenn ein Kommentar ausdrücklich als «praxisorientiert» angefordert oder ausgebaut werden soll. Grundgerüst bleiben stets die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Praxisschilderungen werden entlang dieses Gerüsts gegliedert, nie umgekehrt. Kern: Sehr umfangreiche, plastische Beschreibungen der tatsächlichen Lebenssachverhalte aus publizierten Gerichtsurteilen — sowohl Fälle, in denen die Bestimmung angewandt wurde, als auch Fälle, in denen deren Anwendbarkeit verworfen wurde —, Schwellenwert-Gegenüberstellungen, Kasuistiktabellen, offene Benennung echter Judikaturwidersprüche (ohne Scheinharmonisierung), prozessuale Voraussetzungen und Obliegenheiten sowie — als Schlussabschnitt — adressatenbezogene Praxishinweise. Der Duktus bleibt dabei durchwegs wissenschaftlich-nüchtern (Massstab: Onlinekommentar, Basler und Berner Kommentar); reisserische Einleitungen, Metaphern und Dramatisierungen sind untersagt. Zugespitzt und in direkter Ansprache formuliert wird ausschliesslich im abschliessenden Abschnitt «Praxishinweise».
+version: 1.3.0
 author: Antigravity Agent
 tools:
   - mcp__fedlex-connector__get_article
@@ -22,7 +22,9 @@ metadata:
 
 Dieser Skill definiert den massgebenden **Stil**, den **inhaltlichen Aufbau** und die **Kasuistik** für alle Glossagens-Kommentare, die **praxisorientiert** verfasst oder zu einem Praxiskommentar ausgebaut werden sollen.
 
-> **Vorbemerkung — das Gerüst bleibt dogmatisch.** «Praxisorientiert» beschreibt, *womit* die Kommentierung gefüllt wird, nicht *wie sie gegliedert* ist. Das Gerüst sind und bleiben die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Fallschilderungen hängen an diesem Gerüst. Ein Text, der nach Urteilen, Gerichten oder Fallgeschichten gegliedert ist, ist kein Kommentar, sondern eine Urteilssammlung — siehe Abschnitt 3.
+> **Vorbemerkung I — das Gerüst bleibt dogmatisch.** «Praxisorientiert» beschreibt, *womit* die Kommentierung gefüllt wird, nicht *wie sie gegliedert* ist. Das Gerüst sind und bleiben die abstrakten Tatbestandsmerkmale der kommentierten Norm; die Fallschilderungen hängen an diesem Gerüst. Ein Text, der nach Urteilen, Gerichten oder Fallgeschichten gegliedert ist, ist kein Kommentar, sondern eine Urteilssammlung — siehe Abschnitt 3.
+
+> **Vorbemerkung II — der Duktus bleibt wissenschaftlich.** «Praxisorientiert» ist eine Aussage über den Stoff, nicht über den Ton. Die Sprache folgt dem Massstab der wissenschaftlichen Kommentarliteratur (Onlinekommentar, Basler und Berner Kommentar): nüchtern, präzise, belegt, in der dritten Person. Reisserische Einleitungen, Metaphern, Dramatisierungen und direkte Leseransprache haben in der Kommentierung keinen Platz. Zugespitzt zusammengefasst wird erst im Schlussabschnitt «Praxishinweise» — dort, und nur dort, darf das Wichtigste knapp, adressatenbezogen und in der Befehlsform stehen (siehe Abschnitt 4).
 
 ---
 
@@ -39,14 +41,17 @@ gilt **dieser Skill als zwingende Stilleitlinie** ergänzend zu den allgemeinen 
 
 | Dimension | Akademischer / Konventioneller Kommentar | Praxisorientierter Kommentar (DIESER SKILL) |
 |---|---|---|
+| **Duktus / Register** | Wissenschaftlich-nüchtern, unpersönlich, belegorientiert | **Identisch** — wissenschaftlich-nüchtern; zugespitzt und adressierend allein im Schlussabschnitt «Praxishinweise» (siehe Abschnitt 4) |
 | **Erkenntnisquelle** | Abstrakt-deduktiv aus Doktrin, Systematik und Gesetzestext | Konkret-induktiv aus tatsächlichen Lebenssachverhalten der Gerichtspraxis — *innerhalb* des dogmatischen Rasters |
 | **Gliederung** | Tatbestandsmerkmale, dogmatisch abgehandelt | **Dieselben Tatbestandsmerkmale** als Abschnittsraster — je Merkmal die Kasuistik, die es konkretisiert (nie Gliederung nach Urteilen oder Fallgeschichten) |
 | **Urteilsdarstellung** | Schlagwort-Zitat: *«Das Bundesgericht bejahte Missbräuchlichkeit (BGE 131 III 535)»* | **Umfangreiche Sachverhaltserzählung**: Wer, was, welche Vorwürfe, welches Kündigungsschreiben, welche Entlastungsmomente, warum gekippt? |
 | **Normgrenzen** | Tatbestandsmerkmale abstrakt umschrieben, ohne Schwellenwert | Jedes Merkmal zusätzlich mit **zweiseitiger Grenzkasuistik** unterlegt: Fälle, in denen es *bejaht*, und Fälle, in denen es *verneint* wurde |
 | **Widersprüche** | Scheinharmonisierung («hängt vom Einzelfall ab», feine Sachverhaltsnuancen erfunden) | **Echte Brüche benennen**: Divergenzen zwischen Gerichten/Kammern offen als unvereinbar herausarbeiten |
-| **Prozessrealität** | Fokus auf materiellrechtliche Auslegungsfragen | Fokus auf Beweislast, Fristen, Verwirkung, Versehensnachweis, Prozessfallen |
-| **Orientierungshilfe** | Abstrakte Lehrmeinungsstreitigkeiten | **Taktische Merksätze** (`> **Merksatz.**`) und Handlungsanweisungen für Parteien und Behörden |
-| **Textelement** | Fliessender Prosa-Kommentar | Dichte Kasuistik, Gegenüberstellungstabellen, wörtliche Kernzitate |
+| **Prozessrealität** | Fokus auf materiellrechtliche Auslegungsfragen | Fokus auf Beweislast, Fristen, Verwirkung, Versehensnachweis und Substanziierungsobliegenheiten |
+| **Orientierungshilfe** | Abstrakte Lehrmeinungsstreitigkeiten | Verdichtende **Leitsätze** (`> **Leitsatz.**`) im Text und ein Schlussabschnitt **«Praxishinweise»** mit adressatenbezogenen Handlungsanweisungen (siehe Regel 6 und Abschnitt 6) |
+| **Textelement** | Fliessender Prosa-Kommentar | Dichte Kasuistik, Gegenüberstellungstabellen, wörtliche Kernzitate — in derselben nüchternen Sprache |
+
+Die Tabelle stellt **keine** Gegensätze im Ton auf: Sie unterscheidet, *was* der Kommentar enthält, nicht *wie laut* er es sagt. In der sprachlichen Haltung ist der praxisorientierte Kommentar von einem guten wissenschaftlichen Kommentar nicht zu unterscheiden.
 
 ---
 
@@ -103,13 +108,52 @@ Vor dem Schreiben wird die Norm zerlegt:
 
 ---
 
-## 4. Die 7 Grundregeln des praxisorientierten Stils
+## 4. Duktus und Register: wissenschaftlich, nicht werbend
 
-Die folgenden Regeln bestimmen, **wie** die einzelnen Abschnitte des unter Abschnitt 3 aufgestellten Merkmalsrasters ausgefüllt werden. Sie ersetzen dieses Raster nicht.
+**Grundsatz.** Massstab der Sprache ist die wissenschaftliche Kommentarliteratur — Onlinekommentar, Basler und Berner Kommentar. Der Kommentar beschreibt die Rechtslage; er wirbt nicht für sie, warnt nicht vor ihr und baut keine Spannung auf. Praxisnähe entsteht durch die **Dichte der belegten Sachverhalte**, nicht durch die Temperatur der Sprache.
 
-### Regel 1: Narrative Sachverhaltsschilderung («Storytelling aus den Akten»)
+### 4.1 Was untersagt ist
 
-Abstrakte Rechtsregeln sind für die Praxis wertlos, wenn nicht klar ist, auf welche Lebenssachverhalte sie zutreffen. Jeder ausgewertete Entscheid wird mit seinem **konkreten Lebenssachverhalt** eingeführt.
+1. **Reisserische Einleitungen.** Weder der Kommentar als Ganzes noch ein Abschnitt wird über seine Brisanz eingeführt. Ein Abschnitt beginnt mit Regelungsgegenstand, systematischer Stellung und Zweck — nicht mit dem, was schiefgehen kann.
+2. **Metaphern und Bilder.** «Brücke zwischen Anklage und Verhandlung», «Verfahrensschicksal», «mit welchen Karten die Parteien an die Hauptverhandlung gehen», «mit leeren Händen dastehen», «Elfenbeinturm», «Klippe», «Falle», «Gegenspieler», «Zweischneide», «der einzige Ausweg».
+3. **Dramatisierung und Spannungsbogen.** «Über allem liegt …», «auf den ersten Blick eine blosse Ordnungsvorschrift — in Wahrheit …», rhetorische Fragen, Ausrufe, Ellipsen zur Betonung.
+4. **Unbelegte Wertungen.** «krass», «brutal», «verheerend», «schonungslos», «dramatisch». Wertende Aussagen sind zulässig, soweit sie sich aus Entscheid, Materialien oder Lehre belegen lassen oder ausdrücklich als eigene Auffassung gekennzeichnet werden («nach hier vertretener Auffassung»).
+5. **Direkte Leseransprache und Befehlsform** in der Kommentierung — «Achten Sie darauf», «prüfen Sie», «vergessen Sie nie». Sie ist dem Schlussabschnitt «Praxishinweise» vorbehalten (Abschnitt 4.3).
+6. **Fettauszeichnung als Lautstärkeregler.** Fett kennzeichnet Tatbestandsmerkmale, Rechtsbegriffe und Ergebnisse — nicht die Aufregung des Verfassers.
+
+### 4.2 Plastisch ist nicht dasselbe wie reisserisch
+
+Regel 1 (ausführliche Sachverhaltsschilderung) bleibt uneingeschränkt in Kraft und steht zu diesem Abschnitt nicht in Widerspruch: Erzählt wird der **Sachverhalt** — Funktion, Dienstjahre, Daten, Fristen, Wortlaut der beanstandeten Äusserung, Verfahrensgang. Nicht erzählt wird die **Bedeutung** des Falles für den Leser. Die Details tragen die Anschaulichkeit; die Wertung bleibt sachlich und belegt.
+
+Dasselbe gilt für Regel 3: Eine Judikaturdivergenz wird **präzise benannt und offengelegt**, aber als Meinungs- und Praxisstand referiert, nicht als Konflikterzählung inszeniert.
+
+| | Reisserisch (untersagt) | Wissenschaftlich (verbindlich) |
+|---|---|---|
+| Einleitung | «Art. 331 StPO ist die Brücke zwischen der Anklage und der mündlichen Verhandlung. Auf den ersten Blick eine blosse Ordnungsvorschrift, in der Praxis ein Verfahrensschicksal: Wer die Frist verpasst, steht mit leeren Händen da.» | «Art. 331 StPO regelt die verfahrensleitende Organisation im Übergangsstadium zwischen der Überweisung der Anklage (Art. 328 ff. StPO) und der erstinstanzlichen Hauptverhandlung. Die Bestimmung bildet die Grundlage für die Vorbereitung des Hauptverfahrens durch die Verfahrensleitung (Art. 61 lit. c StPO).» |
+| Abschnittsbeginn | «Abs. 3 ist die zentrale prozessuale Klippe der Norm. Der einzige Ausweg: …» | «Die Ablehnung von Beweisanträgen ist nach Abs. 3 Satz 2 nicht selbständig anfechtbar; als funktionelles Äquivalent gewährleistet das Gesetz das Recht zur erneuten Antragstellung an der Hauptverhandlung.» |
+| Normverhältnis | «Art. 65 Abs. 2 StPO ist der Gegenspieler der Nichtanfechtbarkeit.» | «Der fehlenden selbständigen Anfechtbarkeit steht die Befugnis des Gerichts gegenüber, verfahrensleitende Anordnungen nach Art. 65 Abs. 2 StPO jederzeit zu ändern oder zu widerrufen.» |
+| Verdichtung im Text | «> **Merksatz für die Verteidigung:** Wer seine Beweisanträge nicht erneuert, hat sie verwirkt — die Nichtanfechtbarkeit ist keine Einladung zur Passivität!» | «> **Leitsatz.** Wird ein von der Verfahrensleitung abgelehnter Beweisantrag an der Hauptverhandlung nicht erneuert, gilt die Rüge im Rechtsmittelverfahren als verwirkt.» |
+
+### 4.3 Wo Zuspitzung erlaubt ist: der Schlussabschnitt «Praxishinweise»
+
+Der Kommentar schliesst — nach den kantonalen Praxisfragen — mit einem Abschnitt **«Praxishinweise»**. Er ist die einzige Stelle, an der das Wichtigste zugespitzt zusammengefasst werden darf: nach Adressatenrollen gegliedert, nummeriert, kurz, in direkter Ansprache und in der Befehlsform.
+
+Es gelten dabei drei Schranken:
+- **Nichts Neues.** Jeder Hinweis verdichtet, was in der Kommentierung bereits dogmatisch entwickelt und belegt wurde. Der Abschnitt führt keine Rechtsfrage ein, die vorher nicht behandelt wurde.
+- **Jeder Hinweis belegt.** Jede Aussage trägt ihren Entscheid- oder Normverweis mit Link, wie im übrigen Kommentar auch.
+- **Zugespitzt heisst nicht unseriös.** Kurz, direkt und handlungsleitend — aber ohne Metaphern, Ausrufezeichen und Übertreibung. Massstab bleibt der Abschnitt «Praxishinweise» der beiden Referenzmuster (Art. 110 StPO, Art. 336 OR).
+
+---
+
+## 5. Die 7 Grundregeln des praxisorientierten Stils
+
+Die folgenden Regeln bestimmen, **wie** die einzelnen Abschnitte des unter Abschnitt 3 aufgestellten Merkmalsrasters ausgefüllt werden. Sie ersetzen dieses Raster nicht und gelten sämtlich innerhalb des Duktus nach Abschnitt 4: Sie verlangen Materialdichte, nicht Lautstärke.
+
+### Regel 1: Narrative Sachverhaltsschilderung aus den Akten
+
+Abstrakte Rechtsregeln sind für die Praxis wenig ergiebig, solange nicht klar ist, auf welche Lebenssachverhalte sie zutreffen. Jeder ausgewertete Entscheid wird deshalb mit seinem **konkreten Lebenssachverhalt** eingeführt.
+
+Erzählt wird dabei der **Sachverhalt**, nicht seine Bedeutung: Details, Daten und Wortlaute tragen die Anschaulichkeit; die rechtliche Würdigung bleibt nüchtern und belegt (Abschnitt 4.2).
 
 #### Was in die Sachverhaltsschilderung gehört:
 1. **Die Akteure**: Funktion, Branche, Dienstjahre, Alter, Hierarchiestufe, Rollen (z.B. *«Ein seit 2011 fest angestellter Seilbahn- und Rodelbahnangestellter...»*, *«Ein selbst als Rechtsanwalt tätiger Beschuldigter...»*, *«Die Staatsanwaltschaft Limmattal/Albis...»*).
@@ -190,9 +234,9 @@ Wo mehrere Entscheide denselben Tatbestand konkretisieren, fasst eine **Vergleic
 
 ---
 
-### Regel 5: Harte Prozessrealität statt Elfenbeinturm
+### Regel 5: Prozessuale Realität — Beweislast, Fristen, Obliegenheiten
 
-Praxiskommentare sparen nicht an den prozessualen Klippen, an denen Verfahren in der Praxis scheitern. Sie arbeiten systematisch heraus:
+Der praxisorientierte Kommentar behandelt die prozessualen Voraussetzungen, an denen Verfahren in der Praxis scheitern, ausdrücklich. Er arbeitet systematisch heraus:
 
 1. **Beweislast und Beweismass**:
    - Wer muss was beweisen? Reicht Glaubhaftmachen oder gilt das Regelbeweismass der vollen Überzeugung?
@@ -206,21 +250,40 @@ Praxiskommentare sparen nicht an den prozessualen Klippen, an denen Verfahren in
 
 ---
 
-### Regel 6: Taktische Merksätze («Merksatz.»)
+### Regel 6: Leitsätze im Text — taktische Hinweise erst am Schluss
 
-Jeder Hauptabschnitt schliesst mit einem hervorgehobenen Merksatz oder mit Handlungsanweisungen für die Prozessparteien ab.
+Verdichtung findet an zwei Stellen statt, in zwei verschiedenen Registern.
 
-#### Format für Einzelmerksätze:
+#### a) In der Kommentierung: der Leitsatz
+
+Wo die Kasuistik eines Hauptabschnitts eine verdichtbare Regel ergibt, schliesst der Abschnitt mit einem hervorgehobenen **Leitsatz**. Er ist **beschreibend** formuliert — er hält fest, was gilt, nicht was zu tun ist — und bleibt im wissenschaftlichen Duktus (Abschnitt 4). Keine Leseransprache, keine Befehlsform, keine Ausrufezeichen.
+
 ```markdown
-> **Merksatz.** Alter und Dienstjahre allein tragen keine Klage. Sie erhöhen den Massstab, an dem die Art und Weise gemessen wird — und dieser Massstab wird umso strenger, je weiter unten in der Hierarchie der Arbeitnehmer steht und je konkreter eine Weiterbeschäftigung möglich gewesen wäre.
+> **Leitsatz.** Die verfahrensleitende Ablehnung von Beweisanträgen nach Art. 331 Abs. 3 StPO ist eine provisorische Anordnung und begründet für sich allein keinen Anschein der Befangenheit im Sinne von Art. 56 lit. f StPO.
 ```
 
-#### Format für Rollen-Merksätze:
+Ein Leitsatz wird nicht erzwungen: Ergibt ein Abschnitt keine über die Kommentierung hinausgehende Verdichtung, entfällt er.
+
+#### b) Am Schluss: die Praxishinweise
+
+Handlungsanweisungen — direkte Ansprache, Befehlsform, taktische Zuspitzung — gehören ausschliesslich in den Schlussabschnitt **«Praxishinweise»** (Abschnitt 4.3 und 6). Dort wird das Wichtigste der gesamten Kommentierung nach Adressatenrollen gebündelt:
+
 ```markdown
-#### Die Merksätze für die Praxis
-- **Für die Klagepartei / Verteidigung**: Der Angriff auf eine [...] geht ins Leere, wenn [...]. Wer sich auf [...] berufen will, muss zwingend nachweisen, dass [...].
-- **Für die Beklagte / Staatsanwaltschaft**: Wer als Behörde [...] verlangt, muss [...]. Bei Kündigungen schützt eine lückenlos dokumentierte Vorgeschichte vor [...].
+### N. Praxishinweise
+
+**Für die beschuldigte Person und ihre Verteidigung:**
+
+1. Von der Verfahrensleitung abgelehnte Beweisanträge an der Hauptverhandlung ausdrücklich erneuern. Wer sie nicht wiederholt, verliert die Rüge im Rechtsmittelverfahren ([AG OG SBK.2024.132 E. 5.3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2024-132_2024-05-31.pdf)).
+2. Ein Verschiebungsgesuch sofort nach Erhalt der Vorladung einreichen und begründen; ein Gesuch am Vortag der Verhandlung wird regelmässig abgewiesen ([BStGer BB.2026.4](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2026-4_2026-01-21.pdf)).
+
+**Für die Verfahrensleitung:**
+
+1. Die Ablehnung von Beweisanträgen stets kurz begründen; der blosse Verweis auf Art. 331 Abs. 3 StPO genügt der Begründungspflicht nicht.
 ```
+
+Jeder Hinweis bleibt belegt und verdichtet nur, was die Kommentierung bereits entwickelt hat (Abschnitt 4.3).
+
+> **Übergangsbemerkung.** Ältere Kommentare enthalten inline `> **Merksatz.**`-Blöcke in adressierender Befehlsform (so Art. 336 OR). Wer einen solchen Kommentar überarbeitet, formuliert sie als beschreibende Leitsätze um und verschiebt den handlungsleitenden Gehalt in die Praxishinweise.
 
 ---
 
@@ -233,7 +296,7 @@ Praxiskommentare enthalten niemals erfundene Urteilssachverhalte oder spekulativ
 
 ---
 
-## 5. Gliederung und Umfang im Page Bundle
+## 6. Gliederung und Umfang im Page Bundle
 
 Ein praxisorientierter Kommentar wird als vollwertiges Page Bundle angelegt:
 
@@ -246,14 +309,14 @@ content/kommentar/{gesetz}/art-{nr}/
 ### Aufbau des Hauptkommentars (`_index.md`)
 
 1. **Frontmatter**:
-   - `description`: Erwähnt explizit die Ausrichtung als Praxiskommentar und die wichtigsten Fallgruppen/Kasuistiken.
+   - `description`: Erwähnt explizit die Ausrichtung als Praxiskommentar und die wichtigsten Fallgruppen/Kasuistiken — sachlich formuliert, ohne Anpreisung.
    - `tags`: Umfasst spezifische Sachverhalts- und Kasuistik-Schlagworte.
    - `revisions`: Vollständiger Nachweis der ausgewerteten Volltexte und Verifikationen.
 2. **Gesetzeswortlaut**:
    - Verbatim nach Fedlex, gegliedert nach Absätzen, mit historischem Gesetzesstand.
    - Bei komplexen Normen: Eine vorangestellte Übersichtstabelle («Die Tatbestände auf einen Blick»).
 3. **Überblick und Bedeutung**:
-   - 1–2 Absätze zur praktischen Tragweite und den typischen Stolpersteinen in der Praxis.
+   - 1–2 Absätze zu systematischer Stellung, Regelungsgegenstand und Zweck der Norm sowie zu den Interessen, die sie ausgleicht. Keine Hinführung über die praktische Brisanz, keine Metaphern (Abschnitt 4.1).
    - **Prüfschema / Schichten-Tabelle**: der Merkmalskatalog nach Abschnitt 3.1 — Prüfungsreihenfolge der Tatbestandsmerkmale und Beweislast je Merkmal. Diese Tabelle ist zugleich das Inhaltsverzeichnis der nachfolgenden Kommentierung.
    - Zentrale Leitentscheide im wörtlichen Zitat.
 4. **Kommentierung (Abschnitte A, B, C...)**:
@@ -264,13 +327,19 @@ content/kommentar/{gesetz}/art-{nr}/
      - **Gegenüberstellung angewandter vs. verworfener Fälle — bezogen auf dieses Merkmal** (siehe Regel 2).
      - **Offenlegung echter Judikaturwidersprüche ohne Scheinharmonisierung** (siehe Regel 3).
      - **Kasuistik- oder Vergleichstabelle** (siehe Regel 4).
-     - **Taktische Merksätze** (siehe Regel 6).
+     - **Leitsatz**, wo die Kasuistik eine verdichtbare Regel ergibt — beschreibend, nicht handlungsleitend (siehe Regel 6 lit. a).
 5. **Kantonale Praxisfragen**:
    - Mindestens 1–2 konkrete Streitpunkte oder Verfahrensdivergenzen kantonaler Gerichte (z.B. Obergerichte ZH, BE, SG, AG, LU).
+6. **Praxishinweise** (Schlussabschnitt, zwingend):
+   - Letzter Abschnitt der Kommentierung, unmittelbar vor den Verweisen auf Rechtsprechung und Literatur — als fortlaufend bezeichneter Abschnitt (z.B. `### H. Praxishinweise`).
+   - Gliederung **nach Adressatenrollen** in fetten Zwischentiteln, je Rolle eine nummerierte Liste: `**Für die beschuldigte Person und ihre Verteidigung:**`, `**Für die Privatklägerschaft:**`, `**Für die Strafverfolgungsbehörden:**`, `**Für die Verfahrensleitung:**` — bzw. die entsprechenden Rollen des jeweiligen Rechtsgebiets.
+   - Hier — und nur hier — sind kurze, zugespitzte Sätze in direkter Ansprache und Befehlsform zulässig; das Wichtigste der gesamten Kommentierung wird in dieser Form zusammengefasst (Abschnitt 4.3).
+   - Jeder Hinweis trägt seinen Entscheid- oder Normverweis mit Link und verdichtet ausschliesslich bereits Kommentiertes; keine neuen Rechtsfragen, keine unbelegten Empfehlungen.
+   - Massstab sind die Abschnitte «Praxishinweise» der beiden Referenzmuster (Art. 110 StPO Ziff. H; Art. 336 OR Ziff. M).
 
 ---
 
-## 6. Qualitäts-Checkliste für den praxisorientierten Kommentar
+## 7. Qualitäts-Checkliste für den praxisorientierten Kommentar
 
 Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 
@@ -278,11 +347,15 @@ Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 - [ ] **Prüfschema deckungsgleich**: Findet sich jede Zeile der einleitenden Prüfschema-Tabelle als Abschnitt der Kommentierung wieder, in derselben Reihenfolge — und umgekehrt?
 - [ ] **Kein Merkmal ausgelassen**: Ist auch jedes Merkmal abgehandelt, zu dem keine plastische Kasuistik gefunden wurde — mit ausdrücklichem Vermerk der fehlenden Praxis?
 - [ ] **Dogmatik vor Kasuistik**: Beginnt jeder Abschnitt mit dem, was das Merkmal verlangt, bevor der erste Sachverhalt erzählt wird — und ist jede Schilderung an das Merkmal rückgebunden (nicht bloss ans Ergebnis)?
-- [ ] **Sachverhaltstiefe**: Werden die Urteile als reale Geschichten mit Berufsbezeichnungen, Dienstjahren, Verhaltensweisen, Datumsangaben und Parteivorbringen geschildert (keine Einzeiler-Zitate)?
+- [ ] **Sachverhaltstiefe**: Werden die Urteile als konkrete Lebenssachverhalte mit Berufsbezeichnungen, Dienstjahren, Verhaltensweisen, Datumsangaben und Parteivorbringen geschildert (keine Einzeiler-Zitate)?
 - [ ] **Doppelte Kasuistik**: Sind zu den Hauptstreitpunkten sowohl Fälle enthalten, in denen das Gericht die Norm angewandt hat, als auch Fälle, in denen es die Anwendung verworfen hat?
 - [ ] **Widersprüche offengelegt**: Wurden echte Judikaturdivergenzen und Widersprüche zwischen Gerichten, Kammern oder im Zeitablauf klar benannt, anstatt sie künstlich über feine Sachverhaltsunterschiede wegzuerklären?
 - [ ] **Tabellarische Vergleiche**: Gibt es mindestens eine strukturierte Tabelle, die Grenzfälle oder gegensätzliche Gerichtsentscheide nebeneinanderstellt?
-- [ ] **Prozessuale Klippen**: Werden Beweislast, Fristen, Verwirkung, Versehensnachweis oder Substanziierungsobliegenheiten explizit thematisiert?
-- [ ] **Merksätze vorhanden**: Enthalten die massgebenden Abschnitte prägnante `> **Merksatz.**`-Blöcke oder Rollen-Merksätze für Anwälte/Behörden?
+- [ ] **Prozessuale Voraussetzungen**: Werden Beweislast, Fristen, Verwirkung, Versehensnachweis oder Substanziierungsobliegenheiten explizit thematisiert?
+- [ ] **Wissenschaftlicher Duktus**: Ist der Text durchgehend nüchtern, unpersönlich und belegt — ohne reisserische Einleitung, Metaphern («Brücke», «Klippe», «Verfahrensschicksal», «Gegenspieler»), Dramatisierung, rhetorische Fragen oder unbelegte Wertungen (Abschnitt 4.1)?
+- [ ] **Sachliche Hinführung**: Führt der Kommentar — und jeder Abschnitt — über Regelungsgegenstand, Systematik und Zweck ein statt über die praktische Brisanz?
+- [ ] **Leitsätze beschreibend**: Halten die hervorgehobenen `> **Leitsatz.**`-Blöcke fest, *was gilt*, statt *was zu tun ist* — ohne Leseransprache und Befehlsform?
+- [ ] **Praxishinweise am Schluss**: Gibt es den zwingenden Schlussabschnitt «Praxishinweise», nach Adressatenrollen gegliedert und nummeriert — und ist jeder Hinweis belegt sowie in der Kommentierung bereits entwickelt (Abschnitt 4.3 und 6.6)?
+- [ ] **Zuspitzung nur dort**: Findet sich direkte Ansprache, Befehlsform und taktische Zuspitzung ausschliesslich in den Praxishinweisen und nirgends in der Kommentierung?
 - [ ] **Volltext-Verifikation**: Ist jeder Sachverhalt und jedes wörtliche Zitat gegen das Originalurteil auf `entscheidsuche.ch` abgeglichen (keine Halluzinationen)?
 - [ ] **Schweizer Rechtschreibung**: Durchgehend kein Eszett («ss»), korrekte Schweizer Rechtsterminologie.
