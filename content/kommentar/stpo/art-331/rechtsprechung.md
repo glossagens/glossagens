@@ -5,8 +5,13 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 331 StPO — Beweisbestimmung, Beweisantragsablehnung, Fristansetzung, Verschiebungsgesuche und Nichtanfechtbarkeit."
 tags: ["Rechtsprechung", "StPO", "Hauptverhandlung", "Beweisanträge", "Verschiebungsgesuch", "Verfahrensleitung"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Redaktionelle Bereinigung und Angleichung an den wissenschaftlichen Kommentarstil."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
@@ -55,7 +60,7 @@ revisions:
 
 | Entscheid | Sachverhalt | Erwägung | Link |
 |---|---|---|---|
-| AG OG SBK.2024.132 vom 31.05.2024 | Ausstandsgesuch; einstweilige Ablehnung von Beweisanträgen nach Art. 331 Abs. 3 StPO | Einstweilige Ablehnung ohne Begründung womöglich rechtsfehlerhaft, aber kein krasse Befangenheitsgrund; Beweisanträge an der HV erneuert stellbar | [entscheidsuche.ch](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2024-132_2024-05-31.pdf) |
+| AG OG SBK.2024.132 vom 31.05.2024 | Ausstandsgesuch; einstweilige Ablehnung von Beweisanträgen nach Art. 331 Abs. 3 StPO | Einstweilige Ablehnung ohne Begründung womöglich rechtsfehlerhaft, aber kein krasser Befangenheitsgrund; Beweisanträge an der HV erneuert stellbar | [entscheidsuche.ch](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2024-132_2024-05-31.pdf) |
 | AG OG SBK.2024.156 vom 31.07.2024 | Beweisanträge und Konfrontationseinvernahme | Ablehnung der Konfrontationseinvernahme nach Art. 331 Abs. 3 StPO; erneute Stellbarkeit an der HV | [entscheidsuche.ch](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2024-156_2024-07-31.pdf) |
 
 ### Basel-Landschaft
