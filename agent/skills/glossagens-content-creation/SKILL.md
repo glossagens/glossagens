@@ -82,7 +82,7 @@ Find new decisions and sources and store them in `rechtsprechung.md` — without
 
 ---
 
-## Workflow 3: `/loop {GESETZ} Art. {N}` — Iterative Lückenanalyse
+## Workflow 3: `/anreicherung {GESETZ} Art. {N}` — Iterative Lückenanalyse
 
 Continuously research which topics and decisions are still **missing** from the existing commentary and integrate them step by step. Runs until no relevant gaps remain or the user stops.
 
