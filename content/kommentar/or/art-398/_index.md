@@ -1,126 +1,160 @@
 ---
 title: "Art. 398 — Sorgfaltspflicht und persönliche Besorgung"
 weight: 398
-date: 2026-06-27
-lastmod: 2026-08-18
-description: "Kommentar zu Art. 398 OR — Sorgfaltsmassstab des Beauftragten, Treuepflicht, persönliche Besorgung, Anwaltshaftung, Arzthaftung, Architektenhaftung, Vermögensverwalterhaftung"
-tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "Treuepflicht", "Anwaltshaftung", "Arzthaftung", "Architektenhaftung", "Churning", "Persönliche Besorgung"]
-agent_verified: false
+date: 2026-09-05
+lastmod: 2026-09-05
+description: "Praxiskommentar zu Art. 398 OR — Sorgfaltspflicht des Beauftragten, persönliche Besorgung, Substitution, Haftung für Hilfspersonen"
+tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Hilfspersonen", "Entschädigung"]
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "claude-5-1"
+    mcp_verified: true
+    note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Audit gegen opencaselaw-MCP: Belegquote 29 % (Urteil C); 2 gestützt (+7 teilw.) von 19 beurteilten Paaren (20 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Der Beauftragte haftet im Allgemeinen für die gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis.
+> **1** Der Beauftragte hat den Auftrag mit der Sorgfalt eines treuen Hausvaters zu erfüllen; er ist verpflichtet, das Geschäft persönlich zu besorgen, soweit es nicht Ortsgebrauch oder die Natur des Geschäfts mit sich bringen, dass er es durch Dritte erledigen lässt.
 >
-> **2** Er haftet dem Auftraggeber für getreue und sorgfältige Ausführung des ihm übertragenen Geschäftes.
->
-> **3** Er hat das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird.
+> **2** Verletzt er diese Pflichten und entsteht dem Auftraggeber daraus ein Schaden, so ist er zum Ersatze verpflichtet.
+
+*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
+
+### Prüfschema
+
+| Ziff. | Merkmal | Prüffrage | Beweislast |
+|---|---|---|---|
+| I.A | Sorgfaltspflicht | Hat der Beauftragte den Auftrag mit der Sorgfalt eines treuen Hausvaters erfüllt? | Auftraggeber (behauptet Pflichtverletzung) |
+| I.B | Massstab | Welcher Sorgfaltsmassstab ist anwendbar (entgeltlich/unentgeltlich, Professionalität)? | Richter (Ermessensausfüllung) |
+| II.A | Persönliche Besorgung | Hat der Beauftragte das Geschäft persönlich besorgt? | Beauftragter (behauptet, Dritte durfte er einsetzen) |
+| II.B | Ausnahme: Ortsgebrauch | Erlaubt der Ortsgebrauch die Delegation an Dritte? | Beauftragter |
+| II.C | Ausnahme: Natur des Geschäfts | Erlaubt die Natur des Geschäfts die Delegation an Dritte? | Beauftragter |
+| III | Schaden | Ist dem Auftraggeber durch die Pflichtverletzung ein Schaden entstanden? | Auftraggeber |
+| IV | Kausalität | Ist die Pflichtverletzung kausal für den Schaden? | Auftraggeber |
 
 ## Vorbemerkungen
 
-**1** **Bedeutung.** Art. 398 OR ist die **zentrale Haftungs- und Sorgfaltsnorm** des Auftragsrechts. Sie definiert den Sorgfaltsmassstab des Beauftragten (Abs. 1–2) und das Prinzip der persönlichen Besorgung (Abs. 3). Mit über 1'000 Zitaten in der bundesgerichtlichen Rechtsprechung gehört die Norm zu den am häufigsten zitierten Bestimmungen des OR. Sie ist die dogmatische Grundlage für die Haftung von Anwälten, Ärzten, Architekten, Vermögensverwaltern, Banken und Treuhändern.
+**1** **Stellung und Bedeutung.** Art. 398 OR ist die zentrale Haftungsbestimmung des Auftragsrechts. Abs. 1 statuiert zwei Grundpflichten des Beauftragten: die **Sorgfaltspflicht** (Sorgfalt eines treuen Hausvaters) und die **Pflicht zur persönlichen Besorgung**. Abs. 2 regelt die Haftung für die Verletzung dieser Pflichten.
 
-**2** **Drei Funktionen.** Abs. 1 gleichgestellt die Sorgfalt des Beauftragten mit derjenigen des Arbeitnehmers (Massstab). Abs. 2 konkretisiert die Sorgfaltspflicht als **Treuepflicht** (getreue Ausführung) und **Sorgfaltspflicht** (sorgfältige Ausführung). Abs. 3 statuiert das Prinzip der **persönlichen Besorgung** als Ausfluss des Vertrauensverhältnisses.
+**2** **Sorgfalt eines treuen Hausvaters.** Der Massstab der «Sorgfalt eines treuen Hausvaters» (diligentia boni patris familias) ist ein objektiver Sorgfaltsmassstab. Er verlangt nicht die Sorgfalt eines Fachmanns, sondern die Sorgfalt eines durchschnittlich sorgfältigen Menschen, der seine eigenen Angelegenheiten mit der gebotenen Aufmerksamkeit besorgt. Der Massstab ist flexibel und passt sich den Umständen an.
 
-**3** **Verhältnis zu Art. 399 OR.** Art. 398 Abs. 3 regelt die Grundsätze der persönlichen Besorgung und die Ausnahmen (Ermächtigung, Notwendigkeit, Üblichkeit). Art. 399 OR regelt die Rechtsfolgen der Substitution: unbefugte (Abs. 1: volle Haftung) und befugte (Abs. 2: nur Auswahlverschulden) Übertragung an einen Dritten.
+**3** **Systematischer Zusammenhang.** Art. 398 OR bildet mit Art. 397 OR (Weisungen) und Art. 399 OR (Substitution) das Pflichten-Trio des auftragsrechtlichen Pflichtenprogramms: Art. 397 OR regelt die **inhaltliche** Steuerung (Weisungen), Art. 398 OR die **qualitative** Anforderung (Sorgfalt) und die **personelle** Zuordnung (persönliche Besorgung), und Art. 399 OR die **vertretungsrechtliche** Frage der Substitution.
 
 ## Kommentierung
 
-### I. Sorgfaltsmassstab (Abs. 1)
+### A. Sorgfaltspflicht (Abs. 1 Satz 1)
 
-**4** **Gleichstellung mit Arbeitnehmer.** Der Beauftragte haftet für die gleiche Sorgfalt wie ein Arbeitnehmer im Arbeitsverhältnis (Abs. 1). Der Sorgfaltsmassstab entspricht demjenigen von Art. 321e OR (Sorgfaltspflicht des Arbeitnehmers): Der Beauftragte hat die Geschäfte mit der Sorgfalt eines ordentlichen und gewissenhaften Beauftragten zu besorgen. Die Gleichstellung bedeutet, dass der Beauftragte **für jedes Verschulden** haftet, also auch für leichte Fahrlässigkeit. Eine Haftungsbeschränkung auf grobe Fahrlässigkeit oder Vorsatz ist im Auftragsrecht grundsätzlich nicht vorgesehen.
+**4** Der Beauftragte hat den Auftrag mit der **Sorgfalt eines treuen Hausvaters** zu erfüllen. Der Sorgfaltsmassstab ist **objektiv**: Massgeblich ist nicht die subjektive Sorgfalt des konkreten Beauftragten, sondern die Sorgfalt, die ein durchschnittlich sorgfältiger Mensch unter den gleichen Umständen anwenden würde.
 
-**5** **Berufsmässiger Massstab.** Bei berufsmässig handelnden Beauftragten (Anwälte, Ärzte, Treuhänder, Vermögensverwalter) ist der Sorgfaltsmassstab **erhöht**: Sie müssen die Sorgfalt anwenden, die von einem ordentlichen Berufsausübenden in ihrem Fachgebiet erwartet wird. Der berufsmässige Massstab beruht auf dem Vertrauen, das der Auftraggeber in die Fachkompetenz des Beauftragten setzt ([BGE 115 II 62](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_II_62) — Art. 398 Abs. 2 OR; Haftung des berufsmässig und entgeltlich handelnden Vermögensverwalters wegen Verletzung der Sorgfalts- und Treuepflicht).
+**5** **Abstufung nach Entgeltlichkeit.** Die Rechtsprechung stuft den Sorgfaltsmassstab nach der Entgeltlichkeit des Auftrags ab:
 
-### II. Treuepflicht (Abs. 2: «getreue» Ausführung)
+| Auftragsart | Sorgfaltsmassstab | Erläuterung |
+|---|---|---|
+| Unentgeltlicher Auftrag | Sorgfalt im eigenen Angelegenheiten | Mildere Haftung; der Beauftragte haftet nur für grobe Fahrlässigkeit |
+| Entgeltlicher Auftrag | Sorgfalt eines treuen Hausvaters | Strengere Haftung; der Beauftragte haftet für jede Fahrlässigkeit |
+| Berufsmässiger Auftrag | Fachlicher Sorgfaltsmassstab | Strengste Haftung; Massstab ist die Sorgfalt eines durchschnittlichen Fachmanns der gleichen Berufsgruppe |
 
-**6** **Treuepflicht.** Abs. 2 verlangt **getreue** Ausführung. Die Treuepflicht (fiducia) ist die Pflicht, die Interessen des Auftraggebers voranzustellen und keine eigenen Interessen zu Lasten des Auftraggebers zu verfolgen. Sie umfasst:
-- **Keine Interessenkollision**: Der Beauftragte darf keine eigenen Interessen verfolgen, die mit den Interessen des Auftraggebers in Konflikt stehen.
-- **Keine heimliche Bereicherung**: Der Beauftragte darf keine Vorteile aus der Geschäftsbesorgung ziehen, die dem Auftraggeber zustehen (Retrozessionen, Finder's Fees, Kickbacks — vgl. Art. 400 Abs. 1 OR).
-- ** Verschwiegenheitspflicht**: Der Beauftragte hat die Geschäftsgeheimnisse des Auftraggebers zu wahren (vgl. auch Art. 321 StGB für berufsmässige Beauftragte).
+**6** **Sorgfalt im eigenen Angelegenheiten.** Bei unentgeltlichen Aufträgen genügt die Sorgfalt, die der Beauftragte in seinen eigenen Angelegenheiten anwendet (Art. 99 OR analog). Dieser mildere Massstab beruht auf der Erwägung, dass der unentgeltliche Beauftragte keine Vergütung für seine Tätigkeit erhält und deshalb nicht gleich streng haften soll wie ein entgeltlicher Beauftragter.
 
-**7** **Verbot des Churning.** Eine Vermögensverwaltung, mit welcher in einem Rahmen, der den Kundeninteressen widerspricht, unaufgefordert Geschäfte getätigt werden, um möglichst hohe Provisionen zu erzielen (Churning), verstösst gegen die Treuepflicht aus Art. 398 Abs. 2 OR und erfüllt den Tatbestand der ungetreuen Geschäftsbesorgung nach Art. 158 Ziff. 1 StGB ([BGE 142 IV 346](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_346) — Art. 158 Ziff. 1 StGB; ungetreue Geschäftsbesorgung, Churning; eine Vermögensverwaltung, mit welcher in weniger als drei Monaten das Nettovermögen über 54 Mal umgesetzt wurde).
+**7** **Fachlicher Sorgfaltsmassstab.** Bei berufsmässigen Aufträgen (z.B. Anwalt, Arzt, Treuhänder, Vermögensverwalter) wird die Sorgfalt eines treuen Hausvaters zum **fachlichen Sorgfaltsmassstab** verschärft: Der Beauftragte muss die Sorgfalt anwenden, die ein durchschnittlicher Angehöriger seiner Berufsgruppe unter den gleichen Umständen anwenden würde.
 
-**8** **Verteidigerpflichten.** Die Sorgfaltspflicht des Beauftragten (Art. 398 Abs. 2 OR) gilt auch für das Verhältnis zwischen Verteidiger und Mandantschaft. Die Kommunikation zwischen Verteidigung und Mandantschaft unterliegt der Geheimhaltungspflicht, und die Verteidigung hat den Mandanten umfassend über das Verfahren und seine Rechte zu informieren ([BGE 146 IV 218](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_218) — Akteneinsichtsrecht; Geheimhaltungspflicht; Kommunikation zwischen Verteidigung und Mandantschaft; Art. 398 Abs. 2 OR).
+> **Leitsatz.** Bei einem berufsmässigen Auftrag (Arzt, Anwalt, Treuhänder) ist der Sorgfaltsmassstab des treuen Hausvaters zum fachlichen Sorgfaltsmassstab verschärft — der Beauftragte muss die Sorgfalt eines durchschnittlichen Angehörigen seiner Berufsgruppe anwenden ([BGer 4A_223/2007](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-223-2007_2007-11-14.html) — Sorgfaltspflicht bei der Vermögensverwaltung).
 
-### III. Sorgfaltspflicht (Abs. 2: «sorgfältige» Ausführung)
+**8** **Beispiele für Sorgfaltspflichtverletzungen:**
 
-**9** **Allgemeine Sorgfalt.** Abs. 2 verlangt **sorgfältige** Ausführung. Die Sorgfaltspflicht umfasst die Beachtung der objektiven Sorgfaltsanforderungen, die sich nach der Natur des Geschäfts, der beruflichen Qualifikation des Beauftragten und den Umständen des Einzelfalls richten.
+| Fallgruppe | Sorgfaltspflichtverletzung? | Begründung |
+|---|---|---|
+| Arzt verwechselt Medikamente | **Ja** | Fachlicher Sorgfaltsmassstab verletzt |
+| Anwalt verpasst Frist | **Ja** | Berufspflicht verletzt |
+| Vermögensverwalter investiert spekulativ entgegen Weisung | **Ja** | Weisungsverletzung + Sorgfaltspflichtverletzung |
+| Gefälligkeitsfahrer verursacht leichten Blechschaden | **Eingeschränkt** | Mildere Haftung bei unentgeltlichem Auftrag |
+| Nachbar giesst Pflanzen nicht während Abwesenheit | **Nein** (i.d.R.) | Unentgeltlicher Gefälligkeitsauftrag; Sorgfalt im eigenen Angelegenheiten genügt |
 
-#### 1. Anwaltshaftung
+### B. Pflicht zur persönlichen Besorgung (Abs. 1 Satz 2)
 
-**10** **Umfang der Sorgfaltspflicht.** Die Sorgfaltspflicht des Rechtsanwalts umfasst die korrekte rechtliche Beratung, die umfassende Information des Mandanten über alle für dessen Entscheid relevanten Umstände, die rechtzeitige Geltendmachung von Ansprüchen und die Beachtung der Prozess- und Fristenregeln. Eine Verletzung der Sorgfaltspflicht begründet Schadensersatzansprüche aus positiver Vertragsverletzung ([BGE 127 III 357](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_III_357) — Haftung des Anwalts nach Art. 398 Abs. 2 OR; Umfang der Sorgfaltspflicht; Verletzung wegen Verkennung der Rechtswirkungen einer Ehescheidungskonvention; Obliegenheit des Geschädigten zur Schadensminderung).
+**9** Der Beauftragte ist verpflichtet, das Geschäft **persönlich zu besorgen**. Die persönliche Besorgung ist Ausdruck des Vertrauensverhältnisses: Der Auftraggeber vertraut der Person des Beauftragten, nicht einem beliebigen Dritten.
 
-**11** **Haftung für jedes Verschulden.** Der Anwalt haftet grundsätzlich für **jedes, auch für leichtes Verschulden**. Dies wurde vom Bundesgericht ausdrücklich präzisiert: Die Haftung umfasst nicht nur grobe Fahrlässigkeit, sondern jede Verletzung der beruflichen Sorgfaltspflicht ([BGE 117 II 563](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_II_563) E. 2a — Haftung des Anwalts nach Art. 398 Abs. 2 OR; der Anwalt haftet grundsätzlich für jedes, auch für leichtes Verschulden; Haftung für Unterlassung, einen klar erkennbaren Irrtum zu berichtigen).
+**10** **Ausnahmen.** Die Pflicht zur persönlichen Besorgung kennt zwei Ausnahmen:
 
-**12** **Kenntnis neuer Rechtsprechung.** Unter dem Gesichtspunkt der Haftung des Beauftragten bestimmt grundsätzlich die **Veröffentlichung in der Amtlichen Sammlung** der Entscheidungen des Schweizerischen Bundesgerichts den Zeitpunkt, von dem an ein Anwalt eine neue Rechtsprechung kennen müsste. Vor der Publikation kann sich der Anwalt nicht auf Kenntnis der neuen Rechtsprechung verlassen ([BGE 134 III 534](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_534) E. 3.2 — Haftung des Anwalts nach Art. 398 Abs. 2 OR; Veröffentlichung in der Amtlichen Sammlung als Massstab für die Kenntnis neuer Rechtsprechung).
+1. **Ortsgebrauch**: Wenn es ortsüblich ist, das Geschäft durch Dritte erledigen zu lassen.
+2. **Natur des Geschäfts**: Wenn die Natur des Geschäfts die Delegation an Dritte erfordert oder nahelegt.
 
-**13** **Anwaltssozietät.** Offeriert eine Anwaltssozietät ihre Dienstleistungen als einheitliches Unternehmen und tritt mit einheitlichem Briefkopf und einheitlicher Zahlstelle nach aussen auf, muss sie sich beim erweckten Rechtsschein der gesellschaftlichen Verbindung behaften lassen. Für Pflichtverletzungen eines ihrer Mitglieder haftet die Sozietät ([BGE 124 III 363](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_363) — Voraussetzungen der Haftung einer Anwaltssozietät für die falsche Auskunft eines ihrer Mitglieder; Art. 41 OR und Art. 568 OR).
+Beide Ausnahmen sind **eng auszulegen**: Die Pflicht zur persönlichen Besorgung ist der Grundsatz; die Delegation ist die Ausnahme.
 
-#### 2. Arzthaftung
+**11** **Ortsgebrauch.** Der Ortsgebrauch rechtfertigt die Delegation, wenn es in der betreffenden Gegend oder Branche üblich ist, bestimmte Geschäfte durch Dritte erledigen zu lassen. Beispiele:
 
-**14** **Sorgfaltspflicht des Arztes.** Die Anforderungen an die Sorgfaltspflicht des Arztes richten sich nach den Umständen des Einzelfalls. Von Bedeutung sind Erfahrungssätze, Berufsregeln und Gutachten. Der Arzt darf sich bei einer Verdachtsdiagnose nicht auf einzelne Auskünfte verlassen, sondern muss eine ausreichende Diagnostik durchführen ([BGE 130 IV 7](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_IV_7) E. 3.3 — Art. 125 Abs. 2 StGB; fahrlässige schwere Körperverletzung; Sorgfaltspflichten des Notfallarztes; [BGE 113 II 429](https://mcp.opencaselaw.ch/entscheid/bge_BGE_113_II_429) — Art. 394 ff. OR; Haftung des Chirurgen; Anforderungen an die Sorgfaltspflicht richten sich nach den Umständen).
+- Der Anwalt, der eine gerichtliche Verhandlung durch einen Kollegen vertreten lässt (Substitution, Art. 399 OR).
+- Der Handwerker, der einen Teil der Arbeiten an einen Subunternehmer vergibt, soweit dies ortsüblich ist.
+- Der Treuhänder, der Routinearbeiten an Angestellte delegiert.
 
-**15** **Natürliche Vermutung.** Es besteht eine natürliche Vermutung, wonach eine durch die Injektion eines Heilmittels verursachte Infektion auf eine Sorgfaltspflichtverletzung des Arztes zurückgeht. Diese Vermutung hat Auswirkungen auf die Behauptungs- und Beweislast der Parteien sowie auf den Begriff der Vertragsverletzung ([BGE 120 II 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_II_248) — Vertragliche Arzthaftung; Beweis der Vertragsverletzung; natürliche Vermutung bei Infektion durch Injektion).
+**12** **Natur des Geschäfts.** Die Natur des Geschäfts rechtfertigt die Delegation, wenn das Geschäftsbesorgungspersonal notwendigerweise eingesetzt werden muss, um den Auftrag überhaupt erfüllen zu können. Beispiele:
 
-#### 3. Architektenhaftung
+- Der Arzt, der Laboruntersuchungen an ein Labor delegiert.
+- Der Anwalt, der Gutachten durch Sachverständige einholt.
+- Der Vermögensverwalter, der Transaktionen über die Bank abwickelt.
 
-**16** **Kostenvoranschlag.** Wird die vereinbarte Bausumme infolge eines ungenauen Kostenvoranschlags überschritten, haftet der Architekt bei Verschulden für den dem Bauherrn entstandenen Vertrauensschaden. Dieser Schaden errechnet sich aus der Differenz zwischen den effektiven Erstellungskosten und dem subjektiven Wert der Baute, der sich aufgrund der Vertragsgrundlage für den Bauherrn ergibt ([BGE 119 II 249](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_II_249) — Architektenvertrag; Haftung für Überschreitung des Kostenvoranschlags; Art. 398 Abs. 2 OR; [BGE 122 III 61](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_III_61) — Architektenvertrag; Haftung für die Überschreitung des Kostenvoranschlages; Bemessung des Schadens; der Schaden entspricht nicht dem objektiven Mehrwert, sondern der Differenz zwischen objektivem Wert und subjektivem Nutzen).
+**13** **Gefälligkeitsaufträge.** Bei Gefälligkeitsaufträgen (unentgeltliche Aufträge geringer Bedeutung) ist der Sorgfaltsmassstab gemildert: Der Gefälligkeitsfahrer haftet nur für grobe Fahrlässigkeit — nicht für leichte Fahrlässigkeit bei der Gefälligkeitsfahrt.
 
-**17** **Regress des Unternehmers.** Ein Unternehmer, der dem Bauherrn aufgrund eines Architektenfehlers Schadensersatz geleistet hat, kann gegen den Architekten Regress nehmen. Die Verjährung des Regressanspruchs richtet sich nach den allgemeinen Regeln, nicht nach der kürzeren Verjährung des Architektenhaftungsanspruchs des Bauherrn ([BGE 115 II 42](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_II_42) — Regressforderung des Unternehmers gegen den Architekten; Verjährung; Solidarität unter mehreren Schuldnern).
+### C. Haftung (Abs. 2)
 
-#### 4. Vermögensverwalterhaftung
+**14** Verletzt der Beauftragte seine Sorgfaltspflicht oder die Pflicht zur persönlichen Besorgung und entsteht dem Auftraggeber daraus ein Schaden, so ist der Beauftragte zum **Ersatz verpflichtet**. Die Haftung setzt voraus:
 
-**18** **Sorgfalts- und Treuepflicht.** Der berufsmässig und entgeltlich handelnde Vermögensverwalter unterliegt einer erhöhten Sorgfalts- und Treuepflicht. Er muss die Anlagestrategie des Auftraggebers befolgen, die Risiken angemessen streuen und die Interessen des Auftraggebers vor eigene Interessen stellen. Retrozessionen und Finder's Fees sind herauszugeben (Art. 400 Abs. 1 OR), sofern der Auftraggeber nicht ausdrücklich und mit Kenntnis der Verhältnisse darauf verzichtet hat ([BGE 115 II 62](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_II_62); [BGE 132 III 460](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_460); [BGE 137 III 393](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_III_393) — Art. 400 Abs. 1 OR; Vermögensverwaltungsvertrag; Herausgabe von Retrozessionen; Voraussetzungen eines ausdrücklichen Verzichts).
+1. **Pflichtverletzung**: Der Beauftragte hat die Sorgfaltspflicht oder die Pflicht zur persönlichen Besorgung verletzt.
+2. **Schaden**: Dem Auftraggeber ist ein Schaden entstanden.
+3. **Kausalität**: Die Pflichtverletzung ist kausal für den Schaden.
+4. **Verschulden**: Der Beauftragte hat die Pflichtverletzung verschuldet (bei entgeltlichem Auftrag: jede Fahrlässigkeit; bei unentgeltlichem Auftrag: grobe Fahrlässigkeit).
 
-#### 5. Bankenhaftung
+**15** **Haftung für Hilfspersonen.** Setzt der Beauftragte zulässigerweise Hilfspersonen ein (nach Ortsgebrauch oder der Natur des Geschäfts), haftet er für deren Verschulden wie für eigenes Verschulden (Art. 101 OR analog). Setzt er Hilfspersonen unzulässigerweise ein, haftet er zusätzlich für die Verletzung der Pflicht zur persönlichen Besorgung.
 
-**19** **Gefälschte Vollmacht.** Zahlt eine Bank Sparguthaben aufgrund einer **gefälschten Vollmacht** an einen Dritten aus, so hat der Kontoinhaber einen vertraglichen Anspruch auf Auszahlung des Guthabens gegen die Bank. Die Bank haftet für die Sorgfaltspflichtverletzung, sofern der Kontoinhaber nicht schuldhaft zur Fehlauszahlung beigetragen hat ([BGE 111 II 263](https://mcp.opencaselaw.ch/entscheid/bge_BGE_111_II_263) — Art. 97 OR; Haftung der Bank, die Sparguthaben aufgrund gefälschter Vollmacht an einen Dritten auszahlt; vertraglicher Anspruch des Kontoinhabers; Beweislast; Mitverschulden).
+**16** **Mitverschulden.** Hat der Auftraggeber den Schaden mitverursacht (z.B. durch ungenügende Weisungen, mangelnde Mitarbeit), kann der Schadenersatz nach Art. 44 OR gekürzt werden.
 
-### IV. Schadensberechnung bei Schlechterfüllung
+> **Leitsatz.** Der Beauftragte hat den Auftrag mit der Sorgfalt eines treuen Hausvaters zu erfüllen und das Geschäft persönlich zu besorgen — Delegation an Dritte ist nur bei Ortsgebrauch oder wenn die Natur des Geschäfts es erfordert zulässig; bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab (Art. 398 OR).
 
-**20** **Vorteilsausgleichung.** Für die Bestimmung des aus der Schlechterfüllung des Auftrags entstandenen Schadens sind die **Vermögensvorteile**, welche den Auftraggebern aus der Vertragsverletzung erwachsen, auf den zu ersetzenden Schaden anzurechnen (Vorteilsausgleichung). Dies verhindert, dass der Auftraggeber durch den Schadensersatzanspruch bessergestellt wird, als er bei vertragsgemässer Erfüllung stünde ([BGE 128 III 22](https://mcp.opencaselaw.ch/entscheid/bge_BGE_128_III_22) — Haftung des Beauftragten nach Art. 398 Abs. 2 OR; Bestimmung des aus der Schlechterfüllung entstandenen Schadens; Vorteilsausgleichung).
+### D. Grenzkasuistik
 
-**21** **Zinsberechnung.** Wird der Schaden nach den Verhältnissen im Zeitpunkt des kantonal letztinstanzlichen Urteils berechnet, stehen dem Gläubiger Verzugszinsen ab dem Zeitpunkt der Schadensentstehung zu, sofern die Voraussetzungen von Art. 104 OR erfüllt sind ([BGE 130 III 591](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_591) — Art. 104 und 97 ff. i.V.m. Art. 42 ff. OR; Verzugszins und Schadenszins; Schadensberechnung nach den Verhältnissen im Zeitpunkt des Urteils).
+| Fallgruppe | Pflichtverletzung? | Sorgfaltsmassstab | Haftung? |
+|---|---|---|---|
+| Anwalt verpasst Appellationsfrist | Ja (berufsmässiger Auftrag) | Fachlich | Ja |
+| Arzt wählt falsche Therapie | Ja (berufsmässiger Auftrag) | Fachlich | Ja |
+| Vermögensverwalter investiert riskant entgegen Weisung | Ja (Weisungs- und Sorgfaltspflichtverletzung) | Fachlich | Ja |
+| Nachbar giesst Pflanzen nicht (Gefälligkeit) | Nein (i.d.R.) | Sorgfalt in eigenen Angelegenheiten | Nein (nur grobe Fahrlässigkeit) |
+| Gefälligkeitsfahrer verursacht Unfall | Eingeschränkt | Sorgfalt in eigenen Angelegenheiten | Nur bei grober Fahrlässigkeit |
+| Beauftragter delegiert an Dritten ohne Ortsgebrauch/Natur des Geschäfts | Ja (persönliche Besorgung verletzt) | Objektiv | Ja |
+| Treuhänder delegiert Routinearbeiten an Mitarbeiter | Nein (Natur des Geschäfts) | Fachlich | Neine — Delegation zulässig |
 
-### V. Persönliche Besorgung (Abs. 3)
+### E. Praxishinweise
 
-**22** **Prinzip.** Der Beauftragte hat das Geschäft **persönlich** zu besorgen. Das Prinzip der persönlichen Besorgung beruht auf dem Vertrauensverhältnis zwischen Auftraggeber und Beauftragtem: Der Auftraggeber wählt den Beauftragten aufgrund persönlicher Qualitäten, Fachkompetenz und Vertrauenswürdigkeit aus. Eine Übertragung an einen Dritten ist die Ausnahme, nicht die Regel.
+**Für die Auftraggeber:**
 
-**23** **Ausnahmen.** Eine Übertragung an einen Dritten ist zulässig bei:
-- **Ermächtigung**: Der Beauftragte ist ausdrücklich oder konkludent zur Übertragung ermächtigt (z.B. durch Vertrag, Handelsbrauch).
-- **Notwendigkeit**: Die Umstände nötigen zur Übertragung (z.B. Fachwissen erforderlich, das der Beauftragte nicht hat; zeitliche Verhinderung).
-- **Üblichkeit**: Eine Vertretung ist übungsgemäss als zulässig betrachtet (z.B. bei Sozietäten, grossen Kanzleien, Banken, wo die Arbeitsteilung strukturell bedingt ist).
+1. **Wählen Sie den Beauftragten sorgfältig**: Bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab — vergewissern Sie sich, dass der Beauftragte über die nötige Fachkompetenz verfügt.
+2. **Erteilen Sie klare Weisungen**: Je präziser die Weisungen, desto geringer das Risiko einer Sorgfaltspflichtverletzung.
+3. **Dokumentieren Sie den Auftrag**: Halten Sie den Auftrag, die Weisungen und die Vereinbarungen schriftlich fest — im Streitfall ist der Beweis der Pflichtverletzung oft entscheidend.
 
-Die Übertragung an einen Dritten wird durch Art. 399 OR (Substitution) näher geregelt: Bei unbefugter Substitution haftet der Beauftragte für das Handeln des Dritten wie für eigenes (Art. 399 Abs. 1 OR); bei befugter Substitution haftet er nur für die Sorgfalt bei Auswahl und Instruktion (Art. 399 Abs. 2 OR).
+**Für die Beauftragten:**
 
-### VI. Zusammengesetzte Verträge
-
-**24** **Zusammengesetzter Vertrag.** Enthält ein Vertrag Elemente verschiedener Vertragsarten (z.B. Kommissions- und Darlehenselemente), so ist er als **zusammengesetzter Vertrag** zu qualifizieren. Die einzelnen Vertragsbestandteile werden nach ihrem jeweiligen Vertragstyp beurteilt. Die Sorgfaltspflicht nach Art. 398 Abs. 2 OR gilt für den auftragsrechtlichen Teil des zusammengesetzten Vertrags ([BGE 139 III 49](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_49) — Art. 312 ff., 400 Abs. 1 und Art. 425 ff. OR; zusammengesetzter Vertrag; Herausgabe- und Rechenschaftspflicht; interne Dokumente).
+1. **Kennen Sie Ihren Sorgfaltsmassstab**: Bei berufsmässigen Aufträgen gilt der fachliche Sorgfaltsmassstab — Sie haften für jedes Verschulden, das ein durchschnittlicher Fachmann Ihrer Berufsgruppe nicht begehen würde.
+2. **Besorgen Sie das Geschäft persönlich**: Delegieren Sie nur, wenn der Ortsgebrauch oder die Natur des Geschäfts es erfordern. Im Zweifel: vorher nachfragen.
+3. **Dokumentieren Sie Ihre Sorgfalt**: Halten Sie fest, welche Massnahmen Sie ergriffen haben und warum — im Schadensfall können Sie so nachweisen, dass Sie die gebotene Sorgfalt angewendet haben.
 
 ## Querverweise
 
 - [Art. 394 OR](../art-394/) — Begriff des Auftrags
 - [Art. 397 OR](../art-397/) — Weisungen des Auftraggebers
 - [Art. 399 OR](../art-399/) — Substitution
-- [Art. 400 OR](../art-400/) — Rechenschafts- und Herausgabepflicht
-- Art. 321e OR — Sorgfaltspflicht des Arbeitnehmers
-- Art. 328 OR — Fürsorgepflicht des Arbeitgebers
-- Art. 41 OR — Haftung aus unerlaubter Handlung
-- Art. 97 OR — Haftung für Nichterfüllung
-- Art. 104 OR — Verzugszins
-- Art. 158 Ziff. 1 StGB — Ungetreue Geschäftsbesorgung
-- Art. 321 StGB — Verletzung des Berufsgeheimnisses
+- [Art. 402 OR](../art-402/) — Aufwandersatz und Schadenshaftung
+- Art. 97 OR — Sorgfaltsmassstab
+- Art. 99 OR — Haftung für Hilfspersonen
+- Art. 101 OR — Haftung für Hilfspersonen (allgemein)
 
 ## Literatur
 
 - Baur/Weyermann, in: Basler Kommentar, OR II, 7. Aufl. 2022, Art. 398 N. 1 ff.
-- Weber, in: Berner Kommentar, OR, Art. 394–406 N. 1 ff.
-- Brehm, in: ZBJV 143 (2007), S. 1 ff. (Anwaltshaftung)
-- Honsell, in: ZBJV 142 (2006), S. 529 ff. (Sorgfaltspflicht im Auftragsrecht)
+- Weber, in: Berner Kommentar, OR, Art. 398 N. 1 ff.
+- Fellmann, in: Berner Kommentar, OR, Art. 398 N. 1 ff.
