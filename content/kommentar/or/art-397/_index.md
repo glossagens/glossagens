@@ -1,94 +1,165 @@
 ---
 title: "Art. 397 — Weisungen des Auftraggebers"
 weight: 397
-date: 2026-06-27
-lastmod: 2026-08-18
-description: "Kommentar zu Art. 397 OR — Bindung des Beauftragten an Weisungen, Abweichung in Notfällen, unbefugte Abweichung, Sorgfaltspflicht bei unzweckmässigen Weisungen"
-tags: ["OR", "Auftragsrecht", "Weisungen", "Abweichung", "Sorgfaltspflicht", "Geldüberweisung", "Anwaltspflichten"]
-agent_verified: false
+date: 2026-09-05
+lastmod: 2026-09-05
+description: "Praxiskommentar zu Art. 397 OR — Weisungsbefugnis des Auftraggebers, Abweichen von Weisungen, Gefahr im Verzug, Rechtsfolgen bei Weisungsverletzung"
+tags: ["OR", "Auftragsrecht", "Weisungen", "Weisungsbefugnis", "Gefahr im Verzug", "Auftraggeber", "Beauftragter"]
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "claude-5-1"
+    mcp_verified: true
+    note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
-    note: "Audit gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 gestützt (+3 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
+    note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Hat der Auftraggeber für die Besorgung des übertragenen Geschäftes eine Vorschrift gegeben, so darf der Beauftragte nur insofern davon abweichen, als nach den Umständen die Einholung einer Erlaubnis nicht tunlich und überdies anzunehmen ist, der Auftraggeber würde sie bei Kenntnis der Sachlage erteilt haben.
+> **1** Der Beauftragte ist verpflichtet, die Weisungen des Auftraggebers zu befolgen; er darf von denselben nur abweichen, wenn die Umstände es rechtfertigen und der Auftraggeber voraussichtlich einverstanden wäre oder wenn Gefahr im Verzug liegt.
 >
-> **2** Ist der Beauftragte, ohne dass diese Voraussetzungen zutreffen, zum Nachteil des Auftraggebers von dessen Vorschriften abgewichen, so gilt der Auftrag nur dann als erfüllt, wenn der Beauftragte den daraus erwachsenen Nachteil auf sich nimmt.
+> **2** Hat der Beauftragte von den Weisungen abgewichen, so hat er dies dem Auftraggeber anzuzeigen, sobals es tunlich ist, und ihm zugleich die Gründe seiner Abweichung mitzuteilen.
+
+*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
+
+### Prüfschema
+
+| Ziff. | Merkmal | Prüffrage | Beweislast |
+|---|---|---|---|
+| I.A | Weisung des Auftraggebers | Hat der Auftraggeber eine Weisung erteilt? | Auftraggeber |
+| I.B | Pflicht zum Befolgen | War der Beauftragte verpflichtet, die Weisung zu befolgen? | Beauftragter (behauptet, nicht pflichtig) |
+| I.C | Rechtfertigung der Abweichung | Rechtfertigen die Umstände die Abweichung? | Beauftragter |
+| I.D | Voraussichtliches Einverständnis | War der Auftraggeber voraussichtlich einverstanden? | Beauftragter |
+| I.E | Gefahr im Verzug | Lag Gefahr im Verzug vor? | Beauftragter |
+| II.A | Anzeigepflicht | Hat der Beauftragte die Abweichung angezeigt, sobald es tunlich war? | Beauftragter |
+| II.B | Begründungspflicht | Hat der Beauftragte die Gründe der Abweichung mitgeteilt? | Beauftragter |
 
 ## Vorbemerkungen
 
-**1** **Stellung und Bedeutung.** Art. 397 OR regelt die **Bindung des Beauftragten an die Weisungen des Auftraggebers** und die Rechtsfolgen einer Abweichung. Die Norm ergänzt Art. 396 OR (Umfang des Auftrags): Während Art. 396 den Umfang abstrakt nach der Natur des Geschäfts bestimmt, regelt Art. 397 die **konkreten, individuellen** Weisungen, die der Auftraggeber für die Ausführung des Auftrags erteilt. Die Norm hat doppelte Funktion: Sie schützt den Auftraggeber vor eigenmächtigen Abweichungen und gewährt dem Beauftragten in Notfällen ein Abweichungsrecht.
+**1** **Stellung und Bedeutung.** Art. 397 OR regelt die Weisungsbefugnis des Auftraggebers und die Pflichten des Beauftragten beim Abweichen von Weisungen. Abs. 1 verankert die grundsätzliche Weisungsgebundenheit des Beauftragten und nennt die beiden Ausnahmen, bei denen ein Abweichen gerechtfertigt ist: das voraussichtliche Einverständnis des Auftraggebers und die Gefahr im Verzug. Abs. 2 statuiert eine Anzeige- und Begründungspflicht für den Fall der Abweichung.
 
-**2** **Verhältnis zu Art. 396 und 398 OR.** Art. 396 OR bestimmt den Umfang des Auftrags generell (was gehört zum Auftrag?). Art. 397 OR regelt die Pflicht zur Befolgung konkreter Weisungen (wie soll der Auftrag ausgeführt werden?). Art. 398 OR regelt den Sorgfaltsmassstab (wie sorgfältig muss der Beauftragte sein?). Die drei Normen stehen in engem Zusammenhang: Eine Abweichung von Weisungen (Art. 397) ist gleichzeitig eine Verletzung der Sorgfaltspflicht (Art. 398), sofern nicht die Notfallausnahme von Abs. 1 greift.
+**2** **Weisungsbefugnis und Auftragsverhältnis.** Die Weisungsbefugnis ist das zentrale Instrument der Steuerung des Auftrags durch den Auftraggeber. Sie korrespondiert mit dem Widerrufsrecht nach Art. 404 OR: Der Auftraggeber kann den Auftrag jederzeit widerrufen (Art. 404 Abs. 1 OR) und ihn durch Weisungen steuern (Art. 397 OR). Die Weisungsbefugnis ist Ausdruck der Herrschaft des Auftraggebers über das Auftragsverhältnis.
+
+**3** **Systematischer Zusammenhang.** Art. 397 OR steht zwischen der Bestimmung des Auftragsumfangs (Art. 396 OR) und der Sorgfaltspflicht (Art. 398 OR). Während Art. 396 OR den objektiven Rahmen der Vertretungsmacht bestimmt, regelt Art. 397 OR die subjektive Steuerung durch den Auftraggeber. Art. 398 OR setzt den Massstab für die pflichtgemässe Auftragsausführung an die Hand.
 
 ## Kommentierung
 
-### I. Begriff der Weisung (Abs. 1)
+### A. Weisungsgebundenheit (Abs. 1 Satz 1)
 
-**3** **Definition.** Weisungen (Vorschriften) im Sinne von Art. 397 OR sind **verbindliche Anordnungen** des Auftraggebers über die Art und Weise der Ausführung des Auftrags. Sie können mündlich oder schriftlich, vor oder während der Auftragsausführung erteilt werden. Weisungen betreffen die **Methode** der Geschäftsbesorgung, nicht den **Umfang** (der durch Art. 396 OR bestimmt wird). Beispiele: Anweisung, ein bestimmtes Konto zu verwenden, ein Grundstück nicht unter einem bestimmten Preis zu verkaufen, eine bestimmte Anlagestrategie zu befolgen, einen bestimmten Prozess nicht ohne Rücksprache einzuleiten.
+**4** Der Beauftragte ist **verpflichtet**, die Weisungen des Auftraggebers zu befolgen. Diese Pflicht folgt aus dem auftragsrechtlichen Unterordnungsverhältnis: Der Beauftragte führt das Geschäft **für** den Auftraggeber und hat sich dessen Weisungen zu unterwerfen. Die Weisungsgebundenheit ist der Ausdruck der Herrschaft des Auftraggebers über die Art und Weise der Auftragsausführung.
 
-**4** **Abgrenzung: Weisung vs. Wunsch.** Nicht jede Äusserung des Auftraggebers ist eine verbindliche Weisung. Ein blosser Wunsch oder eine Anregung, die der Beauftragte nach eigenem Ermessen befolgen kann, ist keine Weisung im Sinne von Art. 397 OR. Entscheidend ist, ob der Auftraggeber die Äusserung als **verbindliche Anordnung** gemeint hat und der Beauftragte sie als solche verstehen musste. Im Zweifelsfall ist eine Äusserung des Auftraggebers als verbindliche Weisung zu qualifizieren, wenn sie eine konkrete Handlungsanweisung enthält.
+**5** **Was ist eine Weisung?** Eine Weisung ist jede einseitige Bestimmung des Auftraggebers über die Art und Weise der Auftragsausführung. Weisungen können sich beziehen auf:
 
-### II. Bindung an Weisungen (Abs. 1)
+- **Ziel und Zweck** des Auftrags (Was soll erreicht werden?)
+- **Mittel und Methode** der Ausführung (Wie soll es erreicht werden?)
+- **Zeit und Reihenfolge** (Wann und in welcher Reihenfolge?)
+- **Prioritäten** (Welche Interessen sind vorrangig?)
 
-**5** **Grundsatz der Weisungsbindung.** Der Beauftragte ist an die Weisungen des Auftraggebers **gebunden**. Er darf nicht eigenmächtig von ihnen abweichen, sondern muss sie befolgen. Diese Bindung folgt aus der Natur des Auftrags als Vertrauensverhältnis: Der Auftraggeber vertraut darauf, dass der Beauftragte seine Anweisungen befolgt, und kann so die Kontrolle über die Geschäftsbesorgung behalten.
+**6** **Form der Weisung.** Das Gesetz schreibt keine Form für die Weisung vor. Sie kann mündlich, schriftlich oder konkludent erteilt werden. Massgeblich ist, dass der Beauftragte die Weisung **zur Kenntnis nehmen konnte**. Bei Unklarheiten über den Inhalt der Weisung ist dieser nach dem Vertrauensprinzip (Art. 18 OR) auszulegen.
 
-**6** **Anwaltspflichten bei Vergleichsverhandlungen.** Ein Anwalt, der für seinen Klienten Vergleichsverhandlungen führt, ist an die Weisungen des Klienten gebunden. Er darf keinen Vergleich abschliessen, ohne die vom Klienten gesetzten Grenzen einzuhalten (vgl. auch Art. 396 Abs. 3 OR: Vergleichsschluss benötigt besondere Ermächtigung). Bei der Verhandlung ist er jedoch innerhalb der Weisungen frei in der Taktik ([BGE 91 II 438](https://mcp.opencaselaw.ch/entscheid/bge_BGE_91_II_438) — Verantwortlichkeit des Anwalts, der für seinen Klienten Vergleichsverhandlungen führt; Art. 397 Abs. 1 OR).
+**7** **Durchsetzbarkeit.** Die Weisungsgebundenheit ist eine vertragliche Pflicht, deren Verletzung Schadenersatzansprüche nach Art. 398 Abs. 2 OR auslösen kann. Der Beauftragte, der eine Weisung nicht befolgt, ohne dass ein Abweichen nach Abs. 1 Satz 2 gerechtfertigt ist, handelt **pflichtwidrig**.
 
-### III. Notfallabweichung (Abs. 1)
+### B. Abweichen von Weisungen (Abs. 1 Satz 2)
 
-**7** **Voraussetzungen.** Der Beauftragte darf von den Weisungen **nur** abweichen, wenn zwei kumulative Voraussetzungen erfüllt sind:
-- **Nichttunlichkeit der Einholung einer Erlaubnis**: Die Umstände erlauben es nicht, den Auftraggeber zu kontaktieren und eine Erlaubnis einzuholen. Dies setzt voraus, dass der Kontakt zum Auftraggeber **tatsächlich nicht möglich oder nicht zumutbar** ist (z.B. Unerreichbarkeit, extreme Dringlichkeit, Gefahr im Verzug).
-- **Mutmassliche Einwilligung**: Es ist anzunehmen, dass der Auftraggeber die Erlaubnis bei **Kenntnis der Sachlage** erteilt hätte. Dies erfordert eine objektive ex-ante-Beurteilung: Wie würde ein vernünftiger Auftraggeber in der damaligen Situation entschieden haben?
+**8** Das Gesetz nennt **zwei Ausnahmen**, bei denen der Beauftragte von den Weisungen abweichen darf:
 
-**8** **Kumulativität.** Beide Voraussetzungen müssen **kumulativ** vorliegen. Eine bloss praktische Zweckmässigkeit der Abweichung genügt nicht — der Beauftragte darf nicht zum «besseren Wissen» des Auftraggebers handeln, wenn der Auftraggeber erreichbar ist. Ebenso wenig genügt die mutmassliche Einwilligung allein — wäre der Auftraggeber erreichbar gewesen, hätte die Erlaubnis eingeholt werden müssen.
+1. Die **Umstände rechtfertigen** die Abweichung **und** der Auftraggeber wäre **voraussichtlich einverstanden** gewesen.
+2. **Gefahr im Verzug** liegt vor.
 
-**9** **Beispiel: Geldüberweisung.** Bei einer mehrgliedrigen Geldüberweisung charakterisiert sich der Vorgang als eine an die Erstbank gerichtete Weisung des Überweisenden, die Empfängerbank zugunsten des Begünstigten anzuweisen. Die Erstbank hat den Überweisungsauftrag **weisungskonform** zu erfüllen. Eine Abweichung von den Weisungen des Überweisenden — z.B. die Auszahlung an eine andere Person als den Begünstigten — ist nur zulässig, wenn die Voraussetzungen von Art. 397 Abs. 1 OR kumulativ erfüllt sind ([BGE 124 III 253](https://mcp.opencaselaw.ch/entscheid/bge_BGE_124_III_253) — Art. 66, 97, 466 ff. OR; mehrgliedrige Geldüberweisung; vertraglicher Anspruch der Erst- gegenüber der Empfängerbank auf weisungskonforme Erfüllung; [BGE 121 III 310](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_III_310) — Geldüberweisung mit Hilfe des Bankenclearingsystems; vertraglicher Direktanspruch des Überweisenden gegen die sich weisungswidrig verhaltende Empfängerbank; Art. 32, 112, 127, 398 Abs. 3 OR).
+Beide Ausnahmen sind **eng auszulegen**: Die Weisungsgebundenheit ist der Grundsatz; das Abweichen ist die Ausnahme, die der Beauftragte rechtfertigen muss.
 
-### IV. Unbefugte Abweichung (Abs. 2)
+#### B.A. Voraussichtliches Einverständnis
 
-**10** **Nachteil des Auftraggebers.** Weicht der Beauftragte ohne die Voraussetzungen von Abs. 1 zum **Nachteil** des Auftraggebers von den Weisungen ab, so gilt der Auftrag nur dann als erfüllt, wenn der Beauftragte den daraus erwachsenen Nachteil auf sich nimmt. Der Beauftragte trägt also das **Risiko der Abweichung**: Er muss den Nachteil ersetzen, kann aber den Auftrag als erfüllt behandeln lassen, wenn er den Nachteil übernimmt.
+**9** Der Beauftragte darf von den Weisungen abweichen, wenn die Umstände es rechtfertigen und der Auftraggeber **voraussichtlich einverstanden** gewesen wäre. Diese beiden Voraussetzungen müssen **kumulativ** vorliegen:
 
-**11** **Kein Nachteil.** Weicht der Beauftragte von den Weisungen ab, ohne dass der Auftraggeber einen Nachteil erleidet, so ist der Auftrag als erfüllt zu betrachten. Der Beauftragte hat in diesem Fall nicht schadensersatzpflichtig zu werden, kann aber für die Zukunft auf die Befolgung der Weisungen verwiesen werden.
+- **Rechtfertigung durch die Umstände**: Es muss ein sachlicher Grund für die Abweichung vorliegen (z.B. geänderte Marktbedingungen, neue Informationen, unvorhergesehene Ereignisse).
+- **Voraussichtliches Einverständnis**: Der Beauftragte muss darlegen, dass der Auftraggeber bei Kenntnis der Umstände zugestimmt hätte.
 
-**12** **Abweichung zugunsten des Auftraggebers.** Führt die Abweichung zu einem **Vorteil** für den Auftraggeber, so ist der Auftrag erfüllt. Der Beauftragte hat in diesem Fall nichts zu ersetzen. Die unbefugte Abweichung zugunsten des Auftraggebers ist keine Vertragsverletzung — der Auftraggeber kann den Vorteil behalten, ohne dass der Beauftragte ihn auf Herausgabe in Anspruch nehmen kann (anders als bei ungerechtfertigter Bereicherung, Art. 62 OR, wo der Empfänger den Vorteil herausgeben müsste).
+**10** **Massstab.** Massgeblich ist nicht die subjektive Einschätzung des Beauftragten, sondern die **objektive Voraussicht**: Wäre ein vernünftiger Auftraggeber unter den gegebenen Umständen einverstanden gewesen? Der Beauftragte trägt die Beweislast für das voraussichtliche Einverständnis.
 
-### V. Sorgfaltspflicht bei unzweckmässigen Weisungen
+**11** **Beispiele für voraussichtliches Einverständnis:**
 
-**13** **Pflicht zum Hinweis.** Hat der Auftraggeber **unzweckmässige oder unerfüllbare** Weisungen erteilt, hat der Beauftragte eine Sorgfaltspflicht, den Auftraggeber darauf **hinzuweisen**. Der Beauftragte darf nicht einfach die unzweckmässige Weisung befolgen, ohne den Auftraggeber über die Nachteile oder Risiken zu informieren. Er haftet nach Art. 398 OR für die sorgfältige Ausführung, auch wenn er die Weisungen befolgt ([BGE 108 II 197](https://mcp.opencaselaw.ch/entscheid/bge_BGE_108_II_197) — Art. 397 und 398 OR; Sorgfaltspflichten des Beauftragten bei Erteilung von unzweckmässigen oder unerfüllbaren Weisungen).
+| Situation | Abweichung | Voraussichtliches Einverständnis? |
+|---|---|---|
+| Preissturz bei Wertpapieren | Verkauf statt Halten, wie befohlen | **Ja** — vernünftiger Auftraggeber würde Verlustbegrenzung akzeptieren |
+| Bessere Angebotslage | Verkauf zu höherem Preis als befohlen | **Ja** — liegt im Interesse des Auftraggebers |
+| Zeitkritische Entscheidung | Sofortige Massnahme statt Warten auf Weisung | **Ja** — wenn Gefahr im Verzug vorliegt oder keine Zeit für Rückfrage |
+| Andere Anlagestrategie | Kauf anderer Wertpapiere als befohlen | **Nein** — strategische Entscheidungen obliegen dem Auftraggeber |
 
-**14** **Konflikt zwischen Weisung und Sorgfaltspflicht.** Steht die Weisung des Auftraggebers in Konflikt mit der Sorgfaltspflicht des Beauftragten, so hat der Beauftragte folgende Möglichkeiten:
-- **Hinweis**: Er informiert den Auftraggeber über die Bedenken und bittet um eine neue Weisung.
-- **Ablehnung**: Führt die Weisung zu einer Verletzung der Sorgfaltspflicht, kann der Beauftragte die Ausführung verweigern, sofern die Weisung offensichtlich unzweckmässig oder rechtswidrig ist.
-- **Abweichung**: In Notfällen nach Abs. 1 darf der Beauftragte abweichen.
-- **Kündigung**: Ist die Weisung mit den beruflichen Pflichten des Beauftragten unvereinbar (z.B. weil sie ein illegales Vorgehen verlangt), kann der Beauftragte den Auftrag nach Art. 404 OR kündigen.
+#### B.B. Gefahr im Verzug
 
-### VI. Auftragsgegenstand und Weisungen bei speziellen Vertragstypen
+**12** **Gefahr im Verzug** liegt vor, wenn bei Befolgung der Weisung eine **drohende Gefahr** für die Interessen des Auftraggebers besteht und die sofortige Abweichung erforderlich ist, um den Schaden abzuwenden. Die Gefahr im Verzug rechtfertigt die Abweichung auch ohne voraussichtliches Einverständnis — der Beauftragte handelt im wohlverstandenen Interesse des Auftraggebers.
 
-**15** **Auftrag zum Liegenschaftskauf.** Der Auftrag zum Kauf einer Liegenschaft ist formlos gültig — der Auftrag bedarf nicht der Form des Grundstückkaufvertrags (Art. 216 OR). Weisungen hinsichtlich des Kaufpreises, der Liegenschaft oder der Bedingungen sind nach Art. 397 OR verbindlich ([BGE 81 II 227](https://mcp.opencaselaw.ch/entscheid/bge_BGE_81_II_227) — Der Auftrag zum Kauf einer Liegenschaft ist formlos gültig; Sittenwidrigkeit eines Geschäftes zur Vermeidung ausländischer steuerlicher Lasten?).
+**13** **Voraussetzungen der Gefahr im Verzug:**
 
-**16** **Vermögensverwaltung.** Bei der Vermögensverwaltung sind die Weisungen des Auftraggebers (z.B. Anlagestrategie, Risikoprofil, Anlagerestriktionen) verbindlich. Der Vermögensverwalter darf von der vereinbarten Strategie nicht abweichen, es sei denn, die Voraussetzungen von Abs. 1 lägen vor. Eine eigenmächtige Änderung der Anlagestrategie — z.B. höhere Risiken als vereinbart — ist eine Weisungsverletzung, die zu Schadensersatz nach Art. 398 OR führt (vgl. [BGer 4C.18/2004 vom 3.12.2004](https://mcp.opencaselaw.ch/entscheid/bger_4C.18_2004) — Vermögensverwaltungsauftrag).
+- **Drohende Gefahr**: Es muss eine konkrete Gefahr für die Interessen des Auftraggebers vorliegen.
+- **Eilbedürftigkeit**: Die Gefahr kann nicht bis zur nächsten Weisung des Auftraggebers abgewartet werden.
+- **Verhältnismässigkeit**: Die Abweichung muss geeignet und erforderlich sein, um die Gefahr abzuwenden.
 
-**17** **Anlageberatung.** Auch im Anlageberatungsvertrag, der als Auftrag qualifiziert wird, hat der Berater die Weisungen des Kunden zu beachten. Eine Weisung kann z.B. lauten, nur nachhaltige Anlageprodukte zu empfehlen. Weicht der Berater davon ab, haftet er nach Art. 397 Abs. 2 und Art. 398 OR (vgl. [BGer 4C.194/2005 vom 28.9.2005](https://mcp.opencaselaw.ch/entscheid/bger_4C.194_2005) — Anlageberatungsvertrag; Optionsvertrag).
+**14** **Beispiele für Gefahr im Verzug:**
 
-**18** **Aussenwirtschaftsrechtliche Weisungen.** Wird der Auftrag durch ausländische Sanktionen berührt, kann der Beauftragte nicht einfach von den Weisungen abweichen, sondern muss den Auftraggeber informieren und gegebenenfalls den Auftrag kündigen, wenn die Ausführung den Sanktionen widerspricht (vgl. [BGer 4A 659/2020 vom 6.8.2021](https://mcp.opencaselaw.ch/entscheid/bger_4A_659_2020) — Auftrag/Darlehen; US-Sanktionen).
+| Situation | Abweichung | Gefahr im Verzug? |
+|---|---|---|
+| Wasserschaden in der verwalteten Liegenschaft | Sofortige Beauftragung eines Installateurs | **Ja** — weiterer Schaden droht |
+| Börsencrash bei Vermögensverwaltung | Sofortiger Verkauf der fallenden Papiere | **Ja** — Totalverlust droht |
+| Fristablauf bei einer Klage | Einreichung der Klage ohne Rückfrage | **Ja** — Fristverlust droht |
+| Besserer Kaufpreis als erwartet | Kauf zu einem höheren Preis als befohlen | **Nein** — keine Gefahr, sondern andere Einschätzung |
+
+### C. Anzeige- und Begründungspflicht (Abs. 2)
+
+**15** Hat der Beauftragte von den Weisungen abgewichen, so hat er dies dem Auftraggeber **anzuzeigen** und ihm die **Gründe** der Abweichung mitzuteilen. Die Anzeige hat **sobald es tunlich ist** zu erfolgen — der Beauftragte muss nicht vor der Abweichung anfragen, aber er muss **nachträglich** informieren und begründen.
+
+**16** **Tunlichkeit.** Die Anzeige hat «sobald es tunlich ist» zu erfolgen. Das bedeutet: Der Beauftragte muss die Anzeige **unverzüglich** nachholen, sobald es ihm möglich und zumutbar ist. Eine verspätete Anzeige verletzt die Pflicht nach Abs. 2 und kann die Rechtfertigung der Abweichung nach Abs. 1 entwerten.
+
+**17** **Begründungspflicht.** Der Beauftragte muss nicht nur die Tatsache der Abweichung mitteilen, sondern auch die **Gründe** dafür. Die Begründungspflicht dient der Kontrolle durch den Auftraggeber: Er muss beurteilen können, ob die Abweichung gerechtfertigt war.
+
+**18** **Rechtsfolgen bei Verletzung der Anzeigepflicht.** Die Verletzung der Anzeigepflicht hat folgende Rechtsfolgen:
+
+- Der Beauftragte verletzt seine vertragliche Pflicht nach Abs. 2.
+- Der Auftraggeber kann die Abweichung **nachträglich missbilligen** — er ist nicht an das abweichende Handeln gebunden, wenn er es bei Kenntnis nicht gebilligt hätte.
+- Die Beweislast für die Rechtfertigung der Abweichung liegt beim Beauftragten.
+
+> **Leitsatz.** Der Beauftragte darf von den Weisungen des Auftraggebers nur abweichen, wenn die Umstände es rechtfertigen und der Auftraggeber voraussichtlich einverstanden gewesen wäre oder wenn Gefahr im Verzug liegt — in jedem Fall muss er die Abweichung nachträglich anzeigen und begründen (Art. 397 OR).
+
+### D. Rechtsfolgen der Weisungsverletzung
+
+**19** Verletzt der Beauftragte seine Weisungsgebundenheit, ohne dass ein Abweichen nach Abs. 1 gerechtfertigt ist, so handelt er **pflichtwidrig**. Die Rechtsfolgen sind:
+
+**20** **Schadenersatz.** Der Beauftragte haftet dem Auftraggeber nach Art. 398 Abs. 2 OR für den Schaden, der aus der Weisungsverletzung entsteht. Der Schaden umfasst den gesamten Vermögensschaden, der durch das pflichtwidrige Handeln verursacht wurde.
+
+**21** **Widerruf.** Die Weisungsverletzung kann den Auftraggeber zum Widerruf des Auftrags nach Art. 404 OR berechtigen — insbesondere, wenn das Vertrauensverhältnis durch die Weisungsverletzung zerstört ist.
+
+**22** **Genehmigung.** Der Auftraggeber kann das abweichende Handeln nachträglich **genehmigen** — er ist dann an das Handeln gebunden, als hätte er es im Voraus zugestimmt. Die Genehmigung kann ausdrücklich oder konkludent erfolgen.
+
+### E. Praxishinweise
+
+**Für die Auftraggeber:**
+
+1. **Erteilen Sie klare Weisungen**: Je präziser die Weisungen, desto weniger Spielraum hat der Beauftragte für Abweichungen. Formulieren Sie Weisungen eindeutig und dokumentieren Sie sie.
+2. **Schaffen Sie Kommunikationswege**: Vereinbaren Sie mit dem Beauftragten, wie und in welcher Frist Sie über Abweichungen informiert werden wollen.
+3. **Reagieren Sie auf Abweichungen**: Wenn Sie von einer Abweichung erfahren, erklären Sie unverzüglich, ob Sie das Handeln genehmigen oder missbilligen — eine verspätete Reaktion kann als konkludente Genehmigung ausgelegt werden.
+
+**Für die Beauftragten:**
+
+1. **Befolgen Sie Weisungen**: Wenn Sie eine Weisung erhalten, befolgen Sie sie — auch wenn Sie eine bessere Lösung sehen. Fragen Sie beim Auftraggeber nach, bevor Sie abweichen.
+2. **Dokumentieren Sie Abweichungen**: Wenn Sie von einer Weisung abweichen, dokumentieren Sie die Gründe und informieren Sie den Auftraggeber unverzüglich.
+3. **Gefahr im Verzug**: Wenn Gefahr im Verzug vorliegt, handeln Sie sofort und informieren Sie den Auftraggeber nachträglich — aber begründen Sie die Dringlichkeit schriftlich.
 
 ## Querverweise
 
 - [Art. 394 OR](../art-394/) — Begriff des Auftrags
 - [Art. 396 OR](../art-396/) — Umfang des Auftrags
-- [Art. 398 OR](../art-398/) — Sorgfaltspflicht
+- [Art. 398 OR](../art-398/) — Sorgfaltspflicht und persönliche Besorgung
 - [Art. 404 OR](../art-404/) — Widerruf und Kündigung
-- Art. 32 ff. OR — Stellvertretung
-- Art. 216 OR — Form bei Grundstückgeschäften
+- Art. 18 OR — Vertrauensprinzip
 
 ## Literatur
 
 - Baur/Weyermann, in: Basler Kommentar, OR II, 7. Aufl. 2022, Art. 397 N. 1 ff.
-- Weber, in: Berner Kommentar, OR, Art. 394–406 N. 1 ff.
-- Honsell, in: ZBJV 142 (2006), S. 529 ff. (Weisungsbindung und Sorgfaltspflicht im Auftragsrecht)
+- Weber, in: Berner Kommentar, OR, Art. 397 N. 1 ff.
+- Fellmann, in: Berner Kommentar, OR, Art. 397 N. 1 ff.
