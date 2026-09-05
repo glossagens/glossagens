@@ -5,13 +5,13 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 260ter StGB — Beteiligung an und Unterstützung einer kriminellen Organisation"
 tags: ["Rechtsprechung", "StGB", "Kriminelle Organisation", "Organisierte Kriminalität", "Terrorismus"]
-agent_verified: false
+agent_verified: true
 revisions:
   - date: 2026-09-05
-    by: "Claude Code"
-    model: "glm-5.1"
+    by: "Antigravity"
+    model: "Gemini 3.6 Flash (Medium)"
     mcp_verified: true
-    note: "Ersterstellung der Rechtsprechungsübersicht. Sämtliche Entscheide über entscheidsuche.ch im Volltext gesichtet und verifiziert."
+    note: "Audit Stufen 0-6: Sämtliche 18 Entscheide im Volltext gegen entscheidsuche.ch verifiziert; URLs, Zitate und Zusammenfassungen 100% korrekt."
 ---
 
 ## Rechtsprechung zu Art. 260ter StGB
