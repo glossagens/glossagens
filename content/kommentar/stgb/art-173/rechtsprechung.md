@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 173 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: "2026-08-22"
+lastmod: "2026-09-05"
 description: "Übersicht der Entscheide zu Art. 173 StGB — üble Nachrede, Wahrheits- und Gutglaubensbeweis, Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit, Ehrverletzung im Prozess, Auskunftspersonen und Anzeigeerstatter."
 tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGer 6B_1270/2017, 6B_176/2013, 6B_30/2008, 6B 8/2014 verifiziert"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -82,7 +87,7 @@ Leitentscheid zu Art. 81 Abs. 1 lit. b BGG; Art. 426 Abs. 2, Art. 433 Abs. 1 lit
 
 Bundesgerichtsentscheid im Straftatenbereich, der die Praxis zu Art. 173 StGB (üble Nachrede) in einem konkreten Ehrverletzungsfall fortentwickelt. Relevant für die Einzelfallwürdigung ehrverletzender Tatsachenäusserungen und die Abgrenzung zulässiger Meinungsäusserung.
 
-→ [BGer 6B_1270/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_1270_2017)
+→ [BGer 6B_1270/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1270-2017_2018-04-24.html)
 
 ### BGer 6B_176/2013 — üble Nachrede
 
@@ -90,7 +95,7 @@ Bundesgerichtsentscheid im Straftatenbereich, der die Praxis zu Art. 173 StGB (�
 
 Bundesgerichtsentscheid zur üblen Nachrede. Ergänzt die Rechtsprechung zu den Voraussetzungen des Tatbestandes von Art. 173 StGB und zur Abgrenzung zulässiger Kritik von ehrverletzender Tatsachenäusserung.
 
-→ [BGer 6B_176/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_176_2013)
+→ [BGer 6B_176/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-176-2013_2013-05-13.html)
 
 ### BGer 6B_30/2008 — üble Nachrede
 
@@ -98,7 +103,7 @@ Bundesgerichtsentscheid zur üblen Nachrede. Ergänzt die Rechtsprechung zu den 
 
 Bundesgerichtsentscheid zur üblen Nachrede (Art. 173 StGB). Belegt die fortlaufende Praxis zu den Anforderungen an die Ehrverletzung und die Zulassung zum Wahrheits- bzw. Gutglaubensbeweis.
 
-→ [BGer 6B_30/2008](https://mcp.opencaselaw.ch/entscheid/bger_6B_30_2008)
+→ [BGer 6B_30/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-30-2008_2008-05-30.html)
 
 ### BGer 6B_8/2014 — Entlastungsbeweis bei übler Nachrede; Willkür
 
@@ -106,7 +111,7 @@ Bundesgerichtsentscheid zur üblen Nachrede (Art. 173 StGB). Belegt die fortlauf
 
 Bundesgerichtsentscheid zur üblen Nachrede, zum Entlastungsbeweis und zur Willkürrüge. Relevant für die verfahrensrechtlichen Anforderungen an den Beweis der guten Treue und der ernsthaften Gründe im Rahmen von Art. 173 Ziff. 2 StGB.
 
-→ [BGer 6B 8/2014](https://mcp.opencaselaw.ch/entscheid/bger_6B_8_2014)
+→ [BGer 6B 8/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-8-2014_2014-04-22.html)
 
 ### BGE 102 IV 176 — Ehrverletzung durch die Presse / Wahrheitsbeweis
 

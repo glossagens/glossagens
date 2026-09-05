@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 14 StGB"
 weight: 99
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: "2026-09-05"
 description: "Übersicht der Entscheide zu Art. 14 StGB — rechtmässiges Verhalten, Amtspflicht und Berufspflicht bei ehrverletzenden Äusserungen, polizeilicher Waffengebrauch und Nachfahrkontrolle, Wahrnehmung berechtigter Interessen im Prozess, Verhältnismässigkeit."
 tags: ["Rechtsprechung", "StGB", "Rechtfertigung", "Amtspflicht", "Berufspflicht", "Ehrverletzung", "Waffengebrauch", "Nachfahrkontrolle"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-09-05
+    by: "Claude Code"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; alle BGE- und BGer-Links verifiziert"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -56,7 +61,7 @@ Art. 5 Abs. 3 BV; Art. 116 Abs. 1 lit. a i.V.m. Abs. 2 AIG; Art. 17 StGB; Förde
 
 Üble Nachrede, Willkür, Entlastungsbeweis. Anwendung des Rechtfertigungsgrunds des Art. 14 StGB im Rahmen ehrverletzender Äusserungen; Grenzen des Entlastungsbeweises.
 
-→ [BGer 6B_584/2016](https://mcp.opencaselaw.ch/entscheid/bger_6B_584_2016)
+→ [BGer 6B_584/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-584-2016_2017-02-06.html)
 
 ## Weitere Entscheide
 
@@ -114,7 +119,7 @@ Art. 14 StGB. Waffengebrauch der Polizei. 1. Bei der Frage der Rechtfertigung du
 
 Üble Nachrede; Anwendung von Art. 14 StGB im Rahmen der Auseinandersetzung mit ehrverletzenden Äusserungen.
 
-→ [BGer 6B_118/2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_118_2015)
+→ [BGer 6B_118/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-118-2015_2015-07-16.html)
 
 ## Übersichtstabelle
 
