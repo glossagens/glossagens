@@ -8,6 +8,11 @@ tags: ["Rechtsprechung", "StGB", "Nötigung", "Schikanestopp", "Stalking", "Klim
 agent_verified: true
 revisions:
   - date: 2026-09-04
+    by: "Claude Code"
+    model: "claude-opus-5"
+    mcp_verified: true
+    note: "Ergänzung um BGE 101 IV 42 (relativer Massstab der Gewaltanwendung) und BS APG SB.2024.69 vom 04.12.2025 (Schubsen als Gewalt) im Zuge des Umbaus des Hauptkommentars auf das Merkmalsraster; beide im Volltext über entscheidsuche.ch geprüft."
+  - date: 2026-09-04
     by: "Antigravity"
     model: "gemini-3.8-flash"
     mcp_verified: true
@@ -101,3 +106,12 @@ revisions:
 - **Gericht / Instanz**: Kantonsgericht Basel-Landschaft, Abteilung Strafrecht
 - **Sachverhalt**: Vorwurf des dichten Auffahrens in einem nächtlichen Baustellenbereich bei Tempo 30 km/h; späteres Aussteigen und Schlagen an die Scheibe.
 - **Ergebnis / Kernaussage**: **Freispruch von der versuchten Nötigung bezüglich des Auffahrens** in Anwendung von *in dubio pro reo* mangels messbaren dichten Verharrens und mangels Nötigungserfolgs. Verurteilung wegen Drohung (Art. 180 StGB) für das spätere Schlagen an die Scheibe.
+### 14. [BGE 101 IV 42 vom 27. Januar 1975](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-101-IV-42_1975-01-27.html)
+- **Gericht / Instanz**: Bundesgericht, Kassationshof
+- **Sachverhalt**: Auseinandersetzung zwischen Eheleuten; der Ehemann versuchte seine Frau mit körperlicher Einwirkung zur Fortsetzung der Ehegemeinschaft zu bestimmen.
+- **Ergebnis / Kernaussage**: Grundsatzentscheid zum **Begriff und zur Rechtswidrigkeit der Gewaltanwendung** (E. 3a und b) sowie zum Vorsatz (E. 4). Welches Mass die Gewalteinwirkung erreichen muss, entscheidet sich **nicht nach absoluten, sondern nach relativen Kriterien**: Massgebend ist, ob Art und Intensität den freien Willen des konkreten Opfers zu brechen vermögen.
+
+### 15. [BS APG SB.2024.69 vom 4. Dezember 2025](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2024-69_2025-12-04.html)
+- **Gericht / Instanz**: Appellationsgericht des Kantons Basel-Stadt (AG.2026.39)
+- **Sachverhalt**: Drei Personen drangen — teilweise maskiert und mit Handschuhen — gegen den Willen der Geschädigten in deren Wohnung ein, um Hanfpflanzen zu holen; die Abmachung lautete, man werde die Geschädigte «in Schach halten». Die Geschädigte behändigte zur Verteidigung eine Metallstange und wurde geschubst.
+- **Ergebnis / Kernaussage**: **Nötigung bejaht (Mittäterschaft).** Ein Schubsen genügt als Gewalt im Sinne von Art. 181 StGB: «Die Intensität eines Schubsens mag nicht besonders hoch sein. Trotzdem stellt es eine physische Einwirkung auf den Körper eines anderen dar, was zur Annahme von Gewalt im Sinne des Tatbestands genügt.» Die Desinteresseerklärung der Geschädigten ist unerheblich (Offizialdelikt).
