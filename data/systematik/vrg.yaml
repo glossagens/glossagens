@@ -1,0 +1,64 @@
+gruppen:
+  - name: "Begriffsbestimmungen und Geltungsbereich"
+    von: 1
+    bis: 10
+  - name: "Allgemeine Verfahrensvorschriften — Behörden"
+    von: 11
+    bis: 16
+  - name: "Parteien"
+    von: 17
+    bis: 24
+  - name: "Allgemeine Verfahrensordnung — Formvorschriften"
+    von: 25
+    bis: 30
+  - name: "Fristen und Termine"
+    von: 31
+    bis: 36
+  - name: "Vorgehen der Behörde"
+    von: 37
+    bis: 45
+  - name: "Rechte und Pflichten der Parteien"
+    von: 46
+    bis: 52
+  - name: "Abklärung des Sachverhalts"
+    von: 53
+    bis: 105
+  - name: "Entscheid"
+    von: 106
+    bis: 116
+  - name: "Einsprache"
+    von: 117
+    bis: 122
+  - name: "Erläuterung und Ergänzung"
+    von: 123
+    bis: 126
+  - name: "Rechtsschutz — Rechtsmittelverfahren"
+    von: 127
+    bis: 141
+  - name: "Verwaltungsbeschwerde"
+    von: 142
+    bis: 147
+  - name: "Verwaltungsgerichtsbeschwerde"
+    von: 148
+    bis: 161
+  - name: "Verwaltungsgerichtliche Klage"
+    von: 162
+    bis: 173
+  - name: "Revision"
+    von: 174
+    bis: 179
+  - name: "Aufsichtsbeschwerde und aufsichtsrechtliche Anzeige"
+    von: 180
+    bis: 187a
+  - name: "Verwaltungsgerichtliche Prüfung von Erlassen"
+    von: 188
+    bis: 192
+  - name: "Verfahrenskosten"
+    von: 193
+    bis: 205a
+  - name: "Vollstreckung"
+    von: 206
+    bis: 218
+  - name: "Schlussbestimmungen"
+    von: 219
+    bis: 222
