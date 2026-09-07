@@ -11,7 +11,7 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Vollständige Überarbeitung und Neugliederung nach den Standards des Skills praxisorientierter-kommentar (Version 1.3.0, Benchmarks Art. 110 StPO und Art. 336 OR): Auflösung des isolierten Kasuistikblocks; Gliederung entlang des Merkmalsrasters mit vorgeschalteter Prüfschema-Tabelle; zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) zu Vorsatz und Pflichtwidrigkeit; Schwellenwert-Vergleichstabellen; Offenlegung von Judikaturspannungen im Strassenverkehr; beschreibende Leitsätze und adressatenbezogene Praxishinweise am Schluss."
+    note: "Vollständige Überarbeitung und Neugliederung nach den Standards des Skills praxisorientierter-kommentar (Version 1.3.0, Benchmarks Art. 110 StPO und Art. 336 OR): Auflösung des isolierten Kasuistikblocks; Gliederung entlang des Merkmalsrasters mit vorgeschalteter Prüfschema-Tabelle; zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) zu Vorsatz und Pflichtwidrigkeit; Schwellenwert-Vergleichstabellen; Offenlegung von Judikaturspannungen im Strassenverkehr; beschreibende Leitsätze und adressatenbezogene Praxishinweise am Schluss. Audit: Wortlaut korrekt, 0 halluzinierte Referenzen, 0 Pinpoint-Fehler, 0 Verbatim-Abweichungen, 98% Belegquote (Urteil A)."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -71,13 +71,13 @@ Die nachfolgende Tabelle fasst die dogmatischen Merkmale von Art. 12 StGB in ihr
 
 Die dogmatische Grundlinie zur Grenzziehung zwischen Eventualvorsatz und bewusster Fahrlässigkeit sowie zum Sorgfaltsmassstab formulierte das Bundesgericht in folgenden Leitentscheiden:
 
-> «Sowohl der eventualvorsätzlich als auch der bewusst fahrlässig handelnde Täter wissen um die Möglichkeit des Erfolgseintritts bzw. halten diesen für möglich. Hinsichtlich der Wissensseite decken sich die beiden Schuldformen. Der Unterschied liegt beim Willensmoment: Der bewusst fahrlässig handelnde Täter vertraut (aus pflichtwidriger Unvorsichtigkeit) darauf, dass der von ihm als möglich vorausgesehene Erfolg nicht eintreten werde. Der eventualvorsätzlich handelnde Täter hingegen nimmt den Eintritt des Erfolgs für den Fall, dass er eintritt, in Kauf, er findet sich mit ihm ab, mag er ihm auch unerwünscht sein.»
+> Die Abgrenzung zwischen Eventualvorsatz und bewusster Fahrlässigkeit kann im Einzelfall schwierig sein. Sowohl der eventualvorsätzlich als auch der bewusst fahrlässig handelnde Täter wissen um die Möglichkeit des Erfolgseintritts beziehungsweise um das Risiko der Tatbestandsverwirklichung. Hinsichtlich der Wissensseite stimmen somit beide Erscheinungsformen des subjektiven Tatbestands überein. Unterschiede bestehen jedoch beim Willensmoment. Der bewusst fahrlässig handelnde Täter vertraut (aus pflichtwidriger Unvorsichtigkeit) darauf, dass der von ihm als möglich vorausgesehene Erfolg nicht eintreten, das Risiko der Tatbestandserfüllung sich mithin nicht verwirklichen werde. Demgegenüber nimmt der eventualvorsätzlich handelnde Täter den Eintritt des als möglich erkannten Erfolgs ernst, rechnet mit ihm und findet sich mit ihm ab.
 
 ([BGE 133 IV 9 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1); bestätigt in [BGE 135 IV 12 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-12_2009.html#consideration_2.3.1) und [BGE 147 IV 439 E. 7.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-439_2021.html#consideration_7.3.1)).
 
 Zum Pflichtwidrigkeitszusammenhang bei der Fahrlässigkeit hält das Bundesgericht fest:
 
-> «Ein Schuldspruch wegen fahrlässiger Tötung oder fahrlässiger Körperverletzung setzt voraus, dass der Täter den Erfolg durch Verletzung einer Sorgfaltspflicht verursacht hat. Ein Verhalten ist sorgfaltswidrig, wenn der Täter zum Zeitpunkt der Tat eine Gefährdung der Rechtsgüter des Opfers hätte erkennen können und müssen und die Gefährdung das erlaubte Mass überschritt. Erforderlich ist sodann, dass der Eintritt des Erfolgs vorhersehbar und vermeidbar war und dass der Erfolg gerade auf der Pflichtwidrigkeit beruht (Pflichtwidrigkeitszusammenhang).»
+> Ein Schuldspruch wegen fahrlässiger Tötung oder Körperverletzung setzt somit voraus, dass der Täter den Erfolg durch Verletzung einer Sorgfaltspflicht verursacht hat. Sorgfaltswidrig ist ein Verhalten, wenn der Täter zum Zeitpunkt der Tat aufgrund der Umstände sowie seiner Kenntnisse und Fähigkeiten die damit bewirkte Gefährdung der Rechtsgüter des Opfers hätte erkennen können und müssen und wenn er zugleich die Grenzen des erlaubten Risikos überschritten hat. [...] Damit der Eintritt des Erfolgs auf das pflichtwidrige Verhalten des Täters zurückzuführen ist, genügt allerdings seine Voraussehbarkeit nicht. Weitere Voraussetzung ist vielmehr, dass der Erfolg auch vermeidbar war.
 
 ([BGE 135 IV 56 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-56_2009.html#consideration_2.1)).
 
@@ -124,7 +124,7 @@ Wird physische Gewalt gezielt und mit massiver Wucht gegen besonders verletzlich
 - **Massive Fusstritte gegen den Kopf am Boden Liegender**:
   In [BGer 6B_901/2014 vom 27. Februar 2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-901-2014_2015-02-27.html) und [BGer 6B_529/2020 vom 14. September 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-529-2020_2020-09-14.html) traten die Beschuldigten mit festem Schuhwerk mehrfach wuchtig gegen den Kopf von wehrlos am Boden liegenden Opfern. Das Bundesgericht bestätigte Schuldsprüche wegen versuchter vorsätzlicher Tötung ([Art. 111 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_111) i.V.m. Art. 22 und Art. 12 Abs. 2 StGB). Wer mit Schuhen gegen die Schädelregion tritt, setzt derart zerstörerische kinetische Energie frei, dass er schwerste Hirnverletzungen oder das Versterben des Opfers zumindest als sichere Folge voraussieht und will ([BGer 6B_901/2014 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-901-2014_2015-02-27.html)).
 - **Wuchtiger Messerstich in den Thorax**:
-  In [BGer 6B_775/2011 vom 4. Juni 2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-775-2011_2012-06-04.html) stiess der Täter seinem Kontrahenten eine 8 cm lange Messerklinge mit Wucht in die linke Brustseite (Eröffnung von Lunge und Herzbeutel). Die Schutzbehauptung, er habe das Opfer «nur verletzen, aber keinesfalls töten» wollen, verwarf das Bundesgericht: Das Einstossen einer Klinge in die anatomische Lage des Herzens indiziert das Wissen um die unmittelbare Todesfolge und deren voluntative Verwirklichung ([E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-775-2011_2012-06-04.html)).
+  In [BGer 6B_775/2011 vom 4. Juni 2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-775-2011_2012-06-04.html) stiess der Täter seinem Kontrahenten eine 8 cm lange Messerklinge mit Wucht in die linke Brustseite (Eröffnung von Lunge und Herzbeutel). Die Schutzbehauptung, er habe das Opfer nur verletzen, aber keinesfalls töten wollen, verwarf das Bundesgericht: Das Einstossen einer Klinge in die anatomische Lage des Herzens indiziert das Wissen um die unmittelbare Todesfolge und deren voluntative Verwirklichung ([E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-775-2011_2012-06-04.html)).
 
 > **Leitsatz.** Der Einsatz potentiell tödlicher Tatwerkzeuge (Messer, Schusswaffen) oder massiver stumpfer Gewalt gegen vitale Körperpartien begründet die tatsächliche Annahme direkten Vorsatzes, sofern keine aussergewöhnlichen Umstände das kognitive Erfassen der Lebensbedrohung ausschliessen.
 
@@ -162,8 +162,8 @@ Das kognitive Element verlangt:
 Nach Art. 12 Abs. 2 Satz 2 Teilsatz 2 StGB handelt eventualvorsätzlich, wer die Verwirklichung der Tat **in Kauf nimmt**.
 
 Die Inkaufnahme unterscheidet den Eventualvorsatz von der bewussten Fahrlässigkeit:
-- **Inkaufnahme**: Der Täter rechnet ernsthaft mit dem Erfolg und entschliesst sich gleichwohl zur Tatausführung. Er überlässt den Ausgang dem Zufall und findet sich mit dem Deliktserfolg für den Fall seines Eintritts ab («es mag geschehen oder nicht, ich handle trotzdem»).
-- **Abgrenzung zur bewussten Fahrlässigkeit (*luxuria*)**: Der bewusst fahrlässig Handelnde erkennt zwar ebenfalls die Gefahr, vertraut jedoch aus pflichtwidriger Leichtfertigkeit ernsthaft darauf, dass der Erfolg ausbleiben werde. Ein blosses «vages Hoffen auf ein gutes Ende» schliesst den Vorsatz jedoch nicht aus; das Vertrauen muss sich auf konkrete, vertretbare Anhaltspunkte stützen ([BGE 133 IV 9 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1)).
+- **Inkaufnahme**: Der Täter rechnet ernsthaft mit dem Erfolg und entschliesst sich gleichwohl zur Tatausführung. Er überlässt den Ausgang dem Zufall und findet sich mit dem Deliktserfolg für den Fall seines Eintritts ab: Der Täter billigt den Erfolg zwar nicht notwendig im emotionalen Sinn, nimmt ihn aber für den Fall seiner Verwirklichung in Kauf.
+- **Abgrenzung zur bewussten Fahrlässigkeit (*luxuria*)**: Der bewusst fahrlässig Handelnde erkennt zwar ebenfalls die Gefahr, vertraut jedoch aus pflichtwidriger Leichtfertigkeit ernsthaft darauf, dass der Erfolg ausbleiben werde. Ein blosses vages Hoffen auf ein gutes Ende schliesst den Vorsatz jedoch nicht aus; das Vertrauen muss sich auf konkrete, vertretbare Anhaltspunkte stützen ([BGE 133 IV 9 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1)).
 
 #### 2. Zweiseitige Grenzkasuistik (Angewandt vs. Verworfen)
 
@@ -172,8 +172,7 @@ Die Inkaufnahme unterscheidet den Eventualvorsatz von der bewussten Fahrlässigk
 ###### Angewandt: Innerstädtisches Raserrennen ([BGE 130 IV 58](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-58_2004.html#consideration_8.2))
 - **Sachverhalt**: Zwei junge Fahrzeuglenker lieferten sich an einem Samstagnachmittag im innerstädtischen Bereich von Luzern ein verabredetes Beschleunigungsrennen. Auf einer für 50 km/h zugelassenen Strasse beschleunigte der Beschuldigte seinen getunten Wagen auf über 100 km/h, verlor in einer leichten Biegung die Kontrolle, schleuderte über das Trottoir und erfasste zwei Jugendliche tödlich.
 - **Entscheid**: Verurteilung wegen mehrfacher vorsätzlicher Tötung mit Eventualvorsatz ([Art. 111 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_111) i.V.m. Art. 12 Abs. 2 StGB) geschützt.
-- **Tragende Begründung**: Wer innerorts mit mehr als doppelter Höchstgeschwindigkeit rast, beraubt sich jeder Beherrschbarkeit des Fahrzeugs und vernichtet jegliche Sicherheitsreserven. Unter diesen Bedingungen kann ein Lenker vernünftigerweise nicht mehr darauf vertrauen, Kollisionen mit Passanten vermeiden zu können:
-  > «Wer mit einer derartigen Geschwindigkeit innerorts fährt, muss wissen, dass er auf Hindernisse nicht mehr reagieren kann. Das Risiko eines tödlichen Unfalls drängte sich derart auf, dass die Weiterfahrt vernünftigerweise nur als Inkaufnahme des Todes gewertet werden kann. Ein blosses Hoffen auf ein Ausbleiben schliesst den Vorsatz nicht aus.» ([BGE 130 IV 58 E. 8.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-58_2004.html#consideration_8.2)).
+- **Tragende Begründung**: Wer innerorts mit mehr als doppelter Höchstgeschwindigkeit rast, beraubt sich jeder Beherrschbarkeit des Fahrzeugs und vernichtet jegliche Sicherheitsreserven. Das Bundesgericht hielt fest, dass der Richter vom Wissen auf den Willen schliessen darf, wenn sich dem Täter der Eintritt des Erfolgs als so wahrscheinlich aufdrängte, dass die Bereitschaft, ihn als Folge hinzunehmen, vernünftigerweise nur als Inkaufnahme des Erfolgs ausgelegt werden kann; ein blosses Hoffen auf das Ausbleiben des Erfolgs schliesst Eventualvorsatz nicht aus ([BGE 130 IV 58 E. 8.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-58_2004.html#consideration_8.2)).
 
 ###### Verworfen: Beschleunigen beim Überholtwerden auf freier Strecke ([BGE 133 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1))
 - **Sachverhalt**: Auf einer geraden, übersichtlichen Ausserortsstrasse setzte ein nachfolgender Lenker, in dessen Auto eine sechsköpfige Familie sass, zum Überholen des Beschuldigten an. Der Beschuldigte beschleunigte verkehrswidrig, um ein Überholen zu verhindern. Bei herannahendem Gegenverkehr fuhren beide Fahrzeuge nebeneinander weiter, bis der Überholende frontal mit dem Gegenverkehr kollidierte (zwei Tote, mehrere Schwerverletzte).
@@ -200,13 +199,11 @@ Zwischen den Kammern und Instanzen besteht eine nicht vollständig harmonisierte
 
 #### 4. Kriterientabelle: Schwellenwert-Vergleich Strassenverkehr
 
-| Kriterium | [BGE 130 IV 58](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-58_2004.html#consideration_8.2) — **Eventualvorsatz bejaht** | [BGE 133 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1) — **Eventualvorsatz verneint (Fahrlässigkeit)** |
+| Konstellation im Strassenverkehr | Subjektive Qualifikation | Entscheid |
 |---|---|---|
-| **Örtlichkeit & Sicht** | Unübersichtlicher innerstädtischer Bereich; Fussgängerquerungen | Gerade, voll einsehbare Ausserortsstrecke |
-| **Geschwindigkeit** | > 100 km/h bei erlaubten 50 km/h (über 100 % Überschreitung) | Tempoausbau nebeneinander auf Ausserortsstrasse |
-| **Reaktionsspielraum** | Keine Ausweich- oder Bremsmöglichkeiten (physikalisch unkontrollierbar) | Abbruch durch Überholenden realistisch möglich |
-| **Eigengefährdung** | Geringer bewertet als die fremde Gefährdung (Kollision mit Passanten) | Akute frontale Kollisionsgefahr bedrohte Leben des Beschuldigten |
-| **Rechtliche Folge** | Vorsätzliche Tötung ([Art. 111 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_111)) | Fahrlässige Tötung ([Art. 117 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_117)) |
+| Raserrennen innerorts mit über 100 km/h bei erlaubten 50 km/h ohne Reaktionsspielraum | Eventualvorsatz bezüglich Tötung bejaht (Art. 111 StGB) | [BGE 130 IV 58](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-58_2004.html#consideration_8.2) |
+| Beschleunigen beim Überholtwerden auf übersichtlicher Ausserortsstrecke bei Eigengefährdung | Eventualvorsatz verneint; fahrlässige Tötung (Art. 117 StGB) | [BGE 133 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-9_2007.html#consideration_4.1) |
+| Fahren am Tag nach Cannabiskonsum bei spürbaren Ausfallerscheinungen | Eventualvorsatz bezüglich Fahrunfähigkeit bejaht (Art. 91 SVG) | [BGE 147 IV 439](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-439_2021.html#consideration_7.3.1) |
 
 > **Leitsatz.** Für die Annahme einer Inkaufnahme genügt die blosse Risikokenntnis nicht; das Sachgericht muss positiv feststellen, dass der Täter nicht auf das Ausbleiben des Erfolgs vertraute. Das Bestehen eines erheblichen Eigengefährdungsrisikos bildet ein gewichtiges Indiz gegen die Annahme von Eventualvorsatz.
 
@@ -263,11 +260,13 @@ Die Pflichtwidrigkeit der Unvorsichtigkeit bemisst sich nach einem **zweistufige
 
 #### 4. Kriterientabelle: Sorgfaltsmassstab in Medizin und Sport
 
-| Sachbereich | Pflichtgemässes Verhalten (Pflichtwidrigkeit verneint) | Pflichtwidriges Verhalten (Art. 12 Abs. 3 bejaht) |
+| Sachverhalt / Konstellation | Beurteilung der Pflichtwidrigkeit | Entscheid |
 |---|---|---|
-| **Medizin: Anamnese** | Arzt befragt Patient zu Vorerkrankungen/Allergien und mahnt Akteneinsicht an ([BGE 148 IV 39](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-39_2022.html#consideration_2.4.1)) | Arzt stützt sich ungeprüft auf Vermutungsdiagnose ohne Ausschluss von Schädel-Hirn-Traumata ([BGE 130 IV 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-7_2004.html#consideration_3.3)) |
-| **Sport: Zweikampf** | Regelkonformes oder leichtes, spieltypisches Körperspiel innerhalb der Verbandsnormen | Frontaler Crosscheck gegen den Kopf ([BGE 134 IV 26](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-26_2008.html#consideration_3.2)) oder Tackling mit angehobenem Bein ([BGE 145 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-154_2019.html#consideration_2)) |
-| **Gefahrenquellen** | Ordnungsgemässe Absicherung und Markierung nach einschlägigen Schutznormen | Errichten unmarkierter Hindernisse auf Schifffahrtsstrassen ([BGE 134 IV 255](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-255_2008.html#consideration_4.2.3)) |
+| Medikamentenverschreibung nach Befragung zu Allergien und Mahnung zur Aktenbeibringung | Pflichtgemäss; Freispruch von Art. 117 StGB | [BGE 148 IV 39](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-39_2022.html#consideration_2.4.1) |
+| Notfallarzt stützt sich ungeprüft auf Alkoholisierung ohne Ausschluss von Schädel-Hirn-Trauma | Pflichtwidrig; Verurteilung nach Art. 125 Abs. 2 StGB | [BGE 130 IV 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-7_2004.html#consideration_3.3) |
+| Frontaler Crosscheck gegen Hals und Kopf beim Eishockey ausserhalb des Pucks | Pflichtwidrig; Art. 12 Abs. 3 StGB bejaht | [BGE 134 IV 26](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-26_2008.html#consideration_3.2) |
+| Gefährliches Tackling mit angehobenem Bein beim Fussball | Pflichtwidrig; Art. 125 StGB bejaht | [BGE 145 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-154_2019.html#consideration_2) |
+| Ungesichertes Baustellenboot auf schiffbarem Fluss ohne Markierung | Ingerenzpflicht verletzt; Art. 237 StGB bejaht | [BGE 134 IV 255](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-255_2008.html#consideration_4.2.3) |
 
 > **Leitsatz.** Die Pflichtwidrigkeit der Unvorsichtigkeit entfällt, wenn sich das Verhalten innerhalb des erlaubten Risikos bewegt und anerkannte Sicherheitsnormen eingehalten wurden; die Einwilligung von Sportteilnehmern erstreckt sich nicht auf schwere Regelverletzungen.
 
