@@ -302,3 +302,11 @@ In den kantonalen Gerichten (insb. Obergericht Aargau und Zürich) führte die s
 1. **Getrennte Schuldsprüche fällen**: Bei gleichzeitigem Handel und Eigenkonsum ist im Dispositiv zwingend separat auf Art. 19 und Art. 19a BetmG zu erkennen ([BGE 110 IV 99](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-110-IV-99_1984-10-26.html)).
 2. **Ermessensausübung bei Abs. 3 begründen**: Die Anwendung oder Verweigerung der Strafmilderung nach Art. 19 Abs. 3 BetmG ist nachvollziehbar darzulegen, insbesondere unter Würdigung der Gutachten zur Drogenabhängigkeit.
 3. **Härtefallabwägung bei Landesverweisung**: Liegt ein Verbrechen nach Abs. 2 vor, ist Art. 66a Abs. 2 StGB von Amtes wegen zu prüfen und eine Verhältnismässigkeitsprüfung unter Einbezug von Art. 8 EMRK durchzuführen.
+
+---
+
+## Weiterführende Dokumente zu Art. 19 BetmG
+
+* [Rechtsprechung zu Art. 19 BetmG](rechtsprechung/): Ausführliche Übersicht von 12 Leitentscheiden des Bundesgerichts und kantonaler Gerichte mit Abstracts und Volltextlinks.
+* [Strafzumessungskommentar zu Art. 19 BetmG](strafzumessung/): Empirische Volltextauswertung von 16 Referenz- und Berufungsentscheiden (18 belegte Täter-Strafzumessungen) mit Einsatzstrafen (9 bis 120 Monate), bezifferten Asperationszuschlägen und Dispositiv-Gegenproben.
+
