@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 12 StGB"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-29
+lastmod: 2026-09-07
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 12 StGB — Vorsatz, Eventualvorsatz, Fahrlässigkeit, Sorgfaltsmassstab, hypothetische Kausalität und Sachverhaltskasuistik."
 tags: ["Rechtsprechung", "StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Allgemeiner Teil", "Kasuistik"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-09-07
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Harmonisierung mit dem Neuentwurf des Hauptkommentars nach den Standards des Skills praxisorientierter-kommentar (Prüfung der Fundstellen und Erwägungsanker auf entscheidsuche.ch)."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -181,4 +186,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 29. August 2026*
+*Letzte Aktualisierung: 7. September 2026*
