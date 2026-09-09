@@ -1,169 +1,123 @@
 ---
 title: "Rechtsprechung zu Art. 310 StPO"
-weight: 310
-date: 2026-05-24
-lastmod: "2026-08-13"
-description: "Leading Cases und systematische Rechtsprechung zu Art. 310 StPO (Nichtanhandnahmeverfügung)"
-tags: ["Nichtanhandnahme", "Eindeutigkeitsgebot", "in dubio pro duriore", "Beschwerdelegitimation", "Privatklägerschaft", "Wiederaufnahme", "Strafantrag"]
+weight: 99
+date: 2026-03-30
+lastmod: 2026-09-09
+description: "Systematische Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): In dubio pro duriore, Vorabklärungen, Parteirechte, Kosten und Wiederaufnahme."
+tags: ["Rechtsprechung", "StPO", "Nichtanhandnahme", "In dubio pro duriore", "Wiederaufnahme", "Beschwerde"]
 agent_verified: true
 ---
 
-## Eindeutigkeitsgebot und in dubio pro duriore
+## I. Leitentscheide des Bundesgerichts
 
-### BGE 137 IV 285 — 7. Juli 2011
-
-**Nichtanhandnahme nur in sachverhaltsmässig und rechtlich klaren Fällen**
-
-Die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO darf nur in sachverhaltsmässig und rechtlich **klaren Fällen** ergehen. Bestehen auch nur geringe Zweifel, ob ein Straftatbestand erfüllt ist, ist zwingend eine Strafuntersuchung zu eröffnen. Erfordert die Entscheidung über die Sorgfaltspflichtverletzung detailliertere Sachverhaltsabklärungen, besteht kein Raum für eine Nichtanhandnahmeverfügung.
-→ [E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_285#e-2-3)
-
-### BGer 6B 537/2019 — 1. Juli 2019
-
-**In dubio pro duriore: im Zweifel Eröffnung**
-
-Die Frage, ob die Strafverfolgungsbehörde ein Strafverfahren durch Nichtanhandnahme erledigen kann, beurteilt sich nach dem aus dem strafprozessualen Legalitätsprinzip abgeleiteten Grundsatz *in dubio pro duriore* (Art. 5 Abs. 1 BV und Art. 2 Abs. 1 StPO i.V.m. Art. 319 Abs. 1 und Art. 324 Abs. 1 StPO). Danach darf die Nichtanhandnahme gestützt auf Art. 310 Abs. 1 lit. a StPO **nur in sachverhaltsmässig und rechtlich klaren Fällen** ergehen — bei offensichtlicher Straflosigkeit, wenn der Sachverhalt mit Sicherheit nicht unter einen Straftatbestand fällt, oder bei eindeutig fehlenden Prozessvoraussetzungen. **Im Zweifelsfall muss das Verfahren eröffnet werden.**
-→ [E. 3](https://mcp.opencaselaw.ch/entscheid/bger_6B_537_2019)
-
-### BGer 6B 160/2021 — 11. Januar 2022
-
-**Willkürprüfung bei «klarer Beweislage»**
-
-Nach der Rechtsprechung richtet sich der Entscheid über die Anhandnahme oder Einstellung nach dem Grundsatz *in dubio pro duriore*. Dieser fliesst aus dem Legalitätsprinzip. Er bedeutet, dass eine Einstellung — oder Nichtanhandnahme — durch die Staatsanwaltschaft **grundsätzlich nur bei klarer Straflosigkeit** bzw. offensichtlich fehlenden Prozessvoraussetzungen angeordnet werden darf. Die Staatsanwaltschaft und die kantonalen Instanzen verfügen über einen gewissen **Ermessensspielraum**, den das Bundesgericht mit Zurückhaltung überprüft. Geprüft wird nur, ob die Vorinstanz willkürlich von einer «klaren Beweislage» ausging.
-→ [E. 2.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_160_2021)
-
-### BGE 137 IV 219 — 31. August 2011
-
-**In dubio pro duriore als Leitentscheid**
-
-Bei der Frage, ob ein Strafverfahren über eine Einstellung erledigt werden kann, gilt der Grundsatz *in dubio pro duriore*. Eine Einstellung durch die Staatsanwaltschaft darf **nur bei klarer Straflosigkeit** bzw. offensichtlich fehlenden Prozessvoraussetzungen verfügt werden. Da eine Nichtanhandnahme nur bei klarer Straflosigkeit verfügt werden darf, gilt dies erst recht für die Verweigerung einer Ermächtigung zur Strafverfolgung.
-→ [E. 7.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_219#e-7-1)
-
-## Beschwerdelegitimation
-
-### BGer 7B_541/2025 — 12. November 2025
-
-**Parteibegriff bei Nichtanhandnahme**
-
-Gegen Verfügungen der Staatsanwaltschaft, so auch gegen die Nichtanhandnahme, ist die Beschwerde an die Beschwerdeinstanz zulässig (Art. 393 Abs. 1 lit. a StPO i.V.m. Art. 310 Abs. 2 und Art. 322 Abs. 2 StPO). Die Legitimation richtet sich nach Art. 382 Abs. 1 StPO: Jede Partei mit rechtlich geschütztem Interesse.
-
-Unter den Begriff der Partei fallen nach Art. 104 Abs. 1 StPO namentlich die beschuldigte Person und die Privatklägerschaft, die sich rechtzeitig konstituiert hat (Art. 118 Abs. 1 StPO). Erforderlich ist bei allen Parteien, dass sie ein **rechtlich geschütztes Interesse** an der Aufhebung oder Änderung aufweisen (Art. 382 Abs. 1 StPO).
-→ [E. 2.2.1 und E. 2.2.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_541_2025)
-
-### BGer 7B_1019/2024 — 19. November 2024
-
-**Strenge Anforderungen an die Legitimation vor Bundesgericht**
-
-Die Privatklägerschaft ist zur Beschwerde in Strafsachen nur berechtigt, wenn der angefochtene Entscheid sich auf die Beurteilung ihrer **Zivilansprüche** auswirken kann (Art. 81 Abs. 1 lit. b Ziff. 5 BGG). Die Rechtsprechung stellt **strenge Anforderungen** an die Begründung der Legitimation, insbesondere wenn sich die Beschwerde gegen die Nichtanhandnahme oder Einstellung richtet. Gleiches gilt für Beschwerden gegen Entscheide über die Abweisung eines Gesuchs um Wiederaufnahme nach Art. 323 StPO.
-→ [E. 3](https://mcp.opencaselaw.ch/entscheid/bger_7B_1019_2024)
-
-### BGE 141 IV 1 — 5. Januar 2015
-
-**Beschwerdelegitimation bei Einstellung/Nichtanhandnahme**
-
-Die Privatklägerschaft hat ein rechtlich geschütztes Interesse, wenn sich der angefochtene Entscheid auf die Beurteilung ihrer Zivilansprüche auswirken kann (Art. 81 Abs. 1 lit. b Ziff. 5 BGG). Strenge Anforderungen an die Begründung, insbesondere bei Beschwerden gegen Nichtanhandnahme oder Einstellung.
-→ [E. 1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_1#e-1-1)
-
-### BGE 129 IV 206 — 16. September 2002
-
-**Strafantragsrecht allein genügt nicht**
-
-Allein ein Strafantragsrecht nach Art. 81 Abs. 1 lit. b Ziff. 6 BGG ermächtigt nur zur Rüge der Verletzung des Strafantragsrechts als solchem, **nicht aber** zur Anfechtung des Einstellungs- oder Nichteintretensentscheids in der Sache selbst.
-→ [E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_IV_206)
-
-### BGE 141 IV 380 — 15. Dezember 2015
-
-**Erbengemeinschaft: einzelner Erbe beschwerdelegitimiert**
-
-Das Strafantragsrecht ist höchstpersönlich. Ein einzelner Erbe ist zur Beschwerde legitimiert, soweit sein Strafantragsrecht reicht. Die Beschwerdelegitimation der Privatklägerschaft bei Nichtanhandnahme richtet sich nach Art. 81 Abs. 1 lit. b Ziff. 5 BGG.
-→ [E. 2.3.4 und E. 2.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_380#e-2-3-4)
-
-## Wiederaufnahme nach Nichtanhandnahme
-
-### BGE 141 IV 194 — 30. April 2015
-
-**Geringere Wiederaufnahmeanforderungen bei Nichtanhandnahme**
-
-Die Voraussetzungen für die Verfahrenswiederaufnahme nach Art. 323 Abs. 1 StPO finden aufgrund des Verweises in Art. 310 Abs. 2 StPO auch auf durch Nichtanhandnahme erledigte Strafverfahren Anwendung, jedoch mit **geringeren Anforderungen** als nach einer Einstellung — es gelten geringere Anforderungen an die Neuheit von Tatsachen und Beweismitteln.
-→ [E. 2.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_194#e-2-3)
-
-### BGE 144 IV 81 — 26. Januar 2018
-
-**Wiederaufnahme kommt Verfahrenseröffnung gleich — keine Beschwerde**
-
-Beabsichtigt die Staatsanwaltschaft, nach einer Nichtanhandnahmeverfügung gemäss Art. 310 Abs. 1 lit. a StPO auf diese zurückzukommen, kommt die Wiederaufnahmeverfügung der Eröffnung der Untersuchung gemäss Art. 309 StPO gleich. Art. 309 Abs. 3 Satz 3 StPO (Unanfechtbarkeit der Verfahrenseröffnung) gilt analog. Die hiergegen gerichtete Beschwerde ist **unzulässig**.
-→ [E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_81#e-2-3-2)
-
-### BGer 6B 787/2020 — 21. Juli 2021
-
-**Sperrwirkung (ne bis in idem) bei Wiederaufnahme**
-
-Die Staatsanwaltschaft argumentiert, die Voraussetzungen für eine Wiederaufnahme nach Art. 323 StPO seien nicht gegeben und es bestehe die Sperrwirkung von Art. 11 StPO (Grundsatz *ne bis in idem*). Als Parteien i.S.v. Art. 322 Abs. 2 StPO gelten die beschuldigte Person und die Privatklägerschaft, nicht jedoch allfällige Mitbeschuldigte.
-→ [E. 2.1 und E. 2.3.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_787_2020)
-
-## Strafantragsauslegung
-
-### BGE 147 IV 199 — 22. Juni 2021
-
-**Umfassender Verfolgungswille aus Gesamtkontext**
-
-Die Ermittlung des Inhalts eines Strafantrags erfolgt nach den allgemeinen Grundsätzen für die Auslegung rechtserheblicher Erklärungen. Der auf die Strafverfolgung gerichtete Wille kann sich auch aus den Umständen ergeben.
-→ [E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_199#e-1-3)
-
-### BGer 7B_569/2025 — 25. Juni 2025
-
-**Nicht übermässig formalistische Auslegung des Strafantrags**
-
-In der Strafanzeige wiedergegebene ehrverletzende Äusserungen samt Beantragung der Strafverfolgung können auch ohne ausdrückliche Nennung der Verfasser einen gültigen Strafantrag darstellen, sofern der Verfolgungswille zweifelsfrei erkennbar ist. Bei tatbestandsmässigen Ehrendefikten darf die Auslegung des Strafantrags **nicht übermässig formalistisch** erfolgen — der Wille zur Strafverfolgung aller Beteiligten kann sich aus dem Gesamtzusammenhang der Anzeige ergeben.
-→ [E. 4.4.2–4.4.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_569_2025)
-
-## Rechtshilfe und Informationsübermittlung
-
-### BGE 140 IV 123 — 22. Mai 2014
-
-**Keine Informationsübermittlung ohne schweizerisches Strafverfolgungsinteresse**
-
-Wurde das Verfahren mangels hinreichenden Tatverdachts durch Nichtanhandnahme oder Einstellung erledigt, fehlt das erforderliche schweizerische Strafverfolgungsinteresse für die Weitergabe von Informationen im Rechtshilfeverfahren.
-→ [E. 5.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_IV_123#e-5-3)
-
-## Entschädigung
-
-### BGE 139 IV 241 — 3. Juli 2013
-
-**Entschädigung auch bei Nichtanhandnahme**
-
-Auch im Falle einer Nichtanhandnahmeverfügung kommt eine Entschädigung für die angemessene Ausübung der Verfahrensrechte nach Art. 429 Abs. 1 lit. a StPO in Betracht.
-→ [E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_241#e-1)
-
-## Begriff des Dritten
-
-### BGE 145 IV 462 — 13. Dezember 2019
-
-**Rechtsstellung des Anwalts bei übler Nachrede**
-
-Klärung der Rechtsstellung des Anwalts als Dritter im Sinne der ehreverletzenden Straftatbestände bei Nichtanhandnahme.
-→ [Regeste](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_462)
-
-## Nichtanhandnahme nach Gutheissung
-
-### [BGer 7B_320/2025 vom 20. Mai 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_320_2025) — Gutheissung der Beschwerde gegen Nichtanhandnahme
-
-**Gutheissung**: Das Bundesgericht hebt die Nichtanhandnahmeverfügung der Staatsanwaltschaft auf und verweist die Sache zu neuer Beurteilung zurück. Die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO darf nur bei klarer Straflosigkeit oder offensichtlich fehlenden Prozessvoraussetzungen ergehen. Bestehen auch nur geringe Zweifel, ob ein Straftatbestand erfüllt ist, ist das Verfahren zwingend zu eröffnen (*in dubio pro duriore*).
-
-**Einschlägig für**: Abs. 1 lit. a (Eindeutigkeitsgebot), *in dubio pro duriore*
+### In dubio pro duriore als Richtschnur; Vorabklärungen ersetzen keine Untersuchung
+* **Fundstelle:** [BGE 137 IV 285 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-285_2011.html#consideration_2.2)
+* **Sachverhalt:** Ein Skifahrer kollidierte auf einer Skipiste in Wengen mit einem Markierungspfosten und erlitt eine Tetraplegie. Er zeigte die Verantwortlichen wegen fahrlässiger schwerer Körperverletzung an. Die Staatsanwaltschaft Bern-Mittelland und das Obergericht verfügten die Nichtanhandnahme, da FIS-Regeln und Richtlinien eingehalten worden seien.
+* **Kernaussage:** Das Bundesgericht hob den Entscheid auf. Eine Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO darf nur verfügt werden, wenn feststeht, dass kein Straftatbestand erfüllt ist. Es gilt der Grundsatz *in dubio pro duriore*, welcher aus Art. 29 Abs. 1 BV und Art. 6 Ziff. 1 EMRK fliesst. Ist eine Verurteilung nicht von vornherein ausgeschlossen oder bedarf die Klärung von Sorgfaltspflichten sachverständiger Begutachtung, muss eine förmliche Untersuchung (Art. 309 StPO) eröffnet werden.
 
 ---
 
-## Top-Entscheide im Überblick
+### Geringere Hürden für die Wiederaufnahme nach Nichtanhandnahme
+* **Fundstelle:** [BGE 141 IV 194 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-194_2015.html#consideration_2.3)
+* **Sachverhalt:** Nach einem Einbruchdiebstahl wurde das Verfahren von der Staatsanwaltschaft mangels Täterhinweisen nicht an Hand genommen. Später ergab ein DNA-Abgleich an einem beim Einbruch benutzten Fugenkratzer einen Treffer. Die Staatsanwaltschaft nahm das Verfahren wieder auf; das Berner Obergericht verneinte das Vorliegen echter neuer Beweismittel.
+* **Kernaussage:** Art. 310 Abs. 2 i.V.m. Art. 323 StPO ermöglicht die Wiederaufnahme des Verfahrens. Da vor der Nichtanhandnahme keine vertiefte Untersuchung stattfand, sind die Anforderungen an «neue Beweismittel oder Tatsachen» bei einer Nichtanhandnahme wesentlich geringer als bei einer formellen Einstellung nach Art. 319 StPO. Es genügt jedes neue Sachverhaltselement, das einen Tatverdacht begründet.
 
-| Nr | Entscheidung | Zit. | Kernthese |
-|----|---|---|---|
-| 1 | BGE 137 IV 285 | — | Eindeutigkeitsgebot: Nichtanhandnahme nur in klaren Fällen |
-| 2 | BGE 137 IV 219 | — | *In dubio pro duriore* — Einstellung/Nichtanhandnahme nur bei klarer Straflosigkeit |
-| 3 | BGE 141 IV 194 | 221 | Geringere Wiederaufnahmeanforderungen bei Nichtanhandnahme |
-| 4 | BGE 144 IV 81 | — | Wiederaufnahme = Verfahrenseröffnung, keine Beschwerde |
-| 5 | BGE 141 IV 380 | — | Erbe allein beschwerdelegitimiert |
-| 6 | BGE 139 IV 241 | — | Entschädigung auch bei Nichtanhandnahme |
-| 7 | BGE 140 IV 123 | — | Keine Informationsübermittlung ohne Verfolgungsinteresse |
-| 8 | BGE 147 IV 199 | — | Strafantragsauslegung nach allgemeinen Grundsätzen |
-| 9 | BGer 7B_569/2025 | — | Nicht übermässig formale Strafantragsauslegung |
-| 10 | BGer 7B_1019/2024 | — | Strenge Legitimationsanforderungen vor Bundesgericht |
+---
+
+### Ausschluss der Beschwerde gegen Wiederaufnahmeverfügung
+* **Fundstelle:** [BGE 144 IV 81 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-81_2018.html#consideration_2.3.1)
+* **Sachverhalt:** Im Zusammenhang mit einer Investition von 1 Million USD in eine panamaische Minengesellschaft verfügte die Staatsanwaltschaft die Nichtanhandnahme. Auf Vorlage neuer Verträge verfügte sie gestützt auf Art. 323 StPO die Wiederaufnahme. Der Beschuldigte erhob dagegen Beschwerde.
+* **Kernaussage:** Die Verfügung über die Wiederaufnahme nach einer Nichtanhandnahme entspricht funktionell der Eröffnung einer Untersuchung gemäss Art. 309 StPO. In analoger Anwendung von Art. 309 Abs. 3 StPO ist die Wiederaufnahmeverfügung der Staatsanwaltschaft durch die beschuldigte Person nicht anfechtbar.
+
+---
+
+### Beschwerdelegitimation und Antragsrecht des einzelnen Erben
+* **Fundstelle:** [BGE 141 IV 380 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html#consideration_1.2)
+* **Sachverhalt:** Streit unter Geschwistern über Abhebungen von Konten der verstorbenen Mutter in Portugal. Ein Erbe reichte Strafanzeige wegen Veruntreuung und ungetreuer Geschäftsführung ein. Die Staatsanwaltschaft verfügte die Nichtanhandnahme, weil kein einstimmiger Beschluss der Erbengemeinschaft vorliege.
+* **Kernaussage:** Jeder Erbe ist durch Vermögensdelikte zu Lasten des Nachlasses unmittelbar in seinen vermögensrechtlichen Rechten betroffen. Daher steht jedem Miterben das persönliche Recht zu, Strafantrag zu stellen und gegen eine Nichtanhandnahmeverfügung Beschwerde nach Art. 322 Abs. 2 und Art. 382 Abs. 1 StPO zu erheben. Einstimmigkeit ist nicht erforderlich.
+
+---
+
+### Entschädigungsanspruch der beanzeigten Person bei Nichtanhandnahme
+* **Fundstelle:** [BGE 139 IV 241 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-241_2013.html#consideration_1)
+* **Sachverhalt:** Gegen einen Angeschuldigten wurde in Lausanne Strafanzeige wegen Sachbeschädigung eingereicht. Nach summarischen Abklärungen erliess die Staatsanwaltschaft eine Nichtanhandnahmeverfügung, verweigerte dem Angeschuldigten jedoch eine Parteientschädigung für seine anwaltlichen Verteidigungskosten.
+* **Kernaussage:** Durch den Generalverweis in Art. 310 Abs. 2 StPO auf die Bestimmungen über die Einstellung (Art. 320–323 StPO) findet Art. 429 Abs. 1 lit. a StPO Anwendung. Musste die beanzeigte Person bereits im Vorabklärungsverfahren notwendige anwaltliche Aufwendungen tätigen, hat sie bei Nichtanhandnahme Anspruch auf Entschädigung durch den Staat.
+
+---
+
+### Grundsatz in dubio pro duriore bei Verfahrensabschluss
+* **Fundstelle:** [BGE 138 IV 86 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-86_2012.html#consideration_4.1)
+* **Sachverhalt:** Grundsatzurteil zur Tragweite von Art. 319 Abs. 1 StPO und der analogen Anwendung auf Art. 310 StPO.
+* **Kernaussage:** Die vorzeitige Erledigung eines Verfahrens greift in den verfassungsmässigen Grundsatz des gesetzlichen Richters und auf Zugang zu einem Gericht ein. Eine Nichtanhandnahme darf nur ergehen, wenn mit Gewissheit feststeht, dass das Verhalten straflos ist. Bei rechtlichen Zweifelsfragen oder unklaren Sachverhalten gebietet der Grundsatz *in dubio pro duriore* die Durchführung der Untersuchung.
+
+---
+
+## II. Weitere Entscheide (Bundesgericht und Kantone)
+
+### Kognition des Bundesgerichts bei Nichtanhandnahme und Sachverhaltsfeststellung
+* **Fundstelle:** [BGer 6B_160/2021 vom 11.1.2022 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-160-2021_2022-01-11.html#consideration_3.2)
+* **Sachverhalt:** Strafanzeige eines Nachbarn wegen Sachbeschädigung, weil bei Grabungsarbeiten ein Zierstrauch (*Osmanthus heterophyllus*) entfernt wurde. Die kantonale Beschwerdeinstanz schützte die Nichtanhandnahme mangels Vorsatzes.
+* **Kernaussage:** Das Bundesgericht prüft frei, ob die Vorinstanz den Grundsatz *in dubio pro duriore* verletzt hat. Bei der Frage, ob die Vorinstanz zu Unrecht von einer «klaren Beweislage» ausging, beschränkt sich die Kognition des Bundesgerichts hingegen auf Willkür (Art. 97 Abs. 1 BGG). Da vorliegend widersprüchliche Aussagen zum Vorsatz vorlagen, durfte Nichtanhandnahme nicht verfügt werden; der Entscheid wurde aufgehoben.
+
+---
+
+### Fehlender Vorsatz bei freier Selbstgefährdung; Nichtanhandnahme geschützt
+* **Fundstelle:** [BGer 6B_537/2019 vom 1.7.2019 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-537-2019_2019-07-01.html#consideration_2.3)
+* **Sachverhalt:** Nach einem gemeinsamen LSD-Konsum in Basel geriet der Anzeigeerstatter in ein Delirium und musste im Spital behandelt werden. Er zeigte seine Mitkonsumenten wegen Körperverletzung und Aussetzung an.
+* **Kernaussage:** Das Bundesgericht bestätigte die Nichtanhandnahme. Da der Konsum auf eigenverantwortlicher Selbstgefährdung beruhte und keinerlei Anhaltspunkte für eine vorsätzliche oder fahrlässige Schädigung durch Dritte vorlagen, war die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO rechtmässig.
+
+---
+
+### Keine Beschwerdelegitimation des Mitbeschuldigten
+* **Fundstelle:** [BGer 6B_787/2020 vom 21.7.2021 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-787-2020_2021-07-21.html#consideration_1.2)
+* **Sachverhalt:** Verfahren wegen mutmasslich gefälschter Darlehensverträge aus dem Jahr 1994. Die Staatsanwaltschaft nahm die Strafuntersuchung gegen einen Mitbeteiligten nicht an Hand. Dagegen beschwerte sich ein anderer Beschuldigter.
+* **Kernaussage:** Die beschuldigte Person hat kein rechtlich geschütztes Interesse daran, dass ein Dritter strafrechtlich verfolgt wird. Ihr steht gegen die Nichtanhandnahme zugunsten eines Mitbeteiligten kein Beschwerderecht gemäss Art. 382 Abs. 1 StPO zu.
+
+---
+
+### Keine überspitzten Formerfordernisse an Strafantrag; Substanziierung vor BGer
+* **Fundstelle:** [BGer 7B_569/2025 vom 29.4.2026 E. 1.2, 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-569-2025_2026-04-29.html#consideration_1.2)
+* **Sachverhalt:** Ein Anwalt wurde in Online-Leserkommentaren verunglimpft und erstattete Strafanzeige. Die Staatsanwaltschaft verfügte Nichtanhandnahme, weil ein formeller Strafantrag fehle. Vor Bundesgericht fehlte die Substanziierung der Zivilansprüche.
+* **Kernaussage:** An die Formulierung eines Strafantrags dürfen keine überspitzten Anforderungen gestellt werden; der Verfolgungswille genügt. Für das Eintreten auf die Beschwerde vor Bundesgericht muss die Privatklägerschaft jedoch zwingend nach Art. 81 Abs. 1 lit. b Ziff. 5 BGG darlegen, welche Zivilansprüche berührt sind. Mangels Substanziierung trat das Bundesgericht nicht ein.
+
+---
+
+### Ausschluss des blossen Anzeigeerstatters von der Beschwerde
+* **Fundstelle:** [BGer 7B_541/2025 vom 12.11.2025 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-541-2025_2025-11-12.html#consideration_2.1)
+* **Sachverhalt:** Ein Verein erstattete Strafanzeige wegen ritueller Beschneidungen an Knaben. Die Staatsanwaltschaft verfügte die Nichtanhandnahme. Der Verein erhob Beschwerde.
+* **Kernaussage:** Der blosse Anzeigeerstatter (Art. 301 StPO), der durch die behauptete Straftat nicht in eigenen Rechten verletzt ist, hat keine Parteistellung und ist nach Art. 382 Abs. 1 StPO nicht zur Anfechtung der Nichtanhandnahme legitimiert.
+
+---
+
+### Fristansetzung für Kostenvorschuss und unentgeltliche Rechtspflege
+* **Fundstelle:** [BGer 7B_320/2025 vom 20.5.2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-320-2025_2026-05-20.html#consideration_3.2)
+* **Sachverhalt:** Die Privatklägerin focht eine Nichtanhandnahmeverfügung an. Das Obergericht forderte eine Sicherheitsleistung nach Art. 383 StPO und trat bei Nichtzahlung auf die Beschwerde nicht ein.
+* **Kernaussage:** Enthält die Aufforderung zur Leistung einer Sicherheitsleistung keinen Hinweis auf das Recht zur Einreichung eines Gesuchs um unentgeltliche Rechtspflege (Art. 136 StPO) und ist der Vorinstanz die Mittellosigkeit der Partei bekannt, begeht das Gericht überspitzten Formalismus (Art. 29 Abs. 1 BV), wenn es ohne Prüfung der Mittellosigkeit auf Nichteintreten erkennt.
+
+---
+
+### Zulässigkeit polizeilicher Auskunftspersonenbefragung vor Anhandnahme
+* **Fundstelle:** [BGer 6B_617/2016 vom 2.12.2016 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-617-2016_2016-12-02.html#consideration_2.1)
+* **Sachverhalt:** Strafanzeige nach einem Vorfall im Strassenverkehr wegen Nötigung. Die Polizei befragte die Beteiligten summarisch als Auskunftspersonen, woraufhin Nichtanhandnahme erging.
+* **Kernaussage:** Summarische Befragungen durch die Polizei im Rahmen der polizeilichen Ermittlung (Art. 306 f. StPO) zur Klärung des Anfangsverdachts sind vor Erlass einer Nichtanhandnahmeverfügung zulässig und begründen noch keine förmliche Untersuchung.
+
+---
+
+### Unzulässige informelle Zeugeneinvernahme durch die Staatsanwaltschaft (Kanton Zürich)
+* **Fundstelle:** [ZH OG UE250207 vom 18.8.2025 E. 3.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE250207_2025-08-18.pdf)
+* **Sachverhalt:** Bei einer Anzeige wegen gewerbsmässigen Betrugs führte die Staatsanwaltschaft vor formeller Eröffnung telefonische Befragungen von Drittpersonen durch und erliess gestützt darauf eine Nichtanhandnahmeverfügung.
+* **Kernaussage:** Das Obergericht des Kantons Zürich hob die Verfügung auf. Einvernahmen von Zeugen durch die Staatsanwaltschaft dürfen nur im Rahmen einer förmlich eröffneten Untersuchung unter Wahrung der Teilnahmerechte (Art. 147 StPO) stattfinden. Die Einvernahmeprotokolle sind unverwertbar.
+
+---
+
+### Monatelange Sachverhaltserhebungen sind als Untersuchung zu führen (Kanton St. Gallen)
+* **Fundstelle:** [SG KG AK.2017.237 vom 26.10.2017 E. 3](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2017-237_2017-10-26.pdf)
+* **Sachverhalt:** Nach einem Bergunfall mit einem elektrischen Rollstuhl führte die Staatsanwaltschaft über zwölf Monate Vorabklärungen durch und verfügte danach die Nichtanhandnahme.
+* **Kernaussage:** Erfordern Vorwürfe komplexe Abklärungen über mehr als ein Jahr, darf die Staatsanwaltschaft nicht im Vorprüfungsstadium verharren. Sie muss unverzüglich eine Untersuchung nach Art. 309 StPO eröffnen. Die Nichtanhandnahme wurde aufgehoben.
+
+---
+
+### Nichtanhandnahme bei zivilrechtlichem Werklohnstreit (Kanton Aargau)
+* **Fundstelle:** [AG OG SBK.2023.24 vom 5.6.2023 E. 2.3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2023-24_2023-06-05.pdf)
+* **Sachverhalt:** Streit über Rechnungen im Baugewerbe. Der Anzeiger behauptete Betrug wegen Zahlungsunwilligkeit des Bauherrn. Die Staatsanwaltschaft verfügte Nichtanhandnahme.
+* **Kernaussage:** Das Obergericht wies die Beschwerde ab. Lässt sich den beigezogenen Zivilakten entnehmen, dass echte Mängelrügen vorliegen und die Zahlung deshalb verweigert wurde, fehlt es an jeglichem Anhaltspunkt für Arglist oder Betrugsvorsatz. Die Nichtanhandnahme nach Art. 310 Abs. 1 lit. a StPO war rechtmässig.
