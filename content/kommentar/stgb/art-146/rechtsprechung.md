@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-09-04
-description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Covid-19-Kredite, Prozessbetrug und Gewerbsmässigkeit."
-tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Besonderer Teil"]
+lastmod: 2026-09-09
+description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, Covid-19-Kredite, Prozessbetrug und Gewerbsmässigkeit."
+tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_85/2026, 6B_96/2026 vom 13.08.2026 zum Motivationszusammenhang bei Lieferkettenverschleierung und zur Rügeobliegenheit im Adhäsionsprozess."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -124,6 +129,13 @@ revisions:
 
 ## III. Weitere Bundesgerichts- und kantonale Entscheide
 
+### [BGer 6B_85/2026, 6B_96/2026 vom 13. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 2.1–2.3, 3.2 — Motivationszusammenhang bei Lieferkettenverschleierung
+- **Thema**: Fehlender Motivationszusammenhang zwischen Täuschung und Vermögensschaden; Irrtum bei juristischen Personen; Schadensberechnung bei Zwischenhändlern; Dispositionsmaxime und Rügeobliegenheit im Adhäsionsprozess.
+- **Kernaussage**: Der Betrugstatbestand verlangt, dass die durch die arglistige Täuschung motivierte Vermögensdisposition den Vermögensschaden bewirkt. Bezieht sich der Irrtum des handelnden Vorgesetzten der geschädigten Arbeitgeberin ausschliesslich auf die Identität der Zwischenhändlerin (Verschleierung der Lieferkette), nicht aber auf die Möglichkeit eines Direktbezugs beim Hersteller, fehlt es am Motivationszusammenhang, wenn der Schaden als Preisdifferenz gegenüber Direktbezugskonditionen berechnet wird. Der Schaden darf nicht auf Sachverhalte oder Vergleichsmassstäbe abgestellt werden, die nicht Gegenstand der Täuschung waren (E. 2.1–2.3). Im Adhäsionsverfahren findet Art. 222 Abs. 2 ZPO keine Anwendung; die beschuldigte Person muss Zivilforderungen nicht substanziiert bestreiten (Art. 124 Abs. 2 StPO; E. 3.2).
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Motivationszusammenhang, Kausalitätskette, Beziehungsdelikt; Art. 124 Abs. 2 StPO — Adhäsionsklage.
+
+---
+
 ### [BGer 6B_497/2014 vom 6. März 2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-497-2014_2015-03-06.html) E. 3.4.3 — Notlagen-Kreditinserate in Boulevardmedien
 - **Thema**: Arglist bei Ausnutzung extremer finanzieller Notlagen unerfahrener Personen.
 - **Kernaussage**: Wer in Boulevardmedien (Blick, Glückspost) mit Sofortkrediten ohne Bonitätsprüfung wirbt, Kreditsuchende spätabends auf Parkplätzen trifft und Bargeldvorschüsse vereinnahmt, handelt arglistig. Auch wenn die Opfer grob unvorsichtig agieren, schliesst das gezielte Ausnutzen ihrer finanziellen Ausweglosigkeit und Unerfahrenheit den Einwand der Opfermitverantwortung aus.
@@ -159,4 +171,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-04*
+*Letzte Aktualisierung: 2026-09-09*

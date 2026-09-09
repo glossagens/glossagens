@@ -2,11 +2,16 @@
 title: "Art. 146 StGB — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-09-04
-description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung (Online-Handel, Romance Scam, Anlagebetrug), Sonderstellung der Covid-19-Kredite, Beweis innerer Tatsachen (Erfüllungswille) sowie taktische Merksätze für Verteidigung, Staatsanwaltschaft und Privatklägerschaft."
-tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Corona-Kreditbetrug", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel"]
+lastmod: 2026-09-09
+description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung (Online-Handel, Romance Scam, Anlagebetrug), Motivationszusammenhang und Schadenskongruenz (BGer 6B_85/2026), Sonderstellung der Covid-19-Kredite, Beweis innerer Tatsachen (Erfüllungswille) sowie taktische Merksätze für Verteidigung, Staatsanwaltschaft und Privatklägerschaft."
+tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel"]
 agent_verified: true
 revisions:
+  - date: 2026-09-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung des Motivationszusammenhangs und der Schadenskongruenz anhand von BGer 6B_85/2026, 6B_96/2026 (Lieferkettenverschleierung) sowie BGer 6B_717/2012, BGE 128 IV 255 und BGE 126 IV 113; Rügeobliegenheit im Adhäsionsprozess nach Art. 124 Abs. 2 StPO."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -82,7 +87,7 @@ Das folgende Raster stellt die dogmatischen Tatbestandsmerkmale in ihrer verbind
 | **1. Täuschungshandlung** | Vorspiegelung oder Unterdrückung von Tatsachen (äusserer oder innerer Natur); aktives Tun oder Schweigen bei Rechtspflicht zur Aufklärung | Anklagebehörde; Beweismass der vollen Überzeugung | [Abschnitt A](#a-täuschung-über-tatsachen-abs-1) |
 | **2. Arglist** | Qualifizierte Täuschung: Lügengebäude, besondere Machenschaften oder einfache falsche Angaben bei erschwerter Überprüfbarkeit | Anklagebehörde; volle richterliche Überzeugung | [Abschnitt B](#b-das-kernmerkmal-der-arglist-abs-1) |
 | **3. Ausschluss der Arglist: Opfermitverantwortung** | Keine Arglist bei Verletzung elementarster, zumutbarer Vorsichtsmassnahmen (Leichtfertigkeit des Opfers drängt Täuschung in den Hintergrund) | Verteidigung bringt Anhaltspunkte ein; Anklage trägt materielle Beweislast für Arglist | [Abschnitt C](#c-zweiseitige-grenzkasuistik-zur-opfermitverantwortung-angewandt-vs-verworfen) |
-| **4. Irrtumserregung & Kausalität** | Hervorrufen oder Bestärken einer Fehlvorstellung; Irrtum muss motivierend für das Verhalten sein | Anklagebehörde; Feststellung über Motivationslage | [Abschnitt F](#f-irrtum-kausalität-und-vermögensdisposition) |
+| **4. Irrtumserregung & Motivationszusammenhang** | Hervorrufen/Bestärken einer Fehlvorstellung; Irrtum muss motivierend für die Vermögensdisposition sein; Schaden muss auf getäuschtem Umstand beruhen | Anklagebehörde; Feststellung über Motivationslage und Kausalität | [Abschnitt F](#f-irrtum-kausalität-und-vermögensdisposition) |
 | **5. Vermögensdisposition** | Jedes Handeln, Dulden oder Unterlassen des Getäuschten mit vermögensmindernder Wirkung (Selbst- oder Dreiecksbetrug) | Anklagebehörde; tatsächlicher Nachweis des Vermögensabflusses | [Abschnitt F](#f-irrtum-kausalität-und-vermögensdisposition) |
 | **6. Vermögensschaden** | Echter wirtschaftlicher Schaden nach dem Prinzip der Gesamtsaldierung oder schadensgleiche konkrete Vermögensgefährdung | Anklagebehörde / Privatklägerschaft; ziffernmässige Substanziierung | [Abschnitt G](#g-vermögensschaden-und-bereicherungsabsicht) |
 | **7. Subjektiver Tatbestand** | Vorsatz bezüglich aller objektiven Merkmale (Eventualvorsatz genügt) sowie Absicht unrechtmässiger, stoffgleicher Bereicherung (Dolus directus 1. Grades) | Anklagebehörde; Indizienbeweis für innere Tatsachen (Erfüllungswille) | [Abschnitt G](#g-vermögensschaden-und-bereicherungsabsicht) & [Abschnitt K](#k-harte-prozessrealität-beweis-innerer-tatsachen-und-abgrenzung-zum-zivilunrecht) |
@@ -236,49 +241,56 @@ Zwischen [BGE 142 IV 153](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-1
 
 ### F. Irrtum, Kausalität und Vermögensdisposition
 
-**20** **Was die Merkmale verlangen**: Die Täuschung muss beim Getäuschten einen Irrtum (eine Diskrepanz zwischen Vorstellung und Wirklichkeit) erzeugen oder unterhalten. Dieser Irrtum muss **kausal (motivierend)** für die Vermögensdisposition sein.
+**20** **Was die Merkmale verlangen**: Die Täuschung muss beim Getäuschten einen Irrtum (eine Diskrepanz zwischen Vorstellung und Wirklichkeit) erzeugen oder unterhalten. Dieser Irrtum muss **kausal (motivierend)** für die Vermögensdisposition sein. Betrug ist ein klassisches **Beziehungsdelikt**: Vom täuschenden Verhalten über die Fehlvorstellung und die Vermögensdisposition bis hin zum Vermögensschaden muss eine lückenlose Kausalitäts- bzw. Motivationskette führen ([BGE 150 IV 169 E. 5.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-169_2024.html#consideration_5.2.1); [BGE 128 IV 255 E. 2e/aa](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-128-IV-255_2002.html); [BGE 126 IV 113 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-126-IV-113_2000-06-28.html)).
 
-#### 1. Dreiecksbetrug und Lagertheorie
-**21** Täuschender, Irrender und Geschädigter müssen nicht identisch sein. Beim **Dreiecksbetrug** verfügt der Getäuschte über fremdes Vermögen (z.B. Angestellter über Firmenkasse, Gerichtsbehörde über Parteivermögen beim Prozessbetrug). Voraussetzung ist, dass der Verfügende eine **faktische oder rechtliche Verfügungsmacht** über das geschädigte Vermögen besitzt und im «Lager» des Geschädigten steht.
+#### 1. Der Motivationszusammenhang und das Kongruenzerfordernis
+**21** **Doppelte Motivationskette**: Dem Wortlaut und der funktionalen Struktur von Art. 146 Abs. 1 StGB gemäss muss «die durch die arglistige Täuschung motivierte Vermögensdisposition» einen Vermögensschaden bewirken (MAEDER/NIGGLI, Basler Kommentar, 4. Aufl. Basel 2019, Art. 146 N 152). Zwischen Täuschung, Irrtum und Vermögensdisposition muss ein strikter Motivationszusammenhang bestehen:
+- **Irrtum bei juristischen Personen**: Täuschen und Irren können begrifflich nur natürliche Personen. Bei Handlungen im Namen oder zum Nachteil juristischer Personen (Unternehmen, Körperschaften, Behörden) muss das Strafurteil konkret feststellen, welche natürliche Person (z.B. der zuständige Vorgesetzte oder Sachbearbeiter) tatsächlich geirrt hat und durch diesen Irrtum zur schädigenden Verfügung (wie der Rechnungsfreigabe oder Überweisung) bestimmt wurde ([BGer 6B_85/2026 vom 13. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 2.1).
+- **Anderweitige Motive schliessen Vollendung aus**: War für die Vermögensdisposition nicht der täuschungsbedingte Irrtum, sondern ein anderes Motiv handlungsleitend (z.B. geschäftliche Kulanz, Gleichgültigkeit, Mitleid oder eine polizeiliche/behördliche Überwachungstaktik), fehlt der Motivationszusammenhang ([BGer 6B_717/2012 vom 17. September 2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-717-2012_2013-09-17.html) E. 1.2).
+- **Kongruenz zwischen Täuschungsgegenstand und Vermögensschaden**: Der Vermögensschaden muss gerade auf jenem Umstand beruhen, der Gegenstand der arglistigen Täuschung und des dadurch hervorgerufenen Irrtums war. Ein Schaden darf nicht auf Sachverhalte oder hypothetische Vergleichsmassstäbe gestützt werden, über die gar nicht getäuscht wurde.
+  - *Praxisfall: Verschleierung der Lieferkette ([BGer 6B_85/2026, 6B_96/2026 vom 13. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026))*: Ein leitender Angestellter (Engineering Manager) bestellte für seine Arbeitgeberin Ersatzteile über eine ihm zuzurechnende Gesellschaft via eine Stroheinzelfirma, obwohl er wusste, dass die Arbeitgeberin Direktkonditionen beim niederländischen Hersteller kannte. Der zuständige Vorgesetzte visierte die Bestellungen und Rechnungen im Wissen darum, dass über eine Zwischenhändlerin eingekauft wurde und keine Zwischenhändlerrabatte gewährt wurden; sein Irrtum betraf ausschliesslich die tatsächliche Identität der Zwischenhändlerin (Lieferkette). Die Vorinstanz verurteilte den Angestellten wegen Betrugs und berechnete den Schaden aus der Differenz zu den günstigeren Konditionen eines Direktbezugs beim Hersteller. Das Bundesgericht hob den Schuldspruch auf: Da dem Angestellten keine Täuschung über die Möglichkeit eines Direktbezugs zur Last gelegt worden war, fehlte der Motivationszusammenhang zwischen der Täuschung (Verschleierung der Identität der Zwischenhändlerin) und dem geltend gemachten Schaden (Preisdifferenz zum Direktbezug).
 
-#### 2. Der vollendete Betrugsversuch
-**22** Durchschaut das Opfer das Täuschungsmanöver oder lässt es sich aus Gleichgültigkeit oder Überwachungstaktik zur Verfügung herab, scheitert der vollendete Betrug am Kausalzusammenhang zwischen Irrtum und Disposition. Handelte der Täter nach seinem Tatplan jedoch objektiv arglistig, ist er wegen **vollendeten Betrugsversuchs** ([Art. 22 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_22) i.V.m. Art. 146 StGB) zu verurteilen ([BGE 128 IV 18 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-128-IV-18_2002.html#consideration_3.b); [BGE 122 IV 246 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-122-IV-246_1996-09-27.html#consideration_3.a)). War das Vorgehen dagegen von vornherein völlig ungeeignet, fehlt es an der objektiven Arglist, was zum Freispruch führt ([6B_183/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-183-2014_2014-10-28.html)).
+#### 2. Dreiecksbetrug und Lagertheorie
+**22** Täuschender, Irrender und Geschädigter müssen nicht identisch sein. Beim **Dreiecksbetrug** verfügt der Getäuschte über fremdes Vermögen (z.B. Angestellter über Firmenkasse, Gerichtsbehörde über Parteivermögen beim Prozessbetrug). Voraussetzung ist, dass der Verfügende eine **faktische oder rechtliche Verfügungsmacht** über das geschädigte Vermögen besitzt und im «Lager» des Geschädigten steht.
+
+#### 3. Der vollendete Betrugsversuch
+**23** Durchschaut das Opfer das Täuschungsmanöver oder lässt es sich aus Gleichgültigkeit oder Überwachungstaktik zur Verfügung herab, scheitert der vollendete Betrug am Kausalzusammenhang zwischen Irrtum und Disposition. Handelte der Täter nach seinem Tatplan jedoch objektiv arglistig, ist er wegen **vollendeten Betrugsversuchs** ([Art. 22 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_22) i.V.m. Art. 146 StGB) zu verurteilen ([BGE 128 IV 18 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-128-IV-18_2002.html#consideration_3.b); [BGE 122 IV 246 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-122-IV-246_1996-09-27.html#consideration_3.a)). War das Vorgehen dagegen von vornherein völlig ungeeignet, fehlt es an der objektiven Arglist, was zum Freispruch führt ([6B_183/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-183-2014_2014-10-28.html)).
 
 ---
 
 ### G. Vermögensschaden und Bereicherungsabsicht
 
-**23** **Was die Merkmale verlangen**: Der Betrugstatbestand setzt einen echten **Vermögensschaden** voraus. Dieser bestimmt sich nach dem juristisch-wirtschaftlichen Vermögensbegriff und dem Prinzip der **Gesamtsaldierung** (Differenzhypothese): Der wirtschaftliche Gesamtwert des Vermögens nach der Verfügung muss geringer sein als vorher.
+**24** **Was die Merkmale verlangen**: Der Betrugstatbestand setzt einen echten **Vermögensschaden** voraus. Dieser bestimmt sich nach dem juristisch-wirtschaftlichen Vermögensbegriff und dem Prinzip der **Gesamtsaldierung** (Differenzhypothese): Der wirtschaftliche Gesamtwert des Vermögens nach der Verfügung muss geringer sein als vorher.
 
 #### 1. Schadensgleiche Vermögensgefährdung
-**24** Ein Schaden liegt bereits vor, wenn das Vermögen in einem Masse gefährdet wird, dass diese Gefährdung im Geschäftsverkehr einer faktischen Wertminderung gleichkommt (z.B. Auszahlung eines ungesicherten Kredits an einen zahlungsunfähigen Schuldner, dessen Rückzahlung von Anfang an höchst ungewiss ist).
+**25** Ein Schaden liegt bereits vor, wenn das Vermögen in einem Masse gefährdet wird, dass diese Gefährdung im Geschäftsverkehr einer faktischen Wertminderung gleichkommt (z.B. Auszahlung eines ungesicherten Kredits an einen zahlungsunfähigen Schuldner, dessen Rückzahlung von Anfang an höchst ungewiss ist).
 
 #### 2. Bereicherungsabsicht und Stoffgleichheit
-**25** Der Täter muss mit der Absicht handeln, sich oder einen Dritten unrechtmässig zu bereichern. Der erstrebte wirtschaftliche Vorteil muss **stoffgleich** mit dem Schaden sein, d.h. die Bereicherung muss die unmittelbare Kehrseite des Schadens darstellen und aus demselben Vermögensstamm stammen. Fehlt die Stoffgleichheit, kommt gegebenenfalls ungetreue Geschäftsbesorgung ([Art. 158 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_158)) oder Sachentziehung in Betracht.
+**26** Der Täter muss mit der Absicht handeln, sich oder einen Dritten unrechtmässig zu bereichern. Der erstrebte wirtschaftliche Vorteil muss **stoffgleich** mit dem Schaden sein, d.h. die Bereicherung muss die unmittelbare Kehrseite des Schadens darstellen und aus demselben Vermögensstamm stammen. Fehlt die Stoffgleichheit, kommt gegebenenfalls ungetreue Geschäftsbesorgung ([Art. 158 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_158)) oder Sachentziehung in Betracht.
 
 ---
 
 ### H. Qualifikation: Gewerbsmässigkeit (Abs. 2)
 
-**26** **Was das Merkmal verlangt**: Gewerbsmässig handelt der Täter, wenn sich aus der Zeit und den Mitteln, die er für die deliktische Tätigkeit aufwendet, aus der Häufigkeit der Einzelakte sowie aus den angestrebten und erzielten Einkünften ergibt, dass er die deliktische Tätigkeit nach der Art eines **Berufs oder Nebenerwerbs** betreibt.
+**27** **Was das Merkmal verlangt**: Gewerbsmässig handelt der Täter, wenn sich aus der Zeit und den Mitteln, die er für die deliktische Tätigkeit aufwendet, aus der Häufigkeit der Einzelakte sowie aus den angestrebten und erzielten Einkünften ergibt, dass er die deliktische Tätigkeit nach der Art eines **Berufs oder Nebenerwerbs** betreibt.
 
 #### 1. Quantitative Kriterien und Serienbetrug
-**27** Gewerbsmässigkeit verlangt den **Ansatz zu einer Vielzahl von Taten** (in der Praxis regelmässig ab drei bis fünf Einzeltaten) und das Bestreben, daraus eine wesentliche Einnahmequelle zur Finanzierung der Lebenshaltung über eine gewisse Dauer zu machen. Bei betrügerischen Online-Fake-Shops oder Serienbestellungen über Kleinanzeigenplattformen bejaht die Praxis Gewerbsmässigkeit schnell, wenn der Täter systematisch Konten eröffnet und den Erlös zur Deckung seiner Lebenshaltungskosten verwendet.
+**28** Gewerbsmässigkeit verlangt den **Ansatz zu einer Vielzahl von Taten** (in der Praxis regelmässig ab drei bis fünf Einzeltaten) und das Bestreben, daraus eine wesentliche Einnahmequelle zur Finanzierung der Lebenshaltung über eine gewisse Dauer zu machen. Bei betrügerischen Online-Fake-Shops oder Serienbestellungen über Kleinanzeigenplattformen bejaht die Praxis Gewerbsmässigkeit schnell, wenn der Täter systematisch Konten eröffnet und den Erlös zur Deckung seiner Lebenshaltungskosten verwendet.
 
 #### 2. Harte Folge: Obligatorische Landesverweisung
-**28** Die Qualifikation nach Abs. 2 erhöht den Strafrahmen auf Freiheitsstrafe von 6 Monaten bis zu 10 Jahren und stuft die Tat zum **Verbrechen** ([Art. 10 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_10)) hoch. Gewerbsmässiger Betrug ist zwingende Katalogtat nach [Art. 66a Abs. 1 lit. c StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_66a): Ausländische Staatsangehörige sind bei einer Verurteilung nach Abs. 2 **zwingend für 5 bis 15 Jahre des Landes zu verweisen**, sofern kein schwerer persönlicher Härtefall nach Art. 66a Abs. 2 StGB vorliegt ([BGE 146 IV 105 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html#consideration_3.4)).
+**29** Die Qualifikation nach Abs. 2 erhöht den Strafrahmen auf Freiheitsstrafe von 6 Monaten bis zu 10 Jahren und stuft die Tat zum **Verbrechen** ([Art. 10 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_10)) hoch. Gewerbsmässiger Betrug ist zwingende Katalogtat nach [Art. 66a Abs. 1 lit. c StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_66a): Ausländische Staatsangehörige sind bei einer Verurteilung nach Abs. 2 **zwingend für 5 bis 15 Jahre des Landes zu verweisen**, sofern kein schwerer persönlicher Härtefall nach Art. 66a Abs. 2 StGB vorliegt ([BGE 146 IV 105 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html#consideration_3.4)).
 
 ---
 
 ### J. Privilegierung und Strafantrag im Familienkreis (Abs. 3)
 
-**29** **Was das Merkmal verlangt**: Wurde der Betrug zum Nachteil eines Angehörigen ([Art. 110 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_110): Ehegatte, eingetragener Partner, Verwandte gerader Linie, Geschwister, Stiefkinder) oder eines Familiengenossen (Personen in dauerhafter häuslicher Lebensgemeinschaft) begangen, wird die Tat nur auf **Strafantrag** verfolgt. Die Antragsfrist beträgt gemäss [Art. 31 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_31) strikt **drei Monate** ab sicherer Kenntnis von Tat und Täter.
+**30** **Was das Merkmal verlangt**: Wurde der Betrug zum Nachteil eines Angehörigen ([Art. 110 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_110): Ehegatte, eingetragener Partner, Verwandte gerader Linie, Geschwister, Stiefkinder) oder eines Familiengenossen (Personen in dauerhafter häuslicher Lebensgemeinschaft) begangen, wird die Tat nur auf **Strafantrag** verfolgt. Die Antragsfrist beträgt gemäss [Art. 31 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_31) strikt **drei Monate** ab sicherer Kenntnis von Tat und Täter.
 
 ---
 
 ### K. Harte Prozessrealität: Beweis innerer Tatsachen und Abgrenzung zum Zivilunrecht
 
-**30** In der forensischen Praxis scheitern Betrugsverfahren am häufigsten an zwei Klippen:
+**31** In der forensischen Praxis scheitern Betrugsverfahren am häufigsten an drei Klippen:
 
 #### 1. Der Beweis des fehlenden Erfüllungswillens zur Tatzeit
 Der Täter bestreitet regelmässig, vorsätzlich gehandelt zu haben: Er behauptet, er habe bei Vertragsschluss ehrlich leisten wollen, sei jedoch nachträglich durch unvorhersehbare Ereignisse (Krankheit, Liquiditätsengpass, Zahlungsausfall Dritter) in Zahlungsschwierigkeiten geraten. Da der Erfüllungswille eine innere Tatsache ist, kann er nur über **objektive Indizien zur Tatzeit** bewiesen werden:
@@ -290,20 +302,28 @@ Der Täter bestreitet regelmässig, vorsätzlich gehandelt zu haben: Er behaupte
 Staatsanwaltschaften neigen dazu, Anzeigen wegen Betrugs rasch mit Nichtanhandnahme- oder Einstellungsverfügungen zu erledigen, indem sie die Sache als «reine Zivilstreitigkeit» deklarieren.
 - **Taktik für die Privatklägerschaft**: Eine Nichtanhandnahmeverfügung nach [Art. 310 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_310) oder Einstellung nach [Art. 319 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_319) darf nach dem Grundsatz **«in dubio pro duriore»** nur bei klarer Straflosigkeit erfolgen ([BGE 143 IV 241 E. 2.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-241_2017.html#consideration_2.2.1); [BGer 7B_891/2024 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-891-2024_2024-10-22.html)). Bestehen konkrete Anhaltspunkte für ein planmässiges Vorgehen oder falsche Angaben über die Bonität, muss zwingend Anklage erhoben oder zumindest eine Strafuntersuchung geführt werden.
 
+#### 3. Die Kausalitäts- und Substanziierungsfalle bei Lieferstrukturen und Adhäsionsklagen
+- **Täuschungsfremde Schadensbegründung**: Gerichte und Anklagebehörden dürfen den Schaden nicht auf Umstände stützen, die gar nicht Gegenstand der Täuschung waren. Verschleiert ein Angestellter die Identität von Zwischengesellschaften, wusste der Freigebende aber um die Marktpreise und Zwischenhandelskonditionen, führt die Preisdifferenz zu einem theoretisch denkbaren Direktbezug nicht zum Betrugsschaden ([BGer 6B_85/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 2.2).
+- **Keine Pflicht zum substanziierten Bestreiten im Adhäsionspunkt**: Macht die geschädigte Partei zivilrechtlichen Schadenersatz adhäsionsweise geltend ([Art. 122 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_122)), greift die zivilprozessuale Substanziierungslast nach [Art. 222 Abs. 2 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_222) im Strafprozess nicht. Wegen des verfassungsmässigen Aussageverweigerungsrechts ([Art. 158 Abs. 1 lit. b StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_158)) genügt ein pauschales Bestreiten oder der blosse Abweisungsantrag der beschuldigten Person; das Gericht ist verpflichtet, Grund und Höhe der Zivilforderung von Amtes wegen zu überprüfen ([BGer 6B_85/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 3.2; [BGer 6B_1189/2023 E. 12.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1189-2023_2026-01-19.html); [BGer 6B_856/2024 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_6B-856-2024_2025-09-10.html)).
+
 ---
 
 ### L. Die taktischen Merksätze für die Praxis
 
 #### Für die Verteidigung
 - **Angriffspunkt Opfermitverantwortung**: Bei Geschäften im Internet oder bei Warenlieferungen auf Rechnung ist stets zu prüfen, ob das mutmassliche Opfer die Identität und Bonität des Bestellers überprüft hat. Liegt der Warenwert über einem gewöhnlichen Alltagsgeschäft (Schwellenwert ca. Fr. 1'000.– bis Fr. 2'000.–) und unterblieb jede Kontrolle, greift das Schutzschild von [BGE 142 IV 153](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-153_2016.html).
+- **Kausalitäts- und Motivationsbruch rügen**: Prüfen, worauf sich der Irrtum der handelnden natürlichen Person konkret bezog. Basiert der angebliche Schaden auf einem Sachverhalt (z.B. Direktbezugskonditionen), der gar nicht Gegenstand der vorgeworfenen Täuschung war, fehlt der Motivationszusammenhang ([BGer 6B_85/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026)).
+- **Pauschalbestreiten im Adhäsionsverfahren nutzen**: Im Strafverfahren nicht auf eine aufwändige zivilprozessuale Substanziierung einlassen; ein einfaches Bestreiten wahrt die Rechte vollumfänglich und verpflichtet das Strafgericht zur Prüfung von Amtes wegen ([Art. 124 Abs. 2 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_124)).
 - **Zivilrechtliche Natur betonen**: Behaupten und belegen, dass zur Tatzeit zumindest die theoretische Möglichkeit und der Wille zur Vertragserfüllung bestand. Aufzeigen nachträglicher exogener Faktoren für den Zahlungsausfall.
 
 #### Für die Staatsanwaltschaft
 - **Indizienkette für inneren Tatbestand**: Die Anklage muss den Nachweis führen, dass der Täter bereits im Zeitpunkt der Täuschungshandlung wusste, dass er nicht erfüllen kann oder will. Ein Auszug aus dem Betreibungsregister genügt für sich allein oft nicht; nötig sind Kontoauszüge, Saldonachweise und Aussagen über geplante Mittelverwendungen.
+- **Motivationskette lückenlos darlegen**: Bei geschädigten Gesellschaften benennen, welche natürliche Person dem Irrtum unterlag. Die Schadensberechnung muss sich zwingend aus dem Inhalt der Täuschung ergeben und darf nicht auf hypothetische Alternativszenarien abstellen, über die nicht getäuscht wurde.
 - **Arglist differenziert begründen**: Nicht bloss pauschal «Arglist» behaupten, sondern den Fall präzise unter eine der drei Fallgruppen (Lügengebäude, Machenschaften, unzumutbare Überprüfung) subsumieren.
 
 #### Für die Privatklägerschaft
 - **Zivilforderungen adhäsionsweise beziffern**: Schadenersatzansprüche nach [Art. 41 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_41) bereits im Vorverfahren substantiiert mit Belegen einbringen ([Art. 122 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_122)). Andernfalls droht bei Verfahrenseinstellung das Nichteintreten des Bundesgerichts auf Beschwerden mangels Zivillegitimation gemäss [Art. 81 Abs. 1 lit. b Ziff. 5 BGG](https://www.fedlex.admin.ch/eli/cc/2006/218/de#art_81) ([BGer 7B_891/2024 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-891-2024_2024-10-22.html)).
+- **Kongruenz von Schaden und Täuschung belegen**: Den Schaden exakt aus derjenigen Fehlvorstellung ableiten, die der Täter hervorgerufen hat (z.B. Falschangaben über die tatsächliche Möglichkeit eines Direktbezugs oder Preisabsprachen).
 
 ---
 
@@ -336,7 +356,7 @@ Kantonale Beschwerdekammern (z.B. Zürich, Aargau) ziehen eine strikte Grenze be
 
 ### O. Literatur
 
-- **ARZT GUNTHER**, Basler Kommentar: Strafrecht II (Art. 111–392 StGB), 4. Aufl., Basel 2019, Art. 146.
+- **MAEDER STEFAN / NIGGLI MARCEL ALEXANDER**, in: Niggli/Wiprächtiger (Hrsg.), Basler Kommentar: Strafrecht II (Art. 111–392 StGB), 4. Aufl., Basel 2019, Art. 146.
 - **CASSANI URSULA**, Der Begriff der arglistigen Täuschung als kriminalpolitische Herausforderung, in: Festschrift für Franz Riklin, Zürich 2014, S. 135 ff.
 - **DONATSCH ANDREAS**, Strafrecht III: Delikte gegen das Vermögen, 11. Aufl., Zürich/Basel/Genf 2018, § 17.
 - **SÄGESSER MARCO**, Opfermitverantwortung beim Betrug, Diss. Bern, Zürich 2014.
