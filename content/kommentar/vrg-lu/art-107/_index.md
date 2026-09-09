@@ -1,222 +1,142 @@
 ---
-title: "§ 107 — Rechtsmittelzulässigkeit und Beschwerdebefugnis"
+title: "§ 107 — Voraussetzungen des Sachentscheides, Nichteintreten"
 weight: 107
-date: 2026-05-31
-lastmod: 2026-05-31
-description: "Kommentierung von § 107 VRG LU — Sachurteilsvoraussetzungen und Beschwerdebefugnis im luzernischen Verwaltungsrechtspflegegesetz"
-tags: ["VRG LU", "Rechtsmittel", "Beschwerdebefugnis", "Sachurteilsvoraussetzungen", "Luzern"]
-agent_verified: true
+date: 2026-09-06
+lastmod: 2026-09-06
+description: "Praxiskommentar zu § 107 VRG (Luzern): Voraussetzungen des Sachentscheides und Nichteintreten, mit der Kasuistik der Luzerner Gerichte zu den einzelnen Eintretensvoraussetzungen, insbesondere zur Beschwerdebefugnis (lit. d) und zur frist- und formgerechten Rechtsvorkehr (lit. e)."
+tags: ["VRG", "Luzern", "Nichteintreten", "Sachentscheid", "Beschwerdebefugnis", "Rechtsmittelfrist", "Formvorschriften", "Eintretensvoraussetzungen"]
+agent_verified: false
+revisions:
+  - date: 2026-09-06
+    by: Claude Code
+    model: claude-opus-5
+    mcp_verified: true
+    note: "Erstkommentierung. Gesetzeswortlaut aus SRL 40 (Stand 1.9.2021, srl.lu.ch). Sämtliche Entscheide über entscheidsuche.ch im Volltext gesichtet und verifiziert."
 ---
 
-# § 107 — Voraussetzungen des Sachentscheides, Nichteintreten
+## Gesetzeswortlaut
 
-## Gesetzestext
-
-> **§ 107** Voraussetzungen des Sachentscheides, Nichteintreten
+> **§ 107 2. Voraussetzungen des Sachentscheides, Nichteintreten**
 >
 > 1 Die Behörde prüft von Amtes wegen, ob die Voraussetzungen für einen Sachentscheid erfüllt sind. Sie kann das Verfahren und den Entscheid vorerst auf diese Fragen beschränken.
 >
 > 2 Ein Sachentscheid setzt namentlich voraus:
 >
->   a. Zuständigkeit der angerufenen Behörde;
+> a. Zuständigkeit der angerufenen Behörde;
 >
->   b. Partei- und Verfahrensfähigkeit der Parteien;
+> b. Partei- und Verfahrensfähigkeit der Parteien;
 >
->   c. Vertretungsbefugnis der Parteivertreter;
+> c. Vertretungsbefugnis der Parteivertreter;
 >
->   d. Befugnis zur Rechtsvorkehr;
+> d. Befugnis zur Rechtsvorkehr;
 >
->   e. frist- und formgerechte Rechtsvorkehr;
+> e. frist- und formgerechte Rechtsvorkehr;
 >
->   f. dass in der gleichen Sache kein anderes Verfahren hängig ist;
+> f. dass in der gleichen Sache kein anderes Verfahren hängig ist;
 >
->   g. dass in der gleichen Sache kein rechtskräftiger Entscheid ergangen ist, dessen Änderung oder Aufhebung der angerufenen Behörde nicht zusteht.
+> g. dass in der gleichen Sache kein rechtskräftiger Entscheid ergangen ist, dessen Änderung oder Aufhebung der angerufenen Behörde nicht zusteht.
 >
 > 3 Fehlt eine Voraussetzung für den Sachentscheid, so tritt die Behörde auf die Sache der betreffenden Partei nicht ein.
 
-*Quelle: Gesetz über die Verwaltungsrechtspflege des Kantons Luzern (VRG; SRL Nr. 40) § 107, Systematische Rechtssammlung des Kantons Luzern, https://srl.lu.ch/app/de/texts_of_law/40*
+*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
 
----
+## Überblick und Bedeutung
 
-## I. Überblick und systematische Einordnung
+§ 107 VRG ist das zentrale Nichteintretensreglement des luzernischen Verwaltungsverfahrensrechts. Die Bestimmung listet die Prozessvoraussetzungen auf, ohne deren Vorliegen ein Sachentscheid nicht ergehen darf. Die Behörde prüft diese Voraussetzungen von Amtes wegen (Abs. 1) — sie kann und muss auch ohne Antrag einer Partei das Verfahren einstellen, wenn eine Eintretensvoraussetzung fehlt.
 
-§ 107 VRG ist die zentrale Verfahrensnorm des luzernischen Verwaltungsrechtspflegegesetzes. Mit 138 dokumentierten Treffern in der luzernischen Rechtsprechung ist sie die am häufigsten zitierte Norm des gesamten VRG. Dies verwundert nicht: Die Bestimmung regelt die **Sachurteilsvoraussetzungen** des gesamten Rechtsmittelverfahrens und bildet damit das prozessuale Einfallstor für jedes Verwaltungsbeschwerde- und Verwaltungsgerichtsbeschwerdeverfahren im Kanton Luzern.
+In der Luzerner Praxis sind vor allem zwei Eintretensvoraussetzungen streitanfällig:
 
-Sachurteilsvoraussetzungen sind die prozessualen Hindernisse, die vor der materiellen Prüfung eines Rechtsbegehrens zu überwinden sind. Fehlt auch nur eine einzige, ist der Behörde ein Sachentscheid verwehrt; sie hat auf die Sache nicht einzutreten (§ 107 Abs. 3 VRG). § 107 VRG übernimmt damit eine Funktion, die im Bundesrecht in Art. 48 ff. VwVG und in Art. 89 ff. BGG geregelt ist. Konzeptionell stehen die luzernischen Sachurteilsvoraussetzungen in der Tradition des schweizerischen Verwaltungsprozessrechts, wie es auch in anderen Kantonen (z.B. Zürich, Bern) ausgestaltet ist.
+- **lit. d (Befugnis zur Rechtsvorkehr / Beschwerdebefugnis)**: Die am häufigsten umstrittene Voraussetzung. Die Frage, wer befugt ist, eine Rechtsvorkehr zu ergreifen, entscheidet sich nach der besonderen Beziehungsnähe zum Streitgegenstand.
+- **lit. e (frist- und formgerechte Rechtsvorkehr)**: Die Frage, ob die Rechtsmittelfrist gewahrt wurde und die Formvorschriften eingehalten sind, betrifft besonders Laienbeschwerden und elektronische Eingaben.
 
-Die Norm steht im dritten Abschnitt des VRG (Rechtsmittelverfahren) und gilt für **alle** im VRG geregelten Rechtsmittel — die Verwaltungsbeschwerde (§§ 128 ff. VRG), die Verwaltungsgerichtsbeschwerde (§§ 132 ff. VRG) sowie die Aufsichtsbeschwerde (§§ 180 ff. VRG), soweit das VRG dort anwendbar ist. Sie gilt sinngemäss auch für Klageverfahren nach §§ 190 ff. VRG.
+| Eintretensvoraussetzung | Praktischer Konfliktpunkt |
+|---|---|
+| Zuständigkeit (lit. a) | Welche Instanz ist zuständig? |
+| Partei- und Verfahrensfähigkeit (lit. b) | Partei- und Verfahrensfähigkeit juristischer Personen, Vereinigungen |
+| Vertretungsbefugnis (lit. c) | Vollmacht, Duldungsvollmacht |
+| **Befugnis zur Rechtsvorkehr (lit. d)** | **Beschwerdebefugnis, besondere Beziehungsnähe, praktisches Interesse** |
+| **frist- und formgerechte Rechtsvorkehr (lit. e)** | **Fristwahrung, elektronische Eingabe, E-Mail, Laienbeschwerden** |
+| Hängigkeit (lit. f) | Rechtshängigkeitssperre |
+| Rechtskraft (lit. g) | Res iudicata, Wiedererwägung |
 
----
+## Kommentierung
 
-## II. Absatz 1: Amtes-wegen-Prüfung und Beschränkung des Verfahrens
+### A. Amtswegige Prüfung (Abs. 1)
 
-### 1. Grundsatz der Amtes-wegen-Prüfung
+Die amtsweise Prüfung der Eintretensvoraussetzungen ist zwingend. Das Verwaltungsgericht hat ausdrücklich festgehalten:
 
-Absatz 1 Satz 1 statuiert den Grundsatz, dass die Behörde **von Amte wegen** prüft, ob die Sachurteilsvoraussetzungen erfüllt sind. Die Prüfung ist nicht an das Begehren einer Partei gebunden; sie erfolgt zwingend und unabdingbar bei jedem Eingang eines Rechtsmittels. Die luzernische Rechtsprechung hat diesen Grundsatz wiederholt bekräftigt: Das Verwaltungsgericht prüft von Amte wegen und mit **freier Kognition** die Zulässigkeit von Rechtsmitteln, die ihm unterbreitet werden (LGVE S 02 391; vgl. auch LGVE 7H 17 136 E. 2.1).
+> «Das Verwaltungsgericht prüft von Amtes wegen, ob die Voraussetzungen für einen Sachentscheid erfüllt sind (§ 107 Abs. 1 VRG).»
 
-Dieser Grundsatz entspricht dem bundesgerichtlichen Procedere (vgl. Art. 89 Abs. 1 BGG, Art. 48 VwVG) und ist Ausdruck der amtswegigen Verfahrensleitung (§ 37 VRG). Die Prüfung erstreckt sich auf sämtliche in Absatz 2 genannten Voraussetzungen, ohne dass sich eine Partei explizit darauf berufen müsste. Selbst wenn keine Partei einen Zulässigkeitseinwand erhebt, hat die Behörde die Sachurteilsvoraussetzungen zu prüfen.
+([V 11 42/1 vom 15.03.2012](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-42-1_2012-03-15.html); [V 12 137 vom 21.01.2013](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-12-137_2013-01-21.html)).
 
-### 2. Beschränkung des Verfahrens auf Zulässigkeitsfragen
+Die Behörde kann das Verfahren und den Entscheid vorerst auf die Eintretensfragen beschränken (Abs. 1 Satz 2). Dieses Vorgehen empfiehlt sich, wenn die Eintretensvoraussetzungen zweifelhaft sind und ihre Klärung den Sachentscheid erübrigen kann.
 
-Absatz 1 Satz 2 räumt der Behörde das **Ermessen** ein, das Verfahren und den Entscheid vorerst auf die Zulässigkeitsfragen zu beschränken. Dies ermöglicht ein sogenanntes **getrenntes Zulässigkeits- und Begründetheitsverfahren** (Doppelverfahren), das in der Praxis bei komplexen Streitigkeiten häufig angewendet wird, um unnötigen Aufwand in der Sachaufklärung zu vermeiden, wenn die Unzulässigkeit des Rechtsmittels nahe liegt. Die Behörde ist jedoch nicht verpflichtet, von dieser Möglichkeit Gebrauch zu machen; sie kann Zulässigkeit und Begründetheit auch in einem einheitlichen Verfahren prüfen.
+### B. Beschwerdebefugnis (lit. d)
 
----
+Die Befugnis zur Rechtsvorkehr — die Beschwerdebefugnis — ist die am häufigsten umstrittene Eintretensvoraussetzung. Ein Sachentscheid setzt voraus, dass die beschwerdeführende Person befugt ist, die Rechtsvorkehr zu ergreifen (§ 107 Abs. 2 lit. d VRG).
 
-## III. Absatz 2: Die einzelnen Sachurteilsvoraussetzungen
+#### 1. Dogmatische Grundlinie
 
-Absatz 2 enthält eine **nicht abschliessende** Aufzählung („namentlich") der Sachurteilsvoraussetzungen. Weitere in der Rechtsprechung anerkannte Voraussetzungen können hinzutreten — namentlich das Erfordernis eines **angefochtenen Entscheids** als Anfechtungsobjekt (§ 4 VRG) sowie eine **hinreichende Substanziierung** des Rechtsbegehrens.
+Die Beschwerdebefugnis setzt voraus, dass die beschwerdeführende Person eine **besondere Beziehungsnähe** zum Streitgegenstand hat und aus der Aufhebung oder Änderung des angefochtenen Entscheids einen **praktischen Nutzen** zieht. Die blosse Betroffenheit als Bürgerin oder Bürger reicht nicht aus.
 
-### 1. Lit. a: Zuständigkeit der angerufenen Behörde
+> «Ein Sachentscheid setzt laut § 107 Abs. 2 lit. d VRG weiter die Befugnis zur Rechtsvorkehr (»Legitimation«) voraus.»
 
-Die angerufene Behörde muss sachlich, örtlich und funktionell für die Beurteilung des Rechtsmittels zuständig sein. Die Zuständigkeitsordnung ergibt sich aus dem VRG selbst (§§ 11–13 VRG) und den jeweiligen Sachgesetzen. Fehlt die Zuständigkeit, so ist das Rechtsmittel an die zuständige Behörde zu überweisen (§ 12 VRG) oder, falls keine andere Behörde die Sache übernimmt, durch Nichteintretensentscheid zu erledigen (§ 13 Abs. 2 VRG).
+([V 11 42/1 vom 15.03.2012](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-42-1_2012-03-15.html)).
 
-In der Praxis wird die Zuständigkeitsprüfung vor allem bei der Abgrenzung zwischen Verwaltungsbeschwerde und Verwaltungsgerichtsbeschwerde relevant, etwa wenn Spezialgesetze abweichende Rechtsmittelwege vorsehen (vgl. z.B. LGVE 7H 13 44 — Zuständigkeit der Dienststelle Steuern im Schatzungsverfahren).
+#### 2. Grenzziehung: Angewandt vs. verworfen
 
-### 2. Lit. b: Partei- und Verfahrensfähigkeit der Parteien
+| Sachverhalt | Beurteilung | Entscheid |
+|---|---|---|
+| Grundeigentümer, der sich gegen Einzonungen wehrt, die über 400 m von seinem Grundstück entfernt liegen | Keine besondere Beziehungsnähe; Nichteintreten | [V 11 42/1 vom 15.03.2012](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-42-1_2012-03-15.html) |
+| Gemeinde, die gegen Baubewilligung beschwert, deren Adressatin eine andere Partei ist, der die Gemeinde aber korrekt beigeladen war | Beschwerdefähigkeit trotz fehlerhafter Eröffnung bejaht, wenn die Gemeinde den Entscheid auf anderem Weg erhalten hat | [V 09 53 vom 22.12.2009](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-09-53_2009-12-22.html) |
+| Gemeinwesen mit subsidiärer Kostentragungspflicht in Beistandssachen | Befugt, wenn im Streit steht, ob die subsidiäre Kostentragungspflicht tatsächlich zum Tragen kommt | [3H 22 90 vom 26.09.2023](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_002_3H-22-90_2023-09-26.html) |
+| Nutzer einer Golfplatzanlage im Baubewilligungsverfahren betreffend Clubhaus | Fehlende Beschwerdebefugnis: Keine besondere Beziehungsnähe zur Baubewilligung | [7H 22 39 vom 12.05.2022](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-22-39_2022-05-12.html) |
+| Private Grundeigentümer gegen negative Plangenehmigung | Grundsätzlich keine Beschwerdebefugnis, da sie nicht Verfügungsadressaten sind | [7H 20 45 vom 21.04.2021](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-20-45_2021-04-21.html) |
+| Gemeinde gegen Verkehrsanordnung auf dem Gebiet einer Nachbargemeinde | Beschwerdebefugnis bejaht, soweit die Gemeinde als Gemeinwesen betroffen ist | [A 10 269 vom 29.06.2011](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-10-269_2011-06-29.html) |
 
-**Parteifähigkeit** (§ 18 VRG) setzt voraus, dass die Partei nach privatem oder öffentlichem Recht unter eigenem Namen Rechte und Pflichten haben kann. Behörden sind parteifähig, soweit ein Rechtssatz sie zur Einreichung eines Rechtsmittels ermächtigt (§ 18 Abs. 2 VRG).
+> **Leitsatz.** Die Beschwerdebefugnis nach § 107 Abs. 2 lit. d VRG setzt eine besondere Beziehungsnähe zum Streitgegenstand und einen praktischen Nutzen aus der Aufhebung oder Änderung des angefochtenen Entscheids voraus. Die blosse Betroffenheit als Bürgerin oder Bürger genügt nicht.
 
-**Verfahrensfähigkeit** (§ 19 VRG) verlangt, dass der Partei für den Gegenstand des Verfahrens die Handlungsfähigkeit zusteht. Nicht handlungsfähige Personen werden durch ihren gesetzlichen Vertreter vertreten.
+### C. Frist- und formgerechte Rechtsvorkehr (lit. e)
 
-Die Rechtsprechung hat die Parteifähigkeit in verschiedenen Konstellationen verneint:
-- Ein **Initiativkomitee**, das nicht in der Form einer juristischen Person organisiert ist, hat **keine generelle Partei- und Prozessfähigkeit** und ist nicht zur Anfechtung von Verkehrsanordnungen legitimiert (LGVE A 05 204_1; A 05 204_2).
-- **Politische Parteien** sind im Baubewilligungsverfahren nicht beschwerdebefugt; sie haben ihren Standpunkt auf der Ebene des politischen Diskurses einzubringen und nicht im Rahmen eines Baubewilligungsverfahrens (LGVE V 97 181; A 05 204_1).
+#### 1. Fristwahrung
 
-Zur Verfahrensfähigkeit hat das Verwaltungsgericht entschieden, dass die Befugnis, einen Führerausweisentzug auf dem Beschwerdeweg anzufechten, grundsätzlich nicht zu den höchstpersönlichen Rechten gehört. Eine Ausnahme besteht, wenn sich die angefochtene Verfügung auf medizinische Gründe stützt und der Verfügungsadressat zu ärztlichen Untersuchungen verpflichtet wird (LGVE A 97 336; § 19 VRG i.V.m. Art. 19 ZGB).
+Die Rechtsmittelfrist ist eine zwingende Verwirkungsfrist. Nach Ablauf der Frist eingereichte Beschwerden sind unzulässig, und die Behörde tritt nicht darauf ein.
 
-### 3. Lit. c: Vertretungsbefugnis der Parteivertreter
+**Verspätung nach mangelhafter Eröffnung**: Wo der Entscheid einer Partei nicht ordnungsgemäss eröffnet wurde, beginnt die Frist nicht zu laufen. Das Verwaltungsgericht hat jedoch klargestellt, dass die mangelhafte Eröffnung die Frist nicht unbegrenzt aufschiebt: Erlangt die Partei auf andere Weise Kenntnis vom Entscheid, beginnt die Frist ab diesem Zeitpunkt zu laufen ([V 09 53 vom 22.12.2009](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-09-53_2009-12-22.html)).
 
-Die Vertretungsbefugnis richtet sich nach §§ 22–24 VRG. Vor dem Kantonsgericht ist die berufsmässige Parteivertretung grundsätzlich patentierten Anwälten vorbehalten (§ 23 Abs. 2 VRG). Gemeinwesen können sich auch durch ihre Behördenmitglieder oder Angestellten vertreten lassen (§ 23 Abs. 3 VRG). Fehlt die Vertretungsbefugnis, ist der Mangel im Rahmen von § 24 Abs. 3 VRG (fehlende Vollmachtsurkunde) zu sanieren, andernfalls ist auf die Eingaben des Vertreters nicht einzutreten.
+#### 2. Formvorschriften und überspitzter Formalismus
 
-### 4. Lit. d: Befugnis zur Rechtsvorkehr (Beschwerdebefugnis)
+Das Kantonsgericht hat die bundesgerichtliche Rechtsprechung zum Verbot des überspitzten Formalismus auf das luzernische Verfahrensrecht übertragen. Eine per E-Mail eingereichte Einsprache genügt den Formvorschriften nicht. Reicht ein juristischer Laie jedoch innert Rechtsmittelfrist eine Einsprache per E-Mail ein, hat die Rechtsmittelinstanz unter Vorbehalt, dass die Eingabe nicht gegen Treu und Glauben verstösst, eine kurze Nachfrist zur Behebung des Formmangels zu gewähren — nötigenfalls über die Rechtsmittelfrist hinaus ([7H 14 310 vom 18.05.2015](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)).
 
-Die **Befugnis zur Rechtsvorkehr** — die Beschwerdebefugnis im engeren Sinne — ist die在实践中 mit Abstand bedeutamste und am häufigsten umstrittene Sachurteilsvoraussetzung. Sie korrespondiert mit § 129 VRG (Beschwerdebefugnis im Allgemeinen) und den jeweiligen spezialgesetzlichen Bestimmungen (z.B. § 207 PBG im Baurecht).
+> **Leitsatz.** Ein nach Ablauf der Rechtsmittelfrist erklärter Prozesseintritt ist kein Parteianbringen im Sinne von § 106 Abs. 2 VRG. Die fehlende Legitimation stellt keinen formellen Mangel der Beschwerdeschrift nach § 135 Abs. 2 VRG dar, sondern eine Eintretensvoraussetzung nach § 107 Abs. 2 lit. d VRG.
 
-#### a) Grundsatz
+### D. Res iudicata und Wiedererwägung (lit. g)
 
-Beschwerdebefugt ist, wer durch den angefochtenen Entscheid **besonders berührt** ist und an dessen Änderung oder Aufhebung ein **schutzwürdiges Interesse** hat (§ 129 Abs. 1 VRG; § 207 Abs. 1 lit. a PBG im Baurecht). Das schutzwürdige Interesse besteht im **praktischen Nutzen**, den die erfolgreiche Beschwerde dem Beschwerdeführer eintragen soll, also in der Abwendung eines materiellen oder ideellen Nachteils, den der angefochtene Entscheid für ihn zur Folge hätte (LGVE A 07 21_1). Ein blosses Interesse am richtigen Vollzug des Rechts genügt nicht.
+§ 107 Abs. 2 lit. g VRG steht der Einholung eines Sachentscheids entgegen, wenn in derselben Sache bereits ein rechtskräftiger Entscheid ergangen ist, dessen Änderung oder Aufhebung der angerufenen Behörde nicht zusteht. Dies betrifft:
 
-#### b) Allgemeinverfügungen
+- **Res iudicata**: Ein neuer Sachentscheid in derselben Sache ist ausgeschlossen, wenn der frühere Entscheid rechtskräftig geworden ist.
+- **Wiedererwägung**: Ein Gesuch um Wiedererwägung (§§ 174–179 VRG) ist nur zulässig, wenn sich der entscheidungsrelevante Sachverhalt nachträglich wesentlich verändert hat. Die wesentliche Änderung muss nicht anspruchsverändernd sein — auch die wesentliche Änderung eines der Abweisungsgründe genügt als Eintretensvoraussetzung ([JSD 2011 10 vom 15.11.2011](https://entscheidsuche.ch/docs/LU_Gerichte/LU_AVW_002_JSD-2011-10_2011-11-15.html)).
 
-Bei **Allgemeinverfügungen** (z.B. Verkehrsanordnungen) ist zur Beschwerde nur legitimiert, wer durch den angefochtenen Entscheid besonders berührt ist. Das schutzwürdige Interesse besteht auch hier im praktischen Nutzen (LGVE A 07 21_1). Eine bloss unbedeutende Beeinträchtigung — etwa eine Temporeduktion von 50 km/h auf 30 km/h mit einer Verkehrsverlangsamung von wenigen Sekunden — genügt nicht, um die Beschwerdelegitimation zu begründen. Dies gilt für Strassenanstösser wie für Quartierbewohner, die ausserhalb der Tempo-30-Zone wohnen, diese aber regelmässig traversieren müssen (LGVE A 07 21_2).
+Das Verwaltungsgericht hat klargestellt, dass ein Nichteintreten auf ein Wiedererwägungsgesuch dann nicht in Frage kommt, wenn die Vorinstanz das Gesuch materiell geprüft und abgelehnt hat — in diesem Fall liegt ein neuer Sachentscheid vor, der seinerseits anfechtbar ist ([V 10 66 vom 07.06.2010](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-10-66_2010-06-07.html)).
 
-#### c) Beschwerdelegitimation im Baurecht
+### E. Kantonale Praxisfragen
 
-Im öffentlichen Bauverfahren ist die Beschwerdelegitimation in § 207 PBG geregelt, der § 107 Abs. 2 lit. d VRG konkretisiert. Die luzernische Rechtsprechung legt die Anforderungen an die Beschwerdelegitimation im Baurecht differenziert aus:
+1. **Beschwerdebefugnis im Baurecht**: Die Beschwerdebefugnis im Baubewilligungsverfahren setzt eine konkrete, nahe und aktuelle Betroffenheit voraus. Ein Grundeigentümer, der sich im Rahmen einer Gesamtzonenplanung gegen Einzonungen wehrt, muss seine Befugnis bei jeder einzelnen umstrittenen Zonenzuweisung dartun ([V 11 42/1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-42-1_2012-03-15.html)).
 
-- **Räumliche Beziehungsnähe** allein ist nicht entscheidend; vielmehr ist eine Prüfung aufgrund der **gesamten Verhältnisse** vorzunehmen, wobei weitere Gesichtspunkte wie Art und Ausmass der Beeinträchtigung, Schutzwürdigkeit der geltend gemachten Interessen und konkrete Auswirkungen auf die Eigentumsnutzung einzubeziehen sind (LGVE 7H 17 95).
-- Wer ausschliesslich einen eigenen Nutzen an einem Bauprojekt auf benachbarten Grundstücken hat, gleichzeitig **keinerlei eigene Interessen** an der Erhebung eines Rechtsmittels benennen kann und damit im alleinigen Interesse eines Dritten auf dessen Kosten Beschwerde führt, **missbraucht** das Institut der Verwaltungsgerichtsbeschwerde im öffentlichen Bauverfahren. Dabei ist unerheblich, wer der Dritte ist, in dessen Interesse der Beschwerdeführer handelt (LGVE 7H 15 309; LGVE 2018 IV Nr. 11).
-- Ein Nutzer einer Golfplatzanlage ist im Baubewilligungsverfahren betreffend die Erstellung eines Clubhauses **nicht beschwerdebefugt** (LGVE 7H 22 39).
+2. **Beschwerdebefugnis von Gemeinwesen**: Gemeinwesen sind als Gemeinwesen im Sinne von § 1 VRG beschwerdebefugt, wenn sie in ihrer Eigenschaft als Gemeinwesen betroffen sind. Das gilt auch für Nachbargemeinden, wenn die Verkehrsanordnung ihr Gebiet betrifft ([A 10 269](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-10-269_2011-06-29.html)).
 
-Bei der Gesamtzonenplanung muss ein Grundeigentümer, der sich gegen diverse Einzonungen wehrt, seine Befugnis zur Rechtsvorkehr bei **jeder einzelnen** umstrittenen neuen Zonenzuweisung darlegen. Die Beschwerdebefugnis setzt voraus, dass die beschwerdeführende Person eine **besonderen Beziehungsnähe** zu jeder Zonenzuweisung hat und aus der Aufhebung oder Änderung der beanstandeten Zonenzuweisungen einen **praktischen Nutzen** zieht (LGVE V 11 42_1).
+3. **Wiedererwägung und res iudicata**: Ein nachträgliches Gesuch um Neubeurteilung ist nur zulässig, wenn sich der Sachverhalt wesentlich verändert hat. Die blosse Unzufriedenheit mit dem früheren Entscheid genügt nicht ([JSD 2011 10](https://entscheidsuche.ch/docs/LU_Gerichte/LU_AVW_002_JSD-2011-10_2011-11-15.html)).
 
-#### d) Beschwerdelegitimation von Gemeinwesen
+### F. Praxishinweise
 
-Gemeinwesen (Kanton, Gemeinden, Landeskirchen) sind beschwerdebefugt, soweit ein Rechtssatz sie dazu ermächtigt (§ 18 Abs. 2 VRG). Die luzernische Rechtsprechung differenziert:
+**Für die beschwerdeführende Partei:**
 
-- Eine **Gemeinde** ist bei Verkehrsanordnungen auf Kantonsstrassen nur beschwerdeberechtigt, wenn eine Verkehrsmassnahme auf ihrem Gebiet angeordnet, nicht aber wenn sie verweidert wird, da ihr für Kantonsstrassen keine hoheitlichen Befugnisse zustehen (LGVE 7H 17 136).
-- In **sozialhilferechtlichen** Streitigkeiten sind Gemeinden beschwerdebefugt, wenn sie in einem Entscheid verpflichtet werden, im Rahmen der Sozialhilfe finanzielle Leistungen zu erbringen (LGVE A 12 101_2; Praxisänderung).
-- Ein Gemeinwesen, das im Fall der Mittellosigkeit der verbeiständeten Person für die Entschädigung der Beistandsperson aufzukommen hat, ist zur Verwaltungsgerichtsbeschwerde legitimiert, wenn im Streit steht, ob die subsidiäre Kostentragungspflicht tatsächlich zum Tragen kommt (LGVE 3H 22 90; LGVE 2023 II Nr. 12).
-- Das **Amt für Migration** ist nicht befugt, gegen einen ablehnenden Entscheid über eine Härtefallbewilligung ein Rechtsmittel zu ergreifen (LGVE JSD 2008 5; Art. 14 AsylG i.V.m. § 107 Abs. 2 lit. d und Abs. 3 VRG).
+1. Die Beschwerdebefugnis ist darzulegen und gegebenenfalls zu beweisen — die Mitwirkungspflicht erstreckt sich auch auf die Frage der Legitimation (§§ 55 und 133 VRG; [V 08 276](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-08-276_2009-10-09.html)).
+2. Eine per E-Mail eingereichte Beschwerde genügt den Formvorschriften nicht — unverzüglich eine fristgerechte Nachreichung auf Papier oder mit qualifizierter Signatur veranlassen ([7H 14 310](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)).
+3. Gegen ein Nichteintreten ist die Rechtsmittelbeschwerde zulässig, sofern die Eintretensfrage nicht bereits in einem Zwischenentscheid verbindlich geklärt wurde.
 
-#### e) Beschwerdelegitimation von Verbänden und Organisationen
+**Für die Verfahrensleitung:**
 
-- Ein schweizerischer **Berufsverband**, der im eigenen Namen im Interesse seiner Mitglieder Beschwerde führt, ist nur beschwerdebefugt, wenn die Mehrheit bzw. eine Grosszahl der Mitglieder betroffen ist. Für diese Beurteilung ist die Anzahl der Mitglieder allein nicht massgebend; zu berücksichtigen sind vielmehr die Mitglieder, die aktuell in der betroffenen Region bzw. im Kanton Luzern tätig sind (LGVE GSD 2015 12).
-- Der **Innerschweizer Heimatschutz** ist mangels Rechtsgrundlage nicht legitimiert, Beschwerde gegen die Unterschutzstellung eines Gebäudes zu führen (LGVE V 13 37; § 14 Abs. 1 lit. g VRG i.V.m. § 25a DSchG).
-- Eine **politische Partei** vermag aus dem Umstand, dass sie am öffentlichen Geschehen naturgemäss grösseren Anteil nimmt, in einem bau- und planungsrechtlichen Verfahren keine besondere Betroffenheit darzutun (LGVE V 97 181; LGVE MPUD 1997 3).
-
-#### f) Fehlende Beschwerdebefugnis und Kostenerlass
-
-Verfahrenskosten, welchen einer Partei in einem Verwaltungsbeschwerdeverfahren auferlegt werden, stellen **Abgaben** im Sinne von § 150 Abs. 1 lit. g VRG dar. Gegen Entscheide über den Erlass solcher Kosten ist die Verwaltungsgerichtsbeschwerde **unzulässig**. Ist die Verwaltungsgerichtsbeschwerde in der Hauptsache ausgeschlossen, kann ihre Zulässigkeit auch nicht wegen Verletzung von kantonalem Verfahrensrecht im Verwaltungsverfahren bejaht werden (Grundsatz der Einheit des Prozesses; LGVE V 01 205).
-
-### 5. Lit. e: Frist- und formgerechte Rechtsvorkehr
-
-#### a) Fristwahrung
-
-Die Einhaltung der Rechtsmittelfristen (§§ 31–36 VRG; § 133 VRG) ist zwingende Sachurteilsvoraussetzung. Die Beschwerdefristen des VRG sind **Verwirklungsfristen**; bei Fristversäumnis ist die Wiederherstellung nur unter den strengen Voraussetzungen von § 36 VRG möglich (unverschuldetes Versäumnis, Gesuch innert 10 Tagen seit Wegfall des Hindernisses, gleichzeitige Nachholung des Versäumnisses). Besonders bedeutsam ist dies im Baurecht: Die in § 206 PBG statuierte Frist ist eine **zwingende Verwirkungsfrist** (LGVE V 08 276).
-
-Ein nach Ablauf der Beschwerdefrist erklärter **Prozesseintritt** stellt kein Parteianbringen im Sinne von § 106 Abs. 2 VRG dar und vermag die versäumte Frist nicht zu heilen. Die fehlende Legitimation ist auch kein formeller Mangel der Beschwerdeschrift, der im Rahmen von § 135 Abs. 2 VRG saniert werden könnte (LGVE V 08 276).
-
-#### b) Formvorschriften
-
-Die Formvorschriften (§§ 25–30 VRG) sind gleichfalls zwingende Sachurteilsvoraussetzungen. Die luzernische Rechtsprechung hat insbesondere zu den elektronischen Formvorschriften Stellung genommen:
-
-- Eine **E-Mail-Einsprache** genügt den Formvorschriften des § 26 VRG nicht. Reicht ein juristischer Laie innert Rechtsmittelfrist eine Einsprache per E-Mail ein, hat die Rechtsmittelinstanz — unter Vorbehalt, dass die Eingabe nicht gegen Treu und Glauben verstösst und bewusst erfolgte, um eine Fristerstreckung zu erwirken — dem Einsprecher eine **kurze Nachfrist zur Behebung dieses Formmangels** zu gewähren; nötigenfalls über die Rechtsmittelfrist hinaus. Dies folgt aus Art. 29 Abs. 1 BV (Recht auf rechtliches Gehör) i.V.m. Art. 9 BV (Verbot formaler Rechtsverweigerung; LGVE 7H 14 310).
-
-#### c) Inhaltliche Anforderungen der Beschwerdeschrift
-
-Die Beschwerdeschrift muss die in § 135 VRG genannten Inhalte aufweisen, namentlich Bezeichnung der Parteien, den angefochtenen Entscheid, die Anträge und deren Begründung. Unzureichend substanziierte Rechtsbegehren können zur Nichteintretensverfügung führen.
-
-### 6. Lit. f: Kein hängiges Verfahren in der gleichen Sache
-
-Die **Litispendenz** (§ 107 Abs. 2 lit. f VRG) verhindert, dass die gleiche Streitsache bei zwei verschiedenen Behörden gleichzeitig anhängig ist. Die Voraussetzung dient der Vermeidung einander widersprechender Entscheide und dem Schutz der Prozessökonomie. „Gleiche Sache" bedeutet Identität von Parteien, Streitgegenstand und Lebenssachverhalt.
-
-### 7. Lit. g: Kein bindender rechtskräftiger Entscheid
-
-Die **Rechtskraft** (§ 107 Abs. 2 lit. g VRG) schliesst eine erneute Beurteilung derselben Sache aus, soweit die angerufene Behörde nicht zur Änderung oder Aufhebung des rechtskräftigen Entscheids zuständig ist. Die Bestimmung kodifiziert den allgemeinen rechtsstaatlichen Grundsatz der *res judicata*. Massgeblich ist, ob zwischen dem rechtskräftigen und dem neuen Verfahren Identität der Parteien, des Streitgegenstands und des Lebenssachverhalts besteht (triple identité).
-
----
-
-## IV. Absatz 3: Nichteintreten
-
-Fehlt **auch nur eine einzige** Sachurteilsvoraussetzung, so tritt die Behörde auf die Sache der betreffenden Partei nicht ein (§ 107 Abs. 3 VRG). Der Nichteintretensentscheid ist ein **prozessualer Endentscheid**, der nicht in der Sache selbst entscheidet, sondern die prozessuale Hürde als unüberwindbar feststellt.
-
-### 1. Wirkungen des Nichteintretens
-
-Das Nichteintreten hat **nur für die betreffende Partei** die Folge, dass auf ihr Rechtsmittel nicht eingetreten wird. Andere Parteien im gleichen Verfahren, deren Sachurteilsvoraussetzungen erfüllt sind, werden dadurch nicht betroffen. Der Nichteintretensentscheid ist selbstständig anfechtbar, sofern die Anfechtbarkeit nicht durch Gesetz ausgeschlossen wird.
-
-### 2. Abgrenzung zum Sachentscheid
-
-Die Behörde hat strikt zwischen Nichteintretens- und Sachentscheid zu unterscheiden. Ein Nichteintreten verneint die Zulässigkeit des Rechtsmittels; ein Sachentscheid verneint die Begründetheit. Insbesondere die Abgrenzung zwischen fehlender Beschwerdebefugnis (Nichteintreten) und fehlendem rechtlichen Interesse an der Aufhebung / Änderung (Sachentscheid mit Abweisung) kann in der Praxis schwierig sein. Grundsätzlich fehlt die Beschwerdebefugnis, wenn das geltend gemachte Interesse nicht den Anforderungen an ein schutzwürdiges Interesse genügt; hingegen ist ein Sachentscheid zu fällen, wenn das Interesse zwar besteht, die Beschwerde aber aus materiellen Gründen abzuweisen ist.
-
----
-
-## V. Verhältnis zum Bundesrecht
-
-Die luzernischen Sachurteilsvoraussetzungen stehen im Einklang mit den bundesrechtlichen Anforderungen an die Zulässigkeit von Rechtsmitteln. Art. 89 Abs. 1 BGG verlangt für die Beschwerde ans Bundesgericht, dass die beschwerdeführende Partei durch den angefochtenen Entscheid besonders berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat. Das Bundesgericht hat in ständiger Praxis den Massstab des „praktischen Nutzens" entwickelt — ein Massstab, den das Luzerner Verwaltungsgericht übernimmt (LGVE A 07 21_1).
-
-Bei Raumplanungssachen gilt der besondere bundesrechtliche Anspruch auf Rechtsschutz nach Art. 24 i.V.m. Art. 33 Abs. 2 und 3a RPG: Gegen Verfügungen, die gestützt auf Art. 24 RPG ergehen, hat das kantonale Recht die Rechtsmittelbefugnisse **mindestens im gleichen Umfang** zu gewährleisten, wie sie für die Verwaltungsgerichtsbeschwerde ans Bundesgericht bestehen. Juristische Personen sind gleichermassen zur Beschwerde befugt wie natürliche Personen (LGVE RRE Nr. 2542; LGVE 1991 III Nr. 12).
-
----
-
-## VI. Verhältnis zu weiteren VRG-Normen
-
-§ 107 VRG bildet das Grundgerüst der Zulässigkeitsprüfung, wird jedoch durch verschiedene andere VRG-Bestimmungen ergänzt und konkretisiert:
-
-| Norm | Bezug zu § 107 VRG |
-|------|---------------------|
-| § 4 VRG | Definition des Entscheids als Anfechtungsobjekt |
-| §§ 17–19 VRG | Parteifähigkeit und Verfahrensfähigkeit (§ 107 Abs. 2 lit. b) |
-| §§ 22–24 VRG | Vertretungsbefugnis (§ 107 Abs. 2 lit. c) |
-| § 26 VRG | Formvorschriften (§ 107 Abs. 2 lit. e) |
-| § 36 VRG | Wiederherstellung versäumter Fristen |
-| § 106 Abs. 2 VRG | Berücksichtigung verspäteter Parteianbringen |
-| § 128 VRG | Verwaltungsgerichtsbeschwerde: allgemeine Zulässigkeitsvoraussetzungen |
-| § 129 VRG | Beschwerdebefugnis im Allgemeinen (§ 107 Abs. 2 lit. d) |
-| § 133 VRG | Beschwerdefristen |
-| § 135 VRG | Formerfordernisse der Beschwerdeschrift |
-| § 135 Abs. 2 VRG | Nachfrist zur Behebung formeller Mängel |
-| § 142 VRG | Streitgegenstand (konkretisiert § 107 Abs. 2 lit. d) |
-| § 148 VRG | Ausschlussgründe der Verwaltungsgerichtsbeschwerde |
-| § 150 VRG | Kostenerlass als Abgabe (unzulässige Verwaltungsgerichtsbeschwerde) |
-
----
-
-## VII. Praxishinweise
-
-1. **Prüfreihenfolge**: Die Sachurteilsvoraussetzungen sind in der Reihenfolge des § 107 Abs. 2 VRG zu prüfen. Die Beschwerdebefugnis (lit. d) ist in der Praxis am häufigsten umstritten.
-2. **Vorbringen der Parteien**: Obwohl die Prüfung von Amtes wegen erfolgt, haben die Parteien ein legitimes Interesse daran, die Sachurteilsvoraussetzungen in ihren Eingaben zu thematisieren, insbesondere die Beschwerdebefugnis substantiiert darzulegen.
-3. **Getrenntes Zulässigkeitsverfahren**: Bei naheliegender Unzulässigkeit empfiehlt sich die Beschränkung des Verfahrens auf Zulässigkeitsfragen gemäss § 107 Abs. 1 Satz 2, um Kosten und Aufwand zu sparen.
-4. **Sanierung von Formmängeln**: Bei formellen Mängeln der Beschwerdeschrift (insbesondere fehlende Unterschrift, fehlende Vollmacht, fehlende Begründung) ist vor dem Nichteintreten stets zu prüfen, ob eine Nachfrist nach § 135 Abs. 2 VRG bzw. § 24 Abs. 3 VRG gesetzt werden kann und muss (vgl. LGVE 7H 14 310).
-5. **Streitgegenstand**: Das Rechtsmittelverfahren ist auf den Streitgegenstand begrenzt, der durch den angefochtenen Entscheid determiniert wird. Der Streitgegenstand kann nicht über das hinausgehen, was die Vorinstanz geregelt hat (LGVE GSD 2014 16; § 53, 55, 107, 142 VRG).
-
----
-
-## Siehe auch
-
-- [Rechtsprechung zu § 107 VRG LU](./rechtsprechung/)
-- § 129 VRG — Beschwerdebefugnis im Allgemeinen
-- § 128 VRG — Verwaltungsgerichtsbeschwerde
-- § 135 VRG — Beschwerdeschrift
-- § 142 VRG — Streitgegenstand
-- § 207 PBG — Beschwerdelegitimation im Baurecht
+1. Die Eintretensvoraussetzungen sind von Amtes wegen zu prüfen — auch ohne Antrag einer Partei (§ 107 Abs. 1 VRG).
+2. Die fehlende Beschwerdebefugnis ist keine formelle Mangelhaftigkeit nach § 135 Abs. 2 VRG, sondern eine Eintretensvoraussetzung — eine Nachfristanssetzung ist hier nicht vorgesehen ([V 08 276](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-08-276_2009-10-09.html)).
+3. Bei Laienbeschwerden: Formmängel nach § 135 Abs. 2 VRG mit Nachfrist heilen, sofern nicht gegen Treu und Glauben verstossen wird ([7H 14 310](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)).

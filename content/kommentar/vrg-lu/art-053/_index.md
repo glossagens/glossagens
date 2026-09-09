@@ -1,5 +1,5 @@
 ---
-title: "§ 53 VRG — Abklärung von Amtes wegen"
+title: "§ 53 — Abklärung von Amtes wegen"
 weight: 53
 date: 2026-09-06
 lastmod: 2026-09-06

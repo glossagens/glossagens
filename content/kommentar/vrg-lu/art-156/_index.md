@@ -1,5 +1,5 @@
 ---
-title: "§ 156 VRG — Ermessenskontrolle"
+title: "§ 156 — Ermessenskontrolle"
 weight: 156
 date: 2026-09-06
 lastmod: 2026-09-06

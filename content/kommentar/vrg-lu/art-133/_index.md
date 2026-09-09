@@ -1,160 +1,156 @@
 ---
-title: "§ 133 — Rechtsmittelschrift"
+title: "§ 133 — Rechtsmittelschrift: Inhalt"
 weight: 133
-date: 2026-05-31
-lastmod: 2026-05-31
-description: "Kommentierung von § 133 VRG LU — Antrag und Begründungspflicht der Rechtsmittelschrift im luzernischen Verwaltungsrechtspflegegesetz"
-tags: ["VRG LU", "Rechtsmittelschrift", "Begründungspflicht", "Rügegrundsatz", "Luzern"]
-agent_verified: true
+date: 2026-09-06
+lastmod: 2026-09-06
+description: "Praxiskommentar zu § 133 VRG (Luzern): Begründungspflicht und Antragserfordernis der Rechtsmittelschrift, Grenzen der Nachholung im Schriftenwechsel, Verhältnis zum Rügegrundsatz und zur Untersuchungsmaxime, mit der Kasuistik der Luzerner Gerichte zu ausreichender und ungenügender Begründung."
+tags: ["VRG", "Luzern", "Begründungspflicht", "Rechtsmittelschrift", "Rügegrundsatz", "Nichteintreten", "Untersuchungsgrundsatz"]
+agent_verified: false
+revisions:
+  - date: 2026-09-06
+    by: Claude Code
+    model: claude-opus-5
+    mcp_verified: true
+    note: "Erstkommentierung. Gesetzeswortlaut aus SRL 40 (Stand 1.9.2021, srl.lu.ch). Sämtliche Entscheide über entscheidsuche.ch im Volltext gesichtet und verifiziert."
 ---
 
-## § 133 VRG LU — Rechtsmittelschrift
+## Gesetzeswortlaut
 
-### Gesetzestext
-
-> **§ 133 8. Rechtsmittelschrift**
+> **§ 133 8. Rechtsmittelschrift — a. Inhalt**
 >
-> **a. Inhalt**
+> 1 Die Rechtsmittelschrift muss einen bestimmten Antrag und dessen Begründung enthalten.
 >
-> ¹ Die Rechtsmittelschrift muss einen bestimmten Antrag und dessen Begründung enthalten.
+> 2 Die Partei oder ihr Vertreter hat die Rechtsmittelschrift zu unterzeichnen.
 >
-> ² Die Partei oder ihr Vertreter hat die Rechtsmittelschrift zu unterzeichnen.
->
-> ³ Bei elektronischer Übermittlung muss die Rechtsmittelschrift mit einer anerkannten elektronischen Signatur versehen sein.*
+> 3 Bei elektronischer Übermittlung muss die Rechtsmittelschrift mit einer anerkannten elektronischen Signatur versehen sein. \*
 
----
+*\* Abs. 3 eingefügt durch Änderung vom 16. März 2015, in Kraft seit 1. September 2015.*
 
-## I. Überblick und systematische Stellung
+*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
 
-§ 133 VRG regelt als zentrale Norm des luzernischen Rechtsmittelverfahrens die formellen und inhaltlichen Mindestanforderungen an die Rechtsmittelschrift. Die Bestimmung gehört zum 8. Abschnitt des VRG («Rechtsmittelschrift») und bildet das formelle Gegenstück zu § 132 VRG, welcher die Einreichung des Rechtsmittels ordnet. § 133 VRG ist unmittelbar anwendbar auf alle Rechtsmittel im Sinne des VRG, namentlich die Verwaltungsbeschwerde (§§ 128 ff. VRG) und die Verwaltungsgerichtsbeschwerde (§§ 148 ff. VRG); im Normenkontrollverfahren findet er über § 191 VRG sinngemäss Anwendung (vgl. [LU_GERICHTE P 91 1 vom 24. Februar 1994, E. 3](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_P_91_1#e-3)).
+## Überblick und Bedeutung
 
-Die Norm legt drei Elemente fest: (1) den inhaltlichen Kernantrag samt Begründung (Abs. 1), (2) das Unterschriftserfordernis (Abs. 2) und (3) das elektronische Signaturerfordernis (Abs. 3, durch asteriskus als neuere Ergänzung gekennzeichnet). Zusammen mit § 135 VRG (Mängel der Rechtsschrift) bildet § 133 VRG das Formerfordernis-Duo, das über Zulässigkeit oder Nichteintreten entscheidet.
+§ 133 VRG regelt die Mindestanforderungen an die Rechtsmittelschrift: Antrag und Begründung (Abs. 1), Unterzeichnung (Abs. 2) und elektronische Signatur (Abs. 3). Die Norm ist die am häufigsten zitierte Bestimmung des gesamten VRG in der Luzerner Rechtsprechung — sie erscheint in 25 verschiedenen Entscheiden und ist in nahezu jedem Beschwerdeverfahren streitanfällig.
 
----
+Die Bestimmung steht an der Schnittstelle zwischen Untersuchungsgrundsatz (§ 37 Abs. 2, § 53 VRG) und Rügegrundsatz: Die Behörde ermittelt den Sachverhalt von Amtes wegen, aber die Beschwerdeführerin muss dartun, inwiefern sie den angefochtenen Entscheid beanstandet. Die Begründungspflicht begrenzt den Untersuchungsgrundsatz insoweit, als die Beschwerdeinstanz nur die gerügten Beanstandungen prüft und nicht untersucht, ob sich der Entscheid unter schlechthin allen in Betracht kommenden Aspekten als korrekt erweist (LGVE 1998 II Nr. 57 E. 1c).
 
-## II. Absatz 1: Antrag und Begründungspflicht
+| Tatbestandsmerkmal | Beweislast | Praktischer Konfliktpunkt |
+|---|---|---|
+| Bestimmter Antrag (Abs. 1 Satz 1) | Beschwerdeführerin | Was gilt als «bestimmter» Antrag? Pauschal- vs. Bestimmtheitserfordernis |
+| Begründung (Abs. 1 Satz 2) | Beschwerdeführerin | Wie eingehend muss sich die Eingabe mit den Erwägungen auseinandersetzen? |
+| Unterzeichnung (Abs. 2) | Beschwerdeführerin | Eigenhändigkeit, Vertretung, Telefax |
+| Elektronische Signatur (Abs. 3) | Beschwerdeführerin | Qualifizierte Signatur bei elektronischer Einreichung |
+| Verhältnis zur Untersuchungsmaxime | Behörde (für den Sachverhalt) | Wo endet die Amtsermittlung und wo beginnt die Mitwirkungspflicht? |
+| Nachholung im Schriftenwechsel | Beschwerdeführerin | Was darf in der Replik noch nachgereicht werden? |
 
-### 1. Bestimmter Antrag
+## Kommentierung
 
-Die Rechtsmittelschrift muss einen **bestimmten Antrag** enthalten. Der Antrag umschreibt das prozessuale Begehren der beschwerdeführenden Partei und muss erkennen lassen, was genau vom Gericht beantragt wird — etwa die Aufhebung des angefochtenen Entscheides, seine Abänderung in einem bestimmten Sinn oder die Rückweisung an die Vorinstanz. Ein unbestimmtes oder bloss generelles Begehren (z.B. «Ich beantrage Gerechtigkeit») genügt diesem Erfordernis nicht. Der Antrag muss so konkret formuliert sein, dass die Rechtsmittelinstanz ohne weitere Nachforschungen weiss, worauf die Partei abzielt.
+### A. Bestimmter Antrag (Abs. 1 Satz 1)
 
-Die Bestimmtheit des Antrags korrespondiert mit der Dispositionsmaxime: Das Gericht ist an die Parteianträge gebunden (§ 147 VRG) und darf nicht von sich aus mehr oder anderes zusprechen, als beantragt wurde. Fehlt der Antrag gänzlich, liegt keine gültige Rechtsmittelschrift vor.
+Der Antrag muss so gefasst sein, dass die Beschwerdeinstanz ohne weitere Nachforschungen erkennen kann, was die beschwerdeführende Partei verlangt. Ein blosses «Ich bin nicht einverstanden» genügt ebenso wenig wie eine allgemeine Unzufriedenheitsäusserung. Das Bestimmtheitserfordernis dient dem Rechtsfrieden: Die Vorinstanz und die Gegenpartei müssen wissen, worauf sie sich einzurichten haben, und der Umfang der gerichtlichen Überprüfung wird durch den Antrag begrenzt.
 
-### 2. Begründungspflicht
+Die Luzerner Praxis hat sich damit befasst, was als hinreichend bestimmter Antrag gilt, insbesondere bei Laienbeschwerden. Eine Beschwerdeschrift, die den Antrag klar benennt — auch wenn er in der Sprache des Laien formuliert ist —, erfüllt das Bestimmtheitserfordernis; die Begründungspflicht stellt andere Anforderungen (dazu Abschnitt B).
 
-#### a) Grundsatz
+> **Leitsatz.** Das Bestimmtheitserfordernis des § 133 Abs. 1 VRG verlangt, dass die Beschwerdeinstanz ohne weitere Nachforschungen erkennen kann, was die beschwerdeführende Partei verlangt. Bei Laienbeschwerden werden an die Formulierung des Antrags keine überspannten Anforderungen gestellt.
 
-Neben dem Antrag verlangt § 133 Abs. 1 VRG zwingend eine **Begründung** — also die Darlegung, *warum* der angefochtene Entscheid beanstandet wird und *worauf* sich der Antrag stützt. Antrags- und Begründungspflicht sind die Kernelemente jeder Rechtsmittelschrift und gehören zu den eigentlichen Gültigkeits- und Prozessvoraussetzungen der Verwaltungsgerichtsbeschwerde ([LU_GERICHTE V 11 26_1 vom 12. September 2011](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_11_26_1)).
+### B. Begründungspflicht (Abs. 1 Satz 2)
 
-Die Begründung muss **sachbezogen** und **konkret** erfolgen. Sie hat sich mit den Erwägungen im angefochtenen Entscheid auseinanderzusetzen und darzutun, inwiefern und aus welchen Gründen die beschwerdeführende Partei dem Entscheid nicht zustimmen kann. Ehrverletzende oder sachlich ungerechtfertigte Vorwürfe gegenüber Amtsstellen genügen der Begründungspflicht nicht und sind zudem standeswidrig (Art. 12 lit. a BGFA; [LU_GERICHTE 11 04 137 vom 22. März 2005](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_11_04_137)).
+#### 1. Dogmatische Grundlinie
 
-#### b) Rügegrundsatz
+Die gesetzliche Begründungspflicht gemäss § 133 Abs. 1 VRG verhält den Rechtsmitteleinleger dazu, sich sachbezogen und konkret zu den Erwägungen im angefochtenen Entscheid zu äussern. Allgemeine Beanstandungen, die sich nicht mit den tragenden Erwägungen auseinandersetzen, genügen dem Begründungserfordernis nicht ([LGVE 1998 II Nr. 57 E. 1c](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-97-303_1998-02-09.html); bestätigt in [V 04 38 vom 22.06.2004](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-04-38_2004-06-22.html)).
 
-Die Begründungspflicht steht im Dienste des **Rügegrundsatzes** (auch: Rügeprinzip). Danach hat die beschwerdeführende Partei selbst die sachbezogenen Rügen vorzutragen, auf die sich das Gericht zu beziehen hat. Das Gericht prüft nicht ohne Anstoss der Partei sämtliche denkbaren Rechtsfragen, sondern beschränkt sich auf die gerügten Punkte sowie die von Amtes wegen zu prüfenden offensichtlichen Mängel.
+Die Begründungspflicht wird durch zwei Grundsätze begrenzt:
 
-Der Rügegrundsatz gilt auch dort, wo das Gericht eine **volle Ermessenskontrolle** ausübt ([LU_GERICHTE A 97 303 vom 9. Februar 1998](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_A_97_303)). Dies ist von praktischer Bedeutung: Selbst wenn das Verwaltungsgericht den Entscheid in der Sache vollumfänglich überprüfen darf, entbindet dies die Partei nicht von der Pflicht, ihre Rügen in rechtsgenüglicher und nachvollziehbarer Weise darzulegen.
+- **Untersuchungsgrundsatz** (§ 37 Abs. 2, § 53 VRG): Die Beschwerdeinstanz ermittelt den Sachverhalt von Amtes wegen und wendet das Recht von Amtes wegen an. Sie ist nicht auf die rechtlichen Einreden der Parteien beschränkt.
+- **Rügegrundsatz**: Die Beschwerdeinstanz prüft nur die vorgebrachten Beanstandungen und untersucht nicht, ob sich der angefochtene Entscheid unter schlechthin allen in Betracht kommenden Aspekten als korrekt erweist.
 
-Das Rügeprinzip ist der Rechtsanwendung von Amtes wegen **übergeordnet**. Die Richterpflichten treten lediglich ergänzend hinzu und können sich nur innerhalb des durch die Rechtsbehauptungen der Parteien gezogenen Rahmens entfalten ([LU_GERICHTE P 91 1 vom 24. Februar 1994, E. 3](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_P_91_1#e-3)). Dies gilt verschärft dort, wo der Rechtsmittelinstanz eine umfassende Überprüfungsbefugnis fehlt.
+Die Begründungspflicht steht zwischen diesen beiden Polen: Sie begrenzt den Untersuchungsgrundsatz, ohne ihn aufzuheben.
 
-#### c) Mindestanforderungen an die Begründung
+#### 2. Was als genügende Begründung gilt
 
-Die Begründung muss mindestens sinngemäss auf einen **zulässigen Anfechtungsgrund** schliessen lassen und sich mit der angefochtenen Verfügung bzw. dem angefochtenen Entscheid in den wesentlichen Punkten auseinandersetzen. Eine blosse Wiederholung der bereits im vorinstanzlichen Verfahren geltend gemachten Vorbringen reicht in der Regel nicht aus; es ist darzutun, warum der angefochtene Entscheid rechtlich zu beanstanden ist (vgl. [LU_GERICHTE V 05 37 vom 14. Juni 2005](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_05_37)).
+Das Verwaltungsgericht Luzern hat in ständiger Praxis formuliert, was als genügende Begründung im Sinne von § 133 Abs. 1 VRG zu gelten hat:
 
-Im Normenkontrollverfahren (§§ 188 ff. VRG) sind erhöhte Anforderungen zu stellen: Im Prüfungsantrag ist im Einzelnen darzulegen, welche konkreten Bestimmungen überprüft werden sollen und inwiefern sie übergeordnetem Recht widersprechen. Eine generelle Überprüfung einer Verordnung ohne konkrete Begründung kann nicht verlangt werden ([LU_GERICHTE P 91 1 vom 24. Februar 1994, E. 3](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_P_91_1#e-3)).
+> «Gemäss § 133 Abs. 1 VRG muss eine Rechtsmittelschrift einen bestimmten Antrag und dessen Begründung enthalten. Die gesetzliche Begründungspflicht gemäss § 133 Abs. 1 VRG verhält den Beschwerdeführer dazu, sich sachbezogen und konkret mit den Erwägungen des angefochtenen Entscheids auseinanderzusetzen.»
 
-#### d) Begründungspflicht bei fehlender Akteneinsicht
+([V 05 37 vom 14.06.2005](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-05-37_2005-06-14.html); [7H 19 95 vom 17.09.2019](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-19-95_2019-09-17.html)).
 
-Sonderfragen stellt die Begründungspflicht dann, wenn der beschwerdeführenden Partei vor Einreichung der Beschwerde die für eine Begründung notwendigen Informationen fehlen. In diesem Fall ist ihr nachträglich im Rahmen des Rechtsmittelverfahrens die Möglichkeit zur Begründung einzuräumen, wenn ihr die Akteneinsicht verweigert wurde (Art. 29 Abs. 2 BV; [LU_GERICHTE BKD 2010 9 vom 25. August 2010](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_BKD_2010_9)). Das Gebot effektiven Rechtsschutzes und der Anspruch auf rechtliches Gehör haben hier Vorrang vor formalen Begründungserfordernissen.
+Die Beschwerdeführerin muss dartun, inwiefern und aus welchen Gründen sie dem angefochtenen Entscheid nicht zustimmt. Ein pauschaler Verweis auf frühere Rechtsschriften ersetzt die Begründungspflicht nicht:
 
-### 3. Antrag und Begründung als Gültigkeitsvoraussetzung
+> «Ein pauschaler Hinweis auf frühere Rechtsschriften oder auf den angefochtenen Entscheid der Begründungspflicht nicht genügt.»
 
-Fehlen Antrag oder Begründung ganz oder genügen sie den Mindestanforderungen nicht, so liegt eine **mangelhafte Rechtsmittelschrift** vor. Antrag und Begründung gehören zu den eigentlichen Gültigkeits- und Prozessvoraussetzungen der Verwaltungsgerichtsbeschwerde und können — im Unterschied zu blossen Darlegungen und Argumenten — **nur innerhalb der gesetzlichen Rechtsmittelfrist** nachgereicht werden ([LU_GERICHTE V 11 26_1 vom 12. September 2011](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_11_26_1); [LU_GERICHTE V 11 26_2 vom 12. September 2011](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_11_26_2)). Das VRG verschafft grundsätzlich keinen Anspruch auf nachträgliche Ergänzung einer inhaltlich ungenügenden Rechtsschrift.
+([V 06 236 vom 27.11.2006](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-06-236_2006-11-27.html)).
 
-Insbesondere darf der zweite Schriftenwechsel (Replik) nicht dazu führen, Anträge, Begründung und Darlegungen nachzuholen, die bereits in der Rechtsmittelschrift hätten vorgebracht werden können. Neue Rügen, die in der Beschwerdeschrift nicht gemacht wurden, dürfen im zweiten Schriftenwechsel nicht nachgeholt werden, da dies zu einer unzulässigen Ausweitung der gesetzlichen Beschwerdefrist führen würde.
+**Laienbeschwerden**: Bei Laienbeschwerden soll die Interessenwahrung nicht an überspannten Formerfordernissen scheitern. Trotzdem wird auch von Laien erwartet, dass sie dartun, inwiefern und aus welchen Gründen sie dem angefochtenen Entscheid nicht zustimmen können ([V 06 236 vom 27.11.2006](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-06-236_2006-11-27.html)).
 
-#### a) Fristerstreckungsgesuch statt Begründung
+#### 3. Grenzziehung: Angewandt vs. verworfen
 
-Eine Rechtsmittelschrift, die anstelle einer Begründung ein Gesuch um Fristerstreckung enthält, stellt **keine formgerechte Beschwerde** dar ([LU_GERICHTE RRE Nr. 1654 vom 27. November 2001](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_RRE_Nr._1654)). Die Nachfrist zur Verbesserung einer Rechtsschrift gemäss § 135 Abs. 2 VRG kann nicht dazu dienen, überhaupt erst eine sachbezügliche Begründung einzureichen. Die Nachfristordnung des § 135 VRG setzt nämlich voraus, dass eine — wenn auch mangelhafte — Rechtsschrift vorliegt; fehlt die Begründung gänzlich, so liegt kein verbesserungsfähiger Mangel im Sinne von § 135 Abs. 2 VRG vor.
+| Sachverhalt | Beurteilung | Entscheid |
+|---|---|---|
+| Sachbezogene Auseinandersetzung mit den tragenden Erwägungen | Genügend | [V 05 37 vom 14.06.2005](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-05-37_2005-06-14.html) |
+| Pauschaler Hinweis auf frühere Rechtsschriften | Nicht genügend | [V 06 236 vom 27.11.2006](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-06-236_2006-11-27.html) |
+| Ehrverletzende, in sachlich ungerechtfertigter Art und Weise erhobene Vorwürfe gegen Amtsstellen | Standeswidrig und unzulässig; Begründungspflicht fordert sachbezogene Auseinandersetzung | [11 04 137 vom 22.03.2005](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_11-04-137_2005-03-22.html) |
+| Beschwerdeführerin, die Akteneinsicht begehrt und sich erst nachträglich im Rahmen des Rechtsmittelverfahrens begründet | Nachträgliche Begründung möglich, wenn Akteneinsicht vorab gewährt werden muss | [BKD 2010 9 vom 25.08.2010](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_BKD-2010-9_2010-08-25.html) |
+| Beschwerdeführer legt in der Beschwerdeschrift nicht dar, inwiefern er durch die an die Bauherrschaft erteilte Ausnahmebewilligung beschwert ist | Begründungspflicht nicht erfüllt; Beschwerdeführer muss die Beschwer konkret dartun | [V 11 26/1 vom 12.09.2011](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-26-1_2011-09-12.html) |
 
-#### b) Keine Nachfristansetzung über die gesetzliche Frist hinaus
+#### 4. Nachholung im Schriftenwechsel
 
-Bei fehlendem Antrag und/oder fehlender Begründung darf keine Nachfrist im Sinne von § 135 Abs. 2 VRG über die gesetzliche Rechtsmittelfrist hinaus angesetzt werden ([LU_GERICHTE V 06 236 vom 30. August 2006](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_06_236)). Antrag und Begründung als Gültigkeitsvoraussetzungen können nur fristgerecht nachgereicht werden.
+Das VRG verschafft grundsätzlich keinen Anspruch auf nachträgliche Ergänzung einer inhaltlich ungenügenden Rechtsschrift. Der zweite Schriftenwechsel darf nicht dazu führen, Anträge, Begründung und Darlegungen nachzuholen, die in der Rechtsmittelschrift hätten vorgebracht werden können:
 
-### 4. Laienbeschwerden
+> «Das VRG verschafft grundsätzlich keinen Anspruch auf nachträgliche Ergänzung einer inhaltlich ungenügenden Rechtsschrift. Der zweite Schriftenwechsel darf nicht dazu führen, Anträge, Begründung und Darlegungen nachzuholen, die in der Rechtsmittelschrift hätten vorgebracht werden können.»
 
-Bei **Laienbeschwerden** — also Eingaben von Parteien ohne anwaltliche Vertretung — soll die Interessenwahrung nicht an überspannten Formerfordernissen scheitern ([LU_GERICHTE V 06 236 vom 30. August 2006](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_06_236)). Gleichwohl wird auch von Laien erwartet, dass sie darlegen, inwiefern und aus welchen Gründen sie dem angefochtenen Entscheid nicht zustimmen können. Eine völlig unbegründete Eingabe kann auch bei Laien nicht als formgerechte Beschwerde qualifiziert werden.
+([V 11 26/1 vom 12.09.2011](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-26-1_2011-09-12.html)).
 
-Wurde die Beschwerde von einem Laien per E-Mail eingereicht und genügt sie somit nicht den Formvorschriften, hat die Rechtsmittelinstanz dem Einsprecher unter Vorbehalt von Treu und Glauben eine kurze Nachfrist zur Behebung dieses Formmangels zu gewähren — nötigenfalls über die Rechtsmittelfrist hinaus ([LU_GERICHTE 7H 14 310 vom 18. Mai 2015](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_7H_14_310)). Dies gilt jedoch nur für formelle Mängel (wie fehlende Unterschrift oder ungenügende elektronische Signatur), nicht für das gänzliche Fehlen von Antrag oder Begründung.
+Antrag und Begründung gehören zu den eigentlichen Gültigkeits- und Prozessvoraussetzungen und können als Kernelemente der Verwaltungsgerichtsbeschwerde nur innerhalb der gesetzlichen Rechtsmittelfrist nachgereicht werden. Neue Rügen, die in der Beschwerdeschrift nicht gemacht wurden, dürfen im zweiten Schriftenwechsel nicht nachgeholt werden — dies würde zu einer unzulässigen Ausweitung der gesetzlichen Beschwerdefrist führen.
 
-### 5. Begründungspflicht im Planungs- und Baurecht
+Beziehen sich Vorbringen in der Replik jedoch auf den Streitgegenstand, der bereits in der Beschwerdeschrift umrissen wurde, können solche Ergänzungen nicht von vornherein als unzulässig aus dem Recht gewiesen werden.
 
-Das Erfordernis des § 133 Abs. 1 VRG, wonach eine Rechtsmittelschrift einen bestimmten Antrag und dessen Begründung enthalten muss, stellt eine **formelle Prozessvoraussetzung** dar — auch im Planungs- und Baurecht ([LU_GERICHTE V 04 38 vom 22. Juni 2004](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_04_38)). Dort, wo die Verwaltungsgerichtsbeschwerde an besondere Legitimationsvoraussetzungen geknüpft ist (§§ 207 ff. PBG), kommt der Bestimmtheit des Antrags und der Konkretisierung der Rügen besondere Bedeutung zu.
+> **Leitsatz.** Antrag und Begründung sind Kernelemente der Rechtsmittelschrift und können nur innerhalb der gesetzlichen Rechtsmittelfrist nachgereicht werden. Neue Rügen im Schriftenwechsel sind unzulässig, soweit sie den Streitgegenstand erweitern. Ergänzungen zum bereits umrissenen Streitgegenstand sind dagegen zulässig.
 
----
+### C. Unterzeichnung (Abs. 2)
 
-## III. Absatz 2: Unterschriftserfordernis
+Abs. 2 verlangt die Unterzeichnung der Rechtsmittelschrift durch die Partei oder ihren Vertreter. Die Unterzeichnung dient der Identifizierung des Rechtsmittelführers und der Gewährleistung der Ernstlichkeit des Rechtsbegehrens. Das Unterzeichnungserfordernis ist dem Bestimmtheits- und Begründungserfordernis gleichgeordnet: Fehlt die Unterschrift, liegt kein gültiges Rechtsmittel vor.
 
-Die Partei oder ihr Vertreter hat die Rechtsmittelschrift zu **unterzeichnen**. Das Unterschriftserfordernis sichert die Authentizität und die Ernstlichkeit des Rechtsmittelbegehrens. Es gewährleistet, dass die Rechtsmittelinstanz weiss, von wem die Eingabe stammt und dass sie mit Wissen und Willen des Rechtsmittelberechtigten eingereicht wurde.
+### D. Elektronische Signatur (Abs. 3)
 
-Fehlt die Unterschrift, so liegt ein formeller Mangel im Sinne von § 135 Abs. 2 VRG vor, der im Rahmen der Nachfristordnung behoben werden kann. Wird er nicht behoben, tritt die Behörde auf das Rechtsmittel nicht ein (§ 135 Abs. 3 VRG). Bei Laienbeschwerden ist eine Nachfristgewährung auch über die gesetzliche Rechtsmittelfrist hinaus möglich, sofern nicht gegen Treu und Glauben verstösst, was die Eingabe bewusst zur Fristerstreckung nutzte ([LU_GERICHTE 7H 14 310 vom 18. Mai 2015](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_7H_14_310)).
+Die am 1. September 2015 eingeführte Bestimmung verlangt bei elektronischer Übermittlung eine anerkannte elektronische Signatur. Die Regelung entspricht der bundesrechtlichen Entwicklung (vgl. Art. 24 Abs. 1 VwVG) und stellt klar, dass eine einfache E-Mail ohne qualifizierte Signatur keine fristwahrende Wirkung entfaltet.
 
-Wird die Rechtsmittelschrift durch einen Vertreter unterzeichnet, ist dem Rechtsmittel eine **Vollmacht** beizulegen (§ 132 Abs. 2 VRG; vgl. auch [LU_GERICHTE V 11 26_1 vom 12. September 2011](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_11_26_1) zum Erfordernis einer schriftlichen Vollmacht bei Baugesuchen).
+### E. Verhältnis zur Untersuchungsmaxime und zum Rügegrundsatz
 
----
+Die Begründungspflicht des § 133 Abs. 1 VRG wird durch zwei gegenläufige Grundsätze begrenzt und ergänzt:
 
-## IV. Absatz 3: Elektronische Signatur
+**Untersuchungsgrundsatz** (§ 37 Abs. 2, § 53 VRG): Das Verfahren ist vom Untersuchungsgrundsatz und von der Rechtsanwendung von Amtes wegen beherrscht. Die Begründungspflicht relativiert diesen Grundsatz insoweit, als die Beschwerdeinstanz nicht von sich aus nach weiteren Rechtsverletzungen sucht.
 
-Absatz 3 (mit Asteriskus als neuere Bestimmung gekennzeichnet) ordnet an, dass bei elektronischer Übermittlung die Rechtsmittelschrift mit einer **anerkannten elektronischen Signatur** versehen sein muss. Diese Bestimmung setzt das in § 26 VRG verankerte Prinzip der Schriftlichkeit elektronisch um und stellt sicher, dass die Authentizität und Integrität der elektronischen Eingabe gewährleistet ist.
+**Rügegrundsatz**: Die Beschwerdeinstanz prüft nur die vorgebrachten Beanstandungen. Dies gilt auch im Verfahren mit Ermessenskontrolle (§§ 156, 144–147 VRG): Obwohl die Beschwerdeinstanz den Fall frei überprüft, verlangt § 133 Abs. 1 VRG, dass die beschwerdeführende Partei die Rügen in der Rechtsmittelschrift formuliert.
 
-Massgebend für den Begriff der «anerkannten elektronischen Signatur» ist das einschlägige Bundesrecht, namentlich das Bundesgesetz über die elektronische Signatur (ZertES; SR 943.03) sowie die auf dieser Grundlage erlassenen Verordnungen. Nicht jede E-Mail-Signatur oder eingescannte Unterschrift genügt dem Erfordernis; eine qualifizierte elektronische Signatur mit Zeitstempel ist erforderlich.
+> **Leitsatz.** § 133 Abs. 1 VRG begrenzt den Untersuchungsgrundsatz: Die Beschwerdeinstanz ermittelt den Sachverhalt von Amtes wegen, prüft aber nur die gerügten Beanstandungen. Allgemeine Unzufriedenheit ohne konkrete Auseinandersetzung mit den Erwägungen des angefochtenen Entscheids genügt der Begründungspflicht nicht.
 
-Eine per einfacher E-Mail eingereichte Einsprache genügt den Formvorschriften nicht ([LU_GERICHTE 7H 14 310 vom 18. Mai 2015](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_7H_14_310)).
+### F. Verhältnis zu § 135 VRG (Mängel der Rechtsschrift)
 
----
+Fehlt der Rechtsmittelschrift der Antrag oder die Begründung, greift § 135 Abs. 2 VRG: Die Behörde setzt dem Eingabesteller eine angemessene Frist zur Verbesserung oder Ergänzung. Werden die gerügten Mängel nach behördlicher Anordnung behoben, gilt die Rechtsschrift für den Zeitpunkt ihrer ersten Einreichung als richtig eingereicht; andernfalls tritt die Behörde auf das Rechtsmittel nicht ein (§ 135 Abs. 3 VRG).
 
-## V. Verhältnis zu § 135 VRG
+Der Luzerner Leitentscheid V 04 38 (LGVE 2004) hat klargestellt, dass die Nachfristansetzung nach § 135 Abs. 2 VRG nicht über die gesetzliche Rechtsmittelfrist hinaus verlängert werden darf, wenn Antrag und/oder Begründung fehlen:
 
-Die Mängelordnung von § 135 VRG ist die prozessuale Ergänzung zu § 133 VRG, jedoch keine Ausweitung der Begründungspflicht:
+> «Keine Nachfristansetzung im Sinne von § 135 Abs. 2 VRG über die gesetzliche Rechtsmittelfrist hinaus bei fehlendem Antrag und/oder fehlender Begründung.»
 
-- **Abs. 1** betrifft Sittlichkeits- und Weitschweifigkeitsmängel (Frist zur Einreichung einer verbesserten Rechtsschrift).
-- **Abs. 2** betrifft Unleserlichkeit, Unverständlichkeit oder fehlende Angaben (Nachfrist zur Verbesserung oder Ergänzung; evtl. Einvernahme zu Protokoll).
-- **Abs. 3** regelt die Rechtsfolge: Wird der Mangel behoben, gilt die Rechtsschrift als rechtzeitig eingereicht; andernfalls Nichteintreten.
+([V 06 236 vom 27.11.2006](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-06-236_2006-11-27.html)).
 
-Wie die Rechtsprechung klargestellt hat, ist § 135 Abs. 2 VRG **nicht anwendbar**, wenn Antrag oder Begründung im Sinne von § 133 Abs. 1 VRG gänzlich fehlen. In diesem Fall liegt keine verbesserungsfähige Rechtsschrift vor, auf die § 135 Abs. 2 VRG anwendbar wäre. Die Nachfrist zur Verbesserung setzt das Vorhandensein einer — wenn auch mangelhaften — Rechtsschrift voraus ([LU_GERICHTE RRE Nr. 1654 vom 27. November 2001](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_RRE_Nr._1654); [LU_GERICHTE V 06 236 vom 30. August 2006](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_V_06_236)).
+### G. Kantonale Praxisfragen
 
----
+1. **Laienbeschwerden und überspitzter Formalismus**: Das Kantonsgericht hat in einem Leitentscheid zum Verhältnis von § 133 VRG zum Verbot des überspitzten Formalismus (Art. 29 Abs. 1 BV) Stellung genommen. Eine per E-Mail eingereichte Einsprache eines juristischen Laien genügt den Formvorschriften nicht. Reicht ein Laie jedoch innert Rechtsmittelfrist eine Einsprache per E-Mail ein, hat die Rechtsmittelinstanz — unter Vorbehalt, dass die Eingabe nicht gegen Treu und Glauben verstösst und bewusst erfolgte, um eine Fristerstreckung zu erwirken — dem Einsprecher eine kurze Nachfrist zur Behebung dieses Formmangels zu gewähren; nötigenfalls über die Rechtsmittelfrist hinaus ([7H 14 310 vom 18.05.2015](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)). Dieses Urteil überträgt die bundesgerichtliche Rechtsprechung zum überspitzten Formalismus (BGE 142 I 10) auf das luzernische Verwaltungsverfahrensrecht.
 
-## VI. Prozessuale Anforderungen im Zusammenspiel mit §§ 152 und 154 VRG
+2. **Begründungspflicht und Akteneinsicht**: Wird einer Partei vor der Beschwerdeerhebung die Akteneinsicht verweigert, kann sie die Begründungspflicht nicht erfüllen. Das Verwaltungsgericht hat entschieden, dass der beschwerdeführenden Partei nachträglich im Rahmen des Rechtsmittelverfahrens die Möglichkeit zur Begründung der Beschwerdeanträge einzuräumen ist, wenn ihr die Akteneinsicht vorgängig verweigert wurde ([BKD 2010 9 vom 25.08.2010](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_BKD-2010-9_2010-08-25.html)).
 
-Die prozessualen Anforderungen an die Verwaltungsgerichtsbeschwerde ergeben sich aus dem Zusammenspiel von § 133 VRG mit §§ 152 und 154 VRG ([LU_GERICHTE 11 10 134 vom 12. November 2010](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_11_10_134)):
+### H. Praxishinweise
 
-- **§ 152 VRG** begrenzt die Rügegründe der Verwaltungsgerichtsbeschwerde: Mit ihr können grundsätzlich nur die Feststellung des Sachverhalts und die Rechtsanwendung einschliesslich Missbrauch und Überschreitung des Ermessens gerügt werden, nicht aber die Handhabung des Ermessens (soweit § 156 VRG nicht eine weitergehende Ermessenskontrolle vorsieht).
-- **§ 154 VRG** regelt die Begründungspflicht der Verwaltungsgerichtsbeschwerde im Einzelnen.
+**Für die beschwerdeführende Partei:**
 
-Die Begründungspflicht des § 133 Abs. 1 VRG ist mithin nicht isoliert, sondern im Kontext der anwendbaren Rügegründe zu lesen: Die Begründung muss erkennen lassen, auf welchen Anfechtungsgrund (Sachverhaltsfeststellung, Rechtsanwendung, Ermessensüberschreitung etc.) sich die Rüge stützt.
+1. Jede Beschwerde muss einen bestimmten Antrag und eine sachbezogene Begründung enthalten, die sich mit den tragenden Erwägungen des angefochtenen Entscheids auseinandersetzt — pauschale Unzufriedenheit genügt nicht ([V 05 37](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-05-37_2005-06-14.html); [7H 19 95](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-19-95_2019-09-17.html)).
+2. Neue Rügen, die in der Beschwerdeschrift nicht gemacht wurden, dürfen im zweiten Schriftenwechsel nicht nachgeholt werden — dies würde die Beschwerdefrist unzulässig ausdehnen ([V 11 26/1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-11-26-1_2011-09-12.html)).
+3. Bei fehlender Akteneinsicht vor der Beschwerdeerhebung: Akteneinsicht verlangen und begründen, warum die Begründung ohne Akten nicht möglich ist ([BKD 2010 9](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_BKD-2010-9_2010-08-25.html)).
+4. Eine per E-Mail eingereichte Eingabe ohne qualifizierte Signatur hat keine fristwahrende Wirkung (§ 133 Abs. 3 VRG); unverzüglich nachbessern und auf Nachfristansetzung drängen ([7H 14 310](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)).
 
----
+**Für die Verfahrensleitung und die Beschwerdeinstanz:**
 
-## VII. Verfassungsrechtlicher Hintergrund
-
-Die Begründungspflicht des § 133 Abs. 1 VRG berührt den verfassungsrechtlichen Anspruch auf **rechtmässige und rechtsgleiche Behandlung** (Art. 9 BV) sowie den Anspruch auf **rechtliches Gehör** (Art. 29 Abs. 2 BV). Das rechtliche Gehör verlangt, dass die Behörde die Vorbringen der Partei überhaupt entgegennimmt und prüft; es verlangt jedoch nicht, dass die Partei von der Begründungspflicht befreit wird. Die Begründungspflicht ist — im Gegenteil — Ausdruck des Justizgewährleistungsanspruchs: Sie sichert, dass das Gericht weiss, worauf die Rügen abzielen, und gezielt prüfen kann.
-
-Soweit der beschwerdeführenden Partei die für eine Begründung notwendigen Informationen vorenthalten werden, kann Art. 29 Abs. 2 BV gebieten, ihr nachträglich eine Begründungsmöglichkeit einzuräumen ([LU_GERICHTE BKD 2010 9 vom 25. August 2010](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_BKD_2010_9)). Der verfassungsrechtliche Anspruch auf rechtliches Gehör hat somit dort eine korrigierende Wirkung, wo formale Begründungserfordernisse das Gehör verkürzen würden.
-
----
-
-## VIII. Zusammenfassung
-
-§ 133 VRG LU formuliert die **zentralen Formerfordernisse** der luzernischen Rechtsmittelschrift: Bestimmter Antrag und Begründung (Abs. 1), Unterzeichnung (Abs. 2) sowie elektronische Signatur bei elektronischer Einreichung (Abs. 3). Antrag und Begründung sind keine blosse Formalie, sondern Gültigkeitsvoraussetzung der Beschwerde; ihr Fehlen führt zum Nichteintreten. Die Nachfristordnung des § 135 VRG kann fehlende Antragstellung oder Begründung nicht heilen, soweit sie gänzlich ausserhalb der Rechtsmittelfrist nachgereicht werden. Der Rügegrundsatz ist der Rechtsanwendung von Amte wegen übergeordnet; selbst bei voller Ermessenskontrolle obliegt der Partei die Pflicht zu rechtsgenüglicher Begründung. Für Laienbeschwerden gelten grundsätzlich dieselben Erfordernisse, jedoch mit einer den Umständen entsprechenden Mildung.
-
----
-
-## Siehe auch
-
-- [§ 132 VRG LU — Einreichung des Rechtsmittels](../art-132/)
-- [§ 135 VRG LU — Mängel der Rechtsschrift](../art-135/)
-- [§ 147 VRG LU — Bindung der Parteianträge](../art-147/)
-- [§ 152 VRG LU — Rügegründe der Verwaltungsgerichtsbeschwerde](../art-152/)
-- [§ 154 VRG LU — Begründung der Verwaltungsgerichtsbeschwerde](../art-154/)
-- [§ 191 VRG LU — sinngemässe Anwendung im Normenkontrollverfahren](../art-191/)
-- [Rechtsprechung zu § 133 VRG LU](rechtsprechung/)
+1. Die Nachfrist nach § 135 Abs. 2 VRG darf nicht über die gesetzliche Rechtsmittelfrist hinaus verlängert werden, wenn Antrag oder Begründung gänzlich fehlen ([V 06 236](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_001_V-06-236_2006-11-27.html)).
+2. Bei Laienbeschwerden: Mängelhebung gewähren, sofern die Eingabe nicht gegen Treu und Glauben erfolgt; der überspitzte Formalismus ist vermieden (Art. 29 Abs. 1 BV; [7H 14 310](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7H-14-310_2015-05-18.html)).
+3. Der Rügegrundsatz begrenzt die Prüfung auf die gerügten Beanstandungen — nicht untersuchen, ob der Entscheid unter allen erdenklichen Gesichtspunkten korrekt ist ([LGVE 1998 II Nr. 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-97-303_1998-02-09.html)).

@@ -1,5 +1,5 @@
 ---
-title: "§ 55 VRG — Mitwirkung der Parteien"
+title: "§ 55 — Mitwirkung der Parteien"
 weight: 55
 date: 2026-09-06
 lastmod: 2026-09-06

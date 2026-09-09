@@ -49,13 +49,13 @@ gruppen:
     bis: 179
   - name: "Aufsichtsbeschwerde und aufsichtsrechtliche Anzeige"
     von: 180
-    bis: 187a
+    bis: 187
   - name: "Verwaltungsgerichtliche Prüfung von Erlassen"
     von: 188
     bis: 192
   - name: "Verfahrenskosten"
     von: 193
-    bis: 205a
+    bis: 205
   - name: "Vollstreckung"
     von: 206
     bis: 218
