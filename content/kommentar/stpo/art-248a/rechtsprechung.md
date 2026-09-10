@@ -2,11 +2,21 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: "2024-01-01"
-lastmod: "2026-09-02"
+lastmod: "2026-09-10"
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug)."
 tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: "2026-09-10"
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Praxisorientierter Ausbau des Hauptkommentars: dabei zwei Einträge korrigiert, die ein falsches Ergebnis bzw. einen falschen Sachverhalt trugen. Block 8 (BGer 7B_486/2024) behauptete eine 'Triageverhandlung unter Beizug eines externen IT-Forensikers' — der Entscheid betrifft tatsächlich eine Gehörsverletzung mangels Akteneinsicht in 54 Mio. sichergestellte Objekte (E. 4.4); neu mit korrektem Kernsatz/Sachverhalt dokumentiert. Block 9 (BGer 7B_245/2026) behauptete 'Das Bundesgericht wies die Rüge ab' — tatsächlich wurde die Beschwerde gutgeheissen, weil das ZMG ein Kompetenzzentrum statt einer natürlichen Person als Sachverständige bezeichnet und Entsiegelung/Triage unzulässig vermengt hatte (E. 4.3, E. 5.2); neu dokumentiert. Beide Fehler betrafen unlinked Sachverhalts-/Kernsatz-Zusammenfassungen, denen die frühere Audit-Runde mangels prüfbarem Behauptungssatz-Beleg-Paar kein Grounding-Urteil zugeordnet hatte — sie wurden erst beim Nachlesen des Volltexts für den praxisorientierten Ausbau entdeckt."
+  - date: "2026-09-10"
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: true
+    note: "Audit-Nachbesserung: Fälschlich unter BGer 7B_419/2025 aufgeführte Erwägung E. 1.1 entfernt (Inhalt gehört zu BGer 7B_1170/2025, dort bereits korrekt dokumentiert). Datum/Link von BGer 7B_165/2026 (Block 15, vgl. auch 7B_133/2026) korrigiert: war 15.07.2026 auf mcp.opencaselaw.ch, korrekt 05.08.2026 auf entscheidsuche.ch (per search_by_case_number/fetch_document verifiziert). Die 6 vom Grounding-Judge als 'no'/'unrelated' markierten Kernsätze (BGE 151 IV 175 Regeste, BGE 151 IV 344, BGE 151 IV 350, BGE 151 IV 30, BGE 152 IV 107, BGE 148 IV 221) wurden einzeln geprüft: es sind durchweg Parser-Artefakte (unverlinkte 'Datum/Signatur'-Metadatenzeilen als Fallback-Behauptungssatz bzw. bei BGE 148 IV 221 ein Sachverhaltssatz aus Block 5, der die Praxisänderung nennt, aber gegen den abgelösten Präjudiz-Text statt gegen BGE 152 IV 107 E. 5.7 geprüft wurde) — kein inhaltlicher Fehlbeleg. agent_verified bleibt auf false, da das Gesamturteil des Bundles B (nicht A) ist; Details siehe audit-report.json."
   - date: "2026-09-02"
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -123,31 +133,30 @@ revisions:
 
 ---
 
-### 8. [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html) vom 09.07.2026 — Triageverhandlung und Beizug technischer Sachverständiger
+### 8. [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html) vom 09.07.2026 — Akteneinsicht in sichergestellte Daten zur Substanziierung
 
 **Datum:** 9. Juli 2026 | **Signatur:** [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html)
 
-**Kernsatz:** Ist ein Entsiegelungsverfahren wegen umfangreicher digitaler Datenträger nicht spruchreif, ist eine mündliche Triageverhandlung nach Art. 248a Abs. 5 StPO durchzuführen. Das Gericht kann hierbei nach Art. 248a Abs. 6 lit. a StPO eine sachverständige Person beiziehen, um die Dateninhalte zu sichten und Suchläufe durchzuführen.
+**Kernsatz:** Auf vorgängige Akteneinsicht in die eigenen sichergestellten elektronischen Daten zum Zweck der Substanziierung von Geheimnisinteressen besteht nur ausnahmsweise ein Anspruch, nämlich wenn die betroffene Person nachvollziehbar begründet, weshalb sie ohne eine Gesamtdurchsicht ihre bereits plausibel gemachten Geheimnisinteressen nicht ausreichend substanziieren könnte — etwa weil sie auf einen Teil der Daten (z.B. Laptops ehemaliger Mitarbeitender) keinen eigenen Zugriff mehr hat.
 
-**Sachverhalt:** In einer komplexen Wirtschaftsstrafsache stritten die Parteien über die Durchsuchung mehrerer Server-Backups. Das ZMG ordnete eine Triageverhandlung unter Beizug eines externen IT-Forensikers an. Das Bundesgericht bestätigte die Gesetzmässigkeit dieses Vorgehens.
+**Sachverhalt:** Bei Hausdurchsuchungen in den Büros der G.________ AG sowie bei mehreren (ehemaligen) Mitarbeitenden im Zusammenhang mit dem Kollaps der I.________ Funds (Verdacht auf UWG-Widerhandlungen und Betrug) wurden umfangreiche Datenträger sichergestellt und gesiegelt. Das Zwangsmassnahmengericht Zürich gab rund 54 Millionen Objekte zur Durchsuchung frei, ohne mehreren Betroffenen vorgängig Einsicht in die sichergestellten Daten zu gewähren. Das Bundesgericht hiess die Beschwerde einer Gesellschaft gut, weil ein erheblicher Teil der freigegebenen Daten von Laptops ehemaliger Mitarbeitender stammte, auf die sie keinen Zugriff mehr hatte; für zwei andere Beschwerdeführer, die eine vergleichbare Unmöglichkeit nicht darlegten, blieb es bei der grundsätzlichen Zurückhaltung bei der Gewährung von Akteneinsicht.
 
 **Erwägungen:**
-- **E. 2.2:** Voraussetzungen für die Anordnung einer mündlichen Triageverhandlung nach Art. 248a Abs. 5 StPO.
-- **E. 2.5:** Befugnisse des Entsiegelungsgerichts beim Beizug sachverständiger Personen gemäss Art. 248a Abs. 6 lit. a StPO.
+- **E. 4.4:** Akteneinsicht in sichergestellte eigene Daten wird nur ausnahmsweise gewährt; Gehörsverletzung bejaht für die Partei ohne eigenen Zugriff auf Drittdaten (ehemalige Mitarbeitende), verneint für die übrigen Beschwerdeführer.
 
 ---
 
-### 9. [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html) vom 16.06.2026 — Designation von Polizeiforensikern als Sachverständige
+### 9. [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html) vom 16.06.2026 — Natürliche Person als Sachverständige; keine Vermengung von Entsiegelung und Triage
 
 **Datum:** 16. Juni 2026 | **Signatur:** [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html)
 
-**Kernsatz:** Das Entsiegelungsgericht darf gestützt auf Art. 248a Abs. 6 lit. b StPO Angehörige kantonaler Polizeidienste als sachverständige Personen für den Datenzugriff und die Integritätssicherung bezeichnen. Voraussetzung ist, dass die beigezogenen Polizeiforensiker organisatorisch und funktionell strikt von der ermittelnden Einheit getrennt sind.
+**Kernsatz:** Das Entsiegelungsgericht muss für den Sachverständigenbeizug nach Art. 248a Abs. 6 StPO stets eine natürliche Person bestimmen, gegen die Ausstandsgründe nach Art. 183 StPO geprüft werden können — nicht eine Behörde oder Organisationseinheit als solche. Die Entsiegelung darf zudem nicht angeordnet werden, solange die Triage geheimnisgeschützter Inhalte noch nicht abgeschlossen ist.
 
-**Sachverhalt:** Das ZMG beauftragte das Kompetenzzentrum Digitale Forensik der Kantonspolizei mit der technischen Aufbereitung gesiegelter Mobiltelefone. Der Beschuldigte rügte Befangenheit und Verletzung des Siegelungsschutzes. Das Bundesgericht wies die Rüge ab.
+**Sachverhalt:** Im Rahmen einer Strafuntersuchung des Kantons Uri wegen Pfändungsbetrugs wurden ein Smartphone und ein Tablet von A. sichergestellt und auf sein Verlangen gesiegelt. A. machte im Entsiegelungsverfahren glaubhaft, mit zwei namentlich benannten Rechtsanwälten korrespondiert zu haben. Das Zwangsmassnahmengericht Uri hiess das Entsiegelungsgesuch «unter Vorbehalt» teilweise gut und beauftragte im selben Entscheid das Kompetenzzentrum Digitale Forensik der Zuger Polizei — dieselbe Stelle, die die Geräte bereits entsperrt und gespiegelt hatte — mit der noch ausstehenden Aussonderung der Anwaltskorrespondenz. Das Bundesgericht **hiess die Beschwerde gut**: Weder durfte die Entsiegelung angeordnet werden, bevor die Triage abgeschlossen war, noch durfte eine ganze Organisationseinheit statt einer namentlich bestimmten natürlichen Person als sachverständige Person bezeichnet werden.
 
 **Erwägungen:**
-- **E. 3.1:** Reichweite der Ermächtigung zur Designation von Polizeipersonal gemäss Art. 248a Abs. 6 lit. b StPO.
-- **E. 3.2:** Gewährleistung der verfassungsmässigen Unabhängigkeit durch strikte Trennung von forensischer Dienstleistung und operativer Ermittlung.
+- **E. 4.3:** Unzulässigkeit der Vermengung von Entsiegelungsentscheid und noch ausstehender Triage in derselben Verfügung.
+- **E. 5.2:** Pflicht zur Bezeichnung einer natürlichen Person als sachverständige Person (Art. 183 StPO); ein Kompetenzzentrum als Organisationseinheit genügt nicht.
 
 ---
 
@@ -160,7 +169,6 @@ revisions:
 **Sachverhalt:** Ein Beschuldigter verlangte die Siegelung von WhatsApp- und E-Mail-Verläufen mit angeblichen Rechtsvertretern, nannte jedoch weder Adressen noch konkrete Zeiträume. Das ZMG bewilligte die Entsiegelung. Das Bundesgericht bestätigte den Entscheid.
 
 **Erwägungen:**
-- **E. 1.1:** ZMG als einzige kantonale Instanz nach Art. 248a Abs. 1 lit. a und Abs. 4 i.V.m. Art. 380 StPO.
 - **E. 3.2:** Substanziierungsobliegenheit bezüglich Anwaltsgeheimnissen; Notwendigkeit konkreter Kontaktdaten.
 
 ---
@@ -221,9 +229,9 @@ revisions:
 
 ---
 
-### 15. [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026) vom 15.07.2026 (publiziert 02.09.2026; vgl. auch 7B_133/2026) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft (Art. 110 StPO)
+### 15. [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) vom 05.08.2026 (vgl. auch [7B_133/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-133-2026_2026-08-05.html) vom selben Tag) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft (Art. 110 StPO)
 
-**Datum:** 15. Juli 2026 | **Signatur:** [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/7B_165/2026)
+**Datum:** 5. August 2026 | **Signatur:** [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)
 
 **Kernsatz:** Art. 110 Abs. 1 und 2 StPO gilt analog auch für Gesuche und Eingaben der Staatsanwaltschaft an das Zwangsmassnahmengericht. Die Übermittlung eines Entsiegelungsgesuchs per einfacher, unsignierter E-Mail ist formunwirksam und wahrt die gesetzliche 20-tägige Frist von Art. 248 Abs. 3 StPO nicht. Die Pflicht zur Ansetzung einer Nachfrist zur Verbesserung von Formmängeln (Art. 110 Abs. 4 StPO) gilt für Strafbehörden nicht. Das ZMG tritt auf formungültige Gesuche nicht ein; die versiegelten Datenträger sind herauszugeben und Spiegelungen zu löschen.
 
