@@ -215,14 +215,13 @@ Der Ausschluss greift nicht schrankenlos. Er entfällt, wenn die Bindung zum Bet
 
 **Gegenüberstellung: Verwerfung vs. Fortbestand der arbeitgeberähnlichen Stellung**:
 
-```markdown
 | Fallkonstellation | Rechtliche Würdigung | Ergebnis | Entscheid |
 |---|---|---|---|
 | D. AG stellt Betrieb ein; alle Mitarbeiter entlassen; Tochter (ehem. Finanzchefin) wird im HR gelöscht; erhält vom Vater Vollmacht zur Notfallvertretung (Briefkasten leeren, Pflanzen giessen) | Kein Missbrauchsrisiko; keine Reaktivierungsabsicht; rein familiäre Hilfestellung; arbeitgeberähnliche Stellung verneint | **Taggeldanspruch bejaht** | [BS SVG AL.2017.30 vom 12.03.2018](https://entscheidsuche.ch/docs/BS_Omni/BS_SVG_001_AL-2017-30_2018-03-12.html) |
 | Ehemann ist Gesellschafter und Geschäftsführer einer GmbH; Gesellschaft beschliesst Liquidation; Ehemann amtiert als Liquidator; Ehefrau verlangt Taggelder | Liquidator behält Dispositionsmacht über das Gesellschaftsvermögen; Missbrauchsgefahr bleibt bis zur vollständigen Löschung im HR | **Taggeldanspruch verneint** | [SG VSG AVI 2007/44 vom 02.10.2007](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_AVI-2007-44_2007-10-02.pdf) |
 | Alleinaktionär und einziger VR kündigt sich selbst das Arbeitsverhältnis bei der AG, bleibt aber im HR als Organ eingetragen | Organstellung bleibt unverändert; jederzeitige Wiedereinstellung möglich | **Taggeldanspruch verneint** | [BGE 123 V 234](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-123-V-234_1997-09-04.html) |
 | Minderheitsgesellschafter mit 12% Stammanteil ohne Geschäftsführung und ohne Sperrminorität | Gesellschaftsrechtliche Organstellung in der Gesellschafterversammlung begründet unübertragbare Mitwirkungsrechte | **Taggeldanspruch verneint** | [BGE 145 V 200](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-145-V-200_2019.html) |
-```
+
 
 > **Leitsatz.** Gesellschafter einer GmbH und Verwaltungsräte einer AG sind kraft ihrer gesellschaftsrechtlichen Organstellung vom Taggeldanspruch ausgeschlossen, solange sie ihre Rechtsmacht nicht durch Anteilsveräusserung und Löschung im Handelsregister oder durch definitive Betriebseinstellung unwiderruflich aufgegeben haben.
 

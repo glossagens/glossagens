@@ -135,12 +135,11 @@ Nach ständiger Rechtsprechung setzt das Vorliegen des Widerrufsgrundes **kein V
 
 #### 3. Grenzkasuistik: Ergänzungsleistungen sind keine Sozialhilfe
 
-```markdown
 | Sachverhalt & Konstellation | Beurteilung | Entscheid |
 |---|---|---|
 | Spanischer Bauarbeiter (C-Ausweis seit 1993), 2006–2021 Sozialhilfe von Fr. 288'723.– bezogen; ab April 2021 Frühpensionierung mit AHV-Rente und Ergänzungsleistungen (EL); kantonales Urteil ergeht im November 2021 | **Widerruf unzulässig.** EL fallen nicht unter den Begriff der Sozialhilfe. Da im Urteilszeitpunkt keine Sozialhilfe mehr bezogen wurde, fehlte die Dauerhaftigkeit; kein Rückgriff auf abgeschlossene Perioden | [BGE 149 II 1 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-1_2023.html#consideration_4) (= [2C_60/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-60-2022_2022-12-27.html)) |
 | Ehefrau eines Schweizers, seit Einreise 2011 mit Familie voll fürsorgeabhängig (über Fr. 228'000.–). Trotz gesunder Arbeitsfähigkeit und Teenagerkindern nur Kleinstpensen ausgeübt; Verwarnung missachtet | **Widerruf geschützt.** Erhebliche Summe, negative Erwerbsprognose und schuldhaftes Unterlassen zumutbarer Erwerbsarbeit | [BGer 2C_1115/2018 E. 5–6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-1115-2018_2019-10-31.html) |
-```
+
 
 > **Leitsatz.** Ergänzungsleistungen (EL) zur AHV/IV sind keine Sozialhilfe im Sinne von Art. 63 Abs. 1 lit. c AIG. Ist eine betroffene Person im Zeitpunkt des kantonalen Gerichtsentscheids von der Sozialhilfe abgelöst und bezieht stattdessen Ergänzungsleistungen, entfällt der Widerrufsgrund der dauerhaften Fürsorgeabhängigkeit.
 
@@ -171,12 +170,11 @@ Die Rückstufung kann grundsätzlich auch auf Niederlassungsbewilligungen angewa
 #### 3. Kasuistik: Schuldenwirtschaft und unternehmerisches Scheitern
 Die Nichtteilnahme am Wirtschaftsleben (Art. 58a Abs. 1 lit. d AIG i.V.m. Art. 77e Abs. 1 VZAE) bildet den häufigsten Anwendungsfall der Rückstufung. Das Bundesgericht differenziert streng zwischen schicksalhaftem wirtschaftlichem Misserfolg und **mutwilliger Schuldenwirtschaft**:
 
-```markdown
 | Fallkonstellation | Wesentliche Umstände | Ergebnis | Entscheid |
 |---|---|---|---|
 | Bauunternehmer häuft über drei Kapitalgesellschaften Fr. 1.3 Mio. Konkursschulden an | Verurteilung wegen Misswirtschaft; Gründung neuer Firmen trotz Ausständen; Mahnung missachtet | **Rückstufung geschützt.** Mutwillige Schuldenwirtschaft trotzt Haftungsbeschränkung juristischer Personen | [BGer 2C_362/2025 vom 12. Februar 2026, E. 5–6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-362-2025_2026-02-12.html) |
 | Kosovarischer Staatsangehöriger (28 Jahre in CH), 13 Vorstrafen bis 2018 (BetmG, SVG), keine Taten nach 2019 | Schulden saniert, keine Fürsorgeabhängigkeit, keine Straftaten nach dem 1.1.2019 | **Rückstufung aufgehoben.** Fehlendes aktuelles Integrationsdefizit; Pflicht zur Verwarnung | [BGE 148 II 1 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_6) |
-```
+
 
 #### 4. Kein Vorrang der Rückstufung als «mildere Massnahme»
 Sind die Voraussetzungen für einen vollständigen Widerruf der Niederlassungsbewilligung nach Abs. 1 erfüllt und erweist sich die Ausweisung als verhältnismässig, darf die Behörde die Rückstufung nicht als beliebiges Gnadenmittel anstelle des Widerrufs verfügen. Der Widerruf mit Wegweisung geht der Rückstufung systematisch vor ([BGE 148 II 1 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_2.5); [AG OG WBE.2020.8](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2020-8_2020-07-07.pdf)).

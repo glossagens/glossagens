@@ -96,13 +96,12 @@ In der Praxis scheitern Revisionsgesuche regelmässig daran, dass Parteien neu e
 
 #### Kasuistik: Observation und neues Gutachten vs. Parteigutachten
 
-```markdown
 | Beweismittel / Konstellation | Beurteilung nach Art. 53 Abs. 1 ATSG | Entscheid |
 |---|---|---|
 | Strafurteil wegen Betrugs deckt vollständige Simulation der Arbeitsunfähigkeit auf | **Neues Beweismittel bejaht**; Tatsachenbasis war objektiv unvollständig | [BGE 143 V 105 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-105_2017.html#consideration_2.5) |
 | Nachträgliche Detektiv-Observation zeigt Tagesmutter-Tätigkeit; neues Gutachten hält frühere Diagnose für zweifelhaft | **Verworfen**; begründet bloss andere Würdigung, belegt nicht Fehlen der Arbeitsunfähigkeit ex tunc | [BGer 9C_555/2012 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-555-2012_2013-07-25.html) |
 | Neu eingereichter Privatbericht eines Psychiaters kritisiert die damalige Begutachtungsmethode der MEDAS | **Verworfen**; blosse abweichende Beurteilung bei unverändertem Tatsachensubstrat | [SG VSG UV 2015/17 E. 2](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_UV-2015-17_2017-01-10.pdf) |
-```
+
 
 > **Leitsatz.** Ein medizinisches Gutachten ist nur dann ein neues Beweismittel im Sinne von Art. 53 Abs. 1 ATSG, wenn es bisher unbekannte Tatsachen aus der Zeit vor Verfügungserlass nachweist (z.B. verborgene organische Läsionen). Begnügt es sich damit, bereits aktenkundige Symptome abweichend zu interpretieren oder das frühere Gutachten zu kritisieren, scheidet eine prozessuale Revision aus.
 
@@ -242,13 +241,12 @@ Das Bundesgericht hat dieser Praxis einen Riegel geschoben und die kantonale Jud
 
 #### Judikaturdivergenz: Die Konfrontation der Massstäbe
 
-```markdown
 | Standpunkt der Vorinstanz ([SG VSG IV 2018/211](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_IV-2018-211_2018-11-16.pdf)) | Massstab des Bundesgerichts ([BGer 9C_22/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-22-2019_2019-05-07.html)) |
 |---|---|
 | Der Wortlaut von Art. 53 Abs. 3 ATSG sei offen und enthalte keine inhaltlichen Schranken für den Widerruf. | Art. 53 Abs. 3 ATSG greift **ausschliesslich zugunsten** der Beschwerde führenden Partei. |
 | Die Behörde dürfe die angefochtene Rentenverfügung ersatzlos aufheben, um den Sachverhalt neu abzuklären. | Ein reiner Widerruf hemmt das Verfahren unzulässig und entzieht dem Versicherten Rechtsschutzgarantien. |
 | Das bisherige Beschwerdeverfahren sei als gegenstandslos am Protokoll abzuschreiben. | Das Beschwerdeverfahren bleibt hängig; eine reformatio in peius bedingt Gehör und Rückzugsrecht (Art. 61 lit. d ATSG). |
-```
+
 
 > **Leitsatz.** Eine Wiedererwägung pendente lite nach Art. 53 Abs. 3 ATSG ist nur zulässig, soweit sie den Anträgen der Beschwerde führenden Partei ganz oder teilweise entspricht. Ein reiner Widerruf zuungunsten des Versicherten oder zur Wiederaufnahme von Abklärungen ist rechtswidrig.
 

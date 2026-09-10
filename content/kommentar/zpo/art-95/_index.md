@@ -122,14 +122,13 @@ Kosten für behördlich angeordnete Übersetzungen und den Beizug von Dolmetsche
 #### Judikaturwiderspruch & Teleologische Reduktion: Gebärdensprache vs. Fremdsprache
 Die Gerichte standen vor der Streitfrage, ob die Kosten eines Gebärdensprachdolmetschers für gehörlose Parteien den Parteien als Gerichtskosten nach Art. 95 Abs. 2 lit. d ZPO auferlegt werden dürfen:
 
-```markdown
 | Dimension | Wortlautgetreue Auslegung (Verworfen) | Teleologische Reduktion (Herrschende Praxis) |
 |---|---|---|
 | **Kostenqualifikation** | Prozesskosten / Gerichtskosten (Art. 95 Abs. 2 lit. d ZPO) | **Staatliche Infrastrukturkosten** (Art. 8 Abs. 2 BV, Art. 2 Abs. 4 BehiG) |
 | **Ausgangslage** | Gehörlose Partei benötigt Übersetzung an der mündlichen Verhandlung | Gehörlose Partei versteht die Amtssprache, bedarf aber eines physischen Hilfsmittels |
 | **Kostenfolge** | Auferlegung an die Parteien nach Art. 106 ZPO | **Vollständige Übernahme durch den Kanton** |
 | **Rechtsgrundlage** | Art. 95 Abs. 2 lit. d ZPO gramm. | Art. 8 Abs. 2 und 4 BV, Art. 13 UN-BRK, [LU KG 3C 23 10](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_002_3C-23-10_2023-08-16.html) |
-```
+
 
 * **Kasuischer Leitfall ([LU KG 3C 23 10 vom 16.8.2023](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_002_3C-23-10_2023-08-16.html))**:  
   In einem Eheschutzverfahren vor dem Bezirksgericht Luzern wurde für eine hörbehinderte Partei eine Gebärdensprachdolmetscherin beigezogen. Die Vorinstanz schlug die Dolmetscherentschädigung zu den Gerichtskosten und auferlegte sie den Parteien.  
@@ -211,14 +210,13 @@ Die **Gerichtspraxis lehnt dies jedoch einhellig ab**:
 * **Schutz des BGFA-Anwaltsmonopols**: Art. 95 Abs. 3 lit. b ZPO privilegiert bewusst die vom Klienten unabhängige Anwaltschaft. Würde man Unternehmen für ihre Syndikusanwälte eine Umtriebsentschädigung nach Anwaltstarif zusprechen, würde das anwaltsrechtliche Unabhängigkeitsgebot (Art. 8 Abs. 1 lit. d BGFA) unterlaufen.
 * Entschädigung wird Banken, Versicherungen oder Verbänden für die Prozessführung durch ihren internen Dienst daher ausnahmslos verweigert ([BGer 4A_436/2023 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-436-2023_2023-12-06.html); [BGer 1P.68/2007 vom 17.8.2007 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1P-68-2007_2007-08-17.html); [BE OG ZK 2015 221 vom 7.9.2015](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_001_ZK-2015-221_2015-09-07.pdf)).
 
-```markdown
 | Konstellation | Vertretungsart | Entschädigung nach Art. 95 Abs. 3 | Leitentscheid |
 |---|---|---|---|
 | **Privatperson / Laie** | Selbsteinreichung ohne Erwerbsausfall | **Keine Umtriebsentschädigung** (bloss Barauslagen nach lit. a) | [AR OG ERZ 24 33](https://entscheidsuche.ch/docs/AR_Gerichte/AR_OG_008_ERZ-24-33-ARGVP-2024_nodate.pdf) |
 | **Selbstständigerwerbender** | Nachweisbarer Verdienstausfall durch Prozessteilnahme | **Angemessene Entschädigung** nach Abs. 3 lit. c | [BGer 4A_436/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-436-2023_2023-12-06.html) |
 | **Unternehmen / Bank** | Interner Rechtsdienst / Syndikus | **Keine Entschädigung** (Ohnehin-Kosten) | [SG HG HG.2023.6-HGK](https://entscheidsuche.ch/docs/SG_Gerichte/SG_HG_001_HG-2023-6-HGK_2024-07-02.pdf) |
 | **Unternehmen / Bank** | Externer Rechtsanwalt (BGFA) | **Volle Parteientschädigung** nach Anwaltstarif (lit. b) | [BGE 144 III 164](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-164_2018.html) |
-```
+
 
 > **Leitsatz.** Eine Umtriebsentschädigung nach Art. 95 Abs. 3 lit. c ZPO setzt einen konkreten Verdienstausfall oder ausserordentlichen Aufwand voraus; juristische Personen und Behörden mit eigenem Rechtsdienst haben für die interne Prozessführung keinen Anspruch auf Parteientschädigung.
 
