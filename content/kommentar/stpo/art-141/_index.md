@@ -2,11 +2,16 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: "2026-09-04"
-description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu PIN-Erfragung, verdeckter Ermittlung, Landfriedensbruch/Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
+lastmod: "2026-09-10"
+description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu Unterbrechung der Kausalkette, PIN-Erfragung, verdeckter Ermittlung, Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht", "Praxiskommentar", "nemo tenetur", "verdeckte Ermittlung", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-09-10
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Systematische Vertiefung von Art. 141 Abs. 4 StPO (Fernwirkung und Unterbrechung der Kausalkette): Dogmatik der Unterbrechung (conditio sine qua non, Inevitable Discovery, Independent Source, Zäsur/Aussageautonomie); Einarbeitung des Bundesgerichtsurteils BGer 6B_206/2026 vom 19.08.2026 (AIG-Folgebeweise trotz fehlender Überwachungsgenehmigung verwertbar wegen unabhängiger Vorerkenntnisse der Fremdenpolizei) sowie der Leitentscheide BGer 6B_350/2026 (keine Gesamtkontamination nach unverwertbarer Ersteinvernahme), BGer 6B_462/2025 (gerichtliche Prüfpflicht bei Folgebeweisen), BGer 6B_924/2025 und BGer 6B_506/2024; Gegenüberstellung von Anwendungs- und Verwerfungsfällen in Kasuistiktabelle; prozessuale Rüge- und Substanziierungsobliegenheit."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -153,16 +158,78 @@ Der Vergleich zeigt eine **Spannung, die das Bundesgericht selbst nicht auflöst
 
 Werden Beweise nicht vom Staat, sondern von Privaten rechtswidrig erhoben, prüft das Bundesgericht seit [BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html) zweistufig: Erst ist zu fragen, ob ein Rechtfertigungsgrund nach Art. 13 DSG (Einwilligung, überwiegendes privates oder öffentliches Interesse, gesetzliche Grundlage) die datenschutzrechtliche Widerrechtlichkeit beseitigt — bejahendenfalls ist der Beweis **uneingeschränkt verwertbar**. Erst wenn die Rechtswidrigkeit bestehen bleibt, folgt die strafprozessuale Prüfung nach Art. 141 Abs. 2 StPO (BGE 147 IV 16 E. 5). Rechtfertigungsgründe werden bei Dashcam-artigen Dauer- und Streuaufnahmen «nur mit grosser Zurückhaltung» anerkannt (BGE 147 IV 16 E. 3.3), während sie bei punktuellen, situativ ausgelösten Aufnahmen (z.B. Bodycam-Video eines konkreten Vorfalls) eher in Betracht kommen (BGer 6B_810/2020 E. 2.6).
 
-## D. Merkmal 4: Fernwirkung (Abs. 4)
+## D. Merkmal 4: Fernwirkung (Abs. 4) und deren Unterbrechung
 
-Abs. 4 wurde durch Ziff. I des BG vom 17. Juni 2022 (in Kraft seit 1.1.2024) neu gefasst und erfasst seither ausdrücklich **sowohl** Abs. 1 **als auch** Abs. 2 (zuvor nur Abs. 2). Die Frage, ob bei absoluten Verwertungsverboten eine strikte Fernwirkung gelten sollte, war zuvor umstritten und in BGE 138 IV 169 E. 3.2 offengelassen worden. In BGer 7B_257/2022 vom 4. Dezember 2023 und bestätigend in [BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) E. 2.5.2 entschied das Bundesgericht, dass die bisherige — nicht nach der Art des Verwertungsverbots differenzierende — Rechtsprechung auch unter neuem Recht weitergilt: **Keine strikte Fernwirkung**, sondern die (regelmässig schwer zu erbringende) Frage, ob der Folgebeweis auch ohne den unverwertbaren Primärbeweis mit grosser Wahrscheinlichkeit erlangt worden wäre (BGE 138 IV 169 E. 3.3.3; BGE 133 IV 329 E. 4.5). Die blosse theoretische Möglichkeit rechtmässiger Erlangung genügt nicht.
+### Grundsatz und Dogmatik der Fernwirkung
 
-**Anwendungsbeispiele aus der jüngeren Praxis:**
-- Aussagen in der Hauptverhandlung, die auf Vorhalt einer unverwertbaren polizeilichen Einvernahme beruhen, sind unverwertbar, wenn sie ohne diesen Vorhalt nicht in dieser Form ergangen wären (BGer 6B_865/2025).
-- Bei der PIN-Erfragung (BGE 151 IV 73) mussten die Strafverfolgungsbehörden aufzeigen, dass das Mobiltelefon auch ohne den Code hätte ausgelesen werden können — der Nachweis scheiterte im konkreten Fall vollständig.
-- Beim Zufallsfund über ein BÜPF-Verfahren (BGE 133 IV 329) war ein Geständnis verwertbar, weil es mit an Sicherheit grenzender Wahrscheinlichkeit auch ohne den illegalen Zufallsfund erlangt worden wäre.
+Art. 141 Abs. 4 StPO kodifiziert die sogenannte Fernwirkung von Beweisverwertungsverboten («fruit of the poisonous tree»-Doktrin): Ermöglichte ein Beweis, der nach Abs. 1 oder 2 nicht verwertet werden darf, die Erhebung eines weiteren Beweises, so ist dieser Folgebeweis grundsätzlich ebenfalls unverwertbar.
 
-> **Merksatz.** In der Praxis ist die Fernwirkungsfrage regelmässig **entscheidend** für den Verfahrensausgang, weil die Strafverfolgungsbehörden einen hypothetischen Kausalverlauf nachträglich kaum je lückenlos rekonstruieren können. Die Verteidigung sollte deshalb nicht nur den Primärverstoss, sondern konsequent jeden darauf gestützten Folgebeweis einzeln adressieren und dessen selbstständige, hypothetisch rechtmässige Erlangbarkeit aktiv bestreiten.
+Durch die StPO-Revision vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) wurde Abs. 4 neu gefasst und erstreckt sich seither ausdrücklich **sowohl auf Abs. 1 als auch auf Abs. 2** (zuvor nannte der Wortlaut nur Abs. 2, was in der Lehre zu heftigen Kontroversen geführt hatte). Trotz dieser Ausweitung verwarf das Bundesgericht die Forderung nach einer strikten, automatischen Fernwirkung bei absoluten Verwertungsverboten: In [BGer 7B_257/2022 vom 4. Dezember 2023 E. 3.2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-257-2022_2023-12-04.html), bestätigt in [BGE 151 IV 73 E. 2.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) und [BGer 6B_924/2025 vom 15. Januar 2026 E. 1.1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-924-2025_2026-01-15.html), stellte es klar, dass die bisherige — nicht nach der Schwere des primären Verwertungsverbots differenzierende — Rechtsprechung uneingeschränkt weitergilt.
+
+Massgebend ist ein zweistufiger Kausalitätstest:
+1. **Natürliche Kausalität (*conditio sine qua non*)**: Der erste, unverwertbare Beweis muss den Folgebeweis überhaupt erst ermöglicht haben ([BGE 138 IV 169 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-169_2012.html)). Fehlt jeder Kausalzusammenhang, liegt schon tatbestandsmässig kein Folgebeweis vor.
+2. **Kausalkettenunterbrechung**: Eine Fernwirkung ist zu verneinen, wenn der Folgebeweis im Sinne eines hypothetischen Ermittlungsverlaufs zumindest mit einer **grossen Wahrscheinlichkeit** auch ohne den illegalen ersten Beweis erlangt worden wäre ([BGE 138 IV 169 E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-169_2012.html); [BGE 133 IV 329 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-IV-329_2007.html); [BGer 6B_206/2026 vom 19. August 2026 E. 2.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026)).
+
+### Die Fallgruppen der Kausalkettenunterbrechung
+
+Die bundesgerichtliche Kasuistik unterscheidet vier praxisprägende Konstellationen, in denen die Kausalkette zwischen dem rechtswidrigen Erstbeweis und dem Folgebeweis unterbrochen wird und die Fernwirkung entfällt:
+
+#### 1. Unabhängige behördliche Vorerkenntnisse (*Independent Source*)
+Liegt der Ermittlungsansatz nicht im unverwertbaren Primärbeweis, sondern verfügten die Behörden bereits unabhängig davon über Erkenntnisse, die mit erheblicher Wahrscheinlichkeit zu denselben Ermittlungsschritten geführt hätten, ist die Fernwirkung ausgeschlossen.
+
+**Der Fremdenpolizei- und BetmG-Fall.** In [BGer 6B_206/2026 vom 19. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026) führte die Staatsanwaltschaft eine Telefonüberwachung und eine Hausdurchsuchung durch. Diese waren jedoch ausschliesslich bezüglich des Verdachts qualifizierter Betäubungsmitteldelikte und Urkundenfälschung (Art. 251 StGB) gerichtlich genehmigt. Für die zusätzlich angeklagten Widerhandlungen gegen das Ausländer- und Integrationsgesetz (AIG) lag keine Genehmigung des Zwangsmassnahmengerichts vor (und eine solche durfte mangels Katalogtat nach Art. 269 Abs. 2 lit. b i.V.m. Art. 278 Abs. 1 StPO auch nicht erteilt werden). Die Erstinstanz sprach den Beschuldigten von den AIG-Vorwürfen frei, weil sämtliche Beweise Folgebeweise der unzulässigen Telefonüberwachung seien.
+
+Das Bundesgericht bestätigte die Verurteilung durch das Obergericht Bern ([SK 2024 417 vom 1. Juli 2025](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2024-417_2025-07-01.pdf)) und verneinte die Fernwirkung (E. 2.2 f.):
+- **Eigenständige Ermittlungsstränge**: Die Fremdenpolizei hatte bereits 2018 — vor Eröffnung des Strafverfahrens — Unregelmässigkeiten bei der Aufenthaltsbewilligung einer Drittperson und deren Scheinfirma festgestellt. Spätere Angaben der Mutter des Beschuldigten und Abklärungen beim angeblichen Arbeitgeber ergaben, dass die Drittperson nie zur Arbeit erschienen war, worauf Meldung an die Polizei erstattet worden war.
+- **Selbstständige Rechtmässigkeit der Durchsuchung**: Wegen des Tatverdachts auf BetmG-Widerhandlungen und Urkundenfälschung durfte die Hausdurchsuchung unabhängig von den AIG-Vorwürfen angeordnet werden; die Sicherstellung von Datenträgern und Miet-/Arbeitsverträgen war rechtmässig.
+- **Ergebnis**: Die Summe der unabhängigen verwaltungsbehördlichen Vorerkenntnisse und die ohnehin rechtmässig sichergestellten Unterlagen hätten im Rahmen eines hypothetischen Ermittlungsverlaufs mit erheblicher Wahrscheinlichkeit auch ohne die Telefonüberwachung zur Aufdeckung der AIG-Delikte geführt (E. 2.2.2).
+
+#### 2. Hypothetisch unvermeidbare Ermittlung (*Inevitable Discovery*) und ihre Schranken
+Die Unterbrechung setzt voraus, dass der Folgebeweis auch ohne den rechtswidrigen Schritt mit **grosser Wahrscheinlichkeit** erlangt worden wäre. Eine blosse theoretische oder denkbare Ermittlungsmöglichkeit genügt keinesfalls (BGE 138 IV 169 E. 3.3.3).
+
+**Die Schranke bei verschlüsselten Geräten.** Wie streng dieser Massstab gehandhabt wird, zeigt der PIN-Erfragungs-Leitentscheid [BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html): Die Strafverfolgungsbehörden hatten den Zugangscode zu einem Mobiltelefon ohne nemo-tenetur-Belehrung erhoben (absolutes Verwertungsverbot nach Abs. 1). Um die daraus gewonnenen Chatverläufe und App-Inhalte nach Abs. 4 retten zu können, hätten die Strafverfolgungsbehörden lückenlos nachweisen müssen, dass das Mobiltelefon auch ohne den Code mit forensischen Methoden hätte geknackt werden können. Das Bundesgericht hielt fest, dass dieser Nachweis den Strafbehörden obliegt und «regelmässig nur schwer zu erbringen» ist (E. 2.5.2) — da der Nachweis im konkreten Fall misslang, waren sämtliche Folgebeweise unverwertbar.
+
+#### 3. Vorbestehender Tatverdacht vs. angebliche «Gesamtkontamination»
+Wird ein Beschuldigter in einem frühen Stadium rechtswidrig einvernommen, führt dies nicht per se dazu, dass das gesamte nachfolgende Strafverfahren unheilbar kontaminiert wird.
+
+**Der Tötungsdelikt-Fall.** In [BGer 6B_350/2026 vom 9. Juni 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html) war die siebenstündige Ersteinstellung eines Mordbeschuldigten absolut unverwertbar. Der Beschuldigte rügte, die Polizei habe bei allen weiteren Schritten das Wissen aus dieser Einvernahme verwendet; dadurch sei die gesamte restliche Untersuchung kontaminiert und alle Zeugen- und Sachbeweise seien unverwertbar. Das Bundesgericht wies dies ab (E. 3.2 f.):
+- Die Kausalkette war unterbrochen, weil bereits **vor** der rechtswidrigen Befragung eine Zeugenaussage (G.) den Tatverdacht auf den Beschuldigten gelenkt hatte.
+- Die anschliessenden Folgemassnahmen (Obduktion des Opfers, Befragung von Personen aus dem persönlichen Umfeld) drängten sich nach den Standards einer Tötungsermittlung ohnehin zwingend auf und wären im Rahmen des hypothetischen Ermittlungsverlaufs ohnehin durchgeführt worden (E. 3.3.3).
+
+#### 4. Autonome Entschlussfassung und Zäsur (*Purged Taint*) vs. Vorhaltsdruck
+Macht der Beschuldigte nach einer unverwertbaren Befragung in einer späteren, ordnungsgemäss durchgeführten Einvernahme Aussagen, hängt die Fernwirkung vom Vorhalt ab:
+- **Kausaler Vorhaltsdruck (Fernwirkung greift durch)**: Werden dem Beschuldigten in späteren Einvernahmen die Protokolle der unverwertbaren Befragung vorgehalten und bestätigt er diese daraufhin, schlägt das Verwertungsverbot voll durch. Die Folgeaussagen sind unverwertbar, weil sie ohne den unzulässigen Vorhalt nicht in dieser Form ergangen wären ([BGer 6B_865/2025 vom 9. März 2026 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-865-2025_2026-03-09.html); [BGE 150 IV 345 E. 1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html); [BGE 143 IV 457 E. 1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-457_2017.html)).
+- **Autonome Zäsur (Fernwirkung unterbrochen)**: Beruht das spätere Geständnis hingegen auf einer autonomen, von der Vorbefragung losgelösten Entschlussfassung — etwa nach Bedenkzeit und Rücksprache mit der Verteidigung —, ist die Kausalkette unterbrochen ([BGE 133 IV 329 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-IV-329_2007.html)).
+
+#### 5. Gerichtliche Prüfpflicht bei Folgebeweisen
+Stellt ein Gericht fest, dass ein Primärbeweis unverwertbar ist, darf es die Verwertbarkeit der Folgebeweise nicht stillschweigend voraussetzen:
+- In [BGer 6B_462/2025 vom 25. März 2026 E. 3.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-462-2025_2026-03-25.html) erklärte das Obergericht Observationsergebnisse für unverwertbar, stützte das Urteil aber auf nachfolgende Gutachten und spätere Berichte. Das Bundesgericht hob das Urteil auf: Die Vorinstanz hatte die Fernwirkung nach Art. 141 Abs. 4 StPO überhaupt nicht geprüft.
+- Ebenso hob das Bundesgericht in [BGer 6B_506/2024 vom 11. September 2024 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-506-2024_2024-09-11.html) ein Urteil auf, weil die Vorinstanz nach Feststellung von Mängeln bei der notwendigen Verteidigung (Art. 131 StPO) und den Teilnahmerechten (Art. 147 StPO) die Fernwirkung auf Folgeeinvernahmen nicht geprüft hatte (Verletzung der Begründungspflicht gemäss Art. 112 Abs. 1 lit. b BGG).
+
+### Prozessuale Rüge- und Substanziierungsobliegenheit der Verteidigung
+
+Ein für die Verteidigungspraxis elementarer Grundsatz betrifft die Darlegungslast:
+Weder vor kantonalen Instanzen noch vor Bundesgericht genügt es, pauschal die «Nichtverwertbarkeit aller Folgebeweise» zu rügen oder die blosse zeitliche Abfolge («post hoc ergo propter hoc») zu behaupten ([BGer 6B_206/2026 E. 2.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026); [BGer 6B_350/2026 E. 3.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html)).
+
+Die beschuldigte Person trifft eine **substantiierte Rügeobliegenheit**:
+- Es muss konkret dargelegt werden, **welches einzelne Beweismittel** durch welchen Primärverstoss erlangt wurde.
+- Es muss aufgezeigt werden, dass dieses Beweismittel **ausschliesslich** auf dem illegalen Beweis beruht und im regulären Gang der Untersuchung nicht ohnehin mit grosser Wahrscheinlichkeit erlangt worden wäre.
+- Bleibt die Rüge allgemein oder appellatorisch, tritt das Bundesgericht darauf mangels hinreichender Begründung (Art. 42 Abs. 2, Art. 106 Abs. 2 BGG) gar nicht erst ein.
+
+### Kasuistiktabelle: Fernwirkung vs. Kausalkettenunterbrechung
+
+| Primärer Mangel | Folgebeweis | Fernwirkung | Begründung des Gerichts | Leitentscheid |
+|---|---|---|---|---|
+| Fehlende Überwachungsgenehmigung für AIG-Delikte | Gefundene Scheinarbeitsverträge, Drittzeugenaussagen | **Unterbrochen** (verwertbar) | Unabhängige Erkenntnisse der Fremdenpolizei lagen vor; Hausdurchsuchung durch BetmG-Tatverdacht rechtmässig gedeckt | [BGer 6B_206/2026 E. 2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026) |
+| PIN-Erfragung ohne nemo-tenetur-Belehrung (Abs. 1) | Chatprotokolle (Lovoo/Facebook), Auswertung des Handys | **Greift durch** (unverwertbar) | Kein Nachweis, dass Smartphone ohne Code hätte entsperrt werden können; hypothetische Erlangbarkeit misslungen | [BGE 151 IV 73 E. 2.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) |
+| Siebenstündige unzulässige Erstbefragung bei Mord (Abs. 1) | Obduktionsbefund, Zeugenaussagen aus Umfeld | **Unterbrochen** (verwertbar) | Tatverdacht bestand bereits vor der Befragung durch Zeugenhinweis; Schritte drängten sich objektiv zwingend auf | [BGer 6B_350/2026 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html) |
+| Unverwertbare Voreinvernahme (Verletzung Teilnahmerecht) | Spätere Einvernahme unter Vorhalt der Voraussagen | **Greift durch** (unverwertbar) | Vorhaltsdruck: Aussage wäre ohne den Vorhalt der rechtswidrigen Voreinvernahme nicht so gefallen | [BGer 6B_865/2025 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-865-2025_2026-03-09.html) |
+| Nicht genehmigter BÜPF-Zufallsfund | Geständnis in der Folgeeinvernahme | **Unterbrochen** (verwertbar) | Autonomes Aussageverhalten: Geständnis wäre mit an Sicherheit grenzender Wahrscheinlichkeit ohnehin erfolgt | [BGE 133 IV 329 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-IV-329_2007.html) |
+| Rechtswidrige Observationen in Vorjahren | Folge-Observationsberichte und medizinische Gutachten | **Prüfpflicht** (Rückweisung) | Gericht darf Folgebeweise nicht unbesehen verwerten; Fernwirkung muss bezüglich jedes Gutachtens geprüft werden | [BGer 6B_462/2025 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-462-2025_2026-03-25.html) |
+
+> **Merksatz.** Die Fernwirkung nach Art. 141 Abs. 4 StPO ist kein Selbstläufer:
+> 1. **Für die Strafverfolgungsbehörden**: Der Nachweis eines hypothetischen Ermittlungsverlaufs erfordert eine **grosse Wahrscheinlichkeit** und konkrete aktenkundige Anhaltspunkte (z.B. parallele Vorermittlungen oder vorbestehender Tatverdacht). Blosse Behauptungen genügen nicht.
+> 2. **Für die Verteidigung**: Die Verteidigung darf sich nie auf eine angebliche «Gesamtkontamination» oder die zeitliche Reihenfolge zurückziehen. Sie muss jeden Folgebeweis einzeln herausgreifen, die Kausalität zum Primärfehler belegen und aufzeigen, weshalb dieser Beweis ohne die Rechtsverletzung verborgen geblieben wäre.
 
 ## E. Merkmal 5: Aktenbereinigung (Abs. 5) und die Schranken der Vorabklärung
 
@@ -207,7 +274,7 @@ Entscheidender aber: Das Gericht erklärte die vom Obergericht vorgenommene **Zw
 
 **Gültigkeitsvorschriften (Abs. 2)**: Fehlende schriftliche Bestätigung einer mündlichen Beschlagnahme ([BGE 151 IV 18](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-18_2025.html)). Fehlende schriftliche Anordnung/Bestätigung einer Blutprobe (BGer 6B_307/2017).
 
-**Fernwirkung (Abs. 4)**: Fehlender Nachweis hypothetisch rechtmässiger Erlangbarkeit nach PIN-Erfragung ([BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) E. 2.5.2). Geständnis nach BÜPF-Zufallsfund trotz Fernwirkung verwertbar (BGE 133 IV 329).
+**Fernwirkung (Abs. 4)**: Fehlender Nachweis hypothetisch rechtmässiger Erlangbarkeit nach PIN-Erfragung ([BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) E. 2.5.2). Unterbrechung der Kausalkette bei AIG-Delikten durch unabhängige behördliche Vorerkenntnisse der Fremdenpolizei ([BGer 6B_206/2026 E. 2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026)). Keine Gesamtkontamination nach unverwertbarer Erstbefragung bei vorbestehendem Tatverdacht und zwingenden Standardermittlungen ([BGer 6B_350/2026 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html)). Pflicht zur Einzelfallprüfung von Folgebeweisen nach rechtswidriger Observation ([BGer 6B_462/2025 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-462-2025_2026-03-25.html)). Geständnis nach BÜPF-Zufallsfund bei autonomer Zäsur verwertbar ([BGE 133 IV 329](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-329_2007.html)). Durchschlagen der Fernwirkung bei kausalem Vorhalt unverwertbarer Voreinvernahmen ([BGer 6B_865/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-865-2025_2026-03-09.html)).
 
 **Aktenbereinigung und Prozessuales (Abs. 5)**: Verbleib in Akten grundsätzlich kein irreparabler Nachteil (BGE 141 IV 289); Ausnahme bei kantonaler Entfernungsanordnung im Vorverfahren. Unzulässige Verwertbarkeits-Zweiteilung der Hauptverhandlung ([BGer 7B_1429/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1429-2025_2026-08-05.html)).
 

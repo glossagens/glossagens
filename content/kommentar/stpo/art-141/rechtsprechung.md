@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: "2026-09-04"
+lastmod: "2026-09-10"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-09-10
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Erweiterung der Rechtsprechungsübersicht zu Art. 141 Abs. 4 StPO um BGer 6B_206/2026 vom 19.08.2026 (AIG-Folgebeweise bei Telefonüberwachung und Unterbrechung der Fernwirkung durch unabhängige fremdenpolizeiliche Vorerkenntnisse), BGer 6B_350/2026 (keine Gesamtkontamination nach unverwertbarer Erstbefragung), BGer 6B_462/2025 (gerichtliche Prüfpflicht bei Folgebeweisen), BGer 6B_924/2025, BGer 6B_506/2024 und BGer 7B_257/2022; Bereinigung der Verlinkungen auf entscheidsuche.ch."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -119,21 +124,33 @@ Art. 141 Abs. 3 StPO bestimmt, dass blossen Ordnungsvorschriftenverletzungen kei
 
 ### 5.1 Neues Recht (ab 1. Januar 2024)
 
-Mit der Änderung von Art. 141 Abs. 4 StPO (in Kraft seit 1. Januar 2024) erfasst die Fernwirkung nunmehr ausdrücklich sowohl absolute (Abs. 1) als auch relative (Abs. 2) Beweisverwertungsverbote. Das Gesetz verzichtet auf eine strikte Fernwirkung bei absoluten Verwertungsverboten und stattdessen auf den hypothetischen Ermittlungsverlauf ab: Hätten die Strafverfolgungsbehörden den Beweis auch ohne die Rechtsverletzung erlangt, entfällt die Unverwertbarkeit der Folgebeweise (hypothetisch rechtmässiger Ermittlungsverlauf).
+Mit der Änderung von Art. 141 Abs. 4 StPO (in Kraft seit 1. Januar 2024) erfasst die Fernwirkung nunmehr ausdrücklich sowohl absolute (Abs. 1) als auch relative (Abs. 2) Beweisverwertungsverbote. Das Gesetz verzichtet auf eine strikte Fernwirkung bei absoluten Verwertungsverboten und stellt stattdessen auf den hypothetischen Ermittlungsverlauf ab: Hätten die Strafverfolgungsbehörden den Beweis auch ohne die Rechtsverletzung erlangt, entfällt die Unverwertbarkeit der Folgebeweise (hypothetisch rechtmässiger Ermittlungsverlauf).
 
-**[BGE 151 IV 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_IV_73)** (vom 15. Januar 2025, 16 Zitate) — *Fernwirkung nach neuem Recht*: Art. 141 Abs. 4 StPO erfasst jetzt ausdrücklich Abs. 1 und Abs. 2. Bei absolutem Beweisverwertungsverbot gibt es keine strikte Fernwirkung mehr, sondern es ist auf den hypothetischen Ermittlungsverlauf abzustellen. Die Strafverfolgungsbehörden müssen darlegen, dass das Handy auch ohne den rechtswidrig erlangten Code hätte ausgelesen werden können. → E. 2.5.2.
+**[BGer 6B_206/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026)** (vom 19. August 2026) — *Unterbrechung der Fernwirkung bei AIG-Delikten durch unabhängige Vorerkenntnisse der Fremdenpolizei / Rügeobliegenheit*: Die Telefonüberwachung war ausschliesslich wegen Betäubungsmitteldelikten und Urkundenfälschung genehmigt; für die Vorwürfe wegen Widerhandlung gegen das AIG lag keine Genehmigung vor (und durfte mangels Katalogtat nach Art. 269 Abs. 2 lit. b i.V.m. Art. 278 Abs. 1 StPO auch nicht erteilt werden). Die Verurteilung wegen AIG-Widerhandlungen gestützt auf Folgebeweise (Arbeits- und Mietverträge, Einvernahmen) ist dennoch bundesrechtskonform: Die kantonale Fremdenpolizei hatte bereits vor Verfahrenseröffnung eigenständige Ermittlungen zu Scheinfirmen und Scheinarbeitsverhältnissen geführt, die Mutter hatte Angaben gemacht und der angebliche Arbeitgeber hatte gemeldet, dass die Person nie zur Arbeit erschienen war. Diese unabhängigen behördlichen Erkenntnisse hätten mit grosser Wahrscheinlichkeit auch ohne die geheime Überwachung zu polizeilichen Ermittlungen geführt. Zudem war die Hausdurchsuchung durch die BetmG-Vorwürfe rechtmässig gedeckt. Prozessuale Rügeobliegenheit: Wer vor Bundesgericht die Verwertung von Folgebeweisen rügt, muss substanziiert darlegen, welche konkreten Folgebeweise bezüglich welcher Vorwürfe unverwertbar sein sollen; die pauschale Behauptung einer Gesamtunverwertbarkeit genügt nicht. → E. 2.1–2.3.
 
-**BGer 6B_576/2025** (vom 19. Februar 2026) — *Vollständige systematische Darstellung Art. 141 StPO*: Aktuelle systematische Gesamtdarstellung der Beweisverwertungsverbote durch das Bundesgericht, die insbesondere die neuen Regeln zur Fernwirkung nach der StPO-Änderung von 2024 anwendet.
+**[BGer 6B_350/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html)** (vom 9. Juni 2026) — *Keine Gesamtkontamination der Untersuchung / Vorbestehender Tatverdacht*: Trotz absoluter Unverwertbarkeit einer siebenstündigen polizeilichen Ersteinstellung eines Mordbeschuldigten ist nicht das gesamte nachfolgende Strafverfahren kontaminiert. Die Kausalkette zu nachfolgenden Zeugenaussagen und Sachbeweisen (Obduktion) ist unterbrochen, wenn der Tatverdacht bereits zuvor durch Zeugenhinweise begründet wurde und sich die Beweiserhebungen im Rahmen der regulären Untersuchung zwingend aufdrängten. Die blosse zeitliche Abfolge («post hoc ergo propter hoc») begründet keine Fernwirkung; die Verteidigung muss konkret substanziieren, welche Folgebeweise kontaminiert sein sollen. → E. 3.2 f.
 
-**BGer 6B_865/2025** (vom 9. März 2026) — *Folgeverwertungsverbot, Vorhalten unverwertbarer Aussagen*: Anwendung der Fernwirkungsregel bei Vorhalten unverwertbarer Aussagen im Rahmen der Einvernahme.
+**[BGer 6B_462/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-462-2025_2026-03-25.html)** (vom 25. März 2026) — *Gerichtliche Pflicht zur Prüfung von Folgebeweisen nach rechtswidriger Observation*: Werden Observationen für unverwertbar befunden, darf das Sachgericht nachfolgende Observationsberichte und darauf basierende medizinische Gutachten nicht unbesehen verwerten, sondern muss die Frage der Fernwirkung nach Art. 141 Abs. 4 StPO bezüglich jedes einzelnen Folgebeweises prüfen. Die unterlassene Begründung verletzt Art. 112 Abs. 1 lit. b BGG und führt zur Aufhebung und Rückweisung. → E. 3.2 f.
+
+**[BGer 6B_924/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-924-2025_2026-01-15.html)** (vom 15. Januar 2026) — *Bestätigung des hypothetischen Ermittlungsverlaufs unter neuem Recht*: Bestätigt die ständige Rechtsprechung, wonach eine Fernwirkung gemäss Art. 141 Abs. 4 StPO n.F. zu verneinen ist, wenn der Folgebeweis im Sinne eines hypothetischen Ermittlungsverlaufs zumindest mit einer grossen Wahrscheinlichkeit auch ohne den illegalen ersten Beweis erlangt worden wäre. Entscheidend sind die konkreten Umstände des Einzelfalls. → E. 1.1.2.
+
+**[BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html)** (vom 15. Januar 2025, 16 Zitate) — *Fernwirkung nach neuem Recht / PIN-Erfragung*: Art. 141 Abs. 4 StPO erfasst jetzt ausdrücklich Abs. 1 und Abs. 2. Bei absolutem Beweisverwertungsverbot gibt es keine strikte Fernwirkung mehr, sondern es ist auf den hypothetischen Ermittlungsverlauf abzustellen. Die Strafverfolgungsbehörden tragen die Beweislast dafür, dass das Mobiltelefon auch ohne den rechtswidrig erlangten Zugangscode forensisch hätte ausgelesen werden können («regelmässig nur schwer zu erbringen»); misslingt der Nachweis, sind alle Folgebeweise unverwertbar. → E. 2.5.2.
+
+**[BGer 6B_865/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-865-2025_2026-03-09.html)** (vom 9. März 2026) — *Folgeverwertungsverbot bei Vorhalten unverwertbarer Aussagen*: Werden dem Beschuldigten in der Hauptverhandlung oder späteren Einvernahmen Aussagen aus einer unverwertbaren Einvernahme vorgehalten, sind die Folgeaussagen ebenfalls unverwertbar, wenn sie ohne diesen Vorhalt nicht in dieser Form ergangen wären. → E. 1.1.
+
+**[BGer 6B_506/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-506-2024_2024-09-11.html)** (vom 11. September 2024) — *Rückweisung wegen unterlassener Prüfung der Fernwirkung bei Verteidigungsmängeln*: Wurde eine Einvernahme unter Verletzung der notwendigen Verteidigung (Art. 131 StPO) und der Teilnahmerechte (Art. 147 StPO) durchgeführt, muss das Sachgericht zwingend prüfen, ob nachfolgende Beweise (weitere Einvernahmen, Fotowahlbögen) unverwertbare Folgebeweise darstellen. Die unterlassene Prüfung verletzt Art. 112 Abs. 1 lit. b BGG. → E. 1.2 f.
+
+**[BGer 7B_257/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-257-2022_2023-12-04.html)** (vom 4. Dezember 2023) — *Tragweite der StPO-Revision zu Art. 141 Abs. 4*: Die bisherige Rechtsprechung zur Verneinung der Fernwirkung bei hypothetisch rechtmässigem Ermittlungsverlauf gilt auch unter dem revidierten Art. 141 Abs. 4 StPO fort; es wird keine strikte Fernwirkung für absolute Verwertungsverbote begründet. → E. 3.2.4.
+
+**[BGer 6B_576/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-576-2025_2026-02-19.html)** (vom 19. Februar 2026) — *Vollständige systematische Darstellung Art. 141 StPO*: Aktuelle systematische Gesamtdarstellung der Beweisverwertungsverbote durch das Bundesgericht, die insbesondere die neuen Regeln zur Fernwirkung nach der StPO-Änderung von 2024 anwendet.
 
 ### 5.2 Altes Recht (vor dem 1. Januar 2024)
 
 Vor der Gesetzesänderung galt folgende Rechtsprechung zur Fernwirkung:
 
-**[BGE 133 IV 329](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_329)** (vom 9. Oktober 2007, 107 Zitate) — *Grundsatzentscheid Fernwirkung (BÜPF)*: Das in Art. 9 Abs. 3 BÜPF verankerte Verwertungsverbot erstreckt sich auch auf mittelbar erlangte Beweise (Folgebeweise), wenn diese ohne den rechtswidrig beschafften primären Beweis nicht hätten erlangt werden können. Ein Geständnis, das mit an Sicherheit grenzender Wahrscheinlichkeit auch ohne den illegalen Zufallsfund erlangt worden wäre, ist jedoch verwertbar. → E. 4.5.
+**[BGE 133 IV 329](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-329_2007.html)** (vom 9. Oktober 2007, 107 Zitate) — *Grundsatzentscheid Fernwirkung (BÜPF)*: Das in Art. 9 Abs. 3 BÜPF verankerte Verwertungsverbot erstreckt sich auch auf mittelbar erlangte Beweise (Folgebeweise), wenn diese ohne den rechtswidrig beschafften primären Beweis nicht hätten erlangt werden können. Ein Geständnis, das mit an Sicherheit grenzender Wahrscheinlichkeit auch ohne den illegalen Zufallsfund erlangt worden wäre (autonome Zäsur), ist jedoch verwertbar. → E. 4.5.
 
-**[BGE 138 IV 169](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_169)** (vom 12. Juli 2012, 160 Zitate) — *Fernwirkung vor StPO-Änderung*: Erkenntnisse aus nicht genehmigten Telefonüberwachungen sind absolut unverwertbar. Es liegt keine Fernwirkung des Beweisverwertungsverbots gemäss BGE 133 IV 329 E. 4.5 und Art. 141 Abs. 4 StPO vor, wenn die Folgebeweise mit grosser Wahrscheinlichkeit auch ohne den Primärbeweis erlangt worden wären; bloss theoretische Möglichkeiten genügen nicht. → E. 3.1.
+**[BGE 138 IV 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-169_2012.html)** (vom 12. Juli 2012, 160 Zitate) — *Fernwirkung vor StPO-Änderung*: Erkenntnisse aus nicht genehmigten Telefonüberwachungen sind absolut unverwertbar. Es liegt keine Fernwirkung des Beweisverwertungsverbots gemäss BGE 133 IV 329 E. 4.5 und Art. 141 Abs. 4 StPO vor, wenn die Folgebeweise mit grosser Wahrscheinlichkeit auch ohne den Primärbeweis erlangt worden wären; bloss theoretische Möglichkeiten genügen nicht. → E. 3.1, E. 3.3.3.
 
 ---
 
@@ -189,10 +206,15 @@ Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der
 
 | Geschäftsnummer | Datum | Kurzinhalt |
 |---|---|---|
-|| BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
-|| BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |
-| BGer 6B_865/2025 | 09.03.2026 | Folgeverwertungsverbot; Vorhalten unverwertbarer Aussagen |
-| BGer 6B_462/2025 | 25.03.2026 | Rechtswidrige Observation, Beweisverwertungsverbot |
+| BGer 6B_206/2026 | 19.08.2026 | AIG-Delikte, Telefonüberwachung, Unterbrechung der Fernwirkung durch unabhängige Vorerkenntnisse der Fremdenpolizei, Rügeobliegenheit (Art. 141 Abs. 4 StPO) |
+| BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
+| BGer 6B_350/2026 | 09.06.2026 | Tötungsdelikt, keine Gesamtkontamination nach unverwertbarer Erstbefragung bei vorbestehendem Tatverdacht und zwingenden Standardermittlungen (Art. 141 Abs. 4 StPO) |
+| BGer 6B_462/2025 | 25.03.2026 | Rechtswidrige Observation, gerichtliche Prüfpflicht bezüglich Folgebeweisen (Art. 141 Abs. 4 StPO) |
+| BGer 6B_865/2025 | 09.03.2026 | Folgeverwertungsverbot, Vorhalten unverwertbarer Aussagen (Art. 141 Abs. 4 StPO) |
+| BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |
+| BGer 6B_924/2025 | 15.01.2026 | Hypothetisch rechtmässiger Ermittlungsverlauf unter neuem Recht (Art. 141 Abs. 4 StPO) |
+| BGer 6B_506/2024 | 11.09.2024 | Notwendige Verteidigung, Rückweisung wegen unterlassener Prüfung der Fernwirkung (Art. 141 Abs. 4 StPO; Art. 112 BGG) |
+| BGer 7B_257/2022 | 04.12.2023 | Keine strikte Fernwirkung bei absoluten Verwertungsverboten unter Art. 141 Abs. 4 n.F. |
 | BGer 1B_535/2021 | 19.05.2022 | Zugangscode bei Hausdurchsuchung (Vorläuferentscheid zu BGE 151 IV 73) |
 | BGer 6B_1061/2020 | 2022 | Landfriedensbruch, Videoaufnahmen |
 | BGer 6B_116/2023 | 2023 | Qualifizierte grobe Verkehrsregelverletzung, BVV-Verwertbarkeit |
