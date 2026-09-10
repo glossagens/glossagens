@@ -268,6 +268,39 @@ Tabellen (Prüfschemas, Kasuistikübersichten, Schwellenwert-Gegenüberstellunge
 - **Niemals** ` ```markdown ` und ` ``` ` um Tabellen setzen!
 - Hugo rendert mit Backticks umschlossene Tabellen als rohen `<pre><code>`-Quelltext mit horizontalem Scrollbalken statt als formatierte HTML-Tabelle (`<table>`).
 
+## Suche
+
+Die Volltextsuche stammt aus dem Hextra-Theme (FlexSearch). Sie steht in der
+Navigationsleiste (Menüeintrag `type = "search"` in `hugo.toml`) und als grosses
+Feld auf `/kommentar/` (`layouts/_partials/kommentar/suche.html`).
+
+**Direktsprung**: Kürzel + Artikelnummer im Suchfeld — `StGB 70`, `Art. 305bis StGB`,
+`or336c`, `70 stgb`, `VRG LU 15` — setzt den Kommentar als ersten Treffer an die
+Spitze der Liste; Enter öffnet ihn. Die Zuordnung stammt aus
+`assets/json/artikel-index.json`, das beim Build aus dem Frontmatter-Feld
+`kuerzel` der Gesetzesseite und den Artikelverzeichnisnamen erzeugt wird
+(`assets/js/core/artikel-sprung.js` wertet es im Browser aus). Daraus folgt für
+neue Inhalte:
+
+- Ohne `kuerzel` auf `content/kommentar/{gesetz}/_index.md` ist ein Erlass über
+  den Direktsprung nicht erreichbar (das Feld ist ohnehin Pflicht).
+- Liegt derselbe Artikel doppelt im Repo (`art-30` **und** `art-030`), warnt der
+  Build (`WARN artikel-index: … liegt doppelt im Repo`) und der Sprung nimmt den
+  zuletzt geänderten. Solche Paare gehören zusammengeführt — sie stehen auch in
+  der Artikelübersicht doppelt.
+
+**Einschränkung des Themes**: Hextras `flexsearch.js` bedient immer nur *ein*
+sichtbares Suchfeld (`getActiveSearchElement()` liefert `undefined`, sobald zwei
+`.hextra-search-wrapper` mit `clientHeight > 0` im DOM stehen — die Suche
+scheitert dann stumm). Navbar- und Sidebar-Feld blenden sich gegenseitig aus;
+kommt ein weiteres Feld auf eine Seite, muss das andere per CSS weichen (so
+gelöst in `suche.html` für `/kommentar/`).
+
+Der Volltextindex umfasst den ganzen Artikeltext
+(`params.search.flexsearch.index = "content"`): 14 MB, rund 4 MB über die
+Leitung, geladen erst beim ersten Fokus auf ein Suchfeld. Gemessene Alternativen
+stehen als Kommentar in `hugo.toml`.
+
 ## PR-Verifikation durch Hermes
 
 Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:

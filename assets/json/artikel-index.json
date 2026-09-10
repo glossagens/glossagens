@@ -1,0 +1,64 @@
+{{- /*
+  Sprungindex für das Suchfeld: Gesetzeskürzel + Artikelnummer → Kommentarseite.
+
+  Klein genug (rund 60 KB, gzip ~15 KB), um beim ersten Fokus auf das Suchfeld
+  neben dem grossen FlexSearch-Index geladen zu werden — er trägt die Direkt-
+  eingabe "StGB 70" und muss deshalb da sein, bevor der Volltextindex fertig
+  ist.
+
+  Aufbau (kurze Schlüssel, weil sich das 705-fach wiederholt):
+    { "stgb": { "k": "StGB", "n": "…", "u": "/kommentar/stgb/",
+                "al": ["stgb"],
+                "a": { "70": { "s": "art-070", "t": "Art. 70 — Grundsätze" } } } }
+
+  Die Artikelnummer ist der Verzeichnisname ohne führende Nullen: `art-070` → 70,
+  `art-024bis` → 24bis. Das ist dieselbe Quelle, aus der auch Sortierung und
+  Nummer der Artikelübersicht stammen (siehe CLAUDE.md, „Reihenfolge der Artikel").
+*/ -}}
+{{- $laws := dict -}}
+{{- with site.GetPage "/kommentar" -}}
+  {{- range .Sections -}}
+    {{- $law := . -}}
+    {{- $kuerzel := $law.Params.kuerzel | default "" -}}
+    {{- if $kuerzel -}}
+      {{- $key := replaceRE "[^a-z0-9äöü]" "" (lower $kuerzel) -}}
+
+      {{- /* Kantonale Erlasse zusätzlich unter Kürzel+Kanton, damit „VRG LU 15"
+             ebenso trifft wie „VRG 15". */ -}}
+      {{- $aliases := slice $key -}}
+      {{- with $law.Params.kanton -}}
+        {{- $aliases = $aliases | append (printf "%s%s" $key (lower .)) -}}
+      {{- end -}}
+
+      {{- $arts := dict -}}
+      {{- $mods := dict -}}
+      {{- range $law.Sections -}}
+        {{- $slug := path.Base .Path -}}
+        {{- if hasPrefix $slug "art-" -}}
+          {{- $nr := replaceRE "^0+([0-9].*)$" "$1" (strings.TrimPrefix "art-" $slug) -}}
+          {{- $mod := .Lastmod.Unix -}}
+          {{- $take := true -}}
+          {{- if isset $arts $nr -}}
+            {{- warnf "artikel-index: %s Art. %s liegt doppelt im Repo (%s und %s) — der Sprungindex nimmt den zuletzt geänderten." $kuerzel $nr (index $arts $nr).s $slug -}}
+            {{- $take = gt $mod (index $mods $nr) -}}
+          {{- end -}}
+          {{- if $take -}}
+            {{- $arts = merge $arts (dict $nr (dict "s" $slug "t" .Title)) -}}
+            {{- $mods = merge $mods (dict $nr $mod) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- if isset $laws $key -}}
+        {{- warnf "artikel-index: Kürzel %q doppelt vergeben — %q verdrängt einen anderen Erlass aus dem Sprungindex." $kuerzel $law.Title -}}
+      {{- end -}}
+      {{- $laws = merge $laws (dict $key (dict
+            "k" $kuerzel
+            "n" ($law.Params.gesetz_name | default $law.Title)
+            "u" $law.RelPermalink
+            "al" $aliases
+            "a" $arts)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $laws | jsonify -}}

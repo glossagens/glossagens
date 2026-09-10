@@ -1,0 +1,70 @@
+{{- /*
+  Prominentes Suchfeld auf der Einstiegsseite /kommentar/.
+
+  Rendert dasselbe Eingabefeld wie die Navigationsleiste (Theme-Partial
+  `search.html`) — die Theme-JS bindet sich per `querySelectorAll` an *jedes*
+  `.hextra-search-input`, ein zweites Feld auf der Seite funktioniert also ohne
+  weiteres Zutun. Gesucht wird im Volltext aller Kommentare, nicht nur in den
+  Titeln (`params.search.flexsearch.index = "content"`); der Index lädt erst
+  beim ersten Fokus.
+
+  Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
+  Theme heraus kompiliert, hier verwendete Varianten fehlen im Bundle. Die
+  Breitenangabe des Theme-Partials (`hx:md:w-64`, 16rem) wird bewusst
+  überschrieben — hier soll das Feld die Seite tragen, nicht in einer Ecke
+  sitzen.
+*/ -}}
+
+{{- $artikel := 0 -}}
+{{- range .Sections -}}
+  {{- $artikel = add $artikel (len .Sections) -}}
+{{- end -}}
+
+<div class="gl-suche">
+  {{ partial "search.html" (dict "location" "hero") }}
+  <p class="gl-suche-hinweis">
+    Volltextsuche über {{ if gt $artikel 0 }}alle {{ $artikel }} kommentierten Artikel{{ else }}den gesamten Kommentar{{ end }} —
+    Begriff, Norm oder Entscheidnummer eingeben. <strong>Kürzel und Artikelnummer</strong>
+    (<code>StGB 70</code>, <code>Art. 305bis StGB</code>) führen direkt zum Kommentar.
+  </p>
+</div>
+
+<style>
+/* Hextras Such-JS bedient immer nur *ein* Suchfeld: `getActiveSearchElement()`
+   sammelt alle `.hextra-search-wrapper` mit `clientHeight > 0` und gibt nur bei
+   genau einem Treffer etwas zurück — sonst `undefined`, woran die Suche beim
+   Destructuring scheitert. Das Theme kommt damit durch, weil sich Navbar- und
+   Sidebar-Feld gegenseitig ausblenden (Navbar ab Mobilbreite, Sidebar ab `md`).
+   Auf dieser Seite kommt das grosse Feld dazu, also muss das jeweils andere
+   weichen. Gilt nur hier — das Style-Element steht in diesem Partial und wird
+   nur auf /kommentar/ ausgeliefert. */
+.hextra-nav-container .hextra-search-wrapper,
+.hextra-sidebar-container .hextra-search-wrapper { display: none; }
+.hextra-sidebar-container div:has(> .hextra-search-wrapper) { display: none; }
+
+/* Farbe, Rahmen und Ecken des Feldes kommen aus custom.css
+   (`input[type="search"]`, dort mit `!important`); hier wird nur die Grösse
+   gesetzt, damit der Editorial-Look erhalten bleibt. */
+.gl-suche { margin: 1.5rem 0 2.5rem; }
+.gl-suche .hextra-search-wrapper { width: 100%; max-width: 46rem; }
+.gl-suche .hextra-search-input {
+  width: 100%;
+  padding: .8rem 1rem;
+  font-size: 1.0625rem;
+  line-height: 1.4;
+}
+/* Das Tastaturkürzel sitzt im Theme oben rechts am kleinen Navbar-Feld; im
+   hohen Feld gehört es auf die Mitte. */
+.gl-suche .hextra-search-wrapper kbd {
+  top: 50%; transform: translateY(-50%); margin: 0;
+  right: .6rem; height: 1.5rem; padding: 0 .45rem;
+}
+.gl-suche-hinweis {
+  margin: .55rem 0 0; font-size: .8125rem; color: var(--gg-muted, #6b7280);
+}
+.gl-suche-hinweis strong { font-weight: 600; color: inherit; }
+.gl-suche-hinweis code {
+  background: none; padding: 0; font-size: .95em; color: var(--gg-accent, #8b1a1a);
+}
+.dark .gl-suche-hinweis { color: #9a9184; }
+</style>

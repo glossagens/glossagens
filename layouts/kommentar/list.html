@@ -13,6 +13,7 @@
 
           {{/* ============ /kommentar/ — Gesetzes-Übersicht ============ */}}
           {{ if eq $depth 1 }}
+            {{ partial "kommentar/suche.html" . }}
             {{ partial "kommentar/gesetze-grid.html" . }}
             {{/* Dieselbe Liste wie in der TOC-Spalte, hier für Mobil und
                  Tablet; ab 1280px per CSS ausgeblendet, siehe Partial. */}}

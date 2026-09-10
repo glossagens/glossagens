@@ -339,3 +339,29 @@ input[type="search"] {
   background: var(--gg-accent);
   color: var(--gg-paper);
 }
+
+/* =====================================================================
+   Sprungeintrag in der Trefferliste (assets/js/core/artikel-sprung.js)
+   „StGB 70" führt direkt auf den Kommentar; der Eintrag steht zuoberst in
+   der Liste des Themes und ist als solcher zu erkennen.
+   ===================================================================== */
+.hextra-search-wrapper .gl-sprung-vorspann {
+  color: var(--gg-accent);
+}
+.dark .hextra-search-wrapper .gl-sprung-vorspann {
+  color: hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness));
+}
+.hextra-search-wrapper .gl-sprung > a {
+  border-left: 2px solid var(--gg-accent);
+}
+.hextra-search-wrapper .gl-sprung .hextra-search-excerpt {
+  color: var(--gg-muted);
+}
+.hextra-search-wrapper .gl-sprung-hinweis {
+  margin: 0 .625rem .25rem;
+  padding: .5rem .625rem;
+  font-size: .8125rem;
+  color: var(--gg-muted);
+  border-left: 2px solid var(--gg-rule);
+}
+.dark .hextra-search-wrapper .gl-sprung-hinweis { color: #9a9184; }

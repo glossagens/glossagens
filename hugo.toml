@@ -1,7 +1,15 @@
 baseURL = "https://glossagens.ch/"
-locale = "de-CH"
 title = "Glossagens"
 theme = "hextra"
+
+# `locale` benennt nur die Region (Datums-/Zahlenformat). Welche Übersetzung
+# des Themes greift, entscheidet `defaultContentLanguage` — das fehlte, weshalb
+# die Seite auf "en" lief: im Suchfeld stand "Search...", in der Trefferliste
+# "No results found.", unter jedem Artikel "Last updated on". Bei einer
+# einzigen Sprache ändert sich an den URLs nichts
+# (`defaultContentLanguageInSubdir` bleibt aus).
+locale = "de-CH"
+defaultContentLanguage = "de"
 
 # Liest die Git-Historie ein und speist daraus `lastmod` (Hugo setzt die Kette
 # dann auf [':git', 'lastmod', 'date', ':fileModTime', ':default'] — Git gewinnt
@@ -55,6 +63,22 @@ ignoreLogs = ['warning-goldmark-raw-html']
     displayTitle = true
     displayLogo = false
 
+  # Volltextsuche (FlexSearch, im Theme enthalten). Der Index wird beim Build
+  # als eine JSON-Datei erzeugt und erst beim ersten Fokus auf ein Suchfeld
+  # nachgeladen — er kostet also nichts beim Seitenaufruf.
+  #
+  # `index = "content"` nimmt den vollen Artikeltext auf: 14 MB roh, rund 4 MB
+  # über die Leitung (GitHub Pages liefert gzip). Das ist der Preis dafür, dass
+  # eine BGE-Nummer oder ein Begriff auch dann gefunden wird, wenn er erst in
+  # N 27 vorkommt — bei einem Kommentar ist genau das der Zweck der Suche.
+  # Gemessene Alternativen, falls der Index je zu schwer wird:
+  # "summary" 4 MB/1.1 MB gzip, "heading" 2 MB/0.5 MB, "title" 144 KB.
+  [params.search]
+    enable = true
+    type = "flexsearch"
+    [params.search.flexsearch]
+      index = "content"
+
   [params.editURL]
     enable = true
     base = "https://github.com/glossagens/glossagens/edit/main/content/"
@@ -80,11 +104,21 @@ ignoreLogs = ['warning-goldmark-raw-html']
     name = "Für Agenten"
     pageRef = "/fuer-agenten"
     weight = 4
+  # Rendert das Suchfeld in der Navigationsleiste. Ohne diesen Eintrag zeigt
+  # Hextra auf dem Desktop gar keine Suche an — sie steckte bis dahin nur in
+  # der mobilen Seitenleiste (`hx:md:hidden`).
+  [[menu.main]]
+    identifier = "search"
+    name = "Suche"
+    weight = 5
+    [menu.main.params]
+      type = "search"
+
   [[menu.main]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/glossagens/glossagens"
-    weight = 5
+    weight = 6
     [menu.main.params]
       type = "icon"
       icon = "github"
