@@ -214,23 +214,22 @@ Es ist ein schwerer methodischer Fehler, solche Brüche in der Judikatur **küns
 
 Wo mehrere Entscheide denselben Tatbestand konkretisieren, fasst eine **Vergleichstabelle** die Sachverhaltskerne und Ergebnisse zusammen.
 
+> ⚠️ **Achtung Formatierungsfalle (Keine Code-Fences im Kommentarartikel):**
+> Die folgenden Muster A und B zeigen den Markdown-Quelltext. Beim Einfügen in den Kommentarartikel dürfen **unter keinen Umständen** umschliessende Markdown-Code-Fences (` ```markdown ` und ` ``` `) verwendet werden! Tabellen müssen immer als reines Markdown (`| Spalte | ... |`) direkt in den Textfluss gesetzt werden, damit Hugo sie als saubere HTML-Tabellen (`<table>`) rendert. Werden Code-Fences gesetzt, wird die Tabelle als unleserlicher Quelltextblock mit horizontalem Scrollbalken dargestellt.
+
 #### Muster A: Grenzziehungs-Tabelle (z.B. aus Art. 110 StPO)
-```markdown
 | Sachverhalt / Formulierung | Beurteilung | Entscheid |
 |---|---|---|
 | Der Bezirksgerichtspräsident sei «womöglich ein schwules Arschloch», «allenfalls ein Rechtsverdreher» | ungebührlich; Relativierungen ändern nichts | [BGer 6B_1272/2017 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1272-2017_2018-02-23.html) |
 | Vorwurf an zwei Bundesanwälte, sie hätten Gerichte vorsätzlich getäuscht («pour tromper sciemment et volontairement les juges») — ohne jeden Anhaltspunkt | **noch nicht** ungebührlich; unbegründete Kritik bleibt geschützt, solange sachbezogen | [BStGer BB.2020.288 E. 5.3](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-288_2021-02-15.pdf) |
-```
 
 #### Muster B: Fallvergleichs-Tabelle zweier Leitentscheide (z.B. aus Art. 336 OR)
-```markdown
 | Kriterium | [BGer 4A_44/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-44-2021_2021-06-02.html) — **nicht** missbräuchlich | [AG OG ZOR.2025.11](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_001_ZOR-2025-11_2025-09-01.pdf) — **missbräuchlich** |
 |---|---|---|
 | Alter / Dienstjahre | 60 Jahre / 37 Jahre | 58 Jahre / 32 Jahre |
 | Hierarchiestufe | VR-Mitglied und CEO, Familienmitglied, hoher Lohn | Sachbearbeiter ohne Führung, Normalgehalt |
 | Weiterbeschäftigung | faktisch ausgeschlossen | konkret möglich (Stelle per 1.1. neu besetzt) |
 | Ergebnis | Kündigung geschützt | Vier Monatslöhne Pönale zugesprochen |
-```
 
 ---
 
@@ -351,6 +350,7 @@ Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 - [ ] **Doppelte Kasuistik**: Sind zu den Hauptstreitpunkten sowohl Fälle enthalten, in denen das Gericht die Norm angewandt hat, als auch Fälle, in denen es die Anwendung verworfen hat?
 - [ ] **Widersprüche offengelegt**: Wurden echte Judikaturdivergenzen und Widersprüche zwischen Gerichten, Kammern oder im Zeitablauf klar benannt, anstatt sie künstlich über feine Sachverhaltsunterschiede wegzuerklären?
 - [ ] **Tabellarische Vergleiche**: Gibt es mindestens eine strukturierte Tabelle, die Grenzfälle oder gegensätzliche Gerichtsentscheide nebeneinanderstellt?
+- [ ] **Tabellen ohne Code-Fences**: Wurden alle Tabellen (Prüfschema, Kasuistik) direkt als reines Markdown (`| Spalte |`) ohne umschliessende ` ```markdown ` Codeblöcke eingefügt, damit Hugo sie als HTML-Tabelle rendert?
 - [ ] **Prozessuale Voraussetzungen**: Werden Beweislast, Fristen, Verwirkung, Versehensnachweis oder Substanziierungsobliegenheiten explizit thematisiert?
 - [ ] **Wissenschaftlicher Duktus**: Ist der Text durchgehend nüchtern, unpersönlich und belegt — ohne reisserische Einleitung, Metaphern («Brücke», «Klippe», «Verfahrensschicksal», «Gegenspieler»), Dramatisierung, rhetorische Fragen oder unbelegte Wertungen (Abschnitt 4.1)?
 - [ ] **Sachliche Hinführung**: Führt der Kommentar — und jeder Abschnitt — über Regelungsgegenstand, Systematik und Zweck ein statt über die praktische Brisanz?

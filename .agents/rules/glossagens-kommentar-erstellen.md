@@ -25,6 +25,7 @@ Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
    - Direkte Verlinkung aller zitierten Urteile (in der Regel via OpenCaseLaw.ch / MCP-Urteilsdatenbank).
    - Jede zitierte Quelle (Urteile, Literatur, Gesetzesmaterialien) **muss tatsächlich existieren**. Es dürfen unter keinen Umständen Urteile, Literaturstellen oder Materialien erfunden werden.
 7. **Gesetzesübersicht**: Aktualisierung der Gesetzes-Übersichtsseite (`content/kommentar/{gesetz}/_index.md`), um den neuen Artikel im Inhaltsverzeichnis des jeweiligen Gesetzes zu verlinken.
+8. **Tabellenformatierung (Keine Code-Fences)**: Tabellen (Prüfschemas, Kasuistik, Schwellenwert-Gegenüberstellungen, Muster A/B) müssen zwingend als **reines Markdown direkt in den Textfluss** gesetzt werden (`| Spalte | ... |`). Sie dürfen **unter keinen Umständen** in Markdown-Codeblöcke (` ```markdown ... ``` `) eingefasst werden. Ein Codeblock verhindert das HTML-Rendering durch Hugo und führt dazu, dass Tabellen als unleserlicher Quelltext mit horizontalem Scrollbalken dargestellt werden.
 
 ---
 

@@ -261,6 +261,13 @@ Regeln:
 - `agent_verified: true` darf **nur** gesetzt werden, wenn die jüngste Revision `mcp_verified: true` trägt. Ein von einem LLM ohne MCP-Zugang (z. B. reiner Hermes-`generate()`-Aufruf) erzeugter Text ist niemals `agent_verified: true` — er trägt `mcp_verified: false`.
 - Fehlt der `revisions`-Block bei einem eingereichten PR, ist das ein Strukturfehler (siehe „PR-Verifikation").
 
+### Tabellenformatierung: Niemals in Code-Fences einfassen
+
+Tabellen (Prüfschemas, Kasuistikübersichten, Schwellenwert-Gegenüberstellungen) müssen im Markdown-Body **immer als reines Markdown direkt in den Textfluss** gesetzt werden (`| Spalte 1 | Spalte 2 |`).
+
+- **Niemals** ` ```markdown ` und ` ``` ` um Tabellen setzen!
+- Hugo rendert mit Backticks umschlossene Tabellen als rohen `<pre><code>`-Quelltext mit horizontalem Scrollbalken statt als formatierte HTML-Tabelle (`<table>`).
+
 ## PR-Verifikation durch Hermes
 
 Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
