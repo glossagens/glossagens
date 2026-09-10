@@ -127,13 +127,12 @@ Das ZMG Zürich bewilligte die Entsiegelung vollumfänglich, und das Bundesgeric
 
 In Fortführung dieser Grundsätze hat das Bundesgericht die Interessenabwägung bei Art. 264 Abs. 1 lit. b StPO in einer verbindlichen **dreistufigen Typologie** konsolidiert ([BGE 151 IV 350 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4)):
 
-```markdown
 | Deliktskategorie | Gesetzliche Massstäbe der Interessenabwägung | Rechtsfolge für Siegelung und Triage |
 |---|---|---|
 | **1. Schwere Straftaten**<br>(Verbrechen, qualifizierte Betäubungsmitteldelikte, schwere Gewalt- und Sexualstraftaten) | Das öffentliche Strafverfolgungs- und Aufklärungsinteresse überwiegt die privaten Geheimnisinteressen **grundsätzlich ohne Weiteres**. | **Vollumfängliche Entsiegelung**;<br>Das ZMG muss keine irrelevanten Teilmengen (Urlaubsfotos, intime Chats) ausscheiden. |
 | **2. Mittelschwere Delikte**<br>(Vergehen, Vermögensdelikte mittlerer Schwere, Fahrlässigkeitstatbestände) | Privatsphäre weicht nur insoweit, als sich die Behörden aus den Daten **konkret einen massgeblichen Erkenntnisgewinn** versprechen. | **Differenzierte Triage**;<br>Die StA muss das Gesuch zeitlich und sachlich eingrenzen; ZMG ordnet Filterung an. |
 | **3. Bagatellfälle**<br>(Übertretungen, leichte Delikte ohne schweren Eingriff) | Das Interesse der betroffenen Person am Schutz ihrer persönlichen Daten wiegt **regelmässig höher** als das Aufklärungsinteresse. | **Entsiegelung unzulässig**;<br>Vollständige Smartphone-Durchsuchung von vornherein unverhältnismässig (Art. 197 StPO). |
-```
+
 
 ##### Der Winterthurer Drogenfall und die Teilmengen-Praxis
 Der Beschuldigte im Verfahren [BGE 151 IV 350](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html) wurde verdächtigt, mit Betäubungsmitteln gehandelt zu haben; in seiner Wohnung wurden 1.2 kg Kokain sichergestellt. Seine beiden Smartphones sollten nach seinem Willen gerichtlich nach dem Stichwort «B.» durchsucht werden, um intime Sprach- und Bildnachrichten mit seiner Partnerin vor der Staatsanwaltschaft geheim zu halten.
@@ -217,7 +216,6 @@ Lit. d verlangt ausdrücklich, dass die Anwältin oder der Anwalt «nach dem Anw
 Geschützt wird nur die eigentliche Berufstätigkeit des Anwalts (Rechtsberatung, Prozessführung, Mandatskorrespondenz, Mandatsabrechnungen; [BGE 143 IV 462 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-462_2017.html#consideration_2.2)).
 
 ##### Abgrenzungstabelle: Geschützt vs. Verworfen
-```markdown
 | Anwaltliche Tätigkeit | Zuordnung / Schutzumfang | Massgebende Rechtsprechung |
 |---|---|---|
 | **Rechtsberatung und Prozessführung** | **Geschützt (Art. 264 Abs. 1 lit. d)**; absolutes Beschlagnahmeverbot | BGE 150 IV 470 E. 3.1; BGE 143 IV 462 E. 2.2 |
@@ -227,7 +225,7 @@ Geschützt wird nur die eigentliche Berufstätigkeit des Anwalts (Rechtsberatung
 | **Vermögens- und Immobilienverwaltung** | **Nicht geschützt**; gewöhnliche kaufmännische Geschäftstätigkeit | BGE 138 IV 225 E. 6.3 |
 | **Blosse Weiterleitung von Drittschreiben** | **Nicht geschützt**; Postkastendienste begründen kein Anwaltsgeheimnis | BGE 143 IV 462 E. 2.3 |
 | **Interne Unternehmensjuristen (In-House)** | **Nicht geschützt**; kein BGFA-Registereintrag, keine Unabhängigkeit | BGer 7B_523/2025 E. 3.2 |
-```
+
 
 #### 3. Ausschluss von allgemeinen Geschäftsgeheimnissen (BGer 7B_523/2025)
 
