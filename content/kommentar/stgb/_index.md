@@ -18,6 +18,16 @@ revisions:
   by: Antigravity Agent
   model: gemini-3.8-flash
   mcp_verified: true
+  note: Umfassender Ausbau von Art. 66d StGB (Aufschub des Vollzugs der Landesverweisung) als vollständiger Praxiskommentar mit Grenzkasuistik, Judikaturkonflikt zu Art. 8 EMRK und materieller Rechtskraftsperre.
+- date: '2026-09-11'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
+  note: Umfassender Ausbau von Art. 49 StGB (Konkurrenzen und Gesamtstrafe) als vollständiger Praxiskommentar mit Grenzkasuistik, Differenzmethode und kantonalen Urteilen.
+- date: '2026-09-11'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
   note: Umfassender Ausbau von Art. 47 StGB (Strafzumessung) als vollständiger Praxiskommentar mit Grenzkasuistik und kantonalen Urteilen.
 - date: '2026-09-11'
   by: Antigravity Agent
