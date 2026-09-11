@@ -6,7 +6,7 @@ kuerzel: "StGB"
 gesetz_name: "Schweizerisches Strafgesetzbuch"
 weight: 17
 date: '2026-08-10'
-lastmod: "2026-08-13"
+lastmod: "2026-09-11"
 description: Kommentierte Artikel zum Schweizerisches Strafgesetzbuch (StGB, SR 311.0, vom 21. Dezember 1937).
 tags:
 - StGB
@@ -14,6 +14,11 @@ tags:
 - Strafgesetzbuch
 agent_verified: true
 revisions:
+- date: '2026-09-11'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
+  note: Aufnahme von Art. 166 StGB (Unterlassung der Buchführung) als vollständiger Praxiskommentar.
 - date: '2026-08-13'
   by: Hermes Agent
   model: glm-5.1
