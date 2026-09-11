@@ -18,6 +18,11 @@ revisions:
   by: Antigravity Agent
   model: gemini-3.8-flash
   mcp_verified: true
+  note: Umfassender Ausbau von Art. 47 StGB (Strafzumessung) als vollständiger Praxiskommentar mit Grenzkasuistik und kantonalen Urteilen.
+- date: '2026-09-11'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
   note: Aufnahme von Art. 167 StGB (Bevorzugung eines Gläubigers) als vollständiger Praxiskommentar.
 - date: '2026-09-11'
   by: Antigravity Agent
