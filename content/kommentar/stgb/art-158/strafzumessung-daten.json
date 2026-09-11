@@ -1,0 +1,380 @@
+{
+  "norm": "Art. 158 StGB",
+  "auswertungsstand": "2026-09-11",
+  "quellen": [
+    "entscheidsuche.ch (Primär-Volltexte der Urteile)",
+    "strafzumessung.ch (Recherche- und Fundstellenregister)"
+  ],
+  "trichter": {
+    "normzitat_art_158_stgb": 694,
+    "varianten_deliktsbezeichnung": 2584,
+    "kombination_norm_delikt": 1245,
+    "schuldspruchformel_ungetreue_geschaeftsbesorgung": 711,
+    "schuldspruch_und_strafzumessung": 224,
+    "schuldspruch_und_einsatzstrafe": 103,
+    "ausgewertete_entscheide": 21,
+    "ausgewertete_strafzumessungen": 21,
+    "asperationszuschlaege_belegt": 11
+  },
+  "verteilung_kernkorpus": {
+    "ZH": 8,
+    "BE": 4,
+    "AG": 3,
+    "BS": 2,
+    "BL": 2,
+    "SZ": 1,
+    "GR": 1,
+    "sprache": {
+      "de": 21
+    }
+  },
+  "strafrahmen": {
+    "einfacher_fall_treuebruch_ziff1_abs1": "Freiheitsstrafe bis zu 3 Jahren oder Geldstrafe",
+    "bereicherungsabsicht_ziff1_abs3_altrecht_bis_2023": "Freiheitsstrafe von einem bis zu 5 Jahren",
+    "bereicherungsabsicht_ziff1_abs3_neurecht_ab_2023": "Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe (Aufhebung der Mindeststrafe per 01.07.2023, lex mitior)",
+    "missbrauch_vertretungsmacht_ziff2": "Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe"
+  },
+  "werte_einsatzstrafen": [
+    {
+      "entscheid": "OG ZH SB240166",
+      "datum": "2025-04-04",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Fiktive Rechnungen und Kick-backs (Fr. 118'000.- Schaden)",
+      "rolle": "Leitender Angestellter mit Vermögensfürsorgepflicht",
+      "grad": "leicht",
+      "einsatzstrafe": "50 Tagessätze Geldstrafe",
+      "asperation": "Urkundenfälschung (+15 TS), Privatbestechung (+15 TS)",
+      "ausgesprochen": "80 Tagessätze zu Fr. 90.- Geldstrafe bedingt (Probezeit 2 J.)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240166_2025-04-04.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG SZ STK 2024 11",
+      "datum": "2025-09-23",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Ungetreue Geschäftsführung in Serie neben gewerbsmässigem Betrug",
+      "rolle": "Geschäftsführer / Berater",
+      "grad": "leicht bis mittelschwer",
+      "einsatzstrafe": "5 Monate FS (isoliert; Betrug trägt Einsatzstrafe 30 Mt. FS)",
+      "asperation": "Asperationszuschlag für Art. 158: +3 Monate FS auf Betrug",
+      "ausgesprochen": "42 Monate FS unbedingt + 15 TS Geldstrafe bedingt + Verbindungsbusse",
+      "url": "https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_002_STK-2024-11_2025-09-23.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB200466",
+      "datum": "2021-05-27",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 StGB",
+      "sachverhalt": "Schmälerung des Gesellschaftsvermögens zwecks Entzugs vor Gläubigern",
+      "rolle": "Faktischer Geschäftsführer",
+      "grad": "nicht mehr leicht",
+      "einsatzstrafe": "9.5 Monate FS",
+      "asperation": "SVG-Delinquenz (+0.5 Monate FS)",
+      "ausgesprochen": "10 Monate FS unbedingt",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200466_2021-05-27.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG BE SK 2023 120",
+      "datum": "2024-06-05",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 StGB",
+      "sachverhalt": "Entzug des gesamten Aktienkapitals (CHF 100'000.-) einer Einpersonen-AG",
+      "rolle": "Alleinaktionär und Verwaltungsrat",
+      "grad": "leicht",
+      "einsatzstrafe": "45 Strafeinheiten / Tagessätze (Falschbeurkundung trägt Einsatzstrafe 50 SE)",
+      "asperation": "Asperation nach Berner 2/3-Regel: +30 Strafeinheiten",
+      "ausgesprochen": "64 Tagessätze zu CHF 350.- bedingt (Probezeit 2 J.) + Busse CHF 5'600.-",
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2023-120_2024-06-05.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG AG SST.2023.145",
+      "datum": "2024-05-16",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 3 StGB (lex mitior)",
+      "sachverhalt": "Ungerechtfertigte Kontokorrentbezüge und Barbezüge über Fr. 138'000.-",
+      "rolle": "Geschäftsführer und Gesellschafter",
+      "grad": "mittelschwer im unteren Bereich",
+      "einsatzstrafe": "12 Monate FS (für schwersten Einzelbezug von Fr. 28'090.-)",
+      "asperation": "Mehrere weitere Bezüge (+12 Monate FS) -> 24 Monate Tatstrafe; Beschleunigungsgebot -4 Mt., Vorstrafen +2 Mt.",
+      "ausgesprochen": "22 Monate FS bedingt (Probezeit 2 J.) + Busse Fr. 1'000.-",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-145_2024-05-16.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB230383",
+      "datum": "2024-04-26",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Entzug von Gesellschaftsvermögen und Gläubigerschädigung bei Firmenbestattungen (Schäden CHF 690'000.- und CHF 668'000.-)",
+      "rolle": "Faktischer Organwalter / Firmenbestatter",
+      "grad": "mittelschwer",
+      "einsatzstrafe": "18 Monate FS (Dossiers 8 & 11) bzw. 20 Monate FS (Dossiers 13-15)",
+      "asperation": "Zusatzstrafenbildung mit gewerbsmässigem Betrug (Gesamtstrafe 54 Mt. bzw. 36 Mt.)",
+      "ausgesprochen": "54 Monate FS unbedingt (teilweise Zusatzstrafe)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230383_2024-04-26.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG AG SST.2023.45",
+      "datum": "2024-01-08",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Unberechtigte Privatbezüge über das Kontokorrent von Fr. 95'000.-",
+      "rolle": "Geschäftsführender Gesellschafter",
+      "grad": "leicht",
+      "einsatzstrafe": "8 Monate FS (isoliert; gewerbsmässiger Betrug trägt Einsatzstrafe)",
+      "asperation": "Asperationszuschlag auf Betrugs-Einsatzstrafe: +6 Monate FS",
+      "ausgesprochen": "4 1/2 Jahre FS unbedingt (Gesamtstrafe inkl. Widerruf)",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-45_2024-01-08.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB210463",
+      "datum": "2023-12-18",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Egoistische Bereicherung zu Lasten des Treugebers (Schaden CHF 66'000.-)",
+      "rolle": "Treuhänder und Vermögensverwalter",
+      "grad": "leicht bis mittelschwer",
+      "einsatzstrafe": "8 Monate FS bzw. 240 Tagessätze Geldstrafe",
+      "asperation": "Verrechnung mit Veruntreuung und Urkundenfälschung (aArt. 34 aStGB bis 360 TS)",
+      "ausgesprochen": "22 Monate FS bedingt + 360 Tagessätze Geldstrafe bedingt + Busse Fr. 600.-",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210463_2023-12-18.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2020.93",
+      "datum": "2023-12-05",
+      "tatbestand": "Art. 158 Ziff. 2 StGB (Missbrauch Vertretungsmacht)",
+      "sachverhalt": "Verkauf und Eigenregistrierung von Sportwetten und Lotterielosen auf Kosten des Arbeitgebers (Fr. 180'000.-)",
+      "rolle": "Angestellter Verkäufer mit Vertretungsmacht",
+      "grad": "mittelschwer",
+      "einsatzstrafe": "18 Monate FS (Leitdelikt)",
+      "asperation": "Hehlerei (+1 Mt.), BetmG (+3.5 Mt.), Drohung/Beschimpfung (+1 Mt.), SVG (+0.5 Mt.)",
+      "ausgesprochen": "24 Monate FS bedingt (Probezeit 2 J.) + 35 Tagessätze Geldstrafe bedingt + Busse CHF 700.-",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2020-93_2023-12-05.html#consideration_4.3",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG BE SK 2022 67",
+      "datum": "2023-09-15",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Vereinnahmung verdeckter Retrozessionen bei 54 Kunden (Gesamtschaden CHF 1'960'038.-; Tanja-Graber-Bemessungsmodell)",
+      "rolle": "Selbständiger Vermögensverwalter",
+      "grad": "mittelschwer bis schwer",
+      "einsatzstrafe": "35 Monate FS (für Hauptkundin mit CHF 634'000.- Schaden)",
+      "asperation": "Asperation für 53 weitere Kunden; massive Reduktion wegen Verletzung des Beschleunigungsgebots",
+      "ausgesprochen": "24 Monate FS bedingt (Probezeit 2 J.) + Ersatzforderung CHF 50'000.-",
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2022-67_2023-09-15.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB200018",
+      "datum": "2023-05-24",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Churning / übermässige Umschichtungen zur Erzielung von Retrozessionen",
+      "rolle": "Vermögensverwalter",
+      "grad": "nicht mehr leicht",
+      "einsatzstrafe": "16 Monate FS",
+      "asperation": "Asperation weiterer Delikte kompensiert durch massive Verfahrensverzögerung (17 Jahre Verfahrensdauer)",
+      "ausgesprochen": "16 Monate FS bedingt (Probezeit 2 J.)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200018_2023-05-24.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG AG SST.2022.268",
+      "datum": "2023-04-11",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 3 StGB",
+      "sachverhalt": "Zahlungen ohne Gegenleistung als geschäftsführendes Organ zwecks persönlicher Bereicherung",
+      "rolle": "Verwaltungsrat / Geschäftsführer",
+      "grad": "mittelschwer",
+      "einsatzstrafe": "33 Monate FS (2 3/4 Jahre)",
+      "asperation": "Falschbeurkundung (+12 Monate FS) -> 45 Monate; Verschlechterungsverbot deckelt auf 36 Monate",
+      "ausgesprochen": "36 Monate FS teilbedingt (12 Monate vollziehbar, 24 Monate bedingt)",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2022-268_2023-04-11.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG BE SK 2021 62",
+      "datum": "2023-03-13",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Zweckwidrige Verwendung von Firmengeldern und Eigenbezüge",
+      "rolle": "Organwalter",
+      "grad": "leicht (Ziff. 1.2/1.3) bzw. nicht mehr leicht (Ziff. 1.1)",
+      "einsatzstrafe": "14 Monate FS (Ziff. 1.1 CHF 317'580.-) bzw. 150 TS Geldstrafe (Ziff. 1.2/1.3)",
+      "asperation": "Asperation Ziff. 1.2/1.3 um +60 TS und +45 TS; Milderung nach Art. 48 lit. e StGB",
+      "ausgesprochen": "12 Monate FS bedingt (Ziff. 1.1) bzw. 180 Tagessätze Geldstrafe bedingt (Ziff. 1.2/1.3)",
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2021-62_2023-03-13.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG GR SK1 2020 31",
+      "datum": "2022-12-01",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Vermögensverwalter-Veruntreuung und ungetreue Geschäftsbesorgung in Serie",
+      "rolle": "Vermögensverwalter",
+      "grad": "mittelschwer",
+      "einsatzstrafe": "Asperationsstaffel: je 6 TS für Fälle < CHF 10'000.-, je 10 TS für Fälle CHF 10'000.- bis 50'000.-",
+      "asperation": "Veruntreuung trägt Haupteinsatzstrafe",
+      "ausgesprochen": "3 Jahre FS unbedingt + 300 Tagessätze Geldstrafe unbedingt",
+      "url": "https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_004_SK1-2020-31_2022-12-01.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG BE SK 2021 254",
+      "datum": "2022-11-03",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Schädigung der Gesellschaft um CHF 208'000.- zur Deckung privater Schulden",
+      "rolle": "Geschäftsführer",
+      "grad": "mittelschwer im unteren Bereich",
+      "einsatzstrafe": "12 Monate FS (isoliert; Bereicherung als deliktsimmanent neutral gewertet)",
+      "asperation": "Hälftige Asperation (+6 Monate FS) auf Betrugs-Einsatzstrafe",
+      "ausgesprochen": "Freiheitsstrafe unbedingt (Gesamtstrafe)",
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2021-254_2022-11-03.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 2021 147",
+      "datum": "2022-05-10",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 i.V.m. Art. 22 StGB",
+      "sachverhalt": "Versuchte ungetreue Geschäftsbesorgung in 5 Fällen",
+      "rolle": "Organwalter",
+      "grad": "leicht",
+      "einsatzstrafe": "Feste Tagessatz-Asperation: +6, +8, +10, +15, +3 Tagessätze Geldstrafe",
+      "asperation": "Asperation auf qualifizierte Veruntreuung (Einsatzstrafe 24 Monate FS)",
+      "ausgesprochen": "24 Monate FS bedingt + 150 Tagessätze Geldstrafe bedingt (aArt. 34 aStGB)",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-2021-147_2022-05-10.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB210163",
+      "datum": "2021-10-25",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Ungerechtfertigte Lohn- und Bonuszahlungen über 9 aufeinanderfolgende Jahre",
+      "rolle": "Verwaltungsratspräsident",
+      "grad": "nicht mehr leicht",
+      "einsatzstrafe": "4 Monate FS (für schwerstes Einzeljahr)",
+      "asperation": "Lineare Asperation pro Deliktsjahr: je +2 Monate FS für weitere 8 Jahre (+16 Monate FS) -> 20 Monate FS",
+      "ausgesprochen": "18 Monate FS bedingt (Verschlechterungsverbot kappt auf 18 Monate)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210163_2021-10-25.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB190523",
+      "datum": "2021-04-22",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 StGB",
+      "sachverhalt": "Eigenmächtiger Verkauf von Wandelanleihen entgegen Treuhandvertrag",
+      "rolle": "Treuhänder",
+      "grad": "nicht mehr leicht",
+      "einsatzstrafe": "isoliert 9 Monate FS",
+      "asperation": "Asperationszuschlag auf Betrugs-Einsatzstrafe: +6 Monate FS",
+      "ausgesprochen": "27 Monate FS, davon 9 Monate vollziehbar, 18 Monate bedingt",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB190523_2021-04-22.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB200075",
+      "datum": "2021-03-11",
+      "tatbestand": "Art. 158 Ziff. 1 StGB",
+      "sachverhalt": "Zweckwidrige Tankkartenbezüge (Fr. 9'200.-) und unberechtigte Kontobelastungen",
+      "rolle": "Geschäftsführer",
+      "grad": "leicht",
+      "einsatzstrafe": "4 Monate FS (Dossier 2) bzw. 120 TS Geldstrafe (Dossier 6 Tankkarten, nach Geständnis 80 TS)",
+      "asperation": "Asperation auf Veruntreuung und Betrug",
+      "ausgesprochen": "36 Monate FS teilbedingt (6 Monate vollziehbar, 30 Monate bedingt)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200075_2021-03-11.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 18 162",
+      "datum": "2018-11-20",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "Ungetreue Geschäftsbesorgung zum Nachteil zweier Gesellschaften (Schäden Fr. 55'000.- und Fr. 14'000.-) neben Misswirtschaft",
+      "rolle": "Alleiniger geschäftsführender Verwaltungsrat / Treuhänder",
+      "grad": "nicht mehr leicht bis mittelschwer",
+      "einsatzstrafe": "isoliert 7 Monate FS (F. AG) bzw. 3 Monate FS (M.)",
+      "asperation": "Misswirtschaft trägt Einsatzstrafe (9 Monate FS); Asperation Art. 158: +7 Monate FS und +3 Monate FS; Buchführung +1 Monat FS -> 20 Monate FS",
+      "ausgesprochen": "10 Monate FS bedingt (nach Zusatzstrafenbildung und Beschleunigungsgebot-Rabatt) + Busse Fr. 450.-",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-18-162_2018-11-20.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2015.62",
+      "datum": "2016-06-01",
+      "tatbestand": "Art. 158 Ziff. 1 Abs. 1 & 3 StGB",
+      "sachverhalt": "VR-Präsident überlässt vorbestraftem Dritten Gesellschaftsführung unkontrolliert; Aushöhlung und Schaden Fr. 1.5 Mio., keine persönliche Bereicherung",
+      "rolle": "Verwaltungsratspräsident",
+      "grad": "relativ schwer objektiv, subjektiv durch Altruismus und fehlende eigene Bereicherung auf mittelschwer gemindert",
+      "einsatzstrafe": "210 Tagessätze Geldstrafe (Leitdelikt)",
+      "asperation": "Misswirtschaft (+90 TS isoliert), Unterlassung Buchführung (+30 TS isoliert); Minderung wegen 8 Jahren Zeitablauf",
+      "ausgesprochen": "270 Tagessätze zu CHF 100.- Geldstrafe bedingt (Probezeit 2 J.)",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2015-62_2016-06-01.html#consideration_7",
+      "is_pdf": false
+    }
+  ],
+  "asperierte_nebendelikte": [
+    {
+      "delikt": "Mehrfache Falschbeurkundung (Art. 251 StGB)",
+      "beispiel_fall": "OG AG SST.2022.268",
+      "zuschlag": "+12 Monate FS",
+      "konstellation": "Erstellung unwahrer Protokolle und Bilanzen zur Verschleierung ungetreuer Vermögensverschiebungen"
+    },
+    {
+      "delikt": "Mehrfache ungetreue Geschäftsbesorgung bei weiteren Kunden",
+      "beispiel_fall": "OG BE SK 2022 67",
+      "zuschlag": "+15 bis 20 Monate FS",
+      "konstellation": "Systematische Einbehaltung verdeckter Retrozessionen bei 53 weiteren Kunden nach Bemessung der Einsatzstrafe am Hauptschadensfall"
+    },
+    {
+      "delikt": "Mehrjährige Tatserienfortführung (Art. 158 StGB)",
+      "beispiel_fall": "OG ZH SB210163",
+      "zuschlag": "je +2 Monate FS pro Deliktsjahr (+16 Monate FS)",
+      "konstellation": "Lineare jährliche Erhöhung für ungerechtfertigte Lohnbezüge über 8 Folgejahre nach Bestimmung der Einsatzstrafe für das schwerste Jahr"
+    },
+    {
+      "delikt": "Qualifizierte ungetreue Geschäftsbesorgung als Nebendelikt",
+      "beispiel_fall": "KG BL 460 18 162",
+      "zuschlag": "+7 Monate FS",
+      "konstellation": "Asperation auf die Einsatzstrafe der Misswirtschaft bei Schädigung einer weiteren Gesellschaft um Fr. 55'000.-"
+    },
+    {
+      "delikt": "Eigenmächtiger Verkauf von Vermögenswerten als Nebendelikt",
+      "beispiel_fall": "OG ZH SB190523",
+      "zuschlag": "+6 Monate FS",
+      "konstellation": "Verkauf von Wandelanleihen entgegen Treuhandvertrag als Asperationszuschlag auf die Leitdelikt-Einsatzstrafe des Betrugs"
+    },
+    {
+      "delikt": "Unberechtigte Privatbezüge über Kontokorrent",
+      "beispiel_fall": "OG AG SST.2023.45",
+      "zuschlag": "+6 Monate FS",
+      "konstellation": "Zuschlag von 6 Monaten auf Betrugs-Einsatzstrafe bei Schädigung der Gesellschaft um Fr. 95'000.-"
+    },
+    {
+      "delikt": "Ungetreue Geschäftsbesorgung an Einpersonen-AG",
+      "beispiel_fall": "OG BE SK 2023 120",
+      "zuschlag": "+30 Strafeinheiten / Tagessätze",
+      "konstellation": "Zuschlag auf Falschbeurkundungs-Einsatzstrafe (50 SE) nach Berner 2/3-Regel bei Entzug von CHF 100'000.- Stammkapital"
+    },
+    {
+      "delikt": "Ungetreue Geschäftsbesorgung im Nebendossier",
+      "beispiel_fall": "KG SZ STK 2024 11",
+      "zuschlag": "+3 Monate FS",
+      "konstellation": "Zuschlag von 3 Monaten auf Betrugs-Einsatzstrafe (30 Monate) bei Vermögensschädigung als Geschäftsführer"
+    },
+    {
+      "delikt": "Einfache ungetreue Geschäftsbesorgung als Nebendelikt",
+      "beispiel_fall": "KG BL 460 18 162",
+      "zuschlag": "+3 Monate FS",
+      "konstellation": "Zuschlag auf Misswirtschaft bei Schädigung einer zweiten Gesellschaft um Fr. 14'000.-"
+    },
+    {
+      "delikt": "Urkundenfälschung und Bestechung neben Art. 158",
+      "beispiel_fall": "OG ZH SB240166",
+      "zuschlag": "je +15 Tagessätze Geldstrafe",
+      "konstellation": "Asperation auf die Einsatzstrafe von 50 TS für Erstellung fiktiver Rechnungen und Kick-back-Zahlungen"
+    },
+    {
+      "delikt": "Serienversuche ungetreuer Geschäftsbesorgung",
+      "beispiel_fall": "KG BL 460 2021 147",
+      "zuschlag": "Staffel von +3 bis +15 Tagessätzen Geldstrafe",
+      "konstellation": "Geldstrafen-Asperationsstaffel bei 5 versuchten Taten neben qualifizierter Veruntreuung"
+    }
+  ]
+}
