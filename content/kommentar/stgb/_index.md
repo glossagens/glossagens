@@ -15,6 +15,11 @@ tags:
 agent_verified: true
 revisions:
 - date: '2026-09-11'
+  by: Claude Code
+  model: deepseek-v4-flash
+  mcp_verified: true
+  note: Aufnahme von Art. 50 StGB (Begründungspflicht der Strafzumessung) als vollständiger Praxiskommentar mit Prüfschema, Grenzkasuistik und kantonalen Urteilen. Gesetzestext und Entscheide via Fedlex/entscheidsuche/opencaselaw verifiziert.
+- date: '2026-09-11'
   by: Antigravity Agent
   model: gemini-3.8-flash
   mcp_verified: true
