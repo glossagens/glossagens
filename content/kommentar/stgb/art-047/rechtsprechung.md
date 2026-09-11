@@ -11,7 +11,7 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Vollständiger Ausbau der Rechtsprechungsübersicht gemäss Standard praxisorientierter-kommentar: 10 publizierte BGE-Leitentscheide und 16 weitere Urteile (Bundesgericht sowie Obergerichte ZH, BE, AG, BL, LU, SO); alle Fundstellen im Volltext mit authentischen URLs auf entscheidsuche.ch nachgewiesen."
+    note: "Vollständiger Ausbau der Rechtsprechungsübersicht gemäss Standard praxisorientierter-kommentar: 11 publizierte BGE-Leitentscheide (u.a. BGE 150 IV 103 zum Wegfall des Verwertungsverbots entfernter Vorstrafen nach Aufhebung von aArt. 369 Abs. 7 StGB) und 17 weitere Urteile (Bundesgericht u.a. 6B_1110/2023 sowie Obergerichte ZH, BE, AG, BL, LU, SO); alle Fundstellen im Volltext mit authentischen URLs auf entscheidsuche.ch nachgewiesen."
   - date: 2026-08-11
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -56,6 +56,16 @@ revisions:
 - **Kernaussage (E. 2.6)**: Das Bundesgericht ändert seine bisherige Rechtsprechung: Die Vorstrafenlosigkeit wirkt sich bei der Strafzumessung **grundsätzlich neutral** aus und ist deshalb nicht strafmindernd zu berücksichtigen. Ein rechtskonformes Verhalten wird von der Rechtsordnung von jedem Bürger erwartet und rechtfertigt keinen Strafnachlass.
 - **Kernaussage (E. 2.6.4)**: Ausnahmsweise darf die Straffreiheit als Täterkomponente strafmindernd ins Gewicht fallen, wenn sie auf eine *aussergewöhnliche Gesetzestreue* hinweist. Dies ist wegen der Gefahr ungleicher Behandlung restriktiv handzuhaben (beispielsweise bei einem seit Jahrzehnten im Berufsverkehr tätigen Chauffeur, der sich keinerlei Verkehrsverfehlung zuschulden kommen liess).
 - **Einschlägig für**: Art. 47 Abs. 1 StGB (Vorleben, Vorstrafenlosigkeit als Neutralfaktor).
+
+---
+
+### [BGE 150 IV 103](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-103_2024.html#consideration_2.2) — Wegfall des Verwertungsverbots für gelöschte Vorstrafen nach Aufhebung von aArt. 369 Abs. 7 StGB
+
+- **Entscheid**: Bundesgericht, II. Strafrechtliche Abteilung (BGE 150 IV 103, Urteil 7B_215/2023 vom 30. November 2023)
+- **Gegenstand**: Art. 47 Abs. 1 StGB; aArt. 369 Abs. 7 StGB (aufgehoben per 22. Januar 2023); Bundesgesetz über das Strafregister-Informationssystem VOSTRA (Strafregistergesetz, StReG, SR 331); Verwertung von Urkunden und Urteilen aus früheren Verfahren, die im Strafregister gelöscht/entfernt wurden.
+- **Sachverhalt**: In einem Strafverfahren wurde der Beizug von Akten und Urteilen aus früheren, bereits abgeschlossenen Strafverfahren angeordnet, deren Einträge im Strafregister infolge Zeitablaufs gelöscht worden waren. Der Beschuldigte erhob Beschwerde an das Bundesgericht und berief sich auf das «Recht auf Vergessen» sowie das Verwertungsverbot gemäss der bisherigen Rechtsprechung zu aArt. 369 Abs. 7 StGB (BGE 135 IV 87).
+- **Kernaussage (E. 2.2)**: Das Bundesgericht stellt den gesetzgeberischen Paradigmenwechsel dar: Nach altem Recht (aArt. 369 Abs. 7 StGB) durfte eine Verurteilung dem Betroffenen nach der Entfernung nicht mehr vorgehalten werden. Mit Inkrafttreten des StReG per 23. Januar 2023 wurde dieses gesetzliche Verbot **ersatzlos aufgehoben**; im Gegenzug wurden die Entfernungsfristen verlängert. Nach dem Willen des Gesetzgebers ist das «Recht auf Vergessen» einzuschränken. Es besteht **kein gesetzliches Verwertungsverbot mehr**, sodass Strafbehörden (und Gutachter) aus dem Register entfernte Urteile und frühere Akten bei der Beurteilung des Vorlebens, der Täterpersönlichkeit und der Legal- bzw. Gefährlichkeitsprognose (Art. 47 Abs. 1 StGB) heranziehen und verwerten dürfen.
+- **Einschlägig für**: Art. 47 Abs. 1 StGB (Vorleben, Vorstrafen), StReG (SR 331), aArt. 369 Abs. 7 StGB (aufgehoben).
 
 ---
 
@@ -155,6 +165,14 @@ revisions:
 - **Gericht**: Bundesgericht, I. strafrechtliche Abteilung
 - **Sachverhalt**: Ein betagter Verurteilter verlangte unter Berufung auf sein fortgeschrittenes Alter eine generelle Strafminderung.
 - **Kernaussage**: Das kalendarische Alter eines Täters kann zwar in die Strafzumessung einfliessen, begründet für sich allein jedoch keinen Anspruch auf Strafreduktion, solange keine gravierenden altersbedingten Gesundheitsschäden oder Vollzugsunfähigkeit vorliegen.
+
+---
+
+### [BGer 6B_1110/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1110-2023_2024-05-23.html) vom 23. Mai 2024 — Berücksichtigung gelöschter Vorstrafen bei der Legalprognose und kein Verstoss gegen «ne bis in idem»
+
+- **Gericht**: Bundesgericht, I. strafrechtliche Abteilung
+- **Sachverhalt**: Ein früher wegen versuchter Tötung Verurteilter wurde wegen Betäubungsmittel- und Waffendelikten belangt. Im Rahmen der gerichtlichen Beurteilung des Vorlebens und der Gefährlichkeits- bzw. Legalprognose wurden auch frühere, mittlerweile im Register gelöschte Straftaten herangezogen. Der Beschuldigte rügte eine Verletzung von «ne bis in idem» und des Schutzes vor Berücksichtigung entfernter Vorstrafen.
+- **Kernaussage (E. 2.4.3)**: Das Bundesgericht bestätigt unter Verweis auf BGE 150 IV 103 (Urteil 7B_215/2023 E. 2.2), dass neu auch aus dem Strafregister gelöschte Vorstrafen bei der Prognosestellung und als Kriterium bei der gerichtlichen Gesamtbetrachtung des Vorlebens berücksichtigt werden dürfen. Der Grundsatz «ne bis in idem» ist nicht verletzt, wenn früher abgeurteilte Taten als Umstände aus dem Vorleben in die Legalprognose und Persönlichkeitsbeurteilung einfliessen.
 
 ---
 
