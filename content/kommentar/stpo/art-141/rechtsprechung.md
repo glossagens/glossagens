@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: "2026-09-10"
+lastmod: "2026-09-12"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_978/2025 (Leitentscheid: Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO; private Videoaufnahmen verwertbar bei Gesamtschwere), BGE 151 IV 124 (abstrakter Beurteilungsmassstab bei hypothetisch rechtmässiger Erlangbarkeit privater Beweismittel) und BGer 7B_80/2025 (Bestätigung des abstrakten Massstabes bei Videoaufnahme Bar-Aussenbereich). Belege via opencaselaw MCP (get_case_brief, get_regeste, find_relevant_erwaegung, get_erwaegung) geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -101,6 +106,12 @@ Die Rechtsprechung wendet Art. 141 Abs. 2 StPO analog auf Beweise an, die von Pr
 **[BGE 147 IV 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_16)** (vom 13. November 2020, 237 Zitate) — *DSG-Verletzung durch Private*: Beweise, die von Privaten unter Verletzung des DSG oder des ZGB erlangt wurden, können als strafbar erlangt i.S.v. Art. 141 Abs. 2 StPO qualifiziert werden. → E. 1.2.
 
 **BGer 6B_462/2025** (vom 25. März 2026) — *Rechtswidrige Observation, Beweisverwertungsverbot*: Aktuelle Anwendung der Grundsätze zu privaten Observationen und Verwertbarkeit.
+
+**[BGE 151 IV 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-124_2025.html)** (vom 2025, 28 Zitate) — *Abstrakter Beurteilungsmassstab bei hypothetisch rechtmässiger Erlangbarkeit privater Beweismittel*: Bei der Prüfung, ob die Strafbehörden ein von Privaten rechtswidrig erlangtes Beweismittel rechtmässig hätten erlangen können, ist ein abstrakter Massstab anzuwenden. In die Hypothesenbildung sind nur gesetzliche Erfordernisse einzubeziehen, die sich abstrakt anwenden lassen und keine Würdigung konkreter Umstände erfordern. Ein vorbestehender Tatverdacht und Verhältnismässigkeitserwägungen, die eine konkrete Einzelfallwürdigung erfordern, bleiben ausser Betracht. Private Videoaufnahmen eines qualifizierten Raubs sind verwertbar, da die Strafbehörden entsprechende Bildaufzeichnungen an allgemein zugänglichen Orten (Art. 282 Abs. 1 StPO) rechtmässig hätten erheben können. → E. 2.3, E. 2.6.
+
+**[BGer 6B_978/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-978-2025_2026-07-14.html)** (vom 14. Juli 2026) — *Erstmals: Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO; private Videoaufnahmen verwertbar*: Das Bundesgericht klärt erstmals, dass bei einer Mehrheit von Delikten die Tatschwere im Sinne von Art. 141 Abs. 2 StPO im Rahmen einer Gesamtwürdigung zu prüfen ist, sofern die Delikte zeitlich und sachlich eng zusammenhängen und das illegale Beweismittel für den Nachweis jedes einzelnen dieser Delikte unerlässlich ist. Eine Berücksichtigung bloss des jeweiligen Einzeldelikts wäre systemwidrig und würde die Schwere des deliktischen Verhaltens unvollständig erfassen. Im konkreten Fall (Sachbeschädigungsserie durch private Videoaufnahmen nachgewiesen) bejahte das Gericht die Verwertbarkeit der rechtswidrig erhobenen Videoaufnahmen: Die Gesamtschwere der zusammenhängenden Sachbeschädigungsdelikte erreicht die Schwelle zur schweren Straftat, auch wenn die Einzeldelikte für sich genommen nicht schwer genug wären. Einschränkend: Nur jene Delikte dürfen in die Gesamtwürdigung einbezogen werden, für deren Nachweis das Beweismittel unerlässlich ist. → E. 2.7.1–2.7.5.
+
+**[BGer 7B_80/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-80-2025_2026-05-29.html)** (vom 29. Mai 2026) — *Private Videoaufnahme (Bar-Aussenbereich), hypothetisch rechtmässige Erlangbarkeit*: Bestätigung des abstrakten Beurteilungsmassstabes von BGE 151 IV 124: Bei der hypothetisch rechtmässigen Erlangbarkeit privater Beweise durch die Strafbehörden sind nur abstrakt anwendbare gesetzliche Erfordernisse zu berücksichtigen; konkrete Umstände wie ein fehlender Tatverdacht spielen keine Rolle. Videoaufnahmen des Aussenbereichs einer Bar, die ohne ausreichende Kennzeichnung erstellt und somit rechtswidrig waren, sind verwertbar, wenn die Strafbehörden sie gestützt auf Art. 282 Abs. 1 StPO (verdeckte Beobachtung an allgemein zugänglichen Orten) abstrakt hätten erheben können und die Tat eine schwere Straftat darstellt. → E. 3.1.1–3.3.
 
 ---
 
@@ -209,6 +220,8 @@ Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der
 | BGer 6B_206/2026 | 19.08.2026 | AIG-Delikte, Telefonüberwachung, Unterbrechung der Fernwirkung durch unabhängige Vorerkenntnisse der Fremdenpolizei, Rügeobliegenheit (Art. 141 Abs. 4 StPO) |
 | BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
 | BGer 6B_350/2026 | 09.06.2026 | Tötungsdelikt, keine Gesamtkontamination nach unverwertbarer Erstbefragung bei vorbestehendem Tatverdacht und zwingenden Standardermittlungen (Art. 141 Abs. 4 StPO) |
+| BGer 6B_978/2025 | 14.07.2026 | Erstmals Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO; private Videoaufnahmen verwertbar bei Gesamtschwere |
+| BGer 7B_80/2025 | 29.05.2026 | Private Videoaufnahme (Bar-Aussenbereich), abstrakter Massstab hypothetisch rechtmässige Erlangbarkeit (Art. 141 Abs. 2 StPO) |
 | BGer 6B_462/2025 | 25.03.2026 | Rechtswidrige Observation, gerichtliche Prüfpflicht bezüglich Folgebeweisen (Art. 141 Abs. 4 StPO) |
 | BGer 6B_865/2025 | 09.03.2026 | Folgeverwertungsverbot, Vorhalten unverwertbarer Aussagen (Art. 141 Abs. 4 StPO) |
 | BGer 6B_576/2025 | 19.02.2026 | Vollständige systematische Darstellung zu Art. 141 StPO, insbesondere Fernwirkung nach neuem Recht |

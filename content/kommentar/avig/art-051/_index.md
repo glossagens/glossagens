@@ -2,7 +2,7 @@
 title: "Art. 51 — Anspruchsvoraussetzungen (Insolvenzentschädigung)"
 weight: 51
 date: 2026-07-17
-lastmod: "2026-08-01"
+lastmod: "2026-09-12"
 description: "Kommentar zu Art. 51 AVIG: Anspruchsvoraussetzungen der Insolvenzentschädigung bei Konkurs, offensichtlicher Überschuldung oder Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer."
 tags: ["AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung", "Arbeitgeberinsolvenz"]
 agent_verified: true
@@ -52,6 +52,8 @@ Art. 51 AVIG ist die **zentrale Anspruchsnorm der Insolvenzentschädigung**. Sie
 ### Kasuistik
 
 - **Schadensminderungspflicht und Insolvenzentschädigung**: Ein Arbeitnehmer, dessen Arbeitgeber ab Juli 2024 keinen Lohn mehr zahlte und das Arbeitsverhältnis zum 31. Oktober 2024 auflöste, beantragte Ende Januar 2025 Insolvenzentschädigung. Die Arbeitslosenversicherung verweigerte die Ausrichtung, weil der Versicherte seine Schadensminderungspflicht nicht ausreichend erfüllt hatte: Es fehlte an einer kontinuierlichen und kohärenten Lohneinforderung gegenüber dem Arbeitgeber, und es lag keine Konkursandrohung vor. Nach Konkurseröffnung (Mai 2025) beurteilte das Bundesgericht die Frage, ob die verspätete Geltendmachung den Anspruch ausschliesst ([BGer 8C_78/2026 vom 23. Juni 2026, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_8C_78_2026#e-4-1)). Die Rechtsprechung verlangt vom Arbeitnehmer, dass er seine Lohnforderung rechtzeitig und konsequent geltend macht und die angemessenen Schritte zur Schadensminderung unternimmt.
+
+- **Vorleistungspflicht bei Neuanmeldung (Verschlechterungsgesuch)**: Ein Verschlechterungsgesuch bei der IV-Stelle löst nicht ohne Weiteres einen neuen Schwebezustand mit erneuter Vorleistungspflicht der Arbeitslosenversicherung aus, wenn die IV-Stelle den Rentenanspruch bereits rechtskräftig abgelehnt hat. Ein neuer Schwebezustand kommt nur in Betracht, wenn ein neuer Versicherungsfall eintritt und die versicherte Person auch in einer leidensangepassten Tätigkeit während mindestens einem Jahr erheblich in ihrer Arbeitsfähigkeit eingeschränkt ist (Art. 15 Abs. 2 AVIG; Art. 70 Abs. 2 lit. b ATSG). Krankheitsbedingte Arbeitsunfähigkeit nach einer leistungsablehnenden Verfügung fällt unter Art. 28 AVIG (Taggeld bei vorübergehender Arbeitsunfähigkeit). — [BGer 8C_747/2025 vom 19. August 2026, E. 4.1–4.5](https://mcp.opencaselaw.ch/entscheid/bger_8C_747_2025#e-4-2) *(5er-Entcheid, publ. vorges.)*
 
 ### Materialien
 

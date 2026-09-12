@@ -2,7 +2,7 @@
 title: "Art. 90 — Verletzung von Verkehrsregeln"
 weight: 90
 date: 2026-09-05
-lastmod: 2026-09-06
+lastmod: 2026-09-12
 description: "Praxiskommentar zu Art. 90 SVG: Dreistufiges Sanktionssystem (einfache, grobe und qualifiziert grobe Verkehrsregelverletzung); Geschwindigkeitsschwellenwerte (BGer-Praxis zu Abs. 2 und Abs. 4); Kasuistik zu Rechtsüberholen, Abstand, Rotlicht und Ablenkung; Vorsatzbegriff und Entkopplung vom Tötungsvorsatz (BGer 6B_966/2025); Ersttäterprivileg (Abs. 3ter) und Strafmilderung (Abs. 3bis)."
 tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "grobe Verkehrsregelverletzung", "qualifizierte grobe Verkehrsregelverletzung", "Geschwindigkeitsüberschreitung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
 agent_verified: true
@@ -17,6 +17,11 @@ revisions:
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Audit Art. 90 SVG: Sämtliche Entscheide verifiziert und mit entscheidsuche.ch verlinkt; Abgrenzungen (Abs. 1 vs. Abs. 2 vs. Abs. 3, Geschwindigkeitsstufen, Rechtsüberholen vs. Rechtsvorbeifahren, Abstand/Drängeln, Rotlicht, Handy/Ablenkung, Eventualvorsatz vs. Art. 111/117 StGB) durch plastische Lebenssachverhalte und strukturierte Kasuistiktabellen gemäss Praxisstandard geschärft."
+  - date: 2026-09-12
+    by: "Glossagens Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung BGer 6B_772/2025: Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg nach Abs. 3ter SVG aus (Erstmalige Klärung durch BGer). Kommentarziffer 26 und Praxishinweis aktualisiert."
 ---
 
 ## Gesetzeswortlaut
@@ -257,7 +262,7 @@ Das Bundesgericht stellte klar, dass Abs. 3ter eine Kann-Vorschrift ist: Das Ger
 
 ### II. Vorstrafenbegriff und kantonale Anwendungspraxis
 
-**26** **Ausschlusswirkung nur durch qualifizierende Delikte.** Nach der Praxis des Obergerichts Aargau hindern blosse Übertretungen, Ordnungsbussen und Administrativmassnahmen (Verwarnungen, Entzüge) die Anwendung von Abs. 3ter nicht ([AG OG SST.2025.88 vom 25. August 2025 E. 2.3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-88_2025-08-25.pdf)). Nur im Strafregister eingetragene Verurteilungen wegen Verbrechen oder Vergehen mit ernstlicher Gefahr für Dritte sperren das Ersttäterprivileg.
+**26** **Ausschlusswirkung nur durch qualifizierende Delikte — Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg aus.** Nach der Praxis des Obergerichts Aargau hindern blosse Übertretungen, Ordnungsbussen und Administrativmassnahmen (Verwarnungen, Entzüge) die Anwendung von Abs. 3ter nicht ([AG OG SST.2025.88 vom 25. August 2025 E. 2.3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-88_2025-08-25.pdf)). Nur im Strafregister eingetragene Verurteilungen wegen Verbrechen oder Vergehen mit ernstlicher Gefahr für Dritte sperren das Ersttäterprivileg. **Erstmals klargestellt durch das Bundesgericht**: Eine Vorstrafe nach Art. 90 Abs. 2 SVG innerhalb der letzten 10 Jahre vor der Tat schliesst den milderen Strafrahmen nach Art. 90 Abs. 3ter SVG aus ([BGer 6B_772/2025 vom 29. Juli 2026 E. 2.5.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-772-2025_2026-07-29.html)). Das Bundesgericht begründet dies mit dem identischen Wortlaut von Abs. 2 und Abs. 3ter («ernstliche Gefahr für die Sicherheit anderer»), den Gesetzesmaterialien (Votum Burkart, AB 2022 S 1060: sämtliche Vergehen und Verbrechen im Strassenverkehr mit Gefährdung, Verletzung oder Tötung) und dem teleologischen Argument, dass der Gesetzgeber den Ermessensspielraum selbst an inhaltliche und zeitliche Voraussetzungen geknüpft habe; wer bereits eine grobe Verkehrsregelverletzung beging, sei kein «unbescholtener Täter» (E. 2.5.2–2.5.6). Die kantonale Praxis der Obergerichte AG, ZH und GE hatte Abs. 3ter bei Art. 90 Abs. 2-Vorstrafen bereits zuvor nicht angewendet (E. 2.4.4).
 
 **27** **Kein Rechtsanspruch auf Mindeststrafenunterschreitung.** Das Thurgauer Obergericht und das Aargauer Obergericht betonen, dass Abs. 3ter zwar den Strafrahmen für Geldstrafe öffnet, die Strafzumessung aber weiterhin nach Art. 47 StGB erfolgt ([TG OG RBOG 2025 Nr. 44](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--44_2025.html); [AG OG SST.2025.181 vom 18. November 2025](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-181_2025-11-18.pdf); [AG OG SST.2024.293 vom 18. Dezember 2025](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-293_2025-12-18.pdf)). Bei besonders schweren Tatverschulden (z.B. Massivstüberschreitung um über 100 km/h) kann das Gericht auch bei einem Ersttäter eine Freiheitsstrafe von über einem Jahr ausfällen ([BGer 6B_591/2025 vom 12. Mai 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-591-2025_2026-05-12.html); [BGer 6B_284/2025 vom 17. April 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-284-2025_2026-04-17.html)).
 
@@ -336,7 +341,7 @@ Seit dem Inkrafttreten am 1. Oktober 2023 handhaben die Kantone Abs. 3ter pragma
 **Für die Strafverfolgungsbehörden und Gerichte:**
 
 1. **Begründungspflicht bei Verweigerung von Abs. 3ter.** Abs. 3ter eröffnet einen eigenständigen Strafrahmen. Verhängt das Gericht bei einem Ersttäter dennoch eine Freiheitsstrafe von einem Jahr oder mehr, muss es die Zumessung nach Art. 47 StGB sorgfältig begründen ([BGE 150 IV 481 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-481_2024.html#consideration_2.3); [BGer 6B_591/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-591-2025_2026-05-12.html)).
-2. **Vorstrafenregister qualifiziert prüfen.** Bussen und Übertretungen hindern Abs. 3ter nicht; die Ausschlusswirkung greift nur bei Verurteilungen wegen Verbrechen oder Vergehen mit Personengefährdung ([AG OG SST.2025.88](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-88_2025-08-25.pdf)).
+2. **Vorstrafenregister qualifiziert prüfen.** Bussen und Übertretungen hindern Abs. 3ter nicht; die Ausschlusswirkung greift bei Verurteilungen wegen Verbrechen oder Vergehen mit Personengefährdung ([AG OG SST.2025.88](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-88_2025-08-25.pdf)). **Erstmals klargestellt**: Eine Vorstrafe nach Art. 90 Abs. 2 SVG innerhalb der letzten 10 Jahre schliesst Abs. 3ter aus ([BGer 6B_772/2025 E. 2.5.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-772-2025_2026-07-29.html)).
 3. **Art. 237 StGB nicht kumulativ anklagen.** Art. 90 SVG verdrängt Art. 237 Ziff. 1 StGB vollständig; Art. 237 Ziff. 2 StGB ist nach Abs. 5 von Gesetzes wegen ausgeschlossen ([BGE 90 IV 156](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-90-IV-156_1964-11-17.html); [BGE 91 IV 216](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-91-IV-216_1965-12-03.html)).
 4. **Mittäterschaft bei Probefahrten prüfen.** Bei Raserfahrten im Rahmen von Beschleunigungstests haften Beifahrer oder Verkaufsberater bei gemeinsamem Tatentschluss als Mittäter nach Art. 90 Abs. 3 SVG ([SH OG 50/2021/28](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_50-2021-28-und-50-20_2023-09-12.pdf)).
 

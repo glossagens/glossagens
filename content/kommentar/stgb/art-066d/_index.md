@@ -2,11 +2,16 @@
 title: "Art. 66d StGB — Aufschub des Vollzugs"
 weight: 66
 date: 2026-08-29
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 description: "Praxiskommentar zu Art. 66d StGB: Aufschub des Vollzugs der obligatorischen Landesverweisung — funktionelle Kompetenzabgrenzung, materielle Rechtskraftsperre bei Alttatsachen, flüchtlingsrechtliches und menschenrechtliches Non-Refoulement, Ausschluss von Art. 8 EMRK, Paposhvili-Medizinschwelle und sichere Herkunftsstaaten."
 tags: ["StGB", "Landesverweisung", "Vollzug", "Aufschub", "Non-Refoulement", "Flüchtlingsrecht", "EMRK", "Jus Cogens", "Paposhvili", "Rechtskraftsperre", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung der Rechtsprechung um BGer 6B_438/2024: Erstanwendung des EGMR-Grundsatzes M.I. (sexuelle Orientierung als fundamentaler Identitätsbestandteil) auf die strafrechtliche Landesverweisung nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK. Verifiziert gegen den Volltext auf entscheidsuche.ch."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"

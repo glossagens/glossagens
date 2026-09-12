@@ -2,16 +2,21 @@
 title: "Art. 110 StPO — Form"
 weight: 110
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-12
 description: "Praxiskommentar zu Art. 110 StPO: Schriftlichkeit und eigenhändige Unterschrift, elektronische Eingabe mit qualifizierter Signatur, Formfreiheit im Übrigen sowie Rückweisung unleserlicher, unverständlicher, ungebührlicher oder weitschweifiger Eingaben — mit der Kasuistik der Gerichte zu jeder Fallgruppe und der analogen Geltung für Gesuche der Staatsanwaltschaft."
 tags: ["StPO", "Form", "Eingaben", "Unterschrift", "Elektronische Eingabe", "Qualifizierte elektronische Signatur", "Entsiegelung", "Ungebührlichkeit", "Weitschweifigkeit", "Überspitzter Formalismus", "Nachfrist"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Antigravity"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Nachgetragen: BGer 7B_165/2026 jetzt auf entscheidsuche.ch verfügbar; Links von opencaselaw-Fallback auf entscheidsuche.ch umgestellt."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Nachtrag BGer 7B_165/2026 vom 5. August 2026 (Fünferbesetzung) und BGer 7B_487/2025 vom 24. September 2025. 7B_165/2026 nuanciert den Anwendungsbereich: Art. 110 StPO gilt analog, wo die Staatsanwaltschaft als Rechtssuchende an ein Gericht gelangt (Entsiegelungsgesuch), während 6B_700/2025 nur das verfahrensleitende Handeln der Strafbehörde von Abs. 2 ausnimmt; Abschnitt A entsprechend in drei Unterabschnitte umgebaut. 7B_487/2025 ergänzt das Ausstandsgesuch nach Art. 58 Abs. 1 StPO. Der Volltext von 7B_165/2026 wurde über opencaselaw geholt und die verwendeten Zitate zusätzlich gegen die amtliche Fassung auf bger.ch geprüft; entscheidsuche.ch führt den Entscheid noch nicht, daher ausnahmsweise Rückfall-Verlinkung auf opencaselaw."
+    note: "Nachtrag BGer 7B_165/2026 vom 5. August 2026 (Fünferbesetzung) und BGer 7B_487/2025 vom 24. September 2025. 7B_165/2026 nuanciert den Anwendungsbereich: Art. 110 StPO gilt analog, wo die Staatsanwaltschaft als Rechtssuchende an ein Gericht gelangt (Entsiegelungsgesuch), während 6B_700/2025 nur das verfahrensleitende Handeln der Strafbehörde von Abs. 2 ausnimmt; Abschnitt A entsprechend in drei Unterabschnitte umgebaut. 7B_487/2025 ergänzt das Ausstandsgesuch nach Art. 58 Abs. 1 StPO. Der Volltext von 7B_165/2026 wurde über entscheidsuche.ch geholt und die verwendeten Zitate zusätzlich gegen die amtliche Fassung auf bger.ch geprüft."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
@@ -80,11 +85,11 @@ Anders liegt es, wo die Staatsanwaltschaft nicht ihr eigenes Verfahren leitet, s
 
 > «Im Entsiegelungsverfahren gelangt die Staatsanwaltschaft zudem als Rechtssuchende an das Entsiegelungsgericht, wobei ihr die siegelungsberechtigte Partei gegenübersteht. Sie ist daher insofern durchaus im weiteren Sinn Partei dieses Verfahrens. Daran ändert nichts, dass die Staatsanwaltschaft im Vorverfahren grundsätzlich ermittelnde Behörde und allenfalls nicht formell Partei ist.»
 
-([BGer 7B_165/2026 vom 5. August 2026, E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026)). Art. 248 Abs. 3 StPO schreibt für das Entsiegelungsgesuch keine Form vor; das Gericht leitete die Schriftlichkeit aus dem Begründungserfordernis, aus dem Ablauf des Entsiegelungsverfahrens (Art. 248a Abs. 3 und 4 StPO) und aus der systematischen Nähe zu Art. 241 Abs. 1 StPO ab und zog ergänzend Art. 110 StPO heran. Die Folge:
+([BGer 7B_165/2026 vom 5. August 2026, E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)). Art. 248 Abs. 3 StPO schreibt für das Entsiegelungsgesuch keine Form vor; das Gericht leitete die Schriftlichkeit aus dem Begründungserfordernis, aus dem Ablauf des Entsiegelungsverfahrens (Art. 248a Abs. 3 und 4 StPO) und aus der systematischen Nähe zu Art. 241 Abs. 1 StPO ab und zog ergänzend Art. 110 StPO heran. Die Folge:
 
 > «Eine elektronische Eingabe, die nicht mit einer qualifizierten Signatur versehen ist, hat keine fristwahrende oder anderweitige Wirkung. […] Gerichtsinstanzen weisen die Rechtssuchenden denn auch praktisch standardmässig darauf hin, dass Eingaben per E-Mail unzulässig sind, resp. keine fristwahrende Wirkung haben. Dies muss erst Recht für eine Behörde wie die Staatsanwaltschaft gelten.»
 
-([E. 2.4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026)). Damit ist zugleich die Rechtsgleichheit angesprochen: Es leuchte «nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt».
+([E. 2.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)). Damit ist zugleich die Rechtsgleichheit angesprochen: Es leuchte «nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt».
 
 Dieselbe Logik gilt für das **Ausstandsgesuch** nach Art. 58 Abs. 1 StPO, der sich zur Form ebenfalls nicht äussert:
 
@@ -118,7 +123,7 @@ In der publizierten Praxis wurde Art. 110 Abs. 1 StPO auf folgende Verfahrenshan
 | Berufungserklärung | Art. 399 Abs. 3 StPO | [BGE 142 I 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-10_2016.html) |
 | Revisionsgesuch | Art. 411 Abs. 1 StPO | [SO OG STREV.2023.11](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STREV-2023-11_2023-08-25.html) |
 | Stellungnahme im Entsiegelungsverfahren | Art. 248a Abs. 3 StPO | [BGer 7B_235/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-235-2025_2025-04-03.html) |
-| Entsiegelungsgesuch der Staatsanwaltschaft | Art. 248 Abs. 3 StPO (analog) | [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) |
+| Entsiegelungsgesuch der Staatsanwaltschaft | Art. 248 Abs. 3 StPO (analog) | [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) |
 | Ausstandsgesuch | Art. 58 Abs. 1 StPO (analog) | [BGer 7B_487/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-487-2025_2025-09-24.html) |
 
 #### 2. «Unterzeichnen» heisst eigenhändig
@@ -193,7 +198,7 @@ Das Bundesgericht fasst zusammen: Wer elektronisch übermitteln will, «deve in 
 
 ([BGer 7B_235/2025 vom 3. April 2025, E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-235-2025_2025-04-03.html)). Die Formstrenge greift hier auf ein materielles Recht durch: Das Anwaltsgeheimnis wurde nie geprüft, weil die Stellungnahme formungültig war.
 
-**Entsiegelungsgesuch der Staatsanwaltschaft per E-Mail.** Der Gegenfall auf der anderen Seite des Tisches: Die Staatsanwaltschaft reichte ihr Entsiegelungsgesuch als eingescanntes, handschriftlich unterzeichnetes PDF per E-Mail ein — ohne qualifizierte Signatur. Das Zwangsmassnahmengericht trat nicht ein, das Bundesgericht bestätigte. Die Behörde kann sich weder auf die Formlosigkeit von Art. 248 Abs. 3 StPO noch darauf berufen, ihre Urheberschaft sei unzweifelhaft: Das Bundesgericht betrachtet «im Zusammenhang mit dem Erfordernis der digitalen Signatur als unerheblich, ob die Identität des Absenders dem Gericht bekannt war und ob das Gesuch tatsächlich von der genannten Partei stammte» ([BGer 7B_165/2026 vom 5. August 2026, E. 2.4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026)). Weil die 20-tägige Frist von Art. 248 Abs. 3 StPO abgelaufen war, blieben Mobiltelefone, Laptops und Akten versiegelt — der Formfehler kostete die Untersuchung ihre zentralen Beweismittel (näher oben A.2).
+**Entsiegelungsgesuch der Staatsanwaltschaft per E-Mail.** Der Gegenfall auf der anderen Seite des Tisches: Die Staatsanwaltschaft reichte ihr Entsiegelungsgesuch als eingescanntes, handschriftlich unterzeichnetes PDF per E-Mail ein — ohne qualifizierte Signatur. Das Zwangsmassnahmengericht trat nicht ein, das Bundesgericht bestätigte. Die Behörde kann sich weder auf die Formlosigkeit von Art. 248 Abs. 3 StPO noch darauf berufen, ihre Urheberschaft sei unzweifelhaft: Das Bundesgericht betrachtet «im Zusammenhang mit dem Erfordernis der digitalen Signatur als unerheblich, ob die Identität des Absenders dem Gericht bekannt war und ob das Gesuch tatsächlich von der genannten Partei stammte» ([BGer 7B_165/2026 vom 5. August 2026, E. 2.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)). Weil die 20-tägige Frist von Art. 248 Abs. 3 StPO abgelaufen war, blieben Mobiltelefone, Laptops und Akten versiegelt — der Formfehler kostete die Untersuchung ihre zentralen Beweismittel (näher oben A.2).
 
 **Falsche Versandart auf richtiger Plattform.** Der bislang differenzierteste Entscheid stammt vom Obergericht Zürich. Eine Rechtsvertretung sandte die Beschwerde am letzten Fristtag um 18.22 Uhr über die anerkannte Plattform PrivaSphere — aber mit der Versandart «Vertraulich» statt «eGov Einschreiben», weshalb keine Abgabequittung im Sinne von Art. 91 Abs. 3 StPO ausgestellt wurde und das Gericht die Nachricht nicht abrufen konnte. Das Obergericht bejahte die **Rechtzeitigkeit** trotzdem, weil die Benachrichtigung durch PrivaSphere aktenkundig war — alles andere wäre überspitzt formalistisch gewesen. Die Beschwerde scheiterte dennoch: Die (am Folgetag über IncaMail erfolgreich übermittelte) Beschwerdeschrift trug bloss eingescannte Unterschriften und keine qualifizierte Signatur. Eine Nachfrist gab es nicht, weil die Eingabe im Begleitschreiben selbst als blosse Vorabübermittlung («vorab per E-Mail», «darüber hinaus auf dem Postweg») deklariert war:
 
@@ -345,7 +350,7 @@ Die Unterscheidung wird auch dort durchgehalten, wo der Mangel «nur» im Überm
 
 ([BGE 142 IV 299 E. 1.3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-299_2016.html#consideration_1.3.5)).
 
-Dieser Massstab gilt nicht nur für die Anwaltschaft. Wo die Staatsanwaltschaft als Rechtssuchende auftritt, misst das Bundesgericht sie mindestens gleich streng: Die Praxis zur Nichtheilbarkeit von Fax- und E-Mail-Eingaben «muss erst Recht für die Staatsanwaltschaft gelten. Es leuchtet nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt» ([BGer 7B_165/2026 E. 2.4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026)). Auch dort scheiterte die Nachfrist am fehlenden Versehen: Von einem solchen könne «keine Rede sein, nachdem sie sich offensichtlich bewusst für ein Gesuch in Form eines — nicht signierten — E-Mails entschieden hat».
+Dieser Massstab gilt nicht nur für die Anwaltschaft. Wo die Staatsanwaltschaft als Rechtssuchende auftritt, misst das Bundesgericht sie mindestens gleich streng: Die Praxis zur Nichtheilbarkeit von Fax- und E-Mail-Eingaben «muss erst Recht für die Staatsanwaltschaft gelten. Es leuchtet nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt» ([BGer 7B_165/2026 E. 2.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)). Auch dort scheiterte die Nachfrist am fehlenden Versehen: Von einem solchen könne «keine Rede sein, nachdem sie sich offensichtlich bewusst für ein Gesuch in Form eines — nicht signierten — E-Mails entschieden hat».
 
 #### 4. Übersicht: Nachfrist ja oder nein?
 
@@ -360,7 +365,7 @@ Dieser Massstab gilt nicht nur für die Anwaltschaft. Wo die Staatsanwaltschaft 
 | Stellungnahme per einfacher E-Mail am letzten Tag einer nicht erstreckbaren Frist, Absender selbst Anwalt | **nein** | [BGer 7B_235/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-235-2025_2025-04-03.html) |
 | Beschwerde über anerkannte Plattform, aber nur mit gescannter Unterschrift, ausdrücklich als Vorabübermittlung deklariert | **nein** (bewusstes Vorgehen) | [ZH OG UE250140](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE250140_2025-08-12.pdf) |
 | Einfache E-Mail an unzuständige Stellen kurz vor Fristablauf | **nein** (Behebung innert Frist nicht mehr möglich) | [BGer 6B_18/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-18-2023_2023-03-03.html) |
-| Entsiegelungsgesuch der Staatsanwaltschaft per E-Mail ohne qualifizierte Signatur | **nein** (bewusstes Vorgehen einer fachkundigen Behörde) | [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) |
+| Entsiegelungsgesuch der Staatsanwaltschaft per E-Mail ohne qualifizierte Signatur | **nein** (bewusstes Vorgehen einer fachkundigen Behörde) | [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) |
 | Ausstandsgesuch des Verteidigers per einfacher E-Mail | **nein** | [BGer 7B_487/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-487-2025_2025-09-24.html) |
 
 ### G. Abgrenzungen
@@ -386,7 +391,7 @@ Dieser Massstab gilt nicht nur für die Anwaltschaft. Wo die Staatsanwaltschaft 
 
 **Für die Strafverfolgungsbehörden:**
 
-1. Das Entsiegelungsgesuch ist schriftlich zu stellen — physisch oder mit qualifizierter elektronischer Signatur. Ein eingescanntes, handschriftlich unterzeichnetes PDF per E-Mail genügt nicht und wahrt die 20-tägige Frist von Art. 248 Abs. 3 StPO nicht ([BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026)).
+1. Das Entsiegelungsgesuch ist schriftlich zu stellen — physisch oder mit qualifizierter elektronischer Signatur. Ein eingescanntes, handschriftlich unterzeichnetes PDF per E-Mail genügt nicht und wahrt die 20-tägige Frist von Art. 248 Abs. 3 StPO nicht ([BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)).
 2. Dass die Urheberschaft für das Gericht offensichtlich ist, hilft nicht. Auf die Erkennbarkeit des Absenders kommt es nicht an.
 3. Auf eine Nachfrist ist nicht zu zählen: Die Fachkunde der Behörde schliesst die Berufung auf ein Versehen praktisch aus.
 4. Dasselbe gilt für jedes andere Gesuch, mit dem eine Behörde ein gerichtliches Verfahren einleitet.

@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 90a SVG"
 weight: 99
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 90a SVG — Einziehung und Beschlagnahme von Tatfahrzeugen."
 tags: ["Rechtsprechung", "SVG", "Strassenverkehrsrecht", "Einziehung", "Beschlagnahme", "Raserdelikte", "Leasing"]
 agent_verified: false
@@ -12,6 +12,11 @@ revisions:
     model: "gemini-3.7-flash"
     mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit Leit- und Praxisentscheiden."
+  - date: 2026-09-12
+    by: "Glossagens Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung BGer 6B_772/2025 (Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg aus; Bedeutung für Art. 90a-Einziehungsvoraussetzungen)."
 ---
 
 ## Leitentscheide (BGE)
@@ -40,6 +45,12 @@ revisions:
 
 ## Weitere Bundesgerichtsentscheide
 
+### BGer 6B_772/2025 vom 29. Juli 2026
+- **Thema**: Art. 90 Abs. 2 und Abs. 3ter SVG; Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg aus
+- **Kernaussage**: Erstmals klärt das Bundesgericht, dass eine Vorstrafe nach Art. 90 Abs. 2 SVG (grobe Verkehrsregelverletzung) innerhalb der letzten 10 Jahre vor der Tat den milderen Strafrahmen nach Art. 90 Abs. 3ter SVG ausschliesst. Bedeutung für Art. 90a: Ein Raser, der wegen Vorstrafe nach Abs. 2 nicht unter Abs. 3ter privilegiert wird, unterliegt zwingend der Mindestfreiheitsstrafe nach Abs. 3 — was die Einziehungsvoraussetzung der «skrupellosen» Begehung (Art. 90a Abs. 1 lit. a) regelmässig näher legt.
+- **Einschlägig für**: Abs. 1 lit. a (Voraussetzungen der Einziehung bei qualifiziert grober Verkehrsregelverletzung ohne Ersttäterprivileg)
+- **Link**: [BGer 6B_772/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-772-2025_2026-07-29.html)
+
 ### [BGer 7B_1210/2025 vom 21. August 2026](https://bger-update.ch/zusammenfassung/33619/), E. 2–6
 - **Thema**: Beschlagnahme eines Leasingfahrzeugs; Halter vs. Leasingnehmer
 - **Kernaussage**: Der Leasingnehmer eines beschlagnahmten Fahrzeugs erleidet einen rechtlichen Nachteil und ist zur Beschwerde legitimiert. Der blosse administrative Halter ohne Nutzungsanspruch ist nicht beschwerdelegitimiert. Die Einziehung nach Art. 90a SVG schliesst den Rückgriff auf Art. 69 StGB aus.
@@ -66,4 +77,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-03*
+*Letzte Aktualisierung: 2026-09-12*

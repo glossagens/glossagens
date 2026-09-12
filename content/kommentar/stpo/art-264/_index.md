@@ -2,11 +2,16 @@
 title: "Art. 264 StPO — Einschränkungen der Beschlagnahme"
 weight: 264
 date: 2025-07-16
-lastmod: 2026-09-10
+lastmod: 2026-09-12
 description: "Praxiskommentar zu Art. 264 StPO: Beschlagnahmeverbote für Verteidigungskorrespondenz, persönliche Aufzeichnungen, Verkehr mit Zeugnisverweigerungsberechtigten und Drittmandate — mit der Rechtsprechung zu Smartphones (3-Stufen-Doktrin), zur Kanzleidurchsuchung, zur Grenze der Mitbeschuldigung (Informationswall nach BGer 7B_219/2026), zum Quellenschutz (BGE 151 IV 153 und BGE 140 IV 108) und zum Siegelungsverfahren (BGE 148 IV 221)."
 tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Quellenschutz", "Arztgeheimnis", "Smartphones", "Triage", "Informationswall"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Antigravity"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Nachgetragen: BGer 7B_165/2026 (Entsiegelungsgesuch per E-Mail ohne qualifizierte Signatur erfüllt Schriftlichkeit nicht; Art. 110 StPO analog anwendbar) und BGer 7B_219/2026 (Rechtsprechungsänderung: Kein absolutes Entsiegelungsverbot für Verteidigerkorrespondenz; Art. 264 Abs. 1 lit. a StPO schützt beschuldigte Verteidiger nicht mehr absolut)."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"

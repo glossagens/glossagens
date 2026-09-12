@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 110 StPO"
 weight: 99
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-09-12
 description: "Übersicht der Entscheide zu Art. 110 StPO — Form der Eingaben: Schriftlichkeit und eigenhändige Unterschrift, elektronische Einreichung, Formfreiheit sowie Rückweisung ungebührlicher und weitschweifiger Eingaben, mit dem jeweils zugrunde liegenden Sachverhalt."
 tags: ["Rechtsprechung", "StPO", "Form", "Unterschrift", "Elektronische Eingabe", "Ungebührlichkeit", "Weitschweifigkeit", "Nachfrist"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Antigravity"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Nachgetragen: BGer 7B_165/2026 jetzt auf entscheidsuche.ch verfügbar; Links von opencaselaw-Fallback auf entscheidsuche.ch umgestellt."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
@@ -141,14 +146,14 @@ Die Rechtsprechung zu Art. 110 StPO ordnet sich nach den vier Absätzen und eine
 - **Ausgang**: Nichteintreten.
 - **Einschlägig für**: Abs. 2; Art. 91 Abs. 2 und 3, Art. 396 Abs. 1 StPO, Art. 4, 6 und 8b VeÜ-ZSSV
 
-### [BGer 7B_165/2026 vom 5. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) — E. 2.4.1–2.4.4
+### [BGer 7B_165/2026 vom 5. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) — E. 2.4.1–2.4.4
 
 - **Thema**: Art. 110 StPO analog auf das Entsiegelungsgesuch der Staatsanwaltschaft; Formstrenge gegenüber der Behörde
 - **Sachverhalt**: Die Staatsanwaltschaft Limmattal/Albis stellte in einem Betrugsverfahren am 30. Juli 2025 bei einer Hausdurchsuchung zwei Mobiltelefone, drei Laptops und Akten sicher; die Beschuldigte liess sie gleichentags siegeln. Am 4. August 2025 verlangte die Staatsanwaltschaft mit elektronischer Eingabe beim Zwangsmassnahmengericht Dietikon die Entsiegelung. Der eingescannte Antrag war von zwei Staatsanwältinnen handschriftlich unterzeichnet, aber nicht elektronisch signiert. Das Zwangsmassnahmengericht trat am 8. Januar 2026 mangels gültiger Form nicht ein. Entschieden in Fünferbesetzung.
 - **Kernaussage**: Art. 248 Abs. 3 StPO enthält keine Formvorschrift; das Bundesgericht leitet die Schriftlichkeit aus dem Begründungserfordernis, dem Ablauf des Entsiegelungsverfahrens (Art. 248a Abs. 3 und 4 StPO) und der systematischen Nähe zu Art. 241 Abs. 1 StPO ab und zieht ergänzend Art. 110 StPO heran: «Im Entsiegelungsverfahren gelangt die Staatsanwaltschaft zudem als Rechtssuchende an das Entsiegelungsgericht, wobei ihr die siegelungsberechtigte Partei gegenübersteht. Sie ist daher insofern durchaus im weiteren Sinn Partei dieses Verfahrens. Daran ändert nichts, dass die Staatsanwaltschaft im Vorverfahren grundsätzlich ermittelnde Behörde und allenfalls nicht formell Partei ist.» (E. 2.4.3). Zur Folge: «Eine elektronische Eingabe, die nicht mit einer qualifizierten Signatur versehen ist, hat keine fristwahrende oder anderweitige Wirkung. […] Dies muss erst Recht für eine Behörde wie die Staatsanwaltschaft gelten.» (E. 2.4.4). Die Nichtheilbarkeit von Fax- und E-Mail-Eingaben «muss erst Recht für die Staatsanwaltschaft gelten. Es leuchtet nicht ein, weshalb bei ihr geringere Anforderungen an die Form zu stellen wären als bei einer Privatperson oder einem Rechtsanwalt.» Unerheblich ist, «ob die Identität des Absenders dem Gericht bekannt war und ob das Gesuch tatsächlich von der genannten Partei stammte». Keine Nachfrist, weil sich die Behörde «offensichtlich bewusst für ein Gesuch in Form eines — nicht signierten — E-Mails entschieden hat». Der Entscheid bestätigt ausdrücklich [7B_235/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-235-2025_2025-04-03.html).
 - **Ausgang**: Abweisung der Beschwerde der Oberstaatsanwaltschaft, soweit Eintreten; die Gegenstände bleiben versiegelt.
 - **Einschlägig für**: Abs. 1 und 2 (analoge Anwendung); Art. 197, 241, 248 Abs. 3, 248a StPO
-- **Hinweis zur Verlinkung**: entscheidsuche.ch führt den Entscheid noch nicht; verlinkt ist deshalb die Rückfallebene opencaselaw. Wortlaut zusätzlich gegen die amtliche Fassung auf bger.ch geprüft.
+- **Hinweis zur Verlinkung**: Der Volltext ist auf entscheidsuche.ch verfügbar: [7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html).
 
 ### [BGer 7B_487/2025 vom 24. September 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-487-2025_2025-09-24.html) — E. 2.3.3 und 2.3.4
 
@@ -169,7 +174,7 @@ Die Rechtsprechung zu Art. 110 StPO ordnet sich nach den vier Absätzen und eine
 - **Kernaussage**: «Zu Unrecht beruft sich der Beschwerdeführer auf Art. 110 Abs. 2 StPO […]. Er verkennt, dass sich diese Bestimmung auf 'Eingaben' von Parteien bezieht, nicht jedoch auf Verfahrenshandlungen der Verfahrensleitung, für die Art. 110 Abs. 3 StPO zur Anwendung gelangt. Letztere sind an keine Formvorschriften gebunden, soweit die Strafprozessordnung nichts Abweichendes bestimmt. Der Gutachtensauftrag ist schriftlich zu erteilen (Art. 184 Abs. 2 StPO). Dabei handelt es sich jedoch lediglich um eine Ordnungsvorschrift (BGE 141 IV 423 E. 3.2).» Eine allfällige rein elektronische Auftragserteilung ohne qualifizierte Signatur würde daher nicht zur Unverwertbarkeit des Gutachtens führen.
 - **Einschlägig für**: Abs. 2 und 3; Art. 184 Abs. 2 StPO
 
-*(Gegenstück zur Rollenabgrenzung: [BGer 7B_165/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_165_2026) — wo die Staatsanwaltschaft nicht verfahrensleitend handelt, sondern als Rechtssuchende ein Gesuch stellt, gilt Art. 110 StPO analog. Zu Abs. 3 siehe ferner [BGE 143 IV 483 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-483_2017.html#consideration_2.2.2) oben unter «Leitentscheide».)*
+*(Gegenstück zur Rollenabgrenzung: [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) — wo die Staatsanwaltschaft nicht verfahrensleitend handelt, sondern als Rechtssuchende ein Gesuch stellt, gilt Art. 110 StPO analog. Zu Abs. 3 siehe ferner [BGE 143 IV 483 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-483_2017.html#consideration_2.2.2) oben unter «Leitentscheide».)*
 
 ---
 
@@ -270,4 +275,4 @@ Die Rechtsprechung zu Art. 110 StPO ordnet sich nach den vier Absätzen und eine
 
 ---
 
-*Letzte Aktualisierung: 2. September 2026*
+*Letzte Aktualisierung: 12. September 2026*

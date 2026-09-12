@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 90 SVG"
 weight: 99
 date: 2026-09-05
-lastmod: 2026-09-06
+lastmod: 2026-09-12
 description: "Rechtsprechungssammlung zu Art. 90 SVG: Leitentscheide des Bundesgerichts und kantonale Praxis zu einfacher, grober und qualifiziert grober Verkehrsregelverletzung (Raserparagraf), Geschwindigkeitsschwellenwerten, Rechtsüberholen, Abstandsdelikten, Rotlicht, Vorsatzentkopplung und Ersttäterprivileg (Abs. 3ter)."
 tags: ["Rechtsprechung", "SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "qualifizierte grobe Verkehrsregelverletzung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
 agent_verified: true
@@ -17,6 +17,11 @@ revisions:
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Audit: opencaselaw-Link auf BGer 6B_938/2025 durch entscheidsuche-URL ersetzt; Ergänzung der zentralen Abgrenzungs-Leitentscheide (BGE 142 IV 93, BGE 148 IV 374, BGE 131 IV 133, BGE 124 II 259, BGer 6B_324/2012) und kantonaler Kasuistik (SG VWEK IV-2014/97, FR TC 501 2017 175)."
+  - date: 2026-09-12
+    by: "Glossagens Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung BGer 6B_772/2025 (Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg nach Abs. 3ter SVG aus)."
 ---
 
 # Rechtsprechungssammlung zu Art. 90 SVG
@@ -182,6 +187,19 @@ revisions:
 - **Einschlägig für**: Abs. 3ter (Strafzumessung)
 - **Link**: [BGer 6B_284/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-284-2025_2026-04-17.html)
 
+### BGer 6B_772/2025 vom 29. Juli 2026
+- **Abteilung**: I. strafrechtliche Abteilung
+- **Thema**: Art. 90 Abs. 2 und Abs. 3ter SVG; Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg aus
+- **Sachverhalt**: Der Beschuldigte fuhr innerorts mit 74 km/h statt erlaubten 30 km/h (+44 km/h; Abs. 4 lit. a erfüllt) und wurde wegen qualifiziert grober Verkehrsregelverletzung verurteilt. Er war am 30. August 2016 wegen grober Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG (verbotenes Rechtsüberholen auf der Autobahn) rechtskräftig verurteilt worden. Die Vorinstanz verneinte die Anwendbarkeit von Art. 90 Abs. 3ter SVG mangels Ersttäterqualität.
+- **Kernaussagen**:
+  - Erstmals klärt das Bundesgericht: Eine Vorstrafe nach Art. 90 Abs. 2 SVG innerhalb der letzten 10 Jahre vor der Tat schliesst den milderen Strafrahmen nach Art. 90 Abs. 3ter SVG aus (E. 2.5.6).
+  - Der Wortlaut von Art. 90 Abs. 2 und Abs. 3ter SVG ist insoweit identisch, als beide die «ernstliche Gefahr für die Sicherheit anderer» enthalten. Der Zusatz «respektive mit Verletzung oder Tötung anderer» in Abs. 3ter erfasst zusätzliche Konstellationen, engt aber den Kernbegriff nicht ein (E. 2.5.2).
+  - Die Gesetzesmaterialien (Votum Burkart, AB 2022 S 1060) bestätigen, dass sämtliche Vergehen und Verbrechen im Strassenverkehr zu berücksichtigen sind, bei denen Dritte ernstlich gefährdet, verletzt oder getötet wurden — mithin auch Verurteilungen nach Art. 90 Abs. 2 SVG (E. 2.5.3).
+  - Eine restriktive Auslegung, die nur Vorstrafen nach Abs. 3 berücksichtigt, wird abgelehnt: Der Gesetzgeber hat den Ermessensspielraum selbst an inhaltliche und zeitliche Voraussetzungen geknüpft; wer bereits eine grobe Verkehrsregelverletzung begangen hat, ist kein «unbescholtener Täter» (E. 2.5.4–2.5.5).
+  - Bestätigt die kantonale Praxis der Obergerichte AG, ZH und GE, die Abs. 3ter bei Art. 90 Abs. 2-Vorstrafen ebenfalls nicht anwenden (E. 2.4.4).
+- **Einschlägig für**: Abs. 3ter (Ausschlusswirkung von Art. 90 Abs. 2-Vorstrafen); Abs. 2 (Verhältnis zu Abs. 3ter)
+- **Link**: [BGer 6B_772/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-772-2025_2026-07-29.html)
+
 ### BStGer SK.2020.25 vom 1. Dezember 2020
 - **Thema**: Art. 90 Abs. 1, 2 und 3 SVG; Konkurrenz der Strafstufen
 - **Kernaussage**: Abs. 3 ist *lex specialis* gegenüber Abs. 2; Abs. 2 verdrängt Abs. 1. Liegen die Voraussetzungen der höheren Stufe vor, entfällt eine Verurteilung nach den unteren Stufen.
@@ -245,4 +263,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-06*
+*Letzte Aktualisierung: 2026-09-12*

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 18 OR"
 weight: 99
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 description: "Übersicht der Leitentscheide des Bundesgerichts und ausgewählter kantonaler Entscheide zu Art. 18 OR – Vertragsauslegung, subjektiver Konsens, Vertrauensprinzip, Simulation, Umgehungsgeschäfte und Gutglaubensschutz nach Art. 18 Abs. 2 OR."
 tags: ["Rechtsprechung", "OR", "Vertragsauslegung", "Simulation", "Scheingeschäft", "Vertrauensprinzip", "Falsa demonstratio"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 4A_262/2026 ergänzt: Präzisierung zu Art. 18 Abs. 1 OR — ohne tatsächlichen und normativen Konsens entfällt die Passivlegitimation. Erwägungen E. 2.1 und E. 2.4 via opencaselaw geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -120,3 +125,10 @@ revisions:
 - **Thema**: Gewerbliche Airbnb-Plattformvermietung / Simulation einer unentgeltlichen Gebrauchsleihe
 - **Kernaussage**: Bezeichnet ein Hauptmieter die Überlassung einer zürcherischen Mietwohnung an Dritte formell als «kostenlose Gebrauchsleihe» oder «Wohnrecht», kassiert jedoch über Plattformkonten erhebliche Übernachtungsentgelte, ist die angebliche Gebrauchsleihe als Scheingeschäft nach Art. 18 Abs. 1 OR nichtig. Dissimuliert ist eine entgeltliche Untermiete nach Art. 262 OR, die mangels Vermieterzustimmung und wegen missbräuchlicher Gewinnabsicht die ausserordentliche Kündigung nach Art. 257f OR rechtfertigt.
 - **Einschlägig für**: Art. 18 Abs. 1 i.V.m. Art. 262 OR (Scheingebrauchsleihe bei gewerblicher Kurzzeitvermietung)
+
+---
+
+### [BGer 4A_262/2026 vom 5. August 2026, E. 2.1 und E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-262-2026_2026-08-05.html)
+- **Thema**: Vertrag über den Aufbau einer Markenidentität / Passivlegitimation bei fehlendem Konsens
+- **Kernaussage**: Ohne tatsächlichen Konsens (subjektive Auslegung) und ohne normativen Konsens (objektive Auslegung nach dem Vertrauensprinzip) entfällt die Passivlegitimation des Beklagten. Das Vertrauensprinzip bestimmt nur, *was* die Parteien vereinbart haben, nicht aber, *wer* Vertragspartei geworden ist. Kann weder ein natürlicher noch ein normativer übereinstimmender Parteiwille festgestellt werden, dass sich der Beklagte persönlich verpflichten wollte, besteht kein Vertragsverhältnis, das ihn als passivlegitimiert erscheinen liesse. Die Klage ist mangels Passivlegitimation abzuweisen.
+- **Einschlägig für**: Art. 18 Abs. 1 OR (Passivlegitimation und Grenzen der Vertragsauslegung bei Identitätsunsicherheit des Vertragspartners)

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 66d StGB"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-09-11
-description: "Übersicht der Rechtsprechung zu Art. 66d StGB — Aufschub des Vollzugs der Landesverweisung, materielle Rechtskraftsperre, Non-Refoulement, Ausschluss von Art. 8 EMRK und medizinische Vollzugshindernisse."
-tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Non-Refoulement", "Vollzug", "EMRK", "Jus Cogens"]
+lastmod: 2026-09-12
+description: "Übersicht der Rechtsprechung zu Art. 66d StGB — Aufschub des Vollzugs der Landesverweisung, materielle Rechtskraftsperre, Non-Refoulement, Ausschluss von Art. 8 EMRK, sexuelle Orientierung als Vollzugshindernis und medizinische Vollzugshindernisse."
+tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Non-Refoulement", "Vollzug", "EMRK", "Jus Cogens", "sexuelle Orientierung"]
 agent_verified: false
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_438/2024 (Erstanwendung des EGMR-Grundsatzes M.I. auf die strafrechtliche Landesverweisung; sexuelle Orientierung als Vollzugshindernis nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK). Verifiziert gegen den Volltext auf entscheidsuche.ch."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -75,7 +80,14 @@ revisions:
 
 ---
 
-### 8. [BGE 144 II 1 E. 6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-1_2017.html#consideration_6.1)
+### 8. [BGer 6B_438/2024 vom 25. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-438-2024_2026-08-25.html)
+- **Thema**: Erste Anwendung des EGMR-Grundsatzes M.I. auf die strafrechtliche Landesverweisung; sexuelle Orientierung als Vollzugshindernis
+- **Kernaussage**: Erstmals wendet das Bundesgericht den Grundsatz des EGMR-Urteils *M.I. gegen Schweiz* (Nr. 56390/21, § 49) auf die strafrechtliche Landesverweisung an: Die sexuelle Orientierung stellt einen fundamentalen Teil der Identität einer Person dar, und es darf von einer homosexuellen Person nicht verlangt werden, ihre Orientierung im Zielstaat zu verheimlichen, um einer Verfolgung zu entgehen. Besteht für (erkennbar) Homosexuelle im Zielstaat eine reale und schwerwiegende Gefahr für Leib und Leben, so begründet dies ein Vollzugshindernis nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK. Die Vorinstanz hatte die homosexuelle Orientierung des Beschwerdeführers offengelassen; das Bundesgericht hob das Urteil wegen ungenügender Sachverhaltsfeststellungen auf (Art. 112 Abs. 1 lit. b BGG). Bestätigt wird zugleich, dass die Härtefallprüfung nach Art. 66a Abs. 2 StGB EMRK-konform nach Massgabe von Art. 8 Ziff. 2 EMRK durchzuführen ist (E. 4.1.3–4.1.4) und dass das Non-Refoulement-Gebot nach Art. 66d Abs. 1 lit. b StGB absolut gilt (E. 4.1.7).
+- **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB; Art. 66a Abs. 2 StGB; Art. 3 EMRK; EGMR M.I. gegen Schweiz; sexuelle Orientierung als Vollzugshindernis
+
+---
+
+### 9. [BGE 144 II 1 E. 6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-1_2017.html#consideration_6.1)
 - **Thema**: Absoluter Charakter des Folterverbots
 - **Kernaussage**: Das Verbot der Ausschaffung bei drohender Folter oder unmenschlicher Behandlung gemäss Art. 3 EMRK und Art. 25 Abs. 3 BV gilt absolut und lässt keine Güterabwägung mit öffentlichen Sicherheitsinteressen oder der Schwere der verübten Straftaten zu.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB
@@ -84,56 +96,56 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide
 
-### 9. [BGer 7B_376/2025 vom 11. August 2026 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-376-2025_2026-08-11.html)
+### 10. [BGer 7B_376/2025 vom 11. August 2026 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-376-2025_2026-08-11.html)
 - **Thema**: Bestätigung des Ausschlusses von Art. 8 EMRK bei Vater-Kind-Beziehungen
 - **Kernaussage**: Bestätigung des Grundsatzurteils 7B_594/2024: Ein algerischer Staatsangehöriger mit 18 Vorstrafen, der sich für den Vollzugsaufschub einzig auf nach Entlassung aus dem Strafvollzug wiederaufgelebte Kontakte und Besuchsrechte zu seinen drei minderjährigen Kindern beruft, begründet kein Rechtsschutzinteresse, da Art. 66d Abs. 1 lit. b StGB den Schutz des Familienlebens nicht erfasst.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB
 
 ---
 
-### 10. [BGer 7B_585/2026 vom 11. August 2026 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-585-2026_2026-08-11.html)
+### 11. [BGer 7B_585/2026 vom 11. August 2026 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-585-2026_2026-08-11.html)
 - **Thema**: Qualifizierte Darlegungspflicht für die Zulässigkeit der Beschwerde im Vollzugsstadium
 - **Kernaussage**: Es reicht zur Begründung der Beschwerdelegitimation gegen einen Vollzugsentscheid nicht aus, isolierte Sachverhaltsveränderungen zu behaupten; vielmehr muss die betroffene Person nachweisen, dass die geltend gemachten Tatsachen zwingend zu einer anderen Verhältnismässigkeitsprüfung führen müssen.
 - **Einschlägig für**: Art. 81 Abs. 1 lit. b BGG; Art. 66d Abs. 1 StGB
 
 ---
 
-### 11. [BGer 6B_502/2024 vom 7. Februar 2025 E. 3.5.1, 6.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-502-2024_2025-02-07.html)
+### 12. [BGer 6B_502/2024 vom 7. Februar 2025 E. 3.5.1, 6.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-502-2024_2025-02-07.html)
 - **Thema**: Glaubhaftmachung eines «risque réel» bei allgemeiner geopolitischer Instabilität (Syrien)
 - **Kernaussage**: Für die Annahme eines Vollzugshindernisses gemäss Art. 66d Abs. 1 lit. b StGB bedarf es stichhaltiger Gründe, die ein konkretes und ernsthaftes reales Risiko (*risque réel*) einer Misshandlung belegen. Die allgemein schwierige oder kriegerische Lage in Syrien begründet für sich allein noch kein definitives Vollzugshindernis.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB; länderspezifische Krisenlagen
 
 ---
 
-### 12. [BGer 6B_45/2020 vom 14. März 2022 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-45-2020_2022-03-14.html)
+### 13. [BGer 6B_45/2020 vom 14. März 2022 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-45-2020_2022-03-14.html)
 - **Thema**: Restriktive Handhabung der Ausnahme vom Flüchtlingsschutz (Art. 5 Abs. 2 AsylG)
 - **Kernaussage**: Die Ausnahme vom flüchtlingsrechtlichen Non-Refoulement-Gebot gemäss Art. 66d Abs. 1 lit. a zweiter Teilsatz StGB i.V.m. Art. 5 Abs. 2 AsylG ist eng auszulegen. Sie setzt eine schwerwiegende und gegenwärtige Gefährdung der Allgemeinheit durch den Täter voraus.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. a StGB
 
 ---
 
-### 13. [BGer 6B_2/2023 vom 5. Januar 2024 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-2-2023_2024-01-05.html)
+### 14. [BGer 6B_2/2023 vom 5. Januar 2024 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-2-2023_2024-01-05.html)
 - **Thema**: Unbeachtlichkeit des Deliktscharakters bei Art. 66d Abs. 1 lit. b StGB
 - **Kernaussage**: Das menschenrechtliche Non-Refoulement-Gebot hindert den Vollzug der Landesverweisung auch bei schwersten Verbrechen und ungeachtet des Vorliegens einer rechtskräftigen Verurteilung.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB
 
 ---
 
-### 14. [BGer 6B_362/2023 vom 21. Juni 2023 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-362-2023_2023-06-21.html)
+### 15. [BGer 6B_362/2023 vom 21. Juni 2023 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-362-2023_2023-06-21.html)
 - **Thema**: Gesetzliche Vermutung bei sicheren Staaten (Safe Countries)
 - **Kernaussage**: Bei der Ausschaffung in einen vom Bundesrat als sicher bezeichneten Staat greift die Vermutung von Art. 66d Abs. 2 StGB, dass keine Verletzung von Art. 25 Abs. 2 und 3 BV vorliegt; die betroffene Person trifft die Pflicht zur Darlegung konkreter individueller Verfolgungsrisiken.
 - **Einschlägig für**: Art. 66d Abs. 2 StGB
 
 ---
 
-### 15. [BGer 6B_33/2022 vom 9. Dezember 2022 E. 3.2.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-33-2022_2022-12-09.html)
+### 16. [BGer 6B_33/2022 vom 9. Dezember 2022 E. 3.2.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-33-2022_2022-12-09.html)
 - **Thema**: Abgrenzung allgemeiner Lageberichte von individueller Gefährdung
 - **Kernaussage**: Eine allgemein instabile Sicherheitslage im Herkunftsland begründet für sich allein noch kein zwingendes völkerrechtliches Vollzugshindernis nach Art. 66d Abs. 1 lit. b StGB.
 - **Einschlägig für**: Art. 66d Abs. 1 lit. b StGB
 
 ---
 
-### 16. [BGer 6B_1223/2022 vom 22. März 2023 E. 1.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1223-2022_2023-03-22.html)
+### 17. [BGer 6B_1223/2022 vom 22. März 2023 E. 1.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1223-2022_2023-03-22.html)
 - **Thema**: Rechtliches Gehör im Vollzugsverfahren
 - **Kernaussage**: Entscheide über den Vollzug einer strafrechtlichen Landesverweisung sind mit Beschwerde in Strafsachen anfechtbar, sofern ein Verzicht auf den Vollzug gestützt auf Art. 66d StGB verlangt wird und veränderte Umstände dargetan werden.
 - **Einschlägig für**: Art. 66d Abs. 1 StGB; Art. 29 Abs. 2 BV
@@ -142,7 +154,7 @@ revisions:
 
 ## III. Kantonale Entscheide
 
-### 17. [Verwaltungsgericht ZH VB.2024.00429 vom 6. Februar 2025](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00429_2025-02-06.html)
+### 18. [Verwaltungsgericht ZH VB.2024.00429 vom 6. Februar 2025](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00429_2025-02-06.html)
 - **Kanton**: Zürich
 - **Thema**: Prüfung von Art. 8 EMRK und Boultif/Üner-Kriterien durch die Vollzugsbehörde (überholte Mindermeinung)
 - **Kernaussage**: Die Kammer bejahte, dass die Vollzugsbehörde bei nachträglicher Heirat mit einem Schweizer Bürger und der Geburt eines Schweizer Säuglings verpflichtet sei, neue Verhältnismässigkeitsaspekte unter Art. 8 EMRK über Art. 66d StGB hinaus zu prüfen. Die abweichende Meinung der Kammerminderheit verneinte dies und wurde durch das spätere Grundsatzurteil BGer 7B_594/2024 bestätigt.
@@ -150,7 +162,7 @@ revisions:
 
 ---
 
-### 18. [Verwaltungsgericht ZH VB.2026.00159 vom 4. Juni 2026](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00159_2026-06-04.html)
+### 19. [Verwaltungsgericht ZH VB.2026.00159 vom 4. Juni 2026](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00159_2026-06-04.html)
 - **Kanton**: Zürich
 - **Thema**: Ausschluss vom Flüchtlingsschutz bei Serientätern (Art. 5 Abs. 2 AsylG) und Sicherheitslage Zentralirak
 - **Kernaussage**: Einem anerkannten Flüchtling wird der Aufschub verweigert, wenn er wiederholt schwere Verbrechen verübt hat. Allgemeine Verweise auf Spannungen im Zentralirak begründen 23 Jahre nach der Ausreise als Kind kein konkretes Risiko unter Art. 3 EMRK.
@@ -158,7 +170,7 @@ revisions:
 
 ---
 
-### 19. [Verwaltungsgericht ZH VB.2024.00625 vom 31. Januar 2025](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00625_2025-01-31.html)
+### 20. [Verwaltungsgericht ZH VB.2024.00625 vom 31. Januar 2025](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00625_2025-01-31.html)
 - **Kanton**: Zürich
 - **Thema**: Safe Country Chile, Bandenkriminalität und Umkehr der Begründungslast (Abs. 2)
 - **Kernaussage**: Bei sicheren Herkunftsstaaten greift die Vermutung von Art. 66d Abs. 2 StGB. Vorbringen über Vergeltungsaktionen krimineller Banden vermögen die Vermutung nicht umzustossen, wenn die staatlichen Behörden grundsätzlich schutzfähig und schutzwillig sind.
@@ -166,7 +178,7 @@ revisions:
 
 ---
 
-### 20. [Tribunal cantonal VD PE.2025.0139 vom 14. November 2025](https://entscheidsuche.ch/docs/VD_Omni/VD_TC_031_PE-2025-0139_2025-11-14.html)
+### 21. [Tribunal cantonal VD PE.2025.0139 vom 14. November 2025](https://entscheidsuche.ch/docs/VD_Omni/VD_TC_031_PE-2025-0139_2025-11-14.html)
 - **Kanton**: Waadt
 - **Thema**: Medizinische Vollzugsbedingungen und Medical Handover
 - **Kernaussage**: Der Vollzug einer Landesverweisung bei gesundheitlichen Beeinträchtigungen darf nur durchgeführt werden, wenn adäquate Vorkehren für die medizinische Betreuung während des Transports und ein formeller *medical handover* an eine Fachinstitution im Zielstaat sichergestellt sind (unter Verweis auf BGer 7B_1022/2024).
@@ -174,4 +186,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 11. September 2026*
+*Letzte Aktualisierung: 12. September 2026*

@@ -2,11 +2,16 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: "2026-09-10"
+lastmod: "2026-09-12"
 description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu Unterbrechung der Kausalkette, PIN-Erfragung, verdeckter Ermittlung, Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht", "Praxiskommentar", "nemo tenetur", "verdeckte Ermittlung", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_978/2025 (Leitentscheid: Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO), BGE 151 IV 124 (abstrakter Massstab bei hypothetisch rechtmässiger Erlangbarkeit privater Beweismittel) und BGer 7B_80/2025 (Bestätigung des abstrakten Massstabes). Neue Kasuistik zur Gesamtwürdigung und zum abstrakten Beurteilungsmassstab in Abschnitt C (Unerlässlichkeit) eingearbeitet."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -158,6 +163,36 @@ Der Vergleich zeigt eine **Spannung, die das Bundesgericht selbst nicht auflöst
 
 Werden Beweise nicht vom Staat, sondern von Privaten rechtswidrig erhoben, prüft das Bundesgericht seit [BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html) zweistufig: Erst ist zu fragen, ob ein Rechtfertigungsgrund nach Art. 13 DSG (Einwilligung, überwiegendes privates oder öffentliches Interesse, gesetzliche Grundlage) die datenschutzrechtliche Widerrechtlichkeit beseitigt — bejahendenfalls ist der Beweis **uneingeschränkt verwertbar**. Erst wenn die Rechtswidrigkeit bestehen bleibt, folgt die strafprozessuale Prüfung nach Art. 141 Abs. 2 StPO (BGE 147 IV 16 E. 5). Rechtfertigungsgründe werden bei Dashcam-artigen Dauer- und Streuaufnahmen «nur mit grosser Zurückhaltung» anerkannt (BGE 147 IV 16 E. 3.3), während sie bei punktuellen, situativ ausgelösten Aufnahmen (z.B. Bodycam-Video eines konkreten Vorfalls) eher in Betracht kommen (BGer 6B_810/2020 E. 2.6).
 
+### Hypothetisch rechtmässige Erlangbarkeit: der abstrakte Massstab
+
+Sind private Beweise rechtswidrig erhoben und kein Rechtfertigungsgrund nach Art. 13 DSG gegeben, ist als erstes kumulatives Erfordernis zu prüfen, ob die Strafbehörden das Beweismittel **rechtmässig hätten erlangen können**. [BGE 151 IV 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-124_2025.html) (E. 2.6) klärt diese Frage erstmals grundsätzlich: Bei der hypothetisch rechtmässigen Erlangbarkeit ist ein **abstrakter Beurteilungsmassstab** anzuwenden. In die Hypothesenbildung sind nur solche gesetzlichen Erfordernisse einzubeziehen, die sich abstrakt anwenden lassen und keine Würdigung konkreter Umstände der Beweiserlangung erfordern. Das Vorliegen eines Tatverdachts und Verhältnismässigkeitsgesichtspunkte, die eine konkrete Einzelfallwürdigung bedingen, sind **nicht** zu beurteilen (E. 2.6.2.1–2.6.2.3). Massgebend ist allein, ob der private Beweis aufgrund der abstrakten Gesetzeslage hätte beschafft werden können — also ob er vom gesetzlich vorgesehenen Beweisdispositiv umfasst und von keinen gesetzlichen Einschränkungen betroffen ist. Konkret: Private Videoaufnahmen von einem qualifizierten Raub sind verwertbar, weil die Strafbehörden entsprechende Bildaufzeichnungen an allgemein zugänglichen Orten gestützt auf Art. 282 Abs. 1 StPO (verdeckte Beobachtung) abstrakt hätten erheben können (E. 2.6.2.4).
+
+[BGer 7B_80/2025 vom 29. Mai 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-80-2025_2026-05-29.html) bestätigt diesen abstrakten Massstab für Videoaufnahmen des Aussenbereichs einer Bar, die mangels ausreichender Kennzeichnung rechtswidrig erstellt worden waren: Die Strafbehörden hätten die Aufnahmen gestützt auf Art. 282 Abs. 1 StPO abstrakt rechtmässig erheben können; auf konkrete Umstände wie den fehlenden Tatverdacht kommt es nicht an (E. 3.1.2, E. 3.3).
+
+> **Merksatz.** Die hypothetisch rechtmässige Erlangbarkeit privater Beweise wird nach einem **abstrakten** Massstab beurteilt: Ob die Strafbehörden das Beweismittel gestützt auf die gesetzlichen Beweiserhebungsbefugnisse (z.B. Art. 282 Abs. 1 StPO für verdeckte Bildaufzeichnung an allgemein zugänglichen Orten) hätten erheben können. Ein fehlender Tatverdacht oder konkrete Verhältnismässigkeitsbedenken spielen **keine** Rolle — allein die abstrakte gesetzliche Zulässigkeit des Beweiserhebungsinstruments entscheidet.
+
+### Die Gesamtwürdigung zusammenhängender Delikte (Leitentscheid BGer 6B_978/2025)
+
+[BGer 6B_978/2025 vom 14. Juli 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-978-2025_2026-07-14.html) klärt erstmals eine bis dahin offene Frage: **Können mehrere zusammenhängende Delikte bei der Prüfung der Tatschwere nach Art. 141 Abs. 2 StPO gesamthaft gewürdigt werden?**
+
+**Ausgangslage.** Der Beschuldigte war wegen Brandstiftung, mehrfacher Sachbeschädigung (insgesamt 26 Vorfälle), Drohung, Beschimpfung, Körperverletzung und weiterer Delikte verurteilt worden. Drei private Videoaufnahmen zeigten, wie eine Person in drei Fällen Pneus von parkierten Fahrzeugen zerstach. Die Videoaufnahmen waren rechtswidrig erhoben worden. Der Beschuldigte machte geltend, die Einzeldelikte der Sachbeschädigung erreichten für sich genommen nicht die Schwelle der schweren Straftat, weshalb die Videoaufnahmen unverwertbar seien.
+
+**Die neue Dogmatik (E. 2.7.1–2.7.5).** Das Bundesgericht bejahte die Gesamtwürdigung mit drei tragenden Gründen:
+
+1. **Systematische Einordnung (E. 2.7.2)**: Nach der Rechtsprechung ist die Tatschwere nicht allein anhand der «konkreten Tat» zu beurteilen, sondern aufgrund der gesamten sie begleitenden Umstände. Steht die konkrete Tat mit einer oder mehreren anderen Taten in einem Zusammenhang, stellt dies ein die Tat kennzeichnendes Merkmal dar, das bei der Tatschwerewürdigung einzufliessen hat.
+
+2. **Vergleich mit der Strafzumessungsdogmatik (E. 2.7.3)**: Die für Art. 141 Abs. 2 StPO massgeblichen Kriterien (betroffenes Rechtsgut, Ausmass der Gefährdung/Verletzung, Vorgehensweise, kriminelle Energie, Tatmotiv) entsprechen jenen der Strafzumessung nach Art. 47 Abs. 2 StGB. Dort wird ein enger Zusammenhang mehrerer Taten sowohl zugunsten des Täters (Asperation) als auch zuungunsten (Wahl der Strafart) berücksichtigt. Dass die Gesamtbetrachtung bei der Strafzumessung anerkannt, bei der Tatschwereprüfung nach Art. 141 Abs. 2 StPO aber ausser Betracht bleiben sollte, wäre systemwidrig: Die «gedachte Gesamtatschwere» bei vielen kleineren Taten kann vergleichbar sein wie bei einer gravierenden Einzeltat (E. 2.7.3 unter Verweis auf MATHYS, Leitfaden Strafzumessung, N. 415).
+
+3. **Einschränkung (E. 2.7.4)**: Das Unerlässlichkeitskriterium schränkt die Gesamtwürdigung ein: In die Beurteilung dürfen nur jene Delikte einbezogen werden, für deren Nachweis das illegale Beweismittel **unerlässlich** ist. Delikte, die mit anderen Beweisen belegt werden, bleiben ausser Betracht.
+
+**Zusammenfassende Regel (E. 2.7.5)**:
+
+> Das Vorliegen einer hinreichenden, eine Verwertung des illegalen Beweismittels rechtfertigenden Tatschwere im Sinne von Art. 141 Abs. 2 StPO ist bei einer Mehrheit von Delikten im Rahmen einer **Gesamtwürdigung der Delikte** zu prüfen, sofern diese **zeitlich und sachlich eng zusammenhängen** und das illegale Beweismittel **für den Nachweis jedes einzelnen dieser Delikte unerlässlich** ist. Eine Berücksichtigung bloss des jeweiligen Einzeldelikts wäre in einer solchen Konstellation systemwidrig und würde die Schwere des deliktischen Verhaltens unvollständig erfassen.
+
+**Im konkreten Fall** (E. 2.7.6): Die Sachbeschädigungsserie (26 Vorfälle innerhalb weniger Monate, gleiche Begehungsweise, gleiche Örtlichkeit) wurde als eng zusammenhängend qualifiziert. Die Videoaufnahmen waren für den Nachweis der meisten Einzeltaten unerlässlich. Die Brandstiftung und drei Delikte, die nicht mit den Videoaufnahmen nachgewiesen wurden, blieben ausser Betracht.
+
+> **Merksatz.** Bei einer Serie zusammenhängender Delikte ist die Tatschwere nach Art. 141 Abs. 2 StPO **gesamthaft** zu prüfen — vorausgesetzt, die Delikte stehen in engem zeitlichem und sachlichem Zusammenhang **und** das rechtswidrige Beweismittel ist für den Nachweis jedes einbezogenen Einzeldelikts unerlässlich. Für sich genommen nicht schwere Einzeldelikte können in der Gesamtschau die Schwelle zur schweren Straftat erreichen. Delikte, für die das Beweismittel nicht unerlässlich ist, bleiben ausser Betracht.
+
 ## D. Merkmal 4: Fernwirkung (Abs. 4) und deren Unterbrechung
 
 ### Grundsatz und Dogmatik der Fernwirkung
@@ -268,7 +303,7 @@ Entscheidender aber: Das Gericht erklärte die vom Obergericht vorgenommene **Zw
 
 **Relative Unverwertbarkeit (Abs. 2)**: GoPro-Aufnahme bei nicht schwerer Verkehrsregelverletzung ([BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html)). Private Observationen ohne gesetzliche Grundlage (BGE 143 IV 387). AFV-Aufzeichnungen bei nicht schwerer Anlasstat (BGE 146 I 11).
 
-**Verwertbar trotz Rechtswidrigkeit (Abs. 2, schwere Straftat bejaht)**: Video eines Hotelbetriebs bei Landfriedensbruch ([BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html)).
+**Verwertbar trotz Rechtswidrigkeit (Abs. 2, schwere Straftat bejaht)**: Video eines Hotelbetriebs bei Landfriedensbruch ([BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html)). Private Videoaufnahmen bei qualifiziertem Raub — abstrakter Massstab der hypothetisch rechtmässigen Erlangbarkeit ([BGE 151 IV 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-124_2025.html) E. 2.6). Private Videoaufnahmen (Bar-Aussenbereich) — Bestätigung des abstrakten Massstabes ([BGer 7B_80/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-80-2025_2026-05-29.html) E. 3.1.1–3.3). Private Videoaufnahmen bei Sachbeschädigungsserie — Gesamtwürdigung zusammenhängender Delikte ([BGer 6B_978/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-978-2025_2026-07-14.html) E. 2.7.1–2.7.5).
 
 **Ordnungsvorschriften (Abs. 3)**: iPhone-Durchsuchung ohne Befehl bei polizeilicher Anhaltung, konkrete Umstände ([BGE 139 IV 128](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-128_2013.html)). Örtlich unzuständige Kantonspolizei bei Blutprobe (BGE 142 IV 23).
 

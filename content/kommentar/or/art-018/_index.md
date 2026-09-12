@@ -2,11 +2,16 @@
 title: "Art. 18 OR — Auslegung der Verträge / Simulation"
 weight: 18
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 description: "Praxiskommentar zu Art. 18 OR: Vertragsauslegung (subjektive Auslegung, Vertrauensprinzip, falsa demonstratio non nocet, Lückenfüllung, AGB-Kontrolle) und Simulation (Scheingeschäft, dissimulierter Vertrag, Falschbeurkundung, Abgrenzung zu Treuhand und Umgehung, Schutz gutgläubiger Dritter nach Abs. 2) mit ausführlicher Kasuistik der Gerichte."
 tags: ["OR", "Vertragsrecht", "Vertragsauslegung", "Simulation", "Scheingeschäft", "Vertrauensprinzip", "falsa demonstratio", "dissimuliertes Geschäft", "Beweislast", "Grundstückkauf", "AGB"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: true
+    note: "BGer 4A_262/2026 in rechtsprechung.md ergänzt: Präzisierung zu Art. 18 Abs. 1 OR — ohne tatsächlichen und normativen Konsens entfällt die Passivlegitimation."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
