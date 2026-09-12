@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 191 SchKG"
 weight: 99
 date: 2026-06-13
 lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 191 SchKG — Insolvenzerklärung des Schuldners, missbräuchliche Insolvenzerklärung, Gläubigerbeschwerde, unentgeltliche Rechtspflege, Schuldenbereinigung und Sperrwirkung."
-tags: ["Rechtsprechung", "SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik"]
+description: "Übersicht der Rechtsprechung zu Art. 191 SchKG — Insolvenzerklärung des Schuldners, missbräuchliche Insolvenzerklärung, Gläubigerbeschwerde, unentgeltliche Rechtspflege, Schuldenbereinigung, Sperrwirkung und Grenzkasuistik."
+tags: ["Rechtsprechung", "SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-12
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Erweiterung mit Grenzkasuistik-Entscheiden: BGer 5A_193/2024 (missbräuchliche Insolvenzerklärung/Einkommenssituation), BGer 5A_222/2025 (unzulässige Beschwerde), BGer 5A_134/2025 (Konkursschluss im summarischen Verfahren), BGer 5A_870/2024 E. 6.5 (Sperrwirkung/Pfändung zwischen Gesuch und Urteil), BGer 5A_818/2024 (Kollokation bei bereits abgeschlossener Pfändung); BGE 149 III 186 (örtliche/sachliche Zuständigkeit) ergänzt."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-opus-4-8"
@@ -19,7 +24,7 @@ revisions:
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zum Privatkonkurs und Verlinkung auf entscheidsuche.ch."
   - date: 2026-06-13
     by: "Hermes Agent"
-    model: "glm-5.1"
+    model: "glm-5-1"
     mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
@@ -46,19 +51,19 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGE 133 III 614](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-614_2007.html) (2007)
-- **Thema**: Unentgeltliche Rechtspflege und Kostenvorschuss bei Privatkonkurs
-- **Kernaussage**: Wer freiwillig den Konkurs über sich beantragt, kann gestützt auf Art. 29 Abs. 3 BV die unentgeltliche Rechtspflege für die Konkurskosten verlangen; der Zugang zum Konkurs darf nicht am fehlenden Kostenvorschuss scheitern.
-- **Konkreter Sachverhalt**: Bewilligung der unentgeltlichen Rechtspflege für mittellosen Privatschuldner.
-- **Einschlägig für**: Art. 191 Abs. 1 SchKG i.V.m. Art. 29 Abs. 3 BV
-
----
-
 ### [BGE 149 III 186](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-149-III-186_2023.html) (2023)
 - **Thema**: Anfechtung wegen örtlicher oder sachlicher Unzuständigkeit
 - **Kernaussage**: Gläubiger können die Eröffnung des Konkurses nach Art. 191 SchKG mit Beschwerde anfechten, wenn das Konkursgericht örtlich oder sachlich unzuständig war.
 - **Konkreter Sachverhalt**: Konkursantrag am falschen Wohnsitz zur Umgehung von Aufsichtsmassnahmen.
 - **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 174 SchKG
+
+---
+
+### [BGE 133 III 614](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-614_2007.html) (2007)
+- **Thema**: Unentgeltliche Rechtspflege und Kostenvorschuss bei Privatkonkurs
+- **Kernaussage**: Wer freiwillig den Konkurs über sich beantragt, kann gestützt auf Art. 29 Abs. 3 BV die unentgeltliche Rechtspflege für die Konkurskosten verlangen; der Zugang zum Konkurs darf nicht am fehlenden Kostenvorschuss scheitern.
+- **Konkreter Sachverhalt**: Bewilligung der unentgeltlichen Rechtspflege für mittellosen Privatschuldner.
+- **Einschlägig für**: Art. 191 Abs. 1 SchKG i.V.m. Art. 29 Abs. 3 BV
 
 ---
 
@@ -101,6 +106,21 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGer 5A_193/2024](https://mcp.opencaselaw.ch/entscheid/bger_5A_193_2024) (25. März 2024)
+- **Thema**: Missbräuchliche Insolvenzerklärung; Einkommenssituation; Schuldenbereinigung
+- **Kernaussage**: Das Kreisgericht wies das Konkursgesuch ab, weil die Insolvenzerklärung mit Blick auf die Einkommens- und Vermögensverhältnisse des Beschwerdeführers rechtsmissbräuchlich sei und Aussicht auf Schuldenbereinigung bestehe. Das Kantonsgericht bestätigte dies.
+- **Konkreter Sachverhalt**: Schuldner mit Einkommen und Vermögen, die eine Schuldenbereinigung ermöglichen, beantragte gleichwohl die Konkurseröffnung.
+- **Einschlägig für**: Art. 191 Abs. 1, Abs. 2 SchKG i.V.m. Art. 2 Abs. 2 ZGB
+
+---
+
+### [BGer 5A_222/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-222-2025_2025-04-03.html) (3. April 2025)
+- **Thema**: Insolvenzerklärung; unzulässige Beschwerde
+- **Kernaussage**: Die Beschwerde wurde als unzulässig erklärt, da die Sachfrage nicht ausreichend substantiiert dargelegt wurde. Bestätigt die strenge Begründungspflicht bei Beschwerden gegen Konkurseröffnungen nach Art. 191 SchKG.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 42 Abs. 2 BGG
+
+---
+
 ### [BGer 5A_197/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-197-2025_2025-06-20.html) (20. Juni 2025)
 - **Thema**: Prüfung der Schuldenbereinigung; Sanierungschancen; Vergleichskonzept
 - **Kernaussage**: 
@@ -112,12 +132,29 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 ---
 
 ### [BGer 5A_870/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-870-2024_2025-02-21.html) (21. Februar 2025)
-- **Thema**: Sperrwirkung und zeitliche Wirkung der Insolvenzerklärung; Pfändung zwischen Gesuch und Urteil
+- **Thema**: Sperrwirkung und zeitliche Wirkung der Insolvenzerklärung; Pfändung zwischen Gesuch und Urteil; Kollokation
 - **Kernaussage**: 
   1. Erst das formelle Konkurseröffnungsurteil des Gerichts (nicht bereits die Einreichung des Gesuchs) entfaltet die insolvenzrechtlichen Wirkungen (Sperrwirkung gemäss Art. 175 SchKG).
   2. Zwischen Einreichung der Insolvenzerklärung und Konkursurteil bleiben Einzelzwangsvollstreckungen (z.B. Lohnpfändung) vollziehbar.
-- **Konkreter Sachverhalt**: Vollzug einer Pfändung zwischen Einreichung der Insolvenzerklärung und Konkursurteil; BGer bestätigte Rechtmässigkeit der Pfändung.
-- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 175 SchKG
+  3. Eine Sperrwirkung der Insolvenzerklärung gibt es nicht; das Datum der Gesuchseinreichung ist belanglos (E. 6.5).
+  4. Die im Zeitfenster zwischen Gesuch und Urteil gepfändeten Beträge unterliegen nicht dem Konkursbeschlag, sondern werden nach den betreibungsrechtlichen Regeln verteilt (Art. 199 Abs. 2 SchKG).
+- **Konkreter Sachverhalt**: Vollzug einer Pfändung zwischen Einreichung der Insolvenzerklärung und Konkursurteil; BGer bestätigte Rechtmässigkeit der Pfändung und der Kollokation des Pfändungserlöses nach Art. 199 Abs. 2 SchKG.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 175, 197, 199 Abs. 2 SchKG
+
+---
+
+### [BGer 5A_818/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-818-2024_2024-12-03.html) (3. Dezember 2024)
+- **Thema**: Kollokation und Verteilung des Pfändungserlöses; Sperrwirkung der Insolvenzerklärung
+- **Kernaussage**: Der aus einer im Zeitpunkt der Konkurseröffnung bereits abgeschlossenen Pfändung erzielte Erlös ist nach den betreibungsrechtlichen Regeln zu verteilen und fällt nicht in die Konkursmasse. Die Insolvenzerklärung entfaltet keine Sperrwirkung für bereits abgeschlossene Pfändungen.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 199 Abs. 2, 220 Abs. 2 SchKG
+
+---
+
+### [BGer 5A_134/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_134_2025) (10. September 2025)
+- **Thema**: Konkursschluss im summarischen Verfahren nach Insolvenzerklärung
+- **Kernaussage**: Nach Konkurseröffnung auf Selbstantrag kann das Konkursamt das Verfahren im summarischen Verfahren durchführen (Art. 230 SchKG i.V.m. Art. 159a HREGV), wenn keine nennenswerten Aktiven vorhanden sind.
+- **Konkreter Sachverhalt**: Konkurs über eine AG nach Insolvenzerklärung; Anordnung des summarischen Verfahrens.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 230 SchKG, Art. 159a HREGV
 
 ---
 
