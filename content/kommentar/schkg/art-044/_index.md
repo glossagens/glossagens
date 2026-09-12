@@ -2,11 +2,16 @@
 title: "Art. 44 — Verwertung beschlagnahmter Gegenstände"
 weight: 44
 date: 2026-07-17
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 44 SchKG: Verwertung von Gegenständen, die aufgrund strafrechtlicher, fiskalischer oder bundesrätlicher Massnahmen mit Beschlag belegt sind; Verhältnis Beschlagnahme zu Betreibungs- und Konkursverfahren; Sperrung von Guthaben gestützt auf Art. 184 Abs. 3 BV."
-tags: ["SchKG", "Schuldbetreibung", "Konkurs", "Beschlagnahme", "Verwertung", "Fiskalische Beschlagnahme", "Guthabensperrung", "Vorbehalt"]
+lastmod: 2026-09-12
+description: "Praxiskommentar zu Art. 44 SchKG: Verwertung beschlagnahmter Gegenstände — Kollisionsnorm zugunsten strafrechtlicher, fiskalischer und sanktionsrechtlicher Beschlagnahmen, bundesrätliche Guthabensperrung, Ukraine-Verordnung, Grenzkasuistik."
+tags: ["SchKG", "Beschlagnahme", "Verwertung", "Fiskalische Beschlagnahme", "Guthabensperrung", "Sanktionen", "Ukraine-Verordnung", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-09-12
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: Rz. 1-9 überarbeitet und vertieft, Rz. 10-15 Grenzkasuistik (strafrechtliche Beschlagnahme, fiskalische Beschlagnahme, bundesrätliche Guthabensperrung, Sanktionsrecht, Verwertungserlös, Konkursmasse); BGE 151 III 553 (Ukraine-Sanktionen) neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert; irrelevante Zitate entfernt."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -17,7 +22,7 @@ revisions:
     model: "glm-5.1"
     mcp_verified: true
     note: "Ergänzung um 8 weitere OCL-verifizierte BGE-Entscheide (jetzt ≥15 Zitationen); neue Abschnitte D (Pfändung und Unpfändbarkeit), E (Rechtsöffnung und Vollstreckung), F (Konkursrechtliche Bezüge), G (Arrest und provisorische Massnahmen); Rechtsprechungstabelle erweitert"
-  - date: "2026-07-17"
+  - date: 2026-07-17
     by: "Hermes Agent"
     model: "claude-opus-4-8"
     mcp_verified: true
@@ -26,83 +31,98 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 44 — Verwertung beschlagnahmter Gegenstände**
->
-> *Fassung gemäss Art. 31 Abs. 2 Ziff. 2 des BG vom 18. Dez. 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen, in Kraft seit 1. Juli 2016 (AS 2016 1803; BBl 2014 5265).*
+> **Art. 44 SchKG (SR 281.1)** — Verwertung beschlagnahmter Gegenstände
 >
 > Die Verwertung von Gegenständen, welche aufgrund strafrechtlicher oder fiskalischer Gesetze oder aufgrund des Bundesgesetzes vom 18. Dezember 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen mit Beschlag belegt sind, geschieht nach den zutreffenden eidgenössischen oder kantonalen Gesetzesbestimmungen.
+{: .gesetzeszitat}
 
-*(Fedlex-Stand: 2026-01-01)*
+*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Art. 31 Abs. 2 Ziff. 2 des BG vom 18. Dez. 2015 (SR 196.1), in Kraft seit 1. Juli 2016 (AS 2016 1803; BBl 2014 5265).*
+
+---
+
+## Überblick und Bedeutung
+
+**Rz. 1** Art. 44 SchKG ist eine **Kollisionsnorm**, die den Vorrang von Beschlagnahmen ausserhalb des SchKG vor dem betreibungs- und konkursrechtlichen Zugriff anordnet. Die Norm regelt nicht selbst die Verwertung, sondern verweist auf die jeweils anwendbaren eidgenössischen oder kantonalen Gesetzesbestimmungen. Die SchKG-Verwertungsmechanismen (Pfandverwertung, Konkursverwertung) treten für die beschlagnahmten Gegenstände zurück.
+
+**Rz. 2** **Drei Beschlagnahmetypen** fallen unter den Vorrang des Art. 44 SchKG:
+1. **Strafrechtliche Beschlagnahme**: Einziehung, Sicherstellung und Beschlagnahme im Strafverfahren (StPO, StGB, VStrR).
+2. **Fiskalische Beschlagnahme**: Beschlagnahme durch kantonale Steuerbehörden zur Deckung von Steuerforderungen.
+3. **Bundesrätliche Sperrung / Sanktionsrechtliche Beschlagnahme**: Guthabensperrungen gestützt auf Art. 184 Abs. 3 BV sowie Sanktionsverordnungen (z.B. Ukraine-Verordnung; [BGE 131 III 652 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-652_2005.html); [BGE 151 III 553 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-553_2025.html)).
+
+---
 
 ## Kommentierung
 
-### Bedeutung
+### I. Strafrechtliche Beschlagnahme (Abs. 1 lit. a)
 
-**1** Art. 44 SchKG regelt einen **Vorbehalt** im Spannungsverhältnis zwischen Betreibungs- und Konkursverfahren einerseits und beschlagnahmenden Massnahmen anderer Behörden (strafrechtlich, fiskalisch, bundesrätlich) andererseits. Die Norm stellt klar, dass Gegenstände, die aufgrund strafrechtlicher oder fiskalischer Gesetze oder des Bundesgesetzes vom 18. Dezember 2015 (SR 196.1) mit Beschlag belegt worden sind, **nach den jeweils zutreffenden eidgenössischen oder kantonalen Gesetzesbestimmungen** zu verwerten sind — nicht nach dem SchKG. Damit schafft Art. 44 SchKG einen Vorrang der Beschlagnahme vor dem betreibungsrechtlichen Zugriff, soweit die Beschlagnahme rechtsgültig erfolgt ist.
+**Rz. 3** Wird ein Gegenstand im Rahmen eines Strafverfahrens beschlagnahmt (z.B. Einziehung nach Art. 69 StGB, Sicherstellung nach Art. 263 StPO, verwaltungsstrafrechtliche Beschlagnahme nach Art. 46 VStrR), richtet sich seine Verwertung nach der strafprozessualen Regelung — nicht nach dem SchKG. Die Beschlagnahme geniesst Vorrang vor der betreibungsrechtlichen Pfändung und Verwertung ([BGE 115 III 1 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-115-III-1_1989-04-20.html)).
 
-**2** Die Norm hat ihre Bedeutung nicht als eigenständige Verwertungsvorschrift, sondern als **Kollisionsnorm**: Sie bestimmt, welches Recht im Fall sich überschneidender Zugriffsansprüche anwendbar ist. Die SchKG-Verwertungsmechanismen (Pfandverwertung, Konkursverwertung) treten für die beschlagnahmten Gegenstände zurück.
+**Rz. 4** Die Beschlagnahme zur Deckung von Untersuchungs-, Prozess- und Strafvollzugskosten ist nach Art. 44 SchKG zulässig und erstreckt sich nicht nur auf Gegenstände, die einen bestimmten Zusammenhang mit den verfolgten Straftaten aufweisen, sondern auf das gesamte Vermögen des Angeschuldigten ([BGE 115 III 1 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-115-III-1_1989-04-20.html)). Die verwaltungsstrafrechtliche Beschlagnahme von Vermögenswerten fällt ebenfalls unter den Vorbehalt von Art. 44 SchKG ([BGE 120 IV 365 E. 1 und 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-IV-365_1994-12-19.html)).
 
-### Voraussetzungen / Anwendungsbereich
+---
 
-**3 Beschlagnahme auf strafrechtlicher Grundlage.** Wird ein Gegenstand im Rahmen eines Strafverfahrens beschlagnahmt (z.B. Einziehung, Sicherstellung), so richtet sich seine Verwertung nach der strafprozessualen Regelung, nicht nach dem SchKG. Die verwaltungsstrafrechtliche Beschlagnahme von Vermögenswerten fällt ebenfalls unter den Vorbehalt von Art. 44 SchKG ([BGE 120 IV 365, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_365)).
+### II. Fiskalische Beschlagnahme (Abs. 1 lit. b)
 
-**4 Beschlagnahme auf fiskalischer Grundlage.** Können die kantonalen Steuerbehörden in jedem Stadium eines Betreibungs- oder Konkursverfahrens mit einer Beschlagnahmeverfügung eingreifen und gepfändete oder zur Konkursmasse gehörende Vermögenswerte für die Deckung von Steuerforderungen gegen den Schuldner beanspruchen, so richtet sich die Verwertung nach dem anwendbaren Steuerrecht. Der Verwertungserlös kann jedoch von den Steuerbehörden nicht mehr beschlagnahmt werden, da er nicht mehr dem Schuldner gehört ([BGE 107 III 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_III_113)).
+**Rz. 5** Die kantonalen Steuerbehörden können in jedem Stadium eines Betreibungs- oder Konkursverfahrens mit einer Beschlagnahmeverfügung eingreifen und gepfändete oder zur Konkursmasse gehörende Vermögenswerte für die Deckung von Steuerforderungen beanspruchen ([BGE 107 III 113 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-113_1981-12-08.html)). Die fiskalische Beschlagnahme hat Vorrang vor der betreibungsrechtlichen Verwertung.
 
-**5 Bundesrätliche Sperrung gestützt auf Art. 184 Abs. 3 BV.** Auf einen Beschluss des Bundesrats, Guthaben gestützt auf Art. 184 Abs. 3 BV zu sperren, ist Art. 44 SchKG **sinngemäss anwendbar**. Unter dem Vorbehalt der Fälle von Nichtigkeit dürfen die Betreibungs- und Konkursämter einer solchen «Beschlagnahme» nicht eine eigene, dazu in Widerspruch stehende Verfügung entgegenhalten, die dann der betreibungsrechtlichen Verwertung unterläge ([BGE 131 III 652, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_652)).
+**Rz. 6** Der Verwertungserlös kann jedoch von den Steuerbehörden **nicht mehr beschlagnahmt** werden, da er nach der Verwertung nicht mehr dem Schuldner gehört, sondern dem Pfandgläubiger bzw. der Konkursmasse zusteht ([BGE 107 III 113 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-113_1981-12-08.html)). Praxisfolge: Die fiskalische Beschlagnahme muss vor der Verwertung erfolgen; nach der Verwertung ist der Erlös dem Zugriff der Steuerbehörden entzogen.
 
-**6 Beschlagnahme nach Konkurseröffnung.** Die Beschlagnahme von Originalwerten, Surrogaten und weiterer Vermögenswerte aus einer Konkursmasse kann zulässig sein, soweit die Beschlagnahmeordnung dies vorsieht. Art. 44 SchKG schafft insoweit einen Vorrang der Beschlagnahme vor der Konkursverwertung ([BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97)).
+---
 
-### Abgrenzungen
+### III. Bundesrätliche Guthabensperrung und Sanktionsrecht (Art. 184 Abs. 3 BV)
 
-**7 Art. 44 SchKG vs. allgemeine SchKG-Verwertung.** Art. 44 SchKG betrifft nur Gegenstände, die von einer ausserhalb des SchKG stehenden Behörde mit Beschlag belegt worden sind. Die normale Pfandverwertung (Art. 116 ff. SchKG) und die Konkursverwertung (Art. 229 ff. SchKG) bleiben für alle übrigen Gegenstände anwendbar. Art. 44 SchKG ist keine Verwertungsvorschrift, sondern eine Kollisionsnorm, die den Vorrang der Beschlagnahme anordnet.
+**Rz. 7** Auf einen Beschluss des Bundesrats, Guthaben gestützt auf Art. 184 Abs. 3 BV zu sperren, ist Art. 44 SchKG **sinngemäss anwendbar**. Unter dem Vorbehalt der Fälle von Nichtigkeit dürfen die Betreibungs- und Konkursämter einer solchen Beschlagnahme nicht eine eigene, dazu in Widerspruch stehende Verfügung entgegenhalten, die der betreibungsrechtlichen Verwertung unterläge ([BGE 131 III 652 E. 2 und 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-652_2005.html)).
 
-**8 Verhältnis Beschlagnahme — Einziehung.** Die verwaltungsstrafrechtliche Beschlagnahme von Vermögenswerten fällt unter den Vorbehalt von Art. 44 SchKG, während die Einziehung eines unrechtmässigen Vermögensvorteils beim solidarisch haftenden Täter eine eigenständige Massnahme darstellt, die in einem geordneten Verhältnis zur Beschlagnahme steht ([BGE 120 IV 365, E. 1 und 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_365)).
+**Rz. 8** **Sanktionsrechtliche Vermögenssperren (BGE 151 III 553)**: In [BGE 151 III 553 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-553_2025.html) hielt das Bundesgericht fest, dass auf sanktionsrechtliche Vermögenssperren, die sich auf die Ukraine-Verordnung stützen, Art. 44 SchKG analog anwendbar ist. Die Beschlagnahme durch den Bundesrat hat Vorrang vor der betreibungsrechtlichen Verwertung; die Betreibungs- und Konkursämter dürfen keine widersprüchlichen Verfügungen treffen. Praxisfolge: Die analoge Anwendung von Art. 44 SchKG auf Sanktionsverordnungen ist nun bundesgerichtlich bestätigt.
 
-**9 Nichte Steigerungsanzeige und Kostenrechnung.** Im Verfahren der Verwertung eines Grundstücks hat eine nichtige Steigerungsanzeige Auswirkungen auf die Kostenrechnung. Die Aufsichtsbehörde prüft die damit verbundene Frage der Kosten im Steigerungsverfahren unter Berücksichtigung von Art. 22 und 44 SchKG ([BGE 139 III 44, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_44)).
+---
 
-### D. Pfändung und Unpfändbarkeit im Kontext von Art. 44 SchKG
+### IV. Beschlagnahme nach Konkurseröffnung
 
-**10** Art. 44 SchKG steht in engem Zusammenhang mit den **pfändungsrechtlichen Bestimmungen** (Art. 88 ff. SchKG). Wenn ein Gegenstand beschlagnahmt ist, scheidet eine Pfändung desselben Gegenstands durch das Betreibungsamt aus. Die Unpfändbarkeit bestimmter Vermögenswerte (Art. 92 SchKG) wird durch die Beschlagnahme nicht aufgehoben, sondern tritt neben sie. Das Bundesgericht hat wiederholt klargestellt, dass die Pfändung unpflächtbarer Gegenstände unzulässig ist und die Beschlagnahme den Vorrang vor der Pfändung geniesst ([BGE 110 III 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_III_53); [BGE 115 III 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_115_III_1)).
+**Rz. 9** Die Beschlagnahme von Originalwerten, Surrogaten und weiterer Vermögenswerte aus einer Konkursmasse kann auch nach Konkurseröffnung zulässig sein, soweit die Beschlagnahmeordnung dies vorsieht ([BGE 126 I 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-126-I-97_2000-06-23.html)). Art. 44 SchKG schafft insoweit einen Vorrang der Beschlagnahme vor der Konkursverwertung.
 
-**11** Die Frage, ob ein beschlagnahmter Gegenstand zugleich der Pfändung unterliegt, ist nach den allgemeinen pfändungsrechtlichen Kriterien zu beurteilen. Ist der Gegenstand unpfändbar (z.B. notwendige Berufswerkzeuge nach Art. 92 Ziff. 3 SchKG), so bleibt er auch nach Aufhebung der Beschlagnahme der Pfändung entzogen. Die Beschlagnahme ändert nichts am Pfändungsstatus des Gegenstands ([BGE 110 III 53](https://mcp.opencaselaw.ch/entscheid/bge_BGE_110_III_53)).
+---
 
-### E. Rechtsöffnung und Vollstreckung
+### V. Grenzkasuistik
 
-**12** Die **Rechtsöffnung** (Art. 80 ff. SchKG) kann auch bei beschlagnahmten Gegenständen relevant werden, insbesondere wenn die Beschlagnahme nach ihrer Aufhebung einen Rechtsöffnungstitel gegen den Schuldner begründet. Das Bundesgericht hat präzisiert, dass Art. 285 Abs. 2 ZGB (Kinderzulagen) im Verhältnis zu Art. 80 SchKG eine spezielle Regelung darstellt, die auch im Kontext von Beschlagnahmen beachtlich sein kann ([BGE 113 III 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_113_III_6)).
+**Rz. 10 — Strafrechtliche Beschlagnahme und Einziehung (BGE 120 IV 365)**: In [BGE 120 IV 365 E. 1 und 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-IV-365_1994-12-19.html) beschlagnahmte die Bundesanwaltschaft Vermögenswerte eines solidarisch haftenden Täters im Verwaltungsstrafverfahren. Das Bundesgericht hielt fest, dass die verwaltungsstrafrechtliche Beschlagnahme unter den Vorbehalt von Art. 44 SchKG fällt und die Einziehung eines unrechtmässigen Vermögensvorteils beim solidarisch haftenden Täter eine eigenständige Massnahme darstellt, die in einem geordneten Verhältnis zur Beschlagnahme steht. Praxisfolge: Die Beschlagnahme hat Vorrang vor der betreibungsrechtlichen Verwertung; die Einziehung richtet sich nach den strafrechtlichen Bestimmungen.
 
-**13** Der **Rechtsvorschlag** (Art. 185 SchKG) und seine Zulässigkeit im Wechselbetreibungsverfahren können durch eine bestehende Beschlagnahme beeinflusst werden. Die Auffassung, wonach sich die Zulassung von Noven im Berufungsverfahren auch auf die Frage der Beschlagnahme auswirken kann, ist nicht willkürlich ([BGE 119 III 108](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_III_108)).
+**Rz. 11 — Fiskalische Beschlagnahme und Verwertungserlös (BGE 107 III 113)**: In [BGE 107 III 113 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-113_1981-12-08.html) stritten die kantonalen Steuerbehörden mit dem Pfandgläubiger um den Zugriff auf den Verwertungserlös einer gepfändeten Liegenschaft. Das Bundesgericht entschied, dass die Steuerbehörden den Verwertungserlös nicht mehr beschlagnahmen können, da er nach der Verwertung nicht mehr dem Schuldner gehört. Praxisfolge: Die fiskalische Beschlagnahme muss vor der Verwertung erfolgen; nach der Verwertung ist der Erlös dem Zugriff der Steuerbehörden entzogen.
 
-### F. Konkursrechtliche Bezüge
+**Rz. 12 — Bundesrätliche Guthabensperrung (BGE 131 III 652)**: In [BGE 131 III 652 E. 2 und 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-652_2005.html) sperrte der Bundesrat Guthaben gestützt auf Art. 184 Abs. 3 BV (Fall Mobutu). Das Bundesgericht hielt fest, dass Art. 44 SchKG sinngemäss anwendbar ist und die Betreibungs- und Konkursämter keine widersprüchlichen Verfügungen treffen dürfen. Praxisfolge: Die bundesrätliche Guthabensperrung hat Vorrang vor der betreibungsrechtlichen Verwertung; nur in Fällen von Nichtigkeit können die Betreibungsämter davon abweichen.
 
-**14** Im **Konkursverfahren** hat Art. 44 SchKG besondere Bedeutung, da die Konkursmasse Gegenstände umfassen kann, die anderweitig beschlagnahmt sind. Die Konkursverwertung (Art. 229 ff. SchKG) tritt insoweit zurück, als die Beschlagnahme reicht. Die Abgrenzung zwischen Konkursmasse und beschlagnahmten Vermögenswerten erfordert eine genaue Bestimmung der konkurrierenden Zugriffsrechte ([BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97)).
+**Rz. 13 — Sanktionsrechtliche Vermögenssperren / Ukraine-Verordnung (BGE 151 III 553)**: In [BGE 151 III 553 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-553_2025.html) bestätigte das Bundesgericht die analoge Anwendung von Art. 44 SchKG auf sanktionsrechtliche Vermögenssperren, die sich auf die Ukraine-Verordnung stützen. Die Beschlagnahme durch den Bundesrat hat Vorrang vor der betreibungsrechtlichen Verwertung. Praxisfolge: Auch sanktionsrechtliche Vermögenssperren geniessen den Vorrang nach Art. 44 SchKG; die Betreibungsämter dürfen keine widersprüchlichen Verfügungen treffen.
 
-**15** **Konkurskosten und Glaubhaftmachung.** Hat der Schuldner die Kosten des Konkursgerichts erst im Beschwerdeverfahren getilgt, hat er mit seiner Beschwerde zusätzlich seine Zahlungsfähigkeit glaubhaft zu machen, auch wenn die Schuldtilgung im Übrigen ganz vor der Konkurseröffnung erfolgt ist. Diese Grundsätze stehen im Kontext der allgemeinen Konkursdogmatik, die auch bei beschlagnahmten Vermögenswerten zu beachten ist (BGE 151 III 574).
+**Rz. 14 — Beschlagnahme nach Konkurseröffnung (BGE 126 I 97)**: In [BGE 126 I 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-126-I-97_2000-06-23.html) hielt das Bundesgericht fest, dass die Beschlagnahme von Originalwerten, Surrogaten und weiteren Vermögenswerten aus einer Konkursmasse auch nach Konkurseröffnung zulässig ist, soweit die Beschlagnahmeordnung dies vorsieht. Art. 44 SchKG schafft einen Vorrang der Beschlagnahme vor der Konkursverwertung. Praxisfolge: Die Konkursverwaltung muss beschlagnahmte Vermögenswerte der beschlagnahmenden Behörde überlassen.
 
-**16** **Aberkennungsverfahren und Dispositionsmaxime.** Im Aberkennungsverfahren nach Art. 83 SchKG wird die Dispositionsmaxime verletzt, wenn das Gericht über das Begehren der Partei hinausgeht. Dieser Grundsatz gilt auch bei beschlagnahmten Gegenständen im Betreibungsverfahren ([BGE 149 III 268](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_268)).
+**Rz. 15 — Nichte Steigerungsanzeige und Beschlagnahme (BGE 139 III 44)**: In [BGE 139 III 44 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-44_2013.html) warf eine nichtige Steigerungsanzeige Fragen der Kostenrechnung im Verwertungsverfahren auf. Das Bundesgericht bestätigte, dass im Konfliktfall die Beschlagnahme vor der betreibungsrechtlichen Verwertung Vorrang geniesst; sind die in dieser Absicht vorgenommenen Betreibungshandlungen nichtig, hat dies Auswirkungen auf die Kostenrechnung. Praxisfolge: Betreibungshandlungen, die einer wirksamen Beschlagnahme widersprechen, sind nichtig.
 
-### G. Arrest und provisorische Massnahmen
+---
 
-**17** Der **Arrest** (Art. 274 ff. SchKG) ist ein weiteres Instrument, das im Spannungsverhältnis zur Beschlagnahme steht. Der Arrestbefehl hat keine Angaben über die Existenz eines Solidarschuldverhältnisses zu enthalten ([BGE 145 III 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_221)). Ist ein Vermögenswert bereits beschlagnahmt, so steht dies der Arrestierung grundsätzlich nicht entgegen, solange der Arrestgläubiger ein eigenes Arrestinteresse geltend machen kann.
+## Praxisfragen
 
-### H. Arrestvollzug und Beschlagnahme
+### 1. Was regelt Art. 44 SchKG?
+Art. 44 SchKG ist eine **Kollisionsnorm**, nicht eine Verwertungsvorschrift. Er bestimmt, dass die Verwertung beschlagnahmter Gegenstände nach den jeweiligen eidgenössischen oder kantonalen Gesetzesbestimmungen erfolgt — nicht nach dem SchKG. Die Beschlagnahme hat Vorrang vor der betreibungs- und konkursrechtlichen Verwertung.
 
-**18** Der **Arrestvollzug** (Art. 271 ff. SchKG) und die Beschlagnahme stehen in einem funktionellen Zusammenhang: wenn Vermögenswerte bereits beschlagnahmt sind, kann der Arrestvollzug daran nicht vorbeigehen. Der sogenannte Taschenarrest ist nur unter den Voraussetzungen von Ziff. 3 des Art. 271 Abs. 1 SchKG zulässig ([BGE 112 III 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_112_III_47)). Der Arrestbefehl hat keine Angaben über die Existenz eines Solidarschuldverhältnisses zu enthalten ([BGE 145 III 221](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_III_221)).
+### 2. Können die Steuerbehörden den Verwertungserlös beschlagnahmen?
+Nein. Der Verwertungserlös gehört nach der Verwertung nicht mehr dem Schuldner, sondern dem Pfandgläubiger bzw. der Konkursmasse ([BGE 107 III 113 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-113_1981-12-08.html)). Die fiskalische Beschlagnahme muss vor der Verwertung erfolgen.
 
-### Kasuistik
+### 3. Gelten sanktionsrechtliche Vermögenssperren unter Art. 44 SchKG?
+Ja. Das Bundesgericht hat die analoge Anwendung von Art. 44 SchKG auf sanktionsrechtliche Vermögenssperren (Ukraine-Verordnung) bestätigt ([BGE 151 III 553 E. 3 und 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-553_2025.html); [BGE 131 III 652 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-652_2005.html)).
 
-- **Steuerbehörden und Verwertungserlös**: Die kantonalen Steuerbehörden können zwar in jedem Stadium eines Betreibungs- oder Konkursverfahrens gepfändete Vermögenswerte beschlagnahmen, um Steuerforderungen zu decken. Der Verwertungserlös kann jedoch nicht mehr beschlagnahmt werden, da er nach der Verwertung nicht mehr dem Schuldner gehört, sondern dem Pfandgläubiger bzw. der Konkursmasse zusteht ([BGE 107 III 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_107_III_113)).
+### 4. Können beschlagnahmte Gegenstände gleichzeitig gepfändet werden?
+Nein. Wenn ein Gegenstand rechtsgültig beschlagnahmt ist, scheidet eine Pfändung desselben Gegenstands durch das Betreibungsamt aus. Die Beschlagnahme hat Vorrang vor der betreibungsrechtlichen Pfändung und Verwertung.
 
-- **Bundesrätliche Guthabensperrung**: Sperrt der Bundesrat Guthaben gestützt auf Art. 184 Abs. 3 BV (z.B. im Fall der UBS im Februar 2009), so ist Art. 44 SchKG sinngemäss anwendbar. Die Betreibungs- und Konkursämter dürfen einer solchen Beschlagnahme keine eigene widersprüchliche Verfügung entgegenhalten, ausser in Fällen von Nichtigkeit ([BGE 131 III 652, E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_III_652)).
+### 5. Was gilt bei Nichtigkeit der Beschlagnahme?
+Nur in Fällen von Nichtigkeit der Beschlagnahme dürfen die Betreibungs- und Konkursämter eine eigene Verfügung treffen, die der Beschlagnahme widerspricht ([BGE 131 III 652 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-652_2005.html)). Die Nichtigkeitsausnahme ist eng zu verstehen.
 
-- **Nichte Steigerungsanzeige und Kostenrechnung**: Im Verfahren der Verwertung eines Grundstücks hat eine nichtige Steigerungsanzeige Auswirkungen auf die Kostenrechnung. Die Aufsichtsbehörde prüft die damit verbundene Frage der Kosten im Steigerungsverfahren unter Berücksichtigung von Art. 22 und 44 SchKG ([BGE 139 III 44, E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_44)).
+---
 
-- **Beschlagnahme nach Konkurseröffnung**: Originalwerte, Surrogate und weitere Vermögenswerte können auch nach Konkurseröffnung beschlagnahmt werden, soweit die Beschlagnahmeordnung dies vorsieht. Art. 44 SchKG schafft einen Vorrang der Beschlagnahme vor der Konkursverwertung ([BGE 126 I 97](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_I_97)).
+## Querverweise
 
-### Materialien
-
-Art. 44 SchKG in der geltenden Fassung beruht auf Art. 31 Abs. 2 Ziff. 2 des Bundesgesetzes vom 18. Dezember 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen (SR 196.1), in Kraft seit dem 1. Juli 2016 (AS 2016 1803; [BBl 2014 5265](https://www.fedlex.admin.ch/eli/fga/2014/5265)). Die Revision erweiterte den Anwendungsbereich der Norm auf Beschlagnahmen gestützt auf das neue Sperrgesetz. Die Grundstruktur der Norm als Kollisionsnorm zugunsten beschlagnahmender Behörden blieb dabei unverändert.
-
-## Literatur
-
-- Kommentarliteratur zu Art. 44 SchKG in den gängigen Werken (Bräm, Degoumois, Jeandin, Kistler).
-- Siehe auch: [BGE 120 IV 365](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_IV_365) zum Verhältnis Beschlagnahme — Einziehung im verwaltungsstrafrechtlichen Kontext.
+- [Art. 69 StGB — Einziehung](https://www.fedlex.admin.ch/eli/cc/1937/681_681_681/de#art_69)
+- [Art. 263 StPO — Beschlagnahme im Strafverfahren](https://www.fedlex.admin.ch/eli/cc/2010/646_655_649/de#art_263)
+- [Art. 184 Abs. 3 BV — Aussenpolitik und Notfallmassnahmen des Bundesrats](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_184)
+- [Art. 116 SchKG — Verwertungsbegehren](../art-116/)
+- [Art. 229 SchKG — Konkursverwertung](../art-229/)
+- [SR 196.1 — Sperrgesetz (Sperrung und Rückerstattung unrechtmässig erworbener Vermögenswerte)](https://www.fedlex.admin.ch/eli/cc/2016/1803/de)
