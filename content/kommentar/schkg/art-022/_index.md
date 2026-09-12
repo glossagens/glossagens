@@ -2,11 +2,16 @@
 title: "Art. 22 SchKG — Nichtige Verfügungen"
 weight: 22
 date: 2026-09-01
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 description: "Praxiskommentar zu Art. 22 SchKG: Absolute Nichtigkeit von Betreibungshandlungen, Verletzung von Schutzvorschriften im öffentlichen Interesse und Drittschutzvorschriften, amtswegige Feststellung, Selbstkorrektur durch das Amt, Rechtsmissbrauch, Grenzkasuistik."
 tags: ["SchKG", "Betreibungsrecht", "Nichtigkeit", "Aufsichtsbeschwerde", "Zwangsvollstreckung", "Rechtsmissbrauch", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Ergänzung: BGer 5A_497/2026 (rechtsmissbräuchliche Berufung auf Art. 22 SchKG), BGer 5A_131/2026 (Substantiierungspflicht vor Bundesgericht) ergänzt; Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -57,7 +62,7 @@ Während gewöhnliche Verfahrensfehler oder Gesetzesverletzungen der zehntägige
 
 **Rz. 5** — Neben der in Art. 22 Abs. 1 SchKG geregelten **gesetzlichen Nichtigkeit** erkennt die Rechtsprechung in engen Grenzen auch eine **rechtsmissbräuchliche Nichtigkeit** nach Art. 2 Abs. 2 ZGB an: Eine Betreibung ist nichtig, wenn sie von vornherein ausschliesslich der Schikane dient oder wenn ein völlig übersetzter Betrag in Betreibung gesetzt wird, um den Schuldner zu schädigen ([BGE 140 III 481 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-481_2014.html); [BGer 5A_172/2024 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-172-2024_2024-08-05.html)). Die Schwelle ist hoch: Es muss sich um einen krassen Rechtsmissbrauch handeln, der sich sofort aufdrängt ([BGer 5A_838/2016 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-838-2016_2017-03-13.html); [ZH Obergericht PS250384 vom 13.05.2026](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS250384_2026-05-13.pdf)).
 
-**Rz. 6** — Die Nichtigkeitsrüge ist **nicht an Fristen gebunden** und kann von jedermann — auch von Behörden — jederzeit geltend gemacht werden ([BGer 5A_576/2010 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-576-2010_2010-11-18.html); [BGE 131 III 237 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-237_2005.html)). Vor Bundesgericht gilt dies jedoch mit der Massgabe, dass die beschwerdeführende Partei **substantiiert darlegen** muss, worin der schwerwiegende Mangel besteht und welche Schutznorm verletzt wurde; blosse appellatorische Kritik genügt nicht ([BGer 5A_131/2026 vom 11.08.2026 / 01.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026)).
+**Rz. 6** — Die Nichtigkeitsrüge ist **nicht an Fristen gebunden** und kann von jedermann — auch von Behörden — jederzeit geltend gemacht werden ([BGer 5A_576/2010 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-576-2010_2010-11-18.html); [BGE 131 III 237 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-237_2005.html)). Vor Bundesgericht gilt dies jedoch mit der Massgabe, dass die beschwerdeführende Partei **substantiiert darlegen** muss, worin der schwerwiegende Mangel besteht und welche Schutznorm verletzt wurde; blosse appellatorische Kritik genügt nicht ([BGer 5A_131/2026 vom 11.08.2026 / 01.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.08.2026_5A_131/2026)). Die Berufung auf Art. 22 SchKG kann selbst rechtsmissbräuchlich sein, wenn die beschwerdeführende Partei Gründe nachschiebt, die ihr bereits bekannt waren, sie aber früher vorzutragen verpasst hat ([BGer 5A_497/2026 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-497-2026_2026-07-07.html)).
 
 ---
 

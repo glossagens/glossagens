@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 22 SchKG"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 22 SchKG — Nichte Verfügungen, Rechtsmissbrauch, amtswegige Feststellung, Freihandverkauf, Verlustschein, Arrestbefehl, Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Nichtigkeit", "Rechtsmissbrauch", "Aufsichtsbeschwerde", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Ergänzung: BGer 5A_497/2026 (rechtsmissbräuchliche Berufung auf Art. 22 SchKG), BGer 5A_131/2026 (Substantiierungspflicht vor Bundesgericht) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -153,6 +158,20 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGer 5A_497/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-497-2026_2026-07-07.html) (7. Juli 2026)
+- **Thema**: Rechtsmissbräuchliche Berufung auf Art. 22 SchKG; Substantiierungspflicht
+- **Kornaussage**: Die Berufung auf Art. 22 SchKG ist selbst rechtsmissbräuchlich, wenn die beschwerdeführende Partei Gründe nachschiebt, die ihr bereits bekannt waren, sie aber früher vorzutragen verpasst hat. Die Nichtigkeitsrüge kann nicht dazu dienen, versäumte Beschwerdefristen nachträglich zu umgehen (E. 5).
+- **Einschlägig für**: Art. 22 Abs. 1 SchKG; Art. 2 Abs. 2 ZGB; Art. 42 Abs. 2 BGG
+
+---
+
+### [BGer 5A_131/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-131-2026_2026-08-17.html) (17. August 2026)
+- **Thema**: Substantiierungspflicht bei Nichtigkeitsrüge vor Bundesgericht
+- **Kornaussage**: Vor Bundesgericht muss die beschwerdeführende Partei bei einer Nichtigkeitsrüge nach Art. 22 SchKG substantiiert darlegen, worin der schwerwiegende Mangel besteht und welche Schutznorm verletzt wurde. Blosse appellatorische Kritik genügt nicht zur Begründung der Nichtigkeit.
+- **Einschlägig für**: Art. 22 Abs. 1 SchKG; Art. 42 Abs. 2 BGG
+
+---
+
 ## III. Kantonale Rechtsprechung
 
 ### [ZH Obergericht, PS250384](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS250384_2026-05-13.pdf) (13. Mai 2026)
@@ -197,4 +216,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
