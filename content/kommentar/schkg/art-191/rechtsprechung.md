@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 191 SchKG"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-08-29
-description: "Übersicht der Rechtsprechung zu Art. 191 SchKG — Insolvenzerklärung des Schuldners, missbräuchliche Insolvenzerklärung, Gläubigerbeschwerde und unentgeltliche Rechtspflege."
-tags: ["Rechtsprechung", "SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Kasuistik"]
+lastmod: 2026-09-12
+description: "Übersicht der Rechtsprechung zu Art. 191 SchKG — Insolvenzerklärung des Schuldners, missbräuchliche Insolvenzerklärung, Gläubigerbeschwerde, unentgeltliche Rechtspflege, Schuldenbereinigung und Sperrwirkung."
+tags: ["Rechtsprechung", "SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-12
+    by: "Claude Code"
+    model: "claude-opus-4-8"
+    mcp_verified: true
+    note: "Integration neuerer BGer-Entscheide 2024–2026: 5A_614/2026 (Missbrauch/Lohnpfändung), 5A_249/2025 (unentgeltliche Rechtspflege/Aussichtslosigkeit), 5A_197/2025 (Schuldenbereinigung/Sanierungschancen), 5A_870/2024 (Sperrwirkung/zeitliche Wirkung); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -73,7 +78,48 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-## II. Weitere Entscheide des Bundesgerichts
+## II. Weitere Entscheide des Bundesgerichts (2024–2026)
+
+### [BGer 5A_614/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-614-2026_2026-04-14.html) (14. April 2026)
+- **Thema**: Missbräuchliche Insolvenzerklärung; Lohnpfändung; Einkommen über Pfändungsfreigrenze; Rechtsmissbrauch
+- **Kernaussage**: 
+  1. Eine Insolvenzerklärung ist rechtsmissbräuchlich, wenn der Schuldner den Konkurs **ausschliesslich** beantragt, um eine laufende Lohnpfändung des einzigen oder Hauptgläubigers zu Fall zu bringen.
+  2. Entscheidend ist, ob der Schuldner über ein Einkommen verfügt, das die Pfändungsfreigrenzen übersteigt, und ob keine weiteren Gläubiger mit Gesamtvollstreckungsinteresse existieren.
+  3. Die zeitliche Nähe zwischen Pfändungsanordnung und Konkursantrag ist ein starkes Indiz für den Missbrauch.
+- **Konkreter Sachverhalt**: Schuldner mit regelmässigem Einkommen weit über der Pfändungsfreigrenze beantragte Konkurs kurz nach Anordnung einer Lohnpfändung für Unterhaltsforderungen; keine weiteren nennenswerten Schulden. BGer bestätigte die Verweigerung der Konkurseröffnung wegen Rechtsmissbrauchs.
+- **Einschlägig für**: Art. 191 Abs. 1 SchKG i.V.m. Art. 2 Abs. 2 ZGB
+
+---
+
+### [BGer 5A_249/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-249-2025_2025-07-18.html) (18. Juli 2025)
+- **Thema**: Unentgeltliche Rechtspflege; Aussichtslosigkeit der Konkurseröffnung; amtswegige Prüfung
+- **Kernaussage**: 
+  1. Das Gericht prüft bei Gesuch um unentgeltliche Rechtspflege von Amtes wegen, ob die Konkurseröffnung für den Schuldner oder die Gläubiger von vornherein keinen erkennbaren Nutzen stiftet oder rechtsmissbräuchlich ist.
+  2. Fehlt jegliches verwertbares Vermögen und besteht keine Aussicht auf Sanierung, kann die unentgeltliche Rechtspflege verweigert werden, da die Eröffnung «aussichtslos» ist.
+- **Konkreter Sachverhalt**: Mittelloser Schuldner beantragte Konkurs und unentgeltliche Rechtspflege; Gericht verweigerte beides mangels Nutzen der Eröffnung.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 29 Abs. 3 BV; BGE 119 III 113
+
+---
+
+### [BGer 5A_197/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-197-2025_2025-06-20.html) (20. Juni 2025)
+- **Thema**: Prüfung der Schuldenbereinigung; Sanierungschancen; Vergleichskonzept
+- **Kernaussage**: 
+  1. Vor Eröffnung des Konkurses hat das Gericht zwingend zu prüfen, ob realistische Sanierungschancen nach Art. 333 ff. SchKG bestehen.
+  2. Liegt ein konkretes, tragfähiges Vergleichskonzept vor, das von einem relevanten Teil der Gläubiger unterstützt wird, besteht Aussicht auf Schuldenbereinigung und der Konkursantrag ist abzuweisen.
+- **Konkreter Sachverhalt**: Schuldner legte Vergleichsvorschlag vor, der von Hauptgläubigern unterstützt wurde; vorinstanzliche Konkurseröffnung aufgehoben.
+- **Einschlägig für**: Art. 191 Abs. 2 SchKG; Art. 333 ff. SchKG
+
+---
+
+### [BGer 5A_870/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-870-2024_2025-02-21.html) (21. Februar 2025)
+- **Thema**: Sperrwirkung und zeitliche Wirkung der Insolvenzerklärung; Pfändung zwischen Gesuch und Urteil
+- **Kernaussage**: 
+  1. Erst das formelle Konkurseröffnungsurteil des Gerichts (nicht bereits die Einreichung des Gesuchs) entfaltet die insolvenzrechtlichen Wirkungen (Sperrwirkung gemäss Art. 175 SchKG).
+  2. Zwischen Einreichung der Insolvenzerklärung und Konkursurteil bleiben Einzelzwangsvollstreckungen (z.B. Lohnpfändung) vollziehbar.
+- **Konkreter Sachverhalt**: Vollzug einer Pfändung zwischen Einreichung der Insolvenzerklärung und Konkursurteil; BGer bestätigte Rechtmässigkeit der Pfändung.
+- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 175 SchKG
+
+---
 
 ### [BGer 5A_161/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-161-2023_2023-08-18.html) (18. August 2023)
 - **Thema**: Zweck des Privatkonkurses und Restschuldbefreiung
@@ -99,22 +145,14 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGer 5A_870/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-870-2024_2025-02-21.html) (21. Februar 2025)
-- **Thema**: Sperrwirkung und zeitliche Wirkung der Insolvenzerklärung
-- **Kernaussage**: Erst das formelle Konkurseröffnungsurteil des Gerichts (nicht bereits die Einreichung des Gesuchs) entfaltet die insolvenzrechtlichen Wirkungen.
-- **Konkreter Sachverhalt**: Vollzug einer Pfändung zwischen Einreichung der Insolvenzerklärung und Konkursurteil.
-- **Einschlägig für**: Art. 191 SchKG i.V.m. Art. 175 SchKG
-
----
-
 ## III. Kantonale Rechtsprechung
 
 ### [Bezirksgericht Zürich, EK210045](https://entscheidsuche.ch/docs/ZH_Bezirksgericht/ZH_BG_001_EK210045_2021.pdf) (2021)
-- **Thema**: Überprüfung der Vermögenslosigkeit beim Privatkonkurs
+- **Thema**: Überprüfung der Vermögenslosigkeit beim Privatkonkurs; Eidesstattliche Erklärung
 - **Kernaussage**: Reicht der Schuldner einen Selbstantrag ein, hat er dem Gericht eine eidesstattliche Erklärung über seine Vermögensverhältnisse vorzulegen.
 - **Konkreter Sachverhalt**: Festsetzung des Kostenvorschusses bei unklaren Aktiven.
 - **Kanton**: Zürich (ZH)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+*Letzte Aktualisierung: 2026-09-12*
