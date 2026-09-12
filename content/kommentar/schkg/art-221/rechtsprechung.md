@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 221 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 221 SchKG — Inventaraufnahme im Konkurs, Sicherungsmassnahmen, Siegelung, Drittschutz, Rechtshilfe, Grenzkasuistik."
-tags: ["Rechtsprechung", "SchKG", "Inventaraufnahme", "Konkurs", "Sicherungsmassnahmen", "Siegelung", "Drittschutz", "Grenzkasuistik"]
+lastmod: 2026-09-13
+description: "Übersicht der Rechtsprechung zu Art. 221 SchKG — Inventaraufnahme im Konkurs, Sicherungsmassnahmen, Siegelung, Drittschutz, Rechtshilfe, Konkurs mangels Aktiven, unentgeltliche Rechtspflege, Verbindlichkeit des Konkursdekrets, Grenzkasuistik."
+tags: ["Rechtsprechung", "SchKG", "Inventaraufnahme", "Konkurs", "Sicherungsmassnahmen", "Siegelung", "Drittschutz", "Konkurs mangels Aktiven", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: BGE 119 III 28 (Konkurs mangels Aktiven), BGE 119 III 113 (Unentgeltliche Rechtspflege), BGE 98 III 31 (Unpfändbarkeit, Zeitpunkt der Inventaraufnahme), BGE 100 III 19 (Verbindlichkeit des Konkursdekrets), BGE 141 III 590 (Kostensicherheit), BGE 117 III 67 (Kostenvorschuss), BGer 5A_624/2009 (Sicherungsmassnahmen/Siegelung), BGer 5A_218/2010 (Aussonderung/Admassierung), BGer 5A_235/2007 (Konkurs ohne vorgängige Betreibung), BGer 5A_956/2025 (Kontosperre) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -31,7 +36,7 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 ### [BGE 90 III 18](https://mcp.opencaselaw.ch/entscheid/bge_BGE_90_III_18) (1964)
 - **Thema**: Eigentumsvorbehalt und Beschlagnahme; Unzulässigkeit der Rücknahme zwecks Sicherstellung
 - **Kernaussage**: Die Beschlagnahme einer dem Gemeinschuldner unter Eigentumsvorbehalt verkauften und vom Verkäufer «zwecks Sicherstellung» zurückgenommenen Sache durch das Konkursamt ist unzulässig; Art. 232 Ziff. 4 SchKG ist nicht entsprechend anwendbar (E. 2).
-- **Konkreter Sachverhalt**: Verkäufer nahme die unter Eigentumsvorbehalt veräusserte Sache nach Konkurseröffnung in Besitz; Konkursamt beschlagnahmte den Gegenstand. BGer hob die Beschlagnahme auf.
+- **Konkreter Sachverhalt**: Verkäufer nahm die unter Eigentumsvorbehalt veräusserte Sache nach Konkurseröffnung in Besitz; Konkursamt beschlagnahmte den Gegenstand. BGer hob die Beschlagnahme auf.
 - **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 232 Ziff. 4 SchKG
 
 ---
@@ -43,14 +48,55 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGE 128 V 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-V-10_2002.html) (2002)
-- **Thema**: Zweck der Inventaraufnahme; Überblick über die Aktiven der Masse
-- **Kernaussage**: Die Inventaraufnahme nach Art. 221 SchKG dient dem Zweck, sich einen Überblick über die Aktiven der Konkursmasse zu verschaffen und die Grundlage für den Kollokationsplan und die Gläubigerversammlung zu bilden (E. 2).
+### [BGE 98 III 31](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-098-III-31_1972-06-14.html) (1972)
+- **Thema**: Unpfändbarkeit von Berufswerkzeugen; Zeitpunkt der Inventaraufnahme
+- **Kernaussage**: Massgebend für die Bestimmung der Kompetenzqualität eines Personenwagens im Konkursverfahren sind die Verhältnisse im Zeitpunkt der Inventaraufnahme (Bestätigung der Rechtsprechung). Die bevorstehende Kündigung des Arbeitsverhältnisses und die dadurch bedingte allfällige Veränderung der Lage des Schuldners können dabei keine Berücksichtigung finden (E. 1).
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 92 Ziff. 3 SchKG
+
+---
+
+### [BGE 119 III 28](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-119-III-28_1993-02-01.html) (1993)
+- **Thema**: Einstellung des Konkurses mangels Aktiven; unentgeltliche Rechtspflege
+- **Kernaussage**:
+  1. Stellt der Konkursbeamte bei der Inventaraufnahme (Art. 221 SchKG) fest, dass sich in der Masse keine verwertbaren Aktiven vorfinden, zeigt er dies dem Konkursgericht an (Art. 230 Abs. 1 SchKG). Die Einstellung richtet sich nach materiellrechtlichen Voraussetzungen (E. 2b/aa).
+  2. Die Gewährung der unentgeltlichen Prozessführung begründet keinen voraussetzungslosen Anspruch auf Durchführung des Konkursverfahrens. Dass der Schuldner bedürftig ist, entbindet ihn nicht davon, verwertbares Vermögen vorzuweisen (E. 2b/bb).
+- **Konkreter Sachverhalt**: Schuldner begehrte die Durchführung des Konkursverfahrens nach Einstellung mangels Aktiven; Streit um die Voraussetzungen der unentgeltlichen Rechtspflege.
+- **Einschlägig für**: Art. 221, 230 SchKG; Art. 4 BV (nun Art. 29 BV); unentgeltliche Rechtspflege
+
+---
+
+### [BGE 119 III 113](https://mcp.opencaselaw.ch/entscheid/bge_BGE_119_III_113) (1993)
+- **Thema**: Unentgeltliche Rechtspflege im Konkursverfahren; Aussichtslosigkeit der Insolvenzerklärung
+- **Kernaussage**: Der Schuldner kann im Konkursverfahren zufolge Insolvenzerklärung die unentgeltliche Rechtspflege unter den allgemeinen Voraussetzungen beanspruchen. Die Insolvenzerklärung ist aussichtslos, wenn feststeht, dass der Schuldner keine Aktiven besitzt; sie ist nicht aussichtslos, wenn der Schuldner glaubhaft gemacht hat, dass er wenigstens über so viele Vermögenswerte verfügt, wie für eine Verhinderung der durch Art. 230 SchKG drohenden Einstellung erforderlich sind (E. 3).
+- **Einschlägig für**: Art. 4 BV (nun Art. 29 BV); Art. 191, 230 SchKG
+
+---
+
+### [BGE 100 III 19](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-100-III-19_1974-03-21.html) (1974)
+- **Thema**: Verbindlichkeit des Konkursdekrets für die Konkursbehörden
+- **Kernaussage**: Konkursbeamter und Aufsichtsbehörde können ein Konkursdekret jedenfalls dann nicht auf seine Gesetzmässigkeit überprüfen, wenn mit der Durchführung des Konkurses bereits begonnen worden ist (E. 2). Mit der Inventaraufnahme beginnt die Durchführung des Konkurses in diesem Sinne.
+- **Konkreter Sachverhalt**: Konkursamt weigerte sich, den Konkurs über einen Verein durchzuführen, weil es die Konkurseröffnung für rechtswidrig hielt. BGer hielt fest, dass das Konkursamt an das Konkursdekret gebunden ist, sobald die Durchführung begonnen hat.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 171 SchKG
+
+---
+
+### [BGE 128 V 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-128-V-10_2002-01-22.html) (2002)
+- **Thema**: Zweck der Inventaraufnahme; Schätzwert; Arbeitgeberhaftung im Konkurs
+- **Kernaussage**: Die Inventaraufnahme nach Art. 221 SchKG dient dem Zweck, sich einen Überblick über die Aktiven der Konkursmasse zu verschaffen. In das Inventar werden sämtliche Vermögenswerte mit dem Schätzwert aufgenommen (E. 2).
 - **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 232, 236 SchKG
 
 ---
 
-## II. Weitere Entscheide des Bundesgerichts (2009–2024)
+### [BGE 141 III 590](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-590_2015.html) (2015)
+- **Thema**: Einstellung des Konkursverfahrens mangels Aktiven; Kostensicherheit; Anfechtung der Einstellungsverfügung
+- **Kernaussage**:
+  1. Das Recht des Gläubigers, nach Einstellung des Konkursverfahrens mangels Aktiven die Durchführung des Verfahrens zu verlangen und die Sicherheit für die nicht gedeckten Kosten zu leisten, schliesst die Anfechtung der Einstellungsverfügung des Konkursgerichts nicht aus (E. 3).
+  2. Der Antrag des Konkursamtes auf Einstellung ist keine Verfügung, die mit Beschwerde nach Art. 17 SchKG anfechtbar wäre (E. 3.2).
+- **Einschlägig für**: Art. 221, 230 SchKG; Art. 319 ff. ZPO
+
+---
+
+## II. Weitere Entscheide des Bundesgerichts (2009–2026)
 
 ### [BGer 5A_763/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-763-2024_2025-05-07.html) (7. Mai 2025)
 - **Thema**: Konkursamtliche Siegelung; Rechtspflege; unverzügliche Inventaraufnahme
@@ -92,18 +138,60 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGer 5A_580/2009](https://mcp.opencaselaw.ch/entscheid/bger_5A_580_2009) (2009)
+### [BGer 5A_580/2009](https://mcp.opencaselaw.ch/entscheid/bger_5A_580_2009) (2. Dezember 2009)
 - **Thema**: Siegelung; Sicherungsmassnahmen; Beschwerde gegen Siegelung
 - **Kernaussage**: Die konkursamtliche Siegelung ist eine mit der Inventaraufnahme einhergehende Sicherungsmassnahme. Beschwerdelegitimiert gegen die Siegelung sind sowohl der Gemeinschuldner als auch die Gläubiger, die durch die Massnahme in ihren Interessen betroffen sind.
 - **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 223 SchKG
 
 ---
 
-### [BGer 5A_83/2010](https://mcp.opencaselaw.ch/entscheid/bger_5A_83_2010) (2010)
+### [BGer 5A_624/2009](https://mcp.opencaselaw.ch/entscheid/bger_5A_624_2009) (2. Dezember 2009)
+- **Thema**: Sicherungsmassnahmen im Konkursverfahren; polizeiliche Hilfe
+- **Kernaussage**: Die Sicherungsmassnahmen nach Art. 221 SchKG gehen mit der Inventaraufnahme einher. Das Konkursamt kann bei der Durchführung der Sicherungsmassnahmen polizeiliche Hilfe in Anspruch nehmen (Art. 15 Abs. 1 SchKG). Die Aufsichtsbehörde hat die Beschwerde gegen die Siegelung zu beurteilen.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 223 SchKG; Art. 15 Abs. 1 SchKG
+
+---
+
+### [BGer 5A_83/2010](https://mcp.opencaselaw.ch/entscheid/bger_5A_83_2010) (11. März 2010)
 - **Thema**: Partikularkonkurs; Inventaraufnahme im internationalen Verhältnis
 - **Kernaussage**: Im Rahmen eines Partikularkonkurses nach dem IPRG dürfen nur die in der Schweiz gelegenen Vermögenswerte inventarisiert werden. Die Belegenheit von Forderungen bestimmt sich nach Art. 167 Abs. 3 IPRG.
 - **Konkreter Sachverhalt**: Inventaraufnahme im Partikularkonkurs; Umfang der zu inventarisierenden Vermögenswerte.
 - **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 166 ff. IPRG
+
+---
+
+### [BGer 5A_218/2010](https://mcp.opencaselaw.ch/entscheid/bger_5A_218_2010) (30. Juli 2010)
+- **Thema**: Aussonderung und Admassierung im Konkurs; Rechtshilfe bei der Inventaraufnahme
+- **Kernaussage**: Das Konkursamt nimmt Gegenstände, an denen ein Dritter Eigentum beansprucht, in das Inventar auf und vermerkt den Drittwiderspruch. Die Klärung der Eigentumsverhältnisse obliegt dem Aussonderungs- bzw. Admassierungsprozess nach Art. 238 und 239 SchKG.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 238, 239 SchKG; Art. 13 SchKG
+
+---
+
+### [BGer 5A_743/2011](https://mcp.opencaselaw.ch/entscheid/bger_5A_743_2011) (13. Juni 2012)
+- **Thema**: Konkursamtliche Gebühren bei der Inventaraufnahme; Kostenvorschuss
+- **Kernaussage**: Für die Inventaraufnahme und die Erstellung des vorläufigen Gläubigerverzeichnisses erhebt das Konkursamt Gebühren nach der Gebührenverordnung SchKG. Die Gebühr von Fr. 50.– pro halbe Stunde ist zulässig.
+- **Einschlägig für**: Art. 221 SchKG; Art. 44 lit. e GebV SchKG
+
+---
+
+### [BGer 5A_76/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-76-2019_2019-07-15.html) (15. Juli 2019)
+- **Thema**: Rechtsverweigerung; unterlassene Inventaraufnahme und Siegelung
+- **Kernaussage**: Ein systematisches Zuwarten mit der Inventaraufnahme und der Siegelung kann eine Rechtsverweigerung darstellen (E. 3.4). Die Aufsichtsbehörde hat sich nicht nur zur Inventaraufnahme, sondern auch zu den Sicherungsmassnahmen (Art. 223 SchKG) geäussert.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 223 SchKG; Art. 17 SchKG
+
+---
+
+### [BGer 5A_235/2007](https://mcp.opencaselaw.ch/entscheid/bger_5A_235_2007) (14. November 2007)
+- **Thema**: Konkurseröffnung ohne vorgängige Betreibung; Verbindlichkeit des Konkursdekrets
+- **Kernaussage**: Das Konkursamt hat keine Prüfungsbefugnis hinsichtlich der Voraussetzungen der Konkurseröffnung, wenn mit der Durchführung des Konkurses bereits begonnen worden ist. Die Inventaraufnahme nach Art. 221 SchKG markiert den Beginn der Durchführung.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 190 SchKG; Art. 171 SchKG
+
+---
+
+### [BGer 5A_956/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_956_2025) (5. Februar 2026)
+- **Thema**: Kontosperre nach Konkurseröffnung; beschränkte Freigabe
+- **Kernaussage**: Die Sperrung von Bankkonten gehört zu den Sicherungsmassnahmen nach Art. 221 SchKG i.V.m. Art. 204 ff. SchKG. Streitigkeiten über die Freigabe von Konten sind im Beschwerdeweg nach Art. 17 SchKG zu lösen.
+- **Einschlägig für**: Art. 221 Abs. 1 SchKG; Art. 174, 204 SchKG; Art. 17 SchKG
 
 ---
 
@@ -137,4 +225,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
