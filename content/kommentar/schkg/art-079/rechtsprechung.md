@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 79 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 79 SchKG — Beseitigung des Rechtsvorschlags, Anerkennungsklage, Verwaltungsverfahren, Dispositivzusatz, Grenzkasuistik."
-tags: ["Rechtsprechung", "SchKG", "Rechtsvorschlag", "Anerkennungsklage", "Rechtsöffnung", "Verwaltungsverfahren", "Grenzkasuistik"]
+lastmod: 2026-09-13
+description: "Übersicht der Rechtsprechung zu Art. 79 SchKG — Beseitigung des Rechtsvorschlags, Anerkennungsklage, Verwaltungsverfahren, Dispositivzusatz, Zustellung, Einwendungen, Grenzkasuistik."
+tags: ["Rechtsprechung", "SchKG", "Rechtsvorschlag", "Anerkennungsklage", "Rechtsöffnung", "Verwaltungsverfahren", "Zustellung", "Dispositivzusatz", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: BGE 119 V 329 (Verwaltungsverfahren, Einwendungen), BGE 128 III 39 (Radio-/TV-Gebühren), BGE 130 III 396 (Krankenkassen), BGE 147 III 41 (Nichtbekanntgabe), BGE 110 III 13 (Abstandserklärung), BGer 5A_547/2015 (Zustellung) neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -37,8 +42,30 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
   1. Krankenversicherer dürfen ihre Verfügungen, mit denen sie den Rechtsvorschlag beseitigen, mit A-Post Plus zustellen (E. 2.1).
   2. Art. 79 SchKG behandelt den Zivilprozess und das Verwaltungsverfahren gleichwertig (E. 2.5).
   3. Für die ordnungsgemässe Zustellung ist die Verwaltungsbehörde beweisbelastet (E. 2.4.1).
+  4. Nicht erforderlich ist, dass der Empfänger vom Brief tatsächlich Kenntnis nimmt; die Vermutung des guten Glaubens der Post reicht aus (E. 2.4.1).
 - **Konkreter Sachverhalt**: Krankenversicherer erliess eine Beitragsverfügung, mit welcher der Rechtsvorschlag für Prämienausstände aufgehoben wurde, und stellte diese per A-Post Plus zu.
-- **Einschlägig für**: Art. 79 SchKG; Art. 54 ATSG
+- **Einschlägig für**: Art. 79 SchKG; Art. 54 ATSG; Art. 34 ATSG
+
+---
+
+### [BGE 119 V 329](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-329_1993-06-29.html) (1993)
+- **Thema**: Beseitigung des Rechtsvorschlags im Verwaltungsverfahren; Einwendungen des Schuldners nach Art. 81 Abs. 2 SchKG
+- **Kernaussage**:
+  1. Wenn die Fortsetzung der Betreibung gestützt auf einen gemäss Art. 79 SchKG erwirkten rechtskräftigen Entscheid einer ausserkantonalen Verwaltungs- oder Rekursbehörde verlangt wird, stehen dem Schuldner die Einwendungen nach Art. 81 Abs. 2 SchKG offen (E. 2b, 4, 5a).
+  2. Hat das Eidgenössische Versicherungsgericht den Rechtsvorschlag im Dispositiv seines Urteils selbst beseitigt, verliert der Schuldner diese Einwendungen (E. 5b).
+  3. Die Krankenkassen können über den materiellen Anspruch Verfügungen erlassen und gleichzeitig den Rechtsvorschlag beseitigen (E. 2b).
+- **Konkreter Sachverhalt**: AHV-Ausgleichskasse hatte den Rechtsvorschlag durch Verfügung beseitigt; Streit um die Einwendungen des Schuldners.
+- **Einschlägig für**: Art. 79 SchKG; Art. 81 Abs. 2 SchKG; Art. 97 Abs. 4 AHVG
+
+---
+
+### [BGE 128 III 39](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-39_2002.html) (2001)
+- **Thema**: Beseitigung des Rechtsvorschlags im Verwaltungsverfahren; Radio- und Fernsehempfangsgebühren; Gesetzliche Delegation
+- **Kernaussage**:
+  1. Die Beseitigung des Rechtsvorschlags durch Verfügung von Verwaltungsbehörden ist zulässig (E. 2).
+  2. Der Bundesrat hat die im RTVG enthaltene Gesetzesdelegation nicht überschritten, als er der Schweizerischen Inkassostelle für Radio- und Fernsehempfangsgebühren die Befugnis zum Erlass von Verfügungen zur Erhebung von Empfangsgebühren übertragen hat (E. 3 und 4).
+- **Konkreter Sachverhalt**: Seracon AG (ehemals Billag) beseitigte den Rechtsvorschlag durch Verfügung; Streit um die Verfügungskompetenz.
+- **Einschlägig für**: Art. 79 Abs. 1 SchKG; Art. 55 RTVG; Art. 48 RTVV
 
 ---
 
@@ -52,27 +79,49 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGE 147 III 41](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-41_2021.html) (2018)
+- **Thema**: Nichtbekanntgabe der Betreibung an Dritte; Einleitung eines Beseitigungsverfahrens
+- **Kernaussage**:
+  1. Hat der Betreibungsgläubiger ein Verfahren zur Beseitigung des Rechtsvorschlages (Art. 79–84 SchKG) eingeleitet, gibt das Betreibungsamt Dritten von der Betreibung Kenntnis (Art. 8a Abs. 3 lit. d SchKG).
+  2. Das Unterliegen des Betreibungsgläubigers in der Rechtsöffnung (Art. 80 ff. SchKG) steht der Bekanntgabe nicht entgegen (E. 3).
+- **Einschlägig für**: Art. 8a Abs. 3 lit. d SchKG; Art. 79–84 SchKG
+
+---
+
 ## II. Weitere Entscheide des Bundesgerichts
+
+### [BGE 130 III 396](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-396_2004.html) (2004)
+- **Thema**: Beseitigung des Rechtsvorschlags durch Krankenkassen; Verwaltungsverfahren
+- **Kornaussage**: Krankenkassen, die wie Billag den Rechtsvorschlag im Verwaltungsverfahren beseitigen können, müssen dem Schuldner die Verfügung mit Rechtsmittelbelehrung eröffnen und die Rechtsmittelfrist abwarten, bevor sie das Fortsetzungsbegehren stellen.
+- **Einschlägig für**: Art. 79 SchKG; Art. 54 ATSG
+
+---
+
+### [BGE 110 III 13](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-110-III-13_1984.html) (1984)
+- **Thema**: Abstandserklärung und kantonales Verfahrensrecht als Rechtsöffnungstitel
+- **Kornaussage**: Der Rechtsvorschlag kann nur durch ein vollstreckbares Urteil oder einen gleichwertigen Rechtstitel beseitigt werden. Ob einer Abstandserklärung nach bernischem Zivilprozessrecht dieselbe Wirkung zukommt wie einem Urteil, entscheidet sich nach kantonalem Recht, dessen Anwendung vom Bundesgericht im Rahmen des Rekursverfahrens gemäss Art. 19 SchKG nicht überprüft werden kann.
+- **Einschlägig für**: Art. 79 SchKG; Art. 80 SchKG; Art. 19 SchKG
+
+---
 
 ### [BGer 5A_299/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-299-2024_2024-09-19.html) (19. September 2024)
 - **Thema**: Aufhebung/Einstellung der Betreibung (Art. 85 SchKG); Beseitigung des Rechtsvorschlags im Zivilprozess
-- **Kernaussage**: Bestätigt die Praxis, dass die Beseitigung des Rechtsvorschlags im Zivilprozess einen ausdrücklichen Dispositivantrag erfordert und das Betreibungsamt nicht ermächtigt ist, den Zahlungstitel eigenmächtig als Beseitigung des Rechtsvorschlags zu qualifizieren.
-- **Konkreter Sachverhalt**: Kläger hatte im Zivilverfahren die Beseitigung des Rechtsvorschlags beantragt; das Gericht wies das Begehren teilweise ab. Streit über den Umfang der Betreibungsfortsetzung.
+- **Kornaussage**: Bestätigt die Praxis, dass die Beseitigung des Rechtsvorschlags im Zivilprozess einen ausdrücklichen Dispositivantrag erfordert und das Betreibungsamt nicht ermächtigt ist, den Zahlungstitel eigenmächtig als Beseitigung des Rechtsvorschlags zu qualifizieren.
 - **Einschlägig für**: Art. 79 SchKG; Art. 85 SchKG; Art. 81 Abs. 1 SchKG
 
 ---
 
 ### [BGer 5A_843/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-843-2014_2015-03-17.html) (17. März 2015)
 - **Thema**: Schiedsgerichtsbarkeit und Rechtsvorschlagsbeseitigung; Vollstreckbarkeitsbescheinigung
-- **Kernaussage**: Reicht ein Gläubiger Schiedsklage ein, kann das Schiedsgericht im Schiedsspruch den Rechtsvorschlag beseitigen. Der Schiedsspruch gilt mit der Vollstreckbarkeitsbescheinigung nach Art. 386 Abs. 3 ZPO als vollstreckbarer Entscheid im Sinne von Art. 79 SchKG (E. 3).
+- **Kornaussage**: Reicht ein Gläubiger Schiedsklage ein, kann das Schiedsgericht im Schiedsspruch den Rechtsvorschlag beseitigen. Der Schiedsspruch gilt mit der Vollstreckbarkeitsbescheinigung nach Art. 386 Abs. 3 ZPO als vollstreckbarer Entscheid im Sinne von Art. 79 SchKG (E. 3).
 - **Einschlägig für**: Art. 79 SchKG; Art. 386 Abs. 3 ZPO
 
 ---
 
-### [BGE 128 III 39](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-39_2001.html) (2001)
-- **Thema**: Beseitigung des Rechtsvorschlags im Verwaltungsverfahren; Radio- und Fernsehempfangsgebühren
-- **Kernaussage**: Die Beseitigung des Rechtsvorschlags durch Verfügung von Verwaltungsbehörden ist zulässig, wenn die gesetzlichen Voraussetzungen erfüllt sind. Seracon AG (ehemals Billag) konnte den Rechtsvorschlag durch formelle Verfügung beseitigen (E. 2).
-- **Einschlägig für**: Art. 79 Abs. 1 SchKG; Art. 55 RTVG
+### [BGer 5A_547/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-547-2015_2016-07-04.html) (4. Juli 2016)
+- **Thema**: Zustellung der Rechtsöffnungsverfügung; A-Post Plus bei Krankenkassen
+- **Kornaussage**: Krankenkassen können ihre Verfügungen, mit denen sie den Rechtsvorschlag beseitigen, mit A-Post Plus zustellen. Für mindestens eine Verfahrenshandlung — sei es der Beginn (Aufforderung zur Stellungnahme) oder der Abschluss (Eröffnung der Verfügung) — muss die Organisation den Zustellbeweis erbringen.
+- **Einschlägig für**: Art. 79 SchKG; Art. 34 ATSG; Art. 138 Abs. 1 ZPO
 
 ---
 
@@ -106,4 +155,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
