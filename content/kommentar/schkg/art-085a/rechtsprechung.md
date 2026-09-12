@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 85a SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 85a SchKG — Negative Feststellungsklage, vorläufige Einstellung, Beweismass, Drittpfandsteller, Konkurs des Klägers, Betreibungsregister."
-tags: ["Rechtsprechung", "SchKG", "Feststellungsklage", "negative Feststellungsklage", "Beweismass", "Betreibungsregister", "Konkurs", "Grenzkasuistik"]
+lastmod: 2026-09-13
+description: "Übersicht der Rechtsprechung zu Art. 85a SchKG — Negative Feststellungsklage, vorläufige Einstellung, Beweismass, Drittpfandsteller, Konkurs des Klägers, Betreibungsregister, Verhältnis zu Art. 85 und Art. 8a, Rückzug als Rechtsöffnungstitel."
+tags: ["Rechtsprechung", "SchKG", "Feststellungsklage", "negative Feststellungsklage", "Beweismass", "Betreibungsregister", "Konkurs", "Aufhebungsklage", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: BGE 140 III 41 (Verhältnis Art. 85/85a, Notbehelf), BGE 147 III 544 (Nichtbekanntgabe/Jahresfrist Art. 8a), BGE 148 III 30 (Rückzug kein Rechtsöffnungstitel), BGer 4A_619/2023 (vorsorgliche Massnahmen) als neue Leitentscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -77,6 +82,18 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGE 140 III 41](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-41_2014.html) (2014)
+- **Thema**: Aufhebungsklage nach Art. 85 SchKG; Verhältnis zu Art. 85a SchKG; Beweismass; Klage vor Beseitigung des Rechtsvorschlages
+- **Kernaussage**:
+  1. Der Betriebene kann die Klage gemäss Art. 85 SchKG vor Beseitigung des Rechtsvorschlages erheben und durch Urkunden das Nichtbestehen der Schuld beweisen (E. 3).
+  2. Die Klage nach Art. 85a SchKG wurde als «Notbehelf» eingeführt, der dem Schuldner mangels Urkunden den Zugang zum Zivilrichter eröffnen sollte; diese Einschränkung ist aufgegeben (E. 3.2.2).
+  3. Mit der Klage nach Art. 85a SchKG wird der Gläubiger unter der Gefahr des materiellen Rechtsverlustes zum Beweis seiner Forderung gezwungen; mit der Klage nach Art. 85 SchKG wird der Gläubiger viel weniger beeinträchtigt — er kann bei Unterliegen immer noch mit der Forderungsklage vorgehen (E. 3.2.3).
+  4. Der Nachweis des Nichtbestehhens der Forderung kann durch einen gerichtlichen negativen Feststellungsentscheid oder durch andere Urkunden (negatives Schuldanerkenntnis, Saldoquittung) erbracht werden; ein Indizienbeweis genügt nicht (E. 3.3.2).
+- **Konkreter Sachverhalt**: Betriebener erhob Aufhebungsklage nach Art. 85 SchKG vor Beseitigung des Rechtsvorschlages und begehrte Aufhebung der Betreibung sowie Nichtbekanntgabe an Dritte.
+- **Einschlägig für**: Art. 85 SchKG; Art. 85a SchKG; Art. 8a Abs. 3 lit. d SchKG
+
+---
+
 ### [BGE 141 III 68](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-68_2015.html) (2015)
 - **Thema**: Negative Feststellungsklage; gelockerte Voraussetzungen; Feststellungsinteresse
 - **Kernaussage**:
@@ -85,6 +102,28 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
   3. Die Klage ist ungeachtet eines erhobenen Rechtsvorschlages zulässig; der Schuldner muss nicht abwarten, bis der Gläubiger Rechtsöffnung verlangt (E. 2.7).
 - **Konkreter Sachverhalt**: Gläubiger betrieb ohne tatsächliche Forderung; Schuldner erhob Rechtsvorschlag und Feststellungsklage.
 - **Einschlägig für**: Art. 85a SchKG; Art. 88 i.V.m. Art. 59 Abs. 2 lit. a ZPO
+
+---
+
+### [BGE 147 III 544](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-544_2021.html) (2021)
+- **Thema**: Nichtbekanntgabe der Betreibung an Dritte; Jahresfrist nach Art. 88 Abs. 2 SchKG; Verhältnis zu Art. 85a SchKG
+- **Kernaussage**:
+  1. Nach Ablauf der Jahresfrist für die Gültigkeit des Zahlungsbefehls gemäss Art. 88 Abs. 2 SchKG kann der Schuldner kein Gesuch um die Nichtbekanntgabe der Betreibung an Dritte nach Art. 8a Abs. 3 lit. d SchKG mehr stellen (E. 3).
+  2. Das Recht des Gläubigers, die Fortsetzung der Betreibung zu verlangen, erlischt nach Ablauf der Jahresfrist; der Zahlungsbefehl verliert seine Gültigkeit und die Betreibung fällt dahin (E. 3.3).
+  3. Die negative Feststellungsklage nach Art. 85a SchKG bleibt dem Schuldner als Rechtsschutzinstrument vorbehalten, auch nach Ablauf der Jahresfrist (E. 3.4.6).
+  4. Die neue Praxis des Bundesgerichts (BGE 141 III 68) hat die Voraussetzungen für die Feststellungsklage gelockert; das Ansinnen, das Einsichtsrecht in das Betreibungsregister einzuschränken, vermag ein rechtsgenügliches Interesse an der Klage zu begründen (E. 3.4.6).
+- **Konkreter Sachverhalt**: Schuldnerin stellte nach Ablauf der Jahresfrist von Art. 88 Abs. 2 SchKG ein Gesuch um Nichtbekanntgabe der Betreibung an Dritte; das Gesuch wurde abgewiesen.
+- **Einschlägig für**: Art. 8a Abs. 3 lit. d SchKG; Art. 85a SchKG; Art. 88 Abs. 2 SchKG
+
+---
+
+### [BGE 148 III 30](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-30_2022.html) (2022)
+- **Thema**: Verhältnis der Anerkennungsklage zur Rechtsöffnung; Wirkung des Rückzugs einer negativen Feststellungsklage
+- **Kernaussage**:
+  1. Die Rechtshängigkeit einer Anerkennungsklage hindert die Einleitung oder Weiterführung eines Rechtsöffnungsverfahrens nicht (E. 2).
+  2. Der Rückzug einer negativen Feststellungsklage stellt **keinen definitiven Rechtsöffnungstitel** dar (E. 3). Auch ein Anerkenntnis im Feststellungsverfahren kann nicht als rechtskräftiger Entscheid über den Bestand der Forderung qualifiziert werden, wenn die Klage zurückgezogen wird.
+- **Konkreter Sachverhalt**: Gläubiger begehrte definitive Rechtsöffnung gestützt auf den Rückzug der negativen Feststellungsklage durch den Schuldner; BGer verneinte den Rechtsöffnungstitel.
+- **Einschlägig für**: Art. 80 Abs. 2 Ziff. 1 SchKG; Art. 85a SchKG; Art. 88 SchKG
 
 ---
 
@@ -108,6 +147,15 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 - **Thema**: Beweismass bei der vorläufigen Einstellung nach Art. 85a Abs. 2 SchKG
 - **Kornaussage**: Der Massstab der «sehr wahrscheinlichen Begründetheit» liegt zwischen der blossem Glaubhaftmachung und dem strikten Vollbeweis. Das Gericht würdigt die Beweismittel frei und entscheidet nach der Interessenabwägung: Je gravierender die nachteiligen Wirkungen der Betreibung für den Schuldner, desto eher genügt eine hohe Wahrscheinlichkeit des Nichtbestehens der Schuld (E. 3).
 - **Einschlägig für**: Art. 85a Abs. 2 SchKG; Art. 261 ZPO
+
+---
+
+### [BGer 4A_619/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-619-2023_2024-02-28.html) (28. Februar 2024)
+- **Thema**: Vorsorgliche Massnahmen nach Art. 268 ZPO i.V.m. Art. 85a Abs. 2 SchKG; negative Feststellungsklage und superprovisorische Einstellung
+- **Kornaussage**:
+  1. Neben der Einstellung nach Art. 85a Abs. 2 SchKG kann der Kläger vorsorgliche Massnahmen nach Art. 261 ff. ZPO beantragen (E. 3).
+  2. Die Voraussetzungen der superprovisorischen Massnahme nach Art. 268 ZPO und der Einstellung nach Art. 85a Abs. 2 SchKG können kumulativ geprüft werden.
+- **Einschlägig für**: Art. 85a Abs. 2 SchKG; Art. 261, 268 ZPO
 
 ---
 
@@ -141,4 +189,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
