@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 73 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 73 SchKG — Einsichtsrecht des Schuldners, Vorlagepflicht des Gläubigers, Fristhemmung, Prozesskostenfolgen, Umschreibungspflicht."
-tags: ["Rechtsprechung", "SchKG", "Einsichtsrecht", "Beweismittel", "Forderungsübersicht", "Prozesskosten", "Rechtsvorschlag"]
+lastmod: 2026-09-13
+description: "Übersicht der Rechtsprechung zu Art. 73 SchKG — Einsichtsrecht des Schuldners, Vorlagepflicht des Gläubigers, Fristhemmung, Prozesskostenfolgen, Umschreibungspflicht, Beweismass, Gebührenfreiheit."
+tags: ["Rechtsprechung", "SchKG", "Einsichtsrecht", "Beweismittel", "Forderungsübersicht", "Prozesskosten", "Rechtsvorschlag", "Beweismass", "Gebührenfreiheit"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: BGE 149 III 268 (Streitgegenstand/Umschreibung) neu aufgenommen; BGE 149 III 218 E. 2.2 vertieft; BGer 5A_838/2016 (Umschreibung) neu; SH Obergericht 93/2010/18A (Gebührenfreiheit) neu; ZH Obergericht PS250375, AG Obergericht KBE.2025.67, ZG Obergericht BA 2023 75 (Beweismass kantonale Rspr.) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -40,9 +45,21 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 - **Kernaussage**:
   1. Die Erhebung des Rechtsvorschlags per E-Mail ist zulässig; es gilt jedoch ein strenges Empfangsprinzip (E. 2.1).
   2. Die Aufforderung nach Art. 73 SchKG hemmt die 10-tägige Rechtsvorschlagsfrist nicht (E. 2.2.2).
-  3. Der Schuldner trägt die Beweislast für die rechtzeitige Erhebung des Rechtsvorschlags; als Beweismass gilt die volle Überzeugung (E. 2.2.4).
+  3. Der Schuldner trägt die Beweislast für die rechtzeitige Erhebung des Rechtsvorschlags; als Beweismass gilt die volle Überzeugung (E. 2.2.2 und 2.2.4).
+  4. Allein das Absenden einer E-Mail begründet noch keine erfolgreiche Mitteilung; ein Computerausdruck der gesendeten E-Mail genügt als Beweismittel nicht (E. 2.4).
 - **Konkreter Sachverhalt**: Schuldner behauptete, den Zahlungsbefehl nicht erhalten zu haben und Rechtsvorschlag per E-Mail erhoben zu haben; das Gericht verlangte den vollen Beweis des rechtzeitigen Eingangs.
 - **Einschlägig für**: Art. 73 SchKG; Art. 74 Abs. 1 SchKG; Art. 9 ZGB
+
+---
+
+### [BGE 149 III 268](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-149-III-268_2023.html) (2023)
+- **Thema**: Streitgegenstand des Betreibungsverfahrens; Umschreibung des Forderungsgrunds; Dispositionsmaxime
+- **Kernaussage**:
+  1. Die Angabe des Rechtsgrunds im Zahlungsbefehl führt nicht zu einer Beschränkung des Streitgegenstands der Betreibung auf den genannten Rechtsgrund (E. 4.3.4).
+  2. Streitgegenstand des Betreibungsverfahrens bildet der Bestand und die Fälligkeit der in Betreibung gesetzten Forderung zum Zeitpunkt der Einleitung der Betreibung (E. 4).
+  3. Eine knappe Umschreibung des Forderungsgrunds genügt, wenn dem Schuldner aus dem Gesamtzusammenhang erkennbar ist, wofür er belangt wird (E. 4.3.4 i.V.m. BGE 121 III 18 E. 2a).
+- **Konkreter Sachverhalt**: Streit um die Identität der in Betreibung gesetzten und der im Aberkennungsverfahren geltend gemachten Forderung.
+- **Einschlägig für**: Art. 73 SchKG; Art. 67 SchKG; Art. 58 Abs. 1 ZPO
 
 ---
 
@@ -87,6 +104,13 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGer 5A_838/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-838-2016_2017-03-13.html) (13. März 2017)
+- **Thema**: Umschreibungspflicht im Zahlungsbefehl; Nichtigkeit vs. Anfechtbarkeit bei mangelhafter Bezeichnung
+- **Kernaussage**: Ein ungenügend umschriebener Forderungsgrund führt nicht zur Nichtigkeit, sondern nur zur Anfechtbarkeit des Zahlungsbefehls. Der Schuldner kann den Zahlungsbefehl im Wege der Aufsichtbeschwerde anfechten oder Rechtsvorschlag erheben (E. 2.1).
+- **Einschlägig für**: Art. 67 SchKG; Art. 69 Abs. 2 SchKG; Art. 17 SchKG
+
+---
+
 ### [BGer 7B_184/2004](https://mcp.opencaselaw.ch/entscheid/bger_7B_184_2004) (28. September 2004)
 - **Thema**: Keine Sistierung der Betreibung bei Nichtvorlage von Beweismitteln; keine betreibungsrechtliche Sanktion
 - **Kernaussage**: Kommt der Gläubiger der Aufforderung nach Art. 73 Abs. 1 SchKG nicht nach, führt dies weder zur Sistierung der Betreibung noch zur Löschung im Betreibungsregister. Die einzige Sanktion besteht in den prozesskostenrechtlichen Folgen eines nachfolgenden Gerichtsverfahrens (E. 2).
@@ -112,6 +136,34 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ## III. Kantonale Rechtsprechung
 
+### [ZH Obergericht, PS250375](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS250375_2026-03-25.pdf) (25. März 2026)
+- **Thema**: Beweismass bei Rechtsvorschlag per E-Mail; Bestätigung von BGE 149 III 218
+- **Kernaussage**: Der Betriebene trägt die Beweislast für die rechtzeitige Erhebung des Rechtsvorschlags. Als Beweismass gilt die volle Überzeugung (BGE 149 III 218 E. 2.2.2 und 2.2.4). Allein das Absenden einer E-Mail begründet noch keinen erfolgreichen Beweis des rechtzeitigen Eingangs.
+- **Kanton**: Zürich (ZH)
+
+---
+
+### [AG Obergericht, KBE.2025.67](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_005_KBE-2025-67_2026-03-19.pdf) (19. März 2026)
+- **Thema**: Beweislast für Rechtsvorschlag; volle Überzeugung als Beweismass
+- **Kernaussage**: Der Betriebene trägt die Beweislast dafür, dass er rechtzeitig Rechtsvorschlag erhoben hat (BGE 149 III 218 E. 2.2.2). Es gilt das Regelbeweismass der vollen Überzeugung (BGE 149 III 218 E. 2.2.4).
+- **Kanton**: Aargau (AG)
+
+---
+
+### [SH Obergericht, 93/2010/18A](https://mcp.opencaselaw.ch/entscheid/sh_obergericht_93_2010_18A) (23. Dezember 2010)
+- **Thema**: Gebührenfreiheit der Belegvorlage nach Art. 73 SchKG; Gebührenpflicht für Akteneinsicht nach Art. 8a SchKG
+- **Kernaussage**: Die Vorlegung von Forderungstiteln nach Art. 73 SchKG und Auskünfte darüber sind gemäss Art. 12 Abs. 1 GebV SchKG gebührenfrei. Nur wenn der Zeitaufwand eine halbe Stunde übersteigt, wird eine Gebühr von 40 Franken pro weitere halbe Stunde erhoben (Art. 12 Abs. 2 GebV SchKG). Die Gebührenfreiheit bezieht sich nur auf die Art. 73 SchKG-Vorlage, nicht auf das allgemeine Einsichtsrecht nach Art. 8a SchKG.
+- **Kanton**: Schaffhausen (SH)
+
+---
+
+### [ZG Obergericht, BA 2023 75](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_003_BA-2023-75_2023-12-20.pdf) (20. Dezember 2023)
+- **Thema**: Beweismass bei Rechtsvorschlag per E-Mail; strenges Empfangsprinzip
+- **Kornaussage**: Bestätigt BGE 149 III 218 E. 2.1: Bei E-Mail-Eingaben gilt ein strenges Empfangsprinzip mit erheblichen Beweisrisiken. Als Beweismass gilt die volle Überzeugung (BGE 149 III 218 E. 2.2.2 und 2.2.4).
+- **Kanton**: Zug (ZG)
+
+---
+
 ### [ZH Obergericht, PS240083](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS240083_2024.pdf) (2024)
 - **Thema**: Belegvorlagepflicht; Umfang der Forderungsübersicht; Verrechnungslagen
 - **Kornaussage**: Die Forderungsübersicht nach Art. 73 Abs. 1 SchKG muss alle gegenüber dem Schuldner fälligen Ansprüche umfassen, damit dieser allfällige Verrechnungslagen prüfen kann. Stillschweigende Verrechnungen ohne Offenlegung in der Übersicht können prozesskostenrechtliche Sanktionen nach sich ziehen.
@@ -133,4 +185,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
