@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: BGE 117 III 7 (Briefkasteneinwurfverbot) als Leitentscheid neu aufgenommen, BGer 5A_418/2017 (Zustellbescheinigung/Zweifel), BGE 138 III 25 (Abholungsgebühren), BGE 136 III 155 (Gebühren bei Abholung), BGer 5A_859/2020 (Ersatzzustellung), BE Obergericht ABS 2023 454 (Zustellbescheinigung) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 3 BGE-Leitentscheide (120 III 117, 128 III 101, 127 III 173), 6 BGer-Entscheide (2023–2026), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

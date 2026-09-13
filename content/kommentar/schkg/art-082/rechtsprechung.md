@@ -9,7 +9,7 @@ agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 5 BGE-Leitentscheide (132 III 140, 132 III 480, 134 III 267, 136 III 627, 139 III 297), 4 weitere BGer-Entscheide, 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

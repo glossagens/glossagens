@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17-22 neu (Dispositiv-Anforderung BGE 107 III 60, Aberkennungsurteil BGE 134 III 656, BVG-Auffangeinrichtung BGE 134 III 115, Prozessstandschaft BGE 142 III 78, Ausländische Titel/LugÜ BGE 141 III 28, Ausserkantonale Verwaltungsverfügung BGE 119 V 329); Grenzkasuistik und Praxisfragen ergänzt; 6 neue BGE-Leitentscheide in rechtsprechung.md; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet, Rz. 8-12 (Kasuistik) vertieft, Rz. 13-16 (Grenzkasuistik: Prüfungsbefugnis, EMRK, Unterhaltsvorbehalt, Mehrfachbetreibungen), Praxisfragen ergänzt; BGE 139 III 444, BGE 141 I 97, BGE 135 III 315, BGE 105 III 43 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: BGE 149 III 268 (Streitgegenstand/Umschreibung) neu aufgenommen; BGE 149 III 218 E. 2.2 vertieft; BGer 5A_838/2016 (Umschreibung) neu; SH Obergericht 93/2010/18A (Gebührenfreiheit) neu; ZH Obergericht PS250375, AG Obergericht KBE.2025.67, ZG Obergericht BA 2023 75 (Beweismass kantonale Rspr.) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 2 BGE-Leitentscheide (149 III 218, 121 III 18), 6 BGer-Entscheide (5A_14/2024, 5A_837/2018, 5A_861/2013, 7B_184/2004, 5A_582/2009, 5A_959/2019), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

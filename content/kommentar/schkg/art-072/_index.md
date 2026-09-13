@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–2 vertieft, Rz. 3 (Briefkasteneinwurfverbot nach BGE 117 III 7) neu, Rz. 5 (Beweiskraft und Zweifel an Zustellbescheinigung, BGer 5A_418/2017) vertieft, Rz. 6 (Gegenbeweis) ergänzt, Rz. 7–8 überarbeitet, Rz. 9 (Öffentliche Bekanntmachung) vertieft, Rz. 15–17 (Briefkasteneinwurfverbot, Abholungsgebühren, Zweifel an Zustellbescheinigung) neu in Grenzkasuistik; BGE 117 III 7, BGer 5A_418/2017, BGE 138 III 25, BGE 136 III 155, BGE 149 III 218 E. 2 integriert; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 überarbeitet und vertieft, Rz. 7–8 (Heilung, Ersatzzustellung und juristische Personen), Rz. 9 (Öffentliche Bekanntmachung), Rz. 10–14 (Grenzkasuistik: Zeugenbeweis, aufgelöste Adresse, Zivildienst, Zustellung an Bevollmächtigten, elektronische Zustellung), Praxisfragen ergänzt; BGer 5A_581/2025, BGer 5A_239/2025, BGer 5A_341/2025, BGer 5A_891/2023, BGer 5A_893/2023, BGE 120 III 117, BGE 128 III 101, BGE 127 III 173 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

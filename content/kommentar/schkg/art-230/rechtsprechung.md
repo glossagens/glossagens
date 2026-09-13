@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: BGE 151 III 190, BGE 130 III 481, BGer 5A_840/2015, BGer 5A_784/2015, BGer 5A_306/2014, BGer 5A_857/2020 als neue Leit- und BGer-Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 3 BGE-Leitentscheide (141 III 590, 134 III 136, 127 III 371), 4 weitere BGer-Entscheide (128 V 10, 132 III 89, 102 III 78, 90 II 247), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

@@ -9,7 +9,7 @@ agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-12 überarbeitet und vertieft, Rz. 13-16 (Grenzkasuistik: Vertragsübernahme, Rahmenkreditvertrag, Stockwerkeigentum, Kontokorrentkredit, zusammengesetzte Urkunde, Prüfungsbefugnis), Praxisfragen ergänzt; BGE 132 III 140, BGE 132 III 480, BGE 134 III 267, BGE 136 III 627, BGE 139 III 297, BGE 147 III 176 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

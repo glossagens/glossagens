@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Ergänzung: BGer 5A_497/2026 (rechtsmissbräuchliche Berufung auf Art. 22 SchKG), BGer 5A_131/2026 (Substantiierungspflicht vor Bundesgericht) ergänzt; Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 überarbeitet und vertieft, Rz. 7–9 (Nichtigkeitsfälle im Einzelnen), Rz. 10–13 (Grenzkasuistik), Rz. 14 (Selbstkorrektur und Ersetzung), Rz. 15 (Verhältnis zu Art. 17 SchKG), Praxisfragen erweitert; 12 neue Entscheide integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-09-01

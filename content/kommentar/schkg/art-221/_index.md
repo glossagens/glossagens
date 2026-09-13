@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 vertieft, Rz. 7–10 neu (Drittschutz, Beschlagnahmegrenzen, Siegelung, Gebühren), Rz. 11–16 (Grenzkasuistik) mit neuen Einträgen zu Konkurs mangels Aktiven, Verbindlichkeit des Konkursdekrets, Unpfändbarkeit im Inventar, Mitwirkungspflicht, Kontosperre; 6 Praxisfragen ergänzt; BGE 119 III 28, BGE 119 III 113, BGE 98 III 31, BGE 100 III 19, BGE 141 III 590, BGer 5A_624/2009, BGer 5A_218/2010, BGer 5A_235/2007 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 überarbeitet und vertieft, Rz. 7–10 (Drittschutz, Beschlagnahmegrenzen, Siegelung, Gebühren), Rz. 11–14 (Grenzkasuistik), Praxisfragen ergänzt; BGE 110 III 87, BGE 99 III 12, BGer 5A_264/2017, BGer 5A_763/2024, BGer 5A_580/2009, BGer 5A_788/2021, BGer 5A_80/2015 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-13

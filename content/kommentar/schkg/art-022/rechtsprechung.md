@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Ergänzung: BGer 5A_497/2026 (rechtsmissbräuchliche Berufung auf Art. 22 SchKG), BGer 5A_131/2026 (Substantiierungspflicht vor Bundesgericht) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 12 neue Entscheide mit Sachverhalten und Kernaussagen; BGer 5A_172/2024 (Rechtsmissbrauch/Fantasieforderung), BGer 5A_838/2016 (Nichtigkeitsgrenze), BGer 5A_937/2020 (Bestrittene Forderung), BGer 5A_576/2010 (Nichtigkeit der Konkurseröffnung), BGer 5A_104/2024 (Sistierung Pfändungsverfahren), BGer 5A_742/2025 (Nichtigkeit Konkurseröffnung), BGer 5A_597/2008 (Amtswegige Feststellung), BGE 140 III 481 (Rechtsmissbräuchliche Betreibung), BGE 125 III 337 (Verlustschein ohne Pfändung), BGE 131 III 237 (Freihandverkauf ohne Individualisierung), BGE 136 III 379 (Arrest und BIZ-Immunität), BGE 109 III 53 (Pfändung ohne Rechtsvorschlag); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-01

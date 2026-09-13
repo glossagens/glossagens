@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 6 neue BGE-Leitentscheide (107 III 60, 134 III 656, 134 III 115, 142 III 78, 141 III 28, 119 V 329) als systematische Ergänzung (Dispositiv-Anforderung, Aberkennungsurteil, BVG-Auffangeinrichtung, Prozessstandschaft, LugÜ, ausserkantonale Verfügung); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 5 BGE-Leitentscheide (143 III 564, 139 III 444, 135 III 315, 105 III 43, 148 III 225), 4 weitere BGer-Entscheide, 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

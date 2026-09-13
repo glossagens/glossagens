@@ -9,12 +9,12 @@ agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: 6 neue BGE-Leitentscheide (123 III 367, 119 III 22, 112 III 75, 88 III 109, 97 III 60, 81 III 7) und BGE 120 III 18 als systematische Ergänzung (Pfandverwertung, Vormerkungsgrenzen, Beschwerdelegitimation, Verwirkung, Aufklärungspflicht, Vermieterretention, Verrechnungseinrede); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: BGE 134 III 122, BGE 144 III 541, BGE 135 III 663, BGE 114 III 92, BGE 120 III 123, BGer 5A_743/2021, BGer 5A_342/2020, BGer 5A_53/2020, BGer 5A_864/2013, BGer 5A_338/2017 als systematische Ergänzung; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

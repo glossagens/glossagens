@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17–22 neu (Forderungspfändung und Verwirkung BGE 88 III 109/BGE 97 III 60, Pfandverwertung Analogie BGE 123 III 367, Grenzen der Vormerkung BGE 119 III 22, Vermieterretention BGE 81 III 7, Drittansprecher und Beschwerde BGE 112 III 75, Verrechnungseinrede BGE 120 III 18); rechtsprechung.md um 6 neue BGE-Leitentscheide ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet, Rz. 8-12 (Kasuistik) zu Grenzkasuistik Rz. 8-16 umstrukturiert (Durchgriff, Arrest, Zwangsvollstreckungsimmunität, Leasing, Simulation, Fristansetzung), Praxisfragen ergänzt; BGE 134 III 122, BGE 144 III 541, BGE 135 III 663, BGE 114 III 92, BGE 120 III 123, BGer 5A_743/2021, BGer 5A_342/2020, BGer 5A_53/2020, BGer 5A_864/2013, BGer 5A_338/2017 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

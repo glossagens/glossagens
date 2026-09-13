@@ -9,7 +9,7 @@ agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: BGE 151 III 516, BGE 143 III 173, BGE 130 III 241 vertieft; BGE 131 V 454 (Insolvenzentschädigung), BGE 147 III 226 (Verweigerung der definitiven Stundung), BGE 137 II 136 (Verrechnung öffentlich-rechtlicher Abgaben), BGE 150 III 137 (Sachwalterantrag) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29

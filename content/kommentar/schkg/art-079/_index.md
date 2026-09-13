@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–7 überarbeitet und vertieft, Rz. 8 (Zustellung), Rz. 9 (Einwendungen des Schuldners nach Art. 81 Abs. 2), Rz. 10 (Nichtbekanntgabe), Rz. 11–16 (Grenzkasuistik: Radio-/TV-Gebühren, Krankenkassen, Abstandserklärung, Rückzug, Fristenstillstand, Schiedsgericht); BGE 119 V 329, BGE 128 III 39, BGE 130 III 396, BGE 147 III 41, BGE 110 III 13, BGer 5A_547/2015 neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–3 überarbeitet und vertieft, Rz. 4–7 (Anerkennungsklage, Verwaltungsverfahren, Dispositivzusatz, Schiedsgericht), Rz. 8–12 (Grenzkasuistik: parallele Verfahren, negative Feststellungsklage, Rückzug, Fristenstillstand, Verwaltungsverfügungen), Praxisfragen ergänzt; BGE 148 III 30, BGE 142 III 599, BGE 107 III 60, BGE 128 III 39, BGer 5A_843/2014, BGer 5A_299/2024, BGer 4A_65/2024 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

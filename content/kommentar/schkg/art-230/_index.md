@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17-24 neu (Aufhebung Konkursbeschlag, Zeitpunkt Wiederaufleben, Pfändungsbetreibungsart, Kostenvorschussberechnung, Spezialliquidation, Art. 230a-Schnittstelle, Fristenstillstand-Konkretisierungen, Wiedereröffnung und Löschung); BGE 151 III 190, BGE 130 III 481, BGer 5A_840/2015, BGer 5A_784/2015, BGer 5A_306/2014, BGer 5A_857/2020; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet und vertieft, Rz. 8-12 (Kasuistik) zu Grenzkasuistik Rz. 8-16 umstrukturiert (Gläubigerbeschwerde, Kostenhaftung, Wiederaufleben, Verrechnung, AHV-Haftung, Löschung, Konkursmasse); Praxisfragen ergänzt; BGE 141 III 590, BGE 134 III 136, BGE 127 III 371, BGE 128 V 10, BGE 132 III 89, BGE 102 III 78 vertieft und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

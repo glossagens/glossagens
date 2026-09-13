@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17–20 (Verhältnis zu Art. 85, Nichtbekanntgabe nach Art. 8a, Rückzug als Rechtsöffnungstitel, Vorsorgliche Massnahmen) ergänzt; BGE 140 III 41, BGE 147 III 544, BGE 148 III 30, BGer 4A_619/2023 integriert und auf entscheidsuche.ch verlinkt; Praxisfragen erweitert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-6 überarbeitet und vertieft, Rz. 7-9 (Beweismass, zeitliche Schranken, Urteilswirkungen) präzisiert, Rz. 10-16 (Grenzkasuistik: Schikanebetreibung, Konkurs des Klägers, Drittpfandsteller, Betreibungsregister, Betreibungsrückzug, öffentlich-rechtliche Forderungen), Praxisfragen ergänzt; BGE 125 III 149, BGE 127 III 41, BGE 128 III 334, BGE 132 III 89, BGE 136 III 587, BGE 141 III 68, BGE 129 III 197, BGer 4A_580/2019 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 3 vertieft (Vorrang gilt auch für Beschlagnahme, BGer 5A_18/2024 E. 2.1), Rz. 4 (VStrR-Verfahren) neu aus BGer 5A_18/2024 E. 2.2, Rz. 5–6 vertieft, Rz. 7–8 (Sanktionsrecht) vertieft mit BGer 5A_18/2024 E. 2.3, Rz. 9 überarbeitet, Rz. 10–12 vertieft, Rz. 13 (Grundbuchsperre) neu, Rz. 14 (Ersatzforderungen, BGE 142 III 174) neu, Rz. 15 (Aufsichtsbeschwerde, BGer 5A_18/2024 E. 2.3) neu, Rz. 16–19 (Grenzkasuistik) neu; BGer 5A_18/2024, BGE 142 III 174, ZH Obergericht RT240048 ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-9 überarbeitet und vertieft, Rz. 10-15 Grenzkasuistik (strafrechtliche Beschlagnahme, fiskalische Beschlagnahme, bundesrätliche Guthabensperrung, Sanktionsrecht, Verwertungserlös, Konkursmasse); BGE 151 III 553 (Ukraine-Sanktionen) neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert; irrelevante Zitate entfernt."
   - date: "2026-08-13"

@@ -9,7 +9,7 @@ agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-13 überarbeitet und vertieft, Rz. 14-16 Grenzkasuistik (Hinterlegung unter Bedingung, Gesellschaftsorgane, Gläubigerbeschwerde bei Rechtsmissbrauch); BGE 135 III 31, BGE 135 III 509, BGE 149 III 186, BGE 150 III 262 vertieft und auf entscheidsuche.ch verlinkt; Praxisfragen ergänzt."
   - date: 2026-08-29

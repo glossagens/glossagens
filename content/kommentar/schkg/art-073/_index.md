@@ -9,12 +9,12 @@ agent_verified: true
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–4 vertieft, Rz. 5 (Gebührenfreiheit) neu, Rz. 6–8 (Fristhemmung, Betreibungsblockade, Prozesskosten) überarbeitet, Rz. 9 (Umfang der Vorlagepflicht) ergänzt, Rz. 10 (Abgrenzung Art. 73/Art. 67) vertieft mit BGE 149 III 268, Rz. 11–12 (Beweismass/Rechtsvorschlag per E-Mail, formloses Gesuch) neu, Rz. 13–19 Grenzkasuistik erweitert; BGE 149 III 268, BGE 149 III 218 E. 2, BGer 5A_838/2016, SH Obergericht 93/2010/18A neu integriert; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–4 überarbeitet und vertieft, Rz. 5–7 (Fristhemmung, Betreibungsblockade, Prozesskostenfolgen), Rz. 8 (Umfang der Vorlagepflicht), Rz. 9–14 (Grenzkasuistik), Praxisfragen ergänzt; BGE 149 III 218, BGE 121 III 18, BGer 5A_14/2024, BGer 7B_184/2004, BGer 5A_582/2009, BGer 5A_959/2019, BGer 5A_861/2013 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29

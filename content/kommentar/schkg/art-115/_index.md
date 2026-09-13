@@ -9,7 +9,7 @@ agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
-    model: "claude-fable-5-1"
+    model: "glm-5.1"
     mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-8 überarbeitet und vertieft, Rz. 9-13 (Kasuistik) zu Grenzkasuistik Rz. 9-16 umstrukturiert (Kosten/Zustellung, Rechtsöffnungswirkung, Ausgleichskassen, amtliche Schätzung, Nichtigkeit des Verlustscheins, Nachpfändungsfrist, Pfändungsanschluss); Praxisfragen ergänzt; BGE 150 III 223, BGE 115 III 138, BGE 125 III 337, BGE 105 III 60, BGE 96 III 111, BGE 88 III 59 vertieft und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
