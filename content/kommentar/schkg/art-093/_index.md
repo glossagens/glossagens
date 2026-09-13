@@ -2,11 +2,16 @@
 title: "Art. 93 SchKG — Beschränkt pfändbare Vermögenswerte"
 weight: 93
 date: 2026-09-01
-lastmod: 2026-09-12
-description: "Praxiskommentar zu Art. 93 SchKG: Lohn- und Erwerbseinkommenspfändung, Existenzminimum, Notbedarfsberechnung, Einjahresfrist, Anpassung bei veränderten Verhältnissen, Direktüberweisung von Krankenkassenprämien (Abs. 4), Grenzkasuistik."
-tags: ["SchKG", "Lohnpfändung", "Existenzminimum", "Notbedarf", "Erwerbseinkommen", "Krankenkassenprämien", "Einkommenspfändung", "Grenzkasuistik"]
+lastmod: 2026-09-13
+description: "Praxiskommentar zu Art. 93 SchKG: Lohn- und Erwerbseinkommenspfändung, Existenzminimum, Notbedarfsberechnung, Einjahresfrist, Anpassung bei veränderten Verhältnissen, Direktüberweisung von Krankenkassenprämien (Abs. 4), Säule 3a, BVG-Freizügigkeitsleistungen, IV-Taggelder, Grenzkasuistik."
+tags: ["SchKG", "Lohnpfändung", "Existenzminimum", "Notbedarf", "Erwerbseinkommen", "Krankenkassenprämien", "Einkommenspfändung", "Säule 3a", "BVG", "IV-Taggelder", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: Rz. 17–22 neu (Säule 3a und BVG-Freizügigkeitsleistungen BGE 121 III 285/BGE 120 III 71, IV-Taggelder BGE 130 III 400, Beschwerdelegitimation Drittschuldner, AHV-Renten und pfändbare Quote BGer 5A_605/2016, gemeinsames Existenzminimum BGer 5A_306/2018); rechtsprechung.md um 3 neue BGE-Leitentscheide und 2 BGer-Entscheide ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -29,7 +34,7 @@ revisions:
 >
 > **3** Erhält das Amt während der Dauer einer solchen Pfändung Kenntnis davon, dass sich die für die Bestimmung des pfändbaren Betrages massgebenden Verhältnisse geändert haben, so passt es die Pfändung den neuen Verhältnissen an.
 >
-> **4** Auf Antrag des Schuldners weist das Amt den Arbeitgeber des Schuldners an, während der Dauer der Einkommenspfändung zusätzlich den für die Bezahlung der laufenden Prämien- und Kostenbeteiligungsforderungen der obligatorischen Krankenpflegeversicherung erforderlichen Betrag an das Amt zu überweisen, soweit diese Prämien und Kostenbeteiligungen zum Existenzminimum des Schuldners gehören. Das Amt begleicht damit die laufenden Prämien- und Kostenbeteiligungsforderungen direkt beim Versicherer.
+> **4** Auf Antrag des Schuldners weist das Amt den Arbeitgeber des Schuldners an, während der Dauer der Einkommenspfändung zusätzlich den für die Bezahlung der laufenden Prämien- und Kostenbeteiligungsforderungen der obligatorischen Krankenpflegeversicherung erforderlichen Betrag an das Amt zu überweisen, soweit diese Prämien und Kostenbeteiligungen zum Existenzminimum des Schuldners gehören. Das Amt begleicht damit die laufenden Prämien- und Kostenbeteiligungensforderungen direkt beim Versicherer.
 {: .gesetzeszitat}
 
 *Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Abs. 4 eingefügt durch Ziff. III des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2024 (AS 2023 678; BBl 2021 745, 1058).*
@@ -60,6 +65,10 @@ revisions:
 - Unterhaltsbeiträge, Pensionen und Leistungen, die einen Erwerbsausfall oder Unterhaltsanspruch abgelten.
 
 **Rz. 4** **BVG-Leistungen (BGE 113 III 10)**: Leistungen der beruflichen Altersvorsorge unterliegen — gleichgültig, ob das Vorsorgevermögen aus Arbeitgeber- oder Arbeitnehmerbeiträgen geäufnet wurde und ob die Leistungen als Rente oder Kapitalabfindung ausgerichtet werden — der beschränkten Pfändbarkeit nach Art. 93 SchKG ([BGE 113 III 10 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-113-III-10_1987-06-05.html)). Sie sind nicht nach Art. 92 Abs. 1 Ziff. 9a SchKG absolut unpfändbar, sondern nur insoweit pfändbar, als sie den Notbedarf übersteigen.
+
+**Rz. 17** **Freizügigkeitsleistungen und Säule 3a (BGE 120 III 71, BGE 121 III 285)**: In [BGE 120 III 71 E. 2–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-III-71_1994-08-08.html) hielt das Bundesgericht fest, dass Leistungen aus beruflicher Vorsorge (BVG, Freizügigkeitsleistungen) **vor Eintritt des leistungsbegründenden Ereignisses** vollständig unpfändbar sind (Art. 92 Ziff. 10 und 13 SchKG). **Nach Eintritt des leistungsbegründenden Ereignisses** — also nach Fälligkeit — sind sie hingegen wie anderes Einkommen beschränkt pfändbar nach Art. 93 SchKG. Der Eintritt des Versicherungsfalls allein genügt nicht; die Leistung muss fällig sein (E. 4 S. 75). In [BGE 121 III 285 E. 1–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-121-III-285_1995-09-07.html) bestätigte das Bundesgericht, dass auch die Ansprüche aus der Säule 3a (gebundene Vorsorge) von Art. 92 Ziff. 13 SchKG erfasst werden und vor der Fälligkeit unpfändbar sind; nach der Fälligkeit unterliegen sie der beschränkten Pfändbarkeit nach Art. 93 SchKG, weil sie der Ergänzung der beruflichen Vorsorge dienen (E. 3 S. 290). Praxisfolge: Die Säule 3a ist vor der Auszahlung unpfändbar; die ausgezahlte Leistung ist als Einkommen im Sinne von Art. 93 Abs. 1 SchKG beschränkt pfändbar.
+
+**Rz. 18** **IV-Taggelder als beschränkt pfändbares Einkommen (BGE 130 III 400)**: In [BGE 130 III 400 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-400_2004.html) entschied das Bundesgericht, dass die Taggelder der Invalidenversicherung **keine** absolut unpfändbaren Vermögenswerte nach Art. 92 Abs. 1 Ziff. 9a SchKG darstellen, sondern **beschränkt pfändbares Einkommen** im Sinne von Art. 93 Abs. 1 SchKG. Die IV-Taggelder ersetzen das durch die Invalidität ausgefallene Erwerbseinkommen und gehören damit zum Erwerbseinkommen im Sinne von Art. 93 Abs. 1 SchKG (E. 3.3). Praxisfolge: IV-Taggelder können gepfändet werden, soweit sie den Notbedarf des Schuldners übersteigen.
 
 ---
 
@@ -105,17 +114,37 @@ revisions:
 
 ---
 
-### VI. Grenzkasuistik
+### VI. Pfändbare Quote und AHV-Renten
+
+**Rz. 19** **Berechnung der pfändbaren Quote (BGer 5A_605/2016)**: In [BGer 5A_605/2016 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-605-2016_2016-09-14.html) präzisierte das Bundesgericht die Berechnung der pfändbaren Einkommensquote: AHV- und IV-Renten sind nach Art. 92 Abs. 1 Ziff. 9a SchKG absolut unpfändbar; ihr Pfändungsschutz erschöpft sich darin, dass die Renten selbst nicht gepfändet werden können. Hat der Schuldner neben der unpfändbaren Rente weiteres Einkommen, ist für die Berechnung der Quote das Gesamteinkommen (Rente + weiteres Einkommen) massgeblich; der Notbedarf wird im Verhältnis der Einkommensquote des Schuldners berücksichtigt. Praxisfolge: Die unpfändbare Rente vermindert nicht den Notbedarf, sondern beeinflusst die Berechnung der Quote.
+
+---
+
+### VII. Gemeinsames Existenzminimum
+
+**Rz. 20** **Gemeinsames Existenzminimum bei Konkubinat und Ehe (BGer 5A_306/2018)**: In [BGer 5A_306/2018 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-306-2018_2018-09-19.html#consideration_3.4) präzisierte das Bundesgericht die Berechnung des gemeinsamen Existenzminimums bei Lohnpfändungen: Das gemeinsame Existenzminimum (massgeblicher Grundbetrag inkl. Zuschläge und Abzüge) wird bei der Lohnpfändung im Verhältnis der Einkommensquote des Schuldners berücksichtigt (i.V.m. [BGE 116 III 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-116-III-35_1990.html)). Dies gilt sowohl für Ehegatten als auch für Konkubinatspaare; massgeblich sind die tatsächlichen wirtschaftlichen Verhältnisse.
+
+---
+
+### VIII. Beschwerdelegitimation des Drittschuldners
+
+**Rz. 21** **Keine Beschwerdelegitimation des Drittschuldners (BGE 130 III 400 E. 2)**: In [BGE 130 III 400 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-400_2004.html) entschied das Bundesgericht, dass der Drittschuldner (z.B. die IV-Stelle, die Taggelder ausrichtet) **nicht legitimiert** ist, Beschwerde gegen die Pfändung zu führen. Er kann ausschliesslich die Pfändung von absolut unpfändbaren Vermögenswerten (Art. 92 SchKG) anzeigen. Stellt sich heraus, dass der gepfändete Anspruch beschränkt pfändbar ist (Art. 93 SchKG), hat der Drittschuldner kein Beschwerderecht; die Pfändung ist in diesem Fall zu Recht erfolgt. Praxisfolge: Die IV-Stelle kann die Lohnpfändung von IV-Taggeldern nicht mit Aufsichtsbeschwerde bekämpfen; der Schuldner selbst muss die Aufhebung der Pfändung verlangen.
+
+---
+
+### IX. Grenzkasuistik
 
 **Rz. 12 — Tatsächlich bezahlte Beträge als Massstab (BGE 121 III 20)**: In [BGE 121 III 20](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-121-III-20_1995-03-29.html) lebte die Schuldnerin in einer Wohnung, für die sie keinen Mietvertrag nachweisen konnte. Das Betreibungsamt hatte den Wohnkostenbedarf geschätzt. Das Bundesgericht hielt fest, dass nur tatsächlich bezahlte Mietzinse berücksichtigt werden können; angemessene Auslagen für die Wohnung sind bei der Berechnung des Notbedarfs auf jeden Fall zuzugestehen. Praxisfolge: Der Schuldner muss den Mietvertrag und die tatsächliche Zahlung nachweisen, um den Wohnkostenbedarf im Notbedarf geltend zu machen.
 
-**Rz. 13 — Steuern im Notbedarf sind willkürlich (BGE 140 III 337)**: In [BGE 140 III 337 E. 4.2–4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-337_2014.html) hatte die Vorinstanz laufende und aufgelaufene Steuern in das betreibungsrechtliche Existenzminimum des Unterhaltsschuldners einbezogen. Das Bundesgericht qualifizierte dies als willkürlich: Steuern gehören nicht zum unumgänglichen Lebensbedarf im Sinne von Art. 93 Abs. 1 SchKG. Verfassungskonform war hingegen die Aufnahme der vollen Raten für ein geleastes Fahrzeug mit Kompetenzcharakter (E. 5).
+**Rz. 13 — Steuern im Notbedarf sind willkürlich (BGE 140 III 337)**: In [BGE 140 III 337 E. 4.2–4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-337_2014.html#consideration_4.2) hatte die Vorinstanz laufende und aufgelaufene Steuern in das betreibungsrechtliche Existenzminimum des Unterhaltsschuldners einbezogen. Das Bundesgericht qualifizierte dies als willkürlich: Steuern gehören nicht zum unumgänglichen Lebensbedarf im Sinne von Art. 93 Abs. 1 SchKG. Verfassungskonform war hingegen die Aufnahme der vollen Raten für ein geleastes Fahrzeug mit Kompetenzcharakter (E. 5).
 
 **Rz. 14 — Krankenkassenprämien: Nur OKP, nicht Zusatzversicherung (BGE 134 III 323)**: In [BGE 134 III 323 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-323_2008.html) hatte der Schuldner Prämien für die Kranken-Zusatzversicherung (VVG) in das Existenzminimum einbezogen. Das Bundesgericht hielt fest, dass nur die Prämien der obligatorischen Grundversicherung (KVG/OKP) berücksichtigt werden können. Die Zusatzversicherung ist eine freiwillige Leistung und gehört nicht zum unumgänglichen Lebensbedarf. Praxisfolge: Prämien für Zusatzversicherungen (z.B. freie Wahl des Spitals, Zahnbehandlung) sind im Notbedarf nicht zu berücksichtigen.
 
 **Rz. 15 — Konkubinat und Notbedarfsberechnung (BGE 128 III 159)**: In [BGE 128 III 159 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-159_2002.html) lebte der Schuldner im Konkubinat. Das Bundesgericht stellte klar, dass bei Konkubinatspaaren kein voller Einzelgrundbetrag gewährt wird, wenn durch das gemeinsame Wohnen und Wirtschaften finanzielle Synergien (z.B. Einsparungen bei Miete und Haushalt) erzielt werden. Praxisfolge: Die Notbedarfsberechnung hat die tatsächlichen wirtschaftlichen Verhältnisse des Konkubinatspaars zu berücksichtigen; ein pauschaler Abzug ist unzulässig.
 
 **Rz. 16 — Mitwirkungspflicht und Privatschule (BGE 119 III 70)**: In [BGE 119 III 70 E. 1 und 3a–d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-119-III-70_1993-05-05.html) weigerte sich der Schuldner, seine Einkommensverhältnisse vollständig offenzulegen. Das Bundesgericht hielt fest, dass der Schuldner zur Mitwirkung bei der Feststellung seines Existenzminimums verpflichtet ist und allfällige Beweismittel bereits anlässlich der Pfändung — nicht erst vor Bundesgericht — anzugeben hat. Zudem können Kosten für Privatschulen der Kinder nicht im Notbedarf berücksichtigt werden; dem Schuldner ist jedoch ein angemessener Zeitraum zuzugestehen, um die Schul- und Wohnverhältnisse an die neuen wirtschaftlichen Gegebenheiten anzupassen.
+
+**Rz. 22 — BVG-Freizügigkeitsleistungen und Fälligkeit (BGE 120 III 71)**: In [BGE 120 III 71 E. 3–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-III-71_1994-08-08.html) hielt das Bundesgericht fest, dass Freizügigkeitsleistungen aus der beruflichen Vorsorge **vor Eintritt des leistungsbegründenden Ereignisses** vollständig unpfändbar sind (Art. 92 Ziff. 10 und 13 SchKG). **Nach Eintritt** des leistungsbegründenden Ereignisses sind sie — unabhängig davon, ob sie wegen Alters, Todes oder Invalidität ausgerichtet werden — wie anderes Einkommen beschränkt pfändbar nach Art. 93 Abs. 1 SchKG (E. 3 und 4 S. 75). Der Eintritt des Versicherungsfalls allein genügt nicht; die Leistung muss fällig sein. Praxisfolge: Das Freizügigkeitsguthaben auf dem Vorsorgekonto ist vor der Auszahlung unpfändbar; die ausgezahlte Leistung unterliegt der beschränkten Pfändbarkeit.
 
 ---
 
@@ -128,13 +157,22 @@ Wendet sich der Schuldner gegen die Höhe der gepfändeten Lohnquote, muss er vo
 Bei Konkubinatspaaren wird kein voller Einzelgrundbetrag gewährt, wenn durch das gemeinsame Wohnen finanzielle Synergien erzielt werden ([BGE 128 III 159 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-159_2002.html)). Die tatsächlichen wirtschaftlichen Verhältnisse sind massgeblich.
 
 ### 3. Können Steuern im Notbedarf berücksichtigt werden?
-Nein. Laufende und aufgelaufene Steuern dürfen im betreibungsrechtlichen Existenzminimum nicht eingerechnet werden ([BGE 140 III 337 E. 4.2–4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-337_2014.html)). Die Berücksichtigung ist willkürlich.
+Nein. Laufende und aufgelaufene Steuern dürfen im betreibungsrechtlichen Existenzminimum nicht eingerechnet werden ([BGE 140 III 337 E. 4.2–4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-337_2014.html#consideration_4.2)). Die Berücksichtigung ist willkürlich.
 
 ### 4. Werden Krankenkassen-Zusatzversicherungen im Notbedarf berücksichtigt?
 Nein. Nur die Prämien der obligatorischen Grundversicherung (KVG/OKP) können berücksichtigt werden, nicht die Prämien der Zusatzversicherung (VVG; [BGE 134 III 323 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-323_2008.html)).
 
 ### 5. Was gilt für BVG-Renten und Kapitalabfindungen?
-Sie unterliegen der beschränkten Pfändbarkeit nach Art. 93 SchKG, unabhängig davon, ob sie aus Arbeitgeber- oder Arbeitnehmerbeiträgen stammen und ob sie als Rente oder Kapitalabfindung ausgerichtet werden ([BGE 113 III 10 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-113-III-10_1987-06-05.html)).
+Sie unterliegen der beschränkten Pfändbarkeit nach Art. 93 SchKG, unabhängig davon, ob sie aus Arbeitgeber- oder Arbeitnehmerbeiträgen stammen und ob sie als Rente oder Kapitalabfindung ausgerichtet werden ([BGE 113 III 10 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-113-III-10_1987-06-05.html)). Vor der Fälligkeit sind sie unpfändbar (Art. 92 Ziff. 10 und 13 SchKG; [BGE 120 III 71 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-III-71_1994-08-08.html)).
+
+### 6. Sind IV-Taggelder pfändbar?
+IV-Taggelder stellen keine absolut unpfändbaren Vermögenswerte nach Art. 92 Abs. 1 Ziff. 9a SchKG dar, sondern beschränkt pfändbares Einkommen nach Art. 93 Abs. 1 SchKG ([BGE 130 III 400 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-400_2004.html)). Sie ersetzen das durch Invalidität ausgefallene Erwerbseinkommen und können gepfändet werden, soweit sie den Notbedarf übersteigen.
+
+### 7. Wie werden AHV-Renten bei der Lohnpfändung berücksichtigt?
+AHV- und IV-Renten sind absolut unpfändbar (Art. 92 Abs. 1 Ziff. 9a SchKG). Ihr Pfändungsschutz erschöpft sich darin, dass die Renten selbst nicht gepfändet werden können ([BGer 5A_605/2016 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-605-2016_2016-09-14.html)). Hat der Schuldner neben der Rente weiteres Einkommen, wird das Gesamteinkommen für die Berechnung der Quote herangezogen.
+
+### 8. Kann der Drittschuldner gegen die Lohnpfändung Beschwerde erführen?
+Nein. Der Drittschuldner (z.B. IV-Stelle) ist nicht legitimiert, Beschwerde gegen die Pfändung zu führen. Er kann ausschliesslich die Pfändung von absolut unpfändbaren Vermögenswerten (Art. 92 SchKG) anzeigen ([BGE 130 III 400 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-400_2004.html)). Beschränkt pfändbares Einkommen nach Art. 93 SchKG kann er nicht beanstanden.
 
 ---
 
