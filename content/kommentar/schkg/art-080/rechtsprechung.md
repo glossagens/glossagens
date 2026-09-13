@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 80 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 80 SchKG — Definitive Rechtsöffnung, Vollstreckungstitel, gerichtliche Vergleiche, Verwaltungsverfügungen, Prüfungsbefugnis."
-tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "gerichtlicher Vergleich", "Prüfungsbefugnis"]
+lastmod: 2026-09-13
+description: "Übersicht der Rechtsprechung zu Art. 80 SchKG — Definitive Rechtsöffnung, Vollstreckungstitel, gerichtliche Vergleiche, Verwaltungsverfügungen, Ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
+tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "gerichtlicher Vergleich", "LugÜ", "Aberkennungsurteil", "Prüfungsbefugnis", "Grenzkasuistik"]
 agent_verified: false
 revisions:
+  - date: 2026-09-13
+    by: "Claude Code"
+    model: "claude-fable-5-1"
+    mcp_verified: true
+    note: "Umfassende Erweiterung: 6 neue BGE-Leitentscheide (107 III 60, 134 III 656, 134 III 115, 142 III 78, 141 III 28, 119 V 329) als systematische Ergänzung (Dispositiv-Anforderung, Aberkennungsurteil, BVG-Auffangeinrichtung, Prozessstandschaft, LugÜ, ausserkantonale Verfügung); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -87,6 +92,68 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
+### [BGE 107 III 60](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-60_1981-07-02.html) (1981)
+- **Thema**: Beseitigung des Rechtsvorschlages (Art. 79 und 80 SchKG); Dispositiv-Anforderung
+- **Kernaussage**:
+  1. Derjenige, der auf einen Rechtsvorschlag hin seine Ansprüche nach Massgabe von Art. 79 SchKG hat anerkennen lassen, kann direkt die Fortsetzung der Betreibung verlangen, ohne das Rechtsöffnungsverfahren nach Art. 80 SchKG zu durchlaufen (Bestätigung der Rechtsprechung).
+  2. Gleiches gilt, wenn ein Entscheid im Sinne von Art. 79 SchKG von einer ausserkantonalen Behörde oder einem Verwaltungsgericht stammt.
+  3. Das Dispositiv des Zivilurteils oder des Verwaltungsentscheides hat jedoch mit Bestimmtheit auf die hängige Betreibung Bezug zu nehmen und den Rechtsvorschlag ausdrücklich als aufgehoben zu erklären, vollumfänglich oder in einer bestimmten Höhe (Änderung der Rechtsprechung, E. 3).
+- **Konkreter Sachverhalt**: Gläubiger verlangte direkte Fortsetzung der Betreibung gestützt auf einen Verwaltungsentscheid, dessen Dispositiv den Rechtsvorschlag nicht ausdrücklich aufgehoben hatte.
+- **Einschlägig für**: Art. 79 Abs. 1, Art. 80 Abs. 1, Abs. 2 Ziff. 2 SchKG
+
+---
+
+### [BGE 134 III 656](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-656_2008.html) (2008)
+- **Thema**: Definitive Rechtsöffnung; Aberkennungsurteil als Titel
+- **Kernaussage**:
+  1. Definitive Rechtsöffnung kann aufgrund eines Urteils gewährt werden, in dem die Aberkennungsklage abgewiesen wurde, die der Betriebene im Zuge einer früheren — inzwischen verwirkten — Betreibung bezüglich derselben Forderung angehoben hatte (E. 5).
+  2. Das abweisende Aberkennungsurteil bestätigt den Bestand der Forderung und ist ein vollwertiger Titel nach Art. 80 Abs. 1 SchKG.
+- **Konkreter Sachverhalt**: Betriebener hatte in einer früheren, inzwischen verwirkten Betreibung Aberkennungsklage erhoben; diese wurde abgewiesen. In einer neuen Betreuung verlangte der Gläubiger definitive Rechtsöffnung gestützt auf das Aberkennungsurteil.
+- **Einschlägig für**: Art. 80 Abs. 1 SchKG; Art. 85 SchKG
+
+---
+
+### [BGE 134 III 115](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-134-III-115_2008.html) (2008)
+- **Thema**: Zuständigkeit der BVG-Auffangeinrichtung für die Rechtsöffnung; Ablauf des Betreibungsverfahrens
+- **Kernaussage**:
+  1. Die für den Entscheid über die Beiträge zuständige Auffangeinrichtung kann auch den Rechtsvorschlag des Schuldners gegen den Zahlungsbefehl aufheben (E. 3).
+  2. Fällt die Auffangeinrichtung nach Einleitung der Betreibung einen Entscheid in der Sache und erteilt sie selbst die definitive Rechtsöffnung gegen den Rechtsvorschlag des Arbeitgebers, hat sie anschliessend das Fortsetzungsbegehren zu stellen (E. 4).
+- **Konkreter Sachverhalt**: BVG-Auffangeinrichtung betrieb Arbeitgeber für ausstehende BVG-Beiträge und erteilte sich selbst die definitive Rechtsöffnung.
+- **Einschlägig für**: Art. 79 Abs. 1, Art. 80 SchKG; Art. 54 ATSG
+
+---
+
+### [BGE 141 III 28](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-28_2015.html) (2015)
+- **Thema**: Ausländische Urteile (LugÜ) als Rechtsöffnungstitel; Begriff der Zivil- und Handelssache
+- **Kernaussage**:
+  1. Kann definitive Rechtsöffnung gestützt auf ein österreichisches Urteil erteilt werden, in welchem eine Schweizer Gesellschaft zu Zahlungen an die österreichische Urlaubskasse für Bauarbeiter verpflichtet wurde? (E. 3.1).
+  2. Begriff der Zivil- und Handelssache im Sinne von Art. 1 LugÜ und Abgrenzung von öffentlich-rechtlichen Angelegenheiten.
+  3. Bedeutung des Gleichbehandlungsgebots gemäss Art. 9 Abs. 1 des Anhangs I des Freizügigkeitsabkommens für die Vollstreckung (E. 3.2.4).
+- **Konkreter Sachverhalt**: Österreichische Urlaubskasse für Bauarbeiter verlangte definitive Rechtsöffnung gestützt auf ein österreichisches Urteil gegen eine Schweizer Gesellschaft.
+- **Einschlägig für**: Art. 80 Abs. 1 SchKG; Art. 1 LugÜ; Freizügigkeitsabkommen
+
+---
+
+### [BGE 142 III 78](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-78_2016.html) (2016)
+- **Thema**: Prozessstandschaft; Vollstreckung von Minderjährigenunterhalt nach Eintritt der Volljährigkeit
+- **Kernaussage**:
+  1. Der ehemals sorgeberechtigte Elternteil ist nicht berechtigt, nach Eintritt der Volljährigkeit des Kindes in eigenem Namen Unterhaltsbeiträge für die Zeit der Minderjährigkeit des Kindes in Betreibung zu setzen und dafür Rechtsöffnung zu verlangen (E. 3).
+  2. Der Unterhaltsanspruch geht mit der Volljährigkeit auf das Kind über (Art. 289 Abs. 1 ZGB, Art. 318 Abs. 1 ZGB).
+- **Konkreter Sachverhalt**: Mutter verlangte als sorgeberechtigte Elternteil definitive Rechtsöffnung für Unterhaltsbeiträge, obwohl das Kind mittlerweile volljährig war.
+- **Einschlägig für**: Art. 80 Abs. 1 SchKG; Art. 289 Abs. 1, Art. 318 Abs. 1 ZGB
+
+---
+
+### [BGE 119 V 329](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-329_1993-06-29.html) (1993)
+- **Thema**: Verwaltungsverfügung durch ausserkantonale Behörde; Aufhebung des Rechtsvorschlages nach Art. 79 SchKG
+- **Kernaussage**:
+  1. Wenn die Fortsetzung der Betreibung gestützt auf einen gemäss Art. 79 SchKG erwirkten rechtskräftigen Entscheid einer ausserkantonalen Verwaltungs- oder Rekursbehörde verlangt wird, ist im Hinblick auf die dem Schuldner gemäss Art. 81 Abs. 2 SchKG offenstehenden Einwendungen gemäss Kreisschreiben des Bundesgerichts Nr. 26 vom 20. Oktober 1910 zu verfahren (E. 2b, 4, 5a; Präzisierung der Rechtsprechung).
+  2. In casu verliert der Schuldner diese Einwendungen (vgl. Art. 81 Abs. 1 SchKG), nachdem das Eidgenössische Versicherungsgericht den Rechtsvorschlag im Dispositiv seines Urteils selbst beseitigt hat (E. 5b).
+- **Konkreter Sachverhalt**: Sozialversicherungsanstalt betrieb für Beiträge und verfügte die Aufhebung des Rechtsvorschlages; Streit um die Einwendungen des Schuldners.
+- **Einschlägig für**: Art. 79 Abs. 1, Art. 80 SchKG; Art. 81 Abs. 1, Abs. 2 SchKG
+
+---
+
 ## II. Weitere Entscheide des Bundesgerichts
 
 ### [BGE 141 I 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_141-I-97_2014.html) (2014)
@@ -140,4 +207,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-12*
+*Letzte Aktualisierung: 2026-09-13*
