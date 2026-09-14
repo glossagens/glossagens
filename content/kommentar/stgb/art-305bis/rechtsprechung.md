@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 305bis StGB"
 weight: 99
 date: 2026-06-03
-lastmod: 2026-09-05
-description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 305bis StGB (Geldwäscherei): Vereitelungshandlung, Selbstgeldwäscherei, Grenzkasuistik (Bareinzahlung, paper trail, Gebrauchsgüter, Konsum vs. Vernichtung), Vortatnachweis, Money Mules und Zivilhaftung."
+lastmod: 2026-09-14
+description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 305bis StGB (Geldwäscherei): Vereitelungshandlung, Selbstgeldwäscherei, Grenzkasuistik (Bareinzahlung, paper trail, Gebrauchsgüter, Konsum vs. Vernichtung), Vortatnachweis, Kasuistik zum subjektiven Tatbestand (Bargeldkurier BGer 6B_363/2026, Money Mules) und Zivilhaftung."
 tags: ["Rechtsprechung", "StGB", "Geldwäscherei", "Einziehung", "Vortat", "Selbstgeldwäscherei", "Finanzintermediär", "Money Mule", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-14
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_363/2026 vom 12. August 2026 (Bargeldkurier für Uhrenkauf, GBP 145'000.-, Abgrenzung von Eventualvorsatz und bewusster Fahrlässigkeit, Grundsatz des bewussten Nichtwissenwollens, versuchte Geldwäscherei bei Zollbeschlagnahme)."
   - date: 2026-09-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -126,6 +131,14 @@ revisions:
 - **Sachverhalt**: Einer Beschuldigten wurde vorgeworfen, auf fünf Konten deliktische Gelder von ca. Fr. 11'000.- aus Online-Betrügereien empfangen und weitergeleitet zu haben («Money Mule»). Sie ersuchte um amtliche Verteidigung mit der Begründung, der Tatbestand sei komplex und sie sei juristische Laiin.
 - **Kernaussage**: Das Bundesgericht hielt fest, dass der Tatbestand der Geldwäscherei für Laien schwerer verständlich ist als andere Delikte und beim Phänomen «Money Mule» im Besonderen die rechtlich anspruchsvolle Schwierigkeit besteht, **eventualvorsätzliches Handeln von blosser bewusster Fahrlässigkeit abzugrenzen** (E. 2.4.2). Gleichwohl wies das Bundesgericht die Beschwerde ab, da die Beschuldigte deutscher Muttersprache war, Prozesserfahrung aufwies und ein Bagatellfall (Strafmass unter 4 Monaten) vorlag.
 - **Einschlägig für**: Art. 305bis Ziff. 1 StGB, Art. 132 StPO — Money Mule, Abgrenzung Eventualvorsatz von Fahrlässigkeit, amtliche Verteidigung.
+
+---
+
+### [BGer 6B_363/2026 vom 12. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_363_2026) E. 2.1–2.2, 3.2 — Bargeldkurier («Money Mule»): Eventualvorsatz bei akkumulierten Verdachtsmomenten («bewusstes Nichtwissenwollen»)
+
+- **Sachverhalt**: Ein Beschuldigter flog auf Bitte eines Bekannten aus der Ukraine nach Düsseldorf und übernahm dort einen Koffer mit rund GBP 145'000.- (gestückelt in 5er-, 10er-, 20er- und 50er-Noten, verpackt in Vakuumbeutel). Er transportierte das Bargeld im Flugzeug nach Zürich, um dort Uhren zu kaufen, wobei weitere Instruktionen erst nach dem Passieren der Zollkontrolle telefonisch erteilt werden sollten. Die Geldscheine waren stark mit Betäubungsmitteln (Kokain, THC, MDMA, Ketamin) und Sprengstoffen kontaminiert. Bei der Zollkontrolle am Flughafen Zürich wurde das Bargeld sichergestellt. Das Bezirksgericht Bülach sprach den Beschuldigten frei; das Obergericht des Kantons Zürich verurteilte ihn wegen versuchter Geldwäscherei zu einer bedingten Geldstrafe von 150 Tagessätzen.
+- **Kernaussage**: Das Bundesgericht schützte den Schuldspruch wegen versuchter Geldwäscherei (Art. 305bis Ziff. 1 i.V.m. Art. 22 Abs. 1 StGB). Die Höhe des Geldbetrags allein erlaubt zwar keinen zwingenden Schluss auf deliktische Herkunft; eine Häufung konkreter Verdachtsmomente — (1) hoher Bargeldbetrag in Drittwährung (GBP) ohne Bezug zu Ukraine, Deutschland oder der Schweiz, (2) Stückelung in Vakuumbeuteln, (3) Instruktionen erst nach dem Zoll, (4) keine Branchenkenntnisse des Kuriers, (5) mangelnde Plausibilisierung der Herkunft — schliesst ein ernsthaftes Vertrauen auf Legalität jedoch aus (E. 2.2.3). Wer bei greifbaren Verdachtszeichen Nachforschungen bewusst vermeidet, um die Wahrheit nicht erfahren zu müssen, handelt mit Eventualvorsatz («bewusstes Nichtwissenwollen»; E. 2.1.2). Ein vage behauptetes «Vertrauensverhältnis» vermag diesen Verdacht nicht zu zerstreuen (E. 2.2.4, 3.2.2).
+- **Einschlägig für**: Art. 305bis Ziff. 1 StGB, Art. 22 Abs. 1 StGB — Bargeldkurier, Money Mule, Eventualvorsatz vs. bewusste Fahrlässigkeit, bewusstes Nichtwissenwollen, Versuchsstrafbarkeit bei Sicherstellung am Zoll.
 
 ---
 
