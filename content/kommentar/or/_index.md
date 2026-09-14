@@ -18,6 +18,11 @@ revisions:
   by: Antigravity Agent
   model: gemini-3.8-flash
   mcp_verified: true
+  note: Praxiskommentar zu Art. 272 OR (Erstreckung des Mietverhältnisses) hinzugefügt
+- date: '2026-09-14'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
   note: Praxiskommentar zu Art. 271 OR (Kündigungsschutz im Mietrecht) hinzugefügt
 - date: '2026-08-10'
   by: Claude Code
