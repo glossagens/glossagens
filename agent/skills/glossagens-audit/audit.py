@@ -539,7 +539,7 @@ def norm(s: str) -> str:
     s = re.sub(r"\[\s*(?:AS|RO|FF|BBl)[^\]]*\]\.?\s*(?:Siehe\s+heute:[^)]*\)\.?)?", " ", s, flags=re.I)
     s = re.sub(r"\bSR\s+[\d.]+\b", "", s)    # Fedlex-interne SR-Einschübe
     s = re.sub(r"\b(?:AS|RO|FF|BBl)\s+\d{4}\s+\d+\b", " ", s) # Fedlex-interne AS/BBl-Einschübe
-    s = re.sub(r"[,;.:!?'\"()\[\]{}–—\-]", " ", s) # Interpunktion für Textabgleich neutralisieren
+    s = re.sub(r"[,;.:!?'\"()\[\]{}–—\-\u2011]", " ", s) # Interpunktion für Textabgleich neutralisieren
     s = re.sub(r"(\d+)\s+([a-z])\b", r"\1\2", s, flags=re.I) # "329 g" -> "329g", "257 d" -> "257d"
     s = re.sub(r"\b([a-z])\s+(bis|ter|quater|quinquies)\b", r"\1\2", s, flags=re.I) # "a bis" -> "abis"
     s = re.sub(r"(\d+)\s+(bis|ter|quater|quinquies)\b", r"\1\2", s, flags=re.I) # "260 ter" -> "260ter"

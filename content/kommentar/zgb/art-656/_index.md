@@ -2,11 +2,16 @@
 title: "Art. 656 ZGB — Erwerb des Grundeigentums"
 weight: 656
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 656 ZGB — Erwerb des Grundeigentum: absolutes Eintragungsprinzip (Grundbuchprinzip), Trennung von Verpflichtungs- und Verfügungsgeschäft (Art. 657, Art. 216 OR), ausserbuchlicher Erwerb bei Erbgang, gerichtlichem Urteil, Zwangsvollstreckung und Enteignung (Abs. 2) sowie gutgläubiger Erwerb vom Nichtberechtigten (Art. 973 ZGB) mit Kasuistik zu natürlicher Publizität, Eintragungsfähigkeit, Formmangel und Sicherungsübereignung."
 tags: ["ZGB", "Sachenrecht", "Grundeigentum", "Eintragungsprinzip", "Grundbuchprinzip", "Publizitätsprinzip", "gutgläubiger Erwerb", "öffentliche Beurkundung", "ausserbuchlicher Erwerb", "Sicherungsübereignung", "Erbgang", "Zusprechung"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Bereinigung der Zitat-Reihenfolge zur Vermeidung von Fehlzuordnungen unbepinnter Entscheide."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -107,7 +112,7 @@ X. und Y. hatten 1959 geheiratet und am 28./30. August 2006 ein gemeinsames Sche
 #### 3. Zwangsvollstreckung (Zuschlag)
 Bei der Zwangsversteigerung geht das Eigentum bereits mit dem **Zuschlag** auf den Erwerber über ([BGE 101 II 235](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-101-II-235_1975-02-06.html) unter Verweis auf Meier-HayoZ, N. 100 zu Art. 656 ZGB, und Oser/Schönenberger, N. 4 zu Art. 235 [SchKG]). Der Zuschlag ist der hoheitliche Akt, der den Eigentumsübergang konstituiert; die grundbuchliche Eintragung des Erstehers hat nur deklarativen Charakter. Praktische Bedeutung hat dies für das gesetzliche Vorkaufsrecht des Miteigentümers (Art. 682 Abs. 1 ZGB): die 30-tägige Frist des Art. 681 Abs. 3 ZGB läuft ab dem Zuschlag, weil das Eigentum in diesem Zeitpunkt übergeht, nicht erst mit der Grundbucheintragung.
 
-> **Leitsatz.** Bei Aneignung, Erbgang, Enteignung, Zwangsvollstreckung (Zuschlag) und gerichtlichem Urteil geht das Grundeigentum ausserbuchlich und ohne Eintragung über; der Grundbucheintrag ist in diesen Fällen bloss deklarativ ([BGE 135 III 585 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-585_2009.html); [BGE 116 II 267 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-267_1990-07-12.html); [BGE 101 II 235](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-101-II-235_1975-02-06.html)).
+> **Leitsatz.** Bei Aneignung, Erbgang, Enteignung, Zwangsvollstreckung (Zuschlag) und gerichtlichem Urteil geht das Grundeigentum ausserbuchlich und ohne Eintragung über; der Grundbucheintrag ist in diesen Fällen bloss deklarativ ([BGE 101 II 235](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-101-II-235_1975-02-06.html); [BGE 116 II 267 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-267_1990-07-12.html); [BGE 135 III 585 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-585_2009.html)).
 
 ### F. Zeitpunkt des Erwerbs und Verfügungsbeschränkung (Abs. 2)
 

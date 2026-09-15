@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 935 ZGB"
 weight: 99
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 935 ZGB — Geld und Inhaberpapiere: kategorischer Gutglaubensschutz auch bei Abhandenkommen, Geld vs. Sammlermünzen, Inhaberschuldbrief und lex specialis Art. 862/863 ZGB (früher Art. 865/866), gutgläubiger Dritterwerber und Einreden, Bösgläubigkeit (Art. 936), Kraftloserklärung und Kulturgüter (KGTG)."
 tags: ["Rechtsprechung", "ZGB", "Geld", "Inhaberpapiere", "Inhaberschuldbrief", "gutgläubiger Erwerb", "Schuldbrief", "Kraftloserklärung", "Kulturgüter", "Hehlerei"]
 agent_verified: false
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -67,7 +72,7 @@ revisions:
 - **Einschlägig für**: Bösgläubigkeit (Art. 936); Hehlerei (Art. 144 StGB); Verhältnis zum zivilrechtlichen Gutglaubensschutz
 - **Link**: [BGE 105 IV 303, E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-105-IV-303_1979-11-12.html)
 
-### BGE 65 II 62, E. 2
+### BGE 65 II 62
 - **Datum**: 24. März 1939
 - **Thema**: Inhaberschuldbrief; Art. 935 ZGB; Erwerbsgeschäft als Voraussetzung des gutgläubigen Erwerbs
 - **Kernaussage**: Auf gutgläubigen Eigentumserwerb vom Scheinberechtigten (Art. 714 und 933–935 ZGB) kann sich der Besitzer nur berufen, wenn er die Sache auf Grund eines Erwerbsgeschäfts in Besitz genommen hat, nicht auch wenn er sie als früherer Eigentümer, in Unkenntnis des inzwischen erfolgten Eigentumsüberganges auf den Andern, wieder an sich genommen hat. Für Inhaberpapiere spielt nach Art. 935 ZGB gegenüber der allgemeinen Regel von Art. 933 nur nichts darauf eine Rolle, ob die Sache dem Veräusserer anvertraut oder dem Eigentümer wider seinen Willen abhanden gekommen war. Eine nicht im Sinn einer Handänderung vorgenommene Besitzübergabe bewirkt keinen Eigentumsübergang.

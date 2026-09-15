@@ -2,11 +2,16 @@
 title: "Art. 728 ZGB — Ersitzung beweglicher Sachen"
 weight: 728
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 728 ZGB — Ersitzung als originärer Eigentumserwerb an beweglichen Sachen durch fünfjährigen ununterbrochenen, unangefochtenen und gutgläubigen Eigenbesitz: Tatbestandsmerkmale (Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube), Fristen (5 Jahre, 2 Monate für häusliche Tiere, 30 Jahre für Kulturgüter/KGTG), unfreiwilliger Besitzverlust (Abs. 2), Fristberechnung/Unterbrechung/Stillstand nach Verjährungsrecht (Abs. 3), Ersitzung als Ausschlussgrund der Vindikation und Verhältnis zu Art. 934, 936, 930, 662, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Ersitzung", "originärer Eigentumserwerb", "guter Glaube", "Eigenbesitz", "unangefochten", "Kulturgüter", "KGTG", "Tiere", "Verjährung", "Vindikation"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Bereinigung Pinpoint BGE 65 II 62 in Rechtsprechung."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"

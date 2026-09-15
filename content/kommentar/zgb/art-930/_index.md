@@ -2,11 +2,16 @@
 title: "Art. 930 ZGB — Eigentumsvermutung des Besitzers"
 weight: 930
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 930 ZGB — Eigentumsvermutung des Besitzers beweglicher Sachen: Vermutungsbasis (Besitz, selbständiger Besitz, unzweideutiger Besitz), Zweideutigkeit als Grenze (Bargeld, Börsenagent/Kommissionär), Widerlegbarkeit durch Nachweis gültigen Eigentumserwerbs, Beweislast bei der Vindikation, Wirkung gegenüber dem unmittelbaren Vorbesitzer, rückwirkende Vermutung für frühere Besitzer (Abs. 2) und Verhältnis zu Art. 714, 931, 933–936, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Eigentumsvermutung", "Besitz", "Beweislast", "Vindikation", "unzweideutiger Besitz", "Vermutungsbasis", "Rechtsschein", "Gutglaubensschutz", "selbständiger Besitz"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -106,7 +111,7 @@ Das Kantonsgericht Basel-Landschaft hat in BGE 141 III 7 und der Lehre folgende 
 
 Die Eigentumsvermutung des Art. 930 ZGB ist eine **widerlegbare Rechtsvermutung**, keine Fiktion. Ist die Vermutungsbasis bewiesen, schliesst die Vermutung unmittelbar auf die Rechtsfolge, dass der Besitzer Eigentümer sei; diese Vermutungsfolge kann jedoch durch den **Beweis des Gegenteils** widerlegt werden (Art. 8 ZGB). Das Bundesgericht hat in BGE 65 II 62 im Fall eines Inhaberschuldbriefs, der von der Beklagten errichtet und an die Klägerin gutgläubig verkauft worden war, klargestellt, dass die Eigentumsvermutung des Besitzers durch den Nachweis gültigen Eigentumserwerbs eines anderen entkräftet wird:
 
-> «Die mit dem Besitz an und für sich, wie ihn die Beklagte jetzt hat, verbundene Eigentumsvermutung (Art. 930 ZGB) ist durch den Eigentumserwerb der Klägerin entkräftet.» ([BGE 65 II 62 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
+> «Die mit dem Besitz an und für sich, wie ihn die Beklagte jetzt hat, verbundene Eigentumsvermutung (Art. 930 ZGB) ist durch den Eigentumserwerb der Klägerin entkräftet.» ([BGE 65 II 62](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
 
 Die Beklagte hatte den Schuldbrief, den sie zuvor gutgläubig an die Klägerin verloren hatte, in Unkenntnis der Handänderungen als vermeintlich unverlorenes Eigentum zurückerhalten — nicht auf Grund eines Erwerbsgeschäfts. Die Eigentumsvermutung ihres (wiedererlangten) Besitzes wurde durch den Nachweis widerlegt, dass die Klägerin den Schuldbrief zuvor in einem unverdächtigen Kaufgeschäft gutgläubig erworben hatte. Die Vermutung weicht damit dem bewiesenen Eigentum eines anderen; sie ist ein Beweiserleichterungsmittel, das den Beweis des Gegenteils nicht ausschliesst (BGE 65 II 62, Leitsatz: «Eigentumsvermutung aus Besitz (Art. 930 ZGB): wird entkräftet durch den vom Nichtbesitzer geleisteten Nachweis gültigen Eigentumserwerbes»).
 

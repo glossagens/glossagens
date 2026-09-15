@@ -2,11 +2,16 @@
 title: "Art. 647a ZGB — Gewöhnliche Verwaltungshandlungen im Miteigentum"
 weight: 647
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 647a ZGB — gewöhnliche Verwaltungshandlungen im Miteigentum: Einzelvertretungsmacht jedes Miteigentümers (Ausbesserungen, Anbau/Ernte, Verwahrung, Verträge, Geld), Abänderung der Zuständigkeit durch Mehrheitsbeschluss (Abs. 2), Stufenmodell der Verwaltungshandlungen (Art. 647a–647e: gewöhnlich/wichtiger/Unterhalt/baulich/Verschönerung) mit steigendem Quorum, Abgrenzung zur Nutzungs- und Verwaltungsordnung (Art. 647 Abs. 1) und Verhältnis zum Stockwerkeigentum mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Miteigentum", "Verwaltung", "gewöhnliche Verwaltungshandlungen", "Vertretungsmacht", "Mehrheitsbeschluss", "Nutzungs- und Verwaltungsordnung", "Stockwerkeigentum", "Verwalter"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Gesetzeswortlaut gegen Fedlex abgeglichen (Absatznummerierung 1./2. auf amtliche Zählung 1/2 korrigiert)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -18,8 +23,8 @@ revisions:
 
 > **Art. 647a ZGB**
 >
-> 1. Zu den gewöhnlichen Verwaltungshandlungen ist jeder Miteigentümer befugt, insbesondere zur Vornahme von Ausbesserungen, Anbau- und Erntearbeiten, zur kurzfristigen Verwahrung und Aufsicht sowie zum Abschluss der dazu dienenden Verträge und zur Ausübung der Befugnisse, die sich aus ihnen und aus den Miet-, Pacht- und Werkverträgen ergeben, einschliesslich der Bezahlung und Entgegennahme von Geldbeträgen für die Gesamtheit.
-> 2. Mit Zustimmung der Mehrheit aller Miteigentümer kann die Zuständigkeit zu diesen Verwaltungshandlungen unter Vorbehalt der Bestimmungen des Gesetzes über die notwendigen und dringlichen Massnahmen anders geregelt werden.
+> 1 Zu den gewöhnlichen Verwaltungshandlungen ist jeder Miteigentümer befugt, insbesondere zur Vornahme von Ausbesserungen, Anbau- und Erntearbeiten, zur kurzfristigen Verwahrung und Aufsicht sowie zum Abschluss der dazu dienenden Verträge und zur Ausübung der Befugnisse, die sich aus ihnen und aus den Miet-, Pacht- und Werkverträgen ergeben, einschliesslich der Bezahlung und Entgegennahme von Geldbeträgen für die Gesamtheit.
+> 2 Mit Zustimmung der Mehrheit aller Miteigentümer kann die Zuständigkeit zu diesen Verwaltungshandlungen unter Vorbehalt der Bestimmungen des Gesetzes über die notwendigen und dringlichen Massnahmen anders geregelt werden.
 {: .gesetzeszitat}
 
 Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 647a ZGB wurde durch das BG vom 19. Dezember 1963 eingefügt und ist seit dem 1. Januar 1965 in Kraft. Die Bestimmung regelt die **gewöhnlichen Verwaltungshandlungen** im Miteigentum als unterste Stufe des gesetzlichen Stufenmodells der Verwaltung (Art. 647a–647e ZGB): zu den gewöhnlichen Verwaltungshandlungen ist **jeder Miteigentümer** befugt — er handelt mit Einzelvertretungsmacht für die Gesamtheit. Absatz 2 erlaubt die Abänderung dieser Zuständigkeit durch Mehrheitsbeschluss, unter Vorbehalt der notwendigen und dringlichen Massnahmen (Art. 647 Abs. 2 ZGB). Eine digital verfügbare Botschaft zu Art. 647a liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.

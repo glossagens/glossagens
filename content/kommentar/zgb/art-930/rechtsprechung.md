@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 930 ZGB"
 weight: 99
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 930 ZGB — Eigentumsvermutung des Besitzers: Vermutungsbasis (Besitz, selbständiger Besitz, unzweideutiger Besitz), Zweideutigkeit als Grenze (Bargeld, Börsenagent/Kommissionär), Widerlegbarkeit, Beweislast bei der Vindikation, Wirkung gegenüber dem Vorbesitzer, rückwirkende Vermutung (Abs. 2)."
 tags: ["Rechtsprechung", "ZGB", "Eigentumsvermutung", "Besitz", "Beweislast", "Vindikation", "unzweideutiger Besitz", "Vermutungsbasis", "Rechtsschein"]
 agent_verified: false
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -67,7 +72,7 @@ revisions:
 - **Einschlägig für**: Abs. 1 (zweideutiger Besitz, Vermutung entfällt); Verhältnis zu Art. 940
 - **Link**: [BGE 84 II 253, E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-84-II-253_1958-05-09.html)
 
-### BGE 65 II 62, E. 2
+### BGE 65 II 62
 - **Datum**: 24. März 1939
 - **Thema**: Eigentumsvermutung aus Besitz (Art. 930); Entkräftung durch Nachweis gültigen Eigentumserwerbs; Inhaberschuldbrief
 - **Kernaussage**: Die Eigentumsvermutung aus Besitz (Art. 930 ZGB) wird entkräftet durch den vom Nichtbesitzer geleisteten Nachweis gültigen Eigentumserwerbes. Auf gutgläubigen Eigentumserwerb vom Scheinberechtigten (Art. 714 und 933–935 ZGB) kann sich der Besitzer nur berufen, wenn er die Sache auf Grund eines Erwerbsgeschäfts in Besitz genommen hat, nicht auch wenn er sie als früherer Eigentümer, in Unkenntnis des inzwischen erfolgten Eigentumsüberganges, wieder an sich genommen hat. Die mit dem Besitz verbundene Eigentumsvermutung ist durch den Eigentumserwerb der Klägerin entkräftet.

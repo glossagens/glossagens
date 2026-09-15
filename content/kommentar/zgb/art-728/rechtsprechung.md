@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 728 ZGB"
 weight: 99
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 728 ZGB — Ersitzung beweglicher Sachen: Tatbestandsmerkmale (Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube), Fristen (5 Jahre, 2 Monate häusliche Tiere, 30 Jahre Kulturgüter/KGTG), unfreiwilliger Besitzverlust (Abs. 2), Fristberechnung/Unterbrechung/Stillstand (Abs. 3), Ersitzung als Ausschlussgrund der Vindikation und Verhältnis zu Art. 934, 936, 930, 662."
 tags: ["Rechtsprechung", "ZGB", "Ersitzung", "originärer Eigentumserwerb", "guter Glaube", "Eigenbesitz", "unangefochten", "Kulturgüter", "KGTG", "Tiere", "Verjährung"]
 agent_verified: false
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -74,7 +79,7 @@ revisions:
 - **Einschlägig für**: Abs. 1 (alle Tatbestandsmerkmale: Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube, Frist); Abs. 2; Verhältnis zu Art. 641 Abs. 2, 934
 - **Link**: [BGE 94 II 297, E. 5c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-94-II-297_1968-12-13.html)
 
-### BGE 65 II 62, E. 2
+### BGE 65 II 62
 - **Datum**: 24. März 1939
 - **Thema**: Inhaberschuldbrief; Erwerbsgeschäft als Voraussetzung des gutgläubigen Erwerbs (und der Ersitzung)
 - **Kernaussage**: Auf gutgläubigen Eigentumserwerb vom Scheinberechtigten (Art. 714 und 933–935 ZGB) kann sich der Besitzer nur berufen, wenn er die Sache auf Grund eines Erwerbsgeschäfts in Besitz genommen hat, nicht auch wenn er sie als früherer Eigentümer, in Unkenntnis des inzwischen erfolgten Eigentumsüberganges, wieder an sich genommen hat. Eine blosse Besitzrücknahme begründet keinen gutgläubigen Erwerb und kein Eigenbesitz, der eine Ersitzung tragen könnte. Die Eigentumsvermutung (Art. 930) ist durch den Eigentumserwerb eines anderen entkräftet.

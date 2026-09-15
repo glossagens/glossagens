@@ -2,11 +2,16 @@
 title: "Art. 714 ZGB — Übertragung des Fahrniseigentums und gutgläubiger Erwerb"
 weight: 714
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 714 ZGB — derivativer Erwerb von Fahrniseigentum (Verpflichtungsgeschäft, dinglicher Vertrag, Besitzübergang/traditio) und gutgläubiger Erwerb vom Nichtberechtigten (Art. 714 Abs. 2 i.V.m. Art. 933 ff. ZGB, Art. 3 ZGB) mit Kasuistik aus Occasionswagenhandel, Kunsthandel, Antiquitätenhandel, Tierhandel und Gesellschaftsliquidation."
 tags: ["ZGB", "Sachenrecht", "Fahrniseigentum", "gutgläubiger Erwerb", "traditio", "Besitzübergang", "Besitzesregeln", "Kausalitätsprinzip", "nemo plus iuris", "Occasionswagen", "Kunsthandel", "Beweislast"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Zitatkorrektur beim Kausalitätsprinzip (BGE 55 III 302 auf Leitentscheid BGE 55 II 302 korrigiert)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -69,7 +74,7 @@ Absatz 1 regelt den Normalfall: der Veräusserer ist verfügungsbefugt, und das 
 
 #### 1. Gültiger Erwerbstitel (causa) — Kausalitätsprinzip
 
-Der Schweizer Erwerb von Fahrniseigentum ist **kausal**: der Eigentumsübergang hängt von der Gültigkeit des ihm zugrunde liegenden Rechtsgeschäfts (causa) ab. Ein rechtsgültiger Erwerb setzt nach dem Kausalitätsprinzip zunächst einen gültigen Erwerbstitel voraus — das Grundgeschäft, mit dem sich die veräussernde Person zur Eigentumsübertragung verpflichtet (Verpflichtungsgeschäft). In Betracht kommen namentlich Kauf-, Tausch- oder Werkvertrag sowie eine Schenkung ([BL KG 410 23 305 E. 5.2.1](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_001_410-2023-305_2024-03-12.pdf); BGE 121 III 345 E. 2; BGE 55 III 302 E. 2). Ist das Verpflichtungsgeschäft nichtig — etwa weil gar keine Schenkung vorliegt, weil die Zuwendung nicht aus dem Vermögen des Schenkers stammt (Art. 239 Abs. 1 OR) —, geht wegen des kausalen Charakters der Übereignung kein Eigentum über (dazu Abschnitt F.1).
+Der Schweizer Erwerb von Fahrniseigentum ist **kausal**: der Eigentumsübergang hängt von der Gültigkeit des ihm zugrunde liegenden Rechtsgeschäfts (causa) ab. Ein rechtsgültiger Erwerb setzt nach dem Kausalitätsprinzip zunächst einen gültigen Erwerbstitel voraus — das Grundgeschäft, mit dem sich die veräussernde Person zur Eigentumsübertragung verpflichtet (Verpflichtungsgeschäft). In Betracht kommen namentlich Kauf-, Tausch- oder Werkvertrag sowie eine Schenkung ([BL KG 410 23 305 E. 5.2.1](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_001_410-2023-305_2024-03-12.pdf); BGE 121 III 345 E. 2; [BGE 55 II 302 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-55-II-302.html)). Ist das Verpflichtungsgeschäft nichtig — etwa weil gar keine Schenkung vorliegt, weil die Zuwendung nicht aus dem Vermögen des Schenkers stammt (Art. 239 Abs. 1 OR) —, geht wegen des kausalen Charakters der Übereignung kein Eigentum über (dazu Abschnitt F.1).
 
 #### 2. Dinglicher Vertrag (contrat réel) — umstritten
 

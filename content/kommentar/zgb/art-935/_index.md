@@ -2,11 +2,16 @@
 title: "Art. 935 ZGB — Geld und Inhaberpapiere (kategorischer Gutglaubensschutz)"
 weight: 935
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: "2026-09-15"
 description: "Praxisorientierter Kommentar zu Art. 935 ZGB — gutgläubiger Erwerb von Geld und Inhaberpapieren: kategorischer Ausschluss des Rückforderungsrechts auch bei Abhandenkommen (Ausnahme zur Ausnahme des Art. 934), Begriff des Geldes und Abgrenzung zu Sammlermünzen, Inhaberpapiere (Inhaberschuldbrief, Inhaberaktie, Inhaberobligation) und Abgrenzung zu Order-/Rektapapieren, Voraussetzung eines Erwerbsgeschäfts, Bösgläubigkeit (Art. 936) und Hehlerei, Schuldbriefe als Inhaberpapiere (lex specialis Art. 862/863 ZGB), Kraftloserklärung (Art. 971 OR, Art. 865 ZGB) und Kulturgüter (KGTG) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Geld", "Inhaberpapiere", "gutgläubiger Erwerb", "nemo plus iuris", "Inhaberschuldbrief", "Schuldbrief", "Kraftloserklärung", "Kulturgüter", "KGTG", "Hehlerei", "Bösgläubigkeit"]
 agent_verified: true
 revisions:
+  - date: "2026-09-15"
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -56,7 +61,7 @@ Das Prüfschema ist zugleich Inhaltsverzeichnis der Kommentierung: jede Zeile fi
 
 Art. 935 ZGB schützt den gutgläubigen Empfänger von Geld und Inhaberpapieren absolut: diese können «auch wenn sie dem Besitzer gegen seinen Willen abhanden gekommen sind, dem gutgläubigen Empfänger nicht abgefordert werden». Die Bestimmung privilegiert die **Verkehrsfähigkeit** (Fungibilität) von Geld und Inhaberpapieren gegenüber dem Eigentümerinteresse. Dogmatisch ist sie die Ausnahme zur Ausnahme des Art. 934 ZGB: Art. 934 gewährt dem bestohlenen Eigentümer einer abhandengekommenen Sache ein fünfjähriges Rückforderungsrecht gegen jeden Empfänger; Art. 935 nimmt Geld und Inhaberpapiere aus diesem Rückforderungsrecht wieder aus. Für den gutgläubigen Empfänger von Geld oder Inhaberpapieren ist der Erwerb immer definitiv — es gibt kein Rückforderungsrecht, ungeachtet dessen, ob die Sache anvertraut (Art. 933) oder abhandengekommen (Art. 934) war. Das Bundesgericht hat diese dogmatische Stellung in BGE 65 II 62 präzisiert:
 
-> «Das gilt auch, wenn Gegenstand der Übertragung ein Inhaberpapier ist, wobei nach Art. 935 ZGB gegenüber der allgemeinen Regel von Art. 933 nur darauf nichts ankommt, ob die Sache dem Veräusserer anvertraut oder dem Eigentümer wider seinen Willen abhanden gekommen war.» ([BGE 65 II 62 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
+> «Das gilt auch, wenn Gegenstand der Übertragung ein Inhaberpapier ist, wobei nach Art. 935 ZGB gegenüber der allgemeinen Regel von Art. 933 nur darauf nichts ankommt, ob die Sache dem Veräusserer anvertraut oder dem Eigentümer wider seinen Willen abhanden gekommen war.» ([BGE 65 II 62](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
 
 Für Inhaberpapiere (und Geld) spielt die Unterscheidung zwischen anvertraut (Art. 933) und abhandengekommen (Art. 934) keine Rolle: der gutgläubige Empfänger ist in beiden Fällen geschützt. Die Unterscheidung wird erst bei Bösgläubigkeit (Art. 936) wieder bedeutungslos in die andere Richtung — der bösgläubige Empfänger kann jederzeit belangt werden, unabhängig von der Erwerbskategorie.
 
@@ -88,11 +93,11 @@ Art. 933 und Art. 935 befassen sich beide damit, wann bewegliche Sachen bzw. Gel
 
 Der Schutz des Art. 935 ZGB setzt voraus, dass der Empfänger das Geld oder Inhaberpapier auf Grund eines **Erwerbsgeschäfts** in Besitz genommen hat und dabei in gutem Glauben war. Der gute Glaube wird vermutet (Art. 3 Abs. 1 ZGB); der Empfänger gilt als gutgläubig, solange die Bösgläubigkeit nicht bewiesen ist. Das Bundesgericht hat in BGE 65 II 62 im Fall eines Inhaberschuldbriefs, der von der Beklagten errichtet und dem Händler Wyrsch mit einem Verkaufsauftrag anvertraut worden war, klargestellt, dass der gutgläubige Erwerb ein Erwerbsgeschäft voraussetzt:
 
-> «Auf gutgläubigen Eigentumserwerb vom Scheinberechtigten (Art. 714 und 933-935 ZGB) kann sich der Besitzer nur berufen, wenn er die Sache auf Grund eines Erwerbsgeschäfts in Besitz genommen hat, nicht auch wenn er sie als früherer Eigentümer, in Unkenntnis des inzwischen erfolgten Eigentumsüberganges auf den Andern, wieder an sich genommen hat.» ([BGE 65 II 62 Leitsatz und E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
+> «Auf gutgläubigen Eigentumserwerb vom Scheinberechtigten (Art. 714 und 933-935 ZGB) kann sich der Besitzer nur berufen, wenn er die Sache auf Grund eines Erwerbsgeschäfts in Besitz genommen hat, nicht auch wenn er sie als früherer Eigentümer, in Unkenntnis des inzwischen erfolgten Eigentumsüberganges auf den Andern, wieder an sich genommen hat.» ([BGE 65 II 62, Leitsatz](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf))
 
 Im Fall hatte die Beklagte den Inhaberschuldbrief, den sie zuvor gutgläubig an die Klägerin verloren hatte, von Wyrsch zurückerhalten — nicht auf Grund eines neuen Erwerbsgeschäfts, sondern in Unkenntnis der erfolgten Handänderungen als vermeintlich unverlorenes Eigentum. Das Bundesgericht hielt fest, dass diese irrtümliche Besitzrücknahme keinen Erwerbsgrund darstellt und den gutgläubigen Erwerb nicht zu ersetzen vermag; die Beklagte konnte sich nicht auf Art. 714, 933–935 ZGB berufen. Die Klägerin, die den Schuldbrief zuvor in einem unverdächtigen Kaufgeschäft gutgläubig erworben hatte, war Eigentümerin geworden. Das Merkmal des Erwerbsgeschäfts war bei der Klägerin erfüllt, bei der Beklagten (blosse Besitzrücknahme) nicht.
 
-> **Leitsatz.** Der gutgläubige Erwerb von Geld und Inhaberpapieren (wie von beweglichen Sachen allgemein) setzt ein Erwerbsgeschäft voraus; eine blosse Besitzrücknahme als früherer Eigentümer in Unkenntnis des Eigentumsübergangs begründet keinen gutgläubigen Erwerb ([BGE 65 II 62 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)).
+> **Leitsatz.** Der gutgläubige Erwerb von Geld und Inhaberpapieren (wie von beweglichen Sachen allgemein) setzt ein Erwerbsgeschäft voraus; eine blosse Besitzrücknahme als früherer Eigentümer in Unkenntnis des Eigentumsübergangs begründet keinen gutgläubigen Erwerb ([BGE 65 II 62](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)).
 
 ### F. Bösgläubigkeit (Art. 936) und Hehlerei — die Grenze des Schutzes
 
@@ -107,7 +112,7 @@ Bei Geld ist die Bösgläubigkeit praktisch schwieriger festzustellen als bei in
 Art. 935 ZGB ist die Ausnahme zur Ausnahme des Art. 934 ZGB: während Art. 934 dem bestohlenen Eigentümer einer abhandengekommenen Sache ein fünfjähriges Rückforderungsrecht gewährt, schliesst Art. 935 dieses für Geld und Inhaberpapiere kategorisch aus. Der bestohlene Eigentümer von Geld oder Inhaberpapieren hat kein Rückforderungsrecht; der gutgläubige Empfänger ist in seinem Erwerb definitiv geschützt. Im Fall des gestohlenen Mercedes (BGE 103 II 186) wäre das Rückforderungsrecht nach Art. 934 grundsätzlich gegeben gewesen; wäre der Wagen ein Inhaberpapier gewesen, hätte Art. 935 eingegriffen. Da der Mercedes eine gewöhnliche bewegliche Sache war, blieb es bei Art. 934 (und der bösgläubige Empfänger musste die Sache entschädigungslos herausgeben, [BGE 103 II 186 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-103-II-186_1977-10-06.html)).
 
 #### 2. Art. 933 ZGB — anvertraut; bei Inhaberpapieren irrelevant
-Art. 933 ZGB schützt den gutgläubigen Erwerb anvertrauter Sachen definitiv. Für Geld und Inhaberpapiere spielt die Unterscheidung zwischen anvertraut und abhandengekommen keine Rolle — Art. 935 ZGB schützt den gutgläubigen Empfänger in beiden Fällen ([BGE 65 II 62 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)). Art. 935 ist damit die umfassendere Schutznorm für Geld und Inhaberpapiere: sie überlagert Art. 933 und Art. 934 zugunsten des gutgläubigen Empfängers.
+Art. 933 ZGB schützt den gutgläubigen Erwerb anvertrauter Sachen definitiv. Für Geld und Inhaberpapiere spielt die Unterscheidung zwischen anvertraut und abhandengekommen keine Rolle — Art. 935 ZGB schützt den gutgläubigen Empfänger in beiden Fällen ([BGE 65 II 62](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)). Art. 935 ist damit die umfassendere Schutznorm für Geld und Inhaberpapiere: sie überlagert Art. 933 und Art. 934 zugunsten des gutgläubigen Empfängers.
 
 #### 3. Art. 714 Abs. 2 und Art. 930 ZGB
 Art. 714 Abs. 2 ZGB ist die Grundnorm des gutgläubigen Fahrniserwerbs; Art. 935 ZGB ist die Besitzesregel, die den Schutz bei Geld und Inhaberpapieren konkretisiert. Die Eigentumsvermutung des Art. 930 Abs. 1 ZGB (vom Besitzer einer beweglichen Sache wird vermutet, dass er ihr Eigentümer sei) ist die dogmatische Grundlage: der Empfänger von Geld oder Inhaberpapieren darf auf den durch den Besitz geschaffenen Rechtsschein vertrauen, ohne die Herkunft zu prüfen — gerade weil Geld und Inhaberpapiere fungibel sind und als Tauschmittel zirkulieren.
@@ -160,7 +165,7 @@ Die kantonale Praxis verwendet seit der Register-Schuldbrief-Revision (2012) die
 
 **Für den Empfänger (Käufer von Geld oder Inhaberpapieren):**
 
-1. Sich auf den kategorischen Gutglaubensschutz des Art. 935 ZGB berufen: Geld und Inhaberpapiere können auch bei Diebstahl oder Verlust dem gutgläubigen Empfänger nicht abgefordert werden — das Rückforderungsrecht des Art. 934 ZGB ist ausgeschlossen ([BGE 65 II 62 E. 2](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)).
+1. Sich auf den kategorischen Gutglaubensschutz des Art. 935 ZGB berufen: Geld und Inhaberpapiere können auch bei Diebstahl oder Verlust dem gutgläubigen Empfänger nicht abgefordert werden — das Rückforderungsrecht des Art. 934 ZGB ist ausgeschlossen ([BGE 65 II 62](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-65-II-62.pdf)).
 2. Den guten Glauben für sich in Anspruch nehmen: er wird vermutet (Art. 3 Abs. 1 ZGB); der Eigentümer muss Bösgläubigkeit beweisen. Eine allgemeine Erkundigungspflicht nach der Herkunft von Geld gibt es nicht — die Fungibilität des Geldes entlastet den Empfänger.
 3. Sich nicht auf Art. 935 berufen, wenn man bösgläubig war: wer weiss, dass das Geld oder Inhaberpapier gestohlen ist, kann nach Art. 936 ZGB jederzeit auf Herausgabe belangt werden; zudem erfüllt der wissentliche Empfang gestohlener Zahlungsmittel den Tatbestand der Hehlerei (Art. 144 StGB; [BGE 105 IV 303 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-105-IV-303_1979-11-12.html)).
 4. Beim Inhaberschuldbrief: sich auf den öffentlichen Glauben des Pfandtitels (Art. 862 ZGB) berufen; der formrichtig erstellte Schuldbrief besteht seinem Wortlaut gemäss für den gutgläubigen Erwerber zu Recht, auch wenn der Titel aus materiellen Gründen (Handlungsunfähigkeit, Nichtigkeit) nicht gültig zustande gekommen war ([BGE 89 II 387 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-89-II-387_1963-12-10.html); [BGE 107 II 440](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-107-II-440_1981-12-10.html)).
