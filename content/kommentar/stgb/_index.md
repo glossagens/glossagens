@@ -6,7 +6,7 @@ kuerzel: "StGB"
 gesetz_name: "Schweizerisches Strafgesetzbuch"
 weight: 17
 date: '2026-08-10'
-lastmod: "2026-09-11"
+lastmod: "2026-09-16"
 description: Kommentierte Artikel zum Schweizerisches Strafgesetzbuch (StGB, SR 311.0, vom 21. Dezember 1937).
 tags:
 - StGB
@@ -14,6 +14,11 @@ tags:
 - Strafgesetzbuch
 agent_verified: true
 revisions:
+- date: '2026-09-16'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
+  note: Umfassender Ausbau von Art. 220 StGB (Entziehen und Vorenthalten von Minderjährigen) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Grenzkasuistik zur Besuchsrechtsvereitelung und alternierenden Obhut in ZH/AG/LU, Kindesentführung und grenzüberschreitende Verbringung, Dauerdelikt, Antragsfristen und Praxishinweise).
 - date: '2026-09-16'
   by: Antigravity Agent
   model: gemini-3.8-flash
