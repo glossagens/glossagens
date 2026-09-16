@@ -14,6 +14,11 @@ tags:
 - Strafgesetzbuch
 agent_verified: true
 revisions:
+- date: '2026-09-16'
+  by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
+  note: Umfassender Ausbau von Art. 129 StGB (Gefährdung des Lebens) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Grenzkasuistik zu Würgen, Strassenverkehr und Waffen, Judikaturdivergenzen, kantonale Praxisfragen und Praxishinweise).
 - date: '2026-09-11'
   by: Claude Code
   model: deepseek-v4-flash
