@@ -15,6 +15,9 @@ gruppen:
   - name: "Erlöschen und Widerruf der Bewilligungen"
     von: 61
     bis: 64
+  - name: "Zwangsmassnahmen"
+    von: 73
+    bis: 82
   - name: "Strafbestimmungen"
     von: 115
     bis: 122
