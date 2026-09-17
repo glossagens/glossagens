@@ -5,8 +5,13 @@ date: 2026-05-23
 lastmod: 2026-09-17
 description: "Praxiskommentar zu Art. 274 ZGB mit ausführlicher Abgrenzungskasuistik: Loyalitätspflicht, Kindeswohlgefährdung, pflichtwidrige Ausübung, fehlendes ernsthaftes Kümmern, andere wichtige Gründe (Entführungsgefahr, Stiefvater-Konstellation, häusliche Gewalt), Kindeswille, begleitetes Besuchsrecht als milderes Mittel und Ultima-Ratio-Entzug."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Persönlicher Verkehr", "Besuchsrecht", "Loyalitätspflicht", "Kindeswohl", "Kindesschutz", "Praxiskommentar", "Kindeswille", "Eltern-Kind-Entfremdung", "Begleitetes Besuchsrecht"]
-agent_verified: true
+agent_verified: false
 revisions:
+  - date: 2026-09-17
+    by: "Claude Code"
+    model: "claude-sonnet-5"
+    mcp_verified: false
+    note: "Unabhängiges Grounding-Audit (Judge-Ledger, Stufe 5 von glossagens-audit) auf die Vorrevision angewendet: 95 Beleg-Paare des Bundles durch einen separaten Judge-Subagenten (claude-sonnet-5, ohne Tool-Zugriff, nur gegen den mitgelieferten Erwägungstext) beurteilt und via `audit.py --ingest audit-jobs/zgb-274` in den Verdikt-Ledger übernommen (95/95 Verdikte akzeptiert, 0 verworfen). Ergebnis fürs Bundle: 50 gestützt, 28 teilweise, 15 nicht gestützt, 2 unrelated → Belegquote 67 %, Urteil B. In dieser Datei sind 10 Zitatstellen laut Judge nicht (mehr) durch den geprüften Text gedeckt (Zeilen 85 [5A_699/2007], 106 [5A_68/2020], 138 [5A_505/2013], 140 [5A_200/2015], 163 [ag_zivilgericht_XBE.2025.71, unrelated], 167 [5A_719/2013], 172 [5A_322/2026], 178 [BGE 130 III 585], 192 [5A_200/2015], 194 [5A_322/2026]) sowie 4 Verbatim-Zitate abweichend vom Quelltext (Zeilen 89, 106, 126, 196). Zudem bleiben 16 Beleg-Paare des Bundles noch unbeurteilt (offen). Gemäss Autonomie-Vertrag (SKILL.md) bedürfen Beleg-Entfernung und Satzänderung bei `no`/`contradicts`/`unrelated` einer Rückfrage; die Befunde sind daher zur Bestätigung vorgelegt, bevor Korrekturen erfolgen. `mcp_verified` und `agent_verified` deshalb auf `false` gesetzt, bis die vorgelegte Überarbeitung (Urteil B) durchgeführt und ein sauberer Folgeaudit gefahren ist. Frühere Revision hatte fälschlich `mcp_verified: true` behauptet, obwohl die Selbstprüfung (get_case_brief/get_decision/get_erwaegung/cite) die hier gefundenen Diskrepanzen nicht aufdeckte — Beleg dafür, dass ein grüner Self-Check kein Ersatz für den unabhängigen Judge ist."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"

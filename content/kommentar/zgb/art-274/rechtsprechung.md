@@ -10,6 +10,11 @@ revisions:
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
+    mcp_verified: false
+    note: "Unabhängiges Grounding-Audit (Judge-Ledger, Stufe 5 von glossagens-audit) auf die Vorrevision angewendet: 95 Beleg-Paare des Bundles durch einen separaten Judge-Subagenten (claude-sonnet-5, ohne Tool-Zugriff, nur gegen den mitgelieferten Erwägungstext) beurteilt und via `audit.py --ingest audit-jobs/zgb-274` in den Verdikt-Ledger übernommen (95/95 Verdikte akzeptiert, 0 verworfen). Ergebnis fürs Bundle: 50 gestützt, 28 teilweise, 15 nicht gestützt, 2 unrelated → Belegquote 67 %, Urteil B. In dieser Datei sind 7 Zitatstellen laut Judge nicht (mehr) durch den geprüften Text gedeckt (Zeilen 57 [BGE 130 III 585], 59 [BGE 130 III 585], 89 [5A_322/2026], 97 [5A_719/2013], 109 [5A_200/2015, unrelated], 111 [5A_200/2015], 146 [5A_103/2018]). Zudem bleiben 16 Beleg-Paare des Bundles noch unbeurteilt (offen). Gemäss Autonomie-Vertrag (SKILL.md) bedürfen Beleg-Entfernung und Satzänderung bei `no`/`contradicts`/`unrelated` einer Rückfrage; die Befunde sind daher zur Bestätigung vorgelegt, bevor Korrekturen erfolgen. `mcp_verified` bleibt deshalb `false`, bis die vorgelegte Überarbeitung (Urteil B) durchgeführt und ein sauberer Folgeaudit gefahren ist."
+  - date: 2026-09-17
+    by: "Claude Code"
+    model: "claude-sonnet-5"
     mcp_verified: true
     note: "Ausbau um 11 zusätzliche Entscheide (Abgrenzungskasuistik zu allen Varianten von Abs. 2) und Korrektur zweier Fehler der Vorrevision: Datum/Pinpoint von BGer 5A_322/2026 (tatsächlich 31. Juli 2026, E. 3.2/E. 3.4 statt E. 5/E. 5.1) sowie Linkziel und rechtliche Einordnung von Appellationsgericht BS KE.2025.1 (kanonisch bs_appellationsgericht_AG.2025.366) und Zivilgericht AG XBE.2025.71 (betrifft Kindeswillen-Schwelle und aufschiebende Wirkung bei Entfremdungsrisiko, nicht die Förderungspflicht nach Abs. 1). Alle Entscheide via get_case_brief/get_decision/get_erwaegung/cite im Volltext geprüft; entscheidsuche.ch war nicht erreichbar (Verbindungs-Timeout), Linkziel daher opencaselaw-Rückfall gemäss Projektregel."
   - date: 2026-09-02
