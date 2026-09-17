@@ -2,155 +2,158 @@
 title: "Rechtsprechung zu Art. 22 RPG"
 weight: 99
 date: 2026-07-16
-lastmod: "2026-08-29"
-description: "Übersicht der massgeblichen Entscheide zu Art. 22 RPG (Baubewilligung)"
-tags: ["Rechtsprechung", "RPG", "baubewilligung", "unterhalt", "wiederherstellung"]
+lastmod: 2026-09-17
+description: "Übersicht der massgeblichen Leitentscheide und Praxisurteile zu Art. 22 RPG (Baubewilligungspflicht, Bauten und Anlagen, Unterhaltsabgrenzung, Erschliessung, Wiederherstellung)."
+tags: ["Rechtsprechung", "RPG", "Baubewilligung", "Unterhalt", "Wiederherstellung", "Erschliessung", "Fahrnisbauten"]
 agent_verified: true
 revisions:
+  - date: 2026-09-17
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung und Erweiterung der Rechtsprechungssammlung: Leitentscheide zu Anlagenbegriff (BGE 119 Ib 222, 139 II 134, 150 II 489), Erschliessung (BGE 121 I 65), Wiederherstellung und Verwirkung (BGE 151 II 850, 136 II 359, 107 Ia 121, BGer 1C_280/2022) sowie Kasuistikentscheide zu Fahrnisbauten (1C_37/2013), Terrainveränderungen (1C_580/2021), Stegen (1C_239/2025, 1C_601/2022), Umnutzungen (1C_120/2012) und Airbnb (ZH BRGE IV Nr. 0025/2025)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
     mcp_verified: true
-    note: "Erhebliche Ausweitung: Alle BGer-Entscheide mit entscheidsuche.ch-Links, kantonale Praxis ergänzt, Fallgruppen erweitert"
+    note: "Erweiterung um BGer 1C_239/2025 und kantonale Praxis"
 ---
 
-## Fokusentscheid
+## Fokusentscheide
 
-### BGer 1C_239/2025 (06.07.2026, 3er)
-- **Gegenstand**: Baubewilligungspflicht von Arbeiten an bestehendem Holzsteg und Wiederherstellung des rechtmässigen Zustands (Moorlandschaft St. Petersinsel)
-- **Kernaussage**: Ersatz von 9 von 16 tragenden Pfählen eines Bootsstegs (56%) in einer Moorlandschaft von nationaler Bedeutung überschreitet den nach Art. 23d Abs. 2 lit. b NHG zulässigen Unterhalt und ist baubewilligungspflichtig (Art. 22 RPG). Präzisierung der Rechtsprechung zur Abgrenzung von Unterhalt/Erneuerung und Wiederaufbau: Ersatz tragender Teile — auch in Etappen — überschreitet die «normale Lebensdauer» und ist unzulässig. Der Steg ist nicht integraler Bestandteil des Ferienhauses, sondern selbstständig zu beurteilen.
-- **Einordnung**: Präzisierung der Rechtsprechung zu Art. 22 RPG (Erheblichkeitsschwelle bei Substanzeingriffen) und Art. 23d NHG (Unterhalt/Erneuerung in Moorlandschaften). Bestätigung der Wiederherstellungsverfügung (vollständiger Rückbau). Schonfrist (1. April bis 15. Juli) wird nicht angerechnet.
-- **Sachverhalt**: Eigentümer einer Parzelle auf der St. Petersinsel im Bielersee ersetzte 9 von 16 tragenden Pfählen eines Bootsstegs in einer Moorlandschaft von nationaler Bedeutung ohne Baubewilligung. Regierungsstatthalteramt verweigerte nachträgliche Bewilligung und verfügte vollständigen Rückbau innert 5 Monaten.
+### BGer 1C_239/2025 (06.07.2026) — Pfahlersatz an Steganlagen: Unterhalt vs. Wiederaufbau
+- **Gegenstand**: Baubewilligungspflicht von Reparaturarbeiten an bestehendem Holzsteg und Wiederherstellung des rechtmässigen Zustands (Moorlandschaft St. Petersinsel).
+- **Kernaussage**: Der Ersatz von 9 von 16 tragenden Pfählen eines Bootsstegs (56%) in einer Moorlandschaft von nationaler Bedeutung überschreitet den nach Art. 23d Abs. 2 lit. b NHG zulässigen Unterhalt und ist baubewilligungspflichtig (Art. 22 RPG). Der etappenweise Ersatz tragender Teile überschreitet die «normale Lebensdauer» und stellt einen unzulässigen Wiederaufbau dar. Der Steg bildet keine funktionale Einheit mit dem Ferienhaus, sondern ist selbstständig zu beurteilen.
+- **Sachverhalt**: Der Eigentümer einer Parzelle auf der St. Petersinsel im Bielersee ersetzte 9 von 16 tragenden Pfählen eines Bootsstegs ohne Baubewilligung. Das Regierungsstatthalteramt verweigerte die nachträgliche Baubewilligung und verfügte den vollständigen Rückbau innert 5 Monaten.
 - **Erwägungen**:
-  - E. 4.1: Baubewilligungspflicht nach Art. 22 Abs. 1 RPG bejaht — nicht unerheblicher Eingriff in bauliche Substanz in besonders empfindlichem Gebiet, Interesse der Öffentlichkeit an vorgängiger Kontrolle
-  - E. 4.2: Art. 23d NHG restriktiv auszulegen (Art. 78 Abs. 5 BV: absolutes Veränderungsverbot). Unterhalt/Erneuerung nur im Rahmen der normalen Lebensdauer. Ersatz tragender Teile überschreitet diese Grenze, auch in Etappen
-  - E. 4.3: Abgrenzung zu 1C_601/2022 — dort war Ersatz von Holzdielen (nicht-tragend) als zulässig qualifiziert worden. Pfähle sind tragende Teile → Substanzeingriff
-  - E. 4.3: Steg nicht integraler Bestandteil des Ferienhauses — kein baulicher Zusammenhang, keine funktionale Einheit, im Zweifel enger Anlagenbegriff bei Moorlandschaften
-  - E. 4.4: Keine Erschliessungsfunktion i.S.v. Art. 23d Abs. 2 lit. d NHG — Ferienhaus auf dem Landweg erreichbar
-  - E. 4.5: Wiederherstellung bestätigt — Trennungsgrundsatz, Schutzgebiets-Bauverbot, erhebliche Beeinträchtigung des Schutzzieles (Zwergdommel, Bartmeise, Tüpfelsumpfhuhn). 70-jähriger Steg hat normale Lebensdauer erreicht
-- **Dispositiv**: Abweisung der Beschwerde. Bestätigung der Versagung der nachträglichen Baubewilligung und der Wiederherstellungsverfügung (vollständiger Rückbau). 5-monatige Frist bestätigt, Schonfrist nicht angerechnet.
-- **Link**: [1C_239/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-239-2025_2026-07-06.html)
+  - E. 4.1: Baubewilligungspflicht nach Art. 22 Abs. 1 RPG bejaht — nicht unerheblicher Eingriff in die bauliche Substanz in besonders empfindlichem Schutzgebiet, öffentliches Interesse an vorgängiger Kontrolle.
+  - E. 4.2: Art. 23d NHG ist als Ausnahme von Art. 78 Abs. 5 BV restriktiv auszulegen. Unterhalt und Erneuerung sind nur im Rahmen der normalen Lebensdauer zulässig. Der Ersatz tragender Bauteile überschreitet diese Grenze auch bei etappenweisem Vorgehen.
+  - E. 4.3: Abgrenzung zu 1C_601/2022 — dort war das Auswechseln von nichttragenden Holzdielen als zulässig erachtet worden. Pfähle bilden die fundamentale Tragstruktur.
+  - E. 4.5: Bestätigung der Wiederherstellungsverfügung. Trennungsgrundsatz und Moorschutz wiegen schwerer als das private Erhaltungsinteresse an einem 70-jährigen Steg. Schonfrist (1. April bis 15. Juli) wird nicht an die Erfüllungsfrist angerechnet.
+- **Dispositiv**: Abweisung der Beschwerde. Bestätigung des Bauabschlags und der Wiederherstellungsverfügung (vollständiger Rückbau).
+- **Link**: [BGer 1C_239/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-239-2025_2026-07-06.html)
+
+---
+
+### BGE 151 II 850 (24.04.2025) — Bauabschlag als Sachverfügung und Vollstreckung
+- **Gegenstand**: Wiederherstellung der rechtskonformen Situation bei formell rechtswidrigen Bauten; Verhältnis zwischen negativem Bauentscheid und Vollstreckungsverfügung (Art. 58 BauG OW).
+- **Kernaussage**: Können formell rechtswidrige Bauten nachträglich nicht bewilligt werden, stellt der negative Bauentscheid (Bauabschlag) die formelle Sachverfügung dar, die Grundlage für das nachfolgende Wiederherstellungsverfahren bildet (E. 3.1). Vorzugsweise erfolgt die Wiederherstellung durch die Bauherrschaft; andernfalls führt die Behörde die Ersatzvornahme selbst durch oder beauftragt Dritte. Die Androhung der Ersatzvornahme kann zusammen mit dem Bauabschlag oder separat ergehen (E. 3.4).
+- **Sachverhalt**: Ein Eigentümer errichtete ohne Bewilligung Bauten auf seinem Grundstück. Die Gemeinde verweigerte die nachträgliche Bewilligung und drohte unmittelbar Vollstreckungsmassnahmen an.
+- **Erwägungen**:
+  - E. 3.1: Hat die Bauherrschaft ohne Baubewilligung gebaut, ist ihr vorab die Möglichkeit zu bieten, die Baute nachträglich legalisieren zu lassen. Wird die Bewilligung verweigert, bildet der Bauabschlag die Sachverfügung.
+  - E. 3.3: Die Vollstreckungsverfügung muss hinreichend präzise umschreiben, welche Rückbauarbeiten vorzunehmen sind.
+- **Dispositiv**: Abweisung der Beschwerde im Grundsatz; Präzisierung der Vollstreckungsmodalitäten.
+- **Link**: [BGE 151 II 850](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-850_2025.html)
 
 ---
 
 ## Leitentscheide
 
-### Erheblichkeitsschwelle und Anlagenbegriff
+### I. Begriff der Bauten und Anlagen sowie Erheblichkeitsschwelle
 
-#### BGE 139 II 134 (2013)
-- **Thema**: Erheblichkeitsschwelle der Baubewilligungspflicht nach Art. 22 RPG
-- **Kernaussage**: Massstab für die Erheblichkeit ist, ob mit der Massnahme im Allgemeinen so wichtige räumliche Folgen verbunden sind, dass ein Interesse der Öffentlichkeit an einer vorgängigen Kontrolle besteht. Errichtung einer forstwirtschaftlichen Anlage im Wald mit Probebohrungen untersteht der Baubewilligungspflicht.
-- **Einschlägig für**: Art. 22 Abs. 1 RPG
-- **Status**: Leitentscheid zur Erheblichkeitsschwelle, zitiert in 1C_239/2025 (E. 4.1)
+#### BGE 119 Ib 222 (1993) — Locus classicus des Anlagenbegriffs
+- **Thema**: Baubewilligungspflicht für einen Hängegleiterlandeplatz; Definition von «Bauten und Anlagen» nach Art. 22 Abs. 1 RPG.
+- **Kernaussage**: Bauten und Anlagen sind alle künstlich geschaffenen und auf Dauer angelegten Einrichtungen, die in bestimmter fester Beziehung zum Erdboden stehen und die Nutzungsordnung zu beeinflussen vermögen, weil sie den Raum äusserlich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen (E. 3a). Dazu gehören auch Fahrnisbauten, die über nicht unerhebliche Zeiträume ortsfest verwendet werden, sowie erhebliche Geländeveränderungen. Massstab ist, ob nach dem gewöhnlichen Lauf der Dinge so wichtige räumliche Folgen eintreten, dass ein öffentliches oder nachbarliches Kontrollinteresse besteht.
+- **Sachverhalt**: Nutzung einer Landwirtschaftsparzelle als regelmässiger Landeplatz für Hängegleiter und Gleitschirme ohne bauliche Veränderungen.
+- **Erwägungen**: E. 3a begründet den bis heute massgeblichen materiellen Begriff der Bauten und Anlagen im schweizerischen Baurecht.
+- **Dispositiv**: Bejahung der Baubewilligungspflicht für den organisierten Landeplatz.
+- **Link**: [BGE 119 Ib 222](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-IB-222_1993.html)
+
+#### BGE 139 II 134 (2013) — Erheblichkeitsschwelle bei Sondierbohrungen im Wald
+- **Thema**: Baubewilligungspflicht von Probebohrungen im Waldgebiet nach Art. 22 Abs. 1 RPG i.V.m. Art. 24 RPG.
+- **Kernaussage**: Probebohrungen im Wald bedürfen einer Baubewilligung, wenn sie mit nennenswerten räumlichen Folgen verbunden sind. Für die Beurteilung der Erheblichkeit ist die Art und Empfindlichkeit der Umgebung massgebend.
+- **Sachverhalt**: Erkundung von Baugrund und Gesteinsschichten im Wald von Effingen AG mittels schwerer Bohrgeräte und Baggerschlitzen.
 - **Link**: [BGE 139 II 134](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-134_2013.html)
 
-#### BGE 150 II 489 (2024)
-- **Thema**: Baubewilligungspflicht für die Verlegung von Leitungen im Boden
-- **Kernaussage**: Im Boden ausserhalb der Bauzone und im Uferbereich eines Flusses verlegte Fernmeldeleitungen sind bewilligungspflichtige Anlagen i.S.v. Art. 22 Abs. 1 RPG. Ob eine Baute nennenswerte Einflüsse auf die Umwelt hat, hängt namentlich von der Art und der Empfindlichkeit der Umgebung ab. Die Baubewilligungsbehörde hat das Projekt von Amtes wegen auf seine Vereinbarkeit mit der gesamten massgeblichen Rechtsordnung zu überprüfen.
-- **Einschlägig für**: Art. 22 Abs. 1 RPG; Anlagenbegriff; Prüfungspflicht der Behörde
-- **Status**: Leitentscheid zum Anlagenbegriff, zitiert in 1C_239/2025 (E. 4.1)
+#### BGE 150 II 489 (2024) — Unterirdische Leitungen im Uferbereich
+- **Thema**: Baubewilligungspflicht für im Boden verlegte Fernmeldeleitungen im Nichtbaugebiet.
+- **Kernaussage**: Im Boden ausserhalb der Bauzone und im Gewässeruferbereich verlegte Fernmeldekabel sind bewilligungspflichtige Anlagen nach Art. 22 Abs. 1 RPG. Dass Leitungen nach dem Verlegen unsichtbar sind, schliesst die Bewilligungspflicht nicht aus; massgebend ist die Bodeninanspruchnahme in empfindlicher Umgebung. Die Bewilligungsbehörde hat das Projekt von Amtes wegen auf seine Übereinstimmung mit dem gesamten massgeblichen Recht zu prüfen.
 - **Link**: [BGE 150 II 489](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-150-II-489_2024.html)
-
-#### BGer 1C_446/2022 (17.08.2023)
-- **Thema**: Erheblichkeitsschwelle, vorgängige Kontrolle, Ermessen der Behörden
-- **Kernaussage**: Bestätigung der Erheblichkeitsschwelle nach BGE 139 II 134 E. 5.2. Den kantonalen und kommunalen Behörden kommt ein erhebliches Ermessen bei der Beurteilung der Erheblichkeit zu.
-- **Einschlägig für**: Art. 22 Abs. 1 RPG
-- **Status**: Zitiert in 1C_239/2025 (E. 4.1); in: ZBl 126/2025 214
-- **Link**: [1C_446/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-446-2022_2023-08-17.html)
-
-### Unterhalt, Erneuerung und Wiederaufbau
-
-#### BGer 1C_601/2022 (09.07.2024)
-- **Thema**: Unterhalt/Erneuerung in Moorlandschaften — tragende Teile, Etappenersatz, normale Lebensdauer
-- **Kernaussage**: Ersatz von tragenden Teilen einer Baute — auch in Etappen — überschreitet die normale Lebensdauer und ist unzulässig. Im konkreten Fall war der Ersatz von Holzdielen (nichttragend) als zulässige Erneuerungsmassnahme qualifiziert worden, weil dieser nicht in die eigentliche Substanz der Baute einging. Ferienhäuser sind nicht moortypisch; ihr Bestandsschutz ist zeitlich begrenzt.
-- **Sachverhalt**: Ferienhäuser auf der St. Petersinsel (Moorlandschaft von nationaler Bedeutung). Streit um Erneuerungsmassnahmen an den Gebäuden und einem Bootssteg.
-- **Einschlägig für**: Art. 23d Abs. 2 lit. b NHG; Art. 22 RPG
-- **Status**: Zitiert in 1C_239/2025 (E. 4.2–4.3); in: URP 2024 S. 640
-- **Link**: [1C_601/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-601-2022_2024-07-09.html)
-
-#### BGer 1C_515/2012 (17.09.2013)
-- **Thema**: Moorlandschaft St. Petersinsel — Ferienhäuser als Beeinträchtigung, Unterhalt nur im Rahmen der normalen Lebensdauer
-- **Kernaussage**: Ferienhäuser sind nicht moortypisch; Besitzstandsschutz zeitlich begrenzt. Grundlage der restriktiven Auslegung von Unterhalt und Erneuerung. Art. 78 Abs. 5 BV sieht ein absolutes Veränderungsverbot vor; Art. 23d NHG als Ausnahmebestimmung ist restriktiv auszulegen.
-- **Sachverhalt**: Ferienhäuser auf der St. Petersinsel im Bielersee (Moorlandschaft von nationaler Bedeutung). Streit um den Wiederaufbau eines zerstörten Ferienhauses.
-- **Einschlägig für**: Art. 23d NHG; Art. 78 Abs. 5 BV
-- **Status**: Zitiert in 1C_239/2025 (E. 4.2); in: URP 2013 707 und RDAF 2014 I 367
-- **Link**: [1C_515/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-515-2012_2013-09-17.html)
-
-### Wiederherstellung des rechtmässigen Zustands
-
-#### BGer 1C_280/2022 (15.03.2024)
-- **Thema**: Wiederherstellung des rechtmässigen Zustands — Trennungsgrundsatz, Verwirkung
-- **Kernaussage**: Das öffentliche Interesse an der Wiederherstellung ergibt sich bereits aus dem für die Raumplanung fundamentalen Prinzip der Trennung des Baugebiets vom Nichtbaugebiet, was auch für unbedeutende Vorhaben gilt. Eine Erweiterung, die erneut einen rechtswidrigen Zustand schafft, löst eine neue Verwirkungsfrist aus. Die Verwirkungsfrist ist grundsätzlich auf 30 Jahre begrenzt.
-- **Einschlägig für**: Art. 22 RPG; Wiederherstellung; Verwirkung; Vertrauensschutz
-- **Status**: Zitiert in 1C_239/2025 (E. 4.5.3); Bestätigt in BGE 151 II 850 (2025)
-- **Link**: [1C_280/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-280-2022_2024-03-15.html)
-
-#### BGE 151 II 850 (2025)
-- **Thema**: Wiederherstellung der rechtskonformen Situation bei formell rechtswidrigen Bauten; Vollstreckungsverfügung
-- **Kernaussage**: Können formell rechtswidrige Bauten nachträglich nicht bewilligt werden, stellt der negative Bauentscheid (Bauabschlag) die Sachverfügung dar, die Grundlage für das nachfolgende Wiederherstellungsverfahren bildet. Vorzugsweise erfolgt die Wiederherstellung durch die Bauherrschaft; andernfalls Ersatzvornahme.
-- **Einschlägig für**: Art. 58 BauG/OW; Wiederherstellung; Vollstreckungsverfügung
-- **Status**: Weiterentwicklung der Rechtsprechung zu 1C_280/2022
-- **Link**: [BGE 151 II 850](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-850_2025.html)
-
-### Planungszone und Aufhebung von Baubewilligungen
-
-#### BGer 1C_322/2025 (21.07.2026)
-- **Thema**: Aufhebung einer Baubewilligung in einer Planungszone — Interessenabwägung und Verhältnismässigkeit
-- **Kernaussage**: In einer Planungszone (zone réservée) kann eine erteilte Baubewilligung aufgehoben werden, wenn das Bauvorhaben die Planungsziele behindert. Das öffentliche Interesse an der Sicherung des planerischen Ermessensspielraums der Planungsbehörde (insb. für die Redimensionierung der überdimensionierten Bauzone) **prävaliert** gegenüber dem privaten Bauinteresse, sofern die Interessenabwägung unter Einbezug des Verhältnismässigkeitsgrundsatzes vorgenommen wird (E. 3.4.4; BGE 140 I 168 E. 4.2.1; BGer 1C_47/2025 E. 4.2).
-- **Einschlägig für**: Art. 22 RPG (Baubewilligung), Art. 15 Abs. 2 RPG (Planungszone), kantonales Planungsrecht
-- **Status**: Leitentscheid zur Aufhebung von Baubewilligungen in Planungszonen
-- **Link**: [1C_322/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-322-2025_2026-07-21.html)
-
-#### BGE 140 I 168 (2014)
-- **Thema**: Freilegung eines Bachs — Verhältnismässigkeit, Gesetzliche Grundlage (GSchG, WBG)
-- **Kernaussage**: Art. 3 und 4 WBG stellen eine hinreichende gesetzliche Grundlage für die Verpflichtung zur Freilegung des Baches im Rahmen einer Änderung des Nutzungsplans dar. Die Freilegung des Baches entspricht dem Grundsatz der Verhältnismässigkeit.
-- **Einschlägig für**: Verhältnismässigkeit bei Planungsmassnahmen; Art. 38 GSchG
-- **Status**: Zitiert in 1C_322/2025 (E. 3.4.4) zum Verhältnismässigkeitsgrundsatz
-- **Link**: [BGE 140 I 168](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-168_2014.html)
-
-### Moorlandschaftsschutz
-
-#### BGE 138 II 281 (2012)
-- **Thema**: Moorlandschaften — absolutes Veränderungsverbot nach Art. 78 Abs. 5 BV; Art. 23d NHG restriktiv auszulegen
-- **Kernaussage**: Art. 78 Abs. 5 BV sieht ein absolutes Veränderungsverbot für Moorlandschaften von nationaler Bedeutung vor. Art. 23d NHG als Ausnahmebestimmung ist restriktiv auszulegen. Infrastrukturanlagen, die nicht unter Art. 23d Abs. 2 lit. d NHG fallen, sind innerhalb der Moorlandschaft unzulässig; dies gilt auch für im Tagbau erstellte Tunnel.
-- **Einschlägig für**: Art. 78 Abs. 5 BV; Art. 23d NHG; Moorlandschaftsschutz
-- **Status**: Grundlegende Entscheidung, zitiert in 1C_239/2025 (E. 4.2)
-- **Link**: [BGE 138 II 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-281_2012.html)
-
-## Weitere Entscheide
-
-### Kantonale Praxis
-
-#### ZH VG VB.2024.00132 (19.07.2024)
-- **Thema**: Swimmingpoolanlage mit Sitzplatz in der Landwirtschaftszone — keine zonenkonforme Baute nach Art. 16a RPG; Versagung der nachträglichen Baubewilligung; Wiederherstellung verhältnismässig bei Bösgläubigkeit
-- **Kernaussage**: Die Swimmingpoolanlage stellt keine untergeordnete Umgebungsgestaltung des Wohnhauses dar (7-m-Regel). Der Pool ist nicht positiv standortgebunden gemäss Art. 24 lit. a RPG. Wiederherstellung verhältnismässig, zumal der Beschwerdeführer bösgläubig handelte. Kein Anspruch auf Gleichbehandlung im Unrecht.
-- **Einschlägig für**: Art. 22 RPG; Art. 16a RPG; Art. 24 RPG; Wiederherstellung; Bösgläubigkeit
-- **Link**: [ZH VG VB.2024.00132](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00132_2024-07-19.html)
-
-#### BE VGer 100/2021/146 (24.03.2025)
-- **Thema**: Nachträgliche Baubewilligung für Arbeiten an bestehendem Holzsteg und Wiederherstellung des rechtmässigen Zustands
-- **Kernaussage**: Bestätigt durch BGer 1C_601/2022. Bei einem formell rechtswidrigen Steg ist eine nachträgliche Baubewilligung zu prüfen; kann sie nicht erteilt werden, ist der rechtmässige Zustand wiederherzustellen.
-- **Einschlägig für**: Art. 22 RPG; nachträgliche Baubewilligung; Wiederherstellung
-- **Link**: [BE VGer 100/2021/146](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2021-146_2025-03-24.pdf)
-
-#### BE VGer 100/2021/371 (24.03.2025)
-- **Thema**: Schleifung eines Ferienhauses in Schutzgebiet (St. Petersinsel)
-- **Kernaussage**: Ferienhaus in Moorlandschaft — keine nachträgliche Bewilligung möglich; Wiederherstellungsverfügung bestätigt. Bestätigt durch BGer 1C_601/2022.
-- **Einschlägig für**: Art. 22 RPG; Art. 23d NHG; Wiederherstellung; Moorlandschaftsschutz
-- **Link**: [BE VGer 100/2021/371](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2021-371_2025-03-24.pdf)
-
-#### SG VG B 2025/38 (15.01.2026)
-- **Thema**: Bestandesgarantie und nachträgliches Baubewilligungsverfahren bei einer formell nicht bewilligten Stützmauer
-- **Kernaussage**: Die Bestandesgarantie umfasst die Möglichkeit, rechtmässig errichtete Bauten im Rahmen der normalen Lebensdauer in ihrem Bestand zu erhalten. Eine formell nicht bewilligte Anlage kann nicht baulich angepasst werden; vorab ist ein nachträgliches Baubewilligungsverfahren durchzuführen (Art. 159 Abs. 1 lit. c PBG).
-- **Einschlägig für**: Art. 22 RPG; nachträgliche Baubewilligung; Bestandesgarantie
-- **Link**: [SG VG B 2025/38](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2025-38_2026-01-15.pdf)
-
-#### SZ VG III 2023/5 (27.06.2024)
-- **Thema**: Nachträgliche Baubewilligung für Steganlage; Rückbau
-- **Kernaussage**: Bauten und Anlagen, die nicht nachträglich bewilligt werden können, müssen grundsätzlich beseitigt werden (BGE 136 II 359 E. 6; 1C_280/2022 E. 4.2).
-- **Einschlägig für**: Art. 22 RPG; nachträgliche Baubewilligung; Rückbau
-- **Link**: [SZ VG III 2023/5](https://entscheidsuche.ch/docs/SZ_Verwaltungsgericht/SZ_VG_001_III-2023-5_2024-06-27.pdf)
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+### II. Erschliessung, Zonenkonformität und Wiederherstellung
+
+#### BGE 121 I 65 (1995) — Anforderungen an die hinreichende Erschliessung
+- **Thema**: Begriff der hinreichenden Erschliessung und Zufahrt (Art. 19 Abs. 1 i.V.m. Art. 22 Abs. 2 lit. b RPG).
+- **Kernaussage**: Land ist erschlossen, wenn eine für die betreffende Nutzung hinreichende, verkehrssichere Zufahrt besteht. Die Zufahrt muss spätestens im Zeitpunkt der Fertigstellung der Baute tatsächlich und rechtlich gesichert sein und auch die Erreichbarkeit durch öffentliche Dienste (Feuerwehr, Sanität, Kehricht) gewährleisten (E. 3a). Den kantonalen Behörden steht ein erhebliches Ermessen zu.
+- **Link**: [BGE 121 I 65](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-121-I-65_1995.html)
+
+#### BGE 136 II 359 (2010) — Wiederherstellung des rechtmässigen Zustands und Verhältnismässigkeit
+- **Thema**: Beseitigung formell und materiell rechtswidriger Bauten; Verhältnismässigkeit und Vertrauensschutz.
+- **Kernaussage**: Formell rechtswidrige Bauten sind grundsätzlich zu beseitigen, sofern sie nachträglich nicht bewilligt werden können (E. 6). Auf Vertrauensschutz kann sich nur berufen, wer gutgläubig handelte.
+- **Link**: [BGE 136 II 359](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-359_2010.html)
+
+#### BGE 107 Ia 121 (1981) — 30-jährige Verwirkungsfrist für Beseitigungsbefehle
+- **Thema**: Befristung der behördlichen Rückbaukompetenz bei rechtswidrigen Bauten.
+- **Kernaussage**: Die Befugnis der Behörden, den Abbruch eines baurechtswidrigen Gebäudes oder Gebäudeteils anzuordnen, ist im Interesse der Rechtssicherheit grundsätzlich auf 30 Jahre befristet. Ausnahmen gelten nur bei akuten Gefahren für Leib und Leben.
+- **Link**: [BGE 107 Ia 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-107-Ia-121_1981.html)
+
+#### BGer 1C_280/2022 (15.03.2024) — Fristneustart bei Erweiterung und Zurechnung von Bösgläubigkeit
+- **Thema**: Wiederherstellung des rechtmässigen Zustands bei Steganlagen; Unterbrechung und Neubeginn der 30-jährigen Verwirkungsfrist.
+- **Kernaussage**: Wird eine formell illegale Baute im Laufe der 30 Jahre wesentlich verändert oder vergrössert, beginnt die 30-jährige Verwirkungsfrist vollständig neu zu laufen (E. 4.7.2). Der Rechtsnachfolger muss sich das bösgläubige Verhalten seines Rechtsvorgängers voll anrechnen lassen; ein gutgläubiger Erwerb des Bestandes ist ausgeschlossen (E. 4.7.3).
+- **Link**: [BGer 1C_280/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-280-2022_2024-03-15.html)
+
+---
+
+## Weitere Entscheide
+
+### Bundesgericht
+
+#### BGer 1C_37/2013 (09.10.2013) — Wohnwagen in der Landwirtschaftszone Hütten ZH
+- **Thema**: Bewilligungspflicht von Fahrnisbauten; Zirkus-/Wohnwagen mit festen Leitungsanschlüssen.
+- **Kernaussage**: Zivilrechtliche Fahrnisbauten nach Art. 677 ZGB unterstehen der Baubewilligungspflicht nach Art. 22 Abs. 1 RPG, wenn sie ortsfest und dauerhaft bewohnt werden. Leitungsrückbau und Beseitigung geschützt.
+- **Link**: [BGer 1C_37/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-37-2013_2013-10-09.html)
+
+#### BGer 1C_580/2021 (17.06.2022) — Terrainveränderungen auf Fruchtfolgeflächen Pieterlen BE
+- **Thema**: Baubewilligungspflicht von Geländeveränderungen; Einpflügen von 200 m³ Schwemmsand.
+- **Kernaussage**: Erhebliche Erdaufschüttungen und Bodenveränderungen auf geschütztem Kulturland unterliegen Art. 22 Abs. 1 RPG. Wiederherstellung geschützt.
+- **Link**: [BGer 1C_580/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-580-2021_2022-06-17.html)
+
+#### BGer 1C_601/2022 (09.07.2024) — Dielenersatz als zulässiger Unterhalt (URP 2024 S. 640)
+- **Thema**: Abgrenzung zwischen bewilligungsfreiem Unterhalt und Substanzeingriff.
+- **Kernaussage**: Das Auswechseln von nichttragenden Gehbelagsdielen an einem Steg stellt eine zulässige Erneuerung dar, die keine Baubewilligungspflicht auslöst.
+- **Link**: [BGer 1C_601/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-601-2022_2024-07-09.html)
+
+#### BGer 1C_120/2012 (22.08.2012) — Reine Nutzungsänderung (Tierbestand / Casino)
+- **Thema**: Zweckänderung bestehender Bauten ohne bauliche Massnahmen.
+- **Kernaussage**: Zweckänderungen ohne bauliche Eingriffe sind bewilligungspflichtig, wenn sie Umwelt und Erschliessung merklich belasten (E. 3.2).
+- **Link**: [BGer 1C_120/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-120-2012_2012-08-22.html)
+
+#### BGer 1C_285/2015 (19.11.2015) — Umnutzung Ferienheim zu Asyldurchgangszentrum Aeschiried BE
+- **Thema**: Bewilligungspflicht für die Umnutzung bestehender Beherbergungsbauten in eine Kollektivunterkunft.
+- **Kernaussage**: Der Wechsel von einem Ferienheim zu einer Asyl-Kollektivunterkunft stellt eine bewilligungspflichtige Nutzungsänderung dar.
+- **Link**: [BGer 1C_285/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-285-2015_2015-11-19.html)
+
+#### BGer 1C_322/2025 (21.07.2026) — Aufhebung von Baubewilligungen in Planungszonen
+- **Thema**: Vorrang der Planungszone nach Art. 27 RPG gegenüber privaten Bauinteressen.
+- **Kernaussage**: In einer Planungszone prävaliert das Sicherungsinteresse an planerischem Ermessensspielraum gegenüber privaten Bauabsichten.
+- **Link**: [BGer 1C_322/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-322-2025_2026-07-21.html)
+
+#### BGer 1C_290/2011 (01.02.2012) — Unzureichende Quartierstrasse für Mehrfamilienhaus
+- **Thema**: Aufhebung einer Baubewilligung wegen mangelhafter Erschliessung.
+- **Kernaussage**: Eine Baubewilligung darf nicht erteilt werden, wenn die Zufahrt für Begegnungsverkehr und Rettungskräfte unzureichend dimensioniert ist.
+- **Link**: [BGer 1C_290/2011](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-290-2011_2012-02-01.html)
+
+---
+
+### Kantonale Gerichte
+
+#### ZH BRGE IV Nr. 0025/2025 (06.03.2025) — Kurzzeitvermietung (Airbnb) in der Wohnzone W2
+- **Thema**: Bewilligungspflicht bei Umnutzung von Wohnräumen in Airbnb-Vermietung.
+- **Kernaussage**: Blosse Überlassung von Zimmern an Feriengäste ohne gastgewerbliche Zusatzleistungen (Rezeption, Frühstück, Service) bleibt wohnadäquat und ist bewilligungsfrei. Gewerblicher Hotel- oder B&B-Betrieb löst hingegen die Baubewilligungspflicht aus.
+- **Link**: [ZH BRGE IV Nr. 0025/2025](https://mcp.opencaselaw.ch/entscheid/zh_baurekursgericht_BRGE%20IV%20Nr.%200025_2025)
+
+#### ZH VG VB.2024.00132 (19.07.2024) — Swimmingpool in der Landwirtschaftszone Meilen ZH
+- **Thema**: Zonenwidrigkeit privater Freizeitanlagen ausserhalb der Bauzone; Ausschluss des Vertrauensschutzes bei Bösgläubigkeit.
+- **Kernaussage**: Swimmingpools stellen im Nichtbaugebiet keine zonenkonforme Wohnumgebung dar. Bösgläubiges Bauen schliesst Vertrauensschutz aus; Wiederherstellung geschützt.
+- **Link**: [ZH VG VB.2024.00132](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00132_2024-07-19.html)
+
+#### FR KG 602 2021 154 (20.01.2022) — Tiny House mit Erdsonden-Wärmepumpe
+- **Thema**: Qualifikation von Tiny Houses als Bauten und Anlagen nach Art. 22 RPG.
+- **Kernaussage**: Ortsfeste Tiny Houses mit Werkleitungsanschluss unterstehen den ordentlichen bau- und planungsrechtlichen Bestimmungen.
+- **Link**: [FR KG 602 2021 154](https://mcp.opencaselaw.ch/entscheid/fr_gerichte_602_2021_154)
+
+---
+
+*Letzte Aktualisierung: 2026-09-17*
