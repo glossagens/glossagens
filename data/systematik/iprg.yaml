@@ -1,0 +1,43 @@
+gruppen:
+  - name: "1. Kapitel: Allgemeine Bestimmungen"
+    von: 1
+    bis: 24
+  - name: "2. Kapitel: Natürliche Personen"
+    von: 25
+    bis: 42
+  - name: "3. Kapitel: Eherecht"
+    von: 43
+    bis: 65
+  - name: "4. Kapitel: Eingetragene Partnerschaft"
+    von: 65
+    bis: 65
+  - name: "5. Kapitel: Kindesverhältnis"
+    von: 66
+    bis: 84
+  - name: "6. Kapitel: Vormundschaft und andere Schutzmassnahmen"
+    von: 85
+    bis: 85
+  - name: "7. Kapitel: Erbrecht"
+    von: 86
+    bis: 96
+  - name: "8. Kapitel: Sachenrecht"
+    von: 97
+    bis: 108
+  - name: "9. Kapitel: Immaterialgüterrecht"
+    von: 109
+    bis: 111
+  - name: "10. Kapitel: Schuldrecht"
+    von: 112
+    bis: 153
+  - name: "11. Kapitel: Gesellschaftsrecht"
+    von: 154
+    bis: 165
+  - name: "11a. Kapitel: Konkurs und Nachlassvertrag"
+    von: 166
+    bis: 175
+  - name: "12. Kapitel: Internationale Schiedsgerichtsbarkeit"
+    von: 176
+    bis: 194
+  - name: "13. Kapitel: Schlussbestimmungen"
+    von: 195
+    bis: 200
