@@ -75,7 +75,7 @@ revisions:
 
 ## V. Antrag und Umfang des Strafantrags
 
-**9** **Antragsdelikt.** Die Verleumdung ist ein **Antragsdelikt** ([Art. 30 StGB](../art-030/)). Ein Strafantrag wegen «falscher Anschuldigung» ([Art. 303 StGB](../art-303/)) kann nach [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html) grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen; aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Der Umfang des Strafantrags ist daher im Einzelfall sorgfältig zu bestimmen.
+**9** **Antragsdelikt.** Die Verleumdung ist ein **Antragsdelikt** ([Art. 30 StGB](../art-30/)). Ein Strafantrag wegen «falscher Anschuldigung» ([Art. 303 StGB](../art-303/)) kann nach [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html) grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen; aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Der Umfang des Strafantrags ist daher im Einzelfall sorgfältig zu bestimmen.
 
 **10** *Sachverhalt BGE 115 IV 1 — Umfang des Strafantrags*: Ein Rechtsunkundiger, der einen Sachverhalt zur Anzeige brachte, wünschte damit, dass eine Strafverfolgung eingeleitet werde. Das Bundesgericht hielt fest, dass ein Strafantrag der durch die falsche Anschuldigung betroffenen Person nicht nur ein Begehren um Strafverfolgung wegen Art. 303 StGB, sondern auch einen Strafantrag wegen Ehrverletzung darstellen kann. Aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf den Ehrverletzungsantrag ergeben (E. 2b).
 

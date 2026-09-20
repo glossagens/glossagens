@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 15 StGB"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-08-28
-description: "Übersicht der Rechtsprechung zu Art. 15 StGB — Rechtfertigende Notwehr, Notwehrhilfe, Angriffsbegriff, Angemessenheit der Abwehrmittel, Provokation und kantonale Praxis."
-tags: ["Rechtsprechung", "StGB", "Notwehr", "Rechtfertigungsgrund", "Abwehrhandlung", "Allgemeiner Teil"]
+lastmod: 2026-09-20
+description: "Übersicht der Rechtsprechung zu Art. 15 StGB — Rechtfertigende Notwehr, Notwehrhilfe, Angriffsbegriff, Angemessenheit der Abwehrmittel, Provokation, Notwehrexzess, Strafzumessung und kantonale Praxis. "
+tags: ["Rechtsprechung", "StGB", "Notwehr", "Rechtfertigungsgrund", "Abwehrhandlung", "Notwehrexzess", "Allgemeiner Teil"]
 agent_verified: false
 revisions:
+  - date: 2026-09-20
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "KW38: Ergänzung um 12 neue gegen Entscheidtext geprüfte Entscheide (Issue #34): BGE 101 IV 119, BGE 109 IV 5, 6B_480/2011, 6B_1211/2015, 6B_873/2018, 6B_908/2017, 6B_915/2017, 6B_1454/2020, 6B_667/2024, 6B_113/2025, 6B_622/2025, 6B_836/2025, 6B_464/2025. 1 verworfen (6B_1454/2020 contradict, korrekt als Negativbeispiel integriert)."
   - date: 2026-08-28
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -82,6 +87,20 @@ revisions:
 
 ---
 
+### [BGE 109 IV 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-109-IV-5_1983-02-09.html) E. 2 und 3 — Selbstverschuldete Notwehrprovokation und Voraussehbarkeit
+- **Thema**: Ausschluss des entschuldbaren Notwehrexzesses bei schuldhafter Selbstverursachung des Angriffs.
+- **Kernaussage**: Wer durch deliktisches Verhalten selbst schuldhaft die Ursache des Angriffs gesetzt hat, kann nicht geltend machen, eine unangemessene Abwehr sei auf eine entschuldbare Aufregung oder Bestürzung zurückzuführen (Art. 16 Abs. 1 StGB). Die Voraussehbarkeit der Todesfolge bei Messerstichen in Brust- und Bauchgegend ist zu bejahen.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 1 StGB.
+
+---
+
+### [BGE 101 IV 119](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-101-IV-119_1975-07-14.html) — Angemessene Abwehr bei leichtem Angriff
+- **Thema**: Grenzen der Angemessenheit bei einer Abwehr mit einem Meissel.
+- **Kernaussage**: Ein Notwehrexzess liegt nicht vor, wenn ein plötzlicher tätlicher Angriff bloss durch einen leichten Schlag auf den Hinterkopf mit einem Meissel abgewehrt wird. Die Grenzen der Notwehr (Art. 15 StGB) sind in solchen Fällen nicht überschritten; dies führt zum Freispruch.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 StGB.
+
+---
+
 ### [BGE 86 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-86-IV-1_1960.html) — Keine Pflicht zur Flucht vor dem Angriff
 - **Thema**: Subsidiarität der Notwehrhandlung und Grundsatz des Rechtsbehauptungsrechts.
 - **Kernaussage**: Der Angegriffene ist unter dem Gesichtspunkt der Subsidiarität nicht verpflichtet, vor dem rechtswidrigen Angreifer zu fliehen («Das Recht braucht dem Unrecht nicht zu weichen»).
@@ -123,6 +142,83 @@ revisions:
 - **Thema**: Abgrenzung zwischen Notwehr und Raufhandel/Vergeltung bei Tumulten in Lokalen.
 - **Kernaussage**: Bei einer dynamischen Schlägerei zwischen zwei verfeindeten Gruppen im Nachtleben fehlt es an einer echten Notwehrlage und am subjektiven Abwehrwillen, wenn der Beschuldigte nicht gezielt gegen einen konkreten Angreifer vorgeht, sondern im Rahmen des Kampfes wahllos zusticht.
 - **Einschlägig für**: Art. 15 StGB, Art. 133 StGB.
+
+---
+
+### [BGer 6B_667/2024 vom 22. Januar 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-667-2024_2025-01-22.html) E. 2.3.3 & 2.5 — Notwehr bei einfacher Körperverletzung mit gefährlichem Gegenstand
+- **Thema**: Rechtfertigende Notwehr trotz Einsatzes eines gefährlichen Gegenstands (Messer).
+- **Kernaussage**: Die Vorinstanz verfällt nicht in Willkür und verletzt kein Bundesrecht, wenn sie den Angegriffenen vom Vorwurf der einfachen Körperverletzung mit gefährlichem Gegenstand infolge rechtfertigender Notwehr freispricht. Der Messereinsatz kann bei konkreter Angemessenheit gerechtfertigt sein.
+- **Einschlägig für**: Art. 15 StGB, Art. 123 StGB.
+
+---
+
+### [BGer 6B_915/2017 vom 20. Dezember 2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-915-2017_2017-12-20.html) E. 2.5.2 — Hausfriedensbruch als notwehrfähiger Angriff und Notwehrhilfe
+- **Thema**: Art. 186 StGB (Hausfriedensbruch) als Angriff im Sinne von Art. 15 StGB.
+- **Kernaussage**: Ein Hausfriedensbruch i.S.v. Art. 186 StGB kann einen notwehrfähigen Angriff im Sinne von Art. 15 StGB darstellen und sowohl Eigennotwehr als auch Notwehrhilfe Dritter rechtfertigen. Der Angriff richtet sich gegen das Hausrecht und die ungestörte Verfügung darüber, während die Abwehr (hier: Fixationsgriff) auf die körperliche Integrität und Fortbewegungsfreiheit zielt.
+- **Einschlägig für**: Art. 15 StGB, Art. 186 StGB.
+
+---
+
+### [BGer 6B_908/2017 vom 15. März 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-908-2017_2018-03-15.html) E. 2.2.2 & 2.3 — Notwehr und eventualvorsätzliche schwere Körperverletzung
+- **Thema**: Vorsatzform bei Notwehr/Notwehrexzess und Bundesrechtswidrigkeit des Schuldspruchs.
+- **Kernaussage**: Die Vorinstanz begründet die Unverhältnismässigkeit der Notwehr und die fehlende Entschuldbarkeit des Notwehrexzesses damit, der Beschwerdeführer habe in Kauf genommen, dem Beschwerdegegner mit seiner Abwehrhandlung eine schwere Körperverletzung zuzufügen. Da der vorinstanzliche Schuldspruch wegen versuchter eventualvorsätzlicher Körperverletzung gegen Bundesrecht verstösst, ist der angefochtene Entscheid aufzuheben.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 StGB, Art. 122 StGB.
+
+---
+
+### [BGer 6B_873/2018 vom 15. Februar 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-873-2018_2019-02-15.html) E. 2 & 3.1 — Notwehrexzess, Strafzumessung und Landesverweisung
+- **Thema**: Strafzumessungsermessen und Landesverweisung bei versuchter schwerer Körperverletzung im Notwehrexzess.
+- **Kernaussage**: Es ist nicht ersichtlich, dass die Vorinstanz bei der Strafzumessung von sachfremden Kriterien ausging oder ihr Ermessen überschritt; ein entsprechender Einwand begründet keine Aufhebung. Die Landesverweisung nach Art. 66a Abs. 1 lit. b StGB ist bei Verurteilung wegen versuchter schwerer Körperverletzung im Notwehrexzess eigenständig zu prüfen.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 StGB, Art. 66a StGB.
+
+---
+
+### [BGer 6B_480/2011 vom 17. August 2011](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-480-2011_2011-08-17.html) E. 1.3 & 2.3 — Innere Tatsachen und Notwehr bei der Strafzumessung
+- **Thema**: Willkürprüfung des Vorsatzes (innere Tatsache) und Berücksichtigung der Notwehr bei der Strafzumessung.
+- **Kernaussage**: Was der Täter wusste, wollte und in Kauf nahm, betrifft innere Tatsachen und ist Tatfrage, die nur auf Willkür überprüft wird. Es verletzt nicht Bundesrecht, wenn die Vorinstanz die Notwehrhandlungen des Beschwerdeführers einzig bei der Strafzumessung berücksichtigt und nicht als Entschuldigungsgrund nach Art. 16 Abs. 2 StGB qualifiziert.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 2 StGB.
+
+---
+
+### [BGer 6B_1211/2015 vom 10. November 2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2015_2016-11-10.html) E. 1.4.2 — Vorsätzliche Tötung im Notwehrexzess
+- **Thema**: Verneinung eines entschuldbaren Notwehrexzesses und Willkür der Strafzumessung.
+- **Kernaussage**: Es ist nicht zu beanstanden, wenn die Vorinstanz das Vorliegen eines entschuldbaren Notwehrexzesses nach Art. 16 Abs. 2 StGB verneint. Nicht gefolgt werden kann der Vorinstanz, wenn sie erwägt, der Beschwerdeführer habe die Grenzen der zulässigen Notwehr in völlig unangemessener Weise überschritten.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 2 StGB.
+
+---
+
+### [BGer 6B_1454/2020 vom 7. April 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1454-2020_2022-04-07.html) E. 3.4 — Kein entschuldbarer Putativnotwehrexzess bei Rückkehr mit Klappmesser
+- **Thema**: Grenzen des entschuldbaren Notwehrexzesses (Art. 16 Abs. 2 StGB) im Putativnotwehrfall.
+- **Kernaussage**: In der Gesamtbetrachtung aller relevanten Umstände befand sich der Abwehrende nicht in einem entschuldbaren Notwehrexzess, als er nach einem ersten Angriff mit einem Klappmesser zurückkehrte und zustach. Die Vorinstanz verletzt Bundesrecht, indem sie Art. 16 Abs. 2 StGB anwendet; es verbleibt allenfalls der fakultative Notwehrexzess nach Art. 16 Abs. 1 StGB.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 1 und 2 StGB.
+
+---
+
+### [BGer 6B_113/2025 vom 11. Juni 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-113-2025_2025-06-11.html) E. 1.3.4 & 2.3.2 — Notwehr bei Messerangriff und obligatorische Strafmilderung
+- **Thema**: Verneinung einer Notwehrlage als Bundesrechtsverletzung und Strafmilderungsgrund nach Art. 16 Abs. 1 StGB.
+- **Kernaussage**: Verneint die Vorinstanz zu Unrecht eine Notwehrlage und lässt sie den Strafmilderungsgrund von Art. 16 Abs. 1 StGB unberücksichtigt, verletzt sie Bundesrecht. Der Abwehrende handelte in exzessiver Notwehr im Sinne von Art. 16 Abs. 1 StGB; eine willkürliche Sachverhaltsfeststellung oder Verletzung von in dubio pro reo liegt nicht vor.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 1 StGB.
+
+---
+
+### [BGer 6B_836/2025 vom 16. März 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-836-2025_2026-03-16.html) E. 1.4 & 1.5.1 — Obligatorische Strafmilderung bei Notwehrexzess (versuchte vorsätzliche Tötung)
+- **Thema**: Pflicht zur Strafmilderung nach Art. 16 Abs. 1 StGB bei exzessiver Notwehr.
+- **Kernaussage**: Handelt der Täter in exzessiver Notwehr im Sinne von Art. 16 Abs. 1 StGB, ist die Strafe obligatorisch zu mildern. Verneint die Vorinstanz fälschlicherweise eine Notwehrlage und lässt sie den Strafmilderungsgrund unberücksichtigt, verletzt sie Bundesrecht (Tatbestand: versuchte vorsätzliche Tötung, nicht versuchte schwere Körperverletzung).
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 1 StGB, Art. 111 StGB.
+
+---
+
+### [BGer 6B_622/2025 vom 16. April 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-622-2025_2026-04-16.html) E. 2.1 & 2.3.3 — Notwehrexzess und Ermessensspielraum bei der Strafzumessung
+- **Thema**: Ermessensspielraum des Sachgerichts bei der Strafzumessung mit Art. 16 Abs. 1 StGB.
+- **Kernaussage**: Dem Sachgericht steht bei der Gewichtung der Strafzumessungsfaktoren ein erheblicher Ermessensspielraum zu. Das Bundesgericht greift nur ein bei Rahmenüber- oder -unterschreitung, sachfremden Kriterien oder Ermessensmissbrauch. Eine Strafreduktion unter dem Titel von Art. 16 Abs. 1 StGB ist im Rahmen der Gesamtstrafzumessung vorzunehmen.
+- **Einschlägig für**: Art. 15 StGB, Art. 16 Abs. 1 StGB.
+
+---
+
+### [BGer 6B_464/2025 vom 23. April 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-464-2025_2026-04-23.html) E. 1.6.1 & 1.6.2 — Willkürrüge bei Notwehr-Sachverhaltsfeststellung
+- **Thema**: Weitreichender Beurteilungsspielraum der Vorinstanz bei der Beweiswürdigung im Notwehr-Kontext.
+- **Kernaussage**: Willkür liegt nicht schon dann vor, wenn eine andere Beweiswürdigung ebenfalls vertretbar oder sogar zutreffender erscheint. Es obliegt dem Beschwerdeführer, unhaltbare Schlussfolgerungen oder klare Widersprüche aufzuzeigen. In rechtlicher Hinsicht ist nicht zu beanstanden, wenn die Vorinstanz eine Notwehrsituation verneint.
+- **Einschlägig für**: Art. 15 StGB, Art. 6 BGG.
 
 ---
 
