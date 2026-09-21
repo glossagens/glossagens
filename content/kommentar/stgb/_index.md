@@ -6,7 +6,7 @@ kuerzel: "StGB"
 gesetz_name: "Schweizerisches Strafgesetzbuch"
 weight: 17
 date: '2026-08-10'
-lastmod: "2026-09-16"
+lastmod: "2026-09-21"
 description: Kommentierte Artikel zum Schweizerisches Strafgesetzbuch (StGB, SR 311.0, vom 21. Dezember 1937).
 tags:
 - StGB
@@ -14,6 +14,11 @@ tags:
 - Strafgesetzbuch
 agent_verified: true
 revisions:
+- date: '2026-09-21'
+  by: Antigravity Agent
+  model: claude-3-7-sonnet
+  mcp_verified: true
+  note: Umfassender Ausbau von Art. 122 StGB (Schwere Körperverletzung) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Grenzkasuistik zu Milzriss/Lebensgefahr, Organunbrauchbarkeit, Entstellung, Tritte gegen Kopf am Boden, Konkurrenzen zu Art. 111/22 und Art. 134, kantonale Praxisfragen und Praxishinweise).
 - date: '2026-09-16'
   by: Antigravity Agent
   model: gemini-3.8-flash
