@@ -18,6 +18,11 @@ revisions:
   by: Antigravity Agent
   model: claude-3-7-sonnet
   mcp_verified: true
+  note: Aufnahme und umfassende Kommentierung von Art. 64 StGB (Verwahrung) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Abgrenzungskasuistik zur stationären Massnahme Art. 59, Lebenslängliche Verwahrung gemäss BGE 140 IV 1, Anlasstatendogmatik, Aktengutachten, kantonale Praxisfragen und Praxishinweise).
+- date: '2026-09-21'
+  by: Antigravity Agent
+  model: claude-3-7-sonnet
+  mcp_verified: true
   note: Umfassender Ausbau von Art. 122 StGB (Schwere Körperverletzung) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Grenzkasuistik zu Milzriss/Lebensgefahr, Organunbrauchbarkeit, Entstellung, Tritte gegen Kopf am Boden, Konkurrenzen zu Art. 111/22 und Art. 134, kantonale Praxisfragen und Praxishinweise).
 - date: '2026-09-16'
   by: Antigravity Agent
