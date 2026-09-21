@@ -59,7 +59,15 @@ ignoreLogs = ['warning-goldmark-raw-html']
   displayUpdatedDate = true
   dateFormat = "2. January 2006"
 
+  # Layoutbreite: 90rem statt 80rem ("normal"). Sidebar und Inhaltsverzeichnis
+  # belegen fix je 16rem — die zusätzlichen 10rem gehen also vollständig an die
+  # Kommentarspalte in der Mitte (48rem → 58rem). Navbar und Footer ziehen mit,
+  # sonst fluchten Titelzeile und Fusszeile nicht mehr mit dem Text.
+  [params.page]
+    width = "wide"
+
   [params.navbar]
+    width = "wide"
     displayTitle = true
     displayLogo = false
 
@@ -84,6 +92,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     base = "https://github.com/glossagens/glossagens/edit/main/content/"
 
   [params.footer]
+    width = "wide"
     displayCopyright = false
     displayPoweredBy = false
 
