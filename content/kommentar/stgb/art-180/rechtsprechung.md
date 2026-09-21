@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 180 StGB"
 weight: 99
 date: 2026-08-30
-lastmod: "2026-08-31"
-description: "Übersicht der Rechtsprechung zu Art. 180 StGB — Drohung: schwere Drohung, objektive Eignung, Gesamtwürdigung der Umstände, versuchte Drohung, Verlust des Sicherheitsgefühls, Geschädigteneigenschaft juristischer Personen."
-tags: ["Rechtsprechung", "StGB", "Drohung", "Schwere Drohung", "Versuchte Drohung", "Häusliche Gewalt", "Besonderer Teil"]
-agent_verified: true
+lastmod: "2026-09-21"
+description: "Übersicht der Rechtsprechung zu Art. 180 StGB — Drohung: schwere Drohung, objektiver Massstab, Gesamtwürdigung der Umstände, Taterfolg und Verlust des Sicherheitsgefühls, versuchte Drohung (auch bei Suiziddrohung), Konkubinat auf unbestimmte Zeit bei Offizialdelikten (Abs. 2), Konkurrenzen zu Körperverletzung und Nötigung sowie kantonale Gerichtspraxis."
+tags: ["Rechtsprechung", "StGB", "Drohung", "Schwere Drohung", "Versuchte Drohung", "Häusliche Gewalt", "Besonderer Teil", "Konkubinat", "Konkurrenzen"]
+agent_verified: false
 revisions:
+  - date: 2026-09-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Umfassender Ausbau der Rechtsprechungsübersicht gemäss praxisorientierter-kommentar/SKILL.md: Aufnahme von 19 verifizierten BGE-, BGer- und kantonalen Entscheiden via entscheidsuche.ch; Leitentscheide BGE 99 IV 212, BGE 141 IV 1, BGE 143 IV 104, BGE 137 IV 258; BGer 6B_621/2024 (Konkubinat auf unbestimmte Zeit gemäss Abs. 2 lit. b); BGer 6B_1193/2021 (Konkurrenz zu Art. 123 Ziff. 2 StGB); BGer 6B_1017/2019 (Freispruch, Schiebemesser vorzeigen gegen Türsteher); BGer 6B_192/2012 (versuchte Drohung bei Suizidankündigung); kantonale Urteile aus Bern (BK 2021 255, BK 2020 485), Thurgau (RBOG 2025 Nr. 25) und Zürich (SB160469, SB160346); Korrektur der BGE 99 IV 212 URL auf entscheidsuche.ch."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
@@ -19,81 +24,167 @@ revisions:
     note: "Neu erstellt: 3 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 99 IV 212 (objektive Eignung, Gesamtwürdigung), BGE 141 IV 1 (juristische Person, Geschädigteneigenschaft), BGE 137 IV 258 (Abgrenzung Friedensbürgschaft); fabrizierte und irrelevante Zitate entfernt"
 ---
 
-## I. Leitentscheide des Bundesgerichts
+## I. Leitentscheide des Bundesgerichts (BGE)
 
-### [BGE 99 IV 212](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-099-IV-212_1973-12-21.html) E. 1a, 1b — Leitentscheid: Objektive Eignung und Gesamtwürdigung
+### [BGE 99 IV 212](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-99-IV-212_1973-12-21.html) E. 1a, 1b — Objektive Eignung, Gesamtwürdigung und Konkurrenzen
 
-- **Sachverhalt**: Mehrere Personen wurden wegen Drohung und Landfriedensbruchs im Zusammenhang mit einer Besetzung und einem Polizeieinsatz verurteilt. Das BGer legte die Grundsätze zur objektiven Eignung der Drohung dar.
-- **Kernaussage**: Bei der Feststellung, ob eine Drohung objektiv geeignet ist, Furcht hervorzurufen, muss nicht nur auf die angewendeten Mittel, sondern auch auf die gesamten Umstände abgestellt werden (E. 1a). Wo Art. 180 und Art. 181 StGB anwendbar sind, liegt Gesetzeskonkurrenz vor (E. 1b). Die Drohung kann auch durch Gesten, konkludentes Verhalten oder durch das «Wissenlassen» erfolgen, ohne dass sie ausdrücklich geäussert werden muss.
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Objektive Eignung, Gesamtwürdigung, Gesetzeskonkurrenz mit Art. 181 StGB.
-
----
-
-### [BGE 141 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-1_2015.html) E. 3.2, 3.3, 3.4 — Geschädigteneigenschaft: Juristische Person nicht Trägerin der von Art. 180 StGB geschützten Rechtsgüter
-
-- **Sachverhalt**: Eine Genossenschaft beantragte, als Privatklägerin im Verfahren wegen Drohung und anderer Delikte zuzulassen.
-- **Kernaussage**: Die von Art. 180 StGB geschützten Rechtsgüter sind die innere Freiheit und das Sicherheitsgefühl. Eine juristische Person hat keine solchen Gefühle und ist nicht Trägerin der geschützten Rechtsgüter; sie ist daher nicht geschädigt im Sinne von Art. 115 StPO (E. 3.2). Dagegen kann eine juristische Person bei den Tatbeständen der Nötigung (Art. 181 StGB) und der Widerhandlungen zum Schutz der Mieter (Art. 325bis StGB) geschädigt sein, weil diese Normen die freie Willensbildung und Willensbetätigung schützen, deren Trägerin auch eine juristische Person sein kann (E. 3.3, 3.4).
-- **Einschlägig für**: Art. 115 StPO, Art. 180, Art. 181, Art. 325bis StGB — Geschädigteneigenschaft, Privatklägerschaft, juristische Person.
+- **Sachverhalt**: Mehrere Personen wurden im Zusammenhang mit einer Hausbesetzung und einem anschliessenden Polizeieinsatz wegen Drohung und Landfriedensbruchs verurteilt. Das Bundesgericht präzisierte die Voraussetzungen des Tatbestandsmerkmals der schweren Drohung.
+- **Kernaussage**: Bei der Feststellung, ob eine Drohung objektiv geeignet ist, Furcht hervorzurufen, ist nicht isoliert auf die angewendeten Mittel abzustellen, sondern auf die gesamten Umstände des konkreten Falls (E. 1a). Die Drohung kann ausdrücklich, durch Gesten, konkludentes Verhalten oder durch gezieltes «Wissenlassen» erfolgen. Wo Art. 180 und Art. 181 StGB (Nötigung) gleichzeitig anwendbar sind, liegt Gesetzeskonkurrenz vor (E. 1b).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Begriff der schweren Drohung, objektiver Eignungsmassstab, Gesamtwürdigung, Konkurrenz zu Art. 181 StGB.
 
 ---
 
-## II. Abgrenzung: Was als schwere Drohung qualifiziert wird
+### [BGE 141 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-1_2015.html#consideration_3.2) E. 3.2, 3.3, 3.4 — Geschädigteneigenschaft: Ausschluss juristischer Personen
 
-### [BGer 6P-86/2005 vom 1. Oktober 2005](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6P-86-2005_2005-10-01.html) E. 8.2, 8.3 — «Gezielter Terror» als schwere Drohung
-
-- **Sachverhalt**: X. fuhr auf der Autobahn mehrfach sehr nahe auf den Personenwagen des Geschädigten A. auf, zwang ihn auf einer Überlandstrasse zum Anhalten und stieg wutentbrannt aus. Er schlug mit der Hand an die Fensterscheibe von A.s Fahrzeug und versuchte, die Türe zu öffnen, wobei er «ich schlag dir deine Fresse ein» rief. Die Seitenscheibe war nur wenig geöffnet, so dass X. die Drohung aus dem fahrenden Auto heraus nicht unmittelbar hätte umsetzen können.
-- **Kernaussage**: Ob die Ankündigung, dem Geschädigten ins Gesicht zu schlagen, bereits für sich schwer wiegt, kann offen bleiben. Erschwerend wirken die konkreten Umstände: mehrfaches bedrängendes Auffahren über mehrere Kilometer, Zum-Anhalten-Zwingen und wutentbranntes Herannahen. Dieser «gezielte Terror» wurde zu Recht als Drohung im Sinne von Art. 180 Abs. 1 StGB qualifiziert. Bei der Prüfung der Eignung ist grundsätzlich ein objektiver Massstab anzulegen, wobei auf das Empfinden eines vernünftigen Menschen mit einigermassen normaler psychischer Belastbarkeit abzustellen ist (E. 8.2–8.3).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Schwere Drohung, objektive Eignung, Gesamtwürdigung der Umstände.
+- **Sachverhalt**: Eine Wohnbaugenossenschaft konstituierte sich als Privatklägerin in einem Strafverfahren wegen Drohung, Nötigung und Mietrechtsdelikten gegen einen renitenten Mieter.
+- **Kernaussage**: Die von Art. 180 StGB geschützten Rechtsgüter sind die persönliche Ruhe, die innere Freiheit und das Sicherheitsgefühl vor unberechtigter Furcht. Eine juristische Person besitzt keine solchen seelischen Empfindungen und ist nicht Trägerin dieser geschützten Rechtsgüter; sie kann daher bei Art. 180 StGB nicht geschädigte Person im Sinne von Art. 115 StPO sein (E. 3.2). Dagegen kann eine juristische Person bei Nötigung (Art. 181 StGB) und Missbräuchen im Mietrecht (Art. 325bis StGB) geschädigt sein, da diese Normen die Handlungs- und Willensbetätigungsfreiheit schützen, zu welcher auch Körperschaften befähigt sind (E. 3.3, 3.4).
+- **Einschlägig für**: Art. 180 StGB, Art. 115 StPO — Schutzzweck, Rechtsgut, Ausschluss juristischer Personen als Opfer.
 
 ---
 
-### [BGer 6B_351/2007 vom 9. November 2007](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-351-2007_2007-11-09.html) E. 5.1–5.5 — Drohung gegen exponierte Person: Ohrring ausreissen
+### [BGE 143 IV 104](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-104_2017.html#consideration_5.2.3) E. 5.2.3 — Offizialdelikt im Nahbereich (Abs. 2) und Verfahrenssistierung nach Art. 55a StGB
 
-- **Sachverhalt**: X. rief am 2. September 2003 um 06.45 Uhr den ehemaligen Gemeinderat und Sozialamtsvorsteher A. an. Empört über dessen Kandidatur für den Nationalrat beschimpfte er ihn («korruptes Schwein», «Drecksau», «schwule Sau», «Arschloch») und drohte, ihm «den Ohrring aus dem Grind zu reissen» und ihn «fertig zu machen». Zudem stellte X. A. einen Brief zu, in dem er ihn über ein diffamierendes Flugblatt informierte, das er im Internet veröffentlichte. A. hatte bereits vor dem Anruf Angst vor X. gehabt.
-- **Kernaussage**: Die Androhung eines Eingriffs in die körperliche Integrität (Ohrring ausreissen) stellt regelmässig einen schweren Angriff auf das Sicherheitsgefühl dar und ist objektiv geeignet, jemanden in Angst und Schrecken zu versetzen. Erschwerend wirkten: der frühmorgentliche Anruf ins private Umfeld, die begleitenden Beschimpfungen, das Flugblatt und die bereits bestehende Angsthaltung des Geschädigten. Auch gegenüber exponierten Personen kann nicht jede Drohung bagatellisiert werden. Ob der Täter die Drohung ernst meinte, ist ohne Bedeutung — entscheidend ist die Eignung, das Opfer in Angst zu versetzen. Der (Eventual-)Vorsatz war ebenfalls zu bejahen (E. 5.3–5.5).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Schwere Drohung, exponierte Person, Eventualvorsatz, Gesamtwürdigung.
-
----
-
-### [BGer 6B_1121/2013 vom 6. Mai 2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1121-2013_2014-05-06.html) E. 6.3, 7.1–7.3, 8.1, 10.1, 10.3 — Mehrfache Drohungen im Ehekonflikt
-
-- **Sachverhalt**: X. äusserte gegenüber seiner Ehefrau zwischen dem 18. Juni 2008 und dem 28. Juni 2009 mehrfach Drohungen: Am 18. Juni 2008 sagte er «ich mache dich fertig» im Kontext eines lautstarken Streits, in dem er auch handgreiflich wurde. Am 7. Juli 2008 hielt er ihr eine Heugabel an den Hals und sagte, man sollte sie abstechen und ihr den Schädel einschlagen. Am 11. Juli 2008 drohte er erneut, sie fertig zu machen. Am 12. Februar 2009 fuhr er mit aufheulendem Motor auf sie zu. Am 28. Juni 2009 sagte er, er hätte sie schon das letzte Mal zu Tode schlagen sollen.
-- **Kernaussage**: Eine Androhung wie «ich mache dich fertig» ist unter den konkreten Umständen — im Kontext eines lautstarken Streits mit handgreiflichen Übergriffen — geeignet, jemanden in Angst und Schrecken zu versetzen. Es ist nicht erforderlich, dass der Täter das Opfer mit dem Tode bedroht oder das in Aussicht gestellte Übel genau beschreibt (E. 6.3). Zur Erfüllung des Tatbestands ist nicht erforderlich, dass das Opfer vor Schrecken gelähmt ist — der Verlust des Sicherheitsgefühls genügt. Ein «ungutes Gefühl» ist dem Verlust des Sicherheitsgefühls gleichzustellen (E. 10.3).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Schwere Drohung, Gesamtwürdigung, Verlust des Sicherheitsgefühls, mehrfache Drohungen.
+- **Sachverhalt**: In einem Strafverfahren wegen Gewaltdelikten im ehelichen Nahbereich stellte sich die Frage nach den Wirkungen der Verfahrenseinstellung gestützt auf Art. 55a StGB und dem Grundsatz «ne bis in idem».
+- **Kernaussage**: Mit der Einführung der Offizialverfolgung von Gewalthandlungen im sozialen Nahbereich (u.a. Art. 180 Abs. 2 StGB) setzte der Gesetzgeber ein Signal, dass häusliche Gewalt keine Privatsache darstellt. Zugleich sollte das Opfer von der moralischen Last befreit werden, für die Strafverfolgung verantwortlich zu sein. Als verfahrensrechtliches Korrektiv sieht Art. 55a StGB die Sistierung und Einstellung des Verfahrens vor, wenn das Opfer dies verlangt oder zustimmt; das unbenutzte Verstreichenlassen der Widerrufsfrist kommt dem Rückzug eines Strafantrags gleich (E. 5.2.3).
+- **Einschlägig für**: Art. 180 Abs. 2 StGB, Art. 55a StGB — Zweck der Offizialisierung bei Partnerschaftsgewalt, Sistierung und Einstellung.
 
 ---
-
-### [BGer 6B_1219/2018 vom 27. September 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1219-2018_2019-09-27.html) — Drohung mit Baseballschläger nach Verkehrsstreit
-
-- **Sachverhalt**: X. fuhr auf der Sädelstrasse dem Fahrzeug von A. über eine Strecke von etwa zwei Kilometern mit sehr geringem Abstand hinterher, zwang sie zu einem Stopp und stieg dann mit einem Baseballschläger aus. Er schlug an die Fensterscheibe von A.s Fahrzeug und versuchte, die Türe zu öffnen, um A. zur Rede zu stellen. A. konnte schliesslich mit ihrem Fahrzeug wegfahren und die Polizei rufen.
-- **Kernaussage**: Wenn ein Verkehrsteilnehmer hektisch und wütend aus seinem Fahrzeug steigt, mit einem Baseballschläger gegen die Fensterscheibe schlägt und versucht, die Fahrzeugtüre zu öffnen, ist dies objektiv geeignet, jemanden in Angst oder Schrecken zu versetzen. Der Umstand, dass die betroffene Lenkerin danach mit ihrem Fahrzeug wegfahren und telefonieren konnte, vermag daran nichts zu ändern (E. 2.3).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Schwere Drohung, konkludentes Verhalten, Verkehrsstreit.
-
----
-
-## III. Abgrenzung: Was keine schwere Drohung ist
-
-### [BGer 6S-53/2001 vom 21. Februar 2001](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6S-53-2001_2001-02-21.html) E. 2b, 2c — «Ich mache dich fertig» als Ankündigung bloss psychischer Beeinträchtigung
-
-- **Sachverhalt**: X. rief die Mutter seiner Geschädigten an und drohte ihr: «sie werde sehen, was passiere, wenn sie ihm nicht Fr. 20'000.– bezahle als Ausgleich für die gehabten Auslagen». Er räumte ein, der Mutter «Angst haben wollen» zu wollen, die Drohung aber «nicht ernst gemeint» zu haben. Die erste kantonale Instanz stellte fest, dass die Mutter davon ausging, X. habe mit seiner Aussage wohl gemeint, er wolle sie «psychisch fertig machen, indem er sie überall beschimpfe und schlecht über sie reden würde». Unter den gegebenen Umständen herrschte zwischen den Beteiligten ein «sehr rauer Umgangston».
-- **Kernaussage**: Eine Ankündigung, die nach ihrem objektiven Gehalt auf eine bloss psychische Beeinträchtigung (Beschimpfung, Rufschädigung) abzielt, ist von vornherein nicht geeignet, jemanden in Schrecken oder Angst zu versetzen. Der Ausspruch «ich mache dich fertig» kann unter den gegebenen Umständen kaum als schwere Drohung eingestuft werden, zumal die Mutter selbst davon ausging, der Beschwerdegegner habe mit dieser Aussage gemeint, er wolle sie psychisch fertig machen (E. 2b, 2c).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB — Negative Abgrenzung, bloss psychische Beeinträchtigung, objektive Eignung.
-
----
-
-## IV. Versuchte Drohung und Taterfolg
-
-### [BGer 6B_1282/2016 vom 14. September 2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1282-2016_2017-09-14.html) E. 2.2, 2.3 — Versuchte Drohung: Schrecken/Angst tritt nicht ein
-
-- **Sachverhalt**: X. äusserte in der Nacht vom 21. auf den 22. Dezember 2013 gegenüber seiner Ehefrau Mord- und Selbstmorddrohungen. Er sagte, er mache eher mit sich Schluss, als sie noch einmal tätlich anzufassen, und dass er ihr das Herz herausreissen oder sie totschlagen könne. Die Ehefrau gab an, sie denke, dass er seine Drohungen nicht ernst gemeint und lediglich aus einer Hilflosigkeit heraus gehandelt habe. Sie sei nicht in der von Art. 180 Abs. 1 StGB geforderten Weise erschrocken oder verängstigt worden.
-- **Kernaussage**: Der Tatbestand von Art. 180 Abs. 1 StGB erfordert, dass die betroffene Person durch das Verhalten des Täters **tatsächlich** in Schrecken oder Angst versetzt wird. Tritt dieser tatbestandsmässige Erfolg nicht ein, kommt nur eine Verurteilung wegen versuchter Drohung in Betracht. Die Androhung des Übels kann auch gegen die Rechtsgüter Dritter oder gar des Drohenden selber gerichtet sein, sofern sie geeignet ist, das Opfer in Schrecken oder Angst zu versetzen (E. 2.2). Die Vorinstanz durfte den Beschwerdeführer der versuchten Drohung schuldig sprechen (E. 2.5).
-- **Einschlägig für**: Art. 180 Abs. 1 StGB, Art. 22 Abs. 1 StGB — Versuchte Drohung, Taterfolg, Selbstmorddrohung als Drohungsmittel.
-
----
-
-## V. Abgrenzung zu anderen Normen
 
 ### [BGE 137 IV 258](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-258_2011.html) E. 2 — Abgrenzung: Drohungsbegriff bei der Friedensbürgschaft (Art. 66 StGB)
 
-- **Kernaussage**: Das Tatbestandsmerkmal der Drohung in Art. 66 StGB (Friedensbürgschaft) setzt keine strafrechtlich relevante Drohung im Sinne von Art. 180 StGB voraus. Die Drohung muss weder ausdrücklich noch gegenüber dem Bedrohten geäussert werden. Genügend ist jede Drohung mit einem Verbrechen oder Vergehen, wenn eine ernste, naheliegende Besorgnis besteht, dass der Drohende sie verwirklichen wird (E. 2).
-- **Einschlägig für**: Art. 66, Art. 180 StGB — Abgrenzung Friedensbürgschaft, weiter Drohungsbegriff.
+- **Sachverhalt**: Anfechtung einer gerichtlichen Anordnung einer Friedensbürgschaft nach vorangegangenen verbalen Streitigkeiten und Drohungen.
+- **Kernaussage**: Das Tatbestandsmerkmal der Drohung in Art. 66 StGB (Friedensbürgschaft) setzt keine strafbare schwere Drohung im Sinne von Art. 180 StGB voraus. Die Drohung muss weder ausdrücklich noch direkt gegenüber der bedrohten Person geäussert werden; ausreichend ist jede Drohung mit einem Verbrechen oder Vergehen, welche die ernste, naheliegende Besorgnis der Verwirklichung begründet (E. 2).
+- **Einschlägig für**: Art. 66 StGB, Art. 180 StGB — Begriffliche Abgrenzung zur Friedensbürgschaft.
+
+---
+
+## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 6B_621/2024 vom 27. November 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-621-2024_2024-11-27.html) E. 2.1–2.4 — Konkubinat auf unbestimmte Zeit gemäss Art. 180 Abs. 2 lit. b StGB
+
+- **Sachverhalt**: Ein stark alkoholisierter Beschuldigter packte seine Partnerin bei einem Streit in der Küche an den Haaren und hielt ihr ein Küchenmesser mit 15 cm langer Klinge an den Hals. Dabei bemerkte er, als gelernter Metzger könne er mit einem solchen Messer einen Rinderhals durchschneiden. Vor Bundesgericht rügte er, mangels Strafantrags fehle eine Prozessvoraussetzung: Die Beziehung sei unstet gewesen, er habe wegen Streitigkeiten oft tagelang woanders gewohnt, besass keinen eigenen Schlüssel und sei polizeilich nicht an der Adresse gemeldet gewesen; das Zusammenleben sei nur probeweise erfolgt.
+- **Kernaussage**: Ein Konkubinat gemäss Art. 180 Abs. 2 lit. b StGB setzt eine auf längere Zeit angelegte umfassende Lebensgemeinschaft mit Ausschliesslichkeitscharakter sowie geistig-seelischer, körperlicher und wirtschaftlicher Komponente voraus, wobei nicht allen Komponenten dasselbe Gewicht zukommt. Das Führen eines gemeinsamen Haushalts «auf unbestimmte Zeit» liegt vor, wenn eine dauerhafte Bindung und nicht bloss ein vorübergehendes Zusammenleben beabsichtigt ist. Trotz wiederholter Streitigkeiten, temporärer Rauswürfe und fehlenden Schlüssels bejahte das Bundesgericht die Lebenspartnerschaft, da die Partnerin ihn stets wieder aufnahm, die Beziehung über mehrere Jahre dauerte und er im Haushalt mitwirkte (E. 2.1–2.4).
+- **Einschlägig für**: Art. 180 Abs. 2 lit. b StGB — Begriff des Konkubinats, gemeinsamer Haushalt auf unbestimmte Zeit, Offizialverfolgung.
+
+---
+
+### [BGer 6B_1193/2021 vom 7. März 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1193-2021_2023-03-07.html) E. 3.4.1 — Konkurrenz: Todesdrohung mit Brotmesser vs. qualifizierte einfache Körperverletzung
+
+- **Sachverhalt**: Der Beschuldigte packte seine Ehefrau an den Haaren, warf sie auf das Sofa und hielt ihr ein Brotmesser an den Hals. Im weiteren Verlauf fügte er ihr mit dem Messer an beiden Unterarmen blutende Schnittwunden zu (Schuldspruch wegen Art. 123 Ziff. 2 Abs. 2 StGB). Er rügte, das Vorhalten des Messers sei als blosse mitbestrafte Vortat (Konsumtion) von der qualifizierten Körperverletzung abgegolten.
+- **Kernaussage**: Zwar bestand ein enger zeitlicher Konnex zwischen der Drohung und der Körperverletzung. Das angedrohte Übel (Tod durch Messer am Hals) entsprach jedoch nicht der letztlich ausgeführten Tat (Schnittwunden an den Armen), sondern ging wesentlich darüber hinaus. Die Todesdrohung stellt keine blosse Begleiterscheinung der Körperverletzung dar, sondern beruht auf einem selbstständigen Willensentschluss. Art. 180 StGB und Art. 123 Ziff. 2 StGB stehen in echter Realkonkurrenz (E. 3.4.1).
+- **Einschlägig für**: Art. 180 StGB, Art. 123 StGB — Konkurrenzdogmatik, Abgrenzung mitbestrafte Vortat vs. echte Konkurrenz.
+
+---
+
+### [BGer 6B_1017/2019 vom 20. November 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1017-2019_2019-11-20.html) E. 5.3, 5.4 — Freispruch von Art. 180 StGB: Schiebemesser im Fahrzeug vorzeigen gegen Türsteher
+
+- **Sachverhalt**: Nach verwehrtem Zutritt zu einer Bar stieg der Beschuldigte in sein parkiertes Auto. Der kampfsporterprobte Türsteher eilte ihm nach und sprach ihn durch das geöffnete Fahrerfenster an. Daraufhin startete der Beschuldigte den Motor und zeigte ein im Ärmel verborgenes Schiebemesser vor. Verbale Todesdrohungen konnten nicht nachgewiesen werden. Der Türsteher blieb unbeeindruckt am Fenster stehen. Die Staatsanwaltschaft verlangte eine Verurteilung wegen Art. 180 StGB.
+- **Kernaussage**: Das Bundesgericht schützte den Freispruch. Das blosse Vorzeigen eines Messers aus dem Fahrzeuginneren heraus, während der Betroffene sich in Begleitung weiterer Türsteher befand, in der Überzahl war und angesichts der Barriere des Fahrzeugs keinen unmittelbaren Angriff befürchten musste, erreicht unter Würdigung der Gesamtsituation nach objektivem Massstab nicht den Schweregrad einer strafbaren Drohung (E. 5.3–5.4).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Verwerfungsfall, objektive Eignung verneint, Gesamtwürdigung der Situation.
+
+---
+
+### [BGer 6B_1219/2018 vom 27. September 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1219-2018_2019-09-27.html) E. 2.3 — Drohung mit Baseballschläger nach Verkehrsstreit
+
+- **Sachverhalt**: Ein Autolenker verfolgte eine Fahrzeuglenkerin über eine Distanz von zwei Kilometern mit extrem geringem Abstand, zwang sie auf einer Strasse zum Anhalten, stieg mit einem Baseballschläger aus, schlug wütend an ihre Scheibe und versuchte, die Fahrertüre aufzureissen.
+- **Kernaussage**: Ein solches aggressives Auftreten mit einer Schlagwaffe an einem blockierten Fahrzeug ist nach objektivem Massstab zweifelsfrei geeignet, eine durchschnittlich belastbare Person in erhebliche Angst und Schrecken zu versetzen. Dass die Geschädigte anschliessend wegfahren und die Polizei rufen konnte, beseitigt den eingetretenen Taterfolg nicht (E. 2.3).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Konkludente schwere Drohung, Bedrohung im Strassenverkehr mit Waffen.
+
+---
+
+### [BGer 6B_1282/2016 vom 14. September 2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1282-2016_2017-09-14.html) E. 2.2, 2.3 — Versuchte Drohung: Ausbleiben von Angst oder Schrecken beim Opfer
+
+- **Sachverhalt**: Der Beschuldigte stiess gegenüber seiner Ehefrau massive Mord- und Suiziddrohungen aus («er mache eher mit sich Schluss, als sie nochmals anzufassen; er könne ihr das Herz herausreissen oder sie totschlagen»). Die Ehefrau sagte aus, sie habe gewusst, dass er aus Hilflosigkeit handle, habe die Drohungen nicht ernst genommen und sei nicht verängstigt worden.
+- **Kernaussage**: Art. 180 Abs. 1 StGB verlangt als Erfolgsdelikt, dass das Opfer tatsächlich in Schrecken oder Angst versetzt wird. Bleibt diese seelische Erschütterung aus, weil das Opfer die Äusserung nicht ernst nimmt, liegt bei gegebenem Vorsatz eine versuchte Drohung (Art. 180 Abs. 1 i.V.m. Art. 22 Abs. 1 StGB) vor. Die Androhung kann sich auch auf Übel gegen die eigene Person des Drohenden beziehen (E. 2.2–2.5).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB, Art. 22 StGB — Versuchte Drohung, subjektive Furcht als Taterfolg.
+
+---
+
+### [BGer 6B_1121/2013 vom 6. Mai 2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1121-2013_2014-05-06.html) E. 6.3, 10.3 — Mehrfache Drohungen im Ehekonflikt und Verlust des Sicherheitsgefühls
+
+- **Sachverhalt**: Im Rahmen langwieriger ehelicher Auseinandersetzungen äusserte der Ehemann wiederholt «ich mache dich fertig» (begleitet von Handgreiflichkeiten), hielt ihr eine Heugabel an den Hals, fuhr mit aufheulendem Motor auf sie zu und erklärte, er hätte sie «schon das letzte Mal zu Tode schlagen sollen». Die Frau gab an, sie habe beim Vorfall im Stall zunächst weitergearbeitet, dann aber ein «ungutes Gefühl» verspürt.
+- **Kernaussage**: Die Äusserung «ich mache dich fertig» kann im Kontext von Tätlichkeiten und eskalierter Gewalt eine schwere Drohung darstellen; der Täter muss das Übel nicht detailliert beschreiben. Für den Taterfolg ist keine lähmende Panik oder Verzweiflung nötig; der Verlust des normalen Sicherheitsgefühls («ungutes Gefühl») genügt zur Tatbestandsvollendung (E. 6.3, 10.3).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Taterfolg, Verlust des Sicherheitsgefühls, Gesamtwürdigung bei verbalen Drohungen.
+
+---
+
+### [BGer 6B_192/2012 vom 10. September 2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-192-2012_2012-09-10.html) E. 1.2–1.4 — Suiziddrohung («Durchladen») als versuchte Drohung nach Art. 180 Abs. 2 lit. a StGB
+
+- **Sachverhalt**: Ein getrennt lebender Ehemann erklärte seiner Ehefrau während des Scheidungsverfahrens, er gehe jetzt nach Hause, lade durch und komme nicht wieder. Die Ehefrau erstattete erst fast zwei Jahre später Strafanzeige aus anderem Anlass und war durch die Ankündigung nicht in Angst versetzt worden.
+- **Kernaussage**: Die Ankündigung, sich das Leben zu nehmen, stellt eine schwere Drohung dar, wenn sie geeignet ist, nahe Angehörige (hier die Mutter gemeinsamer Kinder) durch die zu befürchtenden seelischen Belastungen in schwere Angst zu versetzen. Weil der tatsächliche Schrecken ausblieb, der Täter die Einschüchterungswirkung aber billigend in Kauf nahm, ist der Schuldspruch wegen versuchter Drohung von Amtes wegen (Art. 180 Abs. 2 lit. a i.V.m. Art. 22 Abs. 1 StGB) bundesrechtskonform (E. 1.2–1.4).
+- **Einschlägig für**: Art. 180 Abs. 2 lit. a StGB, Art. 22 StGB — Suiziddrohung als strafbare Drohung, versuchte Drohung im Eheverhältnis.
+
+---
+
+### [BGer 6B_351/2007 vom 9. November 2007](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-351-2007_2007-11-09.html) E. 5.3–5.5 — Drohung gegen Behördenmitglied: «Ohrring aus dem Grind reissen»
+
+- **Sachverhalt**: Ein Beschuldigter rief frühmorgens um 06.45 Uhr einen ehemaligen Gemeinderat und Sozialamtsvorsteher an, beschimpfte ihn massiv und drohte ihm, ihm «den Ohrring aus dem Grind zu reissen» und ihn «fertig zu machen», flankiert von diffamierenden Flugblättern im Internet.
+- **Kernaussage**: Die Androhung eines physischen Eingriffs in die körperliche Integrität stellt regelmässig einen schweren Eingriff in das Sicherheitsgefühl dar. Erschwerend fielen der Anruf zur Unzeit in die Privatsphäre und das Vorverhalten ins Gewicht. Ob der Täter die Drohung ernsthaft umsetzen wollte, ist irrelevant; massgeblich ist allein, dass er wollte oder in Kauf nahm, dass das Opfer die Drohung ernst nimmt (E. 5.3–5.5).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Drohung gegen Amtsträger, subjektiver Tatbestand, Irrelevanz des Umsetzungswillens.
+
+---
+
+### [BGer 6P.86/2005 vom 1. Oktober 2005](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6P-86-2005_2005-10-01.html) E. 8.2, 8.3 — «Gezielter Terror» im Strassenverkehr
+
+- **Sachverhalt**: Mehrkilometerlanges dichtestes Auffahren auf der Autobahn, Abdrängen, Ausbremsen auf einer Landstrasse und wutentbranntes Herantreten an die Fahrertür mit dem Ausruf «ich schlag dir deine Fresse ein».
+- **Kernaussage**: Auch wenn der verbale Ausruf isoliert betrachtet als blosse Unmutsäusserung gewertet werden könnte, begründet die Gesamtheit des Verhaltens («gezielter Terror») zweifelsfrei eine schwere Drohung im Sinne von Art. 180 Abs. 1 StGB (E. 8.2–8.3).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Aggressionsdelikte im Strassenverkehr, Gesamtwürdigung.
+
+---
+
+### [BGer 6S.53/2001 vom 21. Februar 2001](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6S-53-2001_2001-02-21.html) E. 2b, 2c — Abgrenzung: Psychisch fertig machen ist keine schwere Drohung
+
+- **Sachverhalt**: Ein Anrufer forderte von der Mutter seiner Bekannten Fr. 20'000.– und drohte, sie werde sehen, was passiere, wenn sie nicht zahle; er werde sie «fertig machen». Die Mutter ging davon aus, er wolle sie durch Verleumdungen und Beschimpfungen im Dorf psychisch fertig machen.
+- **Kernaussage**: Eine Ankündigung, die nach ihrem objektiven Sinngehalt auf eine rein psychische Beeinträchtigung durch üble Nachrede oder Beschimpfungen abzielt, ist von vornherein nicht geeignet, eine Person nach Art. 180 StGB in Angst oder Schrecken zu versetzen. Der Tatbestand der Drohung war nicht erfüllt (E. 2b, 2c).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Verwerfungsfall, negative Abgrenzung zu Ehrverletzungen und psychischem Druck.
+
+---
+
+## III. Kantonale Rechtsprechung
+
+### [Zivil- und Strafgericht Bern BK 2021 255 vom 18. Mai 2021](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2021-255_2021-09-09.pdf) E. 4.1–4.4 — WhatsApp-Drohung des Ex-Mannes: Aufhebung der Nichtanhandnahme
+
+- **Kanton**: Bern (Obergericht, Beschwerdekammer in Strafsachen)
+- **Sachverhalt**: Ein geschiedener Ehemann sandte seiner Ex-Frau eine WhatsApp-Nachricht betreffend ihren neuen Partner: «Was ihm passiert isch iz nüm mi schuld!! I wird ihm d schwärzischti zyt i sim läba zeige. Är wird ds nid chönne ushaute u überläbe. I ha di scho viu vorgwahrnt. U dir, warte nume. Äs wird höllisch für di si». Die Staatsanwaltschaft verfügte eine Nichtanhandnahme mit der Begründung, der Text sei vage und nehme auf Schicksal bzw. Spiritualität Bezug.
+- **Kernaussage**: Das Obergericht hob die Nichtanhandnahme auf. Der Text verweist nicht auf höhere Mächte, sondern kündigt mit der Formulierung («I wird ihm d schwärzischti zyt zeigen [...] nid chönne überläbe») ein vom Willen des Täters abhängiges schweres Übel an. Die Nachricht war objektiv geeignet, Angst auszulösen; der Adressat wählte den Notruf und gab fortdauernde Furcht zu Protokoll (E. 4.3–4.4).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB, Art. 310 StPO — Digitale Drohung über Messenger, Abgrenzung zur Nichtanhandnahme.
+
+---
+
+### [Zivil- und Strafgericht Bern BK 2020 485 vom 23. Oktober 2020](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2020-485_2021-01-06.pdf) E. 4.2–4.4 — Polizeiliche Ermahnung: Keine schwere Drohung
+
+- **Kanton**: Bern (Obergericht, Beschwerdekammer in Strafsachen)
+- **Sachverhalt**: Ein Bürger erstattete Strafanzeige gegen einen Kantonspolizisten wegen Drohung und Beschimpfung. Der Beamte habe ihm bei einer Anzeigeaufnahme gesagt, er solle «das Schnäbeli nicht einziehen», habe «jetzt noch zwei Minuten Zeit, sonst werde er richtig ungemütlich und das sei dann wirklich nicht mehr lustig».
+- **Kernaussage**: Die Ankündigung eines Polizisten, «richtig ungemütlich» zu werden, stellt nach objektivem Massstab keine schwere Drohung im Sinne von Art. 180 StGB dar, sondern eine straflose Unmutsbekundung. Die Nichtanhandnahme wurde zu Recht verfügt (E. 4.2–4.4).
+- **Einschlägig für**: Art. 180 Abs. 1 StGB — Verwerfungsfall, Bagatellgrenze bei behördlicher Kommunikation.
+
+---
+
+### [Obergericht Thurgau RBOG 2025 Nr. 25 vom 10. Juli 2024](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--25_2025.html) E. 6.3.3 — Konkurrenzverhältnis zwischen Drohung und nachfolgender Körperverletzung
+
+- **Kanton**: Thurgau (Obergericht, 1. Abteilung, SBR.2024.20)
+- **Sachverhalt**: Grundsatzurteil zur konkurrenzrechtlichen Einordnung, wenn eine drohende Person die Drohung anschliessend in die Tat umsetzt.
+- **Kernaussage**: Bei einem engen zeitlichen Zusammenhang bildet die vorausgehende Drohung mit der verübten Körperverletzung eine natürliche Handlungseinheit und tritt als mitbestrafte Vortat zurück, sofern das angedrohte Übel nicht über die verübte Körperverletzung hinausgeht. Reicht die Drohung weiter (z.B. Todesdrohung vor blosser einfacher Körperverletzung), besteht echte Realkonkurrenz (E. 6.3.3).
+- **Einschlägig für**: Art. 180, Art. 122, Art. 123 StGB — Konkurrenzdogmatik in der kantonalen Praxis.
+
+---
+
+### [Obergericht Zürich SB160469 vom 29. Juni 2017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160469_2017-06-29.pdf) E. 4.1–4.4 — «Ich zeig es dir schon» im Scheidungskonflikt: Freispruch
+
+- **Kanton**: Zürich (Obergericht, I. Strafkammer)
+- **Sachverhalt**: Ein geschiedener Ehemann traf seine Ex-Frau in einem VBZ-Bus, ballte die Faust und rief: «Warte nur, ich werde es dir schon zeigen!». Er kam direkt von einer Anwaltskonsultation betreffend Alimenten- und Besuchsrechtsstreitigkeiten. Die erste Instanz verurteilte ihn wegen Art. 180 Abs. 1 i.V.m. Abs. 2 lit. a StGB.
+- **Kernaussage**: Das Obergericht sprach den Beschuldigten frei. Im Scheidungskrieg sind wüste Worte und Einschüchterungsversuche häufig Ausdruck verletzten Stolzes, ohne dass der Wille zur Gewalttat besteht. Vage Worte wie «ich zeige es dir» können vor diesem Hintergrund auch das Ausschöpfen aller rechtlichen Mittel bedeuten. Mangels hinreichender Bestimmtheit des angedrohten Übels ist der Tatbestand nicht erfüllt (E. 4.1–4.4).
+- **Einschlägig für**: Art. 180 StGB — Verwerfungsfall, Zurückhaltung bei verbalen Streitigkeiten in Scheidungsverfahren.
+
+---
+
+### [Obergericht Zürich SB160346 vom 24. November 2016](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160346_2016-11-24.pdf) E. 3.3 — Echte Konkurrenz zwischen Drohung und Tätlichkeiten bei Würgen
+
+- **Kanton**: Zürich (Obergericht, II. Strafkammer; geschützt in [BGer 6B_393/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-393-2017_2017-07-06.html) E. 2.3)
+- **Sachverhalt**: Ein Beschuldigter würgte seine Partnerin im Streit und bedrohte sie. Die Vorinstanz verurteilte ihn wegen Tätlichkeiten und Drohung.
+- **Kernaussage**: Der Unrechtsgehalt einer massiven Drohung erschöpft sich nicht in den begleitenden Tätlichkeiten (Art. 126 StGB), sondern wiegt regelmässig weit schwerer. Art. 180 StGB wird nicht von Art. 126 StGB konsumiert; es liegt echte Konkurrenz vor (E. 3.3).
+- **Einschlägig für**: Art. 180 StGB, Art. 126 StGB — Konkurrenzen bei häuslicher Gewalt.
+
+---
+
+*Letzte Aktualisierung: 21. September 2026*

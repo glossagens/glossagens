@@ -16,6 +16,11 @@ agent_verified: true
 revisions:
 - date: '2026-09-21'
   by: Antigravity Agent
+  model: gemini-3.8-flash
+  mcp_verified: true
+  note: Umfassender Ausbau von Art. 180 StGB (Drohung) zu einem vollwertigen Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, objektive Eignung und Gesamtwürdigung, Verlust des Sicherheitsgefühls und versuchte Drohung inkl. Suizidankündigung, Konkubinat auf unbestimmte Zeit bei häuslicher Gewalt gemäss BGer 6B_621/2024, Konkurrenzdogmatik zu Körperverletzung gemäss BGer 6B_1193/2021 und TG OG RBOG 2025 Nr. 25, kantonale Praxisfragen und Praxishinweise).
+- date: '2026-09-21'
+  by: Antigravity Agent
   model: claude-3-7-sonnet
   mcp_verified: true
   note: Aufnahme und umfassende Kommentierung von Art. 64 StGB (Verwahrung) als vollständiger Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Prüfschema, Abgrenzungskasuistik zur stationären Massnahme Art. 59, Lebenslängliche Verwahrung gemäss BGE 140 IV 1, Anlasstatendogmatik, Aktengutachten, kantonale Praxisfragen und Praxishinweise).
