@@ -14,11 +14,6 @@ tags:
 - Strafgesetzbuch
 agent_verified: true
 revisions:
-- date: '2026-09-22'
-  by: Antigravity Agent
-  model: gemini-3.8-flash
-  mcp_verified: true
-  note: Umfassender Ausbau von Art. 56 StGB (Allgemeine Voraussetzungen der Massnahmen) zu einem vollwertigen Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Merkmalskatalog und Prüfschema, Subsidiarität der Strafe allein, Behandlungsbedürfnis und Motivierbarkeit, Konnexitätsdoktrin, Verhältnismässigkeit und Rechtsgüterabwägung im Zeitverlauf, forensisch-psychiatrische Begutachtungsstandards nach BGE 140 IV 49, BGE 144 IV 176 und BGE 146 IV 1, Behandlerausschluss nach Abs. 4 und zwei Gutachter nach Abs. 4bis, Judikaturdivergenzen, kantonale Praxisfragen und Praxishinweise).
 - date: '2026-09-21'
   by: Antigravity Agent
   model: gemini-3.8-flash

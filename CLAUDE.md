@@ -118,6 +118,7 @@ Regeln:
 - Die Sachgruppe wird aus der ersten Ziffer der SR-Nummer abgeleitet (`0.101` → Gruppe 0, `311.0` → Gruppe 3). Nichts von Hand zuordnen.
 - `weight` beim Anlegen eines neuen Gesetzes so setzen, dass die Sidebar der SR-Reihenfolge folgt (Weights der Nachbargesetze prüfen).
 - Der Body enthält **nur** den Einleitungssatz mit Fedlex-Link. Die Artikelliste rendert `articles.html` automatisch — **keine** Artikelliste oder -tabelle von Hand pflegen.
+- Bei der Bearbeitung, Erweiterung oder Neuanlage einzelner Artikel (`art-{nr}/`) darf `content/kommentar/{gesetz}/_index.md` **nicht angefasst** werden (weder Body noch `revisions`). Die Revisionshistorie gehört ausschliesslich in das jeweilige Artikel-Bundle (`art-{nr}/_index.md` und `rechtsprechung.md`).
 
 ### Systematik-Gliederung (`data/systematik/{gesetz}.yaml`)
 

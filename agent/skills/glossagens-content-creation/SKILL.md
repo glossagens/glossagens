@@ -522,6 +522,8 @@ Kommentar zum [Bundesgesetz ... vom ... (SR {SRNR})](https://www.fedlex.admin.ch
 ```
 
 **Wichtig:**
+- **Nur bei NEUEN Gesetzen anlegen**: `content/kommentar/{gesetz}/_index.md` wird ausschliesslich **einmalig bei der erstmaligen Einführung eines neuen Erlasses** angelegt.
+- **Bei Artikelbearbeitung/Erweiterung NIEMALS anrühren**: Bei der Neuerstellung, Erweiterung oder Pflege einzelner Artikel (`art-{nr}/`) darf `content/kommentar/{gesetz}/_index.md` **unter keinen Umständen** geändert oder mit Revisions-Einträgen versehen werden. Die Artikelliste im Inhaltsverzeichnis wird von Hugo und `data/systematik/{gesetz}.yaml` vollautomatisch generiert. Die Revisionshistorie von Artikeländerungen gehört ausschliesslich in das jeweilige Page Bundle (`art-{nr}/_index.md` und `rechtsprechung.md`).
 - **Kein `date`, `lastmod`, `tags`, `agent_verified`** — das ist nur für Artikel-Kommentare (`art-{NNN}/_index.md`)!
 - **Weight** bestimmt die Reihenfolge im Menü (OR=1, StPO=2, BewG=3, EMRK=4, ZGB=5, etc.)
 - **Description** sollte die SR-Nummer und Rechtsgebiet kurz nennen

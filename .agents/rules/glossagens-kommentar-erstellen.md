@@ -24,7 +24,7 @@ Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
 6. **Verifizierbarkeit & Qualitätskontrolle (Halluzinationsverbot)**: 
    - Direkte Verlinkung aller zitierten Urteile (in der Regel via OpenCaseLaw.ch / MCP-Urteilsdatenbank).
    - Jede zitierte Quelle (Urteile, Literatur, Gesetzesmaterialien) **muss tatsächlich existieren**. Es dürfen unter keinen Umständen Urteile, Literaturstellen oder Materialien erfunden werden.
-7. **Gesetzesübersicht**: Aktualisierung der Gesetzes-Übersichtsseite (`content/kommentar/{gesetz}/_index.md`), um den neuen Artikel im Inhaltsverzeichnis des jeweiligen Gesetzes zu verlinken.
+7. **Gesetzesübersicht nicht anpassen**: Das Inhaltsverzeichnis der Gesetzesseite wird durch Hugo (`articles.html`) und `data/systematik/{gesetz}.yaml` **vollautomatisch** gerendert. Eine Anpassung oder Ergänzung von `content/kommentar/{gesetz}/_index.md` bei der Erstellung, Erweiterung oder Pflege einzelner Artikel ist **vollkommen überflüssig und untersagt**. Die Revisionshistorie gehört ausschliesslich in das jeweilige Artikel-Bundle (`art-{nr}/_index.md` und `rechtsprechung.md`). `content/kommentar/{gesetz}/_index.md` wird ausschliesslich einmalig bei der erstmaligen Aufnahme eines völlig neuen Gesetzes angelegt.
 8. **Tabellenformatierung (Keine Code-Fences)**: Tabellen (Prüfschemas, Kasuistik, Schwellenwert-Gegenüberstellungen, Muster A/B) müssen zwingend als **reines Markdown direkt in den Textfluss** gesetzt werden (`| Spalte | ... |`). Sie dürfen **unter keinen Umständen** in Markdown-Codeblöcke (` ```markdown ... ``` `) eingefasst werden. Ein Codeblock verhindert das HTML-Rendering durch Hugo und führt dazu, dass Tabellen als unleserlicher Quelltext mit horizontalem Scrollbalken dargestellt werden.
 
 ---
@@ -138,7 +138,7 @@ graph TD
 * Erstellung des Page Bundles und Befüllung der `_index.md` und `rechtsprechung.md` unter Einhaltung des Onlinekommentar-Stils.
 * Formulierung der Abstracts und Kommentierungen in präziser, sachlicher Schweizer Juristensprache (kein Eszett).
 * Aktuelle Materialien (BBl) und Schweizer Literatur einbinden.
-* Aktualisierung der Gesetzes-Übersichtsseite (`content/kommentar/{gesetz}/_index.md`) zur Verlinkung des neuen Artikels im jeweiligen Gesetzesindex.
+* **Keine Anpassung der Gesetzesübersicht**: Die Artikelliste auf `content/kommentar/{gesetz}/_index.md` wird von Hugo vollautomatisch generiert; die Datei darf bei Artikeländerungen nicht angefasst werden.
 
 ### Schritt 4: Verlinkung & Referenzierung
 * Erstellung of Hyperlinks für alle Entscheide.
