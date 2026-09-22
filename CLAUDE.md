@@ -298,9 +298,31 @@ kommt ein weiteres Feld auf eine Seite, muss das andere per CSS weichen (so
 gelöst in `suche.html` für `/kommentar/`).
 
 Der Volltextindex umfasst den ganzen Artikeltext
-(`params.search.flexsearch.index = "content"`): 14 MB, rund 4 MB über die
-Leitung, geladen erst beim ersten Fokus auf ein Suchfeld. Gemessene Alternativen
-stehen als Kommentar in `hugo.toml`.
+(`params.search.flexsearch.index = "content"`): 17,8 MB, rund 4,6 MB über die
+Leitung. Gemessene Alternativen stehen als Kommentar in `hugo.toml`.
+
+**Ladezustand und Vorabladen** (`assets/js/core/suche-ladezustand.js`): Hextra
+legt `window.pageIndex` an, *bevor* es die Daten holt — jede Suche in der
+Zwischenzeit läuft gegen einen leeren Index und meldet fälschlich „Keine
+Ergebnisse gefunden". Das Skript ersetzt diese Meldung durch eine Zeile mit
+Spinner (auch in `.hextra-search-status` für Screenreader) und stösst die Suche
+des Themes per erneutem `keyup` an, sobald der Index steht; die Liste füllt sich
+also ohne weiteren Tastendruck. Nach drei Minuten wechselt der Text auf „konnte
+nicht geladen werden", der Poller läuft aber weiter.
+
+Den Aufbau startet das Theme in seinem `focus`-Handler. Ein synthetisches
+`focus`-Event löst ihn aus, ohne den Tastaturfokus zu verschieben — so beginnt
+der Download schon, wenn der Zeiger das Feld erreicht (`pointerenter`,
+`touchstart`), und auf `/kommentar/` in der Leerlaufzeit nach `load` (dort ist
+die Suche der Zweck der Seite; bei `saveData` oder 2G/3G unterbleibt es).
+Bewusst **nicht** auf jeder Seite auf Vorrat: 4,6 MB plus mehrere Sekunden
+Indexaufbau träfen sonst auch jeden, der nie sucht.
+
+Wer in diesen Skripten die Trefferliste anfasst, nimmt die **sichtbare**
+`.hextra-search-wrapper` (so wie `getActiveSearchElement()` im Theme), nicht
+`feld.closest(…)`: Navbar- und Sidebar-Feld stehen beide im DOM, nur eines ist
+je nach Breite eingeblendet — sonst landet der Eintrag in der unsichtbaren
+Liste.
 
 ## PR-Verifikation durch Hermes
 

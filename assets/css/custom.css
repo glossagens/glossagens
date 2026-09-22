@@ -365,3 +365,40 @@ input[type="search"] {
   border-left: 2px solid var(--gg-rule);
 }
 .dark .hextra-search-wrapper .gl-sprung-hinweis { color: #9a9184; }
+
+/* =====================================================================
+   Ladezustand der Volltextsuche (assets/js/core/suche-ladezustand.js)
+   Ersetzt die Leermeldung des Themes, solange der Index im Aufbau ist.
+   ===================================================================== */
+.hextra-search-wrapper .gl-suche-laden {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin: 0 .625rem .25rem;
+  padding: .5rem .625rem;
+  font-size: .8125rem;
+  color: var(--gg-muted);
+  border-left: 2px solid var(--gg-rule);
+}
+.dark .hextra-search-wrapper .gl-suche-laden { color: #9a9184; }
+.hextra-search-wrapper .gl-suche-laden-fehler {
+  border-left-color: var(--gg-accent);
+}
+.hextra-search-wrapper .gl-suche-spinner {
+  flex: none;
+  width: .75rem;
+  height: .75rem;
+  border: 1.5px solid var(--gg-rule);
+  border-top-color: var(--gg-accent);
+  border-radius: 50%;
+  animation: gl-suche-dreht .7s linear infinite;
+}
+@keyframes gl-suche-dreht { to { transform: rotate(360deg); } }
+/* Ohne Bewegung: pulsierender Punkt statt Rad. */
+@media (prefers-reduced-motion: reduce) {
+  .hextra-search-wrapper .gl-suche-spinner {
+    border-color: var(--gg-accent);
+    animation: gl-suche-pulst 1.4s ease-in-out infinite;
+  }
+  @keyframes gl-suche-pulst { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
+}
