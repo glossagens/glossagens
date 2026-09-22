@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: "2024-01-01"
-lastmod: "2026-09-10"
+lastmod: "2026-09-22"
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug)."
 tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO"]
 agent_verified: false
 revisions:
+  - date: "2026-09-22"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Nachführung mit BGer 7B_270/2025 und 7B_271/2025 vom 02.09.2026 (zweite Rückweisung im I.________ Funds-Verfahren nach 7B_486/2024): Gehörsverletzungen bei der Datentriage durch unzureichende Individualisierung/Auflistung der freigegebenen Dateien (E. 4.3), fehlende Fristansetzung zur Stellungnahme zu Sachverständigenberichten gemäss Art. 188 StPO (E. 4.4) und unbegründetes Abweichen von der mündlichen Triageverhandlung nach Art. 248a Abs. 5 StPO (E. 4.5)."
   - date: "2026-09-10"
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -238,5 +243,25 @@ revisions:
 **Erwägungen:**
 - **E. 2.3:** Analoge Geltung von Art. 110 Abs. 1 und 2 StPO für Behördeneingaben im strafprozessualen Zwangsmassnahmenverfahren.
 - **E. 2.4:** Ausschluss einer Nachfristansetzung zugunsten von Strafbehörden und Verwirkung des Entsiegelungsanspruchs.
+
+---
+
+### 16. [BGer 7B_270/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html) und 7B_271/2025 vom 02.09.2026 — Gehörsrechte bei der Datentriage: Dokumentationspflicht, Sachverständigenberichte (Art. 188 StPO) und Triageverhandlung (Art. 248a Abs. 5 StPO)
+
+**Datum:** 2. September 2026 | **Signatur:** [BGer 7B_270/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html)
+
+**Kernsatz:** Ein Entsiegelungsentscheid muss die freigegebenen Dateien hinreichend konkret bezeichnen und auflisten; eine blosse Zuweisung anhand vager Stichwörter im Dispositiv verletzt das rechtliche Gehör (Art. 29 Abs. 2 BV), da den Betroffenen ohne Auflistung und ohne Einsicht die Überprüfung der Triage auf Bundesrechtskonformität verunmöglicht wird. Bei Beizug eines Sachverständigen nach Art. 248a Abs. 6 StPO ist den Parteien Frist zur Stellungnahme zum Gutachten anzusetzen (Art. 188 StPO). Eine Abweichung von der in Art. 248a Abs. 5 StPO vorgeschriebenen Triageverhandlung mit beiden Parteien bedarf einer ausdrücklichen Begründung.
+
+**Sachverhalt:** In der Strafuntersuchung im Zusammenhang mit den kollabierten I.________ Funds wies das Zwangsmassnahmengericht Zürich nach der ersten bundesgerichtlichen Rückweisung ([BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html)) erneut Daten der Kategorie C zu und gab sie frei, ohne im Dispositiv oder den Erwägungen die konkreten Dateien aufzulisten. Zudem wurde ein Triagebericht des Sachverständigen den Parteien erst zusammen mit dem Endentscheid zugestellt und eine «nicht parteiöffentliche Triageverhandlung» ohne Begründung durchgeführt. Das Bundesgericht hiess die Beschwerden erneut gut und wies die Sache wegen mehrfacher Gehörsverletzung an die Vorinstanz zurück.
+
+**Erwägungen:**
+- **E. 3.2.1:** Bejahung eines Endentscheids gemäss Art. 90 BGG für eine nicht beschuldigte Drittgesellschaft, für welche die Datenfreigabe das Verfahren abschliesst.
+- **E. 3.2.2:** Drohender nicht wieder gutzumachender Nachteil (Art. 93 Abs. 1 lit. a BGG) bei substanziierter Berufung auf das Anwaltsgeheimnis, da die Offenbarung irreversibel ist (BGE 151 IV 344 E. 2.2).
+- **E. 4.2:** Bestätigung: Kein bedingungsloser Anspruch auf Gesamteinsicht in sichergestellte Daten zur Substanziierung (7B_486/2024 E. 4.4).
+- **E. 4.3:** Pflicht des Gerichts zur hinreichenden Individualisierung und Dokumentation der freigegebenen Dateien; Gehörsverletzung bei bloss summarischer Zuweisung anhand von Suchbegriffen («FINMA», «Enforcement»).
+- **E. 4.4:** Pflicht zur Fristansetzung zur Stellungnahme zu schriftlichen Sachverständigenberichten gemäss Art. 188 StPO; Gehörsverletzung bei Eröffnung erst zusammen mit dem Endentscheid.
+- **E. 4.5:** Zwingende Begründungspflicht bei Abweichung von der gesetzlich vorgesehenen Triageverhandlung mit Staatsanwaltschaft und berechtigter Person nach Art. 248a Abs. 5 StPO.
+- **E. 4.6:** Bestätigung: Die Sichtung und Aussonderung obliegt allein dem Gericht (Urteil 7B_489/2023 E. 2.2); die gerichtliche Dokumentation muss den Parteien aber die Prüfung der Bundesrechtskonformität ermöglichen.
+
 
 
