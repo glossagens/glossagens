@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 30 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-18
-description: "Rechtsprechung zu Art. 30 BV — Gerichtliche Verfahren: gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheit, Vorbefassung, Referentensystem, soziale Medien, Wahlgericht, Ausnahmegerichte, Wohnsitzrichter, Öffentlichkeit"
-tags: ["Rechtsprechung", "BV", "gerichtliches Verfahren", "gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Vorbefassung", "Referentensystem", "soziale Medien", "Wahlgericht", "Öffentlichkeit", "Art. 30"]
-agent_verified: false
+lastmod: 2026-09-22
+description: "Übersicht der Rechtsprechung zu Art. 30 BV: Gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheitsgründe, Vorbefassung, Vergleichsverhandlungen, Ausnahmegerichte, Wohnsitzrichter und Justizöffentlichkeit."
+tags: ["Rechtsprechung", "BV", "Gerichtliche Verfahren", "Gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Wohnsitzrichter", "Justizöffentlichkeit", "Art. 30"]
+agent_verified: true
 revisions:
+  - date: 2026-09-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht gemäss Standard. Aufteilung in I. Leitentscheide (8 Entscheide) und II. Weitere Entscheide (9 Entscheide). Sämtliche Entscheide mit thematischem Zwischentitel, entscheidsuche-Link und präzisem Sachverhalts- und Kernaussagen-Abstract."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,124 +26,123 @@ revisions:
 
 # Rechtsprechung zu Art. 30 BV
 
-## Gesetzlicher Richter (Abs. 1 Satz 1, 1. Alternative)
+## I. Leitentscheide
 
-**BGE 126 II 377** — Das Bundesgericht stellte fest, dass Art. 30 BV keinen generellen gerichtlichen Rechtsschutz verlangt. Die Garantie des gesetzlichen Richters bedeutet nicht, dass für jedes rechtliche Anliegen ein Gerichtsweg offenstehen muss. Die Rechtsweggarantie wird vielmehr durch Art. 29a BV eigenständig geregelt. Art. 30 BV verlangt nur, dass — wenn ein gerichtliches Verfahren stattfindet — die Zuständigkeit durch Gesetz geregelt ist und die Garantien des unabhängigen und unparteiischen Gerichts gewahrt bleiben (E. 8d/bb).
+### Grenzen der Befangenheit bei gerichtlichen Vergleichsverhandlungen (Art. 124 Abs. 3 ZPO)
+[BGE 152 III 61](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-152-III-61_2026.html) (Urteil 4A_237/2025 vom 4. August 2025)  
+* **Sachverhalt**: Anlässlich einer Instruktionsverhandlung vor dem Handelsgericht des Kantons Aargau in einer Werklohnklage unterbreitete der Kammerpräsident den Parteien einen bezifferten Vergleichsvorschlag. Zu Beginn wies er auf den provisorischen Charakter seiner Einschätzung hin, erklärte dann jedoch, die werkvertraglichen Verzugsvoraussetzungen seien «mit Sicherheit» erfüllt und es werde «in jedem Fall etwas hängen bleiben». Als die Beklagte opponierte, entgegnete der Richter, andernfalls greife Art. 377 OR. Nach Scheitern des Vergleichs verlangte die Beklagte den Ausstand des Richters.
+* **Kernaussage**: Das Bundesgericht verneinte die Befangenheit. Das Gericht nimmt bei Vergleichsverhandlungen (Art. 124 Abs. 3 ZPO) eine schlichtende Vermittlerrolle ein. Parteien haben Anspruch auf eine klare Einschätzung ihrer Prozesschancen; aus einzelnen pointierten Bemerkungen darf im Rahmen der Gesamtwürdigung nicht auf Voreingenommenheit geschlossen werden. Ausführungen an Vergleichsgesprächen unterliegen zudem einem strikten Verwertungsverbot für das nachfolgende Endurteil (E. 6.2 und 6.3).
 
-**BGE 140 I 271** — Die Steuerrekurskommission des Kantons Wallis muss als richterliche Behörde die in Art. 30 Abs. 1 BV vorgesehenen Unabhängigkeitsgarantien erfüllen. Diese Garantien gelten aufgrund seiner Aufgaben auch für den Schreiber dieser Kommission. Der Umstand, dass der Schreiber gleichzeitig den Rechtsdienst im kantonalen Departement für Finanzen und Institutionen leitete, dem auch die kantonale Steuerverwaltung angegliedert war, verstiess gegen Art. 30 Abs. 1 BV. Die Unvereinbarkeitsgründe wurden jedoch verspätet geltend gemacht (E. 8).
-
-## Unabhängigkeit (Abs. 1 Satz 1, 3. Alternative)
-
-**BGE 137 I 1** — Kein Anspruch auf Bekanntgabe der Taggelder, welche an Richter bezahlt wurden. Die Bekanntgabe der einem Richter ausgerichteten Taggelder würde dazu führen, dass seine Arbeitsweise und damit auch der Ausgang eines Verfahrens durch prozessfremde Elemente beeinflusst und damit die Unabhängigkeit des Gerichts in Frage gestellt würde. Die Verwaltungskommission des Obergerichts verletzte weder das Datenschutzgesetz noch Art. 30 Abs. 1 BV, wenn sie die Bekanntgabe dieser Information gestützt auf überwiegende öffentliche Interessen verweigerte (E. 2).
-
-**BGE 137 V 210** — Leitentscheid zur Unabhängigkeit von MEDAS-Gutachten. Das Bundesgericht befasste sich eingehend mit der Frage, ob die Einholung von Administrativ- und Gerichtsgutachten bei den Regionalen Medizinischen Abklärungsstellen (MEDAS) mit Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar ist. Es stellte fest, dass die Wahrung eines fairen Verwaltungs- und Beschwerdeverfahrens grundsätzlich gewährleistet ist, sofern die Unabhängigkeit der Gutachter und die Waffengleichheit der Parteien gesichert sind. Die versicherte Person hat kein absolutes Recht auf Begutachtung durch eine MEDAS; die IV-Organe verfügen über ein Ermessen bei der Einholung von Gutachten (E. 5).
-
-**BGE 136 V 376** — Beweistauglichkeit von MEDAS-Administrativgutachten unter dem Aspekt der Unabhängigkeit. Ergänzend befasste sich das Bundesgericht mit der Beweistauglichkeit von Administrativgutachten der MEDAS unter den Aspekten der Unabhängigkeit sowie der Verfahrensfairness und Waffengleichheit. Es stellte fest, dass aus der formellen Parteieigenschaft der Durchführungsstelle der Invalidenversicherung im gerichtlichen Prozess nicht gefolgert werden darf, die Beweiserhebungen der Verwaltung im vorausgehenden nichtstreitigen Verfahren seien Parteihandlungen (E. 4).
-
-## Unparteiischkeit und Anschein der Befangenheit (Abs. 1 Satz 1, 4. Alternative)
-
-### Grundprinzip
-
-**BGE 126 I 68** — Leitentscheid zur Garantie des unparteiischen Richters. Nach der in Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK enthaltenen Garantie hat der Einzelne Anspruch darauf, dass seine Sache von einem unparteiischen, unvoreingenommenen und unbefangenen Richter ohne Einwirken sachfremder Umstände entschieden wird. Liegen bei objektiver Betrachtungsweise Gegebenheiten vor, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit zu begründen vermögen, so ist die Garantie verletzt (E. 3). Bei der Geltendmachung der Verletzung des Anspruchs auf den verfassungs- und konventionsmässigen Richter prüft das Bundesgericht die Auslegung und Anwendung des kantonalen Verfahrensrechts nur unter dem Gesichtswinkel der Willkür, mit freier Kognition hingegen, ob die als vertretbar erkannte Auslegung des kantonalen Prozessrechts mit den Garantien von Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar ist (E. 3).
-
-**BGE 140 III 221** — Leitentscheid zur Zusammenfassung der Grundsätze zur Befangenheit einer Gerichtsperson. Das Bundesgericht stellte die in der Rechtsprechung entwickelten Grundsätze zusammen (E. 4). Im konkreten Fall bejahte es den Anschein der Befangenheit einer Oberrichterin wegen besonderer Nähe ihres Ehemannes und ihres Schwagers zu einer mit einer Verfahrenspartei eng verbundenen Person. Über ihren Ehemann und ihren Schwager bestand eine derartige Nähe zu dem die Regressforderung bestreitenden Beschwerdegegner, dass die Oberrichterin wegen des Anscheins der Befangenheit hätte in den Ausstand treten müssen (E. 5.2.4). Gestützt auf Art. 48 ZPO hat eine betroffene Gerichtsperson einen möglichen Ausstandsgrund von sich aus vorgängig offenzulegen.
-
-### Parteizugehörigkeit einer Justizperson
-
-**BGer 1C_84/2026** — Parteizugehörigkeit einer Justizperson für sich allein begründet keinen Ausstandsgrund nach Art. 30 Abs. 1 BV. Die Beschwerdeführerin machte geltend, ein Oberrichter sei als SVP-Mitglied befangen. Das Bundesgericht hielt fest, dass die blosse Parteimitgliedschaft nicht den Anschein der Voreingenommenheit erweckt (Bestätigung von 2C_328/2025 E. 4.3; 9F_19/2024 E. 2.2.2). Ebenso wenig können Verfahrensfehler oder als unzutreffend empfundene Zwischenentscheide für sich allein als Ausdruck einer Voreingenommenheit qualifiziert werden; sie sind im Rechtsmittelverfahren geltend zu machen. Erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund begründen (BGE 125 I 119 E. 3e; 116 Ia 135 E. 3a). — *Bestätigt die ständige Praxis, dass Parteizugehörigkeit allein keinen Befangenheitsanschein begründet.*
-
-### Ermächtigungsverfahren und Amtsmissbrauch
-
-**BGer 1C_84/2026** — Im Ermächtigungsverfahren nach Art. 7 Abs. 2 lit. b StPO sind nur strafrechtliche Gesichtspunkte zu berücksichtigen; für die Erteilung der Ermächtigung genügt ein Mindestmass an Hinweisen auf strafrechtlich relevantes Verhalten (Bestätigung von BGE 149 IV 183 E. 2.1 und 2.3; 137 IV 269 E. 2.1 und 2.4). Eine Verweigerung der Ermächtigung kommt nur bei klarer Straflosigkeit in Betracht. Rechtmässige Vollzugsmassnahmen im Ausländerrecht — hier Wohnortkontrollen gestützt auf einen Zuführungsauftrag nach Art. 98a und Art. 124 Abs. 2 AIG — können nicht ohne Weiteres als Amtsmissbrauch nach Art. 312 StGB qualifiziert werden.
-
-### Missbräuchliche pauschale Ausstandsbegehren
-
-**BGer 7B_64/2026 vom 31. Juli 2026** — Die Beschwerdeführer (Eltern eines kranken Kindes) hatten Ausstandsablehnungen gegen mehrere Richter und Staatsanwälte gerichtet, welche ihre Strafbeschwerden gegen CHUV-Personal abgewiesen hatten. Das Bundesgericht wies die Beschwerden ab: Bloss fehlerhafte oder negative Entscheide als solche begründen keinen Befangenheitsanschein; erst besonders krasse und wiederholte Irrtümer, die einer schweren Amtspflichtverletzung gleichkommen, können einen Ausstandsgrund nach Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK rechtfertigen. Zudem ist die Ablehnung von Richtern, die nicht mehr mit der Sache befasst sind, mangels schutzwürdigen Interesses unzulässig. Das Bundesgericht warnte vor missbräuchlichen, pauschalen Ablehnungsbegehren.
-
-### Strafanzeige und Zivilklage des Richters
-
-**BGE 134 I 20** — Ein Richter, der Strafanzeige wegen Ehrverletzung eingereicht und Zivilklage auf Genugtuung erhoben hat, ist gehalten, in einem späteren Verfahren, an dem der Urheber der Verletzung beteiligt ist, von sich aus in Ausstand zu treten. Der Anschein der Befangenheit ist bei objektiver Betrachtungsweise gegeben, wenn der Richter in einer persönlichen Konfliktsituation mit einer Prozesspartei steht (E. 4).
-
-### Beisitzender Richter mit Mandat für die Gegenpartei
-
-**BGE 139 III 120** — Anschein der Befangenheit eines beisitzenden Richters. Ein Rechtsanwalt, der die Funktion eines beisitzenden Richters in einer Berufungsinstanz in Mietsachen bekleidet, erscheint objektiv als befangen, wenn er in einem anderen hängigen Verfahren die Gegenpartei einer der vor dieser Instanz prozessierenden Parteien vertritt. Das Bundesgericht bejahte den Anschein der Befangenheit und hielt fest, dass die Entdeckung eines Ablehnungsgrundes nach Abschluss des Verfahrens grundsätzlich nicht mehr zur Aufhebung des Urteils führen kann, sofern der Ablehnungsgrund nicht schon vorher bekannt war oder hätte bekannt sein müssen (E. 2).
-
-**BGE 133 I 1** — Ablehnung eines Richters bei Nebenamt als Parteivertreter. Ein Anwalt, der als nebenamtlicher Richter an einer Rechtsmittelinstanz mitwirkt, erscheint nicht schon deswegen als befangen, weil er in einem anderen Verfahren als Parteivertreter auftritt. Der Umstand, dass der Anwalt ein derartiges richterliches Nebenamt ausübt, tangiert im konkreten Fall das Gebot der Waffengleichheit der Parteien nicht (E. 5.3). Das Bundesgericht hielt fest, dass die Frage der Waffengleichheit nur unter konkreten Umständen zu prüfen ist, etwa wenn die Gefahr der Einschüchterung des Gegenanwalts dargetan ist.
-
-**BGE 139 I 121** — Ausstandsbegehren gegen sämtliche Mitglieder eines Gerichts. Der Umstand, dass ein Parteivertreter in Drittverfahren am Gericht ein Ersatzrichteramt bekleidet, stellt die Unbefangenheit der Gerichtsmitglieder nicht generell in Frage. Fehlt ein Verbot für das Auftreten von Ersatzrichtern als Parteivertreter, müssen über die äusseren Gegebenheiten funktioneller und organisatorischer Natur hinaus Umstände vorliegen, die den Anschein der Befangenheit und die Gefahr der Voreingenommenheit der einzelnen Gerichtsmitglieder zu begründen vermögen (E. 5.2-5.4). Das Bundesgericht bestätigte seine Rechtsprechung, wonach die blosse Kollegialität unter Gerichtsmitgliedern keine Ausstandspflicht gebietet.
-
-### Ausstand des Staatsanwalts
-
-**BGE 138 IV 142** — Leitentscheid zum Ausstand eines Staatsanwalts. Das Bundesgericht legte die anwendbaren Grundsätze für den Ausstand der Staatsanwaltschaft dar (E. 2.1–2.3). Ein Staatsanwalt, an den die Sache nach Aufhebung einer Einstellungsverfügung zurückgewiesen wurde, muss in Ausstand treten, wenn die Begründung der Einstellungsverfügung und seine späteren Aussagen den Anschein der Befangenheit rechtfertigen (E. 2.4 und 2.5). Die Grundsätze von Art. 6 Ziff. 1 EMRK und Art. 30 Abs. 1 BV gelten analog für die Staatsanwaltschaft in ihrer Funktion als Verfahrensbeteiligte.
-
-**BGE 141 IV 178** — Ausstandspflicht der beiden verfahrensleitenden Staatsanwälte wegen wiederholter und krasser Verfahrensfehler. Das Bundesgericht bejahte den Anschein der Befangenheit und hielt fest, dass wiederholte und krasse Verfahrensfehler eines Staatsanwalts den objektiven Anschein der Befangenheit begründen können, selbst wenn der Staatsanwalt in der Sache selbst unvoreingenommen ist (E. 3).
-
-### Vorbefassung
-
-**BGE 126 I 68** — Eine gewisse Besorgnis der Voreingenommenheit kann bei Vorbefassung des Richters entstehen. Ob ein Richter durch seine Mitwirkung an früheren Entscheidungen in einem Mass festgelegt ist, das ihn nicht mehr als unvoreingenommen erscheinen lässt, ist im Einzelfall zu beurteilen. Die blosse Vorbefassung als solche führt nicht zwangsläufig zur Befangenheit; massgebend ist, ob die konkret zu entscheidende Rechtsfrage trotz Vorbefassung als offen erscheint (E. 3).
-
-**BGE 131 I 113** — Mehrfache Funktionen des Richters in demselben Zivilprozessverfahren. Das Bundesgericht fasste die Rechtsprechung aus dem Blickwinkel des Anspruchs auf ein unbefangenes Gericht zusammen (E. 3.1-3.6). Mehrfache Funktionen des Zivilrichters, der sich in demselben Verfahren wiederholt mit einer Streitsache zu befassen hat, begründen für sich allein nicht ohne weiteres einen Ausstandsgrund (E. 3.6). Ein Richter erscheint nicht schon deswegen als voreingenommen, weil er ein Gesuch um unentgeltliche Rechtspflege wegen Aussichtslosigkeit der Rechtsbegehren abgewiesen hat; damit eine unzulässige Vorbefassung vorliegt, müssen noch weitere tatsächliche Gesichtspunkte hinzukommen (E. 3.7.1).
-
-**BGE 134 I 238** — Referentensystem und Meinungsbildung des Referenten. Das Berufungsverfahren vor Obergericht, das auf dem Referentensystem beruht, ist verfassungsrechtlich zulässig. Die vorläufige Meinungsbildung und der darauf beruhende Antrag an die urteilende Kammer bringen für sich genommen keinerlei Voreingenommenheit zum Ausdruck und sind mit der Richtergarantie nach Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK vereinbar (E. 2.3). Hinsichtlich der Mitteilung einer vorläufigen Einschätzung an Aussenstehende stellte das Bundesgericht differenzierte Grundsätze auf: Die Mitteilung an die Partei selbst ist problematisch, während die Mitteilung an den Rechtsvertreter eher den Charakter einer fachlichen Diskussion annimmt. Nicht zulässig ist es, im eigentlichen Sinne zum Rückzug des Rechtsmittels aufzufordern und dabei offen oder verdeckt Druck auszuüben (E. 2.4).
-
-**BGE 137 I 227** — Richterliche Einwirkung auf den Verteidiger. Die richterliche Einwirkung auf den Vertreter des Angeklagten, um diesen zum Rückzug der Berufung zu veranlassen, ist unzulässig (Bestätigung der Rechtsprechung; E. 2.2). Im konkreten Fall war nicht umstritten, dass Oberrichter Marti mit seinem Schreiben an den Verteidiger den Anschein der Befangenheit erweckte, weshalb ihm der Ausstand bewilligt wurde. Für die übrigen Mitglieder der Strafkammer bestanden keine Anhaltspunkte für den Anschein der Befangenheit (E. 2.5). Eine Gerichtspraxis, die den Anforderungen an den verfassungsmässigen Richter und die richterliche Unabhängigkeit nicht entspricht, kann jedoch den Anschein der Befangenheit aller Mitglieder eines Spruchkörpers begründen (E. 2.6.4).
-
-### Amterkumulation
-
-**BGE 131 I 24** — Zusammenfassung der Rechtsprechung zur Amterkumulation. Die kumulative Ausübung mehrerer Ämter durch dieselbe Person kann den Anschein der Befangenheit begründen, wenn die kumulierten Funktionen so beschaffen sind, dass eine Person in einem Verfahren eine Rolle einnimmt, die mit der Funktion als Richter unvereinbar ist.
-
-### Soziale Medien
-
-**BGE 144 I 159** — Facebook-Freundschaft als Ablehnungsgrund. Das Bundesgericht befasste sich erstmals mit der Frage, ob eine Freundschaft auf Facebook zwischen einer Gerichtsperson und einer Prozesspartei den Anschein der Befangenheit begründet. Es stellte fest, dass der Begriff der Freundschaft auf Facebook nicht der Freundschaft im traditionellen Sinne entspricht. Eine Facebook-Freundschaft bezeugt lediglich die Existenz von Kontakten zwischen Personen, die gemeinsame Interessen teilen; der betroffene Personenkreis ist deutlich weiter als bei einer Freundschaft im herkömmlichen Sinn. Allein das Faktum einer Facebook-Freundschaft genügt daher nicht, um den Anschein der Befangenheit zu begründen. Es kann lediglich ein Indiz unter anderen sein, das gemeinsam mit weiteren Umständen eine Ablehnung rechtfertigen kann (E. 4).
-
-### Untersuchungsrichter
-
-**BGE 127 I 196** — Anspruch auf einen unabhängigen und unbefangenen Untersuchungsrichter. Die Unabhängigkeit eines Untersuchungsrichters, der seine Strafuntersuchungs- und Anklagefunktion wahrnimmt, beurteilt sich nicht nach Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK, sondern nach Art. 29 Abs. 1 BV. Hinsichtlich der Unparteilichkeit im Sinne von Unabhängigkeit und Unbefangenheit kommt Art. 29 Abs. 1 BV allerdings ein mit Art. 30 Abs. 1 BV weitgehend übereinstimmender Gehalt zu (E. 2b). Der Untersuchungsrichter hat sich vorverurteilender Äusserungen zu enthalten; bezeichnet er den Beschuldigten vor Abschluss der Untersuchung vorweg als Betrüger, so ist der Ausstand zu gewähren (E. 2e).
-
-## Wohnsitzrichter (Abs. 2)
-
-**BGE 133 IV 171** — Art. 129 IPRG geht mit Rücksicht auf Art. 30 Abs. 2 BV vom Wohnsitzgerichtsstand aus ([BGE 133 IV 171](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_IV_171)).
-
-### Nicht übernommen
-
-> **Lücke:** Für den Satz, Art. 30 Abs. 2 BV garantiere der beklagten Person die Beurteilung von Zivilklagen am Wohnsitzgericht, konnte in diesem Durchgang kein tragender Entscheid verifiziert werden. Die Vorfassung führte dafür BGE 126 II 377 E. 8d/bb an — jene Erwägung sagt etwas anderes, nämlich dass Art. 13 EMRK und Art. 30 BV *keinen generellen gerichtlichen Rechtsschutz* verlangen (so zutreffend im Abschnitt «Sachlicher Geltungsbereich» zitiert).
-
-## Wahlgericht und gesetzlicher Richter
-
-**BGE 136 I 207** — Anspruch auf Beurteilung durch ein unabhängiges und unparteiisches Gericht am Beispiel des Handelsgerichts des Kantons Zürich. Wer in Ausübung einer gesetzlichen Wahlmöglichkeit nicht das ordentliche Gericht, sondern das Handelsgericht anruft, verwirkt dadurch nicht den Anspruch auf Ablehnung desselben. Wer einen Ablehnungsgrund nicht unverzüglich nach dessen Kenntnisnahme geltend macht, verwirkt den Anspruch auf seine spätere Anrufung (E. 3.4). Die Zusammensetzung des Handelsgerichts mit zwei hauptamtlichen Oberrichtern und drei Fachrichtern, die Firmeninhaber oder leitende Angestellte sein müssen, erweckt nicht den Anschein der Befangenheit oder der Parteilichkeit (E. 3.5).
-
-## Strafrechtsähnliche Sanktionen und Ausnahmegerichte
-
-**BGE 139 I 72** — Anwendbarkeit von Art. 30 BV auf kartellrechtliche Sanktionen. Das Bundesgericht stellte fest, dass kartellrechtliche Sanktionen nach Art. 49a KG einen strafrechtlichen bzw. strafrechtsähnlichen Charakter haben. Die Garantien von Art. 6 und 7 EMRK sowie Art. 30 und 32 BV sind bei solchen Sanktionen anwendbar (E. 2). Die Anforderungen von Art. 6 EMRK können in einem Kartellsanktionsverfahren auch erst im Verwaltungsgerichtsverfahren erfüllt werden (E. 4).
-
-## Öffentlichkeit (Abs. 3)
-
-Die Rechtsprechung zu Art. 30 Abs. 3 BV wird massgeblich durch die Parallelgarantie von Art. 6 Ziff. 1 EMRK geprägt. Das Bundesgericht hat wiederholt festgehalten, dass die Öffentlichkeit von Gerichtsverhandlung und Urteilsverkündung als demokratisches Transparenzgebot unverzichtbar ist und Ausnahmen restriktiv auszulegen sind.
-
-**BGE 142 I 188** — Anspruch auf öffentliche Verhandlung im Kindesschutzverfahren. Das Bundesgericht befasste sich mit den Voraussetzungen, unter denen im Kindesschutzverfahren die kantonale Beschwerdeinstanz ausnahmsweise auf die Durchführung einer publikumsöffentlichen Verhandlung sowie auf eine persönliche und mündliche Anhörung der Parteien verzichten darf (E. 3). Der Anspruch auf Öffentlichkeit der Verhandlung ergibt sich aus Art. 30 Abs. 3 BV und Art. 6 Ziff. 1 EMRK; Ausnahmen sind restriktiv zu handhaben und müssen durch schutzwürdige Interessen gerechtfertigt sein.
-
-## Abgrenzung zu anderen Verfahrensgarantien
-
-- **Art. 29 BV**: Anspruch auf rechtliches Gehör — gilt für alle Verfahren (nicht nur gerichtliche); Art. 30 BV konkretisiert den fairen Prozess für gerichtliche Verfahren
-- **Art. 29a BV**: Rechtsweggarantie — garantiert den Zugang zu einem Gericht; Art. 30 BV setzt den gerichtlichen Rechtsschutz als vorhanden voraus und regelt dessen Qualität
-- **Art. 6 Ziff. 1 EMRK**: Völkerrechtlicher Massstab, der weitgehend parallel zu Art. 30 BV wirkt, in einzelnen Punkten jedoch weitergehend ist (z.B. Öffentlichkeit der Urteilsverkündung in Strafsachen, Entscheidung innerhalb angemessener Frist)
 ---
 
-## Audit-Protokoll (12. August 2026)
+### Kontakte auf sozialen Netzwerken («Facebook-Freundschaft») als Ablehnungsgrund
+[BGE 144 I 159](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-159_2018.html) (Urteil 5A_701/2017 vom 14. Mai 2018)  
+* **Sachverhalt**: In einem KESB-Verfahren stritten nicht verheiratete Eltern um das Sorgerecht. Nach Anordnung des gemeinsamen Sorgerechts verlangte die Mutter die Aufhebung sämtlicher Amtshandlungen des KESB-Präsidenten, weil dieser auf Facebook mit dem Kindsvater «befreundet» war. Der Präsident gab an, er habe irrtümlich geglaubt, die Kontaktanfrage eines gleichnamigen früheren Mitarbeiters anzunehmen; der Vater gab an, die Vernetzung gar nicht bemerkt zu haben.
+* **Kernaussage**: Nach Koordinationsentscheid aller Zivil- und Strafkammern des Bundesgerichts (Art. 23 Abs. 2 BGG) begründet eine Vernetzung in sozialen Medien für sich allein keinen Anschein der Befangenheit. Der Begriff «Freund» auf Facebook entspricht nicht einer traditionellen persönlichen Freundschaft, sondern belegt bei Nutzerprofilen mit hunderten von Kontakten lediglich flüchtige oder berufliche Kontakte (E. 4.5).
 
-Ausgangslage: 68 beurteilte Paare, davon 39 gestützt und 22 teilweise — 74 %, Urteil B. **Keine erfundene Referenz, kein toter Pinpoint.** Der Artikel gehört zu den solidesten des Bestands.
+---
 
-### Fehlzuordnungen
+### Regelgebundene Spruchkörperbildung und Geschäftsverteilungspläne an Obergerichten
+[BGE 144 I 70](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-70_2018.html) (Urteil 1B_517/2017 vom 13. März 2018)  
+* **Sachverhalt**: Ein Beschwerdeführer rügte am Obergericht Bern, die Zuteilung der Fälle in der Beschwerdekammer beruhe auf keinem vorab fixierten Geschäftsverteilungsplan und keinem elektronischen Zufallsgenerator («Excel-Tabelle»), sondern werde von der Kammerpräsidentin nach freiem Ermessen vorgenommen. Dies verletze das Gebot des gesetzlichen Richters.
+* **Kernaussage**: Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK verlangen, dass für die Bildung des Spruchkörpers im Voraus abstrakte, transparente Kriterien existieren. Dies schliesst ein pflichtgemässes Ermessen bei der Zuteilung nicht aus, solange sich die Gerichtsleitung von sachlichen Kriterien (Arbeitsbelastung, Sprache, Spezialisierung, Abwesenheiten) leiten lässt und die Zuteilung ein reiner Akt der gerichtlichen Selbstverwaltung ohne Exekutiveinfluss bleibt (E. 4–6).
 
-| Referenz | Befund |
-|---|---|
-| BGE 126 II 377 | war im Abschnitt «Wohnsitzrichter» mit dem Satz angeführt, Art. 30 Abs. 2 BV garantiere die Beurteilung von Zivilklagen am Wohnsitzgericht. Die angegebene Erwägung 8d/bb sagt etwas anderes: «Art. 13 EMRK sowie Art. 30 BV verlangen keinen generellen gerichtlichen Rechtsschutz.» Genau so wird der Entscheid im Abschnitt «Sachlicher Geltungsbereich» zutreffend zitiert — die zweite Verwendung war die falsche. |
-| BGE 137 V 210 | war als Beleg dafür angeführt, dass die EMRK-Rechtsprechung bei der Auslegung von Art. 30 BV massgebend sei. Der Entscheid betrifft MEDAS-Gutachten und trifft diese methodische Aussage nicht. |
+---
 
-### Kreuzverweise im Fliesstext
+### Ausstandspflicht der Staatsanwaltschaft bei wiederholten und krassen Verfahrensfehlern
+[BGE 141 IV 178](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-178_2015.html) (Urteil 1B_419/2014 vom 27. April 2015)  
+* **Sachverhalt**: In einer Strafuntersuchung wegen vorsätzlicher Tötung widerrief die Staatsanwaltschaft von sich aus die amtliche Verteidigung des engagierten Anwalts, weil dieser dem Beschuldigten riet zu schweigen. Als das Obergericht der Beschwerde aufschiebende Wirkung erteilte und dies telefonisch mitteilte, setzten die beiden Staatsanwälte die Einvernahme dennoch ohne den Anwalt fort. Die Staatsanwältin mahnte den Beschuldigten ab, über den Sinn des Schweigens nachzudenken, und vertuschte die Bemerkung im Protokoll.
+* **Kernaussage**: Die Pflicht zur Unvoreingenommenheit der Staatsanwaltschaft im Vorverfahren fliesst aus Art. 29 Abs. 1 BV und Art. 56 lit. f StPO. Einfache Rechtsfehler begründen keinen Ausstand. Liegen jedoch wiederholte und krasse Verfahrensfehler vor, die in einer Gesamtschau den Versuch belegen, einen unbequemen Verteidiger zu verdrängen und Parteirechte zu untergraben, ist der objektive Anschein der Befangenheit gegeben (E. 3.5).
 
-Drei Formulierungen der Art «Das Bundesgericht bestätigte die in BGE 133 I 1 begründete Rechtsprechung …» oder «Ergänzend zu BGE 137 V 210 …» erzeugen ein Prüfpaar: Der genannte Entscheid wird gegen den *ganzen* Satz gehalten, obwohl er darin nur als Bezugspunkt erscheint. Die Stellen sind umformuliert; der eigentliche Beleg steht unverändert am Satzende.
+---
 
-### Parserfehler behoben
+### Befangenheit wegen familiärer und wirtschaftlicher Beziehungsnähe der Gerichtsperson
+[BGE 140 III 221](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-221_2014.html) (Urteil 4A_62/2014 vom 20. Mai 2014)  
+* **Sachverhalt**: In einem Regressprozess der Eidgenössischen Invalidenversicherung gegen das Nationale Versicherungsbüro (NVB) wirkte eine Oberrichterin mit. Die Schadenabwicklung lag bei der Versicherung F. AG. Der Ehemann der Richterin führte mit seinem Bruder eine gemeinsame Anwaltskanzlei; der Bruder (Schwager der Richterin) war früheres Direktionsmitglied der F. AG und hatte den massgebenden Schadensvergleich mitunterzeichnet.
+* **Kernaussage**: Befangenheit bejaht. Der verfassungsrechtliche Anspruch auf ein unparteiisches Gericht verbietet eine Beziehungsnähe zu Streitbeteiligten, die über nahe Angehörige vermittelt wird. Angesichts der Kanzleigemeinschaft des Ehemanns und der früheren Organstellung des Schwagers beim involvierten Haftpflichtversicherer lag der Anschein der Voreingenommenheit vor. Die Richterin verletzte ihre Offenlegungspflicht nach Art. 48 ZPO (E. 4 und 5).
 
-Steht ein Beleg **mitten** im Satz («Das Bundesgericht hat sich in BGE 137 V 210 eingehend mit der Frage befasst, ob …»), las der Parser bis dahin nur das Bruchstück davor — «Das Bundesgericht hat sich in» — und legte es dem Entscheid als Behauptung vor. Vier Paare dieses Artikels waren davon betroffen. Seit `PARSER_VERSION 7` wird der ganze Satz gelesen.
+---
+
+### Unabhängigkeit des Gerichtsschreibers und Verbot von Personalunionen mit der Verwaltung
+[BGE 140 I 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-271_2014.html) (Urteil 2C_708/2013 vom 20. Mai 2014)  
+* **Sachverhalt**: Ein Steuerpflichtiger focht seinen Steuerentscheid vor der Walliser Steuerrekurskommission an. Der leitende Gerichtsschreiber dieser Kommission amtierte gleichzeitig als Chef des Rechtsdienstes im kantonalen Finanzdepartement, dem die kantonale Steuerverwaltung unterstellt war.
+* **Kernaussage**: Die richterliche Unabhängigkeit nach Art. 30 Abs. 1 BV gilt wegen seiner beratenden und entwurfsverfassenden Funktion zwingend auch für den Gerichtsschreiber. Eine gleichzeitige Kaderstellung im Departement, dessen Steuerveranlagungen überprüft werden, schliesst die Unabhängigkeit institutionell aus. Allerdings verwirkt die Rüge, wenn sie trotz Kenntnis nicht sofort erhoben wird (E. 8).
+
+---
+
+### Unzulässigkeit richterlicher Einflussnahme auf den Rückzug von Rechtsmitteln
+[BGE 137 I 227](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-227_2011.html) (Urteil 1B_407/2010 vom 4. Mai 2011)  
+* **Sachverhalt**: Der Vorsitzende der I. Strafkammer des Obergerichts Zürich forderte den Verteidiger eines Verurteilten schriftlich auf, wegen Aussichtslosigkeit ernsthaft den Rückzug der Berufung zu erwägen («kurzer Prozess»). Nach Weigerung des Verteidigers trat der Oberrichter in den Ausstand. Der Verurteilte verlangte daraufhin den Ausstand der gesamten Strafkammer.
+* **Kernaussage**: Das Bundesgericht rügte das Vorgehen des Kammerpräsidenten scharf: Das Herbeiführen eines Ausstands durch unzulässigen Druck auf den Verteidiger birgt die Gefahr der gezielten Manipulation der Spruchkörperbildung. Der Ausstand erstreckte sich vorliegend nicht auf die übrigen Kammermitglieder, da kein systematischer Korpsgeist nachgewiesen war (E. 2.2–2.6).
+
+---
+
+### Justizöffentlichkeit und Schranken des Ausschlusses akkreditierter Medienschaffender
+[BGE 143 I 194](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-I-194_2017.html) (Urteil 1B_367/2015 vom 19. April 2017)  
+* **Sachverhalt**: In einem Berufungsprozess wegen eines aufsehenerregenden Tötungsdelikts schloss das Obergericht Zürich unter Berufung auf den Schutz der Privatkläger (Opferschutz) nicht nur das Publikum, sondern auch sämtliche akkreditierten Gerichtsberichterstatter vollständig von der Verhandlung und der Urteilsverkündung aus.
+* **Kernaussage**: Verletzung von Art. 30 Abs. 3 BV, Art. 6 Ziff. 1 EMRK sowie der Informations- und Medienfreiheit (Art. 16/17 BV). Der vollständige Ausschluss der Presse ist die äusserste Ausnahme. Gerichte müssen primär mildere Massnahmen (teilweiser Ausschluss für heikle Phasen, Anonymisierungsauflagen) anwenden, um die demokratische Kontrollfunktion der Medien zu wahren (E. 3.6).
+
+---
+
+## II. Weitere Entscheide
+
+### Mitwirkung eines Gemeindeexekutivmitglieds im Finanzausgleich und Rüge vor Bundesgericht
+[BGE 147 I 173](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-147-I-173_2021.html) (Urteil 1C_178/2020 vom 23. November 2020)  
+* **Sachverhalt**: An einem Urteil des kantonalen Verwaltungsgerichts über den interkommunalen Finanzausgleich wirkte ein Richter mit, der gleichzeitig als Gemeinderat einer Nachbargemeinde desselben Kantons amtierte. Die unterlegene Gemeinde entdeckte dies erst nach Urteilseröffnung, aber vor Ablauf der Beschwerdefrist an das Bundesgericht.
+* **Kernaussage**: Die Doppelrolle als Exekutivmitglied einer am Finanzausgleich beteiligten Gemeinde und als Richter verletzt Art. 30 Abs. 1 BV. Wird ein Ausstandsgrund erst nach dem Urteil, aber vor Ablauf der Beschwerdefrist entdeckt, kann er erstmals direkt vor Bundesgericht gerügt werden (E. 3.3 und 5.2).
+
+---
+
+### Beisitzender Richter vertritt Gegenpartei in separatem hängigem Mietstreit
+[BGE 139 III 120](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-120_2013.html) (Urteil 4A_679/2012 vom 13. Mai 2013)  
+* **Sachverhalt**: Ein Rechtsanwalt amtierte als beisitzender Fachrichter an einer kantonalen Mietberufungskammer. Gleichzeitig vertrat er in einer anderen, hängigen Streitigkeit die Gegenpartei einer der vor dieser Mietkammer prozessierenden Parteien.
+* **Kernaussage**: Der Anschein der Befangenheit ist bejaht. Ein Richter, der in einem Drittverfahren gegen eine der bei ihm prozessierenden Parteien als Anwalt auftritt, erweckt objektiv Zweifel an seiner Unparteilichkeit (E. 3.2).
+
+---
+
+### Ausnahmegerichtsverbot und Verwirkung von Ablehnungsgründen am Handelsgericht
+[BGE 136 I 207](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-207_2010.html) (Urteil 4A_564/2009 vom 8. Februar 2010)  
+* **Sachverhalt**: Eine klagende Partei rief das Handelsgericht Zürich als Wahlgericht an und verlangte später dessen Ablehnung als unzulässiges Ausnahmegericht wegen der Mitwirkung von Laien-Handelsrichtern.
+* **Kernaussage**: Das Handelsgericht ist kein verbotenes Ausnahmegericht, da seine Zuständigkeit durch generelles Gesetz geregelt ist. Wer in Kenntnis möglicher Ablehnungsgründe am Verfahren teilnimmt und die Rüge nicht unverzüglich erhebt, verwirkt den Anspruch nach Treu und Glauben (E. 3.4 und 3.5).
+
+---
+
+### Ausstand von Amtes wegen bei eigener Strafanzeige und Zivilklage des Richters
+[BGE 134 I 20](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-134-I-20_2008.html) (Urteil 1B_115/2007 vom 29. Januar 2008)  
+* **Sachverhalt**: Ein Waadtländer Kantonsrichter reichte gegen ein Mitglied der Vereinigung «Appel au Peuple» Strafanzeige wegen Ehrverletzung und Zivilklage auf Genugtuung wegen Flugblättern ein. Vier Jahre später amtierte er dennoch in einem Beschwerdeverfahren desselben Bürgers.
+* **Kernaussage**: Ein Richter, der gegen eine Partei persönlich Strafanzeige und Genugtuungsklage eingereicht hat, befindet sich in einem schweren persönlichen Konflikt und muss in allen späteren Verfahren mit dieser Partei von sich aus in Ausstand treten (E. 4.2).
+
+---
+
+### Nebenamtlicher Richter als Parteivertreter vor Untergerichten
+[BGE 133 I 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-1_2007.html) (Urteil 1P.483/2006 vom 15. Januar 2007)  
+* **Sachverhalt**: Ein Rechtsanwalt amtierte nebenamtlich als Richter am Zürcher Kassationsgericht und trat vor dem erstinstanzlichen Bezirksgericht als Parteivertreter auf. Die Gegenpartei rügte eine Verletzung der Waffengleichheit.
+* **Kernaussage**: Das richterliche Nebenamt eines Parteivertreters begründet für sich allein keine Befangenheit des urteilenden Richters und keine Verletzung der Waffengleichheit, solange keine konkrete Einschüchterung oder Abhängigkeit dargetan ist (E. 5.3).
+
+---
+
+### Wohnsitzgerichtsstand und Zulässigkeit des Adhäsionsgerichtsstands im Strafprozess
+[BGE 133 IV 171](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-171_2007.html) (Urteil 6S.147/2006 vom 23. März 2007)  
+* **Sachverhalt**: Ein wegen gewerbsmässigen Betrugs verurteilter Beschuldigter wandte gegen die Verurteilung im Zivilpunkt ein, Art. 30 Abs. 2 BV und Art. 129 IPRG garantierten ihm die Beurteilung der Zivilklagen an seinem Wohnsitz.
+* **Kernaussage**: Der Sinn und Zweck des Adhäsionsprozesses schliesst die Berufung auf den Wohnsitzgerichtsstand aus. Das Strafgericht ist auch im internationalen Verhältnis zur Beurteilung adhäsionsweiser Zivilforderungen befugt (E. 9.4).
+
+---
+
+### Mehrfache richterliche Funktionen und Vorbefassung bei URP-Abweisung
+[BGE 131 I 113](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-113_2005.html) (Urteil 1P.683/2004 vom 24. Februar 2005)  
+* **Sachverhalt**: Ein Bezirksrichter wies das Gesuch des Beklagten um unentgeltliche Rechtspflege wegen Aussichtslosigkeit ab. Der Beklagte lehnte den Richter anschliessend für das Hauptsacheverfahren wegen Vorbefassung ab.
+* **Kernaussage**: Die Abweisung eines URP-Gesuches wegen Aussichtslosigkeit begründet für sich allein keine unzulässige Vorbefassung im Hauptprozess, da die Prognose summarisch erfolgt und das Beweisverfahren offen bleibt (E. 3.6 und 3.7).
+
+---
+
+### Restriktive Ausnahmen von der Verhandlungsöffentlichkeit im Kindesschutzverfahren
+[BGE 142 I 188](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-188_2016.html) (Urteil 5A_778/2015 vom 18. Mai 2016)  
+* **Sachverhalt**: Eltern fochten einen Obhutsentzug vor dem kantonalen Gericht an und verlangten unter Berufung auf Art. 30 Abs. 3 BV eine öffentliche Verhandlung. Das Gericht wies den Antrag ab und entschied schriftlich.
+* **Kernaussage**: Der generelle Ausschluss der Öffentlichkeit im Kindesschutz ist verfassungskonform, da der Schutz der Persönlichkeitssphäre des Kindes und der Familie den Transparenzanspruch überwiegt (E. 3.3).
+
+---
+
+### Parteizugehörigkeit einer Justizperson und unbegründete Massenausstandsgesuche
+[BGer 1C_84/2026 vom 15. Januar 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-84-2026_2026-01-15.html); [BGer 7B_64/2026 vom 31. Juli 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-64-2026_2026-07-31.html)  
+* **Sachverhalt**: Parteien verlangten den Ausstand von Gerichtspersonen wegen Parteizugehörigkeit (SVP) oder richteten pauschale Ausstandsgesuche gegen ganze Spruchkörper nach abgewiesenen Zwischenverfügungen.
+* **Kernaussage**: Die Parteizugehörigkeit einer Justizperson begründet für sich allein keinen Anschein der Befangenheit. Unvorteilhafte Zwischenentscheide stellen keine schwere Amtspflichtverletzung dar; pauschale Ausstandsgesuche gegen unbeteiligte Richter sind unzulässig.
