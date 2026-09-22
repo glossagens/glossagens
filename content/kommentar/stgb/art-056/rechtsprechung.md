@@ -165,6 +165,15 @@ revisions:
 
 ---
 
+### [BGer 6B_290/2016 vom 15. August 2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-290-2016_2016-08-15.html) E. 2 — Ausreichen des Strafvollzugs bei situativem und finanziellem Deliktsmuster
+- **Gericht**: Bundesgericht, Strafrechtliche Abteilung
+- **Thema**: Subsidiarität der Massnahme (Art. 56 Abs. 1 lit. a StGB); Abgrenzung von Persönlichkeitsakzentuierung und schwerer psychischer Störung.
+- **Sachverhalt**: Ein gewerbsmässiger Betrüger mit Deliktsbeträgen über Fr. 200'000.-- verlangte den Aufschub der 18-monatigen Freiheitsstrafe zu Gunsten einer ambulanten Massnahme (Art. 63 StGB) mit der Begründung, seine Taten beruhten auf einer Persönlichkeitsstörung mit unkontrollierten Kaufimpulsen.
+- **Kernaussage**: Für eine therapeutische Massnahme genügt nicht jede Persönlichkeitsauffälligkeit im weiten medizinischen Sinn. Eine nur mässig ausgeprägte kombinierte Persönlichkeitsstörung erreicht das massnahmerechtlich geforderte Gewicht nicht. Beruht die Delinquenz auf der Finanzierung eines überhöhten Lebensstils und mangelnder Normakzeptanz, scheidet eine Massnahme mangels Behandlungsbedürfnisses aus; der Vollzug der Strafe allein ist ausreichend und geboten.
+- **Einschlägig für**: Art. 56 Abs. 1 lit. a und lit. b StGB, Art. 63 StGB.
+
+---
+
 ### [BGer 6B_1221/2021 vom 17. Januar 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_6B-1221-2021_2022-01-17.html) E. 1.3 — Therapiewilligkeit vs. minimale Motivierbarkeit
 - **Gericht**: Bundesgericht, Strafrechtliche Abteilung
 - **Thema**: Fehlende Kooperationsbereitschaft des Betroffenen bei Anordnung der stationären Massnahme.
