@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 49 OR — Genugtuung"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-09-24
 description: "Umfassende Rechtsprechungsübersicht zu Art. 49 OR: Leitentscheide des Bundesgerichts und über 20 kantonale Gerichtsentscheide nach Fallgruppen mit konkreten Betragsangaben in CHF."
 tags: ["Rechtsprechung", "OR", "Genugtuung", "Persönlichkeitsverletzung", "Haftpflichtrecht", "Bemessung", "Kantonale Rechtsprechung", "Sexualdelikte", "Körperverletzung", "Tötung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-24
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung und Normierung der Rechtsprechungsübersicht: Alle BGE-Leitentscheide und kantonalen Entscheide auf kanonische entscheidsuche.ch-Dokument-URLs aktualisiert; Ergänzung um BGE 138 III 337, BGE 137 III 303, BGE 125 III 70, BGE 84 II 570 und BGE 140 III 409."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -26,77 +31,130 @@ revisions:
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
 
-### [BGE 125 III 412 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_III_412)
-- **Thema**: Bemessungsmethode / Ermessen nach Art. 4 ZGB / Teuerung / HIV-Infektion
-- **Zusprochener Betrag**: **CHF 80'000** (zuzüglich Zins)
-- **Kernaussage**: Die Bemessung der Genugtuung beruht auf richterlichem Ermessen ([Art. 4 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_4)) und erfolgt nach der Methode des **Präjudizienvergleichs**. Schematische Tarife sind unzulässig. Bei Heranziehung älterer Präjudizien ist die aufgelaufene Teuerung auf den heutigen Geldwert umzurechnen. Für die fahrlässige Ansteckung mit dem HI-Virus durch ungeschützten Geschlechtsverkehr erachtete das Bundesgericht eine Genugtuung von CHF 80'000 als angemessen.
-- **Einschlägig für**: Art. 49 Abs. 1 OR (Bemessungsmethode, Präjudizienvergleich, Teuerungsanpassung).
+### [BGE 125 III 412](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-412_1999.html) (11. November 1999)
+- **Thema**: Bemessungsmethode / Ermessen nach Art. 4 ZGB / Teuerung / Fahrlässige HIV-Infektion
+- **Zusprochener Betrag**: **CHF 80'000** (an die Geschädigte Y.) und **CHF 20'000** (an die Tochter A.), je zuzüglich 5 % Zins
+- **Kernaussage**: Die Bemessung der Genugtuung beruht auf richterlichem Ermessen ([Art. 4 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_4)) und erfolgt nach der Methode des **Präjudizienvergleichs**. Schematische Tarife sind unzulässig. Bei Heranziehung älterer Präjudizien ist die aufgelaufene Teuerung auf den heutigen Geldwert umzurechnen. Das ständige Leben unter dem Damoklesschwert eines frühzeitigen Todes und schwere depressive Verstimmungen begründen eine Genugtuung von CHF 80'000 für die infizierte Partnerin und CHF 20'000 für die heranwachsende Tochter.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Bemessungsmethode, Präjudizienvergleich, Teuerungsanpassung, seelischer Schmerz).
 
 ---
 
-### [BGE 125 IV 199 E. 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_125_IV_199)
+### [BGE 130 III 699](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-699_2004.html) (7. September 2004)
+- **Thema**: Persönlichkeitsverletzung am Arbeitsplatz ([Art. 328 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328)) / Pranger vor der Belegschaft / Medienberichterstattung
+- **Zusprochener Betrag**: **CHF 10'000**
+- **Kernaussage**: Kündigt eine Gewerkschaft einem Juristen wegen Mitgliedschaft in einer religiösen Gruppierung, ist die Kündigung als solche zwar zulässig. Die Stigmatisierung des Mitarbeiters vor der versammelten Belegschaft mit Aufruf zum Ostracismus sowie ein anschliessendes 3-seitiges diffamierendes Zeitungsinterview mit Fotos stellen jedoch eine qualifiziert schwere Persönlichkeitsverletzung dar, die eine Genugtuung von CHF 10'000 rechtfertigt.
+- **Einschlägig für**: Art. 49 Abs. 1 OR i.V.m. Art. 328 OR (Arbeitsrecht, Mobbing, Begleitumstände der Kündigung).
+
+---
+
+### [BGE 138 III 337](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-337_2012.html) (11. April 2012)
+- **Thema**: Genugtuungsanspruch einer juristischen Person / Fake-Website / Organ-Leid
+- **Zusprochener Betrag**: **CHF 10'000** (nebst 5 % Zins ab 8. Januar 2010)
+- **Kernaussage**: Eine juristische Person kann gestützt auf Art. 49 OR Genugtuung fordern. Da die juristische Person durch ihre Organe handelt, empfinden deren Organe für die Gesellschaft ein seelisches Leid, wenn die Unternehmung durch einen schweren Rufmord verunglimpft wird. Die Veröffentlichung von Fotos alter Schrottschiffe unter dem Logo der Gesellschaft auf einer Fake-Website («Y.com») begründet einen Genugtuungsanspruch der Aktiengesellschaft; angesichts der kurzen Aufschaltdauer von zwei Monaten reduzierte das Bundesgericht die Entschädigung von CHF 25'000 auf CHF 10'000.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Aktivlegitimation juristischer Personen, Organ-Theorie, Internet-Rufmord).
+
+---
+
+### [BGE 125 IV 199](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-IV-199_1999-11-02.html) (2. November 1999)
 - **Thema**: Ketten- und Gruppenvergewaltigung / Freiheitsberaubung / Höchstsätze bei Sexualdelikten
 - **Zusprochener Betrag**: **CHF 75'000**
-- **Kernaussage**: Das Bundesgericht schützte eine Genugtuungssumme von CHF 75'000 in einem Fall von gewaltsamer Freiheitsberaubung, Entführung und stundenlanger grausamer Kettenvergewaltigung durch mehrere Täter als bundesrechtskonform.
+- **Kernaussage**: Das Bundesgericht schützte eine Genugtuungssumme von CHF 75'000 in einem Fall von gewaltsamer Entführung, Freiheitsberaubung und stundenlanger grausamer Kettenvergewaltigung durch mehrere Täter als bundesrechtskonform.
 - **Einschlägig für**: Art. 49 Abs. 1 OR (Schwere Sexualdelikte, Mehrfachtäterschaft, Demütigung).
 
 ---
 
-### [BGE 141 III 97 E. 11](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_97)
+### [BGE 141 III 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-97_2015.html) (13. Februar 2015)
 - **Thema**: Schwerste Hirnverletzung / Polytrauma / Ausschluss des Prozessverhaltens
 - **Zusprochener Betrag**: **CHF 130'000**
 - **Kernaussage**: Bei schwersten unfallbedingten Hirn- und Körperverletzungen mit bleibender Beeinträchtigung ist eine Genugtuung im oberen Rahmen von CHF 130'000 geschützt. Das prozessuale Verhalten des Schädigers oder dessen Haftpflichtversicherung darf bei der Festsetzung der Genugtuungshöhe nicht erhöhend berücksichtigt werden.
-- **Einschlägig für**: Art. 47 / 49 Abs. 1 OR (Schwerste Körperschäden, Bemessungsfaktoren).
+- **Einschlägig für**: Art. 47 / 49 Abs. 1 OR (Schwerste Körperschäden, Ausschluss prozessualen Fehlverhaltens).
 
 ---
 
-### [BGE 132 II 117 E. 2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_II_117)
-- **Thema**: Heranziehung der UVG-Integritätsentschädigung als Richtschnur / Paraplegie & Angehörige
+### [BGE 117 II 50](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-50_1991-03-12.html) (12. März 1991)
+- **Thema**: Angehörigengenugtuung für Kleinkind bei schwerster Hirnschädigung des Vaters / Künftiger Schmerz
+- **Zusprochener Betrag**: **CHF 25'000** (an das Kleinkind)
+- **Kernaussage**: Nahestehende Angehörige haben bei einer katastrophalen Schädigung eines Elternteils (irreversible Hirnschädigung und Demenz durch Gasvergiftung) einen selbständigen Anspruch auf Genugtuung nach Art. 49 OR. Auch ein zum Unfallzeitpunkt einjähriges Kleinkind hat Anspruch auf Genugtuung für den künftigen, mit dem Heranwachsen unausweichlich eintretenden seelischen Schmerz über den Verlust einer normalen Eltern-Kind-Beziehung. Die Haftung aus [Art. 58 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_58) erfordert kein Verschulden.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Angehörigengenugtuung, Reflexschaden, künftige Unbill, Kausalhaftung).
+
+---
+
+### [BGE 120 II 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-II-97_1994-01-12.html) (12. Januar 1994)
+- **Thema**: Medienrechtliche Persönlichkeitsverletzung / Voller Beweis des subjektiven seelischen Schmerzes
+- **Ergebnis**: **Klage auf Geldgenugtuung abgewiesen** (nur Urteilspublikation und Feststellung)
+- **Kernaussage**: Wird ein Kläger in einem Massenblatt fälschlicherweise als Verkäufer von 19 Kampfflugzeugen an den Iran dargestellt, liegt zwar eine objektiv schwere Persönlichkeitsverletzung vor. Ein Geldanspruch nach Art. 49 Abs. 1 OR setzt jedoch voraus, dass der Kläger konkrete Umstände darlegt und beweist, aus denen auf einen tatsächlichen seelischen Schmerz geschlossen werden kann. Innere Tatsachen dürfen nicht durch blosse Berufung auf die allgemeine Lebenserfahrung ersetzt werden.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Beweislast, Substanziierung der seelischen Unbill, Verwerfungsfall).
+
+---
+
+### [BGE 137 III 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-303_2011.html) (18. Mai 2011)
+- **Thema**: Schutz der Persönlichkeit am Arbeitsplatz ([Art. 328 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328)) / Mobbing bei Profisportlern / Isolation
+- **Zusprochener Betrag**: **CHF 10'000**
+- **Kernaussage**: Der Ausschluss eines professionellen Fussballspielers vom Mannschaftstraining, das Verweisen auf einsame Dauerläufe abseits der Mannschaft und öffentliche Herabsetzungen durch die Vereinsleitung verletzen die Persönlichkeit des Spielers schwer und rechtfertigen eine Genugtuung nach Art. 49 Abs. 1 OR.
+- **Einschlägig für**: Art. 49 Abs. 1 OR i.V.m. Art. 328 OR (Mobbing, Schikane, Beschäftigungsanspruch).
+
+---
+
+### [BGE 125 III 70](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-70_1998-10-13.html) (13. Oktober 1998)
+- **Thema**: Kündigung und vertrauensärztliche Untersuchung / Schwellenwert der Persönlichkeitsverletzung
+- **Ergebnis**: **Genugtuungsforderung abgewiesen**
+- **Kernaussage**: Die Aufforderung an eine arbeitsunfähige Arbeitnehmerin, sich bei einem Psychiater vertrauensärztlich begutachten zu lassen, stellt ohne besondere schikanöse Begleitumstände keine schwere Persönlichkeitsverletzung dar und begründet keinen Genugtuungsanspruch nach Art. 49 OR.
+- **Einschlägig für**: Art. 49 Abs. 1 OR i.V.m. Art. 328 OR (Schwellenwert, Verwerfungsfall, Kontrollrechte).
+
+---
+
+### [BGE 132 II 117](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-117_2006.html) (2. Mai 2006)
+- **Thema**: Heranziehung der UVG-Integritätsentschädigung als Richtschnur / Richtsätze der Praxis
 - **Richtsätze der Praxis**:
   - Querschnittlähmung / Paraplegie: **CHF 120'000 bis CHF 150'000**
   - Tod des Ehepartners: **CHF 30'000 bis CHF 45'000**
-  - Tod eines Kindes (für Eltern): **CHF 25'000 bis CHF 40'000**
-- **Kernaussage**: Die Skala der Integritätsentschädigung nach UVG dient der Gerichtspraxis als objektiver Anhaltspunkt für die Bewertung der Schwere eines immateriellen Schadens.
+  - Tod eines Kindes (für die Eltern je): **CHF 25'000 bis CHF 40'000**
+- **Kernaussage**: Die Skala der Integritätsentschädigung nach UVG dient der Gerichtspraxis als objektiver Anhaltspunkt für die Bewertung der Schwere eines immateriellen Schadens nach Art. 47/49 OR.
 - **Einschlägig für**: Art. 47 / 49 Abs. 1 OR (Integritätsschaden, Querschnittlähmung, Angehörigengenugtuung).
 
 ---
 
-### [BGE 118 II 410 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_410)
-- **Thema**: Sexueller Missbrauch von Kindern / Kognition des Bundesgerichts
+### [BGE 118 II 410](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-118-II-410_1992-10-27.html) (27. Oktober 1992)
+- **Thema**: Sexueller Missbrauch von Kindern / Ausnutzung des Vertrauensverhältnisses
 - **Zusprochener Betrag**: **CHF 20'000** bzw. **CHF 25'000**
-- **Kernaussage**: Bei sexuellen Handlungen mit Kindern wiegt die Beeinträchtigung der seelischen Entwicklung und der Persönlichkeit objektiv ausserordentlich schwer.
-- **Einschlägig für**: Art. 49 Abs. 1 OR (Kindesschutz, Vertrauensmissbrauch).
+- **Kernaussage**: Bei sexuellen Handlungen mit Kindern durch den Lebenspartner der Grossmutter wiegt die Beeinträchtigung der seelischen Entwicklung und der Persönlichkeit objektiv ausserordentlich schwer.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Kindesschutz, sexuelle Integrität).
 
 ---
 
-### [BGE 117 II 50 E. 3 & 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_117_II_50)
-- **Thema**: Angehörigengenugtuung für Kleinkind bei schwerster Hirnschädigung des Vaters
-- **Zusprochener Betrag**: **CHF 25'000** (an das Kleinkind)
-- **Kernaussage**: Nahestehende Angehörige (hier ein Kleinkind) haben bei einer katastrophalen Schädigung des Vaters einen selbständigen Anspruch auf Genugtuung nach Art. 49 OR für den seelischen Schmerz und den Verlust einer normalen Eltern-Kind-Beziehung.
-- **Einschlägig für**: Art. 49 Abs. 1 OR (Angehörigengenugtuung, Schockschaden, Reflexschaden).
+### [BGE 129 IV 149](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-149_2003.html) (24. Juli 2003)
+- **Thema**: Verzugszins von 5 % bei Genugtuungsansprüchen / Mittlerer Zeitpunkt bei Dauerdelikten
+- **Kernaussage**: Die Genugtuung ist grundsätzlich ab Schadenseintritt zu verzinsen. Hat das Opfer über einen längeren Zeitraum hinweg fortgesetzte Eingriffe in seine Integrität erlitten, beginnt der Zinsenlauf zu 5 % ab einem mittleren Zeitpunkt (mittlerer Verfalltag).
+- **Einschlägig für**: Art. 49 OR (Verzugszins, Fälligkeit, Dauerdelikte).
 
 ---
 
-### [BGE 130 III 699 E. 5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_III_699)
-- **Thema**: Persönlichkeitsverletzung im Arbeitsverhältnis / Schweregrad
-- **Zusprochener Betrag**: **CHF 10'000**
-- **Kernaussage**: Ein Arbeitnehmer hat bei einer Persönlichkeitsverletzung durch den Arbeitgeber ([Art. 328 Abs. 1 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_328)) Anspruch auf eine Genugtuung nach Art. 49 Abs. 1 OR, sofern die Verletzung eine qualifizierte Schwere aufweist.
-- **Einschlägig für**: Art. 49 Abs. 1 OR i.V.m. Art. 328 OR (Arbeitsrecht, Mobbing, Entlassung).
-
----
-
-### [BGE 120 II 97 E. 2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_120_II_97)
-- **Thema**: Medienrechtliche Persönlichkeitsverletzung / Nachweis des seelischen Schmerzes
-- **Kernaussage**: Bei Persönlichkeitsverletzungen durch die Presse setzt die Zusprechung einer Genugtuung voraus, dass der Ansprecher die konkreten Umstände darlegt und beweist, aus denen von der objektiv schweren Verletzung auf einen tatsächlichen seelischen Schmerz geschlossen werden kann.
-- **Einschlägig für**: Art. 49 Abs. 1 OR (Medienrecht, Beweislast, seelischer Schmerz).
-
----
-
-### [BGE 143 IV 339 E. 3.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_339)
+### [BGE 143 IV 339](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-339_2017.html) (23. August 2017)
 - **Thema**: Haftentschädigung und Genugtuung bei ungerechtfertigtem Freiheitsentzug
 - **Richtsatz der Praxis**: **CHF 200 pro Tag** (gemäss [Art. 429 Abs. 1 lit. c StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_429))
-- **Kernaussage**: Eine Anhaltung und vorläufige Festnahme von mehr als drei Stunden begründet einen Eingriff in die persönliche Freiheit und zieht Entschädigungs- bzw. Genugtuungsansprüche nach sich. Der bundesgerichtliche Regelsatz für ungerechtfertigte Haft beträgt CHF 200 pro Tag.
+- **Kernaussage**: Eine polizeiliche Anhaltung und vorläufige Festnahme von mehr als drei Stunden begründet einen Eingriff in die persönliche Freiheit und zieht Genugtuungsansprüche nach sich. Der bundesgerichtliche Regelsatz für ungerechtfertigte Haft beträgt CHF 200 pro Tag.
 - **Einschlägig für**: Art. 49 Abs. 1 OR i.V.m. Art. 429/431 StPO (Freiheitsentzug, Tagessatz).
+
+---
+
+### [BGE 84 II 570](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-84-II-570_1958-11-18.html) (18. November 1958)
+- **Thema**: Urheberpersönlichkeitsrecht / Urteilspublikation als Genugtuungsform (Abs. 2)
+- **Kernaussage**: Wird die Urheberschaft an Bauplänen für die Erweiterung einer Kirche unterdrückt, kann das Gericht neben einer Geldsumme gestützt auf Art. 49 Abs. 2 OR die Urteilspublikation in Fachzeitschriften anordnen, um den rechtswidrigen Zustand zu beseitigen und die ideelle Rehabilitation des Urhebers zu vollziehen.
+- **Einschlägig für**: Art. 49 Abs. 2 OR (Urteilspublikation, Urheberpersönlichkeitsrecht).
+
+---
+
+### [BGE 123 III 204](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-204_1997-06-09.html) (9. Juni 1997)
+- **Thema**: Deliktische Natur von Angehörigenansprüchen / Geschwistergenugtuung
+- **Kernaussage**: Selbständige Genugtuungsansprüche von Angehörigen sind stets deliktischer Natur und verjähren nach [Art. 60 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_60), auch wenn zwischen dem Direktgeschädigten und dem Haftpflichtigen ein Vertrag (z.B. Behandlungsvertrag) bestand. Geschwistern steht bei Suizid eines Patienten mangels ausserordentlicher Lebensgemeinschaft keine Genugtuung zu.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Verjährung, Geschwister, Aktivlegitimation).
+
+---
+
+### [BGE 140 III 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-409_2014.html) (12. November 2014)
+- **Thema**: Unbezifferte Forderungsklage nach Art. 85 ZPO / Angabe des Mindestwerts
+- **Kernaussage**: Liegt die Bestimmung des geschuldeten Betrags im richterlichen Ermessen (wie bei Genugtuung nach Art. 49 OR), ist eine unbezifferte Forderungsklage zulässig. Der Kläger muss jedoch einen Mindestwert als vorläufigen Streitwert angeben.
+- **Einschlägig für**: Art. 49 OR i.V.m. Art. 85 ZPO (Prozessuales, Klageeinleitung).
 
 ---
 
@@ -105,15 +163,16 @@ revisions:
 ### 1. Kanton St. Gallen (SG)
 
 #### [Handelsgericht SG HG.2015.154/3 vom 16. November 2017](https://entscheidsuche.ch/docs/SG_Gerichte/SG_HG_001_HG-2015-154-3_2017-11-16.pdf)
-- **Thema**: Genugtuung juristischer Personen / Schwellenwert bei Rufschädigung
-- **Kernaussage**: Eine juristische Person hat nur dann Anspruch auf Genugtuung wegen Rufschädigung, wenn nachgewiesen wird, dass ihren Organen durch das unlautere Verhalten ein schwerer seelischer Schmerz entstanden ist. Eine blosse Beeinträchtigung des Ansehens als Marktführerin genügt nicht.
+- **Thema**: Genugtuung juristischer Personen / Hoher Schwellenwert bei Rufschädigung
+- **Ergebnis**: **Genugtuungsforderung abgewiesen**
+- **Kernaussage**: Eine juristische Person hat nur dann Anspruch auf Genugtuung wegen unlauterer Rufschädigung, wenn nachgewiesen wird, dass ihren physischen Organen durch das Verhalten ein schwerer seelischer Schmerz entstanden ist. Eine blosse Beeinträchtigung des Ansehens als Marktführerin genügt nicht.
 - **Einschlägig für**: Art. 49 Abs. 1 OR (Juristische Personen, Schwellenwert).
 
 #### [Kantonsgericht SG BO.2013.41 vom 13. März 2015](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_002_BO-2013-41_2015-03-13.pdf)
-- **Thema**: Ehrverletzung / Feststellung der Widerrechtlichkeit / Genugtuungssumme
+- **Thema**: Ehrverletzung / Feststellung der Widerrechtlichkeit / Kostenrisiko bei Überklagung
 - **Zusprochener Betrag**: **CHF 10'000** (nebst 5 % Zins)
-- **Kernaussage**: Eine schwere Herabsetzung des gesellschaftlichen und beruflichen Ansehens begründet eine widerrechtliche Persönlichkeitsverletzung und rechtfertigt eine Genugtuung von CHF 10'000 nebst gerichtlicher Feststellung der Widerrechtlichkeit.
-- **Einschlägig für**: Art. 49 Abs. 1 und 2 OR (Ehrverletzung, Feststellungsklage).
+- **Kernaussage**: Eine schwere Herabsetzung des gesellschaftlichen und beruflichen Ansehens begründet eine widerrechtliche Persönlichkeitsverletzung und rechtfertigt eine Genugtuung von CHF 10'000 nebst gerichtlicher Feststellung der Widerrechtlichkeit. Fordert der Kläger masslos übersetzte Beträge, trägt er die Kostenfolgen nach Art. 106 ZPO für das Teilunterliegen.
+- **Einschlägig für**: Art. 49 Abs. 1 und 2 OR (Ehrverletzung, Feststellungsklage, Kostenfolgen).
 
 #### [Kantonsgericht SG BO.2021.23 vom 15. April 2024](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_002_BO-2021-23_2024-04-15.pdf)
 - **Thema**: Zwei-Phasen-Methode der Genugtuungsbemessung / Arbeitsunfall
@@ -122,18 +181,18 @@ revisions:
 
 #### [Kantonsgericht SG BZ.2005.118 vom 13. November 2006](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_002_BZ-2005-118_2006-11-13.pdf)
 - **Thema**: Tierhalterhaftung / Hundebiss im Gesicht / Mitverschulden
-- **Kernaussage**: Bei einer Gesichtsverletzung durch einen Hundebiss besteht grundsätzlich ein Genugtuungsanspruch; streichelt das Opfer den Hund unvorsichtig von hinten, ist die Genugtuung wegen Mitverschuldens angemessen zu reduzieren.
+- **Kernaussage**: Bei einer Gesichtsverletzung durch einen Hundebiss besteht grundsätzlich ein Genugtuungsanspruch; streichelt das Opfer den Hund unvorsichtig von hinten, ist die Genugtuung wegen Mitverschuldens angemessen zu reduzieren ([Art. 44 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_44)).
 - **Einschlägig für**: Art. 47 / 49 OR i.V.m. Art. 44 OR (Mitverschulden, Gesichtsverletzungen).
 
 #### [Kantonsgericht SG ST.2013.100 vom 10. November 2014](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_ST-2013-100_2014-11-10.pdf)
 - **Thema**: Begründungspflicht bei Genugtuungsentscheiden im Adhäsionsverfahren
-- **Kernaussage**: Für die Beurteilung, ob aufgrund einer vorübergehenden Gesundheitsbeeinträchtigung eine Genugtuung geschuldet ist, müssen die erschwerenden Begleitumstände im Urteil begründet werden. Das Fehlen von Begründungselementen führt zur Aufhebung und Rückweisung.
+- **Kernaussage**: Für die Beurteilung, ob aufgrund einer vorübergehenden Gesundheitsbeeinträchtigung eine Genugtuung geschuldet ist, müssen die erschwerenden Begleitumstände im Urteil begründet werden. Das Fehlen von Begründungselementen führt zur Gehörsverletzung und Rückweisung.
 - **Einschlägig für**: Art. 49 OR i.V.m. Art. 82/409 StPO (Begründungspflicht).
 
 #### [Kantonsgericht SG AK.2012.372 vom 12. Februar 2013](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2012-372_2013-02-12.pdf)
-- **Thema**: Substantiierungspflicht und Beweislast bei Genugtuung nach Freispruch
-- **Kernaussage**: Der Freigesprochene trägt die Mitwirkungs- und Substantiierungspflicht für die schwere Persönlichkeitsverletzung nach Art. 49 OR, um eine Genugtuung nach Art. 429 StPO zu beanspruchen.
-- **Einschlägig für**: Art. 49 OR i.V.m. Art. 429 StPO (Substantiierungslast).
+- **Thema**: Substanziierungspflicht und Beweislast bei Genugtuung nach Freispruch
+- **Kernaussage**: Der Freigesprochene trägt die Mitwirkungs- und Substanziierungspflicht für die schwere Persönlichkeitsverletzung nach Art. 49 OR, um eine Genugtuung nach Art. 429 StPO zu beanspruchen. Pauschale Verweise auf seelische Belastung reichen nicht aus.
+- **Einschlägig für**: Art. 49 OR i.V.m. Art. 429 StPO (Substanziierungslast).
 
 #### [Versicherungsgericht SG OH 2009/8 vom 12. August 2010](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_OH-2009-8_2010-08-12.pdf)
 - **Thema**: Angehörigengenugtuung beim Tod eines Kindes / Ausschluss von Kaufkraftunterschieden
@@ -152,22 +211,22 @@ revisions:
 
 #### [Sozialversicherungsgericht ZH OH.2010.00007 vom 6. November 2011](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2010-00007_2011-11-06.html)
 - **Thema**: Einseitige Erblindung mit Bulbusverlust / Organverlust
-- **Kernaussage**: Der Verlust des Augenlichts auf einem Auge infolge einer Straftat stellt einen schweren Integritätsschaden dar und begründet eine hohe Genugtuung im Bereich von CHF 40'000 bis CHF 60'000.
+- **Kernaussage**: Der Verlust des Augenlichts auf einem Auge infolge einer Straftat stellt einen schweren Integritätsschaden dar und begründet eine Genugtuung im Bereich von CHF 40'000 bis CHF 60'000.
 - **Einschlägig für**: Art. 47 / 49 OR (Schwerer Sinnesverlust, bleibender Dauerschaden).
 
 #### [Sozialversicherungsgericht ZH OH.2013.00003 vom 3. November 2014](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2013-00003_2014-11-03.html)
-- **Thema**: Schwerer tätlicher Angriff mit Eisenstange / Mehrfachtäter
+- **Thema**: Schwerer tätlicher Angriff mit Eisenstange / Todesangst
 - **Kernaussage**: Ein gezielter brutaler Angriff durch mehrere Täter mit gefährlichen Gegenständen (Eisenstange, Tritte gegen Kopf) rechtfertigt wegen der Todesangst und der Schwere der Verletzungen eine erhebliche Schmerzensgeld- und Genugtuungsleistung.
 - **Einschlägig für**: Art. 47 / 49 OR (Gewaltdelikte, Todesangst).
 
 #### [Sozialversicherungsgericht ZH OH.2006.00001 vom 20. Mai 2007](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2006-00001_2007-05-20.html)
-- **Thema**: Schadenszins von 5 % als integraler Bemessungsfaktor
+- **Thema**: Verzugszins von 5 % als integraler Bestandteil der Genugtuung
 - **Kernaussage**: Der Schadenszins von 5 % ab Schadenseintritt stellt einen wesentlichen Faktor der Genugtuungsbemessung dar, um die seelische Unbill der verstrichenen Zeit bis zur Auszahlung abzugelten.
 - **Einschlägig für**: Art. 49 OR (Verzugszins, Fälligkeit).
 
 #### [Sozialversicherungsgericht ZH OH.2010.00001 vom 13. Juni 2011](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2010-00001_2011-06-13.html)
-- **Thema**: Glaubhaftigkeit der Opferaussage bei Vergewaltigung ohne Tatzeugen
-- **Kernaussage**: Steht bei Sexualdelikten Aussage gegen Aussage, begründet eine in sich schlüssige und glaubhafte Schilderung des Opfers den Genugtuungsanspruch nach Art. 49 OR auch ohne direkte Tatzeugen.
+- **Thema**: Beweiswürdigung bei Sexualdelikten ohne direkte Tatzeugen
+- **Kernaussage**: Steht bei Sexualdelikten Aussage gegen Aussage, begründet eine in sich schlüssige und konstante Schilderung des Opfers den Genugtuungsanspruch nach Art. 49 OR auch ohne direkte Tatzeugen.
 - **Einschlägig für**: Art. 49 OR (Beweiswürdigung bei Sexualdelikten).
 
 #### [Sozialversicherungsgericht ZH OH.2010.00009 vom 15. April 2012](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2010-00009_2012-04-15.html)
@@ -178,7 +237,7 @@ revisions:
 #### [Sozialversicherungsgericht ZH OH.2010.00002 vom 1. November 2011](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_OH-2010-00002_2011-11-01.html)
 - **Thema**: Reduktion der Genugtuung bei Provokation und Mitverschulden
 - **Zusprochener Betrag**: **CHF 8'000** (nach Reduktion)
-- **Kernaussage**: Hat das Opfer die Auseinandersetzung durch einen vorherigen Faustschlag mitausgelöst, rechtfertigt dies eine Herabsetzung der Genugtuungssumme nach Art. 44 OR.
+- **Kernaussage**: Hat das Opfer die Auseinandersetzung durch einen vorherigen Faustschlag mitausgelöst, rechtfertigt dies eine Herabsetzung der Genugtuungssumme nach [Art. 44 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_44).
 - **Einschlägig für**: Art. 49 OR i.V.m. Art. 44 OR (Mitverschulden).
 
 ---
@@ -186,7 +245,7 @@ revisions:
 ### 3. Kanton Luzern (LU)
 
 #### [Obergericht LU 11 10 92 vom 24. Februar 2011](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_11-10-92_2011-02-24.html)
-- **Thema**: Schwere Verkehrsunfallfolgen / Bemessungskriterien nach Art. 47 OR
+- **Thema**: Schwere Verkehrsunfallfolgen / Bemessungskriterien nach Art. 47/49 OR
 - **Kernaussage**: Das Obergericht konkretisiert die Kriterien für Schmerzensgeld nach schweren Verkehrsunfällen unter Berücksichtigung von Dauerschmerzen, Erwerbsausfall und Spitalaufenthalten.
 - **Einschlägig für**: Art. 47 / 49 OR (Verkehrsunfälle, Schmerzensgeld).
 
@@ -201,6 +260,7 @@ revisions:
 
 #### [Handelsgericht AG HOR.2020.2 vom 20. November 2020](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_009_HOR-2020-2_2020-11-20.pdf)
 - **Thema**: Verletzung der wirtschaftlichen und beruflichen Ehre / Schwellenwert
+- **Ergebnis**: **Genugtuungsbegehren abgewiesen**
 - **Kernaussage**: Ein Anspruch nach Art. 49 OR besteht nur bei objektiv und subjektiv schwerer Verletzung. Leichte Beeinträchtigungen der geschäftlichen Reputation oder rein vertragliche Leistungsstörungen genügen nicht.
 - **Einschlägig für**: Art. 49 Abs. 1 OR (Wirtschaftliche Ehre, Schwellenwert).
 
@@ -216,7 +276,7 @@ revisions:
 #### [Obergericht TG RBOG 2025 Nr. 09 (2025)](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--09_2025.html)
 - **Thema**: Urheberpersönlichkeitsverletzung / Genugtuung nach Art. 49 OR
 - **Kernaussage**: Die Verletzung von Urheberpersönlichkeitsrechten kann einen Genugtuungsanspruch nach Art. 49 OR begründen, wenn die seelische Unbill des Schöpfers die erforderliche Schwere erreicht.
-- **Einschlägig für**: Art. 49 Abs. 1 OR (Urheberpersönlichkeitsrecht).
+- **Einschlägig für**: Art. 49 Abs. 1 und 2 OR (Urheberpersönlichkeitsrecht).
 
 #### [Obergericht TG RBOG 2015 Nr. 27 (2015)](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2015-Nr--27_2015.html)
 - **Thema**: Ungerechtfertigte Untersuchungshaft / Materiell-rechtliche Natur nach Art. 49 OR
@@ -225,7 +285,7 @@ revisions:
 
 #### [Obergericht TG TVR 2023 Nr. 10 vom 18. Januar 2023](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_TVR-2023-Nr--10_2023-01-18.html)
 - **Thema**: Entschädigung und Genugtuung bei rechtswidriger Ausschaffungshaft
-- **Kernaussage**: Die Bemessung der Genugtuung für widerrechtliche ausländerrechtliche Festhaltung folgt den zivilrechtlichen Grundsätzen von Art. 49 OR (BGE 146 IV 231).
+- **Kernaussage**: Die Bemessung der Genugtuung für widerrechtliche ausländerrechtliche Festhaltung folgt den zivilrechtlichen Grundsätzen von Art. 49 OR.
 - **Einschlägig für**: Art. 49 OR (Ausschaffungshaft, Freiheitsentzug).
 
 #### [Obergericht TG RBOG 1997 Nr. 06 (1997)](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-1997-Nr--06_1997.html)
@@ -289,7 +349,7 @@ revisions:
 #### [Kantonsgericht AR ARGVP 1999 3335 vom 28. Juni 1999](https://entscheidsuche.ch/docs/AR_Gerichte/AR_KG_005_KG-ARGVP-1999-3335_1999-06-28.pdf)
 - **Kanton**: Appenzell Ausserrhoden (Kantonsgericht)
 - **Thema**: Richterliche Missbilligung als Genugtuung (Abs. 2) / Ehrverletzung im Arbeitsverhältnis
-- **Kernaussage**: Wird einem Arbeitnehmer fälschlicherweise eine ungebührliche Annäherung vorgeworfen, kann das Gericht gestützt auf Art. 49 Abs. 2 OR anstelle von Geld auf eine **richterliche Missbilligung** erkennen.
+- **Kernaussage**: Wird einem Arbeitnehmer fälschlicherweise eine ungebührliche Annäherung vorgeworfen, kann das Gericht gestützt auf Art. 49 Abs. 2 OR anstelle von Geld auf eine **richterliche Missbilligung** im Dispositiv erkennen.
 - **Einschlägig für**: Art. 49 Abs. 2 OR (Richterliche Missbilligung, Arbeitsrecht).
 
 #### [Obergericht SH 50/2002/3 vom 11. Februar 2021](https://entscheidsuche.ch/docs/SH_Gerichte/SH_OG_001_50-2002-3_2021-02-11.pdf)
@@ -303,7 +363,3 @@ revisions:
 - **Thema**: Bemessungsgrundsätze der Genugtuung / Sinngemässe Anwendung
 - **Kernaussage**: Festigung der Praxis, dass die Grundsätze von Art. 47/49 OR den massgebenden Rahmen für die Beurteilung immaterieller Schäden bilden.
 - **Einschlägig für**: Art. 47 / 49 OR (Bemessungsrahmen).
-
----
-
-*Letzte Aktualisierung: 2026-08-29*
