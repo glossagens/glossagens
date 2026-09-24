@@ -2,11 +2,16 @@
 title: "Art. 176 ZGB — Organisation des Getrenntlebens"
 weight: 176
 date: 2026-09-01
-lastmod: 2026-09-01
-description: "Praxiskommentar zu Art. 176 ZGB: Eheschutzmassnahmen bei Aufhebung des gemeinsamen Haushalts, Unterhaltsbeiträge an Ehegatten und Kinder (zweistufige Methode), Wohnungs- und Hausratzuteilung, Kinderbelange und Gütertrennung."
-tags: ["ZGB", "Familienrecht", "Eheschutz", "Unterhalt", "Wohnung", "Obhut", "Gütertrennung"]
+lastmod: 2026-09-24
+description: "Praxiskommentar zu Art. 176 ZGB entlang der Tatbestandsmerkmale: Voraussetzungen der Haushaltsaufhebung und Unmöglichkeit des Zusammenlebens (Abs. 1 und 2), Unterhaltsbemessung nach der zweistufigen Methode mit Überschussverteilung (hypothetisches Einkommen, Erwerbsobliegenheit, gebührender Unterhalt, Konkubinat, Mankotragung, Sparquote), Zuteilung von Wohnung und Hausrat, Anordnung der Gütertrennung und die Kinderbelange des Abs. 3 (Obhut, alternierende Obhut, Betreuungsanteile) — mit den Sachverhalten der publizierten Praxis und den Praxishinweisen."
+tags: ["ZGB", "Familienrecht", "Eheschutz", "Getrenntleben", "Unterhalt", "hypothetisches Einkommen", "Überschussverteilung", "Mankotragung", "Konkubinat", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut", "Kindeswohl", "Offizialmaxime", "Art. 98 BGG"]
 agent_verified: true
 revisions:
+  - date: 2026-09-24
+    by: "Hermes Agent"
+    model: "deepseek-v4.1-flash"
+    mcp_verified: true
+    note: "Vollständiger Ausbau zum Praxiskommentar im Format von Art. 110 StPO und Art. 336 OR: Gliederung entlang der Tatbestandsmerkmale (Haushaltsaufhebung, Antragserfordernis, Unterhalt, Wohnung/Hausrat, Gütertrennung, Kinderbelange, Verfahrensgrundsätze); Prüfschema-Tabelle als Inhaltsverzeichnis; durchgehend auf geschilderte Sachverhalte umgestellt; drei echte Judikaturdivergenzen offengelegt (Mankotragung, Erwerbsobliegenheit, Eigentum als Zuteilungskriterium). Gesetzeswortlaut verbatim aus Fedlex (SR 210, Konsolidierung 1.7.2026); Nebennormen (Art. 173, 175, 179, 276a ZGB; Art. 271, 272, 276 ZPO) ebenfalls verbatim aus Fedlex. Entscheide im Volltext geprüft via opencaselaw (get_case_brief/get_erwaegung) und entscheidsuche.ch: BGE 120 II 1, BGE 128 III 4, BGE 128 III 65, BGE 129 III 417, BGE 130 III 537, BGE 135 III 66, BGE 138 III 97, BGE 140 III 485, BGE 142 III 518, BGE 142 III 612, BGE 142 III 617, BGE 144 III 502, BGE 151 III 261, BGE 116 II 21, BGE 114 II 18, BGE 115 II 297, BGE 133 III 393; BGer 5A_766/2008, 5A_417/2011, 5A_188/2018, 5A_848/2014, 5A_945/2014, 5A_561/2024, 5A_639/2025, 5A_1048/2019, 5A_972/2013, 5A_20/2016, 5A_72/2016, 5P.328/2005, 5A_266/2015, 5A_904/2015. Botschaft BBl 2014 529 (Kindesunterhalt) ausgewertet. Alle Linkziele als verbatim document_url/attachment.content_url aus entscheidsuche.ch übernommen und auf HTTP 200 geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -18,82 +23,526 @@ revisions:
 
 > **Art. 176 ZGB — Organisation des Getrenntlebens**
 >
-> 1 Ist die Aufhebung des gemeinsamen Haushaltes begründet, so muss das Gericht auf Begehren eines Ehegatten:
+> **Abs. 1**
+>
+> Ist die Aufhebung des gemeinsamen Haushaltes begründet, so muss das Gericht auf Begehren eines Ehegatten:
 > 1. die Unterhaltsbeiträge an die Kinder und den Unterhaltsbeitrag an den Ehegatten festlegen;
 > 2. die Benützung der Wohnung und des Hausrates regeln;
 > 3. die Gütertrennung anordnen, wenn es die Umstände rechtfertigen.
 >
-> 2 Diese Begehren kann ein Ehegatte auch stellen, wenn das Zusammenleben unmöglich ist, namentlich weil der andere es grundlos ablehnt.
+> **Abs. 2**
 >
-> 3 Haben die Ehegatten minderjährige Kinder, so trifft das Gericht nach den Bestimmungen über die Wirkungen des Kindesverhältnisses die nötigen Massnahmen.
+> Diese Begehren kann ein Ehegatte auch stellen, wenn das Zusammenleben unmöglich ist, namentlich weil der andere es grundlos ablehnt.
+>
+> **Abs. 3**
+>
+> Haben die Ehegatten minderjährige Kinder, so trifft das Gericht nach den Bestimmungen über die Wirkungen des Kindesverhältnisses die nötigen Massnahmen.
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Juli 2026. Abs. 1 Ziff. 1 in Kraft seit 1. Januar 2017 (AS 2015 4299; BBl 2014 529); Abs. 3 in Kraft seit 1. Januar 2013 (AS 2011 725; BBl 2006 7001).*
+*Wortlaut geprüft gegen [Fedlex, SR 210](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de), Stand der Konsolidierung 1. Juli 2026. Abs. 1 Ziff. 1 in Kraft seit 1. Januar 2017 (AS 2015 4299; [BBl 2014 529](https://www.fedlex.admin.ch/eli/fga/2014/529)); Abs. 3 in Kraft seit 1. Januar 2013 (AS 2011 725; BBl 2006 7001).*
+
+### Die drei Absätze auf einen Blick
+
+| Absatz | Regelungsgegenstand | Voraussetzung | Rechtsfolge |
+|---|---|---|---|
+| Abs. 1 | Katalog der Eheschutzmassnahmen | «Ist die Aufhebung des gemeinsamen Haushaltes begründet» | Gericht **muss** auf Begehren anordnen |
+| Abs. 2 | Erweiterter Anwendungsfall | Zusammenleben unmöglich, namentlich grundlose Ablehnung durch den andern | Derselbe Katalog wird eröffnet |
+| Abs. 3 | Kinderbelange | Minderjährige Kinder | Massnahmen nach den Bestimmungen über die Wirkungen des Kindesverhältnisses |
+
+### Prüfschema
+
+Das folgende Prüfschema ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile findet sich als Abschnitt wieder, in derselben Reihenfolge.
+
+| Nr. | Merkmal | Prüffrage | Verfahren / Beweislast |
+|---|---|---|---|
+| A | Aufhebung des Haushalts (Abs. 1) bzw. Unmöglichkeit des Zusammenlebens (Abs. 2) | Ist die Aufhebung aus den Gründen von Art. 175 ZGB begründet, oder ist das Zusammenleben unmöglich? | Untersuchungsgrundsatz (Art. 272 ZPO); kein Verschulden zu prüfen; blosses Behaupten genügt nicht |
+| B | Antragserfordernis (Abs. 1) | Hat ein Ehegatte ein Begehren gestellt? | Dispositionsmaxime für die Ehegattenbelange; **kein** Antragserfordernis bei Kinderbelangen (Abs. 3) |
+| C | Unterhalt der Kinder und des Ehegatten (Abs. 1 Ziff. 1) | Sind Unterhaltsbeiträge nach der zweistufigen Methode mit Überschussverteilung festzusetzen? | Untersuchungsmaxime, aber Mitwirkungspflicht der Parteien; objektive Beweislast nach Art. 8 ZGB; Glaubhaftmachung im summarischen Verfahren |
+| D | Wohnung und Hausrat (Abs. 1 Ziff. 2) | Welchem Ehegatten bringt die Wohnung den grösseren Nutzen, und wem ist ein Umzug eher zumutbar? | Freies Ermessen des Sachgerichts; Eigentum grundsätzlich unerheblich; aktuelle Rechtsbegehren erforderlich |
+| E | Gütertrennung (Abs. 1 Ziff. 3) | Rechtfertigen es die Umstände, die Gütertrennung anzuordnen? | Pflichtgemässes Ermessen nach Art. 4 ZGB; Glaubhaftmachung rechtfertigender Umstände |
+| F | Kinderbelange (Abs. 3) | Welche Massnahmen gebietet das Kindeswohl (Obhut, Betreuungsanteile, persönlicher Verkehr, Kindesschutz)? | Offizial- und Untersuchungsmaxime (Art. 296 Abs. 1 ZPO); Gericht von Amtes wegen, Vereinbarungen bedürfen der Genehmigung |
+| G | Verfahrensgrundsätze, Rechtsmittel, Abänderung | Summarisches Verfahren, Rechtsmittelbeschränkung, Abänderbarkeit, Verhältnis zum Scheidungsverfahren | Art. 271 ff. ZPO; Art. 98 BGG (nur verfassungsmässige Rechte); Art. 179 ZGB; Art. 276 ZPO |
 
 ---
 
 ## Überblick und Bedeutung
 
-Art. 176 ZGB bildet das Kernstück des richterlichen Eheschutzverfahrens. Die Bestimmung ermächtigt und verpflichtet das Eheschutzgericht (bzw. die Zivilgerichte im summarischen Verfahren gemäss [Art. 271 ff. ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_271)), die Rechtsverhältnisse der Ehegatten für die Zeit des Getrenntlebens umfassend, rasch und pragmatisch zu ordnen.
+Art. 176 ZGB ist die zentrale Bestimmung des richterlichen Eheschutzverfahrens. Sie ermächtigt und verpflichtet das Gericht, die Rechtsverhältnisse der Ehegatten für die Dauer des Getrenntlebens zu ordnen: den Unterhalt der Kinder und des Ehegatten (Abs. 1 Ziff. 1), die Benützung von Wohnung und Hausrat (Abs. 1 Ziff. 2) und — ausnahmsweise — die Gütertrennung (Abs. 1 Ziff. 3). Abs. 3 verweist für die Kinderbelange auf die Bestimmungen über die Wirkungen des Kindesverhältnisses und begründet damit die umfassende Regelungskompetenz in Obhuts-, Betreuungs-, Verkehrs- und Kindesschutzfragen.
 
-Die gerichtlichen Anordnungen erfassen:
-- die Festsetzung des finanziellen Unterhalts für Kinder (Bar- und Betreuungsunterhalt) und Ehegatten (Abs. 1 Ziff. 1),
-- die ausschliessliche Benützung der ehelichen Wohnung und die Aufteilung des Mobiliars (Abs. 1 Ziff. 2),
-- die vorsorgliche Anordnung der Gütertrennung bei Vorliegen besonderer Gefährdungen (Abs. 1 Ziff. 3),
-- alle erforderlichen Kindesschutz- und Betreuungsmassnahmen (Obhut, Betreuungsanteile, persönlicher Verkehr gemäss Abs. 3).
+Die Norm steht in engem Zusammenhang mit Art. 172 ff. ZGB und wird vom summarischen Verfahren nach Art. 271 ff. ZPO umgesetzt: Art. 271 lit. a ZPO unterstellt die Massnahmen nach Art. 172–179 ZGB dem summarischen Verfahren, Art. 272 ZPO statuiert den Untersuchungsgrundsatz. Der Regelungszweck ist in erster Linie die **Überbrückung der Trennungszeit**, nicht die Vorwegnahme der Scheidungsfolgen: Die Massnahmen sind auf Aussöhnung ausgerichtet und werden mit der Wiederaufnahme des Zusammenlebens grundsätzlich gegenstandslos, mit Ausnahme der Gütertrennung und der Kindesschutzmassnahmen (Art. 179 Abs. 2 ZGB). Wo die Ehegatten sich einig sind, den gemeinsamen Haushalt aufzuheben, hat das Gericht die Berechtigung zum Getrenntleben förmlich zu bewilligen und dessen Folgen zu regeln ([BGE 138 III 97 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
 
----
+Die praktische Bedeutung der Norm ist hoch und in der Judikatur dicht dokumentiert: Art. 176 ZGB zählt zu den meistzitierten Bestimmungen des Familienrechts überhaupt. Das ist nicht nur ein Mengen-, sondern auch ein Steuerungsphänomen: Der Entscheid über die Unterhaltsbemessung, die Wohnungszuteilung und die Obhut prägt die faktische Lebenssituation der Beteiligten für Monate oder Jahre und gibt häufig die Richtung des nachfolgenden Scheidungsverfahrens vor — ohne dass das Eheschutzgericht die Scheidungsfolgen selbst festlegen dürfte.
 
-## Kommentierung
-
-### A. Voraussetzungen des Getrenntlebens (Abs. 1 und 2)
-
-Die Anrufung des Eheschutzrichters setzt voraus, dass die Aufhebung des gemeinsamen Haushalts begründet ist (z.B. wegen Persönlichkeitsverletzungen, Zerrüttung oder einvernehmlicher Trennung) oder das Zusammenleben unmöglich geworden ist, weil ein Ehegatte die Wiederaufnahme grundlos verweigert (Abs. 2). Ein Verschulden an der Zerrüttung wird im Eheschutz nicht geprüft.
+> **Leitsatz.** Art. 176 ZGB ordnet die Rechtsverhältnisse der Ehegatten für die Dauer des Getrenntlebens und will die Scheidungsfolgen nicht vorwegnehmen; die Massnahmen sind auf Aussöhnung ausgerichtet und fallen mit der Wiederaufnahme des Zusammenlebens dahin, ausgenommen die Gütertrennung und die Kindesschutzmassnahmen (Art. 179 Abs. 2 ZGB) ([BGE 138 III 97 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html); [BGE 116 II 21 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)).
 
 ---
 
-### B. Unterhaltsbeiträge (Abs. 1 Ziff. 1)
+## A. Aufhebung des gemeinsamen Haushalts (Abs. 1) und Unmöglichkeit des Zusammenlebens (Abs. 2)
 
-Die Unterhaltsbemessung erfolgt nach der bundesgerichtlichen **zweistufigen Methode mit Überschussverteilung**:
-1. **Ermittlung der Einkommen:** Tatsächliches Einkommen beider Ehegatten; bei freiwilliger Reduktion oder ungenügender Erwerbstätigkeit kann ein **hypothetisches Einkommen** angerechnet werden, sofern die Erzielung zumutbar und tatsächlich möglich ist ([BGE 128 III 4 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-4_2002.html)).
-2. **Bedarfsberechnung:** Ermittlung des familienrechtlichen Grundbedarfs (betreibungsrechtlicher Notbedarf zzgl. Wohnkosten, Krankenkasse, unumgängliche Berufsauslagen und Steuern).
-3. **Reihenfolge der Unterhaltspflichten:** 
-   - Zuerst wird der Barunterhalt der minderjährigen Kinder gedeckt.
-   - Anschliessend wird der Betreuungsunterhalt (Deckung des Mankos des betreuenden Elternteils) berechnet.
-   - Ein verbleibender Überschuss wird nach richterlichem Ermessen (in der Regel nach Köpfen) zwischen den Ehegatten aufgeteilt.
+### Dogmatische Grundlinie
 
----
+Art. 176 ZGB ist **akzessorisch** zu Art. 175 ZGB: Die Massnahmen des Abs. 1 setzen voraus, dass die Aufhebung des gemeinsamen Haushaltes begründet ist. Art. 175 ZGB umschreibt diese Begründetheit abschliessend: Ein Ehegatte ist zur Aufhebung berechtigt, solange «seine Persönlichkeit, seine wirtschaftliche Sicherheit oder das Wohl der Familie durch das Zusammenleben ernstlich gefährdet ist» ([Fedlex, SR 210, Art. 175](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de)). Abs. 2 erweitert den Anwendungsbereich: Die Begehren können auch gestellt werden, wenn das Zusammenleben unmöglich ist, namentlich weil der andere Ehegatte es grundlos ablehnt.
 
-### C. Zuteilung der ehelichen Wohnung und des Hausrats (Abs. 1 Ziff. 2)
+Zwei Konsequenzen sind für die Praxis zentral. Erstens prüft das Eheschutzgericht **kein Verschulden** an der Zerrüttung; die Massnahmen sind nicht Sanktion, sondern Ordnung. Zweitens sind die Aufhebung und ihre Begründetheit **Voraussetzung** der Gütertrennung nach Abs. 1 Ziff. 3, nicht bloss ihr Anlass ([BGE 116 II 21 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)).
 
-Das Gericht weist die Familienwohnung jenem Ehegatten zur alleinigen Nutzung zu, dem sie den grösseren praktischen Nutzen bringt ([BGer 5A_1048/2019 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1048-2019_2020-06-29.html)):
-- Dies ist regelmässig der Elternteil, der die gemeinsamen Kinder hauptsächlich betreut.
-- Dingliche oder vertragliche Eigentums- und Mietverhältnisse treten im Eheschutzverfahren gegenüber dem Kindeswohl und dem Kriterium der Zumutbarkeit eines Umzugs in den Hintergrund.
+### Voraussetzungen im Einzelnen
 
----
+Das Eheschutzgericht kann die Berechtigung zum Getrenntleben ausdrücklich feststellen. Der Umstand, dass die Ehegatten über die Aufhebung einig sind, befreit es nicht von der Prüfung der Begründetheit, erleichtert sie aber — in solchen Konstellationen beschränkt sich die richterliche Prüfung häufig darauf, die Berechtigung förmlich zu bewilligen ([BGE 138 III 97 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
 
-### D. Anordnung der Gütertrennung (Abs. 1 Ziff. 3)
+**Der erweiterte Anwendungsfall des Abs. 2.** Abs. 2 erfasst Konstellationen, in denen die Voraussetzungen von Art. 175 ZGB nicht ohne weiteres bejaht werden können, die tatsächliche Trennung aber faktisch unvermeidlich ist. Das Bundesgericht hat in [BGer 5P.47/2005](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5P-47-2005_2005-03-23.html) festgehalten, dass ein Ehegatte nur unter den Voraussetzungen des Art. 175 ZGB zum Getrenntleben berechtigt ist und der Massnahmenrichter Unterhaltsbeiträge nach Art. 176 Abs. 1 ZGB nur unter dieser Voraussetzung festsetzt; Abs. 2 erweitert diesen Rahmen um den Tatbestand der Unmöglichkeit des Zusammenlebens.
 
-Die gerichtliche Anordnung der Gütertrennung im Eheschutz ist eine Ausnahme und setzt voraus, dass «die Umstände es rechtfertigen» (z.B. drohende Überschuldung, Verschleuderung von Vermögenswerten durch einen Ehegatten oder dauerhafte Gefährdung der finanziellen Existenz).
+### Keine Prüfung des Verschuldens
+
+Das Eheschutzverfahren ist kein Verschuldensprozess. Wer die Aufhebung herbeigeführt hat, ob ein Ehegatte die Trennung «verschuldet» hat und ob die Zerrüttung auf Fehlverhalten zurückgeht, ist für die Anordnung der Massnahmen ohne Bedeutung. Diese Wertung ist im Übrigen auch für die Bemessung relevant: Die Unterhaltspflicht im Eheschutz folgt aus Art. 163 ZGB, nicht aus einem Verschulden, und bleibt deshalb auch dann bestehen, wenn der berechtigte Ehegatte die Trennung herbeigeführt hat oder in einer neuen Partnerschaft lebt ([BGE 138 III 97 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
+
+> **Leitsatz.** Die Anordnung von Eheschutzmassnahmen setzt voraus, dass die Aufhebung des gemeinsamen Haushalts nach Art. 175 ZGB begründet ist; ein Verschulden an der Zerrüttung wird im Eheschutz nicht geprüft, und der Anspruch auf Unterhalt besteht auch dann, wenn der berechtigte Ehegatte den gemeinsamen Haushalt verlassen hat ([BGE 116 II 21 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html); [BGE 138 III 97 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
 
 ---
 
-### E. Kinderbelange (Abs. 3)
+## B. Das Antragserfordernis: Dispositionsmaxime und ihre Durchbrechung (Abs. 1)
 
-Das Eheschutzgericht entscheidet von Amtes wegen (Offizial- und Untersuchungsmaxime gemäss [Art. 296 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_296)) über:
-- die Zuteilung der Obhut (alleinige oder alternierende Obhut),
-- die Festlegung der Betreuungsanteile,
-- das Besuchs- und Ferienrecht (persönlicher Verkehr gemäss Art. 273 ZGB),
-- allfällige Kindesschutzmassnahmen (z.B. Erziehungsbeistandschaften gemäss Art. 308 ZGB).
+### Dogmatische Grundlinie
+
+Abs. 1 formuliert ein **Antragserfordernis**: Das Gericht ordnet die Massnahmen «auf Begehren eines Ehegatten» an. Für die Unterhaltsbeiträge an den Ehegatten und für die Wohnungs- und Hausratregelung gilt damit die **Dispositionsmaxime**; das Gericht darf nicht über die Anträge hinausgehen.
+
+### Kein Antragserfordernis bei Kinderbelangen
+
+Der Antragsvorbehalt gilt **nicht** für die Kinderbelange. Abs. 3 verweist auf die Bestimmungen über die Wirkungen des Kindesverhältnisses und begründet damit die Offizial- und Untersuchungsmaxime: Das Gericht erforscht den Sachverhalt von Amtes wegen (Art. 272 ZPO; Art. 296 Abs. 1 ZPO) und ist an die Anträge der Parteien nicht gebunden. Vereinbarungen der Parteien über Kinderbelange unterliegen der gerichtlichen Prüfung und Genehmigung; die Genehmigung setzt voraus, dass mit der Vereinbarung das Kindeswohl gewahrt wird ([ZH OG LE220038 E. III/1](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE220038_2023-02-08.pdf); [ZH OG LE160052](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE160052_2016-12-22.pdf)).
+
+### Formelle Anforderungen an das Begehren
+
+Die Rechtsprechung stellt an die Form des Begehrens **unterschiedliche** Anforderungen, je nach Instanz und Konstellation:
+
+**Im Eheschutzverfahren genügt ein Rechtsbegehren ohne Bezifferung.** Das Eheschutzgesuch muss «ein Rechtsbegehren enthalten», was aus Art. 252 i.V.m. Art. 219 i.V.m. Art. 221 Abs. 1 lit. b ZPO abgeleitet wird; eine Bezifferung ist im summarischen Verfahren nicht erforderlich ([BGer 5A_704/2013 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-704-2013_2014-05-15.html)).
+
+**Im bundesgerichtlichen Verfahren ist die Bezifferung dagegen Wirksamkeitsvoraussetzung.** Die Beschwerde in Zivilsachen ist reformatorisch (Art. 107 Abs. 2 BGG); wer sich darauf beschränkt, die Aufhebung des angefochtenen Entscheids zu verlangen, ohne einen materiellen Antrag zu stellen, riskiert das Nichteintreten. Anträge auf Geldforderungen sind zu beziffern; Begehren auf Festlegung der «üblichen, angemessenen oder gesetzlichen» Leistungen genügen nicht. Das Bundesgericht tritt nur ausnahmsweise ein, wenn sich aus der Beschwerdebegründung zweifelsfrei ergibt, welcher Betrag zuzusprechen ist ([BGer 5A_766/2008 E. 2.1–2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)).
+
+**Der Fall der unbezifferten Beschwerde.** In [BGer 5A_766/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html) hatte ein Ehemann die Aufhebung der obergerichtlich festgesetzten Unterhaltsbeiträge (Fr. 9'700 an die Ehefrau, Fr. 3'600 an das Kind) verlangt und beantragt, ihn «zu Unterhaltsbeiträgen in gerichtlich zu bestimmender Höhe» zu verurteilen. Das Bundesgericht trat auf die Beschwerde, soweit sie den Unterhalt betraf, **nicht ein**: Das Begehren sei formell ungenügend, weil sich den Angaben zum Streitwert kein ziffernmässig bestimmter Betrag entnehmen liess und erst eine langwierige Berechnung ergeben hätte, welcher Betrag der Ehefrau für welche Dauer und welcher Betrag dem Kind zukommen sollte (E. 2.2–2.4). Über die Wohnungszuteilung entschied das Gericht dagegen in der Sache — dort war kein bezifferter Antrag erforderlich.
+
+**Sonderfall Hausrat.** Wird die Zuteilung von Hausratsgegenständen **unabhängig** von der Zuweisung der Liegenschaft verlangt, ist dies ausdrücklich und separat (bzw. eventualiter) zu beantragen. Der Antrag, der Ehefrau zu verbieten, beim Auszug ausser ihren persönlichen Sachen Hausratsgegenstände mitzunehmen, enthält nach der Praxis auch den Antrag auf Zuweisung des gesamten in der Liegenschaft befindlichen Hausrats an den Antragsteller ([SO OG ZKBER.2016.101 E. 2.3](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html)).
+
+> **Leitsatz.** Für die Ehegattenbelange des Art. 176 Abs. 1 ZGB gilt die Dispositionsmaxime; für die Kinderbelange des Abs. 3 gilt die Offizial- und Untersuchungsmaxime, sodass das Gericht insoweit an die Anträge der Parteien nicht gebunden ist ([BGer 5A_704/2013 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-704-2013_2014-05-15.html)).
 
 ---
 
-## Praxisfragen
+## C. Unterhalt der Kinder und des Ehegatten (Abs. 1 Ziff. 1)
 
-### 1. Nachweis von Arbeitsunfähigkeit durch ärztliche Atteste
-Macht ein Ehegatte geltend, aus gesundheitlichen Gründen ganz oder teilweise arbeitsunfähig zu sein, trägt er hierfür die Substantiierungslast ([BGer 5A_639/2025 vom 11. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.07.2026_5A_639/2025)). Pauschale oder rückwirkend ausgestellte Gefälligkeitszeugnisse ohne Diagnose, Befunde und konkrete funktionelle Einschränkung genügen nicht, um die Erwerbsobliegenheit abzuwenden.
+### C.1 Methodik: zweistufige Methode mit Überschussverteilung
 
-### 2. Berücksichtigung von Quellensteuern in Mangellagen
-In der kantonalen Gerichtspraxis (vgl. [Kantonsgericht St. Gallen, RF.2010.67](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_002_RF-2010-67_2010-10-19.pdf)) gilt die Besonderheit, dass bei Unterhaltspflichtigen, die der Quellensteuer unterliegen, der Steuerabzug zwingend im Existenzminimum berücksichtigt werden muss, da er direkt vom Lohn einbehalten wird und dem Schuldner nicht zur freien Verfügung steht.
+### Dogmatische Grundlinie
+
+Art. 176 Abs. 1 Ziff. 1 ZGB verpflichtet das Gericht, «die Unterhaltsbeiträge an die Kinder und den Unterhaltsbeitrag an den Ehegatten» festzulegen. Materielle Grundlage ist die gegenseitige Unterhaltspflicht der Ehegatten nach Art. 163 ZGB sowie, für die Kinder, Art. 276 und 285 ZGB. Massgebend ist die Pflicht, gemeinsam, ein jeder nach seinen Kräften, für den gebührenden Unterhalt der Familie zu sorgen (Art. 163 Abs. 1 ZGB); bei Aufhebung des gemeinsamen Haushaltes ist der dadurch verursachte **Mehraufwand** von beiden Ehegatten zu tragen ([BGer 5P.347/2001](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5P-347-2001_2001-12-14.html)).
+
+Das Gesetz schreibt keine Berechnungsmethode vor. In der Praxis hat sich die **zweistufige Methode mit Überschussverteilung** durchgesetzt: In einem ersten Schritt wird der Bedarf beider Haushalte (familienrechtliches Existenzminimum, bestehend aus dem betreibungsrechtlichen Notbedarf zuzüglich Wohnkosten, Krankenkassenprämien, unumgänglichen Berufsauslagen und — nach Massgabe der Praxis — weiterer Positionen) dem Einkommen gegenübergestellt; ein verbleibender **Überschuss** wird in einem zweiten Schritt verteilt ([BGE 140 III 485 E. 3.3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html); [BGE 151 III 261 E. 2.4.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-261_2025.html)).
+
+**Reihenfolge der Unterhaltspflichten.** Der Überschuss ist grundsätzlich nach «grossen und kleinen Köpfen» zu verteilen; der Anteil der Eltern ist doppelt so gross wie jener der Kinder. Bei **minderjährigen Kindern** geht der Kindesunterhalt den übrigen familienrechtlichen Unterhaltspflichten vor (Art. 276a Abs. 1 ZGB); der Barunterhalt des Kindes ist deshalb vor dem Ehegattenunterhalt zu decken. Bei **nicht miteinander verheirateten** Eltern ist der Überschuss ausschliesslich auf den unterhaltspflichtigen Elternteil und die Kinder zu verteilen; der betreuende, nicht verheiratete Elternteil hat keinen Anspruch auf Teilhabe an der Lebensstellung des andern, weshalb sicherzustellen ist, dass er nicht aus dem Überschussanteil des Kindes quersubventioniert wird ([BGE 151 III 261 E. 2.4.1–2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-261_2025.html)).
+
+### Gebührender Unterhalt und Lebenshaltung
+
+Der Unterhalt knüpft an den in der Ehe zuletzt gelebten Standard an, auf dessen Fortführung bei genügenden Mitteln beide Ehegatten Anspruch haben. Ausgangspunkt ist der gebührende Unterhalt; der berechtigte Ehegatte muss sich anrechnen lassen, was er mit eigenen Einkünften zu decken in der Lage ist. Verbleibt eine Differenz, wird der Beitrag nach Massgabe der Leistungsfähigkeit des Pflichtigen festgesetzt ([BGE 140 III 485 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)). Hat sich der gelebte Standard vom Leistungsvermögen entfernt, ist bei guten Verhältnissen die **einstufig-konkrete Methode** (konkrete Bedarfsermittlung) sachgerecht; wird stattdessen die Methode des — um einzelne Positionen erweiterten — Existenzminimums mit Überschussverteilung angewandt, kann dies die Bemessung verzerren ([BGE 140 III 485 E. 3.4–3.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)).
+
+### Kasuistik: angewandt vs. verworfen
+
+**Der Appellationshof rechnet ein Einkommen an, das der Pflichtige nie erzielt hat.** In [BGE 128 III 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-4_2002.html) waren die Ehegatten Eltern zweier Töchter. Ein erstes Eheschutzverfahren im Frühling 1996 endete mit einer gerichtlich genehmigten Trennungsvereinbarung; ab Juni 1997 führten die Ehegatten wieder einen gemeinsamen Haushalt. Im September 2000 ersuchte X. erneut um gerichtliche Regelung des Getrenntlebens. Das Eheschutzgericht verpflichtete ihn zu monatlich insgesamt Fr. 1'550 für Ehefrau und Kinder und legte seinen Berechnungen das tatsächlich erzielte Einkommen (rund Fr. 4'050) zugrunde. Auf Antrag der Ehefrau erhöhte der Appellationshof den Beitrag auf insgesamt Fr. 2'435 und stellte auf das Einkommen ab, das X. bis 1996 als Betriebsleiter erzielt hatte (hypothetisch Fr. 5'300) — mit der alleinigen Begründung, X. habe seine frühere Arbeitsstelle freiwillig aufgegeben. Das Bundesgericht hob auf: Der Appellationshof habe in keiner Weise geprüft, ob dem Pflichtigen die Erzielung des angenommenen Einkommens tatsächlich möglich und zumutbar sei (E. 4b). Die Willkürrüge war begründet. Der Entscheid liefert zugleich die dogmatische Grundlage: Von der Anrechnung eines hypothetischen Einkommens darf nur ausgegangen werden, «falls und soweit der Pflichtige bei gutem Willen bzw. bei ihm zuzumutender Anstrengung mehr zu verdienen vermöchte, als er effektiv verdient»; wo die reale Möglichkeit fehlt, muss sie ausser Betracht bleiben. Rechtsprechung und Lehre fordern die kumulative Erfüllung zweier Voraussetzungen: **tatsächliche Möglichkeit** (Tatfrage) und **Zumutbarkeit** (Rechtsfrage) der Einkommenserzielung (E. 4a, 4c/bb).
+
+**Die 41-jährige Ehefrau wird auf ein volles Pensum verwiesen.** In [BGE 128 III 65](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html) hatte der Bezirksgerichtspräsident X. verpflichtet, der getrennt lebenden Y. ab Juni 2001 monatlich Fr. 1'500 zu bezahlen; der Einzelrichter im Familienrecht des Kantons St. Gallen reduzierte den Beitrag in teilweiser Gutheissung eines Rekurses ab Dezember 2001 auf Fr. 780. Die Parteien waren rund zwanzig Jahre verheiratet gewesen; die Ehe war eine «Hausgattenehe», die beiden Söhne (Jahrgänge 1983 und 1985) blieben beim Vater, der seither den Haushalt führte. Y. war 41 Jahre alt, gesund, von jeglicher Betreuungsaufgabe entbunden und arbeitete als Aushilfe in einem Altersheim in einem 20%-Pensum (Nettoeinkommen Fr. 840 monatlich). Der Ehemann verdiente bei der Post unter Berücksichtigung der Familien- und Kinderzulagen sowie einer Hauswarttätigkeit netto Fr. 5'700. Der Notbedarf der Haushalte betrug Fr. 2'780 (Ehemann), Fr. 1'750 (Kinder) und Fr. 2'570 (Ehefrau). Das Bundesgericht hiess die Beschwerde des Ehemannes gut und hob auf (E. 4c): Angesichts der relativ knappen wirtschaftlichen Verhältnisse, des Alters der Ehefrau, ihrer Gesundheit und ihrer Entbindung von jeder Betreuungsaufgabe sei es «unhaltbar und damit willkürlich», ihr eine weitere Ausdehnung der Erwerbstätigkeit — allenfalls auf 100% — während der voraussichtlich mehrjährigen Trennungszeit nicht zuzumuten. Offen blieb, ob ihr die Ausdehnung auch wirtschaftlich möglich war: Dazu fehlten im angefochtenen Entscheid die Feststellungen. Der Entscheid formuliert damit zugleich das Massstabspaar «Möglichkeit und Zumutbarkeit», das auch nach der neueren Rechtsprechung gilt.
+
+**Freiwillige Einkommensreduktion hindert die Anrechnung nicht.** Aus [BGE 128 III 4 E. 4a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-4_2002.html) folgt, dass der Grund, aus dem ein Ehegatte auf das ihm anrechenbare höhere Einkommen verzichtet, im Prinzip unerheblich ist. Die Voraussetzungen der Anrechnung (Möglichkeit und Zumutbarkeit) müssen aber auch dann erfüllt sein, wenn der Unterhaltsschuldner sein Einkommen zuvor freiwillig vermindert hat. Mit anderen Worten: Freiwilligkeit ersetzt die Prüfung der beiden Voraussetzungen nicht.
+
+**Gesundheitliche Einschränkung: Substantiierungspflicht und Beweiswert des Arztzeugnisses.** In [BGer 5A_639/2025 vom 6. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html) hatte sich die Ehefrau (Jahrgang 1967) gegen die Anrechnung eines hypothetischen Einkommens gewehrt. Festgestellt war eine 2018 diagnostizierte Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung moderater bis schwerer Ausprägung mit affektiver Problematik, ein Trauma, eine protrahierte massive Belastungsstörung sowie eine depressive Erschöpfungsproblematik; am 26. Juni 2023 war eine fürsorgerische Unterbringung notwendig geworden, seither ambulante psychiatrische Behandlung, und es bestand eine Vertretungsbeistandschaft. Das Obergericht ging davon aus, es sei der Ehefrau nicht möglich, einer Erwerbstätigkeit nachzugehen, und rechnete ihr kein hypothetisches Einkommen an. Das Bundesgericht bestätigte dies unter Verfassungsgesichtspunkten (E. 4.3–4.6): Der Ehemann hatte auf ein rund ein Jahr altes Arztzeugnis abgestellt; das Gericht qualifizierte dieses als Parteigutachten, das seit dem 1. Januar 2025 als Urkunde im Sinne von Art. 177 ZPO gelte und dessen Beweiskraft in freier Beweiswürdigung zu bestimmen sei, wobei von seiner Richtigkeit ausgegangen werden könne, solange der Beweiswert nicht erschüttert sei. Der bloss pauschale Einwand, behandelnde Ärzte würden «aufgrund ihrer Vertrauensstellung zum Patienten eher zu dessen Gunsten aussagen», genügt zur Erschütterung nicht. Ebenso wenig trug der Einwand, die Ehefrau verfasse zahlreiche Eingaben an Behörden und sei deshalb administrativ leistungsfähig: Das Obergericht hatte festgestellt, das auffällige Verhalten gegenüber Behörden sei Ausfluss nicht einer Ressource, sondern der Erkrankung.
+
+### C.2 Erwerbsobliegenheit des betreuenden Elternteils
+
+### Dogmatische Grundlinie
+
+Ist die Wiederherstellung des gemeinsamen Haushalts nicht mehr ernsthaft zu erwarten, gewinnt das Ziel der **wirtschaftlichen Selbständigkeit** zunehmend an Bedeutung. Das Bundesgericht bezieht in dieser Konstellation die für den nachehelichen Unterhalt geltenden Kriterien mit ein, ohne die Strukturen der Ehe im Eheschutz gänzlich umzustossen ([BGE 128 III 65 E. 4a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html)). Umgekehrt bleibt Art. 163 ZGB auch dann die Rechtsgrundlage der gegenseitigen Unterhaltspflicht, wenn nicht mehr ernsthaft mit einer Wiederaufnahme der ehelichen Gemeinschaft gerechnet werden kann ([BGE 138 III 97 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html); [ZH OG LE150057](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE150057_2016-04-12.pdf)).
+
+### Zubilligung einer Umstellungsphase
+
+Die Praxis billigt dem betreuenden Elternteil mit Rücksicht auf die Ehedauer eine **angemessene Umstellungsphase** zu, deren Länge von den Umständen abhängt: Alter, Gesundheit, Dauer der Ehe, Fortdauer der Betreuungspflichten und Arbeitsmarktlage ([BGE 128 III 65 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html)).
+
+### Widerspruch: Anreiz zur raschen Wiederaufnahme vs. Schonfrist nach Geburt eines Kindes
+
+Die Rechtsprechung verlangt einerseits eine forcierte Wiederaufnahme der Erwerbstätigkeit, gewährt andererseits aber Schonfristen, deren Länge sich nicht aus einem einheitlichen Massstab ergibt.
+
+- In [BGE 128 III 65](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html) stand die Ehefrau nach 20 Ehejahren, ohne Betreuungspflichten und im Alter von 41 Jahren — das Gericht hielt die Zubilligung einer blossen 50%-Anrechnung für willkürlich und verlangte die Anrechnung bis zu einem vollen Pensum, ohne der zwanzigjährigen Hausgattenehe eine eigenständige Schutzwirkung zuzuerkennen (E. 4c).
+- In [BGE 129 III 417 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-417_2003-05-22.html) hielt das Bundesgericht demgegenüber eine Übergangsfrist von rund zehn Monaten nach der Geburt eines **ausserehelichen** Kindes für nicht willkürlich. Der Ehemann hatte geltend gemacht, diese Frist führe dazu, dass er während dieser Zeit «für ein nicht von ihm stammendes Kind zu 100% unterhaltspflichtig» werde; das Gericht liess das nicht gelten, ohne die Divergenz zu BGE 128 III 65 ausdrücklich zu adressieren.
+
+Die beiden Entscheide sind bei einem Vergleich der tragenden Erwägungen nicht ohne weiteres zur Deckung zu bringen: Der eine verlangt die sofortige Ausdehnung auf ein volles Pensum bei einer gesunden, betreuungsfreien Ehefrau mit zwanzigjähriger Ehe; der andere gewährt einer Ehefrau mit neugeborenem Kind eine mehrmonatige Schonfrist, obwohl das Kind nicht aus der Ehe stammt und die Betreuung durch den biologischen Vater oder eine Drittperson organisierbar gewesen wäre. Beide Linien lassen sich nur dadurch in Einklang bringen, dass man den Umstellungsbedarf faktisch nach dem Alter des jüngsten im Haushalt lebenden Kindes bemisst — ein Massstab, den die Entscheide selbst nicht ausdrücklich so formulieren.
+
+### Kasuistik-Tabelle: Erwerbsobliegenheit
+
+| Sachverhalt | Alter / Ehedauer / Betreuung | Ergebnis | Entscheid |
+|---|---|---|---|
+| Aushilfe Altersheim, 20%-Pensum; Ehefrau gesund, von jeder Betreuung entbunden; zwei Söhne (1983, 1985) beim Vater; knappe Verhältnisse | 41 Jahre / 20 Jahre «Hausgattenehe» / keine Betreuung | **Anrechnung bis 100% nicht willkürlich**; blosse 50%-Anrechnung aufgehoben | [BGE 128 III 65 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html) |
+| Kind aus neuer Beziehung, geboren am 29. März 2002, Ehe kinderlos; Ehemann allein anfechtend | 26 Jahre (Jahrgang 1976) / Ehe seit 1998 / Kind 1 Monat | **Übergangsfrist von rund 10 Monaten nicht willkürlich** | [BGE 129 III 417 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-417_2003-05-22.html) |
+| ADHS, Trauma, protrahierte Belastungsstörung, depressive Erschöpfung, fürsorgerische Unterbringung 26.6.2023, Vertretungsbeistandschaft | 56 Jahre (Jahrgang 1967) / Ehe seit 2006 / Kinder 2006, 2007 (alternierende Obhut) | **Keine Anrechnung eines hypothetischen Einkommens**; Beweiswert des Arztzeugnisses nicht erschüttert | [BGer 5A_639/2025 E. 4.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html) |
+
+### C.3 Unterhalt bei neuer Partnerschaft des berechtigten Ehegatten
+
+### Dogmatische Grundlinie
+
+Das Zusammenleben des berechtigten Ehegatten mit einem neuen Partner wirkt sich unterhaltsrechtlich aus; die Wirkung ist aber im konkreten Einzelfall zu prüfen, und die Rechtsfolgen unterscheiden sich je nach Intensität der Gemeinschaft. Das Bundesgericht unterscheidet drei Tatbestände ([BGE 138 III 97 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)):
+
+1. **Tatsächliche finanzielle Unterstützung durch den neuen Partner.** Die Unterhaltsforderung vermindert sich im Umfang der tatsächlich erhaltenen Unterstützungsleistungen. Massgeblich ist das Verbot des offenbaren Rechtsmissbrauchs; das gleiche Ergebnis lässt sich über Art. 163 ZGB begründen, wonach sich ein Ehegatte als Einkünfte anrechnen lassen muss, was er für eigene Leistungen in der neuen Partnerschaft erhält (E. 2.3.1).
+2. **Einfache Wohn- und Lebensgemeinschaft.** Erfolgt keine finanzielle Unterstützung oder ist sie nicht nachweisbar, kann eine «communauté de toit et de table» vorliegen, die Einsparungen bei den Lebenshaltungskosten mit sich bringt. Entscheidend ist nicht die Dauer der Partnerschaft, sondern der wirtschaftliche Vorteil. In Anlehnung an die betreibungsrechtlichen Richtlinien tragen die Partner die gemeinschaftlichen Kosten anteilsmässig, selbst wenn die tatsächliche Beteiligung geringer ist; die Ersparnis ist im Bedarf zu berücksichtigen (E. 2.3.2).
+3. **Qualifiziertes oder gefestigtes Konkubinat.** Darunter versteht die Rechtsprechung eine auf längere Zeit, wenn nicht auf Dauer angelegte umfassende Lebensgemeinschaft mit grundsätzlich Ausschliesslichkeitscharakter, die sowohl eine geistig-seelische als auch eine wirtschaftliche Komponente aufweist. Der Unterhaltsanspruch fällt weg, wenn der Ehegatte in einer festen Beziehung lebt, die ihm ähnliche Vorteile bietet wie eine Ehe. Entscheidend ist dabei nicht mehr das Kriterium des Rechtsmissbrauchs, sondern ob der Berechtigte mit dem neuen Partner eine so enge Lebensgemeinschaft bildet, dass dieser bereit ist, ihm Beistand und Unterstützung zu leisten, wie es Art. 159 Abs. 3 ZGB von Ehegatten fordert. **Ob die Partner über die notwendigen finanziellen Mittel verfügen, ist unerheblich** (E. 2.3.3).
+
+### Kasuistik: verworfen
+
+**Der Ehemann bleibt unterhaltspflichtig, obwohl die Ehefrau mit einem neuen Partner zusammenlebt.** In [BGE 138 III 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html) waren X. (Jahrgang 1977) und Y. (Jahrgang 1976) seit April 2005 verheiratet; die Kinder T. und S. wurden im Februar 2006 und im Januar 2009 geboren. Im Oktober 2009 lernte die Ehefrau einen anderen Mann kennen, mit dem sie seit Ende Januar 2010 zusammenlebte; aus dieser Beziehung ging im Oktober 2010 das Kind K. hervor. Am 1. Februar 2010 stellte der Ehemann ein Gesuch um Regelung des Getrenntlebens. Das Gerichtspräsidium stellte die Kinder T. und S. unter die Obhut der Ehefrau und verpflichtete den Ehemann zu Kinderunterhaltsbeiträgen von monatlich je Fr. 700 zuzüglich Kinderzulagen sowie zu einem Beitrag an den persönlichen Unterhalt der Ehefrau von monatlich Fr. 1'019.10 vom 1. Februar bis 30. Juni 2010 und von Fr. 1'045.30 ab 1. Juli 2010. Der Ehemann verlangte, es sei festzuhalten, dass der Ehegattenunterhalt aufgehoben werde, solange die Ehefrau in der Lebensgemeinschaft mit ihrem neuen Partner lebe, umgehend aber wieder auflebe, falls das Konkubinat beendet werde. Obergericht und Bundesgericht wiesen die Beschwerde ab. Ausschlaggebend war die Feststellung, die Ehefrau habe ihren Lebensunterhalt «im Wesentlichen mittels Unterstützungsbeiträgen ihrer Eltern» bestritten und ihrem Lebenspartner für die Mitbenützung seines Einfamilienhauses einen monatlichen Mietzins bezahlt; ihre Darstellung, die Beziehung sei von keinem eheähnlichen Unterstützungswillen getragen, erschien plausibel (E. 3.3.1). Damit lag weder tatsächliche Unterstützung noch ein qualifiziertes Konkubinat vor. Der Fall zeigt die Beweislastverteilung: Wer aus der neuen Partnerschaft eine Herabsetzung ableitet, trägt für deren unterhaltsrelevante Wirkung die Folgen der Beweislosigkeit.
+
+**Der Verzicht auf den Haushalt schadet nicht.** Im gleichen Entscheid hielt das Bundesgericht fest, dass dem Ehegatten, der den gemeinsamen Haushalt verlassen hat, um mit einem neuen Partner zusammenzuleben, der Unterhaltsanspruch nicht «gleichsam von Gesetzes wegen» aberkannt wird (E. 2.1).
+
+> **Leitsatz.** Das Zusammenleben des unterhaltsberechtigten Ehegatten mit einem neuen Partner beseitigt den Unterhaltsanspruch im Eheschutz nicht von Gesetzes wegen; es ist im Einzelfall zu prüfen, ob tatsächliche finanzielle Unterstützung, eine einfache Wohn- und Lebensgemeinschaft mit Kostenersparnis oder ein qualifiziertes Konkubinat vorliegt ([BGE 138 III 97 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
+
+### C.4 Existenzminimum des Pflichtigen und Mankotragung
+
+### Dogmatische Grundlinie
+
+Dem Unterhaltsschuldner ist in jedem Fall sein **Existenzminimum** zu belassen. Reichen die Mittel zur Deckung des Gesamtbedarfs nicht aus, trägt der Berechtigte das Manko allein («einseitige Mankoüberbindung»). Das Bundesgericht hat diese 1995 vereinheitlichte Praxis in [BGE 135 III 66](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html) bestätigt, obwohl es das System der Mankoteilung für dogmatisch vorzugswürdig hielt (E. 2–10).
+
+**Berechnung bei gemeinsamem Haushalt mit einem neuen Partner.** Lebt der Unterhaltsschuldner mit einem neuen Partner in gemeinsamem Haushalt, umfasst sein Existenzminimum die **Hälfte des Ehepaaransatzes** und die üblichen betreibungsrechtlichen Zuschläge, soweit sie für ihn allein massgeblich sind — namentlich seinen Wohnkostenanteil, seine unumgänglichen Berufsauslagen und seine Krankenkassenprämie. Der neue Ehegatte, Partner oder Lebensgefährte soll gegenüber den Kindern des Schuldners nicht privilegiert werden ([BGE 144 III 502 E. 6.5–6.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-502_2018.html)).
+
+### Der offengelegte Widerspruch: Mankoüberbindung gegen die eigene ratio legis
+
+[BGE 135 III 66](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html) ist ein seltenes Beispiel eines Entscheids, der eine Divergenz zwischen der eigenen Auslegung und dem Ergebnis offen benennt. Das Bundesgericht führte aus, die einseitige Mankoüberbindung sei nicht zwingend aus dem Gesetz ableitbar; eine verfassungskonforme Auslegung im Sinne des Rechtsgleichheitsgebots (Art. 8 Abs. 1 BV) spreche eher für die Mankoteilung, und «das System der Mankoteilung [entspräche] zwar allenfalls besserer Erkenntnis der ratio legis von Art. 163 ZGB bzw. Art. 276 i.V.m. Art. 285 ZGB» (E. 10). Gleichwohl hielt das Gericht am geltenden System fest, weil ein Systemwechsel in der praktischen Handhabung auf zwei Ebenen zu Schwierigkeiten führe: zum einen beim Zusammenspiel mit den Fürsorgebehörden für die allseitige Deckung des verteilten Mankos, zum anderen im Stadium der Zwangsvollstreckung bei teilweisem oder vollständigem Ausbleiben der Beiträge (E. 9 f.). Bei der Mankoteilung trage der Berechtigte auch das **Inkassorisiko** für den Mankoanteil des Schuldners; zudem bestehe die Gefahr, dass Fürsorge und Alimentenbevorschussung bei fehlgeschlagenem Inkasso im Ergebnis doppelte Leistungen erbringen.
+
+Die Divergenz ist damit nicht eine solche zwischen Gerichten, sondern eine **zwischen Auslegung und Praxis**, die das Gericht selbst als ungelöst ausweist: Es hat den Gesetzgeber ausdrücklich aufgefordert, «gegebenenfalls unter Anpassung der Gesetze in den betroffenen Rechtsgebieten, eine adäquate und kohärente Lösung zu schaffen» (E. 10). Der Gesetzgeber hat diese Aufforderung anlässlich der Kindesunterhaltsrevision geprüft und die Mankoteilung **bewusst nicht** eingeführt; an ihre Stelle trat Art. 286a ZGB, der lediglich vorschreibt, die Unterdeckung im Entscheid festzuhalten und bei späterer ausserordentlicher Verbesserung der Verhältnisse des Schuldners einen Anspruch auf angemessene Erhöhung zu gewähren ([BGE 144 III 502 E. 6.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-502_2018.html); Botschaft, BBl 2014 543 ff. und 560). Die Mankoüberbindung ist damit heute nicht mehr nur gefestigte Praxis, sondern **gesetzgeberisch bestätigt**.
+
+### C.5 Die Sparquote
+
+### Dogmatische Grundlinie
+
+Eine behauptete Sparquote kann vom Überschuss abgezogen werden; sie muss aber **im Grundsatz und betragsmässig glaubhaft gemacht** sein. Wird der Bedarf nicht konkret berechnet, sondern auf die Methode des Existenzminimums mit Überschussverteilung zurückgegriffen, ist die Berücksichtigung einer Sparquote, die aus einem überdurchschnittlichen Einkommen abgeleitet wird, willkürlich: «Es vermag angesichts der aufgezeigten Grundsätze nicht einzuleuchten, inwiefern aus einem nicht konkret berechneten Bedarf des Haushalts während des gemeinsamen Zusammenlebens bzw. der beiden Haushalte nach Aufhebung des gemeinsamen ehelichen Haushaltes auf eine konkrete Sparquote geschlossen werden kann» ([BGE 140 III 485 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)). Ein überdurchschnittliches Einkommen kann höchstens ein **Indiz** dafür sein, dass eine Sparquote verbleiben sollte.
+
+### Kasuistik: verworfen
+
+In [BGE 140 III 485](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html) hatten die kantonalen Instanzen den Bedarf der Haushalte nicht nach der einstufig-konkreten Methode, sondern gestützt auf ein um einzelne Positionen (Telecom, Mobiliarversicherung, Auto ohne Kompetenzcharakter, Garage, Fr. 1'000 für Ferien und Soziales) erweitertes betreibungsrechtliches Existenzminimum ermittelt, dabei aber für den persönlichen Grundbetrag (Fr. 1'200 beim Ehemann, Fr. 1'350 bei der Ehefrau als Alleinerziehende) die betreibungsrechtlichen Richtwerte übernommen, ohne den konkret gelebten Standard zu ermitteln. Auf dieser unvollständigen Grundlage nahm das Obergericht eine Sparquote an. Das Bundesgericht qualifizierte dies als willkürlich: Weil der Unterhaltsschuldner die vom Obergericht angenommene Sparquote weder beziffert noch belegt hatte, beruhe die Annahme «auf keinem Sachverhalt» und sei eine «unhaltbare Schlussfolgerung». Der Abzug einer weder dem Grundsatz nach noch betragsmässig glaubhaft gemachten Sparquote von einem anhand der zweistufigen Methode errechneten Überschuss sei willkürlich (E. 3.5.3). In der Ergebnisprüfung ergab sich zusätzlich Willkür: Ausgehend von einem Überschuss von Fr. 2'593 hätte der Ehefrau und den Kindern rund Fr. 1'730 (rund zwei Drittel) zugestanden; der von der Vorinstanz zugesprochene Beitrag von Fr. 2'575 an die Ehefrau machte «knapp zwei Drittel dessen aus, worauf die Beschwerdeführerin Anspruch hat. Die Kürzung um knapp ein Drittel ist unter allen Titeln offensichtlich unhaltbar» (E. 4.5).
+
+**Zur Ermittlung des Standards vor der Trennung.** Will das Gericht den Überschussanteil begrenzen, um dem Kind die Beibehaltung des Lebensstandards vor der Trennung zu gestatten, hat es diesen Standard zu ermitteln: Das zuletzt erzielte Haushaltseinkommen ist festzustellen, davon ein gemeinsames familienrechtliches Existenzminimum abzuziehen und der verbleibende Überschuss nach grossen und kleinen Köpfen zu verteilen ([BGE 151 III 261 E. 2.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-261_2025.html)). Eine nachgewiesene Sparquote ist vom so ermittelten Überschuss abzuziehen (E. 2.4.5.1).
+
+### C.6 Kinderunterhalt: Bar- und Betreuungsunterhalt, Vorrang
+
+### Dogmatische Grundlinie
+
+Seit dem 1. Januar 2017 geht die Unterhaltspflicht gegenüber dem **minderjährigen Kind** den anderen familienrechtlichen Unterhaltspflichten vor (Art. 276a Abs. 1 ZGB); in begründeten Fällen kann das Gericht davon absehen, insbesondere um eine Benachteiligung des unterhaltsvolljährigen Kindes zu vermeiden (Abs. 2) ([Fedlex, SR 210, Art. 276a](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de)). Die Botschaft begründet den Vorrang damit, dass eine erwachsene Person eher in der Lage ist, finanzielle Probleme zu überwinden, während einem minderjährigen Kind die Aufnahme einer Erwerbstätigkeit von vornherein nicht möglich ist ([BGE 144 III 502 E. 6.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-502_2018.html); Botschaft, BBl 2014 572).
+
+Die Revision hat zugleich den **Betreuungsunterhalt** eingeführt: Der Unterhaltsbeitrag dient auch der Gewährleistung der Betreuung des Kindes durch die Eltern oder Dritte. Der Barunterhalt des Kindes und der Betreuungsunterhalt des betreuenden Elternteils sind getrennt zu berechnen und in der Reihenfolge zu decken, die das Gesetz vorgibt.
+
+**Wirkung des Vorrangs auf die Bedarfsrechnung.** Der Grundsatz, dass bei der Berechnung des Kindesunterhalts der Bedarf des Ehegatten nicht im schuldnerischen Existenzminimum berücksichtigt werden darf, gilt unter dem neuen Recht verstärkt. Bei gemeinsamem Haushalt mit dem neuen Partner ist deshalb nur der hälftige Grundbetrag einzusetzen ([BGE 144 III 502 E. 6.5–6.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-502_2018.html)).
+
+### Kasuistik: angewandt
+
+In [BGE 144 III 502](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-502_2018.html) hatten A. und D., die nie verheiratet waren, zwei Kinder (Jahrgänge 2008 und 2011), die bei der Mutter lebten. Gemäss den am 26. Mai 2011 genehmigten Unterhaltsverträgen schuldete der Vater pro Kind und Monat Fr. 430 bis zum vollendeten 6. Altersjahr, Fr. 480 bis zum vollendeten 12. Altersjahr und Fr. 530 bis zur Volljährigkeit bzw. bis zum Abschluss einer angemessenen Ausbildung, jeweils zuzüglich Kinderzulage. Der Vater heiratete 2015; 2017 wurde das Halbgeschwister E. geboren. Am 14. August 2017 klagten die Kinder auf Abänderung und verlangten rückwirkend ab 1. April 2016 Beiträge von je Fr. 1'190. Das Zivilkreisgericht Basel-Landschaft Ost verpflichtete den Vater rückwirkend ab 1. Januar 2017 zu Fr. 904 pro Kind; das Kantonsgericht Basel-Landschaft erhöhte auf Fr. 1'150 (Kind B.) und Fr. 1'028 (Kind C.). Der Vater machte geltend, es sei eine «Heiratsstrafe», wenn ihm nur ein Grundbetrag von Fr. 850 statt Fr. 1'200 zugestanden werde, und der Vorrang des Kindesunterhalts beziehe sich nur auf gerichtlich geltend gemachte Ansprüche. Das Bundesgericht wies die Beschwerde ab: Die konsensuale Bestreitung der Lebenshaltungskosten der im gleichen Haushalt lebenden Ehefrau bedeutet materiell eine Befriedigung ihres Unterhaltsanspruchs; Art. 163 ZGB ist in beiden Fällen Grundlage des ehelichen Unterhalts (E. 6.6).
+
+### C.7 Rückwirkung der Unterhaltsbeiträge
+
+Die Leistungen können **für die Zukunft und für das Jahr vor Einreichung des Begehrens** gefordert werden (Art. 173 Abs. 3 ZGB). Fehlt ein anderslautender Antrag, ist davon auszugehen, dass die Unterhaltsbeiträge ab Einreichung des Eheschutzbegehrens verlangt werden; lebten die Ehegatten im Zeitpunkt der Einreichung noch im gemeinsamen Haushalt, sind Unterhaltspflichten erst ab Aufhebung zu prüfen ([ZH OG LE130026 E. 4.4.3](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE130026_2013-09-17.pdf)). Die Jahresfrist des Art. 173 Abs. 3 ZGB ist im Begehren zu beachten: Wer den Rückgriff auf das Vorjahr will, muss dies erkennen lassen.
+
+### C.8 reformatio in peius und die Trennung der Ansprüche
+
+### Dogmatische Grundlinie
+
+Das Verbot der reformatio in peius verbietet der Rechtsmittelinstanz, das angefochtene Urteil zu Ungunsten der beschwerdeführenden Partei abzuändern, es sei denn, die Gegenpartei habe ihrerseits Anschlussbeschwerde erhoben. Der Grundsatz ist im Eheschutzverfahren **anspruchsspezifisch** anzuwenden: Ehegatte und Kinder verfügen über selbstständige Ansprüche mit je eigenem rechtlichem Schicksal. Der Kinderunterhalt unterliegt der Offizialmaxime, sodass das Verschlechterungsverbot insoweit nicht zum Tragen kommt; der Ehegattenunterhalt unterliegt der Dispositionsmaxime ([BGE 129 III 417 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-417_2003-05-22.html)).
+
+### Kasuistik: angewandt
+
+In [BGE 129 III 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-417_2003-05-22.html) hatte der Gerichtspräsident 4 von Baden den persönlichen Unterhaltsbeitrag für die Ehefrau ab Mai 2002 auf Fr. 1'660 festgesetzt. Das Obergericht des Kantons Aargau erhöhte ihn auf Fr. 1'806 für die Zeit von Mai 2002 bis Februar 2003 — obwohl die Ehefrau in der Anschlussbeschwerde lediglich die Bestätigung der erstinstanzlich festgelegten Beiträge beantragt hatte. Das Bundesgericht hob auf: Der Ehegattenunterhalt unterliegt der Dispositionsmaxime; die erstinstanzlich zugesprochenen Beiträge waren nur vom Ehemann angefochten worden. Das Obergericht habe damit das Verbot der reformatio in peius und Art. 9 BV verletzt (E. 2.1.2). Das Gericht verwarf ausdrücklich die Auffassung, Mutter und Kind zugesprochene Leistungen seien wegen wirtschaftlicher Interdependenz als Einheit zu behandeln: Zwar könne bei wirtschaftlich engen Verhältnissen die Höhe der Ehegattenrente nicht losgelöst von jener der Kinderrente bestimmt werden, doch rechtfertige dies keine Abweichung vom Grundsatz, dass der Unterhaltsanspruch des Ehegatten der Dispositionsmaxime unterliegt (E. 2.1.2).
+
+> **Leitsatz.** Der Unterhaltsanspruch des Ehegatten und jener der Kinder sind selbstständige Ansprüche; im Rechtsmittelverfahren ist das Verbot der reformatio in peius für den Ehegattenunterhalt uneingeschränkt zu beachten, während es für den der Offizialmaxime unterliegenden Kinderunterhalt nicht zum Tragen kommt ([BGE 129 III 417 E. 2.1.1–2.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-417_2003-05-22.html)).
+
+### C.9 Beweislast, Glaubhaftmachung und Mitwirkung
+
+Im summarischen Verfahren gilt für rechtserhebliche strittige Tatsachen das Mass der **Glaubhaftmachung**: Es genügt, wenn objektive Anhaltspunkte oder plausible Zusicherungen einer Partei das Vorliegen oder Nichtvorliegen als wahrscheinlich erscheinen lassen ([ZH OG LE220038](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE220038_2023-02-08.pdf); [ZH BG Dielsdorf EE250004](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250004_2025-10-27.pdf)).
+
+Der Untersuchungsgrundsatz enthebt die Parteien von der **subjektiven** Beweislast, nicht aber von ihrer **Mitwirkungspflicht**; die **objektive** Beweislast nach Art. 8 ZGB bleibt unberührt, sodass die Folgen der Beweislosigkeit jene Partei trägt, die aus der Tatsache Vorteile ableitet ([BGE 151 III 261 E. 2.4.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-261_2025.html); [BGE 140 III 485 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)). Praktisch bedeutet dies: Wer eine Sparquote, eine Arbeitsunfähigkeit oder eine hypothetische Erwerbsmöglichkeit geltend macht, muss die tatsächlichen Grundlagen benennen und belegen, auf die das Gericht seine Berechnung stützen kann.
+
+---
+
+## D. Benützung der Wohnung und des Hausrates (Abs. 1 Ziff. 2)
+
+### D.1 Massstab: Zweckmässigkeit, nicht Eigentum
+
+### Dogmatische Grundlinie
+
+Das Gericht entscheidet über die vorübergehende Zuteilung der ehelichen Liegenschaft an eine der Parteien nach **Zweckmässigkeit** und grundsätzlich **unabhängig davon, wer Eigentümer oder Mieter ist**. Kann nicht eindeutig ausgemacht werden, wem das Haus oder die Wohnung den grösseren Nutzen bringt, hat derjenige auszuziehen, dem es unter Würdigung aller Umstände eher zuzumuten ist ([BGE 120 II 1 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-II-1_1994-01-11.html)).
+
+### Die Zuteilungskriterien
+
+Das Bundesgericht hat die Kriterien in [BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html) zusammenfassend dargestellt. Im Vordergrund stehen
+
+- das Interesse der Kinder, in der gewohnten und vertrauten Umgebung bleiben zu dürfen;
+- die Erfahrungstatsache, dass der alleinstehende Ehegatte als Einzelperson rascher eine Wohnung findet als der andere Ehegatte mit den Kindern;
+- Gründe beruflicher und gesundheitlicher Art, wenn ein Ehegatte in der ehelichen Liegenschaft seinen Beruf ausübt oder ein Geschäft betreibt oder wenn die Wohnverhältnisse auf besondere Bedürfnisse eines gebrechlichen oder invaliden Familienmitglieds zugeschnitten sind.
+
+In zweiter Linie werden **Affektionsinteressen** berücksichtigt, etwa die Beziehungsnähe zur Liegenschaft, deren höherer zeitlicher Nutzungswert oder die Möglichkeit, den Unterhalt persönlich zu besorgen. Führt die Interessenabwägung zu keinem eindeutigen Ergebnis, ist im Zweifel den Eigentums- oder anderen rechtlich geordneten Nutzungsverhältnissen Rechnung zu tragen. Nur ausnahmsweise — bei unausweichlich notwendigem Verkauf oder in offensichtlichen Mangelfällen — können finanzielle Gründe entscheidend sein ([BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html); [BGE 120 II 1 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-II-1_1994-01-11.html)).
+
+### Der offengelegte Widerspruch: «Eigentum unerheblich» und «im Zweifel Eigentum»
+
+Die Rechtsprechung formuliert zwei Sätze, die sich nur schwer zusammenfügen lassen.
+
+- Einerseits gilt: «Indes ist das Eigentum für die auf Art. 176 Abs. 1 Ziff. 2 ZGB gestützte Regelung der einstweiligen Benützung von Wohnung und Hausrat grundsätzlich nicht massgeblich» ([BGer 5A_188/2018 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html) unter Verweis auf BGE 120 II 1 E. 2c und die Urteile 5A_766/2008, 5A_78/2012 und 5A_848/2014). Das Bundesgericht fügt in dieser Linie bei, eine Ausnahme zugunsten des Eigentums bestehe «einzig dort, wo keine anderen Zuteilungskriterien greifen».
+- Andererseits lautet die Residualregel derselben Judikatur: «Führt die Interessenabwägung zu keinem eindeutigen Ergebnis, ist schliesslich im Zweifel den Eigentums- oder anderen rechtlich geordneten Nutzungsverhältnissen Rechnung zu tragen, denen auch bei voraussehbarer längerer Aufhebung des gemeinsamen Haushaltes ein zusätzliches Gewicht beigemessen wird» ([BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)).
+
+Sachlich ist der erste Satz zu weit gefasst: Eigentum ist im Eheschutz nicht unwesentlich, sondern **nachrangig**. Die Residualregel räumt ihm gerade dort Gewicht ein, wo die primären Kriterien nichts hergeben. Die Formulierung «grundsätzlich nicht massgeblich» ist deshalb irreführend; zutreffend ist, dass Eigentum das schwächste der Zuteilungskriterien ist und nur im Patt den Ausschlag gibt. Eine Partei, die sich auf ihr Eigentum beruft, um daraus eine Erstzuweisung abzuleiten, verkennt die Rangordnung: In [BGer 5A_188/2018 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html) verwarf das Bundesgericht genau diese Argumentation («bereits im Ansatz nicht zur Darlegung von Willkür geeignet»).
+
+### D.2 Kasuistik: angewandt vs. verworfen
+
+**Angewandt: der Vater zieht aus dem eigenen Haus aus.** In [BGer 5A_188/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html) waren die Ehegatten verheiratet und hatten das 2015 geborene Kind C. Auf das Eheschutzgesuch des Ehemannes hin regelte das Bezirksgericht Horgen mit Urteil vom 21. März 2017 das Getrenntleben, stellte C. unter die alleinige Obhut der Mutter und wies die **eheliche Wohnung dem Ehemann** zu, mit Fristansetzung bis 30. Juni 2017 für Mutter und Kind, die Wohnung zu verlassen. Auf beidseitige Berufung wies das Obergericht des Kantons Zürich die Wohnung für die Dauer des Getrenntlebens der Mutter zu, samt Hausrat und Mobiliar, und setzte dem Ehemann Frist bis 31. März 2018. Der Ehemann brachte vor, die Wohnung stehe in seinem Eigentum (sie beruhte auf einem Erbvorbezug), und die Ehefrau werde sie bei der Scheidung ohnehin verlassen müssen. Das Bundesgericht wies die Beschwerde ab: Das Eigentum ist für die Regelung der einstweiligen Benützung grundsätzlich nicht massgeblich; vorrangig sind die Interessen des Kindes. Ausschlaggebend war, dass die Wohnung das vertraute Zuhause des Kindes war, die Wohnungssuche für die Mutter mit Kind schwieriger war als für den Vater als Einzelperson und der Vater «zur Not vorübergehend bei seinen im gleichen Haus wohnhaften Eltern Unterschlupf finden könnte». Auch die Frist bis zum 31. März 2018 war nicht unhaltbar, weil im gleichen Haus eine den Eltern des Vaters gehörende weitere Wohnung frei war (E. 2, 4, 6).
+
+**Angewandt: die Mutter mit Kleinkind verliert das eigene Haus.** In [BGer 5A_766/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html) betrieben der Ehemann (Architekt, Alleinaktionär mehrerer Gesellschaften) und die Ehefrau (Hausfrau und Innenarchitektin) ein eigenes Wohnhaus. Der Ehemann machte geltend, für die Zuweisung an die Ehefrau habe letztlich allein die Tatsache den Ausschlag gegeben, dass es einer Mutter mit zweijährigem Kind nicht zuzumuten sei, das angestammte Umfeld zu verlassen. Das Bundesgericht liess den Einwand durchgehen und prüfte die Zuteilung nach: Der Gerichtspräsident hatte erwogen, das Kind pflege mit zwei Jahren kaum schon selbstständige ausserhäusliche Kontakte, habe seit Gesuchseinreichung viel mehr Zeit bei der Grossmutter und in der Kinderkrippe verbracht, und die Ehefrau arbeite seit August 2008 vollzeitlich. Das eheliche Wohnhaus müsse deshalb nicht zwingend als vertraute Umgebung des Kindes bezeichnet werden, sodass ein Umzug nicht unbedingt dem Kindesinteresse zuwiderlaufe. Das Bundesgericht bestätigte gleichwohl die Zuteilung an die Ehefrau — auf der Grundlage einer Gesamtwürdigung und in Anerkennung des freien Ermessens des Sachgerichts; die Prüfungsbefugnis beschränkt sich auf Willkür (E. 3.3, 4.1). Der Fall zeigt, dass die Kindesinteressen nicht schematisch wirken: Massgebend ist, wo das Kind faktisch verwurzelt ist, nicht das formale Alter.
+
+**Verworfen: die Zuteilung wird nur für das Verfahren angefochten.** In [BGer 5A_848/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html) hatte das Obergericht die eheliche Wohnung dem Ehemann zugewiesen, nachdem es das Kind — es war zuvor gestützt auf Art. 310 Abs. 1 ZGB im Kinderheim platziert — unter seine Obhut gestellt hatte. Die Ehefrau verlangte die Zuweisung der Wohnung samt Hausrat und Mobiliar an sich und das Kind. Das Bundesgericht wies die Beschwerde ab: Es sei kein Kriterium erkennbar, aus dem sich ein Zuteilungsanspruch der Ehefrau ergeben sollte, und die Vorinstanz habe die massgebenden Kriterien berücksichtigt (E. 3.1–3.2). Zutreffend ist die Verbindung zum Obhutsentscheid: Die Zuteilung der Wohnung folgt der Obhutszuteilung, weil die Obhut die faktische Betreuungssituation bestimmt.
+
+**Kein aktuelles Rechtsschutzinteresse bei bereits erfolgtem Auszug.** Zieht der antragstellende Ehegatte aus, bevor über die Zuweisung entschieden wird, fehlt das aktuelle Rechtsschutzinteresse: In [ZH BG Bülach EE250017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250017_2025-05-07.pdf) trat das Gericht «auf das Begehren um Zuweisung der ehelichen Liegenschaft bzw. des Hausrates mangels eines aktuellen Rechtsschutzinteresses nicht ein», weil die Gesuchstellerin eine Wohnung in Zürich bezogen hatte.
+
+### D.3 Der Hausrat
+
+### Dogmatische Grundlinie
+
+**Hausrat und Liegenschaft bilden eine Einheit.** Die Nutzung des Hausrates ist mit jener der Liegenschaft verbunden; das entspricht der Üblichkeit des Eheschutzverfahrens und der Struktur von Art. 176 Abs. 1 Ziff. 2 ZGB ([SO OG ZKBER.2016.101 E. 2.3](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html)). Wer die Zuteilung von Hausratsgegenständen **unabhängig** von der Zuweisung der Liegenschaft verlangt, muss dies separat bzw. eventualiter beantragen; wer die Zuteilung der Liegenschaft «sowie des gesamten sich darin befindlichen Hausrats» beantragt, verbindet die Fragen zulässigerweise.
+
+**Kein Anspruch auf bestimmte Gegenstände.** Zu beanspruchen ist nicht ein bestimmter Gegenstand, sondern der für eine **vernünftige Einrichtung** nötige Hausrat ([ZH OG LE120061](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120061_2013-05-29.pdf) unter Verweis auf Bräm/Hasenböhler, Zürcher Kommentar, 3. Aufl. 1997, N. 43 zu Art. 176 ZGB). Wer einzelne Gegenstände herausverlangt, muss darlegen, weshalb eine vernünftige Einrichtung nur mit gerade diesen möglich sein soll — andernfalls ist das Begehren unbehelflich.
+
+**Provisorischer Charakter, keine güterrechtliche Auseinandersetzung.** Die Hausratszuteilung ist provisorisch; es geht nicht um die Aufteilung im Sinne der güterrechtlichen Auseinandersetzung. Die integrale Zuteilung des Hausrates an den obsiegenden Ehegatten — unter Vorbehalt der persönlichen Effekten des andern — ist zweckmässig und wird vom Bundesgericht nicht beanstandet ([BGer 5A_188/2018 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html); [ZH OG LE120035](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120035_2012-10-08.pdf)).
+
+> **Leitsatz.** Beim Hausrat ist nicht ein bestimmter Gegenstand, sondern der für eine vernünftige Einrichtung erforderliche Bestand zuzuteilen; die Zuteilung ist provisorisch und folgt der Nutzung der ehelichen Liegenschaft ([ZH OG LE120061](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120061_2013-05-29.pdf); [SO OG ZKBER.2016.101 E. 2.3](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html)).
+
+### D.4 Die Auszugsfrist
+
+Die dem ausziehenden Ehegatten gesetzte Frist muss angemessen sein. Das Bundesgericht prüft sie nur auf Willkür. In [BGer 5A_945/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html) hatte das Bezirksgericht Bremgarten der Ehefrau eine Frist bis zum 31. September 2014 gesetzt (ein nicht existierendes Datum); das Obergericht verlängerte bis zum 30. November 2014. Das Bundesgericht setzte die Frist neu auf den 30. Juni 2015 an (E. 4). In [BGer 5A_766/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html) wurde die Zuweisung des ehelichen Hauses an die Ehefrau ab 1. April 2009 bestätigt. Die Frist ist an der Zeit zu messen, die für Wohnungssuche und Umzug tatsächlich erforderlich ist; eine angesetzte Frist von rund eineinhalb Monaten ab Zustellung kann ausreichen, eine solche von sechs Monaten ist eher zu lang ([BGer 5A_945/2014 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html)).
+
+### D.5 Keine Vorwegnahme der Scheidungsfolgen
+
+Im Eheschutzverfahren ist nur die **vorübergehende** Regelung des Getrenntlebens zu beurteilen; die Ergebnisse des Scheidungsverfahrens sind nicht vorwegzunehmen. Der Umstand, dass ein Ehegatte nach der Scheidung voraussichtlich wieder in die eheliche Liegenschaft zurückkehren wird, vermag an der Zuweisung für die Dauer des Getrenntlebens nichts zu ändern, solange das Scheidungsverfahren nicht einmal anhängig gemacht ist ([ZH OG LE190014](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE190014_2019-04-24.pdf)).
+
+---
+
+## E. Anordnung der Gütertrennung (Abs. 1 Ziff. 3)
+
+### Dogmatische Grundlinie
+
+Die Gütertrennung ist die **einschneidendste** der Eheschutzmassnahmen. Sie ist nicht die Regel, sondern die Ausnahme. Das Gericht ordnet sie an, «wenn es die Umstände rechtfertigen»; damit ist es auf sein pflichtgemässes Ermessen nach Art. 4 ZGB verwiesen ([BGE 116 II 21 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html); [SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html)).
+
+Drei Strukturmerkmale sind zu unterscheiden:
+
+**Voraussetzung ist die begründete Aufhebung des gemeinsamen Haushalts.** Art. 176 Abs. 1 Ziff. 3 ZGB setzt die Aufhebung voraus, die ihrerseits nach Art. 175 ZGB nur zulässig ist, wenn die Persönlichkeit eines Ehegatten, seine wirtschaftliche Sicherheit oder das Wohl der Familie durch das Zusammenleben gefährdet ist ([BGE 116 II 21 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)).
+
+**Der Massstab ist an Art. 175 ZGB zu messen, nicht an Art. 185 ZGB.** Das Auflösungsgericht nach Art. 118 ZGB ordnet die Gütertrennung von Gesetzes wegen an; im Eheschutz ist dies nicht der Fall. Allerdings sind die Voraussetzungen nach Art. 176 Abs. 1 Ziff. 3 ZGB **geringer** als die abschliessend aufgezählten Beispiele von Art. 185 Abs. 2 ZGB ([SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html); [OGer TG RBOG 2002 Nr. 07](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2002-Nr--07_2002.html)). Zu prüfen ist vor allem die Gefährdung der **wirtschaftlichen Sicherheit** des Ehegatten, der die Gütertrennung verlangt; denkbar ist auch, dass der **Schutz der Persönlichkeit** eines Ehegatten sie als notwendig erscheinen lässt ([OGer TG RBOG 2002 Nr. 07](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2002-Nr--07_2002.html)). Das Gericht darf indessen keinen Billigkeitsentscheid fällen, der sich allein am Wunsch des antragstellenden Ehegatten orientiert: Art. 176 Abs. 1 Ziff. 3 ZGB ist mit Blick auf die Umstände anzuwenden, die nach Art. 175 ZGB zur Aufhebung geführt haben ([GR KG ZK1 2015 172](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_006_ZK1-2015-172_2017-07-26.pdf)).
+
+**Wirkung: endgültig trotz provisorischen Kontextes.** Die Anordnung der Gütertrennung ist ein einmaliger, rechtsgestaltender Akt. Sie bleibt bei einer Wiederaufnahme des Zusammenlebens bestehen (Art. 179 Abs. 2 ZGB). Der **Scheidungsrichter ist an die Anordnung gebunden** und kann nicht erneut prüfen, ob sie gerechtfertigt war ([BGer 5A_417/2011 E. 6.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-417-2011_2011-09-20.html); [BGE 116 II 21 E. 1b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)). Die Anordnung wirkt auf den Zeitpunkt der **Einreichung des Begehrens** zurück: Bei gerichtlicher Anordnung der Gütertrennung gilt als Zeitpunkt der Auflösung des Güterstandes der Tag, an dem das Begehren eingereicht worden ist (Art. 204 Abs. 2 ZGB; [BGer 5A_1048/2019 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1048-2019_2021-06-30.html)).
+
+### Der offengelegte Widerspruch: ultima ratio gegen scheidungsvorbereitender Charakter
+
+Zwischen dem Bundesgericht und der kantonalen Praxis bestehen unterschiedliche Massstäbe, die sich nicht durch Sachverhaltsnuancen erklären lassen.
+
+- Das Bundesgericht bezeichnet die Gütertrennung als **ultima ratio** und verlangt, an die im Gesetz erwähnten «Umstände» einen **strengen Massstab** anzulegen; eine grosszügigere Praxis könne das Institut der gerichtlichen Trennung nach Art. 147 ZGB unterlaufen ([BGE 116 II 21 E. 5b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)). In jenem Fall hatte der Ehemann die Familienwohnung noch vor Inkrafttreten des neuen Eherechts verkauft — was das Bundesgericht ausdrücklich als Umstand bezeichnete, der die Gütertrennung hätte rechtfertigen können (E. 5a) —; da die Ehefrau keine anderen Massnahmen verlangt hatte und die Erträgnisse mittelbar in den Unterhalt einflossen, hob es den Entscheid gleichwohl nicht auf.
+- Die kantonale Praxis stellt demgegenüber auf den **scheidungsvorbereitenden Charakter** des Eheschutzverfahrens ab: Ist davon auszugehen, dass das Verfahren der Scheidungsvorbereitung dient, kann dies die Anordnung der Gütertrennung **gegen den Willen eines Ehegatten** rechtfertigen ([LU OG 22 01 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_22-01-57_2001-11-07.html); [ZH KSG AA050069](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_KSG_001_AA050069_2005-09-20.pdf)). Geht es nur darum, die vierjährige Frist von Art. 114 ZGB (in der damaligen Fassung) abzuwarten, sind die Voraussetzungen nochmals **geringer** als im klassischen Eheschutz ([SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html)).
+
+Die Linien stehen sich insoweit unvereinbar gegenüber, als das Bundesgericht die Anordnung an einer drohenden Gefährdung im Sinne von Art. 175 ZGB misst, die kantonale Praxis dagegen die blosse Absicht, sich scheiden zu lassen, genügen lässt. Der Widerspruch ist für die Rechtsmittelpraxis verwertbar: Wer die Anordnung der Gütertrennung anstrebt, kann sich auf die kantonale Linie berufen, die den Massstab tiefer ansetzt; wer sie bekämpft, auf die bundesgerichtliche Formel der ultima ratio.
+
+### Kasuistik: angewandt
+
+**Gütertrennung wegen Veräusserung der Familienwohnung vor Inkrafttreten der neuen Ordnung.** In [BGE 116 II 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html) hob der Amtsgerichtspräsident II von Luzern-Land am 15. Juni 1988 den gemeinsamen Haushalt der Eheleute R.-A. gestützt auf Art. 175 ZGB für unbestimmte Zeit auf und regelte die Nebenfolgen; das Begehren der Ehefrau um Gütertrennung wies er ab. Das Obergericht des Kantons Luzern setzte am 18. Mai 1989 den persönlichen Unterhaltsbeitrag neu fest, lehnte die Gütertrennung aber ebenfalls ab. Die Ehefrau machte geltend, der Ehemann habe die eheliche Wohnung am 30. Dezember 1987 — kurz vor Inkrafttreten des revidierten Eherechts, das die ausdrückliche Zustimmung des Ehegatten bei der Veräusserung der Familienwohnung zwingend vorsieht (Art. 169 ZGB) — ohne Mitwirkungsmöglichkeit der Ehefrau verkauft, und verwies auf ihre prekäre finanzielle Lage. Das Bundesgericht hielt fest, in diesem Vorgehen «hätte tatsächlich ein Umstand liegen können, der Massnahmen des Eheschutzrichters — und damit allenfalls auch die Gütertrennung — gerechtfertigt hätte», und die Beschwerdeführerin habe nicht einmal behauptet, dass andere von ihr verlangte Massnahmen den Zweck der Gütertrennung ebenso erfüllt hätten (E. 5a, 5b). Aufheben liess es den Entscheid dennoch nicht: Die Erträgnisse aus Eigengut und Errungenschaft, die vorläufig dem Ehemann zufielen, seien in dessen Einkommen einzubeziehen und damit mittelbar an die Ehefrau weiterzuleiten; reine Billigkeitsüberlegungen — der Wunsch, schon jetzt über Kapital frei verfügen zu können — genügten nicht (E. 5c, 5d). Der Entscheid ist in seinem Ergebnis für die Ehefrau ungünstig, in seiner Begründung aber für die Gütertrennung wegweisend: Er anerkennt den Missbrauchssachverhalt als tauglichen Anordnungsgrund.
+
+**Gütertrennung gegen den Willen des einen Ehegatten.** In [LU OG 22 01 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_22-01-57_2001-11-07.html) hatte der Amtsgerichtspräsident das Begehren des Gesuchsgegners um Anordnung der Gütertrennung im Verfahren nach Art. 175 ZGB abgewiesen. Die Vorinstanz verneinte eine glaubhaft gemachte Gefährdung wirtschaftlicher Interessen, verneinte ausreichende Anhaltspunkte für das behauptete Motiv der Profitsucht und hielt das wirtschaftliche Gefälle zwischen der Schweiz und Rumänien für nicht ausreichend, zumal es bei der Heirat bekannt gewesen war (E. 5.1). Zwischen dem Eheschluss und der Aufhebung des gemeinsamen Haushalts waren nur neun Monate verstrichen; das Zusammenleben war durch Aufenthalte der Gesuchstellerin in Rumänien unterbrochen worden, und die Gesuchstellerin wurde von der Ausländerbehörde rechtskräftig aus der Schweiz weggewiesen. Die Parteien erhoben gegenseitig massive Vorwürfe — Profitsucht respektive Gewaltanwendung, krankhafte Eifersucht, sexuelle Ausbeutung (E. 5.3). Das Obergericht des Kantons Luzern (II. Kammer) hiess den Rekurs gleichwohl gut und ordnete die Gütertrennung an: Diene das Eheschutzverfahren der Scheidungsvorbereitung, liege kein hinreichender Grund mehr vor, die engen wirtschaftlichen Verflechtungen der Errungenschaftsbeteiligung gegen den Willen eines Ehegatten aufrechtzuerhalten (E. 5.2). Neben der Gefährdung wirtschaftlicher Interessen können auch Erwägungen des Persönlichkeitsschutzes Bedeutung erlangen. Der Entscheid ist rechtskräftig.
+
+**Gütertrennung, weil der Pflichtige sich schon während des Zusammenlebens nicht an Abreden hielt.** In [ZH BG Bülach EE250017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250017_2025-05-07.pdf) beantragte die Gesuchstellerin die Anordnung der Gütertrennung rückwirkend ab 30. Dezember 2024, eventualiter ab 29. April 2025, und begründete dies damit, der Gesuchsgegner habe sich bereits während des Zusammenlebens nicht an die getroffenen Abreden gehalten. Der Gesuchsgegner war ab 30. Dezember 2024 flüchtig und zur Verhaftung ausgeschrieben, Zustellungen erfolgten amtsblattlich; verhaftet wurde er am 18. März 2025. Das Gericht wies das Begehren ab: Eine **abstrakte** Gefährdung finanzieller Interessen genügt nicht; der Gesuchsteller muss konkret glaubhaft machen, dass der andere Vorkehrungen getroffen hat oder kurz davor steht, seine finanziellen Ansprüche zu gefährden (E. 8.2). Der Fall dokumentiert damit die Beweislastseite: Der bloss behauptete Vertrauensbruch in Vermögensangelegenheiten reicht nicht, solange keine konkrete Gefährdungshandlung dargetan ist.
+
+### Kasuistik: verworfen
+
+**Gütertrennung verweigert, obwohl der Antragsteller sie begehrte.** In [BGer 5A_945/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html) verlangte der Ehemann im Eheschutzgesuch unter anderem, die Gütertrennung per 3. März 2014 anzuordnen. Das Bezirksgericht Bremgarten ordnete sie an, das Obergericht bestätigte. Die Ehefrau focht dies an. Das Bundesgericht hob die Anordnung auf und wies das Gesuch ab (Dispositiv 1.1): Das Obergericht hatte den Massstab verfehlt, weil sich das Begehren des Ehemannes als Instrument im Scheidungskonflikt darstellte und keine Gefährdungslage im Sinne von Art. 175 ZGB belegt war. Der Fall illustriert die bundesgerichtliche Zurückhaltung: Die Anordnung ist nicht deshalb geschuldet, weil ein Ehegatte sie begehrt.
+
+### Kasuistik-Tabelle: Gütertrennung
+
+| Sachverhalt | Anordnungsgrund | Ergebnis | Entscheid |
+|---|---|---|---|
+| Verkauf der Familienwohnung am 30.12.1987 ohne Mitwirkung der Ehefrau, kurz vor Inkrafttreten von Art. 169 ZGB; prekäre Lage der Ehefrau | Umgehung des Zustimmungserfordernisses | Anordnung **verweigert** (Ehefrau hatte keine anderen Massnahmen verlangt; Erträgnisse mittelbar berücksichtigt) — Grundsatz aber anerkannt | [BGE 116 II 21 E. 5a–5b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html) |
+| Eheschutzverfahren dient der Scheidungsvorbereitung; Anordnung gegen den Willen des einen Ehegatten | Scheidungsvorbereitender Charakter | Anordnung **bestätigt** (Ermessen nicht überschritten) | [LU OG 22 01 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_22-01-57_2001-11-07.html) |
+| Eheschutzverfahren dient nur dem Abwarten der Frist von Art. 114 ZGB | Niedrigere Voraussetzungen als im klassischen Eheschutz | Anordnung **bejaht**; Massstab ausdrücklich tiefer als bei Art. 185 ZGB | [SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html) |
+| Antrag des Ehemannes im Scheidungskonflikt; keine belegte Gefährdung | — (keiner) | Anordnung **aufgehoben**, Gesuch abgewiesen | [BGer 5A_945/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html) |
+| Pflichtiger hielt sich schon während des Zusammenlebens nicht an die Abreden | Konkreter Vertrauensbruch in Vermögensfragen | Anordnung **begehrt** (rückwirkend) | [ZH BG Bülach EE250017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250017_2025-05-07.pdf) |
+
+### Rückwirkung und Bewertung in der späteren Auseinandersetzung
+
+Die Anordnung wirkt auf die Einreichung des Begehrens zurück (Art. 204 Abs. 2 ZGB). Für die **Bewertung** der bei Auflösung vorhandenen Errungenschaft ist der Zeitpunkt der Auseinandersetzung massgebend (Art. 214 Abs. 1 ZGB); erfolgt sie im Rahmen eines gerichtlichen Verfahrens, ist der Tag der Urteilsfällung oder ein diesem möglichst nahe gelegener Zeitpunkt massgebend, wobei Abweichungen namentlich durch Vereinbarung der Parteien zulässig sind ([BGer 5A_1048/2019 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1048-2019_2021-06-30.html)). In jenem Fall hatte das Gericht den massgeblichen Stichtag für die Bewertung eines Aktiendepots rund sieben Tage vor der erstinstanzlichen Urteilsfällung angesetzt; das Bundesgericht liess dies zu (E. 3.1.3, 3.4).
+
+> **Leitsatz.** Die Anordnung der Gütertrennung nach Art. 176 Abs. 1 Ziff. 3 ZGB ist ein einmaliger, rechtsgestaltender Akt, der auch bei Wiederaufnahme des Zusammenlebens bestehen bleibt und den Scheidungsrichter bindet; sie setzt die nach Art. 175 ZGB begründete Aufhebung des Haushalts voraus und wird nur angeordnet, wenn die Umstände es rechtfertigen ([BGer 5A_417/2011 E. 6.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-417-2011_2011-09-20.html); [BGE 116 II 21 E. 1b, 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html)).
+
+---
+
+## F. Kinderbelange (Abs. 3)
+
+### Dogmatische Grundlinie
+
+Haben die Ehegatten minderjährige Kinder, trifft das Gericht «nach den Bestimmungen über die Wirkungen des Kindesverhältnisses die nötigen Massnahmen». Zu regeln sind namentlich die **Obhut** über das Kind, der **persönliche Verkehr** mit dem nicht obhutsberechtigten Elternteil, die **Beteiligung jedes Elternteils an der Betreuung** und der **Unterhaltsbeitrag** ([BGE 142 III 612 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)). Oberste Maxime ist das **Kindeswohl**; die Interessen und Wünsche der Eltern treten dahinter zurück ([BGE 142 III 612 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+
+Seit dem 1. Juli 2014 ist die gemeinsame elterliche Sorge unabhängig vom Zivilstand der Eltern der Regelfall (Art. 296 Abs. 2 ZGB). Davon zu unterscheiden ist die **Obhut**: Sie ist die Befugnis, über den Aufenthaltsort und die Modalitäten der Betreuung zu bestimmen (Art. 301a Abs. 1 ZGB). Die gemeinsame elterliche Sorge schliesst die Errichtung einer alternierenden Obhut nicht ein ([BGE 142 III 612 E. 4.1–4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+
+### F.1 Obhutszuteilung: alleinige oder alternierende Obhut
+
+**Prüfung von Amtes wegen.** Unabhängig davon, ob sich die Eltern auf eine alternierende Obhut geeinigt haben, muss der Richter prüfen, ob dieses Betreuungsmodell möglich und mit dem Wohl des Kindes vereinbar ist ([BGE 142 III 612 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+
+**Kriterien der alternierenden Obhut.** Nach [BGE 142 III 612 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html) und [BGE 142 III 617 E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-617_2016.html) sind massgebend:
+
+- **Erziehungsfähigkeit beider Eltern** — sie ist in jedem Fall Voraussetzung; fehlt sie bei einem Elternteil, scheidet alternierende Obhut aus;
+- **Kooperations- und Kommunikationsfähigkeit** — die praktische Umsetzung setzt voraus, dass die Eltern fähig und bereit sind, in Kinderbelangen zu kommunizieren und zu kooperieren. Der blosse Widerspruch eines Elternteils gegen das Modell lässt indessen nicht ohne weiteres auf fehlende Kooperationsfähigkeit schliessen; ein solcher Schluss kommt nur in Betracht, wo die Eltern aufgrund bestehender Feindseligkeiten auch in anderen Kinderbelangen nicht zusammenarbeiten können und das Kind dem gravierenden Elternkonflikt offensichtlich zuwiderlaufend ausgesetzt würde;
+- **geographische Situation**, namentlich die Distanz zwischen den Wohnungen;
+- **Stabilität** der Weiterführung der bisherigen Regelung; alternierende Obhut fällt eher in Betracht, wenn die Eltern das Kind schon vor der Trennung abwechselnd betreuten;
+- **Möglichkeit der persönlichen Betreuung** durch die Eltern;
+- **Alter des Kindes**, seine Beziehungen zu (Halb- oder Stief-)Geschwistern und seine Einbettung in ein weiteres soziales Umfeld;
+- **Wunsch des Kindes**, selbst wenn es bezüglich der Betreuungsregelung noch nicht urteilsfähig ist; der Richter, der den Sachverhalt von Amtes wegen erforscht, entscheidet, ob und in welcher Hinsicht Hilfe von Sachverständigen erforderlich ist, um die Aussagen des Kindes zu interpretieren.
+
+Die Kriterien sind oft voneinander abhängig und je nach Konstellation von unterschiedlicher Bedeutung: Bei Säuglingen und Kleinkindern sind Stabilität und persönliche Betreuung wichtig, bei Jugendlichen die Zugehörigkeit zu einem sozialen Umfeld, bei schulpflichtigen Kindern und grosser geographischer Distanz die Kooperationsfähigkeit der Eltern ([BGE 142 III 612 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+
+**Kriterien der alleinigen Obhut.** Kommt alternierende Obhut nicht in Betracht, entscheidet der Richter, welchem Elternteil er die Obhut zuteilt. Dabei berücksichtigt er dieselben Kriterien und würdigt zusätzlich die **Fähigkeit jedes Elternteils, den Kontakt zwischen dem Kind und dem anderen Elternteil zu fördern** ([BGE 142 III 612 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html); [BGE 142 III 617 E. 3.2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-617_2016.html)). Für die Zuteilung der Obhut an einen Elternteil gelten grundsätzlich die gleichen Kriterien wie im Scheidungsfall; das Wohl des Kindes hat Vorrang vor allen anderen Überlegungen, insbesondere vor den Wünschen der Eltern. Vorab muss die **Erziehungsfähigkeit** beider Elternteile geklärt werden. Ist sie bei beiden gegeben, sind vor allem Kleinkinder und grundschulpflichtige Kinder demjenigen Elternteil zuzuteilen, der die Möglichkeit hat, sie persönlich zu betreuen ([BGer 5A_848/2014 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html)).
+
+### Kasuistik: angewandt
+
+**Alternierende Obhut wird verworfen.** In [BGE 142 III 612](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html) waren A. (Jahrgang 1975) und B. (Jahrgang 1982) die verheirateten Eltern von C. (Jahrgang 2007). Mit Eingabe vom 17. Oktober 2014 ersuchte die Mutter das Bezirksgericht Kreuzlingen um Erlass von Eheschutzmassnahmen; beide Eltern verlangten je die alleinige Obhut. Der Vater stellte ausserdem den Eventualantrag, die wechselseitige Obhut in der Weise anzuordnen, dass sich das Kind jede alternierende Woche bei einem Elternteil aufhält. Das Bezirksgericht vertraute C. am 13. Januar 2016 «superprovisorisch» der Obhut der Mutter an, verbunden mit einem Besuchsrecht des Vaters, und wies sowohl den Antrag des Vaters auf alternierende Obhut als auch jenen der Mutter auf vorläufigen Ausschluss des Besuchsrechts ab. Mit Entscheid vom 15. Juni 2015 (recte: der Entscheid datiert vor der superprovisorischen Anordnung) übertrug es die Obhut der Mutter; das Besuchs- und Ferienrecht des Vaters bestand darin, dass der Sohn zwei von drei Wochenenden sowie die Zeit von Mittwochabend bis Donnerstagvormittag beim Vater verbringen sollte. Das Obergericht des Kantons Thurgau bestätigte am 21. Oktober 2015. Das Bundesgericht prüfte die Kriterien von E. 4.3 umfassend und gelangte — in Anerkennung des grossen Ermessens des Sachgerichts — zur Bestätigung; auf Verfassungsrügen hin griff es nicht ein (E. 4.5).
+
+**Der Kindeswille verdrängt das Kindeswohl nicht.** In [BE OG ZK 2008 645](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_001_ZK-2008-645_2009-03-17.pdf) ging es um die Obhutszuteilung bei in höchstem Masse zerstrittenen Elternteilen. Das Obergericht des Kantons Bern hielt fest, es gebe «ein Kindeswohl gegen den klaren Kindeswillen nicht»; wer die Obhut übernehme, müsse zur Kooperation bereit sein. Der Entscheid ordnet den Kindeswillen als Element des Kindeswohls ein, nicht als selbstständigen Ausschlussgrund.
+
+**Der Vater verweigert die Reise in den Iran.** In [BGer 5A_561/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html) waren A.A. (Jahrgang 1986) und B.A. (Jahrgang 1989) seit 2017 verheiratet; der gemeinsame Sohn C.A. wurde 2021 geboren. Kurz nach der Geburt trennten sich die Eheleute; am 3. Dezember 2021 ersuchte die Ehefrau das Bezirksgericht Winterthur um Eheschutzmassnahmen. Das Bezirksgericht entschied am 15. März 2023: Es stellte den Sohn unter die **alternierende Obhut** beider Elternteile (Dispositiv-Ziffern 3 und 4), errichtete eine Beistandschaft im Sinne von Art. 308 Abs. 1 und 2 ZGB und übertrug der Beistandsperson insbesondere die Aufgabe, für die Errichtung einer sozialpädagogischen Familienbegleitung in beiden Haushalten besorgt zu sein (Ziff. 5). Dem Vater verbot es im Sinne einer Weisung gemäss Art. 307 Abs. 3 ZGB und unter Androhung der Ungehorsamsstrafe gemäss Art. 292 StGB bis auf Weiteres, mit seinem Sohn in den Iran zu reisen, ihn durch Drittpersonen dorthin verbringen zu lassen oder für ihn iranische Reisedokumente zu beantragen (Ziff. 6). Schliesslich wies es das Begehren des Ehemannes um Anordnung der Gütertrennung ab (Ziff. 13). Das Obergericht des Kantons Zürich wies die Berufung ab, soweit es darauf eintrat. Das Bundesgericht trat auf weite Teile der Beschwerde nicht ein: Der Beschwerdeführer rief in verschiedenen Punkten gar keine verfassungsmässigen Rechte an (E. 2.2.1), und seine Rügen zur Verletzung des rechtlichen Gehörs genügten dem Rügeprinzip nicht (E. 3.2). Auf das Gesuch um Prozesskostenvorschuss trat das Bundesgericht funktionell nicht ein (E. 1.3). Der Fall ist in zwei Punkten lehrreich: Er zeigt erstens, dass die alternierende Obhut auch bei einem Kleinkind angeordnet werden kann; und zweitens, dass die Kinderbelange des Abs. 3 als Vehikel für Weisungen nach Art. 307 Abs. 3 ZGB dienen können, die mit der Ungehorsamsstrafe nach Art. 292 StGB bewehrt sind.
+
+### Kasuistik-Tabelle: Obhut im Eheschutz
+
+| Sachverhalt | Begehren | Ergebnis | Entscheid |
+|---|---|---|---|
+| Kind C. (2007); beide Eltern verlangen Alleinobhut, Vater eventualiter alternierende Obhut jede Woche | Alternierende Obhut | **Verworfen**; Alleinobhut der Mutter bestätigt; Besuchsrecht zwei von drei Wochenenden | [BGE 142 III 612 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html) |
+| Kind in höchstem Masse zerstrittene Eltern; Kindeswille gegen Obhut beim Vater | Alleinobhut | Kindeswille als Element des Kindeswohls; «ein Kindeswohl gegen den klaren Kindeswillen gibt es nicht» | [BE OG ZK 2008 645](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_001_ZK-2008-645_2009-03-17.pdf) |
+| Sohn C.A. (2021), Trennung kurz nach Geburt; Vater reist mit Sohn in den Iran | Alternierende Obhut | **Angeordnet**; Beistandschaft Art. 308 Abs. 1 und 2 ZGB, sozialpädagogische Familienbegleitung, Reiseverbot nach Art. 307 Abs. 3 ZGB i.V.m. Art. 292 StGB | [BGer 5A_561/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html) |
+| Kind C. (2015); eheliche Wohnung im Eigentum des Vaters | Alleinobhut der Mutter (unbestritten) | Obhut bei der Mutter; Wohnung ebenfalls an die Mutter | [BGer 5A_188/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html) |
+| Sohn C. (2012); Vater zuvor des sexuellen Übergriffs beschuldigt, Strafverfahren eingestellt; Kind zuvor im Kinderheim | Obhut und Wohnung | Obhut beim Vater; begleitetes Besuchsrecht der Mutter an zwei Nachmittagen monatlich | [BGer 5A_848/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html) |
+
+### F.2 Betreuungsanteile und persönlicher Verkehr
+
+Das Eheschutzgericht kann sich auf die Regelung der Obhut, des persönlichen Verkehrs oder der **Betreuungsanteile** beschränken, wenn keine Aussicht besteht, dass sich die Eltern diesbezüglich einigen (Art. 298 Abs. 2 ZGB). Die Betreuungsanteile werden in der Praxis mit **konkreten Zeitfenstern** festgelegt: In [ZH OG LE200032](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE200032_2020-12-11.pdf) regelte das Gericht die Betreuung wochentags und an Wochenenden mit genauen Uhrzeiten (Montagmorgen 08:00 bis Mittwochmittag 12:00 sowie jedes zweite Wochenende von Freitagabend 18:00 bis Montagmorgen 08:00 für die Mutter; die restlichen Zeiten für den Vater).
+
+Die **Offizial- und Untersuchungsmaxime** gilt für alle Kinderbelange: Soweit Betreuungsanteile zu regeln sind, findet Art. 296 Abs. 1 ZPO Anwendung; die von den Parteien getroffene Vereinbarung im Sinne eines übereinstimmenden Parteiantrages unterliegt der gerichtlichen Prüfung und Genehmigung, die voraussetzt, dass das Kindeswohl gewahrt wird. Soweit **keine** Kinderbelange betroffen sind — Zuteilung der ehelichen Wohnung, persönliche Unterhaltsbeiträge, Prozesskostenbeitrag —, gilt dagegen die Dispositionsmaxime ([ZH OG LE220038 E. III/1](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE220038_2023-02-08.pdf); [ZH OG LE160052](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE160052_2016-12-22.pdf)).
+
+Massstab für die Ausgestaltung des persönlichen Verkehrs ist das Kindeswohl. Die Meinung des Kindes ist einzubeziehen, wenn davon ausgegangen werden kann, dass es die Konsequenzen seines Wunsches bedacht hat, was etwa ab dem Alter von zwölf Jahren der Fall ist. Dem nicht obhutsberechtigten Elternteil von Kindern im Schulalter wird grundsätzlich ein Besuchsrecht an jedem zweiten Wochenende und ein Ferienrecht von zwei Wochen pro Jahr eingeräumt; für den dazwischenliegenden Zeitraum drängt sich kein extensives Ferienrecht auf, und eine Regelung der Feiertage ist nicht erforderlich, wenn den Eltern die einvernehmliche Lösung überlassen werden kann ([BGer 5A_945/2014 E. 3.1, 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html)).
+
+### F.3 Kindesschutzmassnahmen und Kindesvertretung
+
+Abs. 3 eröffnet auch die Anordnung von Kindesschutzmassnahmen. In der Praxis sind insbesondere die **Beistandschaft** nach Art. 308 Abs. 1 und 2 ZGB (mit Aufgabenkatalog, etwa der Errichtung einer sozialpädagogischen Familienbegleitung), die **Weisung** nach Art. 307 Abs. 3 ZGB und die **Entziehung der Obhut** nach Art. 310 Abs. 1 ZGB relevant ([BGer 5A_561/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html); [BGer 5A_848/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html)).
+
+Bemerkenswert ist die **Aufgabenteilung**: In [BGer 5A_848/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html) hatte das Gerichtspräsidium Baden den sorgeberechtigten Eltern gestützt auf Art. 310 Abs. 1 ZGB die Obhut über den gemeinsamen Sohn bis auf Weiteres und vorsorglich entzogen und die formelle Obhut dem Bezirksgericht Baden, Präsidium des Familiengerichts, zugewiesen; das Kind wurde faktisch im Kinderheim platziert und eine Beistandschaft nach Art. 308 Abs. 1 und 2 ZGB errichtet. Der Beistand erhielt den Auftrag, das Besuchsrecht der Parteien zu regeln. Das Obergericht stellte das Kind später unter die Obhut des Vaters und ordnete zur Unterstützung der Rückführung eine dreimonatige Familienbegleitung an, die der Beistand zu organisieren hatte; der Mutter wurde ein **begleitetes Besuchsrecht** an zwei Nachmittagen monatlich eingeräumt (Programm BBT) (Sachverhalt lit. B). Das Bundesgericht bestätigte (E. 2.1.1, 2.3.2). Der Fall zeigt, dass das Eheschutzgericht die Obhut auch **gegen die Erwartung des Gutachters** zuteilen kann, wenn die Gesamtwürdigung dies trägt: Der Gutachter hatte beiden Eltern nur beschränkte Erziehungsfähigkeit attestiert und beim Vater ein problematisches impulsives Verhalten sowie eingeschränkte Bindungstoleranz beschrieben; das Bundesgericht trat auf die entsprechenden Rügen nicht ein, weil die Beschwerdeführerin die weiteren, für die Zuteilung tragenden Gründe des Obergerichts nicht widerlegt hatte (E. 2.3.1, 2.3.2).
+
+> **Leitsatz.** Für die Kinderbelange des Art. 176 Abs. 3 ZGB gilt die Offizial- und Untersuchungsmaxime; oberste Maxime der Obhutszuteilung ist das Kindeswohl, und die alternierende Obhut setzt in jedem Fall die Erziehungsfähigkeit beider Eltern voraus, während die übrigen Kriterien je nach Alter des Kindes und Konstellation unterschiedlich gewichtet werden ([BGE 142 III 612 E. 4.3–4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html); [BGE 142 III 617 E. 3.2.3–3.2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-617_2016.html)).
+
+---
+
+## G. Verfahrensgrundsätze, Rechtsmittel und Abänderung
+
+### G.1 Summarisches Verfahren und Untersuchungsgrundsatz
+
+Das summarische Verfahren ist unter Vorbehalt der Art. 272 und 273 ZPO anwendbar für Massnahmen zum Schutz der ehelichen Gemeinschaft, insbesondere für die Massnahmen nach Art. 172–179 ZGB (Art. 271 lit. a ZPO). Das Gericht stellt den Sachverhalt **von Amtes wegen** fest (Art. 272 ZPO). Für Kinderbelange gilt zusätzlich Art. 296 Abs. 1 ZPO. Für rechtserhebliche strittige Tatsachen genügt im summarischen Verfahren das Mass der **Glaubhaftmachung** (objektive Anhaltspunkte oder plausible Zusicherungen, die das Vorliegen oder Nichtvorliegen als wahrscheinlich erscheinen lassen).
+
+### G.2 Rechtsmittel: Art. 98 BGG und das Rügeprinzip
+
+Eheschutzentscheide sind **Endentscheide** im Sinne von Art. 90 BGG und damit mit der Beschwerde in Zivilsachen anfechtbar (Art. 72 Abs. 1 BGG); die Anordnung von Eheschutzmassnahmen ist eine Zivilsache ([BGE 133 III 393 E. 2, 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-393_2007.html); [BGer 5A_20/2016 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-20-2016_2016-10-05.html)).
+
+Zugleich sind Eheschutzentscheide **vorsorgliche Massnahmen** im Sinne von Art. 98 BGG. Gegen sie kann **nur die Verletzung verfassungsmässiger Rechte** gerügt werden ([BGE 133 III 393 E. 5.1–5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-393_2007.html); [BGer 5A_188/2018 E. 1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html); [BGer 5A_561/2024 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html)). Die Rüge muss nach dem **strengen Rügeprinzip** von Art. 106 Abs. 2 BGG in der Beschwerde vorgebracht und begründet werden: Die rechtsuchende Partei hat präzise anzugeben, welches verfassungsmässige Recht durch den angefochtenen Entscheid verletzt wurde, und im Einzelnen darzulegen, worin die Verletzung besteht. Das Bundesgericht prüft nur klar und detailliert erhobene und, soweit möglich, belegte Rügen; auf ungenügend begründete Rügen und rein appellatorische Kritik tritt es nicht ein ([BGer 5A_639/2025 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html); [BGer 5A_561/2024 E. 2.1–2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html)). Auch eine Berichtigung oder Ergänzung der Sachverhaltsfeststellungen kommt nur in Frage, wenn die kantonale Instanz verfassungsmässige Rechte verletzt hat ([BGE 133 III 393 E. 7.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-393_2007.html)).
+
+**Die Praxis zieht daraus harte Konsequenzen.** In [BGer 5A_945/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html) trat das Bundesgericht auf die Rügen zur Obhutszuteilung nicht ein, weil die Beschwerdeführerin bloss den Gesichtspunkt des Verdachts einer psychischen Erkrankung oberflächlich behandelte und sich zu den übrigen tragenden Gründen gar nicht äusserte (E. 2.3). In [BGer 5A_561/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html) scheiterten weite Teile der Beschwerde daran, dass der Beschwerdeführer gar keine verfassungsmässigen Rechte anrief (E. 2.2.1) oder seine Gehörsrüge pauschal blieb (E. 3.2). Der **Streitwert** ist bei nicht vermögensrechtlichen Aspekten unbeachtlich; liegen vermögensrechtliche und nicht vermögensrechtliche Aspekte vor, unterliegt die Beschwerde insgesamt keinem Streitwerterfordernis ([BGer 5A_561/2024 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html); [BGer 5A_72/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-72-2016_2016-11-02.html); [BGer 5A_972/2013 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-972-2013_2014-06-23.html)).
+
+**Prozesskostenvorschuss ist vor dem Sachgericht einzufordern.** Der Anspruch auf Prozesskostenvorschuss gründet in der familienrechtlichen Unterstützungspflicht (Art. 159 Abs. 3 bzw. Art. 163 ZGB) und ist nicht eine vorsorgliche Massnahme im Sinne von Art. 104 BGG; das Bundesgericht ist funktionell nicht zuständig ([BGer 5A_561/2024 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html); [BGer 5A_639/2025 E. 6.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html)).
+
+### G.3 Abänderung (Art. 179 ZGB) und Vereinbarungen
+
+Ändern sich die Verhältnisse, passt das Gericht die Massnahmen auf Begehren eines Ehegatten an oder hebt sie auf, wenn ihr Grund weggefallen ist; die Bestimmungen über die Änderung der Verhältnisse bei Scheidung gelten sinngemäss (Art. 179 Abs. 1 ZGB). Nehmen die Ehegatten das Zusammenleben wieder auf, fallen die für das Getrenntleben angeordneten Massnahmen mit Ausnahme der Gütertrennung und der Kindesschutzmassnahmen dahin (Art. 179 Abs. 2 ZGB) ([Fedlex, SR 210, Art. 179](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de)).
+
+### Die restriktive Abänderbarkeit vereinbarungsgestützter Regelungen
+
+Beruht die Eheschutzmassnahme auf einer **gerichtlich genehmigten Parteivereinbarung**, sind die Abänderungsmöglichkeiten erheblich eingeschränkt. Es gelten die gleichen Restriktionen, die die Rechtsprechung für Scheidungskonventionen umschrieben hat ([BGE 142 III 518 E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-518_2016.html)):
+
+1. **Erhebliche tatsächliche Änderungen** müssen Teile des Sachverhalts betreffen, die im Zeitpunkt der Vereinbarung als **feststehend** angesehen wurden. Bezüglich Tatsachen, welche die Parteien vergleichsweise definiert haben, um eine ungewisse Sachlage zu bewältigen (*caput controversum*), gibt es keine Anpassung an wesentlich und dauernd veränderte Verhältnisse — es fehlt die Referenzgrösse, an der die Erheblichkeit einer Veränderung gemessen werden könnte. Vorbehalten bleiben neue Tatsachen, die klarerweise ausserhalb des Spektrums der künftigen Entwicklungen liegen, welche aus Sicht der Vergleichsparteien möglich (wenn auch ungewiss) erschienen (E. 2.6.1).
+2. **Berichtigung wegen originär unzutreffender Entscheidungsgrundlagen** ist ebenfalls eingeschränkt, soweit die Unterhaltsregelung auf einer Vereinbarung fusst, mit welcher die Parteien eine Rechtsstreitigkeit definitiv beenden wollten. Eine Änderung kommt generell nur bei einem rechtserheblichen **Willensmangel** in Frage — Irrtum (Art. 23 ff. OR), Täuschung (Art. 28 OR) oder Drohung (Art. 29 f. OR) —, nicht dagegen gestützt auf die weiter gefassten Berichtigungsmöglichkeiten des Art. 268 Abs. 1 ZPO (E. 2.6.2).
+
+Die Regelung greift in der Praxis häufig, weil Eheschutzverfahren ganz überwiegend mit einer genehmigten Vereinbarung über Unterhalt, Wohnung und Kinderbelange enden. Wer später eine Anpassung anstrebt, muss darlegen, dass sich ein **als feststehend betrachteter** Sachverhaltsteil erheblich verändert hat — die blosse Verschlechterung wirtschaftlicher Verhältnisse genügt dafür regelmässig nicht, wenn sie im Spektrum des Vorhersehbaren lag.
+
+### G.4 Verhältnis zum Scheidungsverfahren
+
+Wird während eines Eheschutzverfahrens das **Scheidungsverfahren** hängig gemacht, steht dem Eheschutzgericht für die künftigen Verhältnisse grundsätzlich keine Zuständigkeit mehr zu ([OGer ZG Z2 2014 18](https://mcp.opencaselaw.ch/entscheid/zg_obergericht_Z2%202014%2018) — Link über opencaselaw als Rückfallebene, da entscheidsuche.ch den Entscheid nicht führt). Im Scheidungsverfahren trifft das Gericht die nötigen vorsorglichen Massnahmen; die Bestimmungen über die Massnahmen zum Schutz der ehelichen Gemeinschaft sind sinngemäss anwendbar. **Massnahmen, die das Eheschutzgericht angeordnet hat, dauern weiter**; für ihre Aufhebung oder Änderung ist das Scheidungsgericht zuständig (Art. 276 Abs. 1 und 2 ZPO). Das Gericht kann vorsorgliche Massnahmen auch dann anordnen, wenn die Ehe aufgelöst ist, das Verfahren über die Scheidungsfolgen aber andauert (Abs. 3).
+
+> **Leitsatz.** Eheschutzentscheide sind Endentscheide, unterstehen aber als vorsorgliche Massnahmen der Beschwerdebeschränkung von Art. 98 BGG; gerügt werden kann nur die Verletzung verfassungsmässiger Rechte, und zwar nach dem strengen Rügeprinzip des Art. 106 Abs. 2 BGG ([BGE 133 III 393 E. 4, 5.2, 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-393_2007.html)).
+
+---
+
+## Kantonale Praxisfragen
+
+### 1. Form des Hausratsbegehrens (Zürich und Solothurn)
+
+Die Praxis verlangt, das Hausratsbegehren richtig zu **formulieren**. Wird die Zuteilung des Hausrates unabhängig von der Zuweisung der Liegenschaft verlangt, ist dies separat bzw. eventualiter zu beantragen; die Verbindung beider Fragen in einem Antrag («die Liegenschaft sowie der gesamte sich darin befindliche Hausrat») ist dagegen üblich und zulässig ([SO OG ZKBER.2016.101 E. 2.3](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html)). Sodann genügt der Antrag auf Zuteilung «des Hausrates» ohne Bezeichnung einzelner Gegenstände dann nicht, wenn eine vernünftige Einrichtung auch mit anderen Gegenständen möglich wäre ([ZH OG LE120061](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120061_2013-05-29.pdf)). In der Praxis empfiehlt sich deshalb ein Hauptantrag auf Zuteilung des für eine vernünftige Einrichtung erforderlichen Hausrats, verbunden mit einem Eventualantrag auf einzelne, namentlich bezeichnete Gegenstände.
+
+### 2. Aktuelles Rechtsschutzinteresse bei Auszug (Zürich)
+
+Zieht der antragstellende Ehegatte vor dem Entscheid aus der ehelichen Wohnung aus, entfällt das **aktuelle Rechtsschutzinteresse** an der Zuweisung; das Gericht tritt auf das Begehren nicht ein ([ZH BG Bülach EE250017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250017_2025-05-07.pdf)). Praxisrelevant ist dies, weil in Eheschutzverfahren zwischen Antragstellung und Entscheid oft Monate liegen. Wer die Zuweisung anstrebt, sollte den Auszug deshalb — wenn irgend möglich — bis zum Entscheid aufschieben oder das Begehren ausdrücklich auf die Zeit vor dem Auszug beschränken.
+
+### 3. Divergierende Massstäbe bei der Gütertrennung
+
+Wie oben (Abschnitt E) dargelegt, unterscheiden sich der bundesgerichtliche Massstab (ultima ratio, strenge Prüfung) und die Luzerner, Solothurner und Zürcher Praxis (scheidungsvorbereitender Charakter genügt; geringere Voraussetzungen als Art. 185 ZGB). Für die kantonale Instanz bedeutet dies eine **Ermessensentscheidung mit zwei vertretbaren Linien**: Die Anordnung ist weder willkürlich, wenn sie auf den scheidungsvorbereitenden Charakter gestützt wird, noch, wenn sie unter Hinweis auf die ultima ratio verweigert wird.
+
+### 4. Auszugsfristen
+
+Die Fristen werden kantonal unterschiedlich bemessen. Das Bundesgericht setzte in [BGer 5A_945/2014 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html) eine Frist von rund sieben Monaten ab Urteilsdatum auf vier Monate herab (auf den 30. Juni 2015), nachdem es erwogen hatte, ein Zeitraum von eineinhalb Monaten zwischen Urteilsdatum und Auszugszeitpunkt könne genügen, während sechs Monate zu lang seien. In [ZH OG LE110059](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE110059_2012-02-13.pdf) wies der Vorderrichter die eheliche Wohnung im Sinne einer **vorsorglichen Massnahme für die Dauer des Eheschutzverfahrens** zu und schuf damit eine Zwischenregelung, bevor die definitive Zuteilung erging.
+
+### 5. Wiedereinzug nach dem Scheidungsverfahren
+
+Kantonale Gerichte betonen, dass im Eheschutzverfahren nur die vorübergehende Regelung des Getrenntlebens zu beurteilen ist: Der Umstand, dass der Kläger nach der Scheidung voraussichtlich wieder in die eheliche Liegenschaft zurückkehren wird, vermag an der Zuteilung nichts zu ändern, solange das Scheidungsverfahren nicht einmal anhängig gemacht ist ([ZH OG LE190014](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE190014_2019-04-24.pdf)).
+
+---
+
+## H. Praxishinweise
+
+**Für die gesuchstellende Partei und ihre Vertretung:**
+
+1. **Die Begründetheit der Haushaltsaufhebung substantiieren.** Die Massnahmen des Art. 176 Abs. 1 ZGB setzen voraus, dass die Aufhebung nach Art. 175 ZGB begründet ist; beruft man sich auf Abs. 2, ist darzulegen, weshalb das Zusammenleben unmöglich ist — die grundlose Ablehnung durch den anderen Ehegatten genügt als Beispiel, nicht als abschliessender Tatbestand ([BGE 116 II 21 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html); [BGer 5P.47/2005 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5P-47-2005_2005-03-23.html)).
+2. **Jedes Begehren ausdrücklich stellen.** Für die Ehegattenbelange gilt die Dispositionsmaxime: Unterhalt, Zuteilung von Wohnung und Hausrat sowie — eventualiter — die Zuteilung einzelner Hausratsgegenstände sind je separat zu beantragen; wer die Hausratszuteilung unabhängig von der Liegenschaft will, muss sie separat oder eventualiter verlangen ([SO OG ZKBER.2016.101 E. 2.3](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html)). Auf das Rückwirkungsjahr von Art. 173 Abs. 3 ZGB ist ausdrücklich Bezug zu nehmen.
+3. **Den Auszug ins Auge fassen.** Wer auszieht, bevor über die Zuweisung entschieden ist, verliert das aktuelle Rechtsschutzinteresse und riskiert ein Nichteintreten ([ZH BG Bülach EE250017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250017_2025-05-07.pdf)).
+4. **Beim Hausrat nicht auf einzelne Gegenstände setzen.** Zu beanspruchen ist der für eine vernünftige Einrichtung erforderliche Bestand; wer bestimmte Stücke herausverlangt, muss darlegen, weshalb eine vernünftige Einrichtung nur damit möglich ist ([ZH OG LE120061](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120061_2013-05-29.pdf)).
+5. **Die eigene Leistungsfähigkeit belegen, bevor der Gegenpart sie bestreitet.** Wer sich auf Arbeitsunfähigkeit beruft, hat aussagekräftige ärztliche Atteste mit Diagnose, Befunden und konkreter funktioneller Einschränkung beizubringen; pauschale Zeugnisse und der Hinweis, behandelnde Ärzte würden den Patienten begünstigen, erschüttern den Beweiswert nicht ([BGer 5A_639/2025 E. 4.3.2, 4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html)).
+6. **Die Erwerbsobliegenheit antizipieren.** Ist die Wiederaufnahme des Zusammenlebens unwahrscheinlich, gewinnt die wirtschaftliche Selbständigkeit an Bedeutung, und das Gericht bezieht die Kriterien des nachehelichen Unterhalts mit ein; eine Umstellungsphase wird zugestanden, ihre Dauer ist aber zu begründen ([BGE 128 III 65 E. 4a, 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html)).
+7. **Die neue Partnerschaft des Gegenübers dokumentieren.** Wer aus dem Zusammenleben des berechtigten Ehegatten mit einem neuen Partner eine Herabsetzung oder Aufhebung des Unterhalts ableitet, muss die unterhaltsrelevante Wirkung belegen; die vom Berechtigten bezahlte Miete und die Unterstützung durch Dritte sprechen gegen eine Anrechnung ([BGE 138 III 97 E. 2.3, 3.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html)).
+8. **Die Sparquote beziffern und belegen.** Wer eine Sparquote abziehen will, muss sie im Grundsatz und betragsmässig glaubhaft machen; die blosse Höhe des Einkommens genügt nicht ([BGE 140 III 485 E. 3.5.2–3.5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)).
+9. **Die Gütertrennung früh und konkret begründen.** Sie ist die einschneidendste Massnahme; die Anordnung stützt sich auf die Umstände nach Art. 175 ZGB und auf eine belegte Gefährdung der wirtschaftlichen Sicherheit oder des Persönlichkeitsschutzes. Die kantonale Praxis lässt den scheidungsvorbereitenden Charakter des Verfahrens genügen und setzt den Massstab tiefer als Art. 185 ZGB an ([LU OG 22 01 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_22-01-57_2001-11-07.html); [SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html)).
+10. **Die Rechtsmittelfrist und das Rügeprinzip einhalten.** Eheschutzentscheide unterstehen Art. 98 BGG; wer sie anficht, muss eine konkrete verfassungsmässige Rüge erheben und sich mit den tragenden Erwägungen auseinandersetzen. Pauschale oder appellatorische Kritik führt zum Nichteintreten ([BGer 5A_561/2024 E. 2.1–2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-561-2024_2025-01-27.html)). Geldforderungen sind im Rechtsbegehren zu beziffern ([BGer 5A_766/2008 E. 2.1–2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)).
+
+**Für die Gegenpartei und ihre Vertretung:**
+
+1. **Beim Eigentum nicht stehen bleiben.** Eigentum ist für die auf Art. 176 Abs. 1 Ziff. 2 ZGB gestützte Regelung grundsätzlich nicht massgeblich und dient nur als Residualkriterium; aus dem Eigentum allein lässt sich keine Willkür darlegen ([BGer 5A_188/2018 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html)).
+2. **Die Verwurzelung des Kindes konkret bestreiten.** Die Kindesinteressen sind vorrangig, aber sie wirken nicht schematisch: Wer darlegt, dass das Kind faktisch nicht in der Wohnung, sondern bei Dritten oder in einer Institution verankert ist, kann die Zuteilung zu seinen Gunsten wenden ([BGer 5A_766/2008 E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html); [BGer 5A_848/2014 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-848-2014_2015-05-04.html)).
+3. **Beim Hausrat die persönlichen Effekten und die Zweckmässigkeit thematisieren.** Die integrale Zuteilung ist die Regel; wer Gegenstände zurückbehalten will, muss sie bezeichnen und die Zweckmässigkeit darlegen ([BGer 5A_188/2018 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-188-2018_2018-03-01.html)).
+4. **Die Abänderbarkeit einer vereinbarungsgestützten Regelung realistisch einschätzen.** Beruht die Eheschutzregelung auf einer gerichtlich genehmigten Vereinbarung, sind die Abänderungsmöglichkeiten nach Art. 179 ZGB erheblich eingeschränkt; die Anpassung setzt erhebliche Veränderungen von als feststehend betrachteten Sachverhaltsteilen voraus, und die Berichtigung wegen unzutreffender Grundlagen ist auf Willensmängel beschränkt ([BGE 142 III 518 E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-518_2016.html)).
+5. **Die Zuständigkeitsverschiebung nach Anhebung der Scheidungsklage beachten.** Wird das Scheidungsverfahren hängig gemacht, ist die Zuständigkeit des Eheschutzgerichts für die künftigen Verhältnisse grundsätzlich nicht mehr gegeben; die angeordneten Massnahmen dauern weiter, ihre Änderung obliegt dem Scheidungsgericht (Art. 276 Abs. 2 ZPO; [OGer ZG Z2 2014 18](https://mcp.opencaselaw.ch/entscheid/zg_obergericht_Z2%202014%2018) — Link über opencaselaw als Rückfallebene).
+6. **Die Obhutszuteilung mit den Kriterien von BGE 142 III 612 angreifen oder verteidigen.** Massgeblich sind Erziehungsfähigkeit beider Eltern, Kooperations- und Kommunikationsfähigkeit, geographische Distanz, Stabilität, Möglichkeit persönlicher Betreuung, Alter und soziales Umfeld des Kindes sowie der Kindeswille; die Kriterien sind je nach Konstellation unterschiedlich zu gewichten ([BGE 142 III 612 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+
+**Für die Verfahrensleitung:**
+
+1. **Den Sachverhalt von Amtes wegen erforschen.** Das summarische Verfahren kennt den Untersuchungsgrundsatz (Art. 272 ZPO); für Kinderbelange gilt zusätzlich Art. 296 Abs. 1 ZPO. Die Parteien trifft eine Mitwirkungspflicht, die objektive Beweislast nach Art. 8 ZGB bleibt aber unberührt ([BGE 151 III 261 E. 2.4.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-261_2025.html)).
+2. **Vereinbarungen über Kinderbelange prüfen und genehmigen.** Übereinstimmende Parteianträge über Betreuungsanteile unterliegen der Genehmigung, die das Kindeswohl voraussetzt; bei den reinen Ehegattenbelangen gilt dagegen die Dispositionsmaxime, und das Gericht darf nicht über die Anträge hinausgehen ([ZH OG LE220038 E. III/1](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE220038_2023-02-08.pdf)).
+3. **Die Methode der Unterhaltsbemessung offenlegen.** Wird nicht die einstufig-konkrete Methode, sondern die Methode des Existenzminimums mit Überschussverteilung angewandt, ist dies zu begründen; andernfalls droht die Aufhebung wegen Willkür, und ein Sparquotenabzug ist von vornherein ausgeschlossen ([BGE 140 III 485 E. 3.5.1–3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)).
+4. **Bei der alternierenden Obhut die Prüfung dokumentieren.** Ob dieses Modell dem Kindeswohl entspricht, ist gestützt auf eine sachverhaltsbasierte Prognose zu prüfen; die Erziehungsfähigkeit beider Eltern ist zwingend abzuklären, und die Aussagen des Kindes sind — soweit nötig mit sachverständiger Hilfe — zu interpretieren ([BGE 142 III 612 E. 4.2–4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-612_2016.html)).
+5. **Beim Entscheid über die Gütertrennung den Massstab benennen.** Wird sie angeordnet, sind die Umstände zu bezeichnen, die sie rechtfertigen; ein Billigkeitsentscheid, der sich am Wunsch des antragstellenden Ehegatten orientiert, ist unzulässig ([GR KG ZK1 2015 172](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_006_ZK1-2015-172_2017-07-26.pdf)).
+6. **Auszugsfristen angemessen ansetzen.** Die Frist ist an der tatsächlich erforderlichen Zeit für Wohnungssuche und Umzug zu messen; rund eineinhalb Monate ab Zustellung können genügen, sechs Monate sind eher zu lang ([BGer 5A_945/2014 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-945-2014_2015-05-26.html)).
+
+---
+
+## Verhältnis zu anderen Normen
+
+- **Art. 172 ff. ZGB** — Massnahmen zum Schutz der ehelichen Gemeinschaft; Art. 176 ZGB ist deren zentrale Ausführungsbestimmung.
+- **Art. 175 ZGB** — Berechtigung zur Aufhebung des gemeinsamen Haushalts; Voraussetzung der Massnahmen nach Art. 176 Abs. 1 ZGB.
+- **Art. 173 ZGB** — Festsetzung der Geldbeiträge an den Unterhalt der Familie; Abs. 3 regelt die Rückwirkung für das Jahr vor Einreichung des Begehrens.
+- **Art. 177 ZGB** — Anweisung an die Schuldner (vorsorgliche Massnahme nach Art. 98 BGG).
+- **Art. 179 ZGB** — Abänderung und Aufhebung der Massnahmen; Abs. 2 regelt das Schicksal bei Wiederaufnahme des Zusammenlebens.
+- **Art. 163 ZGB** — Unterhalt der Familie; materielle Grundlage der Unterhaltspflicht im Eheschutz.
+- **Art. 276, 276a, 285, 286a ZGB** — Kindesunterhalt, Vorrang des Kindesunterhalts, Unterdeckung.
+- **Art. 298, 301a, 307, 308, 310 ZGB** — Obhut, Aufenthaltsbestimmung, Weisung, Beistandschaft, Obhutsentziehung.
+- **Art. 204 Abs. 2, Art. 214 Abs. 1 ZGB** — Zeitpunkt der Auflösung des Güterstandes bei gerichtlicher Gütertrennung und Bewertungszeitpunkt.
+- **Art. 271, 272, 276 ZPO** — summarisches Verfahren, Untersuchungsgrundsatz, vorsorgliche Massnahmen im Scheidungsverfahren.
+- **Art. 296 ZPO** — Offizial- und Untersuchungsmaxime in Kinderbelangen.
+- **Art. 98, 106 Abs. 2 BGG** — Beschwerdebeschränkung und Rügeprinzip.
 
 ---
 
@@ -101,7 +550,35 @@ In der kantonalen Gerichtspraxis (vgl. [Kantonsgericht St. Gallen, RF.2010.67](h
 
 - [Art. 159 ZGB — Rechte und Pflichten der Ehegatten](../art-159/)
 - [Art. 163 ZGB — Unterhalt der Familie](../art-163/)
+- [Art. 173 ZGB — Unterhaltsbeiträge](../art-173/)
 - [Art. 179 ZGB — Abänderung der Massnahmen](../art-179/)
 - [Art. 273 ZGB — Persönlicher Verkehr](../art-273/)
+- [Art. 274 ZGB — Beschränkung des persönlichen Verkehrs](../art-274/)
 - [Art. 276 ZGB — Unterhaltspflicht der Eltern](../art-276/)
-- [Art. 271 ZPO — Summarisches Verfahren im Eheschutz](../../zpo/art-271/)
+- [Art. 285 ZGB — Umfang der Unterhaltspflicht](../art-285/)
+- [Art. 298 ZGB — Regelung der elterlichen Sorge](../art-298/)
+- [Art. 298b ZGB — Alternierende Obhut](../art-298b/)
+
+---
+
+## Rechtsprechung
+
+Ausführliche Übersicht der Entscheide: → [Rechtsprechung zu Art. 176 ZGB](rechtsprechung/)
+
+---
+
+## Literatur
+
+Die folgenden Werke werden in den ausgewerteten Entscheiden zu Art. 176 ZGB herangezogen; die Nachweise stammen aus den Entscheidtexten selbst und wurden nicht am Original verifiziert:
+
+- Hausheer/Reusser/Geiser, Berner Kommentar, Die Wirkungen der Ehe im allgemeinen, N. 18 und N. 25 sowie N. 29 ff. und N. 38 zu Art. 176 ZGB (zit. in [BGE 128 III 65](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html), [BGE 135 III 66](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html), [BGE 116 II 21 E. 1b und 5b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-21_1990-03-22.html) und [BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)).
+- Schwander, Basler Kommentar, Zivilgesetzbuch I, N. 2, 4 und 7 zu Art. 176 ZGB (zit. in [BGE 128 III 65 E. 4a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-65_2002.html) und [BGE 135 III 66](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html)).
+- Bräm/Hasenböhler, Zürcher Kommentar, Die Wirkungen der Ehe im allgemeinen (Art. 169–180 ZGB), 3. Aufl. 1997, N. 41 ff. zu Art. 176 ZGB (zit. in [ZH OG LE120061](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE120061_2013-05-29.pdf), [SO OG ZKBER.2016.101](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_004_ZKBER-2016-101_2017-02-01.html), [SO OG ZZ.2000.2](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_003_ZZ-2000-2_2000-09-01.html) und [BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html); in [ZH OG LE220038](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LE220038_2023-02-08.pdf) als ZK-Bräm mit N. 18 und N. 117 zu Art. 176 ZGB).
+- Vetterli, in: FamKomm Scheidung, Bern 2005, N. 3 und N. 16 zu Art. 176 ZGB (zit. in [BE OG ZK 2008 645](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_001_ZK-2008-645_2009-03-17.pdf) und [BGer 5A_766/2008 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)).
+- Spycher/Hausheer, Handbuch des Unterhaltsrechts, 2. Aufl. 2010, N. 10.03 f., 10.23 ff. und 10.26 (zit. in [BGE 138 III 97 E. 2.1, 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-97_2012.html); Hausheer/Spycher auch mit Rz. 02.61c S. 74 in [BGE 140 III 485 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)).
+- Sutter/Freiburghaus, Kommentar zum neuen Scheidungsrecht, Zürich 1999, N. 47 zu Art. 125 ZGB (zit. in [BGE 128 III 4 E. 4a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-4_2002.html)).
+- Bigler-Eggenberger, Überschuss und Manko bei Ehetrennung und Ehescheidung, in: Festschrift für Heinz Hausheer, Bern 2002, S. 197 ff.; Freivogel, Nachehelicher Unterhalt – Verwandtenunterstützung – Sozialhilfe, FamPra.ch 2007 S. 501 ff.; Fankhauser, Nachehelicher Unterhalt in Mankofällen, AJP 2007 S. 1175 ff.; Pohlmann, Mankoteilung – Möglichkeiten eines Ausgleichs zwischen den Ehegatten, FamPra.ch 2007 S. 526 ff.; Rüegg, S. 22 ff.; Perrin, Minimum vital, S. 423 ff. (alle zur Mankotragung, zit. in [BGE 135 III 66 E. 3, 8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html)).
+- Bähler, Scheidungsunterhalt – Methoden zur Berechnung, Höhe, Dauer und Schranken, FamPra.ch 2007 S. 469 f.; Hausheer/Geiser, S. 93 ff.; Geiser, Rechtsprechung; Reusser, S. 143 ff. (gegen die Mankoteilung, zit. in [BGE 135 III 66 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-66_2009.html)).
+- Althaus/Bohnenblust, Der massgebliche Wert in der güterrechtlichen Auseinandersetzung, FamPra.ch 2020 S. 673; Steck/Fankhauser, in: FamKomm Scheidung, 3. Aufl. 2017, N. 7 zu Art. 214 ZGB (zit. in [BGer 5A_1048/2019 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1048-2019_2021-06-30.html)).
+- Six, a.a.O., Rz. 1.01 (Glaubhaftmachung), zit. in [ZH BG Dielsdorf EE250004](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_EE250004_2025-10-27.pdf).
+- Rüetschi, in: Berner Kommentar, Schweizerische Zivilprozessordnung, 2. Aufl. 2026, N. 18 zu Art. 177 ZPO (zit. in [BGer 5A_639/2025 E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-639-2025_2026-08-06.html)).
