@@ -12,3 +12,6 @@ gruppen:
   - name: "Die Invalidenrente"
     von: 28
     bis: 35
+  - name: "Hilflosenentschädigung"
+    von: 42
+    bis: 42

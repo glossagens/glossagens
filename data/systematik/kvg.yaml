@@ -6,3 +6,6 @@ gruppen:
   - name: "Leistungen"
     von: 25
     bis: 34
+  - name: "Prämienverbilligung"
+    von: 65
+    bis: 66

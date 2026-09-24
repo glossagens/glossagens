@@ -3,6 +3,9 @@
 # Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
 # Untergruppe der vorangehenden ebene: 1.
 gruppen:
+  - name: "Organisation des Bundesgerichts"
+    von: 1
+    bis: 38
   - name: "Allgemeine Verfahrensbestimmungen"
     von: 39
     bis: 71
@@ -24,3 +27,6 @@ gruppen:
   - name: "Vereinfachtes Verfahren"
     von: 108
     bis: 109
+  - name: "Urteile"
+    von: 110
+    bis: 112

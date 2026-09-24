@@ -3,12 +3,18 @@
 # Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
 # Untergruppe der vorangehenden ebene: 1.
 gruppen:
+  - name: "Organisation"
+    von: 1
+    bis: 37
   - name: "Schuldbetreibung"
     von: 38
     bis: 158
   - name: "Konkurs"
     von: 159
     bis: 270
+  - name: "Arrest und Anfechtung"
+    von: 271
+    bis: 292
   - name: "Nachlassverfahren"
     von: 293
     bis: 336

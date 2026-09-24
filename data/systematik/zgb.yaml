@@ -21,3 +21,6 @@ gruppen:
   - name: "Das Erbrecht"
     von: 457
     bis: 640
+  - name: "Das Sachenrecht"
+    von: 641
+    bis: 977

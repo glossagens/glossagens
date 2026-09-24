@@ -18,12 +18,15 @@ gruppen:
   - name: "Einzelne Vertragsverhältnisse — Werkvertrag"
     von: 363
     bis: 379
+  - name: "Einzelne Vertragsverhältnisse — Auftrag"
+    von: 394
+    bis: 406
+  - name: "Die Aktiengesellschaft"
+    von: 620
+    bis: 763
   - name: "Die Gesellschaft mit beschränkter Haftung"
     von: 772
     bis: 815
   - name: "Buchführung und Rechnungslegung"
     von: 957
     bis: 962
-  - name: "Einzelne Vertragsverhältnisse — Auftrag"
-    von: 394
-    bis: 406

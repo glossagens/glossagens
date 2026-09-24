@@ -12,12 +12,18 @@ gruppen:
   - name: "Familiennachzug"
     von: 42
     bis: 52
+  - name: "Integration"
+    von: 53
+    bis: 58
   - name: "Erlöschen und Widerruf der Bewilligungen"
     von: 61
     bis: 64
   - name: "Zwangsmassnahmen"
     von: 73
     bis: 82
+  - name: "Vorläufige Aufnahme"
+    von: 83
+    bis: 84
   - name: "Strafbestimmungen"
     von: 115
     bis: 122

@@ -16,6 +16,9 @@ gruppen:
   - name: "Summarisches Verfahren"
     von: 248
     bis: 270
+  - name: "Familienrechtliche Verfahren"
+    von: 271
+    bis: 307
   - name: "Rechtsmittel — Berufung"
     von: 308
     bis: 318

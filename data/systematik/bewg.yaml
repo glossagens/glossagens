@@ -8,4 +8,7 @@ gruppen:
     bis: 6
   - name: "Ausnahmen von der Bewilligungspflicht"
     von: 7
-    bis: 8
+    bis: 7
+  - name: "Bewilligungsgründe"
+    von: 8
+    bis: 15

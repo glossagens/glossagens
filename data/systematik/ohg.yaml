@@ -6,6 +6,9 @@ gruppen:
   - name: "Grundsätze und Geltungsbereich"
     von: 1
     bis: 4
+  - name: "Beratung der Opfer"
+    von: 9
+    bis: 18
   - name: "Entschädigung und Genugtuung"
     von: 19
     bis: 28
