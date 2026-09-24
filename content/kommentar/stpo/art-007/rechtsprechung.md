@@ -94,7 +94,7 @@ revisions:
 
 ### BGer 1C_84/2026 — Bundesgericht, 28. Juli 2026
 - **Thema**: Ermächtigungsverweigerung bei rechtmässigen polizeilichen Vollzugsmassnahmen
-- **Kernaussage**: Polizeiliche Wohnortkontrollen, die sich auf einen gesetzmässigen ausländerrechtlichen Zuführungsauftrag nach Art. 98a und 124 Abs. 2 AIG stützen, stellen keinen Amtsmissbrauch nach Art. 312 StGB dar. Da im Ermächtigungsverfahren ausschliesslich strafrechtliche Kriterien massgeblich sind und rechtmässige behördliche Handlungen straflos bleiben, ist die Ermächtigung mangels Anfangsverdachts zu verweigern ([E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026#e-2-1)).
+- **Kernaussage**: Polizeiliche Wohnortkontrollen, die sich auf einen gesetzmässigen ausländerrechtlichen Zuführungsauftrag nach Art. 98a und 124 Abs. 2 AIG stützen, stellen keinen Amtsmissbrauch nach Art. 312 StGB dar. Da im Ermächtigungsverfahren ausschliesslich strafrechtliche Kriterien massgeblich sind und rechtmässige behördliche Handlungen straflos bleiben, ist die Ermächtigung mangels Anfangsverdachts zu verweigern ([BGer 1C_84/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026)).
 → [BGer 1C_84/2026 vom 28. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_84_2026)
 
 ---
