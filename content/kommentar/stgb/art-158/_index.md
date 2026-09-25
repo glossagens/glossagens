@@ -2,11 +2,16 @@
 title: "Art. 158 StGB — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: "2026-09-05"
+lastmod: "2026-09-25"
 description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung, Pflichtverletzung, Vermögensschaden, Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "BGer-Update: Ergänzung von BGer 7B_57/2025 vom 26.08.2026 zur Bereicherungsabsicht bei verdeckten Retrozessionen (Fehlen des persönlichen Bereicherungsvorsatzes von Organen bei Verbleib der Gelder im Gesellschaftsvermögen; Bestätigung der Teileinstellung nach Art. 319 StPO)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -203,12 +208,15 @@ Der Grundtatbestand erfordert **Vorsatz** bezüglich aller objektiven Tatbestand
 
 Handelt der Täter in der **Absicht, sich oder einen andern unrechtmässig zu bereichern**, erhöht sich der Strafrahmen auf Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Die Bereicherungsabsicht verlangt **Dolus directus erster Ordnung**: Der Täter muss es darauf anlegen, sich oder einen Dritten unrechtmässig zu bereichern. Eventualabsicht genügt ([BGE 142 IV 346 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html)). Beim Churning ist die Bereicherungsabsicht regelmässig gegeben, da der Vermögensverwalter die Kommissionen gerade durch die pflichtwidrigen Transaktionen erzielen will.
 
+- **Verbleib von Retrozessionen bei der juristischen Person**: Verbleiben verdeckt vereinnahmte Retrozessionen oder Provisionen im Vermögen der vertretenen Körperschaft oder Gesellschaft selbst und fliessen sie nicht an die Organe persönlich oder ihnen nahestehende Dritte ab, fehlt den Organpersonen der persönliche Bereicherungsvorsatz für die Qualifikation nach Ziff. 1 Abs. 3 StGB ([BGer 7B_57/2025 vom 26. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025)). Eine Einstellungsverfügung nach Art. 319 Abs. 1 lit. b StPO hinsichtlich des qualifizierten Tatbestands ist in solchen Konstellationen bundesrechtskonform.
+
 **Grenzkasuistik: Bereicherungsabsicht**
 
 | Sachverhalt | Bereicherungsabsicht bejaht? | Entscheid |
 |---|---|---|
 | Vermögensverwalter generiert durch 54-faches Umschichten des Kundenvermögens Kommissionen von USD 169'900.– | **Ja** — das Einbehalten der Kommissionen war das eigentliche Handlungsziel | [BGE 142 IV 346 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html) |
 | Vermögensverwalter behält Retrozessionen im Gesamtbetrag von CHF 270'542.38 ein, um sein Einkommen zu maximieren | **Ja** — bewusste Verletzung der Informationspflicht zum Zweck der eigenen Bereicherung | [BGer 6B_431/2024 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html) |
+| Verdeckte Retrozessionen/Provisionen verbleiben im Vermögen der Gesellschaft/Institution und fliessen Organen nicht persönlich zu | **Nein** — Organe handeln ohne persönlichen Bereicherungsvorsatz (Bestätigung der Teileinstellung nach Art. 319 StPO) | [BGer 7B_57/2025 vom 26.08.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025) |
 | Bankangestellte nehmen Zuwendungen von Immobiliengesellschaft, ohne dass geschäftsschädigendes Verhalten nachgewiesen ist | **Nein** — blosse Zuwendungsannahme ohne pflichtwidrige Disposition genügt nicht | [BGE 129 IV 124 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-124_2003.html) |
 
 ### G. Geschäftsführer ohne Auftrag (Ziff. 1 Abs. 2)

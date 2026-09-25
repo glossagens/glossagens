@@ -198,3 +198,11 @@ revisions:
 - **Thema**: Anordnung einer stationären therapeutischen Massnahme nach Art. 59 StGB bei schuldunfähigem Täter.
 - **Kernaussage**: Bei schuldunfähigen Personen kann eine stationäre Massnahme nach Art. 59 StGB angeordnet werden, wenn die Voraussetzungen von Art. 59 Abs. 1 StGB erfüllt sind.
 - **Einschlägig für**: Art. 59 Abs. 1, Art. 19 Abs. 1 und 3 StGB.
+
+---
+
+### [BGer 7B_208/2026 vom 04.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_7B_208/2026) — Verlängerung nach Art. 59 Abs. 4 StGB und Begründungspflicht bei Abweichung vom Gutachten
+
+- **Thema**: Gesetzliche Anforderungen an die gerichtliche Verlängerung der stationären Massnahme; Bindung an das psychiatrische Sachverständigengutachten und Willkürverbot (Art. 9 BV).
+- **Kernaussage**: Teilweise Gutheissung. Das Bundesgericht hebt die Verlängerung einer stationären therapeutischen Massnahme auf, weil die Vorinstanz das Rückfallrisiko und die Therapiefähigkeit willkürlich beurteilte. Es schärft ein: Will das Gericht bei der Beurteilung der Legalprognose und der Fortführungsbedürftigkeit von den Feststellungen des forensisch-psychiatrischen Sachverständigen abweichen, bedarf dies einer ausdrücklichen und stichhaltigen sachlichen Rechtfertigung. Eine unbegründete Verschärfung der Risikoeinschätzung durch das Gericht verletzt Bundesrecht.
+- **Einschlägig für**: Art. 59 Abs. 4 StGB, Art. 56 Abs. 3 StGB, Art. 9 BV.

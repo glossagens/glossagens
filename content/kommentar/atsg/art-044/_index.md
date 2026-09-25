@@ -2,21 +2,26 @@
 title: "Art. 44 ATSG — Gutachten"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-09-23
-description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022 und Tragung von Gerichtsgutachterkosten."
-tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG"]
+lastmod: 2026-09-25
+description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
+tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG", "Eigendiagnostik"]
 agent_verified: true
 revisions:
-  - date: 2026-08-28
+  - date: 2026-09-25
     by: "Antigravity Agent"
-    model: "gemini-3.7-flash"
+    model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
+    note: "Einarbeitung der neuesten Leitpraxis vom 25.09.2026: Präzisierung von BGE 135 V 465 durch BGer 8C_670/2025 (Verbot richterlicher Eigendiagnostik; Richter darf medizinische Fachterminologie nicht eigenmächtig auslegen) und BGer 8C_166/2026 (Lückenhaftigkeit versicherungsärztlicher Beurteilungen bei Missachtung arthroskopisch/operativ nachgewiesener Befunde; Begutachtungspflicht nach Art. 44 ATSG zwingend)."
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Ausbau zum praxisorientierten Praxiskommentar: Bereinigung des Gesetzeswortlauts (Fassung WEIV 2022, 7 Absätze), vorangestelltes Prüfschema, zweiseitige Grenzkasuistik (Anwendungsfälle vs. Nichtanwendbarkeit bei RAD, Kreisärzten, Rehakliniken, Hausärzten, Gerichtsgutachten, Privatgutachten), Offenlegung des Bundesrechtsverstosses von KSVI Rz. 3067.1 gemäss BGer 8C_445/2025 und 8C_276/2026, Vergleichstabellen und adressatenbezogene Praxishinweise."
+  - date: 2026-08-28
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 
 ## Gesetzeswortlaut
@@ -87,7 +92,9 @@ Die Prüfung und Durchführung einer Begutachtung nach Art. 44 ATSG folgt einem 
 **6** **1. Regionale Ärztliche Dienste (RAD).** Die von den IV-Stellen beigezogenen regionalen ärztlichen Dienste (Art. 59 Abs. 2bis IVG, Art. 49 IVV) sind interne Fachorgane der Verwaltung. Das Bundesgericht hielt grundlegend fest, dass Art. 44 ATSG auf Untersuchungen und versicherungsinterne Berichte der RAD keine Anwendung findet ([BGE 135 V 254 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-254_2009.html); bestätigt u.a. in Urteil [BVGer C-461/2011 vom 03.12.2012 E. 2.5.4](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_C-461-2011_2012-12-03.pdf)). Die versicherte Person hat keinen Anspruch auf vorgängige Bekanntgabe des RAD-Arztes, Einreichung von Zusatzfragen oder Erlass einer Zwischenverfügung nach Art. 44 Abs. 4 ATSG. Gegen RAD-Ärzte können ausschliesslich die allgemeinen Ausstandsregeln (Art. 36 ATSG, Art. 10 VwVG) angerufen werden.
 
 **7** **2. Suva-Kreisärzte und versicherungsinterne Mediziner.** Kreisärztliche Untersuchungen und Berichte des ärztlichen Dienstes der Unfallversicherung stellen versicherungsinterne Beurteilungen dar. Sie fallen unter Art. 43 ATSG und werden von Art. 44 ATSG nicht erfasst ([SG VSG UV 2010/14 vom 19.11.2010](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_UV-2010-14_2010-11-19.pdf); [AG OG VBE.2023.349 vom 20.12.2023](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_007_VBE-2023-349_2023-12-20.pdf)). Der Unfallversicherer ist nicht verpflichtet, vor der kreisärztlichen Untersuchung die Mitwirkungsrechte nach Art. 44 ATSG zu gewähren.
-> **Schwellenwert der Beweiswürdigung:** Weil Art. 44 ATSG nicht anwendbar ist, geniessen versicherungsinterne Berichte nicht dieselbe Beweiskraft wie unabhängige Gutachten. Wecken selbst geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit der kreisärztlichen Einschätzung Zweifel, ist die Verwaltung oder das Gericht verpflichtet, ein externes Gutachten nach Art. 44 ATSG anzuordnen ([BGE 135 V 465 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html); [BL KG 725 2024 207 vom 16.01.2025 E. 5.7](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_002_725-2024-207_2025-01-16.pdf)).
+> **Schwellenwert der Beweiswürdigung und Begutachtungspflicht:** Weil Art. 44 ATSG nicht anwendbar ist, geniessen versicherungsinterne Berichte nicht dieselbe Beweiskraft wie unabhängige Gutachten. Wecken selbst geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit der versicherungsärztlichen Einschätzung Zweifel, ist die Verwaltung oder das Gericht verpflichtet, ein externes Gutachten nach Art. 44 ATSG anzuordnen ([BGE 135 V 465 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html); [BL KG 725 2024 207 vom 16.01.2025 E. 5.7](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_002_725-2024-207_2025-01-16.pdf)). Das Bundesgericht hat diesen Grundsatz mit zwei wegweisenden Urteilen vom 25. September 2026 massgeblich verschärft:
+> - **Verbot richterlicher Eigendiagnostik ([BGer 8C_670/2025 vom 08.10.2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.10.2025_8C_670/2025)):** Stützt sich eine Leistungsablehnung ausschliesslich auf versicherungsinterne Ärzte und liegen abweichende Berichte behandelnder Fachärzte vor, ist die Einholung eines externen Gutachtens nach Art. 44 ATSG zwingend. Das Bundesgericht stellt klar: *Der Richter darf medizinische Fachterminologie nicht eigenmächtig nach juristischem Gutdünken auslegen*, sondern muss bei fachlichen Unklarheiten zwingend sachverständige Aufklärung beiziehen.
+> - **Lückenhaftigkeit bei Missachtung operativer Befunde ([BGer 8C_166/2026 vom 04.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_8C_166/2026)):** Ignoriert oder übergeht ein Versicherungsarzt Läsionen, die der behandelnde Operateur bei einem chirurgischen Eingriff (z.B. Arthroskopie) direkt visualisiert und festgestellt hat, ist der versicherungsinterne Bericht lückenhaft und unbrauchbar. In solchen Fällen ist eine externe Begutachtung nach Art. 44 ATSG unverzichtbar.
 
 **8** **3. Rehabilitationskliniken (Fall Rehaklinik Bellikon).** Medizinische Stellungnahmen von Rehabilitationskliniken, die im Rahmen eines Kur- oder Reha-Aufenthalts von der Suva verlangt werden, stellen keine Gutachten unabhängiger Sachverständiger im Sinne von Art. 44 ATSG dar ([BGE 136 V 117 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-117_2010.html); [ZH SVG UV.2011.00198 vom 20.08.2012](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_UV-2011-00198_2012-08-20.html)). Sie sind rechtlich als Parteivorbringen des Unfallversicherers zu behandeln.
 > **Verfassungsverletzung bei verdeckter Begutachtung:** Ordnet der Versicherer während eines medizinisch indizierten Reha-Aufenthalts hinter dem Rücken der versicherten Person eine vertiefte Abklärung der Kausalität oder Arbeitsfähigkeit an, verletzt dies das verfassungsrechtliche Selbstbestimmungsrecht (Art. 10 Abs. 2 BV) sowie das rechtliche Gehör (Art. 29 Abs. 2 BV). Dieser schwere Eingriff führt zur Unverwertbarkeit der gewonnenen Berichte ([BGE 136 V 117 E. 4.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-117_2010.html)).

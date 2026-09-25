@@ -2,15 +2,28 @@
 title: "Rechtsprechung zu Art. 89 BGG"
 weight: 99
 date: 2026-05-31
-lastmod: "2026-06-17"
-description: "Übersicht der Entscheide zu Art. 89 BGG – Beschwerderecht"
-tags: ["Rechtsprechung", "BGG", "Beschwerderecht", "Beschwerdelegitimation"]
-agent_verified: false
+lastmod: "2026-09-25"
+description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts zu Art. 89 BGG (Beschwerderecht in öffentlich-rechtlichen Angelegenheiten, Individuallegitimation, Gemeinwesenlegitimation und ideelle Verbandsbeschwerde)."
+tags: ["Rechtsprechung", "BGG", "Beschwerderecht", "Beschwerdelegitimation", "Verbandsbeschwerde"]
+agent_verified: true
+revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "BGer-Update: Grundsatzentscheid BGer 2C_46/2025 (5er-Besetzung, zur Publikation als BGE vorgesehen) zur ideellen Verbandsbeschwerde nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 NHG aufgenommen."
 ---
 
 ## Leitentscheide (BGE)
 
-### BGE 133 II 249, E. 2
+### [BGer 2C_46/2025 vom 18.08.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.08.2026_2C_46/2025) (5er-Besetzung, zur Publikation als BGE vorgesehen)
+- **Thema**: Ideelle Verbandsbeschwerde nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 NHG; Kriterien der «gesamtschweizerischen Tätigkeit»
+- **Kernaussage**: Erstmals definiert das Bundesgericht die kumulativen Voraussetzungen für eine «gesamtschweizerische Tätigkeit» im Sinne von Art. 12 Abs. 1 lit. b NHG: (1) Die Statuten der Organisation müssen deren Zweck und Wirkungskreis ausdrücklich auf das gesamte Gebiet der Schweizerischen Eidgenossenschaft ausrichten, und (2) die Organisation muss eine tatsächliche, spürbare und kontinuierliche Aktivität in mindestens zwei Sprachregionen bzw. Landesteilen der Schweiz entfalten. Ein Verein, dessen praktische Aktivitäten sich ausschliesslich auf die Deutschschweiz beschränken, erfüllt das Kriterium nicht und besitzt keine Legitimation zur Anfechtung kantonaler Wolfsregulierungsverfügungen.
+- **Einschlägig für**: Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 Abs. 1 lit. b NHG und Art. 7 Abs. 1 JSG
+
+---
+
+### [BGE 133 II 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-II-249_2007.html)
 - **Thema**: Nachbarbeschwerde Baurecht
 - **Kernaussage**: Der Nachbar eines Bauprojekts muss seine Beschwerdebefugnis konkret dartun; das Bundesgericht prüft die Legitimation nach Art. 89 Abs. 1 BGG von Amtes wegen. Die Legitimation des Nachbarn zur Anfechtung eines Bauprojekts wird nur bejaht, wenn er durch das Projekt besonders berührt ist und ein schutzwürdiges Interesse geltend machen kann.
 - **Einschlägig für**: Art. 89 Abs. 1 lit. b und c BGG

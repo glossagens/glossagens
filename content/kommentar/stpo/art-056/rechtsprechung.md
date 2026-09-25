@@ -12,6 +12,11 @@ revisions:
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht zu Art. 56 StPO gemäss Standard des Onlinekommentars. Aufnahme von 7 Leitentscheiden (BGE) und 12 weiteren Bundesgerichts- sowie kantonalen Entscheiden. Sämtliche Links auf entscheidsuche.ch validiert, fehlerhafte Vorbefassungszitate aus Vorversionen bereinigt."
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "BGer-Update: Ergänzung von BGer 7B_1237/2025 zur Aktenbeizugs- und Gehörspflicht der kantonalen Ausstandsinstanz."
 ---
 
 ## I. Leitentscheide (BGE)
@@ -141,6 +146,13 @@ revisions:
 - **Thema**: Missbräuchliche, pauschale Ablehnungsgesuche gegen mehrere Instanzen (lit. f)
 - **Kernaussage**: Das pauschale Ablehnen sämtlicher beteiligter Staatsanwälte und Richter, die in der Vergangenheit für die Partei ungünstige Entscheide gefällt haben, ist rechtsmissbräuchlich. Die Ablehnung von Richtern, die mit der Sache gar nicht mehr befasst sind, ist mangels Rechtsschutzinteresses unzulässig.
 - **Einschlägig für**: Art. 56 lit. f und Art. 59 Abs. 4 StPO (Rechtsmissbrauch, Kostenfolge)
+
+---
+
+### [BGer 7B_1237/2025 vom 8. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.09.2026_7B_1237/2025)
+- **Thema**: Aktenbeizugs- und Gehörspflicht der Ausstandsinstanz bei Rüge von Verfahrensfehlern
+- **Kernaussage**: Wird die Befangenheit von Justizpersonen (hier: Bezirksrichtern) aus deren konkreter Verfahrensleitung abgeleitet, darf die kantonale Ausstandsinstanz das Gesuch nicht abweisen, ohne die entscheidwesentlichen Verfahrensakten beizuziehen. Die Nichtanforderung der Akten und die daraus resultierende Verweigerung der Akteneinsicht an die gesuchstellende Partei verletzt deren verfassungsrechtlichen Anspruch auf rechtliches Gehör nach Art. 29 Abs. 2 BV und Art. 3 Abs. 2 lit. c StPO.
+- **Einschlägig für**: Art. 56 lit. f, Art. 58 und Art. 59 StPO i.V.m. Art. 29 Abs. 2 BV (Aktenbeizug, rechtliches Gehör)
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 59 — Stationäre Behandlung von psychischen Störungen"
 weight: 59
 date: 2026-09-05
-lastmod: 2026-09-05
-description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
-tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil"]
+lastmod: 2026-09-25
+description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
+tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Bundesgerichtsurteils 7B_208/2026 vom 04.09.2026 (publiziert 25.09.2026): Schärfung der Begründungsanforderungen bei Abweichung vom psychiatrischen Gutachten im Rahmen der Massnahmenverlängerung nach Art. 59 Abs. 4 StGB; Aufhebung kantonaler Massnahmenverlängerung wegen willkürlicher Beurteilung des Rückfallrisikos."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1:cloud"
@@ -180,6 +185,8 @@ In der Lehre wird teilweise vertreten, die Platzierung in einer geschlossenen Ei
 
 **21** Die Verlängerung ist keine Formalität. Sie erfordert eine eigenständige Prüfung der Verhältnismässigkeit auch in Bezug auf die weitere Dauer. Hat die Vollzugsbehörde den Vollzug durch nicht nachvollziehbare Verzögerungen bei Lockerungsschritten selbst verzögert, kann eine Verlängerung um die vollen fünf Jahre unverhältnismässig sein ([SG KG ST.2024.19-SK3 vom 11. Juli 2024](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_ST-2024-19-SK3_2024-07-11.pdf): Verlängerung nur um ein Jahr statt der beantragten zwei Jahre).
 
+**21bis** **Gutachterliche Grundlage und Abweichungsverbot ([BGer 7B_208/2026 vom 04.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_7B_208/2026)):** Der Verlängerungsentscheid nach Art. 59 Abs. 4 StGB erfordert zwingend eine verlässliche sachverständige Basis (Art. 56 Abs. 3 StGB). Will das Gericht bei der Beurteilung des Rückfallrisikos oder der Therapiefähigkeit von den Feststellungen des forensischen Gutachters abweichen, unterliegt es einer **strikten Begründungspflicht**: Die Abweichung bedarf einer ausdrücklichen, substantiierten und sachlich überzeugenden Rechtfertigung. Das Bundesgericht hob im Urteil 7B_208/2026 eine vom kantonalen Gericht ausgesprochene Massnahmenverlängerung auf, weil die Vorinstanz das Rückfallrisiko willkürlich strenger beurteilt hatte als der psychiatrische Sachverständige, ohne hierfür triftige sachliche Gründe anzuführen.
+
 **22** Die Vollzugsbehörde hat jährlich von Amtes wegen zu prüfen, ob die Voraussetzungen für eine bedingte Entlassung gegeben sind ([Art. 62d Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62d)).
 
 ### Sachverhaltschilderung: Verlängerung bei langjährigem Vollzug und eingeschränkter Therapierbarkeit
@@ -192,6 +199,7 @@ Im Fall LU KG 4P 13/7 (12. Februar 2014) verlangte die Vollzugsbehörde die Verl
 |---|---|
 | Weiterbestehende Massnahmebedürftigkeit und Therapiefähigkeit; hinreichende Wahrscheinlichkeit der Gefahrreduktion ([BL KG 470 11 130](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-11-130_2012-04-16.pdf)) | Sehr eingeschränkte therapeutische Einwirkungsmöglichkeiten nach über zehnjährigem Vollzug ([LU KG 4P 13/7](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_002_4P-13-7_2014-02-12.html)) |
 | Deutlich negative Legalprognose bei weiter bestehender Behandelbarkeit ([BS APG BES.2019.81](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2019-81_2019-09-19.html)) | Nicht nachvollziehbare Verzögerungen bei Lockerungsschritten; Verhältnismässigkeit gebietet kürzere Verlängerung ([SG KG ST.2024.19-SK3](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_ST-2024-19-SK3_2024-07-11.pdf)) |
+| Begutachtung bestätigt fortbestehendes Behandlungsansprechen und Verringerung der deliktspezifischen Risikofaktoren | Willkürliche Beurteilung des Rückfallrisikos durch das Gericht unter unbegründeter Abweichung vom Gutachten ([BGer 7B_208/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_7B_208/2026)) |
 
 ---
 

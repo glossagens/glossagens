@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 158 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: "2026-09-05"
+lastmod: "2026-09-25"
 description: "Übersicht der Rechtsprechung zu Art. 158 StGB — Ungetreue Geschäftsbesorgung: Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Vermögensschaden, Geschäftsführerstellung, Missbrauch der Vertretungsmacht, Liquidatorpflichtverletzung, Bereicherungsabsicht."
 tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht"]
 agent_verified: true
 revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "BGer-Update: Ergänzung von BGer 7B_57/2025 vom 26.08.2026 zur Bereicherungsabsicht bei verdeckten Retrozessionen (Fehlen des persönlichen Bereicherungsvorsatzes bei Verbleib der Gelder im Gesellschaftsvermögen)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -128,6 +133,13 @@ revisions:
 ### [BGer 6B_115/2024 vom 7. April 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-115-2024_2025-04-07.html) — Geschäftsführerstellung und Missbrauchstatbestand (französisch)
 - **Kernaussage**: Leitungssprache zu Art. 158 ch. 1 CP (franz. Fassung): Geschäftsführer ist, wer die rechtliche Stellung hat, im Interesse eines andern für einen nicht unerheblichen Vermögenskomplex zu sorgen. Die blosse «gestion intéressée de mauvaise foi» (Ziff. 1 Abs. 2) setzt eine faktische Geschäftsführerstellung und eine Vermögensfürsorgepflicht voraus; eine rein faktische Einflussnahme genügt nicht.
 - **Einschlägig für**: Art. 158 Ziff. 1 Abs. 2 StGB (Geschäftsführung ohne Auftrag, faktische Geschäftsführerstellung).
+
+---
+
+### [BGer 7B_57/2025 vom 26. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025) — Bereicherungsabsicht bei verdeckten Retrozessionen und Verbleib im Gesellschaftsvermögen
+- **Sachverhalt**: Gegen Organe einer Vermögensverwaltungsgesellschaft bzw. Institution wurde ein Strafverfahren wegen mehrfacher qualifizierter ungetreuer Geschäftsbesorgung (Art. 158 Ziff. 1 Abs. 3 StGB) geführt, weil von Depotbanken verdeckte Retrozessionen und Provisionen vereinnahmt wurden. Die Gelder flossen jedoch nicht den beschuldigten Organpersonen persönlich zu, sondern verblieben ungeschmälert im Vermögen der juristischen Person. Die Staatsanwaltschaft stellte das Verfahren bezüglich der qualifizierten Tatbestandsvariante (Handeln in Bereicherungsabsicht) nach Art. 319 Abs. 1 lit. b StPO ein.
+- **Kernaussage**: Die Qualifikation der ungetreuen Geschäftsbesorgung nach Art. 158 Ziff. 1 Abs. 3 StGB setzt voraus, dass der Täter in der Absicht handelt, sich oder einen Dritten unrechtmässig zu bereichern. Verbleiben verdeckte Retrozessionen im Vermögen der juristischen Person selbst und fliessen sie nicht an die handelnden Organe ab, fehlt diesen der persönliche Bereicherungsvorsatz. Die Einstellungsverfügung nach Art. 319 Abs. 1 lit. b StPO wegen Fehlens des subjektiven Tatbestands der qualifizierten ungetreuen Geschäftsbesorgung ist bundesrechtskonform.
+- **Einschlägig für**: Art. 158 Ziff. 1 Abs. 3 StGB i.V.m. Art. 319 Abs. 1 lit. b StPO (Bereicherungsabsicht, Retrozessionen, Einstellungsverfügung).
 
 ---
 

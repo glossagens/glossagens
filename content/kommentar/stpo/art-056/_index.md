@@ -12,6 +12,11 @@ revisions:
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR. Vollständiges dogmatisches Prüfschema (Abschnitte A bis K), zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) zu allen Merkmalen, Kasuistik- und Schwellenwerttabellen ohne Code-Fences, Offenlegung von Judikaturdivergenzen (insb. Mehrfachbefassung nach Rückweisung und abgekürztem Verfahren, Vorbefassung ZMG vs. Sachrichter), kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche 19 Urteile im Volltext über entscheidsuche.ch verifiziert und verlinkt."
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aktualisierung basierend auf BGer-Update: Ergänzung von BGer 7B_1237/2025 vom 08.09.2026 zur Akteneinsichts- und Beizugspflicht der Ausstandsbehörde (Verletzung von Art. 29 Abs. 2 BV bei Entscheid ohne Beizug der Verfahrensakten)."
 ---
 
 ## Gesetzeswortlaut
@@ -281,8 +286,10 @@ Art. 58 Abs. 1 StPO verlangt, dass das Gesuch «ohne Verzug» gestellt wird, sob
 - **Verwirkung**: Ein Zuwarten von **zwei bis drei Wochen** führt unwiderruflich zur Verwirkung des Ausstandsrechts (Treu und Glauben, Art. 3 Abs. 2 lit. a StPO).
 - **Fristbeginn bei Verfahrensfehlern**: Leitet die Partei den Anschein der Befangenheit aus einer fehlerhaften Verfügung oder widersprüchlichen Aktenführung ab, beginnt die Frist erst in dem Moment zu laufen, in dem die Partei durch **Akteneinsicht** gesicherte Kenntnis vom Fehler erlangt ([BGer 1B_597/2021 E. 2.5.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-597-2021_2022-10-27.html)).
 
-#### 3. Beweismass und Stellungnahme (Art. 58 Abs. 1 und 2 StPO)
+#### 3. Beweismass, Aktenbeizug und Gehörsanspruch (Art. 58 Abs. 1 und 2 StPO)
 Der Ausstandsgrund ist nicht strikt zu beweisen, sondern **glaubhaft zu machen** (Art. 58 Abs. 1 StPO). Die abgelehnte Person hat sich zum Gesuch zu äussern (Art. 58 Abs. 2 StPO). Bei einem Kollegialgericht genügt eine summarische Sammelstellungnahme durch das Präsidium, wenn das Gesuch offensichtlich unbegründet ist ([BGer 7B_846/2025 vom 18. Mai 2026, E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-846-2025_2026-05-18.html)). Beweisanträge der gesuchstellenden Partei (z.B. Einvernahme von Richtern) dürfen in antizipierter Beweiswürdigung abgewiesen werden ([BGE 138 IV 222 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-222_2012.html#consideration_2.1); [BGer 7B_83/2026 vom 4. Mai 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-83-2026_2026-05-04.html)).
+
+- **Aktenbeizugs- und Gehörspflicht der Ausstandsinstanz**: Stützt die gesuchstellende Partei ihr Ausstandsbegehren auf die konkrete behördliche Verfahrensführung oder behauptete Verfahrensfehler der abgelehnten Justizperson, ist die Ausstandsinstanz von Verfassungs wegen verpflichtet, die massgebenden Verfahrensakten beizuziehen und den Parteien dazu das rechtliche Gehör (Akteneinsicht) zu gewähren. Weist die Beschwerdeinstanz bzw. das Ausstandsgericht das Gesuch ab, ohne die entscheidwesentlichen Verfahrensakten beizuziehen und den Parteien Einsicht zu geben, verletzt dies das rechtliche Gehör nach Art. 29 Abs. 2 BV und Art. 3 Abs. 2 lit. c StPO ([BGer 7B_1237/2025 vom 8. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.09.2026_7B_1237/2025)).
 
 #### 4. Rechtsfolge: Aufhebung und Wiederholung von Amtshandlungen (Art. 60 Abs. 1 StPO)
 Wird ein Ausstandsgesuch gutgeheissen, sind Amtshandlungen, an denen die befangene Person mitgewirkt hat, aufzuheben und zu wiederholen, sofern eine Partei dies **innert 5 Tagen** verlangt, nachdem sie vom Entscheid Kenntnis erhalten hat (Art. 60 Abs. 1 StPO). Nicht wiederholbare Beweiserhebungen können vom Gericht berücksichtigt werden (Art. 60 Abs. 2 StPO).

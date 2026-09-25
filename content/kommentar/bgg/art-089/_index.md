@@ -2,15 +2,20 @@
 title: "Art. 89 — Beschwerderecht"
 weight: 89
 date: 2026-05-31
-lastmod: "2026-08-21"
+lastmod: "2026-09-25"
 description: "Kommentar zu Art. 89 BGG – Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
-tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten", "Nachbargemeinden"]
+tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten", "Nachbargemeinden", "Verbandsbeschwerde", "NHG"]
 agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "BGer-Update: 1C_325/2024 (Nachbargemeinden, Art. 89 Abs. 1 BGG)"
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "BGer-Update: Grundsatzentscheid BGer 2C_46/2025 (5er-Besetzung, zur Publ. vorgesehen) zur ideellen Verbandsbeschwerde nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 NHG; erstmalige Definition der kumulativen Kriterien einer «gesamtschweizerischen Tätigkeit» (statutarisch und effektiv in mind. 2 Sprachregionen)."
 ---
 
 ## Gesetzeswortlaut
@@ -68,9 +73,17 @@ Gemeinwesen können sich jedoch auch ausserhalb von Art. 89 Abs. 2 lit. c BGG au
 
 Ein kommunaler Zweckverband ist als Träger hoheitlicher Gewalt gestützt auf Art. 89 Abs. 2 lit. c BGG legitimiert, die Verletzung verfassungsmässiger Garantien zu rügen. Die Beschwerdelegitimation des Gemeinwesens nach Art. 89 Abs. 1 BGG ist auch gegeben, wenn dieses in vermögensrechtlichen Streitigkeiten im öffentlichen Personalrecht berührt ist ([BGE 134 I 204](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:1:204)).
 
-#### Rz. 6 — Spezialgesetzliche Legitimation (lit. d)
+#### Rz. 6 — Spezialgesetzliche Legitimation (lit. d) und ideelle Verbandsbeschwerde
 
-Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt, sind ebenfalls beschwerdeberechtigt. Das kantonale Durchführungsorgan (z.B. OCPA) ist zur Beschwerde in öffentlich-rechtlichen Angelegenheiten auf dem Gebiete der bundesrechtlichen Ergänzungsleistungen berechtigt (Art. 89 Abs. 1 lit. c i.V.m. Art. 89 Abs. 2 lit. d BGG), jedoch nicht im Bereich der kantonalrechtlichen Ergänzungsleistungen ([BGE 134 V 53](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:5:53)).
+Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt, sind nach Art. 89 Abs. 2 lit. d BGG beschwerdeberechtigt. Diese Bestimmung fungiert als verfahrensrechtliche Eingangspforte für spezialgesetzliche Beschwerderechte im materiellen Bundesverwaltungsrecht:
+
+- **Durchführungsorgane des Sozialversicherungsrechts**: Das kantonale Durchführungsorgan (z.B. OCPA) ist zur Beschwerde in öffentlich-rechtlichen Angelegenheiten auf dem Gebiete der bundesrechtlichen Ergänzungsleistungen berechtigt (Art. 89 Abs. 1 lit. c i.V.m. Art. 89 Abs. 2 lit. d BGG), jedoch nicht im Bereich der kantonalrechtlichen Ergänzungsleistungen ([BGE 134 V 53](https://bger.ch/ext/euro/4/index.htm?lang=de&pos=134:5:53)).
+- **Ideelle Verbandsbeschwerde im Umwelt- und Heimatschutz**: Von herausragender praktischer Bedeutung ist Art. 89 Abs. 2 lit. d BGG als Anknüpfungsnorm für die ideelle Verbandsbeschwerde (insb. [Art. 12 NHG](https://www.fedlex.admin.ch/eli/cc/1967/1112_1117_1117/de) und [Art. 55 USG](https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de)). Diese räumt gesamtschweizerischen Organisationen ein uneigennütziges Beschwerderecht zur Durchsetzung öffentlicher Schutzanliegen ein.
+- **Voraussetzung der «gesamtschweizerischen Tätigkeit» ([BGer 2C_46/2025 vom 18.08.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.08.2026_2C_46/2025), 5er-Besetzung, zur Publ. vorgesehen)**: In einem Grundsatzurteil betreffend kantonale Regulierungsverfügungen zu Wolfsrudeln hat das Bundesgericht erstmals die Kriterien für das Erfordernis der «gesamtschweizerischen Tätigkeit» nach Art. 12 Abs. 1 lit. b NHG i.V.m. Art. 89 Abs. 2 lit. d BGG präzisiert. Gefordert sind zwingend **zwei kumulative Elemente**:
+  1. *Statutarische Ausrichtung*: Der statutarische Zweck und Tätigkeitsbereich der Organisation muss ausdrücklich auf das gesamte schweizerische Bundesgebiet ausgerichtet sein.
+  2. *Effektive, tatsächliche Tätigkeit*: Die Organisation muss eine reale, spürbare und kontinuierliche Tätigkeit in **mindestens zwei Sprachregionen bzw. Landesteilen** der Schweiz entfalten (nachweisbar durch konkrete Projekte, Mitgliederbestände, Informationsveranstaltungen oder Beteiligungen an kantonalen Verfahren).
+  Beschränkt sich eine Umwelt- oder Tierschutzorganisation faktisch auf die Deutschschweiz, fehlt es an der gesamtschweizerischen Tätigkeit; die Beschwerdelegitimation ist ohne Weiteres zu verneinen.
+- **Räumlicher Anwendungsbereich bei Baubewilligungen im ISOS**: Denkmalschutzverbänden fehlt die Verbandsbeschwerdelegitimation nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 Abs. 1 NHG bei Baubewilligungen für Vorhaben innerhalb der Bauzone, selbst wenn das Grundstück im ISOS-Perimeter liegt, sofern kein Bundesbeitrag oder eine unmittelbare Bundesaufgabe vorliegt ([BGer 1C_93/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-93-2025_2025-05-15.html); Bestätigung von [BGE 135 II 209 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-II-209_2009.html#consideration_2.1)).
 
 #### Rz. 7 — Lückenfüllung
 
