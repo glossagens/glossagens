@@ -158,5 +158,5 @@ Art. 9 BV kodifiziert zwei bisher ungeschriebene verfassungsmässige Rechte, die
 ## Literatur
 
 - Kein Open-Access-Kommentar zu Art. 9 BV bei [OnlineKommentar.ch](https://onlinekommentar.ch) vorhanden (Stand 2026); die Plattform verweist auf Leading Cases und die Doctrine-Übersicht.
-- BGE 127 I 38 ist der am häufigsten zitierte Entscheid zu Art. 9 BV i.V.m. der Unschuldsvermutung.
-- BGE 136 I 229 (Anfechtung von Prüfungsergebnissen) erweiterte die Dogmatik auf den Bildungsbereich und wurde über 15.000 Mal zitiert.
+- Die Doctrine-Übersicht zu Art. 9 BV weist eine besonders hohe Zitationsdichte auf; der am häufigsten zitierte Entscheid betrifft die Unschuldsvermutung ([BGE 127 I 38, E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-127-I-38_2000-12-07.html)).
+- BGE 136 I 229 erweiterte die Dogmatik zu Art. 9 BV auf die Anfechtbarkeit von Prüfungsergebnissen im Bildungsbereich ([BGE 136 I 229, E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html)).
