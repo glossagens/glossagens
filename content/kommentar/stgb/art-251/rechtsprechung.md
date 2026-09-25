@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 251 StGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-09-10
-description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 251 StGB: Urkundenfälschung i.e.S., Geistigkeitstheorie, Falschbeurkundung, qualifizierte schriftliche Lüge, Buchführung, Covid-19-Kredite, Mietzinsformulare, Rechnungen und echte Konkurrenz zum Betrug."
+lastmod: 2026-09-25
+description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 251 StGB: Urkundenfälschung i.e.S., Geistigkeitstheorie, Falschbeurkundung, qualifizierte schriftliche Lüge, Buchführung, Covid-19-Kredite (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Mietzinsformulare, Rechnungen und echte Konkurrenz zum Betrug."
 tags: ["Rechtsprechung", "StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Covid-19-Kredit", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von Leitentscheid BGE 151 IV 201 (Umsatzdeklaration beim Covid-19-Kredit als Falschbeurkundung) und Urteil BGer 6B_148/2026 vom 02.09.2026 (Ausscheidung von Schutzbilanzen, MWST-Abgleich, Realkonkurrenz zu Art. 146, 163 und 305bis StGB)."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -36,6 +41,14 @@ revisions:
 - **Sachverhalt**: A., Alleinaktionär und einziger Verwaltungsrat der C. AG, beantragte am 26. März 2020 bei der Hausbank einen Covid-19-Kredit über Fr. 500'000.–. Im standardisierten Antragsformular gemäss Anhang 2 der aCovid-19-SBüV bestätigte er durch Ankreuzen wahrheitswidrig, die Gesellschaft sei aufgrund der Covid-19-Pandemie hinsichtlich des Umsatzes «wirtschaftlich erheblich beeinträchtigt» und werde die Kreditmittel ausschliesslich zur Sicherung laufender Liquiditätsbedürfnisse verwenden. Unmittelbar nach Kreditauszahlung überwies er Fr. 350'000.– auf sein Privatkonto, spekulierte damit an der Börse in Aktien der Zürich Versicherung und erwarb einen Firmenmantel. Das Obergericht des Kantons Aargau verurteilte ihn wegen Betrugs und Falschbeurkundung nach Art. 251 Ziff. 1 StGB.
 - **Kernaussage**: Der Urkundencharakter eines Schriftstücks ist relativ. Wohl stellt das Covid-19-Kreditantragsformular insofern eine Urkunde nach Art. 110 Abs. 4 StGB dar, als es beweist, dass der Gesuchsteller die darin enthaltenen Erklärungen abgegeben hat. In Bezug auf die inhaltliche Richtigkeit kommt den Zusicherungen, das Unternehmen sei «wirtschaftlich erheblich beeinträchtigt» und werde den Kredit nur für Liquidität verwenden, jedoch keine erhöhte Glaubwürdigkeit zu. Es handelt sich um weiche Selbsteinschätzungen und vertragliche Versprechen künftigen Verhaltens, die keine qualifizierte schriftliche Lüge begründen. Der Schuldspruch wegen Falschbeurkundung wurde aufgehoben (E. 1.9.5–1.9.7).
 - **Einschlägig für**: Relativität des Urkundenbegriffs, Abgrenzung einfache schriftliche Lüge vs. Falschbeurkundung, Covid-19-Kredite.
+
+---
+
+### [BGE 151 IV 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-201_2025.html#consideration_2.4) E. 2.4, 3 — Covid-19-Kreditantragsformular: Falschbeurkundung bei der Angabe des Umsatzerlöses
+
+- **Sachverhalt**: Ein Unternehmer beantragte gestützt auf die Covid-19-Solidarbürgschaftsverordnung für seine Gesellschaft einen Notkredit und gab auf dem standardisierten Antragsformular wahrheitswidrig einen stark übersetzten Umsatzerlös für das Geschäftsjahr 2019 an, um die gesetzliche Kreditobergrenze von 10 % des Jahresumsatzes künstlich nach oben zu treiben und eine höhere Kreditauszahlung zu erwirken. Er machte geltend, es handle sich analog zu BGE 151 IV 113 um eine blosse einseitige Selbstdeklaration bzw. einfache schriftliche Lüge.
+- **Kernaussage**: Im Gegensatz zu den vagen Selbsteinschätzungen der Notlage und den Absichtserklärungen zur Mittelverwendung (BGE 151 IV 113) erfüllt die unrichtige Angabe des Umsatzerlöses auf dem Covid-19-Kreditantragsformular den Tatbestand der Falschbeurkundung nach Art. 251 Ziff. 1 StGB. Da der Verordnungsgeber die Kreditobergrenze zwingend an den Umsatz knüpfte und dieser auf der kaufmännischen Buchführung (Art. 957 ff. OR) basieren muss, strahlt die gesetzliche Glaubwürdigkeit der Buchhaltung unmittelbar auf die Formularangabe aus. Wer einen fingierten Umsatz deklariert, begeht eine qualifizierte schriftliche Lüge (E. 2.4). Zwischen der Falschbeurkundung und dem Betrug (Art. 146 StGB) besteht echte Realkonkurrenz (E. 3).
+- **Einschlägig für**: Covid-19-Kredite, Falschbeurkundung durch Umsatzdeklaration, Ausstrahlung von Art. 957 ff. OR, echte Realkonkurrenz zu Art. 146 StGB.
 
 ---
 
@@ -102,6 +115,14 @@ revisions:
 - **Sachverhalt**: A. beantragte für die C. AG einen Covid-19-Kredit über Fr. 190'000.– und gab auf dem Antragsformular unterschriftlich einen Umsatzerlös von Fr. 1'986'854.– an, obschon dieser tatsächlich nur Fr. 1'206'846.– betrug (maximal zulässiger Kredit: Fr. 120'684.60). Das Appellationsgericht des Kantons Basel-Stadt verurteilte ihn wegen Betrugs und Urkundenfälschung.
 - **Kernaussage**: Das Bundesgericht schützte den Schuldspruch: Im Unterschied zu den weichen Absichts- und Schadenserklärungen gemäss BGE 151 IV 113 geniesst die Angabe des Umsatzerlöses erhöhte Glaubwürdigkeit, da der Kredit auf 10 % des Umsatzes limitiert war und die Angabe auf der kaufmännischen Buchführung (Art. 957 ff. OR) basieren musste. Die Täuschung mittels dieser Falschbeurkundung war arglistig; der Schaden entstand bei der verbürgenden Bürgschaftsgenossenschaft bereits mit Abschluss der Kreditvereinbarung (E. 3.5, 4.6, 5.1.2).
 - **Einschlägig für**: Falschbeurkundung durch Umsatzfälschung, Covid-19-Kredite, Dreiecksbetrug, Arglist.
+
+---
+
+### [BGer 6B_148/2026 vom 02.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_6B_148/2026) E. 1.3, 1.4, 4 — Falschbeurkundung bei Covid-19-Kredit, Ausscheidung von Schutzbilanzen und Deliktsmehrheit mit Art. 163 und Art. 305bis StGB
+
+- **Sachverhalt**: A. beantragte im April 2020 für die D. AG einen Covid-19-Kredit über Fr. 250'000.–. Im Antragsformular deklarierte er wahrheitswidrig einen Umsatz für 2019 von Fr. 2,5 Mio., obschon der tatsächliche Umsatz gemäss den rechtsverbindlich eingereichten MWST-Abrechnungen und den Bankkontoeingängen lediglich rund Fr. 660'000.– betragen hatte. Im Strafverfahren legte er nachträglich erstellte, abweichende Bilanz- und Erfolgsrechnungsentwürfe vor, um den behaupteten Umsatz zu stützen. Nach Krediterhalt hob er Fr. 130'000.– bar ab und transferierte Gelder auf Privatkonten, woraufhin die Gesellschaft konkurs ging.
+- **Kernaussage**: Das Bundesgericht bestätigte den Schuldspruch wegen Falschbeurkundung (Art. 251 Ziff. 1 StGB): Die Angabe des Umsatzerlöses im Kreditantrag besitzt kraft der Anbindung an die Buchführungspflicht erhöhte Glaubwürdigkeit. Die kantonalen Gerichte durften die nachträglich eingereichten, willküranfälligen Rechnungslegungsentwürfe ohne Verletzung der Unschuldsvermutung als reine Schutzbehauptungen verwerfen und verbindlich auf die MWST-Abrechnungen (Art. 35, 39 MWSTG) und Bankeingänge abstellen (E. 1.3, 1.4, 4.1). Art. 251 Ziff. 1 StGB steht in echter Konkurrenz zu Art. 146 StGB (Betrug), zu Art. 163 Ziff. 1 StGB (betrügerischer Konkurs durch das Beiseiteschaffen der Kreditmittel) und zu Art. 305bis StGB (Geldwäscherei; E. 2, 3, 4.2).
+- **Einschlägig für**: Covid-19-Kredite, Falschbeurkundung durch Umsatzüberhöhung, Beweiswert von MWST-Abrechnungen, Verwerfung von Gefälligkeitsabschlüssen, echte Konkurrenz zu Art. 146, Art. 163 und Art. 305bis StGB.
 
 ---
 

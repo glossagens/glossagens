@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-09-09
-description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, Covid-19-Kredite, Prozessbetrug und Gewerbsmässigkeit."
-tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Besonderer Teil"]
+lastmod: 2026-09-25
+description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Prozessbetrug und Gewerbsmässigkeit."
+tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Umfassender Ausbau der Covid-19-Kreditjudikatur: Aufnahme von BGer 6B_148/2026 vom 02.09.2026 (falsche Ursachenzuschreibung der Notlage auf die Pandemie bei vorbestandener Überschuldung, MWST-Umsatznachweis, Konkurrenzen zu Art. 251, Art. 163 und Art. 305bis StGB), BGE 151 IV 113 (Täuschungscharakter bei offensichtlich falscher Notlagenerklärung) sowie BGer 6B_826/2024 (Schadenseintritt bei Kreditauszahlung und Zweckentfremdung)."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -104,18 +109,35 @@ revisions:
 
 ---
 
-## II. Corona-Nothilfekreditbetrug (Covid-19-SBüV)
+## II. Corona-Nothilfekreditbetrug (Covid-19-SBüV / Covid-19-SBüG)
 
-### [BGE 150 IV 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-169_2024.html#consideration_5.1.4) E. 5.1.4 — Arglist bei Covid-19-Notkrediten
-- **Thema**: Arglist bei einfachen Falschangaben im staatlichen Selbstdeklarationsverfahren; Ausschluss der Opfermitverantwortung.
-- **Kernaussage**: Beim Covid-19-Kredit begründen bereits einfache falsche Umsatzangaben im Antragsformular Arglist. Der Gesetzgeber hatte das System bewusst unbürokratisch ausgestaltet und Kontrollen der Banken suspendiert, um Soforthilfe zu gewährleisten. Der Täter nutzt genau diese staatlich herbeigeführte Schutzlosigkeit aus; eine Opfermitverantwortung der Bank ist ausgeschlossen.
-- **Einschlägig für**: Art. 146 Abs. 1 StGB — Arglist bei Notverordnungsrecht, Covid-19-Kreditbetrug.
+### [BGE 150 IV 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-169_2024.html) E. 5.1–5.2 — Arglist im Selbstdeklarationsverfahren und Schadenseintritt
+- **Thema**: Arglist bei einfachen Falschangaben im staatlichen Selbstdeklarationsverfahren; Ausschluss der Opfermitverantwortung; Vollendung des Schadens und Dreiecksbetrug zu Lasten der Bürgschaftsorganisation.
+- **Kernaussage**: Beim Covid-19-Kredit begründen bereits einfache falsche Angaben auf dem Antragsformular Arglist. Der Gesetzgeber hatte das System bewusst unbürokratisch ausgestaltet und Kontrollen der Banken suspendiert, um Soforthilfe zu gewährleisten. Der Täter nutzt genau diese staatlich herbeigeführte Schutzlosigkeit der Banken aus; eine Opfermitverantwortung der Bank ist ausgeschlossen (E. 5.1.4). Der Vermögensschaden tritt bereits mit der Darlehensauszahlung ein, da die Bank keinen werthaltigen Gegenwert erlangt (Gefährdungsschaden / Entreicherung; E. 5.2.1). Die Täuschung der Bank begründet einen Dreiecksbetrug zu Lasten der Solidarbürgschaftsorganisation, die für den Kreditausfall einzustehen hat (E. 5.2.2).
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Arglist im Massenverfahren, Ausschluss der Opfermitverantwortung, Gefährdungsschaden, Dreiecksbetrug.
 
 ---
 
-### [BGE 151 IV 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-201_2025.html#consideration_2.4) E. 2.4 — Urkundenfälschung und Betrug bei Covid-19-Kreditanträgen
-- **Thema**: Erhöhte Glaubwürdigkeit des Covid-19-Kreditantragsformulars; Realkonkurrenz zu Art. 251 StGB.
-- **Kernaussage**: Das im Rahmen der Covid-19-Solidarbürgschaftsverordnung vorgesehene Kreditantragsformular stellt eine Urkunde im Sinne von Art. 251 StGB dar, da die dortigen Umsatzangaben auf der kaufmännischen Buchhaltung basieren und eine erhöhte Glaubwürdigkeit geniessen. Das Einreichen falscher Umsatzdeklarationen erfüllt in echter Realkonkurrenz Urkundenfälschung und Betrug.
+### [BGer 6B_148/2026 vom 2. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_6B_148/2026) E. 3.2–3.3, 4–6 — Falsche Ursachenzuschreibung der Notlage auf die Pandemie, MWST-Umsatznachweis und Anschlussdelikte
+- **Thema**: Arglistige Täuschung durch wahrheitswidrige Kausalitätszuschreibung der Notlage auf die COVID-19-Pandemie bei vorbestandener Überschuldung; Beweisführung bei überhöhtem Umsatz über MWST-Abrechnungen; Konkurrenzen zu Art. 251 StGB (Falschbeurkundung), Art. 163 StGB (betrügerischer Konkurs) und Art. 305bis StGB (Geldwäscherei).
+- **Kernaussage**: 
+  1. *Falsche Ursachenzuschreibung (E. 3.3)*: Zwar ist der Begriff der «erheblichen wirtschaftlichen Beeinträchtigung» interpretationsfähig. Bestätigt der Gesuchsteller jedoch im Formular, die Gesellschaft sei pandemiebedingt in Not geraten, obwohl die Insolvenz- und Überschuldungsursachen lange vor der Pandemie lagen und dem Täter bekannt waren (Überschuldung seit 2018, wiederholte fruchtlose Aufforderungen der Revisionsstelle zur Richterbenachrichtigung nach aArt. 725 OR, laufende Betreibungen über 1.5 Mio. Fr.), begeht er eine arglistige Täuschung nach Art. 146 StGB.
+  2. *Umsatznachweis via MWST (E. 3.2)*: Die Gerichte dürfen den tatsächlich erzielten Umsatz anhand der quartalsweisen MWST-Abrechnungen (Art. 35, 39 MWSTG) und Bankeingänge ermitteln. Nachträglich im Strafverfahren produzierte, abweichende Bilanzen ohne nachvollziehbare Erklärung dürfen als unglaubhaft ausgeschieden werden.
+  3. *Anschlussdelikte (E. 4–6)*: Werden erlangte Kreditgelder aus der überschuldeten Gesellschaft bar abgehoben oder auf Privatkonten verschoben und fällt die Gesellschaft in Konkurs, liegt zusätzlich betrügerischer Konkurs nach Art. 163 Ziff. 1 StGB vor; das Verschieben der Gelder erfüllt zudem Geldwäscherei (Art. 305bis StGB). Bei falscher Angabe des Umsatzes liegt echte Realkonkurrenz zu Urkundenfälschung (Art. 251 StGB) vor.
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Kausalitätszuschreibung, Täuschung über Insolvenzursachen, Beweiswürdigung von Buchhaltungsunterlagen; Art. 163 StGB; Art. 251 StGB; Art. 305bis StGB.
+
+---
+
+### [BGE 151 IV 113](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-113_2025.html) E. 1.9.6 — Weite Auslegung der Notlage und Kriterium der offensichtlichen Unwahrheit
+- **Thema**: Auslegungsspielraum bei der Zusicherung pandemiebedingter Beeinträchtigung; Abgrenzung zwischen strafloser Selbsteinschätzung und strafbarer Täuschung.
+- **Kernaussage**: Der Begriff der «wirtschaftlich erheblichen Beeinträchtigung» nach Art. 3 Abs. 1 lit. c aCovid-19-SBüV ist nicht strikt definiert und lässt unterschiedliche Interpretationen und Schätzungen zu. Eine strafbare Täuschung im Sinne von Art. 146 Abs. 1 StGB liegt jedoch vor, wenn die Erklärung im Kreditantragsformular **offensichtlich falsch** ist und das ersuchende Unternehmen offensichtlich gar nicht durch die Pandemie beeinträchtigt wurde (bestätigt in BGer 6B_262/2024 E. 1.10.1 und BGer 6B_148/2026 E. 3.3.1).
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Selbsteinschätzung vs. offensichtliche Falschbehauptung bei Notverordnungskrediten.
+
+---
+
+### [BGE 151 IV 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-201_2025.html) E. 2.4 — Urkundenfälschung und Betrug bei Covid-19-Kreditanträgen
+- **Thema**: Erhöhte Glaubwürdigkeit des Covid-19-Kreditantragsformulars hinsichtlich des Umsatzerlöses; Realkonkurrenz zu Art. 251 StGB.
+- **Kernaussage**: Das im Rahmen der Covid-19-Solidarbürgschaftsverordnung vorgesehene Kreditantragsformular stellt eine Urkunde im Sinne von Art. 251 StGB dar, da die dortigen Umsatzangaben auf der kaufmännischen Buchhaltung basieren und eine erhöhte Glaubwürdigkeit geniessen. Das Einreichen falscher Umsatzdeklarationen erfüllt in echter Realkonkurrenz Urkundenfälschung (Falschbeurkundung) und Betrug.
 - **Einschlägig für**: Art. 146 Abs. 1 StGB, Art. 251 Ziff. 1 StGB — Urkundencharakter von Selbstdeklarationsformularen, Konkurrenz.
 
 ---
@@ -124,6 +146,13 @@ revisions:
 - **Thema**: Sorgfaltspflichten der Hausbank bei Covid-19-Kreditvergabe trotz vorliegender Kontoführung.
 - **Kernaussage**: Selbst wenn die kreditgewährende Bank die langjährige Hausbank des Unternehmens war und anhand der Kontobewegungen die Unrichtigkeit des deklarierten Umsatzes hätte erkennen können, trifft sie keine Opfermitverantwortung. Das Bundesrecht entband die Banken von banküblichen Sorgfaltsabklärungen.
 - **Einschlägig für**: Art. 146 Abs. 1 StGB — Opfermitverantwortung bei Banken, Covid-19-Kreditbetrug.
+
+---
+
+### [BGer 6B_826/2024 vom 23. April 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-826-2024_2026-04-23.html) E. 1.2 — Täuschung über die Zweckverwendung und Kreditauszahlung als Schaden
+- **Thema**: Täuschung über den inneren Verwendungszweck (Liquiditätssicherung) und Vollendung des Schadens mit Auszahlung.
+- **Kernaussage**: Die schädigende Vermögensdisposition besteht bei Covid-19-Krediten in der Auszahlung des Geldes. Wer im Formular zusichert, den Kredit ausschliesslich zur Deckung laufender Liquiditätsbedürfnisse zu verwenden, während von Anfang an geplant war, die Mittel zweckwidrig abzuziehen, täuscht arglistig über eine innere Tatsache. Die Bank erleidet bereits mit der Auszahlung einen Vermögensschaden.
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Täuschung über Verwendungszweck, Schadenseintritt bei Darlehensauskehr.
 
 ---
 
