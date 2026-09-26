@@ -2,11 +2,16 @@
 title: "Art. 158 StGB — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: "2026-09-25"
+lastmod: "2026-09-26"
 description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung, Pflichtverletzung, Vermögensschaden, Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
-tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung"]
+tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Korrektur und Vertiefung von BGer 7B_57/2025: Dogmatische Zuordnung zu Art. 158 Ziff. 2 StGB (Missbrauch der Vertretungsmacht) und Art. 146 StGB (Betrug) statt Ziff. 1 Abs. 3; Links von bger.ch auf entscheidsuche.ch korrigiert; Sachverhalt mit TIR-Carnet-Kontext angereichert; Abgrenzung zum klassischen Vermögensverwaltungsmandat (BGE 144 IV 294) in D.4 ergänzt; wörtliches Kernzitat aus E. 2.3 eingebaut."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -173,6 +178,8 @@ Der Vermögensverwalter macht sich der ungetreuen Geschäftsbesorgung strafbar, 
 | Kunden wissen um Begriff der Retrozessionen und haben nachträglich darauf verzichtet | **Nein** — wenn die Kunden hinreichend informiert waren und rechtsgültig verzichtet haben | Vorinstanz in BGer 6B_431/2024 (teilweise Freispruch in drei Anklageziffern mangels Nachweis genügender Aufklärung) |
 | Vermögensverwalter ist zugleich Vormund und informiert nicht über Retrozessionen | **Ja** — erst recht pflichtwidrig wegen verschärfter Sorgfaltspflichten nach Art. 413 aZGB (nun Art. 384 ZGB) | [BGer 6B_845/2014 vom 16. März 2015 E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-845-2014_2015-03-16.html) |
 
+**Abgrenzung: Verbands-Mitgliedsverbands-Beziehung vs. klassisches Vermögensverwaltungsmandat.** Die Retrozessionsrechtsprechung (BGE 144 IV 294; BGer 6B_431/2024) betrifft das individuelle Vermögensverwaltungsmandat, bei dem der Vermögensverwalter seinen Mandanten gegenüber eine qualifizierte Informations- und Rechenschaftspflicht nach Art. 400 Abs. 1 OR trifft. Liegt dem Verhältnis hingegen eine Verbands-Mitgliedsverbands-Beziehung zugrunde — wie im Fall der internationalen TIR-Transport-Association B.________ und ihrer nationalen Mitgliedsverbände —, ist die Frage, ob die Institution ihren Mitgliedern eine Informations- und Rückzahlungspflicht bezüglich verdeckter Retrozessionen trifft, durch die interne Convention und das Vertragsgeflecht geregelt und damit zivilrechtlicher Natur. Fehlt es an einer eindeutigen Informationspflicht in der Convention und verbleiben die Geldflüsse im Einflussbereich der Institution (Reservenbildung, institutionelle Zwecke), ist der subjektive Tatbestand des Missbrauchs der Vertretungsmacht (Art. 158 Ziff. 2 StGB) — namentlich die Bereicherungsabsicht — nicht verwirklicht ([BGer 7B_57/2025 vom 26. August 2026 E. 2.3, 2.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-57-2025_2026-08-26.html#consideration_2.4.2); → ausführlich unten F.2).
+
 #### D.5 Schmiergeldannahme
 
 Die blosse Annahme von **Schmiergeldern** erfüllt den Tatbestand der ungetreuen Geschäftsbesorgung **nur**, wenn der Geschäftsführer durch die Zuwendung zu einem Verhalten verleitet wird, das sich **gegen die Vermögensinteressen des Geschäftsherrn richtet und sich schädigend auswirkt**. Die blosse Verletzung der arbeitsvertraglichen Herausgabepflicht — also das Einbehalten von Kickbacks ohne schädigende Disposition — bleibt straflos.
@@ -208,7 +215,9 @@ Der Grundtatbestand erfordert **Vorsatz** bezüglich aller objektiven Tatbestand
 
 Handelt der Täter in der **Absicht, sich oder einen andern unrechtmässig zu bereichern**, erhöht sich der Strafrahmen auf Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Die Bereicherungsabsicht verlangt **Dolus directus erster Ordnung**: Der Täter muss es darauf anlegen, sich oder einen Dritten unrechtmässig zu bereichern. Eventualabsicht genügt ([BGE 142 IV 346 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html)). Beim Churning ist die Bereicherungsabsicht regelmässig gegeben, da der Vermögensverwalter die Kommissionen gerade durch die pflichtwidrigen Transaktionen erzielen will.
 
-- **Verbleib von Retrozessionen bei der juristischen Person**: Verbleiben verdeckt vereinnahmte Retrozessionen oder Provisionen im Vermögen der vertretenen Körperschaft oder Gesellschaft selbst und fliessen sie nicht an die Organe persönlich oder ihnen nahestehende Dritte ab, fehlt den Organpersonen der persönliche Bereicherungsvorsatz für die Qualifikation nach Ziff. 1 Abs. 3 StGB ([BGer 7B_57/2025 vom 26. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025)). Eine Einstellungsverfügung nach Art. 319 Abs. 1 lit. b StPO hinsichtlich des qualifizierten Tatbestands ist in solchen Konstellationen bundesrechtskonform.
+- **Verbleib von Retrozessionen im Vereinsvermögen — Abgrenzung zum klassischen Vermögensverwaltungsmandat**: Leitungsorgane einer internationalen Transport-Association (B.________), die das TIR-Carnet-System administriert, hatten von den Versicherern verdeckte Retrozessionen (40 % der Prämien aus der Versicherung 31/32) und Profit-Sharing-Vereinbarungen (bis 50 % der globalen Versicherungsprämie) bezogen und diese in den Preis der TIR-Carnets einkalkuliert. Die Geldflüsse verblieben jedoch innerhalb der Sphäre der Institution und dienten deren satzungsgemässen Zwecken (Reservenbildung, Innovation, Expansion); eine persönliche Bereicherung der Organmitglieder oder externer Dritter war nicht erstellt. Das Bundesgericht bestätigte die Einstellung des Verfahrens nach Art. 319 Abs. 1 lit. b StPO hinsichtlich Betrug (Art. 146 StGB) und Missbrauch der Vertretungsmacht (Art. 158 Ziff. 2 StGB), da der subjektive Tatbestand — namentlich die Bereicherungsabsicht — nicht verwirklicht war. Die Frage der Informationspflicht und allfälliger Rückzahlungsansprüche der Mitgliedsverbände ist zivilrechtlicher Natur ([BGer 7B_57/2025 vom 26. August 2026 E. 2.3, 2.4.2, 2.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-57-2025_2026-08-26.html#consideration_2.4.2)).
+
+> «[I]l n'était pas établi que les concernés auraient agi dans un dessein d'enrichissement illégitime, dès lors que les flux financiers litigieux étaient restés dans la sphère d'influence de B.________, et il n'était pas établi que cette dernière aurait eu l'obligation de restituer les commissions ou les participations aux bénéfices aux associations membres [...]. [L]a question de savoir si B.________ devait à ses membres une transparence sur les structures d'assurances mises en place et les flux financiers, ainsi qu'un éventuel remboursement [...] relevait du droit civil» ([BGer 7B_57/2025 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-57-2025_2026-08-26.html#consideration_2.3)).
 
 **Grenzkasuistik: Bereicherungsabsicht**
 
@@ -216,7 +225,7 @@ Handelt der Täter in der **Absicht, sich oder einen andern unrechtmässig zu be
 |---|---|---|
 | Vermögensverwalter generiert durch 54-faches Umschichten des Kundenvermögens Kommissionen von USD 169'900.– | **Ja** — das Einbehalten der Kommissionen war das eigentliche Handlungsziel | [BGE 142 IV 346 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html) |
 | Vermögensverwalter behält Retrozessionen im Gesamtbetrag von CHF 270'542.38 ein, um sein Einkommen zu maximieren | **Ja** — bewusste Verletzung der Informationspflicht zum Zweck der eigenen Bereicherung | [BGer 6B_431/2024 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html) |
-| Verdeckte Retrozessionen/Provisionen verbleiben im Vermögen der Gesellschaft/Institution und fliessen Organen nicht persönlich zu | **Nein** — Organe handeln ohne persönlichen Bereicherungsvorsatz (Bestätigung der Teileinstellung nach Art. 319 StPO) | [BGer 7B_57/2025 vom 26.08.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025) |
+| Verdeckte Retrozessionen/Provisionen verbleiben im Vermögen der Institution (Verbandsstruktur) und fliessen Organen nicht persönlich zu | **Nein** — Organe handeln ohne persönlichen Bereicherungsvorsatz; Einstellung nach Art. 319 Abs. 1 lit. b StPO bundesrechtskonform | [BGer 7B_57/2025 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-57-2025_2026-08-26.html#consideration_2.4.2) |
 | Bankangestellte nehmen Zuwendungen von Immobiliengesellschaft, ohne dass geschäftsschädigendes Verhalten nachgewiesen ist | **Nein** — blosse Zuwendungsannahme ohne pflichtwidrige Disposition genügt nicht | [BGE 129 IV 124 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-124_2003.html) |
 
 ### G. Geschäftsführer ohne Auftrag (Ziff. 1 Abs. 2)

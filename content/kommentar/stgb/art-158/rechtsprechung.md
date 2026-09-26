@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 158 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: "2026-09-25"
+lastmod: "2026-09-26"
 description: "Übersicht der Rechtsprechung zu Art. 158 StGB — Ungetreue Geschäftsbesorgung: Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Vermögensschaden, Geschäftsführerstellung, Missbrauch der Vertretungsmacht, Liquidatorpflichtverletzung, Bereicherungsabsicht."
-tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht"]
+tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Korrektur von BGer 7B_57/2025: Dogmatische Zuordnung zu Art. 158 Ziff. 2 StGB und Art. 146 StGB (nicht Ziff. 1 Abs. 3); Sachverhalt mit TIR-Carnet-Kontext; Link auf entscheidsuche.ch korrigiert."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -136,10 +141,10 @@ revisions:
 
 ---
 
-### [BGer 7B_57/2025 vom 26. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.08.2026_7B_57/2025) — Bereicherungsabsicht bei verdeckten Retrozessionen und Verbleib im Gesellschaftsvermögen
-- **Sachverhalt**: Gegen Organe einer Vermögensverwaltungsgesellschaft bzw. Institution wurde ein Strafverfahren wegen mehrfacher qualifizierter ungetreuer Geschäftsbesorgung (Art. 158 Ziff. 1 Abs. 3 StGB) geführt, weil von Depotbanken verdeckte Retrozessionen und Provisionen vereinnahmt wurden. Die Gelder flossen jedoch nicht den beschuldigten Organpersonen persönlich zu, sondern verblieben ungeschmälert im Vermögen der juristischen Person. Die Staatsanwaltschaft stellte das Verfahren bezüglich der qualifizierten Tatbestandsvariante (Handeln in Bereicherungsabsicht) nach Art. 319 Abs. 1 lit. b StPO ein.
-- **Kernaussage**: Die Qualifikation der ungetreuen Geschäftsbesorgung nach Art. 158 Ziff. 1 Abs. 3 StGB setzt voraus, dass der Täter in der Absicht handelt, sich oder einen Dritten unrechtmässig zu bereichern. Verbleiben verdeckte Retrozessionen im Vermögen der juristischen Person selbst und fliessen sie nicht an die handelnden Organe ab, fehlt diesen der persönliche Bereicherungsvorsatz. Die Einstellungsverfügung nach Art. 319 Abs. 1 lit. b StPO wegen Fehlens des subjektiven Tatbestands der qualifizierten ungetreuen Geschäftsbesorgung ist bundesrechtskonform.
-- **Einschlägig für**: Art. 158 Ziff. 1 Abs. 3 StGB i.V.m. Art. 319 Abs. 1 lit. b StPO (Bereicherungsabsicht, Retrozessionen, Einstellungsverfügung).
+### [BGer 7B_57/2025 vom 26. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-57-2025_2026-08-26.html#consideration_2.4.2) — Bereicherungsabsicht bei verdeckten Retrozessionen in Verbandsstrukturen; Abgrenzung zum Vermögensverwaltungsmandat
+- **Sachverhalt**: B.________, eine schweizerische Association mit Sitz in Genf, administriert das internationale TIR-Transitsystem und gibt die TIR-Carnets heraus, die sie an nationale Mitgliedsverbände — darunter die Beschwerdeführerin A.________ — weiterverkauft. Das System beruht auf einer doppelten Versicherungsstruktur: einer globalen Versicherung (von B.________ abgeschlossen) und der Versicherung 31/32 (von den nationalen Verbänden abgeschlossen). Beide Versicherungszweige waren von verdeckten Retrozessions- und Profit-Sharing-Vereinbarungen durchsetzt: über die Gesellschaft H.________ Ltd wurden 40 % der Prämien aus der Versicherung 31/32 an B.________ rücktransferiert (1995–2015 rund 93 Mio. Franken); über Addenda mit den globalen Versicherern wurde bis zu 50 % der Prämie als Profit-Sharing an B.________ rückgegeben (rund 56,7 Mio. Franken). Die Mitgliedsverbände hatten von diesen Rückvergütungen keine Kenntnis; die Prämien waren vollständig in den Carnet-Preis einkalkuliert. Die Geldflüsse verblieben in der Sphäre von B.________ und dienten der Reservenbildung sowie den institutionellen Zwecken (Innovation, Expansion). Eine persönliche Bereicherung der Leitungsorgane war nicht erstellt; die meisten der inkriminierten Organe waren erst 2013 ernannt worden und am Aufbau des Systems (seit 1995) nicht beteiligt. Die Staatsanwaltschaft stellte das Verfahren nach Art. 319 Abs. 1 lit. b StPO ein; die Genfer Strafkammer bestätigte dies am 4. Dezember 2024.
+- **Kernaussage**: Das Bundesgericht bestätigt die Einstellung des Verfahrens hinsichtlich Betrug (Art. 146 StGB) und Missbrauch der Vertretungsmacht (Art. 158 Ziff. 2 StGB). Der subjektive Tatbestand — namentlich die Bereicherungsabsicht — ist nicht verwirklicht, wenn die inkriminierten Geldflüsse innerhalb der Sphäre der Institution verbleiben und deren satzungsgemässen Zwecken zugeführt werden, ohne dass eine persönliche Bereicherung der Organmitglieder oder externer Dritter erstellt ist. Die Frage, ob die Institution ihren Mitgliedsverbänden eine Informations- und Rückzahlungspflicht trifft, ist durch die Convention und das interne Vertragsgeflecht geregelt und damit zivilrechtlicher Natur — eine Abgrenzung, die den unterschiedlichen Treuepflichtstrukturen in Verbands- versus Mandatsverhältnissen Rechnung trägt und sich von BGE 144 IV 294 (klassisches Vermögensverwaltungsmandat) abgrenzt. Der Grundsatz *in dubio pro duriore* steht der Einstellung nicht entgegen, da eine Verurteilung nicht wahrscheinlicher als ein Freispruch erscheint; die Kognition des Bundesgerichts bei Einstellungsverfügungen ist auf die Willkürprüfung beschränkt.
+- **Einschlägig für**: Art. 158 Ziff. 2 StGB, Art. 146 StGB, Art. 319 Abs. 1 lit. b StPO (Bereicherungsabsicht, Retrozessionen, Verbandsstrukturen, Einstellungsverfügung, *in dubio pro duriore*, Abgrenzung Strafrecht/Zivilrecht).
 
 ---
 
