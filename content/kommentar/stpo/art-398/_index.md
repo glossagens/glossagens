@@ -2,11 +2,16 @@
 title: "Art. 398 StPO — Zulässigkeit und Berufungsgründe"
 weight: 398
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: "2026-09-26"
 description: "Kommentar zu Art. 398 StPO – Zulässigkeit und Berufungsgründe: Anfechtungsobjekte (Abs. 1), umfassende Kognition des Berufungsgerichts (Abs. 2), Berufungsgründe (Abs. 3), Kognitionsbeschränkung bei Übertretungen (Abs. 4) und Zivilpunkt (Abs. 5)."
 tags: ["StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Zivilpunkt", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: "2026-09-26"
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_154/2026 (Berufungskognition bei Übertretungen: willkürliche Beiseitelegung von Tatsachenfeststellungen als rechtliche Qualifikation); Gesetzestext via Fedlex, Zitat und Fundstelle via entscheidsuche verifiziert."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -62,9 +67,15 @@ revisions:
 
 ## Abs. 4 und Abs. 5 — Kognitionsbeschränkungen bei Übertretungen und Zivilpunkt
 
-**Rz. 5** **Eingeschränkte Kognition bei reinen Übertretungsurteilen (Abs. 4):** Bildeten ausschliesslich Übertretungen (Bussendelikte) den Gegenstand des Verfahrens, ist die Berufung kognitionsmässig stark beschnitten:
+**Rz. 5** **Eingeschränkte Kognition bei reinen Übertretungsurteilen (Abs. 4):** Bilden ausschliesslich Übertretungen (Bussendelikte) den Gegenstand des Verfahrens, ist die Berufung kognitionsmässig stark beschnitten:
 1. Sachverhaltsrügen sind nur unter dem Gesichtspunkt der **offensichtlichen Unrichtigkeit (Willkür)** zulässig;
 2. **Strikter Novenausschluss:** Neue Tatsachenbehauptungen und Beweismittel sind ausnahmslos unzulässig ([BGE 147 IV 127](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-127_2021.html) E. 2.1; [BGE 150 IV 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-417_2024.html) E. 2.2).
+
+**Rz. 5a** **Grenzen der erstinstanzlichen Beweiswürdigung bei Übertretungen:** Das Berufungsgericht kann zwar die erstinstanzliche Beweiswürdigung durch eine eigene, nicht willkürliche Würdigung ersetzen — die nicht willkürlichen Feststellungen der Berufungsinstanz haben Vorrang vor denjenigen der ersten Instanz. Es muss dabei jedoch die Grenzen des Willkürmassstabs strikt einhalten: Stuft es Tatsachenfeststellungen als rechtliche Qualifikation ein und legt es sie deshalb beiseite, so überschreitet es seinen Ermessensspielraum. Das Bundesgericht hat dies in [6B_154/2026 vom 9. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-154-2026_2026-09-09.html) E. 3.3 am Beispiel eines AFC-Untersuchungsberichts klargestellt, der sich zur Frage geäussert hatte, ob der Beschwerdeführer eine bewusste Hinterziehungsabsicht hatte — eine innere Tatsache, keine juristische Qualifikation:
+
+> «La Cour cantonale a ainsi arbitrairement écarté ce rapport en qualifiant de juridique les considérations en cause de l'enquêteur. En outre, elle a aussi remis en question l'appréciation des preuves effectuée par le Tribunal de police concernant les éléments pris en compte pour juger du caractère intentionnel, comme l'absence de mobile ou le fait que le recourant n'ait pas perçu en liquidité de dividende, en substituant sa propre appréciation à celle de l'autorité précédente, sans en expliquer le caractère insoutenable. Sur ce point, la Cour cantonale n'a pas exercé son pouvoir d'appréciation dans les limites imposées par l'art. 398 al. 4 CPP.»
+
+Im gleichen Entscheid präzisiert das Bundesgericht ausserdem die Abgrenzung zwischen inneren Tatsachen (Tatfragen, die nach Art. 105 Abs. 1 BGG binden, ausser bei Willkür) und der rechtlichen Subsumtion unter die Vorsatz- und Fahrlässigkeitsbegriffe (Rechtsfrage): was eine Person gewusst, gewollt oder in Kauf genommen hat, ist Tatfrage; ob dies Vorsatz oder Fahrlässigkeit begründet, ist Rechtsfrage (E. 3.1.2, unter Verweis auf BGE 150 IV 433 E. 6.10.1 und BGE 149 IV 57 E. 2.2). Für die Praxis bedeutet dies, dass das Berufungsgericht bei Übertretungssachen den Untersucherbericht oder vergleichbare Tatsachenfeststellungen zur inneren Tatseite nicht als rechtliche Aussage umdeuten darf, um sie auszuscheiden.
 
 **Rz. 6** **Überprüfung des Zivilpunkts (Abs. 5):** Beschränkt sich die Berufung auf zivilrechtliche Schadenersatz- oder Genugtuungsforderungen, gelten die Dispositionsmaxime und das Rügeprinzip der Schweizerischen Zivilprozessordnung (ZPO; [BGer 6B_606/2018 vom 12. Juli 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-606-2018_2019-07-12.html) E. 2.2).
 

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 398 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: "2026-09-26"
 description: "Übersicht der Rechtsprechung zu Art. 398 StPO – Zulässigkeit der Berufung, umfassende Kognition, Berufungsgründe, Beschränkungen bei Übertretungen und Zivilpunkt."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: "2026-09-26"
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_154/2026 (Berufungskognition bei Übertretungen: willkürliche Beiseitelegung von Tatsachenfeststellungen als rechtliche Qualifikation); Fundstelle via entscheidsuche verifiziert."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -61,6 +66,11 @@ revisions:
 - **Thema**: Rüge der unvollständigen Sachverhaltsfeststellung (Abs. 3 lit. b)
 - **Kernaussage**: Hat die Vorinstanz relevante Beweisanträge willkürlich abgewiesen, liegt eine unvollständige Sachverhaltsfeststellung vor, die im Berufungsverfahren zu beheben ist.
 
+### [BGer 6B_154/2026 vom 09.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-154-2026_2026-09-09.html) E. 3.3
+- **Thema**: Grenzen der Berufungskognition bei Übertretungen (Abs. 4)
+- **Kernaussage**: Das Berufungsgericht darf bei Übertretungssachen die Beweiswürdigung der ersten Instanz durch eine eigene, nicht willkürliche Würdigung ersetzen; stuft es jedoch Tatsachenfeststellungen zur inneren Tatseite (hier: Äusserungen eines AFC-Untersuchers zur Hinterziehungsabsicht) als rechtliche Qualifikation ein und legt es sie deshalb beiseite, überschreitet es seinen Ermessensspielraum nach Art. 398 Abs. 4 StPO willkürlich. Innere Tatsachen (Wissen, Wollen, Inkaufnahme) sind Tatfragen, die das Bundesgericht binden — ausser bei Willkür —, während die Subsumtion unter Vorsatz- und Fahrlässigkeitsbegriffe Rechtsfrage ist (E. 3.1.2).
+- **Einschlägig für**: Abs. 4
+
 ---
 
 ## III. Entscheide des Bundesstrafgerichts und kantonaler Gerichte
@@ -114,4 +124,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-30*
+*Letzte Aktualisierung: 2026-09-26*
