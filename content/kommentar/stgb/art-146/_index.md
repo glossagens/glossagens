@@ -2,11 +2,16 @@
 title: "Art. 146 StGB — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-09-25
-description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, umfassender Exkurs zur COVID-19-Kreditrechtsprechung (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Motivationszusammenhang und Schadenskongruenz (BGer 6B_85/2026), Beweis innerer Tatsachen (Erfüllungswille) sowie taktische Merksätze für die Praxis."
-tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel"]
+lastmod: 2026-09-26
+description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Kreditrechtsprechung, Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
+tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung zur Täuschung durch Unterlassen bei Retrozessionen: Garantenstellung des Vermögensverwalters aus Art. 400 Abs. 1 OR (BGer 6S.23/2002, BGE 144 IV 294 E. 3.3); Arglistenerfordernis bei verdeckten Vergütungen und Konkurrenz zu Art. 158 StGB in Abschnitten A.2 und N."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -117,6 +122,10 @@ Das folgende Raster stellt die dogmatischen Tatbestandsmerkmale in ihrer verbind
 
 #### 2. Täuschung durch Verschweigen und Garantenstellung
 **6** Ein blosses Nichtaufklären erfüllt den Tatbestand nur, wenn den Täuschenden eine **Rechtspflicht zur Aufklärung** trifft (Garantenstellung aus Gesetz, Vertrag oder Ingerenz). Im Sozialhilferecht begründet etwa § 11 des kantonalen Sozialhilfegesetzes eine gesetzliche Meldepflicht: Wer als Unterstützter Erwerbseinkommen erzielt und dies der Fürsorgebehörde verschweigt, täuscht durch pflichtwidriges Unterdrücken wahrer Tatsachen ([LU OG 21 04 174 / LGVE 2005 I Nr. 54](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_21-04-174_2004-11-23.html)).
+
+> **Fall aus der Praxis: Garantenstellung des Vermögensverwalters bei Retrozessionen**  
+> Das Organ einer Vermögensverwaltungsgesellschaft nimmt gegenüber den Kunden eine vertraglich und gesetzlich (Art. 400 Abs. 1 i.V.m. Art. 398 Abs. 2 OR) begründete Garantenstellung ein. Das Verheimlichen von Retrozessionen und Vergütungen der Depotbank unter Verletzung der auftragsrechtlichen Rechenschaftspflicht kann daher eine Täuschung durch Unterlassen darstellen ([BGer 6S.23/2002 vom 8. April 2002 E. 2c](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6S-23-2002_2002-04-08.html); [BGE 144 IV 294 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)).  
+> **Rückbindung an das Merkmal**: Allerdings setzt Art. 146 StGB auch beim Begehen durch Unterlassen zwingend **Arglist** voraus: Das blosse Verschweigen erfüllt den Betrugstatbestand regelmässig nicht (sondern begründet ungetreue Geschäftsbesorgung nach [Art. 158 Ziff. 1 StGB](../art-158/)), es sei denn, der Verwalter täuscht den Kunden durch manipulierte Depotauszüge, gefälschte Kostenabrechnungen oder ein eigentliches Lügengebäude aktiv über die Kostenstruktur und hält ihn so von Überprüfungen ab.
 
 #### 3. Konkludente Täuschung bei Schadenmeldungen
 **7** Bei der Geltendmachung von Versicherungsleistungen erklärt der Versicherungsnehmer mit Einreichung der Schadenanzeige konkludent, dass das versicherte Ereignis tatsächlich im versicherten Zeitraum eingetreten sei und kein vorbestandener Mangel vorliege.
@@ -401,7 +410,7 @@ Kantonale Beschwerdekammern (z.B. Zürich, Aargau) ziehen eine strikte Grenze be
 | **[Art. 148 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_148) (Kreditkartenmissbrauch)** | Spezialität (Art. 148 geht vor) | Wer eine echte Kreditkarte trotz Zahlungsunfähigkeit missbraucht, fällt ausschliesslich unter Art. 148 StGB ([BGE 127 IV 68 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-127-IV-68_2001-02-19.html#consideration_2.c)). |
 | **[Art. 148a StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_148a) (Unrechtmässiger Leistungsbezug)** | Echte Subsidiarität | Art. 148a StGB ist Auffangtatbestand für Sozialhilfe-/Versicherungsbezug ohne Arglist. Liegt Arglist vor, geht Art. 146 StGB vor. |
 | **[Art. 149 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_149) (Zechprellerei)** | Subsidiarität | Greift nur bei Beherbergung/Verköstigung ohne arglistige Täuschung ([BGE 125 IV 124 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-IV-124_1999-01-22.html#consideration_2.c)). |
-| **[Art. 158 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_158) (Ungetreue Geschäftsbesorgung)** | Echte Konkurrenz möglich | Schutzgut ist die Treuepflicht; Betrug erfordert die deliktsspezifische Täuschung mit Stoffgleichheit. |
+| **[Art. 158 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_158) (Ungetreue Geschäftsbesorgung)** | Echte Konkurrenz möglich | Schutzgut ist die Treuepflicht; Betrug erfordert Täuschung mit Stoffgleichheit. Bei verheimlichten Retrozessionen scheidet Betrug mangels Arglist regelmässig aus (Art. 158 StGB geht vor); treten aktive Täuschungshandlungen (z.B. manipulierte Depotauszüge) hinzu, besteht echte Konkurrenz zwischen Art. 146 StGB und Art. 158 Ziff. 1 Abs. 3 StGB ([BGer 6S.23/2002 E. 2c](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6S-23-2002_2002-04-08.html); [BGE 144 IV 294 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)). |
 | **[Art. 251 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_251) (Urkundenfälschung)** | Echte Konkurrenz (Idealkonkurrenz) | Dient die gefälschte Urkunde als Täuschungsmittel beim Betrug, stehen beide Delikte in echter Realkonkurrenz ([BGE 122 IV 246 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-122-IV-246_1996-09-27.html#consideration_3.a); [BGE 151 IV 201 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-201_2025.html#consideration_2.4)). |
 
 ---

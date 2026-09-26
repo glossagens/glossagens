@@ -2,11 +2,16 @@
 title: "Art. 138 StGB — Veruntreuung"
 weight: 138
 date: 2026-09-05
-lastmod: "2026-09-05"
-description: "Praxiskommentar zu Art. 138 StGB: Aneignung anvertrauter beweglicher Sachen (Ziff. 1 Abs. 1), unrechtmässige Verwendung anvertrauter Vermögenswerte (Ziff. 1 Abs. 2), Bereicherungsabsicht, Ersatzfähigkeit, Qualifikation (Ziff. 2) und Abgrenzung zu Betrug, Unterschlagung und ungetreuer Geschäftsbesorgung — mit zweiseitiger Grenzkasuistik zu Anvertrautsein, Werterhaltungspflicht und Vereitelungshandlung."
-tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "Anvertraut", "Werterhaltungspflicht", "Bereicherungsabsicht", "Qualifikation", "Berufsbeistand", "Leasing", "Buchgeld", "Besonderer Teil"]
+lastmod: "2026-09-26"
+description: "Praxiskommentar zu Art. 138 StGB: Aneignung anvertrauter beweglicher Sachen (Ziff. 1 Abs. 1), unrechtmässige Verwendung anvertrauter Vermögenswerte (Ziff. 1 Abs. 2), Bereicherungsabsicht, Ersatzfähigkeit, Qualifikation (Ziff. 2) und Abgrenzung zu Betrug, Unterschlagung und ungetreuer Geschäftsbesorgung (keine Veruntreuung bei Retrozessionen) — mit zweiseitiger Grenzkasuistik zu Anvertrautsein, Werterhaltungspflicht und Vereitelungshandlung."
+tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "Anvertraut", "Werterhaltungspflicht", "Bereicherungsabsicht", "Qualifikation", "Berufsbeistand", "Leasing", "Buchgeld", "Retrozessionen", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung der dogmatischen Einordnung von Retrozessionen: Ausschluss von Art. 138 StGB mangels Anvertrautseins und Werterhaltungspflicht (blosse schuldrechtliche Ablieferungsschuld aus Art. 400 Abs. 1 OR; BGE 133 IV 21 E. 6.2); Abgrenzung zu Art. 158 StGB (BGE 144 IV 294) in C.2, G.3 und den Praxishinweisen."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -126,9 +131,10 @@ Die Gutsveruntreuung setzt eine **Werterhaltungspflicht** voraus. Wer Vermögens
 | Beistandschaft: Verwaltung fremder Guthaben | Ja — gesetzliche Treuhandpflicht ([BGer 6B_224/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)) | — |
 | Darlehen zu Spielzwecken | — | Nein — blosse Zweckvereinbarung ohne Treuhand ([BGE 129 IV 257](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-257_2003.html)) |
 | Täuschungsbedingte Gegenleistung aus Kaufvertrag | — | Nein — keine Treuhand, sondern synallagmatische Gegenleistung ([BGE 133 IV 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html)) |
+| Retrozessionen / Provisionen von Drittbanken an Vermögensverwalter | — | Nein — kein Anvertrautsein im Verhältnis zum Kunden; blosse schuldrechtliche Ablieferungspflicht (Art. 400 Abs. 1 OR); ungetreue Geschäftsbesorgung ([Art. 158 StGB](../art-158/)), nicht Veruntreuung ([BGE 133 IV 21 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html); [BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)) |
 | Darlehensvertrag zwischen Beistand und verbeiständeter Person ohne KESB-Genehmigung | Ja — Schwebezustand bis zur Genehmigung der KESB; der Beistand ist nicht berechtigt, über die Guthaben zu verfügen ([BGer 6B_224/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)) | — |
 
-> **Leitsatz.** Eine Werterhaltungspflicht entsteht nur aus einer Treuhandbeziehung oder einer vergleichbaren vertraglichen Zweckbindung. Blosse Zweckvereinbarungen bei Darlehen (Art. 513 OR) und täuschungsbedingte Gegenleistungen aus zweiseitigen Verträgen begründen keine Werterhaltungspflicht.
+> **Leitsatz.** Eine Werterhaltungspflicht entsteht nur aus einer Treuhandbeziehung oder einer vergleichbaren vertraglichen Zweckbindung. Blosse Zweckvereinbarungen bei Darlehen (Art. 513 OR), synallagmatische Gegenleistungen und schuldrechtliche Ablieferungspflichten bei Retrozessionen (Art. 400 Abs. 1 OR) begründen keine Werterhaltungspflicht nach Art. 138 StGB.
 
 #### C.3 Vereitelungshandlung
 
@@ -185,31 +191,30 @@ Betrug und Veruntreuung schliessen sich nicht gegenseitig aus. Der Betrug erford
 
 Die ungetreue Geschäftsbesorgung erfordert eine Geschäftsführungsbefugnis und einen Pflichtverstoss, der den Treugeber schädigt. Die Veruntreuung setzt — bei der Sachveruntreuung — eine Aneignungshandlung voraus und — bei der Gutsveruntreuung — eine Vereitelungshandlung. Wo der Täter fremdes Geld nicht aneignet oder vereitelt, sondern «lediglich» pflichtwidrig verwaltet, kommt ungetreue Geschäftsbesorgung in Betracht. Im Fall BGer 7B_758/2025 wurde der Beschwerdeführer neben gewerbsmässigem Betrug und mehrfacher Veruntreuung auch der ungetreuen Geschäftsbesorgung (handelnd mit unrechtmässiger Bereicherungsabsicht) schuldig gesprochen — die Tatbestände stehen zueinander im Verhältnis der Tatmehrheit, soweit sie unterschiedliche Rechtsgüter oder Handlungen erfassen ([BGer 7B_758/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-758-2025_2026-07-22.html)).
 
+**Retrozessionen im Vermögensverwaltungsrecht:** Bei der Nicht-Weitergabe von Retrozessionen durch Vermögensverwalter wird in der Praxis regelmässig Strafanzeige wegen Veruntreuung (Art. 138 Ziff. 1 Abs. 2 StGB) erstattet. Nach ständiger Rechtsprechung und Lehre scheidet Art. 138 StGB jedoch aus: Die von Drittbanken oder Fondsleitungen an den Vermögensverwalter ausgerichteten Vergütungen sind keine dem Kunden «anvertrauten» Vermögenswerte ([BGE 133 IV 21 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html)). Zwischen dem Dritten und dem Verwalter besteht keine Treuhandabrede zugunsten des Kunden; der Kunde hat lediglich einen schuldrechtlichen Herausgabeanspruch nach Art. 400 Abs. 1 OR. Die Nichterfüllung einer blossen Geldschuld begründet keine Werterhaltungspflicht an fremdem Gut. Die strafrechtliche Relevanz beurteilt sich ausschliesslich nach [Art. 158 StGB](../art-158/) (ungetreue Geschäftsbesorgung durch Verschweigen; [BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html); [BGer 6B_431/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html)). Eine Veruntreuung käme nur dann in Betracht, wenn Retrozessionen bereits dem Kundenkonto gutgeschrieben worden wären und der Verwalter sie mittels Kontovollmacht unberechtigt auf eigene Konti transferiert hätte.
+
 ### H. Praxishinweise
 
 **Für die beschuldigte Person und ihre Verteidigung:**
 
 1. Das Anvertrautsein prüfen: Fehlt das Vertrauensverhältnis, kommt nur Unterschlagung (Art. 137 StGB) in Betracht — mit niedrigerem Strafrahmen. Die Verteidigung hat darzulegen, dass keine faktische Verfügungsbefugnis ohne Mitwirkung des Treugebers bestand ([BGE 143 IV 297 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-297_2017.html)).
-
 2. Die Werterhaltungspflicht bestreiten: Bei Darlehen und zweiseitigen Verträgen ist zu prüfen, ob eine Treuhandbeziehung vorliegt. Blosse Zweckvereinbarungen (Art. 513 OR) und täuschungsbedingte Gegenleistungen aus Kaufverträgen begründen keine Werterhaltungspflicht ([BGE 129 IV 257 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-257_2003.html); [BGE 133 IV 21 E. 6, 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html)).
-
-3. Die Ersatzfähigkeit substanziiert darlegen: Ersatzfähigkeit verlangt griffbereite eigene Mittel. Ein Hypothekarkredit, auf den kein Anspruch besteht, genügt nicht ([BGE 118 IV 27 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-27_1992-03-13.html)). Ist die wirtschaftliche Lage desolat, fehlt die Ersatzfähigkeit selbst bei vorhandenem Ersatzwillen ([BGer 6B_224/2024 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
-
-4. Die Qualifikation (Ziff. 2) nur bejahen, wenn die Tat in Ausübung der Funktion begangen wurde — nicht bereits bei blosser Innehabung der Vertrauensstellung.
+3. Bei Strafanzeigen wegen Retrozessionen Art. 138 StGB abwehren: Retrozessionen von Dritten sind keine anvertrauten Gelder; der Vorwurf der Veruntreuung greift ins Leere ([BGE 133 IV 21 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html)). Verteidigungslinie muss auf die Voraussetzungen von Art. 158 StGB (Aufklärung, Verzicht, fehlende Garantenstellung bei Execution-only) ausgerichtet sein.
+4. Die Ersatzfähigkeit substanziiert darlegen: Ersatzfähigkeit verlangt griffbereite eigene Mittel. Ein Hypothekarkredit, auf den kein Anspruch besteht, genügt nicht ([BGE 118 IV 27 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-27_1992-03-13.html)). Ist die wirtschaftliche Lage desolat, fehlt die Ersatzfähigkeit selbst bei vorhandenem Ersatzwillen ([BGer 6B_224/2024 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
+5. Die Qualifikation (Ziff. 2) nur bejahen, wenn die Tat in Ausübung der Funktion begangen wurde — nicht bereits bei blosser Innehabung der Vertrauensstellung.
 
 **Für die Strafverfolgungsbehörden:**
 
 1. Das Anvertrautsein ist weit zu verstehen: Es genügt, dass der Täter ohne Mitwirkung des Treugebers über die Werte verfügen kann. Auch bei Beistandschaften umfasst das Anvertrautsein alle Guthaben, auf die der Beistand aufgrund der Ernennungsurkunde Zugriff hat — auch ausländische Konti ([BGer 6B_224/2024 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
-
-2. Bei Buchgeld genügt als Vereitelungshandlung die pflichtwidrige Abbuchung — es ist nicht erforderlich, dass der Täter die Guthaben verschleiert oder transferiert ([BGer 6B_224/2024 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html), mit Hinweis auf NIGGLI/RIEDO, Basler Kommentar, N. 108 zu Art. 138 StGB).
-
-3. Die fehlende Ersatzfähigkeit ist bei desolater Finanzlage des Beschuldigten naheliegend — sie entlastet nicht, sondern belastet, weil sie die unrechtmässige Bereicherungsabsicht begründet ([BGE 118 IV 27 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-27_1992-03-13.html); [BGer 6B_224/2024 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
+2. Keine Anklage wegen Veruntreuung bei Retrozessionen: Die Einbehaltung von Retrozessionen durch Vermögensverwalter ist nicht nach Art. 138 StGB, sondern als ungetreue Geschäftsbesorgung ([Art. 158 Ziff. 1 Abs. 1 und 3 StGB](../art-158/)) anzuklagen ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html); [BGer 6B_431/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html)).
+3. Bei Buchgeld genügt als Vereitelungshandlung die pflichtwidrige Abbuchung — es ist nicht erforderlich, dass der Täter die Guthaben verschleiert oder transferiert ([BGer 6B_224/2024 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html), mit Hinweis auf NIGGLI/RIEDO, Basler Kommentar, N. 108 zu Art. 138 StGB).
+4. Die fehlende Ersatzfähigkeit ist bei desolater Finanzlage des Beschuldigten naheliegend — sie entlastet nicht, sondern belastet, weil sie die unrechtmässige Bereicherungsabsicht begründet ([BGE 118 IV 27 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-118-IV-27_1992-03-13.html); [BGer 6B_224/2024 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
 
 **Für die Zivilparteien (Geschädigte):**
 
 1. Bei Veruntreuung durch Beistände: Die KESB-Genehmigungspflicht für Rechtsgeschäfte zwischen Beistand und verbeiständeter Person (Art. 416 Abs. 3 ZGB) kann als Indiz für die Unrechtmässigkeit der Verwendung dienen. Ein Darlehensvertrag ohne KESB-Genehmigung befindet sich im Schwebezustand und berechtigt den Beistand nicht, über die Guthaben zu verfügen ([BGer 6B_224/2024 E. 1.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-224-2024_2026-07-29.html)).
-
-2. Der Antragsnachweis bei Veruntreuung zum Nachteil von Angehörigen oder Familiengenossen (Ziff. 1 Satz 4) ist zwingend; ohne rechtzeitigen Strafantrag bleibt die Strafverfolgung ausgeschlossen.
+2. Bei Retrozessionen die richtige Straftat anzeigen: Strafanzeigen von Bank- und Vermögensverwaltungskunden sollten primär auf ungetreue Geschäftsbesorgung (Art. 158 StGB) gestützt werden; die Geltendmachung von Art. 138 StGB führt regelmässig zur Teileinstellung.
+3. Der Antragsnachweis bei Veruntreuung zum Nachteil von Angehörigen oder Familiengenossen (Ziff. 1 Satz 4) ist zwingend; ohne rechtzeitigen Strafantrag bleibt die Strafverfolgung ausgeschlossen.
 
 ## Literatur
 

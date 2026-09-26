@@ -2,11 +2,16 @@
 title: "Art. 400 — Rechenschafts- und Herausgabepflicht"
 weight: 400
 date: 2026-09-05
-lastmod: 2026-09-05
-description: "Praxiskommentar zu Art. 400 OR — Rechenschaftsablegung, Herausgabepflicht für alle Vorteile aus der Geschäftsführung, Retrozessionen, Verzinsungspflicht, Verzicht, vorsorgliche Beweisführung, Berufsgeheimnis"
-tags: ["OR", "Auftragsrecht", "Rechenschaft", "Herausgabe", "Retrozessionen", "Verzinsung", "Berufsgeheimnis", "Vorsorgliche Beweisführung", "Vermögensverwaltung"]
+lastmod: 2026-09-26
+description: "Praxiskommentar zu Art. 400 OR — Rechenschaftsablegung, Herausgabepflicht für alle Vorteile aus der Geschäftsführung, Retrozessionen, strafrechtliche Relevanz der Nicht-Weitergabe (Art. 158 StGB), Verzinsungspflicht, Verzicht, vorsorgliche Beweisführung, Berufsgeheimnis"
+tags: ["OR", "Auftragsrecht", "Rechenschaft", "Herausgabe", "Retrozessionen", "Ungetreue Geschäftsbesorgung", "StGB 158", "Verzinsung", "Berufsgeheimnis", "Vorsorgliche Beweisführung", "Vermögensverwaltung"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung der strafrechtlichen Relevanz der Nicht-Weitergabe von Retrozessionen: Ungetreue Geschäftsbesorgung nach Art. 158 Ziff. 1 StGB bei Verschweigen (BGE 144 IV 294, BGer 6B_431/2024); Rechenschaftspflicht als strafrechtliche Garantenpflicht; Schaden durch Nicht-Vermehrung der Aktiven; Ausschluss des Rechtsirrtums seit BGE 132 III 460; Bereicherungsabsicht und Geldwäscherei (BGer 6B_910/2019); Abgrenzung zu Art. 138 StGB (keine Veruntreuung), Art. 146 StGB (Betrug) und Execution-only."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -89,35 +94,52 @@ revisions:
 
 **15** **Verzicht und Kenntnis der Verhältnisse.** Die Voraussetzung der Kenntnis der tatsächlichen Verhältnisse bedeutet, dass der Auftraggeber wissen muss, welche Retrozessionen anfallen, von wem sie stammen und in welcher Höhe sie erwartet werden können. Eine allgemeine Klausel, in der der Auftraggeber «auf alle Retrozessionen verzichtet», ohne dass ihm die konkreten Beträge und Quellen bekannt sind, genügt den Anforderungen nicht ([BGE 137 III 393](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-393_2011-01-01.html) — Voraussetzungen eines ausdrücklichen Verzichts auf Retrozessionen).
 
-#### II.C. Herausgabe von Bucheffekten
+#### II.C. Strafrechtliche Relevanz der Nicht-Weitergabe (Art. 158 StGB)
 
-**16** **Bucheffekten als Herausgabeobjekt.** Bucheffekten können weder vindiziert noch nach den Regeln des Besitzesschutzes herausverlangt werden; eine Rückabwicklung hat nach schuldrechtlichen Grundsätzen zu erfolgen. Die Herausgabepflicht nach Art. 400 Abs. 1 OR umfasst auch Bucheffekten, die der Beauftragte im Rahmen der Vermögensverwaltung erworben hat ([BGE 138 III 137](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-137_2012.html) E. 5.3 — Rechtsnatur und Herausgabe von Bucheffekten; Pflicht zur Herausgabe von Bucheffekten gestützt auf Art. 400 Abs. 1 OR).
+**16** **Strafbarkeit wegen ungetreuer Geschäftsbesorgung bei Verschweigen.** Die zivilrechtliche Rechenschaftspflicht nach Art. 400 Abs. 1 OR ist nicht bloss eine vertragliche Nebenpflicht, sondern eine **qualifizierte strafrechtliche Handlungspflicht (Garantenpflicht)**. Nach der Grundsatzrechtsprechung des Bundesgerichts ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html) E. 3.2–3.3; bestätigt in [BGer 6B_431/2024 vom 10. November 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html) E. 1.3, 3.4) macht sich der Vermögensverwalter oder Beauftragte wegen **ungetreuer Geschäftsbesorgung (Art. 158 Ziff. 1 StGB)** durch pflichtwidriges Unterlassen strafbar, wenn er den Kunden nicht über die von Dritten (z.B. Depotbanken, Fondsgesellschaften) vereinnahmten Vergütungen oder Retrozessionen informiert und diese für sich behält.
 
-#### II.D. Verjährung
+**17** **Dogmatische Begründung: Information als Voraussetzung der Herausforderung.** Die blosse Nichterfüllung einer zivilrechtlichen Herausgabe- oder Geldschuld begründet für sich allein noch keine ungetreue Geschäftsbesorgung ([BGE 129 IV 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-IV-124_2003-04-09.html) E. 4.1). Strafbar wird das Verhalten vielmehr durch das **Verschweigen**: Die Rechenschaftspflicht hat eine präventive Kontrollfunktion. Ohne Information über Anfall und Höhe der Retrozessionen ist der Kunde gar nicht in der Lage, seinen Herausgabeanspruch geltend zu machen. Durch das pflichtwidrige Verschweigen erleidet der Kunde einen strafrechtlichen Vermögensschaden durch **Nicht-Vermehrung der Aktiven** (Lucrum cessans; [BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html) E. 3.2–3.3).
 
-**17** **Verjährungsfrist.** Der Herausgabeanspruch verjährt nach den allgemeinen Regeln (Art. 127 OR: 10 Jahre). Der Beginn der Verjährung (dies a quo) richtet sich nach Art. 130 Abs. 1 OR: die Verjährung beginnt mit der Fälligkeit des Anspruchs. Bei Retrozessionen beginnt die Verjährung grundsätzlich mit dem Zeitpunkt, in dem der Auftraggeber von den Retrozessionen Kenntnis erlangt hat oder hätte erlangen müssen ([BGE 143 III 348](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-348_2017-01-01.html) — Verjährungsfrist und dies a quo der Herausgabeansprüche).
+**18** **Strafbefreiender Verzicht und Ausschluss des Rechtsirrtums.** Ein Verzicht des Kunden auf Retrozessionen schliesst die Strafbarkeit nur dann aus, wenn er den strengen zivilrechtlichen Gültigkeitsanforderungen entspricht: Er muss **ausdrücklich**, **vorab** und mit **Kenntnis der tatsächlichen Grössenordnung und Berechnungsparameter** erklärt werden ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html) E. 4; [BGE 137 III 393](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-III-393_2011-01-01.html) E. 2). Vorformulierte AGB-Klauseln oder pauschale Verzichtserklärungen ohne vorgängige Information sind unwirksam und befreien den Beauftragten nicht von der Strafbarkeit ([BGer 6B_431/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html) E. 3.4.1). Da diese Rechtslage seit dem Leitentscheid [BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html) vom 22. März 2006 publiziert und allgemein bekannt ist, kann sich ein Vermögensverwalter für spätere Handlungen **nicht mehr auf einen schuldausschliessenden Rechts- oder Tatbestandsirrtum (Art. 21 StGB)** berufen ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html) E. 3.4).
 
-#### II.E. Grenzkasuistik: Herausgabepflicht
+**19** **Bereicherungsabsicht und Geldwäschereirisiko.** Behält der Beauftragte die Retrozessionen ein, um das Einkommen seiner Gesellschaft oder sein eigenes zu vermehren, handelt er in Bereicherungsabsicht gemäss **Art. 158 Ziff. 1 Abs. 3 StGB** (Verbrechen mit Strafrahmen bis zu 5 Jahren Freiheitsstrafe). Die deliktisch erlangten Retrozessionen stellen folglich Vermögenswerte aus einem Verbrechen dar und können eine Vortat zur **Geldwäscherei (Art. 305bis StGB)** bilden ([BGer 6B_910/2019 vom 15. Juni 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-910-2019_2020-06-15.html); [BGer 7B_4/2021 vom 28. Juli 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-4-2021_2023-07-28.html)).
 
-| Fallgruppe | Herausgabepflicht? | Begründung |
-|---|---|---|
-| Retrozessionen von konzernfremden Produktanbietern | **Ja** ([BGE 138 III 755](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-755_2012-01-01.html)) | «Aus irgendeinem Grunde» umfasst alle Vorteile |
-| Bestandespflegekommissionen von Konzerngesellschaften | **Ja** ([BGE 138 III 755](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-755_2012-01-01.html)) | Keine Ausnahme für konzerninterne Retrozessionen |
-| Finder's Fees im Vermögensverwaltungsvertrag | **Ja** ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html)) | Alle Vorteile aus der Geschäftsführung |
-| Bucheffekten aus der Vermögensverwaltung | **Ja** ([BGE 138 III 137](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-137_2012.html)) | Schuldrechtliche Herausgabe nach Art. 400 Abs. 1 OR |
-| Allgemeine AGB-Verzichtsklausel auf Retrozessionen | **Nein** — kein wirksamer Verzicht | Nicht ausdrücklich und nicht mit Kenntnis der Verhältnisse ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html)) |
-| Interne Dokumente des Beauftragten | **Teilweise** — soweit für die Geschäftsführung relevant | ([BGE 139 III 49](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-49_2013-01-01.html)) |
-| Vergütung für vertraglich vereinbarte Tätigkeit | **Nein** — nicht «infolge» der Geschäftsführung, sondern vertraglich geschuldet | Die Herausgabepflicht erfasst nur Vorteile, die dem Beauftragten zusätzlich zur vertraglichen Vergütung zufliessen |
+**20** **Abgrenzung zu anderen Tatbeständen:**
+- **Keine Veruntreuung (Art. 138 StGB)**: Retrozessionen sind keine dem Beauftragten «anvertrauten» Vermögenswerte, da die Drittbank sie ihm im eigenen Namen und zur Vergütung seiner Vertriebstätigkeit ausrichtet; es fehlt an einer Treuhandabrede zwischen der Bank und dem Beauftragten zugunsten des Kunden ([BGE 133 IV 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-21_2007.html) E. 6.2).
+- **Betrug durch Unterlassen (Art. 146 StGB)**: Das Verschweigen von Retrozessionen unter Verletzung der auftragsrechtlichen Treuepflicht kann eine Garantenpflicht verletzen ([BGer 6S.23/2002 vom 8. April 2002](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6S-23-2002_2002-04-08.html) E. 2c). Betrug setzt jedoch zusätzlich **Arglist** voraus (z.B. manipulierte Depotauszüge, Verschleierungsmassnahmen oder ein Lügengebäude); blosses Schweigen erfüllt Art. 146 StGB in der Regel nicht.
+- **Privatbestechung (Art. 322octies / Art. 322novies StGB)**: Geheime Rückvergütungen, die gezahlt werden, um den Beauftragten zu einer pflichtwidrigen oder im Ermessen stehenden Bevorzugung bestimmter Finanzprodukte zu veranlassen, können als Privatbestechung strafbar sein, wenn sie nicht vom Auftraggeber genehmigt wurden (Art. 322decies Abs. 1 lit. a StGB).
+- **Execution-only**: Bei reinen Konto-/Depotbeziehungen ohne Beratungs- oder Verwaltungsmandat fehlt die treuhänderische Vermögensfürsorgepflicht, womit keine Pflichten nach Art. 400 OR und keine Strafbarkeit nach Art. 158 StGB begründet werden ([BGer 4A_149/2025 vom 12. Januar 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-149-2025_2026-01-12.html); [HG SG HG.2018.11 vom 12. September 2019](https://entscheidsuche.ch/docs/SG_Gerichte/SG_DEP_999_HG-2018-11_2019-09-12.pdf)).
+
+#### II.D. Herausgabe von Bucheffekten
+
+**21** **Bucheffekten als Herausgabeobjekt.** Bucheffekten können weder vindiziert noch nach den Regeln des Besitzesschutzes herausverlangt werden; eine Rückabwicklung hat nach schuldrechtlichen Grundsätzen zu erfolgen. Die Herausgabepflicht nach Art. 400 Abs. 1 OR umfasst auch Bucheffekten, die der Beauftragte im Rahmen der Vermögensverwaltung erworben hat ([BGE 138 III 137](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-137_2012.html) E. 5.3 — Rechtsnatur und Herausgabe von Bucheffekten; Pflicht zur Herausgabe von Bucheffekten gestützt auf Art. 400 Abs. 1 OR).
+
+#### II.E. Verjährung
+
+**22** **Verjährungsfrist.** Der Herausgabeanspruch verjährt nach den allgemeinen Regeln (Art. 127 OR: 10 Jahre). Der Beginn der Verjährung (dies a quo) richtet sich nach Art. 130 Abs. 1 OR: die Verjährung beginnt mit der Fälligkeit des Anspruchs. Bei Retrozessionen beginnt die Verjährung grundsätzlich mit dem Zeitpunkt, in dem der Auftraggeber von den Retrozessionen Kenntnis erlangt hat oder hätte erlangen müssen ([BGE 143 III 348](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-348_2017-01-01.html) — Verjährungsfrist und dies a quo der Herausgabeansprüche).
+
+#### II.F. Grenzkasuistik: Herausgabepflicht
+
+| Fallgruppe | Herausgabepflicht? | Begründung | Strafrechtliche Relevanz |
+|---|---|---|---|
+| Retrozessionen von konzernfremden Produktanbietern | **Ja** ([BGE 138 III 755](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-755_2012-01-01.html)) | «Aus irgendeinem Grunde» umfasst alle Vorteile | Ungetreue Geschäftsbesorgung (Art. 158 Ziff. 1 StGB) bei Verschweigen ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)) |
+| Bestandespflegekommissionen von Konzerngesellschaften | **Ja** ([BGE 138 III 755](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-755_2012-01-01.html)) | Keine Ausnahme für konzerninterne Retrozessionen | Strafbar bei unterbliebener Aufklärung |
+| Finder's Fees im Vermögensverwaltungsvertrag | **Ja** ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html)) | Alle Vorteile aus der Geschäftsführung | Strafbar bei Verschweigen (Art. 158 StGB) |
+| Bucheffekten aus der Vermögensverwaltung | **Ja** ([BGE 138 III 137](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-137_2012.html)) | Schuldrechtliche Herausgabe nach Art. 400 Abs. 1 OR | Zivilrechtlicher Anspruch |
+| Allgemeine AGB-Verzichtsklausel auf Retrozessionen | **Nein** — kein wirksamer Verzicht | Nicht ausdrücklich und nicht mit Kenntnis der Verhältnisse ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html)) | Kein Strafbarkeitsausschluss; kein Rechtsirrtum ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)) |
+| Reine Execution-only Beziehung ohne Beratung | **Nein** ([BGer 4A_149/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-149-2025_2026-01-12.html)) | Keine Vermögensbetreuungspflicht | Keine Strafbarkeit mangels Garantenstellung |
+| Interne Dokumente des Beauftragten | **Teilweise** — soweit für die Geschäftsführung relevant | ([BGE 139 III 49](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-49_2013-01-01.html)) | Zivilrechtlicher Rechenschaftsanspruch |
+| Vergütung für vertraglich vereinbarte Tätigkeit | **Nein** — nicht «infolge» der Geschäftsführung, sondern vertraglich geschuldet | Die Herausgabepflicht erfasst nur Vorteile, die dem Beauftragten zusätzlich zur vertraglichen Vergütung zufliessen | Zivilrechtlich geschuldet |
 
 ### III. Retentionsrecht und Pfandrecht
 
-**18** **Retentionsrecht des Beauftragten.** Der Beauftragte hat ein **Retentionsrecht** an den herauszugebenden Gegenständen für seine Ansprüche aus dem Auftragsverhältnis (Art. 895 ZGB, Art. 82 OR). Er darf die Herausgabe verweigern, bis der Auftraggeber seine Verbindlichkeiten (Auslagenersatz, Vergütung) erfüllt hat.
+**23** **Retentionsrecht des Beauftragten.** Der Beauftragte hat ein **Retentionsrecht** an den herauszugebenden Gegenständen für seine Ansprüche aus dem Auftragsverhältnis (Art. 895 ZGB, Art. 82 OR). Er darf die Herausgabe verweigern, bis der Auftraggeber seine Verbindlichkeiten (Auslagenersatz, Vergütung) erfüllt hat.
 
-**19** **Missbrauch des Retentionsrechts.** Wer die sofortige Herausgabe von Akten an den Auftraggeber von einer Akontozahlung für offene Honorarforderungen **abhängig macht**, obwohl Prozessfristen laufen und die Akten zur Weiterführung hängiger Gerichtsverfahren dringend benötigt werden, **droht einen ernstlichen Nachteil an** (Art. 181 StGB: Nötigung). Die Geltendmachung des Retentionsrechts kann in solchen Fällen rechtsmissbräuchlich sein und strafrechtlich relevant werden ([BGE 122 IV 322](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-IV-322_1996-01-01.html) — Nötigung; Retentionsrecht; Herausgabe von Akten).
+**24** **Missbrauch des Retentionsrechts.** Wer die sofortige Herausgabe von Akten an den Auftraggeber von einer Akontozahlung für offene Honorarforderungen **abhängig macht**, obwohl Prozessfristen laufen und die Akten zur Weiterführung hängiger Gerichtsverfahren dringend benötigt werden, **droht einen ernstlichen Nachteil an** (Art. 181 StGB: Nötigung). Die Geltendmachung des Retentionsrechts kann in solchen Fällen rechtsmissbräuchlich sein und strafrechtlich relevant werden ([BGE 122 IV 322](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-IV-322_1996-01-01.html) — Nötigung; Retentionsrecht; Herausgabe von Akten).
 
 ### IV. Verzinsungspflicht (Abs. 2)
 
-**20** **Verzinsung rückständiger Gelder.** Gelder, mit deren Ablieferung sich der Beauftragte im Rückstand befindet, hat er zu **verzinsen**. Der Zinslauf beginnt mit dem Zeitpunkt des Verzugs (Art. 104 OR). Der Zinssatz richtet sich nach Art. 104 OR (5 % bei Geschäftskapital). Die Verzinsungspflicht ist eine gesetzliche Folge des Verzugs und bedarf keiner ausdrücklichen Vereinbarung.
+**25** **Verzinsung rückständiger Gelder.** Gelder, mit deren Ablieferung sich der Beauftragte im Rückstand befindet, hat er zu **verzinsen**. Der Zinslauf beginnt mit dem Zeitpunkt des Verzugs (Art. 104 OR). Der Zinssatz richtet sich nach Art. 104 OR (5 % bei Geschäftskapital). Die Verzinsungspflicht ist eine gesetzliche Folge des Verzugs und bedarf keiner ausdrücklichen Vereinbarung.
 
 ### V. Praxishinweise
 
@@ -127,11 +149,12 @@ revisions:
 2. **Stufenklage nutzen**: Wenn der Beauftragte die Auskunft verweigert, kann eine Stufenklage nach Art. 400 Abs. 1 OR i.V.m. Art. 85 ZPO durchgesetzt werden — zuerst Auskunft, dann bezifferte Klage ([4A_404/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-404-2023_2024-05-13.html) E. 3.1).
 3. **Retrozessionen einfordern**: Retrozessionen, Bestandespflegekommissionen und Finder's Fees unterliegen der Herausgabepflicht nach Art. 400 Abs. 1 OR — auch solche von Konzerngesellschaften ([BGE 138 III 755](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-755_2012-01-01.html)).
 4. **Verzicht nur ausdrücklich und vorab**: Ein Verzicht auf Retrozessionen ist nur wirksam, wenn er **ausdrücklich**, **vorab** und mit **Kenntnis der tatsächlichen Verhältnisse** erklärt wird — allgemeine AGB-Klauseln genügen nicht ([BGE 132 III 460](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-460_2006.html) E. 4).
+5. **Strafanzeige als Hebel bei Verschweigen prüfen**: Hat der Vermögensverwalter Retrozessionen verheimlicht und pauschale AGB-Klauseln vorgeschoben, liegt regelmässig eine ungetreue Geschäftsbesorgung (Art. 158 Ziff. 1 Abs. 3 StGB) vor ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html); [BGer 6B_431/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html)). Das Strafverfahren kann über den Adhäsionsprozess (Art. 122 ff. StPO) oder als Druckmittel zur zivilrechtlichen Einigung dienen.
 
 **Für die Beauftragten (Anwälte, Vermögensverwalter, Treuhänder):**
 
-1. **Rechenschaft umfassend und transparent ablelegen**: Die Rechenschaftspflicht umfasst alle Aspekte der Geschäftsführung — including Retrozessionen, Provisionen und Nebeneinkünfte. Eine unvollständige oder ungenaue Rechenschaft kann Schadenersatzansprüche auslösen.
-2. **Retrozessionen offenlegen**: Offenlegung der Retrozessionen ist der sicherste Weg, um spätere Herausgabeansprüche zu vermeiden. Werden Retrozessionen offengelegt und ihr Verzicht ausdrücklich vereinbart, ist der Verzicht wirksam.
+1. **Rechenschaft umfassend und transparent ablelegen**: Die Rechenschaftspflicht umfasst alle Aspekte der Geschäftsführung — einschliesslich Retrozessionen, Provisionen und Nebeneinkünfte. Eine unvollständige oder ungenaue Rechenschaft kann Schadenersatzansprüche auslösen.
+2. **Retrozessionen vorab offenlegen und beziffern**: Offenlegung ist der einzige Weg, um strafrechtliche Risiken (Art. 158 StGB) und zivilrechtliche Rückforderungen zu vermeiden. Ein Verzicht muss vorab die Grössenordnung (in % des Vermögens oder Frankenbeträgen) und Berechnungsgrundlagen benennen. Pauschale AGB-Klauseln bieten seit BGE 132 III 460 keinerlei Schutz vor Strafe ([BGE 144 IV 294](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html) E. 3.4).
 3. **Berufsgeheimnis wahren**: Anwälte müssen bei der Rechenschaftsablegung das Berufsgeheimnis gegenüber Dritten wahren — die Auskunftspflicht gegenüber dem Mandanten hat Vorrang, soweit sie die eigenen Angelegenheiten des Mandanten betrifft ([BGE 135 III 597](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-597_2009-01-01.html)).
 4. **Retentionsrecht nicht missbrauchen**: Die Zurückbehaltung von Akten gegen Akontozahlung bei laufenden Fristen kann als Nötigung strafbar sein ([BGE 122 IV 322](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-IV-322_1996-01-01.html)).
 5. **Verzinsung rückständiger Gelder**: Gelder, mit deren Ablieferung Sie sich im Rückstand befinden, sind ab Verzug mit 5 % zu verzinsen (Art. 104 OR).
@@ -142,6 +165,10 @@ revisions:
 - [Art. 398 OR](../art-398/) — Sorgfaltspflicht
 - [Art. 401 OR](../art-401/) — Forderungs- und Sachenübergang bei Konkurs
 - [Art. 402 OR](../art-402/) — Aufwandersatz und Schadenshaftung
+- [Art. 158 StGB](../../stgb/art-158/) — Ungetreue Geschäftsbesorgung (Verschweigen von Retrozessionen als Treuebruch)
+- [Art. 138 StGB](../../stgb/art-138/) — Veruntreuung (Abgrenzung: Retrozessionen nicht anvertraut)
+- [Art. 146 StGB](../../stgb/art-146/) — Betrug (Garantenpflicht bei Retrozessionen; Arglist)
+- [Art. 305bis StGB](../../stgb/art-305bis/) — Geldwäscherei (Retrozessionen als Deliktsgut bei Art. 158 Ziff. 1 Abs. 3 StGB)
 - Art. 104 OR — Verzugszins
 - Art. 127 OR — Verjährung
 - Art. 130 OR — Beginn der Verjährung
@@ -158,3 +185,5 @@ revisions:
 - Weber, in: Berner Kommentar, OR, Art. 394–406 N. 1 ff.
 - Brehm, in: ZBJV 144 (2008), S. 505 ff. (Rechenschafts- und Herausgabepflicht)
 - Kren Kostkiewicz, in: ZBJV 149 (2013), S. 293 ff. (Retrozessionen im Vermögensverwaltungsrecht)
+- Schubarth, Retrozession und Ungetreue Geschäftsbesorgung, in: Anlagerecht, 2007, S. 169 ff.
+- Schwob, Retrozessionen: Betrachtungen zur strafrechtlichen Relevanz für eine Bank, RPS 130 (2012), S. 121 ff.
