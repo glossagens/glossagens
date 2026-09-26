@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-09-04
-description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht und unentgeltliche Rechtspflege."
-tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "unentgeltliche Rechtspflege"]
+lastmod: 2026-09-26
+description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
+tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 1C_725/2025 (Wiedererwägung betreffend Abbruch eines Gebäudes, 15.09.2026): Grundsatz der fiktiven Vollstreckung bei rechtskräftigen Abbruchentscheiden, Ausstandsrügepflicht aus Treu und Glauben, antizipierte Beweiswürdigung bezüglich Remisen-Gutachten. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -179,3 +184,11 @@ revisions:
 - **Kernaussage**: Die Rüge mangelhafter Urteilsbegründung kann gestützt auf die Star-Praxis von einer in der Sache nicht legitimierten Partei nur erhoben werden, wenn der Entscheid völlig unbegründet ist, nicht aber bei bloss unvollständigen Erwägungen.
 - **Einschlägig für**: Art. 29 Abs. 2 BV; Begründungspflicht; Star-Praxis; Beschwerdelegitimation
 - **Relevante Erwägungen**: E. 2
+
+---
+
+#### [BGer 1C_725/2025 vom 15. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-725-2025_2026-09-15.html)
+- **Thema**: Wiedererwägung eines rechtskräftigen Abbruchentscheids; fiktive Vollstreckung; Ausstandsrügepflicht aus Treu und Glauben
+- **Kernaussage**: Bei einem Wiedererwägungsgesuch gegen einen rechtskräftigen, aber nie umgesetzten Abbruchentscheid ist von der fiktiven Vollstreckung auszugehen (die illegale Baute gilt als abgebrochen); zu prüfen ist, ob an diesem Standort eine gleich dimensionierte Neubaute bewilligt werden könnte. Die blosse Absicht eines Pächters, eine illegal erstellte Baute künftig landwirtschaftlich zu nutzen, stellt für sich allein keinen Wiedererwägungsgrund dar, wenn die betriebliche Notwendigkeit (hier nach Art. 16a Abs. 1 RPG) objektiv nicht dargelegt ist. Die Obliegenheit der unverzüglichen Geltendmachung von Ausstandsgründen ergibt sich aus dem verfassungsrechtlichen Grundsatz von Treu und Glauben (Art. 5 Abs. 3 BV) und gilt auch für Laien, unabhängig von einer ausdrücklichen gesetzlichen Grundlage; ein erst Jahre später erhobener Einwand ist verwirkt.
+- **Einschlägig für**: Art. 29 BV; Wiedererwägungsanspruch; fiktive Vollstreckung; Ausstandsrügepflicht; Treu und Glauben; Art. 5 Abs. 3 BV; antizipierte Beweiswürdigung
+- **Relevante Erwägungen**: E. 3.3, E. 4.2, E. 5.3, E. 6

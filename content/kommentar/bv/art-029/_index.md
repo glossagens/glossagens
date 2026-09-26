@@ -2,11 +2,16 @@
 title: "Art. 29 BV — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-09-04
-description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
-tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit"]
+lastmod: 2026-09-26
+description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
+tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-09-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 1C_725/2025 (Wiedererwägung betreffend Abbruch eines Gebäudes, 15.09.2026): neuer Abschnitt M zum Wiedererwägungsanspruch aus Art. 29 BV mit Grundsatz der fiktiven Vollstreckung bei rechtskräftigen Abbruchentscheiden; ergänzender Hinweis in Abschnitt D zur Ausstandsrügepflicht aus Treu und Glauben und neue Zeile in der Kasuistiktabelle zu Abschnitt G (antizipierte Beweiswürdigung). Zitate und Links via entscheidsuche.ch verifiziert."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -63,6 +68,7 @@ In der Praxis entscheidet Art. 29 BV selten über die materielle Rechtslage, son
 | **8** | **Begründungspflicht & Überraschungsverbot** (Abs. 2) | Ist der Entscheid sachgerecht anfechtbar? Wurde die Partei mit neuen rechtlichen Aspekten überrascht? | Behörde für tragfähige Begründung und vorherige Anhörung | → Abschnitt H |
 | **9** | **Unentgeltliche Rechtspflege** (Abs. 3 Satz 1) | Liegt Bedürftigkeit (Notbedarf) und Nicht-Aussichtslosigkeit des Rechtsbegehrens vor? | Gesuchsteller trägt umfassende Mitwirkungs- und Beleglast | → Abschnitt I |
 | **10** | **Unentgeltlicher Rechtsbeistand** (Abs. 3 Satz 2) | Ist die anwaltliche Vertretung sachlich und rechtlich zur Wahrung der Rechte geboten? | Gesuchsteller für Schwierigkeit der Streitsache / Waffengleichheit | → Abschnitt K |
+| **11** | **Wiedererwägung eines rechtskräftigen Verwaltungsentscheids** (aus Art. 29 BV) | Haben sich die Verhältnisse seit dem Erstentscheid wesentlich geändert, oder waren neue Tatsachen/Beweismittel früher unmöglich geltend zu machen? | Gesuchsteller für substanziierte Darlegung der geänderten Umstände | → Abschnitt M |
 
 ---
 
@@ -175,6 +181,15 @@ In der Kasuistik zieht das Bundesgericht eine strikte Grenze:
 
 > **Merksatz.** Formvorschriften dienen der Rechtssicherheit. Ein Formmangel ist nur dann mittels Nachfrist heilbar, wenn der Partei ein echtes Missgeschick (Auslassung, fehlende Unterschrift) unterlaufen ist. Die Einreichung über ein nicht anerkanntes elektronisches Medium (Mail, Fax) ist kein Versehen und führt zum endgültigen Rechtsverlust.
 
+#### 4. Rügepflicht von Ausstandsgründen aus Treu und Glauben
+Der verfassungsrechtliche Grundsatz von Treu und Glauben (Art. 5 Abs. 3 BV) verpflichtet jede Verfahrenspartei, Ausstandsgründe unverzüglich geltend zu machen, sobald sie davon Kenntnis erhält. Wer sich stillschweigend auf ein Verfahren einlässt und den Einwand erst später — etwa im Rechtsmittelverfahren — vorbringt, verwirkt den Anspruch auf spätere Anrufung der Ausstandsbestimmungen. Diese Obliegenheit besteht unabhängig davon, ob das anwendbare kantonale Verfahrensgesetz sie ausdrücklich vorsieht; sie gilt in der gesamten Rechtsordnung. Die Pflicht zum loyalen Verhalten trifft auch nicht rechtskundige Parteien, wobei für Laien im Einzelnen etwas weniger strenge Massstäbe gelten ([BGE 143 V 66 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-66_2017.html); [BGE 132 II 485 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-485_2006.html)).
+
+Bestätigt hat der Grundsatz ein Wiedererwägungsverfahren betreffend den Abbruch eines ohne Bewilligung sanierten Stalls in der Landwirtschaftszone: Die Beschwerdeführer hatten den negativen Wiedererwägungsentscheid des Regierungsrats erst Jahre später mit der Begründung angefochten, der instruierende Departementssekretär sei befangen gewesen. Das Bundesgericht hielt die Rüge für verwirkt:
+
+> «Wer den Mangel nicht unverzüglich rügt, wenn er davon Kenntnis erhält, sondern sich stillschweigend auf ein Verfahren einlässt, verwirkt den Anspruch auf spätere Anrufung der vermeintlich verletzten Ausstandsbestimmungen (BGE 143 V 66 E. 4.3; 132 II 485 E. 4.3). Diese Verpflichtung zum loyalen Verhalten gilt auch für Laien.»
+
+([BGer 1C_725/2025 vom 15. September 2026, E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-725-2025_2026-09-15.html#consideration_3.3)). Die Rügeobliegenheit kann mithin nicht mit dem Argument umgangen werden, einer Privatperson sei ohne anwaltliche Vertretung die rechtliche Einordnung des Ausstandsgrunds nicht zuzumuten gewesen.
+
 ---
 
 ### E. Abs. 2: Rechtliches Gehör — Informations- und Akteneinsichtsrecht
@@ -263,6 +278,7 @@ Besondere Bedeutung hat die antizipierte Beweiswürdigung bei medizinischen Guta
 | Verzicht auf ein Zweitgutachten zur Bewertung einer rechtswissenschaftlichen Masterarbeit (Note 5,0 statt 5,5) | **Zulässig**; kantonales Gericht durfte willkürfrei annehmen, dass eine Zweitbegutachtung den bestehenden Beurteilungsspielraum nicht einschränkt | [BGE 136 I 229 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html#consideration_5.3) |
 | Abweisung eines Gutachtensantrags im IV-Verfahren trotz substanziierter Widersprüche zwischen Hausarzt und versicherungsinternem Vertrauensarzt | **Gehörsverletzung bejaht**; unzulässige antizipierte Beweiswürdigung bei ungeklärten medizinischen Differenzen | [BGE 135 V 465 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html#consideration_4.5) |
 | Verzicht auf Parteibefragung und Zeugeneinvernahme, weil der Sachverhalt durch Urkunden und Baudokumente lückenlos dokumentiert ist | **Zulässig**; Sachverhalt war durch schriftliche Beweismittel hinreichend liquide | [BGer 4A_312/2025 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-312-2025_2025-11-20.html) |
+| Verzicht auf Einholung eines Remisen-Gutachtens; Abstützung auf bundesgerichtliche Rechtsprechung und Standardwerte des FAT-Berichts 590 (Agroscope) statt auf gutachterliches Fachwissen | **Zulässig**; es stellten sich keine schwierigen Sachfragen, die ohne Expertise nicht zu beantworten waren; unsubstanzierte Kritik der Partei genügt nicht | [BGer 1C_725/2025 E. 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-725-2025_2026-09-15.html#consideration_6) |
 
 > **Merksatz.** Der Verzicht auf Beweisabnahme hält vor Art. 29 Abs. 2 BV nur stand, wenn die Behörde im Entscheid nachvollziehbar begründet, *weshalb* die beantragten Beweismittel an ihrer Überzeugung nichts mehr ändern könnten. Ein blosser Verweis auf die Aktenlage ohne Auseinandersetzung mit substanziierten Gegenbeweisen ist willkürlich.
 
@@ -360,6 +376,37 @@ Das Bundesgericht schützt kantonale Tarife, wonach der unentgeltliche Rechtsbei
 Die Gewährung der unentgeltlichen Rechtspflege ist kein endgültiger Erlass. Sobald die bedürftige Partei in wirtschaftlich günstige Verhältnisse gelangt (z.B. durch Erbschaft, Prozessgewinn oder Einkommenssteigerung), ist sie bundesrechtlich verpflichtet, die bevorschussten Beträge dem Staat zurückzuzahlen (vgl. [Art. 123 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de), [Art. 135 Abs. 4 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), [Art. 64 Abs. 4 VwVG](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de)).
 
 > **Merksatz.** Die Untersuchungsmaxime schliesst den Anspruch auf einen Rechtsbeistand nicht aus. Bei schwerwiegenden Grundrechtseingriffen (Obhutsentzug, Freiheitsentzug, Invaliditätsstreitigkeiten mit Gutachten) besteht regelmässig Anspruch auf amtliche Verbeiständung.
+
+---
+
+### M. Wiedererwägung eines rechtskräftigen Verwaltungsentscheids (aus Art. 29 BV)
+
+#### 1. Dogmatischer Gehalt: verfassungsrechtlicher Anspruch bei geänderten Verhältnissen
+Aus Art. 29 BV fliest ein Anspruch darauf, dass eine Verwaltungsbehörde einen rechtskräftigen Entscheid in Wiedererwägung zieht, wenn sich die Verhältnisse seit dem ersten Entscheid erheblich geändert haben oder wenn die gesuchstellende Partei Tatsachen und Beweismittel anführt, die ihr im früheren Verfahren nicht bekannt waren oder die schon damals geltend zu machen für sie rechtlich oder tatsächlich unmöglich war oder keine Veranlassung bestand. Die Wiedererwägung ist jedoch nicht beliebig zulässig und darf nicht dazu dienen, rechtskräftige Entscheide immer wieder infrage zu stellen oder Rechtsmittelfristen zu umgehen ([BGE 136 II 177 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-177_2010.html#consideration_2.1); [BGE 127 II 306 E. 7a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-127-II-306_2001-10-29.html#consideration_7.a)). Kantonale Bestimmungen, die dieselben Voraussetzungen statuieren (wie Art. 22 Abs. 1 lit. a VwVV/OW), entsprechen diesen bundesrechtlichen Anforderungen.
+
+#### 2. Grundsatz der fiktiven Vollstreckung bei Abbruchentscheiden
+Richtet sich das Wiedererwägungsgesuch gegen einen rechtskräftigen Abbruch- oder Wiederherstellungsentscheid, den der Gesuchsteller nie umgesetzt hat, so ist für die Beurteilung des Gesuchs von der **fiktiven Vollstreckung** auszugehen: Der illegale Bau gilt als abgebrochen. Andernfalls würde die Partei, die sich über ihre Rechtspflichten hinwegsetzt, besser behandelt als diejenige, welche ihren Verpflichtungen nachkommt. Die Wiedererwägungsprüfung hat folglich so zu erfolgen, als wäre die Baute bereits abgebrochen; zu fragen ist, ob an diesem Standort eine gleich dimensionierte Neubaute bewilligt werden könnte ([BGer 1C_488/2021 vom 9. Februar 2022 E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-488-2021_2022-02-09.html#consideration_4.3); [BGer 1C_514/2019 vom 2. April 2020 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-514-2019_2020-04-02.html#consideration_3.2)).
+
+#### 3. Der Fall des sanierten Stalls in der Landwirtschaftszone (BGer 1C_725/2025)
+Ein Grundeigentümer (Beschwerdeführer 1) hatte in der Landwirtschaftszone einen Stall, den sein Voreigentümer längst nicht mehr landwirtschaftlich, sondern als Holzschopf und Garage genutzt hatte, ohne Baubewilligung saniert (Ersetzung der Holzkonstruktion, neue Fenster). Das Bauamt wies das nachträgliche Baugesuch ab und ordnete den Abbruch an; der Regierungsrat bestätigte dies am 12. Februar 2019 und ordnete die Renaturierung innert 12 Monaten ab Rechtskraft an. Der Entscheid erwuchs in Rechtskraft, wurde jedoch nie umgesetzt. Jahre später stellte der Eigentümer ein Wiedererwägungsgesuch und reichte ein vom Schweizerischen Bauernverband aktualisiertes Betriebskonzept ein. Ein Pächter (Beschwerdeführer 2), der vom Regierungsrat ins Verfahren einbezogen worden war, beabsichtigte, den Stall für die Schafhaltung und als Remise zu pachten. Der Regierungsrat und das Verwaltungsgericht Obwalden wiesen das Gesuch ab.
+
+Das Bundesgericht bestätigte die Abweisung und präzisierte dabei die Anforderungen an den Wiedererwägungsgrund. Ausgehend von der fiktiven Vollstreckung des rechtskräftigen Abbruchentscheids war zu prüfen, ob an diesem Standort eine gleich dimensionierte Stallbaute neu bewilligt werden könnte — mithin, ob der Stall für die angestrebte Nutzung im Sinne von Art. 16a Abs. 1 RPG landwirtschaftlich notwendig wäre. Dies verneinte das Bundesgericht in zweierlei Hinsicht:
+
+- **Schafhaltung:** Eine bestehende Feldscheune auf einer benachbarten Parzelle genügte dem Witterungsschutzbedürfnis der Schafe (Unterstand mit zwei geschützten Wänden; die Tiere suchen Weide und Unterstand selbständig auf). Dass ein allseitig geschlossener Stall mit grosszügiger Raumhöhe und viel Fensterfläche dem Tierwohl zuträglicher sein mochte, begründete keine betriebliche Notwendigkeit im Sinne von Art. 16a RPG. Massgeblich sind die objektiven betrieblichen Bedürfnisse, nicht Optimalitätsüberlegungen.
+- **Remisenbedarf:** Der Pächter verfügte bereits über 250 bis 330 m² Remisenfläche (einschliesslich der Fläche unter dem Vordach und auf der Heubühne). Die Beschwerdeführer setzten sich mit den vorinstanzlichen Flächenberechnungen nicht substanziert auseinander, sondern begnügten sich damit, ihre eigene Sicht zu wiederholen. Theoretische Alternativnutzungen (Haltung von Rindvieh oder anderen Tiergattungen) waren nicht massgeblich, da bei der Prüfung der Notwendigkeit von der tatsächlich geplanten und nicht von einer bloss denkbaren Verwendung auszugehen ist.
+
+> «Andernfalls würde die Partei, die sich über ihre Rechtspflichten hinwegsetzt, besser behandelt als diejenige, welche ihren Verpflichtungen nachkommt und die illegale Baute abbricht (vgl. auch Urteile 1C_488/2021 vom 9. Februar 2022 E. 4.3; 1C_514/2019 vom 2. April 2020 E. 3.2 mit Hinweis).»
+
+([BGer 1C_725/2025 vom 15. September 2026, E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-725-2025_2026-09-15.html#consideration_5.3)). Das Urteil illustriert, dass die blosse Kreation eines neuen betrieblichen Nutzungskonzepts für sich allein keinen Wiedererwägungsgrund darstellt, wenn die baurechtliche Notwendigkeit der umstrittenen Baute objektiv nicht dargelegt werden kann.
+
+#### 4. Grenzkasuistik: Wiedererwägungsanspruch
+
+| Sachverhalt / Konstellation | Beurteilung | Entscheid |
+|---|---|---|
+| Wiedererwägungsgesuch gegen rechtskräftigen Abbruch eines ohne Bewilligung sanierten Stalls; neue Pachtabsicht für Schafhaltung und Remise, jedoch genügt eine bestehende Feldscheune und es sind ausreichend Remisenflächen vorhanden | **Wiedererwägungsgrund verneint**; von fiktiver Vollstreckung auszugehen, betriebliche Notwendigkeit der Baute objektiv nicht dargelegt | [BGer 1C_725/2025 E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-725-2025_2026-09-15.html#consideration_5.3) |
+| Wiedererwägungsgesuch für Familiennachzug im Freizügigkeitsabkommen; die Verhältnisse haben sich seit dem Erstentscheid erheblich geändert | **Wiedererwägungsanspruch bejaht**; Verwaltungsbehörde von Verfassungs wegen zur Wiedererwägung verpflichtet | [BGE 136 II 177 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-177_2010.html#consideration_2.1) |
+
+> **Merksatz.** Wer einen rechtskräftigen Abbruchentscheid nicht umsetzt und danach ein Wiedererwägungsgesuch stellt, wird so behandelt, als sei die Baute bereits abgebrochen: Die Wiedererwägung kann nur durchgreifen, wenn an diesem Standort eine gleich dimensionierte Neubaute bewilligungsfähig wäre. Ein neues Betriebskonzept ohne objektive betriebliche Notwendigkeit der umstrittenen Baute genügt nicht.
 
 ---
 
