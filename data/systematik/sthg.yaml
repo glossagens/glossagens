@@ -1,0 +1,30 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+# Hinweis: von/bis muessen numerische Werte sein (Artikelnummer ohne Suffix).
+gruppen:
+  - name: "Allgemeine Bestimmungen"
+    von: 1
+    bis: 2
+  - name: "Steuern der natürlichen Personen — Steuerpflicht"
+    von: 3
+    bis: 6
+  - name: "Steuern der natürlichen Personen — Einkommenssteuer und Vermögenssteuer"
+    von: 7
+    bis: 37
+  - name: "Steuern der juristischen Personen"
+    von: 38
+    bis: 39
+  - name: "Verfahrensrecht — Verfahrensgrundsätze und Veranlagungsverfahren"
+    von: 40
+    bis: 49
+  - name: "Verfahrensrecht — Rekurs, Änderung rechtskräftiger Verfügungen, Nachsteuer und Inventar"
+    von: 50
+    bis: 54
+  - name: "Steuerstrafrecht"
+    von: 55
+    bis: 61
+  - name: "Schluss- und Übergangsbestimmungen"
+    von: 62
+    bis: 80
