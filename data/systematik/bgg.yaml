@@ -24,6 +24,12 @@ gruppen:
   - name: "Beschwerdegründe und Novenrecht"
     von: 95
     bis: 99
+  - name: "Fristen und Einreichung"
+    von: 100
+    bis: 103
+  - name: "Entscheid"
+    von: 104
+    bis: 107
   - name: "Vereinfachtes Verfahren"
     von: 108
     bis: 109
