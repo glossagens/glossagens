@@ -2,16 +2,16 @@
 title: "Rechtsprechung zu Art. 47 StGB — Strafzumessung"
 weight: 99
 date: 2026-08-11
-lastmod: 2026-09-11
-description: "Umfassende Übersicht der bundesgerichtlichen Leitentscheide und kantonalen Urteile zu Art. 47 StGB: Drei-Stufen-Modell, Einsatzstrafenbildung, Doppelverwertungsverbot, Geständnisrabatt, Strafempfindlichkeit, überlange Verfahrensdauer und richterliche Begründungspflicht."
-tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Doppelverwertungsverbot", "Geständnisrabatt", "Strafempfindlichkeit", "Beschleunigungsgebot"]
+lastmod: 2026-09-30
+description: "Umfassende Übersicht der bundesgerichtlichen Leitentscheide und kantonalen Urteile zu Art. 47 StGB: Drei-Stufen-Modell, Einsatzstrafenbildung, Doppelverwertungsverbot, Verbindungsbusse, Geständnisrabatt, Strafempfindlichkeit, überlange Verfahrensdauer und richterliche Begründungspflicht."
+tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Doppelverwertungsverbot", "Verbindungsbusse", "Geständnisrabatt", "Strafempfindlichkeit", "Beschleunigungsgebot"]
 agent_verified: true
 revisions:
-  - date: 2026-09-11
-    by: "Antigravity Agent"
-    model: "gemini-3.8-flash"
+  - date: 2026-09-30
+    by: "Hermes Agent"
+    model: "glm-5.2"
     mcp_verified: true
-    note: "Vollständiger Ausbau der Rechtsprechungsübersicht gemäss Standard praxisorientierter-kommentar: 11 publizierte BGE-Leitentscheide (u.a. BGE 150 IV 103 zum Wegfall des Verwertungsverbots entfernter Vorstrafen nach Aufhebung von aArt. 369 Abs. 7 StGB) und 17 weitere Urteile (Bundesgericht u.a. 6B_1110/2023 sowie Obergerichte ZH, BE, AG, BL, LU, SO); alle Fundstellen im Volltext mit authentischen URLs auf entscheidsuche.ch nachgewiesen."
+    note: "Ergänzung um BGer 7B_497/2025 vom 9.9.2026 (Verbindungsbusse fehlerhaft addiert; Einklang Verschulden/Strafmass; Strafempfindlichkeit Berufschauffeur). Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-11
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -140,6 +140,18 @@ revisions:
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts und der kantonalen Gerichte
+
+### [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html) vom 9. September 2026 — Verbindungsbusse: Abzug nicht Addition; Einklang Verschulden/Strafmass; Strafempfindlichkeit Berufschauffeur
+
+- **Gericht**: Bundesgericht, II. strafrechtliche Abteilung
+- **Gegenstand**: Art. 42 Abs. 4, Art. 47 Abs. 1–2, Art. 44 Abs. 1 StGB; Art. 90 Abs. 2 SVG; Strafzumessung und Verbindungsbusse.
+- **Sachverhalt**: Ein Lieferwagenlenker überfuhr einen mit Andreaskreuz gekennzeichneten Bahnübergang, ohne das Wechselblinklichtsignal oder den herannahenden Zug zu beachten (Kollision, Sachschaden, keine Personenschäden). Das Obergericht Aargau verurteilte ihn wegen fahrlässiger grober Verkehrsregelverletzung zu einer bedingten Geldstrafe von 80 Tagessätzen und einer Verbindungsbusse von Fr. 2'000.--, die es nicht von den 80 Tagessätzen abzog, sondern obendrauf schlug (faktisch 100 Tagessätze), obwohl es ein «gerade noch leichtes Verschulden» annahm.
+- **Kernaussage (E. 3.3.2–3.3.4)**: Die Verbindungsbusse darf nicht zu einer Straferhöhung führen; sie ist von der schuldangemessenen Hauptstrafe abzuziehen, nicht hinzuzuaddieren, und darf höchstens 20 % der in der Summe schuldangemessenen Sanktion betragen (BGE 149 IV 321 E. 1.3.2). Die Vorinstanz verstiess dagegen, indem sie 100 Tagessätze resultieren liess — mehr als das selbst als schuldangemessen erachtete Mass. Zugleich widersprach die Sanktion von 100 Tagessätzen der Annahme eines «gerade noch leichten Verschuldens», das eine Sanktion im unteren Drittel des Strafrahmens verlangt.
+- **Kernaussage (E. 3.5.2–3.5.3)**: Der als Berufschauffeur tätige Beschwerdeführer leitete aus dem drohenden administrativen Führerausweisentzug keine erhöhte Strafempfindlichkeit ab: Der Entzug ist eine zwingende, von der Strafhöhe unabhängige Massnahme (Art. 16 Abs. 2, Art. 16c SVG); belastende Straffolgen sind bei der Strafzumessung generell nicht strafmindernd zu berücksichtigen. Allenfalls liegt eine erhöhte Massnahmenempfindlichkeit vor, die im Administrativverfahren zu berücksichtigen ist.
+- **Kernaussage (E. 2.3.1–2.3.2)**: Bestätigung des Schuldspruchs: Weder Selbstgefährdung noch Irrtum über das Fehlen von Schranken begründen ein Gegenindiz gegen grobe Fahrlässigkeit bei objektiv schwerer Verkehrsregelverletzung.
+- **Einschlägig für**: Art. 42 Abs. 4 StGB (Verbindungsbusse), Art. 47 Abs. 1 StGB (Strafempfindlichkeit), Art. 47 Abs. 2 StGB (Einklang Verschulden/Strafmass).
+
+---
 
 ### [BGer 6B_988/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-988-2025_2026-05-26.html) vom 26. Mai 2026 — Einsatzstrafenbildung bei Mord (Waldversteck-Fall) und Doppelverwertungsverbot
 
@@ -284,15 +296,16 @@ revisions:
 
 | Thema | Leitentscheide (BGE) | Weitere Entscheide (BGer & Kantone) |
 |---|---|---|
-| **Drei-Stufen-Modell & Einsatzstrafe** | [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html), [BGE 144 IV 313](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html) | [BGer 6B_988/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-988-2025_2026-05-26.html), [SO OG STBER.2025.11](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STBER-2025-11_2026-01-13.html) |
+| **Drei-Stufen-Modell & Einsatzstrafe** | [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html), [BGE 144 IV 313](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html) | [BGer 6B_988/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-988-2025_2026-05-26.html), [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html), [SO OG STBER.2025.11](https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STBER-2025-11_2026-01-13.html) |
 | **Vorstrafen und Vorstrafenlosigkeit** | [BGE 136 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-1_2010.html) | [BL KG 460 25 136](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-25-136_2025-09-22.pdf) |
 | **Geständnis und Reue (Geständnisrabatt)** | [BGE 121 IV 202](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-121-IV-202_1995-09-25.html) | [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html), [BE OG SK 2025 148](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2025-148_2026-05-05.pdf), [BE OG SK 2025 146](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2025-146_2026-01-29.pdf), [BE OG SK 2024 328](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2024-328_2025-09-05.pdf), [BL KG 460 25 189](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-25-189_2025-11-07.pdf) |
 | **Doppelverwertungsverbot** | [BGE 141 IV 61](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-61_2015.html) | [BGer 6B_988/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-988-2025_2026-05-26.html), [BGer 6B_237/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-237-2018_2018-08-24.html) |
-| **Strafempfindlichkeit & Nebenfolgen** | [BGE 151 IV 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html) | [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html), [BGer 6B_636/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-636-2025_2026-07-06.html), [BGer 6B_631/2010](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-631-2010_2011-01-24.html), [AG OG SST.2025.180](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-180_2026-06-25.pdf) |
+| **Verbindungsbusse (Art. 42 Abs. 4 StGB)** | [BGE 149 IV 321](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-321_2023.html), [BGE 146 IV 145](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-145_2020.html) | [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html) |
+| **Strafempfindlichkeit & Nebenfolgen** | [BGE 151 IV 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html) | [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html), [BGer 6B_636/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-636-2025_2026-07-06.html), [BGer 6B_631/2010](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-631-2010_2011-01-24.html), [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html), [AG OG SST.2025.180](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-180_2026-06-25.pdf) |
 | **Verletzung des Beschleunigungsgebots** | [BGE 143 IV 373](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html) | [BGer 6B_128/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-128-2020_2020-06-16.html), [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html) |
 | **Relative Strafgerechtigkeit (Mittäterschaft)** | [BGE 135 IV 191](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-191_2009.html) | [LU OG 21 08 159.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_21-08-159-1_2009-05-05.html) |
 | **Begründungspflicht (Art. 50 StGB) & Ermessen** | [BGE 127 IV 101](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-127-IV-101_2001-04-03.html), [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) | [BGer 6B_788/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-788-2013_2013-11-15.html), [LU KG 7W 20 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7W-20-57_2021-07-27.html) |
 
 ---
 
-*Zuletzt aktualisiert: 11. September 2026 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-047/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+47+StGB+Rechtsprechung)*
+*Zuletzt aktualisiert: 30. September 2026 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-047/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+47+StGB+Rechtsprechung)*
