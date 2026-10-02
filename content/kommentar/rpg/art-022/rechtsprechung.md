@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 22 RPG"
 weight: 99
 date: 2026-07-16
-lastmod: 2026-09-17
+lastmod: 2026-10-02
 description: "Übersicht der massgeblichen Leitentscheide und Praxisurteile zu Art. 22 RPG (Baubewilligungspflicht, Bauten und Anlagen, Unterhaltsabgrenzung, Erschliessung, Wiederherstellung)."
 tags: ["Rechtsprechung", "RPG", "Baubewilligung", "Unterhalt", "Wiederherstellung", "Erschliessung", "Fahrnisbauten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-02
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergaenzung um BGer 1C_324/2026 (Umnutzung Bueros in Wohnungen, Genfer Entwicklungszone 3): Nutzungsänderung ohne bauliche Massnahmen bewilligungspflichtig; kantonale LDTR-Freistellung unterschreitet RPG nicht; Wiederherstellung bei nicht erfuellten Barrierefreiheitsvorschriften verhaeltnismaessig."
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -125,6 +130,17 @@ revisions:
 - **Kernaussage**: Der Wechsel von einem Ferienheim zu einer Asyl-Kollektivunterkunft stellt eine bewilligungspflichtige Nutzungsänderung dar.
 - **Link**: [BGer 1C_285/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-285-2015_2015-11-19.html)
 
+#### BGer 1C_324/2026 (16.09.2026) — Umnutzung von Büros in Wohnungen ohne bauliche Massnahmen (Genfer Entwicklungszone 3)
+- **Thema**: Baubewilligungspflicht reiner Nutzungsänderungen ohne Bauarbeiten; Verhältnis von kantonaler Freistellung (LDTR) zum RPG; Verhältnismässigkeit der Wiederherstellungsverfügung.
+- **Kernaussage**: Die Zweckänderung von Büros in Wohnungen untersteht auch ohne bauliche Massnahmen der Baubewilligungspflicht nach Art. 22 Abs. 1 RPG, weil die neue Nutzung Brandschutz, Barrierefreiheit, Sicherheit und Erschliessung berührt. Die blosse Zonenkonformität der neuen Nutzung genügt nicht, um eine Baubewilligung als entbehrlich erachten zu lassen. Eine kantonale Freistellung (hier: Art. 3 Abs. 4 LDTR) schränkt die bundesrechtliche Bewilligungspflicht nicht ein, da die LDTR andere Schutzzwecke verfolgt als das kantonale Baugesetz (LCI); die Grundsätze von lex specialis und lex posterior greifen nicht. Die Wiederherstellungsverfügung ist verhältnismässig (Art. 26, 36 BV), wenn spezifische Bauvorschriften — namentlich Barrierefreiheitsnormen — nicht erfüllt sind und keine Ausnahmebewilligung erteilt wird, selbst bei zonenkonformer neuer Nutzung und ungeachtet des öffentlichen Interesses an der Schaffung von Wohnraum (E. 2.3, 2.5, 2.7).
+- **Sachverhalt**: A.________ nutzte Bürolokalen im 1. und 3. Obergeschoss eines Gebäudes in der Genfer Entwicklungszone 3, die als Büros bewilligt waren (APA 37'573, 2013–2015), ohne Baubewilligung als Wohnungen. Ein nachträgliches Baugesuch (September 2020) wurde wegen fehlendem Feuerwehrzugang abgewiesen (Mai 2021, rechtskräftig). Ein zweites Gesuch auf Umwandlung in eine Hotelresidenz (April 2022) wurde abgewiesen wegen Nichteinhaltung der Barrierefreiheitsvorschriften und Ablehnung einer Ausnahmebewilligung von Art. 109 LCI (Oktober 2023, bestätigt durch ATA/121/2025). Mit Verfügung vom 1. Dezember 2023 untersagte das Département du territoire die Wohnnutzung und ordnete die Wiederherstellung des Bürozustands an.
+- **Erwägungen**:
+  - E. 2.3: Eine Zweckänderung untersteht auch ohne Modifikation des äusseren Erscheinungsbilds der Baubewilligungspflicht nach Art. 22 Abs. 1 RPG; Ausnahme nur bei Zonenkonformität und offensichtlich geringfügigen Auswirkungen. Die Kantone dürfen den Anwendungsbereich nicht einschränken (BGE 150 II 489 E. 2.1).
+  - E. 2.5: Art. 3 Abs. 4 LDTR hilft nicht, da LDTR (Erhaltung Wohnungsbestand) und LCI (Bauvorschriften) unterschiedliche Schutzzwecke verfolgen; lex specialis/lex posterior greifen nicht. Die Genfer Verfassungskammer hatte einen Gesetzesentwurf annulliert, der eine blosse Meldepflicht statt Baubewilligung vorsah (ACST/2/2018), weil dies mit Art. 22 RPG unvereinbar sei.
+  - E. 2.7: Die Wiederherstellungsverfügung beruht auf Art. 129 lit. e und Art. 130 LCI und ist verhältnismässig. Wer die Behörde vor vollendete Tatsachen stellt, muss mit Wiederherstellung rechnen (BGE 123 II 248 E. 4a). Das öffentliche Interesse an Bau- und Sicherheitsvorschriften (Barrierefreiheit) überwiegt das private Interesse an der Weiternutzung als Wohnungen, zumal die Räume primär der kurzfristigen Unterbringung von Studierenden und Frauen nach häuslicher Gewalt dienen.
+- **Dispositiv**: Abweisung der Beschwerde; neue Frist bis 31. März 2027 für alternativ Anpassung der Sanitäranlagen (Barrierefreiheit) und Baubewilligung oder Rückversetzung in den Bürozustand.
+- **Link**: [BGer 1C_324/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-324-2026_2026-09-16.html)
+
 #### BGer 1C_322/2025 (21.07.2026) — Aufhebung von Baubewilligungen in Planungszonen
 - **Thema**: Vorrang der Planungszone nach Art. 27 RPG gegenüber privaten Bauinteressen.
 - **Kernaussage**: In einer Planungszone prävaliert das Sicherungsinteresse an planerischem Ermessensspielraum gegenüber privaten Bauabsichten.
@@ -156,4 +172,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-17*
+*Letzte Aktualisierung: 2026-10-02*
