@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: "2026-09-12"
+lastmod: "2026-10-02"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-02
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_133/2025 (private Observationsaufnahmen aus IV-Verfahren; Bestätigung des abstrakten Beurteilungsmassstabes nach BGE 151 IV 124; konkrete Umstände der Beweiserhebung unbeachtlich; Art. 282 Abs. 1 StPO als abstrakte Beweiserhebungsbefugnis). Belege via OCL (get_erwaegung E. 5.3.1, 5.3.2, 5.4) und entscheidsuche (search_by_case_number) verifiziert."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -113,6 +118,8 @@ Die Rechtsprechung wendet Art. 141 Abs. 2 StPO analog auf Beweise an, die von Pr
 
 **[BGer 7B_80/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-80-2025_2026-05-29.html)** (vom 29. Mai 2026) — *Private Videoaufnahme (Bar-Aussenbereich), hypothetisch rechtmässige Erlangbarkeit*: Bestätigung des abstrakten Beurteilungsmassstabes von BGE 151 IV 124: Bei der hypothetisch rechtmässigen Erlangbarkeit privater Beweise durch die Strafbehörden sind nur abstrakt anwendbare gesetzliche Erfordernisse zu berücksichtigen; konkrete Umstände wie ein fehlender Tatverdacht spielen keine Rolle. Videoaufnahmen des Aussenbereichs einer Bar, die ohne ausreichende Kennzeichnung erstellt und somit rechtswidrig waren, sind verwertbar, wenn die Strafbehörden sie gestützt auf Art. 282 Abs. 1 StPO (verdeckte Beobachtung an allgemein zugänglichen Orten) abstrakt hätten erheben können und die Tat eine schwere Straftat darstellt. → E. 3.1.1–3.3.
 
+**[BGer 6B_133/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-133-2025_2026-08-11.html)** (vom 11. August 2026) — *Private Observationsaufnahmen aus IV-Verfahren, abstrakter Beurteilungsmassstab*: Bestätigung und praktische Anwendung des abstrakten Beurteilungsmassstabes von BGE 151 IV 124 auf privat erhobene Observationsaufnahmen, die im Rahmen eines sozialversicherungsrechtlichen (IV-)Verfahrens entstanden waren und im nachfolgenden Strafverfahren wegen gewerbsmässigen Betrugs verwendet wurden. Bei der Prüfung der hypothetisch rechtmässigen Erlangbarkeit ist allein auf die abstrakte gesetzliche Zulässigkeit des Beweiserhebungsinstruments abzustellen; das Vorliegen eines Tatverdachts und Verhältnismässigkeitsgesichtspunkte sind nicht zu beurteilen. Konkrete Umstände der Beweiserhebung — wie die geringe Ärztedichte in ländlichen Gegenden oder die Kinderbetreuungssituation — sind unbeachtlich. Die Strafbehörden hätten entsprechendes Bildmaterial gestützt auf Art. 282 Abs. 1 StPO (verdeckte Beobachtung an allgemein zugänglichen Orten) abstrakt rechtmässig erheben können. Die Interessenabwägung nach Art. 141 Abs. 2 StPO ergibt, dass das öffentliche Interesse an der Verhinderung eines Versicherungsbetrugs den relativ bescheidenen Eingriff in die privaten Interessen überwiegt. → E. 5.3.1, E. 5.3.2, E. 5.4.
+
 ---
 
 ## 4. Ordnungsvorschriften (Art. 141 Abs. 3) — mit Schutzzweck-Test
@@ -217,6 +224,7 @@ Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der
 
 | Geschäftsnummer | Datum | Kurzinhalt |
 |---|---|---|
+| BGer 6B_133/2025 | 11.08.2026 | Private Observationsaufnahmen aus IV-Verfahren, abstrakter Beurteilungsmassstab bei hypothetisch rechtmässiger Erlangbarkeit (Art. 141 Abs. 2 StPO) |
 | BGer 6B_206/2026 | 19.08.2026 | AIG-Delikte, Telefonüberwachung, Unterbrechung der Fernwirkung durch unabhängige Vorerkenntnisse der Fremdenpolizei, Rügeobliegenheit (Art. 141 Abs. 4 StPO) |
 | BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
 | BGer 6B_350/2026 | 09.06.2026 | Tötungsdelikt, keine Gesamtkontamination nach unverwertbarer Erstbefragung bei vorbestehendem Tatverdacht und zwingenden Standardermittlungen (Art. 141 Abs. 4 StPO) |
