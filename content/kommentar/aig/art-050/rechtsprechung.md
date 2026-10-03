@@ -13,6 +13,11 @@ revisions:
     mcp_verified: true
     note: "Ergaenzung BGer 2C_93/2026 (Schweizer Ehemann, Gewalt durch Schwiegerfamilie) und BGer 2C_555/2025 (EU/EFTA-Widerruf, Zug): einmaliger Schubser genuegt nicht fuer haeusliche Gewalt nach Art. 50 Abs. 2 lit. a AIG. Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-23
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständiger Ausbau zum Praxiskommentar"
+---
 
 # Rechtsprechung zu Art. 50 AIG
 
