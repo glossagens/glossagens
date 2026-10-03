@@ -2,11 +2,17 @@
 title: "Rechtsprechung zu Art. 50 AIG"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-09-23
+lastmod: 2026-10-01
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Urteile zu Art. 50 AIG (Nachaufenthaltsrecht, Dreijahresfrist, häusliche Gewalt und nachehelicher Härtefall)."
 tags: ["Rechtsprechung", "Aufenthaltsbewilligung", "AIG", "Nachaufenthaltsrecht", "häusliche Gewalt", "Härtefall"]
 agent_verified: true
----
+revisions:
+  - date: 2026-10-01
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergaenzung BGer 2C_93/2026 (Schweizer Ehemann, Gewalt durch Schwiegerfamilie) und BGer 2C_555/2025 (EU/EFTA-Widerruf, Zug): einmaliger Schubser genuegt nicht fuer haeusliche Gewalt nach Art. 50 Abs. 2 lit. a AIG. Belege via OCL get_erwaegung geprueft."
+  - date: 2026-09-23
 
 # Rechtsprechung zu Art. 50 AIG
 
@@ -103,6 +109,23 @@ agent_verified: true
 - **Sachverhalt**: Der ausländische Ehemann wurde von Angehörigen seiner Schweizer Frau tätlich angegriffen; die Ehefrau verliess daraufhin sofort die gemeinsame Wohnung.
 - **Kernaussage**: Ein isolierter Vorfall vermag kein Nachaufenthaltsrecht nach Art. 50 Abs. 1 lit. b AIG zu begründen, wenn das Opfer nach dem Vorfall nicht vor der Zwangswahl stand, zur Aufrechterhaltung der Bewilligung in einer menschenunwürdigen Beziehung ausharren zu müssen.
 - **Einschlägig für**: Abs. 2 lit. a (Schwellenwert häuslicher Gewalt).
+
+### [BGer 2C_93/2026 vom 17. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-93-2026_2026-08-17.html) E. 5.2–5.3
+- **Thema**: Art. 50 Abs. 1 lit. b i.V.m. Abs. 2 lit. a AIG; häusliche Gewalt durch Schwiegerfamilie — einmaliger Schubser genügt nicht.
+- **Sachverhalt**: Eine kosovarische Staatsangehörige heiratete einen Schweizer und lebte mit ihm sowie dessen Eltern und Schwester in häuslicher Gemeinschaft. Am 27. September 2022 kam es zu einem Streit, in dessen Folge die Polizei beigezogen und die Ehefrau fürsorgerisch in einer psychiatrischen Klinik untergebracht wurde. Seitdem lebten die Ehegatten getrennt. Die Ehegemeinschaft dauerte weniger als drei Jahre.
+- **Kernaussage**: Häusliche Gewalt im Sinne von Art. 50 Abs. 2 lit. a AIG bedeutet systematische Misshandlung mit dem Ziel, Macht und Kontrolle auszuüben. Die Zwangsausübung und deren Auswirkungen müssen von einer gewissen Konstanz bzw. Intensität sein. Ein einmaliger körperlicher Übergriff (ein Schubser durch ein Schwiegerfamilienmitglied im Rahmen eines eskalierenden Streits) weist nicht die erforderliche Intensität auf und begründet keinen nachehelichen Härtefall. Auch der nicht erstellene Vorwurf psychischer Oppression genügt nicht (E. 5.2–5.3, Bestätigung von BGE 138 II 229 E. 3.2.1).
+- **Einschlägig für**: Abs. 2 lit. a (Schwellenwert häuslicher Gewalt; Gewalt durch Schwiegereltern).
+- **Link**: [BGer 2C_93/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-93-2026_2026-08-17.html)
+
+### [BGer 2C_555/2025 vom 25. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-555-2025_2026-08-25.html) E. 4.3.1 und 4.3.4
+- **Thema**: Art. 50 Abs. 1 lit. b i.V.m. Abs. 2 lit. a AIG; Widerruf einer EU/EFTA-Aufenthaltsbewilligung — einmaliger leichter Stoss und fehlende psychische Gewalt; stark gefährdete soziale Wiedereingliederung verneint.
+- **Sachverhalt**: Eine kosovarische Staatsangehörige heiratete einen kosovarisch-schwedischen Doppelstaatsbürger und erhielt eine Aufenthaltsbewilligung EU/EFTA. Am 22. Januar 2023 kam es zu einer ehelichen Auseinandersetzung, in deren Folge die Ehefrau in ein Frauenhaus eintrat. Seither lebten die Ehegatten getrennt. Das Amt für Migration des Kantons Zug widerrief die Aufenthaltsbewilligung.
+- **Kernaussagen**:
+  - Häusliche Gewalt bedeutet systematische Misshandlung mit dem Ziel, Macht und Kontrolle auszuüben und nicht eine einmalige Ohrfeige oder eine verbale Beschimpfung im Verlauf eines eskalierenden Streits. Die Zwangsausübung und deren Auswirkungen müssen von einer gewissen Konstanz bzw. Intensität sein. Ein einmaliger, mutmasslich leichter Stoss mit der Hand erreicht diese Schwelle nicht (E. 4.3.1, 4.3.4, Bestätigung von BGE 138 II 229 E. 3.2.1).
+  - Psychische bzw. sozio-ökonomische Druckausübung (dauerndes Beschimpfen, Erniedrigen, Drohen) kann einen relevanten Grad an unzulässiger Oppression erreichen, wenn die psychische Integrität des Opfers bei einer Aufrechterhaltung der ehelichen Gemeinschaft schwer beeinträchtigt würde. Nicht jede unglückliche Entwicklung einer Beziehung begründet jedoch einen nachehelichen Härtefall (E. 4.3.1, Bestätigung von BGE 138 II 229 E. 3.2.2).
+  - Die soziale Wiedereingliederung im Herkunftsland ist nur dann stark gefährdet, wenn die persönliche, berufliche und familiäre Wiedereingliederung bei einer Rückkehr effektiv als stark gefährdet zu gelten hätte — nicht, ob ein Leben in der Schweiz einfacher wäre (E. 4.4.1, Bestätigung von BGE 139 II 393 E. 6).
+- **Einschlägig für**: Abs. 2 lit. a (Schwellenwert häuslicher Gewalt); Abs. 2 lit. c (soziale Wiedereingliederung); FZA-Kontext.
+- **Link**: [BGer 2C_555/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-555-2025_2026-08-25.html)
 
 ### [SG VG B 2018/76 vom 25. Juli 2018](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2018-76_2018-07-25.pdf) E. 3
 - **Thema**: Beweiswert nachehelicher Arztberichte und Zumutbarkeit der Reintegration bei Einreise im Erwachsenenalter.

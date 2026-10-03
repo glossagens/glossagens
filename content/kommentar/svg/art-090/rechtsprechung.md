@@ -2,12 +2,17 @@
 title: "Rechtsprechung zu Art. 90 SVG"
 weight: 99
 date: 2026-09-05
-lastmod: 2026-09-12
+lastmod: 2026-10-01
 description: "Rechtsprechungssammlung zu Art. 90 SVG: Leitentscheide des Bundesgerichts und kantonale Praxis zu einfacher, grober und qualifiziert grober Verkehrsregelverletzung (Raserparagraf), Geschwindigkeitsschwellenwerten, Rechtsüberholen, Abstandsdelikten, Rotlicht, Vorsatzentkopplung und Ersttäterprivileg (Abs. 3ter)."
 tags: ["Rechtsprechung", "SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "qualifizierte grobe Verkehrsregelverletzung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
 agent_verified: true
 revisions:
-  - date: 2026-09-05
+  - date: 2026-10-01
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergaenzung BGer 7B_497/2025 (Bahnuebergang, unbewusste Fahrlaessigkeit, Verbindungsbusse, Verschuldens-Strafmass-Kongruenz). Belege via OCL get_erwaegung geprueft."
+  - date: 2026-09-12
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
     mcp_verified: true
@@ -138,6 +143,17 @@ revisions:
 - **Kernaussage**: Bestätigt die Differenzierung zwischen einfacher (Abs. 1) und grober Verkehrsregelverletzung (Abs. 2) anhand der Kriterien der objektiven Gefährlichkeit und des subjektiven Verschuldens.
 - **Einschlägig für**: Abs. 2 (Abgrenzung zu Abs. 1)
 - **Link**: [BGer 6B_938/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-938-2025_2026-07-09.html)
+
+### BGer 7B_497/2025 vom 9. September 2026
+- **Abteilung**: II. strafrechtliche Abteilung
+- **Thema**: Art. 90 Abs. 2 SVG; unbewusste Fahrlässigkeit bei Bahnübergang; Verbindungsbusse (Art. 42 Abs. 4 StGB); Kongruenz von Verschulden und Strafmass
+- **Sachverhalt**: Ein Lieferwagenlenker überfuhr in einer Baustelle einen mit Andreaskreuz gekennzeichneten Bahnübergang, ohne das Wechselblinklichtsignal oder den herannahenden Zug zu bemerken. Es kam zur Kollision mit Sachschaden. Nach Aufhebung eines ersten Urteils (7B_286/2022) wegen Verletzung des Anklagegrundsatzes verurteilte das Obergericht den Lenker wegen fahrlässiger grober Verkehrsregelverletzung zu einer bedingten Geldstrafe von 80 Tagessätzen und einer Verbindungsbusse von Fr. 2'000.–.
+- **Kernaussagen**:
+  - Unbewusste Fahrlässigkeit in Form des Nichtbemerkens eines auffälligen Wechselblinklichtsignals und eines herannahenden Zuges an einem Bahnübergang erfüllt den subjektiven Tatbestand der groben Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG. Das unbewusste Nichtbedenken der Gefährdung anderer Verkehrsteilnehmender kann rücksichtslos sein und begründet grobe Fahrlässigkeit; eine falsche Situations einschätzung allein schliesst grobe Fahrlässigkeit nicht aus (E. 2.2.2 i.V.m. E. 2.3).
+  - Die Verbindungsbusse nach Art. 42 Abs. 4 StGB darf nicht zu einer Straferhöhung führen. Sie ist von der schuldangemessenen Strafe rechnerisch abzuziehen, nicht obendrauf zu schlagen. Die Summe aus bedingter Hauptstrafe und Verbindungsbusse muss schuldangemessen bleiben; die Verbindungsbusse darf höchstens 20 % der Gesamtsanktion betragen (E. 3.3.2, Bestätigung von BGE 149 IV 321).
+  - Verschuldensbewertung und Strafmass müssen begrifflich im Einklang stehen: Geht das Gericht von einem «gerade noch leichten Verschulden» aus, muss sich die Einsatzstrafe im unteren Drittel des Strafrahmens bewegen — nicht, wie hier, bei 100 Tagessätzen im mittleren Bereich (E. 3.3.4).
+- **Einschlägig für**: Abs. 2 (unbewusste Fahrlässigkeit; Bahnübergang); Strafzumessung (Verbindungsbusse; Verschuldens-Strafmass-Kongruenz)
+- **Link**: [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html)
 
 ### BGer 6B_222/2022 vom 18. Januar 2023
 - **Thema**: Art. 90 Abs. 3 SVG; Vorsatzprüfung bei Abs. 4; richterlicher Handlungsspielraum

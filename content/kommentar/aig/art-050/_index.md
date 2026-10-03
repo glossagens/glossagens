@@ -2,11 +2,16 @@
 title: "Art. 50 AIG — Auflösung der Familiengemeinschaft"
 weight: 50
 date: 2026-05-15
-lastmod: 2026-09-23
+lastmod: 2026-10-01
 description: "Praxiskommentar zu Art. 50 AIG: Nachaufenthaltsrecht nach Trennung oder Scheidung — Dreijahresfrist und Integrationskriterien, nachehelicher Härtefall wegen häuslicher Gewalt (inkl. Revisionsstand 2025 mit Hinweiskatalog und Konkubinat), Zwangsheirat und stark gefährdete Wiedereingliederung, mit zweiseitiger Kasuistik und Judikaturdivergenzen."
 tags: ["AIG", "Nachaufenthaltsrecht", "Aufenthaltsbewilligung", "häusliche Gewalt", "Ehegemeinschaft", "Integration", "Härtefall", "soziale Wiedereingliederung", "FZA", "Konkubinat"]
 agent_verified: true
 revisions:
+  - date: 2026-10-01
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Rechtsprechungsergänzung: BGer 2C_93/2026 und 2C_555/2025 (einmaliger Schubser genügt nicht für häusliche Gewalt nach Art. 50 Abs. 2 lit. a AIG; soziale Wiedereingliederung). Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"

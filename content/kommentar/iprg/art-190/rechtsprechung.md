@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 190 IPRG"
 weight: 99
 date: '2026-09-20'
-lastmod: '2026-09-20'
+lastmod: '2026-10-01'
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 190 IPRG (Anfechtung des Schiedsentscheids)."
-tags: ["Rechtsprechung", "IPRG", "Schiedsgerichtsbarkeit", "Ordre public", "Rechtliches Gehör"]
+tags: ["Rechtsprechung", "IPRG", "Schiedsgerichtsbarkeit", "Ordre public", "Rechtliches Gehör", "Forclusion"]
 agent_verified: false
 revisions:
+  - date: '2026-10-01'
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergaenzung BGer 4A_19/2026 (TAS/Doping: Forclusion nach Art. 182 Abs. 4 IPRG bei verspaeteter Gehoersruege; als Gehoersruege verkleidete Sachruege unzulaessig). Belege via OCL get_erwaegung geprueft."
   - date: '2026-09-20'
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -78,6 +83,18 @@ revisions:
 - **Thema**: Gehörsanspruch und kontradiktorisches Verfahren (Art. 190 Abs. 2 lit. d IPRG).
 - **Kernaussage**: Art. 190 Abs. 2 lit. d IPRG garantiert das Recht der Parteien, sich zu allen wesentlichen Vorbringen der Gegenseite zu äussern. Es besteht jedoch kein absoluter Anspruch auf einen zweiten Schriftenwechsel, sofern den Parteien Gelegenheit gegeben wurde, ihre Argumente vollumfänglich einzubringen.
 - **Einschlägig für**: Art. 190 Abs. 2 lit. d IPRG (rechtliches Gehör).
+
+---
+
+### [BGer 4A_19/2026 vom 10. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-19-2026_2026-09-10.html), E. 5.1 und 5.2.2
+- **Thema**: Art. 190 Abs. 2 lit. d IPRG i.V.m. Art. 182 Abs. 4 IPRG; Forclusion bei verspäteter Gehörsrüge im TAS-Schiedsverfahren (Doping/Fussball).
+- **Sachverhalt**: Ein ägyptischer Fussballprofi rügte unter dem Titel der Verletzung des rechtlichen Gehörs (Art. 190 Abs. 2 lit. d IPRG) die Ablehnung eines Beweisangebots durch den TAS-Einzelschiedsrichter. Der Schiedsrichter hatte das Beweisangebot am 19. Mai 2025 abgelehnt; der Spieler erhob die Rüge erst im kantonalen Beschwerdeverfahren nach Erlass des Schiedsspruchs (über sechs Monate später), nicht aber unverzüglich bei der Ablehnung.
+- **Kernaussagen**:
+  - Der Gehörsanspruch nach Art. 190 Abs. 2 lit. d IPRG umfasst das Recht, Beweismittel anzubieten. Das Schiedsgericht kann jedoch ein Beweisangebot ohne Gehörsverletzung ablehnen, wenn es ungeeignet ist, bereits festgestellte Tatsachen zu erschüttern, irrelevant ist oder bei antizipierter Beweiswürdigung die Überzeugung des Gerichts nicht mehr zu ändern vermag (E. 5.1, Bestätigung von BGE 142 III 360 E. 4.1.1).
+  - Seit dem 1. Januar 2021 sieht Art. 182 Abs. 4 IPRG ausdrücklich vor, dass eine Partei, die das Schiedsverfahren fortsetzt, ohne eine festgestellte oder bei angemessener Sorgfalt feststellbare Verfahrensverletzung unverzüglich geltend zu machen, sich später nicht mehr darauf berufen kann (Forclusion/Verwirkung). Eine Gehörsrüge muss zwingend sofort im Schiedsverfahren erhoben werden — unabhängig davon, ob die Ablehnungsgründe bereits vorliegen oder erst im Schiedsspruch mitgeteilt werden (E. 5.1, E. 5.2.2).
+  - Eine als Gehörsrüge verkleidete Sachrüge (appellatorische Kritik an der Beweiswürdigung) ist unzulässig. Der Gehörsanspruch darf nicht dazu dienen, über diesen Umweg eine Überprüfung der materiellen Rechtsanwendung zu provozieren (E. 5.1 i.V.m. E. 5.3.2).
+- **Einschlägig für**: Art. 190 Abs. 2 lit. d IPRG (rechtliches Gehör; Forclusion); Art. 182 Abs. 4 IPRG (Rügeobliegenheit).
+- **Link**: [BGer 4A_19/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-19-2026_2026-09-10.html)
 
 ---
 

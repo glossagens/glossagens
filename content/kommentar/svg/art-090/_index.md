@@ -2,12 +2,17 @@
 title: "Art. 90 — Verletzung von Verkehrsregeln"
 weight: 90
 date: 2026-09-05
-lastmod: 2026-09-12
-description: "Praxiskommentar zu Art. 90 SVG: Dreistufiges Sanktionssystem (einfache, grobe und qualifiziert grobe Verkehrsregelverletzung); Geschwindigkeitsschwellenwerte (BGer-Praxis zu Abs. 2 und Abs. 4); Kasuistik zu Rechtsüberholen, Abstand, Rotlicht und Ablenkung; Vorsatzbegriff und Entkopplung vom Tötungsvorsatz (BGer 6B_966/2025); Ersttäterprivileg (Abs. 3ter) und Strafmilderung (Abs. 3bis)."
+lastmod: 2026-10-01
+description: "Praxiskommentar zu Art. 90 SVG: Dreistufiges Sanktionssystem (einfache, grobe und qualifiziert grobe Verkehrsregelverletzung); Geschwindigkeitsschwellenwerte (BGer-Praxis zu Abs. 2 und Abs. 4); Kasuistik zu Rechtsüberholen, Abstand, Rotlicht und Ablenkung; Vorsatzbegriff und Entkopplung vom Tötungsvorsatz (BGer 6B_966/2025); Ersttäterprivileg (Abs. 3ter) und Strafmilderung (Abs. 3bis); unbewusste Fahrlässigkeit bei Bahnübergängen; Verbindungsbusse (Art. 42 Abs. 4 StGB)."
 tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "grobe Verkehrsregelverletzung", "qualifizierte grobe Verkehrsregelverletzung", "Geschwindigkeitsüberschreitung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
 agent_verified: true
 revisions:
-  - date: 2026-09-05
+  - date: 2026-10-01
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergaenzung BGer 7B_497/2025: unbewusste Fahrlaessigkeit bei Bahnuebergang (Ziffer 5a); Verbindungsbusse und Verschuldens-Strafmass-Kongruenz (Praxishinweis 5). Belege via OCL get_erwaegung geprueft."
+  - date: 2026-09-12
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
     mcp_verified: true
@@ -104,6 +109,8 @@ revisions:
 ### II. Subjektives Element: Grobe Fahrlässigkeit und Rücksichtslosigkeit
 
 **5** **Verschuldensmassstab.** Subjektiv verlangt Abs. 2 ein rücksichtsloses oder sonst schwerwiegend verkehrswidriges Verhalten — mithin mindestens **grobe Fahrlässigkeit** oder **Eventualvorsatz** bezüglich der Gefahr ([BGE 131 IV 133 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-133_2005.html#consideration_3.2)). Grobe Fahrlässigkeit liegt vor, wenn der Täter elementare Vorsichtsgebote missachtet, die jedem verständigen Verkehrsteilnehmer in der gleichen Lage eingeleuchtet hätten, oder wenn er die Schaffung der Gefahr aus Gleichgültigkeit überhaupt nicht bedenkt ([BGE 123 IV 88 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-123-IV-88_1997-03-07.html#consideration_4c)).
+
+**5a** **Unbewusste Fahrlässigkeit und Rücksichtslosigkeit.** Grobe Fahrlässigkeit kommt auch in Betracht, wenn der Täter die Gefährdung anderer Verkehrsteilnehmender pflichtwidrig gar nicht in Betracht zieht, also unbewusst fahrlässig handelt. Das Nichtbedenken der Gefährdung fremder Interessen kann rücksichtslos sein — ein bedenkenloses Verhalten gegenüber fremden Rechtsgütern, das auch in einem blossen momentanen Nichtbedenken bestehen kann ([BGE 131 IV 133 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-133_2005.html#consideration_3.2)). Dass der fehlbare Verkehrsteilnehmer die erhöhte Gefahr oder die gebotene Verhaltensalternative nicht bedacht hat, ist typisch für unbewusste Fahrlässigkeit und schliesst den Schuldvorwurf rücksichtslosen Verhaltens nicht von vorneherein aus ([BGE 123 IV 88 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-123-IV-88_1997-03-07.html#consideration_4c)). In [BGer 7B_497/2025 vom 9. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html) E. 2.2.2–2.3 bestätigte das Bundesgericht, dass ein Lieferwagenlenker, der beim Befahren eines mit Andreaskreuz gekennzeichneten Bahnübergangs sowohl das Wechselblinklichtsignal als auch den herannahenden Zug übersehen hatte, grob fahrlässig handelte: Angesichts der Auffälligkeit des Signals und der hohen Gefahr eines Bahnübergangs wogen die Pflichtwidrigkeiten schwer, und die Rücksichtslosigkeit konnte nur bei Vorliegen besonderer Gegenindizien verneint werden — eine falsche Situations einschätzung allein schliesst grobe Fahrlässigkeit nicht aus.
 
 ---
 
@@ -344,6 +351,7 @@ Seit dem Inkrafttreten am 1. Oktober 2023 handhaben die Kantone Abs. 3ter pragma
 2. **Vorstrafenregister qualifiziert prüfen.** Bussen und Übertretungen hindern Abs. 3ter nicht; die Ausschlusswirkung greift bei Verurteilungen wegen Verbrechen oder Vergehen mit Personengefährdung ([AG OG SST.2025.88](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-88_2025-08-25.pdf)). **Erstmals klargestellt**: Eine Vorstrafe nach Art. 90 Abs. 2 SVG innerhalb der letzten 10 Jahre schliesst Abs. 3ter aus ([BGer 6B_772/2025 E. 2.5.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-772-2025_2026-07-29.html)).
 3. **Art. 237 StGB nicht kumulativ anklagen.** Art. 90 SVG verdrängt Art. 237 Ziff. 1 StGB vollständig; Art. 237 Ziff. 2 StGB ist nach Abs. 5 von Gesetzes wegen ausgeschlossen ([BGE 90 IV 156](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-90-IV-156_1964-11-17.html); [BGE 91 IV 216](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-91-IV-216_1965-12-03.html)).
 4. **Mittäterschaft bei Probefahrten prüfen.** Bei Raserfahrten im Rahmen von Beschleunigungstests haften Beifahrer oder Verkaufsberater bei gemeinsamem Tatentschluss als Mittäter nach Art. 90 Abs. 3 SVG ([SH OG 50/2021/28](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_50-2021-28-und-50-20_2023-09-12.pdf)).
+5. **Verbindungsbusse korrekt berechnen.** Die Verbindungsbusse nach Art. 42 Abs. 4 StGB ist von der schuldangemessenen Strafe abzuziehen, nicht obendrauf zu schlagen. Die Summe aus bedingter Hauptstrafe und Verbindungsbusse muss schuldangemessen bleiben; die Busse darf höchstens 20 % der Gesamtsanktion betragen. Verschuldensbewertung und Strafmass müssen begrifflich im Einklang stehen — bei «gerade noch leichtem Verschulden» bewegt sich die Einsatzstrafe im unteren Drittel des Strafrahmens, nicht im mittleren ([BGer 7B_497/2025 E. 3.3.2–3.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html); [BGE 149 IV 321 E. 1.3.1–1.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-321_2023.html)).
 
 ---
 
