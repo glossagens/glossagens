@@ -2,16 +2,16 @@
 title: "Art. 146 StGB — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-09-26
+lastmod: 2026-10-04
 description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Kreditrechtsprechung, Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
-tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel"]
+tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel", "Sanktionsgeschäft", "OFAC"]
 agent_verified: true
 revisions:
-  - date: 2026-09-26
-    by: "Antigravity Agent"
-    model: "gemini-3.8-flash"
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
     mcp_verified: true
-    note: "Ergänzung zur Täuschung durch Unterlassen bei Retrozessionen: Garantenstellung des Vermögensverwalters aus Art. 400 Abs. 1 OR (BGer 6S.23/2002, BGE 144 IV 294 E. 3.3); Arglistenerfordernis bei verdeckten Vergütungen und Konkurrenz zu Art. 158 StGB in Abschnitten A.2 und N."
+    note: "Einarbeitung von BGer 7B_20/2025 vom 02.09.2026 (Nichteintretungsverfügung bei Betrug im Sanktionsgeschäft mit angeblichem CIA-Agenten): Verneinung von Täuschung und Arglist bei erfahrener Rohstoffhändlerin mit erhöhten Sorgfaltspflichten in internationalen Transaktionen; Aufnahme als Fall 4 in Abschnitt C.1 (Verwerfungsfälle Opfermitverantwortung), Ergänzung von Abschnitt A (Zukunftsangaben) und Abschnitt B (Arglist-Formel) sowie Tabelle 1. Entscheid via entscheidsuche verifiziert (E. 5.4.1, 5.4.2)."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -111,7 +111,7 @@ Das folgende Raster stellt die dogmatischen Tatbestandsmerkmale in ihrer verbind
 
 ### A. Täuschung über Tatsachen (Abs. 1)
 
-**4** **Was das Merkmal verlangt**: Täuschung ist jedes Verhalten, das darauf gerichtet ist, bei einem andern eine von der Wirklichkeit abweichende Vorstellung hervorzurufen. Gegenstand der Täuschung können ausschliesslich **Tatsachen** sein, d.h. objektiv feststehende vergangene oder gegenwärtige Geschehnisse oder Zustände — nicht aber reine Werturteile, Meinungsäusserungen oder Prognosen über künftige Entwicklungen. Die Täuschung erfolgt durch **Vorspiegeln** (Behaupten des Unwahren), **Unterdrücken** (Verschweigen wahrer Tatsachen bei bestehender Aufklärungspflicht) oder **konkludentes Handeln**.
+**4** **Was das Merkmal verlangt**: Täuschung ist jedes Verhalten, das darauf gerichtet ist, bei einem andern eine von der Wirklichkeit abweichende Vorstellung hervorzurufen. Gegenstand der Täuschung können ausschliesslich **Tatsachen** sein, d.h. objektiv feststehende vergangene oder gegenwärtige Geschehnisse oder Zustände — nicht aber reine Werturteile, Meinungsäusserungen oder Prognosen über künftige Entwicklungen. Die Täuschung erfolgt durch **Vorspiegeln** (Behaupten des Unwahren), **Unterdrücken** (Verschweigen wahrer Tatsachen bei bestehender Aufklärungspflicht) oder **konkludentes Handeln**. Aussagen über ungewisse künftige Ereignisse, auf deren Eintritt der Erklärende keinen endgültigen Einfluss hat, begründen für sich allein keine Täuschung über eine Tatsache — so fehlt es etwa an einer Täuschung, wenn jemand den Erhalt einer behördlichen Lizenz nur in Aussicht stellt, ohne eine Garantie für deren Erteilung abzugeben (unten Fall 4 in Abschnitt C: [BGer 7B_20/2025, E. 5.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html#consideration_5.4.1)).
 
 #### 1. Äussere versus innere Tatsachen (Erfüllungswille und Zahlungsbereitschaft)
 **5** Eine fundamentale Bedeutung in der Praxis kommt den **inneren Tatsachen** zu: Absichten, Willensentschlüsse und Motive sind Tatsachen der seelischen Innenwelt. Wer bei Vertragsschluss verspricht, eine Leistung zu erbringen oder eine Ware zu bezahlen, erklärt zugleich konkludent seinen **Erfüllungswillen** und seine **Zahlungsfähigkeit**. Täuscht er darüber, liegt eine Täuschung über innere Tatsachen vor.
@@ -138,7 +138,7 @@ Das folgende Raster stellt die dogmatischen Tatbestandsmerkmale in ihrer verbind
 
 ### B. Das Kernmerkmal der Arglist (Abs. 1)
 
-**8** **Was das Merkmal verlangt**: Nicht jede Lüge ist Betrug. Arglist erfordert eine qualifizierte Unwahrheit, die sich durch besondere Raffinesse, Durchtriebenheit oder eine planmässige Vorgehensweise auszeichnet. Das Bundesgericht unterscheidet drei Fallgruppen:
+**8** **Was das Merkmal verlangt**: Nicht jede Lüge ist Betrug. Arglist erfordert eine qualifizierte Unwahrheit, die sich durch besondere Raffinesse, Durchtriebenheit oder eine planmässige Vorgehensweise auszeichnet. Das Bundesgericht unterscheidet drei Fallgruppen. Arglist fehlt, wenn sich der Getäuschte mit minimaler Aufmerksamkeit hätte schützen können; eine Mitverantwortung des Opfers schliesst die Arglist jedoch nur in Ausnahmefällen aus, die namentlich bei erfahrenen Geschäftspartnern mit erhöhten Sorgfaltspflichten in internationalen Transaktionen anzunehmen sind ([BGE 147 IV 73 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-73_2021.html#consideration_3.2); [BGE 143 IV 302 E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-302_2017.html#consideration_1.4.1); [BGer 7B_20/2025 vom 2. September 2026, E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html#consideration_5.3)).
 
 ```
                   ┌─────────────────────────────────────────────────┐
@@ -196,6 +196,24 @@ Die Schwellenwerte der Gerichte werden erst durch die direkte Konfrontation von 
 ##### Fall 3: Der Romance-Scam-Grenzfall im Masseurinnen-Milieu
 **16** **Sachverhalt**: Ein gesundheitlich angeschlagener Mann lernte über ein Zeitungsinserat für sinnliche Massagen eine Frau kennen. Sie stellte sich als «Nathalie», 45 Jahre alt, vor (obwohl Name und Alter falsch waren). Mit der Zeit entwickelte sich eine persönliche Beziehung: Sie begleitete ihn zu Ärzten und half ihm im Alltag; er überwies ihr freiwillig rund Fr. 23'000.–, bezahlte Betreibungen und reservierte ein 5-Sterne-Hotel für angebliche Verlobungspläne. Nachdem die Beziehung endete, erstattete er Strafanzeige wegen Betrugs («Romance Scam»).  
 **Entscheid**: Das Bundesgericht bestätigte die Verfahrenseinstellung: Zwar ist Romance Scam grundsätzlich Betrug (als «Lügenhochhaus»). Wenn die Zuwendungen aber freiwillig als Schenkungen erfolgen und im erotischen Gewerbe das Verwenden von Pseudonymen sowie das Vortäuschen von Zärtlichkeit sozialtypisch sind, fehlt es am Nachweis einer arglistigen Täuschung ([BGer 7B_891/2024 vom 22. Oktober 2024, E. 2.5–2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-891-2024_2024-10-22.html)).
+
+##### Fall 4: Das Sanktionsgeschäft mit dem angeblichen CIA-Agenten — erfahrene Rohstoffhändlerin ohne Hintergrundprüfung
+**16a** **Sachverhalt**: Die B.________ SA, deren alleiniger Aktionär A.________ ist, hielt bis Sommer 2022 das gesamte Aktienkapital der C.________ SA (Ölhandel, Sitz im Ausland) sowie sämtliche Anteile der D.________ SA. Im Sommer 2022 nahm A.________ Verhandlungen mit E.________ über den Verkauf von Teilen der Namensaktien auf. Zu diesem Zweck wurde die nach Schweizer Recht gegründete F.________ SA geschaffen; durch Verträge vom Juli und September 2022 erwarb diese 50 % der Aktien von C.________ SA und 26 % jener von D.________ SA. E.________ behauptete, Undercover-Agent der CIA zu sein, und versprach, über seinen angeblichen Einfluss auf die US-Regierung eine Lizenz des Office of Foreign Assets Control (OFAC) zu beschaffen, die die Fortführung des Ölhandelsgeschäfts mit Russland trotz internationaler Sanktionen ermöglichen sollte. Die Beschwerdeführerin veräusserte die Aktien in der Hoffnung, die Schweizer Behörden würden die OFAC-Lizenz übernehmen. Im Frühjahr 2023 deckte eine private Agentur die Falschheit der CIA-Behauptungen auf; E.________ war in den USA diversen Betrugsvorwürfen und Verfahren ausgesetzt. Am 10. Mai 2023 annullierte B.________ SA die Verträge wegen Willensmängeln; im Dezember 2023 erstattete sie Strafanzeige wegen Betrugs. Die Genfer Staatsanwaltschaft verweigerte mit Verfügung vom 11. April 2024 die Eintretung, die Chambre pénale de recours der Cour de justice GE bestätigte dies am 20. November 2024.
+
+**Das Bundesgericht bestätigte die Nichteintretungsverfügung** — bereits mangels Täuschung und jedenfalls mangels Arglist:
+- **Keine Täuschung (E. 5.4.1)**: E.________ hatte lediglich erklärt, er könne «helfen» — ohne falsche Garantie für die Erteilung einer OFAC-Lizenz. Angesichts der Erfahrung der Beschwerdeführerin im Rohstoffhandel war ihr bewusst, dass es sich um eine unsichere, zukünftige Erwartung handelte, auf die der Beschuldigte keinen endgültigen Einfluss hatte — selbst wenn er tatsächlich CIA-Agent gewesen wäre. Die Lizenz hätte ausserdem von den Schweizer Behörden übernommen werden müssen. Die Beschwerdeführerin räumt selbst ein, dass eine solche Lizenz nie durch den Beschuldigten hätte beschafft werden können. Damit fehlt es bereits an einer Täuschung.
+
+> «Il n'y a rien d'arbitraire dans le fait de constater que le prévenu ne pouvait pas garantir et promettre qu'une licence de l'OFAC serait délivrée à la recourante pour la poursuite de ses activités malgré les sanctions internationales.»
+>
+> ([BGer 7B_20/2025 vom 2. September 2026, E. 5.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html#consideration_5.4.1)).
+
+- **Keine Arglist (E. 5.4.2)**: Erstens bestand kein besonderes Vertrauensverhältnis — die Parteien waren nie zuvor in Geschäftsbeziehung gestanden und kannten einander erst seit wenigen Wochen; eine Empfehlung durch Dritte begründete kein blindes Vertrauen. Zweitens setzte der Beschuldigte keine Dokumente zur Untermauerung seiner Behauptungen ein — seine blosse Aussage überzeugte die Beschwerdeführerin zum Verkauf ihrer Aktien, was einen elementaren Mangel an Vorsicht offenbart. Drittens war die Falschheit der Behauptungen durch die Untersuchungen einer privaten Agentur im Frühjahr 2023 aufgedeckt worden; solche Abklärungen waren nicht aussergewöhnlich oder unverhältnismässig, da der Beschuldigte in den USA diversen Betrugsvorwürfen ausgesetzt war — eine Information, die leicht zu beschaffen gewesen wäre. Der Sorgfaltsmassstab ist nach der Getäuschten und ihren Schutzmöglichkeiten zu beurteilen; dass Dritte die Falschheit nicht erkannt hatten, ist unerheblich.
+
+> «Les parties n'avaient en effet jamais été en relation d'affaires par le passé et ne se connaissaient que depuis peu. [...] elle était expérimentée dans le domaine des affaires et que, au vu des montants en jeu, du caractère international des transactions et du contexte particulier des sanctions frappant le commerce de pétrole avec la Fédération de Russie [...], une prudence particulière s'imposait.»
+>
+> ([BGer 7B_20/2025, E. 5.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html#consideration_5.4.2)).
+
+**Rückbindung an das Merkmal**: Bei einer im internationalen Rohstoffhandel erfahrenen Gesellschaft, die innerhalb weniger Wochen eine Aktienveräusserung im Rahmen von Sanktionsgeschäften vornimmt, ohne elementare Hintergrundprüfungen durchzuführen, drängt die Opfermitverantwortung die Täuschung in den Hintergrund; Arglist entfällt. Der Entscheid bestätigt die ständige Rechtsprechung, dass der Sorgfaltsmassstab nach den Umständen des Einzelfalls und der Person des Getäuschten zu beurteilen ist und dass eine Mitverantwortung des Opfers die Arglist nur in Ausnahmefällen ausschliesst — hier liegt ein solcher Ausnahmefall vor ([BGE 147 IV 73 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-73_2021.html#consideration_3.2); [BGE 143 IV 302 E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-302_2017.html#consideration_1.4.1); [BGE 142 IV 153 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-153_2016.html#consideration_2.2.2)).
 
 ---
 
@@ -286,6 +304,7 @@ In der gerichtlichen Praxis kristallisierten sich drei typische Täuschungsmuste
 | **TV-Quiz «Risiko» (Fr. 9'705.– / Fr. 95'000.–)** | Vortäuschen von Allgemeinwissen bei heimlicher Lösungsbeschaffung | Überwachung auf Toilette / Garderobe | **Arglist bejaht** (Besondere Machenschaften; Überwachung der Intimsphäre unzumutbar) | [BGE 126 IV 165](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-126-IV-165_2000-10-24.html) |
 | **Unfallmeldung an SUVA** | Täuschende Schilderung des Unfalls zur Erlangung von Taggeldern | SUVA konnte Unfallbericht und Arztberichte leicht anfordern | **Keine Arglist** (Untauglicher Betrugsversuch; SUVA hätte mit Mindestaufwand Mängel erkannt) | [6B_183/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-183-2014_2014-10-28.html) |
 | **Bekanntschafts-Geldgeschenke (Fr. 23'000.–)** | Vorspiegelung von Heiratsabsichten im Erotikmilieu | Hinterfragen von Notlagen / Schenkungscharakter | **Keine Arglist** (Einstellung geschützt; freiwillige Zuwendungen ohne Täuschungsbeweis) | [7B_891/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-891-2024_2024-10-22.html) |
+| **Sanktionsgeschäft mit angeblichem CIA-Agenten (Aktienveräusserung)** | Behauptung, CIA-Undercover-Agent mit Einfluss auf OFAC-Lizenz für Russland-Ölhandel | Hintergrundprüfung (US-Betrugsvorwürfe) leicht über private Agentur aufdeckbar | **Keine Arglist** (erfahrene Rohstoffhändlerin; kurze Geschäftsbeziehung; hohes Volumen; internationale Sanktionen gebieten besondere Vorsicht) | [7B_20/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html) |
 
 ---
 
