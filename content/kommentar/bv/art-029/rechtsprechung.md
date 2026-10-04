@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-09-26
-description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
-tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege"]
+lastmod: 2026-10-04
+description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege, Ausstandsgesuch und Fristwiederherstellung (BGer 7B_15/2026)."
+tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "Ausstand", "Fristwiederherstellung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 7B_15/2026 vom 2. September 2026: Ausstandsgesuch muss 'ohne Verzug' eingereicht werden (Art. 58 Abs. 1 StPO); 6-7 Tage genügen, 17 Tage zu spät = Verwirkung; Spitalaufenthalt (1 Tag) mit anschliessendem Verteidiger-Kontakt kein ausreichendes Hindernis; Art. 94 StPO Fristwiederherstellung erfordert unabwendbaren Notfall. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -192,3 +197,11 @@ revisions:
 - **Kernaussage**: Bei einem Wiedererwägungsgesuch gegen einen rechtskräftigen, aber nie umgesetzten Abbruchentscheid ist von der fiktiven Vollstreckung auszugehen (die illegale Baute gilt als abgebrochen); zu prüfen ist, ob an diesem Standort eine gleich dimensionierte Neubaute bewilligt werden könnte. Die blosse Absicht eines Pächters, eine illegal erstellte Baute künftig landwirtschaftlich zu nutzen, stellt für sich allein keinen Wiedererwägungsgrund dar, wenn die betriebliche Notwendigkeit (hier nach Art. 16a Abs. 1 RPG) objektiv nicht dargelegt ist. Die Obliegenheit der unverzüglichen Geltendmachung von Ausstandsgründen ergibt sich aus dem verfassungsrechtlichen Grundsatz von Treu und Glauben (Art. 5 Abs. 3 BV) und gilt auch für Laien, unabhängig von einer ausdrücklichen gesetzlichen Grundlage; ein erst Jahre später erhobener Einwand ist verwirkt.
 - **Einschlägig für**: Art. 29 BV; Wiedererwägungsanspruch; fiktive Vollstreckung; Ausstandsrügepflicht; Treu und Glauben; Art. 5 Abs. 3 BV; antizipierte Beweiswürdigung
 - **Relevante Erwägungen**: E. 3.3, E. 4.2, E. 5.3, E. 6
+
+---
+
+#### [BGer 7B_15/2026 vom 2. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-15-2026_2026-09-02.html)
+- **Thema**: Ausstandsgesuch "ohne Verzug" (Art. 58 Abs. 1 StPO); Verwirkung bei verspäteter Einreichung; Fristwiederherstellung nach Art. 94 StPO
+- **Kernaussage**: Ein Ausstandsgesuch muss "ohne Verzug" eingereicht werden (Art. 58 Abs. 1 StPO). Nach ständiger Rechtsprechung genügen 6–7 Tage; 17 Tage sind zu spät und führen zur Verwirkung. Ein Spitalaufenthalt von einem Tag mit anschliessendem Kontakt zum Verteidiger am nächsten Tag stellt kein ausreichendes Hindernis für die Fristwahrung dar. Die Fristwiederherstellung nach Art. 94 StPO erfordert einen unabwendbaren Notfall; ein Spitalaufenthalt mit Verteidiger-Kontakt am folgenden Tag genügt diesen Anforderungen nicht.
+- **Einschlägig für**: Art. 29 Abs. 1 BV; Art. 58 Abs. 1 StPO (Ausstand, "ohne Verzug"); Art. 94 StPO (Fristwiederherstellung); Verwirkung; unabwendbarer Notfall
+- **Relevante Erwägungen**: E. 2.2.1

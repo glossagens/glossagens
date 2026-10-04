@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 48 StGB"
 weight: 99
 date: 2026-06-28
-lastmod: "2026-08-30"
-description: "Übersicht der Rechtsprechung zu Art. 48 StGB — Strafmilderungsgründe: achtenswerte Beweggründe bei Klimaaktivisten, Greenpeace-Blockaden, Bedrängnis, seelische Belastung, aufrichtige Reue, Zeitablauf und unverjährbare Straftaten."
-tags: ["Rechtsprechung", "StGB", "Strafmilderung", "Achtenswerte Beweggründe", "Klimaaktivisten", "Reue", "Zeitablauf", "Allgemeiner Teil"]
+lastmod: 2026-10-04
+description: "Übersicht der Rechtsprechung zu Art. 48 StGB — Strafmilderungsgründe: achtenswerte Beweggründe bei Klimaaktivisten, Greenpeace-Blockaden, Bedrängnis, seelische Belastung, aufrichtige Reue, Zeitablauf und unverjährbare Straftaten, Zwei-Drittel-Regel und 'gutes Verhalten' (BGer 6B_326/2026)."
+tags: ["Rechtsprechung", "StGB", "Strafmilderung", "Achtenswerte Beweggründe", "Klimaaktivisten", "Reue", "Zeitablauf", "Gutes Verhalten", "Zwei-Drittel-Regel", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_326/2026 vom 27. August 2026 (5er-Kammer, Mord): Art. 48 lit. e StGB setzt kumulativ sensiblen Rückgang des Strafinteresses durch Zeitablauf UND gutes Verhalten voraus; 2/3 der Verjährungsfrist = 'relativ lange Zeit'; schwere Verkehrsregelverletzung in der Zwischenzeit schliesst 'gutes Verhalten' aus. Link via entscheidsuche.ch verifiziert."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
@@ -66,3 +71,14 @@ revisions:
 
 - **Kernaussage**: Ausgehend von der objektiven Tatschwere hat der Richter das (subjektive) Tatverschulden zu bewerten und dabei die verminderte Schuldfähigkeit zu berücksichtigen. Er muss dartun, in welchem Umfang sich diese verschuldensmindernd auswirkt (E. 5.5, 5.6). Die Gesamteinschätzung des Tatverschuldens ist im Urteil zu benennen (E. 5.7). Die verminderte Schuldfähigkeit allein führt grundsätzlich nicht zur Unterschreitung des ordentlichen Strafrahmens; dazu bedarf es weiterer, ins Gewicht fallender Umstände (E. 5.8).
 - **Einschlägig für**: Art. 48, Art. 48a, Art. 50 StGB (Strafzumessung, Strafrahmenverschiebung, Begründungspflicht).
+
+---
+
+## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 6B_326/2026 vom 27. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-326-2026_2026-08-27.html) E. 6.1.2, 6.3.1 — Art. 48 lit. e StGB: Zeitablauf und "gutes Verhalten" (Mord)
+
+- **Sachverhalt**: Der Täter war wegen Mordes (Art. 111 StGB) verurteilt worden. Im Strafzumessungsverfahren stritt um die Gewährung des Milderungsgrundes des Zeitablaufs nach Art. 48 lit. e StGB. Der Entscheid stammt aus der 5er-Kammer (ca. 11'800 Wörter).
+- **Kumulative Voraussetzungen (E. 6.1.2)**: Art. 48 lit. e StGB setzt kumulativ voraus: (1) ein sensibler Rückgang des Strafinteresses durch Zeitablauf und (2) gutes Verhalten des Täters in der Zwischenzeit. Beide Voraussetzungen müssen kumulativ erfüllt sein — nicht bloss eine davon. Die Zwei-Drittel-Regel: bei Verstreichen von zwei Dritteln der Verjährungsfrist liegt eine "relativ lange Zeit" vor. "Gutes Verhalten" bedeutet mindestens, dass der Täter in der Zwischenzeit keine Straftaten begangen hat.
+- **Verneinung im konkreten Fall (E. 6.3.1)**: Art. 48 lit. e StGB wurde verneint. Der Täter hatte nach der Tat eine schwere Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG begangen. Damit fehlt es am "guten Verhalten" in der Zwischenzeit, und Art. 48 lit. e StGB ist nicht anwendbar. Bei Mord (Strafdrohung 5–20 Jahre) liegt die Einsatzstrafe bei mittlerer Schuld zwischen 10 und 15 Jahren.
+- **Einschlägig für**: Art. 48 lit. e StGB — Zeitablauf als Strafmilderungsgrund, kumulative Voraussetzungen, Zwei-Drittel-Regel, "gutes Verhalten" als Voraussetzung, Abgrenzung bei Mord (Art. 111 StGB); Art. 90 Abs. 2 SVG ( als Ausschlusskriterium).

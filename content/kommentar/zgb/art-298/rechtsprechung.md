@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 298 ZGB"
 weight: 99
 date: 2026-09-17
-lastmod: 2026-09-17
-description: "Übersicht der Leitentscheide des Bundesgerichts zu Art. 298 ZGB: Schwellenwert der Alleinzuteilung im Scheidungs- und Eheschutzverfahren, Beschränkung auf Obhutsregelung, alternierende Obhut und Konnexität von Sorge und Obhut."
-tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alternierende Obhut", "Obhut"]
+lastmod: 2026-10-04
+description: "Übersicht der Leitentscheide des Bundesgerichts zu Art. 298 ZGB: Schwellenwert der Alleinzuteilung im Scheidungs- und Eheschutzverfahren, Beschränkung auf Obhutsregelung, alternierende Obhut, Konnexität von Sorge und Obhut, 40%-Schwelle der alternierenden Obhut (BGer 5A_646/2026)."
+tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alternierende Obhut", "Obhut", "Kindeswohl"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 5A_646/2026 vom 17. September 2026: Alternierende Obhut setzt keine exakt hälftige Betreuung voraus; 40,5% genügen (Wesentlichkeit bei über 40%); kein Anspruch auf paritätische Aufteilung; Abgrenzung zur deutschen Rechtsprechung (BGH). Bestätigt BGE 142 III 617 E. 4.2. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -101,6 +106,11 @@ revisions:
 *Kernaussage:* Ein elterlicher Konflikt ist für die Obhutsfrage nur beachtlich, wenn er sich – über die Betreuungsfrage hinaus – auf andere Kinderbelange bezieht und dadurch das Kindeswohl gefährdet; bleibt dies unaufgeklärt, ist die Sache zurückzuweisen. Auf das Verschulden am Konflikt kommt es nicht an.
 *Einschlägig für:* Abs. 2ter (Eheschutzverfahren, Substanziierung des Elternkonflikts).
 
+### 40%-Schwelle der alternierenden Obhut; kein Anspruch auf paritätische Aufteilung
+**[BGer 5A_646/2026 vom 17. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-646-2026_2026-09-17.html)**, E. 4.3
+*Kernaussage:* Die alternierende Obhut setzt keine exakt hälftige Betreuung voraus. Ein Betreuungsumfang des Vaters von 40,5% genügt (Wesentlichkeit bei über 40%). Es besteht kein Anspruch auf paritätische Aufteilung — massgeblich ist allein das Kindeswohl. Das Bundesgericht grenzt sich dabei von der deutschen Rechtsprechung ab (BGH: quasi-paritätisch erforderlich). Bestätigt BGE 142 III 617 E. 4.2 und die ständige Rechtsprechung.
+*Einschlägig für:* Abs. 2ter (Wesentlichkeitsschwelle, paritätische vs. asymmetrische Betreuungsaufteilung).
+
 ### Erweiterte Wochenbetreuung trotz Distanz
 **[BGer 5A_722/2020 vom 13. Juli 2021](https://mcp.opencaselaw.ch/entscheid/bger_5A_722_2020)**, E. 3.1.2 und 3.2
 *Kernaussage:* Auch bei erheblicher Distanz zwischen den Wohnorten der Eltern kann die alternierende Obhut angezeigt sein, wenn ein Elternteil bereits deutlich mehr als im Rahmen eines üblichen Besuchsrechts betreut; die Vorinstanz darf die tatsächliche Betreuungsbeteiligung nicht zugunsten formaler Kriterien übergehen.
@@ -108,4 +118,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 17.09.2026*
+*Letzte Aktualisierung: 04.10.2026*

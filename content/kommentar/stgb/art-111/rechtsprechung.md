@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 111 StGB"
 weight: 99
 date: 2026-09-05
-lastmod: "2026-09-05"
-description: "Übersicht der Rechtsprechung zu Art. 111 StGB — Vorsätzliche Tötung: Eventualvorsatz, Mordabgrenzung in dubio pro reo, Notwehrexzess, Totschlag, Versuch, Teilnahme und Strafzumessung."
+lastmod: "2026-10-04"
+description: "Übersicht der Rechtsprechung zu Art. 111 StGB — Vorsätzliche Tötung: Eventualvorsatz, Mordabgrenzung in dubio pro reo, Notwehrexzess, Totschlag, Versuch, Teilnahme und Strafzumessung, fehlendes Motiv schliesst Vorsatz nicht aus (BGer 6B_326/2026)."
 tags: ["Rechtsprechung", "StGB", "Vorsätzliche Tötung", "Eventualvorsatz", "Mordabgrenzung", "Notwehr", "Totschlag", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_326/2026 vom 27. August 2026 (5er-Kammer): Verurteilung nach Art. 111 StGB bestätigt; fehlendes Motiv schliesst Vorsatz nicht aus. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -123,6 +128,13 @@ revisions:
 ---
 
 ## II. Weitere kantonale Praxis
+
+### [BGer 6B_326/2026 vom 27. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-326-2026_2026-08-27.html) E. 5.4 — Verurteilung nach Art. 111 StGB bestätigt; fehlendes Motiv schliesst Vorsatz nicht aus
+
+- **Kernaussage**: Das Bundesgericht bestätigt die Verurteilung nach Art. 111 StGB. Ein fehlendes oder nicht geklärtes Motiv schliesst den Vorsatz nicht aus — die Vorsatzfeststellung stützt sich auf die Tatumstände und die Tatausführung, nicht auf die Kenntnis des Motivs. Der Entscheid befasst sich in den weiteren Erwägungen schwerpunktmässig mit Art. 48 lit. e StGB (Zeitablauf als Strafmilderungsgrund), was in [Art. 48 StGB](../../art-048/rechtsprechung.md) dokumentiert ist.
+- **Einschlägig für**: Art. 111 StGB — Vorsatzfeststellung, fehlendes Motiv, Mord.
+
+---
 
 ### [ZH Obergericht SB180237 vom 22. Juni 2018](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180237_2018-06-22.pdf) — Versuchte Tötung bei Messergewalt
 

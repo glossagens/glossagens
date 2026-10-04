@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 16 ATSG — Grad der Invalidität"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-08-31
-description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug, Parallelisierung und Verhältnis zwischen IV und UVG."
-tags: ["Rechtsprechung", "ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Invalidenversicherung"]
+lastmod: 2026-10-04
+description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug, Parallelisierung, Verhältnis zwischen IV und UVG, Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte (BGer 8C_633/2025), Einarbeitungszuschlag als Soziallohn."
+tags: ["Rechtsprechung", "ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Invalidenversicherung", "Invalideneinkommen", "Soziallohn", "ESS"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 8C_633/2025 vom 2. September 2026 (Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte; Einarbeitungszuschlag als Soziallohn; Invaliditätsgrad von 19,07% auf 10% korrigiert). Korrektur des Links für BGer 8C_65/2026 von opencaselaw.ch auf entscheidsuche.ch. Links via entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -60,5 +65,9 @@ Zurück zum Kommentar: [Art. 16 ATSG — Grad der Invalidität](./)
 ### [BGer 8C_3/2026 vom 15.01.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-3-2026_2026-01-15.html) — Invalidenkarriere und Revisionsvergleich
 - **Kernaussage**: Berücksichtigung von Stellenangeboten und tatsächlicher Lohnentwicklung im Revisionsverfahren.
 
-### [BGer 8C_65/2026 vom 06.08.2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_65_2026) — Relativierung des Einheitsprinzips (IV vs. UVG)
+### [BGer 8C_65/2026 vom 06.08.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-65-2026_2026-08-06.html) — Relativierung des Einheitsprinzips (IV vs. UVG)
 - **Kernaussage**: Der Grundsatz der Einheit des Invaliditätsbegriffs nach Art. 16 ATSG schliesst divergierende Berechnungsmodalitäten zwischen den Zweigen nicht aus; die IV-spezifischen Korrekturregeln (Art. 26 und Art. 26bis Abs. 3 IVV) finden im UVG-Einkommensvergleich keine analoge Anwendung (E. 7.4.4).
+
+### [BGer 8C_633/2025 vom 2. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-633-2025_2026-09-02.html) E. 6.1, 6.4 — Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte; Einarbeitungszuschlag als Soziallohn
+- **Kernaussage**: Das Invalideneinkommen ist vorab nach der konkreten beruflichen Situation zu bestimmen. Bei stabiler Tätigkeit, die die Restarbeitsfähigkeit voll ausschöpft und keinen Soziallohn-Bestandteil enthält, ist das effektiv erzielte Einkommen massgebend (E. 6.1). Fehlt eine stabile Tätigkeit (hier: nur 9 Monate Dauer, gekündigt vor Rechtskraft), ist auf Statistikwerte (ESS) abzustellen. Ein Einarbeitungszuschlag nach Art. 18b IVG gilt als Soziallohn-Bestandteil, sodass das tatsächliche Invalideneinkommen nicht massgeblich ist; der Invaliditätsgrad wird nach Massgabe der statistischen Daten bestimmt (E. 6.4). Resultat: Invaliditätsgrad von 19,07% auf 10% korrigiert (Gutheissung der Beschwerde der SUVA).
+- **Einschlägig für**: Art. 16 ATSG — Invalideneinkommen, konkrete vs. statistische Bemessung, Soziallohn, Einarbeitungszuschlag (Art. 18b IVG), UVG.

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 271 OR"
 weight: 99
 date: 2026-09-14
-lastmod: 2026-09-14
-description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 271 OR: Treuwidrigkeit der Kündigung, Sanierungs- und Abbruchkündigungen, Ertragsoptimierung, Hausfriedensstörung und Begründungspflicht."
-tags: ["Rechtsprechung", "OR", "Mietrecht", "Kündigungsschutz", "Treu und Glauben"]
+lastmod: 2026-10-04
+description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 271 OR: Treuwidrigkeit der Kündigung, Sanierungs- und Abbruchkündigungen, Ertragsoptimierung, Hausfriedensstörung und Begründungspflicht, Anwendung von BGE 151 III 481 (BGer 4A_69/2026)."
+tags: ["Rechtsprechung", "OR", "Mietrecht", "Kündigungsschutz", "Treu und Glauben", "Abbruchkündigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 4A_69/2026 vom 11. August 2026: Anwendung von BGE 151 III 481 (Abbruchkündigung erfordert kein reifes Projekt; missbräuchlich nur bei objektiv offensichtlicher Unmöglichkeit der Abbruchbewilligung; blosse Projektaufgabe einige Monate nach Kündigung macht diese nicht automatisch missbräuchlich). Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -86,7 +91,12 @@ Die nachfolgende Übersicht dokumentiert die massgebende Rechtsprechung des Bund
 
 ## II. Weitere Entscheide (Kantonale Gerichte und BGer)
 
-### Unzulässigkeit der Ertragsoptimierungskündigung bei vertaner absoluter Erhöhungsmöglichkeit
+### Anwendung von BGE 151 III 481: Abbruchkündigung ohne reifes Projekt; Projektaufgabe nachträglich
+[BGer 4A_69/2026 vom 11. August 2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-69-2026_2026-08-11.html)
+* **Kernaussage**: Das Bundesgericht wendet BGE 151 III 481 an und bestätigt: Bei einer Abbruchkündigung ist — im Gegensatz zur Umbaukündigung — kein reifes Projekt nötig. Die Kündigung ist nur missbräuchlich, wenn objektiv offensichtlich ist, dass die Abbruchbewilligung unmöglich ist (z.B. Denkmalschutz). Die blosse Aufgabe des Projekts einige Monate nach dem Kündigungsausspruch macht die Kündigung nicht automatisch missbräuchlich.
+* **Einschlägig für**: Art. 271 Abs. 1 OR — Abbruchkündigung, Abgrenzung zur Sanierungs-/Umbaukündigung, nachträgliche Projektaufgabe, Treuwidrigkeit.
+
+### Unzulässigkeit der Ertragsoptimierungskündigung bei vertanter absoluter Erhöhungsmöglichkeit
 [ZH OG NG220014 vom 3.10.2023](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_NG220014_2023-10-03.pdf)  
 *Sachverhalt:* Die Erwerberin einer Liegenschaft in Zürich erhöhte den Mietzins im März 2021 vorbehaltlos nach relativer Methode und kündigte nur einen Monat später per Ende September 2021 mit der Begründung, sie erziele keine zulässige Nettorendite.  
 *Kernaussage:* Das Obergericht des Kantons Zürich hebt die Kündigung auf: Kann die Vermieterin eine Mietzinsanpassung nach absoluter Methode im bestehenden Mietvertrag durchführen, fehlt ihr ein legitimes Kündigungsinteresse (Schonungsgebot). Werden stattdessen vorbehaltlos relative Erhöhungsgründe ausgeschöpft und wird kurz darauf wegen ungenügender Rendite gekündigt, liegt ein treuwidriges, widersprüchliches Verhalten (*venire contra factum proprium*) vor.

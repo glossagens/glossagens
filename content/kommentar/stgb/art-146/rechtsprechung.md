@@ -3,15 +3,20 @@ title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
 lastmod: 2026-10-04
-description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Prozessbetrug, Gewerbsmässigkeit und Sanktionsgeschäfte (BGer 7B_20/2025)."
-tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Besonderer Teil", "Sanktionsgeschäft"]
+description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Arglistverneinung bei erfahrenen Rohstoffhändlern (BGer 7B_20/2025), Prozessbetrug und Gewerbsmässigkeit."
+tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Sanktionsgeschäft", "Besonderer Teil"]
 agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
     mcp_verified: true
-    note: "Aufnahme von BGer 7B_20/2025 vom 02.09.2026 (Nichteintretungsverfügung bei Betrug; Sanktionsgeschäft mit angeblichem CIA-Agenten): Verneinung von Täuschung (Zukunftsangabe ohne Garantie) und Arglist (erfahrene Rohstoffhändlerin, erhöhte Sorgfaltspflichten bei internationalen Sanktionsgeschäften). Entscheid via entscheidsuche verifiziert."
+    note: "Aufnahme von BGer 7B_20/2025 vom 2. September 2026 (Arglist verneint bei erfahrenen Rohstoffhändlern im Sanktionsgeschäft; Prüfungsmassstab richtet sich nach der Geschädigten). Link via entscheidsuche.ch verifiziert."
+  - date: 2026-09-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Umfassender Ausbau der Covid-19-Kreditjudikatur: Aufnahme von BGer 6B_148/2026 vom 02.09.2026 (falsche Ursachenzuschreibung der Notlage auf die Pandemie bei vorbestandener Überschuldung, MWST-Umsatznachweis, Konkurrenzen zu Art. 251, Art. 163 und Art. 305bis StGB), BGE 151 IV 113 (Täuschungscharakter bei offensichtlich falscher Notlagenerklärung) sowie BGer 6B_826/2024 (Schadenseintritt bei Kreditauszahlung und Zweckentfremdung)."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -165,6 +170,13 @@ revisions:
 
 ---
 
+### [BGer 7B_20/2025 vom 2. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html) E. 5.4.2 — Arglist verneint bei erfahrenen Rohstoffhändlern im Sanktionsgeschäft
+- **Thema**: Arglistverneinung bei erfahrenen Geschäftspersonen; Zumutbarkeit von Hintergrundprüfungen im Rohstoffhandel mit Sanktionsstaaten.
+- **Kernaussage**: Arglist wird verneint, wenn die Täuschung für eine erfahrene Handelsgesellschaft objektiv erkennbar war und von ihr elementare Hintergrundprüfungen zumutbar waren — etwa eine Recherche nach laufenden US-Fraud-Verfahren gegen den Täuschenden. Blosse Behauptungen ohne Belege genügen nicht zur Begründung von Arglist. Der Prüfungsmassstab richtet sich nach der Geschädigten (hier: erfahrene Geschäftsperson im Sanktionsgeschäft).
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Arglist, Opfermitverantwortung bei erfahrenen Geschäftspartnern, Prüfungsmassstab nach Geschädigten-Kategorie.
+
+---
+
 ### [BGer 6B_497/2014 vom 6. März 2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-497-2014_2015-03-06.html) E. 3.4.3 — Notlagen-Kreditinserate in Boulevardmedien
 - **Thema**: Arglist bei Ausnutzung extremer finanzieller Notlagen unerfahrener Personen.
 - **Kernaussage**: Wer in Boulevardmedien (Blick, Glückspost) mit Sofortkrediten ohne Bonitätsprüfung wirbt, Kreditsuchende spätabends auf Parkplätzen trifft und Bargeldvorschüsse vereinnahmt, handelt arglistig. Auch wenn die Opfer grob unvorsichtig agieren, schliesst das gezielte Ausnutzen ihrer finanziellen Ausweglosigkeit und Unerfahrenheit den Einwand der Opfermitverantwortung aus.
@@ -197,13 +209,6 @@ revisions:
 - **Thema**: Fehlende objektive Arglist bei grob durchschaubarem Manöver gegenüber Sozialversicherern.
 - **Kernaussage**: Eine Verurteilung wegen versuchten Betrugs setzt voraus, dass das Vorgehen nach dem Tatplan objektiv arglistig war. Konnte die SUVA den angeblichen Unfallhergang durch einfache Rückfragen bei Ärzten aufdecken, fehlt es an der objektiven Eignung zur Täuschung, was zum Freispruch führt.
 - **Einschlägig für**: Art. 146 Abs. 1 i.V.m. Art. 22 StGB — Untauglicher Versuch, Fehlen objektiver Arglist.
-
----
-
-### [BGer 7B_20/2025 vom 2. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html#consideration_5.4.1) E. 5.4.1–5.4.2 — Nichteintretungsverfügung bei Betrug: fehlende Täuschung und Arglist im Sanktionsgeschäft
-- **Thema**: Verneinung von Täuschung und Arglist bei einer im internationalen Rohstoffhandel erfahrenen Gesellschaft; erhöhte Sorgfaltspflichten bei Sanktionsgeschäften mit hohem Volumen.
-- **Kernaussage**: Eine Gesellschaft mit Erfahrung im internationalen Rohstoffhandel veräusserte Aktienanteile an eine von einem angeblichen CIA-Agenten kontrollierte Gesellschaft in der Hoffnung auf eine OFAC-Lizenz für Russland-Ölgeschäfte. Das Bundesgericht bestätigt die Nichteintretungsverfügung: Es fehlt bereits an einer Täuschung, weil der Beschuldigte lediglich erklärte, er könne «helfen», ohne eine Garantie für die Erteilung der OFAC-Lizenz abzugeben — bei der Erfahrung der Beschwerdeführerin im Rohstoffhandel war ihr bewusst, dass es sich um eine unsichere, zukünftige Erwartung handelte (E. 5.4.1). Jedenfalls fehlt es an der Arglist: Die Parteien kannten einander erst seit wenigen Wochen, der Beschuldigte setzte keine Dokumente zur Untermauerung ein, und die Falschheit der CIA-Behauptung war durch eine private Agentur ohne unverhältnismässigen Aufwand aufdeckbar, da der Beschuldigte in den USA diversen Betrugsvorwürfen ausgesetzt war. Bei den betroffenen Beträgen, dem internationalen Charakter der Transaktion und dem Kontext der Sanktionen gegen den Ölhandel mit Russland waren erhöhte Sorgfaltspflichten anzunehmen; die Opfermitverantwortung drängt die Täuschung in den Hintergrund (E. 5.4.2). Der Sorgfaltsmassstab ist nach der Getäuschten und ihren Schutzmöglichkeiten zu beurteilen.
-- **Einschlägig für**: Art. 146 Abs. 1 StGB — Täuschung (Zukunftsangaben), Arglist, Opfermitverantwortung bei erfahrenen Geschäftspartnern in internationalen Sanktionsgeschäften; Art. 310 Abs. 1 StPO — *in dubio pro duriore*, Prüfungsmassstab bei Nichteintretungsverfügungen.
 
 ---
 

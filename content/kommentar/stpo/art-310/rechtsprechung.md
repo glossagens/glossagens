@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 310 StPO"
 weight: 99
 date: 2026-03-30
-lastmod: 2026-09-09
-description: "Systematische Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): In dubio pro duriore, Vorabklärungen, Parteirechte, Kosten und Wiederaufnahme."
-tags: ["Rechtsprechung", "StPO", "Nichtanhandnahme", "In dubio pro duriore", "Wiederaufnahme", "Beschwerde"]
+lastmod: 2026-10-04
+description: "Systematische Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): In dubio pro duriore, Vorabklärungen, Parteirechte, Kosten und Wiederaufnahme, Nichteintretensverfügung (Art. 310 Abs. 1 lit. a StPO)."
+tags: ["Rechtsprechung", "StPO", "Nichtanhandnahme", "In dubio pro duriore", "Wiederaufnahme", "Beschwerde", "Nichteintretensverfügung"]
 agent_verified: true
+revisions:
+  - date: 2026-10-04
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 7B_20/2025 vom 2. September 2026 (Bestätigung des Nichteintretens- resp. Nichtanhandnahme-Standards nach Art. 310 Abs. 1 lit. a StPO im Kontext eines Betrugsvorwurfs). Link via entscheidsuche.ch verifiziert."
 ---
 
 ## I. Leitentscheide des Bundesgerichts
@@ -114,6 +120,14 @@ agent_verified: true
 * **Fundstelle:** [SG KG AK.2017.237 vom 26.10.2017 E. 3](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2017-237_2017-10-26.pdf)
 * **Sachverhalt:** Nach einem Bergunfall mit einem elektrischen Rollstuhl führte die Staatsanwaltschaft über zwölf Monate Vorabklärungen durch und verfügte danach die Nichtanhandnahme.
 * **Kernaussage:** Erfordern Vorwürfe komplexe Abklärungen über mehr als ein Jahr, darf die Staatsanwaltschaft nicht im Vorprüfungsstadium verharren. Sie muss unverzüglich eine Untersuchung nach Art. 309 StPO eröffnen. Die Nichtanhandnahme wurde aufgehoben.
+
+---
+
+### Bestätigung des Nichtanhandnahme-Standards bei fehlendem Tatverdacht (BetrugsKonstellation)
+* **Fundstelle:** [BGer 7B_20/2025 vom 2. September 2026, E. 5.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html)
+* **Sachverhalt:** Strafanzeige wegen Betrugs im Zusammenhang mit einem Rohstoffhandelsgeschäft in einer Sanktionsregion. Die Vorinstanz hatte nicht an Hand genommen bzw. auf die Beschwerde nicht eingetreten.
+* **Kernaussage:** Das Bundesgericht bestätigt den massgeblichen Standard nach Art. 310 Abs. 1 lit. a StPO: Eine Nichtanhandnahme bzw. ein Nichteintreten ist zulässig, wenn feststeht, dass kein Straftatbestand erfüllt ist. Im konkreten Fall fehlte es an Arglist (Art. 146 StGB), da die Täuschung für die erfahrene geschädigte Handelsgesellschaft objektiv erkennbar war und ihr elementare Hintergrundprüfungen zumutbar waren — womit der Straftatbestand nicht erfüllt und die Nichtanhandnahme zu bestätigen war.
+* **Einschlägig für:** Art. 310 Abs. 1 lit. a StPO — Nichteintretensverfügung / Nichtanhandnahme bei fehlendem Tatbestand; Bestätigung des *in dubio pro duriore*-Grundsatzes im Kontext eines Betrugsvorwurfs.
 
 ---
 
