@@ -1,0 +1,18 @@
+# Systematik-Gliederung für das BGÖ (SR 152.3)
+# Grundlage der automatisch generierten Artikelübersicht.
+gruppen:
+  - name: "1. Abschnitt: Allgemeine Bestimmungen"
+    von: 1
+    bis: 5
+  - name: "2. Abschnitt: Recht auf Zugang zu amtlichen Dokumenten"
+    von: 6
+    bis: 9
+  - name: "3. Abschnitt: Verfahren für den Zugang zu amtlichen Dokumenten"
+    von: 10
+    bis: 17
+  - name: "4. Abschnitt: Der EDÖB"
+    von: 18
+    bis: 20
+  - name: "5. Abschnitt: Schlussbestimmungen"
+    von: 21
+    bis: 24
