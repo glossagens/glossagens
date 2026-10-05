@@ -2,11 +2,16 @@
 title: "Art. 48 StGB — Strafmilderungsgründe"
 weight: 48
 date: 2026-06-28
-lastmod: "2026-08-30"
+lastmod: "2026-10-05"
 description: "Kommentar zu Art. 48 StGB: Strafmilderungsgründe — Achtenswerte Beweggründe und Bedrängnis (lit. a), Versuchung durch das Opfer (lit. b), Gemütsbewegung (lit. c), aufrichtige Reue (lit. d) und Zeitablauf (lit. e)."
 tags: ["StGB", "Strafmilderung", "Achtenswerte Beweggründe", "Bedrängnis", "Reue", "Zeitablauf", "Strafzumessung", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-05
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_326/2026 vom 27.08.2026 in lit. e-Abschnitt: Wohlverhalten als kumulative Voraussetzung; zwischenzeitliche Straftat (Art. 90 Abs. 2 SVG) schliesst Art. 48 lit. e StGB aus; wörtliches Zitat E. 6.3.1, Pinpoint via entscheidsuche verifiziert."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
@@ -79,6 +84,12 @@ revisions:
 
 ### 5. Vermindertes Strafbedürfnis nach langem Zeitablauf (lit. e)
 **10** Ein Strafmilderungsanspruch besteht regelmässig, wenn mindestens zwei Drittel der relativen Verjährungsfrist verstrichen sind, das Verfahren ohne Verschulden des Täters verzögert wurde und Wohlverhalten vorliegt ([BGE 140 IV 145](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-145_2014.html) E. 3.1).
+
+**10a** *Wohlverhalten als kumulative Voraussetzung*: Das «gute Verhalten» ist mindestens als Abwesenheit neuer Straftaten zu verstehen; es steht neben dem Zeitablauf als eigenständige, kumulativ zu prüfende Bedingung; sie entfällt, sobald der Täter nach der Tat eine — auch ausserhalb des Tatgeschehens liegende — Straftat begeht ([BGer 6B_326/2026 vom 27. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-326-2026_2026-08-27.html#consideration_6.3.1) E. 6.1.2 und 6.3.1). Im konkreten Fall war die Zweidrittelgrenze der Verjährungsfrist zwar erreicht; der Täter hatte sich aber am 11. Oktober 2017 einer schweren Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG schuldig gemacht, was das Wohlverhalten verneinen liess:
+
+> «Dans la mesure où le recourant a commis une infraction pénale à la suite des faits donnant lieu au verdict de culpabilité, une condition de l'art. 48 let. e CP fait défaut, de sorte qu'il ne saurait s'en prévaloir en vue d'obtenir une atténuation de sa peine (cf. en ce sens, parmi d'autres, arrêt 6B_668/2025 du 7 octobre 2025 consid. 8).»
+
+Die zwischenzeitliche Straftat muss nicht derselben Deliktskategorie angehören; auch eine ausserhalb des Tatkonnexes stehende Verkehrsdelinquenz reicht aus, um den Milderungsgrund auszuschliessen (E. 6.3.1; bestätigend BGer 6B_668/2025 vom 7. Oktober 2025 E. 8).
 
 **11** *Unverjährbare Straftaten*: Für unverjährbare Verbrechen nach Art. 101 Abs. 1 StGB (z.B. sexuelle Handlungen mit Kindern unter 12 Jahren) ist Art. 48 lit. e StGB nicht anwendbar; an seine Stelle tritt Art. 101 Abs. 2 StGB, der den Zeitpunkt bestimmt, ab dem das Gericht die Strafe mildern kann. Die analoge Anwendung der Zweidrittelfrist bedeutet, dass der Milderungsgrund frühestens bei Erreichen der fiktiven Verjährungsfrist in Betracht kommt ([BGE 140 IV 145](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-145_2014.html) E. 3.2, 3.6).
 
