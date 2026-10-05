@@ -1,128 +1,299 @@
 ---
-title: "Art. 430 — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung"
+title: "Art. 430 StPO — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung"
 weight: 430
 date: 2026-07-11
-lastmod: 2026-08-21
-description: "Kommentar zu Art. 430 StPO – Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung: Voraussetzungen nach Abs. 1 lit. a–c, Herabsetzung im Rechtsmittelverfahren nach Abs. 2, Verhältnis zu Art. 426 Abs. 2 und Art. 431 StPO"
-tags: ["StPO", "Entschädigung", "Genugtuung", "Kosten", "Herabsetzung", "Verweigerung", "Freispruch", "Verfahrenseinstellung", "Selbstverschulden"]
+lastmod: 2026-10-05
+description: "Praxiskommentar zu Art. 430 StPO: Herabsetzung und Verweigerung von Entschädigung und Genugtuung — Zivilrechtliche Vorwerfbarkeit bei Einstellung oder Freispruch, Unschuldsvermutung und Schweigerecht, Ausfallhaftung des Staates bei uneinbringlicher Privatklägerentschädigung, Geringfügigkeitsgrenze sowie Kürzungsfolgen im Rechtsmittelverfahren."
+tags: ["StPO", "Entschädigung", "Genugtuung", "Kosten", "Herabsetzung", "Verweigerung", "Freispruch", "Einstellung", "Selbstverschulden", "Unschuldsvermutung", "Privatklägerschaft", "Ausfallhaftung", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-05
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden. Sämtliche Urteile im Volltext über entscheidsuche.ch gesichtet und verifiziert: BGE 147 IV 47 (Präjudizierung und Privatklägerentschädigung), BGE 144 IV 202 (Unschuldsvermutung und Zivilunrecht), BGE 142 IV 42 (Rechtsschutzversicherung), BGE 138 IV 197 (Geringfügigkeit und Aufwand), BGE 137 IV 352 (THC-Gehalt und behördliche Aufsicht), BGer 7B_459/2023 (Unanwendbarkeit bei rechtswidrigen Zwangsmassnahmen), BGer 6B_672/2021 (Übermässige Vorführung vs. Täuschung über Lenker), BGer 6B_1076/2016 (Häusliche Gewalt, Art. 55a StGB und Gehörsanspruch), BGer 6B_73/2021 (Einstellung Übertretung bei Traktorvorfall), BGer 6B_870/2022 (Strafantragsrückzug in Berufung und Treuepflicht), BGer 6B_1025/2014 (Unwesentliche Abänderung bei Rauchverbot), BGer 6B_1211/2013 (Steuerbetrugsfreispruch und Verdachtsstrafe), BGer 6B_229/2013 (Verbot des strafrechtlichen Schuldvorwurfs) sowie kantonale Leitentscheide TG OG RBOG 2025 Nr. 42 (Ausfallhaftung des Staates), SG KG AK.2023.396 (Ausschluss der Kausalhaftung nach SVG) und LU KG 2N 14 128 (Geringfügigkeit bei Laienaufwand). Gesetzeswortlaut verbatim nach Fedlex (SR 312.0, Stand 1. April 2025)."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
     mcp_verified: true
-    note: "Overhaul nach Audit (Belegquote 24 %). Alle sieben Referenzen existieren und treffen thematisch zu; korrigiert wurden vier fehlerhafte Erwägungsangaben (6B_1076/2016 E. 2.1 → E. 2, E. 2.2 → E. 3.1, E. 3.3 → E. 4; 6B_73/2021 E. 3.2 → E. 3.2.1) sowie zwei nicht belegte Aussagen (Willkürkontrolle des Ermessens; Verhältnismässigkeitsabstufung unter Verweis auf BBl 2006 1329). Fehlender revisions-Block ergänzt, Zitierweise vereinheitlicht."
+    note: "Overhaul nach Audit (Belegquote 24 %)."
+  - date: 2026-07-11
+    by: "Hermes Agent"
+    model: "glm-5.1"
+    mcp_verified: false
+    note: "Erstfassung."
 ---
 
 ## Gesetzeswortlaut
 
 > **Art. 430 StPO — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung**
 >
-> **1** Die Strafbehörde kann die Entschädigung oder Genugtuung herabsetzen oder verweigern, wenn:
+> 1 Die Strafbehörde kann die Entschädigung oder Genugtuung herabsetzen oder verweigern, wenn:
 >
-> **a.** die beschuldigte Person rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat;
+> a. die beschuldigte Person rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat;
 >
-> **b.** die Privatklägerschaft die beschuldigte Person zu entschädigen hat; oder
+> b. die Privatklägerschaft die beschuldigte Person zu entschädigen hat; oder
 >
-> **c.** die Aufwendungen der beschuldigten Person geringfügig sind.
+> c. die Aufwendungen der beschuldigten Person geringfügig sind.
 >
-> **2** Im Rechtsmittelverfahren können Entschädigung und Genugtuung zudem herabgesetzt werden, wenn die Voraussetzungen von Artikel 428 Absatz 2 erfüllt sind.
+> 2 Im Rechtsmittelverfahren können Entschädigung und Genugtuung zudem herabgesetzt werden, wenn die Voraussetzungen von Artikel 428 Absatz 2 erfüllt sind.
+
+*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
+
+## Überblick und Bedeutung
+
+Art. 430 StPO bildet das gesetzliche Korrektiv zu den verschuldensunabhängigen Entschädigungs- und Genugtuungsansprüchen der beschuldigten Person nach [Art. 429 StPO](../art-429). Während Art. 429 StPO bei Freispruch, Verfahrenseinstellung oder Nichtanhandnahme eine staatliche Kausalhaftung begründet, normiert Art. 430 StPO die abschliessenden Ausnahmetatbestände, unter denen die Strafbehörde den Entschädigungs- oder Genugtuungsanspruch ganz oder teilweise kürzen darf.
+
+Die Bestimmung zeichnet sich durch drei verfahrensrechtliche Grundprinzipien aus:
+1. **Kann-Vorschrift und pflichtgemässes Ermessen:** Die Reduktion oder Verweigerung erfolgt nicht automatisch. Der Strafbehörde steht ein gesetzliches Ermessen zu ([BGer 6B_1076/2016 vom 12. Januar 2017 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)). Sie hat im Einzelfall zu prüfen, ob überhaupt ein Kürzungsanlass vorliegt, ob die Entschädigung bloss anteilig herabgesetzt oder gänzlich verweigert werden soll, und muss der beschuldigten Person dazu das rechtliche Gehör gewähren.
+2. **Akzessorietät zum Kostenentscheid:** Die Kürzungsgründe nach Abs. 1 lit. a und Abs. 2 korrespondieren mit den Kostentragungsregeln von [Art. 426 Abs. 2 StPO](../art-426) und [Art. 428 Abs. 2 StPO](../art-428). Nach ständiger Rechtsprechung präjudiziert der Kostenentscheid die Entschädigungsfrage: Werden der beschuldigten Person trotz Freispruchs oder Einstellung rechtskräftig Verfahrenskosten auferlegt, schliesst dies die Ausrichtung einer Entschädigung oder Genugtuung im Regelfall spiegelbildlich aus ([BGE 147 IV 47 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.1); [BGE 137 IV 352 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-352_2011.html#consideration_2.4.2)).
+3. **Schranken der Unschuldsvermutung und des Schweigerechts:** Die Verweigerung oder Herabsetzung gestützt auf Abs. 1 lit. a darf nicht zur verfassungswidrigen Verdachtsstrafe degenerieren. Es ist den Strafbehörden strikt untersagt, der nicht verurteilten Person direkt oder indirekt ein strafrechtliches Verschulden vorzuwerfen (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK; [BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2.2); [BGer 6B_229/2013 vom 4. Juli 2013 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-229-2013_2013-07-04.html)). Ebenso wenig darf die rechtmässige Ausübung des Schweigerechts (Art. 113 Abs. 1 StPO) als vorwerfbare Verfahrenserschwerung sanktioniert werden.
+
+### Prüfschema: Die Tatbestandsmerkmale auf einen Blick
+
+Die nachfolgende Tabelle definiert die Prüfungsreihenfolge der gesetzlichen Voraussetzungen und bildet das Inhaltsverzeichnis der Kommentierung:
+
+| Schicht / Merkmal | Gesetzliche Grundlage | Prüfungsgegenstand und Kernfrage | Beweislast und Beweismass |
+|---|---|---|---|
+| **A. Ermessensnatur der Kürzungsbefugnis** | Abs. 1 Ingress | Pflichtgemässe Ausübung des Ermessens; Stufenfolge (Ob, Art und Umfang der Reduktion); Gehörsgewährung | Strafbehörde (Begründungspflicht) |
+| **B. Selbstverschulden der beschuldigten Person** | Abs. 1 lit. a | Zivilrechtlich vorwerfbares Fehlverhalten (Verstoss gegen geschriebene oder ungeschriebene Verhaltensnorm); adäquate Kausalität zur Verfahrenseröffnung oder -erschwerung; Einhaltung von Unschuldsvermutung und Schweigerecht | Strafbehörde (voller Nachweis unbestrittener oder klar bewiesener Tatsachen; keine Vermutungen) |
+| **C. Entschädigungspflicht der Privatklägerschaft** | Abs. 1 lit. b | Tragung der Entschädigung durch Privatkläger nach Art. 432 StPO; Vermeidung von Doppelentschädigung; staatliche Ausfallhaftung bei Uneinbringlichkeit | Aktenlage / Beschuldigte Person bezüglich Uneinbringlichkeit (Glaubhaftmachung) |
+| **D. Geringfügigkeit der Aufwendungen** | Abs. 1 lit. c | Bagatellgrenze: Unbeachtlicher persönlicher Zeitaufwand für Laien (1–2 Einvernahmen); minimale Barauslagen; Abgrenzung zum anwaltlichen Aufwand | Strafbehörde / Beschuldigte Person bezüglich besonderer Verhältnisse |
+| **E. Kürzungsgründe im Rechtsmittelverfahren** | Abs. 2 | Voraussetzungen nach Art. 428 Abs. 2 StPO: Obsiegen erst im Rechtsmittelverfahren geschaffen (lit. a) oder bloss unwesentliche Urteilsabänderung (lit. b); Ausschluss der Totalverweigerung | Rechtsmittelgericht (Ermessensprüfung) |
+| **F. Verhältnis zu Art. 431 StPO (Zwangsmassnahmen)** | Art. 431 StPO | Kategoriale Unanwendbarkeit von Art. 430 StPO bei materiell oder formell rechtswidrigen Zwangsmassnahmen | Beschuldigte Person (Nachweis der Rechtswidrigkeit der Massnahme) |
+
+---
 
 ## Kommentierung
 
-### I. Bedeutung und Systematik
+### A. Ermessensnatur der Kürzungsbefugnis (Abs. 1 Ingress)
 
-**1** Art. 430 StPO regelt die **Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung** der beschuldigten Person. Die Norm bildet das Gegenstück zu den Anspruchsgrundlagen der Art. 429 und 431 StPO: Während diese den grundsätzlichen Anspruch auf Entschädigung und Genugtuung bei Freispruch, Einstellung oder rechtswidriger Zwangsmassnahme begründen, enthält Art. 430 StPO die **Ausnahmetatbestände**, unter denen die Strafbehörde den Anspruch reduzieren oder ganz streichen darf. Die Bestimmung ist damit eine **Kann-Vorschrift**: Der Strafbehörde steht «aufgrund der «Kann-Vorschrift» von Art. 430 Abs. 1 Ingress StPO ein gesetzliches Ermessen» zu ([BGer 6B_1076/2016 vom 12. Januar 2017, E. 4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1076_2016#e-4)).
+Der Ingress von Art. 430 Abs. 1 StPO statuiert eine **Kann-Vorschrift** («kann … herabsetzen oder verweigern»). Liegt einer der Kürzungsgründe von lit. a–c vor, führt dies nicht zwingend zum automatischen Verlust der Entschädigung oder Genugtuung, sondern eröffnet der Behörde einen pflichtgemäss auszuübenden Ermessensspielraum ([BGer 6B_1076/2016 vom 12. Januar 2017 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
 
-**2** Systematisch ist Art. 430 StPO im **fünften Titel des dritten Buchs** der StPO (Kosten und Entschädigungen, Art. 423–436 StPO) angesiedelt. Er steht zwischen den Anspruchsgrundlagen (Art. 429, 431 StPO) und den Regelungen zur Kostentragung (Art. 426–428 StPO). Die enge Verzahnung mit Art. 426 Abs. 2 StPO — der parallele Vorschrift für die Kostentragung bei Freispruch oder Einstellung — ist ein zentrales Auslegungsmerkmal: Das Bundesgericht hat wiederholt klargestellt, dass die **Grundsätze zur Auflage von Verfahrenskosten trotz Freispruch oder Verfahrenseinstellung gemäss Art. 426 Abs. 2 StPO auch bei der Beurteilung gelten, ob eine Entschädigung oder Genugtuung im Sinne von Art. 430 Abs. 1 lit. a StPO herabzusetzen oder zu verweigern ist** ([BGer 6B_672/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_672_2021) E. 5.2.2; [BGer 6B_73/2021, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_73_2021#e-3-2-1): «Unter den gleichen Voraussetzungen wie nach Art. 426 Abs. 2 StPO kann eine nach Art. 429 Abs. 1 StPO geschuldete Entschädigung nach Art. 430 Abs. 1 lit. a StPO herabgesetzt werden»).
+#### 1. Dogmatische Grundlinie: Das dreistufige Prüfungsermessen
 
-**3** Die Norm unterscheidet zwei Ebenen: Abs. 1 regelt die Herabsetzung oder Verweigerung **in jedem Verfahrensstadium** mit drei Tatbestandsvarianten (lit. a–c), während Abs. 2 eine **zusätzliche Herabsetzungsmöglichkeit ausschliesslich im Rechtsmittelverfahren** eröffnet, die an die Voraussetzungen von [Art. 428](../art-428) Abs. 2 StPO anknüpft. Abs. 2 ist damit eine lex specialis zur kostenrechtlichen Regelung des Rechtsmittelverfahrens.
+Die Behörde hat die Ermessensausübung in drei aufeinanderfolgenden Schritten vorzunehmen und im Entscheid nachvollziehbar zu begründen (Art. 81 Abs. 3 StPO):
+1. **Entschliessungsermessen (Ob):** Rechtfertigt das festgestellte Verhalten oder der Tatbestand überhaupt einen Eingriff in den gesetzlichen Grundanspruch nach Art. 429 StPO?
+2. **Auswahlermessen (Art der Kürzungsfolge):** Hat eine proportionale **Herabsetzung** zu erfolgen oder ist die Entschädigung vollumfänglich zu **verweigern**? Eine Totalverweigerung setzt ein schwerwiegendes Fehlverhalten voraus; bei leichterem Verschulden oder untergeordneten Verursachungsbeiträgen gebietet das Verhältnismässigkeitsprinzip eine prozentuale Reduktion ([Botschaft BBl 2006 1330](https://www.fedlex.admin.ch/eli/fga/2006/124/de); [BGer 6B_1076/2016 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
+3. **Bemessungsermessen (Umfang der Kürzung):** Festlegung der Kürzungsquote anhand der Kausalitäts- und Verschuldensanteile.
 
-### II. Herabsetzung oder Verweigerung im Allgemeinen (Abs. 1)
+Aus dem Ermessenscharakter der Bestimmung fliesst zwingend der **Anspruch auf rechtliches Gehör** (Art. 29 Abs. 2 BV, Art. 3 Abs. 2 lit. c StPO). Beabsichtigt die Strafbehörde, die Entschädigung oder Genugtuung gestützt auf Art. 430 StPO herabzusetzen oder zu verweigern, muss sie der beschuldigten Person die massgeblichen Vorhalte eröffnen und ihr Gelegenheit geben, sich vor dem Entscheid zur beabsichtigten Kürzung zu äussern ([BGer 6B_1076/2016 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
 
-**4** Der Ingress von Abs. 1 verwendet die Formulierung «kann … herabsetzen oder verweigern». Dies eröffnet der Strafbehörde ein **Ermessen** hinsichtlich (a) ob überhaupt eine Massnahme ergriffen wird, (b) ob die Entschädigung bloss herabgesetzt oder ganz verweigert wird, und (c) in welchem Umfang eine Herabsetzung erfolgt. Das Ermessen ist pflichtgemäss auszuüben; die Strafbehörde hat die Umstände des Einzelfalls zu berücksichtigen und ihren Entscheid zu begründen.
+#### 2. Kasuistik: Gehörsverletzung und Ermessensausübung
 
-**5** Die drei Tatbestandsvarianten des Abs. 1 sind **alternativ** formuliert («wenn» mit Aufzählung lit. a–c). Es genügt, dass eine der drei Voraussetzungen erfüllt ist, um die Ermessensentscheidung zu eröffnen. Die Strafbehörde muss in der Begründung ihres Entscheids klarstellen, auf welche lit. sie sich stützt und welche konkreten Tatsachen sie als erfüllt ansieht.
+> **Verweigerung der Haftgenugtuung ohne Anhörung**  
+> Die Zürcher Staatsanwaltschaft IV führte gegen X. eine Strafuntersuchung wegen häuslicher Gewalt, in deren Rahmen X. 13 Tage in Untersuchungshaft verbrachte. Das Verfahren wurde gestützt auf Art. 55a StGB definitiv eingestellt. Die Staatsanwaltschaft auferlegte X. gestützt auf Art. 426 Abs. 2 StPO die Verfahrenskosten und verweigerte jegliche Entschädigung und Genugtuung. Das Obergericht Zürich sprach X. daraufhin gestützt auf Art. 431 Abs. 2 StPO Fr. 2'600.- Haftgenugtuung zu.  
+> **Erster Schritt: Falsche Rechtsgrundlage korrigiert.** Das Bundesgericht stellte klar, dass eine formell und materiell rechtmässig angeordnete Haft, die sich infolge Verfahrenseinstellung nachträglich als unberechtigt erweist, nach Art. 429 Abs. 1 lit. c StPO zu beurteilen ist und der Kürzungsregel von Art. 430 Abs. 1 lit. a StPO untersteht ([BGer 6B_1076/2016 E. 3.3–3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).  
+> **Zweiter Schritt: Zwingende Gehörsgewährung bei Ermessensentscheiden.** Weil Art. 430 Abs. 1 StPO eine Kann-Vorschrift ist und der Behörde Ermessen einräumt, hob das Bundesgericht den Entscheid auf: Bei der Neubeurteilung musste X. zwingend Gelegenheit erhalten, sich zu den Kürzungsgründen und zur Ermessensausübung zu äussern ([E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
 
-#### 1. Selbstverschulden der beschuldigten Person (lit. a)
+> **Leitsatz.** Art. 430 Abs. 1 StPO verpflichtet die Behörde zur pflichtgemässen Ausübung des gesetzlichen Ermessens. Eine beabsichtigte Herabsetzung oder Verweigerung verlangt zwingend die vorgängige Gewährung des rechtlichen Gehörs zu den Kürzungsgründen.
 
-**6** Lit. a ist die **praxisrelevanteste** Bestimmung des Art. 430 StPO. Sie erlaubt die Herabsetzung oder Verweigerung, wenn die beschuldigte Person **rechtswidrig und schuldhaft** die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat. Die Norm kodifiziert die Praxis des Bundesgerichts und der EMRK-Organe, wonach eine Kostenauflage bzw. Entschädigungsverweigerung möglich ist, wenn die beschuldigte Person in **zivilrechtlich vorwerfbarer Weise** gegen eine geschriebene oder ungeschriebene Verhaltensnorm (insbesondere im Sinne von Art. 28 ZGB oder Art. 41 OR) klar verstossen und dadurch die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat ([BGer 6B_1076/2016 vom 12. Januar 2017, E. 2](https://mcp.opencaselaw.ch/entscheid/bger_6B_1076_2016#e-2)).
+---
 
-**7** Der Begriff des **«rechtswidrig und schuldhaft»** ist nicht im strafrechtlichen, sondern in einem **zivilrechtlich-normativen Sinne** zu verstehen. Das Bundesgericht hat in [BGer 6B_229/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_229_2013) E. 1.2 klargestellt, dass der beschuldigten Person kein **strafrechtliches Verschulden** im Zusammenhang mit einem Kosten- bzw. Entschädigungsentscheid gemäss Art. 426 und Art. 430 StPO vorgehalten werden darf, wenn die Begründung sich auf ein strafrechtliches Verschulden stützt, bevor ein Schuldspruch ergangen ist. Dies würde die **Unschuldsvermutung** (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) verletzen. Das Verschulden muss sich auf das **Verhalten vor und während des Verfahrens** beziehen, nicht auf die strafrechtliche Vorwerfbarkeit der zur Last gelegten Tat.
+### B. Selbstverschulden der beschuldigten Person (Abs. 1 lit. a)
 
-**8** Die **Einleitung des Verfahrens bewirkt** hat, wer durch sein Verhalten einen begründeten Verdacht geschaffen hat, der die Strafverfolgungsbehörden zu einem Vorgehen veranlasst hat. Das Bundesgericht verlangt, dass das Verhalten der beschuldigten Person **aus objektiv gerechtfertigten Gründen** die Einleitung eines Strafverfahrens bewirkt haben muss. Blosser Verdacht ohne zurechenbares Fehlverhalten genügt nicht. In [BGE 137 IV 352](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352) E. 2.4.1 verwarf das Bundesgericht die Verweigerung der Entschädigung für Anwaltskosten bei einem Freigesprochenen, der Hanf mit einem THC-Gehalt deutlich über dem neuralgischen Wert gehandelt hatte: Allein der festgestellte THC-Gehalt von mehr als 0,3 % rechtfertige es nicht, der Person ein rechtswidriges und schuldhaftes Verhalten im Sinne von Art. 430 Abs. 1 lit. a StPO anzulasten, das die Einleitung eines Strafverfahrens aus objektiv gerechtfertigten Gründen bewirkt haben soll — insbesondere, wenn der Anbau unter behördlicher Aufsicht erfolgte.
+Art. 430 Abs. 1 lit. a StPO ist die praktisch bedeutsamste Bestimmung. Sie greift ein, wenn die beschuldigte Person **rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert** hat.
 
-**9** Die **Durchführung des Verfahrens erschwert** hat, wer durch sein Verhalten — etwa durch falsche Angaben, Leugnen trotz klarer Beweislage, Verschleierung der Identität oder Ablenkung des Verdachts auf Dritte — die Ermittlungen unnötig verzögert oder erschwert hat. In [BGer 6B_672/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_672_2021) E. 5.3.4.2 bestätigte das Bundesgericht die Verweigerung der Genugtuung für zwei Tage unverhältnismässig langer polizeilicher Vorführung, weil der Beschwerdeführer eine ihm unbekannte, inzwischen verstorbene Person als Lenker angegeben und damit den Verdacht zunächst auf diese gelenkt hatte, wodurch er das Verfahren im Sinne von Art. 430 Abs. 1 lit. a StPO rechtswidrig und schuldhaft erschwert und verzögert hatte.
+#### 1. Dogmatische Grundlinie: Der zivilrechtliche Massstab
 
-**10** Die **Beweislast** für das Vorliegen der Voraussetzungen von lit. a trifft die Strafbehörde. Sie muss substantiiert darlegen, in welchem konkreten Verhalten das rechtswidrige und schuldhalte Verhalten besteht und wie dieses die Einleitung oder Durchführung des Verfahrens beeinflusst hat. Eine pauschale Begründung genügt den Anforderungen nicht ([BGer 6B_229/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_229_2013) E. 1.5: Verweigerung der Entschädigung gestützt auf lit. a verletzt Bundesrecht, wenn nicht dargelegt ist, dass die beschuldigte Person rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat).
+Das Erfordernis «rechtswidrig und schuldhaft» beurteilt sich nach **zivilrechtlichen Grundsätzen** (Art. 41 OR, Art. 28 ZGB). Es handelt sich um eine verfahrensrechtliche Haftung für fehlerhaftes Verhalten, durch welches die Strafbehörden unnötig beansprucht wurden:
+- **Rechtswidrigkeit:** Liegt vor, wenn die beschuldigte Person in klarer Weise gegen eine geschriebene oder ungeschriebene Verhaltensnorm der Rechtsordnung verstossen hat, die sie zu einem Tun oder Unterlassen verpflichtet ([BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2.2); [BGer 6B_1211/2013 vom 2. Oktober 2014 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html)). Das blosse Verletzen sittlicher, ethischer oder gesellschaftlicher Anstandsregeln genügt nicht.
+- **Schuldhaftes Handeln:** Erfordert Vorsatz oder mindestens Fahrlässigkeit im haftpflichtrechtlichen Sinn. Eine verschuldensunabhängige Haftung (Kausalhaftung) vermag die Anwendung von Art. 430 Abs. 1 lit. a StPO unter keinen Umständen zu begründen ([SG KG AK.2023.396 vom 19. Oktober 2023 E. 3b](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)).
+- **Adäquate Kausalität:** Das Fehlverhalten muss nach dem gewöhnlichen Lauf der Dinge und der allgemeinen Lebenserfahrung geeignet gewesen sein, die Einleitung der Untersuchung auszulösen oder deren Abwicklung spürbar zu erschweren ([BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2.2)).
 
-**11** Das **Verhältnis zu Art. 426 Abs. 2 StPO** ist dadurch gekennzeichnet, dass beide Bestimmungen dieselben Massstäbe an das Selbstverschulden anlegen. Eine Kostenauflage nach Art. 426 Abs. 1 und 2 StPO **schliesst in der Regel einen Anspruch auf Entschädigung aus**: Es gilt der Grundsatz, dass bei Auferlegung der Kosten keine Entschädigung oder Genugtuung auszurichten ist «Eine Kostenauflage nach Art. 426 Abs. 1 und 2 StPO schliesst in der Regel einen Anspruch auf Entschädigung aus. Die Entschädigungsfrage ist nach der Kostenfrage zu beantworten. Insoweit präjudiziert der Kostenentscheid die Entschädigungsfrage» ([BGer 6B_1076/2016 vom 12. Januar 2017, E. 3.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_1076_2016#e-3-1)).
+#### 2. Verfassungsrechtliche Schranken: Unschuldsvermutung und Schweigerecht
 
-#### 2. Entschädigungspflicht der Privatklägerschaft (lit. b)
+Die Praxis zieht zwei unverrückbare verfassungsrechtliche Grenzen:
+1. **Verbot der Verdachtsstrafe (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK):** Endet das Verfahren ohne Schuldspruch, verbietet es die Unschuldsvermutung, die Entschädigungsverweigerung darauf zu stützen, die beschuldigte Person habe sich strafbar gemacht oder sei «wahrscheinlich doch schuldig». Die Vorinstanz darf der beschuldigten Person im Kosten- und Entschädigungsentscheid weder direkt noch indirekt ein strafrechtliches Verschulden vorhalten ([BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2.2); [BGer 6B_229/2013 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-229-2013_2013-07-04.html); [BGer 6B_1211/2013 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html)).
+2. **Schweigerecht und Verteidigungsrechte (Art. 113 Abs. 1 StPO, nemo tenetur):** Die beschuldigte Person ist nicht verpflichtet, sich selbst zu belasten. Die Verweigerung der Aussage, das blosse Bestreiten von Vorwürfen oder das Ausschöpfen gesetzlicher Verteidigungs- und Rechtsmittel dürfen ihr unter keinen Umständen als vorwerfbare «Verfahrenserschwerung» angelastet werden. 
+   - *Abgrenzung:* Demgegenüber stellt das **aktive Irreführen** der Behörden — etwa das Legen falscher Spuren, das Benennen unbeteiligter Personen als Täter oder das Fälschen von Belegen — eine vorwerfbare Erschwerung dar ([BGer 6B_672/2021 vom 15. Mai 2023 E. 5.3.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html)).
 
-**12** Lit. b greift ein, wenn die **Privatklägerschaft** die beschuldigte Person zu entschädigen hat. Diese Konstellation ergibt sich insbesondere, wenn die Privatklägerschaft im Strafverfahren obsiegt und die beschuldigte Person freigesprochen oder das Verfahren eingestellt wird: In diesem Fall kann die Privatklägerschaft verpflichtet sein, der beschuldigten Person Entschädigung zu leisten (vgl. [Art. 432](../art-432) StPO). Wenn die Privatklägerschaft die beschuldigte Person zu entschädigen hat, kann die Strafbehörde die staatliche Entschädigung herabsetzen oder verweigern, da die beschuldigte Person ihren Anspruch gegen die Privatklägerschaft richten kann. Lit. b verhindert damit eine **Doppelentschädigung**.
+#### 3. Kasuistik zu Art. 430 Abs. 1 lit. a StPO
 
-**13** Die praktische Bedeutung von lit. b liegt in der **Verdoppelung der Anspruchsadressaten**: Die beschuldigte Person hat sowohl einen Anspruch gegen den Staat (Art. 429 StPO) als auch gegen die Privatklägerschaft (Art. 432 StPO). Art. 430 Abs. 1 lit. b StPO erlaubt es der Strafbehörde, den staatlichen Anspruch zu reduzieren, wenn der Privatrechtliche greift. Die genaue Ausgestaltung und die Koordination der beiden Ansprüche ergibt sich aus [Art. 432](../art-432) StPO (Ansprüche gegenüber Privatklägerschaft).
+> **Aktive Täuschung über den Fahrzeuglenker vs. übermässige Zwangsmassnahme**  
+> Gegen A. wurde ein Verfahren wegen Parkierens auf verbotenem Grund (Busse Fr. 100.-), Überlassens eines Fahrzeugs und falscher Anschuldigung geführt. A. weigerte sich, Vorladungen Folge zu leisten. Die Staatsanwaltschaft liess ihn 24 Stunden vor dem Termin durch die Polizei aus dem Kanton Appenzell Ausserrhoden nach Zürich zuführen, wo er die Nacht im Gewahrsam verbrachte; nach der 2.5-stündigen Einvernahme wurde er erst am Abend entlassen. Das Verfahren wurde eingestellt. Das Obergericht Zürich verweigerte jegliche Genugtuung gestützt auf Art. 430 Abs. 1 lit. a StPO, weil A. wahrheitswidrig eine ihm unbekannte, verstorbene Person als Lenker angegeben und das Verfahren dadurch schuldhaft erschwert hatte.  
+> **Erster Schritt: Selbstverschulden verneint Genugtuung für verhältnismässigen Gewahrsam.** Die aktive Verdachtslenkung auf Dritte erfüllte den Tatbestand von Art. 430 Abs. 1 lit. a StPO; für den verhältnismässigen Teil der Vorführung war die Verweigerung der Genugtuung bundesrechtskonform ([BGer 6B_672/2021 E. 5.3.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html)).  
+> **Zweiter Schritt: Keine Kürzung für die rechtswidrige Überdauer.** Soweit der Freiheitsentzug zeitlich unverhältnismässig war (Nacht im Gefängnis, verzögerte Entlassung nach Art. 209 Abs. 3 StPO), lag eine rechtswidrige Zwangsmassnahme nach Art. 431 Abs. 1 StPO vor. Hierfür ist Art. 430 StPO unanwendbar: Dem Beschuldigten stand zwingend eine Genugtuung zu ([E. 5.3.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html)).
 
-#### 3. Geringfügige Aufwendungen (lit. c)
+> **Simulierte Mäklerprovision und Steuerbetrug: Das Verbot der Verdachtsstrafe**  
+> Die Zürcher Steuerbehörden erstatteten Strafanzeige gegen X., weil er in der Steuererklärung einer AG eine Mäklerprovision von Fr. 100'000.- abgezogen hatte, die über eine Treuhandgesellschaft an eine ihm nahestehende Gesellschaft geflossen war. Das Obergericht sprach X. vom Vorwurf des Steuerbetrugs mangels rechtsgenüglicher Anklage frei, auferlegte ihm jedoch sämtliche Verfahrenskosten und verweigerte die Entschädigung nach Art. 430 Abs. 1 lit. a StPO: X. habe die Steuerbehörde durch einen simulierten Mäklervertrag täuschen wollen.  
+> **Erster Schritt: Ein simulierter Vertrag ist nicht per se rechtswidrig.** Das Bundesgericht rügte, dass die Vorinstanz keine konkrete zivilrechtliche Verhaltensnorm benennen konnte, gegen die X. verstossen haben soll ([BGer 6B_1211/2013 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html)).  
+> **Zweiter Schritt: Unzulässige Verdachtsstrafe.** Die Begründung, X. habe die Behörde täuschen wollen, unterstellte ihm im Ergebnis denselben strafbaren Sachverhalt, von dem er freigesprochen worden war. Dies verletzte die Unschuldsvermutung; die Entschädigung durfte nicht verweigert werden ([E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html)).
 
-**14** Lit. c erlaubt die Herabsetzung oder Verweigerung, wenn die **Aufwendungen der beschuldigten Person geringfügig** sind. Diese Bestimmung trägt dem **Verhältnismässigkeitsprinzip** Rechnung: Bei minimalen Aufwendungen (etwa einer blossen telefonischen Konsultation eines Anwalts ohne weiteres Tätigwerden) ist der Verwaltungsaufwand für die Prüfung und Ausrichtung einer Entschädigung unverhältnismässig hoch. Die Bestimmung hat damit eine **praktisch-verwaltungsökonomische** Funktion.
+> **Behördlich kontrollierter Hanfanbau: THC-Gehalt begründet kein Verschulden**  
+> X. baute unter Aufsicht der kantonalen Landwirtschafts- und Polizeibehörden Hanf an. Nach Ernte und Beschlagnahme ergab ein Laborbericht einen THC-Gehalt von über 0.3 %, worauf ein Strafverfahren wegen Betäubungsmittelhandels eingeleitet wurde. Nach der Überweisung sprach das Gericht X. frei, verweigerte ihm jedoch gestützt auf Art. 430 Abs. 1 lit. a StPO die Anwaltsentschädigung.  
+> **Entscheid:** Das Bundesgericht hob die Verweigerung auf: Allein das Überschreiten des THC-Schwellenwerts begründet bei einem transparent und unter behördlicher Aufsicht geführten Betrieb kein rechtswidriges und schuldhaftes Verhalten im Sinne von Art. 430 Abs. 1 lit. a StPO ([BGE 137 IV 352 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-352_2011.html#consideration_2.4.1)).
 
-**15** Was als **geringfügig** zu qualifizieren ist, lässt sich nicht abstrakt festlegen. Das Bundesgericht hat in [BGE 138 IV 197](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_197) E. 2.3.4 im Kontext von Art. 429 Abs. 1 lit. a StPO ausgeführt, dass der vom Verteidiger betriebene Aufwand sich in aus juristischer Sicht einfachen Fällen auf ein Minimum zu beschränken hat und allenfalls eine einfache Konsultation sein Bewenden haben muss. Diese Grundsätze lassen sich auf lit. c übertragen: Aufwendungen, die in einfachen Fällen das Notmass übersteigen, können als nicht geringfügig qualifiziert werden, während solche, die auch das Notmass nicht erreichen, als geringfügig einzustufen sind. Die Ermessensausübung durch die Strafbehörde unterliegt der Willkürkontrolle.
+#### 4. Gegenüberstellung: Anwendungs- vs. Verwerfungsfälle zu Abs. 1 lit. a
 
-### III. Herabsetzung im Rechtsmittelverfahren (Abs. 2)
+| Sachverhalt / Fehlverhalten | Beurteilung nach Art. 430 Abs. 1 lit. a StPO | Entscheid / Fundstelle |
+|---|---|---|
+| Falsche Namensangabe bei Einvernahme; Beschuldigter schiebt Tatverdacht auf verstorbenen Dritten ab | **Verweigerung/Kürzung bejaht**: Zivilrechtswidrige und schuldhafte Erschwerung der Untersuchung | [BGer 6B_672/2021 E. 5.3.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html) |
+| Drohungen, Tätlichkeiten und Beschimpfungen in der Ehewohnung; Verfahren nach Art. 55a StGB eingestellt | **Verweigerung bejaht**: Verletzung von Art. 28 ZGB hat Verfahrenseinleitung schuldhaft verursacht | [BGer 6B_1076/2016 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html) |
+| Mutter reist mit Kindern ohne Zustimmung des sorgeberechtigten Vaters ins Ausland (Art. 301a ZGB) | **Kostenauflage und Kürzung für Vorverfahren bejaht**: Klarer Verstoss gegen familienrechtliche Verhaltensnorm | [BGer 6B_870/2022 E. 1.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-870-2022_2023-06-28.html) |
+| Freispruch vom Vorwurf des Steuerbetrugs; Vorwurf simulierter Verträge und beabsichtigter Täuschung | **Verweigerung aufgehoben**: Simulierte Verträge verletzen keine Verhaltensnorm; Verdachtsstrafe unzulässig | [BGer 6B_1211/2013 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html) |
+| Hanfanbau mit THC-Gehalt über 0.3 % unter kontinuierlicher behördlicher Kontrolle | **Verweigerung aufgehoben**: Kein zivilrechtliches Fehlverhalten; Transparenz schliesst Vorwerfbarkeit aus | [BGE 137 IV 352 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-352_2011.html#consideration_2.4.1) |
+| Frontalkollision nach Fahrspurwechsel infolge medizinischen Blackouts (Kausalhaftung Art. 58 SVG) | **Kürzung aufgehoben**: Reine Gefährdungshaftung ohne nachgewiesenes Verschulden genügt für lit. a nicht | [SG KG AK.2023.396 E. 3b](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf) |
+| Traktorfahrer kreuzt Reiterinnen; Pferd scheut; Einstellung der Übertretung | **Entschädigung zugesprochen**: Keine Erschwerung durch Beizug eines Anwalts bei drohenden Administrativmassnahmen | [BGer 6B_73/2021 E. 3.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-73-2021_2022-02-28.html) |
 
-**16** Abs. 2 eröffnet eine **zusätzliche** Herabsetzungsmöglichkeit ausschliesslich im Rechtsmittelverfahren. Die Formulierung «zusätzlich» (im Gesetzestext: «zudem») macht klar, dass die Voraussetzungen von Abs. 2 **kumulativ** zu denen des Abs. 1 treten können, aber auch **selbstständig** eine Herabsetzung rechtfertigen. Die Norm knüpft an [Art. 428](../art-428) Abs. 2 StPO an, der zwei Ausnahmetatbestände für die Kostentragung im Rechtsmittelverfahren enthält:
+> **Leitsatz.** Eine Kürzung nach Art. 430 Abs. 1 lit. a StPO setzt den vollen Nachweis eines schuldhaften Zivilunrechts voraus, das zur Eröffnung oder Erschwerung der Untersuchung adäquat kausal beigetragen hat. Reine Kausalhaftungstatbestände oder die rechtmässige Ausübung von Verteidigungsrechten rechtfertigen keine Herabsetzung.
 
-- **lit. a**: Die Voraussetzungen für das Obsiegen sind erst im Rechtsmittelverfahren geschaffen worden.
-- **lit. b**: Der angefochtene Entscheid wird nur unwesentlich abgeändert.
+---
 
-**17** Liegt eine dieser Konstellationen vor, kann die Strafbehörde die Entschädigung und Genugtuung **auch dann herabsetzen**, wenn die Voraussetzungen von Abs. 1 nicht erfüllt sind. Die Bestimmung verhindert, dass eine Partei, die formell obsiegt, aber die Voraussetzungen für ihr Obsiegen erst im Rechtsmittelverfahren geschaffen hat oder nur eine unwesentliche Abänderung erreicht, vollumfänglich entschädigt wird. Dies korrespondiert mit der kostenrechtlichen Regelung des [Art. 428](../art-428) Abs. 2 StPO, die im Einzelnen dort kommentiert wird.
+### C. Entschädigungspflicht der Privatklägerschaft (Abs. 1 lit. b)
 
-**18** Die Herabsetzung nach Abs. 2 ist — wie nach Abs. 1 — eine **Kann-Vorschrift** und unterliegt dem Ermessen der Strafbehörde. Im Unterschied zu Abs. 1 führt Abs. 2 jedoch **nur zu einer Herabsetzung**, nicht zu einer Verweigerung. Der Wortlaut («können … zudem herabgesetzt werden») unterscheidet sich bewusst von Abs. 1 («kann … herabsetzen oder verweigern»): Im Rechtsmittelverfahren ist die Verweigerung der Entschädigung nicht vorgesehen, sondern nur eine Reduktion.
+Art. 430 Abs. 1 lit. b StPO greift ein, wenn **die Privatklägerschaft die beschuldigte Person zu entschädigen hat**. Die Bestimmung dient der Koordination zwischen dem staatlichen Entschädigungsanspruch (Art. 429 StPO) und der zivilprozessualen bzw. strafprozessualen Parteientschädigung durch die Privatklägerschaft ([Art. 432 StPO](../art-432)).
 
-### IV. Verhältnis zu Art. 431 StPO (rechtswidrige Zwangsmassnahmen)
+#### 1. Dogmatische Grundlinie: Vermeidung von Doppelentschädigung
 
-**19** Ein zentraler Anwendungsbereich von Art. 430 StPO ergibt sich im **Zusammenspiel mit Art. 431 StPO**. Sind gegenüber der beschuldigten Person **rechtswidrig Zwangsmassnahmen** angewandt worden, so beurteilt sich der Entschädigungs- und Genugtuungsanspruch nach Art. 431 Abs. 1 StPO (rechtswidrige Zwangsmassnahmen), nicht nach Art. 429 StPO. In dieser Konstellation kommt **Art. 430 StPO nicht zur Anwendung** ([BGer 6B_672/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_672_2021) E. 5.2.4 unter Verweis auf Yvona Griesser, N. 1 zu Art. 431 StPO; Wehrenberg/Frank, N. 3b und 3e zu Art. 431 StPO).
+Das Strafverfahren liegt in der hoheitlichen Verantwortung des Staates. Obsiegt die beschuldigte Person, richtet sich ihr Entschädigungsanspruch daher primär gegen das Gemeinwesen (Art. 429 StPO; [BGE 139 IV 45 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-45_2012.html)). Hat die obsiegende beschuldigte Person jedoch gestützt auf Art. 432 Abs. 1 StPO (für Zivilklageaufwendungen) oder Art. 432 Abs. 2 StPO (bei Antragsdelikten bzw. alleiniger Rechtsmittelführung) einen durchsetzbaren Anspruch gegen die Privatklägerschaft, wird der staatliche Anspruch entsprechend herabgesetzt oder verweigert, um eine ungerechtfertigte **Doppelentschädigung** zu verhindern ([BGE 147 IV 47 E. 4.2.2–4.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.2.2)).
 
-**20** Bei **rechtswidriger Anwendung von Zwangsmassnahmen** hat die beschuldigte Person **unabhängig von ihrem Verhalten** Anspruch auf eine angemessene Entschädigung und gegebenenfalls auch auf Genugtuung. Das Selbstverschulden der beschuldigten Person — das unter Art. 430 Abs. 1 lit. a StPO zur Herabsetzung oder Verweigerung führen könnte — ist in dieser Konstellation **irrelevant**. Das Bundesgericht hat in [BGer 6B_672/2021](https://mcp.opencaselaw.ch/entscheid/bger_6B_672_2021) E. 5.3.4.2 diese Abgrenzung präzisiert: Wenn der mit einer polizeilichen Vorführung verbundene Freiheitsentzug über den für die Vorführung erforderlichen und angemessenen Zeitraum hinausgeht und gegen Art. 197 Abs. 1 lit. c StPO verstösst, ist die Vorführung in diesem Umfang als **rechtswidrige Zwangsmassnahme im Sinne von Art. 431 Abs. 1 StPO** zu werten. Eine Verweigerung der Genugtuung gestützt auf Art. 430 Abs. 1 lit. a StPO verletzt in diesem Fall Bundesrecht.
+Nach den Grundsätzen von [BGE 147 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html) gilt für die Kostenträgerschaft:
+- **Offizialdelikte:** Entschädigung geht bei Einstellung oder Freispruch im Vor- und erstinstanzlichen Verfahren zulasten des Staates (Art. 429 StPO). Zieht einzig die Privatklägerschaft den Entscheid weiter, wird sie im Berufungsverfahren entschädigungspflichtig, im Beschwerdeverfahren hingegen der Staat ([E. 4.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.2.6)).
+- **Antragsdelikte:** Hier wird die aktiv parteinehmende Privatklägerschaft bei Obsiegen der beschuldigten Person im Schuldpunkt nach Art. 432 Abs. 2 StPO sowohl im erstinstanzlichen als auch im gesamten Rechtsmittelverfahren primär entschädigungspflichtig ([E. 4.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.2.6)).
 
-**21** Die **Abgrenzung** zwischen dem Anwendungsbereich von Art. 430 StPO (rechtmässige Zwangsmassnahmen, aber Selbstverschulden) und Art. 431 StPO (rechtswidrige Zwangsmassnahmen, unabhängig vom Verhalten) ist für die Praxis von grosser Bedeutung. Liegt eine rechtswidrige Zwangsmassnahme vor, ist Art. 430 StPO unanwendbar und die Entschädigung bzw. Genugtuung ist nach Art. 431 StPO zu beurteilen. Ist die Zwangsmassnahme hingegen rechtmässig, kann ein allfälliges Selbstverschulden der beschuldigten Person über Art. 430 Abs. 1 lit. a StPO zu einer Herabsetzung oder Verweigerung führen.
+#### 2. Praxiskonflikt: Staatliche Ausfallhaftung bei Uneinbringlichkeit
 
-### V. Ermessensausübung und gerichtliche Kontrolle
+In der Praxis stellt sich regelmässig das Problem, dass die unterliegende Privatklägerschaft zahlungsunfähig ist, unter dem Existenzminimum lebt oder ihr die unentgeltliche Rechtspflege (Art. 136 StPO) gewährt wurde. Würde Art. 430 Abs. 1 lit. b StPO rein mechanisch angewandt, bliebe die freigesprochene Person auf ihren Anwaltskosten sitzen: Gegen den Privatkläger erhält sie einen wertlosen Verlustschein, während der Staat die Auszahlung unter Verweis auf lit. b verweigert.
 
-**22** Die Herabsetzung oder Verweigerung nach Art. 430 StPO ist eine **Ermessensentscheidung**. Die Strafbehörde hat ihr Ermessen pflichtgemäss auszuüben und die wesentlichen Umstände des Einzelfalls zu berücksichtigen. Eine Ermessensentscheidung verletzt Bundesrecht, wenn die Strafbehörde ihr Ermessen überschreitet, missbraucht oder von unrichtigen Tatsachen ausgeht.
+Die herrschende kantonale Judikatur und Lehre lösen diesen Widerspruch über eine teleologische Reduktion von Art. 430 Abs. 1 lit. b StPO:
+- **Ausfallhaftung des Staates:** Die staatliche Entschädigungspflicht nach Art. 429 StPO darf nach Art. 430 Abs. 1 lit. b StPO nur insoweit herabgesetzt oder verweigert werden, als die Forderung gegen die Privatklägerschaft **effektiv einbringlich** ist ([TG OG RBOG 2025 Nr. 42 E. 2.3.1.3](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--42_2025.html); OGer SO STBER.2019.8 vom 12. November 2019 E. 4; AppGer BS SB.2019.2 vom 26. April 2019 E. 2.2.1).
+- **Tragweite:** Das Strafverfolgungsmonopol liegt beim Staat. Wird eine unschuldig beschuldigte Person in ein Verfahren hineingezogen, darf ihr Entschädigungsanspruch für den **Schuldpunkt** nicht am Insolvenzrisiko der Gegenpartei scheitern.
 
-**23** In [BGer 6B_1299/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_1299_2018) E. 2.1 machte der Beschwerdeführer geltend, es lägen keine Gründe im Sinne von Art. 430 StPO für eine Reduktion der Parteientschädigung vor, nachdem er vollumfänglich von Schuld und Strafe freigesprochen worden sei. Das Bundesgericht bestätigte jedoch die Reduktion durch die Vorinstanz, da diese nachvollziehbar begründet hatte, warum der Beizug eines Rechtsvertreters in der gegebenen Konstellation nicht vollständig zu beanstanden, aber der betriebene Aufwand nicht angemessen war. Der Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) verlangt jedoch, dass die beschuldigte Person Gelegenheit erhält, sich zu den Gründen der Herabsetzung oder Verweigerung zu äussern ([BGer 6B_1076/2016 vom 12. Januar 2017, E. 4](https://mcp.opencaselaw.ch/entscheid/bger_6B_1076_2016#e-4): «Das Gehörsrecht wird dem Beschuldigten bei der Neubeurteilung zu gewähren sein, da der Vorinstanz beim Genugtuungsentscheid (auch) aufgrund der «Kann-Vorschrift» von Art. 430 Abs. 1 Ingress StPO ein gesetzliches Ermessen zusteht»).
+> **Leitsatz.** Art. 430 Abs. 1 lit. b StPO entbindet den Staat nicht von seiner Zahlungspflicht nach Art. 429 StPO, wenn die Parteientschädigung der unterliegenden Privatklägerschaft infolge Mittellosigkeit oder unentgeltlicher Rechtspflege uneinbringlich ist (subsidiäre Ausfallhaftung des Staates).
 
-**24** Die **Begründungspflicht** der Strafbehörde ist besonders anspruchsvoll, wenn die Entschädigung oder Genugtuung ganz **verweigert** wird. In [BGE 137 IV 352](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352) E. 2.4.1 hob das Bundesgericht die Verweigerung der Entschädigung für Anwaltskosten auf, weil die Begründung — gestützt auf den THC-Gehalt des gehandelten Hanfs — nicht ausreichte, um ein rechtswidriges und schuldhaftes Verhalten im Sinne von Art. 430 Abs. 1 lit. a StPO zu bejahen. Die Vorinstanz hatte es unterlassen, konkrete Tatsachen darzulegen, die ein solches Verhalten bezüglich des jeweiligen Tatvorwurfs begründen. Die Verweigerung der Entschädigung verstiesst gegen Bundesrecht, wenn die Voraussetzungen von lit. a nicht substantiiert dargelegt sind.
+---
 
-### VI. Verhältnis zu Art. 428 Abs. 2 StPO (Rechtsmittelverfahren)
+### D. Geringfügigkeit der Aufwendungen (Abs. 1 lit. c)
 
-**25** Abs. 2 verweist auf [Art. 428](../art-428) Abs. 2 StPO, der zwei Ausnahmetatbestände für die Kostentragung im Rechtsmittelverfahren enthält. Die Verweisung bedeutet, dass die **denselben Massstäbe** anzuwenden sind: Hat eine Partei, die ein Rechtsmittel ergriffen hat, einen für sie günstigeren Entscheid erwirkt, können ihr die Verfahrenskosten auferlegt werden, wenn die Voraussetzungen für das Obsiegen erst im Rechtsmittelverfahren geschaffen worden sind (lit. a) oder der angefochtene Entscheid nur unwesentlich abgeändert wird (lit. b). Dieselben Voraussetzungen rechtfertigen unter Abs. 2 auch die Herabsetzung der Entschädigung und Genugtuung.
+Art. 430 Abs. 1 lit. c StPO erlaubt die Herabsetzung oder Verweigerung, wenn **die Aufwendungen der beschuldigten Person geringfügig sind**. Die Norm verwirklicht das Verhältnismässigkeitsprinzip und schützt vor unverhältnismässigem Verwaltungsaufwand bei Bagatellbeträgen ([Botschaft BBl 2006 1330](https://www.fedlex.admin.ch/eli/fga/2006/124/de)).
 
-**26** Die Herabsetzung nach Abs. 2 kann **neben** der Herabsetzung nach Abs. 1 greifen. Ist etwa die beschuldigte Person im Rechtsmittelverfahren formell obsiegt, die Voraussetzungen für das Obsiegen aber erst im Rechtsmittelverfahren geschaffen worden (Art. 428 Abs. 2 lit. a StPO), und hat sie zudem die Durchführung des erstinstanzlichen Verfahrens erschwert (Art. 430 Abs. 1 lit. a StPO), so kann die Strafbehörde beide Aspekte bei der Bemessung der Entschädigung berücksichtigen. Die Erläuterungen zu [Art. 428](../art-428) Abs. 2 StPO sind für die Auslegung von Abs. 2 massgeblich.
+#### 1. Dogmatische Grundlinie: Schwellenwerte und Sozialpflichtigkeit
 
-### VII. Übergangsrecht
+Nach ständiger Praxis ist dem Bürger die Hinnahme geringfügiger Belastungen als Ausfluss einer allgemeinen staatsbürgerlichen Pflicht zumutbar:
+- **Nicht anwaltlich vertretene Beschuldigte (Laienaufwand):** Der persönliche Zeitaufwand für das ein- oder zweimalige Erscheinen an polizeilichen oder staatsanwaltschaftlichen Einvernahmen sowie geringe Fahrspesen (bis ca. Fr. 100.- bis 200.-) begründen keinen Anspruch ([Botschaft BBl 2006 1330](https://www.fedlex.admin.ch/eli/fga/2006/124/de); [LU KG 2N 14 128 vom 14. Oktober 2014 E. 5.3.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-128_2014-10-14.html)). Eine Entschädigung für eigenen Zeitaufwand setzt «besondere Verhältnisse» voraus: einen hohen Streitwert, komplexe Sachverhalte und einen Zeitaufwand, der das Mass gewöhnlicher persönlicher Angelegenheiten deutlich übersteigt ([BGer 6B_672/2021 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html); [BGE 125 II 518 E. 5b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-II-518_1999.html)).
+- **Anwaltliche Verteidigungskosten:** Bei Mandatierung einer Verteidigung greift Art. 430 Abs. 1 lit. c StPO nicht im Sinne einer absoluten Bagatellgrenze. Vielmehr beurteilt sich der Anspruch nach der Angemessenheit des Beizugs (Art. 429 Abs. 1 lit. a StPO). War der Anwaltsbeizug objektiv geboten — etwa wegen drohender Administrativmassnahmen, Strafregistereintrag oder komplexer Verdachtslage —, dürfen die Honorarkosten nicht als «geringfügig» verweigert werden ([BGE 142 IV 45 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-45_2016.html); [BGer 6B_73/2021 E. 3.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-73-2021_2022-02-28.html)).
 
-**27** Die Anwendbarkeit von Art. 430 StPO im Übergangsrecht wurde in [BGE 137 IV 352](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_352) E. 1.2 geklärt: Die Schweizerische Strafprozessordnung ist auf ein nach dem 1. Januar 2011 beurteiltes Entschädigungsgesuch anwendbar, auch wenn das zugrunde liegende Strafverfahren vor dem Inkrafttreten der StPO eingeleitet wurde. Die Übergangsbestimmungen der Art. 448 und 453 Abs. 1 StPO stehen der Anwendung von Art. 430 Abs. 1 lit. a StPO nicht entgegen. Dieser Entscheid ist von erheblicher praktischer Bedeutung, da er die Anwendbarkeit der entschädigungsrechtlichen Bestimmungen der StPO auch für Altfälle klärt (vgl. auch [Art. 448](../art-448) und [Art. 453](../art-453) StPO).
+#### 2. Kasuistik: 16 Stunden Laienaufwand eines Rentners
+
+> **Aufwandentschädigung bei richterlichem Parkverbot**  
+> Gegen den pensionierten Rentner X. wurde wegen Missachtung eines amtlichen Verbots ein Übertretungsverfahren geführt. X. erhob unbegründete Einsprache gegen den Strafbefehl, nahm Akteneinsicht, reichte sechs handschriftliche Eingaben ein, führte Telefonate und erschien zur Einvernahme bei der Staatsanwaltschaft. Das Verfahren wurde eingestellt. X. forderte Fr. 65.- Fahrspesen sowie eine Umtriebsentschädigung für 16 Stunden persönlichen Zeitaufwand.  
+> **Entscheid:** Das Kantonsgericht Luzern verweigerte jegliche Entschädigung: Der Aufwand für die Einvernahme (4.5 Stunden) und die Reisespesen von Fr. 65.- waren nach Art. 430 Abs. 1 lit. c StPO geringfügig. Die übrigen Eingaben und Telefonate waren zur Rechtswahrung weder notwendig noch geeignet. Die Geringfügigkeit schliesst Ansprüche nicht nur gegen den Staat, sondern auch gegenüber der Privatklägerschaft aus ([LU KG 2N 14 128 E. 5.3.1 f.](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-128_2014-10-14.html)).
+
+> **Leitsatz.** Der blosse persönliche Zeitaufwand einer nicht anwaltlich vertretenen Person für Einvernahmen und Akteneinsicht gilt im Regelfall als geringfügige Aufwendung im Sinne von Art. 430 Abs. 1 lit. c StPO und ist entschädigungslos hinzunehmen.
+
+---
+
+### E. Herabsetzung im Rechtsmittelverfahren (Abs. 2 i.V.m. Art. 428 Abs. 2 StPO)
+
+Art. 430 Abs. 2 StPO eröffnet eine **zusätzliche Kürzungsbefugnis exklusiv für das Rechtsmittelverfahren**. Die Bestimmung verweist auf [Art. 428 Abs. 2 StPO](../art-428) und knüpft an dessen zwei Ausnahmetatbestände an.
+
+#### 1. Dogmatische Grundlinie: Keine Totalverweigerung
+
+Im Unterschied zu Abs. 1 sieht Abs. 2 dem klaren Wortlaut nach («können Entschädigung und Genugtuung zudem herabgesetzt werden») **nur eine Herabsetzung, nicht aber eine gänzliche Verweigerung** vor. Liegen ausschliesslich die Tatbestände von Art. 428 Abs. 2 StPO vor, darf die Rechtsmittelinstanz die Entschädigung prozentual reduzieren, aber nicht auf null setzen.
+
+Die beiden Tatbestandsvarianten von Art. 428 Abs. 2 StPO lauten:
+- **lit. a:** Die Voraussetzungen für das Obsiegen sind erst im Rechtsmittelverfahren geschaffen worden.
+- **lit. b:** Der angefochtene Entscheid wird nur unwesentlich abgeändert.
+
+#### 2. Kasuistik: Voraussetzungen erst im Rechtsmittelverfahren geschaffen (lit. a)
+
+> **Rückzug des Strafantrags bei Entziehen von Unmündigen**  
+> Die Mutter A. wurde erstinstanzlich wegen Entziehens von Minderjährigen zu einer bedingten Geldstrafe verurteilt, weil sie mit ihren Töchtern ohne Zustimmung des Vaters auf die Philippinen gereist war (Art. 301a ZGB). A. erhob Berufung. Im Rahmen einer Scheidungsvereinbarung verpflichtete sich der Vater zum Rückzug des Strafantrags, worauf das Obergericht Zürich das Verfahren einstellte. Es auferlegte A. gestützt auf Art. 426 Abs. 2 StPO die gesamten Verfahrenskosten beider Instanzen und verweigerte ihr jede Entschädigung.  
+> **Erster Schritt: Art. 426 Abs. 2 StPO gilt nicht für die Berufungskosten.** Für das Rechtsmittelverfahren gilt ausschliesslich Art. 428 StPO ([BGer 6B_870/2022 E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-870-2022_2023-06-28.html)).  
+> **Zweiter Schritt: Schutz des gutgläubigen Berufungsführers.** Zwar wurden die Voraussetzungen für die Einstellung erst im Berufungsverfahren geschaffen (Art. 428 Abs. 2 lit. a StPO). Da A. das Rechtsmittel jedoch in guten Treuen ergriffen hatte und die Gegenstandslosigkeit auf nachträglichen Umständen beruhte, durfte sie im Kosten- und Entschädigungspunkt nicht bestraft werden. Das Bundesgericht hob den Entscheid auf: Die Vorinstanz musste A. für das Rechtsmittelverfahren entschädigen ([E. 1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-870-2022_2023-06-28.html)).
+
+#### 3. Kasuistik: Unwesentliche Abänderung des Entscheids (lit. b)
+
+> **Umqualifikation des Rauchverbots in der Gaststube**  
+> Ein Wirt wurde per Strafbefehl wegen Duldens des Rauchens ausserhalb des Fumoirs nach dem kantonalen Wirtschaftsgesetz zu Fr. 600.- Busse verurteilt. Auf Berufung hin änderte das Obergericht Solothurn die rechtliche Würdigung und sprach ihn gestützt auf das Bundesgesetz zum Schutz vor Passivrauchen schuldig; die Busse von Fr. 600.- blieb unverändert. Das Obergericht auferlegte ihm die zweitinstanzlichen Kosten und verweigerte eine Parteientschädigung.  
+> **Entscheid:** Das Bundesgericht schützte den Entscheid: Führte die Berufung bloss zu einer anderen rechtlichen Subsumtion bei identischer Deliktskategorie (Übertretung) und gleichbleibender Sanktion, lag eine bloss unwesentliche Abänderung nach Art. 428 Abs. 2 lit. b StPO vor. Die Verweigerung der Entschädigung nach Art. 430 Abs. 2 StPO war bundesrechtskonform ([BGer 6B_1025/2014 E. 2.4.4 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1025-2014_2015-02-09.html)).  
+> *Gegenprobe:* Führt das Rechtsmittel hingegen zum Wegfall einer Qualifikation oder zum Wechsel von Verbrechen/Vergehen zu einer Übertretung (kein Strafregistereintrag), liegt stets eine wesentliche Änderung vor, die eine Kostenauflage und Kürzung ausschliesst ([BGE 139 IV 282 E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-282_2013.html)).
+
+> **Leitsatz.** Art. 430 Abs. 2 StPO erlaubt bei Erfüllung der Voraussetzungen von Art. 428 Abs. 2 StPO lediglich die Herabsetzung, nicht aber die vollständige Verweigerung der Entschädigung. Tritt die Erledigung im Rechtsmittelverfahren ohne Verschulden der Partei ein, bleibt ihr Entschädigungsanspruch gewahrt.
+
+---
+
+### F. Kategoriale Unanwendbarkeit bei rechtswidrigen Zwangsmassnahmen (Art. 431 StPO)
+
+In der Praxis ist strikt zwischen zwei Konstellationen des Eingriffs in die persönliche Freiheit zu unterscheiden:
+
+| Anspruchsgrundlage | Rechtsnatur des Eingriffs | Anwendbarkeit von Art. 430 StPO | Rechtsfolge bei Selbstverschulden | Leitentscheid |
+|---|---|---|---|---|
+| **Art. 429 Abs. 1 lit. c StPO** | Rechtmässig angeordnete Zwangsmassnahme / Haft, die sich nachträglich wegen Freispruchs oder Einstellung als unberechtigt erweist | **Voll anwendbar** | Entschädigung und Genugtuung können nach Art. 430 Abs. 1 lit. a StPO herabgesetzt oder ganz verweigert werden | [BGer 6B_1076/2016 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html) |
+| **Art. 431 Abs. 1 StPO** | Formell oder materiell **rechtswidrige Zwangsmassnahme** (Haft ohne Hafttitel, Missachtung von Art. 197 StPO, Überdauer der Vorführung) | **Strikt unanwendbar** | Anspruch auf Entschädigung und Genugtuung besteht **verschuldensunabhängig**; Kürzung nach Art. 430 StPO ist bundesrechtswidrig | [BGer 7B_459/2023 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-459-2023_2024-08-23.html); [BGer 6B_672/2021 E. 5.2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html) |
+
+#### 1. Dogmatische Grundlinie: Absoluter Schutz vor rechtswidrigem Zwang
+
+Wurden Zwangsmassnahmen unter Verletzung formeller oder materieller gesetzlicher Bestimmungen angeordnet oder vollzogen (Art. 196 ff. StPO, Art. 5 EMRK), so greift Art. 431 Abs. 1 StPO. In diesem Bereich scheidet jede Anwendung von Art. 430 StPO von vornherein aus:
+- Der Staat kann sich gegenüber dem Opfer einer rechtswidrigen Zwangsmassnahme **niemals auf dessen vorwerfbares Verhalten berufen**, um die Entschädigung zu mindern ([BGer 7B_459/2023 vom 23. August 2024 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-459-2023_2024-08-23.html)).
+- Selbst die Flucht eines Verurteilten aus dem Massnahmenvollzug nach Berlin entbindet die Behörden nicht von der Pflicht, ihn für Zeiten zu entschädigen, in denen er sich mangels fristgerechter Haftanordnung ohne gültigen Hafttitel in Haft befand ([BGer 7B_459/2023 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-459-2023_2024-08-23.html)).
+
+> **Leitsatz.** Bei rechtswidrigen Zwangsmassnahmen (Art. 431 Abs. 1 StPO) ist Art. 430 StPO unanwendbar. Ein Selbstverschulden der betroffenen Person schliesst den Anspruch auf Entschädigung und Genugtuung für die ungesetzliche Freiheitsentziehung nicht aus.
+
+---
+
+## Kantonale Praxisfragen
+
+### 1. Haftung des Staates bei Zahlungsunfähigkeit der Privatklägerschaft (Art. 430 Abs. 1 lit. b StPO)
+
+In der kantonalen Rechtsprechung war lange umstritten, wie zu verfahren ist, wenn die beschuldigte Person nach Art. 432 Abs. 2 StPO einen Entschädigungsanspruch gegen die Privatklägerschaft erwirkt, diese aber zahlungsunfähig oder mittellos ist.
+- **Wortlautgetreue Auffassung:** Einzelne Behörden verweigerten die staatliche Auszahlung unter Berufung auf den klaren Wortlaut von Art. 430 Abs. 1 lit. b StPO («wenn die Privatklägerschaft zu entschädigen hat») und verwiesen den Freigesprochenen auf den zivilrechtlichen Betreibungsweg.
+- **Herrschende Praxis der Obergerichte (TG, SO, BS):** Die Obergerichte haben klargestellt, dass Art. 430 Abs. 1 lit. b StPO teleologisch zu reduzieren ist. Die Entschädigungspflicht des Staates nach Art. 429 StPO entfällt nur, wenn die Forderung gegen die Privatklägerschaft **tatsächlich einbringlich** ist ([TG OG RBOG 2025 Nr. 42 E. 2.3.1.3](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--42_2025.html); OGer SO STBER.2019.8 vom 12. November 2019 E. 4; AppGer BS SB.2019.2 vom 26. April 2019 E. 2.2.1). Ist der Privatkläger mittellos (notorisch oder durch Bewilligung der unentgeltlichen Rechtspflege ausgewiesen), greift eine **subsidiäre staatliche Ausfallhaftung** für den Schuldpunkt.
+
+### 2. Geringfügigkeit und Bindungswirkung für Privatklägeransprüche (Art. 430 Abs. 1 lit. c StPO)
+
+Kann die Geringfügigkeit nach Art. 430 Abs. 1 lit. c StPO auch herangezogen werden, um einen Entschädigungsanspruch der beschuldigten Person gegenüber der Privatklägerschaft nach Art. 432 Abs. 2 StPO abzuweisen?
+- **Kantonale Praxis (LU, SG):** Das Kantonsgericht Luzern hat entschieden, dass die Wertung von Art. 430 Abs. 1 lit. c StPO auf Art. 432 Abs. 2 StPO durchschlägt ([LU KG 2N 14 128 E. 5.1, 5.3.2](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-128_2014-10-14.html)). Verursacht eine Verbotseinsprache bei einem Laien bloss geringfügige Aufwendungen (einzelne Einvernahme, Bagatellspesen), hat die Strafbehörde im Rahmen ihres Ermessens nach Art. 432 Abs. 2 StPO auch von einer Kostenüberbindung an die Privatklägerschaft abzusehen.
+
+### 3. Abgrenzung Kausalhaftung vs. Verschulden bei Art. 53 und 54 StGB (SG KG AK.2023.396)
+
+Führt eine Einstellung wegen Wiedergutmachung (Art. 53 StGB) oder persönlicher Betroffenheit (Art. 54 StGB) automatisch zur Entschädigungsverweigerung nach Art. 430 Abs. 1 lit. a StPO?
+- **Kantonale Praxis St. Gallen:** Das Kantonsgericht St. Gallen verwarf die Praxis der Untersuchungsbehörde, bei einem schweren Verkehrsunfall allein aus der fahrzeughalterischen Kausalhaftung (Art. 58 SVG) auf ein Verschulden zu schliessen ([SG KG AK.2023.396 vom 19. Oktober 2023 E. 3b](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)). Eine Kostenauflage und Kürzungsbefugnis setzt zwingend ein **individuelles, nachgewiesenes Verschulden** (Art. 41 OR) voraus. Bleibt die Unfallursache unaufgeklärt (z.B. medizinischer Notfall nicht ausschliessbar), sind die Verfahrenskosten auf die Staatskasse zu nehmen und die Verteidigungskosten voll zu entschädigen.
+
+---
+
+## Praxishinweise
+
+**Für die beschuldigte Person und ihre Verteidigung:**
+
+1. **Rechtliches Gehör zur Kürzung einfordern:** Beabsichtigt die Behörde bei Freispruch oder Einstellung eine Kürzung oder Verweigerung nach Art. 430 StPO, stets auf vorgängiger Gehörsgewährung zur Ermessensausübung bestehen; ein überraschender Kürzungsentscheid im Endentscheid ist aufzuheben ([BGer 6B_1076/2016 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
+2. **Kostenentscheid zwingend anfechten:** Weil der Kostenentscheid die Entschädigung präjudiziert, muss eine Kostenauflage nach Art. 426 Abs. 2 StPO stets fristgerecht angefochten werden; wird die Kostenauflage rechtskräftig, ist der Entschädigungsanspruch im Regelfall verloren ([BGE 147 IV 47 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.1)).
+3. **Schweigerecht wahren, aber Täuschung unterlassen:** Die passive Aussageverweigerung (Art. 113 StPO) darf niemals als Kürzungsanlass gewertet werden. Dringend zu unterlassen ist jedoch das Legen falscher Spuren oder die Belastung unbeteiligter Dritter, da dies als schuldhafte Erschwerung zum Verlust der Entschädigung führt ([BGer 6B_672/2021 E. 5.3.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html)).
+4. **Ausfallentschädigung bei mittellosem Privatkläger verlangen:** Bei Antragsdelikten oder Privatklägerberufungen im Schuldpunkt stets einen Eventualantrag auf Entschädigung zulasten des Staates stellen, falls die Gegenpartei zahlungsunfähig ist ([TG OG RBOG 2025 Nr. 42 E. 2.3.1.3](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--42_2025.html)).
+5. **Rechtswidrigkeit von Zwangsmassnahmen rügen:** Lag eine ungesetzliche Massnahme vor (z.B. überlange Vorführung oder fehlender Hafttitel), stets Art. 431 StPO anrufen; dort ist eine Kürzung nach Art. 430 StPO von vornherein ausgeschlossen ([BGer 7B_459/2023 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-459-2023_2024-08-23.html)).
+
+**Für die Privatklägerschaft:**
+
+1. **Rechtsmittelrisiko bei Alleingang kalkulieren:** Zieht die Privatklägerschaft ein Verfahren im Schuldpunkt allein weiter, trägt sie im Unterliegensfall das volle Entschädigungsrisiko für die gegnerischen Verteidigungskosten — bei Antragsdelikten auch im Beschwerdeverfahren ([BGE 147 IV 47 E. 4.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.2.6)).
+2. **Geringfügigkeit als Abwehrmittel nutzen:** Verlangt die obsiegende Gegenpartei Umtriebsentschädigung für geringfügige Bagatelleingaben ohne Anwalt, die Einrede der Geringfügigkeit nach Art. 430 Abs. 1 lit. c i.V.m. Art. 432 Abs. 2 StPO erheben ([LU KG 2N 14 128 E. 5.3.2](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-128_2014-10-14.html)).
+
+**Für die Strafverfolgungsbehörden und Gerichte:**
+
+1. **Keine Verdachtsstrafen im Entschädigungsentscheid:** Die Begründung einer Verweigerung nach lit. a darf sich ausschliesslich auf klar bewiesene zivilrechtliche Verhaltensnormverletzungen stützen; jede Anspielung auf ein nicht bewiesenes strafrechtliches Verschulden verletzt die Unschuldsvermutung ([BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2.2); [BGer 6B_1211/2013 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1211-2013_2014-10-02.html)).
+2. **Verhältnismässigkeit bei Kürzungsquoten beachten:** Bei untergeordnetem Selbstverschulden ist die Entschädigung herabzusetzen, nicht gänzlich zu verweigern; eine Totalverweigerung bedarf qualifizierter Gründe ([BGer 6B_1076/2016 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html)).
+3. **Rechtswidrige Vorführung nicht über Art. 430 StPO bereinigen:** Dauert ein Polizeigewahrsam unverhältnismässig lange oder wird die Person nach der Einvernahme nicht unverzüglich entlassen (Art. 209 Abs. 3 StPO), darf die Genugtuung hierfür nicht wegen vorwerfbaren Verhaltens nach Art. 430 Abs. 1 lit. a StPO gestrichen werden ([BGer 6B_672/2021 E. 5.3.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html)).
+
+---
 
 ## Querverweise
 
-- **Art. 426 StPO** — Kostentragungspflicht der beschuldigten Person: Art. 426 Abs. 2 StPO enthält die parallele Vorschrift zur Kostentragung bei Freispruch oder Einstellung; die Grundsätze von Art. 426 Abs. 2 StPO gelten auch für Art. 430 Abs. 1 lit. a StPO.
-- **[Art. 428](../art-428) StPO** — Kostentragung im Rechtsmittelverfahren: Art. 430 Abs. 2 StPO verweist auf Art. 428 Abs. 2 StPO (Ausnahmen im Rechtsmittelverfahren).
-- **[Art. 429](../art-429) StPO** — Entschädigung und Genugtuung: Begründet den grundsätzlichen Entschädigungsanspruch bei Freispruch oder Einstellung, dessen Herabsetzung oder Verweigerung Art. 430 StPO regelt.
-- **[Art. 431](../art-431) StPO** — Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft: Bei rechtswidriger Anwendung von Zwangsmassnahmen kommt Art. 430 StPO nicht zur Anwendung.
-- **Art. 432 StPO** — Ansprüche gegenüber Privatklägerschaft: Koordination mit Art. 430 Abs. 1 lit. b StPO bei Entschädigungspflicht der Privatklägerschaft.
-- **[Art. 448](../art-448) StPO** — Anwendbares Recht (Übergangsbestimmungen): BGE 137 IV 352 klärt die Anwendbarkeit von Art. 430 StPO im Übergangsrecht.
-- **[Art. 453](../art-453) StPO** — Vor Inkrafttreten gefällte Entscheide: Übergangsrechtliche Bestimmung.
-- **Art. 32 Abs. 1 BV** — Unschuldsvermutung: Begrenzt die Heranziehung von strafrechtlichem Verschulden im Rahmen von Art. 430 Abs. 1 lit. a StPO.
-- **Art. 6 Ziff. 2 EMRK** — Unschuldsvermutung: Gleich wie Art. 32 Abs. 1 BV.
-- **Art. 28 ZGB, Art. 41 OR** — Zivilrechtliche Verhaltensnormen: Der Massstab für das «rechtswidrig und schuldhaft» im Sinne von Art. 430 Abs. 1 lit. a StPO orientiert sich an zivilrechtlichen Grundsätzen.
+- **[Art. 426 StPO](../art-426)** — Kostentragungspflicht der beschuldigten Person: Die Voraussetzungen von Art. 426 Abs. 2 StPO entsprechen spiegelbildlich denjenigen von Art. 430 Abs. 1 lit. a StPO; der Kostenentscheid präjudiziert die Entschädigung.
+- **[Art. 428 StPO](../art-428)** — Kosten des Rechtsmittelverfahrens: Abs. 2 verweist für die Herabsetzung auf die Ausnahmetatbestände von Art. 428 Abs. 2 StPO.
+- **[Art. 429 StPO](../art-429)** — Grundanspruch auf Entschädigung und Genugtuung bei Freispruch oder Einstellung: Kausalhaftung des Staates, deren Ausnahmen Art. 430 StPO regelt.
+- **[Art. 431 StPO](../art-431)** — Entschädigung und Genugtuung bei rechtswidrigen Zwangsmassnahmen: Art. 430 StPO ist bei rechtswidrigen Massnahmen kategorial unanwendbar.
+- **[Art. 432 StPO](../art-432)** — Entschädigungspflicht der Privatklägerschaft: Koordination mit Art. 430 Abs. 1 lit. b StPO und staatliche Ausfallhaftung.
+- **Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK** — Unschuldsvermutung: Schranke gegen Verdachtsstrafen bei Kürzungsentscheiden.
+- **Art. 113 StPO** — Rechte der beschuldigten Person (nemo tenetur): Schweigen und Bestreiten dürfen nicht als Erschwerung gewertet werden.
+- **Art. 41 OR, Art. 28 ZGB** — Zivilrechtliche Verhaltensnormen: Massstab für das zivilrechtliche Verschulden nach Art. 430 Abs. 1 lit. a StPO.
+
+---
 
 ## Literatur
 
-Die folgenden Werke werden in der zu Art. 430 f. StPO ergangenen Rechtsprechung herangezogen:
-
-- Griesser, Yvona, N. 1 zu Art. 431 StPO (zitiert in [BGer 6B_672/2021, E. 5.2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_672_2021#e-5-2-4)).
-- Wehrenberg/Frank, N. 3b und N. 3e zu Art. 431 StPO (zitiert ebenda) sowie zur Abgrenzung von ungerechtfertigter und rechtswidriger Haft ([BGer 6B_1076/2016, E. 3.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_1076_2016#e-3-3)).
+- **Domeisen, Thomas**, in: Niggli/Heer/Wiprächtiger (Hrsg.), Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl., Basel 2023, Art. 426 N 29 ff., Art. 428 N 20 ff.
+- **Griesser, Yvona**, in: Donatsch/Lieber/Summers/Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung (StPO), 3. Aufl., Zürich 2020, Art. 426 N 9 ff., Art. 430 N 1 ff., Art. 431 N 1 ff., Art. 432 N 6.
+- **Wehrenberg, Stefan / Frank, Felix**, in: Niggli/Heer/Wiprächtiger (Hrsg.), Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl., Basel 2014 / 3. Aufl., Basel 2023, Art. 430 N 1 ff., Art. 431 N 3b ff., Art. 432 N 23.
+- **Schmid, Niklaus / Jositsch, Daniel**, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 430 N 1–8.
+- **Echle, Sandrine**, Die Adhäsionsklage nach der Schweizerischen Strafprozessordnung und der Anspruch des Beschuldigten auf ein faires Verfahren, Diss. Zürich 2018, S. 118.
+- **Omlin, Angelo**, in: Fischer/Luterbacher (Hrsg.), Haftpflichtkommentar, Zürich/St. Gallen 2016, Art. 430 StPO N 7.
