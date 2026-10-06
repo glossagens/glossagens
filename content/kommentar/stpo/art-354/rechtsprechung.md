@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 354 StPO"
 weight: 99
 date: "2026-06-27"
-lastmod: "2026-09-14"
+lastmod: "2026-10-06"
 description: "Übersicht der Leitentscheide und weiteren Entscheide des Bundesgerichts und kantonaler Gerichte zu Art. 354 StPO (Einsprache gegen den Strafbefehl, Form, Fristen, Legitimation und Rechtskraft)."
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Einsprache", "Privatklägerschaft", "Rechtskraft", "Zustellfiktion", "Verschlechterungsverbot"]
 agent_verified: true
@@ -139,6 +139,12 @@ Das Bundesgericht stellte fest: Die persönliche handschriftliche Unterzeichnung
 - **Erwägung**: E. 8.1–8.2
 - **Abstract**: Die Staatsanwaltschaft trat auf eine Einsprache wegen Fristversäumnis selbst nicht ein. Das Obergericht Zürich hob die Verfügung auf: Die Staatsanwaltschaft besitzt keine Entscheidungsbefugnis über die Gültigkeit einer Einsprache; sie muss die Akten zwingend dem erstinstanzlichen Gericht nach Art. 356 Abs. 2 StPO überweisen.
 
+### [AG OG SBK.2026.208](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-208_2026-09-16.pdf) (16.09.2026)
+- **Thema**: Fehlende Einsprachelegitimation einer Mitbeschuldigten gegen den separaten Strafbefehl einer anderen beschuldigten Person im gleichen Sachverhalt (Art. 354 Abs. 1 lit. b StPO)
+- **Erwägung**: E. 2.1–2.4
+- **Abstract**: Die Staatsanwaltschaft Brugg-Zurzach erliess im Zusammenhang mit demselben Sachverhalt zwei separate Strafbefehle wegen Widerhandlungen gegen das AIG: B._____ wurde wegen rechtswidriger Einreise, rechtswidrigen Aufenthalts und Erwerbstätigkeit (Art. 115 AIG) verurteilt, A._____ wegen Förderung des rechtswidrigen Aufenthalts (Art. 116 AIG). A._____ erhob Einsprache gegen den Strafbefehl betreffend B._____ und machte geltend, durch den gemeinsamen Sachverhalt präjudiziell betroffen zu sein. Das Bezirksgericht Brugg trat auf die Einsprache mangels Legitimation nicht ein und stellte die Rechtskraft fest.  
+Das Obergericht des Kantons Aargau wies die dagegen erhobene Beschwerde ab: Eine Mitbeschuldigte ist nicht als «weitere Betroffene» im Sinne von Art. 354 Abs. 1 lit. b StPO einspracheberechtigt. In Bestätigung von BGE 141 IV 231 E. 2.3 genügt eine bloss faktische oder präjudizielle Betroffenheit nicht; erforderlich ist eine unmittelbare Berührung in eigenen rechtlich geschützten Interessen (Art. 105 Abs. 2 StPO). Da das Sachgericht im Verfahren gegen die Einsprechende weder an die Sachverhaltsfeststellung noch an die rechtliche Würdigung des fremden Strafbefehls gebunden ist (Art. 343 und Art. 344 StPO), droht kein Präjudiz. Das Risiko widersprüchlicher Entscheide wird durch Art. 356 Abs. 7 i.V.m. Art. 392 StPO aufgefangen (sinngemässe Ausdehnung gutheissender Urteile auf nicht einsprechende Mitbeschuldigte). Der Erlass getrennter Strafbefehle entspricht Art. 353 Abs. 1 lit. b StPO und stellt keine unzulässige Verfahrenstrennung dar; auch das Fehlen von Parteiöffentlichkeit bei polizeilichen Befragungen im Vorverfahren (Art. 306 Abs. 2 lit. b i.V.m. Art. 147 Abs. 1 StPO) vermittelt Dritten kein Einspracherecht.
+
 ---
 
-*Stand der Rechtsprechung: September 2026. Sämtliche Urteile über entscheidsuche.ch verifiziert.*
+*Stand der Rechtsprechung: Oktober 2026. Sämtliche Urteile über entscheidsuche.ch verifiziert.*

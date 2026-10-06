@@ -2,11 +2,16 @@
 title: "Art. 354 StPO — Einsprache"
 weight: 354
 date: "2026-06-27"
-lastmod: "2026-09-14"
+lastmod: "2026-10-06"
 description: "Praxiskommentar zu Art. 354 StPO: Einsprache gegen den Strafbefehl — Einspracheberechtigung (Beschuldigte Person, Privatklägerschaft nF, Betroffene), Formstrenge vs. überspitzter Formalismus (Telefax, E-Mail, Scan, anwaltliche Vertretung), Fristberechnung, Auslandszustellung und Zustellfiktion, Begründungsanforderungen, kein Verschlechterungsverbot (reformatio in peius) sowie Rechtskraft und Verjährung."
 tags: ["StPO", "Strafbefehl", "Einsprache", "Rechtskraft", "Privatklägerschaft", "Formvorschriften", "Fristen", "Zustellfiktion", "Verschlechterungsverbot", "Reformatio in peius", "Übertretungsstrafbehörden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung Art. 354 Abs. 1 lit. b StPO um AG OG SBK.2026.208 vom 16. September 2026: Fehlende Einsprachelegitimation einer Mitbeschuldigten gegen den separaten Strafbefehl einer anderen beschuldigten Person im gleichen Sachverhalt (Bestätigung der restriktiven Linie von BGE 141 IV 231; keine Bindungswirkung nach Art. 343 f. StPO; Schutz vor Widersprüchen via Art. 356 Abs. 7 i.V.m. Art. 392 StPO); Integration in Lehre/Kasuistik, kantonale Praxisfragen, Praxishinweise und Querverweise."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -107,7 +112,12 @@ Typische Anwendungsfälle:
 - **Zivilrechtlich haftende Dritte**: Personen, die für Bussen oder Verfahrenskosten haften sollen (z.B. nach kantonalen Übertretungsgesetzen).
 - **Parteientschädigung bei Verweisung auf den Zivilweg**: Verweist die Staatsanwaltschaft die Zivilklage auf den Zivilweg und verweigert der Privatklägerschaft eine Parteientschädigung für die Kosten der Strafklageführung, kann diese die Kostenregelung als Betroffene anfechten ([BGE 139 IV 102 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-102_2012.html#consideration_5.2)).
 
-> **Verwerfungsfall (bloss mittelbare Betroffenheit):** Zwei Organe einer Gesellschaft führten Einsprache gegen einen Strafbefehl, der gegen einen Dritten wegen Veruntreuung ergangen war, und machten geltend, der Strafbefehl belaste die Gesellschaft und beeinträchtige deren Ruf. Das Bundesgericht verneinte die Legitimation nach Art. 354 Abs. 1 lit. b StPO: Eine rein wirtschaftliche, tatsächliche oder reflexartige Betroffenheit genügt nicht; erforderlich ist eine direkte Berührung in eigenen rechtlich geschützten Positionen ([BGer 6B_233/2018 vom 7. Dezember 2018, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-233-2018_2018-12-07.html)).
+Keine Legitimation bei bloss reflexartiger oder paralleler Betroffenheit:
+- **Mitbeschuldigte bei separaten Strafbefehlen im selben Sachverhalt**: Erlässt die Staatsanwaltschaft gestützt auf denselben Lebenssachverhalt mehrere separate Strafbefehle gegen verschiedene beschuldigte Personen (Art. 353 Abs. 1 lit. b StPO), ist eine mitbeschuldigte Person nicht als «weitere Betroffene» nach Art. 354 Abs. 1 lit. b StPO zur Einsprache gegen den Strafbefehl einer anderen beschuldigten Person legitimiert ([AG OG SBK.2026.208 vom 16. September 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-208_2026-09-16.pdf)). Eine blosse faktische oder präjudizielle Betroffenheit vermag keine unmittelbare Beeinträchtigung eigener rechtlich geschützter Interessen im Sinne von Art. 105 Abs. 2 StPO zu begründen ([BGE 141 IV 231 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-231_2015.html#consideration_2.3)). Das Sachgericht im Verfahren gegen den Einsprechenden ist an die Sachverhaltsfeststellung und rechtliche Würdigung im Strafbefehl gegen den anderen Beschuldigten nicht gebunden (Art. 343, 344 StPO); eine Bindungswirkung oder Präjudizgefahr besteht nicht. Zudem greift bei miteinander verknüpften Tatbeiträgen der Schutzmechanismus von Art. 356 Abs. 7 i.V.m. Art. 392 StPO (sinngemässe Ausdehnung eines für den Einsprecher günstigeren Sachurteils auf den nicht einsprechenden Mitverurteilten).
+
+> **Verwerfungsfall (bloss mittelbare Betroffenheit von Gesellschaftsorganen):** Zwei Organe einer Gesellschaft führten Einsprache gegen einen Strafbefehl, der gegen einen Dritten wegen Veruntreuung ergangen war, und machten geltend, der Strafbefehl belaste die Gesellschaft und beeinträchtige deren Ruf. Das Bundesgericht verneinte die Legitimation nach Art. 354 Abs. 1 lit. b StPO: Eine rein wirtschaftliche, tatsächliche oder reflexartige Betroffenheit genügt nicht; erforderlich ist eine direkte Berührung in eigenen rechtlich geschützten Positionen ([BGer 6B_233/2018 vom 7. Dezember 2018, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-233-2018_2018-12-07.html)).
+
+> **Verwerfungsfall (Einsprache einer Mitbeschuldigten gegen Strafbefehl des Mittäters):** Die Staatsanwaltschaft erliess gegen zwei Personen separate Strafbefehle wegen Widerhandlungen gegen das Ausländer- und Integrationsgesetz (AIG; unberechtigter Aufenthalt vs. Förderung des rechtswidrigen Aufenthalts). Die Beschuldigte erhob Einsprache gegen den Strafbefehl der Mitbeschuldigten mit der Begründung, beide Verfahren beruhten auf demselben Lebenssachverhalt und der rechtskräftige Strafbefehl entfalte für ihr eigenes Verfahren eine präjudizielle Wirkung. Das Obergericht des Kantons Aargau verwarf die Einspracheberechtigung: Eine bloss faktische oder reflexartige Betroffenheit genügt für Art. 354 Abs. 1 lit. b StPO nicht. Da das Sachgericht den Sachverhalt und das Recht im eigenen Verfahren völlig frei und ungebunden zu beurteilen hat (Art. 343, Art. 344 StPO) und Art. 356 Abs. 7 i.V.m. Art. 392 StPO vor widersprüchlichen Entscheiden schützt, fehlt es an einem unmittelbaren rechtlichen Interesse ([AG OG SBK.2026.208 vom 16. September 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-208_2026-09-16.pdf)).
 
 #### 4. Ober- oder Generalstaatsanwaltschaft (lit. c)
 
@@ -380,6 +390,15 @@ Bis zum Leitentscheid [BGE 152 IV 96](https://entscheidsuche.ch/docs/CH_BGE/CH_B
 
 Das Bundesgericht beendete diesen Konflikt in [BGE 152 IV 96 E. 2.4.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-96_2026.html#consideration_2.4.7) zugunsten der restriktiven Kantone: Wegen der Unschuldsvermutung darf Dritten vor Rechtskraft keine Einsicht gewährt werden. Damit wurde die Praxis der Westschweizer und St. Galler Behörden für bundesrechtswidrig erklärt.
 
+### 4. Einsprachelegitimation von Mitbeschuldigten bei separaten Strafbefehlen im gleichen Sachverhalt
+
+In Ermittlungsverfahren mit mehreren beschuldigten Personen (z.B. Mittäterschaft, Gehilfenschaft oder Beteiligung nach AIG) erlässt die Staatsanwaltschaft regelmässig separate Strafbefehle für jeden Beschuldigten, da Art. 353 Abs. 1 lit. b StPO die Bezeichnung der beschuldigten Person im Singular verlangt. Immer wieder erheben Mitbeschuldigte Einsprache gegen den Strafbefehl eines Mittäters mit dem Argument, dieser schaffe durch seine Rechtskraft ein Sachverhaltspräjudiz für ihr eigenes Verfahren.
+
+**Die Rechtslage:** Das Obergericht des Kantons Aargau stellte klar, dass eine Mitbeschuldigte nicht als «weitere Betroffene» gemäss Art. 354 Abs. 1 lit. b StPO zur Einsprache gegen den Strafbefehl einer anderen beschuldigten Person legitimiert ist ([AG OG SBK.2026.208 vom 16. September 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-208_2026-09-16.pdf)).
+- **Keine Bindungswirkung:** Das Sachgericht im Verfahren gegen die Einsprechende ist an die Sachverhaltsfeststellung und die rechtliche Würdigung der Staatsanwaltschaft im fremden Strafbefehl nicht gebunden (Art. 343, 344 StPO). Es besteht keine Gefahr eines präjudiziellen Automatismus.
+- **Schutz vor Widersprüchen:** Sollte das Gericht im eigenen Verfahren zu einer für den Mitbeschuldigten günstigeren Beurteilung gelangen, ermöglicht Art. 356 Abs. 7 i.V.m. Art. 392 StPO die sinngemässe Ausdehnung dieses Entscheids zugunsten des nicht einsprechenden Mitverurteilten.
+- **Keine Verfahrenstrennung:** Der Erlass getrennter Strafbefehle stellt keine unzulässige verdeckte Verfahrenstrennung dar, sondern entspricht der gesetzlichen Konzeption (Art. 353 Abs. 1 lit. b, Art. 356 Abs. 7 StPO). Zudem begründen allfällige Mängel im fremden Vorverfahren (wie fehlende Parteiöffentlichkeit bei polizeilichen Einvernahmen nach Art. 306 Abs. 2 lit. b i.V.m. Art. 147 Abs. 1 StPO) kein Einspracherecht Dritter.
+
 ---
 
 ## Praxishinweise
@@ -392,6 +411,7 @@ Das Bundesgericht beendete diesen Konflikt in [BGE 152 IV 96 E. 2.4.7](https://e
 4. **Bei unklarer Adressierung die Gültigkeit vor Gericht einfordern**: Hat die Post den Avis für den Strafbefehl an eine veraltete oder falsche Adresse zugestellt (z.B. vor Heirat), ist die Zustellfiktion widerlegt ([BGE 142 IV 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-201_2016.html)). In diesem Fall ist unverzüglich innert 10 Tagen ab tatsächlicher Kenntnisnahme Einsprache zu erheben und beim erstinstanzlichen Gericht der Nichteintritt der Rechtskraft geltend zu machen.
 5. **Erneute Einsprachepflicht bei modifiziertem Strafbefehl beachten**: Erlässt die Staatsanwaltschaft nach Beweiserhebungen einen neuen Strafbefehl mit geändertem Schuldspruch oder geänderter Strafe, muss dagegen zwingend erneut innert 10 Tagen Einsprache erhoben werden ([BGE 145 IV 438](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-438_2019.html)). Nur wenn der Strafbefehl inhaltlich identisch bleibt und rein redaktionell nachgebessert wird, wirkt die frühere Einsprache fort.
 6. **Teileinsprache gezielt nutzen**: Geht es der beschuldigten Person ausschliesslich um überhöhte Verfahrenskosten oder um die Festsetzung von Tagessatzhöhen, ist die Einsprache ausdrücklich auf diese Dispositivpunkte zu beschränken. Dadurch erwächst der Schuldspruch in Teilrechtskraft, was das Risiko einer materiellen Neubeurteilung bannt.
+7. **Keine Einsprachebefugnis gegen Strafbefehle von Mitbeschuldigten**: Werden gegen mehrere Beteiligte im gleichen Sachverhalt getrennte Strafbefehle erlassen, kann ein Beschuldigter den Strafbefehl seines Mitbeschuldigten nicht anfechten ([AG OG SBK.2026.208](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-208_2026-09-16.pdf)). Die Verteidigung hat sich auf das eigene Verfahren zu konzentrieren, da das Sachgericht weder an Sachverhalt noch an Rechtsauffassung des fremden Strafbefehls gebunden ist (Art. 343 f. StPO) und Art. 356 Abs. 7 i.V.m. Art. 392 StPO vor Widersprüchlichkeiten schützt.
 
 ### Für die Privatklägerschaft:
 
@@ -428,6 +448,7 @@ Das Bundesgericht beendete diesen Konflikt in [BGE 152 IV 96 E. 2.4.7](https://e
 - Art. 94 StPO — Wiederherstellung versäumter Fristen
 - Art. 118 StPO — Privatklägerschaft
 - Art. 127 StPO — Parteivertretung und Anwaltsmonopol
+- Art. 392 StPO — Ausdehnung des Rechtsmittels auf andere Personen (sinngemäss im Strafbefehlsverfahren nach Art. 356 Abs. 7 StPO)
 - Art. 391 Abs. 2 StPO — Verbot der *reformatio in peius* (im Strafbefehlsverfahren unanwendbar)
 - Art. 97 Abs. 3 StGB — Ausschluss des Verjährungseintritts nach erstinstanzlichem Urteil
 
