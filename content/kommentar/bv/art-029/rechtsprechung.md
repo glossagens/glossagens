@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-10-04
-description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege, Ausstandsgesuch und Fristwiederherstellung (BGer 7B_15/2026)."
-tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "Ausstand", "Fristwiederherstellung"]
+lastmod: 2026-10-06
+description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege, Ausstandsgesuch und Fristwiederherstellung (BGer 7B_15/2026) sowie kantonale Rechtsprechung zur unentgeltlichen Verbeiständung (VG ZH VB.2026.00244)."
+tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "Ausstand", "Fristwiederherstellung", "Offizialmaxime", "Eingrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-06
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von VG ZH VB.2026.00244 (15.09.2026): neuer Abschnitt III Kantonale Entscheide — unentgeltlicher Rechtsbeistand im ausländerrechtlichen Zwangsmassnahmengerichtsverfahren bei Eingrenzung, Bestätigung von BGE 130 I 180 E. 3.2. Link via entscheidsuche.ch verifiziert."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -205,3 +210,18 @@ revisions:
 - **Kernaussage**: Ein Ausstandsgesuch muss "ohne Verzug" eingereicht werden (Art. 58 Abs. 1 StPO). Nach ständiger Rechtsprechung genügen 6–7 Tage; 17 Tage sind zu spät und führen zur Verwirkung. Ein Spitalaufenthalt von einem Tag mit anschliessendem Kontakt zum Verteidiger am nächsten Tag stellt kein ausreichendes Hindernis für die Fristwahrung dar. Die Fristwiederherstellung nach Art. 94 StPO erfordert einen unabwendbaren Notfall; ein Spitalaufenthalt mit Verteidiger-Kontakt am folgenden Tag genügt diesen Anforderungen nicht.
 - **Einschlägig für**: Art. 29 Abs. 1 BV; Art. 58 Abs. 1 StPO (Ausstand, "ohne Verzug"); Art. 94 StPO (Fristwiederherstellung); Verwirkung; unabwendbarer Notfall
 - **Relevante Erwägungen**: E. 2.2.1
+
+---
+
+### III. Kantonale Entscheide
+
+#### [VG ZH VB.2026.00244 vom 15. September 2026](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00244_2026-09-15.html)
+- **Kanton**: Zürich
+- **Thema**: Unentgeltlicher Rechtsbeistand im Zwangsmassnahmengerichtsverfahren bei Eingrenzung; Offizialmaxime vs. Notwendigkeit der Verbeiständung
+- **Kernaussage**: Die sachliche Notwendigkeit einer rechtskundigen Verbeiständung wird nicht allein dadurch ausgeschlossen, dass das Verfahren von der Offizialmaxime oder dem Untersuchungsgrundsatz beherrscht wird (Bestätigung von BGE 130 I 180 E. 3.2). Eine Eingrenzung auf ein Gemeindegebiet tangiert die Interessen der bedürftigen Partei erheblich. Personengebundene Faktoren — beschränkte Deutschkenntnisse, prekäre Wohnsituation in einer Notunterkunft, mangelnde Rechtskenntnisse — sind zugunsten der Notwendigkeit einer Rechtsvertretung zu gewichten. Dass die anwaltliche Argumentation nur die Verhältnismässigkeit (Rayongrösse, Geltungsdauer) betrifft, macht die anwaltliche Tätigkeit nicht entbehrlich. Gutheissung und Rückweisung zur Festsetzung der Entschädigung; der Entscheid ist noch nicht rechtskräftig.
+- **Einschlägig für**: Art. 29 Abs. 3 BV; unentgeltliche Rechtsverbeiständung; Offizialmaxime; Untersuchungsgrundsatz; Eingrenzung; Ausländerrecht
+- **Relevante Erwägungen**: E. 2.1, E. 2.2 und E. 2.4
+
+---
+
+*Letzte Aktualisierung: 6. Oktober 2026*

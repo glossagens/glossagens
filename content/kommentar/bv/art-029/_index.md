@@ -2,11 +2,16 @@
 title: "Art. 29 BV — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-09-26
+lastmod: 2026-10-06
 description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
-tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit"]
+tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit", "Offizialmaxime", "Eingrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-06
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von VG ZH VB.2026.00244 (15.09.2026): neuer Unterabschnitt K.3 zur Konkretisierung von BGE 130 I 180 E. 3.2 im ausländerrechtlichen Zwangsmassnahmengerichtsverfahren bei Eingrenzung; Offizialmaxime schliesst Verbeiständung nicht per se aus, personengebundene Faktoren (Sprachbarriere, prekäre Wohnsituation) sind zu würdigen. Zitat und Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -369,13 +374,25 @@ In einem Verfahren betreffend den Entzug der elterlichen Obhut verweigerte die V
 
 ([BGE 130 I 180 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-130-I-180_2004.html#consideration_3)). Wegen der Schwere des Grundrechtseingriffs und der Komplexität psychologischer Gutachten darf sich die Behörde nicht hinter der Untersuchungsmaxime verschanzen.
 
-#### 3. Honorierung und Pauschalentschädigung
+#### 3. Konkretisierung im ausländerrechtlichen Zwangsmassnahmenverfahren
+
+Der Grundsatz, dass die Offizialmaxime den Anspruch auf unentgeltliche Rechtsverbeiständung nicht per se ausschliesst, gilt nicht nur im Kinds- und Erwachsenenschutz, sondern auch im ausländerrechtlichen Zwangsmassnahmengerichtsverfahren. Das Verwaltungsgericht des Kantons Zürich hat ihn in einem Fall bestätigt und konkretisiert, der eine Eingrenzung auf das Gebiet einer Gemeinde betraf.
+
+**Sachverhalt.** Gegen einen ausländischen Mann war eine Eingrenzung auf das Gebiet einer Gemeinde angeordnet worden. Sein Rechtsvertreter stellte beim Zwangsmassnahmengericht des Bezirksgerichts Zürich ein Gesuch um Bestellung als unentgeltlicher Rechtsvertreter. Mit Verfügung vom 3. März 2026 erkannte das Zwangsmassnahmengericht zwar die unentgeltliche Prozessführung zu (Mittellosigkeit und fehlende Aussichtslosigkeit bejaht), lehnte die unentgeltliche Rechtsvertretung jedoch ab: Im von der Offizialmaxime beherrschten Verfahren lägen keine rechtlichen oder tatsächlichen Schwierigkeiten vor, und die vorgebrachten Argumente — der Rayon sei zu klein und die Geltungsdauer zu lang — hätte der Betroffene auch selbst vorbringen können. Der Rechtsbeistand erhob Beschwerde an das Verwaltungsgericht Zürich.
+
+**Entscheid.** Das Verwaltungsgericht Zürich hob die Verfügung auf und ordnete die Beiordnung des unentgeltlichen Rechtsbeistands an. Es bestätigte die bundesgerichtliche Linie (BGE 130 I 180 E. 3.2) und wendete sie auf die ausländerrechtliche Eingrenzung an:
+
+> «Die sachliche Notwendigkeit einer rechtskundigen Verbeiständung wird nicht allein dadurch ausgeschlossen, dass das infrage stehende Verfahren von der Offizialmaxime oder dem Untersuchungsgrundsatz (vgl. § 7 Abs. 1 VRG) beherrscht wird (BGE 130 I 180 E. 3.2). Vielmehr sind die konkreten Umstände des Einzelfalls zu würdigen. Die Notwendigkeit der unentgeltlichen Rechtsvertretung setzt voraus, dass das Verfahren die Interessen der bedürftigen Partei erheblich tangiert, was bei der Eingrenzung auf ein Gemeindegebiet zu bejahen ist. Im Zusammenhang mit der tatsächlichen und rechtlichen Schwierigkeit eines Verfahrens sind sodann namentlich auch in der betroffenen Person liegende Gründe zu berücksichtigen.»
+
+([VG ZH VB.2026.00244 vom 15. September 2026, E. 2.4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00244_2026-09-15.html)). Das Gericht gewichtete die personengebundene Situation des Betroffenen — beschränkte Deutschkenntnisse, prekäre Wohnsituation in einer Notunterkunft ohne Computer, Drucker oder Schreibtisch, mangelnde Rechtskenntnisse — zugunsten der Notwendigkeit einer Rechtsvertretung. Dass die anwaltliche Argumentation «nur» auf die Verhältnismässigkeit der Eingrenzung (Grösse des Rayons, Dauer der Massnahme) lautete, macht die anwaltliche Tätigkeit nicht entbehrlich: Gerade diese Punkte sind regelmässig Gegenstand einer rechtlich erheblichen Verhältnismässigkeitsprüfung, was der Betroffene jedoch nicht selbst in Erfahrung bringen konnte oder musste. Der Entscheid bestätigt und konkretisiert damit die bundesgerichtliche Rechtsprechung zu Art. 29 Abs. 3 BV im ausländerrechtlichen Zwangsmassnahmenbereich; er ist noch nicht rechtskräftig, ein Weiterzug ans Bundesgericht ist eröffnet.
+
+#### 4. Honorierung und Pauschalentschädigung
 Das Bundesgericht schützt kantonale Tarife, wonach der unentgeltliche Rechtsbeistand mit Pauschalen oder reduzierten Stundensätzen entschädigt wird, solange die Entschädigung nicht unhaltbar tief ist und eine wirksame Verteidigung gewährleistet bleibt ([BGE 141 I 124 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-124_2015.html#consideration_4.3); [BGE 143 IV 453 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-453_2017.html#consideration_2.5)).
 
-#### 4. Gesetzliche Nachzahlungspflicht bei Besserstellung
+#### 5. Gesetzliche Nachzahlungspflicht bei Besserstellung
 Die Gewährung der unentgeltlichen Rechtspflege ist kein endgültiger Erlass. Sobald die bedürftige Partei in wirtschaftlich günstige Verhältnisse gelangt (z.B. durch Erbschaft, Prozessgewinn oder Einkommenssteigerung), ist sie bundesrechtlich verpflichtet, die bevorschussten Beträge dem Staat zurückzuzahlen (vgl. [Art. 123 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de), [Art. 135 Abs. 4 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), [Art. 64 Abs. 4 VwVG](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de)).
 
-> **Merksatz.** Die Untersuchungsmaxime schliesst den Anspruch auf einen Rechtsbeistand nicht aus. Bei schwerwiegenden Grundrechtseingriffen (Obhutsentzug, Freiheitsentzug, Invaliditätsstreitigkeiten mit Gutachten) besteht regelmässig Anspruch auf amtliche Verbeiständung.
+> **Merksatz.** Die Untersuchungsmaxime schliesst den Anspruch auf einen Rechtsbeistand nicht aus. Bei schwerwiegenden Grundrechtseingriffen (Obhutsentzug, Freiheitsentzug, Invaliditätsstreitigkeiten mit Gutachten, ausländerrechtliche Eingrenzung) besteht regelmässig Anspruch auf amtliche Verbeiständung. Personengebundene Faktoren wie Sprachbarrieren und prekäre Lebensumstände sind in die Gesamtwürdigung einzubeziehen.
 
 ---
 
