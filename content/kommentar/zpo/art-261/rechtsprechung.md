@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 261 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: 2026-08-29
+lastmod: 2026-10-06
 description: "Übersicht der Rechtsprechung zu Art. 261 ZPO — Vorsorgliche Massnahmen, Glaubhaftmachung, nicht leicht wiedergutzumachender Nachteil, Kasuistik."
 tags: ["Rechtsprechung", "ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen", "Kasuistik"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung von ZH Handelsgericht HE260058 vom 16. September 2026 (Entscheid #144 auf bger-update.ch) zu superprovisorischen Massnahmen, Dahinfallen bei Gesuchsabweisung, Entfallen des Verfügungsgrundes bei Unterlassungszusage und Substantiierungslast."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -133,4 +138,17 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+### [Handelsgericht Zürich, HE260058](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HE260058_2026-09-16.pdf) (16. September 2026) — vgl. [Zusammenfassung auf bger-update.ch](https://bger-update.ch/weitere/144/)
+- **Thema**: Superprovisorische Massnahmen, Dahinfallen bei Gesuchsabweisung und Wegfall des Verfügungsgrundes durch Unterlassungszusage (USA Hockey vs. IIHF)
+- **Kernaussage**:
+  1. Werden bei besonderer Dringlichkeit bzw. Vereitelungsgefahr Massnahmen superprovisorisch erlassen (Art. 265 Abs. 1 ZPO), fallen diese mit der Abweisung des vorsorglichen Massnahmegesuchs nach Durchführung des kontradiktorischen Verfahrens (Art. 261 ZPO) von Gesetzes wegen dahin.
+  2. Selbst bei unstrittigem materiellem Verfügungsanspruch (Inhaberschaft an US Trade Dress, Marken und Urheberrechten nach Lanham/Copyright Act) fehlt der Verfügungsgrund i.S.v. Art. 261 Abs. 1 lit. b ZPO (drohende Rechtsverletzung / nicht leicht wiedergutzumachender Nachteil), wenn die Gegenpartei vorprozessual verbindlich und schriftlich zugesichert hat, die Schutzrechte nicht zu nutzen, und ihr tatsächliches Verhalten (hier: Bereitstellung eines generischen Trikotdesigns) mit dieser Zusicherung in Einklang steht.
+  3. Das herabgesetzte Beweismass der Glaubhaftmachung (Art. 261 Abs. 1 ZPO; BGE 140 III 610 E. 4.1; BGE 132 III 715 E. 3.1) beseitigt die Behauptungs- und Substantiierungslast der Parteien nicht (Bestätigung von BGer 5A_822/2022 E. 4.3 und BGer 5A_280/2021 E. 3.4.3).
+  4. Für vorsorgliche und superprovisorische Massnahmen sind schweizerische Gerichte am Vollstreckungsort nach Art. 31 LugÜ i.V.m. Art. 10 IPRG auch dann international und örtlich zuständig, wenn die Hauptsache gemäss Verbandsstatuten einem Schiedsgericht (CAS) übertragen ist.
+- **Konkreter Sachverhalt**: Die nationale US-Dachorganisation USA Hockey, Inc. verlangte gegen den internationalen Verband IIHF (Sitz Zürich) superprovisorische und vorsorgliche Verbote betreffend das Entwerfen, Herstellen und die kommerzielle Verwertung von Nationalmannschaftstrikots für die Eishockey-Weltmeisterschaften sowie ein Verbot einer Statutenänderung und eines neuen Ausrüstervertrags. Das Handelsgericht erliess zunächst superprovisorische Massnahmen, wies das Gesuch nach Gehörsgewährung und Verhandlung jedoch vollumfänglich ab und stellte fest, dass die superprovisorischen Massnahmen damit dahinfallen.
+- **Kanton**: Zürich (ZH)
+- **Einschlägig für**: Art. 261 Abs. 1 lit. a und b ZPO, Art. 265 Abs. 1 ZPO, Dahinfallen superprovisorischer Massnahmen, Beweismass der Glaubhaftmachung, Immaterialgüterrecht, Art. 31 LugÜ i.V.m. Art. 10 IPRG
+
+---
+
+*Letzte Aktualisierung: 2026-10-06*
