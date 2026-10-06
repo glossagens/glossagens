@@ -7,6 +7,9 @@ gruppen:
   - name: "Allgemeine Bestimmungen"
     von: 1
     bis: 196
+  - name: "Schlichtungsversuch"
+    von: 197
+    bis: 218
   - name: "Ordentliches Verfahren"
     von: 219
     bis: 242
