@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 71 StGB"
 weight: 99
 date: "2026-08-08"
-lastmod: "2026-09-08"
+lastmod: "2026-10-07"
 description: "Rechtsprechungsübersicht zu Art. 71 StGB (Ersatzforderungen): Leitentscheide des Bundesgerichts, aktuelle BGer-Urteile und kantonale Gerichtsentscheide zu Surrogatfunktion, Bruttoprinzip, Ausschluss der Solidarhaftung, Resozialisierung und SchKG-Vollstreckung."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Allgemeiner Teil", "Kasuistik", "SchKG"]
 agent_verified: false
 revisions:
+  - date: "2026-10-07"
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 7B_183/2026 vom 22. September 2026: Zivilrechtliche Vergleiche reduzieren Deliktsumme nicht; Rückerstattungsvorbehalt bei provisorischer Beschlagnahme zwingend. Volltext via entscheidsuche.ch verifiziert."
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -162,6 +167,14 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide und kantonale Praxis
 
+### [BGer 7B_183/2026 vom 22. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-183-2026_2026-09-22.html) E. 2.1.3 und 2.3.2 — Zivilrechtliche Vergleiche reduzieren Deliktsumme nicht; Rückerstattungsvorbehalt bei provisorischer Beschlagnahme zwingend
+- **Thema**: Beschlagnahme; Einziehung und Ersatzforderung trotz zivilrechtlichem Vergleich; Rückerstattungsvorbehalt; Kostenverteilung bei teilweisem Obsiegen.
+- **Sachverhalt**: Die Staatsanwaltschaft Bischofszell erhob Anklage gegen A.________ wegen gewerbsmässigen Betrugs, Urkundenfälschung, Fälschung von Ausweisen und Geldwäscherei. Vermögenswerte von rund Fr. 240'000.-- waren beschlagnahmt worden (reduziert auf Fr. 192'393.05). Das Bezirksgericht Arbon ordnete die Beschlagnahme einer weiteren Restzahlung von Fr. 299'000.-- aus einem Liegenschaftsverkauf an; das Obergericht Thurgau reduzierte auf Fr. 152'896.70. Die Beschwerdeführerin machte geltend, sie habe mit mehreren Geschädigten zivilrechtliche Vereinbarungen getroffen (Desinteresseerklärung, Ratenzahlungsvereinbarung, Saldovereinbarung im Scheidungsverfahren).
+- **Kernaussage**: Zivilrechtliche Vergleiche zwischen Beschuldigter und Geschädigten reduzieren die für die Einziehung resp. Ersatzforderung massgebliche Deliktsumme nicht; massgeblich ist der durch die Straftat erlangte Vermögensvorteil, nicht die Höhe der Zivilforderungen. Ein Vergleich steht der Einziehung nicht entgegen. Die Ersatzforderung darf jedoch nur unter dem Vorbehalt angeordnet werden, dass sie dem Täter zurückerstattet wird, sollte er den Geschädigten direkt Ersatz leisten — dieser Vorbehalt ist bereits bei der provisorischen Beschlagnahme zwingend und nachzuholen, falls die Vorinstanz ihn unterlassen hat. Die Kostenregelung hat sich am tatsächlichen Obsiegensanteil zu orientieren (Art. 428 Abs. 1 StPO); eine unbegründete 3/4-Kostenauflage bei 50 % Obsiegen ist bundesrechtswidrig.
+- **Einschlägig für**: Art. 71 Abs. 1 StGB, Art. 263 Abs. 1 lit. e StPO, Art. 428 Abs. 1 StPO, BGE 139 IV 209.
+
+---
+
 ### [BGer 6B_1279/2023 vom 13. Februar 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1279-2023_2026-02-13.html) E. 1.4–1.5 — Striktes Verbot der Rückerstattung eines Restbetrags der Ersatzforderung an den Täter
 - **Thema**: Verhältnis von staatlicher Ersatzforderung und Zivilansprüchen (Art. 73 StGB); unzulässige Vermischung; Gesetzeswidrigkeit von Rückerstattungsklauseln im Strafurteil.
 - **Sachverhalt**: Ein Beschuldigter beging Serienbetrug und Veruntreuungen (Gesamtschaden CHF 4,8 Mio.). Das Kantonsgericht St. Gallen verpflichtete ihn zu einer Ersatzforderung von CHF 1,18 Mio. zugunsten geschädigter Zivilkläger, ordnete im Dispositiv aber an: *«Ein allfällig danach noch bestehender Restbetrag der Ersatzforderung wird dem Beschuldigten zurückerstattet»*, da sich die Delinquenz wegen der hohen Kosten nicht gelohnt habe und er wieder ins Erwerbsleben finden müsse.
@@ -239,4 +252,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 8. September 2026*
+*Letzte Aktualisierung: 7. Oktober 2026*

@@ -2,11 +2,16 @@
 title: "Art. 71 StGB — Einziehung. Ersatzforderungen"
 weight: 71
 date: "2026-08-08"
-lastmod: "2026-09-08"
+lastmod: "2026-10-07"
 description: "Praxiskommentar zu Art. 71 StGB: Ersatzforderung des Staates als Surrogat der Vermögenseinziehung, Subsidiarität und Nicht-mehr-Vorhandensein, Berechnung nach Brutto- und Nettoprinzip, strikter Ausschluss der Solidarhaftung bei Mittäterschaft, Schätzung (Art. 70 Abs. 5), Konkurrenz mit Zivilansprüchen und Doppelbelastungsverbot, Zuweisung nach Art. 73 StGB, Verzicht und Herabsetzung wegen Uneinbringlichkeit oder Gefährdung der Resozialisierung (Abs. 2), Zwangsvollstreckung über das SchKG sowie Praxishinweise."
 tags: ["StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung", "Kasuistik", "SchKG", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: "2026-10-07"
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 7B_183/2026 vom 22. September 2026 in Abschnitt E.3 (Auswirkung von Zivilvergleichen): Mehrere Geschädigte mit unterschiedlichen zivilrechtlichen Vereinbarungen (Desinteresseerklärung, Ratenzahlungsvereinbarung, Saldovereinbarung im Scheidungsverfahren); Bestätigung von BGE 139 IV 209; Präzisierung, dass der Rückerstattungsvorbehalt bereits bei der provisorischen Beschlagnahme zwingend ist und nachzuholen ist; Kostenverteilung nach Art. 428 Abs. 1 StPO. Volltext via entscheidsuche.ch verifiziert."
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -198,6 +203,18 @@ Fehlt diese Anrechnungsklausel im Urteilsdispositiv, ist das Urteil im Rechtsmit
 Schliesst der Täter mit dem Geschädigten einen gerichtlichen oder aussergerichtlichen Zivilvergleich ab, hindert dies die staatliche Ersatzforderung nicht ([BGE 139 IV 209 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-209_2013.html)).
 - Tatsächlich bezahlte Vergleichsbeträge reduzieren die Ersatzforderung direkt.
 - Verzichtet der Geschädigte im Vergleich freiwillig auf einen Teil seines Anspruchs, bleibt dieser Differenzbetrag beim Staat als Ersatzforderung einziehbar; der Täter darf den deliktischen Überschuss nicht behalten ([BGE 139 IV 209 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-209_2013.html); bestätigt in [BS APG BEZ.2026.10 vom 24. April 2026 E. 3.2.2](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BEZ-2026-10_2026-04-24.html)).
+
+**Mehrere Geschädigte mit unterschiedlichen zivilrechtlichen Vereinbarungen ([BGer 7B_183/2026 vom 22. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-183-2026_2026-09-22.html)).** Die Staatsanwaltschaft Bischofszell erhob am 19. Juli 2024 gegen A.________ Anklage wegen gewerbsmässigen betrügerischen Missbrauchs einer Datenverarbeitungsanlage, mehrfachen Betrugs, mehrfacher Urkundenfälschung, mehrfacher Fälschung von Ausweisen und mehrfacher Geldwäscherei. Bereits am 24. November 2022 waren Vermögenswerte von rund Fr. 240'000.-- beschlagnahmt worden (reduziert auf Fr. 192'393.05). Das Bezirksgericht Arbon ordnete am 18. August 2025 gestützt auf Art. 263 Abs. 1 und Art. 268 StPO i.V.m. Art. 70/71 StGB die Beschlagnahme einer weiteren Restzahlung von Fr. 299'000.-- aus dem Verkauf einer vormals der Beschuldigten gehörenden Liegenschaft an. Das Obergericht des Kantons Thurgau reduzierte die beschlagnahmte Summe am 11. Dezember 2025 auf Fr. 152'896.70. Die Beschwerdeführerin machte geltend, sie habe mit mehreren Geschädigten zivilrechtliche Vereinbarungen getroffen: mit der Geschädigten B.________ eine Desinteresseerklärung im Strafverfahren, mit der Geschädigten C.________ eine Ratenzahlungsvereinbarung (27 Raten à Fr. 1'500.-- zwischen Juni 2023 und August 2025), und mit ihrem Ex-Ehemann eine Saldovereinbarung im Scheidungsverfahren. Ferner bestritt sie Teile der Deliktsumme als nicht geschuldet.
+
+Das Bundesgericht bestätigte die Berechnung der Vorinstanz vollumfänglich. Die Deliktsumme von Fr. 373'787.-- abzüglich nachgewiesener Rückzahlungen von Fr. 80'500.-- ergab eine ungedeckte Deliktsumme von Fr. 293'287.--; unter Hinzurechnung von Untersuchungs- und Hauptverfahrenskosten (mindestens Fr. 52'002.75) und Anrechnung der bereits beschlagnahmten Fr. 192'393.05 verblieb ein Beschlagnahmebedarf von Fr. 152'896.70. Die zivilrechtlichen Vereinbarungen mit den einzelnen Geschädigten — namentlich die Desinteresseerklärung von B.________ und die Saldovereinbarung mit dem Ex-Ehemann — reduzierten lediglich die Höhe der Zivilforderungen, nicht aber die für die Einziehung massgebliche Deliktsumme:
+
+> «Ein Vergleich steht der Einziehung resp. Ersatzforderung nicht entgegen. Der Geschädigte kann zwar darüber entscheiden, was er vom Täter herausverlangen will, aber nicht darüber, was der Täter durch die Tat erlangt hat und behalten darf.» ([E. 2.1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-183-2026_2026-09-22.html))
+
+Der Vergleich mit der Geschädigten C.________ stand der Ersatzforderung ebenfalls nicht entgegen, reduzierte diese aber im Umfang der geleisteten Rückzahlungen — was die Vorinstanz korrekt berücksichtigt hatte. Das Bundesgericht hiess die Beschwerde jedoch teilweise gut, weil die Vorinstanz den zwingenden Rückerstattungsvorbehalt unterlassen hatte. Dieser ist bereits bei der provisorischen Beschlagnahme vorzusehen und nachzuholen, falls er fehlt:
+
+> «Indes rügt die Beschwerdeführerin zu Recht, dass die Beschlagnahme unter dem Vorbehalt hätte erfolgen müssen, wonach ihr die Ersatzforderung in dem Umfang zurückerstattet wird, als die Beschwerdeführerin den Geschädigten direkt Ersatz geleistet hat. Dies ist nachzuholen und im Dispositiv zu ergänzen. Nur so ist gewährleistet, dass die Beschwerdeführerin keine Doppelbelastung erfährt.» ([E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-183-2026_2026-09-22.html))
+
+Die Kostenregelung der Vorinstanz, die der Beschwerdeführerin die Kosten zu drei Vierteln auferlegt hatte, ohne dies zu begründen, war ebenfalls bundesrechtswidrig: Bei einem Obsiegen von rund 50 % (Reduktion von Fr. 299'000.-- auf Fr. 152'896.70) ist die Beschwerdeführerin hälftig zu entschädigen (Art. 428 Abs. 1 StPO).
 
 #### 4. Striktes Verbot der Rückerstattung von Restbeträgen an den Täter
 Ein unvereinbarer Widerspruch zwischen kantonaler Praxis und Bundesrecht entstand dort, wo kantonale Gerichte anordneten, ein nach Befriedigung der Zivilkläger verbleibender Restbetrag der Ersatzforderung sei dem verurteilten Täter «zurückzuerstatten». Das Bundesgericht hat dieser Praxis im Grundsatzurteil **BGer 6B_1279/2023 vom 13. Februar 2026** eine entschiedene Absage erteilt:
