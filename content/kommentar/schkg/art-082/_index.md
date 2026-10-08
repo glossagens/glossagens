@@ -2,11 +2,16 @@
 title: "Art. 82 SchKG — Provisorische Rechtsöffnung"
 weight: 82
 date: 2026-06-07
-lastmod: 2026-09-12
+lastmod: 2026-10-08
 description: "Praxiskommentar zu Art. 82 SchKG: Provisorische Rechtsöffnung — Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis, Grenzkasuistik."
 tags: ["SchKG", "Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Glaubhaftmachung", "Einwendungen", "synallagmatischer Vertrag", "zusammengesetzte Urkunde", "Kontokorrent", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-08
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung zu vertraglichen Mediationsklauseln und Einrede der Vorab-Mediation gestützt auf das Grundsatzurteil BGer 4A_53/2026 vom 9.9.2026 (Fünferbesetzung, E. 4.1-4.2); Ausschluss durch Art. 198 lit. a ZPO."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
@@ -99,6 +104,7 @@ revisions:
 
 - **Preisminderung (BGE 149 III 310)**: Macht der Käufer Mängel rechtzeitig geltend und verlangt Preisminderung, kann dies als entkräftende Einwendung die Rechtsöffnung im Umfang der Minderung zu Fall bringen ([BGE 149 III 310 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-149-III-310_2023.html#consideration_5)).
 - **Urteilsunfähigkeit (BGer 4A_146/2026)**: Die Glaubhaftmachung einer fehlenden Urteilsfähigkeit bei Vertragsschluss genügt zur Abweisung des Rechtsöffnungsgesuchs ([BGer 4A_146/2026 E. 4.7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-146-2026_2026-06-10.html)).
+- **Vertragliche Vorab-Mediationsklausel (BGer 4A_53/2026 in Fünferbesetzung)**: Haben die Parteien im Grundvertrag eine Vorab-Mediationsabrede getroffen («clause de médiation préalable sans poursuite»), steht diese Einwendung der Erteilung der provisorischen Rechtsöffnung **nicht** entgegen ([BGer 4A_53/2026 vom 9.9.2026 E. 4.1 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-53-2026_2026-09-09.html#consideration_4.1)). Art. 198 lit. a ZPO (i.V.m. Art. 251 lit. a ZPO) nimmt das summarische Rechtsöffnungsverfahren zwingend von der Schlichtung und Mediation aus; die Missachtung einer privaten Mediationsklausel zieht im Rechtsöffnungsverfahren weder eine funktionelle Unzuständigkeit noch eine Sistierung oder Abweisung nach sich.
 
 ---
 
@@ -149,6 +155,9 @@ Der Schuldner kann Einwendungen geltend machen, die die Schuldanerkennung **entk
 
 ### 6. Darf der Rechtsöffnungsrichter den Titel auslegen?
 Nein. Der Rechtsöffnungsrichter darf den Rechtsöffnungstitel nicht auslegen — insbesondere nicht nach den Grundsätzen der Vertragsauslegung (Art. 18 OR). Ist der Inhalt der Urkunde nicht liquide und eindeutig, ist die Rechtsöffnung zu verweigern. Die Frage, ob eine Urkunde als Schuldanerkennung taugt, ist dem ordentlichen Richter vorbehalten ([BGE 147 III 176 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-176_2021.html#consideration_4.2)).
+
+### 7. Verhindert eine vertragliche Vorab-Mediationsklausel die provisorische Rechtsöffnung?
+Nein. Eine vertragliche Abrede, wonach vor rechtlichen Schritten eine gütliche Mediation durchzuführen sei («clause de médiation préalable sans poursuite»), hindert das Rechtsöffnungsverfahren nicht und begründet weder eine funktionelle Unzuständigkeit noch eine Einrede auf Abweisung oder Sistierung ([BGer 4A_53/2026 vom 9.9.2026 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-53-2026_2026-09-09.html#consideration_4.2)). Das summarische Rechtsöffnungsverfahren ist nach Art. 198 lit. a ZPO zwingend vom Schlichtungs- und Mediationsversuch ausgenommen. Der Schuldner kann eine allfällige Verletzung der Mediationsklausel erst im Aberkennungsprozess (Art. 83 Abs. 2 SchKG) geltend machen.
 
 ---
 

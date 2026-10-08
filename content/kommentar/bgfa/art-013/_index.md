@@ -2,11 +2,16 @@
 title: "Art. 13 — Berufsgeheimnis"
 weight: 13
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: "2026-10-08"
 description: "Kommentar zu Art. 13 BGFA — Berufsgeheimnis der Anwältinnen und Anwälte: zeitlich unbegrenzt, gegenüber jedermann, Entbindung, Voraus-Entbindung, Entsiegelung von Anwaltsakten, fahrlässige Verletzung, Hilfspersonen."
 tags: ["BGFA", "Berufsgeheimnis", "Anwaltsrecht", "Entbindung", "Art. 321 StGB", "Entsiegelung", "Honorarstreitigkeit", "Hilfspersonen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-08
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung zur Interessenabwägung bei Honorareintreibung gestützt auf BGer 2C_224/2026 vom 10.9.2026: Substanziierungslast für individuelles Geheimhaltungsinteresse des Klienten und Auswirkung unterlassener Kostenvorschüsse nach Todesfall."
   - date: 2026-08-29
     by: "Claude Code"
     model: claude-opus-4-8
@@ -86,6 +91,8 @@ revisions:
 ### Interessenabwägung bei der Entbindung
 
 **17** **Grundsatz der Interessenabwägung** Wenn die Klientin nicht entbindet, muss die Anwältin das Entbindungsverfahren bei der Aufsichtsbehörde einleiten. Die Aufsichtsbehörde entbindet, wenn das **Interesse an der Offenbarung** das **Geheimhaltungsinteresse der Klientin überwiegt** ([ZH VG VB.2024.00629](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00629_2025-07-25.html); [ZH VG VB.2024.00416](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00416_2024-07-16.html); [ZH VG VB.2025.00555](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2025-00555_2026-04-15.html)). Die Entbindung ermächtigt die Anwältin lediglich, die behauptete Honorarforderung ohne Verletzung des Berufsgeheimnisses gerichtlich geltend zu machen; der Bestand und die Höhe der Forderung sind nicht Gegenstand des Entbindungsverfahrens ([ZH VG VB.2023.00223](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2023-00223_2025-08-29.html), E. 2.4).
+
+**17bis** **BGer 2C_224/2026 — Substanziierungslast für individuelles Geheimhaltungsinteresse** In [BGer 2C_224/2026 vom 10.9.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-224-2026_2026-09-10.html) präzisierte das Bundesgericht die Interessenabwägung gemäss Art. 13 Abs. 1 Satz 2 BGFA i.V.m. Art. 321 Ziff. 2 StGB bei Honorarklagen (E. 5.1–5.5): Die Eintreibung einer offenen Honorarforderung und die Abwehr von damit verknüpften Ehrverletzungsvorwürfen stellen ein gewichtiges schutzwürdiges Interesse des Anwalts an der Entbindung dar, um einen erheblichen Vermögensnachteil abzuwenden (E. 5.2). Diesem Interesse steht einerseits das institutionelle Interesse an der Vertraulichkeit und andererseits ein allfälliges *individuelles* Geheimhaltungsinteresse des Klienten gegenüber. Der Klient hat dieses individuelle Interesse konkret aufzuzeigen. Unterlässt er dies (weil das Mandat etwa einen gewöhnlichen Forderungsstreit betraf und keine höchstpersönlichen Sphären berührt), steht der Entbindung einzig das institutionelle Vertraulichkeitsinteresse gegenüber, welches vom Durchsetzungsinteresse regelmässig überwogen wird (E. 5.2 und 5.5). Ein Verzicht auf kostendeckende Vorschüsse steht der Entbindung sodann nicht entgegen, wenn der Anwalt nicht unerklärlich passiv blieb und das Absehen von weiteren Vorschüssen plausibel begründen kann (etwa aus Pietätsgründen unmittelbar nach dem Tod des Klienten; E. 5.3–5.5).
 
 **18** **Pflicht zur Vermeidung der Entbindung** Anwältinnen und Anwälte müssen **alles Notwendige vorkehren**, um ein späteres Entbindungsverfahren zwecks Honorareintreibung zu vermeiden: rechtzeitige Rechnungsstellung, Einholung von Kostenvorschüssen, klare Kommunikation über die Honorarforderung. Erst wenn diese Massnahmen ausgeschöpft sind und die Klientin nicht freiwillig zahlt, kommt eine Entbindung in Betracht ([ZH VG VB.2022.00028](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00028_2022-05-13.html), E. 3.1; [ZH VG VB.2024.00623](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00623_2025-12-11.html), E. 5.3 f.; [ZH VG VB.2026.00106](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00106_2026-04-10.html)). Eine allfällige Verletzung der Pflicht zur periodischen Rechnungsstellung kann jedoch nicht zur Verweigerung der Entbindung führen ([ZH VG VB.2022.00028](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00028_2022-05-13.html), E. 3.4).
 

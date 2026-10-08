@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis"
 weight: 99
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: "2026-10-08"
 description: "Leitentscheide und weitere Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis, Entbindung, Voraus-Entbindung, Entsiegelung, fahrlässige Verletzung, Hilfspersonen."
 tags: ["Rechtsprechung", "BGFA", "Berufsgeheimnis", "Entbindung", "Art. 321 StGB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-08
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 2C_224/2026 vom 10.9.2026 zur Interessenabwägung bei Honorarklagen, Substanziierungslast individueller Geheimhaltungsinteressen und Vorschusspflicht nach Todesfall."
   - date: 2026-08-29
     by: "Claude Code"
     model: claude-opus-4-8
@@ -91,6 +96,15 @@ revisions:
 ## Weitere Entscheide
 
 ### Entbindung vom Berufsgeheimnis — Honorarstreitigkeiten
+
+#### BGer 2C_224/2026 (10. September 2026)
+
+**Interessenabwägung bei Honorareintreibung; Substanziierungslast für individuelles Geheimhaltungsinteresse; Verzicht auf weiteren Kostenvorschuss nach Todesfall des Klienten.** Die Eintreibung einer offenen Honorarforderung und die Abwehr von damit verknüpften Ehrverletzungsvorwürfen stellen ein schutzwürdiges persönliches Interesse des Anwalts an der Entbindung dar, um einen erheblichen Vermögensnachteil abzuwenden (E. 5.2). Diesem Interesse steht einerseits das institutionelle Interesse an der Vertraulichkeit und andererseits ein allfälliges individuelles Geheimhaltungsinteresse des Klienten gegenüber. Der Klient hat dieses individuelle Interesse konkret aufzuzeigen. Unterlässt er dies, weil das Mandat etwa einen gewöhnlichen Forderungsstreit betraf und keine höchstpersönlichen Sphären berührt, steht der Entbindung einzig das institutionelle Vertraulichkeitsinteresse gegenüber, welches vom Durchsetzungsinteresse regelmässig überwogen wird (E. 5.2 und 5.5). Ein Verzicht auf kostendeckende Vorschüsse steht der Entbindung nicht entgegen, wenn der Anwalt nicht unerklärlich passiv blieb und das Absehen von weiteren Vorschüssen plausibel begründet (etwa aus Pietätsgründen unmittelbar nach dem Tod des Klienten; E. 5.3–5.5).
+
+- Docket: [BGer 2C_224/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-224-2026_2026-09-10.html)
+- Datum: 10. September 2026
+- Erwägung: 5.1–5.5
+- Referenzen: Art. 13 Abs. 1 BGFA; Art. 12 lit. b und lit. i BGFA; Art. 321 Ziff. 2 StGB
 
 #### ZH VG VB.2026.00167 (24. Juli 2026)
 

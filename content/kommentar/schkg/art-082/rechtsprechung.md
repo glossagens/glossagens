@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 82 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-12
-description: "Übersicht der Rechtsprechung zu Art. 82 SchKG — Provisorische Rechtsöffnung, Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis."
+lastmod: 2026-10-08
+description: "Übersicht der Rechtsprechung zu Art. 82 SchKG — Provisorische Rechtsöffnung, Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis, vertragliche Mediationsklausel."
 tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Glaubhaftmachung", "synallagmatischer Vertrag", "zusammengesetzte Urkunde"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-08
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 4A_53/2026 vom 9.9.2026 (Fünferbesetzung) zur Unwirksamkeit privater Mediationsklauseln im summarischen Rechtsöffnungsverfahren (Art. 198 lit. a ZPO)."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
@@ -120,8 +125,19 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ### [BGer 4A_146/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-146-2026_2026-06-10.html) (10. Juni 2026)
 - **Thema**: Glaubhaftmachung; Urteilsunfähigkeit als Einwendung
-- **Kornaussage**: Die Glaubhaftmachung einer fehlenden Urteilsfähigkeit bei Vertragsschluss genügt zur Abweisung des Rechtsöffnungsgesuchs. Glaubhaftmachen bedeutet, dass für das Vorhandensein der behaupteten Tatsachen gewisse Elemente sprechen, die ihnen eine erhebliche Wahrscheinlichkeit verleihen (E. 4.7).
+- **Kernaussage**: Die Glaubhaftmachung einer fehlenden Urteilsfähigkeit bei Vertragsschluss genügt zur Abweisung des Rechtsöffnungsgesuchs. Glaubhaftmachen bedeutet, dass für das Vorhandensein der behaupteten Tatsachen gewisse Elemente sprechen, die ihnen eine erhebliche Wahrscheinlichkeit verleihen (E. 4.7).
 - **Einschlägig für**: Art. 82 Abs. 2 SchKG
+
+---
+
+### [BGer 4A_53/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-53-2026_2026-09-09.html) (9. September 2026, Fünferbesetzung)
+- **Thema**: Vertragliche Mediationsklausel («clause de médiation préalable sans poursuite»); keine Sperrwirkung im Rechtsöffnungsverfahren; Art. 198 lit. a ZPO
+- **Kernaussage**:
+  1. Haben die Parteien vereinbart, im Streitfall vor der Einleitung von Betreibungsschritten zwingend ein gütliches Mediationsverfahren durchzuführen, steht diese Klausel der Erteilung der provisorischen Rechtsöffnung nicht entgegen (E. 4.1 und 4.2).
+  2. Im summarischen Rechtsöffnungsverfahren (Art. 251 lit. a ZPO) findet nach Art. 198 lit. a ZPO zwingend kein Schlichtungs- oder Mediationsversuch statt. Diese gesetzliche Ausnahmeregelung schliesst jede prozessuale Sanktion (weder funktionelle Unzuständigkeit noch Abweisung oder Sistierung) aus einer privaten Mediationsabrede aus (E. 4.2).
+  3. Der Schuldner kann eine Verletzung der Mediationsklausel erst im ordentlichen Aberkennungsprozess (Art. 83 Abs. 2 SchKG) geltend machen.
+- **Konkreter Sachverhalt**: Darlehensvertrag über Fr. 450'000.- mit Mediationsklausel; Schuldnerin forderte Abweisung der Rechtsöffnung bzw. Sistierung bis zum Abschluss der Mediation.
+- **Einschlägig für**: Art. 82 Abs. 1 und 2 SchKG; Art. 198 lit. a ZPO; Art. 213 ZPO; Art. 251 lit. a ZPO
 
 ---
 
