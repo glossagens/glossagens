@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 174 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: "2026-09-05"
-description: "Übersicht der Entscheide zu Art. 174 StGB — Verleumdung, ehrverletzende Äusserung wider besseres Wissen, planmässige Untergrabung des guten Rufs, Wahrheitsbeweis bei Verdächtigung, Umfang des Strafantrags (Ehrverletzung vs. falsche Anschuldigung)."
-tags: ["Rechtsprechung", "StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Wahrheitsbeweis", "Strafantrag"]
+lastmod: 2026-10-10
+description: "Übersicht der Rechtsprechung zu Art. 174 StGB — Verleumdung: Besseres Wissen (direkter Vorsatz 2. Grades), Beweislast der Unwahrheit durch den Staat, Qualifikation der planmässigen Untergrabung auf Social Media und Blogs, Urkundenbeweis für Screenshots sowie Umfang des Strafantrags."
+tags: ["Rechtsprechung", "StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Unwahrheit", "planmässige Verleumdung", "Strafantrag"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Aktualisierung und Strukturierung der Rechtsprechung gemäss Leitfaden: 15 verifizierte Entscheide mit funktionierenden entscheidsuche.ch-Links, unterteilt in Leitentscheide und weitere Entscheide (u.a. BGer 6B_747/2025, BGer 6B_1046/2021, BGE 145 IV 462, BGE 136 IV 170, BGE 93 IV 93, BGer 6B_976/2017, ZH OG SB250297, BGer 7B_542/2023, BGer 6B_1309/2019, LU OG KA 07 121)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -21,105 +26,136 @@ revisions:
 
 # Rechtsprechung zu Art. 174 StGB
 
-## Leitentscheide
+## I. Leitentscheide
 
-### BGE 115 IV 1 — Umfang eines Strafantrags (Ehrverletzung / falsche Anschuldigung)
+### BGer 6B_747/2025 — Verleumdung via Twitter: Beweislast der Unwahrheit und besseres Wissen
 
-**BGE 115 IV 1 vom 3. März 1989**
+**[BGer 6B_747/2025 vom 2. Juni 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-747-2025_2026-06-02.html)**
 
-Leitentscheid zu Art. 28, 303 und 173 ff. StGB; Umfang eines Strafantrags. Ein Strafantrag wegen «falscher Anschuldigung» (Art. 303 StGB) kann grundsätzlich auch einen solchen wegen Ehrverletzung (Art. 173 ff. StGB) mitumfassen (E. 2b); aus konkludentem Verhalten des Antragstellers kann sich aber ebenfalls ein Verzicht auf letzteren ergeben. Der Entscheid klärt die Reichweite des Strafantrags an der Schnittstelle von Ehrverletzung und falscher Anschuldigung.
+*Leitentscheid zur Verleumdung in sozialen Medien, zur Beweislast der Unwahrheit und zum subjektiven Merkmal des besseren Wissens.*
 
-→ [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html)
+Eine Journalistin veröffentlichte auf ihrem Twitter-Account (mit über 22'000 Followern) den Vorwurf, eine ehemalige Zuger Kantonsrätin entscheide sich seit 5,5 Jahren proaktiv dafür, öffentlich über einen Vorfall an einer Feier zu sprechen und «einen Unschuldigen der Vergewaltigung zu bezichtigen». Das Bundesgericht bestätigte die Verurteilung wegen Verleumdung (Art. 174 StGB):
+- **Beweislast der Unwahrheit**: Im Unterschied zur üblen Nachrede (Art. 173 StGB) ist die Unwahrheit bei Art. 174 StGB ein objektives Tatbestandsmerkmal, das von den Strafverfolgungsbehörden bewiesen werden muss (E. 5.1.1). Ein rechtskräftig eingestelltes Strafverfahren kommt einem Freispruch gleich und genügt als Nachweis der Unwahrheit des Vorwurfs einer vorsätzlichen Falschbeschuldigung (E. 7.2.2).
+- **Besseres Wissen**: «Wider besseres Wissen» setzt sicheres Wissen um die Unwahrheit (direkten Vorsatz 2. Grades) voraus; das Bewusstsein, die Äusserung könnte möglicherweise falsch sein, genügt nicht (E. 5.1.3). Da die Journalistin von den Einstellungsverfügungen und gerichtlichen Entscheiden Kenntnis hatte, handelte sie wider besseres Wissen (E. 7.4).
+- **Kein Entlastungsbeweis**: Bei Art. 174 StGB steht dem Täter kein Entlastungsbeweis nach Art. 173 Abs. 2 StGB offen (E. 7.2.4).
 
-### BGE 102 IV 176 — Ehrverletzung durch die Presse / Wahrheitsbeweis bei Verdächtigung
+### BGer 6B_1046/2021 — Vorwurf «mehrfache Betrügerin» in Gerichtseingabe: Unwahrheit und Gerichtspersonen als Dritte
 
-**BGE 102 IV 176 vom 26. August 1976**
+**[BGer 6B_1046/2021 vom 2. August 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1046-2021_2022-08-02.html)**
 
-Leitentscheid zur Ehrverletzung durch die Presse (Art. 173 Ziff. 2 StGB; der Grundsatz gilt entsprechend für Art. 174 StGB). Für die Verdächtigung (oder die Weiterverbreitung) gibt es keinen besondern Wahrheitsbeweis: Dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht im Nachweis der Verdachtsmomente. Klärt zudem die Gutgläubigkeitsbeweisfragen der Presseberichterstattung und die Abgrenzung zulässiger Berichterstattung von ehrverletzender Verbreitung.
+*Leitentscheid zur Verleumdung durch Äusserungen in Rechtsschriften an ein Gericht und zur rechtstechnischen Auslegung von Straftatbestandsbegriffen.*
 
-→ [BGE 102 IV 176](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-176_1976.html)
+Eine Berner Grossrätin reichte beim Bezirksgericht Frauenfeld einen Klagerückzug ein und bezeichnete die Gegenpartei darin als «mehrfache Betrügerin, Urkundenfälscherin usw.». Die Gegenpartei war zwar wegen anderer Delikte verurteilt, von allen Betrugsvorwürfen jedoch rechtskräftig freigesprochen worden, woran die Grossrätin als Privatklägerin teilgenommen hatte:
+- **Gerichtspersonen als Dritte**: Die Mitteilung an ein Gericht erfüllt das Merkmal «bei einem andern» (Art. 174 Abs. 1 StGB); dass Gerichtspersonen dem Amtsgeheimnis unterstehen oder die Äusserung nicht geglaubt haben, schliesst die Strafbarkeit beim abstrakten Gefährdungsdelikt nicht aus (E. 3.4.3).
+- **Unwahrheitsbeweis**: Die Unwahrheit des Betrugsvorwurfs steht durch den rechtskräftigen Freispruch fest; andere Verurteilungen machen den Vorwurf nicht wahr (E. 3.4.2).
+- **Besseres Wissen**: Da die Beschuldigte das Urteil über den Betrugsfreispruch kannte und dem Gericht selbst beilegte, wusste sie positiv um die Unwahrheit und handelte wider besseres Wissen (E. 3.4.4).
 
-### BGer 6B_1046/2021 — Verleumdung
+### BGE 145 IV 462 — Begriff des Dritten bei Art. 173 und 174 StGB: Rechtsstellung des Anwalts
 
-**BGer 6B_1046/2021 vom 2. August 2022**
+**[BGE 145 IV 462 vom 2. Oktober 2019](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-462_2019.html)**
 
-Bundesgerichtsentscheid zu Art. 174 StGB, der die Praxis zur Verleumdung in einem konkreten Ehrverletzungsfall fortentwickelt. Relevant für die Einzelfallwürdigung des besseren Wissens und der Abgrenzung zur üblen Nachrede.
+*Leitentscheid zum Ehrbegriff und zum Begriff des Dritten bei Äusserungen gegenüber Rechtsanwälten.*
 
-→ [BGer 6B_1046/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1046-2021_2022-08-02.html)
+Das Bundesgericht präzisierte die Reichweite des Begriffs «bei einem andern» im System der Art. 173 und 174 StGB:
+- Geschützt ist ausschliesslich die sittliche Ehre, das heisst der Ruf, ein charakterlich anständiger Mensch zu sein (E. 4.2.2).
+- Der Rechtsanwalt, der eine Gegenpartei vertritt, ist grundsätzlich Dritter im Sinne der Bestimmungen. Äusserungen, die gegenüber dem gegnerischen Rechtsvertreter getätigt werden, erfüllen den objektiven Tatbestand, sofern sie nicht durch das Prozessprivileg oder Art. 14 StGB gedeckt sind (E. 4.3).
 
-### BGer 7B_542/2023 — Einstellung (üble Nachrede, Verleumdung)
+### BGE 136 IV 170 — Erfordernis des sicheren Wissens: «Wider besseres Wissen» schliesst Eventualvorsatz aus
 
-**BGer 7B_542/2023 vom 30. Mai 2024**
+**[BGE 136 IV 170 vom 23. September 2010](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-170_2010.html)**
 
-Bundesgerichtsentscheid zur Einstellung des Strafverfahrens im Zusammenhang mit übler Nachrede und Verleumdung. Relevant für die verfahrensrechtlichen Voraussetzungen der Einstellung und das Verhältnis der beiden Ehrverletzungsdelikte im Einzelfall.
+*Grundsatzurteil zum Begriff «wider besseres Wissen» (Art. 303 und Art. 174 StGB).*
 
-→ [BGer 7B_542/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-542-2023_2024-05-30.html)
+Das Bundesgericht hielt fest, dass der Gesetzgeber mit der Wendung «wider besseres Wissen» ein gesteigertes subjektives Element vorschreibt:
+- Der Täter muss **sicher darum wissen**, dass die Anschuldigung bzw. Behauptung unwahr ist (E. 2.1).
+- Das Bewusstsein, die Tatsache könnte möglicherweise unwahr sein (Eventualvorsatz), reicht für eine Verurteilung nicht aus. Wer eine Behauptung aufstellt, ohne deren Unwahrheit sicher zu kennen, handelt nicht wider besseres Wissen.
 
-### BGer 6B_976/2017 — Verleumdung
+### BGE 93 IV 93 — Planmässigkeit nach Art. 174 Abs. 2 StGB begründet kein Dauerdelikt
 
-**BGer 6B_976/2017 vom 14. November 2018**
+**[BGE 93 IV 93 vom 24. November 1967](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-93-IV-93_1967-11-24.html)**
 
-Bundesgerichtsentscheid zu Art. 174 StGB. Ergänzt die Rechtsprechung zu den Voraussetzungen des Verleumdungstatbestandes und zur Abgrenzung zulässiger Meinungsäusserung von bösgläubiger ehrverletzender Tatsachenäusserung.
+*Leitentscheid zur qualifizierten Verleumdung und zur verjährungsrechtlichen Qualifikation.*
 
-→ [BGer 6B_976/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-976-2017_2018-11-14.html)
+Das Bundesgericht stellte grundlegend klar:
+- Die Planmässigkeit der Verleumdung (Art. 174 Abs. 2 StGB) begründet weder ein Dauerdelikt noch ein fortgesetztes Delikt (E. 1).
+- Auch bei einer planmässig angelegten Ehrverletzungskampagne beginnt die Verjährungsfrist für jede einzelne Handlung gesondert im Ausführungszeitpunkt zu laufen (E. 2 und 3).
 
-## Weitere Entscheide
+### BGE 115 IV 1 — Umfang des Strafantrags: Konkludente Mitumfassung der Ehrverletzung
 
-### BGer 6B_1309/2019 — Ehrverletzung / Verleumdung
+**[BGE 115 IV 1 vom 3. März 1989](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html)**
 
-**BGer 6B_1309/2019 vom 6. Mai 2020**
+*Leitentscheid zu den Antragsfristen (Art. 31 StGB) und zur Auslegung des Strafantrags an der Schnittstelle von Ehrverletzung und falscher Anschuldigung.*
 
-Bundesgerichtsentscheid im Ehrverletzungsstrafbereich. Belegt die fortlaufende Praxis zu Art. 174 StGB und die Einzelfallwürdigung ehrverletzender Äusserungen unter Berücksichtigung des besseren Wissens.
+- Die relative Dreimonatsfrist von Art. 31 StGB beginnt erst mit zuverlässiger und sicherer Kenntnis von Tat und Täter, die ein sachgerechtes Vorgehen erlaubt (E. 2a).
+- Ein Strafantrag wegen falscher Anschuldigung (Art. 303 StGB) umfasst grundsätzlich auch die damit verbundene Ehrverletzung (Art. 173 ff. StGB), sofern der Sachverhalt denselben Lebensvorgang beschlägt; ein Verzicht auf die Ehrverletzungsklage muss sich klar aus dem Verhalten des Antragstellers ergeben (E. 2b).
 
-→ [BGer 6B_1309/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1309-2019_2020-05-06.html)
+### BGE 102 IV 176 — Wahrheitsbeweis bei Verdächtigungen
 
-### BGer 6B 8/2014 — Entlastungsbeweis bei Ehrverletzung; Willkür
+**[BGE 102 IV 176 vom 26. August 1976](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-102-IV-176_1976.html)**
 
-**BGer 6B 8/2014 vom 22. April 2014**
+*Leitentscheid zur Verdächtigung und Weiterverbreitung im Medien- und Ehrverletzungsstrafrecht.*
 
-Bundesgerichtsentscheid zur üblen Nachrede, zum Entlastungsbeweis und zur Willkürrüge. Relevant für die verfahrensrechtlichen Anforderungen an den Beweis im Ehrverletzungsstrafverfahren (Art. 173/174 StGB).
+Das Bundesgericht klärte den Gegenstand des strafrechtlichen Vorwurfs bei Verdächtigungen:
+- Für die Verdächtigung gibt es keinen gesonderten Wahrheitsbeweis: Dieser bezieht sich auf den Nachweis der ehrenrührigen Tatsachen selbst, nicht auf das blosse Vorliegen von Verdachtsmomenten (E. 2). Wer wider besseres Wissen Tatsachen verdächtigt, kann sich nicht darauf berufen, dass die Verdachtslage als solche bestanden habe.
 
-→ [BGer 6B 8/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-8-2014_2014-04-22.html)
+---
 
-### BGer 1C_524/2013 — Ehrverletzung
+## II. Weitere Entscheide
 
-**BGer 1C_524/2013 vom 2. Oktober 2013**
+### BGer 6B_976/2017 — Planmässige Verleumdung durch Weblog-Kampagne und Verjährungsbeginn
 
-Bundesgerichtsentscheid im Ehrverletzungsstrafbereich, der die Praxis zu den Voraussetzungen von Art. 173 ff. und 174 StGB ergänzt und die Abgrenzung zulässiger Kritik von ehrverletzender Äusserung klärt.
+**[BGer 6B_976/2017 vom 14. November 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-976-2017_2018-11-14.html)**
 
-→ [BGer 1C_524/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-524-2013_2013-10-02.html)
+Ein entlassener Primarlehrer betrieb mehrere Internet-Blogs, auf denen er den Erziehungsminister und Behördenmitglieder systematisch über Jahre hinweg diffamierte («arglistige Lügengebäude», «DDR- und Nazi-Methoden», «kriminelle Intriganten»):
+- **Planmässigkeit bejaht**: Die hartnäckige Bewirtschaftung und Verlinkung diverser Plattformen zur systematischen Denunzierung erfüllt Art. 174 Abs. 2 StGB (E. 3.5, E. 4.2).
+- **Keine natürliche Handlungseinheit**: Bei Abständen von Wochen oder Monaten zwischen den Blogeinträgen liegt keine natürliche Handlungseinheit vor. Die vierjährige Verjährungsfrist nach Art. 178 Abs. 1 StGB läuft für jeden Blogeintrag ab Veröffentlichungsdatum gesondert; ältere Einträge waren verjährt (E. 4.3 f.).
 
-### BGer 6B_613/2015 — Verleumdung
+### ZH OG SB250297 — Facebook-Sharing mit Pädophilie-Vorwurf: Urkundenbeweis für Screenshots und Planmässigkeit
 
-**BGer 6B_613/2015 vom 26. November 2015**
+**[ZH OG SB250297 vom 16. Juni 2026](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB250297_2026-06-16.pdf)**
 
-Bundesgerichtsentscheid zu Art. 174 StGB. Fortentwicklung der Rechtsprechung zur Verleumdung und zur Abgrenzung zwischen gutgläubiger übler Nachrede und bösgläubiger Verleumdung.
+Eine Mutter teilte in einer Facebook-Gruppe einen Beitrag, der den Vater der gemeinsamen Kinder als «pädophil» diffamierte, versehen mit dem Kommentar «Bitte teilen und lesen!»:
+- **Urkundenbeweis (Art. 141 StPO)**: Screenshots von Social-Media-Beiträgen sind als Urkundenbeweis voll verwertbar, auch wenn keine digitale Rohdatei oder kein Permalink vorliegt, solange keine greifbaren Hinweise auf Bildmanipulationen bestehen (E. 1.4).
+- **Unwahrheitsbeweis**: Die Unwahrheit wurde durch behördliche und familienpsychologische Abklärungen im Scheidungsverfahren nachgewiesen (E. 2.4).
+- **Planmässigkeit**: Die Wahl eines Onlinemediums mit dem Zusatz «Bitte teilen und lesen!» begründet nach Auffassung des Obergerichts die planmässige Verbreitung gemäss Art. 174 Abs. 2 StGB (E. 2.5).
 
-→ [BGer 6B_613/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-613-2015_2015-11-26.html)
+### BGer 7B_542/2023 — Arrestgesuch mit Straftatvorwürfen: Art. 14 StGB und Verneinung besseren Wissens
 
-### BGer 6B_333/2008 — Ehrverletzung
+**[BGer 7B_542/2023 vom 30. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-542-2023_2024-05-30.html)**
 
-**BGer 6B_333/2008 vom 9. März 2009**
+Eine Gläubigerin warf den Verwaltungsräten einer Schuldnergesellschaft im Arrestverfahren (Art. 271 SchKG) Urkundenfälschung und Konkursdelikte vor:
+- **Verfahrenseinstellung geschützt**: Die Vorwürfe stützten sich auf greifbare Unterlagen zur Glaubhaftmachung des Arrestgrundes; ein Handeln wider besseres Wissen lag nicht vor (E. 2.4.3).
+- **Art. 14 StGB**: Parteien und Anwälte handeln rechtmässig, wenn ihre Ausführungen in Rechtsschriften sachbezogen sind, sich auf das Erforderliche beschränken und nicht wider besseres Wissen erfolgen (E. 2.2.3).
 
-Bundesgerichtsentscheid im Ehrverletzungsstrafbereich. Ergänzt die Praxis zu Art. 173/174 StGB und zur Einzelfallwürdigung ehrverletzender Tatsachenäusserungen.
+### BGer 6B_1309/2019 — Mitteilung der Gewerkschaftsleitung: Verleumdung mangels besseren Wissens verworfen
 
-→ [BGer 6B_333/2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-333-2008_2009-03-09.html)
+**[BGer 6B_1309/2019 vom 6. Mai 2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1309-2019_2020-05-06.html)**
 
-### BGer 76 IV 243 — Ehrverletzung (ältere Rechtsprechung)
+Die Leitung einer Gewerkschaft teilte den Mitgliedern per Brief mit, es sei «weitgehend erstellt», dass ein gekündigter Mitarbeiter in «betrügerischer Absicht» gehandelt habe und vor kriminellen Machenschaften nicht gefeit sei:
+- **Art. 174 StGB verworfen**: Da das Strafverfahren noch hängig war und die Leitung auf behördliche Mitteilungen der Staatsanwaltschaft abstellte, fehlte jedes sichere Wissen um eine Unwahrheit. Die Einstellung bezüglich Verleumdung war bundesrechtskonform (E. 3.4.2).
+- **Gutglaubensbeweis geschützt**: Auch bei Art. 173 StGB scheiterte die Klage infolge berechtigten Vertrauens in offizielle Mitteilungen (E. 3.5.2).
 
-**BGer 76 IV 243 aus dem Jahr 1950**
+### BGer 7B_1284/2025 — Striktes Erfordernis sicheren Wissens um die Unwahrheit
 
-Älterer Bundesgerichtsentscheid zur Ehrverletzung. Relevant als Beleg der historischen Rechtsprechungskontinuität zu den Ehrverletzungsdelikten (Art. 173/174 StGB) und der Entwicklung des subjektiven Elements des besseren Wissens.
+**[BGer 7B_1284/2025 vom 29. Juli 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1284-2025_2026-07-29.html)**
 
-→ [BGer 76 IV 243](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_006_BGE-76-IV-243.pdf)
+Bestätigung der bundesgerichtlichen Leitlinie: Für die Erfüllung von Art. 174 StGB muss der Täter sicher wissen, dass seine Äusserung unwahr ist; das blosse Bewusstsein, dass sie möglicherweise falsch sein könnte (Eventualvorsatz), schliesst den Tatbestand der Verleumdung zwingend aus (E. 2.2).
 
-## Zusammenfassung
+### LU OG KA 07 121 — Strafantrag wegen Verleumdung erfasst üble Nachrede
 
-Die Rechtsprechung zu Art. 174 StGB entfaltet sich um drei Kernfragen:
+**[LU OG KA 07 121 vom 15. Januar 2008 (LGVE 2008 I Nr. 42)](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_004_KA-07-121_2008-01-15.html)**
 
-1. **Besseres Wissen vs. Gutglaubensbeweis** (BGE 102 IV 176; BGer 6B_1046/2021): Die Verleumdung setzt besseres Wissen voraus und versagt dem Täter jeglichen Wahrheits- oder Gutglaubensbeweis; für die Verdächtigung gibt es keinen besondern Wahrheitsbeweis, sondern nur den Nachweis der ehrenrührigen Tatsachen.
-2. **Umfang des Strafantrags** (BGE 115 IV 1): Ein Strafantrag wegen falscher Anschuldigung kann grundsätzlich auch einen solchen wegen Ehrverletzung mitumfassen; aus konkludentem Verhalten kann sich aber ein Verzicht ergeben.
-3. **Abgrenzung zur üblen Nachrede** (BGer 6B_976/2017; BGer 6B_613/2015): Bestehen Zweifel am besseren Wissen, ist im Zweifel von der milderen üblen Nachrede (Art. 173 StGB) auszugehen.
-4. **Verfahrensfragen** (BGer 7B_542/2023; BGer 6B 8/2014): Einstellung und Beweisführung im Ehrverletzungsstrafverfahren unterliegen den allgemeinen strafprozessualen Anforderungen.
+Die Kriminal- und Anklagekommission des Obergerichts Luzern stellte klar, dass ein formgültiger Strafantrag wegen Verleumdung (Art. 174 StGB) von Gesetzes wegen auch den weniger schwer wiegenden Tatbestand der üblen Nachrede (Art. 173 StGB) abdeckt, falls der Nachweis des besseren Wissens scheitert (E. 2).
 
-*Letzte Aktualisierung: 2026-07-31*
+### BGer 6B_613/2015 — Vorsatzabgrenzung zwischen Art. 174 und Art. 173 StGB
+
+**[BGer 6B_613/2015 vom 26. November 2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-613-2015_2015-11-26.html)**
+
+Vorwurf der Urkundenfälschung in einem Erbstreit:
+- Das Bundesgericht betonte, dass sich der Vorsatz nur bei der Verleumdung auf die Gewissheit der Unwahrheit beziehen muss (direkter Vorsatz 2. Grades), während bei der üblen Nachrede kein Unwahrheitsvorsatz verlangt wird (E. 3.4).
+
+### BGer 76 IV 243 — Historischer Grundsatzentscheid zum «besseren Wissen»
+
+**[BGer 76 IV 243 vom 1. Dezember 1950](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_006_BGE-76-IV-243.pdf)**
+
+Historisches Grundsatzurteil des Kassationshofes: Wer bloss weiss, dass eine Behauptung möglicherweise falsch ist, stellt sie nicht wider besseres Wissen auf; Art. 174 StGB verlangt das positive Wissen um die Unwahrheit.
