@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 36 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-09-22
+lastmod: 2026-10-10
 description: "Rechtsprechungsübersicht zu Art. 36 BV: Systematische Sammlung von Leitentscheiden des Bundesgerichts und kantonalen Urteilen zu gesetzlicher Grundlage, polizeilicher Generalklausel, öffentlichem Interesse, Verhältnismässigkeit und Kerngehalt."
 tags: ["Rechtsprechung", "BV", "Grundrechte", "Verhältnismässigkeit", "Gesetzliche Grundlage", "Polizeiliche Generalklausel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um kantonalen Entscheid AG VG WBE.2026.306 (Zwangsmedikation im Massnahmenvollzug nach Art. 59 StGB, § 47 EG StPO AG). Volltext via mcp__entscheidsuche__fetch_document gesichtet und gegen den Wortlaut geprüft."
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -178,3 +183,15 @@ Die nachfolgende Übersicht dokumentiert die massgebliche Rechtsprechung zu den 
 * [BGE 140 I 353 E. 8.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-353_2014.html#consideration_8.7)
 * **Sachverhalt:** Das Zürcher Polizeigesetz (§ 32f Abs. 2 PolG/ZH) ermächtigte die Polizei zur verdeckten Überwachung geschlossener Chatrooms im Internet ohne vorgängige richterliche Bewilligung.
 * **Kernaussage:** Das Bundesgericht erklärte die Norm für unvereinbar mit Art. 36 Abs. 1 und 3 BV sowie Art. 13 Abs. 1 BV: Die systematische Überwachung geschlossener Benutzergruppen greift schwer in das Fernmeldegeheimnis und die Privatsphäre ein. Massnahmen dieser Intensität verlangen zwingend eine richterliche Genehmigung und nachträgliche Benachrichtigung zur Sicherung des verfassungsmässigen Rechtsschutzes.
+
+---
+
+### Kantonale Rechtsprechung
+
+---
+
+### Zwangsmedikation im forensisch-psychiatrischen Massnahmenvollzug nach Art. 59 StGB
+* [AG VG WBE.2026.306 vom 21. August 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2026-306_2026-08-21.pdf)
+* **Gericht/Kanton:** Verwaltungsgericht des Kantons Aargau, 1. Kammer
+* **Sachverhalt:** Ein aufgrund einer organischen wahnhaften Störung (ICD-10 F06.2) nach einer Gehirnschädigung in einer stationären therapeutischen Massnahme nach Art. 59 Abs. 1 StGB untergebrachter Patient verweigerte jede antipsychotische Medikation kategorisch. Die Chefärztin der Klinik für Forensische Psychiatrie ordnete gestützt auf § 47 Abs. 2 lit. a EG StPO AG eine auf sechs Monate befristete Zwangsmedikation (Haloperidol) an. Das Verwaltungsgericht bestellte einen externen psychiatrischen Gutachter, hörte den Beschwerdeführer und die Klinik persönlich an und wies die Beschwerde ab.
+* **Kernaussage:** Das Verwaltungsgericht qualifizierte die Zwangsmedikation als schweren Eingriff in die persönliche Freiheit (Art. 10 Abs. 2 BV, Art. 8 Ziff. 1 EMRK), der die Menschenwürde (Art. 7 BV) zentral betrifft, und bejahte die Verfassungsmässigkeit: § 47 Abs. 2 lit. a EG StPO AG stellt ein formelles Kantonalgesetz dar, das den qualifizierten Gesetzesvorbehalt von Art. 36 Abs. 1 Satz 2 BV erfüllt. Die Behandlung ist mit dem Massnahmezweck von Art. 59 StGB vereinbar, weil sie nicht der blossen Ruhigstellung dient, sondern unmittelbar auf die Beeinflussung der deliktrelevanten Störung zielt. Die Verhältnismässigkeit (Art. 36 Abs. 2–3 BV) ist gewahrt: öffentliches Interesse an der Deliktprävention, Geeignetheit (reale Chance auf Entaktualisierung des Wahns), Erforderlichkeit (keine gleich geeignete mildere Massnahme bei kategorischer Verweigerung) und Zumutbarkeit (Befristung, engmaschige Überwachung, begrenzte Dosierung; Einbezug langfristiger Nebenwirkungen in die Abwägung). Der Entscheid bestätigt als kantonale Rechtsprechung die bundesgerichtliche Praxis (BGE 130 I 16; BGer 6B_1293/2021; BGer 6B_250/2022; BGer 6B_106/2023) und konkretisiert die Verhältnismässigkeitsprüfung bei organischer wahnhafter Störung.
