@@ -2,11 +2,16 @@
 title: "Art. 67 StGB — Tätigkeitsverbot"
 weight: 67
 date: 2025-06-02
-lastmod: "2026-09-05"
+lastmod: "2026-10-10"
 description: "Kommentar zu Art. 67 StGB: Tätigkeitsverbot — fakultatives allgemeines Verbot (Abs. 1), befristetes Verbot zum Schutz von Minderjährigen/Schutzbedürftigen (Abs. 2/2bis), lebenslängliche Tätigkeitsverbote bei Sexualdelikten (Abs. 3/4) und Ausnahmeklausel (Abs. 4bis)."
 tags: ["StGB", "Tätigkeitsverbot", "Berufsverbot", "Massnahmen", "Pädophilie", "Minderjährigenschutz", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Kantonsgericht FR 501 2026 92 (Cour d'appel pénal, 20.08.2026) eingearbeitet: Bestätigung lebenslängliches Tätigkeitsverbot Art. 67 Abs. 3 lit. b StGB bei Liebesbeziehung mit 14-Jähriger; Ausnahmeklausel Abs. 4bis verneint wegen wiederholter invasiver Akte; Zitat E. 3.3 via OCL get_erwaegung verifiziert, Link via entscheidsuche.ch"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -131,6 +136,13 @@ revisions:
 **14** *BGer 6B_635/2025 vom 29. Juli 2026*: Das Bundesgericht bestätigte die Anordnung eines lebenslänglichen Tätigkeitsverbots nach Art. 67 Abs. 3 lit. d Ziff. 2 StGB bei mehrfacher harter Pornografie und verneinte die Voraussetzungen von Art. 67 Abs. 4bis StGB. Nach Art. 67c Abs. 6bis StGB können Verbote nach Art. 67 Abs. 3 und 4 StGB nicht aufgehoben werden.
 
 **15** *BGer 6B_140/2025 vom 20. November 2025*: Das Bundesgericht hielt fest, dass Art. 67 Abs. 4bis StGB einen unbestimmten Rechtsbegriff darstellt und die Ausnahme restriktiv anzuwenden ist. Nach Art. 67 Abs. 3 lit. d Ziff. 2 StGB wird, wer wegen Kinderpornografie nach Art. 197 Abs. 4 StGB zu einer Strafe verurteilt wird, lebenslänglich jede berufliche und organisierte ausserberufliche Tätigkeit mit regelmässigem Kontakt zu Minderjährigen verboten.
+
+**16** *Kantonsgericht FR, 501 2026 92 vom 20. August 2026*: Die Cour d'appel pénal des Kantonsgerichts Freiburg bestätigte ein lebenslängliches Tätigkeitsverbot nach Art. 67 Abs. 3 lit. b StGB gegen einen frisch volljährigen Täter, der im Rahmen einer Liebesbeziehung mit einer 14-jährigen Person wiederholt vollständige Geschlechtsakte, Fellationen und digitale Penetrationen begangen hatte. Eine psychiatrische Expertise attestierte mittelgradig verminderte Schuldfähigkeit (Art. 19 Abs. 2 StGB), qualifizierte den Täter als nicht pädophil und das Rückfallrisiko für Sexualdelikte als unwahrscheinlich. Das Gericht verneinte gleichwohl einen «besonders leichten Fall» im Sinne von Art. 67 Abs. 4bis StGB, da die wiederholten invasiven Akte die Bagatellschwelle deutlich überschritten. Es stützte sich ausdrücklich auf die restriktive Auslegung von [BGer 6B_194/2024 vom 17. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-194-2024_2024-05-17.html) und [BGE 149 IV 161](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-161_2023.html):
+
+> «Néanmoins, les actes commis par le prévenu sont loin d'être de « très peu de gravité ». Durant leur relation amoureuse, qui a duré plusieurs mois, le prévenu a fait subir à sa victime non seulement des gestes à caractère sexuel légers tels que des baisers linguaux, mais également deux relations sexuelles complètes. De plus, il s'est fait prodiguer deux ou trois fellations, et a imposé à la plaignante, à deux ou trois reprises, des pénétrations digitales dans le vagin. Même si les contacts sexuels étaient consentis, les actes sont graves et répétés et bien plus invasifs que de simples désagréments sexuels tels que décrits par la jurisprudence dans l'application de la clause d'exception.»
+> — [Kantonsgericht FR 501 2026 92, E. 3.3](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_006_501-2026-92_2026-08-20.pdf)
+
+Der Entscheid illustriert die Abgrenzung im Grenzfall einer Liebesbeziehung mit geringer Altersdifferenz: Das Vorliegen einer Liebesbeziehung und einer nicht-pädophilen Ausrichtung allein genügt nicht, um die Ausnahmeklausel zu aktivieren, wenn die begangenen sexuellen Handlungen wiederholt und invasiv sind. Damit bestätigt das kantonale Gericht die restriktive Bundesgerichtsrechtsprechung (BGE 149 IV 161; BGer 6B_194/2024; BGer 6B_140/2025).
 
 ---
 

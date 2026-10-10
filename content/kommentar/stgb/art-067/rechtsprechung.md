@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 67 StGB"
 weight: 99
 date: 2025-06-02
-lastmod: "2026-09-05"
+lastmod: "2026-10-10"
 description: "Übersicht der Rechtsprechung zu Art. 67 StGB — Tätigkeitsverbot, lebenslängliche Verbote, Ausnahmeklausel bei besonders leichten Fällen und Minderjährigenschutz."
 tags: ["Rechtsprechung", "StGB", "Tätigkeitsverbot", "Pädophilie", "Massnahmen", "Minderjährigenschutz", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Kantonsgericht FR 501 2026 92 (Cour d'appel pénal, 20.08.2026) aufgenommen: Bestätigung lebenslängliches Tätigkeitsverbot Art. 67 Abs. 3 lit. b StGB, Ausnahmeklausel Abs. 4bis verneint bei wiederholten invasiven Akten; via OCL get_erwaegung und entscheidsuche.ch verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -88,6 +93,16 @@ Bestätigung der Anordnung eines lebenslänglichen Tätigkeitsverbots nach Art. 
 
 ## II. Kantonale Praxis
 
+### FR Kantonsgericht 501 2026 92 — Lebenslängliches Tätigkeitsverbot bei Liebesbeziehung mit 14-Jähriger
+
+**Kantonsgericht Freiburg, Cour d'appel pénal, 501 2026 92 vom 20. August 2026**
+
+Ein frisch volljähriger Täter mit mittelgradig verminderter Schuldfähigkeit (Art. 19 Abs. 2 StGB) wurde wegen sexueller Handlungen mit Kindern (Art. 187 StGB), Nötigung und missbräuchlicher Verwendung eines Fernmeldeanschlusses zu 15 Monaten Freiheitsstrafe ohne bedingten Vollzug sowie zu einem lebenslänglichen Tätigkeitsverbot nach Art. 67 Abs. 3 lit. b StGB verurteilt. Die Ausnahmeklausel des Art. 67 Abs. 4bis StGB kam nicht zum Zug: Das Gericht anerkannte zugunsten des Täters, dass er nicht pädophil ist und die Taten im Rahmen einer Liebesbeziehung mit geringer Altersdifferenz begangen wurden, verneinte aber einen «besonders leichten Fall», da wiederholte vollständige Geschlechtsakte, Fellationen und digitale Penetrationen über mehrere Monate deutlich invasiver und gravierender seien als die in der Rechtsprechung als Bagatellfälle bezeichneten Konstellationen (E. 3.3). Der Entscheid stützt sich ausdrücklich auf BGE 149 IV 161 und BGer 6B_194/2024 und bestätigt die restriktive Auslegung der Ausnahmeklausel.
+
+→ [Kantonsgericht FR 501 2026 92](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_006_501-2026-92_2026-08-20.pdf)
+
+---
+
 ### SZ Kantonsgericht STK 2023 63/60 — Abgrenzung Aussetzung und Nothilfepflicht
 
 Abgrenzung zwischen Aussetzung (Art. 127 StGB) und Unterlassung der Nothilfe (Art. 128 StGB): Die Nothilfepflicht gilt für jeden, der in der Lage ist, Hilfe zu leisten; die Aussetzung setzt eine besondere Obhuts- oder Sorgepflicht voraus.
@@ -98,4 +113,4 @@ Keine Obhutspflicht des Psychiaters bezüglich des fluchtartigen Verlassens der 
 
 ---
 
-*Letzte Aktualisierung: 2026-09-05*
+*Letzte Aktualisierung: 2026-10-10*
