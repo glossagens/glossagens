@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 14 StGB"
 weight: 99
 date: 2026-08-01
-lastmod: "2026-09-05"
+lastmod: "2026-10-10"
 description: "Übersicht der Entscheide zu Art. 14 StGB — rechtmässiges Verhalten, Amtspflicht und Berufspflicht bei ehrverletzenden Äusserungen, polizeilicher Waffengebrauch und Nachfahrkontrolle, Wahrnehmung berechtigter Interessen im Prozess, Verhältnismässigkeit."
 tags: ["Rechtsprechung", "StGB", "Rechtfertigung", "Amtspflicht", "Berufspflicht", "Ehrverletzung", "Waffengebrauch", "Nachfahrkontrolle"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGE 148 IV 409 als Leitentscheid ergänzt (Ehrverletzung gegenüber Anwalt, prozessuale Zurückhaltung); VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 als kantonaler Entscheid eingearbeitet (Grenze der prozessualen Privilegierung für Dritte ohne Parteistellung)"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -62,6 +67,14 @@ Art. 5 Abs. 3 BV; Art. 116 Abs. 1 lit. a i.V.m. Abs. 2 AIG; Art. 17 StGB; Förde
 Üble Nachrede, Willkür, Entlastungsbeweis. Anwendung des Rechtfertigungsgrunds des Art. 14 StGB im Rahmen ehrverletzender Äusserungen; Grenzen des Entlastungsbeweises.
 
 → [BGer 6B_584/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-584-2016_2017-02-06.html)
+
+### BGE 148 IV 409 — Ehrverletzung gegenüber dem eigenen Anwalt; prozessuale Zurückhaltung
+
+**BGE 148 IV 409 vom 1. Januar 2022** (I. strafrechtliche Abteilung)
+
+Art. 173 ff. StGB; Ehrverletzungen; Äusserungen gegenüber einem Rechtsanwalt. Die Bedeutung von Äusserungen, die ein Mandant gegenüber seinem Rechtsanwalt tätigt, ist nicht auf die gleiche Weise zu beurteilen wie die Bedeutung von Äusserungen gegenüber jeder anderen Drittperson. Um die freie und spontane Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, erscheint es gerechtfertigt, eine Ehrverletzung nur mit Zurückhaltung zu bejahen. Dies kann der Fall sein, wenn die fraglichen Äusserungen keinen Bezug zu dem Fall haben, in dem der Anwalt tätig ist, und wenn sie letztlich nur darauf abzielen, die betreffende Person als Mensch verächtlich zu machen (E. 2.3.3).
+
+→ [BGE 148 IV 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-409_2022.html)
 
 ## Weitere Entscheide
 
@@ -121,6 +134,16 @@ Art. 14 StGB. Waffengebrauch der Polizei. 1. Bei der Frage der Rechtfertigung du
 
 → [BGer 6B_118/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-118-2015_2015-07-16.html)
 
+## Kantonale Entscheide
+
+### VD Tribunal cantonal, Arrêt Nr. 692 — Grenze der prozessualen Privilegierung für Dritte ohne Parteistellung
+
+**VD Tribunal cantonal, Chambre des recours pénale, Arrêt Nr. 692 vom 14. September 2026**
+
+Art. 14, 52, 173, 177 StGB; 8, 310 StPO. Ein Psychologe, der als Therapeut einer Verfahrenspartei von sich aus eine als «Offene» betitelte Eingabe an die Friedensrichterin richtet und darin den Anwalt der Gegenpartei der Homophobie, Transphobie und bezichtigt, er sei «Mist in einer Seidenstrumpfhose» (Napoleon zu Talleyrand), kann sich nicht auf die prozessuale Privilegierung berufen: Er war nicht Partei des Verfahrens und nicht aufgrund einer prozessualen Pflicht zum Äussern verpflichtet. Art. 14 StGB greift nicht (keine prozessuale Äusserungspflicht), und die Zurückhaltung bei der Annahme einer Ehrverletzung im prozessualen Kontext (BGE 148 IV 409) ist auf Verfahrensbeteiligte beschränkt. Art. 52 StGB (geringfügige Schuld) ist nicht anwendbar, da Schuld und Tatfolgen nicht geringfügig sind. Die Kammer hob die Nichteintretensverfügung der Staatsanwaltschaft auf und wies die Sache zur strafrechtlichen Untersuchung zurück. Präzisiert BGE 148 IV 409: Die prozessuale Privilegierung gilt nur für Verfahrensbeteiligte und deren Hilfspersonen, nicht für Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten.
+
+→ [VD Tribunal cantonal, Arrêt Nr. 692 vom 14. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_0606fd05-7421-4482-be4a-44f615ef604a)
+
 ## Übersichtstabelle
 
 | Entscheidung | Datum | Kernthema |
@@ -137,3 +160,5 @@ Art. 14 StGB. Waffengebrauch der Polizei. 1. Bei der Frage der Rechtfertigung du
 | BGE 94 IV 5 | 08.02.1968 | Waffengebrauch Polizei, Verwaltungsvorschriften |
 | BGE 111 IV 113 | 13.12.1985 | Waffengebrauch Polizei, kantonales Dienstrecht |
 | BGer 6B_118/2015 | 16.07.2015 | Üble Nachrede, Rechtfertigung |
+| BGE 148 IV 409 | 01.01.2022 | Ehrverletzung gegenüber Anwalt, prozessuale Zurückhaltung |
+| VD TC Arrêt Nr. 692 | 14.09.2026 | Grenze der prozessualen Privilegierung für Dritte (kantonal) |

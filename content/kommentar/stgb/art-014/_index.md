@@ -2,11 +2,16 @@
 title: "Art. 14 StGB — Rechtmässiges Verhalten"
 weight: 14
 date: 2026-08-01
-lastmod: "2026-09-05"
+lastmod: "2026-10-10"
 description: "Kommentar zu Art. 14 StGB — rechtmässiges Verhalten: wer handelt, wie das Gesetz gebietet oder erlaubt, verhält sich rechtmässig, auch wenn die Tat strafbewehrt ist. Rechtfertigungsgrund der gesetzlichen Erlaubnis / Pflicht, Amtspflicht, Berufspflicht, Verhältnismässigkeit, Abgrenzung zu Art. 17 (Notstand) und Art. 32 (Wahrnehmung berechtigter Interessen aF)."
 tags: ["StGB", "Rechtfertigung", "rechtmässiges Verhalten", "gesetzlich erlaubte Handlung", "Amtspflicht", "Berufspflicht", "Verhältnismässigkeit", "Ehrverletzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 eingearbeitet (Grenze der prozessualen Privilegierung bei Ehrverletzungen für Dritte ohne Parteistellung); BGE 148 IV 409 als Leitentscheid ergänzt; Volltext via opencaselaw, BGE-Link via entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -67,7 +72,13 @@ Systematisch ist zu unterscheiden zwischen:
 
 **7** [BGE 106 IV 179](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-106-IV-179_1980-06-06.html) präzisiert: Wer in amtlicher Funktion ehrenrührige Fakten erwähnen und persönliche Eigenschaften und Motive werten muss, ist durch Art. 14 StGB gedeckt, **soweit er nicht über das Notwendige hinausgeht oder wider besseres Wissen handelt**.
 
-**8** Für **Anwälte** konkretisiert [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html) die Berufspflicht: Ehrverletzende Äusserungen von Anwälten im Prozess sind durch die Darlegungspflicht und die Berufspflicht (Art. 12 lit. a BGFA) gerechtfertigt, sofern sie sachlich erforderlich und in dieser Form geboten sind. [BGE 116 IV 211](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-116-IV-211_1990-07-09.html) bestätigt dies für die Prozesspartei: Wer anlässlich eines Vermittlungs- oder Gerichtsverfahrens ehrenrührige Behauptungen aufstellt, kann sich über den Entlastungsbeweis von Art. 173 Ziff. 2 StGB hinaus auf die entsprechenden Verfahrensbestimmungen (Darlegungspflicht) berufen.
+**8** Für **Anwälte** konkretisiert [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html) die Berufspflicht: Ehrverletzende Äusserungen von Anwälten im Prozess sind durch die Darlegungspflicht und die Berufspflicht (Art. 12 lit. a BGFA) gerechtfertigt, sofern sie sachlich erforderlich und in dieser Form geboten sind. [BGE 116 IV 211](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-116-IV-211_1990-07-09.html) bestätigt dies für die Prozesspartei: Wer anlässlich eines Vermittlungs- oder Gerichtsverfahrens ehrenrührige Behauptungen aufstellt, kann sich über den Entlastungsbeweis von Art. 173 Ziff. 2 StGB hinaus auf die entsprechenden Verfahrensbestimmungen (Darlegungspflicht) berufen. [BGE 148 IV 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-409_2022.html) erweitert diese Zurückhaltung auf den besonderen Kontext eines Gesprächs zwischen Anwalt und Mandant: Die Bedeutung von Äusserungen, die ein Mandant gegenüber seinem Rechtsanwalt tätigt, ist nicht auf die gleiche Weise zu beurteilen wie diejenige von Äusserungen gegenüber jeder anderen Drittperson — um die freie und spontane Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, erscheint es gerechtfertigt, eine Ehrverletzung in einem solchen Kontext nur mit Zurückhaltung zu bejahen (E. 2.3.3).
+
+**8a** Die **prozessuale Privilegierung** — sowohl die Zurückhaltung bei der Annahme einer Ehrverletzung als auch der Rechtfertigungsgrund von Art. 14 StGB — setzt eine **prozessuale Rolle oder Pflicht** voraus. Sie erfasst Parteien, Anwälte, Zeugen und Auskunftspersonen, die aufgrund ihrer Verfahrensstellung äussern. Nicht erfasst sind **Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten**: Ein Psychologe, der als Therapeut einer Partei von sich aus eine als «Offene» betitelte Eingabe an die Friedensrichterin richtet und darin den Anwalt der Gegenpartei der Homophobie, Transphobie und bezichtigt, er sei «Mist in einer Seidenstrumpfhose» (Napoleon zu Talleyrand), kann sich weder auf Art. 14 StGB berufen (keine prozessuale Äusserungspflicht) noch kommt die prozessuale Zurückhaltung bei der Beurteilung der Ehrverletzung zum Tragen. Die Kammer für Strafbeschwerden des Waadtländer Kantonsgerichts hob die Einstellung durch die Staatsanwaltschaft nach Art. 52 StGB (geringfügige Schuld) auf, weil C. nicht Partei des Verfahrens war und sich selbstständig eingeschaltet hatte:
+
+> «C. n'était pas partie à la procédure judiciaire, mais uniquement le thérapeute de l'une des parties, ce qui ne permet pas d'appliquer la jurisprudence rappelée ci-dessus relative aux propos tenus devant les autorités judiciaires […]. Il n'a pas été invité à s'exprimer dans la procédure judiciaire impliquant son patient et s'est immiscé dans celle-ci en tenant des propos injurieux et diffamatoires, ce qui n'était pas admissible.» (VD Tribunal cantonal, Chambre des recours pénale, Arrêt Nr. 692 vom 14. September 2026, E. 2.3.)
+
+Der Entscheid präzisiert damit [BGE 148 IV 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-409_2022.html): Die prozessuale Privilegierung ehrverletzender Äusserungen gilt nur für Verfahrensbeteiligte und deren Hilfspersonen, die aufgrund einer prozessualen Pflicht oder Rolle äussern — nicht für Dritte, die ohne eine solche Pflicht von sich aus in ein Verfahren eingreifen. Ein Weiterzug ans Bundesgericht ist nach Art. 78 BGG möglich ([VD Tribunal cantonal, Arrêt Nr. 692 vom 14. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_0606fd05-7421-4482-be4a-44f615ef604a)).
 
 ### 2. Gesetzlich erlaubte Hoheitshandlung (Polizei)
 
