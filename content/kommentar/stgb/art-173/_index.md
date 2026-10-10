@@ -2,11 +2,16 @@
 title: "Art. 173 StGB — Üble Nachrede"
 weight: 173
 date: 2026-07-31
-lastmod: "2026-09-05"
-description: "Kommentar zu Art. 173 StGB — Üble Nachrede: ehrverletzende Beschuldigung oder Verdächtigung, Wahrheitsbeweis, Gutglaubensbeweis (ernsthafte Gründe, in guten Treuen für wahr zu halten), Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK), Rücknahme der Äusserung."
-tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Antragsdelikt", "Strafantrag", "Ehre"]
+lastmod: "2026-10-10"
+description: "Kommentar zu Art. 173 StGB — Üble Nachrede: ehrverletzende Beschuldigung oder Verdächtigung, Wahrheitsbeweis, Gutglaubensbeweis (ernsthafte Gründe, in guten Treuen für wahr zu halten), Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK), prozessuale Privilegierung (BGE 148 IV 409), Rücknahme der Äusserung."
+tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "prozessuale Privilegierung", "Antragsdelikt", "Strafantrag", "Ehre"]
 agent_verified: true
 revisions:
+  - date: 2026-10-10
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGE 148 IV 409 (prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation) eingearbeitet mit Blockzitat; kantonaler Entscheid VD Tribunal cantonal CREP, 14.09.2026, G-Nr. 692 (Art. 52 StGB bei Ehrverletzung durch Dritte unanwendbar) in Rz. 5 eingearbeitet; beide via OCL/entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -55,7 +60,11 @@ revisions:
 
 **4** **Ehrverletzende Tatsachen.** Vorausgesetzt ist, dass die Äusserung sich auf ein **unehrenhaftes Verhalten** oder auf **andere Tatsachen** bezieht, die **geeignet sind, den Ruf zu schädigen**. Der Begriff der Ehrverletzung ist weit; er umfasst nicht nur Vorwürfe strafbarer Handlungen, sondern jede Äusserung, die den sozialen Achtungsanspruch der betroffenen Person in ihrem Umfeld herabsetzt. Ob eine Äusserung ehrverletzend ist, ist aufgrund aller Umstände, namentlich des Kontexts und der Adressaten, zu würdigen.
 
-**5** **Ehrverletzung im Prozess und durch Berufsausübung.** Ehrverletzende Äusserungen von Rechtsanwälten im Prozess sind durch die **Darlegungspflicht** und die **Berufspflicht** (Art. 14 StGB i.V.m. Art. 12 lit. a BGFA) gerechtfertigt, sofern sie **sachlich-relevante Abklärungen** im Rahmen der Prozessführung betreffen. Das Bundesgericht hat in [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html) klargestellt, dass die Berufspflicht des Anwalts ehrverletzende Äusserungen dann rechtfertigt, wenn sie im Rahmen der sorgfältigen und gewissenhaften Ausübung des Anwaltsberufs stehen und dem Schutz des Mandanteninteresses dienen.
+**5** **Ehrverletzung im Prozess und durch Berufsausübung.** Ehrverletzende Äusserungen von Rechtsanwälten im Prozess sind durch die **Darlegungspflicht** und die **Berufspflicht** (Art. 14 StGB i.V.m. Art. 12 lit. a BGFA) gerechtfertigt, sofern sie **sachlich-relevante Abklärungen** im Rahmen der Prozessführung betreffen. Das Bundesgericht hat in [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html) klargestellt, dass die Berufspflicht des Anwalts ehrverletzende Äusserungen dann rechtfertigt, wenn sie im Rahmen der sorgfältigen und gewissenhaften Ausübung des Anwaltsberufs stehen und dem Schutz des Mandanteninteresses dienen. In [BGE 148 IV 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-409_2022.html) E. 2 hat das Bundesgericht diese Zurückhaltung auf den **besonderen Kontext der Anwalt-Mandant-Kommunikation** erstreckt:
+
+> «Die Bedeutung von Äusserungen, die ein Mandant gegenüber seinem Rechtsanwalt tätigt, ist nicht auf die gleiche Weise zu beurteilen wie die Bedeutung von Äusserungen, die gegenüber jeder anderen Drittperson gemacht werden. Um die freie und spontane Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, erscheint es in einem solchen Kontext gerechtfertigt, eine Ehrverletzung nur mit Zurückhaltung zu bejahen.»
+
+Diese prozessuale Privilegierung gilt jedoch **nur für Verfahrensbeteiligte** (Parteien, Anwälte, Zeugen, Auskunftspersonen), die aufgrund einer prozessualen Pflicht oder Rolle äussern — nicht für Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten. Das Tribunal cantonal du canton de Vaud, Kammer für Strafbeschwerden (CREP), hat in seinem Entscheid vom 14. September 2026 (Geschäftsnummer [692](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_0606fd05-7421-4482-be4a-44f615ef604a)) diese Grenze präzisiert: Ein Psychologe, der als Therapeut einer Partei von sich aus eine als «Offene» betitelte Eingabe an die Friedensrichterin richtete und darin den Anwalt der Gegenpartei der Homophobie, Transphobie und als «Mist in einer Seidenstrumpfhose» bezichtigte, konnte sich weder auf Art. 14 StGB (keine prozessuale Äusserungspflicht) berufen, noch kam die prozessuale Zurückhaltung bei der Beurteilung der Ehrverletzung zum Tragen. Die Kammer hob die Nichteintretensverfügung der Staatsanwaltschaft auf, die sich auf [Art. 52 StGB](../art-052/) (geringfügige Schuld) gestützt hatte, und wies die Sache zur strafrechtlichen Untersuchung zurück — Schuld und Tatfolgen waren bei gravierenden, schriftlich und mit Bedacht geäusserten Vorwürfen eines Nicht-Verfahrensbeteiligten nicht geringfügig.
 
 ---
 

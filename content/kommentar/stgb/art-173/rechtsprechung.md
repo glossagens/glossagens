@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 173 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: "2026-09-05"
-description: "Übersicht der Entscheide zu Art. 173 StGB — üble Nachrede, Wahrheits- und Gutglaubensbeweis, Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit, Ehrverletzung im Prozess, Auskunftspersonen und Anzeigeerstatter."
-tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit"]
-agent_verified: true
+lastmod: "2026-10-10"
+description: "Übersicht der Entscheide zu Art. 173 StGB — üble Nachrede, Wahrheits- und Gutglaubensbeweis, Schranken durch das öffentliche Interesse und die Meinungsäusserungsfreiheit, Ehrverletzung im Prozess, prozessuale Privilegierung (BGE 148 IV 409), Auskunftspersonen und Anzeigeerstatter."
+tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "prozessuale Privilegierung"]
+agent_verified: false
 revisions:
+  - date: 2026-10-10
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGE 148 IV 409 (prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation) als Leitentscheid aufgenommen; kantonaler Entscheid VD Tribunal cantonal CREP, 14.09.2026, G-Nr. 692 (Art. 52 StGB bei Ehrverletzung durch Dritte) aufgenommen; beide via OCL/entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -38,6 +43,14 @@ Leitentscheid zu Art. 173 StGB; Art. 16 Abs. 2 BV, Art. 10 EMRK; üble Nachrede;
 Leitentscheid zur üblen Nachrede (Art. 173 StGB) im Spannungsverhältnis zur Berufspflicht (Art. 32 StGB) und zur Pflicht zur sorgfältigen und gewissenhaften Ausübung des Anwaltsberufs (Art. 12 lit. a BGFA). Ehrverletzende Äusserungen von Anwälten im Prozess sind durch die Darlegungspflicht und die Berufspflicht gerechtfertigt, sofern sie sachlich-relevante Abklärungen im Rahmen der Prozessführung betreffen.
 
 → [BGE 131 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-131-IV-154_2005.html)
+
+### BGE 148 IV 409 — Prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation
+
+**BGE 148 IV 409 vom 31. August 2022**
+
+Leitentscheid zu Art. 173 ff. StGB; Ehrverletzungen; Äusserungen gegenüber einem Rechtsanwalt. Die Bedeutung von Äusserungen, die ein Mandant gegenüber seinem Rechtsanwalt tätigt, ist nicht auf die gleiche Weise zu beurteilen wie die Bedeutung von Äusserungen, die gegenüber jeder anderen Drittperson gemacht werden. Um die freie und spontane Kommunikation zwischen Anwalt und Mandant nicht zu gefährden, erscheint es in einem solchen Kontext gerechtfertigt, eine Ehrverletzung nur mit Zurückhaltung zu bejahen. Dies kann der Fall sein, wenn die fraglichen Äusserungen keinen Bezug zu dem Fall haben, in dem der Anwalt tätig ist, und wenn sie letztlich nur darauf abzielen, die betreffende Person als Mensch verächtlich zu machen (E. 2).
+
+→ [BGE 148 IV 409](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-409_2022.html)
 
 ### BGE 119 IV 44 — Bedeutung des Gutglaubensbeweises
 
@@ -142,13 +155,24 @@ Leitentscheid zu Art. 28, 303 und 173 ff. StGB; Umfang eines Strafantrags. Ein S
 
 → [BGE 115 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-115-IV-1_1989-03-03.html)
 
+## Kantonale Entscheide
+
+### VD Tribunal cantonal, CREP, 14. September 2026, G-Nr. 692 — Art. 52 StGB bei Ehrverletzung durch Dritte unanwendbar
+
+**Tribunal cantonal du canton de Vaud, Kammer für Strafbeschwerden (CREP), 14. September 2026, Geschäftsnummer 692**
+
+Kantonaler Entscheid, der BGE 148 IV 409 präzisiert. Ein Psychologe, der als Therapeut einer Partei nicht selbst Verfahrensbeteiligter war, richtete eine als «Offene» betitelte Eingabe an die Friedensrichterin und bezichtigte den Anwalt der Gegenpartei der Homophobie, Transphobie und als «Mist in einer Seidenstrumpfhose» (Napoleon zu Talleyrand). Die Staatsanwaltschaft stellte das Verfahren nach Art. 52 StGB (geringfügige Schuld) ein. Die CREP hob diese Verfügung auf und wies die Sache zur strafrechtlichen Untersuchung zurück: Die prozessuale Zurückhaltung bei Ehrverletzungen (BGE 148 IV 409) gilt nur für Verfahrensbeteiligte (Parteien, Anwälte, Zeugen, Auskunftspersonen), die aufgrund einer prozessualen Pflicht oder Rolle äussern — nicht für Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten. C. konnte sich weder auf Art. 14 StGB (keine prozessuale Äusserungspflicht) berufen, noch waren Schuld und Tatfolgen bei gravierenden, schriftlich und mit Bedacht geäusserten Vorwürfen geringfügig im Sinne von Art. 52 StGB.
+
+→ [VD Tribunal cantonal, 14.09.2026, G-Nr. 692](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_0606fd05-7421-4482-be4a-44f615ef604a)
+
 ## Zusammenfassung
 
-Die Rechtsprechung zu Art. 173 StGB entfaltet sich um vier Kernfragen:
+Die Rechtsprechung zu Art. 173 StGB entfaltet sich um fünf Kernfragen:
 
 1. **Wahrheits- und Gutglaubensbeweis** (BGE 124 IV 149; BGE 119 IV 44): Der gute Glaube allein genügt nicht; der Angeschuldigte muss ernsthafte Gründe haben, an die Wahrheit zu glauben. Ist der Gutglaubensbeweis erbracht, ist ein Schuldvorwurf ausgeschlossen.
-2. **Meinungsäusserungsfreiheit und Schranken** (BGE 137 IV 313): Die Zulassung zum Wahrheitsbeweis bestimmt sich unter Berücksichtigung der Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK); die Schranken von Abs. 3 dürfen nicht unverhältnismässig einschränken.
-3. **Ehrverletzung im Prozess und durch Auskunftspersonen** (BGE 131 IV 154; BGE 135 IV 177; BGE 116 IV 205): Ehrverletzende Äusserungen von Anwälten, Anzeigeerstattern und Auskunftspersonen sind unter bestimmten Voraussetzungen gerechtfertigt; an den Gutglaubensbeweis sind keine strengen Anforderungen zu stellen.
-4. **Wahrheitsbeweis bei Verdächtigung** (BGE 102 IV 176): Für die Verdächtigung gibt es keinen besondern Wahrheitsbeweis; dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht der Verdachtsmomente.
+2. **Meinungsäusserungsfreiheit und Schranken** (BGE 137 IV 313; BGer 6B_880/2025): Die Zulassung zum Wahrheitsbeweis bestimmt sich unter Berücksichtigung der Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV, Art. 10 EMRK); die Schranken von Abs. 3 dürfen nicht unverhältnismässig einschränken.
+3. **Ehrverletzung im Prozess und durch Auskunftspersonen** (BGE 131 IV 154; BGE 148 IV 409; BGE 135 IV 177; BGE 116 IV 205): Ehrverletzende Äusserungen von Anwälten, Mandanten, Anzeigeerstattern und Auskunftspersonen sind unter bestimmten Voraussetzungen gerechtfertigt; an den Gutglaubensbeweis sind keine strengen Anforderungen zu stellen.
+4. **Grenzen der prozessualen Privilegierung** (VD Tribunal cantonal, 14.09.2026, G-Nr. 692): Die prozessuale Zurückhaltung bei Ehrverletzungen (BGE 148 IV 409) gilt nur für Verfahrensbeteiligte, nicht für Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten; Art. 52 StGB (geringfügige Schuld) ist in solchen Fällen nicht anwendbar.
+5. **Wahrheitsbeweis bei Verdächtigung** (BGE 102 IV 176): Für die Verdächtigung gibt es keinen besondern Wahrheitsbeweis; dieser besteht im Nachweis der ehrenrührigen Tatsachen, nicht der Verdachtsmomente.
 
-*Letzte Aktualisierung: 2026-07-31*
+*Letzte Aktualisierung: 2026-10-10*
