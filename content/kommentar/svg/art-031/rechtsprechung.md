@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 31 SVG"
 weight: 99
 date: 2026-08-08
-lastmod: 2026-08-08
+lastmod: 2026-10-11
 description: "Übersicht der Entscheide zu Art. 31 SVG (Beherrschungsgrundsatz, Aufmerksamkeitspflicht, Ablenkung durch Mobiltelefone, Fahrunfähigkeit aus anderen Gründen)"
 tags: ["Rechtsprechung", "SVG", "Beherrschung des Fahrzeugs", "Ablenkung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_770/2025 (E. 2.3.4/2.3.5) — Sichtbarkeit allein begründet keine Sorgfaltspflichtverletzung; Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -32,6 +37,10 @@ revisions:
   [BGE 122 IV 225, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_225)
   Muss der Fahrzeugführer sein Augenmerk im Wesentlichen auf bestimmte Stellen richten, kann ihm für andere Bereiche eine geringere Aufmerksamkeit zugebilligt werden.
 
+* **Blosse Sichtbarkeit eines Fussgängers begründet keine Sorgfaltspflichtverletzung ohne konkretes Gefährdungsverhalten**
+  [BGer 6B_770/2025 vom 17. September 2026, E. 2.3.4 und 2.3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-770-2025_2026-09-17.html)
+  Ein Lastwagenfahrer am STOP übersah eine Fussgängerin auf der angrenzenden Fussgängerzone, die dann ausserhalb des Fussgängerstreifens vor das anfahrende Fahrzeug trat und überrollt wurde. Das Bundesgericht bejahte eine erhöhte Aufmerksamkeitspflicht und stellte fest, dass der Fahrer die Geschädigte bei ausreichender Aufmerksamkeit hätte sehen können und müssen. Es hob die Verurteilung dennoch auf: Die Geschädigte hatte während der Haltephase kein Verhalten gezeigt, das für einen externen Beobachter auf die Absicht hindeutete, vor dem Lastwagen die Strasse zu überqueren. Das Vertrauensprinzip (Art. 26 SVG) bleibt anwendbar, solange kein konkretes Gefährdungsverhalten erkennbar ist. Abgrenzung zu BGE 127 IV 34 (toter Winkel): Dort befand sich das Opfer bereits im toten Winkel vor dem Manöver; hier geriet es erst während der Anfahrphase dorthin. Zugleich Schärfung der richterlichen Begründungspflicht bei Fahrlässigkeitsvorwürfen.
+
 * **Leichtes Verschulden bei unwillkürlicher Reaktion auf unerwartete Verkehrssituation**
   [BGE 127 II 302](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_II_302)
   Bremst ein Fahrzeuglenker bei angepasster Geschwindigkeit unwillkürlich ab und gerät dabei ins Schleudern, liegt regelmässig nur ein leichtes Verschulden vor.
@@ -50,4 +59,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-08*
+*Letzte Aktualisierung: 2026-10-11*

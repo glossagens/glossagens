@@ -2,11 +2,16 @@
 title: "Art. 31 SVG — Beherrschung des Fahrzeugs"
 weight: 31
 date: 2026-08-08
-lastmod: 2026-08-08
+lastmod: 2026-10-11
 description: "Kommentar zu Art. 31 SVG: Beherrschungsgrundsatz und Aufmerksamkeitspflicht, Fahrunfähigkeit aus anderen Gründen (Abs. 2), Verwendung von Mobiltelefonen und Kommunikationssystemen, Behinderung durch Ladung oder Mitfahrende."
 tags: ["SVG", "Strassenverkehrsrecht", "Beherrschung des Fahrzeugs", "Aufmerksamkeitspflicht", "Ablenkung", "Übermüdung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_770/2025 (E. 2.3.4/2.3.5) — Präzisierung der Relativität der Aufmerksamkeitspflicht und Vertrauensprinzip bei Fussgängern; Zitat und Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -36,6 +41,12 @@ Art. 31 SVG verankert den **Beherrschungsgrundsatz** — die zentrale Grundpflic
 **1** Der Fahrzeugführer muss seine Aufmerksamkeit der Strasse und dem Verkehr zuwenden und darf beim Fahren keine Verrichtung vornehmen, welche die Bedienung des Fahrzeugs erschwert (Art. 3 Abs. 1 VRV); seine Aufmerksamkeit darf namentlich nicht durch Tonwiedergabegeräte sowie Kommunikations- und Informationssysteme beeinträchtigt werden. Das erforderliche **Mass der Aufmerksamkeit** richtet sich nicht nach einem starren Massstab, sondern nach den **gesamten konkreten Umständen** — namentlich Verkehrsdichte, örtliche Verhältnisse, Tageszeit, Sicht und voraussehbare Gefahrenquellen ([BGE 137 IV 290, E. 3.6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_290#e-3-6); [BGE 127 II 302, E. 3c](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_II_302); [BGE 122 IV 225, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_225)).
 
 **2** Muss der Fahrzeugführer sein Augenmerk im Wesentlichen auf bestimmte Stellen des Verkehrsgeschehens richten, kann ihm für andere Bereiche eine geringere Aufmerksamkeit zugebilligt werden — die Sorgfaltspflicht ist mithin **relativ und situativ**, nicht absolut zu verstehen ([BGE 122 IV 225, E. 2b](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_IV_225) — fahrlässige Tötung). Ein Fahrzeuglenker, der bei angepasster Geschwindigkeit unwillkürlich abbremst, weil er auf eine unerwartete Verkehrssituation (etwa signalisierende Polizeifahrzeuge) reagiert, und dabei ins Schleudern gerät, handelt regelmässig nur leicht fahrlässig ([BGE 127 II 302](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_II_302)).
+
+**2a** Die blosse Möglichkeit, einen Fussgänger im Umfeld des Fahrzeugs zu sehen, begründet für sich allein noch keine Sorgfaltspflichtverletzung — massgeblich ist, ob der Fussgänger ein Verhalten zeigt, das für den Fahrer als konkrete Gefahr für das geplante Manöver erkennbar ist. Das Bundesgericht hat dies in einem Fall präzisiert, in dem ein Lastwagenfahrer am STOP eine Fussgängerin (Jahrgang 1943) auf der angrenzenden Fussgängerzone übersehen hatte, die anschliessend ausserhalb des Fussgängerstreifens vor das anfahrende Fahrzeug trat und überrollt wurde (Folge: Beinamputation). Das Gericht bejahte zwar eine erhöhte Aufmerksamkeitspflicht — der Fahrer lenkte einen 16-Tonnen-Lastwagen in engem Durchgang, vor einer Kreuzung und einem Fussgängerstreifen, am Rand einer Fussgängerzone, am Wochentag um 13:30 Uhr im Ortszentrum — und stellte fest, dass der Fahrer die Geschädigte bei ausreichender Aufmerksamkeit hätte sehen können und müssen. Es hob die Verurteilung dennoch auf, weil die Geschädigte während der Haltephase kein Verhalten gezeigt hatte, das für einen externen Beobachter darauf hindeutete, sie beabsichtige, vor dem Lastwagen die Strasse zu überqueren; sie bewegte sich langsam auf der Fussgängerzone, ohne anzuhalten, ohne Blickkontakt mit dem Fahrer zu suchen und ohne ein Zeichen in Richtung der Fahrbahn. Das Vertrauensprinzip (Art. 26 SVG) blieb anwendbar, solange kein konkretes Gefährdungsverhalten erkennbar war:
+
+> «même si le recourant avait été suffisamment attentif de manière à voir l'intimée se déplacer sur la place piétonne durant son arrêt à la hauteur du STOP, rien ne lui aurait permis d'envisager qu'elle avait l'intention de traverser devant son camion, donc que rien ne l'aurait empêché de poursuivre comme il l'a fait en initiant sa manoeuvre.»
+
+([BGer 6B_770/2025 vom 17. September 2026, E. 2.3.4 und 2.3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-770-2025_2026-09-17.html) — teilweise Gutheissung, Freispruch). Das Gericht grenzte den Fall von [BGE 127 IV 34](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_IV_34) (toter Winkel) ab: Dort befand sich das Opfer bereits im toten Winkel, bevor der Fahrer das Manöver einleitete; hier geriet die Geschädigte erst während der Anfahrphase in den toten Winkel, ohne dass ihr vorangehendes Verhalten eine Gefahr angekündigt hätte. Zugleich schärfte das Gericht die richterliche Begründungspflicht: Die kantonale Instanz durfte sich nicht mit der pauschalen Feststellung begnügen, der Fahrer hätte bei ausreichender Aufmerksamkeit sehen können, was er nicht gesehen hat — sie musste klar benennen, welches konkrete Verhalten ihm als Sorgfaltspflichtverletzung vorgeworfen wird. Die erhöhte Aufmerksamkeitspflicht gegenüber alten Personen (Art. 26 Abs. 2 SVG) war zwar zu prüfen, entfaltet aber nur Wirkung, wenn das Alter für den Fahrer erkennbar war — was hier nicht festgestellt werden konnte.
 
 ### 1. Ablenkung durch Mobiltelefone und Kommunikationssysteme
 
