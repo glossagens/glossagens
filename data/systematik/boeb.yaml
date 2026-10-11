@@ -1,0 +1,33 @@
+# Systematik-Gliederung für das BöB (SR 172.056.1)
+# Grundlage der automatisch generierten Artikelübersicht.
+gruppen:
+  - name: "1. Kapitel: Gegenstand, Zweck und Begriffe"
+    von: 1
+    bis: 3
+  - name: "2. Kapitel: Geltungsbereich"
+    von: 4
+    bis: 10
+  - name: "3. Kapitel: Allgemeine Grundsätze"
+    von: 11
+    bis: 15
+  - name: "4. Kapitel: Vergabeverfahren"
+    von: 16
+    bis: 24
+  - name: "5. Kapitel: Vergabeanforderungen"
+    von: 25
+    bis: 32
+  - name: "6. Kapitel: Ablauf des Vergabeverfahrens"
+    von: 33
+    bis: 45
+  - name: "7. Kapitel: Fristen und Veröffentlichungen, Statistik"
+    von: 46
+    bis: 51
+  - name: "8. Kapitel: Rechtsschutz"
+    von: 52
+    bis: 58
+  - name: "9. Kapitel: Kommission Beschaffungswesen Bund-Kantone"
+    von: 59
+    bis: 59
+  - name: "10. Kapitel: Schlussbestimmungen"
+    von: 60
+    bis: 63
