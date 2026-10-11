@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 49 StGB"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-09-11
-description: "Übersicht der Rechtsprechung zu Art. 49 StGB — Konkurrenzen: Asperationsprinzip, konkrete Methode, Einsatzstrafe, Verbot der Einheitsstrafe, Kumulationsgebot bei Ungleichartigkeit, Zäsurwirkung des Ersturteils, Differenzmethode bei Zusatzstrafen und Abgrenzungskasuistik."
-tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Allgemeiner Teil", "Kasuistik"]
+lastmod: 2026-10-11
+description: "Übersicht der Rechtsprechung zu Art. 49 StGB — Konkurrenzen: Asperationsprinzip, konkrete Methode, Einsatzstrafe, dreistufige Gesamtstrafenbildung, Verbot der Einheitsstrafe, Kumulationsgebot bei Ungleichartigkeit, Zäsurwirkung des Ersturteils, Differenzmethode bei Zusatzstrafen und Abgrenzungskasuistik."
+tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Dreistufigkeit", "Täterkomponenten", "Begründungspflicht", "Allgemeiner Teil", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_287/2026 (Strafzumessung bei Konkurrenzen, dreistufige Gesamtstrafenbildung, Vermengung von Tat- und Täterkomponenten); Volltext via entscheidsuche.ch verifiziert."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -154,6 +159,18 @@ revisions:
 - **Sachverhalt**: Der Richter hatte über mehrere Strafen zu befinden, bei denen teilweise ein bedingter Vollzug und teilweise ein unbedingter Vollzug geboten war.
 - **Kernaussage**: Treffen bedingte und unbedingte Strafen oder unterschiedliche Sanktionsarten aufeinander, gilt das Kumulationsprinzip; die Strafen werden nebeneinander ausgesprochen und vollzogen, nicht asperiert.
 - **Einschlägig für**: Art. 49 Abs. 1 StGB (Kumulation bei Ungleichartigkeit von Sanktionsformen).
+
+---
+
+### [BGer 6B_287/2026 vom 10.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html) — Dreistufige Gesamtstrafenbildung und Begründungspflicht bei Konkurrenzen
+
+- **Sachverhalt**: Ein Chefbuchhalter, zugleich Verwaltungsrat der Betreiberin eines Genfer Hotels, eignete sich zusammen mit seiner Buchhalterkollegin über knapp zehn Jahre (2009–2018) rund 2,5 Mio. Fr. an Bareinnahmen an. Die Kollegin behielt Bargeld aus den Tageskassen zurück und fertigte auf nachgedrucktem Bankpapier gefälschte Einzahlungsbelege sowie fingierte Tageskassenabrechnungen; der Chefbuchhalter vertuschte die Unterschlagungen durch fingierte Buchungen im Hauptbuch, die in Lohnaufwandskonten aufgelöst wurden. Die Cour de justice GE verurteilte ihn wegen Untreue (Art. 138 StGB) und Urkundenfälschung (Art. 251 StGB) zu 3 Jahren und 7 Monaten Freiheitsstrafe.
+- **Kernaussage**:
+  1. Die methodische Abfolge bei der Gesamtstrafenbildung ist zwingend dreistufig: Zunächst ist die Einsatzstrafe für die abstrakt schwerste Tat auf der Grundlage der Tatkomponenten festzusetzen, dann erfolgt die angemessene Erhöhung (Asperation) für die weiteren Delikte, und erst nach Festlegung der Gesamtstrafe werden die allgemeinen täterbezogenen Faktoren berücksichtigt (E. 2.1.2).
+  2. Die Vorinstanz verstiess gegen diese methodische Reihenfolge, indem sie allgemeine täterbezogene Faktoren (Vorstrafenlosigkeit, persönliche Situation, Gesundheitsprobleme, Verhalten im Verfahren) bereits bei der Festsetzung der Einsatzstrafe und nicht erst nach der (hypothetischen) Gesamtstrafenbildung berücksichtigte (E. 2.3.2).
+  3. Die Vorinstanz begründete die Wahl der Freiheitsstrafe statt einer Geldstrafe für die konkurrenzierenden Delikte weder deliktsbezogen noch im Hinblick auf die konkrete Gleichartigkeit (E. 2.3.2).
+  4. Genügt die Begründung nicht, um den Strafzumessungsgedankengang nachzuvollziehen, ist die Strafe aufzuheben und die Sache zurückverweisen, selbst wenn der Strafsatz im Ergebnis nicht offensichtlich fehlerhaft ist (E. 2.4).
+- **Einschlägig für**: Art. 49 Abs. 1 StGB, Art. 47 StGB, Art. 50 StGB, Art. 112 BGG (dreistufige Gesamtstrafenbildung, Täterkomponenten nach Asperation, deliktsbezogene Begründung der Strafartwahl, Begründungspflicht).
 
 ---
 

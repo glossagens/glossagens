@@ -2,11 +2,16 @@
 title: "Art. 49 StGB — Konkurrenzen und Gesamtstrafe"
 weight: 49
 date: 2026-06-13
-lastmod: 2026-09-11
-description: "Praxiskommentar zu Art. 49 StGB: Echte vs. unechte Konkurrenz, Asperationsprinzip bei gleichartigen Strafen (Abs. 1), konkrete Methode, hypothetische Einsatzstrafe, Verbot der Einheitsstrafe, Kumulation ungleichartiger Strafen, Obergrenzen (50 % und Strafartmaxima), retrospektive Konkurrenz und Zusatzstrafenbildung (Abs. 2), Zäsurwirkung des Ersturteils, Taten vor Vollendung des 18. Altersjahrs (Abs. 3), Kasuistik und Praxishinweise."
-tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Einsatzstrafe", "Einheitsstrafe", "Kumulationsprinzip", "Allgemeiner Teil", "Kasuistik"]
+lastmod: 2026-10-11
+description: "Praxiskommentar zu Art. 49 StGB: Echte vs. unechte Konkurrenz, Asperationsprinzip bei gleichartigen Strafen (Abs. 1), konkrete Methode, hypothetische Einsatzstrafe, dreistufige Gesamtstrafenbildung (Einsatzstrafe, Asperation, Täterkomponenten), Verbot der Einheitsstrafe, Kumulation ungleichartiger Strafen, Obergrenzen (50 % und Strafartmaxima), retrospektive Konkurrenz und Zusatzstrafenbildung (Abs. 2), Zäsurwirkung des Ersturteils, Taten vor Vollendung des 18. Altersjahrs (Abs. 3), Kasuistik und Praxishinweise."
+tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Einsatzstrafe", "Einheitsstrafe", "Kumulationsprinzip", "Dreistufigkeit", "Täterkomponenten", "Begründungspflicht", "Allgemeiner Teil", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_287/2026 (Untreue/Urkundenfälschung, Strafzumessung bei Konkurrenzen): Neuer Abschnitt 2a zur dreistufigen Gesamtstrafenbildung (Einsatzstrafe → Asperation → Täterkomponenten) mit Kasuistik zur Vermengung von Tat- und Täterkomponenten; Erweiterung der Kasuistiktabelle; Ergänzung des Abschnitts E (Begründungspflicht) um Punkt 4 (methodische Dreistufigkeit) und deliktsbezogene Begründung der Strafartwahl; alle Zitate via entscheidsuche.ch verifiziert (Volltextabruf)."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -165,6 +170,32 @@ graph TD
 - **Striktes Verbot der Einheitsstrafe**:
   - Das Gericht darf unter keinen Umständen eine globale Einheitsstrafe nach freiem Ermessen «aus einem Guss» festlegen, ohne die Einsatzstrafe und die Asperationszuschläge getrennt zu benennen. Das Bundesgericht verlangt, dass die hypothetischen Einzelstrafen für alle Delikte zumindest gedanklich gebildet und im Urteil transparent begründet werden ([BGE 144 IV 217 E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-217_2018.html#consideration_3.5); [BGE 144 IV 313 E. 1.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html#consideration_1.1.1)).
 
+#### 2a. Die Dreistufigkeit der Gesamtstrafenbildung: Einsatzstrafe, Asperation und Täterkomponenten
+
+Die Rechtsprechung entwickelt die Asperationsmethode zu einem **dreistufigen Modells** weiter, in dem die Täterkomponenten erst nach der Asperation Berücksichtigung finden. Diese methodische Abfolge ist nicht fakultativ, sondern verbindlich.
+
+**Stufe 1 — Einsatzstrafe auf der Grundlage der Tatkomponenten**: Das Gericht bestimmt zunächst die abstrakt schwerste Tat und setzt für diese unter Anwendung von Art. 47 StGB die Einsatzstrafe fest. Dabei sind die objektive und subjektive Tatkomponente (Schwere der Rechtsgutverletzung, Verwerflichkeit, Beweggründe, Ausführung) zu berücksichtigen ([BGE 144 IV 217 E. 3.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-217_2018.html#consideration_3.5.1); [BGE 144 IV 313 E. 1.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html#consideration_1.1.2)).
+
+**Stufe 2 — Angemessene Erhöhung (Asperation)**: Die Einsatzstrafe wird für die weiteren Delikte angemessen erhöht, wobei für jedes Delikt eine hypothetische Einzelstrafe zumindest gedanklich zu bilden ist ([BGE 144 IV 217 E. 3.5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-217_2018.html#consideration_3.5.3)).
+
+**Stufe 3 — Täterkomponenten erst nach der Gesamtstrafe**: Erst nach Festlegung der Gesamtstrafe für alle Delikte werden die allgemeinen täterbezogenen Faktoren berücksichtigt — also die von der konkreten Tat unabhängigen Umstände wie Vorstrafen, persönliche Situation, Gesundheitszustand und Verhalten im Strafverfahren. Die Vermengung von Tat- und Täterkomponenten bereits auf der Stufe der Einsatzstrafenbildung ist methodisch fehlerhaft und führt zur Aufhebung der Strafe ([BGer 6B_287/2026 E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html)).
+
+> «Ce n'est qu'après avoir déterminé la peine globale pour l'ensemble des infractions que le juge prendra en considération les éléments généraux relatifs à l'auteur (à savoir des facteurs indépendants de l'infraction, tels les antécédents, la situation personnelle et le comportement en cours de la procédure).»
+> — BGer 6B_287/2026, E. 2.1.2
+
+##### Kasuistik: Methodische Fehler der Vorinstanz — Vermengung von Tat- und Täterkomponenten
+
+Ein Chefbuchhalter, zugleich Verwaltungsrat der Betreiberin eines Genfer Hotels, eignete sich zusammen mit seiner Buchhalterkollegin über knapp zehn Jahre (2009–2018) rund 2,5 Mio. Fr. an Bareinnahmen an. Die Kollegin behielt Bargeld aus den Tageskassen zurück und fertigte auf nachgedrucktem Bankpapier gefälschte Einzahlungsbelege sowie fingierte Tageskassenabrechnungen. Der Chefbuchhalter vertuschte die Unterschlagungen durch fingierte Buchungen im Hauptbuch, die in Lohnaufwandskonten aufgelöst wurden. Die Cour de justice GE verurteilte ihn wegen Untreue (Art. 138 StGB) und Urkundenfälschung (Art. 251 StGB) zu 3 Jahren und 7 Monaten Freiheitsstrafe.
+
+Das Bundesgericht hob die Strafzumessung auf, weil die Vorinstanz **zwei zentrale methodische Mängel** aufwies. Erstens berücksichtigte sie allgemeine täterbezogene Faktoren — Vorstrafenlosigkeit, persönliche Situation, Gesundheitsprobleme und Verhalten im Verfahren — bereits bei der Festsetzung der Einsatzstrafe und nicht erst nach der (hypothetischen) Gesamtstrafenbildung für alle Delikte. Zweitens begründete sie die Wahl der Freiheitsstrafe statt einer Geldstrafe für die konkurrenzierenden Delikte weder deliktsbezogen noch im Hinblick auf die konkrete Gleichartigkeit:
+
+> «[L]a cour cantonale se borne à énumérer certains critères de l'art. 47 CP, sans indiquer comment ceux-ci ont été pris en compte et pondérés. Elle méconnaît aussi les principes posés par la jurisprudence en matière de fixation de la peine en cas de concours d'infractions (art. 49 CP). C'est ainsi qu'elle n'explique pas les raisons qui l'ont conduite à retenir une peine privative de liberté plutôt qu'une peine pécuniaire pour les infractions entrant en concours. En outre, elle tient compte des éléments généraux relatifs à l'auteur de l'infraction [...] déjà lors de la détermination de la peine de base et non uniquement après avoir fixé la peine globale (hypothétique) pour l'ensemble des infractions.»
+> — BGer [6B_287/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html), E. 2.3.2
+
+Die mangelhafte Begründung verletzt die gesetzlichen Bestimmungen über die Strafzumessung und genügt nicht den Anforderungen von Art. 112 Abs. 1 lit. b BGG. Das Bundesgericht konnte die Strafe anhand der Erwägungen des Berufungsurteils nicht selbst überprüfen, weshalb das Urteil im Strafpunkt aufgehoben und die Sache nach Art. 112 Abs. 3 BGG an die kantonale Instanz zurückverwiesen wurde ([BGer 6B_287/2026 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html)).
+
+Dieser Entscheid illustriert eine in der kantonalen Praxis wiederkehrende Fehlerquelle: die Vermengung von Tat- und Täterkomponenten bereits auf der Stufe der Einsatzstrafenbildung. Das Bundesgericht hatte bereits in [BGE 136 IV 55 E. 5.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) die Pflicht zur getrennten Würdigung von Tat- und Täterverschulden betont; der vorliegende Entscheid präzisiert diese Anforderung für den Sonderfall der Gesamtstrafenbildung nach Art. 49 StGB und verdeutlicht, dass die Täterkomponenten erst nach der Asperation — nicht bereits bei der Bestimmung der Einsatzstrafe — zu gewichten sind.
+
 ---
 
 #### 3. Die drei gesetzlichen Obergrenzen der Gesamtstrafe
@@ -206,6 +237,7 @@ Ein Beschuldigter wurde wegen gewerbsmässigen Betrugs und Widerhandlungen gegen
 | Freiheitsstrafen-Delikt neben Übertretung / Geldstrafen-Delikt | 18 Monate Freiheitsstrafe | SVG-Delikt (Tatstrafe: 30 Tagessätze Geldstrafe) | **Kumulation**: 18 Monate FS *neben* 30 Tagessätzen GS | **Verstoss gegen konkrete Methode**: Umwandlung der Geldstrafe in 30 Tage FS zur Asperation | [BGE 144 IV 217](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-217_2018.html) |
 | Mehrfache Delinquenz mit geringen Einzelstrafen | 6 Monate Freiheitsstrafe | Zwei Nebendelikte (hypothetisch je 2 Monate) | Maximal **10 Monate** Freiheitsstrafe | **Verletzung Kumulationsgrenze**: Schärfung auf 12 Monate überschreitet die Summe (6 + 2 + 2 = 10) | [BGE 143 IV 145](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-145_2017.html) |
 | Mehrfache Tötungsdelikte (zwei vollendete Morde) | Lebenslängliche Freiheitsstrafe | Zweiter Mord (Art. 112 StGB) | **Lebenslängliche Freiheitsstrafe** | Keine Bindung an 20 Jahre gemäss Art. 40 StGB, wenn ein Delikt lebenslänglich vorsieht | [BGE 141 IV 61](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-61_2015.html) |
+| Untreue und Urkundenfälschung (Chefbuchhalter, 10-jährige Unterschlagung von 2,5 Mio. Fr.) | 3,5 Jahre Freiheitsstrafe (Einsatzstrafe Untreue) | Urkundenfälschung (hypothetisch 1 Jahr) | Aufhebung der Strafe; Rückverweisung | **Verstoss gegen Dreistufigkeit**: Täterkomponenten bereits bei Einsatzstrafe berücksichtigt; Wahl der Freiheitsstrafe statt Geldstrafe unbegründet | [6B_287/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html) |
 
 > **Leitsatz.** Die Bildung einer Gesamtstrafe nach Art. 49 Abs. 1 StGB verlangt zwingend konkret gleichartige Strafen; das Gericht hat die hypothetische Einsatzstrafe der schwersten Tat und die Asperationsanteile transparent auszuweisen, wobei die Gesamtstrafe durch die 50 %-Grenze, das Höchstmass der Strafart und das Kumulationsmass absolut begrenzt wird.
 
@@ -308,7 +340,9 @@ Die Strafzumessung bei Konkurrenzen unterliegt nach Art. 50 StGB einer gesteiger
 
 1. **Ausweisung der Einsatzstrafe**: Das Gericht muss im Urteil ausdrücklich bezeichnen, welche Tat es als die schwerste erachtet und welche hypothetische Einsatzstrafe es hierfür festsetzt.
 2. **Begründung der Schärfungsfaktoren**: Das Gericht muss nachvollziehbar darlegen, welche Umstände der weiteren Delikte (Schwere, Anzahl, Verschulden) zu welchem Ausmass der Erhöhung geführt haben. Zwar verlangt das Bundesgericht keine mathematische Formel oder prozentuale Aufschlüsselung jedes Einzeldelikts; aus den Erwägungen muss jedoch klar hervorgehen, welcher Strafanteil auf die Asperation entfällt.
-3. **Wahl der Strafart**: Erkennt das Gericht anstelle einer Geldstrafe auf eine Freiheitsstrafe, um eine Gesamtfreiheitsstrafe zu bilden, bedarf dies gemäss Art. 41 Abs. 2 StGB einer besonderen Begründung. Der blosse Hinweis auf Zweckmässigkeit oder Tatmehrheit reicht nicht aus ([BGE 144 IV 313 E. 1.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html#consideration_1.1.1)).
+3. **Wahl der Strafart**: Erkennt das Gericht anstelle einer Geldstrafe auf eine Freiheitsstrafe, um eine Gesamtfreiheitsstrafe zu bilden, bedarf dies gemäss Art. 41 Abs. 2 StGB einer besonderen Begründung. Der blosse Hinweis auf Zweckmässigkeit oder Tatmehrheit reicht nicht aus ([BGE 144 IV 313 E. 1.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-313_2018.html#consideration_1.1.1)). Bei der Gesamtstrafenbildung nach Art. 49 Abs. 1 StGB muss die Wahl der konkreten Strafart für jedes einzelne Delikt deliktsbezogen begründet werden, da die blosse abstrakte Gleichartigkeit der angedrohten Strafen die Asperation nicht zu tragen vermag ([BGer 6B_287/2026 E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html)).
+
+4. **Methodische Dreistufigkeit**: Die Begründung muss den dreistufigen Gedankengang nachvollziehbar abbilden: Einsatzstrafe auf der Grundlage der Tatkomponenten, Asperation für die weiteren Delikte, erst dann Berücksichtigung täterbezogener Faktoren. Genügt die Begründung nicht, um den Strafzumessungsgedankengang nachzuvollziehen, ist die Strafe aufzuheben und die Sache zurückverweisen, selbst wenn der Strafsatz im Ergebnis nicht offensichtlich fehlerhaft ist ([BGer 6B_287/2026 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-287-2026_2026-09-10.html)).
 
 ---
 
