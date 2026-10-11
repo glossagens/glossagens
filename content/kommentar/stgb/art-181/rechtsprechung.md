@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 181 StGB"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-09-04
+lastmod: 2026-10-11
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 181 StGB (Nötigung): Leitentscheide des Bundesgerichts und kantonale Urteile zu Schikanestopps im Strassenverkehr, Drohung mit Strafanzeigen, Klimablockaden, Stalking und Beziehungszwang."
 tags: ["Rechtsprechung", "StGB", "Nötigung", "Schikanestopp", "Stalking", "Klimablockade", "Zweck-Mittel-Relation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_242/2026 (versuchte Nötigung durch missbräuchliche Betreibungen) in den weiteren Bundesgerichtsentscheiden. Volltext via mcp__entscheidsuche__fetch_document abgerufen, document_url verbatim übernommen."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -115,3 +120,8 @@ revisions:
 - **Gericht / Instanz**: Appellationsgericht des Kantons Basel-Stadt (AG.2026.39)
 - **Sachverhalt**: Drei Personen drangen — teilweise maskiert und mit Handschuhen — gegen den Willen der Geschädigten in deren Wohnung ein, um Hanfpflanzen zu holen; die Abmachung lautete, man werde die Geschädigte «in Schach halten». Die Geschädigte behändigte zur Verteidigung eine Metallstange und wurde geschubst.
 - **Ergebnis / Kernaussage**: **Nötigung bejaht (Mittäterschaft).** Ein Schubsen genügt als Gewalt im Sinne von Art. 181 StGB: «Die Intensität eines Schubsens mag nicht besonders hoch sein. Trotzdem stellt es eine physische Einwirkung auf den Körper eines anderen dar, was zur Annahme von Gewalt im Sinne des Tatbestands genügt.» Die Desinteresseerklärung der Geschädigten ist unerheblich (Offizialdelikt).
+
+### 16. [BGer 6B_242/2026 vom 15. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html)
+- **Gericht / Instanz**: Bundesgericht, I. strafrechtliche Abteilung (Waadt)
+- **Sachverhalt**: A.________ betrieb zwischen 2019 und 2022 zwei Gesellschaften mit insgesamt vier Betreibungsbegehren über 1'350'000 Franken bzw. dreimal 7'000'000 Franken. Gegenüber B.________ SA bestand nie eine Geschäftsbeziehung; die Gesellschaft war erst am 20. Dezember 2017 im Handelsregister eingetragen, also nach dem Datum, ab dem die angeblichen Forderungen datierten. Gegenüber C.________ SA hatte der Beschwerdeführer dieselben Ansprüche im arbeitsrechtlichen Verfahren zunächst auf 313'426,40 Franken und danach auf 205'876,40 Franken beziffert; der betriebene Betrag überstieg die zuletzt geltend gemachte Forderung um über eine Million Franken. Die Gesellschaften zahlten nicht.
+- **Ergebnis / Kernaussage**: **Schuldspruch wegen versuchter Nötigung bestätigt.** Die Zustellung eines Betreibungsbegehrens über einen erheblichen Betrag erfüllt den Auffangtatbestand der «anderen Beschränkung der Handlungsfreiheit», gemessen an einer Person mittlerer Empfindlichkeit (objektiver Massstab; E. 2.1.1). Die Rechtswidrigkeit folgt entweder aus dem Fehlen jeglicher Rechtsgrundlage oder aus der Unverhältnismässigkeit des betriebenen Betrags gegenüber der vom Gläubiger selbst zuvor im Zivilprozess eingeklagten Forderung — nicht erst aus dem nachträglichen Unterliegen im Zivilprozess (E. 2.2.2). Ein Irrtum nach Art. 13 StGB wird bei Branchenkenntnis verneint. Die Rügen der Willkür (Art. 9 BV) und der Verletzung des rechtlichen Gehörs (Art. 29 Abs. 2 BV) bleiben mangels Substantiierung erfolglos.

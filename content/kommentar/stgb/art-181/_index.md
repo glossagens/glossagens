@@ -2,11 +2,16 @@
 title: "Art. 181 — Nötigung"
 weight: 181
 date: 2026-07-17
-lastmod: 2026-09-04
+lastmod: 2026-10-11
 description: "Praxiskommentar zu Art. 181 StGB entlang der Tatbestandsmerkmale: die drei Nötigungsmittel (Gewalt, Androhung ernstlicher Nachteile, Auffangtatbestand), Nötigungserfolg und Kausalität, Vorsatz, die positiv zu begründende Rechtswidrigkeit (Zweck-Mittel-Relation) und die Rechtfertigungsgründe. Mit zweiseitiger Grenzkasuistik je Merkmal zu Schikanestopps, Drohungen mit Strafanzeige oder Betreibung, Protestblockaden, Stalking und Suiziddrohungen."
 tags: ["StGB", "Nötigung", "Handlungsfreiheit", "Nötigungsmittel", "Gewalt", "Androhung ernstlicher Nachteile", "Strassenverkehr", "Schikanestopp", "Strafanzeige", "Betreibung", "Klimakleber", "Strassenblockade", "Stalking", "Zweck-Mittel-Relation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_242/2026 (versuchte Nötigung durch missbräuchliche Betreibungen): neuer Anwendungsfall in Abschnitt C (Betreibung als Auffangtatbestand), Präzisierung in Abschnitt F (Unverhältnismässigkeit gemessen an eigener früherer Bezifferung als objektiver Referenzpunkt), knappe Bestätigungen in Abschnitt D (Versuch) und E (Irrtum Art. 13 StGB). Volltext via mcp__entscheidsuche__fetch_document abgerufen, document_url verbatim übernommen."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -213,6 +218,15 @@ Seit 2023 gilt das Gegenteil:
 
 Praktisch tragfähig ist damit allein das mittlere Feld: Blockaden zwischen zehn Minuten und einer Stunde **mit** vorhandener Ausweichmöglichkeit sind nach der neuen Formel straflos, nach den formell nie aufgehobenen Leitentscheiden strafbar. Wer hier plädiert, sollte den Widerspruch benennen und nicht auf eine gefestigte Praxis vertrauen, die es nicht gibt.
 
+#### Anwendungsfall: Die Betreibung über einen unverhältnismässigen oder grundlosen Betrag
+
+Die Zustellung eines Betreibungsbegehrens über einen erheblichen Betrag kann den Auffangtatbestand der «anderen Beschränkung der Handlungsfreiheit» erfüllen. Die gefestigte Rechtsprechung stellt darauf ab, dass für eine Person mittlerer Empfindlichkeit der Erhalt eines Betreibungsbegehrens über eine beträchtliche Summe eine Quelle von Belastung und psychologischem Druck darstellt — einerseits wegen der mit dem Betreibungsverfahren verbundenen Nachteile, andererseits wegen der Aussicht, den Betrag allenfalls bezahlen zu müssen; zudem kann ein solches Verfahren die berufliche Kreditwürdigkeit der betroffenen Person beeinträchtigen ([BGer 6B_281/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-281-2013_2013-07-16.html); [BGer 6B_271/2024 vom 17. September 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-271-2024_2024-09-17.html); [BGer 6B_637/2022 vom 29. September 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-637-2022_2022-09-29.html)).
+
+> **Der Sachverhalt aus den Akten ([BGer 6B_242/2026 vom 15. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html)):**
+> A.________ betrieb zwischen 2019 und 2022 zwei Gesellschaften — C.________ SA und B.________ SA — mit insgesamt vier Betreibungsbegehren. Die Summen beliefen sich auf 1'350'000 Franken (gegen C.________ SA, unter der Angabe «Licenciement abusif — Dommages & intérêts — Tort moral») sowie dreimal auf 7'000'000 Franken (jeweils gegen C.________ SA und B.________ SA, behauptet ab dem 1. September 2011). Gegenüber B.________ SA hatte der Beschwerdeführer nie eine Geschäftsbeziehung unterhalten; die Gesellschaft war erst am 20. Dezember 2017 im Handelsregister eingetragen worden — also deutlich nach dem Datum, ab dem die angeblichen Forderungen datierten. Gegenüber C.________ SA hatte er dieselben Ansprüche im arbeitsrechtlichen Verfahren vor der Chambre patrimoniale zunächst auf 313'426,40 Franken (Klage vom 7. April 2016) und danach auf 205'876,40 Franken (Replik vom 21. August 2017) beziffert; der betriebene Betrag überstieg die zuletzt geltend gemachte Forderung um über eine Million Franken. Die beiden Gesellschaften zahlten nicht. Das Polizeigericht Lausanne verurteilte A.________ wegen versuchter Nötigung zu 120 Tagessätzen und verpflichtete ihn, die vier Betreibungen zurückzuziehen; die Cour d'appel pénale bestätigte. Das Bundesgericht wies die Beschwerde ab.
+
+**Rückbindung.** Bejaht wurde das Merkmal *andere Beschränkung der Handlungsfreiheit* über einen **objektiven Massstab**: Auf die individuelle Empfindlichkeit der Opfer kommt es nicht an, da die Rechtsprechung auf die Perspektive einer Person mittlerer Empfindlichkeit abstellt. Der Einwand des Beschwerdeführers, die Betreibungen hätten «keinerlei Wirkung» entfaltet, verfing nicht — die Frage, ob das Verhalten das Opfer tatsächlich zu einem Tun, Unterlassen oder Dulden bestimmt hat, betrifft die Unterscheidung zwischen vollendeter und versuchter Nötigung (Abschnitt D), nicht die Tatbestandsmässigkeit des Mittels. Die Illegitimität der Verknüpfung wurde auf der Rechtswidrigkeitsstufe geprüft (Abschnitt F).
+
 #### Kasuistiktabelle: Grenzkasuistik zum Auffangtatbestand
 
 | Sachverhalt | Intensität erreicht? | Entscheid |
@@ -225,6 +239,7 @@ Praktisch tragfähig ist damit allein das mittlere Feld: Blockaden zwischen zehn
 | **Vollsperrung Hauptverkehrsachse 90 Min.** zur Mittagszeit | **Ja** | [BGE 152 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-73_2026.html); [BGer 6B_639/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-639-2024_2026-07-14.html) |
 | **Blockade eines Haupteingangs 2 Std.**, Nebeneingänge offen | **Nein** — zumutbarer Umweg | [BGer 6B_138/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-138-2023_2023-10-18.html) |
 | **Einzelne unerwünschte Kontaktaufnahme** | **Nein** — erst die Kumulation über längere Zeit | [BGE 141 IV 437 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-437_2015.html) |
+| **Betreibungsbegehren über 1,35 Mio. bzw. 7 Mio. Franken** | **Ja** — beträchtliche Summe erzeugt psychologischen Druck und beeinträchtigt Kreditwürdigkeit | [BGer 6B_242/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) |
 
 > **Merksatz.** Der Auffangtatbestand entscheidet sich an einer einzigen Tatfrage: Konnte das Opfer ausweichen? Wo ein zumutbarer Umweg offenstand, fehlt es bereits am Nötigungsmittel — die Grundrechtsprüfung kommt gar nicht mehr zum Zug. Wo das Hindernis unüberwindlich war, ist das Merkmal erfüllt und die Verteidigung muss auf die Abschnitte F und G ausweichen.
 
@@ -234,7 +249,7 @@ Praktisch tragfähig ist damit allein das mittlere Feld: Blockaden zwischen zehn
 
 **Was das Merkmal verlangt.** Art. 181 StGB ist **Erfolgsdelikt**: Die Anwendung des Nötigungsmittels muss die betroffene Person in ihrer Handlungsfreiheit tatsächlich beeinträchtigt haben ([BGE 141 IV 437 E. 3.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-437_2015.html)). Das Opfer muss zu einem Tun, Dulden oder Unterlassen bestimmt worden sein, das es ohne die Einwirkung nicht gewählt hätte — und zwar **kausal** durch das Mittel. Bleibt der Erfolg aus, weil das Opfer standhaft bleibt, liegt bloss ein Versuch vor (Art. 22 StGB). Beweisbelastet ist die Anklage; im Zweifel über die Verhaltensänderung gilt *in dubio pro reo*.
 
-Dass dieses Merkmal in der Praxis mehr Verfahren entscheidet als jede Auslegungsfrage, zeigt der Blick auf die bereits geschilderten Fälle: [BGE 141 IV 437](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-437_2015.html) endete trotz monatelangem Psychoterror bei **mehrfach versuchter** Nötigung, weil das Opfer das erzwungene «letzte Gespräch» nie führte. Umgekehrt lag in [BGer 6B_870/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-870-2020_2020-09-03.html) Vollendung vor, weil die Frau ihre Trennungspläne tatsächlich aufgab.
+Dass dieses Merkmal in der Praxis mehr Verfahren entscheidet als jede Auslegungsfrage, zeigt der Blick auf die bereits geschilderten Fälle: [BGE 141 IV 437](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-437_2015.html) endete trotz monatelangem Psychoterror bei **mehrfach versuchter** Nötigung, weil das Opfer das erzwungene «letzte Gespräch» nie führte. Umgekehrt lag in [BGer 6B_870/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-870-2020_2020-09-03.html) Vollendung vor, weil die Frau ihre Trennungspläne tatsächlich aufgab. Auch in [BGer 6B_242/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) blieb es beim Versuch, weil die beiden betriebenen Gesellschaften dem Druck nicht nachgaben und nicht zahlten ([BGE 129 IV 262](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-262_2003.html)).
 
 #### Verwerfungsfall: Dichtes Auffahren ohne Zwangserfolg
 
@@ -260,6 +275,8 @@ Die Anwendung zeigt [BGer 6B_359/2017](https://entscheidsuche.ch/docs/CH_BGer/CH
 
 Der Gegenpol steht in [BL KG 460 13 235](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-13-235_2014-04-15.pdf): Wo die technische Erklärung (Abstandsregler) plausibel blieb, liess sich der gezielte Zwangswille nicht nachweisen — und mit ihm fiel auch der Versuch.
 
+In [BGer 6B_242/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) wurde ein Irrtum nach Art. 13 StGB verneint: Der Beschwerdeführer, der eine Gesellschaft (B.________ SA) mit 7 Mio. Franken betrieben hatte, machte geltend, er habe die juristische Person nicht von der natürlichen Person D.________ unterscheiden können. Die Vorinstanz schloss einen solchen Irrtum aus, weil der Beschwerdeführer über Berufserfahrung im Banken- und Unternehmensbereich verfügte und eine natürliche Person offensichtlich von einer juristischen Person zu unterscheiden ist. Hätte er tatsächlich geirrt, hätte er die Betreibungen nach Kenntnisnahme korrigieren müssen — was er nicht tat. Das Bundesgericht teilt diese Würdigung ohne Weiterung.
+
 > **Merksatz.** Der Vorsatz ist der einzige Ort, an dem technische und situative Erklärungen (Assistenzsysteme, Schreckreaktion, Blendung) tragen. Sie müssen aber **vor** der ersten Einvernahme aktenmässig unterlegt sein; nachgeschobene Erklärungen scheitern regelmässig an der Frage, warum das naheliegendere Verhalten unterblieb.
 
 ---
@@ -280,6 +297,20 @@ Die vierte Variante trägt die gesamte Kasuistik zur Drohung mit legalen Rechtsb
 Zum Sachverhalt von [BGE 106 IV 125](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-106-IV-125_1980-05-02.html) siehe Abschnitt B. Rechtswidrig war die Nötigung aus zwei Gründen: Zwischen der geforderten persönlichen Umtriebsentschädigung von Fr. 500.- und einer Fernsehberichterstattung über den Occasionshandel bestand **kein sachlicher Zusammenhang**; und die Drohung mit öffentlicher Diskreditierung im Fernsehen stand zum Streitwert in einem **krassen Missverhältnis**.
 
 **Rückbindung.** Der Beschwerdeführer scheiterte nicht am Mittel — dieses war tatbestandsmässig, aber für sich genommen legal —, sondern an der unverhältnismässigen Verknüpfung von Mittel und Zweck.
+
+#### Variante 3 (Fortsetzung): Die Betreibung ohne Rechtsgrund oder im krassen Missverhältnis zur eigenen Bezifferung
+
+Das Einziehen einer Forderung ist grundsätzlich erlaubt, auch wenn der Gläubiger an deren Bestehen zweifelt — ein Mahnschreiben mit Androhung der Betreibung für einen bestrittenen Betrag ist regelmässig nicht strafbar, selbst wenn der Zivilprozess später ergibt, dass der Betrag nicht geschuldet war ([BGE 69 IV 168](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_006_BGE-69-IV-168.pdf); [BGer 6B_979/2018 vom 21. März 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-979-2018_2019-03-21.html)). Illegitim wird das Vorgehen jedoch, wenn ein Betreibungsbegehren gestellt wird, um eine Leistung zu erlangen, auf die **keinerlei Anspruch besteht** ([BGer 6B_1256/2022 vom 14. Juni 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1256-2022_2023-06-14.html); [BGer 6B_614/2021 vom 20. April 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-614-2021_2022-04-20.html)). [BGer 6B_242/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) präzisiert diese Dogmatik anhand zweier Fallgruppen, die in der Praxis auseinandergehalten werden müssen:
+
+**Fallgruppe 1 — Fehlen jeglicher Rechtsgrundlage:** Gegen B.________ SA hatte der Beschwerdeführer nie eine Geschäftsbeziehung unterhalten; die Gesellschaft war erst am 20. Dezember 2017 im Handelsregister eingetragen worden, also deutlich nach dem 1. September 2011, ab dem die angeblichen Forderungen datierten. Die beiden Betreibungen über je 7 Mio. Franken waren jeglicher Grundlage entbehrend und damit missbräuchlich. Der Einwand, er habe die Gesellschaft nicht von der natürlichen Person D.________ unterscheiden können, wurde verworfen: Die Vorinstanz hatte einen Irrtum nach Art. 13 StGB ausgeschlossen, da der Beschwerdeführer über Berufserfahrung im Banken- und Unternehmensbereich verfügte und eine natürliche Person offensichtlich von einer juristischen Person zu unterscheiden ist. Hätte er tatsächlich geirrt, hätte er die Betreibungen nach Kenntnisnahme korrigieren müssen — was er nicht tat (→ Abschnitt E).
+
+**Fallgruppe 2 — Unverhältnismässigkeit gegenüber der eigenen früheren Bezifferung:** Beim ersten Betreibungsbegehren gegen C.________ SA über 1'350'000 Franken lag der Missbrauch in der Unverhältnismässigkeit. Der Beschwerdeführer hatte dieselben Ansprüche im arbeitsrechtlichen Verfahren vor der Chambre patrimoniale zunächst auf 313'426,40 Franken (Klage vom 7. April 2016) und danach auf 205'876,40 Franken (Replik vom 21. August 2017) beziffert. Der betriebene Betrag überstieg die zuletzt geltend gemachte Forderung um über eine Million Franken. Das Bundesgericht stellt ausdrücklich klar, dass der Missbrauch hier **nicht** aus dem nachträglichen Unterliegen im Zivilprozess folgt, sondern aus dem Vergleich mit der vom Gläubiger selbst zuvor im Zivilprozess eingeklagten Forderung:
+
+> «Le caractère abusif de la poursuite résulte, dans ce cas, de l'exorbitance du montant réclamé par la voie de poursuite, par rapport à celui objet de la conclusion prise antérieurement par le recourant dans le procès en droit du travail et non du fait que les prétentions du recourant ont été ultérieurement rejetées dans le procès civil.»
+>
+> — [BGer 6B_242/2026 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html)
+
+Damit wird der Massstab für die Beurteilung des Missbrauchs auf einen **objektiven, ex ante bestimmbaren Referenzpunkt** verlagert: die eigene frühere Bezifferung des Gläubigers. Beim zweiten Betreibungsbegehren gegen C.________ SA über 7 Mio. Franken fehlte es — wie bei B.________ SA — an jeglichem Rechtsgrund, da der Beschwerdeführer keine konkrete Vertragsverletzung oder unerlaubte Handlung darlegen konnte.
 
 #### Variante 4: die sittenwidrige Verknüpfung — Anzeigedrohung bei eigener Verstrickung
 
@@ -304,6 +335,8 @@ Zum Sachverhalt von [BGE 106 IV 125](https://entscheidsuche.ch/docs/CH_BGE/CH_BG
 | **Strafanzeige wegen eines Delikts** | Durchsetzung einer **sachfremden** Forderung | **Rechtswidrig**; fehlender Konnex begründet Sittenwidrigkeit | [BGE 120 IV 17 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-120-IV-17_1994-02-02.html) |
 | **Strafanzeige wegen Falschbeurkundung** | Schadenersatz bei eigener Mittäterschaft | **Rechtswidrig**; sittenwidrige Instrumentalisierung der Justiz | [BGE 87 IV 13](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-87-IV-13_1961-02-03.html) |
 | **Meldung an Medien / «Kassensturz»** | Fr. 500.- private Spesenpauschale | **Rechtswidrig**; krasse Unverhältnismässigkeit | [BGE 106 IV 125 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-106-IV-125_1980-05-02.html) |
+| **Betreibung über 7 Mio. Franken** ohne jegliche Geschäftsbeziehung | Durchsetzung einer grundlosen Forderung | **Rechtswidrig**; jeglicher Rechtsgrundlage entbehrend | [BGer 6B_242/2026 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) |
+| **Betreibung über 1,35 Mio. Franken** | Durchsetzung einer zuvor auf 205'876 Fr. bezifferten Forderung | **Rechtswidrig**; Unverhältnismässigkeit gegenüber eigener früherer Bezifferung | [BGer 6B_242/2026 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html) |
 | **Autobahnblockade** | Druck für flexiblen Altersrücktritt | **Rechtswidrig**; Aktion richtete sich gegen unbeteiligte Dritte, die nichts beitragen konnten | [BGE 134 IV 216 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-216_2008.html) |
 | **Schikanestopp** | «Eine Lektion erteilen» | **Rechtswidrig**; Verkehrsteilnehmern steht keine Disziplinargewalt zu | [BGE 137 IV 326](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-326_2011.html) |
 
@@ -384,6 +417,7 @@ Nach der Relativierung der Alt-Praxis verlagert sich der Streit auf das **Nötig
 - **Merkmal zuerst bestimmen.** Prüfen Sie, an welchem der acht Merkmale der Fall wirklich hängt. Bei Gewalt (Abschnitt A) lohnt der Intensitätsstreit fast nie; bei der Drohung (Abschnitt B) verliert man mit dem Argument, das angedrohte Vorgehen sei legal — dort ist die Rechtswidrigkeit (Abschnitt F) der Angriffspunkt.
 - **Bei Strassenverkehrsvorwürfen**: Auf den fehlenden **Nötigungserfolg** zielen (Abschnitt D). War das dichte Auffahren nur kurzzeitig oder fuhr der Vordermann unbeeindruckt weiter, liegt keine vollendete Nötigung vor; für den Versuch muss die Anklage den gezielten Zwangswillen beweisen (Abschnitt E).
 - **Bei Drohungen mit Strafanzeigen**: Sachlichen Zusammenhang und Berechtigung der Hauptforderung betonen. Wer in guten Treuen eine bestehende Forderung durchsetzen will, handelt nicht rechtswidrig — selbst wenn die Zivilgerichte die Forderung später abweisen.
+- **Bei Betreibungen als Nötigungsmittel**: Die Rechtswidrigkeit folgt entweder aus dem Fehlen jeglicher Rechtsgrundlage oder aus der Unverhältnismässigkeit des betriebenen Betrags gegenüber der zuvor im Zivilprozess geltend gemachten Forderung ([BGer 6B_242/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-242-2026_2026-09-15.html)). Der Massstab ist die eigene frühere Bezifferung des Gläubigers — ein nachträgliches Unterliegen im Zivilprozess allein begründet die Rechtswidrigkeit nicht. Ein Irrtum nach Art. 13 StGB scheidet bei Branchenkenntnis regelmässig aus.
 - **Bei Demonstrationen und Blockaden**: Auf der Stufe des **Nötigungsmittels** ansetzen, nicht erst bei den Grundrechten. Die Anklage muss die fehlende Ausweichmöglichkeit belegen. Den offengelegten Judikaturbruch (Abschnitt C) ausdrücklich rügen: Zwischen BGE 108 IV 165 / 119 IV 301 und der Relativierung von 2023–2026 besteht für Blockaden mittlerer Dauer keine gefestigte Praxis — das trägt eine Rechtsfrage von grundsätzlicher Bedeutung.
 
 #### Für die Staatsanwaltschaft
@@ -392,6 +426,7 @@ Nach der Relativierung der Alt-Praxis verlagert sich der Streit auf das **Nötig
 - **Bei Schikanestopps**: Schutzbehauptungen («Blendung», «Schreck», «Notbremsung wegen Tieren») frühzeitig durch Abfrage der Verhältnisse (Abblendhebel am Spiegel, Scheinwerfereinstellung, Verkehrsaufkommen) entkräften. Echte Konkurrenz zu Art. 90 Abs. 2 SVG anklagen.
 - **Bei Strassenblockaden**: Aktenmässig belegen, wie lange der Rückstau war, ob Ausweichrouten bestanden, welche Buslinien lahmgelegt und ob Rettungsachsen blockiert wurden. Die polizeiliche Fristansetzung zur Räumung genau protokollieren — sie entscheidet über die EMRK-Konformität (Abschnitt G).
 - **Bei Stalking**: Nicht isolierte Einzeltaten anklagen, sondern Vorgeschichte, Gesamtdauer und psychische Folgen (Arbeitsunfähigkeit, Wohnungswechsel) als kumulative Zwangswirkung herausarbeiten — und prüfen, ob der Erfolg eingetreten ist oder nur Versuch vorliegt.
+- **Bei missbräuchlichen Betreibungen**: Den betriebenen Betrag mit der eigenen früheren Bezifferung des Gläubigers im Zivilprozess vergleichen. Übersteigt der betriebene Betrag die zuletzt eingeklagte Forderung massiv, folgt die Rechtswidrigkeit aus der Unverhältnismässigkeit — unabhängig vom späteren Ausgang des Zivilprozesses. Fehlt jegliche Geschäftsbeziehung, ist die Forderung grundlos.
 
 > **Merksatz.** Ein Ausbremsen im Strassenverkehr ist niemals Notwehr gegen ein vorangegangenes Verkehrsfehlverhalten des Hintermanns. Es begründet den Vorwurf der vorsätzlichen Nötigung in echter Konkurrenz zur groben Verkehrsregelverletzung nach Art. 90 Abs. 2 SVG — mit drohendem Führerausweisentzug von mindestens drei Monaten (Art. 16c Abs. 2 lit. a SVG).
 
