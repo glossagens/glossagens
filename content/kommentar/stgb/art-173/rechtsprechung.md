@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 173 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-10-10
-description: "Übersicht der Rechtsprechung zu Art. 173 StGB — üble Nachrede, Weiterverbreitung im Internet und auf Social Media, Dritter-Begriff, Anwalt-Mandant-Kommunikation (BGE 148 IV 409), Schranken für unbeteiligte Dritte, vorrangige Rechtfertigungsgründe, Wahrheits- und Gutglaubensbeweis sowie die gerichtliche Ehrenerklärung."
-tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Social Media", "prozessuale Privilegierung"]
+lastmod: 2026-10-11
+description: "Übersicht der Rechtsprechung zu Art. 173 StGB — üble Nachrede, Weiterverbreitung im Internet und auf Social Media, Dritter-Begriff, Anwalt-Mandant-Kommunikation (BGE 148 IV 409), Schranken für unbeteiligte Dritte, vorrangige Rechtfertigungsgründe, Wahrheits- und Gutglaubensbeweis sowie die gerichtliche Ehrenerklärung, einschliesslich kantonaler Rechtsprechung zur Abgrenzung von Berufskritik und Ehrverletzung."
+tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Social Media", "prozessuale Privilegierung", "Berufskritik", "Whistleblowing"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Kantonaler Entscheid Cour de justice GE, ACPR/790/2026 vom 14.08.2026 (Whistleblowing-Bericht eines Kardiologen — Berufskritik vs. Ehrverletzung) als weiterer Entscheid aufgenommen; via mcp__entscheidsuche__search_by_case_number und fetch_document verifiziert (Volltext)."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -307,6 +312,20 @@ Kantonaler Entscheid, der BGE 148 IV 409 präzisiert.
 - Die Staatsanwaltschaft stellte das Verfahren nach Art. 52 StGB (geringfügige Schuld) ein. Die CREP hob diese Verfügung auf: Die prozessuale Zurückhaltung bei Ehrverletzungen (BGE 148 IV 409) gilt nur für Verfahrensbeteiligte (Parteien, Anwälte, Zeugen, Auskunftspersonen), die aufgrund einer prozessualen Pflicht oder Rolle handeln — nicht für Dritte, die sich unaufgefordert in ein fremdes Verfahren einschalten.
 
 → [VD Tribunal cantonal, 14.09.2026, G-Nr. 692](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_0606fd05-7421-4482-be4a-44f615ef604a)
+
+---
+
+### GE Cour de justice, ACPR/790/2026 — Whistleblowing-Bericht eines Kardiologen als straflose Berufskritik
+
+**Cour de justice (GE), Chambre pénale de recours, 14. August 2026, Geschäftsnummer ACPR/790/2026 (P/4946/2026)**
+
+Kantonaler Entscheid zur Abgrenzung von Berufskritik und Ehrverletzung im medizinischen Spitalkontext; bestätigt die Nichtanhandnahme der Staatsanwaltschaft.
+
+- Ein Kardiologe (Dr. C______) verfasste auf Verlangen des Chefarztes (Prof. F______) einen internen Bericht («Rapport de non-fiabilité et d'absence de reconnaissance de complications»), in dem er zwei Kollegen (ein Ehepaar, ebenfalls Kardiologen am selben Service) fachliche Mängel, fehlerhafte klinische Handlungen, mangelnde Kommunikation bei Komplikationen, einen «rapport de procédure trompeur» und einen Interessenkonflikt (Ehemann «coacht» Ehefrau) vorwarf. Der Bericht war ausschliesslich an den Chefarzt gerichtet; er gelangte später ins Personaladministrativdossier der Betroffenen.
+- Die Cour de justice bestätigte die Nichtanhandnahme (Art. 310 Abs. 1 lit. a StPO): Die Kritik betreffe ausschliesslich die beruflichen Fähigkeiten und Qualitäten der Beschwerdeführer, die vom strafrechtlichen Ehrenschutz nicht erfasst würden. Der Hinweis auf einen Patiententod genüge nicht zur Ehrverletzung, da kein Kausalzusammenhang zwischen dem Handeln des Arztes und dem Tod behauptet worden sei. Selbst wenn man in den Vorwürfen medizinische Fehler sehen wolle, die strafrechtlich qualifizierbar sein könnten, liesse sich darin keine Absicht erkennen, die Ehre der Betroffenen zu verletzen, sondern eine präventive Alertierung des Vorgesetzten. Auch Art. 174 StGB greift nicht, da die Voraussetzungen von Art. 173 StGB bereits nicht erfüllt sind (E. 3.5).
+- Der Entscheid steht in Übereinstimmung mit der ständigen Rechtsprechung des Bundesgerichts zur Abgrenzung von Berufskritik und Ehrverletzung (BGE 119 IV 44 E. 2a; BGE 137 IV 313 E. 2.1.1; BGer 6B_226/2019 E. 3.3) und illustriert, dass auch scharfe, mit Patientensicherheit argumentierende Vorwürfe im internen Spitalkontext nicht zwingend ehrverletzend sind, solange nicht eine Straftat oder ein moralisch verwerfliches Verhalten behauptet wird. Die im Bericht enthaltenen Täuschungsvorwürfe («rapport trompeur») wurden vom Gericht unter die berufliche Kritik subsumiert, ohne dies vertieft zu erörtern — ob Vorwürfe der bewussten Täuschung die Schwelle zum ehrverletzenden Verhalten überschreiten könnten, ist die am ehesten diskussionswürdige Frage des Entscheids.
+
+→ [Cour de justice GE, ACPR/790/2026 vom 14.08.2026](https://entscheidsuche.ch/docs/GE_Gerichte/GE_CJ_011_P-4946-2026_2026-08-14.pdf)
 
 ---
 
