@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 49 OR — Genugtuung"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-09-24
+lastmod: 2026-10-11
 description: "Umfassende Rechtsprechungsübersicht zu Art. 49 OR: Leitentscheide des Bundesgerichts und über 20 kantonale Gerichtsentscheide nach Fallgruppen mit konkreten Betragsangaben in CHF."
 tags: ["Rechtsprechung", "OR", "Genugtuung", "Persönlichkeitsverletzung", "Haftpflichtrecht", "Bemessung", "Kantonale Rechtsprechung", "Sexualdelikte", "Körperverletzung", "Tötung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-11
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um JU TC ADM 2024 16 (Tribunal cantonal du Jura, Cour administrative, 2.9.2026): Regress des Hôpital du Jura gegen Pflegefachmann bei Vergewaltigung einer Patientin, Genugtuung CHF 15'000 nach Präjudizienvergleich; BGer 6B_712/2025 (CHF 15'000) und BGer 6B_559/2024 (CHF 8'000) als weitere BGer-Entscheide zu einmaliger Vergewaltigung. JU-Entscheid via OCL verifiziert, BGer via OCL + entscheidsuche."
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -148,6 +153,22 @@ revisions:
 - **Thema**: Deliktische Natur von Angehörigenansprüchen / Geschwistergenugtuung
 - **Kernaussage**: Selbständige Genugtuungsansprüche von Angehörigen sind stets deliktischer Natur und verjähren nach [Art. 60 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_60), auch wenn zwischen dem Direktgeschädigten und dem Haftpflichtigen ein Vertrag (z.B. Behandlungsvertrag) bestand. Geschwistern steht bei Suizid eines Patienten mangels ausserordentlicher Lebensgemeinschaft keine Genugtuung zu.
 - **Einschlägig für**: Art. 49 Abs. 1 OR (Verjährung, Geschwister, Aktivlegitimation).
+
+---
+
+### [BGer 6B_559/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-559-2024_2025-08-19.html) (19. August 2025)
+- **Thema**: Einmalige Vergewaltigung einer 16-Jährigen / Genugtuung CHF 8'000 / Strafzumessung
+- **Zusprochener Betrag**: **CHF 8'000** (nebst 5 % Zins seit dem 22. Januar 2020)
+- **Kernaussage**: Das Bundesgericht bestätigte eine Genugtuung von CHF 8'000, die das Kantonsgericht Luzern der Geschädigten für eine einmalige Vergewaltigung zugesprochen hatte. Die Beschwerde richtete sich gegen Schuldspruch und Strafzumessung, nicht gegen die Genugtuungshöhe; das Bundesgericht liess die kantonale Bemessung unkorrigiert. Der Entscheid setzt einen unteren Referenzpunkt für einmalige Vergewaltigungen in der aktuellen Praxis.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Genugtuungsbemessung bei Sexualdelikten, unterer Referenzpunkt).
+
+---
+
+### [BGer 6B_712/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-712-2025_2025-11-20.html) (20. November 2025)
+- **Thema**: Einmalige Vergewaltigung mit physischer Fixierung / Genugtuung CHF 15'000
+- **Zusprochener Betrag**: **CHF 15'000** (nebst 5 % Zins seit dem 8. Januar 2024)
+- **Kernaussage**: Das Bundesgericht bestätigte eine Genugtuung von CHF 15'000, die das Tribunal correctionnel de Genève der Geschädigten für eine einmalige Vergewaltigung mit physischer Fixierung über eine Nacht zugesprochen hatte (digitale und vaginale Penetration gegen den ausdrücklichen Willen der Geschädigten, die alkoholisiert war). Auch hier lag der Fokus der Beschwerde auf Verfahrensrügen und Schuldspruch; die Genugtuungshöhe wurde nicht eigenständig korrigiert. Der Entscheid setzt einen oberen Referenzpunkt für einmalige Vergewaltigungen in der aktuellen Praxis.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Genugtuungsbemessung bei Sexualdelikten, oberer Referenzpunkt).
 
 ---
 
@@ -363,3 +384,14 @@ revisions:
 - **Thema**: Bemessungsgrundsätze der Genugtuung / Sinngemässe Anwendung
 - **Kernaussage**: Festigung der Praxis, dass die Grundsätze von Art. 47/49 OR den massgebenden Rahmen für die Beurteilung immaterieller Schäden bilden.
 - **Einschlägig für**: Art. 47 / 49 OR (Bemessungsrahmen).
+
+---
+
+### 8. Kanton Jura (JU)
+
+#### [Tribunal cantonal du Jura, Cour administrative, ADM 2024 16 vom 2. September 2026](https://mcp.opencaselaw.ch/entscheid/ju_gerichte_ADM%202024%2016)
+- **Kanton**: Jura (Tribunal cantonal, Cour administrative)
+- **Thema**: Regress des öffentlich-rechtlichen Spitals gegen Angestellten bei Vergewaltigung einer Patientin / Genugtuungsbemessung CHF 15'000 / Beweislast des Regressklägers
+- **Zusprochener Betrag**: **CHF 15'000** (nebst 5 % Zins seit dem 20. Februar 2024)
+- **Kernaussage**: Das Hôpital du Jura hatte die Geschädigte aussergerichtlich mit CHF 80'000 entschädigt und regressiert den ehemaligen Pflegefachmann, der eine 18-jährige Patientin auf der Spitaltoilette vergewaltigt hatte. Das Gericht mass die Genugtuung nach Art. 49 Abs. 1 OR (über Art. 61 Abs. 1 OR als ergänzendes Bundesrecht eingezogen) im Rahmen des richterlichen Ermessens nach Art. 4 ZGB und setzte sie nach Präjudizienvergleich mit BGer 6B_712/2025 (CHF 15'000) und BGer 6B_559/2024 (CHF 8'000) auf CHF 15'000 fest. Alle weiteren Schadensposten (ärztliche Kosten, Erwerbsausfall, Anwaltskosten) wurden abgewiesen, weil der Regresskläger bei Abschluss der Vergleichsvereinbarung keine Belege gesichert hatte; Art. 42 Abs. 2 OR (richterliche Schätzung) greift nicht, wenn die Beweislosigkeit in der Sphäre des Klägers liegt. Der Kausalzusammenhang zwischen Vergewaltigung und Erwerbsausfall war mangels psychiatrischer Begutachtung der Geschädigten und bei widersprüchlichen medizinischen Berichten (PTBS vs. Borderline-Persönlichkeitsstörung) nicht hinreichend dargetan.
+- **Einschlägig für**: Art. 49 Abs. 1 OR (Genugtuungsbemessung bei sexueller Gewalt, Präjudizienvergleich, Beweislast bei aussergerichtlicher Vergleichsvereinbarung, Regress des öffentlich-rechtlichen Arbeitgebers).
