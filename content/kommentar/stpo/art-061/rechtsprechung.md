@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 61 StPO"
 weight: 99
 date: 2026-07-12
-lastmod: 2026-10-08
+lastmod: "2026-10-12"
 description: "Übersicht der Entscheide zu Art. 61 StPO – Zuständigkeit (Verfahrensleitung)"
 tags: ["Rechtsprechung", "StPO", "Verfahrensleitung", "Zuständigkeit"]
 agent_verified: false
 revisions:
+  - date: 2026-10-12
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "7B_1050/2026: Link von relevancy.bger.ch auf entscheidsuche.ch korrigiert; document_url via mcp__entscheidsuche__search_by_case_number verifiziert"
   - date: 2026-10-08
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -60,7 +65,7 @@ revisions:
 
 ### BGer 7B_1050/2026 — Zuständigkeit für Unterbringung im Sicherheitsvollzug
 - **Datum**: 23. September 2026
-- **URL**: [BGer 7B_1050/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_7B_1050/2026)
+- **URL**: [BGer 7B_1050/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1050-2026_2026-09-23.html)
 - **Thema**: Unterbringung im Sicherheitsvollzug (Einzelhaft) während Sicherheitshaft; Zuständigkeit Verfahrensleitung vs. Vollzugsbehörde; negativer Kompetenzkonflikt
 - **Kernaussage**: Art. 61 StPO regelt nur, wer in welchem Verfahrensstadium die Verfahrensleitung innehat, nicht aber, was diese inhaltlich umfasst. Der Verweis auf Art. 61 lit. c StPO begründet keine Zuständigkeit der Gerichtspräsidentin oder des Gerichtspräsidenten für die Einweisung eines strafprozessual Inhaftierten in den Sicherheitsvollzug. Die StPO enthält keine abschliessende Ordnung im Bereich des Vollzugs der Untersuchungs- und Sicherheitshaft (Art. 235 Abs. 5 StPO); weder der Schluss auf die Zuständigkeit der Verfahrensleitung noch der Umkehrschluss auf die Zuständigkeit der Vollzugsbehörden ist zwingend. Lässt sich die Zuständigkeit nicht dem Bundesrecht entnehmen, liegt deren Regelung in der kantonalen Organisationskompetenz (Art. 123 Abs. 2 BV); die Auslegung des kantonalen Rechts wird nur auf Willkür überprüft. Ein negativer Kompetenzkonflikt zwischen Verfahrensleitung und Vollzugsbehörde begründet die Beschwerdelegitimation der Staatsanwaltschaft, die die Interessen der tangierten, aber selbst nicht beschwerdebefugten Vollzugsbehörde vertritt (Art. 81 Abs. 1 lit. b Ziff. 3 BGG).
 - **Einschlägig für**: Art. 61 StPO; Art. 235 Abs. 5 StPO; Art. 123 Abs. 2 BV; Art. 81 Abs. 1 lit. b Ziff. 3 BGG; Sicherheitsvollzug; negativer Kompetenzkonflikt; kantonale Organisationskompetenz
