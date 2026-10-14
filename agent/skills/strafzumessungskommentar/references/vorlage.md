@@ -103,25 +103,9 @@ liegt}
 reduzierten Zuschlag oder über das Doppelverwertungsverbot. Bezifferte Asperationsregeln hier.
 Warnung, dass beides zusammen eine doppelte Entlastung wäre.}
 
-## D. {Was die Praxis nicht entlastet}
+## D. {Was in der Praxis nicht strafzumessungserheblich ist}
 
-**N n** {Negativbefunde mit Zitat: was ausdrücklich nicht strafmindernd wirkt.}
-
-## E. {Wo der Tatbestand scheitert}
-
-**N n** {Freispruch- und Einstellungsgründe, wenn ihre Quote auffällig ist — Verjährung,
-fehlende Absicht, Sonderdelikt/Art. 26 StGB.}
-
-## F. {Dogmatische Grenzen}
-
-**N n** {Nur Einwände, die den Schuldspruch als Ganzes zu Fall bringen: objektive
-Strafbarkeitsbedingung, Abgrenzung zur Übertretung, Kausalität.}
-
-## G. {Strafart, Vollzug und Verbindungsbusse}
-
-**N n** {Belegte Schwelle zwischen Geld- und Freiheitsstrafe, ausgedrückt in der wörtlichen
-Verschuldensbezeichnung. Bedingter/unbedingter Vollzug. Verbindungsbusse nach Art. 42 Abs. 4 StGB.
-Welcher Teil des Strafrahmens ungenutzt bleibt.}
+**N n** {Negativbefunde mit Zitat: was ausdrücklich nicht strafmindernd oder verschärfend wirkt.}
 
 {{< callout type="warning" >}}
 **Achtung: geändertes Recht** — {Altrechtsvorbehalt, insb. Höchstmass der Geldstrafe: nach
