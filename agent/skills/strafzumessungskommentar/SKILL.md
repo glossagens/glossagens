@@ -44,8 +44,7 @@ content/kommentar/{gesetz}/art-{nr}/
 | **dieser Skill** | Was kostet die Tat? (empirisch, induktiv, ausschliesslich aus belegten Strafwerten) |
 
 Der Strafzumessungskommentar wiederholt die Dogmatik **nicht**. Er nimmt sie nur dort auf, wo sie
-strafzumessungsrelevant ist — namentlich bei Einwänden, die den Schuldspruch insgesamt zu Fall
-bringen (objektive Strafbarkeitsbedingungen, Abgrenzung zur Übertretung, Verjährung).
+strafzumessungsrelevant ist.
 
 ## Rollendefinition
 
@@ -241,7 +240,7 @@ Lehrbuchsystematik. Leitfragen:
 - Gibt es eine bezifferte Asperationsregel (z. B. die «Drittelsregel» bei Art. 166 StGB)? Das ist
   regelmässig der praktisch verwertbarste Befund — als eigener Abschnitt mit «Befund»-Callout.
 - Welche Merkmale sind deliktsimmanent (R4)?
-- Was entlastet **nicht**? Nachträgliche Schuldentilgung, öffentlich-rechtliche Gläubiger,
+- Was spielt für die Strafzumessung ausdrücklich **keine** Rolle? Nachträgliche Schuldentilgung, öffentlich-rechtliche Gläubiger,
   nachträgliche Rekonstruierbarkeit — diese Negativbefunde sind für die Praxis so wertvoll wie die
   positiven und gehören in einen eigenen Abschnitt oder mit Richtung «—» ins Prüfraster.
 - Widersprechen sich Kantone? Dann beide Linien darstellen und die Konsequenz benennen (Beispiel:
@@ -274,15 +273,12 @@ Feste Reihenfolge; die mittleren Blöcke werden nach Befundlage gewählt.
 
 Variable Blöcke, je nach Befund und in dieser Reihenfolge:
 
-- **Asperation und Deckungsgleichheit** — wenn der Tatbestand typischerweise neben einem
-  schwereren Delikt steht (fast immer bei Wirtschaftsdelikten).
-- **Was die Praxis nicht entlastet** — wenn genügend Negativbefunde vorliegen.
-- **Wo der Tatbestand scheitert** — wenn die Freispruch-/Einstellungsquote auffällig ist.
-- **Dogmatische Grenzen** — nur Einwände, die den Schuldspruch als Ganzes betreffen (objektive
-  Strafbarkeitsbedingung, Abgrenzung zur Übertretung, Verjährung, Sonderdelikt/Art. 26 StGB).
-- **Strafart, Vollzug, Verbindungsbusse** — wenn sich eine Schwelle zwischen Geld- und
-  Freiheitsstrafe belegen lässt; hier auch der Altrechtsvorbehalt (R8).
-- **Täterkomponente** — nur wenn beziffert (Vorstrafen, Verfahrensdauer Art. 5 StPO, Geständnis).
+- **Asperation und Deckungsgleichheit** — Lage in der Praxis darstellen. Darstellen, ob die Strafe des fraglichen Tatbestands oft als Einsatz oder nur als Asperationsdelkt verwendet wird, wenn der Tatbestand typischerweise neben einem
+  schwereren Delikt steht (oft bei Wirtschaftsdelikten der Fall)
+- **Strafzumessungserhebliche Tatsachen** - welche Sachverhaltsmerkmale die Gerichte regelmässig als straferhöhend bzw. -vermindernd heranziehen. Wenn eruierbar, mit welchem Gewicht.
+- **Was in der Praxis nicht Strafzumessungserheblich ist** — was die Gerichte regelmässig als Strafzumessungsgsrund verwerfen
+- **Täterkomponente** — typische Täterkomponenten, die bei diesem Tatbestand oft eine Rolle spielen (Vorstrafen, Verfahrensdauer Art. 5 StPO, Geständnis).
+
 - **{Bezugsgrösse} und Strafmass: die Streubreite** — nur bei ≥ 10 Wertepaaren; Tabelle
   Betrag/Dauer → Strafe, aufsteigend, mit dem ausdrücklichen Befund, ob eine Linie erkennbar ist.
 
@@ -301,7 +297,7 @@ Seite maschinenlesbar fest. Ein solcher Hinweis im Artikel selbst ist Redundanz 
 den Prototypen auf strafzumessung.ch, wo er die Rubrik als Ganzes betrifft. Was in den Artikel
 gehört, sind die **inhaltlichen** Vorbehalte: der Trichter (R5) und der Abschnitt «Grenzen» (R6).
 
-Darüber: H1 = Deliktsbezeichnung (nicht «Art. X»), darunter eine Zeile
+Darüber: H1 = Deliktsbezeichnung (nicht «Art. X»), darunter eine Zeile (mit dem durch fedlex eruierten und verifizierten Strafrahmen)
 `Art. 166 StGB — Freiheitsstrafe bis zu drei Jahren oder Geldstrafe`.
 
 ## Randnoten
