@@ -1,29 +1,36 @@
 {
   "norm": "Art. 146 StGB",
-  "auswertungsstand": "2026-08-29",
-  "quelle": "entscheidsuche.ch, Volltextrecherche",
+  "auswertungsstand": "2026-10-14",
+  "quelle": "entscheidsuche.ch und systematisierte Urteilsdatenbank strafzumessung.ch (Wirtschaftskriminalität)",
   "trichter": {
     "normzitat_art_146_stgb": 1892,
     "schuldspruchformel_betrug": 395,
     "schuldspruchformel_gewerbsmaessig": 152,
     "schuldspruchformel_und_einsatzstrafe": 130,
     "schuldspruchformel_gewerbsm_und_einsatzstrafe": 78,
-    "kernkorpus_benannte_einsatzstrafe": 53,
-    "volltext_ausgewertet": 53,
-    "verfahren_nach_bereinigung": 50,
-    "strafwerte_belegt": 45,
-    "asperationszuschlaege_belegt": 15
+    "kernkorpus_benannte_einsatzstrafe": 83,
+    "volltext_ausgewertet": 83,
+    "verfahren_nach_bereinigung": 80,
+    "strafwerte_belegt": 75,
+    "asperationszuschlaege_belegt": 15,
+    "neu_hinzugefuegt_strafzumessung_ch": 30
   },
   "verteilung": {
-    "ZH": 25,
+    "ZH": 38,
     "CH_Bund": 16,
-    "BL": 4,
-    "BS": 4,
-    "BE": 2,
-    "AG": 1,
-    "SZ": 1,
+    "BL": 6,
+    "BS": 5,
+    "BE": 4,
+    "AG": 3,
+    "SZ": 3,
+    "GE": 3,
+    "VD": 1,
+    "SO": 1,
+    "TI": 1,
     "sprache": {
-      "de": 53
+      "de": 78,
+      "fr": 4,
+      "it": 1
     }
   },
   "rechtsaenderung": {
@@ -202,6 +209,136 @@
       "ausgesprochen": "20 Mt FS + Busse Fr. 1'000",
       "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB120286_2013-02-15.pdf",
       "is_pdf": true
+    },
+    {
+      "entscheid": "BG Meilen / OG ZH SB250018",
+      "datum": "2024-10-16",
+      "grad": "leicht",
+      "wert": "60 TS",
+      "ausgesprochen": "180 TS bedingt",
+      "betrag": "CHF 904 (Online-Warenbestellungen)",
+      "url": "https://strafzumessung.ch/vmurteil/297",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "KG SZ STK 2025 41",
+      "datum": "2026-04-15",
+      "grad": "leicht",
+      "wert": "70 TS",
+      "ausgesprochen": "70 TS bedingt",
+      "betrag": "CHF 20'000 (COVID-19-Kredit)",
+      "url": "https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2025-41_2026-04-15.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 23 58",
+      "datum": "2023-12-05",
+      "grad": "leicht bis mittelschwer",
+      "wert": "12 Monate",
+      "ausgesprochen": "14 Mt FS bedingt (Asperation +2 Mt)",
+      "betrag": "CHF 45'000 (Corona-Kredit)",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-2023-58_2023-12-05.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "WStG / OG BE SK 19 88",
+      "datum": "2018-12-21",
+      "grad": "mittelschwer",
+      "wert": "120 TS",
+      "ausgesprochen": "150 TS bedingt (Asperation +30 TS)",
+      "betrag": "CHF 54'000 (Kreditbetrug mit gefälschtem Lohnausweis)",
+      "url": "https://strafzumessung.ch/vmurteil/613",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG ZH DG240120",
+      "datum": "2025-01-24",
+      "grad": "keineswegs leicht",
+      "wert": "15 Monate",
+      "ausgesprochen": "24 Mt FS bedingt",
+      "betrag": "CHF 124'620 (Fakturenfälschung Schleiferei)",
+      "url": "https://strafzumessung.ch/vmurteil/328",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG AG SST.2022.310",
+      "datum": "2023-10-23",
+      "grad": "erheblich",
+      "wert": "12 Monate (Tatkomponente)",
+      "ausgesprochen": "18 Mt FS bedingt (Geständnisrabatt)",
+      "betrag": "CHF 240'000 (COVID-19-Kredit)",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2022-310_2023-10-23.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG SO STBER.2022.48",
+      "datum": "2023-08-31",
+      "grad": "noch leicht",
+      "wert": "12 Monate",
+      "ausgesprochen": "15 Mt FS bedingt (Asperation +3 Mt)",
+      "betrag": "CHF 300'000 (COVID-19-Kredit)",
+      "url": "https://entscheidsuche.ch/docs/SO_Omni/SO_OG_006_STBER-2022-48_2023-08-31.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "TC VD PE20.009554",
+      "datum": "2024-09-19",
+      "grad": "sehr schwer (lourde)",
+      "wert": "18 Monate",
+      "ausgesprochen": "18 Mt FS teilbedingt (6 Mt vollziehbar)",
+      "betrag": "CHF 331'217 (Crédit COVID-19)",
+      "url": "https://entscheidsuche.ch/docs/VD_FindInfo/VD_TC_003_PE20-009554_2024-09-19.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "TP GE P/15263/2020",
+      "datum": "2021-05-07",
+      "grad": "erheblich",
+      "wert": "24 Monate",
+      "ausgesprochen": "36 Mt FS teilbedingt (18 Mt vollziehbar)",
+      "betrag": "CHF 440'000 (COVID-19-Kredite und Leasing)",
+      "url": "https://entscheidsuche.ch/docs/GE_Gerichte/GE_TP_001_P-15263-2020_2021-05-07.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "AppG BS SB.2021.117",
+      "datum": "2023-01-24",
+      "grad": "nicht mehr leicht",
+      "wert": "12 Monate",
+      "ausgesprochen": "12 Mt FS bedingt",
+      "betrag": "CHF 443'276 (Kreditbetrug/Bonitätstäuschung)",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_SB-2021-117_2023-01-24.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG Dietikon / OG ZH SB230249",
+      "datum": "2022-10-12",
+      "grad": "nicht mehr leicht",
+      "wert": "16 Monate",
+      "ausgesprochen": "22 Mt FS teilbedingt (10 Mt vollziehbar)",
+      "betrag": "CHF 500'000 (Darlehensbetrug)",
+      "url": "https://strafzumessung.ch/vmurteil/262",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG AG SST.2024.236",
+      "datum": "2025-12-05",
+      "grad": "erheblich / schwer",
+      "wert": "36 Monate",
+      "ausgesprochen": "42 Mt FS unbedingt + 5 J. LV",
+      "betrag": "CHF 500'000 (COVID-19-Kreditbetrug)",
+      "url": "https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-236_2025-12-05.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "TC GE P/9374/2021",
+      "datum": "2025-05-09",
+      "grad": "erheblich",
+      "wert": "30 Monate",
+      "ausgesprochen": "30 Mt FS teilbedingt (15 Mt vollziehbar)",
+      "betrag": "CHF 1'024'659 (Darlehens- und Investitionsbetrug)",
+      "url": "https://strafzumessung.ch/vmurteil/417",
+      "is_pdf": false
     }
   ],
   "werte_abs2": [
@@ -470,6 +607,176 @@
       "altrecht": true,
       "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1179-2013_2014-08-28.html",
       "is_pdf": false
+    },
+    {
+      "entscheid": "OG BE SK 20 109",
+      "datum": "2021-08-10",
+      "grad": "erheblich",
+      "wert": "15 Monate",
+      "ausgesprochen": "15 Mt FS unbedingt (Vorstrafen)",
+      "betrag": "CHF 58'996 (über 70 Online-Bestellungen unter Alias)",
+      "url": "https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2020-109_2021-08-10.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "BG ZH / OG ZH SB200291",
+      "datum": "2020-05-06",
+      "grad": "erheblich",
+      "wert": "30 Monate",
+      "ausgesprochen": "30 Mt FS unbedingt",
+      "betrag": "CHF 116'000 (Falscher CEO Vermögensverwaltung)",
+      "url": "https://strafzumessung.ch/vmurteil/54",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG Winterthur / OG ZH SB180525",
+      "datum": "2018-07-12",
+      "grad": "mittelschwer bis schwer",
+      "wert": "24 Monate",
+      "ausgesprochen": "30 Mt FS unbedingt",
+      "betrag": "CHF 135'600 (Betrug an 74-jähriger Rentnerin)",
+      "url": "https://strafzumessung.ch/vmurteil/140",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG Dietikon DG240040",
+      "datum": "2025-07-08",
+      "grad": "nicht mehr leicht (Gehilfenschaft)",
+      "wert": "16 Monate",
+      "ausgesprochen": "16 Mt FS bedingt",
+      "betrag": "CHF 150'000 (Kurier/Abholer bei Schockanrufen)",
+      "url": "https://strafzumessung.ch/vmurteil/329",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG ZH DG240012",
+      "datum": "2024-03-21",
+      "grad": "gerade noch leicht (Abholerin)",
+      "wert": "27 Monate",
+      "ausgesprochen": "27 Mt FS teilbedingt (9 Mt vollziehbar)",
+      "betrag": "CHF 160'000 (Schockanrufe/falsche Polizistin, teils Versuch)",
+      "url": "https://strafzumessung.ch/vmurteil/263",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG Uster / OG ZH SB200075",
+      "datum": "2019-11-14",
+      "grad": "eher leicht",
+      "wert": "24 Monate",
+      "ausgesprochen": "36 Mt FS teilbedingt (12 Mt vollziehbar)",
+      "betrag": "CHF 163'284 (Kreditvermittlung über GmbH)",
+      "url": "https://strafzumessung.ch/vmurteil/187",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "KG SZ STK 2024 11",
+      "datum": "2025-09-23",
+      "grad": "mittelschwer",
+      "wert": "30 Monate",
+      "ausgesprochen": "42 Mt FS unbedingt (Asperation/Widerruf)",
+      "betrag": "CHF 211'000 (Gewerbsmässiger Betrug und COVID-Kredite)",
+      "url": "https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2024-11_2025-09-23.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "KG BL 460 23 247",
+      "datum": "2024-09-25",
+      "grad": "schwer",
+      "wert": "48 Monate",
+      "ausgesprochen": "48 Mt FS unbedingt",
+      "betrag": "CHF 315'000 (Anlagebetrug Devisen/Trading)",
+      "url": "https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-2023-247_2024-09-25.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "TPC TI 72.2020.88",
+      "datum": "2020-07-15",
+      "grad": "di una certa gravità",
+      "wert": "32 Monate",
+      "ausgesprochen": "32 Mt FS teilbedingt (16 Mt vollziehbar; Beschleunigungsgebot)",
+      "betrag": "CHF 325'362 (Truffa per mestiere con crediti e falsi)",
+      "url": "https://entscheidsuche.ch/docs/TI_Gerichte/TI_TPC_001_72-2020-88_2020-07-15.html",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG ZH / OG ZH SB190567",
+      "datum": "2019-08-28",
+      "grad": "nicht mehr leicht",
+      "wert": "30 Monate",
+      "ausgesprochen": "45 Mt FS unbedingt (Asperation)",
+      "betrag": "CHF 474'000 (Vortäuschen von Immobilienprojekten)",
+      "url": "https://strafzumessung.ch/vmurteil/101",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "BG ZH / OG ZH SB190367",
+      "datum": "2019-06-24",
+      "grad": "keineswegs leicht",
+      "wert": "34 Monate",
+      "ausgesprochen": "34 Mt FS teilbedingt (12 Mt vollziehbar)",
+      "betrag": "CHF 723'432 (Anlagebetrug Trading)",
+      "url": "https://strafzumessung.ch/vmurteil/142",
+      "is_pdf": false
+    },
+    {
+      "entscheid": "OG ZH SB200048",
+      "datum": "2020-10-21",
+      "grad": "mittelschwer",
+      "wert": "30 Monate",
+      "ausgesprochen": "48 Mt FS unbedingt (Asperation)",
+      "betrag": "CHF 815'000 (Investmentgesellschaft)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200048_2020-10-21.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB210341",
+      "datum": "2022-03-29",
+      "grad": "keinesfalls leicht",
+      "wert": "36 Monate",
+      "ausgesprochen": "32 Mt FS teilbedingt (-4 Mt Art. 5 StPO)",
+      "betrag": "CHF 1'300'000 (Aktienemissionen)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210341_2022-03-29.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB220034",
+      "datum": "2024-05-03",
+      "grad": "mittelschwer",
+      "wert": "36 Monate",
+      "ausgesprochen": "36 Mt FS teilbedingt + 360 TS Geldstrafe",
+      "betrag": "CHF 3'981'700 (Rohstoff- und Goldhandelsanlage)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB220034_2024-05-03.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "CJ GE AARP/149/2021",
+      "datum": "2021-02-05",
+      "grad": "très lourd",
+      "wert": "42 Monate",
+      "ausgesprochen": "42 Mt FS unbedingt + 5 J. LV",
+      "betrag": "CHF 6'500'000 (Investitionsfonds/Anlagebetrug)",
+      "url": "https://entscheidsuche.ch/docs/GE_Gerichte/GE_CJ_009_P-17564-2011_2021-02-05.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB220648",
+      "datum": "2024-05-23",
+      "grad": "sehr schwer",
+      "wert": "72 Monate (Einsatzstrafe 6 Jahre)",
+      "ausgesprochen": "80 Mt FS unbedingt (neuer Spitzenwert)",
+      "betrag": "CHF 19'000'000 (Schneeballsystem über 140 Anleger)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB220648_2024-05-23.pdf",
+      "is_pdf": true
+    },
+    {
+      "entscheid": "OG ZH SB240074",
+      "datum": "2025-11-11",
+      "grad": "schwer bis sehr schwer",
+      "wert": "7½ Jahre (hypothetisch)",
+      "ausgesprochen": "72 Mt (6 Jahre) FS unbedingt + 10 J. LV (Verschlechterungsverbot)",
+      "betrag": "CHF 74'174'251 (Ponzi-Scheme 67 Privatanleger)",
+      "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240074_2025-11-11.pdf",
+      "is_pdf": true
     }
   ],
   "asperationszuschlaege": [
