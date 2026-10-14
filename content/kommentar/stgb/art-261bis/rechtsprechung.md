@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
     mcp_verified: true
+    note: "Aufnahme von BGer 6B_624/2025 vom 29. September 2026 (Fünferbesetzung): WhatsApp-Gruppen als öffentlicher Raum, Rechtfertigung der Shoah («they deserved it»), Ausschluss des Provokations- und Scherzeinwands sowie verfassungsrechtliche Stufenfolge der Urteilsbegründung (Art. 112 Abs. 3 BGG)."
+  - date: 2026-10-14
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash (Medium)"
+    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsübersicht zu Art. 261bis StGB. Sämtliche Entscheide im Volltext über entscheidsuche.ch gesichtet und mit Original-URLs verlinkt. Kernaussagen und Sachverhalte verbatim auf die massgeblichen Erwägungen abgestützt."
 ---
 
@@ -113,6 +118,18 @@ Die Rechtsprechung zu Art. 261bis StGB präzisiert die Reichweite der Strafnorm 
 ---
 
 ## II. Weitere Entscheide (Bundesgericht und Kantone)
+
+### [BGer 6B_624/2025 vom 29. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025) (Fünferbesetzung) — E. 1–3
+
+- **Thema**: Rechtfertigung und Leugnung des Holocausts auf WhatsApp (Abs. 4 Satz 2); Schutzbehauptung «blosse Provokation» oder «Amüsement» schliesst diskriminierenden Beweggrund nicht aus; Öffentlichkeit grosser Messenger-Gruppen; Stufenfolge der richterlichen Begründung (Art. 112 Abs. 3 BGG).
+- **Sachverhalt**: In der Nacht vom 22./23. März 2023 tauschten Gymnasiasten im Kanton Waadt in verschiedenen WhatsApp-Gruppen rassistische Botschaften aus. Der Beschuldigte B. (Intimé 2) postete in einer Chatgruppe mit mehreren Dutzend Mitgliedern ein Foto eines Hakenkreuzes sowie eine Montage des Musikers Kanye West mit den Aufschriften «it never happened» (Holocaustleugnung) und «they deserved it» (Rechtfertigung der Shoah). Erstinstanzlich zu einer bedingten Geldstrafe verurteilt, sprach ihn die Cour d'appel pénale VD frei, da er lediglich habe «provozieren» und sich «amüsieren» wollen. Der Mitbeschuldigte A. (Intimé 1) postete in einer Schulgruppe mit rund 250 Mitgliedern rassistische Aussagen («Tg la tamoul», «Métisse remtre chez toi», «Ça c un bon noir»). Die Vorinstanz verneinte bei A. den Vorsatz, ohne den objektiven Gehalt der Äusserungen zu klären. Die Staatsanwaltschaft führte Beschwerde ans Bundesgericht.
+- **Kernaussage**:
+  - *Intrinsischer diskriminierender Gehalt*: Bei der Leugnung und Rechtfertigung des Holocausts («they deserved it»), verknüpft mit Hakenkreuz-Symbolik, ist der diskriminierende Beweggrund praktisch unausweichlich (E. 2.1).
+  - *Kein Straflosigkeitsgrund «Provokation» oder «Amüsement»*: Wer Völkermord leugnet oder verherrlicht, kann sich nicht darauf berufen, bloss aus Spass, Zynismus oder Provokationslust gehandelt zu haben. Das Bundesgericht überträgt seine Grundsätze zu satirischen und humoristischen Darbietungen ([BGE 149 IV 170](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-170_2023.html)) vollumfänglich auf digitale Netzwerke und Messenger: Das Motiv, sich zu amüsieren, schliesst den Vorsatz nach Art. 261bis Abs. 4 StGB nicht aus. Der Freispruch von B. war willkürlich; er ist schuldig zu sprechen (E. 2.2, 2.3).
+  - *Öffentlichkeit von Chatgruppen*: WhatsApp-Gruppen mit mehreren Dutzend Teilnehmern oder gar rund 250 Mitgliedern erfüllen nach den Kriterien von [BGE 130 IV 111](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-111_2004.html) das Erfordernis der Öffentlichkeit (E. 3).
+  - *Prüfungsreihenfolge und Art. 112 Abs. 3 BGG*: Bezüglich A. verletzte die Vorinstanz die verfassungsrechtliche Begründungspflicht: Ein Gericht darf die subjektive Seite nicht isoliert verneinen, ohne zuvor nach dem Empfängerhorizont objektiv geklärt zu haben, ob die Äusserungen den Tatbestand von Art. 261bis StGB erfüllen (E. 1.2).
+- **Ausgang**: Gutheissung der Beschwerde der Staatsanwaltschaft; Schuldspruch von B. wegen Art. 261bis Abs. 4 StGB und Rückweisung zur Strafzumessung; Aufhebung des Freispruchs von A. zur Neubeurteilung.
+- **Einschlägig für**: Abs. 4 Satz 2 (Rechtfertigung und Leugnung); WhatsApp-Gruppen (Öffentlichkeit); Motiv «Provokation/Amüsement»; Art. 112 Abs. 3 BGG.
 
 ### [BGer 6B_1477/2022 vom 24. April 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1477-2022_2024-04-24.html) — E. 3.4, E. 4.4, E. 4.5
 

@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
     mcp_verified: true
+    note: "Einarbeitung des Grundsatzentscheids BGer 6B_624/2025 vom 29. September 2026 (Fünferbesetzung): Holocaust-Rechtfertigung und -Leugnung in WhatsApp-Gruppen («they deserved it» / «it never happened»); Ausschluss der Schutzbehauptung «blosse Provokation» oder «Amüsement» unter Verweis auf BGE 149 IV 170; Bestätigung der Öffentlichkeit grosser Messenger-Gruppen nach BGE 130 IV 111; strikte richterliche Prüfungsreihenfolge (Art. 112 Abs. 3 BGG)."
+  - date: 2026-10-14
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash (Medium)"
+    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar. Gesetzeswortlaut verbatim nach Fedlex (SR 311.0, Stand 1. Oktober 2026). Volltextrecherche und Verifikation aller Leit- und Praxisentscheide über entscheidsuche.ch. Sämtliche Bundesgerichts- und kantonalen Entscheide mit Original-URLs verlinkt. Zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) für alle Kerntatbestände sowie empirische Vergleiche und Praxishinweise für Verteidigung, Privatklägerschaft und Strafverfolgungsbehörden eingearbeitet."
 ---
 
@@ -135,10 +140,11 @@ Ob dieses persönliche Vertrauensverhältnis vorliegt, beurteilt sich nach den k
 #### 2. Grenzkasuistik: Öffentlichkeit bejaht vs. verneint
 
 - **Waldhütte mit 40–50 geladenen Teilnehmern (Öffentlichkeit bejaht)**: An einem Vortrag in einer Waldhütte nahmen 40 bis 50 geladene Personen aus der Skinhead-Szene teil. Das Bundesgericht verwarf die Ansicht, eine geschlossene Versammlung mit Einlasskontrolle sei privat: Bei einer Gruppe von 40 bis 50 Personen, die verschiedenen Gruppierungen angehören, besteht kein persönliches Vertrauensverhältnis mehr; die Zusammenkunft war öffentlich ([BGE 130 IV 111 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-111_2004.html)).
+- **WhatsApp- und Messenger-Gruppen ab mehreren Dutzend Mitgliedern (Öffentlichkeit bejaht)**: Das Posten von Inhalten in einer WhatsApp-Gruppe mit mehreren Dutzend Mitgliedern oder in Grossgruppen mit rund 250 Teilnehmern (z.B. Schul- oder Gymnasialgruppen) gilt als öffentlich. Ein persönliches Vertrauensverhältnis im Sinne des engen privaten Rahmens besteht bei solchen Mitgliederzahlen nicht ([BGer 6B_624/2025 vom 29. September 2026 E. 3](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025)).
 - **Soziale Netzwerke und Internet (Öffentlichkeit bejaht)**: Beiträge auf öffentlich einsehbaren Facebook-Profilen, Internetforen oder Videoplattformen (YouTube) sind ohne Weiteres öffentlich ([BGE 150 IV 292 E. 1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-292_2024.html); [BGE 148 IV 188 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-188_2022.html); [BGer 6B_1477/2022 E. 1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1477-2022_2024-04-24.html)).
 - **Ladenlokal ohne Schaufensterauslage (Öffentlichkeit verneint)**: Ein Genfer Buchhändler bewahrte weniger als zehn Exemplare eines revisionistischen Buches an einem für Kunden nicht einsehbaren Ort auf und verkaufte diese nur auf gezielte Einzelnachfrage ohne Werbung. Das Bundesgericht verneinte die Öffentlichkeit: Der blosse Verkauf im gewerblichen Raum ohne Werbewirkung auf das allgemeine Publikum erfüllt das Erfordernis nicht ([BGE 126 IV 230 E. 2b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-126-IV-230_2000-08-23.html)).
 
-> **Leitsatz.** Öffentlich sind alle Äusserungen und Handlungen, die nicht im engen Kreis von Familie, Freunden oder persönlich Vertrauten erfolgen. Bei Zusammenkünften von mehr als rund 30 bis 40 Personen schliesst die Gruppengrösse den privaten Rahmen regelmässig aus.
+> **Leitsatz.** Öffentlich sind alle Äusserungen und Handlungen, die nicht im engen Kreis von Familie, Freunden oder persönlich Vertrauten erfolgen. Bei Zusammenkünften oder digitalen Chatgruppen von mehr als rund 30 bis 40 Personen schliesst die Gruppengrösse den privaten Rahmen regelmässig aus.
 
 ---
 
@@ -241,7 +247,15 @@ Während das Bundesgericht in älteren Entscheiden die Bestreitung des Völkermo
 
 Bei historischen Ereignissen ausserhalb des Holocausts muss die Anklage nachweisen, dass die Bestreitung oder Verharmlosung von einem **rassistischen bzw. diskriminierenden Motiv** getragen war. Eine rein wissenschaftliche, historische oder völkerrechtliche Diskussion ohne Hetze gegen die geschützte Gruppe ist durch Art. 10 EMRK und Art. 16 BV geschützt ([BGE 145 IV 23 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-23_2019.html)).
 
-> **Leitsatz.** Die Leugnung des Holocausts ist stets als Angriff auf die Menschenwürde strafbar; bei anderen Völkermorden verlangt Art. 261bis Abs. 4 Satz 2 StGB im Lichte von Art. 10 EMRK den strikten Nachweis eines rassistischen Beweggrunds.
+#### 3. Rechtfertigung von Völkermord («they deserved it») und Schutzbehauptung «blosse Provokation»
+
+In [BGer 6B_624/2025 vom 29. September 2026 E. 2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025) (Fünferbesetzung) präzisierte das Bundesgericht die Tatvariante des *Rechtfertigens* (Abs. 4 Satz 2). Ein Gymnasiast hatte in einer WhatsApp-Gruppe ein Hakenkreuzbild sowie ein Meme mit den Schriftzügen «it never happened» (Leugnung) und «they deserved it» (Rechtfertigung des Völkermords an den Juden) geteilt. Die Vorinstanz hatte ihn freigesprochen, weil er nicht aus rassistischer Gesinnung gehandelt, sondern lediglich habe provozieren und sich amüsieren wollen («esprit de provocation», «pour s'amuser»).
+
+Das Bundesgericht hob den Freispruch als willkürlich auf:
+- **Intrinsischer diskriminierender Gehalt**: Die Behauptung, die Opfer hätten die Vernichtung verdient («they deserved it»), verbunden mit der Leugnung («it never happened») und einem Hakenkreuz, rechtfertigt die Shoah in unmissverständlicher Weise. Bei einer derartigen Kombination ist das diskriminierende Motiv der Tat immanent.
+- **Kein Straflosigkeitsgrund «Scherz» oder «Provokation»**: Wer Völkermord leugnet oder rechtfertigt, kann sich nicht darauf berufen, bloss aus Spass, Zynismus oder Provokationslust gehandelt zu haben. Das Bundesgericht übertrug seine Rechtsprechung aus [BGE 149 IV 170 E. 1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-170_2023.html) (Dieudonné) ausdrücklich auf soziale Netzwerke und Messenger-Dienste: Ein humoristisches, satirisches oder provokatives Motiv beseitigt weder den objektiven Tatbestand noch den subjektiven Diskriminierungswillen.
+
+> **Leitsatz.** Die Leugnung des Holocausts ist stets als Angriff auf die Menschenwürde strafbar; die Rechtfertigung der Shoah («they deserved it») trägt das diskriminierende Motiv in sich. Die Schutzbehauptung, bloss aus «Provokationslust» oder zum «Amüsement» gehandelt zu haben, schliesst die Strafbarkeit nach Art. 261bis Abs. 4 Satz 2 StGB nicht aus.
 
 ---
 
@@ -282,7 +296,11 @@ Das Kantonsgericht St. Gallen entschied, dass das blosse Anklicken des Facebook-
 
 Veröffentlicht ein Täter ein Video oder einen Post im Internet, dürfen die Kommentare und Reaktionen der Internetnutzer als Indiz herangezogen werden, um nachzuweisen, dass der Inhalt von einem unbefangenen Publikum objektiv im hassschürenden Sinn verstanden wurde ([BGE 150 IV 292 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-292_2024.html)).
 
-> **Leitsatz.** Der Betreiber eines Social-Media-Profils haftet für rassistische Drittkommentare erst ab dem Moment, in dem er positive Kenntnis von den rechtswidrigen Inhalten erlangt und diese dennoch nicht löscht.
+#### 4. WhatsApp- und Messenger-Gruppen: Meme-Kultur und die Illusion des geschützten Raums
+
+In [BGer 6B_624/2025 vom 29. September 2026 E. 2–3](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025) erteilte das Bundesgericht der in Chats und auf Social Media verbreiteten Praxis eine Absage, rassistische oder revisionistische Bildmontagen unter dem Deckmantel von «schwarzem Humor» oder Provokationslust zu verbreiten. Das Posten von Hakenkreuzen und Parolen wie «they deserved it» in Chatgruppen mit Dutzenden oder Hunderten Teilnehmern erfüllt Art. 261bis Abs. 4 StGB: Weder begründet die Gruppengrösse einen privaten Raum noch schliesst das angebliche Motiv, sich lediglich amüsieren oder provozieren zu wollen («pour s'amuser»), den subjektiven Diskriminierungswillen aus.
+
+> **Leitsatz.** Der Betreiber eines Social-Media-Profils haftet für rassistische Drittkommentare erst ab dem Moment, in dem er positive Kenntnis von den rechtswidrigen Inhalten erlangt und diese dennoch nicht löscht. In Messenger-Gruppen ab mehreren Dutzend Mitgliedern gilt das Merkmal der Öffentlichkeit als erfüllt; Schutzbehauptungen jugendlicher Provokationslust schützen nicht vor Bestrafung.
 
 ---
 
@@ -311,6 +329,10 @@ In der Praxis scheitern Rechtsmittel von Betroffenen regelmässig an der Parteis
 - **Ausschluss von Verbänden**: Antirassismus-Organisationen und NGOs haben im schweizerischen Strafprozess keine Verbandsklagebefugnis und können keine Parteirechte beanspruchen ([BGE 125 IV 206 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-IV-206_1999-08-10.html); [ZG OG BS 2022 10 E. 1.3](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_003_BS-2022-10_2022-09-06.pdf)).
 - **Ausnahme bei Individualangriffen**: Richtet sich die Schmähung gegen eine namentlich bezeichnete oder individualisierbare Person (wie bei [BGE 150 IV 292](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-292_2024.html)) oder liegt eine persönliche Leistungsverweigerung nach Abs. 5 vor ([Strafgericht AG SST.2025.194 E. 1.2](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-194_2026-02-03.pdf)), ist die Geschädigtenstellung gegeben.
 
+#### 3. Stufenfolge der Urteilsbegründung: Vorrang der objektiven Tatbestandsprüfung (Art. 112 Abs. 3 BGG)
+
+Nach [BGer 6B_624/2025 vom 29. September 2026 E. 1.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025) ist es verfassungs- und bundesrechtswidrig, wenn ein Gericht die subjektive Tatseite verneint, ohne zuvor den objektiven Sinngehalt der beanstandeten Äusserungen festgestellt zu haben. Die richterliche Prüfung verlangt zwingend, dass zuerst nach dem objektiven Empfängerhorizont geklärt wird, ob die Worte oder Bilder überhaupt den Tatbestand einer Diskriminierung erfüllen. Erst anschliessend darf beurteilt werden, ob der Täter mit Vorsatz und diskriminierendem Beweggrund handelte. Ein Urteil, das die objektive Prüfung überspringt und sofort mangelnden Vorsatz behauptet, verletzt Art. 112 Abs. 3 BGG und unterliegt der Aufhebung.
+
 ---
 
 ## Kantonale Praxisfragen
@@ -334,6 +356,7 @@ Ein wesentliches Hindernis für die Strafverfolgung bildet die strenge kantonale
 3. Bei Vorwürfen nach Abs. 2 (Verbreiten von Ideologien / Zeigen des Hitlergrusses) geltend machen, dass das blosse Bekenntnis unter Gleichgesinnten mangels werbender Beeinflussung Dritter straflos ist ([BGE 140 IV 102 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-102_2014.html)).
 4. Als Profilinhaber auf Social Media darlegen, dass keine positive Kenntnis von Kommentaren Dritter vorlag; eine präventive Überwachungspflicht existiert nicht ([BGE 148 IV 188 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-188_2022.html)).
 5. In der politischen Debatte auf den Schutzbereich von Art. 16 BV und Art. 10 EMRK pochen; pointierte Kritik an Überzeugungen oder Gebräuchen ist zulässig, solange den Menschen nicht das Existenzrecht abgesprochen wird ([BGE 148 IV 113 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-113_2022.html)).
+6. Keine Ausflucht auf «blosse Provokation» oder «jugendlichen Scherz»: Bei geteilten Holocaust-Memes, Hakenkreuzen oder Texten wie «they deserved it» ist die Verteidigungsbehauptung, man habe lediglich provozieren («esprit de provocation») oder sich amüsieren wollen («pour s'amuser»), nach [BGer 6B_624/2025 E. 2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025) aussichtslos.
 
 **Für die Privatklägerschaft und Anzeigeerstattende:**
 
@@ -348,6 +371,7 @@ Ein wesentliches Hindernis für die Strafverfolgung bildet die strenge kantonale
 2. Bei Social-Media-Ermittlungen den Nachweis führen, wann der Kontoinhaber von Drittkommentaren Kenntnis erlangt hat (z.B. durch Benachrichtigungen, Direktnachrichten oder Kommentarantworten) ([BGE 148 IV 188 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-188_2022.html)).
 3. Bei Genozidleugnungen ausserhalb des Holocausts zwingend den rassistischen bzw. diskriminierenden Beweggrund im Sinne von Art. 10 EMRK und [BGE 145 IV 23 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-23_2019.html) ermitteln und begründen.
 4. Bei Verurteilungen nach Abs. 5 beachten, dass eine Kaufpreisrückerstattung den Tatbestand der Leistungsverweigerung nicht heilt ([Strafgericht AG SST.2025.194 E. 5.2.2](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-194_2026-02-03.pdf)).
+5. Strikte Stufenfolge der richterlichen Begründung (Art. 112 Abs. 3 BGG): Das Gericht darf die subjektive Tatseite nicht isoliert verneinen, ohne zuvor den objektiven Gehalt der Äusserung nach dem durchschnittlichen Empfängerhorizont fixiert zu haben ([BGer 6B_624/2025 E. 1.2](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_624/2025)).
 
 ---
 
