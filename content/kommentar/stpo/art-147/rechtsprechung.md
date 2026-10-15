@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
+    note: "Aufnahme von CREP VD 736 vom 23. September 2026 (Causa Dittli): Vor der Eröffnung erstellter Administrativbericht unterliegt nicht Art. 147 StPO und keinem Verwertungsverbot nach Art. 141 StPO; Abgrenzung zu CREP VD 652."
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
     note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Unzulässigkeit der Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten; Bestätigung der absoluten Unverwertbarkeit nach BGE 150 IV 345 und sofortige Aktenaussonderung."
   - date: 2026-09-04
     by: "Antigravity Agent"
@@ -195,6 +200,14 @@ revisions:
 
 ---
 
+### [Chambre des recours pénale VD 736](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_9a076b18-6911-4fe9-b1e4-2dd1a305ea08) — 23. September 2026
+**Vor der Verfahrenseröffnung erstellter externer Administrativbericht untersteht nicht Art. 147 StPO; kein Verwertungsverbot nach Art. 141 StPO**
+- **Sachverhalt**: Im Zusammenhang mit denselben Ereignissen (Verdacht auf Amtsdelikte im Departement von Staatsrätin Dittli) hatte der Staatsrat des Kantons Waadt vor Einreichung der Strafanzeige einen externen Expertenbericht («rapport C.________») über Mandatsvergaben in Auftrag gegeben. Dieser Bericht wurde zu den Akten der Strafuntersuchung genommen. Die Beschuldigte verlangte gestützt auf Art. 147 und Art. 141 StPO die physische Aussonderung des Berichts aus dem Strafdossier mit der Begründung, sie habe an den Befragungen von Auskunftspersonen im Rahmen der administrativen Untersuchung nicht teilnehmen können.
+- **Kernaussage**: Art. 147 Abs. 1 StPO garantiert Teilnahmerechte ausschliesslich bei Beweiserhebungen durch die Staatsanwaltschaft und die Gerichte *nach* formeller oder materieller Eröffnung des Strafverfahrens (*e contrario*; vgl. BGE 144 IV 81 E. 2.3.1, BGE 143 IV 397 E. 3.3.2). Vor der Eröffnung einer Strafuntersuchung entfaltet Art. 147 StPO keine Geltung. Ein vorgängig durch eine Verwaltungsbehörde veranlasster Untersuchungsbericht unterliegt daher keinem Beweisverwertungsverbot nach Art. 141 StPO und muss nicht ausgesondert werden. Er darf vollumfänglich als Erkenntnisquelle für das Vorliegen eines hinreichenden Tatverdachts (Art. 309 Abs. 1 lit. a StPO) herangezogen werden; sein Beweiswert im späteren Strafprozess unterliegt der freien richterlichen Beweiswürdigung (Art. 10 Abs. 2 StPO).
+- **Einschlägig für**: Art. 147 Abs. 1 StPO, Art. 141 StPO, Art. 309 Abs. 1 lit. a StPO.
+
+---
+
 ## IV. Top-Entscheide im Überblick
 
 | Nr | Entscheidung | Jahr | Kernthese |
@@ -214,6 +227,7 @@ revisions:
 | 13 | **LU 2N 14 83** | 2014 | Kein Anwesenheitsrecht der Verteidigung bei psychiatrischer Exploration (Art. 182 ff. StPO). |
 | 14 | **BS BES.2015.18** | 2015 | Taktische Verfahrenstrennung zur Umgehung von Art. 147 StPO ist rechtsmissbräuchlich. |
 | 15 | **VD CREP 652** | 2026 | Eröffnung «gegen unbekannt» umgeht Teilnahmerecht nicht; absolute Unverwertbarkeit (BGE 150 IV 345). |
+| 16 | **VD CREP 736** | 2026 | Vor Eröffnung erstellter Administrativbericht fällt nicht unter Art. 147 StPO; kein Verwertungsverbot. |
 
 ---
 

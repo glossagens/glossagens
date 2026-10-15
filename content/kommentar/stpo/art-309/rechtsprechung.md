@@ -11,6 +11,11 @@ revisions:
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
+    note: "Aufnahme von CREP VD 736 vom 23. September 2026 (Causa Dittli): Vor der Eröffnung erstellter Administrativbericht als Grundlage für hinreichenden Tatverdacht; keine Geltung von Art. 147 StPO vor formeller/materieller Eröffnung."
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
     note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Eröffnung «gegen unbekannt» bei namentlich bekannter verdächtigter Person unzulässig; deklaratorische Eröffnung und Zwangsmassnahmen."
 ---
 
@@ -50,6 +55,12 @@ revisions:
 - **Sachverhalt**: Nach einem externen Bericht über die Beziehungen zwischen der Departementsvorsteherin (Staatsrätin) und der Steuerverwaltung erstattete die Staatskanzlei eine Strafanzeige, in welcher die Staatsrätin namentlich genannt wurde. Die Staatsanwaltschaft eröffnete ein Strafverfahren formell «gegen unbekannt» und lud die Steuerdirektorin per Vorführungsbefehl als Auskunftsperson vor. Deren Einvernahme fand in Abwesenheit der Staatsrätin statt. Erst nach weiteren Einvernahmen und nach Einholen der parlamentarischen Verfolgungsermächtigung des Grossen Rates eröffnete die Staatsanwaltschaft formell gegen die Staatsrätin und verweigerte das Begehren um Aussonderung des Einvernahmeprotokolls der Auskunftsperson.
 - **Kernaussage**: Der Status der beschuldigten Person (Art. 111 Abs. 1 StPO) ist materiell-rechtlicher Natur und knüpft an die Intensität des Tatverdachts an; er kann durch eine formelle Eröffnung «gegen unbekannt» nicht umgangen werden. Ein Vorführungsbefehl ist eine Zwangsmassnahme (Art. 201 StPO), die hinreichenden Tatverdacht voraussetzt und die Untersuchung eröffnet (Art. 309 Abs. 1 lit. b StPO). Die Eröffnungsverfügung nach Art. 309 Abs. 3 StPO entfaltet lediglich deklaratorische Wirkung. Die Einvernahme der Belastungsperson verletzte Art. 147 Abs. 1 StPO und ist gemäss Art. 147 Abs. 4 StPO absolut unverwertbar; die Unverwertbarkeit kann durch spätere Wiederholung nicht geheilt werden (BGE 150 IV 345), und das Protokoll ist nach Art. 141 Abs. 5 StPO physisch aus den Akten auszusondern.
 - **Einschlägig für**: Abs. 1 lit. b und Abs. 3
+
+### [CREP VD 736 vom 23. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_9a076b18-6911-4fe9-b1e4-2dd1a305ea08)
+- **Thema**: Administrativbericht als Grundlage des hinreichenden Tatverdachts; keine Teilnahmerechte nach Art. 147 StPO vor Eröffnung des Strafverfahrens
+- **Sachverhalt**: Im Rahmen derselben Gesamtangelegenheit (Mandatsvergabe durch das Departement von Staatsrätin Valérie Dittli) wurde ein durch die Exekutive in Auftrag gegebener externer Untersuchungsbericht («rapport C.________») zu den Akten der Strafuntersuchung genommen. Die Beschuldigte verlangte die Aussonderung des Berichts aus dem Strafdossier nach Art. 141 StPO mit der Begründung, er sei unter Verletzung ihrer Teilnahmerechte gemäss Art. 147 StPO zustande gekommen, da sie bei der Befragung von Auskunftspersonen im Administrativverfahren nicht mitwirken konnte.
+- **Kernaussage**: Ein vorgängig durch eine Verwaltungsbehörde eingeholter Bericht kann rechtmässig als Tatsachengrundlage für das Vorliegen eines hinreichenden Tatverdachts im Sinne von Art. 309 Abs. 1 lit. a StPO dienen. Die strafprozessualen Teilnahmerechte nach Art. 147 StPO greifen erst ab dem Moment, in dem die Strafverfolgungsbehörden eine Untersuchung förmlich oder materiell eröffnet haben; sie gelten nicht für vorgängige Abklärungen dritter Behörden oder Administrativuntersuchungen. Ein solcher Bericht unterliegt daher keinem Beweisverwertungsverbot nach Art. 141 StPO und verbleibt im Strafdossier; sein Beweiswert unterliegt der freien richterlichen Beweiswürdigung (Art. 10 Abs. 2 StPO).
+- **Einschlägig für**: Abs. 1 lit. a und Abs. 3
 
 ---
 
