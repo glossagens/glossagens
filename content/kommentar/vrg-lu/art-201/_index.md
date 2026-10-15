@@ -2,17 +2,21 @@
 title: "§ 201 — Parteientschädigung"
 weight: 201
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 201 VRG LU – Parteientschädigung: Grundsatz, Gemeinwesenhaftung bei groben Verfahrensfehlern"
 tags: ["VRG", "Parteientschädigung", "Kosten", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-201.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Wenn an Rechtsmittelverfahren Parteien mit gegensätzlichen Interessen beteiligt sind, wird der obsiegenden Partei zulasten jener, die unterliegt oder Rückzug erklärt oder auf deren Begehren nicht eingetreten wird, eine angemessene Parteientschädigung zugesprochen. In familienrechtlichen Verfahren kann die Parteientschädigung abweichend von diesem Grundsatz festgelegt werden.
->
-> 2 Wenn der Vorinstanz grobe Verfahrensfehler oder offenbare Rechtsverletzungen zur Last fallen, wird der obsiegenden Partei zu Lasten des Gemeinwesens, dem die Vorinstanz angehört, eine angemessene Vergütung für ihre Vertretungskosten zugesprochen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

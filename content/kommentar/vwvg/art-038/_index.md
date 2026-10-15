@@ -2,11 +2,16 @@
 title: "Art. 38 VwVG — Mangelhafte Eröffnung"
 weight: 38
 date: 2026-08-02
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 38 VwVG: Mangelhafte Eröffnung — Schutz vor Rechtsnachteilen, Vertrauensschutz, fehlerhafte Rechtsmittelbelehrung, Auslandszustellung und Kasuistik."
 tags: ["VwVG", "mangelhafte Eröffnung", "Treu und Glauben", "Rechtsmittelbelehrung", "Vertrauensschutz", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-038.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 78 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,10 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 38 VwVG (SR 172.021)** — Mangelhafte Eröffnung
->
-> Aus mangelhafter Eröffnung darf den Parteien kein Nachteil erwachsen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

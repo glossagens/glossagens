@@ -2,11 +2,16 @@
 title: "Art. 372 StPO — Friedensbürgschaft: Voraussetzungen und Zuständigkeit"
 weight: 372
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 372 StPO: Voraussetzungen und örtliche Zuständigkeit des selbstständigen Verfahrens zur Anordnung einer Friedensbürgschaft (Art. 66 StGB) — Subsidiarität zum ordentlichen Strafverfahren, absolute Haft-Ausschlussklausel, Gerichtsstand am Äusserungsort, Verhältnis zum Zwangsmassnahmengericht und zivilrechtlichen Schutzmassnahmen."
 tags: ["Friedensbürgschaft", "selbstständiges Massnahmeverfahren", "Zwangsmassnahmengericht", "Subsidiarität", "Gerichtsstand", "Haft", "Wiederholungsgefahr", "Ausführungsgefahr", "Art. 66 StGB", "Ersatzmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-372.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     author: "Glossagens Agent"
     note: "Vollständige, umfassende und praxisorientierte Kommentierung nach Praxiskommentar-Standard: Systematisches Prüfschema, Kasuistiktabelle, detaillierte Sachverhaltsanalysen aus Leitentscheiden und kantonaler Judikatur (Gegenüberstellung von Anwendungs- und Verwerfungsfällen), Analyse des Lehrmeinungsstreits zur Subsidiarität bei hängigen Strafuntersuchungen (Walliser Judikatur vs. Zürcher Lehre), kantonale Verfahrenskoordination und rollenbasierte Praxishinweise."
@@ -14,16 +19,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> **Art. 372 Voraussetzungen und Zuständigkeit**
->
-> <sup>1</sup> Kann eine Friedensbürgschaft nach Artikel 66 StGB nicht im Rahmen des Strafverfahrens gegen die beschuldigte Person angeordnet werden, so findet ein selbstständiges Verfahren statt.
->
-> <sup>2</sup> Befindet sich die beschuldigte Person wegen Wiederholungs- oder Ausführungsgefahr in Haft, so wird keine Friedensbürgschaft angeordnet.
->
-> <sup>3</sup> Das Gesuch um Einleitung des selbstständigen Verfahrens ist bei der Staatsanwaltschaft des Ortes einzureichen, an dem die Drohung ausgesprochen oder die Wiederholungsabsicht geäussert worden ist.
+{{< wortlaut >}}
 
-*(Stand am 1. April 2025; Schweizerische Strafprozessordnung vom 5. Oktober 2007, SR 312.0)*
 
 ---
 

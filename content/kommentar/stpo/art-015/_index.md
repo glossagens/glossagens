@@ -2,11 +2,16 @@
 title: "Art. 15 — Polizei"
 weight: 15
 date: 2026-07-11
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 15 StPO – Polizei: Aufgaben der Polizei im Strafverfahren, Unterstellung unter Staatsanwaltschaft, Abgrenzung zwischen strafprozessualer und sicherheitspolizeilicher Tätigkeit, Weisungsbefugnis des Gerichts."
 tags: ["StPO", "Polizei", "Strafverfolgungsbehörden", "Ermittlung", "Aufsichtspflicht", "Anfangsverdacht", "Polizeirapport", "Abgrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-015.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 15 StPO — Polizei**
->
-> **1** Die Tätigkeit der Polizei von Bund, Kantonen und Gemeinden im Rahmen der Strafverfolgung richtet sich nach diesem Gesetz.
->
-> **2** Die Polizei ermittelt Straftaten aus eigenem Antrieb, auf Anzeige von Privaten und Behörden sowie im Auftrag der Staatsanwaltschaft; dabei untersteht sie der Aufsicht und den Weisungen der Staatsanwaltschaft.
->
-> **3** Ist ein Straffall bei einem Gericht hängig, so kann dieses der Polizei Weisungen und Aufträge erteilen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

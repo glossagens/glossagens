@@ -2,11 +2,16 @@
 title: "Art. 14 BV — Recht auf Ehe und Familie"
 weight: 14
 date: 2026-05-24
-lastmod: "2026-08-12"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 BV — Gewährleistung des Rechts auf Ehe und Familie, Trägerschaft unabhängig von Nationalität und Aufenthaltsstatus, Ehevorbereitungsverfahren, Abgrenzung zu Art. 13 BV"
 tags: ["BV", "Grundrechte", "Ehe", "Familie", "Eheschliessungsfreiheit", "Ehevorbereitungsverfahren", "Ehe für alle"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 14 BV — Recht auf Ehe und Familie**
->
-> Das Recht auf Ehe und Familie ist gewährleistet.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Überblick
 

@@ -2,11 +2,16 @@
 title: "Art. 35 VwVG — Form und Begründung der Verfügung"
 weight: 35
 date: 2026-08-02
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 35 VwVG: Form und Begründung der Verfügung — Bezeichnung als Verfügung, Begründungspflicht, Rechtsmittelbelehrung, Verzichtsvoraussetzungen und Kasuistik."
 tags: ["VwVG", "Verfügung", "Begründungspflicht", "Rechtliches Gehör", "Rechtsmittelbelehrung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-035.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,14 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 35 VwVG (SR 172.021)** — Form und Begründung der Verfügung
->
-> **1** Schriftliche Verfügungen sind, auch wenn die Behörde sie in Briefform eröffnet, als solche zu bezeichnen, zu begründen und mit einer Rechtsmittelbelehrung zu versehen.
->
-> **2** Die Rechtsmittelbelehrung muss das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist nennen.
->
-> **3** Die Behörde kann auf Begründung und Rechtsmittelbelehrung verzichten, wenn sie den Begehren der Parteien voll entspricht und keine Partei eine Begründung verlangt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

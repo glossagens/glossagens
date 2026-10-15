@@ -2,12 +2,17 @@
 title: "Art. 89 BV — Energiepolitik"
 weight: 89
 date: 2026-08-10
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "StromVG", "KEG", "CO2-Gesetz", "EnG", "ElCom"]
 agent_verified: false
 mcp_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-089.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -22,19 +27,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 89 Energiepolitik**
->
-> 1 Bund und Kantone setzen sich im Rahmen ihrer Zuständigkeiten ein für eine ausreichende, breit gefächerte, sichere, wirtschaftliche und umweltverträgliche Energieversorgung sowie für einen sparsamen und rationellen Energieverbrauch.
->
-> 2 Der Bund legt Grundsätze fest über die Nutzung einheimischer und erneuerbarer Energien und über den sparsamen und rationellen Energieverbrauch.
->
-> 3 Der Bund erlässt Vorschriften über den Energieverbrauch von Anlagen, Fahrzeugen und Geräten. Er fördert die Entwicklung von Energietechniken, insbesondere in den Bereichen des Energiesparens und der erneuerbaren Energien.
->
-> 4 Für Massnahmen, die den Verbrauch von Energie in Gebäuden betreffen, sind vor allem die Kantone zuständig.
->
-> 5 Der Bund trägt in seiner Energiepolitik den Anstrengungen der Kantone und Gemeinden sowie der Wirtschaft Rechnung; er berücksichtigt die Verhältnisse in den einzelnen Landesgegenden und die wirtschaftliche Tragbarkeit.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Kommentierung
 

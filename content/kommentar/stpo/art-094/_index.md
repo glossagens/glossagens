@@ -2,11 +2,16 @@
 title: "Art. 94 StPO — Wiederherstellung"
 weight: 94
 date: "2026-06-12"
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 94 StPO: Wiederherstellung versäumter Fristen und Termine — strenger Verschuldensmassstab, Zurechnung des Anwaltsverschuldens und die Ausnahme bei notwendiger Verteidigung."
 tags: ["StPO", "Wiederherstellung", "Fristen", "notwendige Verteidigung", "Zurechnung", "Säumnis", "Terminversäumnis", "Zustellfiktion"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-094.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 94 StPO — Wiederherstellung**
->
-> 1 Hat eine Partei eine Frist versäumt und würde ihr daraus ein erheblicher und unersetzlicher Rechtsverlust erwachsen, so kann sie die Wiederherstellung der Frist verlangen; dabei hat sie glaubhaft zu machen, dass sie an der Säumnis kein Verschulden trifft.
->
-> 2 Das Gesuch ist innert 30 Tagen nach Wegfall des Säumnisgrundes schriftlich und begründet bei der Behörde zu stellen, bei welcher die versäumte Verfahrenshandlung hätte vorgenommen werden sollen. Innert der gleichen Frist muss die versäumte Verfahrenshandlung nachgeholt werden.
->
-> 3 Das Gesuch hat nur aufschiebende Wirkung, wenn die zuständige Behörde sie erteilt.
->
-> 4 Über das Gesuch entscheidet die Strafbehörde in einem schriftlichen Verfahren.
->
-> 5 Die Absätze 1–4 gelten sinngemäss bei versäumten Terminen. Wird die Wiederherstellung bewilligt, so setzt die Verfahrensleitung einen neuen Termin fest. Die Bestimmungen über das Abwesenheitsverfahren bleiben vorbehalten.
-
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

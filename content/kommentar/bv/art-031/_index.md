@@ -2,11 +2,16 @@
 title: "Art. 31 BV — Freiheitsentzug"
 weight: 31
 date: 2026-05-17
-lastmod: 2026-09-22
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 31 BV: Gesetzlicher Vorbehalt, Begriff des Freiheitsentzugs vs. Freiheitsbeschränkung (Einkesselung/Kordon), Informations- und Verteidigungsrechte, Untersuchungshaft- und Vorführungsgarantien (48h/96h-Kaskade, Haftgründe, Überhaft) sowie Habeas-Corpus-Garantie (unmittelbarer Gerichtszugang und Schranke nach Entlassung gemäss BGE 151 I 219) — mit umfassender Kasuistik und Praxishinweisen."
 tags: ["BV", "Freiheitsentzug", "Persönliche Freiheit", "Habeas Corpus", "Untersuchungshaft", "Sicherheitshaft", "Freiheitsbeschränkung", "Einkesselung", "Polizeigewahrsam", "Fürsorgerische Unterbringung", "Administrativhaft", "Art. 31"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-031.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,17 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 31 BV — Freiheitsentzug**
->
-> 1 Die Freiheit darf einer Person nur in den vom Gesetz selbst vorgesehenen Fällen und nur auf die im Gesetz vorgeschriebene Weise entzogen werden.
->
-> 2 Jede Person, der die Freiheit entzogen wird, hat Anspruch darauf, unverzüglich und in einer ihr verständlichen Sprache über die Gründe des Freiheitsentzugs und über ihre Rechte unterrichtet zu werden. Sie muss die Möglichkeit haben, ihre Rechte geltend zu machen. Sie hat insbesondere das Recht, ihre nächsten Angehörigen benachrichtigen zu lassen.
->
-> 3 Jede Person, die in Untersuchungshaft genommen wird, hat Anspruch darauf, unverzüglich einer Richterin oder einem Richter vorgeführt zu werden; die Richterin oder der Richter entscheidet, ob die Person weiterhin in Haft gehalten oder freigelassen wird. Jede Person in Untersuchungshaft hat Anspruch auf ein Urteil innert angemessener Frist.
->
-> 4 Jede Person, der die Freiheit nicht von einem Gericht entzogen wird, hat das Recht, jederzeit ein Gericht anzurufen. Dieses entscheidet so rasch wie möglich über die Rechtmässigkeit des Freiheitsentzugs.
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex, SR 101](https://www.fedlex.admin.ch/eli/cc/1999/404/de), Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (Stand am 3. März 2024).*
 
 ---
 

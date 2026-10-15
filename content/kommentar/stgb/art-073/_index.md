@@ -2,11 +2,16 @@
 title: "Art. 73 — Verwendung zu Gunsten des Geschädigten"
 weight: 73
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 73 StGB: Zusprechung eingezogener Vermögenswerte, Ersatzforderungen, Geldstrafen und Bussen an den Geschädigten; Antragsprinzip, Abtretungspflicht, Aktivlegitimation des Versicherers, Subsidiarität zur direkten Aushändigung nach Art. 70 Abs. 1 a.E., kantonales Nachverfahren (Abs. 3) sowie Kasuistik."
 tags: ["StGB", "Einziehung", "Zusprechung", "Geschädigter", "Abtretung", "Versicherer", "Subsidiarität", "Nachverfahren", "Kasuistik", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-073.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,18 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 73 StGB — Verwendung zu Gunsten des Geschädigten**
->
-> 1 Erleidet jemand durch ein Verbrechen oder ein Vergehen einen Schaden, der nicht durch eine Versicherung gedeckt ist, und ist anzunehmen, dass der Täter den Schaden nicht ersetzen oder eine Genugtuung nicht leisten wird, so spricht das Gericht dem Geschädigten auf dessen Verlangen bis zur Höhe des Schadenersatzes beziehungsweise der Genugtuung, die gerichtlich oder durch Vergleich festgesetzt worden sind, zu:
->
-> a. die vom Verurteilten bezahlte Geldstrafe oder Busse;
-> b. eingezogene Gegenstände und Vermögenswerte oder deren Verwertungserlös unter Abzug der Verwertungskosten;
-> c. Ersatzforderungen;
-> d. den Betrag der Friedensbürgschaft.
->
-> 2 Das Gericht kann die Verwendung zu Gunsten des Geschädigten jedoch nur anordnen, wenn der Geschädigte den entsprechenden Teil seiner Forderung an den Staat abtritt.
->
-> 3 Die Kantone sehen für den Fall, dass die Zusprechung nicht schon im Strafurteil möglich ist, ein einfaches und rasches Verfahren vor.
+{{< wortlaut >}}
 
 ---
 

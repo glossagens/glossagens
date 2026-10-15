@@ -2,11 +2,16 @@
 title: "Art. 354 StPO — Einsprache"
 weight: 354
 date: "2026-06-27"
-lastmod: "2026-10-06"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 354 StPO: Einsprache gegen den Strafbefehl — Einspracheberechtigung (Beschuldigte Person, Privatklägerschaft nF, Betroffene), Formstrenge vs. überspitzter Formalismus (Telefax, E-Mail, Scan, anwaltliche Vertretung), Fristberechnung, Auslandszustellung und Zustellfiktion, Begründungsanforderungen, kein Verschlechterungsverbot (reformatio in peius) sowie Rechtskraft und Verjährung."
 tags: ["StPO", "Strafbefehl", "Einsprache", "Rechtskraft", "Privatklägerschaft", "Formvorschriften", "Fristen", "Zustellfiktion", "Verschlechterungsverbot", "Reformatio in peius", "Übertretungsstrafbehörden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-354.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,25 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 354 StPO — Einsprache**
->
-> 1 Gegen den Strafbefehl können bei der Staatsanwaltschaft innert 10 Tagen schriftlich Einsprache erheben:
->
-> a. die beschuldigte Person;
->
-> a^bis^. die Privatklägerschaft;
->
-> b. weitere Betroffene;
->
-> c. soweit vorgesehen die Ober- oder Generalstaatsanwaltschaft des Bundes oder des betreffenden Kantons im jeweiligen eidgenössischen oder kantonalen Verfahren.
->
-> 1^bis^ Die Privatklägerschaft kann einen Strafbefehl hinsichtlich der ausgesprochenen Sanktion nicht anfechten.
->
-> 2 Die Einsprachen sind zu begründen; ausgenommen ist die Einsprache der beschuldigten Person.
->
-> 3 Ohne gültige Einsprache wird der Strafbefehl zum rechtskräftigen Urteil.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex (SR 312.0)](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 lit. a^bis^ und Abs. 1^bis^ eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://www.fedlex.admin.ch/eli/fga/2019/6697/de)).*
 
 ---
 

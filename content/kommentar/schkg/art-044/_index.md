@@ -2,11 +2,16 @@
 title: "Art. 44 — Verwertung beschlagnahmter Gegenstände"
 weight: 44
 date: 2026-07-17
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 44 SchKG: Verwertung beschlagnahmter Gegenstände — Kollisionsnorm zugunsten strafrechtlicher, fiskalischer und sanktionsrechtlicher Beschlagnahmen, Vorrang, Ersatzforderungen, Grundbuchsperre, Aufsichtsbeschwerde, Ukraine-Verordnung, Grenzkasuistik."
 tags: ["SchKG", "Beschlagnahme", "Verwertung", "Fiskalische Beschlagnahme", "Guthabensperrung", "Sanktionen", "Ukraine-Verordnung", "Ersatzforderung", "VStrR", "Grundbuchsperre", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-044.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,12 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 44 SchKG (SR 281.1)** — Verwertung beschlagnahmter Gegenstände
->
-> Die Verwertung von Gegenständen, welche aufgrund strafrechtlicher oder fiskalischer Gesetze oder aufgrund des Bundesgesetzes vom 18. Dezember 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen mit Beschlag belegt sind, geschieht nach den zutreffenden eidgenössischen oder kantonalen Gesetzesbestimmungen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Art. 31 Abs. 2 Ziff. 2 des BG vom 18. Dez. 2015 (SR 196.1), in Kraft seit 1. Juli 2016 (AS 2016 1803; BBl 2014 5265).*
 
 ---
 

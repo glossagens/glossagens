@@ -2,11 +2,16 @@
 title: "Art. 282 StPO — Voraussetzungen der Observation"
 weight: 282
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 282 StPO – Voraussetzungen der verdeckten Observation an allgemein zugänglichen Orten mit Bild- und Tonaufzeichnungen: zuständige Behörden, Verdecktheit, allgemein zugängliche Orte, konkrete Anhaltspunkte für Verbrechen oder Vergehen, Aussichtslosigkeit oder unverhältnismässige Erschwerung, Genehmigungspflicht bei monatlicher Dauer sowie die zentrale Funktion als gesetzliches Beweisdispositiv bei der Verwertbarkeit privater Beweismittel."
 tags: ["StPO", "Observation", "verdeckte Ermittlung", "Bildaufzeichnung", "Tonaufzeichnung", "allgemein zugängliche Orte", "Beweisverwertungsverbot", "private Beweismittel", "konkrete Anhaltspunkte", "Sozialversicherungsbetrug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-282.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 282 StPO — Voraussetzungen**
->
-> **1** Die Staatsanwaltschaft und, im Ermittlungsverfahren, die Polizei können Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachten und dabei Bild- oder Tonaufzeichnungen machen, wenn:
->
-> a. aufgrund konkreter Anhaltspunkte anzunehmen ist, dass Verbrechen oder Vergehen begangen worden sind; und
->
-> b. die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
->
-> **2** Hat eine von der Polizei angeordnete Observation einen Monat gedauert, so bedarf ihre Fortsetzung der Genehmigung durch die Staatsanwaltschaft.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

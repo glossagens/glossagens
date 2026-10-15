@@ -2,11 +2,16 @@
 title: "Art. 15 StGB — Rechtfertigende Notwehr"
 weight: 15
 date: 2026-05-16
-lastmod: 2026-09-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 15 StGB: Rechtfertigende Notwehr und Notwehrhilfe — Begriff des Angriffs, Gegenwärtigkeit, Angemessenheit und Subsidiarität der Abwehrmittel, Provokation, Putativnotwehr, Notwehrexzess (Art. 16 StGB), Strafzumessung und Willkürrüge. "
 tags: ["StGB", "Notwehr", "Notwehrhilfe", "Rechtfertigungsgrund", "Rechtswidriger Angriff", "Angemessenheit", "Notwehrexzess", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-015.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-20
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -31,9 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 15 StGB — Notwehr**
->
-> Wird jemand ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht, so ist der Angegriffene und jeder andere berechtigt, den Angriff in einer den Umständen angemessenen Weise abzuwehren.
+{{< wortlaut >}}
 
 ---
 

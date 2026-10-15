@@ -2,11 +2,16 @@
 title: "Art. 352 — Voraussetzungen"
 weight: 352
 date: "2026-06-27"
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 352 StPO – Voraussetzungen des Strafbefehlsverfahrens: Eingeständnis, ausreichende Klärung des Sachverhalts, Strafgrenzen, Verbindungsbusse, Ausschluss der Landesverweisung, Kasuistik und kantonale Praxis."
 tags: ["StPO", "Strafbefehl", "Strafbefehlsverfahren", "Staatsanwaltschaft", "Strafbefehlskompetenz", "Verbindungsbusse", "Landesverweisung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-352.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,21 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 352 StPO — Voraussetzungen**
->
-> **1** Hat die beschuldigte Person im Vorverfahren den Sachverhalt eingestanden oder ist dieser anderweitig ausreichend geklärt, so erlässt die Staatsanwaltschaft einen Strafbefehl, wenn sie, unter Einrechnung einer allfällig zu widerrufenden bedingten Strafe oder bedingten Entlassung, eine der folgenden Strafen für ausreichend hält:
->
-> **a.** eine Busse;
->
-> **b.** eine Geldstrafe von höchstens 180 Tagessätzen;
->
-> **c.** … *(aufgehoben)*
->
-> **d.** eine Freiheitsstrafe von höchstens 6 Monaten.
->
-> **2** Jede dieser Strafen kann mit einer Massnahme nach den Artikeln 66 und 67e–73 StGB verbunden werden.
->
-> **3** Strafen nach Absatz 1 Buchstaben b–d können miteinander verbunden werden, sofern die insgesamt ausgesprochene Strafe einer Freiheitsstrafe von höchstens 6 Monaten entspricht. Eine Verbindung mit Busse ist immer möglich.
+{{< wortlaut >}}
 
 ---
 

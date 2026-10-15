@@ -2,11 +2,16 @@
 title: "Art. 309 StPO — Eröffnung der Untersuchung"
 weight: 309
 date: "2026-07-04"
-lastmod: "2026-10-15"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 309 StPO: Eröffnung der Strafuntersuchung — Eröffnungsgründe, deklaratorische Eröffnungsverfügung, materieller Beschuldigtenstatus, Rücküberweisung an die Polizei, Verzicht auf Eröffnung."
 tags: ["Untersuchung", "Eröffnung", "Vorverfahren", "Tatverdacht", "Staatsanwaltschaft", "Eröffnungsverfügung", "materieller Beschuldigtenstatus", "polizeiliches Ermittlungsverfahren", "Nichtanhandnahme"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-309.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,21 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 309 StPO — Eröffnung**
->
-> 1 Die Staatsanwaltschaft eröffnet eine Untersuchung, wenn:
->
-> a. sich aus den Informationen und Berichten der Polizei, aus der Strafanzeige oder aus ihren eigenen Feststellungen ein hinreichender Tatverdacht ergibt;
->
-> b. sie Zwangsmassnahmen anordnet;
->
-> c. sie im Sinne von Artikel 307 Absatz 1 durch die Polizei informiert worden ist.
->
-> 2 Sie kann polizeiliche Berichte und Strafanzeigen, aus denen der Tatverdacht nicht deutlich hervorgeht, der Polizei zur Durchführung ergänzender Ermittlungen überweisen.
->
-> 3 Sie eröffnet die Untersuchung in einer Verfügung; darin bezeichnet sie die beschuldigte Person und die Straftat, die ihr zur Last gelegt wird. Die Verfügung braucht nicht begründet und eröffnet zu werden. Sie ist nicht anfechtbar.
->
-> 4 Die Staatsanwaltschaft verzichtet auf die Eröffnung, wenn sie sofort eine Nichtanhandnahmeverfügung oder einen Strafbefehl erlässt.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

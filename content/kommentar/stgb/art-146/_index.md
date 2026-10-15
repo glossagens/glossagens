@@ -2,11 +2,16 @@
 title: "Art. 146 StGB — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Kreditrechtsprechung, Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
 tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel", "Sanktionsgeschäft", "OFAC"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-146.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -51,16 +56,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 146 StGB — Betrug**
->
-> 1 Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder ihn in einem Irrtum arglistig bestärkt und so den Irrenden zu einem Verhalten bestimmt, wodurch dieser sich selbst oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
->
-> 2 Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.
->
-> 3 Der Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_146), Stand der Konsolidierung 12. Juni 2026. Abs. 2 in der Fassung gemäss Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ---
 

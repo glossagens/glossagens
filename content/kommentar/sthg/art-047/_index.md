@@ -2,11 +2,16 @@
 title: "Art. 47 — Verjährung der Veranlagung und der Steuerforderung"
 weight: 47
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 47 StHG (SR 642.14) — Verjährung des Veranlagungsrechts (Abs. 1) und der Steuerforderung (Abs. 2). Behandelt relative und absolute Verjährung, Stillstand und Unterbrechung, die «ausdrückliche» Anerkennung der Steuerforderung, wahrungshemmende Handlungen im interkantonalen Doppelbesteuerungsverhältnis, die doppelbesteuerungsrechtliche Verwirkungsfrist «n+2» und das Verhältnis zum Nachsteuerverfahren (Art. 53 StHG). Mit Grenzkasuistik angewandt vs. verworfen, Kasuistiktabellen und Praxishinweisen für Behörden, Beamtinnen und Beauftragte."
 tags: ["StHG", "Steuerharmonisierung", "Verjährung", "Veranlagungsverjährung", "Steuerforderung", "Unterbrechung", "Stillstand", "interkantonale Doppelbesteuerung", "Verwirkung", "Nachsteuer", "Steuererklärung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.14 vom 2025-01-01 (data/wortlaut/sthg/art-047.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,13 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 47 Verjährung**
->
-> **1** Das Recht, eine Steuer zu veranlagen, verjährt fünf Jahre, bei Stillstand oder Unterbrechung der Verjährung spätestens 15 Jahre nach Ablauf der Steuerperiode.
->
-> **2** Steuerforderungen verjähren fünf Jahre, nachdem die Veranlagung rechtskräftig geworden ist, bei Stillstand oder Unterbrechung der Verjährung jedoch spätestens zehn Jahre nach Ablauf des Jahres, in dem die Steuern rechtskräftig festgesetzt worden sind.
-
-*Quelle: [Fedlex (SR 642.14, Art. 47)](https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_47), Konsolidierung Stand 1. Januar 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

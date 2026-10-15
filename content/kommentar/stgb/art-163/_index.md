@@ -2,12 +2,17 @@
 title: "Art. 163 — Betrügerischer Konkurs und Pfändungsbetrug"
 weight: 163
 date: "2026-08-21"
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 163 StGB — Betrügerischer Konkurs und Pfändungsbetrug: Fiktive Vermögensverminderung, Beiseiteschaffen und Verheimlichen von Vermögenswerten, Konkurs- oder Verlustscheinvoraussetzung."
 tags: ["StGB", "Betrug", "Betreibungsverfahren", "Konkurs", "Pfändungsbetrug", "fiktive Vermögensverminderung", "Schuldner", "Gläubigerbenachteiligung"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-163.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-22"
     by: "Antigravity"
     model: "Gemini 3.7 Flash"
@@ -22,15 +27,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1.** Der Schuldner, der zum Schaden der Gläubiger sein Vermögen zum Scheine vermindert, namentlich
-> 
-> 1. Vermögenswerte beiseiteschafft oder verheimlicht,
-> 2. Schulden vortäuscht,
-> 3. vorgetäuschte Forderungen anerkennt oder deren Geltendmachung veranlasst,
-> 
-> wird, wenn über ihn der Konkurs eröffnet oder gegen ihn ein Verlustschein ausgestellt worden ist, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
-> 
-> **2.** Unter den gleichen Voraussetzungen wird der Dritte, der zum Schaden der Gläubiger eine solche Handlung vornimmt, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+{{< wortlaut >}}
 
 ## Kommentierung
 

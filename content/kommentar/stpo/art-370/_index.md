@@ -2,11 +2,16 @@
 title: "Art. 370 StPO — Abwesenheitsverfahren: Neues Urteil"
 weight: 370
 date: 2026-07-17
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 370 StPO: Das neue Urteil nach Neubeurteilung — De-novo-Kognition, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), Rechtskraft als Zäsur sowie das Dahinfallen des Abwesenheitsurteils ex tunc mit den massgeblichen Konsequenzen für Verfolgungsverjährung (BGE 146 IV 59), Haftregime (BGer 1B_478/2021), retrospektive Konkurrenz und Verfahrenskosten."
 tags: ["Abwesenheitsverfahren", "Neubeurteilung", "Neues Urteil", "Rechtsmittel", "Berufung", "Rechtskraft", "Dahinfallen", "Verfolgungsverjährung", "Resolutive Bedingung", "Sicherheitshaft", "Zäsurwirkung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-370.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 370 StPO — Neues Urteil**
->
-> 1 Das Gericht fällt ein neues Urteil. Dagegen können die üblichen Rechtsmittel ergriffen werden.
->
-> 2 Mit der Rechtskraft des neuen Urteils fallen das Abwesenheitsurteil, die dagegen ergriffenen Rechtsmittel und die im Rechtsmittelverfahren bereits ergangenen Entscheide dahin.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

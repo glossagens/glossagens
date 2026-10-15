@@ -2,11 +2,16 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: "2026-10-02"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu Unterbrechung der Kausalkette, PIN-Erfragung, verdeckter Ermittlung, Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht", "Praxiskommentar", "nemo tenetur", "verdeckte Ermittlung", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-141.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -46,17 +51,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 141 StPO — Verwertbarkeit rechtswidrig erlangter Beweise**
->
-> 1 Beweise, die in Verletzung von Artikel 140 erhoben wurden, sind in keinem Falle verwertbar. Dasselbe gilt, wenn dieses Gesetz einen Beweis als unverwertbar bezeichnet.
->
-> 2 Beweise, die Strafbehörden in strafbarer Weise oder unter Verletzung von Gültigkeitsvorschriften erhoben haben, dürfen nicht verwertet werden, es sei denn, ihre Verwertung sei zur Aufklärung schwerer Straftaten unerlässlich.
->
-> 3 Beweise, bei deren Erhebung Ordnungsvorschriften verletzt worden sind, sind verwertbar.
->
-> 4 Ermöglichte ein Beweis, der nach Absatz 1 oder 2 nicht verwertet werden darf, die Erhebung eines weiteren Beweises, so ist dieser nur dann verwertbar, wenn er auch ohne die vorhergehende Beweiserhebung möglich gewesen wäre.
->
-> 5 Die Aufzeichnungen über unverwertbare Beweise werden aus den Strafakten entfernt, bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss gehalten und danach vernichtet.
+{{< wortlaut >}}
 
 ## Die drei Stufen auf einen Blick
 

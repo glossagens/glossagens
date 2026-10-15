@@ -2,11 +2,16 @@
 title: "Art. 226 StPO — Entscheid des Zwangsmassnahmengerichts"
 weight: 226
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 226 StPO – Entscheid des Zwangsmassnahmengerichts: 48-Stunden-Entscheidfrist (Abs. 1), Eröffnung und Begründung (Abs. 2), Hinweis auf Haftentlassungsgesuche (Abs. 3), Höchstdauer und Ersatzmassnahmen (Abs. 4), unverzügliche Freilassung (Abs. 5)."
 tags: ["StPO", "Zwangsmassnahmengericht", "Untersuchungshaft", "48-Stunden-Frist", "Ersatzmassnahmen", "Freilassung", "Haftdauer", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-226.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 226 StPO — Entscheid des Zwangsmassnahmengerichts**
->
-> **1** Das Zwangsmassnahmengericht entscheidet unverzüglich, spätestens aber innert 48 Stunden nach Eingang des Antrags.
->
-> **2** Es eröffnet seinen Entscheid der Staatsanwaltschaft, der beschuldigten Person und ihrer Verteidigung unverzüglich mündlich oder, falls sie abwesend sind, schriftlich. Anschliessend stellt es ihnen eine kurze schriftliche Begründung zu.
->
-> **3** Ordnet es die Untersuchungshaft an, so weist es die beschuldigte Person darauf hin, dass sie jederzeit ein Haftentlassungsgesuch stellen kann.
->
-> **4** Es kann in seinem Entscheid:
->
-> a. eine Höchstdauer der Untersuchungshaft festlegen;
->
-> b. die Staatsanwaltschaft anweisen, bestimmte Untersuchungshandlungen vorzunehmen;
->
-> c. an Stelle der Untersuchungshaft Ersatzmassnahmen anordnen.
->
-> **5** Ordnet es die Untersuchungshaft nicht an, so wird die beschuldigte Person unverzüglich freigelassen.
+{{< wortlaut >}}
 
 ---
 

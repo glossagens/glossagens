@@ -2,11 +2,16 @@
 title: "Art. 22 RPG — Baubewilligung"
 weight: 22
 date: 2026-07-16
-lastmod: 2026-10-02
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 RPG: Baubewilligungspflicht für Bauten und Anlagen — mit zweiseitiger Grenzkasuistik (Fahrnisbauten, Wohnwagen, Tiny Houses, Terrainveränderungen, Umnutzungen), Unterhaltsabgrenzung, Erschliessungsanforderungen und Wiederherstellungsfolgen."
 tags: ["RPG", "Baubewilligung", "Baubewilligungspflicht", "Bauten und Anlagen", "Fahrnisbauten", "Zweckänderung", "Unterhalt", "Erschliessung", "Wiederherstellung", "Praxiskommentar", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Hermes"
     model: "glm-5.2"
@@ -28,19 +33,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 Baubewilligung**
->
-> 1 Bauten und Anlagen dürfen nur mit behördlicher Bewilligung errichtet oder geändert werden.
->
-> 2 Voraussetzung einer Bewilligung ist, dass:
->
-> a. die Bauten und Anlagen dem Zweck der Nutzungszone entsprechen; und
->
-> b. das Land erschlossen ist.
->
-> 3 Die übrigen Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten.
+{{< wortlaut >}}
 
-*Quelle: Fedlex (SR 700), Stand 1. Juli 2026.*
 
 ---
 

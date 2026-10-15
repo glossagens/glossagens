@@ -2,23 +2,21 @@
 title: "Art. 25 — Schichtwechsel"
 weight: 25
 date: "2026-07-09"
-lastmod: "2026-07-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 25 ArG – Schichtwechselpflicht (sechs-Wochen-Grundsatz, gleichmässiger Anteil bei Zwei- und Nachtschicht, Ausnahme mit Einverständnis der Arbeitnehmenden)"
 tags: ["ArG", "Schichtwechsel", "Nachtarbeit", "Arbeitnehmerschutz", "Schichtsystem", "Wechselschicht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 25**<sup>49</sup>
->
-> **1** Die Arbeitszeit ist so einzuteilen, dass der einzelne Arbeitnehmer nicht länger als während sechs aufeinander folgenden Wochen die gleiche Schicht zu leisten hat.
->
-> **2** Bei zweischichtiger Arbeit am Tag und am Abend muss der Arbeitnehmer an beiden Schichten und bei Nachtarbeit an der Tages- und Nachtarbeit gleichmässig Anteil haben.
->
-> **3** Wenn die betroffenen Arbeitnehmer einverstanden sind und die durch Verordnung festzulegenden Bedingungen und Auflagen eingehalten werden, kann die Dauer von sechs Wochen verlängert, oder aber es kann auf den Wechsel ganz verzichtet werden.
-
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

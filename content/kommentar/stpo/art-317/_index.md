@@ -2,11 +2,16 @@
 title: "Art. 317 StPO — Schlusseinvernahme"
 weight: 317
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 317 StPO – Schlusseinvernahme: Obliegenheit in umfangreichen und komplizierten Vorverfahren, Anspruch auf vorherige unbeschränkte Akteneinsicht und Vorbereitung der Anklage."
 tags: ["StPO", "Schlusseinvernahme", "Vorverfahren", "Untersuchung", "Akteneinsicht", "rechtliches Gehör", "Anklage", "Verteidigungsrechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-317.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,9 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 317 StPO — Schlusseinvernahme**
->
-> In umfangreichen und komplizierten Vorverfahren befragt die Staatsanwaltschaft die beschuldigte Person vor Abschluss der Untersuchung nochmals in einer Schlusseinvernahme und fordert sie auf, zu den Ergebnissen Stellung zu nehmen.
+{{< wortlaut >}}
 
 ---
 

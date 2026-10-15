@@ -2,11 +2,16 @@
 title: "Art. 32 VwVG — Würdigung der Parteivorbringen"
 weight: 32
 date: 2026-05-23
-lastmod: "2026-08-17"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 32 VwVG — Würdigungspflicht, Berücksichtigung erheblicher und rechtzeitiger Vorbringen, verspätete Vorbringen und rechtliches Gehör"
 tags: ["VwVG", "rechtliches Gehör", "Parteivorbringen", "Verwaltungsverfahren", "Art. 29 BV", "Beweiswürdigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-032.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,8 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Die Behörde würdigt, bevor sie verfügt, alle erheblichen und rechtzeitigen Vorbringen der Parteien.
-> 2 Verspätete Parteivorbringen, die ausschlaggebend erscheinen, kann sie trotz der Verspätung berücksichtigen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

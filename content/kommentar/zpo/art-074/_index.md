@@ -2,11 +2,16 @@
 title: "Art. 74 — Nebenintervention: Grundsatz"
 weight: 74
 date: "2026-09-21"
-lastmod: "2026-09-21"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 74 ZPO: Voraussetzungen der Nebenintervention, rechtliches Interesse vs. wirtschaftliche Betroffenheit, Glaubhaftmachen, Anwendungs- und Verwerfungskasuistik, streitgenössische Nebenintervention und Rolle von Organen."
 tags: ["ZPO", "Nebenintervention", "Intervention", "Rechtliches Interesse", "Streitgenössische Nebenintervention", "Parteistellung", "Interventionswirkung", "Glaubhaftmachen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-074.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,11 +21,10 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 74 ZPO — Grundsatz**
->
-> Wer ein rechtliches Interesse glaubhaft macht, dass eine rechtshängige Streitigkeit zugunsten der einen Partei entschieden werde, kann im Prozess jederzeit als Nebenpartei intervenieren und zu diesem Zweck beim Gericht ein Interventionsgesuch stellen.
+{{< wortlaut >}}
 
-*(SR 272, in Kraft seit 1. Januar 2011; unverändert geblieben durch die Revision vom 17. März 2023, in Kraft seit 1. Januar 2025).*
+*In Kraft seit 1. Januar 2011; unverändert geblieben durch die Revision vom 17. März 2023, in Kraft seit 1. Januar 2025.*
+
 
 ---
 

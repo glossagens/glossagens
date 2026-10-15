@@ -2,11 +2,16 @@
 title: "Art. 47 ZPO — Ausstandsgründe"
 weight: 47
 date: "2026-05-15"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 47 ZPO: Ausstandsgründe, Generalklausel, Befangenheit, personenbezogene Substanziierungspflicht, Vergleichsverhandlung, nebenamtliche Richter."
 tags: ["Ausstand", "Befangenheit", "Richter", "Unparteilichkeit", "ZPO"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-047.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -23,11 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 47 ZPO — Ausstandsgründe**
->
-> 1 Eine Gerichtsperson tritt in den Ausstand, wenn sie: a. in der Sache ein persönliches Interesse hat; b. in einer anderen Stellung, insbesondere als Mitglied einer Behörde, als Rechtsbeiständin oder Rechtsbeistand, als Sachverständige oder Sachverständiger, als Zeugin oder Zeuge, als Mediatorin oder Mediator in der gleichen Sache tätig war; c. mit einer Partei, ihrer Vertreterin oder ihrem Vertreter oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, verheiratet ist oder war, in eingetragener Partnerschaft lebt oder lebte oder eine faktische Lebensgemeinschaft führt; d. mit einer Partei in gerader Linie oder in der Seitenlinie bis und mit dem dritten Grad verwandt oder verschwägert ist; e. mit der Vertreterin oder dem Vertreter einer Partei oder mit einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, in gerader Linie oder im zweiten Grad der Seitenlinie verwandt oder verschwägert ist; f. aus anderen Gründen, insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder ihrer Vertretung, befangen sein könnte.
->
-> 2 Kein Ausstandsgrund für sich allein ist insbesondere die Mitwirkung: a. beim Entscheid über die unentgeltliche Rechtspflege; b. beim Schlichtungsverfahren; c. bei der Rechtsöffnung nach den Artikeln 80–84 SchKG; d. bei der Anordnung vorsorglicher Massnahmen; e. beim Eheschutzverfahren.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

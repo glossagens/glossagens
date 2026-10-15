@@ -2,11 +2,16 @@
 title: "Art. 150 ZPO — Beweisgegenstand"
 weight: 150
 date: 2026-07-19
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 150 ZPO: Beweisgegenstand im Zivilprozess — Rechtserhebliche und streitige Tatsachen, Verbot der Beweisausforschung, Privatgutachten und ausländisches Recht."
 tags: ["ZPO", "Beweisgegenstand", "Beweisrecht", "Tatsachen", "Beweisausforschung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-150.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,12 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 150 ZPO (SR 272)** — Beweisgegenstand
->
-> **1** Gegenstand des Beweises sind rechtserhebliche, streitige Tatsachen.
->
-> **2** Beweisgegenstand können auch Übung, Ortsgebrauch und, bei vermögensrechtlichen Streitigkeiten, ausländisches Recht sein.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

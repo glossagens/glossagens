@@ -2,11 +2,16 @@
 title: "Art. 725a OR — Kapitalverlust"
 weight: 726
 date: 2026-08-29
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 725a OR: Hälftiger Kapitalverlust, gesetzliche Berechnungsformel, Schutzreserven vs. freie Kapitaleinlagereserven, Verbot der Einlagenrückgewähr bei Aktivdarlehen, Sanierungsmassnahmen des VR und der GV (Harmonika-Sanierung, Forderungsverzicht à fonds perdu), eingeschränkte Revision bei Opting-out und Organhaftung."
 tags: ["OR", "Aktienrecht", "Kapitalverlust", "Sanierung", "Harmonika", "Unterbilanz", "Verwaltungsrat", "Opting-out", "Eingeschränkte Revision"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,17 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 725a OR — Kapitalverlust**
->
-> ¹ Zeigt die letzte Jahresrechnung, dass die Aktiven abzüglich der Verbindlichkeiten die Hälfte der Summe aus Aktienkapital, nicht an die Aktionäre zurückzahlbarer gesetzlicher Kapitalreserve und gesetzlicher Gewinnreserve nicht mehr decken, so ergreift der Verwaltungsrat Massnahmen zur Beseitigung des Kapitalverlusts. Er trifft, soweit erforderlich, weitere Massnahmen zur Sanierung der Gesellschaft oder beantragt der Generalversammlung solche, soweit sie in deren Zuständigkeit fallen.
->
-> ² Hat die Gesellschaft keine Revisionsstelle, so muss die letzte Jahresrechnung vor ihrer Genehmigung durch die Generalversammlung überdies einer eingeschränkten Revision durch einen zugelassenen Revisor unterzogen werden. Der Verwaltungsrat ernennt den zugelassenen Revisor.
->
-> ³ Die Revisionspflicht nach Absatz 2 entfällt, wenn der Verwaltungsrat ein Gesuch um Nachlassstundung einreicht.
->
-> ⁴ Der Verwaltungsrat und die Revisionsstelle oder der zugelassene Revisor handeln mit der gebotenen Eile.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Eingefügt durch Ziff. I des BG vom 4. Oktober 1991 (AS 1992 733; BBl 1983 II 745). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Januar 2023 ([AS 2020 4005](https://www.fedlex.admin.ch/eli/oc/2020/4005/de); [BBl 2017 399](https://www.fedlex.admin.ch/eli/fga/2017/399/de)).*
 
 ### Der Kapitalverlust und seine Rechtsfolgen auf einen Blick
 

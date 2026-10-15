@@ -8,6 +8,11 @@ tags: ["KG", "Kartellrecht", "Marktbeherrschung", "Relative Marktmacht", "Missbr
 agent_verified: true
 revisions:
   - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 251 vom 2023-07-01 (data/wortlaut/kg/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
+  - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
@@ -16,27 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 7 KG — Unzulässige Verhaltensweisen von Unternehmen mit marktbeherrschender oder relativer Marktmacht**
->
-> 1 Marktbeherrschende Unternehmen und relativ marktmächtige Unternehmen verhalten sich unzulässig, wenn sie durch den Missbrauch ihrer Stellung auf dem Markt andere Unternehmen in der Aufnahme oder Ausübung des Wettbewerbs behindern oder die Marktgegenseite benachteiligen.
->
-> 2 Als solche Verhaltensweisen gelten insbesondere:
->
-> a. die Verweigerung von Geschäftsbeziehungen (z. B. Liefer-, Bezugssperre);
->
-> b. die Diskriminierung von Handelspartnern bei Preisen oder sonstigen Geschäftsbedingungen;
->
-> c. die Erzwingung unangemessener Preise oder sonstiger unangemessener Geschäftsbedingungen;
->
-> d. die Unterbietung von Preisen oder sonstigen Geschäftsbedingungen, die gegen ein bestimmtes Unternehmen gerichtet ist;
->
-> e. die Einschränkung der Erzeugung, des Absatzes oder der technischen Entwicklung;
->
-> f. der Abschluss von Verträgen nur unter der Bedingung, dass die Vertragspartner zusätzliche Leistungen annehmen oder erbringen;
->
-> g. die Einschränkung der Möglichkeit für Nachfrager, Waren oder Dienstleistungen, die in der Schweiz und im Ausland angeboten werden, im Ausland zu den dortigen Marktpreisen und branchenüblichen Bedingungen zu beschaffen.
-
-*Wortlaut geprüft gegen [Fedlex, SR 251](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de), Stand der Konsolidierung 1. Juli 2023. Abs. 1 und 2 Einleitungssatz in der Fassung gemäss Ziff. I des BG vom 19. März 2021 (Indirekter Gegenentwurf zur Volksinitiative «Stop der Hochpreisinsel – für faire Preise»), in Kraft seit 1. Januar 2022 ([AS 2021 634](https://www.fedlex.admin.ch/eli/oc/2021/634/de); [BBl 2021 685](https://www.fedlex.admin.ch/eli/fbl/2021/685/de)). Abs. 2 lit. g eingefügt durch dieselbe Revision.*
+{{< wortlaut >}}
 
 ## Überblick und Systematik
 

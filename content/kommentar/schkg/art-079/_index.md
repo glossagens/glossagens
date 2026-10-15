@@ -2,11 +2,16 @@
 title: "Art. 79 SchKG — Beseitigung des Rechtsvorschlags im Zivil- und Verwaltungsverfahren"
 weight: 79
 date: 2026-05-24
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 79 SchKG: Beseitigung des Rechtsvorschlags durch Anerkennungsklage oder Verwaltungsverfahren, Verhältnis zur Rechtsöffnung, Dispositivzusatz, Schiedsgericht, Zustellung, Einwendungen des Schuldners, Grenzkasuistik."
 tags: ["SchKG", "Rechtsvorschlag", "Anerkennungsklage", "Rechtsöffnung", "Betreibungsfortsetzung", "Verwaltungsverfahren", "Zustellung", "Dispositivzusatz", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-079.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,12 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 79 SchKG** — Beseitigung des Rechtsvorschlags
->
-> Ein Gläubiger, gegen dessen Betreibung Rechtsvorschlag erhoben worden ist, hat seinen Anspruch im Zivilprozess oder im Verwaltungsverfahren geltend zu machen. Er kann die Fortsetzung der Betreibung nur aufgrund eines vollstreckbaren Entscheids erwirken, der den Rechtsvorschlag ausdrücklich beseitigt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dezember 2008, in Kraft seit 1. Januar 2011 (AS 2010 1739; BBl 2006 7221).*
 
 ---
 

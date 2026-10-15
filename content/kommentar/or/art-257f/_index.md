@@ -2,11 +2,16 @@
 title: "Art. 257f — Sorgfalts- und Rücksichtnahmepflicht des Mieters"
 weight: 257
 date: 2026-05-22
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 257f OR – Sorgfalts- und Rücksichtnahmepflicht, ausserordentliche Kündigung"
 tags: ["OR", "Mietrecht", "Sorgfaltspflicht", "ausserordentliche Kündigung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-257f.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 257f OR — Sorgfalt und Rücksichtnahme**
->
-> ¹ Der Mieter muss die Sache sorgfältig gebrauchen.
->
-> ² Der Mieter einer unbeweglichen Sache muss auf Hausbewohner und Nachbarn Rücksicht nehmen.
->
-> ³ Verletzt der Mieter trotz schriftlicher Mahnung des Vermieters seine Pflicht zu Sorgfalt oder Rücksichtnahme weiter, so dass dem Vermieter oder den Hausbewohnern die Fortsetzung des Mietverhältnisses nicht mehr zuzumuten ist, so kann der Vermieter fristlos, bei Wohn- und Geschäftsräumen mit einer Frist von mindestens 30 Tagen auf Ende eines Monats kündigen.
->
-> ⁴ Der Vermieter von Wohn- oder Geschäftsräumen kann jedoch fristlos kündigen, wenn der Mieter vorsätzlich der Sache schweren Schaden zufügt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

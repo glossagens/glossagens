@@ -2,11 +2,16 @@
 title: "Art. 94 — Rechtsverweigerung und Rechtsverzögerung"
 weight: 94
 date: 2026-07-03
-lastmod: 2026-07-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 94 BGG: Beschwerde gegen das unrechtmässige Verweigern oder Verzögern eines anfechtbaren Entscheids; Voraussetzungen, Einheit des Verfahrens, formlose Rechtsverweigerung."
 tags: ["BGG", "Rechtsverweigerung", "Rechtsverzögerung", "Beschwerde", "Art. 29 BV"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-094.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,9 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 94 BGG — Rechtsverweigerung und Rechtsverzögerung**: Gegen das unrechtmässige Verweigern oder Verzögern eines anfechtbaren Entscheids kann Beschwerde geführt werden.
-
-*(Fedlex-Stand: 2026-04-01)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

@@ -2,27 +2,21 @@
 title: "Art. 17 — Pflichten des Versicherten"
 weight: 17
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 17 AVIG: Kontrollpflichten des Versicherten; Pflicht zur Stellensuche; Meldepflicht beim RAV; Nachweispflicht der Arbeitsbemühungen (Art. 26 AVIG); Einstellung bei Verletzung (Art. 30 AVIG)."
 tags: ["AVIG", "Arbeitslosenversicherung", "Kontrollpflichten", "Stellensuche", "Einstellung", "Sozialversicherung"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Der Versicherte, der Versicherungsleistungen beanspruchen will, muss mit Unterstützung des zuständigen Arbeitsamtes alles Zumutbare unternehmen, um Arbeitslosigkeit zu vermeiden oder zu verkürzen. Insbesondere ist er verpflichtet, Arbeit zu suchen, nötigenfalls auch ausserhalb seines bisherigen Berufes. Er muss seine Bemühungen nachweisen können.
->
-> **2** Die versicherte Person muss sich möglichst frühzeitig, spätestens jedoch am ersten Tag, für den sie Arbeitslosenentschädigung beansprucht, persönlich zur Arbeitsvermittlung anmelden und von da an die Kontrollvorschriften des Bundesrates befolgen.
->
-> **2bis** Die Anmeldung zur Arbeitsvermittlung wird durch die zuständigen Behörden nach den Artikeln 85 und 85b bearbeitet.
->
-> **3** Der Versicherte muss eine vermittelte zumutbare Arbeit annehmen. Er hat auf Weisung der zuständigen Amtsstelle: a. an arbeitsmarktlichen Massnahmen teilzunehmen, die seine Vermittlungsfähigkeit fördern; b. an Beratungsgesprächen und Informationsveranstaltungen sowie an Fachberatungsgesprächen nach Absatz 5 teilzunehmen; und c. die Unterlagen für die Beurteilung seiner Vermittlungsfähigkeit oder der Zumutbarkeit einer Arbeit zu liefern.
->
-> **4** Der Bundesrat kann ältere versicherte Langzeitarbeitslose teilweise von den Versichertenpflichten entbinden.
->
-> **5** Das Arbeitsamt kann in Einzelfällen eine versicherte Person einer geeigneten öffentlichen oder gemeinnützigen Einrichtung zur beruflichen, sozialen, migrationsspezifischen oder psychologischen Fachberatung zuweisen, sofern sich diese Massnahme aufgrund erfolgter Abklärungen als sinnvoll erweist.
-
-*(Fedlex-Stand: 2026-01-01)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

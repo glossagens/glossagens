@@ -2,11 +2,16 @@
 title: "Art. 95 ZPO — Begriffe"
 weight: 95
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 95 ZPO: Legaldefinition der Prozesskosten — Gerichtskosten (Schlichtungspauschalen, Entscheidgebühr, Beweiskosten, Übersetzung, Kindesvertretung) und Parteientschädigung (notwendige Auslagen, Vertretungskosten, Umtriebsentschädigung) inklusive neuester bundesgerichtlicher Leitentscheide (BGer 5A_174/2026, 5A_139/2025, BGE 144 III 164), Abgrenzung von materiellem Schadenersatz, Grenzkasuistik, kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 tags: ["ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Umtriebsentschädigung", "Kostenstreitwert", "Kindesvertretung", "Dolmetscherkosten", "Schlichtungsverfahren", "Beweiskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-95.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 95 ZPO — Begriffe**
->
-> ^1^ Prozesskosten sind:
-> a. die Gerichtskosten;
-> b. die Parteientschädigung.
->
-> ^2^ Gerichtskosten sind:
-> a. die Pauschalen für das Schlichtungsverfahren;
-> b. die Pauschalen für den Entscheid (Entscheidgebühr);
-> c. die Kosten der Beweisführung;
-> d. die Kosten für die Übersetzung;
-> e. die Kosten für die Vertretung des Kindes (Art. 299 und 300).
->
-> ^3^ Als Parteientschädigung gilt:
-> a. der Ersatz notwendiger Auslagen;
-> b. die Kosten einer berufsmässigen Vertretung;
-> c. in begründeten Fällen: eine angemessene Umtriebsentschädigung, wenn eine Partei nicht berufsmässig vertreten ist.
+{{< wortlaut >}}
 
 ---
 

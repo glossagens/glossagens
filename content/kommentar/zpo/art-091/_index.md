@@ -2,11 +2,16 @@
 title: "Art. 91 ZPO — Grundsatz"
 weight: 91
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 91 ZPO: Bestimmung des Streitwerts durch das Rechtsbegehren, Abzugspositionen (Zinsen, laufende Kosten, Eventualbegehren), Streitwertschätzung bei Nichtgeldforderungen, Parteivereinbarungen, Schranke der offensichtlichen Unrichtigkeit, Mieterausweisung, Stufenklagen und richterliche Fragepflicht."
 tags: ["ZPO", "Streitwert", "Rechtsbegehren", "Streitwertfestsetzung", "Eventualbegehren", "Mieterausweisung", "Stufenklage", "Zuständigkeit", "Verfahrensart", "Kostenvorschuss"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-091.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 91 ZPO — Grundsatz**
->
-> ^1^ Der Streitwert wird durch das Rechtsbegehren bestimmt. Zinsen und Kosten des laufenden Verfahrens oder einer allfälligen Publikation des Entscheids sowie allfällige Eventualbegehren werden nicht hinzugerechnet.
->
-> ^2^ Lautet das Rechtsbegehren nicht auf eine bestimmte Geldsumme, so setzt das Gericht den Streitwert fest, sofern sich die Parteien darüber nicht einigen oder ihre Angaben offensichtlich unrichtig sind.
+{{< wortlaut >}}
 
 ---
 

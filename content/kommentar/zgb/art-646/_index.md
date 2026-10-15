@@ -2,11 +2,16 @@
 title: "Art. 646 ZGB — Miteigentum (Grundnorm)"
 weight: 646
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 646 ZGB — Grundnorm des Miteigentums: Eigentum mehrerer Personen an einer Sache nach Bruchteilen (Quoten), gleiche Teile bei Fehlen anderweitiger Feststellung, Rechte und Pflichten am Anteil (veräusserbar, verpfändbar, pfändbar), Verwaltung und Benutzung (Art. 647), Verfügung einstimmig (Art. 648), Lasten und Ausgleich (Art. 649), Aufhebung/Teilung (Art. 650/651), gesetzliches Vorkaufsrecht der Miteigentümer (Art. 682), Miteigentum vs. Gesamteigentum, Miteigentum an Grundstücken/Stockwerkeigentum und Miteigentümer-Klage mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Miteigentum", "Bruchteil", "Quote", "Anteil", "Aufhebung", "Teilung", "Vorkaufsrecht", "Verwaltung", "Ausgleich", "Eigentumsfreiheitsklage", "Stockwerkeigentum"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-646.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,14 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 646 ZGB**
->
-> 1. Haben mehrere Personen eine Sache nach Bruchteilen und ohne äusserliche Abteilung in ihrem Eigentum, so sind sie Miteigentümer.
-> 2. Ist es nicht anders festgestellt, so sind sie Miteigentümer zu gleichen Teilen.
-> 3. Jeder Miteigentümer hat für seinen Anteil die Rechte und Pflichten eines Eigentümers, und es kann dieser Anteil von ihm veräussert und verpfändet und von seinen Gläubigern gepfändet werden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 646 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die **Grundnorm des Miteigentums**: haben mehrere Personen eine Sache nach Bruchteilen (Quoten) und ohne äusserliche Abteilung in ihrem Eigentum, so sind sie Miteigentümer (Abs. 1). Bei Fehlen anderweitiger Feststellung sind sie Miteigentümer zu gleichen Teilen (Abs. 2). Jeder Miteigentümer hat für seinen Anteil die Rechte und Pflichten eines Eigentümers; der Anteil kann veräussert, verpfändet und von den Gläubigern gepfändet werden (Abs. 3). Eine digital verfügbare Botschaft zu Art. 646 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 646 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die **Grundnorm des Miteigentums**: haben mehrere Personen eine Sache nach Bruchteilen (Quoten) und ohne äusserliche Abteilung in ihrem Eigentum, so sind sie Miteigentümer (Abs. 1). Bei Fehlen anderweitiger Feststellung sind sie Miteigentümer zu gleichen Teilen (Abs. 2). Jeder Miteigentümer hat für seinen Anteil die Rechte und Pflichten eines Eigentümers; der Anteil kann veräussert, verpfändet und von den Gläubigern gepfändet werden (Abs. 3). Eine digital verfügbare Botschaft zu Art. 646 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

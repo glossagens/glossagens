@@ -2,11 +2,16 @@
 title: "Art. 115 — Aufhebungsvertrag"
 weight: 115
 date: 2026-05-23
-lastmod: 2026-09-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 115 OR – Formloser Aufhebungsvertrag, Vergleichstest und Umgehungsverbot im Arbeitsrecht, Anfechtung, Abgrenzung zur Kündigung und Forderungsverzicht ausserhalb des Arbeitsrechts"
 tags: ["OR", "Aufhebungsvertrag", "Schuldrecht", "Vertragsrecht", "Arbeitsrecht", "Anfechtung", "Erlassvertrag", "Vergleich"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -21,9 +26,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 115 OR — Aufhebungsvertrag**
->
-> Eine Forderung kann durch Übereinkunft ganz oder zum Teil auch dann formlos aufgehoben werden, wenn zur Eingehung der Verbindlichkeit eine Form erforderlich oder von den Vertragschliessenden gewählt war.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 55 VwVG — Aufschiebende Wirkung"
 weight: 55
 date: 2026-08-02
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 55 VwVG: Aufschiebende Wirkung — Suspensiveffekt, Entzug, Wiederherstellung, Interessenabwägung, Staatshaftung und Kasuistik."
 tags: ["VwVG", "aufschiebende Wirkung", "Suspensiveffekt", "Interessenabwägung", "Wiederherstellung", "Staatshaftung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-055.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,18 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 55 VwVG (SR 172.021)** — Aufschiebende Wirkung
->
-> **1** Die Beschwerde hat aufschiebende Wirkung.
->
-> **2** Hat die Verfügung nicht eine Geldleistung zum Gegenstand, so kann die Vorinstanz darin einer allfälligen Beschwerde die aufschiebende Wirkung entziehen; dieselbe Befugnis steht der Beschwerdeinstanz, ihrem Vorsitzenden oder dem Instruktionsrichter nach Einreichung der Beschwerde zu.
->
-> **3** Die Beschwerdeinstanz, ihr Vorsitzender oder der Instruktionsrichter kann die von der Vorinstanz entzogene aufschiebende Wirkung wiederherstellen; über ein Begehren um Wiederherstellung der aufschiebenden Wirkung ist ohne Verzug zu entscheiden.
->
-> **4** Wird die aufschiebende Wirkung willkürlich entzogen oder einem Begehren um Wiederherstellung der aufschiebenden Wirkung willkürlich nicht oder verspätet entsprochen, so haftet für den daraus erwachsenden Schaden die Körperschaft oder autonome Anstalt, in deren Namen die Behörde verfügt hat.
->
-> **5** Vorbehalten bleiben die Bestimmungen anderer Bundesgesetze, nach denen eine Beschwerde keine aufschiebende Wirkung hat.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

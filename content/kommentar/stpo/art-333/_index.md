@@ -2,11 +2,16 @@
 title: "Art. 333 StPO — Änderung und Erweiterung der Anklage"
 weight: 333
 date: "2026-06-08"
-lastmod: "2026-09-04"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 333 StPO – Änderung und Erweiterung der Anklage im gerichtlichen Hauptverfahren"
 tags: ["StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-333.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -31,15 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 333 StPO — Änderung und Erweiterung der Anklage**
->
-> 1 Das Gericht gibt der Staatsanwaltschaft Gelegenheit, die Anklage zu ändern, wenn nach seiner Auffassung der in der Anklageschrift umschriebene Sachverhalt einen andern Straftatbestand erfüllen könnte, die Anklageschrift aber den gesetzlichen Anforderungen nicht entspricht.
->
-> 2 Werden während des Hauptverfahrens neue Straftaten der beschuldigten Person bekannt, so kann das Gericht der Staatsanwaltschaft gestatten, die Anklage zu erweitern.
->
-> 3 Eine Erweiterung ist ausgeschlossen, wenn dadurch das Verfahren über Gebühr erschwert oder die Zuständigkeit des Gerichts ändern würde oder wenn ein Fall von Mittäterschaft oder Teilnahme vorliegt. In diesen Fällen leitet die Staatsanwaltschaft ein Vorverfahren ein.
->
-> 4 Das Gericht darf eine geänderte oder erweiterte Anklage seinem Urteil nur zu Grunde legen, wenn die Parteirechte der beschuldigten Person und der Privatklägerschaft gewahrt worden sind. Es unterbricht dafür nötigenfalls die Hauptverhandlung.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

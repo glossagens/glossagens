@@ -2,11 +2,16 @@
 title: "Art. 106 BGG — Rechtsanwendung"
 weight: 106
 date: 2026-09-29
-lastmod: 2026-09-29
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 106 BGG: Rechtsanwendung von Amtes wegen (Iura novit curia), Motivsubstitution, Schranke der überraschenden Rechtsanwendung (Art. 29 Abs. 2 BV), qualifiziertes Rügeprinzip für Grundrechte sowie kantonales und interkantonales Recht, Verbot appellatorischer Kritik, Anfechtungsobliegenheit bei Mehrfachbegründung und kantonale Praxisfragen."
 tags: ["BGG", "Bundesgericht", "Rechtsanwendung", "Iura novit curia", "Motivsubstitution", "Rügeprinzip", "Qualifizierte Rügepflicht", "Grundrechte", "Kantonales Recht", "Willkür", "Appellatorische Kritik", "Mehrfachbegründung", "Rechtliches Gehör"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-106.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-29
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -16,12 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 106 BGG — Rechtsanwendung**
->
-> 1 Das Bundesgericht wendet das Recht von Amtes wegen an.
-> 2 Es prüft die Verletzung von Grundrechten und von kantonalem und interkantonalem Recht nur insofern, als eine solche Rüge in der Beschwerde vorgebracht und begründet worden ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 173.110), Stand der Konsolidierung 1. April 2026. In Kraft seit 1. Januar 2007 (AS 2006 1205; BBl 2001 4202).*
 
 ### Die Prüfungs- und Rügemassstäbe auf einen Blick
 

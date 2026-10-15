@@ -2,11 +2,16 @@
 title: "Art. 83 BGG — Ausnahmen von der Beschwerde"
 weight: 83
 date: 2026-05-23
-lastmod: 2026-09-23
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 83 BGG: Der exhaustive Negativkatalog zur Beschwerde in öffentlich-rechtlichen Angelegenheiten — Grundsatz der Einheit des Verfahrens, Grenzen der Star-Praxis bei Vorinstanzen, Schwellenwerte und Grundsatzfragen bei Beschaffungen, Disziplinarmassnahmen im öffentlichen Dienstrecht, Noten- vs. Organisationsentscheide bei Prüfungen sowie aktuelle Kasuistik zum Asyl- und Ausländerrecht (inkl. BGer 2C_395/2026 zum Schutzstatus S)."
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Einheit des Verfahrens", "Star-Praxis", "Rechtsverweigerung", "Öffentliche Beschaffungen", "Öffentlich-rechtliche Arbeitsverhältnisse", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht", "Status S"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-083.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,89 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 83 BGG — Ausnahmen**
->
-> Die Beschwerde ist unzulässig gegen:
->
-> a. Entscheide auf dem Gebiet der inneren oder äusseren Sicherheit des Landes, der Neutralität, des diplomatischen Schutzes und der übrigen auswärtigen Angelegenheiten, soweit das Völkerrecht nicht einen Anspruch auf gerichtliche Beurteilung einräumt;
->
-> b. Entscheide über die ordentliche Einbürgerung;
->
-> c. Entscheide auf dem Gebiet des Ausländerrechts betreffend:
-> 1. die Einreise,
-> 2. Bewilligungen, auf die weder das Bundesrecht noch das Völkerrecht einen Anspruch einräumt,
-> 3. die vorläufige Aufnahme,
-> 4. die Ausweisung gestützt auf Artikel 121 Absatz 2 der Bundesverfassung und die Wegweisung,
-> 5. Abweichungen von den Zulassungsvoraussetzungen,
-> 6. die Verlängerung der Grenzgängerbewilligung, den Kantonswechsel, den Stellenwechsel von Personen mit Grenzgängerbewilligung sowie die Erteilung von Reisepapieren an schriftenlose Ausländerinnen und Ausländer;
->
-> d. Entscheide auf dem Gebiet des Asyls, die:
-> 1. vom Bundesverwaltungsgericht getroffen worden sind, ausser sie betreffen Personen, gegen die ein Auslieferungsersuchen des Staates vorliegt, vor welchem sie Schutz suchen,
-> 2. von einer kantonalen Vorinstanz getroffen worden sind und eine Bewilligung betreffen, auf die weder das Bundesrecht noch das Völkerrecht einen Anspruch einräumt;
->
-> e. Entscheide über die Verweigerung der Ermächtigung zur Strafverfolgung von Behördenmitgliedern oder von Bundespersonal;
->
-> f. Entscheide auf dem Gebiet der öffentlichen Beschaffungen, wenn:
-> 1. sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt; vorbehalten bleiben Beschwerden gegen Beschaffungen des Bundesverwaltungsgerichts, des Bundesstrafgerichts, des Bundespatentgerichts, der Bundesanwaltschaft sowie der oberen kantonalen Gerichtsinstanzen, oder
-> 2. der geschätzte Wert des zu vergebenden Auftrags den massgebenden Schwellenwert nach Artikel 52 Absatz 1 in Verbindung mit Anhang 4 Ziffer 2 des Bundesgesetzes vom 21. Juni 2019 über das öffentliche Beschaffungswesen nicht erreicht;
->
-> f bis. Entscheide des Bundesverwaltungsgerichts über Verfügungen nach Artikel 32i des Personenbeförderungsgesetzes vom 20. März 2009;
->
-> g. Entscheide auf dem Gebiet der öffentlich-rechtlichen Arbeitsverhältnisse, wenn sie eine nicht vermögensrechtliche Angelegenheit, nicht aber die Gleichstellung der Geschlechter betreffen;
->
-> h. Entscheide auf dem Gebiet der internationalen Amtshilfe, mit Ausnahme der Amtshilfe in Steuersachen;
->
-> i. Entscheide auf dem Gebiet des Militär-, Zivil- und Zivilschutzdienstes;
->
-> j. Entscheide auf dem Gebiet der wirtschaftlichen Landesversorgung, die bei schweren Mangellagen getroffen worden sind;
->
-> k. Entscheide betreffend Subventionen, auf die kein Anspruch besteht;
->
-> l. Entscheide über die Zollveranlagung, wenn diese auf Grund der Tarifierung oder des Gewichts der Ware erfolgt;
->
-> m. Entscheide über die Stundung oder den Erlass von Abgaben; in Abweichung davon ist die Beschwerde zulässig gegen Entscheide über den Erlass der direkten Bundessteuer oder der kantonalen oder kommunalen Einkommens- und Gewinnsteuer, wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder es sich aus anderen Gründen um einen besonders bedeutenden Fall handelt;
->
-> n. Entscheide auf dem Gebiet der Kernenergie betreffend:
-> 1. das Erfordernis einer Freigabe oder der Änderung einer Bewilligung oder Verfügung,
-> 2. die Genehmigung eines Plans für Rückstellungen für die vor Ausserbetriebnahme einer Kernanlage anfallenden Entsorgungskosten,
-> 3. Freigaben;
->
-> o. Entscheide über die Typengenehmigung von Fahrzeugen auf dem Gebiet des Strassenverkehrs;
->
-> p. Entscheide des Bundesverwaltungsgerichts auf dem Gebiet des Fernmeldeverkehrs, des Radios und des Fernsehens sowie der Post betreffend:
-> 1. Konzessionen, die Gegenstand einer öffentlichen Ausschreibung waren,
-> 2. Streitigkeiten nach Artikel 11a des Fernmeldegesetzes vom 30. April 1997,
-> 3. Streitigkeiten nach Artikel 8 des Postgesetzes vom 17. Dezember 2010;
->
-> q. Entscheide auf dem Gebiet der Transplantationsmedizin betreffend:
-> 1. die Aufnahme in die Warteliste,
-> 2. die Zuteilung von Organen;
->
-> r. Entscheide auf dem Gebiet der Krankenversicherung, die das Bundesverwaltungsgericht gestützt auf Artikel 34 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 (VGG) getroffen hat;
->
-> s. Entscheide auf dem Gebiet der Landwirtschaft betreffend:
-> 1. [aufgehoben]
-> 2. die Abgrenzung der Zonen im Rahmen des Produktionskatasters;
->
-> t. Entscheide über das Ergebnis von Prüfungen und anderen Fähigkeitsbewertungen, namentlich auf den Gebieten der Schule, der Weiterbildung und der Berufsausübung;
->
-> u. Entscheide auf dem Gebiet der öffentlichen Kaufangebote (Art. 125‒141 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015);
->
-> v. Entscheide des Bundesverwaltungsgerichts über Meinungsverschiedenheiten zwischen Behörden in der innerstaatlichen Amts- und Rechtshilfe;
->
-> w. Entscheide auf dem Gebiet des Elektrizitätsrechts betreffend die Plangenehmigung von Starkstromanlagen und Schwachstromanlagen und die Entscheide auf diesem Gebiet betreffend Enteignung der für den Bau oder Betrieb solcher Anlagen notwendigen Rechte, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
->
-> x. Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt;
->
-> y. Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung;
->
-> z. Entscheide betreffend die in Artikel 71c Absatz 1 Buchstabe b des Energiegesetzes vom 30. September 2016 genannten Baubewilligungen und notwendigerweise damit zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen für Windenergieanlagen von nationalem Interesse, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
->
-> z bis. Entscheide über die Gewährung von Wasserrechtskonzessionen für Anlagen nach Artikel 9a Absatz 3 in Verbindung mit Anhang 2 des Stromversorgungsgesetzes vom 23. März 2007, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
->
-> z ter. Entscheide über Beschwerden von Organisationen nach den Artikeln 55 des Umweltschutzgesetzes vom 7. Oktober 1983 und 12 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz betreffend Wasserkraftwerke nach Artikel 9a Absatz 3 und Anhang 2 in der Fassung vom 29. September 2023 des Stromversorgungsgesetzes.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 173.110](https://www.fedlex.admin.ch/eli/cc/2006/218/de), Stand der Konsolidierung 1. April 2026. lit. z bis und z ter eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 (AS 2026 99; BBl 2023 1602).*
 
 ---
 

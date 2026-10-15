@@ -2,11 +2,16 @@
 title: "Art. 29 BV — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit", "Offizialmaxime", "Eingrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-029.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -36,15 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 29 BV — Allgemeine Verfahrensgarantien**
->
-> 1 Jede Person hat in Verfahren vor Gerichts- und Verwaltungsinstanzen Anspruch auf gleiche und gerechte Behandlung sowie auf Beurteilung innert angemessener Frist.
->
-> 2 Die Parteien haben Anspruch auf rechtliches Gehör.
->
-> 3 Jede Person, die nicht über die erforderlichen Mittel verfügt, hat Anspruch auf unentgeltliche Rechtspflege, wenn ihr Rechtsbegehren nicht aussichtslos erscheint. Soweit es zur Wahrung ihrer Rechte notwendig ist, hat sie ausserdem Anspruch auf unentgeltlichen Rechtsbeistand.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 101](https://www.fedlex.admin.ch/eli/cc/1999/404/de), Stand der Konsolidierung 3. März 2024.*
 
 ---
 

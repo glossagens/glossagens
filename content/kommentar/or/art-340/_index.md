@@ -2,11 +2,16 @@
 title: "Art. 340 OR — Nachvertragliches Konkurrenzverbot"
 weight: 340
 date: 2026-05-17
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 340 OR: Nachvertragliches Konkurrenzverbot — Voraussetzungen, Schriftform, Einblick in Kundenkreis und Fabrikationsgeheimnisse, persönliche Fähigkeiten und Karenzentschädigung."
 tags: ["OR", "Konkurrenzverbot", "Karenzentschädigung", "Arbeitsvertrag", "nachvertraglich", "Schriftform", "Kundenkreis"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-340.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 340 OR — Nachvertragliches Konkurrenzverbot / Voraussetzungen**
->
-> ¹ Der handlungsfähige Arbeitnehmer kann sich gegenüber dem Arbeitgeber schriftlich verpflichten, nach Beendigung des Arbeitsverhältnisses sich jeder konkurrenzierenden Tätigkeit zu enthalten, insbesondere weder auf eigene Rechnung ein Geschäft zu betreiben, das mit dem des Arbeitgebers in Wettbewerb steht, noch in einem solchen Geschäft tätig zu sein oder sich daran zu beteiligen.
->
-> ² Das Konkurrenzverbot ist nur verbindlich, wenn das Arbeitsverhältnis dem Arbeitnehmer Einblick in den Kundenkreis oder in Fabrikations- und Geschäftsgeheimnisse gewährt und die Verwendung dieser Kenntnisse den Arbeitgeber erheblich schädigen könnte.
-
-*Quelle: Fedlex (SR 220), Stand 01.01.2026*
+{{< wortlaut >}}
 
 ## Vorbemerkungen & Systematik
 

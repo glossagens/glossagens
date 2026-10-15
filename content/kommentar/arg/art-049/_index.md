@@ -2,23 +2,21 @@
 title: "Art. 49 — Bewilligungsverfahren"
 weight: 49
 date: "2026-07-09"
-lastmod: "2026-07-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 49 ArG – Bewilligungsverfahren: Gesuchspflicht, Dringlichkeit und Kanzleigebühren"
 tags: ["ArG", "Bewilligungsverfahren", "Arbeitszeitbewilligung", "Verwaltungsverfahren"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 79 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzestext
 
-> **Art. 49 Bewilligungsverfahren**
->
-> **¹** Der Arbeitgeber hat Gesuche für die im Gesetze vorgesehenen Bewilligungen rechtzeitig einzureichen und zu begründen sowie die erforderlichen Unterlagen beizufügen.
->
-> **²** Kann in dringlichen Fällen das Gesuch für eine Arbeitszeitbewilligung nicht rechtzeitig gestellt werden, so hat der Arbeitgeber dies so rasch als möglich nachzuholen und die Verspätung zu begründen. In nicht voraussehbaren Fällen von geringfügiger Tragweite kann auf die nachträgliche Einreichung eines Gesuches verzichtet werden.
->
-> **³** Für Arbeitszeitbewilligungen dürfen lediglich mässige Kanzleigebühren erhoben werden.
->
-> *Fassung gemäss Ziff. II Art. 5 des BG vom 25. Juni 1971 über die Revision des Zehnten Titels und des Zehnten Titels bis des Obligationenrechts (Der Arbeitsvertrag), in Kraft seit 1. Jan. 1972 (AS 1971 1465; BBl 1967 II 241). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
+{{< wortlaut >}}
 
 ## Kommentar
 

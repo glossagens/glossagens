@@ -2,11 +2,16 @@
 title: "Art. 189 — Sexuelle Nötigung"
 weight: 189
 date: "2026-07-04"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 189 StGB – Sexuelle Nötigung, Nötigungsmittel, psychischer Druck, Schockzustand, Revision des Sexualstrafrechts 2024"
 tags: ["StGB", "Sexuelle Nötigung", "Sexualstrafrecht", "Nötigung", "psychischer Druck"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-189.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -15,13 +20,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Wer gegen den Willen einer Person eine sexuelle Handlung an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnützt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> **2** Wer eine Person zur Vornahme oder Duldung einer sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
->
-> **3** Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
-
-*Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 (AS 2024 27; BBl 2018 2827; 2022 687, 1011).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

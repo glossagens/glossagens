@@ -2,11 +2,16 @@
 title: "Art. 261 ZPO — Vorsorgliche Massnahmen (Grundsatz)"
 weight: 261
 date: 2026-07-18
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 261 ZPO: Voraussetzungen für vorsorgliche Massnahmen im Zivilprozess — Verfügungsanspruch, nicht leicht wiedergutzumachender Nachteil, Glaubhaftmachung, superprovisorische Praxis, Kasuistik und kantonale Praxis."
 tags: ["ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen", "Glaubhaftmachung", "Superprovisorium", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-261.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,14 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 261 ZPO (SR 272)** — Grundsatz
->
-> **1** Das Gericht trifft die notwendigen vorsorglichen Massnahmen, wenn die gesuchstellende Partei glaubhaft macht, dass:
-> **a.** ein ihr zustehender Anspruch verletzt ist oder eine Verletzung zu befürchten ist; und
-> **b.** ihr aus der Verletzung ein nicht leicht wieder gutzumachender Nachteil droht.
->
-> **2** Leistet die Gegenpartei angemessene Sicherheit, so kann das Gericht von vorsorglichen Massnahmen absehen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

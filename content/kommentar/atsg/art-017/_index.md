@@ -2,11 +2,16 @@
 title: "Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 weight: 17
 date: 2026-05-15
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 17 ATSG: Voraussetzungen der Rentenrevision, 5-Prozentpunkte-Schwelle, zeitliche Vergleichsbasis, zweistufige Prüfung und Abgrenzung zur Wiedererwägung."
 tags: ["Rentenrevision", "Invalidenversicherung", "Sachverhaltsänderung", "ATSG", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,14 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 17 — Revision der Invalidenrente und anderer Dauerleistungen**
->
-> ¹ Die Invalidenrente wird von Amtes wegen oder auf Gesuch hin für die Zukunft erhöht, herabgesetzt oder aufgehoben, wenn der Invaliditätsgrad einer Rentenbezügerin oder eines Rentenbezügers sich:
-> a. um mindestens fünf Prozentpunkte ändert; oder
-> b. auf 100 Prozent erhöht.
->
-> ² Auch jede andere formell rechtskräftig zugesprochene Dauerleistung wird von Amtes wegen oder auf Gesuch hin erhöht, herabgesetzt oder aufgehoben, wenn sich der ihr zu Grunde liegende Sachverhalt nachträglich erheblich verändert hat.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

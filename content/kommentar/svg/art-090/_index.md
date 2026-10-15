@@ -2,11 +2,16 @@
 title: "Art. 90 — Verletzung von Verkehrsregeln"
 weight: 90
 date: 2026-09-05
-lastmod: 2026-10-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 90 SVG: Dreistufiges Sanktionssystem (einfache, grobe und qualifiziert grobe Verkehrsregelverletzung); Geschwindigkeitsschwellenwerte (BGer-Praxis zu Abs. 2 und Abs. 4); Kasuistik zu Rechtsüberholen, Abstand, Rotlicht und Ablenkung; Vorsatzbegriff und Entkopplung vom Tötungsvorsatz (BGer 6B_966/2025); Ersttäterprivileg (Abs. 3ter) und Strafmilderung (Abs. 3bis); unbewusste Fahrlässigkeit bei Bahnübergängen; Verbindungsbusse (Art. 42 Abs. 4 StGB)."
 tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "grobe Verkehrsregelverletzung", "qualifizierte grobe Verkehrsregelverletzung", "Geschwindigkeitsüberschreitung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-090.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -31,25 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Mit Busse wird bestraft, wer Verkehrsregeln dieses Gesetzes oder der Vollziehungsvorschriften des Bundesrates verletzt.
->
-> **2** Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer durch grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt.
->
-> **3** Mit Freiheitsstrafe von einem bis zu vier Jahren wird bestraft, wer durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern eingeht, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen.
->
-> **3bis** Die Mindeststrafe von einem Jahr kann bei Widerhandlungen gemäss Absatz 3 unterschritten werden, wenn ein Strafmilderungsgrund nach Artikel 48 StGB vorliegt, insbesondere wenn der Täter aus achtenswerten Beweggründen gehandelt hat.
->
-> **3ter** Der Täter kann bei Widerhandlungen gemäss Absatz 3 mit Freiheitsstrafe bis zu vier Jahren oder Geldstrafe bestraft werden, wenn er nicht innerhalb der letzten zehn Jahre vor der Tat wegen eines Verbrechens oder Vergehens im Strassenverkehr mit ernstlicher Gefahr für die Sicherheit anderer, respektive mit Verletzung oder Tötung anderer verurteilt wurde.
->
-> **4** Eine besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit liegt vor, wenn diese überschritten wird um:
-> a. mindestens 40 km/h, wo die Höchstgeschwindigkeit höchstens 30 km/h beträgt;
-> b. mindestens 50 km/h, wo die Höchstgeschwindigkeit höchstens 50 km/h beträgt;
-> c. mindestens 60 km/h, wo die Höchstgeschwindigkeit höchstens 80 km/h beträgt;
-> d. mindestens 80 km/h, wo die Höchstgeschwindigkeit mehr als 80 km/h beträgt.
->
-> **5** Artikel 237 Ziffer 2 des Strafgesetzbuches findet in diesen Fällen keine Anwendung.
+{{< wortlaut >}}
 
-*(Fedlex-Stand: 2026-07-01; SR 741.01)*
 
 ---
 

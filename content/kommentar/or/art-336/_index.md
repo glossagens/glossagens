@@ -2,11 +2,16 @@
 title: "Art. 336 OR — Missbräuchliche Kündigung"
 weight: 336
 date: 2026-05-23
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 336 OR: die verpönten Kündigungsmotive (Persönlichkeitseigenschaft, verfassungsmässige Rechte, Vereitelung, Rache, Dienstpflichten, Gewerkschaft, Arbeitnehmervertretung, Massenentlassung), die ungeschriebenen Missbrauchstatbestände (Alterskündigung, Sündenbock, Konflikt am Arbeitsplatz, Verdachtskündigung) sowie Motivkausalität, Beweismass und Einspracheobliegenheit — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht", "Kündigungsfreiheit", "Rachekündigung", "Alterskündigung", "Verdachtskündigung", "Änderungskündigung", "Impfobligatorium", "Beweismass", "Einsprache"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-336.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -36,43 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 336 OR — Missbräuchliche Kündigung (Grundsatz)**
->
-> ---
->
-> **Abs. 1 — Beide Parteien**
->
-> Die Kündigung eines Arbeitsverhältnisses ist missbräuchlich, wenn eine Partei sie ausspricht:
->
-> **a.** wegen einer Eigenschaft, die der anderen Partei kraft ihrer Persönlichkeit zusteht, *es sei denn*, diese Eigenschaft stehe in einem Zusammenhang mit dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
->
-> **b.** weil die andere Partei ein verfassungsmässiges Recht ausübt, *es sei denn*, die Rechtsausübung verletze eine Pflicht aus dem Arbeitsverhältnis oder beeinträchtige wesentlich die Zusammenarbeit im Betrieb;
->
-> **c.** ausschliesslich um die Entstehung von Ansprüchen der anderen Partei aus dem Arbeitsverhältnis zu vereiteln;
->
-> **d.** weil die andere Partei nach Treu und Glauben Ansprüche aus dem Arbeitsverhältnis geltend macht;
->
-> **e.** weil die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet oder eine nicht freiwillig übernommene gesetzliche Pflicht erfüllt.
->
-> ---
->
-> **Abs. 2 — Nur Kündigung durch den Arbeitgeber**
->
-> Die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber ist im Weiteren missbräuchlich, wenn sie ausgesprochen wird:
->
-> **a.** weil der Arbeitnehmer einem Arbeitnehmerverband angehört oder nicht angehört oder weil er eine gewerkschaftliche Tätigkeit rechtmässig ausübt;
->
-> **b.** während der Arbeitnehmer gewählter Arbeitnehmervertreter in einer betrieblichen oder in einer dem Unternehmen angeschlossenen Einrichtung ist, und der Arbeitgeber nicht beweisen kann, dass er einen begründeten Anlass zur Kündigung hatte;
->
-> **c.** im Rahmen einer Massenentlassung, ohne dass die Arbeitnehmervertretung oder, falls es keine solche gibt, die Arbeitnehmer, konsultiert worden sind (Art. 335*f*).
->
-> ---
->
-> **Abs. 3 — Fortdauer des Vertreterschutzes beim Betriebsübergang**
->
-> Der Schutz eines Arbeitnehmervertreters nach Absatz 2 Buchstabe b, dessen Mandat infolge Übergangs des Arbeitsverhältnisses endet (Art. 333), besteht so lange weiter, als das Mandat gedauert hätte, falls das Arbeitsverhältnis nicht übertragen worden wäre.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 in der Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Januar 1989 (AS 1988 1472); Abs. 1 lit. e in der Fassung gemäss Anhang Ziff. 3 des Zivildienstgesetzes vom 6. Oktober 1995, in Kraft seit 1. Oktober 1996 (AS 1996 1445); Abs. 2 lit. c und Abs. 3 eingefügt durch Ziff. I des BG vom 17. Dezember 1993, in Kraft seit 1. Mai 1994 (AS 1994 804).*
 
 ### Die acht benannten Tatbestände auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 296 — Untersuchungs- und Offizialgrundsatz"
 weight: 296
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 296 ZPO — Untersuchungs- und Offizialgrundsatz: amtswegige Sachverhaltsermittlung im Kindesunterhalt, Mitwirkungspflicht bei Abstammungsabklaerung, Entscheidung ohne Bindung an Parteiantraege, Durchgriff auf nachehelichen Unterhalt."
 tags: ["ZPO", "Untersuchungsgrundsatz", "Untersuchungsmaxime", "Offizialgrundsatz", "Kindesunterhalt", "Amtswegige Sachverhaltsermittlung", "Offizialmaxime", "Abstammung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-296.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
@@ -18,13 +23,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 296 Untersuchungs- und Offizialgrundsatz**
->
-> 1 Das Gericht erforscht den Sachverhalt von Amtes wegen.
-> 2 Zur Aufklärung der Abstammung haben Parteien und Dritte an Untersuchungen mitzuwirken, die nötig und ohne Gefahr für die Gesundheit sind. Die Bestimmungen über die Verweigerungsrechte der Parteien und von Dritten sind nicht anwendbar.
-> 3 Das Gericht entscheidet ohne Bindung an die Parteianträge.
-
-*(Quelle: [SR 272 Art. 296](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de#art_296), Stand 1. Juli 2026)*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

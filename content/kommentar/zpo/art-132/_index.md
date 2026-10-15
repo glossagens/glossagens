@@ -2,11 +2,16 @@
 title: "Art. 132 ZPO — Mangelhafte, querulatorische und rechtsmissbräuchliche Eingaben"
 weight: 132
 date: 2026-10-14
-lastmod: 2026-10-14
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 132 ZPO: Gerichtliche Nachfrist bei formellen Mängeln, Ungebührlichkeit, Weitschweifigkeit sowie Schriftenrückgabe bei Rechtsmissbrauch und Querulanz."
 tags: ["ZPO", "Verfahrensrecht", "Rechtsschriften", "Nachfrist", "Rechtsmissbrauch", "Querulanz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-132.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,15 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 132 ZPO — Mangelhafte, querulatorische und rechtsmissbräuchliche Eingaben**
->
-> 1 Mängel wie fehlende Unterschrift und fehlende Vollmacht sind innert einer gerichtlichen Nachfrist zu verbessern. Andernfalls gilt die Eingabe als nicht erfolgt.
->
-> 2 Gleiches gilt für unleserliche, ungebührliche, unverständliche oder weitschweifige Eingaben.
->
-> 3 Querulatorische und rechtsmissbräuchliche Eingaben werden ohne Weiteres zurückgeschickt.
+{{< wortlaut >}}
 
-*Gesetzestext verifiziert über Fedlex (SR 272).*
 
 ---
 

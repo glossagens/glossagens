@@ -2,11 +2,16 @@
 title: "Art. 343 StPO — Beweisabnahme"
 weight: 343
 date: "2026-07-17"
-lastmod: "2026-09-09"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 343 StPO: Gerichtliche Beweisabnahme, beschränktes Unmittelbarkeitsprinzip, neue und unvollständige Beweise (Abs. 1), zwingende Wiederholung mangelhafter Vorverfahrensbeweise nach BGE 150 IV 345 (Abs. 2), Notwendigkeit der unmittelbaren Kenntnis bei Aussage-gegen-Aussage-Konstellationen (Abs. 3) sowie die Schranken der Rückweisung an die Staatsanwaltschaft (BGE 141 IV 39)."
 tags: ["StPO", "Beweisabnahme", "Unmittelbarkeitsprinzip", "Hauptverhandlung", "Aussage gegen Aussage", "Beweiswürdigung", "Teilnahmerechte", "Berufungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-343.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -21,15 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 343 StPO — Beweisabnahme**
->
-> 1 Das Gericht erhebt neue und ergänzt unvollständig erhobene Beweise.
->
-> 2 Es erhebt im Vorverfahren nicht ordnungsgemäss erhobene Beweise nochmals.
->
-> 3 Es erhebt im Vorverfahren ordnungsgemäss erhobene Beweise nochmals, sofern die unmittelbare Kenntnis des Beweismittels für die Urteilsfällung notwendig erscheint.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

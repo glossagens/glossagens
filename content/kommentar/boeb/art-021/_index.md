@@ -2,11 +2,16 @@
 title: "Art. 21 BöB — Freihändiges Verfahren"
 weight: 21
 date: 2026-10-11
-lastmod: 2026-10-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 21 BöB (Freihändiges Verfahren): Ausnahmetatbestände, Beweislastumkehr der Alternativlosigkeit (BGE 150 II 105), Lock-in bei IT- und Medizintechnik sowie Praxishinweise."
 tags: ["BöB", "Freihändiges Verfahren", "Direktvergabe", "Alleinstellung", "Dringlichkeit", "Folgebeschaffung", "Lock-in", "Vergaberecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.056.1 vom 2026-01-01 (data/wortlaut/boeb/art-021.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
@@ -16,31 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 21 Freihändiges Verfahren**  
->  
-> ^1 Im freihändigen Verfahren vergibt die Auftraggeberin einen öffentlichen Auftrag direkt ohne Ausschreibung. Die Auftraggeberin ist berechtigt, Vergleichsofferten einzuholen und Verhandlungen durchzuführen.  
-> ^2 Die Auftraggeberin kann einen Auftrag unabhängig vom Schwellenwert freihändig vergeben, wenn eine der nachstehenden Voraussetzungen erfüllt ist:  
-> a. Es gehen im offenen Verfahren, im selektiven Verfahren oder im Einladungsverfahren keine Angebote oder keine Teilnahmeanträge ein, kein Angebot entspricht den wesentlichen Anforderungen der Ausschreibung oder den technischen Spezifikationen oder es erfüllt keine Anbieterin die Eignungskriterien.  
-> b. Es bestehen hinreichende Anhaltspunkte, dass alle im offenen Verfahren, im selektiven Verfahren oder im Einladungsverfahren eingegangenen Angebote auf einer unzulässigen Wettbewerbsabrede beruhen.  
-> c. Aufgrund der technischen oder künstlerischen Besonderheiten des Auftrags oder aus Gründen des Schutzes geistigen Eigentums kommt nur eine Anbieterin in Frage, und es gibt keine angemessene Alternative.  
-> d. Aufgrund unvorhersehbarer Ereignisse wird die Beschaffung so dringlich, dass selbst mit verkürzten Fristen kein offenes oder selektives Verfahren und kein Einladungsverfahren durchgeführt werden kann.  
-> e. Ein Wechsel der Anbieterin für Leistungen zur Ersetzung, Ergänzung oder Erweiterung bereits erbrachter Leistungen ist aus wirtschaftlichen oder technischen Gründen nicht möglich, würde erhebliche Schwierigkeiten bereiten oder substanzielle Mehrkosten mit sich bringen.  
-> f. Die Auftraggeberin beschafft Erstanfertigungen (Prototypen) oder neuartige Leistungen, die auf ihr Verlangen im Rahmen eines Forschungs-, Versuchs-, Studien- oder Neuentwicklungsauftrags hergestellt oder entwickelt werden.  
-> g. Die Auftraggeberin beschafft Leistungen an Warenbörsen.  
-> h. Die Auftraggeberin kann Leistungen im Rahmen einer günstigen, zeitlich befristeten Gelegenheit zu einem Preis beschaffen, der erheblich unter den üblichen Preisen liegt (insbesondere bei Liquidationsverkäufen).  
-> i. Die Auftraggeberin vergibt den Folgeauftrag an die Gewinnerin eines Planungs- oder Gesamtleistungswettbewerbs oder eines Auswahlverfahrens zu Planungs- oder Gesamtleistungsstudien; dabei müssen die folgenden Voraussetzungen erfüllt sein:  
-> 1. das vorausgehende Verfahren wurde in Übereinstimmung mit den Grundsätzen des Gesetzes durchgeführt;  
-> 2. die Lösungsvorschläge wurden von einem unabhängigen Expertengremium beurteilt;  
-> 3. die Auftraggeberin hat sich in der Ausschreibung vorbehalten, den Folgeauftrag freihändig zu vergeben.  
-> ^3 Die Auftraggeberin kann einen Auftrag nach Artikel 20 Absatz 3 freihändig vergeben, wenn das freihändige Verfahren von grosser Bedeutung ist:  
-> a. zum Erhalt von inländischen Unternehmen, die für die Landesverteidigung wichtig sind; oder  
-> b. für die Wahrung der öffentlichen Interessen der Schweiz.  
-> ^4 Sie erstellt über jeden nach Massgabe von Absatz 2 oder 3 vergebenen Auftrag eine Dokumentation mit folgendem Inhalt:  
-> a. Name der Auftraggeberin und der berücksichtigten Anbieterin;  
-> b. Art und Wert der beschafften Leistung;  
-> c. Erklärung der Umstände und Bedingungen, welche die Anwendung des freihändigen Verfahrens rechtfertigen.  
-> ^5 Öffentliche Aufträge dürfen nicht mit der Absicht umschrieben werden, dass von vornherein nur eine bestimmte Anbieterin für den Zuschlag in Frage kommt, insbesondere aufgrund technischer oder künstlerischer Besonderheiten des Auftrags (Abs. 2 Bst. c) oder im Fall der Ersetzung, Ergänzung oder Erweiterung bereits erbrachter Leistungen (Abs. 2 Bst. e).  
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

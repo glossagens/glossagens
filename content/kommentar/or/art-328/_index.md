@@ -2,11 +2,16 @@
 title: "Art. 328 OR — Fürsorgepflicht, Persönlichkeitsschutz und Gesundheitsschutz"
 weight: 328
 date: 2026-06-13
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 328 OR: Fürsorgepflicht des Arbeitgebers, Schutz der psychischen Integrität (Mobbing, Bossing, Schikane), sexuelle Belästigung und Retorsionsverbot, Konfliktdeeskalationspflicht, physischer und psychischer Gesundheitsschutz (Burnout, Passivrauchen, Arbeitsplatzanpassung), Überwachung am Arbeitsplatz, Beschäftigungsanspruch und schonende Freistellung sowie Genugtuung und Beweislast — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Arbeitsvertrag", "Fürsorgepflicht", "Persönlichkeitsschutz", "Gesundheitsschutz", "Mobbing", "Bossing", "sexuelle Belästigung", "Burnout", "Überwachung", "Freistellung", "Genugtuung", "Konfliktdeeskalation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-328.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,21 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 328 OR — Schutz der Persönlichkeit des Arbeitnehmers / Im Allgemeinen**
->
-> ---
->
-> **Abs. 1 — Persönlichkeitsschutz und Sittlichkeit**
->
-> ¹ Der Arbeitgeber hat im Arbeitsverhältnis die Persönlichkeit des Arbeitnehmers zu achten und zu schützen, auf dessen Gesundheit gebührend Rücksicht zu nehmen und für die Wahrung der Sittlichkeit zu sorgen. Er muss insbesondere dafür sorgen, dass Arbeitnehmerinnen und Arbeitnehmer nicht sexuell belästigt werden und dass den Opfern von sexuellen Belästigungen keine weiteren Nachteile entstehen.
->
-> ---
->
-> **Abs. 2 — Gesundheitsschutz und Massnahmenpflicht**
->
-> ² Er hat zum Schutz von Leben, Gesundheit und persönlicher Integrität der Arbeitnehmerinnen und Arbeitnehmer die Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes oder Haushaltes angemessen sind, soweit es mit Rücksicht auf das einzelne Arbeitsverhältnis und die Natur der Arbeitsleistung ihm billigerweise zugemutet werden kann.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 zweiter Satz eingefügt und Abs. 2 Fassung gemäss Anhang Ziff. 3 des Gleichstellungsgesetzes vom 24. März 1995, in Kraft seit 1. Juli 1996 (AS 1996 1498; BBl 1993 I 1248). Bereinigt durch die Redaktionskommission der BVers (Art. 33 GVG – AS 1974 1051).*
 
 ### Die Schutzdimensionen und Pflichten auf einen Blick
 

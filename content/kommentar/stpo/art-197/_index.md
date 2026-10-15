@@ -2,11 +2,16 @@
 title: "Art. 197 StPO — Grundsätze der Zwangsmassnahmen"
 weight: 197
 date: "2026-07-04"
-lastmod: 2026-08-13
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 197 StPO: Voraussetzungen aller Zwangsmassnahmen — gesetzliche Grundlage, hinreichender Tatverdacht, Subsidiarität, Verhältnismässigkeit, Schutz nicht beschuldigter Personen."
 tags: ["Zwangsmassnahmen", "Verhältnismässigkeit", "Tatverdacht", "gesetzliche Grundlage", "Subsidiarität", "DNA-Profil", "Grundrechte", "Drittbetroffene"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-197.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -26,19 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 197 StPO — Grundsätze**
->
-> 1 Zwangsmassnahmen können nur ergriffen werden, wenn:
->
-> a. sie gesetzlich vorgesehen sind;
->
-> b. ein hinreichender Tatverdacht vorliegt;
->
-> c. die damit angestrebten Ziele nicht durch mildere Massnahmen erreicht werden können;
->
-> d. die Bedeutung der Straftat die Zwangsmassnahme rechtfertigt.
->
-> 2 Zwangsmassnahmen, die in die Grundrechte nicht beschuldigter Personen eingreifen, sind besonders zurückhaltend einzusetzen.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

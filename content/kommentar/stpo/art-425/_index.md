@@ -2,11 +2,16 @@
 title: "Art. 425 StPO — Stundung und Erlass"
 weight: 425
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 425 StPO: Stundung, Herabsetzung und Erlass von Verfahrenskosten, Resozialisierungszweck, strenger Massstab an die Mittellosigkeit, Begründungspflicht der Sachgerichte (BGer 6B_794/2024), Verbot der Gläubigerprivilegierung und kantonale Zuständigkeitsdivergenzen."
 tags: ["StPO", "Verfahrenskosten", "Kostenerlass", "Stundung", "Ratenzahlung", "Resozialisierung", "Mittellosigkeit", "Existenzminimum", "Gläubigerprivilegierung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-425.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,11 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 425 StPO — Stundung und Erlass**
->
-> Forderungen aus Verfahrenskosten können von der Strafbehörde gestundet oder unter Berücksichtigung der wirtschaftlichen Verhältnisse der kostenpflichtigen Person herabgesetzt oder erlassen werden.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

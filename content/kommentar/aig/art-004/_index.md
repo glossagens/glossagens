@@ -2,25 +2,22 @@
 title: "Art. 4 AIG — Integration"
 weight: 4
 date: 2026-06-06
-lastmod: 2026-06-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 4 AIG — Integration: Ziel, Voraussetzungen und Grundsatz der Integration ausländischer Personen in der Schweiz"
 tags: ["AIG", "Integration", "Ausländerrecht", "Integrationsziel", "Landessprache", "Zusammenleben"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 4 AIG — Integration**
->
-> 1 Ziel der Integration ist das Zusammenleben der einheimischen und ausländischen Wohnbevölkerung auf der Grundlage der Werte der Bundesverfassung und gegenseitiger Achtung und Toleranz.
->
-> 2 Die Integration soll längerfristig und rechtmässig anwesenden Ausländerinnen und Ausländern ermöglichen, am wirtschaftlichen, sozialen und kulturellen Leben der Gesellschaft teilzuhaben.
->
-> 3 Die Integration setzt sowohl den entsprechenden Willen der Ausländerinnen und Ausländer als auch die Offenheit der schweizerischen Bevölkerung voraus.
->
-> 4 Es ist erforderlich, dass sich Ausländerinnen und Ausländer mit den gesellschaftlichen Verhältnissen und Lebensbedingungen in der Schweiz auseinandersetzen und insbesondere eine Landessprache erlernen.
+{{< wortlaut >}}
 
-*Fedlex-Stand: 2026-02-01*
 
 ---
 

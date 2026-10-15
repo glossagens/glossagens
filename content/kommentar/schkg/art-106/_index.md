@@ -2,11 +2,16 @@
 title: "Art. 106 SchKG — Ansprüche Dritter an gepfändeten Gegenständen"
 weight: 106
 date: 2026-05-24
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 106 SchKG: Drittrechte an gepfändeten Vermögenswerten — Vormerkung, Anmeldefrist, Verwirkung, Forderungspfändung, Eigentumsvorbehalt, Vermieterretention, Pfandverwertung, Vindikation nach Verwertung, Durchgriff, Grenzkasuistik."
 tags: ["SchKG", "Pfändung", "Drittanspruch", "Widerspruchsverfahren", "Eigentum", "Gewahrsam", "Durchgriff", "Vindikation", "Forderungspfändung", "Verwirkung", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-106.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -32,16 +37,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 106 SchKG (SR 281.1)** — Ansprüche Dritter
->
-> **1** Wird geltend gemacht, einem Dritten stehe am gepfändeten Gegenstand das Eigentum, ein Pfandrecht oder ein anderes Recht zu, das der Pfändung entgegensteht oder im weitern Verlauf des Vollstreckungsverfahrens zu berücksichtigen ist, so merkt das Betreibungsamt den Anspruch des Dritten in der Pfändungsurkunde vor oder zeigt ihn, falls die Urkunde bereits zugestellt ist, den Parteien besonders an.
->
-> **2** Dritte können ihre Ansprüche anmelden, solange der Erlös aus der Verwertung des gepfändeten Gegenstandes noch nicht verteilt ist.
->
-> **3** Nach der Verwertung kann der Dritte die Ansprüche, die ihm nach Zivilrecht bei Diebstahl, Verlust oder sonstigem Abhandenkommen einer beweglichen Sache (Art. 934 und 935 ZGB) oder bei bösem Glauben des Erwerbers (Art. 936 und 974 Abs. 3 ZGB) zustehen, ausserhalb des Betreibungsverfahrens geltend machen. Als öffentliche Versteigerung im Sinne von Artikel 934 Absatz 2 ZGB gilt dabei auch der Freihandverkauf nach Artikel 130 dieses Gesetzes.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 (AS 1995 1227; BBl 1991 III 1).*
 
 ---
 

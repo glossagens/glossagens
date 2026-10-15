@@ -2,11 +2,16 @@
 title: "Art. 166 StGB — Unterlassung der Buchführung"
 weight: 166
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 166 StGB: Verletzung der Pflicht zur ordnungsmässigen Führung und Aufbewahrung von Geschäftsbüchern oder zur Bilanzaufstellung (Art. 957 ff. OR) — Täterqualifikation, Organhaftung (Art. 29 StGB), Taterfolg des unvollständigen Vermögensstands, Kasuistik (angewandt vs. verworfen), Konkurrenzen und taktische Praxishinweise."
 tags: ["StGB", "Unterlassung der Buchführung", "Buchführungspflicht", "Konkursdelikte", "Bilanz", "Aufbewahrungspflicht", "Organhaftung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-166.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,14 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 166 StGB — Unterlassung der Buchführung**
->
-> Der Schuldner, der die ihm gesetzlich obliegende Pflicht zur ordnungsmässigen Führung und Aufbewahrung von Geschäftsbüchern oder zur Aufstellung einer Bilanz verletzt, so dass sein Vermögensstand nicht oder nicht vollständig ersichtlich ist,
-> wird, wenn über ihn der Konkurs eröffnet oder in einer gemäss Artikel 43 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung- und Konkurs erfolgten Pfändung gegen ihn ein Verlustschein ausgestellt worden ist,
-> mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026.*
 
 ### Die Tatbestandsformen auf einen Blick
 

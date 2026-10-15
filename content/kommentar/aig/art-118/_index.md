@@ -2,25 +2,22 @@
 title: "Art. 118 — Täuschung der Behörden"
 weight: 118
 date: 2026-07-02
-lastmod: 2026-07-02
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 118 AIG (Täuschung der Behörden, Scheinehe): Tatbestand, Qualifikation bei Bereicherungsabsicht, Beweisfragen."
 tags: ["AIG", "Strafrecht", "Täuschung", "Scheinehe", "Bereicherungsabsicht"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-118.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Wer die mit dem Vollzug dieses Gesetzes betrauten Behörden durch falsche Angaben oder Verschweigen wesentlicher Tatsachen täuscht und dadurch die Erteilung einer Bewilligung für sich oder andere erschleicht oder bewirkt, dass der Entzug einer Bewilligung unterbleibt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> **2** Wer in der Absicht, die Vorschriften über die Zulassung und den Aufenthalt von Ausländerinnen und Ausländern zu umgehen, eine Ehe mit einer Ausländerin oder einem Ausländer eingeht oder den Abschluss einer solchen Ehe vermittelt, fördert oder ermöglicht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> **3** Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe, wenn die Täterin oder der Täter:
->
-> a. mit der Absicht handelt, sich oder einen andern unrechtmässig zu bereichern; oder
->
-> b. für eine Vereinigung oder Gruppe handelt, die sich zur fortgesetzten Begehung dieser Tat zusammengefunden hat.
+{{< wortlaut >}}
 
-*Fassung gemäss Ziff. I 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen (Abs. 3), in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ---
 

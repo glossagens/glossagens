@@ -2,11 +2,16 @@
 title: "Art. 301a ZGB — Aufenthaltsort des Kindes"
 weight: 301
 date: 2026-08-19
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 301a ZGB: Aufenthaltsbestimmungsrecht als Bestandteil der elterlichen Sorge, Zustimmungserfordernis bei Auslandumzug und erheblichem Inlandumzug, Informationspflichten und gerichtliche Neuregelung."
 tags: ["ZGB", "Aufenthaltsbestimmungsrecht", "Elterliche Sorge", "Auslandumzug", "Inlandumzug", "Kindeswohl", "Obhut", "Familienrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-301a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 301a**
->
-> 1 Die elterliche Sorge schliesst das Recht ein, den Aufenthaltsort des Kindes zu bestimmen.
->
-> 2 Üben die Eltern die elterliche Sorge gemeinsam aus und will ein Elternteil den Aufenthaltsort des Kindes wechseln, so bedarf dies der Zustimmung des andern Elternteils oder der Entscheidung des Gerichts oder der Kindesschutzbehörde, wenn:
-> a. der neue Aufenthaltsort im Ausland liegt; oder
-> b. der Wechsel des Aufenthaltsortes erhebliche Auswirkungen auf die Ausübung der elterlichen Sorge und den persönlichen Verkehr durch den andern Elternteil hat.
->
-> 3 Übt ein Elternteil die elterliche Sorge allein aus und will er den Aufenthaltsort des Kindes wechseln, so muss er den anderen Elternteil rechtzeitig darüber informieren.
->
-> 4 Dieselbe Informationspflicht hat ein Elternteil, der seinen eigenen Wohnsitz wechseln will.
->
-> 5 Soweit dies erforderlich ist, verständigen sich die Eltern unter Wahrung des Kindeswohls über eine Anpassung der Regelung der elterlichen Sorge, der Obhut, des persönlichen Verkehrs und des Unterhaltsbeitrages. Können sie sich nicht einigen, entscheidet das Gericht oder die Kindesschutzbehörde.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

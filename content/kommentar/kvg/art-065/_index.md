@@ -2,11 +2,16 @@
 title: "Art. 65 KVG — Prämienverbilligung durch die Kantone"
 weight: 65
 date: 2026-10-08
-lastmod: 2026-10-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 65 KVG: Kantonale Prämienverbilligung — Anspruchsvoraussetzungen, Mindestverbilligung für Kinder und junge Erwachsene, kantonale Belastungsobergrenzen, Mindestanteile der Bruttokosten, Direktauszahlung, Zahlstellenfunktion der Versicherer, Verrechnungsverbot, Gegenwartsbemessung und Vorschussverbot."
 tags: ["KVG", "Prämienverbilligung", "Bescheidene Verhältnisse", "Mittlere Einkommen", "Zahlstelle", "Gegenwartsbemessung", "Vorschussverbot", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-065.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -16,41 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 65 Prämienverbilligung durch die Kantone**
->
-> <sup>1</sup> Die Kantone gewähren den Versicherten in bescheidenen wirtschaftlichen Verhältnissen Prämienverbilligungen. Sie bezahlen den Beitrag für die Prämienverbilligung direkt an die Versicherer, bei denen diese Personen versichert sind. Der Bundesrat kann die Anspruchsberechtigung auf versicherungspflichtige Personen ohne Wohnsitz in der Schweiz ausdehnen, die sich längere Zeit in der Schweiz aufhalten.
->
-> <sup>1bis</sup> Für untere und mittlere Einkommen verbilligen die Kantone die Prämien der Kinder um mindestens 80 Prozent und die Prämien der jungen Erwachsenen in Ausbildung um mindestens 50 Prozent.
->
-> <sup>1ter</sup> Jeder Kanton legt fest, welchen Anteil die Prämie am verfügbaren Einkommen der Versicherten mit Wohnort im Kanton höchstens ausmachen darf.
->
-> <sup>1quater</sup> Jeder Kanton regelt die Prämienverbilligung so, dass diese pro Kalenderjahr gesamthaft einem bestimmten Mindestanteil der Bruttokosten der obligatorischen Krankenpflegeversicherung der Versicherten, die ihren Wohnort im Kanton haben, entspricht.
->
-> <sup>1quinquies</sup> Der Mindestanteil wird nach demjenigen Anteil berechnet, den die Prämien am Einkommen der 40 Prozent einkommensschwächsten Versicherten mit Wohnort im Kanton durchschnittlich ausmachen; dabei gilt Folgendes:
-> a. Machen die Prämien weniger als 11 Prozent des Einkommens aus, so beträgt der Mindestanteil 3,5 Prozent der Bruttokosten.
-> b. Machen die Prämien 18,5 Prozent des Einkommens oder mehr aus, so beträgt der Mindestanteil 7,5 Prozent der Bruttokosten.
-> c. Zwischen den Eckwerten nach den Buchstaben a und b erhöht sich der Mindestanteil linear.
->
-> <sup>1sexies</sup> Die Berechnung des Mindestanteils stützt sich auf:
-> a. das steuerbare Einkommen nach dem Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer;
-> b. die von den Versicherten tatsächlich bezahlten Prämien sämtlicher Versicherungsformen (mittlere Prämie).
->
-> <sup>1septies</sup> Für die Beurteilung, ob ein Kanton den Mindestanteil erfüllt, werden alle Beträge berücksichtigt, die er für die Bezahlung der Prämien der Versicherten aufwendet, mit Ausnahme von Forderungen, die er gestützt auf Artikel 64a Absatz 4 übernommen hat, und mit Ausnahme seines Anteils am Bundesbeitrag nach Artikel 66.
->
-> <sup>1octies</sup> Der Bundesrat legt nach Anhörung der Kantone die Einzelheiten der Berechnung der Bruttokosten und des Mindestanteils fest.
->
-> <sup>2</sup> Der Datenaustausch zwischen den Kantonen und den Versicherern erfolgt nach einem einheitlichen Standard. Der Bundesrat regelt die Einzelheiten nach Anhörung der Kantone und der Versicherer.
->
-> <sup>3</sup> Die Kantone sorgen dafür, dass bei der Überprüfung der Anspruchsvoraussetzungen, insbesondere auf Antrag der versicherten Person, die aktuellsten Einkommens- und Familienverhältnisse berücksichtigt werden. Nach der Feststellung der Bezugsberechtigung sorgen die Kantone zudem dafür, dass die Auszahlung der Prämienverbilligung so erfolgt, dass die anspruchsberechtigten Personen ihrer Prämienzahlungspflicht nicht vorschussweise nachkommen müssen.
->
-> <sup>4</sup> Die Kantone informieren die Versicherten regelmässig über das Recht auf Prämienverbilligung.
->
-> <sup>4bis</sup> Der Kanton meldet dem Versicherer die Versicherten, die Anspruch auf eine Prämienverbilligung haben, und die Höhe der Verbilligung so früh, dass der Versicherer die Prämienverbilligung bei der Prämienfakturierung berücksichtigen kann. Der Versicherer informiert die anspruchsberechtigte Person spätestens bei der nächsten Fakturierung über die tatsächliche Prämienverbilligung.
->
-> <sup>5</sup> Die Versicherer sind verpflichtet, bei der Prämienverbilligung über die Bestimmungen betreffend die Amts- und Verwaltungshilfe nach Artikel 82 hinaus mitzuwirken.
->
-> <sup>6</sup> Die Kantone machen dem Bund zur Überprüfung der sozial- und familienpolitischen Ziele anonymisierte Angaben über die begünstigten Versicherten. Der Bundesrat erlässt die notwendigen Vorschriften dazu.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 260bis StGB — Strafbare Vorbereitungshandlungen"
 weight: 260
 date: 2025-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 260bis StGB: Strafbare Vorbereitungshandlungen — planmässige konkrete Vorkehrungen (technisch/organisatorisch), Katalog der Zieltat (lit. a–j), Rücktritt (Abs. 2), Auslandsbezug (Abs. 3) — mit zweiseitiger Grenzkasuistik zu Planmässigkeit, psychologischer Schwelle, Rücktritt aus eigenem Antrieb und Konkurrenz."
 tags: ["StGB", "Vorbereitungshandlung", "planmässig", "Rücktritt", "Konkurrenz", "Besonderer Teil", "Raub", "Mord", "Brandstiftung", "Geiselnahme"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-260bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity"
     model: "Gemini 3.6 Flash (Medium)"
@@ -16,25 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 260bis StGB — Strafbare Vorbereitungshandlungen**
->
-> 1. Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer planmässig konkrete technische oder organisatorische Vorkehrungen trifft, deren Art und Umfang zeigen, dass er sich anschickt, eine der folgenden strafbaren Handlungen auszuführen:
->    a. Vorsätzliche Tötung (Art. 111);
->    b. Mord (Art. 112);
->    c. Schwere Körperverletzung (Art. 122);
->    c^bis^. Verstümmelung weiblicher Genitalien (Art. 124);
->    d. Raub (Art. 140);
->    e. Freiheitsberaubung und Entführung (Art. 183);
->    f. Geiselnahme (Art. 185);
->    f^bis^. Verschwindenlassen (Art. 185bis);
->    g. Brandstiftung (Art. 221);
->    h. Völkermord (Art. 264);
->    i. Verbrechen gegen die Menschlichkeit (Art. 264a);
->    j. Kriegsverbrechen (Art. 264c–264h).
->
-> 2. Führt der Täter aus eigenem Antrieb die Vorbereitungshandlung nicht zu Ende, so bleibt er straflos.
->
-> 3. Strafbar ist auch, wer die Vorbereitungshandlung im Ausland begeht, wenn die beabsichtigten strafbaren Handlungen in der Schweiz verübt werden sollen. Artikel 3 Abs. 2 ist anwendbar.
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_260_bis), Stand der Konsolidierung 12. Juni 2026. Eingefügt durch Ziff. I des BG vom 9. Okt. 1981, in Kraft seit 1. Okt. 1982 (AS 1982 1530; BBl 1980 I 1241). Lit. c^bis^ eingefügt durch Ziff. I des BG vom 30. Sept. 2011, in Kraft seit 1. Juli 2012 (AS 2012 2575; BBl 2010 5651 5677). Lit. f^bis^ eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2015, in Kraft seit 1. Jan. 2017 (AS 2016 4687; BBl 2014 453). Fassung des Satzes gemäss Ziff. I 1 des BG vom 18. Juni 2010, in Kraft seit 1. Jan. 2011 (AS 2010 4963; BBl 2008 3863). Fassung des Satzes gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 (AS 2006 3459; BBl 1999 1979).*
 

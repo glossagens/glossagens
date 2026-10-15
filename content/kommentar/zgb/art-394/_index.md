@@ -2,11 +2,16 @@
 title: "Art. 394 — Vertretungsbeistandschaft"
 weight: 394
 date: "2026-05-24"
-lastmod: "2026-08-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 394 ZGB – Errichtung, Voraussetzungen, Handlungsfähigkeit und Rechtswirkungen der Vertretungsbeistandschaft im Erwachsenenschutzrecht"
 tags: ["ZGB", "Erwachsenenschutz", "Beistandschaft", "Vertretung", "Handlungsfähigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-394.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 394 ZGB — Vertretungsbeistandschaft**
->
-> <sup>1</sup> Eine Vertretungsbeistandschaft wird errichtet, wenn die hilfsbedürftige Person bestimmte Angelegenheiten nicht erledigen kann und deshalb vertreten werden muss.
->
-> <sup>2</sup> Die Erwachsenenschutzbehörde kann die Handlungsfähigkeit der betroffenen Person entsprechend einschränken.
->
-> <sup>3</sup> Auch wenn die Handlungsfähigkeit nicht eingeschränkt ist, muss die betroffene Person sich die Handlungen des Beistands oder der Beiständin anrechnen oder gefallen lassen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

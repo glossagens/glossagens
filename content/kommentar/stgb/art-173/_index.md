@@ -2,11 +2,16 @@
 title: "Art. 173 StGB — Üble Nachrede"
 weight: 173
 date: 2026-07-31
-lastmod: 2026-10-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 173 StGB: Schutz der sittlichen Ehre, Tatsachenbehauptung und gemischtes Werturteil, Weiterverbreitung in sozialen Netzwerken (Facebook-Likes), Begriff des Dritten und prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation (BGE 148 IV 409), Grenzen der Privilegierung für unbeteiligte Dritte, vorrangige Rechtfertigungsgründe, Wahrheits- und Gutglaubensbeweis sowie die gerichtliche Ehrenerklärung — mit systematischer Kasuistik zu jedem Tatbestandsmerkmal, einschliesslich kantonaler Rechtsprechung zur Abgrenzung von Berufskritik und Ehrverletzung im Spitalkontext (Cour de justice GE, ACPR/790/2026)."
 tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Antragsdelikt", "Facebook-Like", "Ehre", "prozessuale Privilegierung", "Berufskritik", "Whistleblowing"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-173.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -40,21 +45,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 173 StGB — Üble Nachrede**
->
-> 1 Wer jemanden bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt oder verdächtigt,
-> wer eine solche Beschuldigung oder Verdächtigung weiterverbreitet,
-> wird, auf Antrag, mit Geldstrafe bestraft.
->
-> 2 Beweist der Beschuldigte, dass die von ihm vorgebrachte oder weiterverbreitete Äusserung der Wahrheit entspricht, oder dass er ernsthafte Gründe hatte, sie in guten Treuen für wahr zu halten, so ist er nicht strafbar.
->
-> 3 Der Beschuldigte wird zum Beweis nicht zugelassen und ist strafbar für Äusserungen, die ohne Wahrung öffentlicher Interessen oder sonst wie ohne begründete Veranlassung, vorwiegend in der Absicht vorgebracht oder verbreitet werden, jemandem Übles vorzuwerfen, insbesondere, wenn sich die Äusserungen auf das Privat- oder Familienleben beziehen.
->
-> 4 Nimmt der Täter seine Äusserung als unwahr zurück, so kann er milder bestraft oder ganz von Strafe befreit werden.
->
-> 5 Hat der Beschuldigte den Wahrheitsbeweis nicht erbracht oder sind seine Äusserungen unwahr oder nimmt der Beschuldigte sie zurück, so hat das Gericht dies im Urteil oder in einer andern Urkunde festzustellen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 1. Oktober 2026. Fassung gemäss Ziff. I des BG vom 5. Oktober 1950, in Kraft seit 5. Januar 1951 (AS 1951 1; BBl 1949 I 1249). Strafdrohung neu umschrieben gemäss Ziff. II 1 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Januar 2018 (AS 2016 1249; BBl 2012 4721).*
 
 ### Die Bestimmung auf einen Blick
 

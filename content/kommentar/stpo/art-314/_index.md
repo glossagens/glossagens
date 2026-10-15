@@ -2,11 +2,16 @@
 title: "Art. 314 StPO — Sistierung"
 weight: 314
 date: 2026-09-08
-lastmod: 2026-09-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 314 StPO: Sistierung der Untersuchung bei unbekannter Täterschaft oder unbekanntem Aufenthalt, präjudiziellen Vorfragen, Vergleichsverhandlungen und unklaren Tatfolgen — mit ausführlicher Grenzkasuistik zu den Ermittlungspflichten, der Vorrangordnung von Straf- und Zivilprozess, dem Akteneinsichtsrecht und den kantonalen Praxisfragen."
 tags: ["StPO", "Sistierung", "Untersuchung", "Vorverfahren", "Verfahrenshindernis", "Fahndung", "Beweissicherung", "Vorfrage", "Vergleich", "Beschleunigungsgebot", "Rechtsmittel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-314.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,27 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 314 StPO — Sistierung**
->
-> 1 Die Staatsanwaltschaft kann eine Untersuchung sistieren, namentlich wenn:
->
-> a. die Täterschaft oder ihr Aufenthalt unbekannt ist oder andere vorübergehende Verfahrenshindernisse bestehen;
->
-> b. der Ausgang des Strafverfahrens von einem anderen Verfahren abhängt und es angebracht erscheint, dessen Ausgang abzuwarten;
->
-> c. ein Vergleichsverfahren hängig ist und es angebracht erscheint, dessen Ausgang abzuwarten;
->
-> d. ein Sachentscheid von der weiteren Entwicklung der Tatfolgen abhängt.
->
-> 2 Im Fall von Absatz 1 Buchstabe c ist die Sistierung auf 3 Monate befristet; sie kann einmal um 3 Monate verlängert werden.
->
-> 3 Vor der Sistierung erhebt die Staatsanwaltschaft die Beweise, deren Verlust zu befürchten ist. Ist die Täterschaft oder ihr Aufenthalt unbekannt, so leitet sie eine Fahndung ein.
->
-> 4 Die Staatsanwaltschaft teilt die Sistierung der beschuldigten Person, der Privatklägerschaft sowie dem Opfer mit.
->
-> 5 Im Übrigen richtet sich das Verfahren nach den Bestimmungen über die Verfahrenseinstellung.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

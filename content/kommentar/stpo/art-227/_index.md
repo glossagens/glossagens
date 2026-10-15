@@ -2,11 +2,16 @@
 title: "Art. 227 StPO — Haftverlängerungsgesuch"
 weight: 227
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 227 StPO – Haftverlängerungsgesuch: Gesuch der Staatsanwaltschaft spätestens 4 Tage vor Haftablauf (Abs. 1/2), Akteneinsicht und 3-tägige Frist zur Stellungnahme (Abs. 3), provisorische Haftfortdauer (Abs. 4), 5-tägige Entscheidfrist und Weisungsbefugnis des ZMG (Abs. 5) sowie maximale Verlängerungsdauer von 3 bzw. 6 Monaten (Abs. 7)."
 tags: ["StPO", "Haftverlängerung", "Untersuchungshaft", "Zwangsmassnahmengericht", "Haftdauer", "Beschleunigungsgebot", "Überhaft", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-227.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 227 StPO — Haftverlängerungsgesuch**
->
-> **1** Läuft die vom Zwangsmassnahmengericht festgesetzte Dauer der Untersuchungshaft ab, so kann die Staatsanwaltschaft ein Haftverlängerungsgesuch stellen. Hat das Zwangsmassnahmengericht die Haftdauer nicht beschränkt, so ist das Gesuch vor Ablauf von 3 Monaten Haft zu stellen.
->
-> **2** Die Staatsanwaltschaft reicht dem Zwangsmassnahmengericht das schriftliche und begründete Gesuch spätestens 4 Tage vor Ablauf der Haftdauer ein und legt ihm die wesentlichen Akten bei.
->
-> **3** Das Zwangsmassnahmengericht gibt der beschuldigten Person und ihrer Verteidigung Gelegenheit, die ihm vorliegenden Akten einzusehen und innert 3 Tagen schriftlich zum Gesuch Stellung zu nehmen.
->
-> **4** Es kann die provisorische Fortdauer der Untersuchungshaft bis zu seinem Entscheid anordnen.
->
-> **5** Das Zwangsmassnahmengericht entscheidet spätestens innert 5 Tagen nach Eingang der Stellungnahme beziehungsweise Ablauf der in Absatz 3 genannten Frist. Es kann die Staatsanwaltschaft anweisen, bestimmte Untersuchungshandlungen vorzunehmen, oder eine Ersatzmassnahme anordnen.
->
-> **6** Das Verfahren ist in der Regel schriftlich, doch kann das Zwangsmassnahmengericht eine Verhandlung anordnen; diese ist nicht öffentlich.
->
-> **7** Die Verlängerung der Untersuchungshaft wird jeweils für längstens 3 Monate, in Ausnahmefällen für längstens 6 Monate bewilligt.
+{{< wortlaut >}}
 
 ---
 

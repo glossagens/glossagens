@@ -2,11 +2,16 @@
 title: "Art. 22 — Revision der Rente"
 weight: 22
 date: 2026-07-27
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 UVG: Revision der Invalidenrente bei Erreichen des Referenzalters, Abweichung von Art. 17 ATSG, Wiedererwägung."
 tags: ["UVG", "Rentenrevision", "Referenzalter", "Sozialversicherungsrecht", "Unfallversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -18,9 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 UVG (Revision) der Rente**
->
-> In Abweichung von Artikel 17 Absatz 1 ATSG kann die Rente ab dem Monat, in dem die berechtigte Person eine ganze AHV-Rente nach Artikel 40 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) vorbezieht, spätestens jedoch ab Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG nicht mehr revidiert werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

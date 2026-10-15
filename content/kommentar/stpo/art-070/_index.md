@@ -2,11 +2,16 @@
 title: "Art. 70 StPO — Einschränkungen und Ausschluss der Öffentlichkeit"
 weight: 70
 date: 2026-10-10
-lastmod: 2026-10-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 70 StPO: Ausschluss der Öffentlichkeit aus Gründen der öffentlichen Sicherheit oder Ordnung sowie schutzwürdiger Interessen (Opferschutz); Raumkapazität und grosser Andrang; Begleitung durch Vertrauenspersonen (Abs. 2); Zulassung akkreditierter Gerichtsberichterstatter unter Auflagen (Abs. 3, Art. 292 StGB); Urteilseröffnung und Surrogatinformation (Abs. 4); funktionelle Zuständigkeit des Kollegialgerichts."
 tags: ["StPO", "Justizöffentlichkeit", "Öffentlichkeitsausschluss", "Opferschutz", "Medienfreiheit", "Gerichtsberichterstattung", "Vertrauenspersonen", "Verfahrensrechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-070.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 75 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 70 Einschränkungen und Ausschluss der Öffentlichkeit**
->
-> <sup>1</sup> Das Gericht kann die Öffentlichkeit von Gerichtsverhandlungen ganz oder teilweise ausschliessen, wenn:  
-> a. die öffentliche Sicherheit oder Ordnung oder schutzwürdige Interessen einer beteiligten Person, namentlich des Opfers, dies erfordern;  
-> b. ein grosser Andrang herrscht.  
-> <sup>2</sup> Wird die Öffentlichkeit ausgeschlossen, so darf sich die beschuldigte Person, das Opfer und die Privatklägerschaft von höchstens drei Vertrauenspersonen begleiten lassen.  
-> <sup>3</sup> Das Gericht kann Gerichtsberichterstatterinnen und Gerichtsberichterstattern sowie weiteren Personen, die ein berechtigtes Interesse haben, unter bestimmten Auflagen den Zutritt zu Verhandlungen gestatten, die nach Absatz 1 Buchstabe a nicht öffentlich sind.  
-> <sup>4</sup> Schliesst das Gericht die Öffentlichkeit von den Verhandlungen aus, so eröffnet es das Urteil dennoch in öffentlicher Verhandlung oder es informiert die Öffentlichkeit, wenn nötig unter Ausschluss von Gerichtsberichterstatterinnen und Gerichtsberichterstattern, in anderer geeigneter Weise.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

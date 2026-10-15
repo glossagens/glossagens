@@ -2,11 +2,16 @@
 title: "Art. 32 BV — Strafverfahrensgarantien"
 weight: 32
 date: 2026-05-23
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 32 BV: Unschuldsvermutung, Verteidigungsrechte, Selbstbelastungsprivileg, Rechtsmittelgarantie im Strafverfahren."
 tags: ["BV", "Grundrechte", "Unschuldsvermutung", "Strafverfahren", "Verteidigungsrechte", "in dubio pro reo", "nemo tenetur", "ne bis in idem"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-032.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 32 Strafverfahren**
->
-> ¹ Jede Person gilt bis zur rechtskräftigen Verurteilung als unschuldig.
->
-> ² Jede angeklagte Person hat Anspruch darauf, möglichst rasch und umfassend über die gegen sie erhobenen Beschuldigungen unterrichtet zu werden. Sie muss die Möglichkeit haben, die ihr zustehenden Verteidigungsrechte geltend zu machen.
->
-> ³ Jede verurteilte Person hat das Recht, das Urteil von einem höheren Gericht überprüfen zu lassen. Ausgenommen sind die Fälle, in denen das Bundesgericht als einzige Instanz urteilt.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

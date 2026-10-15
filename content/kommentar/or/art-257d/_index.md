@@ -2,11 +2,16 @@
 title: "Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 257
 date: 2026-10-08
-lastmod: 2026-10-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 257d OR: Zahlungsrückstand des Mieters — Zahlungsfrist und Kündigungsandrohung, Kündigung, relative Empfangstheorie, Abwendungsgründe (Zahlung, Verrechnung, Hinterlegung), Grenzkasuistik und Ausweisung im Rechtsschutz in klaren Fällen (Art. 257 ZPO)."
 tags: ["OR", "Mietrecht", "Zahlungsrückstand", "Zahlungsfrist", "Kündigungsandrohung", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Mietzinshinterlegung", "Familienwohnung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-257d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,14 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 257d OR (SR 220)** — Zahlungsrückstand des Mieters
->
-> **1** Ist der Mieter nach der Übernahme der Sache mit der Zahlung fälliger Mietzinse oder Nebenkosten im Rückstand, so kann ihm der Vermieter schriftlich eine Zahlungsfrist setzen und ihm androhen, dass bei unbenütztem Ablauf der Frist das Mietverhältnis gekündigt werde. Diese Frist beträgt mindestens zehn Tage, bei Wohn- und Geschäftsräumen mindestens 30 Tage.
->
-> **2** Bezahlt der Mieter innert der gesetzten Frist nicht, so kann der Vermieter fristlos, bei Wohn- und Geschäftsräumen mit einer Frist von mindestens 30 Tagen auf Ende eines Monats kündigen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex (SR 220)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Oktober 2026.*
 
 ### Die Tatbestände auf einen Blick
 

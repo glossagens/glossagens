@@ -2,35 +2,21 @@
 title: "Art. 14a — Integrationsmassnahmen"
 weight: 14
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 14a IVG — Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung, Anspruchsvoraussetzungen, Arten und Dauer"
 tags: ["IVG", "Integrationsmassnahmen", "Eingliederung", "sozialberufliche Rehabilitation", "Arbeitsunfähigkeit"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-014a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 14a Integrationsmassnahmen**
->
-> **1** Anspruch auf Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung (Integrationsmassnahmen) haben:
->
->   a. Versicherte, die seit mindestens sechs Monaten zu mindestens 50 Prozent arbeitsunfähig (Art. 6 ATSG SR 830.1) sind;
->
->   b. nicht erwerbstätige Personen vor der Vollendung des 25. Altersjahres, sofern sie von einer Invalidität bedroht sind (Art. 8 Abs. 2 ATSG).
->
-> **1bis** Der Anspruch besteht nur, wenn durch die Integrationsmassnahmen die Voraussetzungen für die Durchführung von Massnahmen beruflicher Art geschaffen werden können.
->
-> **2** Als Integrationsmassnahmen gelten gezielte, auf die berufliche Eingliederung gerichtete:
->
->   a. Massnahmen zur sozial-beruflichen Rehabilitation;
->
->   b. Beschäftigungsmassnahmen.
->
-> **3** Integrationsmassnahmen können mehrmals zugesprochen werden. Eine Massnahme darf nicht länger als ein Jahr dauern; sie kann in Ausnahmefällen um höchstens ein Jahr verlängert werden.
->
-> **4** … [aufgehoben]
->
-> **5** Die Massnahmen, die im Betrieb erfolgen, werden in enger Zusammenarbeit mit dem Arbeitgeber getroffen und umgesetzt. Die Versicherung kann dem Arbeitgeber einen Beitrag leisten. Der Bundesrat legt den Betrag, die Dauer und die Bedingungen der Auszahlung fest.
+{{< wortlaut >}}
 
 ## Kommentierung
 

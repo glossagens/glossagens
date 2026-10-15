@@ -2,11 +2,16 @@
 title: "Art. 24 RPG — Standortgebundene Bauten und Anlagen"
 weight: 24
 date: 2026-05-17
-lastmod: 2026-09-17
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 24 RPG: Ausnahmebewilligung für standortgebundene Bauten und Anlagen ausserhalb der Bauzonen — mit zweiseitiger Grenzkasuistik (Bergrestaurants, Mobilfunk, Schiessanlagen, Tierhaltung, Energieanlagen), Alternativenprüfung, Planungspflicht und verfahrensrechtlichen Obliegenheiten."
 tags: ["RPG", "Ausnahmebewilligung", "Standortgebundenheit", "Bauen ausserhalb der Bauzonen", "Raumplanung", "Praxiskommentar", "Kasuistik", "Alternativenprüfung", "Planungspflicht", "Interessenabwägung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -23,15 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 24 Standortgebundene Bauten und Anlagen**
->
-> 1 Abweichend von Artikel 22 Absatz 2 Buchstabe a können Bewilligungen erteilt werden, Bauten und Anlagen zu errichten oder ihren Zweck zu ändern, wenn:
->
-> a. der Zweck der Bauten und Anlagen einen Standort ausserhalb der Bauzonen erfordert; und
->
-> b. keine überwiegenden Interessen entgegenstehen.
->
-> 2 Der Bundesrat kann energetische Sanierungen für zulässig erklären, die keine Grundlage in einer anderen Bestimmung finden.
+{{< wortlaut >}}
 
 *Abs. 1 in der Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. September 2000 (AS 2000 2042; BBl 1996 III 513). Abs. 2 eingefügt durch Ziff. I des BG vom 29. September 2023, in Kraft seit 1. Januar 2026 (AS 2025 640; BBl 2018 7443).*
 

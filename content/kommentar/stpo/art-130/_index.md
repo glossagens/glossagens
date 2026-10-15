@@ -7,28 +7,21 @@ tags: ["notwendige Verteidigung", "amtliche Verteidigung", "Offizialverteidiger"
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-130.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 130 StPO — Notwendige Verteidigung**
->
-> Die beschuldigte Person muss verteidigt werden, wenn:
->
-> a. die Untersuchungshaft einschliesslich einer vorläufigen Festnahme mehr als 10 Tage gedauert hat;
->
-> b. ihr eine Freiheitsstrafe von mehr als einem Jahr, eine freiheitsentziehende Massnahme oder eine Landesverweisung droht;
->
-> c. sie wegen ihres körperlichen oder geistigen Zustandes oder aus anderen Gründen ihre Verfahrensinteressen nicht ausreichend wahren kann und die gesetzliche Vertretung dazu nicht in der Lage ist;
->
-> d. die Staatsanwaltschaft vor dem erstinstanzlichen Gericht oder dem Berufungsgericht persönlich auftritt;
->
-> e. ein abgekürztes Verfahren (Art. 358–362) durchgeführt wird.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

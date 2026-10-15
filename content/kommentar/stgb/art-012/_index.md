@@ -2,11 +2,16 @@
 title: "Art. 12 StGB — Vorsatz und Fahrlässigkeit"
 weight: 12
 date: 2026-05-23
-lastmod: 2026-09-07
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 12 StGB: Vorsatzprinzip, direkter Vorsatz, Eventualvorsatz, Indizienlehre, Abgrenzung zur bewussten Fahrlässigkeit, Sorgfaltsmassstab und Pflichtwidrigkeitszusammenhang — mit Schwellenwert-Tabellen und Kasuistik zu Strassenverkehr, Gewaltdelikten, Behandlungsfehlern und Sportunfällen."
 tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip", "Indizienlehre", "Sorgfaltspflicht", "Pflichtwidrigkeitszusammenhang", "Allgemeiner Teil", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,15 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 12 StGB — Vorsatz und Fahrlässigkeit**
->
-> 1 Bestimmt es das Gesetz nicht ausdrücklich anders, so ist nur strafbar, wer ein Verbrechen oder Vergehen vorsätzlich begeht.
->
-> 2 Vorsätzlich begeht ein Verbrechen oder Vergehen, wer die Tat mit Wissen und Willen ausführt. Vorsätzlich handelt bereits, wer die Verwirklichung der Tat für möglich hält und in Kauf nimmt.
->
-> 3 Fahrlässig begeht ein Verbrechen oder Vergehen, wer die Folge seines Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt. Pflichtwidrig ist die Unvorsichtigkeit, wenn der Täter die Vorsicht nicht beachtet, zu der er nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_12), Stand der Konsolidierung 12. Juni 2026. In Kraft seit 1. Januar 2007 (AS 2006 3459; [BBl 1999 1979](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1869_1779/de)).*
 
 ---
 

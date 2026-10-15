@@ -2,11 +2,16 @@
 title: "Art. 107 ZPO — Verteilung nach Ermessen"
 weight: 107
 date: 2026-05-23
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 107 ZPO: Ermessensweise Verteilung der Prozesskosten in Abweichung vom Unterliegerprinzip — teilweises Obsiegen bei Schätzungsansprüchen (lit. a), Gutglaubensprozesse (lit. b), Familienrecht (lit. c/d), Gegenstandslosigkeit (lit. e), Billigkeitskorrektiv bei vorsorglicher Beweisführung und Notwegrecht (lit. f), gesellschaftsrechtliche Minderheitsklagen (Abs. 1bis) sowie Kostenauflage an den Kanton (Abs. 2) mit detaillierter Grenzkasuistik und taktischen Praxishinweisen."
 tags: ["ZPO", "Prozesskosten", "Ermessensverteilung", "Unterliegerprinzip", "Familienrecht", "Gegenstandslosigkeit", "Vorsorgliche Beweisführung", "Billigkeit", "Kantonale Gerichtskosten", "Gesellschaftsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-107.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,27 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 107 ZPO — Verteilung nach Ermessen**
->
-> 1 Das Gericht kann von den Verteilungsgrundsätzen abweichen und die Prozesskosten nach Ermessen verteilen:
->
-> a. wenn die Klage zwar grundsätzlich, aber nicht in der Höhe der Forderung gutgeheissen wurde und diese Höhe vom gerichtlichen Ermessen abhängig oder die Bezifferung des Anspruchs schwierig war;
->
-> b. wenn eine Partei in guten Treuen zur Prozessführung veranlasst war;
->
-> c. in familienrechtlichen Verfahren;
->
-> d. in Verfahren bei eingetragener Partnerschaft;
->
-> e. wenn das Verfahren als gegenstandslos abgeschrieben wird und das Gesetz nichts anderes vorsieht;
->
-> f. wenn andere besondere Umstände vorliegen, die eine Verteilung nach dem Ausgang des Verfahrens als unbillig erscheinen lassen.
->
-> 1bis Das Gericht kann die Prozesskosten bei Abweisung gesellschaftsrechtlicher Klagen, die auf Leistung an die Gesellschaft lauten, nach Ermessen auf die Gesellschaft und die klagende Partei aufteilen.
->
-> 2 Das Gericht kann Gerichtskosten, die weder eine Partei noch Dritte veranlasst haben, aus Billigkeitsgründen dem Kanton auferlegen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 272](https://www.fedlex.admin.ch/eli/cc/2010/262/de), Stand der Konsolidierung 1. Juli 2026. Abs. 1bis eingefügt durch Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 (AS 2020 957; BBl 2015 3617).*
 
 ### Die Tatbestände auf einen Blick
 

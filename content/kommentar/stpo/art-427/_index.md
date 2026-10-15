@@ -2,11 +2,16 @@
 title: "Art. 427 StPO — Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person"
 weight: 427
 date: 2026-07-11
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 427 StPO: Kostentragung der Privatklägerschaft bei Zivilpunkt (Abs. 1), Antragsdelikten (Abs. 2), staatsanwaltlichem Vergleich (Abs. 3) und gerichtlicher Genehmigung (Abs. 4) mit detaillierter Kasuistik, Grenzkasuistiktabellen und Praxishinweisen."
 tags: ["StPO", "Kosten", "Privatklägerschaft", "Antragsdelikte", "Kostentragung", "Verfahrenskosten", "Strafantrag", "Zivilpunkt", "Vergleich"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-427.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,25 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 427 StPO — Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person**
->
-> **1** Der Privatklägerschaft können die Verfahrenskosten, die durch ihre Anträge zum Zivilpunkt verursacht worden sind, auferlegt werden, wenn:
->
-> **a.** das Verfahren eingestellt oder die beschuldigte Person freigesprochen wird;
->
-> **b.** die Privatklägerschaft die Zivilklage vor Abschluss der erstinstanzlichen Hauptverhandlung zurückzieht;
->
-> **c.** die Zivilklage abgewiesen oder auf den Zivilweg verwiesen wird.
->
-> **2** Bei Antragsdelikten können die Verfahrenskosten der antragstellenden Person, sofern diese mutwillig oder grob fahrlässig die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat, oder der Privatklägerschaft auferlegt werden:
->
-> **a.** wenn das Verfahren eingestellt oder die beschuldigte Person freigesprochen wird; und
->
-> **b.** soweit die beschuldigte Person nicht nach Artikel 426 Absatz 2 kostenpflichtig ist.
->
-> **3** Zieht die antragstellende Person im Rahmen eines durch die Staatsanwaltschaft vermittelten Vergleichs den Strafantrag zurück, so trägt in der Regel der Bund oder der Kanton die Verfahrenskosten.
->
-> **4** Eine Vereinbarung zwischen der antragstellenden und der beschuldigten Person über die Kostentragung beim Rückzug des Strafantrags bedarf der Genehmigung der Behörde, welche die Einstellung verfügt. Die Vereinbarung darf sich nicht zum Nachteil des Bundes oder des Kantons auswirken.
+{{< wortlaut >}}
 
 ---
 

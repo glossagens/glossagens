@@ -2,11 +2,16 @@
 title: "Art. 112 BGG — Eröffnung der Entscheide"
 weight: 112
 date: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 112 BGG: Formelle Mindestanforderungen an kantonale Entscheide (Parteivorbringen, Begründung, Dispositiv, Rechtsmittelbelehrung und Streitwert), Eröffnung ohne Begründung samt Vollstreckbarkeitshemmung (Revision 2025) sowie Kassation vs. Rückweisung zur Verbesserung."
 tags: ["BGG", "Eröffnung", "Begründungspflicht", "Dispositiv", "Rechtsmittelbelehrung", "Streitwert", "Vollstreckbarkeit", "Rückweisung", "Kassation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-112.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,25 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 112 BGG — Eröffnung der Entscheide**
->
-> 1 Entscheide, die der Beschwerde an das Bundesgericht unterliegen, sind den Parteien schriftlich zu eröffnen. Sie müssen enthalten:
->
-> a. die Begehren, die Begründung, die Beweisvorbringen und Prozesserklärungen der Parteien, soweit sie nicht aus den Akten hervorgehen;
->
-> b. die massgebenden Gründe tatsächlicher und rechtlicher Art, insbesondere die Angabe der angewendeten Gesetzesbestimmungen;
->
-> c. das Dispositiv;
->
-> d. eine Rechtsmittelbelehrung einschliesslich Angabe des Streitwerts, soweit dieses Gesetz eine Streitwertgrenze vorsieht.
->
-> 2 Sofern es das Bundesrecht oder das kantonale Recht vorsieht, eröffnet die Behörde ihren Entscheid in der Regel zeitnah und ohne Begründung. Die Parteien können in diesem Fall innert 30 Tagen eine vollständige Ausfertigung verlangen. Der Entscheid ist nicht vollstreckbar, solange nicht entweder diese Frist unbenützt abgelaufen oder die vollständige Ausfertigung eröffnet worden ist.
->
-> 3 Das Bundesgericht kann einen Entscheid, der den Anforderungen von Absatz 1 nicht genügt, an die kantonale Behörde zur Verbesserung zurückweisen oder aufheben.
->
-> 4 Für die Gebiete, in denen Bundesbehörden zur Beschwerde berechtigt sind, bestimmt der Bundesrat, welche Entscheide ihnen die kantonalen Behörden zu eröffnen haben.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 173.110](https://www.fedlex.admin.ch/eli/cc/2006/218/de#art_112), Stand der Konsolidierung 1. April 2026. Abs. 2 in der Fassung gemäss Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Januar 2025 (AS 2023 491; BBl 2020 2697).*
 
 ---
 

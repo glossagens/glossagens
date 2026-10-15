@@ -2,17 +2,21 @@
 title: "§ 205 — Kostenerlass"
 weight: 205
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 205 VRG LU – Kostenerlass: Nachträglicher Erlass auferlegter amtlicher Kosten bei Bedürftigkeit"
 tags: ["VRG", "Kosten", "Kostenerlass", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-205.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die entscheidende Behörde kann einer bedürftigen Partei die ihr auferlegten amtlichen Kosten auf begründetes Gesuch ganz oder teilweise erlassen.
->
-> 2 Die Behörde kann diese Befugnis an eine andere Instanz übertragen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

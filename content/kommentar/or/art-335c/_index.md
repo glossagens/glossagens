@@ -2,11 +2,16 @@
 title: "Art. 335c — nach Ablauf der Probezeit"
 weight: 335
 date: 2026-06-13
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 335c OR – Kündigung nach Ablauf der Probezeit: gestaffelte Kündigungsfristen, Abänderbarkeit, Verlängerung bei Elternurlaub"
 tags: ["OR", "Kündigungsfrist", "Kündigung", "Arbeitsvertrag", "Elternurlaub"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-335c.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,13 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 335c OR — Kündigungsfristen / Nach Ablauf der Probezeit**
->
-> ¹ Das Arbeitsverhältnis kann im ersten Dienstjahr mit einer Kündigungsfrist von einem Monat, im zweiten bis und mit dem neunten Dienstjahr mit einer Frist von zwei Monaten und nachher mit einer Frist von drei Monaten je auf das Ende eines Monats gekündigt werden.
->
-> ² Diese Fristen dürfen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag abgeändert werden; unter einen Monat dürfen sie jedoch nur durch Gesamtarbeitsvertrag und nur für das erste Dienstjahr herabgesetzt werden.
->
-> ³ Kündigt der Arbeitgeber das Arbeitsverhältnis und hat die Arbeitnehmerin oder der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf den Urlaub des andern Elternteils nach Artikel 329g, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+{{< wortlaut >}}
 
 ## Kommentierung
 

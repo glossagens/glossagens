@@ -2,11 +2,16 @@
 title: "Art. 404 — Widerruf und Kündigung"
 weight: 404
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 404 OR — jederzeitiges Widerrufs- und Kündigungsrecht beim Auftrag, zwingender Charakter, unzeitiger Widerruf mit Schadenersatzpflicht, Konventionalstrafe und Honorarzuschlag, mit Kasuistik zu Architektenvertrag, Arztvertrag, Vermögensverwaltung und Franchise"
 tags: ["OR", "Auftragsrecht", "Widerruf", "Kündigung", "Unzeit", "Schadenersatz", "Architektenvertrag", "Konventionalstrafe", "zwingendes Recht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-404.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,11 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Auftrag kann von jedem Teile jederzeit widerrufen oder gekündigt werden.
->
-> **2** Erfolgt dies jedoch zur Unzeit, so ist der zurücktretende Teil zum Ersatze des dem anderen verursachten Schadens verpflichtet.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

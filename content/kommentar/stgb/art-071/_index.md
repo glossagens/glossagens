@@ -2,11 +2,16 @@
 title: "Art. 71 StGB — Einziehung. Ersatzforderungen"
 weight: 71
 date: "2026-08-08"
-lastmod: "2026-10-07"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 71 StGB: Ersatzforderung des Staates als Surrogat der Vermögenseinziehung, Subsidiarität und Nicht-mehr-Vorhandensein, Berechnung nach Brutto- und Nettoprinzip, strikter Ausschluss der Solidarhaftung bei Mittäterschaft, Schätzung (Art. 70 Abs. 5), Konkurrenz mit Zivilansprüchen und Doppelbelastungsverbot, Zuweisung nach Art. 73 StGB, Verzicht und Herabsetzung wegen Uneinbringlichkeit oder Gefährdung der Resozialisierung (Abs. 2), Zwangsvollstreckung über das SchKG sowie Praxishinweise."
 tags: ["StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung", "Kasuistik", "SchKG", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-071.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-10-07"
     by: "Hermes"
     model: "glm-5.2"
@@ -36,15 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 71 StGB — Einziehung. Ersatzforderungen**
->
-> 1 Sind die der Einziehung unterliegenden Vermögenswerte nicht mehr vorhanden, so erkennt das Gericht auf eine Ersatzforderung des Staates in gleicher Höhe, gegenüber einem Dritten jedoch nur, soweit dies nicht nach Artikel 70 Absatz 2 ausgeschlossen ist.
->
-> 2 Das Gericht kann von einer Ersatzforderung ganz oder teilweise absehen, wenn diese voraussichtlich uneinbringlich wäre oder die Wiedereingliederung des Betroffenen ernstlich behindern würde.
->
-> 3 …
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Abs. 3 aufgehoben durch Anhang 1 Ziff. 4 des BG vom 17. Juni 2022, mit Wirkung seit 1. Januar 2024 ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/1886/de)).*
 
 ---
 

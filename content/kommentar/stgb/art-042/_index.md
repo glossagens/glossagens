@@ -2,11 +2,16 @@
 title: "Art. 42 — Bedingter Strafvollzug"
 weight: 42
 date: 2026-08-07
-lastmod: "2026-09-10"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 42 StGB: Regelaufschub bei Geld- und Freiheitsstrafen bis zu zwei Jahren, Legalprognose, verschärfte Voraussetzungen bei Vorstrafen, Schadenbehebung und Verbindungsbusse."
 tags: ["StGB", "Sanktionenrecht", "Bedingter Strafvollzug", "Legalprognose", "Verbindungsbusse", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-042.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -31,14 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Das Gericht schiebt den Vollzug einer Geldstrafe oder einer Freiheitsstrafe von höchstens zwei Jahren in der Regel auf, wenn eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder Vergehen abzuhalten.
-> 
-> 2 Wurde der Täter innerhalb der letzten fünf Jahre vor der Tat zu einer bedingten oder unbedingten Freiheitsstrafe von mehr als sechs Monaten verurteilt, so ist der Aufschub nur zulässig, wenn besonders günstige Umstände vorliegen.
-> 
-> 3 Die Gewährung des bedingten Strafvollzuges kann auch verweigert werden, wenn der Täter eine zumutbare Schadenbehebung unterlassen hat.
-> 
-> 4 Eine bedingte Strafe kann mit einer Busse nach Artikel 106 verbunden werden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

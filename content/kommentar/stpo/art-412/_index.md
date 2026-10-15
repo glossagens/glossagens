@@ -2,11 +2,16 @@
 title: "Art. 412 — Vorprüfung und Verfahren"
 weight: 412
 date: 2026-07-10
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 412 StPO – Vorprüfung und Verfahren bei Revisionsgesuchen: Zweistufiges Revisionsverfahren, Nichteintreten bei offensichtlicher Unbegründetheit und Schriftenwechsel."
 tags: ["StPO", "Revision", "Vorprüfung", "Nichteintreten", "Schriftenwechsel", "Rechtsmittel", "Beweisabnahme"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-412.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 412 Vorprüfung und Verfahren**
->
-> **1** Das Berufungsgericht nimmt in einem schriftlichen Verfahren eine vorläufige Prüfung des Revisionsgesuchs vor.
->
-> **2** Ist das Gesuch offensichtlich unzulässig oder unbegründet oder wurde es mit den gleichen Vorbringen schon früher gestellt und abgelehnt, so tritt das Gericht nicht darauf ein.
->
-> **3** Andernfalls lädt es die anderen Parteien und die Vorinstanz zur schriftlichen Stellungnahme ein.
->
-> **4** Es beschliesst die erforderlichen Beweis- und Aktenergänzungen sowie vorsorglichen Massnahmen, soweit sie nicht nach Artikel 388 der Verfahrensleitung obliegen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 388 StPO — Zuständigkeit der Verfahrensleitung"
 weight: 388
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 388 StPO – Zuständigkeit der Verfahrensleitung: Unaufschiebbare verfahrensleitende und vorsorgliche Massnahmen (Abs. 1: Dringlichkeitsbeweise, Haftanordnung, amtliche Verteidigung) sowie einzelrichterliche Nichteintretensentscheide bei Unzulässigkeit, Begründungsmängeln und Rechtsmissbrauch (Abs. 2 n.F.)."
 tags: ["StPO", "Verfahrensleitung", "vorsorgliche Massnahmen", "Sicherheitshaft", "amtliche Verteidigung", "Nichteintreten", "Querulanz", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-388.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 388 StPO — Zuständigkeit der Verfahrensleitung für verfahrensleitende und vorsorgliche Massnahmen sowie Nichteintretensentscheide**
->
-> **1** Die Verfahrensleitung der Rechtsmittelinstanz trifft die notwendigen und unaufschiebbaren verfahrensleitenden und vorsorglichen Massnahmen. Sie kann namentlich:
->
-> a. die Staatsanwaltschaft mit unaufschiebbaren Beweiserhebungen beauftragen;
->
-> b. die Haft anordnen;
->
-> c. eine amtliche Verteidigung bestellen.
->
-> **2** Sie entscheidet über das Nichteintreten auf:
->
-> a. offensichtlich unzulässige Rechtsmittel;
->
-> b. Rechtsmittel, die offensichtlich keine hinreichende Begründung enthalten;
->
-> c. querulatorische oder rechtsmissbräuchliche Rechtsmittel.
+{{< wortlaut >}}
 
 ---
 

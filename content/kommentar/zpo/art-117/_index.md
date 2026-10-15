@@ -2,11 +2,16 @@
 title: "Art. 117 ZPO — Anspruch (unentgeltliche Rechtspflege)"
 weight: 117
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 117 ZPO: Anspruch auf unentgeltliche Rechtspflege — Mittellosigkeit, Nichtaussichtslosigkeit, Notgroschen, Mitwirkungsobliegenheit, Subsidiarität gegenüber dem Prozesskostenvorschuss."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Mittellosigkeit", "Aussichtslosigkeit", "Zugang zum Gericht", "Allgemeine Bestimmungen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-117.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,14 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 117 ZPO (SR 272)** — Anspruch
->
-> Eine Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:
->
-> a. sie nicht über die erforderlichen Mittel verfügt; und
->
-> b. ihr Rechtsbegehren nicht aussichtslos erscheint.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 56 StGB — Allgemeine Voraussetzungen der Massnahmen"
 weight: 56
 date: 2026-08-29
-lastmod: 2026-09-22
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 56 StGB: Allgemeine Voraussetzungen für therapeutische Massnahmen und Verwahrungen, Subsidiarität der Strafe, Konnexitätserfordernis, Verhältnismässigkeitsprüfung und Rechtsgüterabwägung im Zeitverlauf, forensisch-psychiatrische Gutachtenstandards (Facharztqualifikation, Aktengutachten, Delegationsverbot), Unabhängigkeit und Ausschluss von Behandlern, Einrichtungen und Aufhebung — mit ausführlicher Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Sanktionenrecht", "Massnahmenrecht", "Gutachten", "Verhältnismässigkeit", "Verwahrung", "Therapeutische Massnahmen", "Allgemeiner Teil", "Kasuistik", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,30 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 56 StGB — Allgemeine Voraussetzungen der Massnahmen**
->
-> 1 Eine Massnahme ist anzuordnen, wenn:
-> a. eine Strafe allein nicht geeignet ist, der Gefahr weiterer Straftaten des Täters zu begegnen;
-> b. ein Behandlungsbedürfnis des Täters besteht oder die öffentliche Sicherheit dies erfordert; und
-> c. die Voraussetzungen der Artikel 59–61, 63 oder 64 erfüllt sind.
->
-> 2 Die Anordnung einer Massnahme setzt voraus, dass der mit ihr verbundene Eingriff in die Persönlichkeitsrechte des Täters im Hinblick auf die Wahrscheinlichkeit und Schwere weiterer Straftaten nicht unverhältnismässig ist.
->
-> 3 Das Gericht stützt sich beim Entscheid über die Anordnung einer Massnahme nach den Artikeln 59–61, 63 und 64 sowie bei der Änderung der Sanktion nach Artikel 65 auf eine sachverständige Begutachtung. Diese äussert sich über:
-> a. die Notwendigkeit und die Erfolgsaussichten einer Behandlung des Täters;
-> b. die Art und die Wahrscheinlichkeit weiterer möglicher Straftaten; und
-> c. die Möglichkeiten des Vollzugs der Massnahme.
->
-> 4 Hat der Täter eine Tat im Sinne von Artikel 64 Absatz 1 begangen, so ist die Begutachtung durch einen Sachverständigen vorzunehmen, der den Täter weder behandelt noch in anderer Weise betreut hat.
->
-> 4bis Kommt die Anordnung der lebenslänglichen Verwahrung nach Artikel 64 Absatz 1bis in Betracht, so stützt sich das Gericht beim Entscheid auf die Gutachten von mindestens zwei erfahrenen und voneinander unabhängigen Sachverständigen, die den Täter weder behandelt noch in anderer Weise betreut haben.
->
-> 5 Das Gericht ordnet eine Massnahme in der Regel nur an, wenn eine geeignete Einrichtung zur Verfügung steht.
->
-> 6 Eine Massnahme, für welche die Voraussetzungen nicht mehr erfüllt sind, ist aufzuheben.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex (SR 311.0)](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_56), Stand per 12. Juni 2026. Abs. 4bis eingefügt durch BG vom 21. Dezember 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. August 2008 ([AS 2008 2961](https://www.fedlex.admin.ch/eli/oc/2008/489/de); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/157/de)).*
 
 ---
 

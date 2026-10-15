@@ -2,11 +2,16 @@
 title: "Art. 274 ZGB – Verweigerung und Entzug des persönlichen Verkehrs"
 weight: 274
 date: 2026-05-23
-lastmod: 2026-09-17
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 274 ZGB mit ausführlicher Abgrenzungskasuistik: Loyalitätspflicht, Kindeswohlgefährdung, pflichtwidrige Ausübung, fehlendes ernsthaftes Kümmern, andere wichtige Gründe (Entführungsgefahr, Stiefvater-Konstellation, häusliche Gewalt), Kindeswille, begleitetes Besuchsrecht als milderes Mittel und Ultima-Ratio-Entzug."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Persönlicher Verkehr", "Besuchsrecht", "Loyalitätspflicht", "Kindeswohl", "Kindesschutz", "Praxiskommentar", "Kindeswille", "Eltern-Kind-Entfremdung", "Begleitetes Besuchsrecht"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-274.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -31,13 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 274 ZGB — Verweigerung und Entzug des persönlichen Verkehrs**
->
-> 1 Der Vater und die Mutter haben alles zu unterlassen, was das Verhältnis des Kindes zum anderen Elternteil beeinträchtigt oder die Aufgabe der erziehenden Person erschwert.
->
-> 2 Wird das Wohl des Kindes durch den persönlichen Verkehr gefährdet, üben die Eltern ihn pflichtwidrig aus, haben sie sich nicht ernsthaft um das Kind gekümmert oder liegen andere wichtige Gründe vor, so kann ihnen das Recht auf persönlichen Verkehr verweigert oder entzogen werden.
->
-> 3 Haben die Eltern der Adoption ihres Kindes zugestimmt oder kann von ihrer Zustimmung abgesehen werden, so erlischt das Recht auf persönlichen Verkehr, sobald das Kind zum Zwecke künftiger Adoption untergebracht wird.
+{{< wortlaut >}}
 
 ---
 

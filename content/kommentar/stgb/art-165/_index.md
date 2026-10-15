@@ -2,11 +2,16 @@
 title: "Art. 165 StGB — Misswirtschaft"
 weight: 165
 date: 2026-09-03
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 165 StGB: Misswirtschaft durch ungenügende Kapitalausstattung, unverhältnismässigen Aufwand, Verschleudern von Vermögenswerten oder arge Nachlässigkeit in der Berufsausübung (Art. 725b OR) — mit der Grenzkasuistik der Gerichte (Verurteilungen vs. Freisprüche), Schwellenwert-Gegenüberstellungen und taktischen Merksätzen."
 tags: ["StGB", "Misswirtschaft", "Konkursdelikte", "Überschuldung", "Arge Nachlässigkeit", "Organhaftung", "Konkursverschleppung", "Zahlungsunfähigkeit", "Business Judgement Rule", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-165.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,19 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 165 StGB — Misswirtschaft**
->
-> 1. Der Schuldner, der in anderer Weise als nach Artikel 164, durch Misswirtschaft, namentlich durch ungenügende Kapitalausstattung, unverhältnismässigen Aufwand, gewagte Spekulationen, leichtsinniges Gewähren oder Benützen von Kredit, Verschleudern von Vermögenswerten oder arge Nachlässigkeit in der Berufsausübung oder Vermögensverwaltung,
-> seine Überschuldung herbeiführt oder verschlimmert, seine Zahlungsunfähigkeit herbeiführt oder im Bewusstsein seiner Zahlungsunfähigkeit seine Vermögenslage verschlimmert,
-> wird, wenn über ihn der Konkurs eröffnet oder gegen ihn ein Verlustschein ausgestellt worden ist, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
->
-> 1bis. Erhält der Schuldner zur Abwendung einer drohenden Überschuldung oder Zahlungsunfähigkeit eine behördliche Stützungsmassnahme, so wird er mit der gleichen Strafe belegt.
->
-> 2. Der auf Pfändung betriebene Schuldner wird nur auf Antrag eines Gläubigers verfolgt, der einen Verlustschein gegen ihn erlangt hat.
-> Der Antrag ist innert drei Monaten seit der Zustellung des Verlustscheines zu stellen.
-> Dem Gläubiger, der den Schuldner zu leichtsinnigem Schuldenmachen, unverhältnismässigem Aufwand oder zu gewagten Spekulationen verleitet oder ihn wucherisch ausgebeutet hat, steht kein Antragsrecht zu.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Abs. 1bis eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ### Die Tatbestandsformen auf einen Blick
 

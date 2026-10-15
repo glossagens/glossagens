@@ -2,11 +2,16 @@
 title: "Art. 714 ZGB — Übertragung des Fahrniseigentums und gutgläubiger Erwerb"
 weight: 714
 date: "2026-09-13"
-lastmod: "2026-09-15"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 714 ZGB — derivativer Erwerb von Fahrniseigentum (Verpflichtungsgeschäft, dinglicher Vertrag, Besitzübergang/traditio) und gutgläubiger Erwerb vom Nichtberechtigten (Art. 714 Abs. 2 i.V.m. Art. 933 ff. ZGB, Art. 3 ZGB) mit Kasuistik aus Occasionswagenhandel, Kunsthandel, Antiquitätenhandel, Tierhandel und Gesellschaftsliquidation."
 tags: ["ZGB", "Sachenrecht", "Fahrniseigentum", "gutgläubiger Erwerb", "traditio", "Besitzübergang", "Besitzesregeln", "Kausalitätsprinzip", "nemo plus iuris", "Occasionswagen", "Kunsthandel", "Beweislast"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-714.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,13 +26,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 714 ZGB**
->
-> 1. Zur Übertragung des Fahrniseigentums bedarf es des Überganges des Besitzes auf den Erwerber.
-> 2. Wer in gutem Glauben eine bewegliche Sache zu Eigentum übertragen erhält, wird, auch wenn der Veräusserer zur Eigentumsübertragung nicht befugt ist, deren Eigentümer, sobald er nach den Besitzesregeln im Besitze der Sache geschützt ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Absatz 1 regelt den derivativen Erwerb von Fahrniseigentum: das Eigentum an einer beweglichen Sache geht durch Übergabe des Besitzes über. Absatz 2 durchbricht den Grundsatz *nemo plus iuris ad alium transferre potest quam ipse habet* zugunsten der Verkehrssicherheit — der gutgläubige Erwerber wird trotz fehlender Verfügungsbefugnis des Veräusserers Eigentümer, sobald ihn die Besitzesregeln der Art. 933 ff. ZGB schützen. Eine digital verfügbare Botschaft zu Art. 714 ZGB selbst liegt nicht vor; das ZGB geht auf die Botschaft Hubers von 1904 zurück, die im hier ausgewerteten digitalen Materialienkorpus nicht enthalten ist. Auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Absatz 1 regelt den derivativen Erwerb von Fahrniseigentum: das Eigentum an einer beweglichen Sache geht durch Übergabe des Besitzes über. Absatz 2 durchbricht den Grundsatz *nemo plus iuris ad alium transferre potest quam ipse habet* zugunsten der Verkehrssicherheit — der gutgläubige Erwerber wird trotz fehlender Verfügungsbefugnis des Veräusserers Eigentümer, sobald ihn die Besitzesregeln der Art. 933 ff. ZGB schützen. Eine digital verfügbare Botschaft zu Art. 714 ZGB selbst liegt nicht vor; das ZGB geht auf die Botschaft Hubers von 1904 zurück, die im hier ausgewerteten digitalen Materialienkorpus nicht enthalten ist. Auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 355 — Verfahren bei Einsprache"
 weight: 355
 date: "2026-06-27"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 355 StPO — Verfahren bei Einsprache durch die Staatsanwaltschaft: Beweisabnahme, Säumnisfiktion, Entscheidung über Fortgang (festhalten, einstellen, neuer Strafbefehl, Anklage)"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Beweisabnahme", "Säumnisfiktion", "Staatsanwaltschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-355.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 355 StPO — Verfahren bei Einsprache**
->
-> **1** Wird Einsprache erhoben, so nimmt die Staatsanwaltschaft die weiteren Beweise ab, die zur Beurteilung der Einsprache erforderlich sind.
->
-> **2** Bleibt eine Einsprache erhebende Person trotz Vorladung einer Einvernahme unentschuldigt fern, so gilt ihre Einsprache als zurückgezogen.
->
-> **3** Nach Abnahme der Beweise entscheidet die Staatsanwaltschaft, ob sie:
->
-> **a.** am Strafbefehl festhält;
->
-> **b.** das Verfahren einstellt;
->
-> **c.** einen neuen Strafbefehl erlässt;
->
-> **d.** Anklage beim erstinstanzlichen Gericht erhebt.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

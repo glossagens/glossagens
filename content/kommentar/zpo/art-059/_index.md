@@ -2,11 +2,16 @@
 title: "Art. 59 ZPO — Grundsatz (Prozessvoraussetzungen)"
 weight: 59
 date: 2026-07-19
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 59 ZPO: Prozessvoraussetzungen im Zivilprozess — Rechtsschutzinteresse, Zuständigkeit, Partei-/Prozessfähigkeit, Litispendenz, res iudicata, Kostenvorschuss und Kasuistik."
 tags: ["ZPO", "Prozessvoraussetzungen", "Nichteintreten", "Rechtsschutzinteresse", "Rechtshängigkeit", "Rechtskraft", "Kostenvorschuss", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-059.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,18 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 59 ZPO (SR 272)** — Grundsatz
->
-> **1** Das Gericht tritt auf eine Klage oder auf ein Gesuch ein, sofern die Prozessvoraussetzungen erfüllt sind.
->
-> **2** Prozessvoraussetzungen sind insbesondere:
-> **a.** die klagende oder gesuchstellende Partei hat ein schutzwürdiges Interesse;
-> **b.** das Gericht ist sachlich und örtlich zuständig;
-> **c.** die Parteien sind partei- und prozessfähig;
-> **d.** die Sache ist nicht anderweitig rechtshängig;
-> **e.** die Sache ist noch nicht rechtskräftig entschieden;
-> **f.** der Vorschuss und die Sicherheit für die Prozesskosten sind geleistet worden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

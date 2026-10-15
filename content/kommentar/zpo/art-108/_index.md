@@ -2,11 +2,16 @@
 title: "Art. 108 — Unnötige Prozesskosten"
 weight: 108
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 108 ZPO — Unnötige Prozesskosten: Verursacherprinzip, Drittbetroffenheit, vorwerfbares Verhalten, prozessuale Anwendungsfaelle, Verhaeltnis zu Art. 106-107 ZPO."
 tags: ["ZPO", "Unnöige Prozesskosten", "Verursacherprinzip", "Kostenverteilung", "Kostenauflage", "Drittbetroffenheit", "Prozesskosten", "Kostenrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 82 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
@@ -18,11 +23,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 108 Unnöige Prozesskosten**
->
-> Unnöige Prozesskosten hat zu bezahlen, wer sie verursacht hat.
-
-*(Quelle: [SR 272 Art. 108](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de#art_108), Stand 1. Juli 2026)*
+{{< wortlaut >}}
 
 ## Ueberblick und Bedeutung
 

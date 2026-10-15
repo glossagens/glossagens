@@ -2,11 +2,16 @@
 title: "Art. 101 — Haftung für Hilfspersonen"
 weight: 101
 date: "2026-06-27"
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 101 OR — Haftung für Hilfspersonen bei Erfüllung einer Schuldpflicht oder Ausübung eines Rechts aus einem Schuldverhältnis; Abbedingbarkeit; Arbeitnehmerprivileg"
 tags: ["OR", "Haftungsrecht", "Hilfspersonen", "Erfüllungsgehilfe", "Verrichtungsgehilfe", "Abbedingung", "Arbeitnehmer", "culpa in contrahendo"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-101.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Wer die Erfüllung einer Schuldpflicht oder die Ausübung eines Rechtes aus einem Schuldverhältnis, wenn auch befugterweise, durch eine Hilfsperson, wie Hausgenossen oder Arbeitnehmer vornehmen lässt, hat dem andern den Schaden zu ersetzen, den die Hilfsperson in Ausübung ihrer Verrichtungen verursacht.
->
-> **2** Diese Haftung kann durch eine zum voraus getroffene Verabredung beschränkt oder aufgehoben werden.
->
-> **3** Steht aber der Verzichtende im Dienst des andern oder folgt die Verantwortlichkeit aus dem Betriebe eines obrigkeitlich konzessionierten Gewerbes, so darf die Haftung höchstens für leichtes Verschulden wegbedungen werden.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

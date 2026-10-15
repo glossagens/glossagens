@@ -2,11 +2,16 @@
 title: "Art. 140 — Verbotene Beweiserhebungsmethoden"
 weight: 140
 date: "2026-05-09"
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 140 StPO – Verbotene Beweiserhebungsmethoden"
 tags: ["StPO", "Beweisverwertungsverbot", "verbotene Beweiserhebung", "nemo tenetur", "Folterverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-140.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 140 StPO — Verbotene Beweiserhebungsmethoden**
->
-> **1** Zwangsmittel, Gewaltanwendung, Drohungen, Versprechungen, Täuschungen und Mittel, welche die Denkfähigkeit oder die Willensfreiheit einer Person beeinträchtigen können, sind bei der Beweiserhebung untersagt.
->
-> **2** Solche Methoden sind auch dann unzulässig, wenn die betroffene Person ihrer Anwendung zustimmt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

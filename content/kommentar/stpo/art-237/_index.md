@@ -2,11 +2,16 @@
 title: "Art. 237 StPO — Ersatzmassnahmen"
 weight: 237
 date: "2026-07-04"
-lastmod: "2026-09-18"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 237 StPO: Ersatzmassnahmen an Stelle der Untersuchungs- oder Sicherheitshaft — Subsidiarität, Massnahmenkatalog, Electronic Monitoring, Antragsbindung des ZMG und Widerrufspraxis mit umfassender Grenzkasuistik."
 tags: ["StPO", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Sicherheitsleistung", "Kaution", "Rayonverbot", "Kontaktverbot", "Electronic Monitoring", "Widerruf", "Antragsbindung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-237.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-18"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,33 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 237 StPO — Allgemeine Bestimmungen**
->
-> 1 Das zuständige Gericht ordnet an Stelle der Untersuchungs- oder der Sicherheitshaft eine oder mehrere mildere Massnahmen an, wenn sie den gleichen Zweck wie die Haft erfüllen.
->
-> 2 Ersatzmassnahmen sind namentlich:
->
-> a. die Sicherheitsleistung;
->
-> b. die Ausweis- und Schriftensperre;
->
-> c. die Auflage, sich nur oder sich nicht an einem bestimmten Ort oder in einem bestimmten Haus aufzuhalten;
->
-> d. die Auflage, sich regelmässig bei einer Amtsstelle zu melden;
->
-> e. die Auflage, einer geregelten Arbeit nachzugehen;
->
-> f. die Auflage, sich einer ärztlichen Behandlung oder einer Kontrolle zu unterziehen;
->
-> g. das Verbot, mit bestimmten Personen Kontakte zu pflegen.
->
-> 3 Das Gericht kann zur Überwachung solcher Ersatzmassnahmen den Einsatz technischer Geräte und deren feste Verbindung mit der zu überwachenden Person anordnen.
->
-> 4 Anordnung und Anfechtung von Ersatzmassnahmen richten sich sinngemäss nach den Vorschriften über die Untersuchungs- und die Sicherheitshaft.
->
-> 5 Das Gericht kann die Ersatzmassnahmen jederzeit widerrufen, andere Ersatzmassnahmen oder die Untersuchungs- oder die Sicherheitshaft anordnen, wenn neue Umstände dies erfordern oder die beschuldigte Person die ihr gemachten Auflagen nicht erfüllt.
-
-*Wortlaut konsolidiert gemäss [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

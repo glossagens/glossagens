@@ -2,11 +2,16 @@
 title: "Art. 250 StPO — Durchführung der Personendurchsuchung"
 weight: 250
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 250 StPO – Durchführung der Personendurchsuchung: Umfang (Kleider, Gegenstände, Fahrzeuge, Körperoberfläche, einsehbare Öffnungen; Abs. 1) und Schutz der Intimsphäre durch Geschlechtertrennung oder Beizug von Ärzten (Abs. 2)."
 tags: ["StPO", "Personendurchsuchung", "Intimbereich", "Geschlechtertrennung", "Arztvorbehalt", "Menschenwürde", "Körperöffnungen", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-250.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 250 StPO — Durchführung**
->
-> **1** Die Durchsuchung von Personen umfasst die Kontrolle der Kleider, der mitgeführten Gegenstände, Behältnisse und Fahrzeuge, der Körperoberfläche und der einsehbaren Körperöffnungen und Körperhöhlen.
->
-> **2** Durchsuchungen, die in den Intimbereich der Betroffenen eingreifen, werden von Personen des gleichen Geschlechts oder von einer Ärztin oder einem Arzt durchgeführt, es sei denn, die Massnahme dulde keinen Aufschub.
+{{< wortlaut >}}
 
 ---
 

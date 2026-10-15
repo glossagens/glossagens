@@ -2,11 +2,16 @@
 title: "Art. 312 — Berufungsantwort"
 weight: 312
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 312 ZPO — Berufungsantwort: offensichtlich unzulaessige oder unbegruendete Berufung, Verzicht auf Berufungsantwort, Verhaeltnis zum rechtlichen Gehoer, Kostenfolgen, Anschlussberufung."
 tags: ["ZPO", "Berufungsantwort", "Berufung", "offensichtlich unbegruendet", "offensichtlich unzulaessig", "Berufungsverfahren", "Rechtsmittel", "Anschlussberufung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-312.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
@@ -18,12 +23,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 312 Berufungsantwort**
->
-> 1 Die Rechtsmittelinstanz stellt die Berufung der Gegenpartei zur schriftlichen Stellungnahme zu, es sei denn, die Berufung sei offensichtlich unzulässig oder offensichtlich unbegründet.
-> 2 Die Frist für die Berufungsantwort beträgt 30 Tage.
-
-*(Quelle: [SR 272 Art. 312](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de#art_312), Stand 1. Juli 2026)*
+{{< wortlaut >}}
 
 ## Ueberblick und Bedeutung
 

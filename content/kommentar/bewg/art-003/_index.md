@@ -2,19 +2,21 @@
 title: "Art. 3 — Bundesrecht und kantonales Recht"
 weight: 3
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 BewG — Bewilligungspflicht nach Bundesrecht und Ermächtigung der Kantone zu weitergehenden Beschränkungen"
 tags: ["BewG", "Lex Koller", "Grundstückskauf", "Bewilligungspflicht", "kantonales Recht", "Ausländergrundstückrecht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 3 BewG — Bundesrecht und kantonales Recht**
->
-> ¹ Die Bewilligung wird nur aus den Gründen erteilt, die dieses Gesetz vorsieht.
->
-> ² Die Kantone können zur Wahrung ihrer unterschiedlichen Interessen zusätzliche Bewilligungsgründe und weitergehende Beschränkungen vorsehen, soweit dieses Gesetz sie dazu ermächtigt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

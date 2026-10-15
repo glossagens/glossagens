@@ -2,11 +2,16 @@
 title: "Art. 55 ATSG — Anwendbarkeit des VwVG"
 weight: 55
 date: 2026-07-03
-lastmod: 2026-10-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 55 ATSG: Subsidiäre Geltung des VwVG im Sozialversicherungsverfahren, Abgrenzung Verwaltungsverfahren vs. Beschwerdeverfahren, elektronischer Rechtsverkehr, Mitwirkungsrechte bei Gutachtenanordnung, Geltungsbereich vor Bundesbehörden."
 tags: ["ATSG", "VwVG", "Sozialversicherung", "Verfahrensrecht", "Elektronische Einreichung", "Subsidiarität", "Mitwirkungsrechte", "Gutachten", "Zwischenverfügung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-055.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 55 ATSG — Besondere Verfahrensregeln (SR 830.1)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/atsg/art-055/)
-
-> «1 In den Artikeln 27–54 oder in den Einzelgesetzen nicht abschliessend geregelte Verfahrensbereiche bestimmen sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968.
->
-> 1bis Der Bundesrat kann vorsehen, dass die Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 über den elektronischen Verkehr mit Behörden auch für Verfahren nach diesem Gesetz gelten.
->
-> 2 Das Verfahren vor einer Bundesbehörde richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968, ausser wenn sie über sozialversicherungsrechtliche Leistungen, Forderungen und Anordnungen entscheidet.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

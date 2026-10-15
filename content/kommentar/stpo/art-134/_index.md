@@ -6,6 +6,11 @@ description: "Kommentar zu Art. 134 StPO: Widerruf und Wechsel der amtlichen Ver
 tags: ["StPO", "Widerruf", "Wechsel", "amtliche Verteidigung", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung", "Opferschutz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-134.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -15,16 +20,12 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200)."
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung**
->
-> 1 Fällt der Grund für die amtliche Verteidigung dahin, so widerruft die Verfahrensleitung das Mandat.
->
-> 2 Ist das Vertrauensverhältnis zwischen der beschuldigten Person und ihrer amtlichen Verteidigung erheblich gestört oder eine wirksame Verteidigung aus andern Gründen nicht mehr gewährleistet, so überträgt die Verfahrensleitung die amtliche Verteidigung einer anderen Person.
+{{< wortlaut >}}
 
 ## Kommentierung
 

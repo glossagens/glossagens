@@ -2,11 +2,16 @@
 title: "Art. 394 — Begriff des Auftrags; Vergütung"
 weight: 394
 date: 2026-06-27
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 394 OR — Begriff und Auffangfunktion des Auftrags, Abgrenzung zu Werkvertrag, Mäklervertrag und Gefälligkeit, Vergütungspflicht bei verabredeter oder üblicher Vergütung, mit Kasuistik zu Arztvertrag, Architektenvertrag, Gutachterauftrag und Anwaltshonorar"
 tags: ["OR", "Auftragsrecht", "Vergütung", "Arztvertrag", "Architektenvertrag", "Anwaltshonorar", "Gefälligkeit", "Auffangfunktion", "Werkvertrag", "Mäklervertrag"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-394.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Durch die Annahme eines Auftrages verpflichtet sich der Beauftragte, die ihm übertragenen Geschäfte oder Dienste vertragsgemäss zu besorgen.
->
-> **2** Verträge über Arbeitsleistung, die keiner besondern Vertragsart dieses Gesetzes unterstellt sind, stehen unter den Vorschriften über den Auftrag.
->
-> **3** Eine Vergütung ist zu leisten, wenn sie verabredet oder üblich ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 2 in der Fassung gemäss Ziff. I des BG vom 25. Juni 1971, in Kraft seit 1. Januar 1972 (AS 1971 893).*
 
 ### Prüfschema
 

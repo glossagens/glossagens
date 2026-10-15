@@ -2,11 +2,16 @@
 title: "Art. 9 StPO — Anklagegrundsatz"
 weight: 9
 date: 2026-07-10
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 9 StPO (Anklagegrundsatz / Akkusationsprinzip): Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot bei Mittäterschaft und Dauerdelikten, Umschreibung des subjektiven Tatbestands, Bindung des Gerichts (Immutabilitätsprinzip), Unzulässigkeit von Sachverhaltserweiterungen im Berufungsverfahren, Strafbefehle und kantonale Praxisfragen."
 tags: ["StPO", "Anklagegrundsatz", "Akkusationsprinzip", "Bestimmtheitsgebot", "Umgrenzungsfunktion", "Informationsfunktion", "Immutabilitätsprinzip", "Mittäterschaft", "Strafbefehl", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,13 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 9 Anklagegrundsatz**
->
-> 1 Eine Straftat kann nur gerichtlich beurteilt werden, wenn die Staatsanwaltschaft gegen eine bestimmte Person wegen eines genau umschriebenen Sachverhalts beim zuständigen Gericht Anklage erhoben hat.
->
-> 2 Das Strafbefehls- und das Übertretungsstrafverfahren bleiben vorbehalten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

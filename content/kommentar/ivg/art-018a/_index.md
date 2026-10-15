@@ -2,11 +2,16 @@
 title: "Art. 18a — Arbeitsversuch"
 weight: 18
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 18a IVG: Arbeitsversuch der Invalidenversicherung, Taggeldanspruch, sinngemässe Anwendbarkeit von Arbeitsvertragsrecht, fehlender Unterbruch beitragspflichtiger Beschäftigung im GAV-FAR-Betrieb."
 tags: ["IVG", "Arbeitsversuch", "Eingliederungsmassnahme", "Taggeld", "Arbeitsvertragsrecht", "GAV FAR", "Sozialversicherungsrecht", "BVG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-018a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,29 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 18a^140^ Arbeitsversuch**
->
-> **1** Die Invalidenversicherung kann einer versicherten Person versuchsweise einen Arbeitsplatz für längstens 180 Tage zuweisen (Arbeitsversuch), um die tatsächliche Leistungsfähigkeit der versicherten Person im Arbeitsmarkt abzuklären.
->
-> **2** Während des Arbeitsversuchs hat die versicherte Person Anspruch auf ein Taggeld; Rentenbezügerinnen und -bezügern wird die Rente weiter ausgezahlt.
->
-> **3** Während des Arbeitsversuchs entsteht kein Arbeitsverhältnis nach dem Obligationenrecht (OR)^141^. Folgende Bestimmungen des Arbeitsvertragsrechts sind jedoch sinngemäss anwendbar:
->
-> **a.** Sorgfalts- und Treuepflicht (Art. 321a OR);
-> **b.** Rechenschafts- und Herausgabepflicht (Art. 321b OR);
-> **c.** Überstundenarbeit (Art. 321c OR);
-> **d.** Befolgung von Anordnungen und Weisungen (Art. 321d OR);
-> **e.** Haftung des Arbeitnehmers (Art. 321e OR);
-> **f.** Arbeitsgeräte, Material und Auslagen (Art. 327, 327a, 327b, 327c OR);
-> **g.** Schutz der Persönlichkeit des Arbeitnehmers (Art. 328, 328b OR);
-> **h.** Freizeit und Ferien (Art. 329, 329a, 329c OR);
-> **i.** übrige Pflichten: Kaution (Art. 330 OR), Zeugnis (Art. 330a OR), Informationspflicht (Art. 330b OR);
-> **j.** Rechte an Erfindungen und Designs (Art. 332 OR);
-> **k.** Folgen der Beendigung des Arbeitsverhältnisses: Fälligkeit der Forderungen (Art. 339 Abs. 1 OR), Rückgabepflichten (Art. 339a OR).
->
-> **4** Der Bundesrat regelt die Voraussetzungen für einen möglichen vorzeitigen Abbruch des Arbeitsversuchs.
-
-*Konsolidierungsstand: 01.01.2026 (Fedlex, SR 831.20). Art. 18a eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

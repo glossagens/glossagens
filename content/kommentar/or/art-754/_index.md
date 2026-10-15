@@ -2,11 +2,16 @@
 title: "Art. 754 OR — Haftung für Verwaltung, Geschäftsführung und Liquidation"
 weight: 754
 date: 2026-08-29
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 754 OR – Aktienrechtliche Organhaftung des Verwaltungsrats, der Geschäftsleitung und faktischer Organe; historische Kontinuität (Art. 674 aOR / Art. 754 aOR 1936); Business Judgment Rule; Schadenstypen und Geltendmachung im Konkurs."
 tags: ["OR", "Aktienrecht", "Verantwortlichkeit", "Organhaftung", "Verwaltungsrat", "Business Judgment Rule", "Faktische Organschaft", "Konkursverschleppung", "Differenzierte Solidarität"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-754.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 754 OR — Haftung für Verwaltung, Geschäftsführung und Liquidation**
->
-> ¹ Die Mitglieder des Verwaltungsrates und alle mit der Geschäftsführung oder mit der Liquidation befassten Personen sind sowohl der Gesellschaft als den einzelnen Aktionären und Gesellschaftsgläubigern für den Schaden verantwortlich, den sie durch absichtliche oder fahrlässige Verletzung ihrer Pflichten verursachen.
->
-> ² Wer die Erfüllung einer Aufgabe befugterweise einem anderen Organ überträgt, haftet für den von diesem verursachten Schaden, sofern er nicht nachweist, dass er bei der Auswahl, Unterrichtung und Überwachung die nach den Umständen gebotene Sorgfalt angewendet hat.
+{{< wortlaut >}}
 
 ---
 

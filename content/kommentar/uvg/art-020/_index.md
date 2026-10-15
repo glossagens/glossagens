@@ -2,11 +2,16 @@
 title: "Art. 20 UVG — Höhe der Invalidenrente"
 weight: 20
 date: 2026-07-27
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 20 UVG: Höhe der Invalidenrente, Komplementärrente, 90%-Plafond, Vorrang vor Art. 69 ATSG, Alterskürzung beim Referenzalter und Kasuistik."
 tags: ["UVG", "Invalidenrente", "Komplementärrente", "versicherter Verdienst", "Alterskürzung", "Überentschädigung", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-020.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -28,23 +33,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 20 Höhe**
->
-> **1** Die Invalidenrente beträgt bei Vollinvalidität 80 Prozent des versicherten Verdienstes; bei Teilinvalidität wird sie entsprechend gekürzt.
->
-> **2** Hat der Versicherte Anspruch auf eine Rente der IV oder auf eine Rente der Alters- und Hinterlassenenversicherung (AHV), so wird ihm eine Komplementärrente gewährt; diese entspricht in Abweichung von Artikel 69 ATSG der Differenz zwischen 90 Prozent des versicherten Verdienstes und der Rente der IV oder der AHV, höchstens aber dem für Voll- oder Teilinvalidität vorgesehenen Betrag. Die Komplementärrente wird beim erstmaligen Zusammentreffen mit der IV- oder der AHV-Rente festgesetzt. Sie wird angepasst, wenn die AHV-Rente infolge eines Aufschubs oder Vorbezugs geändert wird oder wenn die für Familienangehörige bestimmten Teile der IV- oder der AHV-Rente geändert werden.
->
-> **2bis** Absatz 2 ist auch anwendbar, wenn der Versicherte Anspruch auf eine gleichartige Rente einer ausländischen Sozialversicherung hat.
->
-> **2ter** Die Invalidenrente nach Absatz 1 und die Komplementärrente nach Absatz 2 einschliesslich der Teuerungszulagen werden in Abweichung von Artikel 69 ATSG beim Erreichen des Referenzalters für jedes volle Jahr, das der Versicherte zum Unfallzeitpunkt älter als 45 Jahre war, wie folgt gekürzt:
->
-> **a.** bei einem Invaliditätsgrad von mindestens 40 Prozent: um 2 Prozentpunkte, höchstens aber um 40 Prozent;
->
-> **b.** bei einem Invaliditätsgrad unter 40 Prozent: um 1 Prozentpunkt, höchstens aber um 20 Prozent.
->
-> **2quater** Für die Folgen von Rückfällen und Spätfolgen gelten die Kürzungsregelungen nach Absatz 2ter auch dann, wenn sich der Unfall vor Vollendung des 45. Altersjahres ereignet hat, sofern die durch den Rückfall oder die Spätfolgen bewirkte Arbeitsunfähigkeit nach Vollendung des 60. Altersjahres eingetreten ist.
->
-> **3** Der Bundesrat erlässt nähere Vorschriften, namentlich über die Berechnung der Komplementärrenten in Sonderfällen.
+{{< wortlaut >}}
 
 ---
 

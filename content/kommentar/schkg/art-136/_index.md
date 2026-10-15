@@ -2,11 +2,16 @@
 title: "Art. 136 SchKG — Zahlungsmodalitäten bei der Versteigerung"
 weight: 136
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 136 SchKG: Barzahlung, Zahlungstermin (max. 6 Monate), Steigerungsbedingungen, Bank-Zahlungsversprechen, Check-Zahlung, Anwendung auf Freihandverkauf und Pfandverwertung."
 tags: ["SchKG", "Versteigerung", "Steigerung", "Zahlungsmodalitäten", "Barzahlung", "Zahlungstermin", "Bankgarantie", "Check", "Grundpfandrecht", "VZG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-136.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "nemotron-3-ultra"
@@ -16,12 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 136 SchKG — Zahlungsmodalitäten**
->
-> 1 Der Betreibungsbeamte legt den Zahlungsmodus in den Steigerungsbedingungen fest; er kann einen Zahlungstermin von höchstens sechs Monaten gewähren.
-> 2 Die Zahlung kann bis zum Betrag von 100'000 Franken in bar geleistet werden. Liegt der Preis höher, so ist der Teil, der diesen Betrag übersteigt, über einen Finanzintermediär nach dem Geldwäschereigesetz vom 10. Oktober 1997 abzuwickeln.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Januar 2026 (AS 2015 1389; BBl 2014 605, Ziff. I 3 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Jan. 2016).*
 
 ---
 

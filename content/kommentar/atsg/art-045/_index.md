@@ -2,11 +2,16 @@
 title: "Art. 45 ATSG — Kosten der Abklärung"
 weight: 45
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 45 ATSG: Kostenübernahmepflicht der Sozialversicherungsträger für medizinische Abklärungen und Gutachten, Kostenverteilung bei Mehrversichererfällen (Oberexpertise) sowie Kostenauflage bei Verfahrensvereitelung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Abklärungskosten", "Gutachten", "Oberexpertise", "Mehrversicherer", "Untersuchungspflicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-045.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 45 ATSG — Kosten der Abklärung**
->
-> 1 Der Versicherungsträger übernimmt die Kosten der Abklärung, soweit er die Massnahmen angeordnet hat. Hat er keine Massnahmen angeordnet, so übernimmt er deren Kosten dennoch, wenn die Massnahmen für die Beurteilung des Anspruchs unerlässlich waren oder Bestandteil nachträglich zugesprochener Leistungen bilden.
->
-> 2 Der Versicherungsträger entschädigt die Partei und die Auskunftspersonen für Erwerbsausfall und Spesen.
->
-> 3 Die Kosten können der Partei auferlegt werden, wenn sie trotz Aufforderung und Androhung der Folgen die Abklärung in unentschuldbarer Weise verhindert oder erschwert hat.
->
-> 4 Hat eine versicherte Person wissentlich mit unwahren Angaben oder in anderer rechtswidriger Weise eine Versicherungsleistung erwirkt oder zu erwirken versucht, so kann ihr der Versicherungsträger die Mehrkosten auferlegen, die ihm durch den Beizug von Spezialistinnen und Spezialisten, die zur Bekämpfung des unrechtmässigen Leistungsbezugs mit der Durchführung der Observationen beauftragt wurden, entstanden sind.
-
-*Wortlaut geprüft gegen [Fedlex, SR 830.1](https://www.fedlex.admin.ch/eli/cc/2002/510/de), Stand der Konsolidierung 1. Januar 2024. Abs. 4 eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 (AS 2020 5137; BBl 2018 1607).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

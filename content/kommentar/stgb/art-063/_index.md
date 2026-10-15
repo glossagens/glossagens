@@ -2,11 +2,16 @@
 title: "Art. 63 StGB — Ambulante Behandlung"
 weight: 63
 date: 2025-06-12
-lastmod: "2026-09-11"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 63 StGB: Voraussetzungen der ambulanten Behandlung, Abgrenzung zur stationären Massnahme (Art. 59 StGB) und zur Bewährungsweisung (Art. 44 Abs. 2 StGB), Ausnahmecharakter des Strafaufschubs (Abs. 2), vorübergehende stationäre Einleitung (Abs. 3) sowie Höchstdauer und Verlängerungskasuistik (Abs. 4)."
 tags: ["StGB", "Ambulante Behandlung", "Massnahme", "Psychische Störung", "Suchtbehandlung", "Strafaufschub", "Abgrenzung", "Kasuistik", "Verlängerung", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,19 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 63 StGB — Ambulante Behandlung**
->
-> 1 Ist der Täter psychisch schwer gestört, ist er von Suchtstoffen oder in anderer Weise abhängig, so kann das Gericht anordnen, dass er nicht stationär, sondern ambulant behandelt wird, wenn:  
-> a. der Täter eine mit Strafe bedrohte Tat verübt, die mit seinem Zustand in Zusammenhang steht; und  
-> b. zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit dem Zustand des Täters in Zusammenhang stehender Taten begegnen.
->
-> 2 Das Gericht kann den Vollzug einer zugleich ausgesprochenen unbedingten Freiheitsstrafe, einer durch Widerruf vollziehbar erklärten Freiheitsstrafe sowie einer durch Rückversetzung vollziehbar gewordenen Reststrafe zu Gunsten einer ambulanten Behandlung aufschieben, um der Art der Behandlung Rechnung zu tragen. Es kann für die Dauer der Behandlung Bewährungshilfe anordnen und Weisungen erteilen.
->
-> 3 Die zuständige Behörde kann verfügen, dass der Täter vorübergehend stationär behandelt wird, wenn dies zur Einleitung der ambulanten Behandlung geboten ist. Die stationäre Behandlung darf insgesamt nicht länger als zwei Monate dauern.
->
-> 4 Die ambulante Behandlung darf in der Regel nicht länger als fünf Jahre dauern. Erscheint bei Erreichen der Höchstdauer eine Fortführung der ambulanten Behandlung notwendig, um der Gefahr weiterer mit einer psychischen Störung in Zusammenhang stehender Verbrechen und Vergehen zu begegnen, so kann das Gericht auf Antrag der Vollzugsbehörde die Behandlung um jeweils ein bis fünf Jahre verlängern.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_63), Stand der Konsolidierung 12. Juni 2026.*
 
 ---
 

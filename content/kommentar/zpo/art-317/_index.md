@@ -2,11 +2,16 @@
 title: "Art. 317 ZPO — Neue Tatsachen, neue Beweismittel und Klageänderung"
 weight: 317
 date: 2026-07-18
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 317 ZPO: Das Novenrecht in der Berufung — Echte und unechte Noven, Unverzüglichkeit, zumutbare Sorgfalt, Abs. 1bis (Revision 2025) und Klageänderung."
 tags: ["ZPO", "Berufung", "Noven", "Klageänderung", "Revision 2025", "Zumutbare Sorgfalt", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-317.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,18 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 317 ZPO (SR 272)** — Neue Tatsachen, neue Beweismittel und Klageänderung
->
-> **1** Neue Tatsachen und Beweismittel werden nur noch berücksichtigt, wenn sie:
-> **a.** ohne Verzug vorgebracht werden; und
-> **b.** trotz zumutbarer Sorgfalt nicht schon vor erster Instanz vorgebracht werden konnten.
->
-> **1bis** Hat die Rechtsmittelinstanz den Sachverhalt von Amtes wegen zu erforschen, so berücksichtigt sie neue Tatsachen und Beweismittel bis zur Urteilsberatung.
->
-> **2** Eine Klageänderung ist nur noch zulässig, wenn:
-> **a.** die Voraussetzungen nach Artikel 227 Absatz 1 gegeben sind; und
-> **b.** sie auf neuen Tatsachen oder Beweismitteln beruht.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

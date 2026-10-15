@@ -2,11 +2,16 @@
 title: "Art. 111 StGB — Vorsätzliche Tötung"
 weight: 111
 date: 2026-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 111 StGB: Vorsätzliche Tötung als Grundtatbestand — Eventualvorsatz und Abgrenzung zur bewussten Fahrlässigkeit, Auffangfunktion gegenüber Mord (Art. 112) und Totschlag (Art. 113), Notwehrexzess, Versuch und Teilnahme, Strafzumessung — mit zweiseitiger Grenzkasuistik."
 tags: ["StGB", "Vorsätzliche Tötung", "Eventualvorsatz", "Mordabgrenzung", "Totschlag", "Notwehrexzess", "Tötungsdelikte", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-111.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 73 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,13 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 111 StGB — Vorsätzliche Tötung**
->
-> Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit Freiheitsstrafe¹ nicht unter fünf Jahren bestraft.
->
-> ¹ Ausdruck gemäss Ziff. II 1 Abs. 1 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 (AS 2006 3459; BBl 1999 1979).
-
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_111), Stand der Konsolidierung 12. Juni 2026.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

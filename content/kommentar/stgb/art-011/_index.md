@@ -2,11 +2,16 @@
 title: "Art. 11 — Begehung durch Unterlassen"
 weight: 11
 date: 2026-07-24
-lastmod: 2026-08-13
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 11 StGB — unechtes Unterlassungsdelikt, Garantenstellung aus Gesetz, Vertrag, Gefahrengemeinschaft und Ingerenz, Gleichwertigkeitsklausel, fakultative Strafmilderung"
 tags: ["StGB", "Unterlassungsdelikt", "Garantenstellung", "Ingerenz", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-011.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -21,21 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 11 StGB — Begehung durch Unterlassen**
->
-> **1** Ein Verbrechen oder Vergehen kann auch durch pflichtwidriges Untätigbleiben begangen werden.
->
-> **2** Pflichtwidrig untätig bleibt, wer die Gefährdung oder Verletzung eines strafrechtlich geschützten Rechtsgutes nicht verhindert, obwohl er aufgrund seiner Rechtstellung dazu verpflichtet ist, namentlich auf Grund:
-> a. des Gesetzes;
-> b. eines Vertrages;
-> c. einer freiwillig eingegangenen Gefahrengemeinschaft; oder
-> d. der Schaffung einer Gefahr.
->
-> **3** Wer pflichtwidrig untätig bleibt, ist gestützt auf den entsprechenden Tatbestand nur dann strafbar, wenn ihm nach den Umständen der Tat derselbe Vorwurf gemacht werden kann, wie wenn er die Tat durch ein aktives Tun begangen hätte.
->
-> **4** Das Gericht kann die Strafe mildern.
-
-*Quelle: SR 311.0, Art. 11 — Fedlex, Konsolidierungsstand 12.6.2026*
+{{< wortlaut >}}
 
 ## Überblick
 

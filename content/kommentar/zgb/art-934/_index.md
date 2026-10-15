@@ -2,11 +2,16 @@
 title: "Art. 934 ZGB — Abhandengekommene Sache (Rückforderungsrecht und Lösungsrecht)"
 weight: 934
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 934 ZGB — Rückforderungsrecht des bestohlenen Eigentümers bei gestohlenen, verlorenen oder sonst wider Willen abhandengekommenen Sachen: fünfjährige Rückforderungsfrist gegen jeden Empfänger, Vorbehalt des Finderrechts (Art. 722) und der Ersitzung (Art. 728), Sonderfrist für Kulturgüter (Art. 934 Abs. 1bis, KGTG), Lösungsrecht im Marktverkehr (Abs. 2), Bösgläubigkeit und Branchenvertrautheit (Occasionswagen, Antiquitäten, Kunsthandel) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "abhandengekommen", "Rückforderungsrecht", "Lösungsrecht", "gutgläubiger Erwerb", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Kulturgüter", "KGTG", "Ersitzung", "Hehlerei", "Bösgläubigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-934.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,15 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 934 ZGB**
->
-> 1. Der Besitzer, dem eine bewegliche Sache gestohlen wird oder verloren geht oder sonst wider seinen Willen abhanden kommt, kann sie während fünf Jahren jedem Empfänger abfordern. Vorbehalten bleibt Artikel 722.
-> 1bis. Das Rückforderungsrecht für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, die gegen den Willen des Eigentümers abhanden gekommen sind, verjährt ein Jahr, nachdem der Eigentümer Kenntnis erlangt hat, wo und bei wem sich das Kulturgut befindet, spätestens jedoch 30 Jahre nach dem Abhandenkommen.
-> 2. Ist die Sache öffentlich versteigert oder auf dem Markt oder durch einen Kaufmann, der mit Waren der gleichen Art handelt, übertragen worden, so kann sie dem ersten und jedem spätern gutgläubigen Empfänger nur gegen Vergütung des von ihm bezahlten Preises abgefordert werden.
-> 3. Die Rückleistung erfolgt im Übrigen nach den Vorschriften über die Ansprüche des gutgläubigen Besitzers.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Absatz 1 geht auf das ZGB von 1907 zurück (Wortlaut seitdem unverändert); Absatz 1bis wurde durch das Kulturgütertransfergesetz (KGTG) vom 20. Juni 2003 eingefügt und ist seit dem 1. Juni 2005 in Kraft. Die Bestimmung ist die Besitzesregel für die **abhandengekommene** Sache und das dogmatische Gegenstück zu Art. 933 ZGB (anvertraute Sache): während bei anvertrauten Sachen der gutgläubige Erwerb definitiv ist (kein Rückforderungsrecht), gewährt Art. 934 ZGB dem bestohlenen oder um seine Sache gekommenen Eigentümer ein fünfjähriges Rückforderungsrecht gegen jeden Empfänger — auch gegen den gutgläubigen. Eine digital verfügbare Botschaft zu Art. 934 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Absatz 1 geht auf das ZGB von 1907 zurück (Wortlaut seitdem unverändert); Absatz 1bis wurde durch das Kulturgütertransfergesetz (KGTG) vom 20. Juni 2003 eingefügt und ist seit dem 1. Juni 2005 in Kraft. Die Bestimmung ist die Besitzesregel für die **abhandengekommene** Sache und das dogmatische Gegenstück zu Art. 933 ZGB (anvertraute Sache): während bei anvertrauten Sachen der gutgläubige Erwerb definitiv ist (kein Rückforderungsrecht), gewährt Art. 934 ZGB dem bestohlenen oder um seine Sache gekommenen Eigentümer ein fünfjähriges Rückforderungsrecht gegen jeden Empfänger — auch gegen den gutgläubigen. Eine digital verfügbare Botschaft zu Art. 934 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

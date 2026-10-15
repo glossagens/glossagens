@@ -2,21 +2,21 @@
 title: "Art. 13 — Entschädigung der Überzeitarbeit"
 weight: 13
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 ArG – Entschädigung der Überzeitarbeit: Lohnzuschlag von 25 Prozent, Ausnahmen für Büropersonal und Angestellte, Freizeitkompensation, zwingender Charakter, Abgrenzung zur Überstundenentschädigung nach Art. 321c OR"
 tags: ["ArG", "Überzeitarbeit", "Lohnzuschlag", "Überstunden", "Arbeitnehmerschutz", "Entschädigung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 13**<sup>38</sup>
->
-> **1** Der Arbeitgeber hat den Arbeitnehmern für die Überzeitarbeit einen Lohnzuschlag von wenigstens 25 Prozent auszurichten, dem Büropersonal sowie den technischen und andern Angestellten, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels, jedoch nur für Überzeitarbeit, die 60 Stunden im Kalenderjahr übersteigt.
->
-> **2** Wird Überzeitarbeit im Einverständnis mit dem einzelnen Arbeitnehmer innert eines angemessenen Zeitraums durch Freizeit von gleicher Dauer ausgeglichen, so ist kein Zuschlag auszurichten.
-
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023 (SR 822.11).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

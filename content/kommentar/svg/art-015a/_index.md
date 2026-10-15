@@ -2,11 +2,16 @@
 title: "Art. 15a SVG — Führerausweis auf Probe"
 weight: 15
 date: 2026-08-31
-lastmod: 2026-08-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 15a SVG: Zweiphasenausbildung, Führerausweis auf Probe, Verlängerung der Probezeit, zwingender Verfall bei zweiter Widerhandlung (BGer 1C_246/2026, BGE 146 II 300), Sperrfrist und verkehrspsychologisches Gutachten."
 tags: ["SVG", "Führerausweis", "Probezeit", "Administrativmassnahmen", "Verfall", "Neulenker"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-015a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,24 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 15a SVG (SR 741.01)** — Führerausweis auf Probe
->
-> **1** Der erstmals erworbene Führerausweis für Motorräder und Motorwagen wird zunächst auf Probe erteilt. Die Probezeit beträgt drei Jahre.
->
-> **2** Er wird erteilt, wenn der Bewerber:
-> a. die vorgeschriebene Ausbildung besucht hat; und
-> b. die praktische Führerprüfung bestanden hat.
->
-> **2bis** Inhaber des Führerausweises auf Probe müssen Weiterbildungskurse besuchen. Die Kurse sollen die Erkennung und Vermeidung von Gefahren und umweltschonendes Fahren vermitteln und sind in erster Linie praktisch auszurichten. Der Bundesrat legt Inhalt und Form der Weiterbildungskurse fest.
->
-> **3** Wird dem Inhaber der Führerausweis auf Probe wegen Begehung einer mittelschweren oder schweren Widerhandlung entzogen, so wird die Probezeit um ein Jahr verlängert. Dauert der Entzug über die Probezeit hinaus, so beginnt die Verlängerung mit der Rückgabe des Führerausweises.
->
-> **4** Der Führerausweis auf Probe verfällt, wenn der Inhaber während der Probezeit eine weitere mittelschwere oder schwere Widerhandlung begeht.
->
-> **5** Ein neuer Lernfahrausweis kann frühestens ein Jahr nach Begehung der Widerhandlung und nur auf Grund eines verkehrspsychologischen Gutachtens erteilt werden, das die Eignung bejaht. Diese Frist wird um ein Jahr verlängert, wenn die betroffene Person während dieser Zeit ein Motorrad oder einen Motorwagen geführt hat.
->
-> **6** Nach erneutem Bestehen der Führerprüfung wird ein neuer Führerausweis auf Probe erteilt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

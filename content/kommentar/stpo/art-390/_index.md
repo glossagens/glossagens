@@ -2,11 +2,16 @@
 title: "Art. 390 StPO — Schriftliches Verfahren"
 weight: 390
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 390 StPO – Schriftliches Verfahren im Rechtsmittelverfahren: Einreichung der Rechtsmittelschrift (Abs. 1), Schriftenwechsel mit Gegenparteien und Vorinstanz (Abs. 2), zweiter Schriftenwechsel und unbedingtes Replikrecht (Abs. 3), Entscheid auf dem Zirkularweg (Abs. 4) sowie fakultative Parteiverhandlung (Abs. 5)."
 tags: ["StPO", "schriftliches Verfahren", "Schriftenwechsel", "Replikrecht", "Zirkularweg", "Rechtsmittelverfahren", "Beschwerde", "Berufung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-390.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 390 StPO — Schriftliches Verfahren**
->
-> **1** Wer ein Rechtsmittel ergreifen will, für welches dieses Gesetz das schriftliche Verfahren vorschreibt, hat eine Rechtsmittelschrift einzureichen.
->
-> **2** Ist das Rechtsmittel nicht offensichtlich unzulässig oder unbegründet, so stellt die Verfahrensleitung den anderen Parteien und der Vorinstanz die Rechtsmittelschrift zur Stellungnahme zu. Kann die Rechtsmittelschrift nicht zugestellt werden oder bleibt eine Stellungnahme aus, so wird das Verfahren gleichwohl weitergeführt.
->
-> **3** Die Rechtsmittelinstanz ordnet wenn nötig einen zweiten Schriftenwechsel an.
->
-> **4** Sie fällt ihren Entscheid auf dem Zirkularweg oder in einer nicht öffentlichen Beratung aufgrund der Akten und der zusätzlichen Beweisabnahmen.
->
-> **5** Sie kann von Amtes wegen oder auf Antrag einer Partei eine Verhandlung anordnen.
+{{< wortlaut >}}
 
 ---
 

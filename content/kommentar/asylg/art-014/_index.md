@@ -2,31 +2,21 @@
 title: "Art. 14 — Verhältnis zum ausländerrechtlichen Verfahren (Ausschliesslichkeit)"
 weight: 14
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 AsylG – Ausschliesslichkeit des Asylverfahrens und Härtefallregelung"
 tags: ["AsylG", "Ausschliesslichkeit", "Asylverfahren", "Härtefall", "Aufenthaltsbewilligung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 14 AsylG — Verhältnis zum ausländerrechtlichen Verfahren**
->
-> 1 Ab Einreichung des Asylgesuches bis zur Ausreise nach einer rechtskräftig angeordneten Wegweisung, nach einem Rückzug des Asylgesuches oder bis zur Anordnung einer Ersatzmassnahme bei nicht durchführbarem Vollzug kann eine asylsuchende Person kein Verfahren um Erteilung einer ausländerrechtlichen Aufenthaltsbewilligung einleiten, ausser es bestehe ein Anspruch auf deren Erteilung.
->
-> 2 Der Kanton kann mit Zustimmung des SEM einer ihm nach diesem Gesetz zugewiesenen Person eine Aufenthaltsbewilligung erteilen, wenn:
-> a. die betroffene Person sich seit Einreichung des Asylgesuches mindestens fünf Jahre in der Schweiz aufhält;
-> b. der Aufenthaltsort der betroffenen Person den Behörden immer bekannt war;
-> c. wegen der fortgeschrittenen Integration ein schwerwiegender persönlicher Härtefall vorliegt; und
-> d. keine Widerrufsgründe nach Artikel 62 Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005 (AIG) vorliegen.
->
-> 3 Will der Kanton von dieser Möglichkeit Gebrauch machen, so meldet er dies dem SEM unverzüglich.
->
-> 4 Die betroffene Person hat nur beim Zustimmungsverfahren des SEM Parteistellung.
->
-> 5 Hängige Verfahren um Erteilung einer Aufenthaltsbewilligung werden mit dem Einreichen eines Asylgesuchs gegenstandslos.
->
-> 6 Erteilte Aufenthaltsbewilligungen bleiben gültig und können gemäss den ausländerrechtlichen Bestimmungen verlängert werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

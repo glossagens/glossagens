@@ -2,11 +2,16 @@
 title: "Art. 30 BV — Gerichtliche Verfahren"
 weight: 30
 date: 2026-05-17
-lastmod: 2026-09-22
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 30 BV: Gesetzlicher Richter und Spruchkörperbildung, Unabhängigkeit und Amtskumulation, Unparteiischkeit und Befangenheitskasuistik (soziale Medien, Nahestehende, Vergleichsverhandlungen gemäss BGE 152 III 61, Vorbefassung und Parteizugehörigkeit), Ausnahmegerichtsverbot, Wohnsitzrichter bei Zivilklagen sowie Justizöffentlichkeit — mit umfassender Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["BV", "Gerichtliche Verfahren", "Gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Ausnahmegericht", "Wohnsitzrichter", "Justizöffentlichkeit", "Vergleichsverhandlung", "Art. 30"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,15 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 30 BV — Gerichtliche Verfahren**
->
-> 1 Jede Person, deren Sache in einem gerichtlichen Verfahren beurteilt werden muss, hat Anspruch auf ein durch Gesetz geschaffenes, zuständiges, unabhängiges und unparteiisches Gericht. Ausnahmegerichte sind untersagt.
->
-> 2 Jede Person, gegen die eine Zivilklage erhoben wird, hat Anspruch darauf, dass die Sache vom Gericht des Wohnsitzes beurteilt wird. Das Gesetz kann einen anderen Gerichtsstand vorsehen.
->
-> 3 Gerichtsverhandlung und Urteilsverkündung sind öffentlich. Das Gesetz kann Ausnahmen vorsehen.
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex, SR 101](https://www.fedlex.admin.ch/eli/cc/1999/404/de), Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (Stand am 3. März 2024).*
 
 ---
 

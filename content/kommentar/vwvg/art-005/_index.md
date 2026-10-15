@@ -2,11 +2,16 @@
 title: "Art. 5 — Verfügungsbegriff"
 weight: 5
 date: 2026-05-23
-lastmod: 2026-08-15
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 5 VwVG – Begriff der Verfügung im Verwaltungsverfahrensrecht"
 tags: ["VwVG", "Verfügung", "Verwaltungsverfahren", "Verwaltungsrecht", "Realakt", "Feststellungsverfügung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -21,16 +26,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 5 VwVG — Verfügungsbegriff**
->
-> 1 Als Verfügungen gelten Anordnungen der Behörden im Einzelfall, die sich auf öffentliches Recht des Bundes stützen und zum Gegenstand haben:
-> a. Begründung, Änderung oder Aufhebung von Rechten oder Pflichten;
-> b. Feststellung des Bestehens, Nichtbestehens oder Umfanges von Rechten oder Pflichten;
-> c. Abweisung von Begehren auf Begründung, Änderung, Aufhebung oder Feststellung von Rechten oder Pflichten oder Nichteintreten auf solche Begehren.
->
-> 2 Als Verfügungen gelten auch Vollstreckungsverfügungen (Art. 41 Abs. 1 Bst. a und b), Zwischenverfügungen (Art. 45 und 46), Einspracheentscheide (Art. 30 Abs. 2 Bst. b und 74), Beschwerdeentscheide (Art. 61), Entscheide im Rahmen einer Revision (Art. 68) und die Erläuterung (Art. 69).
->
-> 3 Erklärungen von Behörden über Ablehnung oder Erhebung von Ansprüchen, die auf dem Klageweg zu verfolgen sind, gelten nicht als Verfügungen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

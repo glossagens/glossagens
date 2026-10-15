@@ -2,11 +2,16 @@
 title: "Art. 308 ZGB — Ernennung eines Beistands"
 weight: 308
 date: "2026-05-22"
-lastmod: "2026-08-21"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Erziehungsbeistandschaft (Abs. 1), besondere Befugnisse bei Vaterschaft, Unterhalt und Besuchsrecht (Abs. 2), Beschränkung der elterlichen Sorge (Abs. 3)."
 tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Erziehungsbeistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge", "Schulbeistandschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-308.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-21"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -30,13 +35,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 308 ZGB — Ernennung eines Beistands**
->
-> <sup>1</sup> Erfordern es die Verhältnisse, so ernennt die Kindesschutzbehörde dem Kind einen Beistand, der die Eltern in ihrer Sorge um das Kind mit Rat und Tat unterstützt.
->
-> <sup>2</sup> Sie kann dem Beistand besondere Befugnisse übertragen, namentlich die Vertretung des Kindes bei der Feststellung der Vaterschaft, bei der Wahrung seines Unterhaltsanspruches und anderer Rechte und die Überwachung des persönlichen Verkehrs.
->
-> <sup>3</sup> Die elterliche Sorge kann entsprechend beschränkt werden.
+{{< wortlaut >}}
 
 ---
 

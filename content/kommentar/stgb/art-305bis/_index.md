@@ -2,11 +2,16 @@
 title: "Art. 305bis StGB — Geldwäscherei"
 weight: 305
 date: 2026-06-03
-lastmod: 2026-09-14
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 305bis StGB: Geldwäscherei — Vereitelungshandlungen, Abgrenzung strafloser Handlungen vs. Konsum, Vortatnachweis, Kasuistik zum subjektiven Tatbestand (Eventualvorsatz vs. bewusste Fahrlässigkeit, BGer 6B_363/2026 zum Bargeldkurier und bewussten Nichtwissenwollen, Money Mules), schwere Fälle und Zivilklage."
 tags: ["StGB", "Geldwäscherei", "Vortat", "Vereitelungshandlung", "Selbstgeldwäscherei", "Money Mule", "Konsum", "Einziehung", "Gewerbsmässigkeit", "Rechtshilfe", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-305bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-14
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -36,19 +41,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 305bis StGB — Geldwäscherei**
->
-> 1\. Wer eine Handlung vornimmt, die geeignet ist, die Ermittlung der Herkunft, die Auffindung oder die Einziehung von Vermögenswerten zu vereiteln, die, wie er weiss oder annehmen muss, aus einem Verbrechen oder aus einem qualifizierten Steuervergehen herrühren, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> 1bis. Als qualifiziertes Steuervergehen gelten die Straftaten nach Artikel 186 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer und nach Artikel 59 Absatz 1 erstes Lemma des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden, wenn die hinterzogenen Steuern pro Steuerperiode mehr als 300 000 Franken betragen.
->
-> 2\. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.  
-> Ein schwerer Fall liegt insbesondere vor, wenn der Täter:  
-> a. als Mitglied einer kriminellen oder terroristischen Organisation (Art. 260ter) handelt;  
-> b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der Geldwäscherei zusammengefunden hat;  
-> c. durch gewerbsmässige Geldwäscherei einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
->
-> 3\. Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_305bis), Stand der Konsolidierung 12. Juni 2026. Eingefügt durch Ziff. I des BG vom 23. März 1990 (AS 1990 1077; BBl 1989 II 1061). Ziff. 1 und 1bis in der Fassung gemäss Ziff. I 4 des BG vom 12. Dezember 2014 zur Umsetzung der 2012 revidierten GAFI-Empfehlungen, in Kraft seit 1. Januar 2016 (AS 2015 1389; BBl 2014 605). Ziff. 2 Abs. 1 in der Fassung gemäss Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). Ziff. 2 lit. a in der Fassung gemäss BB vom 25. September 2020 (Terrorismusbekämpfung), in Kraft seit 1. Juli 2021 (AS 2021 360; BBl 2018 6427).*
 

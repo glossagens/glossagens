@@ -2,11 +2,16 @@
 title: "Art. 21a — Elektronische Eingaben"
 weight: 215
 date: 2026-07-02
-lastmod: "2026-08-17"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 21a VwVG: Elektronische Eingaben an Bundesbehörden, qualifizierte elektronische Signatur, Fristwahrung und Verhältnis zum Sozialversicherungsrecht."
 tags: ["VwVG", "Elektronische Eingabe", "Qualifizierte Signatur", "ZertES", "ATSG", "TAF"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-021a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,16 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Eingaben können bei der Behörde elektronisch eingereicht werden.
->
-> **2** Die Eingabe ist von der Partei oder ihrem Vertreter mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 SR 943.03 über die elektronische Signatur zu versehen.
->
-> **3** Für die Wahrung einer Frist ist der Zeitpunkt massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind, die auf der Seite der Partei oder ihres Vertreters für die Übermittlung notwendig sind.
->
-> **4** Der Bundesrat regelt:
-> a. das Format der Eingabe und ihrer Beilagen;
-> b. die Art und Weise der Übermittlung;
-> c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
+{{< wortlaut >}}
 
 *Eingefügt durch Art. 23 des BG vom 18. März 2016 über die elektronische Signatur (ZertES, SR 943.03), in Kraft seit 1. Januar 2017 (AS 2016 4651; BBl 2014 957).*
 

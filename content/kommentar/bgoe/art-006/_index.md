@@ -2,11 +2,16 @@
 title: "Art. 6 BGÖ — Öffentlichkeitsprinzip"
 weight: 6
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 6 BGÖ: Subjektiver Popularanspruch ohne Interessennachweis, Einsichtnahme und Auskunftserteilung über amtliche Dokumente, Wahlrecht zwischen Einsicht vor Ort und Kopien, Urheberrechtsvorbehalt sowie Erfüllungsfiktion durch aktive Veröffentlichung — mit ausführlicher Grenzkasuistik, Schwellenwerten und adressatenbezogenen Praxishinweisen."
 tags: ["BGÖ", "Öffentlichkeitsprinzip", "Transparenz", "Einsichtsrecht", "Kopien", "Urheberrecht", "Aktive Veröffentlichung", "Popularanspruch", "Beweislast", "Rechtsmissbrauch"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 152.3 vom 2023-11-01 (data/wortlaut/bgoe/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
@@ -16,15 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 6 BGÖ — Öffentlichkeitsprinzip**
->
-> 1 Jede Person hat das Recht, amtliche Dokumente einzusehen und von den Behörden Auskünfte über den Inhalt amtlicher Dokumente zu erhalten.
->
-> 2 Die Dokumente können vor Ort eingesehen werden, oder es können Kopien davon angefordert werden. Die Gesetzgebung über das Urheberrecht bleibt vorbehalten.
->
-> 3 Ist ein amtliches Dokument in einem Publikationsorgan oder auf einer Internetseite des Bundes veröffentlicht, so gilt der Anspruch nach den Absätzen 1 und 2 für jedermann als erfüllt.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 152.3](https://www.fedlex.admin.ch/eli/cc/2006/355/de), Stand der Konsolidierung 1. November 2023 (in Kraft seit 1. Juli 2006).*
 
 ---
 

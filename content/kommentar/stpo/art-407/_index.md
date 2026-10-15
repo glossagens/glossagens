@@ -2,11 +2,16 @@
 title: "Art. 407 StPO — Säumnis der Parteien"
 weight: 407
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 407 StPO – Säumnis der Parteien im Berufungsverfahren: Gesetzliche Rückzugsfiktion (Abs. 1), Abwesenheitsverfahren bei Berufung von Staatsanwaltschaft/Privatklägerschaft (Abs. 2) und Entscheid im Zivilpunkt (Abs. 3)."
 tags: ["StPO", "Berufung", "Säumnis", "Rückzugsfiktion", "Abwesenheitsverfahren", "Zivilpunkt", "Rechtsmittelverfahren", "Rechtskraft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-407.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 407 StPO — Säumnis der Parteien**
->
-> **1** Die Berufung oder Anschlussberufung gilt als zurückgezogen, wenn die Partei, die sie erklärt hat:
->
-> a. der mündlichen Berufungsverhandlung unentschuldigt fernbleibt und sich auch nicht vertreten lässt;
->
-> b. keine schriftliche Eingabe einreicht; oder
->
-> c. nicht vorgeladen werden kann.
->
-> **2** Hat die Staatsanwaltschaft oder die Privatklägerschaft die Berufung im Schuld- oder Strafpunkt erklärt und bleibt die beschuldigte Person der Verhandlung unentschuldigt fern, so findet ein Abwesenheitsverfahren statt.
->
-> **3** Hat die Privatklägerschaft ihre Berufung auf den Zivilpunkt beschränkt und bleibt die beschuldigte Person der Verhandlung unentschuldigt fern, so entscheidet das Berufungsgericht aufgrund der Ergebnisse der erstinstanzlichen Hauptverhandlung und der übrigen Akten.
+{{< wortlaut >}}
 
 ---
 

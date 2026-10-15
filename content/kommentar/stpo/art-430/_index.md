@@ -2,11 +2,16 @@
 title: "Art. 430 StPO — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung"
 weight: 430
 date: 2026-07-11
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 430 StPO: Herabsetzung und Verweigerung von Entschädigung und Genugtuung — Zivilrechtliche Vorwerfbarkeit bei Einstellung oder Freispruch, Unschuldsvermutung und Schweigerecht, Ausfallhaftung des Staates bei uneinbringlicher Privatklägerentschädigung, Geringfügigkeitsgrenze sowie Kürzungsfolgen im Rechtsmittelverfahren."
 tags: ["StPO", "Entschädigung", "Genugtuung", "Kosten", "Herabsetzung", "Verweigerung", "Freispruch", "Einstellung", "Selbstverschulden", "Unschuldsvermutung", "Privatklägerschaft", "Ausfallhaftung", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-430.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -26,19 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 430 StPO — Herabsetzung oder Verweigerung der Entschädigung oder Genugtuung**
->
-> 1 Die Strafbehörde kann die Entschädigung oder Genugtuung herabsetzen oder verweigern, wenn:
->
-> a. die beschuldigte Person rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat;
->
-> b. die Privatklägerschaft die beschuldigte Person zu entschädigen hat; oder
->
-> c. die Aufwendungen der beschuldigten Person geringfügig sind.
->
-> 2 Im Rechtsmittelverfahren können Entschädigung und Genugtuung zudem herabgesetzt werden, wenn die Voraussetzungen von Artikel 428 Absatz 2 erfüllt sind.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

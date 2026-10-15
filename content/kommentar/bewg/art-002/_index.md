@@ -2,11 +2,16 @@
 title: "Art. 2 — Bewilligungspflicht"
 weight: 2
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 2 BewG — Bewilligungspflicht für den Grundstückserwerb durch Personen im Ausland und Ausnahmen davon (Betriebsstättengrundstück, Hauptwohnung am Wohnsitz, Art. 7 BewG); Begriff des Betriebsstättengrundstücks, Widerruf von Auflagen, Wohnanteilvorschriften."
 tags: ["BewG", "Lex Koller", "Bewilligungspflicht", "Betriebsstätte", "Hauptwohnung", "Personen im Ausland", "Grundstückserwerb", "Widerruf"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-002.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 86 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,21 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 2 Bewilligungspflicht**
->
-> **1** Personen im Ausland bedürfen für den Erwerb von Grundstücken einer Bewilligung der zuständigen kantonalen Behörde.
->
-> **2** Keiner Bewilligung bedarf der Erwerb, wenn:
->
-> a. das Grundstück als ständige Betriebsstätte eines Handels-, Fabrikations- oder eines anderen nach kaufmännischer Art geführten Gewerbes, eines Handwerksbetriebes oder eines freien Berufes dient;
->
-> b. das Grundstück dem Erwerber als natürlicher Person als Hauptwohnung am Ort seines rechtmässigen und tatsächlichen Wohnsitzes dient; oder
->
-> c. eine Ausnahme nach Artikel 7 vorliegt. *Eingefügt durch Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Oktober 1997 (AS 1997 2086; BBl 1997 II 1221).*
->
-> **3** Beim Erwerb von Grundstücken nach Absatz 2 Buchstabe a können durch Wohnanteilvorschriften vorgeschriebene Wohnungen oder dafür reservierte Flächen miterworben werden. *Eingefügt durch Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Oktober 1997 (AS 1997 2086; BBl 1997 II 1221).*
-
-*Quelle: [Fedlex (SR 211.412.41, Art. 2)](https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/de#art_2), Konsolidierung Stand 2023-07-01.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

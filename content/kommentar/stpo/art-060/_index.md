@@ -2,11 +2,16 @@
 title: "Art. 60 — Folgen der Verletzung von Ausstandsvorschriften"
 weight: 60
 date: 2026-07-12
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 60 StPO – Folgen der Verletzung von Ausstandsvorschriften"
 tags: ["StPO", "Ausstand", "Befangenheit", "Amtshandlung", "Revision"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-060.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -15,11 +20,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Amtshandlungen, an denen eine zum Ausstand verpflichtete Person mitgewirkt hat, sind aufzuheben und zu wiederholen, sofern dies eine Partei innert 5 Tagen verlangt, nachdem sie vom Entscheid über den Ausstand Kenntnis erhalten hat.
->
-> **2** Beweise, die nicht wieder erhoben werden können, darf die Strafbehörde berücksichtigen.
->
-> **3** Wird der Ausstandsgrund erst nach Abschluss des Verfahrens entdeckt, so gelten die Bestimmungen über die Revision.
+{{< wortlaut >}}
 
 ## Kommentierung
 

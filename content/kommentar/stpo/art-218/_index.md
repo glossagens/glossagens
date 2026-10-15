@@ -2,11 +2,16 @@
 title: "Art. 218 StPO — Vorläufige Festnahme durch Privatpersonen"
 weight: 218
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 218 StPO – Vorläufige Festnahme durch Privatpersonen (Jedermanns-Festnahme): Subsidiäre Festnahmebefugnis bei frischer Tat und öffentlicher Fahndung (Abs. 1), Schranken der Gewaltanwendung (Abs. 2) und Übergabepflicht (Abs. 3)."
 tags: ["StPO", "Festnahme", "Privatpersonen", "Jedermannsrecht", "frische Tat", "Gewaltanwendung", "Freiheitsberaubung", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-218.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 218 StPO — Durch Privatpersonen**
->
-> **1** Kann polizeiliche Hilfe nicht rechtzeitig erlangt werden, so sind Private berechtigt, eine Person vorläufig festzunehmen, wenn:
->
-> a. sie diese bei einem Verbrechen oder Vergehen auf frischer Tat ertappt oder unmittelbar nach der Begehung einer solchen Tat angetroffen haben; oder
->
-> b. die Öffentlichkeit zur Mithilfe bei deren Fahndung aufgefordert worden ist.
->
-> **2** Bei der Festnahme dürfen Privatpersonen nur nach Massgabe von Artikel 200 Gewalt anwenden.
->
-> **3** Festgenommene Personen sind so rasch als möglich der Polizei zu übergeben.
+{{< wortlaut >}}
 
 ---
 

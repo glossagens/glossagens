@@ -2,11 +2,16 @@
 title: "Art. 289 — Genehmigungsverfahren (verdeckte Ermittlung)"
 weight: 289
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 289 StPO – Genehmigungsverfahren für den Einsatz verdeckter Ermittlerinnen und Ermittler"
 tags: ["StPO", "verdeckte Ermittlung", "Zwangsmassnahmengericht", "Beweisverwertungsverbot", "Genehmigungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-289.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,27 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Einsatz einer verdeckten Ermittlerin oder eines verdeckten Ermittlers bedarf der Genehmigung durch das Zwangsmassnahmengericht.
->
-> **2** Die Staatsanwaltschaft reicht dem Zwangsmassnahmengericht innert 24 Stunden seit der Anordnung der verdeckten Ermittlung folgende Unterlagen ein:
->
-> **a.** die Anordnung;
->
-> **b.** die Begründung und die für die Genehmigung wesentlichen Verfahrensakten.
->
-> **3** Das Zwangsmassnahmengericht entscheidet mit kurzer Begründung innert 5 Tagen seit der Anordnung der verdeckten Ermittlung. Es kann die Genehmigung vorläufig oder mit Auflagen erteilen oder eine Ergänzung der Akten oder weitere Abklärungen verlangen.
->
-> **4** Die Genehmigung äussert sich ausdrücklich darüber, ob es erlaubt ist:
->
-> **a.** Urkunden zum Aufbau oder zur Aufrechterhaltung einer Legende herzustellen oder zu verändern;
->
-> **b.** die Anonymität zuzusichern;
->
-> **c.** Personen einzusetzen, die über keine polizeiliche Ausbildung verfügen.
->
-> **5** Die Genehmigung wird für höchstens 12 Monate erteilt. Sie kann einmal oder mehrmals um jeweils 6 Monate verlängert werden. Ist eine Verlängerung notwendig, so stellt die Staatsanwaltschaft vor Ablauf der bewilligten Dauer einen begründeten Verlängerungsantrag.
->
-> **6** Wird die Genehmigung nicht erteilt oder wurde keine Genehmigung eingeholt, so beendet die Staatsanwaltschaft den Einsatz unverzüglich. Sämtliche Aufzeichnungen sind sofort zu vernichten. Durch die verdeckte Ermittlung gewonnene Erkenntnisse dürfen nicht verwertet werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 32d USG — Kostentragung bei Altlastensanierungen"
 weight: 32
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 32d USG (LPAmb): Verursacherprinzip bei Untersuchung, Überwachung und Sanierung belasteter Standorte, Kostenverteilung zwischen Verhaltens- und Zustandsstörern, Ausfallhaftung des Gemeinwesens und unechte Rückwirkung."
 tags: ["USG", "Umweltrecht", "Altlasten", "Kostenverteilung", "Verursacherprinzip", "Verhaltensstörer", "Zustandsstörer", "Sanierung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 814.01 vom 2026-08-01 (data/wortlaut/usg/art-032d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -16,19 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 32d USG — Tragung der Kosten**
->
-> 1 Der Verursacher trägt die Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung belasteter Standorte.
->
-> 2 Sind mehrere Verursacher beteiligt, so tragen sie die Kosten entsprechend ihren Anteilen an der Verursachung. In erster Linie trägt die Kosten, wer die Massnahmen durch sein Verhalten verursacht hat. Wer lediglich als Inhaber des Standortes beteiligt ist, trägt keine Kosten, wenn er bei Anwendung der gebotenen Sorgfalt von der Belastung keine Kenntnis haben konnte.
->
-> 3 Das zuständige Gemeinwesen trägt den Kostenanteil der Verursacher, die nicht ermittelt werden können oder zahlungsunfähig sind.
->
-> 4 Die Behörde erlässt eine Verfügung über die Kostenverteilung, wenn ein Verursacher dies verlangt oder die Behörde die Massnahmen selber durchführt.
->
-> 5 Ergibt die Untersuchung eines im Kataster (Art. 32c Abs. 2) eingetragenen oder für den Eintrag vorgesehenen Standortes, dass dieser nicht belastet ist, so trägt das zuständige Gemeinwesen die Kosten für die notwendigen Untersuchungsmassnahmen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. August 2026 (in Kraft seit 1. Juli 1997; AS 1997 1155; BBl 1993 II 1445).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 221 SchKG — Inventaraufnahme im Konkurs"
 weight: 221
 date: 2026-05-23
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 221 SchKG: Inventaraufnahme und Sicherungsmassnahmen nach Konkurseröffnung — Amtspflicht, Umfang, Drittschutz, Siegelung, Bankkontensperrung, Konkurs mangels Aktiven, unentgeltliche Rechtspflege, Mitwirkungspflicht, Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Inventaraufnahme", "Sicherungsmassnahmen", "Siegelung", "Bankkontensperrung", "Konkursbeschlag", "Konkurs mangels Aktiven", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-221.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 76 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,13 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 221 SchKG — Inventaraufnahme**
->
-> 1 Sofort nach Empfang des Konkurserkenntnisses schreitet das Konkursamt zur Aufnahme des Inventars über das zur Konkursmasse gehörende Vermögen und trifft die zur Sicherung desselben erforderlichen Massnahmen.
->
-> 2 ⚠️ *Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 (AS 1995 1227; BBl 1991 III 1).*
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026.*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 50 AIG — Auflösung der Familiengemeinschaft"
 weight: 50
 date: 2026-05-15
-lastmod: 2026-10-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 50 AIG: Nachaufenthaltsrecht nach Trennung oder Scheidung — Dreijahresfrist und Integrationskriterien, nachehelicher Härtefall wegen häuslicher Gewalt (inkl. Revisionsstand 2025 mit Hinweiskatalog und Konkubinat), Zwangsheirat und stark gefährdete Wiedereingliederung, mit zweiseitiger Kasuistik und Judikaturdivergenzen."
 tags: ["AIG", "Nachaufenthaltsrecht", "Aufenthaltsbewilligung", "häusliche Gewalt", "Ehegemeinschaft", "Integration", "Härtefall", "soziale Wiedereingliederung", "FZA", "Konkubinat"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-050.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -31,33 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 50 AIG — Auflösung der Familiengemeinschaft**
->
-> 1 Nach Auflösung der Ehe oder der Familiengemeinschaft haben die Ehegatten und die Kinder Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung nach Artikel 42, 43 oder 44, der Kurzaufenthaltsbewilligung nach Artikel 45 in Verbindung mit Artikel 32 Absatz 3 oder auf Anordnung der vorläufigen Aufnahme nach Artikel 85c Absatz 1, wenn:
->
-> a. die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58a erfüllt sind; oder
->
-> b. wichtige persönliche Gründe einen weiteren Aufenthalt in der Schweiz erforderlich machen.
->
-> 2 Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn:
->
-> a. der Ehegatte oder ein Kind Opfer häuslicher Gewalt wurde, wobei die zuständigen Behörden insbesondere die folgenden Hinweise berücksichtigen:
-> 1. die Anerkennung als Opfer im Sinne von Artikel 1 Absatz 1 des Opferhilfegesetzes vom 23. März 2007 durch die dafür zuständigen Behörden,
-> 2. die Bestätigung einer notwendigen Betreuung oder Schutzgewährung durch eine auf häusliche Gewalt spezialisierte und in der Regel öffentlich finanzierte Fachstelle,
-> 3. polizeiliche oder richterliche Massnahmen zum Schutz des Opfers,
-> 4. Arztberichte oder andere Gutachten,
-> 5. Polizeirapporte und Strafanzeigen, oder
-> 6. strafrechtliche Verurteilungen;
->
-> b. der Ehegatte die Ehe nicht aus freiem Willen geschlossen hat; oder
->
-> c. die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.
->
-> 3 Die Frist zur Erteilung der Niederlassungsbewilligung richtet sich nach Artikel 34.
->
-> 4 Für Konkubinatspartnerinnen und Konkubinatspartner, denen gemäss Artikel 30 Absatz 1 Buchstabe b aufgrund eines schwerwiegenden persönlichen Härtefalls eine Aufenthaltsbewilligung zum Verbleib bei der Konkubinatspartnerin oder dem Konkubinatspartner erteilt wurde, gelten die Absätze 1–3 sinngemäss.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 142.20](https://www.fedlex.admin.ch/eli/cc/2007/758/de), Stand der Konsolidierung 12. Juni 2026. Abs. 1, Abs. 2 Einleitungssatz, Abs. 2 lit. a und c sowie Abs. 4 in der Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Januar 2025 (AS 2024 713; BBl 2023 2418, 2851). Abs. 1 lit. a in der Fassung gemäss Ziff. I des BG vom 16. Dezember 2016 (Integration), in Kraft seit 1. Januar 2019 (AS 2017 6521; BBl 2013 2397).*
 
 ---
 

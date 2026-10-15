@@ -2,11 +2,16 @@
 title: "Art. 12 BehiG — Besondere Fälle"
 weight: 12
 date: 2026-07-22
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 12 BehiG (SR 151.3): Besondere Fälle der Interessenabwägung — Schwellenwerte bei Bauten (5 % Gebäudeversicherungswert, 20 % Erneuerungskosten), Übergangsfristen im öffentlichen Verkehr und Ersatzlösungspflicht."
 tags: ["BehiG", "Behindertengleichstellung", "Schwellenwerte", "Baubewilligung", "Öffentlicher Verkehr", "Ersatzlösung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 151.3 vom 2020-07-01 (data/wortlaut/behi/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
@@ -16,16 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> **Art. 12 BehiG — Besondere Fälle**
->
-> **1** Bei der Interessenabwägung nach Artikel 11 Absatz 1 ordnet das Gericht oder die Verwaltungsbehörde die Beseitigung der Benachteiligung beim Zugang zu Bauten, Anlagen und Wohnungen nach Artikel 3 Buchstaben a, c und d nicht an, wenn der Aufwand für die Anpassung 5 Prozent des Gebäudeversicherungswertes beziehungsweise des Neuwertes der Anlage oder 20 Prozent der Erneuerungskosten übersteigt.
->
-> **2** Das Gericht oder die Verwaltungsbehörde trägt bei der Interessenabwägung nach Artikel 11 Absatz 1 den Übergangsfristen für Anpassungen im öffentlichen Verkehr (Art. 22) Rechnung; dabei sind auch das Umsetzungskonzept des Bundes für die Ausrichtung der Finanzhilfen (Art. 23 Abs. 3) und die darauf gestützte Betriebs- und Investitionsplanung der Unternehmen des öffentlichen Verkehrs zu beachten.
->
-> **3** Das Gericht oder die Verwaltungsbehörde verpflichtet das konzessionierte Unternehmen oder das Gemeinwesen, eine angemessene Ersatzlösung anzubieten, wenn es oder sie nach Artikel 11 Absatz 1 darauf verzichtet, die Beseitigung einer Benachteiligung anzuordnen.
+{{< wortlaut >}}
 
-*(Fedlex-Stand: 1. Juli 2020 — SR 151.3; Fassung gemäss Ziff. I 1 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013; AS 2012 5619, 2013 1603; BBl 2011 911)*
 
 ---
 

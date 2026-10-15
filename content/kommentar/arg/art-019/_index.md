@@ -2,29 +2,21 @@
 title: "Art. 19 — Ausnahmen vom Verbot der Sonntagsarbeit"
 weight: 19
 date: "2026-07-09"
-lastmod: "2026-07-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 19 ArG – Ausnahmen vom Verbot der Sonntagsarbeit (Bewilligung, dauernde/regelmässig wiederkehrende vs. vorübergehende Sonntagsarbeit, Lohnzuschlag, Verkaufssonntage)"
 tags: ["ArG", "Sonntagsarbeit", "Arbeitnehmerschutz", "Bewilligung", "Lohnzuschlag", "Verkaufssonntage"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 19**<sup>49</sup>
->
-> **1** Ausnahmen vom Verbot der Sonntagsarbeit bedürfen der Bewilligung.
->
-> **2** Dauernde oder regelmässig wiederkehrende Sonntagsarbeit wird bewilligt, sofern sie aus technischen oder wirtschaftlichen Gründen unentbehrlich ist.
->
-> **3** Vorübergehende Sonntagsarbeit wird bewilligt, sofern ein dringendes Bedürfnis nachgewiesen wird. Dem Arbeitnehmer ist ein Lohnzuschlag von 50 Prozent zu bezahlen.
->
-> **4** Dauernde oder regelmässig wiederkehrende Sonntagsarbeit wird vom SECO, vorübergehende Sonntagsarbeit von der kantonalen Behörde bewilligt.
->
-> **5** Der Arbeitgeber darf den Arbeitnehmer ohne dessen Einverständnis nicht zu Sonntagsarbeit heranziehen.
->
-> **6** Die Kantone können höchstens vier Sonntage pro Jahr bezeichnen, an denen Arbeitnehmer in Verkaufsgeschäften ohne Bewilligung beschäftigt werden dürfen.
-
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Abs. 6 eingefügt durch Ziff. I des BG vom 21. Dez. 2007, in Kraft seit 1. Juli 2008 (AS 2008 2903; BBl 2007 4261 4269). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

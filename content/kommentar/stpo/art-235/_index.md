@@ -2,11 +2,16 @@
 title: "Art. 235 StPO — Vollzug der Haft"
 weight: 235
 date: 2026-10-13
-lastmod: 2026-10-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 235 StPO: Vollzug der Untersuchungs- und Sicherheitshaft — Verhältnismässigkeitsgrundsatz, Haftbedingungen und Überbelegung, Besuche und Telefonverkehr mit Angehörigen, Postkontrolle, freier Verkehr mit der Verteidigung (inkl. Telefonverkehr gemäss BGE 151 IV 316) sowie kantonale Vollzugszuständigkeit und Unterbringung im Sicherheitsvollzug (BGer 7B_1050/2026 in Fünferbesetzung, BGer 7B_733/2026)."
 tags: ["StPO", "Haftvollzug", "Untersuchungshaft", "Sicherheitshaft", "Verteidigerverkehr", "Besuchsrecht", "Postkontrolle", "Haftbedingungen", "Sicherheitsvollzug", "Rechtsschutz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-235.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-13
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,19 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 235 StPO — Vollzug der Haft**
->
-> 1 Die inhaftierte Person darf in ihrer persönlichen Freiheit nicht stärker eingeschränkt werden, als es der Haftzweck sowie die Ordnung und Sicherheit in der Haftanstalt erfordern.
->
-> 2 Die Kontakte zwischen der inhaftierten Person und anderen Personen bedürfen der Bewilligung der Verfahrensleitung. Besuche finden wenn nötig unter Aufsicht statt.
->
-> 3 Die Verfahrensleitung kontrolliert die ein- und ausgehende Post, mit Ausnahme der Korrespondenz mit Aufsichts- und Strafbehörden. Während der Sicherheitshaft kann sie diese Aufgabe der Staatsanwaltschaft übertragen.
->
-> 4 Die inhaftierte Person kann mit der Verteidigung frei und ohne inhaltliche Kontrolle verkehren. Besteht begründeter Verdacht auf Missbrauch, so kann die Verfahrensleitung mit Genehmigung des Zwangsmassnahmengerichts den freien Verkehr befristet einschränken; sie eröffnet die Beschränkungen der inhaftierten Person und der Verteidigung vorgängig.
->
-> 5 Die Kantone regeln die Rechte und Pflichten der inhaftierten Personen, ihre Beschwerdemöglichkeiten, die Disziplinarmassnahmen sowie die Aufsicht über die Haftanstalten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

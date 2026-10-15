@@ -2,11 +2,16 @@
 title: "Art. 189 — Ergänzung und Verbesserung des Gutachtens"
 weight: 189
 date: 2026-07-10
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens: Voraussetzungen (lit. a–c), Verfahren, Parteigutachten, Zweitexpertise, Willkür bei Verzicht auf Ergänzung."
 tags: ["StPO", "Beweisrecht", "Sachverständigenbeweis", "Gutachten", "Zweitgutachten", "Parteigutachten", "antizipierte Beweiswürdigung", "Willkür"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-189.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 189 StPO — Ergänzung und Verbesserung des Gutachtens**
->
-> Die Verfahrensleitung lässt das Gutachten von Amtes wegen oder auf Antrag einer Partei durch die gleiche sachverständige Person ergänzen oder verbessern oder bestimmt weitere Sachverständige, wenn:
->
-> **a.** das Gutachten unvollständig oder unklar ist;
->
-> **b.** mehrere Sachverständige in ihren Ergebnissen erheblich voneinander abweichen; oder
->
-> **c.** Zweifel an der Richtigkeit des Gutachtens bestehen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 424 StPO — Berechnung und Gebühren"
 weight: 424
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 424 StPO: Festlegung der Verfahrensgebühren durch Bund und Kantone (Abs. 1), verfassungsrechtliche Schranken (Kostendeckungs- und Äquivalenzprinzip), Verbot der Bemessung nach dem Strafmass (BGE 146 IV 196), Zulässigkeit polizeilicher Gebührenpauschalen, Pauschalgebühren für einfache Fälle (Abs. 2) und kantonale Praxisunterschiede."
 tags: ["StPO", "Verfahrenskosten", "Gerichtsgebühren", "Strafbefehlsgebühr", "Äquivalenzprinzip", "Kostendeckungsprinzip", "Pauschalgebühren", "Polizeikosten", "Akteneinsichtsgebühr", "Kausalabgaben"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-424.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,13 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 424 StPO — Berechnung und Gebühren**
->
-> 1 Bund und Kantone regeln die Berechnung der Verfahrenskosten und legen die Gebühren fest.
->
-> 2 Sie können für einfache Fälle Pauschalgebühren festlegen, die auch die Auslagen abgelten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

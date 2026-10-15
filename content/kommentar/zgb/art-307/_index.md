@@ -2,11 +2,16 @@
 title: "Art. 307 ZGB — Geeignete Massnahmen im Allgemeinen"
 weight: 307
 date: "2026-06-18"
-lastmod: "2026-08-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 307 ZGB – Kindesschutzmassnahmen, Kindeswohlgefährdung, Subsidiaritätsprinzip, Ermahnung, Weisungen und Aufsicht."
 tags: ["ZGB", "Kindesschutz", "Kindeswohl", "Subsidiarität", "Weisung", "KESB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-307.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -23,14 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 307 ZGB — Geeignete Massnahmen / I. Im Allgemeinen**
->
-> ^1 Ist das Wohl des Kindes gefährdet und sorgen die Eltern nicht von sich aus für Abhilfe oder sind sie dazu ausserstande, so trifft die Kindesschutzbehörde die geeigneten Massnahmen zum Schutz des Kindes.
->
-> ^2 Die Kindesschutzbehörde ist dazu auch gegenüber Kindern verpflichtet, die bei Pflegeeltern untergebracht sind oder sonst ausserhalb der häuslichen Gemeinschaft der Eltern leben.
->
-> ^3 Sie kann insbesondere die Eltern, die Pflegeeltern oder das Kind ermahnen, ihnen bestimmte Weisungen für die Pflege, Erziehung oder Ausbildung erteilen und eine geeignete Person oder Stelle bestimmen, der Einblick und Auskunft zu geben ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

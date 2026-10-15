@@ -2,11 +2,16 @@
 title: "Art. 138 StGB — Veruntreuung"
 weight: 138
 date: 2026-09-05
-lastmod: "2026-09-26"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 138 StGB: Aneignung anvertrauter beweglicher Sachen (Ziff. 1 Abs. 1), unrechtmässige Verwendung anvertrauter Vermögenswerte (Ziff. 1 Abs. 2), Bereicherungsabsicht, Ersatzfähigkeit, Qualifikation (Ziff. 2) und Abgrenzung zu Betrug, Unterschlagung und ungetreuer Geschäftsbesorgung (keine Veruntreuung bei Retrozessionen) — mit zweiseitiger Grenzkasuistik zu Anvertrautsein, Werterhaltungspflicht und Vereitelungshandlung."
 tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "Anvertraut", "Werterhaltungspflicht", "Bereicherungsabsicht", "Qualifikation", "Berufsbeistand", "Leasing", "Buchgeld", "Retrozessionen", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-138.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -36,13 +41,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 138 StGB — Veruntreuung**
->
-> 1 Wer sich eine ihm anvertraute fremde bewegliche Sache aneignet, um sich oder einen andern damit unrechtmässig zu bereichern, wer ihm anvertraute Vermögenswerte unrechtmässig in seinem oder eines anderen Nutzen verwendet, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. Die Veruntreuung zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
->
-> 2 Wer die Tat als Mitglied einer Behörde, als Beamter, Vormund, Beistand, berufsmässiger Vermögensverwalter oder bei Ausübung eines Berufes, Gewerbes oder Handelsgeschäftes, zu der er durch eine Behörde ermächtigt ist, begeht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
-
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_138), Stand der Konsolidierung 12. Juni 2026.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

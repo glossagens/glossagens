@@ -2,11 +2,16 @@
 title: "Art. 745 OR — Verteilung des Vermögens in der Liquidation"
 weight: 745
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 745 OR: Voraussetzungen und Sperrfristen (1-Jahres- bzw. 3-Monats-Frist) für die Verteilung des Liquidationserlöses an die Aktionäre sowie Rechtsfolgen vorzeitiger Verteilungen (Verantwortlichkeit und Wiedereintragung statt Nichtigkeit)."
 tags: ["OR", "Aktienrecht", "Liquidation", "Vermögensverteilung", "Sperrfrist", "Schuldenruf", "Revisionsexperte", "Verantwortlichkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-745.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 745 OR — Verteilung des Vermögens**
->
-> 1 Das Vermögen der aufgelösten Gesellschaft wird nach Tilgung ihrer Schulden, soweit die Statuten nichts anderes bestimmen, unter die Aktionäre nach Massgabe der einbezahlten Beträge und unter Berücksichtigung der Vorrechte einzelner Aktienkategorien verteilt.
->
-> 2 Die Verteilung darf frühestens nach Ablauf eines Jahres vollzogen werden, von dem Tag an gerechnet, an dem der Schuldenruf ergangen ist.
->
-> 3 Eine Verteilung darf bereits nach Ablauf von drei Monaten erfolgen, wenn ein zugelassener Revisionsexperte bestätigt, dass die Schulden getilgt sind und nach den Umständen angenommen werden kann, dass keine Interessen Dritter gefährdet werden.
-
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 2 in der Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 (AS 2020 4005; BBl 2017 399).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

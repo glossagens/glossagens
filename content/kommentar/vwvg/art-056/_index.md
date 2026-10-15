@@ -2,11 +2,16 @@
 title: "Art. 56 VwVG — Andere vorsorgliche Massnahmen"
 weight: 56
 date: 2026-08-02
-lastmod: "2026-08-17"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 56 VwVG (SR 172.021): Vorsorgliche Massnahmen im Beschwerdeverfahren — Voraussetzungen, Sicherung des Prozessgegenstands, Verhältnismässigkeit."
 tags: ["VwVG", "vorsorgliche Massnahmen", "einstweiliger Rechtsschutz", "Superprovisorium", "Prozessgegenstand"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -23,11 +28,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 56 VwVG — Andere vorsorgliche Massnahmen**
->
-> Nach Einreichung der Beschwerde kann die Beschwerdeinstanz, ihr Vorsitzender oder der Instruktionsrichter von Amtes wegen oder auf Begehren einer Partei andere vorsorgliche Massnahmen treffen, um den bestehenden Zustand zu erhalten oder bedrohte Interessen einstweilen sicherzustellen.
-
-*(Fedlex-Stand: 2022-07-01)*
+{{< wortlaut >}}
 
 ## I. Bedeutung und Abgrenzung zu Art. 55 VwVG
 

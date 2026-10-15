@@ -2,11 +2,16 @@
 title: "Art. 58a AIG — Integrationskriterien"
 weight: 58
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 58a AIG: Die gesetzlichen Integrationskriterien im Schweizer Ausländerrecht — Öffentliche Sicherheit, Verfassungswerte, Sprachkompetenzen, Wirtschaftsleben und Härtefallausnahmen."
 tags: ["AIG", "Ausländerrecht", "Integration", "Integrationskriterien", "Sprachnachweis", "Wirtschaftliche Integration", "VZAE", "Rückstufung", "Härtefall"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-058a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 58a Integrationskriterien**
->
-> <sup>1</sup> Bei der Beurteilung der Integration berücksichtigt die zuständige Behörde folgende Kriterien:
-> a. die Beachtung der öffentlichen Sicherheit und Ordnung;
-> b. die Respektierung der Werte der Bundesverfassung;
-> c. die Sprachkompetenzen; und
-> d. die Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung.
->
-> <sup>2</sup> Der Situation von Personen, welche die Integrationskriterien von Absatz 1 Buchstaben c und d aufgrund einer Behinderung oder Krankheit oder anderen gewichtigen persönlichen Umständen nicht oder nur unter erschwerten Bedingungen erfüllen können, ist angemessen Rechnung zu tragen.
->
-> <sup>3</sup> Der Bundesrat legt fest, welche Sprachkompetenzen bei der Erteilung und der Verlängerung einer Bewilligung vorliegen müssen.
+{{< wortlaut >}}
 
 ---
 

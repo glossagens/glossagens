@@ -2,25 +2,21 @@
 title: "Art. 169 — Sicherstellung"
 weight: 169
 date: 2026-07-17
-lastmod: "2026-07-18"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 169 DBG — Sicherstellung bei der direkten Bundessteuer: Voraussetzungen (Wohnsitz im Ausland, Gefährdung), sofortige Vollstreckbarkeit, Steuerarrest, Prosequierung nach SchKG, Beschwerde und aufschiebende Wirkung."
 tags: ["DBG", "Sicherstellung", "direkte Bundessteuer", "Steuerarrest", "SchKG", "Rechtsöffnung", "Prosequierung", "Wohnsitz Ausland"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.11 vom 2026-09-02 (data/wortlaut/dbg/art-169.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 169 Sicherstellung**
->
-> **1** Hat der Steuerpflichtige keinen Wohnsitz in der Schweiz oder erscheint die Bezahlung der von ihm geschuldeten Steuer als gefährdet, so kann die kantonale Verwaltung für die direkte Bundessteuer auch vor der rechtskräftigen Feststellung des Steuerbetrages jederzeit Sicherstellung verlangen. Die Sicherstellungsverfügung gibt den sicherzustellenden Betrag an und ist sofort vollstreckbar. Sie hat im Betreibungsverfahren die gleichen Wirkungen wie ein vollstreckbares Gerichtsurteil.
->
-> **2** Die Sicherstellung muss in Geld, durch Hinterlegung sicherer, marktgängiger Wertpapiere oder durch Bankbürgschaft geleistet werden.
->
-> **3** Der Steuerpflichtige kann gegen die Sicherstellungsverfügung innert 30 Tagen nach Zustellung bei der kantonalen Steuerrekurskommission Beschwerde führen. Artikel 146 ist anwendbar.
->
-> **4** Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.
-
-*(Fedlex-Stand: 1. Januar 2026; Abs. 3 und 4: Fassung gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Januar 2007, AS 2006 2197 1069; BBl 2001 4202)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

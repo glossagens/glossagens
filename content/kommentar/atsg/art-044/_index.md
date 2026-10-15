@@ -2,11 +2,16 @@
 title: "Art. 44 ATSG — Gutachten"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
 tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG", "Eigendiagnostik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-044.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,28 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 44 — Gutachten**
->
-> ¹ Erachtet der Versicherungsträger im Rahmen von medizinischen Abklärungen ein Gutachten als notwendig, so legt er je nach Erfordernis eine der folgenden Arten fest:  
-> a. monodisziplinäres Gutachten;  
-> b. bidisziplinäres Gutachten;  
-> c. polydisziplinäres Gutachten.  
->
-> ² Muss der Versicherungsträger zur Abklärung des Sachverhaltes ein Gutachten bei einem oder mehreren unabhängigen Sachverständigen einholen, so gibt er der Partei deren Namen bekannt. Diese kann innert zehn Tagen aus den Gründen nach Artikel 36 Absatz 1 Sachverständige ablehnen und Gegenvorschläge machen.  
->
-> ³ Mit der Bekanntgabe der Namen stellt der Versicherungsträger der Partei auch die Fragen an den oder die Sachverständigen zu und weist sie auf die Möglichkeit hin, innert der gleichen Frist Zusatzfragen in schriftlicher Form einzureichen. Der Versicherungsträger entscheidet abschliessend über die Fragen an den oder die Sachverständigen.  
->
-> ⁴ Hält der Versicherungsträger trotz Ablehnungsantrag an den vorgesehenen Sachverständigen fest, so teilt er dies der Partei durch Zwischenverfügung mit.  
->
-> ⁵ Bei Gutachten nach Absatz 1 Buchstaben a und b werden die Fachdisziplinen vom Versicherungsträger, bei Gutachten nach Absatz 1 Buchstabe c von der Gutachterstelle abschliessend festgelegt.  
->
-> ⁶ Sofern die versicherte Person es nicht anders bestimmt, werden die Interviews in Form von Tonaufnahmen zwischen der versicherten Person und dem Sachverständigen erstellt und in die Akten des Versicherungsträgers aufgenommen.  
->
-> ⁷ Der Bundesrat:  
-> a. kann für Gutachten nach Absatz 1 die Art der Vergabe des Auftrages an eine Gutachterstelle regeln;  
-> b. erlässt Kriterien für die Zulassung von medizinischen und neuropsychologischen Sachverständigen für alle Gutachten nach Absatz 1;  
-> c. schafft eine Kommission mit Vertreterinnen und Vertretern der verschiedenen Sozialversicherungen, der Gutachterstellen, der Ärzteschaft, der Neuropsychologinnen und Neuropsychologen, der Wissenschaft sowie der Patienten- und Behindertenorganisationen, welche die Zulassung als Gutachterstelle, das Verfahren zur Gutachtenerstellung und die Ergebnisse der medizinischen Gutachten überwacht. Die Kommission spricht öffentliche Empfehlungen aus.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 403 StPO — Eintreten auf die Berufung"
 weight: 403
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 403 StPO – Eintreten auf die Berufung: Schriftliches Nichteintretensverfahren (Abs. 1), Gehörsgewährung (Abs. 2), begründeter Nichteintretensentscheid (Abs. 3) und Fortführung bei Bejahung des Eintretens (Abs. 4)."
 tags: ["StPO", "Berufung", "Eintreten", "Nichteintreten", "schriftliches Verfahren", "rechtliches Gehör", "Prozessvoraussetzungen", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-403.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 403 StPO — Eintreten**
->
-> **1** Das Berufungsgericht entscheidet in einem schriftlichen Verfahren, ob auf die Berufung einzutreten sei, wenn die Verfahrensleitung oder eine Partei geltend macht:
->
-> a. die Anmeldung oder Erklärung der Berufung sei verspätet oder unzulässig;
->
-> b. die Berufung sei im Sinne von Artikel 398 unzulässig;
->
-> c. es fehlten Prozessvoraussetzungen oder es lägen Prozesshindernisse vor.
->
-> **2** Es gibt den Parteien Gelegenheit zur Stellungnahme.
->
-> **3** Tritt es auf die Berufung nicht ein, so eröffnet es den Parteien den begründeten Nichteintretensentscheid.
->
-> **4** Andernfalls trifft die Verfahrensleitung ohne Weiteres die notwendigen Anordnungen zur Durchführung des weiteren Berufungsverfahrens.
+{{< wortlaut >}}
 
 ---
 

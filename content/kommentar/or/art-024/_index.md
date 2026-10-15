@@ -2,11 +2,16 @@
 title: "Art. 24 — Wesentlicher Irrtum"
 weight: 24
 date: 2026-05-23
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 24 OR – Wesentlicher Irrtum bei der Willenserklärung"
 tags: ["OR", "Willensmangel", "Irrtum", "Anfechtung", "Grundlagenirrtum"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Der Irrtum ist namentlich in folgenden Fällen ein wesentlicher:
-> 1. wenn der Irrende einen andern Vertrag eingehen wollte als denjenigen, für den er seine Zustimmung erklärt hat;
-> 2. wenn der Wille des Irrenden auf eine andere Sache oder, wo der Vertrag mit Rücksicht auf eine bestimmte Person abgeschlossen wurde, auf eine andere Person gerichtet war, als er erklärt hat;
-> 3. wenn der Irrende eine Leistung von erheblich grösserem Umfange versprochen hat oder eine Gegenleistung von erheblich geringerem Umfange sich hat versprechen lassen, als es sein Wille war;
-> 4. wenn der Irrtum einen bestimmten Sachverhalt betraf, der vom Irrenden nach Treu und Glauben im Geschäftsverkehr als eine notwendige Grundlage des Vertrages betrachtet wurde.
->
-> 2 Bezieht sich dagegen der Irrtum nur auf den Beweggrund zum Vertragsabschlusse, so ist er nicht wesentlich.
->
-> 3 Blosse Rechnungsfehler hindern die Verbindlichkeit des Vertrages nicht, sind aber zu berichtigen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 221 StPO — Voraussetzungen der Untersuchungshaft und Sicherheitshaft"
 weight: 221
 date: 2026-08-30
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher Zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-221.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,25 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 221 StPO — Voraussetzungen**
->
-> 1 Untersuchungs- und Sicherheitshaft sind nur zulässig, wenn die beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist und ernsthaft zu befürchten ist, dass sie:
->
-> a. sich durch Flucht dem Strafverfahren oder der zu erwartenden Sanktion entzieht;
->
-> b. Personen beeinflusst oder auf Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen; oder
->
-> c. durch Verbrechen oder schwere Vergehen die Sicherheit anderer unmittelbar erheblich gefährdet, nachdem sie bereits früher gleichartige Straftaten verübt hat.
->
-> 1bis Untersuchungs- und Sicherheitshaft sind ausnahmsweise zulässig, wenn:
->
-> a. die beschuldigte Person dringend verdächtig ist, durch ein Verbrechen oder ein schweres Vergehen die physische, psychische oder sexuelle Integrität einer Person schwer beeinträchtigt zu haben; und
->
-> b. die ernsthafte und unmittelbare Gefahr besteht, die beschuldigte Person werde ein gleichartiges, schweres Verbrechen verüben.
->
-> 2 Haft ist auch zulässig, wenn die ernsthafte und unmittelbare Gefahr besteht, eine Person werde ihre Drohung, ein schweres Verbrechen auszuführen, wahrmachen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 lit. c, Abs. 1bis und Abs. 2 in der Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
 
 ---
 

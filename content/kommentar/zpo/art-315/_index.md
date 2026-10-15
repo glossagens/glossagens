@@ -2,11 +2,16 @@
 title: "Art. 315 ZPO — Aufschiebende Wirkung"
 weight: 315
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 315 ZPO: Suspensiveffekt der Berufung, Ausnahmen bei vorsorglichen Massnahmen, Gestaltungsentscheiden und Wiederherstellung/Entzug der aufschiebenden Wirkung (nF 2025)."
 tags: ["ZPO", "Berufung", "Aufschiebende Wirkung", "Vorsorgliche Massnahmen", "Gestaltungsurteil", "Kindeswohl", "Replikrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-315.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 315 Aufschiebende Wirkung**
->
-> 1 Die Berufung hemmt die Rechtskraft und die Vollstreckbarkeit des angefochtenen Entscheids im Umfang der Anträge.
->
-> 2 Keine aufschiebende Wirkung hat die Berufung gegen Entscheide über:
-> a. das Gegendarstellungsrecht;
-> b. vorsorgliche Massnahmen;
-> c. Anweisungen an die Schuldner;
-> d. die Sicherstellung des Unterhalts.
->
-> 3 Richtet sich die Berufung gegen einen Gestaltungsentscheid, so hat sie stets aufschiebende Wirkung.
->
-> 4 Wenn der betroffenen Partei ein nicht leicht wiedergutzumachender Nachteil droht, kann die Rechtsmittelinstanz auf Gesuch:
-> a. die vorzeitige Vollstreckbarkeit bewilligen und nötigenfalls sichernde Massnahmen oder die Leistung einer Sicherheit anordnen; oder
-> b. in den Fällen nach Absatz 2 die Vollstreckbarkeit ausnahmsweise aufschieben.
->
-> 5 Die Rechtsmittelinstanz kann bereits vor der Einreichung der Berufung entscheiden. Die Anordnung fällt ohne Weiteres dahin, wenn keine Begründung des erstinstanzlichen Entscheids verlangt wird oder die Rechtsmittelfrist unbenutzt abläuft.
+{{< wortlaut >}}
 
 *Abs. 2–5 in der Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 (AS 2023 491; BBl 2020 2697).*
 

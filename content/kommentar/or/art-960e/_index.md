@@ -2,11 +2,16 @@
 title: "Art. 960e — Rückstellungen"
 weight: 960
 date: 2026-07-31
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 960e OR: Rückstellungen (Verbindlichkeiten zum Nennwert, Bildungspflicht bei drohendem Mittelabfluss, Garantieverpflichtungen, Sanierungen, Restrukturierungen, Gesamtrisiko bei Grossprojekten, Auflösung nicht mehr begründeter Rückstellungen)."
 tags: ["OR", "Rückstellungen", "Buchhaltung", "Rechnungslegung", "Garantieverpflichtungen", "Gesamtrisiko", "Wahrscheinlichkeitsrechnung", "Steuerrecht", "STHG"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-960e.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -28,21 +33,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 960e OR — Verbindlichkeiten und Rückstellungen**
->
-> ¹ Verbindlichkeiten müssen zum Nennwert eingesetzt werden.
->
-> ² Lassen vergangene Ereignisse einen Mittelabfluss in künftigen Geschäftsjahren erwarten, so müssen die voraussichtlich erforderlichen Rückstellungen zulasten der Erfolgsrechnung gebildet werden.
->
-> ³ Rückstellungen dürfen zudem insbesondere gebildet werden für:
-> 1. regelmässig anfallende Aufwendungen aus Garantieverpflichtungen;
-> 2. Sanierungen von Sachanlagen;
-> 3. Restrukturierungen;
-> 4. die Sicherung des dauernden Gedeihens des Unternehmens.
->
-> ⁴ Nicht mehr begründete Rückstellungen müssen nicht aufgelöst werden.
-
-*Konsolidierungsstand: 01.01.2026 (Fedlex, SR 220).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

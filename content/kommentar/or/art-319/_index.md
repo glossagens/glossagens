@@ -2,11 +2,16 @@
 title: "Art. 319 OR — Begriff und Einzelarbeitsvertrag"
 weight: 319
 date: 2026-05-23
-lastmod: 2026-09-07
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 319 OR entlang der Tatbestandsmerkmale: Arbeitsleistung, Dauerschuldverhältnis, Subordination (persönlich, betrieblich, zeitlich, wirtschaftlich), Entgeltlichkeit (Zeit- und Akkordlohn), Teilzeitarbeit und Arbeit auf Abruf (Abs. 2) sowie Organverhältnis, Scheinselbständigkeit und Beweislast — mit der Kasuistik der Gerichte zu Abgrenzung, Plattformarbeit und atypischen Arbeitsformen."
 tags: ["OR", "Arbeitsvertrag", "Einzelarbeitsvertrag", "Subordination", "Weisungsgebundenheit", "Eingliederung", "Scheinselbständigkeit", "Plattformarbeit", "Uber", "Teilzeitarbeit", "Arbeit auf Abruf", "Kettenarbeitsvertrag", "Organstellung", "Doppelrelevanz", "Beweislast"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-319.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,21 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 319 OR — Begriff des Einzelarbeitsvertrags**
->
-> ---
->
-> **Abs. 1 — Grundtatbestand und Vergütungsformen**
->
-> Durch den Einzelarbeitsvertrag verpflichtet sich der Arbeitnehmer auf bestimmte oder unbestimmte Zeit zur Leistung von Arbeit im Dienst des Arbeitgebers und dieser zur Entrichtung eines Lohnes, der nach Zeitabschnitten (Zeitlohn) oder nach der geleisteten Arbeit (Akkordlohn) bemessen wird.
->
-> ---
->
-> **Abs. 2 — Teilzeitarbeit**
->
-> Als Einzelarbeitsvertrag gilt auch der Vertrag, durch den sich ein Arbeitnehmer zur regelmässigen Leistung von stunden-, halbtage- oder tageweiser Arbeit (Teilzeitarbeit) im Dienst des Arbeitgebers verpflichtet.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Bundesgesetz vom 25. Juni 1971 (Revision des Arbeitsvertragsrechts), in Kraft seit 1. Januar 1972 (AS 1971 1465).*
 
 ---
 

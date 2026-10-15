@@ -2,11 +2,16 @@
 title: "Art. 744 OR — Sicherung der Gläubiger in der Liquidation"
 weight: 744
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 744 OR: Hinterlegungspflichten für nicht angemeldete, nicht fällige und streitige Verbindlichkeiten in der Liquidation der Aktiengesellschaft sowie Rechtsfolgen von Pflichtverletzungen (Verantwortlichkeit statt Nichtigkeit)."
 tags: ["OR", "Aktienrecht", "Liquidation", "Gläubigerschutz", "Hinterlegung", "Sicherstellung", "Schuldenruf", "Verantwortlichkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-744.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 744 OR — Sicherung der Gläubiger**
->
-> 1 Haben bekannte Gläubiger die Anmeldung unterlassen, so ist der Betrag ihrer Forderungen gerichtlich zu hinterlegen.
->
-> 2 Ebenso ist für die nicht fälligen und die streitigen Verbindlichkeiten der Gesellschaft ein entsprechender Betrag zu hinterlegen, sofern nicht den Gläubigern eine gleichwertige Sicherheit bestellt oder die Verteilung des Gesellschaftsvermögens bis zur Erfüllung dieser Verbindlichkeiten ausgesetzt wird.
-
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

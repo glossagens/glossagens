@@ -2,11 +2,16 @@
 title: "Art. 75 AIG — Vorbereitungshaft"
 weight: 75
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 75 AIG (Vorbereitungshaft): Systematik, Prüfschema, Abgrenzung zur Ausschaffungs- und Dublin-Haft, Kasuistik zu den Haftgründen (lit. a–i), zweiseitige Grenzkasuistik und Praxishinweise."
 tags: ["AIG", "Ausländerrecht", "Zwangsmassnahmen", "Vorbereitungshaft", "Ausschaffungshaft", "Asylverfahren", "Freiheitsentzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-075.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,32 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> ### Art. 75 Vorbereitungshaft
->
-> ^1 Um die Durchführung eines Weg- oder Ausweisungsverfahrens oder eines strafrechtlichen Verfahrens, in dem eine Landesverweisung nach Artikel 66a oder 66a^bis StGB oder Artikel 49a oder 49a^bis MStG droht, sicherzustellen, kann die zuständige kantonale Behörde eine Person, die keine Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung besitzt, während der Vorbereitung des Entscheides über ihre Aufenthaltsberechtigung für höchstens sechs Monate in Haft nehmen, wenn die Person:
-> 
-> a. sich im Asylverfahren, im Weg- oder Ausweisungsverfahren oder im strafrechtlichen Verfahren, in dem eine Landesverweisung nach Artikel 66a oder 66a^bis StGB oder Artikel 49a oder 49a^bis MStG droht, weigert, ihre Identität offenzulegen, mehrere Asylgesuche unter verschiedenen Identitäten einreicht, wiederholt einer Vorladung ohne ausreichende Gründe nicht Folge leistet oder andere Anordnungen der Behörden im Asylverfahren missachtet;
-> 
-> b. ein ihr nach Artikel 74 zugewiesenes Gebiet verlässt oder ein ihr verbotenes Gebiet betritt;
-> 
-> c. trotz Einreiseverbot das Gebiet der Schweiz betritt und nicht sofort weggewiesen werden kann;
-> 
-> d. nach einem rechtskräftigen Widerruf (Art. 62 und 63) oder einer Nichtverlängerung der Bewilligung wegen Verletzung oder Gefährdung der öffentlichen Sicherheit und Ordnung oder wegen Gefährdung der inneren oder der äusseren Sicherheit weggewiesen wurde und ein Asylgesuch einreicht;
-> 
-> e. nach einer Ausweisung (Art. 68) ein Asylgesuch einreicht;
-> 
-> f. sich rechtswidrig in der Schweiz aufhält, ein Asylgesuch einreicht und damit offensichtlich bezweckt, den drohenden Vollzug einer Weg- oder Ausweisung zu vermeiden; ein solcher Zweck ist zu vermuten, wenn eine frühere Einreichung des Asylgesuchs möglich und zumutbar war und wenn das Gesuch in einem engen zeitlichen Zusammenhang mit einer Verhaftung, einem Strafverfahren, dem Vollzug einer Strafe oder dem Erlass einer Wegweisungsverfügung eingereicht wird;
-> 
-> g. Personen ernsthaft bedroht oder an Leib und Leben erheblich gefährdet und deshalb strafrechtlich verfolgt wird oder verurteilt worden ist;
-> 
-> h. wegen eines Verbrechens verurteilt worden ist;
-> 
-> i. Erkenntnissen von fedpol oder des NDB zufolge die innere oder äussere Sicherheit der Schweiz gefährdet.
->
-> ^1bis …
->
-> ^2 Die zuständige Behörde entscheidet über die Aufenthaltsberechtigung der inhaftierten Person ohne Verzug.
+{{< wortlaut >}}
 
 ---
 

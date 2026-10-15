@@ -2,11 +2,16 @@
 title: "Art. 76 AIG — Ausschaffungshaft"
 weight: 76
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 76 AIG (Ausschaffungshaft): Systematik, Prüfschema, Abgrenzung zur Vorbereitungs- und Dublin-Haft, Kasuistik zur Untertauchensgefahr (lit. b Ziff. 3/4), Beschleunigungsgebot (Abs. 4), zweiseitige Grenzkasuistik und Praxishinweise."
 tags: ["AIG", "Ausländerrecht", "Zwangsmassnahmen", "Ausschaffungshaft", "Untertauchensgefahr", "Landesverweisung", "Beschleunigungsgebot", "Freiheitsentzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-076.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,29 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> ### Art. 76 Ausschaffungshaft
->
-> ^1 Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine erstinstanzliche Landesverweisung nach Artikel 66a oder 66a^bis StGB oder Artikel 49a oder 49a^bis MStG ausgesprochen, so kann die zuständige Behörde die betroffene Person zur Sicherstellung des Vollzugs:
-> 
-> a. in Haft belassen, wenn sie sich gestützt auf Artikel 75 bereits in Haft befindet;
-> 
-> b. in Haft nehmen, wenn:
-> 
-> 1. Gründe nach Artikel 75 Absatz 1 Buchstabe a, b, c, f, g, h oder i vorliegen,
-> 2. *(aufgehoben)*
-> 3. konkrete Anzeichen befürchten lassen, dass sie sich der Ausschaffung entziehen will, insbesondere, weil sie der Mitwirkungspflicht nach Artikel 90 dieses Gesetzes sowie Artikel 8 Absatz 1 Buchstabe a oder Artikel 47 Absatz 1 AsylG nicht nachkommt,
-> 4. ihr bisheriges Verhalten darauf schliessen lässt, dass sie sich behördlichen Anordnungen widersetzt,
-> 5. der Wegweisungsentscheid in einem Zentrum des Bundes eröffnet wird und der Vollzug der Wegweisung absehbar ist.
-> 6. *(aufgehoben)*
->
-> ^1bis Die Haftanordnung in Dublin-Fällen richtet sich nach Artikel 76a.
->
-> ^2 Die Haft nach Absatz 1 Buchstabe b Ziffer 5 darf höchstens 30 Tage dauern.
->
-> ^3 Die Hafttage sind an die Höchstdauer nach Artikel 79 anzurechnen.
->
-> ^4 Die für den Vollzug der Wegweisung, der Ausweisung oder der Landesverweisung nach Artikel 66a oder 66a^bis StGB oder Artikel 49a oder 49a^bis MStG notwendigen Vorkehren sind umgehend zu treffen.
+{{< wortlaut >}}
 
 ---
 

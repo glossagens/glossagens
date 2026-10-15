@@ -2,11 +2,16 @@
 title: "Art. 53 StGB — Schadenswiedergutmachung"
 weight: 53
 date: 2026-10-01
-lastmod: 2026-10-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 53 StGB (SR 311.0): Strafbefreiung bei Schadenswiedergutmachung — kumulative Voraussetzungen (Wiedergutmachung, geringe Straferwartung, geringes öffentliches und Geschädigten-Interesse, Geständnis), zwingender Charakter, Verfahrensstadien (Einstellung vs. Schuldspruch ohne Strafe) und Kostenfolgen."
 tags: ["StGB", "Strafbefreiung", "Schadenswiedergutmachung", "Wiedergutmachung", "Opportunitätsprinzip", "Geständnis", "öffentliches Interesse", "Strafverzicht", "Verfahrenskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-053.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -21,16 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 53 StGB (SR 311.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stgb/art-053/)
->
-> Hat der Täter den Schaden gedeckt oder alle zumutbaren Anstrengungen unternommen, um das von ihm bewirkte Unrecht auszugleichen, so sieht die zuständige Behörde von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung ab, wenn:
-> a. als Strafe eine bedingte Freiheitsstrafe bis zu einem Jahr, eine bedingte Geldstrafe oder eine Busse in Betracht kommt;
-> b. das Interesse der Öffentlichkeit und des Geschädigten an der Strafverfolgung gering sind; und
-> c. der Täter den Sachverhalt eingestanden hat.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(Fassung gemäss Ziff. I 1 des BG vom 14. Dezember 2018 über die Änderung der Wiedergutmachungsregelung, in Kraft seit 1. Juli 2019; AS 2019 1809; BBl 2018 3757 4925)*
 
 ---
 

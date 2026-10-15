@@ -2,11 +2,16 @@
 title: "Art. 70 StGB — Einziehung von Vermögenswerten. Grundsätze"
 weight: 70
 date: 2026-08-08
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 70 StGB: Einziehung deliktischer Vermögenswerte (Abs. 1), Brutto- und Nettoprinzip, Schutz und Beschlagnahme bei Dritten (Abs. 2), Verjährung (Abs. 3), Bekanntmachung (Abs. 4), Schätzung (Abs. 5) sowie umfassende Kasuistik."
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "Bruttoprinzip", "Nettoprinzip", "Drittschutz", "Schätzung", "Kasuistik", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-070.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -26,17 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 70 StGB — Einziehung von Vermögenswerten. Grundsätze**
->
-> 1 Das Gericht verfügt die Einziehung von Vermögenswerten, die durch eine Straftat erlangt worden sind oder dazu bestimmt waren, eine Straftat zu veranlassen oder zu belohnen, sofern sie nicht dem Verletzten zur Wiederherstellung des rechtmässigen Zustandes ausgehändigt werden.
->
-> 2 Die Einziehung ist ausgeschlossen, wenn ein Dritter die Vermögenswerte in Unkenntnis der Einziehungsgründe erworben hat und soweit er für sie eine gleichwertige Gegenleistung erbracht hat oder die Einziehung ihm gegenüber sonst eine unverhältnismässige Härte darstellen würde.
->
-> 3 Das Recht zur Einziehung verjährt nach sieben Jahren; ist jedoch die Verfolgung der Straftat einer längeren Verjährungsfrist unterworfen, so findet diese Frist auch auf die Einziehung Anwendung.
->
-> 4 Die Einziehung ist amtlich bekannt zu machen. Die Ansprüche Verletzter oder Dritter erlöschen fünf Jahre nach der amtlichen Bekanntmachung.
->
-> 5 Lässt sich der Umfang der einzuziehenden Vermögenswerte nicht oder nur mit unverhältnismässigem Aufwand ermitteln, so kann das Gericht ihn schätzen.
+{{< wortlaut >}}
 
 ---
 

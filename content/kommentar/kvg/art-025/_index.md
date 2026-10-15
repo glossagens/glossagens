@@ -2,11 +2,16 @@
 title: "Art. 25 — Allgemeine Leistungen bei Krankheit"
 weight: 25
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 25 KVG (SR 832.10): Allgemeine Leistungen der obligatorischen Krankenpflegeversicherung bei Krankheit — Leistungskatalog (Untersuchungen, Behandlungen, Arzneimittel, Rehabilitation, Spitalaufenthalt, Transport-/Rettungskosten), Abgrenzung zur Wirtschaftlichkeitsprüfung (Art. 32) und zur Spezialitätenliste. Leitentscheide BGE 128 V 159, BGE 142 V 26, BGE 129 V 32, BGE 124 V 185, BGE 126 V 323, BGE 139 V 375 und BGE 130 V 299."
 tags: ["KVG", "Krankenversicherung", "Leistungen", "Krankenpflegeversicherung", "Spezialitätenliste", "WZW", "Rehabilitation", "Arzneimittel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,25 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 25 KVG — Allgemeine Leistungen bei Krankheit**
->
-> **1** Die obligatorische Krankenpflegeversicherung übernimmt die Kosten für die Leistungen, die der Diagnose oder Behandlung einer Krankheit und ihrer Folgen dienen.
->
-> **2** Diese Leistungen umfassen:
->   a. die Untersuchungen und Behandlungen, die ambulant, stationär oder in einem Pflegeheim sowie die Pflegeleistungen, die im Rahmen einer stationären Behandlung erbracht werden von:
->   1. Ärzten oder Ärztinnen,
->   2. Chiropraktoren oder Chiropraktorinnen,
->   2bis. Pflegefachpersonen,
->   3. Personen, die auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin beziehungsweise eines Chiropraktors oder einer Chiropraktorin Leistungen erbringen;
->   b. die ärztlich oder unter den vom Bundesrat bestimmten Voraussetzungen von Chiropraktoren oder Chiropraktorinnen verordneten Analysen, Arzneimittel und der Untersuchung oder Behandlung dienenden Mittel und Gegenstände;
->   c. einen Beitrag an die Kosten von ärztlich angeordneten Badekuren;
->   d. die ärztlich durchgeführten oder angeordneten Massnahmen der medizinischen Rehabilitation;
->   e. den Aufenthalt im Spital entsprechend dem Standard der allgemeinen Abteilung;
->   fbis. den Aufenthalt bei Entbindung in einem Geburtshaus (Art. 29);
->   g. einen Beitrag an die medizinisch notwendigen Transportkosten sowie an die Rettungskosten;
->   h. die Leistung der Apotheker und Apothekerinnen bei der Abgabe von nach Buchstabe b verordneten Arzneimitteln.
-
-*Quelle: [Fedlex (SR 832.10, Art. 25)](https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/de#art_25), Konsolidierung Stand 2026-07-01. lit. f aufgehoben per 1.1.2009, lit. fbis und lit. 2bis eingefügt.*
+{{< wortlaut >}}
 
 ## Systematische Einordnung
 

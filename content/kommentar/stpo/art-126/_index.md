@@ -6,6 +6,11 @@ description: "Kommentar zu Art. 126 StPO – Entscheid über die Zivilklage"
 tags: ["StPO", "Zivilklage", "Zivilanspruch", "Adhäsionsverfahren", "Privatklägerschaft", "Verweisung Zivilweg"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-126.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,34 +21,12 @@ revisions:
     model: "glm-5.1"
     mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Das Gericht entscheidet über die anhängig gemachte Zivilklage, wenn es die beschuldigte Person:
->
-> **a.** schuldig spricht;
->
-> **b.** freispricht und der Sachverhalt spruchreif ist.
->
-> **2** Die Zivilklage wird auf den Zivilweg verwiesen, wenn:
->
-> **a.** das Strafverfahren eingestellt wird;
->
-> **abis.** darüber nicht im Strafbefehlsverfahren entschieden werden kann;
->
-> **b.** die Privatklägerschaft ihre Klage nicht hinreichend begründet oder beziffert hat;
->
-> **c.** die Privatklägerschaft die Sicherheit für die Ansprüche der beschuldigten Person nicht leistet;
->
-> **d.** die beschuldigte Person freigesprochen wird, der Sachverhalt aber nicht spruchreif ist.
->
-> **3** Wäre die vollständige Beurteilung des Zivilanspruchs unverhältnismässig aufwendig, so kann das Gericht die Zivilklage nur dem Grundsatz nach entscheiden und sie im Übrigen auf den Zivilweg verweisen. Ansprüche von geringer Höhe beurteilt das Gericht nach Möglichkeit selbst.
->
-> **4** In Fällen, in denen Opfer beteiligt sind, kann das Gericht vorerst nur den Schuld- und Strafpunkt beurteilen; anschliessend beurteilt die Verfahrensleitung als Einzelgericht nach einer weiteren Parteiverhandlung die Zivilklage, ungeachtet des Streitwerts.
-
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025. Abs. 2 lit. a wurde neu gefasst und lit. abis eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

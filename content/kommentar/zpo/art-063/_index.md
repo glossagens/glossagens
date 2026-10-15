@@ -2,11 +2,16 @@
 title: "Art. 63 — Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart"
 weight: 63
 date: 2026-07-02
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 63 ZPO: Rückdatierung der Rechtshängigkeit bei Einreichung bei unzuständigem Gericht oder im falschen Verfahren."
 tags: ["ZPO", "Rechtshängigkeit", "Zuständigkeit", "Monatsfrist", "Lugano"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Wird eine Eingabe, die mangels Zuständigkeit zurückgezogen oder auf die nicht eingetreten wurde, innert eines Monates seit dem Rückzug oder dem Nichteintretensentscheid bei der zuständigen Schlichtungsbehörde oder beim zuständigen Gericht neu eingereicht oder wird sie gemäss Artikel 143 Absatz 1bis weitergeleitet, so gilt als Zeitpunkt der Rechtshängigkeit das Datum der ersten Einreichung.
->
-> **2** Gleiches gilt, wenn eine Klage nicht im richtigen Verfahren eingereicht wurde.
->
-> **3** Vorbehalten bleiben die besonderen gesetzlichen Klagefristen nach dem SchKG.
+{{< wortlaut >}}
 
 *Abs. 1 in Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Januar 2025 (AS 2023 491; BBl 2020 2697).*
 

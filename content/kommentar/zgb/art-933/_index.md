@@ -2,11 +2,16 @@
 title: "Art. 933 ZGB — Gutgläubiger Erwerb anvertrauter Sachen"
 weight: 933
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 933 ZGB — gutgläubiger Erwerb beweglicher Sachen vom nicht verfügungsberechtigten Besitzer, dem die Sache anvertraut war: Begriff des Anvertrautseins (Miete, Werk, Pfand, Eigentumsvorbehalt, Besitzeskonstitut, Schatz), Abgrenzung zur abhandengekommenen Sache (Art. 934) bei Täuschung und ertrogenen Sachen, guter Glaube und Branchenvertrautheit (Occasionswagen, Kunst/Antiquitäten), die Schenkungs-Schranke (teleologische Reduktion auf entgeltlichen Erwerb), Bösgläubigkeit (Art. 936) und nachträglicher gutgläubiger Erwerb mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "gutgläubiger Erwerb", "anvertraute Sache", "nemo plus iuris", "guter Glaube", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Schenkung", "Eigentumsvorbehalt", "Besitzeskonstitut", "Hehlerei", "Kulturgüter"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-933.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,12 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 933 ZGB**
->
-> Wer eine bewegliche Sache in gutem Glauben zu Eigentum oder zu einem beschränkten dinglichen Recht übertragen erhält, ist in seinem Erwerbe auch dann zu schützen, wenn sie dem Veräusserer ohne jede Ermächtigung zur Übertragung anvertraut worden war.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 933 ZGB ist eine der Besitzesregeln (Art. 930–937 ZGB) und die zentrale Norm des gutgläubigen Fahrniserwerbs vom Nichtberechtigten. Er wird von Art. 714 Abs. 2 ZGB in Bezug genommen: wer in gutem Glauben eine bewegliche Sache zu Eigentum übertragen erhält, wird deren Eigentümer, sobald er nach den Besitzesregeln im Besitz der Sache geschützt ist — und der Schutz nach den Besitzesregeln richtet sich, wenn die Sache dem Veräusserer anvertraut war, nach Art. 933 ZGB. Die Bestimmung geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Eine digital verfügbare Botschaft zu Art. 933 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 933 ZGB ist eine der Besitzesregeln (Art. 930–937 ZGB) und die zentrale Norm des gutgläubigen Fahrniserwerbs vom Nichtberechtigten. Er wird von Art. 714 Abs. 2 ZGB in Bezug genommen: wer in gutem Glauben eine bewegliche Sache zu Eigentum übertragen erhält, wird deren Eigentümer, sobald er nach den Besitzesregeln im Besitz der Sache geschützt ist — und der Schutz nach den Besitzesregeln richtet sich, wenn die Sache dem Veräusserer anvertraut war, nach Art. 933 ZGB. Die Bestimmung geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Eine digital verfügbare Botschaft zu Art. 933 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

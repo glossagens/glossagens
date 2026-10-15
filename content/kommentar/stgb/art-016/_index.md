@@ -2,11 +2,16 @@
 title: "Art. 16 — Entschuldbare Notwehr (Notwehrexzess)"
 weight: 16
 date: 2026-05-16
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 16 StGB: Notwehrlage als Vorfrage, Abgrenzung des intensiven vom extensiven Exzess, Verhältnismässigkeitsmassstab und Stufenkaskade beim Einsatz von Messern und Schusswaffen, obligatorische Strafmilderung nach Abs. 1 mit belegten Reduktionssätzen, die drei Merkmale des entschuldbaren Exzesses nach Abs. 2 sowie Putativnotwehrexzess — mit der Kasuistik der Gerichte zu jedem Merkmal und den offenen Judikaturdivergenzen."
 tags: ["StGB", "Notwehrexzess", "Notwehr", "Entschuldbare Notwehr", "Entschuldigungsgrund", "Intensiver Exzess", "Extensiver Exzess", "Putativnotwehrexzess", "Messereinsatz", "Schusswaffengebrauch", "Strafmilderung", "Art. 48a StGB", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-016.json), inkl. Fussnoten; ebenso die Bezugsnorm Art. 15 StGB. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,19 +31,11 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 16 StGB — Entschuldbare Notwehr**
->
-> 1 Überschreitet der Abwehrende die Grenzen der Notwehr nach Artikel 15, so mildert das Gericht die Strafe.
->
-> 2 Überschreitet der Abwehrende die Grenzen der Notwehr in entschuldbarer Aufregung oder Bestürzung über den Angriff, so handelt er nicht schuldhaft.
+{{< wortlaut >}}
 
 Die Norm ist nur zusammen mit der Bezugsnorm lesbar, auf die sie verweist:
 
-> **Art. 15 StGB — Rechtfertigende Notwehr**
->
-> Wird jemand ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht, so ist der Angegriffene und jeder andere berechtigt, den Angriff in einer den Umständen angemessenen Weise abzuwehren.
-
-*Wortlaut verbatim geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026.*
+{{< wortlaut gesetz="stgb" art="art-015" >}}
 
 ---
 

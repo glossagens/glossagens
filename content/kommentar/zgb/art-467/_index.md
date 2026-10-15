@@ -2,11 +2,16 @@
 title: "Art. 467 ZGB — Verfügungsfähigkeit (Testierfähigkeit)"
 weight: 467
 date: 2026-08-19
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 467 ZGB: Testierfähigkeit als erbrechtliche Verfügungsfähigkeit, Urteilsfähigkeit und Volljährigkeit, Beweislast, Demenz und Notariatspraxis."
 tags: ["ZGB", "Erbrecht", "Testierfähigkeit", "Urteilsfähigkeit", "Verfügungsfähigkeit", "Demenz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-467.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -16,10 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Wer urteilsfähig ist und das 18. Altersjahr zurückgelegt hat, ist befugt, unter Beobachtung der gesetzlichen Schranken und Formen über sein Vermögen letztwillig zu verfügen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(Stand am 1. Juli 2026)*
 
 ---
 

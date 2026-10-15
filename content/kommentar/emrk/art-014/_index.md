@@ -2,11 +2,16 @@
 title: "Art. 14 — Diskriminierungsverbot"
 weight: 14
 date: 2026-06-06
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 EMRK – Diskriminierungsverbot: Verbot der Diskriminierung bei der Genuss der Konventionsrechte"
 tags: ["EMRK", "Diskriminierungsverbot", "Gleichbehandlung", "Menschenrechte", "EGMR"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,9 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 14 — Verbot der Diskriminierung**
->
-> Der Genuss der in dieser Konvention anerkannten Rechte und Freiheiten ist ohne Diskriminierung insbesondere wegen des Geschlechts, der Rasse, der Hautfarbe, der Sprache, der Religion, der politischen oder sonstigen Anschauung, der nationalen oder sozialen Herkunft, der Zugehörigkeit zu einer nationalen Minderheit, des Vermögens, der Geburt oder eines sonstigen Status zu gewährleisten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

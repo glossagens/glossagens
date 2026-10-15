@@ -2,11 +2,16 @@
 title: "§ 53 — Abklärung von Amtes wegen"
 weight: 53
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu § 53 VRG (Luzern): Untersuchungsgrundsatz und amtswegige Sachverhaltsabklärung im Verwaltungsverfahren, mit der Kasuistik der Luzerner Gerichte zu Grenzen der Offizialmaxime, Beweislastverteilung und ungenügender Sachverhaltsabklärung."
 tags: ["VRG", "Luzern", "Untersuchungsgrundsatz", "Amtsabklärung", "Offizialmaxime", "Beweislast", "Sachverhalt"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-053.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **§ 53 1. Abklärung von Amtes wegen**
->
-> 1 Die Behörde stellt den Sachverhalt von Amtes wegen fest.
-
-*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 230 SchKG — Einstellung des Konkursverfahrens mangels Aktiven"
 weight: 230
 date: 2026-09-13
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 230 SchKG: Einstellung des Konkursverfahrens mangels Aktiven — Masseunzulänglichkeit, Gläubigeroption, Kostensicherheit, zweijährige Pfändungsbetreibung, Wiederaufleben früherer Betreibungen, Fristenstillstand, Spezialliquidation, Handelsregisterlöschung, Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Konkurseinstellung", "Masseunzulänglichkeit", "Kostensicherheit", "Pfändungsbetreibung", "Wiederaufleben", "Fristenstillstand", "Spezialliquidation", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-230.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,18 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 230 SchKG (SR 281.1)** — Einstellung des Konkursverfahrens
->
-> **1** Reicht die Konkursmasse voraussichtlich nicht aus, um die Kosten für ein summarisches Verfahren zu decken, so verfügt das Konkursgericht auf Antrag des Konkursamtes die Einstellung des Konkursverfahrens.
->
-> **2** Das Konkursamt macht die Einstellung öffentlich bekannt und teilt sie den bekannten Gläubigern mit uneingeschriebenem Brief mit. In der Publikation weist es darauf hin, dass das Verfahren geschlossen wird, wenn nicht innert zwanzig Tagen ein Gläubiger die Durchführung des Konkursverfahrens verlangt und die festgelegte Sicherheit für den durch die Konkursmasse nicht gedeckten Teil der Kosten leistet.
->
-> **3** Nach der Einstellung des Konkursverfahrens kann der Schuldner während zwei Jahren auch auf Pfändung betrieben werden.
->
-> **4** Die vor der Konkurseröffnung eingeleiteten Betreibungen leben nach der Einstellung des Konkurses wieder auf. Die Zeit zwischen der Eröffnung und der Einstellung des Konkurses wird dabei für alle Fristen dieses Gesetzes nicht mitberechnet.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Abs. 2 Fassung gemäss Ziff. I 2 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Januar 2025 (AS 2023 628; BBl 2019 5193).*
 
 ---
 

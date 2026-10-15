@@ -2,11 +2,16 @@
 title: "Art. 20 OHG — Festsetzung der Entschädigung"
 weight: 20
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 20 OHG – Festsetzung und Berechnung der staatlichen Entschädigung, Anrechnung von Drittleistungen, Einkommensstufen nach ELG, Höchst- und Mindestbetrag sowie Teilzahlungen"
 tags: ["OHG", "Opferhilfe", "Entschädigung", "Festsetzung", "Subsidiarität", "Lebensbedarf", "ELG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.5 vom 2025-01-01 (data/wortlaut/ohg/art-020.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 20 OHG — Festsetzung**
->
-> ¹ Leistungen, welche die gesuchstellende Person von Dritten als Schadenersatz erhalten hat, werden für die Berechnung der Entschädigung auf den Schaden angerechnet.
->
-> ² Die Entschädigung deckt den Schaden:
-> a. ganz, wenn im Sinne von Artikel 6 Absätze 1 und 2 die anrechenbaren Einnahmen der anspruchsberechtigten Person den massgebenden Betrag für den allgemeinen Lebensbedarf nicht übersteigen;
-> b. anteilsmässig, wenn im Sinne von Artikel 6 Absätze 1 und 2 die anrechenbaren Einnahmen der anspruchsberechtigten Person zwischen dem einfachen und dem vierfachen massgebenden Betrag für den allgemeinen Lebensbedarf liegen.
->
-> ³ Die Entschädigung beträgt höchstens 130 000 Franken; keine Entschädigung wird ausgerichtet, wenn sie weniger als 500 Franken betragen würde.
->
-> ⁴ Die Entschädigung kann in mehreren Teilzahlungen ausgerichtet werden.
+{{< wortlaut >}}
 
 ---
 

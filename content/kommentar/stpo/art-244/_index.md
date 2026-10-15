@@ -2,11 +2,16 @@
 title: "Art. 244 — Grundsatz"
 weight: 244
 date: "2026-05-16"
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 244 StPO – Grundsatz der Durchsuchung (Einwilligung, Tatverdacht, Beweisausforschungsverbot)"
 tags: ["StPO", "Durchsuchung", "Hausdurchsuchung", "Beweisausforschungsverbot", "Zwangsmassnahme", "Tatverdacht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-244.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-22"
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 244 StPO — Grundsatz**
->
-> **1** Häuser, Wohnungen und andere nicht allgemein zugängliche Räume dürfen nur mit Einwilligung der berechtigten Person durchsucht werden.
->
-> **2** Die Einwilligung der berechtigten Person ist nicht nötig, wenn zu vermuten ist, dass in diesen Räumen:
->
-> a. gesuchte Personen anwesend sind;
->
-> b. Tatspuren oder zu beschlagnahmende Gegenstände oder Vermögenswerte vorhanden sind;
->
-> c. Straftaten begangen werden.
+{{< wortlaut >}}
 
 ---
 

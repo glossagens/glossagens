@@ -2,11 +2,16 @@
 title: "Art. 314 ZGB — Verfahren im Kindesschutz"
 weight: 314
 date: "2026-05-15"
-lastmod: "2026-08-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 314 ZGB – Verfahrensverweis auf das Erwachsenenschutzrecht, Untersuchungsmaxime, Anhörungspflicht, Mediation und Beistandschaft im Dispositiv."
 tags: ["ZGB", "Kindesschutz", "Verfahrensrecht", "Anhörungspflicht", "KESB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-314.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "claude-opus-4-6"
@@ -23,13 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 314 ZGB — Verfahren im Kindesschutz**
->
-> 1 Die Bestimmungen über das Verfahren vor der Erwachsenenschutzbehörde sind sinngemäss anwendbar.
->
-> 2 Die Kindesschutzbehörde kann in geeigneten Fällen die Eltern zu einem Mediationsversuch auffordern.
->
-> 3 Errichtet die Kindesschutzbehörde eine Beistandschaft, so hält sie im Entscheiddispositiv die Aufgaben des Beistandes und allfällige Beschränkungen der elterlichen Sorge fest.
+{{< wortlaut >}}
 
 ---
 

@@ -2,27 +2,23 @@
 title: "§ 4 — Begriff des Entscheides"
 weight: 4
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-10-15
 description: "Kommentierung von § 4 VRG LU — Definition des Entschieds als zentrale Anknüpfungsnorm des luzernischen Verwaltungsrechtspflegegesetzes"
 tags: ["VRG LU", "Entscheid", "Verfügung", "Verwaltungsrechtspflege", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-004.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 # § 4 VRG LU — Begriff des Entscheides
 
 ## Gesetzestext
 
-> **§ 4** d. Entscheide
->
-> ¹ Ein Entscheid im Sinne dieses Gesetzes (Verfügung, Rechtsmittelentscheid, verwaltungsgerichtliches Urteil) ergeht, wenn eine diesem Gesetz unterstellte Behörde mit hoheitlicher Wirkung für den Einzelfall
->
-> a. Rechte und Pflichten bestimmter Personen begründet, ändert oder aufhebt;
->
-> b. die rechtlichen Verhältnisse bestimmter Personen feststellt;
->
-> c. Begehren im Sinne von a und b abweist, nicht darauf eintritt oder sie als erledigt erklärt.
->
-> ² Als Entscheide gelten auch Teilentscheide, Zwischenentscheide, Ergänzungen und Erläuterungen sowie Vollstreckungsverfügungen.
+{{< wortlaut >}}
 
 ---
 

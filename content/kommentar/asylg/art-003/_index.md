@@ -2,23 +2,21 @@
 title: "Art. 3 — Flüchtlingsbegriff"
 weight: 3
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 AsylG — Definition des Flüchtlingsbegriffs, Verfolgungsgründe, ernsthafte Nachteile, Ausschlussgründe"
 tags: ["AsylG", "Flüchtlingseigenschaft", "Verfolgung", "GFK", "Flüchtlingskonvention", "Verfolgungsgründe", "ernsthafte Nachteile"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 3 AsylG — Flüchtlingsbegriff**
->
-> 1 Flüchtlinge sind Personen, die in ihrem Heimatstaat oder im Land, in dem sie zuletzt wohnten, wegen ihrer Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihrer politischen Anschauungen ernsthaften Nachteilen ausgesetzt sind oder begründete Furcht haben, solchen Nachteilen ausgesetzt zu werden.
->
-> 2 Als ernsthafte Nachteile gelten namentlich die Gefährdung des Leibes, des Lebens oder der Freiheit sowie Massnahmen, die einen unerträglichen psychischen Druck bewirken. Den frauenspezifischen Fluchtgründen ist Rechnung zu tragen.
->
-> 3 Keine Flüchtlinge sind Personen, die wegen Wehrdienstverweigerung oder Desertion ernsthaften Nachteilen ausgesetzt sind oder begründete Furcht haben, solchen Nachteilen ausgesetzt zu werden. Vorbehalten bleibt die Einhaltung des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (Flüchtlingskonvention).
->
-> 4 Keine Flüchtlinge sind Personen, die Gründe geltend machen, die wegen ihres Verhaltens nach der Ausreise entstanden sind und die weder Ausdruck noch Fortsetzung einer bereits im Heimat- oder Herkunftsstaat bestehenden Überzeugung oder Ausrichtung sind. Vorbehalten bleibt die Flüchtlingskonvention vom 28. Juli 1951.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 656 ZGB — Erwerb des Grundeigentums"
 weight: 656
 date: "2026-09-13"
-lastmod: "2026-09-15"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 656 ZGB — Erwerb des Grundeigentum: absolutes Eintragungsprinzip (Grundbuchprinzip), Trennung von Verpflichtungs- und Verfügungsgeschäft (Art. 657, Art. 216 OR), ausserbuchlicher Erwerb bei Erbgang, gerichtlichem Urteil, Zwangsvollstreckung und Enteignung (Abs. 2) sowie gutgläubiger Erwerb vom Nichtberechtigten (Art. 973 ZGB) mit Kasuistik zu natürlicher Publizität, Eintragungsfähigkeit, Formmangel und Sicherungsübereignung."
 tags: ["ZGB", "Sachenrecht", "Grundeigentum", "Eintragungsprinzip", "Grundbuchprinzip", "Publizitätsprinzip", "gutgläubiger Erwerb", "öffentliche Beurkundung", "ausserbuchlicher Erwerb", "Sicherungsübereignung", "Erbgang", "Zusprechung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-656.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,13 +26,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 656 ZGB**
->
-> 1. Zum Erwerbe des Grundeigentums bedarf es der Eintragung in das Grundbuch.
-> 2. Bei Aneignung, Erbgang, Enteignung, Zwangsvollstreckung oder gerichtlichem Urteil erlangt indessen der Erwerber schon vor der Eintragung das Eigentum, kann aber im Grundbuch erst dann über das Grundstück verfügen, wenn die Eintragung erfolgt ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 656 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut von Absatz 1 ist seitdem im Kern unverändert. Absatz 2 zählt die gesetzlichen Ausnahmen vom Eintragungsprinzip auf (Aneignung, Erbgang, Enteignung, Zwangsvollstreckung, gerichtliches Urteil) und begrenzt zugleich die Verfügungsmacht des ausserbuchlichen Erwerbers: dieser wird Eigentümer, bevor er im Grundbuch eingetragen ist, kann aber seinerseits erst nach der Eintragung rechtsgeschäftlich über das Grundstück verfügen. Eine digital verfügbare Botschaft zu Art. 656 selbst liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 656 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut von Absatz 1 ist seitdem im Kern unverändert. Absatz 2 zählt die gesetzlichen Ausnahmen vom Eintragungsprinzip auf (Aneignung, Erbgang, Enteignung, Zwangsvollstreckung, gerichtliches Urteil) und begrenzt zugleich die Verfügungsmacht des ausserbuchlichen Erwerbers: dieser wird Eigentümer, bevor er im Grundbuch eingetragen ist, kann aber seinerseits erst nach der Eintragung rechtsgeschäftlich über das Grundstück verfügen. Eine digital verfügbare Botschaft zu Art. 656 selbst liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

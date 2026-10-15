@@ -2,11 +2,16 @@
 title: "Art. 80 SchKG — Definitive Rechtsöffnung"
 weight: 80
 date: 2026-05-23
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 80 SchKG: Definitive Rechtsöffnung — Vollstreckbare Gerichtsurteile, gerichtliche Vergleiche, vollstreckbare öffentliche Urkunden, Verwaltungsverfügungen, ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
 tags: ["SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "Gerichtsurteil", "Vergleich", "Prüfungsbefugnis", "Grenzkasuistik", "LugÜ", "Aberkennungsurteil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-080.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,20 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 80 SchKG (SR 281.1)** — Definitive Rechtsöffnung
->
-> **1** Beruht die Forderung auf einem vollstreckbaren gerichtlichen Entscheid, so kann der Gläubiger beim Richter die Aufhebung des Rechtsvorschlags (definitive Rechtsöffnung) verlangen.
->
-> **2** Gerichtlichen Entscheiden gleichgestellt sind:
-> 1. gerichtliche Vergleiche und gerichtliche Schuldanerkennungen;
-> 1bis. vollstreckbare öffentliche Urkunden nach den Artikeln 347–352 ZPO;
-> 2. Verfügungen schweizerischer Verwaltungsbehörden;
-> 3. *(aufgehoben)*;
-> 4. die endgültigen Entscheide der Kontrollorgane, die in Anwendung von Artikel 16 Absatz 1 des Bundesgesetzes vom 17. Juni 2005 gegen die Schwarzarbeit getroffen werden und die Kontrollkosten zum Inhalt haben;
-> 5. im Bereich der Mehrwertsteuer: Steuerabrechnungen und Einschätzungsmitteilungen, die durch Eintritt der Festsetzungsverjährung rechtskräftig wurden, sowie Einschätzungsmitteilungen, die durch schriftliche Anerkennung der steuerpflichtigen Person rechtskräftig wurden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026.*
 
 ---
 

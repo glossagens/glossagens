@@ -2,11 +2,16 @@
 title: "Art. 350 StPO — Bindung an die Anklage; Grundlage des Urteils"
 weight: 350
 date: 2026-07-10
-lastmod: "2026-09-09"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 350 StPO: Bindung an den Anklagesachverhalt (Immutabilitätsprinzip), freie rechtliche Würdigung (iura novit curia, Art. 344 StPO vs. Art. 333 StPO) und Berücksichtigung der Beweise aus Vor- und Hauptverfahren (Einheitsgrundsatz) — mit Praxiskasuistik und Handlungshinweisen für Verteidigung, Staatsanwaltschaft und Gericht."
 tags: ["StPO", "Anklageprinzip", "Immutabilität", "Beweiswürdigung", "Bindung an die Anklage", "Rechtliche Würdigung", "Beweise", "Art. 344 StPO", "Art. 333 StPO"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-350.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 350 StPO — Bindung an die Anklage; Grundlage des Urteils**
->
-> 1 Das Gericht ist an den in der Anklage umschriebenen Sachverhalt, nicht aber an die darin vorgenommene rechtliche Würdigung gebunden.
->
-> 2 Es berücksichtigt die im Vorverfahren und im Hauptverfahren erhobenen Beweise.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. In Kraft seit 1. Januar 2011 (AS 2010 1881).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

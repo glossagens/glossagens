@@ -2,11 +2,16 @@
 title: "Art. 129 StGB — Gefährdung des Lebens"
 weight: 129
 date: 2026-05-16
-lastmod: 2026-09-16
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 129 StGB (Gefährdung des Lebens): Unmittelbare Lebensgefahr, Skrupellosigkeit und direkter Gefährdungsvorsatz, Grenzkasuistik zu Würgen und Strangulation, verkehrsrechtlichen Gefährdungen (Schikanestopp, Rammen) sowie Waffen- und Messereinsatz — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-129.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 90 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,11 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 129 StGB — Gefährdung des Lebens**
->
-> Wer einen Menschen in skrupelloser Weise in unmittelbare Lebensgefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Fassung gemäss Ziff. I des Bundesgesetzes vom 23. Juni 1989 über die Änderung des Schweizerischen Strafgesetzbuches (Strafbare Handlungen gegen Leib und Leben, gegen die Sittlichkeit und gegen die Familie), in Kraft seit 1. Januar 1990 (AS 1989 2449; BBl 1985 II 1009, S. 1047 f.). Strafdrohung angepasst durch das Bundesgesetz vom 13. Dezember 2002 (Allgemeiner Teil des StGB und Sanktionenreform), in Kraft seit 1. Januar 2007 (AS 2006 3459).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 4 ATSG — Unfall"
 weight: 4
 date: 2026-09-25
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 4 ATSG: Die fünf Begriffsmerkmale des Unfalls (Plötzlichkeit, Unabsichtlichkeit, äusserer Faktor, Ungewöhnlichkeit, Körperschaden), Kauschäden, Sportverletzungen, Programmwidrigkeit, Schreckereignisse, Kausalität, Abgrenzung zu Art. 6 Abs. 2 UVG sowie Beweismaximen."
 tags: ["ATSG", "Sozialversicherungsrecht", "Unfallbegriff", "Ungewöhnlicher äusserer Faktor", "Plötzlichkeit", "Kauschaden", "Programmwidrigkeit", "Schleudertrauma", "Adäquanz", "Aussagen der ersten Stunde", "UVG", "KVG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,12 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 4 — Unfall**
->
-> Unfall ist die plötzliche, nicht beabsichtigte schädigende Einwirkung eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper, die eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit oder den Tod zur Folge hat.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 830.1](https://www.fedlex.admin.ch/eli/cc/2002/510/de), Stand der Konsolidierung 1. Januar 2024. Fassung gemäss Anhang Ziff. 2 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Januar 2004 (AS 2003 3837; BBl 2001 3205).*
 
 ### Die fünf Begriffsmerkmale des Unfalls auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 229 ZPO — Neue Tatsachen und Beweismittel"
 weight: 229
 date: 2026-07-18
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 229 ZPO: Erstinstanzliches Novenrecht nach der ZPO-Revision 2025 — unbeschränkte Noven im ersten Parteivortrag (Abs. 1), Aktenschluss nach zweitem Schriftenwechsel oder Instruktionsverhandlung (Abs. 2), echte und unechte Noven, Potestativ- und Dupliknoven, Noven nach ersten Parteivorträgen (Abs. 2bis) sowie Tragweite bei Untersuchungsmaxime (Abs. 3) und Summarverfahren."
 tags: ["ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss", "Revision 2025", "Echte Noven", "Unechte Noven", "Dupliknoven", "Potestativnoven", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-229.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,20 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 229 ZPO (SR 272)** — Neue Tatsachen und Beweismittel
->
-> **1** Hat weder ein zweiter Schriftenwechsel noch eine Instruktionsverhandlung stattgefunden, so können neue Tatsachen und Beweismittel in der Hauptverhandlung im ersten Parteivortrag nach Artikel 228 Absatz 1 unbeschränkt vorgebracht werden.
->
-> **2** In den anderen Fällen können neue Tatsachen und Beweismittel innerhalb einer vom Gericht festgelegten Frist oder, bei Fehlen einer solchen Frist, spätestens bis zum ersten Parteivortrag in der Hauptverhandlung nach Artikel 228 Absatz 1 vorgebracht werden, wenn sie:
-> **a.** erst nach Abschluss des Schriftenwechsels oder nach der letzten Instruktionsverhandlung entstanden sind (echte Noven); oder
-> **b.** bereits vor Abschluss des Schriftenwechsels oder vor der letzten Instruktionsverhandlung vorhanden waren, aber trotz zumutbarer Sorgfalt nicht vorher vorgebracht werden konnten (unechte Noven).
->
-> **2bis** Nach den ersten Parteivorträgen werden neue Tatsachen und Beweismittel nach Absatz 2 Buchstaben a und b nur noch berücksichtigt, wenn sie in der vom Gericht festgelegten Frist oder, bei Fehlen einer solchen Frist, spätestens in der nächsten Verhandlung vorgebracht werden.
->
-> **3** Hat das Gericht den Sachverhalt von Amtes wegen abzuklären, so berücksichtigt es neue Tatsachen und Beweismittel bis zur Urteilsberatung.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 272](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de), Stand der Konsolidierung 1. Juli 2026. Abs. 1 und 2 in der Fassung sowie Abs. 2bis eingefügt gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Januar 2025 (AS 2023 491; BBl 2020 2697).*
 
 ### Die Novenordnung auf einen Blick
 

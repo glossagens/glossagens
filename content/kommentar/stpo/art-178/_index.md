@@ -2,11 +2,16 @@
 title: "Art. 178 StPO — Begriff (Auskunftsperson)"
 weight: 178
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 178 StPO: Begriff der Auskunftsperson — sieben Einvernahmetatbestände, Abgrenzung zur beschuldigten Person und zur Zeugin bzw. zum Zeugen, Verfahrensstellung bei Mitbeschuldigung, Getrenntverfahren und Unternehmensvertretung"
 tags: ["StPO", "Auskunftsperson", "Zeugeneinvernahme", "Einvernahme", "Mitbeschuldigung", "Privatklägerschaft", "Urteilsfähigkeit", "Unternehmensvertretung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-178.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,30 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 178 StPO — Begriff**
->
-> Als Auskunftsperson wird einvernommen, wer:
->
-> **a.**
-> sich als Privatklägerschaft konstituiert hat;
->
-> **b.**
-> zur Zeit der Einvernahme das 15. Altersjahr noch nicht zurückgelegt hat;
->
-> **c.**
-> wegen eingeschränkter Urteilsfähigkeit nicht in der Lage ist, den Gegenstand der Einvernahme zu erfassen;
->
-> **d.**
-> ohne selber beschuldigt zu sein, als Täterin, Täter, Teilnehmerin oder Teilnehmer der abzuklärenden Straftat oder einer anderen damit zusammenhängenden Straftat nicht ausgeschlossen werden kann;
->
-> **e.**
-> als mitbeschuldigte Person zu einer ihr nicht selber zur Last gelegten Straftat zu befragen ist;
->
-> **f.**
-> in einem andern Verfahren wegen einer Tat, die mit der abzuklärenden Straftat in Zusammenhang steht, beschuldigt ist;
->
-> **g.**
-> in einem gegen ein Unternehmen gerichteten Strafverfahren als Vertreterin oder Vertreter des Unternehmens bezeichnet worden ist oder bezeichnet werden könnte, sowie ihre oder seine Mitarbeiterinnen und Mitarbeiter.
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 930 ZGB — Eigentumsvermutung des Besitzers"
 weight: 930
 date: "2026-09-13"
-lastmod: "2026-09-15"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 930 ZGB — Eigentumsvermutung des Besitzers beweglicher Sachen: Vermutungsbasis (Besitz, selbständiger Besitz, unzweideutiger Besitz), Zweideutigkeit als Grenze (Bargeld, Börsenagent/Kommissionär), Widerlegbarkeit durch Nachweis gültigen Eigentumserwerbs, Beweislast bei der Vindikation, Wirkung gegenüber dem unmittelbaren Vorbesitzer, rückwirkende Vermutung für frühere Besitzer (Abs. 2) und Verhältnis zu Art. 714, 931, 933–936, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Eigentumsvermutung", "Besitz", "Beweislast", "Vindikation", "unzweideutiger Besitz", "Vermutungsbasis", "Rechtsschein", "Gutglaubensschutz", "selbständiger Besitz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-930.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,13 +26,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 930 ZGB**
->
-> 1. Vom Besitzer einer beweglichen Sache wird vermutet, dass er ihr Eigentümer sei.
-> 2. Für jeden früheren Besitzer besteht die Vermutung, dass er in der Zeit seines Besitzes Eigentümer der Sache gewesen ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 930 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung statuiert die **Eigentumsvermutung des Besitzers**: vom Besitzer einer beweglichen Sache wird vermutet, dass er ihr Eigentümer sei (Abs. 1); für jeden früheren Besitzer besteht die Vermutung, dass er in der Zeit seines Besitzes Eigentümer gewesen ist (Abs. 2). Die Vermutung ist die dogmatische Grundlage des Gutglaubensschutzes und der Beweislastverteilung bei der Vindikation: der Besitz schafft den Rechtsschein des Eigentums, auf den sich der Besitzer — und der gutgläubige Dritterwerber — verlassen darf. Eine digital verfügbare Botschaft zu Art. 930 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 930 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung statuiert die **Eigentumsvermutung des Besitzers**: vom Besitzer einer beweglichen Sache wird vermutet, dass er ihr Eigentümer sei (Abs. 1); für jeden früheren Besitzer besteht die Vermutung, dass er in der Zeit seines Besitzes Eigentümer gewesen ist (Abs. 2). Die Vermutung ist die dogmatische Grundlage des Gutglaubensschutzes und der Beweislastverteilung bei der Vindikation: der Besitz schafft den Rechtsschein des Eigentums, auf den sich der Besitzer — und der gutgläubige Dritterwerber — verlassen darf. Eine digital verfügbare Botschaft zu Art. 930 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

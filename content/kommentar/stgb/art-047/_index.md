@@ -2,11 +2,16 @@
 title: "Art. 47 StGB — Strafzumessung"
 weight: 47
 date: 2026-08-11
-lastmod: 2026-09-30
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 47 StGB: Grundsätze der Strafzumessung, Drei-Stufen-Modell (objektive und subjektive Tatkomponenten, hypothetische Einsatzstrafe, Täterkomponenten), Doppelverwertungsverbot, Geständnisrabatt, Strafempfindlichkeit, Verbindungsbusse, überlange Verfahrensdauer, Kasuistik und taktische Praxishinweise."
 tags: ["StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Einsatzstrafe", "Drei-Stufen-Modell", "Doppelverwertungsverbot", "Geständnisrabatt", "Strafempfindlichkeit", "Verbindungsbusse", "Beschleunigungsgebot", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-047.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-30
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -21,14 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 47 StGB — Strafzumessung**
->
-> 1 Das Gericht misst die Strafe nach dem Verschulden des Täters zu. Es berücksichtigt das Vorleben und die persönlichen Verhältnisse sowie die Wirkung der Strafe auf das Leben des Täters.
->
-> 2 Das Verschulden wird nach der Schwere der Verletzung oder Gefährdung des betroffenen Rechtsguts, nach der Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie danach bestimmt, wie weit der Täter nach den inneren und äusseren Umständen in der Lage war, die Gefährdung oder Verletzung zu vermeiden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026.*
 
 ### Die Strafzumessungsstufen auf einen Blick
 

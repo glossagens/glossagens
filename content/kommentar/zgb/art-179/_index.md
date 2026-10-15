@@ -2,11 +2,16 @@
 title: "Art. 179 — Eheschutz: Anpassung der Massregeln"
 weight: 179
 date: "2026-08-28"
-lastmod: "2026-08-28"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 179 ZGB – Abänderung und Aufhebung von Eheschutzmassnahmen bei veränderten Verhältnissen, Kriterien der Erheblichkeit und Dauerhaftigkeit, Abänderung von Vereinbarungen und Dahinfallen bei Wiederaufnahme des Zusammenlebens"
 tags: ["ZGB", "Familienrecht", "Eherecht", "Eheschutz", "Abänderung", "Unterhalt", "Wiederaufnahme des Zusammenlebens", "Vorsorgliche Massnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-179.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 179 ZGB — E. Anpassung der Massregeln**
->
-> 1 Ändern sich die Verhältnisse, so passt das Gericht auf Begehren eines Ehegatten die Massnahmen an oder hebt sie auf, wenn ihr Grund weggefallen ist. Die Bestimmungen über die Änderung der Verhältnisse bei Scheidung gelten sinngemäss.
->
-> 2 Nehmen die Ehegatten das Zusammenleben wieder auf, so fallen die für das Getrenntleben angeordneten Massnahmen mit Ausnahme der Gütertrennung und der Kindesschutzmassnahmen dahin.
+{{< wortlaut >}}
 
 ## Kommentierung
 

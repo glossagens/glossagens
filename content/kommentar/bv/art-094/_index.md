@@ -2,12 +2,17 @@
 title: "Art. 94 BV — Grundsätze der Wirtschaftsordnung"
 weight: 94
 date: 2026-08-09
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 94 BV: Grundsätze der Wirtschaftsordnung — Wirtschaftsfreiheit, Interessen der Gesamtwirtschaft, Wettbewerbsbeschränkungen, Regalrechte"
 tags: ["BV", "Wirtschaftsfreiheit", "Wirtschaftsordnung", "Wettbewerb", "Regalrechte", "Grundrechte"]
 agent_verified: false
 mcp_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-094.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -22,17 +27,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 94 BV — Grundsätze der Wirtschaftsordnung**
->
-> 1 Bund und Kantone halten sich an den Grundsatz der Wirtschaftsfreiheit.
->
-> 2 Sie wahren die Interessen der schweizerischen Gesamtwirtschaft und tragen mit der privaten Wirtschaft zur Wohlfahrt und zur wirtschaftlichen Sicherheit der Bevölkerung bei.
->
-> 3 Sie sorgen im Rahmen ihrer Zuständigkeiten für günstige Rahmenbedingungen für die private Wirtschaft.
->
-> 4 Abweichungen vom Grundsatz der Wirtschaftsfreiheit, insbesondere auch Massnahmen, die sich gegen den Wettbewerb richten, sind nur zulässig, wenn sie in der Bundesverfassung vorgesehen oder durch kantonale Regalrechte begründet sind.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Kommentierung
 

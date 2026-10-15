@@ -2,11 +2,16 @@
 title: "Art. 400 — Rechenschafts- und Herausgabepflicht"
 weight: 400
 date: 2026-09-05
-lastmod: 2026-09-26
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 400 OR — Rechenschaftsablegung, Herausgabepflicht für alle Vorteile aus der Geschäftsführung, Retrozessionen, strafrechtliche Relevanz der Nicht-Weitergabe (Art. 158 StGB), Verzinsungspflicht, Verzicht, vorsorgliche Beweisführung, Berufsgeheimnis"
 tags: ["OR", "Auftragsrecht", "Rechenschaft", "Herausgabe", "Retrozessionen", "Ungetreue Geschäftsbesorgung", "StGB 158", "Verzinsung", "Berufsgeheimnis", "Vorsorgliche Beweisführung", "Vermögensverwaltung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-400.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,11 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Beauftragte ist schuldig, auf Verlangen jederzeit über seine Geschäftsführung Rechenschaft abzulegen und alles, was ihm infolge derselben aus irgendeinem Grunde zugekommen ist, zu erstatten.
->
-> **2** Gelder, mit deren Ablieferung er sich im Rückstande befindet, hat er zu verzinsen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

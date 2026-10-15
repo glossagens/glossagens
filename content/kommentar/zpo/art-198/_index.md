@@ -2,11 +2,16 @@
 title: "Art. 198 ZPO — Ausnahmen vom Schlichtungsversuch"
 weight: 198
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Umfassender Praxiskommentar zu Art. 198 ZPO: Gesetzliche Ausnahmen vom Schlichtungsobligatorium, Summarverfahren, Status- und Kinderbelange, SchKG-Klagen, Klagenhäufung und Prosekutionsfallen."
 tags: ["ZPO", "Schlichtungsverfahren", "Prozessvoraussetzungen", "Klagenhäufung", "Bauhandwerkerpfandrecht", "Aberkennungsklage", "Summarverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-198.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,39 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 198 Ausnahmen**
-> 
-> Das Schlichtungsverfahren entfällt:
-> 
-> a. im summarischen Verfahren;
-> 
-> a^bis. bei Klagen wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28b ZGB oder betreffend eine elektronische Überwachung nach Artikel 28c ZGB;
-> 
-> b. bei Klagen über den Personenstand;
-> 
-> b^bis. bei Klagen über den Unterhalt von minder- und volljährigen Kindern und weitere Kinderbelange;
-> 
-> c. im Scheidungsverfahren;
-> 
-> d. im Verfahren zur Auflösung und zur Ungültigerklärung der eingetragenen Partnerschaft;
-> 
-> e. bei folgenden Klagen aus dem SchKG:
-> 1. Aberkennungsklage (Art. 83 Abs. 2 SchKG),
-> 2. Feststellungsklage (Art. 85a SchKG),
-> 3. Widerspruchsklage (Art. 106–109 SchKG),
-> 4. Anschlussklage (Art. 111 SchKG),
-> 5. Aussonderungs- und Admassierungsklage (Art. 242 SchKG),
-> 6. Kollokationsklage (Art. 148 und 250 SchKG),
-> 7. Klage auf Feststellung neuen Vermögens (Art. 265a SchKG),
-> 8. Klage auf Rückschaffung von Retentionsgegenständen (Art. 284 SchKG);
-> 
-> f. bei Streitigkeiten, für die nach Artikel 7 dieses Gesetzes eine einzige kantonale Instanz zuständig ist;
-> 
-> g. bei der Hauptintervention, der Widerklage und der Streitverkündungsklage;
-> 
-> h. wenn das Gericht eine Frist für eine Klage gesetzt hat sowie bei Klagen, die mit einer solchen Klage vereint werden, sofern die Klagen in einem sachlichen Zusammenhang stehen;
-> 
-> i. bei Klagen vor dem Bundespatentgericht.
+{{< wortlaut >}}
 
 *Fassung von lit. a^bis gemäss BG vom 14. Dezember 2018 (Gewaltschutz), in Kraft seit 1. Juli 2020 (AS 2019 2273; BBl 2017 7307). Fassung von lit. b^bis, f, h und i gemäss BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Januar 2025 (AS 2023 491; BBl 2020 2697).*
 

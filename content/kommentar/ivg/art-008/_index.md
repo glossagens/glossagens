@@ -2,52 +2,21 @@
 title: "Art. 8 IVG — Grundsatz (Eingliederungsmassnahmen)"
 weight: 8
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 IVG: Grundsatz der Eingliederungsmassnahmen — Anspruchsvoraussetzungen (Abs. 1), Unabhängigkeit von Erwerbstätigkeit (Abs. 1bis), Massnahmenkatalog (Abs. 3); Verhältnis zu ATSG und IVV."
 tags: ["IVG", "Invalidenversicherung", "Eingliederungsmassnahmen", "Hilfsmittel", "Umschulung", "Integrationsmassnahmen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> **Art. 8 IVG — Grundsatz**
->
-> **1** Invalide oder von einer Invalidität (Art. 8 ATSG) bedrohte Versicherte haben Anspruch auf Eingliederungsmassnahmen, soweit:
->
-> a. diese notwendig und geeignet sind, die Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen, wieder herzustellen, zu erhalten oder zu verbessern; und
->
-> b. die Voraussetzungen für den Anspruch auf die einzelnen Massnahmen erfüllt sind.
->
-> **1bis** Der Anspruch auf Eingliederungsmassnahmen besteht unabhängig von der Ausübung einer Erwerbstätigkeit vor Eintritt der Invalidität. Bei der Festlegung der Massnahmen sind insbesondere zu berücksichtigen:
->
-> a. das Alter;
->
-> b. der Entwicklungsstand;
->
-> c. die Fähigkeiten der versicherten Person; und
->
-> d. die zu erwartende Dauer des Erwerbslebens.
->
-> **1ter** Bei Abbruch einer Eingliederungsmassnahme wird nach Massgabe der Absätze 1 und 1bis eine wiederholte Zusprache derselben oder einer anderen Eingliederungsmassnahme geprüft.
->
-> **2** Nach Massgabe der Artikel 13 und 21 besteht der Anspruch auf Leistungen unabhängig von der Möglichkeit einer Eingliederung ins Erwerbsleben oder in den Aufgabenbereich.
->
-> **2bis** Nach Massgabe von Artikel 16 Absatz 3 Buchstabe b besteht der Anspruch auf Leistungen unabhängig davon, ob die Eingliederungsmassnahmen notwendig sind oder nicht, um die Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen, zu erhalten oder zu verbessern.
->
-> **3** Die Eingliederungsmassnahmen bestehen in:
->
-> a. medizinischen Massnahmen;
->
-> a^bis^. Beratung und Begleitung;
->
-> a^ter^. Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung;
->
-> b. Massnahmen beruflicher Art;
->
-> d. der Abgabe von Hilfsmitteln.
-
-*(Fedlex-Stand: 1. Januar 2026 — SR 831.20; Fassung gemäss BG vom 19. Juni 2020, Weiterentwicklung der IV, in Kraft seit 1. Jan. 2022)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

@@ -2,11 +2,16 @@
 title: "Art. 22 — Höhe des Taggeldes"
 weight: 22
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 AVIG – Höhe des Taggeldes"
 tags: ["AVIG", "Taggeld", "versicherter Verdienst", "Kinderzuschlag", "Arbeitslosenentschädigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "glm-5.1"
@@ -16,27 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 Höhe des Taggeldes**
->
-> 1 Ein volles Taggeld beträgt 80 Prozent des versicherten Verdienstes. Die versicherte Person erhält zudem einen Zuschlag, der den auf den Tag umgerechneten Familienzulagen nach Artikel 3 Absatz 1 des Familienzulagengesetzes vom 24. März 2006 (SR 836.2) entspricht, auf die sie Anspruch hätte, wenn sie in einem Arbeitsverhältnis stünde. Dieser Zuschlag wird nur ausbezahlt, soweit:
->
-> a. die Familienzulagen der versicherten Person während der Arbeitslosigkeit nicht ausgerichtet werden; und
->
-> b. für dasselbe Kind kein Anspruch einer erwerbstätigen Person besteht.
->
-> 2 Ein Taggeld in der Höhe von 70 Prozent des versicherten Verdienstes erhalten Versicherte, die:
->
-> a. keine Unterhaltspflicht gegenüber Kindern unter 25 Jahren haben;
->
-> b. ein volles Taggeld erreichen, das mehr als 140 Franken beträgt; und
->
-> c. keine Invalidenrente beziehen, die einem Invaliditätsgrad von mindestens 40 Prozent entspricht.
->
-> 3 Der Bundesrat passt den Mindestansatz nach Absatz 2 Buchstabe b in der Regel alle zwei Jahre auf Beginn des Kalenderjahres nach den Grundsätzen der AHV an.
->
-> 4 und 5 … (aufgehoben)
-
-*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/de#art_art22), Konsolidierungsstand 1.1.2026*
+{{< wortlaut >}}
 
 ## Kommentierung
 

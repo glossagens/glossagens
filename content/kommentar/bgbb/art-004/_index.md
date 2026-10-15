@@ -2,11 +2,16 @@
 title: "Art. 4 — Besondere Bestimmungen für landwirtschaftliche Gewerbe"
 weight: 4
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 4 BGBB (SR 211.412.11): Geltungsbereich der Sondernormen für landwirtschaftliche Gewerbe (Abs. 1), Einbezug von Mehrheitsbeteiligungen an juristischen Personen (Abs. 2), Ausnahmen für abgetrennte Grundstücke (Abs. 3). Leitentscheide BGE 140 II 233 (juristische Personen, Anteilsveräusserung), BGE 129 III 693 (Begriff des landwirtschaftlichen Gewerbes), BGE 134 III 1 (Zugrecht des Erben)."
 tags: ["BGBB", "landwirtschaftliches Gewerbe", "juristische Person", "Bewilligungspflicht", "Vorkaufsrecht", "Erbenzuweisung", "Zupachtland"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.11 vom 2014-01-01 (data/wortlaut/bgbb/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 4 BGBB — Besondere Bestimmungen für landwirtschaftliche Gewerbe**
->
-> **1** Für Grundstücke, die für sich allein oder zusammen mit andern Grundstücken ein landwirtschaftliches Gewerbe bilden, gelten die besonderen Bestimmungen dieses Gesetzes über die landwirtschaftlichen Gewerbe.
->
-> **2** Die Bestimmungen über die landwirtschaftlichen Gewerbe gelten auch für eine Mehrheitsbeteiligung an einer juristischen Person, deren Aktiven zur Hauptsache aus einem landwirtschaftlichen Gewerbe bestehen.
->
-> **3** Die Bestimmungen über landwirtschaftliche Gewerbe gelten nicht für landwirtschaftliche Grundstücke, die: a. zu einem landwirtschaftlichen Gewerbe gemäss Artikel 8 gehören; b. mit Genehmigung der Bewilligungsbehörde vom landwirtschaftlichen Gewerbe abgetrennt werden dürfen.
-
-*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1993/1410_1410_1410/de#art_4)*
+{{< wortlaut >}}
 
 ## Systematische Einordnung
 

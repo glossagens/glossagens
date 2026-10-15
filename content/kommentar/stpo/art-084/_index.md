@@ -2,11 +2,16 @@
 title: "Art. 84 — Eröffnung der Entscheide"
 weight: 84
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 84 StPO – Eröffnung der Entscheide, mündliche Verkündung, Urteilsdispositiv, Begründungsfristen und Mitteilungspflichten."
 tags: ["StPO", "Eröffnung", "Urteilsdispositiv", "Begründung", "Fristen", "Justizöffentlichkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-084.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-29"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 84 Eröffnung der Entscheide**
->
-> **1** Ist das Verfahren öffentlich, so eröffnet das Gericht das Urteil im Anschluss an die Urteilsberatung mündlich und begründet es kurz.
->
-> **2** Das Gericht händigt den Parteien am Ende der Hauptverhandlung das Urteilsdispositiv aus oder stellt es ihnen innert 5 Tagen zu.
->
-> **3** Kann das Gericht das Urteil nicht sofort fällen, so holt es dies so bald als möglich nach und eröffnet das Urteil in einer neu angesetzten Hauptverhandlung. Verzichten die Parteien in diesem Falle auf eine öffentliche Urteilsverkündung, so stellt ihnen das Gericht das Dispositiv sofort nach der Urteilsfällung zu.
->
-> **4** Muss das Gericht das Urteil begründen, so stellt es innert 60 Tagen, ausnahmsweise 90 Tagen, der beschuldigten Person und der Staatsanwaltschaft das vollständige begründete Urteil zu, den übrigen Parteien nur jene Teile des Urteils, in denen ihre Anträge behandelt werden.
->
-> **5** Die Strafbehörde eröffnet einfache verfahrensleitende Beschlüsse oder Verfügungen den Parteien schriftlich oder mündlich.
->
-> **6** Entscheide sind nach den Bestimmungen des eidgenössischen und kantonalen Rechts anderen Behörden, Rechtsmittelentscheide auch der Vorinstanz, rechtskräftige Entscheide soweit nötig den Vollzugs- und den Strafregisterbehörden mitzuteilen.
+{{< wortlaut >}}
 
 ---
 

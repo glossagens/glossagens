@@ -2,11 +2,16 @@
 title: "Art. 28 ZGB — Persönlichkeitsschutz"
 weight: 28
 date: 2026-05-31
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 28 ZGB: Schutz der Persönlichkeit gegen widerrechtliche Verletzungen, Mitwirkung und Rechtfertigungsgründe mit umfassender Kasuistik."
 tags: ["ZGB", "Persönlichkeitsschutz", "Persönlichkeitsverletzung", "Widerrechtlichkeit", "Medienrecht", "Datenschutz", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-028.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -26,10 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Wer in seiner Persönlichkeit widerrechtlich verletzt wird, kann zu seinem Schutz gegen jeden, der an der Verletzung mitwirkt, das Gericht anrufen.
->
-> 2 Eine Verletzung ist widerrechtlich, wenn sie nicht durch Einwilligung des Verletzten, durch ein überwiegendes privates oder öffentliches Interesse oder durch Gesetz gerechtfertigt ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

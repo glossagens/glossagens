@@ -2,11 +2,16 @@
 title: "Art. 312 StGB — Amtsmissbrauch"
 weight: 312
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 312 StGB (Amtsmissbrauch): Tatbegriff der Amtsgewalt, Ausnützung hoheitlicher Zwangsbefugnisse, zweiseitige Grenzkasuistik (Polizeieinsätze, Pfefferspray, digitale Registerabfragen), Judikaturdivergenzen, Ermächtigungsverfahren und Praxishinweise."
 tags: ["StGB", "Amtsdelikte", "Amtsmissbrauch", "Amtsgewalt", "Polizeigewalt", "Ermächtigungsverfahren", "Nachteilsabsicht", "Vorteilsabsicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-312.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,12 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 312 StGB — Amtsmissbrauch**
->
-> Mitglieder einer Behörde oder Beamte, die ihre Amtsgewalt missbrauchen, um sich oder einem andern einen unrechtmässigen Vorteil zu verschaffen oder einem andern einen Nachteil zuzufügen, werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_312), Stand der Konsolidierung 1. Oktober 2026. Strafrahmen in der Fassung gemäss Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ---
 

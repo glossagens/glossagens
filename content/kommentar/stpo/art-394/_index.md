@@ -2,11 +2,16 @@
 title: "Art. 394 StPO — Ausschluss der Beschwerde"
 weight: 394
 date: "2026-05-30"
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 394 StPO: Subsidiarität der Beschwerde gegenüber der Berufung (lit. a) und Ausschluss bei ohne Rechtsnachteil wiederholbaren Beweisanträgen (lit. b); Begriff des Rechtsnachteils und Abgrenzung zur Aktenentfernung."
 tags: ["StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil", "Aktenentfernung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-394.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,15 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 394 StPO — Ausschluss der Beschwerde**
->
-> Die Beschwerde ist nicht zulässig:
->
-> a. wenn die Berufung möglich ist;
->
-> b. gegen die Ablehnung von Beweisanträgen durch die Staatsanwaltschaft oder die Übertretungsstrafbehörde, wenn der Antrag ohne Rechtsnachteil vor dem erstinstanzlichen Gericht wiederholt werden kann.
-
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

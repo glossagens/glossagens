@@ -2,11 +2,16 @@
 title: "Art. 426 ZGB — Fürsorgerische Unterbringung"
 weight: 426
 date: 2026-05-22
-lastmod: 2026-09-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 426 ZGB: Voraussetzungen der fürsorgerischen Unterbringung (psychische Störung, geistige Behinderung, schwere Verwahrlosung), Subsidiarität und Verhältnismässigkeit, freie Willensbildung bei freiwilligem Eintritt, Vorrang der Patientenautonomie, Berücksichtigung der Angehörigenbelastung, striktes Verbot reiner Fremdgefährdungsunterbringung, Entlassungsanspruch sowie verfahrensrechtliche Garantien mit umfassender Abgrenzungskasuistik."
 tags: ["ZGB", "Erwachsenenschutz", "Fürsorgerische Unterbringung", "FU", "Selbstgefährdung", "Fremdgefährdung", "Patientenautonomie", "Schwere Verwahrlosung", "Demenz", "Sucht", "Subsidiarität", "Gutachtenpflicht", "Verfahrensgarantien"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-426.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,18 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 426 ZGB — Fürsorgerische Unterbringung (Grundsatz)**
->
-> ^1 Eine Person, die an einer psychischen Störung oder an geistiger Behinderung leidet oder schwer verwahrlost ist, darf in einer geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder Betreuung nicht anders erfolgen kann.
->
-> ^2 Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
->
-> ^3 Die betroffene Person wird entlassen, sobald die Voraussetzungen für die Unterbringung nicht mehr erfüllt sind.
->
-> ^4 Die betroffene oder eine ihr nahestehende Person kann jederzeit um Entlassung ersuchen. Über dieses Gesuch ist ohne Verzug zu entscheiden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 210](https://www.fedlex.admin.ch/eli/cc/24/233_245_247/de), Stand der Konsolidierung 1. Juli 2026. Eingefügt durch Ziff. I 1 des BG vom 19. Dezember 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Januar 2013 (AS 2011 725; BBl 2006 7001).*
 
 ### Die Tatbestände und Schranken auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 935 ZGB — Geld und Inhaberpapiere (kategorischer Gutglaubensschutz)"
 weight: 935
 date: "2026-09-13"
-lastmod: "2026-09-15"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 935 ZGB — gutgläubiger Erwerb von Geld und Inhaberpapieren: kategorischer Ausschluss des Rückforderungsrechts auch bei Abhandenkommen (Ausnahme zur Ausnahme des Art. 934), Begriff des Geldes und Abgrenzung zu Sammlermünzen, Inhaberpapiere (Inhaberschuldbrief, Inhaberaktie, Inhaberobligation) und Abgrenzung zu Order-/Rektapapieren, Voraussetzung eines Erwerbsgeschäfts, Bösgläubigkeit (Art. 936) und Hehlerei, Schuldbriefe als Inhaberpapiere (lex specialis Art. 862/863 ZGB), Kraftloserklärung (Art. 971 OR, Art. 865 ZGB) und Kulturgüter (KGTG) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Geld", "Inhaberpapiere", "gutgläubiger Erwerb", "nemo plus iuris", "Inhaberschuldbrief", "Schuldbrief", "Kraftloserklärung", "Kulturgüter", "KGTG", "Hehlerei", "Bösgläubigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-935.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,12 +26,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 935 ZGB**
->
-> Geld und Inhaberpapiere können, auch wenn sie dem Besitzer gegen seinen Willen abhanden gekommen sind, dem gutgläubigen Empfänger nicht abgefordert werden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 935 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die Besitzesregel für **Geld und Inhaberpapiere** und die kategorische Ausnahme zur Ausnahme: während Art. 934 ZGB dem bestohlenen Eigentümer einer abhandengekommenen Sache ein fünfjähriges Rückforderungsrecht gewährt, schliesst Art. 935 ZGB dieses Rückforderungsrecht für Geld und Inhaberpapiere kategorisch aus — der gutgläubige Empfänger kann auch dann nicht abgefordert werden, wenn ihm die Sache gegen seinen Willen abhanden gekommen ist. Eine digital verfügbare Botschaft zu Art. 935 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 935 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die Besitzesregel für **Geld und Inhaberpapiere** und die kategorische Ausnahme zur Ausnahme: während Art. 934 ZGB dem bestohlenen Eigentümer einer abhandengekommenen Sache ein fünfjähriges Rückforderungsrecht gewährt, schliesst Art. 935 ZGB dieses Rückforderungsrecht für Geld und Inhaberpapiere kategorisch aus — der gutgläubige Empfänger kann auch dann nicht abgefordert werden, wenn ihm die Sache gegen seinen Willen abhanden gekommen ist. Eine digital verfügbare Botschaft zu Art. 935 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

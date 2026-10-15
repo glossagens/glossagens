@@ -2,11 +2,16 @@
 title: "Art. 143 — Durchführung der Einvernahme"
 weight: 143
 date: 2026-07-12
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 143 StPO – Durchführung der Einvernahme: Eingangsformalitäten, Tatvorhalt, Belehrungspflichten, Befragungstechnik und Beweisverwertung."
 tags: ["StPO", "Einvernahme", "Belehrung", "Tatvorhalt", "Beweisverwertung", "Ordnungsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-143.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,27 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 143 Durchführung der Einvernahme**
->
-> **1** Zu Beginn der Einvernahme wird die einzuvernehmende Person in einer ihr verständlichen Sprache:
->
-> **a.** über ihre Personalien befragt;
->
-> **b.** über den Gegenstand des Strafverfahrens und die Eigenschaft, in der sie einvernommen wird, informiert;
->
-> **c.** umfassend über ihre Rechte und Pflichten belehrt.
->
-> **2** Im Protokoll ist zu vermerken, dass die Bestimmungen nach Absatz 1 eingehalten worden sind.
->
-> **3** Die Strafbehörde kann weitere Erhebungen über die Identität der einzuvernehmenden Person durchführen.
->
-> **4** Sie fordert die einzuvernehmende Person auf, sich zum Gegenstand der Einvernahme zu äussern.
->
-> **5** Sie strebt durch klar formulierte Fragen und Vorhalte die Vollständigkeit der Aussagen und die Klärung von Widersprüchen an.
->
-> **6** Die einzuvernehmende Person macht ihre Aussagen aufgrund ihrer Erinnerung. Sie kann mit Zustimmung der Verfahrensleitung schriftliche Unterlagen verwenden; diese werden nach Abschluss der Einvernahme zu den Akten genommen.
->
-> **7** Sprech- und hörbehinderte Personen werden schriftlich oder unter Beizug einer geeigneten Person einvernommen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

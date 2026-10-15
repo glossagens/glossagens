@@ -2,11 +2,16 @@
 title: "Art. 319 StPO — Gründe der Einstellung"
 weight: 319
 date: "2026-07-03"
-lastmod: "2026-09-09"
+lastmod: 2026-10-15
 description: "Praxisorientierter Gesetzeskommentar zu Art. 319 StPO: Vollständige und teilweise Verfahrenseinstellung, Leitprinzip «in dubio pro duriore», Aussage gegen Aussage, Tatverdacht, Rechtfertigungsgründe, Verjährung und Prozesshindernisse, Opportunität, Opferschutz nach Abs. 2, Sperrwirkung von Teileinstellungen (ne bis in idem) und Praxishinweise."
 tags: ["StPO", "Einstellung", "in dubio pro duriore", "Tatverdacht", "Aussage gegen Aussage", "Teileinstellung", "ne bis in idem", "Opferschutz", "Rechtfertigungsgrund", "Verjährung", "Rechtsmittel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-319.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,28 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 319 StPO — Gründe**
->
-> 1 Die Staatsanwaltschaft verfügt die vollständige oder teilweise Einstellung des Verfahrens, wenn:
->
-> a. kein Tatverdacht erhärtet ist, der eine Anklage rechtfertigt;
->
-> b. kein Straftatbestand erfüllt ist;
->
-> c. Rechtfertigungsgründe einen Straftatbestand unanwendbar machen;
->
-> d. Prozessvoraussetzungen definitiv nicht erfüllt werden können oder Prozesshindernisse aufgetreten sind;
->
-> e. nach gesetzlicher Vorschrift auf Strafverfolgung oder Bestrafung verzichtet werden kann.
->
-> 2 Sie kann das Verfahren ausnahmsweise auch dann einstellen, wenn:
->
-> a. das Interesse eines Opfers, das zum Zeitpunkt der Straftat weniger als 18 Jahre alt war, es zwingend verlangt und dieses Interesse das Interesse des Staates an der Strafverfolgung offensichtlich überwiegt; und
->
-> b. das Opfer oder bei Urteilsunfähigkeit seine gesetzliche Vertretung der Einstellung zustimmt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(SR 312.0, in Kraft seit dem 1. Januar 2011).*
 
 ---
 

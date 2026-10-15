@@ -2,11 +2,16 @@
 title: "Art. 13 VwVG — Mitwirkung der Parteien"
 weight: 13
 date: 2026-06-28
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 VwVG: Mitwirkung der Parteien — Mitwirkungspflichten, Schutz des Anwaltsgeheimnisses (Abs. 1bis), Nichteintreten bei Mitwirkungsverweigerung (Abs. 2) und Kasuistik."
 tags: ["VwVG", "Mitwirkungspflicht", "Sachverhaltsermittlung", "Anwaltsgeheimnis", "Nichteintreten", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,17 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 13 VwVG (SR 172.021)** — Mitwirkung der Parteien
->
-> **1** Die Parteien sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirken:
-> a. in einem Verfahren, das sie durch ihr Begehren einleiten;
-> b. in einem anderen Verfahren, soweit sie darin selbständige Begehren stellen;
-> c. soweit ihnen nach einem anderen Bundesgesetz eine weitergehende Auskunfts- oder Offenbarungspflicht obliegt.
->
-> **1bis** Die Mitwirkungspflicht erstreckt sich nicht auf die Herausgabe von Gegenständen und Unterlagen aus dem Verkehr einer Partei mit ihrem Anwalt, wenn dieser nach dem Anwaltsgesetz vom 23. Juni 2000 zur Vertretung vor schweizerischen Gerichten berechtigt ist.
->
-> **2** Die Behörde braucht auf Begehren im Sinne von Absatz 1 Buchstabe a oder b nicht einzutreten, wenn die Parteien die notwendige und zumutbare Mitwirkung verweigern.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

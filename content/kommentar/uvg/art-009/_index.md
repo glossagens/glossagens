@@ -2,11 +2,16 @@
 title: "Art. 9 UVG — Berufskrankheiten"
 weight: 9
 date: 2026-10-14
-lastmod: 2026-10-14
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 9 UVG: Listenstoffe und arbeitsbedingte Erkrankungen nach Abs. 1 (50%-Schwelle, Kausalitätsvermutung, Asbest, Lärmschwerhörigkeit, Covid-19 im Spital), Generalklausel nach Abs. 2 (75%-Schwelle, relatives Risiko RR ≥ 4, Gonarthrose, Epikondylitis, psychische Erkrankungen) sowie Ausbruchszeitpunkt, Versicherungsdeckung und Beweisrecht nach Abs. 3."
 tags: ["UVG", "Unfallversicherung", "Berufskrankheiten", "Listenstoffe", "Generalklausel", "Kausalitätsvermutung", "Asbest", "Gonarthrose", "Covid-19", "Lärmschwerhörigkeit", "Epikondylitis", "Suva"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,27 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 9 UVG — Berufskrankheiten**
->
-> ---
->
-> **Abs. 1 — Listenstoffe und arbeitsbedingte Erkrankungen (Listenkrankheiten)**
->
-> Als Berufskrankheiten gelten Krankheiten (Art. 3 ATSG), die bei der beruflichen Tätigkeit ausschliesslich oder vorwiegend durch schädigende Stoffe oder bestimmte Arbeiten verursacht worden sind. Der Bundesrat erstellt die Liste dieser Stoffe und Arbeiten sowie der arbeitsbedingten Erkrankungen.
->
-> ---
->
-> **Abs. 2 — Andere Krankheiten (Generalklausel)**
->
-> Als Berufskrankheiten gelten auch andere Krankheiten, von denen nachgewiesen wird, dass sie ausschliesslich oder stark überwiegend durch berufliche Tätigkeit verursacht worden sind.
->
-> ---
->
-> **Abs. 3 — Gleichstellung mit Berufsunfall und Ausbruchszeitpunkt**
->
-> Soweit nichts anderes bestimmt ist, sind Berufskrankheiten von ihrem Ausbruch an einem Berufsunfall gleichgestellt. Sie gelten als ausgebrochen, sobald der Betroffene erstmals ärztlicher Behandlung bedarf oder arbeitsunfähig (Art. 6 ATSG) ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 832.20](https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 Satz 1 und Abs. 3 Satz 2 in der Fassung gemäss Anhang Ziff. 12 des BG vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), in Kraft seit 1. Januar 2003 (AS 2002 3371; BBl 1991 II 185, 1994 V 921, 1999 4523).*
 
 ### Die beiden Säulen des Berufskrankheitenrechts auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 86 ZPO — Teilklage"
 weight: 86
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Ausführlicher Kommentar zu Art. 86 ZPO (Teilklage): Echte vs. unechte Teilklage, Bestimmtheitsgebot, Rechtskraftwirkung (BGE 147 III 345), negative Feststellungswiderklage (Art. 224 Abs. 1bis ZPO nF), Verjährungsunterbrechung und detaillierte Kasuistik aus der Gerichtspraxis."
 tags: ["ZPO", "Zivilprozessrecht", "Teilklage", "Rechtskraft", "Streitgegenstand", "Widerklage", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-086.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,10 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 86 ZPO (SR 272)** — Teilklage
->
-> Ist ein Anspruch teilbar, so kann auch nur ein Teil eingeklagt werden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

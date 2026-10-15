@@ -2,11 +2,16 @@
 title: "Art. 642 ZGB — Bestandteile der Sache (Accessionsprinzip)"
 weight: 642
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 642 ZGB — Bestandteile der Sache und Accessionsprinzip: Eigentümer der Hauptsache hat Eigentum an allen Bestandteilen; Bestandteilsbegriff (äussere und innere dauernde Verbindung, Nicht-Trennbarkeit ohne Zerstörung), Abgrenzung zu Zubehör (Art. 644) und natürlichen Früchten (Art. 643), Grundstück-Bestandteile (Art. 667, 655) und Fahrnisbaute (Art. 677), Verbindung/Vermischung/Verarbeitung (Art. 725-727), Tiere (Art. 641a) und Bauhandwerkerpfandrecht (Art. 837) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Bestandteil", "Accessionsprinzip", "Einheitsprinzip", "Zubehör", "Früchte", "Fahrnisbaute", "Grundstück", "Verbindung", "Bauhandwerkerpfandrecht", "Tiere"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-642.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,13 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 642 ZGB**
->
-> 1. Wer Eigentümer einer Sache ist, hat das Eigentum an allen ihren Bestandteilen.
-> 2. Bestandteil einer Sache ist alles, was nach der am Orte üblichen Auffassung zu ihrem Bestande gehört und ohne ihre Zerstörung, Beschädigung oder Veränderung nicht abgetrennt werden kann.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 642 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung statuiert das **Accessionsprinzip** (Einheitsprinzip): der Eigentümer einer Sache hat das Eigentum an allen ihren Bestandteilen (Abs. 1). Absatz 2 definiert den Bestandteilsbegriff mit zwei kumulativen Kriterien — der substantiellen Zugehörigkeit zur Hauptsache (nach der am Orte üblichen Auffassung) und der Nicht-Trennbarkeit ohne deren Zerstörung, Beschädigung oder Veränderung. Die Norm ist die dogmatische Grundlage der sachenrechtlichen Einheit von Sache und Bestandteil: Bestandteile teilen das rechtliche Schicksal der Hauptsache und können nicht Gegenstand eines separaten Eigentums sein. Eine digital verfügbare Botschaft zu Art. 642 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 642 ZGB geht auf das ZGB von 1907 (Botschaft Huber 1904) zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung statuiert das **Accessionsprinzip** (Einheitsprinzip): der Eigentümer einer Sache hat das Eigentum an allen ihren Bestandteilen (Abs. 1). Absatz 2 definiert den Bestandteilsbegriff mit zwei kumulativen Kriterien — der substantiellen Zugehörigkeit zur Hauptsache (nach der am Orte üblichen Auffassung) und der Nicht-Trennbarkeit ohne deren Zerstörung, Beschädigung oder Veränderung. Die Norm ist die dogmatische Grundlage der sachenrechtlichen Einheit von Sache und Bestandteil: Bestandteile teilen das rechtliche Schicksal der Hauptsache und können nicht Gegenstand eines separaten Eigentums sein. Eine digital verfügbare Botschaft zu Art. 642 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

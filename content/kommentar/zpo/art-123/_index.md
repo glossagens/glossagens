@@ -2,11 +2,16 @@
 title: "Art. 123 ZPO — Nachzahlung"
 weight: 123
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 123 ZPO: Gesetzliche Nachzahlungspflicht bei unentgeltlicher Rechtspflege — Begriff der wirtschaftlichen Leistungsfähigkeit, Ermittlung des Überschusses, Anrechnung von Vermögen und Notgroschen, selbstgenutztes Wohneigentum, Mitwirkungsobliegenheit und Fiktion bei Säumnis, Streit um das Differenzhonorar des Rechtsanwalts, zehnjährige Verjährung und Kontroverse um die Hemmung durch Fristenstillstand."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Nachzahlung", "Mittellosigkeit", "Notbedarf", "Notgroschen", "Verjährung", "Mitwirkungspflicht", "Differenzhonorar", "Allgemeine Bestimmungen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-123.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -16,14 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 123 ZPO (SR 272)** — Nachzahlung
->
-> 1 Eine Partei, der die unentgeltliche Rechtspflege gewährt wurde, ist zur Nachzahlung verpflichtet, sobald sie dazu in der Lage ist.
->
-> 2 Der Anspruch des Kantons verjährt zehn Jahre nach Abschluss des Verfahrens.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex (SR 272)](https://www.fedlex.admin.ch/eli/cc/2010/262/de), Stand der Konsolidierung 1. Juli 2026.*
 
 ---
 

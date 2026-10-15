@@ -2,11 +2,16 @@
 title: "Art. 139 StGB — Diebstahl"
 weight: 139
 date: 2026-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 139 StGB: Diebstahl — Gewahrsamsbruch und Aneignung (Ziff. 1), Gewerbsmässigkeit, Bande, Waffen und besondere Gefährlichkeit (Ziff. 3 lit. a–d), Strafantragsregelung (Ziff. 4) — mit zweiseitiger Grenzkasuistik zu Gewahrsamsbegriff, Mitgewahrsam und Diebstahl vs. Veruntreuung."
 tags: ["StGB", "Diebstahl", "Vermögensdelikt", "Gewahrsamsbruch", "Aneignung", "Gewerbsmässigkeit", "Bande", "Waffe", "Mitgewahrsam", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-139.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,21 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 139 StGB — Diebstahl**
->
-> 1. Wer jemandem eine fremde bewegliche Sache zur Aneignung wegnimmt, um sich oder einen andern damit unrechtmässig zu bereichern, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
->
-> 2. …
->
-> 3. Der Dieb wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft, wenn er:
-> a. gewerbsmässig stiehlt;
-> b. den Diebstahl als Mitglied einer Bande ausführt, die sich zur fortgesetzten Verübung von Raub oder Diebstahl zusammengefunden hat;
-> c. zum Zweck des Diebstahls eine Schusswaffe oder eine andere gefährliche Waffe mit sich führt oder eine Explosion verursacht; oder
-> d. sonst wie durch die Art, wie er den Diebstahl begeht, seine besondere Gefährlichkeit offenbart.
->
-> 4. Der Diebstahl zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
-
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_139), Stand der Konsolidierung 12. Juni 2026. Ziff. 2 aufgehoben durch Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

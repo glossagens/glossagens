@@ -2,11 +2,16 @@
 title: "Art. 98 ZPO — Kostenvorschuss"
 weight: 98
 date: 2026-07-18
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 98 ZPO: Kostenvorschuss — Voraussetzungen, Höhe, Folgen der Nichtleistung, Revision 2023 (Praxistauglichkeit)."
 tags: ["ZPO", "Kostenvorschuss", "Gerichtskosten", "Prozessvoraussetzung", "Revision 2023"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-098.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,16 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 98 ZPO (SR 272)** — Kostenvorschuss
->
-> **1** Das Gericht und die Schlichtungsbehörde können von der klagenden Partei einen Vorschuss von höchstens der Hälfte der mutmasslichen Gerichtskosten verlangen.
->
-> **2** Sie können einen Vorschuss bis zur Höhe der gesamten mutmasslichen Gerichtskosten verlangen in:
-> **a.** Verfahren nach Artikel 6 Absatz 4 Buchstabe c und nach Artikel 8;
-> **b.** Schlichtungsverfahren;
-> **c.** summarischen Verfahren mit Ausnahme der vorsorglichen Massnahmen nach Artikel 248 Buchstabe d und der familienrechtlichen Streitigkeiten nach den Artikeln 271, 276, 302 und 305;
-> **d.** Rechtsmittelverfahren.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

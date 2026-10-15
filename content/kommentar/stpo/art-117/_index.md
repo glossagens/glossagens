@@ -2,11 +2,16 @@
 title: "Art. 117 StPO — Stellung des Opfers"
 weight: 117
 date: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 117 StPO: Rechtekatalog des Opfers (lit. a–g), Schutz von Kindern (Abs. 2) und Stellung der Angehörigen mit Zivilansprüchen (Abs. 3) — inklusive der Reichweitenkontroverse zur Gleichstellung der Angehörigen und des neuen Rechts auf unentgeltliche Erhaltung der Entscheide seit 1.1.2024."
 tags: ["Opfer", "Opferrechte", "Persönlichkeitsschutz", "Angehörige", "Privatklägerschaft", "OHG", "Beteiligungsrechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-117.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Claude Code"
     model: "glm-5.3-flash"
@@ -16,25 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 117 Stellung**
->
-> 1 Dem Opfer stehen besondere Rechte zu, namentlich:
-> a. das Recht auf Persönlichkeitsschutz (Art. 70 Abs. 1 Bst. a, 74 Abs. 4, 152 Abs. 1);
-> b. das Recht auf Begleitung durch eine Vertrauensperson (Art. 70 Abs. 2, 152 Abs. 2);
-> c. das Recht auf Schutzmassnahmen (Art. 152–154);
-> d. das Recht auf Aussageverweigerung (Art. 169 Abs. 4);
-> e. das Recht auf Information (Art. 305 und 330 Abs. 3);
-> f. das Recht auf eine besondere Zusammensetzung des Gerichts (Art. 335 Abs. 4);
-> g. das Recht, den Entscheid oder den Strafbefehl in der Rechtssache, in der es Opfer ist, vom Gericht oder von der Staatsanwaltschaft unentgeltlich zu erhalten, es sei denn, es verzichtet ausdrücklich darauf.
->
-> 2 Bei Opfern unter 18 Jahren kommen darüber hinaus die besonderen Bestimmungen zum Schutz ihrer Persönlichkeit zur Anwendung, namentlich betreffend:
-> a. Einschränkungen bei der Gegenüberstellung mit der beschuldigten Person (Art. 154 Abs. 4);
-> b. besondere Schutzmassnahmen bei Einvernahmen (Art. 154 Abs. 2–4);
-> c. Einstellung des Verfahrens (Art. 319 Abs. 2).
->
-> 3 Machen die Angehörigen des Opfers Zivilansprüche geltend, so stehen ihnen die gleichen Rechte zu wie dem Opfer.
-
-*(Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Lit. g wurde durch Ziff. I des BG vom 17. Juni 2022 eingefügt und gilt seit 1. Januar 2024; AS 2023 468; BBl 2019 6697.)*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

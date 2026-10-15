@@ -2,17 +2,21 @@
 title: "Art. 396 — Form und Frist (Beschwerde)"
 weight: 396
 date: 2026-07-10
-lastmod: 2026-08-13
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 396 StPO – Form und Frist der Beschwerde"
 tags: ["StPO", "Rechtsmittel", "Beschwerde", "Fristen", "Rechtsverweigerung", "Rechtsverzögerung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-396.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Abs. 1** Die Beschwerde gegen schriftlich oder mündlich eröffnete Entscheide ist innert 10 Tagen schriftlich und begründet bei der Beschwerdeinstanz einzureichen.
->
-> **Abs. 2** Beschwerden wegen Rechtsverweigerung oder Rechtsverzögerung sind an keine Frist gebunden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 802 — Auskunft und Einsicht"
 weight: 802
 date: 2026-07-31
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 802 OR: Auskunfts- und Einsichtsrecht von GmbH-Gesellschaftern, Umfang von Geschäftsbüchern und Akten, legitimes Interesse bei Revision, extensive Auslegung."
 tags: ["OR", "GmbH-Recht", "Auskunftsrecht", "Einsichtsrecht", "Gesellschafter", "Gesellschaftsrecht"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-802.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -23,15 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 802 OR — Rechte und Pflichten der Gesellschafter / Auskunft und Einsicht**
->
-> ¹ Jeder Gesellschafter kann von den Geschäftsführern Auskunft über alle Angelegenheiten der Gesellschaft verlangen.
->
-> ² Hat die Gesellschaft keine Revisionsstelle, so kann jeder Gesellschafter in die Geschäftsbücher und Akten uneingeschränkt Einsicht nehmen. Hat sie eine Revisionsstelle, so besteht ein Recht zur Einsichtnahme nur, soweit ein berechtigtes Interesse glaubhaft gemacht wird.
->
-> ³ Besteht Gefahr, dass der Gesellschafter die erlangten Kenntnisse zum Schaden der Gesellschaft für gesellschaftsfremde Zwecke verwendet, so können die Geschäftsführer die Auskunft und die Einsichtnahme im erforderlichen Umfang verweigern; auf Antrag des Gesellschafters entscheidet die Gesellschafterversammlung.
->
-> ⁴ Verweigert die Gesellschafterversammlung die Auskunft oder die Einsicht ungerechtfertigterweise, so ordnet sie das Gericht auf Antrag des Gesellschafters an.
+{{< wortlaut >}}
 
 ## Kommentierung
 

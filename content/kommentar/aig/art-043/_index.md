@@ -2,11 +2,16 @@
 title: "Art. 43 AIG — Familiennachzug zu Personen mit Niederlassungsbewilligung"
 weight: 43
 date: 2026-07-03
-lastmod: 2026-09-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 43 AIG: Rechtsanspruch von Ehegatten und minderjährigen Kindern auf Familiennachzug zu Niedergelassenen; Zusammenwohnen und Ausnahmen nach Art. 49 AIG; bedarfsgerechte Wohnung; Ausschluss bei Sozialhilfeabhängigkeit und Bezug von Ergänzungsleistungen (Abs. 1 lit. e); Sprachkompetenz und Sprachförderung; Nachzugsfristen nach Art. 47 AIG; Erlöschen nach Art. 51 Abs. 2 AIG sowie Wiedererteilung nach Widerruf — mit systematischer Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["AIG", "Familiennachzug", "Niederlassungsbewilligung", "Aufenthaltsbewilligung", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Integrationsvereinbarung", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-043.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,26 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 43 AIG — Ehegatten und Kinder von Personen mit Niederlassungsbewilligung**
->
-> 1 Ausländische Ehegatten und ledige Kinder unter 18 Jahren von Personen mit Niederlassungsbewilligung haben Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung, wenn:
-> a. sie mit diesen zusammenwohnen;
-> b. eine bedarfsgerechte Wohnung vorhanden ist;
-> c. sie nicht auf Sozialhilfe angewiesen sind;
-> d. sie sich in der am Wohnort gesprochenen Landessprache verständigen können; und
-> e. die nachziehende Person keine jährlichen Ergänzungsleistungen nach dem Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) bezieht oder wegen des Familiennachzugs beziehen könnte.
->
-> 2 Für die Erteilung der Aufenthaltsbewilligung ist anstelle der Voraussetzung nach Absatz 1 Buchstabe d die Anmeldung zu einem Sprachförderungsangebot ausreichend.
->
-> 3 Bei ledigen Kindern unter 18 Jahren findet die Voraussetzung nach Absatz 1 Buchstabe d keine Anwendung.
->
-> 4 Die Erteilung und die Verlängerung der Aufenthaltsbewilligung können mit dem Abschluss einer Integrationsvereinbarung verbunden werden, wenn ein besonderer Integrationsbedarf nach den Kriterien gemäss Artikel 58a besteht.
->
-> 5 Nach einem ordnungsgemässen und ununterbrochenen Aufenthalt von fünf Jahren haben die Ehegatten Anspruch auf Erteilung der Niederlassungsbewilligung, wenn die Integrationskriterien nach Artikel 58a erfüllt sind.
->
-> 6 Kinder unter zwölf Jahren haben Anspruch auf Erteilung der Niederlassungsbewilligung.
+{{< wortlaut >}}
 
-*Stand der Gesetzgebung: 12. Juni 2026. Fassung von Abs. 1–6 gemäss Ziff. I des Bundesgesetzes vom 16. Dezember 2016 (Integration), in Kraft seit 1. Januar 2019 (AS 2017 6521, 2018 3171; BBl 2013 2397, 2016 2821).*
 
 ---
 

@@ -2,33 +2,21 @@
 title: "Art. 25 — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen"
 weight: 25
 date: 2026-06-08
-lastmod: 2026-06-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 25 AsylG — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen: Zuständigkeit, polizeilicher Zwang, Seelsorge"
 tags: ["AsylG", "Zentren des Bundes", "Betrieb", "Sicherheit", "Ordnung", "polizeilicher Zwang", "ZAG", "Flughafen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 25 AsylG — Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen**
->
-> 1 Das SEM ist zuständig für die Sicherstellung des Betriebs in den Zentren des Bundes und in den Unterkünften an den Flughäfen. Der Betrieb umfasst insbesondere:
->   a. die Unterbringung der Asylsuchenden;
->   b. die Betreuung der Asylsuchenden;
->   c. die Gewährleistung der Sicherheit und Ordnung;
->   d. die Berücksichtigung der besonderen Bedürfnisse von Frauen und Kindern in Bezug auf ihre eigene Sicherheit.
->
-> 2 Soweit die zu schützenden Rechtsgüter es rechtfertigen und die beabsichtigten Massnahmen verhältnismässig sind, kann das SEM zur Gewährleistung der Sicherheit und Ordnung, polizeilichen Zwang und polizeiliche Massnahmen anwenden oder anordnen:
->   a. im Rahmen der Durchsuchung nach Artikel 9;
->   b. beim Vollzug von Disziplinarmassnahmen nach Artikel 25a;
->   c. bei der Gefahrenabwehr;
->   d. bei der vorübergehenden Festhaltung nach Artikel 25b.
->
-> 3 Für die Anwendung von polizeilichem Zwang und polizeilichen Massnahmen nach Absatz 2 gilt das Zwangsanwendungsgesetz vom 20. März 2008 (ZAG). Der Einsatz von Waffen ist für die Mitarbeitenden des SEM untersagt.
->
-> 4 Das SEM orientiert die asylsuchende Person nach Eintritt in das Zentrum des Bundes oder in die Unterkunft am Flughafen über die Massnahmen nach Absatz 2.
->
-> 5 Das SEM gewährt zur seelsorglichen Beratung und Betreuung allen Religionsgemeinschaften Zugang zu den Zentren des Bundes und den Unterkünften an den Flughäfen. Der Bund kann für diese Tätigkeiten durch Vereinbarung und auf Grundlage kostengünstiger Lösungen Beiträge ausrichten.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,27 +2,21 @@
 title: "Art. 7 — Landwirtschaftliches Gewerbe"
 weight: 7
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 7 BGBB: Begriff des landwirtschaftlichen Gewerbes; Standardarbeitskraft (SAK); landesübliche Bewirtschaftung; Hofdüngerabgabe und bodenunabhängige Produktion."
 tags: ["BGBB", "Landwirtschaftliches Gewerbe", "Standardarbeitskraft", "SAK", "Bäuerliches Bodenrecht", "Gewässerschutz"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.11 vom 2014-01-01 (data/wortlaut/bgbb/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 7 Abs. 1 BGBB**: Als landwirtschaftliches Gewerbe gilt eine Gesamtheit von landwirtschaftlichen Grundstücken, Bauten und Anlagen, die als Grundlage der landwirtschaftlichen Produktion dient und zu deren Bewirtschaftung, wenn sie landesüblich ist, mindestens eine Standardarbeitskraft nötig ist. Der Bundesrat legt die Faktoren und die Werte für die Berechnung einer Standardarbeitskraft in Abstimmung mit dem Landwirtschaftsrecht fest.
->
-> **Abs. 2**: Unter den gleichen Voraussetzungen gelten auch Betriebe des produzierenden Gartenbaus als landwirtschaftliches Gewerbe.
->
-> **Abs. 3**: Bei der Beurteilung, ob ein landwirtschaftliches Gewerbe vorliegt, sind diejenigen Grundstücke zu berücksichtigen, die diesem Gesetz unterstellt sind (Art. 2).
->
-> **Abs. 4**: Zudem sind zu berücksichtigen: a. die örtlichen Verhältnisse; b. die Möglichkeit, fehlende betriebsnotwendige Gebäude zu erstellen oder vorhandene umzubauen, instand zu stellen oder zu ersetzen, wenn die entsprechenden Aufwendungen für den Betrieb tragbar sind; c. die für längere Dauer zugepachteten Grundstücke.
->
-> **Abs. 4bis**: Bei der Beurteilung, ob Eigentum an einem landwirtschaftlichen Gewerbe im Sinne der Artikel 21, 36 Absatz 2, 42 Absatz 2, 47 Absatz 2 und 49 Absatz 2 vorliegt, sind die Grundstücke nach Absatz 4 Buchstabe c ebenfalls zu berücksichtigen.
->
-> **Abs. 5**: Ein gemischtes Gewerbe gilt als landwirtschaftliches Gewerbe, wenn es überwiegend landwirtschaftlichen Charakter hat.
-
-*(Fedlex-Stand: 2014-01-01; Abs. 1 in der Fassung gemäss BG vom 5. Oktober 2007, in Kraft seit 1. September 2008, AS 2008 3585)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

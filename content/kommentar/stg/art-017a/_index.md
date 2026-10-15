@@ -2,21 +2,21 @@
 title: "Art. 17a — Befreiung von der Umsatzabgabe"
 weight: 17
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 17a StG: Befreiung kollektiver Kapitalanlagen von der Umsatzabgabe; inländische Fonds (lit. b, Art. 7 KAG) und ausländische Fonds (lit. c, Art. 119 KAG); Einanlegerfonds."
 tags: ["StG", "Umsatzabgabe", "Stempelabgaben", "KAG", "Kollektive Kapitalanlagen", "Einanlegerfonds"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 641.10 vom 2024-01-01 (data/wortlaut/stg/art-017a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Von der Abgabe nach Artikel 17 Absatz 2 befreit sind: a. ausländische Staaten und Zentralbanken; b. inländische kollektive Kapitalanlagen nach Artikel 7 KAG; c. ausländische kollektive Kapitalanlagen nach Artikel 119 KAG; d. ausländische Einrichtungen der Sozialversicherung; e. ausländische Einrichtungen der beruflichen Vorsorge; f. ausländische Lebensversicherer, die einer der Bundesaufsicht vergleichbaren ausländischen Regulierung unterstehen; g. ausländische Gesellschaften, deren Aktien an einer anerkannten Börse kotiert sind, sowie ihre ausländischen konsolidierten Konzerngesellschaften.
->
-> **2** Als ausländische Einrichtungen der Sozialversicherung gelten Einrichtungen, welche die gleichen Aufgaben wie inländische Einrichtungen nach Artikel 13 Absatz 5 erfüllen und einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sind.
->
-> **3** Als ausländische Einrichtungen der beruflichen Vorsorge gelten Einrichtungen: a. die der Alters-, Hinterlassenen- und Invalidenvorsorge dienen; b. deren Mittel dauernd und ausschliesslich für die berufliche Vorsorge bestimmt sind; und c. die einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sind.
-
-*(Fedlex-Stand: 2024-01-01)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

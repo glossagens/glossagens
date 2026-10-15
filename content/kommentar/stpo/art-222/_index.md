@@ -2,11 +2,16 @@
 title: "Art. 222 StPO — Rechtsmittel"
 weight: 222
 date: 2026-08-30
-lastmod: 2026-09-22
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 222 StPO: Exklusive Beschwerdelegitimation der verhafteten Person, Ausschluss der Staatsanwaltschaft (BGE 149 IV 135) und Dritter, Anfechtungsobjekte, 10-Tage-Frist, unbeschränktes Novenrecht, Überhaftprüfung und Praxishinweise."
 tags: ["StPO", "Haft", "Beschwerde", "Haftentscheid", "Untersuchungshaft", "Sicherheitshaft", "Zwangsmassnahmengericht", "Legitimation", "Novenrecht", "Überhaft", "Ersatzmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-222.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,11 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 222 StPO — Rechtsmittel**
->
-> Einzig die verhaftete Person kann Entscheide über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- oder Sicherheitshaft bei der Beschwerdeinstanz anfechten. Vorbehalten bleibt Artikel 233.
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Fassung gemäss Ziff. I des Bundesgesetzes vom 17. Juni 2022, in Kraft seit 1. Januar 2024 ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://www.fedlex.admin.ch/eli/fga/2019/6697/de)).*
 
 *Frühere Fassung (in Kraft vom 1. Januar 2011 bis 31. Dezember 2023): «Haftentscheide können bei der Beschwerdeinstanz angefochten werden. Vorbehalten bleibt Artikel 233.»*
 

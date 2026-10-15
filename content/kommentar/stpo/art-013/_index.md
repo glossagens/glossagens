@@ -2,11 +2,16 @@
 title: "Art. 13 — Gerichte"
 weight: 13
 date: 2026-07-12
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 StPO – Gerichte: Aufzählung der gerichtlichen Befugnisse im Strafverfahren (Zwangsmassnahmengericht, erstinstanzliches Gericht, Beschwerdeinstanz, Berufungsgericht), dogmatische Grundlagen der Gerichtsorganisation und des verfassungsmässigen Richters."
 tags: ["StPO", "Gerichte", "Zwangsmassnahmengericht", "Berufungsgericht", "Beschwerdeinstanz", "verfassungsmässiger Richter", "Ausstand"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 13 StPO — Gerichte**
->
-> Gerichtliche Befugnisse im Strafverfahren haben:
->
-> **a.** das Zwangsmassnahmengericht;
->
-> **b.** das erstinstanzliche Gericht;
->
-> **c.** die Beschwerdeinstanz;
->
-> **d.** das Berufungsgericht.
+{{< wortlaut >}}
 
 ## Kommentierung
 

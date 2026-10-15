@@ -2,11 +2,16 @@
 title: "Art. 260ter StGB — Kriminelle Organisation"
 weight: 260
 date: 2026-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 260ter StGB: Beteiligung an und Unterstützung einer kriminellen Organisation — Organisationsbegriff (strukturierte Gruppe, Geheimhaltung, verbrecherischer Zweck), Beteiligung vs. Unterstützung, terroristische Gruppierungen, Subsidiarität gegenüber Einzeldelikten, humanitäre Ausnahme, bestimmender Einfluss, Strafmilderung, Auslandsbezug — mit Kasuistik zu Mafia, Drogenbanden, PKK, IS und Al-Qaida."
 tags: ["StGB", "Kriminelle Organisation", "Organisierte Kriminalität", "Terrorismus", "Bande", "Geheimhaltung", "Beteiligung", "Unterstützung", "Geldwäscherei", "Bundesgerichtsbarkeit", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-260ter.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity"
     model: "Gemini 3.6 Flash (Medium)"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 260ter StGB — Kriminelle Organisation**¹
->
-> ¹ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer:
-> a. sich an einer Organisation beteiligt, die den Zweck verfolgt:
-> 1. Gewaltverbrechen zu begehen oder sich mit verbrecherischen Mitteln zu bereichern, oder
-> 2. Gewaltverbrechen zu begehen, mit denen die Bevölkerung eingeschüchtert oder ein Staat oder eine internationale Organisation zu einem Tun oder Unterlassen genötigt werden soll; oder
-> b. eine solche Organisation in ihrer Tätigkeit unterstützt.
->
-> ² Absatz 1 Buchstabe b findet keine Anwendung auf humanitäre Dienste, die von einer unparteiischen humanitären Organisation, wie dem Internationalen Komitee vom Roten Kreuz, in Übereinstimmung mit dem gemeinsamen Artikel 3 der Genfer Abkommen vom 12. August 1949 erbracht werden.
->
-> ³ Übt der Täter einen bestimmenden Einfluss in der Organisation aus, so wird er mit Freiheitsstrafe nicht unter drei Jahren bestraft.
->
-> ⁴ Das Gericht kann die Strafe mildern (Art. 48a), wenn der Täter sich bemüht, die weitere Tätigkeit der Organisation zu verhindern.
->
-> ⁵ Strafbar ist auch, wer die Tat im Ausland begeht, wenn die Organisation ihre verbrecherische Tätigkeit ganz oder teilweise in der Schweiz ausübt oder auszuüben beabsichtigt. Artikel 7 Absätze 4 und 5 sind anwendbar.
-
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_260ter), Stand der Konsolidierung 12. Juni 2026.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

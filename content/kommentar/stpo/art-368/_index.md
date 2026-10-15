@@ -2,11 +2,16 @@
 title: "Art. 368 StPO — Gesuch um neue Beurteilung"
 weight: 368
 date: 2026-07-10
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 368 StPO: Gesuch um neue Beurteilung nach Abwesenheitsurteil, persönliche Zustellung, Begründungsobliegenheit, amtliche Prüfung der Vorladung, Entschuldbarkeit des Fernbleibens (Krankheit, Verhandlungsunfähigkeit vs. Arbeitsunfähigkeit, freies Geleit und Einreiseverbote), Beweislastverteilung, Judikaturdivergenz zum Verhältnis zur Berufung sowie adressatenbezogene Praxishinweise."
 tags: ["StPO", "Abwesenheitsverfahren", "Abwesenheitsurteil", "Neubeurteilung", "Säumnis", "Verhandlungsunfähigkeit", "Vorladung", "Rechtliches Gehör", "Fristen", "Beweislast", "Freies Geleit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-368.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,15 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 368 Gesuch um neue Beurteilung**
->
-> 1 Kann das Abwesenheitsurteil persönlich zugestellt werden, so wird die verurteilte Person darauf aufmerksam gemacht, dass sie innert 10 Tagen beim Gericht, welches das Urteil gefällt hat, schriftlich oder mündlich eine neue Beurteilung verlangen kann.
->
-> 2 Im Gesuch hat die verurteilte Person kurz zu begründen, weshalb sie an der Hauptverhandlung nicht teilnehmen konnte.
->
-> 3 Das Gericht lehnt das Gesuch ab, wenn die verurteilte Person ordnungsgemäss vorgeladen worden, aber der Hauptverhandlung unentschuldigt ferngeblieben ist.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 358 — Abgekürztes Verfahren (Grundsätze)"
 weight: 358
 date: "2026-06-27"
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 358 StPO — Abgekürztes Verfahren: Voraussetzungen, Geständnis, Einverständnis, Strafgrenze fünf Jahre, Ausschlussgründe"
 tags: ["StPO", "abgekürztes Verfahren", "Geständnis", "vereinfachtes Verfahren", "Strafgrenze", "Hauptverhandlung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-358.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 358 StPO — Grundsätze**
->
-> **1** Die beschuldigte Person kann der Staatsanwaltschaft bis zur Anklageerhebung die Durchführung des abgekürzten Verfahrens beantragen, wenn sie den Sachverhalt, der für die rechtliche Würdigung wesentlich ist, eingesteht und die Zivilansprüche zumindest im Grundsatz anerkennt.
->
-> **2** Das abgekürzte Verfahren ist ausgeschlossen, wenn die Staatsanwaltschaft eine Freiheitsstrafe von mehr als fünf Jahren verlangt.
-
-*Quelle: Fedlex (SR 312.0), Stand 1.4.2025.*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

@@ -2,11 +2,16 @@
 title: "Art. 57 — Rechtsanwendung von Amtes wegen"
 weight: 57
 date: 2026-08-08
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 57 ZPO: Rechtsanwendung von Amtes wegen (iura novit curia); Pflicht des Gerichts zur selbstständigen Rechtsanwendung; Grenzen durch Verhandlungsmaxime und Dispositionsgrundsatz; Anwendungsbereich in streitigen und summarischen Verfahren."
 tags: ["ZPO", "Zivilprozessordnung", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Verhandlungsmaxime", "Dispositionsgrundsatz", "Offizialmaxime"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-057.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 57 — Rechtsanwendung von Amtes wegen**
->
-> Das Gericht wendet das Recht von Amtes wegen an.
-
-*(Fedlex-Stand: 2026-07-01)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

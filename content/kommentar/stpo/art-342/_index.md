@@ -2,11 +2,16 @@
 title: "Art. 342 StPO — Zweiteilung der Hauptverhandlung"
 weight: 342
 date: 2026-08-15
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 342 StPO: Schuld- und Tatinterlokut als abschliessend geregelte Formen der Zweiteilung der Hauptverhandlung; Zuständigkeit von Verfahrensleitung und Gericht; Nichtanfechtbarkeit; persönliche Verhältnisse; Zweiteilung im Berufungsverfahren."
 tags: ["StPO", "Hauptverhandlung", "Zweiteilung", "Schuldinterlokut", "Tatinterlokut", "Tatfrage", "Schuldfrage", "Verfahrensleitung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-342.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,25 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 342 Zweiteilung der Hauptverhandlung**
->
-> 1 Auf Antrag der beschuldigten Person oder der Staatsanwaltschaft oder von Amtes wegen kann die Hauptverhandlung zweigeteilt werden; dabei kann bestimmt werden, dass:
-> a. in einem ersten Verfahrensteil nur die Tat- und die Schuldfrage, in einem zweiten die Folgen eines Schuld- oder Freispruchs behandelt werden; oder
-> b. in einem ersten Verfahrensteil nur die Tatfrage und in einem zweiten die Schuldfrage sowie die Folgen eines Schuld- oder Freispruchs behandelt werden.
->
-> 1bis Für die Entscheidung ist zuständig:
-> a. bis zur Eröffnung der Hauptverhandlung: die Verfahrensleitung;
-> b. nach Eröffnung der Hauptverhandlung: das Gericht.
->
-> 1ter Lehnt die Verfahrensleitung den Antrag über die Zweiteilung der Hauptverhandlung ab, so teilt sie dies den Parteien mit kurzer Begründung mit. Der Antrag kann an der Hauptverhandlung erneut gestellt werden.
->
-> 2 Die Entscheidung über die Zweiteilung der Hauptverhandlung ist nicht anfechtbar.
->
-> 3 Bei einer Zweiteilung dürfen die persönlichen Verhältnisse der beschuldigten Person nur im Falle eines Schuldspruchs zum Gegenstand der Hauptverhandlung gemacht werden, es sei denn, dass sie für die Frage des objektiven oder subjektiven Tatbestandes von Bedeutung sind.
->
-> 4 Die Entscheide über die Tat- und die Schuldfrage werden nach ihrer Beratung eröffnet, sind jedoch erst mit dem gesamten Urteil anfechtbar.
-
-*Fassung gemäss Fedlex, Stand der Konsolidierung 1. April 2025. Die Absätze 1bis und 1ter wurden eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

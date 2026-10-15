@@ -2,11 +2,16 @@
 title: "Art. 177 StPO — Belehrung"
 weight: 177
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 177 StPO: Belehrung der Zeuginnen und Zeugen — Zeugnispflicht, Wahrheitspflicht, Glaubwürdigkeitsbefragung, Zeugnisverweigerungsrechte, Unverwertbarkeit"
 tags: ["StPO", "Zeugeneinvernahme", "Belehrungspflicht", "Zeugnispflicht", "Zeugnisverweigerungsrecht", "Glaubwürdigkeit", "Verwertungsverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-177.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 177 StPO — Belehrung**
->
-> 1 Die einvernehmende Behörde macht die Zeugin oder den Zeugen zu Beginn jeder Einvernahme auf die Zeugnis- und die Wahrheitspflichten und auf die Strafbarkeit eines falschen Zeugnisses nach Artikel 307 StGB aufmerksam. Unterbleibt die Belehrung, so ist die Einvernahme ungültig.
->
-> 2 Die einvernehmende Behörde befragt die Zeugin oder den Zeugen zu Beginn der ersten Einvernahme über ihre Beziehungen zu den Parteien sowie zu weiteren Umständen, die für ihre Glaubwürdigkeit von Bedeutung sein können.
->
-> 3 Sie macht sie auf ihre Zeugnisverweigerungsrechte aufmerksam, sobald sie aufgrund der Befragung und der Akten solche Rechte erkennt. Unterbleibt der Hinweis und beruft sich die Zeugin oder der Zeuge nachträglich auf das Zeugnisverweigerungsrecht, so ist die Einvernahme nicht verwertbar.
+{{< wortlaut >}}
 
 ---
 

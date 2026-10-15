@@ -2,11 +2,16 @@
 title: "Art. 310 ZPO — Berufungsgründe"
 weight: 310
 date: 2026-07-19
-lastmod: 2026-10-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 310 ZPO: Berufungsgründe (unrichtige Rechtsanwendung, unrichtige Sachverhaltsfeststellung), volle Kognition des Berufungsgerichts, Rügeprinzip, Novenrecht, Abgrenzung zur Beschwerde (Art. 320 ZPO), Beweiserhebung im Berufungsverfahren."
 tags: ["ZPO", "Berufung", "Berufungsgründe", "Rechtsmittel", "Kognition", "Sachverhaltsfeststellung", "Noven", "Beweiswürdigung", "Rügeprinzip"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-310.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 79 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 310 ZPO — Berufungsgründe (SR 272)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/zpo/art-310/)
-
-> «Mit Berufung kann geltend gemacht werden:
-> a. unrichtige Rechtsanwendung;
-> b. unrichtige Feststellung des Sachverhaltes.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

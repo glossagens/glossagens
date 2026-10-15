@@ -2,11 +2,16 @@
 title: "Art. 46 — Selbstständige Anfechtbarkeit von Zwischenverfügungen"
 weight: 46
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 46 VwVG – Selbstständige Anfechtbarkeit von Zwischenverfügungen"
 tags: ["VwVG", "Zwischenverfügung", "Anfechtung", "Verwaltungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-046.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,10 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Gegen andere selbständig eröffnete Zwischenverfügungen ist die Beschwerde zulässig:
-> a. wenn sie einen nicht wieder gutzumachenden Nachteil bewirken können; oder
-> b. wenn die Gutheissung der Beschwerde sofort einen Endentscheid herbeiführen und damit einen bedeutenden Aufwand an Zeit oder Kosten für ein weitläufiges Beweisverfahren ersparen würde.
-> 2 Ist die Beschwerde nach Absatz 1 nicht zulässig oder wurde von ihr kein Gebrauch gemacht, so sind die betreffenden Zwischenverfügungen durch Beschwerde gegen die Endverfügung anfechtbar, soweit sie sich auf den Inhalt der Endverfügung auswirken.
+{{< wortlaut >}}
 
 ## Kommentierung
 

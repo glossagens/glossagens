@@ -2,11 +2,16 @@
 title: "Art. 158 ZPO — Vorsorgliche Beweisführung"
 weight: 158
 date: "2026-06-28"
-lastmod: "2026-10-14"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 158 ZPO – Vorsorgliche Beweisführung: Beweissicherung, Abklärung der Prozessaussichten, Abgrenzung zur unzulässigen Ausforschung und zu materiellen Auskunftsrechten, Kasuistik und kantonale Praxis."
 tags: ["ZPO", "Beweisrecht", "vorsorgliche Beweisführung", "Beweissicherung", "Prozessaussichten", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-158.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,17 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 158 ZPO — Vorsorgliche Beweisführung**
->
-> 1 Das Gericht nimmt jederzeit Beweis ab, wenn:
->
-> a. das Gesetz einen entsprechenden Anspruch gewährt; oder
->
-> b. die gesuchstellende Partei eine Gefährdung der Beweismittel oder ein schutzwürdiges Interesse glaubhaft macht.
->
-> 2 Anzuwenden sind die Bestimmungen über die vorsorglichen Massnahmen.
-
-*Gesetzestext verifiziert über Fedlex (SR 272).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 33 — Beweisabnahme"
 weight: 33
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 33 VwVG – Beweisabnahme und Kostenvorschuss"
 tags: ["VwVG", "Beweis", "Beweisabnahme", "Kostenvorschuss", "Verwaltungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-033.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,8 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Die Behörde nimmt die ihr angebotenen Beweise ab, wenn diese zur Abklärung des Sachverhaltes tauglich erscheinen.
-> 2 Ist ihre Abnahme mit verhältnismässig hohen Kosten verbunden und ist die Partei für den Fall einer ihr ungünstigen Verfügung kostenpflichtig, so kann die Behörde die Abnahme der Beweise davon abhängig machen, dass die Partei innert Frist die ihr zumutbaren Kosten vorschiesst; eine bedürftige Partei ist von der Vorschusspflicht befreit.
+{{< wortlaut >}}
 
 ## Kommentierung
 

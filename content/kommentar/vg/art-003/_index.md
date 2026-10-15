@@ -2,11 +2,16 @@
 title: "Art. 3 VG — Haftung des Bundes"
 weight: 3
 date: 2026-09-02
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 3 VG: Kausalhaftung des Bundes für amtliches Handeln, Abgrenzung zu Spezialgesetzen, Erfolgs- und Verhaltensunrecht bei reinem Vermögensschaden, wesentliche Amtspflichtverletzung bei Verfügungen und Gerichtsentscheiden, Haftungsmassstab bei Notverordnungen des Bundesrates (CS-Rettung, Pandemie), Garantenstellung bei Unterlassungen (Armeewaffen) sowie das EFD-Vorverfahren — mit ausführlicher Grenzkasuistik und Judikaturvergleichen."
 tags: ["VG", "Staatshaftung", "Widerrechtlichkeit", "Bundesrat", "Kausalhaftung", "Notrecht", "Beamtenhaftung", "Schutznormlehre", "Garantenstellung", "Verwirkungsfristen", "Credit Suisse"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 170.32 vom 2025-06-15 (data/wortlaut/vg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,17 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 3 VG — Haftung des Bundes**
->
-> 1 Für den Schaden, den ein Beamter in Ausübung seiner amtlichen Tätigkeit Dritten widerrechtlich zufügt, haftet der Bund ohne Rücksicht auf das Verschulden des Beamten.
->
-> 2 Bei Tatbeständen, welche unter die Haftpflichtbestimmungen anderer Erlasse fallen, richtet sich die Haftung des Bundes nach jenen besonderen Bestimmungen.
->
-> 3 Gegenüber dem Fehlbaren steht dem Geschädigten kein Anspruch zu.
->
-> 4 Sobald ein Dritter vom Bund Schadenersatz begehrt, hat der Bund den Beamten, gegen den ein Rückgriff in Frage kommen kann, sofort zu benachrichtigen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 170.32](https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/de), Stand der Konsolidierung 15. Juni 2025.*
 
 ---
 

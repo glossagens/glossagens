@@ -2,11 +2,16 @@
 title: "Art. 248 ZPO — Grundsatz (Summarisches Verfahren)"
 weight: 248
 date: 2026-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — gesetzliche Zuweisungen, Rechtsschutz in klaren Fällen, gerichtliches Verbot und Verfügung, vorsorgliche Massnahmen, freiwillige Gerichtsbarkeit. Kasuistik zu Aktenschluss, Novenrecht, klarer Fall und derogatorischer Kraft des Bundesrechts."
 tags: ["ZPO", "Summarisches Verfahren", "klarer Fall", "vorsorgliche Massnahmen", "Aktenschluss", "Novenrecht", "Rechtsöffnung", "Mieterausweisung", "freiewillige Gerichtsbarkeit", "Besitzesschutz"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-248.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 77 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
@@ -31,17 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 248 ZPO (SR 272)** — Grundsatz
->
-> Das summarische Verfahren ist anwendbar:
-> **a.** in den vom Gesetz bestimmten Fällen;
-> **b.** für den Rechtsschutz in klaren Fällen;
-> **c.** für das gerichtliche Verbot und die gerichtliche Verfügung;*
-> **d.** für die vorsorglichen Massnahmen;
-> **e.** für die Angelegenheiten der freiwilligen Gerichtsbarkeit.
->
-> \* *Fassung gemäss Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 (AS 2026 16; BBl 2024 116).*
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

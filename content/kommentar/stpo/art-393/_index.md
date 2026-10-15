@@ -2,11 +2,16 @@
 title: "Art. 393 — Zulässigkeit und Beschwerdegründe"
 weight: 393
 date: 2026-08-03
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 393 StPO – Zulässigkeit und Beschwerdegründe: Anfechtbare Objekte, Ausschluss verfahrensleitender Entscheide, ZMG-Entscheide und Rügegründe."
 tags: ["StPO", "Beschwerde", "Zulässigkeit", "Beschwerdegründe", "Verfahrenshandlungen", "Zwangsmassnahmengericht", "Kognition"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-393.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,23 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 393 Zulässigkeit und Beschwerdegründe**
->
-> **1** Die Beschwerde ist zulässig gegen:
->
-> **a.** die Verfügungen und die Verfahrenshandlungen von Polizei, Staatsanwaltschaft und Übertretungsstrafbehörden;
->
-> **b.** die Verfügungen und Beschlüsse sowie die Verfahrenshandlungen der erstinstanzlichen Gerichte; ausgenommen sind verfahrensleitende Entscheide;
->
-> **c.** die Entscheide des Zwangsmassnahmengerichts, sofern dieses Gesetz sie nicht als endgültig bezeichnet.
->
-> **2** Mit der Beschwerde können gerügt werden:
->
-> **a.** Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung;
->
-> **b.** die unvollständige oder unrichtige Feststellung des Sachverhalts;
->
-> **c.** Unangemessenheit.
+{{< wortlaut >}}
 
 ## Kommentierung
 

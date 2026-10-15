@@ -2,11 +2,16 @@
 title: "Art. 69 StPO — Grundsätze"
 weight: 69
 date: 2026-10-10
-lastmod: 2026-10-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 69 StPO: Grundsatz der Justizöffentlichkeit vor erstinstanzlichem Gericht und Berufungsgericht; Urteilseinsicht bei Verzicht und rechtskräftigen Strafbefehlen (BGE 152 IV 96); Ausnahmen im Vorverfahren, ZMG und schriftlichen Verfahren; Raumkapazität, Saalgrössen und Vorlaufzeiten bei Publikumsandrang."
 tags: ["StPO", "Justizöffentlichkeit", "Gerichtsöffentlichkeit", "Strafbefehl", "Urteilseinsicht", "Medienfreiheit", "Verfahrensrechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-069.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 69 Grundsätze**
->
-> <sup>1</sup> Die Verhandlungen vor dem erstinstanzlichen Gericht und dem Berufungsgericht sowie die mündliche Eröffnung von Urteilen und Beschlüssen dieser Gerichte sind mit Ausnahme der Beratung öffentlich.  
-> <sup>2</sup> Haben die Parteien in diesen Fällen auf eine öffentliche Urteilsverkündung verzichtet oder ist ein Strafbefehl ergangen, so können interessierte Personen in die Urteile und Strafbefehle Einsicht nehmen.  
-> <sup>3</sup> Nicht öffentlich sind:  
-> a. das Vorverfahren; vorbehalten bleiben Mitteilungen der Strafbehörden an die Öffentlichkeit;  
-> b. das Verfahren des Zwangsmassnahmengerichts;  
-> c. das Verfahren der Beschwerdeinstanz und, soweit es schriftlich durchgeführt wird, des Berufungsgerichts;  
-> d. das Strafbefehlsverfahren.  
-> <sup>4</sup> Öffentliche Verhandlungen sind allgemein zugänglich, für Personen unter 16 Jahren jedoch nur mit Bewilligung der Verfahrensleitung.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

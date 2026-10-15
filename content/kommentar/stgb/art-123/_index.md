@@ -2,11 +2,16 @@
 title: "Art. 123 StGB — Einfache Körperverletzung"
 weight: 123
 date: 2026-05-17
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 123 StGB: einfache Körperverletzung, Abgrenzung zur Tätlichkeit (Art. 126) und schweren Körperverletzung (Art. 122), Qualifikationstatbestände (Gebrauch gefährlicher Gegenstände, Wehrlose, häusliche Gewalt) sowie Rechtfertigung durch Einwilligung (BDSM, Sport, Heileingriff) mit umfassender Grenzkasuistik."
 tags: ["StGB", "Körperverletzung", "Tätlichkeit", "Gefährlicher Gegenstand", "Häusliche Gewalt", "Wehrlosigkeit", "Einwilligung", "Sadomasochismus", "Sport"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-123.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 123 StGB — Einfache Körperverletzung**
->
-> 1. Wer vorsätzlich einen Menschen in anderer Weise an Körper oder Gesundheit schädigt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.  
-> …  
-> 2. Der Täter wird von Amtes wegen verfolgt,  
-> wenn er Gift, eine Waffe oder einen gefährlichen Gegenstand gebraucht,  
-> wenn er die Tat an einem Wehrlosen oder an einer Person begeht, die unter seiner Obhut steht oder für die er zu sorgen hat, namentlich an einem Kind,  
-> wenn er der Ehegatte des Opfers ist und die Tat während der Ehe oder bis zu einem Jahr nach der Scheidung begangen wurde,  
-> wenn er die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Tat während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde,  
-> wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Januar 1990 (AS 1989 2449; BBl 1985 II 1009). Der frühere Strafmilderungsgrund für leichte Fälle (Abs. 1 Satz 2 aStGB bzw. Abs. 2 aF) wurde durch Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen mit Wirkung seit 1. Juli 2023 aufgehoben (AS 2023 259; BBl 2018 2827). Die Qualifikationen der häuslichen Gewalt in Ziff. 2 Abs. 3 und 5 wurden durch BG vom 3. Oktober 2003 eingefügt (in Kraft seit 1. April 2004; AS 2004 1403; BBl 2003 1909), diejenige der eingetragenen Partnerschaft (Abs. 4) durch Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004 (in Kraft seit 1. Januar 2007; AS 2005 5685; BBl 2003 1288).*
 

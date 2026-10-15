@@ -2,11 +2,16 @@
 title: "Art. 52 StGB — Geringfügigkeit von Schuld und Tatfolgen"
 weight: 52
 date: 2026-10-01
-lastmod: 2026-10-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 52 StGB (SR 311.0): Strafbefreiung bei Geringfügigkeit von Schuld und Tatfolgen — zwingender Charakter, Quervergleich, Kasuistik (angewandt vs. verworfen), prozessuale Durchsetzung via Art. 8 StPO und Kostenfolgen."
 tags: ["StGB", "Strafbefreiung", "Geringfügigkeit", "Schuld", "Tatfolgen", "Opportunitätsprinzip", "Strafverzicht", "Quervergleich", "Strafbedürfnis"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-052.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 85 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 52 StGB (SR 311.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stgb/art-052/)
->
-> Die zuständige Behörde sieht von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung ab, wenn Schuld und Tatfolgen geringfügig sind.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

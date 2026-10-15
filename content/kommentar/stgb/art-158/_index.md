@@ -2,11 +2,16 @@
 title: "Art. 158 StGB — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: "2026-09-26"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung, Pflichtverletzung, Vermögensschaden, Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-158.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -45,13 +50,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 158 StGB — Ungetreue Geschäftsbesorgung**
->
-> 1.  Wer aufgrund des Gesetzes, eines behördlichen Auftrages oder eines Rechtsgeschäfts damit betraut ist, Vermögen eines andern zu verwalten oder eine solche Vermögensverwaltung zu beaufsichtigen, und dabei unter Verletzung seiner Pflichten bewirkt oder zulässt, dass der andere am Vermögen geschädigt wird, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->    Wer als Geschäftsführer ohne Auftrag gleich handelt, wird mit der gleichen Strafe belegt.
->    Handelt der Täter in der Absicht, sich oder einen andern unrechtmässig zu bereichern, so wird er mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.²¹⁹
-> 2.  Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, die ihm durch das Gesetz, einen behördlichen Auftrag oder ein Rechtsgeschäft eingeräumte Ermächtigung, jemanden zu vertreten, missbraucht und dadurch den Vertretenen am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
-> 3.  Die ungetreue Geschäftsbesorgung zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.
+{{< wortlaut >}}
 
 ²¹⁹ Fassung des dritten Abs. gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).
 

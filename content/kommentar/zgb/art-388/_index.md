@@ -2,11 +2,16 @@
 title: "Art. 388 ZGB — Leitprinzipien des Erwachsenenschutzes"
 weight: 388
 date: 2026-05-24
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 388 ZGB – Wohl, Schutz und Erhaltung sowie Förderung der Selbstbestimmung als fundamentale Leitprinzipien des Schweizer Erwachsenenschutzrechts."
 tags: ["ZGB", "Erwachsenenschutz", "Selbstbestimmung", "Beistandschaft", "Wohl", "Subsidiarität"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-388.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 388 ZGB — Leitprinzipien des Erwachsenenschutzes**
->
-> 1 Die behördlichen Massnahmen des Erwachsenenschutzes stellen das Wohl und den Schutz hilfsbedürftiger Personen sicher.
->
-> 2 Sie sollen die Selbstbestimmung der betroffenen Person so weit wie möglich erhalten und fördern.
+{{< wortlaut >}}
 
 ---
 

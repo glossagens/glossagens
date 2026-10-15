@@ -2,21 +2,22 @@
 title: "Art. 10 AIG — Bewilligungspflicht bei Aufenthalt ohne Erwerbstätigkeit"
 weight: 10
 date: 2026-06-06
-lastmod: 2026-06-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 AIG: Bewilligungspflicht bei Aufenthalt ohne Erwerbstätigkeit — Kurzaufenthalt bis drei Monate, längerer Aufenthalt, Voranmeldepflicht."
 tags: ["AIG", "Bewilligungspflicht", "Aufenthalt ohne Erwerbstätigkeit", "Kurzaufenthalt", "Ausländerrecht", "Visum"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 10 AIG — Bewilligungspflicht bei Aufenthalt ohne Erwerbstätigkeit**
->
-> 1 Ausländerinnen und Ausländer benötigen für einen Aufenthalt ohne Erwerbstätigkeit bis zu drei Monaten keine Bewilligung; enthält das Visum eine kürzere Aufenthaltsdauer, so gilt diese.
->
-> 2 Wird ein längerer Aufenthalt ohne Erwerbstätigkeit beabsichtigt, so ist dafür eine Bewilligung erforderlich. Diese ist vor der Einreise in die Schweiz bei der am vorgesehenen Wohnort zuständigen Behörde zu beantragen. Artikel 17 Absatz 2 bleibt vorbehalten.
+{{< wortlaut >}}
 
-*Fedlex-Stand: 2026-02-01*
 
 ---
 

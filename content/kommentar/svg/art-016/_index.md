@@ -2,11 +2,16 @@
 title: "Art. 16 — Entzug von Ausweisen und Bewilligungen"
 weight: 16
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 16 SVG (SR 741.01): Entzug von Ausweisen und Bewilligungen — Sicherungsentzug (Abs. 1), Administrativmassnahmen nach Widerhandlungen (Abs. 2), Bemessung der Entzugsdauer (Abs. 3), Fahrzeugausweisentzug (Abs. 4/5). Leitentscheide BGE 135 II 138, BGE 123 II 97, BGE 129 II 82, BGE 127 II 122, BGE 133 II 384, BGE 141 II 220, BGE 135 II 334."
 tags: ["SVG", "Führerausweisentzug", "Sicherungsentzug", "Warnungsentzug", "Verwaltungsrecht", "Strassenverkehr", "Fahreignung", "Mindestentzugsdauer"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-016.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 16 SVG — Entzug von Ausweisen und Bewilligungen**
->
-> **1** Ausweise und Bewilligungen sind zu entziehen, wenn festgestellt wird, dass die gesetzlichen Voraussetzungen zur Erteilung nicht oder nicht mehr bestehen; sie können entzogen werden, wenn die mit der Erteilung im Einzelfall verbundenen Beschränkungen oder Auflagen missachtet werden.
->
-> **2** Nach Widerhandlungen gegen die Strassenverkehrsvorschriften, bei denen das Verfahren nach dem Ordnungsbussengesetz vom 18. März 2016 (SR 314.1) ausgeschlossen ist, wird der Lernfahr- oder Führerausweis entzogen oder eine Verwarnung ausgesprochen.
->
-> **3** Bei der Festsetzung der Dauer des Lernfahr- oder Führerausweisentzugs sind die Umstände des Einzelfalls zu berücksichtigen, namentlich die Gefährdung der Verkehrssicherheit, das Verschulden, der Leumund als Motorfahrzeugführer sowie die berufliche Notwendigkeit, ein Motorfahrzeug zu führen. Die Mindestentzugsdauer darf jedoch nicht unterschritten werden, ausser wenn die Strafe nach Artikel 100 Ziffer 4 dritter Satz gemildert wurde.
->
-> **4** Der Fahrzeugausweis kann auf angemessene Dauer entzogen werden:
->   a. wenn Ausweis oder Kontrollschilder missbräuchlich verwendet wurden;
->   b. solange die Verkehrssteuern oder -gebühren für Fahrzeuge desselben Halters nicht entrichtet sind.
->
-> **5** Der Fahrzeugausweis wird entzogen, wenn:
->   a. die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997 (SR 641.81) für das Fahrzeug geschuldete Abgabe oder die geschuldeten Sicherheitsleistungen nicht bezahlt und der Halter erfolglos gemahnt worden ist; oder
->   b. das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.
-
-*Quelle: [Fedlex (SR 741.01, Art. 16)](https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/de#art_16), Konsolidierung Stand 2026-07-01. Abs. 2 Fassung per 1.10.2023; Abs. 3 zweiter Satz Fassung per 1.8.2016; Abs. 5 eingefügt per 1.4.2008.*
+{{< wortlaut >}}
 
 ## Systematische Einordnung
 

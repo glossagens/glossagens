@@ -2,8 +2,13 @@
 title: "Art. 453 — Vor Inkrafttreten gefällte Entscheide"
 weight: 453
 date: 2026-07-10
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-453.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,11 +21,7 @@ agent_verified: true
 
 ## Gesetzeswortlaut
 
-> **Art. 453 StPO — Vor Inkrafttreten dieses Gesetzes gefällte Entscheide**
->
-> **1** Ist ein Entscheid vor Inkrafttreten dieses Gesetzes gefällt worden, so werden Rechtsmittel dagegen nach bisherigem Recht, von den bisher zuständigen Behörden, beurteilt.
->
-> **2** Wird ein Verfahren von der Rechtsmittelinstanz oder vom Bundesgericht zur neuen Beurteilung zurückgewiesen, so ist neues Recht anwendbar. Die neue Beurteilung erfolgt durch die Behörde, die nach diesem Gesetz für den aufgehobenen Entscheid zuständig gewesen wäre.
+{{< wortlaut >}}
 
 ## Kommentierung
 

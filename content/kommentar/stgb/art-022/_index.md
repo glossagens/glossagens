@@ -2,11 +2,16 @@
 title: "Art. 22 StGB — Versuch"
 weight: 22
 date: 2026-06-28
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 StGB: Versuch von Verbrechen und Vergehen — Schwellentheorie und Point of no Return, zweiseitige Grenzkasuistik (angewandt vs. verworfen), vollendeter und unvollendeter Versuch, untauglicher Versuch und minimale Gefährlichkeit, grober Unverstand sowie die Methodik der fakultativen Strafmilderung nach Art. 48a StGB."
 tags: ["StGB", "Versuch", "Schwellentheorie", "Point of no Return", "Untauglicher Versuch", "Grober Unverstand", "Strafmilderung", "Tatentschluss", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,13 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 StGB — Versuch**
->
-> 1 Führt der Täter, nachdem er mit der Ausführung eines Verbrechens oder Vergehens begonnen hat, die strafbare Tätigkeit nicht zu Ende oder tritt der zur Vollendung der Tat gehörende Erfolg nicht ein oder kann dieser nicht eintreten, so kann das Gericht die Strafe mildern.
->
-> 2 Verkennt der Täter aus grobem Unverstand, dass die Tat nach der Art des Gegenstandes oder des Mittels, an oder mit dem er sie ausführen will, überhaupt nicht zur Vollendung gelangen kann, so bleibt er straflos.
+{{< wortlaut >}}
 
-*Wortlaut verifiziert gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_22), Stand der Konsolidierung: 12. Juni 2026.*
 
 ---
 

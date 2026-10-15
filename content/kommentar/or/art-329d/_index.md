@@ -2,11 +2,16 @@
 title: "Art. 329d OR — Ferienlohn und Abgeltungsverbot"
 weight: 329
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 329d OR – Ferienlohn, striktes Abgeltungsverbot während des Arbeitsverhältnisses und Auszahlung bei unregelmässiger Teilzeitarbeit"
 tags: ["OR", "Arbeitsrecht", "Ferienlohn", "Abgeltungsverbot", "Teilzeitarbeit", "Stundenlohn", "Naturallohn"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-329d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 329d OR — Freizeit und Ferien / Ferien / Lohn**
->
-> ¹ Der Arbeitgeber hat dem Arbeitnehmer für die Ferien den gesamten darauf entfallenden Lohn und eine angemessene Entschädigung für ausfallenden Naturallohn zu entrichten.
->
-> ² Die Ferien dürfen während der Dauer des Arbeitsverhältnisses nicht durch Geldleistungen oder andere Vergünstigungen abgegolten werden.
->
-> ³ Leistet der Arbeitnehmer während der Ferien entgeltliche Arbeit für einen Dritten und werden dadurch die berechtigten Interessen des Arbeitgebers verletzt, so kann dieser den Ferienlohn verweigern und bereits bezahlten Ferienlohn zurückverlangen.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

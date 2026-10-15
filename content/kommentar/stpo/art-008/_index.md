@@ -2,11 +2,16 @@
 title: "Art. 8 StPO — Verzicht auf Strafverfolgung"
 weight: 8
 date: "2026-05-09"
-lastmod: "2026-10-03"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 StPO: Opportunitätsprinzip als Ausnahme vom Legalitätsprinzip, Verweis auf Art. 52–54 StGB, Nebendelikte, Zusatzstrafen, ausländische Verfolgung, kantonale Praxisfragen und Rechtsschutz der Privatklägerschaft."
 tags: ["StPO", "Opportunitätsprinzip", "Einstellung", "Nichtanhandnahme", "Privatklägerschaft", "Geringfügigkeit", "Schadenswiedergutmachung", "Zusatzstrafe", "Legalitätsprinzip"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-10-03"
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
@@ -26,19 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 8 StPO — Verzicht auf Strafverfolgung**
->
-> <sup>1</sup> Staatsanwaltschaft und Gerichte sehen von der Strafverfolgung ab, wenn das Bundesrecht es vorsieht, namentlich unter den Voraussetzungen der Artikel 52, 53 und 54 des Strafgesetzbuches (StGB).
->
-> <sup>2</sup> Sofern nicht überwiegende Interessen der Privatklägerschaft entgegenstehen, sehen sie ausserdem von einer Strafverfolgung ab, wenn:
-> a. der Straftat neben den anderen der beschuldigten Person zur Last gelegten Taten für die Festsetzung der zu erwartenden Strafe oder Massnahme keine wesentliche Bedeutung zukommt;
-> b. eine voraussichtlich nicht ins Gewicht fallende Zusatzstrafe zu einer rechtskräftig ausgefällten Strafe auszusprechen wäre;
-> c. eine im Ausland ausgesprochene Strafe anzurechnen wäre, welche der für die verfolgte Straftat zu erwartenden Strafe entspricht.
->
-> <sup>3</sup> Sofern nicht überwiegende Interessen der Privatklägerschaft entgegenstehen, können Staatsanwaltschaft und Gerichte von der Strafverfolgung absehen, wenn die Straftat bereits von einer ausländischen Behörde verfolgt oder die Verfolgung an eine solche abgetreten wird.
->
-> <sup>4</sup> Sie verfügen in diesen Fällen, dass kein Verfahren eröffnet oder das laufende Verfahren eingestellt wird.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 298 ZGB — Elterliche Sorge im Scheidungs- und Eheschutzverfahren"
 weight: 298
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 298 ZGB: Zuteilung der alleinigen elterlichen Sorge im Scheidungs- und Eheschutzverfahren, Schwellenwert des schwerwiegenden Dauerkonflikts, Beschränkung auf Obhuts- und Betreuungsregelung, Bindungstoleranz, alternierende Obhut (Kriterienkatalog) sowie Konnexität von Sorge und Obhut — mit ausführlicher Kasuistik und Prüfschema."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alleinsorge", "Obhut", "Alternierende Obhut", "Betreuungsanteile", "Kindeswohl", "Bindungstoleranz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-298.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,19 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 298**
->
-> 1 In einem Scheidungs- oder Eheschutzverfahren überträgt das Gericht einem Elternteil die alleinige elterliche Sorge, wenn dies zur Wahrung des Kindeswohls nötig ist.
->
-> 2 Es kann sich auch auf eine Regelung der Obhut, des persönlichen Verkehrs oder der Betreuungsanteile beschränken, wenn keine Aussicht besteht, dass sich die Eltern diesbezüglich einigen.
->
-> 2bis Es berücksichtigt beim Entscheid über die Obhut, den persönlichen Verkehr oder die Betreuungsanteile das Recht des Kindes, regelmässige persönliche Beziehungen zu beiden Elternteilen zu pflegen.
->
-> 2ter Bei gemeinsamer elterlicher Sorge prüft es im Sinne des Kindeswohls die Möglichkeit einer alternierenden Obhut, wenn ein Elternteil oder das Kind dies verlangt.
->
-> 3 Es fordert die Kindesschutzbehörde auf, dem Kind einen Vormund zu bestellen, wenn weder die Mutter noch der Vater für die Übernahme der elterlichen Sorge in Frage kommt.
+{{< wortlaut >}}
 
-*Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit 1. Juli 2014 ([AS 2014 357](https://www.fedlex.admin.ch/eli/oc/2014/357/de); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)). Abs. 2bis und 2ter eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Januar 2017 ([AS 2015 4299](https://www.fedlex.admin.ch/eli/oc/2015/4299/de); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)). Stand der Konsolidierung: 1. Juli 2026.*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 19 ZGB — Urteilsfähige Handlungsunfähige"
 weight: 19
 date: 2026-05-23
-lastmod: 2026-08-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 19 ZGB — Zustimmungsvorbehalt, unentgeltliche Vorteile und Alltagsgeschäfte, Deliktsfähigkeit urteilsfähiger handlungsunfähiger Personen sowie systematische Einordnung nach der Erwachsenenschutzreform."
 tags: ["ZGB", "Handlungsfähigkeit", "Zustimmungsvorbehalt", "Deliktsfähigkeit", "Minderjährige", "Erwachsenenschutz", "Urteilsfähigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,12 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Urteilsfähige handlungsunfähige Personen können nur mit Zustimmung ihres gesetzlichen Vertreters Verpflichtungen eingehen oder Rechte aufgeben.
-> 
-> 2 Ohne diese Zustimmung vermögen sie Vorteile zu erlangen, die unentgeltlich sind, sowie geringfügige Angelegenheiten des täglichen Lebens zu besorgen.
-> 
-> 3 Sie werden aus unerlaubten Handlungen schadenersatzpflichtig.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

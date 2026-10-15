@@ -2,22 +2,21 @@
 title: "§ 198 — Grundsätze der Kostenverlegung"
 weight: 198
 date: 2026-05-24
-lastmod: 2026-06-21
+lastmod: 2026-10-15
 description: "Kommentar zu § 198 VRG LU – Grundsätze der Kostenverlegung: Unterliegensprinzip, Einsprachekosten, Rechtsmittelkosten"
 tags: ["VRG", "Kosten", "Kostenverlegung", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-198.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die Partei hat, unter Vorbehalt der §§ 199 und 200, die amtlichen Kosten zu tragen:
-> a. im erstinstanzlichen Verwaltungsverfahren, wenn sie den Entscheid in ihrem eigenen Interesse oder durch ihr Verhalten veranlasst hat;
-> b. im Einspracheverfahren, wenn sie mutwillig eine unzulässige oder offensichtlich unbegründete Einsprache erhoben hat;
-> c. im Rechtsmittelverfahren, wenn sie unterliegt oder auf ihr Rechtsmittel nicht eingetreten wurde.
->
-> 2 Der Rückzug einer Rechtsvorkehr wird ihrer Abweisung gleichgestellt.
->
-> 3 Wer durch pflichtwidriges Verhalten im Verfahren, verspätetes Vorbringen von Tatsachen und Beweismitteln oder sonst wie unnötige Kosten verursacht, hat diese zu bezahlen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

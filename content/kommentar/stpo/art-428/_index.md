@@ -2,11 +2,16 @@
 title: "Art. 428 StPO — Kostentragung im Rechtsmittelverfahren"
 weight: 428
 date: 2026-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 428 StPO: Kostentragung nach Obsiegen und Unterliegen (Abs. 1), Ausnahmen bei nachträglicher Tatbestandsverwirklichung (Abs. 2 lit. a) und unwesentlicher Abänderung (Abs. 2 lit. b), Neuregelung der erstinstanzlichen Kosten (Abs. 3), Kostenfolge bei Rückweisung (Abs. 4) und Revision (Abs. 5) — mit Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["StPO", "Kosten", "Rechtsmittelverfahren", "Obsiegen", "Unterliegen", "Berufung", "Beschwerde", "Rückweisung", "Revision", "Reformatio in peius", "Parteientschädigung", "Kausalität", "Noven"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-428.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,23 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 428 Kostentragung im Rechtsmittelverfahren**
->
-> **1** Die Kosten des Rechtsmittelverfahrens tragen die Parteien nach Massgabe ihres Obsiegens oder Unterliegens. Als unterliegend gilt auch die Partei, auf deren Rechtsmittel nicht eingetreten wird oder die das Rechtsmittel zurückzieht.
->
-> **2** Erwirkt eine Partei, die ein Rechtsmittel ergriffen hat, einen für sie günstigeren Entscheid, so können ihr die Verfahrenskosten auferlegt werden, wenn:
->
-> **a.** die Voraussetzungen für das Obsiegen erst im Rechtsmittelverfahren geschaffen worden sind; oder
->
-> **b.** der angefochtene Entscheid nur unwesentlich abgeändert wird.
->
-> **3** Fällt die Rechtsmittelinstanz selber einen neuen Entscheid, so befindet sie darin auch über die von der Vorinstanz getroffene Kostenregelung.
->
-> **4** Hebt sie einen Entscheid auf und weist sie die Sache zur neuen Entscheidung an die Vorinstanz zurück, so trägt der Bund oder der Kanton die Kosten des Rechtsmittelverfahrens und, nach Ermessen der Rechtsmittelinstanz, jene der Vorinstanz.
->
-> **5** Wird ein Revisionsgesuch gutgeheissen, so entscheidet die Strafbehörde, die anschliessend über die Erledigung der Strafsache zu befinden hat, nach ihrem Ermessen über die Kosten des ersten Verfahrens.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

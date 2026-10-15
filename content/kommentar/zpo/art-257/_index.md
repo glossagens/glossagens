@@ -2,11 +2,16 @@
 title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen im summarischen Verfahren — unbestrittener/liquider Sachverhalt, klare Rechtslage, Kasuistik bei Mieterausweisungen und Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-257.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,16 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 257 ZPO (SR 272)** — Rechtsschutz in klaren Fällen
->
-> **1** Das Gericht gewährt Rechtsschutz im summarischen Verfahren, wenn:
-> **a.** der Sachverhalt unbestritten oder sofort beweisbar ist; und
-> **b.** die Rechtslage klar ist.
->
-> **2** Ausgeschlossen ist dieser Rechtsschutz, wenn die Angelegenheit dem Offizialgrundsatz unterliegt.
->
-> **3** Kann dieser Rechtsschutz nicht gewährt werden, so tritt das Gericht auf das Gesuch nicht ein.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

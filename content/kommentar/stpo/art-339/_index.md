@@ -2,11 +2,16 @@
 title: "Art. 339 — Eröffnung; Vor- und Zwischenfragen"
 weight: 339
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 339 StPO – Eröffnung; Vor- und Zwischenfragen"
 tags: ["StPO", "Hauptverhandlung", "Vorfragen", "Zwischenfragen", "Verfahrenshindernisse", "Beweisverwertbarkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-339.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,29 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 339 StPO — Eröffnung; Vor- und Zwischenfragen**
->
-> **1** Die Verfahrensleitung eröffnet die Hauptverhandlung, gibt die Zusammensetzung des Gerichts bekannt und stellt die Anwesenheit der vorgeladenen Personen fest.
->
-> **2** Anschliessend können das Gericht und die Parteien Vorfragen aufwerfen, insbesondere betreffend:
->
-> **a.** die Gültigkeit der Anklage;
->
-> **b.** die Prozessvoraussetzungen;
->
-> **c.** Verfahrenshindernisse;
->
-> **d.** die Akten und die erhobenen Beweise;
->
-> **e.** die Öffentlichkeit der Verhandlung;
->
-> **f.** die Zweiteilung der Verhandlung.
->
-> **3** Das Gericht entscheidet unverzüglich über die Vorfragen, nachdem es den anwesenden Parteien das rechtliche Gehör gewährt hat.
->
-> **4** Stellen die Parteien während der Hauptverhandlung Zwischenfragen, so behandelt sie das Gericht wie Vorfragen.
->
-> **5** Bei der Behandlung von Vor- oder Zwischenfragen kann das Gericht die Hauptverhandlung jederzeit vertagen, um die Akten oder die Beweise zu ergänzen oder durch die Staatsanwaltschaft ergänzen zu lassen.
+{{< wortlaut >}}
 
 ---
 

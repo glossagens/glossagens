@@ -7,22 +7,21 @@ tags: ["StPO", "Bestellung der amtlichen Verteidigung", "amtliche Verteidigung",
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-133.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 133 StPO — Bestellung der amtlichen Verteidigung**
->
-> 1 Die amtliche Verteidigung wird von der im jeweiligen Verfahrensstadium zuständigen Verfahrensleitung bestellt.
->
-> 1bis Bund und Kantone können die Auswahl der amtlichen Verteidigung an eine andere Behörde oder an Dritte übertragen.
->
-> 2 Bei der Auswahl der amtlichen Verteidigung sind deren Eignung sowie nach Möglichkeit die Wünsche der beschuldigten Person zu berücksichtigen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

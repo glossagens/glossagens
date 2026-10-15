@@ -2,11 +2,16 @@
 title: "Art. 49 OR — Genugtuung bei Persönlichkeitsverletzung"
 weight: 49
 date: 2026-08-29
-lastmod: 2026-10-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 49 OR: Genugtuungsanspruch bei Persönlichkeitsverletzung, Schwellenwert der qualifizierten Schwere, zweiseitige Grenzkasuistik (angewandt vs. verworfen), Genugtuung juristischer Personen und Angehöriger, Bemessungsmethode, unbezifferte Klage nach Art. 85 ZPO sowie Prozesstaktik mit Kasuistiktabellen und Praxishinweisen."
 tags: ["OR", "Genugtuung", "Persönlichkeitsverletzung", "Haftpflichtrecht", "Schadenersatz", "Bemessung", "Praxiskommentar", "Kantonale Rechtsprechung", "Schmerzensgeld"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes"
     model: "glm-5.2"
@@ -36,21 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 49 OR — Genugtuung bei Persönlichkeitsverletzung**
->
-> ---
->
-> **Abs. 1 — Grundsatz: Anspruch auf Geldsumme bei schwerer Verletzung**
->
-> Wer in seiner Persönlichkeit widerrechtlich verletzt wird, hat Anspruch auf Leistung einer Geldsumme als Genugtuung, sofern die Schwere der Verletzung es rechtfertigt und diese nicht anders wiedergutgemacht worden ist.
->
-> ---
->
-> **Abs. 2 — Andere Genugtuungsformen**
->
-> Anstatt oder neben dieser Leistung kann der Richter auch auf eine andere Art der Genugtuung erkennen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Ziff. II 1 des BG vom 16. Dezember 1983, in Kraft seit 1. Juli 1985 (AS 1984 778; BBl 1982 II 636).*
 
 ### Die Anspruchsvoraussetzungen auf einen Blick
 

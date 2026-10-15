@@ -2,11 +2,16 @@
 title: "Art. 190 SchKG — Konkurs ohne vorgängige Betreibung auf Gläubigerantrag"
 weight: 190
 date: 2026-07-18
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 190 SchKG: Konkurseröffnung ohne vorgängige Betreibung — Gläubigerqualität, Zahlungseinstellung, flüchtiger Schuldner, Vermögensverheimlichung, Gehörsanspruch, Beweismass, Novenrecht und Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Zahlungseinstellung", "Konkurs ohne Betreibung", "Flucht", "Gläubigerantrag", "Verheimlichung", "Kasuistik", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-190.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -31,15 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 190 SchKG (SR 281.1)** — Konkurs ohne vorgängige Betreibung
->
-> **1** Ein Gläubiger kann ohne vorgängige Betreibung beim Gerichte die Konkurseröffnung verlangen:
-> 1. gegen jeden Schuldner, dessen Aufenthaltsort unbekannt ist oder der die Flucht ergriffen hat, um sich seinen Verbindlichkeiten zu entziehen, oder der betrügerische Handlungen zum Nachteile der Gläubiger begangen oder zu begehen versucht oder bei einer Betreibung auf Pfändung Bestandteile seines Vermögens verheimlicht hat;
-> 2. gegen einen der Konkursbetreibung unterliegenden Schuldner, der seine Zahlungen eingestellt hat;
-> 3. *(aufgehoben)*
->
-> **2** Der Schuldner wird, wenn er in der Schweiz wohnt oder in der Schweiz einen Vertreter hat, mit Ansetzung einer kurzen Frist vor Gericht geladen und einvernommen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

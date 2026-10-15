@@ -2,11 +2,16 @@
 title: "Art. 97 — Schadensersatz bei Nichterfüllung"
 weight: 97
 date: 2026-08-01
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 97 OR — Schadensersatz bei Nicht- oder Schlechterfüllung (Abs. 1: Verschuldenshaftung mit Beweislastumkehr zugunsten des Gläubigers; Abs. 2: Verweisung auf SchKG und ZPO für die Vollstreckung)."
 tags: ["OR", "Schadensersatz", "Nichterfüllung", "Schlechterfüllung", "Verschulden", "Beweislast", "Vertragsverletzung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-097.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -28,13 +33,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 97 OR — Nichterfüllung / Im Allgemeinen**
->
-> ¹ Kann die Erfüllung der Verbindlichkeit überhaupt nicht oder nicht gehörig bewirkt werden, so hat der Schuldner für den daraus entstehenden Schaden Ersatz zu leisten, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.
->
-> ² Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung vom 19. Dezember 2008 (ZPO).
-
-*Konsolidierungsstand: 01.01.2026 (Fedlex, SR 220).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

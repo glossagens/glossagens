@@ -2,11 +2,16 @@
 title: "Art. 10 StPO — Unschuldsvermutung und Beweiswürdigung"
 weight: 10
 date: 2026-05-10
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 10 StPO: Unschuldsvermutung, freie Beweiswürdigung und in dubio pro reo als Entscheidungsregel — mit Grenzkasuistiken zu DNA-Spuren und Vier-Augen-Delikten, dem Komplementärprinzip in dubio pro duriore und der Willkürkognition des Bundesgerichts."
 tags: ["StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "in dubio pro duriore", "Beweislast", "Beweismass", "DNA-Beweis", "Aussage gegen Aussage", "Glaubhaftigkeitsgutachten", "Willkürkontrolle"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,15 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 10 StPO — Unschuldsvermutung und Beweiswürdigung**
->
-> 1 Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig.
->
-> 2 Das Gericht würdigt die Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
->
-> 3 Bestehen unüberwindliche Zweifel an der Erfüllung der tatsächlichen Voraussetzungen der angeklagten Tat, so geht das Gericht von der für die beschuldigte Person günstigeren Sachlage aus.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

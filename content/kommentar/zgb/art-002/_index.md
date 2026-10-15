@@ -2,19 +2,21 @@
 title: "Art. 2 ZGB — Treu und Glauben; Rechtsmissbrauch"
 weight: 2
 date: "2026-05-15"
-lastmod: "2026-06-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 2 ZGB: Der Grundsatz von Treu und Glauben und das Verbot des offenbaren Rechtsmissbrauchs als zentrale Generalnorm des Schweizer Privatrechts."
 tags: ["Treu und Glauben", "Rechtsmissbrauch", "Generalnorm", "ZGB", "venire contra factum proprium", "Vertrauensschutz"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-002.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 2 ZGB — Treu und Glauben; Rechtsmissbrauch**
->
-> 1 Jedermann hat in der Ausübung seiner Rechte und in der Erfüllung seiner Pflichten nach Treu und Glauben zu handeln.
->
-> 2 Der offenbare Missbrauch eines Rechtes findet keinen Rechtsschutz.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

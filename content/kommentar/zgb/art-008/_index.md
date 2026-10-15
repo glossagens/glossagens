@@ -2,11 +2,16 @@
 title: "Art. 8 ZGB — Beweislast und Beweisführungsanspruch"
 weight: 8
 date: 2026-06-28
-lastmod: 2026-09-07
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 ZGB — Gesetzliche Beweislastverteilung, bundesrechtlicher Beweisführungsanspruch, Regelbeweismass und Beweiserleichterungen, antizipierte Beweiswürdigung, Gegenbeweis und Praxishinweise."
 tags: ["ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweisführungsanspruch", "Gegenbeweis", "Beweiserleichterung", "Zivilprozessrecht", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -21,8 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Wo das Gesetz es nicht anders bestimmt, hat derjenige das Vorhandensein einer behaupteten Tatsache zu beweisen, der aus ihr Rechte ableitet.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 401 StPO — Anschlussberufung"
 weight: 401
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 401 StPO – Anschlussberufung im Strafverfahren: Form und Frist nach Art. 399 Abs. 3 und 4 (Abs. 1), sachlicher Umfang und Unabhängigkeit (Abs. 2) sowie Akzessorietät und automatisches Dahinfallen (Abs. 3)."
 tags: ["StPO", "Berufung", "Anschlussberufung", "Akzessorietät", "Dahinfallen", "Rückzug", "Zivilpunkt", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-401.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 401 StPO — Anschlussberufung**
->
-> **1** Die Anschlussberufung richtet sich sinngemäss nach Artikel 399 Absätze 3 und 4.
->
-> **2** Sie ist nicht auf den Umfang der Hauptberufung beschränkt, es sei denn, diese beziehe sich ausschliesslich auf den Zivilpunkt des Urteils.
->
-> **3** Wird die Berufung zurückgezogen oder wird auf sie nicht eingetreten, so fällt auch die Anschlussberufung dahin.
+{{< wortlaut >}}
 
 ---
 

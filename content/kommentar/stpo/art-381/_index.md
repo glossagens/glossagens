@@ -2,11 +2,16 @@
 title: "Art. 381 — Legitimation der Staatsanwaltschaft"
 weight: 381
 date: 2026-07-11
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-381.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Die Staatsanwaltschaft kann ein Rechtsmittel zugunsten oder zuungunsten der beschuldigten oder verurteilten Person ergreifen.
->
-> **2** Sehen Bund oder Kantone eine Ober- oder Generalstaatsanwaltschaft vor, so bestimmen sie, welche Staatsanwaltschaft berechtigt ist, Rechtsmittel zu ergreifen.
->
-> **3** Sie regeln, welche Behörden im Übertretungsstrafverfahren Rechtsmittel ergreifen können.
->
-> **4** *(Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. Januar 2024; AS 2023 468; BBl 2019 6697.)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

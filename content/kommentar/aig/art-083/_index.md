@@ -2,11 +2,16 @@
 title: "Art. 83 AIG — Anordnung der vorläufigen Aufnahme"
 weight: 83
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 83 AIG: Vorläufige Aufnahme bei Vollzugshindernissen — Unmöglichkeit, Unzulässigkeit, Unzumutbarkeit, länderspezifische BVGer-Praxis, kantonales Antragsrecht und Ausschlussgründe."
 tags: ["AIG", "Ausländerrecht", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Unzumutbarkeit", "Länderpraxis", "BVGer", "Non-Refoulement"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-083.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -16,32 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 83 Anordnung der vorläufigen Aufnahme**
->
-> <sup>1</sup> Ist der Vollzug der Wegweisung nicht möglich, nicht zulässig oder nicht zumutbar, so verfügt das SEM die vorläufige Aufnahme.
->
-> <sup>2</sup> Der Vollzug ist nicht möglich, wenn die Ausländerin oder der Ausländer weder in den Heimat- oder in den Herkunftsstaat noch in einen Drittstaat ausreisen oder dorthin gebracht werden kann.
->
-> <sup>3</sup> Der Vollzug ist nicht zulässig, wenn völkerrechtliche Verpflichtungen der Schweiz einer Weiterreise der Ausländerin oder des Ausländers in den Heimat-, Herkunfts- oder in einen Drittstaat entgegenstehen.
->
-> <sup>4</sup> Der Vollzug kann für Ausländerinnen oder Ausländer unzumutbar sein, wenn sie in Situationen wie Krieg, Bürgerkrieg, allgemeiner Gewalt und medizinischer Notlage im Heimat- oder Herkunftsstaat konkret gefährdet sind.
->
-> <sup>5</sup> Der Bundesrat bezeichnet Heimat- oder Herkunftsstaaten oder Gebiete dieser Staaten, in welche eine Rückkehr zumutbar ist. Kommen weggewiesene Ausländerinnen und Ausländer aus einem dieser Staaten oder aus einem Mitgliedstaat der EU oder der EFTA, so ist ein Vollzug der Wegweisung in der Regel zumutbar.
->
-> <sup>5bis</sup> Der Bundesrat überprüft den Beschluss nach Absatz 5 periodisch.
->
-> <sup>6</sup> Die vorläufige Aufnahme kann von kantonalen Behörden beantragt werden.
->
-> <sup>7</sup> Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn die weggewiesene Person:
-> a. zu einer längerfristigen Freiheitsstrafe im In- oder Ausland verurteilt wurde oder wenn gegen sie eine strafrechtliche Massnahme im Sinne der Artikel 59–61 oder 64 StGB angeordnet wurde;
-> b. erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit gefährdet; oder
-> c. die Unmöglichkeit des Vollzugs der Wegweisung durch ihr eigenes Verhalten verursacht hat.
->
-> <sup>8</sup> Flüchtlinge, bei denen Asylausschlussgründe nach Artikel 53 und 54 AsylG vorliegen, werden vorläufig aufgenommen.
->
-> <sup>9</sup> Die vorläufige Aufnahme wird nicht verfügt oder erlischt, wenn eine Landesverweisung nach Artikel 66a oder 66abis StGB oder Artikel 49a oder 49abis MStG oder eine Ausweisung nach Artikel 68 des vorliegenden Gesetzes rechtskräftig geworden ist.
->
-> <sup>10</sup> Die kantonalen Behörden können mit vorläufig aufgenommenen Personen Integrationsvereinbarungen abschliessen, wenn ein besonderer Integrationsbedarf nach den Kriterien gemäss Artikel 58a besteht.
+{{< wortlaut >}}
 
 ---
 

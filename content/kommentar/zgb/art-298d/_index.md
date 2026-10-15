@@ -2,11 +2,16 @@
 title: "Art. 298d ZGB — Neuregelung der elterlichen Sorge und weiterer Kinderbelange"
 weight: 298
 date: 2026-09-10
-lastmod: 2026-09-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 298d ZGB: Neuregelung der elterlichen Sorge, Obhut, Betreuungsanteile und des persönlichen Verkehrs für Kinder unverheirateter Eltern durch die KESB, Voraussetzungen der wesentlichen Veränderung der Verhältnisse, Abgrenzung zu Art. 311 ZGB sowie gerichtliche Kompetenzattraktion bei Unterhaltsklagen (Abs. 3) — mit ausführlicher Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Elterliche Sorge", "Obhut", "Alternierende Obhut", "Besuchsrecht", "Betreuungsanteile", "KESB", "Kompetenzattraktion", "Kindesunterhalt", "Kindeswohl"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-298d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 298d**
->
-> 1 Auf Begehren eines Elternteils, des Kindes oder von Amtes wegen regelt die Kindesschutzbehörde die Zuteilung der elterlichen Sorge neu, wenn dies wegen wesentlicher Änderung der Verhältnisse zur Wahrung des Kindeswohls nötig ist.
->
-> 2 Sie kann sich auf die Regelung der Obhut, des persönlichen Verkehrs oder der Betreuungsanteile beschränken.
->
-> 3 Vorbehalten bleibt die Klage auf Änderung des Unterhaltsbeitrags an das zuständige Gericht; in diesem Fall regelt das Gericht nötigenfalls die elterliche Sorge sowie die weiteren Kinderbelange neu.
+{{< wortlaut >}}
 
 *Abs. 1 und 2 eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit 1. Juli 2014 ([AS 2014 357](https://www.fedlex.admin.ch/eli/oc/2014/357/de); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)). Abs. 3 eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Januar 2017 ([AS 2015 4299](https://www.fedlex.admin.ch/eli/oc/2015/4299/de); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/529)). Stand der Konsolidierung: 1. Juli 2026.*
 

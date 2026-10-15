@@ -2,11 +2,16 @@
 title: "Art. 337 — Fristlose Kündigung aus wichtigem Grund"
 weight: 337
 date: 2026-05-23
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 337 OR – Fristlose Vertragsauflösung bei wichtigem Grund im Arbeitsrecht"
 tags: ["OR", "Arbeitsrecht", "fristlose Kündigung", "wichtiger Grund", "Treu und Glauben"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-337.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 337 OR — Fristlose Kündigung aus wichtigem Grund**
->
-> 1 Aus wichtigen Gründen kann der Arbeitgeber wie der Arbeitnehmer jederzeit das Arbeitsverhältnis fristlos auflösen; er muss die fristlose Vertragsauflösung schriftlich begründen, wenn die andere Partei dies verlangt.
->
-> 2 Als wichtiger Grund gilt namentlich jeder Umstand, bei dessen Vorhandensein dem Kündigenden nach Treu und Glauben die Fortsetzung des Arbeitsverhältnisses nicht mehr zugemutet werden darf.
->
-> 3 Über das Vorhandensein solcher Umstände entscheidet der Richter nach seinem Ermessen, darf aber in keinem Fall die unverschuldete Verhinderung des Arbeitnehmers an der Arbeitsleistung als wichtigen Grund anerkennen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 34 StPO — Gerichtsstand bei mehreren an verschiedenen Orten verübten Straftaten"
 weight: 34
 date: "2026-07-12"
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 34 StPO: Zuständigkeitsbestimmung bei mehreren Straftaten an verschiedenen Orten (Schwerste-Tat-Prinzip), Verfahrenstrennung bei bereits erhobener Anklage, gerichtliche Gesamtstrafenfestsetzung."
 tags: ["StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit", "Gesamtstrafe", "Gerichtsstandskonflikt", "Asperation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-034.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -20,13 +25,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 34 StPO — Gerichtsstand bei mehreren an verschiedenen Orten verübten Straftaten**
->
-> **1** Hat eine beschuldigte Person mehrere Straftaten an verschiedenen Orten verübt, so sind für die Verfolgung und Beurteilung sämtlicher Taten die Behörden des Ortes zuständig, an dem die mit der schwersten Strafe bedrohte Tat begangen worden ist. Bei gleicher Strafdrohung sind die Behörden des Ortes zuständig, an dem zuerst Verfolgungshandlungen vorgenommen worden sind.
->
-> **2** Ist in einem beteiligten Kanton im Zeitpunkt des Gerichtsstandsverfahrens nach den Artikeln 39–42 wegen einer der Straftaten schon Anklage erhoben worden, so werden die Verfahren getrennt geführt.
->
-> **3** Ist eine Person von verschiedenen Gerichten zu mehreren gleichartigen Strafen verurteilt worden, so setzt das Gericht, das die schwerste Strafe ausgesprochen hat, auf Gesuch der verurteilten Person eine Gesamtstrafe fest.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

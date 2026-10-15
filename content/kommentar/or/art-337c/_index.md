@@ -2,11 +2,16 @@
 title: "Art. 337c OR — Ungerechtfertigte Entlassung"
 weight: 337
 date: 2026-06-06
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 337c OR — Schadenersatz und Billigkeitsentschädigung bei fristloser Entlassung ohne wichtigen Grund"
 tags: ["OR", "Arbeitsrecht", "fristlose Entlassung", "Schadenersatz", "Billigkeitsentschädigung", "ungerechtfertigte Kündigung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-337c.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 337c OR — Ungerechtfertigte Entlassung**
->
-> 1 Entlässt der Arbeitgeber den Arbeitnehmer fristlos ohne wichtigen Grund, so hat dieser Anspruch auf Ersatz dessen, was er verdient hätte, wenn das Arbeitsverhältnis unter Einhaltung der Kündigungsfrist oder durch Ablauf der bestimmten Vertragszeit beendigt worden wäre.
->
-> 2 Der Arbeitnehmer muss sich daran anrechnen lassen, was er infolge der Beendigung des Arbeitsverhältnisses erspart hat und was er durch anderweitige Arbeit verdient oder zu verdienen absichtlich unterlassen hat.
->
-> 3 Der Richter kann den Arbeitgeber verpflichten, dem Arbeitnehmer eine Entschädigung zu bezahlen, die er nach freiem Ermessen unter Würdigung aller Umstände festlegt; diese Entschädigung darf jedoch den Lohn des Arbeitnehmers für sechs Monate nicht übersteigen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

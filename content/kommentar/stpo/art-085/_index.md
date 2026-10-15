@@ -2,11 +2,16 @@
 title: "Art. 85 — Form der Mitteilungen und der Zustellung"
 weight: 85
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 85 StPO – Form der Mitteilungen und der Zustellung, Ersatzzustellung, Zustellungsfiktion und Annahmeverweigerung."
 tags: ["StPO", "Zustellung", "Zustellfiktion", "Schriftform", "Einschreiben", "Rechtliches Gehör"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-085.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-29"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 85 Form der Mitteilungen und der Zustellung**
->
-> **1** Die Strafbehörden bedienen sich für ihre Mitteilungen der Schriftform, soweit dieses Gesetz nichts Abweichendes bestimmt.
->
-> **2** Die Zustellung erfolgt durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung, insbesondere durch die Polizei.
->
-> **3** Sie ist erfolgt, wenn die Sendung von der Adressatin oder dem Adressaten oder von einer angestellten oder im gleichen Haushalt lebenden, mindestens 16 Jahre alten Person entgegengenommen wurde. Vorbehalten bleiben Anweisungen der Strafbehörden, eine Mitteilung der Adressatin oder dem Adressaten persönlich zuzustellen.
->
-> **4** Sie gilt zudem als erfolgt:
->
-> **a.** bei einer eingeschriebenen Postsendung, die nicht abgeholt worden ist: am siebten Tag nach dem erfolglosen Zustellungsversuch, sofern die Person mit einer Zustellung rechnen musste;
->
-> **b.** bei persönlicher Zustellung, wenn die Adressatin oder der Adressat die Annahme verweigert und dies von der Überbringerin oder dem Überbringer festgehalten wird: am Tag der Weigerung.
+{{< wortlaut >}}
 
 ---
 

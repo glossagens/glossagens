@@ -2,11 +2,16 @@
 title: "Art. 34 VwVG — Eröffnung der Verfügungen"
 weight: 34
 date: 2026-05-23
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 34 VwVG: Eröffnung der Verfügungen — Schriftform, elektronische Eröffnung, Vertretungszustellung, Zustellfiktion, A-Post Plus und Kasuistik."
 tags: ["VwVG", "Eröffnung", "Zustellung", "Schriftform", "elektronische Eröffnung", "Zustellfiktion", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-034.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,18 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 34 VwVG (SR 172.021)** — Eröffnung der Verfügungen
->
-> **1** Die Behörde eröffnet Verfügungen den Parteien schriftlich.
->
-> **1bis** Mit dem Einverständnis der Partei können Verfügungen elektronisch eröffnet werden. Sie sind mit einer elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur zu versehen. Der Bundesrat regelt:
-> a. die zu verwendende Signatur;
-> b. das Format der Verfügung und ihrer Beilagen;
-> c. die Art und Weise der Übermittlung;
-> d. den Zeitpunkt, zu dem die Verfügung als eröffnet gilt.
->
-> **2** Zwischenverfügungen kann die Behörde anwesenden Parteien mündlich eröffnen, muss sie aber schriftlich bestätigen, wenn eine Partei dies auf der Stelle verlangt; eine Rechtsmittelfrist beginnt in diesem Fall erst von der schriftlichen Bestätigung an zu laufen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

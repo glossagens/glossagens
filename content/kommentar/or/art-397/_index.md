@@ -2,11 +2,16 @@
 title: "Art. 397 — Weisungen des Auftraggebers"
 weight: 397
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 397 OR — Weisungsbefugnis des Auftraggebers, Abweichen von Weisungen, Gefahr im Verzug, Rechtsfolgen bei Weisungsverletzung"
 tags: ["OR", "Auftragsrecht", "Weisungen", "Weisungsbefugnis", "Gefahr im Verzug", "Auftraggeber", "Beauftragter"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-397.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 16 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,11 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Beauftragte ist verpflichtet, die Weisungen des Auftraggebers zu befolgen; er darf von denselben nur abweichen, wenn die Umstände es rechtfertigen und der Auftraggeber voraussichtlich einverstanden wäre oder wenn Gefahr im Verzug liegt.
->
-> **2** Hat der Beauftragte von den Weisungen abgewichen, so hat er dies dem Auftraggeber anzuzeigen, sobals es tunlich ist, und ihm zugleich die Gründe seiner Abweichung mitzuteilen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

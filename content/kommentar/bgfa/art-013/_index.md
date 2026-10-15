@@ -2,11 +2,16 @@
 title: "Art. 13 — Berufsgeheimnis"
 weight: 13
 date: 2026-08-29
-lastmod: "2026-10-08"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 BGFA — Berufsgeheimnis der Anwältinnen und Anwälte: zeitlich unbegrenzt, gegenüber jedermann, Entbindung, Voraus-Entbindung, Entsiegelung von Anwaltsakten, fahrlässige Verletzung, Hilfspersonen."
 tags: ["BGFA", "Berufsgeheimnis", "Anwaltsrecht", "Entbindung", "Art. 321 StGB", "Entsiegelung", "Honorarstreitigkeit", "Hilfspersonen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 935.61 vom 2025-07-01 (data/wortlaut/bgfa/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,13 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 13 Berufsgeheimnis**
->
-> **1** Anwältinnen und Anwälte unterstehen zeitlich unbegrenzt und gegenüber jedermann dem Berufsgeheimnis über alles, was ihnen infolge ihres Berufes von ihrer Klientschaft anvertraut worden ist. Die Entbindung verpflichtet sie nicht zur Preisgabe von Anvertrautem.
->
-> **2** Sie sorgen für die Wahrung des Berufsgeheimnisses durch ihre Hilfspersonen.
-
-*(Fedlex-Stand: 1. Januar 2026; Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen und Anwälte, SR 935.61)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

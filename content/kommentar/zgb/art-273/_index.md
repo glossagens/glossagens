@@ -2,11 +2,16 @@
 title: "Art. 273 ZGB — Persönlicher Verkehr"
 weight: 273
 date: "2026-05-23"
-lastmod: "2026-09-24"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 273 ZGB: Anspruchsvoraussetzungen (nicht sorgeberechtigter Elternteil, minderjähriges Kind, Gegenseitigkeit), Angemessenheit und Kindeswohl als Massstab, konkrete Gefährdung als Eingriffsschwelle, Kindeswille und Manipulation, Ermahnung und Weisung der KESB (Abs. 2), Regelungsanspruch (Abs. 3) sowie die prozessualen Grundsätze von Offizialmaxime und endgültiger Regelung — mit der Kasuistik des Bundesgerichts zu jeder Fallgruppe."
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Kindesschutz", "Loyalitätspflicht", "Kindeswille", "begleitetes Besuchsrecht", "Offizialmaxime", "ultima ratio", "KESB", "Weisung", "Regelungsanspruch"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-273.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -21,21 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 273 ZGB — Persönlicher Verkehr**
->
-> **Abs. 1**
->
-> Eltern, denen die elterliche Sorge oder Obhut nicht zusteht, und das minderjährige Kind haben gegenseitig Anspruch auf angemessenen persönlichen Verkehr.
->
-> **Abs. 2**
->
-> Die Kindesschutzbehörde kann Eltern, Pflegeeltern oder das Kind ermahnen und ihnen Weisungen erteilen, wenn sich die Ausübung oder Nichtausübung des persönlichen Verkehrs für das Kind nachteilig auswirkt oder wenn eine Ermahnung oder eine Weisung aus anderen Gründen geboten ist.
->
-> **Abs. 3**
->
-> Der Vater oder die Mutter können verlangen, dass ihr Anspruch auf persönlichen Verkehr geregelt wird.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 210](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de). Art. 273 Abs. 1 in der Fassung gemäss Ziff. I 4 des BG vom 25. Juni 1976, in Kraft seit 1. Januar 1978 (AS 1977 237); seit der Kindesrechtsrevision 2014 geschlechtsneutral formuliert («Eltern» statt «Vater»), BBl 2006 7001.*
 
 ### Die drei Absätze auf einen Blick
 

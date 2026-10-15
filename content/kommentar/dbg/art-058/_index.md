@@ -2,11 +2,16 @@
 title: "Art. 58 — Geschäftsmässig begründeter Aufwand und Reingewinn (juristische Personen)"
 weight: 58
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 58 Abs. 1 lit. b DBG — Geschäftsmässig begründeter Aufwand bei juristischen Personen: kaufmännische Angemessenheit, Normentheorie und Beweislast, fingierte Rechnungen, verdeckte Gewinnausschüttungen, Zuwendungen an Dritte, Art. 645 OR bei werdenden Gesellschaften, Aufrechnungspraxis im Bausektor, Suva-Revisionsunterlagen als Beweismittel. Mit Grenzkasuistik und Praxishinweisen."
 tags: ["DBG", "Direkte Bundessteuer", "geschäftsmässig begründeter Aufwand", "verdeckte Gewinnausschüttung", "Normentheorie", "Beweislast", "fingierte Rechnungen", "Aufrechnung", "Art. 645 OR", "Bausektor"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.11 vom 2026-09-02 (data/wortlaut/dbg/art-058.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,31 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 58 Allgemeines**
->
-> **1** Der steuerbare Reingewinn setzt sich zusammen aus:
->
-> a. dem Saldo der Erfolgsrechnung unter Berücksichtigung des Saldovortrages des Vorjahres;
->
-> b. allen vor Berechnung des Saldos der Erfolgsrechnung ausgeschiedenen Teilen des Geschäftsergebnisses, die nicht zur Deckung von geschäftsmässig begründetem Aufwand verwendet werden, wie insbesondere:
->
-> – Kosten für die Anschaffung, Herstellung oder Wertvermehrung von Gegenständen des Anlagevermögens,
->
-> – geschäftsmässig nicht begründete Abschreibungen und Rückstellungen,
->
-> – Einlagen in die Reserven,
->
-> – Einzahlungen auf das Eigenkapital aus Mitteln der juristischen Person, soweit sie nicht aus als Gewinn versteuerten Reserven erfolgen,
->
-> – offene und verdeckte Gewinnausschüttungen und geschäftsmässig nicht begründete Zuwendungen an Dritte;
->
-> c. den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Artikel 64.
->
-> **2** Der steuerbare Reingewinn juristischer Personen, die keine Erfolgsrechnung erstellen, bestimmt sich sinngemäss nach Absatz 1.
->
-> **3** Leistungen, welche gemischtwirtschaftliche, im öffentlichen Interesse tätige Unternehmen überwiegend an nahe stehende Personen erbringen, sind zum jeweiligen Marktpreis, zu den jeweiligen Gestehungskosten zuzüglich eines angemessenen Aufschlages oder zum jeweiligen Endverkaufspreis abzüglich einer angemessenen Gewinnmarge zu bewerten; das Ergebnis eines jeden Unternehmens ist entsprechend zu berichtigen.
-
-*Quelle: [Fedlex (SR 642.11, Art. 58)](https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_58), Konsolidierung Stand 2026-09-02.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 416 StPO — Geltungsbereich (Kosten, Entschädigung, Genugtuung)"
 weight: 416
 date: 2026-10-04
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 416 StPO (SR 312.0): Geltungsbereich des zehnten Titels (Kosten, Entschädigung und Genugtuung) für alle Verfahren nach der StPO — Anwendbarkeit auf Strafbefehlsverfahren, selbstständige nachträgliche Entscheide, Verfahrenskostenbegriff."
 tags: ["StPO", "Geltungsbereich", "Verfahrenskosten", "Entschädigung", "Genugtuung", "Strafbefehl", "nachträgliche Entscheide", "Kosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-416.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 75 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 416 StPO — Geltungsbereich (SR 312.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stpo/art-416/)
-
-> «Die Bestimmungen dieses Titels gelten für alle Verfahren nach diesem Gesetz.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

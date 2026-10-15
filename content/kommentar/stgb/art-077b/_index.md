@@ -2,11 +2,16 @@
 title: "Art. 77b StGB -- Halbgefangenschaft (Arbeit)"
 weight: 77
 date: 2026-05-17
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 77b StGB -- Halbgefangenschaft: Voraussetzungen, Begriff der Arbeit, Pensionäre, Vollzug und Leitentscheide"
 tags: ["StGB", "Halbgefangenschaft", "Arbeit", "Sanktionen", "Vollzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-077b.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: '2026-08-13'
     by: Hermes Agent
     model: glm-5.1
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 77b StGB — Halbgefangenschaft (Arbeit)**
->
-> 1 Auf Gesuch des Verurteilten hin kann eine Freiheitsstrafe von nicht mehr als 12 Monaten oder eine nach Anrechnung der Untersuchungshaft verbleibende Reststrafe von nicht mehr als sechs Monaten in der Form der Halbgefangenschaft vollzogen werden, wenn: a. nicht zu erwarten ist, dass der Verurteilte flieht oder weitere Straftaten begeht; und b. der Verurteilte einer geregelten Arbeit, Ausbildung oder Beschäftigung von mindestens 20 Stunden pro Woche nachgeht.
->
-> 2 Der Gefangene setzt seine Arbeit, Ausbildung oder Beschäftigung ausserhalb der Anstalt fort und verbringt die Ruhe- und Freizeit in der Anstalt.
->
-> 3 Die Halbgefangenschaft kann in einer besonderen Abteilung eines Untersuchungsgefängnisses durchgeführt werden, wenn die notwendige Betreuung des Verurteilten gewährleistet ist.
->
-> 4 Erfüllt der Verurteilte die Bewilligungsvoraussetzungen nicht mehr oder leistet er die Halbgefangenschaft trotz Mahnung nicht entsprechend den von der Vollzugsbehörde festgelegten Bedingungen und Auflagen, so wird die Freiheitsstrafe im Normalvollzug vollzogen.
+{{< wortlaut >}}
 
 
 ### Systematik und Zweck
@@ -102,3 +99,4 @@ Die fruehere Praxis, nach der Kantone von der Halbgefangenschaft Verurteilte aus
 | BGE 134 IV 17 | 2007 | Strafzumessung bei qualifizierter Widerhandlung gegen das BetmG; Beruecksichtigung der Halbgefangenschaftsmoeglichkeit bei der Strafzumessung (E. 3.5) |
 | BGer 7B_958/2024 | 2024 | Bewilligung der Halbgefangenschaft (Vollzugsbeschwerde) |
 | BGer 7B_1132/2024 | 2025 | Halbgefangenschaft vs. elektronische Ueberwachung; Voraussetzungen nach Art. 77b Abs. 1 StGB |
+

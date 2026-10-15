@@ -2,11 +2,16 @@
 title: "Art. 120 — Verzicht und Rückzug"
 weight: 120
 date: 2026-07-12
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 120 StPO – Verzicht und Rückzug der Privatklägerschaft: Endgültigkeit, Formularanforderungen, Umfang und Abgrenzung zum Rückzug des Strafantrags."
 tags: ["StPO", "Privatklägerschaft", "Verzicht", "Strafantrag", "Geschädigte Person", "Verfahrenskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-120.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 120 Verzicht und Rückzug**
->
-> **1** Die geschädigte Person kann jederzeit schriftlich oder mündlich zu Protokoll erklären, sie verzichte auf die ihr zustehenden Rechte. Der Verzicht ist endgültig.
->
-> **2** Wird der Verzicht nicht ausdrücklich eingeschränkt, so umfasst er die Straf- und die Zivilklage.
+{{< wortlaut >}}
 
 ## Kommentierung
 

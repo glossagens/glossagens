@@ -2,11 +2,16 @@
 title: "Art. 268 StPO — Beschlagnahme zur Kostendeckung (Deckungsbeschlagnahme)"
 weight: 268
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 268 StPO – Beschlagnahme zur Kostendeckung: Sicherung von Verfahrenskosten, Geldstrafen und Bussen, Schutz des Existenzminimums, Unpfändbarkeit nach Art. 92–94 SchKG und Freigabe für Verteidigungskosten."
 tags: ["StPO", "Beschlagnahme", "Kostendeckung", "Deckungsbeschlagnahme", "Existenzminimum", "SchKG", "Zwangsmassnahmen", "Verfahrenskosten", "Geldstrafe"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-268.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 268 StPO — Beschlagnahme zur Kostendeckung**
->
-> **1** Vom Vermögen der beschuldigten Person kann so viel beschlagnahmt werden, als voraussichtlich nötig ist zur Deckung:
->
-> a. der Verfahrenskosten und Entschädigungen;
->
-> b. der Geldstrafen und Bussen.
->
-> **2** Die Strafbehörde nimmt bei der Beschlagnahme auf die Einkommens- und Vermögensverhältnisse der beschuldigten Person und ihrer Familie Rücksicht.
->
-> **3** Von der Beschlagnahme ausgenommen sind Vermögenswerte, die nach den Artikeln 92–94 SchKG nicht pfändbar sind.
+{{< wortlaut >}}
 
 ---
 

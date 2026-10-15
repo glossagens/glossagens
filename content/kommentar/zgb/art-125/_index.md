@@ -2,11 +2,16 @@
 title: "Art. 125 — Nachehelicher Unterhalt"
 weight: 125
 date: "2026-05-24"
-lastmod: "2026-08-28"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 125 ZGB – Nachehelicher Unterhalt: Voraussetzungen, zweistufig-konkrete Berechnungsmethode, Lebensprägung, Bemessungskriterien, Befristung und kantonale Praxisfragen."
 tags: ["ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt", "Scheidung", "Lebensprägung", "Zweistufige Methode"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-125.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,24 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 125 ZGB — Nachehelicher Unterhalt**
->
-> 1 Ist einem Ehegatten nicht zuzumuten, dass er für den ihm gebührenden Unterhalt unter Einschluss einer angemessenen Altersvorsorge selbst aufkommt, so hat ihm der andere einen angemessenen Beitrag zu leisten.
->
-> 2 Beim Entscheid, ob ein Beitrag zu leisten sei und gegebenenfalls in welcher Höhe und wie lange, sind insbesondere zu berücksichtigen:
-> 1. die Aufgabenteilung während der Ehe;
-> 2. die Dauer der Ehe;
-> 3. die Lebensstellung während der Ehe;
-> 4. das Alter und die Gesundheit der Ehegatten;
-> 5. Einkommen und Vermögen der Ehegatten;
-> 6. der Umfang und die Dauer der von den Ehegatten noch zu leistenden Betreuung der Kinder;
-> 7. die berufliche Ausbildung und die Erwerbsaussichten der Ehegatten sowie der mutmassliche Aufwand für die berufliche Eingliederung der anspruchsberechtigten Person;
-> 8. die Anwartschaften aus der eidgenössischen Alters- und Hinterlassenenversicherung und aus der beruflichen oder einer anderen privaten oder staatlichen Vorsorge einschliesslich des voraussichtlichen Ergebnisses der Teilung der Austrittsleistungen.
->
-> 3 Ein Beitrag kann ausnahmsweise versagt oder gekürzt werden, wenn er offensichtlich unbillig wäre, insbesondere weil die berechtigte Person:
-> 1. ihre Pflicht, zum Unterhalt der Familie beizutragen, grob verletzt hat;
-> 2. ihre Bedürftigkeit mutwillig herbeigeführt hat;
-> 3. gegen die verpflichtete Person oder eine dieser nahe verbundenen Person eine schwere Straftat begangen hat.
+{{< wortlaut >}}
 
 ---
 

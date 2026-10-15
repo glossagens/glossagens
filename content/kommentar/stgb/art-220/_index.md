@@ -2,11 +2,16 @@
 title: "Art. 220 StGB — Entziehen und Vorenthalten von Minderjährigen"
 weight: 220
 date: 2026-05-16
-lastmod: 2026-09-16
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 220 StGB (Entziehen und Vorenthalten von Minderjährigen): Zivilrechtliches Aufenthaltsbestimmungsrecht, Kindesentführung und grenzüberschreitende Verbringung (BGE 125 IV 14, 141 IV 205, BGer 6B_123/2014, BL KG 460 23 184), Grenzkasuistik zur Besuchsrechtsvereitelung (AGVE 2004 Nr. 20, ZH OG SB090558, LGVE 2020 II Nr. 6), alternierende Obhut, Dauerdelikt und Antragsfrist — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Entziehen von Minderjährigen", "Vorenthalten", "Aufenthaltsbestimmungsrecht", "Kindesentführung", "Besuchsrechtsmissbrauch", "Besuchsrechtsvereitelung", "alternierende Obhut", "Dauerdelikt", "HKsÜ"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-220.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -20,11 +25,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 220 StGB — Entziehen und Vorenthalten von Minderjährigen**
->
-> Wer eine minderjährige Person dem Inhaber des Rechts zur Bestimmung des Aufenthaltsortes entzieht oder sich weigert, sie ihm zurückzugeben, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Fassung gemäss Anhang Ziff. 4 des Bundesgesetzes vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit 1. Juli 2014 (AS 2014 357; BBl 2011 9077, S. 9110). Strafdrohung angepasst durch das Bundesgesetz vom 13. Dezember 2002 (Allgemeiner Teil des StGB und Sanktionenreform), in Kraft seit 1. Januar 2007 (AS 2006 3459).*
 
 ---
 

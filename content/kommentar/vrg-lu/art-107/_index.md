@@ -2,11 +2,16 @@
 title: "§ 107 — Voraussetzungen des Sachentscheides, Nichteintreten"
 weight: 107
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu § 107 VRG (Luzern): Voraussetzungen des Sachentscheides und Nichteintreten, mit der Kasuistik der Luzerner Gerichte zu den einzelnen Eintretensvoraussetzungen, insbesondere zur Beschwerdebefugnis (lit. d) und zur frist- und formgerechten Rechtsvorkehr (lit. e)."
 tags: ["VRG", "Luzern", "Nichteintreten", "Sachentscheid", "Beschwerdebefugnis", "Rechtsmittelfrist", "Formvorschriften", "Eintretensvoraussetzungen"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-107.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
@@ -16,29 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **§ 107 2. Voraussetzungen des Sachentscheides, Nichteintreten**
->
-> 1 Die Behörde prüft von Amtes wegen, ob die Voraussetzungen für einen Sachentscheid erfüllt sind. Sie kann das Verfahren und den Entscheid vorerst auf diese Fragen beschränken.
->
-> 2 Ein Sachentscheid setzt namentlich voraus:
->
-> a. Zuständigkeit der angerufenen Behörde;
->
-> b. Partei- und Verfahrensfähigkeit der Parteien;
->
-> c. Vertretungsbefugnis der Parteivertreter;
->
-> d. Befugnis zur Rechtsvorkehr;
->
-> e. frist- und formgerechte Rechtsvorkehr;
->
-> f. dass in der gleichen Sache kein anderes Verfahren hängig ist;
->
-> g. dass in der gleichen Sache kein rechtskräftiger Entscheid ergangen ist, dessen Änderung oder Aufhebung der angerufenen Behörde nicht zusteht.
->
-> 3 Fehlt eine Voraussetzung für den Sachentscheid, so tritt die Behörde auf die Sache der betreffenden Partei nicht ein.
-
-*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

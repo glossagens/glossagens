@@ -2,11 +2,16 @@
 title: "Art. 398 — Sorgfaltspflicht und persönliche Besorgung"
 weight: 398
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 398 OR — Sorgfaltspflicht des Beauftragten, persönliche Besorgung, Substitution, Haftung für Hilfspersonen"
 tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Hilfspersonen", "Entschädigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-398.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 83 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Beauftragte haftet im Allgemeinen für die gleiche Sorgfalt wie der Arbeitnehmer im Arbeitsverhältnis.^[Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 (AS 1971 1465; BBl 1967 II 241). Siehe auch die Schl- und UeB des X. Tit.]
->
-> **2** Er haftet dem Auftraggeber für getreue und sorgfältige Ausführung des ihm übertragenen Geschäftes.
->
-> **3** Er hat das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Januar 1972.*
 
 ### Prüfschema
 

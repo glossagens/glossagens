@@ -2,11 +2,16 @@
 title: "Art. 18 UVG — Invalidität"
 weight: 18
 date: 2026-07-18
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 IVV auf die UVG (BGer 8C_254/2025, bestätigt durch 8C_188/2026 und 8C_65/2026). Beweiswert unvollständiger Gutachten ohne MRI stark vermindert (8C_165/2026)."
 tags: ["UVG", "Invalidenrente", "Sozialversicherung", "Invalidität", "IVV"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -36,12 +41,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 18 UVG (SR 832.20)** — Invalidität
->
-> **1** Ist der Versicherte infolge des Unfalles zu mindestens 10 Prozent invalid (Art. 8 ATSG), so hat er Anspruch auf eine Invalidenrente, sofern sich der Unfall vor Erreichen des Referenzalters ereignet hat.
->
-> **2** Der Bundesrat regelt die Bemessung des Invaliditätsgrades in Sonderfällen. Er kann dabei auch von Artikel 16 ATSG abweichen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

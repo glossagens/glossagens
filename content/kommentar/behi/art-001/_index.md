@@ -2,11 +2,16 @@
 title: "Art. 1 — Zweck und Geltungsbereich"
 weight: 1
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 1 BehiG – Zweck und Geltungsbereich des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen"
 tags: ["BehiG", "Behindertengleichstellung", "Gleichstellung", "Behinderung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 151.3 vom 2020-07-01 (data/wortlaut/behi/art-001.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "glm-5.1"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 1 BehiG — Zweck**
->
-> **1** Das Gesetz hat zum Zweck, Benachteiligungen zu verhindern, zu verringern oder zu beseitigen, denen Menschen mit Behinderungen ausgesetzt sind.
->
-> **2** Es setzt Rahmenbedingungen, die es Menschen mit Behinderungen erleichtern, am gesellschaftlichen Leben teilzunehmen und insbesondere selbstständig soziale Kontakte zu pflegen, sich aus- und weiterzubilden und eine Erwerbstätigkeit auszuüben. Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 (AS 2016 689; BBl 2013 3729).
+{{< wortlaut >}}
 
 ## Kommentierung
 

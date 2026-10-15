@@ -2,11 +2,16 @@
 title: "Art. 431 StPO — Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft"
 weight: 431
 date: 2026-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 431 StPO: Entschädigung und Genugtuung bei rechtswidrigen Zwangsmassnahmen (Abs. 1) und Überhaft (Abs. 2) — Formelle Rechtswidrigkeit bei fehlendem Hafttitel, konventionswidrige Haftbedingungen (Art. 3 EMRK), Schwellenwerte bei Vorführung und Festhaltung, Primat des Realersatzes bei Massnahmen (Art. 59 und 63 StGB), absolutes Verrechnungsverbot mit Gerichtskosten sowie gesetzliche Ausschlussgründe nach Abs. 3."
 tags: ["StPO", "Entschädigung", "Genugtuung", "Zwangsmassnahmen", "Überhaft", "Untersuchungshaft", "Sicherheitshaft", "Freiheitsentzug", "Haftbedingungen", "EMRK", "Massnahmenvollzug", "Verrechnungsverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-431.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -26,19 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 431 StPO — Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft**
->
-> 1 Sind gegenüber der beschuldigten Person rechtswidrig Zwangsmassnahmen angewandt worden, so spricht ihr die Strafbehörde eine angemessene Entschädigung und Genugtuung zu.
->
-> 2 Im Fall von Untersuchungs- und Sicherheitshaft besteht der Anspruch, wenn die zulässige Haftdauer überschritten ist und der übermässige Freiheitsentzug nicht an die wegen anderer Straftaten ausgesprochenen Sanktionen angerechnet werden kann.
->
-> 3 Der Anspruch nach Absatz 2 entfällt, wenn die beschuldigte Person:
->
-> a. zu einer Geldstrafe, zu gemeinnütziger Arbeit oder zu einer Busse verurteilt wird, die umgewandelt eine Freiheitsstrafe ergäbe, die nicht wesentlich kürzer wäre als die ausgestandene Untersuchungs- und Sicherheitshaft;
->
-> b. zu einer bedingten Freiheitsstrafe verurteilt wird, deren Dauer die ausgestandene Untersuchungs- und Sicherheitshaft überschreitet.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Marginale in der Fassung gemäss Ziff. I des Bundesgesetzes vom 17. Juni 2022 (Harmonisierung der Strafrahmen und Anpassungen des Strafprozessrechts), in Kraft seit 1. Januar 2024 ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://www.fedlex.admin.ch/eli/fga/2019/6697/de)).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

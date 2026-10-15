@@ -2,11 +2,16 @@
 title: "Art. 384 StPO — Fristbeginn bei Rechtsmitteln"
 weight: 384
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 384 StPO – Fristbeginn bei Rechtsmitteln: Dispositivzustellung bei Urteilen (lit. a), Entscheideröffnung bei Beschlüssen und Verfügungen (lit. b), Kenntnisnahme bei mündlichen Handlungen (lit. c) und Zustellfiktion."
 tags: ["StPO", "Rechtsmittel", "Fristbeginn", "Urteilsdispositiv", "Zustellung", "Zustellfiktion", "Verwirkungsfrist", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-384.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 384 StPO — Fristbeginn**
->
-> Die Rechtsmittelfrist beginnt:
->
-> a. im Falle eines Urteils: mit der Aushändigung oder Zustellung des schriftlichen Dispositivs;
->
-> b. bei andern Entscheiden: mit der Zustellung des Entscheides;
->
-> c. bei einer nicht schriftlich eröffneten Verfahrenshandlung: mit der Kenntnisnahme.
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 112 StGB — Mord"
 weight: 112
 date: 2026-09-05
-lastmod: "2026-09-05"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung — Besondere Skrupellosigkeit (Generalklausel), Beweggrund, Zweck, Art der Ausführung (Heimtücke, Grausamkeit), Gesamtwürdigung, In-dubio-pro-reo-Abgrenzung zu Art. 111 StGB — mit zweiseitiger Grenzkasuistik."
 tags: ["StGB", "Mord", "Qualifizierte Tötung", "Skrupellosigkeit", "Heimtücke", "Grausamkeit", "Beweggrund", "In dubio pro reo", "Tötungsdelikte", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-112.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 66 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,14 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 112 StGB — Mord**¹
->
-> Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.²
->
-> ¹ Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 (AS 1989 2449; BBl 1985 II 1009).
-> ² Strafdrohungen neu umschrieben gemäss Ziff. II 1 Abs. 16 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 (AS 2006 3459; BBl 1999 1979).
-
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_112), Stand der Konsolidierung 12. Juni 2026.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,39 +2,21 @@
 title: "Art. 37 — Eingriffe in oberirdische Gewässer"
 weight: 37
 date: 2026-06-07
-lastmod: 2026-06-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 37 GSchG — Verbauungsverbot, Korrekturvorbehalt, Gewässerraumgestaltung und ökologische Anforderungen"
 tags: ["GSchG", "Gewässerschutz", "Verbauung", "Revitalisierung", "Gewässerraum", "Hochwasserschutz"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 814.20 vom 2025-08-01 (data/wortlaut/gschg/art-037.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 37 Eingriffe in oberirdische Gewässer**
->
-> **1** Oberirdische Gewässer dürfen nur verbaut und korrigiert werden, wenn:
->
->   a. der Hochwasserschutz es erfordert (Art. 3 Abs. 1–3 des Wasserbaugesetzes vom 21. Juni 1991 SR 721.100);
->
->   b. es für die Schiffbarmachung oder für eine im öffentlichen Interesse liegende Nutzung der Wasserkraft nötig ist;
->
->   c. es für die Errichtung einer Deponie nötig ist, die nur am vorgesehenen Standort errichtet werden kann und auf der ausschliesslich unverschmutztes Aushub- und Ausbruchmaterial abgelagert wird; oder
->
->   d. dadurch der Zustand eines bereits verbauten oder korrigierten oberirdischen Gewässers im Sinn dieses Gesetzes verbessert werden kann.
->
-> **2** Bei Eingriffen in das oberirdische Gewässer muss dessen natürlicher Verlauf möglichst beibehalten oder wiederhergestellt werden.
->
-> **3** Oberirdische Gewässer und Gewässerraum müssen so gestaltet und unterhalten werden, dass:
->
->   a. sie einer vielfältigen Tier- und Pflanzenwelt als Lebensraum dienen können;
->
->   b. die Wechselwirkungen zwischen ober- und unterirdischen Gewässern so weit als möglich erhalten bleiben;
->
->   c. eine standortgerechte Ufervegetation gedeihen kann.
->
-> **4** In überbauten Gebieten kann die Behörde Ausnahmen von den Absätzen 2 und 3 bewilligen.
->
-> **5** Für die Schaffung künstlicher Gewässer, die Instandstellung und die Verstärkung bestehender Schutzbauten nach Schadenereignissen gelten die Absätze 2 und 3 sinngemäss.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 398 ZGB — Umfassende Beistandschaft"
 weight: 398
 date: 2026-05-23
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Umfassende Beistandschaft nach Art. 398 ZGB: Gesetzliche Voraussetzungen, ipso iure Entfall der Handlungsfähigkeit, Sachverständigengutachten und kantonale Praxis."
 tags: ["ZGB", "Erwachsenenschutz", "Beistandschaft", "Handlungsunfähigkeit", "Urteilsunfähigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-398.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-2.5-pro"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 398 ZGB — Umfassende Beistandschaft**
->
-> <sup>1</sup> Eine umfassende Beistandschaft wird errichtet, wenn eine Person, namentlich wegen dauernder Urteilsunfähigkeit, besonders hilfsbedürftig ist.
->
-> <sup>2</sup> Sie bezieht sich auf alle Angelegenheiten der Personensorge, der Vermögenssorge und des Rechtsverkehrs.
->
-> <sup>3</sup> Die Handlungsfähigkeit der betroffenen Person entfällt von Gesetzes wegen.
+{{< wortlaut >}}
 
 ## Überblick und Systematik
 

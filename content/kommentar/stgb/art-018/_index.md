@@ -2,11 +2,16 @@
 title: "Art. 18 — Entschuldigender Notstand"
 weight: 18
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 18 StGB — entschuldigender Notstand (Abs. 1: Milderung bei Zumutbarkeit der Preisgabe; Abs. 2: Entschuldigung bei Unzumutbarkeit), Kollision von Gütern, subjektives Erfordernis, Abgrenzung zu rechtfertigendem Notstand (Art. 17)."
 tags: ["StGB", "Notstand", "entschuldigender Notstand", "Schuld", "Güterkollision", "Zumutbarkeit", "Rechtfertigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,13 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 18**
->
-> **1** Wer eine mit Strafe bedrohte Tat begeht, um sich oder eine andere Person aus einer unmittelbaren, nicht anders abwendbaren Gefahr für Leib, Leben, Freiheit, Ehre, Vermögen oder andere hochwertige Güter zu retten, wird milder bestraft, wenn ihm zuzumuten war, das gefährdete Gut preiszugeben.
->
-> **2** War dem Täter nicht zuzumuten, das gefährdete Gut preiszugeben, so handelt er nicht schuldhaft.
-
-*Konsolidierungsstand: 12.06.2026 (Fedlex, SR 311.0).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

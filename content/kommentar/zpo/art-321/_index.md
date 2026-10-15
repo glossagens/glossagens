@@ -2,11 +2,16 @@
 title: "Art. 321 ZPO — Einreichen der Beschwerde"
 weight: 321
 date: 2026-07-19
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 321 ZPO: Einreichen der Beschwerde im Zivilprozess — Fristen (30 Tage / 10 Tage), Begründungsanforderungen, Rechtsverzögerung und Kasuistik."
 tags: ["ZPO", "Beschwerde", "Beschwerdefrist", "Rechtsmittel", "Begründungspflicht", "Revision 2025", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-321.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,16 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 321 ZPO (SR 272)** — Einreichen der Beschwerde
->
-> **1** Die Beschwerde ist bei der Rechtsmittelinstanz innert 30 Tagen seit der Zustellung des begründeten Entscheides oder seit der nachträglichen Zustellung der Entscheidbegründung (Art. 239) schriftlich und begründet einzureichen.
->
-> **2** Wird ein im summarischen Verfahren ergangener Entscheid oder werden andere erstinstanzliche Entscheide und prozessleitende Verfügungen angefochten, so beträgt die Beschwerdefrist zehn Tage, sofern das Gesetz nichts anderes bestimmt.
->
-> **3** Der angefochtene Entscheid oder die angefochtene prozessleitende Verfügung ist beizulegen, soweit die Partei sie in Händen hat.
->
-> **4** Gegen Rechtsverzögerung kann jederzeit Beschwerde eingereicht werden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

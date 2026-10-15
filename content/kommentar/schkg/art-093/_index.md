@@ -2,11 +2,16 @@
 title: "Art. 93 SchKG — Beschränkt pfändbare Vermögenswerte"
 weight: 93
 date: 2026-09-01
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 93 SchKG: Lohn- und Erwerbseinkommenspfändung, Existenzminimum, Notbedarfsberechnung, Einjahresfrist, Anpassung bei veränderten Verhältnissen, Direktüberweisung von Krankenkassenprämien (Abs. 4), Säule 3a, BVG-Freizügigkeitsleistungen, IV-Taggelder, Grenzkasuistik."
 tags: ["SchKG", "Lohnpfändung", "Existenzminimum", "Notbedarf", "Erwerbseinkommen", "Krankenkassenprämien", "Einkommenspfändung", "Säule 3a", "BVG", "IV-Taggelder", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-093.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -26,18 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 93 SchKG (SR 281.1)** — Beschränkt pfändbare Vermögenswerte
->
-> **1** Erwerbseinkommen jeder Art, Nutzniessungen und ihre Erträge, Leibrenten sowie Unterhaltsbeiträge, Pensionen und Leistungen jeder Art, die einen Erwerbsausfall oder Unterhaltsanspruch abgelten, namentlich Renten und Kapitalabfindungen, die nicht nach Artikel 92 unpfändbar sind, können so weit gepfändet werden, als sie nach dem Ermessen des Betreibungsbeamten für den Schuldner und seine Familie nicht unbedingt notwendig sind.
->
-> **2** Solches Einkommen kann längstens für die Dauer eines Jahres gepfändet werden; die Frist beginnt mit dem Pfändungsvollzug. Nehmen mehrere Gläubiger an der Pfändung teil, so läuft die Frist von der ersten Pfändung an, die auf Begehren eines Gläubigers der betreffenden Gruppe (Art. 110 und 111) vollzogen worden ist.
->
-> **3** Erhält das Amt während der Dauer einer solchen Pfändung Kenntnis davon, dass sich die für die Bestimmung des pfändbaren Betrages massgebenden Verhältnisse geändert haben, so passt es die Pfändung den neuen Verhältnissen an.
->
-> **4** Auf Antrag des Schuldners weist das Amt den Arbeitgeber des Schuldners an, während der Dauer der Einkommenspfändung zusätzlich den für die Bezahlung der laufenden Prämien- und Kostenbeteiligungsforderungen der obligatorischen Krankenpflegeversicherung erforderlichen Betrag an das Amt zu überweisen, soweit diese Prämien und Kostenbeteiligungen zum Existenzminimum des Schuldners gehören. Das Amt begleicht damit die laufenden Prämien- und Kostenbeteiligungensforderungen direkt beim Versicherer.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Abs. 4 eingefügt durch Ziff. III des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2024 (AS 2023 678; BBl 2021 745, 1058).*
 
 ---
 

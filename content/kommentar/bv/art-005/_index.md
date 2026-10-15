@@ -2,11 +2,16 @@
 title: "Art. 5 BV — Grundsätze rechtsstaatlichen Handelns"
 weight: 5
 date: 2026-05-24
-lastmod: "2026-08-12"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 5 BV — Legalitätsprinzip, öffentliches Interesse und Verhältnismässigkeit, Treu und Glauben, Beachtung des Völkerrechts"
 tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht", "Rechtsstaatlichkeit"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 5 BV — Grundsätze rechtsstaatlichen Handelns**
->
-> ¹ Grundlage und Schranke staatlichen Handelns ist das Recht.
->
-> ² Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
->
-> ³ Staatliche Organe und Private handeln nach Treu und Glauben.
->
-> ⁴ Bund und Kantone beachten das Völkerrecht.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Überblick
 

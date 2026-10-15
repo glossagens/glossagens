@@ -2,11 +2,16 @@
 title: "Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft"
 weight: 229
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 229 StPO – Entscheid über die Anordnung der Sicherheitshaft: Richterliche Zuständigkeit des Zwangsmassnahmengerichts (Abs. 1), Haftverfahren des Sachgerichts bei nachträglichen Haftgründen (Abs. 2) sowie anwendbare Verfahrensregeln (Abs. 3)."
 tags: ["StPO", "Sicherheitshaft", "Untersuchungshaft", "Zwangsmassnahmengericht", "Anklageerhebung", "Sachgericht", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-229.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 229 StPO — Entscheid über die Anordnung der Sicherheitshaft**
->
-> **1** Über die Anordnung der Sicherheitshaft bei vorbestehender Untersuchungshaft entscheidet das Zwangsmassnahmengericht auf schriftliches Gesuch der Staatsanwaltschaft.
->
-> **2** Ergeben sich erst nach der Anklageerhebung Haftgründe, so führt die Verfahrensleitung des erstinstanzlichen Gerichts in sinngemässer Anwendung von Artikel 224 ein Haftverfahren durch und beantragt dem Zwangsmassnahmengericht die Anordnung der Sicherheitshaft.
->
-> **3** Das Verfahren vor dem Zwangsmassnahmengericht richtet sich:
->
-> a. ohne vorbestehende Untersuchungshaft: sinngemäss nach den Artikeln 225 und 226;
->
-> b. bei vorbestehender Untersuchungshaft: sinngemäss nach Artikel 227.
+{{< wortlaut >}}
 
 ---
 

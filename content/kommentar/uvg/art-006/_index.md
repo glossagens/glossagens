@@ -2,11 +2,16 @@
 title: "Art. 6 — Allgemeines (Versicherungsfall)"
 weight: 6
 date: 2026-07-03
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 6 UVG: die fünf Merkmale des Unfallbegriffs (Art. 4 ATSG) mit der Kasuistik zur Ungewöhnlichkeit — Auto-Scooter, Bandencheck, Bergwanderung, Nadelstich, Raubüberfall, ärztlicher Eingriff —, die Listenverletzung nach Abs. 2 mit dem Entlastungsbeweis der 50-Prozent-Schwelle, die Behandlungsschäden nach Abs. 3 sowie Kausalität, Status quo sine und Beweisrecht."
 tags: ["UVG", "Unfallversicherung", "Unfallbegriff", "ungewöhnlicher äusserer Faktor", "Listenverletzung", "unfallähnliche Körperschädigung", "Entlastungsbeweis", "Kausalzusammenhang", "Status quo sine", "Schreckereignis", "Behandlungsschaden", "Beweiswert", "Suva"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,27 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 6 UVG — Allgemeines**
->
-> ---
->
-> **Abs. 1 — Die drei Versicherungsfälle**
->
-> Soweit dieses Gesetz nichts anderes bestimmt, werden die Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und Berufskrankheiten gewährt.
->
-> ---
->
-> **Abs. 2 — Listenverletzungen (unfallähnliche Körperschädigungen)**
->
-> Die Versicherung erbringt ihre Leistungen auch bei folgenden Körperschädigungen, sofern sie **nicht vorwiegend auf Abnützung oder Erkrankung zurückzuführen** sind:
->
-> **a.** Knochenbrüche; **b.** Verrenkungen von Gelenken; **c.** Meniskusrisse; **d.** Muskelrisse; **e.** Muskelzerrungen; **f.** Sehnenrisse; **g.** Bandläsionen; **h.** Trommelfellverletzungen.
->
-> ---
->
-> **Abs. 3 — Behandlungsschäden**
->
-> Die Versicherung erbringt ihre Leistungen ausserdem für Schädigungen, die dem Verunfallten bei der Heilbehandlung zugefügt werden (Art. 10).
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 832.20](https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/de), Stand der Konsolidierung 1. Januar 2026. Abs. 2 in der Fassung gemäss Ziff. I des BG vom 25. September 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Januar 2017 (AS 2016 4375; BBl 2008 5395, 2014 7911). Der Unfallbegriff selbst steht nicht im UVG, sondern in [Art. 4 ATSG](https://www.fedlex.admin.ch/eli/cc/2002/510/de) (SR 830.1, Stand 1. Januar 2024): «Unfall ist die plötzliche, nicht beabsichtigte schädigende Einwirkung eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper, die eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit oder den Tod zur Folge hat.»*
 

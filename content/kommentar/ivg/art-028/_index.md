@@ -2,24 +2,21 @@
 title: "Art. 28 — Rentenanspruch"
 weight: 28
 date: 2026-06-07
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 28 IVG — Rentenanspruch bei Invalidität: Voraussetzungen, Einkommensvergleich, Eingliederungsvorrang, Beitragsdauer und ordentliche vs. ausserordentliche Rente"
 tags: ["IVG", "Rentenanspruch", "Invalidität", "Einkommensvergleich", "Eingliederung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-028.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 28 Rentenanspruch**
->
-> **1** Anspruch auf eine Rente haben Versicherte, die:
-> a. ihre Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen, nicht durch zumutbare Eingliederungsmassnahmen wieder herstellen, erhalten oder verbessern können;
-> b. während eines Jahres ohne wesentlichen Unterbruch durchschnittlich mindestens 40 Prozent arbeitsunfähig (Art. 6 ATSG SR 830.1) gewesen sind; und
-> c. nach Ablauf dieses Jahres zu mindestens 40 Prozent invalid (Art. 8 ATSG) sind.
->
-> **1bis** Eine Rente nach Absatz 1 wird nicht zugesprochen, solange die Möglichkeiten zur Eingliederung im Sinne von Artikel 8 Absätze 1bis und 1ter nicht ausgeschöpft sind.
->
-> **2** *(aufgehoben)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 269 StPO — Überwachung des Post- und Fernmeldeverkehrs"
 weight: 269
 date: "2026-07-04"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 269 StPO: Voraussetzungen der Überwachung des Post- und Fernmeldeverkehrs — dringender Tatverdacht, Deliktskatalog, Subsidiarität, Zufallsfunde."
 tags: ["Überwachung", "Fernmeldeverkehr", "Telefonüberwachung", "geheime Überwachungsmassnahmen", "Deliktskatalog", "Zufallsfund", "Randdaten", "Fernmeldegeheimnis"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-269.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 55 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 269 StPO — Voraussetzungen**
->
-> 1 Die Staatsanwaltschaft kann den Post- und den Fernmeldeverkehr überwachen lassen, wenn:
->
-> a. der dringende Verdacht besteht, eine in Absatz 2 genannte Straftat sei begangen worden;
->
-> b. die Schwere der Straftat die Überwachung rechtfertigt; und
->
-> c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
->
-> 2 Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten angeordnet werden: [abschliessender Deliktskatalog; erfasst sind namentlich zahlreiche StGB-Tatbestände (u.a. Tötungs-, Körperverletzungs-, Vermögens-, Sexual- und Staatsschutzdelikte) sowie Katalogtaten des AIG, KMG, KEG, BetmG, USG, GKG, SpoFöG, FinfraG, WG, HMG, BGS und NDG.]
->
-> 3 Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979 aufgeführten Straftaten.
+{{< wortlaut >}}
 
 *Der Katalog von Abs. 2 wird laufend revidiert (zuletzt u.a. Sexualstrafrecht per 1.7.2024, USG-Katalogtaten per 1.4.2025); massgebend ist der aktuelle Fedlex-Stand.*
 

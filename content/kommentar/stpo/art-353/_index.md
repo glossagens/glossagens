@@ -2,11 +2,16 @@
 title: "Art. 353 — Inhalt und Eröffnung des Strafbefehls"
 weight: 353
 date: "2026-06-27"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 353 StPO — Inhaltliche Anforderungen an den Strafbefehl, Zivilforderungen im Strafbefehlsverfahren, Eröffnung und Unterschrift"
 tags: ["StPO", "Strafbefehl", "Anklagegrundsatz", "Eröffnung", "Zivilforderungen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-353.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,41 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 353 StPO — Inhalt und Eröffnung des Strafbefehls**
->
-> **1** Der Strafbefehl enthält:
->
-> **a.** die Bezeichnung der verfügenden Behörde;
->
-> **b.** die Bezeichnung der beschuldigten Person;
->
-> **c.** den Sachverhalt, welcher der beschuldigten Person zur Last gelegt wird;
->
-> **d.** die dadurch erfüllten Straftatbestände;
->
-> **e.** die Sanktion;
->
-> **f.** den kurz begründeten Widerruf einer bedingt ausgesprochenen Sanktion oder einer bedingten Entlassung;
->
-> **f. bis** die Löschfrist für ein allfällig bestehendes DNA-Profil;
->
-> **g.** die Kosten- und Entschädigungsfolgen;
->
-> **h.** die Bezeichnung beschlagnahmter Gegenstände und Vermögenswerte, die freigegeben oder eingezogen werden;
->
-> **i.** den Hinweis auf die Möglichkeit der Einsprache und die Folgen einer unterbliebenen Einsprache;
->
-> **j.** Ort und Datum der Ausstellung;
->
-> **k.** die Unterschrift der ausstellenden Person.
->
-> **2** Die Staatsanwaltschaft kann im Strafbefehlsverfahren über Zivilforderungen entscheiden, soweit diese von der beschuldigten Person anerkannt sind oder sofern:
->
-> **a.** deren Beurteilung ohne weitere Beweiserhebungen möglich ist; und
->
-> **b.** der Streitwert 30 000 Franken nicht übersteigt.
->
-> **3** Der Strafbefehl wird den Personen und Behörden, die zur Einsprache befugt sind, unverzüglich schriftlich eröffnet.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

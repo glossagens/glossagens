@@ -2,11 +2,16 @@
 title: "Art. 321d OR — Weisungsrecht des Arbeitgebers"
 weight: 321
 date: 2026-09-03
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 321d OR entlang der Tatbestandsmerkmale: Weisungskompetenz, sachlicher Gegenstand (Arbeitsausführung und Betriebsverhalten), die drei Schranken (Vertrag, zwingendes Recht, Persönlichkeitsschutz nach Art. 328 OR) sowie die Befolgungspflicht nach Treu und Glauben mit Remonstrationsobliegenheit. Mit merkmalsbezogener Grenzkasuistik zu Impf- und Testweisungen, Dresscodes, IT-Überwachung, Versetzung und Änderungskündigung — und offengelegtem Streit über die Befolgungspflicht bei zweifelhafter Weisung."
 tags: ["OR", "Arbeitsrecht", "Weisungsrecht", "Direktionsrecht", "Persönlichkeitsschutz", "Fürsorgepflicht", "Befolgungspflicht", "Weisungsverweigerung", "Arbeitsverweigerung", "Versetzung", "Dresscode", "Überwachung", "ArGV 3", "Impfobligatorium", "fristlose Kündigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-321d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 90 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,21 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 321d OR — Weisungsrecht des Arbeitgebers**
->
-> ---
->
-> **Abs. 1 — Weisungsgewalt des Arbeitgebers**
->
-> Der Arbeitgeber kann über die Ausführung der Arbeit und das Verhalten der Arbeitnehmer im Betrieb oder Haushalt allgemeine Anordnungen erlassen und ihnen besondere Weisungen erteilen.
->
-> ---
->
-> **Abs. 2 — Befolgungspflicht des Arbeitnehmers**
->
-> Der Arbeitnehmer hat die allgemeinen Anordnungen des Arbeitgebers und die ihm erteilten besonderen Weisungen nach Treu und Glauben zu befolgen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ---
 

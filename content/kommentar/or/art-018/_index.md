@@ -2,11 +2,16 @@
 title: "Art. 18 OR — Auslegung der Verträge / Simulation"
 weight: 18
 date: 2026-09-11
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 18 OR: Vertragsauslegung (subjektive Auslegung, Vertrauensprinzip, falsa demonstratio non nocet, Lückenfüllung, AGB-Kontrolle) und Simulation (Scheingeschäft, dissimulierter Vertrag, Falschbeurkundung, Abgrenzung zu Treuhand und Umgehung, Schutz gutgläubiger Dritter nach Abs. 2) mit ausführlicher Kasuistik der Gerichte."
 tags: ["OR", "Vertragsrecht", "Vertragsauslegung", "Simulation", "Scheingeschäft", "Vertrauensprinzip", "falsa demonstratio", "dissimuliertes Geschäft", "Beweislast", "Grundstückkauf", "AGB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 18 OR — D. Auslegung der Verträge / Simulation**
->
-> ¹ Bei der Beurteilung eines Vertrages sowohl nach Form als nach Inhalt ist der übereinstimmende wirkliche Wille und nicht die unrichtige Bezeichnung oder Ausdrucksweise zu beachten, die von den Parteien aus Irrtum oder in der Absicht gebraucht wird, die wahre Beschaffenheit des Vertrages zu verbergen.
->
-> ² Dem Dritten, der die Forderung im Vertrauen auf ein schriftliches Schuldbekenntnis erworben hat, kann der Schuldner die Einrede der Simulation nicht entgegensetzen.
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht), in Kraft seit 1. Januar 1912 (AS 27 317).*
 
 ### Die zwei Säulen von Art. 18 OR auf einen Blick
 

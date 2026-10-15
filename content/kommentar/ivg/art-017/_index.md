@@ -2,11 +2,16 @@
 title: "Art. 17 — Umschulung"
 weight: 17
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 17 IVG — Anspruch auf Umschulung auf eine neue Erwerbstätigkeit: Voraussetzungen (Invalidität, Notwendigkeit, gleichwertige Tätigkeit, Mindesterwerbseinbusse), Wiedereinschulung, Abbruch einer Massnahme, Verhältnis zu Art. 8 und 18 IVG."
 tags: ["IVG", "Umschulung", "Wiedereinschulung", "Eingliederungsmassnahme", "Invalidenversicherung", "Erwerbsfähigkeit", "Mindesterwerbseinbusse"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 86 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,13 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 17 Umschulung**
->
-> **1** Der Versicherte hat Anspruch auf Umschulung auf eine neue Erwerbstätigkeit, wenn die Umschulung infolge Invalidität notwendig ist und dadurch die Erwerbsfähigkeit voraussichtlich erhalten oder verbessert werden kann. Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Januar 2004 (AS 2003 3837; BBl 2001 3205).
->
-> **2** Der Umschulung auf eine neue Erwerbstätigkeit ist die Wiedereinschulung in den bisherigen Beruf gleichgestellt.
-
-*Quelle: [Fedlex (SR 831.20, Art. 17)](https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/de#art_17), Konsolidierung Stand 2026-01-01.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

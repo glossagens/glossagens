@@ -2,11 +2,16 @@
 title: "Art. 163 — Ehegattenunterhalt / Familienunterhalt"
 weight: 163
 date: "2026-06-28"
-lastmod: "2026-08-09"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: Familienunterhalt, Beitragsarten, Bemessungsgrundsätze, Existenzminimum, hypothetisches Einkommen"
 tags: ["ZGB", "Ehegattenunterhalt", "Familienunterhalt", "Eherecht", "Unterhaltspflicht", "Existenzminimum"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-163.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -26,13 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 163 ZGB — Unterhalt der Familie**
->
-> 1 Die Ehegatten sorgen gemeinsam, ein jeder nach seinen Kräften, für den gebührenden Unterhalt der Familie.
->
-> 2 Sie verständigen sich über den Beitrag, den jeder von ihnen leistet, namentlich durch Geldzahlungen, Besorgen des Haushaltes, Betreuen der Kinder oder durch Mithilfe im Beruf oder Gewerbe des andern.
->
-> 3 Dabei berücksichtigen sie die Bedürfnisse der ehelichen Gemeinschaft und ihre persönlichen Umstände.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,12 +2,17 @@
 title: "Art. 50 BV — Gemeindeautonomie"
 weight: 50
 date: 2026-08-10
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 50 BV — Gemeindeautonomie nach Massgabe des kantonalen Rechts, Rücksichtnahmepflicht des Bundes, Städte und Agglomerationen"
 tags: ["BV", "Gemeindeautonomie", "Selbstverwaltung", "kantonales Recht", "Föderalismus", "Gemeinden"]
 agent_verified: false
 mcp_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-050.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -22,15 +27,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 50 BV — Gemeindeautonomie**
->
-> ¹ Die Gemeindeautonomie ist nach Massgabe des kantonalen Rechts gewährleistet.
->
-> ² Der Bund beachtet bei seinem Handeln die möglichen Auswirkungen auf die Gemeinden.
->
-> ³ Er nimmt dabei Rücksicht auf die besondere Situation der Städte und der Agglomerationen sowie der Berggebiete.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Kommentierung
 

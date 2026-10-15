@@ -2,11 +2,16 @@
 title: "Art. 426 StPO — Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren"
 weight: 426
 date: 2026-07-11
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 426 StPO: Kostentragung bei Verurteilung, Teilfreispruch und Ausscheidungsmethode, Ausnahme für amtliche Verteidigung, Kostenauflage bei Freispruch oder Einstellung nach Abs. 2 (zivilrechtliche Vorwerfbarkeit, Unschuldsvermutung, Nemo-tenetur-Schranke), unnötige und fehlerhafte Verfahrenshandlungen nach Abs. 3 lit. a, Übersetzungskosten nach Abs. 3 lit. b, unentgeltliche Rechtsbeistandschaft der Privatklägerschaft nach Abs. 4 sowie selbstständiges Massnahmeverfahren nach Abs. 5."
 tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung", "Teilfreispruch", "Unschuldsvermutung", "Nemo tenetur", "Amtliche Verteidigung", "Übersetzungskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-426.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,23 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 426 StPO — Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren**
->
-> 1 Die beschuldigte Person trägt die Verfahrenskosten, wenn sie verurteilt wird. Ausgenommen sind die Kosten für die amtliche Verteidigung; vorbehalten bleibt Artikel 135 Absatz 4.
->
-> 2 Wird das Verfahren eingestellt oder die beschuldigte Person freigesprochen, so können ihr die Verfahrenskosten ganz oder teilweise auferlegt werden, wenn sie rechtswidrig und schuldhaft die Einleitung des Verfahrens bewirkt oder dessen Durchführung erschwert hat.
->
-> 3 Die beschuldigte Person trägt die Verfahrenskosten nicht, die:
->
-> a. der Bund oder der Kanton durch unnötige oder fehlerhafte Verfahrenshandlungen verursacht hat;
->
-> b. für Übersetzungen anfielen, die durch die Fremdsprachigkeit der beschuldigten Person nötig wurden.
->
-> 4 Die Kosten für die unentgeltliche Verbeiständung der Privatklägerschaft trägt die beschuldigte Person nur, wenn sie sich in günstigen wirtschaftlichen Verhältnissen befindet.
->
-> 5 Die Bestimmungen dieses Artikels gelten sinngemäss für die Partei im selbstständigen Massnahmeverfahren, wenn der Entscheid zu ihrem Nachteil ausfällt.
+{{< wortlaut >}}
 
-*Wortlaut nach [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Randtitel in der Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Harmonisierung der Strafrahmen und Anpassung des Nebenstrafrechts), in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
 
 ---
 

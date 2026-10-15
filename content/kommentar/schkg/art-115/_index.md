@@ -2,11 +2,16 @@
 title: "Art. 115 SchKG — Pfändungsurkunde als Verlustschein und provisorischer Verlustschein"
 weight: 115
 date: 2026-08-10
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 115 SchKG: Pfändungsurkunde als Verlustschein und provisorischer Verlustschein — Definitiver Verlustschein, Arrestgrund, paulianische Anfechtung, Neuauftreibungspfändung, Pfändungsanschluss, Grenzkasuistik."
 tags: ["SchKG", "Pfändung", "Verlustschein", "Pfändungsurkunde", "provisorischer Verlustschein", "Neuauftreibungspfändung", "Arrestgrund", "Anfechtungsklage", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,16 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 115 SchKG (SR 281.1)** — Pfändungsurkunde als Verlustschein
->
-> **1** War kein pfändbares Vermögen vorhanden, so bildet die Pfändungsurkunde den Verlustschein im Sinne des Artikels 149.
->
-> **2** War nach der Schätzung des Beamten nicht genügendes Vermögen vorhanden, so dient die Pfändungsurkunde dem Gläubiger als provisorischer Verlustschein und äussert als solcher die in den Artikeln 271 Ziffer 5 und 285 bezeichneten Rechtswirkungen.
->
-> **3** Der provisorische Verlustschein verleiht dem Gläubiger ferner das Recht, innert der Jahresfrist nach Artikel 88 Absatz 2 die Pfändung neu entdeckter Vermögensgegenstände zu verlangen. Die Bestimmungen über den Pfändungsanschluss (Art. 110 und 111) sind anwendbar.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Abs. 3 eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 (AS 1995 1227; BBl 1991 III 1).*
 
 ---
 

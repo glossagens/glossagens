@@ -2,11 +2,16 @@
 title: "Art. 27 ZGB — Rechts- und Handlungsfähigkeit; Freiheit"
 weight: 27
 date: 2026-05-23
-lastmod: 2026-09-18
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 27 ZGB — Prüfschema der Unverzichtbarkeit von Rechts- und Handlungsfähigkeit sowie des Schutzes vor übermässiger Bindung, mit Kasuistik zu Aktionärbindungsverträgen, Globalzessionen, Bürgschaften, Dienstbarkeiten, Mitarbeiterbeteiligung, Dauerschuldverhältnissen und materiellem Ordre public im internationalen Sportschiedsverfahren."
 tags: ["ZGB", "Persönlichkeitsschutz", "Rechtsfähigkeit", "Handlungsfähigkeit", "Freiheitsbeschränkung", "Übermässige Bindung", "Ordre public", "Aktionärbindungsvertrag", "Globalzession", "Bürgschaft", "Dienstbarkeit", "Mitarbeiterbeteiligung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-027.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -26,10 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Auf die Rechts- und Handlungsfähigkeit kann niemand ganz oder zum Teil verzichten.
->
-> 2 Niemand kann sich seiner Freiheit entäussern oder sich in ihrem Gebrauch in einem das Recht oder die Sittlichkeit verletzenden Grade beschränken.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

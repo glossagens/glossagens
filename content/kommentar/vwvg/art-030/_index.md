@@ -2,11 +2,16 @@
 title: "Art. 30 — Anhörung der Parteien"
 weight: 30
 date: 2026-06-28
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 30 — Anhörung der Parteien**
->
-> 1 Die Behörde hört die Parteien an, bevor sie verfügt.
->
-> 2 Sie braucht die Parteien nicht anzuhören vor:
->
-> a. Zwischenverfügungen, die nicht selbständig durch Beschwerde anfechtbar sind;
->
-> b. Verfügungen, die durch Einsprache anfechtbar sind;
->
-> c. Verfügungen, in denen die Behörde den Begehren der Parteien voll entspricht;
->
-> d. Vollstreckungsverfügungen;
->
-> e. anderen Verfügungen in einem erstinstanzlichen Verfahren, wenn Gefahr im Verzuge ist, den Parteien die Beschwerde gegen die Verfügung zusteht und ihnen keine andere Bestimmung des Bundesrechts einen Anspruch auf vorgängige Anhörung gewährleistet.
+{{< wortlaut >}}
 
 ## Kommentierung
 

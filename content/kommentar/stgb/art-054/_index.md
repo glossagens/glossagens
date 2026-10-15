@@ -2,11 +2,16 @@
 title: "Art. 54 StGB — Betroffenheit des Täters durch die Tatfolgen"
 weight: 54
 date: 2026-10-01
-lastmod: 2026-10-03
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 54 StGB (SR 311.0): Strafbefreiung und Strafmilderung (a maiore minus) bei schwerer Betroffenheit des Täters durch die unmittelbaren Tatfolgen (poena naturalis). Dogmatik, Prüfschema, Abgrenzung von unmittelbaren und mittelbaren Folgen, Deliktsmehrheit und Begleitdelikte, prozessuale Umsetzung nach Art. 8 und 319 StPO, Kostenfolgen und kantonale Praxisfragen."
 tags: ["StGB", "Strafbefreiung", "Schwer betroffener Täter", "Poena naturalis", "Tatfolgen", "Unangemessenheit", "Vorsatzdelikte", "Strafmilderung", "Kostenauflage", "Unschuldsvermutung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-054.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -21,10 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 54 StGB (SR 311.0) — Betroffenheit durch die Tatfolgen**
-> 
-> «Ist der Täter durch die unmittelbaren Folgen seiner Tat so schwer betroffen, dass eine Strafe unangemessen wäre, so sieht die zuständige Behörde von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung ab.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

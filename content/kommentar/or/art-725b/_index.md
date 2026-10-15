@@ -2,11 +2,16 @@
 title: "Art. 725b OR — Überschuldung"
 weight: 727
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 725b OR: Begründete Besorgnis der Überschuldung, Zwischenabschlüsse zu Fortführungs- und Veräusserungswerten, Prüfungspflicht bei Opting-out, Pflicht zur Richterbenachrichtigung, Ausnahmen durch Rangrücktritt (inkl. Zinsen nach BGE 150 III 315) und 90-Tage-Regel sowie Ersatzanzeige der Revisionsstelle."
 tags: ["OR", "Aktienrecht", "Überschuldung", "Rangrücktritt", "Zwischenabschluss", "Konkurs", "Sanierung", "90-Tage-Regel", "Revisionsstelle", "Konkursverschleppung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725b.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,23 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 725b OR — Überschuldung**
->
-> ¹ Besteht begründete Besorgnis, dass die Verbindlichkeiten der Gesellschaft nicht mehr durch die Aktiven gedeckt sind, so erstellt der Verwaltungsrat unverzüglich je einen Zwischenabschluss zu Fortführungswerten und Veräusserungswerten. Auf den Zwischenabschluss zu Veräusserungswerten kann verzichtet werden, wenn die Annahme der Fortführung gegeben ist und der Zwischenabschluss zu Fortführungswerten keine Überschuldung aufweist. Ist die Annahme der Fortführung nicht gegeben, so genügt ein Zwischenabschluss zu Veräusserungswerten.
->
-> ² Der Verwaltungsrat lässt die Zwischenabschlüsse durch die Revisionsstelle oder, wenn eine solche fehlt, durch einen zugelassenen Revisor prüfen; er ernennt den zugelassenen Revisor.
->
-> ³ Ist die Gesellschaft gemäss den beiden Zwischenabschlüssen überschuldet, so benachrichtigt der Verwaltungsrat das Gericht. Dieses eröffnet den Konkurs oder verfährt nach Artikel 173a des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs.
->
-> ⁴ Die Benachrichtigung des Gerichts kann unterbleiben:
-> 1. wenn Gesellschaftsgläubiger im Ausmass der Überschuldung im Rang hinter alle anderen Gläubiger zurücktreten und ihre Forderungen stunden, sofern der Rangrücktritt den geschuldeten Betrag und die Zinsforderungen während der Dauer der Überschuldung umfasst; oder
-> 2. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüsse, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
->
-> ⁵ Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.
->
-> ⁶ Der Verwaltungsrat und die Revisionsstelle oder der zugelassene Revisor handeln mit der gebotenen Eile.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Januar 2023 ([AS 2020 4005](https://www.fedlex.admin.ch/eli/oc/2020/4005/de); [BBl 2017 399](https://www.fedlex.admin.ch/eli/fga/2017/399/de)).*
 
 ### Das Überschuldungsverfahren auf einen Blick
 

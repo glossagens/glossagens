@@ -2,11 +2,16 @@
 title: "Art. 244 ZPO — Vereinfachte Klage"
 weight: 244
 date: "2026-05-23"
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 244 ZPO — Erleichterte Klageform im vereinfachten Verfahren, Formanforderungen, Begründungsfreiheit und Beilagenpflicht"
 tags: ["ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Formvorschriften", "Protokollklage", "Streitwert"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-244.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 244 ZPO — Vereinfachte Klage**
->
-> 1 Die Klage kann in den Formen nach Artikel 130 eingereicht oder mündlich bei Gericht zu Protokoll gegeben werden. Sie enthält: a. die Bezeichnung der Parteien; b. das Rechtsbegehren; c. die Bezeichnung des Streitgegenstandes; d. wenn nötig die Angabe des Streitwertes; e. das Datum und die Unterschrift.
->
-> 2 Eine Begründung der Klage ist nicht erforderlich.
->
-> 3 Als Beilagen sind einzureichen: a. eine Vollmacht bei Vertretung; b. die Klagebewilligung oder die Erklärung, dass auf das Schlichtungsverfahren verzichtet werde; c. die verfügbaren Urkunden, welche als Beweismittel dienen sollen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 90a SVG — Einziehung von Motorfahrzeugen"
 weight: 901
 date: 2026-09-03
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 90a SVG: Sicherungseinziehung von Tatfahrzeugen nach groben Verkehrsregelverletzungen, Abgrenzung zur Sicherungsbeschlagnahme nach Art. 263 StPO, Drittfahrzeuge (Leasing) und Beschwerdelegitimation (Leasingnehmer vs. Halter)."
 tags: ["SVG", "Strassenverkehrsrecht", "Einziehung", "Beschlagnahme", "Raserdelikt", "Leasing", "Beschwerdelegitimation", "Verhältnismässigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-090a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 90a SVG — Einziehung von Motorfahrzeugen**
->
-> 1 Das Gericht kann die Einziehung eines Motorfahrzeugs anordnen, wenn:
-> a. damit eine grobe Verkehrsregelverletzung in skrupelloser Weise begangen wurde; und
-> b. der Täter durch die Einziehung von weiteren groben Verkehrsregelverletzungen abgehalten werden kann.
->
-> 2 Das Gericht kann die Verwertung des Motorfahrzeugs anordnen und die Verwendung des Erlöses, unter Abzug der Verwertungs- und Verfahrenskosten, festlegen.
-
-*Wortlaut geprüft gegen [Fedlex, SR 741.01](https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/de), Stand der Konsolidierung 1. Juli 2026. Eingefügt durch Ziff. I des BG vom 15. Juni 2012 («Via sicura»), in Kraft seit 1. Jan. 2013 (AS 2012 6291; BBl 2010 8447).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

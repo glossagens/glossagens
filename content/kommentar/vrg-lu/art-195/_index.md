@@ -2,17 +2,21 @@
 title: "§ 195 — Kostenvorschuss für amtliche Kosten"
 weight: 195
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 195 VRG LU – Kostenvorschuss zur Sicherstellung der amtlichen Kosten"
 tags: ["VRG", "Kosten", "Kostenvorschuss", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-195.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die Behörde kann von der Partei, die ein Verfahren einleitet und kostenpflichtig werden kann, einen angemessenen Vorschuss zur Sicherstellung der amtlichen Kosten verlangen.
->
-> 2 Wenn die Partei den Vorschuss trotz Androhung der Folgen innert eingeräumter Frist nicht leistet und das Verfahren nicht von Amtes wegen durchzuführen ist, braucht die Behörde auf die Rechtsvorkehr nicht einzutreten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 318 StPO — Abschluss der Untersuchung"
 weight: 318
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 318 StPO – Abschluss der Untersuchung: Ankündigung des bevorstehenden Abschlusses (Abs. 1), Rechte geschädigter Personen (Abs. 1bis n.F.), Beweisanträge und Ablehnungsgründe (Abs. 2) sowie Unanfechtbarkeit (Abs. 3)."
 tags: ["StPO", "Abschluss der Untersuchung", "Beweisanträge", "Staatsanwaltschaft", "Anklage", "Einstellung", "Strafbefehl", "Vorverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-318.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 318 StPO — Abschluss**
->
-> **1** Erachtet die Staatsanwaltschaft die Untersuchung als vollständig, so erlässt sie einen Strafbefehl oder kündigt den Parteien mit bekanntem Wohnsitz schriftlich den bevorstehenden Abschluss an und teilt ihnen mit, ob sie Anklage erheben oder das Verfahren einstellen will. Gleichzeitig setzt sie den Parteien eine Frist, Beweisanträge zu stellen.
->
-> **1bis** Sie teilt den geschädigten Personen mit bekanntem Wohnsitz, die noch nicht über ihre Rechte informiert wurden, schriftlich mit, dass sie einen Strafbefehl erlassen, Anklage erheben oder das Verfahren durch Einstellung abschliessen will, und setzt ihnen eine Frist, innerhalb welcher sie sich als Privatklägerschaft konstituieren und Beweisanträge stellen können.
->
-> **2** Sie kann Beweisanträge nur ablehnen, wenn damit die Beweiserhebung über Tatsachen verlangt wird, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind. Der Entscheid ergeht schriftlich und mit kurzer Begründung. Abgelehnte Beweisanträge können im Hauptverfahren erneut gestellt werden.
->
-> **3** Mitteilungen nach den Absätzen 1 und 1bis sowie Entscheide nach Absatz 2 sind nicht anfechtbar.
+{{< wortlaut >}}
 
 ---
 

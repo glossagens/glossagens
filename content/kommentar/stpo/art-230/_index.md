@@ -2,11 +2,16 @@
 title: "Art. 230 StPO — Entlassung aus der Sicherheitshaft"
 weight: 230
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 230 StPO – Entlassung aus der Sicherheitshaft während des erstinstanzlichen Verfahrens: Gesuch an die Verfahrensleitung des Sachgerichts (Abs. 1/2), Weiterleitung an das ZMG bei Abweisung (Abs. 3), Entlassung bei Zustimmung der Staatsanwaltschaft (Abs. 4) und sinngemässe Anwendung von Art. 228 StPO (Abs. 5)."
 tags: ["StPO", "Sicherheitshaft", "Haftentlassung", "Verfahrensleitung", "Sachgericht", "Zwangsmassnahmengericht", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-230.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 230 StPO — Entlassung aus der Sicherheitshaft während des erstinstanzlichen Verfahrens**
->
-> **1** Die beschuldigte Person und die Staatsanwaltschaft können während des erstinstanzlichen Verfahrens ein Haftentlassungsgesuch stellen.
->
-> **2** Das Gesuch ist an die Verfahrensleitung des erstinstanzlichen Gerichts zu richten.
->
-> **3** Entspricht die Verfahrensleitung dem Gesuch, so entlässt sie die beschuldigte Person unverzüglich aus der Haft. Will sie dem Gesuch nicht entsprechen, so leitet sie es an das Zwangsmassnahmengericht zum Entscheid weiter.
->
-> **4** Die Verfahrensleitung des erstinstanzlichen Gerichts kann mit Zustimmung der Staatsanwaltschaft die Haftentlassung auch selbst anordnen. Stimmt die Staatsanwaltschaft nicht zu, so entscheidet das Zwangsmassnahmengericht.
->
-> **5** Im Übrigen gelten die Bestimmungen von Artikel 228 sinngemäss.
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 401 — Forderungs- und Sachenübergang bei Konkurs"
 weight: 401
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 401 OR — Legalzession von Forderungen, Aussonderungsrecht im Konkurs des Beauftragten, Treuhand, fiduziarische Verhältnisse, Verrechnungsverbot"
 tags: ["OR", "Auftragsrecht", "Konkurs", "Legalzession", "Treuhand", "Aussonderung", "Fiduziar", "Verrechnungsverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-401.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Hat der Beauftragte für Rechnung des Auftraggebers in eigenem Namen Forderungsrechte gegen Dritte erworben, so gehen sie auf den Auftraggeber über, sobald dieser seinerseits allen Verbindlichkeiten aus dem Auftragsverhältnisse nachgekommen ist.
->
-> **2** Dieses gilt auch gegenüber der Masse, wenn der Beauftragte in Konkurs gefallen ist.
->
-> **3** Ebenso kann der Auftraggeber im Konkurse des Beauftragten, unter Vorbehalt der Retentionsrechte desselben, die beweglichen Sachen herausverlangen, die dieser in eigenem Namen, aber für Rechnung des Auftraggebers zu Eigentum erworben hat.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

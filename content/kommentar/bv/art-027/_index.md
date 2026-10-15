@@ -2,11 +2,16 @@
 title: "Art. 27 BV — Wirtschaftsfreiheit"
 weight: 27
 date: 2026-05-23
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 27 BV — Wirtschaftsfreiheit, freie Wahl des Berufes, freier Zugang zu privatwirtschaftlicher Erwerbstätigkeit, staatliche Wirtschaftstätigkeit und Wettbewerbsneutralität"
 tags: ["BV", "Grundrechte", "Wirtschaftsfreiheit", "Berufsfreiheit", "Wettbewerbsneutralität", "Konzession", "Monopol"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-027.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 27 BV — Wirtschaftsfreiheit**
->
-> ¹ Die Wirtschaftsfreiheit ist gewährleistet.
->
-> ² Sie umfasst insbesondere die freie Wahl des Berufes sowie den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Überblick
 

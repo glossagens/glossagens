@@ -2,27 +2,23 @@
 title: "§ 48 — Akteneinsicht"
 weight: 48
 date: 2026-05-31
-lastmod: 2026-05-31
+lastmod: 2026-10-15
 description: "Kommentierung von § 48 VRG LU — Akteneinsichtsrecht der Parteien im luzernischen Verwaltungsverfahren"
 tags: ["VRG LU", "Akteneinsicht", "Verwaltungsverfahren", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-048.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 # § 48 VRG LU — Akteneinsicht
 
 ## Gesetzestext
 
-> **§ 48 Akteneinsicht**
->
-> **1** Die Parteien sind berechtigt, in ihren eigenen Angelegenheiten am Sitz der entscheidenden Behörde folgende Akten einzusehen:
-> a. Vernehmlassungen von Behörden;
-> b. Eingaben der Parteien und Protokolle über ihre Anträge und Anbringen;
-> c. als Beweismittel dienende Urkunden, Protokolle und Gutachten;
-> d. Ausfertigungen eröffneter Entscheide.
->
-> **1bis** Die Behörde kann Akten auf elektronischem Weg zur Einsichtnahme freigeben oder zustellen, wenn die Parteien damit einverstanden sind.
->
-> **2** Für die Gewährung von Akteneinsicht in einer abgeschlossenen Sache kann die Behörde eine Gebühr erheben.
+{{< wortlaut >}}
 
 ---
 

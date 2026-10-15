@@ -2,11 +2,16 @@
 title: "Art. 136 StPO — Voraussetzungen"
 weight: 136
 date: "2026-06-20"
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 136 StPO: unentgeltliche Rechtspflege für die Privatklägerschaft und — seit der Revision 2024 — für das Opfer zur Durchsetzung der Strafklage; Mittellosigkeit, Nichtaussichtslosigkeit, Umfang und Neuantrag im Rechtsmittelverfahren."
 tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Strafklage", "Aussichtslosigkeit", "Rechtsbeistand"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-136.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -26,25 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 136 StPO — Voraussetzungen**
->
-> 1 Die Verfahrensleitung gewährt auf Gesuch ganz oder teilweise die unentgeltliche Rechtspflege:
->
-> a. der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche, wenn sie nicht über die erforderlichen Mittel verfügt und die Zivilklage nicht aussichtslos erscheint;
->
-> b. dem Opfer für die Durchsetzung seiner Strafklage, wenn es nicht über die erforderlichen Mittel verfügt und die Strafklage nicht aussichtslos erscheint.
->
-> 2 Die unentgeltliche Rechtspflege umfasst:
->
-> a. die Befreiung von Vorschuss- und Sicherheitsleistungen;
->
-> b. die Befreiung von den Verfahrenskosten;
->
-> c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
->
-> 3 Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
-
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025. Abs. 1 und Abs. 2 lit. c wurden neu gefasst, Abs. 3 eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

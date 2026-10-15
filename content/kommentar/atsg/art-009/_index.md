@@ -2,11 +2,16 @@
 title: "Art. 9 ATSG — Hilflosigkeit"
 weight: 9
 date: 2026-06-02
-lastmod: 2026-08-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, persönliche Überwachung, lebenspraktische Begleitung, Schweregrade und Abklärungsverfahren."
 tags: ["ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,10 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 9 — Hilflosigkeit**
->
-> Als hilflos gilt eine Person, die wegen der Beeinträchtigung der Gesundheit für alltägliche Lebensverrichtungen dauernd der Hilfe Dritter oder der persönlichen Überwachung bedarf.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 42 IVG — Anspruch auf Hilflosenentschädigung"
 weight: 42
 date: 2026-08-17
-lastmod: 2026-08-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 42 IVG: Anspruch auf Hilflosenentschädigung der Invalidenversicherung, Hilflosigkeitsgrade, sechs alltägliche Lebensverrichtungen, lebenspraktische Begleitung, Wartejahr und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["IVG", "Invalidenversicherung", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr", "Eingliederungsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-042.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,26 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 42 Anspruch**
->
-> **1** Versicherte mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG) in der Schweiz, die hilflos (Art. 9 ATSG) sind, haben Anspruch auf eine Hilflosenentschädigung. Vorbehalten bleibt Artikel 42bis.
->
-> **2** Es ist zu unterscheiden zwischen schwerer, mittelschwerer und leichter Hilflosigkeit.
->
-> **3** Als hilflos gilt ebenfalls eine Person, welche zu Hause lebt und wegen der Beeinträchtigung der Gesundheit dauernd auf lebenspraktische Begleitung angewiesen ist. Liegt ausschliesslich eine Beeinträchtigung der psychischen Gesundheit vor, so gilt die Person nur als hilflos, wenn sie Anspruch auf eine Rente hat. Ist eine Person lediglich dauernd auf lebenspraktische Begleitung angewiesen, so liegt immer eine leichte Hilflosigkeit vor. Vorbehalten bleibt Artikel 42bis Absatz 5.
->
-> **4** Die Hilflosenentschädigung wird frühestens ab der Geburt gewährt. Der Anspruch entsteht, wenn während eines Jahres ohne wesentlichen Unterbruch mindestens eine Hilflosigkeit leichten Grades bestanden hat; vorbehalten bleibt Artikel 42bis Absatz 3.
->
-> **4bis** Der Anspruch auf Hilflosenentschädigung erlischt spätestens am Ende des Monats:
-> a. der dem Monat vorangeht, in dem die versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG vorbezieht;
-> b. in dem die versicherte Person das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht.
->
-> **5** Der Anspruch auf eine Hilflosenentschädigung entfällt bei einem Aufenthalt in einer Institution zur Durchführung von Eingliederungsmassnahmen nach Artikel 8 Absatz 3. Der Bundesrat definiert den Aufenthalt. Er kann ausnahmsweise auch bei einem Aufenthalt einen Anspruch auf eine Hilflosenentschädigung vorsehen, wenn die versicherte Person wegen einer schweren Sinnesschädigung oder eines schweren körperlichen Gebrechens nur dank regelmässiger und erheblicher Dienstleistungen Dritter gesellschaftliche Kontakte pflegen kann.
->
-> **6** Der Bundesrat regelt die Übernahme einer anteilmässigen Leistung an die Hilflosenentschädigung der Unfallversicherung, falls die Hilflosigkeit nur zum Teil auf einen Unfall zurückzuführen ist.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(Stand am 1. Januar 2026)*
 
 ---
 

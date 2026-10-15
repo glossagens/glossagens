@@ -2,23 +2,21 @@
 title: "Art. 51 — Verwarnung und Strafandrohung"
 weight: 51
 date: "2026-07-10"
-lastmod: "2026-08-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 51 ArG – Verwarnung und Strafandrohung bei Nichtbefolgung von Vorschriften oder Verfügungen (kantonale Behörde, Eidgenössisches Arbeitsinspektorat, Arbeitsärztlicher Dienst)"
 tags: ["ArG", "Verwarnung", "Vollzug", "Strafandrohung", "Art. 292 StGB", "Durchsetzung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-051.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 51**<sup>1</sup>
->
-> **1** Werden Vorschriften des Gesetzes oder einer Verordnung oder wird eine Verfügung nicht befolgt, so macht die kantonale Behörde, das Eidgenössische Arbeitsinspektorat oder der Arbeitsärztliche Dienst den Fehlbaren darauf aufmerksam und verlangt die Einhaltung der nicht befolgten Vorschrift oder Verfügung.
->
-> **2** Leistet der Fehlbare dem Verlangen keine Folge, so erlässt die kantonale Behörde eine entsprechende Verfügung, verbunden mit der Strafandrohung des Artikels 292 des Strafgesetzbuches<sup>SR 311.0</sup>.
->
-> **3** Wird durch einen Verstoss im Sinne von Absatz 1 zugleich ein Gesamtarbeitsvertrag verletzt, so kann die kantonale Behörde in geeigneter Weise auf die Massnahmen der Vertragsparteien zur Durchsetzung des Gesamtarbeitsvertrages Rücksicht nehmen.
-
-*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

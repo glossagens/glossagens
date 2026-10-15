@@ -2,11 +2,16 @@
 title: "Art. 18 ZGB — Fehlende Urteilsfähigkeit"
 weight: 18
 date: 2026-05-23
-lastmod: 2026-08-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 18 ZGB — Rechtsfolgen fehlender Urteilsfähigkeit, Nichtigkeit von Rechtshandlungen, Beweislastverteilung und gesetzliche Ausnahmen."
 tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Erwachsenenschutz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,9 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 18 ZGB — Fehlende Urteilsfähigkeit**
->
-> Wer nicht urteilsfähig ist, vermag unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

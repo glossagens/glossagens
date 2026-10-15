@@ -2,11 +2,16 @@
 title: "Art. 14 — Bezeichnung und Organisation der Strafbehörden"
 weight: 14
 date: 2026-07-12
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 StPO – Bezeichnung und Organisation der Strafbehörden: Kompetenzverteilung zwischen Bund und Kantonen bei der Ausgestaltung der Strafverfolgungsbehörden, organisatorische Gestaltungsfreiheit, Ober- und Generalstaatsanwaltschaften, Aufsicht über Strafbehörden."
 tags: ["StPO", "Strafbehörden", "Organisation", "Bund-Kanton-Kompetenzverteilung", "Aufsicht", "Behördenorganisation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 14 StPO — Bezeichnung und Organisation der Strafbehörden**
->
-> **1** Bund und Kantone bestimmen ihre Strafbehörden und deren Bezeichnungen.
->
-> **2** Sie regeln Wahl, Zusammensetzung, Organisation und Befugnisse der Strafbehörden, soweit dieses Gesetz oder andere Bundesgesetze dies nicht abschliessend regeln.
->
-> **3** Sie können Ober- oder Generalstaatsanwaltschaften vorsehen.
->
-> **4** Sie können mehrere gleichartige Strafbehörden einsetzen und bestimmen für diesen Fall den jeweiligen örtlichen und sachlichen Zuständigkeitsbereich; ausgenommen sind die Beschwerdeinstanz und das Berufungsgericht.
->
-> **5** Sie regeln die Aufsicht über ihre Strafbehörden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

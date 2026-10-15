@@ -2,11 +2,16 @@
 title: "Art. 839 ZGB — Eintragungsfrist für das Bauhandwerkerpfandrecht"
 weight: 839
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 839 ZGB: Viermonatige Eintragungsfrist für das Bauhandwerkerpfandrecht, Vollendung der Arbeit, vorläufige Eintragung (Art. 961 ZGB), Sicherheitsleistung und Sonderregelung für Verwaltungsvermögen."
 tags: ["ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Eintragungsfrist", "Vollendung der Arbeit", "Sicherheitsleistung", "Verwaltungsvermögen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-839.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -16,21 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 839 ZGB — Eintragung**
->
-> 1 Das Pfandrecht der Handwerker und Unternehmer kann von dem Zeitpunkte an, da sie sich zur Arbeitsleistung verpflichtet haben, in das Grundbuch eingetragen werden.
->
-> 2 Die Eintragung hat bis spätestens vier Monate nach der Vollendung der Arbeit zu erfolgen.
->
-> 3 Sie darf nur erfolgen, wenn die Pfandsumme vom Eigentümer anerkannt oder gerichtlich festgestellt ist, und kann nicht verlangt werden, wenn der Eigentümer für die angemeldete Forderung zuzüglich Verzugszinse für die Dauer von zehn Jahren hinreichende Sicherheit leistet.
->
-> 4 Handelt es sich beim Grundstück unbestrittenermassen um Verwaltungsvermögen und ergibt sich die Schuldpflicht des Eigentümers nicht aus vertraglichen Verpflichtungen, so haftet er den Handwerkern oder Unternehmern für die anerkannten oder gerichtlich festgestellten Forderungen nach den Bestimmungen über die einfache Bürgschaft, sofern die Forderung ihm gegenüber spätestens vier Monate nach Vollendung der Arbeit schriftlich unter Hinweis auf die gesetzliche Bürgschaft geltend gemacht worden war.
->
-> 5 Ist strittig, ob es sich um ein Grundstück im Verwaltungsvermögen handelt, so kann der Handwerker oder Unternehmer bis spätestens vier Monate nach der Vollendung seiner Arbeit eine vorläufige Eintragung des Pfandrechts im Grundbuch verlangen.
->
-> 6 Steht aufgrund eines Urteils fest, dass das Grundstück zum Verwaltungsvermögen gehört, so ist die vorläufige Eintragung des Pfandrechts zu löschen. An seine Stelle tritt die gesetzliche Bürgschaft, sofern die Voraussetzungen nach Absatz 4 erfüllt sind. Die Frist gilt mit der vorläufigen Eintragung des Pfandrechts als gewahrt.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Juli 2026. Abs. 3 in der Fassung vom 20. Dezember 2024 (Baumängel), in Kraft seit 1. Januar 2026 (AS 2025 270; BBl 2022 2743).*
 
 ---
 

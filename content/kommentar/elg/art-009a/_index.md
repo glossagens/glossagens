@@ -2,31 +2,21 @@
 title: "Art. 9a ELG — Voraussetzungen hinsichtlich des Vermögens"
 weight: 9
 date: 2026-07-17
-lastmod: "2026-07-18"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 9a ELG: Vermögensschwelle als Anspruchsvoraussetzung für Ergänzungsleistungen — 100'000/200'000/50'000 Franken, Selbstbewohnte Liegenschaften, Verzichtsvermögen, Nutzniessung am Nachlass."
 tags: ["ELG", "Ergänzungsleistungen", "Vermögensschwelle", "anrechenbares Vermögen", "Reinvermögen", "Nutzniessung", "Verzichtsvermögen", "Sozialversicherung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.30 vom 2026-01-01 (data/wortlaut/elg/art-009a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 9a Voraussetzungen hinsichtlich des Vermögens**
->
-> **1** Anspruch auf Ergänzungsleistungen haben Personen, wenn sie über ein Reinvermögen unterhalb der Vermögensschwelle verfügen; diese liegt:
->
-> a. bei alleinstehenden Personen bei 100 000 Franken;
->
-> b. bei Ehepaaren bei 200 000 Franken;
->
-> c. bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, bei 50 000 Franken.
->
-> **2** Liegenschaften, die von der Bezügerin oder dem Bezüger oder einer Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, bewohnt werden und an welchen eine dieser Personen Eigentum hat, sind nicht Bestandteil des Reinvermögens nach Absatz 1.
->
-> **3** Vermögen, auf welches nach Artikel 11a Absätze 2–4 verzichtet wurde, gehört auch zum Reinvermögen nach Absatz 1.
->
-> **4** Der Bundesrat kann diese Werte in angemessener Weise anpassen, wenn er die Leistungen nach Artikel 19 anpasst.
-
-*(Fedlex-Stand: 1. Januar 2026; eingefügt durch Ziff. I des BG vom 22. März 2019 [EL-Reform], in Kraft seit 1. Januar 2021, AS 2020 585; BBl 2016 7465)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

@@ -2,11 +2,16 @@
 title: "Art. 419 StPO — Kostenpflicht von Schuldunfähigen"
 weight: 419
 date: 2026-10-04
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 419 StPO (SR 312.0): Kostenpflicht von Schuldunfähigen nach Billigkeitsgrundsätzen (Art. 54 Abs. 1 OR), Anwendungsbereich bei Einstellung, Freispruch und selbständigen Massnahmeverfahren, Abgrenzung zur Verhandlungsunfähigkeit, Anforderungen an wirtschaftliche Verhältnisse, Streit um schuldhaftes Vorverhalten, Korrelation zur Entschädigung (Art. 429 StPO)."
 tags: ["StPO", "Kostenpflicht", "Schuldunfähigkeit", "Billigkeitshaftung", "Massnahmen", "Verfahrenskosten", "Entschädigung", "Art. 54 OR"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-419.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 89 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 419 StPO — Kostenpflicht von Schuldunfähigen (SR 312.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stpo/art-419/)
->
-> «Wurde das Verfahren wegen Schuldunfähigkeit der beschuldigten Person eingestellt oder wurde diese aus diesem Grund freigesprochen, so können ihr die Kosten auferlegt werden, wenn dies nach den gesamten Umständen billig erscheint.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

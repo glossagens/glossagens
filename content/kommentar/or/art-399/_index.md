@@ -2,11 +2,16 @@
 title: "Art. 399 — Substitution (Übertragung an einen Dritten)"
 weight: 399
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 399 OR — Unbefugte und befugte Substitution, Haftung für Auswahl und Instruktion, Direktanspruch gegen den Dritten, Abgrenzung Substitut vs. Hilfsperson, Anwaltshaftung, Spediteurzwischenschaltung"
 tags: ["OR", "Auftragsrecht", "Substitution", "Haftung", "Legalzession", "Hilfsperson", "Anwaltshaftung", "Spediteur", "Auswahlverschulden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-399.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Hat der Beauftragte die Besorgung des Geschäftes unbefugterweise einem Dritten übertragen, so haftet er für dessen Handlungen, wie wenn es seine eigenen wären.
->
-> **2** War er zur Übertragung befugt, so haftet er nur für gehörige Sorgfalt bei der Wahl und Instruktion des Dritten.
->
-> **3** In beiden Fällen kann der Auftraggeber die Ansprüche, die dem Beauftragten gegen den Dritten zustehen, unmittelbar gegen diesen geltend machen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

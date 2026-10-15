@@ -2,11 +2,16 @@
 title: "Art. 26 — Eigentumsgarantie"
 weight: 26
 date: 2026-05-23
-lastmod: "2026-08-12"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 26 BV — Eigentumsgarantie, Institutsgarantie, Bestandesgarantie, Enteignungsgrundsätze und Verhältnismässigkeit"
 tags: ["BV", "Grundrechte", "Eigentum", "Enteignung", "materielle Enteignung", "Eigentumsbeschränkung", "Entschädigung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-026.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 26 BV — Eigentumsgarantie**
->
-> 1 Das Eigentum ist gewährleistet.
->
-> 2 Enteignungen und Eigentumsbeschränkungen, die einer Enteignung gleichkommen, werden voll entschädigt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

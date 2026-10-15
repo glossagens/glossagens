@@ -2,11 +2,16 @@
 title: "Art. 107 — Nachfristsetzung bei Schuldnerverzug"
 weight: 107
 date: 2026-06-27
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 107 OR — Nachfristsetzung bei Schuldnerverzug in zweiseitigen Verträgen; Wahlrecht des Gläubigers bei fruchtlosem Fristablauf"
 tags: ["OR", "Verzug", "Nachfrist", "Rücktritt", "Schadenersatz", "zweiseitiger Vertrag"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-107.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 107**
->
-> 1 Wenn sich ein Schuldner bei zweiseitigen Verträgen im Verzuge befindet, so ist der Gläubiger berechtigt, ihm eine angemessene Frist zur nachträglichen Erfüllung anzusetzen oder durch die zuständige Behörde ansetzen zu lassen.
->
-> 2 Wird auch bis zum Ablaufe dieser Frist nicht erfüllt, so kann der Gläubiger immer noch auf Erfüllung nebst Schadenersatz wegen Verspätung klagen, statt dessen aber auch, wenn er es unverzüglich erklärt, auf die nachträgliche Leistung verzichten und entweder Ersatz des aus der Nichterfüllung entstandenen Schadens verlangen oder vom Vertrage zurücktreten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

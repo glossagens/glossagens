@@ -2,11 +2,16 @@
 title: "Art. 49 StGB — Konkurrenzen und Gesamtstrafe"
 weight: 49
 date: 2026-06-13
-lastmod: 2026-10-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 49 StGB: Echte vs. unechte Konkurrenz, Asperationsprinzip bei gleichartigen Strafen (Abs. 1), konkrete Methode, hypothetische Einsatzstrafe, dreistufige Gesamtstrafenbildung (Einsatzstrafe, Asperation, Täterkomponenten), Verbot der Einheitsstrafe, Kumulation ungleichartiger Strafen, Obergrenzen (50 % und Strafartmaxima), retrospektive Konkurrenz und Zusatzstrafenbildung (Abs. 2), Zäsurwirkung des Ersturteils, Taten vor Vollendung des 18. Altersjahrs (Abs. 3), Kasuistik und Praxishinweise."
 tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Einsatzstrafe", "Einheitsstrafe", "Kumulationsprinzip", "Dreistufigkeit", "Täterkomponenten", "Begründungspflicht", "Allgemeiner Teil", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -31,16 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 49 StGB — Konkurrenzen**
->
-> 1 Hat der Täter durch eine oder mehrere Handlungen die Voraussetzungen für mehrere gleichartige Strafen erfüllt, so verurteilt ihn das Gericht zu der Strafe der schwersten Straftat und erhöht sie angemessen. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um mehr als die Hälfte erhöhen. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
->
-> 2 Hat das Gericht eine Tat zu beurteilen, die der Täter begangen hat, bevor er wegen einer andern Tat verurteilt worden ist, so bestimmt es die Zusatzstrafe in der Weise, dass der Täter nicht schwerer bestraft wird, als wenn die strafbaren Handlungen gleichzeitig beurteilt worden wären.
->
-> 3 Hat der Täter eine oder mehrere Taten vor Vollendung des 18. Altersjahres begangen, so dürfen diese bei der Bildung der Gesamtstrafe nach den Absätzen 1 und 2 nicht stärker ins Gewicht fallen, als wenn sie für sich allein beurteilt worden wären.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026.*
 
 ### Die Konkurrenzregeln auf einen Blick
 

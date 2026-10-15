@@ -2,11 +2,16 @@
 title: "Art. 52 VwVG — Beschwerdeschrift"
 weight: 52
 date: 2026-05-23
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 52 VwVG: Beschwerdeschrift — Inhalt, Form, Rechtsbegehren, Begründung, Nachfristansetzung nach Abs. 2 und Kasuistik."
 tags: ["VwVG", "Beschwerdeschrift", "Form", "Rechtsbegehren", "Nachfrist", "überspitzter Formalismus", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-052.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,14 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 52 VwVG (SR 172.021)** — Beschwerdeschrift
->
-> **1** Die Beschwerdeschrift hat die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift des Beschwerdeführers oder seines Vertreters zu enthalten; die Ausfertigung der angefochtenen Verfügung und die als Beweismittel angerufenen Urkunden sind beizulegen, soweit der Beschwerdeführer sie in Händen hat.
->
-> **2** Genügt die Beschwerde diesen Anforderungen nicht oder lassen die Begehren des Beschwerdeführers oder deren Begründung die nötige Klarheit vermissen und stellt sich die Beschwerde nicht als offensichtlich unzulässig heraus, so räumt die Beschwerdeinstanz dem Beschwerdeführer eine kurze Nachfrist zur Verbesserung ein.
->
-> **3** Sie verbindet diese Nachfrist mit der Androhung, nach unbenutztem Fristablauf auf Grund der Akten zu entscheiden oder, wenn Begehren, Begründung oder Unterschrift fehlen, auf die Beschwerde nicht einzutreten.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

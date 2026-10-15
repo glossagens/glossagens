@@ -2,11 +2,16 @@
 title: "Art. 30 — Einstellung in der Anspruchsberechtigung"
 weight: 30
 date: 2026-08-01
-lastmod: "2026-08-01"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 30 AVIG (SR 837.0): Einstellung in der Anspruchsberechtigung der Arbeitslosenversicherung — Einstellgründe (Verschulden an Arbeitslosigkeit, Lohnverzicht, ungenügende Arbeitsbemühungen, Kontrollvorschriften, unrichtige Angaben, unrechtmässiger Leistungsbezug), Zuständigkeit (Abs. 2), Bemessung der Einstellung (Abs. 3). Leitentscheide BGE 123 V 150, BGE 124 V 234, BGE 124 V 225, BGE 122 V 34, BGE 125 V 193, BGE 112 V 242, BGE 139 V 524, BGE 141 V 365."
 tags: ["AVIG", "Arbeitslosenversicherung", "Einstellung", "Anspruchsberechtigung", "Verschulden", "Arbeitsbemühungen", "Meldepflicht", "IAO-Übereinkommen 168"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,26 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 30 AVIG — Einstellung in der Anspruchsberechtigung**
->
-> **1** Der Versicherte ist in der Anspruchsberechtigung einzustellen, wenn er:
->   a. durch eigenes Verschulden arbeitslos ist;
->   b. zu Lasten der Versicherung auf Lohn- oder Entschädigungsansprüche gegenüber dem bisherigen Arbeitgeber verzichtet hat;
->   c. sich persönlich nicht genügend um zumutbare Arbeit bemüht;
->   d. die Kontrollvorschriften oder die Weisungen der zuständigen Amtsstelle nicht befolgt, namentlich eine zumutbare Arbeit nicht annimmt oder eine arbeitsmarktliche Massnahme ohne entschuldbaren Grund nicht antritt, abbricht oder deren Durchführung oder Zweck durch sein Verhalten beeinträchtigt oder verunmöglicht;
->   e. unwahre oder unvollständige Angaben gemacht oder in anderer Weise die Auskunfts- oder Meldepflicht verletzt hat;
->   f. Arbeitslosenentschädigung zu Unrecht erwirkt oder zu erwirken versucht hat, oder
->   g. während der Planungsphase eines Projektes Taggelder bezog (Art. 71a Abs. 1) und nach Abschluss der Planungsphase aus eigenem Verschulden keine selbstständige Erwerbstätigkeit aufnimmt.
->
-> **2** Die kantonale Amtsstelle verfügt Einstellungen nach Absatz 1 Buchstaben c, d und g sowie nach Absatz 1 Buchstabe e, sofern die Auskunfts- oder Meldepflicht gegenüber ihr oder dem Arbeitsamt verletzt wurde. In den übrigen Fällen verfügen die Kassen.
->
-> **3** Die Einstellung gilt nur für Tage, für die der Arbeitslose die Voraussetzungen der Anspruchsberechtigung erfüllt. Sie wird auf die Höchstzahl der Taggelder nach Artikel 27 angerechnet. Die Dauer der Einstellung bemisst sich nach dem Grad des Verschuldens und beträgt je Einstellungsgrund höchstens 60 Tage, im Falle von Absatz 1 Buchstabe g höchstens 25 Tage. Der Vollzug der Einstellung fällt binnen sechs Monaten, nachdem die Einstellungsfrist zu laufen begonnen hat, dahin.
->
-> **3bis** Der Bundesrat kann eine Mindestdauer der Einstellung vorschreiben.
->
-> **4** Stellt eine Kasse einen Arbeitslosen in der Anspruchsberechtigung nicht ein, obwohl ein Einstellungsgrund vorliegt, so verfügt die kantonale Amtsstelle die Einstellung.
-
-*Quelle: [Fedlex (SR 837.0, Art. 30)](https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/de#art_30), Konsolidierung Stand 2026-01-01. Art. 30 eingefügt durch BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996.*
+{{< wortlaut >}}
 
 ## Systematische Einordnung
 

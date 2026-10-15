@@ -7,38 +7,21 @@ tags: ["StPO", "Schutzmassnahmen", "Anonymität", "Zeugenschutz", "Parteiöffent
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-149.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 149 StPO — Im Allgemeinen (Schutzmassnahmen)**
->
-> **1** Besteht Grund zur Annahme, eine Zeugin oder ein Zeuge, eine Auskunftsperson, eine beschuldigte Person, eine sachverständige Person oder eine Übersetzerin oder ein Übersetzer könnte durch die Mitwirkung im Verfahren sich oder eine Person, die mit ihr oder ihm in einem Verhältnis nach Artikel 168 Absätze 1–3 steht, einer erheblichen Gefahr für Leib und Leben oder einem andern schweren Nachteil aussetzen, so trifft die Verfahrensleitung auf Gesuch hin oder von Amtes wegen die geeigneten Schutzmassnahmen.
->
-> **2** Die Verfahrensleitung kann dazu die Verfahrensrechte der Parteien angemessen beschränken, namentlich indem sie:
->
-> **a.** die Anonymität zusichert;
->
-> **b.** Einvernahmen unter Ausschluss der Parteien oder der Öffentlichkeit durchführt;
->
-> **c.** die Personalien unter Ausschluss der Parteien oder der Öffentlichkeit feststellt;
->
-> **d.** Aussehen oder Stimme der zu schützenden Person verändert oder diese abschirmt;
->
-> **e.** die Akteneinsicht einschränkt.
->
-> **3** Die Verfahrensleitung kann der zu schützenden Person gestatten, sich von einem Rechtsbeistand oder von einer Vertrauensperson begleiten zu lassen.
->
-> **4** Wird eine Person unter 18 Jahren als Zeugin, Zeuge oder Auskunftsperson einvernommen, so kann die Verfahrensleitung zudem Schutzmassnahmen nach Artikel 154 Absätze 2 und 4 anordnen.
->
-> **5** Die Verfahrensleitung sorgt bei allen Schutzmassnahmen für die Wahrung des rechtlichen Gehörs der Parteien, insbesondere der Verteidigungsrechte der beschuldigten Person.
->
-> **6** Wurde der zu schützenden Person die Wahrung ihrer Anonymität zugesichert, so trifft die Verfahrensleitung die geeigneten Massnahmen, um Verwechslungen oder Vertauschungen zu verhindern.
+{{< wortlaut >}}
 
 ## I. Zweck und Gehalt
 

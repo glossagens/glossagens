@@ -2,11 +2,16 @@
 title: "Art. 325 StPO — Inhalt der Anklageschrift"
 weight: 325
 date: "2026-08-30"
-lastmod: "2026-09-09"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 325 StPO: Inhalt der Anklageschrift, Akkusationsprinzip (Informations- und Umgrenzungsfunktion), Tatumschreibung («möglichst kurz, aber genau»), Kasuistik, Alternativ- und Eventualanklage sowie prozessuale Rügeobliegenheiten."
 tags: ["StPO", "Anklageschrift", "Anklageprinzip", "Informationsfunktion", "Umgrenzungsfunktion", "Immutabilität", "Eventualanklage", "Hauptverfahren", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-325.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,28 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 325 StPO — Inhalt der Anklageschrift**
->
-> 1 Die Anklageschrift bezeichnet:
->
-> a. den Ort und das Datum;
->
-> b. die anklageerhebende Staatsanwaltschaft;
->
-> c. das Gericht, an welches sich die Anklage richtet;
->
-> d. die beschuldigte Person und ihre Verteidigung;
->
-> e. die geschädigte Person;
->
-> f. möglichst kurz, aber genau: die der beschuldigten Person vorgeworfenen Taten mit Beschreibung von Ort, Datum, Zeit, Art und Folgen der Tatausführung;
->
-> g. die nach Auffassung der Staatsanwaltschaft erfüllten Straftatbestände unter Angabe der anwendbaren Gesetzesbestimmungen.
->
-> 2 Die Staatsanwaltschaft kann eine Alternativanklage oder für den Fall der Verwerfung ihrer Hauptanklage eine Eventualanklage erheben.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

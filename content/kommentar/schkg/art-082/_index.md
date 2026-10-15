@@ -2,11 +2,16 @@
 title: "Art. 82 SchKG — Provisorische Rechtsöffnung"
 weight: 82
 date: 2026-06-07
-lastmod: 2026-10-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 82 SchKG: Provisorische Rechtsöffnung — Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis, Grenzkasuistik."
 tags: ["SchKG", "Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Glaubhaftmachung", "Einwendungen", "synallagmatischer Vertrag", "zusammengesetzte Urkunde", "Kontokorrent", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-082.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,14 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 82 SchKG (SR 281.1)** — Provisorische Rechtsöffnung
->
-> **1** Beruht die Forderung auf einer durch öffentliche Urkunde festgestellten oder durch Unterschrift bekräftigten Schuldanerkennung, so kann der Gläubiger die provisorische Rechtsöffnung verlangen.
->
-> **2** Der Richter spricht dieselbe aus, sofern der Betriebene nicht Einwendungen, welche die Schuldanerkennung entkräften, sofort glaubhaft macht.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026.*
 
 ---
 

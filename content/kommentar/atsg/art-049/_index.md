@@ -2,11 +2,16 @@
 title: "Art. 49 ATSG — Verfügung"
 weight: 49
 date: 2026-05-23
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 49 ATSG: Verfügungspflicht, Feststellungsverfügung, Begründungsdichte, Rechtsmittelbelehrung, Drittbeteiligung und aufschiebende Wirkung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Verfügung", "Feststellungsverfügung", "Rechtsmittelbelehrung", "aufschiebende Wirkung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,18 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 49 — Verfügung**
->
-> ¹ Über Leistungen, Forderungen und Anordnungen, die erheblich sind oder mit denen die betroffene Person nicht einverstanden ist, hat der Versicherungsträger schriftlich Verfügungen zu erlassen.
->
-> ² Dem Begehren um Erlass einer Feststellungsverfügung ist zu entsprechen, wenn die gesuchstellende Person ein schützenswertes Interesse glaubhaft macht.
->
-> ³ Die Verfügungen werden mit einer Rechtsmittelbelehrung versehen. Sie sind zu begründen, wenn sie den Begehren der Parteien nicht voll entsprechen. Aus einer mangelhaften Eröffnung einer Verfügung darf der betroffenen Person kein Nachteil erwachsen.
->
-> ⁴ Erlässt ein Versicherungsträger eine Verfügung, welche die Leistungspflicht eines anderen Trägers berührt, so hat er auch ihm die Verfügung zu eröffnen. Dieser kann die gleichen Rechtsmittel ergreifen wie die versicherte Person.
->
-> ⁵ Der Versicherungsträger kann in seiner Verfügung einer Einsprache oder Beschwerde die aufschiebende Wirkung entziehen, auch wenn die Verfügung eine Geldleistung zum Gegenstand hat. Ausgenommen sind Verfügungen über die Rückerstattung unrechtmässig bezogener Leistungen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

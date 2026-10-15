@@ -2,11 +2,16 @@
 title: "Art. 283 ZPO — Einheit des Entscheids"
 weight: 283
 date: 2026-09-25
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 283 ZPO: Grundsatz der Einheit des Scheidungsurteils, Voraussetzungen für ein Scheidungsteilurteil (BGE 144 III 298, BGer 5A_582/2026), Verweisung des Güterrechts (Abs. 2) und des Vorsorgeausgleichs bei Auslandsbezug (Abs. 3) in ein separates Verfahren sowie kantonale Praxis."
 tags: ["ZPO", "Familienrecht", "Scheidungsverfahren", "Scheidungsfolgen", "Einheit des Entscheids", "Teilurteil", "Güterrechtliche Auseinandersetzung", "Vorsorgeausgleich", "Eheschliessungsfreiheit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-283.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,14 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 283 — Einheit des Entscheids**
->
-> **1** Das Gericht befindet im Entscheid über die Ehescheidung auch über deren Folgen.
->
-> **2** Die güterrechtliche Auseinandersetzung kann aus wichtigen Gründen in ein separates Verfahren verwiesen werden.
->
-> **3** Der Ausgleich von Ansprüchen aus der beruflichen Vorsorge kann gesamthaft in ein separates Verfahren verwiesen werden, wenn Vorsorgeansprüche im Ausland betroffen sind und über deren Ausgleich eine Entscheidung im betreffenden Staat erwirkt werden kann. Das Gericht kann das separate Verfahren aussetzen, bis die ausländische Entscheidung vorliegt; es kann bereits das Teilungsverhältnis festlegen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 159 StPO — Polizeiliche Einvernahmen im Ermittlungsverfahren"
 weight: 159
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 159 StPO – Polizeiliche Einvernahmen im Ermittlungsverfahren: Anwesenheitsrecht der Verteidigung, freier Verkehr bei vorläufiger Festnahme, kein Verschiebungsanspruch"
 tags: ["StPO", "polizeiliche Einvernahme", "Verteidigung", "Teilnahmerecht", "Ermittlungsverfahren", "Parteiöffentlichkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-159.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 159 StPO — Polizeiliche Einvernahmen im Ermittlungsverfahren**
->
-> **1** Bei polizeilichen Einvernahmen hat die beschuldigte Person das Recht, dass ihre Verteidigung anwesend sein und Fragen stellen kann.
->
-> **2** Bei polizeilichen Einvernahmen einer vorläufig festgenommenen Person hat diese zudem das Recht, mit ihrer Verteidigung frei zu verkehren.
->
-> **3** Die Geltendmachung dieser Rechte gibt keinen Anspruch auf Verschiebung der Einvernahme.
+{{< wortlaut >}}
 
 ---
 

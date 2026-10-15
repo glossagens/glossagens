@@ -2,11 +2,16 @@
 title: "Art. 85a SchKG — Negative Feststellungsklage"
 weight: 85
 date: 2026-05-15
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 85a SchKG: Negative Feststellungsklage des Betriebenen — Feststellung des Nichtbestehens der Schuld, vorläufige Einstellung, Beweismass, Drittpfandsteller-Ausschluss, Konkurs des Klägers, Betreibungsregister, Verhältnis zu Art. 85 und Art. 8a, Grenzkasuistik."
 tags: ["SchKG", "Feststellungsklage", "negative Feststellungsklage", "Betreibung", "Rechtsvorschlag", "Einstellung", "Beweismass", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-085a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,20 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 85a SchKG (SR 281.1)** — Feststellungsklage
->
-> **1** Ungeachtet eines allfälligen Rechtsvorschlages kann der Betriebene jederzeit vom Gericht des Betreibungsortes feststellen lassen, dass die Schuld nicht oder nicht mehr besteht oder gestundet ist.
->
-> **2** Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweismittel; erscheint ihm die Klage als sehr wahrscheinlich begründet, so stellt es die Betreibung vorläufig ein:
-> 1. in der Betreibung auf Pfändung oder auf Pfandverwertung vor der Verwertung oder, wenn diese bereits stattgefunden hat, vor der Verteilung;
-> 2. in der Betreibung auf Konkurs nach der Zustellung der Konkursandrohung.
->
-> **3** Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein.
->
-> **4** *(aufgehoben)*
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 725 OR — Drohende Zahlungsunfähigkeit"
 weight: 725
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 725 OR: Pflicht des Verwaltungsrats zur Liquiditätsüberwachung und rollenden 12-Monats-Planung, Tatbestand der drohenden Zahlungsunfähigkeit, Abgrenzung zur Zahlungsstockung, Sofort- und Sanierungsmassnahmen, Gesuch um Nachlassstundung statt Insolvenzerklärung und Haftung für den Konkursverschleppungsschaden nach Art. 754 OR."
 tags: ["OR", "Aktienrecht", "Zahlungsunfähigkeit", "Liquiditätsplanung", "Liquidität", "Sanierung", "Nachlassstundung", "Verwaltungsrat", "Konkursverschleppung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,15 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 725 OR — Drohende Zahlungsunfähigkeit**
->
-> ¹ Der Verwaltungsrat überwacht die Zahlungsfähigkeit der Gesellschaft.
->
-> ² Droht die Gesellschaft zahlungsunfähig zu werden, so ergreift der Verwaltungsrat Massnahmen zur Sicherstellung der Zahlungsfähigkeit. Er trifft, soweit erforderlich, weitere Massnahmen zur Sanierung der Gesellschaft oder beantragt der Generalversammlung solche, soweit sie in deren Zuständigkeit fallen. Er reicht nötigenfalls ein Gesuch um Nachlassstundung ein.
->
-> ³ Der Verwaltungsrat handelt mit der gebotenen Eile.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Januar 2023 ([AS 2020 4005](https://www.fedlex.admin.ch/eli/oc/2020/4005/de); [BBl 2017 399](https://www.fedlex.admin.ch/eli/fga/2017/399/de)).*
 
 ### Die Pflichtenkaskade bei Zahlungsunfähigkeit auf einen Blick
 

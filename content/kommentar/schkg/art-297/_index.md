@@ -2,11 +2,16 @@
 title: "Art. 297 SchKG — Wirkungen der Nachlassstundung auf Gläubigerrechte"
 weight: 297
 date: 2026-05-17
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 297 SchKG: Wirkungen der Nachlassstundung — Betreibungsverbot, Arrestausschluss, Ex-lege-Sistierung, Zinsenstillstand, Fristenhemmung, Vorausabtretung, Verrechnung, Grenzkasuistik."
 tags: ["SchKG", "Nachlassstundung", "Sistierung", "Betreibungsverbot", "Arrestausschluss", "Zinsenstillstand", "Verrechnung", "Vorausabtretung", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-297.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,28 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 297 SchKG (SR 281.1)** — Wirkungen der Stundung
->
-> **1** Während der Stundung kann gegen den Schuldner eine Betreibung weder eingeleitet noch fortgesetzt werden. Ausgenommen ist die Betreibung auf Pfandverwertung für grundpfandgesicherte Forderungen; die Verwertung des Grundpfandes bleibt dagegen ausgeschlossen.
->
-> **2** Für gepfändete Vermögensstücke gilt Artikel 199 Absatz 2 sinngemäss.
->
-> **3** Für Nachlassforderungen sind der Arrest und andere Sicherungsmassnahmen ausgeschlossen.
->
-> **4** Wurde vor der Bewilligung der Nachlassstundung die Abtretung einer künftigen Forderung vereinbart, entfaltet diese Abtretung keine Wirkung, wenn die Forderung erst nach der Bewilligung der Nachlassstundung entsteht.
->
-> **5** Mit Ausnahme dringlicher Fälle werden Zivilprozesse und Verwaltungsverfahren über Nachlassforderungen sistiert.
->
-> **6** Verjährungs- und Verwirkungsfristen stehen still.
->
-> **7** Mit der Bewilligung der Stundung hört gegenüber dem Schuldner der Zinsenlauf für alle nicht pfandgesicherten Forderungen auf, sofern der Nachlassvertrag nichts anderes bestimmt.
->
-> **8** Für die Verrechnung gelten die Artikel 213 und 214. An die Stelle der Konkurseröffnung tritt die Bewilligung der Stundung.
->
-> **9** Artikel 211 Absatz 1 gilt sinngemäss, sofern und sobald der Sachwalter der Vertragspartei die Umwandlung der Forderung mitteilt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Januar 2014 (AS 2013 4111; BBl 2010 6455).*
 
 ---
 

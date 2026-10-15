@@ -2,11 +2,16 @@
 title: "Art. 64 VwVG — Parteientschädigung"
 weight: 64
 date: 2026-08-02
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 64 VwVG: Parteientschädigung — Obsiegerprinzip, notwendige Kosten, Kostenträger, Staatshaftung bei Uneinbringlichkeit, VGKE-Bemessung und Kasuistik."
 tags: ["VwVG", "Parteientschädigung", "Obsiegerprinzip", "Anwaltskosten", "VGKE", "Staatshaftung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-064.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,18 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 64 VwVG (SR 172.021)** — Parteientschädigung
->
-> **1** Die Beschwerdeinstanz kann der ganz oder teilweise obsiegenden Partei von Amtes wegen oder auf Begehren eine Entschädigung für ihr erwachsene notwendige und verhältnismässig hohe Kosten zusprechen.
->
-> **2** Die Entschädigung wird in der Entscheidungsformel beziffert und der Körperschaft oder autonomen Anstalt auferlegt, in deren Namen die Vorinstanz verfügt hat, soweit sie nicht einer unterliegenden Gegenpartei auferlegt werden kann.
->
-> **3** Einer unterliegenden Gegenpartei kann sie je nach deren Leistungsfähigkeit auferlegt werden, wenn sich die Partei mit selbständigen Begehren am Verfahren beteiligt hat.
->
-> **4** Die Körperschaft oder autonome Anstalt, in deren Namen die Vorinstanz verfügt hat, haftet für die einer unterliegenden Gegenpartei auferlegte Entschädigung, soweit sich diese als uneinbringlich herausstellt.
->
-> **5** Der Bundesrat regelt die Bemessung der Entschädigung. Vorbehalten bleiben Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 und Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

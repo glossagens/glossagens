@@ -2,11 +2,16 @@
 title: "Art. 198 — Zuständigkeit"
 weight: 198
 date: 2026-07-12
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 198 StPO – Zuständigkeit für die Anordnung von Zwangsmassnahmen"
 tags: ["StPO", "Zwangsmassnahmen", "Zuständigkeit", "Polizei", "Staatsanwaltschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-198.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Zwangsmassnahmen können anordnen:
->
-> **a.** die Staatsanwaltschaft;
->
-> **b.** die Gerichte, in dringenden Fällen ihre Verfahrensleitung;
->
-> **c.** die Polizei in den gesetzlich vorgesehenen Fällen.
->
-> **2** Bund und Kantone können die Befugnis der Polizei, Zwangsmassnahmen anzuordnen und durchzuführen, Polizeiangehörigen mit einem bestimmten Grad oder einer bestimmten Funktion vorbehalten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

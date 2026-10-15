@@ -7,20 +7,21 @@ tags: ["StPO", "Zivilanspruch", "Zivilklage", "Privatklägerschaft", "Adhäsions
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-124.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **1** Das mit der Strafsache befasste Gericht beurteilt den Zivilanspruch ungeachtet des Streitwertes.
->
-> **2** Der beschuldigten Person wird spätestens im erstinstanzlichen Hauptverfahren Gelegenheit gegeben, sich zur Zivilklage zu äussern.
->
-> **3** Anerkennt sie die Zivilklage, so wird dies im Protokoll und im verfahrenserledigenden Entscheid festgehalten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

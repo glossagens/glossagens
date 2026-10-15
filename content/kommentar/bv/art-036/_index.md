@@ -2,11 +2,16 @@
 title: "Art. 36 BV — Einschränkungen von Grundrechten"
 weight: 36
 date: 2026-05-17
-lastmod: 2026-10-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 36 BV: Voraussetzungen der Grundrechtseinschränkung (Normdichte, qualifizierter Gesetzesvorbehalt, polizeiliche Generalklausel, öffentliches Interesse, Verhältnismässigkeit mit Eignung, Erforderlichkeit und Zumutbarkeit sowie Kerngehaltsgarantie) — mit plastischen Sachverhalten angewandter und verworfener Beschränkungen, Schwellenwert-Gegenüberstellungen und Praxishinweisen."
 tags: ["BV", "Grundrechte", "Grundrechtseinschränkung", "Gesetzliche Grundlage", "Qualifizierter Gesetzesvorbehalt", "Polizeiliche Generalklausel", "Öffentliches Interesse", "Verhältnismässigkeit", "Eignung", "Erforderlichkeit", "Zumutbarkeit", "Kerngehalt", "Chilling Effect", "Bettelverbot", "Kundgebungen", "AFV"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-036.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -31,17 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 36 BV — Einschränkungen von Grundrechten**
->
-> 1 Einschränkungen von Grundrechten bedürfen einer gesetzlichen Grundlage. Schwerwiegende Einschränkungen müssen im Gesetz selbst vorgesehen sein. Ausgenommen sind Fälle ernster, unmittelbarer und nicht anders abwendbarer Gefahr.
->
-> 2 Einschränkungen von Grundrechten müssen durch ein öffentliches Interesse oder durch den Schutz von Grundrechten Dritter gerechtfertigt sein.
->
-> 3 Einschränkungen von Grundrechten müssen verhältnismässig sein.
->
-> 4 Der Kerngehalt der Grundrechte ist unantastbar.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 101](https://www.fedlex.admin.ch/eli/cc/1999/404/de), Stand der Konsolidierung 3. März 2024. Fassung gemäss Bundesverfassung vom 18. April 1999, in Kraft seit 1. Januar 2000 (AS 1999 2556; BBl 1997 I 1).*
 
 ### Die Schrankenelemente auf einen Blick
 

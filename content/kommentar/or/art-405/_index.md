@@ -2,11 +2,16 @@
 title: "Art. 405 — Erlöschen des Auftrags"
 weight: 405
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 405 OR — Erlöschen des Auftrags bei Handlungsunfähigkeit, Konkurs, Tod und Verschollenerklärung; dispositiver Charakter; Fortführungspflicht zum Schutz des Auftraggebers"
 tags: ["OR", "Auftragsrecht", "Erlöschen", "Tod", "Konkurs", "Handlungsunfähigkeit", "Fortführungspflicht", "Verschollenerklärung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-405.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 90 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,11 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Auftrag erlischt, sofern nicht das Gegenteil vereinbart ist oder aus der Natur des Geschäfts hervorgeht, mit dem Verlust der entsprechenden Handlungsfähigkeit, dem Konkurs, dem Tod oder der Verschollenerklärung des Auftraggebers oder des Beauftragten.^[Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 (AS 2011 725; BBl 2006 7001).]
->
-> **2** Falls jedoch das Erlöschen des Auftrages die Interessen des Auftraggebers gefährdet, so ist der Beauftragte, sein Erbe oder sein Vertreter verpflichtet, für die Fortführung des Geschäftes zu sorgen, bis der Auftraggeber, sein Erbe oder sein Vertreter in der Lage ist, es selbst zu tun.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 in der Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dezember 2008, in Kraft seit 1. Januar 2013 (AS 2011 725).*
 
 ### Prüfschema
 

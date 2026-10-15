@@ -2,11 +2,16 @@
 title: "Art. 255 StPO — DNA-Profile: Voraussetzungen im Allgemeinen"
 weight: 255
 date: 2026-08-30
-lastmod: 2026-09-16
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 255 StPO: DNA-Probenahme und Profilerstellung zur Aufklärung des Anlassdelikts (Abs. 1) und weiterer Taten (Abs. 1bis), Kompetenzen der Polizei (Abs. 2), Y-DNA-Abgleich bei Verbrechen (Abs. 3) sowie Schwellenwerte, Zwangsvollzug, Löschungsfristen und Kasuistik."
 tags: ["StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Polizeikompetenz", "Verhältnismässigkeit", "Zwangsmassnahmen", "Erkennungsdienst", "Y-DNA", "Rückfallgefahr"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-255.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,29 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 255 StPO — Voraussetzungen im Allgemeinen**
->
-> 1 Zur Aufklärung des Verbrechens oder Vergehens, das Gegenstand des Verfahrens bildet, kann eine Probe genommen und ein DNA-Profil erstellt werden von:
->
-> a. der beschuldigten Person;
->
-> b. anderen Personen, insbesondere Opfern oder Tatortberechtigten, soweit es notwendig ist, um von ihnen stammendes biologisches Material von jenem der beschuldigten Person zu unterscheiden;
->
-> c. toten Personen;
->
-> d. tatrelevantem biologischem Material.
->
-> 1bis Von der beschuldigten Person kann auch eine Probe genommen und ein DNA-Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, sie könnte weitere Verbrechen oder Vergehen begangen haben.
->
-> 2 Die Polizei kann anordnen:
->
-> a. die nicht invasive Probenahme bei Personen;
->
-> b. die Erstellung eines DNA-Profils von tatrelevantem biologischem Material.
->
-> 3 Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003 anordnen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 und Abs. 1bis in der Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697). Abs. 3 eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dezember 2021, in Kraft seit 1. August 2023 (AS 2023 309; BBl 2021 44).*
 
 ---
 

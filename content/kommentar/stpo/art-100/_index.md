@@ -2,11 +2,16 @@
 title: "Art. 100 StPO — Aktenführung"
 weight: 100
 date: "2026-06-20"
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 100 StPO: Aktendossier, systematische Ablage und Verzeichnispflicht; Dokumentationspflicht der Strafbehörden als Voraussetzung des rechtlichen Gehörs und der Akteneinsicht."
 tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Akteneinsicht", "rechtliches Gehör"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-100.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 100 StPO — Aktenführung**
->
-> 1 Für jede Strafsache wird ein Aktendossier angelegt. Dieses enthält:
->
-> a. die Verfahrens- und die Einvernahmeprotokolle;
->
-> b. die von der Strafbehörde zusammengetragenen Akten;
->
-> c. die von den Parteien eingereichten Akten.
->
-> 2 Die Verfahrensleitung sorgt für die systematische Ablage der Akten und für deren fortlaufende Erfassung in einem Verzeichnis; in einfachen Fällen kann sie von einem Verzeichnis absehen.
-
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

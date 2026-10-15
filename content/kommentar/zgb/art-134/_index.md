@@ -2,11 +2,16 @@
 title: "Art. 134 — Kinder: Abänderung der Verhältnisse"
 weight: 134
 date: "2026-08-28"
-lastmod: "2026-08-28"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 134 ZGB – Neuregelung der elterlichen Sorge, Obhut, Betreuungsanteile, persönlicher Verkehr und Kindesunterhalt nach Scheidung sowie Zuständigkeitsordnung zwischen Gericht und KESB"
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Scheidung", "Elterliche Sorge", "Obhut", "Unterhalt", "Besuchsrecht", "KESB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-134.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 134 ZGB — 3. Kinder / a. Abänderung der Verhältnisse**
->
-> 1 Auf Begehren eines Elternteils, des Kindes oder der Kindesschutzbehörde ist die Zuteilung der elterlichen Sorge neu zu regeln, wenn dies wegen wesentlicher Veränderung der Verhältnisse zum Wohl des Kindes geboten ist.
->
-> 2 Die Voraussetzungen für eine Änderung der übrigen Elternrechte und -pflichten richten sich nach den Bestimmungen über die Wirkungen des Kindesverhältnisses.
->
-> 3 Sind sich die Eltern einig, so ist die Kindesschutzbehörde für die Neuregelung der elterlichen Sorge, der Obhut und die Genehmigung eines Unterhaltsvertrages zuständig. In den übrigen Fällen entscheidet das für die Abänderung des Scheidungsurteils zuständige Gericht.
->
-> 4 Hat das Gericht über die Änderung der elterlichen Sorge, der Obhut oder des Unterhaltsbeitrages für das minderjährige Kind zu befinden, so regelt es nötigenfalls auch den persönlichen Verkehr oder die Betreuungsanteile neu; in den andern Fällen entscheidet die Kindesschutzbehörde über die Änderung des persönlichen Verkehrs oder der Betreuungsanteile.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 398 StPO — Zulässigkeit und Berufungsgründe"
 weight: 398
 date: "2026-08-30"
-lastmod: "2026-09-26"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 398 StPO – Zulässigkeit und Berufungsgründe: Anfechtungsobjekte (Abs. 1), umfassende Kognition des Berufungsgerichts (Abs. 2), Berufungsgründe (Abs. 3), Kognitionsbeschränkung bei Übertretungen (Abs. 4) und Zivilpunkt (Abs. 5)."
 tags: ["StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Zivilpunkt", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-398.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-26"
     by: "Hermes"
     model: "glm-5.2"
@@ -21,23 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 398 StPO — Zulässigkeit und Berufungsgründe**
->
-> **1** Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen worden ist, sowie gegen selbstständige nachträgliche Entscheide des Gerichts und gegen selbstständige Einziehungsentscheide.
->
-> **2** Das Berufungsgericht kann das Urteil in allen angefochtenen Punkten umfassend überprüfen.
->
-> **3** Mit der Berufung können gerügt werden:
->
-> a. Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung;
->
-> b. die unvollständige oder unrichtige Feststellung des Sachverhalts;
->
-> c. Unangemessenheit.
->
-> **4** Bildeten ausschliesslich Übertretungen Gegenstand des erstinstanzlichen Hauptverfahrens, so kann mit der Berufung nur geltend gemacht werden, das Urteil sei rechtsfehlerhaft oder die Feststellung des Sachverhalts sei offensichtlich unrichtig oder beruhe auf einer Rechtsverletzung. Neue Behauptungen und Beweise können nicht vorgebracht werden.
->
-> **5** Beschränkt sich die Berufung auf den Zivilpunkt, so wird das erstinstanzliche Urteil nur so weit überprüft, als es das am Gerichtsstand anwendbare Zivilprozessrecht vorsehen würde.
+{{< wortlaut >}}
 
 ---
 

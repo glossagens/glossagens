@@ -2,11 +2,16 @@
 title: "Art. 45 — Anfechtbare Zwischenverfügungen (Zuständigkeit und Ausstand)"
 weight: 45
 date: 2026-05-23
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 45 VwVG – Anfechtbare Zwischenverfügungen über Zuständigkeit und Ausstand"
 tags: ["VwVG", "Zwischenverfügung", "Zuständigkeit", "Ausstand", "Verwaltungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-045.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,8 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Gegen selbständig eröffnete Zwischenverfügungen über die Zuständigkeit und über Ausstandsbegehren ist die Beschwerde zulässig.
-> 2 Diese Verfügungen können später nicht mehr angefochten werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

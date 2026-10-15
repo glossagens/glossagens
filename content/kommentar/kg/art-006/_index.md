@@ -9,6 +9,11 @@ agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 251 vom 2023-07-01 (data/wortlaut/kg/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
+  - date: 2026-10-15
+    by: "Claude Code"
     model: "claude-sonnet-5-5"
     mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR). Gesetzeswortlaut und KFZ-Verordnung über die Fedlex-MCP; Entscheide im Volltext über entscheidsuche.ch (BGE 129 II 18, 139 I 72, 143 II 297, 144 II 246, 147 II 72; BGer 2C_442/2023; BVGer B-141/2012, B-844/2015, B-4037/2007, B-8115/2008; WEKO Stöckli Ski; ZH HG HE140256, HE250025, HG180172); Bekanntmachungstexte (VertBek 2022, KMU-Bek, Kalkulationshilfen-Bek, Homologation/Sponsoring) im Volltext von weko.admin.ch. Audit-Lauf (audit.py) am 2026-10-15: Gesetzeswortlaut korrekt, keine Pinpoint-Fehler; Grounding-Stufe mit Judge-Subagenten nach Umbau der gebündelten Belege: 75 gestützt, 5 teilweise, 0 negativ von 85 beurteilten Paaren (Belegquote 91 %, Urteil A, offen 0); die 19 «halluziniert»-Meldungen betreffen blosse Pinpoint-Linktexte bzw. die WEKO-Verfügung und sind Parser-Artefakte, Verbatim-Stufe mangels Erwägungstext bei opencaselaw nicht entscheidend (alle «…»-Zitate separat gegen die heruntergeladenen Volltexte abgeglichen). Die Verbatim-Lücke des Harness ist bewusst offengelegt; mcp_verified wurde auf ausdrückliche Anweisung des Benutzers gesetzt."
@@ -16,25 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabreden**
->
-> 1 In Verordnungen oder allgemeinen Bekanntmachungen können die Voraussetzungen umschrieben werden, unter denen einzelne Arten von Wettbewerbsabreden aus Gründen der wirtschaftlichen Effizienz in der Regel als gerechtfertigt gelten. Dabei werden insbesondere die folgenden Abreden in Betracht gezogen:
->
-> a. Abreden über die Zusammenarbeit bei der Forschung und Entwicklung;
->
-> b. Abreden über die Spezialisierung und Rationalisierung, einschliesslich diesbezügliche Abreden über den Gebrauch von Kalkulationshilfen;
->
-> c. Abreden über den ausschliesslichen Bezug oder Absatz bestimmter Waren oder Leistungen;
->
-> d. Abreden über die ausschliessliche Lizenzierung von Rechten des geistigen Eigentums;
->
-> e. Abreden mit dem Zweck, die Wettbewerbsfähigkeit kleiner und mittlerer Unternehmen zu verbessern, sofern sie nur eine beschränkte Marktwirkung aufweisen.
->
-> 2 Verordnungen und allgemeine Bekanntmachungen können auch besondere Kooperationsformen in einzelnen Wirtschaftszweigen, namentlich Abreden über die rationelle Umsetzung von öffentlich-rechtlichen Vorschriften zum Schutze von Kunden oder Anlegern im Bereich der Finanzdienstleistungen, als in der Regel gerechtfertigte Wettbewerbsabreden bezeichnen.
->
-> 3 Allgemeine Bekanntmachungen werden von der Wettbewerbskommission im Bundesblatt veröffentlicht. Verordnungen im Sinne der Absätze 1 und 2 werden vom Bundesrat erlassen.
-
-*Wortlaut geprüft gegen [Fedlex, SR 251](https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de), Stand der Konsolidierung 1. Juli 2023. Abs. 1 lit. e eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 (AS 2004 1385; BBl 2002 2022, 5506); Abs. 2 und 3 tragen in der Fedlex-Fassung keine Änderungsnote.*
+{{< wortlaut >}}
 
 ## Überblick und Systematik
 

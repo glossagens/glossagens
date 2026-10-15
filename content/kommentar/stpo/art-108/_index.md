@@ -6,6 +6,11 @@ description: "Kommentar zu Art. 108 StPO – Einschränkungen des rechtlichen Ge
 tags: ["StPO", "rechtliches Gehör", "Einschränkung", "Geheimhaltungsinteresse", "Rechtsbeistand", "Parteiöffentlichkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,26 +21,12 @@ revisions:
     model: "glm-5.1"
     mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 108 StPO — Einschränkungen des rechtlichen Gehörs**
->
-> 1 Die Strafbehörden können das rechtliche Gehör einschränken, wenn:
->
-> a. der begründete Verdacht besteht, dass eine Partei ihre Rechte missbraucht;
->
-> b. dies für die Sicherheit von Personen oder zur Wahrung öffentlicher oder privater Geheimhaltungsinteressen erforderlich ist.
->
-> 2 Einschränkungen gegenüber Rechtsbeiständen sind nur zulässig, wenn der Rechtsbeistand selbst Anlass für die Beschränkung gibt.
->
-> 3 Die Einschränkungen sind zu befristen oder auf einzelne Verfahrenshandlungen zu begrenzen.
->
-> 4 Besteht der Grund für die Einschränkung fort, so dürfen die Strafbehörden Entscheide nur so weit auf Akten, die einer Partei nicht eröffnet worden sind, stützen, als ihr von deren wesentlichem Inhalt Kenntnis gegeben wurde.
->
-> 5 Ist der Grund für die Einschränkung weggefallen, so ist das rechtliche Gehör in geeigneter Form nachträglich zu gewähren.
+{{< wortlaut >}}
 
 ## Kommentierung
 

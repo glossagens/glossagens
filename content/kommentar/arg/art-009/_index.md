@@ -2,29 +2,21 @@
 title: "Art. 9 — Wöchentliche Höchstarbeitszeit"
 weight: 9
 date: "2026-07-10"
-lastmod: "2026-08-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 9 ArG – Wöchentliche Höchstarbeitszeit (45/50-Stunden-Regel, Verlängerungsmöglichkeiten, Solidaritätsprinzip Abs. 5)"
 tags: ["ArG", "Höchstarbeitszeit", "Arbeitszeit", "Überzeitarbeit", "Arbeitnehmerschutz"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 9** Wöchentliche Höchstarbeitszeit
->
-> **1** Die wöchentliche Höchstarbeitszeit beträgt:
->
-> **a.** 45 Stunden für Arbeitnehmer in industriellen Betrieben sowie für Büropersonal, technische und andere Angestellte, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels;
->
-> **b.** 50 Stunden für alle übrigen Arbeitnehmer.
->
-> **2** … *(aufgehoben)*
->
-> **3** Für bestimmte Gruppen von Betrieben oder Arbeitnehmern kann die wöchentliche Höchstarbeitszeit durch Verordnung zeitweise um höchstens vier Stunden verlängert werden, sofern sie im Jahresdurchschnitt nicht überschritten wird.
->
-> **4** Eine Verlängerung der wöchentlichen Höchstarbeitszeit um höchstens vier Stunden kann vom Staatssekretariat für Wirtschaft (SECO) für bestimmte Gruppen von Betrieben oder Arbeitnehmern oder für bestimmte Betriebe bewilligt werden, sofern und solange zwingende Gründe dies rechtfertigen.
->
-> **5** Auf Büropersonal, technische und andere Angestellte, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels, die im gleichen Betrieb oder Betriebsteil zusammen mit Arbeitnehmern beschäftigt werden, für die eine längere wöchentliche Höchstarbeitszeit gilt, ist diese ebenfalls anwendbar.
+{{< wortlaut >}}
 
 *Abs. 1 lit. a Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Abs. 2 aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Bezeichnung der Verwaltungseinheit in Abs. 4 angepasst in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 (AS 2004 4937). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 

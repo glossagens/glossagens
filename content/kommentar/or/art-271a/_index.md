@@ -2,11 +2,16 @@
 title: "Art. 271a — Schutzfrist bei missbräuchlicher Kündigung"
 weight: 271
 date: 2026-05-24
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 271a OR – Schutzfrist bei ausserordentlicher Kündigung durch den Vermieter"
 tags: ["OR", "Mietrecht", "Kündigungsschutz", "Schutzfrist"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-271a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,29 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 271a OR — Anfechtbarkeit der Kündigung**
->
-> ¹ Die Kündigung durch den Vermieter ist insbesondere anfechtbar, wenn sie ausgesprochen wird:
-> a. weil der Mieter nach Treu und Glauben Ansprüche aus dem Mietverhältnis geltend macht;
-> b. weil der Vermieter eine einseitige Vertragsänderung zu Lasten des Mieters oder eine Mietzinsanpassung durchsetzen will;
-> c. allein um den Mieter zum Erwerb der gemieteten Wohnung zu veranlassen;
-> d. während eines mit dem Mietverhältnis zusammenhängenden Schlichtungs- oder Gerichtsverfahrens, ausser wenn der Mieter das Verfahren missbräuchlich eingeleitet hat;
-> e. vor Ablauf von drei Jahren nach Abschluss eines mit dem Mietverhältnis zusammenhängenden Schlichtungs- oder Gerichtsverfahrens, in dem der Vermieter:
->    1. zu einem erheblichen Teil unterlegen ist,
->    2. seine Forderung oder Klage zurückgezogen oder erheblich eingeschränkt hat,
->    3. auf die Anrufung des Richters verzichtet hat,
->    4. mit dem Mieter einen Vergleich geschlossen oder sich sonstwie geeinigt hat;
-> f. wegen Änderungen in der familiären Situation des Mieters, aus denen dem Vermieter keine wesentlichen Nachteile entstehen.
->
-> ² Absatz 1 Buchstabe e ist auch anwendbar, wenn der Mieter durch Schriftstücke nachweisen kann, dass er sich mit dem Vermieter ausserhalb eines Schlichtungs- oder Gerichtsverfahrens über eine Forderung aus dem Mietverhältnis geeinigt hat.
->
-> ³ Absatz 1 Buchstaben d und e sind nicht anwendbar bei Kündigungen:
-> a. wegen dringenden Eigenbedarfs des Vermieters für sich, nahe Verwandte oder Verschwägerte;
-> b. wegen Zahlungsrückstand des Mieters (Art. 257d);
-> c. wegen schwerer Verletzung der Pflicht des Mieters zu Sorgfalt und Rücksichtnahme (Art. 257f Abs. 3 und 4);
-> d. infolge Veräusserung der Sache (Art. 261);
-> e. aus wichtigen Gründen (Art. 266g);
-> f. wegen Konkurs des Mieters (Art. 266h).
+{{< wortlaut >}}
 
 ## Kommentierung
 

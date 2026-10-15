@@ -2,11 +2,16 @@
 title: "Art. 53 ATSG — Revision und Wiedererwägung"
 weight: 53
 date: 2026-09-07
-lastmod: 2026-09-07
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 53 ATSG: Prozessuale Revision (Abs. 1), Wiedererwägung wegen zweifelloser Unrichtigkeit (Abs. 2) und Wiedererwägung pendente lite (Abs. 3) — mit umfassender Kasuistik, Schwellenwerten (5-Prozentpunkte-Regel), Gegenüberstellungstabellen, kantonalen Praxisfragen und Praxishinweisen."
 tags: ["ATSG", "Revision", "Wiedererwägung", "Zweifellose Unrichtigkeit", "Noven", "Pendente lite", "Vertrauensschutz", "Rückforderung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-053.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,16 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 53 — Revision und Wiedererwägung**
->
-> ¹ Formell rechtskräftige Verfügungen und Einspracheentscheide müssen in Revision gezogen werden, wenn die versicherte Person oder der Versicherungsträger nach deren Erlass erhebliche neue Tatsachen entdeckt oder Beweismittel auffindet, deren Beibringung zuvor nicht möglich war.
->
-> ² Der Versicherungsträger kann auf formell rechtskräftige Verfügungen oder Einspracheentscheide zurückkommen, wenn diese zweifellos unrichtig sind und wenn ihre Berichtigung von erheblicher Bedeutung ist.
->
-> ³ Der Versicherungsträger kann eine Verfügung oder einen Einspracheentscheid, gegen die Beschwerde erhoben wurde, so lange wiedererwägen, bis er gegenüber der Beschwerdebehörde Stellung nimmt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 830.1](https://www.fedlex.admin.ch/eli/cc/2002/510/de), Stand der Konsolidierung 1. Januar 2024.*
 
 ---
 

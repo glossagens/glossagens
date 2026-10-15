@@ -2,35 +2,21 @@
 title: "Art. 7 BewG — Übrige Ausnahmen von der Bewilligungspflicht"
 weight: 7
 date: 2026-05-11
-lastmod: 2026-06-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 7 BewG – Übrige Ausnahmen von der Bewilligungspflicht beim Erwerb von Grundstücken durch Personen im Ausland"
 tags: ["BewG", "Grundstückwerbung", "Ausländerrecht", "Bewilligungspflicht", "Lex Koller"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> Keiner Bewilligung bedürfen:
->
-> **a.** gesetzliche Erben im Sinne des schweizerischen Rechts im Erbgang;
->
-> **b.** Verwandte des Veräusserers in auf- und absteigender Linie sowie dessen Ehegatte, eingetragene Partnerin oder eingetragener Partner;
->
-> **c.** der Erwerber, der bereits Mit- oder Gesamteigentum am Grundstück hat;
->
-> **d.** Stockwerkeigentümer für den Tausch ihrer Stockwerke im selben Objekt;
->
-> **e.** der Erwerber, der ein Grundstück als Realersatz bei einer Enteignung, Landumlegung oder Güterzusammenlegung nach dem Recht des Bundes oder des Kantons erhält;
->
-> **f.** der Erwerber, der ein Grundstück als Ersatz für ein anderes erwirbt, das er an eine öffentlichrechtliche Körperschaft oder Anstalt veräussert hat;
->
-> **g.** der Erwerber, der eine geringfügige Fläche infolge einer Grenzbereinigung oder infolge einer Erhöhung der Wertquote von Stockwerkeigentum erwirbt;
->
-> **h.** der Erwerber, dessen Erwerb im staatspolitischen Interesse des Bundes geboten ist; die Fläche darf nicht grösser sein, als es der Verwendungszweck des Grundstücks erfordert;
->
-> **i.** natürliche Personen, die infolge der Liquidation einer vor dem 1. Februar 1974 gegründeten juristischen Person, deren tatsächlicher Zweck der Erwerb von Grundstücken ist, eine Wohnung erwerben, wenn sie nach den damals geltenden Vorschriften im entsprechenden Umfang Anteile an der juristischen Person erworben haben;
->
-> **j.** die folgenden Personen, sofern sie als Grenzgänger in der Region des Arbeitsorts eine Zweitwohnung erwerben: 1. Staatsangehörige der Mitgliedstaaten der Europäischen Union oder der Europäischen Freihandelsassoziation, 2. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands, die von Artikel 22 Ziffer 3 des Abkommens vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden.
+{{< wortlaut >}}
 
 ---
 

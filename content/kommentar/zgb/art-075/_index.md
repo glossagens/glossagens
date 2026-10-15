@@ -2,11 +2,16 @@
 title: "Art. 75 ZGB — Anfechtung von Vereinsbeschlüssen"
 weight: 75
 date: 2026-09-04
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 75 ZGB: Anfechtungsobjekt, Aktiv- und Passivlegitimation, Gesetzes- und Statutenverletzungen, Relevanztheorie bei Verfahrensmängeln, Rügeobliegenheit nach Treu und Glauben, zwingende Ausschöpfung des Vereinsinstanzenzugs, einmonatige Verwirkungsfrist und die Fristenfalle der Klagebewilligung (Art. 209 Abs. 4 ZPO) sowie Abgrenzung zur Nichtigkeit — mit detaillierter Kasuistik zu Vereins- und Stockwerkeigentümerbeschlüssen."
 tags: ["ZGB", "Vereinsrecht", "Anfechtungsklage", "Vereinsbeschluss", "Stockwerkeigentum", "Aktivlegitimation", "Verwirkungsfrist", "Klagebewilligung", "Rechtsmissbrauch", "Vereinsausschluss", "Zirkularbeschluss", "Traktandierung", "Nichtigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-075.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,11 +21,10 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 75 ZGB — B. Organisation / I. Die Vereinsversammlung / 6. Anfechtung von Vereinsbeschlüssen**
->
-> Beschlüsse, die das Gesetz oder die Statuten verletzen, kann jedes Mitglied, das nicht zugestimmt hat, von Gesetzes wegen binnen Monatsfrist, nachdem es von ihnen Kenntnis erhalten hat, beim Gericht anfechten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 210](https://www.fedlex.admin.ch/eli/cc/24/233_245_247/de), Stand der Konsolidierung 1. Juli 2026. Fassung gemäss Ziff. I des BG vom 17. März 2023 (Handelsregisterrecht), in Kraft seit 1. Januar 2024 ([AS 2023 607](https://www.fedlex.admin.ch/eli/oc/2023/607/de); [BBl 2021 2162](https://www.fedlex.admin.ch/eli/fbl/2021/2162/de)). Die Revision hat die bisherige bundesgerichtliche Rechtsprechung («das nicht zugestimmt hat») ausdrücklich in den Gesetzestext überführt.*
+*Die Revision vom 17. März 2023 (in Kraft seit 1. Januar 2024) hat die bisherige bundesgerichtliche Rechtsprechung («das nicht zugestimmt hat») ausdrücklich in den Gesetzestext überführt.*
+
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 261bis StGB — Diskriminierung und Aufruf zu Hass"
 weight: 261
 date: 2026-10-14
-lastmod: 2026-10-14
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 261bis StGB: Diskriminierung und Aufruf zu Hass wegen Rasse, Ethnie, Religion oder sexueller Orientierung — Schutzbereich und abschliessende Merkmale, Begriff der Öffentlichkeit, Aufruf zu Hass (Abs. 1), Verbreiten von Ideologien vs. Bekenntnis (Abs. 2, Hitlergruss), Propaganda (Abs. 3), Herabsetzung in menschenwürdewidriger Weise und Holocaust-/Genozidleugnung (Abs. 4), Leistungsverweigerung (Abs. 5) sowie Schranken der Meinungsäusserungsfreiheit im politischen Meinungskampf."
 tags: ["StGB", "Rassendiskriminierung", "Diskriminierung und Aufruf zu Hass", "Öffentlichkeit", "Menschenwürde", "Sexuelle Orientierung", "Hitlergruss", "Holocaustleugnung", "Genozid", "Leistungsverweigerung", "Meinungsäusserungsfreiheit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-261bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 261bis StGB — Diskriminierung und Aufruf zu Hass**
->
-> 1 Wer öffentlich gegen eine Person oder eine Gruppe von Personen wegen ihrer Rasse, Ethnie, Religion oder sexuellen Orientierung zu Hass oder zu Diskriminierung aufruft,
->
-> 2 wer öffentlich Ideologien verbreitet, die auf die systematische Herabsetzung oder Verleumdung dieser Personen oder Personengruppen gerichtet sind,
->
-> 3 wer mit dem gleichen Ziel Propagandaaktionen organisiert, fördert oder daran teilnimmt,
->
-> 4 wer öffentlich durch Wort, Schrift, Bild, Gebärden, Tätlichkeiten oder in anderer Weise eine Person oder eine Gruppe von Personen wegen ihrer Rasse, Ethnie, Religion oder sexuellen Orientierung in einer gegen die Menschenwürde verstossenden Weise herabsetzt oder diskriminiert oder aus einem dieser Gründe Völkermord oder andere Verbrechen gegen die Menschlichkeit leugnet, gröblich verharmlost oder zu rechtfertigen sucht,
->
-> 5 wer eine von ihm angebotene Leistung, die für die Allgemeinheit bestimmt ist, einer Person oder einer Gruppe von Personen wegen ihrer Rasse, Ethnie, Religion oder sexuellen Orientierung verweigert,
->
-> wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 1. Oktober 2026. Eingefügt durch Art. 1 des BG vom 18. Juni 1993, in Kraft seit 1. Januar 1995 ([AS 1994 2887](https://www.fedlex.admin.ch/eli/oc/1994/2887_2887_2887/de); [BBl 1992 III 269](https://www.fedlex.admin.ch/eli/fga/1992/3_269__de)). Fassung gemäss Ziff. I 1 des BG vom 14. Dezember 2018 (Diskriminierung und Aufruf zu Hass aufgrund der sexuellen Orientierung), in Kraft seit 1. Juli 2020 ([AS 2020 1609](https://www.fedlex.admin.ch/eli/oc/2020/1609/de); [BBl 2018 3773](https://www.fedlex.admin.ch/eli/fga/2018/3773/de), [5231](https://www.fedlex.admin.ch/eli/fga/2018/5231/de)).*
 

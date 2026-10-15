@@ -2,11 +2,16 @@
 title: "Art. 190 IPRG — Anfechtung des Schiedsentscheids"
 weight: 190
 date: '2026-09-20'
-lastmod: '2026-09-20'
+lastmod: 2026-10-15
 description: "Umfassender Praxiskommentar zu Art. 190 IPRG: Endgültigkeit des Schiedsspruchs, abschliessende Beschwerdegründe vor Bundesgericht, materieller und verfahrensrechtlicher Ordre public (Matuzalém, Semenya, Pechstein), Zwischenentscheide und Praxishinweise."
 tags: ["IPRG", "Schiedsgerichtsbarkeit", "Ordre public", "Rechtliches Gehör", "Schiedsentscheid", "Zuständigkeit", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 291 vom 2026-01-01 (data/wortlaut/iprg/art-190.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: '2026-09-20'
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,26 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 190**
->
-> ^1^ Mit der Eröffnung ist der Entscheid endgültig.
->
-> ^2^ Der Entscheid kann nur angefochten werden:
->
-> a. wenn die Einzelschiedsrichterin oder der Einzelschiedsrichter vorschriftswidrig ernannt oder das Schiedsgericht vorschriftswidrig zusammengesetzt wurde;
->
-> b. wenn sich das Schiedsgericht zu Unrecht für zuständig oder unzuständig erklärt hat;
->
-> c. wenn das Schiedsgericht über Streitpunkte entschieden hat, die ihm nicht unterbreitet wurden oder wenn es Rechtsbegehren unbeurteilt gelassen hat;
->
-> d. wenn der Grundsatz der Gleichbehandlung der Parteien oder der Grundsatz des rechtlichen Gehörs verletzt wurde;
->
-> e. wenn der Entscheid mit dem Ordre public unvereinbar ist.
->
-> ^3^ Vorentscheide können nur aus den in Absatz 2, Buchstaben a und b genannten Gründen angefochten werden; die Beschwerdefrist beginnt mit der Zustellung des Vorentscheides.
->
-> ^4^ Die Beschwerdefrist beträgt 30 Tage ab Eröffnung des Entscheids.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 *(Abs. 2 Bst. a und Abs. 4 in der Fassung vom 19. Juni 2020, in Kraft seit 1. Jan. 2021; [AS 2020 4179](https://www.fedlex.admin.ch/eli/oc/2020/948/de); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548))*
 

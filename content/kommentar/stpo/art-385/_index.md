@@ -2,11 +2,16 @@
 title: "Art. 385 StPO — Begründung und Form der Rechtsmittel"
 weight: 385
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 385 StPO – Begründung und Form der Rechtsmittel: Formelle Mindestanforderungen und Rügepflicht (Abs. 1), zwingende Nachfristansetzung zur Mangelbeseitigung (Abs. 2) und Grundsatz der unschädlichen Falschbezeichnung (Abs. 3)."
 tags: ["StPO", "Rechtsmittel", "Begründungspflicht", "Rügepflicht", "Nachfrist", "Verbesserung", "Falschbezeichnung", "Formstrenge", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-385.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 385 StPO — Begründung und Form**
->
-> **1** Verlangt dieses Gesetz, dass das Rechtsmittel begründet wird, so hat die Person oder die Behörde, die das Rechtsmittel ergreift, genau anzugeben:
->
-> a. welche Punkte des Entscheides sie anficht;
->
-> b. welche Gründe einen anderen Entscheid nahe legen;
->
-> c. welche Beweismittel sie anruft.
->
-> **2** Erfüllt die Eingabe diese Anforderungen nicht, so weist die Rechtsmittelinstanz sie zur Verbesserung innerhalb einer kurzen Nachfrist zurück. Genügt die Eingabe auch nach Ablauf der Nachfrist den Anforderungen nicht, so tritt die Rechtsmittelinstanz auf das Rechtsmittel nicht ein.
->
-> **3** Die unrichtige Bezeichnung eines Rechtsmittels beeinträchtigt seine Gültigkeit nicht.
+{{< wortlaut >}}
 
 ---
 

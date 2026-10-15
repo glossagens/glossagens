@@ -2,11 +2,16 @@
 title: "Art. 236 StPO — Vorzeitiger Straf- und Massnahmenvollzug"
 weight: 236
 date: 2026-07-04
-lastmod: 2026-09-24
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 236 StPO: Vorzeitiger Straf- und Massnahmenvollzug — Bewilligungsvoraussetzungen, Stand des Verfahrens, Kollusionsgefahr, Rechtsanspruch und Ermessen, Vollzugsregime und Vollzugslockerungen seit der Revision 2024, Haftprüfung und Entlassungsgesuche nach zwei Dritteln der Strafe."
 tags: ["vorzeitiger Strafvollzug", "Massnahmenvollzug", "Untersuchungshaft", "Sicherheitshaft", "Vollzugsregime", "Vollzugslockerungen", "Hafturlaub", "Kollusionsgefahr", "Haftentlassung", "Zwangsmassnahmen", "Resozialisierung", "Revision 2024"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-236.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,17 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 236 StPO — Vorzeitiger Straf- und Massnahmenvollzug**
->
-> 1 Die Verfahrensleitung kann der beschuldigten Person bewilligen, Freiheitsstrafen oder freiheitsentziehende Massnahmen vorzeitig anzutreten, sofern der Stand des Verfahrens es erlaubt und sofern der Zweck der Untersuchungs- oder der Sicherheitshaft dem nicht entgegensteht.
->
-> 2 Ist bereits Anklage erhoben worden, so gibt die Verfahrensleitung der Staatsanwaltschaft Gelegenheit zur Stellungnahme.
->
-> 3 Bund und Kantone können vorsehen, dass der vorzeitige Massnahmenvollzug der Zustimmung der Vollzugsbehörden bedarf.
->
-> 4 Mit dem Eintritt in die Vollzugsanstalt tritt die beschuldigte Person ihre Strafe oder Massnahme an; sie untersteht von diesem Zeitpunkt an dem Vollzugsregime.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 und Abs. 4 in der Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
 
 ---
 

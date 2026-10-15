@@ -2,11 +2,16 @@
 title: "Art. 395 ZGB — Vermögensverwaltung"
 weight: 395
 date: 2026-05-24
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 395 ZGB: Vertretungsbeistandschaft mit Vermögensverwaltung, Umfang, Zugriffsentzug nach Abs. 3, Anlagevorschriften und kantonale Praxis."
 tags: ["ZGB", "Erwachsenenschutz", "Vermögensverwaltung", "Vertretungsbeistandschaft", "Zugriffsentzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-395.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 395 ZGB — Vermögensverwaltung**
->
-> <sup>1</sup> Errichtet die Erwachsenenschutzbehörde eine Vertretungsbeistandschaft für die Vermögensverwaltung, so bestimmt sie die Vermögenswerte, die vom Beistand oder von der Beiständin verwaltet werden sollen. Sie kann Teile des Einkommens oder das gesamte Einkommen, Teile des Vermögens oder das gesamte Vermögen oder das gesamte Einkommen und Vermögen unter die Verwaltung stellen.
->
-> <sup>2</sup> Die Verwaltungsbefugnisse umfassen auch die Ersparnisse aus dem verwalteten Einkommen oder die Erträge des verwalteten Vermögens, wenn die Erwachsenenschutzbehörde nichts anderes verfügt.
->
-> <sup>3</sup> Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen.
->
-> <sup>4</sup> … Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), mit Wirkung seit 1. Jan. 2024 (AS 2023 84; BBl 2016 5161, 5175).
+{{< wortlaut >}}
 
 ## Überblick und Systematik
 

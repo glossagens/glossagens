@@ -2,12 +2,17 @@
 title: "Art. 49 BV — Vorrang und Einhaltung des Bundesrechts"
 weight: 49
 date: 2026-08-09
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 49 BV: Bundesrecht geht entgegenstehendem kantonalem Recht vor; Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 tags: ["BV", "Vorrang", "Bundesrecht", "Kantonsrecht", "Staatsrecht", "Normenkonflikt", "Derogation", "Verfassung"]
 agent_verified: false
 mcp_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -22,13 +27,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 49 BV — Vorrang und Einhaltung des Bundesrechts**
->
-> ¹ Bundesrecht geht entgegenstehendem kantonalem Recht vor.
->
-> ² Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone.
+{{< wortlaut >}}
 
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
 
 **Wichtiger Hinweis:** Der vorherige Artikel enthielt einen **falschen Abs. 2** ("Der Bund achtet darauf, dass die Kantone ihre Autonomie wahren" — das ist eine Paraphrasierung von Art. 47/50 BV, nicht Art. 49) und einen **fiktiven Abs. 3** ("Bei Konflikten zwischen Bundes- und kantonalem Recht ist das Bundesrecht anwendbar" — der nicht im geltenden Recht existiert). Der korrekte Abs. 2 lautet: "Der Bund wacht über die Einhaltung des Bundesrechts durch die Kantone."
 

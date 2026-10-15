@@ -2,11 +2,16 @@
 title: "Art. 257a OR — Nebenkosten (Begriff und Vereinbarung)"
 weight: 257
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 257a OR: Begriff und Konnexität der Nebenkosten, zwingendes Ausscheidungsprinzip (Ausschluss von Eigentümerlasten), Bestimmtheitsgebot, unzulässige AGB- und Formularklauseln, Akontozahlungen und Lockvogel-Nebenkosten, Formularpflicht bei nachträglicher Überwälzung sowie Bereicherungsanspruch und Verjährung."
 tags: ["OR", "Mietrecht", "Nebenkosten", "Ausscheidungsgrundsatz", "Betriebskosten", "Heizkosten", "Akontozahlung", "Pauschalmiete", "AGB", "Rückforderung", "Verjährung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-257a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,13 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 257a OR — II. Nebenkosten / 1. Im Allgemeinen**
->
-> ¹ Die Nebenkosten sind das Entgelt für die Leistungen des Vermieters oder eines Dritten, die mit dem Gebrauch der Sache zusammenhängen.
->
-> ² Der Mieter muss die Nebenkosten nur bezahlen, wenn er dies mit dem Vermieter besonders vereinbart hat.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Oktober 2026. Eingefügt durch Ziff. I des BG vom 15. Dezember 1989, in Kraft seit 1. Juli 1990 (AS 1990 802; BBl 1985 I 1389).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 368 OR — Haftung für Mängel des Werkes"
 weight: 368
 date: 2026-08-01
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 368 OR: Mängelrechte im Werkvertrag — Wandelung, Minderung, unentgeltliche Verbesserung, Ersatzvornahme, Baumängelrevision 2026, Mangelfolgeschaden und kantonale Rechtsprechung."
 tags: ["OR", "Werkvertrag", "Mängelrechte", "Sachgewährleistung", "Nachbesserung", "Minderung", "Wandelung", "Baumängel", "Ersatzvornahme", "Stockwerkeigentum", "Mangelfolgeschaden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-368.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 368 OR — Haftung für Mängel / Rechte des Bestellers**
->
-> ¹ Leidet das Werk an so erheblichen Mängeln oder weicht es sonst so sehr vom Vertrage ab, dass es für den Besteller unbrauchbar ist oder dass ihm die Annahme billigerweise nicht zugemutet werden kann, so darf er diese verweigern und bei Verschulden des Unternehmers Schadenersatz fordern.
->
-> ² Sind die Mängel oder die Abweichungen vom Vertrage minder erheblich, so kann der Besteller einen dem Minderwerte des Werkes entsprechenden Abzug am Lohne machen oder auch, sofern dieses dem Unternehmer nicht übermässige Kosten verursacht, die unentgeltliche Verbesserung des Werkes und bei Verschulden Schadenersatz verlangen. Im Falle der unentgeltlichen Verbesserung gilt Artikel 366 Absatz 2 sinngemäss.
->
-> ²bis Eine zum Voraus getroffene Verabredung, wonach der Anspruch auf unentgeltliche Verbesserung eingeschränkt oder ausgeschlossen wird, ist ungültig, wenn der Mangel eine Baute betrifft.
->
-> ³ Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können, stehen dem Besteller nur die im zweiten Absatz dieses Artikels genannten Rechte zu.
-
-*Quelle: Fedlex (SR 220), Stand 01.01.2026 (inkl. Baumängelrevision, AS 2025 270; BBl 2022 2743).*
+{{< wortlaut >}}
 
 ## Vorbemerkungen & Systematik
 

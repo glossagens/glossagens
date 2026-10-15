@@ -2,28 +2,22 @@
 title: "Art. 310 StPO — Nichtanhandnahme"
 weight: 310
 date: 2026-03-30
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxisorientierter Gesetzeskommentar zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): Tatbestandsmerkmale, In-dubio-pro-duriore-Grundsatz, Vorabklärungen, Kasuistik, Rechtsmittel und Praxishinweise."
 tags: ["StPO", "Untersuchung", "Nichtanhandnahme", "In dubio pro duriore", "Einstellung", "Rechtsmittel"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-310.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 310 StPO — Nichtanhandnahme**
->
-> 1 Die Staatsanwaltschaft verfügt die Nichtanhandnahme, sobald aufgrund der Strafanzeige oder des Polizeirapports feststeht, dass:
->
-> a. die fraglichen Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht erfüllt sind;
->
-> b. Verfahrenshindernisse bestehen;
->
-> c. aus den in Artikel 8 genannten Gründen auf eine Strafverfolgung zu verzichten ist.
->
-> 2 Im Übrigen richtet sich das Verfahren nach den Bestimmungen über die Verfahrenseinstellung.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(SR 312.0, in Kraft seit dem 1. Januar 2011; Abs. 2 in der Fassung vom 1. Januar 2024).*
 
 ---
 

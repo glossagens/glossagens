@@ -2,11 +2,16 @@
 title: "Art. 8 ATSG — Invalidität"
 weight: 8
 date: 2026-06-06
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 ATSG — Invalidität: Begriff, Bemessung bei Erwerbstätigen (Einkommensvergleich), nichterwerbstätigen Minderjährigen und Volljährigen (spezifische und gemischte Methode)."
 tags: ["ATSG", "Sozialversicherungsrecht", "Invalidität", "Einkommensvergleich", "gemischte Methode", "Erwerbsunfähigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,14 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 8 — Invalidität**
->
-> ¹ Invalidität ist die voraussichtlich bleibende oder längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit.
->
-> ² Nicht erwerbstätige Minderjährige gelten als invalid, wenn die Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit voraussichtlich eine ganze oder teilweise Erwerbsunfähigkeit zur Folge haben wird.
->
-> ³ Volljährige, die vor der Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit nicht erwerbstätig waren und denen eine Erwerbstätigkeit nicht zugemutet werden kann, gelten als invalid, wenn eine Unmöglichkeit vorliegt, sich im bisherigen Aufgabenbereich zu betätigen. Artikel 7 Absatz 2 ist sinngemäss anwendbar.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

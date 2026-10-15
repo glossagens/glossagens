@@ -2,11 +2,16 @@
 title: "Art. 402 — Aufwandersatz und Schadenshaftung"
 weight: 402
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 402 OR — Auslagenersatz samt Zinsen, Befreiung von Verbindlichkeiten, Schadenshaftung mit Verschuldensvermutung; Putativauftrag; Girovertrag"
 tags: ["OR", "Auftragsrecht", "Aufwandersatz", "Schadenshaftung", "Verschuldensvermutung", "Befreiungsanspruch", "Putativauftrag", "Auslagenersatz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-402.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,11 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Der Auftraggeber ist schuldig, dem Beauftragten die Auslagen und Verwendungen, die dieser in richtiger Ausführung des Auftrages gemacht hat, samt Zinsen zu ersetzen und ihn von den eingegangenen Verbindlichkeiten zu befreien.
->
-> **2** Er haftet dem Beauftragten für den aus dem Auftrage erwachsenen Schaden, soweit er nicht zu beweisen vermag, dass der Schaden ohne sein Verschulden entstanden ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 

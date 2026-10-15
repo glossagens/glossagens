@@ -2,11 +2,16 @@
 title: "Art. 58 — Dispositions- und Offizialgrundsatz"
 weight: 58
 date: 2026-07-17
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 58 ZPO: Dispositions- und Offizialgrundsatz; Bindung des Gerichts an Parteianträge; Ausnahmen durch gesetzliche Offizialmaximen; Auswirkungen auf Kindesunterhalt und nachheblichen Unterhalt."
 tags: ["ZPO", "Zivilprozessordnung", "Dispositionsgrundsatz", "Offizialgrundsatz", "Prozessmaximen", "Parteianträge", "Bezifferung", "Unterhalt"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-058.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 58 — Dispositions- und Offizialgrundsatz**
->
-> **1** Das Gericht darf einer Partei nicht mehr und nichts anderes zusprechen, als sie verlangt, und nicht weniger, als die Gegenpartei anerkannt hat.
->
-> **2** Vorbehalten bleiben gesetzliche Bestimmungen, nach denen das Gericht nicht an die Parteianträge gebunden ist.
-
-*(Fedlex-Stand: 2026-07-01)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 331 StPO — Ansetzen der Hauptverhandlung"
 weight: 331
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Wissenschaftlicher Praxiskommentar zu Art. 331 StPO: Vorbereitung der Hauptverhandlung, Beweisbestimmung und Mitteilung der Gerichtsbesetzung (Abs. 1), Fristansetzung für Beweisanträge und Zivilklagebezifferung (Abs. 2), Nichtanfechtbarkeit abgelehnter Beweisanträge mit Wiederholungsrecht vor dem Gesamtgericht (Abs. 3), Ladung und Terminfestsetzung (Abs. 4) sowie Endgültigkeit von Verschiebungsentscheiden (Abs. 5) im Spannungsfeld zum Fairnessgebot und Art. 65 Abs. 2 StPO."
 tags: ["StPO", "Hauptverhandlung", "Beweisanträge", "Verfahrensleitung", "Verschiebungsgesuch", "Zivilklage", "Privatklägerschaft", "Bezifferung", "Nichtanfechtbarkeit", "Fristansetzung", "Ladung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-331.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,21 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 331 StPO — Ansetzen der Hauptverhandlung**
->
-> 1 Die Verfahrensleitung bestimmt, welche Beweise in der Hauptverhandlung erhoben werden. Sie teilt den Parteien mit, in welcher Zusammensetzung das Gericht tagen wird und welche Beweise erhoben werden sollen.
->
-> 2 Sie setzt den Parteien gleichzeitig Frist, um Beweisanträge zu stellen und zu begründen; dabei macht sie die Parteien auf die möglichen Kosten- und Entschädigungsfolgen verspäteter Beweisanträge aufmerksam. Sie setzt der Privatklägerschaft die gleiche Frist zur Bezifferung und Begründung ihrer Zivilklage.240
->
-> 3 Lehnt sie Beweisanträge ab, so teilt sie dies den Parteien mit kurzer Begründung mit. Die Ablehnung ist nicht anfechtbar, doch können abgelehnte Beweisanträge an der Hauptverhandlung erneut gestellt werden.
->
-> 4 Die Verfahrensleitung setzt Datum, Zeit und Ort der Hauptverhandlung fest und lädt die Parteien sowie die Zeuginnen und Zeugen, Auskunftspersonen und Sachverständigen vor, die einvernommen werden sollen.
->
-> 5 Sie entscheidet endgültig über Verschiebungsgesuche, die vor Beginn der Hauptverhandlung eingehen.
->
-> 240 Zweiter Satz eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 (AS 2023 468; BBl 2019 6697).
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 2 Satz 2 (Bezifferungsfrist für die Privatklägerschaft) in der Fassung des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024.*
 
 ---
 

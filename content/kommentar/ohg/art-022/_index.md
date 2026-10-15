@@ -2,11 +2,16 @@
 title: "Art. 22 OHG — Anspruch auf Genugtuung"
 weight: 22
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 OHG – Genugtuungsanspruch des Opfers und seiner Angehörigen, Schwere der Beeinträchtigung, sinngemässe Anwendung von Art. 47/49 OR, Nichtvererblichkeit und Kasuistik"
 tags: ["OHG", "Opferhilfe", "Genugtuung", "Körperverletzung", "Tötung", "Sexualdelikte", "Immaterieller Schaden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.5 vom 2025-01-01 (data/wortlaut/ohg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 OHG — Anspruch**
->
-> ¹ Das Opfer und seine Angehörigen haben Anspruch auf eine Genugtuung, wenn die Schwere der Beeinträchtigung es rechtfertigt; die Artikel 47 und 49 des Obligationenrechts sind sinngemäss anwendbar.
->
-> ² Der Anspruch auf Genugtuung ist nicht vererblich.
+{{< wortlaut >}}
 
 ---
 

@@ -2,27 +2,21 @@
 title: "Art. 37 — Erstinstanzliche Verfahrensfristen"
 weight: 37
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 37 AsylG — Erstinstanzliche Verfahrensfristen: Dublin-Verfahren, beschleunigtes Verfahren, erweitertes Verfahren, Prioritäten"
 tags: ["AsylG", "Verfahrensfristen", "Dublin", "beschleunigtes Verfahren", "erweitertes Verfahren", "SEM", "Fristen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-037.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 37 AsylG — Erstinstanzliche Verfahrensfristen**
->
-> 1 Entscheide im Dublin-Verfahren (Art. 26b) sind innerhalb von drei Arbeitstagen zu eröffnen, nachdem der angefragte Dublin-Staat dem Ersuchen um Überstellung nach den Artikeln 21 und 23 der Verordnung (EU) Nr. 604/2013 zugestimmt hat.
->
-> 2 Entscheide im beschleunigten Verfahren (Art. 26c) sind innerhalb von acht Arbeitstagen nach Abschluss der Vorbereitungsphase zu eröffnen.
->
-> 3 Liegen triftige Gründe vor und ist absehbar, dass der Entscheid im Zentrum des Bundes getroffen werden kann, so können die Fristen nach den Absätzen 1 und 2 um einige Tage überschritten werden.
->
-> 4 Entscheide im erweiterten Verfahren (Art. 26d) sind innerhalb von zwei Monaten nach Abschluss der Vorbereitungsphase zu treffen.
->
-> 5 In den übrigen Fällen sind Nichteintretensentscheide innerhalb von fünf Arbeitstagen und Entscheide innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen.
->
-> 6 Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66a oder 66abis des Strafgesetzbuchs (StGB) oder Artikel 49a oder 49abis des Militärstrafgesetzes vom 13. Juni 1927 (MStG) oder eine Ausweisung nach Artikel 68 AIG ausgesprochen wurde.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

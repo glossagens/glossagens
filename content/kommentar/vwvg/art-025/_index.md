@@ -2,11 +2,16 @@
 title: "Art. 25 — Feststellungsverfügung"
 weight: 25
 date: 2026-08-02
-lastmod: "2026-08-17"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 25 VwVG (SR 172.021): Feststellungsverfügung — Voraussetzungen, schutzwürdiges Feststellungsinteresse, Subsidiarität gegenüber Leistungs- und Gestaltungsentscheiden."
 tags: ["VwVG", "Feststellungsverfügung", "Feststellungsinteresse", "Subsidiarität", "Verwaltungsverfahren"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -23,15 +28,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 25 VwVG — Feststellungsverfügung**
->
-> **1** Die in der Sache zuständige Behörde kann über den Bestand, den Nichtbestand oder den Umfang öffentlichrechtlicher Rechte oder Pflichten von Amtes wegen oder auf Begehren eine Feststellungsverfügung treffen.
->
-> **2** Dem Begehren um eine Feststellungsverfügung ist zu entsprechen, wenn der Gesuchsteller ein schutzwürdiges Interesse nachweist.
->
-> **3** Keiner Partei dürfen daraus Nachteile erwachsen, dass sie im berechtigten Vertrauen auf eine Feststellungsverfügung gehandelt hat.
-
-*(Fedlex-Stand: 2022-07-01)*
+{{< wortlaut >}}
 
 ## I. Bedeutung und Zweck
 

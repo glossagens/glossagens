@@ -2,11 +2,16 @@
 title: "Art. 329 — Prüfung der Anklage; Sistierung und Einstellung des Verfahrens"
 weight: 329
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 329 StPO – Prüfung der Anklage, Sistierung, Rückweisung zur Ergänzung oder Berichtigung und gerichtliche Verfahrenseinstellung."
 tags: ["StPO", "Hauptverfahren", "Anklageprüfung", "Sistierung", "Rückweisung", "Verfahrenseinstellung", "Prozessvoraussetzungen", "Verfahrenshindernisse"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-329.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,20 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 329 Prüfung der Anklage; Sistierung und Einstellung des Verfahrens**
->
-> **1** Die Verfahrensleitung prüft, ob:
-> a. die Anklageschrift und die Akten ordnungsgemäss erstellt sind;
-> b. die Prozessvoraussetzungen erfüllt sind;
-> c. Verfahrenshindernisse bestehen.
->
-> **2** Ergibt sich aufgrund dieser Prüfung oder später im Verfahren, dass ein Urteil zurzeit nicht ergehen kann, so sistiert das Gericht das Verfahren. Falls erforderlich, weist es die Anklage zur Ergänzung oder Berichtigung an die Staatsanwaltschaft zurück.
->
-> **3** Das Gericht entscheidet, ob ein sistierter Fall bei ihm hängig bleibt.
->
-> **4** Kann ein Urteil definitiv nicht ergehen, so stellt das Gericht das Verfahren ein, nachdem es den Parteien und weiteren durch die Einstellung beschwerten Dritten das rechtliche Gehör gewährt hat. Artikel 320 ist sinngemäss anwendbar.
->
-> **5** Soll das Verfahren nur in einzelnen Anklagepunkten eingestellt werden, so kann die Einstellung zusammen mit dem Urteil ergehen.
+{{< wortlaut >}}
 
 ---
 

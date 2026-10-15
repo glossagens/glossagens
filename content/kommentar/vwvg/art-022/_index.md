@@ -2,11 +2,16 @@
 title: "Art. 22 VwVG — Fristerstreckung"
 weight: 22
 date: 2026-08-02
-lastmod: 2026-10-03
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 VwVG (SR 172.021): Gesetzliche vs. behördliche Fristen, Erstreckungsvoraussetzungen, zureichende Gründe, Postaufgabe und Praxisfragen."
 tags: ["VwVG", "Fristerstreckung", "Fristen", "Verwaltungsverfahren", "Kostenvorschuss"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -23,14 +28,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 — Fristerstreckung**
->
-> **1** Eine gesetzliche Frist kann nicht erstreckt werden.
->
-> **2** Eine behördlich angesetzte Frist kann aus zureichenden Gründen erstreckt werden, wenn die Partei vor Ablauf der Frist darum nachsucht.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*(Fedlex-Stand: 1. Juli 2022)*
 
 ---
 

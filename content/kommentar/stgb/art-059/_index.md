@@ -2,11 +2,16 @@
 title: "Art. 59 — Stationäre Behandlung von psychischen Störungen"
 weight: 59
 date: 2026-09-05
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
 tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-059.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,17 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 59 StGB — Stationäre Behandlung von psychischen Störungen**
->
-> 1 Ist der Täter psychisch schwer gestört, so kann das Gericht eine stationäre Behandlung anordnen, wenn:
-> a. der Täter ein Verbrechen oder Vergehen begangen hat, das mit seiner psychischen Störung in Zusammenhang steht; und
-> b. zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit seiner psychischen Störung in Zusammenhang stehender Taten begegnen.
->
-> 2 Die stationäre Behandlung erfolgt in einer geeigneten psychiatrischen Einrichtung oder einer Massnahmevollzugseinrichtung.
->
-> 3 Solange die Gefahr besteht, dass der Täter flieht oder weitere Straftaten begeht, wird er in einer geschlossenen Einrichtung behandelt. Er kann auch in einer Strafanstalt nach Artikel 76 Absatz 2 behandelt werden, sofern die nötige therapeutische Behandlung durch Fachpersonal gewährleistet ist.
->
-> 4 Der mit der stationären Behandlung verbundene Freiheitsentzug beträgt in der Regel höchstens fünf Jahre. Sind die Voraussetzungen für eine bedingte Entlassung nach fünf Jahren noch nicht gegeben und ist zu erwarten, durch die Fortführung der Massnahme lasse sich der Gefahr weiterer mit der psychischen Störung des Täters in Zusammenhang stehender Verbrechen und Vergehen begegnen, so kann das Gericht auf Antrag der Vollzugsbehörde die Verlängerung der Massnahme um jeweils höchstens fünf Jahre anordnen.
+{{< wortlaut >}}
 
 ---
 

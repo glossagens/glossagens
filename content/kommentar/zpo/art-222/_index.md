@@ -2,11 +2,16 @@
 title: "Art. 222 ZPO — Klageantwort"
 weight: 222
 date: 2026-07-18
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 222 ZPO: Fristansetzung und Fristerstreckung zur Klageantwort, substanziierte Bestreitungslast im Wechselspiel zur Klageschrift (BGE 144 III 519), Grenzen des Bestreitens mit Nichtwissen (BGer 4A_489/2024), Beschränkung auf Einzelfragen (Art. 125 ZPO, BGE 146 III 55), Widerklageerhebung (BGE 146 III 413) sowie Säumnisfolgen und Nachfrist (BGE 138 III 483) — mit umfassender Kasuistik zu Werklohn-, Bau- und Honorarstreitigkeiten."
 tags: ["ZPO", "Ordentliches Verfahren", "Klageantwort", "Bestreitungslast", "Substanziierung", "Bestreiten mit Nichtwissen", "Widerklage", "Beschränkung", "Säumnis", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-222.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,18 +36,10 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 222 ZPO (SR 272) — Klageantwort**
->
-> **1** Das Gericht stellt die Klage der beklagten Partei zu und setzt ihr gleichzeitig eine Frist zur schriftlichen Klageantwort.
->
-> **2** Für die Klageantwort gilt Artikel 221 sinngemäss. Die beklagte Partei hat darzulegen, welche Tatsachenbehauptungen der klagenden Partei im Einzelnen anerkannt oder bestritten werden.
->
-> **3** Das Gericht kann die beklagte Partei auffordern, die Klageantwort auf einzelne Fragen oder einzelne Rechtsbegehren zu beschränken (Art. 125).
->
-> **4** Es stellt die Klageantwort der klagenden Partei zu.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 272](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de), Stand der Konsolidierung 1. Juli 2026. Der Wortlaut von Art. 222 ZPO blieb durch die am 1. Januar 2025 in Kraft getretene ZPO-Revision (AS 2023 491; BBl 2020 2697) unverändert.*
+*Der Wortlaut von Art. 222 ZPO blieb durch die am 1. Januar 2025 in Kraft getretene ZPO-Revision (AS 2023 491; BBl 2020 2697) unverändert.*
+
 
 ### Die vier Absätze auf einen Blick
 

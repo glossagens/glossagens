@@ -2,11 +2,16 @@
 title: "Art. 119 ZPO — Gesuch und Verfahren (unentgeltliche Rechtspflege)"
 weight: 119
 date: 2026-07-18
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 119 ZPO: Gesuch um unentgeltliche Rechtspflege — Verfahren, Mitwirkungsobliegenheit, Notbedarfsberechnung, Kostenlosigkeit und Kasuistik."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Mitwirkungspflicht", "Kostenlosigkeit", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-119.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,20 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 119 ZPO (SR 272)** — Gesuch und Verfahren
->
-> **1** Das Gesuch um unentgeltliche Rechtspflege kann vor oder nach Eintritt der Rechtshängigkeit gestellt werden.
->
-> **2** Die gesuchstellende Person hat ihre Einkommens- und Vermögensverhältnisse darzulegen und sich zur Sache sowie über ihre Beweismittel zu äussern. Sie kann die Person der gewünschten Rechtsbeiständin oder des gewünschten Rechtsbeistands im Gesuch bezeichnen.
->
-> **3** Das Gericht entscheidet über das Gesuch im summarischen Verfahren. Die Gegenpartei kann angehört werden. Sie ist immer anzuhören, wenn die unentgeltliche Rechtspflege die Leistung der Sicherheit für die Parteientschädigung umfassen soll.
->
-> **4** Die unentgeltliche Rechtspflege kann ausnahmsweise rückwirkend bewilligt werden.
->
-> **5** Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.
->
-> **6** Ausser bei Bös- oder Mutwilligkeit werden im Verfahren um die unentgeltliche Rechtspflege keine Gerichtskosten erhoben.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

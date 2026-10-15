@@ -2,11 +2,16 @@
 title: "Art. 82 — Einschränkungen der Begründungspflicht"
 weight: 82
 date: 2026-07-12
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 82 StPO – Einschränkungen der Begründungspflicht"
 tags: ["StPO", "Begründungspflicht", "Urteilsbegründung", "Verweisung", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-082.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,23 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 82 StPO — Einschränkungen der Begründungspflicht**
->
-> **1** Das erstinstanzliche Gericht verzichtet auf eine schriftliche Begründung, wenn es:
->
-> **a.** das Urteil mündlich begründet; und
->
-> **b.** nicht eine Freiheitsstrafe von mehr als zwei Jahren, eine Verwahrung nach Artikel 64 StGB, eine Behandlung nach Artikel 59 StGB oder, bei gleichzeitig zu widerrufenden bedingten Sanktionen, einen Freiheitsentzug von mehr als zwei Jahren ausspricht.
->
-> **2** Das Gericht stellt den Parteien nachträglich ein begründetes Urteil zu, wenn:
->
-> **a.** eine Partei dies innert 10 Tagen nach Zustellung des Dispositivs verlangt;
->
-> **b.** eine Partei ein Rechtsmittel ergreift.
->
-> **3** Verlangt nur die Privatklägerschaft ein begründetes Urteil oder ergreift sie allein ein Rechtsmittel, so begründet das Gericht das Urteil nur in dem Masse, als dieses sich auf das strafbare Verhalten zum Nachteil der Privatklägerschaft und auf deren Zivilansprüche bezieht.
->
-> **4** Im Rechtsmittelverfahren kann das Gericht für die tatsächliche und die rechtliche Würdigung des angeklagten Sachverhalts auf die Begründung der Vorinstanz verweisen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

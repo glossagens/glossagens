@@ -2,11 +2,16 @@
 title: "Art. 81 — Inhalt der Endentscheide"
 weight: 81
 date: 2026-07-12
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 81 StPO – Inhalt der Endentscheide"
 tags: ["StPO", "Endentscheid", "Dispositiv", "Begründung", "Rechtsmittelbelehrung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-081.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -15,45 +20,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Urteile und andere verfahrenserledigende Entscheide enthalten:
->
-> **a.** eine Einleitung;
->
-> **b.** eine Begründung;
->
-> **c.** ein Dispositiv;
->
-> **d.** sofern sie anfechtbar sind: eine Rechtsmittelbelehrung.
->
-> **2** Die Einleitung enthält:
->
-> **a.** die Bezeichnung der Strafbehörde und ihrer am Entscheid mitwirkenden Mitglieder;
->
-> **b.** das Datum des Entscheids;
->
-> **c.** eine genügende Bezeichnung der Parteien und ihrer Rechtsbeistände;
->
-> **d.** bei Urteilen die Schlussanträge der Parteien.
->
-> **3** Die Begründung enthält:
->
-> **a.** bei Urteilen: die tatsächliche und die rechtliche Würdigung des der beschuldigten Person zur Last gelegten Verhaltens, die Begründung der Sanktionen, der Nebenfolgen sowie der Kosten- und Entschädigungsfolgen;
->
-> **b.** bei anderen verfahrenserledigenden Entscheiden: die Gründe für die vorgesehene Erledigung des Verfahrens.
->
-> **4** Das Dispositiv enthält:
->
-> **a.** die Bezeichnung der angewendeten Gesetzesbestimmungen;
->
-> **b.** bei Urteilen: den Entscheid über Schuld und Sanktion, Kosten- und Entschädigungsfolgen und allfällige Zivilklagen;
->
-> **c.** bei anderen verfahrenserledigenden Entscheiden: die Anordnung über die Erledigung des Verfahrens;
->
-> **d.** die nachträglichen richterlichen Entscheidungen;
->
-> **e.** den Entscheid über die Nebenfolgen;
->
-> **f.** die Bezeichnung der Personen und Behörden, die eine Kopie des Entscheides oder des Dispositivs erhalten.
+{{< wortlaut >}}
 
 ## Kommentierung
 

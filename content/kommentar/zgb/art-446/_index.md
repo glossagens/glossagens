@@ -2,11 +2,16 @@
 title: "Art. 446 ZGB — Verfahrensgrundsätze"
 weight: 446
 date: 2026-05-23
-lastmod: 2026-08-19
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 446 ZGB — Untersuchungsgrundsatz, Freibeweis, Gutachtenkompetenz, Offizialmaxime und Rechtsanwendung von Amtes wegen im Erwachsenenschutz"
 tags: ["ZGB", "Erwachsenenschutz", "Verfahrensgrundsätze", "Untersuchungsgrundsatz", "Offizialmaxime", "Gutachten", "KESB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-446.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 446 ZGB — Verfahrensgrundsätze**
->
-> 1 Die Erwachsenenschutzbehörde erforscht den Sachverhalt von Amtes wegen.
->
-> 2 Sie zieht die erforderlichen Erkundigungen ein und erhebt die notwendigen Beweise. Sie kann eine geeignete Person oder Stelle mit Abklärungen beauftragen. Nötigenfalls ordnet sie das Gutachten einer sachverständigen Person an.
->
-> 3 Sie ist nicht an die Anträge der am Verfahren beteiligten Personen gebunden.
->
-> 4 Sie wendet das Recht von Amtes wegen an.
+{{< wortlaut >}}
 
 ## Kommentierung
 

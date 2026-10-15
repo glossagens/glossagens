@@ -2,17 +2,21 @@
 title: "§ 202 — Klagefälle"
 weight: 202
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 202 VRG LU – Klagefälle: Verschärfte Kostenpflicht bei unterlassener Klageanzeige"
 tags: ["VRG", "Kosten", "Klagefälle", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-202.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 In Klagefällen kann das Kantonsgericht ohne Rücksicht auf den Prozessausgang die Verfahrenskosten ganz oder teilweise dem Kläger auferlegen, wenn er die Klage eingereicht hat, ohne vorher die Klageanträge dem Beklagten vorschriftsgemäss anzuzeigen (§ 164), oder wenn ihm das Urteil nicht erheblich mehr zuspricht, als ihm der Beklagte vor Prozessbeginn angeboten hat.
->
-> 2 Im übrigen werden die Verfahrenskosten wie im Rechtsmittelverfahren verlegt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

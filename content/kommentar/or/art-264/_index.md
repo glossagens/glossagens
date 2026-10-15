@@ -2,11 +2,16 @@
 title: "Art. 264 OR — Vorzeitige Rückgabe der Sache"
 weight: 264
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 264 OR: Vorzeitige Rückgabe der Mietsache, Anforderungen an das Vorschlagen eines tauglichen Ersatzmieters (Zumutbarkeit, Solvenznachweis, gleiche Bedingungen), Prüffristen des Vermieters, Rechtsöffnung nach Abs. 2 sowie Schadenminderung und Vorteilsanrechnung nach Abs. 3."
 tags: ["OR", "Mietrecht", "Vorzeitige Rückgabe", "Ersatzmieter", "Nachmieter", "Schadenminderung", "Zahlungsfähigkeit", "Rechtsöffnung", "Mietzinspflicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-264.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,31 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 264 OR — Vorzeitige Rückgabe der Sache**
->
-> ---
->
-> **Abs. 1 — Befreiung durch tauglichen Ersatzmieter**
->
-> Gibt der Mieter die Sache zurück, ohne Kündigungsfrist oder -termin einzuhalten, so ist er von seinen Verpflichtungen gegenüber dem Vermieter nur befreit, wenn er einen für den Vermieter zumutbaren neuen Mieter vorschlägt; dieser muss zahlungsfähig und bereit sein, den Mietvertrag zu den gleichen Bedingungen zu übernehmen.
->
-> ---
->
-> **Abs. 2 — Fortdauernde Mietzinspflicht bei Unterbleiben**
->
-> Andernfalls muss er den Mietzins bis zu dem Zeitpunkt leisten, in dem das Mietverhältnis gemäss Vertrag oder Gesetz endet oder beendet werden kann.
->
-> ---
->
-> **Abs. 3 — Anrechnungspflicht des Vermieters**
->
-> Der Vermieter muss sich anrechnen lassen, was er:
->
-> **a.** an Auslagen erspart und
->
-> **b.** durch anderweitige Verwendung der Sache gewinnt oder absichtlich zu gewinnen unterlassen hat.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Eingefügt durch Ziff. I des BG vom 15. Dezember 1989, in Kraft seit 1. Juli 1990 (AS 1990 802; BBl 1985 I 1389).*
 
 ### Die Regelungsstruktur auf einen Blick
 

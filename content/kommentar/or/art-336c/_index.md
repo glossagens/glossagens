@@ -2,11 +2,16 @@
 title: "Art. 336c OR — Kündigung zur Unzeit durch den Arbeitgeber"
 weight: 336
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 336c OR – Zeitlicher Kündigungsschutz, Sperrfristen bei Krankheit, Unfall, Schwangerschaft, Nichtigkeit und Fristverlängerung"
 tags: ["OR", "Arbeitsrecht", "Kündigungsschutz", "Sperrfrist", "Kündigung zur Unzeit", "Krankheit", "Schwangerschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-336c.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 336c OR — Kündigung zur Unzeit / Durch den Arbeitgeber**
->
-> ¹ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kündigen:
-> a. während die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet, sowie, sofern die Dienstleistung mehr als elf Tage dauert, während vier Wochen vorher und nachher;
-> b. während der Arbeitnehmer ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert ist, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen;
-> c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
-> c^bis. vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329f Absatz 2;
-> c^ter. zwischen dem Beginn des Urlaubs nach Artikel 329f Absatz 3 und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Buchstabe c;
-> c^quater. solange der Anspruch auf Betreuungsurlaub nach Artikel 329i besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
-> c^quinquies. während des Urlaubs nach Artikel 329g^bis;
-> d. während der Arbeitnehmer mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
->
-> ² Die Kündigung, die während einer der in Absatz 1 festgesetzten Sperrfristen erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
->
-> ³ Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie das Ende eines Monats oder einer Arbeitswoche, und fällt dieser nicht mit dem Ende der fortgesetzten Kündigungsfrist zusammen, so verlängert sich diese bis zum nächstfolgenden Endtermin.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

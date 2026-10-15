@@ -2,11 +2,16 @@
 title: "Art. 231 — Sicherheitshaft nach erstinstanzlichem Urteil"
 weight: 231
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 231 StPO – Sicherheitshaft nach erstinstanzlichem Urteil"
 tags: ["StPO", "Sicherheitshaft", "Zwangsmassnahmen", "Haftrecht", "Berufungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-231.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 231 StPO — Sicherheitshaft nach dem erstinstanzlichen Urteil**
->
-> 1 Das erstinstanzliche Gericht entscheidet mit dem Urteil, ob eine verurteilte Person in Sicherheitshaft zu setzen oder zu behalten ist:
->
-> **a.** zur Sicherung des Straf- oder Massnahmenvollzuges;
->
-> **b.** im Hinblick auf das Berufungsverfahren.
->
-> 2 Wird die inhaftierte beschuldigte Person freigesprochen und verfügt das erstinstanzliche Gericht deren Freilassung, so kann die Staatsanwaltschaft:
->
-> **a.** beim erstinstanzlichen Gericht beantragen, die Freilassung mit Massnahmen zu verbinden unter Hinweis auf die Strafdrohung von Artikel 292 StGB, um die Anwesenheit der freigesprochenen Person im Berufungsverfahren sicherzustellen. Die freigesprochene Person und die Staatsanwaltschaft können Entscheide über die Anordnung von Massnahmen bei der Beschwerdeinstanz anfechten;
->
-> **b.** beim erstinstanzlichen Gericht zu Handen der Verfahrensleitung des Berufungsgerichts die Fortsetzung der Sicherheitshaft beantragen, wenn die ernsthafte und unmittelbare Gefahr besteht, dass sie durch Verbrechen oder schwere Vergehen die Sicherheit anderer unmittelbar erheblich gefährdet. In diesem Fall bleibt die betreffende Person bis zum Entscheid der Verfahrensleitung des Berufungsgerichts in Haft. Diese entscheidet über den Antrag der Staatsanwaltschaft innert 5 Tagen seit Antragstellung.
->
-> 3 Wird eine Berufung zurückgezogen, so entscheidet das erstinstanzliche Gericht über die Anrechnung der Haftdauer nach dem Urteil.
+{{< wortlaut >}}
 
 ## Kommentierung
 

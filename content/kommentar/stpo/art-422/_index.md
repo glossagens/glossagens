@@ -2,11 +2,16 @@
 title: "Art. 422 StPO — Begriff"
 weight: 422
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 422 StPO: Begriff der Verfahrenskosten, strikte Zweiteilung in Gebühren und Auslagen (Abs. 1), Auslagenkatalog (Abs. 2 lit. a–e), Kausalabgabencharakter, Ausschluss von Haft- und allgemeinen Polizeikosten (BGE 141 IV 465), Verbot der Gebührenbemessung nach Sanktionshöhe (BGE 146 IV 196), Belegpflicht der Staatsanwaltschaft, Gutachterkosten und Akteneinsichtsspesen."
 tags: ["StPO", "Verfahrenskosten", "Gebühren", "Auslagen", "Haftkosten", "Polizeikosten", "Gutachten", "Übersetzungen", "Akteneinsicht", "Kausalabgaben"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-422.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 89 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,18 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 422 StPO — Begriff**
->
-> 1 Die Verfahrenskosten setzen sich zusammen aus den Gebühren zur Deckung des Aufwands und den Auslagen im konkreten Straffall.
->
-> 2 Als Auslagen gelten:
-> a. die Kosten für die amtliche Verteidigung und die unentgeltliche Verbeiständung;
-> b. die Kosten für Übersetzungen;
-> c. die Kosten für Gutachten;
-> d. die Kosten für die Mitwirkung anderer Behörden;
-> e. die Post-, Telefon- und ähnliche Spesen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

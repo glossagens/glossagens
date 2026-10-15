@@ -2,29 +2,21 @@
 title: "Art. 31a — Entscheide des SEM"
 weight: 31
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 31a AsylG — Nichteintretensgründe des SEM: sichere Drittstaaten, Dublin-Zuständigkeit, mangelnde Begründetheit, Ablehnung"
 tags: ["AsylG", "Nichteintreten", "Drittstaat", "Dublin", "SEM", "Ablehnung", "Flüchtlingseigenschaft", "Asylausschluss"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-031a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 31a AsylG — Entscheide des SEM**
->
-> 1 Das SEM tritt in der Regel auf Asylgesuche nicht ein, wenn Asylsuchende:
->   a. in einen sicheren Drittstaat nach Artikel 6a Absatz 2 Buchstabe b zurückkehren können, in welchem sie sich vorher aufgehalten haben;
->   b. in einen Drittstaat ausreisen können, welcher für die Durchführung des Asyl- und Wegweisungsverfahrens staatsvertraglich zuständig ist;
->   c. in einen Drittstaat zurückkehren können, in welchem sie sich vorher aufgehalten haben;
->   d. in einen Drittstaat weiterreisen können, für welchen sie ein Visum besitzen und in welchem sie um Schutz nachsuchen können;
->   e. in einen Drittstaat weiterreisen können, in dem Personen, zu denen sie enge Beziehungen haben, oder nahe Angehörige leben;
->   f. nach Artikel 31b in ihren Heimat- oder Herkunftsstaat weggewiesen werden können.
->
-> 2 Absatz 1 Buchstaben c–e findet keine Anwendung, wenn Hinweise bestehen, dass im Einzelfall im Drittstaat kein effektiver Schutz vor Rückschiebung nach Artikel 5 Absatz 1 besteht.
->
-> 3 Das SEM tritt auf ein Gesuch nicht ein, welches die Voraussetzungen von Artikel 18 nicht erfüllt. Dies gilt namentlich, wenn das Asylgesuch ausschliesslich aus wirtschaftlichen oder medizinischen Gründen eingereicht wird.
->
-> 4 In den übrigen Fällen lehnt das SEM das Asylgesuch ab, wenn die Flüchtlingseigenschaft weder bewiesen noch glaubhaft gemacht worden ist oder ein Asylausschlussgrund nach den Artikeln 53 und 54 vorliegt.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

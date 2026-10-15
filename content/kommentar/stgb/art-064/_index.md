@@ -2,11 +2,16 @@
 title: "Art. 64 StGB — Verwahrung"
 weight: 64
 date: 2026-09-21
-lastmod: "2026-09-21"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 64 StGB: Ordentliche und lebenslängliche Verwahrung, Anlasstaten, Schwere der Beeinträchtigung, Therapierbarkeit, Vorrang von Art. 59 StGB, Grenzkasuistik und Praxishinweise."
 tags: ["StGB", "Verwahrung", "Lebenslängliche Verwahrung", "Massnahmen", "Therapierbarkeit", "Psychische Störung", "Gutachten", "Strafvollzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-064.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "claude-3-7-sonnet"
@@ -16,22 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 64 StGB — Verwahrung**
->
-> <sup>1</sup> Das Gericht ordnet die Verwahrung an, wenn der Täter einen Mord, eine vorsätzliche Tötung, eine schwere Körperverletzung, eine Vergewaltigung, einen Raub, eine Geiselnahme, eine Brandstiftung, eine Gefährdung des Lebens oder eine andere mit einer Höchststrafe von fünf oder mehr Jahren bedrohte Tat begangen hat, durch die er die physische, psychische oder sexuelle Integrität einer andern Person schwer beeinträchtigt hat oder beeinträchtigen wollte, und wenn:
-> a. auf Grund der Persönlichkeitsmerkmale des Täters, der Tatumstände und seiner gesamten Lebensumstände ernsthaft zu erwarten ist, dass er weitere Taten dieser Art begeht; oder
-> b. auf Grund einer anhaltenden oder langdauernden psychischen Störung von erheblicher Schwere, mit der die Tat in Zusammenhang stand, ernsthaft zu erwarten ist, dass der Täter weitere Taten dieser Art begeht und die Anordnung einer Massnahme nach Artikel 59 keinen Erfolg verspricht.
->
-> <sup>1bis</sup> Das Gericht ordnet die lebenslängliche Verwahrung an, wenn der Täter einen Mord, eine vorsätzliche Tötung, eine schwere Körperverletzung, einen Raub, eine Vergewaltigung, eine sexuelle Nötigung, eine Freiheitsberaubung oder Entführung, eine Geiselnahme, ein Verschwindenlassen, Menschenhandel, Völkermord, ein Verbrechen gegen die Menschlichkeit oder ein Kriegsverbrechen (Zwölfter Titelter) begangen hat und wenn die folgenden Voraussetzungen erfüllt sind:
-> a. Der Täter hat mit dem Verbrechen die physische, psychische oder sexuelle Integrität einer anderen Person besonders schwer beeinträchtigt oder beeinträchtigen wollen.
-> b. Beim Täter besteht eine sehr hohe Wahrscheinlichkeit, dass er erneut eines dieser Verbrechen begeht.
-> c. Der Täter wird als dauerhaft nicht therapierbar eingestuft, weil die Behandlung langfristig keinen Erfolg verspricht.
->
-> <sup>2</sup> Der Vollzug der Freiheitsstrafe geht der Verwahrung voraus. Die Bestimmungen über die bedingte Entlassung aus der Freiheitsstrafe (Art. 86–88) sind nicht anwendbar.
->
-> <sup>3</sup> Ist schon während des Vollzugs der Freiheitsstrafe zu erwarten, dass der Täter sich in Freiheit bewährt, so verfügt das Gericht die bedingte Entlassung aus der Freiheitsstrafe frühestens auf den Zeitpunkt hin, an welchem der Täter zwei Drittel der Freiheitsstrafe oder 15 Jahre der lebenslänglichen Freiheitsstrafe verbüsst hat. Zuständig ist das Gericht, das die Verwahrung angeordnet hat. Im Übrigen ist Artikel 64a anwendbar.
->
-> <sup>4</sup> Die Verwahrung wird in einer Massnahmevollzugseinrichtung oder in einer Strafanstalt nach Artikel 76 Absatz 2 vollzogen. Die öffentliche Sicherheit ist zu gewährleisten. Der Täter wird psychiatrisch betreut, wenn dies notwendig ist.
+{{< wortlaut >}}
 
 *(Abs. 1, 2 und 3 in der Fassung vom 24. März 2006, in Kraft seit 1. Jan. 2007 [AS 2006 3539; BBl 2005 4689]; Abs. 1bis eingefügt am 21. Dez. 2007, in Kraft seit 1. Aug. 2008 [AS 2008 2961; BBl 2006 889]; Abs. 1bis Einleitungssatz geändert am 18. Dez. 2015, in Kraft seit 1. Jan. 2017 [AS 2016 4687; BBl 2014 453]).*
 

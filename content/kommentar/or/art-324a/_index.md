@@ -2,11 +2,16 @@
 title: "Art. 324a OR — Lohn bei Verhinderung an der Arbeitsleistung"
 weight: 324
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 324a OR – Lohnfortzahlung bei Krankheit, Unfall, Schwangerschaft, Skalenpraxis und Krankentaggeldversicherung"
 tags: ["OR", "Arbeitsrecht", "Lohnfortzahlung", "Arbeitsunfähigkeit", "Krankheit", "Krankentaggeld"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-324a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 324a OR — Lohn bei Verhinderung an der Arbeitsleistung / Grundsatz**
->
-> ¹ Wird der Arbeitnehmer aus Gründen, die in seiner Person liegen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne sein Verschulden an der Arbeitsleistung verhindert, so hat ihm der Arbeitgeber für eine beschränkte Zeit den darauf entfallenden Lohn zu entrichten, samt einer angemessenen Vergütung für ausfallenden Naturallohn, sofern das Arbeitsverhältnis mehr als drei Monate gedauert hat oder für mehr als drei Monate eingegangen ist.
->
-> ² Sind durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag nicht längere Zeitabschnitte bestimmt, so hat der Arbeitgeber im ersten Dienstjahr den Lohn für drei Wochen und nachher für eine angemessene längere Zeit zu entrichten, je nach der Dauer des Arbeitsverhältnisses und den besonderen Umständen.
->
-> ³ Bei Schwangerschaft der Arbeitnehmerin hat der Arbeitgeber den Lohn im gleichen Umfang zu entrichten.
->
-> ⁴ Durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den vorstehenden Bestimmungen abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer mindestens gleichwertig ist.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

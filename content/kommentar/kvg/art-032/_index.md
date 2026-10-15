@@ -2,12 +2,17 @@
 title: "Art. 32 — Voraussetzungen (WIR/WZW-Kriterien)"
 weight: 32
 date: 2026-07-31
-lastmod: "2026-08-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 32 KVG: WIR-/WZW-Kriterien (Wirksamkeit, Zweckmässigkeit, Wirtschaftlichkeit) als Voraussetzung für Leistungsansprüche der obligatorischen Krankenpflegeversicherung, wissenschaftlicher Wirksamkeitsnachweis, periodische Überprüfung, evidenzbasiertes Evaluationsverfahren, Verhältnis zur OPAS."
 tags: ["KVG", "WZW", "WIR", "Wirksamkeit", "Zweckmässigkeit", "Wirtschaftlichkeit", "Krankenversicherung", "OPAS", "Spezialitätenliste"]
 agent_verified: true
 revisions:
 
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-032.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 85 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -19,17 +24,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 32 Voraussetzungen**
->
-> **1** Die Leistungen nach den Artikeln 25–31 müssen wirksam, zweckmässig und wirtschaftlich sein. Die Wirksamkeit muss nach wissenschaftlichen Methoden nachgewiesen sein.
->
-> **2** Die Wirksamkeit, die Zweckmässigkeit und die Wirtschaftlichkeit der Leistungen werden periodisch überprüft.
->
-> **3** Leistungen, bei denen Anhaltspunkte bestehen, dass sie nicht oder nicht mehr wirksam, zweckmässig oder wirtschaftlich sind, werden anhand eines evidenzbasierten Verfahrens evaluiert. Das Evaluationsverfahren beruht auf transparenten Kriterien und den neusten wissenschaftlichen Erkenntnissen und ist verhältnismässig. Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 (AS 2025 769; BBl 2021 2819).
->
-> **4** Leistungen, die gemäss dem evidenzbasierten Verfahren die Kriterien der Wirksamkeit, der Zweckmässigkeit und der Wirtschaftlichkeit nicht mehr erfüllen, werden von der Leistungspflicht ausgeschlossen oder mit Auflagen versehen.
-
-*Quelle: [Fedlex (SR 832.10, Art. 32)](https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/de#art_32), Konsolidierung Stand 2026-07-01.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 17 SchKG — Beschwerde an die Aufsichtsbehörde"
 weight: 17
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 17 SchKG: Anfechtungsobjekt, Abgrenzung zur Zivilklage, Kognition bei Gesetzesverletzung und Unangemessenheit, zehntägige Verwirkungsfrist, Rechtsverweigerung und Rechtsverzögerung, Wiedererwägung durch das Amt sowie kantonale Aufsichtspraxis."
 tags: ["SchKG", "Aufsichtsbeschwerde", "Verfügung", "Rechtsverweigerung", "Rechtsverzögerung", "Wiedererwägung", "Zwangsvollstreckung", "Betreibungsferien"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -16,17 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 17 SchKG — Beschwerde an die Aufsichtsbehörde**
->
-> 1 Mit Ausnahme der Fälle, in denen dieses Gesetz den Weg der gerichtlichen Klage vorschreibt, kann gegen jede Verfügung eines Betreibungs- oder eines Konkursamtes bei der Aufsichtsbehörde wegen Gesetzesverletzung oder Unangemessenheit Beschwerde geführt werden.
->
-> 2 Die Beschwerde muss binnen zehn Tagen seit dem Tage, an welchem der Beschwerdeführer von der Verfügung Kenntnis erhalten hat, angebracht werden.
->
-> 3 Wegen Rechtsverweigerung oder Rechtsverzögerung kann jederzeit Beschwerde geführt werden.
->
-> 4 Das Amt kann bis zu seiner Vernehmlassung die angefochtene Verfügung in Wiedererwägung ziehen. Trifft es eine neue Verfügung, so eröffnet es sie unverzüglich den Parteien und setzt die Aufsichtsbehörde in Kenntnis.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 281.1](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_17), Stand der Konsolidierung 1. Januar 2026. Abs. 1 in der Fassung und Abs. 4 eingefügt gemäss Ziff. I des BG vom 16. Dezember 1994, in Kraft seit 1. Januar 1997 (AS 1995 1227; BBl 1991 III 1).*
 
 ---
 

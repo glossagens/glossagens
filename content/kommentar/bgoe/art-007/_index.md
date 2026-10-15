@@ -2,11 +2,16 @@
 title: "Art. 7 BGÖ — Ausnahmen"
 weight: 7
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 7 BGÖ: Die gesetzlichen Ausnahme- und Geheimhaltungstatbestände des Öffentlichkeitsgesetzes (freie Meinungsbildung, behördliche Massnahmen, innere und äussere Sicherheit, Aussenpolitik, Geschäfts- und Fabrikationsgeheimnisse, vertrauliche Drittinformationen und Schutz der Privatsphäre) — mit detaillierter Kasuistik, Schwellenwerten für das Schadensrisiko und taktischen Praxishinweisen."
 tags: ["BGÖ", "Ausnahmen", "Geheimhaltung", "Geschäftsgeheimnis", "Innere Sicherheit", "Aussenpolitik", "Meinungsbildung", "Privatsphäre", "Datenschutz", "Beweislast"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 152.3 vom 2023-11-01 (data/wortlaut/bgoe/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
@@ -16,29 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 7 BGÖ — Ausnahmen**
->
-> 1 Der Zugang zu amtlichen Dokumenten wird eingeschränkt, aufgeschoben oder verweigert, wenn durch seine Gewährung:
->
-> a. die freie Meinungs- und Willensbildung einer diesem Gesetz unterstellten Behörde, eines anderen legislativen oder administrativen Organes oder einer gerichtlichen Instanz wesentlich beeinträchtigt werden kann;
->
-> b. die zielkonforme Durchführung konkreter behördlicher Massnahmen beeinträchtigt würde;
->
-> c. die innere oder äussere Sicherheit der Schweiz gefährdet werden kann;
->
-> d. die aussenpolitischen Interessen oder die internationalen Beziehungen der Schweiz beeinträchtigt werden können;
->
-> e. die Beziehungen zwischen dem Bund und den Kantonen oder zwischen Kantonen beeinträchtigt werden können;
->
-> f. die wirtschafts-, geld- und währungspolitischen Interessen der Schweiz gefährdet werden können;
->
-> g. Berufs-, Geschäfts- oder Fabrikationsgeheimnisse offenbart werden können;
->
-> h. Informationen vermittelt werden können, die der Behörde von Dritten freiwillig mitgeteilt worden sind und deren Geheimhaltung die Behörde zugesichert hat.
->
-> 2 Der Zugang zu amtlichen Dokumenten wird eingeschränkt, aufgeschoben oder verweigert, wenn durch seine Gewährung die Privatsphäre Dritter beeinträchtigt werden kann; ausnahmsweise kann jedoch das öffentliche Interesse am Zugang überwiegen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 152.3](https://www.fedlex.admin.ch/eli/cc/2006/355/de), Stand der Konsolidierung 1. November 2023 (in Kraft seit 1. Juli 2006).*
 
 ---
 

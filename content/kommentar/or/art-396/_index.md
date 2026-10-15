@@ -2,11 +2,16 @@
 title: "Art. 396 — Umfang des Auftrags"
 weight: 396
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 396 OR — Umfang des Auftrags nach der Natur des Geschäfts, implizite Ermächtigung zu Ausführungshandlungen, besondere Ermächtigung für Vergleich, Schiedsgericht, Wechsel, Grundstücke und Schenkungen"
 tags: ["OR", "Auftragsrecht", "Umfang", "Ermächtigung", "Vergleich", "Schiedsgericht", "Grundstück", "Schenkung", "Stellvertretung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-396.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Ist der Umfang des Auftrages nicht ausdrücklich bezeichnet worden, so bestimmt er sich nach der Natur des zu besorgenden Geschäftes.
->
-> **2** Insbesondere ist in dem Auftrage auch die Ermächtigung zu den Rechtshandlungen enthalten, die zu dessen Ausführung gehören.
->
-> **3** Einer besonderen Ermächtigung bedarf der Beauftragte, wenn es sich darum handelt, einen Vergleich abzuschliessen, ein Schiedsgericht anzunehmen, wechselrechtliche Verbindlichkeiten einzugehen, Grundstücke zu veräussern oder zu belasten oder Schenkungen zu machen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026. Abs. 3 Fussnote 262: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dezember 2008, in Kraft seit 1. Januar 2011 (AS 2010 1739; BBl 2006 7221).*
 
 ### Prüfschema
 

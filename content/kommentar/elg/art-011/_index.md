@@ -2,52 +2,21 @@
 title: "Art. 11 ELG — Anrechenbare Einnahmen"
 weight: 11
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 11 ELG: Anrechenbare Einnahmen bei der Ergänzungsleistungsrechnung — Erwerbseinkünfte (lit. a), Vermögenserträge und Eigenmietwert (lit. b), Reinvermögen (lit. c), Renten (lit. d), Einkommensverzicht (lit. g); nicht anrechenbare Leistungen (Abs. 3)."
 tags: ["ELG", "Ergänzungsleistungen", "anrechenbare Einnahmen", "Einkommensverzicht", "unentgeltliches Wohnen", "Reinvermögen"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.30 vom 2026-01-01 (data/wortlaut/elg/art-011.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 72 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> **Art. 11 ELG — Anrechenbare Einnahmen**
->
-> **1** Als Einnahmen werden angerechnet:
->
-> a. zwei Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei alleinstehenden Personen jährlich 1'300 Franken und bei Ehepaaren und Personen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, 1'950 Franken übersteigen; bei Ehegatten ohne Anspruch auf Ergänzungsleistungen wird das Erwerbseinkommen zu 80 Prozent angerechnet; bei invaliden Personen mit einem Anspruch auf ein Taggeld der IV wird es voll angerechnet;
->
-> b. Einkünfte aus beweglichem und unbeweglichem Vermögen einschliesslich des Jahreswerts einer Nutzniessung oder eines Wohnrechts oder des Jahresmietwerts einer Liegenschaft, an der die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum hat und von mindestens einer dieser Personen bewohnt wird;
->
-> c. ein Fünfzehntel, bei Altersrentnerinnen und Altersrentnern ein Zehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30'000 Franken, bei Ehepaaren 50'000 Franken und bei rentenberechtigten Waisen sowie bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, 15'000 Franken übersteigt; hat die Bezügerin oder der Bezüger oder eine Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum an einer Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112'500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen;
->
-> d. Renten, Pensionen und andere wiederkehrende Leistungen, einschliesslich der Renten der AHV und der IV;
->
-> e. Leistungen aus Verpfründungsvertrag und ähnlichen Vereinbarungen;
->
-> f. Familienzulagen;
->
-> h. familienrechtliche Unterhaltsbeiträge;
->
-> i. die Prämienverbilligung für die Zeitspanne, für die rückwirkend eine Ergänzungsleistung ausgerichtet wird.
->
-> **3** Nicht angerechnet werden:
->
-> a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches;
->
-> b. Unterstützungen der öffentlichen Sozialhilfe;
->
-> c. öffentliche oder private Leistungen mit ausgesprochenem Fürsorgecharakter;
->
-> d. Hilflosenentschädigungen der Sozialversicherungen;
->
-> e. Stipendien und andere Ausbildungsbeihilfen;
->
-> f. Assistenzbeiträge der AHV oder der IV;
->
-> i. die 13. Altersrente nach Artikel 34ter AHVG.
-
-*(Fedlex-Stand: 1. Januar 2026 — SR 831.30; Fassung gemäss BG vom 22. März 2019, EL-Reform, in Kraft seit 1. Jan. 2021; Beträge angepasst per 1. Jan. 2025)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

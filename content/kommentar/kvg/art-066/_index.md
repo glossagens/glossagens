@@ -2,11 +2,16 @@
 title: "Art. 66 KVG — Kantonsanteil an den Prämienverbilligungen"
 weight: 66
 date: 2026-08-15
-lastmod: 2026-08-15
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 66 KVG: Kantonsanteil an den Prämienverbilligungen — Beteiligung der Kantone mit 75 Prozent; Bestimmung der massgeblichen Versicherten; Delegationsnorm für Berechnung und Abrechnung; Prämienausgleich beim Kantonsanteil in Abzug bringbar."
 tags: ["KVG", "Kantonsanteil", "Prämienverbilligung", "Prämienausgleich", "Delegationsnorm", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-066.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 15 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 66 Kantonsanteil an den Prämienverbilligungen**
->
-> 1 Die Kantone beteiligen sich an den Prämienverbilligungen nach den Artikeln 65–65b mit 75 Prozent der von ihnen ausgerichteten Prämienverbilligungen. Der Bund richtet den Kantonen diesen Betrag als Kantonsanteil aus.
->
-> 2 Der Bundesrat bezeichnet die Versicherten, die bei der Berechnung des Kantonsanteils zu berücksichtigen sind.
->
-> 3 Er regelt die Einzelheiten der Berechnung, der Abrechnung und der Zahlungsweise; er kann vorsehen, dass der Prämienausgleich nach Art. 65 Abs. 4bis beim Kantonsanteil in Abzug gebracht wird.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

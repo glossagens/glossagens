@@ -2,11 +2,16 @@
 title: "Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot"
 weight: 3
 date: "2026-05-09"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 StPO: Achtung der Menschenwürde, Grundsatz von Treu und Glauben, Verbot des Rechtsmissbrauchs, rechtliches Gehör und Verbot menschenwürdeverletzender Beweiserhebungsmethoden."
 tags: ["Menschenwürde", "Fairnessgebot", "Treu und Glauben", "Rechtsmissbrauch", "rechtliches Gehör", "Beweisverwertungsverbot", "Beweiserhebungsverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot**
->
-> 1 Die Strafbehörden achten in allen Verfahrensstadien die Würde der vom Verfahren betroffenen Menschen.
->
-> 2 Sie beachten namentlich:
->
-> a. den Grundsatz von Treu und Glauben;
->
-> b. das Verbot des Rechtsmissbrauchs;
->
-> c. das Gebot, alle Verfahrensbeteiligten gleich und gerecht zu behandeln und ihnen rechtliches Gehör zu gewähren;
->
-> d. das Verbot, bei der Beweiserhebung Methoden anzuwenden, welche die Menschenwürde verletzen.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

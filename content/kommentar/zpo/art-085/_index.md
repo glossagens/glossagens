@@ -2,11 +2,16 @@
 title: "Art. 85 ZPO — Unbezifferte Forderungsklage"
 weight: 85
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Ausführlicher Kommentar zu Art. 85 ZPO (Unbezifferte Forderungsklage und Stufenklage): Voraussetzungen, Mindestwert, Bezifferungszeitpunkt, Zuständigkeit und detaillierte Kasuistik aus der Gerichtspraxis."
 tags: ["ZPO", "Zivilprozessrecht", "Unbezifferte Forderungsklage", "Stufenklage", "Rechtsbegehren", "Streitwert", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-085.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,12 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 85 ZPO (SR 272)** — Unbezifferte Forderungsklage
->
-> **1** Ist es der klagenden Partei unmöglich oder unzumutbar, ihre Forderung bereits zu Beginn des Prozesses zu beziffern, so kann sie eine unbezifferte Forderungsklage erheben. Sie muss jedoch einen Mindestwert angeben, der als vorläufiger Streitwert gilt.
->
-> **2** Nach Abschluss des Beweisverfahrens oder nach Auskunftserteilung durch die Parteien oder Dritte setzt das Gericht den Parteien eine Frist zur Bezifferung ihrer Klage. Das angerufene Gericht bleibt zuständig, auch wenn der Streitwert die sachliche Zuständigkeit übersteigt.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 *(Abs. 2 in der Fassung gemäss Ziff. I des BG vom 17. März 2023 [Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung], in Kraft seit 1. Jan. 2025; [AS 2023 491](https://www.fedlex.admin.ch/eli/oc/2023/491/de); [BBl 2020 2697](https://www.fedlex.admin.ch/eli/fbl/2020/2697/de)).*
 

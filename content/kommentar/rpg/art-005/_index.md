@@ -2,11 +2,16 @@
 title: "Art. 5 RPG — Ausgleich und Entschädigung"
 weight: 5
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 5 RPG: Mehrwertabgabe bei Neueinzonungen (mind. 20 %), Vorteilsausgleich bei Um- und Aufzonungen, Mittelverwendung, Freibeträge und Entschädigung bei materieller Enteignung."
 tags: ["RPG", "Raumplanung", "Mehrwertabgabe", "Planungsmehrwert", "Materielle Enteignung", "Einzonung", "Fälligkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -16,27 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 5 RPG — Ausgleich und Entschädigung**
->
-> 1 Das kantonale Recht regelt einen angemessenen Ausgleich für erhebliche Vor- und Nachteile, die durch Planungen nach diesem Gesetz entstehen. Die Mindestanforderungen richten sich nach den Absätzen 1^bis^−1^sexies^.
->
-> 1^bis^ Planungsvorteile, die sich aus neu und dauerhaft einer Bauzone zugewiesenem Boden ergeben, werden mit einem Satz von mindestens 20 Prozent ausgeglichen. Der Ausgleich wird bei der Überbauung des Grundstücks oder dessen Veräusserung fällig.
->
-> 1^ter^ Der Ertrag wird für Massnahmen nach Absatz 2 oder für weitere Massnahmen der Raumplanung nach Artikel 3, insbesondere Absätze 2 Buchstabe a und 3 Buchstabe a^bis^, verwendet.
->
-> 1^quater^ Für die Bemessung der Abgabe ist der bei einer Einzonung errechnete Planungsvorteil um den Betrag zu kürzen, welcher innert angemessener Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
->
-> 1^quinquies^ Das kantonale Recht kann von der Erhebung der Abgabe absehen, wenn:
-> a. ein Gemeinwesen abgabepflichtig wäre; oder
-> b. der voraussichtliche Abgabeertrag in einem ungünstigen Verhältnis zum Erhebungsaufwand steht.
->
-> 1^sexies^ Die bezahlte Abgabe ist bei der Bemessung einer allfälligen Grundstückgewinnsteuer als Teil der Aufwendungen vom Gewinn in Abzug zu bringen.
->
-> 2 Führen Planungen zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, so wird voll entschädigt.
->
-> 3 Die Kantone können vorschreiben, dass die Auszahlung von Entschädigungen bei Eigentumsbeschränkungen im Grundbuch anzumerken ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Juli 2026. Abs. 1 zweiter Satz und Abs. 1^bis^ in der Fassung vom 29. September 2023, in Kraft seit 1. Januar 2026 (AS 2025 640; BBl 2018 7443).*
 
 ---
 

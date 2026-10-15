@@ -2,11 +2,16 @@
 title: "Art. 322 StPO — Genehmigung und Rechtsmittel"
 weight: 322
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 322 StPO – Genehmigung und Rechtsmittel gegen die Einstellungsverfügung: Kantonale Genehmigungsvorbehalte (Abs. 1), 10-tägige Beschwerdefrist der Parteien und Grundsatz in dubio pro duriore (Abs. 2) sowie Einspracheverfahren bei Einziehungen (Abs. 3 n.F.)."
 tags: ["StPO", "Einstellung", "Beschwerde", "Genehmigung", "in dubio pro duriore", "Einsprache", "Einziehung", "Rechtsmittelfrist", "Vorverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-322.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 322 StPO — Genehmigung und Rechtsmittel**
->
-> **1** Bund und Kantone können bestimmen, dass die Einstellungsverfügung durch die Ober- oder Generalstaatsanwaltschaft zu genehmigen ist.
->
-> **2** Die Parteien können die Einstellungsverfügung innert 10 Tagen bei der Beschwerdeinstanz anfechten.
->
-> **3** Ergeht im Rahmen der Einstellungsverfügung ein Entscheid auf Einziehung, so kann dagegen Einsprache erhoben werden. Das Einspracheverfahren richtet sich nach den Bestimmungen über den Strafbefehl. Ein allfälliger Entscheid des Gerichts ergeht in Form eines Beschlusses oder einer Verfügung.
+{{< wortlaut >}}
 
 ---
 

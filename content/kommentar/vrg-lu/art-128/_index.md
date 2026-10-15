@@ -2,10 +2,16 @@
 title: "§ 128 — Zwischenentscheide"
 weight: 128
 date: 2026-05-31
-lastmod: 2026-06-21
+lastmod: 2026-10-15
 description: "Kommentierung von § 128 VRG LU — Zwischenentscheide und deren selbständige Anfechtbarkeit im luzernischen Verwaltungsverfahren"
 tags: ["VRG LU", "Zwischenentscheid", "nicht wieder gutzumachender Nachteil", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-128.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## I. Überblick und systematische Stellung
@@ -16,31 +22,7 @@ Die Regelung steht im zweiten Abschnitt des VRG („Rechtsmittel"), Unterabschni
 
 ## Gesetzeswortlaut
 
-> **§ 128 — 2. Gegenstand der Anfechtung**
->
-> **Abs. 1:** Das Rechtsmittel ist, unter Vorbehalt der Absätze 2–4, erst gegen den Endentscheid zulässig.
->
-> **Abs. 2:** Verfahrensleitende Verfügungen und andere Zwischenentscheide können mit dem gegen den Endentscheid zulässigen Rechtsmittel selbständig angefochten werden, wenn sie einen nicht wieder gutzumachenden Nachteil bewirken würden.
->
-> **Abs. 3:** Selbständig anfechtbar sind namentlich Zwischenentscheide über:
->
->  a. Zuständigkeit (§ 13);
->
->  b. Ausstand (§ 16);
->
->  c. Ablehnung der von einer Partei oder einem Dritten beantragten Beiladung (§ 20);
->
->  d. Aussetzen, Trennung oder Vereinigung von Verfahren (§§ 41–43);
->
->  e. vorsorgliche Verfügungen (§ 45);
->
->  f. Pflicht zur Edition von Urkunden, Aussagepflicht bei Zeugen- und Parteieinvernahmen, Pflicht zur medizinischen Begutachtung (§§ 63, 64, 75, 77–79, 91, 98);
->
->  g. Verweigerung der Akteneinsicht (§ 49);
->
->  h. Verweigerung der unentgeltlichen Rechtspflege (§ 204).
->
-> **Abs. 4:** Gegen das unrechtmässige Verweigern oder Verzögern eines anfechtbaren Entscheides kann das gegen den Endentscheid zulässige Rechtsmittel ergriffen werden.
+{{< wortlaut >}}
 
 ## III. Entstehungsgeschichte
 

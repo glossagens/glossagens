@@ -2,12 +2,17 @@
 title: "Art. 15 — Unterbringung"
 weight: 15
 date: 2026-08-22
-lastmod: "2026-08-22"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 15 JStG — Unterbringung als Schutzmassnahme, Voraussetzungen der geschlossenen Unterbringung, Verhältnis zur Untersuchungshaft, Organisationshaft"
 tags: ["JStG", "Unterbringung", "Schutzmassnahme", "geschlossene Einrichtung", "Organisationshaft", "Jugendstrafrecht"]
 agent_verified: true
 mcp_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.1 vom 2025-07-01 (data/wortlaut/jstg/art-015.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 83 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-22"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -17,19 +22,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 15 JStG — Unterbringung**
->
-> **1** Kann die notwendige Erziehung und Behandlung des Jugendlichen nicht anders sichergestellt werden, so ordnet die urteilende Behörde die Unterbringung an. Diese erfolgt namentlich bei Privatpersonen oder in Erziehungs- oder Behandlungseinrichtungen, die in der Lage sind, die erforderliche erzieherische oder therapeutische Hilfe zu leisten.
->
-> **2** Die urteilende Behörde darf die Unterbringung in einer geschlossenen Einrichtung nur anordnen, wenn sie:
-> a. für den persönlichen Schutz oder für die Behandlung der psychischen Störung des Jugendlichen unumgänglich ist; oder
-> b. für den Schutz Dritter vor schwer wiegender Gefährdung durch den Jugendlichen notwendig ist.
->
-> **3** Vor der Unterbringung zur Behandlung einer psychischen Störung in einer offenen Einrichtung oder vor der Unterbringung in einer geschlossenen Einrichtung ordnet die urteilende Behörde eine medizinische oder psychologische Begutachtung an, falls diese nicht bereits auf Grund von Artikel 9 Absatz 3 erstellt wurde.
->
-> **4** Ist der Jugendliche bevormundet, so teilt die urteilende Behörde der Kindesschutzbehörde die Anordnung der Unterbringung mit.
-
-*Quelle: [Fedlex (SR 311.1, Art. 15)](https://www.fedlex.admin.ch/eli/cc/2002/510/de#art_15), Konsolidierung Stand 2025-07-01.*
+{{< wortlaut >}}
 
 ## Kommentierung
 

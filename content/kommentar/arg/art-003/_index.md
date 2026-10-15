@@ -2,35 +2,21 @@
 title: "Art. 3 — Ausnahmen vom persönlichen Geltungsbereich"
 weight: 3
 date: "2026-07-10"
-lastmod: "2026-08-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 ArG – Ausnahmen vom persönlichen Geltungsbereich (höhere leitende Tätigkeit, wissenschaftliche/künstlerische Tätigkeit, Kirchenpersonal, Flugpersonal, Lehrer, Heimarbeitnehmer, Handelsreisende, Rheinschiffer)"
 tags: ["ArG", "persönlicher Geltungsbereich", "höhere leitende Tätigkeit", "Ausnahmen", "Arbeitnehmerschutz"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 3**<sup>1</sup>
->
-> **Ausnahmen vom persönlichen Geltungsbereich**
->
-> Das Gesetz ist, unter Vorbehalt von Artikel 3a, ferner nicht anwendbar:
->
-> **a.** auf Personen geistlichen Standes und andere Personen, die im Dienste von Kirchen stehen, sowie auf Angehörige von Ordens- und Mutterhäusern oder anderer religiöser Gemeinschaften;
->
-> **b.** auf das in der Schweiz wohnhafte Personal öffentlicher Verwaltungen ausländischer Staaten oder internationaler Organisationen;
->
-> **c.**<sup>2</sup> auf die Besatzungen von schweizerischen Flugbetriebsunternehmen;
->
-> **d.** auf Arbeitnehmer, die eine höhere leitende Tätigkeit oder eine wissenschaftliche oder selbständige künstlerische Tätigkeit ausüben;
->
-> **e.**<sup>3</sup> auf Lehrer an Privatschulen sowie auf Lehrer, Fürsorger, Erzieher und Aufseher in Anstalten;
->
-> **f.**<sup>4</sup> auf Heimarbeitnehmer;
->
-> **g.** auf Handelsreisende im Sinne der Bundesgesetzgebung;
->
-> **h.**<sup>5</sup> auf Arbeitnehmer, die dem Abkommen vom 21. Mai 1954<sup>6</sup> über die Arbeitsbedingungen der Rheinschiffer unterstehen.
+{{< wortlaut >}}
 
 *Fussnoten: ¹ Fassung gemäss Ziff. I des BG vom 8. Okt. 1993, in Kraft seit 1. Mai 1994 (AS 1994 1035 1036; BBl 1993 I 805). ² Fassung gemäss Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ³ Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Jan. 2005 (AS 2002 2547; BBl 2001 3181 6098). ⁴ Fassung gemäss Art. 21 Ziff. 2 des Heimarbeitsgesetzes vom 20. März 1981, in Kraft seit 1. April 1983 (SR 822.31). ⁵ Eingefügt durch Ziff. II 2 des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 (AS 1994 3010 3024; BBl 1992 I 607). ⁶ SR 0.747.224.022. Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. September 2023.*
 

@@ -2,11 +2,16 @@
 title: "Art. 243 StPO — Zufallsfunde"
 weight: 243
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 243 StPO – Zufallsfunde bei Zwangsmassnahmen: Sicherstellung deliktsfremder Beweismittel (Abs. 1), Berichtspflicht an die Verfahrensleitung (Abs. 2) und Verwertbarkeitsvoraussetzungen."
 tags: ["StPO", "Zufallsfunde", "Durchsuchung", "Sicherstellung", "Beweisverwertung", "Ausforschungsverbot", "Beweismittel", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-243.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,11 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 243 StPO — Zufallsfunde**
->
-> **1** Zufällig entdeckte Spuren oder Gegenstände, die mit der abzuklärenden Straftat nicht in Zusammenhang stehen, aber auf eine andere Straftat hinweisen, werden sichergestellt.
->
-> **2** Die Gegenstände werden mit einem Bericht der Verfahrensleitung übermittelt; diese entscheidet über das weitere Vorgehen.
+{{< wortlaut >}}
 
 ---
 

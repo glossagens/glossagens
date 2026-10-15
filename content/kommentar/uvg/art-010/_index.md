@@ -2,11 +2,16 @@
 title: "Art. 10 UVG — Heilbehandlung"
 weight: 10
 date: 2026-07-20
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 UVG: Heilbehandlung der Unfallfolgen — Anspruchsvoraussetzungen, Leistungskatalog (Abs. 1), freie Arztwahl (Abs. 2), Bundesratskompetenz (Abs. 3); Fallabschluss und Übergang zur Invalidenrente."
 tags: ["UVG", "Unfallversicherung", "Heilbehandlung", "Fallabschluss", "Schleudertrauma", "vorübergehende Leistungen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,26 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-{: .gesetzeszitat}
-> **Art. 10 UVG — Heilbehandlung**
->
-> **1** Der Versicherte hat Anspruch auf die zweckmässige Behandlung der Unfallfolgen, nämlich auf:
->
-> a. die ambulante Behandlung durch den Arzt, den Zahnarzt oder auf deren Anordnung durch eine medizinische Hilfsperson sowie durch den Chiropraktor und die ambulante Behandlung in einem Spital;
->
-> b. die vom Arzt oder Zahnarzt verordneten Arzneimittel und Analysen;
->
-> c. die Behandlung, Verpflegung und Unterkunft in der allgemeinen Abteilung eines Spitals;
->
-> d. die ärztlich verordneten Nach- und Badekuren;
->
-> e. die der Heilung dienlichen Mittel und Gegenstände.
->
-> **2** Der Versicherte kann den Arzt, den Zahnarzt, den Chiropraktor, die Apotheke, das Spital und die Kuranstalt frei wählen.
->
-> **3** Der Bundesrat kann die Leistungspflicht der Versicherung näher umschreiben und die Kostenvergütung für Behandlung im Ausland begrenzen. Er kann festlegen, unter welchen Voraussetzungen der Versicherte Anspruch auf Hilfe und Pflege zu Hause hat.
-
-*(Fedlex-Stand: 1. Januar 2026 — SR 832.20; Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2017)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

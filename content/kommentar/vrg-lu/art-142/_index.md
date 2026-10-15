@@ -2,10 +2,16 @@
 title: "§ 142 — Verwaltungsbeschwerde"
 weight: 142
 date: 2026-05-31
-lastmod: 2026-06-21
+lastmod: 2026-10-15
 description: "Kommentierung von § 142 VRG LU — Verwaltungsbeschwerde als wichtigster aussergerichtlicher Rechtsbehelf im luzernischen Verwaltungsverfahrensrecht"
 tags: ["VRG LU", "Verwaltungsbeschwerde", "Rechtsmittel", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-142.json), inkl. Fassungsvermerken aus der Änderungstabelle. Hinweis zu Abs. 1 lit. a berichtigt: lit. a war nicht «nicht abrufbar», sondern ist seit 1. Januar 2008 aufgehoben. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## § 142 VRG LU — Verwaltungsbeschwerde
@@ -18,19 +24,9 @@ Die Verwaltungsbeschwerde ist ein **Instruktionsrechtmittel**: Die Beschwerdeins
 
 ## Gesetzeswortlaut
 
-> **§ 142 — 1. Anfechtbare Entscheide, Beschwerdeinstanzen**
->
-> ¹ Mit Verwaltungsbeschwerde können angefochten werden:
->
-> a. *[andere Instanzen]*
->
-> b. Entscheide von Verwaltungsinstanzen von Gemeinden und andern dem Kanton nachgeordneten Gemeinwesen (§ 6 Abs. 1b–d) sowie von unteren Instanzen der kantonalen Verwaltung, ausgenommen die Departemente (§ 6 Abs. 1a): beim sachlich zuständigen Departement;
->
-> c. Einsprachentscheide und erstinstanzliche Entscheide der Departemente: beim Regierungsrat.
->
-> ² Vorbehalten bleiben Vorschriften, die eine andere Behörde als Beschwerdeinstanz bezeichnen.
+{{< wortlaut >}}
 
-[Hinweis: lit. a war im amtlichen Text der LexFind-Datenbank nicht vollständig abrufbar; die folgende Kommentierung stützt sich auf die systematische Auslegung im Gesamtzusammenhang der Norm.]
+*Abs. 1 lit. a ist durch Änderung vom 19. März 2007 aufgehoben worden, in Kraft seit 1. Januar 2008 (G 2007 108; Änderungstabelle SRL 40).*
 
 ### III. Entstehung und systematische Stellung
 
@@ -193,3 +189,4 @@ Die Verwaltungsbeschwerde ist ein Instruktionsrechtmittel mit freier Kognition (
 ---
 
 **Querverweise:** §§ 4, 6, 107, 127, 135, 143–147, 148 ff., 174 ff., 204 VRG | Art. 29 BV | Art. 5 VwVG | § 91 GG (Gemeindegesetz Luzern) | §§ 158 ff. StRG (Stimmrechtsgesetz Luzern)
+

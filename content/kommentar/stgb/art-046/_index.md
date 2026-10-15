@@ -2,11 +2,16 @@
 title: "Art. 46 StGB — Nichtbewährung"
 weight: 46
 date: 2026-07-04
-lastmod: 2026-09-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 46 StGB: Widerruf bedingter Strafen bei Probezeitdelinquenz, Gesamtstrafenbildung (Asperation), Verzicht auf Widerruf (Prognoseentscheid, Verwarnung, Verlängerung), Weisungsverletzung, Zuständigkeit und absolute Dreijahresfrist — mit umfassender Kasuistik."
 tags: ["StGB", "Sanktionenrecht", "Bedingte Strafe", "Widerruf", "Nichtbewährung", "Probezeit", "Gesamtstrafe", "Asperation", "Prognose", "Verwarnung", "Verwirkung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-046.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -31,19 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 46 StGB — Nichtbewährung**
->
-> 1 Begeht der Verurteilte während der Probezeit ein Verbrechen oder Vergehen und ist deshalb zu erwarten, dass er weitere Straftaten verüben wird, so widerruft das Gericht die bedingte Strafe oder den bedingten Teil der Strafe. Sind die widerrufene und die neue Strafe gleicher Art, so bildet es in sinngemässer Anwendung von Artikel 49 eine Gesamtstrafe.
->
-> 2 Ist nicht zu erwarten, dass der Verurteilte weitere Straftaten begehen wird, so verzichtet das Gericht auf einen Widerruf. Es kann den Verurteilten verwarnen oder die Probezeit um höchstens die Hälfte der im Urteil festgesetzten Dauer verlängern. Für die Dauer der verlängerten Probezeit kann das Gericht Bewährungshilfe anordnen und Weisungen erteilen. Erfolgt die Verlängerung erst nach Ablauf der Probezeit, so beginnt sie am Tag der Anordnung.
->
-> 3 Das zur Beurteilung des neuen Verbrechens oder Vergehens zuständige Gericht entscheidet auch über den Widerruf.
->
-> 4 Entzieht sich der Verurteilte der Bewährungshilfe oder missachtet er die Weisungen, so ist Artikel 95 Absätze 3–5 anwendbar.
->
-> 5 Der Widerruf darf nicht mehr angeordnet werden, wenn seit dem Ablauf der Probezeit drei Jahre vergangen sind.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Abs. 1 in der Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Januar 2018 (AS 2016 1249; BBl 2012 4721).*
 
 ---
 

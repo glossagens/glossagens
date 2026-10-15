@@ -2,35 +2,21 @@
 title: "Art. 12 — Ausnahmsweise Überschreitung der Höchstarbeitszeit (Überzeitarbeit)"
 weight: 12
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 12 ArG – Ausnahmsweise Überschreitung der wöchentlichen Höchstarbeitszeit (Überzeitarbeit: Voraussetzungen, Tages- und Jahresmaxima, Verhältnis zu Art. 13 ArG und Art. 321c OR)"
 tags: ["ArG", "Überzeitarbeit", "Höchstarbeitszeit", "Arbeitnehmerschutz", "Überstunden"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 12**<sup>36</sup>
->
-> **1** Die wöchentliche Höchstarbeitszeit darf ausnahmsweise überschritten werden:
->
-> **a.** wegen Dringlichkeit der Arbeit oder ausserordentlichen Arbeitsandranges;
->
-> **b.** für Inventaraufnahmen, Rechnungsabschlüsse und Liquidationsarbeiten;
->
-> **c.** zur Vermeidung oder Beseitigung von Betriebsstörungen, soweit dem Arbeitgeber nicht andere Vorkehren zugemutet werden können.
->
-> **2** Die Überzeit darf für den einzelnen Arbeitnehmer zwei Stunden im Tag nicht überschreiten, ausser an arbeitsfreien Werktagen oder in Notfällen, und im Kalenderjahr insgesamt nicht mehr betragen als:
->
-> **a.** 170 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 45 Stunden;
->
-> **b.** 140 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 50 Stunden.
->
-> **3–4** ...<sup>37</sup>
->
-> *Aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394).*
-
-*Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000 (AS 2000 1569; BBl 1998 1394). Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/de), Konsolidierung vom 1. Januar 2021 (SR 822.11).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

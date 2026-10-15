@@ -2,11 +2,16 @@
 title: "Art. 641 ZGB — Inhalt und Schutz des Eigentums"
 weight: 641
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 641 ZGB — Inhalt des Eigentums (Verfügung und Benutzung), Schranken der Rechtsordnung und Eigentumsgarantie (Art. 26 BV), Herausgabeanspruch (Vindikation) und Abwehr ungerechtfertigter Einwirkungen (actio negatoria) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Eigentum", "Vindikation", "actio negatoria", "Eigentumsfreiheitsklage", "Eigentumsgarantie", "Nachbarrecht", "Beweislast", "Tiere"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-641.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,13 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 641 ZGB**
->
-> 1. Wer Eigentümer einer Sache ist, kann in den Schranken der Rechtsordnung über sie nach seinem Belieben verfügen.
-> 2. Er hat das Recht, sie von jedem, der sie ihm vorenthält, herauszuverlangen und jede ungerechtfertigte Einwirkung abzuwehren.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Der Wortlaut ist seit der Entstehung des ZGB 1907 im Kern unverändert; die zugehörige Bestimmung über Tiere wurde 2003 als Art. 641a eingefügt (dazu Abschnitt D). Eine digital verfügbare Botschaft zu Art. 641 selbst liegt nicht vor — das ZGB geht auf die Botschaft Hubers von 1904 zurück, die im hier ausgewerteten digitalen Materialienkorpus nicht enthalten ist; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Der Wortlaut ist seit der Entstehung des ZGB 1907 im Kern unverändert; die zugehörige Bestimmung über Tiere wurde 2003 als Art. 641a eingefügt (dazu Abschnitt D). Eine digital verfügbare Botschaft zu Art. 641 selbst liegt nicht vor — das ZGB geht auf die Botschaft Hubers von 1904 zurück, die im hier ausgewerteten digitalen Materialienkorpus nicht enthalten ist; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

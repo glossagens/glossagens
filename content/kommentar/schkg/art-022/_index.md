@@ -2,11 +2,16 @@
 title: "Art. 22 SchKG — Nichtige Verfügungen"
 weight: 22
 date: 2026-09-01
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 SchKG: Absolute Nichtigkeit von Betreibungshandlungen, Verletzung von Schutzvorschriften im öffentlichen Interesse und Drittschutzvorschriften, amtswegige Feststellung, Selbstkorrektur durch das Amt, Rechtsmissbrauch, Grenzkasuistik."
 tags: ["SchKG", "Betreibungsrecht", "Nichtigkeit", "Aufsichtsbeschwerde", "Zwangsvollstreckung", "Rechtsmissbrauch", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -26,13 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22 SchKG — Nichtige Verfügungen**
->
-> 1 Verstossen Verfügungen gegen Vorschriften, die im öffentlichen Interesse oder im Interesse von am Verfahren nicht beteiligten Personen erlassen worden sind, so sind sie nichtig. Unabhängig davon, ob Beschwerde geführt worden ist, stellen die Aufsichtsbehörden von Amtes wegen die Nichtigkeit einer Verfügung fest.
->
-> 2 Das Amt kann eine nichtige Verfügung durch Erlass einer neuen Verfügung ersetzen. Ist bei der Aufsichtsbehörde ein Verfahren im Sinne von Absatz 1 hängig, so steht dem Amt diese Befugnis bis zur Vernehmlassung zu.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Januar 2026.*
 
 ---
 

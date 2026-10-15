@@ -2,11 +2,16 @@
 title: "Art. 187 StGB — Sexuelle Handlungen mit Kindern"
 weight: 187
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 187 StGB: Sexuelle Handlungen mit Kindern unter 16 Jahren, Qualifikation unter 12 Jahren, Altersdifferenz-Klausel (3 Jahre), Irrtumsregelung und Konkurrenzen."
 tags: ["StGB", "Sexualstrafrecht", "Kindesschutz", "Sexuelle Integrität", "Schutzalter"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-187.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -16,26 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 187 StGB — Sexuelle Handlungen mit Kindern**
->
-> 1. Wer mit einem Kind unter 16 Jahren eine sexuelle Handlung vornimmt,
-> es zu einer solchen Handlung verleitet, oder
-> es in eine solche Handlung einbezieht,
-> wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
->
-> 1^bis^. Hat das Kind das 12. Altersjahr noch nicht vollendet und nimmt der Täter mit ihm eine sexuelle Handlung vor oder verleitet es zu einer solchen mit einer Drittperson oder einem Tier, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu fünf Jahren.
->
-> 2. Die Handlung ist nicht strafbar, wenn der Altersunterschied zwischen den Beteiligten nicht mehr als drei Jahre beträgt.
->
-> 3. Hat der Täter zur Zeit der Tat oder der ersten Tathandlung das 20. Altersjahr noch nicht zurückgelegt und liegen besondere Umstände vor, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.
->
-> 4. Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
->
-> 5. …
->
-> 6. …
+{{< wortlaut >}}
 
-*Wortlaut nach der Revision des Sexualstrafrechts vom 16. Juni 2023, in Kraft seit 1. Juli 2024 (AS 2024 27; BBl 2018 2827, 2022 687, 1011).*
 
 ---
 

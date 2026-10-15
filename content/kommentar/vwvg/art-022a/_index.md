@@ -2,11 +2,16 @@
 title: "Art. 22a VwVG — Fristenstillstand (Gerichtsferien)"
 weight: 22
 date: 2026-08-02
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 22a VwVG (SR 172.021): Fristenstillstand (Gerichtsferien) — Anwendungsbereich, Oster-, Sommer- und Weihnachtsferien, Ausnahmen."
 tags: ["VwVG", "Fristenstillstand", "Gerichtsferien", "Fristenlauf", "Verwaltungsverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-022a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -23,21 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 22a VwVG — Fristenstillstand**
->
-> **1** Gesetzliche oder behördliche Fristen, die nach Tagen bestimmt sind, stehen still:
->
-> a. vom siebten Tag vor Ostern bis und mit dem siebten Tag nach Ostern;
->
-> b. vom 15. Juli bis und mit 15. August;
->
-> c. vom 18. Dezember bis und mit dem 2. Januar.
->
-> **2** Absatz 1 gilt nicht in Verfahren betreffend:
->
-> a. die aufschiebende Wirkung und andere vorsorgliche Massnahmen;
->
-> b. die öffentlichen Beschaffungen.
+{{< wortlaut >}}
 
 Quelle: [Fedlex SR 172.021 Art. 22a](https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_22a).
 

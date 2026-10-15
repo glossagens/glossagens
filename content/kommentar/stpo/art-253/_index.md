@@ -2,11 +2,16 @@
 title: "Art. 253 StPO — Untersuchung von Leichen und Toten: Aussergewöhnliche Todesfälle"
 weight: 253
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 253 StPO – Aussergewöhnliche Todesfälle: Legalinspektion durch sachverständige Ärzte (Abs. 1), Leichenfreigabe zur Bestattung (Abs. 2), Obduktion und Leichensicherung (Abs. 3) sowie kantonale Meldepflichten (Abs. 4)."
 tags: ["StPO", "Todesfall", "Legalinspektion", "Obduktion", "Rechtsmedizin", "Leichenfreigabe", "Identifikation", "Meldepflicht", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-253.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 253 StPO — Aussergewöhnliche Todesfälle**
->
-> **1** Bestehen bei einem Todesfall Anzeichen für einen unnatürlichen Tod, insbesondere für eine Straftat, oder ist die Identität des Leichnams unbekannt, so ordnet die Staatsanwaltschaft zur Klärung der Todesart oder zur Identifizierung des Leichnams eine Legalinspektion durch eine sachverständige Ärztin oder einen sachverständigen Arzt an.
->
-> **2** Bestehen nach der Legalinspektion keine Hinweise auf eine Straftat und steht die Identität fest, so gibt die Staatsanwaltschaft die Leiche zur Bestattung frei.
->
-> **3** Andernfalls ordnet die Staatsanwaltschaft die Sicherstellung der Leiche und weitere Untersuchungen durch eine rechtsmedizinische Institution, nötigenfalls die Obduktion an. Sie kann die Leiche oder Teile davon zurückbehalten, solange der Zweck der Untersuchung es erfordert.
->
-> **4** Die Kantone bestimmen, welche Medizinalpersonen verpflichtet sind, aussergewöhnliche Todesfälle den Strafbehörden zu melden.
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 118 StPO — Begriff und Voraussetzungen (Privatklägerschaft)"
 weight: 118
 date: 2026-07-11
-lastmod: 2026-09-14
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 118 StPO: Konstituierung der Privatklägerschaft, Abgrenzung zur blossen Geschädigtenstellung, ausdrückliche Erklärung und Formularpraxis der Polizei, Kostenprivileg des passiven Strafantragstellers, Präklusionsfrist bis Abschluss des Vorverfahrens, Heilung der unterlassenen Hinweispflicht durch nachträgliche gerichtliche Belehrung (BGer 6B_95/2025) sowie Rechtsnachfolge und Rechtsmittellegitimation."
 tags: ["StPO", "Privatklägerschaft", "Geschädigte Person", "Parteistellung", "Strafklage", "Zivilklage", "Strafantrag", "Abschluss des Vorverfahrens", "Hinweispflicht", "Kostenpflicht", "Rechtsmittellegitimation", "Rechtsnachfolge"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-118.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,17 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 118 StPO — Begriff und Voraussetzungen**
->
-> 1 Als Privatklägerschaft gilt die geschädigte Person, die ausdrücklich erklärt, sich am Strafverfahren als Straf- oder Zivilklägerin oder -kläger zu beteiligen.
->
-> 2 Der Strafantrag ist dieser Erklärung gleichgestellt.
->
-> 3 Die Erklärung ist gegenüber einer Strafverfolgungsbehörde spätestens bis zum Abschluss des Vorverfahrens abzugeben.
->
-> 4 Hat die geschädigte Person von sich aus keine Erklärung abgegeben, so weist sie die Staatsanwaltschaft nach Eröffnung des Vorverfahrens auf diese Möglichkeit hin.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. In Kraft seit 1. Januar 2011.*
 
 ---
 

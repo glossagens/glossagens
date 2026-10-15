@@ -2,11 +2,16 @@
 title: "Art. 13 — Recht auf wirksame Beschwerde"
 weight: 13
 date: 2026-06-06
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 EMRK – Recht auf wirksame Beschwerde bei Verletzung von Konventionsrechten; Beschwerdegericht; nationale Rechtsbehelfe"
 tags: ["EMRK", "Rechtsmittel", "Beschwerde", "wirksamer Rechtsbehelf", "Konventionsbeschwerde", "nationale Rechtsbehelfe"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,7 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Jede Person, die in ihren in dieser Konvention anerkannten Rechten oder Freiheiten verletzt worden ist, hat das Recht, bei einer innerstaatlichen Instanz eine wirksame Beschwerde zu erheben, auch wenn die Verletzung von Personen begangen worden ist, die in amtlicher Eigenschaft gehandelt haben.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

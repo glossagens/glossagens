@@ -2,11 +2,16 @@
 title: "Art. 180 StGB — Drohung"
 weight: 180
 date: 2026-08-01
-lastmod: "2026-09-21"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 180 StGB (Drohung): Begriff der schweren Drohung, objektiver Massstab und Gesamtwürdigung, Taterfolg (Schrecken/Angst und Verlust des Sicherheitsgefühls), versuchte Drohung (auch bei Suizidankündigung), Offizialverfolgung bei häuslicher Gewalt (Abs. 2, Konkubinat auf unbestimmte Zeit) sowie Konkurrenzen zu Körperverletzung und Nötigung — mit Prüfschema, Grenzkasuistik, kantonalen Praxisfragen und Praxishinweisen."
 tags: ["StGB", "Drohung", "Schwere Drohung", "Antragsdelikt", "Offizialdelikt", "Häusliche Gewalt", "Besonderer Teil", "Konkubinat", "Versuchte Drohung", "Konkurrenzen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-180.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -36,16 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 180 StGB — Drohung**
->
-> 1 Wer jemanden durch schwere Drohung in Schrecken oder Angst versetzt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> 2 Der Täter wird von Amtes wegen verfolgt, wenn er:
-> a. der Ehegatte des Opfers ist und die Drohung während der Ehe oder bis zu einem Jahr nach der Scheidung begangen wurde; oder
-> abis. die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Drohung während der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde; oder
-> b. der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Drohung während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung: 12. Juni 2026. Abs. 2 lit. a und b eingefügt durch Ziff. I des Bundesgesetzes vom 3. Oktober 2003 (Strafverfolgung in der Ehe und in der Partnerschaft), in Kraft seit 1. April 2004 (AS 2004 1403; BBl 2003 1909, S. 1937). Abs. 2 lit. abis eingefügt durch Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Januar 2007 (AS 2005 5685; BBl 2003 1288).*
 
 ---
 

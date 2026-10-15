@@ -2,11 +2,16 @@
 title: "Art. 174 SchKG — Beschwerde gegen Konkurseröffnung"
 weight: 174
 date: 2026-07-31
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 174 SchKG: Beschwerde gegen Konkurseröffnung — Novenrecht, Konkurshinderungsgründe (Tilgung, Hinterlegung, Verzicht), Zahlungsfähigkeit, aufschiebende Wirkung, Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Konkurseröffnung", "Beschwerde", "Zahlungsfähigkeit", "Tilgung", "Hinterlegung", "Noven", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-174.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
@@ -31,19 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 174 SchKG (SR 281.1)** — Beschwerde gegen Konkurseröffnung
->
-> **1** Der Entscheid des Konkursgerichtes kann innert zehn Tagen mit Beschwerde nach der ZPO angefochten werden. Die Parteien können dabei neue Tatsachen geltend machen, wenn diese vor dem erstinstanzlichen Entscheid eingetreten sind.
->
-> **2** Die Rechtsmittelinstanz kann die Konkurseröffnung aufheben, wenn der Schuldner seine Zahlungsfähigkeit glaubhaft macht und durch Urkunden beweist, dass inzwischen:
-> 1. die Schuld, einschliesslich der Zinsen und Kosten, getilgt ist;
-> 2. der geschuldete Betrag beim oberen Gericht zuhanden des Gläubigers hinterlegt ist; oder
-> 3. der Gläubiger auf die Durchführung des Konkurses verzichtet.
->
-> **3** Gewährt sie der Beschwerde aufschiebende Wirkung, so trifft sie gleichzeitig die zum Schutz der Gläubiger notwendigen vorsorglichen Massnahmen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Abs. 1 Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Januar 2014 (AS 2013 4111; BBl 2010 6455).*
 
 ---
 

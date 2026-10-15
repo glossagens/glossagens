@@ -2,11 +2,16 @@
 title: "Art. 423 StPO — Grundsätze der Kostentragung"
 weight: 423
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 423 StPO: Grundsatz der staatlichen Kostentragung in der Strafrechtspflege — Auffangfunktion bei fehlender Kostenauflage, striktes Legalitätsprinzip im Abgaberecht, Ausschluss der Abwälzung von Haft- und Polizeikosten, Tragung der amtlichen Verteidigung bei Freispruch, föderale Lastenverteilung zwischen Bund und Kantonen, interkantonale Gerichtsstandskonflikte sowie Kasuistik zu selbständigen nachträglichen Entscheiden und Fristwiederherstellungsgesuchen."
 tags: ["StPO", "Verfahrenskosten", "Kostentragung", "Gemeinwesen", "Bund", "Kanton", "Legalitätsprinzip", "Haftkosten", "Polizeikosten", "Amtliche Verteidigung", "Gerichtsstandskonflikt", "Fristwiederherstellung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-423.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,13 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 423 StPO — Grundsätze**
->
-> 1 Die Verfahrenskosten werden vom Bund oder dem Kanton getragen, der das Verfahren geführt hat; abweichende Bestimmungen dieses Gesetzes bleiben vorbehalten.
->
-> 2 und 3 …
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 2 und 3 wurden durch Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes (StBOG) vom 19. März 2010 mit Wirkung seit dem 1. Januar 2011 aufgehoben (AS 2010 3267; BBl 2008 8125).*
 
 ---
 

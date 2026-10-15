@@ -2,11 +2,16 @@
 title: "Art. 73 SchKG — Pflichten des Gläubigers: Einsicht in Beweismittel und Forderungsübersicht"
 weight: 73
 date: 2026-07-31
-lastmod: 2026-09-13
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 73 SchKG: Einsichtsrecht des Schuldners, Vorlagepflicht des Gläubigers, keine Fristhemmung, Prozesskostenfolgen, Gebührenfreiheit, Abgrenzung zur Umschreibungspflicht, Grenzkasuistik."
 tags: ["SchKG", "Beweismittel", "Einsichtsrecht", "Zahlungsbefehl", "Forderungsübersicht", "Prozesskosten", "Waffengleichheit", "Fristhemmung", "Gebührenfreiheit", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-073.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,13 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 73 SchKG** — Pflichten des Gläubigers
->
-> **1** Der Schuldner kann jederzeit nach Einleitung der Betreibung verlangen, dass der Gläubiger aufgefordert wird, die Beweismittel für seine Forderung zusammen mit einer Übersicht über alle gegenüber dem Schuldner fälligen Ansprüche beim Betreibungsamt zur Einsicht vorzulegen.
->
-> **2** Die Aufforderung hat keine Auswirkung auf laufende Fristen. Falls der Gläubiger der Aufforderung nicht oder nicht rechtzeitig nachgekommen ist, berücksichtigt das Gericht beim Entscheid über die Prozesskosten in einem nachfolgenden Rechtsstreit den Umstand, dass der Schuldner die Beweismittel nicht hat einsehen können.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 281.1), Stand der Konsolidierung 1. Januar 2026. Fassung gemäss Ziff. I des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2019 (AS 2018 4583; BBl 2015 3209, 5785).*
 
 ---
 

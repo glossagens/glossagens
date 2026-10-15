@@ -2,19 +2,21 @@
 title: "Art. 4 — Invalidität"
 weight: 4
 date: 2026-06-07
-lastmod: 2026-06-07
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 4 IVG — Invaliditätsursachen, Eintritt der Invalidität, Geburtsgebrechen, Krankheit, Unfall"
 tags: ["IVG", "Invalidität", "Geburtsgebrechen", "Invaliditätseintritt", "Krankheit", "Unfall"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 4 Invalidität**
->
-> **1** Die Invalidität (Art. 8 ATSG SR 830.1) kann Folge von Geburtsgebrechen, Krankheit oder Unfall sein.
->
-> **2** Die Invalidität gilt als eingetreten, sobald sie die für die Begründung des Anspruchs auf die jeweilige Leistung erforderliche Art und Schwere erreicht hat.
+{{< wortlaut >}}
 
 ## Kommentierung
 

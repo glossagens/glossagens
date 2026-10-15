@@ -2,11 +2,16 @@
 title: "Art. 55 — Verhandlungs- und Untersuchungsgrundsatz"
 weight: 55
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 55 ZPO — Verhandlungs- und Untersuchungsgrundsatz: Behauptungslast, Substantiierungspflicht, Bestreitungslast, gerichtliche Fragepflicht (Art. 56), Grenzen des Untersuchungsgrundsatzes, Durchbrechungen der Verhandlungsmaxime in Familie, Konkurs und Kindesschutz."
 tags: ["ZPO", "Verhandlungsgrundsatz", "Untersuchungsgrundsatz", "Behauptungslast", "Substantiierung", "Bestreitungslast", "Fragepflicht", "Verhandlungsmaxime", "Untersuchungsmaxime", "Prozessmaximen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-055.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
@@ -18,12 +23,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 55 Verhandlungs- und Untersuchungsgrundsatz**
->
-> 1 Die Parteien haben dem Gericht die Tatsachen, auf die sie ihre Begehren stützen, darzulegen und die Beweismittel anzugeben.
-> 2 Vorbehalten bleiben gesetzliche Bestimmungen über die Feststellung des Sachverhaltes und die Beweiserhebung von Amtes wegen.
-
-*(Quelle: [SR 272 Art. 55](https://www.fedlex.admin.ch/eli/cc/2010/262_262_262/de#art_55), Stand 1. Juli 2026)*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

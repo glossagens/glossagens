@@ -2,11 +2,16 @@
 title: "Art. 93 BGG — Andere Vor- und Zwischenentscheide"
 weight: 93
 date: 2026-07-09
-lastmod: 2026-09-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 93 BGG: Selbständig eröffnete Vor- und Zwischenentscheide, nicht wieder gutzumachender Nachteil rechtlicher Natur (lit. a), sofortiger Endentscheid bei weitläufigem Beweisverfahren (lit. b), Ausschlussbereiche (Abs. 2) sowie Anfechtung mit dem Endentscheid (Abs. 3) — mit umfassender Kasuistik zu Beweisverwertung, vorsorglichen Massnahmen, Kostenvorschüssen, Rückweisungen und Sistierungen."
 tags: ["BGG", "Zwischenentscheid", "Vorentscheid", "nicht wieder gutzumachender Nachteil", "Verfahrensökonomie", "Rückweisungsentscheid", "Beweisverwertbarkeit", "vorsorgliche Massnahmen", "Sistierung", "Substanziierungspflicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-093.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,19 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 93 Andere Vor- und Zwischenentscheide**
->
-> 1 Gegen andere selbständig eröffnete Vor- und Zwischenentscheide ist die Beschwerde zulässig:
->
-> a. wenn sie einen nicht wieder gutzumachenden Nachteil bewirken können; oder
->
-> b. wenn die Gutheissung der Beschwerde sofort einen Endentscheid herbeiführen und damit einen bedeutenden Aufwand an Zeit oder Kosten für ein weitläufiges Beweisverfahren ersparen würde.
->
-> 2 Auf dem Gebiet der internationalen Rechtshilfe in Strafsachen und dem Gebiet des Asyls sind Vor- und Zwischenentscheide nicht anfechtbar. Vorbehalten bleiben Beschwerden gegen Entscheide über die Auslieferungshaft sowie über die Beschlagnahme von Vermögenswerten und Wertgegenständen, sofern die Voraussetzungen von Absatz 1 erfüllt sind.
->
-> 3 Ist die Beschwerde nach den Absätzen 1 und 2 nicht zulässig oder wurde von ihr kein Gebrauch gemacht, so sind die betreffenden Vor- und Zwischenentscheide durch Beschwerde gegen den Endentscheid anfechtbar, soweit sie sich auf dessen Inhalt auswirken.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 173.110](https://www.fedlex.admin.ch/eli/cc/2006/218/de), Stand der Konsolidierung 1. April 2026. Abs. 2 in der Fassung gemäss Ziff. I 2 des BG vom 1. Okt. 2010 über die Koordination des Asyl- und des Auslieferungsverfahrens, in Kraft seit 1. April 2011 (AS 2011 925; BBl 2010 1467).*
 
 ### Die Bestimmung auf einen Blick
 

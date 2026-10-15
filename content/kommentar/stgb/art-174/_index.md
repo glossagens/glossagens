@@ -2,11 +2,16 @@
 title: "Art. 174 StGB — Verleumdung"
 weight: 174
 date: 2026-07-31
-lastmod: 2026-10-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 174 StGB: Verleumdung, Vorwurf ehrverletzender Tatsachen wider besseres Wissen (direkter Vorsatz 2. Grades), Beweislast der Unwahrheit bei den Strafverfolgungsbehörden, planmässige Untergrabung des guten Rufs (Abs. 2) in sozialen Netzwerken und Blogs, Ausschluss des Wahrheitsbeweises, Rücknahme als fakultative Strafmilderung (Abs. 3) sowie gerichtliche Urkunde — mit systematischer Grenzkasuistik."
 tags: ["StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Unwahrheitsbeweis", "planmässige Verleumdung", "Antragsdelikt", "Ehre", "Social Media"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-174.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -30,17 +35,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 174 StGB — Verleumdung**
->
-> 1 Wer jemanden wider besseres Wissen bei einem andern eines unehrenhaften Verhaltens oder anderer Tatsachen, die geeignet sind, seinen Ruf zu schädigen, beschuldigt oder verdächtigt,  
-> wer eine solche Beschuldigung oder Verdächtigung wider besseres Wissen verbreitet,  
-> wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
->
-> 2 Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so wird er mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
->
-> 3 Zieht der Täter seine Äusserungen vor dem Gericht als unwahr zurück, so kann er milder bestraft werden. Das Gericht stellt dem Verletzten über den Rückzug eine Urkunde aus.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 1. Oktober 2026. Fassung von Abs. 2 gemäss Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://www.fedlex.admin.ch/eli/oc/2023/259/de); [BBl 2018 2827](https://www.fedlex.admin.ch/eli/fga/2018/2827/de)).*
 
 ### Die Bestimmung auf einen Blick
 

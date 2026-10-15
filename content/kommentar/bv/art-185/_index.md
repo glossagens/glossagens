@@ -2,11 +2,16 @@
 title: "Art. 185 BV — Äussere und innere Sicherheit"
 weight: 185
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 185 BV: Notverordnungs- und Notverfügungsrecht des Bundesrates (polizeiliche Generalklausel), Schutz der Finanzmarktstabilität und Schranken der Staatshaftung."
 tags: ["BV", "Bundesrat", "Notrecht", "Polizeiliche Generalklausel", "Finanzmarkt", "Staatshaftung", "Sicherheit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-185.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 185 Äussere und innere Sicherheit**
->
-> 1 Der Bundesrat trifft Massnahmen zur Wahrung der äusseren Sicherheit, der Unabhängigkeit und der Neutralität der Schweiz.
->
-> 2 Er trifft Massnahmen zur Wahrung der inneren Sicherheit.
->
-> 3 Er kann, unmittelbar gestützt auf diesen Artikel, Verordnungen und Verfügungen erlassen, um eingetretenen oder unmittelbar drohenden schweren Störungen der öffentlichen Ordnung oder der inneren oder äusseren Sicherheit zu begegnen. Solche Verordnungen sind zu befristen.
->
-> 4 In dringlichen Fällen kann er Truppen aufbieten. Bietet er mehr als 4000 Angehörige der Armee für den Aktivdienst auf oder dauert dieser Einsatz voraussichtlich länger als drei Wochen, so ist unverzüglich die Bundesversammlung einzuberufen.
+{{< wortlaut >}}
 
 ---
 

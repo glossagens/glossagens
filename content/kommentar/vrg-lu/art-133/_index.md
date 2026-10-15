@@ -2,11 +2,16 @@
 title: "§ 133 — Rechtsmittelschrift: Inhalt"
 weight: 133
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu § 133 VRG (Luzern): Begründungspflicht und Antragserfordernis der Rechtsmittelschrift, Grenzen der Nachholung im Schriftenwechsel, Verhältnis zum Rügegrundsatz und zur Untersuchungsmaxime, mit der Kasuistik der Luzerner Gerichte zu ausreichender und ungenügender Begründung."
 tags: ["VRG", "Luzern", "Begründungspflicht", "Rechtsmittelschrift", "Rügegrundsatz", "Nichteintreten", "Untersuchungsgrundsatz"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-133.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
@@ -16,17 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **§ 133 8. Rechtsmittelschrift — a. Inhalt**
->
-> 1 Die Rechtsmittelschrift muss einen bestimmten Antrag und dessen Begründung enthalten.
->
-> 2 Die Partei oder ihr Vertreter hat die Rechtsmittelschrift zu unterzeichnen.
->
-> 3 Bei elektronischer Übermittlung muss die Rechtsmittelschrift mit einer anerkannten elektronischen Signatur versehen sein. \*
+{{< wortlaut >}}
 
-*\* Abs. 3 eingefügt durch Änderung vom 16. März 2015, in Kraft seit 1. September 2015.*
-
-*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
 
 ## Überblick und Bedeutung
 

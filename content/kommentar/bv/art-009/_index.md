@@ -2,11 +2,16 @@
 title: "Art. 9 BV — Schutz vor Willkür und Wahrung von Treu und Glauben"
 weight: 9
 date: 2026-05-24
-lastmod: "2026-09-25"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 9 BV — Willkürverbot in Rechtsanwendung und Beweiswürdigung, Grundsatz von Treu und Glauben und Vertrauensschutz"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte", "Beweiswürdigung", "Unschuldsvermutung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -31,11 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 9 BV — Schutz vor Willkür und Wahrung von Treu und Glauben**
->
-> Jede Person hat Anspruch darauf, von den staatlichen Organen ohne Willkür und nach Treu und Glauben behandelt zu werden.
-
-*Quelle: [Fedlex (SR 101)](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_9), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Überblick
 

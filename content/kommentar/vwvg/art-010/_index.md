@@ -2,11 +2,16 @@
 title: "Art. 10 — Ausstand"
 weight: 10
 date: 2026-06-28
-lastmod: "2026-08-15"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 VwVG – Ausstand von mitwirkenden Personen im Verwaltungsverfahren bei Befangenheit"
 tags: ["VwVG", "Ausstand", "Befangenheit", "Verwaltungsverfahren", "Verwaltungsrecht", "Organmangel", "rechtliches Gehör", "Fairness"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -21,21 +26,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 10 VwVG — Ausstand**
->
-> 1 Personen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten in Ausstand, wenn sie:
->
-> a. in der Sache ein persönliches Interesse haben;
->
-> b. mit einer Partei durch Ehe oder eingetragene Partnerschaft verbunden sind oder mit ihr eine faktische Lebensgemeinschaft führen;
->
-> bbis. mit einer Partei in gerader Linie oder bis zum dritten Grade in der Seitenlinie verwandt oder verschwägert sind;
->
-> c. Vertreter einer Partei sind oder für eine Partei in der gleichen Sache tätig waren;
->
-> d. aus anderen Gründen in der Sache befangen sein könnten.
->
-> 2 Ist der Ausstand streitig, so entscheidet darüber die Aufsichtsbehörde oder, wenn es sich um den Ausstand eines Mitgliedes einer Kollegialbehörde handelt, diese Behörde unter Ausschluss des betreffenden Mitgliedes.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,21 +2,21 @@
 title: "Art. 382 StPO — Legitimation zu Rechtsmitteln"
 weight: 382
 date: "2026-07-04"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 382 StPO: Rechtsmittellegitimation der Parteien — rechtlich geschütztes Interesse, Privatklägerschaft, Sanktionsanfechtungsverbot, Rechtsnachfolge beim Tod."
 tags: ["Rechtsmittel", "Legitimation", "Privatklägerschaft", "Geschädigter", "rechtlich geschütztes Interesse", "Berufung", "Beschwerde", "Rechtsnachfolge"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-382.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 382 StPO — Legitimation der übrigen Parteien**
->
-> 1 Jede Partei, die ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung eines Entscheides hat, kann ein Rechtsmittel ergreifen.
->
-> 2 Die Privatklägerschaft kann einen Entscheid hinsichtlich der ausgesprochenen Sanktion nicht anfechten.
->
-> 3 Nach dem Tode der beschuldigten oder verurteilten Person oder der Privatklägerschaft können die Angehörigen im Sinne von Artikel 110 Absatz 1 StGB in der Reihenfolge der Erbberechtigung ein Rechtsmittel ergreifen oder das Rechtsmittelverfahren weiterführen, soweit sie in ihren rechtlich geschützten Interessen betroffen sind.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

@@ -2,11 +2,16 @@
 title: "Art. 147 StPO — Im Allgemeinen"
 weight: 147
 date: "2026-05-09"
-lastmod: "2026-10-15"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 147 StPO: Parteiöffentlichkeit der Beweiserhebungen, Konfrontationsanspruch, Rechtsprechungsänderung nach BGE 150 IV 345, materieller Beschuldigtenstatus (Causa Dittli), Verwertungsverbote, Wiederholungsanspruch, Fotowahlkonfrontationen und Kasuistik."
 tags: ["StPO", "Teilnahmerecht", "Parteiöffentlichkeit", "Konfrontationsanspruch", "BGE 150 IV 345", "Beweisverwertungsverbot", "Fotowahlkonfrontation", "Fernwirkung", "Aktenaussonderung", "EMRK", "materieller Beschuldigtenstatus"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-147.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -36,17 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 147 StPO — Im Allgemeinen**
->
-> 1 Die Parteien haben das Recht, bei Beweiserhebungen durch die Staatsanwaltschaft und die Gerichte anwesend zu sein und einvernommenen Personen Fragen zu stellen. Die Anwesenheit der Verteidigung bei polizeilichen Einvernahmen richtet sich nach Artikel 159.
->
-> 2 Wer sein Teilnahmerecht geltend macht, kann daraus keinen Anspruch auf Verschiebung der Beweiserhebung ableiten.
->
-> 3 Die Partei oder ihr Rechtsbeistand können die Wiederholung der Beweiserhebung verlangen, wenn der Rechtsbeistand oder die Partei ohne Rechtsbeistand aus zwingenden Gründen an der Teilnahme verhindert waren. Auf eine Wiederholung kann verzichtet werden, wenn sie mit unverhältnismässigem Aufwand verbunden wäre und dem Anspruch der Partei auf rechtliches Gehör, insbesondere dem Recht, Fragen zu stellen, auf andere Weise Rechnung getragen werden kann.
->
-> 4 Beweise, die in Verletzung der Bestimmungen dieses Artikels erhoben worden sind, dürfen nicht zulasten der Partei verwertet werden, die nicht anwesend war.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

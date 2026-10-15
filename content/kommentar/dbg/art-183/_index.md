@@ -2,25 +2,21 @@
 title: "Art. 183 — Verfahren bei Steuerhinterziehung"
 weight: 183
 date: 2026-07-03
-lastmod: 2026-07-03
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 183 DBG: Strafverfahren wegen Steuerhinterziehung; nemo tenetur; Beweisverwertungsverbot nach Abs. 1bis und seine Grenzen."
 tags: ["DBG", "Steuerhinterziehung", "Nemo tenetur", "Beweisverwertungsverbot", "Nachsteuerverfahren", "Art. 6 EMRK"]
 agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.11 vom 2026-09-02 (data/wortlaut/dbg/art-183.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 183 Abs. 1 DBG**: Die Einleitung eines Strafverfahrens wegen Steuerhinterziehung wird der betroffenen Person schriftlich mitgeteilt. Es wird ihr Gelegenheit gegeben, sich zu der gegen sie erhobenen Anschuldigung zu äussern; sie wird auf ihr Recht hingewiesen, die Aussage und ihre Mitwirkung zu verweigern.
->
-> **Abs. 1bis**: Beweismittel aus einem Nachsteuerverfahren dürfen in einem Strafverfahren wegen Steuerhinterziehung nur dann verwendet werden, wenn sie weder unter Androhung einer Veranlagung nach pflichtgemässem Ermessen (Art. 130 Abs. 2) mit Umkehr der Beweislast nach Artikel 132 Absatz 3 noch unter Androhung einer Busse wegen Verletzung von Verfahrenspflichten beschafft wurden.
->
-> **Abs. 2**: Die ESTV kann die Verfolgung der Steuerhinterziehung verlangen. …
->
-> **Abs. 3**: Die Straf- oder Einstellungsverfügung der kantonalen Behörde wird auch der ESTV eröffnet, wenn sie die Verfolgung verlangt hat oder am Verfahren beteiligt war.
->
-> **Abs. 4**: Die Kosten besonderer Untersuchungsmassnahmen (Buchprüfung, Gutachten Sachverständiger usw.) werden in der Regel demjenigen auferlegt, der wegen Hinterziehung bestraft wird; sie können ihm auch bei Einstellung der Untersuchung auferlegt werden, wenn er die Strafverfolgung durch schuldhaftes Verhalten verursacht oder die Untersuchung wesentlich erschwert oder verzögert hat.
-
-*(Fedlex-Stand: 2026-01-01; Abs. 1 und 1bis eingefügt bzw. gefasst durch das BG vom 20. Dezember 2006, in Kraft seit 1. Januar 2008, AS 2007 2973)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

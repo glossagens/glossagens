@@ -2,11 +2,16 @@
 title: "Art. 41 OR — Haftpflicht aus unerlaubter Handlung"
 weight: 41
 date: 2026-05-15
-lastmod: 2026-09-24
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 41 OR: Die allgemeine Verschuldenshaftung (Abs. 1) und Sittenwidrigkeitshaftung (Abs. 2) — Schaden nach der Differenzhypothese, Erfolgs- vs. Verhaltensunrecht bei reinen Vermögensschäden, Schutznormlehre, Gefahrensatz, natürliche und adäquate Kausalität samt Unterbrechung sowie Fahrlässigkeitsmassstab mit umfassender Kasuistik, Schwellenwert-Gegenüberstellungen und Praxishinweisen."
 tags: ["OR", "Haftpflichtrecht", "Deliktshaftung", "Unerlaubte Handlung", "Schadenersatz", "Widerrechtlichkeit", "Erfolgsunrecht", "Verhaltensunrecht", "Schutznorm", "Reiner Vermögensschaden", "Kausalzusammenhang", "Adäquanz", "Kausalitätsunterbrechung", "Verschulden", "Fahrlässigkeit", "Sittenwidrigkeit", "Gefahrensatz", "Vorprozessuale Anwaltskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-041.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -31,13 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 41**
->
-> 1 Wer einem andern widerrechtlich Schaden zufügt, sei es mit Absicht, sei es aus Fahrlässigkeit, wird ihm zum Ersatze verpflichtet.
->
-> 2 Ebenso ist zum Ersatze verpflichtet, wer einem andern in einer gegen die guten Sitten verstossenden Weise absichtlich Schaden zufügt.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Die beiden Haftungstatbestände auf einen Blick
 

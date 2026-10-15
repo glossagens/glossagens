@@ -2,11 +2,16 @@
 title: "Art. 56 StPO — Ausstandsgründe"
 weight: 56
 date: 2026-06-18
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 56 StPO: Ausstandsgründe bei Strafbehörden (Richter, Staatsanwaltschaft, Polizei, Sachverständige). Systematische Prüfung der Tatbestände (persönliches Interesse, Vorbefassung, Verwandtschaft, Generalklausel der Befangenheit) mit umfangreicher Grenzkasuistik, Schwellenwert-Gegenüberstellungen und Handlungsanweisungen für die Praxis."
 tags: ["StPO", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteiischer Richter", "Staatsanwaltschaft", "Polizei", "Sachverständige", "Mehrfachbefassung", "Verwirkungsfrist"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,24 +26,10 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 56 StPO — Ausstandsgründe**
->
-> Eine in einer Strafbehörde tätige Person tritt in den Ausstand, wenn sie:
->
-> a. in der Sache ein persönliches Interesse hat;
->
-> b. in einer anderen Stellung, insbesondere als Mitglied einer Behörde, als Rechtsbeistand einer Partei, als Sachverständige oder Sachverständiger, als Zeugin oder Zeuge, in der gleichen Sache tätig war;
->
-> c. mit einer Partei, ihrem Rechtsbeistand oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, verheiratet ist, in eingetragener Partnerschaft lebt oder eine faktische Lebensgemeinschaft führt;
->
-> d. mit einer Partei in gerader Linie oder in der Seitenlinie bis und mit dem dritten Grad verwandt oder verschwägert ist;
->
-> e. mit dem Rechtsbeistand einer Partei oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, in gerader Linie oder in der Seitenlinie bis und mit dem zweiten Grad verwandt oder verschwägert ist;
->
-> f. aus anderen Gründen, insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder deren Rechtsbeistand, befangen sein könnte.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Die Bestimmung ist seit Inkrafttreten der Schweizerischen Strafprozessordnung am 1. Januar 2011 unverändert in Kraft.*
+*Die Bestimmung ist seit Inkrafttreten der Schweizerischen Strafprozessordnung am 1. Januar 2011 unverändert in Kraft.*
+
 
 ---
 

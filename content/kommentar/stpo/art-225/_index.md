@@ -2,11 +2,16 @@
 title: "Art. 225 StPO — Haftverfahren vor dem Zwangsmassnahmengericht"
 weight: 225
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 225 StPO – Haftverfahren vor dem Zwangsmassnahmengericht: Nicht öffentliche Verhandlung, Akteneinsicht (Abs. 2), Beweiserhebung (Abs. 4) und Verzicht auf mündliche Anhörung (Abs. 5)."
 tags: ["StPO", "Zwangsmassnahmengericht", "Untersuchungshaft", "Haftverhandlung", "Akteneinsicht", "rechtliches Gehör", "Verteidigung", "Beweiserhebung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-225.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 225 StPO — Haftverfahren vor dem Zwangsmassnahmengericht**
->
-> **1** Das Zwangsmassnahmengericht setzt nach Eingang des Antrags der Staatsanwaltschaft unverzüglich eine nicht öffentliche Verhandlung mit der Staatsanwaltschaft, der beschuldigten Person und deren Verteidigung an; es kann die Staatsanwaltschaft verpflichten, daran teilzunehmen.
->
-> **2** Es gewährt der beschuldigten Person und der Verteidigung auf Verlangen vorgängig Einsicht in die ihm vorliegenden Akten.
->
-> **3** Wer der Verhandlung berechtigterweise fern bleibt, kann Anträge schriftlich einreichen oder auf frühere Eingaben verweisen.
->
-> **4** Das Zwangsmassnahmengericht erhebt die sofort verfügbaren Beweise, die geeignet sind, den Tatverdacht oder die Haftgründe zu erhärten oder zu entkräften.
->
-> **5** Verzichtet die beschuldigte Person ausdrücklich auf eine Verhandlung, so kann das Zwangsmassnahmengericht in einem schriftlichen Verfahren aufgrund des Antrags der Staatsanwaltschaft und der Eingaben der beschuldigten Person entscheiden.
+{{< wortlaut >}}
 
 ---
 

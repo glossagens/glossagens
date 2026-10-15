@@ -2,11 +2,16 @@
 title: "Art. 181 — Nötigung"
 weight: 181
 date: 2026-07-17
-lastmod: 2026-10-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 181 StGB entlang der Tatbestandsmerkmale: die drei Nötigungsmittel (Gewalt, Androhung ernstlicher Nachteile, Auffangtatbestand), Nötigungserfolg und Kausalität, Vorsatz, die positiv zu begründende Rechtswidrigkeit (Zweck-Mittel-Relation) und die Rechtfertigungsgründe. Mit zweiseitiger Grenzkasuistik je Merkmal zu Schikanestopps, Drohungen mit Strafanzeige oder Betreibung, Protestblockaden, Stalking und Suiziddrohungen."
 tags: ["StGB", "Nötigung", "Handlungsfreiheit", "Nötigungsmittel", "Gewalt", "Androhung ernstlicher Nachteile", "Strassenverkehr", "Schikanestopp", "Strafanzeige", "Betreibung", "Klimakleber", "Strassenblockade", "Stalking", "Zweck-Mittel-Relation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-181.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -31,11 +36,10 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 181 Nötigung**
->
-> Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere Beschränkung seiner Handlungsfreiheit nötigt, etwas zu tun, zu unterlassen oder zu dulden, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+{{< wortlaut >}}
 
-*Quelle: Fedlex (SR 311.0), Stand der Konsolidierung 12. Juni 2026. Der frühere Abs. 2 (strafbare Nötigung zur Eheschliessung oder eingetragenen Partnerschaft) wurde per 1. Juli 2013 aufgehoben und durch den eigenständigen Tatbestand von Art. 181a StGB ersetzt (AS 2013 1035).*
+*Der frühere Abs. 2 (strafbare Nötigung zur Eheschliessung oder eingetragenen Partnerschaft) wurde per 1. Juli 2013 aufgehoben und durch den eigenständigen Tatbestand von Art. 181a StGB ersetzt (AS 2013 1035).*
+
 
 ---
 

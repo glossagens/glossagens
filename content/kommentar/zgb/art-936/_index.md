@@ -2,11 +2,16 @@
 title: "Art. 936 ZGB — Bösgläubiger Erwerb (Herausgabe jederzeit)"
 weight: 936
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 936 ZGB — Bösgläubigkeit beim Fahrniserwerb: Herausgabe jederzeit bei fehlendem gutem Glauben (Bösgläubigkeit oder Unaufmerksamkeit/Fahrlässigkeit), Bösgläubigkeit des früheren Besitzers als nemo plus iuris-Schranke (Abs. 2), nachträgliche Bösgläubigkeit, Besitzesrechtsklage und Beweislast, Branchenvertrautheit (Occasionswagen, Antiquitäten, Kunst), Schadenersatz nach Art. 940 ZGB, Verhältnis zu Art. 933/934/935/728 und zur Hehlerei (Art. 144 StGB) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Bösgläubigkeit", "guter Glaube", "Herausgabe", "Besitzesrechtsklage", "nemo plus iuris", "Ersitzung", "Branchenvertrautheit", "Schadenersatz", "Hehlerei", "Kulturgüter"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-936.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,13 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 936 ZGB**
->
-> 1. Wer den Besitz einer beweglichen Sache nicht in gutem Glauben erworben hat, kann von dem früheren Besitzer jederzeit auf Herausgabe belangt werden.
-> 2. Hatte jedoch auch der frühere Besitzer nicht in gutem Glauben erworben, so kann er einem spätern Besitzer die Sache nicht abfordern.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 936 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die Besitzesregel der **Bösgläubigkeit** und das gemeinsame Gegenstück zu den Schutznormen der Art. 933 (anvertraute Sache), 934 (abhandengekommene Sache) und 935 (Geld und Inhaberpapiere): wer den Besitz einer beweglichen Sache **nicht in gutem Glauben** erworben hat — sei es, dass er bösgläubig war oder dass er die nach den Umständen gebotene Aufmerksamkeit (Art. 3 Abs. 2 ZGB) vermissen liess —, kann von dem früheren Besitzer **jederzeit** auf Herausgabe belangt werden, ungeachtet der Erwerbskategorie. Absatz 2 fügt die *nemo plus iuris*-Schranke hinzu: hatte auch der frühere Besitzer nicht in gutem Glauben erworben, so kann er einem späteren Besitzer die Sache nicht abfordern. Eine digital verfügbare Botschaft zu Art. 936 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 936 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Die Bestimmung ist die Besitzesregel der **Bösgläubigkeit** und das gemeinsame Gegenstück zu den Schutznormen der Art. 933 (anvertraute Sache), 934 (abhandengekommene Sache) und 935 (Geld und Inhaberpapiere): wer den Besitz einer beweglichen Sache **nicht in gutem Glauben** erworben hat — sei es, dass er bösgläubig war oder dass er die nach den Umständen gebotene Aufmerksamkeit (Art. 3 Abs. 2 ZGB) vermissen liess —, kann von dem früheren Besitzer **jederzeit** auf Herausgabe belangt werden, ungeachtet der Erwerbskategorie. Absatz 2 fügt die *nemo plus iuris*-Schranke hinzu: hatte auch der frühere Besitzer nicht in gutem Glauben erworben, so kann er einem späteren Besitzer die Sache nicht abfordern. Eine digital verfügbare Botschaft zu Art. 936 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

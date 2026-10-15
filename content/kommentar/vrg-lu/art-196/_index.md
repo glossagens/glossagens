@@ -2,17 +2,21 @@
 title: "§ 196 — Kostenvorschuss für Beweiskosten"
 weight: 196
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 196 VRG LU – Kostenvorschuss für kostspielige Beweisvorkehren"
 tags: ["VRG", "Kosten", "Beweiskosten", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-196.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die Behörde kann von der interessierten Partei, die im Falle eines ihr ungünstigen Entscheides voraussichtlich kostenpflichtig würde, für kostspielige Beweisvorkehren, namentlich Gutachten, einen angemessenen Kostenvorschuss verlangen.
->
-> 2 Wenn die Partei den Vorschuss trotz Androhung der Folgen innert eingeräumter Frist nicht leistet, ist die Beweisvorkehr nur durchzuführen, soweit das öffentliche Interesse es erfordert.
+{{< wortlaut >}}
 
 ## Kommentierung
 

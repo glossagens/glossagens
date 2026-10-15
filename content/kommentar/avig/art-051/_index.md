@@ -2,27 +2,21 @@
 title: "Art. 51 — Anspruchsvoraussetzungen (Insolvenzentschädigung)"
 weight: 51
 date: 2026-07-17
-lastmod: "2026-09-12"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 51 AVIG: Anspruchsvoraussetzungen der Insolvenzentschädigung bei Konkurs, offensichtlicher Überschuldung oder Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer."
 tags: ["AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung", "Arbeitgeberinsolvenz"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-051.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 88 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 51 — Anspruchsvoraussetzungen**
->
-> **1** Beitragspflichtige Arbeitnehmer von Arbeitgebern, die in der Schweiz der Zwangsvollstreckung unterliegen oder in der Schweiz Arbeitnehmer beschäftigen, haben Anspruch auf Insolvenzentschädigung, wenn:
->
-> a. gegen ihren Arbeitgeber der Konkurs eröffnet wird und ihnen in diesem Zeitpunkt Lohnforderungen zustehen oder
->
-> b. *Eingefügt durch Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 (AS 1991 2125; BBl 1989 III 377).* der Konkurs nur deswegen nicht eröffnet wird, weil sich infolge offensichtlicher Überschuldung des Arbeitgebers kein Gläubiger bereit findet, die Kosten vorzuschiessen, oder
->
-> c. *Ursprünglich Bst. b.* sie gegen ihren Arbeitgeber für Lohnforderungen das Pfändungsbegehren gestellt haben.
->
-> **2** Keinen Anspruch auf Insolvenzentschädigung haben Personen, die in ihrer Eigenschaft als Gesellschafter, als finanziell am Betrieb Beteiligte oder als Mitglieder eines obersten betrieblichen Entscheidungsgremiums die Entscheidungen des Arbeitgebers bestimmen oder massgeblich beeinflussen können, sowie ihre mitarbeitenden Ehegatten. *Eingefügt durch Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 (AS 1996 273; BBl 1994 I 340).*
-
-*(Fedlex-Stand: 2026-01-01)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

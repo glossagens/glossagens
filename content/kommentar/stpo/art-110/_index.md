@@ -2,11 +2,16 @@
 title: "Art. 110 StPO — Form"
 weight: 110
 date: 2026-09-02
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 110 StPO: Schriftlichkeit und eigenhändige Unterschrift, elektronische Eingabe mit qualifizierter Signatur, Formfreiheit im Übrigen sowie Rückweisung unleserlicher, unverständlicher, ungebührlicher oder weitschweifiger Eingaben — mit der Kasuistik der Gerichte zu jeder Fallgruppe und der analogen Geltung für Gesuche der Staatsanwaltschaft."
 tags: ["StPO", "Form", "Eingaben", "Unterschrift", "Elektronische Eingabe", "Qualifizierte elektronische Signatur", "Entsiegelung", "Ungebührlichkeit", "Weitschweifigkeit", "Überspitzter Formalismus", "Nachfrist"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Prototyp Fedlex-Satzbild): Text unverändert, jetzt direkt aus dem HTML der Fedlex-Konsolidierung vom 1. April 2025 (data/wortlaut/stpo/art-110.json, scripts/wortlaut.py), inkl. Fussnoten 52/53. Kommentartext und Entscheide unverändert (verifiziert gemäss Revision vom 2026-09-12)."
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
@@ -26,23 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 110 StPO — Form**
->
-> 1 Eingaben können schriftlich eingereicht oder mündlich zu Protokoll gegeben werden. Schriftliche Eingaben sind zu datieren und zu unterzeichnen.
->
-> 2 Bei elektronischer Einreichung muss die Eingabe mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur versehen werden. Der Bundesrat regelt:
->
-> a. das Format der Eingabe und ihrer Beilagen;
->
-> b. die Art und Weise der Übermittlung;
->
-> c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
->
-> 3 Im Übrigen sind Verfahrenshandlungen an keine Formvorschriften gebunden, soweit dieses Gesetz nichts Abweichendes bestimmt.
->
-> 4 Die Verfahrensleitung kann unleserliche, unverständliche, ungebührliche oder weitschweifige Eingaben zurückweisen; sie setzt eine Frist zur Überarbeitung und weist darauf hin, dass die Eingabe, falls sie nicht überarbeitet wird, unbeachtet bleibt.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 2 in der Fassung gemäss Anhang Ziff. II 7 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Januar 2017 (AS 2016 4651).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "§ 156 — Ermessenskontrolle"
 weight: 156
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu § 156 VRG (Luzern): Ermessenskontrolle im Verwaltungsgerichtsbeschwerdeverfahren, Verhältnis zur unbeschränkten und beschränkten Überprüfung, massgebende Verhältnisse und Bindung an Parteianträge, mit der Kasuistik der Luzerner Gerichte zu Ermessensfehlern und verwaltungsgerichtlicher Zurückhaltung."
 tags: ["VRG", "Luzern", "Ermessenskontrolle", "Verwaltungsgerichtsbeschwerde", "Ermessen", "Kognition", "Beschwerdegründe"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-156.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **§ 156 1. Ermessenskontrolle**
->
-> 1 Soweit dieses Gesetz oder andere Erlasse es vorsehen, kann der Beschwerdeführer mit der Verwaltungsgerichtsbeschwerde auch die unrichtige Handhabung des Ermessens rügen.
->
-> 2 In Beschwerdefällen mit Ermessenskontrolle gelten an Stelle der §§ 152–155 die §§ 144–147.
-
-*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

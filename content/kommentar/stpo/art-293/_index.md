@@ -2,11 +2,16 @@
 title: "Art. 293 — Mass der zulässigen Einwirkung"
 weight: 293
 date: 2026-07-10
-lastmod: "2026-09-24"
+lastmod: 2026-10-15
 description: "Praxisorientierter Gesetzeskommentar zu Art. 293 StPO – Mass der zulässigen Einwirkung verdeckter Ermittlerinnen und Ermittler; Grenzen der Tatprovokation, agent provocateur-Verbot, Mehrmengenprovokation, Konventionswiderspruch EGMR vs. Abs. 4 und Beweisverwertungsverbote."
 tags: ["StPO", "verdeckte Ermittlung", "agent provocateur", "Tatprovokation", "Mehrmengenprovokation", "Beweisverwertungsverbot", "Strafzumessung", "Selbstbelastungsfreiheit", "EMRK"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-293.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,16 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 293 StPO — Mass der zulässigen Einwirkung**
->
-> **1** Verdeckte Ermittlerinnen und Ermittler dürfen keine allgemeine Tatbereitschaft wecken und die Tatbereitschaft nicht auf schwerere Straftaten lenken. Sie haben sich auf die Konkretisierung eines vorhandenen Tatentschlusses zu beschränken.
->
-> **2** Ihre Tätigkeit darf für den Entschluss zu einer konkreten Straftat nur von untergeordneter Bedeutung sein.
->
-> **3** Wenn erforderlich, dürfen sie zur Anbahnung des Hauptgeschäftes Probekäufe tätigen oder ihre wirtschaftliche Leistungsfähigkeit dokumentieren.
->
-> **4** Überschreitet eine verdeckte Ermittlerin oder ein verdeckter Ermittler das Mass der zulässigen Einwirkung, so ist dies bei der Zumessung der Strafe für die beeinflusste Person gebührend zu berücksichtigen, oder es ist von einer Strafe abzusehen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

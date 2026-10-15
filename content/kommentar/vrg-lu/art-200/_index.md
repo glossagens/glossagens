@@ -2,17 +2,21 @@
 title: "§ 200 — Kostenfreiheit und -ermässigung"
 weight: 200
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 200 VRG LU – Kostenfreiheit und -ermässigung: Ermessensermässigung bei fehlendem wirtschaftlichem Interesse und Teilunterliegen"
 tags: ["VRG", "Kosten", "Kostenfreiheit", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-200.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die Behörde kann, abweichend von den §§ 198 und 199, die amtlichen Kosten ermässigen oder auf die Kostenauflage verzichten, wenn die Parteien an der Streitsache nicht wirtschaftlich interessiert sind oder wenn besondere Gründe, insbesondere das öffentliche Interesse an einer Abklärung der Streitfrage, dies rechtfertigen.
->
-> 2 Wenn eine kostenpflichtige Partei nur teilweise unterliegt, werden die amtlichen Kosten angemessen herabgesetzt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

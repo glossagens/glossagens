@@ -2,11 +2,16 @@
 title: "Art. 328 ZGB — Verwandtenunterstützung"
 weight: 328
 date: 2026-08-01
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 328 ZGB: Gesetzliche Verwandtenunterstützungspflicht bei günstigen Verhältnissen, Wohlstandsschwelle, Alterssicherung und Pflegefallrückstellungen, Subsidiarität zur Ehegatten- und Elternunterhaltspflicht, Begriff der Notlage, Abgrenzung zur Sozialhilfe, Subrogation des Gemeinwesens und Verfahrensart im ordentlichen Zivilprozess."
 tags: ["ZGB", "Verwandtenunterstützung", "Unterhaltspflicht", "Notlage", "Günstige Verhältnisse", "Wohlstandsschwelle", "Alterssicherung", "Pflegeheimkosten", "Subrogation", "Sozialhilfe", "Ordentliches Verfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-328.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,13 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 328 ZGB — Verwandtenunterstützung**
->
-> **1** Wer in günstigen Verhältnissen lebt, ist verpflichtet, Verwandte in auf- und absteigender Linie zu unterstützen, die ohne diesen Beistand in Not geraten würden.
->
-> **2** Die Unterhaltspflicht der Eltern und des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners bleibt vorbehalten.
+{{< wortlaut >}}
 
-*Quelle: [Fedlex (SR 210, Art. 328)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_328), Fassung von Abs. 1 gemäss BG vom 26. Juni 1998, in Kraft seit 1. Januar 2000 (AS 1999 1118; BBl 1996 I 1); Abs. 2 in der Fassung gemäss Partnerschaftsgesetz vom 18. Juni 2004, in Kraft seit 1. Januar 2007 (AS 2005 5685; BBl 2003 1288).*
 
 ---
 

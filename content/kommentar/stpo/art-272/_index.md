@@ -2,11 +2,16 @@
 title: "Art. 272 StPO — Genehmigungspflicht und Rahmenbewilligung"
 weight: 272
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 272 StPO: Genehmigungspflicht der Überwachung des Post- und Fernmeldeverkehrs durch das Zwangsmassnahmengericht, analoge Erstreckung auf technische Überwachungsgeräte und Randdaten, Rahmenbewilligung bei raschem Wechsel des Fernmeldedienstes, Schutz von Berufsgeheimnissen sowie Folgen unterlassener oder verspäteter Genehmigung."
 tags: ["StPO", "Zwangsmassnahmen", "Überwachung", "Fernmeldeverkehr", "Genehmigungspflicht", "Zwangsmassnahmengericht", "Rahmenbewilligung", "Berufsgeheimnis", "Beweisverwertungsverbot", "IMSI-Catcher"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-272.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,15 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 272 StPO — Genehmigungspflicht und Rahmenbewilligung**
->
-> 1 Die Überwachung des Post- und des Fernmeldeverkehrs bedarf der Genehmigung durch das Zwangsmassnahmengericht.
->
-> 2 Ergeben die Ermittlungen, dass die zu überwachende Person in rascher Folge den Fernmeldedienst wechselt, so kann das Zwangsmassnahmengericht ausnahmsweise die Überwachung aller identifizierten Dienste bewilligen, über welche die zu überwachende Person ihren Fernmeldeverkehr abwickelt, ohne dass jedes Mal eine Genehmigung im Einzelfall nötig ist (Rahmenbewilligung). Die Staatsanwaltschaft unterbreitet dem Zwangsmassnahmengericht monatlich und nach Abschluss der Überwachung einen Bericht zur Genehmigung.
->
-> 3 Erfordert die Überwachung eines Dienstes im Rahmen einer Rahmenbewilligung Vorkehren zum Schutz von Berufsgeheimnissen und sind die Vorkehren in der Rahmenbewilligung nicht enthalten, so ist diese einzelne Überwachung dem Zwangsmassnahmengericht zur Genehmigung zu unterbreiten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 2 und 3 in der Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF), in Kraft seit 1. März 2018 ([AS 2018 117](https://www.fedlex.admin.ch/eli/oc/2018/117/de); [BBl 2013 2683](https://www.fedlex.admin.ch/eli/fga/2013/678/de)).*
 
 ---
 

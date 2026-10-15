@@ -2,11 +2,16 @@
 title: "Art. 314b ZGB — Fürsorgerische Unterbringung von Kindern"
 weight: 314
 date: "2026-05-10"
-lastmod: "2026-08-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 314b ZGB – Fürsorgerische Unterbringung von Kindern in geschlossenen Einrichtungen und psychiatrischen Kliniken."
 tags: ["ZGB", "Kindesschutz", "fürsorgerische Unterbringung", "Erwachsenenschutz"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-314b.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 314b ZGB — Fürsorgerische Unterbringung von Kindern**
->
-> ^1 Muss das Kind in einer geschlossenen Einrichtung oder in einer psychiatrischen Klinik untergebracht werden, so sind die Bestimmungen des Erwachsenenschutzes über die fürsorgerische Unterbringung sinngemäss anwendbar.
->
-> ^2 Ist das Kind urteilsfähig, so kann es selber das Gericht anrufen.
+{{< wortlaut >}}
 
 ---
 

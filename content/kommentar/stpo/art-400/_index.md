@@ -2,11 +2,16 @@
 title: "Art. 400 StPO — Vorprüfung der Berufung"
 weight: 400
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 400 StPO – Vorprüfung der Berufung: Verdeutlichung unklarer Berufungserklärungen (Abs. 1), Zustellung an die Gegenparteien (Abs. 2), Nichteintretensanträge und Anschlussberufung (Abs. 3)."
 tags: ["StPO", "Berufung", "Vorprüfung", "Verdeutlichung", "Anschlussberufung", "Nichteintreten", "Fristen", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-400.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 400 StPO — Vorprüfung**
->
-> **1** Geht aus der Berufungserklärung nicht eindeutig hervor, ob das erstinstanzliche Urteil ganz oder nur in Teilen angefochten wird, so fordert die Verfahrensleitung des Berufungsgerichts die Partei auf, ihre Erklärung zu verdeutlichen, und setzt ihr dafür eine Frist.
->
-> **2** Die Verfahrensleitung übermittelt den anderen Parteien unverzüglich eine Kopie der Berufungserklärung.
->
-> **3** Die anderen Parteien können innert 20 Tagen seit Empfang der Berufungserklärung schriftlich:
->
-> a. Nichteintreten beantragen; der Antrag muss begründet sein;
->
-> b. Anschlussberufung erklären.
+{{< wortlaut >}}
 
 ---
 

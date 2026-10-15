@@ -2,11 +2,16 @@
 title: "Art. 421 StPO — Kostenentscheid"
 weight: 421
 date: 2026-10-04
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 421 StPO: Zeitpunkt und Zuständigkeit des Kostenentscheids — Grundsatz der Festlegung im Endentscheid (Abs. 1), Ausnahmen der Vorwegnahme in Zwischenentscheiden, Teileinstellungen und Rechtsmittelentscheiden (Abs. 2), Erstreckung auf Entschädigungen (Art. 429 ff. StPO), Kostenvorbehalt bei offenen Auslagen (Art. 83 StPO) und Kasuistik zu Akontozahlungen amtlicher Verteidiger."
 tags: ["StPO", "Kostenentscheid", "Endentscheid", "Zwischenentscheid", "Teileinstellung", "Akontozahlung", "Amtliche Verteidigung", "Rechtsmittelentscheid", "Kostenvorbehalt", "Entschädigung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-421.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,19 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 421 StPO — Kostenentscheid**
->
-> 1 Die Strafbehörde legt im Endentscheid die Kostenfolgen fest.
->
-> 2 Sie kann diese Festlegung vorwegnehmen in:
->
-> a. Zwischenentscheiden;
->
-> b. Entscheiden über die teilweise Einstellung des Verfahrens;
->
-> c. Entscheiden über Rechtsmittel gegen Zwischen- und Einstellungsentscheide.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

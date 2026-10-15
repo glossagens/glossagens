@@ -2,11 +2,16 @@
 title: "Art. 89 — Beschwerderecht"
 weight: 89
 date: 2026-05-31
-lastmod: "2026-09-25"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 89 BGG – Beschwerderecht in öffentlich-rechtlichen Angelegenheiten"
 tags: ["BGG", "Beschwerderecht", "Beschwerdelegitimation", "öffentlich-rechtliche Angelegenheiten", "Nachbargemeinden", "Verbandsbeschwerde", "NHG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-089.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -20,16 +25,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 Zur Beschwerde in öffentlich-rechtlichen Angelegenheiten ist berechtigt, wer:
-> a. vor der Vorinstanz am Verfahren teilgenommen hat oder keine Möglichkeit zur Teilnahme erhalten hat;
-> b. durch den angefochtenen Entscheid oder Erlass besonders berührt ist; und
-> c. ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
-> 2 Zur Beschwerde sind ferner berechtigt:
-> a. die Bundeskanzlei, die Departemente des Bundes oder, soweit das Bundesrecht es vorsieht, die ihnen unterstellten Dienststellen, wenn der angefochtene Akt die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann;
-> b. das zuständige Organ der Bundesversammlung auf dem Gebiet des Arbeitsverhältnisses des Bundespersonals;
-> c. Gemeinden und andere öffentlich-rechtliche Körperschaften, wenn sie die Verletzung von Garantien rügen, die ihnen die Kantons- oder Bundesverfassung gewährt;
-> d. Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt.
-> 3 In Stimmrechtssachen (Art. 82 Bst. c) steht das Beschwerderecht ausserdem jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist.
+{{< wortlaut >}}
 
 ## Kommentierung
 

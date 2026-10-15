@@ -2,11 +2,16 @@
 title: "Art. 16 ATSG — Grad der Invalidität"
 weight: 16
 date: 2026-06-02
-lastmod: 2026-08-31
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 16 ATSG: Allgemeine Methode der Invaliditätsbemessung, Einkommensvergleich, Valideneinkommen, Invalideneinkommen, LSE-Tabellenlöhne, Abzüge und Parallelisierung."
 tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicherungsrecht", "Invalidenversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-016.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -21,10 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 16 — Bemessung des Invaliditätsgrades**
->
-> Für die Bestimmung des Invaliditätsgrades wird das Erwerbseinkommen, das die versicherte Person nach Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung gesetzt zum Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid geworden wäre.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

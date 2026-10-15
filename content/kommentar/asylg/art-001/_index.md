@@ -2,19 +2,21 @@
 title: "Art. 1 — Gegenstand"
 weight: 1
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 1 AsylG — Gegenstand des Asylgesetzes: Asylgewährung, Rechtsstellung der Flüchtlinge und vorübergehender Schutz"
 tags: ["AsylG", "Asylgewährung", "Flüchtlingseigenschaft", "Vorübergehender Schutz", "Genfer Flüchtlingskonvention"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-001.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 1 AsylG — Gegenstand**
->
-> Dieses Gesetz regelt:
-> a. die Asylgewährung und die Rechtsstellung der Flüchtlinge in der Schweiz;
-> b. den vorübergehenden Schutz von Schutzbedürftigen in der Schweiz und deren Rückkehr.
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

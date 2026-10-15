@@ -2,11 +2,16 @@
 title: "Art. 356 — Verfahren vor dem erstinstanzlichen Gericht"
 weight: 356
 date: "2026-06-27"
-lastmod: "2026-08-20"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht nach Einsprache: Überweisung, Gültigkeitsprüfung, Rückzug, Säumnisfiktion, Ungültigkeit, schriftliches Nebenfolgenverfahren, Konnexität"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Gerichtsverfahren", "Säumnisfiktion", "Anklageschrift", "Rückzug", "Konnexität", "EGMR"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-356.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-20"
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -26,23 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht**
->
-> **1** Entschliesst sich die Staatsanwaltschaft, am Strafbefehl festzuhalten, so überweist sie die Akten unverzüglich dem erstinstanzlichen Gericht zur Durchführung des Hauptverfahrens. Der Strafbefehl gilt als Anklageschrift.
->
-> **2** Das erstinstanzliche Gericht entscheidet über die Gültigkeit des Strafbefehls und der Einsprache.
->
-> **3** Die Einsprache kann bis zum Abschluss der Parteivorträge zurückgezogen werden.
->
-> **4** Bleibt die Einsprache erhebende Person der Hauptverhandlung unentschuldigt fern und lässt sie sich auch nicht vertreten, so gilt ihre Einsprache als zurückgezogen.
->
-> **5** Ist der Strafbefehl ungültig, so hebt das Gericht ihn auf und weist den Fall zur Durchführung eines neuen Vorverfahrens an die Staatsanwaltschaft zurück.
->
-> **6** Bezieht sich die Einsprache nur auf die Kosten und Entschädigungen oder weitere Nebenfolgen, so entscheidet das Gericht in einem schriftlichen Verfahren, es sei denn, die Einsprache erhebende Person verlange ausdrücklich eine Verhandlung.
->
-> **7** Sind gegen mehrere Personen Strafbefehle erlassen worden, die sich auf den gleichen Sachverhalt beziehen, so ist Artikel 392 sinngemäss anwendbar.
-
-*Quelle: Fedlex (SR 312.0), Stand 1.4.2025.*
+{{< wortlaut >}}
 
 ## Vorbemerkungen und Systematik
 

@@ -2,11 +2,16 @@
 title: "Art. 420 StPO — Rückgriff"
 weight: 420
 date: 2026-10-04
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 420 StPO: Rückgriff des Bundes oder des Kantons für Verfahrenskosten und Entschädigungen bei vorsätzlicher oder grobfahrlässiger Verfahrenseinleitung (lit. a), erheblicher Erschwerung (lit. b) oder Herbeiführung eines im Revisionsverfahren aufgehobenen Entscheids (lit. c) — mit systematischer Abgrenzung zu Art. 426 Abs. 2 und Art. 427 StPO, Verfahrensweg und umfassender Kasuistik."
 tags: ["StPO", "Kosten", "Rückgriff", "Regress", "Verfahrenskosten", "Entschädigung", "Genugtuung", "Falschbeschuldigung", "Grobfahrlässigkeit", "Prozessuales Verschulden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-420.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 70 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -16,17 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 420 StPO — Rückgriff**
->
-> Der Bund oder der Kanton kann auf Personen Rückgriff nehmen, die:
->
-> a. vorsätzlich oder grobfahrlässig die Einleitung des Verfahrens bewirkt haben;
->
-> b. das Verfahren vorsätzlich oder grobfahrlässig erheblich erschwert haben;
->
-> c. vorsätzlich oder grobfahrlässig einen Entscheid herbeigeführt haben, der in einem Revisionsverfahren aufgehoben worden ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

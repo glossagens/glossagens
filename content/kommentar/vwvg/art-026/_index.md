@@ -2,11 +2,16 @@
 title: "Art. 26 — Akteneinsicht"
 weight: 26
 date: 2026-06-28
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 26 VwVG – Anspruch der Partei auf Akteneinsicht im Verwaltungsverfahren"
 tags: ["VwVG", "Akteneinsicht", "Verwaltungsverfahren", "rechtliches Gehör", "Akten", "Verfahrensrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-026.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,18 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 26 — Akteneinsicht**
->
-> 1 Die Partei oder ihr Vertreter hat Anspruch darauf, in ihrer Sache folgende Akten am Sitze der verfügenden oder einer durch diese zu bezeichnenden kantonalen Behörde einzusehen:
-> a. Eingaben von Parteien und Vernehmlassungen von Behörden;
-> b. alle als Beweismittel dienenden Aktenstücke;
-> c. Niederschriften eröffneter Verfügungen.
->
-> 1bis Die Behörde kann die Aktenstücke auf elektronischem Weg zur Einsichtnahme zustellen, wenn die Partei oder ihr Vertreter damit einverstanden ist.
->
-> 2 Die verfügende Behörde kann eine Gebühr für die Einsichtnahme in die Akten einer erledigten Sache beziehen; der Bundesrat regelt die Bemessung der Gebühr.
->
-> *Abs. 1bis eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 (AS 2006 2197 1069; BBl 2001 4202).*
+{{< wortlaut >}}
 
 ## Kommentierung
 

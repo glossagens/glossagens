@@ -2,11 +2,16 @@
 title: "Art. 715 ZGB — Eigentumsvorbehalt an Fahrnis (Publizität)"
 weight: 715
 date: "2026-09-13"
-lastmod: "2026-09-13"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 715 ZGB — Publizitätsgrundsatz für den Eigentumsvorbehalt an beweglichen Sachen: Eintragung im Register des Betreibungsbeamten am Wohnort des Erwerbers (Wirksamkeitserfordernis), Ort der Eintragung (Wohnsitz, AG-Sitz, Wohnsitzwechsel), Zeitpunkt (Eintragung nach Übergabe/Rückfall, nicht nach Konkurseröffnung), Inhalt (nur Gegenleistung, Faustpfandprinzip), formelle Prüfung und einseitige Anmeldung, ausländischer Eigentumsvorbehalt, Konkurs des Erwerbers (Aussonderung), Viehhandel (Abs. 2) und Verhältnis zu Art. 714, 933, 716 ZGB mit Kasuistik aus Bundesgericht und kantonaler Aufsichtspraxis."
 tags: ["ZGB", "Sachenrecht", "Eigentumsvorbehalt", "Publizitätsprinzip", "Eigentumsvorbehaltsregister", "Konkurs", "Aussonderung", "Wohnsitz", "Faustpfandprinzip", "Veruntreuung", "Abzahlungsvertrag", "Viehhandel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-715.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
@@ -16,13 +21,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 715 ZGB**
->
-> 1. Der Vorbehalt des Eigentums an einer dem Erwerber übertragenen beweglichen Sache ist nur dann wirksam, wenn er an dessen jeweiligem Wohnort in einem vom Betreibungsbeamten zu führenden öffentlichen Register eingetragen ist.
-> 2. Beim Viehhandel ist jeder Eigentumsvorbehalt ausgeschlossen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026 (in dieser Session im Rahmen des Kommentars zu Art. 933 ZGB verifiziert). Art. 715 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Absatz 1 statuiert den Publizitätsgrundsatz für den Eigentumsvorbehalt an Fahrnis: der Vorbehalt ist nur wirksam, wenn er im Register des Betreibungsbeamten am jeweiligen Wohnort des Erwerbers eingetragen ist. Absatz 2 schliesst den Eigentumsvorbehalt beim Viehhandel kategorisch aus. Eine digital verfügbare Botschaft zu Art. 715 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Juli 2026 (in dieser Session im Rahmen des Kommentars zu Art. 933 ZGB verifiziert). Art. 715 ZGB geht auf das ZGB von 1907 zurück; der Wortlaut ist seitdem unverändert. Absatz 1 statuiert den Publizitätsgrundsatz für den Eigentumsvorbehalt an Fahrnis: der Vorbehalt ist nur wirksam, wenn er im Register des Betreibungsbeamten am jeweiligen Wohnort des Erwerbers eingetragen ist. Absatz 2 schliesst den Eigentumsvorbehalt beim Viehhandel kategorisch aus. Eine digital verfügbare Botschaft zu Art. 715 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

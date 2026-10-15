@@ -2,11 +2,16 @@
 title: "Art. 115 StPO — Begriff der geschädigten Person"
 weight: 115
 date: 2026-07-10
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 115 StPO entlang der Tatbestandsmerkmale: Schutzzweck der verletzten Strafnorm (Rechtsgutstheorie), Trägerschaft des geschützten Rechtsguts, Unmittelbarkeit der Verletzung und Abgrenzung zum Reflexschaden, Zurechnung bei Rechtsnachfolge (Zession, Legalzession, Art. 260 SchKG), die Strafantragsfiktion von Abs. 2 sowie die Substanziierungslast. Mit merkmalsbezogener Grenzkasuistik, Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Geschädigte Person", "Rechtsgutstheorie", "Privatklägerschaft", "Reflexschaden", "Kollektivdelikte", "Urkundendelikte", "Konkursdelikte", "Strafantrag", "Abtretung", "Zession", "Legitimation", "Parteirechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -31,13 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 115 StPO — Begriff**
->
-> 1 Als geschädigte Person gilt die Person, die durch die Straftat in ihren Rechten unmittelbar verletzt worden ist.
->
-> 2 Die zur Stellung eines Strafantrags berechtigte Person gilt in jedem Fall als geschädigte Person.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. In Kraft seit 1. Januar 2011 (AS 2010 1881; BBl 2006 1085).*
 
 ---
 

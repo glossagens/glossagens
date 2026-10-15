@@ -2,11 +2,16 @@
 title: "Art. 319 ZPO — Anfechtungsobjekt (Beschwerde)"
 weight: 319
 date: 2026-07-18
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 319 ZPO: Anfechtungsobjekt der Beschwerde — nicht berufungsfähige Endentscheide, Zwischenentscheide, prozessleitende Verfügungen, Rechtsverzögerung."
 tags: ["ZPO", "Beschwerde", "Anfechtungsobjekt", "Zwischenentscheid", "prozessleitende Verfügung", "Rechtsverzögerung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-319.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -31,15 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 319 ZPO (SR 272)** — Anfechtungsobjekt
->
-> Mit Beschwerde sind anfechtbar:
-> **a.** nicht berufungsfähige erstinstanzliche Endentscheide, Zwischenentscheide und Entscheide über vorsorgliche Massnahmen;
-> **b.** andere erstinstanzliche Entscheide und prozessleitende Verfügungen:
-> **1.** in den vom Gesetz bestimmten Fällen,
-> **2.** wenn durch sie ein nicht leicht wiedergutzumachender Nachteil droht;
-> **c.** Fälle von Rechtsverzögerung.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

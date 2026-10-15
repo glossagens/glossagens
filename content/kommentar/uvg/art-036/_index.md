@@ -2,11 +2,16 @@
 title: "Art. 36 — Zusammentreffen verschiedener Schadensursachen"
 weight: 36
 date: 2026-07-17
-lastmod: 2026-09-04
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 36 UVG: Zusammentreffen verschiedener Schadensursachen; Kürzung von Renten bei teilweise unfallbedingter Gesundheitsschädigung; Vorzustände; status quo sine vel ante; Abgrenzung zu Art. 6 UVG; Beweislast für das Dahinfallen der Kausalität."
 tags: ["UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Invalidenrente", "Integritätsentschädigung", "Kürzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-036.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 86 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 36 — Zusammentreffen verschiedener Schadensursachen**
->
-> *Eingefügt durch Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 (AS 2002 3371; BBl 1991 II 185 910, 1994 V 921, 1999 4523).*
->
-> **1** Die Pflegeleistungen und Kostenvergütungen sowie die Taggelder und Hilflosenentschädigungen werden nicht gekürzt, wenn die Gesundheitsschädigung nur teilweise Folge eines Unfalles ist.
->
-> **2** Die Invalidenrenten, Integritätsentschädigungen und die Hinterlassenenrenten werden angemessen gekürzt, wenn die Gesundheitsschädigung oder der Tod nur teilweise die Folge eines Unfalles ist. Gesundheitsschädigungen vor dem Unfall, die zu keiner Verminderung der Erwerbsfähigkeit geführt haben, werden dabei nicht berücksichtigt.
-
-*(Fedlex-Stand: 2026-01-01)*
+{{< wortlaut >}}
 
 ## Kommentierung
 

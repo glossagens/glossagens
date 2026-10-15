@@ -2,11 +2,16 @@
 title: "Art. 24 VwVG — Fristwiederherstellung"
 weight: 24
 date: 2026-05-23
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 24 VwVG: Fristwiederherstellung — Unverschuldetes Hindernis, Vertretungsverschulden, 30-tägige Gesuchsfrist, Nachholung der Rechtshandlung und Kasuistik."
 tags: ["VwVG", "Frist", "Fristwiederherstellung", "unverschuldetes Hindernis", "Vertretungsverschulden", "Kostenvorschuss", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -26,12 +31,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 24 VwVG (SR 172.021)** — Fristwiederherstellung
->
-> **1** Ist der Gesuchsteller oder sein Vertreter unverschuldeterweise abgehalten worden, binnen Frist zu handeln, so wird diese wieder hergestellt, sofern er unter Angabe des Grundes innert 30 Tagen nach Wegfall des Hindernisses darum ersucht und die versäumte Rechtshandlung nachholt; vorbehalten bleibt Artikel 32 Absatz 2.
->
-> **2** Absatz 1 ist nicht anwendbar auf Fristen, die in Patentsachen gegenüber dem Eidgenössischen Institut für geistiges Eigentum zu wahren sind.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

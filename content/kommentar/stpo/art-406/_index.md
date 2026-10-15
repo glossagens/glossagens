@@ -2,11 +2,16 @@
 title: "Art. 406 StPO — Schriftliches Berufungsverfahren"
 weight: 406
 date: 2026-08-30
-lastmod: 2026-09-22
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 406 StPO: Mündlichkeit als Grundsatz (Art. 405 Abs. 1 StPO) und enge Schranken des schriftlichen Berufungsverfahrens; Katalogfälle von Amtes wegen (Abs. 1), Parteizustimmung und deren Wirksamkeit (Abs. 2), Fristansetzung zur Begründung (Abs. 3) sowie Schriftenwechsel und Beweisverfahren (Abs. 4) — mit ausführlicher Kasuistik, Schwellenwert-Gegenüberstellungen und taktischen Hinweisen für Verteidigung, Privatklägerschaft und Strafbehörden."
 tags: ["StPO", "Berufung", "Schriftliches Verfahren", "Mündlichkeitsprinzip", "Parteizustimmung", "Rechtsfragen", "Übertretungen", "Zivilpunkt", "Kostenfolgen", "Landesverweisung", "Rückzugsfiktion", "Replikrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-406.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,31 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 406 StPO — Schriftliches Verfahren**
->
-> 1 Das Berufungsgericht kann die Berufung in einem schriftlichen Verfahren behandeln, wenn ausschliesslich:
->
-> a. Rechtsfragen zu entscheiden sind;
->
-> b. der Zivilpunkt angefochten ist;
->
-> c. Übertretungen Gegenstand des erstinstanzlichen Urteils bilden und mit der Berufung nicht ein Schuldspruch wegen eines Verbrechens oder Vergehens beantragt wird;
->
-> d. die Kosten-, Entschädigungs- und Genugtuungsfolgen angefochten sind;
->
-> e. Massnahmen im Sinne der Artikel 66–73 StGB angefochten sind.
->
-> 2 Mit dem Einverständnis der Parteien kann die Verfahrensleitung das schriftliche Verfahren zudem anordnen, wenn:
->
-> a. die Anwesenheit der beschuldigten Person nicht erforderlich ist;
->
-> b. Urteile eines Einzelgerichts Gegenstand der Berufung sind.
->
-> 3 Die Verfahrensleitung setzt der Partei, welche die Berufung erklärt hat, Frist zur schriftlichen Begründung.
->
-> 4 Das anschliessende Verfahren richtet sich nach Artikel 390 Absätze 2–4.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

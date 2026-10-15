@@ -2,19 +2,21 @@
 title: "§ 199 — Kostenpflicht der Gemeinwesen"
 weight: 199
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 199 VRG LU – Kostenpflicht der Gemeinwesen: Kanton, Gemeinden und nachgeordnete Gemeinwesen"
 tags: ["VRG", "Kosten", "Gemeinwesen", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-199.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die kantonalen Instanzen belasten den Kanton und seine Behörden mit keinen amtlichen Kosten.
->
-> 2 Den Gemeinden und andern dem Kanton nachgeordneten Gemeinwesen werden von kantonalen Instanzen nach § 198 amtliche Kosten auferlegt, wenn sie unter eigenem Namen oder durch eine Behörde in einem Rechtsmittelverfahren als Partei beteiligt und am Rechtsstreit wirtschaftlich interessiert sind.
->
-> 3 Im übrigen können die kantonalen Rechtsmittelinstanzen den Gemeinden und andern dem Kanton nachgeordneten Gemeinwesen amtliche Kosten auferlegen, wenn ihren Behörden grobe Verfahrensmängel oder offenbare Rechtsverletzungen zur Last fallen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

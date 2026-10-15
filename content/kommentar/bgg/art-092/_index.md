@@ -2,11 +2,16 @@
 title: "Art. 92 — Vor- und Zwischenentscheide über die Zuständigkeit und den Ausstand"
 weight: 92
 date: "2026-07-09"
-lastmod: "2026-07-09"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 92 BGG – Anfechtbarkeit von Vor- und Zwischenentscheiden über Zuständigkeit und Ausstand"
 tags: ["BGG", "Vorentscheid", "Zwischenentscheid", "Zuständigkeit", "Ausstand", "Beschwerde"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-092.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,9 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Gegen selbständig eröffnete Vor- und Zwischenentscheide über die Zuständigkeit und über Ausstandsbegehren ist die Beschwerde zulässig.
->
-> **2** Diese Entscheide können später nicht mehr angefochten werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

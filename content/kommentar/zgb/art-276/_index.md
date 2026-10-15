@@ -2,11 +2,16 @@
 title: "Art. 276 ZGB — Grundsatz der Unterhaltspflicht"
 weight: 276
 date: 2026-05-15
-lastmod: 2026-08-20
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 276 ZGB: Grundsatz der elterlichen Unterhaltspflicht, Natural- und Geldunterhalt, Kosten von Betreuung, Erziehung, Ausbildung und Kindesschutzmassnahmen sowie Befreiung bei eigenen Mitteln des Kindes."
 tags: ["ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Naturalunterhalt", "Betreuungsunterhalt", "Kindesschutzmassnahmen", "Leistungsfähigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-276.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3-7-flash"
@@ -23,13 +28,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 276 ZGB — Wirkungen des Kindesverhältnisses / Unterhaltspflicht der Eltern / Grundsatz**
->
-> 1 Der Unterhalt wird durch Pflege, Erziehung und Geldzahlung geleistet.
->
-> 2 Die Eltern sorgen gemeinsam, ein jeder Elternteil nach seinen Kräften, für den gebührenden Unterhalt des Kindes und tragen insbesondere die Kosten von Betreuung, Erziehung, Ausbildung und Kindesschutzmassnahmen.
->
-> 3 Die Eltern sind von der Unterhaltspflicht in dem Mass befreit, als dem Kinde zugemutet werden kann, den Unterhalt aus seinem Arbeitserwerb oder andern Mitteln zu bestreiten.
+{{< wortlaut >}}
 
 ---
 

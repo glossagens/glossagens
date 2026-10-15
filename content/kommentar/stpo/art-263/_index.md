@@ -2,11 +2,16 @@
 title: "Art. 263 StPO — Beschlagnahme (Grundsatz)"
 weight: 263
 date: "2026-07-04"
-lastmod: "2026-09-08"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 263 StPO: Zwangsmassnahmenvoraussetzungen, die fünf Beschlagnahmearten (Beweismittel, Kostendeckung, Rückgabe, Einziehung, Ersatzforderung), Grenzkasuistik (u.a. Raserfahrzeuge, Leasing, Kontosperren, Kryptowährungen), Gültigkeitsvorschrift der nachträglichen schriftlichen Bestätigung (BGE 151 IV 18) sowie kantonale Praxis und Praxishinweise."
 tags: ["StPO", "Beschlagnahme", "Zwangsmassnahmen", "Beweismittel", "Kostendeckung", "Rückgabe", "Einziehung", "Ersatzforderung", "Via sicura", "Kontosperre", "Kryptowährung", "Siegelung", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-263.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -21,25 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 263 StPO — Grundsatz**
->
-> 1 Gegenstände und Vermögenswerte einer beschuldigten Person oder einer Drittperson können beschlagnahmt werden, wenn die Gegenstände und Vermögenswerte voraussichtlich:
->
-> a. als Beweismittel gebraucht werden;
->
-> b. zur Sicherstellung von Verfahrenskosten, Geldstrafen, Bussen und Entschädigungen gebraucht werden;
->
-> c. den Geschädigten zurückzugeben sind;
->
-> d. einzuziehen sind;
->
-> e. zur Deckung von Ersatzforderungen des Staates gemäss Artikel 71 StGB gebraucht werden.
->
-> 2 Die Beschlagnahme ist mit einem schriftlichen, kurz begründeten Befehl anzuordnen. In dringenden Fällen kann sie mündlich angeordnet werden, ist aber nachträglich schriftlich zu bestätigen.
->
-> 3 Ist Gefahr im Verzug, so können die Polizei oder Private Gegenstände und Vermögenswerte zuhanden der Staatsanwaltschaft oder der Gerichte vorläufig sicherstellen.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 lit. e eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

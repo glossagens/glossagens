@@ -2,11 +2,16 @@
 title: "Art. 219 ZPO — Anwendung des ordentlichen Verfahrens"
 weight: 219
 date: "2026-05-23"
-lastmod: "2026-08-14"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 219 ZPO — Sinngemässe Anwendung der Bestimmungen über das ordentliche Verfahren auf alle anderen Verfahrensarten, Grenzen der Analogie und Novenrecht"
 tags: ["ZPO", "ordentliches Verfahren", "Analogie", "Verfahrensrecht", "Novenrecht", "sinngemässe Anwendung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-219.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 89 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,9 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 219 ZPO — Anwendung des ordentlichen Verfahrens**
->
-> Die Bestimmungen dieses Titels gelten für das ordentliche Verfahren sowie sinngemäss für sämtliche anderen Verfahren, soweit das Gesetz nichts anderes bestimmt.
+{{< wortlaut >}}
 
 ## Kommentierung
 

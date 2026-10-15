@@ -2,11 +2,16 @@
 title: "Art. 68 — Übersetzungen"
 weight: 68
 date: 2026-07-03
-lastmod: 2026-08-21
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 68 StPO: Recht der beschuldigten Person auf Übersetzung; bedarfsgerechter Anspruch; Verhältnis zu Art. 6 Ziff. 3 lit. e EMRK und Art. 29 Abs. 2 BV; keine vollständige Übersetzung aller Dokumente."
 tags: ["StPO", "Übersetzung", "Dolmetschen", "Verfahrensrechte", "EMRK", "Sprachrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-068.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,17 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Versteht eine am Verfahren beteiligte Person die Verfahrenssprache nicht oder kann sie sich darin nicht genügend ausdrücken, so zieht die Verfahrensleitung eine Übersetzerin oder einen Übersetzer bei. Sie kann in einfachen oder dringenden Fällen mit dem Einverständnis der betroffenen Person davon absehen, wenn sie und die protokollführende Person die fremde Sprache genügend beherrschen.
->
-> **2** Der beschuldigten Person wird, auch wenn sie verteidigt wird, in einer ihr verständlichen Sprache mindestens der wesentliche Inhalt der wichtigsten Verfahrenshandlungen mündlich oder schriftlich zur Kenntnis gebracht. Ein Anspruch auf vollständige Übersetzung aller Verfahrenshandlungen sowie der Akten besteht nicht.
->
-> **3** Akten, die nicht Eingaben von Parteien sind, werden soweit erforderlich schriftlich oder zuhanden des Protokolls mündlich übersetzt.
->
-> **4** Für die Übersetzung der Befragung des Opfers einer Straftat gegen die sexuelle Integrität ist eine Person gleichen Geschlechts beizuziehen, wenn das Opfer dies verlangt und wenn dies ohne ungebührliche Verzögerung des Verfahrens möglich ist.
->
-> **5** Für Übersetzerinnen und Übersetzer gelten die Bestimmungen über Sachverständige (Art. 73, 105, 182–191) sinngemäss.
-
-*(Fedlex-Stand: 2025-04-01)*
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

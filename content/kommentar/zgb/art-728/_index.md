@@ -2,11 +2,16 @@
 title: "Art. 728 ZGB — Ersitzung beweglicher Sachen"
 weight: 728
 date: "2026-09-13"
-lastmod: "2026-09-15"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 728 ZGB — Ersitzung als originärer Eigentumserwerb an beweglichen Sachen durch fünfjährigen ununterbrochenen, unangefochtenen und gutgläubigen Eigenbesitz: Tatbestandsmerkmale (Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube), Fristen (5 Jahre, 2 Monate für häusliche Tiere, 30 Jahre für Kulturgüter/KGTG), unfreiwilliger Besitzverlust (Abs. 2), Fristberechnung/Unterbrechung/Stillstand nach Verjährungsrecht (Abs. 3), Ersitzung als Ausschlussgrund der Vindikation und Verhältnis zu Art. 934, 936, 930, 662, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Ersitzung", "originärer Eigentumserwerb", "guter Glaube", "Eigenbesitz", "unangefochten", "Kulturgüter", "KGTG", "Tiere", "Verjährung", "Vindikation"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-728.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,16 +26,9 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 728 ZGB**
->
-> 1. Hat jemand eine fremde bewegliche Sache ununterbrochen und unangefochten während fünf Jahren in gutem Glauben als Eigentum in seinem Besitze, so wird er durch Ersitzung Eigentümer.
-> 1bis. Bei Tieren, die im häuslichen Bereich und nicht zu Vermögens- oder Erwerbszwecken gehalten werden, beträgt die Frist zwei Monate.
-> 1ter. Unter Vorbehalt gesetzlicher Ausnahmen beträgt die Ersitzungsfrist für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003 30 Jahre.
-> 2. Unfreiwilliger Verlust des Besitzes unterbricht die Ersitzung nicht, wenn der Besitzer binnen Jahresfrist oder mittels einer während dieser Frist erhobenen Klage die Sache wieder erlangt.
-> 3. Für die Berechnung der Fristen, die Unterbrechung und den Stillstand der Ersitzung finden die Vorschriften über die Verjährung von Forderungen entsprechende Anwendung.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-Verbatim nach Fedlex, Konsolidierung vom 1. Juli 2026. Art. 728 Abs. 1 ZGB geht auf das ZGB von 1907 zurück; Absatz 1bis wurde durch den Grundsatzartikel Tiere (BG vom 4. Oktober 2002, in Kraft seit 1. April 2003) eingefügt, Absatz 1ter durch das Kulturgütertransfergesetz (KGTG vom 20. Juni 2003, in Kraft seit 1. Juni 2005). Die Bestimmung regelt die **Ersitzung** als originären Eigentumserwerb an beweglichen Sachen: wer eine fremde bewegliche Sache ununterbrochen, unangefochten und in gutem Glauben während fünf Jahren als Eigentum in seinem Besitz hat, wird durch Ersitzung Eigentümer. Eine digital verfügbare Botschaft zu Art. 728 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
+Art. 728 Abs. 1 ZGB geht auf das ZGB von 1907 zurück; Absatz 1bis wurde durch den Grundsatzartikel Tiere (BG vom 4. Oktober 2002, in Kraft seit 1. April 2003) eingefügt, Absatz 1ter durch das Kulturgütertransfergesetz (KGTG vom 20. Juni 2003, in Kraft seit 1. Juni 2005). Die Bestimmung regelt die **Ersitzung** als originären Eigentumserwerb an beweglichen Sachen: wer eine fremde bewegliche Sache ununterbrochen, unangefochten und in gutem Glauben während fünf Jahren als Eigentum in seinem Besitz hat, wird durch Ersitzung Eigentümer. Eine digital verfügbare Botschaft zu Art. 728 liegt im hier ausgewerteten Korpus nicht vor; auf eine Rekonstruktion aus dem Gedächtnis wird verzichtet.
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 19 BetmG — Widerhandlungen und qualifizierte Fälle"
 weight: 19
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 19 BetmG: Grundtatbestände des Betäubungsmittelhandels, Anstaltentreffen, Mengenschwellen und Kumulationsprinzip bei wiederholten Einzelhandlungen (BGE 150 IV 213), Banden- und Gewerbsmässigkeit, gesetzliche Strafmilderung bei Eigenkonsumfinanzierung sowie Konkurrenzen und obligatorische Landesverweisung."
 tags: ["BetmG", "Betäubungsmittel", "Drogenhandel", "Mengenschwelle", "Gewerbsmässigkeit", "Bandenmässigkeit", "Anstaltentreffen", "Schwerer Fall", "Landesverweisung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 812.121 vom 2023-09-01 (data/wortlaut/betmg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,30 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 19 BetmG — Widerhandlungen**
->
-> 1 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
-> a. Betäubungsmittel unbefugt anbaut, herstellt oder auf andere Weise erzeugt;
-> b. Betäubungsmittel unbefugt lagert, versendet, befördert, einführt, ausführt oder durchführt;
-> c. Betäubungsmittel unbefugt veräussert, verordnet, auf andere Weise einem andern verschafft oder in Verkehr bringt;
-> d. Betäubungsmittel unbefugt besitzt, aufbewahrt, erwirbt oder auf andere Weise erlangt;
-> e. den unerlaubten Handel mit Betäubungsmitteln finanziert oder seine Finanzierung vermittelt;
-> f. öffentlich zum Betäubungsmittelkonsum auffordert oder öffentlich eine Gelegenheit zum Erwerb oder Konsum von Betäubungsmitteln bekannt gibt;
-> g. zu einer Widerhandlung nach den Buchstaben a–f Anstalten trifft.
->
-> 2 Der Täter wird mit einer Freiheitsstrafe nicht unter einem Jahr, womit eine Geldstrafe verbunden werden kann, bestraft, wenn er:
-> a. weiss oder annehmen muss, dass die Widerhandlung mittelbar oder unmittelbar die Gesundheit vieler Menschen in Gefahr bringen kann;
-> b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung des unerlaubten Betäubungsmittelhandels zusammengefunden hat;
-> c. durch gewerbsmässigen Handel einen grossen Umsatz oder einen erheblichen Gewinn erzielt;
-> d. in Ausbildungsstätten vorwiegend für Jugendliche oder in ihrer unmittelbaren Umgebung gewerbsmässig Betäubungsmittel anbietet, abgibt oder auf andere Weise zugänglich macht.
->
-> 3 Das Gericht kann in folgenden Fällen die Strafe nach freiem Ermessen mildern:
-> a. bei einer Widerhandlung nach Absatz 1 Buchstabe g;
-> b. bei einer Widerhandlung nach Absatz 2, wenn der Täter von Betäubungsmitteln abhängig ist und diese Widerhandlung zur Finanzierung des eigenen Betäubungsmittelkonsums hätte dienen sollen.
->
-> 4 Nach den Bestimmungen der Absätze 1 und 2 ist auch strafbar, wer die Tat im Ausland begangen hat, sich in der Schweiz befindet und nicht ausgeliefert wird, sofern die Tat auch am Begehungsort strafbar ist. Ist das Gesetz des Begehungsortes für den Täter das mildere, so ist dieses anzuwenden. Artikel 6 des Strafgesetzbuches ist anwendbar.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 812.121](https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/de), Stand der Konsolidierung 1. September 2023. Fassung gemäss Ziff. I des Bundesgesetzes vom 20. März 2008, in Kraft seit 1. Juli 2011 (AS 2009 2623, 2011 2559; BBl 2006 8573, 8645).*
 
 ---
 

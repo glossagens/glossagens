@@ -2,11 +2,16 @@
 title: "Art. 2 — Begriffe"
 weight: 2
 date: 2026-08-01
-lastmod: 2026-08-01
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 2 BehiG (SR 151.3): Legaldefinitionen — Mensch mit Behinderungen (Abs. 1), Benachteiligung (Abs. 2), bauliche Zugangshindernisse (Abs. 3), Dienstleistungsbenachteiligung (Abs. 4), Benachteiligung in Aus- und Weiterbildung (Abs. 5). Zentrale Auslegungsentscheide BGE 134 II 249 (Zugangsbegriff) und BGE 151 I 73 (Assistenzanspruch)."
 tags: ["BehiG", "Behindertengleichstellung", "Benachteiligung", "Behinderungsbegriff", "Zugänglichkeit", "BRK", "Assistenz", "Aus-Weiterbildung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 151.3 vom 2020-07-01 (data/wortlaut/behi/art-002.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 2 BehiG — Begriffe**
->
-> **1** In diesem Gesetz bedeutet Mensch mit Behinderungen (Behinderte, Behinderter) eine Person, der es eine voraussichtlich dauernde körperliche, geistige oder psychische Beeinträchtigung erschwert oder verunmöglicht, alltägliche Verrichtungen vorzunehmen, soziale Kontakte zu pflegen, sich fortzubewegen, sich aus- und weiterzubilden oder eine Erwerbstätigkeit auszuüben.
->
-> **2** Eine Benachteiligung liegt vor, wenn Behinderte rechtlich oder tatsächlich anders als nicht Behinderte behandelt und dabei ohne sachliche Rechtfertigung schlechter gestellt werden als diese, oder wenn eine unterschiedliche Behandlung fehlt, die zur tatsächlichen Gleichstellung Behinderter und nicht Behinderter notwendig ist.
->
-> **3** Eine Benachteiligung beim Zugang zu einer Baute, einer Anlage, einer Wohnung oder einer Einrichtung oder einem Fahrzeug des öffentlichen Verkehrs liegt vor, wenn der Zugang für Behinderte aus baulichen Gründen nicht oder nur unter erschwerenden Bedingungen möglich ist.
->
-> **4** Eine Benachteiligung bei der Inanspruchnahme einer Dienstleistung liegt vor, wenn diese für Behinderte nicht oder nur unter erschwerenden Bedingungen möglich ist.
->
-> **5** Eine Benachteiligung bei der Inanspruchnahme von Aus- und Weiterbildung liegt insbesondere vor, wenn: a. die Verwendung behindertenspezifischer Hilfsmittel oder der Beizug notwendiger persönlicher Assistenz erschwert werden; b. die Dauer und Ausgestaltung des Bildungsangebots sowie Prüfungen den spezifischen Bedürfnissen Behinderter nicht angepasst sind.
-
-*Quelle: [Fedlex](https://www.fedlex.admin.ch/eli/cc/2003/667/de#art_2)*
+{{< wortlaut >}}
 
 ## Systematische Einordnung
 

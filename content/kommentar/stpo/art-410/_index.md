@@ -2,35 +2,21 @@
 title: "Art. 410 — Zulässigkeit und Revisionsgründe"
 weight: 410
 date: "2026-06-07"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 410 StPO — Revision rechtskräftiger Entscheide: Zulässigkeit, Revisionsgründe (neue Tatsachen/Beweismittel, Widerspruch, strafbare Einwirkung), EMRK-Revision, Verjährung, Zivilansprüche"
 tags: ["StPO", "Revision", "Rechtskraft", "EMRK", "Wiederaufnahme", "ne-bis-in-idem"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-410.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 410 StPO — Zulässigkeit und Revisionsgründe**
->
-> **1** Wer durch ein rechtskräftiges Urteil, einen Strafbefehl, einen nachträglichen richterlichen Entscheid oder einen Entscheid im selbstständigen Massnahmenverfahren beschwert ist, kann die Revision verlangen, wenn:
->
-> **a.** neue, vor dem Entscheid eingetretene Tatsachen oder neue Beweismittel vorliegen, die geeignet sind, einen Freispruch, eine wesentlich mildere oder wesentlich strengere Bestrafung der verurteilten Person oder eine Verurteilung der freigesprochenen Person herbeizuführen;
->
-> **b.** der Entscheid mit einem späteren Strafentscheid, der den gleichen Sachverhalt betrifft, in unverträglichem Widerspruch steht;
->
-> **c.** sich in einem anderen Strafverfahren erweist, dass durch eine strafbare Handlung auf das Ergebnis des Verfahrens eingewirkt worden ist; eine Verurteilung ist nicht erforderlich; ist das Strafverfahren nicht durchführbar, so kann der Beweis auf andere Weise erbracht werden.
->
-> **2** Die Revision wegen Verletzung der Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) kann verlangt werden, wenn:
->
-> **a.** der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
->
-> **b.** eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
->
-> **c.** die Revision notwendig ist, um die Verletzung zu beseitigen.
->
-> **3** Die Revision zugunsten der verurteilten Person kann auch nach Eintritt der Verjährung verlangt werden.
->
-> **4** Beschränkt sich die Revision auf Zivilansprüche, so ist sie nur zulässig, wenn das am Gerichtsstand anwendbare Zivilprozessrecht eine Revision gestatten würde.
+{{< wortlaut >}}
 
 ## Vorbemerkungen
 

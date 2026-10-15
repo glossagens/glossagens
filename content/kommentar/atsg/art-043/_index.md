@@ -2,11 +2,16 @@
 title: "Art. 43 ATSG — Abklärung"
 weight: 43
 date: 2026-07-31
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlung), Mitwirkungspflichten der versicherten Person, Mahn- und Bedenkzeitverfahren und Nichteintreten bei Pflichtverletzung."
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-043.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,16 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 43 — Abklärung**
->
-> ¹ Der Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen Auskünfte ein. Mündlich erteilte Auskünfte sind schriftlich festzuhalten.
->
-> ¹ᵇⁱˢ Der Versicherungsträger bestimmt die Art und den Umfang der notwendigen Abklärungen.
->
-> ² Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen.
->
-> ³ Kommen die versicherte Person oder andere Personen, die Leistungen beanspruchen, den Auskunfts- oder Mitwirkungspflichten in unentschuldbarer Weise nicht nach, so kann der Versicherungsträger auf Grund der Akten verfügen oder die Erhebungen einstellen und Nichteintreten beschliessen. Er muss diese Personen vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen; ihnen ist eine angemessene Bedenkzeit einzuräumen.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

@@ -2,11 +2,16 @@
 title: "Art. 8 StGB — Begehungsort"
 weight: 8
 date: 2026-07-31
-lastmod: 2026-08-23
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 StGB: Ubiquitätsprinzip, Handlungs- und Erfolgsort, Begehungsort bei Versuch und Teilnahme, Internet- und Äusserungsdelikte."
 tags: ["StGB", "Begehungsort", "Handlungsort", "Erfolgsort", "Ubiquitätsprinzip", "Gerichtsstand", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -21,11 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 8 StGB — Begehungsort**
->
-> 1 Ein Verbrechen oder Vergehen gilt als da begangen, wo der Täter es ausführt oder pflichtwidrig untätig bleibt, und da, wo der Erfolg eingetreten ist.
->
-> 2 Der Versuch gilt als da begangen, wo der Täter ihn ausführt, und da, wo nach seiner Vorstellung der Erfolg hätte eintreten sollen.
+{{< wortlaut >}}
 
 ---
 

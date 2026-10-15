@@ -2,11 +2,16 @@
 title: "Art. 74 — Beschwerde in Zivilsachen / Streitwertgrenze"
 weight: 74
 date: 2026-05-23
-lastmod: 2026-06-06
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 74 BGG – Streitwertgrenze und Rechtsfrage von grundsätzlicher Bedeutung"
 tags: ["BGG", "Beschwerde", "Zivilsachen", "Streitwert", "Bundesgericht", "grundsätzliche Bedeutung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-074.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -16,18 +21,7 @@ revisions:
 
 ## Gesetzestext
 
-> **Art. 74 BGG — Streitwertgrenze**
->
-> ¹ In vermögensrechtlichen Angelegenheiten ist die Beschwerde nur zulässig, wenn der Streitwert mindestens beträgt:
-> a. 15 000 Franken in arbeits- und mietrechtlichen Fällen;
-> b. 30 000 Franken in allen übrigen Fällen.
->
-> ² Erreicht der Streitwert den massgebenden Betrag nach Absatz 1 nicht, so ist die Beschwerde dennoch zulässig:
-> a. wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt;
-> b. wenn ein Bundesgesetz eine einzige kantonale Instanz vorsieht;
-> c. gegen Entscheide der kantonalen Aufsichtsbehörden in Schuldbetreibungs- und Konkurssachen;
-> d. gegen Entscheide des Konkurs- und Nachlassrichters oder der Konkurs- und Nachlassrichterin;
-> e. gegen Entscheide des Bundespatentgerichts.
+{{< wortlaut >}}
 
 ## Kommentierung
 

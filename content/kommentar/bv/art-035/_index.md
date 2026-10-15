@@ -2,11 +2,16 @@
 title: "Art. 35 BV — Verwirklichung der Grundrechte"
 weight: 35
 date: 2026-05-23
-lastmod: 2026-08-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 35 BV: Verwirklichung der Grundrechte in der ganzen Rechtsordnung — Grundrechtsbindung von Aufgabenträgern, Wirkung unter Privaten, Einbürgerungsverfahren."
 tags: ["BV", "Grundrechte", "Grundrechtsbindung", "Drittwirkung", "Verwirklichung", "objektive Wertordnung", "Horizontalwirkung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-035.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 35 BV — Verwirklichung der Grundrechte**
->
-> ¹ Die Grundrechte müssen in der ganzen Rechtsordnung zur Geltung kommen.
->
-> ² Wer staatliche Aufgaben wahrnimmt, ist an die Grundrechte gebunden und verpflichtet, zu ihrer Verwirklichung beizutragen.
->
-> ³ Die Behörden sorgen dafür, dass die Grundrechte, soweit sie sich dazu eignen, auch unter Privaten wirksam werden.
-
-*Quelle: Fedlex (SR 101), Stand 03.03.2024*
+{{< wortlaut >}}
 
 ## Überblick
 

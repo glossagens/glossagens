@@ -2,11 +2,16 @@
 title: "Art. 101 — Akteneinsicht bei hängigem Verfahren"
 weight: 101
 date: 2026-06-29
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren: Parteieinsicht und Zeitpunkt (Abs. 1), Behördeneinsicht (Abs. 2), Dritteinsicht (Abs. 3) und Rechtsschutz."
 tags: ["StPO", "Akteneinsicht", "Parteien", "Auskunftspersonen", "Dritte", "Behörden", "Verfahrensrechte", "Rechtliches Gehör"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-101.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,13 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 101 StPO — Akteneinsicht bei hängigem Verfahren**
->
-> **1** Die Parteien können spätestens nach der ersten Einvernahme der beschuldigten Person und der Erhebung der übrigen wichtigsten Beweise durch die Staatsanwaltschaft die Akten des Strafverfahrens einsehen; Artikel 108 bleibt vorbehalten.
->
-> **2** Andere Behörden können die Akten einsehen, wenn sie diese für die Bearbeitung hängiger Zivil-, Straf- oder Verwaltungsverfahren benötigen und der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
->
-> **3** Dritte können die Akten einsehen, wenn sie dafür ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen und der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

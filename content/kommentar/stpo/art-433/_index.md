@@ -2,11 +2,16 @@
 title: "Art. 433 — Privatklägerschaft"
 weight: 433
 date: 2026-07-11
-lastmod: 2026-08-22
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 433 StPO – Entschädigungsanspruch der Privatklägerschaft gegenüber der beschuldigten Person bei Obsiegen (lit. a) oder Kostenpflicht nach Art. 426 Abs. 2 StPO (lit. b)."
 tags: ["StPO", "Privatklägerschaft", "Entschädigung", "Parteientschädigung", "Verfahrenskosten", "Strafbefehl", "Zivilpunkt"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-433.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -21,15 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 433 Privatklägerschaft**
->
-> **1** Die Privatklägerschaft hat gegenüber der beschuldigten Person Anspruch auf angemessene Entschädigung für notwendige Aufwendungen im Verfahren, wenn:
->
-> **a.** sie obsiegt; oder
->
-> **b.** die beschuldigte Person nach Artikel 426 Absatz 2 kostenpflichtig ist.
->
-> **2** Die Privatklägerschaft hat ihre Entschädigungsforderung bei der Strafbehörde zu beantragen, zu beziffern und zu belegen. Kommt sie dieser Pflicht nicht nach, so tritt die Strafbehörde auf den Antrag nicht ein.
+{{< wortlaut >}}
 
 ## Kommentierung
 

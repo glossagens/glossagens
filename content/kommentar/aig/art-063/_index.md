@@ -2,11 +2,16 @@
 title: "Art. 63 AIG — Widerruf der Niederlassungsbewilligung"
 weight: 63
 date: 2026-06-06
-lastmod: 2026-09-08
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 63 AIG: Widerrufsgründe der Niederlassungsbewilligung (Täuschung, Freiheitsstrafe > 1 Jahr, schwerwiegende Gefährdung, Sozialhilfe, Bürgerrechtserschleichung), Rückstufung auf eine Aufenthaltsbewilligung bei Integrationsdefiziten (Abs. 2) und Bindungswirkung strafrichterlicher Verzichte auf Landesverweisung (Abs. 3) — mit systematischer Grenzkasuistik (bejaht vs. verneint) und kantonaler Praxis."
 tags: ["AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "öffentliche Sicherheit", "Landesverweisung", "Dualismusverbot", "Integration", "Verhältnismässigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 63 AIG — Widerruf der Niederlassungsbewilligung**
->
-> 1 Die Niederlassungsbewilligung kann nur widerrufen werden, wenn:
->
-> a. die Voraussetzungen nach Artikel 62 Absatz 1 Buchstabe a oder b erfüllt sind;
->
-> b. die Ausländerin oder der Ausländer in schwerwiegender Weise gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit gefährdet;
->
-> c. die Ausländerin oder der Ausländer oder eine Person, für die sie oder er zu sorgen hat, dauerhaft und in erheblichem Mass auf Sozialhilfe angewiesen ist;
->
-> d. die Ausländerin oder der Ausländer in rechtsmissbräuchlicher Weise versucht hat, das Schweizer Bürgerrecht zu erschleichen, oder ihr oder ihm dieses aufgrund einer rechtskräftigen Verfügung im Rahmen einer Nichtigerklärung gemäss Artikel 36 des Bürgerrechtsgesetzes vom 20. Juni 2014 entzogen worden ist;
->
-> e. …
->
-> 2 Die Niederlassungsbewilligung kann widerrufen und durch eine Aufenthaltsbewilligung ersetzt werden, wenn die Integrationskriterien nach Artikel 58a nicht erfüllt sind.
->
-> 3 Unzulässig ist ein Widerruf, der nur damit begründet wird, dass ein Delikt begangen wurde, für das ein Strafgericht bereits eine Strafe oder Massnahme verhängt, jedoch von einer Landesverweisung abgesehen hat.
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 142.20](https://www.fedlex.admin.ch/eli/cc/2007/461/de), Stand der Konsolidierung 12. Juni 2026. Abs. 1 lit. a und e in der Fassung gemäss Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Januar 2018 (AS 2016 1249; BBl 2012 4721). Abs. 1 lit. d eingefügt durch Anhang Ziff. II 1 des Bürgerrechtsgesetzes vom 20. Juni 2014, in Kraft seit 1. Januar 2018 (AS 2016 2561; BBl 2011 2825). Abs. 2 in der Fassung gemäss Ziff. I des BG vom 16. Dezember 2016 (Integration), in Kraft seit 1. Januar 2019 (AS 2017 6521, 2018 3171; BBl 2013 2397, 2016 2821). Abs. 3 eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV), in Kraft seit 1. Oktober 2016 (AS 2016 2329; BBl 2013 5975).*
 

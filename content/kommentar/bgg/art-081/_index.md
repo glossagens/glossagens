@@ -2,11 +2,16 @@
 title: "Art. 81 BGG — Beschwerderecht"
 weight: 81
 date: 2026-09-01
-lastmod: 2026-09-24
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 81 BGG: Legitimation zur Beschwerde in Strafsachen, formelle und materielle Beschwer, Zivilansprüche der Privatklägerschaft, Star-Praxis, Ausschluss der Staatsanwaltschaft bei Haftsachen (Revision 2024), Strafantragsrecht und Dritte Betroffene."
 tags: ["BGG", "Bundesgericht", "Beschwerderecht", "Legitimation", "Strafverfahren", "Privatklägerschaft", "Staatsanwaltschaft", "Star-Praxis", "Zivilansprüche", "Strafantrag", "Staatshaftung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-081.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,24 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 81 BGG — Beschwerderecht**
->
-> 1 Zur Beschwerde in Strafsachen ist berechtigt, wer:
-> a. vor der Vorinstanz am Verfahren teilgenommen hat oder keine Möglichkeit zur Teilnahme erhalten hat; und
-> b. ein rechtlich geschütztes Interesse an der Aufhebung oder Änderung des angefochtenen Entscheids hat, insbesondere:
-> 1. die beschuldigte Person,
-> 2. ihr gesetzlicher Vertreter oder ihre gesetzliche Vertreterin,
-> 3. die Staatsanwaltschaft, ausser bei Entscheiden über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- und Sicherheitshaft,
-> 4. …
-> 5. die Privatklägerschaft, wenn der angefochtene Entscheid sich auf die Beurteilung ihrer Zivilansprüche auswirken kann,
-> 6. die Person, die den Strafantrag stellt, soweit es um das Strafantragsrecht als solches geht,
-> 7. die Staatsanwaltschaft des Bundes und die beteiligte Verwaltung in Verwaltungsstrafsachen nach dem Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht.
->
-> 2 Eine Bundesbehörde ist zur Beschwerde berechtigt, wenn das Bundesrecht vorsieht, dass ihr der Entscheid mitzuteilen ist.
->
-> 3 Gegen Entscheide nach Artikel 78 Absatz 2 Buchstabe b steht das Beschwerderecht auch der Bundeskanzlei, den Departementen des Bundes oder, soweit das Bundesrecht es vorsieht, den ihnen unterstellten Dienststellen zu, wenn der angefochtene Entscheid die Bundesgesetzgebung in ihrem Aufgabenbereich verletzen kann.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex (SR 173.110), Stand der Konsolidierung 1. April 2026. Abs. 1 lit. b Ziff. 3 in der Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697). Ziff. 4 aufgehoben durch Anhang 1 Ziff. II 3 der StPO vom 5. Oktober 2007, mit Wirkung seit 1. Januar 2011 (AS 2010 1881). Ziff. 5 in der Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Januar 2011 (AS 2010 3267). Ziff. 7 eingefügt durch BG vom 20. März 2008 (AS 2008 3437) und angepasst per 1. Januar 2011. Abs. 2 in der Fassung gemäss BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468).*
 
 ### Die Legitimationstatbestände auf einen Blick
 

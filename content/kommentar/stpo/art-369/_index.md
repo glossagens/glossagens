@@ -2,11 +2,16 @@
 title: "Art. 369 StPO — Abwesenheitsverfahren: Verfahren der neuen Beurteilung"
 weight: 369
 date: 2026-07-17
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 369 StPO: Verfahren der neuen Beurteilung — summarische Vorprüfung und Ansetzung der neuen Hauptverhandlung, einphasige Verhandlung und Spruchkörper, zwingende Sistierung von Rechtsmitteln und Verjährungshemmung, resolutiv bedingte Rechtskraft und Sicherheitshaft bis zur Verhandlung, Verwirkung bei erneutem unentschuldigtem Fernbleiben samt Beschwerdeweg sowie Rückzug unter Kostenfolge."
 tags: ["StPO", "Abwesenheitsverfahren", "neue Beurteilung", "Hauptverhandlung", "Sicherheitshaft", "aufschiebende Wirkung", "Sistierung", "Verwirkung", "Verjährung", "Rückzug"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-369.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,19 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 369 StPO — Verfahren**
->
-> 1 Sind die Voraussetzungen für eine neue Beurteilung voraussichtlich erfüllt, so setzt die Verfahrensleitung eine neue Hauptverhandlung an. An dieser entscheidet das Gericht über das Gesuch um neue Beurteilung und fällt gegebenenfalls ein neues Urteil.
->
-> 2 Die Rechtsmittelinstanzen sistieren die von anderen Parteien eingeleiteten Rechtsmittelverfahren.
->
-> 3 Die Verfahrensleitung entscheidet bis zur Hauptverhandlung über die Gewährung der aufschiebenden Wirkung sowie über die Sicherheitshaft.
->
-> 4 Bleibt die verurteilte Person der Hauptverhandlung erneut unentschuldigt fern, so bleibt das Abwesenheitsurteil bestehen.
->
-> 5 Das Gesuch um neue Beurteilung kann bis zum Schluss der Parteiverhandlungen unter Kosten- und Entschädigungsfolge zurückgezogen werden.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

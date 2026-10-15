@@ -2,21 +2,21 @@
 title: "Art. 173 — Unterhaltsbeitrag im Eheschutz"
 weight: 173
 date: "2026-05-24"
-lastmod: "2026-06-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 173 ZGB – Unterhaltsbeitrag im Eheschutzverfahren: Familienunterhalt, Ehegattenbeitrag, Rückwirkung"
 tags: ["ZGB", "Eheschutz", "Unterhaltsbeitrag", "Familienrecht", "Ehegattenunterhalt"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-173.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 173 ZGB — Unterhaltsbeitrag im Eheschutz**
->
-> 1 Auf Begehren eines Ehegatten setzt das Gericht die Geldbeiträge an den Unterhalt der Familie fest.
->
-> 2 Ebenso setzt es auf Begehren eines Ehegatten den Betrag für den Ehegatten fest, der den Haushalt besorgt, die Kinder betreut oder dem andern im Beruf oder Gewerbe hilft.
->
-> 3 Die Leistungen können für die Zukunft und für das Jahr vor Einreichung des Begehrens gefordert werden.
+{{< wortlaut >}}
 
 ## Kommentierung
 

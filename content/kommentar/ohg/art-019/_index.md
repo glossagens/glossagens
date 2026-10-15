@@ -2,11 +2,16 @@
 title: "Art. 19 OHG — Anspruch auf Entschädigung"
 weight: 19
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 19 OHG – Entschädigungsanspruch des Opfers und seiner Angehörigen, Schadensbemessung nach Art. 45/46 OR, Ausschluss von Sachschäden und Soforthilfe, Haushalts- und Betreuungsschaden sowie Kasuistik"
 tags: ["OHG", "Opferhilfe", "Entschädigung", "Schadenersatz", "Körperverletzung", "Tötung", "Haushaltsschaden"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.5 vom 2025-01-01 (data/wortlaut/ohg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 19 OHG — Anspruch**
->
-> ¹ Das Opfer und seine Angehörigen haben Anspruch auf eine Entschädigung für den erlittenen Schaden infolge Beeinträchtigung oder Tod des Opfers.
->
-> ² Der Schaden wird nach den Artikeln 45 (Schadenersatz bei Tötung) und 46 (Schadenersatz bei Körperverletzung) des Obligationenrechts festgelegt. Vorbehalten bleiben die Absätze 3 und 4.
->
-> ³ Nicht berücksichtigt werden Sachschaden sowie Schaden, welcher Leistungen der Soforthilfe oder der längerfristigen Hilfe nach Artikel 13 auslösen kann.
->
-> ⁴ Haushaltschaden und Betreuungsschaden werden nur berücksichtigt, wenn sie zu zusätzlichen Kosten oder zur Reduktion der Erwerbstätigkeit führen.
+{{< wortlaut >}}
 
 ---
 

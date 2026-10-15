@@ -2,11 +2,16 @@
 title: "Art. 390 ZGB — Voraussetzungen der Beistandschaft"
 weight: 390
 date: "2026-05-22"
-lastmod: "2026-08-19"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 390 ZGB: Gesetzliche Voraussetzungen für die Errichtung einer Beistandschaft, Schwächezustände, Subsidiaritäts- und Verhältnismässigkeitsprüfung, Handlungsfähigkeitsbeschränkung und kantonale Praxisfragen."
 tags: ["ZGB", "Erwachsenenschutz", "Beistandschaft", "Subsidiarität", "Verhältnismässigkeit", "Handlungsfähigkeitsbeschränkung", "Vorsorgeauftrag", "Schwächezustand"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-390.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,16 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 390 ZGB — Voraussetzungen der Beistandschaft**
->
-> 1. Die Erwachsenenschutzbehörde errichtet eine Beistandschaft, wenn eine volljährige Person:
-> 1. wegen einer geistigen Behinderung, einer psychischen Störung oder eines ähnlichen in der Person liegenden Schwächezustands ihre Angelegenheiten nur teilweise oder gar nicht besorgen kann;
-> 2. wegen vorübergehender Urteilsunfähigkeit oder Abwesenheit in Angelegenheiten, die erledigt werden müssen, weder selber handeln kann noch eine zur Stellvertretung berechtigte Person bezeichnet hat.
->
-> 2. Die Belastung und der Schutz von Angehörigen und Dritten sind zu berücksichtigen.
->
-> 3. Die Beistandschaft wird auf Antrag der betroffenen oder einer nahestehenden Person oder von Amtes wegen errichtet.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ---
 

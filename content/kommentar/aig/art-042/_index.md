@@ -2,21 +2,21 @@
 title: "Art. 42 — Familienangehörige von Schweizerinnen und Schweizern"
 weight: 42
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 42 AIG – Familienangehörige von Schweizerinnen und Schweizern (Aufenthaltsanspruch)"
 tags: ["AIG", "Familiennachzug", "Aufenthaltsbewilligung", "Schweizer Bürger", "Niederlassung"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-042.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Ausländische Ehegatten und ledige Kinder unter 18 Jahren von Schweizerinnen und Schweizern haben Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung, wenn sie mit diesen zusammenwohnen.
->
-> 2 Ausländische Familienangehörige von Schweizerinnen und Schweizern haben Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung, wenn sie im Besitz einer dauerhaften Aufenthaltsbewilligung eines Staates sind, mit dem ein Freizügigkeitsabkommen abgeschlossen wurde. Als Familienangehörige gelten: a. der Ehegatte und die Verwandten in absteigender Linie, die unter 21 Jahre alt sind oder denen Unterhalt gewährt wird; b. die eigenen Verwandten und die Verwandten des Ehegatten in aufsteigender Linie, denen Unterhalt gewährt wird.
->
-> 3 Nach einem ordnungsgemässen und ununterbrochenen Aufenthalt von fünf Jahren haben die Ehegatten Anspruch auf Erteilung der Niederlassungsbewilligung, wenn die Integrationskriterien nach Artikel 58a erfüllt sind.
->
-> 4 Kinder unter zwölf Jahren haben Anspruch auf Erteilung der Niederlassungsbewilligung.
+{{< wortlaut >}}
 
 ## Kommentierung
 

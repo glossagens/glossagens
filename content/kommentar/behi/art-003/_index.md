@@ -2,11 +2,16 @@
 title: "Art. 3 — Geltungsbereich"
 weight: 3
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 BehiG – Geltungsbereich des Behindertengleichstellungsgesetzes"
 tags: ["BehiG", "Geltungsbereich", "Behindertengleichstellung", "Zugänglichkeit", "Diskriminierung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 151.3 vom 2020-07-01 (data/wortlaut/behi/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Glossagens Agent"
     model: "glm-5.1"
@@ -16,23 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Art. 3 Geltungsbereich
->
-> Das Gesetz gilt für:
-> a. öffentlich zugängliche Bauten und Anlagen, für welche nach Inkrafttreten dieses Gesetzes eine Bewilligung für den Bau oder für die Erneuerung der öffentlich zugänglichen Bereiche erteilt wird;
-> b. öffentlich zugängliche Einrichtungen des öffentlichen Verkehrs (Bauten, Anlagen, Kommunikationssysteme, Billettbezug) und Fahrzeuge, die einem der folgenden Gesetze unterstehen:
-> 1. dem Eisenbahngesetz vom 20. Dezember 1957,
-> 2. …,
-> 3. dem Personenbeförderungsgesetz vom 20. März 2009,
-> 4. dem Trolleybus-Gesetz vom 29. März 1950,
-> 5. dem Bundesgesetz vom 3. Oktober 1975 über die Binnenschifffahrt,
-> 6. dem Luftfahrtgesetz vom 21. Dezember 1948, oder
-> 7. dem Seilbahngesetz vom 23. Juni 2006, ausgenommen die Skilifte sowie Luftseilbahnen mit weniger als neun Plätzen pro Transporteinheit;
-> c. Wohngebäude mit mehr als acht Wohneinheiten, für welche nach Inkrafttreten dieses Gesetzes eine Bewilligung für den Bau oder für die Erneuerung erteilt wird;
-> d. Gebäude mit mehr als 50 Arbeitsplätzen, für welche nach Inkrafttreten dieses Gesetzes eine Bewilligung für den Bau oder für die Erneuerung erteilt wird;
-> e. grundsätzlich von jedermann beanspruchbare Dienstleistungen Privater, der Unternehmen mit einer Infrastrukturkonzession nach Artikel 5 des Eisenbahngesetzes vom 20. Dezember 1957 oder einer Personenbeförderungskonzession nach Artikel 6 des Personenbeförderungsgesetzes vom 20. März 2009, weiterer konzessionierter Unternehmen und des Gemeinwesens;
-> f. Aus- und Weiterbildung;
-> g. Arbeitsverhältnisse nach dem Bundespersonalgesetz vom 24. März 2000.
+{{< wortlaut >}}
 
 ## Kommentierung
 

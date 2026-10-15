@@ -2,11 +2,16 @@
 title: "Art. 837 ZGB — Gesetzliche Grundpfandrechte"
 weight: 837
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 837 ZGB: Gesetzliche Grundpfandrechte des Verkäufers, der Miterben und der Bauhandwerker (Bauhandwerkerpfandrecht, Mieterbauten, Vorausverzichtverbot)."
 tags: ["ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Grundpfandrecht", "Werkvertrag", "Mieterbauten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-837.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -16,18 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 837 ZGB — Gesetzliche Grundpfandrechte**
->
-> 1 Der Anspruch auf Errichtung eines gesetzlichen Grundpfandrechtes besteht:
-> 1. für die Forderung des Verkäufers an dem verkauften Grundstück;
-> 2. für die Forderung der Miterben und Gemeinder aus Teilung an den Grundstücken, die der Gemeinschaft gehörten;
-> 3. für die Forderungen der Handwerker oder Unternehmer, die auf einem Grundstück zu Bauten oder anderen Werken, zu Abbrucharbeiten, zum Gerüstbau, zur Baugrubensicherung oder dergleichen Material und Arbeit oder Arbeit allein geliefert haben, an diesem Grundstück, sei es, dass sie den Grundeigentümer, einen Handwerker oder Unternehmer, einen Mieter, einen Pächter oder eine andere am Grundstück berechtigte Person zum Schuldner haben.
->
-> 2 Ist ein Mieter, ein Pächter oder eine andere am Grundstück berechtigte Person Schuldner von Forderungen der Handwerker oder Unternehmer, so besteht der Anspruch nur, wenn der Grundeigentümer seine Zustimmung zur Ausführung der Arbeiten erteilt hat.
->
-> 3 Auf gesetzliche Grundpfandrechte nach diesem Artikel kann der Berechtigte nicht zum Voraus verzichten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen Fedlex, Stand der Konsolidierung 1. Juli 2026 (in Kraft seit 1. Januar 2012; AS 2011 4637; BBl 2007 5283).*
 
 ---
 

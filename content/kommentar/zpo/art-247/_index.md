@@ -2,11 +2,16 @@
 title: "Art. 247 ZPO — Feststellung des Sachverhaltes"
 weight: 247
 date: 2026-10-06
-lastmod: "2026-10-06"
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 247 ZPO: Feststellung des Sachverhalts im vereinfachten Verfahren — richterliche Fragepflicht (Abs. 1), soziale Untersuchungsmaxime (Abs. 2) in Miet-, Arbeits- und Spezialverfahren, BGE 152 III 38 (beruflich qualifizierte Vertreter), Aktenschluss und Novenrecht sowie Grenzen der gerichtlichen Mitwirkung."
 tags: ["ZPO", "Vereinfachtes Verfahren", "richterliche Fragepflicht", "soziale Untersuchungsmaxime", "Mietrecht", "Arbeitsrecht", "Aktenschluss", "Novenrecht", "Vertretung", "Beweislast"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-247.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 247 ZPO (SR 272)** — Feststellung des Sachverhaltes
->
-> 1 Das Gericht wirkt durch entsprechende Fragen darauf hin, dass die Parteien ungenügende Angaben zum Sachverhalt ergänzen und die Beweismittel bezeichnen.
-> 2 Das Gericht stellt den Sachverhalt von Amtes wegen fest:
-> a. in den Angelegenheiten nach Artikel 243 Absatz 2;
-> b. bis zu einem Streitwert von 30 000 Franken:
-> 1. in den übrigen Streitigkeiten aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht,
-> 2. in den übrigen arbeitsrechtlichen Streitigkeiten.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

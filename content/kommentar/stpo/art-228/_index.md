@@ -2,11 +2,16 @@
 title: "Art. 228 StPO — Haftentlassungsgesuch"
 weight: 228
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 228 StPO – Haftentlassungsgesuch: Jederzeitiges Antragsrecht der beschuldigten Person (Abs. 1), 3-tägige Weiterleitungsfrist der Staatsanwaltschaft (Abs. 2), 3-tägige Replikfrist der Verteidigung (Abs. 3), 5-tägige Entscheidfrist und mündliche Verhandlung vor dem ZMG (Abs. 4) sowie Gesuchssperre (Abs. 5)."
 tags: ["StPO", "Haftentlassungsgesuch", "Haftentlassung", "Untersuchungshaft", "Zwangsmassnahmengericht", "Replik", "Gesuchssperre", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-228.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 228 StPO — Haftentlassungsgesuch**
->
-> **1** Die beschuldigte Person kann bei der Staatsanwaltschaft jederzeit schriftlich oder mündlich zu Protokoll ein Gesuch um Haftentlassung stellen; vorbehalten bleibt Absatz 5. Das Gesuch ist kurz zu begründen.
->
-> **2** Entspricht die Staatsanwaltschaft dem Gesuch, so entlässt sie die beschuldigte Person unverzüglich aus der Haft. Will sie dem Gesuch nicht entsprechen, so leitet sie es zusammen mit den Akten spätestens 3 Tage nach dessen Eingang mit einer begründeten Stellungnahme an das Zwangsmassnahmengericht weiter.
->
-> **3** Das Zwangsmassnahmengericht stellt die Stellungnahme der beschuldigten Person und ihrer Verteidigung zu und setzt ihnen eine Frist von 3 Tagen zur Replik.
->
-> **4** Das Zwangsmassnahmengericht entscheidet spätestens innert 5 Tagen nach Eingang der Replik beziehungsweise Ablauf der in Absatz 3 genannten Frist in einer nicht öffentlichen Verhandlung. Verzichtet die beschuldigte Person ausdrücklich auf eine Verhandlung, so kann der Entscheid im schriftlichen Verfahren ergehen. Im Übrigen ist Artikel 226 Absätze 2–5 sinngemäss anwendbar.
->
-> **5** Das Zwangsmassnahmengericht kann in seinem Entscheid eine Frist von längstens einem Monat setzen, innerhalb derer die beschuldigte Person kein Entlassungsgesuch stellen kann.
+{{< wortlaut >}}
 
 ---
 

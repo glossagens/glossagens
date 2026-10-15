@@ -2,11 +2,16 @@
 title: "Art. 131 StPO — Sicherstellung der notwendigen Verteidigung"
 weight: 131
 date: "2026-08-29"
-lastmod: "2026-08-29"
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 131 StPO: Sicherstellung der notwendigen Verteidigung, Zeitpunkt der Bestellung (Revision 2024), Erkennbarkeit, Verwertungsverbote bei Beweiserhebungen vor Beizug, Fernwirkung und kantonale Gerichtspraxis."
 tags: ["StPO", "notwendige Verteidigung", "Sicherstellung", "Verwertungsverbot", "Erkennbarkeit", "Einvernahme", "Waffengleichheit", "Fernwirkung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-131.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 131 Sicherstellung der notwendigen Verteidigung**
->
-> ^1 Liegt ein Fall notwendiger Verteidigung vor, so achtet die Verfahrensleitung darauf, dass unverzüglich eine Verteidigung bestellt wird.
->
-> ^2 Sind die Voraussetzungen notwendiger Verteidigung bei Einleitung des Vorverfahrens erfüllt, so ist die Verteidigung vor der ersten Einvernahme sicherzustellen, welche die Staatsanwaltschaft oder in deren Auftrag die Polizei durchführt.
->
-> ^3 Wurden in Fällen, in denen die Verteidigung erkennbar notwendig gewesen wäre, Beweise erhoben, bevor eine Verteidigerin oder ein Verteidiger bestellt worden ist, so sind diese Beweise nur verwertbar, wenn die beschuldigte Person auf eine Wiederholung der Beweiserhebung verzichtet.
+{{< wortlaut >}}
 
 ---
 

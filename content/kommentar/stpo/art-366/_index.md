@@ -2,25 +2,21 @@
 title: "Art. 366 StPO — Abwesenheitsverfahren: Voraussetzungen"
 weight: 366
 date: "2026-07-17"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 366 StPO: Voraussetzungen des Abwesenheitsverfahrens (Kontumazialverfahren) — zweimalige Vorladung, sofortiges Verfahren bei selbstverschuldeter Verhandlungsunfähigkeit, materielle Schranken (ausreichende Äusserungsgelegenheit, Spruchreife) und konventionsrechtliche Vorgaben."
 tags: ["Abwesenheitsverfahren", "Kontumazialverfahren", "Säumnis", "faires Verfahren", "Art. 6 EMRK", "Vorladung", "Hauptverhandlung", "Anwesenheitsrecht"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-366.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 366 StPO — Voraussetzungen**
->
-> 1 Bleibt eine ordnungsgemäss vorgeladene beschuldigte Person der erstinstanzlichen Hauptverhandlung fern, so setzt das Gericht eine neue Verhandlung an und lädt die Person dazu wiederum vor oder lässt sie vorführen. Es erhebt die Beweise, die keinen Aufschub ertragen.
->
-> 2 Erscheint die beschuldigte Person zur neu angesetzten Hauptverhandlung nicht oder kann sie nicht vorgeführt werden, so kann die Hauptverhandlung in ihrer Abwesenheit durchgeführt werden. Das Gericht kann das Verfahren auch sistieren.
->
-> 3 Hat sich die beschuldigte Person selber in den Zustand der Verhandlungsunfähigkeit versetzt oder weigert sie sich, aus der Haft zur Hauptverhandlung vorgeführt zu werden, so kann das Gericht sofort ein Abwesenheitsverfahren durchführen.
->
-> 4 Ein Abwesenheitsverfahren kann nur stattfinden, wenn:
-> a. die beschuldigte Person im bisherigen Verfahren ausreichend Gelegenheit hatte, sich zu den ihr vorgeworfenen Straftaten zu äussern; und
-> b. die Beweislage ein Urteil ohne ihre Anwesenheit zulässt.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Systematik
 

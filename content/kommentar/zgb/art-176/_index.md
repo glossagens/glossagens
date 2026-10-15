@@ -2,11 +2,16 @@
 title: "Art. 176 ZGB — Organisation des Getrenntlebens"
 weight: 176
 date: 2026-09-01
-lastmod: 2026-09-24
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 176 ZGB entlang der Tatbestandsmerkmale: Voraussetzungen der Haushaltsaufhebung und Unmöglichkeit des Zusammenlebens (Abs. 1 und 2), Unterhaltsbemessung nach der zweistufigen Methode mit Überschussverteilung (hypothetisches Einkommen, Erwerbsobliegenheit, gebührender Unterhalt, Konkubinat, Mankotragung, Sparquote), Zuteilung von Wohnung und Hausrat, Anordnung der Gütertrennung und die Kinderbelange des Abs. 3 (Obhut, alternierende Obhut, Betreuungsanteile) — mit den Sachverhalten der publizierten Praxis und den Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Eheschutz", "Getrenntleben", "Unterhalt", "hypothetisches Einkommen", "Überschussverteilung", "Mankotragung", "Konkubinat", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut", "Kindeswohl", "Offizialmaxime", "Art. 98 BGG"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-176.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "deepseek-v4.1-flash"
@@ -21,24 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 176 ZGB — Organisation des Getrenntlebens**
->
-> **Abs. 1**
->
-> Ist die Aufhebung des gemeinsamen Haushaltes begründet, so muss das Gericht auf Begehren eines Ehegatten:
-> 1. die Unterhaltsbeiträge an die Kinder und den Unterhaltsbeitrag an den Ehegatten festlegen;
-> 2. die Benützung der Wohnung und des Hausrates regeln;
-> 3. die Gütertrennung anordnen, wenn es die Umstände rechtfertigen.
->
-> **Abs. 2**
->
-> Diese Begehren kann ein Ehegatte auch stellen, wenn das Zusammenleben unmöglich ist, namentlich weil der andere es grundlos ablehnt.
->
-> **Abs. 3**
->
-> Haben die Ehegatten minderjährige Kinder, so trifft das Gericht nach den Bestimmungen über die Wirkungen des Kindesverhältnisses die nötigen Massnahmen.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 210](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de), Stand der Konsolidierung 1. Juli 2026. Abs. 1 Ziff. 1 in Kraft seit 1. Januar 2017 (AS 2015 4299; [BBl 2014 529](https://www.fedlex.admin.ch/eli/fga/2014/529)); Abs. 3 in Kraft seit 1. Januar 2013 (AS 2011 725; BBl 2006 7001).*
 
 ### Die drei Absätze auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 66d StGB — Aufschub des Vollzugs"
 weight: 66
 date: 2026-08-29
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 66d StGB: Aufschub des Vollzugs der obligatorischen Landesverweisung — funktionelle Kompetenzabgrenzung, materielle Rechtskraftsperre bei Alttatsachen, flüchtlingsrechtliches und menschenrechtliches Non-Refoulement, Ausschluss von Art. 8 EMRK, Paposhvili-Medizinschwelle und sichere Herkunftsstaaten."
 tags: ["StGB", "Landesverweisung", "Vollzug", "Aufschub", "Non-Refoulement", "Flüchtlingsrecht", "EMRK", "Jus Cogens", "Paposhvili", "Rechtskraftsperre", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-066d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -31,15 +36,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 66d StGB — Aufschub des Vollzugs**
->
-> 1 Der Vollzug der obligatorischen Landesverweisung nach Artikel 66a kann nur aufgeschoben werden, wenn:
-> a. der Betroffene ein von der Schweiz anerkannter Flüchtling ist und durch die Landesverweisung sein Leben oder seine Freiheit wegen seiner Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder seiner politischen Anschauungen gefährdet wäre; davon ausgenommen ist der Flüchtling, der sich gemäss Artikel 5 Absatz 2 des Asylgesetzes vom 26. Juni 1998 nicht auf das Rückschiebungsverbot berufen kann;
-> b. andere zwingende Bestimmungen des Völkerrechts entgegenstehen.
->
-> 2 Bei ihrem Entscheid hat die zuständige kantonale Behörde von der Vermutung auszugehen, dass die Ausweisung in einen Staat, den der Bundesrat nach Artikel 6a Absatz 2 des Asylgesetzes vom 26. Juni 1998 als sicher bezeichnet, nicht gegen Artikel 25 Absätze 2 und 3 der Bundesverfassung verstösst.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_66d), Stand der Konsolidierung 12. Juni 2026. Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Oktober 2016 ([AS 2016 2329](https://www.fedlex.admin.ch/eli/oc/2016/2329/de); [BBl 2013 5975](https://www.fedlex.admin.ch/eli/fga/2013/5975/de)).*
 
 ---
 

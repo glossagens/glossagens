@@ -2,11 +2,16 @@
 title: "Art. 417 StPO — Kostenpflicht bei fehlerhaften Verfahrenshandlungen"
 weight: 417
 date: 2026-08-07
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 417 StPO (SR 312.0): Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen — Kannvorschrift unabhängig vom Verfahrensausgang, objektive Pflichtverletzung genügt, Abgrenzung zu Art. 426–428 und Art. 420 StPO, Anwendbarkeit im Strafbefehls- und Zwangsmassnahmenverfahren."
 tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Entsiegelung", "Verfahrenskosten", "Kannvorschrift", "Säumnis", "rechtsmissbräuchlich"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-417.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -31,11 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 417 StPO — Kostenpflicht bei fehlerhaften Verfahrenshandlungen (SR 312.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stpo/art-417/)
-
-> «Bei Säumnis und anderen fehlerhaften Verfahrenshandlungen kann die Strafbehörde Verfahrenskosten und Entschädigungen ungeachtet des Verfahrensausgangs der verfahrensbeteiligten Person auferlegen, die sie verursacht hat.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 405 StPO — Mündliches Berufungsverfahren"
 weight: 405
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 405 StPO – Mündliches Berufungsverfahren: Anwendbarkeit der Regeln über die erstinstanzliche Hauptverhandlung (Abs. 1), Vorladung und Dispensation (Abs. 2), Vorladung der Staatsanwaltschaft (Abs. 3) und schriftliche Anträge (Abs. 4)."
 tags: ["StPO", "Berufung", "mündliche Verhandlung", "Vorladung", "Dispensation", "Staatsanwaltschaft", "Beweisabnahme", "Rechtsmittelverfahren"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-405.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 405 StPO — Mündliches Verfahren**
->
-> **1** Die mündliche Berufungsverhandlung richtet sich nach den Bestimmungen über die erstinstanzliche Hauptverhandlung.
->
-> **2** Hat die beschuldigte Person oder die Privatklägerschaft die Berufung oder Anschlussberufung erklärt, so lädt die Verfahrensleitung sie zur Berufungsverhandlung vor. In einfachen Fällen kann sie sie auf ihr Gesuch hin von der Teilnahme dispensieren und ihr gestatten, ihre Anträge schriftlich einzureichen und zu begründen.
->
-> **3** Die Verfahrensleitung lädt die Staatsanwaltschaft zur Verhandlung vor:
->
-> a. in den in Artikel 337 Absätze 3 und 4 vorgesehenen Fällen;
->
-> b. wenn die Staatsanwaltschaft die Berufung oder die Anschlussberufung erklärt hat.
->
-> **4** Ist die Staatsanwaltschaft nicht vorgeladen, so kann sie schriftliche Anträge stellen und eine schriftliche Begründung einreichen oder persönlich vor Gericht auftreten.
+{{< wortlaut >}}
 
 ---
 

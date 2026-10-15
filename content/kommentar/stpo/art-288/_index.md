@@ -2,11 +2,16 @@
 title: "Art. 288 — Legende und Zusicherung der Anonymität"
 weight: 288
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 288 StPO – Legende und Zusicherung der Anonymität verdeckter Ermittlerinnen und Ermittler; Tarnidentität, Identitätsschutz im Gerichtsverfahren, Zwangsmassnahmengericht bei Straftaten im Einsatz."
 tags: ["StPO", "verdeckte Ermittlung", "Legende", "Anonymität", "Identitätsschutz", "Zwangsmassnahmengericht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-288.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,13 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 288 StPO — Legende und Zusicherung der Anonymität**
->
-> **1** Die Polizei stattet verdeckte Ermittlerinnen oder Ermittler mit einer Legende aus.
->
-> **2** Die Staatsanwaltschaft kann verdeckten Ermittlerinnen oder Ermittlern zusichern, dass ihre wahre Identität auch dann nicht preisgegeben wird, wenn sie in einem Gerichtsverfahren als Auskunftspersonen oder Zeuginnen oder Zeugen auftreten.
->
-> **3** Begehen verdeckte Ermittlerinnen oder Ermittler während ihres Einsatzes eine Straftat, so entscheidet das Zwangsmassnahmengericht, unter welcher Identität das Strafverfahren geführt wird.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

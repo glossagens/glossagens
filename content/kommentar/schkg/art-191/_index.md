@@ -2,11 +2,16 @@
 title: "Art. 191 SchKG — Insolvenzerklärung des Schuldners"
 weight: 191
 date: 2026-06-13
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 191 SchKG: Insolvenzerklärung des Schuldners (Privatkonkurs) — Voraussetzungen, missbräuchliche Insolvenzerklärung, Schuldenbereinigung, unentgeltliche Rechtspflege, Sperrwirkung und Grenzkasuistik."
 tags: ["SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik", "Grenzkasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-191.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
@@ -31,12 +36,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 191 SchKG (SR 281.1)** — Selbstantrag des Schuldners
->
-> **1** Der Schuldner kann die Konkurseröffnung selber beantragen, indem er sich beim Gericht zahlungsunfähig erklärt.
->
-> **2** Der Richter eröffnet den Konkurs, wenn keine Aussicht auf eine Schuldenbereinigung nach den Artikeln 333 ff. besteht.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

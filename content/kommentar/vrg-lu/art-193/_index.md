@@ -2,19 +2,21 @@
 title: "§ 193 — Begriff der Verfahrenskosten"
 weight: 193
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-10-15
 description: "Kommentar zu § 193 VRG LU – Begriff der Verfahrenskosten: amtliche Kosten und Parteientschädigungen"
 tags: ["VRG", "Kosten", "Luzern"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-193.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> 1 Die Verfahrenskosten bestehen aus den amtlichen Kosten und den Parteientschädigungen.
->
-> 2 Die amtlichen Kosten bestehen aus den Gebühren für die behördliche Tätigkeit (Spruchgebühren, Schreibgebühren usw.), den Beweiskosten und andern Barauslagen der Behörde.
->
-> 3 Die Parteientschädigung ist eine Vergütung für die Kosten der berufsmässigen Parteivertretung und das notwendige Erscheinen der Parteien vor Behörden und Sachverständigen.
+{{< wortlaut >}}
 
 ## Kommentierung
 

@@ -2,11 +2,16 @@
 title: "Art. 24 UVG — Anspruch auf Integritätsentschädigung"
 weight: 24
 date: 2026-09-10
-lastmod: 2026-09-10
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 24 UVG: Anspruch auf Integritätsentschädigung — dauernde und erhebliche Integritätseinbusse, abstrakt-egalitäre Bemessung nach medizinischem Befund, Ausschluss subjektiver Kriterien, unkorrigierter Zustand (Hilfsmittel/Endoprothesen), 5%-Bagatellschwelle, Mehrfachschäden (Addition vs. Quervergleich), Judikaturdivergenz Schmerztabelle, Sonderregelung Asbest/Mesotheliom sowie volles Quotenvorrecht gegenüber der Genugtuung (BGE 151 III 328)."
 tags: ["UVG", "Integritätsentschädigung", "Integritätsschaden", "Sozialversicherung", "UVV", "Genugtuung", "Quotenvorrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,12 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 24 UVG (SR 832.20)** — Anspruch
->
-> **1** Erleidet der Versicherte durch den Unfall eine dauernde erhebliche Schädigung der körperlichen, geistigen oder psychischen Integrität, so hat er Anspruch auf eine angemessene Integritätsentschädigung.
->
-> **2** Die Entschädigung wird mit der Invalidenrente festgesetzt oder, falls kein Rentenanspruch besteht, bei der Beendigung der ärztlichen Behandlung gewährt. Der Bundesrat kann für die Entstehung des Anspruchs in Sonderfällen einen anderen Zeitpunkt bestimmen, namentlich bei Gesundheitsschädigungen durch das Einatmen von Asbestfasern.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

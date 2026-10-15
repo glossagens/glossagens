@@ -2,11 +2,16 @@
 title: "Art. 326 — Weitere Angaben und Anträge"
 weight: 326
 date: 2026-07-11
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 326 StPO – Weitere Angaben und Anträge der Staatsanwaltschaft an das Gericht: Zivilklagen, Zwangsmassnahmen, Untersuchungskosten, Sicherheitshaft, Sanktionsanträge, Schlussbericht."
 tags: ["StPO", "Hauptverfahren", "Anklageerhebung", "Sanktionsantrag", "Schlussbericht", "Sicherheitshaft", "Staatsanwaltschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-326.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -16,27 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 326 StPO — Weitere Angaben und Anträge**
->
-> **1** Die Staatsanwaltschaft macht dem Gericht folgende Angaben und stellt ihm folgende Anträge, soweit diese nicht bereits aus der Anklageschrift hervorgehen:
->
-> **a.** die Privatklägerschaft sowie deren allfällige Zivilklagen;
->
-> **b.** die angeordneten Zwangsmassnahmen;
->
-> **c.** die beschlagnahmten Gegenstände und Vermögenswerte;
->
-> **d.** die entstandenen Untersuchungskosten;
->
-> **e.** ihren allfälligen Antrag auf Anordnung der Sicherheitshaft;
->
-> **f.** ihre Anträge zu den Sanktionen oder die Ankündigung, diese Anträge würden an der Hauptverhandlung gestellt;
->
-> **g.** ihre Anträge auf nachträgliche richterliche Entscheidungen;
->
-> **h.** ihr Ersuchen, eine Vorladung zur Hauptverhandlung zu erhalten.
->
-> **2** Tritt die Staatsanwaltschaft nicht persönlich vor Gericht auf, so kann sie ihrer Anklage zur Erläuterung des Sachverhalts einen Schlussbericht beifügen, der auch Ausführungen zur Beweiswürdigung enthält.
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 

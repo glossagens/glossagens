@@ -2,11 +2,16 @@
 title: "Art. 429 StPO — Entschädigung und Genugtuung"
 weight: 429
 date: 2026-07-03
-lastmod: 2026-10-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 429 StPO: Entschädigung und Genugtuung der beschuldigten Person bei Freispruch oder Einstellung — Verteidigungskosten nach kantonalem Anwaltstarif, Direktanspruch und Rechtsmittellegitimation der Wahlverteidigung (Revision 2024), wirtschaftliche Einbussen und Stellenverlust, Genugtuung bei Freiheitsentzug (3-Stunden-Schwelle, Tagessatz Fr. 200.-), Medienschäden sowie die Verwirkungsfalle im Endentscheid."
 tags: ["StPO", "Entschädigung", "Genugtuung", "Freispruch", "Einstellung", "Nichtanhandnahme", "Verteidigungskosten", "Anwaltstarif", "Wahlverteidigung", "Wirtschaftliche Einbussen", "Stellenverlust", "Freiheitsentzug", "Rechtsschutzversicherung", "Offizialmaxime"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-429.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,21 +26,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 429 StPO — Ansprüche**
->
-> 1 Wird die beschuldigte Person ganz oder teilweise freigesprochen oder wird das Verfahren gegen sie eingestellt, so hat sie Anspruch auf:
->
-> a. eine nach dem Anwaltstarif festgelegte Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte, wobei beim Anwaltstarif nicht unterschieden wird zwischen der zugesprochenen Entschädigung und den Honoraren für die private Verteidigung;
->
-> b. Entschädigung der wirtschaftlichen Einbussen, die ihr aus ihrer notwendigen Beteiligung am Strafverfahren entstanden sind;
->
-> c. Genugtuung für besonders schwere Verletzungen ihrer persönlichen Verhältnisse, insbesondere bei Freiheitsentzug.
->
-> 2 Die Strafbehörde prüft den Anspruch von Amtes wegen. Sie kann die beschuldigte Person auffordern, ihre Ansprüche zu beziffern und zu belegen.
->
-> 3 Hat die beschuldigte Person eine Wahlverteidigung mit ihrer Verteidigung betraut, so steht der Anspruch auf Entschädigung nach Absatz 1 Buchstabe a ausschliesslich der Verteidigung zu unter Vorbehalt der Abrechnung mit ihrer Klientschaft. Gegen den Entschädigungsentscheid kann die Verteidigung das Rechtsmittel ergreifen, das gegen den Endentscheid zulässig ist.
-
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 1 lit. a in der Fassung und Abs. 3 eingefügt gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 (AS 2023 468; BBl 2019 6697).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

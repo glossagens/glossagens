@@ -2,11 +2,16 @@
 title: "Art. 251 StGB — Urkundenfälschung"
 weight: 251
 date: 2026-05-15
-lastmod: 2026-09-25
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 251 StGB: Urkundenfälschung i.e.S. (Echtheitsdelikt, Geistigkeitstheorie, Namensunterschrift im Vertretungsverhältnis), Blankettfälschung, Falschbeurkundung (qualifizierte schriftliche Lüge, erhöhte Glaubwürdigkeit bei Buchhaltung, Formularen und Verträgen), umfassender Exkurs zur gespaltenen Urkundenqualität bei COVID-19-Krediten (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Gebrauchsvariante sowie Schädigungs- und Vorteilsabsicht."
 tags: ["StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Buchführung", "Qualifizierte schriftliche Lüge", "Vertretungstäuschung", "Gebrauch", "Vorteilsabsicht", "Covid-19-Kredit", "Solidarbürgschaft"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-251.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -36,16 +41,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 251 StGB — Urkundenfälschung**
->
-> 1. Wer in der Absicht, jemanden am Vermögen oder an andern Rechten zu schädigen oder sich oder einem andern einen unrechtmässigen Vorteil zu verschaffen,
-> eine Urkunde fälscht oder verfälscht, die echte Unterschrift oder das echte Handzeichen eines andern zur Herstellung einer unechten Urkunde benützt oder eine rechtlich erhebliche Tatsache unrichtig beurkundet oder beurkunden lässt,
-> eine Urkunde dieser Art zur Täuschung gebraucht,
-> wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
->
-> 2. …
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_251), Stand der Konsolidierung 12. Juni 2026. Ziff. 1 in der Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Januar 1995 (AS 1994 2290; BBl 1991 II 969). Ziff. 2 (besonders leichter Fall mit Strafdrohung von Geldstrafe oder Freiheitsstrafe bis zu drei Jahren) aufgehoben durch Ziff. I 1 des BG vom 17. Dezember 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).*
 
 ### Die Begehungsformen auf einen Blick
 

@@ -2,11 +2,16 @@
 title: "Art. 323 — Fälligkeit des Lohnes"
 weight: 323
 date: 2026-07-22
-lastmod: 2026-08-18
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Anteil am Geschäftsergebnis, Vorschuss, dispositives vs. absolut zwingendes Recht, kantonale Mindestlohnregelungen, Globalberechnung vs. Monatsberechnung"
 tags: ["OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-323.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **1** Sind nicht kürzere Fristen oder andere Termine verabredet oder üblich und ist durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag nichts anderes bestimmt, so ist dem Arbeitnehmer der Lohn Ende jedes Monats auszurichten.
->
-> **2** Ist nicht eine kürzere Frist verabredet oder üblich, so ist die Provision Ende jedes Monats auszurichten; erfordert jedoch die Durchführung von Geschäften mehr als ein halbes Jahr, so kann durch schriftliche Abrede die Fälligkeit der Provision für diese Geschäfte hinausgeschoben werden.
->
-> **3** Der Anteil am Geschäftsergebnis ist auszurichten, sobald dieses festgestellt ist, spätestens jedoch sechs Monate nach Ablauf des Geschäftsjahres.
->
-> **4** Der Arbeitgeber hat dem Arbeitnehmer nach Massgabe der geleisteten Arbeit den Vorschuss zu gewähren, dessen der Arbeitnehmer infolge einer Notlage bedarf und den der Arbeitgeber billigerweise zu gewähren vermag.
-
-*Quelle: SR 220, Art. 323 — Fedlex, Konsolidierungsstand 1.1.2026*
+{{< wortlaut >}}
 
 ## Überblick
 

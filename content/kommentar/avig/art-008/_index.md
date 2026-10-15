@@ -2,11 +2,16 @@
 title: "Art. 8 — Anspruchsvoraussetzungen"
 weight: 8
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 AVIG: Die sieben kumulativen Anspruchsvoraussetzungen der Arbeitslosenentschädigung, Sperrwirkung und Ausschluss von Einstellungen, arbeitgeberähnliche Stellung von Organen und GmbH-Gesellschaftern, unechte Grenzgänger, Beitragszeitbeweis, Werkstudenten, Mutterschutz und Kinderbetreuung sowie Rentenvorbezug."
 tags: ["AVIG", "Arbeitslosenversicherung", "Anspruchsvoraussetzungen", "Vermittlungsfähigkeit", "Beitragszeit", "Arbeitgeberähnliche Stellung", "Wohnsitz", "Grenzgänger", "Referenzalter", "Kontrollvorschriften"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -21,20 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 8 Anspruchsvoraussetzungen**
->
-> 1 Die versicherte Person hat Anspruch auf Arbeitslosenentschädigung, wenn sie:
-> a. ganz oder teilweise arbeitslos ist (Art. 10);
-> b. einen anrechenbaren Arbeitsausfall erlitten hat (Art. 11);
-> c. in der Schweiz wohnt (Art. 12);
-> d. die obligatorische Schulzeit zurückgelegt und das Referenzalter nach Artikel 21 Absatz 1 AHVG noch nicht erreicht hat;
-> e. die Beitragszeit erfüllt hat oder von der Erfüllung der Beitragszeit befreit ist (Art. 13 und 14);
-> f. vermittlungsfähig ist (Art. 15) und
-> g. die Kontrollvorschriften erfüllt (Art. 17).
->
-> 2 Der Bundesrat regelt die Anspruchsvoraussetzungen für Personen, die vor der Arbeitslosigkeit als Heimarbeitnehmer tätig waren. Er darf dabei von der allgemeinen Regelung in diesem Kapitel nur soweit abweichen, als die Besonderheiten der Heimarbeit dies gebieten.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 837.0](https://www.fedlex.admin.ch/eli/cc/1982/2197_2197_2197/de), Stand der Konsolidierung 1. Januar 2026. Abs. 1 Ingress und lit. d in der Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dezember 2021 (AHV 21), in Kraft seit 1. Januar 2024 ([AS 2023 92](https://www.fedlex.admin.ch/eli/oc/2023/92/de); [BBl 2019 6305](https://www.fedlex.admin.ch/eli/fga/2019/6305/de)).*
 
 ---
 

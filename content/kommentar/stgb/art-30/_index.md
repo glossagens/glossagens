@@ -2,11 +2,16 @@
 title: "Art. 30 StGB — Antragsberechtigung"
 weight: 30
 date: 2026-09-09
-lastmod: 2026-09-09
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 30 StGB: Antragsberechtigung bei Antragsdelikten — Träger des geschützten Rechtsguts, dingliche und obligatorische Berechtigte (Miete, Leihe, Besitz), Vertretung im Willen bei Vermögensdelikten und juristischen Personen, Handlungsunfähigkeit und KESB, urteilsfähige Minderjährige bei Elternkonflikt, Übergang auf Angehörige bei Tod sowie Endgültigkeit und Nichtigkeit des Verzichts."
 tags: ["StGB", "Strafantrag", "Antragsberechtigung", "Verletzter", "Geschädigter", "Handlungsunfähigkeit", "Urteilsfähigkeit", "Minderjährige", "KESB", "Erwachsenenschutz", "Angehörige", "Verzicht", "Stellvertretung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-30.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,19 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 30 StGB — Antragsberechtigung**
->
-> 1 Ist eine Tat nur auf Antrag strafbar, so kann jede Person, die durch sie verletzt worden ist, die Bestrafung des Täters beantragen.
->
-> 2 Ist die verletzte Person handlungsunfähig, so ist ihr gesetzlicher Vertreter zum Antrag berechtigt. Steht sie unter Vormundschaft oder unter umfassender Beistandschaft, so steht das Antragsrecht auch der Erwachsenenschutzbehörde zu.
->
-> 3 Ist die verletzte Person minderjährig oder steht sie unter umfassender Beistandschaft, so ist auch sie zum Antrag berechtigt, wenn sie urteilsfähig ist.
->
-> 4 Stirbt die verletzte Person, ohne dass sie den Strafantrag gestellt oder auf den Strafantrag ausdrücklich verzichtet hat, so steht das Antragsrecht jedem Angehörigen zu.
->
-> 5 Hat eine antragsberechtigte Person ausdrücklich auf den Antrag verzichtet, so ist ihr Verzicht endgültig.
-
-*Wortlaut gemäss [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026. Abs. 2 Satz 2 und Abs. 3 in der Fassung gemäss Anhang Ziff. 14 des BG vom 19. Dezember 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Januar 2013 (AS 2011 725; BBl 2006 7001).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

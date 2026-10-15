@@ -2,11 +2,16 @@
 title: "Art. 265 StPO — Pflicht zur Herausgabe (Editionspflicht)"
 weight: 265
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 265 StPO – Pflicht zur Herausgabe: Gesetzliche Editionspflicht von Dritten, Ausnahmen für Beschuldigte (nemo tenetur) und Unternehmen, Editionsverfügung und Subsidiarität von Zwangsmassnahmen."
 tags: ["StPO", "Herausgabepflicht", "Editionspflicht", "Editionsverfügung", "Beschlagnahme", "nemo tenetur", "Zwangsmassnahmen", "Unternehmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-265.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,25 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 265 StPO — Herausgabepflicht**
->
-> **1** Die Inhaberin oder der Inhaber ist verpflichtet, Gegenstände und Vermögenswerte, die beschlagnahmt werden sollen, herauszugeben.
->
-> **2** Keine Herausgabepflicht haben:
->
-> a. die beschuldigte Person;
->
-> b. Personen, die zur Aussage- oder Zeugnisverweigerung berechtigt sind, im Umfang ihres Verweigerungsrechts;
->
-> c. Unternehmen, wenn sie sich durch die Herausgabe selbst derart belasten würden, dass sie:
->
-> 1. strafrechtlich verantwortlich gemacht werden könnten, oder
->
-> 2. zivilrechtlich verantwortlich gemacht werden könnten, und wenn das Schutzinteresse das Strafverfolgungsinteresse überwiegt.
->
-> **3** Die Strafbehörde kann die zur Herausgabe verpflichtete Person zur Herausgabe auffordern, ihr eine Frist setzen und sie für den Fall der Nichtbeachtung auf die Strafdrohung von Artikel 292 StGB oder die Möglichkeit einer Ordnungsbusse hinweisen.
->
-> **4** Zwangsmassnahmen sind nur zulässig, wenn die Herausgabe verweigert wurde oder anzunehmen ist, dass die Aufforderung zur Herausgabe den Zweck der Massnahme vereiteln würde.
+{{< wortlaut >}}
 
 ---
 

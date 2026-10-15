@@ -2,23 +2,21 @@
 title: "Art. 367 StPO — Abwesenheitsverfahren: Durchführung und Entscheid"
 weight: 367
 date: "2026-07-17"
-lastmod: "2026-08-13"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 367 StPO: Durchführung und Entscheid im Abwesenheitsverfahren — Parteivortrag und Verteidigung, Urteilsgrundlage, Wahl zwischen Urteil und Sistierung sowie subsidiäre Geltung der Regeln über das erstinstanzliche Hauptverfahren."
 tags: ["Abwesenheitsverfahren", "Parteivortrag", "Verteidigung", "Hauptverhandlung", "Urteil", "Sistierung", "faires Verfahren"]
-agent_verified: true
+agent_verified: false
+revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: false
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-367.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 
 ## Gesetzeswortlaut
 
-> **Art. 367 StPO — Durchführung und Entscheid**
->
-> 1 Die Parteien und die Verteidigung werden zum Parteivortrag zugelassen.
->
-> 2 Das Gericht urteilt aufgrund der im Vorverfahren und im Hauptverfahren erhobenen Beweise.
->
-> 3 Nach Abschluss der Parteivorträge kann das Gericht ein Urteil fällen oder das Verfahren sistieren, bis die beschuldigte Person persönlich vor Gericht erscheint.
->
-> 4 Im Übrigen richtet sich das Abwesenheitsverfahren nach den Bestimmungen über das erstinstanzliche Hauptverfahren.
+{{< wortlaut >}}
 
 ## I. Bedeutung
 

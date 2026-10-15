@@ -2,11 +2,16 @@
 title: "Art. 399 StPO — Anmeldung der Berufung und Berufungserklärung"
 weight: 399
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 399 StPO – Anmeldung der Berufung und Berufungserklärung: Zweistufiges Berufungsverfahren, Fristenkaskade (10 und 20 Tage), Teilberufung, Abänderungs- und Beweisanträge."
 tags: ["StPO", "Berufung", "Berufungsanmeldung", "Berufungserklärung", "Fristen", "Rechtsmittel", "Teilberufung", "Teilrechtskraft", "Beweisanträge"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-399.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,35 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 399 StPO — Anmeldung der Berufung und Berufungserklärung**
->
-> **1** Die Berufung ist dem erstinstanzlichen Gericht innert 10 Tagen seit Eröffnung des Urteils schriftlich oder mündlich zu Protokoll anzumelden.
->
-> **2** Das erstinstanzliche Gericht übermittelt die Anmeldung nach Ausfertigung des begründeten Urteils zusammen mit den Akten dem Berufungsgericht.
->
-> **3** Die Partei, die Berufung angemeldet hat, reicht dem Berufungsgericht innert 20 Tagen seit der Zustellung des begründeten Urteils eine schriftliche Berufungserklärung ein. Sie hat darin anzugeben:
->
-> a. ob sie das Urteil vollumfänglich oder nur in Teilen anficht;
->
-> b. welche Abänderungen des erstinstanzlichen Urteils sie verlangt; und
->
-> c. welche Beweisanträge sie stellt.
->
-> **4** Wer nur Teile des Urteils anficht, hat in der Berufungserklärung verbindlich anzugeben, auf welche der folgenden Teile sich die Berufung beschränkt:
->
-> a. den Schuldpunkt, allenfalls bezogen auf einzelne Handlungen;
->
-> b. die Bemessung der Strafe;
->
-> c. die Anordnung von Massnahmen;
->
-> d. den Zivilanspruch oder einzelne Zivilansprüche;
->
-> e. die Nebenfolgen des Urteils;
->
-> f. die Kosten-, Entschädigungs- und Genugtuungsfolgen;
->
-> g. die nachträglichen richterlichen Entscheidungen.
+{{< wortlaut >}}
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 219 StPO — Vorgehen der Polizei bei vorläufiger Festnahme"
 weight: 219
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 219 StPO – Vorgehen der Polizei bei der vorläufigen Festnahme: Identitätsfeststellung, Belehrungspflichten (Art. 158), Befragung (Art. 159), 24-Stunden-Höchstfrist und Zuführung an die Staatsanwaltschaft."
 tags: ["StPO", "vorläufige Festnahme", "Polizei", "Freiheitsentzug", "Belehrungspflicht", "24-Stunden-Frist", "Zuführung", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-219.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,17 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 219 StPO — Vorgehen der Polizei**
->
-> **1** Die Polizei stellt nach der Festnahme unverzüglich die Identität der festgenommenen Person fest, informiert diese in einer ihr verständlichen Sprache über die Gründe der Festnahme und klärt sie im Sinne von Artikel 158 über ihre Rechte auf. Danach informiert sie unverzüglich die Staatsanwaltschaft über die Festnahme.
->
-> **2** Anschliessend befragt sie die festgenommene Person in Anwendung von Artikel 159 zu dem gegen sie bestehenden Verdacht und trifft unverzüglich die geeigneten Abklärungen, um den Tatverdacht und die weiteren Haftgründe zu erhärten oder zu entkräften.
->
-> **3** Ergeben die Abklärungen, dass Haftgründe nicht oder nicht mehr bestehen, so lässt sie die festgenommene Person sofort frei. Bestätigen die Abklärungen den Tatverdacht und einen Haftgrund, so führt sie die Person unverzüglich der Staatsanwaltschaft zu.
->
-> **4** Entlassung oder Zuführung erfolgen in jedem Falle spätestens nach 24 Stunden; ging der Festnahme eine Anhaltung voraus, so ist deren Dauer an die Frist anzurechnen.
->
-> **5** Hat die Polizei eine Person im Sinne von Artikel 217 Absatz 3 vorläufig festgenommen und soll die Person länger als 3 Stunden festgehalten werden, so muss dies von Polizeiangehörigen angeordnet werden, die dazu vom Bund oder vom Kanton ermächtigt sind.
+{{< wortlaut >}}
 
 ---
 

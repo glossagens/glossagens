@@ -2,11 +2,16 @@
 title: "§ 55 — Mitwirkung der Parteien"
 weight: 55
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu § 55 VRG (Luzern): Mitwirkungspflicht der Parteien bei der Sachverhaltsabklärung, Voraussetzungen und Grenzen der Mitwirkung, Sanktion bei Verweigerung (Nichteintreten), Beweislastverteilung, mit der Kasuistik der Luzerner Gerichte."
 tags: ["VRG", "Luzern", "Mitwirkungspflicht", "Beweislast", "Nichteintreten", "Auskunftspflicht", "Parteien"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-055.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
@@ -16,21 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **§ 55 3. Mitwirkung der Parteien**
->
-> 1 Die Parteien haben bei der Feststellung des Sachverhalts mitzuwirken:
->
-> a. wenn sie das Verfahren durch eine Rechtsvorkehr veranlasst haben;
->
-> b. wenn sie in einem Verfahren Anträge stellen;
->
-> c. soweit ein Rechtssatz ihnen besondere Auskunftspflichten auferlegt.
->
-> 2 Wenn eine Partei im Falle von Absatz 1a und b die notwendige und zumutbare Mitwirkung verweigert, braucht die Behörde auf ihre Anträge nicht einzutreten.
->
-> 3 Die Behörde berücksichtigt Beweisanträge der Parteien, soweit die beantragte Beweisführung notwendig und tauglich ist.
-
-*Wortlaut geprüft gegen [SRL 40](https://srl.lu.ch/api/de/versions/815/pdf_file) (Gesetz über die Verwaltungsrechtspflege, Stand 1. September 2021).*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

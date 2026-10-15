@@ -2,11 +2,16 @@
 title: "Art. 25 ATSG — Rückerstattung"
 weight: 25
 date: 2026-06-12
-lastmod: 2026-09-15
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 25 ATSG: Rückerstattung unrechtmässig bezogener Leistungen und Beiträge, Wiedererwägungsvorbehalt (Art. 53 Abs. 2 ATSG) vs. formlose Leistungen, Erlassvoraussetzungen (guter Glaube und grosse Härte nach Art. 4 f. ATSV), Verwirkungsfristen (Praxisänderung BGE 150 V 305 zum Fristbeginn, zweiter Anlass nach BGE 148 V 217, Revision 2021), längere strafrechtliche Verjährung unter in dubio pro reo (BGE 138 V 74) sowie Beitragsrückerstattung (BGE 149 V 21, BGE 138 V 463)."
 tags: ["ATSG", "Rückerstattung", "Erlass", "Guter Glaube", "Grosse Härte", "Verwirkung", "Praxisänderung", "Zweiter Anlass", "Strafbare Handlung", "Beitragsrückerstattung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -21,28 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 25 ATSG — Rückerstattung**
->
-> ---
->
-> **Abs. 1 — Rückerstattungspflicht und Erlass**
->
-> ¹ Unrechtmässig bezogene Leistungen sind zurückzuerstatten. Wer Leistungen in gutem Glauben empfangen hat, muss sie nicht zurückerstatten, wenn eine grosse Härte vorliegt.
->
-> ---
->
-> **Abs. 2 — Verwirkung und Verjährung**
->
-> ² Der Rückforderungsanspruch erlischt drei Jahre, nachdem die Versicherungseinrichtung davon Kenntnis erhalten hat, spätestens aber fünf Jahre seit der Auszahlung der einzelnen Leistung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
->
-> ---
->
-> **Abs. 3 — Rückforderung zu viel bezahlter Beiträge**
->
-> ³ Zuviel bezahlte Beiträge können zurückgefordert werden. Der Anspruch erlischt mit dem Ablauf eines Jahres, nachdem der Beitragspflichtige von seinen zu hohen Zahlungen Kenntnis erhalten hat, spätestens aber fünf Jahre nach Ablauf des Kalenderjahres, in dem die Beiträge bezahlt wurden.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 830.1](https://www.fedlex.admin.ch/eli/cc/2002/510/de), Stand der Konsolidierung 1. Januar 2024. Abs. 2 Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Januar 2021 (AS 2020 5137; BBl 2018 1607; Verlängerung der relativen Verwirkungsfrist von einem auf drei Jahre).*
 
 ### Die Tatbestände und Schichten auf einen Blick
 

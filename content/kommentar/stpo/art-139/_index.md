@@ -2,11 +2,16 @@
 title: "Art. 139 — Grundsätze der Beweiserhebung"
 weight: 139
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 139 StPO – Grundsätze der Beweiserhebung: Wahrheitsfindungspflicht, antizipierte Beweiswürdigung (mit zweistufiger Prüfung, hypothetischer Ergänzung und Begründungspflicht), Beweisantragsablehnung, Offenkundigkeit, Unerheblichkeit, rechtsgenügend erwiesene Tatsachen und die Grenzziehung zur Wahrunterstellung. Mit Kasuistiktabellen, plastischen Sachverhaltschilderungen und taktischen Merksätzen."
 tags: ["StPO", "Beweisrecht", "Beweismittel", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Untersuchungsgrundsatz", "Beweisantrag", "Offenkundigkeit", "Gerichtskundigkeit", "In-dubio-pro-reo", "Wahrunterstellung", "Beweisermittlungsantrag", "Willkürprüfung"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-139.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
@@ -36,11 +41,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 139 Grundsätze**
->
-> **1** Die Strafbehörden setzen zur Wahrheitsfindung alle nach dem Stand von Wissenschaft und Erfahrung geeigneten Beweismittel ein, die rechtlich zulässig sind.
->
-> **2** Über Tatsachen, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind, wird nicht Beweis geführt.
+{{< wortlaut >}}
 
 ---
 

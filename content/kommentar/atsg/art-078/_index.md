@@ -2,11 +2,16 @@
 title: "Art. 78 ATSG — Verantwortlichkeit"
 weight: 78
 date: 2026-08-08
-lastmod: 2026-08-28
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 78 ATSG: Staatshaftung und Organhaftung der Sozialversicherungsträger, qualifizierte Widerrechtlichkeit, Geltendmachung von Ersatzforderungen und Verfahren."
 tags: ["ATSG", "Verantwortlichkeit", "Organhaftung", "Ersatzforderung", "Staatshaftung", "Sozialversicherung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-078.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,18 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 78 — Verantwortlichkeit**
->
-> ¹ Für Schäden, die von Durchführungsorganen oder einzelnen Funktionären von Versicherungsträgern einer versicherten Person oder Dritten widerrechtlich zugefügt wurden, haften die öffentlichen Körperschaften, privaten Trägerorganisationen oder Versicherungsträger, die für diese Organe verantwortlich sind.
->
-> ² Die zuständige Behörde entscheidet durch Verfügung über Ersatzforderungen.
->
-> ³ Die subsidiäre Haftung des Bundes für ausserhalb der ordentlichen Bundesverwaltung stehende Organisationen richtet sich nach Artikel 19 des Verantwortlichkeitsgesetzes vom 14. März 1958.
->
-> ⁴ Für die Verfahren nach den Absätzen 1 und 3 gelten die Bestimmungen dieses Gesetzes. Ein Einspracheverfahren wird nicht durchgeführt. Die Artikel 3–9, 11, 12, 20 Absatz 1, 21 und 23 des Verantwortlichkeitsgesetzes vom 14. März 1958 sind sinngemäss anwendbar.
->
-> ⁵ Personen, die als Organe oder Funktionäre eines Versicherungsträgers, einer Revisions- oder Kontrollstelle handeln oder denen durch die Einzelgesetze bestimmte Aufgaben übertragen wurden, unterliegen der gleichen strafrechtlichen Verantwortlichkeit wie Behördemitglieder und Beamte nach dem Strafgesetzbuch.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 

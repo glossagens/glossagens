@@ -2,11 +2,16 @@
 title: "Art. 264 StPO — Einschränkungen der Beschlagnahme"
 weight: 264
 date: 2025-07-16
-lastmod: 2026-09-12
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 264 StPO: Beschlagnahmeverbote für Verteidigungskorrespondenz, persönliche Aufzeichnungen, Verkehr mit Zeugnisverweigerungsberechtigten und Drittmandate — mit der Rechtsprechung zu Smartphones (3-Stufen-Doktrin), zur Kanzleidurchsuchung, zur Grenze der Mitbeschuldigung (Informationswall nach BGer 7B_219/2026), zum Quellenschutz (BGE 151 IV 153 und BGE 140 IV 108) und zum Siegelungsverfahren (BGE 148 IV 221)."
 tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Quellenschutz", "Arztgeheimnis", "Smartphones", "Triage", "Informationswall"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-264.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
@@ -36,21 +41,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 264 StPO — Einschränkungen**
->
-> 1 Nicht beschlagnahmt werden dürfen, ungeachtet des Ortes, wo sie sich befinden, und des Zeitpunktes, in welchem sie geschaffen worden sind:
->
-> a. Unterlagen aus dem Verkehr der beschuldigten Person mit ihrer Verteidigung;
->
-> b. persönliche Aufzeichnungen und Korrespondenz der beschuldigten Person, wenn ihr Interesse am Schutz der Persönlichkeit das Strafverfolgungsinteresse überwiegt;
->
-> c. Gegenstände und Unterlagen aus dem Verkehr der beschuldigten Person mit Personen, die nach den Artikeln 170–173 das Zeugnis verweigern können und im gleichen Sachzusammenhang nicht selber beschuldigt sind;
->
-> d. Gegenstände und Unterlagen aus dem Verkehr einer anderen Person mit ihrer Anwältin oder ihrem Anwalt, sofern die Anwältin oder der Anwalt nach dem Anwaltsgesetz vom 23. Juni 2000 zur Vertretung vor schweizerischen Gerichten berechtigt ist und im gleichen Sachzusammenhang nicht selber beschuldigt ist.
->
-> 2 Die Einschränkungen nach Absatz 1 gelten nicht für Gegenstände und Vermögenswerte, die zur Rückgabe an die geschädigte Person oder zur Einziehung beschlagnahmt werden müssen.
->
-> 3 Macht die Inhaberin oder der Inhaber geltend, eine Beschlagnahme von Gegenständen oder Vermögenswerten sei nicht zulässig, so gehen die Strafbehörden nach den Vorschriften über die Siegelung vor.
+{{< wortlaut >}}
 
 *Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_264), Stand der Konsolidierung 1. April 2025. Abs. 1 lit. c wurde neu gefasst und lit. d eingefügt durch Ziff. I 6 des BG vom 28. September 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://www.fedlex.admin.ch/eli/oc/2013/193/de); [BBl 2011 8181](https://www.fedlex.admin.ch/eli/fga/2011/1418/de)). Abs. 3 wurde neu gefasst durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Januar 2024 ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).*
 

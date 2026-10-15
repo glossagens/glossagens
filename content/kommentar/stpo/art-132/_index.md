@@ -2,11 +2,16 @@
 title: "Art. 132 StPO — Amtliche Verteidigung"
 weight: 132
 date: 2026-06-12
-lastmod: 2026-09-23
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 132 StPO: Amtliche Verteidigung bei notwendiger Verteidigung und relativer Bedürftigkeit, Schwellenwerte des Bagatellfalls, tatsächliche und rechtliche Schwierigkeiten, Subsidiaritätsstreit zur Wahlverteidigung sowie Rückwirkung der Bestellung — mit ausführlicher Grenzkasuistik der Gerichte zu Anwendungs- und Verwerfungsfällen."
 tags: ["StPO", "amtliche Verteidigung", "Offizialverteidigung", "notwendige Verteidigung", "Bedürftigkeit", "Mittellosigkeit", "Bagatellfall", "Schwierigkeiten", "Aussage gegen Aussage", "Waffengleichheit", "Subsidiarität", "Rückwirkung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-132.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -26,23 +31,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 132 StPO — Amtliche Verteidigung**
->
-> 1 Die Verfahrensleitung ordnet eine amtliche Verteidigung an, wenn:
->
-> a. bei notwendiger Verteidigung:
->
-> 1. die beschuldigte Person trotz Aufforderung der Verfahrensleitung keine Wahlverteidigung bestimmt,
->
-> 2. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die beschuldigte Person nicht innert Frist eine neue Wahlverteidigung bestimmt;
->
-> b. die beschuldigte Person nicht über die erforderlichen Mittel verfügt und die Verteidigung zur Wahrung ihrer Interessen geboten ist.
->
-> 2 Zur Wahrung der Interessen der beschuldigten Person ist die Verteidigung namentlich geboten, wenn es sich nicht um einen Bagatellfall handelt und der Straffall in tatsächlicher oder rechtlicher Hinsicht Schwierigkeiten bietet, denen die beschuldigte Person allein nicht gewachsen wäre.
->
-> 3 Ein Bagatellfall liegt jedenfalls dann nicht mehr vor, wenn eine Freiheitsstrafe von mehr als 4 Monaten oder eine Geldstrafe von mehr als 120 Tagessätzen zu erwarten ist.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025. Abs. 3 in der Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Januar 2018 (AS 2016 1249; BBl 2012 4721).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 418 StPO — Beteiligung mehrerer Personen und Haftung Dritter"
 weight: 418
 date: 2026-10-04
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 418 StPO (SR 312.0): anteilsmässige Kostentragung bei mehreren kostenpflichtigen Personen, solidarische Haftung für gemeinsam verursachte Kosten, Haftung Dritter nach zivilrechtlichen Grundsätzen."
 tags: ["StPO", "Kostentragung", "Solidarhaftung", "Anteilsmässig", "Haftung Dritter", "Zivilrecht", "Kosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-418.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -16,15 +21,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 418 StPO — Beteiligung mehrerer Personen und Haftung Dritter (SR 312.0)**
-> [Kommentierung auf glossagens.ch](https://glossagens.ch/kommentar/stpo/art-418/)
-
-> «1 Sind mehrere beteiligte Personen kostenpflichtig, so werden die Kosten anteilsmässig auferlegt.
->
-> 2 Die Strafbehörde kann für gemeinsam verursachte Kosten eine solidarische Haftung der kostenpflichtigen Personen anordnen.
->
-> 3 Sie kann Dritte nach Massgabe der Haftungsgrundsätze des Zivilrechts verpflichten, die Kosten solidarisch mit der beschuldigten Person zu tragen.»
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
 ## Kommentierung
 

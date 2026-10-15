@@ -2,11 +2,16 @@
 title: "Art. 105 StPO — Andere Verfahrensbeteiligte"
 weight: 105
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 105 StPO: Andere Verfahrensbeteiligte (Geschädigte, Anzeigende, Zeugen, Auskunftspersonen, Sachverständige, beschwerte Dritte), unmittelbare Betroffenheit nach Abs. 2, Umfang partieller Parteirechte (Gehör, Akteneinsicht, Rechtsmittel, unentgeltliche Rechtspflege) und Grenzziehung zur blossen Reflexwirkung bei Zwangsmassnahmen und Kontensperren."
 tags: ["StPO", "Andere Verfahrensbeteiligte", "Unmittelbare Betroffenheit", "Beschwerte Dritte", "Zeugen", "Auskunftsperson", "Akteneinsicht", "Beschwerdelegitimation", "Beschlagnahme", "Kontensperre"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-105.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,25 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 105 Andere Verfahrensbeteiligte**
->
-> 1 Andere Verfahrensbeteiligte sind:
->
-> a. die geschädigte Person;
->
-> b. die Person, die Anzeige erstattet;
->
-> c. die Zeugin oder der Zeuge;
->
-> d. die Auskunftsperson;
->
-> e. die oder der Sachverständige;
->
-> f. die oder der durch Verfahrenshandlungen beschwerte Dritte.
->
-> 2 Werden in Absatz 1 genannte Verfahrensbeteiligte in ihren Rechten unmittelbar betroffen, so stehen ihnen die zur Wahrung ihrer Interessen erforderlichen Verfahrensrechte einer Partei zu.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 312.0](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de), Stand der Konsolidierung 1. April 2025.*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 108 — Einzelrichter oder Einzelrichterin (vereinfachtes Verfahren)"
 weight: 108
 date: 2026-08-02
-lastmod: "2026-08-01"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 108 BGG (SR 173.110): Vereinfachtes Verfahren des Abteilungspräsidenten/der Abteilungspräsidentin — Nichteintreten auf offensichtlich unzulässige, offensichtlich ungenügend begründete oder querulatorische Beschwerden."
 tags: ["BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Begründungspflicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -18,19 +23,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 108 BGG — Einzelrichter oder Einzelrichterin**
->
-> **1** Der Präsident oder die Präsidentin der Abteilung entscheidet im vereinfachten Verfahren über:
->
-> a. Nichteintreten auf offensichtlich unzulässige Beschwerden;
->
-> b. Nichteintreten auf Beschwerden, die offensichtlich keine hinreichende Begründung (Art. 42 Abs. 2) enthalten;
->
-> c. Nichteintreten auf querulatorische oder rechtsmissbräuchliche Beschwerden.
->
-> **2** Er oder sie kann einen anderen Richter oder eine andere Richterin damit betrauen.
->
-> **3** Die Begründung des Entscheids beschränkt sich auf eine kurze Angabe des Unzulässigkeitsgrundes.
+{{< wortlaut >}}
 
 Quelle: [Fedlex SR 173.110 Art. 108](https://www.fedlex.admin.ch/eli/cc/2006/411_413_415/de#art_108).
 

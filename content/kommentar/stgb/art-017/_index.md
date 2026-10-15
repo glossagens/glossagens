@@ -2,11 +2,16 @@
 title: "Art. 17 — Rechtfertigender Notstand"
 weight: 17
 date: 2026-07-02
-lastmod: "2026-09-09"
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 17 StGB: Rechtfertigender Notstand — Voraussetzungen, Güterabwägung, Subsidiarität, Notstandshilfe bei der Fluchthilfe (Art. 116 AIG) und Verhältnis zu Art. 14 und 18 StGB sowie zum entschuldigenden Notstand."
 tags: ["StGB", "Notstand", "Rechtfertigungsgrund", "Güterabwägung", "Subsidiarität", "Notstandshilfe", "Ausländerrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -21,9 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Wer eine mit Strafe bedrohte Tat begeht, um ein eigenes oder das Rechtsgut einer anderen Person aus einer unmittelbaren, nicht anders abwendbaren Gefahr zu retten, handelt rechtmässig, wenn er dadurch höherwertige Interessen wahrt.
+{{< wortlaut >}}
 
-*Stand: 1. Januar 2007 (AS 2006 3459; BBl 1999 1979).*
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 167 StGB — Bevorzugung eines Gläubigers"
 weight: 167
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 167 StGB: Bevorzugung eines Gläubigers im Vorfeld von Konkurs oder Pfändungsverlustschein — Zahlungsunfähigkeit, Regelbeispiele (nicht verfallene Schulden, unübliche Zahlungsmittel, unaufgeforderte Sicherstellung), Generalklausel, Abgrenzung von kongruenter und inkongruenter Deckung, subjektive Anforderungen (Dolus directus 1. Grades vs. Eventualabsicht), Kasuistik und taktische Praxishinweise."
 tags: ["StGB", "Bevorzugung eines Gläubigers", "Gläubigerbevorzugung", "Konkursdelikte", "Zahlungsunfähigkeit", "Inkongruente Deckung", "Kongruente Deckung", "Organhaftung", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-167.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -16,14 +21,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> **Art. 167 StGB — Bevorzugung eines Gläubigers**
->
-> Der Schuldner, der im Bewusstsein seiner Zahlungsunfähigkeit und in der Absicht, einzelne seiner Gläubiger zum Nachteil anderer zu bevorzugen, darauf abzielende Handlungen vornimmt, insbesondere nicht verfallene Schulden bezahlt, eine verfallene Schuld anders als durch übliche Zahlungsmittel tilgt, eine Schuld aus eigenen Mitteln sicherstellt, ohne dass er dazu verpflichtet war,
-> wird, wenn über ihn der Konkurs eröffnet oder gegen ihn ein Verlustschein ausgestellt worden ist,
-> mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
-{: .gesetzeszitat}
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 311.0](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de), Stand der Konsolidierung 12. Juni 2026.*
 
 ### Die Tatbestandsformen auf einen Blick
 

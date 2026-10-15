@@ -2,11 +2,16 @@
 title: "Art. 406 — Geschäfte vor Kenntnis des Erlöschens"
 weight: 406
 date: 2026-09-05
-lastmod: 2026-09-05
+lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 406 OR — Bindung des Auftraggebers an Geschäfte des Beauftragten vor Kenntnis des Erlöschens; Rechtsscheinschutz; Verhältnis zu Art. 405 Abs. 2"
 tags: ["OR", "Auftragsrecht", "Erlöschen", "Rechtsschein", "guter Glaube", "Kenntnis", "Geschäftsführung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    mcp_verified: true
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-406.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
@@ -21,9 +26,8 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> Aus den Geschäften, die der Beauftragte führt, bevor er von dem Erlöschen des Auftrages Kenntnis erhalten hat, wird der Auftraggeber oder dessen Erbe verpflichtet, wie wenn der Auftrag noch bestanden hätte.
+{{< wortlaut >}}
 
-*Wortlaut geprüft gegen [Fedlex, SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de), Stand der Konsolidierung 1. Januar 2026.*
 
 ### Prüfschema
 
