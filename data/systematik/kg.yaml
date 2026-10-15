@@ -1,0 +1,27 @@
+# Systematik-Gliederung für das KG (SR 251)
+# Grundlage der automatisch generierten Artikelübersicht.
+gruppen:
+  - name: "1. Kapitel: Allgemeine Bestimmungen"
+    von: 1
+    bis: 4
+  - name: "2. Kapitel: Wettbewerbsbeschränkungen (1.–3. Abschnitt: Unzulässige Wettbewerbsabreden, Unzulässige Verhaltensweisen von Unternehmen mit marktbeherrschender oder relativer Marktmacht, Unternehmenszusammenschlüsse)"
+    von: 5
+    bis: 11
+  - name: "3. Kapitel: Zivilrechtliche Verfahren"
+    von: 12
+    bis: 17
+  - name: "4. Kapitel: Verwaltungsrechtliche Verfahren (1.–4. Abschnitt: Wettbewerbsbehörden, Vorabklärungen und Untersuchungen, Sanktionen und Gebühren, Rechtsschutz)"
+    von: 18
+    bis: 44
+  - name: "5. Kapitel: Verwaltungssanktionen"
+    von: 49
+    bis: 53
+  - name: "6. Kapitel: Vollzug internationaler Abkommen"
+    von: 53
+    bis: 53
+  - name: "7. Kapitel: Strafbestimmungen"
+    von: 54
+    bis: 57
+  - name: "8. Kapitel: Schlussbestimmungen"
+    von: 58
+    bis: 62
