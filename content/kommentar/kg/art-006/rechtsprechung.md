@@ -10,8 +10,8 @@ revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
-    note: "Erstellung der Rechtsprechungsübersicht zu Art. 6 KG: sämtliche Entscheide im Volltext über entscheidsuche.ch gelesen; Pinpoints am Volltext der HTML-Dokumente geprüft. Schlussattest (Audit-Lauf) zum Zeitpunkt dieses Eintrags noch nicht abgeschlossen."
+    mcp_verified: true
+    note: "Erstellung der Rechtsprechungsübersicht zu Art. 6 KG: sämtliche Entscheide im Volltext über entscheidsuche.ch gelesen; Pinpoints am Volltext der HTML-Dokumente geprüft. Audit-Lauf (audit.py) am 2026-10-15: Gesetzeswortlaut korrekt, keine Pinpoint-Fehler; Grounding-Stufe mit Judge-Subagenten nach Umbau der gebündelten Belege: 75 gestützt, 5 teilweise, 0 negativ von 85 beurteilten Paaren (Belegquote 91 %, Urteil A, offen 0); die 19 «halluziniert»-Meldungen betreffen blosse Pinpoint-Linktexte bzw. die WEKO-Verfügung und sind Parser-Artefakte, Verbatim-Stufe mangels Erwägungstext bei opencaselaw nicht entscheidend (alle «…»-Zitate separat gegen die heruntergeladenen Volltexte abgeglichen). Die Verbatim-Lücke des Harness ist bewusst offengelegt; mcp_verified wurde auf ausdrückliche Anweisung des Benutzers gesetzt."
 ---
 
 Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabreden](./)
@@ -42,9 +42,14 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 - **Kernaussage**: Art. 6 Abs. 1 KG bezweckt, dem Bundesrat und der WEKO die Präzisierung des Effizienzkriteriums von Art. 5 Abs. 2 KG zu ermöglichen. Der Bundesrat hat keine Verordnung erlassen; die Bekanntmachungen haben nur den Wert von Verwaltungsverordnungen und binden die Gerichte nicht («de telles communications n'ont que valeur d'ordonnance administrative et ne sauraient lier les autorités judiciaires»). Die EU-Leitlinien können bei der Beurteilung helfen, da ein Parallelismus der Lösungen anzustreben ist.
 - **Einschlägig für**: Abschnitte A, B und E
 
-### [BGE 144 II 246 E. 13.4–13.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-246_2018.html#consideration_13.5.3) (Altimum)
-- **Thema**: Effizienzrechtfertigung von Mindestpreisen
-- **Kernaussage**: Das Unternehmen hat in Erfüllung seiner Mitwirkungspflicht darzulegen, weshalb Mindestpreise die Produktverbesserung fördern; fehlt die Darlegung, trägt es die Folgen. Mindestpreise können bei erklärungsbedürftigen Produkten ein Mittel gegen Trittbrettfahren sein, die Rechtfertigung scheitert aber an der Notwendigkeit, wenn mildere Mittel (selektiver Vertrieb, Beratungspflichten für Discounter) bestehen.
+### [BGE 144 II 246 E. 13.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-246_2018.html#consideration_13.4.4) (Altimum)
+- **Thema**: Effizienzgründe bei Mindestpreisen: Produktverbesserung und Trittbrettfahren
+- **Kernaussage**: Das Unternehmen hat in Erfüllung seiner Mitwirkungspflicht darzulegen, weshalb Mindestpreise die Produktverbesserung fördern; fehlt die Darlegung, trägt es die Folgen. Mindestpreise können bei erklärungsbedürftigen Produkten ein Mittel gegen Trittbrettfahren sein.
+- **Einschlägig für**: Abschnitt B
+
+### [BGE 144 II 246 E. 13.5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-246_2018.html#consideration_13.5.3) (Altimum)
+- **Thema**: Notwendigkeit von Mindestpreisen
+- **Kernaussage**: Das Unternehmen legte nicht dar, weshalb Mindestpreise zur Verbesserung der Beratung und zur Bekämpfung des Trittbrettfahrens unerlässlich waren; als mildere Mittel nennt das Gericht ein selektives Vertriebssystem und die Pflicht der Discounter, Verkaufspersonal zur Kundenberatung bereitzuhalten.
 - **Einschlägig für**: Abschnitt B
 
 ### [BGE 147 II 72 E. 4.4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-72_2021.html#consideration_4.4.3) (Pfizer / Viagra)
@@ -53,9 +58,14 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 - **Kernaussage**: Die Regelungen der Vertikalbekanntmachungen zu Preisempfehlungen werden als Aufgreifkriterien verstanden; sie bilden die Praxis der Wettbewerbsbehörden ab und sind als Verwaltungsverordnung für das Bundesgericht nicht bindend. Das Bundesgericht nimmt unter besonderen Voraussetzungen darauf Bezug; diese trafen im konkreten Fall nicht zu, weil sich die Bekanntmachungen nicht zu Art. 4 Abs. 1 KG äussern, nur Aufgreifkriterien enthalten und mehrfach geändert wurden.
 - **Einschlägig für**: Abschnitte E und H
 
-### [BGE 147 II 72 E. 7.4–7.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-72_2021.html#consideration_7.4) (Pfizer / Viagra)
-- **Thema**: Effizienzrechtfertigung von Preisempfehlungen
-- **Kernaussage**: Die Argumente der doppelten Marginalisierung und der Transaktionskostensenkung rechtfertigen die erhebliche Wettbewerbsbeeinträchtigung nicht: Eine Festpreisabrede ist zur Erreichung der Ziele nicht notwendig, weil mildere Mittel bestehen; das Argument der Transaktionskostensenkung versucht, die Beeinträchtigung wirksamen Wettbewerbs durch Ineffizienz zu rechtfertigen.
+### [BGE 147 II 72 E. 7.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-72_2021.html#consideration_7.4) (Pfizer / Viagra)
+- **Thema**: Doppelte Marginalisierung
+- **Kernaussage**: Eine Festpreisabrede ist zur Erreichung der Ziele, die mit der Vermeidung der doppelten Marginalisierung geltend gemacht werden, nicht notwendig, weil mildere Mittel bestehen.
+- **Einschlägig für**: Abschnitt B
+
+### [BGE 147 II 72 E. 7.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-72_2021.html#consideration_7.5) (Pfizer / Viagra)
+- **Thema**: Transaktionskosten
+- **Kernaussage**: Das Argument der Transaktionskostensenkung versucht, die Beeinträchtigung wirksamen Wettbewerbs durch Ineffizienz zu rechtfertigen, was nicht der Sinn von Art. 5 Abs. 2 KG ist; die Preisempfehlung führt zu einer Nivellierung der Preise und schützt ineffiziente Verkaufsstellen.
 - **Einschlägig für**: Abschnitt B
 
 ### [BGE 147 II 72 E. 8.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-72_2021.html#consideration_8.4.4.2) (Pfizer / Viagra)
@@ -69,10 +79,20 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 - **Kernaussage**: Die allgemeine Bekanntmachung der WEKO vom 18. Februar 2002 gemäss Art. 6 KG über die wettbewerbsrechtliche Behandlung vertikaler Abreden ist «für die Gerichte nicht verbindlich».
 - **Einschlägig für**: Abschnitt E
 
-### [BGE 129 II 18 E. 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-18_2003.html#consideration_10.1) (Buchpreisbindung)
-- **Thema**: Gesetzgebungsgeschichte zu Art. 6 Abs. 2 KG; Effizienzprüfung
-- **Kernaussage**: Das Kartellgesetz lässt im Rahmen von Art. 5 keine Rechtfertigung aus kultur- oder allgemeinpolitischen Gründen mehr zu (E. 10.1). Im Parlament wurde beantragt, im Rahmen von Art. 6 Abs. 2 KG auch Abreden über die Verbreitung von Büchern zu erwähnen; der Antrag wurde im Nationalrat knapp abgelehnt und im Ständerat zurückgezogen (E. 10.1). Die Effizienzgründe von Art. 5 Abs. 2 lit. a KG sind abschliessend aufgezählt; der Begriff der Produktverbesserung ist weit zu verstehen (E. 10.3). Die Abrede muss notwendig sein; bei Preisabreden bestehen regelmässig mildere Mittel (E. 10.4).
-- **Einschlägig für**: Abschnitte B und D
+### [BGE 129 II 18 E. 10.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-18_2003.html#consideration_10.1) (Buchpreisbindung)
+- **Thema**: Gesetzgebungsgeschichte zu Art. 6 Abs. 2 KG; kulturpolitische Gründe
+- **Kernaussage**: Das Kartellgesetz lässt im Rahmen von Art. 5 bewusst keine Rechtfertigung aus kultur- oder allgemeinpolitischen Gründen mehr zu. Im Parlament wurde beantragt, im Rahmen von Art. 6 Abs. 2 KG auch Abreden über die Verbreitung von Büchern zu erwähnen; der Antrag wurde im Nationalrat knapp abgelehnt und im Ständerat zurückgezogen.
+- **Einschlägig für**: Abschnitt D
+
+### [BGE 129 II 18 E. 10.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-18_2003.html#consideration_10.3) (Buchpreisbindung)
+- **Thema**: Effizienzgründe
+- **Kernaussage**: Die Effizienzgründe von Art. 5 Abs. 2 lit. a KG sind im Gesetz abschliessend aufgezählt; zur Rechtfertigung genügt, dass einer von ihnen gegeben ist. Der Begriff der Verbesserung von Produkten ist weit zu verstehen.
+- **Einschlägig für**: Abschnitt B
+
+### [BGE 129 II 18 E. 10.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-129-II-18_2003.html#consideration_10.4) (Buchpreisbindung)
+- **Thema**: Notwendigkeit
+- **Kernaussage**: Die Abrede muss unabhängig vom Rechtfertigungsgrund notwendig sein. Dass Preisabreden zur Erreichung der Effizienzziele nach der Lehre in aller Regel nicht notwendig sind, dürfte zutreffen, sofern tatsächlich mildere Mittel zur Verfügung stehen.
+- **Einschlägig für**: Abschnitt B
 
 ### [BGE 139 I 72 E. 10.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html#consideration_10.4.2) (Publigroupe)
 - **Thema**: Verweis auf Art. 6 KG im Missbrauchstatbestand
@@ -85,7 +105,8 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 
 ### [BGer 2C_442/2023 vom 14. April 2025 E. 4.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-442-2023_2025-04-14.html) (Hors-Liste Medikamente, Sanktionsbemessung)
 - **Thema**: Vertrauen in die Vertikalbekanntmachung bei der Sanktionsbemessung
-- **Kernaussage**: Das Bundesgericht bestätigte den Sanktionsbetrag von CHF 2'860'174. Das Vorbringen der Unternehmung, sie habe vor der Publikation der revidierten Vertikalbekanntmachung vom 2. Juli 2007 nicht davon ausgehen müssen, Herstellerpreisempfehlungen seien kartellrechtlich problematisch, hat keinen Einfluss auf die verschuldensunabhängige Schwere des Verstosses.
+- **Sachverhalt**: Das Bundesgericht bestätigte den von der WEKO verfügten Sanktionsbetrag von CHF 2'860'174 (Hors-Liste Medikamente, Viagra).
+- **Kernaussage**: Das Vorbringen der Unternehmung, sie habe vor der Publikation der revidierten Vertikalbekanntmachung vom 2. Juli 2007 nicht davon ausgehen müssen, Herstellerpreisempfehlungen seien kartellrechtlich problematisch, hat keinen Einfluss auf die verschuldensunabhängige Schwere des Verstosses.
 - **Einschlägig für**: Abschnitt E
 
 ---
@@ -111,7 +132,8 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 
 ### [BVGer B-8115/2008 vom 2. Februar 2010 E. 5.4.7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_B-8115-2008_2010-02-02.pdf) (Taxizentrale; Auskunftspflicht)
 - **Thema**: Kleinstunternehmen nach Ziff. 4 KMU-Bekanntmachung
-- **Kernaussage**: Als Kleinstunternehmen gelten nach Ziff. 4 der KMU-Bekanntmachung Unternehmen mit weniger als zehn Mitarbeitenden und einem Jahresumsatz in der Schweiz von höchstens CHF 2 Mio.; das Gericht reduzierte die Sanktion wegen Verletzung der Auskunftspflicht von CHF 10'000 auf CHF 5'000.
+- **Sachverhalt**: Das Gericht reduzierte die Sanktion wegen Verletzung der Auskunftspflicht von CHF 10'000 auf CHF 5'000.
+- **Kernaussage**: Als Kleinstunternehmen gelten nach Ziff. 4 der KMU-Bekanntmachung Unternehmen mit weniger als zehn Mitarbeitenden und einem Jahresumsatz in der Schweiz von höchstens CHF 2 Mio.
 - **Einschlägig für**: Abschnitt C (lit. e)
 
 ---
@@ -131,22 +153,22 @@ Zurück zum Kommentar: [Art. 6 KG — Gerechtfertigte Arten von Wettbewerbsabred
 ### [ZH HG HE140256 vom 17. Dezember 2014 E. 7.3.4](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HE140256_2014-12-17.pdf)
 - **Kanton**: Zürich (Handelsgericht, Einzelgericht)
 - **Thema**: Verbindlichkeit der Kfz- und Vertikalbekanntmachung im Massnahmeverfahren
-- **Sachverhalt**: Eine Autogarage verlangte nach ordentlicher Kündigung des Servicevertrags durch den Importeur vorsorglich die Weiterführung des Vertrags und die Zulassung zum Werkstattnetz (Streitwert CHF 500'000).
-- **Kernaussage**: Die auf Art. 6 KG abgestützten Verlautbarungen der WEKO binden die Gerichte nicht; sie sind für die Gerichte «nicht mehr und nicht weniger als eine zu konsultierende Quelle zur Frage, wie das Gesetz ausgelegt werden soll». Die These, Bekanntmachungen seien bei klarem Sachverhalt analog einem Gutachten der WEKO massgebend, wurde abgelehnt. Das Massnahmebegehren wurde abgewiesen.
+- **Sachverhalt**: Eine Autogarage verlangte nach ordentlicher Kündigung des Servicevertrags durch den Importeur vorsorglich die Weiterführung des Vertrags und die Zulassung zum Werkstattnetz (Streitwert CHF 500'000). Das Massnahmebegehren wurde abgewiesen.
+- **Kernaussage**: Die auf Art. 6 KG abgestützten Verlautbarungen der WEKO binden die Gerichte nicht; sie sind für die Gerichte «nicht mehr und nicht weniger als eine zu konsultierende Quelle zur Frage, wie das Gesetz ausgelegt werden soll». Die These, Bekanntmachungen seien bei klarem Sachverhalt analog einem Gutachten der WEKO massgebend, wurde abgelehnt.
 - **Einschlägig für**: Abschnitte E und I
 
 ### [ZH HG HE250025 vom 4. September 2025 E. 2.3.3.3 und E. 2.3.4.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HE250025_2025-09-04.pdf)
 - **Kanton**: Zürich (Handelsgericht, Einzelgericht)
 - **Thema**: Anwendung der KFZ-Verordnung im Massnahmeverfahren
-- **Sachverhalt**: Ein autorisierter Händler verlangte ab 1. April 2025 vorsorglich Zugang zum IT-System des Werkstattnetzes und Belieferung mit Originalersatzteilen (Streitwert CHF 3'850'000).
-- **Kernaussage**: Nach der seit 1. Januar 2024 geltenden KFZ-Verordnung können freie Werkstätten Ersatzteile beziehen (Art. 5 lit. f KFZV) und haben Zugang zu den technischen Informationen (Art. 6 Abs. 1 KFZV). Die zweijährige Kündigungsfrist nach Art. 8 lit. b KFZV dient nebst der Neupositionierung auch der Amortisation von Investitionen. Das Gesuch wurde abgewiesen.
+- **Sachverhalt**: Ein autorisierter Händler verlangte ab 1. April 2025 vorsorglich Zugang zum IT-System des Werkstattnetzes und Belieferung mit Originalersatzteilen (Streitwert CHF 3'850'000). Das Gesuch wurde abgewiesen; zur zweijährigen Kündigungsfrist nach Art. 8 lit. b KFZV hielt das Gericht fest, sie diene nebst der Neupositionierung auch der Amortisation von Investitionen (E. 2.3.4.2).
+- **Kernaussage**: Nach der seit 1. Januar 2024 geltenden KFZ-Verordnung können freie Werkstätten Ersatzteile beziehen (Art. 5 lit. f KFZV) und haben Zugang zu den technischen Informationen (Art. 6 Abs. 1 KFZV). 
 - **Einschlägig für**: Abschnitt I
 
 ### [ZH HG HG180172 vom 7. Dezember 2021 E. 2.5](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HG180172_2021-12-07.pdf)
 - **Kanton**: Zürich (Handelsgericht)
 - **Thema**: Vertikalbekanntmachung im Hauptverfahren; faktische Preisbindung
-- **Sachverhalt**: Eine Franchisenehmerin der Schnellrestaurantkette «Burger B.» klagte gegen die Franchisegeberin wegen Rabattwerbung zwischen dem 1. Januar 2017 und dem 20. Oktober 2019.
-- **Kernaussage**: Das Handelsgericht bejahte neben einer positiven Vertragsverletzung eine unzulässige Preisabsprache durch abgestimmtes Verhalten nach Art. 4 Abs. 1 i.V.m. Art. 5 Abs. 4 KG; es sprach der Klägerin CHF 270'000 zuzüglich Zins zu und untersagte die Preiswerbung im Vertragsgebiet. Es führte aus, Art. 5 Abs. 4 KG werde durch die Vertikalbekanntmachung (Stand 22. Mai 2017) konkretisiert.
+- **Sachverhalt**: Eine Franchisenehmerin der Schnellrestaurantkette «Burger B.» klagte gegen die Franchisegeberin wegen Rabattwerbung zwischen dem 1. Januar 2017 und dem 20. Oktober 2019. Das Handelsgericht sprach der Klägerin CHF 270'000 zuzüglich Zins zu und untersagte die Preiswerbung im Vertragsgebiet.
+- **Kernaussage**: Das Handelsgericht bejahte eine unzulässige Preisabsprache durch abgestimmtes Verhalten nach Art. 4 Abs. 1 i.V.m. Art. 5 Abs. 4 KG. Es führte aus, Art. 5 Abs. 4 KG werde durch die Vertikalbekanntmachung (Stand 22. Mai 2017) konkretisiert.
 - **Einschlägig für**: Abschnitte E und I
 
 ---
