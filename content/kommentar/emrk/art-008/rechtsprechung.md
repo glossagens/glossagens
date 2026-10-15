@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 8 EMRK"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Übersicht der massgeblichen Entscheide zu Art. 8 EMRK — Privatleben, Familienleben, Wohnung, Korrespondenz, Datenschutz, Geschlechtsidentität, Überwachung, Aufenthaltsrecht, Umweltschutz, Identität, häusliche Gewalt, Diskriminierung, digitaler Datenschutz, körperliche Integrität"
 tags: ["Rechtsprechung", "EMRK", "Privatleben", "Familienleben", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Wohnungsschutz", "10-Jahres-Vermutung", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BVGer F-4622/2026 (Wegweisungsentfall bei hängigem Familiennachzug und prima-facie Art. 8 EMRK-Anspruch) als neuer Abschnitt X eingefügt; E. 4.2 via OCL get_erwaegung verifiziert."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -720,4 +725,14 @@ Die Angabe des Geschlechts im schweizerischen Personenstandsregister kann nicht 
 
 ---
 
-*Letzte Aktualisierung: 27.07.2026*
+## X. Bundesverwaltungsgericht — Asylrecht und Familiennachzug
+
+### BVGer F-4622/2026 vom 7. September 2026, E. 4.2
+
+- **Thema**: Wegweisungsentfall bei hängigem Familiennachzug und prima-facie-Anspruch aus Art. 8 EMRK
+- **Kernaussage**: Das Nichteintreten auf ein Asylgesuch gestützt auf den sicheren Drittstaat Italien (Art. 31a Abs. 1 Bst. a AsylG) wird bestätigt; die Wegweisung nach Italien wird jedoch aufgehoben, weil eine Familiengemeinschaft mit in der Schweiz anerkannten Flüchtlingen (Ehefrau und gemeinsame Tochter) besteht und ein kantonal hängiges Familiennachzugsverfahren vorliegt. Da prima facie ein theoretischer Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK nicht verneint werden kann, ist der Beschwerdeführer für die Frage der Wegweisung auf den ausländerrechtlichen Weg zu verweisen; die Zuständigkeit des SEM für die Anordnung der Wegweisung im Asylverfahren entfällt.
+- **Einschlägig für**: Art. 8 EMRK (Familienleben), Flüchtlingsfamiliennachzug, Asylverfahrensausschliesslichkeit, Zuständigkeitsverteilung SEM/kantonale Migrationsbehörde
+
+---
+
+*Letzte Aktualisierung: 15.10.2026*

@@ -2,11 +2,16 @@
 title: "Art. 8 — Recht auf Achtung des Privat- und Familienlebens"
 weight: 8
 date: 2026-05-22
-lastmod: 2026-08-16
+lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, seiner Wohnung und seiner Korrespondenz; Schutzbereich (Privatleben, Familienleben, Wohnung, Korrespondenz); Eingriffsvoraussetzungen; Verhältnismässigkeit; Positive Staatenpflichten; EGMR-Grundprinzipien; Bedeutung im schweizerischen Recht"
 tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Verhältnismässigkeit", "Integration", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
 agent_verified: false
 revisions:
+  - date: 2026-10-15
+    by: "Hermes"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BVGer F-4622/2026 (Drittstaat-Nichteintreten, Wegweisungsentfall bei hängigem Familiennachzug) in Abschnitt VIII (Asylrecht) eingearbeitet; E. 4.2 via OCL get_erwaegung verifiziert, entscheidsuche document_url als Linkziel."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -293,7 +298,11 @@ Das BGer hat die Grundsätze zur Speicherung von Randdaten der Telekommunikation
 Art. 8 EMRK entfaltet im Asylrecht eine besondere Bedeutung, wenn auch der EGMR wiederholt betont hat, dass die Konvention kein Recht auf Einreise oder Aufenthalt als solches garantiert. Die folgende Konstellationen sind zu unterscheiden:
 
 - **Ausweisung und Art. 8**: Die Ausweisung eines Ausländers kann gegen Art. 8 verstossen, wenn sie das Familienleben in der Schweiz beeinträchtigt und nicht verhältnismässig ist. Die Kriterien von BGE 144 I 266 sind anwendbar.
-- **Flüchtlingsfamiliennachzug**: BGE 139 I 330 bestätigt den Vorrang des Asylverfahrens.
+- **Flüchtlingsfamiliennachzug**: BGE 139 I 330 bestätigt den Vorrang des Asylverfahrens. Dieser Vorrang ist jedoch nicht absolut: Besteht prima facie ein Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK und ist ein ausländerrechtliches Familiennachzugsverfahren bei den kantonalen Behörden hängig, entfällt die Zuständigkeit des SEM für die Anordnung der Wegweisung im Asylverfahren. Das Bundesverwaltungsgericht hat dies in einem Fall bejaht, in dem es das Nichteintreten auf ein Asylgesuch gestützt auf den sicheren Drittstaat Italien (Art. 31a Abs. 1 Bst. a AsylG) bestätigte, die Wegweisung nach Italien aber aufhob, weil der afghanische Beschwerdeführer mit seiner in der Schweiz als Flüchtling anerkannten Ehefrau und der gemeinsamen Tochter eine Familiengemeinschaft bildete und ein kantonales Familiennachzugsverfahren hängig war ([BVGer F-4622/2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-4622-2026_2026-09-07.pdf) vom 7. September 2026, E. 4.2):
+
+  > «Da prima facie ein theoretischer Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK nicht verneint werden kann, ist der Beschwerdeführer für die Frage der Wegweisung auf den ausländerrechtlichen Weg zu verweisen. Bei dieser Sachlage entfällt die Zuständigkeit des SEM für die Anordnung der Wegweisung im Rahmen eines Asylverfahrens.»
+
+  Der Entscheid präzisiert damit die Ausnahme von der Ausschliesslichkeit des Asylverfahrens (vgl. auch Art. 14 Abs. 1 AsylG) für die Wegweisungsanordnung und verweist die Beurteilung des Aufenthaltsanspruchs in das ausländerrechtliche Familiennachzugsverfahren der kantonalen Migrationsbehörde (vgl. BVGE 2019 VI/3 E. 5.7). Die dogmatische Grundlage — Wegweisungsentfall bei Anspruch auf Erteilung einer Aufenthaltsbewilligung — hatte das Gericht bereits in BVGE 2013/37 E. 4.4 und BVGE 2009/50 E. 9 entwickelt.
 - **Härtefallbewilligung**: Art. 14 AsylG sieht eine Härtefallbewilligung vor, die im Einzelfall gestützt auf Art. 8 EMRK gewährt werden kann.
 - **Asylsuchende**: Die Asylverfahrenszeit wird nicht als rechtmässige Anwesenheit im Sinne der 10-Jahres-Vermutung angerechnet (BGE 149 I 72 E. 2.1.2).
 - **Rückführung und Art. 8**: Die Rückführung in ein Land, in dem das Privat- oder Familienleben der betroffenen Person erheblich beeinträchtigt wird, kann gegen Art. 8 EMRK verstossen. Der EGMR hat jedoch anerkannt, dass die Vertragsstaaten ein berechtigtes Interesse an der Steuerung der Einwanderung haben.
@@ -331,6 +340,7 @@ Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen i
 | Beziehung zu schweizerischem Kind | BGE 135 I 143 | Starker Schutz; nur ordnungs-/sicherheitspolizeiliche Gründe |
 | Nachehelicher Härtefall | BGer 2C_96/2025 | Tadelloses Verhalten erforderlich |
 | Flüchtlingsfamiliennachzug | BGE 139 I 330 | Vorrang des Asylverfahrens |
+| Wegweisungsentfall bei hängigem Nachzug | BVGer F-4622/2026 | Prima-facie Art. 8 EMRK → SEM-Zuständigkeit für Wegweisung entfällt |
 | Widerruf bei Kriminalität | BGE 135 II 377 | Längerfristige Freiheitsstrafe als Widerrufsgrund |
 | Aufenthalt nach Auflösung der Ehe | BGer 2C_206/2026 | Kein Familienleben bei kurzem Aufenthalt |
 | EMRK-Vorrang | BGE 139 I 16 | EMRK geht innerem Recht vor |
