@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 147 StPO"
 weight: 147
 date: "2026-05-24"
-lastmod: "2026-09-04"
-description: "Systematische Rechtsprechungsübersicht zu Art. 147 StPO (Teilnahmerechte, Konfrontationsanspruch, Verwertungsverbote und Wiederholungsverlangen)."
-tags: ["Rechtsprechung", "StPO", "Teilnahmerecht", "Konfrontationsrecht", "Verwertungsverbot", "Parteiöffentlichkeit"]
+lastmod: "2026-10-15"
+description: "Systematische Rechtsprechungsübersicht zu Art. 147 StPO (Teilnahmerechte, Konfrontationsanspruch, Verwertungsverbote, materieller Beschuldigtenstatus und Wiederholungsverlangen)."
+tags: ["Rechtsprechung", "StPO", "Teilnahmerecht", "Konfrontationsrecht", "Verwertungsverbot", "Parteiöffentlichkeit", "materieller Beschuldigtenstatus"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Unzulässigkeit der Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten; Bestätigung der absoluten Unverwertbarkeit nach BGE 150 IV 345 und sofortige Aktenaussonderung."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -182,6 +187,14 @@ revisions:
 
 ---
 
+### [Chambre des recours pénale VD 652](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1) — 3. September 2026
+**Eröffnung «gegen unbekannt» umgeht Teilnahmerecht bei namentlich benanntem Tatverdächtigem; absolute Unverwertbarkeit und Aktenaussonderung**
+- **Sachverhalt**: Nach internen Streitigkeiten in einem kantonalen Departement und Veröffentlichung eines externen Berichts erstattete der Staatskanzler Strafanzeige gegen eine amtierende Staatsrätin wegen Verdachts auf Amtsmissbrauch (Aufforderung zur Aufhebung rechtskräftiger Steuerbescheide betreffend Steuerdeckel) und Amtsgeheimnisverletzung. Die Staatsanwaltschaft eröffnete ein Verfahren formell «gegen unbekannt» und lud die Steuerdirektorin per Vorführungsbefehl vor. Deren Befragung fand als Einvernahme einer Auskunftsperson ohne Beisein der Staatsrätin statt. Erst nach 17 weiteren Einvernahmen und Einholen der parlamentarischen Ermächtigung des Grossen Rates eröffnete die Staatsanwaltschaft formell gegen die Staatsrätin und wies deren Begehren um Aktenaussonderung mit dem Argument ab, die Staatsrätin sei zum Einvernahmezeitpunkt noch nicht Partei gewesen.
+- **Kernaussage**: Der Status als beschuldigte Person (Art. 111 Abs. 1 StPO) ist ein materieller Rechtsstatus, der an die Intensität des Tatverdachts anknüpft; er kann nicht durch eine formelle Eröffnung «gegen unbekannt» umgangen werden. Ein Vorführungsbefehl ist eine Zwangsmassnahme (Art. 201 StPO), die gemäss Art. 309 Abs. 1 lit. b StPO zwingend hinreichenden Tatverdacht voraussetzt und die Untersuchung eröffnet; die Eröffnungsverfügung nach Art. 309 Abs. 3 StPO ist rein deklaratorisch (BGE 141 IV 20). Weder das Erfordernis einer parlamentarischen Verfolgungsermächtigung noch Vertraulichkeitsinteressen rechtfertigen das Hinausschieben von Parteirechten. Die Einvernahme ohne Anwesenheit der materiell beschuldigten Person verletzte Art. 147 Abs. 1 StPO. Nach BGE 150 IV 345 bleibt das Protokoll absolut unverwertbar und kann durch eine spätere Wiederholung nicht geheilt werden; es ist gemäss Art. 141 Abs. 5 StPO physisch aus den Akten auszusondern und bis zum Abschluss des Verfahrens separat aufzubewahren.
+- **Einschlägig für**: Art. 147 Abs. 1 und 4 StPO, Art. 111 Abs. 1 StPO, Art. 309 Abs. 1 und 3 StPO, Art. 141 Abs. 5 StPO.
+
+---
+
 ## IV. Top-Entscheide im Überblick
 
 | Nr | Entscheidung | Jahr | Kernthese |
@@ -200,7 +213,8 @@ revisions:
 | 12 | **BGer 6B_135/2018** | 2019 | Wiederholungsanspruch bei Verhandlungsunfähigkeit des Beschuldigten trotz anwesendem Anwalt. |
 | 13 | **LU 2N 14 83** | 2014 | Kein Anwesenheitsrecht der Verteidigung bei psychiatrischer Exploration (Art. 182 ff. StPO). |
 | 14 | **BS BES.2015.18** | 2015 | Taktische Verfahrenstrennung zur Umgehung von Art. 147 StPO ist rechtsmissbräuchlich. |
+| 15 | **VD CREP 652** | 2026 | Eröffnung «gegen unbekannt» umgeht Teilnahmerecht nicht; absolute Unverwertbarkeit (BGE 150 IV 345). |
 
 ---
 
-*Zuletzt aktualisiert: 4. September 2026*
+*Zuletzt aktualisiert: 15. Oktober 2026*

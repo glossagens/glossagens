@@ -2,11 +2,16 @@
 title: "Art. 309 StPO — Eröffnung der Untersuchung"
 weight: 309
 date: "2026-07-04"
-lastmod: "2026-08-13"
-description: "Kommentar zu Art. 309 StPO: Eröffnung der Strafuntersuchung — Eröffnungsgründe, deklaratorische Eröffnungsverfügung, Rücküberweisung an die Polizei, Verzicht auf Eröffnung."
-tags: ["Untersuchung", "Eröffnung", "Vorverfahren", "Tatverdacht", "Staatsanwaltschaft", "Eröffnungsverfügung", "polizeiliches Ermittlungsverfahren", "Nichtanhandnahme"]
+lastmod: "2026-10-15"
+description: "Kommentar zu Art. 309 StPO: Eröffnung der Strafuntersuchung — Eröffnungsgründe, deklaratorische Eröffnungsverfügung, materieller Beschuldigtenstatus, Rücküberweisung an die Polizei, Verzicht auf Eröffnung."
+tags: ["Untersuchung", "Eröffnung", "Vorverfahren", "Tatverdacht", "Staatsanwaltschaft", "Eröffnungsverfügung", "materieller Beschuldigtenstatus", "polizeiliches Ermittlungsverfahren", "Nichtanhandnahme"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von CREP VD 652 vom 3. September 2026 (Causa Dittli): Unzulässigkeit der Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten bei namentlich verdächtigter Person; materieller Beschuldigtenstatus und deklaratorische Eröffnung."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -41,7 +46,7 @@ Art. 309 StPO markiert das **Scharnier** zwischen dem selbstständigen polizeili
 Die Staatsanwaltschaft eröffnet eine Untersuchung, wenn einer der drei Gründe erfüllt ist ([BGer 6B_709/2025 vom 3. Juni 2026, E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_709_2025#e-2-2-1)):
 
 - **Hinreichender Tatverdacht** (lit. a): erforderlich sind **konkrete Hinweise auf eine Straftat** aus Polizeiberichten, Strafanzeigen oder eigenen Feststellungen. Blosse Vermutungen genügen nicht; andererseits ist keine Gewissheit erforderlich — der Verdacht muss lediglich die Durchführung einer Untersuchung rechtfertigen.
-- **Anordnung von Zwangsmassnahmen** (lit. b): Ordnet die Staatsanwaltschaft Zwangsmassnahmen an (z.B. Hausdurchsuchung, Haftantrag), gilt die Untersuchung als eröffnet — die Zwangsmassnahme setzt ihrerseits einen hinreichenden Tatverdacht voraus (Art. 197 Abs. 1 lit. b StPO; → [Art. 197](../art-197/)).
+- **Anordnung von Zwangsmassnahmen** (lit. b): Ordnet die Staatsanwaltschaft Zwangsmassnahmen an (z.B. Vorführungsbefehle gemäss Art. 201 StPO, Hausdurchsuchungen, Haftanträge), gilt die Untersuchung als eröffnet — die Zwangsmassnahme setzt ihrerseits einen hinreichenden Tatverdacht voraus (Art. 197 Abs. 1 lit. b StPO; → [Art. 197](../art-197/); vgl. [CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)).
 - **Information durch die Polizei** (lit. c): Die Polizei hat die Staatsanwaltschaft **unverzüglich** über schwere Straftaten sowie andere schwerwiegende Ereignisse zu informieren (Art. 307 Abs. 1 StPO); diese Information löst die Eröffnungspflicht aus ([BGer 6B_709/2025 vom 3. Juni 2026, E. 2.2.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_709_2025#e-2-2-1)).
 
 ## III. Rücküberweisung an die Polizei (Abs. 2)
@@ -53,6 +58,16 @@ Geht der Tatverdacht aus polizeilichen Berichten oder Strafanzeigen **nicht deut
 Die Eröffnung erfolgt durch **Verfügung**, welche die beschuldigte Person und die vorgeworfene Straftat bezeichnet. Der Verfügung kommt nach der Rechtsprechung **lediglich deklaratorische Wirkung** zu: Die Strafuntersuchung gilt als eröffnet, **sobald sich die Staatsanwaltschaft mit dem Straffall zu befassen beginnt** ([BGE 141 IV 20, E. 1.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_20)). Das Fehlen einer förmlichen Eröffnungsverfügung ändert an den Rechtsfolgen der faktischen Eröffnung nichts.
 
 Die Verfügung braucht **weder begründet noch eröffnet** zu werden und ist **nicht anfechtbar** (Abs. 3 Satz 3). Die Unanfechtbarkeit gilt auch für funktional gleichwertige Akte: Kommt die Staatsanwaltschaft nach einer Nichtanhandnahme auf ihre Verfügung zurück, entspricht die **Wiederaufnahmeverfügung** der Eröffnung der Untersuchung; Art. 309 Abs. 3 Satz 3 StPO gilt analog, und die Beschwerde dagegen ist unzulässig ([BGE 144 IV 81, E. 2.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_IV_81#e-2-3-2); → [Art. 310](../art-310/)).
+
+### Praxisfrage: Eröffnung «gegen unbekannt» zur Umgehung von Parteirechten (CREP VD 652 vom 3. September 2026)
+
+Ein in der Praxis bedeutsamer Konfliktpunkt betrifft das Vorgehen von Strafbehörden, die Untersuchung formell «gegen unbekannt» zu eröffnen, obschon eine namentlich bezeichnete Person im Fokus steht, um erste Beweiserhebungen — namentlich Einvernahmen zentraler Belastungspersonen — ohne Parteibeteiligung durchzuführen.
+
+Die Chambre des recours pénale des Kantons Waadt stellte in einem Leitfall klar, dass eine solche Konstruktion unzulässig ist ([CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1) — Causa Dittli):
+- **Materieller Beschuldigtenstatus (Art. 111 Abs. 1 StPO)**: Der Status als beschuldigte Person ist ein materieller Rechtsstatus, der sich nach der Intensität des Tatverdachts richtet und nicht von einer formellen Etikettierung durch die Staatsanwaltschaft abhängt. Nennt eine behördliche Strafanzeige (bzw. ein zugrundeliegender Untersuchungsbericht) eine Person namentlich und stützt sich der Vorwurf auf konkrete Anhaltspunkte, begründet dies hinreichenden Tatverdacht.
+- **Deklaratorische Wirkung der Eröffnung**: Die Eröffnungsverfügung nach Art. 309 Abs. 3 StPO hat rein deklaratorische Natur ([BGE 141 IV 20 E. 1.1.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_20)). Erlässt die Staatsanwaltschaft einen Vorführungsbefehl gegen Auskunftspersonen, liegt eine Zwangsmassnahme (Art. 201 StPO) vor, die gemäss Art. 309 Abs. 1 lit. b StPO zwingend hinreichenden Tatverdacht voraussetzt und die Untersuchung eröffnet.
+- **Keine Ausflucht über parlamentarische Ermächtigungsverfahren**: Das Erfordernis, für die Verfolgung eines Regierungsmitglieds eine parlamentarische Ermächtigung einzuholen (Art. 7 Abs. 2 lit. b StPO i.V.m. kantonalem Recht), oder das Interesse an vertraulichen Vorabklärungen entbindet die Staatsanwaltschaft nicht von der Pflicht zur Gewährung elementarer Verteidigungsrechte. Das Ermächtigungsgesuch kann bereits bei Eingang der Strafanzeige gestellt werden.
+- **Rechtsfolge**: Eine Einvernahme, die unter Ausschluss der materiell beschuldigten Person durchgeführt wurde, verletzt Art. 147 Abs. 1 StPO und ist gemäss Art. 147 Abs. 4 StPO absolut unverwertbar. Eine spätere Wiederholung oder Konfrontation heilt diesen Mangel nicht ([BGE 150 IV 345 E. 1.6.7.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html#consideration_1.6.7.4)). Das Einvernahmeprotokoll ist gemäss Art. 141 Abs. 5 StPO physisch aus den Akten auszusondern und bis zum rechtskräftigen Abschluss versiegelt aufzubewahren.
 
 ## V. Verzicht auf die Eröffnung (Abs. 4)
 

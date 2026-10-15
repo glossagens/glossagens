@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 309 StPO"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
-description: "Übersicht der Entscheide zu Art. 309 StPO: Eröffnung der Untersuchung."
-tags: ["Rechtsprechung", "Untersuchung", "Eröffnung", "Vorverfahren"]
-agent_verified: false
+lastmod: "2026-10-15"
+description: "Übersicht der Entscheide zu Art. 309 StPO: Eröffnung der Untersuchung, deklaratorische Wirkung und materieller Beschuldigtenstatus."
+tags: ["Rechtsprechung", "Untersuchung", "Eröffnung", "Vorverfahren", "materieller Beschuldigtenstatus"]
+agent_verified: true
+revisions:
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Eröffnung «gegen unbekannt» bei namentlich bekannter verdächtigter Person unzulässig; deklaratorische Eröffnung und Zwangsmassnahmen."
 ---
 
 ## Bundesgerichtsentscheide (BGE)
@@ -37,6 +43,14 @@ agent_verified: false
 - **Kernaussage**: Eine Nichtanhandnahme darf nur in sachverhaltsmässig und rechtlich klaren Fällen ergehen; im Zweifelsfall ist eine Untersuchung zu eröffnen.
 - **Einschlägig für**: Abs. 1 lit. a und Abs. 4
 
+## Kantonale Gerichtsentscheide
+
+### [CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)
+- **Thema**: Unzulässigkeit der Eröffnung «gegen unbekannt» bei namentlich verdächtigter Person; materieller Beschuldigtenstatus und deklaratorische Eröffnung
+- **Sachverhalt**: Nach einem externen Bericht über die Beziehungen zwischen der Departementsvorsteherin (Staatsrätin) und der Steuerverwaltung erstattete die Staatskanzlei eine Strafanzeige, in welcher die Staatsrätin namentlich genannt wurde. Die Staatsanwaltschaft eröffnete ein Strafverfahren formell «gegen unbekannt» und lud die Steuerdirektorin per Vorführungsbefehl als Auskunftsperson vor. Deren Einvernahme fand in Abwesenheit der Staatsrätin statt. Erst nach weiteren Einvernahmen und nach Einholen der parlamentarischen Verfolgungsermächtigung des Grossen Rates eröffnete die Staatsanwaltschaft formell gegen die Staatsrätin und verweigerte das Begehren um Aussonderung des Einvernahmeprotokolls der Auskunftsperson.
+- **Kernaussage**: Der Status der beschuldigten Person (Art. 111 Abs. 1 StPO) ist materiell-rechtlicher Natur und knüpft an die Intensität des Tatverdachts an; er kann durch eine formelle Eröffnung «gegen unbekannt» nicht umgangen werden. Ein Vorführungsbefehl ist eine Zwangsmassnahme (Art. 201 StPO), die hinreichenden Tatverdacht voraussetzt und die Untersuchung eröffnet (Art. 309 Abs. 1 lit. b StPO). Die Eröffnungsverfügung nach Art. 309 Abs. 3 StPO entfaltet lediglich deklaratorische Wirkung. Die Einvernahme der Belastungsperson verletzte Art. 147 Abs. 1 StPO und ist gemäss Art. 147 Abs. 4 StPO absolut unverwertbar; die Unverwertbarkeit kann durch spätere Wiederholung nicht geheilt werden (BGE 150 IV 345), und das Protokoll ist nach Art. 141 Abs. 5 StPO physisch aus den Akten auszusondern.
+- **Einschlägig für**: Abs. 1 lit. b und Abs. 3
+
 ---
 
-*Letzte Aktualisierung: 4.7.2026*
+*Letzte Aktualisierung: 15.10.2026*

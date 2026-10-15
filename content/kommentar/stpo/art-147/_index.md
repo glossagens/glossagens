@@ -2,11 +2,16 @@
 title: "Art. 147 StPO — Im Allgemeinen"
 weight: 147
 date: "2026-05-09"
-lastmod: "2026-09-04"
-description: "Praxiskommentar zu Art. 147 StPO: Parteiöffentlichkeit der Beweiserhebungen, Konfrontationsanspruch, Rechtsprechungsänderung nach BGE 150 IV 345, Verwertungsverbote, Wiederholungsanspruch, Fotowahlkonfrontationen und Kasuistik."
-tags: ["StPO", "Teilnahmerecht", "Parteiöffentlichkeit", "Konfrontationsanspruch", "BGE 150 IV 345", "Beweisverwertungsverbot", "Fotowahlkonfrontation", "Fernwirkung", "Aktenaussonderung", "EMRK"]
+lastmod: "2026-10-15"
+description: "Praxiskommentar zu Art. 147 StPO: Parteiöffentlichkeit der Beweiserhebungen, Konfrontationsanspruch, Rechtsprechungsänderung nach BGE 150 IV 345, materieller Beschuldigtenstatus (Causa Dittli), Verwertungsverbote, Wiederholungsanspruch, Fotowahlkonfrontationen und Kasuistik."
+tags: ["StPO", "Teilnahmerecht", "Parteiöffentlichkeit", "Konfrontationsanspruch", "BGE 150 IV 345", "Beweisverwertungsverbot", "Fotowahlkonfrontation", "Fernwirkung", "Aktenaussonderung", "EMRK", "materieller Beschuldigtenstatus"]
 agent_verified: true
 revisions:
+  - date: 2026-10-15
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von CREP VD 652 vom 3. September 2026 (Causa Dittli): Materieller Beschuldigtenstatus (Art. 111 StPO) schliesst Umgehung der Teilnahmerechte durch Eröffnung «gegen unbekannt» aus; Bestätigung der absoluten Unverwertbarkeit nach BGE 150 IV 345 und Pflicht zur Aktenaussonderung (Art. 141 Abs. 5 StPO)."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -64,13 +69,13 @@ Die Bestimmung gliedert sich in folgende systematische Prüfungsstufen:
 | Abschnitt | Tatbestandsmerkmal / Prüfungsschritt | Beweislast & Beweismass | Praktischer Konfliktpunkt |
 |---|---|---|---|
 | **A** | **Förmliche Beweiserhebung (Abs. 1 Satz 1)** | Staat trägt Verantwortung für formgerechte Anordnung | Fotowahlkonfrontation vs. psychiatrische Begutachtung / polizeiliche Vorabklärung |
-| **B** | **Parteistellung der teilnahmeberechtigten Person (Abs. 1 Satz 1)** | Parteistellung ergibt sich aus Aktenlage (Art. 104 StPO) | Getrennte Verfahren (Art. 30 StPO) vs. vereinigte Verfahren; Privatklägerschaft |
+| **B** | **Parteistellung der teilnahmeberechtigten Person (Abs. 1 Satz 1)** | Parteistellung ergibt sich aus Aktenlage (Art. 104 StPO) | Getrennte Verfahren (Art. 30 StPO) vs. vereinigte Verfahren; materieller Status vs. Eröffnung «gegen unbekannt» (CREP VD 652) |
 | **C** | **Zulässigkeit von Einschränkungen & Verzicht (Abs. 1)** | Behörde muss Ausnahmeverfügung beweisen; Verzicht setzt klare Anhaltspunkte voraus | Kollusionsgefahr (Art. 108 StPO), Opferschutz (Art. 152 Abs. 3 StPO), Verzicht durch Anwalt |
 | **D** | **Zeitliche Zäsur: Vorverfahren vs. Untersuchung (Abs. 1 Satz 2)** | Behörde muss Zeitpunkt der förmlichen Eröffnung (Art. 309 StPO) belegen | Polizeiliche Befragungen vor Eröffnung (Art. 159 StPO) vs. delegierte Einvernahmen (Art. 312 StPO) |
 | **E** | **Verschiebungsbegehren (Abs. 2)** | Gesuchsteller muss unverschuldete Verhinderung glaubhaft machen | Beschleunigungsgebot vs. rechtzeitige Verhinderungsanzeige |
 | **F** | **Zwingende Verhinderung & Wiederholung (Abs. 3)** | Gesuchsteller muss zwingenden Hinderungsgrund nachweisen | Instruktionsunfähigkeit bei Krankheit/Psychiatrie trotz anwesendem Verteidiger |
 | **G** | **Beweisverwertungsverbot & Praxisänderung (Abs. 4)** | Rügeobliegenheit der Partei; Behörde trägt Nachweis der Verwertbarkeit | Keine Heilung durch BGE 150 IV 345; Vorhalteverbot; Aussageverweigerung bei Konfrontation; Aktenaussonderung |
-| **H** | **Kantonale Praxisfragen** | Nach kantonaler Praxis | Taktische Verfahrenstrennung bei Mittäterschaft (BS); Explorationsexperten (LU/ZH) |
+| **H** | **Kantonale Praxisfragen** | Nach kantonaler Praxis | Taktische Verfahrenstrennung bei Mittäterschaft (BS); Explorationsexperten (LU/ZH); Eröffnung «gegen unbekannt» (VD) |
 
 ---
 
@@ -136,7 +141,13 @@ Weil die Verfahrenstrennung das Teilnahmerecht aushebelt, neigen Strafbehörden 
 
 Wird ein abgesondert verfolgter Mittäter **rechtskräftig verurteilt**, erlischt seine Beschuldigten- und Auskunftspersonenstellung für die abgeurteilte Tat. Im weiterlaufenden Verfahren gegen den Komplizen ist er fortan zwingend **als Zeuge einzuvernehmen** (Art. 162 ff. StPO; [BGE 144 IV 97 E. 2–3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-97_2018.html#consideration_2)). An dieser Einvernahme steht dem verbleibenden Beschuldigten das volle gesetzliche Teilnahmerecht nach Art. 147 Abs. 1 StPO zu.
 
-> **Merksatz.** Werden mehrere Personen wegen desselben Lebenssachverhalts verfolgt, gebietet Art. 29 StPO die Verfahrensvereinigung. Eine Abtrennung zur Verhinderung von Teilnahmerechten ist rechtsmissbräuchlich und führt zur Unverwertbarkeit der getrennt abgenommenen Aussagen.
+#### 5. Materieller Beschuldigtenstatus vs. Eröffnung «gegen unbekannt» (CREP VD 652)
+
+Die Parteistellung der beschuldigten Person (Art. 104 Abs. 1 lit. a StPO) und das daraus fliessende Teilnahmerecht nach Art. 147 Abs. 1 StPO knüpfen an den **materiellen Beschuldigtenstatus** an (Art. 111 Abs. 1 StPO). Dieser entsteht nicht erst mit einer förmlichen Eröffnungsverfügung (Art. 309 Abs. 3 StPO), der nach der Rechtsprechung lediglich deklaratorische Wirkung zukommt ([BGE 141 IV 20 E. 1.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-IV-20_2014.html#consideration_1.1.4)), sondern bereits dann, wenn sich aus einer Strafanzeige oder behördlichen Feststellungen hinreichender Tatverdacht gegen eine namentlich bezeichnete Person ergibt.
+
+Die Strafverfolgungsbehörden können diesen materiellen Status und die daraus fliessenden Teilnahmerechte nicht dadurch umgehen, dass sie das Verfahren formell «gegen unbekannt» eröffnen, um erste Beweiserhebungen und Einvernahmen zentraler Belastungspersonen im Geheimen durchzuführen ([CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1) — Causa Dittli; siehe ausführlich unter [Abschnitt H.3](#3-eröffnung-gegen-unbekannt-zur-umgehung-von-teilnahmerechten-waadt-crep-vd-652)).
+
+> **Merksatz.** Werden mehrere Personen wegen desselben Lebenssachverhalts verfolgt, gebietet Art. 29 StPO die Verfahrensvereinigung. Eine Abtrennung oder eine formelle Eröffnung «gegen unbekannt» trotz namentlich benanntem Tatverdächtigem zur Verhinderung von Teilnahmerechten ist rechtsmissbräuchlich und führt zur absoluten Unverwertbarkeit der ohne Parteibeteiligung abgenommenen Aussagen.
 
 ---
 
@@ -267,7 +278,7 @@ Eine Beweiserhebung gilt nur dann als rechtskonform wiederholt, wenn der Befragt
 
 Gemäss Art. 141 Abs. 4 StPO führt die Unverwertbarkeit nach Art. 147 Abs. 4 StPO zur **Fernwirkung**: Folgebeweise, die ohne die unrechtmässige Ersteinvernahme nicht hätten erlangt werden können (*conditio sine qua non*), sind ebenfalls unverwertbar ([BGE 143 IV 457 E. 1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-457_2017.html#consideration_1.6); [BGer 6B_506/2024 E. 1.2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-506-2024_2024-09-11.html)).
 
-Zudem verlangt Art. 141 Abs. 5 StPO die **physische Aussonderung**: Protokolle über unverwertbare Beweiserhebungen sind unverzüglich aus den Gerichtsakten zu entfernen, bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss zu halten und danach zu vernichten ([BGE 143 IV 457 E. 1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-457_2017.html#consideration_1.6)).
+Zudem verlangt Art. 141 Abs. 5 StPO die **physische Aussonderung**: Protokolle über unverwertbare Beweiserhebungen sind unverzüglich aus den Gerichtsakten zu entfernen, bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss zu halten und danach zu vernichten ([BGE 143 IV 457 E. 1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-457_2017.html#consideration_1.6); [CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)). Auch die Ankündigung der Staatsanwaltschaft, die Einvernahme später ordnungsgemäss unter Anwesenheit der beschuldigten Person zu wiederholen, suspendiert die Pflicht zur sofortigen Aktenaussonderung nicht ([CREP VD 652 E. 2.4 und 3](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)).
 
 ---
 
@@ -288,6 +299,7 @@ Zudem verlangt Art. 141 Abs. 5 StPO die **physische Aussonderung**: Protokolle �
 | Mangel / Konstellation | Verwertbarkeit | Tragende Begründung & Leitentscheid |
 |---|---|---|
 | Delegierte Befragung eines Mitbeschuldigten ohne Einladung der Verteidigung | **Unverwertbar** zulasten des Abwesenden | Art. 147 Abs. 4 StPO; keine Heilung durch spätere Konfrontation ([BGE 150 IV 345](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html)) |
+| Eröffnung «gegen unbekannt» trotz namentlich benannter verdächtigter Person | **Unverwertbar** | Materieller Beschuldigtenstatus (Art. 111 StPO); keine Umgehung der Parteirechte ([CREP VD 652](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)) |
 | Zeuge verweigert an der späteren Konfrontationseinvernahme die Aussage | **Unverwertbar** | Fragerecht konnte materiell nicht ausgeübt werden ([BGer 6B_783/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-783-2024_2026-03-31.html); [6B_14/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-14-2021_2021-07-28.html)) |
 | Fotowahlkonfrontation bei unverteidigtem Beschuldigten ohne Videozuschaltung | **Unverwertbar** | Fotowahl ist Beweiserhebung nach Art. 146 Abs. 2 i.V.m. Art. 147 StPO ([BGer 6B_506/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-506-2024_2024-09-11.html)) |
 | Einvernahme in getrennt geführtem Verfahren gegen den Mittäter (Art. 30 StPO) | **Verwertbar**, wenn Mindestkonfrontation im Hauptverfahren erfolgt | Kein Teilnahmerecht nach Art. 147 StPO mangels Parteistellung ([BGE 140 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-172_2014.html)) |
@@ -301,10 +313,12 @@ Zudem verlangt Art. 141 Abs. 5 StPO die **physische Aussonderung**: Protokolle �
 
 #### Für die Strafverteidigung
 - **Wiederholte Einvernahmen nach BGE 150 IV 345 minutiös überwachen**: Versucht die Staatsanwaltschaft oder das Gericht, dem Zeugen frühere unparteiische Protokolle wörtlich vorzuhalten («Stimmt das, was Sie damals gesagt haben?»), ist sofort Einwand wegen unzulässiger Vorhaltepraxis zu erheben. Verwertbar ist nur dasjenige, woran sich der Zeuge im Termin spontan erinnert.
+- **Formelle Eröffnungen «gegen unbekannt» unverzüglich angreifen**: Richtet sich eine Strafanzeige namentlich gegen die Mandantschaft und führt die Staatsanwaltschaft Einvernahmen unter dem Deckmantel einer Untersuchung «gegen unbekannt» durch, ist gestützt auf den materiellen Beschuldigtenstatus (Art. 111 Abs. 1 StPO) und Art. 147 Abs. 1 StPO die sofortige physische Aktenaussonderung (Art. 141 Abs. 5 StPO) zu beantragen ([CREP VD 652](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)).
 - **Konfrontationsantrag bis vor Berufungsgericht möglich**: Wurde ein Belastungszeuge oder Anzeigeerstatter im Vorverfahren nur polizeilich befragt, verwirkt der Konfrontationsanspruch nicht durch Schweigen vor erster Instanz ([BGer 6B_920/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-920-2023_2024-08-22.html)). Der Antrag kann rechtswirksam noch vor Schranken des Obergerichts gestellt werden.
 - **Aktenaussonderung nach Art. 141 Abs. 5 StPO verlangen**: Bleiben Befragungen unverwertbar, genügt kein blosser Vermerk im Urteil. Es ist förmlich die physische Entfernung der Protokolle aus den Gerichtsakten zu beantragen, um eine unbewusste Kontamination des Gerichts zu verhindern.
 
 #### Für die Staatsanwaltschaft
+- **Keine Eröffnung «gegen unbekannt» bei identifiziertem Verdächtigen**: Liegen konkrete Vorwürfe gegen eine namentlich bezeichnete Person vor, begründet dies materiellen Beschuldigtenstatus. Die Durchführung von Zeugeneinvernahmen ohne Parteieinladung führt zur irreversiblen Unverwertbarkeit nach Art. 147 Abs. 4 StPO ([CREP VD 652](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1)).
 - **Keine getrennten Verfahren als Teilnahmesperre**: Wer Mittäter künstlich trennt, um getrennte Befragungen ohne Verteidiger durchzuführen, riskiert vor den Beschwerdeinstanzen den Vorwurf des Rechtsmissbrauchs und den Verlust der Verwertbarkeit ([Appellationsgericht BS BES.2015.18](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2015-18_2015-05-26.html)).
 - **Videoübertragung bei Fotowahlkonfrontationen standardisieren**: Bei unverteidigten Beschuldigten muss die Fotovorlage an Zeugen zwingend mit Bild- und Tonübertragung in ein Nebenzimmer gekoppelt werden, ansonsten die Identifikation wertlos ist ([BGer 6B_506/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-506-2024_2024-09-11.html)).
 - **Untersuchungseröffnung zeitlich bewusst setzen**: Im Vorermittlungsstadium der Polizei (Art. 306 StPO) gilt Art. 147 StPO noch nicht ([BGer 6B_801/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-801-2024_2025-05-08.html)). Sobald die Untersuchung jedoch eröffnet ist, löst jede delegierte Einvernahme (Art. 312 StPO) zwingend volle Parteiöffentlichkeit aus.
@@ -319,6 +333,18 @@ Zudem verlangt Art. 141 Abs. 5 StPO die **physische Aussonderung**: Protokolle �
 
 #### 2. Anwesenheit der Verteidigung bei Begutachtungen (Luzern, Zürich, Bern)
 - **Luzern, Zürich und Bern ([LGVE 2014 I Nr. 16](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-83_2014-08-12.html); [ZR 110/2011 S. 109](https://entscheidsuche.ch))**: Anträge von Strafverteidigern auf physische oder audiovisuelle Teilnahme an den Explorationsgesprächen gerichtlicher Psychiater werden einheitlich abgewiesen. Die forensisch-psychiatrische Begutachtung gilt nicht als justizielle Beweiserhebung im Sinne von Art. 147 StPO, sondern als wissenschaftliche Urheberschaft des Sachverständigen (Art. 182 ff. StPO).
+
+#### 3. Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten (Waadt: CREP VD 652)
+
+Ein in der Praxis der Wirtschaftskriminalität und bei Amtsdelikten bedeutsames Problem betrifft den Versuch der Strafbehörden, Zeugeneinvernahmen unter dem Vorwand einer Eröffnung «gegen unbekannt» ohne Parteibeteiligung durchzuführen:
+
+> **Causa Dittli: Eröffnung «gegen unbekannt» umgeht Teilnahmerecht einer Regierungsrätin**  
+> Im Nachgang zu verwaltungsinternen Spannungen im Waadtländer Departement für Finanzen und Landwirtschaft erstattete der Staatskanzler gestützt auf einen externen Expertenbericht Strafanzeige gegen die amtierende Vorsteherin (Staatsrätin) wegen des Verdachts auf Amtsmissbrauch (Aufforderung zur Annullierung rechtskräftiger Steuerbescheide betreffend die kantonale Steuerdeckelung) und Amtsgeheimnisverletzung. Der Generalstaatsanwalt eröffnete eine Untersuchung, gab im Protokoll aber keine beschuldigte Person an (Eröffnung «gegen unbekannt»). Am selben Tag lud er die Steuerdirektorin per Vorführungsbefehl vor und befragte sie am 15. April 2025 als Auskunftsperson — ohne Beisein und ohne Benachrichtigung der Staatsrätin. Die Staatsanwaltschaft führte danach 17 weitere Befragungen durch, holte die parlamentarische Verfolgungsermächtigung des Grossen Rates ein und eröffnete am 6. Oktober 2025 formell gegen die Staatsrätin. Den Antrag auf Entfernung des Einvernahmeprotokolls wies der Generalstaatsanwalt ab: Die Staatsrätin sei am 15. April 2025 mangels hinreichenden Verdachts noch nicht Partei gewesen; man habe zunächst diskret ermitteln wollen und beabsichtige ohnehin eine Wiederholungseinvernahme unter ihrer Anwesenheit.  
+> **Die Grundsatzentscheidung der Waadtländer Rekurskammer ([CREP VD 652 vom 3. September 2026](https://mcp.opencaselaw.ch/entscheid/vd_gerichte_d740b9fd-81ac-45b6-8f13-e6fe44cf78d1))**: Die Chambre des recours pénale hiess die Beschwerde vollumfänglich gut:  
+> 1. **Materieller Beschuldigtenstatus**: Der Status der beschuldigten Person (Art. 111 Abs. 1 StPO) ist ein materieller Rechtsstatus. Nennt die Strafanzeige eine Person namentlich und stützt sich der Vorwurf auf konkrete Akten, liegt hinreichender Tatverdacht vor.  
+> 2. **Deklaratorische Wirkung & Zwangsmassnahmen**: Die Eröffnungsverfügung (Art. 309 Abs. 3 StPO) ist rein deklaratorisch ([BGE 141 IV 20 E. 1.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-IV-20_2014.html#consideration_1.1.4)). Ein Vorführungsbefehl ist eine Zwangsmassnahme (Art. 201 StPO), die gemäss Art. 309 Abs. 1 lit. b StPO die Untersuchung zwingend eröffnet.  
+> 3. **Keine Rechtfertigung durch Immunitätsverfahren**: Weder Vertraulichkeitsinteressen noch das Erfordernis einer parlamentarischen Verfolgungsermächtigung (Art. 7 Abs. 2 lit. b StPO) rechtfertigen ein Aufschieben der Parteirechte.  
+> 4. **Absolute Unverwertbarkeit und Aktenaussonderung**: Die Einvernahme der zentralen Belastungsperson ohne Anwesenheit der Beschuldigten verstiess gegen Art. 147 Abs. 1 StPO und ist absolut unverwertbar (Art. 147 Abs. 4 StPO). In konsequenter Anwendung von [BGE 150 IV 345 E. 1.6.7.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-345_2024.html#consideration_1.6.7.4) heilt auch eine beabsichtigte Wiederholungseinvernahme das Erstprotokoll nicht; dieses ist gemäss Art. 141 Abs. 5 StPO physisch aus den Akten auszusondern und bis zum Verfahrensabschluss unter separatem Verschluss zu halten.
 
 ---
 
