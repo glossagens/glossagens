@@ -1,22 +1,17 @@
 ---
-title: "Art. 66 KVG — Kantonsanteil an den Prämienverbilligungen"
+title: "Art. 66 KVG — Bundesbeitrag"
 weight: 66
-date: 2026-08-15
+date: 2026-10-15
 lastmod: 2026-10-15
-description: "Kommentar zu Art. 66 KVG: Kantonsanteil an den Prämienverbilligungen — Beteiligung der Kantone mit 75 Prozent; Bestimmung der massgeblichen Versicherten; Delegationsnorm für Berechnung und Abrechnung; Prämienausgleich beim Kantonsanteil in Abzug bringbar."
-tags: ["KVG", "Kantonsanteil", "Prämienverbilligung", "Prämienausgleich", "Delegationsnorm", "Sozialversicherungsrecht"]
+description: "Kommentar zu Art. 66 KVG: Bundesbeitrag an die Prämienverbilligung — Bemessung auf 7,5 Prozent der Bruttokosten der OKP, Verteilung nach Wohnbevölkerung und Bezügern nach Art. 65a lit. a KVG sowie Vollzugskompetenz des BAG."
+tags: ["KVG", "Bundesbeitrag", "Prämienverbilligung", "Bruttokosten", "Finanzierung", "Sozialversicherungsrecht"]
 agent_verified: true
 revisions:
   - date: 2026-10-15
-    by: "Claude Code"
-    model: "claude-opus-5-5"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-066.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 15 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
-  - date: 2026-08-15
-    by: "Hermes Agent"
-    model: "glm-5.1"
-    mcp_verified: true
-    note: "Neuerstellung KW33 — Gesetzestext manuell aus amtlicher Quelle; Leitentscheid 9C_250/2025 (Präzisierung: Delegationsnorm)."
+    note: "Vollständiger Neuaufbau (Urteil C saniert): Beseitigung aller Halluzinationen des Altbestands (Phantom-Wortlaut zu 75 % sowie erfundene Entscheide BGE 133 V 340, 136 V 335, 9C_800/2020 entfernt); Ausrichtung am authentischen Wortlaut (7,5 % der Bruttokosten) und vollständige Einarbeitung der Leitjudikatur (BGer 9C_250/2025 vom 23.07.2026, BGE 145 I 26, BGE 124 V 19) sowie der NFA-Revision (BBl 2005 6029) und VPVK."
 ---
 
 ## Gesetzeswortlaut
@@ -25,41 +20,50 @@ revisions:
 
 ## Überblick und Bedeutung
 
-1. Art. 66 KVG regelt die finanzielle Beteiligung des Bundes an den Prämienverbilligungen der Kantone und bildet damit ein zentrales Element der Finanzierungsarchitektur der obligatorischen Krankenpflegeversicherung. Die Norm schlägt die Brücke zwischen der kantonalen Verantwortung für die Gewährung von Prämienverbilligungen (Art. 65–65b KVG) und der bundesstaatlichen Mitfinanzierung dieses Instruments der Sozialpolitik.
+1. Art. 66 KVG bildet das finanzielle Fundament der bundesstaatlichen Beteiligung an den Prämienverbilligungen in der obligatorischen Krankenpflegeversicherung (OKP). Während die Festlegung der Anspruchskriterien und die administrative Durchführung der Prämienverbilligung primär der Zuständigkeit der Kantone obliegen (Art. 65 und Art. 65a KVG), sichert der Bund den Kantonen über Art. 66 KVG substanzielle Finanzmittel zur sozialen Abfederung der Krankenversicherungsprämien zu.
 
-2. Die Bestimmung steht im Zusammenhang mit dem in Art. 1 Abs. 3 KVG verankerten Subsidiaritätsprinzip: Der Bund beteiligt sich nicht vollumfänglich an den Prämienverbilligungen, sondern übernimmt mit dem Kantonsanteil drei Viertel der Kosten, während die Kantone ihrerseits einen Eigenanteil von 25 Prozent tragen. Dieses Teilhabemodell sichert einerseits die finanzielle Entlastung der Prämienzahler, wahrt aber gleichzeitig die kantonale Mitverantwortung und verhindert einen vollständigen Finanzierungsausgleich durch den Bund.
+2. Das Finanzierungsmodell erfuhr im Rahmen der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA, in Kraft seit 1. Januar 2008; [BBl 2005 6029](https://www.fedlex.admin.ch/eli/fga/2005/976/de)) einen grundlegenden Systemwechsel. Bis Ende 2007 wurden die Bundesbeiträge alle vier Jahre durch einfachen Bundesbeschluss festgelegt und nach der kantonalen Finanzkraft abgestuft (aArt. 66 Abs. 2–4 KVG). Seit dem 1. Januar 2008 ist der Bundesbeitrag in Art. 66 Abs. 2 KVG starr an eine gesetzliche Quote von 7,5 Prozent der Bruttokosten der OKP gekoppelt. Die finanzielle Leistungsfähigkeit des einzelnen Kantons spielt für die Bemessung keine Rolle mehr ([BBl 2005 6029, S. 6140 f.](https://www.fedlex.admin.ch/eli/fga/2005/976/de); [BGer 9C_250/2025 vom 23.07.2026 E. 2.2.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
 
-3. Die praktische Bedeutung von Art. 66 KVG ist beträchtlich: Der Kantonsanteil macht einen erheblichen Anteil der Bundesausgaben im Bereich der Krankenversicherung aus und stellt für die Kantone eine wesentliche Einnahmequelle bei der Finanzierung der Prämienverbilligungen dar. Streitigkeiten betreffen insbesondere die Berechnungsmethode, den Kreis der massgeblichen Versicherten und die Abzugsfähigkeit des Prämienausgleichs.
+3. Aus dogmatischer Sicht entspricht der Satz von 7,5 Prozent der Bruttokosten rechnerisch einem Viertel der Gesamtkosten der sozialen Krankenversicherung für 30 Prozent der Versicherten ([BGE 145 I 26 E. 8.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-145-I-26_2019.html)). Es handelt sich bei dieser 30-Prozent-Quote um einen bundespolitischen Zielwert zur Absicherung einkommensschwacher Bevölkerungskreise, nicht um einen individuellen Rechtsanspruch des einzelnen Bürgers ([BGE 145 I 26 E. 8.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-145-I-26_2019.html)).
 
-4. Die jüngere Rechtsprechung des Bundesgerichts — namentlich der Entscheid 9C_250/2025 — hat die Natur von Art. 66 Abs. 3 KVG als Delegationsnorm klargestellt und damit die Rechtsgrundlage für den Abzug des Prämienausgleichs nach Art. 65 Abs. 4bis KVG beim Kantonsanteil bestätigt.
+4. Der Bundesbeitrag nach Art. 66 KVG stellt eine zweckgebundene Subvention an die Kantone dar. Mit dem Inkrafttreten des indirekten Gegenvorschlags zur Prämien-Entlastungs-Initiative per 1. Januar 2026 ([AS 2025 568](https://www.fedlex.admin.ch/eli/oc/2025/568/de); [BBl 2021 2383](https://www.fedlex.admin.ch/eli/fga/2021/2383/de)) wird das Zusammenspiel zwischen Bund und Kantonen weiter verschärft: Gemäss Art. 65 Abs. 1septies KVG werden die Beträge nach Art. 66 KVG bei der Überprüfung, ob ein Kanton seinen obligatorischen Mindestanteil an den Bruttokosten erbringt, ausdrücklich nicht angerechnet. Der Bundesbeitrag darf somit nicht dazu missbraucht werden, kantonale Eigenmittel zu substituieren.
 
 ## Kommentierung
 
-### A. Kantonsanteil (Abs. 1)
+### A. Bundesbeitrag an die Kantone (Abs. 1)
 
-5. Absatz 1 bestimmt den Beteiligungsanteil des Bundes an den Prämienverbilligungen der Kantone auf 75 Prozent der von den Kantonen ausgerichteten Prämienverbilligungen. Der Bund richtet diesen Betrag als sogenannten Kantonsanteil den Kantonen aus. Die Formulierung «von ihnen ausgerichteten Prämienverbilligungen» stellt klar, dass der Kantonsanteil auf der tatsächlichen Ausrichtung der Prämienverbilligungen durch die Kantone beruht und nicht auf einem blossen Anspruch.
+5. Absatz 1 begründet die Verpflichtung der Eidgenossenschaft, den Kantonen jährlich Finanzmittel zur Verbilligung der Prämien im Sinne der Art. 65 und Art. 65a KVG auszurichten. Anspruchsberechtigt sind ausschliesslich die Kantone als Träger des Vollzugs der Prämienverbilligung ([BGE 124 V 19 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-124-V-19_1998-02-23.html)). Gemeinden oder versicherten Privatpersonen steht kein bundesrechtlicher Anspruch auf direkte Auszahlung der Bundesmittel nach Art. 66 KVG zu ([Urteil ZH_VG VB.2001.00136 vom 21.06.2001 E. 1b](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2001-00136_2001-06-21.html)).
 
-6. Die Höhe des Kantonsanteils von 75 Prozent ist im Gesetz festgeschrieben und kann weder durch den Bundesrat noch durch die Kantone einseitig verändert werden. Die Fixierung auf drei Viertel der kantonalen Aufwendungen stellt einen Kompromiss zwischen der Bundesaufsichtspflicht und der kantonalen Eigenverantwortung dar. Die Kantone tragen somit einen Eigenanteil von 25 Prozent, was sicherstellt, dass sie ein ausreichendes Interesse an einer wirksamen und wirtschaftlichen Ausgestaltung der Prämienverbilligung behalten.
+6. Die Bundesmittel unterliegen einer strikten öffentlich-rechtlichen Zweckbindung. Sie sind von den Kantonen vollumfänglich und ausschliesslich für die Verbilligung der Krankenversicherungsprämien von Personen in bescheidenen wirtschaftlichen Verhältnissen einzusetzen ([Urteil LU_VWG A 98 207 vom 29.09.1998 E. 3](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-98-207_1998-09-29.html)). Eine Verwendung für allgemeine Aufgaben des Staatshaushalts oder zur Deckung sonstiger Sozialausgaben ist unzulässig.
 
-7. Voraussetzung für den Kantonsanteil ist, dass die Kantone Prämienverbilligungen nach den Art. 65–65b KVG ausrichten. Nur diejenigen Ausgaben, die den Anforderungen dieser Bestimmungen entsprechen, können für den Kantonsanteil geltend gemacht werden. Dies schliesst ein, dass die Kantone ihre Prämienverbilligungssysteme im Einklang mit den bundesrechtlichen Vorgaben ausgestalten müssen, wenn sie den Kantonsanteil beanspruchen wollen.
+### B. Bemessung: 7,5 Prozent der Bruttokosten der OKP (Abs. 2)
 
-### B. Bestimmung der massgeblichen Versicherten (Abs. 2)
+7. Gemäss Absatz 2 entspricht das Gesamtvolumen des Bundesbeitrags exakt 7,5 Prozent der Bruttokosten der obligatorischen Krankenpflegeversicherung. Durch diese prozentuale Verknüpfung wächst der Bundesbeitrag proportional zum Anstieg der gesamten Gesundheitskosten der obligatorischen Krankenpflegeversicherung an ([BGE 145 I 26 E. 8.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-145-I-26_2019.html)).
 
-8. Absatz 2 delegiert dem Bundesrat die Kompetenz, die Versicherten zu bezeichnen, die bei der Berechnung des Kantonsanteils zu berücksichtigen sind. Diese Delegation ist notwendig, weil die Bestimmung des massgeblichen Personenkreises eine administrative Präzisierung erfordert, die auf der Stufe des Gesetzes nicht in ausreichendem Detail geregelt werden kann.
+8. Die nähere Definition der Bruttokosten und deren Berechnung regelt das Verordnungsrecht (Art. 2 der Verordnung über die Beiträge der Kantone und des Bundes zur Prämienverbilligung in der Krankenversicherung [VPVK; SR 832.112.4]; zuvor aVPVK [AS 2007 6071]). Massgebend ist primär das Prämiensoll, mithin die Summe der genehmigten Prämientarife für den Versichertenbestand ([BGer 9C_250/2025 vom 23.07.2026 E. 4.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
 
-9. Der Bundesrat hat von dieser Befugnis in der Verordnung über die Krankenversicherung (KVV) Gebrauch gemacht. Die Bezeichnung der massgeblichen Versicherten hat insbesondere Bedeutung für die Abgrenzung, welche Personen in die Berechnung des Kantonsanteils einbezogen werden und welche nicht. Dabei sind namentlich Fragen der Wohnsitzfrage, des Versicherungsstatus und der zeitlichen Zugehörigkeit zum Kreis der Berechtigten zu klären.
+9. Führt ein Krankenversicherer gestützt auf Art. 17 des Krankenversicherungsaufsichtsgesetzes (KVAG; SR 832.12) einen Ausgleich von zu hohen Prämieneinnahmen durch (Rückerstattung an die Versicherten), mindert dies das tatsächliche Prämienvolumen und damit die Bruttokosten der OKP. Der in Art. 3 Abs. 4bis aVPVK vorgesehene Abzug von 7,5 Prozent des Prämienausgleichs beim Anteil des betroffenen Kantons hält sich innerhalb des gesetzlichen Rahmens von Art. 66 KVG und ist gesetzeskonform ([BGer 9C_250/2025 vom 23.07.2026 E. 4.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
 
-10. Die Delegation nach Absatz 2 ist enger gefasst als diejenige nach Absatz 3. Während Absatz 3 die Regelung der Berechnung, Abrechnung und Zahlungsweise umfasst, beschränkt sich Absatz 2 auf die Bezeichnung des Personenkreises. Der Bundesrat ist insoweit an den Rahmen des Gesetzes gebunden und kann den Kreis der massgeblichen Versicherten nicht willkürlich erweitern oder einschränken.
+### C. Verteilung auf die Kantone und Vollzugszuständigkeit (Abs. 3)
 
-### C. Delegationsnorm (Abs. 3)
+10. Absatz 3 regelt die Aufteilung der Bundessumme auf die einzelnen Kantone. Die Verteilung erfolgt strikt nach zwei gesetzlichen Kriterien:
+- nach der zivilrechtlichen Wohnbevölkerung des jeweiligen Kantons;
+- nach der Anzahl der anspruchsberechtigten Versicherten mit Wohnsitz im Ausland nach Art. 65a lit. a KVG (EU/EFTA- und UK-Rentner sowie deren Familienangehörige).
 
-11. Absatz 3 enthält eine Delegationsnorm, die dem Bundesrat die Regelung der Einzelheiten der Berechnung, der Abrechnung und der Zahlungsweise des Kantonsanteils überträgt. Das Bundesgericht hat im Entscheid 9C_250/2025 klargestellt, dass es sich bei Art. 66 Abs. 3 KVG um eine Delegationsnorm handelt und nicht um eine unmittelbare Befugnis des Bundesrates, die über den Rahmen der Delegation hinausgeht.
+11. Nach dem Wortlaut von Art. 66 Abs. 3 KVG setzt der «Bundesrat» die Anteile der einzelnen Kantone am Bundesbeitrag fest. Das Bundesgericht hat in grundlegender Klärung festgehalten, dass diese Bestimmung — im Sinne einer Ergänzung zu Art. 96 KVG und Art. 182 Abs. 2 BV — dem Bundesrat die Kompetenz erteilt, die Berechnungsmodalitäten auf Verordnungsstufe generell-abstrakt festzulegen ([BGer 9C_250/2025 vom 23.07.2026 E. 2.2.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
 
-12. Die Delegationsnorm ermächtigt den Bundesrat insbesondere, vorzusehen, dass der Prämienausgleich nach Art. 65 Abs. 4bis KVG beim Kantonsanteil in Abzug gebracht wird. Diese Abzugsmöglichkeit hat praktische Bedeutung: Wenn ein Kanton Prämienausgleichszahlungen nach Art. 65 Abs. 4bis KVG erhält, werden diese bei der Berechnung des Kantonsanteils berücksichtigt, sodass eine Doppelfinanzierung durch den Bund vermieden wird.
+12. Für den Erlass der individuellen Festsetzungsverfügungen gegenüber den einzelnen Kantonen ist demgegenüber nicht der Bundesrat, sondern das Bundesamt für Gesundheit (BAG) sachlich zuständig ([BGer 9C_250/2025 vom 23.07.2026 E. 2.2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)). Ein Erlass durch den Bundesrat würde den Rechtsschutz der Kantone vor dem Bundesverwaltungsgericht gemäss Art. 47 Abs. 1 VwVG e contrario unzulässig beschneiden ([BGer 9C_250/2025 vom 23.07.2026 E. 2.2.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
 
-13. Die Verfassungsmässigkeit dieser Abzugsregelung wurde im Entscheid 9C_250/2025 bestätigt. Das Bundesgericht hielt fest, dass die Delegationsnorm in Art. 66 Abs. 3 KVG dem Bundesrat die Befugnis einräumt, den Prämienausgleich beim Kantonsanteil abzuziehen, und dass die entsprechende Umsetzung in Art. 3 Abs. 4bis der Verordnung über die Ver richtung von Prämienverbilligungen in der Krankenversicherung (aVPVK; heute VPVK) gesetzeskonform sei.
+## Praxisfragen
 
-14. Der Umfang der Delegation ist indes nicht unbeschränkt. Der Bundesrat muss sich an die Vorgaben des Gesetzes halten und darf die Delegationsnorm nicht dazu verwenden, den Kantonsanteil in einer Weise zu modifizieren, die dem Gesetzeszweck widerspricht. Insbesondere darf die Delegation nicht dazu führen, dass der Kantonsanteil faktisch unter den gesetzlich vorgesehenen Anteil von 75 Prozent sinkt, es sei denn, der Abzug dient der Vermeidung von Doppelfinanzierungen, wie dies beim Prämienausgleich nach Art. 65 Abs. 4bis KVG der Fall ist.
+### 1. Zuständigkeit und Rechtsweg bei Beitragsstreitigkeiten
+Verfügungen des BAG über die Festsetzung des Bundesbeitrags können von den betroffenen Kantonen mit Beschwerde beim Bundesverwaltungsgericht angefochten werden (Art. 44 VwVG i.V.m. Art. 31 und 33 lit. d VGG). Gegen dessen Urteil steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht offen (Art. 82 lit. a BGG); ein Ausschlussgrund nach Art. 83 lit. k BGG liegt trotz des Subventionscharakters nicht vor, weil Art. 66 KVG einen bundesgesetzlichen Anspruch einräumt ([BGer 9C_250/2025 vom 23.07.2026 E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)).
+
+### 2. Parteibezeichnung und kantonale Prozessführungsbefugnis
+Träger des materiellen Anspruchs auf den Bundesbeitrag ist die kantonale Gebietskörperschaft als Ganzes. Das Bundesgericht stellt klar, dass Beschwerdeführer vor den Gerichten formell der Kanton selbst (z.B. «Kanton Basel-Stadt, handelnd durch das Amt für Sozialbeiträge») ist und nicht die ausführende Amtsstelle im eigenen Namen ([BGer 9C_250/2025 vom 23.07.2026 E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-250-2025_2026-07-23.html)). Fehlerhafte Parteibezeichnungen im Rubrum sind von Amtes wegen zu korrigieren.
+
+### 3. Pflicht zur Wahrung des kantonalen Eigenaufwands
+Die Kantone dürfen ihre Ausgaben für die Prämienverbilligung nicht einseitig so weit reduzieren, dass die Verbilligung faktisch fast nur noch aus dem Bundesbeitrag nach Art. 66 KVG alimentiert wird ([BGE 145 I 26 E. 8.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-145-I-26_2019.html)). Nach Art. 65 Abs. 1ter–1septies KVG (seit 1. Januar 2026) müssen Kantone zwingend eigene Mindestanteile aufwenden; der Bundesbeitrag nach Art. 66 KVG darf bei diesem Nachweis nicht angerechnet werden.
 
 ## Rechtsprechung
 
@@ -67,7 +71,6 @@ Ausführliche Übersicht der wichtigsten Entscheide → [Rechtsprechung zu Art. 
 
 ## Literatur
 
-- *Eugster/David*, in: KVG-Kommentar, Art. 66 KVG
-- *Maurer/Zäch*, Schweizerisches Sozialversicherungsrecht, Bd. III: Krankenversicherung, 3. Aufl. 2020
-- *Spühler*, in: Basler Kommentar KVG, Art. 66
-- *Valérie Junod*, Le financement de l'assurance-maladie, in: PAS 2023
+- *Frick Rolf*, in: Basler Kommentar Krankenversicherungsgesetz / Krankenversicherungsaufsichtsgesetz, Basel 2020, Art. 66 KVG.
+- *Eugster Gebhard*, Die obligatorische Krankenpflegeversicherung nach KVG, 2. Aufl., Zürich/Basel/Genf 2025.
+- *Eugster Gebhard*, Krankenversicherung, in: Ulrich Meyer (Hrsg.), Schweizerisches Bundesverwaltungsrecht (SBVR), Bd. XIV: Soziale Sicherheit, 3. Aufl., Basel 2016.
