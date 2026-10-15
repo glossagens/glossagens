@@ -93,7 +93,7 @@ agent_verified: true
 ### A. Hauptkommentar (`art-{nr}/_index.md`)
 Der Kommentarartikel ist wie folgt zu gliedern:
 
-1. **Gesetzeswortlaut**: Zitat der aktuellen Gesetzesbestimmung (inkl. Absatznummerierung) in einem CSS-Zitat-Block (`{: .gesetzeszitat}`).
+1. **Gesetzeswortlaut**: ausschliesslich die Zeile `{{< wortlaut >}}`; die Daten erzeugt `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` aus der amtlichen Quelle (`data/wortlaut/{gesetz}/art-{NNN}.json`, mit committen). Kein Blockquote, kein `{: .gesetzeszitat}`, keine eigene Quellenzeile.
 2. **Überblick und Bedeutung**: Einordnung der Norm in die Systematik des Gesetzes, Zweck und Tragweite unter Beizug der Gesetzesmaterialien (Botschaft, BBl) und Dogmatik.
 3. **Kommentierung**: Absatzweise oder thematische Gliederung der Bestimmung. Hierbei sind Kernaussagen der wichtigsten Bundesgerichtsentscheide und Lehrmeinungen direkt im Text mit korrekter Zitierweise und Hyperlinks zu zitieren (z.B. `([BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2))`).
 4. **Praxisfragen**: Dokumentation kantonaler Besonderheiten, Streitpunkte oder verfahrensrechtlicher Hürden (z.B. Fristberechnungen, Unterschriftsmängel, Zustellungsfragen). Jede Frage muss mit dem klärenden Entscheid verknüpft sein.

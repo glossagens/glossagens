@@ -56,7 +56,8 @@ content/
 └── ueber/_index.md                   ← Projektbeschreibung
 
 data/
-└── systematik/{gesetz}.yaml          ← Gliederung der Artikelübersicht
+├── systematik/{gesetz}.yaml          ← Gliederung der Artikelübersicht
+└── wortlaut/{gesetz}/art-{nr}.json   ← Gesetzeswortlaut aus amtlicher Quelle (scripts/wortlaut.py)
 
 agent/
 ├── executor.py                       ← Issue- und PR-Verarbeitungslogik
@@ -85,6 +86,7 @@ static/
 **Wichtig für den Agenten**: Neue Artikel immer als Page Bundle erstellen:
 1. Verzeichnis `content/kommentar/{gesetz}/art-{nr}/` anlegen
 2. `_index.md` für den Kommentar (Branch Bundle — nicht `index.md`!)
+2a. Abschnitt `## Gesetzeswortlaut` enthält nur `{{< wortlaut >}}`; die Daten mit `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{nr}` erzeugen und mit committen (siehe „Gesetzeswortlaut: Shortcode `wortlaut`").
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
 3a. Bei Straftatbeständen optional `strafzumessung.md` — empirischer Strafzumessungs-Praxiskommentar aus der publizierten Praxis (Skill `strafzumessungskommentar`, `weight: 98`). Die Artikelseite verlinkt die Seite automatisch, sobald sie im Bundle liegt (`layouts/kommentar/list.html`).
 4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / `mcp_verified`) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
@@ -115,6 +117,7 @@ srl: "40"                # Nummer der kantonalen Sammlung, nicht SR
 
 Regeln:
 - `sr` bzw. `srl` ist **zwingend**. Fehlt es, bricht der Hugo-Build mit `errorf` ab — das Gesetz würde sonst lautlos aus der Übersicht verschwinden.
+- `sr` muss **exakt** der Fedlex-Notation entsprechen (`641.10`, nicht `641.1`): `scripts/wortlaut.py` findet den Erlass darüber. Das StG stand bis Oktober 2026 unter `641.1` und war für das Skript unauffindbar; eine falsche, aber vergebene Nummer träfe stillschweigend einen anderen Erlass.
 - Die Sachgruppe wird aus der ersten Ziffer der SR-Nummer abgeleitet (`0.101` → Gruppe 0, `311.0` → Gruppe 3). Nichts von Hand zuordnen.
 - `weight` beim Anlegen eines neuen Gesetzes so setzen, dass die Sidebar der SR-Reihenfolge folgt (Weights der Nachbargesetze prüfen).
 - Der Body enthält **nur** den Einleitungssatz mit Fedlex-Link. Die Artikelliste rendert `articles.html` automatisch — **keine** Artikelliste oder -tabelle von Hand pflegen.
@@ -211,6 +214,47 @@ opencaselaw bzw. **entscheidsuche** als gleichwertigem Weg; nur der Gesetzestext
 
 Unverändert gilt: **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben.
 
+### Gesetzeswortlaut: Shortcode `wortlaut`
+
+Seit Oktober 2026 steht der Normtext **nicht** mehr als Blockquote im Kommentar. Der Abschnitt
+`## Gesetzeswortlaut` enthält nur:
+
+```markdown
+{{< wortlaut >}}
+```
+
+Den Text liefert `data/wortlaut/{gesetz}/art-{nr}.json`, erzeugt von `scripts/wortlaut.py`
+(nur Standardbibliothek). Der Shortcode (`layouts/_shortcodes/wortlaut.html`, CSS am Ende von
+`assets/css/custom.css`) setzt ihn im Satzbild von Fedlex: Gliederung, **Art. N** Sachüberschrift,
+hochgestellte Absatznummern, Litterae mit hängendem Einzug, Fussnoten mit Fassungsvermerken,
+Stand und Link auf den Artikel bei Fedlex.
+
+```bash
+python3 scripts/wortlaut.py content/kommentar/stpo/art-110      # ein Artikel
+python3 scripts/wortlaut.py content/kommentar/stpo/art-*        # ganzes Gesetz
+git diff --stat data/wortlaut/                                   # was hat sich geändert?
+```
+
+- **Quelle Bundesrecht**: das HTML der geltenden Fedlex-Konsolidierung (SPARQL-Endpunkt +
+  Filestore). Der Artikel wird als Fragment übernommen und nur bereinigt — keine eigene
+  Umformung des Normtexts. Fassungen mit künftigem Inkrafttreten (Fedlex führt sie bereits)
+  werden übergangen; `--stand YYYY-MM-DD` für einen anderen Stichtag.
+- **Quelle kantonales Recht**: die LexWork-API der kantonalen Sammlung (Tabelle `LEXWORK` im
+  Skript; derzeit Luzern, `srl.lu.ch`). Fassungsvermerke kommen aus der Änderungstabelle des
+  Erlasses. Ein weiterer LexWork-Kanton braucht nur einen Eintrag in der Tabelle; Kantone mit
+  anderer Plattform werden mit Fehler abgewiesen, bis eine Quelle implementiert ist.
+- **Bezugsnorm** mitzitieren: `{{< wortlaut gesetz="stgb" art="art-015" >}}` (Daten vorher holen).
+- **Fehlende Daten-Datei** bricht den Build ab (`errorf`) — gewollt, sonst ginge ein leerer
+  Abschnitt live. Bei externen PRs fängt das der Build-Check in `executor.py` ab; im
+  Issue-Kanal setzt der Executor Shortcode und Daten selbst ein (`_wortlaut_einsetzen`).
+- **Keine** eigene Quellen- oder Standzeile («*Wortlaut geprüft gegen Fedlex …*») unter den
+  Shortcode — Stand und Fassungsvermerke zeigt er selbst.
+- **Nachführen** ist ein erneuter Skriptlauf (Skill `glossagens-lint`). Eine Datei wird nur
+  neu geschrieben, wenn sich mehr als das Abrufdatum geändert hat; `git diff data/wortlaut/`
+  zeigt damit genau die Artikel mit geändertem Text oder Stand. Ändert sich der Normtext eines
+  Artikels, gehört ein `revisions`-Eintrag in dessen `_index.md`.
+- `audit.py` Stufe 1 erkennt den Shortcode und meldet `aus_quelle` statt eines Textvergleichs.
+
 ### Verlinkung von Entscheiden: entscheidsuche.ch zuerst, opencaselaw nur als Rückfall
 
 Jeder im Text zitierte Entscheid wird **auf entscheidsuche.ch verlinkt**, soweit dort ein Dokument
@@ -254,7 +298,7 @@ Regeln:
 | `date` | Datum der Änderung (`YYYY-MM-DD`) |
 | `by` | **Wer** die Änderung vorgenommen hat — Mensch (`"Jonas Achermann"`) oder Agent (`"Claude Code"`, `"Hermes Agent"`) |
 | `model` | **Mit welchem KI-Modell** — exakte Modell-ID (z. B. `claude-opus-4-8`, `hermes3`); bei rein manueller Bearbeitung ohne KI: `human` |
-| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP**, Entscheide über entscheidsuche (`search_by_case_number` / `fetch_document`) oder opencaselaw (`cite` / `get_erwaegung` / `get_regeste`). Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute" und „Verlinkung von Entscheiden") |
+| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP** bzw. per `{{< wortlaut >}}` aus `scripts/wortlaut.py`, Entscheide über entscheidsuche (`search_by_case_number` / `fetch_document`) oder opencaselaw (`cite` / `get_erwaegung` / `get_regeste`). Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute" und „Verlinkung von Entscheiden") |
 | `note` | optional — kurze Beschreibung der Änderung |
 
 Regeln:

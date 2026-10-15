@@ -55,7 +55,7 @@ Create a new commentary from scratch or comprehensively update an existing one.
 
 **Steps:**
 1. INIT (→ Teil B, Abschnitt 1)
-2. GESETZESTEXT abrufen (→ Teil B, Abschnitt 2)
+2. GESETZESTEXT abrufen und als Daten ablegen: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` (→ Teil B, Abschnitt 2)
 3. RECHERCHE — parallel subagent research (→ Teil B, Abschnitt 3)
 4. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
 5. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext (→ Teil D.1)
@@ -223,6 +223,28 @@ mcp_opencaselaw_get_legislation: { "query": "Art. {N} {ABBREV} SR {SRNR}" }
 ```
 
 Vollständigen Wortlaut aller Absätze und Buchstaben verwenden.
+
+**Darstellung im Bundle — nur per Shortcode.** Die MCP-Abfrage dient dem Lesen und der
+Recherche. In den Artikel kommt der Normtext **nicht** als Blockquote, sondern so:
+
+```bash
+python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}
+# → data/wortlaut/{gesetz}/art-{NNN}.json (mit committen)
+```
+
+```markdown
+## Gesetzeswortlaut
+
+{{< wortlaut >}}
+```
+
+Das Skript holt den Text aus dem HTML der geltenden Fedlex-Konsolidierung (kantonal: aus
+der LexWork-Sammlung, derzeit Luzern) und übernimmt Absätze, Litterae und Fussnoten
+unverändert; der Shortcode setzt ihn im Satzbild von Fedlex mit Stand und Quellenlink.
+Keine eigene Quellen- oder Standzeile darunter. Eine Bezugsnorm, die zum Verständnis
+mitgelesen werden muss: `{{< wortlaut gesetz="{gesetz}" art="art-{NNN}" >}}` (Daten
+ebenfalls mit dem Skript holen). Fehlt die Daten-Datei, bricht der Hugo-Build ab —
+gewollt, damit kein leerer Wortlaut-Abschnitt live geht.
 
 ---
 
@@ -452,7 +474,7 @@ revisions:
 ```markdown
 ## Gesetzeswortlaut
 
-> {Verbatim statute text from mcp__fedlex-connector__get_article, in blockquote}
+{{< wortlaut >}}
 
 ## Kommentierung
 
@@ -632,7 +654,7 @@ Vor dem Schreiben ebenfalls:
 
 - **Jede Zitierung** stammt wörtlich aus `citation_string_de` / `markdown_link` einer
   `cite`- oder Such-Antwort. Nie selbst konstruieren, nie aus dem Gedächtnis ergänzen.
-- **Gesetzeswortlaut** verbatim aus Fedlex `get_article`, mit Konsolidierungsstand.
+- **Gesetzeswortlaut** per `{{< wortlaut >}}` aus `scripts/wortlaut.py` — nie von Hand.
 - **Wörtliche Zitate** (≥ 30 Zeichen) nur aus `get_erwaegung` / `get_regeste` — kopiert,
   nicht nachgeschrieben.
 
@@ -728,7 +750,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 **Quellenintegrität:**
 - [ ] Alle citation_strings aus Tool-Ergebnissen — nicht selbst konstruiert?
-- [ ] Gesetzestext verbatim aus Fedlex `get_article` — nicht aus dem Gedächtnis?
+- [ ] Gesetzestext per `{{< wortlaut >}}` (Daten aus `scripts/wortlaut.py`, mit committet) — kein Blockquote?
 - [ ] Direkte Zitate nur aus `get_erwaegung` oder `get_regeste`?
 - [ ] Alle Rechtsquellen (Entscheide, Gesetze, Materialien) auf Originalquelle verlinkt?
 - [ ] Unsichere Stellen weggelassen oder als Paraphrase kenntlich gemacht?
@@ -744,7 +766,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 - [ ] `agent_verified: true` in `_index.md` (nur nach Verifikation, jüngste Revision `mcp_verified: true`)?
 
 **Inhalt:**
-- [ ] Gesetzeswortlaut im Blockquote?
+- [ ] `## Gesetzeswortlaut` enthält `{{< wortlaut >}}` und `data/wortlaut/{gesetz}/art-{NNN}.json` existiert?
 - [ ] Rechtsprechung in absteigender Hierarchie (BGE → BGer → kantonal)?
 - [ ] Hugo-Build erfolgreich?
 
@@ -754,7 +776,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 `mcp_verified: true` ist **nur** zulässig, wenn kumulativ:
 
-1. Der Gesetzeswortlaut aus Fedlex `get_article` stammt (Rückfall `get_law` nur bei kantonalem Recht),
+1. Der Gesetzeswortlaut per `{{< wortlaut >}}` aus der amtlichen Quelle stammt (`scripts/wortlaut.py`),
 2. jede Zitierung aus einer Tool-Antwort kopiert ist,
 3. jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext beurteilt wurde
    (D.1), und

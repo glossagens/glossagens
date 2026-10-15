@@ -46,6 +46,7 @@ Usage:
 """
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -578,6 +579,32 @@ def ref_from_id(decision_id):
     return d
 
 
+SHORTCODE_WORTLAUT = re.compile(r"\{\{<\s*wortlaut([^>]*)>\}\}")
+
+
+def wortlaut_daten(path, text):
+    """Daten der {{< wortlaut >}}-Shortcodes einer Datei (data/wortlaut/…json).
+
+    Seit Oktober 2026 steht der Normtext nicht mehr als Blockquote im Bundle,
+    sondern kommt per Shortcode aus der amtlichen Quelle (scripts/wortlaut.py).
+    """
+    teile = os.path.normpath(path).split(os.sep)
+    gesetz_def, art_def = teile[-3], teile[-2]
+    out = []
+    for m in SHORTCODE_WORTLAUT.finditer(text):
+        args = dict(re.findall(r'(\w+)="([^"]*)"', m.group(1)))
+        gesetz, art = args.get("gesetz", gesetz_def), args.get("art", art_def)
+        p = os.path.join(REPO_ROOT, "data", "wortlaut", gesetz, art + ".json")
+        d = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else None
+        out.append({"gesetz": gesetz, "art": art, "pfad": os.path.relpath(p, REPO_ROOT), "daten": d})
+    return out
+
+
+def wortlaut_klartext(daten):
+    return "\n".join(re.sub(r"<[^>]+>", " ", html.unescape(d["daten"]["html"]))
+                     for d in daten if d["daten"])
+
+
 def extract_wortlaut(text):
     """Blockquote-Block unter der Wortlaut-Überschrift."""
     lines = text.split("\n")
@@ -921,7 +948,7 @@ def parse_file(path, rel):
         add_plain(ref, m.start(), pm.group(1) if pm else None, claim)
 
     # Verbatim-Zitate: nächstgelegener Beleg im selben Absatz
-    wortlaut = extract_wortlaut(text)
+    wortlaut = extract_wortlaut(text) or wortlaut_klartext(wortlaut_daten(path, text))
     quotes = []
     for m in QUOTED.finditer(body):
         q = strip_md(m.group(1))
@@ -955,6 +982,27 @@ def parse_bundle(bundle):
 
 
 # ---------------------------------------------------------------- Stufen 1–4
+
+
+def stufe1_shortcode(bundle):
+    """Stufe 1 für Bundles mit {{< wortlaut >}}: Der Normtext stammt unverändert
+    aus der amtlichen Quelle (Fedlex bzw. kantonale LexWork-Sammlung), ein
+    Textvergleich entfällt. Geprüft wird nur, ob die Daten vorhanden sind; ob
+    sie noch der geltenden Fassung entsprechen, zeigt ein erneuter Lauf von
+    scripts/wortlaut.py (git diff auf data/wortlaut/)."""
+    p = os.path.join(bundle, "_index.md")
+    if not os.path.exists(p):
+        return None
+    daten = wortlaut_daten(p, open(p, encoding="utf-8").read())
+    if not daten:
+        return None
+    fehlt = [d["pfad"] for d in daten if not d["daten"]]
+    if fehlt:
+        return {"status": "daten_fehlen", "fehlt": fehlt}
+    eigen = daten[0]["daten"]
+    return {"status": "aus_quelle", "stand": eigen.get("stand"),
+            "quelle": eigen.get("quelle"), "abgerufen": eigen.get("abgerufen"),
+            "dateien": [d["pfad"] for d in daten]}
 
 
 def stufe1_wortlaut(mcp, gesetz, article, zitiert, sr_number=None):
@@ -1349,7 +1397,7 @@ def sr_from_gesetz(bundle):
 def audit_bundle(mcp, bundle, gesetz, article, ledger, jobs_out=None, workers=None):
     sr = sr_from_gesetz(bundle)
     units, quotes, wortlaut = parse_bundle(bundle)
-    w = stufe1_wortlaut(mcp, gesetz, article, wortlaut, sr_number=sr)
+    w = stufe1_shortcode(bundle) or stufe1_wortlaut(mcp, gesetz, article, wortlaut, sr_number=sr)
     ex = stufe2_existenz(mcp, units)
     pp = stufe3_pinpoints(mcp, units, ex)
     vb = stufe4_verbatim(mcp, quotes, ex)

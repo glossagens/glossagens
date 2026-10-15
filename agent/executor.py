@@ -1,3 +1,5 @@
+import importlib.util
+import json
 import os
 import re
 import shutil
@@ -16,6 +18,14 @@ LLM_API_URL = os.getenv("LLM_API_URL", "http://localhost:11434/v1")
 LLM_API_KEY = os.getenv("LLM_API_KEY", "")
 LLM_MODEL = os.getenv("LLM_MODEL", "hermes3")
 HUGO_BIN = os.getenv("HUGO_BIN", "hugo")
+
+# Gesetzeswortlaut aus der amtlichen Quelle (Fedlex / kantonale LexWork-Sammlung).
+# Das Modul liegt im selben Checkout unter scripts/, das kein Paket ist — daher
+# der Import über den Dateipfad.
+_spec = importlib.util.spec_from_file_location(
+    "wortlaut", os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scripts", "wortlaut.py"))
+wortlaut = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(wortlaut)
 
 
 @contextmanager
@@ -142,6 +152,9 @@ Du erstellst und aktualisierst Kommentare zu Schweizer Gesetzesartikeln im Markd
 Artikel werden als Hugo Page Bundles gespeichert: content/kommentar/{gesetz}/art-{NNN}/_index.md
 Schreibe präzise, quellenbasiert und im Stil eines akademischen Kommentars.
 Verwende keine erfundenen Zitate. Neue Rechtsprechungshinweise nur als Paraphrase mit Vorbehalt.
+Der Abschnitt `## Gesetzeswortlaut` enthält ausschliesslich die Zeile `{{< wortlaut >}}`.
+Schreibe den Gesetzestext nie selbst — er wird nach der Generierung aus der amtlichen
+Quelle (Fedlex) eingesetzt.
 Das Frontmatter enthält ein Feld `agent_verified: false` und einen `revisions`-Block, der
 festhält, wer mit welchem KI-Modell den Text erstellt hat und ob die Zitate via MCP geprüft
 wurden. Da du diese Angaben nicht selbst verifizieren kannst, werden sie nach der Generierung
@@ -202,6 +215,7 @@ INHALT:
 
     # Herkunfts-/Revisions-Vermerk erzwingen (Hermes ohne MCP → mcp_verified: false).
     new_content = _stamp_revision(new_content)
+    new_content, wortlaut_hinweis = _wortlaut_einsetzen(index_path, new_content, branch)
 
     gh.create_or_update_file(
         path=index_path,
@@ -234,7 +248,8 @@ Kommentar zum Bundesgesetz. Tippe auf einen Artikel, um den Kommentar zu öffnen
 
     pr_nr = gh.create_pr(
         title=f"Einreichung #{issue_nr}: {title}",
-        body=f"Automatisch erstellt aus Issue #{issue_nr}.\n\nOriginal-Einreichung: {item['url']}",
+        body=f"Automatisch erstellt aus Issue #{issue_nr}.\n\nOriginal-Einreichung: {item['url']}"
+             + (f"\n\n⚠️ {wortlaut_hinweis}" if wortlaut_hinweis else ""),
         head=branch,
     )
 
@@ -242,6 +257,47 @@ Kommentar zum Bundesgesetz. Tippe auf einen Artikel, um den Kommentar zu öffnen
     gh.close_issue(issue_nr)
 
     return f"PR #{pr_nr} erstellt: {index_path}"
+
+
+def _wortlaut_einsetzen(index_path: str, content: str, branch: str) -> tuple[str, str]:
+    """Ersetzt den Abschnitt `## Gesetzeswortlaut` durch den Shortcode und legt die
+    Daten aus der amtlichen Quelle als data/wortlaut/{gesetz}/{art}.json in den Branch.
+
+    Was das LLM unter der Überschrift geschrieben hat, fliegt raus: Ein Normtext
+    aus dem Gedächtnis eines Modells ohne Quellenzugang ist genau das, was
+    CLAUDE.md verbietet. Lässt sich der Wortlaut nicht holen (z. B. Kanton ohne
+    eingetragene Quelle), entfällt der Shortcode — sonst bräche der Hugo-Build —
+    und der PR trägt einen Hinweis.
+    """
+    teile = index_path.split("/")          # content/kommentar/{gesetz}/art-NNN/_index.md
+    gesetz, slug = teile[2], teile[3]
+    try:
+        fm, _ = gh.get_file(f"content/kommentar/{gesetz}/_index.md", branch)
+        daten = wortlaut.eintrag_fuer(slug, fm)
+    except Exception as e:                 # noqa: BLE001 — jede Störung führt zum selben Rückfall
+        abschnitt, hinweis = "\n*Wortlaut: siehe amtliche Sammlung.*\n\n", (
+            f"Gesetzeswortlaut konnte nicht automatisch geholt werden ({e}); "
+            f"vor dem Merge `scripts/wortlaut.py content/kommentar/{gesetz}/{slug}` ausführen "
+            "und den Abschnitt auf `{{< wortlaut >}}` umstellen.")
+    else:
+        gh.create_or_update_file(
+            path=f"data/wortlaut/{gesetz}/{slug}.json",
+            content=json.dumps(daten, ensure_ascii=False, indent=2) + "\n",
+            message=f"Wortlaut {slug} ({gesetz}) aus amtlicher Quelle",
+            branch=branch,
+        )
+        abschnitt, hinweis = "\n{{< wortlaut >}}\n\n", ""
+
+    kopf = re.search(r"^## (Gesetzeswortlaut|Gesetzestext)[ \t]*\n", content, re.M)
+    if kopf:
+        ende = re.search(r"^## ", content[kopf.end():], re.M)
+        e = kopf.end() + ende.start() if ende else len(content)
+        content = content[:kopf.end()] + abschnitt + content[e:]
+    else:
+        erster = re.search(r"^## ", content, re.M)
+        neu = "## Gesetzeswortlaut\n" + abschnitt
+        content = content[:erster.start()] + neu + content[erster.start():] if erster else content + "\n" + neu
+    return content, hinweis
 
 
 def _hugo_build_check(pr: dict) -> tuple[bool, str]:

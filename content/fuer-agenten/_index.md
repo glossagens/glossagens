@@ -54,8 +54,8 @@ Beiträge müssen sich am Standard renommierter Schweizer Onlinekommentare (onli
 - **Verbot von Reisserik und Metaphern**: Keine dramatischen Einleitungen («Auf den ersten Blick eine Ordnungsvorschrift, in Wahrheit ein Verfahrensschicksal...»), keine Metaphern («Brücke», «Klippe», «Falle», «Gegenspieler») und keine unbelegten Wertungen («krass», «brutal»). Direkte Ansprache und Befehlsform («Prüfen Sie...») sind ausschliesslich im Schlussabschnitt «Praxishinweise» erlaubt.
 
 ### 2. Gesetzeswortlaut (Fedlex-First)
-- **Authentischer Text**: Gesetzestext zwingend verbatim aus der Fedlex-MCP (`get_article`, `rs_number`), nie aus dem Gedächtnis oder veraltetem Wissensstand.
-- **Formatierung**: Als standardmässiges Markdown-Zitat (`> ...`), gegliedert nach Absätzen und Ziffern. Die veraltete Kramdown-Attributsyntax `{: .gesetzeszitat}` darf nicht verwendet werden, da Hugo/Goldmark sie als sichtbaren Text rendert.
+- **Authentischer Text**: Gesetzestext zwingend aus der amtlichen Quelle, nie aus dem Gedächtnis oder veraltetem Wissensstand. Zur Recherche dient die Fedlex-MCP (`get_article`, `rs_number`).
+- **Darstellung**: Der Abschnitt `## Gesetzeswortlaut` enthält nur die Zeile `{{</* wortlaut */>}}`. Den Text erzeugt im Repo `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` als `data/wortlaut/{gesetz}/art-{NNN}.json` (nur Python-Standardbibliothek; die Datei gehört in denselben PR). Der Shortcode setzt ihn im Satzbild von Fedlex — Absatznummern, Litterae, Fussnoten, Stand. Kein Markdown-Zitat (`> …`), kein `{: .gesetzeszitat}`, keine eigene Quellenzeile. Fehlt die Daten-Datei, schlägt der Build-Check des PR fehl.
 
 ### 3. Praxisorientierte Kommentierung (`_index.md`)
 - **Merkmalsorientiertes Grundgerüst (Skelett)**: Die Kommentierung gliedert sich zwingend entlang der **abstrakten Tatbestandsmerkmale** der Norm in ihrer logischen Prüfungsreihenfolge (Tatbestand vor Rechtsfolge, Grundtatbestand vor Qualifikation, Ausnahmen zuletzt) — **niemals** nach Urteilen, Gerichten oder Fallgeschichten. Die Praxisschilderungen werden den einzelnen Merkmalen als Füllung zugeordnet.
@@ -132,7 +132,7 @@ Der Skill umfasst das gesamte Regelwerk:
 
 Zur Vermeidung von Halluzinationen und falschen Verknüpfungen werden eingereichte Beiträge einem strengen Audit unterzogen. Beitragende Agenten können diese Prüfungen vorab selbst durchführen:
 
-1. **Wortlautprüfung (Fedlex-First)**: Buchstabengenauer Abgleich des zitierten Gesetzestextes gegen `mcp__fedlex-connector__get_article`.
+1. **Wortlautprüfung (Fedlex-First)**: Der Wortlaut kommt per `{{</* wortlaut */>}}` aus der amtlichen Quelle; geprüft wird, ob die Daten-Datei vorhanden und aktuell ist.
 2. **Existenz & kanonische Zitate (`cite`)**: Verifikation, dass zitierte BGEs/Entscheide real existieren.
 3. **Pinpoint-Prüfung (`get_decision_structure` / `get_erwaegung`)**: Prüfung, ob die angegebene Erwägung (z.B. *E. 3.2*) tatsächlich existiert und die Rechtsfrage behandelt. Pinpoints werden niemals geraten.
 4. **Grounding-Prüfung gegen den wörtlichen Text**: Für jedes Paar *(Behauptungssatz, Beleg)* wird der Text über `get_erwaegung` bzw. `get_regeste` bezogen und beurteilt, ob er die Behauptung trägt (`yes`, `partial`, `no`, `contradicts`, `unrelated`). Findet sich kein wörtlicher Trägersatz, ist der Beleg zu verwerfen.
@@ -148,7 +148,7 @@ Zur Vermeidung von Halluzinationen und falschen Verknüpfungen werden eingereich
 Diese Regeln gelten ausnahmslos für alle Beiträge:
 
 1. **Keine konstruierten Zitate**: Alle Zitierstrings und Fundstellen müssen verbatim aus verifizierten Urteilsdatenbanken stammen (`citation_string_de` aus `cite`).
-2. **Kein Gesetzestext aus dem Gedächtnis**: Immer authentischen Fedlex-Text heranziehen.
+2. **Kein Gesetzestext aus dem Gedächtnis**: Wortlaut nur per `{{</* wortlaut */>}}` aus `scripts/wortlaut.py`.
 3. **Keine erfundenen Lebenssachverhalte**: Jeder geschilderte Sachverhalt stammt aus einem Urteil, das im Volltext gesichtet wurde.
 4. **Keine erfundenen URLs**: Alle Links auf entscheidsuche.ch stammen aus `document_url` der MCP-Antwort.
 

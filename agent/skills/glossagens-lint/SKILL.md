@@ -6,7 +6,7 @@ description: >
   Korrektheit/Aktualität (korrekt, veraltet, falsche Norm, halluziniert, unvollständig), wendet sichere Korrekturen
   automatisch an (Wortlaut, Übersichts-Labels) und schlägt inhaltliche Überarbeitungen sowie Löschungen unbrauchbarer
   Artikel zur Bestätigung vor.
-version: 1.0.0
+version: 2.0.0
 author: Hermes Agent
 license: MIT
 tools:
@@ -29,6 +29,16 @@ Dieser Skill prüft, ob die in den Glossagens-Kommentaren zitierten **Gesetzeswo
 tatsächlich korrekt und aktuell sind oder ob sie veraltet, falsch (andere Norm/anderes
 Gesetz) oder halluziniert sind. Er gleicht jeden zitierten Text mit dem authentischen,
 konsolidierten Fedlex-Text ab und behebt Befunde nach einem festen Autonomie-Vertrag.
+
+> **Seit Oktober 2026: Wortlaut per Shortcode.** Der Normtext steht nicht mehr als
+> Blockquote im Bundle. Der Abschnitt `## Gesetzeswortlaut` enthält nur
+> `{{< wortlaut >}}`; der Text liegt in `data/wortlaut/{gesetz}/art-{nr}.json` und wird von
+> `scripts/wortlaut.py` aus der amtlichen Quelle erzeugt (Bundesrecht: Fedlex-HTML der
+> geltenden Konsolidierung; kantonales Recht: LexWork-API der kantonalen Sammlung). Ein
+> Wortlaut-Fehler im Sinne von «halluziniert» oder «falsche Norm» ist damit für
+> umgestellte Artikel ausgeschlossen. Der Lint prüft deshalb zweierlei: ob die Daten
+> **aktuell** sind (Gesetzesrevision seit dem letzten Lauf?) und ob noch **Altbestand**
+> mit Blockquote existiert, der umzustellen ist.
 
 > **Quelle: Fedlex zuerst.** Der Normtext kommt aus der Fedlex-MCP —
 > `mcp__fedlex-connector__get_article` (`rs_number`, `article`; `date` für einen
@@ -65,7 +75,8 @@ Das andere Skill `gesetzeskommentar-workflows` arbeitet auf dem Flat-File-Arbeit
 | Aktion | Erlaubt ohne Rückfrage? |
 |--------|--------------------------|
 | Gesetzeswortlaut gegen Fedlex verifizieren | ✅ ja |
-| Gesetzeswortlaut durch verifizierten Fedlex-Text **ersetzen** | ✅ ja (sichere Korrektur) |
+| `scripts/wortlaut.py` laufen lassen (Daten auf geltenden Stand bringen) | ✅ ja (sichere Korrektur) |
+| Altbestand-Blockquote durch `{{< wortlaut >}}` **ersetzen** | ✅ ja (sichere Korrektur) |
 | Falsches Themen-Label in der Übersichts-Tabelle korrigieren | ✅ ja (sichere Korrektur) |
 | `lastmod` im Frontmatter aktualisieren | ✅ ja |
 | `revisions`-Eintrag für die Lint-Änderung ergänzen | ✅ ja (Pflicht bei jeder Änderung) |
@@ -104,10 +115,10 @@ prüfen — ohne wörtliche Belegstelle kein Beleg. Regeln dazu in
 
 ## ANTI-HALLUZINATIONS-REGELN
 
-1. **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben. Jeder Ersatztext stammt
-   wörtlich aus der Antwort von `mcp__fedlex-connector__get_article` — ersatzweise, bei
-   kantonalem Recht oder wenn Fedlex nichts liefert, aus dem `text`-Feld von
-   `mcp_opencaselaw_get_law`.
+1. **Nie** einen Gesetzeswortlaut aus dem Gedächtnis schreiben — und auch keinen von Hand
+   in den Bundle setzen. Der Text kommt ausschliesslich über `scripts/wortlaut.py` in
+   `data/wortlaut/`. Die Fedlex-MCP (`mcp__fedlex-connector__get_article`) dient der
+   Gegenkontrolle und der Recherche, nicht als Kopiervorlage.
 2. Im Bericht stets das **Konsolidierungsdatum** aus der Fedlex-Antwort nennen
    (z.B. „Stand 2026-01-01").
 3. Findet Fedlex einen Artikel nicht (z.B. SR-Nr. unklar), zuerst
@@ -137,56 +148,47 @@ und zugleich die Fedlex-Abkürzung in Grossschreibung (`StGB`, `StPO`, `OR`, …
 2. Bei Gesamt-Lint: alle `art-*/`-Bundles auflisten.
 3. Fedlex-Abkürzung ableiten (`stgb` → `StGB`). Falls unklar → `search_laws`.
 
-## Schritt 2 — GESETZESTEXT EXTRAHIEREN
-
-Aus jeder `art-{nr}/_index.md` den zitierten Wortlaut herausziehen. Die Überschrift
-variiert in den Bestandsdaten — **alle** Varianten berücksichtigen:
-
-```
-## Gesetzeswortlaut   |   ## Gesetzestext   |   ## Wortlaut
-### Wortlaut          |   ## Art. X — Wortlaut
-```
-
-Praktisch: den Blockquote-Abschnitt (`>`-Zeilen) zwischen der Wortlaut-Überschrift und
-der nächsten `##`/`###`-Überschrift bzw. bis `> **Annotation`. Sammel-Extraktion z.B.:
+## Schritt 2 — BESTAND AUFNEHMEN
 
 ```bash
 cd content/kommentar/{gesetz}
-for d in art-*/; do
-  f="${d}_index.md"; [ -f "$f" ] || continue
-  echo "===== $f ====="
-  awk '/^#{2,3} *(Gesetzeswortlaut|Gesetzestext|Wortlaut|Art\. .*Wortlaut)/{flag=1;next}
-       /^#{2,3} /{if(flag)exit} /^> \*\*Annotation/{exit} flag' "$f"
-done
+grep -L '{{< wortlaut' art-*/_index.md     # Altbestand: noch kein Shortcode
+grep -l '{{< wortlaut' art-*/_index.md     # umgestellt
 ```
 
-## Schritt 3 — ARTIKELNUMMER → FEDLEX-PARAMETER
+Altbestand erkennt man auch am Blockquote unter `## Gesetzeswortlaut` / `## Gesetzestext` /
+`## Wortlaut`. Artikel ganz ohne Wortlaut-Abschnitt sind kein Befund, sondern ein Hinweis:
+Abschnitt anlegen (Schritt 6).
 
-Aus dem Verzeichnisnamen `art-{nr}` den `article`-Parameter bilden:
-- führendes `art-` entfernen, führende Nullen des Zahlteils streichen, Buchstabensuffix behalten.
-- `art-001` → `"1"`, `art-090` → `"90"`, `art-066a` → `"66a"`, `art-077b` → `"77b"`,
-  `art-305bis` → `"305bis"`.
+## Schritt 3 — DATEN AKTUALISIEREN
 
-## Schritt 4 — VERIFIZIEREN
+```bash
+python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-*        # ganzes Gesetz
+python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{nr}     # ein Artikel
+git diff --stat data/wortlaut/{gesetz}/
+```
 
-Für jeden Artikel `mcp__fedlex-connector__get_article` mit `{ rs_number: "{SRNR}", article: "{nr}" }`
-(Rückfall bei kantonalem Recht: `mcp_opencaselaw_get_law` mit `{ abbreviation: "{GESETZ}", article: "{nr}" }`)
-aufrufen (parallele Aufrufe in Batches von ~6–8 sind effizient). Den zurückgegebenen Text
-**Absatz für Absatz** mit dem zitierten Wortlaut vergleichen und klassifizieren:
+Das Skript holt die **geltende** Fassung (Fedlex: jüngste Konsolidierung mit Inkrafttreten
+bis heute; künftige Fassungen werden übergangen; `--stand YYYY-MM-DD` für einen anderen
+Stichtag). Eine Datei wird nur neu geschrieben, wenn sich mehr als das Abrufdatum geändert
+hat — der `git diff` zeigt also genau die Artikel, deren Text oder Konsolidierungsstand sich
+seit dem letzten Lauf geändert hat. Fehlermeldungen (`FEHLER …`) betreffen nur den
+jeweiligen Artikel; typische Ursachen: falsche SR-Nummer in der Gesetzesseite, Kanton ohne
+Eintrag in `LEXWORK` (scripts/wortlaut.py), Artikel auf Fedlex nicht vorhanden.
+
+## Schritt 4 — ÄNDERUNGEN KLASSIFIZIEREN
+
+Für jede geänderte Datei den Diff von `html` lesen:
 
 | Status | Bedeutung |
 |--------|-----------|
-| ✅ KORREKT | Wortlaut stimmt (geringfügige Formatunterschiede ignorieren) |
-| 🟡 UNVOLLSTÄNDIG | richtiger Artikel, aber Absätze/Ziffern fehlen |
-| 🟠 VERALTET | frühere, nicht mehr geltende Fassung (z.B. Begriffe „Zuchthaus/Gefängnis", alte Strafdrohung, Vor-Revisions-Text) |
-| 🔴 FALSCHE NORM | zitiert einen anderen Artikel/ein anderes Gesetz (z.B. Art. 90 SVG statt StGB; „Verwahrung" unter Art. 60) |
-| 🔴 HALLUZINIERT | Absätze/Sätze, die im Gesetz nicht existieren |
+| ✅ NUR STAND | `stand`/`quelle` neu, Normtext unverändert (neue Konsolidierung wegen anderer Artikel) |
+| 🟠 REVIDIERT | Normtext geändert — Gesetzesrevision. Kommentar prüfen (Schritt 5) |
+| 🔴 AUFGEHOBEN | Artikel auf Fedlex aufgehoben («Aufgehoben durch …») |
 
-**Hinweise**
-- Aufgehobene Absätze: Fedlex zeigt sie als „… Aufgehoben durch …". Zitiert ein
-  Kommentar Inhalt für einen aufgehobenen Absatz → 🔴.
-- Revisionen prüfen: Wenn der Kommentar vorgibt, die geltende Fassung zu behandeln, der
-  Text aber einer früheren entspricht → 🟠 (z.B. Sexualstrafrecht seit 1.7.2024).
+Beim **Altbestand** zusätzlich den bisherigen Blockquote mit den Daten vergleichen und wie
+bisher klassifizieren: ✅ KORREKT · 🟡 UNVOLLSTÄNDIG · 🟠 VERALTET · 🔴 FALSCHE NORM ·
+🔴 HALLUZINIERT. Aufgehobene Absätze zeigt Fedlex als «… Aufgehoben durch …».
 
 ## Schritt 5 — KOMMENTAR-BRAUCHBARKEIT (nur für 🟠/🔴)
 
@@ -200,10 +202,13 @@ Den Kommentar-Fliesstext lesen und beurteilen, ob er die **richtige** Norm behan
 
 ## Schritt 6 — SICHERE FIXES ANWENDEN (ohne Rückfrage)
 
-1. **Wortlaut ersetzen**: Den zitierten Block durch den verifizierten Fedlex-Text
-   ersetzen. Formatierung des Bundles beibehalten (Blockquote `>`, Absatznummerierung
-   `1`, `2`, … wie im Bestand). Fedlex-Quellenfussnoten (`Fassung gemäss …`) dürfen
-   gekürzt werden, der **normative Satz** muss wörtlich stimmen.
+1. **Altbestand umstellen**: Den Blockquote unter der Wortlaut-Überschrift durch die Zeile
+   `{{< wortlaut >}}` ersetzen, ebenso reine Quellen-/Standzeilen darunter («*Wortlaut
+   geprüft gegen Fedlex …*», «*Quelle: Fedlex …*») — Stand und Fassungsvermerke zeigt der
+   Shortcode selbst. Inhaltliche Sätze (z. B. zur Entstehungsgeschichte) bleiben stehen.
+   Fehlt der Abschnitt, `## Gesetzeswortlaut` mit dem Shortcode vor dem ersten anderen
+   `##`-Abschnitt anlegen. Zitiert der Abschnitt eine Bezugsnorm mit, dafür
+   `{{< wortlaut gesetz="{gesetz}" art="art-{nr}" >}}` (Daten vorher mit dem Skript holen).
 2. **Übersichts-Labels**: In `content/kommentar/{gesetz}/_index.md` Themen-Labels, die dem
    (korrekten) Artikelinhalt widersprechen, auf den zutreffenden Randtitel korrigieren.
 3. **`lastmod`** im Frontmatter geänderter Dateien auf das heutige Datum setzen
@@ -215,11 +220,14 @@ Den Kommentar-Fliesstext lesen und beurteilen, ob er die **richtige** Norm behan
      - date: {heute}
        by: "Claude Code"
        model: "{exakte Modell-ID, z. B. claude-opus-4-8}"
-       mcp_verified: true          # Wortlaut via Fedlex-MCP geprüft (Entscheide: opencaselaw/entscheidsuche)
-       note: "Lint: Wortlaut gegen Fedlex verifiziert / Labels korrigiert"
+       mcp_verified: {wie die bisher jüngste Revision}
+       note: "Lint: Wortlaut auf Fedlex-Stand {stand} nachgeführt / auf Shortcode umgestellt"
    ```
-   `mcp_verified: true` ist hier zulässig, weil der Lint jeden Ersatztext aus Fedlex
-   bezieht. Ältere Einträge unverändert erhalten.
+   Der Eintrag ist auch dann Pflicht, wenn sich nur `data/wortlaut/…json` geändert hat
+   (🟠 REVIDIERT): Der Leser sieht einen anderen Normtext, das gehört in die Historie des
+   Artikels. `mcp_verified` vom bisher jüngsten Eintrag übernehmen — der Lint prüft den
+   Gesetzestext, nicht die Entscheide; fehlt ein früherer Eintrag, `false`. Ältere
+   Einträge unverändert erhalten.
 
 ## Schritt 7 — BESTÄTIGUNGSPFLICHTIGES VORSCHLAGEN
 
@@ -238,14 +246,15 @@ Strukturierten Bericht ausgeben:
 ```
 LINT-BERICHT: {GESETZ}  (Fedlex-Stand: {Konsolidierungsdatum})
 ──────────────────────────────────────────────
-Geprüft:        {N} Artikel
-✅ Korrekt:      {Liste}
-🟡 Unvollständig: {Liste + was fehlt}
-🟠 Veraltet:     {Liste + alte vs. geltende Fassung}
-🔴 Falsch/halluz.: {Liste + Befund}
+Geprüft:        {N} Artikel ({U} umgestellt, {A} Altbestand)
+✅ Unverändert / nur Stand: {Anzahl}
+🟠 Revidiert:    {Liste + was sich geändert hat}
+🔴 Aufgehoben:   {Liste}
+Altbestand:     {Liste + Klassifikation alt vs. Fedlex}
 
 Sichere Fixes angewendet:
-  - Wortlaut korrigiert: {Artikel}
+  - Daten nachgeführt:   {Artikel}
+  - Auf Shortcode umgestellt: {Artikel}
   - Labels korrigiert:   {Artikel}
 
 Zur Bestätigung vorgeschlagen:
@@ -264,12 +273,13 @@ Commit/Push nur, wenn der Benutzer es verlangt (Projektkonvention: direkter Comm
 
 | Call | Einsatz |
 |------|---------|
-| `mcp__fedlex-connector__get_article` | **Primär.** Amtlicher Artikel-Wortlaut (`rs_number`+`article`); liefert das Konsolidierungsdatum |
+| `python3 scripts/wortlaut.py {bundles…}` | **Primär.** Erzeugt/aktualisiert `data/wortlaut/` aus Fedlex bzw. LexWork; nur Standardbibliothek |
+| `mcp__fedlex-connector__get_article` | Gegenkontrolle eines einzelnen Artikels; liefert das Konsolidierungsdatum |
 | `mcp__fedlex-connector__search_by_title` | SR-Nummer klären, wenn sie unbekannt ist |
 | `mcp_opencaselaw_get_law` | **Nur Rückfall** — kantonales Recht oder wenn Fedlex die Norm nicht führt |
 | `mcp_opencaselaw_search_laws` | Rückfall, um Abkürzung/SR-Nummer zu klären |
 
-**Effizienz**: Fedlex-Aufrufe parallel batchen. Bei Gesamt-Lint zuerst alle Wortlaute
-extrahieren, dann in Batches verifizieren, dann Fixes bündeln.
+**Effizienz**: Das Skript lädt pro Erlass ein einziges HTML-Dokument (Cache in
+`resources/wortlaut/`, gitignored) — ein Gesamt-Lint über alle Gesetze dauert wenige Minuten.
 
 **Schweizer Rechtschreibung** in allen Ausgaben (kein Eszett).

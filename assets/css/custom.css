@@ -402,3 +402,113 @@ input[type="search"] {
   }
   @keyframes gl-suche-pulst { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
 }
+
+/* =====================================================================
+   Gesetzeswortlaut — Satzbild von Fedlex (Shortcode `wortlaut`)
+   Bewusst anders als Zitate aus Entscheiden (blockquote, Fraunces kursiv):
+   Normtext steht aufrecht und serifenlos, Absatznummern hochgestellt,
+   Litterae mit hängendem Einzug, Fussnoten klein unter dem Artikel.
+   ===================================================================== */
+.wortlaut {
+  --wl-ink:   #1a1a1a;
+  --wl-muted: var(--gg-muted);
+  --wl-rule:  var(--gg-rule);
+  --wl-bg:    #ffffff;
+  margin: 1.4em 0 1.8em;
+  padding: 1.1em 1.4em 0.9em;
+  background: var(--wl-bg);
+  border: 1px solid var(--wl-rule);
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--wl-ink);
+}
+.dark .wortlaut {
+  --wl-ink:   #e8e3d8;
+  --wl-muted: #a39c8e;
+  --wl-rule:  #3a3732;
+  --wl-bg:    #201f1c;
+}
+.wortlaut a { border-bottom: 0 !important; }
+
+.wortlaut-gliederung {
+  margin-bottom: 0.7em;
+  font-size: 13px;
+  color: var(--wl-muted);
+}
+.wortlaut-gliederung span { display: block; }
+.wortlaut-gliederung span + span { padding-left: 0.9em; }
+/* Unterste Stufe: bei Randtiteln (StGB, OR) die eigentliche Sachüberschrift */
+.wortlaut-gliederung span:last-child { color: var(--wl-ink); font-weight: 600; }
+
+.wortlaut-kopf {
+  margin-bottom: 0.5em;
+  font-size: 16px;
+}
+.wortlaut-kopf a { color: var(--wl-ink) !important; }
+.wortlaut-kopf a:hover { text-decoration: underline; }
+.wortlaut-kopf b { font-weight: 700; margin-right: 0.15em; }
+
+.content .wortlaut p,
+.wortlaut p {
+  font-family: inherit;
+  color: var(--wl-ink);
+  margin: 0.45em 0 0;
+  line-height: 1.5;
+  font-size: 15px;
+}
+.wortlaut-text > p:first-child { margin-top: 0; }
+.wortlaut sup {
+  font-size: 0.68em;
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+}
+.wortlaut sup a {
+  color: var(--primary-color, var(--gg-accent)) !important;
+  padding: 0 0.1em;
+}
+
+/* Litterae und Ziffern: <dl><dt>a.</dt><dd>…</dd></dl> wie bei Fedlex */
+.wortlaut dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.6em;
+  row-gap: 0.25em;
+  margin: 0.3em 0 0 0.9em;
+}
+.wortlaut dt { font-weight: 400; min-width: 1.4em; }
+.wortlaut dd { margin: 0; }
+.wortlaut dd > dl { grid-column: 1 / -1; margin-left: 0; }
+
+.wortlaut table { font-size: 14px; margin: 0.6em 0; }
+
+.wortlaut-fussnoten {
+  margin-top: 0.9em;
+  padding-top: 0.5em;
+  border-top: 1px solid var(--wl-rule);
+  font-size: 12.5px;
+  line-height: 1.45;
+}
+.content .wortlaut .wortlaut-fussnoten p,
+.wortlaut-fussnoten p { margin: 0.2em 0 0; color: var(--wl-muted); font-size: 12.5px; line-height: 1.45; }
+.wortlaut-fussnoten sup { font-size: 0.85em; top: 0; line-height: inherit; }
+.wortlaut-fussnoten sup a::after { content: " "; }
+.wortlaut-fussnoten a { color: var(--wl-muted) !important; }
+.wortlaut-fussnoten a:hover { color: var(--wl-ink) !important; }
+.wortlaut :target { background: var(--gg-paper-2); }
+.dark .wortlaut :target { background: #2c2a26; }
+
+.wortlaut figcaption {
+  margin-top: 0.8em;
+  font-size: 12px;
+  color: var(--wl-muted);
+  text-align: right;
+}
+.wortlaut figcaption a { color: var(--wl-muted) !important; text-decoration: underline; }
+
+@media (max-width: 640px) {
+  .wortlaut { padding: 0.9em 1em 0.8em; }
+  .wortlaut dl { margin-left: 0.4em; }
+}

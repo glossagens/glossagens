@@ -78,7 +78,7 @@ Der Sinn der Regel: Wer den Kommentar zur Hand nimmt, prüft einen eigenen Fall.
 
 Vor dem Schreiben wird die Norm zerlegt:
 
-1. **Wortlaut verbatim aus Fedlex** holen, Absatz für Absatz (nie aus dem Gedächtnis).
+1. **Wortlaut verbatim aus Fedlex** holen, Absatz für Absatz (nie aus dem Gedächtnis). Im Artikel steht er nur als `{{< wortlaut >}}` (Daten: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}`).
 2. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
 3. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
 4. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
@@ -312,7 +312,7 @@ content/kommentar/{gesetz}/art-{nr}/
    - `tags`: Umfasst spezifische Sachverhalts- und Kasuistik-Schlagworte.
    - `revisions`: Vollständiger Nachweis der ausgewerteten Volltexte und Verifikationen.
 2. **Gesetzeswortlaut**:
-   - Verbatim nach Fedlex, gegliedert nach Absätzen, mit historischem Gesetzesstand.
+   - Nur `{{< wortlaut >}}` — der Shortcode setzt den Text aus der amtlichen Quelle im Satzbild von Fedlex, mit Stand und Fassungsvermerken. Kein Blockquote, keine eigene Quellenzeile.
    - Bei komplexen Normen: Eine vorangestellte Übersichtstabelle («Die Tatbestände auf einen Blick»).
 3. **Überblick und Bedeutung**:
    - 1–2 Absätze zu systematischer Stellung, Regelungsgegenstand und Zweck der Norm sowie zu den Interessen, die sie ausgleicht. Keine Hinführung über die praktische Brisanz, keine Metaphern (Abschnitt 4.1).

@@ -126,7 +126,7 @@ bei 403 oder 429 bricht der Lauf ab, statt zu wiederholen.
 | Ungültigen Pinpoint entfernen (Zitat bleibt) | ✅ ja |
 | Wörtliches Zitat durch Verbatim aus `get_erwaegung` ersetzen | ✅ ja |
 | Referenz korrigieren, wenn `close_matches` **eindeutig** ist | ✅ ja |
-| Gesetzeswortlaut aus Fedlex (`get_article`) ersetzen | ✅ ja |
+| Altbestand-Wortlaut (Blockquote) auf `{{< wortlaut >}}` umstellen (`scripts/wortlaut.py`) | ✅ ja |
 | `lastmod` + `revisions`-Eintrag setzen | ✅ ja (Pflicht) |
 | Beleg entfernen bei `supports: no/contradicts/unrelated` | ⛔ Bestätigung |
 | Satz umschreiben oder streichen | ⛔ Bestätigung |
@@ -146,8 +146,8 @@ verschwindet die richtige Aussage mit dem falschen Beleg. Er wird markiert und v
    Ein Ersatz kommt aus `get_decision_structure` — dort stehen die tatsächlich
    vorhandenen Erwägungsnummern —, nie aus einer Schätzung und nicht aus
    `find_relevant_erwaegung` (Suchtool, siehe Kostenregel).
-3. Gesetzeswortlaut nie aus dem Gedächtnis — nur aus `mcp__fedlex-connector__get_article`
-   (Rückfall `get_law`, siehe unten), stets mit Konsolidierungsdatum.
+3. Gesetzeswortlaut nie aus dem Gedächtnis und nie von Hand in den Bundle — nur per
+   `{{< wortlaut >}}` mit Daten aus `scripts/wortlaut.py` (Fedlex bzw. kantonale LexWork-Sammlung).
 4. `supports: unrelated` bei hoher Konfidenz ist ein **Befund**, keine Messungenauigkeit.
 5. Literaturzitate sind mit den Fall-Tools **nicht** verifizierbar → Status
    `nicht_verifizierbar`, niemals `korrekt`.
@@ -196,14 +196,21 @@ Auswertung — bei Änderungen am Antwort-Parsing hochzählen), und Fehlantworte
 | Stufe | Tool | Prüft |
 |---|---|---|
 | 0 Inventar | — | Bundle parsen: Wortlaut, Paare, Verbatim-Zitate ≥30 Zeichen |
-| 1 Wortlaut | `mcp__fedlex-connector__get_article` (Rückfall: `get_law`) | zitierter Gesetzestext absatzweise gegen Fedlex |
+| 1 Wortlaut | `data/wortlaut/` (Shortcode) · sonst `get_law` | Shortcode: Daten vorhanden → `aus_quelle`; Altbestand: Blockquote gegen die geltende Fassung |
 | 2 Existenz | `cite` | existiert die Referenz? sonst `close_matches` |
 | 3 Pinpoint | `get_erwaegung` | existiert E. X.Y? |
 | 4 Verbatim | `get_regeste`, `get_decision_structure` | wörtliche Zitate exakt im Quelltext |
 | 5 Grounding | Judge-Subagent über den Ledger | trägt der Entscheid den Behauptungssatz? |
 | 6 Aktualität | `get_article_history` | Belege vor der letzten Revision; einschlägige Entscheide, die fehlen |
 
-**Stufe 1 holt den Normtext aus der Fedlex-MCP, nicht aus opencaselaw.** Fedlex ist die amtliche
+**Stufe 1 bei Bundles mit `{{< wortlaut >}}`** (Regelfall seit Oktober 2026): Der Normtext
+stammt unverändert aus der amtlichen Quelle, ein Textvergleich entfällt. `audit.py` liest die
+Daten-Datei(en) und meldet `aus_quelle` mit Stand und Quelle bzw. `daten_fehlen`. Ob die Daten
+noch der geltenden Fassung entsprechen, ist Sache von `/lint` (erneuter Lauf von
+`scripts/wortlaut.py`, `git diff data/wortlaut/`). Gesetzeszitate im Fliesstext gleicht Stufe 4
+weiterhin gegen den Normtext ab und nimmt sie vom Verbatim-Check aus.
+
+**Altbestand (Blockquote): Stufe 1 holt den Normtext aus der Fedlex-MCP, nicht aus opencaselaw.** Fedlex ist die amtliche
 Quelle und unabhängig von der opencaselaw-Verfügbarkeit — das ist keine Stilfrage: Seit der
 IP-Sperre vom 23.08.2026 (HTTP 403 auf alles) meldet Stufe 1 bei jedem Lauf über `get_law`
 `nicht_verifizierbar`, der Wortlaut-Check fällt also stillschweigend aus. `get_law` bleibt
@@ -268,7 +275,7 @@ wiegt schwerer als der Aufwand einer zweiten Meinung. `yes` bleibt einstimmig.
 
 | Befund | Quelle | Aktion |
 |--------|--------|--------|
-| Wortlaut abweichend | Stufe 1 | ersetzen (sicher) |
+| Wortlaut abweichend (Altbestand) | Stufe 1 | auf `{{< wortlaut >}}` umstellen (sicher) |
 | Referenz existiert nicht, `close_matches` eindeutig | Stufe 2 | korrigieren (sicher) |
 | Referenz existiert nicht, kein Match | Stufe 2 | markieren, vorlegen |
 | Pinpoint fehlt | Stufe 3 | entfernen (sicher) |

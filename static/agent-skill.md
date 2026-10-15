@@ -89,6 +89,13 @@ mcp__fedlex-connector__list_amendments: { "rs_number": "<SR>" }
 ```
 *(OpenCaseLaw `get_law` is strictly a fallback for cantonal law or when Fedlex is temporarily unreachable).*
 
+**In the article, the statute text is never written by hand.** The section `## Gesetzeswortlaut`
+contains only the line `{{< wortlaut >}}`. In a checkout of the repository, generate the data
+file with `python3 scripts/wortlaut.py content/kommentar/<gesetz>/art-<NNN>` (standard library
+only; writes `data/wortlaut/<gesetz>/art-<NNN>.json` from the official Fedlex consolidation) and
+include it in the same PR. Without the data file the PR's Hugo build check fails. Without a
+checkout (Issue channel), leave the section to the maintainers: the agent inserts it.
+
 Common Swiss Federal Statutes and SR numbers:
 
 | Abbr  | SR      | Full German Name            |
@@ -209,8 +216,7 @@ Create an issue using the structured template:
 **Artikel**: Art. 25
 **Typ**: neuer_artikel (praxisorientiert)
 
-**Gesetzeswortlaut** (aus Fedlex get_article):
-> [Verbatim statute text]
+**Gesetzeswortlaut**: wird von Glossagens aus Fedlex eingesetzt (`{{< wortlaut >}}`) — nicht mitschicken.
 
 **Prüfschema & Tatbestandsmerkmale**:
 1. Sachliche Zuständigkeit (Abs. 1)
@@ -266,9 +272,7 @@ revisions:
 
 ## Gesetzeswortlaut
 
-> 1 {Absatz 1 verbatim aus Fedlex get_article}
->
-> 2 {Absatz 2 verbatim aus Fedlex get_article}
+{{< wortlaut >}}
 
 ## I. Überblick und Bedeutung
 
@@ -363,7 +367,7 @@ Abstract mit Sachverhalt und Kernaussage.
 ## Anti-Halluzinations- und Formatierungsregeln (Verbindlich)
 
 1. **Keine erfundenen Zitate**: Alle Fundstellen müssen über `cite` verifiziert sein.
-2. **Gesetzeswortlaut aus Fedlex**: Immer authentischen Fedlex-Text via `get_article` einbinden.
+2. **Gesetzeswortlaut per Shortcode**: Nur `{{< wortlaut >}}` plus Daten-Datei aus `scripts/wortlaut.py` — nie Text von Hand.
 3. **Reine Markdown-Tabellen**: Niemals Tabellen in ` ```markdown ` Codeblöcke packen.
 4. **Verlinkung auf entscheidsuche.ch**: Links verbatim aus `document_url` der MCP-Antwort übernehmen. `#consideration_{E-Nr}` nur bei HTML-Dokumenten und vorhandener Erwägung.
 5. **Keine Scheindubletten (BGE = BGer)**: BGE-Nummer und Geschäftsnummer desselben Entscheids nicht doppelt zitieren.

@@ -1,0 +1,40 @@
+{{- /*
+  Gesetzeswortlaut im Satzbild von Fedlex.
+
+    {{< wortlaut >}}                          ← Artikel des aktuellen Bundles
+    {{< wortlaut gesetz="stpo" art="art-111" >}}  ← anderer Artikel
+
+  Daten: data/wortlaut/{gesetz}/{art}.json, erzeugt von scripts/wortlaut.py
+  aus der amtlichen Quelle (Bundesrecht: Fedlex; kantonales Recht: LexWork,
+  dann mit `sammlung` und `link` statt `sr` und `eli`). Der
+  Normtext wird hier nur gesetzt, nie verändert. Fehlt die Datei, bricht der
+  Build ab — ein stillschweigend leerer Wortlaut-Abschnitt fiele sonst niemandem auf.
+*/ -}}
+{{- $teile := split (strings.Trim .Page.File.Dir "/") "/" -}}
+{{- $gesetz := .Get "gesetz" | default (index $teile (sub (len $teile) 2)) -}}
+{{- $art := .Get "art" | default (index $teile (sub (len $teile) 1)) -}}
+{{- $w := index hugo.Data "wortlaut" $gesetz $art -}}
+{{- if not $w -}}
+  {{- errorf "wortlaut: data/wortlaut/%s/%s.json fehlt (%s) — scripts/wortlaut.py ausführen" $gesetz $art .Position -}}
+{{- end -}}
+{{- $stand := time.AsTime $w.stand -}}
+{{- $link := $w.link | default (printf "%s/de#%s" $w.eli $w.anker) -}}
+{{- $sammlung := $w.sammlung | default (printf "SR %s" $w.sr) -}}
+{{- $quelle := cond (isset $w "sammlung") "Gesetzessammlung" "Fedlex" -}}
+<figure class="wortlaut not-prose" lang="de">
+  {{- with $w.gliederung }}
+  <div class="wortlaut-gliederung">
+    {{- range . }}<span>{{ . }}</span>{{ end -}}
+  </div>
+  {{- end }}
+  <div class="wortlaut-kopf">
+    <a href="{{ $link }}" target="_blank" rel="noopener"><b>{{ $w.nummer | safeHTML }}</b> {{ $w.titel }}</a>{{ $w.titel_fussnoten | safeHTML }}
+  </div>
+  <div class="wortlaut-text">
+    {{ $w.html | safeHTML }}
+  </div>
+  <figcaption>
+    {{ $sammlung }} · Stand am {{ $stand | time.Format ":date_long" }} ·
+    <a href="{{ $link }}" target="_blank" rel="noopener">{{ $quelle }}</a>
+  </figcaption>
+</figure>
