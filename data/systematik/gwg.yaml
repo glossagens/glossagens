@@ -1,0 +1,24 @@
+# Systematik-Gliederung für das GwG (SR 955.0)
+# Grundlage der automatisch generierten Artikelübersicht.
+gruppen:
+  - name: "1. Kapitel: Allgemeine Bestimmungen"
+    von: 1
+    bis: 2
+  - name: "2. Kapitel: Pflichten (Sorgfaltspflichten und Meldepflichten)"
+    von: 3
+    bis: 11
+  - name: "3. Kapitel: Aufsicht"
+    von: 12
+    bis: 28
+  - name: "4. Kapitel: Amtshilfe"
+    von: 29
+    bis: 32
+  - name: "5. Kapitel: Bearbeitung von Personendaten"
+    von: 33
+    bis: 35
+  - name: "6. Kapitel: Strafbestimmungen und Rechtspflege"
+    von: 36
+    bis: 40
+  - name: "7. Kapitel: Schlussbestimmungen"
+    von: 41
+    bis: 44
