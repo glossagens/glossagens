@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 158 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: "2026-09-26"
-description: "Übersicht der Rechtsprechung zu Art. 158 StGB — Ungetreue Geschäftsbesorgung: Churning, Retrozessionen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Vermögensschaden, Geschäftsführerstellung, Missbrauch der Vertretungsmacht, Liquidatorpflichtverletzung, Bereicherungsabsicht."
-tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht"]
+lastmod: "2026-10-16"
+description: "Übersicht der Rechtsprechung zu Art. 158 StGB — Ungetreue Geschäftsbesorgung: Churning, Retrozessionen, unterlassene Verlustmeldung, missachtete Anlagebeschränkungen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Vermögensschaden, Geschäftsführerstellung, Missbrauch der Vertretungsmacht, Liquidatorpflichtverletzung, Bereicherungsabsicht."
+tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Informationspflicht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung von BGer 6B_355/2026 vom 28.09.2026 (ungetreue Geschäftsbesorgung bei Vermögensverwaltung): unterlassene Verlustmeldung und missachtete vertragliche Anlagebeschränkungen (Risikolimite, Kapitalschutz) als Pflichtwidrigkeit; Schaden durch Pflichtwidrigkeit verursacht/verschärft (nicht blosse Marktentwicklung); Eventualvorsatz; Volltext via bger.ch verifiziert, Pinpoints E. 2.3.3/2.4.3/2.5.3 aus Originaltext bestätigt; entscheidsuche führt BGer-Entscheid noch nicht (nur Vorinstanz GR_KG), daher Link auf bger.ch."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -126,6 +131,13 @@ revisions:
 - **Sachverhalt**: Der Beschwerdeführer war als Rechtsanwalt und Liquidator der D.________ AG tätig. Er wurde der qualifizierten ungetreuen Geschäftsbesorgung sowie der Gläubigerschädigung durch Vermögensminderung (Art. 164 Ziff. 1 StGB) beschuldigt, weil er als Liquidator pflichtwidrig nichts unternommen hatte, um eine ungerechtfertigte Zahlung zurückzufordern, und zudem eine Zusatzvereinbarung verfasst hatte, um den Vermögensabfluss zu legitimieren. Schuldspruch: qualifizierte ungetreue Geschäftsbesorgung (Art. 158 Ziff. 1 Abs. 1 und 3 StGB), teilweise in Gehilfenschaft, sowie Gläubigerschädigung durch Vermögensminderung.
 - **Kernaussage**: Ein Liquidator ist Geschäftsführer im Sinne von Art. 158 StGB. Die Anklageschrift muss die konkret vorgeworfenen Pflichtverletzungen hinreichend umschreiben; dass die nähere rechtliche Würdigung der Pflichtverletzung Teil der rechtlichen Beurteilung ist, entbindet nicht von der Pflicht zur konkreten Umschreibung des angeblichen Tuns oder Unterlassens. Das Unterlassen der Rückforderung einer ungerechtfertigten Zahlung kann den Tatbestand erfüllen, ebenso wie die aktive Unterstützung bei der Gläubigerschädigung.
 - **Einschlägig für**: Art. 158 Ziff. 1 Abs. 1 und 3 StGB (Liquidator, Anklagegrundsatz, Unterlassen, aktives Tun).
+
+---
+
+### [BGer 6B_355/2026 vom 28. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.09.2026_6B_355/2026) — Unterlassene Verlustmeldung und missachtete Anlagebeschränkungen als ungetreue Geschäftsbesorgung
+- **Sachverhalt**: Der alleinige Verwaltungsrat der G.________ SA verwaltete über die Finanzplattform H.________ die Vermögen von fünf Anlagekunden (B.________ bis F.________). Die Verluste betrugen 89–96 % des eingesetzten Kapitals (92 %, 95 %, 96 %, 89 %, 89 %). Gegenüber B.________ und C.________ waren Risikoprofil und Anlagestrategie nie besprochen oder definiert worden (Vertragsverletzung Art. 2); der im Vertrag angegebene hohe Risikograd entsprach nicht der tatsächlichen Situation. Gegenüber D.________ wurde die vertragliche Verlustlimite von 15 % pro Jahr sowie die Beschränkung auf 20 % alternative Investitionen missachtet (Optionen und Futures machten rund 85 % des Portefeuilles aus). Gegenüber F.________ und E.________ wurde der vertraglich zugesicherte 100 %-Kapitalschutz durch Hedging-Strategien nicht umgesetzt (Verlust von rund EUR 89'863.– bei EUR 100'000.– investiertem Kapital). Keiner der Kunden wurde über die erheblichen Verluste informiert (Verletzung von Art. 10 des Vertrags und des PolyReg-Verhaltenskodexes, insb. Art. 23 Abs. 2 und 24). Vorinstanz: Appellationsgericht Graubünden, I. Strafkammer, 18.12.2025 (Bestätigung der Verurteilung, Reduktion der Geldstrafe von 180 auf 145 Tagessätze).
+- **Kernaussage**: Die Pflicht des Organs einer Vermögensverwaltungsgesellschaft, seine Kunden zu informieren, ist eine qualifizierte Handlungspflicht, deren Verletzung den Tatbestand der ungetreuen Geschäftsbesorgung erfüllen kann (Bestätigung und Erweiterung von BGE 144 IV 294 E. 3.3: nicht nur verschwiegene Bereicherung, sondern auch unterlassene Verlustmeldung und missachtete vertragliche Anlagebeschränkungen). Die unterlassene Verlustmeldung nahm den Kunden die Möglichkeit, durch Desinvestition weitergehende Verluste zu begrenzen. Der Vermögensschaden liegt nicht in der blosse negativen Marktentwicklung, sondern in den durch die Pflichtwidrigkeiten verursachten oder zumindest verschärften Verlusten. Der Einwand, die Kunden hätten selbst auf die Plattform zugreifen können, entlastet den Verwalter nicht: bei technischer Komplexität der Plattform konnte von Kunden ohne Fachkenntnisse nicht erwartet werden, die Entwicklung ihrer Anlagen selbständig zu verfolgen. Eventualvorsatz ist zu bejahen, wenn der Verwalter eine hochriskante Strategie trotz massiver Verluste und ohne Information der Kunden fortsetzt; die blosse Berufung auf eine erhoffte Markterholung entkräftet den Eventualvorsatz nicht (i.S.v. BGE 147 IV 439 E. 7.3.1).
+- **Einschlägig für**: Art. 158 Ziff. 1 Abs. 1 StGB (Informationspflicht, unterlassene Verlustmeldung, vertragliche Anlagebeschränkungen, Vermögensschaden, Eventualvorsatz).
 
 ---
 
