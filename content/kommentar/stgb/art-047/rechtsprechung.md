@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 47 StGB — Strafzumessung"
 weight: 99
 date: 2026-08-11
-lastmod: 2026-09-30
+lastmod: 2026-10-16
 description: "Umfassende Übersicht der bundesgerichtlichen Leitentscheide und kantonalen Urteile zu Art. 47 StGB: Drei-Stufen-Modell, Einsatzstrafenbildung, Doppelverwertungsverbot, Verbindungsbusse, Geständnisrabatt, Strafempfindlichkeit, überlange Verfahrensdauer und richterliche Begründungspflicht."
 tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Doppelverwertungsverbot", "Verbindungsbusse", "Geständnisrabatt", "Strafempfindlichkeit", "Beschleunigungsgebot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_710/2025 vom 5.10.2026 (globale Verschuldensbewertung bei Konkurrenz verletzt Art. 50 StGB; Begründungspflicht beim Teillaufschub; Strafenwahl bei Vorstrafenlosigkeit und Tatenverleugnung). Volltext via bger.ch verifiziert (Entscheid vom 5.10.2026, entscheidsuche/OCL noch nicht indexed)."
   - date: 2026-09-30
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -150,6 +155,18 @@ revisions:
 - **Kernaussage (E. 3.5.2–3.5.3)**: Der als Berufschauffeur tätige Beschwerdeführer leitete aus dem drohenden administrativen Führerausweisentzug keine erhöhte Strafempfindlichkeit ab: Der Entzug ist eine zwingende, von der Strafhöhe unabhängige Massnahme (Art. 16 Abs. 2, Art. 16c SVG); belastende Straffolgen sind bei der Strafzumessung generell nicht strafmindernd zu berücksichtigen. Allenfalls liegt eine erhöhte Massnahmenempfindlichkeit vor, die im Administrativverfahren zu berücksichtigen ist.
 - **Kernaussage (E. 2.3.1–2.3.2)**: Bestätigung des Schuldspruchs: Weder Selbstgefährdung noch Irrtum über das Fehlen von Schranken begründen ein Gegenindiz gegen grobe Fahrlässigkeit bei objektiv schwerer Verkehrsregelverletzung.
 - **Einschlägig für**: Art. 42 Abs. 4 StGB (Verbindungsbusse), Art. 47 Abs. 1 StGB (Strafempfindlichkeit), Art. 47 Abs. 2 StGB (Einklang Verschulden/Strafmass).
+
+---
+
+### [BGer 6B_710/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=05.10.2026_6B_710/2025) vom 5. Oktober 2026 — Globale Verschuldensbewertung bei Konkurrenz verletzt Art. 50 StGB; Begründungspflicht beim Teillaufschub
+
+- **Gericht**: Bundesgericht, I. strafrechtliche Abteilung
+- **Gegenstand**: Art. 41 Abs. 2, Art. 42, Art. 43, Art. 47 Abs. 1–2, Art. 49, Art. 50 StGB; qualifizierte einfache Körperverletzung, Nötigung, Beschimpfung (häusliche Gewalt); Strafzumessung und Vollzugsaufschub.
+- **Sachverhalt**: Ein Ehemann hatte seine Ehefrau auf einer Promenade dreimal am Hals gepackt und jeweils ca. drei Sekunden lang gewürgt (Atmungsbeeinträchtigung, Schmerzen, Ohrfeigen, Beschimpfungen als «sale pute»); CURML: Gewebeeinblutung, lineare Blutung, Kruste am Hals; 4 Tage Arbeitsunfähigkeit. Zudem hatte er sie in der Ehewohnung über drei Monate täglich psychisch unter Druck gesetzt und kontrolliert. Die Berufungsinstanz verurteilte ihn zu 15 Monaten Freiheitsstrafe (teilbedingt, 9 Monate Aufschub), setzte die Einsatzstrafe pauschal auf 10 Monate an und erhöhte um 5 Monate für die Nötigung.
+- **Kernaussage (E. 5.7)**: Die pauschale Verschuldensbewertung ohne einzeltatbezogene Darlegung der Kriterien nach Art. 47 Abs. 2 StGB verletzt die Begründungspflicht nach Art. 50 StGB. Der blosse Verweis auf «graves actes de violence» lässt weder die konkrete Schwere der Verletzungen noch die Verwerflichkeit der Tatausführung erkennen; auch die Erhöhung um 5 Monate für die Nötigung wird nicht mit den tat- und täterbezogenen Faktoren begründet, die den Asperationszuschlag rechtfertigen. Die Begründungspflicht ist nicht durch eine globale Verschuldensbewertung erfüllt, sondern verlangt eine einzelfallbezogene Darlegung für jede Einzeltat und eine nachvollziehbare Begründung der Asperation nach Art. 49 StGB.
+- **Kernaussage (E. 5.8)**: Beim Vollzugsaufschub hat die Vorinstanz keine Gesamtbeurteilung der Ameliorationsprognose vorgenommen und sich nicht zu einer allenfalls ungünstigen Prognose geäussert. Bei einer Freiheitsstrafe zwischen einem und zwei Jahren ist der Vollliberalstrafaufschub (Art. 42 StGB) die Regel und der Teillaufschub (Art. 43 StGB) die Ausnahme; die fehlende Prognosebegründung ist umso weniger akzeptabel.
+- **Kernaussage (E. 5.6)**: Die Strafenwahl (Freiheitsstrafe statt Geldstrafe) wurde mit spezialpräventiven Gründen (Tatenverleugnung, Verantwortungsabwälzung auf die Ehefrau) zulässig begründet; das Festhalten an der Tatenverleugnung darf als spezialpräventives Kriterium herangezogen werden, ohne dass dies eine Sanktionierung des Schweigerechts darstellt. Die fehlenden Vorstrafen stehen einer Freiheitsstrafe nicht entgegen.
+- **Einschlägig für**: Art. 47 Abs. 2 StGB (einzeltatbezogene Verschuldensbewertung), Art. 49 StGB (Asperationsbegründung), Art. 50 StGB (Begründungspflicht bei Konkurrenz), Art. 42/43 StGB (Ameliorationsprognose beim Teillaufschub), Art. 41 Abs. 2 StGB (Strafenwahl bei Vorstrafenlosigkeit und Tatenverleugnung).
 
 ---
 
@@ -304,8 +321,8 @@ revisions:
 | **Strafempfindlichkeit & Nebenfolgen** | [BGE 151 IV 249](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html) | [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html), [BGer 6B_636/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-636-2025_2026-07-06.html), [BGer 6B_631/2010](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-631-2010_2011-01-24.html), [BGer 7B_497/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-497-2025_2026-09-09.html), [AG OG SST.2025.180](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-180_2026-06-25.pdf) |
 | **Verletzung des Beschleunigungsgebots** | [BGE 143 IV 373](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html) | [BGer 6B_128/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-128-2020_2020-06-16.html), [BGer 6B_689/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-689-2025_2026-04-30.html) |
 | **Relative Strafgerechtigkeit (Mittäterschaft)** | [BGE 135 IV 191](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-191_2009.html) | [LU OG 21 08 159.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_001_21-08-159-1_2009-05-05.html) |
-| **Begründungspflicht (Art. 50 StGB) & Ermessen** | [BGE 127 IV 101](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-127-IV-101_2001-04-03.html), [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) | [BGer 6B_788/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-788-2013_2013-11-15.html), [LU KG 7W 20 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7W-20-57_2021-07-27.html) |
+| **Begründungspflicht (Art. 50 StGB) & Ermessen** | [BGE 127 IV 101](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-127-IV-101_2001-04-03.html), [BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) | [BGer 6B_788/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-788-2013_2013-11-15.html), [LU KG 7W 20 57](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_004_7W-20-57_2021-07-27.html), [BGer 6B_710/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=05.10.2026_6B_710/2025) |
 
 ---
 
-*Zuletzt aktualisiert: 30. September 2026 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-047/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+47+StGB+Rechtsprechung)*
+*Zuletzt aktualisiert: 16. Oktober 2026 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/stgb/art-047/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Art.+47+StGB+Rechtsprechung)*
