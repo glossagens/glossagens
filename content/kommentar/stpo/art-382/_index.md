@@ -2,11 +2,16 @@
 title: "Art. 382 StPO — Legitimation zu Rechtsmitteln"
 weight: 382
 date: "2026-07-04"
-lastmod: 2026-10-15
+lastmod: 2026-10-16
 description: "Kommentar zu Art. 382 StPO: Rechtsmittellegitimation der Parteien — rechtlich geschütztes Interesse, Privatklägerschaft, Sanktionsanfechtungsverbot, Rechtsnachfolge beim Tod."
-tags: ["Rechtsmittel", "Legitimation", "Privatklägerschaft", "Geschädigter", "rechtlich geschütztes Interesse", "Berufung", "Beschwerde", "Rechtsnachfolge"]
+tags: ["Rechtsmittel", "Legitimation", "Privatklägerschaft", "Geschädigter", "rechtlich geschütztes Interesse", "Berufung", "Beschwerde", "Rechtsnachfolge", "gesetzliche Vertretung", "minderjähriger Geschädigter"]
 agent_verified: false
 revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGer 7B_22/2026 vom 9. September 2026 eingearbeitet in Abschnitt III.3 (Dritte und Familienangehörige): gesetzliche Vertretung minderjähriger Geschädigter — Vertreterlegitimation nach Art. 106 Abs. 2 StPO muss im Beschwerdeverfahren ausdrücklich dargetan werden; Verneinung der Legitimation kein überspitzter Formalismus. Zitate und Fundstelle via entscheidsuche (search_by_case_number, fetch_document) und opencaselaw (get_erwaegung E. 2.2.3 und E. 2.3.2) verifiziert. rechtsprechung.md ergänzt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -50,6 +55,21 @@ Die Rechtsmittellegitimation der amtlichen Verteidigung hinsichtlich der **Fests
 
 Familienmitglieder einer beschuldigten Person, gegen die eine **Landesverweisung** ausgesprochen wurde, sind davon höchstens **indirekt** betroffen: Sie sind weder andere Verfahrensbeteiligte i.S.v. Art. 105 Abs. 2 StPO noch nach Art. 382 Abs. 1 StPO legitimiert; ihr Anspruch auf Achtung des Familienlebens (Art. 13 BV, Art. 8 EMRK) wird im Rahmen des Entscheids über die Landesverweisung selbst berücksichtigt ([BGE 145 IV 161](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_IV_161), E. 3).
 
+#### Gesetzliche Vertretung minderjähriger Geschädigter
+
+Ein minderjähriger Geschädigter, der weder handlungsfähig (Art. 12, 13, 14 ZGB; Art. 30 Abs. 2 StGB; Art. 106 Abs. 1 und 2 StPO) noch urteilsfähig ist (Art. 30 Abs. 3 StGB; Art. 106 Abs. 3 StPO), muss im Rechtsmittelverfahren durch seinen **gesetzlichen Vertreter** handeln (Art. 106 Abs. 2 StPO), dem auch das Recht zur Strafanzeige zusteht (Art. 30 Abs. 2 StGB). Die Vertreterstellung verleiht aber nur dann die Beschwerdelegitimation nach Art. 382 Abs. 1 StPO, wenn der gesetzliche Vertreter **im Beschwerdeverfahren ausdrücklich im Namen des minderjährigen Geschädigten** auftritt. Eine solche Vertretereigenschaft lässt sich nicht implizit aus dem Inhalt einer Strafanzeige ableiten, die zugleich eigene Geschädigteninteressen der Anzeigenden geltend macht.
+
+> «La recourante ne prétend cependant pas avoir indiqué, d'une quelconque manière au cours de la procédure, qu'elle entendait également agir au nom de son fils mineur, que ce soit dans la plainte pénale du 22 juin 2021 ou dans un acte subséquent figurant au dossier d'instruction […]. Faute pour la recourante d'être lésée personnellement et directement par les faits prétendument commis contre son fils par l'intimé, elle ne disposait pas de la qualité pour recourir sur ces questions (cf. art. 382 al. 1 CPP), ce qui suffit pour confirmer l'appréciation de la Chambre pénale de recours et rejeter le grief.»
+> — [BGer 7B_22/2026 vom 9. September 2026, E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)
+
+In diesem Fall hatte die Mutter Strafanzeige gegen ihren Ehemann wegen häuslicher Gewalt gegen sie selbst und zugleich wegen Handlungen gegen den gemeinsamen minderjährigen Sohn (Art. 123 und 219 StGB) erstattet. Im kantonalen Beschwerdeverfahren gegen die Einstellungsverfügung hatte sie sich jedoch ausschliesslich auf ihre «Qualität als Privatklägerin» berufen — ein Status, den ihr die Taten gegen den Sohn gerade nicht verschafft hatten, da nicht sie, sondern das Kind Träger des geschützten Rechtsguts ist ([BGE 148 IV 170, E. 3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_IV_170); [BGer 7B_22/2026, E. 2.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)). Erst vor Bundesgericht erklärte sie ausdrücklich, «als Vertreterin des minderjährigen B.A.________» zu handeln. Das Bundesgericht liess dies für die Frage der bundesgerichtlichen Zulässigkeit genügen (Art. 81 Abs. 1 lit. a und b BGG), bestätigte aber die Vorinstanz, die der Mutter im kantonalen Verfahren die Legitimation für die gegen den Sohn gerichteten Vorwürfe abgesprochen hatte.
+
+Das Bundesgericht liess ausdrücklich offen, ob bei einer **nicht anwaltlich vertretenen** Anzeigenden anderes gelten könnte — im vorliegenden Fall war die Beschwerdeführerin von Beginn an von berufsmässigen Vertretern begleitet, die die Regeln zur Vertretung kennen mussten ([BGer 7B_22/2026, E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)). Die dogmatische Klarstellung lautet somit: Wer als gesetzlicher Vertreter eines minderjährigen Geschädigten Beschwerde ergreifen will, muss dies im Beschwerdeverfahren ausdrücklich erklären; ein blosser Hinweis auf den Inhalt der ursprünglichen Strafanzeige genügt nicht. Die Vorinstanz durfte die Beschwerdelegitimation prüfen, ohne die Beschwerdeführerin vorher dazu anzuhören — die Prüfung der Legitimation nach Art. 382 Abs. 1, Art. 115 und Art. 118 StPO stützt sich auf bestimmte und vorhersehbare Rechtsnormen und verletzt das rechtliche Gehör nicht ([BGer 7B_22/2026, E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)).
+
+Die Rüge des **überspitzten Formalismus** (Art. 29 Abs. 1 BV) wurde zurückgewiesen. Die strikte Anwendung von Formvorschriften — namentlich der Prüfung der Beschwerdelegitimation — stellt für sich allein noch keinen überspitzten Formalismus dar, der einen formellen Justizverweigerungsgrund i.S.v. Art. 29 Abs. 1 BV bildet ([BGE 149 IV 9, E. 7.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_9)). Die Vorinstanz hatte im Übrigen weniger formalistisch gehandelt, als sie hätte müssen, da sie trotz der mangelnden Begründung des kantonalen Rechtsmittels von Amtes wegen geprüft hatte, ob der Status als «nahe Angehörige» des Opfers (Art. 116 Abs. 2 StPO) eingreifen könnte ([BGer 7B_22/2026, E. 2.2.1 und E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)).
+
+Der Entscheid grenzt sich von [BGer 7B_43/2022 vom 15. November 2023, E. 3.5.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_43_2022) ab, in dem das Bundesgericht in einer vergleichbaren Konstellation die Legitimation bejaht hatte — dort hatte die Beschwerdeführerin jedoch im kantonalen Verfahren ausdrücklich im Namen des minderjährigen Kindes gehandelt.
+
 ## IV. Sanktionsanfechtungsverbot der Privatklägerschaft (Abs. 2)
 
 Die Privatklägerschaft kann einen Entscheid **hinsichtlich der ausgesprochenen Sanktion** nicht anfechten. Das Strafmass ist allein Sache des Staates; das Interesse der Privatklägerschaft beschränkt sich auf den Schuldpunkt und ihre Zivilansprüche. Zulässig bleibt die Anfechtung des Schuldspruchs als solchem (etwa Freispruch statt Verurteilung) sowie der Zivilfolgen.
@@ -84,4 +104,4 @@ Ungeachtet der fehlenden Legitimation **in der Sache** kann eine Partei die Verl
 
 ---
 
-*Zuletzt aktualisiert: 4. Juli 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-382/_index.md) · [Anregung einreichen](/einreichung)*
+*Zuletzt aktualisiert: 16. Oktober 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-382/_index.md) · [Anregung einreichen](/einreichung)*

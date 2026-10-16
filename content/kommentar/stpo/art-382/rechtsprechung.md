@@ -2,10 +2,16 @@
 title: "Rechtsprechung zu Art. 382 StPO"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-07-04"
+lastmod: "2026-10-16"
 description: "Übersicht der Entscheide zu Art. 382 StPO: Legitimation zu Rechtsmitteln."
-tags: ["Rechtsprechung", "Rechtsmittel", "Legitimation", "Privatklägerschaft"]
+tags: ["Rechtsprechung", "Rechtsmittel", "Legitimation", "Privatklägerschaft", "gesetzliche Vertretung", "minderjähriger Geschädigter"]
 agent_verified: false
+revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGer 7B_22/2026 vom 9. September 2026 ergänzt: gesetzliche Vertretung minderjähriger Geschädigter — Vertreterlegitimation muss im Beschwerdeverfahren ausdrücklich dargetan werden; kein überspitzter Formalismus. Via entscheidsuche und opencaselaw verifiziert."
 ---
 
 ## Bundesgerichtsentscheide (BGE)
@@ -67,6 +73,11 @@ agent_verified: false
 
 ## Bundesgerichtsentscheide (nicht publiziert)
 
+### [BGer 7B_22/2026 vom 9. September 2026, E. 2.2.3 und E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-22-2026_2026-09-09.html)
+- **Thema**: Gesetzliche Vertretung minderjähriger Geschädigter
+- **Kernaussage**: Ein minderjähriger Geschädigter muss im Rechtsmittelverfahren durch seinen gesetzlichen Vertreter handeln (Art. 106 Abs. 2 StPO). Die Vertreterlegitimation nach Art. 382 Abs. 1 StPO muss im Beschwerdeverfahren ausdrücklich im Namen des Kindes dargetan werden; sie lässt sich nicht implizit aus dem Inhalt einer Strafanzeige ableiten, die zugleich eigene Geschädigteninteressen geltend macht. Verneint die Vorinstanz die Legitimation, weil die Beschwerdeführerin sich nur auf ihre «Qualität als Privatklägerin» berufen hat (ein Status, den ihr die Taten gegen das Kind nicht verschaffen), stellt dies keinen überspitzten Formalismus dar (Art. 29 Abs. 1 BV); die strikte Anwendung der Legitimationsprüfung ist für sich allein kein Formalismus, und die Vorinstanz durfte die Legitimation prüfen, ohne die Beschwerdeführerin vorher anzuhören. Abgrenzung zu BGer 7B_43/2022 vom 15. November 2023 (E. 3.5.1), wo die Legitimation bejaht wurde, weil dort im kantonalen Verfahren ausdrücklich im Namen des Kindes gehandelt worden war.
+- **Einschlägig für**: Abs. 1 (gesetzliche Vertretung, Privatklägerschaft)
+
 ### [BGer 7B_721/2024 vom 30. April 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_721_2024)
 - **Thema**: Star-Praxis
 - **Kernaussage**: Ungeachtet fehlender Legitimation in der Sache kann die Privatklägerschaft die Verletzung von Verfahrensrechten rügen, deren Missachtung eine formelle Rechtsverweigerung darstellt — namentlich das zu Unrecht erfolgte Nichteintreten auf ein Rechtsmittel.
@@ -84,4 +95,4 @@ agent_verified: false
 
 ---
 
-*Letzte Aktualisierung: 4.7.2026*
+*Letzte Aktualisierung: 16.10.2026*
