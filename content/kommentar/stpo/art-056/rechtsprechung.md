@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 56 StPO"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-09-25
+lastmod: 2026-10-16
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 56 StPO: Leitentscheide zu persönlichem Interesse, Vorbefassung, Verwandtschaft und Befangenheitsanschein."
-tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit"]
+tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit", "Gerichtsschreiber"]
 agent_verified: true
 revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung von BGer 7B_397/2026 vom 7. August 2026 (Ausstand eines a.o. Gerichtsschreibers wegen persönlicher Feindschaft durch Strafverweis auf privatem Briefpapier). Entscheid via opencaselaw verifiziert (entscheidsuche führt ihn noch nicht); E. 2.4 via get_erwaegung belegt."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -146,6 +151,13 @@ revisions:
 - **Thema**: Missbräuchliche, pauschale Ablehnungsgesuche gegen mehrere Instanzen (lit. f)
 - **Kernaussage**: Das pauschale Ablehnen sämtlicher beteiligter Staatsanwälte und Richter, die in der Vergangenheit für die Partei ungünstige Entscheide gefällt haben, ist rechtsmissbräuchlich. Die Ablehnung von Richtern, die mit der Sache gar nicht mehr befasst sind, ist mangels Rechtsschutzinteresses unzulässig.
 - **Einschlägig für**: Art. 56 lit. f und Art. 59 Abs. 4 StPO (Rechtsmissbrauch, Kostenfolge)
+
+---
+
+### [BGer 7B_397/2026 vom 7. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_397_2026)
+- **Thema**: Ausstand eines a.o. Gerichtsschreibers wegen persönlicher Feindschaft durch Strafverweis auf privatem Briefpapier (lit. f)
+- **Kernaussage**: Ein ausserordentlicher Gerichtsschreiber, der nicht stimmberechtigt ist, aber an der Willensbildung des Spruchkörpers mitwirkt, untersteht den Ausstandsgründen nach Art. 56 StPO gleich wie ein Richter (BGE 140 I 271 E. 8.4.1). Antwortet eine Gerichtsperson auf Anfeindungen durch die Eltern einer Partei mit einem auf privatem Briefpapier verfassten Schreiben, in dem sie der Partei eine «strafrechtliche», durch die kantonalen Behörden zu prüfende Handlung vorwirft und das Schreiben an die Staatsanwaltschaft weiterleitet, erhält der Konflikt dadurch eine persönliche Dimension, welche die Unbefangenheit tangiert. Nicht die formelle Qualität der Reaktion (Strafanzeige vs. informeller Strafverweis), sondern ihr persönlicher Gehalt entscheidet. Der Ausstandsgrund nach Art. 56 lit. f StPO ist zu bejahen ([E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_397_2026#e-2-4)).
+- **Einschlägig für**: Art. 56 lit. f StPO i.V.m. Art. 30 Abs. 1 BV (Gerichtsschreiber, persönliche Feindschaft, Reaktion der Gerichtsperson)
 
 ---
 
