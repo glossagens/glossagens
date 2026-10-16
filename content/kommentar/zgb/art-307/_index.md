@@ -2,11 +2,16 @@
 title: "Art. 307 ZGB — Geeignete Massnahmen im Allgemeinen"
 weight: 307
 date: "2026-06-18"
-lastmod: 2026-10-15
+lastmod: 2026-10-16
 description: "Kommentar zu Art. 307 ZGB – Kindesschutzmassnahmen, Kindeswohlgefährdung, Subsidiaritätsprinzip, Ermahnung, Weisungen und Aufsicht."
 tags: ["ZGB", "Kindesschutz", "Kindeswohl", "Subsidiarität", "Weisung", "KESB"]
 agent_verified: true
 revisions:
+  - date: 2026-10-16
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung BGer 5A_808/2026 vom 30.09.2026: Ausreisebeschränkung als Weisung nach Art. 307 Abs. 3 ZGB bei Auslandsbezug; allgemeine EDA-Reisehinweise allein begründen keine konkrete Kindeswohlgefährdung (abstraktes Risiko genügt nicht). Erwägung E. 3.4.2 via OCL get_erwaegung verifiziert; entscheidsuche führt den Entscheid noch nicht, Link auf OCL als Rückfall."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -52,7 +57,7 @@ revisions:
 
 **3** Die Anordnung einer behördlichen Massnahme setzt voraus, dass das **Wohl des Kindes gefährdet** ist. Das Kindeswohl gilt als oberste Maxime des gesamten Kindesrechts ([BGE 146 III 313 E. 6.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_313#e-6-2-2)). Eine Kindeswohlgefährdung liegt vor, wenn nach den konkreten Umständen die ernsthafte Gefahr einer Beeinträchtigung der körperlichen, seelischen oder geistigen Entwicklung des Kindes vorauszusehen ist ([BGE 150 III 49 E. 3.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_49#e-3-3-3)).
 
-**4** Massgebend ist allein der objektive Gefährdungszustand. Eine Kindeswohlgefährdung im Sinne von Art. 307 Abs. 1 ZGB setzt kein Verschulden der Eltern voraus ([BGE 146 III 313 E. 6.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_313#e-6-2-2); [BGE 150 III 49 E. 3.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_49#e-3-3-3)). Die Ursache der Gefährdung kann in elterlichem Unvermögen, äusseren Umständen oder in besonderen Eigenheiten und Bedürfnissen des Kindes (wie gesundheitlichen Beeinträchtigungen) begründet sein.
+**4** Massgebend ist allein der objektive Gefährdungszustand. Eine Kindeswohlgefährdung im Sinne von Art. 307 Abs. 1 ZGB setzt kein Verschulden der Eltern voraus ([BGE 146 III 313 E. 6.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_313#e-6-2-2); [BGE 150 III 49 E. 3.3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_49#e-3-3-3)). Die Ursache der Gefährdung kann in elterlichem Unvermögen, äusseren Umständen oder in besonderen Eigenheiten und Bedürfnissen des Kindes (wie gesundheitlichen Beeinträchtigungen) begründet sein. Ein bloss abstraktes Risiko genügt für die Bejahung einer Kindeswohlgefährdung nicht; erforderlich ist eine konkrete, fallbezogene Gefahr. So begründen allgemeine staatliche Reisehinweise des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) für sich allein keinen Gefährdungstatbestand, wenn sich das Zielland nicht in einer aktiven Kriegszone befindet und der reisende Elternteil aufgrund seiner Nationalität, Sprach- und Ortskenntnisse sowie familiärer Verwurzelung im Zielland über konkrete Informationsmöglichkeiten verfügt, die ihn von einer gewöhnlichen Touristin unterscheiden. Das Bundesgericht hält fest, ein solches Risiko «demeure toutefois abstrait» ([BGer 5A_808/2026 vom 30. September 2026, E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_808_2026#e-3-4-2)).
 
 **5** Das Bundesgericht unterscheidet strikt zwischen dem gesetzlichen Tatbestand der Kindeswohlgefährdung und der angeordneten Schutzmassnahme als Rechtsfolge. Es ist bundesrechtswidrig, den Tatbestand der Gefährdung mit der Zweckmässigkeit der angestrebten Massnahme zu vermengen ([BGE 150 III 49 E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_49#e-3-4-2)).
 
@@ -104,6 +109,7 @@ revisions:
 - **Mediation und Gesprächstherapie**: Gestützt auf Art. 307 Abs. 3 ZGB ist die Behörde befugt, eine Weisung zur Durchführung einer Therapie bzw. einer Mediation zu erteilen ([BGer 5A_522/2017 vom 22. November 2017, E. 4.7.3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_522_2017#e-4-7-3-2)). Eine Mediation kann gestützt auf Art. 307 Abs. 3 ZGB auch gegen den Willen eines Elternteils angeordnet werden ([BGer 5A_457/2009 vom 9. Dezember 2009, E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_457_2009#e-4-1)).
 - **Psychologische Betreuung und Therapie**: Die Behörde kann die psychologische Begleitung des Kindes ([BGer 5A_411/2014 vom 3. Februar 2015](https://mcp.opencaselaw.ch/entscheid/bger_5A_411_2014)) oder therapeutische Massnahmen zur Vermeidung elterlicher Entfremdung anordnen ([BGer 5A_306/2019 vom 29. Januar 2020](https://mcp.opencaselaw.ch/entscheid/bger_5A_306_2019)). Ebenso kann den Eltern die Weisung erteilt werden, sich über absolvierte Therapiesitzungen periodisch auszuweisen ([BGer 5A_331/2025 vom 5. Mai 2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_331_2025)).
 - **Medizinische Vorkehrungen und Schutzimpfungen**: Sind sorgeberechtigte Eltern über grundlegende medizinische Massnahmen wie eine Masernimpfung entzweit, entscheidet die Kindesschutzbehörde gestützt auf Art. 307 Abs. 1 ZGB in pflichtgemässer Ausübung ihres Ermessens anstelle der Eltern ([BGE 146 III 313 E. 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_III_313#e-6); [BGer 5A_118/2022 vom 15. März 2022](https://mcp.opencaselaw.ch/entscheid/bger_5A_118_2022)).
+- **Ausreisebeschränkungen bei Auslandsbezug**: In Fällen mit Auslandsbezug kann eine Weisung nach Art. 307 Abs. 3 ZGB auch ein Verbot umfassen, mit dem Kind die Schweiz zu verlassen, oder die Auflage, die Identitätsdokumente des Kindes zu hinterlegen ([BGE 136 III 353 E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_136_III_353#e-3-3); [BGE 150 III 49 E. 3.3.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_49#e-3-3-2)). Solche Weisungen setzen eine konkrete Kindeswohlgefährdung voraus; ein bloss abstraktes Risiko — etwa gestützt auf allgemeine staatliche Reisehinweise des EDA für ein Krisenland — reicht nicht aus, wenn der obhutsberechtigte Elternteil aufgrund eigener Nationalität, Sprach- und Ortskenntnisse sowie familiärer Verwurzelung im Zielland über individuelle Informationsmöglichkeiten verfügt und eine Kindesentführung ausgeschlossen ist ([BGer 5A_808/2026 vom 30. September 2026, E. 3.1 und 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_808_2026#e-3-4-2)). Die kantonale Behörde verfügt bei der Beurteilung über einen weiten Ermessensspielraum (Art. 4 ZGB), den das Bundesgericht nur mit Zurückhaltung überprüft.
 
 #### 3. Einblicks- und Auskunftspflicht (Erziehungsaufsicht)
 

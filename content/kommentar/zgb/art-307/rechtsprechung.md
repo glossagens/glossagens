@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 307 ZGB"
 weight: 99
 date: "2026-08-19"
-lastmod: "2026-08-19"
+lastmod: "2026-10-16"
 description: "Übersicht der Rechtsprechung zu Art. 307 ZGB – Kindesschutzmassnahmen, Kindeswohlgefährdung, Ermahnung, Weisungen und Erziehungsaufsicht."
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Kindeswohl", "Weisung", "KESB"]
 agent_verified: false
 revisions:
+  - date: "2026-10-16"
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung BGer 5A_808/2026 vom 30.09.2026: Ausreisebeschränkung/Reisefreiheit bei Krisenland, abstraktes Risiko genügt nicht. Erwägung E. 3.4.2 via OCL get_erwaegung verifiziert."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -79,6 +84,11 @@ revisions:
 - **Thema**: Nachweispflicht über Therapiesitzungen
 - **Kernaussage**: Eine Weisung nach Art. 307 Abs. 3 ZGB kann beinhalten, dass ein Elternteil sich periodisch über absolvierte Therapiesitzungen und Beratungsgespräche ausweisen und Bestätigungen einreichen muss.
 
+### [BGer 5A_808/2026 vom 30. September 2026, E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_808_2026#e-3-4-2)
+- **Thema**: Ausreisebeschränkung / Reisefreiheit bei Reise in ein Krisenland
+- **Kernaussage**: Allgemeine staatliche Reisehinweise des EDA begründen für sich allein keine konkrete Kindeswohlgefährdung im Sinne von Art. 307 Abs. 1 ZGB. Ein bloss abstraktes Risiko reicht für eine Ausreisebeschränkung als Weisung nach Art. 307 Abs. 3 ZGB nicht aus. Massgebend sind die konkreten Umstände des Einzelfalls, insbesondere die Nationalität, Sprach- und Ortskenntnisse sowie die familiäre Verwurzelung des reisenden Elternteils im Zielland. Die kantonale Behörde verfügt über einen weiten Ermessensspielraum (Art. 4 ZGB), den das Bundesgericht nur mit Zurückhaltung überprüft.
+- **Einschlägig für**: Abs. 1 (Eingriffsschwelle) und Abs. 3 (Ausreisebeschränkung als Weisung bei Auslandsbezug)
+
 ---
 
 ## III. Kantonale Rechtsprechung
@@ -115,4 +125,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-19*
+*Letzte Aktualisierung: 2026-10-16*
