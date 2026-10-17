@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 837 ZGB"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-17
 description: "Übersicht der Rechtsprechung zu Art. 837 ZGB (Gesetzliche Grundpfandrechte, insbesondere Bauhandwerkerpfandrecht)."
 tags: ["Rechtsprechung", "ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Grundpfandrecht"]
 agent_verified: false
 revisions:
+  - date: 2026-10-17
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung BGer 5A_211/2026 (konkludente Zustimmung bei Mieterbauten durch Mitunterzeichnung der Baugesuchspläne; Substanziierungslast). Entscheid via OCL (cite, get_decision_structure, get_erwaegung E. 8.1/8.2/8.4) verifiziert; Kernaussagen gegen den wörtlichen Entscheidtext geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -36,6 +41,23 @@ revisions:
 - **Thema**: Erfasste Werkleistungen und Abgrenzung zu reinen Mängelbehebungen
 - **Kernaussage**: Der gesetzliche Pfandanspruch nach Art. 837 Abs. 1 Ziff. 3 ZGB erfasst die vereinbarten Haupt- und Zusatzarbeiten; rein unbestellte Regiearbeiten oder nachvertragliche Mängelbeseitigungen begründen keinen selbständigen neuen Pfandanspruch.
 - **Einschlägig für**: Abs. 1 Ziff. 3 (Umfang der Pfandforderung)
+
+---
+
+### [BGer 5A_211/2026 vom 14. September 2026, E. 8.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-211-2026_2026-09-14.html)
+- **Thema**: Konkludente Zustimmung des Grundeigentümers bei Mieterbauten (Abs. 2)
+- **Kernaussage**: Die Zustimmung nach Art. 837 Abs. 2 ZGB unterliegt keinen Formvorschriften und kann konkludent erfolgen, insbesondere wenn der Grundeigentümer von den Arbeiten weiss und dagegen nicht einschreitet. Sie muss sich allein auf die ausgeführten Arbeiten in genereller Weise erstrecken und erfordert weder Kenntnis der Werkverträge noch der Nachträge oder des Werklohns; eine Erklärung gegenüber dem ausführenden Unternehmen ist nicht erforderlich.
+- **Einschlägig für**: Abs. 2 (Mieterbauten, konkludente Zustimmung)
+
+### [BGer 5A_211/2026 vom 14. September 2026, E. 8.2 und E. 8.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-211-2026_2026-09-14.html)
+- **Thema**: Mitunterzeichnung der Baugesuchspläne als konkludente Zustimmung
+- **Kernaussage**: Eine konkludente Zustimmung des Grundeigentümers liegt namentlich vor, wenn er die für die Baubewilligung erforderlichen Pläne mitunterzeichnet hat. Die blosse Einwendung, es habe sich nur um eine «baurechtliche Mitwirkung» gehandelt, schliesst die privatrechtliche Zustimmung nach Art. 837 Abs. 2 ZGB nicht aus. Das Desinteresse des einzelzeichnungsberechtigten Verwaltungsrats an den Details des Umbauprojekts ändert nichts an der konkludenten Zustimmung.
+- **Einschlägig für**: Abs. 2 (Mieterbauten, konkludente Zustimmung durch Baubewilligungsmitwirkung)
+
+### [BGer 5A_211/2026 vom 14. September 2026, E. 6.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-211-2026_2026-09-14.html)
+- **Thema**: Substanziierungslast im Bauhandwerkerpfandrechts-Verfahren
+- **Kernaussage**: Tabellarische Zusammenstellungen und interne Aufzeichnungen sind zur Substanziierung nicht von vornherein ungeeignet. Die bundesgerichtliche Rechtsprechung lässt den blossen Verweis auf Beilagen zu, wenn die nötigen Informationen in den Belegen eindeutig und vollständig enthalten sind und darauf problemlos zugegriffen werden kann (selbsterklärende Beilage). Die Pfandsumme kann durch Verweis auf Werkverträge, Nachtragsofferten und darauf gestützte Rechnungen substanziert werden.
+- **Einschlägig für**: Abs. 1 Ziff. 3 (Substanziierungslast, Art. 55 ZPO)
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Art. 837 ZGB — Gesetzliche Grundpfandrechte"
 weight: 837
 date: 2026-09-01
-lastmod: 2026-10-15
+lastmod: 2026-10-17
 description: "Praxiskommentar zu Art. 837 ZGB: Gesetzliche Grundpfandrechte des Verkäufers, der Miterben und der Bauhandwerker (Bauhandwerkerpfandrecht, Mieterbauten, Vorausverzichtverbot)."
 tags: ["ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Grundpfandrecht", "Werkvertrag", "Mieterbauten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-17
+    by: "Glossagens Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung BGer 5A_211/2026 (konkludente Zustimmung des Grundeigentümers durch Mitunterzeichnung der Baugesuchspläne, Substanziierungslast). Entscheid via OCL (cite, get_decision_structure, get_erwaegung E. 8.1/8.2/8.4) verifiziert; Kernaussagen gegen den wörtlichen Entscheidtext geprüft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -56,6 +61,8 @@ Der Tatbestand erfasst nicht nur Bauten und Werke, sondern seit der Revision von
 ### B. Mieterbauten (Abs. 2)
 
 Wurden die Arbeiten nicht vom Grundeigentümer, sondern von einem Mieter, Pächter oder Stockwerkeigentümer in Auftrag gegeben, entsteht der Pfandanspruch am Gesamtgrundstück nur, wenn der Grundeigentümer seine **Zustimmung** zur Ausführung der Arbeiten erteilt hat ([BGE 136 III 285 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-285_2010.html)). Die Zustimmung muss sich auf die konkreten baulichen Veränderungen beziehen; blosse Duldung reicht nicht aus.
+
+Die Zustimmung unterliegt keinen Formvorschriften und kann **konkludent** erfolgen, insbesondere wenn der Grundeigentümer von den Arbeiten weiss und dagegen nicht einschreitet. Sie muss sich allein auf die ausgeführten Arbeiten in genereller Weise erstrecken und erfordert weder Kenntnis der Werkverträge noch der Nachträge oder des Werklohns; eine Erklärung gegenüber dem ausführenden Unternehmen ist nicht erforderlich ([BGer 5A_211/2026 vom 14. September 2026, E. 8.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-211-2026_2026-09-14.html)). Eine konkludente Zustimmung liegt namentlich vor, wenn der Grundeigentümer die für die Baubewilligung erforderlichen Pläne **mitunterzeichnet** hat; die blosse Einwendung, es habe sich nur um eine «baurechtliche Mitwirkung» gehandelt, schliesst die privatrechtliche Zustimmung nach Art. 837 Abs. 2 ZGB nicht aus ([BGer 5A_211/2026 vom 14. September 2026, E. 8.2 und E. 8.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-211-2026_2026-09-14.html)).
 
 ---
 
