@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 125 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-08-30"
+lastmod: "2026-10-19"
 description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Erlaubtes Risiko", "Eventualvorsatz", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-19
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "BGer 6B_266/2026 (Laderampen-Unfall, Garantenstellung/Sicherheitsverantwortlicher, Mitverschulden/Unterbrechung, Vorhersehbarkeit durch Vorfällerignis) als weiterer BGer-Entscheid eingefügt; Volltext via OCL fetch verifiziert"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
@@ -63,6 +68,14 @@ revisions:
 - **Sachverhalt**: Das Opfer erlitt einen Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode geführt hätte. Medizinische Hilfe war jedoch verfügbar und konnte rechtzeitig geleistet werden.
 - **Kernaussage**: Ein Milzriss, der ohne rasche Operation lebensbedrohlich verlaufen würde, stellt eine lebensgefährliche und damit schwere Schädigung im Sinne von Art. 125 Abs. 2 StGB dar. Ob im konkreten Fall rasche medizinische Hilfe zur Stelle war oder nicht, ist für die Qualifikation als schwere Schädigung unerheblich — entscheidend ist die objektive Lebensgefährdung der Verletzung, nicht die effektive Rettung (E. 2).
 - **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 122 StGB (schwere Schädigung, Lebensgefahr, objektive Gefährdung).
+
+---
+
+### [BGer 6B_266/2026 vom 11. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.09.2026_6B_266/2026) E. 2.1.1, 2.2.3, 2.3.1, 2.3.2 — Garantenstellung des Sicherheitsverantwortlichen; Mitverschulden und Unterbrechung des Kausalzusammenhangs
+
+- **Sachverhalt**: Der Geschäftsführer und Sicherheitsverantwortliche einer C.________-Filiale wies am 21. Mai 2021 den Chauffeur eines Sattelschleppers an, die Fahrzeugkombination näher an die Laderampe Nr. 2 heranzufahren, weil das Rampenblech nur ungenügend auf dem Auflieger auflag. Im Rahmen der bereits begonnenen Entladevorbereitungen stand ein Mitarbeiter auf dem Rampenblech, das beim Manöver den Kontakt zum Anhänger verlor und nach unten wegkippte. Der Mitarbeiter stürzte in den Spalt zwischen Laderampe und Anhänger und wurde eingeklemmt; er erlitt ein fulminantes Leberversagen nach Abdominaltrauma und ein akutes Nierenversagen. Das Bezirksgericht Schwyz sprach den Beschwerdeführer frei; das Kantonsgericht Schwyz verurteilte ihn am 25. November 2025 wegen fahrlässiger schwerer Körperverletzung zu 150 Tagessätzen Geldstrafe bedingt.
+- **Kernaussage**: Das Bundesgericht bestätigt die Verurteilung. Wer als Vorgesetzter und Sicherheitsverantwortlicher mit einer Anweisung an den Fahrer «für die Personen im Bereich der Ladebrücke eine besondere Gefahr geschaffen hat», ist verpflichtet, «alles zumutbare zu unternehmen, um diese Gefahr wieder auszuräumen» (E. 2.3.1). Der Schuldspruch stützt sich auf den allgemeinen Gefahrensatz, unabhängig davon, ob betriebliche Sicherheitsbestimmungen verletzt waren. Das Selbstgefährdungsverhalten des geschulten Mitarbeiters unterbricht den Kausalzusammenhang nicht: Es liegt «nicht gänzlich ausserhalb dessen, womit zu rechnen war» (E. 2.3.1); ein Abweichen ist nur bei einem Wirkungsgrad gegeben, der so aussergewöhnlich ist, dass die ursprüngliche Ursache rechtlich nicht mehr beachtlich erscheint (BGE 148 III 343 E. 3.2; E. 2.3.2). Verstärkend wirkt, dass sich nur zwei Monate zuvor in einer anderen Filiale ein ähnlicher Unfall ereignet hatte, woraufhin der Beschwerdeführer als Sicherheitsverantwortlicher eine interne Meldung mit den Sicherheitsbestimmungen erhalten hatte — die Vorhersehbarkeit war damit offensichtlich erhöht (E. 2.2.3). Der subjektive Sorgfaltsmassstab wirkt hier belastend, nicht entlastend.
+- **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 12 Abs. 3 StGB, Art. 11 StGB (Sorgfaltspflichtverletzung, Garantenstellung aus Vorgesetztenfunktion, unechte Unterlassung, Adäquanz, Mitverschulden, Unterbrechung des Kausalzusammenhangs, subjektiver Sorgfaltsmassstab).
 
 ---
 
