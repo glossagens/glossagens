@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 50 StGB"
 weight: 99
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-10-17
 description: "Übersicht der Entscheide zur Begründungspflicht der Strafzumessung (Art. 50 StGB) — BGE, Bundesgerichtsentscheide und kantonale Praxis inkl. Kurzfassungen der tragenden Erwägungen."
 tags: ["Rechtsprechung", "Strafzumessung", "Begründungspflicht", "Art. 50 StGB"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-17
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_710/2025 v. 05.10.2026 (5er-Besetzung): Begründungsanforderungen bei Gesamtstrafen (Art. 49 StGB) und bei der Wahl zwischen vollem und teilweisem Strafaufschub (Art. 42/43 StGB); Strafartenwahl (Art. 41 StGB). Volltext via swiss-caselaw verifiziert."
   - date: 2026-09-11
     by: "Claude Code"
     model: "deepseek-v4-flash"
@@ -74,6 +79,16 @@ Grundlage der Kommentierung: Entscheide des Bundesgerichts (publiziert und nicht
 ---
 
 ## Bundesgerichtsentscheide (nicht publiziert)
+
+### BGer, 6B_710/2025 v. 5.10.2026, E. 5.6–5.9
+- **Thema**: Verletzung der Begründungspflicht bei Gesamtstrafen (Art. 49 Abs. 1 StGB) und beim Vollzugsaufschub (Art. 42/43 StGB); spezialpräventive Begründung der Strafartenwahl (Art. 41 StGB)
+- **Kernaussage**: Teilweise Gutheissung und Rückweisung (I. Strafrechtliche Abteilung, 5er-Besetzung; Entscheid französisch). Die Vorinstanz verurteilte den Beschwerdeführer wegen qualifizierter einfacher Körperverletzung (Würgegriffe), Nötigung und Beschimpfung zu einer Freiheitsstrafe von 15 Monaten (teilbedingt, 9 Monate aufgeschoben), hob den erstinstanzlichen Schuldspruch wegen Vertrauensmissbrauchs auf und reduzierte die Strafe von 30 auf 15 Monate.
+  1. *Strafartenwahl (Art. 41 StGB)*: Die Wahl einer Freiheitsstrafe statt einer Geldstrafe genügt Art. 41 Abs. 2 und Art. 50 StGB, wenn sie spezialpräventiv mit dem Verharren in Tatleugnung, Bagatellisierung und Täter-Opfer-Umkehr begründet wird; darin liegt keine Verletzung des Grundsatzes *nemo tenetur* (E. 5.6).
+  2. *Gesamtstrafe (Art. 49 i. V. m. Art. 47 und 50 StGB)*: Das Bundesgericht rügt eine rein globale Verschuldensbewertung als Verletzung von Art. 50 StGB. Die Vorinstanz setzte die Einsatzstrafe für die Körperverletzung pauschal auf 10 Monate an («graves actes de violence») und erhöhte um 5 Monate für die Nötigung im Konkurrenzverhältnis, ohne die objektiven und subjektiven Verschuldenselemente nach Art. 47 Abs. 2 StGB für jede Tat gesondert darzulegen und den Asperationszuschlag nachvollziehbar zu begründen (E. 5.7).
+  3. *Vollzugsaufschub (Art. 42/43 i. V. m. Art. 50 StGB)*: Bei Freiheitsstrafen zwischen einem und zwei Jahren ist der Vollaufschub (Art. 42 StGB) die Regel und der Teilaufschub (Art. 43 StGB) die Ausnahme. Die Begründung eines Teilaufschubs verlangt zwingend eine Gesamtwürdigung der Bewährungsaussichten (Ameliorationsprognose). Die blosse Gegenüberstellung von fehlenden Vorstrafen und Tatenschwere ohne Erörterung einer fehlenden ungünstigen Prognose verletzt Art. 50 StGB (E. 5.8).
+  4. *Rechtsfolge*: Aufhebung des Urteils bzgl. Strafhöhe und Vollzug und Rückweisung gemäss Art. 112 Abs. 3 BGG (E. 5.9).
+- **Einschlägig für**: Abs. B (Umfang), C (Gewichtung), D (Gesamtstrafe/Asperation, Grenzwertfrage Vollzug), E (Rückweisung), F (Strafartenwahl)
+- **Verifikationsstand**: Volltext via swiss-caselaw/opencaselaw (`get_decision`) verifiziert. Auf entscheidsuche.ch im Zeitpunkt der Kommentierung noch nicht indexiert (Entscheid vom 5. Oktober 2026, publiziert 16. Oktober 2026); Verlinkung gemäss CLAUDE.md über die opencaselaw-Rückfallebene: [BGer 6B_710/2025 vom 5. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_710_2025).
 
 ### BGer, 6B_905/2024 v. 8.9.2025, E. 1.2.2 und E. 1.5.2–1.5.4
 - **Thema**: Rückweisung wegen unklarer Verschuldensqualifizierung; Reparatur-Regel
@@ -193,4 +208,4 @@ Grundlage der Kommentierung: Entscheide des Bundesgerichts (publiziert und nicht
 
 ---
 
-*Letzte Aktualisierung: 2026-09-11. Alle Zitate maschinell geprüft: BGE/BGer via entscheidsuche.ch; der dort noch nicht indexierte Anlass-Entscheid 6B_814/2025 via opencaselaw (Volltext), verlinkt über die opencaselaw-Rückfallebene. Gesetzestext: Fedlex SR 311.0 (Konsolidierung 12. Juni 2026).*
+*Letzte Aktualisierung: 2026-10-17. Alle Zitate maschinell geprüft: BGE/BGer via entscheidsuche.ch; die dort noch nicht indexierten Entscheide 6B_814/2025 und 6B_710/2025 via swiss-caselaw/opencaselaw (Volltext), verlinkt über die opencaselaw-Rückfallebene. Gesetzestext: Fedlex SR 311.0 (Konsolidierung 1. Oktober 2026).*
