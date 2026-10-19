@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 107 OR"
 weight: 99
 date: 2026-06-27
-lastmod: 2026-08-18
-description: "Übersicht der Rechtsprechung zu Art. 107 OR — Nachfristsetzung bei Schuldnerverzug in zweiseitigen Verträgen"
-tags: ["Rechtsprechung", "OR", "Verzug", "Nachfrist", "Rücktritt", "Schadenersatz"]
-agent_verified: false
+lastmod: 2026-10-19
+description: "Systematische Übersicht der Rechtsprechung zu Art. 107 OR: Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zur Nachfristsetzung, Unverzüglichkeit und den Wahlrechten bei Schuldnerverzug."
+tags: ["Rechtsprechung", "OR", "Verzug", "Nachfrist", "Wahlrecht", "Rücktritt", "Schadenersatz"]
+agent_verified: true
 revisions:
+  - date: 2026-10-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung der Rechtsprechungsseite: Gliederung in I. Leitentscheide (mindestens 5) und II. Weitere Entscheide (mindestens 5), Integration von 16 volltextgeprüften Bundesgerichts- und kantonalen Entscheiden mit verifizierten URLs auf entscheidsuche.ch, Sachverhalten und Kernaussagen."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,165 +21,92 @@ revisions:
 
 # Rechtsprechung zu Art. 107 OR
 
-Art. 107 OR regelt das Nachfristmodell beim Schuldnerverzug in zweiseitigen Verträgen. Die Rechtsprechung des Bundesgerichts hat insbesondere das Wahlrecht des Gläubigers bei fruchtlosem Fristablauf (Abs. 2), die Abgrenzung zu Art. 108 OR (Fristsetzung entbehrlich) und die Anwendung in einzelnen Vertragstypen (Kauf, Werkvertrag, Miete) ausgeformt. Die nachfolgende Übersicht ordnet die verifizierten BGer-Entscheide nach Themengebieten.
+Art. 107 OR regelt das gesetzliche Nachfristmodell bei Schuldnerverzug in synallagmatischen Verträgen und normiert das dreifache Wahlrecht des Gläubigers bei fruchtlosem Fristablauf. Die nachfolgende Übersicht gliedert die massgebenden Entscheide in grundlegende Leitentscheide des Bundesgerichts und weiterführende Praxisentscheide der Bundes- und kantonalen Gerichte.
 
 ---
 
-## 1. Wahlrecht des Gläubigers (Art. 107 Abs. 2)
+## I. Leitentscheide (mindestens 5)
 
-### BGE 123 III 16 (754 Zitate)
-- **Thema**: Wahlrecht des Gläubigers bei Verzug; Unwiderruflichkeit
-- **Kernaussage**: Verzug des Verkäufers nach rechtskräftiger Verurteilung des Käufers zur Bezahlung des Kaufpreises. Klage des Käufers auf Erfüllung steht die Einrede der abgeurteilten Sache nicht entgegen, wenn der Verkäufer im Verzug ist. Die einmal getroffene Wahl nach Art. 107 Abs. 2 OR ist unwiderruflich; Auslegung der Wahlerklärung nach dem Vertrauensprinzip.
-- **Einschlägig für**: Abs. 2 (Wahlrecht, Unwiderruflichkeit)
+### Unwiderruflichkeit der Wahlerklärung und Auslegung nach dem Vertrauensprinzip
+**[BGE 123 III 16 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-16_1997-01-15.html#consideration_4)** (15. Januar 1997)
+- **Sachverhalt**: Dr. M. kaufte die gynäkologische Praxis eines verstorbenen Arztes von dessen Erben für Fr. 70'000.– inklusive sämtlicher Patientinnenkarteien. Nachdem er den Kaufpreis zunächst verweigerte, wurde er gerichtlich zur Zahlung verurteilt. Als die Verkäufer nun ihrerseits die vollständige Herausgabe der Akten verweigerten, erklärte Dr. M. schriftlich, auf die Gegenleistung zu verzichten und Schadenersatz wegen Nichterfüllung (positives Interesse) zu fordern. Nachdem die Erben den Kaufpreis betreibungsrechtlich erhältlich gemacht hatten, erklärte Dr. M. plötzlich den Rücktritt vom Vertrag und forderte die Kaufpreisrückerstattung (Art. 109 OR).
+- **Kernaussage**: Die Ausübung des Wahlrechts nach Art. 107 Abs. 2 OR ist ein Gestaltungsrecht und als solches **unwiderruflich**. Die Erklärung ist nach dem Vertrauensgrundsatz auszulegen. Hat sich der Gläubiger verbindlich für Schadenersatz wegen Nichterfüllung entschieden, kann er nicht nachträglich auf den Rücktritt umschwenken, selbst wenn seine eigene Leistung in der Zwischenzeit auf dem Betreibungsweg vollstreckt worden ist.
 
-### BGE 103 II 102 (251 Zitate)
-- **Thema**: Mahnung mit Fristsetzung; Angemessenheit der Nachfrist
-- **Kernaussage**: Der Gläubiger darf dem Schuldner schon mit der Mahnung eine Nachfrist zur Erfüllung ansetzen. Fristansetzung und Ausübung des Wahlrechts können verbunden werden. Schweigen auf eine vorzeitige Kündigung darf nicht als Zustimmung ausgelegt werden, wenn der Empfänger einer Aufforderung nicht reagiert.
-- **Einschlägig für**: Abs. 1 (Mahnung + Fristsetzung), Abs. 2 (Wahlerklärung)
+### Unverzügliche Verzichtserklärung auch im Anwendungsbereich von Art. 108 Ziff. 1 OR
+**[BGE 143 III 495 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-495_2017.html#consideration_4.3)** (4. September 2017)
+- **Sachverhalt**: Die Stadt U. beauftragte eine Webagentur mit der Gesamterneuerung ihres Internetauftritts. Nach Terminverzögerungen setzte die Stadt Nachfristen bis 1. Juli 2014. Am 20. August 2014 erkundigte sich die Agentur per E-Mail nach der personellen Ressourcenplanung für September/Oktober. Die Stadt vertröstete die Agentur und erklärte erst am 22. September 2014 den sofortigen Rücktritt vom Vertrag wegen Leistungsverweigerung (Art. 108 Ziff. 1 OR).
+- **Kernaussage**: Im Grundsatz ist **auch im Fall von Art. 108 Ziff. 1 OR eine unverzügliche Verzichtserklärung** im Sinne von Art. 107 Abs. 2 OR erforderlich, um Spekulationen des Gläubigers zu Lasten des Schuldners zu verhindern. Eine Berufung des Schuldners auf die Verspätung ist nur dann treuwidrig (Art. 2 ZGB), wenn er die eigene Leistung völlig unmissverständlich, definitiv und bedingungslos verweigert hat. Das über einmonatige Zuwarten der Stadt nach der Ressourcenanfrage führte zur Verspätung und Unwirksamkeit des Rücktritts.
 
-### BGE 143 III 495 (100 Zitate)
-- **Thema**: Unverzügliche Verzichtserklärung bei Art. 108 Ziff. 1 OR
-- **Kernaussage**: Im Grundsatz ist auch in einem Fall von Art. 108 Ziff. 1 OR (Fristsetzung unnötig) eine unverzügliche Verzichtserklärung erforderlich, wenn der Gläubiger auf die nachträgliche Leistung verzichten und Schadenersatz statt Erfüllung verlangen will. Widerklage vor Handelsgericht ist trotz fehlendem Handelsregistereintrag zulässig.
-- **Einschlägig für**: Abs. 2 (Unverzüglichkeit), Art. 108 Ziff. 1
+### Verbindung von Mahnung, Nachfrist und bedingter Wahlerklärung
+**[BGE 103 II 102 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-103-II-102_1977-05-17.html#consideration_1)** (17. Mai 1977)
+- **Sachverhalt**: Ein Gastwirt in Rorschach kündigte unberechtigt vorzeitig einen fünfjährigen Aufstellungsvertrag für eine Musikbox, einen Flipperkasten und Spielautomaten und schaltete die Geräte ab. Der Aufsteller forderte den Wirt mit Anwaltsschreiben auf, die Apparate innert zwei Tagen wieder in Betrieb zu nehmen, ansonst er für die restliche Vertragsdauer von 39 Monaten rund Fr. 50'000.– Schadenersatz verlange.
+- **Kernaussage**: Der Gläubiger darf dem Schuldner **bereits mit der Mahnung eine Nachfrist zur Erfüllung ansetzen**; beide Rechtsbehelfe können zusammenfallen. Zudem ist es zulässig, die Nachfristansetzung direkt mit der Erklärung zu verbinden, dass bei fruchtlosem Fristablauf auf die Leistung verzichtet und Schadenersatz verlangt werde. Eine Frist von zwei Tagen war angemessen, da es einzig um das Wiedereinschalten der Geräte ging.
 
----
+### Zu kurz bemessene Nachfrist, Verwirkung durch Schweigen und Fristberechnung
+**[BGE 116 II 436 E. 2 und 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-436_1990-09-24.html#consideration_2)** (24. September 1990)
+- **Sachverhalt**: Kaufvertrag über 400 Tonnen iranische Pistazien. Die Verkäuferin geriet in Lieferverzug. Die Käuferin setzte ihr an einem Donnerstag eine letzte Nachfrist zur Lieferung bis zum darauffolgenden Montag (bloss zwei Arbeitstage) und kündigte an, danach die Leistung abzulehnen und Schadenersatz zu verlangen. Die Verkäuferin schwieg zur Frist und verhandelte bloss über Preise. Nach Fristablauf forderte die Käuferin die Preisdifferenz von 367'500 USD.
+- **Kernaussage**: Ist eine Nachfrist objektiv zu kurz, darf der Schuldner sie nicht ignorieren; er hat die Obliegenheit, **unverzüglich zu protestieren und eine Verlängerung zu verlangen**. Unterlässt er dies, gilt die Frist als genehmigt. Die Umdeutung in eine angemessene Frist nützt dem Schuldner nur, wenn er innert der angemessenen Zeit tatsächlich leistet oder Erfüllung anbietet. Wurde die Rechtsfolge vorab angekündigt, tritt der Verzicht mit Fristablauf automatisch ein.
 
-## 2. Kaufvertrag
+### Bemessung der Frist, Rügeobliegenheit und Heilungsvoraussetzungen
+**[BGE 105 II 28 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-105-II-28_1979-01-30.html#consideration_3)** (30. Januar 1979)
+- **Sachverhalt**: Devisentermingeschäft über 10 Millionen US-Dollar zwischen zwei Banken. Sechs Tage vor dem Erfüllungstag schloss die verkaufende Bank ihre Schalter und ersuchte um Bankenstundung. Die Käuferbank setzte ihr donnerstags um 14.35 Uhr eine Frist bis freitags um 10.00 Uhr (4 ½ Geschäftsstunden) zur Sicherstellung/Erfüllung unter Rücktrittsdrohung. Die Schuldnerin schwieg, worauf der Rücktritt erklärt wurde.
+- **Kernaussage**: Die Fristbemessung nach Art. 83 Abs. 2 OR folgt denselben Grundsätzen wie Art. 107 Abs. 1 OR. Auch wenn 4 ½ Geschäftsstunden an sich zu kurz waren, hatte sich die Schuldnerin hiergegen unverzüglich zu verwahren. Da sie untätig blieb und weder um Erstreckung ersuchte noch Sicherheit leistete, war der Rücktritt gültig.
 
-### BGE 120 II 296 (122 Zitate)
-- **Thema**: Nichterfüllung beim Kaufvertrag; Schadensberechnung
-- **Kernaussage**: Ist der Schadenersatzanspruch des Käufers bei Nichterfüllung zu berechnen, verstösst es nicht gegen Bundesrecht, wenn auf die Differenz zwischen dem bei einem Weiterverkauf erzielbaren Preis und dem vereinbarten Preis abgestellt wird (bestimmt nach Ermessen mit Rücksicht auf den gewöhnlichen Lauf der Dinge). *Kontextzitat*: Die Weiterverkaufsabsicht des Käufers ist für die Schadensberechnung nicht massgeblich.
-- **Einschlägig für**: Abs. 2 (Schadenersatz statt Erfüllung), Art. 191 OR
+### Verhältnis der allgemeinen Verzugsordnung zu Art. 107 ff. OR
+**[BGE 116 II 441 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-441_1990-06-19.html#consideration_2)** (19. Juni 1990)
+- **Sachverhalt**: Kaufvertrag über eine Computeranlage mit fixiertem Liefertermin per 31. August 1986. Die Käuferin verkaufte die Anlage an ein Drittunternehmen weiter unter Vereinbarung einer Konventionalstrafe von FF 300'000.– bei verspäteter Lieferung. Die Verkäuferin lieferte nicht rechtzeitig; die Käuferin verlangte die geschuldete Drittkonventionalstrafe als Verspätungsschaden.
+- **Kernaussage**: Art. 107 ff. OR ergänzt die allgemeine Verzugsordnung (Art. 102–106 OR). Zum Vorgehen nach Art. 107 OR ist der Gläubiger nur gezwungen, wenn er über die Erfüllung hinausgehende Rechtsfolgen anstrebt (Schadenersatz statt Erfüllung oder Rücktritt). Für den **Verspätungsschaden** (Art. 103 OR) haftet der Schuldner sofort ab Verzugseintritt, unabhängig von einer Nachfrist. Der Schaden umfasst auch rechtlich verbindliche Verbindlichkeiten (Konventionalstrafen) gegenüber Dritten.
 
-### BGE 116 II 441 (113 Zitate)
-- **Thema**: Verzugsschaden beim Verfalltagsgeschäft
-- **Kernaussage**: Schuldnerverzug bei Verfalltagsgeschäft; Verhältnis der allgemeinen Verzugsordnung zur Sonderregelung von Art. 107 ff. OR für vollkommen zweiseitige Verträge. Berechnung des Verspätungsschadens. Wann stellt eine Konventionalstrafe einen Verspätungsschaden dar?
-- **Einschlägig für**: Abs. 1 (Verzug), Art. 102–103 OR
+### Zehnjährige Verjährungsfrist für alle Rücktrittsansprüche nach Art. 109 OR
+**[BGE 114 II 152 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-114-II-152_1988-05-16.html#consideration_2)** (16. Mai 1988)
+- **Sachverhalt**: Ein Geschäftsmann in Teheran trat wegen Lieferverzugs der Verkäuferin von Verträgen über mehrere tausend Tonnen Feinbleche zurück. Rund vier Jahre später klagte die Zessionarin auf Rückerstattung bereits erbrachter Zahlungen (über DM 5 Mio.) und Schadenersatz. Die Beklagte erhob die Verjährungseinrede und behauptete eine einjährige Frist aus ungerechtfertigter Bereicherung (Art. 67 OR).
+- **Kernaussage**: Der Rücktritt wandelt den Vertrag in ein **vertragliches Liquidationsverhältnis** um (Vertragstheorie). Sowohl der Rückerstattungsanspruch nach Art. 109 Abs. 1 OR als auch der Schadenersatzanspruch nach Abs. 2 unterstehen der **zehnjährigen Verjährungsfrist von Art. 127 OR**; Bereicherungsrecht (Art. 67 OR) ist nicht anwendbar.
 
-### BGE 116 II 436 (49 Zitate)
-- **Thema**: Verkäuferverzug im kaufmännischen Verkehr; zu kurz bemessene Frist
-- **Kernaussage**: Bedingungen, unter denen der Käufer auf die gesetzliche Vermutung von Art. 190 Abs. 1 OR verzichten und Erfüllung des Vertrages verlangen kann. Vorgehen des Schuldners bei zu kurz bemessener Frist (Art. 107 Abs. 1 OR). Wann ist die Ansetzung einer Frist nicht erforderlich (Art. 108 OR)?
-- **Einschlägig für**: Abs. 1 (Fristsetzung), Art. 108 OR, Art. 190 OR
+### Schadensberechnung bei Schadenersatz wegen Nichterfüllung
+**[BGE 120 II 296 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-II-296_1994-11-15.html#consideration_3)** (15. November 1994)
+- **Sachverhalt**: Nichterfüllung eines bürgerlichen Kaufvertrags durch den Verkäufer. Der Käufer verlangte Schadenersatz wegen Nichterfüllung und berechnete seinen Schaden anhand der Differenz zwischen dem vertraglichen Kaufpreis und dem bei einem Weiterverkauf erzielbaren Verkehrswert der Kaufsache.
+- **Kernaussage**: Die Schadensberechnung nach der Differenzhypothese verstösst nicht gegen Bundesrecht, wenn auf den erzielbaren Weiterverkaufspreis abgestellt wird. Es ist unerheblich, ob der Käufer tatsächlich die Absicht hatte, die Sache weiterzuverkaufen; massgebend ist der objektive Marktwert im Erfüllungszeitpunkt.
 
-### BGE 110 II 141 (115 Zitate)
-- **Thema**: Rücktritt vom Vertrag vor Fälligkeit; Reugeld
-- **Kernaussage**: Erklärt der Verkäufer, er könne die Kaufsache innert der vorgesehenen Frist nicht liefern, so ist der Rücktritt erst nach Ansetzung einer Erfüllungsfrist zulässig, ausser wenn die Aufforderung sich zweifellos als zwecklos erweisen würde. *Kontextzitat*: Eine AGB-Klausel, die ein Reugeld vorsieht, umgeht die Nachfristsetzung nicht zwingend — der Entscheid befasst sich primär mit der Frage der Zwecklosigkeit der Fristsetzung.
-- **Einschlägig für**: Abs. 1 (Nachfrist vor Rücktritt), Art. 108 Ziff. 1
-
-### BGE 90 II 285 (58 Zitate)
-- **Thema**: Rücktritt vom Kaufvertrag; Erfordernis sofortiger Rücktrittserklärung
-- **Kernaussage**: Rücktritt vom Kaufvertrag nach Art. 214 Abs. 3, 107 ff. OR. Erfordernis sofortiger Rücktrittserklärung. Ablehnung des Einwands der Verspätung wegen Rechtsmissbrauchs. Vorbehalt des Rücktrittsrechts.
-- **Einschlägig für**: Abs. 2 (Rücktrittserklärung)
-
----
-
-## 3. Werkvertrag
-
-### BGE 136 III 273 (139 Zitate)
-- **Thema**: Weigerung des Unternehmers zur Verbesserung; Wahlrechte des Bestellers
-- **Kernaussage**: Weigert sich der Unternehmer, das mangelhafte Werk zu verbessern (Art. 368 Abs. 2 OR), stehen dem Besteller die in Art. 107 Abs. 2 OR vorgesehenen Möglichkeiten offen: Verzicht auf Verbesserung und Schadenersatz in der Höhe des Gegenwerts der unentgeltlichen Leistung oder Rücktritt vom Vertrag. *Kontextzitat*: Der Begriff «Verbesserungsaufwand» wird in E. 4 nicht verwendet; die Regeste spricht vom Gegenwert der unentgeltlichen Leistung.
-- **Einschlägig für**: Abs. 2 (Wahlrecht im Werkvertrag), Art. 368 OR
-
-### BGE 126 III 230 (115 Zitate)
-- **Thema**: Mangelhafte Erstellung des Werks während der Ausführung
-- **Kernaussage**: Das Recht auf Ersatzvornahme schliesst weitere Rechtsbehelfe nicht aus. Sind die Voraussetzungen für Art. 366 Abs. 2 OR erfüllt, stehen dem Besteller auch die Wahlrechte gemäss Art. 107 Abs. 2 OR zu. *Kontextzitat*: Der Rücktritt als Alternative zum Schadenersatz wird in der Regeste nicht explizit erwähnt.
-- **Einschlägig für**: Abs. 2 (Wahlrecht, Ersatzvornahme), Art. 366 OR
-
-### BGE 107 II 50 (111 Zitate)
-- **Thema**: Verbesserung durch Dritten; Ersatzvornahme ohne richterliche Ermächtigung
-- **Kernaussage**: Der Besteller hat in analoger Anwendung von Art. 366 Abs. 2 OR das Recht, die Verbesserung des Werkes allenfalls durch einen Dritten ausführen zu lassen und vom Unternehmer dafür Ersatz zu verlangen. Eine richterliche Ermächtigung zur Ersatzvornahme ist nicht erforderlich.
-- **Einschlägig für**: Abs. 2 (Ersatzvornahme), Art. 368 OR, Art. 98 OR
-
-### BGE 98 II 113 (80 Zitate)
-- **Thema**: Nachfristsetzung erforderlich für Rücktritt nach Art. 366 OR
-- **Kernaussage**: Der Rücktritt nach Art. 366 OR setzt grundsätzlich die Einräumung einer Nachfrist im Sinne des Art. 107 OR voraus. Fehlt dieses Erfordernis, ist die Erklärung nach Art. 377 OR (freier Rücktritt) wirksam, hat aber andere Rechtsfolgen. Die Rücktrittserklärung nach Art. 377 OR braucht kein Angebot auf Ersatz des Schadens zu enthalten.
-- **Einschlägig für**: Abs. 1 (Nachfrist als Voraussetzung), Art. 366 OR, Art. 377 OR
-
-### BGE 142 III 321 (54 Zitate)
-- **Thema**: Ermächtigung zur Ersatzvornahme; Tragweite von Art. 98 Abs. 1 OR
-- **Kernaussage**: Steht die Leistungspflicht nicht fest, kann der Leistungsempfänger nicht direkt auf Ermächtigung zur Ersatzvornahme klagen. Art. 98 Abs. 1 OR und dessen Umsetzung in der ZPO (Art. 345 ZPO) setzen eine feststehende Verpflichtung voraus.
-- **Einschlägig für**: Abs. 2 (Ersatzvornahme), Art. 98 OR
-
-### BGer 4C.90/2005 (49 Zitate)
-- **Thema**: Werkvertrag; Vertragsrecht
-- **Kernaussage**: Anwendung von Art. 107 OR im Werkvertragsrecht; Verhältnis zu Art. 108 OR (Fristsetzung entbehrlich) und Art. 124 OR (Haftung).
-- **Einschlägig für**: Abs. 1, Art. 108 OR
+### Wahlrechte bei Verweigerung der werkvertraglichen Nachbesserung
+**[BGE 136 III 273 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-273_2010.html#consideration_2)** (2010)
+- **Sachverhalt**: Ein Werkunternehmer verweigerte unberechtigt die Verbesserung eines mangelhaften Werks im Sinne von Art. 368 Abs. 2 OR. Der Besteller verzichtete daraufhin auf die Nachbesserung und verlangte Schadenersatz in Höhe der voraussichtlichen Mängelbeseitigungskosten.
+- **Kernaussage**: Weigert sich der Unternehmer, seiner Pflicht zur Verbesserung nachzukommen, stehen dem Besteller die **Wahlrechte von Art. 107 Abs. 2 OR** offen. Er kann auf die Nachbesserung verzichten und Schadenersatz in Höhe des Gegenwerts der geschuldeten unentgeltlichen Verbesserungsleistung fordern oder vom Vertrag zurücktreten.
 
 ---
 
-## 4. Mietvertrag
+## II. Weitere Entscheide (mindestens 5)
 
-### BGE 119 II 147 (1230 Zitate)
-- **Thema**: Zahlungsrückstand des Mieters; Fristansetzung und Kündigung
-- **Kernaussage**: Bestimmung des Beginns der dreissigtägigen Zahlungsfrist. Der Vermieter hat den Ablauf der Zahlungsfrist abzuwarten, bevor er die Kündigung aussprechen darf. Eine während laufender Zahlungsfrist erfolgte Kündigung ist anfechtbar, nicht nur aufschiebend bedingt. *Kontextzitat*: Die Regeste verwendet den Begriff «anfechtbar», nicht «aufschiebend bedingt» — die Kündigung kann mit Rechtsöffnung vollstreckt werden, ist aber der Anfechtung unterworfen.
-- **Einschlägig für**: Abs. 1 (Fristablauf vor Kündigung), Art. 257d OR
+### Verhältnis von Ersatzvornahme und Wahlrechten im Werkvertrag
+**[BGE 126 III 230 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-126-III-230_2000-03-28.html)** (28. März 2000)
+- **Sachverhalt**: Mangelhafte Werkausführung während der Herstellung. Der Besteller drohte dem Unternehmer die Ersatzvornahme nach Art. 366 Abs. 2 OR an, verlangte nach Fristablauf jedoch Schadenersatz wegen Nichterfüllung nach Art. 107 Abs. 2 OR.
+- **Kernaussage**: Das Recht auf Ersatzvornahme schliesst die übrigen Rechtsbehelfe nicht aus. Sind die Voraussetzungen von Art. 366 Abs. 2 OR erfüllt, kann der Besteller anstelle der Ersatzvornahme direkt auf die versprochene Leistung verzichten und Schadenersatz nach Art. 107 Abs. 2 OR fordern oder zurücktreten.
 
-### BGer 4A_647/2015 (49 Zitate)
-- **Thema**: Mietrecht; Nachfristsetzung
-- **Kernaussage**: Anwendung von Art. 107 Abs. 1 OR im Mietrecht. Fristsetzung und Angemessenheit im Kontext des mietrechtlichen Kündigungsschutzes. *Kontextzitat*: Der Bezug zu Art. 107 Abs. 1 OR ist kontextuell — der Entscheid erwähnt Art. 107 nicht explizit im Verfügungstext.
-- **Einschlägig für**: Abs. 1 (Fristsetzung im Mietvertrag)
+### Ersatzvornahme ohne vorherige richterliche Ermächtigung
+**[BGE 107 II 50 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-107-II-50_1981-01-27.html#consideration_3)** (27. Januar 1981)
+- **Sachverhalt**: Die Nandrò Bergbahnen AG liess Mängel an einer Bergbahnanlage nach Weigerung des Unternehmers durch einen Drittbetrieb beheben und forderte die Aufwendungen als Schadenersatz ein.
+- **Kernaussage**: Der Besteller hat in analoger Anwendung von Art. 366 Abs. 2 OR das Recht, die Mängelbeseitigung ohne vorherige richterliche Ermächtigung durch einen Dritten vornehmen zu lassen und vom Unternehmer Kostenersatz zu verlangen.
 
----
+### Zivilprozessuale Schranken bei Klage auf Ersatzvornahme
+**[BGE 142 III 321 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-321_2016.html#consideration_4)** (2016)
+- **Sachverhalt**: Streit um die Erstellung von Parkplätzen. Der Besteller klagte direkt auf gerichtliche Ermächtigung zur Ersatzvornahme nach Art. 98 Abs. 1 OR i.V.m. Art. 343 ZPO, ohne dass zuvor ein Leistungsurteil über die Hauptpflicht vorlag.
+- **Kernaussage**: Steht die Leistungspflicht nicht bereits rechtskräftig fest, kann der Gläubiger nicht direkt auf Ermächtigung zur Ersatzvornahme klagen und die materielle Leistungspflicht vorfrageweise prüfen lassen. Erforderlich ist eine Leistungsklage, allenfalls verbunden mit einem Vollstreckungsbegehren.
 
-## 5. Rücktritt und seine Wirkungen
+### Entbehrlichkeit der Nachfrist bei technischem Scheitern eines Anlagenkonzepts
+**[BGer 4A_232/2011 E. 4 und 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-232-2011_2011-09-20.html)** (20. September 2011)
+- **Sachverhalt**: Ein Schokoladenhersteller bestellte eine robotergestützte Automatisierungsanlage für Schokoladenformen («18 Formen pro Minute»). An der Vorabnahme erreichte die Anlage die Taktzeit nicht. Die Unternehmerin räumte per E-Mail ein, mit ihrem Konzept keine Möglichkeit mehr zu sehen, die geforderte Taktzeit zu erreichen. Der Besteller trat nach rund einem Monat vom Vertrag zurück, während dessen die Parteien über eine Übernahme verhandelt hatten.
+- **Kernaussage**: Mit dem Eingeständnis, das Konzept könne die vereinbarte Leistung nicht erbringen, lag ein Fall von Art. 108 Ziff. 1 OR vor (Nachfrist unnütz). Die Rücktrittserklärung war trotz des Zuwartens von einem Monat nicht verspätet, da in der Zwischenzeit Gespräche über eine modifizierte Übernahme stattfanden und die Unternehmerin keine Spekulation zu befürchten hatte.
 
-### BGE 114 II 152 (93 Zitate)
-- **Thema**: Verjährung der Rücktrittsansprüche
-- **Kernaussage**: Tritt eine Partei wegen Verzuges der andern von einem zweiseitigen Vertrag zurück, so verjährt nicht nur ihre Schadenersatzforderung, sondern auch ihr Anspruch auf Rückgabe des Geleisteten erst mit Ablauf von zehn Jahren (Art. 109 und 127 OR).
-- **Einschlägig für**: Abs. 2 (Rücktritt), Art. 109 OR, Art. 127 OR
+### Angemessenheit einer 5-tägigen Nachfrist zur Wiederaufnahme von Bauarbeiten
+**[AG OG Handelsgericht HOR.2026.12 E. 4](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_009_HOR-2026-12_2026-08-27.pdf)** (27. August 2026)
+- **Sachverhalt**: Kernsanierung einer Liegenschaft. Der Unternehmer stellte Ende April 2025 die Arbeiten ein, forderte unberechtigte Vorschüsse und blieb wochenlang untätig. Der Bauherr setzte am 9. Juli eine Frist bis 14. Juli (5 Tage) zur Arbeitswiederaufnahme. Nach fruchtlosem Ablauf und kurzer Nachfrage erklärte er am 18. Juli den Verzicht auf die Restleistung und forderte Rückzahlung überbezahlter Akontoleistungen.
+- **Kernaussage**: Eine Nachfrist von 5 Tagen zur blossen Wiederaufnahme eingestellter Bauarbeiten ist angemessen. Die Erklärung des Leistungsverzichts nach Art. 366 Abs. 1 i.V.m. Art. 107 Abs. 2 OR am vierten Tag nach Fristablauf erfolgte **unverzüglich**. Zu viel bezahlte Akontozahlungen sind vertraglich zurückzuerstatten.
 
-### BGE 92 II 328 (56 Zitate)
-- **Thema**: Rücktritt unzulässig nach Erfüllung
-- **Kernaussage**: Der Rücktritt vom Vertrag ist unzulässig, wenn der Schuldner bereits erfüllt hat. Die Leistung kann nicht zurückgewiesen werden, wenn sie vertragsmässig erbracht wurde. Voraussetzungen von Art. 375 OR (ungefähren Kostenansatz).
-- **Einschlägig für**: Abs. 2 (Rücktrittsvoraussetzung: Nichterfüllung)
+### Nachfrist zur Arbeitswiederaufnahme und Fristerstreckung durch Vergleichsgespräche
+**[ZH HG HG200129 E. 4.3](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HG200129_2021-07-12.pdf)** (12. Juli 2021)
+- **Sachverhalt**: Streit um die Herstellung einer UV-Harzmattenmaschine. Nach gescheiterten Versuchen weigerte sich die Herstellerin weiterzuarbeiten. Die Bestellerin setzte am 2. September eine Nachfrist von 7 Tagen zur Wiederaufnahme der Arbeiten an. Nach fruchtlosem Ablauf erklärte sie am 10. September den Rücktritt und verlangte Ersatz frustrierter Fabrikhallenmieten.
+- **Kernaussage**: Eine Nachfrist von 7 Tagen für die Wiederaufnahme vertragswidrig eingestellter Arbeiten ist angemessen. Haben die Parteien zuvor monatelang verhandelt, liegt darin eine konkludente Nachfristverlängerung; der Gläubiger verliert sein Recht nicht, nach Scheitern der Gespräche eine neue Frist anzusetzen und danach unverzüglich zurückzutreten.
 
----
-
-## 6. Weitere Entscheide
-
-### BGE 138 III 304 (92 Zitate)
-- **Thema**: Vertragliches Wettbewerbsverbot; Leistungspflicht
-- **Kernaussage**: Vertragliche Verpflichtung, keine Eintragungsgesuche für bestimmte Marken zu stellen, und ihre Einordnung als Leistungspflicht. *Kontextzitat*: Der Entscheid verneint ausdrücklich, dass es sich um ein «anti-suit injunction» handelt; der Bezug zu Art. 107 OR ist tangential — der Entscheid befasst sich primär mit der vertraglichen Leistungspflicht, nicht mit dem Nachfristmodell des Art. 107.
-- **Einschlägig für**: Abs. 1 (vertragliche Pflichten)
-
-### BGer 4A_307/2011 (135 Zitate)
-- **Thema**: Aktienkaufvertrag; Nachfristsetzung
-- **Kernaussage**: Anwendung von Art. 107 Abs. 1 und Abs. 2 OR beim Aktienkaufvertrag. Nachfristsetzung und Ausübung des Wahlrechts nach den allgemeinen Regeln. *Kontextzitat*: Der Bezug zu Art. 107 OR ist kontextuell; der Entscheid befasst sich primär mit dem Aktienkaufvertrag.
-- **Einschlägig für**: Abs. 1, Abs. 2
-
-### BGer 6B_663/2011 (60 Zitate)
-- **Thema**: Gewerbsmässiger Betrug; strafrechtlicher Bezug
-- **Kernaussage**: Bei Betrug (Art. 146 StGB) können vertragsrechtliche Aspekte des Schuldnerverhaltens im Rahmen der Vorsatzbeurteilung relevant sein. *Kontextzitat*: Der Entscheid behandelt primär den Tatbestand des gewerbsmässigen Betrugs nach Art. 146 StGB; der Bezug zu Art. 107 OR ist indirekt und tangential — Art. 107/108 OR wird nicht als «Vorsatzindiz» verwendet.
-- **Einschlägig für**: Abs. 2, Art. 108 OR (strafrechtlicher Bezug)
-
----
-
-## 7. Übersichtstabelle
-
-| Entscheid | Zitate | Thema | Abs.-Bezug |
-|-----------|--------|-------|------------|
-| BGE 119 II 147 | 1230 | Miete: Zahlungsfrist, Kündigung | Abs. 1 |
-| BGE 123 III 16 | 754 | Wahlrecht, Unwiderruflichkeit | Abs. 2 |
-| BGE 103 II 102 | 251 | Mahnung + Fristsetzung | Abs. 1, 2 |
-| BGE 136 III 273 | 139 | Werkvertrag: Verbesserungsverweigerung | Abs. 2 |
-| BGer 4A_307/2011 | 135 | Aktienkaufvertrag | Abs. 1, 2 |
-| BGE 120 II 296 | 122 | Kauf: Schadensberechnung | Abs. 2 |
-| BGE 110 II 141 | 115 | Rücktritt vor Fälligkeit, Reugeld | Abs. 1 |
-| BGE 126 III 230 | 115 | Werkvertrag: mangelhafte Erstellung | Abs. 2 |
-| BGE 116 II 441 | 113 | Kauf: Verzugsschaden, Verfalltag | Abs. 1 |
-| BGE 107 II 50 | 111 | Werkvertrag: Ersatzvornahme | Abs. 2 |
-| BGE 143 III 495 | 100 | Unverzügliche Verzichtserklärung | Abs. 2, Art. 108 |
-| BGE 114 II 152 | 93 | Verjährung bei Rücktritt | Abs. 2, Art. 109 |
-| BGE 138 III 304 | 92 | Vertragliches Wettbewerbsverbot | Abs. 1 |
-| BGE 98 II 113 | 80 | Werkvertrag: Nachfrist für Rücktritt | Abs. 1 |
-| BGE 90 II 285 | 58 | Kauf: sofortige Rücktrittserklärung | Abs. 2 |
-| BGer 6B_663/2011 | 60 | Betrug: Art. 107 OR als Vorsatzindiz | Abs. 2 |
-| BGE 92 II 328 | 56 | Rücktritt nach Erfüllung unzulässig | Abs. 2 |
-| BGE 142 III 321 | 54 | Ersatzvornahme, Art. 98 OR | Abs. 2 |
-| BGE 116 II 436 | 49 | Kaufmännischer Verzug, Frist | Abs. 1, Art. 108 |
-| BGer 4A_647/2015 | 49 | Miete: Nachfristsetzung | Abs. 1 |
-| BGer 4C.90/2005 | 49 | Werkvertrag: Art. 107 + 108 OR | Abs. 1 |
-
----
-
-*Letzte Aktualisierung: 14. August 2026*
+### Rücktritt ohne Nachfrist nach mehrjähriger Zahlungsverweigerung
+**[ZH OG NP210021 E. 3 und 4](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_NP210021_2021-12-09.pdf)** (9. Dezember 2021)
+- **Sachverhalt**: Eine Kundin zahlte Fr. 20'000.– im Voraus für Trainingseinheiten und Finanzierung eines EMS-Trainingsgeräts. Nach Widerruf verweigerte der Trainer über zwei Jahre lang jegliche Rückzahlung in Geld und erhob Rechtsvorschlag. Die Kundin trat gestützt auf Art. 107 Abs. 2 i.V.m. Art. 108 Ziff. 1 OR ohne Nachfrist zurück und forderte das Geld nebst vorprozessualen Anwaltskosten.
+- **Kernaussage**: Nach mehrjähriger beharrlicher Zahlungsverweberung und Rechtsvorschlag ist eine Nachfrist nach Art. 108 Ziff. 1 OR zwecklos. Vorprozessuale Anwaltskosten sind als negatives Interesse nach Art. 109 Abs. 2 OR nur insoweit ersatzfähig, als sie für die Vertragsgestaltung oder den Rücktritt anfielen, nicht aber für die allgemeine Rechtsdurchsetzung.
