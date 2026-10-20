@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 56 StPO"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-10-16
+lastmod: 2026-10-20
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 56 StPO: Leitentscheide zu persönlichem Interesse, Vorbefassung, Verwandtschaft und Befangenheitsanschein."
 tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit", "Gerichtsschreiber"]
 agent_verified: true
 revisions:
+  - date: 2026-10-20
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 7B_890/2026 vom 2. September 2026 (Ausstand der Staatsanwaltschaft wegen Kumulation rechtskräftig festgestellter Verfahrensfehler und mangelnder Ergebnisoffenheit; Rechtzeitigkeit ab dem Moment, in dem der letzte Tropfen das Fass zum Überlaufen bringt)."
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -165,6 +170,13 @@ revisions:
 - **Thema**: Aktenbeizugs- und Gehörspflicht der Ausstandsinstanz bei Rüge von Verfahrensfehlern
 - **Kernaussage**: Wird die Befangenheit von Justizpersonen (hier: Bezirksrichtern) aus deren konkreter Verfahrensleitung abgeleitet, darf die kantonale Ausstandsinstanz das Gesuch nicht abweisen, ohne die entscheidwesentlichen Verfahrensakten beizuziehen. Die Nichtanforderung der Akten und die daraus resultierende Verweigerung der Akteneinsicht an die gesuchstellende Partei verletzt deren verfassungsrechtlichen Anspruch auf rechtliches Gehör nach Art. 29 Abs. 2 BV und Art. 3 Abs. 2 lit. c StPO.
 - **Einschlägig für**: Art. 56 lit. f, Art. 58 und Art. 59 StPO i.V.m. Art. 29 Abs. 2 BV (Aktenbeizug, rechtliches Gehör)
+
+---
+
+### [BGer 7B_890/2026 vom 2. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_7B_890/2026)
+- **Thema**: Ausstand der Staatsanwaltschaft wegen Kumulation von Verfahrensfehlern und mangelnder Ergebnisoffenheit (lit. f)
+- **Kernaussage**: Befangenheit ist nach Art. 56 lit. f StPO nicht leichthin anzunehmen. Die Rechtsprechung anerkennt jedoch die **Kumulationsdoktrin**: Auch wenn kein einzelner Vorfall für sich allein die Schwelle zur schweren Amtspflichtverletzung überschreitet, kann die Gesamtschau rechtskräftig festgestellter Verfahrensfehler (hier: zwei Rechtsverzögerungen, Verletzung von Teilnahmerechten und rund 4¾ Jahre ohne vertiefte Ermittlungsanalyse und ergebnisoffene Befragung der Beschuldigten) den objektiven Anschein der Befangenheit und Voreingenommenheit zu Lasten der Privatklägerschaft begründen. Die gesuchstellende Partei darf sich auch auf rechtskräftige Verfahrensfehler berufen, die in Akten ohne eigene Parteistellung festgestellt wurden. Bei einer Kette von Fehlleistungen ist das Gesuch nach Art. 58 Abs. 1 StPO rechtzeitig gestellt, sobald nach Auffassung der Partei «der letzte Tropfen das Fass zum Überlaufen gebracht hat» ([E. 3.2 und 4 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_7B_890/2026)).
+- **Einschlägig für**: Art. 56 lit. f StPO, Art. 58 Abs. 1 StPO (Fehlerkumulation, Ergebnisoffenheit, Rechtzeitigkeit des Gesuchs)
 
 ---
 
