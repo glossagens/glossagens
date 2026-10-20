@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-10-06
-description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht, antizipierte Beweiswürdigung, Begründungspflicht, Wiedererwägungsanspruch und unentgeltliche Rechtspflege, Ausstandsgesuch und Fristwiederherstellung (BGer 7B_15/2026) sowie kantonale Rechtsprechung zur unentgeltlichen Verbeiständung (VG ZH VB.2026.00244)."
-tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "Ausstand", "Fristwiederherstellung", "Offizialmaxime", "Eingrenzung"]
+lastmod: 2026-10-20
+description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht und Massnahmeverfahren (BGer 1C_411/2026), antizipierte Beweiswürdigung, Begründungspflicht bei Dass-Entscheiden (BGer 1C_524/2026), Akteneinsicht vs. Replikrecht (BGer 1C_396/2026), Überraschungsverbot bei Kündigung (BVGer A-3785/2025), Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
+tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "vorsorgliche Massnahmen", "Akteneinsicht", "Dass-Entscheid"]
 agent_verified: true
 revisions:
+  - date: 2026-10-20
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von vier neuen Entscheiden der letzten drei Wochen zu Art. 29 Abs. 2 BV: (1) BGer 1C_396/2026 und 1C_397/2026 vom 6. Oktober 2026: Nichtbehandlung eines Akteneinsichtsgesuchs führt als formeller Gehörsmangel zwingend zur Aufhebung, während beim Replikrecht das Kausalitätserfordernis greift; (2) BGer 1C_411/2026 vom 1. Oktober 2026: Eingeschränkte Tragweite des Replikrechts bei vorsorglichen Massnahmen und Begründungsdichte; (3) BGer 1C_524/2026 vom 29. September 2026: Verfassungsrechtliche Begründungspflicht und Rügeobliegenheit bei 'Dass-Entscheiden'; (4) BVGer A-3785/2025 vom 30. September 2026: Rechtliches Gehör und Überraschungsverbot vor fristloser Kündigung im öffentlich-rechtlichen Personalrecht."
   - date: 2026-10-06
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -213,6 +218,38 @@ revisions:
 
 ---
 
+#### [BGer 1C_396/2026 und 1C_397/2026 vom 6. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2026)
+- **Thema**: Akteneinsichtsgesuch als zwingender formeller Gehörsmangel; Kausalitätserfordernis beim Replikrecht
+- **Kernaussage**: Ignoriert ein Gericht ein Akteneinsichtsgesuch in einem Verfahren, in dem die Einsprache- oder Beschwerdelegitimation umstritten ist, liegt eine Verletzung des rechtlichen Gehörs (Art. 29 Abs. 2 BV) vor. Dieser Gehörsmangel ist formeller Natur und führt zwingend — ungeachtet der materiellen Erfolgsaussichten in der Sache — zur Aufhebung des angefochtenen Entscheids (E. 4). Demgegenüber ist das Replikrecht kein blosser Selbstzweck: Wird ein Entscheid vor Ablauf der 10-tägigen Bedenkzeit gefällt (hier nach 8 Tagen), führt dies nur dann zur Aufhebung, wenn dargelegt wird, dass die Partei bei Gewährung der Frist Ausführungen hätte machen können, die den Verfahrensausgang hätten beeinflussen können (E. 3).
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Akteneinsichtsrecht; Replikrecht; formelle Natur des Gehörsanspruchs; Star-Praxis
+- **Relevante Erwägungen**: E. 2, E. 3 und E. 4
+
+---
+
+#### [BGer 1C_411/2026 vom 1. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html)
+- **Thema**: Replikrecht bei vorsorglichen Massnahmen und aufschiebender Wirkung; Begründungsdichte
+- **Kernaussage**: Dem aus Art. 29 Abs. 2 BV fliessenden Replikrecht kommt in Verfahren über vorsorgliche Massnahmen (inkl. aufschiebende Wirkung) nicht dieselbe Tragweite zu wie im Verfahren über die Hauptsache. Da vorsorgliche Anordnungen dringlich sind und rasch getroffen werden müssen, braucht die Behörde grundsätzlich keinen zweiten Schriftenwechsel durchzuführen; das Gehör ist mit Einreichung des Gesuchs gewahrt. Ein Recht auf Replik besteht nur ausnahmsweise, wenn die Gesuchsantwort neue, entscheidrelevante Tatsachen enthält und sich das Gericht darauf stützen will. Die Begründungspflicht verlangt nicht die Widerlegung sämtlicher Argumente; die Beschränkung auf die massgebliche Überlegung (hier: unzulässige Vorwegnahme der Hauptsache) genügt verfassungsrechtlich.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Replikrecht; vorsorgliche Massnahmen; aufschiebende Wirkung; Begründungsdichte; Vorwegnahme der Hauptsache
+- **Relevante Erwägungen**: E. 2.2 und E. 3.2 f.
+
+---
+
+#### [BGer 1C_524/2026 vom 29. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-524-2026_2026-09-29.html)
+- **Thema**: Begründungspflicht nach Art. 29 Abs. 2 BV und Art. 112 BGG bei «Dass-Entscheiden»
+- **Kernaussage**: Eine Entscheidbegründung, die über mehrere Seiten hinweg in einem einzigen fortlaufenden Bandwurmsatz als sogenannter «Dass-Entscheid» abgefasst ist, erschwert die Lesbarkeit und Nachvollziehbarkeit erheblich und tangiert Art. 29 Abs. 2 BV sowie Art. 112 Abs. 1 lit. b BGG. Eine Aufhebung bzw. Rückweisung unterbleibt jedoch, wenn der Entscheid trotz der «Dass-Form» im Ergebnis gerade noch hinreichend verständlich und nachvollziehbar ist und die Partei die Gehörsverletzung vor Bundesgericht nicht qualifiziert rügt (Art. 106 Abs. 2 BGG).
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Begründungspflicht; Art. 112 BGG; Dass-Entscheid; Verständlichkeit; qualifizierte Rügepflicht
+- **Relevante Erwägungen**: E. 3.2
+
+---
+
+#### [BVGer A-3785/2025 vom 30. September 2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-3785-2025_2026-09-30.pdf)
+- **Thema**: Rechtliches Gehör und Überraschungsverbot vor fristloser Kündigung im öffentlich-rechtlichen Dienstverhältnis
+- **Kernaussage**: Der verfassungsrechtliche Anspruch auf rechtliches Gehör nach Art. 29 Abs. 2 BV i.V.m. Art. 30 Abs. 1 VwVG verlangt, dass dem Angestellten vor dem Erlass einer fristlosen Kündigung die konkreten Vorwürfe eröffnet werden und ihm Gelegenheit geboten wird, sich dazu zu äussern. Eine fristlose Auflösung des öffentlich-rechtlichen Arbeitsverhältnisses ohne vorgängige Anhörung stellt eine schwerwiegende Verletzung des Gehörsanspruchs dar.
+- **Einschlägig für**: Art. 29 Abs. 2 BV; Art. 30 VwVG; rechtliches Gehör; Überraschungsverbot; öffentlich-rechtliches Arbeitsverhältnis; fristlose Kündigung
+- **Relevante Erwägungen**: E. 3.2 und E. 3.2.1
+
+---
+
 ### III. Kantonale Entscheide
 
 #### [VG ZH VB.2026.00244 vom 15. September 2026](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00244_2026-09-15.html)
@@ -224,4 +261,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 6. Oktober 2026*
+*Letzte Aktualisierung: 20. Oktober 2026*

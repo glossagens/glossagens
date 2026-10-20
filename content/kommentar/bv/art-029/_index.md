@@ -2,11 +2,16 @@
 title: "Art. 29 BV — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit", "Offizialmaxime", "Eingrenzung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-20
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Umfassende Einarbeitung der jüngsten Rechtsprechung der letzten drei Wochen zu Art. 29 Abs. 2 BV: (1) BGer 1C_396/2026 und 1C_397/2026 (06.10.2026) zur dogmatischen Grenzziehung zwischen unbehandeltem Akteneinsichtsgesuch (formeller Mangel führt zwingend zur Aufhebung) und Replikrecht (Kausalitätserfordernis; Gehör kein Selbstzweck); (2) BGer 1C_411/2026 (01.10.2026) zur eingeschränkten Tragweite des Replikrechts in Verfahren über vorsorgliche Massnahmen/aufschiebende Wirkung sowie zur Begründungsdichte; (3) BGer 1C_524/2026 (29.09.2026) zu den verfassungsrechtlichen Grenzen bandwurmartiger «Dass-Entscheide» unter Art. 29 Abs. 2 BV und Art. 112 BGG; (4) BVGer A-3785/2025 (30.09.2026) zum Überraschungsverbot und der zwingenden Anhörung vor fristloser Kündigung im öffentlich-rechtlichen Dienstverhältnis."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -209,7 +214,21 @@ Das Bundesgericht umschreibt den Umfang der Akteneinsicht weit:
 #### 2. Geheimhaltungsinteressen und Aussonderung
 Stehen der Akteneinsicht überwiegende Geheimhaltungsinteressen Dritter oder des Staates entgegen, dürfen Aktenstücke nur dann zum Nachteil der Partei verwendet werden, wenn ihr der wesentliche Inhalt mindestens mündlich oder durch eine schriftliche Zusammenfassung mitgeteilt wurde, sodass sie dazu Stellung nehmen konnte.
 
-> **Merksatz.** Es gibt keine «geheimen Akten» im Verwaltungsverfahren: Was dem Betroffenen vorenthalten wird, darf bei der Entscheidfindung nicht zu seinem Nachteil verwertet werden. Stützt die Behörde ihren Entscheid dennoch auf nicht offengelegte Unterlagen, liegt ein schwerer Gehörsmangel vor.
+#### 3. Unbehandeltes Akteneinsichtsgesuch: Formeller Gehörsmangel ohne Kausalitätserfordernis
+Werden Parteirechte im behördlichen oder gerichtlichen Verfahren beschnitten, unterscheidet das Bundesgericht strikt zwischen verschiedenen Ausprägungen des Gehörsanspruchs:
+- Während bei der Verletzung des Äusserungs- oder Replikrechts das Prinzip gilt, dass das rechtliche Gehör kein blosser Selbstzweck ist und eine Aufhebung voraussetzt, dass die Partei darlegt, welche entscheidwesentlichen Ausführungen sie hätte machen wollen (Kausalitätserfordernis; → Abschnitt F), gilt für das **unbehandelte Akteneinsichtsgesuch** eine strenge Ausnahme:
+- Ignoriert ein Gericht oder eine Verwaltungsbehörde ein formell gestelltes Akteneinsichtsgesuch — namentlich in Verfahren, in denen die Parteistellung oder Einspracheberechtigung strittig ist —, liegt eine **Verletzung von Art. 29 Abs. 2 BV formeller Natur** vor. Diese führt **zwingend und ungeachtet der materiellen Erfolgsaussichten** zur Gutheissung der Beschwerde, Aufhebung des angefochtenen Entscheids und Rückweisung der Sache ([BGer 1C_396/2026 und 1C_397/2026 vom 6. Oktober 2026, E. 4](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2026); [BGE 147 I 433 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-147-I-433_2021.html#consideration_5.1)).
+- *Ratione*: Von der Partei kann nicht verlangt werden, im Voraus darzulegen, welche rechtserheblichen Schlüsse sie aus Dokumenten ziehen will, deren konkreten Inhalt sie mangels Einsichtnahme gar nicht kennen kann. Das Akteneinsichtsrecht ist das logische Eingangstor zu allen weiteren Parteirechten.
+
+#### 4. Grenzkasuistik: Akteneinsichtsrecht
+
+| Sachverhalt / Konstellation | Beurteilung | Entscheid |
+|---|---|---|
+| Partei verlangt in Baubeschwerdeverfahren Akteneinsicht zur Stützung ihrer Einsprachelegitimation; Gericht fällt Nichteintretensurteil, ohne das Gesuch zu behandeln | **Gehörsverletzung bejaht**; unbehandeltes Akteneinsichtsgesuch führt als formeller Mangel zwingend zur Aufhebung, Kausalität muss nicht dargelegt werden | [BGer 1C_396/2026 E. 4](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2026) |
+| Behörde stützt Entscheid auf interne Aktenstücke, die der Partei unter Verweis auf Geheimhaltungsinteressen ohne inhaltliche Zusammenfassung vorenthalten wurden | **Gehörsverletzung bejaht**; unzulässige Verwertung geheimer Beweismittel ohne Gehörsgewährung | [BGE 144 II 427 E. 3.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-427_2018.html#consideration_3.1.1) |
+| Ausstandsinstanz weist Ablehnungsgesuch gegen Richter ab, ohne die massgebenden Verfahrensakten beizuziehen und Einsicht zu gewähren | **Gehörsverletzung bejaht**; Verweigerung der Akteneinsicht in entscheidwesentliche Verfahrensgrundlagen verletzt Art. 29 Abs. 2 BV | [BGer 7B_1237/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1237-2025_2026-09-08.html) |
+
+> **Merksatz.** Es gibt keine «geheimen Akten» im Verwaltungsverfahren: Was dem Betroffenen vorenthalten wird, darf bei der Entscheidfindung nicht zu seinem Nachteil verwertet werden. Bleibt ein Akteneinsichtsgesuch unbehandelt liegen, ist der Entscheid unabhängig von den materiellen Erfolgsaussichten aufzuheben.
 
 ---
 
@@ -239,15 +258,27 @@ Eine versicherte Person sandte ihrem amtlichen Verteidiger eine private E-Mail m
 
 ([BGer 9C_278/2026 E. 5 und 6.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_9C-278-2026_2026-06-30.html)).
 
-#### 4. Grenzkasuistik: Replikrecht
+#### 4. Grenzen: Gehör kein Selbstzweck beim Replikrecht (Kausalitätserfordernis)
+Im Unterschied zum unbehandelten Akteneinsichtsgesuch ist das Replikrecht kein blosser Selbstzweck. Das Bundesgericht verlangt bei gerügter Verletzung des Replikrechts, dass die Partei darlegt, inwiefern die unterbliebene Gehörsgewährung einen Einfluss auf den Verfahrensausgang hätte haben können ([BGE 147 III 586 E. 5.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-586_2021.html#consideration_5.2.1)). Enthält eine Duplik der Gegenpartei lediglich knappe Wiederholungen bereits bekannter Tatsachen und schweigt sich die Partei darüber aus, was sie hätte replizieren wollen, führt das vorzeitige Urteilen des Gerichts vor Ablauf der 10-Tage-Frist ausnahmsweise nicht zur Aufhebung ([BGer 1C_396/2026 vom 6. Oktober 2026, E. 3](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2026)).
+
+#### 5. Replikrecht im summarischen Verfahren und bei vorsorglichen Massnahmen
+Dem aus Art. 29 Abs. 2 BV fliessenden Replikrecht kommt in Verfahren über vorsorgliche Massnahmen (einschliesslich Gesuchen um Erteilung, Entzug oder Wiederherstellung der aufschiebenden Wirkung) nicht dieselbe Tragweite zu wie im Verfahren über die Hauptsache ([BGer 1C_411/2026 vom 1. Oktober 2026, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html); [BGE 139 I 189 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-189_2013.html)).
+
+- **Dringlichkeitsnatur vorsorglicher Verfügungen**: Es liegt im Wesen vorläufiger Anordnungen, dass sie rasch getroffen werden müssen, um einen nicht wieder gutzumachenden Nachteil abzuwenden. Sofern keine besonderen Umstände vorliegen, braucht die entscheidende Behörde vor Erlass einer vorsorglichen Massnahme daher keinen zweiten Schriftenwechsel durchzuführen.
+- **Gehörsanspruch mit Gesuchseingabe gewahrt**: Der Anspruch auf rechtliches Gehör der gesuchstellenden Partei ist mit der Einreichung ihres Massnahmegesuchs grundsätzlich erfüllt. Dies rechtfertigt sich auch daraus, dass Entscheide über vorsorgliche Massnahmen summarischer Natur und nicht unabänderlich sind: Ändern sich die Verhältnisse, kann die Partei jederzeit eine Neubeurteilung beantragen.
+- **Ausnahme bei echten Nova in der Gegenäusserung**: Ein Replikrecht besteht im Massnahmeverfahren nur ausnahmsweise, wenn die Vernehmlassung der Gegenpartei neue, entscheidrelevante Tatsachen enthält und das Gericht beabsichtigt, seinen Entscheid darauf abzustützen ([BGer 1C_411/2026 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html)).
+
+#### 6. Grenzkasuistik: Replikrecht
 
 | Konstellation | Beurteilung | Entscheid |
 |---|---|---|
 | Zustellung der Klageantwort zur blossen Kenntnisnahme; Fällung des Endentscheids bereits am 4. Tag nach Zustellung | **Gehörsverletzung bejaht**; Missachtung der 10-tägigen Mindestwartezeit verletzt das Replikrecht | [BGE 144 III 117 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-117_2018.html#consideration_2) |
+| Gericht entscheidet über vorsorgliche Betriebsbewilligung ohne zweiten Schriftenwechsel nach Eingang der Vernehmlassungen | **Keine Gehörsverletzung**; im Verfahren über vorsorgliche Massnahmen besteht grundsätzlich kein Anspruch auf Replik, sofern keine neuen entscheidrelevanten Tatsachen vorliegen | [BGer 1C_411/2026 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html) |
+| Gericht fällt Urteil 8 Tage nach Zustellung der Duplik; Duplik enthält keine neuen Tatsachen und Partei legt nicht dar, was sie hätte vorbringen wollen | **Keine Aufhebung**; Replikrecht ist kein Selbstzweck, Kausalität der Gehörsverletzung für den Verfahrensausgang fehlt | [BGer 1C_396/2026 E. 3](https://mcp.opencaselaw.ch/entscheid/bger_1C_396_2026) |
 | Zustellung einer Stellungnahme zur Kenntnisnahme; die anwaltlich vertretene Partei wartet 25 Tage ab und rügt erst mit der Beschwerde gegen das Urteil, sie hätte noch replizieren wollen | **Keine Gehörsverletzung**; nach 10 Tagen durfte das Gericht von einem Replikverzicht ausgehen | [BGE 138 I 484 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-484_2012.html#consideration_2.5) |
 | Nachträgliche Klageänderung durch eine Partei; Gericht stellt die Eingabe der Gegenpartei nur zur Kenntnisnahme zu | **Gehörsverletzung bejaht**; bei Klageänderungen muss zwingend förmlich Frist zur Vernehmlassung gesetzt werden | [BGE 142 III 48 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-48_2016.html#consideration_4.3) |
 
-> **Merksatz.** Geht eine Eingabe der Gegenseite «zur Kenntnisnahme» ein, beginnt sofort eine informelle 10-Tage-Frist zu laufen. Wer sich äussern will, muss innert dieser Frist handeln (Stellungnahme einreichen oder Fristansetzung beantragen) — wer zuwartet, verliert sein Replikrecht endgültig.
+> **Merksatz.** Geht eine Eingabe der Gegenseite «zur Kenntnisnahme» ein, beginnt sofort eine informelle 10-Tage-Frist zu laufen. Wer sich äussern will, muss innert dieser Frist handeln (Stellungnahme einreichen oder Fristansetzung beantragen) — wer zuwartet, verliert sein Replikrecht endgültig. Eine Rüge verfängt nur, wenn die Partei aufzeigt, welche entscheidwesentlichen Punkte sie noch hätte einbringen wollen. Im summarischen Massnahmeverfahren besteht mangels neuer Tatsachen kein Anspruch auf einen zweiten Schriftenwechsel.
 
 ---
 
@@ -296,6 +327,8 @@ Die aus Art. 29 Abs. 2 BV fliessende Begründungspflicht verpflichtet die Behör
 
 ([BGE 136 I 229 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html#consideration_5.2); [BGE 142 II 218 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-218_2016.html#consideration_2.4.1); [BGer 5A_131/2026 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-131-2026_2026-08-17.html)).
 
+Die Behörde genügt ihrer Begründungspflicht daher bereits, wenn sie die wesentlichen Erwägungen nennt, von denen sie sich hat leiten lassen. Beschränkt sich ein Gericht bei der Abweisung eines vorsorglichen Bewilligungsgesuchs auf den Einwand der unzulässigen Vorwegnahme des Hauptsacheentscheids, muss es sich nicht zusätzlich mit materiellen Einzelfragen (wie einer allfälligen vorbestehenden Bewilligungslage) befassen; dies ist eine Frage der materiellen Rechtsanwendung, nicht der verfassungsrechtlichen Begründungsdichte ([BGer 1C_411/2026 vom 1. Oktober 2026, E. 3.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html)).
+
 #### 2. Star-Praxis und ihre prozessualen Grenzen
 Nach der sogenannten «Star-Praxis» ([BGE 114 Ia 307 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_002_BGE-114-IA-307_1988-01-22.html#consideration_3.c)) kann eine Partei, die in der Sache selbst nicht beschwerdelegitimiert ist, dennoch die Verletzung von Verfahrensrechten rügen, deren Missachtung einer formellen Rechtsverweigerung gleichkommt.
 
@@ -303,22 +336,37 @@ Das Bundesgericht begrenzt diese Praxis streng:
 - Die Rüge fehlender Begründung ist unter der Star-Praxis nur zulässig, wenn der angefochtene Entscheid **völlig unbegründet** ist.
 - Eine bloss knappe, unvollständige oder im Ergebnis unzutreffende Begründung kann von einer in der Sache nicht legitimierten Person (z.B. einem Privatkläger ohne nachgewiesenen Zivilanspruch) nicht gerügt werden ([BGer 7B_1038/2025 vom 2. Juli 2026, E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1038-2025_2026-07-02.html)).
 
-#### 3. Überraschungsverbot: Kostenauferlegung an den Rechtsvertreter
-Ein Entscheid verletzt das rechtliche Gehör als unzulässiger Überraschungsentscheid, wenn die Behörde ihren Entscheid auf Rechtsnormen oder Tatsachen stützt, mit denen die Parteien vernünftigerweise nicht rechnen mussten.
+#### 3. Überraschungsverbot: Pönalfolgen und schwerwiegende Eingriffe
+Ein Entscheid verletzt das rechtliche Gehör als unzulässiger Überraschungsentscheid, wenn die Behörde ihren Entscheid auf Rechtsnormen oder Tatsachen stützt, mit denen die Parteien vernünftigerweise nicht rechnen mussten, oder eine Sanktion verhängt, ohne die betroffene Person vorgängig dazu anzuhören.
 
-Das Bundesgericht beurteilte einen Fall, in dem das Verwaltungsgericht Zürich in einem Rückweisungsentscheid die Verfahrenskosten gestützt auf § 13 Abs. 2 VRG/ZH direkt dem Rechtsanwalt persönlich wegen «trölerischer Prozessführung» überband, ohne ihm zuvor Gelegenheit zur Stellungnahme zu geben:
+- **Kostenauferlegung an den Rechtsvertreter**: Das Bundesgericht beurteilte einen Fall, in dem das Verwaltungsgericht Zürich in einem Rückweisungsentscheid die Verfahrenskosten direkt dem Rechtsanwalt persönlich wegen angeblich trölerischer Prozessführung überband, ohne ihm zuvor Gelegenheit zur Stellungnahme zu geben:
+  > «Die Feststellung einer Verletzung des Anspruchs auf rechtliches Gehör (Art. 29 Abs. 2 BV) ist begründet, weil die Vorinstanz dem Rechtsvertreter im vorliegenden Fall keine Möglichkeit eingeräumt hatte, sich vorab zu einer allfälligen Kostenauferlegung zu äussern.»
+  ([BGE 150 I 174 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-174_2024.html#consideration_4)).
+- **Fristlose Kündigung im öffentlich-rechtlichen Arbeitsverhältnis**: Bei gravierenden administrativen Massnahmen wie der fristlosen Entlassung aus dem Bundes- oder Kantonsdienst verlangt Art. 29 Abs. 2 BV (i.V.m. Art. 30 Abs. 1 VwVG) zwingend, dass dem Angestellten die konkreten Kündigungsvorwürfe eröffnet werden und ihm Gelegenheit geboten wird, sich vor Erlass der Verfügung dazu zu äussern; eine fristlose Kündigung «aus heiterem Himmel» verletzt das rechtliche Gehör ([BVGer A-3785/2025 vom 30. September 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-3785-2025_2026-09-30.pdf)).
 
-> «Die Feststellung einer Verletzung des Anspruchs auf rechtliches Gehör (Art. 29 Abs. 2 BV) ist begründet, weil die Vorinstanz dem Rechtsvertreter im vorliegenden Fall keine Möglichkeit eingeräumt hatte, sich vorab zu einer allfälligen Kostenauferlegung zu äussern.»
+#### 4. Darstellungsform der Begründung: Das Problem des «Dass-Entscheids»
+Die verfassungsrechtliche Begründungspflicht nach Art. 29 Abs. 2 BV sowie die bundesrechtlichen Eröffnungsvorschriften (Art. 112 Abs. 1 lit. b BGG) stellen auch Mindestanforderungen an die formale Fasslichkeit eines Urteils:
+- Ein sogenannter **«Dass-Entscheid»**, bei dem die gesamte behördliche oder gerichtliche Urteilsbegründung über mehrere Seiten hinweg in einem einzigen fortlaufenden Bandwurmsatz abgefasst ist («in Erwägung, dass ... und dass ... und dass ...»), erschwert die Lesbarkeit und Nachvollziehbarkeit für Parteien und Rechtsmittelinstanzen erheblich.
+- Das Bundesgericht hat Gerichte und Behörden wiederholt gemahnt, von dieser unzeitgemässen Abfassungspraxis Abstand zu nehmen ([BGer 1C_524/2026 vom 29. September 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-524-2026_2026-09-29.html); [BGer 1C_202/2025 vom 1. Mai 2025, E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-202-2025_2025-05-01.html)).
+- **Konsequenz für das Rechtsmittelverfahren**: Eine stilistisch verunglückte «Dass-Form» führt für sich allein jedoch noch nicht zwingend zur Aufhebung nach Art. 112 Abs. 3 BGG oder zur Kassation wegen Art. 29 Abs. 2 BV. Bleibt der Sinn des Entscheids trotz der unglücklichen Schachtelsatzkonstruktion im Ergebnis gerade noch hinreichend verständlich und nachvollziehbar und rügt der Beschwerdeführer keine spezifische Gehörsverletzung nach Art. 106 Abs. 2 BGG, rechtfertigt die Darstellungsform keine Rückweisung ([BGer 1C_524/2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-524-2026_2026-09-29.html)).
 
-([BGE 150 I 174 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-174_2024.html#consideration_4)).
-
-#### 4. Heilung von Gehörsverletzungen im Rechtsmittelverfahren
+#### 5. Heilung von Gehörsverletzungen im Rechtsmittelverfahren
 Eine Verletzung des rechtlichen Gehörs kann ausnahmsweise geheilt werden, wenn:
 1. die Rechtsmittelinstanz über dieselbe Kognition in Tat- und Rechtsfragen verfügt wie die Vorinstanz;
 2. der Mangel nicht schwerwiegend ist; und
 3. der Partei aus der Heilung kein unzumutbarer Rechtsverlust (z.B. Verlust einer Tatsacheninstanz bei Kostenfolgen) erwächst ([BGE 137 I 195 E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-195_2011.html#consideration_2.3.2)).
 
-> **Merksatz.** Die Begründungspflicht verlangt kein episches Eingehen auf jede Randbemerkung. Massgebend ist, dass die tragenden Überlegungen genannt werden. Beabsichtigt das Gericht eine Massnahme mit Pönalecharakter (Disziplinarbusse, Kostenüberbindung an den Anwalt), greift das Überraschungsverbot: Ohne vorherige Anhörung ist die Sanktion verfassungswidrig.
+#### 6. Grenzkasuistik: Begründungspflicht und Überraschungsverbot
+
+| Sachverhalt / Konstellation | Beurteilung | Entscheid |
+|---|---|---|
+| Auferlegung der Gerichts- und Parteikosten an den Rechtsanwalt persönlich wegen mutmasslich trölerischer Prozessführung ohne vorherige Anhörung | **Gehörsverletzung bejaht**; unzulässiger Überraschungsentscheid bei Sanktionen mit Pönalecharakter | [BGE 150 I 174 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-174_2024.html#consideration_4) |
+| Fristlose Kündigung des öffentlich-rechtlichen Arbeitsverhältnisses durch Verfügung ohne vorherige Einräumung des rechtlichen Gehörs zu den Kündigungsgründen | **Gehörsverletzung bejaht**; schwerwiegender Eingriff verlangt zwingend vorgängige Anhörung (Art. 29 Abs. 2 BV, Art. 30 VwVG) | [BVGer A-3785/2025 E. 3.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-3785-2025_2026-09-30.pdf) |
+| Abweisung eines vorsorglichen Bewilligungsgesuchs gestützt ausschliesslich auf das Verbot der Vorwegnahme der Hauptsache ohne Eingehen auf Nebenargumente | **Zulässig**; Begründungspflicht erfordert keine Widerlegung jedes einzelnen Arguments; Hauptüberlegung war sachgerecht anfechtbar | [BGer 1C_411/2026 E. 3.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-411-2026_2026-10-01.html) |
+| Entscheidbegründung über fünf Seiten hinweg in einem einzigen fortlaufenden Bandwurmsatz («Dass-Entscheid») | **Zulässig (gerade noch)**; erschwert Lesbarkeit massiv, rechtfertigt aber keine Aufhebung, wenn der Kern nachvollziehbar bleibt und keine qualifizierte Rüge erhoben wird | [BGer 1C_524/2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-524-2026_2026-09-29.html) |
+| Privatkläger rügt mangelhafte Urteilsbegründung gestützt auf die Star-Praxis | **Unzulässig**; Star-Praxis greift bei Begründungsmängeln nur bei vollständigem Begründungsfehlen, nicht bei bloss knappen oder unvollständigen Erwägungen | [BGer 7B_1038/2025 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1038-2025_2026-07-02.html) |
+
+> **Merksatz.** Die Begründungspflicht verlangt kein episches Eingehen auf jede Randbemerkung. Massgebend ist, dass die tragenden Überlegungen genannt werden. Beabsichtigt das Gericht eine Massnahme mit Pönalecharakter (Disziplinarbusse, Kostenüberbindung an den Anwalt) oder eine fristlose Kündigung, greift das Überraschungsverbot: Ohne vorherige Anhörung ist der Hoheitsakt verfassungswidrig. Antiquierte «Dass-Entscheide» sind zwar prozessual verpönt, führen aber erst dann zur Aufhebung, wenn der Entscheid schlechterdings unbegreiflich wird.
 
 ---
 
