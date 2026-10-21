@@ -12,6 +12,10 @@ tools:
   - mcp__entscheidsuche__search_by_case_number
   - mcp__entscheidsuche__search
   - mcp__entscheidsuche__fetch_document
+  - mcp_opencaselaw_get_article_purpose
+  - mcp_opencaselaw_get_article_history
+  - mcp_opencaselaw_get_materialien
+  - mcp_opencaselaw_search_botschaft
 metadata:
   glossagens:
     category: legal-commentary-style
@@ -79,9 +83,10 @@ Der Sinn der Regel: Wer den Kommentar zur Hand nimmt, prüft einen eigenen Fall.
 Vor dem Schreiben wird die Norm zerlegt:
 
 1. **Wortlaut verbatim aus Fedlex** holen, Absatz für Absatz (nie aus dem Gedächtnis). Im Artikel steht er nur als `{{< wortlaut >}}` (Daten: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}`).
-2. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
-3. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
-4. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
+2. **Gesetzgeberische Ideen und Zwecke eruieren**: Vor dem Aufstellen der Merkmale ist zwingend anhand der Gesetzesmaterialien (`get_article_purpose`, `get_article_history`, `get_materialien`) zu klären, welche gesetzgeberischen Ideen, Zwecke und Motive (Ratio Legis) der Norm bei ihrer Schaffung und bei allfälligen Revisionen zugrunde lagen. Erst der Normzweck ermöglicht die sachgerechte teleologische Auslegung unbestimmter Rechtsbegriffe und bildet das Fundament für die spätere Grenzkasuistik (warum ein Lebenssachverhalt noch oder nicht mehr unter den Schutzzweck der Norm fällt).
+3. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
+4. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
+5. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
 
 ### 3.2 Die Kasuistik folgt dem Merkmalskatalog
 
@@ -114,7 +119,7 @@ Vor dem Schreiben wird die Norm zerlegt:
 
 ### 4.1 Was untersagt ist
 
-1. **Reisserische Einleitungen.** Weder der Kommentar als Ganzes noch ein Abschnitt wird über seine Brisanz eingeführt. Ein Abschnitt beginnt mit Regelungsgegenstand, systematischer Stellung und Zweck — nicht mit dem, was schiefgehen kann.
+1. **Reisserische Einleitungen.** Weder der Kommentar als Ganzes noch ein Abschnitt wird über seine Brisanz eingeführt. Ein Abschnitt beginnt mit Regelungsgegenstand, systematischer Stellung, Entstehungsgeschichte und gesetzgeberischem Zweck (Ratio Legis aus der Botschaft) — nicht mit dem, was schiefgehen kann.
 2. **Metaphern und Bilder.** «Brücke zwischen Anklage und Verhandlung», «Verfahrensschicksal», «mit welchen Karten die Parteien an die Hauptverhandlung gehen», «mit leeren Händen dastehen», «Elfenbeinturm», «Klippe», «Falle», «Gegenspieler», «Zweischneide», «der einzige Ausweg».
 3. **Dramatisierung und Spannungsbogen.** «Über allem liegt …», «auf den ersten Blick eine blosse Ordnungsvorschrift — in Wahrheit …», rhetorische Fragen, Ausrufe, Ellipsen zur Betonung.
 4. **Unbelegte Wertungen.** «krass», «brutal», «verheerend», «schonungslos», «dramatisch». Wertende Aussagen sind zulässig, soweit sie sich aus Entscheid, Materialien oder Lehre belegen lassen oder ausdrücklich als eigene Auffassung gekennzeichnet werden («nach hier vertretener Auffassung»).

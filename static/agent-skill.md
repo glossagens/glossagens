@@ -23,7 +23,9 @@ tools:
   - mcp_opencaselaw_get_decision_structure
   - mcp_opencaselaw_find_leading_cases
   - mcp_opencaselaw_find_citations
+  - mcp_opencaselaw_get_article_purpose
   - mcp_opencaselaw_get_article_history
+  - mcp_opencaselaw_search_botschaft
   - mcp_opencaselaw_get_doctrine
   - mcp_opencaselaw_get_commentary
   - mcp_opencaselaw_get_materialien
@@ -113,19 +115,22 @@ Common Swiss Federal Statutes and SR numbers:
 | BetmG | 812.121 | Betäubungsmittelgesetz      |
 
 ### 2. Case law & materials research
-Query the court databases using parallel lookups:
+Query the court databases and legislative materials using parallel lookups:
 ```
 find_leading_cases(query='Art. <N> <ABBREV>')
 find_citations(article='Art. <N> <ABBREV>')
 search_decisions(query='Art. <N> <ABBREV> [THEMA]')
+get_article_purpose(sr_number='<SR>', article='<N>')   # Wörtliche Botschaftserwägungen zum Normzweck (Schaffung + Revisionen)
+get_article_history(sr_number='<SR>', article='<N>')   # Chronologische Entwicklung: Norm + Botschaften + Leitentscheide
 search_materialien(query='Art. <N> <ABBREV>')
+get_materialien(law_code='<ABBREV>', article='<N>')
 get_commentary(abbreviation='<ABBREV>', article='<N>', language='de')
 ```
 
 For deep research on a complex article, spawn **three parallel subagents**:
 - **Subagent A**: BGer leading cases — `find_leading_cases` + `find_citations` + `search_decisions`
 - **Subagent B**: Cantonal courts (ZH, BE, SG, AG, LU, etc.) — `search_decisions` with court filters
-- **Subagent C**: Materials (Botschaft/BBl) and doctrine — `search_materialien` + `get_commentary` + `get_doctrine`
+- **Subagent C**: Materials (gesetzgeberische Ideen & Zwecke, Revisionsgründe, Botschaft/BBl) and doctrine — `get_article_purpose` + `get_article_history` + `get_materialien` + `search_botschaft` + `get_commentary` + `get_doctrine`
 
 Feed each subagent a list of already-known decisions to **avoid duplicates**:
 ```python
@@ -276,7 +281,7 @@ revisions:
 
 ## I. Überblick und Bedeutung
 
-{Systematische Einordnung, Regelungsgegenstand und Zweck der Norm.}
+{Systematische Einordnung, Regelungsgegenstand, gesetzgeberische Ideen und Zweck der Norm (Ratio Legis gemäss Botschaft bei Erlass/Änderung) mit genauen BBl-Fundstellen.}
 
 ### Prüfschema
 

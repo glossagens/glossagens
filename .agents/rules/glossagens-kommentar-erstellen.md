@@ -15,7 +15,7 @@ Wird verlangt, dass der Kommentar «praxisorientiert» sein soll (oder als «Pra
 
 Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
 1. **Strukturkonformität**: Aufbau als standardisiertes Hugo Page Bundle.
-2. **Kommentierungstiefe & Umfang**: Umfassende und strukturierte Aufbereitung des Gesetzeswortlauts, der systematischen Einordnung sowie der dogmatischen Bedeutung. Der Umfang und die Tiefe orientieren sich am Standard renommierter Onlinekommentare (onlinekommentar.ch).
+2. **Kommentierungstiefe & Gesetzeszweck**: Umfassende und strukturierte Aufbereitung des Gesetzeswortlauts, der systematischen Einordnung sowie der dogmatischen Bedeutung. Die **gesetzgeberischen Ideen und Zwecke der Bestimmung** (sowohl bei deren ursprünglicher Schaffung als auch bei allfälligen späteren Gesetzesänderungen) sind zwingend anhand der amtlichen Gesetzesmaterialien (Botschaften des Bundesrates via `get_article_purpose`, `get_article_history`, `get_materialien`) zu eruieren und in die Kommentierung einzuarbeiten. Der Umfang und die Tiefe orientieren sich am Standard renommierter Onlinekommentare (onlinekommentar.ch).
 3. **Sprache und Stil**: 
    - Schweizer Rechtsterminologie (z.B. "grosser" statt "großer", zwingend **kein Eszett / ß**).
    - Akademischer, präziser und juristisch einwandfreier Stil – keine umgangssprachlichen Wendungen.
@@ -33,7 +33,7 @@ Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
 
 ### A. Quellenarten & Recherche
 Bei der Recherche sind folgende Quellenarten aktiv einzubeziehen:
-- **Gesetzesmaterialien**: Botschaft des Bundesrates (insbesondere BBl-Fundstellen) sowie Protokolle der parlamentarischen Beratungen (Amtliches Bulletin / Curia Vista).
+- **Gesetzesmaterialien (Ermittlung von Gesetzeszweck und Revisionsmotiven)**: Eruierung der gesetzgeberischen Ideen, Motive und Zwecke der Bestimmung (Schaffung und allfällige Revisionen) über `get_article_purpose` (wörtliche Botschaftserwägungen zum Normzweck), `get_article_history` (Revisionschronologie), `get_materialien` (BBl-Fundstellen, Berichte, Vernehmlassungen) und `search_botschaft`. Es gilt das Verbot der Spekulation über die Teleologie (Regel R4): Der gesetzgeberische Wille ist stets anhand der authentischen Materialien nachzuweisen und mit BBl-Fundstellen zu belegen.
 - **Rechtsprechung**: Recherche nach Bundesgerichtsentscheiden (bger.ch / swiss-caselaw Server) sowie kantonalen Urteilen (entscheidsuche.ch).
 - **Lehre & Literatur**: Zitation ausschliesslich von Schweizer Quellen (Schweizer Autoren / Schweizer Publikationen / Domainendung `.ch`).
 
@@ -94,7 +94,7 @@ agent_verified: true
 Der Kommentarartikel ist wie folgt zu gliedern:
 
 1. **Gesetzeswortlaut**: ausschliesslich die Zeile `{{< wortlaut >}}`; die Daten erzeugt `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` aus der amtlichen Quelle (`data/wortlaut/{gesetz}/art-{NNN}.json`, mit committen). Kein Blockquote, kein `{: .gesetzeszitat}`, keine eigene Quellenzeile.
-2. **Überblick und Bedeutung**: Einordnung der Norm in die Systematik des Gesetzes, Zweck und Tragweite unter Beizug der Gesetzesmaterialien (Botschaft, BBl) und Dogmatik.
+2. **Überblick und Bedeutung**: Einordnung der Norm in die Systematik des Gesetzes, gesetzgeberische Ideen und Normzwecke (Ratio Legis bei der Schaffung der Norm sowie die Überlegungen bei allfälligen späteren Änderungen) unter direktem Beizug der Gesetzesmaterialien (Botschaft des Bundesrates mit BBl-Fundstellen) und Dogmatik.
 3. **Kommentierung**: Absatzweise oder thematische Gliederung der Bestimmung. Hierbei sind Kernaussagen der wichtigsten Bundesgerichtsentscheide und Lehrmeinungen direkt im Text mit korrekter Zitierweise und Hyperlinks zu zitieren (z.B. `([BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2))`).
 4. **Praxisfragen**: Dokumentation kantonaler Besonderheiten, Streitpunkte oder verfahrensrechtlicher Hürden (z.B. Fristberechnungen, Unterschriftsmängel, Zustellungsfragen). Jede Frage muss mit dem klärenden Entscheid verknüpft sein.
 
@@ -125,12 +125,13 @@ graph TD
 
 ### Schritt 1: Recherche & Quellensuche
 * Abfrage der nationalen Urteilsdatenbanken (über den `swiss-caselaw`-Server, `bger.ch` oder `entscheidsuche.ch`) nach der Gesetzesnorm (z.B. `Art. 701 OR` oder `Art. 222 ZPO`).
-* Recherche in den Gesetzesmaterialien (Botschaft des Bundesrates / BBl) und Schweizer Doktrin/Lehre.
+* Recherche in den Gesetzesmaterialien: Zwingende Eruierung der gesetzgeberischen Ideen, Zwecke und Revisionsmotive der Bestimmung über `get_article_purpose`, `get_article_history` und `get_materialien`.
 * Filterung nach Relevanz (meistzitierte Urteile, publizierte BGEs).
 * Identifikation von Streitpunkten in der kantonalen Gerichtspraxis.
 
 ### Schritt 2: Strukturierung & Planung
 * Auswahl von mindestens 10 qualitativ besten Entscheiden, die das Spektrum des Artikels abdecken.
+* Festlegung der dogmatischen Einordnung, des Normzwecks und der Revisionsgründe für den Abschnitt «Überblick und Bedeutung».
 * Festlegung der ein bis zwei kantonale Praxisfragen, die im Kommentar behandelt werden sollen.
 * Erstellung einer Taskliste (`task.md`) zur Abarbeitung.
 

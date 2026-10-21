@@ -372,7 +372,8 @@ Commit/Push nur auf Verlangen — direkter Commit auf `main` löst Auto-Deploy a
 - **Literaturzitate.** Die Fall-Tools decken sie nicht ab; `search_scholarship` /
   `find_scholarship_citing_statute` erreichen die OA-Bestände, der klassische
   Kommentarapparat (BSK, ZK, Stämpfli) liegt grösstenteils ausserhalb.
-- **Botschaften.** `BBl`-Fundstellen prüft dieses Audit nicht; dafür `search_botschaft`.
+- **Botschaften.** `BBl`-Fundstellen prüft dieses Audit nicht; dafür `get_article_purpose`,
+  `get_materialien` oder `search_botschaft`.
 - **Juristische Richtigkeit.** Geprüft wird Belegtheit, nicht Qualität. Ein durchgehend
   belegter Kommentar kann dogmatisch schief sein.
 - **Aktualität — der gefährlichste blinde Fleck.** Das Grounding-Urteil beantwortet
