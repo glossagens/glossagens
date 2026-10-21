@@ -26,6 +26,9 @@ tools:
   - mcp_opencaselaw_get_erwaegung
   - mcp_opencaselaw_get_regeste
   - mcp_opencaselaw_list_courts
+  - mcp_opencaselaw_get_article_purpose
+  - mcp_opencaselaw_get_article_history
+  - mcp_opencaselaw_search_botschaft
   - mcp_opencaselaw_get_materialien
   - mcp_opencaselaw_search_materialien
   - write_file
@@ -56,15 +59,16 @@ Create a new commentary from scratch or comprehensively update an existing one.
 **Steps:**
 1. INIT (→ Teil B, Abschnitt 1)
 2. GESETZESTEXT abrufen und als Daten ablegen: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` (→ Teil B, Abschnitt 2)
-3. RECHERCHE — parallel subagent research (→ Teil B, Abschnitt 3)
-4. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
-5. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext (→ Teil D.1)
-6. KOMMENTAR schreiben/ergänzen (→ Teil C) — nur mit den Belegen, die Schritt 5 überlebt haben
-7. **SCHLUSSATTEST** — Audit-Lauf über das fertige Bundle (→ Teil D.3)
-8. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
-9. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
+3. GESETZGEBERISCHE IDEEN & ZWECKE ERMITTELN — Materialien zur Schaffung und zu allfälligen Revisionen via `get_article_purpose`, `get_article_history`, `get_materialien` analysieren (→ Teil B, Abschnitt 2b)
+4. RECHERCHE — parallele Subagenten-Recherche nach Rechtsprechung, Materialien und Lehre (→ Teil B, Abschnitt 3)
+5. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
+6. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext bzw. die Botschaft (→ Teil D.1)
+7. KOMMENTAR schreiben/ergänzen (→ Teil C) — inklusive Entstehungsgeschichte, Ratio Legis und Revisionsmotiven
+8. **SCHLUSSATTEST** — Audit-Lauf über das fertige Bundle (→ Teil D.3)
+9. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
+10. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
 
-> Schritt 5 und 7 sind **nicht optional**. `mcp_verified: true` setzt beide voraus (→ Teil D.5).
+> Schritt 6 und 8 sind **nicht optional**. `mcp_verified: true` setzt beide voraus (→ Teil D.5).
 
 ---
 
@@ -102,6 +106,8 @@ Continuously research which topics and decisions are still **missing** from the 
 │  2. LÜCKENANALYSE                                     │
 │     Protokoll:                                        │
 │     - Absätze ohne Rechtsprechung                     │
+│     - Gesetzgeberische Ideen/Zwecke eingearbeitet?   │
+│     - Revisionsmotive (falls geändert) dokumentiert?  │
 │     - Fehlende Kasuistik zu Kerntatbeständen          │
 │     - Konventionsrechtliche Aspekte (EMRK/EGMR)?      │
 │     - Gesetzesmaterialien eingearbeitet?              │
@@ -109,10 +115,11 @@ Continuously research which topics and decisions are still **missing** from the 
 │                                                       │
 │  3. PRIORISIERUNG                                     │
 │     (a) Fehlende BGer-Leitentscheide (höchste Prio)  │
-│     (b) Unkommentierte Absätze                        │
-│     (c) Fehlende Kasuistik                            │
-│     (d) EMRK/Konventionsrecht                         │
-│     (e) Materialien und Lehre                         │
+│     (b) Gesetzgeberischer Zweck / Revisionsmotive     │
+│     (c) Unkommentierte Absätze                        │
+│     (d) Fehlende Kasuistik                            │
+│     (e) EMRK/Konventionsrecht                         │
+│     (f) Materialien und Lehre                         │
 │     → Top 1–3 Lücken für diese Runde auswählen        │
 │                                                       │
 │  4. GEZIELTE SUBAGENTEN-RECHERCHE                     │
@@ -248,6 +255,46 @@ gewollt, damit kein leerer Wortlaut-Abschnitt live geht.
 
 ---
 
+## 2b. GESETZGEBERISCHE IDEEN UND ZWECKE (Materialien zur Schaffung und Änderung)
+
+> **Zwingende Ermittlung von Ratio Legis und Entstehungsgeschichte:**
+> Eine seriöse Kommentierung beruht auf der methodenpluralistischen Auslegung. Die Entstehungsgeschichte (historische Auslegung) und der Normzweck (teleologische Auslegung) bilden das Fundament, auf dem die Rechtsprechung aufbaut und an dem sich Tatbestandsmerkmale sowie deren Grenzziehungen messen lassen.
+> 
+> Vor dem Abfassen des Kommentars ist deshalb stets zu überprüfen:
+> 1. **Idee und Zweck bei der Schaffung**: Welcher gesetzgeberische Zweck und welche Motive lagen dem Erlass der Norm zugrunde? Welche Missstände, Schutzbedürfnisse oder Rechtsunsicherheiten wollte das Parlament beseitigen?
+> 2. **Revisionsgründe bei Gesetzesänderungen**: Wurde der Artikel seit Inkrafttreten revidiert? Welche praktischen Probleme, veränderten gesellschaftlichen Realitäten oder Urteile führten zur Gesetzesänderung, und welche Absicht verfolgte der Gesetzgeber mit der Neuformulierung?
+
+### Werkzeuge in opencaselaw:
+
+1. **`get_article_purpose` (Primärwerkzeug für Botschafts-Volltext):**
+   Liefert die wörtlichen Erwägungen des Bundesrates (aus der Botschaft oder Erläuterungsberichten) zum Zweck des konkreten Artikels — sowohl für den ursprünglichen Erlass als auch für spätere Revisionsbotschaften. Enthält exakte Fundstellen (`bbl_citation, S. {page}`) für das Verbatim-Zitieren.
+   ```
+   mcp_opencaselaw_get_article_purpose: { "sr_number": "{SRNR}", "article": "{N}", "language": "de" }
+   ```
+
+2. **`get_article_history` (Entwicklungsbogen und Revisionen):**
+   Gibt die chronologische Geschichte der Bestimmung zurück: aktueller Gesetzestext + jede verknüpfte Botschaft (Erlass und alle Änderungen) + Leitentscheide + Lehrmeinungen in zeitlicher Abfolge.
+   ```
+   mcp_opencaselaw_get_article_history: { "sr_number": "{SRNR}", "article": "{N}", "language": "de" }
+   ```
+
+3. **`get_materialien` (Materialien-Übersicht & Vernehmlassungen):**
+   Liefert per-Artikel-Intent-Digests (BV und BGFA), verknüpfte Bundesblatt-Dokumente (`botschaft_documents` mit BBl-Nummer und Fedlex-Link), Vernehmlassungen (`vernehmlassungen`) und Fussnoten-Referenzen (`amendment_refs`).
+   ```
+   mcp_opencaselaw_get_materialien: { "law_code": "{ABBREV}", "article": "{N}" }
+   ```
+
+4. **`search_botschaft` (Volltextsuche in Materialien):**
+   Volltextsuche über Botschaften, Berichte und Vernehmlassungsdokumente bei speziellen Begriffen oder Kontroversen im Gesetzgebungsverfahren:
+   ```
+   mcp_opencaselaw_search_botschaft: { "query": "Art. {N} {ABBREV} Zweck" }
+   ```
+
+> **Regel R4 — Spekulationsverbot über den Gesetzeszweck:**
+> Niemals über den Willen des Gesetzgebers oder die Teleologie spekulieren («die Bestimmung dürfte bezwecken...»). Der gesetzgeberische Wille ist zwingend anhand der authentischen Materialien (Botschaften) nachzuweisen und mit BBl-Fundstelle zu belegen. Direkte Zitate müssen aus `get_article_purpose` oder `search_botschaft` stammen.
+
+---
+
 ## 3. RECHERCHE — Subagenten für Rechtsprechung und Materialien
 
 Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeitig.
@@ -331,13 +378,19 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 >
 > VERLINKUNG: Alle Entscheide und Gesetze müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern möglich.
 
-### Subagent-Vorlage C: Materialien und Lehre
+### Subagent-Vorlage C: Materialien, gesetzgeberischer Zweck und Lehre
 
-> **Aufgabe**: Recherchiere Gesetzesmaterialien und (soweit für Kontroversen relevant) Schrifttum zu Art. {N} {ABBREV}.
+> **Aufgabe**: Eruiere die gesetzgeberischen Ideen, Zwecke und Motive bei der Schaffung von Art. {N} {ABBREV} sowie bei allfälligen späteren Gesetzesänderungen anhand der amtlichen Gesetzesmaterialien. Recherchiere zudem (soweit für Kontroversen relevant) das Schrifttum.
 >
-> **Materialien** (immer prüfen):
-> - `search_materialien` mit query "Art. {N} {ABBREV}"
-> - `get_materialien` für relevante Botschafts-Stellen
+> **Gesetzgeberischer Zweck & Materialien** (immer zwingend durchführen):
+> 1. `get_article_purpose` mit sr_number="{SRNR}", article="{N}":
+>    Wörtliche Botschaftserwägungen zu Normzweck und Absichten des Bundesrates (Erlass + Revisionen) abrufen.
+> 2. `get_article_history` mit sr_number="{SRNR}", article="{N}":
+>    Chronologischen Revisionsbogen und verknüpfte Botschaften prüfen.
+> 3. `get_materialien` mit law_code="{ABBREV}", article="{N}":
+>    Fundstellen (BBl-Dokumente, Vernehmlassungen, Fussnoten) erfassen.
+> 4. `search_botschaft` mit query="Art. {N} {ABBREV}":
+>    Für gezielte Detailfragen oder Beratungsdiskussionen im Parlament.
 >
 > **Lehre** (nur recherchieren wenn keine Rspr. existiert oder eine Kontroverse aufzubereiten ist):
 > - `get_commentary` mit abbreviation="{ABBREV}", article="{N}"
@@ -346,12 +399,13 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > **Ausgabeformat:**
 > ```
 > QUELLE: [Botschaft BBl ... / Kommentar-Autor, Werk, N/S.]
-> TYP: Material / Lehre
-> KERNAUSSAGE: [2–3 Sätze]
-> RELEVANT FÜR: [Absatz / Thema]
+> TYP: Gesetzgeberischer Zweck / Revisionsmotiv / Lehre
+> KERNAUSSAGE: [2–4 Sätze: Welcher Zweck/welche Idee wurde verfolgt? Warum wurde die Norm erlassen oder geändert?]
+> FUNDSTELLE_BBL: [BBl-Zitat mit genauer Seitenzahl, z.B. BBl 2006 1085, S. 1120]
+> RELEVANT FÜR: [Bedeutung / Normzweck / Absatz / Tatbestandsmerkmal]
 > ```
 >
-> VERLINKUNG: Alle Quellen (Botschaften, Kommentare, Entscheide) müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern eine URL (z.B. Fedlex, Bger.ch) verfügbar ist.
+> VERLINKUNG: Alle Quellen (Botschaften mit Fedlex-Link, Kommentare, Entscheide) müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern eine URL verfügbar ist.
 
 ---
 
@@ -478,11 +532,11 @@ revisions:
 
 ## Kommentierung
 
-### Bedeutung
-{2-3 Sätze zur Bedeutung des Artikels}
+### Bedeutung und gesetzgeberischer Zweck
+{Gesetzgeberische Idee und Zweck der Norm (Ratio Legis) gemäss Botschaft bei der Schaffung; Entstehungsgeschichte. Wurde die Bestimmung novelliert: Darstellung der Revisionsmotive und gesetzgeberischen Überlegungen der Gesetzesänderung(en). Belegt mit amtlicher Fundstelle, z.B. [Botschaft BBl 2006 1085, S. 1120](Fedlex-URL).}
 
 ### Voraussetzungen / Anwendungsbereich
-{Tatbestandsmerkmale, oft als Liste}
+{Tatbestandsmerkmale, oft als Liste, ausgelegt im Lichte des Normzwecks}
 
 ### Abgrenzungen
 {Abgrenzungen zu verwandten Normen, wenn relevant}
@@ -508,7 +562,12 @@ revisions:
   Ist ein Entscheid als BGE publiziert, **ausschliesslich aus dem BGE zitieren** (E.-Nummern und Regeste
   sind dort massgeblich); die Geschäftsnummer nur nennen, wenn keine BGE-Fundstelle existiert, oder um
   bei „nicht publ. in: BGE X" auf eine in der amtlichen Sammlung fehlende Erwägung zu verweisen.
-- **Materialien**: Einarbeiten wenn sie der Rspr. etwas hinzufügen oder keine Praxis existiert
+- **Gesetzgeberische Ideen und Zwecke (Materialien)**: Jede Bestimmung ist vorab anhand der amtlichen
+  Materialien auf ihre Entstehungsgeschichte, die gesetzgeberische Absicht und ihren Normzweck (Ratio Legis)
+  zu überprüfen (`get_article_purpose`, `get_article_history`, `get_materialien`). Wurde die Norm novelliert,
+  sind die Erwägungen, Missstände und Ziele der Gesetzesänderung darzulegen. Dies bildet das Fundament für
+  die teleologische Auslegung der Tatbestandsmerkmale. Es gilt strikt Regel R4: Niemals über den Normzweck
+  spekulieren; Aussagen zum Zweck stets mit authentischen Botschaftserwägungen (BBl-Fundstelle und Link) belegen.
 - **Lehre**: Nur wenn keine Rspr. existiert oder eine Kontroverse dokumentiert werden muss
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
 - **Sprache**: Deutsch, konzis, praxisnah
@@ -767,6 +826,8 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 **Inhalt:**
 - [ ] `## Gesetzeswortlaut` enthält `{{< wortlaut >}}` und `data/wortlaut/{gesetz}/art-{NNN}.json` existiert?
+- [ ] Gesetzgeberische Ideen und Zwecke der Bestimmung (Schaffung und allfällige Revisionen) via `get_article_purpose`, `get_article_history` oder `get_materialien` eruiert und in «Bedeutung und gesetzgeberischer Zweck» eingearbeitet?
+- [ ] Regel R4 eingehalten: Keine freie Spekulation über Gesetzeszweck/Teleologie, sondern Beleg durch authentische Botschaftserwägungen (BBl-Fundstelle und Link)?
 - [ ] Rechtsprechung in absteigender Hierarchie (BGE → BGer → kantonal)?
 - [ ] Hugo-Build erfolgreich?
 
@@ -810,7 +871,7 @@ revisions:
   `find_scholarship_citing_statute` erreichen die OA-Bestände; der klassische
   Kommentarapparat (BSK, ZK, Stämpfli) liegt grösstenteils ausserhalb → Status
   «nicht verifizierbar», nie «korrekt».
-- **Botschaften.** `BBl`-Fundstellen prüft das Audit nicht; dafür `get_materialien`
+- **Botschaften.** `BBl`-Fundstellen prüft das Audit nicht; dafür `get_article_purpose`, `get_materialien`
   (und nur wenn nötig `search_botschaft`).
 - **Juristische Richtigkeit.** Geprüft wird Belegtheit, nicht Qualität. Ein durchgehend
   belegter Kommentar kann dogmatisch schief sein.
@@ -873,8 +934,11 @@ zusätzlich `/audit {gesetz} art-{NNN}` laufen lassen.
 | `get_erwaegung` | Einzelne Erwägung verbatim | Direkte Zitate |
 | `get_regeste` | Leitsatz verbatim | Direkte Zitate |
 | `list_courts` | Verfügbare Gerichte | Kantonssuche |
-| `search_materialien` | Botschaften / Materialien | Entstehungsgeschichte |
-| `get_materialien` | Materialien-Volltext | Vertiefung |
+| `get_article_purpose` | Wörtliche Botschaftserwägungen zum Normzweck | **Gesetzgeberische Idee und Zweck (Erlass + Revision)** |
+| `get_article_history` | Chronologie der Norm (Text + Botschaften + Leitentscheide) | **Revisionsgeschichte & Entwicklungsbogen** |
+| `search_botschaft` | Botschaften / Materialien Volltextsuche | Entstehungsgeschichte, Beratungsdetails |
+| `get_materialien` | Materialien-Übersicht & Vernehmlassungen | Fundstellen (BBl), Erläuternde Berichte |
+| `search_materialien` | FTS-Suche in Materialien | Thematische Materialiensuche |
 | `get_commentary` | OnlineKommentar | Lehrrecherche |
 | `get_doctrine` | Lehrmeinungen | Annotationen |
 | `cite` | Zitierung auflösen, `close_matches` | Existenz prüfen, Zitierstring holen |
