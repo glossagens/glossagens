@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 41 DSG"
 weight: 99
 date: 2026-08-07
-lastmod: 2026-08-07
-description: "Übersicht der Entscheide zu Art. 41 DSG (Berichtigung, Löschung, Vernichtung und Bestreitungsvermerk bei Bundesorganen)"
-tags: ["Rechtsprechung", "DSG", "Berichtigung", "Löschung", "Bestreitungsvermerk"]
+lastmod: 2026-10-21
+description: "Übersicht der Entscheide zu Art. 41 DSG (Berichtigung, Löschung, Vernichtung und Bestreitungsvermerk bei Bundesorganen, Rechtsschutz im SYMIC/ZEMIS und Abgrenzung zum Asylverfahren)"
+tags: ["Rechtsprechung", "DSG", "Berichtigung", "Löschung", "Bestreitungsvermerk", "SYMIC", "ZEMIS", "Rechtsverweigerung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BVGer F-6766/2026 als Leitentscheid (Rechtsschutz bei SYMIC-Mutationen, Pflicht zur anfechtbaren Verfügung, Abgrenzung zum Asylverfahren und Kostenfolgen)."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -20,6 +25,10 @@ revisions:
 ---
 
 ## I. Leitentscheide
+
+* **Rechtsschutz bei Datenmutationen im SYMIC/ZEMIS: Anspruch auf anfechtbare Verfügung und Abgrenzung zum Asylverfahren**
+  [BVGer F-6766/2026 vom 5. Oktober 2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-6766-2026_2026-10-05.pdf)
+  Verlangt eine asylsuchende Person schriftlich den Erlass einer anfechtbaren Verfügung über eine vom SEM beabsichtigte oder vorgenommene Abänderung ihrer Personendaten (hier: Heraufsetzung des Geburtsdatums zwecks Volljährigerklärung) im Ausländer- und Asylregister SYMIC (ZEMIS), hat sie gestützt auf Art. 41 Abs. 1 und 2 DSG i.V.m. Art. 5 VwVG einen strikten Rechtsanspruch auf Erlass einer selbständig anfechtbaren Verfügung. Das SEM darf die Daten nicht formlos per Mutationsformular anpassen und den Rechtsschutz auf den späteren Endentscheid im Asylverfahren vertrösten; ein solches Zuwarten begründet eine formelle Rechtsverweigerung (Art. 46a VwVG i.V.m. Art. 29 Abs. 1 BV). Da nach Art. 41 Abs. 6 Satz 2 DSG die asylrechtlichen Ausnahmen (Art. 2 und 3 VwVG) unanwendbar sind, untersteht das Verfahren dem Datenschutzrecht: Gegen den BVGer-Entscheid steht die Beschwerde an das Bundesgericht (Art. 82 lit. a BGG) offen, und die obsiegende Partei hat Anspruch auf volle Parteientschädigung nach VwVG/FITAF (auch bei Vertretung durch eine Hilfswerksjuristin ohne Anwaltspatent).
 
 * **Abgrenzung Realakt/Verfügung bei Dateneinträgen, die auf rechtskräftigem Grundentscheid beruhen**
   [BGer 1C_524/2024 vom 22. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_524_2024)
@@ -119,4 +128,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-07*
+*Letzte Aktualisierung: 2026-10-21*
