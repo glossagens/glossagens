@@ -43,9 +43,13 @@ def main():
     print(f"Committing with message: {args.message}")
     res = run_cmd(f"git commit -m \"{args.message}\"")
     if res.returncode != 0:
-        if "nothing to commit" in (res.stdout + res.stderr):
-            print("Nothing to commit, working tree clean.")
-            return 0
+        combined = res.stdout + res.stderr
+        if "nothing to commit" in combined or "no changes added to commit" in combined:
+            status_res = run_cmd("git rev-list @{u}..HEAD")
+            if not status_res.stdout.strip():
+                print("Nothing to commit and nothing to push.")
+                return 0
+            print("Nothing to commit, but unpushed commits exist. Proceeding to push...")
         else:
             print(f"Commit failed: {res.stderr}\n{res.stdout}", file=sys.stderr)
             return res.returncode
@@ -53,7 +57,7 @@ def main():
     # 3. Pull rebase and Push loop
     for attempt in range(15):
         print(f"Pulling with rebase (attempt {attempt + 1})...")
-        pull_res = run_cmd("git pull --rebase origin main")
+        pull_res = run_cmd("git pull --rebase --autostash")
         if pull_res.returncode != 0:
             print(f"Pull rebase failed: {pull_res.stderr}", file=sys.stderr)
             time.sleep(2.0)
