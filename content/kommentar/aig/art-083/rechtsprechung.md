@@ -11,7 +11,7 @@ revisions:
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
     mcp_verified: true
-    note: "Einarbeitung aktueller BVGer-Referenzurteile zu Türkei (Hakkâri/Şırnak, Erdbebengebiete), Nordirak/Kurdistan, Sri Lanka (Wirtschaftskrise/Gesundheitsversorgung), Afghanistan (Passbeschaffung), Dublin/Griechenland (Familien) und Erlöschen der vorläufigen Aufnahme."
+    note: "Einarbeitung aktueller BVGer-Leit- und Referenzurteile zu Äthiopien (BVGE 2011/25, D-6630/2018), Türkei (Hakkâri/Şırnak, Erdbebengebiete), Nordirak/Kurdistan, Sri Lanka (Wirtschaftskrise/Gesundheitsversorgung), Afghanistan (Passbeschaffung), Dublin/Griechenland (Familien) und Erlöschen der vorläufigen Aufnahme."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -142,6 +142,14 @@ revisions:
 - **Thema**: Nationaldienst Eritrea / Art. 4 EMRK / Zumutbarkeit
 - **Kernaussage**: Der Wegweisungsvollzug nach Eritrea bei drohender Einziehung in den eritreischen Nationaldienst verstösst nicht gegen das Zwangsarbeitsverbot (Art. 4 Ziff. 2 EMRK) und ist nicht per se unzumutbar. Mangels genereller Unzumutbarkeit bedarf es zur Anordnung der vorläufigen Aufnahme qualifizierender individueller Gefährdungsfaktoren.
 - **Einschlägig für**: Art. 83 Abs. 3 und 4 AIG
+
+---
+
+### BVGE 2011/25 i.V.m. Referenzurteil D-6630/2018 — Äthiopien: Grundsätzliche Zumutbarkeit, Lage der Frauen und Versorgung
+- **Fundstelle**: [BVGE 2011/25 E. 8.3–8.6](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-25_2011-07-07.pdf) (7. Juli 2011) und [BVGer D-6630/2018 E. 12](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-6630-2018_2019-05-06.pdf) (6. Mai 2019)
+- **Thema**: Grundsatz der Zumutbarkeit / Regionale Ausnahmen (Tigray) / Begünstigende Faktoren / Alleinstehende Frauen
+- **Kernaussage**: Das Bundesverwaltungsgericht geht in ständiger Rechtsprechung von der grundsätzlichen Zumutbarkeit des Wegweisungsvollzugs nach Äthiopien aus. Die allgemeine Lage ist (mit Ausnahme der nördlichen Konfliktregion Tigray) nicht flächendeckend durch Krieg oder allgemeine Gewalt gekennzeichnet. Infolge der verbreitet prekären Lebensbedingungen bedarf es zur Bestätigung der Zumutbarkeit jedoch begünstigender Faktoren (familiäres/soziales Beziehungsnetz, Arbeitsfähigkeit oder Vermögenswerte). Besondere Zurückhaltung gilt bei alleinstehenden Frauen, bei denen ohne familiären Rückhalt eine existenzbedrohende Notlage droht. Die medizinische Grundversorgung und Behandelbarkeit von Krankheiten (einschliesslich PTBS und Depressionen) ist in den Zentren grundsätzlich gegeben.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
 
 ---
 
