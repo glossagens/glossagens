@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 83 AIG"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-08-29
-description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse und länderspezifische BVGer-Praxis"
+lastmod: 2026-10-21
+description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse und länderspezifische BVGer-Praxis (einschliesslich Referenzurteile)"
 tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Länderpraxis", "BVGer"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "Gemini 3.7 Flash"
+    mcp_verified: true
+    note: "Einarbeitung aktueller BVGer-Referenzurteile zu Türkei (Hakkâri/Şırnak, Erdbebengebiete), Nordirak/Kurdistan, Sri Lanka (Wirtschaftskrise/Gesundheitsversorgung), Afghanistan (Passbeschaffung), Dublin/Griechenland (Familien) und Erlöschen der vorläufigen Aufnahme."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -19,7 +24,7 @@ revisions:
 ## I. Leitentscheide zur allgemeinen Dogmatik und Zuständigkeit
 
 ### BGE 137 II 305 — Kein individueller Rechtsanspruch auf kantonale Antragstellung beim SEM
-- **Fundstelle**: [BGE 137 II 305 E. 1–4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_II_305) (26. Mai 2011)
+- **Fundstelle**: [BGE 137 II 305 E. 1–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-II-305_2011-05-26.html) (26. Mai 2011)
 - **Thema**: Antragsrecht des Kantons / Rechtsmittelbefugnis
 - **Kernaussage**: Art. 83 Abs. 6 AIG räumt der weggewiesenen Person keinen subjektiv-öffentlichen Rechtsanspruch darauf ein, dass die kantonale Behörde beim SEM die vorläufige Aufnahme beantragt. Gegen letztinstanzliche kantonale Entscheide über Wegweisungsvollzugshindernisse steht beim Bundesgericht daher ausschliesslich die subsidiäre Verfassungsbeschwerde offen (Art. 83 lit. c Ziff. 4 und Art. 113 ff. BGG). Dabei kann nur die Verletzung von Parteirechten («Star»-Praxis) oder verfassungsmässigen Individualrechten gerügt werden.
 - **Einschlägig für**: Art. 83 Abs. 1 und 6 AIG
@@ -27,7 +32,7 @@ revisions:
 ---
 
 ### BGE 138 I 246 — Langjährige Vollzugsunmöglichkeit und Nothilfeabhängigkeit unter Art. 8 EMRK
-- **Fundstelle**: [BGE 138 I 246 E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_246) (16. April 2012)
+- **Fundstelle**: [BGE 138 I 246 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-246_2012-04-16.html) (16. April 2012)
 - **Thema**: Vollzugsunmöglichkeit / Statusbereinigung
 - **Kernaussage**: Ist der Vollzug der Wegweisung gemäss Art. 83 Abs. 2 AIG seit vielen Jahren unmöglich und befindet sich die betroffene Person in jahrelanger Nothilfeabhängigkeit ohne Arbeitserlaubnis, kann sich in ausserordentlichen Ausnahmesituationen direkt aus dem Recht auf Achtung des Privatlebens (Art. 8 EMRK) ein Anspruch auf Statusbereinigung (vorläufige Aufnahme oder Härtefallbewilligung) bzw. auf Erteilung einer Arbeitsbewilligung ergeben.
 - **Einschlägig für**: Art. 83 Abs. 2 und 3 AIG
@@ -42,16 +47,32 @@ revisions:
 
 ---
 
+### BVGer F-2067/2022 — Objektive Unmöglichkeit der Passbeschaffung und Mitwirkungspflicht
+- **Fundstelle**: [BVGer F-2067/2022 E. 5–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-2067-2022_2023-07-03.pdf) (3. Juli 2023)
+- **Thema**: Vollzugsunmöglichkeit / Mitwirkungspflicht / Afghanistan
+- **Kernaussage**: Ist die Beschaffung von Identitäts- und Reisepapieren aufgrund der faktischen Machtverhältnisse im Heimatstaat (hier: De-facto-Regime der Taliban in Afghanistan und Fehlen anerkannter konsularischer Vertretungen) objektiv unmöglich, liegt keine schuldhafte Verletzung der Mitwirkungspflicht gemäss Art. 83 Abs. 7 lit. c AIG vor. In solchen Konstellationen ist die vorläufige Aufnahme wegen Unmöglichkeit des Vollzugs gemäss Art. 83 Abs. 2 AIG anzuordnen.
+- **Einschlägig für**: Art. 83 Abs. 2 und Abs. 7 lit. c AIG
+
+---
+
 ### BGE 126 II 400 — Selbstverschuldete Vollzugsunmöglichkeit und Verletzung der Mitwirkungspflicht
-- **Fundstelle**: [BGE 126 II 400 E. 3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_400) (10. Oktober 2000)
+- **Fundstelle**: [BGE 126 II 400 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-126-II-400_2000-10-10.html) (10. Oktober 2000)
 - **Thema**: Ausschlussgrund bei Verhaltensverursachung
 - **Kernaussage**: Die vorläufige Aufnahme wegen Vollzugsunmöglichkeit ist ausgeschlossen, wenn die Unmöglichkeit auf das renitente Verhalten der ausländischen Person selbst zurückzuführen ist (Verweigerung der Papierbeschaffung, Identitätstäuschung). Der Staat ist nicht verpflichtet, selbstverschuldete Vollzugshindernisse mit dem Status der vorläufigen Aufnahme zu belohnen.
 - **Einschlägig für**: Art. 83 Abs. 7 lit. c AIG
 
 ---
 
+### BVGer F-4658/2023 — Gesetzliches Erlöschen der vorläufigen Aufnahme bei Landesverweisung und Ausweisung
+- **Fundstelle**: [BVGer F-4658/2023 E. 4–6](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-4658-2023_2025-09-29.pdf) (29. September 2025)
+- **Thema**: Erlöschensgründe nach Art. 83 Abs. 9 AIG / Verhältnis zu Art. 68 AIG
+- **Kernaussage**: Wird gegen eine vorläufig aufgenommene Person eine Ausweisung gemäss Art. 68 AIG rechtskräftig verfügt (oder eine strafrechtliche Landesverweisung nach Art. 66a StGB angeordnet), erlischt die vorläufige Aufnahme gemäss Art. 83 Abs. 9 AIG *ipso iure*. Es bedarf keines separaten Widerrufs- oder Aufhebungsentscheids durch das SEM.
+- **Einschlägig für**: Art. 83 Abs. 9 AIG
+
+---
+
 ### BGE 135 II 110 — Ausweisung eines anerkannten Flüchtlings und vorläufige Aufnahme
-- **Fundstelle**: [BGE 135 II 110 E. 2–4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_110) (22. Januar 2009)
+- **Fundstelle**: [BGE 135 II 110 E. 2–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-II-110_2009-01-22.html) (22. Januar 2009)
 - **Thema**: Verhältnis Ausweisung / Asylwiderruf / vorläufige Aufnahme
 - **Kernaussage**: Die Ausweisung eines anerkannten Flüchtlings rechtfertigt sich nur, wenn sie unter Würdigung aller Umstände verhältnismässig ist. Das Bestehen von Vollzugshindernissen (Art. 83 AIG) schliesst den Erlass einer aufenthaltsbeendenden Fernhaltemassnahme nicht per se aus, sondern verlagert die Prüfung der Vollziehbarkeit in das Vollzugsstadium.
 - **Einschlägig für**: Art. 83 Abs. 1, 3 und 8 AIG
@@ -59,6 +80,54 @@ revisions:
 ---
 
 ## II. Länderspezifische Leitentscheide des Bundesverwaltungsgerichts (Lageanalysen)
+
+### BVGer E-4103/2024 — Türkei: Praxisänderung für die Provinzen Hakkâri und Şırnak
+- **Fundstelle**: [BVGer E-4103/2024 E. 6–8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_E-4103-2024_2024-11-08.pdf) (8. November 2024, 5-Richter-Entscheid)
+- **Thema**: Praxisänderung Türkei / Wegfall der generellen Unzumutbarkeit / Aufgabe von BVGE 2013/2
+- **Kernaussage**: In Abkehr von der bisherigen Praxis gemäss BVGE 2013/2 ist der Vollzug von Wegweisungen in die südosttürkischen Provinzen Hakkâri und Şırnak nicht mehr als generell unzumutbar einzustufen. Die allgemeine Sicherheitslage hat sich stabilisiert, sodass ein Vollzug dorthin — wie in den übrigen Teilen der Türkei — grundsätzlich zumutbar ist, es sei denn, individuelle Gefährdungsumstände stehen dem entgegen.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGer E-1308/2023 — Türkei: Wegweisungsvollzug in die Erdbebengebiete vom Februar 2023
+- **Fundstelle**: [BVGer E-1308/2023 E. 5–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_E-1308-2023_2024-03-19.pdf) (19. März 2024, 5-Richter-Entscheid)
+- **Thema**: Humanitäre Notlage nach Naturkatastrophe / Zerstörte Infrastruktur
+- **Kernaussage**: In den durch das verheerende Erdbeben vom 6. Februar 2023 am stärksten zerstörten Provinzen (Kahramanmaraş, Hatay, Adıyaman, Malatya) ist der Wegweisungsvollzug infolge zusammengebrochener Infrastruktur und akuter Wohnungs- und Versorgungsnot in der Regel unzumutbar. Ein Vollzug dorthin ist nur ausnahmsweise bei Vorliegen aussergewöhnlich begünstigender individueller Faktoren zumutbar.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGer D-913/2021 — Irak: Neubeurteilung des Wegweisungsvollzugs in die Region Kurdistan-Irak (RKI)
+- **Fundstelle**: [BVGer D-913/2021 E. 6–8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-913-2021_2024-03-19.pdf) (19. März 2024)
+- **Thema**: Lageanalyse Nordirak / Provinzen Erbil, Sulaimaniyya und Duhok
+- **Kernaussage**: Umfassende Neubeurteilung der Sicherheits- und Versorgungslage in der Autonomen Region Kurdistan. Der Wegweisungsvollzug in die drei Provinzen Erbil, Sulaimaniyya und Duhok ist für Personen, die ursprünglich von dort stammen, unter bestimmten Voraussetzungen zumutbar. Erforderlich ist ein tragfähiges familiäres oder soziales Beziehungsnetz oder das Vorliegen begünstigender Faktoren wie guter Gesundheitszustand und realistische wirtschaftliche Existenzperspektiven.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2013/1 — Irak: Generelle Unzumutbarkeit des Vollzugs nach Mosul
+- **Fundstelle**: [BVGE 2013/1 E. 6.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2013-1_2013-01-08.pdf) (8. Januar 2013)
+- **Thema**: Situation allgemeiner Gewalt im Irak / Mosul
+- **Kernaussage**: Wegen anhaltender sektiererischer Gewalt und schwerer Spannungen ist die Sicherheit der Zivilbevölkerung in Mosul nicht gewährleistet; der Wegweisungsvollzug dorthin ist generell unzumutbar.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGer E-737/2020 — Sri Lanka: Wirtschaftskrise, Medikamentenmangel und medizinische Notlage
+- **Fundstelle**: [BVGer E-737/2020 E. 6–8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_E-737-2020_2023-02-27.pdf) (27. Februar 2023)
+- **Thema**: Medizinische Unzumutbarkeit / Staatskrise Sri Lanka
+- **Kernaussage**: Die schwere Wirtschafts- und Devisenkrise in Sri Lanka hat das nationale Gesundheitssystem und die Medikamentenversorgung stark beeinträchtigt. Bei Personen mit lebensbedrohlichen chronischen Krankheiten (hier: schwere Niereninsuffizienz mit Dialysepflicht), die auf ununterbrochene spezialisierte Behandlung und Medikamente angewiesen sind, führt der Versorgungsengpass zur Unzumutbarkeit des Wegweisungsvollzugs nach Art. 83 Abs. 4 AIG.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
+
+### BVGE 2011/24 — Sri Lanka: Regionale Differenzierung und innerstaatliche Aufenthaltsalternative
+- **Fundstelle**: [BVGE 2011/24 E. 10–13](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf) (27. Oktober 2011)
+- **Thema**: Post-Konflikt-Lage Sri Lanka / Nordprovinz vs. Colombo
+- **Kernaussage**: Wegweisungen in den Grossraum Colombo und die Ostprovinz sind grundsätzlich zumutbar; in die Nordprovinz nur bei Vorliegen begünstigender Umstände. In das Vanni-Gebiet bleibt der Vollzug unzumutbar.
+- **Einschlägig für**: Art. 83 Abs. 4 AIG
+
+---
 
 ### BVGE 2015/3 — Syrien: Generelle Unzumutbarkeit des Wegweisungsvollzugs
 - **Fundstelle**: [BVGE 2015/3 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf) (18. Februar 2015)
@@ -76,22 +145,6 @@ revisions:
 
 ---
 
-### BVGE 2013/1 — Irak: Generelle Unzumutbarkeit des Vollzugs nach Mosul
-- **Fundstelle**: [BVGE 2013/1 E. 6.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2013-1_2013-01-08.pdf) (8. Januar 2013)
-- **Thema**: Situation allgemeiner Gewalt im Irak / Mosul
-- **Kernaussage**: Wegen anhaltender sektiererischer Gewalt und schwerer Spannungen ist die Sicherheit der Zivilbevölkerung in Mosul nicht gewährleistet; der Wegweisungsvollzug dorthin ist generell unzumutbar.
-- **Einschlägig für**: Art. 83 Abs. 4 AIG
-
----
-
-### BVGE 2011/24 — Sri Lanka: Regionale Differenzierung und innerstaatliche Aufenthaltsalternative
-- **Fundstelle**: [BVGE 2011/24 E. 10–13](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf) (27. Oktober 2011)
-- **Thema**: Post-Konflikt-Lage Sri Lanka / Nordprovinz vs. Colombo
-- **Kernaussage**: Wegweisungen in den Grossraum Colombo und die Ostprovinz sind grundsätzlich zumutbar; in die Nordprovinz nur bei Vorliegen begünstigender Umstände. In das Vanni-Gebiet bleibt der Vollzug unzumutbar.
-- **Einschlägig für**: Art. 83 Abs. 4 AIG
-
----
-
 ### BVGE 2014/32 — Pakistan: Erhöhte Gefährdung der Hazara-Minderheit
 - **Fundstelle**: [BVGE 2014/32 E. 6–9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-32_2014-11-25.pdf) (25. November 2014)
 - **Thema**: Minderheitenschutz Hazara / Quetta (Belutschistan)
@@ -103,12 +156,20 @@ revisions:
 ### BVGE 2011/7 — Afghanistan: Kriterien für Aufenthaltsalternativen in Städten
 - **Fundstelle**: [BVGE 2011/7 E. 9.2–9.9](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-7_2011-06-16.pdf) (16. Juni 2011)
 - **Thema**: Lageanalyse Afghanistan / Existenzbedrohende Situation
-- **Kernaussage**: Die humanitäre und sicherheitsbezogene Gesamtsituation in Afghanistan begründet ausserhalb eng umschriebener städtischer Zentren eine existenzbedrohende Notlage im Sinne von Art. 83 Abs. 4 AIG (nach August 2021 durch die Taliban-Herrschaft flächendeckend unzumutbar).
+- **Kernaussage**: Die humanitäre und sicherheitsbezogene Gesamtsituation in Afghanistan begründet ausserhalb eng umschriebener städtischer Zentren eine existenzbedrohende Notlage im Sinne von Art. 83 Abs. 4 AIG (seit der Machtübernahme der Taliban im August 2021 ist der Wegweisungsvollzug flächendeckend unzumutbar).
 - **Einschlägig für**: Art. 83 Abs. 4 AIG
 
 ---
 
-## III. Weitere Urteile und kantonale Gerichtsentscheide
+## III. Vollzugshindernisse im Dublin- und Drittstaatenkontext sowie kantonale Gerichtsentscheide
+
+### BVGer D-2590/2025 — Dublin-Überstellung nach Griechenland: Systemische Mängel für Familien mit Kindern
+- **Fundstelle**: [BVGer D-2590/2025 E. 6–8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-2590-2025_2025-09-11.pdf) (11. September 2025, 5-Richter-Entscheid)
+- **Thema**: Dublin-III-Verordnung / Griechenland / Art. 3 EMRK / Schutz von Familien mit Kleinkindern
+- **Kernaussage**: In Griechenland bestehen im Unterbringungs- und Integrationssystem für Familien mit minderjährigen Kindern systemische Schwachstellen, die die Schwelle von Art. 3 EMRK bzw. Art. 4 der EU-Grundrechtecharta erreichen können. Eine Überstellung von Familien mit minderjährigen Kindern nach Griechenland ohne verbindliche individuelle Garantien bezüglich kindgerechter Unterbringung und Versorgung ist unzulässig; die Schweiz hat vom Selbsteintrittsrecht (Art. 17 Abs. 1 Dublin-III-VO) Gebrauch zu machen.
+- **Einschlägig für**: Art. 83 Abs. 1 und 3 AIG
+
+---
 
 ### BVGE 2023 VII/6 — Vorrang des Völkerrechts bei Familienzusammenführung von vorläufig Aufgenommenen
 - **Fundstelle**: [BVGE 2023 VII/6 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2023-VII-6_2023-04-12.pdf) (12. April 2023)
@@ -153,4 +214,4 @@ revisions:
 
 ---
 
-Zuletzt aktualisiert: 2026-08-29 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/aig/art-083/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+83+AIG)
+Zuletzt aktualisiert: 2026-10-21 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/aig/art-083/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+83+AIG)
