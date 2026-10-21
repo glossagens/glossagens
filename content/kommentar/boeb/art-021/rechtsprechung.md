@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 21 BöB"
 weight: 99
 date: 2026-10-11
-lastmod: 2026-10-11
+lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 21 BöB – Freihändiges Verfahren"
 tags: ["Rechtsprechung", "BöB", "Freihändiges Verfahren", "Vergaberecht"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Glossagens Agent"
+    model: "Gemini 3.8 Flash"
+    mcp_verified: true
+    note: "Aufnahme von FR KG 602 2026 16 vom 14.9.2026 (Zulässigkeit freihändiger Software-Wartungsverlängerung nach Art. 21 Abs. 2 lit. e BöB/IVöB bei langjährigem Lock-in in Abgrenzung zu BGE 150 II 105)"
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
@@ -44,6 +49,12 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichts- und Kantonsentscheide
+
+### [FR KG 602 2026 16 vom 14.9.2026](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_007_602-2026-16_2026-09-14.pdf), E. 1.2–1.3, 3.2–3.6
+- **Gericht**: Kantonsgericht des Kantons Freiburg (II. Verwaltungsgerichtshof)
+- **Thema**: Zulässigkeit freihändiger Folgeaufträge für Software-Wartung bei langjährigem Lock-in und Abgrenzung zu BGE 150 II 105 (Strassenverkehrsamt OCN)
+- **Kernaussage**: 1. Ein freihändiger Folgeauftrag für die Verlängerung der Software-Pflege und -Wartung einer bestehenden Fachanwendung (hier 5 Jahre für CHF 3.39 Mio.) erfüllt Art. 21 Abs. 2 lit. e IVöB/BöB auch dann, wenn das System bereits seit über 20 Jahren beim selben Anbieter betrieben wird und ein faktischer Lock-in besteht. 2. Gerichte können der Verwaltung gestützt auf die Bestellerautonomie nicht vorschreiben, ihr bewährtes IT-System durch ein neues Produkt abzulösen, solange die Behörde keinen technologischen Neubedarf formuliert hat. 3. Untergeordnete funktionale Weiterentwicklungen und Anpassungen im Rahmen der normalen Systempflege (< 10 % der jährlichen Wartungskosten) wandeln den Wartungsvertrag nicht in ein ausschreibungspflichtiges Neuprodukt um. 4. Explizite Abgrenzung zu BGE 150 II 105: Während BGE 150 II 105 ein umfassendes technologisches Neubauvorhaben (45.9 Mio. Fr.) unter Art. 21 Abs. 2 lit. c betraf, bei welchem die Behörde für das Fehlen von Alternativen beweispflichtig ist und Vorab-Markterkundungen durchführen muss, greift bei reinen Wartungsverlängerungen ohne Neubedarf lit. e, wo der Investitions- und Amortisationsschutz die Weiterführung rechtfertigt. Abweisung der Konkurrentenbeschwerde.
+- **Einschlägig für**: Art. 21 Abs. 2 lit. e BöB/IVöB; Software-Wartungsverträge; Lock-in bei Altsystemen; Bestellerautonomie; Abgrenzung zu Art. 21 Abs. 2 lit. c BöB (BGE 150 II 105)
 
 ### [AG OG WBE.2026.26 vom 3.9.2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2026-26_2026-09-03.pdf), E. II/3–5
 - **Gericht**: Obergericht / Verwaltungsgericht des Kantons Aargau
