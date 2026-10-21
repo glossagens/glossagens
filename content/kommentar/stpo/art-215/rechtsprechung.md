@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 215 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 215 StPO – Polizeiliche Anhaltung, Identitätsfeststellung, Mitwirkungspflichten und Abgrenzung zur Festnahme."
 tags: ["Rechtsprechung", "StPO", "Anhaltung", "Polizei", "Identitätsfeststellung", "Ausweiskontrolle", "Verhältnismässigkeit", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung): Schlafen auf Parkbank kein Tatverdacht, Verbot von Fishing Expeditions, Racial Profiling und absolutes Beweisverwertungsverbot nach Art. 141 Abs. 2 StPO."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -15,6 +20,11 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### [BGer 6B_153/2026 vom 22.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) (5er-Besetzung)
+- **Thema**: Sachlicher Anlass der Anhaltung, Verbot von «Fishing Expeditions», Racial Profiling und Beweisverwertungsverbot
+- **Kernaussage**: Das blosse Schlafen auf einer Parkbank an einem nicht-kriminogenen Ort genügt weder nach kantonalem Polizeirecht (Art. 47 LPol GE) noch nach Art. 215 StPO als Rechtfertigung für eine Anhaltung und Ausweiskontrolle. Identitätskontrollen, RIPOL-Abfragen und Rucksackdurchsuchungen ohne hinreichenden sachlichen Anlass stellen eine unzulässige «Fahndung ins Blaue» (fishing expedition) dar. Knüpft die Kontrolle ohne objektiven Grund an die Hautfarbe an (Racial Profiling), liegt ein schwerer Grundrechtseingriff vor; die sichergestellten Beweismittel sind gemäss Art. 141 Abs. 2 StPO absolut unverwertbar (Bestätigung des Freispruchs).
+- **Einschlägig für**: Abs. 1 und 2
 
 ### [BGE 139 IV 128](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-128_2013.html) E. 1.2 f.
 - **Thema**: Begriff und Schranken der polizeilichen Anhaltung
@@ -122,4 +132,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-30*
+*Letzte Aktualisierung: 2026-10-21*
