@@ -1,0 +1,35 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-305bis -> 305).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "1. Titel: Allgemeine Bestimmungen"
+    von: 1
+    bis: 9
+  - name: "2. Titel: Inlandsteuer — Steuerobjekt: Steuerpflicht und Steuerbare Leistungen"
+    von: 10
+    bis: 20
+  - name: "2. Titel: Inlandsteuer — Steuerobjekt: Ausnahmen, Befreiungen und Ort der Leistung"
+    von: 21
+    bis: 27
+  - name: "2. Titel: Inlandsteuer — Bemessungsgrundlage und Steuersätze"
+    von: 28
+    bis: 35
+  - name: "2. Titel: Inlandsteuer — Vorsteuerabzug und Vorsteuerkorrektur"
+    von: 36
+    bis: 44
+  - name: "3. Titel: Bezugsteuer"
+    von: 45
+    bis: 49
+  - name: "4. Titel: Einfuhrsteuer"
+    von: 50
+    bis: 64
+  - name: "5. Titel: Steuererhebung und Verfahren"
+    von: 65
+    bis: 95
+  - name: "6. Titel: Strafbestimmungen"
+    von: 96
+    bis: 106
+  - name: "7. Titel: Schlussbestimmungen"
+    von: 107
+    bis: 116
