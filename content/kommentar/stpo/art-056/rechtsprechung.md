@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 56 StPO"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-10-20
+lastmod: 2026-10-21
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 56 StPO: Leitentscheide zu persönlichem Interesse, Vorbefassung, Verwandtschaft und Befangenheitsanschein."
 tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit", "Gerichtsschreiber"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 7B_129/2026 vom 9. September 2026 (Orientiertere Haltung der Staatsanwaltschaft im Vorverfahren zulässig; pointierte oder ungeschickte Äusserungen in Rechtsschriften begründen keinen Befangenheitsanschein; Grenzziehung zur Kumulationsdoktrin aus 7B_890/2026)."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -177,6 +182,13 @@ revisions:
 - **Thema**: Ausstand der Staatsanwaltschaft wegen Kumulation von Verfahrensfehlern und mangelnder Ergebnisoffenheit (lit. f)
 - **Kernaussage**: Befangenheit ist nach Art. 56 lit. f StPO nicht leichthin anzunehmen. Die Rechtsprechung anerkennt jedoch die **Kumulationsdoktrin**: Auch wenn kein einzelner Vorfall für sich allein die Schwelle zur schweren Amtspflichtverletzung überschreitet, kann die Gesamtschau rechtskräftig festgestellter Verfahrensfehler (hier: zwei Rechtsverzögerungen, Verletzung von Teilnahmerechten und rund 4¾ Jahre ohne vertiefte Ermittlungsanalyse und ergebnisoffene Befragung der Beschuldigten) den objektiven Anschein der Befangenheit und Voreingenommenheit zu Lasten der Privatklägerschaft begründen. Die gesuchstellende Partei darf sich auch auf rechtskräftige Verfahrensfehler berufen, die in Akten ohne eigene Parteistellung festgestellt wurden. Bei einer Kette von Fehlleistungen ist das Gesuch nach Art. 58 Abs. 1 StPO rechtzeitig gestellt, sobald nach Auffassung der Partei «der letzte Tropfen das Fass zum Überlaufen gebracht hat» ([E. 3.2 und 4 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_7B_890/2026)).
 - **Einschlägig für**: Art. 56 lit. f StPO, Art. 58 Abs. 1 StPO (Fehlerkumulation, Ergebnisoffenheit, Rechtzeitigkeit des Gesuchs)
+
+---
+
+### [BGer 7B_129/2026 vom 9. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)
+- **Thema**: Zulässige Haltung der Staatsanwaltschaft im Vorverfahren; ungeschickte Äusserungen in einer Vernehmlassung und Grenzziehung zur Fehlerkumulation (lit. f)
+- **Kernaussage**: Im Vorverfahren ist die Staatsanwaltschaft zwar zur Unparteilichkeit verpflichtet (Art. 6 Abs. 2 StPO), darf jedoch im Rahmen der Ermittlungen – anders als ein Gericht – vorübergehend eine orientiertere Haltung einnehmen und ihren vorläufigen Überzeugungen Ausdruck verleihen ([E. 4.2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)). Äusserungen sind objektiv im Gesamtkontext und nach dem verfolgten Zweck zu würdigen. Pointierte oder ungeschickte Formulierungen («propos maladroits ou déplacés») in einer Vernehmlassung vor einem kantonalen Verwaltungsgericht, in der die Staatsanwaltschaft nicht als Entscheidungsbehörde auftritt, sondern eine angefochtene Beweismassnahme verteidigt (hier u.a. die Bemerkung, der Beschuldigte schweige «aus Furcht vor der Wahrheitsfindung» und verzögere das Verfahren zum Schutz seiner Anstellung), begründen für sich allein keinen objektiven Anschein der Befangenheit ([E. 4.2.3 und 4.5.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)). Ebenso wenig genügt die Kumulation isolierter Kanzleiversehen (mehrfache fehlerhafte Aktenzustellung an Opferangehörige) und einer im Rechtsmittelweg behobenen Rechtsverzögerung bei einem Zwischenentscheid für einen Ausstand; dies bildet die klare Grenze zur Kumulationsdoktrin nach BGer 7B_890/2026 ([E. 4.6 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)).
+- **Einschlägig für**: Art. 56 lit. f StPO i.V.m. Art. 29 Abs. 1 BV und Art. 61 lit. a StPO (Staatsanwaltschaft, Vorverfahren, Meinungsäusserungen, Abgrenzung zur Kumulationsdoktrin)
 
 ---
 
