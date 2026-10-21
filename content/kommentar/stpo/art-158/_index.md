@@ -2,11 +2,16 @@
 title: "Art. 158 StPO — Einvernahme der beschuldigten Person"
 weight: 158
 date: "2026-05-17"
-lastmod: 2026-10-15
+lastmod: 2026-10-21
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_268/2026 vom 15. September 2026: Hinreichender Tatvorhalt (Art. 158 Abs. 1 lit. a StPO), Nachholung bei Verfahrenserweiterung in der Schlusseinvernahme durch ziffernweises Durchgehen der Eröffnungsverfügung sowie Zulässigkeit flexibler Reihenfolge der Vorhalte."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -42,7 +47,7 @@ Art. 159 StPO ergänzt die Belehrungspflicht durch das Recht der beschuldigten P
 
 Art. 158 Abs. 1 StPO gilt für die **erste formelle, protokollierte Einvernahme** i.S.v. Art. 142 ff. StPO. Massgeblich ist nicht die formelle Bezeichnung der Einvernahme, sondern ob tatsächlich eine Befragung als Beschuldigte stattfindet. Eine Pflicht, die ausführliche Belehrung vor jeder weiteren Einvernahme zu wiederholen, kann aus Art. 143 Abs. 1 StPO nicht hergeleitet werden (BGer 6B_518/2014 vom 4. Dezember 2014).
 
-**Erweiterung des Verfahrensgegenstands**: Der Begriff der «ersten Einvernahme» ist an den Verfahrensgegenstand gebunden. Erweitert sich dieser im Verlauf des Verfahrens, muss die beschuldigte Person erneut nach Abs. 1 belehrt werden, sobald eine auf den neuen Verfahrensgegenstand bezogene «erste Einvernahme» stattfindet (BGer 6B_359/2021 vom 20. Mai 2021).
+**Erweiterung des Verfahrensgegenstands**: Der Begriff der «ersten Einvernahme» ist an den Verfahrensgegenstand gebunden. Erweitert sich dieser im Verlauf des Verfahrens, muss die beschuldigte Person erneut nach Abs. 1 belehrt werden, sobald eine auf den neuen Verfahrensgegenstand bezogene «erste Einvernahme» stattfindet (BGer 6B_359/2021 vom 20. Mai 2021). Unterbleibt ein entsprechender Tatvorhalt bezüglich des neuen Verfahrensgegenstands in vorangegangenen Einvernahmen, sind frühere Aussagen hierzu absolut unverwertbar (Art. 158 Abs. 2 i.V.m. Art. 141 Abs. 1 StPO); als «erste Einvernahme» hinsichtlich dieses Vorwurfs gilt diesfalls erst diejenige spätere Einvernahme (wie etwa die Schlusseinvernahme), in welcher der Tatvorhalt erstmals rechtsgenügend vorgehalten wird ([BGer 6B_268/2026 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026), E. 1.4 unter Verweis auf BGer 6B_202/2024 E. 1.3.3).
 
 ### 2.2 Materieller Einvernahmebegriff
 
@@ -63,6 +68,22 @@ Wechselt die prozessuale Rolle von der Auskunftsperson (Art. 178 f. StPO) zur be
 ### 3.1 Deliktsvorhalt (lit. a)
 
 Die beschuldigte Person ist darüber zu informieren, dass gegen sie ein Vorverfahren eingeleitet worden ist, und welche Straftaten Gegenstand des Verfahrens bilden. Vorzuhalten ist der konkrete äussere Lebenssachverhalt und der daran geknüpfte Deliktsvorwurf — nicht die genaue rechtliche Würdigung (BGE 141 IV 20; BGer 6B_1214/2019 vom 1. Mai 2020; BGer 6B_157/2016 vom 8. August 2016). Ein knapper Vorhalt, der im Verlauf der Einvernahme konkretisiert wird, genügt den Anforderungen, wenn die beschuldigte Person hinreichend über den Untersuchungsgegenstand informiert ist (BGer 6B_1214/2019 vom 1. Mai 2020). Die Belehrung ist im Protokoll zu vermerken (Art. 143 Abs. 2 StPO; BGE 141 IV 20, E. 1.3.3).
+
+#### 3.1.1 Zeitpunkt und Reihenfolge der Vorhalte innerhalb der Einvernahme
+
+Grundsätzlich hat der Hinweis auf den Gegenstand des Verfahrens zu Beginn der Einvernahme zu erfolgen; ein blosser Hinweis im späteren Verlauf genügt der Hinweispflicht bei Beginn der Vernehmung nicht (BGer 6B_489/2018 vom 31. Oktober 2018; BGer 6B_1182/2020 vom 4. Januar 2022 E. 2.2). 
+
+Das Bundesgericht hat jedoch klargestellt, dass die chronologische bzw. formelle Reihenfolge der einzelnen Tatvorhalte innerhalb der Einvernahme **nicht strikt vorgegeben** ist ([BGer 6B_268/2026 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026), E. 1.4). Werden mehrere Deliktskomplexe verhandelt, schadet es der Gültigkeit des Tatvorhalts nicht, wenn ein Deliktsvorwurf erst bei späteren Einzelvorhalten (z.B. Vorhalte 31 und 32) im Detail vorgehalten wird. Es wäre unzweckmässig und nicht erforderlich, umfangreiche Vorhalte vorab summarisch komplett zu verlesen, um anschliessend nochmals auf jede Ziffer einzeln einzugehen, solange die beschuldigte Person bereits eingangs über den Gegenstand des Strafverfahrens orientiert wurde und ihre Verteidigungsrechte vollumfänglich wahrnehmen kann.
+
+#### 3.1.2 Nachholung in der Schlusseinvernahme und Verweis auf die Eröffnungsverfügung
+
+Wurde ein Deliktsvorwurf im bisherigen Vorverfahren nicht oder ungenügend vorgehalten, kann ein hinreichender Tatvorhalt im Sinne von Art. 158 Abs. 1 lit. a StPO auch noch anlässlich der **Schlusseinvernahme** (Art. 317 StPO) rechtsgenügend nachgeholt werden ([BGer 6B_268/2026 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026), E. 1.4).
+
+Ein solches Vorgehen erfüllt die gesetzlichen Anforderungen namentlich dann, wenn:
+1. der beschuldigten Person und ihrer Verteidigung vorgängig eine detaillierte Eröffnungsverfügung zugestellt wurde, in welcher die einzelnen Tatvorwürfe ausführlich umschrieben sind, und
+2. die Staatsanwaltschaft in der Schlusseinvernahme diese Verfügung Ziffer für Ziffer mit der beschuldigten Person durchgeht, die Vorhalte zusammengefasst vorhält und zur Stellungnahme auffordert.
+
+Erhält die beschuldigte Person im Anschluss an die Schlusseinvernahme zudem formell Gelegenheit, Akteneinsicht zu nehmen und Beweisanträge zu stellen (Art. 318 StPO), ist der Gehörsanspruch (Art. 29 Abs. 2 BV, Art. 6 Ziff. 3 lit. b und c EMRK) vollumfänglich gewahrt und der Tatvorhalt rechtsgültig erbracht ([BGer 6B_268/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026), E. 1.4).
 
 ### 3.2 Aussage- und Mitwirkungsverweigerungsrecht (lit. b)
 
@@ -206,6 +227,7 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | Fehlender Hinweis auf spezifisches Zeugnisverweigerungsrecht bezüglich Ehegatten | Ja | Ja (partiell) | BGer 1B_56/2021 |
 | Einvernahme als Polizeirapport ohne Belehrung | Ja | Ja | BGer 6B_234/2019 |
 | Erweiterter Verfahrensgegenstand ohne erneute Belehrung | Ja (erneut) | Ja | BGer 6B_359/2021 |
+| Tatvorhalt bezüglich neuem Delikt erst in Schlusseinvernahme durch ziffernweises Durchgehen der Eröffnungsverfügung (Vorhalt erst bei Ziff. 31/32) | Ja (Schlusseinvernahme gilt als erste Einvernahme zum neuen Delikt) | Nein (Vorhalt rechtsgenügend, Reihenfolge nicht strikt vorgegeben) | [BGer 6B_268/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026), E. 1.4 |
 | Informelle Befragung am Tatort (Anfangsstadium) | Nein | Nein | BGer 6B_1067/2023; BGE 151 IV 73, E. 2.4.5 |
 | Rollenwechsel: Auskunftsperson zu beschuldigte Person | Ja | Ja | BGE 144 IV 28, E. 1.3 |
 | Stichwortartige Belehrung (vorgedruckt) mit unterschriftlicher Bestätigung und ergänzender Zeugenaussage | Ja (wenn verständlich eröffnet) | Nein (wenn ergänzt durch Zeugenaussage) | BGer 6B_1205/2023, E. 2.4.3–2.4.5 |
@@ -228,6 +250,7 @@ Die Belehrung ist im **Protokoll zu vermerken** (Art. 143 Abs. 2 StPO; BGE 141 I
 | BGE 144 IV 28 | Belehrungspflichten bei Auskunftspersonen | Wird eine Person von der Polizei einvernommen und steht fest, dass sie später als Zeuge einzuvernehmen sein wird, muss die Polizei sie auf die Rechte und Pflichten sowohl einer Auskunftsperson als auch eines Zeugen aufmerksam machen. |
 | BGE 142 IV 207 | Nemo tenetur im Entsiegelungsverfahren | Strafprozessualer nemo-tenetur-Grundsatz im Zusammenhang mit der Entsiegelung bankinterner Dokumente. |
 | BGE 141 IV 20 | Deliktsvorhalt und Belehrungspflicht | Der Eröffnungsverfügung kommt lediglich deklaratorische Wirkung zu. Der Beschuldigte muss in allgemeiner Weise über den Gegenstand des Verfahrens informiert werden. |
+| [BGer 6B_268/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026) | Tatvorhalt in Schlusseinvernahme / Reihenfolge | Ein hinreichender Tatvorhalt (Art. 158 Abs. 1 lit. a StPO) kann bei Verfahrenserweiterung auch in der Schlusseinvernahme rechtsgenügend erfolgen, indem eine zuvor zugestellte detaillierte Eröffnungsverfügung Ziffer für Ziffer durchgegangen wird. Die formelle Reihenfolge der Vorhalte innerhalb der Einvernahme ist nicht strikt vorgegeben, solange die beschuldigte Person wirksam über den Vorwurf informiert wird und ihre Verteidigungsrechte wahren kann. |
 | BGer 6B_1205/2023 (5er-Besetzung) | Stichwortartige Belehrung und Zeugenaussage | Eine stichwortartige, vorgedruckte Rechtsbelehrung kann rechtsgenüglich sein, wenn sie vom Beschuldigten unterschriftlich bestätigt wurde und ergänzende Zeugenaussagen des einvernehmenden Beamten den Inhalt und die Verständlichkeit der Belehrung substantiiert belegen. Das Protokoll allein genügt jedoch nicht zwingend für den Beweis der genügenden Belehrung (E. 2.4.3 offen gelassen). Das Bundesgericht mahnt zur ausführlicheren Protokollierung (E. 2.4.5). Der einvernehmende Beamte bedarf keiner Entbindung vom Amtsgeheimnis (E. 2.4.4.1; Bestätigung von BGE 140 IV 177). |
 | BGer 6B_500/2012 | Mass der Rechtsbelehrung | Das blosse Verlesen der Rechte und Pflichten und ein Hinweis auf die Gesetzesbestimmungen genügen bei Rechtsunkundigen nicht. Die beschuldigte Person muss tatsächlich in der Lage sein, ihre zentralen Rechte und Pflichten in der aktuellen Verfahrenssituation zu erkennen (E. 1.2.1). |
 | BGer 6B_317/2021 | Vorgedruckte Rechtsbelehrung / Kurzeinvernahme | Bei einer vorgedruckten Rechtsbelehrung im Rahmen einer polizeilichen Kurzeinvernahme kann aus der Unterschrift am Ende der Einvernahme nicht zwingend gefolgert werden, dass die Voraussetzungen von Art. 143 und Art. 158 StPO erfüllt sind. Eine ausführlichere Protokollierung ist angezeigt (E. 1.1). |

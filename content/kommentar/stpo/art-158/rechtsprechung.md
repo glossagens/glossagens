@@ -2,7 +2,7 @@
 title: "Rechtsprechung zu Art. 158 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-08-13"
+lastmod: "2026-10-21"
 description: "Übersicht der Entscheide zu Art. 158 StPO — Hinweise bei der ersten Einvernahme, nemo-tenetur-Grundsatz, PIN-Code, Verwertungsverbot"
 tags: ["Rechtsprechung", "StPO", "Belehrungspflicht", "Einvernahme", "Aussageverweigerungsrecht", "nemo tenetur", "Verwertungsverbot"]
 agent_verified: true
@@ -174,6 +174,20 @@ Das Bundesgericht bestätigt, dass der Vorhalt zu Beginn der Einvernahme zu erfo
 
 ---
 
+### [BGer 6B_268/2026 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_6B_268/2026) — Hinreichender Tatvorhalt / Nachholung in der Schlusseinvernahme und Reihenfolge der Vorhalte
+
+**Docket**: 6B_268/2026 | **Datum**: 15. September 2026
+
+**Tatvorhalt bei Verfahrenserweiterung (Art. 158 Abs. 1 lit. a StPO)**: Erweitert sich der Gegenstand des Strafverfahrens im Verlaufe der Untersuchung und wurde der neue Deliktskomplex (hier: mehrfache Geldwäscherei neben Betäubungsmitteldelikten) der beschuldigten Person in früheren Einvernahmen nicht vorgehalten, sind ihre früheren Aussagen bezüglich dieses Vorwurfs absolut unverwertbar (Art. 158 Abs. 2 i.V.m. Art. 141 Abs. 1 StPO). Als «erste Einvernahme» im Sinne von Art. 158 Abs. 1 StPO bezüglich des neuen Vorwurfs gilt diesfalls erst diejenige Einvernahme, in welcher der Vorhalt erstmals rechtsgenügend eröffnet wird — vorliegend die Schlusseinvernahme durch die Staatsanwaltschaft (E. 1.4 unter Verweis auf BGer 6B_202/2024 E. 1.3.3).
+
+**Nachholung durch ziffernweises Durchgehen der Eröffnungsverfügung**: Ein hinreichender Tatvorhalt kann auch noch anlässlich der Schlusseinvernahme (Art. 317 StPO) rechtsgenügend erfolgen, wenn der beschuldigten Person und ihrer Verteidigung vorgängig eine detaillierte Eröffnungsverfügung zugestellt worden ist und die Staatsanwaltschaft diese Verfügung in der Schlusseinvernahme Ziffer für Ziffer durchgeht, die Vorhalte zusammengefasst vorhält und zur Stellungnahme auffordert (E. 1.4).
+
+**Reihenfolge der Vorhalte innerhalb der Einvernahme**: Die chronologische bzw. formelle Reihenfolge der einzelnen Tatvorhalte innerhalb der Einvernahme ist nicht strikt vorgegeben. Dass die Vorhalte bezüglich des neuen Deliktskomplexes erst bei den Vorhalten 31 und 32 erfolgten, schadet der Gültigkeit nicht. Es wäre unzweckmässig, zu Beginn der Einvernahme zuerst eine mehrseitige Eröffnungsverfügung integral zu verlesen, um danach nochmals auf jede Ziffer einzeln einzugehen. Entscheidend ist, dass die beschuldigte Person wirksam über den Gegenstand des Vorwurfs ins Bild gesetzt wird und — unter Einräumung der Frist für Beweisanträge zum Abschluss der Untersuchung (Art. 318 StPO) — ihre Verteidigungsrechte vollumfänglich wahrnehmen kann (E. 1.4).
+
+**Einschlägig für**: Art. 158 Abs. 1 lit. a (Deliktsvorhalt), Abs. 2 (Unverwertbarkeit), Art. 317/318 StPO (Schlusseinvernahme / Untersuchungsabschluss), Verfahrenserweiterung
+
+---
+
 ### BGer 6B_518/2014 vom 4. Dezember 2014 — Umfang der Belehrungspflicht / keine Wiederholungspflicht
 
 Eine Pflicht, die ausführliche Belehrung vor jeder weiteren Einvernahme zu wiederholen, kann aus Art. 143 Abs. 1 StPO nicht hergeleitet werden. Die Behörden sind nicht verpflichtet, ihr gesamtes Wissen vor der ersten Einvernahme offenzulegen.
@@ -256,4 +270,4 @@ Der Vorhalt des Tatvorwurfs muss zu Beginn der Einvernahme erfolgen; ein lateral
 
 ---
 
-*Letzte Aktualisierung: 2026-06-06*
+*Letzte Aktualisierung: 2026-10-21*
