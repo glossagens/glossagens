@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 5 RPG"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-09-01
+lastmod: 2026-10-21
 description: "Übersicht der Leitentscheide zu Art. 5 RPG (Planungsmehrwertausgleich, Um- und Aufzonungen, materielle Enteignung und Entschädigungspflicht)."
 tags: ["Rechtsprechung", "RPG", "Raumplanung", "Mehrwertausgleich", "Planungsvorteil", "Materielle Enteignung"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 1C_571/2025 vom 15.09.2026 (Qualifikation als Nichteinzonung bei Altnutzungsplänen ohne RPG-Konformitätsvermutung)."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -50,3 +55,10 @@ revisions:
 - **Thema**: Gemeindeautonomie und kommunale Mehrwertabgaben
 - **Kernaussage**: Solange das kantonale Recht keine abschliessende Regelung für den erweiterten Mehrwertausgleich bei Auf- und Umzonungen trifft, steht den Gemeinden die Kompetenz zu, im Rahmen ihrer Autonomie eigene Mehrwertabgabenreglemente zu erlassen.
 - **Einschlägig für**: Abs. 1 (Kompetenzaufteilung Kanton/Gemeinden)
+
+---
+
+### [BGer 1C_571/2025 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_1C_571/2025)
+- **Thema**: Materielle Enteignung: Keine RPG-Konformitätsvermutung für Altnutzungspläne (Nichteinzonung)
+- **Kernaussage**: Ein kommunaler Nutzungsplan (im Streitfall eine Planung von 1986/1991 im Kanton Waadt), der ohne vorgängige RPG-konforme Bedarfserhebung erlassen wurde, geniesst keine Vermutung der RPG-Konformität. Die spätere Ausgliederung eines unüberbauten Grundstücks aus der Bauzone in die Landwirtschaftszone im Rahmen einer planerischen Gesamtrevision stellt folglich eine entschädigungslose Nichteinzonung und keine materielle Enteignung (Auszonung) nach Art. 5 Abs. 2 RPG bzw. Art. 26 Abs. 2 BV dar.
+- **Einschlägig für**: Abs. 2 (Materielle Enteignung, Abgrenzung Auszonung vs. Nichteinzonung)

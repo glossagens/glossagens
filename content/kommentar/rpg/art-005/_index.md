@@ -2,11 +2,16 @@
 title: "Art. 5 RPG — Ausgleich und Entschädigung"
 weight: 5
 date: 2026-09-01
-lastmod: 2026-10-15
+lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 5 RPG: Mehrwertabgabe bei Neueinzonungen (mind. 20 %), Vorteilsausgleich bei Um- und Aufzonungen, Mittelverwendung, Freibeträge und Entschädigung bei materieller Enteignung."
 tags: ["RPG", "Raumplanung", "Mehrwertabgabe", "Planungsmehrwert", "Materielle Enteignung", "Einzonung", "Fälligkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 1C_571/2025 vom 15.09.2026 zur Abgrenzung zwischen Nichteinzonung und Auszonung bei Altnutzungsplänen ohne RPG-Konformitätsvermutung (Art. 5 Abs. 2 RPG)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -63,7 +68,11 @@ Nach der Leitpraxis des Bundesgerichts ([BGE 147 I 225 E. 4](https://entscheidsu
 Eine Eigentumsbeschränkung kommt einer Enteignung gleich, wenn:
 1. dem Eigentümer der bisherige oder ein voraussehbarer künftiger, wirtschaftlich zumutbarer Gebrauch der Sache untersagt oder stark eingeschränkt wird (schwerer Eingriff), oder
 2. ein einzelner Eigentümer so getroffen wird, dass sein Opfer gegenüber der Allgemeinheit unzumutbar erscheint (Sonderopfer).
-- Bei **Nichteinzonungen** (erstmalige Schaffung einer RPG-konformen Zonenordnung) entsteht ein Entschädigungsanspruch nur ausnahmsweise, wenn das Land am Stichtag bereits baureif und weitgehend überbaut war ([BGE 122 II 455 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-455_1996-11-04.html)).
+
+In der Praxis ist strikt zwischen Auszonung und Nichteinzonung zu unterscheiden:
+- **Auszonung:** Wird ein Grundstück aus einer bundesrechtskonformen RPG-Bauzone entlassen und einer Nichtbauzone (z.B. Landwirtschaftszone) zugewiesen, liegt in der Regel ein schwerer Eingriff vor, der eine Entschädigungspflicht nach Art. 5 Abs. 2 RPG begründet.
+- **Nichteinzonung:** Wird ein Grundstück bei der erstmaligen Schaffung einer RPG-konformen Zonenordnung nicht der Bauzone zugeteilt, entsteht ein Entschädigungsanspruch nur ausnahmsweise, wenn das Land am Stichtag bereits baureif und weitgehend überbaut war ([BGE 122 II 455 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-455_1996-11-04.html)).
+- **Keine RPG-Konformitätsvermutung für Altnutzungspläne:** Ältere Nutzungspläne (auch solche, die formell nach Inkrafttreten des RPG von 1979/1980 erlassen wurden, z.B. 1986/1991), die ohne eine methodisch RPG-konforme Erhebung des Baulandbedarfs nach Art. 15 RPG festgesetzt wurden, geniessen **keine Vermutung der RPG-Konformität**. Die spätere Ausgliederung eines solchen Grundstücks in die Landwirtschaftszone gilt rechtlich als entschädigungslose **Nichteinzonung** und nicht als entschädigungspflichtige Auszonung ([BGer 1C_571/2025 vom 15. September 2026 E. 3.2 ff.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_1C_571/2025)).
 
 ---
 
@@ -74,6 +83,9 @@ In der kommunalen Praxis ([BGer 1C_513/2025 vom 10. Juli 2026 / 1. September 202
 
 ### 2. Bemessung des Planungsvorteils
 In der kantonalen Schätzungspraxis wird der Planungsvorteil als Differenz zwischen dem Verkehrswert des Grundstücks unmittelbar vor und nach dem Inkrafttreten der Zonenplanänderung ermittelt. Konjunkturelle Wertsteigerungen während der Wartezeit bis zur Fälligkeit (Überbauung) fallen nicht unter die Mehrwertabgabe, sondern unterliegen der Grundstückgewinnsteuer.
+
+### 3. Entschädigungsanspruch bei Rückzonung aus Altnutzungsplänen (Kantonale Praxis)
+In Kantonen mit historisch überdimensionierten Bauzonen (z.B. Waadt oder Wallis) beruhten viele Nutzungspläne auf Festlegungen der 1980er- und 1990er-Jahre, die ohne echte Bedarfsnachweise im Sinne von Art. 15 RPG genehmigt worden waren. Werden solche Parzellen im Rahmen der bundesrechtlich verlangten RPG-Anpassungen ausgezont, machen Eigentümer regelmässig Entschädigungen wegen materieller Enteignung geltend. Nach bundesgerichtlicher Rechtsprechung greift hier jedoch keine Konformitätsvermutung; der Eingriff gilt als blosse Nichteinzonung und bleibt entschädigungslos ([BGer 1C_571/2025 vom 15. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.09.2026_1C_571/2025)).
 
 ---
 
