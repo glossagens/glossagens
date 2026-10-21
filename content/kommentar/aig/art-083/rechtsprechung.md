@@ -3,10 +3,15 @@ title: "Rechtsprechung zu Art. 83 AIG"
 weight: 99
 date: 2026-08-29
 lastmod: 2026-10-21
-description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse und länderspezifische BVGer-Praxis (einschliesslich Referenzurteile)"
+description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse, Non-Refoulement bei trans Personen (BGer 2C_513/2025) und länderspezifische Praxis (einschliesslich Referenzurteile)"
 tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Länderpraxis", "BVGer"]
 agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 2C_513/2025 vom 13.08.2026 (5er-Besetzung): Übertragung des Prüfschemas aus BGE 152 I 157 zum Non-Refoulement auf trans Personen (Brasilien), Anforderungen an die Substanziierung eines individuellen Verfolgungsrisikos gegenüber allgemeinen NGO-Berichten sowie funktionelle Zuständigkeit."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
@@ -79,7 +84,15 @@ revisions:
 
 ---
 
-## II. Länderspezifische Leitentscheide des Bundesverwaltungsgerichts (Lageanalysen)
+## II. Weitere Entscheide (Länderspezifische Leitpraxis und Lageanalysen)
+
+### BGer 2C_513/2025 — Brasilien: Non-Refoulement-Prüfschema für trans Personen (5er-Besetzung)
+- **Fundstelle**: [BGer 2C_513/2025 E. 4.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_2C_513/2025) (13. August 2026, 5-Richter-Entscheid)
+- **Thema**: Wegweisungsvollzug nach Brasilien / Non-Refoulement (Art. 83 Abs. 3 AIG, Art. 3 EMRK, Art. 25 Abs. 3 BV) / Trans Personen / Allgemeine NGO-Lageberichte vs. individuelle Substanziierung
+- **Kernaussage**: Das Bundesgericht überträgt in 5er-Besetzung die Grundsätze aus BGE 152 I 157 (betreffend homosexuelle Personen) ausdrücklich auf trans Personen. Eine Person, die sich auf das absolute Folter- und Misshandlungsverbot (Art. 3 EMRK, Art. 25 Abs. 3 BV) beruft, muss substanziieren, dass sie der vulnerablen Gruppe angehört und im Herkunftsstaat persönlich ein reales Risiko («real risk») einer unmenschlichen oder erniedrigenden Behandlung trägt. Ist eine Geschlechtsanpassung im Zielstaat legal und zivilstandsrechtlich anerkannt (wie in Brasilien), besteht keine Vermutung für staatliche Verfolgung. Droht Gewalt durch nicht-staatliche Dritte, muss dargetan werden, dass die heimatlichen Behörden schutzunwillig oder schutzunfähig sind. Allgemeine Berichte von Menschenrechtsorganisationen über Diskriminierung und hohe Fallzahlen von Gewalt gegen trans Personen (z.B. Amnesty International zu Brasilien) genügen für sich allein nicht ohne Berücksichtigung der regionalen Differenzierung, des Verhältnisses zur Gesamtkriminalität und konkreter individueller Gefährdungsanhalte. Zudem fehlt dem Bundesgericht bei der Überprüfung von Wegweisungen die Zuständigkeit, selbst eine vorläufige Aufnahme nach Art. 83 Abs. 1 AIG anzuordnen (E. 1.5.4).
+- **Einschlägig für**: Art. 83 Abs. 1 und 3 AIG (sowie Art. 3 EMRK, Art. 25 Abs. 3 BV)
+
+---
 
 ### BVGer E-4103/2024 — Türkei: Praxisänderung für die Provinzen Hakkâri und Şırnak
 - **Fundstelle**: [BVGer E-4103/2024 E. 6–8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_E-4103-2024_2024-11-08.pdf) (8. November 2024, 5-Richter-Entscheid)
