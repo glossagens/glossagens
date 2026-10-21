@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 176 ZGB"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-09-24
-description: "Übersicht der Rechtsprechung zu Art. 176 ZGB (Eheschutz/Getrenntleben): Leitentscheide zu Unterhaltsbemessung, hypothetischem Einkommen, Erwerbsobliegenheit, Konkubinat, Mankotragung, Wohnungs- und Hausratzuteilung, Gütertrennung sowie Kinderbelangen und alternierender Obhut, mit kantonalen Entscheiden zu Hausrat, Auszugsfrist und Verfahrensfragen."
-tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Getrenntleben", "Unterhalt", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut"]
-agent_verified: false
+lastmod: 2026-10-21
+description: "Übersicht der Rechtsprechung zu Art. 176 ZGB (Eheschutz/Getrenntleben): Leitentscheide zu Unterhaltsbemessung, hypothetischem Einkommen, Schulstufenmodell, Erwerbsobliegenheit, Konkubinat, Mankotragung, Wohnungs- und Hausratzuteilung, Gütertrennung sowie Kinderbelangen und alternierender Obhut, mit kantonalen Entscheiden zu Hausrat, Auszugsfrist und Verfahrensfragen."
+tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Getrenntleben", "Unterhalt", "Schulstufenmodell", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut"]
+agent_verified: true
 revisions:
+  - date: 2026-10-21
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 5A_254/2026 vom 30.09.2026 (unter II. Weitere Bundesgerichtsentscheide): Anrechnung eines hypothetischen Einkommens und strikte Begründungspflicht (Art. 29 Abs. 2 BV) bei Abweichung vom Schulstufenmodell im Eheschutz (Art. 176 Abs. 1 Ziff. 1 ZGB)."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "deepseek-v4.1-flash"
@@ -147,6 +152,14 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 5A_254/2026 — Erwerbsobliegenheit und strikte Begründungspflicht bei Abweichung vom Schulstufenmodell](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.09.2026_5A_254/2026)
+- **Thema**: Eheschutzunterhalt (Art. 176 Abs. 1 Ziff. 1 ZGB); Anrechnung eines hypothetischen Einkommens; Schulstufenmodell; Begründungspflicht (Art. 29 Abs. 2 BV); alternierende Obhut
+- **Kernaussage**: Bei der Festsetzung von Unterhaltsbeiträgen ist grundsätzlich vom tatsächlichen Einkommen auszugehen; ein hypothetisches Einkommen darf angerechnet werden, wenn dessen Erzielung zumutbar (Rechtsfrage) und tatsächlich möglich ist (Tatfrage). Nach dem Schulstufenmodell (BGE 144 III 481, BGE 147 III 308) ist von einem betreuenden Elternteil in der Regel eine Erwerbstätigkeit von 50 % ab obligatorischer Einschulung des jüngsten Kindes, 80 % ab Beginn der Sekundarstufe I und 100 % ab vollendetem 16. Altersjahr zu erwarten. Von diesen Richtlinien darf das Sachgericht im pflichtgemässen Ermessen (Art. 4 ZGB) abweichen, wenn besondere Umstände des Einzelfalls dies rechtfertigen (z.B. erhöhte Betreuungslast bei vier Kindern oder Behinderung). Weicht das Gericht jedoch ab und verlangt es von einer gesunden, gut ausgebildeten Partei trotz Sekundarschulbesuch der jüngsten Tochter (13 Jahre) und alternierender Obhut (wöchentlicher Wechsel) nur ein 50%-Pensum auf unbestimmte Dauer, muss dies im Urteil konkret und nachvollziehbar begründet werden. Der blosse Hinweis, es handle sich um Eheschutzmassnahmen, genügt keinesfalls. Eine unbegründete Abweichung verletzt Art. 29 Abs. 2 BV und führt zur Aufhebung und Rückweisung. Zudem ist bei alternierender Obhut die Erwerbsfähigkeit beider Eltern ohnehin nur im Umfang der tatsächlichen Betreuung eingeschränkt.
+- **E. 5.4** (wörtlich): «Il suit de là que faute pour la Cour de justice d'avoir exposé les circonstances pour lesquelles il conviendrait ici de s'écarter des lignes directrices sur les paliers scolaires en exigeant de l'intimée qu'elle reprenne une activité à 50 % pour une durée indéterminée, il n'est pas possible de vérifier si son raisonnement est conforme au droit [...]. Le moyen du recourant doit dès lors être admis et la cause renvoyée à la Cour de justice pour complément d'instruction et, cas échéant, nouvelle décision sur ce point.»
+- **Einschlägig für**: Abs. 1 Ziff. 1; Verfahren (Art. 29 Abs. 2 BV)
+
+---
 
 ### [BGer 5A_766/2008 — Zuteilungskriterien für Wohnung und Hausrat; bezifferter Rechtsantrag](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-766-2008_2009-02-04.html)
 - **Thema**: Zweckmässigkeit und «grösserer Nutzen»; Antragserfordernis im bundesgerichtlichen Verfahren
