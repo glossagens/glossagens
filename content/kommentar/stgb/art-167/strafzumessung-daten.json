@@ -1,0 +1,238 @@
+{
+  "norm": "Art. 167 StGB – Freiheitsstrafe bis zu drei Jahren oder Geldstrafe",
+  "auswertungsstand": "2026-08-28",
+  "quelle": "entscheidsuche.ch und strafzumessung.ch",
+  "meta": {
+    "Auswertungsstand": "28.08.2026",
+    "Ausgewertete Entscheide": "32",
+    "Belegte Einzelstrafen": "12",
+    "Status": "Prototyp"
+  },
+  "tabellen": [
+    {
+      "caption": "Tabelle 1: Art. 167 StGB als Einsatzstrafdelikt – gespiegelt am Dispositiv",
+      "rows": [
+        {
+          "entscheid": "[KG BL 460 11 229](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-11-229_2012-08-07.pdf)",
+          "datum": "07.08.2012",
+          "benannter_grad": "—",
+          "deliktsbetrag": "Fr. 90'999",
+          "einzel_einsatzstrafe": "30 TS (Anstiftung: 25 TS)",
+          "ausgesprochen_dispositiv": "30 TS + Fr. 500 Busse",
+          "bemerkung": "vier Fahrzeuge an Zahlungs statt; bestätigt in BGer 6B_699/2012"
+        },
+        {
+          "entscheid": "[BezG Willisau](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-361-2017_2017-11-02.html)",
+          "datum": "26.02.2016",
+          "benannter_grad": "—",
+          "deliktsbetrag": "Fr. 59'576",
+          "einzel_einsatzstrafe": "60 TS (Zusatzstrafe)",
+          "ausgesprochen_dispositiv": "100 TS (KG LU, mit weiterem Delikt)",
+          "bemerkung": "Rennfahrzeug an die eigene Schwestergesellschaft, verrechnet"
+        },
+        {
+          "entscheid": "[KG GR SB 2008 13](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_004_SB-2008-13_2008-06-26.pdf)",
+          "datum": "26.06.2008",
+          "benannter_grad": "nicht so leicht",
+          "deliktsbetrag": "Fr. 14'256",
+          "einzel_einsatzstrafe": "60 TS (aStGB: 73 Tage)",
+          "ausgesprochen_dispositiv": "60 TS + Fr. 550 + Fr. 80 Busse",
+          "bemerkung": "99 % der Stammanteile am begünstigten Gläubiger; bestätigt in BGer\n 6B_989/2008"
+        },
+        {
+          "entscheid": "[OG ZH SB240129](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240129_2025-03-18.pdf)",
+          "datum": "18.03.2025",
+          "benannter_grad": "nicht mehr leicht (objektiv)",
+          "deliktsbetrag": "Fr. 42'811",
+          "einzel_einsatzstrafe": "120 → 100 → 90 TS",
+          "ausgesprochen_dispositiv": "90 TS (aufgehoben)",
+          "bemerkung": "Freispruch durch BGer 6B_481/2025 vom 12.03.2026"
+        },
+        {
+          "entscheid": "[OG ZH SB240128](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240128_2025-03-18.pdf)",
+          "datum": "18.03.2025",
+          "benannter_grad": "nicht mehr leicht (objektiv)",
+          "deliktsbetrag": "Fr. 42'811",
+          "einzel_einsatzstrafe": "120 → 100 → 90 TS",
+          "ausgesprochen_dispositiv": "90 TS (aufgehoben)",
+          "bemerkung": "Parallelverfahren gegen die Mittäterin; Freispruch durch BGer 6B_491/2025"
+        }
+      ]
+    },
+    {
+      "caption": "Tabelle 2: Art. 167 StGB als asperiertes Nebendelikt",
+      "rows": [
+        {
+          "entscheid": "[OG NW SA 23 3](https://entscheidsuche.ch/docs/NW_Gerichte/NW_OG_001_35548_2024-06-11.pdf)",
+          "datum": "21.03.2024",
+          "benannter_grad": "unterster Bereich",
+          "deliktsbetrag": "Fr. 1'218",
+          "isolierte_einzelstrafe": "10 TS",
+          "zuschlag": "5 TS (½)",
+          "hauptdelikt": "Urkundenfälschung",
+          "ausgesprochen_dispositiv": "100 TS"
+        },
+        {
+          "entscheid": "[OG NW SA 23 3](https://entscheidsuche.ch/docs/NW_Gerichte/NW_OG_001_35548_2024-06-11.pdf)",
+          "datum": "21.03.2024",
+          "benannter_grad": "unterster Bereich",
+          "deliktsbetrag": "Fr. 2'156",
+          "isolierte_einzelstrafe": "10 TS",
+          "zuschlag": "5 TS (½)",
+          "hauptdelikt": "Urkundenfälschung",
+          "ausgesprochen_dispositiv": "100 TS"
+        },
+        {
+          "entscheid": "[OG NW SA 23 3](https://entscheidsuche.ch/docs/NW_Gerichte/NW_OG_001_35548_2024-06-11.pdf)",
+          "datum": "21.03.2024",
+          "benannter_grad": "leicht",
+          "deliktsbetrag": "Fr. 28'700",
+          "isolierte_einzelstrafe": "30 TS",
+          "zuschlag": "20 TS (⅔)",
+          "hauptdelikt": "Urkundenfälschung",
+          "ausgesprochen_dispositiv": "100 TS (120 − 20, Art. 48 lit. e)"
+        },
+        {
+          "entscheid": "[OG ZH SB140131](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB140131_2014-09-12.pdf)",
+          "datum": "12.09.2014",
+          "benannter_grad": "leicht",
+          "deliktsbetrag": "Fr. 20'000 (+ Zahlungen)",
+          "isolierte_einzelstrafe": "30 Tage",
+          "zuschlag": "15 Tage (Differenz 75−60)",
+          "hauptdelikt": "Misswirtschaft",
+          "ausgesprochen_dispositiv": "75 TS à Fr. 30"
+        },
+        {
+          "entscheid": "[OG ZH SB210463](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210463_2023-12-18.pdf)",
+          "datum": "18.12.2023",
+          "benannter_grad": "—",
+          "deliktsbetrag": "Fr. 66'000",
+          "isolierte_einzelstrafe": "90 TS",
+          "zuschlag": "70 TS (⅜)",
+          "hauptdelikt": "ung. Geschäftsbesorgung",
+          "ausgesprochen_dispositiv": "22 Mt. FS + 360 TS + Busse"
+        },
+        {
+          "entscheid": "[OG ZH SB190523](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB190523_2021-04-22.pdf)",
+          "datum": "22.04.2021",
+          "benannter_grad": "—",
+          "deliktsbetrag": "Fr. 150'000",
+          "isolierte_einzelstrafe": "300 TS",
+          "zuschlag": "— (gekappt)",
+          "hauptdelikt": "Veruntreuung",
+          "ausgesprochen_dispositiv": "27 Mt. FS + 260 TS"
+        },
+        {
+          "entscheid": "[KG BL 460 15 223](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_004_460-15-223_2016-05-24.pdf)",
+          "datum": "24.05.2016",
+          "benannter_grad": "—",
+          "deliktsbetrag": "—",
+          "isolierte_einzelstrafe": "—",
+          "zuschlag": "—",
+          "hauptdelikt": "Misswirtschaft",
+          "ausgesprochen_dispositiv": "60 TS à Fr. 80"
+        },
+        {
+          "entscheid": "[OG SH](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-20-2015_2015-03-16.html)",
+          "datum": "18.11.2014",
+          "benannter_grad": "—",
+          "deliktsbetrag": "—",
+          "isolierte_einzelstrafe": "—",
+          "zuschlag": "—",
+          "hauptdelikt": "ung. Geschäftsbesorgung",
+          "ausgesprochen_dispositiv": "360 TS à Fr. 230"
+        },
+        {
+          "entscheid": "[KG FR 501 2018 211](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_006_501-2018-211_2020-07-06.pdf)",
+          "datum": "06.07.2020",
+          "benannter_grad": "—",
+          "deliktsbetrag": "—",
+          "isolierte_einzelstrafe": "—",
+          "zuschlag": "—",
+          "hauptdelikt": "Gläubigerschädigung",
+          "ausgesprochen_dispositiv": "180 Tage FS (Verschlechterungsverbot)"
+        },
+        {
+          "entscheid": "[KG BL](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-134-2009_2009-09-01.html)",
+          "datum": "01.12.2008",
+          "benannter_grad": "—",
+          "deliktsbetrag": "—",
+          "isolierte_einzelstrafe": "—",
+          "zuschlag": "—",
+          "hauptdelikt": "Pfändungsbetrug",
+          "ausgesprochen_dispositiv": "10 Mt. FS + Fr. 1'500 Busse"
+        }
+      ]
+    },
+    {
+      "caption": "Merkmale in der Reihenfolge ihres belegten Gewichts",
+      "rows": [
+        {
+          "merkmal": "Fällige Forderung, übliche Zahlungsmittel",
+          "richtung": "—",
+          "belegte_wirkung": "Tatbestand entfällt (N 13–14)"
+        },
+        {
+          "merkmal": "Kongruente Deckung + nur Eventualabsicht",
+          "richtung": "—",
+          "belegte_wirkung": "Freispruch; direkte Absicht nötig (N 13)"
+        },
+        {
+          "merkmal": "Selbstbegünstigung / beherrschte Gesellschaft",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "alle Werte > 60 TS (N 4–5)"
+        },
+        {
+          "merkmal": "Zahlung am Tag der Bilanzdeponierung",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "Einsatzstrafe 120 TS (N 7)"
+        },
+        {
+          "merkmal": "Entzug praktisch aller liquiden Mittel",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "Totalverlust auch der 1. Klasse (N 8)"
+        },
+        {
+          "merkmal": "Deliktsbetrag",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "degressiv, schwacher Prädiktor (N 10)"
+        },
+        {
+          "merkmal": "Deliktsbetrag unter rund Fr. 3'000",
+          "richtung": "mindernd",
+          "belegte_wirkung": "«unterster Bereich», 10 TS (N 10)"
+        },
+        {
+          "merkmal": "Fremdnütziges Motiv (z.B. Pfandrechte abwenden)",
+          "richtung": "mindernd",
+          "belegte_wirkung": "trägt die tiefere von zwei Einzelstrafen (N 6)"
+        },
+        {
+          "merkmal": "Nur Eventualabsicht (bei Regelbeispiel)",
+          "richtung": "mindernd",
+          "belegte_wirkung": "120 → 100 TS, rund ⅙ (N 11)"
+        },
+        {
+          "merkmal": "Zwei Drittel der Verjährung verstrichen",
+          "richtung": "mindernd",
+          "belegte_wirkung": "Art. 48 lit. e; 120 → 100 TS (N 17)"
+        },
+        {
+          "merkmal": "Teilnahme statt Täterschaft (Extraneus)",
+          "richtung": "mindernd",
+          "belegte_wirkung": "Art. 26 StGB; 30 → 25 TS (N 18)"
+        },
+        {
+          "merkmal": "Kein Haftungssubstrat vorhanden",
+          "richtung": "—",
+          "belegte_wirkung": "entlastet *nicht* (N 9)"
+        },
+        {
+          "merkmal": "Asperation als Nebendelikt",
+          "richtung": "mindernd",
+          "belegte_wirkung": "Zuschlag ½ bis ⅜ der Einzelstrafe (N 23)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "norm": "Art. 164 Ziff. 1 StGB – Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe",
+  "auswertungsstand": "2026-08-22",
+  "quelle": "entscheidsuche.ch und strafzumessung.ch",
+  "meta": {
+    "Auswertungsstand": "22.08.2026",
+    "Ausgewertete Entscheide": "357",
+    "Belegte Strafwerte": "13",
+    "Status": "Prototyp"
+  },
+  "tabellen": [
+    {
+      "caption": "Tabelle 1: Isoliert bemessene Einzelstrafen für Art. 164 StGB – gespiegelt am Dispositiv",
+      "rows": [
+        {
+          "entscheid": "[OG BE SK 2023 532](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2023-532_2024-11-15.pdf)",
+          "datum": "15.11.2024",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "80 Strafeinheiten (+ 10 Täterkomp. = 90 TS)",
+          "ausgesprochen_dispositiv": "60 TS (Verschl.-verbot)",
+          "bemerkung": "einziger Schuldspruch; Deliktsbetrag CHF 12'707.44"
+        },
+        {
+          "entscheid": "[OG ZH SB180092](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180092_2021-12-16.pdf)",
+          "datum": "16.12.2021",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "45 Tagessätze (Gehilfenschaft)",
+          "ausgesprochen_dispositiv": "300 TS (Zusatzstrafe)",
+          "bemerkung": "Stornierung von vier Mietzinsen; CHF 6'000 Pfändungssubstrat entzogen"
+        },
+        {
+          "entscheid": "[OG ZH SB170493](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB170493_2019-02-11.pdf)",
+          "datum": "11.02.2019",
+          "benannter_grad": "nicht mehr leicht (objektiv)",
+          "einzel_einsatzstrafe": "90 Tagessätze (150 TS objektiv − 60 TS)",
+          "ausgesprochen_dispositiv": "6 Mt. FS + 120 TS",
+          "bemerkung": "Einsatzstrafe der Geldstrafe; höherer Lohn direkt nach der Tat"
+        },
+        {
+          "entscheid": "[OG ZH SB230135](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230135_2024-09-25.pdf)",
+          "datum": "25.09.2024",
+          "benannter_grad": "hoher Deliktsbetrag",
+          "einzel_einsatzstrafe": "10 Monate",
+          "ausgesprochen_dispositiv": "36 Mt. FS",
+          "bemerkung": "mehrfache Begehung; Deliktsbetrag nicht exakt bestimmbar"
+        },
+        {
+          "entscheid": "[OG AG SST.2025.65](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-65_2026-01-12.pdf)",
+          "datum": "12.01.2026",
+          "benannter_grad": "leicht bis mittelschwer",
+          "einzel_einsatzstrafe": "je 1–9 Monate (15 Taten)",
+          "ausgesprochen_dispositiv": "30 Mt. FS (40 Mt. angemessen)",
+          "bemerkung": "15 Tatbegehungen; hohes Mass an Entscheidungsfreiheit"
+        },
+        {
+          "entscheid": "[OG ZH SB240125](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240125_2025-03-03.pdf)",
+          "datum": "03.03.2025",
+          "benannter_grad": "oberer Bereich",
+          "einzel_einsatzstrafe": "**42 Monate**",
+          "ausgesprochen_dispositiv": "3 Jahre FS",
+          "bemerkung": "Verlust der Gläubigerin USD 31,41 Mio.; planmässig, raffiniert, arglistig"
+        }
+      ]
+    },
+    {
+      "caption": "Tabelle 2: Art. 164 StGB als asperiertes Nebendelikt",
+      "rows": [
+        {
+          "entscheid": "[OG ZH SB180092](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180092_2021-12-16.pdf)",
+          "datum": "16.12.2021",
+          "zuschlag": "30 TS",
+          "isolierte_einzelstrafe": "45 TS",
+          "einsatzstrafe_hauptdelikt": "Pfändungsbetrug",
+          "ausgesprochen_dispositiv": "300 TS"
+        },
+        {
+          "entscheid": "[OG ZH SB180264](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180264_2021-04-21.pdf)",
+          "datum": "21.04.2021",
+          "zuschlag": "5 Monate (Vorinstanz 3 Mt.)",
+          "isolierte_einzelstrafe": "—",
+          "einsatzstrafe_hauptdelikt": "ung. Geschäftsbesorgung",
+          "ausgesprochen_dispositiv": "34 Mt. FS"
+        },
+        {
+          "entscheid": "[OG ZH SB230033](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230033_2024-02-27.pdf)",
+          "datum": "27.02.2024",
+          "zuschlag": "5 Monate",
+          "isolierte_einzelstrafe": "—",
+          "einsatzstrafe_hauptdelikt": "ung. Geschäftsbesorgung",
+          "ausgesprochen_dispositiv": "35 Mt. FS"
+        },
+        {
+          "entscheid": "[OG ZH SB230135](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230135_2024-09-25.pdf)",
+          "datum": "25.09.2024",
+          "zuschlag": "6 Monate",
+          "isolierte_einzelstrafe": "10 Monate",
+          "einsatzstrafe_hauptdelikt": "Urkundenfälschung (20 Mt.)",
+          "ausgesprochen_dispositiv": "36 Mt. FS"
+        },
+        {
+          "entscheid": "[OG ZH SB240125](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240125_2025-03-03.pdf)",
+          "datum": "03.03.2025",
+          "zuschlag": "9 Monate (42 → 51 Mt.)",
+          "isolierte_einzelstrafe": "42 Monate",
+          "einsatzstrafe_hauptdelikt": "ung. Geschäftsbesorgung (42 Mt.)",
+          "ausgesprochen_dispositiv": "3 Jahre FS"
+        },
+        {
+          "entscheid": "[OG ZH SB240125](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240125_2025-03-03.pdf)",
+          "datum": "03.03.2025",
+          "zuschlag": "3 Monate (Gehilfenschaft, mit Art. 158)",
+          "isolierte_einzelstrafe": "—",
+          "einsatzstrafe_hauptdelikt": "ung. Geschäftsbesorgung",
+          "ausgesprochen_dispositiv": "3 Jahre FS"
+        },
+        {
+          "entscheid": "[OG AG SST.2025.65](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-65_2026-01-12.pdf)",
+          "datum": "12.01.2026",
+          "zuschlag": "12 Monate (28 → 40 Mt.)",
+          "isolierte_einzelstrafe": "je 1–9 Monate",
+          "einsatzstrafe_hauptdelikt": "mehrfache Misswirtschaft",
+          "ausgesprochen_dispositiv": "30 Mt. FS"
+        }
+      ]
+    },
+    {
+      "caption": "Merkmale der Tatschwere in der Reihenfolge ihres belegten Gewichts",
+      "rows": [
+        {
+          "merkmal": "Umfang des entzogenen Haftungssubstrats",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "CHF 12'707 → leicht (80 SE); Verlust von USD 31,41 Mio. → oberer Bereich (42 Mt.)"
+        },
+        {
+          "merkmal": "Deckungsgleichheit mit Art. 158 StGB",
+          "richtung": "mindernd",
+          "belegte_wirkung": "«erhebliche Verschuldensreduktion» (N 10)"
+        },
+        {
+          "merkmal": "Mass des deliktischen Tuns",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "wiegt schwerer als blosser Pfändungsbetrug (N 6)"
+        },
+        {
+          "merkmal": "Hinwegsetzen über Vereinbarung mit Gläubigern",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "«dreist»; Obergrenze der belegten Praxis"
+        },
+        {
+          "merkmal": "Berufliche Pflichtenstellung, Habgier",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "«Delinquenz als Rechtsanwalt»"
+        },
+        {
+          "merkmal": "Mehrfache Begehung",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "eigene Strafe je Tathandlung, dann Asperation"
+        },
+        {
+          "merkmal": "Direkter Vorsatz",
+          "richtung": "—",
+          "belegte_wirkung": "deliktsimmanent, *nicht* erhöhend (N 7)"
+        },
+        {
+          "merkmal": "Teilfreisprüche zum Deliktsbetrag",
+          "richtung": "—",
+          "belegte_wirkung": "«nicht entscheidend» für die Strafhöhe (N 5)"
+        },
+        {
+          "merkmal": "Tilgung fälliger, einklagbarer Schulden",
+          "richtung": "—",
+          "belegte_wirkung": "kein Tatbestand (BGE 131 IV 49, N 12)"
+        }
+      ]
+    }
+  ]
+}

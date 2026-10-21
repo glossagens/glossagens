@@ -1,0 +1,426 @@
+{
+  "norm": "Art. 163 StGB – Ziff. 1 (Schuldner): Freiheitsstrafe bis zu fünf\n Jahren oder Geldstrafe · Ziff. 2 (Dritter): Freiheitsstrafe bis zu drei Jahren oder\n Geldstrafe",
+  "auswertungsstand": "2026-08-22",
+  "quelle": "entscheidsuche.ch und strafzumessung.ch",
+  "meta": {
+    "Auswertungsstand": "22.08.2026",
+    "Recherchierte Entscheide": "213",
+    "Volltext ausgewertet": "63",
+    "Belegte Strafwerte": "32",
+    "Status": "Prototyp"
+  },
+  "tabellen": [
+    {
+      "caption": "Tabelle 1: Einzel- und Einsatzstrafen nach Art. 163 Ziff. 1 StGB (Schuldner) –\n gespiegelt am Dispositiv",
+      "rows": [
+        {
+          "entscheid": "[OG BE SK 2023 359](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2023-359_2024-12-20.pdf)",
+          "datum": "20.12.2024",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "30 Strafeinheiten",
+          "ausgesprochen_dispositiv": "7 Mt. FS + 90 TS",
+          "sachverhalt_betrag": "SUVA-Taggelder verschwiegen; Verlustscheine CHF 3'495.60"
+        },
+        {
+          "entscheid": "[OG BE SK 2016 189](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2016-189_2017-01-16.pdf)",
+          "datum": "16.01.2017",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "40 Strafeinheiten",
+          "ausgesprochen_dispositiv": "24 TS (Zusatzstrafe)",
+          "sachverhalt_betrag": "acht Liegenschaften geringen Werts im Konkurs verheimlicht"
+        },
+        {
+          "entscheid": "[OG BE SK 2019 246](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2019-246_2020-01-17.pdf)",
+          "datum": "17.01.2020",
+          "benannter_grad": "—",
+          "einzel_einsatzstrafe": "50 Strafeinheiten",
+          "ausgesprochen_dispositiv": "48 Mt. FS + 180 TS",
+          "sachverhalt_betrag": "Beiseiteschaffen / Nichtdeklarieren CHF 45'000"
+        },
+        {
+          "entscheid": "[OG BE SK 2019 246](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2019-246_2020-01-17.pdf)",
+          "datum": "17.01.2020",
+          "benannter_grad": "—",
+          "einzel_einsatzstrafe": "60 Strafeinheiten",
+          "ausgesprochen_dispositiv": "48 Mt. FS + 180 TS",
+          "sachverhalt_betrag": "Beiseiteschaffen / Nichtdeklarieren CHF 70'000"
+        },
+        {
+          "entscheid": "[OG BE SK 2019 246](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2019-246_2020-01-17.pdf)",
+          "datum": "17.01.2020",
+          "benannter_grad": "leicht bis mittelschwer",
+          "einzel_einsatzstrafe": "120 Strafeinheiten",
+          "ausgesprochen_dispositiv": "48 Mt. FS + 180 TS",
+          "sachverhalt_betrag": "Deliktsbetrag CHF 10'541 «neutral»; erhöhend: Hauskauf für CHF\n 45'000 trotz massiver Schulden"
+        },
+        {
+          "entscheid": "[OG AG SST.2022.44](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2022-44_2023-05-17.pdf)",
+          "datum": "17.05.2023",
+          "benannter_grad": "gerade noch leicht",
+          "einzel_einsatzstrafe": "90 Tagessätze",
+          "ausgesprochen_dispositiv": "90 TS (180 TS wären angemessen)",
+          "sachverhalt_betrag": "Einkommen CHF 27'836 in zwei Monaten verheimlicht"
+        },
+        {
+          "entscheid": "[OG AG SST.2022.44](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2022-44_2023-05-17.pdf)",
+          "datum": "17.05.2023",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "je 60 Tagessätze (3 Taten)",
+          "ausgesprochen_dispositiv": "90 TS",
+          "sachverhalt_betrag": "drei weitere Pfändungsvollzüge, identisches Vorgehen"
+        },
+        {
+          "entscheid": "[OG ZH SB130015](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB130015_2013-05-23.pdf)",
+          "datum": "23.05.2013",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "120 Tagessätze",
+          "ausgesprochen_dispositiv": "90 TS",
+          "sachverhalt_betrag": "fünf Taten; 63 Verlustscheine über CHF 302'517"
+        },
+        {
+          "entscheid": "[OG ZH SB170368](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB170368_2018-08-16.pdf)",
+          "datum": "16.08.2018",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "120 Tagessätze",
+          "ausgesprochen_dispositiv": "145 TS",
+          "sachverhalt_betrag": "zehn Pfändungsvollzüge / sieben Jahre; Verlustscheine rund CHF 8 Mio."
+        },
+        {
+          "entscheid": "[OG BE SK 2019 318](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2019-318_2020-06-25.pdf)",
+          "datum": "25.06.2020",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "240 Strafeinheiten",
+          "ausgesprochen_dispositiv": "150 TS (Zusatzstrafe)",
+          "sachverhalt_betrag": "Aktiven von CHF 247'181 über ein Vertragskonstrukt beiseitegeschafft"
+        },
+        {
+          "entscheid": "[OG ZH SB210169](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210169_2022-06-14.pdf)",
+          "datum": "14.06.2022",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "360 Tagessätze",
+          "ausgesprochen_dispositiv": "320 TS",
+          "sachverhalt_betrag": "rund CHF 105'000 vor der Insolvenzerklärung beiseitegeschafft; Tochter involviert"
+        },
+        {
+          "entscheid": "[OG AG SST.2024.204](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-204_2025-08-21.pdf)",
+          "datum": "21.08.2025",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "4 Monate",
+          "ausgesprochen_dispositiv": "30 Mt. FS",
+          "sachverhalt_betrag": "verheimlichtes Einkommen CHF 3'851.70"
+        },
+        {
+          "entscheid": "[OG AG SST.2024.204](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-204_2025-08-21.pdf)",
+          "datum": "21.08.2025",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "je 5 Monate (2 Taten)",
+          "ausgesprochen_dispositiv": "30 Mt. FS",
+          "sachverhalt_betrag": "verheimlichtes Einkommen CHF 7'703.40 bzw. CHF 7'679.10"
+        },
+        {
+          "entscheid": "[OG AG SST.2023.45](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-45_2024-01-08.pdf)",
+          "datum": "08.01.2024",
+          "benannter_grad": "nicht mehr leicht bis mittelschwer",
+          "einzel_einsatzstrafe": "4 Monate",
+          "ausgesprochen_dispositiv": "4 ½ Jahre FS",
+          "sachverhalt_betrag": "Kontokorrentbezüge von rund CHF 50'000 (2013–2017)"
+        },
+        {
+          "entscheid": "[OG ZH SB230514](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230514_2025-09-03.pdf)",
+          "datum": "03.09.2025",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "6 Monate",
+          "ausgesprochen_dispositiv": "21 Mt. FS",
+          "sachverhalt_betrag": "Einkünfte von rund CHF 70'000; «plumpes Vorgehen»"
+        },
+        {
+          "entscheid": "[OG ZH SB210309](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB210309_2022-05-24.pdf)",
+          "datum": "24.05.2022",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "7 Monate → 6 Mt.",
+          "ausgesprochen_dispositiv": "24 Mt. FS",
+          "sachverhalt_betrag": "Darlehen verschwiegen; CHF 94'000 vorenthalten; lange Verfahrensdauer"
+        },
+        {
+          "entscheid": "[OG ZH SB230232](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230232_2025-01-22.pdf)",
+          "datum": "22.01.2025",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "7 Monate → 8 Mt. mit Täterkomp.",
+          "ausgesprochen_dispositiv": "9 Mt. FS + 20 TS",
+          "sachverhalt_betrag": "zehn Pfändungsvollzüge / drei Jahre; rund CHF 120'000 Einkommen"
+        },
+        {
+          "entscheid": "[OG AG SST.2023.132](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-132_2024-06-05.pdf)",
+          "datum": "05.06.2024",
+          "benannter_grad": "gerade noch leicht",
+          "einzel_einsatzstrafe": "9 Monate (weitere je 6–9 Mt.)",
+          "ausgesprochen_dispositiv": "28 Mt. Gesamt-FS",
+          "sachverhalt_betrag": "Einkommen und Mittel für Mantelkauf verheimlicht"
+        },
+        {
+          "entscheid": "[BGer 6B_447/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-447-2021_2021-07-16.html)",
+          "datum": "16.07.2021",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "10 Monate",
+          "ausgesprochen_dispositiv": "15 Mt. FS (OG AG)",
+          "sachverhalt_betrag": "teilweise versuchter Pfändungsbetrug; Einsatzstrafe vom BGer bestätigt"
+        },
+        {
+          "entscheid": "[OG ZH SB230435](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230435_2024-06-17.pdf)",
+          "datum": "17.06.2024",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "10 Monate",
+          "ausgesprochen_dispositiv": "5 Jahre FS + 180 TS",
+          "sachverhalt_betrag": "zweimal Einkünfte der Einzelunternehmung verschleiert"
+        },
+        {
+          "entscheid": "[OG AG SST.2023.45](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-45_2024-01-08.pdf)",
+          "datum": "08.01.2024",
+          "benannter_grad": "mittelschwer",
+          "einzel_einsatzstrafe": "12 Monate",
+          "ausgesprochen_dispositiv": "4 ½ Jahre FS",
+          "sachverhalt_betrag": "Kontokorrentbezüge von rund CHF 150'000 (nach 2017)"
+        },
+        {
+          "entscheid": "[OG ZH SB160416](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160416_2017-06-02.pdf)",
+          "datum": "02.06.2017",
+          "benannter_grad": "keinesfalls mehr leicht",
+          "einzel_einsatzstrafe": "16 Monate (mit Art. 169 StGB)",
+          "ausgesprochen_dispositiv": "14 Mt. FS + 120 TS",
+          "sachverhalt_betrag": "Autos, Motorboot, Luxusuhren verheimlicht; gepfändeter Diodenlaser (CHF 42'000)\n versteckt"
+        },
+        {
+          "entscheid": "[BGer 6B_91/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-91-2022_2023-01-18.html)",
+          "datum": "18.01.2023",
+          "benannter_grad": "mittelschwer",
+          "einzel_einsatzstrafe": "18 Monate (als Asperation)",
+          "ausgesprochen_dispositiv": "24 Mt. FS (OG AG)",
+          "sachverhalt_betrag": "Deliktssumme CHF 150'000; Zuschlag vom BGer bestätigt"
+        },
+        {
+          "entscheid": "[OG ZH SB190529](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB190529_2021-04-15.pdf)",
+          "datum": "15.04.2021",
+          "benannter_grad": "—",
+          "einzel_einsatzstrafe": "22 Monate → 19 Mt. (Spielsucht)",
+          "ausgesprochen_dispositiv": "36 Mt. FS",
+          "sachverhalt_betrag": "mehrfacher Pfändungsbetrug als schwerstes Delikt"
+        },
+        {
+          "entscheid": "[OG BE SK 2022 347](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2022-347_2023-04-14.pdf)",
+          "datum": "14.04.2023",
+          "benannter_grad": "leicht bis mittelschwer",
+          "einzel_einsatzstrafe": "20 Monate (+ 14 Mt. 2. Komplex)",
+          "ausgesprochen_dispositiv": "24 Mt. FS (29 Mt. angemessen)",
+          "sachverhalt_betrag": "Vermögenswerte in Millionenhöhe; Verlustscheine über CHF 1 Mio.;\n Töchter eingespannt"
+        },
+        {
+          "entscheid": "[OG AG SST.2025.130](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-130_2026-05-13.pdf)",
+          "datum": "13.05.2026",
+          "benannter_grad": "mittelschwer",
+          "einzel_einsatzstrafe": "20 Monate (weitere je 14–20 Mt.)",
+          "ausgesprochen_dispositiv": "4 Jahre FS + 180 TS",
+          "sachverhalt_betrag": "Privatbezüge von rund CHF 48'000 über ein Kontokorrent; über 50 Taten"
+        },
+        {
+          "entscheid": "[OG ZH SB200098](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200098_2021-03-12.pdf)",
+          "datum": "12.03.2021",
+          "benannter_grad": "erheblich",
+          "einzel_einsatzstrafe": "20 Monate",
+          "ausgesprochen_dispositiv": "31 Mt. FS + 345 TS",
+          "sachverhalt_betrag": "acht Pfändungsvollzüge; über CHF 500'000 verheimlicht; Verlustscheine\n über CHF 250'000"
+        },
+        {
+          "entscheid": "[OG AG SST.2025.90](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-90_2026-06-04.pdf)",
+          "datum": "04.06.2026",
+          "benannter_grad": "mittelschwer bis schwer",
+          "einzel_einsatzstrafe": "2 ½ Jahre",
+          "ausgesprochen_dispositiv": "**8 Mt. FS** (Zusatzstrafe)",
+          "sachverhalt_betrag": "Darlehen von CHF 500'000 in der Konkursbefragung verheimlicht"
+        }
+      ]
+    },
+    {
+      "caption": "Tabelle 2: Dritte und Gehilfen (Art. 163 Ziff. 2 StGB, Strafrahmen drei Jahre)",
+      "rows": [
+        {
+          "entscheid": "[OG ZH SB130176](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB130176_2014-09-05.pdf)",
+          "datum": "05.09.2014",
+          "rolle": "Freundschaftsdienst (Mieten umgeleitet)",
+          "benannter_grad": "eher leicht",
+          "einzel_einsatzstrafe": "3 Monate (Asperation)",
+          "ausgesprochen_dispositiv": "22 Mt. FS"
+        },
+        {
+          "entscheid": "[OG ZH SB180092](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180092_2021-12-16.pdf)",
+          "datum": "16.12.2021",
+          "rolle": "Geschäftspartner (simulierte Verträge)",
+          "benannter_grad": "mittlerer Bereich",
+          "einzel_einsatzstrafe": "16 Monate → 12 Mt. / 360 TS",
+          "ausgesprochen_dispositiv": "300 TS (Zusatzstrafe)"
+        },
+        {
+          "entscheid": "[OG ZH SB200098](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200098_2021-03-12.pdf)",
+          "datum": "12.03.2021",
+          "rolle": "Drittbeteiligte (Mittäterin)",
+          "benannter_grad": "keineswegs leicht",
+          "einzel_einsatzstrafe": "15 Monate",
+          "ausgesprochen_dispositiv": "27 Mt. FS + 360 TS"
+        },
+        {
+          "entscheid": "[OG ZH SB180092](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB180092_2021-12-16.pdf)",
+          "datum": "16.12.2021",
+          "rolle": "Rechtsanwalt («Spiritus Rector»)",
+          "benannter_grad": "keineswegs mehr leicht",
+          "einzel_einsatzstrafe": "20 Monate → 15 Mt. (Art. 5 StPO)",
+          "ausgesprochen_dispositiv": "15 Mt. FS"
+        }
+      ]
+    },
+    {
+      "caption": "Tabelle 3: Art. 163 StGB als asperiertes Nebendelikt",
+      "rows": [
+        {
+          "entscheid": "[OG ZH SB130176](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB130176_2014-09-05.pdf)",
+          "datum": "05.09.2014",
+          "zuschlag": "3 Monate",
+          "isolierte_einzelstrafe": "—",
+          "einsatzstrafe_hauptdelikt": "24 Mt. → 27 Mt.; Betrugskomplex",
+          "ausgesprochen_dispositiv": "22 Mt. FS"
+        },
+        {
+          "entscheid": "[OG AG SST.2023.45](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-45_2024-01-08.pdf)",
+          "datum": "08.01.2024",
+          "zuschlag": "je 3 Monate",
+          "isolierte_einzelstrafe": "4 bzw. 12 Monate",
+          "einsatzstrafe_hauptdelikt": "22 Mt. → 25 Mt. → 34 Mt.; gewerbsm. Betrug",
+          "ausgesprochen_dispositiv": "4 ½ Jahre FS"
+        },
+        {
+          "entscheid": "[OG ZH SB230514](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230514_2025-09-03.pdf)",
+          "datum": "03.09.2025",
+          "zuschlag": "3 Monate",
+          "isolierte_einzelstrafe": "6 Monate",
+          "einsatzstrafe_hauptdelikt": "20 Mt. → 23 Mt.; gewerbsm. Betrug",
+          "ausgesprochen_dispositiv": "21 Mt. FS"
+        },
+        {
+          "entscheid": "[OG AG SST.2024.204](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-204_2025-08-21.pdf)",
+          "datum": "21.08.2025",
+          "zuschlag": "6 Monate (3 Taten)",
+          "isolierte_einzelstrafe": "4 + 5 + 5 Monate",
+          "einsatzstrafe_hauptdelikt": "9 Mt. → 15 Mt.; Urkundenfälschung",
+          "ausgesprochen_dispositiv": "30 Mt. FS"
+        },
+        {
+          "entscheid": "[OG ZH SB230435](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230435_2024-06-17.pdf)",
+          "datum": "17.06.2024",
+          "zuschlag": "7 Monate",
+          "isolierte_einzelstrafe": "10 Monate",
+          "einsatzstrafe_hauptdelikt": "gewerbsmässiger Betrug",
+          "ausgesprochen_dispositiv": "5 Jahre FS + 180 TS"
+        },
+        {
+          "entscheid": "[BGer 6B_91/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-91-2022_2023-01-18.html)",
+          "datum": "18.01.2023",
+          "zuschlag": "18 Monate",
+          "isolierte_einzelstrafe": "—",
+          "einsatzstrafe_hauptdelikt": "24 Mt. → 42 Mt.; Misswirtschaft",
+          "ausgesprochen_dispositiv": "24 Mt. FS (OG AG)"
+        },
+        {
+          "entscheid": "[OG AG SST.2025.90](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2025-90_2026-06-04.pdf)",
+          "datum": "04.06.2026",
+          "zuschlag": "24 Monate",
+          "isolierte_einzelstrafe": "30 Monate",
+          "einsatzstrafe_hauptdelikt": "Grundstrafe 57 Mt.; qual. Widerhandlung SpoFöG",
+          "ausgesprochen_dispositiv": "**8 Mt. FS**"
+        }
+      ]
+    },
+    {
+      "caption": "Merkmale der Tatschwere in der Reihenfolge ihres belegten Gewichts",
+      "rows": [
+        {
+          "merkmal": "Mass an Entscheidungsfreiheit",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "nicht deliktsimmanent, daher voll verwertbar (N 8)"
+        },
+        {
+          "merkmal": "Systematik des Vorgehens (Konstrukt, Kontokorrent, neue Konten)",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "trennt 4 Monate von 20 Monaten bei gleichem Betrag (N 14, N 34)"
+        },
+        {
+          "merkmal": "Umfang der entzogenen Werte",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "CHF 3'495 → 30 Strafeinheiten; CHF 500'000 → 30 Monate"
+        },
+        {
+          "merkmal": "Zahl der Pfändungsvollzüge, Deliktszeitraum",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "eigene Einzelstrafe je Tat, gedämpfte Asperation (N 11 f.)"
+        },
+        {
+          "merkmal": "Einspannen von Familienangehörigen",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "«noch verwerflicher» (N 18)"
+        },
+        {
+          "merkmal": "Berufliche Stellung des Dritten (Ziff. 2)",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "Rechtsanwalt: 20 Mt. bei Rahmen von 3 Jahren (N 21)"
+        },
+        {
+          "merkmal": "Belegte Suchterkrankung",
+          "richtung": "mindernd",
+          "belegte_wirkung": "22 → 19 Monate (N 10)"
+        },
+        {
+          "merkmal": "Eventualvorsatz statt direktem Vorsatz",
+          "richtung": "mindernd",
+          "belegte_wirkung": "ausdrücklich strafmindernd (N 16)"
+        },
+        {
+          "merkmal": "Lange Verfahrensdauer, Art. 5 StPO",
+          "richtung": "mindernd",
+          "belegte_wirkung": "7 → 6 Monate; 20 → 15 Monate (−25 %)"
+        },
+        {
+          "merkmal": "Finanzielles Motiv",
+          "richtung": "—",
+          "belegte_wirkung": "deliktsimmanent, *nicht* erhöhend (N 16)"
+        },
+        {
+          "merkmal": "Blosse Falschangabe ohne Machenschaften",
+          "richtung": "—",
+          "belegte_wirkung": "«neutral»; kein Bonus, aber auch kein Zuschlag (N 13)"
+        },
+        {
+          "merkmal": "Öffentlich-rechtliche Gläubiger",
+          "richtung": "—",
+          "belegte_wirkung": "mindert das Verschulden «keineswegs» (N 19)"
+        },
+        {
+          "merkmal": "Nachträgliche Schuldentilgung",
+          "richtung": "—",
+          "belegte_wirkung": "nicht strafmindernd (N 22)"
+        },
+        {
+          "merkmal": "Gesamthöhe der Verlustscheine",
+          "richtung": "—",
+          "belegte_wirkung": "schwacher Prädiktor (N 7)"
+        },
+        {
+          "merkmal": "Blosse Auskunftsverweigerung",
+          "richtung": "—",
+          "belegte_wirkung": "nur Art. 323 StGB (Übertretung), BGE 102 IV 172 (N 29)"
+        },
+        {
+          "merkmal": "Konkursliquidation wegen Organisationsmangels",
+          "richtung": "—",
+          "belegte_wirkung": "keine Strafbarkeitsbedingung, BGE 148 IV 170 (N 31)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "norm": "Art. 165 Ziff. 1 StGB – Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe",
+  "auswertungsstand": "2026-08-21",
+  "quelle": "entscheidsuche.ch und strafzumessung.ch",
+  "meta": {
+    "Auswertungsstand": "21.08.2026",
+    "Ausgewertete Entscheide": "25",
+    "Belegte Einzelstrafen": "14",
+    "Status": "Prototyp"
+  },
+  "tabellen": [
+    {
+      "caption": "Schadenshöhe gegen benannten Verschuldensgrad",
+      "rows": [
+        {
+          "schaden": "32'525",
+          "benannter_grad": "nicht mehr leicht",
+          "strafe": "270 TS",
+          "entscheid": "[OG ZH SB160382](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160382_2017-09-12.pdf)"
+        },
+        {
+          "schaden": "69'467",
+          "benannter_grad": "leicht",
+          "strafe": "60 TS",
+          "entscheid": "[KG SZ STK 2024 34](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2024-34_2025-08-05.pdf)"
+        },
+        {
+          "schaden": "165'000",
+          "benannter_grad": "nicht mehr leicht",
+          "strafe": "150 TS",
+          "entscheid": "[OG ZG S 2021 28](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_002_S-2021-28_2022-07-11.pdf)"
+        },
+        {
+          "schaden": "215'000",
+          "benannter_grad": "leicht bis noch leicht",
+          "strafe": "10 Monate",
+          "entscheid": "[OG ZH SB240109](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240109_2025-04-03.pdf)"
+        },
+        {
+          "schaden": "275'485",
+          "benannter_grad": "noch leicht",
+          "strafe": "11 Monate",
+          "entscheid": "[OG ZH SB240109](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240109_2025-04-03.pdf)"
+        },
+        {
+          "schaden": "> 500'000",
+          "benannter_grad": "—",
+          "strafe": "100 TS",
+          "entscheid": "[OG BE SK 2015 166](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2015-166_2016-10-18.pdf)"
+        }
+      ]
+    },
+    {
+      "caption": "Merkmale der Tatschwere in der Reihenfolge ihres belegten Gewichts",
+      "rows": [
+        {
+          "merkmal": "Firmenbestattung / Gesellschaft als Instrument",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "trägt allein den Sprung auf «nicht mehr leicht»"
+        },
+        {
+          "merkmal": "Verschleppungsdauer",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "8 Mt. → leicht; 2,5 J. → noch leicht"
+        },
+        {
+          "merkmal": "Entlöhnung ohne Gegenleistung",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "eigenständiges Indiz krimineller Energie"
+        },
+        {
+          "merkmal": "Einschlägige Vorstrafe (auch Strafbefehl)",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "+ 3 Monate (Täterkomponente)"
+        },
+        {
+          "merkmal": "Mehrere Gesellschaften",
+          "richtung": "erhöhend",
+          "belegte_wirkung": "je eigene Einzelstrafe, dann Asperation"
+        },
+        {
+          "merkmal": "Ernsthafte Sanierungsabsicht",
+          "richtung": "mindernd",
+          "belegte_wirkung": "«könnte» mindernd wirken – Nachweis nötig"
+        },
+        {
+          "merkmal": "Nicht federführende Rolle",
+          "richtung": "mindernd",
+          "belegte_wirkung": "hält Bewertung trotz hohem Schaden bei «leicht»"
+        },
+        {
+          "merkmal": "Enger Konnex zu Art. 166 StGB",
+          "richtung": "mindernd",
+          "belegte_wirkung": "Asperation nur ⅓ der Einzelstrafe"
+        },
+        {
+          "merkmal": "Eventualvorsatz",
+          "richtung": "mindernd",
+          "belegte_wirkung": "gering – «nicht wesentlich milder»"
+        },
+        {
+          "merkmal": "Höhe des Verschleppungsschadens",
+          "richtung": "—",
+          "belegte_wirkung": "kein verlässlicher Prädiktor (N 6)"
+        }
+      ]
+    },
+    {
+      "type": "leiter",
+      "rows": [
+        {
+          "grad": "leicht / eher leicht",
+          "strafmass": "60–120 Tagessätze",
+          "beobachtung": ""
+        }
+      ]
+    },
+    {
+      "caption": "Belegte Einzel- und Einsatzstrafen für Art. 165 StGB – gespiegelt am Dispositiv",
+      "rows": [
+        {
+          "entscheid": "[KG SZ STK 2024 34](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_003_STK-2024-34_2025-08-05.pdf)",
+          "datum": "05.08.2025",
+          "benannter_grad": "leicht",
+          "einzel_einsatzstrafe": "60 TS (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "70 TS (Zusatzstrafe)",
+          "schaden_chf": "69'467"
+        },
+        {
+          "entscheid": "[OG BE SK 2015 166](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_005_SK-2015-166_2016-10-18.pdf)",
+          "datum": "18.10.2016",
+          "benannter_grad": "—",
+          "einzel_einsatzstrafe": "100 TS (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "70 TS (Zusatzstrafe)",
+          "schaden_chf": "> 500'000"
+        },
+        {
+          "entscheid": "[OG ZH SB230442](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB230442_2024-03-26.pdf)",
+          "datum": "26.03.2024",
+          "benannter_grad": "eher leicht",
+          "einzel_einsatzstrafe": "120 TS (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "110 TS",
+          "schaden_chf": "niedrig fünfstellig"
+        },
+        {
+          "entscheid": "[OG AG SST.2021.198](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2021-198_2022-04-08.pdf)",
+          "datum": "08.04.2022",
+          "benannter_grad": "nicht mehr nur leicht",
+          "einzel_einsatzstrafe": "120 TS (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "155 TS (Zusatzstrafe)",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG ZG S 2021 28](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_002_S-2021-28_2022-07-11.pdf)",
+          "datum": "11.07.2022",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "150 TS (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "120 TS",
+          "schaden_chf": "165'000"
+        },
+        {
+          "entscheid": "[OG ZH SB160382](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB160382_2017-09-12.pdf)",
+          "datum": "12.09.2017",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "270 TS (Einsatzstrafe; als Zusatzstrafe 235 TS)",
+          "ausgesprochen_dispositiv": "270 TS",
+          "schaden_chf": "32'525"
+        },
+        {
+          "entscheid": "[OG ZH SB200039](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200039_2020-10-20.pdf)",
+          "datum": "20.10.2020",
+          "benannter_grad": "—",
+          "einzel_einsatzstrafe": "4 Monate (Einzelstrafe)",
+          "ausgesprochen_dispositiv": "36 Mt. FS + 120 TS",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG ZH SB240416](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240416_2025-09-16.pdf)",
+          "datum": "16.09.2025",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "10 Monate (Einzelstrafe; asperiert 6 Mt.)",
+          "ausgesprochen_dispositiv": "21 Mt. FS + 90 TS",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG ZH SB240109](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240109_2025-04-03.pdf)",
+          "datum": "03.04.2025",
+          "benannter_grad": "leicht bis noch leicht",
+          "einzel_einsatzstrafe": "10 Monate (Einzelstrafe G. AG; asperiert 6 Mt.)",
+          "ausgesprochen_dispositiv": "28 Mt. FS",
+          "schaden_chf": "215'000"
+        },
+        {
+          "entscheid": "[OG ZH SB240109](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240109_2025-04-03.pdf)",
+          "datum": "03.04.2025",
+          "benannter_grad": "noch leicht",
+          "einzel_einsatzstrafe": "11 Monate (Einsatzstrafe F. AG)",
+          "ausgesprochen_dispositiv": "28 Mt. FS",
+          "schaden_chf": "275'485"
+        },
+        {
+          "entscheid": "[OG AG SST.2022.90](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2022-90_2022-11-22.pdf)",
+          "datum": "22.11.2022",
+          "benannter_grad": "mittelschwer",
+          "einzel_einsatzstrafe": "1 Jahr (Einzelstrafe)",
+          "ausgesprochen_dispositiv": "5 ½ Jahre FS",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG ZH SB240415](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB240415_2025-09-16.pdf)",
+          "datum": "16.09.2025",
+          "benannter_grad": "nicht mehr leicht",
+          "einzel_einsatzstrafe": "15 Monate (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "24 Mt. FS + 120 TS",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG AG SST.2024.11](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2024-11_2025-01-08.pdf)",
+          "datum": "08.01.2025",
+          "benannter_grad": "mittelschwer",
+          "einzel_einsatzstrafe": "18 Monate (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "3 ½ Jahre FS",
+          "schaden_chf": "—"
+        },
+        {
+          "entscheid": "[OG AG SST.2023.198](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2023-198_2024-08-23.pdf)",
+          "datum": "23.08.2024",
+          "benannter_grad": "mittelschwer bis schwer",
+          "einzel_einsatzstrafe": "2 ¼ Jahre (Einsatzstrafe)",
+          "ausgesprochen_dispositiv": "4 Jahre FS",
+          "schaden_chf": "—"
+        }
+      ]
+    }
+  ]
+}
