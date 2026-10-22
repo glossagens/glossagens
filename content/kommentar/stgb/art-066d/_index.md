@@ -2,11 +2,16 @@
 title: "Art. 66d StGB — Aufschub des Vollzugs"
 weight: 66
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 66d StGB: Aufschub des Vollzugs der obligatorischen Landesverweisung — funktionelle Kompetenzabgrenzung, materielle Rechtskraftsperre bei Alttatsachen, flüchtlingsrechtliches und menschenrechtliches Non-Refoulement, Ausschluss von Art. 8 EMRK, Paposhvili-Medizinschwelle und sichere Herkunftsstaaten."
 tags: ["StGB", "Landesverweisung", "Vollzug", "Aufschub", "Non-Refoulement", "Flüchtlingsrecht", "EMRK", "Jus Cogens", "Paposhvili", "Rechtskraftsperre", "Allgemeiner Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von Querverweisen auf Art. 25 BV (Länderspezifische Gefährdungslagen und Schwellenwerte) in Abschnitt E (Jus Cogens) und Abschnitt H (Safe Countries); Verdeutlichung des gesetzlichen Ausschlusses der humanitären Zumutbarkeitsprüfung nach Art. 83 Abs. 4 AIG bei strafrechtlich Landesverwiesenen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -170,12 +175,14 @@ Dieses Gebot gilt im Unterschied zu lit. a **absolut und notstandsfest** (*jus c
 
 #### 2. Das Erfordernis eines individuellen «risque réel» vs. Krisenregionen
 
-Die Feststellung einer Verletzung von Art. 3 EMRK setzt voraus, dass stichhaltige Gründe für ein reales, konkretes Risiko (*«risque réel»*) von Folter oder Misshandlung dargetan sind. Allgemeine Berichte über autoritäre Regime, Menschenrechtsdefizite oder desolate Wirtschaftslagen genügen nicht ([BGer 6B_502/2024 E. 3.5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-502-2024_2025-02-07.html)).
+Die Feststellung einer Verletzung von Art. 3 EMRK bzw. Art. 25 Abs. 3 BV setzt voraus, dass stichhaltige Gründe für ein reales, konkretes Risiko (*«risque réel»*) von Folter oder Misshandlung dargetan sind. Allgemeine Berichte über autoritäre Regime, Menschenrechtsdefizite oder desolate Wirtschaftslagen genügen nicht ([BGer 6B_502/2024 E. 3.5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-502-2024_2025-02-07.html)). Zu den verfassungs- und konventionsrechtlichen Schwellenwerten (EGMR *Sufi and Elmi* / *N.A.*) sowie zur bundesgerichtlichen Beurteilung von Hochrisiko- und Krisenstaaten vgl. vertieft die verfassungsrechtliche Dachnorm [Art. 25 BV N 22 ff.](/kommentar/bv/art-025/#e-länderspezifische-gefährdungslagen-und-schwellenwerte-art-25-abs-2-und-3-bv).
+
+Von fundamentaler Bedeutung ist hierbei die **dogmatische Differenzierung zum Ausländerrecht**: Nach Art. 83 Abs. 7 lit. a und Abs. 9 AIG ist die Anordnung einer vorläufigen Aufnahme wegen Unzumutbarkeit nach Art. 83 Abs. 4 AIG für strafrechtlich Landesverwiesene gesetzlich ausgeschlossen ([BGer 7B_594/2024 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-594-2024_2026-06-04.html); [BGE 147 IV 453 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html#consideration_1.4)). Ein Straftäter kann einen Vollzugsaufschub nach Art. 66d Abs. 1 lit. b StGB folglich weder auf allgemeine Armut, Versorgungsengpässe noch auf die BVGer-Praxis zur Zumutbarkeit unter [Art. 83 AIG N 14 ff.](/kommentar/aig/art-083/#i-methodik-und-prüfungsstufen-der-länderpraxis) stützen; gefordert ist stets der strikte Nachweis eines qualifizierten, individuellen Folter- oder Misshandlungsrisikos.
 
 Die Praxis wendet diesen Massstab auf bekannte Herkunftsländer konsequent an:
 - **Syrien:** Ein syrischer Staatsangehöriger wurde wegen versuchter schwerer Körperverletzung zu sechs Jahren Landesverweisung verurteilt. Er machte geltend, die Bürgerkriegslage mache jede Ausschaffung nach Syrien per se völkerrechtswidrig. Das Bundesgericht verwarf den Einwand: Die instabile geopolitische Lage begründet für sich allein noch kein definitives Vollzugshindernis; erforderlich ist der Nachweis, dass der Betroffene bei einer Rückkehr persönlich ins Fadenkreuz der Machthaber geraten würde ([BGer 6B_502/2024 vom 7. Februar 2025 E. 6.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-502-2024_2025-02-07.html); ebenso [BGer 6B_33/2022 vom 9. Dezember 2022 E. 3.2.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-33-2022_2022-12-09.html)).
 - **Zentralirak:** Allgemeine Spannungen und vereinzelte Militärschläge begründen keine Situation extremer Willkürgewalt, die jeden Rückkehrer unterschiedslos trifft ([ZH VG VB.2026.00159 E. 3.4.4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00159_2026-06-04.html)).
-- **Eritrea:** Die allgemeine Einberufungspraxis begründet nach konstanter Praxis keinen automatischen Aufschub ohne individuelle Vorverfolgung ([ZH VG VB.2022.00655 E. 2.3.2](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00655_2022-12-21.html)).
+- **Eritrea:** Die allgemeine Einberufungspraxis begründet nach konstanter Praxis keinen automatischen Aufschub ohne individuelle Vorverfolgung ([ZH VG VB.2022.00655 E. 2.3.2](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00655_2022-12-21.html); vgl. auch [Art. 25 BV N 25](/kommentar/bv/art-025/#2-länderspezifische-fallgruppen-der-rechtsprechung)).
 
 > **Leitsatz.** Das Folterverbot nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK gilt absolut und verbietet jede Güterabwägung mit der Deliktsschwere; der Aufschub setzt jedoch den strikten Nachweis eines konkreten und individuellen «risque réel» voraus.
 
@@ -248,7 +255,7 @@ Art. 66d Abs. 2 StGB statuiert eine **gesetzliche Vermutung**: Bezeichnet der Bu
 
 #### 1. Dogmatik: Umkehr der Begründungslast
 
-Die Bestimmung kehrt die Begründungslast zulasten der verurteilten Person um ([BGer 6B_362/2023 vom 21. Juni 2023 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-362-2023_2023-06-21.html)). Bei Safe Countries muss die Behörde nicht nachweisen, dass der Staat sicher ist; vielmehr muss die betroffene Person den vollen Beweis erbringen, dass ihr im konkreten Einzelfall trotz der Einstufung als sicherer Staat eine völkerrechtswidrige Behandlung droht.
+Die Bestimmung kehrt die Begründungslast zulasten der verurteilten Person um ([BGer 6B_362/2023 vom 21. Juni 2023 E. 1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-362-2023_2023-06-21.html); vgl. auch die verfassungsrechtliche Gesamtschau in [Art. 25 BV N 27](/kommentar/bv/art-025/#3-sichere-herkunftsstaaten-safe-countries-und-gesetzliche-vermutung)). Bei Safe Countries muss die Behörde nicht nachweisen, dass der Staat sicher ist; vielmehr muss die betroffene Person den vollen Beweis erbringen, dass ihr im konkreten Einzelfall trotz der Einstufung als sicherer Staat eine völkerrechtswidrige Behandlung droht.
 
 #### 2. Kasuistik: Bandenkriminalität in Chile (ZH VG VB.2024.00625)
 

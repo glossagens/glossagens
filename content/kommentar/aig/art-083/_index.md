@@ -2,11 +2,16 @@
 title: "Art. 83 AIG — Anordnung der vorläufigen Aufnahme"
 weight: 83
 date: 2026-08-29
-lastmod: 2026-10-21
+lastmod: 2026-10-22
 description: "Kommentar zu Art. 83 AIG: Vorläufige Aufnahme bei Vollzugshindernissen — Unmöglichkeit, Unzulässigkeit (Non-Refoulement, BGer 2C_513/2025 zu trans Personen), Unzumutbarkeit, länderspezifische Praxis, kantonales Antragsrecht und Ausschlussgründe."
 tags: ["AIG", "Ausländerrecht", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Unzumutbarkeit", "Länderpraxis", "BVGer", "Non-Refoulement"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Präzisierung des Verhältnisses zwischen völkerrechtlicher Unzulässigkeit (Abs. 3) und humanitärer Unzumutbarkeit (Abs. 4); Verlinkung auf die verfassungsrechtliche Dachnorm Art. 25 BV (Länderspezifische Gefährdungslagen und Schwellenwerte) sowie Abgrenzung zu Art. 66d StGB."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -65,7 +70,7 @@ revisions:
 
 ## Absatz 3: Unzulässigkeit des Vollzugs
 
-**9** **Völkerrechtliche Schranken und Non-Refoulement.** Der Vollzug ist unzulässig, wenn er gegen zwingendes oder vertragliches Völkerrecht verstösst. Im Zentrum steht das flüchtlingsrechtliche Non-Refoulement-Gebot nach Art. 33 Abs. 1 des Abkommens über die Rechtsstellung der Flüchtlinge (Flüchtlingskonvention, FK; SR 0.142.30) sowie das absolute Rückschiebungsverbot bei drohender Folter oder unmenschlicher bzw. erniedrigender Behandlung nach Art. 3 EMRK und Art. 3 des UN-Übereinkommens gegen Folter (UN-FoK; SR 0.105).
+**9** **Völkerrechtliche Schranken und Non-Refoulement.** Der Vollzug ist unzulässig, wenn er gegen zwingendes oder vertragliches Völkerrecht verstösst. Im Zentrum steht das flüchtlingsrechtliche Non-Refoulement-Gebot nach Art. 33 Abs. 1 des Abkommens über die Rechtsstellung der Flüchtlinge (Flüchtlingskonvention, FK; SR 0.142.30) sowie das absolute Rückschiebungsverbot bei drohender Folter oder unmenschlicher bzw. erniedrigender Behandlung nach Art. 3 EMRK und Art. 3 des UN-Übereinkommens gegen Folter (UN-FoK; SR 0.105). Zu den verfassungs- und konventionsrechtlichen Schwellenwerten (EGMR-Doktrin *Sufi and Elmi* / *N.A.*) sowie zur bundesgerichtlichen Beurteilung länderspezifischer Gefährdungslagen unter dem Blickwinkel des absoluten Non-Refoulement vgl. ausführlich die verfassungsrechtliche Dachnorm [Art. 25 BV N 22 ff.](/kommentar/bv/art-025/#e-länderspezifische-gefährdungslagen-und-schwellenwerte-art-25-abs-2-und-3-bv).
 
 **10** **Non-Refoulement bei Angehörigen vulnerabler Gruppen und trans Personen.** Droht einer weggewiesenen Person im Zielstaat eine unmenschliche oder erniedrigende Behandlung nach Art. 3 EMRK bzw. Art. 25 Abs. 3 BV, ist der Wegweisungsvollzug absolut unzulässig. Das Bundesgericht hat in 5er-Besetzung die Grundsätze aus [BGE 152 I 157](https://mcp.opencaselaw.ch/entscheid/bge_152%20I%20157) (betreffend homosexuelle Personen) ausdrücklich auf trans Personen übertragen ([BGer 2C_513/2025 vom 13.08.2026 E. 4.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_2C_513/2025)):
 - *Substanziierungspflicht*: Die betroffene Person trifft eine zweifache Darlegungslast. Sie muss zum einen ihre Zugehörigkeit zu der betroffenen Gruppe belegen und zum andern ernsthafte Gründe dafür nachweisen, dass sie bei einer Rückkehr persönlich einem realen Risiko («real risk») einer Art. 3 EMRK widersprechenden Behandlung ausgesetzt wäre ([BGer 2C_513/2025 vom 13.08.2026 E. 4.3.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_2C_513/2025)).
@@ -89,7 +94,7 @@ revisions:
 
 ### I. Methodik und Prüfungsstufen der Länderpraxis
 
-**14** **Stufenfolge der Zumutbarkeitsprüfung.** Das Bundesverwaltungsgericht (BVGer) beurteilt die Unzumutbarkeit des Wegweisungsvollzugs anhand periodisch aktualisierter Lageanalysen der Herkunftsländer (*Country of Origin Information*, COI; [BVGE 2018 VI/4 E. 4](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf)). Dabei wendet die Rechtsprechung eine dreistufige Prüfung an ([BVGE 2014/26 E. 7.3–7.8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-26_2014-10-08.pdf)):
+**14** **Stufenfolge der Zumutbarkeitsprüfung.** Während [Art. 25 BV](/kommentar/bv/art-025/#e-länderspezifische-gefährdungslagen-und-schwellenwerte-art-25-abs-2-und-3-bv) und Art. 83 Abs. 3 AIG das absolute völkerrechtliche Folter- und Verfolgungsverbot (Unzulässigkeit) regeln, beurteilt das Bundesverwaltungsgericht (BVGer) im Rahmen von Art. 83 Abs. 4 AIG die humanitäre Unzumutbarkeit des Wegweisungsvollzugs anhand periodisch aktualisierter Lageanalysen der Herkunftsländer (*Country of Origin Information*, COI; [BVGE 2018 VI/4 E. 4](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf)). Bei strafrechtlich Landesverwiesenen ist diese Zumutbarkeitsprüfung gesetzlich ausgeschlossen (Art. 83 Abs. 7 lit. a und Abs. 9 AIG; vgl. [Kommentar zu Art. 66d StGB](/kommentar/stgb/art-066d/)). Bei regulär Weggewiesenen wendet die Rechtsprechung eine dreistufige Prüfung an ([BVGE 2014/26 E. 7.3–7.8](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2014-26_2014-10-08.pdf)):
 1. *Generelle Unzumutbarkeit (in genere)*: Herrscht im gesamten Zielstaat eine Situation von Krieg, Bürgerkrieg oder flächendeckender allgemeiner Gewalt, ist der Wegweisungsvollzug für alle Personen ohne Weiteres unzumutbar.
 2. *Differenzierte/regionale Zumutbarkeit*: Ist die Lage nur in einzelnen Landesteilen unzumutbar, wird geprüft, ob der Vollzug in die Herkunftsregion zulässig und zumutbar ist.
 3. *Innerstaatliche Flucht- bzw. Aufenthaltsalternative (IFA)*: Ist die Herkunftsregion unzumutbar, wird geprüft, ob sich die betroffene Person in einem anderen Landesteil niederlassen kann. Vorausgesetzt werden hierfür stets **begünstigende Faktoren** (tragfähiges familiäres oder soziales Beziehungsnetz, gesicherte Wohnsituation, realistische Aussichten auf wirtschaftliche Existenzsicherung und guter Gesundheitszustand; [BVGE 2011/24 E. 13.2.1.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-24_2011-10-27.pdf); [BVGE 2011/7 E. 9.9.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-7_2011-06-16.pdf)).

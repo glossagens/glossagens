@@ -2,11 +2,16 @@
 title: "Art. 25 BV — Schutz vor Ausweisung, Auslieferung und Landesverweisung"
 weight: 25
 date: 2026-10-21
-lastmod: 2026-10-21
-description: "Kommentar zu Art. 25 BV: Schutz vor Ausweisung von Schweizer Bürgerinnen und Bürgern (Abs. 1), Flüchtlings-Non-Refoulement (Abs. 2) und absolutes Non-Refoulement bei Folter- und Misshandlungsgefahr (Abs. 3)."
-tags: ["BV", "Bundesverfassung", "Grundrechte", "Ausweisung", "Auslieferung", "Non-Refoulement", "Flüchtlingsrecht", "Folterverbot", "EMRK 3"]
+lastmod: 2026-10-22
+description: "Kommentar zu Art. 25 BV: Schutz vor Ausweisung von Schweizer Bürgerinnen und Bürgern (Abs. 1), Flüchtlings-Non-Refoulement (Abs. 2) und absolutes Non-Refoulement bei Folter- und Misshandlungsgefahr (Abs. 3) sowie länderspezifische Gefährdungslagen und Schwellenwerte."
+tags: ["BV", "Bundesverfassung", "Grundrechte", "Ausweisung", "Auslieferung", "Non-Refoulement", "Flüchtlingsrecht", "Folterverbot", "EMRK 3", "Länderpraxis", "Landesverweisung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von Kapitel E: Länderspezifische Gefährdungslagen, Schwellenwerte (EGMR-Doktrin Sufi & Elmi / N.A.) und dogmatische Abgrenzung zur humanitären Unzumutbarkeit nach Art. 83 Abs. 4 AIG und zum strafrechtlichen Vollzugsaufschub nach Art. 66d StGB; Vernetzung mit den Kommentaren zu Art. 83 AIG und Art. 66d StGB; Bereinigung der Randziffern N 1 bis N 33."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -153,13 +158,46 @@ Während Abs. 2 den völkerrechtlich vorgesehenen Vorbehalten bei schweren Siche
 
 ---
 
+### E. Länderspezifische Gefährdungslagen und Schwellenwerte (Art. 25 Abs. 2 und 3 BV)
+
+#### 1. Dogmatische Abgrenzung: Non-Refoulement vs. humanitäre Unzumutbarkeit (Art. 83 Abs. 4 AIG)
+
+**N 22** Die Beurteilung von Gefährdungslagen im Herkunftsland unterscheidet sich grundlegend danach, ob sie unter dem Blickwinkel des verfassungs- und völkerrechtlichen Non-Refoulement (**Art. 25 BV**, Art. 3 EMRK, [Art. 83 Abs. 3 AIG](/kommentar/aig/art-083/#absatz-3-unzulässigkeit-des-vollzugs)) oder unter jenem der rein schweizerischen, humanitären Unzumutbarkeit ([Art. 83 Abs. 4 AIG](/kommentar/aig/art-083/#absatz-4-unzumutbarkeit-des-vollzugs)) erfolgt:
+- *Extremschwelle bei allgemeiner Gewalt (Sufi & Elmi / N.A.)*: Eine allgemeine Situation von Krieg, Bürgerkrieg oder Gewalt begründet für sich allein **noch keine Verletzung von Art. 25 Abs. 3 BV / Art. 3 EMRK**. Nach der ständigen Rechtsprechung des Europäischen Gerichtshofs für Menschenrechte (EGMR, *N.A. v. the United Kingdom*, Nr. 25904/07, § 115; *Sufi and Elmi v. the United Kingdom*, Nr. 8319/07 und 11449/07, § 218) und des Bundesgerichts ([BGE 137 II 305 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-137-II-305_2011.html#consideration_3.3)) greift Art. 25 Abs. 3 BV erst dann ein, wenn das Niveau der willkürlichen Gewalt im Zielstaat ein derart extremes Ausmass erreicht hat, dass ernsthafte Gründe für die Annahme bestehen, dass praktisch *jede Zivilperson* allein durch ihre Rückkehr und Anwesenheit einem realen Risiko von Folter oder unmenschlicher Behandlung ausgesetzt wäre.
+- *Verhältnis zu Art. 83 Abs. 4 AIG*: Liegt dieses Extremniveau nicht vor, scheidet Art. 25 Abs. 3 BV aus. Es greift im Ausländerverfahren ausschliesslich das schweizerische Auffangnetz von Art. 83 Abs. 4 AIG (Unzumutbarkeit wegen konkreter Gefährdung, schlechter Wirtschafts- oder Versorgungslage, fehlender innerstaatlicher Fluchtalternative [IFA] mangels begünstigender Faktoren; vgl. ausführlich [Art. 83 AIG N 14 ff.](/kommentar/aig/art-083/#i-methodik-und-prüfungsstufen-der-länderpraxis)).
+
+**N 23** **Relevanz für die strafrechtliche Landesverweisung ([Art. 66d StGB](/kommentar/stgb/art-066d/#e-absolutes-menschenrechtliches-non-refoulement-abs-1-lit-b)):** Diese Abgrenzung ist im Strafvollzug von entscheidender Tragweite: Nach dem ausdrücklichen Willen des Gesetzgebers (Art. 83 Abs. 7 lit. a und Abs. 9 AIG) ist die Anordnung einer vorläufigen Aufnahme wegen Unzumutbarkeit nach Art. 83 Abs. 4 AIG für strafrechtlich Landesverwiesene ausgeschlossen ([BGer 7B_594/2024 vom 4. Juni 2026 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-594-2024_2026-06-04.html); [BGE 147 IV 453 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html#consideration_1.4)). Verurteilte Straftäter können sich gegenüber dem Vollzug der Landesverweisung folglich nicht auf schlechte Lebensbedingungen, wirtschaftliche Not oder die BVGer-Praxis zu Art. 83 Abs. 4 AIG berufen; der Vollzug nach Art. 66d StGB wird ausschliesslich aufgeschoben, wenn die qualifizierte Schwelle von Art. 25 Abs. 2 BV (Flüchtlingseigenschaft) oder Art. 25 Abs. 3 BV / Art. 3 EMRK (zwingendes Völkerrecht) erfüllt ist.
+
+#### 2. Länderspezifische Fallgruppen der Rechtsprechung
+
+**N 24** **Afghanistan und Syrien (Flächendeckende Verfolgung vs. Extremkrisen):**
+- *Afghanistan*: Nach der Machtübernahme der Taliban im August 2021 erachtete das Bundesverwaltungsgericht den Vollzug nicht nur als generell unzumutbar (Art. 83 Abs. 4 AIG), sondern stellte für afghanische Frauen und Mädchen fest, dass die drakonischen Verordnungen des De-facto-Regimes (vollständiger Ausschluss aus Bildung, Arbeitswelt und Öffentlichkeit) eine systematische Verfolgung darstellen, die zur Flüchtlingseigenschaft (Art. 25 Abs. 2 BV) und zum absoluten Vollzugshindernis nach Art. 25 Abs. 3 BV / Art. 3 EMRK führt (Referenzurteil [BVGer D-3501/2019 vom 01.02.2023](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-3501-2019_2019-08-21.pdf)). Für männliche afghanische Staatsangehörige begründet die Gesamtlage zwar regelmässig Unzumutbarkeit nach Art. 83 Abs. 4 AIG, erreicht die Schwelle von Art. 25 Abs. 3 BV jedoch nur bei Vorliegen konkreter individueller Risikoprofile (z.B. Vorbeschäftigung bei westlichen Organisationen, Konversion).
+- *Syrien*: Infolge des seit 2011 andauernden bewaffneten Konflikts, willkürlicher Verhaftungen, erpresserischer Verschleppungen und systematischer Folter durch staatliche Sicherheitsdienste besteht für weggewiesene Rückkehrer regelmässig ein reales Risiko einer Art. 3 EMRK und Art. 25 Abs. 3 BV widersprechenden Behandlung ([BVGE 2015/3 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf)).
+
+**N 25** **Eritrea und Äthiopien (Nationaldienst vs. individuelle Verfolgung):**
+- *Eritrea*: In Grundsatzurteilen hat das Bundesverwaltungsgericht geklärt, dass weder die illegale Ausreise noch die drohende Einziehung in den eritreischen Nationaldienst für sich allein eine flüchtlingsrechtlich relevante Gefährdung oder eine unmenschliche Behandlung nach Art. 3 oder 4 EMRK begründen ([BVGE 2018 VI/4 E. 6](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2018-VI-4_2018-07-10.pdf); Referenzurteile [BVGer D-7898/2015](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-7898-2015_2017-01-30.pdf) und [BVGer D-2311/2016](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_D-2311-2016_2017-08-17.pdf)). Ein völkerrechtliches Vollzugshindernis nach Art. 25 Abs. 3 BV setzt bei eritreischen Staatsangehörigen stets spezifische, persönliche Risikofaktoren (z.B. exponierte politische Oppositionstätigkeit) voraus.
+- *Äthiopien*: Es herrscht keine landesweite flächendeckende Situation allgemeiner Gewalt ([BVGE 2011/25 E. 8.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2011-25_2011-07-07.pdf)). Vollzugshindernisse unter Art. 25 Abs. 3 BV beschränkten sich historisch auf temporäre Akutphasen bewaffneter Auseinandersetzungen (Tigray-Konflikt 2020–2022); das Bundesgericht bestätigte in Fünferbesetzung, dass die allgemeine Lage in Äthiopien kein absolutes Vollzugshindernis darstellt und vorbestandene Rügen die Rechtskraftsperre nach Art. 66d StGB nicht durchbrechen ([BGer 7B_303/2026 vom 20.08.2026 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-303-2026_2026-08-20.html)).
+
+**N 26** **Iran, Türkei und Lateinamerika (Politische Delinquenz, vulnerable Gruppen & Privatrechtliche Gewalt):**
+- *Iran*: Bei politischer oder religiöser Regimekritik sowie Konversion drohen drakonische Freiheitsstrafen und Misshandlungen, die Art. 25 Abs. 3 BV begründen. Demgegenüber genügt die blosse Befürchtung einer strafrechtlichen Doppelverfolgung (Qisas / Vergeltung) oder privater Blutrache nach Auslandsstraftaten ohne konkrete stichhaltige Anhaltspunkte nicht ([SG VG B 2024/99 E. 4–5](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2024-99_2024-12-06.pdf)).
+- *Türkei*: Wegweisungen in die Türkei verletzen Art. 25 Abs. 3 BV nur bei konkreter, individueller Verfolgungsdichte (z.B. exponierte PKK- oder Gülen-Aktivitäten; vgl. auch die Praxisänderung zu den Grenzprovinzen in [BVGer E-4103/2024](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_E-4103-2024_2024-11-08.pdf)).
+- *Brasilien / Lateinamerika (Schutz vor privater Gewalt)*: Droht Gefährdung von kriminellen Organisationen oder gesellschaftlichen Gruppen (z.B. trans Personen), greift Art. 25 Abs. 3 BV nur bei nachgewiesenem Schutzversagen der staatlichen Behörden und konkreter individueller Exponierung; allgemeine Kriminalitätsberichte reichen nicht aus ([BGer 2C_513/2025 E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_2C_513_2025)).
+
+#### 3. Sichere Herkunftsstaaten (Safe Countries) und gesetzliche Vermutung
+
+**N 27** **Gesetzliche Vermutung der Konformität mit Art. 25 Abs. 2 und 3 BV:** Bezeichnet der Bundesrat gestützt auf Art. 6a Abs. 2 AsylG einen Staat als sicheren Herkunftsstaat (*Safe Country*), begründet dies eine gesetzliche Vermutung, dass dort keine Verfolgung im Sinne des Flüchtlingsrechts (Art. 25 Abs. 2 BV) und keine Verletzung zwingenden Völkerrechts (Art. 25 Abs. 3 BV / Art. 3 EMRK) droht.
+- Diese Vermutung wirkt unmittelbar im Asylverfahren, im Ausländerrecht ([Art. 83 Abs. 5 AIG](/kommentar/aig/art-083/#absätze-5-und-5bis-bestimmung-zumutbarer-herkunftsstaaten)) sowie bei der strafrechtlichen Landesverweisung ([Art. 66d Abs. 2 StGB](/kommentar/stgb/art-066d/#h-gesetzliche-vermutung-bei-sicheren-herkunftsstaaten-abs-2)).
+- Die gesetzliche Vermutung kann durch die betroffene Person umgestossen werden, wenn sie im Einzelfall stichhaltige und nachgewiesene Gründe beibringt, wonach sie im betreffenden Staat dennoch persönlich bedroht ist.
+
+---
+
 ## Praxisfragen und gerichtliche Verfahren
 
 ### A. Praxisfrage 1: Koordination zwischen Asyl- und Ausländerverfahren bei Wegweisungen
 
-**N 22** In der Praxis stellt sich regelmässig die Frage, wie das Verhältnis zwischen kantonalen Ausländerbehörden und den Bundesasylbehörden ausgestaltet ist, wenn ein Ausländer mit anerkanntem Asylstatus straffällig wird oder ausländerrechtliche Widerrufsgründe setzt.
+**N 28** In der Praxis stellt sich regelmässig die Frage, wie das Verhältnis zwischen kantonalen Ausländerbehörden und den Bundesasylbehörden ausgestaltet ist, wenn ein Ausländer mit anerkanntem Asylstatus straffällig wird oder ausländerrechtliche Widerrufsgründe setzt.
 
-**N 23** In [BGE 139 II 65 E. 4–5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-65_2013.html#consideration_4.) klärte das Bundesgericht diese Koordinationsfrage:
+**N 29** In [BGE 139 II 65 E. 4–5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-65_2013.html#consideration_4.) klärte das Bundesgericht diese Koordinationsfrage:
 - Die kantonalen Behörden sind zuständig, über die Nichtverlängerung oder den Widerruf einer Anwesenheitsbewilligung (Aufenthalts- oder Niederlassungsbewilligung) zu entscheiden und die Wegweisung zu verfügen.
 - Die Ausländerbehörde muss für den Erlass der Wegweisung **nicht abwarten**, bis das Staatssekretariat für Migration (SEM) das Asyl widerrufen hat.
 - Sie ist jedoch von Verfassungs wegen verpflichtet, im Rahmen des Wegweisungsentscheids selbstständig zu prüfen, ob der Vollzug der Wegweisung mit Art. 25 Abs. 2 BV (Art. 65 AsylG, Art. 33 FK) sowie mit Art. 25 Abs. 3 BV / Art. 3 EMRK vereinbar ist.
@@ -167,18 +205,18 @@ Während Abs. 2 den völkerrechtlich vorgesehenen Vorbehalten bei schweren Siche
 
 ### B. Praxisfrage 2: Berücksichtigung von Non-Refoulement-Hindernissen bei der strafrechtlichen Landesverweisung
 
-**N 24** Mit Art. 66a und Art. 66d StGB wurde ein zweistufiges Modell für die strafrechtliche Landesverweisung geschaffen: Das Strafgericht ordnet die Landesverweisung an (Art. 66a StGB), während die ausführende Verwaltungsbehörde über den Vollzug entscheidet (Art. 66d StGB).
+**N 30** Mit Art. 66a und Art. 66d StGB wurde ein zweistufiges Modell für die strafrechtliche Landesverweisung geschaffen: Das Strafgericht ordnet die Landesverweisung an (Art. 66a StGB), während die ausführende Verwaltungsbehörde über den Vollzug entscheidet (Art. 66d StGB).
 
-**N 25** Das Bundesgericht präzisierte in [BGE 149 IV 231 E. 2.1–2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-231_2023.html#consideration_2.1) das Zusammenspiel mit Art. 25 Abs. 3 BV:
-- Vollzugshindernisse, die sich aus zwingendem Völkerrecht (Art. 25 Abs. 3 BV, Art. 3 EMRK) ergeben, müssen bereits vom Strafgericht bei der Urteilsfällung berücksichtigt werden, sofern die tatsächlichen Verhältnisse stabil sind und sich definitiv bestimmen lassen.
+**N 31** Das Bundesgericht präzisierte in [BGE 149 IV 231 E. 2.1–2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-231_2023.html#consideration_2.1) das Zusammenspiel mit Art. 25 Abs. 3 BV:
+- Vollzugshindernisse, die sich aus zwingendem Völkerrecht (Art. 25 Abs. 3 BV, Art. 3 EMRK) ergeben, müssen bereits vom Strafgericht bei der Urteilsfällung berücksichtigt werden, sofern die tatsächlichen Verhältnisse stabil sind und sich definitiv bestimmen lassen (vgl. auch [Art. 66d StGB](/kommentar/stgb/art-066d/#a-funktionelle-zuständigkeitsteilung-sachrichter-vs-vollzugsbehörde)).
 - Steht fest, dass dem Verurteilten im Herkunftsland Misshandlung droht (im beurteilten Fall ein tibetischer Staatsangehöriger mit Verweisungsverbot nach China), ist es unzulässig, eine Landesverweisung abstrakt «in einen Drittstaat» auszusprechen, solange kein gesichertes Aufenthaltsrecht in einem solchen Drittstaat besteht.
 - Sind die Verhältnisse hingegen volatil oder veränderlich, verbleibt die Prüfung des Vollzugshindernisses gemäss Art. 66d Abs. 1 StGB bei der kantonalen Vollzugsbehörde ([ZH VG VB.2024.00625 vom 31. Januar 2025 E. 3–4](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00625_2025-01-31.html)).
 
 ### C. Praxisfrage 3: Beweiswert von behördlichen Amtsberichten (SEM) gegenüber NGO-Lageberichten
 
-**N 26** Ein wiederkehrender Streitpunkt in der kantonalen Gerichtspraxis betrifft die Würdigung divergierender Berichte zur Sicherheits- und Menschenrechtslage im Herkunftsstaat. Während Betroffene regelmässig Berichte von Nichtregierungsorganisationen (Amnesty International, Human Rights Watch) einreichen, stützen sich die Behörden bevorzugt auf offizielle Länderanalysen und Amtsberichte des SEM.
+**N 32** Ein wiederkehrender Streitpunkt in der kantonalen Gerichtspraxis betrifft die Würdigung divergierender Berichte zur Sicherheits- und Menschenrechtslage im Herkunftsstaat. Während Betroffene regelmässig Berichte von Nichtregierungsorganisationen (Amnesty International, Human Rights Watch) einreichen, stützen sich die Behörden bevorzugt auf offizielle Länderanalysen und Amtsberichte des SEM.
 
-**N 27** Die Gerichte anerkennen, dass einlässliche Amtsberichte des SEM eine qualifizierte Erkenntnisquelle darstellen, die nicht durch pauschale NGO-Berichte ohne individuellen Bezug entkräftet werden kann ([SG VG B 2024/99 vom 6. Dezember 2024 E. 4–5](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2024-99_2024-12-06.pdf)). Das Bundesgericht bestätigte in [BGer 2C_513/2025 E. 4.3.3](https://mcp.opencaselaw.ch/entscheid/bger_2C_513_2025), dass NGO-Berichte zwar unverzichtbare Hinweise auf gravierende Missstände liefern, aber zur Begründung eines individuellen Vollzugshindernisses nach Art. 25 Abs. 3 BV zwingend auf die konkrete Region, den staatlichen Schutzwillen und die persönliche Situation der betroffenen Person heruntergebrochen werden müssen.
+**N 33** Die Gerichte anerkennen, dass einlässliche Amtsberichte des SEM eine qualifizierte Erkenntnisquelle darstellen, die nicht durch pauschale NGO-Berichte ohne individuellen Bezug entkräftet werden kann ([SG VG B 2024/99 vom 6. Dezember 2024 E. 4–5](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2024-99_2024-12-06.pdf)). Das Bundesgericht bestätigte in [BGer 2C_513/2025 E. 4.3.3](https://mcp.opencaselaw.ch/entscheid/bger_2C_513_2025), dass NGO-Berichte zwar unverzichtbare Hinweise auf gravierende Missstände liefern, aber zur Begründung eines individuellen Vollzugshindernisses nach Art. 25 Abs. 3 BV zwingend auf die konkrete Region, den staatlichen Schutzwillen und die persönliche Situation der betroffenen Person heruntergebrochen werden müssen.
 
 ---
 
@@ -191,6 +229,7 @@ Während Abs. 2 den völkerrechtlich vorgesehenen Vorbehalten bei schweren Siche
 | **Art. 36 BV** | Schranken von Grundrechten | Auf Art. 25 Abs. 3 BV **nicht anwendbar** (absoluter Kerngehalt). Auf Art. 25 Abs. 2 BV nur nach Massgabe der staatsvertraglichen Ausnahme von Art. 33 Ziff. 2 FK anwendbar. |
 | **Art. 3 EMRK** | Verbot der Folter und unmenschlicher Behandlung | Völkerrechtliche Parallelbestimmung zu Art. 25 Abs. 3 BV mit identischem Schutzbereich und identischer Notstandsresistenz (*Soering*-Doktrin). |
 | **Art. 33 FK** | Verbot der Ausweisung und Zurückweisung von Flüchtlingen | Völkerrechtliche Grundlage von Art. 25 Abs. 2 BV (Ziff. 1) und Schrankenregelung (Ziff. 2). |
-| **Art. 66a StGB** | Obligatorische strafrechtliche Landesverweisung | Gilt nur für Ausländer (Art. 25 Abs. 1 BV schützt Schweizer Bürger absolut). Bei der Anordnung sind zwingende Vollzugshindernisse nach Art. 25 Abs. 3 BV zu beachten (Art. 66d StGB). |
-| **Art. 83 AIG** | Vollzug der Wegweisung und vorläufige Aufnahme | Gesetzliche Ausgestaltung der Vollzugshindernisse (Unzulässigkeit wegen Art. 25 Abs. 2/3 BV und Art. 3 EMRK führt zur vorläufigen Aufnahme). |
+| **Art. 66a StGB** | Obligatorische strafrechtliche Landesverweisung | Gilt nur für Ausländer (Art. 25 Abs. 1 BV schützt Schweizer Bürger absolut). Bei der Anordnung sind zwingende Vollzugshindernisse nach Art. 25 Abs. 3 BV zu beachten; beim Vollzugsaufschub gilt [Art. 66d StGB](/kommentar/stgb/art-066d/). |
+| **Art. 66d StGB** | Aufschub des Vollzugs der Landesverweisung | Verweist in Abs. 1 lit. a auf Art. 25 Abs. 2 BV und in Abs. 1 lit. b auf zwingendes Völkerrecht (Art. 25 Abs. 3 BV, Art. 3 EMRK); vgl. [Kommentar zu Art. 66d StGB](/kommentar/stgb/art-066d/). Die humanitäre Unzumutbarkeit nach Art. 83 Abs. 4 AIG ist für Landesverwiesene ausgeschlossen. |
+| **Art. 83 AIG** | Vollzug der Wegweisung und vorläufige Aufnahme | Gesetzliche Ausgestaltung der Vollzugshindernisse im Ausländerrecht: Unzulässigkeit gemäss Art. 83 Abs. 3 AIG verweist direkt auf Art. 25 Abs. 2/3 BV und Art. 3 EMRK; Unzumutbarkeit gemäss Art. 83 Abs. 4 AIG bildet ein eigenständiges humanitäres Auffangnetz (vgl. [Kommentar zu Art. 83 AIG](/kommentar/aig/art-083/)). |
 | **Art. 7 IRSG** | Auslieferung von Schweizer Bürgern | Einfachgesetzliche Konkretisierung von Art. 25 Abs. 1 Satz 2 BV (Erfordernis des schriftlichen Einverständnisses). |
