@@ -2,11 +2,16 @@
 title: "Art. 248a StPO — Zuständigkeit zur Entsiegelung und Verfahren"
 weight: 248
 date: "2024-01-01"
-lastmod: 2026-10-15
+lastmod: 2026-10-22
 description: "Praxisorientierter Kommentar zu Art. 248a StPO: Zuständigkeit des Entsiegelungsgerichts, Formgültigkeit des Gesuchs, Drittinhaberschaft, Substanziierung der Geheimnisgründe, Triageverhandlung, Sachverständigenbeizug und Rechtsmittel — mit ausführlicher Kasuistik zu Anwaltskorrespondenz, Smartphone-Durchsuchungen, Geschäfts-/Bankgeheimnissen, Datenspiegelung und Polizeiforensik."
-tags: ["StPO", "Zwangsmassnahmen", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "Substanziierungsobliegenheit", "Praxiskommentar"]
+tags: ["StPO", "Zwangsmassnahmen", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "Substanziierungsobliegenheit", "Praxiskommentar", "BGer 7B_815/2026"]
 agent_verified: false
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheit beim Anwaltsgeheimnis (Namens- und E-Mail-Nennung genügt für Triage, Verbot unbegründeter zeitlicher Eingrenzungen durch das ZMG), Abgrenzung zu vagen Behauptungen beim Arztgeheimnis sowie Triage-Praxishinweise für das ZMG."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -146,6 +151,8 @@ In der Sache hatte das kantonale Zwangsmassnahmengericht die vollständige Entsi
 
 Wo der förmliche Einbezug jedes einzelnen Dritten unpraktikabel ist, tritt an dessen Stelle eine Schutzpflicht des Gerichts von Amtes wegen: Die Patientendaten sind vor der Entsiegelung auszusondern oder zumindest konsequent zu anonymisieren, wobei die Substanziierungspflicht des die Siegelung beantragenden Arztes bezüglich der *fremden* Geheimnisse nicht so streng gehandhabt werden darf, wie wenn ausschliesslich seine eigenen Geheimnisrechte betroffen wären ([BGer 7B_558/2025 E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html#consideration_5.3)). Bemerkenswert ist, dass die Staatsanwaltschaft dieser Lösung im Grundsatz gar nicht widersprach: Sie hatte selbst beantragt, Patientendaten auszusondern, sofern A. Speicherort und Dateiname glaubhaft angebe — womit der Streit im Ergebnis nur noch die Reihenfolge betraf, nicht das Ob der Aussonderung.
 
+Diese gerichtliche Schutzpflicht setzt allerdings voraus, dass das Vorhandensein und der Speicherort geschützter Drittdaten plausibel gemacht werden: Macht ein Beschuldigter auf privaten Geräten lediglich vage geltend, es befänden sich möglicherweise noch Patientendaten darauf (z.B. weil er früher als Arzt tätig war), ohne konkrete Ordner, Dateipfade oder Speicherorte zu bezeichnen, reicht dies nicht aus, um eine Aussonderungspflicht des ZMG zu begründen ([BGer 7B_815/2026 vom 7. Oktober 2026 E. 3.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)).
+
 > **Leitsatz.** Ist der förmliche Einbezug jeder einzelnen an sichergestellten Aufzeichnungen berechtigten Drittperson wegen deren grosser Zahl unpraktikabel (typischerweise bei Patientendaten auf einem sichergestellten Gerät), tritt an die Stelle des individuellen Verfahrens nach Abs. 2 eine Schutzpflicht des Gerichts von Amtes wegen: Aussonderung oder konsequente Anonymisierung vor der Entsiegelung, bei abgeschwächter Substanziierungslast der die Siegelung beantragenden Person bezüglich der fremden Geheimnisse.
 
 ---
@@ -191,16 +198,19 @@ Eine publizierte Konstellation, in der ein *beschuldigter* Halter eines privat g
 
 Weitergehende Angaben wie E-Mail-Adressen oder Telefonnummern sind nicht erforderlich, weil die Anforderungen an die Substanziierungsobliegenheit angesichts des in Art. 6 StPO verankerten Untersuchungsgrundsatzes nicht zu hoch angesetzt werden dürfen ([BGer 7B_419/2025 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html#consideration_3.3)). Anschaulich zeigt der Sachverhalt zugleich, wie eng das Anwaltsgeheimnis persönlich gefasst ist: Der Beschuldigte berief sich unter anderem auf Korrespondenz mit dem Anwalt seines mitbeschuldigten Sohnes, der ihn selbst als «Anwalt erster Stunde» beratend unterstützt hatte, bevor die Mandatsführung an eine andere Rechtsanwältin überging — das Bundesgericht bestätigte, dass ein förmliches Mandatsverhältnis für den Geheimnisschutz nicht Voraussetzung ist, sondern jede Person geschützt ist, die sich an eine Anwältin oder einen Anwalt wendet, selbst wenn kein Mandat zustande kommt (vgl. zu diesem Grundsatz auch [BGer 7B_558/2025 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html)).
 
+**Verbot überspannter zeitlicher Anforderungen durch das ZMG (BGer 7B_815/2026).** Diese Rechtsprechung bestätigte und präzisierte das Bundesgericht im Leitentscheid [BGer 7B_815/2026 vom 7. Oktober 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026): Dort hatte das Zwangsmassnahmengericht des Bezirksgerichts Zürich eine Triage verweigert und die vollständige Entsiegelung angeordnet, weil die beschuldigte Person zwar die Namen und konkreten geschäftlichen E-Mail-Adressen ihrer Anwälte angegeben, jedoch keine genauen Zeiträume über die jeweilige Mandatsführung genannt hatte. Das Bundesgericht hiess die Beschwerde gut: Die Mitwirkungs- und Substanziierungsobliegenheit ist kein verfahrensrechtlicher Selbstzweck, sondern soll dem ZMG lediglich eine sachgerechte Triage ermöglichen ([E. 2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)). Liegen Anwaltsnamen und konkrete E-Mail-Adressen vor, genügt dies für eine gerichtliche Triage im Regelfall vollkommen; zusätzliche zeitliche Eingrenzungen über die Korrespondenzzeiträume darf das ZMG nur verlangen, wenn besondere Gründe vorliegen — etwa eine Mandatierung erst nach der Sicherstellung oder eine derart aussergewöhnliche Datenmenge, dass eine zeitliche Eingrenzung unumgänglich ist ([E. 4.2 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)).
+
 **Gegenbeispiel: Wann die Substanziierung scheitert (Mosambik-Bankfall).** Im bereits geschilderten Editionsverfahren gegen eine Bank (Abschnitt V) berief sich diese hilfsweise auch auf das Anwaltsgeheimnis: Es sei nicht auszuschliessen, dass sich unter den edierten GwG-Unterlagen Anwaltskorrespondenz befinde. Das Bundesgericht verwarf dies, weil die Bank die verlangten Unterlagen selbst zusammengestellt und daher genaue Kenntnis ihres Inhalts hatte, ihr eineinhalb Monate Zeit für eine Angabe zur Verfügung standen und die Editionsverfügung ihrem Wortlaut nach ohnehin nur gesetzlich vorgeschriebene Compliance-Dokumentation erfasste: «Es sei unter den konkreten Umständen nicht glaubhaft gemacht worden, dass sich unter den eingereichten Unterlagen Informationen befinden könnten, die vom Anwaltsgeheimnis geschützt seien» ([BGer 7B_1154/2024 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html)).
 
-**Grenzkasuistik: Namensnennung genügt — pauschale Behauptung nicht.**
+**Grenzkasuistik: Namens- und E-Mail-Nennung genügt — pauschale Behauptung nicht.**
 
 | Sachverhalt | Substanziierung | Ergebnis |
 |---|---|---|
 | [BGer 7B_419/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html) — WhatsApp-/E-Mail-Verlauf mit zwei namentlich benannten Anwälten | Namen der Anwälte + Art der Kommunikation angegeben | **genügt** — Aussonderung anhand des Namens möglich |
+| [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) — Anwaltskorrespondenz auf sichergestellten Telefonen/Computern | Namen und konkrete E-Mail-Adressen der Anwälte genannt; ZMG forderte zusätzliche zeitliche Eingrenzung | **genügt** — ZMG darf ohne besondere Gründe keine zeitlichen Angaben verlangen; Obliegenheit dient der Triage und ist kein Selbstzweck |
 | [BGer 7B_1154/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html) — GwG-Compliance-Dokumentation einer Bank | pauschale Vermutung, es «könnte» Anwaltskorrespondenz enthalten sein, ohne jede Konkretisierung, obschon die Bank die Unterlagen selbst zusammengestellt hatte | **genügt nicht** — nicht glaubhaft gemacht |
 
-> **Leitsatz.** Zur Substanziierung des Anwaltsgeheimnisses bei elektronischen Datenträgern genügt die Angabe des Namens der Anwältin oder des Anwalts sowie des Speicherorts der betroffenen Dateien; Kontaktdaten wie E-Mail-Adressen oder Telefonnummern sind nicht erforderlich. Wer die fraglichen Unterlagen selbst zusammengestellt hat und dennoch nur pauschal auf eine mögliche Anwaltskorrespondenz verweist, genügt der Substanziierungslast dagegen nicht.
+> **Leitsatz.** Zur Substanziierung des Anwaltsgeheimnisses bei elektronischen Datenträgern genügt die Angabe des Namens der Anwältin oder des Anwalts sowie des Speicherorts der betroffenen Dateien; die Angabe von Namen und konkreten E-Mail-Adressen reicht im Regelfall vollkommen aus. Das ZMG darf ohne besondere Gründe (z.B. Mandatierung erst nach Sicherstellung, exorbitantes Datenvolumen) keine weitergehende zeitliche Eingrenzung verlangen. Wer die fraglichen Unterlagen selbst zusammengestellt hat und dennoch nur pauschal auf eine mögliche Anwaltskorrespondenz verweist, genügt der Substanziierungslast dagegen nicht.
 
 ### E.3 Geschäfts- und Bankkundengeheimnisse: kein eigenständiger Grund mehr
 
@@ -395,6 +405,7 @@ Gleichzeitig bekräftigte das Bundesgericht die funktionelle Kompetenzverteilung
 5. Den Parteien schriftliche Sachverständigengutachten und Triageberichte zwingend vor dem Entscheid mit Fristansetzung zur Stellungnahme zur Kenntnis bringen (Art. 188 StPO; [BGer 7B_270/2025 E. 4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html)).
 6. Die freigegebenen Dateien im Entscheid oder Beiblatt transparent auflisten, damit die Bundesrechtskonformität der Triage überprüfbar bleibt ([BGer 7B_270/2025 E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html)).
 7. Eine Abweichung von der in Art. 248a Abs. 5 StPO vorgeschriebenen Triageverhandlung mit Staatsanwaltschaft und berechtigter Person zwingend tragfähig begründen ([BGer 7B_270/2025 E. 4.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html)).
+8. **Substanziierungsanforderungen bei Anwaltskorrespondenz nicht überspannen:** Bei Nennung von Anwaltsnamen und konkreten geschäftlichen E-Mail-Adressen ist im Regelfall auf das Verlangen zusätzlicher zeitlicher Eingrenzungen über die Korrespondenzzeiträume zu verzichten, es sei denn, es liegen besondere Gründe vor wie eine Mandatierung erst nach der Sicherstellung oder eine derart aussergewöhnliche Datenmenge, dass eine gezielte Triage ohne zeitliche Begrenzung unumgänglich ist ([BGer 7B_815/2026 E. 4.2 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)).
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: "2024-01-01"
-lastmod: "2026-09-22"
-description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug)."
-tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO"]
+lastmod: "2026-10-22"
+description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug, Triage-Pflichten)."
+tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_815/2026"]
 agent_verified: false
 revisions:
+  - date: "2026-10-22"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheit beim Anwaltsgeheimnis (Namens- und E-Mail-Nennung genügt für gerichtliche Triage, Verbot unbegründeter zeitlicher Begrenzungen durch das ZMG), Abgrenzung beim Arztgeheimnis sowie Triage-Pflichten."
   - date: "2026-09-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -262,6 +267,22 @@ revisions:
 - **E. 4.4:** Pflicht zur Fristansetzung zur Stellungnahme zu schriftlichen Sachverständigenberichten gemäss Art. 188 StPO; Gehörsverletzung bei Eröffnung erst zusammen mit dem Endentscheid.
 - **E. 4.5:** Zwingende Begründungspflicht bei Abweichung von der gesetzlich vorgesehenen Triageverhandlung mit Staatsanwaltschaft und berechtigter Person nach Art. 248a Abs. 5 StPO.
 - **E. 4.6:** Bestätigung: Die Sichtung und Aussonderung obliegt allein dem Gericht (Urteil 7B_489/2023 E. 2.2); die gerichtliche Dokumentation muss den Parteien aber die Prüfung der Bundesrechtskonformität ermöglichen.
+
+---
+
+### 17. [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) vom 07.10.2026 — Substanziierungsobliegenheit beim Anwaltsgeheimnis, Verbot unbegründeter zeitlicher Begrenzungen und Triagepflicht des ZMG
+
+**Datum:** 7. Oktober 2026 | **Signatur:** [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) | **Besetzung:** II. strafrechtliche Abteilung (Abrecht, Kölz, Hofmann, Gerichtsschreiberin Liniger)
+
+**Kernsatz:** Die Mitwirkungs- und Substanziierungsobliegenheit der siegelungsberechtigten Person ist kein verfahrensrechtlicher Selbstzweck, sondern soll dem Entsiegelungsgericht (ZMG) eine gezielte Triage ermöglichen; sie darf angesichts des Untersuchungsgrundsatzes (Art. 6 StPO) nicht überspannt werden. Bei der Anrufung des Anwaltsgeheimnisses (Art. 264 Abs. 1 lit. a/d StPO) genügt die Nennung der Anwaltsnamen und konkreten E-Mail-Adressen im Regelfall vollkommen für eine gerichtliche Triage. Zusätzliche zeitliche Angaben über die Korrespondenzzeiträume darf das ZMG nur verlangen, wenn besondere Gründe vorliegen (z.B. Mandatierung erst nach der Sicherstellung oder eine derart aussergewöhnliche Datenmenge, dass eine zeitliche Eingrenzung unumgänglich ist). Macht ein Beschuldigter auf privaten Geräten geltend, es befänden sich allenfalls noch Patientendaten darauf (Art. 264 Abs. 1 lit. c StPO), reichen vage Vermutungen ohne Bezeichnung konkreter Speicherorte oder Ordner nicht aus.
+
+**Sachverhalt:** In einer Strafuntersuchung stellte die Staatsanwaltschaft Mobiltelefone und Computer sicher, die die beschuldigte Person siegeln liess. Im Entsiegelungsverfahren vor dem Zwangsmassnahmengericht des Bezirksgerichts Zürich berief sich die beschuldigte Person auf das Anwaltsgeheimnis unter Nennung der Namen der Rechtsanwälte sowie deren konkreter geschäftlicher E-Mail-Adressen und machte ferner geltend, auf den Geräten könnten sich noch Patientendaten aus früherer beruflicher Tätigkeit befinden. Das ZMG bewilligte die vollständige Entsiegelung aller Datenträger ohne Triage mit der Begründung, es fehlten zeitliche Angaben zu den Anwaltsmandaten und die Ordner der Patientendaten seien nicht präzise bezeichnet worden. Das Bundesgericht hiess die Beschwerde bezüglich des Anwaltsgeheimnisses gut und hob den Entscheid zur Durchführung der Triage auf.
+
+**Erwägungen:**
+- **E. 2.2:** Zweck der Mitwirkungs- und Substanziierungsobliegenheit: Ermöglichung der gerichtlichen Triage; Verbot überspannter Anforderungen vor dem Hintergrund des Untersuchungsgrundsatzes (Art. 6 StPO).
+- **E. 3.3:** Abgrenzung beim Arztgeheimnis / Patientendaten (Art. 264 Abs. 1 lit. c, Art. 171 StPO): Vage Vermutungen eines Beschuldigten ohne Angabe konkreter Speicherorte/Ordner genügen nicht, um eine Aussonderungspflicht des ZMG für Altdaten auszulösen.
+- **E. 4.2–4.3:** Anwaltsgeheimnis: Angabe von Namen und konkreten E-Mail-Adressen reicht im Regelfall vollkommen für eine elektronische Suchfilterung und Aussonderung aus. Das Verlangen zusätzlicher zeitlicher Eingrenzungen durch das ZMG ist ohne Vorliegen besonderer Umstände bundesrechtswidrig.
+
 
 
 
