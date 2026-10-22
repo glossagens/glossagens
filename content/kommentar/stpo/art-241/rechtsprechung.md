@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 241 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: "2026-10-22"
 description: "Übersicht der Rechtsprechung zu Art. 241 StPO – Durchsuchungsbefehl, Schriftform, Gefahr im Verzug und polizeiliche Sicherheitsdurchsuchung."
 tags: ["Rechtsprechung", "StPO", "Durchsuchungsbefehl", "Durchsuchung", "Gefahr im Verzug", "Sicherheitsdurchsuchung", "Bestimmtheitsgebot", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: false
+    note: "Aufnahme von Leitentscheid BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Akzessorietät der Sicherheitsdurchsuchung nach Art. 241 Abs. 4 StPO zu Art. 215 StPO, Verbot von Vorwandskontrollen/Fishing Expeditions und Unverwertbarkeit von Zufallsfunden."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -14,7 +19,12 @@ revisions:
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 241 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 
-## I. Leitentscheide (BGE)
+## I. Leitentscheide (BGE und Grundsatzurteile)
+
+### [BGer 6B_153/2026 vom 22.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) E. 2.3.2, E. 2.8, E. 3.2.2
+- **Thema**: Verhältnis der Sicherheitsdurchsuchung (Abs. 4) zu Art. 215 StPO / Verbot von «Fishing Expeditions» und Vorwandskontrollen
+- **Kernaussage**: Art. 241 Abs. 4 StPO ermächtigt die Polizei nur dann zu einer befehlsfreien Sicherheitsdurchsuchung, wenn die betroffene Person zuvor rechtmässig nach Art. 215 StPO (oder Art. 217 StPO) angehalten wurde. Fehlt es an einem sachlichen Tatverdacht (blosses Schlafen auf einer Parkbank) und knüpft die Kontrolle an diskriminierende Kriterien wie die Hautfarbe an (*Racial Profiling*), entfällt die Rechtsgrundlage für die Durchsuchung nach Abs. 4 vollständig. Die Massnahme stellt eine unzulässige Beweisausforschung (*fishing expedition*) dar. Zufallsfunde unterliegen dem Beweisverwertungsverbot nach Art. 141 Abs. 2 StPO und sind nach Art. 141 Abs. 5 StPO zwingend aus den Akten zu entfernen.
+- **Einschlägig für**: Abs. 4 (i.V.m. Art. 215 StPO und Art. 141 StPO)
 
 ### [BGE 149 IV 369](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-IV-369_2023.html) E. 1.3 f.
 - **Thema**: Bestimmtheitsgebot und Zweckbindung des Durchsuchungsbefehls (Abs. 2)
@@ -116,4 +126,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-30*
+*Letzte Aktualisierung: 2026-10-22*

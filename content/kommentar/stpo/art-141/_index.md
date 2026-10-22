@@ -2,11 +2,16 @@
 title: "Art. 141 — Verwertbarkeit rechtswidrig erlangter Beweise"
 weight: 141
 date: "2026-05-09"
-lastmod: 2026-10-15
+lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu Unterbrechung der Kausalkette, PIN-Erfragung, verdeckter Ermittlung, Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht", "Praxiskommentar", "nemo tenetur", "verdeckte Ermittlung", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: false
+    note: "Einarbeitung des Grundsatzurteils BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Verbot von Fishing Expeditions und Vorwandskontrollen bei Identitätskontrollen ohne Tatverdacht (Racial Profiling) mit partiellem Überwiegen der Grundrechte (Art. 8 Abs. 2, Art. 10 Abs. 2 BV; Art. 8, 14 EMRK) bei der Interessenabwägung nach Art. 141 Abs. 2 StPO; zwingende Natur der Aktenentfernung nach Art. 141 Abs. 5 StPO ohne Zulässigkeit eines finanziellen Entschädigungssurrogats und Freispruch bei Fehlen weiterer Beweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -199,6 +204,18 @@ Massgebend sei allein, ob eine entsprechende Bildaufzeichnung nach der massgeben
 
 > **Merksatz.** Bei einer Serie zusammenhängender Delikte ist die Tatschwere nach Art. 141 Abs. 2 StPO **gesamthaft** zu prüfen — vorausgesetzt, die Delikte stehen in engem zeitlichem und sachlichem Zusammenhang **und** das rechtswidrige Beweismittel ist für den Nachweis jedes einbezogenen Einzeldelikts unerlässlich. Für sich genommen nicht schwere Einzeldelikte können in der Gesamtschau die Schwelle zur schweren Straftat erreichen. Delikte, für die das Beweismittel nicht unerlässlich ist, bleiben ausser Betracht.
 
+### Vorwandskontrollen, diskriminierende Anhaltung und das Verbot von «Fishing Expeditions» (Leitentscheid BGer 6B_153/2026)
+
+In einem Grundsatzurteil einer Fünferbesetzung der I. strafrechtlichen Abteilung ([BGer 6B_153/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026); Muschietti [Präsident], von Felten, Wohlhauser, Guidon, Glassey) präzisierte das Bundesgericht die Schranken polizeilicher Kontrolltätigkeit und die Interessenabwägung nach Art. 141 Abs. 2 StPO bei Vorwandskontrollen und unzulässiger Beweisausforschung (*fishing expeditions*).
+
+**Ausgangslage.** Die Polizei unterzog eine dunkelhäutige Person, die friedlich auf einer Parkbank schlief, einer Personenkontrolle und einer anschliessenden Durchsuchung der Kleidung und Effekten. Die Beamten rechtfertigten das Einschreiten nachträglich als Sicherheitsdurchsuchung (Art. 241 Abs. 4 StPO) und brachten vor, das Schlafen auf einer Parkbank sei verdächtig gewesen. Bei der Durchsuchung stiessen die Einsatzkräfte auf Betäubungsmittel. Die kantonalen Instanzen verurteilten die Person und erachteten den Zufallsfund trotz festgestellter formeller Mängel der Anhaltung gestützt auf eine Interessenabwägung nach Art. 141 Abs. 2 StPO als verwertbar; als Ausgleich für die Grundrechtsverletzung sprach die Vorinstanz dem Betroffenen eine finanzielle Entschädigung zu.
+
+**Rechtliche Würdigung durch das Bundesgericht (E. 2.3.2, E. 2.8, E. 3.2.2):**
+1. **Keine Rechtsgrundlage ohne Tatverdacht (E. 2.3.2, E. 2.8)**: Das Bundesgericht verwarf die Annahme einer rechtmässigen Massnahme. Eine Anhaltung nach Art. 215 StPO setzt zwingend sachliche Anhaltspunkte für eine Straftat oder Fahndungshinweise voraus; das blosse Schlafen auf einer Parkbank begründet keinerlei — auch keinen vagen — Tatverdacht. Knüpft das polizeiliche Einschreiten an phänotypische Merkmale wie Hautfarbe oder ethnische Herkunft an (*Racial Profiling*), liegt ein schwerer Verstoss gegen das Diskriminierungsverbot (Art. 8 Abs. 2 BV, Art. 14 EMRK) vor. Fehlt es bereits an den Voraussetzungen einer Anhaltung nach Art. 215 StPO, entfällt auch jede gesetzliche Grundlage für eine Sicherheitsdurchsuchung nach Art. 241 Abs. 4 StPO. Die Durchsuchung erweist sich damit als unzulässige Beweisausforschung (*fishing expedition*) bzw. reine Vorwandskontrolle.
+2. **Klares Überwiegen der Grundrechte bei der Interessenabwägung (E. 2.8)**: Bei der nach Art. 141 Abs. 2 StPO vorzunehmenden Interessenabwägung zwischen dem Strafverfolgungsinteresse und den tangierten Grundrechten überwiegen die durch Art. 8 Abs. 2 BV (Diskriminierungsverbot), Art. 10 Abs. 2 BV (persönliche Freiheit) sowie Art. 8 und 14 EMRK geschützten Grundrechtsinteressen das staatliche Verfolgungsinteresse an Zufallsfunden klar. Zufallsfunde, die aus einer solchen diskriminierenden Vorwandskontrolle resultieren, sind daher relativ unverwertbar und dürfen nicht zuungunsten der betroffenen Person verwendet werden.
+
+> **Merksatz.** Fehlt für eine polizeiliche Anhaltung und Durchsuchung jeder sachliche Tatverdacht und beruht das Einschreiten auf diskriminierenden Merkmalen (*Racial Profiling* / Vorwandskontrolle), liegt eine unzulässige «fishing expedition» vor. Bei der Interessenabwägung nach Art. 141 Abs. 2 StPO wiegt der Grundrechtsverstoss (Art. 8 Abs. 2, Art. 10 Abs. 2 BV; Art. 8, 14 EMRK) stets schwerer als das Verfolgungsinteresse an Zufallsfunden — die Beweismittel sind ausnahmslos unverwertbar.
+
 ## D. Merkmal 4: Fernwirkung (Abs. 4) und deren Unterbrechung
 
 ### Grundsatz und Dogmatik der Fernwirkung
@@ -286,6 +303,15 @@ Entscheidender aber: Das Gericht erklärte die vom Obergericht vorgenommene **Zw
 
 > **Merksatz.** Wer eine Verwertbarkeitsfrage vorab und isoliert vom Sachgericht klären lassen will, braucht ein nach Art. 342 StPO zulässiges Schuld- oder Tatinterlokut — eine reine «Verwertbarkeits-Zweiteilung» der Hauptverhandlung ist prozessual unzulässig, selbst wenn beide Parteien sie beantragen und das Gericht sie gewährt. Der Entscheid über die Verwertbarkeit bleibt bis zum Endurteil hängig und ist erst mit diesem anfechtbar (Art. 342 Abs. 4, Art. 93 Abs. 3 BGG). Für die Verteidigung wie für die Staatsanwaltschaft gilt: Ein prozessual verlockender Vorab-Entscheid über ein zentrales Beweismittel kann sich als Zeitverlust erweisen, wenn er auf einer unzulässigen Verfahrensaufteilung beruht.
 
+### Zwingende Natur der Aktenentfernung: Kein finanzieller Ausgleich als Ersatz (Leitentscheid BGer 6B_153/2026)
+
+In [BGer 6B_153/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) (E. 3.2.2) erteilte das Bundesgericht kantonalen Bestrebungen eine klare Absage, die Rechtswidrigkeit einer Beweiserhebung oder Grundrechtsverletzung durch die Zusprechung einer finanziellen Entschädigung zu «kompensieren», das unverwertbare Beweismittel aber in den Akten zu belassen und für einen Schuldspruch heranzuziehen:
+
+1. **Zwingende Rechtsfolge (Art. 141 Abs. 5 StPO)**: Wird die Unverwertbarkeit eines Beweismittels festgestellt, schreibt Art. 141 Abs. 5 StPO zwingend vor, dass die entsprechenden Aufzeichnungen und Aktenstücke aus den Strafakten zu entfernen, bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss zu halten und danach zu vernichten sind. Die StPO sieht kein behördliches Ermessen vor, anstelle des Beweisverbots eine finanzielle Entschädigung (Genugtuung oder Schadenersatz) zuzusprechen.
+2. **Freispruch bei fehlender Beweisgrundlage**: Führt die gebotene Aussonderung des unverwertbaren Beweismittels (und allfälliger Folgebeweise) dazu, dass dem erhobenen Vorwurf die tatsächliche Grundlage entzogen ist, bleibt für einen Schuldspruch kein Raum. Das Sachgericht hat die beschuldigte Person zwingend freizusprechen.
+
+> **Merksatz.** Art. 141 Abs. 5 StPO ist zwingendes Recht: Unverwertbare Beweise müssen physisch aus den Strafakten entfernt werden. Ein «Freikauf» der Strafverfolgungsbehörden über finanzielle Entschädigungen bei gleichzeitiger Verwertung des unrechtmässig erlangten Beweises ist nach Bundesrecht ausgeschlossen. Fehlt nach der Aktenbereinigung eine tragfähige Beweisbasis, ist freizusprechen.
+
 ## Kantonale Praxisfragen
 
 **Zuständigkeit für Beweisverwertungsverbote.** Kantonale Beschwerdeinstanzen betonen wiederholt, dass die Beurteilung von Beweisverwertungsverboten grundsätzlich dem **Sachgericht** vorbehalten ist und die Beschwerdeinstanz nicht vorgreifen darf (Kantonsgericht St. Gallen, Anklagekammer AK.2014.227; Kantonsgericht Basel-Landschaft, 470 19 121). Der SkyECC-Fall (BGer 7B_1429/2025) bestätigt diese Zurückhaltung indirekt: Auch eine gerichtlich bewilligte Zweiteilung der Hauptverhandlung darf diesen Grundsatz nicht unterlaufen.
@@ -307,7 +333,7 @@ Entscheidender aber: Das Gericht erklärte die vom Obergericht vorgenommene **Zw
 
 **Absolute Unverwertbarkeit (Abs. 1)**: Erfragung des Zugangscodes bei Hausdurchsuchung ohne Belehrung ([BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html)). Verdeckte Ermittlerin als Wahrsagerin zur Erpressung eines Geständnisses eingesetzt ([BGE 148 IV 205](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-205_2022.html)). Polizeiliche Videoüberwachung ohne STA-Anordnung und ZMGER-Genehmigung (BGE 145 IV 42). Verletzung des Teilnahmerechts nach Art. 147 StPO (BGE 143 IV 457).
 
-**Relative Unverwertbarkeit (Abs. 2)**: GoPro-Aufnahme bei nicht schwerer Verkehrsregelverletzung ([BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html)). Private Observationen ohne gesetzliche Grundlage (BGE 143 IV 387). AFV-Aufzeichnungen bei nicht schwerer Anlasstat (BGE 146 I 11).
+**Relative Unverwertbarkeit (Abs. 2)**: GoPro-Aufnahme bei nicht schwerer Verkehrsregelverletzung ([BGE 147 IV 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-16_2021.html)). Private Observationen ohne gesetzliche Grundlage (BGE 143 IV 387). AFV-Aufzeichnungen bei nicht schwerer Anlasstat (BGE 146 I 11). Diskriminierende Vorwandskontrolle / Fishing Expedition ohne Tatverdacht ([BGer 6B_153/2026 vom 22.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) E. 2.8).
 
 **Verwertbar trotz Rechtswidrigkeit (Abs. 2, schwere Straftat bejaht)**: Video eines Hotelbetriebs bei Landfriedensbruch ([BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html)). Private Videoaufnahmen bei qualifiziertem Raub — abstrakter Massstab der hypothetisch rechtmässigen Erlangbarkeit ([BGE 151 IV 124](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-124_2025.html) E. 2.6). Private Videoaufnahmen (Bar-Aussenbereich) — Bestätigung des abstrakten Massstabes ([BGer 7B_80/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-80-2025_2026-05-29.html) E. 3.1.1–3.3). Private Observationsaufnahmen aus IV-Verfahren — abstrakter Massstab, konkrete Umstände unbeachtlich ([BGer 6B_133/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-133-2025_2026-08-11.html) E. 5.3.2, E. 5.4). Private Videoaufnahmen bei Sachbeschädigungsserie — Gesamtwürdigung zusammenhängender Delikte ([BGer 6B_978/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-978-2025_2026-07-14.html) E. 2.7.1–2.7.5).
 
@@ -317,7 +343,7 @@ Entscheidender aber: Das Gericht erklärte die vom Obergericht vorgenommene **Zw
 
 **Fernwirkung (Abs. 4)**: Fehlender Nachweis hypothetisch rechtmässiger Erlangbarkeit nach PIN-Erfragung ([BGE 151 IV 73](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html) E. 2.5.2). Unterbrechung der Kausalkette bei AIG-Delikten durch unabhängige behördliche Vorerkenntnisse der Fremdenpolizei ([BGer 6B_206/2026 E. 2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.08.2026_6B_206/2026)). Keine Gesamtkontamination nach unverwertbarer Erstbefragung bei vorbestehendem Tatverdacht und zwingenden Standardermittlungen ([BGer 6B_350/2026 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-350-2026_2026-06-09.html)). Pflicht zur Einzelfallprüfung von Folgebeweisen nach rechtswidriger Observation ([BGer 6B_462/2025 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-462-2025_2026-03-25.html)). Geständnis nach BÜPF-Zufallsfund bei autonomer Zäsur verwertbar ([BGE 133 IV 329](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-329_2007.html)). Durchschlagen der Fernwirkung bei kausalem Vorhalt unverwertbarer Voreinvernahmen ([BGer 6B_865/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-865-2025_2026-03-09.html)).
 
-**Aktenbereinigung und Prozessuales (Abs. 5)**: Verbleib in Akten grundsätzlich kein irreparabler Nachteil (BGE 141 IV 289); Ausnahme bei kantonaler Entfernungsanordnung im Vorverfahren. Unzulässige Verwertbarkeits-Zweiteilung der Hauptverhandlung ([BGer 7B_1429/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1429-2025_2026-08-05.html)).
+**Aktenbereinigung und Prozessuales (Abs. 5)**: Verbleib in Akten grundsätzlich kein irreparabler Nachteil (BGE 141 IV 289); Ausnahme bei kantonaler Entfernungsanordnung im Vorverfahren. Unzulässige Verwertbarkeits-Zweiteilung der Hauptverhandlung ([BGer 7B_1429/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1429-2025_2026-08-05.html)). Zwingende Aktenentfernung bei unverwertbaren Beweisen; kein finanzieller Ersatz und Freispruch bei Entfall der Beweisgrundlage ([BGer 6B_153/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) E. 3.2.2).
 
 ## Literatur
 

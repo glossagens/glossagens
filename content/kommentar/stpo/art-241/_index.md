@@ -2,11 +2,16 @@
 title: "Art. 241 StPO — Anordnung von Durchsuchungen und Untersuchungen"
 weight: 241
 date: "2026-08-30"
-lastmod: 2026-10-15
+lastmod: 2026-10-22
 description: "Kommentar zu Art. 241 StPO – Anordnung von Durchsuchungen und Untersuchungen: Schriftlicher Durchsuchungsbefehl, Bestimmtheitsgebot, Gefahr im Verzug (Abs. 3) und Sicherheitsdurchsuchung (Abs. 4)."
 tags: ["StPO", "Durchsuchung", "Durchsuchungsbefehl", "Schriftform", "Gefahr im Verzug", "Sicherheitsdurchsuchung", "Zwangsmassnahmen", "Verhältnismässigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: false
+    note: "Einarbeitung des Leitentscheids BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung) in Rz. 8 und Rz. 9: Sicherheitsdurchsuchung nach Art. 241 Abs. 4 StPO setzt zwingend eine rechtmässige Anhaltung nach Art. 215 StPO voraus; Fehlen eines Tatverdachts führt zur unzulässigen Fishing Expedition und Unverwertbarkeit von Zufallsfunden."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -60,9 +65,9 @@ revisions:
 
 ## Abs. 4 — Polizeiliche Sicherheitsdurchsuchung
 
-**Rz. 8** **Eigensicherung und Drittschutz.** Die Polizei ist nach Art. 241 Abs. 4 StPO jederzeit befugt, eine angehaltene (Art. 215 StPO) oder vorläufig festgenommene Person (Art. 217 StPO) ohne Durchsuchungsbefehl am Körper und an den mitgeführten Effekten abzutasten, um sicherzustellen, dass sie keine Waffen oder gefährlichen Gegenstände auf sich trägt ([BGer 6B_899/2017 vom 14. Februar 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-899-2017_2018-02-14.html) E. 2.2).
+**Rz. 8** **Eigensicherung, Drittschutz und Akzessorietät zur Anhaltung.** Die Polizei ist nach Art. 241 Abs. 4 StPO befugt, eine angehaltene (Art. 215 StPO) oder vorläufig festgenommene Person (Art. 217 StPO) ohne Durchsuchungsbefehl am Körper und an den mitgeführten Effekten abzutasten, um sicherzustellen, dass sie keine Waffen oder gefährlichen Gegenstände auf sich trägt ([BGer 6B_899/2017 vom 14. Februar 2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-899-2017_2018-02-14.html) E. 2.2). Die Sicherheitsdurchsuchung ist jedoch akzessorisch und setzt zwingend eine nach Art. 215 StPO (oder Art. 217 StPO) formell und materiell gerechtfertigte Anhaltung voraus ([BGer 6B_153/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) E. 2.3.2). Fehlt es von vornherein an den gesetzlichen Voraussetzungen einer Anhaltung — namentlich weil kein hinreichender, auch nicht vager Tatverdacht besteht und das Einschreiten an diskriminierende Merkmale wie die Hautfarbe anknüpft (*Racial Profiling*) —, entfällt die gesetzliche Grundlage für eine Durchsuchung nach Art. 241 Abs. 4 StPO vollständig (BGer 6B_153/2026 E. 2.3.2, E. 2.8).
 
-**Rz. 9** **Schranken der Sicherheitsdurchsuchung.** Die Sicherheitsdurchsuchung dient ausschliesslich dem Schutz von Personen und nicht der gezielten Beweisausforschung. Eine vollständige Entkleidung (Leibesvisitation) bedarf konkreter Anhaltspunkte für Selbst- oder Fremdgefährdung ([LU Kantonsgericht 2N 22 37 vom 21. Juni 2022](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-22-37_2022-06-21.html)).
+**Rz. 9** **Schranken der Sicherheitsdurchsuchung und Verbot von «Fishing Expeditions».** Die Sicherheitsdurchsuchung dient ausschliesslich dem Schutz von Personen vor gefährlichen Gegenständen und nicht der gezielten Beweisausforschung. Eine Durchsuchung ohne vorbestehenden Tatverdacht unter dem Vorwand der Eigensicherung stellt eine unzulässige Beweisausforschung (*fishing expedition*) bzw. reine Vorwandskontrolle dar; daraus resultierende Zufallsfunde unterliegen einem Beweisverwertungsverbot nach Art. 141 Abs. 2 StPO und sind nach Art. 141 Abs. 5 StPO zwingend aus den Akten zu entfernen ([BGer 6B_153/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026) E. 2.8, E. 3.2.2). Eine weitergehende vollständige Entkleidung (Leibesvisitation) bedarf ohnehin stets konkreter Anhaltspunkte für eine akute Selbst- oder Fremdgefährdung ([LU Kantonsgericht 2N 22 37 vom 21. Juni 2022](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-22-37_2022-06-21.html)).
 
 ---
 

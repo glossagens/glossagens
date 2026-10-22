@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 141 StPO"
 weight: 99
 date: 2026-05-09
-lastmod: "2026-10-02"
+lastmod: "2026-10-22"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
 agent_verified: true
 revisions:
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: false
+    note: "Aufnahme von Leitentscheid BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Fishing Expeditions, Vorwandskontrollen, Racial Profiling, relative Unverwertbarkeit von Zufallsfunden nach Art. 141 Abs. 2 StPO und zwingende Aktenentfernung ohne finanzielles Surrogat nach Art. 141 Abs. 5 StPO."
   - date: 2026-10-02
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -71,6 +76,8 @@ Art. 141 Abs. 1 StPO ordnet ein absolutes Beweisverwertungsverbot an, wenn die B
 Art. 141 Abs. 2 StPO ordnet ein relatives Beweisverwertungsverbot an, wenn die Beweiserhebung entweder eine Gültigkeitsvorschrift (Gültigkeitsverletzung) oder eine Strafbarkeitsvorschrift (strafbare Beweiserlangung) verletzt hat. Im Falle der Gültigkeitsverletzung ist der Beweis nur verwertbar, wenn die strafverfolgte Person eine schwere Straftat im konkreten Fall begangen hat. Bei strafbarer Beweiserlangung ist der Beweis nur verwertbar, wenn die schwere Straftat kumulativ auch mit rechtmässigen Mitteln hätte bewiesen werden können.
 
 ### 2.1 Gültigkeitsverletzung — Schwere Straftat und Interessenabwägung
+
+**[BGer 6B_153/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026)** (vom 22. September 2026, 5er-Besetzung: Muschietti [Präsident], von Felten, Wohlhauser, Guidon, Glassey) — *Vorwandskontrolle, Racial Profiling, «Fishing Expedition» und Interessenabwägung (Abs. 2)*: Führt die Polizei ohne jeden sachlichen Tatverdacht (blosses Schlafen auf einer Parkbank) eine Personenkontrolle und Durchsuchung durch, die an diskriminierende Merkmale wie die Hautfarbe anknüpft (*Racial Profiling*), liegt eine unzulässige Beweisausforschung (*fishing expedition*) vor, für die keine gesetzliche Grundlage nach Art. 215 oder Art. 241 Abs. 4 StPO besteht. Bei der Interessenabwägung nach Art. 141 Abs. 2 StPO überwiegen die Grundrechtsinteressen (Art. 8 Abs. 2, Art. 10 Abs. 2 BV; Art. 8 und 14 EMRK) das staatliche Strafverfolgungsinteresse an daraus resultierenden Zufallsfunden klar. Die Beweismittel sind unverwertbar. → E. 2.3.2, E. 2.8, E. 3.2.2.
 
 **[BGE 147 IV 9](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_9)** (vom 1. September 2020, 283 Zitate) — *Rechtswidrige Videoaufnahmen bei Landfriedensbruch*: Für die Frage, ob eine schwere Straftat i.S.v. Art. 141 Abs. 2 StPO vorliegt, ist nicht das abstrakt angedrohte Strafmass, sondern die Schwere der konkreten Tat entscheidend. Das öffentliche Interesse an der Wahrheitsfindung wiegt beim Tatbestand des Landfriedensbruchs grundsätzlich schwer; die Videoaufnahmen sind verwertbar. → E. 1.4.2, E. 2.
 
@@ -176,6 +183,8 @@ Vor der Gesetzesänderung galt folgende Rechtsprechung zur Fernwirkung:
 
 Art. 141 Abs. 5 StPO regelt die Entfernung unverwertbarer Beweismittel aus den Akten. Die Frage, ob ein Beweismittel aus den Akten zu entfernen ist oder ob sein Verbleib in den Akten einen irreparablen Nachteil darstellt, hat die Rechtsprechung differenziert beantwortet.
 
+**[BGer 6B_153/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_6B_153/2026)** (vom 22. September 2026, 5er-Besetzung) — *Zwingende Aktenentfernung, Ausschluss eines finanziellen Ausgleichs als Surrogat (Abs. 5)*: Art. 141 Abs. 5 StPO schreibt zwingend vor, dass unverwertbare Beweise aus den Strafakten zu entfernen, gesondert zu verwahren und nach Abschluss des Verfahrens zu vernichten sind. Die Strafbehörden sind nicht befugt, die Unverwertbarkeit stattdessen durch eine finanzielle Entschädigung zu kompensieren und die Beweise dennoch im Verfahren zu belassen oder zu verwerten. Fehlt nach der Aussonderung der Beweismittel eine tragfähige Grundlage für den Tatvorwurf, ist die beschuldigte Person freizusprechen. → E. 3.2.2.
+
 **[BGE 141 IV 289](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_289)** (vom 29. Juli 2015, 804 Zitate) — *Aktenentfernung / nicht wieder gutzumachender Rechtsnachteil*: Der alleinige Umstand, dass ein Beweismittel, dessen Verwertbarkeit der Beschwerdeführer bestreitet, in den Untersuchungsakten verbleibt, stellt grundsätzlich keinen nicht wieder gutzumachenden Nachteil rechtlicher Natur dar. Das Verbleiben eines unverwertbaren Beweises in den Akten ist nicht irreparabel, solange das Sachgericht über die Verwertbarkeit ohnehin zu befinden hat. → E. 1.
 
 **[BGE 143 IV 475](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_475)** (vom 5. Oktober 2017, 361 Zitate) — *StPO-Beschwerde gegen Aktenentfernungsentscheid der STA*: Es hält nicht vor Bundesrecht stand, wenn eine letzte kantonale Instanz auf eine StPO-Beschwerde gegen die (Nicht-)Entfernung angeblich unverwertbarer Beweismittel durch die Staatsanwaltschaft nicht eintritt, weil es an einem nicht wieder gutzumachenden Nachteil bzw. an einem rechtlich geschützten Interesse fehle. Die Beschwerde ist zulässig. → E. 2.
@@ -224,6 +233,7 @@ Die EMRK kennt keine eigenständige, mit Art. 141 StPO vergleichbare Doktrin der
 
 | Geschäftsnummer | Datum | Kurzinhalt |
 |---|---|---|
+| BGer 6B_153/2026 | 22.09.2026 | Leitentscheid (5er-Besetzung): Vorwandskontrollen («fishing expeditions»), Racial Profiling, Interessenabwägung (Art. 141 Abs. 2 StPO); zwingende Aktenentfernung ohne finanzielles Surrogat (Art. 141 Abs. 5 StPO) |
 | BGer 6B_133/2025 | 11.08.2026 | Private Observationsaufnahmen aus IV-Verfahren, abstrakter Beurteilungsmassstab bei hypothetisch rechtmässiger Erlangbarkeit (Art. 141 Abs. 2 StPO) |
 | BGer 6B_206/2026 | 19.08.2026 | AIG-Delikte, Telefonüberwachung, Unterbrechung der Fernwirkung durch unabhängige Vorerkenntnisse der Fremdenpolizei, Rügeobliegenheit (Art. 141 Abs. 4 StPO) |
 | BGer 7B_1429/2025 | 05.08.2026 | SkyECC-Daten, Aktenbereinigung, Zwischenentscheid (Art. 141 Abs. 5 StPO; Art. 93 BGG) |
