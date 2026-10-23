@@ -2,160 +2,62 @@
 title: "Rechtsprechung zu Art. 432 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
-description: "Übersicht der Entscheide zu Art. 432 StPO — Ansprüche gegenüber der Privatklägerschaft und der antragstellenden Person"
+lastmod: 2026-10-23
+description: "Übersicht der Entscheide zu Art. 432 StPO — Ansprüche der beschuldigten Person gegenüber der Privatklägerschaft und der antragstellenden Person"
 tags: ["Rechtsprechung", "StPO", "Kosten", "Entschädigung", "Privatklägerschaft"]
 agent_verified: false
+revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Neufassung: nur im Volltext (entscheidsuche.ch) verifizierte Entscheide mit sachgerechter Wiedergabe von Sachverhalt und Kernaussage; Links von opencaselaw auf entscheidsuche.ch umgestellt; nicht inhaltlich belegte Platzhaltereinträge (BGer 6B_1254/2020, 6B_601/2019, 6B_981/2017, 6B_406/2017, 6B_764/2015, 7B_269/2022, 6B_1032/2018, 6B_1125/2013, 6B_841/2013) und die Doppelung 6B_582/2020 (= BGE 147 IV 47) gestrichen; Aussage zur Mutwilligkeit berichtigt (nur antragstellende Person)."
 ---
 
-## Rechtsprechung zu Art. 432 StPO
-
-Die Rechtsprechung des Bundesgerichts zu Art. 432 StPO befasst sich insbesondere mit der Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten, der Entschädigung im Rechtsmittelverfahren und der Abgrenzung zwischen Offizial- und Antragsdelikten im Kostenrecht.
-
----
-
-### A. Grundsatzentscheide zur Kostentragung und Entschädigung
-
-#### 1. BGE 147 IV 47
-
-**[BGE 147 IV 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_47)** — *Beschwerdelegitimation der Privatklägerschaft bezüglich der Kostentragungspflicht einer beschuldigten Person, deren Verfahren eingestellt wurde; Entschädigung der im Schuldpunkt obsiegenden beschuldigten Person zulasten des Staats oder der Privatklägerschaft.*
-
-> **Regeste a**: Art. 81 Abs. 1 lit. b BGG; Art. 426 Abs. 2, Art. 433 Abs. 1 lit. b StPO; Beschwerdelegitimation der Privatklägerschaft bezüglich der Kostentragungspflicht einer beschuldigten Person, deren Verfahren eingestellt wurde. Das rechtlich geschützte Interesse der Privatklägerschaft ist gegeben, weil der Entscheid über die Kostentragung die Entschädigungsfrage präjudiziert (E. 4.1).
->
-> **Regeste b**: Art. 429 Abs. 1, Art. 432 Abs. 2 und Art. 436 Abs. 1 StPO; Entschädigung der im Schuldpunkt obsiegenden beschuldigten Person zulasten des Staats oder der Privatklägerschaft? Im Zusammenhang mit Antragsdelikten muss sich die Privatklägerschaft nicht mutwillig oder grob fahrlässig verhalten haben, um gegenüber der obsiegenden beschuldigten Person entschädigungspflichtig zu werden. Die Entschädigungspflicht der (aktiv am Verfahren teilnehmenden) Privatklägerschaft ist dispositiver Natur (E. 4.2.2 und 4.2.3). Bei einer Einstellung des Strafverfahrens oder bei einem Freispruch geht die Entschädigung der beschuldigten Person zulasten des Staats, wenn es sich um ein Offizialdelikt handelt, bei einem Antragsdelikt jedoch (regelmässig) zulasten der Privatklägerschaft. Im Berufungsverfahren betreffend Offizialdelikte wird die unterliegende Privatklägerschaft entschädigungspflichtig, im Beschwerdeverfahren hingegen der Staat. Geht es um ein Antragsdelikt, wird die Privatklägerschaft, die das Rechtsmittel als einzige ergriffen hat, sowohl im Berufungs- wie im Beschwerdeverfahren grundsätzlich entschädigungspflichtig.
-
-*Thema*: Beschwerdelegitimation, Entschädigung bei Offizial- vs. Antragsdelikten, dispositiver Charakter der Entschädigungspflicht.
+Zurück zum Kommentar: [Art. 432 StPO](./)
 
 ---
 
-#### 2. BGE 139 IV 45
+## I. Leitentscheide (BGE)
 
-**[BGE 139 IV 45](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_45)** — *Ansprüche gegenüber der Privatklägerschaft und der antragstellenden Person; Kostentragung bei Abweisung der Berufung der Privatklägerschaft.*
+### [BGE 147 IV 47 E. 4.1 und E. 4.2.2–4.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html) (17. Dezember 2020; 6B_582/2020)
+- **Thema**: Beschwerdelegitimation der Privatklägerschaft bei der Kostenverlegung; Entschädigung der beschuldigten Person bei Antragsdelikten und im Rechtsmittelverfahren
+- **Sachverhalt**: Eine Stockwerkeigentümerin erhob Strafklage wegen Ehrverletzung, weil die Beschuldigte in einer Schlichtungsverhandlung gesagt haben soll: «Die spinnt!». Die Staatsanwaltschaft Höfe Einsiedeln stellte das Verfahren ein; das Kantonsgericht Schwyz wies die Beschwerde ab, auferlegte der Privatklägerin die Kosten und verpflichtete sie, die Beschuldigte für das Beschwerdeverfahren zu entschädigen.
+- **Kernaussage**: Das rechtlich geschützte Interesse der Privatklägerschaft an der Kostenverlegung ist gegeben, weil der Kostenentscheid die Entschädigungsfrage präjudiziert (E. 4.1). Das Erfordernis der Mutwilligkeit oder groben Fahrlässigkeit in Art. 432 Abs. 2 StPO betrifft nur die antragstellende Person, nicht die Privatklägerschaft; deren Entschädigungspflicht ist dispositiver Natur (E. 4.2.2, 4.2.3). Bei Offizialdelikten geht die Entschädigung zulasten des Staats; im Berufungsverfahren wird die unterliegende Privatklägerschaft entschädigungspflichtig, im Beschwerdeverfahren der Staat. Bei Antragsdelikten wird die Privatklägerschaft, die das Rechtsmittel als einzige ergriffen hat, im Berufungs- wie im Beschwerdeverfahren grundsätzlich entschädigungspflichtig (Präzisierung von BGE 141 IV 476; E. 4.2.4–4.2.6).
+- **Einschlägig für**: Art. 432 Abs. 2 StPO; Art. 436 Abs. 1 StPO
 
-> **Regeste**: Art. 432 StPO; Ansprüche gegenüber der Privatklägerschaft und der antragstellenden Person. Wird die einzig von der Privatklägerschaft erhobene Berufung abgewiesen, hat jene die Verteidigungskosten der beschuldigten Person zu tragen (E. 1).
+### [BGE 141 IV 476 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-476_2015.html) (2015)
+- **Thema**: Entschädigung der beschuldigten Person im Beschwerdeverfahren der Privatklägerschaft gegen eine Einstellung
+- **Kernaussage**: Die Rechtsprechung zu BGE 139 IV 45 (Privatklägerschaft trägt Verteidigungskosten bei einzig von ihr erhobener Berufung) ist restriktiv anzuwenden; sie gilt nur bei vollständigem gerichtlichem Verfahren und Weiterzug allein durch die Privatklägerschaft, nicht bei Beschwerde gegen eine Einstellungsverfügung. Für Antragsdelikte präzisiert durch BGE 147 IV 47 E. 4.2.5.
+- **Einschlägig für**: Art. 432 Abs. 2 StPO; Rechtsmittelverfahren
 
-*Thema*: Verteidigungskosten der beschuldigten Person bei Abweisung der allein von der Privatklägerschaft erhobenen Berufung.
+### [BGE 139 IV 45 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-45_2013.html) (2013)
+- **Thema**: Verteidigungskosten bei einzig von der Privatklägerschaft erhobener Berufung
+- **Kernaussage**: Wird die einzig von der Privatklägerschaft erhobene Berufung abgewiesen, hat sie die Verteidigungskosten der beschuldigten Person zu tragen, auch bei Offizialdelikten, weil allein ihr Wille das Verfahren vor der Rechtsmittelinstanz fortführt (E. 1.2, wie zusammengefasst in BGE 147 IV 47 E. 4.2.4). Grundsatz bleibt, dass die beschuldigte Person primär vom Staat entschädigt wird (zitiert in LU KG 2N 14 128 E. 5.1).
+- **Einschlägig für**: Art. 432 Abs. 2 StPO; Art. 436 Abs. 1 StPO
 
----
+### [BGE 138 IV 248 E. 4.2 und E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-248_2012.html) (2012)
+- **Thema**: Kostentragung der Privatklägerschaft bei Antragsdelikten; Anträge als Voraussetzung des Unterliegens
+- **Sachverhalt**: Ein Strafantragsteller hatte sich mit der Strafanzeige als Privatkläger konstituiert, sich danach aber nicht mehr am Verfahren beteiligt und keine Anträge gestellt. Das Obergericht Luzern sprach den Beschuldigten (unbefugtes Aufnehmen von Gesprächen) frei und auferlegte dem Antragsteller die Verfahrenskosten und die Verteidigungskosten des Beschuldigten.
+- **Kernaussage**: Als private Partei kann nur obsiegen oder unterliegen, wer Anträge gestellt hat; verzichtet die Privatklägerschaft darauf, können ihr im Rechtsmittelverfahren keine Verfahrenskosten auferlegt werden, und sie kann auch nicht zu einer Parteientschädigung nach Art. 432 Abs. 2 StPO verpflichtet werden (E. 5.3). Die Person, die nur Strafantrag stellt und sich als Privatklägerin zurückzieht, ist einzig bei trölerischem Verhalten kostenpflichtig, die als Privatklägerin teilnehmende Person trägt grundsätzlich das volle Kostenrisiko (E. 4.2.2 f., wie zusammengefasst in BGE 147 IV 47 E. 4.2.2).
+- **Einschlägig für**: Art. 427 Abs. 2 und Art. 432 Abs. 2 StPO
 
-#### 3. BGE 138 IV 248
-
-**[BGE 138 IV 248](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_IV_248)** — *Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten; Kostentragung und Anspruch auf Entschädigung im Rechtsmittelverfahren.*
-
-> **Regeste a**: Art. 118 ff. und 427 Abs. 2 StPO; Kostentragungspflicht der Privatklägerschaft bei Antragsdelikten. Dem Strafantrag stellenden Privatkläger, der sich abgesehen von der Strafklage am Strafverfahren nicht aktiv beteiligt, können bei Freispruch der beschuldigten Person nur in besonderen Fällen Verfahrenskosten auferlegt werden (E. 4.4).
->
-> **Regeste b**: Art. 428 Abs. 1 und Art. 432 Abs. 2 StPO; Kostentragung und Anspruch auf Entschädigung im Rechtsmittelverfahren. Als private Partei kann im strafrechtlichen Verfahren nur obsiegen oder unterliegen, wer Anträge gestellt hat. Verzichtet die Privatklägerschaft darauf, können ihr keine Verfahrenskosten auferlegt werden und kann sie auch nicht zur Leistung einer Parteientschädigung verpflichtet werden (E. 5.3).
-
-*Thema*: Kostentragung bei nicht aktiv beteiligter antragstellender Person, Unterliegen nur bei aktiver Teilnahme.
-
----
-
-#### 4. BGE 139 IV 102
-
-**[BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102)** — *Parteientschädigung der Privatklägerschaft bei Erlass eines Strafbefehls und Verweisung der Zivilforderungen auf den Zivilweg; Legitimation der Privatklägerschaft zur Einsprache gegen den Strafbefehl.*
-
-> **Regeste**: Parteientschädigung der Privatklägerschaft bei Erlass eines Strafbefehls und Verweisung der Zivilforderungen auf den Zivilweg; Legitimation der Privatklägerschaft zur Einsprache gegen den Strafbefehl; Art. 353 Abs. 1 lit. g, Art. 354 Abs. 1 lit. b, Art. 416, Art. 432 Abs. 1 und Art. 433 Abs. 1 lit. a StPO. Kommt es zu einer Verurteilung der beschuldigten Person durch Strafbefehl, obsiegt die Privatklägerschaft als Strafklägerin, weshalb sie für die ihr im Zusammenhang mit der Strafklage erwachsenen Kosten der privaten Verteidigung zu entschädigen ist (E. 4.3). Wird die Zivilklage auf den Zivilweg verwiesen, kann die Privatklägerschaft in ihrer Funktion als Zivilklägerin nicht als obsiegende und jedenfalls bei Erlass eines Strafbefehls auch nicht als unterliegende Partei gelten. Ausschliesslich mit der Zivilklage zusammenhängende Anwaltskosten oder anderweitige Auslagen der Privatklägerschaft, die einzig den Zivilpunkt betreffen, sind im Falle der Verweisung der Zivilklage auf den Zivilweg nicht im Strafverfahren zu entschädigen (E. 4.4). Die Privatklägerschaft ist als weitere Betroffene im Sinne von Art. 354 Abs. 1 lit. b StPO zur Einsprache legitimiert, wenn ihr im Strafbefehl eine Parteientschädigung ganz oder teilweise verweigert wurde (E. 5.2).
-
-*Thema*: Parteientschädigung im Strafbefehlsverfahren, Verweisung der Zivilklage auf den Zivilweg, Einsprachelegitimation.
-
----
-
-### B. Weitere Entscheide mit Bezug zu Art. 432 StPO
-
-#### BGer 6B_582/2020 vom 17. Dezember 2020
-
-**[BGer 6B_582/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_582_2020)** — *Einstellung (Ehrverletzung)*.
-
-*Thema*: Einstellung des Verfahrens bei Ehrverletzungsdelikten (Antragsdelikte), Kosten- und Entschädigungsfragen.
+### [BGE 139 IV 102 E. 4.3–4.5 und E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-102_2013.html) (11. Dezember 2012; 6B_310/2012)
+- **Thema**: Parteientschädigung der Privatklägerschaft bei Strafbefehl; Verweisung der Zivilklage auf den Zivilweg
+- **Sachverhalt**: Die Staatsanwaltschaft Rheinfelden-Laufenburg verurteilte Y. mit Strafbefehl wegen grober Verkehrsregelverletzung und mehrfacher einfacher Körperverletzung zum Nachteil von A.X. und B.X. und verwies die Zivilforderungen auf den Zivilweg. Die Privatklägerschaft erhob Einsprache, weil über ihre Entschädigung nicht entschieden worden war.
+- **Kernaussage**: Bei einer Verurteilung durch Strafbefehl obsiegt die Privatklägerschaft als Strafklägerin und ist nach Art. 433 StPO für die Kosten der Verteidigung im Zusammenhang mit der Strafklage zu entschädigen (E. 4.3). Wird die Zivilklage auf den Zivilweg verwiesen, kann die Privatklägerschaft als Zivilklägerin nicht als obsiegende und jedenfalls bei Strafbefehl auch nicht als unterliegende Partei im Sinne von Art. 432 Abs. 1 StPO gelten (E. 4.4). Art. 432 Abs. 1 StPO unterscheidet zwischen Verteidigungsaufwand im Straf- und im Zivilpunkt (E. 4.5). Die Privatklägerschaft ist zur Einsprache legitimiert, wenn ihr im Strafbefehl die Parteientschädigung verweigert wurde (E. 5.2).
+- **Einschlägig für**: Art. 432 Abs. 1 StPO; Art. 433 StPO
 
 ---
 
-#### BGer 6B_1254/2020 vom 20. Januar 2021
+## II. Kantonale Entscheide
 
-**[BGer 6B_1254/2020](https://mcp.opencaselaw.ch/entscheid/bger_6B_1254_2020)**
+### [LU KG 2N 14 128 (LGVE 2014 I Nr. 12)](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-128_2014-10-14.html) (14. Oktober 2014)
+- **Sachverhalt**: Das Verfahren wegen Missachtung eines gerichtlichen Verbots (Antragsdelikt) wurde eingestellt; ein AHV-Rentner verlangte Entschädigung für 16 Stunden persönlichen Zeitaufwand und Fahrtkosten.
+- **Kernaussage**: Die Strafbehörde prüft zunächst von Amtes wegen den Anspruch gegen den Staat und kann erst dann die Entschädigung unter den Voraussetzungen von Art. 432 Abs. 2 StPO der Privatklägerschaft auferlegen; ihr kommt dabei ein Ermessen zu (E. 5.1). Sind die Aufwendungen geringfügig (Art. 430 Abs. 1 lit. c StPO), durfte auch von einer Entschädigung zulasten der Privatklägerin abgesehen werden (E. 5.3.2).
+- **Einschlägig für**: Art. 432 Abs. 2 StPO; Art. 430 Abs. 1 lit. c StPO
 
-*Thema*: Kosten- und Entschädigungsfragen im Zusammenhang mit Art. 432 StPO.
-
----
-
-#### BGer 6B_601/2019 vom 31. Oktober 2019
-
-**[BGer 6B_601/2019](https://mcp.opencaselaw.ch/entscheid/bger_6B_601_2019)**
-
-*Thema*: Kosten- und Entschädigungsfragen, Art. 432 StPO.
-
----
-
-#### BGer 6B_981/2017 vom 7. Februar 2018
-
-**[BGer 6B_981/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_981_2017)**
-
-*Thema*: Kosten- und Entschädigungsfragen im Strafverfahren, Bezug zu Art. 432 StPO.
-
----
-
-#### BGer 6B_406/2017 vom 6. Juni 2017
-
-**[BGer 6B 406/2017](https://mcp.opencaselaw.ch/entscheid/bger_6B_406_2017)** — *Nichtanhandnahme (üble Nachrede etc.); Willkür etc.*
-
-*Thema*: Nichtanhandnahme bei Ehrverletzungsdelikten, Kostenfolgen bei Antragsdelikten.
-
----
-
-#### BGer 6B_764/2015 vom 6. Januar 2016
-
-**[BGer 6B_764/2015](https://mcp.opencaselaw.ch/entscheid/bger_6B_764_2015)**
-
-*Thema*: Kosten- und Entschädigungsfragen, Art. 432 StPO.
-
----
-
-#### BGer 7B_269/2022 vom 11. Juni 2024
-
-**[BGer 7B_269/2022](https://mcp.opencaselaw.ch/entscheid/bger_7B_269_2022)**
-
-*Thema*: Kosten- und Entschädigungsfragen im Beschwerdeverfahren, Bezug zu Art. 432 StPO.
-
----
-
-#### BGer 6B_1032/2018 vom 9. Januar 2019
-
-**[BGer 6B_1032/2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_1032_2018)**
-
-*Thema*: Kosten- und Entschädigungsfragen, Art. 432 StPO.
-
----
-
-#### BGer 6B_1125/2013 vom 26. Juni 2014
-
-**[BGer 6B_1125/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_1125_2013)**
-
-*Thema*: Kosten- und Entschädigungsfragen, Art. 432 StPO.
-
----
-
-#### BGer 6B_841/2013 vom 19. Mai 2014
-
-**[BGer 6B_841/2013](https://mcp.opencaselaw.ch/entscheid/bger_6B_841_2013)**
-
-*Thema*: Kosten- und Entschädigungsfragen, Art. 432 StPO.
-
----
-
-### C. Zusammenfassung der Rechtsprechungslinien
-
-Die Rechtsprechung zu Art. 432 StPO lässt sich in folgende Hauptstränge gliedern:
-
-1. **Offizial- vs. Antragsdelikte**: Bei Offizialdelikten trägt bei Freispruch oder Einstellung der Staat die Entschädigung der beschuldigten Person. Bei Antragsdelikten geht die Entschädigung (regelmässig) zulasten der Privatklägerschaft, sofern sie aktiv am Verfahren teilgenommen hat. Die Voraussetzung der Mutwilligkeit oder groben Fahrlässigkeit nach Absatz 2 muss dabei nicht zwingend gegeben sein, wenn die Privatklägerschaft aktiv am Verfahren teilnimmt (BGE 147 IV 47).
-
-2. **Aktive Beteiligung als Voraussetzung**: Nur wer als private Partei Anträge gestellt hat, kann im strafrechtlichen Verfahren obsiegen oder unterliegen. Verzichtet die Privatklägerschaft auf Anträge, können ihr keine Verfahrenskosten auferlegt werden und sie kann nicht zur Leistung einer Parteientschädigung verpflichtet werden (BGE 138 IV 248).
-
-3. **Rechtsmittelverfahren**: Wird die einzig von der Privatklägerschaft erhobene Berufung abgewiesen, trägt sie die Verteidigungskosten der beschuldigten Person (BGE 139 IV 45). Im Beschwerdeverfahren vor dem Bundesgericht wird bei Offizialdelikten der Staat entschädigungspflichtig, bei Antragsdelikten die Privatklägerschaft (BGE 147 IV 47).
-
-4. **Strafbefehlsverfahren**: Bei Verurteilung durch Strafbefehl obsiegt die Privatklägerschaft als Strafklägerin. Bei Verweisung der Zivilklage auf den Zivilweg sind ausschliesslich zivilrechtliche Anwaltskosten nicht im Strafverfahren zu entschädigen (BGE 139 IV 102).
-
-5. **Dispositiver Charakter**: Die Entschädigungspflicht der aktiv teilnehmenden Privatklägerschaft bei Antragsdelikten ist dispositiver Natur — das Gericht entscheidet im Einzelfall über Angemessenheit und Höhe (BGE 147 IV 47).
-
----
-
-[Zurück zum Kommentar zu Art. 432 StPO](../)
+### [TG OG RBOG 2025 Nr. 42](https://entscheidsuche.ch/docs/TG_OG/TG_OG_001_RBOG-2025-Nr--42_2025.html) (2025)
+- **Sachverhalt**: Nach erstinstanzlichem Freispruch erhob der Privatkläger unter unentgeltlicher Rechtspflege Berufung und zog sie zurück; die Berufungsbeklagten verlangten Entschädigung, eventualiter zulasten des Staats.
+- **Kernaussage**: Die nach Art. 432 StPO von der Privatklägerschaft bezahlte Entschädigung wird an die staatliche angerechnet; ist die Entschädigungspflicht der Privatklägerschaft im Schuldpunkt uneinbringlich, bleibt der Staat entschädigungspflichtig (E. 2.3.1.3).
+- **Einschlägig für**: Art. 432 Abs. 2 StPO; Art. 430 Abs. 1 lit. b StPO

@@ -2,11 +2,16 @@
 title: "Art. 427 StPO — Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person"
 weight: 427
 date: 2026-07-11
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 427 StPO: Kostentragung der Privatklägerschaft bei Zivilpunkt (Abs. 1), Antragsdelikten (Abs. 2), staatsanwaltlichem Vergleich (Abs. 3) und gerichtlicher Genehmigung (Abs. 4) mit detaillierter Kasuistik, Grenzkasuistiktabellen und Praxishinweisen."
 tags: ["StPO", "Kosten", "Privatklägerschaft", "Antragsdelikte", "Kostentragung", "Verfahrenskosten", "Strafantrag", "Zivilpunkt", "Vergleich"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 427). Korrigiert: SG KG AK.2023.377-AK (Arbeitsunfall mit Todesfolge; Kostenvorschuss für Gutachten abgelehnt, Beschwerde gutgeheissen – bisher ins Gegenteil verkehrt dargestellt); BGE 139 IV 102 (Parteientschädigung/Abgrenzung Straf- und Zivilpunkt, kein Beleg für polizeiliche Ermittlungen); BGer 6B_154/2013 (Sachverhalt); SG KG AK.2015.105 (Selbstunfall, Präsident der Anklagekammer); LU KG 2N 17 140 (Verleumdung, Verjährung, Art. 426 Abs. 2); Daten und Urteilsnummern von BGE 150 IV 196 (7B_38/2022), 147 IV 47 (6B_582/2020), 137 IV 352 (6B_365/2011); Art. 427 Abs. 1 lit. b (Hauptverhandlung statt Parteivorträge); unbelegte Beweislastaussagen, Botschaftslink (amtsblatt.ch) und unverifizierte Literatur entfernt. Bestätigt: BGer 6B_83/2025, 6B_470/2025, BGE 138 IV 248, KG GR PKG 2013 16, ZH OG UE140029."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"

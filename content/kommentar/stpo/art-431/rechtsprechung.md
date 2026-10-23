@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 431 StPO"
 weight: 99
 date: 2026-06-20
-lastmod: 2026-10-05
+lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 431 StPO – Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft: Leitentscheide zu Haftbedingungen (Art. 3 EMRK), fehlendem Hafttitel, Strafmassreduktion vs. Barabgeltung, Verrechnungsverbot mit Gerichtskosten, Überhaft und Haftanrechnung auf Massnahmen."
 tags: ["Rechtsprechung", "StPO", "Entschädigung", "Genugtuung", "Zwangsmassnahmen", "Überhaft", "Untersuchungshaft", "Sicherheitshaft", "Haftbedingungen", "EMRK"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Volltext-Abgleich der zitierten Entscheide. Korrigiert: Befragungszeit zählt bei der 3-Stunden-Regel nicht mit (BGE 143 IV 339 E. 3.2, BGE 146 IV 231 E. 2.3.2; zuvor gegenteilig), 18½ Stunden ist kein «in jedem Fall»-Schwellenwert (BGE 146 IV 231 E. 2.4), BGer 7B_459/2023 (Sachverhalt, kein Hinweis auf Art. 5 EMRK/Art. 31 BV, Flucht nicht entschieden), BGer 6B_672/2021 (Teilrückweisung; Falschangaben nur für verhältnismässigen Teil relevant), BGE 140 I 125 (Feststellung im Haftprüfungsverfahren, Wiedergutmachung durch Sachgericht), BGE 140 I 246 (Fr. 50.– pro Tag statt «zusätzlich 25–50»), BGE 142 IV 245 (8 Tage Strafabzug), BGE 147 IV 55 (Verrechnung nur ohne Zustimmung ausgeschlossen), BGE 141 IV 236 (E. 3.8; Sachverhalt), BGer 6B_888/2021 und 6B_990/2013 (Sachverhalte berichtigt). Wortlaut Fedlex (Abs. 1–3) geprüft; Entscheide via entscheidsuche-Volltexte verifiziert."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -21,52 +26,52 @@ revisions:
 
 ## I. Leitentscheide (BGE)
 
-### [BGE 141 IV 236 E. 3.3 und E. 3.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-236_2015.html#consideration_3.3)
+### [BGE 141 IV 236 E. 3.3 und E. 3.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-236_2015.html#consideration_3.3)
 - **Thema**: Anrechnung von Untersuchungshaft auf Art. 59 StGB und Subsidiarität der Geldentschädigung bei Überhaft
-- **Sachverhalt**: Der Täter verbrachte erhebliche Zeit in Untersuchungs- und Sicherheitshaft. Das Gericht ordnete wegen Schuldunfähigkeit anstelle einer Freiheitsstrafe eine stationäre therapeutische Massnahme nach Art. 59 StGB an.
-- **Kernaussage**: Der Ausgleich von erstandener Untersuchungs- oder Sicherheitshaft soll in erster Linie als Realersatz durch Anrechnung auf Sanktionen erfolgen (Art. 51 StGB); der Ausgleich in Form einer finanziellen Entschädigung nach Art. 431 Abs. 2 StPO ist streng subsidiär (E. 3.3). Untersuchungs- und Sicherheitshaft ist gestützt auf Art. 431 Abs. 2 StPO auch an freiheitsentziehende Massnahmen im Sinne von Art. 59 StGB grundsätzlich anzurechnen (E. 3.6).
+- **Sachverhalt**: X. befand sich 298 Tage in Untersuchungs- bzw. Sicherheitshaft. Das Bezirksgericht Winterthur sprach ihn von mehreren Körperverletzungs- und Sachbeschädigungsvorwürfen wegen Schuldunfähigkeit frei, bestrafte ihn wegen mehrfachen Hausfriedensbruchs mit 90 Tagessätzen Geldstrafe, ordnete eine stationäre therapeutische Massnahme an und sprach ihm für 197 Tage Überhaft Fr. 12'000.– Genugtuung zu. Die Oberstaatsanwaltschaft erhob Beschwerde.
+- **Kernaussage**: Der Ausgleich von erstandener Untersuchungs- oder Sicherheitshaft soll in erster Linie als Realersatz durch Anrechnung auf Sanktionen erfolgen (Art. 51 StGB); der Ausgleich in Form einer finanziellen Entschädigung nach Art. 431 Abs. 2 StPO ist streng subsidiär (E. 3.3). Untersuchungs- und Sicherheitshaft ist auch an freiheitsentziehende Massnahmen im Sinne von Art. 59 StGB grundsätzlich anzurechnen (E. 3.8).
 - **Einschlägig für**: Abs. 2; Primat des Realersatzes und Haftanrechnung bei Massnahmen
 
 ### [BGE 147 IV 55 E. 2.5 und E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-55_2021.html#consideration_2.5)
-- **Thema**: Absolutes Verrechnungsverbot der Genugtuung mit Verfahrenskosten (Art. 125 Ziff. 2 OR)
-- **Sachverhalt**: Ein Beschuldigter erlitt während der Untersuchungshaft rechtswidrige Haftbedingungen (Verletzung von Art. 3 EMRK). Der Staat wollte die im Staatshaftungsverfahren zugesprochene Genugtuung mit den ihm im Strafurteil auferlegten Verfahrenskosten verrechnen.
+- **Thema**: Kein Verrechnen der Genugtuung mit Verfahrenskosten ohne Zustimmung (Art. 125 Ziff. 2 OR)
+- **Sachverhalt**: Das Zwangsmassnahmengericht Waadt stellte fest, dass die 27 Tage Untersuchungshaft des Beschuldigten im Gendarmeriezentrum rechtswidrig waren, und verwies ihn für die Entschädigung auf eine Staatshaftungsklage. Der Friedensrichter sprach ihm Fr. 1'350.– zu und lehnte die vom Kanton Waadt verlangte Verrechnung mit den Verfahrenskosten ab; der Kanton erhob Beschwerde an das Bundesgericht.
 - **Kernaussage**: Die besondere Natur der Genugtuung, die aufgrund von gegen Art. 3 EMRK verstossender Haftbedingungen zugesprochen wird, verlangt eine tatsächliche Erfüllung an den Gläubiger im Sinne von Art. 125 Ziff. 2 OR (E. 2.5). Ein solcher Genugtuungsanspruch darf vom Staat nicht ohne Zustimmung der betroffenen Person mit den ihr auferlegten Kosten des Strafverfahrens verrechnet werden (E. 2.6).
 - **Einschlägig für**: Abs. 1; Barauszahlung der Genugtuung und Schutz vor Verrechnung mit Gerichtskosten
 
 ### [BGE 140 I 246 E. 2.4.2 und E. 2.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-246_2014.html#consideration_2.4.2)
 - **Thema**: Fensterlose Zelle unter Dauerbeleuchtung; Unzulänglichkeit einer blossen Feststellung
-- **Sachverhalt**: Ein Häftling wurde zehn Tage lang in einer fensterlosen Polizeizelle unter 24-Stunden-Dauerbeleuchtung mit nur 30 Minuten Hofgang festgehalten. Die Vorinstanz begnügte sich mit der Feststellung der Rechtswidrigkeit im Dispositiv.
-- **Kernaussage**: Die Festhaltung in einer fensterlosen und rund um die Uhr künstlich beleuchteten Zelle stellt selbst bei einer kurzen Dauer von zehn Tagen eine erniedrigende Behandlung in Verletzung von Art. 3 EMRK dar (E. 2.4.2). Angesichts der fundamentalen Natur von Art. 3 EMRK genügt die blosse Feststellung der Verletzung nicht als Wiedergutmachung; es ist zwingend eine finanzielle Entschädigung nach Art. 431 Abs. 1 StPO zuzusprechen (E. 2.5.2).
-- **Einschlägig für**: Abs. 1; Haftbedingungen nach Art. 3 EMRK und zwingende Geldgenugtuung
+- **Sachverhalt**: Ein Häftling wurde zehn Tage lang in einer fensterlosen Polizeizelle unter 24-Stunden-Dauerbeleuchtung mit nur 30 Minuten Hofgang festgehalten. Das Strafgericht hatte Fr. 25.– pro Tag zugesprochen; die Cour d'appel pénale hob dies auf und begnügte sich mit der Feststellung der Rechtswidrigkeit.
+- **Kernaussage**: Die Festhaltung in einer fensterlosen und rund um die Uhr künstlich beleuchteten Zelle stellt selbst bei einer kurzen Dauer von zehn Tagen eine erniedrigende Behandlung in Verletzung von Art. 3 EMRK dar (E. 2.4.2). Angesichts der fundamentalen Natur von Art. 3 EMRK genügt im konkreten Fall die blosse Feststellung der Verletzung nicht als Wiedergutmachung (E. 2.5.2); das Bundesgericht sprach Fr. 50.– pro Tag (Fr. 550.– nach Abzug der ersten 48 zulässigen Stunden) zu und liess offen, ob in anderen Fällen eine andere Form der Wiedergutmachung denkbar ist (E. 2.6).
+- **Einschlägig für**: Abs. 1; Haftbedingungen nach Art. 3 EMRK und Geldgenugtuung
 
 ### [BGE 140 I 125 E. 3.6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-125_2014.html#consideration_3.6.3)
 - **Thema**: Chronische Überbelegung in Champ-Dollon; Mindestfläche pro Gefangenen
-- **Sachverhalt**: Ein Insasse des Genfer Gefängnisses Champ-Dollon war während 157 Tagen mit fünf weiteren Personen in einer für drei Personen vorgesehenen 23-m²-Zelle untergebracht (unter 3.8 m² persönliche Fläche bei 23 Stunden Zelleneinschluss).
-- **Kernaussage**: Die Belegung einer Dreierzelle durch sechs Insassen verletzt Art. 3 EMRK und Art. 10 Abs. 3 BV, wenn sie über längere Zeit (mehr als rund drei Monate) andauert und mit kumulativen Erschwernissen wie 23 Stunden Zelleneinschluss einhergeht. Eine derartige Vollzugssituation begründet eine rechtswidrige Zwangsmassnahme nach Art. 431 Abs. 1 StPO.
+- **Sachverhalt**: Ein Insasse des Genfer Gefängnisses Champ-Dollon (Haft vom 3. Juni 2012 bis 24. September 2013) machte im Haftprüfungsverfahren die Rechtswidrigkeit seiner Haftbedingungen geltend; das Zwangsmassnahmengericht hatte 199 Tage mit unter 4 m² (3,83 m²) pro Person festgestellt.
+- **Kernaussage**: Die Belegung einer für drei Personen konzipierten Zelle mit einer Bruttofläche von 23 m² durch sechs Insassen kann die Menschenwürde verletzen, wenn sie fast drei Monate andauert und mit anderen Mängeln wie 23 Stunden Zelleneinschluss einhergeht; bei drei Insassen in einer 12-m²-Zelle verhält es sich anders. Das Bundesgericht stellte die Rechtswidrigkeit der Haftbedingungen während 157 aufeinanderfolgenden Tagen fest; die Wiedergutmachung ist grundsätzlich Sache des Sachgerichts (E. 2.1).
 - **Einschlägig für**: Abs. 1; Schwellenwerte für Überbelegung und Mindestraum
 
 ### [BGE 142 IV 245 E. 4.1 und E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-245_2016.html#consideration_4.1)
 - **Thema**: Wahl der Wiedergutmachungsart; Strafmassreduktion statt finanziellem Ausgleich
-- **Sachverhalt**: Ein wegen eines schweren Raserdelikts Verurteilter forderte wegen rechtswidriger Haftbedingungen eine finanzielle Genugtuung nach Art. 431 Abs. 1 StPO. Das Gericht verweigerte Geld und reduzierte stattdessen das Strafmass.
+- **Sachverhalt**: Ein wegen eines schweren Raserdelikts Verurteilter forderte wegen rechtswidriger Haftbedingungen eine finanzielle Genugtuung nach Art. 431 Abs. 1 StPO. Das Strafgericht zog stattdessen 8 Tage von der Freiheitsstrafe (35 Monate, teilbedingt) ab; das Kantonsgericht Waadt bestätigte dies.
 - **Kernaussage**: Für die Wiedergutmachung nach Art. 431 StPO dürfen die allgemeinen Regeln von Art. 41 ff. OR herangezogen werden (E. 4.1). Die Wahl der Art der Wiedergutmachung obliegt nicht der beschuldigten Person, sondern steht im pflichtgemässen Ermessen des Richters. Die Kompensation unrechtmässiger Haft durch eine quantifizierte Strafmassreduktion ist bundesrechtskonform (E. 4.3).
 - **Einschlägig für**: Abs. 1; Richterliches Ermessen und Strafreduktion als Realersatz
 
 ### [BGE 146 IV 231 E. 2.3.2 und E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-231_2020.html#consideration_2.3.2)
-- **Thema**: Eingriffsschwelle bei Festnahmen und Genugtuungsanspruch ab 18 ½ Stunden
-- **Sachverhalt**: Ein Beschuldigter wurde im Rahmen eines Verfahrens angehalten und während über 18 ½ Stunden in Gewahrsam gehalten.
-- **Kernaussage**: Eine Anhaltung gefolgt von einer Festnahme von mehr als drei Stunden Gesamtdauer stellt einen Eingriff in die persönliche Freiheit dar, der Entschädigungsansprüche auslösen kann (E. 2.3.2). Ein ungerechtfertigter Freiheitsentzug von über 18 ½ Stunden begründet in jedem Fall einen Anspruch auf finanzielle Genugtuung (E. 2.4).
+- **Thema**: Eingriffsschwelle bei Festnahmen und Genugtuungsanspruch bei über 18 ½ Stunden
+- **Sachverhalt**: A. wurde im Zusammenhang mit einem homophob motivierten Überfall in Basel vorläufig festgenommen und am Folgetag nach rund 22 Stunden (davon rund 3½ Stunden Befragung) entlassen; das Appellationsgericht sprach ihn von Gehilfenschaft frei, verweigerte aber die Genugtuung.
+- **Kernaussage**: Eine Anhaltung gefolgt von einer Festnahme von mehr als drei Stunden Gesamtdauer stellt einen Eingriff in die persönliche Freiheit dar, der Entschädigungsansprüche auslösen kann (E. 2.3.2). Ein Freiheitsentzug von über 18 ½ Stunden ist nicht mehr entschädigungslos hinzunehmen (E. 2.4).
 - **Einschlägig für**: Abs. 1; Schwellenwerte für Freiheitsbeschränkung und Festnahmedauer
 
 ### [BGE 143 IV 339 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-339_2017.html#consideration_3.2)
 - **Thema**: Berechnung der Drei-Stunden-Frist bei polizeilicher Anhaltung
-- **Sachverhalt**: Ein Betroffener forderte Entschädigung für eine polizeiliche Festhaltung. Die Vorinstanz zog die Zeit der förmlichen Befragung von der Gesamtdauer ab.
-- **Kernaussage**: Erstreckt sich eine Anhaltung mit anschliessender vorläufiger Festnahme über mehr als drei Stunden, liegt ein entschädigungsrelevanter Grundrechtseingriff vor. Bei der Berechnung dieser Frist wird die für Einvernahmen verwendete Zeit nicht abgezogen; ausschlaggebend ist einzig die Gesamtdauer, während der sich der Betroffene den Behörden zur Verfügung halten musste.
+- **Sachverhalt**: Ein türkischer Chauffeur wurde am 30. Mai 2015 an der Grenze bei Ferney-Voltaire von 10.00 bis 17.25 Uhr festgehalten, weil sein echter Führerausweis für gefälscht gehalten wurde (Befragung 15.28–17.04 Uhr). Die Staatsanwaltschaft Genf nahm das Verfahren nicht an die Hand und verweigerte eine Genugtuung; die Beschwerdeinstanz berechnete die Dauer so, dass die drei Stunden nicht überschritten gewesen seien.
+- **Kernaussage**: Erstreckt sich eine Anhaltung mit anschliessender vorläufiger Festnahme über mehr als drei Stunden, liegt ein entschädigungsrelevanter Grundrechtseingriff vor. Bei der Berechnung dieser Frist wird die für eine formelle Einvernahme verwendete Zeit nicht berücksichtigt; ausschlaggebend ist einzig die Dauer, während der sich der Betroffene den Behörden zur Verfügung halten musste. Im Fall waren die drei Stunden ohnehin überschritten; das Bundesgericht sprach Fr. 200.– zu (E. 3.4).
 - **Einschlägig für**: Abs. 1; Fristberechnung bei polizeilichen Freiheitsbeschränkungen
 
 ### [BGE 133 IV 150 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-150_2007.html#consideration_5.1)
 - **Thema**: Vorrang der Haftanrechnung nach Art. 51 StGB
 - **Sachverhalt**: Streit über die Anrechnung von Untersuchungshaft aus einem früheren oder separaten Verfahren auf eine später ausgefällte Strafe.
-- **Kernaussage**: Zu entziehende Freiheit ist nach allgemeinen rechtsstaatlichen Grundsätzen wenn immer möglich mit bereits entzogener Freiheit zu kompensieren. Die Anrechnung von Untersuchungshaft geht dem finanziellen Ausgleich stets vor.
+- **Kernaussage**: Zu entziehende Freiheit ist nach allgemeinen rechtsstaatlichen Grundsätzen wenn immer möglich mit bereits entzogener Freiheit zu kompensieren. Die Anrechnung von Untersuchungshaft aus einem anderen Verfahren ist möglich; Realersatz geht dem finanziellen Ausgleich vor.
 - **Einschlägig für**: Abs. 2; Allgemeiner Anrechnungsgrundsatz
 
 ---
@@ -75,14 +80,14 @@ revisions:
 
 ### [BGer 7B_459/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-459-2023_2024-08-23.html) (23. August 2024)
 - **Thema**: Massnahmenvollzug ohne gültigen Hafttitel; Flucht und Unanwendbarkeit von Art. 430 StPO
-- **Sachverhalt**: Ein Verurteilter befand sich während des Beschwerdeverfahrens um Massnahmenverlängerung mangels förmlicher Anordnung von Sicherheitshaft während 288 Tagen ohne Hafttitel im Massnahmenvollzug und in Haft (unterbrochen durch Flucht nach Berlin und Auslieferungshaft). Die Vorinstanz verweigerte jede Entschädigung, da der Vollzug materiell begründet gewesen sei und eine Dispositivfeststellung genüge.
-- **Kernaussage**: Bei rechtswidrigen Zwangsmassnahmen (Art. 431 Abs. 1 StPO) ist Art. 430 StPO strikt unanwendbar (E. 3.2.2). Die beschuldigte Person hat unabhängig von ihrem Verhalten (auch bei Flucht) Anspruch auf Entschädigung. Die blosse Feststellung der Rechtswidrigkeit im Dispositiv genügt nicht; es besteht ein zwingender Anspruch auf eine finanzielle Genugtuung (E. 3.3).
+- **Sachverhalt**: Ein Verurteilter befand sich während des Beschwerdeverfahrens um Massnahmenverlängerung mangels förmlicher Anordnung von Sicherheitshaft während 288 Tagen ohne Hafttitel im Massnahmenvollzug und in Haft (unterbrochen durch Flucht nach Berlin und Auslieferungshaft). Das Appellationsgericht verweigerte jede Entschädigung, weil die Feststellung der Unrechtmässigkeit genügend Genugtuung verschaffe.
+- **Kernaussage**: Bei rechtswidrigen Zwangsmassnahmen (Art. 431 Abs. 1 StPO) ist Art. 430 StPO strikt unanwendbar (E. 3.2.2). Die beschuldigte Person hat unabhängig von ihrem Verhalten Anspruch auf eine angemessene Entschädigung. Die blosse Feststellung der Unrechtmässigkeit der Haft genügt nicht; sie berechtigt grundsätzlich zu einer finanziellen Entschädigung, und zu klären bleiben Art und Höhe der Wiedergutmachung (E. 3.3).
 - **Einschlägig für**: Abs. 1; Haft ohne Hafttitel, Auslieferungshaft und Kürzungsverbot
 
 ### [BGer 6B_672/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-672-2021_2023-05-15.html) (15. Mai 2023)
 - **Thema**: Zeitlich übermässige Vorführung; Missachtung von Art. 209 Abs. 3 StPO; Ausschluss von Art. 430 StPO
 - **Sachverhalt**: Ein Betroffener wurde für eine Parkbusse 24 Stunden vor dem Termin vorgeführt, verbrachte die Nacht in Polizeigewahrsam und wurde nach der morgendlichen Einvernahme erst um 18.00 Uhr entlassen. Die Vorinstanz verweigerte die Genugtuung wegen Lügen über den Fahrzeuglenker nach Art. 430 Abs. 1 lit. a StPO.
-- **Kernaussage**: Soweit der Freiheitsentzug über das für die Vorführung Erforderliche hinausging und gegen die unverzügliche Entlassungspflicht nach Art. 209 Abs. 3 StPO verstiess, lag eine rechtswidrige Zwangsmassnahme nach Art. 431 Abs. 1 StPO vor. Eine Kürzung oder Verweigerung nach Art. 430 Abs. 1 lit. a StPO ist in dieser Konstellation bundesrechtswidrig (E. 5.3.4.3).
+- **Kernaussage**: Soweit der Freiheitsentzug über das für die Vorführung Erforderliche hinausging und gegen die unverzügliche Entlassungspflicht nach Art. 209 Abs. 3 StPO verstiess, lag eine rechtswidrige Zwangsmassnahme nach Art. 431 Abs. 1 StPO vor. Eine Kürzung oder Verweigerung nach Art. 430 Abs. 1 lit. a StPO ist für diesen Teil bundesrechtswidrig; für den verhältnismässigen Teil der Vorführung kann die Genugtuung dagegen verweigert werden, wenn die Person das Verfahren rechtswidrig und schuldhaft erschwert hat (E. 5.3.4.3).
 - **Einschlägig für**: Abs. 1; Vorführung, Entlassungsverzögerung und Unanwendbarkeit von Art. 430 StPO
 
 ### [BGer 6B_375/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-375-2018_2019-08-12.html) (12. August 2019)
@@ -93,19 +98,19 @@ revisions:
 
 ### [BGer 6B_888/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-888-2021_2022-11-24.html) (24. November 2022)
 - **Thema**: Abgrenzung von Art. 429 StPO zu Art. 431 Abs. 1 StPO
-- **Sachverhalt**: Streit über Entschädigung nach Einstellung einer Strafuntersuchung infolge unrechtmässiger Hausdurchsuchung und Beschlagnahme.
+- **Sachverhalt**: Nach Teilfreisprüchen und Teileinstellungen in einem umfangreichen Geldwäschereiverfahren (Obergericht Thurgau vom 14. Juni 2021) machte ein betroffener Rechtsanwalt Entschädigungs- und Genugtuungsansprüche geltend; für die Abgrenzung der Anspruchsgrundlagen verweist das Bundesgericht auf Art. 431 Abs. 1 StPO (E. 5.3).
 - **Kernaussage**: War eine Zwangsmassnahme von Beginn weg oder während des Vollzugs mangels gesetzlicher Voraussetzungen rechtswidrig, greift Art. 431 Abs. 1 StPO. Erweist sich eine formell und materiell rechtmässig angeordnete Massnahme erst nachträglich infolge Freispruchs oder Einstellung als unberechtigt, richtet sich die Entschädigung nach Art. 429 StPO.
 - **Einschlägig für**: Abs. 1; Abgrenzung der Entschädigungstatbestände
 
 ### [BGer 6B_1076/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1076-2016_2017-01-12.html) (12. Januar 2017)
 - **Thema**: Begriff der Überhaft und Gehörsanspruch bei Kürzungsentscheiden
-- **Sachverhalt**: 13 Tage Untersuchungshaft bei einem häuslichen Gewaltvorfall; das Verfahren wurde nach Art. 55a StGB definitiv eingestellt. Das Obergericht sprach fälschlicherweise Überhaftentschädigung nach Art. 431 Abs. 2 StPO zu.
+- **Sachverhalt**: 13 Tage Untersuchungshaft bei einem häuslichen Gewaltvorfall; das Verfahren wurde nach Art. 55a StGB definitiv eingestellt. Das Obergericht sprach Fr. 2'600.– Genugtuung nach Art. 431 Abs. 2 StPO zu; auf Beschwerde der Oberstaatsanwaltschaft hob das Bundesgericht dies auf, weil die Genugtuung nach Art. 429 Abs. 1 lit. c i.V.m. Art. 430 Abs. 1 lit. a StPO zu prüfen ist.
 - **Kernaussage**: Überhaft nach Art. 431 Abs. 2 StPO liegt nur vor, wenn die Haft länger dauerte als die tatsächlich ausgesprochene Sanktion. Bei vollständiger Verfahrenseinstellung liegt keine Überhaft vor, sondern ein Fall von Art. 429 Abs. 1 lit. c StPO, der den Kürzungsregeln von Art. 430 Abs. 1 lit. a StPO untersteht (E. 3.2–3.4).
 - **Einschlägig für**: Abs. 2; Begriff der Überhaft und Abgrenzung zu Art. 429 StPO
 
 ### [BGer 6B_990/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-990-2013_2014-06-10.html) (10. Juni 2014)
 - **Thema**: Begriff der Rechtswidrigkeit bei Zwangsmassnahmen
-- **Sachverhalt**: Rüge der unrechtmässigen Zwangsmassnahmenanordnung in einem Wirtschaftsstraffall.
+- **Sachverhalt**: Verfahrenseinstellung; streitig waren unter anderem Kosten und die Genugtuung für Untersuchungshaft (E. 2.2).
 - **Kernaussage**: Zwangsmassnahmen sind rechtswidrig im Sinne von Art. 431 Abs. 1 StPO, wenn im Zeitpunkt ihrer Anordnung oder Fortsetzung die materiellen oder formellen gesetzlichen Voraussetzungen nach Art. 196 ff. StPO nicht erfüllt waren.
 - **Einschlägig für**: Abs. 1; Allgemeine Rechtswidrigkeitsvoraussetzungen
 
