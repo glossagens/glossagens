@@ -18,6 +18,9 @@ gruppen:
   - name: "Erlöschen und Widerruf der Bewilligungen"
     von: 61
     bis: 64
+  - name: "Entfernungs- und Fernhaltemassnahmen"
+    von: 64
+    bis: 72
   - name: "Zwangsmassnahmen"
     von: 73
     bis: 82
