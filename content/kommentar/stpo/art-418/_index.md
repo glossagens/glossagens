@@ -2,11 +2,16 @@
 title: "Art. 418 StPO — Beteiligung mehrerer Personen und Haftung Dritter"
 weight: 418
 date: 2026-10-04
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 418 StPO (SR 312.0): anteilsmässige Kostentragung bei mehreren kostenpflichtigen Personen, solidarische Haftung für gemeinsam verursachte Kosten, Haftung Dritter nach zivilrechtlichen Grundsätzen."
 tags: ["StPO", "Kostentragung", "Solidarhaftung", "Anteilsmässig", "Haftung Dritter", "Zivilrecht", "Kosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung der Erfassung: Wortlaut (data/wortlaut/stpo/art-418.json, Fedlex Stand 2025-04-01) unverändert; BGer 6B_370/2016 E. 1.2 und 1B_379/2013 E. 2.3.3 im Volltext (entscheidsuche) abgeglichen und bestätigt. Korrigiert: nicht belegte Beispiele zu Abs. 3 (Erbenhaftung, Vicarius-Haftung) durch die Beispiele der Botschaft (BBl 2006 1085, 1324, abgerufen via opencaselaw get_article_purpose) ersetzt; Behauptung «kein Ermessen» bei Abs. 1 relativiert; Hinweis auf Art. 420 i.V.m. Art. 418 Abs. 2 (OG BE BK 23 364) ergänzt; Botschaftsdatum in der Literaturangabe berichtigt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -45,18 +50,18 @@ revisions:
 3. Haftung Dritter (Abs. 3)?
    ├─ Dritter nicht beschuldigte Person?
    ├─ Zivilrechtliche Haftungsgrundsätze erfüllt?
-   │   (z.B. Geschäftsherrenhaftung Art. 55 OR, Vicarius-Haftung)
+   │   (z.B. Art. 55 OR, Art. 55 und 333 ZGB, Art. 50 OR)
    └─ Ja → solidarische Haftung mit beschuldigter Person möglich
 
 4. Ermessensausübung:
-   ├─ Abs. 1: zwingend ("werden ... auferlegt")
+   ├─ Abs. 1: Grundregel ("werden ... auferlegt"), kein Wahlrecht zwischen Teilung und Solidarität
    ├─ Abs. 2: Kannvorschrift ("kann ... anordnen")
    └─ Abs. 3: Kannvorschrift ("kann ... verpflichten")
 ```
 
 ### I. Anteilsmässige Kostentragung (Abs. 1)
 
-**2** Sind mehrere beteiligte Personen kostenpflichtig, so werden die Kosten **anteilsmässig** auferlegt. Dies ist die **Grundregel** bei mehreren Kostenträgern: Die Kosten werden nach Massgabe des jeweiligen Unterliegens oder der jeweiligen Kostenverursachung aufgeteilt. Die anteilsmässige Aufteilung ist zwingend («werden ... auferlegt») — die Behörde verfügt hier über kein Ermessen.
+**2** Sind mehrere beteiligte Personen kostenpflichtig, so werden die Kosten **anteilsmässig** auferlegt. Dies ist die **Grundregel** bei mehreren Kostenträgern: Die Kosten werden nach Massgabe des jeweiligen Unterliegens oder der jeweiligen Kostenverursachung aufgeteilt. Die anteilsmässige Aufteilung ist die Regel («werden ... auferlegt»); nach der Botschaft schliesst sie nicht aus, «dass gegebenenfalls die Schwere der jedem Täter zur Last gelegten Straftat berücksichtigt wird» (BBl 2006 1085, 1324, zum Entwurfsartikel 425). Die Strafbehörde hat nur zu entscheiden, in welchem Verhältnis die Kosten unter den Kostenpflichtigen zu verteilen sind; ob überhaupt eine Kostenpflicht besteht, regeln Art. 426–428 StPO.
 
 **3** Greifen sowohl die Staatsanwaltschaft als auch die Privatklägerschaft mit dem gleichen Ziel (Verurteilung der beschuldigten Person) ein Rechtsmittel an und unterliegen sie, so tragen beide **anteilsmässig** die Kosten des Rechtsmittelverfahrens (Art. 428 Abs. 1 i.V.m. Art. 418 Abs. 1 StPO). Im Fall 6B_370/2016 hatten sowohl die Staatsanwaltschaft als auch die Privatklägerin gegen einen Freispruch Berufung erhoben mit dem Antrag auf Schuldigsprechung. Da sie mit ihrem Antrag unterlagen, stellte die Vorinstanz in Anwendung von Art. 428 Abs. 1 und Art. 418 Abs. 1 StPO zu Recht fest, dass die Kosten des Berufungsverfahrens je zur Hälfte vom Staat und von der Privatklägerin zu tragen sind ([BGer 6B_370/2016 vom 16. März 2017, E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-370-2016_2017-03-16.html)).
 
@@ -64,13 +69,13 @@ revisions:
 
 **4** Die Strafbehörde **kann** für gemeinsam verursachte Kosten eine **solidarische Haftung** der kostenpflichtigen Personen anordnen. Diese Kannvorschrift eröffnet der Behörde ein Ermessen: Sie kann zwischen der anteilsmässigen Auferlegung (Abs. 1) und der solidarischen Haftung (Abs. 2) wählen, wenn die Kosten **gemeinsam** verursacht wurden. Die solidarische Haftung ist sinnvoll, wenn die einzelnen Anteile schwer zu beziffern sind oder wenn ein Kostenträger möglicherweise nicht zahlen kann.
 
-**5** Es liegt im **pflichtgemässen Ermessen** der Strafbehörde, die gemeinsam verursachten Kosten den Mitbeschuldigten nicht anteilsmässig, sondern solidarisch aufzuerlegen ([BGer 1B_379/2013 vom 6. Dezember 2013, E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-379-2013_2013-12-06.html)). Dies gilt namentlich bei Tatbeteiligung mehrerer Beschuldigter, bei denen die Kosten durch die gemeinsame Tat verursacht wurden. Die Behörde darf den Schätzwert des beschlagnahmten Vermögens und die voraussichtlichen Verfahrenskosten gegeneinander abwägen und bei der Beschlagnahme zur Kostendeckung die solidarische Haftung berücksichtigen.
+**5** Es liegt im **pflichtgemässen Ermessen** der Strafbehörde, die gemeinsam verursachten Kosten den Mitbeschuldigten nicht anteilsmässig, sondern solidarisch aufzuerlegen ([BGer 1B_379/2013 vom 6. Dezember 2013, E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-379-2013_2013-12-06.html)). Das Bundesgericht hielt dies in einem Beschlagnahmeverfahren fest (Deckungsbeschlagnahme nach Art. 263 Abs. 1 lit. b StPO): Die Strafbehörde darf bei der Bemessung der voraussichtlichen Verfahrenskosten berücksichtigen, dass die Mitbeschuldigten für gemeinsam verursachte Kosten solidarisch haften können. Nach der Botschaft betrifft die Regel «hauptsächlich die Fälle von Teilnahme oder Mittäterschaft», in denen es «analog der Regel von Artikel 50 OR» Billigkeitsgründe nahelegen, dass die Beteiligten solidarisch haften; ein wohlhabender Anstifter soll so auch für die Kosten einer mittellosen Person einstehen müssen (BBl 2006 1085, 1324).
 
 ### III. Haftung Dritter (Abs. 3)
 
-**6** Die Strafbehörde kann **Dritte** nach Massgabe der **Haftungsgrundsätze des Zivilrechts** verpflichten, die Kosten solidarisch mit der beschuldigten Person zu tragen. Diese Bestimmung eröffnet die Möglichkeit, Personen in die Kostentragung einzubeziehen, die nicht selbst beschuldigt sind, aber zivilrechtlich für den Schaden oder die Kosten haften (z.B. Geschäftsherrenhaftung nach Art. 55 OR, Haftung für Hilfspersonen, Erbenhaftung).
+**6** Die Strafbehörde kann **Dritte** nach Massgabe der **Haftungsgrundsätze des Zivilrechts** verpflichten, die Kosten solidarisch mit der beschuldigten Person zu tragen. Diese Bestimmung eröffnet die Möglichkeit, Personen in die Kostentragung einzubeziehen, die nicht selbst beschuldigt sind, aber nach zivilrechtlichen Grundsätzen für das Verhalten der beschuldigten Person einzustehen haben. Die Botschaft denkt an Fälle, in denen die beschuldigte Person eine Straftat «zum Vorteil oder auf Anweisung eines Dritten» (allenfalls einer juristischen Person) begangen hat, und nennt die Art. 55 und 333 ZGB sowie Art. 50 und 55 OR, die «in analoger Weise Anwendung» finden (BBl 2006 1085, 1324).
 
-**7** Die Inanspruchnahme Dritter setzt voraus, dass die **zivilrechtlichen Haftungsgrundsätze** tatsächlich erfüllt sind. Die Strafbehörde muss prüfen, ob ein Zivilrechtlicher Haftungsgrund vorliegt (z.B. ob der Dritte als Geschäftsherr für die deliktische Handlung seines Angestellten haftet). Die Haftung ist **solidarisch** mit der beschuldigten Person — der Dritte kann auf die gesamten Kosten in Anspruch genommen werden, mit anschliessendem Rückgriff gegen die beschuldigte Person im Innenverhältnis.
+**7** Die Inanspruchnahme Dritter setzt voraus, dass die **zivilrechtlichen Haftungsgrundsätze** tatsächlich erfüllt sind. Die Strafbehörde muss prüfen, ob ein Zivilrechtlicher Haftungsgrund vorliegt (z.B. ob der Dritte nach Art. 55 OR als Geschäftsherr für die deliktische Handlung seiner Hilfsperson haftet). Die Haftung ist **solidarisch** mit der beschuldigten Person (Wortlaut Abs. 3); der Rückgriff im Innenverhältnis richtet sich nach den zivilrechtlichen Regeln.
 
 ### IV. Systematisches Verhältnis
 
@@ -80,6 +85,8 @@ revisions:
 - **Art. 418 StPO** ergänzt diese Normen bei **mehreren** Kostenträgern oder bei der Einbeziehung **Dritter**.
 
 Art. 418 Abs. 1 StPO wird dabei sowohl im erstinstanzlichen Verfahren (zusätzlich zu Art. 426 f. StPO) als auch im Rechtsmittelverfahren (zusätzlich zu Art. 428 StPO) angewendet.
+
+Auch beim Rückgriff nach **Art. 420 StPO** kann sich die Frage einer solidarischen Haftung stellen: Die Berner Staatsanwaltschaft nahm in einem Wirtschaftsverfahren «in Anwendung von Art. 420 Bst. a i.V.m. Art. 418 Abs. 2 StPO» solidarisch auf drei Personen Rückgriff; die Beschwerdekammer hob den Rückgriff auf und liess offen, ob die solidarische Haftbarkeit rechtens gewesen wäre ([OG BE BK 23 364 vom 5. März 2024, E. 6](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2023-364_2024-03-05.pdf); dazu [Art. 420 StPO](../art-420/)).
 
 ---
 
@@ -103,7 +110,7 @@ Art. 418 Abs. 1 StPO wird dabei sowohl im erstinstanzlichen Verfahren (zusätzli
 
 2. **Ermessen bei solidarischer Haftung.** Die Entscheidung, ob die Kosten anteilsmässig oder solidarisch auferlegt werden, liegt im pflichtgemässen Ermessen der Strafbehörde ([1B_379/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-379-2013_2013-12-06.html) E. 2.3.3). Das Ermessen ist nach sachlichen Kriterien auszuüben — willkürliche Bevorzugung oder Benachteiligung einzelner Kostenträger unzulässig.
 
-3. **Dritthaftung nur bei zivilrechtlichem Haftungsgrund.** Die Inanspruchnahme Dritter nach Abs. 3 setzt einen zivilrechtlichen Haftungsgrund voraus. Die Strafbehörde muss die zivilrechtlichen Voraussetzungen (z.B. Art. 55 OR Geschäftsherrenhaftung) prüfen und im Kostenentscheid darlegen.
+3. **Dritthaftung nur bei zivilrechtlichem Haftungsgrund.** Die Inanspruchnahme Dritter nach Abs. 3 setzt einen zivilrechtlichen Haftungsgrund voraus. Die Strafbehörde muss die zivilrechtlichen Voraussetzungen (z.B. Art. 55 OR) prüfen und im Kostenentscheid darlegen.
 
 **Für die Verteidigung:**
 
@@ -125,5 +132,5 @@ Art. 418 Abs. 1 StPO wird dabei sowohl im erstinstanzlichen Verfahren (zusätzli
 
 - **Domeisen Thomas**, in: Basler Kommentar Schweizerische Strafprozessordnung, 2. Aufl., Basel 2014, Art. 418 N. 1 ff.
 - **Griesser Yvona**, in: Kommentar zur Schweizerischen Strafprozessordnung, Donatsch/Hansjakob/Lieber (Hrsg.), 2. Aufl. 2014, Art. 428 N. 5 (zit. Art. 418 Abs. 1 StPO).
-- Botschaft vom 28. Juni 2006 zur Schweizerischen Strafprozessordnung (BBl 2006 1085).
+- Botschaft vom 21. Dezember 2005 zur Vereinheitlichung des Strafprozessrechts (BBl 2006 1085, 1324 zu Art. 425 E-StPO = Art. 418 StPO).
 - Eidgenössisches Justiz- und Polizeidepartement, Begleitbericht zum Vorentwurf für eine Schweizerische Strafprozessordnung, 2001, S. 280 f.
