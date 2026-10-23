@@ -2,11 +2,16 @@
 title: "Art. 417 StPO — Kostenpflicht bei fehlerhaften Verfahrenshandlungen"
 weight: 417
 date: 2026-08-07
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 417 StPO (SR 312.0): Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen — Kannvorschrift unabhängig vom Verfahrensausgang, objektive Pflichtverletzung genügt, Abgrenzung zu Art. 426–428 und Art. 420 StPO, Anwendbarkeit im Strafbefehls- und Zwangsmassnahmenverfahren."
-tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Entsiegelung", "Verfahrenskosten", "Kannvorschrift", "Säumnis", "rechtsmissbräuchlich"]
+lastmod: 2026-10-23
+description: "Praxiskommentar zu Art. 417 StPO (SR 312.0): Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen — Kannvorschrift unabhängig vom Verfahrensausgang, objektive Pflichtverletzung und Kausalität, Kostenauflage an Rechtsbeistand, Beschuldigte, Anzeigeerstatter und Staat, Abgrenzung zu Art. 420, 426 Abs. 3 lit. a, 427 und 428 StPO, selbstständige Zwangsmassnahmenverfahren, Verwaltungsstrafrecht."
+tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Verfahrenskosten", "Kannvorschrift", "Säumnis", "Rechtsbeistand", "Verteidiger", "Kostenauflage", "Entsiegelung", "Strafbefehl", "rechtsmissbräuchlich"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überarbeitung und Ausbau zum Praxiskommentar. Korrigiert: Sachverhalte bzw. Aussagen zu BGer 7B_164/2022 (Anwalt ohne Vollmachten, nicht Haftbeschwerde), 7B_686/2023 (unentschuldigtes Fernbleiben von der Berufungsverhandlung, nicht inhaltsgleiche Beschwerden), 6B_181/2023 (Verteidiger, Beschwerde gutgeheissen; nicht Art. 66 Abs. 3 BGG), 7B_58/2025 (Rechtsbeistand, teils rechtsmissbräuchliche Beschwerdeführung), 1B_534/2018 (Kostenpflicht auch der Staatsanwaltschaft, nicht Entsiegelung), 6B_934/2016 (= BGE 143 IV 373, Beschleunigungsgebot, nicht Art. 420), 6B_434/2020 und 7B_918/2025 (Gutheissung, kein Beleg für 'Kostenpflicht trotz Unterliegens'). Entfernt: BGer 6B_1255/2016, 6B_1290/2021 und 6B_1062/2018 als Belege für Art. 417 StPO (erwähnen die Norm nicht bzw. nicht in einer tragenden Erwägung), ungestützter Art.-420-Praxishinweis, Literaturangaben (Donatsch/Hansjakob/Hug, Schwander) ohne Beleg. Wiederhergestellt: BGer 6B_5/2013 vom 19. Februar 2013 (frühere Entfernung beruhte auf einer falsch datierten URL). Neu: BGE 147 IV 526, 6B_5/2013, 1B_202/2014, 6B_738/2015 E. 1.4.1 (Ermessen), 7B_1297/2025, 1B_45/2019, 1B_275/2018, 6B_773/2017, 7B_450/2025, 7B_206/2024, BStGer SK.2024.57 und CR.2023.4. Alle Entscheide im Volltext auf entscheidsuche.ch gelesen (7B_11/2026 vollständig); Gesetzestexte via Fedlex-MCP; keine Botschaftsstelle direkt verifiziert (nur zitiert nach BGer)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -40,139 +45,179 @@ revisions:
 
 ## Kommentierung
 
-### I. Bedeutung und Funktion
+### Überblick und Bedeutung
 
-**1** Art. 417 StPO verankert das **Verursacherprinzip** im strafprozessualen Kostenrecht: Wer durch eine Säumnis oder eine andere fehlerhafte Verfahrenshandlung unnötige Kosten verursacht, soll diese unabhängig vom Ausgang des Verfahrens tragen. Die Bestimmung ist als **Kannvorschrift** ausgestaltet — sie räumt der Strafbehörde einen Ermessensspielraum ein, ob und in welchem Umfang sie die betreffende Person kostenpflichtig erklärt ([BGer 6B_364/2018 vom 26. Juli 2018, E. 3.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html)).
+**N. 1** Art. 417 StPO ist die Grundnorm des **Verursacherprinzips** im strafprozessualen Kostenrecht. Sie ermöglicht es, einer verfahrensbeteiligten Person die Kosten und Entschädigungen aufzuerlegen, die sie durch Säumnis oder eine andere fehlerhafte Verfahrenshandlung verursacht hat, und zwar «ungeachtet des Verfahrensausgangs». Nach der ständigen Rechtsprechung ermöglicht die Bestimmung, «einer verfahrensbeteiligten Person, unabhängig vom Verfahrensausgang und von einem schuldhaften Verhalten, die Kosten für einen bestimmten, von ihr unnötigerweise in Verletzung ihrer Verfahrenspflichten verursachten Verfahrensakt aufzuerlegen» ([BGer 7B_164/2022 vom 14. August 2023, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html)).
 
-**2** Art. 417 StPO steht systematisch am Anfang des zehnten Titels (Kosten, Entschädigung und Genugtuung, Art. 416–436 StPO) und ist als **allgemeine, verfahrensunabhängige Grundnorm** konzipiert: Sie ist auf **alle** nach der StPO durchzuführenden Verfahren anwendbar, unabhängig davon, ob es sich um ein Vorverfahren, ein erstinstanzliches Verfahren, ein selbständiges Zwangsmassnahmenverfahren oder ein Rechtsmittelverfahren handelt ([BGer 6B_738/2015 vom 11. November 2015, E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html)).
+**N. 2** Die Norm steht am Anfang des zehnten Titels (Art. 416–436 StPO), gilt aber nicht nur für bestimmte Verfahrensstadien: Sie ist «auf alle nach der StPO durchzuführenden Verfahren anwendbar» ([BGer 6B_181/2023 vom 16. Mai 2024, E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html); [BGer 6B_738/2015 vom 11. November 2015, E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html)). Das beruht auf Art. 416 StPO, der den Titel auf alle Verfahren nach der StPO erstreckt (dazu [Art. 416 StPO](https://glossagens.ch/kommentar/stpo/art-416/)).
+
+**N. 3** Die Bedeutung der Norm liegt in der Praxis weniger bei der beschuldigten Person als bei **Rechtsbeiständen**: Die Mehrzahl der publizierten Bundesgerichtsentscheide betrifft die Frage, wann einem Verteidiger oder einem anderen Vertreter Verfahrenskosten persönlich auferlegt werden dürfen (N. 20–26). Daneben wird Art. 417 StPO bei Nichterscheinen, verspäteten Eingaben und rechtsmissbräuchlichem Prozessverhalten angewendet (N. 29–34).
+
+**N. 4** Zur Entstehungsgeschichte: Das Bundesgericht verweist für den Gedanken, dass etwa die verspätete Vorlage von Beweisen eine kostenpflichtige Verfahrenspflichtverletzung sein kann, auf die Botschaft zur Vereinheitlichung des Strafprozessrechts vom 21. Dezember 2005 (BBl 2006 1085 ff.; [BGer 7B_918/2025 vom 22. Januar 2026, E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-918-2025_2026-01-22.html) mit Hinweis auf BBl 2006 1324 Ziff. 2.10.1; [BGer 6B_5/2013 vom 19. Februar 2013, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-5-2013_2013-02-19.html) mit Hinweis auf BBl 2006 1308 «ad art. 424 du projet»). Die Botschaftsstellen sind hier nur nach den Bundesgerichtsurteilen zitiert und nicht im Original geprüft.
 
 ### Prüfschema
 
-```
-1. Säumnis oder andere fehlerhafte Verfahrenshandlung?
-   ├─ Säumnis: Nichteinhaltung von Fristen oder Terminen
-   ├─ Rechtsmissbräuchliche Eingaben (offensichtlich aussichtslos,
-   │  inhaltsgleich mit bereits entschiedenen Beschwerden)
-   ├─ Prozessverschleppung
-   └─ Sonstige Verletzung von Verfahrenspflichten
-
-2. Objektive Pflichtverletzung? (kein Verschulden erforderlich)
-   ├─ Ja → genügt für Art. 417 StPO
-   └─ Achtung: Divergenz in 6B_934/2016 E. 1.4.2 (Verschulden
-      erforderlich) — massgebend ist die Linie in 7B_164/2022
-
-3. Kausalzusammenhang zwischen Pflichtverletzung und Kosten?
-   ├─ Nur die durch die konkrete Pflichtverletzung verursachten Kosten
-   └─ Keine Pauschalkostenauflage
-
-4. Verfahrensbeteiligte Person?
-   ├─ Partei (Beschuldigte/r, Privatkläger)
-   ├─ Vertreter oder Rechtsbeistand
-   └─ Dritte (Zeugen, Auskunftspersonen, beschlagnahmte Dritte)
-
-5. Ermessensausübung (Kannvorschrift)
-   ├─ Die Behörde kann — muss aber nicht — Kosten auferlegen
-   ├─ Ungeachtet des Verfahrensausgangs (obsiegt/unterliegt irrelevant)
-   └─ Verhältnismässigkeit der Kostenauflage prüfen
-
-6. Systematische Abgrenzung:
-   ├─ Art. 426 f. StPO: ausgangsbezogen (Ende des Verfahrens)
-   ├─ Art. 428 StPO: Rechtsmittelverfahren
-   ├─ Art. 420 StPO: Rückgriff (Vorsatz/grobe Fahrlässigkeit)
-   └─ Art. 66 Abs. 3 BGG: entsprechendes Verursacherprinzip vor BGer
-```
-
-### II. Voraussetzungen
-
-#### 1. Säumnis oder andere fehlerhafte Verfahrenshandlung
-
-**3** Erfasst sind zum einen die Säumnis (Nichteinhaltung von Fristen oder Terminen) und zum andern jede sonstige fehlerhafte Prozesshandlung, mit der eine verfahrensbeteiligte Person unnötig Verfahrensaufwand verursacht, etwa durch offensichtlich aussichtslose oder rechtsmissbräuchliche Rechtsmitteleingaben (Art. 3 Abs. 2 lit. b StPO).
-
-#### 2. Objektive Pflichtverletzung genügt — kein Verschulden erforderlich
-
-**4** Art. 417 StPO setzt nach der überwiegenden Praxis lediglich die **objektive** Verletzung einer Verfahrenspflicht voraus; ein **schuldhaftes Verhalten** ist nicht erforderlich. Das Bundesgericht formuliert:
-
-> «Art. 417 StPO ermöglicht es, einer verfahrensbeteiligten Person, unabhängig vom Verfahrensausgang und von einem schuldhaften Verhalten, die Kosten für einen bestimmten, von ihr unnötigerweise in Verletzung ihrer Verfahrenspflichten verursachten Verfahrensakt aufzuerlegen.»
-
-([BGer 7B_164/2022 vom 14. August 2023, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html); ebenso [BGer 6B_364/2018, E. 3.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html); [BGer 6B_738/2015, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html)). Dies unterscheidet die Bestimmung vom Rückgriff des Staates nach Art. 420 StPO, der Vorsatz oder grobe Fahrlässigkeit voraussetzt (dazu Rz. 11).
-
-**5** **Abweichende Formulierung in einem Entscheid.** Zu beachten ist, dass [BGer 6B_934/2016 vom 13. Juli 2017, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-934-2016_2017-07-13.html) im Zusammenhang mit den Folgen einer Verletzung des Beschleunigungsgebots das Gegenteil festhält: Eine «fehlerhafte Verfahrenshandlung» gemäss Art. 426 Abs. 3 lit. a bzw. Art. 417 StPO liege nicht vor, und «solches setzt im Übrigen ein Verschulden voraus, während die Folgen einer Verletzung des Beschleunigungsgebots von einem Verschulden unabhängig sind». Die Aussage steht in einem Nebensatz und betrifft die Frage, ob eine überlange Verfahrensdauer dem Kanton als fehlerhafte Verfahrenshandlung angelastet werden kann. Sie ist mit der oben zitierten Linie nicht ohne Weiteres in Einklang zu bringen; für die Praxis massgebend ist die in 7B_164/2022 bestätigte Formel.
-
-#### 3. Kausalzusammenhang
-
-**6** Zwischen der Pflichtverletzung und den auferlegten Kosten muss ein **Kausalzusammenhang** bestehen; kostenpflichtig können nur diejenigen Kosten sein, die durch die konkrete Pflichtverletzung tatsächlich verursacht wurden ([BGer 6B_738/2015, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html)).
-
-#### 4. Ungeachtet des Verfahrensausgangs
-
-**7** Die Kostenauflage nach Art. 417 StPO erfolgt **unabhängig davon**, ob die betreffende Person im Verfahren letztlich obsiegt oder unterliegt. Dies unterscheidet die Norm grundlegend von den ausgangsbezogenen Kostenregeln der Art. 426–428 StPO, die grundsätzlich an das Verfahrensergebnis (Verurteilung, Freispruch, Unterliegen im Rechtsmittelverfahren) anknüpfen.
-
-### III. Persönlicher Anwendungsbereich: auch Vertreter und Dritte
-
-**8** Kostenpflichtig nach Art. 417 StPO kann nicht nur die Partei selbst, sondern auch deren **Vertreter oder Rechtsbeistand** werden, wenn dieser die fehlerhafte Verfahrenshandlung zu verantworten hat. In Anlehnung an die zu Art. 66 Abs. 3 BGG ergangene Rechtsprechung (Verursacherprinzip) bejahte das Bundesgericht die Kostenpflicht eines gesetzlichen Vertreters, der im Namen einer minderjährigen Beschwerdeführerin eine geradezu mutwillige, rechtsmissbräuchliche Beschwerde erhoben hatte, obschon er selbst nicht Partei des Verfahrens war ([BGer 6B_364/2018, E. 3.3.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html)). Da der Kreis der «verfahrensbeteiligten Person» über die Parteien im engeren Sinn hinausgeht (vgl. Art. 105 StPO: geschädigte Person, anzeigenerstattende Person, Zeugen, Auskunftspersonen, Sachverständige, durch Verfahrenshandlungen beschwerte Dritte), erstreckt sich die Kostenpflicht potenziell auf jede Person, die durch eine ihr zurechenbare fehlerhafte Verfahrenshandlung Kosten verursacht. Dies umfasst auch Fälle, in denen eine beschuldigte Person durch rechtsmissbräuchliche Eingaben Verfahrenskosten verursacht, selbst wenn das Verfahren eingestellt wird ([BGer 6B_1062/2018 vom 4. März 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1062-2018_2019-03-04.html); [BGer 6B_434/2020, E. 1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-434-2020_2021-09-14.html)).
-
-**9** **Rechtsmissbräuchliche Eingaben als fehlerhafte Verfahrenshandlung.** Eine rechtsmissbräuchliche Eingabe, die offensichtlich aussichtslos ist und nur der Prozessverschleppung dient, qualifiziert als fehlerhafte Verfahrenshandlung im Sinne von Art. 417 StPO. Dies gilt namentlich für wiederholte, inhaltsgleiche Beschwerden, die bereits Gegenstand eines Entscheids waren ([BGer 7B_686/2023, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-686-2023_2024-09-23.html); [BGer 7B_164/2022 vom 14. August 2023, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html)). Ebenso kann die unbegründete Beschwerdeerhebung gegen eine Untersuchungshaftanordnung kostenpflichtig sein, wenn sie offensichtlich keine neuen Argumente vorbringt ([BGer 7B_58/2025 vom 7. Februar 2025, E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html)).
-
-### IV. Systematische Abgrenzung zu Art. 426–428 StPO
-
-**10** Innerhalb des zehnten Titels erfüllen Art. 417 einerseits und die Art. 426–428 StPO andererseits unterschiedliche Funktionen: Art. 426 f. StPO regeln, wem am **Ende** des ordentlichen Strafverfahrens (bei Verurteilung, Einstellung oder Freispruch) die Verfahrenskosten definitiv auferlegt werden, während Art. 428 StPO die Kostentragung spezifisch im **Rechtsmittelverfahren** nach StPO regelt. Art. 417 StPO greift demgegenüber unabhängig vom Verfahrensstadium und -ausgang, sobald eine fehlerhafte Verfahrenshandlung vorliegt.
-
-**11** Diese Abgrenzung ist namentlich für **selbständige erstinstanzliche Zwangsmassnahmenverfahren** bedeutsam, für die das Gesetz keine spezifische Kostenregel enthält. So stellt das Entsiegelungsverfahren nach Art. 248 StPO ein selbständiges erstinstanzliches Zwangsmassnahmenverfahren dar, das das Strafverfahren nicht abschliesst; Art. 428 StPO, der die Kostentragung im Rechtsmittelverfahren regelt, ist darauf **nicht anwendbar**. Stattdessen gelten über den Verweis von Art. 416 StPO (i.V.m. Art. 421 Abs. 2 lit. a StPO) die allgemeinen Bestimmungen der Art. 417 ff. StPO sowie sinngemäss Art. 426 f. StPO ([BGE 138 IV 225, E. 8.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html)).
-
-### V. Rückgriff des Staates (Art. 420 StPO) und Verhältnis zum Verwaltungsstrafrecht
-
-**12** Von Art. 417 StPO zu unterscheiden ist der **Rückgriff** von Bund oder Kanton nach Art. 420 StPO gegen Personen, die vorsätzlich oder grobfahrlässig die Einleitung des Verfahrens veranlasst, dieses erheblich erschwert oder eine im Revisionsverfahren aufgehobene Entscheidung verursacht haben. Während Art. 417 StPO bereits während des laufenden Verfahrens greift und blosse objektive Pflichtverletzung genügt, setzt der Rückgriff nach Art. 420 StPO ein qualifiziertes Verschulden voraus und betrifft die vom Staat bereits **getragenen** Kosten und Entschädigungen. Der Rückgriff nach Art. 420 StPO ist auch gegenüber Personen möglich, die das Verfahren durch falsche Anschuldigungen veranlasst haben ([BGer 6B_1255/2016, E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1255-2016_2017-05-24.html)).
-
-**13** **Abgrenzung zum Rückgriff nach Art. 66 Abs. 3 BGG.** Im bundesgerichtlichen Verfahren entspricht das Verursacherprinzip demjenigen von Art. 417 StPO; das Bundesgericht wendet es regelmässig an, um Parteien, die durch Säumnis oder rechtsmissbräuchliche Eingaben Verfahrenskosten verursachen, zur Kostentragung zu verpflichten, unabhängig vom Ausgang des Verfahrens ([BGer 6B_181/2023 vom 16. Mai 2024, E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html); [BGer 6B_1290/2021, E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1290-2021_2022-03-31.html)).
-
-**14** In einem neueren Entscheid zur Kostenverteilung im Entsiegelungsverfahren eines Verwaltungsstrafverfahrens (Steuerhinterziehung) bestätigte das Bundesgericht die dargestellten Grundsätze zu Art. 417 StPO — Kannvorschrift, blosse objektive Pflichtverletzung, Kausalitätserfordernis — als Vergleichsmassstab, stellte jedoch klar, dass diese Grundsätze der ordentlichen Strafprozessordnung im Anwendungsbereich des Bundesgesetzes über das Verwaltungsstrafrecht (VStrR) nicht unbesehen übernommen werden können: Die Verwaltungsbehörde darf nach Art. 95 VStrR die Verfahrenskosten nur dem Verurteilten oder — bei Einstellung — dem Beschuldigten auferlegen, nicht aber am Verfahren nicht beschuldigten Dritten, deren Datenträger von der Siegelung betroffen waren. Die Beschwerdekammer des Bundesstrafgerichts als Entsiegelungsrichterin muss die Kostenverteilung im Entsiegelungsverfahren daher **selbst und abschliessend** vornehmen, statt sie auf den Abschluss des Hauptverfahrens zu verschieben ([BGer 7B_11/2026 vom 25. Juni 2026, E. 2.2.2 ff.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html)).
-
----
-
-## Kasuistik: Fallgruppen
-
-### Tabelle: Typische Anwendungsfälle des Art. 417 StPO
-
-| Fallgruppe | Verfahrenshandlung | Kostenfolge | Leitentscheid |
+| Nr. | Prüfpunkt | Leitfrage | Abschnitt |
 |---|---|---|---|
-| **Säumnis** | Nichteinhaltung von Fristen/Terminen | Kosten der Säumnisfolgen | [6B_1290/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1290-2021_2022-03-31.html) E. 2 |
-| **Mutwillige Beschwerde** | Offensichtlich aussichtslose Beschwerde gegen Haft | Kosten des Beschwerdeverfahrens | [7B_164/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html) E. 4.1; [7B_58/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html) E. 4.3 |
-| **Wiederholte inhaltsgleiche Eingaben** | Identische Beschwerde nach bereits ergangenem Entscheid | Kosten des erneuten Verfahrens | [7B_686/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-686-2023_2024-09-23.html) E. 2.2 |
-| **Vertreter mutwillig** | Gesetzlicher Vertreter erhebt mutwillige Beschwerde | Kosten dem Vertreter auferlegt | [6B_364/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html) E. 3.3.2 |
-| **Einstellung + missbräuchliche Eingaben** | Beschuldigter verursacht Kosten bei Einstellung | Kosten bei Einstellung auferlegt | [6B_1062/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1062-2018_2019-03-04.html) |
-| **Entsiegelungsverfahren** | Selbständiges Zwangsmassnahmenverfahren | Art. 417 über Art. 416 i.V.m. Art. 421 anwendbar | [BGE 138 IV 225](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html) E. 8.2 |
-| **Verwaltungsstrafrecht** | Entsiegelung im VStrR-Verfahren | Art. 417 als Vergleichsmassstab, aber VStrR spezialgesetzlich | [7B_11/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html) E. 2.2.2 |
+| 1 | Verfahrensbeteiligte Person | Ist die Person Partei (Art. 104 StPO), anderer Verfahrensbeteiligter (Art. 105 StPO) oder Vertreter einer Partei? | B |
+| 2 | Säumnis oder fehlerhafte Verfahrenshandlung | Hat die Person eine Verfahrenspflicht verletzt (Fristen, Termine, Vollmacht, Eingaben, Mitwirkung)? | C |
+| 3 | Objektive Pflichtverletzung | Liegt eine objektive Pflichtverletzung vor? Ein Verschulden ist nicht erforderlich. Bei Rechtsbeiständen: sachlich nicht vertretbares, offensichtlich fehlerhaftes Verhalten? | C, E |
+| 4 | Kausalität | Sind die Kosten adäquat durch die Pflichtverletzung verursacht worden? Nur diese Kosten dürfen auferlegt werden. | D |
+| 5 | Ermessen und Gehör | Ist die Kostenauflage angemessen, und wurde der betroffenen Person das rechtliche Gehör gewährt? | F |
+| 6 | Abgrenzung | Handelt es sich um Art. 426 Abs. 3 lit. a (Fehler der Behörde), Art. 420 (Rückgriff), Art. 427, Art. 428 StPO oder Art. 66 Abs. 3 BGG? | I |
+| 7 | Besondere Verfahren | Selbstständiges Zwangsmassnahmenverfahren, Verwaltungsstrafverfahren? | H |
 
----
+### A. Rechtsnatur: Kausalhaftung für einzelne Verfahrensakte
 
-## Praxishinweise
+**N. 5** Art. 417 StPO ist eine **Kausalhaftung** für einen konkreten Verfahrensakt. Das Bundesgericht hat dies früh im Verhältnis zu den ausgangsbezogenen Kostenregeln herausgearbeitet: Die Bestimmung erlaube, einem Verfahrensbeteiligten die Kosten eines bestimmten Verfahrensakts aufzuerlegen, den er durch Verletzung seiner Pflichten ungültig gemacht hat; sie gewährleiste so einen zügigen Verfahrensablauf und unterscheide sich von der Kostenverlegung nach Abschluss des Verfahrens, die in den Art. 422–429 StPO abschliessend geregelt sei ([BGer 6B_5/2013 vom 19. Februar 2013, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-5-2013_2013-02-19.html), französisch; inhaltlich wiedergegeben).
 
-**Für die Strafverfolgungsbehörden (Staatsanwaltschaft, Gerichte):**
+**N. 6** Als Beispiele nennt dieselbe Erwägung das Nichterscheinen einer vorgeladenen Person, das eine Verschiebung der Verhandlung nötig macht, und die verspätete Vorlage von Beweisen. Das Bundesgericht hat diese Linie seither in zahlreichen Entscheiden bestätigt (z. B. [BGer 7B_58/2025 und 7B_85/2025 vom 7. Februar 2025, E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html); [BGer 7B_918/2025, E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-918-2025_2026-01-22.html)).
 
-1. **Objektive Pflichtverletzung genügt.** Art. 417 StPO erfordert kein Verschulden — die objektive Verletzung einer Verfahrenspflicht reicht aus ([7B_164/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html) E. 4.1; [6B_364/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html) E. 3.3.2). Die Kostenauflage ist eine Kannvorschrift — die Behörde verfügt über Ermessensspielraum, sollte diesen aber bei offensichtlich rechtsmissbräuchlichen Eingaben konsequent nutzen.
+**N. 7** Folge der Rechtsnatur: Wird eine Kostenverfügung (z. B. in einer Nichtanhandnahmeverfügung) allein mit dem Verfahrensausgang begründet, ist Art. 417 StPO nicht die richtige Grundlage. In [BGer 6B_5/2013, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-5-2013_2013-02-19.html) hielt das Bundesgericht Art. 417 StPO für unanwendbar, weil die Staatsanwaltschaft den Anzeigeerstatter nicht wegen eines punktuellen Verfahrensmangels, sondern im Rahmen der Schlusskostenverlegung belastet hatte; in Betracht fiel dort der Rückgriff nach Art. 420 lit. a StPO (N. 40).
 
-2. **Kausalzusammenhang genau prüfen.** Nur die durch die konkrete Pflichtverletzung verursachten Kosten dürfen auferlegt werden ([6B_738/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html) E. 1.4.2). Keine Pauschalkostenauflage — die Kosten müssen individuell zurechenbar sein.
+### B. Verfahrensbeteiligte Person
 
-3. **Vertreter kostenpflichtig.** Auch Rechtsbeistände und gesetzliche Vertreter können nach Art. 417 StPO kostenpflichtig werden, wenn sie die fehlerhafte Verfahrenshandlung zu verantworten haben ([6B_364/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html) E. 3.3.2; [6B_181/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html) E. 2.1). Dies gilt auch, wenn sie selbst nicht Partei des Verfahrens sind.
+**N. 8** Art. 417 StPO richtet sich an die «verfahrensbeteiligte Person». Erfasst sind die **Parteien** (Art. 104 StPO: beschuldigte Person, Privatklägerschaft, im Haupt- und Rechtsmittelverfahren die Staatsanwaltschaft) und die **anderen Verfahrensbeteiligten** (Art. 105 Abs. 1 StPO: geschädigte Person, anzeigeerstattende Person, Zeugin oder Zeuge, Auskunftsperson, Sachverständige und durch Verfahrenshandlungen beschwerte Dritte). Das Bundesgericht gibt diese Zuordnung auch in neueren Entscheiden wieder, einschliesslich der von Zwangsmassnahmen betroffenen Dritten (Art. 105 Abs. 1 lit. f StPO; [BGer 7B_11/2026 vom 25. Juni 2026, E. 2.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html), französisch).
 
-**Für die Verteidigung:**
+**N. 9** **Rechtsbeistände und andere Vertreter** sind im Katalog von Art. 105 StPO nicht erwähnt, gelten aber nach der Rechtsprechung als verfahrensbeteiligte Personen im Sinne von Art. 417 StPO. Das Bundesgericht begründet dies mit dem allgemeinen Grundsatz, dass unnötige Kosten zu bezahlen hat, wer sie verursacht hat, wie er in Art. 66 Abs. 3 BGG ausdrücklich verankert ist, und mit dem Umstand, dass Art. 105 Abs. 1 StPO nicht abschliessend ist. Dies gilt trotz des engeren Wortlauts von Art. 417 StPO auch für kantonale Strafverfahren ([BGer 6B_364/2018 vom 26. Juli 2018, E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html); [BGE 147 IV 526](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-526_2021.html), E. 4, französisch).
 
-4. **Ermessensspielraum geltend machen.** Da Art. 417 StPO eine Kannvorschrift ist, kann gegen eine Kostenauflage eingewendet werden, dass die Behörde ihr Ermessen überschritten oder missbraucht hat. Darzulegen ist, warum die konkrete Kostenauflage unverhältnismässig ist oder warum die Verfahrenshandlung nicht als «fehlerhaft» im Sinne der Norm qualifiziert.
+**N. 10** Auch die **gesetzliche Vertretung** einer unmündigen Partei fällt darunter: In [BGer 6B_364/2018, E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html) wurden die Kosten des kantonalen Beschwerdeverfahrens dem Vater auferlegt, der im Namen seiner Tochter eine als geradezu mutwillig und rechtsmissbräuchlich (Art. 3 Abs. 2 lit. b StPO) beurteilte Beschwerde gegen eine Nichtanhandnahme erhoben hatte. Nach den Kostengrundsätzen der Art. 428 Abs. 1 StPO wären sie an sich der Tochter aufzuerlegen gewesen; das Bundesgericht schützte die Auflage an den Vater.
 
-5. **Abgrenzung zu Art. 420 StPO nutzen.** Wenn die Behörde einen Rückgriff nach Art. 420 StPO (Vorsatz/grobe Fahrlässigkeit) prüft, aber die Voraussetzungen dafür nicht erfüllt sind, kann sie nicht auf Art. 417 StPO ausweichen, um die niedrigere Schwale zu nutzen — die Normen haben unterschiedliche Anwendungsbereiche und -zwecke ([6B_934/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-934-2016_2017-07-13.html) E. 1.4.2; [6B_1255/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1255-2016_2017-05-24.html) E. 3).
+**N. 11** **Staatsanwaltschaft.** Das Bundesgericht hat Art. 417 StPO in [BGer 1B_534/2018 vom 4. April 2019, E. 3.3 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-534-2018_2019-04-04.html) auch auf die Staatsanwaltschaft angewendet. Zugrunde lag eine gutgeheissene Rechtsverzögerungsbeschwerde einer Privatklägerin; die Vorinstanz hatte eine Entschädigung zulasten des Staates abgelehnt, weil sich die Norm nach einem Teil der Lehre nicht auf die untersuchungsführende Staatsanwaltschaft beziehe. Das Bundesgericht folgte dem nicht: Andernfalls wäre der Anspruch auf Beurteilung innert angemessener Frist (Art. 29 Abs. 1 BV) teilweise infrage gestellt, weil eine bedürftige Partei faktisch davon abgehalten würde, gegen eine säumige Staatsanwaltschaft ein Rechtsmittel zu ergreifen. Art. 417 StPO statuiere das Verursacherprinzip «auch für die Staatsanwaltschaft», die im Rechtsmittelverfahren Parteistellung habe (Art. 104 Abs. 1 lit. c StPO) und deshalb auch für Säumnisse im Untersuchungsverfahren entschädigungspflichtig werden könne. Die Rechtsmittelkosten verblieben dem Kanton, und die Privatklägerin erhielt eine Parteientschädigung.
 
----
+**N. 12** In [BGer 7B_11/2026, E. 2.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html) gibt das Bundesgericht dagegen die Aussage wieder, die Bestimmung gelte für eine Partei nach Art. 104 StPO «sous réserve du Ministère public», mit Verweis auf die Kommentierung bei Domeisen (BSK StPO, 3. Aufl. 2023, N. 6 zu Art. 417). Das Urteil zitiert [BGer 1B_534/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-534-2018_2019-04-04.html) an dieser Stelle nicht, und die Frage war dort nicht entscheidend. Für die Praxis gilt damit: Die Haftung der Staatsanwaltschaft nach Art. 417 StPO ist im Bundesgericht für die Entschädigung einer obsiegenden Partei im Rechtsmittelverfahren bejaht; für die Belastung der Staatsanwaltschaft im Übrigen ist die Frage nicht ausdrücklich bereinigt. Hinzu kommt die behördliche Seite von Art. 426 Abs. 3 lit. a StPO (N. 38).
+
+### C. Säumnis oder andere fehlerhafte Verfahrenshandlung
+
+**N. 13** **Säumnis** ist die Nichtvornahme einer Verfahrenshandlung innert Frist oder das Nichterscheinen zu einem Termin (Art. 93 StPO; so wiedergegeben in [BGer 7B_686/2023 vom 23. September 2024, E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-686-2023_2024-09-23.html)). Die Säumnisfolgen selbst (z. B. Art. 407 StPO) sind von der Kostenfolge nach Art. 417 StPO zu trennen.
+
+**N. 14** Als **andere fehlerhafte Verfahrenshandlungen** hat die Rechtsprechung namentlich anerkannt:
+
+- das unentschuldigte Fernbleiben von einer Verhandlung, die deshalb abgebrochen werden muss (N. 29);
+- die verspätete Einsprache gegen einen Strafbefehl, die ein gerichtliches Verfahren auslöst (N. 30);
+- die Einreichung eines Rechtsmittels ohne Ausweis der Bevollmächtigung (N. 24);
+- ein offensichtlich verspätetes Ausstandsgesuch oder eine offensichtlich aussichtslose Eingabe, deren Aussichtslosigkeit bei Beachtung minimaler Sorgfalt erkennbar war (N. 22);
+- eine Falschaussage der beschuldigten Person, soweit sie unnütz verursachte Beweiserhebungen auslöst (N. 31).
+
+**N. 15** Keine fehlerhafte Verfahrenshandlung liegt vor, wenn sich die Person im Rahmen ihrer Verfahrensrechte hält. Ein Beispiel: Nach [BGer 6B_773/2017 vom 21. Februar 2018, E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-773-2017_2018-02-21.html) hatte das Obergericht Obwalden einer Partei die Verfahrenskosten nach Art. 417 StPO mit der Begründung auferlegt, sie habe die Beschwerdefrist verpasst. Das Bundesgericht stellte fest, dass die zehntägige Rechtsmittelfrist erst am 10. Januar 2017 zu laufen begonnen hatte und die Beschwerde vom 19. Januar 2017 rechtzeitig war, und hiess die Beschwerde auch in diesem Punkt gut; die Kostenauflage fiel damit dahin.
+
+**N. 16** Die blosse Erfolglosigkeit eines Rechtsmittels genügt nicht. Auf die Aussichtslosigkeit abzustellen setzt voraus, dass sie bei Beachtung minimaler Sorgfalt auf Anhieb erkennbar war (N. 22). Auch das Bundesgericht verlangt für die Kostenauflage an einen Rechtsbeistand ein sachlich nicht vertretbares oder offensichtlich fehlerhaftes Prozessverhalten (N. 21).
+
+### D. Objektive Pflichtverletzung, Verschulden und Kausalität
+
+**N. 17** **Objektive Pflichtverletzung genügt.** «Die objektive Verletzung von Verfahrenspflichten reicht für die Kostenauflage aus, ein schuldhaftes Verhalten ist nicht erforderlich» ([BGer 7B_164/2022, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html); gleich [BGer 6B_364/2018, E. 3.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html); [BGer 6B_738/2015, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html); [BGer 7B_686/2023, E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-686-2023_2024-09-23.html)). Das unterscheidet die Norm vom Rückgriff nach Art. 420 StPO, der Vorsatz oder grobe Fahrlässigkeit voraussetzt.
+
+**N. 18** **Abweichende Äusserung zum Verschulden.** In [BGE 143 IV 373](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html), E. 1.4.2 (= BGer 6B_934/2016 vom 13. Juli 2017), wurde im Zusammenhang mit der Verletzung des Beschleunigungsgebots festgehalten, es liege keine «fehlerhafte Verfahrenshandlung» gemäss Art. 426 Abs. 3 lit. a bzw. Art. 417 StPO vor, die eine teilweise Kostenauflage an den Kanton erlauben würde; «solches setzt im Übrigen ein Verschulden voraus, während die Folgen einer Verletzung des Beschleunigungsgebots von einem Verschulden unabhängig sind». Der Satz ist in [BGer 6B_430/2019 vom 19. August 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-430-2019_2019-08-19.html) (E. 3) unter Verweis auf BGE 143 IV 373 wiederholt worden. Er betrifft die Frage, ob der **Kanton** Kosten wegen einer Verfahrensverzögerung tragen soll. Für die Haftung einer verfahrensbeteiligten Person (N. 17) hat das Bundesgericht ein Verschulden nie verlangt; die Aussagen lassen sich daher nach ihrem Gegenstand unterscheiden, auch wenn die Formulierung auf den ersten Blick widersprüchlich wirkt.
+
+**N. 19** **Kausalität.** Zwischen Pflichtverletzung und Verfahrenskosten muss ein Kausalzusammenhang bestehen. «Nur die adäquat durch die fehlerhafte Verfahrenshandlung verursachten Kosten» können der verursachenden Person auferlegt werden ([BGer 6B_738/2015, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html); [BGer 7B_164/2022, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html)). Das ist die Konsequenz der Beschränkung auf einen «bestimmten» Verfahrensakt und schliesst eine pauschale Kostenauflage aus. Ein Beispiel für die Anwendung: Bei einer Säumnis im Einspracheverfahren sind auch die Kosten des Wiederherstellungsverfahrens adäquat kausal verursacht (N. 33).
+
+### E. Rechtsbeistand und Verteidiger
+
+**N. 20** **Grundsatz.** Das Bundesgericht lässt die Kostenauflage an Rechtsbeistände zu, begrenzt sie aber bewusst: Sie «soll … auf offenkundige Säumnisse und andere Extremfälle von anwaltlichem Fehlverhalten beschränkt bleiben bzw. nur zurückhaltend angewandt werden» ([BGer 6B_181/2023, E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html); bestätigt in [BGer 7B_58/2025 und 85/2025, E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html); [BGer 7B_918/2025, E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-918-2025_2026-01-22.html); [BGer 7B_1297/2025 vom 2. März 2026, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1297-2025_2026-03-02.html)).
+
+**N. 21** **Massstab.** Als schwere Pflichtverletzung fällt «nur sachlich nicht vertretbares bzw. offensichtlich fehlerhaftes Prozessverhalten der Verteidigung» in Betracht; massgebend ist, ob ein «eigentlicher Kunstfehler» der Rechtsvertretung vorliegt ([BGer 7B_1297/2025, E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1297-2025_2026-03-02.html); [BGer 7B_918/2025, E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-918-2025_2026-01-22.html)). Das Bundesgericht begründet die Zurückhaltung mit dem erheblichen Ermessen, das dem Rechtsbeistand bei der Ausgestaltung der Prozessführung zukommt, um den Anspruch auf wirksame Verteidigung zu gewährleisten ([BGer 6B_181/2023, E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html)).
+
+**N. 22** **Bejahte Fälle.**
+
+- *Haftbeschwerde, teilweise rechtsmissbräuchlich.* Im Haftverlängerungsverfahren hatte der Verteidiger beim Obergericht Zürich beantragt, die Staatsanwaltschaft sei zu einer Angabe der Haftdauer aufzufordern und das Verfahren zu wiederholen, ohne die Haftentlassung zu beantragen. Das Obergericht auferlegte ihm die Hälfte der Gerichtsgebühr persönlich; das Bundesgericht erachtete die Rüge als rechtsmissbräuchlich und die Kostenauflage als bundesrechtskonform ([BGer 7B_58/2025 und 85/2025, E. 4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html)).
+- *Wiederholte Eingabe ohne neue Unterlagen.* Der Rechtsvertreter stellte während eines hängigen Bundesgerichtsverfahrens erneut ein Gesuch um amtliche Verteidigung mit derselben Argumentation und denselben ungenügenden Unterlagen; das Obergericht Zürich hatte ihm zwei Drittel der Kosten auferlegt. Das Bundesgericht nahm einen «evidenter anwaltlicher Kunstfehler» an ([BGer 7B_1297/2025, E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1297-2025_2026-03-02.html)).
+- *Offensichtlich verspätetes Ausstandsgesuch.* Das Obergericht Bern auferlegte dem Rechtsvertreter die Kosten, weil er bei Beachtung minimaler Sorgfaltspflichten auf Anhieb hätte erkennen können, dass das Ausstandsgesuch offensichtlich verspätet war. Das Bundesgericht prüfte dies nur unter den gerügten Konventionsgarantien (Art. 10, 17 und 18 EMRK) und wies die Beschwerde ab ([BGer 1B_45/2019 vom 20. Februar 2019, E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-45-2019_2019-02-20.html)). Eine parallele Konstellation (mehrere Ausstandsgesuche mit gleichartiger Begründung) liegt [BGer 1B_275/2018 vom 28. Juni 2018, E. 8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-275-2018_2018-06-28.html) zugrunde; dort ging es ebenfalls nur um die Konventionsgarantien, nicht um die Auslegung von Art. 417 StPO.
+- *Vollmachtloser Vertreter.* Die Berufungskammer des Bundesstrafgerichts auferlegte einem Rechtsanwalt die Gerichtsgebühr von Fr. 800.-- persönlich, weil er für eine Gesuchstellerin keine Vollmacht eingereicht und für den zweiten Gesuchsteller ein aussichtsloses Revisionsgesuch ohne Substanziierung der Revisionsgründe gestellt hatte (Beschluss [BStGer CR.2023.4 vom 20. April 2023, E. 4.4](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_CR-2023-4_2023-04-20.pdf); PDF, kein Pinpoint-Anker).
+
+**N. 23** **Verneinte Fälle.**
+
+- *Teilrückzug der Berufung am Vortag der Verhandlung.* Das Obergericht Obwalden hatte dem Verteidiger 1/6 der Berufungskosten auferlegt (Fr. 1'150.40), weil der Rückzug erst einen Tag vor der Verhandlung erfolgte. Das Bundesgericht hiess die Beschwerde des Verteidigers gut: Der Rückzug ist bis zum Abschluss der Parteiverhandlungen zulässig (Art. 386 Abs. 2 lit. a StPO), der Verteidiger verstiess nicht «in besonders krasser Weise» gegen Verfahrenspflichten, und die beschuldigte Person hätte die Berufung auch ohne Begründung ganz zurückziehen können ([BGer 6B_181/2023, E. 2.3 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html)).
+- *Beweisanträge erst an der Hauptverhandlung.* Das Bezirksgericht Aarau hatte dem amtlichen Verteidiger Mehrkosten von Fr. 1'000.-- für die abgebrochene und zu verschiebende Hauptverhandlung auferlegt. Das Bundesgericht hiess die Beschwerde gut. Zwar sei die Nichteinhaltung der Frist nach Art. 331 Abs. 2 StPO die Verletzung einer Verfahrenspflicht, die eine Kostenauflage nach Art. 417 StPO rechtfertigen könne; im blossen Umstand, dass die Verteidigung die Anträge erst an der Hauptverhandlung stellte, liege aber grundsätzlich keine schwere Pflichtverletzung, denn Beweisanträge können bis zum Abschluss des gerichtlichen Beweisverfahrens gestellt werden und dürfen nicht allein wegen verspäteter Geltendmachung abgewiesen werden. Offengelassen wurde, ob bei konkreten Anzeichen einer absichtlichen Verfahrensverzögerung etwas anderes gälte ([BGer 7B_918/2025, E. 2.3 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-918-2025_2026-01-22.html)).
+
+**N. 24** **Vollmacht und Legitimation.** Wer ein Rechtsmittel für eine Vielzahl von Personen erhebt, ohne die Bevollmächtigung nachzuweisen, verursacht aufwändige und unnötige Vorkehrungen des Gerichts. In [BGer 7B_164/2022, E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html) bestätigte das Bundesgericht die Auflage von zwei Dritteln der Kosten an einen Anwalt, der für eine Privatklägerin und 426 weitere «Geschädigte» Beschwerde gegen eine Einstellungsverfügung erhoben, aber trotz Fristerstreckung weder Vollmachten noch eine Liste der Vertretenen noch einen Kostenvorschuss geliefert hatte. Dem war eine erste Gutheissung vorangegangen ([BGer 6B_434/2020 vom 14. September 2021, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-434-2020_2021-09-14.html)): Die erste Kostenauflage war aufzuheben, weil der Spruchkörper nachträglich ohne sachlichen Grund geändert worden war (Art. 30 Abs. 1 BV). Das Bundesgericht wies die Vorinstanz an, die Kausalität zu beachten und dem Betroffenen vor einer beabsichtigten Kostenauflage das rechtliche Gehör zu gewähren, «zumal es sich bei Art. 417 StPO um eine Kann-Vorschrift handelt».
+
+**N. 25** Ähnlich lag der Fall in [BGer 6B_113/2022 vom 14. März 2022, E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-113-2022_2022-03-14.html): Das Obergericht Zürich hatte die Kosten der als Vertreterin eines Vereins auftretenden Person persönlich auferlegt, weil sie keine Prozessvollmacht eingereicht hatte. Das Bundesgericht trat auf die Beschwerde mangels genügender Begründung nicht ein; eine Aussage zur Rechtmässigkeit der Auflage ist dem Entscheid nicht zu entnehmen.
+
+**N. 26** **Rechtsmittel des Rechtsbeistands.** Der Rechtsbeistand ist durch die Kostenauflage persönlich beschwert und kann sie mit Beschwerde in Strafsachen anfechten, auch wenn er nicht zu den in Art. 81 Abs. 1 lit. b BGG beispielhaft aufgezählten Personen gehört; der kantonale Entscheid ist ihm gegenüber ein anfechtbarer Endentscheid (Art. 90 BGG), selbst wenn er das Strafverfahren nicht abschliesst ([BGer 7B_1297/2025, E. 1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1297-2025_2026-03-02.html); [BGer 7B_58/2025 und 85/2025, E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-58-2025_2025-02-07.html)).
+
+### F. Kannvorschrift, Ermessen und rechtliches Gehör
+
+**N. 27** Art. 417 StPO ist als Kannvorschrift formuliert, doch hat das Bundesgericht den Ermessensspielraum gegenüber der Partei eng gefasst: Obwohl die Bestimmung als «Kann-Vorschrift» formuliert sei, sei «von einer Kostenauflage an die verursachende Partei nur in Ausnahmefällen, aus Billigkeitsgründen, abzusehen» ([BGer 6B_738/2015, E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html), mit Hinweisen auf Pitteloud, Domeisen und Riklin). Anders verhält es sich beim Rechtsbeistand, wo die Zurückhaltung die Regel ist (N. 20 f.).
+
+**N. 28** **Rechtliches Gehör.** Das Bundesgericht hält es für angezeigt, der betroffenen Person vor einer beabsichtigten Kostenauflage Gelegenheit zur Stellungnahme zu geben ([BGer 6B_434/2020, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-434-2020_2021-09-14.html)). Die Auflage muss zudem nachvollziehbar begründet sein; die Begründungspflicht ist nach [BGer 7B_164/2022, E. 4.2–4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-164-2022_2023-08-14.html) erfüllt, wenn aus dem Entscheid die wesentlichen Überlegungen hervorgehen, nämlich welche Vorkehrungen die Pflichtverletzung nötig machte und weshalb die Kosten nur anteilig auferlegt wurden.
+
+### G. Fallgruppen ausserhalb der Rechtsbeistände
+
+**N. 29** **Nichterscheinen zur Verhandlung.** Erscheint die beschuldigte Person trotz ordnungsgemässer Vorladung unentschuldigt nicht zur Berufungsverhandlung, obwohl das Gericht ihre Befragung beabsichtigt, und muss die Verhandlung deshalb abgebrochen werden, trägt sie die Kosten dieser Verhandlung. In [BGer 7B_686/2023, E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-686-2023_2024-09-23.html) (Berufungskammer des Bundesstrafgerichts; Verwaltungsräte, Art. 271 Ziff. 1 StGB) bestätigte das Bundesgericht dies, obwohl die beschuldigte Person im Ergebnis freigesprochen wurde: «Die Bestimmung greift ungeachtet des Verfahrensausgangs, weshalb der vorliegende Freispruch an der Kostenpflicht nichts zu ändern vermag.» Die Auferlegung der Kosten präjudiziert nach dem Entscheid zugleich die Entschädigungsfrage: Wer die Kosten trägt, erhält dafür keine Entschädigung (E. 3.5.3 mit Verweis auf BGE 147 IV 47 E. 4.1). Die Pflicht zum persönlichen Erscheinen bestand, weil das Gericht eine Befragung als Beweismassnahme vorsah (E. 3.5.2).
+
+**N. 30** **Verspätete Einsprache gegen einen Strafbefehl.** Das Bundesstrafgericht wendet Art. 417 StPO regelmässig an, wenn es auf eine verspätete Einsprache nicht eintritt: Die beschuldigte Person hat durch die ungültige Einsprache das gerichtliche Verfahren und damit dessen Kosten verursacht (z. B. [BStGer SK.2024.57 vom 9. Mai 2025](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-57_2025-05-09.pdf), Pauschalgebühr Fr. 500.--; PDF, kein Pinpoint-Anker). Der Strafbefehl wird dann zum rechtskräftigen Urteil (Art. 354 Abs. 3 StPO); die Kosten des Gerichtsverfahrens folgen der Verursachung.
+
+**N. 31** **Falschaussage der beschuldigten Person.** Die beschuldigte Person trifft keine Wahrheitspflicht. An eine Falschaussage im Sinne einer reinen Selbstbegünstigung dürfen «mit Ausnahme einer allfälligen Kostenauflage für unnütz verursachte Beweiserhebungen (Art. 417 StPO) keine Sanktionen geknüpft werden» ([BGer 6B_336/2013 vom 14. Februar 2014, E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-336-2013_2014-02-14.html); wiederholt in [BGer 6B_518/2014 vom 4. Dezember 2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-518-2014_2014-12-04.html) und [BGer 6B_1189/2023 vom 19. Januar 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1189-2023_2026-01-19.html)). Die Fälle betreffen die Sanktionsfreiheit der Selbstbegünstigung; zur Anwendung der Kostenauflage im Einzelfall enthalten sie keine Ausführungen. Das Verbot, Dritte wider besseres Wissen zu bezichtigen, bleibt davon unberührt.
+
+**N. 32** **Anzeigeerstatter.** Der Anzeigeerstatter ist verfahrensbeteiligte Person (Art. 105 Abs. 1 lit. b StPO). In [BGer 6B_5/2013, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-5-2013_2013-02-19.html) hielt das Bundesgericht fest, dass Art. 417 StPO dem Anzeigeerstatter als verfahrensbeteiligter Person (Art. 105 Abs. 1 lit. b StPO) entgegengehalten werden kann, im konkreten Fall aber nicht anwendbar war (N. 7); in der Lehre war umstritten, ob die Norm nur bei Bösgläubigkeit des Anzeigeerstatters greift oder ob der Rückgriff nach Art. 420 StPO vorgeht; stattdessen kam der Rückgriff nach Art. 420 lit. a StPO in Betracht, den es bejahte, weil der Anzeigeerstatter die Anzeige zweckwidrig, nämlich zur Beantwortung von Fragen über seine Kinder, eingereicht und damit die Einleitung durch grobe Fahrlässigkeit bewirkt hatte (E. 2.6 f.). Zu den Antragsdelikten und der restriktiven Kostenauflage an die antragstellende Person siehe Art. 427 Abs. 2 StPO und [BGE 138 IV 248, E. 4.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-248_2012.html), der die Interessenlage des Antragstellers mit derjenigen eines Anzeigeerstatters bei einem Offizialdelikt vergleicht, die «nur unter den restriktiven Voraussetzungen von Art. 427 Abs. 1 bzw. Art. 417 StPO» zur Kostenübernahme verpflichtet werden könne.
+
+**N. 33** **Wiederherstellung.** Weist das Gericht ein Wiederherstellungsgesuch ab, können die Kosten des Wiederherstellungsverfahrens nach Art. 417 StPO dem Gesuchsteller auferlegt werden. Das Obergericht Bern hatte die Anwendbarkeit mit dem Argument verneint, das Gesuch sei ein selbstständiger Rechtsbehelf und weder Säumnis noch fehlerhafte Verfahrenshandlung. Das Bundesgericht folgte dem nicht: Einem Wiederherstellungsgesuch liege stets eine Säumnis in einem vorangegangenen Verfahren zugrunde, die für die Durchführung des Wiederherstellungsverfahrens adäquat kausal sei ([BGer 6B_738/2015, E. 1.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-738-2015_2015-11-11.html); dort war der Beschwerdegegner zur Hauptverhandlung im Einspracheverfahren unentschuldigt nicht erschienen).
+
+**N. 34** **Unnötiger Mehraufwand bei Fristeinhaltung.** Dass Beweisabnahmen zur Klärung der Fristeinhaltung zusätzliche Kosten verursachen können, hat das Bundesgericht in [BGE 147 IV 526](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-526_2021.html), E. 4, angesprochen (Regeste b; = BGer 6B_1247/2020 vom 7. Oktober 2021): Muss zur Widerlegung der Vermutung des Poststempels Beweis abgenommen werden (Befragung von Zeugen, Sichtung eines Videos), verursacht das zusätzliche Kosten, die grundsätzlich als unnötig generierter Aufwand gelten. Im Verfahren vor Bundesgericht gilt Art. 66 Abs. 3 BGG, in den kantonalen Verfahren führe Art. 417 StPO zu einem ähnlichen Ergebnis. Als Verantwortlicher kommt auch der Anwalt in Betracht, dessen Vorgehen die Vermutung der Verspätung begründet hat.
+
+### H. Selbstständige Zwangsmassnahmenverfahren und Verwaltungsstrafrecht
+
+**N. 35** **Entsiegelung.** Die Kosten eines selbstständigen erstinstanzlichen Zwangsmassnahmenverfahrens (z. B. Entsiegelung) können nach der Rechtsprechung nicht gestützt auf Art. 428 StPO auferlegt werden; bis zum Abschluss des Strafverfahrens trägt grundsätzlich der Kanton die Kosten (Art. 423 Abs. 1 StPO; [BGE 138 IV 225](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-225_2012.html), E. 8; [BGer 7B_206/2024 vom 2. März 2026, E. 6.4–6.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-206-2024_2026-03-02.html), zur Publikation vorgesehen). Eine allgemeine gesetzliche Grundlage für eine selbstständige Kostenauferlegung zulasten anderer Verfahrensbeteiligter, namentlich nicht beschuldigter Dritter, fehlt; **vorbehalten bleiben Art. 417 und Art. 420 StPO** (E. 6.4).
+
+**N. 36** Art. 417 StPO ist damit die einzige Brücke, über die im Entsiegelungsverfahren schon vor Abschluss des Hauptverfahrens Kosten auferlegt werden können. Die Voraussetzungen müssen aber konkret dargetan sein: Im Fall [BGer 7B_206/2024, E. 6.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-206-2024_2026-03-02.html) hatte die Vorinstanz nicht vorgebracht, es handle sich um einen Anwendungsfall von Art. 417 oder 420 StPO, und der Sachverhalt bot keine Anhaltspunkte; die Kostenauflage verstiess gegen Bundesrecht. Ebenso in [BGer 7B_450/2025 vom 22. Mai 2026, E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-450-2025_2026-05-22.html): Das Zwangsmassnahmengericht hatte der beschuldigten Person im Zwischenentscheid die Kosten mit der Begründung auferlegt, sie habe das Entsiegelungsverfahren mutmasslich nur zur Verzögerung geführt. Soweit ein missbräuchliches Prozessverhalten vorgeworfen werde, wären die Voraussetzungen von Art. 417 oder 420 StPO hinreichend darzutun; der Entscheid enthielt dazu keine hinreichenden Feststellungen, und die Annahme eines rechtsmissbräuchlichen oder verfahrensverzögernden Verhaltens erschien angesichts des Hinweises auf anwaltliche Korrespondenz bereits bei der Siegelung offensichtlich unhaltbar. Zur Vorwegnahme im Zwischenentscheid siehe Art. 421 Abs. 2 lit. a StPO; sie beantwortet nach [BGer 7B_11/2026, E. 2.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html) nicht die Frage, wer die Kosten trägt.
+
+**N. 37** **Verwaltungsstrafrecht.** Im gerichtlichen Verfahren verweist Art. 97 Abs. 1 VStrR für die Kosten auf Art. 417–428 StPO ([BGer 6B_170/2016 vom 5. August 2016, E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-170-2016_2016-08-05.html); [BGer 7B_11/2026, E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html)). Nach [BGer 7B_11/2026, E. 2.4–2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html) (französisch; Entsiegelung zugunsten von Drittgesellschaften in einem Verfahren der Eidgenössischen Steuerverwaltung) kann die Rechtsprechung zu Art. 417 StPO nicht ohne Weiteres auf die Entscheide der Verwaltungsbehörde übertragen werden: Deren Kostenauflage richtet sich nach Art. 95 VStrR und lässt keine Belastung unbeteiligter Dritter zu. Die Beschwerdekammer des Bundesstrafgerichts, die als erstinstanzliche gerichtliche Siegelungsbehörde in einem selbstständigen Verfahren entscheidet, wendet dafür die Art. 417–426 StPO unter Ausschluss von Art. 428 StPO an und muss die Kosten selbst verteilen, statt sie auf das Ende des Verwaltungsstrafverfahrens zu verschieben. Das Bundesgericht hiess die Beschwerde der Steuerverwaltung gut und wies die Sache zurück.
+
+### I. Abgrenzungen
+
+**N. 38** **Art. 426 Abs. 3 lit. a StPO (Fehler der Behörde).** Die beschuldigte Person trägt die Verfahrenskosten nicht, die der Bund oder der Kanton «durch unnötige oder fehlerhafte Verfahrenshandlungen verursacht hat» (Art. 426 Abs. 3 lit. a StPO). Das ist die Kehrseite zu Art. 417 StPO: Art. 417 betrifft Fehler der Beteiligten, Art. 426 Abs. 3 lit. a StPO Fehler der Strafbehörden bzw. des Gemeinwesens. Nach [BGer 6B_130/2020 vom 17. September 2020, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-130-2020_2020-09-17.html) liegt dies etwa vor, wenn eine Behörde einen materiell- oder verfahrensrechtlichen Verstoss begangen hat, der im Rechtsmittelverfahren korrigiert werden muss, oder wenn wegen Formfehlern Verfahrenshandlungen wiederholt werden müssen; die Zustellung einer Beschwerde an die anderen Parteien nach Art. 390 Abs. 2 StPO war dort keine fehlerhafte Verfahrenshandlung. Zur Anwendung von Art. 426 Abs. 3 lit. a StPO beim Strafbefehl und bei der Einsprache siehe [BGer 6B_1290/2021 vom 31. März 2022, E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1290-2021_2022-03-31.html) (Art. 417 StPO wird dort nicht erwähnt).
+
+**N. 39** **Ausgangsbezogene Kostenregeln.** Art. 426 f. StPO (Kosten der beschuldigten Person bzw. der Privatklägerschaft und der antragstellenden Person) und Art. 428 StPO (Rechtsmittelverfahren) knüpfen an den Ausgang an; Art. 417 StPO tut dies gerade nicht ([BGer 6B_5/2013, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-5-2013_2013-02-19.html)). Wer in einem Rechtsmittelverfahren unterliegt, trägt die Kosten nach Art. 428 Abs. 1 StPO; Art. 417 StPO wirkt zusätzlich und erlaubt es, einzelne Kosten einer anderen Person (z. B. dem Rechtsbeistand) aufzuerlegen, ohne dass die Auflage an den Ausgang geknüpft ist. Das Bundesgericht hat auch klargestellt, dass die Auflage an die verursachende Person nicht deshalb ausgeschlossen ist, weil sie das Verfahren gewinnt (N. 29).
+
+**N. 40** **Rückgriff nach Art. 420 StPO.** Der Rückgriff nach Art. 420 StPO setzt Vorsatz oder grobe Fahrlässigkeit voraus und betrifft die Kosten, die der Bund oder der Kanton bereits getragen hat; Rückgriffsgründe sind die Veranlassung der Verfahrenseinleitung (lit. a), die erhebliche Erschwerung des Verfahrens (lit. b) und die Verursachung eines im Revisionsverfahren aufgehobenen Entscheids (lit. c). Er kann in der Endentscheidung angeordnet werden, wenn er Verfahrensbeteiligte betrifft, andernfalls in einem separaten Entscheid ([BGer 7B_11/2026, E. 2.2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-11-2026_2026-06-25.html), unter Hinweis auf BGer 6B_5/2013 E. 2.6). Für den Anzeigeerstatter siehe N. 32. Art. 417 StPO hat daher den **tieferen Haftungsmassstab** (objektive Pflichtverletzung), dafür den **engeren Gegenstand** (ein bestimmter Verfahrensakt).
+
+**N. 41** **Art. 66 Abs. 3 BGG und Art. 428 StPO.** Im Verfahren vor Bundesgericht gilt das Verursacherprinzip nach Art. 66 Abs. 3 BGG («unnötige Kosten bezahlt, wer sie verursacht»); das Bundesgericht hat für die Kostenauflage an Rechtsvertreter die dazu entwickelte Praxis (BGE 129 IV 206 E. 2: offensichtlich unzulässiges Rechtsmittel bei Beachtung elementarster Sorgfalt) in die Auslegung von Art. 417 StPO übernommen ([BGer 6B_364/2018, E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-364-2018_2018-07-26.html); [BGer 6B_181/2023, E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-181-2023_2024-05-16.html)). Dass Art. 417 StPO nicht auf ein Verhalten der Behörde gestützt werden kann, hielt das Bundesgericht auch in [BGer 1B_202/2014 vom 23. Juli 2014, E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-202-2014_2014-07-23.html) fest (französisch): Die Bestimmung erlaubt die Belastung eines Verfahrensbeteiligten mit den Kosten eines Verfahrensakts, den dieser – und nicht die Behörde – ungültig gemacht hat; die Auflage der kantonalen Kosten nach Art. 428 StPO verletzte kein Bundesrecht.
+
+**N. 42** **Ordnungsbusse.** Art. 417 StPO ersetzt keine Disziplinarmassnahme. Gegen Personen, die den Geschäftsgang stören, den Anstand verletzen oder verfahrensleitende Anordnungen missachten, kann die Verfahrensleitung nach Art. 64 StPO eine Ordnungsbusse bis zu 1000 Franken verhängen. Art. 417 StPO ist demgegenüber eine kostenrechtliche Bestimmung.
+
+### J. Praxishinweise
+
+**Für Staatsanwaltschaften und Gerichte**
+
+1. **Konkretisieren.** Die Kostenauflage verlangt die Bezeichnung des fehlerhaften Verfahrensakts, der dadurch verursachten Kosten und der Kausalität (BGer 6B_738/2015, E. 1.4.2; 7B_164/2022, E. 4.1). Fehlen hinreichende Feststellungen, hebt das Bundesgericht die Auflage auf (7B_450/2025, E. 3.3; 7B_206/2024, E. 6.6).
+2. **Gehör gewähren.** Vor der Auferlegung an eine konkret betroffene Person ist ihr Gelegenheit zur Stellungnahme zu geben (6B_434/2020, E. 2.4).
+3. **Zurückhaltung bei Rechtsbeiständen.** Die Auflage ist nur bei offenkundigen Säumnissen und eigentlichen Kunstfehlern gerechtfertigt; vertretbare Prozessführung ist kein Anlass (7B_1297/2025, E. 2.2; 6B_181/2023, E. 2.3; 7B_918/2025, E. 2.4).
+4. **Nicht für Endkostenverlegung.** Die Schlusskostenverlegung folgt Art. 422 ff. StPO; Art. 417 StPO betrifft einzelne Verfahrensakte (6B_5/2013, E. 2.4).
+5. **Zwangsmassnahmenverfahren.** Keine Auflage nach Art. 428 StPO; Art. 417 StPO nur bei hinreichend dargelegtem Fehlverhalten (7B_206/2024; 7B_450/2025).
+
+**Für die Verteidigung und andere Rechtsbeistände**
+
+1. **Vollmachten und Fristen sichern.** Rechtsmittel ohne Ausweis der Vertretungsbefugnis oder verspätete Ausstandsgesuche sind die typischen Auslöser persönlicher Kostenauflagen (7B_164/2022; 1B_45/2019; BStGer CR.2023.4).
+2. **Aussichten vorab prüfen.** Ein offensichtlich aussichtsloser oder rechtsmissbräuchlicher Antrag, der bei elementarer Sorgfalt erkennbar war, kann zur persönlichen Haftung führen (7B_58/2025, E. 4.3 f.; 1B_45/2019, E. 5).
+3. **Prozessuale Rechte wahrnehmen ist keine Pflichtverletzung.** Beweisanträge an der Hauptverhandlung und der späte Teilrückzug eines Rechtsmittels allein rechtfertigen keine Kostenauflage (7B_918/2025; 6B_181/2023). Kommt eine Auflage in Betracht, sollte die Verteidigung auf ihr Ermessen bei der Prozessführung und auf die Rechtsprechung zum «Kunstfehler» hinweisen.
+4. **Anfechtbarkeit.** Der Rechtsbeistand kann die persönliche Kostenauflage selbst mit Beschwerde in Strafsachen anfechten (7B_1297/2025, E. 1).
+
+**Für beschuldigte Personen**
+
+1. **Erscheinen.** Unentschuldigtes Fernbleiben von einer Verhandlung mit Befragungsabsicht führt zur Kostenauflage, auch bei späterem Freispruch (7B_686/2023, E. 3.5).
+2. **Einsprachefrist.** Eine verspätete Einsprache löst ein Gerichtsverfahren aus, dessen Kosten der Beschuldigten nach Art. 417 StPO auferlegt werden (z. B. BStGer SK.2024.57).
+
+**Für Anzeigeerstatter und Privatklägerschaft**
+
+Nach 6B_5/2013 ist Art. 417 StPO nicht die Grundlage für die Schlusskostenverlegung bei einer Nichtanhandnahme; in Betracht kommt der Rückgriff nach Art. 420 StPO (N. 7, 32).
 
 ## Querverweise
 
-- [Art. 416 StPO](https://glossagens.ch/kommentar/stpo/art-416/) — Geltungsbereich des Kosten-/Entschädigungstitels
-- [Art. 420 StPO](https://glossagens.ch/kommentar/stpo/art-420/) — Rückgriff des Staates (Vorsatz/grobe Fahrlässigkeit)
-- [Art. 426 StPO](https://glossagens.ch/kommentar/stpo/art-426/) — Kostentragung bei Verurteilung
-- [Art. 428 StPO](https://glossagens.ch/kommentar/stpo/art-428/) — Kostentragung im Rechtsmittelverfahren
-- [Art. 248 StPO](https://glossagens.ch/kommentar/stpo/art-248/) — Entsiegelungsverfahren
-- [Art. 66 Abs. 3 BGG](https://glossagens.ch/kommentar/bgg/art-066/) — Verursacherprinzip vor dem Bundesgericht
+- [Art. 416 StPO](https://glossagens.ch/kommentar/stpo/art-416/) — Geltungsbereich des Kostentitels
+- [Art. 420 StPO](https://glossagens.ch/kommentar/stpo/art-420/) — Rückgriff des Gemeinwesens
+- [Art. 426 StPO](https://glossagens.ch/kommentar/stpo/art-426/) — Kostentragung der beschuldigten Person
+- [Art. 428 StPO](https://glossagens.ch/kommentar/stpo/art-428/) — Kosten im Rechtsmittelverfahren
+- [Art. 248 StPO](https://glossagens.ch/kommentar/stpo/art-248/) — Entsiegelung
+- [Rechtsprechung zu Art. 417 StPO](https://glossagens.ch/kommentar/stpo/art-417/rechtsprechung/)
 
 ## Literatur
 
-- **Donatsch Andrew / Hansjakob Thomas / Hug Tobias**, in: Kommentar zur Schweizerischen Strafprozessordnung (StPO), Zürich 2014, Art. 417 N. 1 ff.
-- **Schwander Pierre**, in: Basler Kommentar Strafprozessordnung, Basel 2011, Art. 417 N. 1 ff.
-- Botschaft vom 28. Juni 2006 zur Schweizerischen Strafprozessordnung (BBl 2006 1085).
+Nur Literatur, die in den ausgewerteten Bundesgerichtsentscheiden zu Art. 417 StPO zitiert ist; nicht im Originaltext eingesehen:
+
+- **Domeisen Thomas**, in: Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl. 2023, N. 3, 4, 6, 10, 13 zu Art. 417 StPO (zitiert in BGer 6B_181/2023, 7B_918/2025, 7B_11/2026).
+- **Griesser Yvona**, in: Kommentar zur Schweizerischen Strafprozessordnung (StPO), 3. Aufl. 2020, N. 4 f. zu Art. 417 StPO (zitiert in BGer 6B_181/2023, 7B_918/2025).
+- **Jositsch Daniel / Schmid Niklaus**, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl. 2023, N. 2 zu Art. 417 StPO (zitiert in BGer 6B_181/2023, 7B_918/2025).
+- **Crevoisier Jean / Crevoisier Laurent**, in: Commentaire romand, Code de procédure pénale suisse, 2. Aufl. 2019, N. 5 zu Art. 417 StPO (zitiert in BGer 7B_918/2025).
+- **Moreillon Laurent / Parein-Reymond Aude**, Petit Commentaire, Code de procédure pénale, 3. Aufl. 2025, N. 2, 4, 5 zu Art. 417 StPO (zitiert in BGer 7B_11/2026, 7B_918/2025).
+- **Arnold Irene**, Die Verfahrenskosten gemäss Schweizerischer Strafprozessordnung, 2018, S. 117 (zitiert in BGer 7B_918/2025).
+- Botschaft vom 21. Dezember 2005 zur Vereinheitlichung des Strafprozessrechts, BBl 2006 1085 ff. (Stellen zu Art. 417 nur nach BGer 6B_5/2013 und 7B_918/2025).
