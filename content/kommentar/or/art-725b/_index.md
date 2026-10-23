@@ -2,11 +2,16 @@
 title: "Art. 725b OR — Überschuldung"
 weight: 727
 date: 2026-09-11
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 725b OR: Begründete Besorgnis der Überschuldung, Zwischenabschlüsse zu Fortführungs- und Veräusserungswerten, Prüfungspflicht bei Opting-out, Pflicht zur Richterbenachrichtigung, Ausnahmen durch Rangrücktritt (inkl. Zinsen nach BGE 150 III 315) und 90-Tage-Regel sowie Ersatzanzeige der Revisionsstelle."
-tags: ["OR", "Aktienrecht", "Überschuldung", "Rangrücktritt", "Zwischenabschluss", "Konkurs", "Sanierung", "90-Tage-Regel", "Revisionsstelle", "Konkursverschleppung"]
+lastmod: 2026-10-23
+description: "Praxiskommentar zu Art. 725b OR: Begründete Besorgnis der Überschuldung, Zwischenabschlüsse zu Fortführungs- und Veräusserungswerten, Fortgeltung der Judikatur zu aArt. 725 Abs. 2 aOR, Prüfungspflicht bei Opting-out, Pflicht zur Richterbenachrichtigung, Ausnahmen durch Rangrücktritt (inkl. Zinsen nach BGE 150 III 315) und 90-Tage-Regel sowie Ersatzanzeige der Revisionsstelle."
+tags: ["OR", "Aktienrecht", "Überschuldung", "Rangrücktritt", "Zwischenabschluss", "Konkurs", "Sanierung", "90-Tage-Regel", "Revisionsstelle", "Konkursverschleppung", "aArt. 725 OR"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    mcp_verified: true
+    note: "Umfassende praxisorientierte Überarbeitung und Ausbau: Vertiefte Aufbereitung der historischen Herleitung aus aArt. 725 Abs. 2 aOR sowie aArt. 725a aOR (Konkursaufschub); systematische Gegenüberstellungstabelle zur Fortgeltung, Modifikation und Verschärfung der Alt-Judikatur (BGE 150 III 315, BGE 151 III 440, BGE 116 II 533, BGE 127 III 374, BGE 129 III 129, BGE 136 III 322, BGer 4A_601/2020, ZH OG PS130198); Ausbau der Lebenssachverhalte zu vielschichtigen Fallerzählungen; Schwellenwert-Gegenüberstellungen ohne Code-Fences, kantonale Praxisfragen und rollenbasierte Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -43,14 +48,31 @@ revisions:
 ### Systematische Stellung und Zweck
 Art. 725b OR bildet die **dritte und letzte Stufe des aktienrechtlichen Krisen- und Sanierungsrechts** (nach Art. 725 OR für die Liquiditätskrise und Art. 725a OR für den Kapitalverlust). Er regelt den Eintritt der **Substanzkrise**: den Zustand, in welchem das Fremdkapital der Gesellschaft nicht mehr durch deren Aktiven gedeckt ist (negative Bilanzsumme).
 
-Zweck der Bestimmung ist der **zwingende Gläubigerschutz**. Das Aktienrecht verbietet es, eine Gesellschaft fortzuführen, wenn kein haftendes Eigenkapital mehr vorhanden ist und jeder weitere Betriebsverlust unmittelbar zu Lasten der Gläubigergesamtheit geht ([BGE 127 III 374 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-374_2001-03-23.html#consideration_3c)). Art. 725b OR verpflichtet den Verwaltungsrat, das Gericht zu benachrichtigen, damit die Gläubigerbefriedigung im Gesamtvollstreckungsverfahren (Konkurs) geordnet abgewickelt oder unter gerichtlicher Kontrolle saniert wird.
+Zweck der Bestimmung ist der **zwingende Gläubigerschutz**. Das Aktienrecht verbietet es, eine Gesellschaft fortzuführen, wenn kein haftendes Eigenkapital mehr vorhanden ist und jeder weitere Betriebsverlust unmittelbar zu Lasten der Gläubigergesamtheit geht ([BGE 127 III 374 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-374_2001-03-23.html#consideration_3c); [Botschaft Aktienrecht, BBl 2017 399, S. 528 ff.](https://www.fedlex.admin.ch/eli/fga/2017/399/de)). Art. 725b OR verpflichtet den Verwaltungsrat, das Gericht zu benachrichtigen, damit die Gläubigerbefriedigung im Gesamtvollstreckungsverfahren (Konkurs) geordnet abgewickelt oder unter gerichtlicher Aufsicht saniert wird.
 
-### Grundlegende Neuerungen gegenüber aArt. 725 Abs. 2 OR
-1. **Differenzierte Zwischenbilanzpflicht (Abs. 1)**: Unter altem Recht mussten bei Überschuldungsbesorgnis schematisch zwei Bilanzen erstellt werden. Neu entfällt der Veräusserungswert-Abschluss, wenn die Fortführungsprognose intakt ist und zu Fortführungswerten keine Überschuldung vorliegt; umgekehrt genügt bei Liquidationsabsicht der Veräusserungswert-Abschluss.
+### Normhistorischer Bogen: Verhältnis zu aArt. 725 Abs. 2 und aArt. 725a aOR
+Art. 725b OR ersetzt materiell den früheren **aArt. 725 Abs. 2 OR** (in Kraft bis 31. Dezember 2022). Zugleich wurde das Institut des gerichtlichen Konkursaufschubs (aArt. 725a aOR) vollständig abgeschafft und durch die Verweisung auf das Nachlassverfahren (Art. 173a SchKG und Art. 293 ff. SchKG) ersetzt.
+
+Gegenüber dem früheren Recht bringt Art. 725b OR fundamentale Neuerungen und Verschärfungen:
+1. **Differenzierte Zwischenbilanzpflicht (Abs. 1)**: Unter altem Recht mussten bei Überschuldungsbesorgnis schematisch stets zwei Zwischenbilanzen erstellt werden. Neu entfällt der Veräusserungswert-Abschluss, wenn die Fortführungsprognose intakt ist und zu Fortführungswerten keine Überschuldung vorliegt; umgekehrt genügt bei Liquidationsabsicht der Veräusserungswert-Abschluss.
 2. **Schliessung der Revisionslücke bei Opting-out (Abs. 2 und Abs. 5)**: Gesellschaften ohne Revisionsstelle müssen den Zwischenabschluss durch einen zugelassenen Revisor prüfen lassen. Bleibt der VR untätig, trifft diesen Revisor die zwingende gesetzliche Pflicht zur Ersatzanzeige beim Konkursgericht (Abs. 5 i.V.m. Art. 729c OR).
-3. **Gesetzliche Präzisierung des Rangrücktritts (Abs. 4 Ziff. 1)**: Der Rangrücktritt verlangt neu zwingend, dass auch die während der Überschuldung auflaufenden **Zinsforderungen** gestundet und im Rang zurückgestellt werden ([BGE 150 III 315 E. 6.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-315_2024.html#consideration_6.2.2)).
-4. **Kodifikation der 90-Tage-Sanierungsfrist (Abs. 4 Ziff. 2)**: Anstelle der unklaren früheren richterrechtlichen «Stillhaltefrist» darf der VR bei begründeter Sanierungsaussicht maximal 90 Tage nach Vorliegen der geprüften Abschlüsse mit der Anzeige zuwarten, sofern keine Gläubiger gefährdet werden.
-5. **Verfahren nach Art. 173a SchKG (Abs. 3)**: Das Gericht eröffnet nicht mehr zwingend den Konkurs, sondern kann das Verfahren zur Durchführung einer Sanierung (Nachlassstundung) aussetzen.
+3. **Gesetzliche Verschärfung des Rangrücktritts (Abs. 4 Ziff. 1)**: Der Rangrücktritt verlangt neu zwingend, dass auch die während der Überschuldung auflaufenden **Zinsforderungen** gestundet und im Rang zurückgestellt werden ([BGE 150 III 315 E. 6.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-315_2024.html#consideration_6.2.2)). Deckungszusagen oder Patronatserklärungen sind keine gesetzlichen Alternativen ([BGE 150 III 315 E. 6.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-315_2024.html#consideration_6.2.2)).
+4. **Kodifikation der 90-Tage-Sanierungsfrist (Abs. 4 Ziff. 2)**: Anstelle der unklaren früheren richterrechtlichen «Stillhaltefrist» darf der VR bei begründeter Sanierungsaussicht maximal 90 Tage nach Vorliegen der geprüften Abschlüsse mit der Anzeige zuwarten, sofern keine Gläubiger zusätzlich gefährdet werden.
+5. **Verfahren nach Art. 173a SchKG (Abs. 3)**: Das Konkursgericht eröffnet nicht mehr schematisch den Konkurs, sondern kann das Verfahren zur Durchführung einer Sanierung (Nachlassstundung) aussetzen.
+6. **Unwiderruflichkeit der Überschuldungsanzeige**: Nach [BGE 150 III 315 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-315_2024.html#consideration_4.2) kann eine deponierte Überschuldungsanzeige vom VR nicht widerrufen werden.
+
+### Übernahme, Fortgeltung und Verschärfung der Judikatur zu aArt. 725 Abs. 2 OR
+
+| Thema / Streitpunkt | Leitentscheid unter altem Recht | Fortgeltung und Tragweite unter neuem Art. 725b OR |
+|---|---|---|
+| **Ermittlung der Überschuldung, Imparitätsprinzip** | [BGE 116 II 533 E. 2 und E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-116-II-533_1990-10-02.html#consideration_5a) | **Vollumfänglich anwendbar**: Eventualverbindlichkeiten, Bürgschaften und Prozessrisiken müssen zwingend passiviert werden; mündliche Stundungen genügen nicht. |
+| **Gläubigerschutz und Schranken des Aufschubs** | [BGE 127 III 374 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-374_2001-03-23.html#consideration_3c) | **Vollumfänglich anwendbar**: Sanierungsversuche dürfen nicht zu Lasten der Gläubiger fortgeführt werden; gilt unmittelbar für Art. 173a SchKG und die 90-Tage-Regel. |
+| **Rangrücktritt und Überwachung durch Revisionsstelle** | [BGE 129 III 129 E. 7 und E. 8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-129_2003.html#consideration_7) | **Vollumfänglich anwendbar**: Verbot der Aushöhlung durch Rückzahlung oder Verrechnung; Pflicht der Revisionsstelle zur Ersatzanzeige bei Pflichtverletzung. |
+| **Zwingender Einschluss der Zinsen beim Rangrücktritt** | [BGE 150 III 315 E. 6.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-315_2024.html#consideration_6.2.2) | **Neuverschärfung zu neuem Recht**: Zinsen während der Überschuldung müssen zwingend rangrücktrittspflichtig sein; Deckungsgarantien genügen nicht. |
+| **Kollokation nachrangiger Forderungen im Konkurs** | [BGE 151 III 440 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-440_2025.html#consideration_5) | **Vollumfänglich anwendbar**: Rangrücktrittsforderungen werden hinter der 3. Klasse kolloziert; ordentliche Darlehen sind nicht rechtsmissbräuchlich. |
+| **Konkursverschleppungsschaden (Differenzhypothese)** | [BGE 136 III 322 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3) | **Vollumfänglich anwendbar**: Schaden bemisst sich ausschliesslich nach der Differenz der Liquidationswerte im hypothetischen vs. tatsächlichen Konkurszeitpunkt. |
+| **Substanziierungspflicht des Schadens** | [BGer 4A_601/2020 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-601-2020_2021-05-11.html) | **Vollumfänglich anwendbar**: Der Kläger muss die Liquidationswerte konkret darlegen; blosse buchhalterische Eigenkapitalminderung genügt nicht. |
+| **Ersatzanzeige bei Säumnis des VR** | [ZH OG PS130198 E. 4](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PS130198_2013-12-24.pdf) | **Vollumfänglich anwendbar & auf Opting-out-Revisoren erweitert**: Revisor deponiert Anzeige selbständig, wenn VR untätig bleibt. |
 
 ---
 

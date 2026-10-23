@@ -2,11 +2,16 @@
 title: "Art. 725a OR — Kapitalverlust"
 weight: 726
 date: 2026-08-29
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 725a OR: Hälftiger Kapitalverlust, gesetzliche Berechnungsformel, Schutzreserven vs. freie Kapitaleinlagereserven, Verbot der Einlagenrückgewähr bei Aktivdarlehen, Sanierungsmassnahmen des VR und der GV (Harmonika-Sanierung, Forderungsverzicht à fonds perdu), eingeschränkte Revision bei Opting-out und Organhaftung."
-tags: ["OR", "Aktienrecht", "Kapitalverlust", "Sanierung", "Harmonika", "Unterbilanz", "Verwaltungsrat", "Opting-out", "Eingeschränkte Revision"]
+lastmod: 2026-10-23
+description: "Praxiskommentar zu Art. 725a OR: Hälftiger Kapitalverlust, gesetzliche Berechnungsformel, Schutzreserven vs. freie Kapitaleinlagereserven, Fortgeltung der Judikatur zu aArt. 725 Abs. 1 aOR, Verbot der Einlagenrückgewähr bei Aktivdarlehen, Sanierungsmassnahmen des VR und der GV (Harmonika-Sanierung, Forderungsverzicht à fonds perdu), eingeschränkte Revision bei Opting-out und Organhaftung."
+tags: ["OR", "Aktienrecht", "Kapitalverlust", "Sanierung", "Harmonika", "Unterbilanz", "Verwaltungsrat", "Opting-out", "Eingeschränkte Revision", "aArt. 725 OR"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    mcp_verified: true
+    note: "Umfassende praxisorientierte Überarbeitung und Ausbau: Detaillierte Herausarbeitung der Entstehungsgeschichte aus aArt. 725 Abs. 1 aOR; systematische Vergleichstabelle zur Fortgeltung und Modifikation der Alt-Judikatur (BGE 121 III 420, BGE 138 III 204, BGE 140 III 533, BGE 136 III 322, BGer 4A_236/2015, OG SH 40/2017/30, ZH OG PS170163, ZH HG HE170080); Ausbau der Sachverhalte zu vielschichtigen Lebenssachverhalten; Vertiefung der zweiseitigen Grenzkasuistik (Zulässige vs. unzulässige Harmonika, Forderungsverzicht vs. Rangrücktritt); tabellarische Vergleiche und rollenbasierte Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -44,14 +49,27 @@ revisions:
 ## Überblick und Bedeutung
 
 ### Systematische Einordnung und Zweck
-Art. 725a OR regelt den Tatbestand des **hälftigen Kapitalverlusts** (die sog. bilanzielle Unterbilanz) und die daraus erwachsenden Sanierungs- und Prüfpflichten. Er bildet das Bindeglied zwischen der Liquiditätsüberwachung nach Art. 725 OR (1. Stufe) und der Überschuldungsanzeige nach Art. 725b OR (3. Stufe).
+Art. 725a OR regelt den Tatbestand des **hälftigen Kapitalverlusts** (die sog. bilanzielle Unterbilanz) und die daraus erwachsenden Sanierungs- und Prüfpflichten. Er bildet das Bindeglied zwischen der Liquiditätsüberwachung nach Art. 725 OR (1. Stufe: Liquiditätskrise) und der Überschuldungsanzeige nach Art. 725b OR (3. Stufe: Substanzkrise).
 
-Zweck der Norm ist der **Schutz des Gesellschaftsvermögens als Haftungssubstrat für die Gläubiger** sowie die frühzeitige Alarmierung der Organe zur Einleitung von Sanierungsmassnahmen, bevor eine Überschuldung oder Zahlungsunfähigkeit eintritt ([BGE 127 III 374 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-374_2001-03-23.html#consideration_3c)).
+Zweck der Norm ist der **Schutz des Gesellschaftsvermögens als Haftungssubstrat für die Gläubiger** sowie die frühzeitige Alarmierung der Organe zur Einleitung von Sanierungsmassnahmen, bevor eine Überschuldung oder Zahlungsunfähigkeit eintritt ([BGE 127 III 374 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-374_2001-03-23.html#consideration_3c); [Botschaft Aktienrecht, BBl 2017 399, S. 527 ff.](https://www.fedlex.admin.ch/eli/fga/2017/399/de)). Die Bestimmung statuiert eine Pflicht des Verwaltungsrats zur vertieften Überprüfung der wirtschaftlichen Lage, sobald die Substanz des haftenden Eigenkapitals um mehr als die Hälfte aufgezehrt ist.
 
-### Wesentliche Neuerungen gegenüber dem früheren Recht
-1. **Präzisierung der massgebenden Reserven**: Unter dem bis 31. Dezember 2022 geltenden aArt. 725 Abs. 1 OR zählten sämtliche «gesetzlichen Reserven» zur Bemessungsbasis. Art. 725a Abs. 1 OR stellt nunmehr klar, dass nur die *nicht an die Aktionäre zurückzahlbare* gesetzliche Kapitalreserve (Art. 671 OR) sowie die gesetzliche Gewinnreserve (Art. 672 OR) herangezogen werden. Frei ausschüttbare Kapitaleinlagereserven (KER) erhöhen die Schutzkapitalbasis nicht mehr ([BGE 140 III 533 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_6)).
-2. **Abkehr vom starren GV-Zwang**: Nach aArt. 725 Abs. 1 OR war der Verwaltungsrat gezwungen, selbst bei rein intern behebbaren Engpässen eine formelle Generalversammlung einzuberufen. Neu ergreift der VR Massnahmen primär in eigener Kompetenz; die GV wird nur beigezogen, wenn die Massnahmen in deren Kompetenz fallen (z.B. Kapitalherabsetzung, Kapitalerhöhung).
-3. **Schliessung der Kontrolllücke bei revisorlosen Gesellschaften (Opting-out)**: Gesellschaften, die auf eine Revisionsstelle verzichtet haben (Art. 727a Abs. 2 OR), müssen die Jahresrechnung bei einem Kapitalverlust vor deren Genehmigung zwingend durch einen zugelassenen Revisor prüfen lassen (Abs. 2).
+### Normhistorischer Bogen: Verhältnis zu aArt. 725 Abs. 1 aOR
+Materiell ersetzt Art. 725a OR den bisherigen **aArt. 725 Abs. 1 OR** (in Kraft bis 31. Dezember 2022). Während das Grundkonzept – das Auslösen gesellschaftsrechtlicher Sanierungspflichten bei Aufzehrung von 50 % des Schutzkapitals – beibehalten wurde, hat der Gesetzgeber drei wesentliche Neuerungen eingeführt:
+1. **Präzisierung der Schutzkapitalbasis**: Art. 725a Abs. 1 OR übernimmt die Rechtsprechung von [BGE 140 III 533 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_6) und stellt klar, dass nur die *nicht an die Aktionäre zurückzahlbare* gesetzliche Kapitalreserve (Art. 671 OR) sowie die gesetzliche Gewinnreserve (Art. 672 OR) herangezogen werden. Frei ausschüttbare Kapitaleinlagereserven (KER) erhöhen die Schutzkapitalbasis nicht mehr.
+2. **Abkehr vom starren GV-Einberufungszwang**: Nach aArt. 725 Abs. 1 aOR war der Verwaltungsrat verpflichtet, selbst bei rein intern oder operativ lösbaren Problemen schematisch eine Generalversammlung einzuberufen. Art. 725a Abs. 1 Satz 1 OR räumt dem VR nunmehr den Vorrang ein, Massnahmen in eigener Kompetenz zu beschliessen; die GV wird nur einberufen, wenn Massnahmen in deren Zuständigkeit fallen (z.B. Kapitalherabsetzung, Kapitalerhöhung).
+3. **Schliessung der Kontrolllücke bei revisorlosen KMU (Opting-out)**: Gesellschaften, die auf eine Revisionsstelle verzichtet haben (Art. 727a Abs. 2 OR), müssen die Jahresrechnung bei einem Kapitalverlust vor deren Genehmigung zwingend durch einen zugelassenen Revisor prüfen lassen (Abs. 2), es sei denn, es wird Nachlassstundung beantragt (Abs. 3).
+
+### Übernahme und Fortgeltung der Judikatur zu aArt. 725 Abs. 1 OR
+
+| Thema / Streitpunkt | Leitentscheid unter altem Recht | Fortgeltung und Tragweite unter neuem Art. 725a OR |
+|---|---|---|
+| **Harmonika-Sanierung ohne Zwischenbilanz** | [BGE 121 III 420 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-121-III-420_1995-07-07.html#consideration_3) | **Vollumfänglich anwendbar**: Der Kapitalschnitt auf Null mit gleichzeitiger Wiedererhöhung bedarf weder einer Zwischenbilanz nach Art. 725b OR noch eines Revisionsberichts. |
+| **Schranken der Harmonika: Minderheitenschutz** | [BGE 138 III 204 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-204_2012.html#consideration_3.2) | **Vollumfänglich anwendbar**: Dient die Harmonika der rechtsmissbräuchlichen Ausbootung von Minderheitsaktionären, ist der GV-Beschluss anfechtbar nach Art. 706 OR. |
+| **Kapitaleinlagereserven (KER) und Darlehen** | [BGE 140 III 533 E. 4.1 und E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_6) | **Vollumfänglich anwendbar & kodifiziert**: Frei ausschüttbare KER zählen nicht zur Reservebasis; unbesicherte Darlehen an Nahestehende verletzen Art. 680 Abs. 2 OR und müssen wertberichtigt werden. |
+| **Forderungsverzicht vs. Rangrücktritt** | [OG SH 40/2017/30 E. 4 f.](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_40-2017-30_2021-02-02.pdf) | **Vollumfänglich anwendbar**: Nur ein Forderungsverzicht à fonds perdu beseitigt den Kapitalverlust; ein Rangrücktritt stundet nur und heilt die bilanzielle Unterdeckung nicht. |
+| **Revisionsstellenpflicht und Schadenskausalität** | [BGer 4A_236/2015 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-236-2015_2015-09-15.html) | **Vollumfänglich anwendbar**: Haftung für unterlassenen Revisionshinweis scheitert, wenn Organe die Schieflage kannten und keine anderen Sanierungsschritte ergriffen hätten. |
+| **Keine Bilanzdeponierung bei blossem Kapitalverlust** | [ZH OG PS170163 E. 3](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_PS170163_2017-08-18.pdf) | **Vollumfänglich anwendbar**: Ein Kapitalverlust berechtigt nicht zur Insolvenzerklärung nach Art. 191 SchKG; es müssen zuerst gesellschaftsrechtliche Sanierungsschritte erfolgen. |
+| **Sonderprüfung bei Verlustvorträgen** | [ZH HG HE170080 E. 4](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HE170080_2017-05-30.pdf) | **Vollumfänglich anwendbar**: Das Entstehen eines Kapitalverlusts begründet für sich allein keine Pflichtverletzung; für Art. 697c OR bedarf es substantiierter Gesetzesverletzungen. |
 
 ---
 

@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 725a OR"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-09-11
+lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 725a OR (und aArt. 725 Abs. 1 OR) – Leitentscheide und kantonale Praxis zum Kapitalverlust und zu Sanierungsmassnahmen."
 tags: ["Rechtsprechung", "OR", "Kapitalverlust", "Sanierung", "Aktienrecht"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    mcp_verified: true
+    note: "Überprüfung und Aktualisierung der Rechtsprechungsübersicht zu Art. 725a OR: 14 strukturierte Entscheide mit Leitjudikatur des Bundesgerichts und kantonaler Obergerichte zu aArt. 725 Abs. 1 aOR (Harmonika-Sanierung, Schutzkapitalbasis, Verbot der Einlagenrückgewähr, Revisionsprüfung bei Opting-out)."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -121,4 +126,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 11. September 2026*
+*Letzte Aktualisierung: 23. Oktober 2026*
