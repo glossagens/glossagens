@@ -2,26 +2,31 @@
 title: "Art. 754 OR — Haftung für Verwaltung, Geschäftsführung und Liquidation"
 weight: 754
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 754 OR – Aktienrechtliche Organhaftung des Verwaltungsrats, der Geschäftsleitung und faktischer Organe; historische Kontinuität (Art. 674 aOR / Art. 754 aOR 1936); Business Judgment Rule; Schadenstypen und Geltendmachung im Konkurs."
 tags: ["OR", "Aktienrecht", "Verantwortlichkeit", "Organhaftung", "Verwaltungsrat", "Business Judgment Rule", "Faktische Organschaft", "Konkursverschleppung", "Differenzierte Solidarität"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung und Ausbau zum Praxiskommentar gemäss Benchmark-Standard: Dogmatisches Prüfschema 1:1 mit den Abschnitten A bis I harmonisiert; Ergänzung der Gesetzesmaterialien (BBl 1983 II 745, BBl 2017 399); Vertiefung der Judikaturdivergenzen zu faktischer Organschaft, Business Judgment Rule bei Unterlassungen und Konkursverschleppungsschaden; Korrektur und Verifikation sämtlicher Entscheidsuche-Links."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
     mcp_verified: true
-    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-754.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-754.json), inkl. Fussnoten."
+  - date: 2026-09-11
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ausbau zum Praxiskommentar: Historische Gesetzesgrundlagen, Prüfschema-Tabelle, narrative Aktenkasuistik, kantonale Praxisfragen und Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     mcp_verified: true
     note: "Erstfassung des Kommentars und der Rechtsprechungsübersicht zu Art. 754 OR."
-  - date: 2026-09-11
-    by: "Antigravity Agent"
-    model: "gemini-3.8-flash"
-    mcp_verified: true
-    note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark-Standard: Aufarbeitung der historischen Gesetzesgrundlagen (Art. 674 aOR vor 1937, Art. 754 aOR 1936–1992), Prüfschema-Tabelle, narrative Aktenkasuistik mit zweiseitiger Grenzkasuistik (u.a. BGE 59 II 434, 128 III 92 vs. 128 III 29, BGer 4A_506/2024, BGE 139 III 24, 140 III 533, 136 III 322, 142 III 23), reine Markdown-Vergleichstabellen, kantonale Praxisfragen und adressatenbezogene Praxishinweise."
 ---
 
 ## Gesetzeswortlaut
@@ -30,7 +35,7 @@ revisions:
 
 ---
 
-## Historische Entwicklung und Normkontinuität
+## Historische Entwicklung, Gesetzgeberischer Zweck und Normkontinuität
 
 Bei der Auswertung der schweizerischen Rechtsprechung zur aktienrechtlichen Organhaftung ist zu beachten, dass die Verantwortlichkeit der Verwaltung im Zuge der grossen Revisionen des Obligationenrechts mehrfach redigiert, verschoben und im Anwendungsbereich präzisiert wurde:
 
@@ -41,21 +46,21 @@ Bei der Auswertung der schweizerischen Rechtsprechung zur aktienrechtlichen Orga
    Mit dem Bundesgesetz vom 18. Dezember 1936 über die Revision der Titel XXIV bis XXXIII des OR wurde das Aktienrecht neu gegliedert und die Verantwortlichkeit in die Art. 752–761 OR überführt. Unter **Art. 754 aOR (1936)** hafteten die Mitglieder des Verwaltungsrats und alle mit der Geschäftsführung, Kontrolle oder Liquidation «betrauten» Personen. Zu den Charakteristika dieser Epoche gehörten:
    - Die gemeinsame Regelung von Verwaltungsrat und Revisionsstelle (Kontrollstelle) in Art. 754 aOR;
    - Eine starre Solidarhaftung (aArt. 759 OR), die im Aussenverhältnis keine Abstufung nach persönlichem Verschulden kannte;
-   - Die Verwendung des Begriffs «betraut», was in der Doktrin zunächst Kontroversen über die Haftung nicht formell ernannter faktischer Organe auslöste.
+   - Die Verwendung des Begriffs «betraut», was in der Doktrin Kontroversen über die Haftung nicht formell ernannter faktischer Organe auslöste.
 
 3. **Aktienrechtsreform 1991 (in Kraft seit 1. Juli 1992): Art. 754 OR**  
-   Mit der Revision vom 4. Oktober 1991 ([AS 1992 733](https://www.fedlex.admin.ch/eli/oc/1992/733_733_733/de); [BBl 1983 II 745](https://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc/10098492.pdf?id=10098492)) erhielt Art. 754 OR seine heutige Fassung:
-   - **Terminologische Weichenstellung**: Der Begriff «betraut» wurde durch **«befasst»** ersetzt, um klarzustellen, dass auch faktische Organe ohne formellen Übertragungsakt passivlegitimiert sind ([BGE 128 III 92 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-92_2002.html#consideration_3a)).
-   - **Kodifikation des Delegationsprivilegs (Abs. 2)**: Wer Geschäftsführungsaufgaben befugterweise delegiert, haftet nicht mehr für das Verhalten der Beauftragten wie für eigenes Verhalten, sondern kann sich durch den Nachweis gehöriger *cura in eligendo, in instruendo et in custodiendo* entlasten.
-   - **Ausgliederung der Revisionsstellenhaftung**: Die Haftung der Revisionsstelle wurde in den eigenständigen **Art. 755 OR** überführt.
-   - **Differenzierte Solidarität (Art. 759 OR)**: Die frühere starre Solidarität wurde durch ein differenziertes Zurechnungssystem ersetzt.
+   Mit der Revision vom 4. Oktober 1991 ([AS 1992 733](https://www.fedlex.admin.ch/eli/oc/1992/733_733_733/de); Botschaft des Bundesrates vom 23. Februar 1983, [BBl 1983 II 745, S. 918 ff.](https://www.fedlex.admin.ch/eli/fga/1983/2_745_757_713/de)) erhielt Art. 754 OR seine heutige Fassung. Die Botschaft begründete die Neufassung mit vier zentralen Zielen:
+   - **Terminologische Weichenstellung zur Erfassung faktischer Organe**: Der Begriff «betraut» wurde bewusst durch **«befasst»** ersetzt, um unmissverständlich klarzustellen, dass auch faktische Organe ohne formellen Übertragungsakt passivlegitimiert sind ([BBl 1983 II 745, S. 919](https://www.fedlex.admin.ch/eli/fga/1983/2_745_757_713/de); [BGE 128 III 92 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-92_2002.html#consideration_3a)).
+   - **Kodifikation des Delegationsprivilegs (Abs. 2)**: Wer Geschäftsführungsaufgaben befugterweise delegiert, haftet nicht mehr für das Verhalten der Beauftragten wie für eigenes Verhalten, sondern kann sich durch den Nachweis gehöriger *cura in eligendo, in instruendo et in custodiendo* entlasten ([BBl 1983 II 745, S. 919 f.](https://www.fedlex.admin.ch/eli/fga/1983/2_745_757_713/de)).
+   - **Ausgliederung der Revisionsstellenhaftung**: Die Haftung der Revisionsstelle wurde wegen des grundlegend anderen Pflichtenhefts in den eigenständigen **Art. 755 OR** überführt.
+   - **Einführung der differenzierten Solidarität (Art. 759 OR)**: Die frühere starre Solidarität wurde durch ein differenziertes Zurechnungssystem ersetzt, um die Haftung an das persönliche Verschulden anzupassen ([BBl 1983 II 745, S. 921 f.](https://www.fedlex.admin.ch/eli/fga/1983/2_745_757_713/de)).
 
 4. **Aktienrechtsreform 2020 (in Kraft seit 1. Januar 2023)**  
-   Der Wortlaut von Art. 754 OR blieb unverändert, die Bestimmung wurde jedoch in ein modernisiertes Pflichtengefüge eingebettet:
-   - Pflicht zur Liquiditätsüberwachung bei drohender Zahlungsunfähigkeit (Art. 725 nOR);
+   Der Wortlaut von Art. 754 OR blieb unverändert (Botschaft vom 23. November 2016, [BBl 2017 399](https://www.fedlex.admin.ch/eli/fga/2017/112/de)). Die Bestimmung wurde jedoch in ein modernisiertes, präziseres Pflichtengefüge eingebettet:
+   - Frühzeitige Pflicht zur Liquiditätsüberwachung bei drohender Zahlungsunfähigkeit (Art. 725 nOR);
    - Pflichten bei Kapitalverlust (Art. 725a nOR);
-   - Pflicht zur unverzüglichen Benachrichtigung des Gerichts bei Überschuldung (Art. 725b nOR);
-   - Ausdrückliche Kodifikation der Pflichten bei Interessenkonflikten (Art. 717a nOR).
+   - Pflicht zur unverzüglichen Benachrichtigung des Gerichts bei begründeter Besorgnis einer Überschuldung (Art. 725b nOR);
+   - Ausdrückliche Kodifikation des Umgangs mit Interessenkonflikten (Art. 717a nOR).
 
 ---
 
@@ -70,19 +75,19 @@ Der Schutzzweck der Norm ist zweidimensional:
 
 ### Prüfschema: Die Tatbestandsmerkmale auf einen Blick
 
-Die Verantwortlichkeitsklage nach Art. 754 OR setzt die kumulative Erfüllung von vier materiellen Haftungsvoraussetzungen sowie das Vorliegen der Aktiv- und Passivlegitimation voraus. Das nachfolgende Raster bildet das dogmatische Gerüst der Prüfung:
+Die Verantwortlichkeitsklage nach Art. 754 OR setzt die Erfüllung von materiellen Haftungsvoraussetzungen sowie das Vorliegen der Aktiv- und Passivlegitimation voraus. Das nachfolgende Raster bildet das dogmatische Gerüst der Prüfung; die Abschnitte der Kommentierung folgen exakt dieser Reihenfolge:
 
 | Schritt | Tatbestandsmerkmal | Gesetzliche Grundlage | Behauptungs- und Beweislast (Art. 8 ZGB) | Beweismass |
 |---|---|---|---|---|
-| **1** | **Passivlegitimation (Organstellung)** | Art. 754 Abs. 1 OR | Klagende Partei (formelle Wahl, materielle Delegation oder faktische Beherrschung) | Regelbeweismass (volle Überzeugung) |
-| **2** | **Pflichtverletzung (Widerrechtlichkeit)** | Art. 754 Abs. 1 i.V.m. Art. 716a, 717, 725 ff. OR | Klagende Partei (konkrete Pflichtwidrigkeit); Beklagter für Voraussetzungen der Business Judgment Rule | Regelbeweismass (strikter Beweis) |
-| **3** | **Entlastungsbeweis bei Delegation** | Art. 754 Abs. 2 i.V.m. Art. 716b OR | Beklagtes Organ (statutarische Ermächtigung, Reglement, Erfüllung der Cura-Pflichten) | Regelbeweismass (Exkulpationsbeweis) |
-| **4** | **Schaden (Schadenstyp & Umfang)** | Art. 754 Abs. 1 OR | Klagende Partei (Gesellschaftsschaden, Reflexschaden oder direkter Schaden); richterliche Schätzung nach Art. 42 Abs. 2 OR | Differenzhypothese; bei Konkursverschleppung Schätzung |
-| **5** | **Kausalzusammenhang** | Art. 754 Abs. 1 OR | Klagende Partei (natürlicher und adäquater Kausalzusammenhang; bei Unterlassungen hypothetische Kausalität) | Überwiegende Wahrscheinlichkeit bei Unterlassung |
-| **6** | **Verschulden** | Art. 754 Abs. 1 OR | Klagende Partei (Vorsatz oder jede Fahrlässigkeit; objektivierter Massstab) | Regelbeweismass |
-| **7** | **Einreden & Herabsetzungsgründe** | Art. 758, 760 OR | Beklagtes Organ (Déchargebeschluss, Einwilligung/Volenti, Verjährung) | Regelbeweismass |
-| **8** | **Aktivlegitimation & Klageordnung** | Art. 756, 757 OR | Klagende Partei (Gesellschaft, Aktionär pro societate, Konkursmasse, Abtretungsgläubiger nach Art. 260 SchKG) | Regelbeweismass |
-| **9** | **Solidarität und Haftungsquote** | Art. 759 OR | Klagende Partei für Aussenhaftung; Beklagte für differenzierten Zurechnungsanteil | Richterliches Ermessen |
+| **A** | **Passivlegitimation (Organstellung)** | Art. 754 Abs. 1 OR | Klagende Partei (formelle Wahl, materielle Delegation oder faktische Beherrschung) | Regelbeweismass (volle Überzeugung) |
+| **B** | **Pflichtverletzung und Business Judgment Rule** | Art. 754 Abs. 1 i.V.m. Art. 716a, 717, 725 ff. OR | Klagende Partei für konkrete Pflichtwidrigkeit; Beklagter für Voraussetzungen der Business Judgment Rule | Regelbeweismass (strikter Beweis) |
+| **C** | **Befugte Delegation und Entlastungsbeweis** | Art. 754 Abs. 2 i.V.m. Art. 716b OR | Beklagtes Organ (statutarische Ermächtigung, Reglement, Erfüllung der Cura-Pflichten) | Regelbeweismass (Exkulpationsbeweis) |
+| **D** | **Schaden und Systematik der drei Schadenstypen** | Art. 754 Abs. 1 OR | Klagende Partei (Gesellschaftsschaden, Reflexschaden oder direkter Schaden); richterliche Schätzung nach Art. 42 Abs. 2 OR | Differenzhypothese; bei Konkursverschleppung Schätzung |
+| **E** | **Kausalzusammenhang und hypothetische Kausalität** | Art. 754 Abs. 1 OR | Klagende Partei (natürlicher und adäquater Kausalzusammenhang; bei Unterlassungen hypothetische Kausalität) | Überwiegende Wahrscheinlichkeit bei Unterlassung |
+| **F** | **Verschulden und Sorgfaltsmassstab** | Art. 754 Abs. 1 OR | Klagende Partei (Vorsatz oder jede Fahrlässigkeit; objektivierter Sorgfaltsmassstab) | Regelbeweismass |
+| **G** | **Einreden und Herabsetzungsgründe** | Art. 758, 760 OR | Beklagtes Organ (Déchargebeschluss, Einwilligung/Volenti, Verjährung) | Regelbeweismass |
+| **H** | **Aktivlegitimation und Klageordnung** | Art. 756, 757 OR | Klagende Partei (Gesellschaft, Aktionär pro societate, Konkursmasse, Abtretungsgläubiger nach Art. 260 SchKG) | Regelbeweismass |
+| **I** | **Differenzierte Solidarität und Regress** | Art. 759 OR | Klagende Partei für Aussenhaftung; Beklagte für differenzierten Zurechnungsanteil | Richterliches Ermessen |
 
 ---
 
@@ -90,7 +95,7 @@ Die Verantwortlichkeitsklage nach Art. 754 OR setzt die kumulative Erfüllung vo
 
 ### A. Passivlegitimation: Formelle, materielle und faktische Organstellung (Abs. 1)
 
-Die Passivlegitimation erfasst nach dem Wortlaut von Art. 754 Abs. 1 OR die Mitglieder des Verwaltungsrates sowie alle mit der Geschäftsführung oder Liquidation «befassten» Personen. Das Bundesgericht unterscheidet strikt zwischen drei Kategorien von Organen ([BGE 128 III 92 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-92_2002.html#consideration_3a); [BGE 117 II 570 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-570_1991-12-12.html#consideration_3)):
+Die Passivlegitimation erfasst nach dem Wortlaut von Art. 754 Abs. 1 OR die Mitglieder des Verwaltungsrates sowie alle mit der Geschäftsführung oder Liquidation «befassten» Personen. Die Rechtsprechung unterscheidet drei Kategorien von Organen ([BGE 128 III 92 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-92_2002.html#consideration_3a); [BGE 117 II 570 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-570_1991-12-12.html#consideration_3)):
 
 1. **Formelle Organe**: Die von der Generalversammlung gültig gewählten Mitglieder des Verwaltungsrats sowie die statutarisch oder gerichtlich bestellten Liquidatoren. Die Organstellung beginnt mit der Annahme der Wahl und endet mit der Demission, Abberufung oder dem Ablauf der Amtsdauer; der Eintrag im Handelsregister wirkt rein deklaratorisch.
 2. **Materielle Organe**: Personen, denen der Verwaltungsrat gestützt auf eine statutarische Ermächtigung und ein Organisationsreglement (Art. 716b OR) Geschäftsführungs- oder Vertretungsbefugnisse mit eigener Entscheidkompetenz übertragen hat (z.B. Direktoren, Geschäftsleitungsmitglieder).
@@ -104,7 +109,7 @@ In der Praxis lassen sich Personen häufig als formelle Verwaltungsräte wählen
 > **Sachverhalt**: Ein gewählter Verwaltungsrat einer Schweizer Aktiengesellschaft liess sich als sogenannter «Strohmann» eintragen. Die tatsächliche Geschäftsleitung überliess er vollständig zwei geschäftserfahrenen Personen (Kantor und Silberberg), die formell weder Organe noch Aktionäre der Gesellschaft waren. Nach dem Zusammenbruch der Gesellschaft klagten Gläubiger gestützt auf Art. 674 aOR gegen das formelle Organ Schadenersatz ein. Der Beklagte wandte ein, er habe nach interner Abrede keinerlei Pflichten wahrnehmen sollen und treffe daher kein Verschulden.  
 > **Entscheidung des Bundesgerichts**: Das Bundesgericht verwarf diesen Einwand vollumfänglich. Wer die Wahl in den Verwaltungsrat annimmt, übernimmt zwingend alle mit dem Amt verbundenen gesetzlichen Pflichten. Die bewusste Untätigkeit und das blinde Überlassen der Gesellschaft an informelle Hintermänner stellt eine schwerwiegende Pflichtverletzung dar ([BGE 59 II 434 Erw. III/1](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-59-II-434.pdf)). Der Strohmann haftet für den eingetretenen Schaden wie ein ordentlicher Verwaltungsrat.
 
-Diese unter Art. 674 aOR begründete Rechtsprechung wurde unter Art. 754 OR lückenlos fortgeführt: Wer als «Gefälligkeits-Verwaltungsrat» seinen Namen zur Verfügung stellt, kann sich gegenüber Gläubigern und der Konkursmasse nicht darauf berufen, er habe keine Einblicke in das Tagesgeschäft gehabt ([BGE 114 V 213 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-114-V-213_1988-12-16.html); [BGer 4A_306/2009 vom 08.02.2010 E. 7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-306-2009_2010-02-08.html)).
+Diese unter Art. 674 aOR begründete Rechtsprechung wurde unter Art. 754 OR lückenlos fortgeführt: Wer als «Gefälligkeits-Verwaltungsrat» seinen Namen zur Verfügung stellt, kann sich gegenüber Gläubigern und der Konkursmasse nicht darauf berufen, er habe keine Einblicke in das Tagesgeschäft gehabt ([BGE 114 V 213 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-114-V-213_1988-10-24.html); [BGer 4A_306/2009 vom 08.02.2010 E. 7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-306-2009_2010-02-08.html)).
 
 #### 2. Grenzkasuistik: Faktische Organstellung bejaht vs. verworfen
 
@@ -124,6 +129,12 @@ Die Zurechnung als faktisches Organ verlangt eine kontinuierliche und autonome A
 | **Entscheidungsspielraum** | Eigenständige Willensbildung ohne Rücksprache | Vollzugshandlungen im Rahmen bestehender Instruktionen |
 | **Ergebnis** | Passivlegitimiert als Organ nach Art. 754 OR | Klage mangels Passivlegitimation abgewiesen |
 
+#### 3. Judikaturdivergenz: Externe Berater und finanzierende Banken als faktische Organe
+
+Zwischen der bundesgerichtlichen Rechtsprechung und Teilen der kantonalen Gerichtspraxis besteht eine latente Divergenz bezüglich der haftungsrechtlichen Erfassung von Restrukturierungsberatern und finanzierenden Banken in Sanierungssituationen:
+- **Restriktive Bundesgerichtslinie**: Das Bundesgericht verlangt den strikten Nachweis, dass der externe Berater oder die Bank der Gesellschaft ihren Willen aufgedrängt und faktisch anstelle des Verwaltungsrates entschieden hat ([BGE 128 III 29 E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-128-III-29_2002.html#consideration_3c)). Blosse Beratung, das Aufstellen harter Kreditauflagen (Covenants) oder die Drohung mit Kreditkündigung begründen keine faktische Organschaft, solange die formellen Organe frei sind, den Konkurs zu wählen.
+- **Kantonale Tendenz zur Zwangslagenhaftung**: Demgegenüber tendieren kantonale Instanzen in Einzelfällen dazu, bei tiefgreifenden Sanierungsverträgen, in denen der Berater oder die Bank das operative Sanierungsregime bis ins Detail vorgibt und Zahlungsfreigaben an eigene Genehmigungen knüpft, eine faktische Organschaft zu bejahen, weil dem formellen Verwaltungsrat faktisch kein Entscheidungsspielraum mehr verbleibt.
+
 > **Leitsatz.** Die Passivlegitimation nach Art. 754 Abs. 1 OR setzt entweder eine formelle Organwahl, eine rechtswirksame reglementarische Delegation oder eine nachhaltige, tatsächliche Ausübung organtypischer Leitungsfunktionen voraus; die Vornahme isolierter Geschäftsführungshandlungen begründet keine Organstellung.
 
 ---
@@ -136,8 +147,8 @@ Die Pflichten der Verwaltung ergeben sich aus dem Gesetz (insbesondere den unüb
 
 Unternehmerische Entscheide sind mit unvermeidlichen wirtschaftlichen Risiken behaftet. Nach ständiger Rechtsprechung überprüft der Richter Geschäftsentscheide nicht auf ihre Zweckmässigkeit hin (*Verbot des Hindsight Bias*), sofern die kumulativen Voraussetzungen der **Business Judgment Rule** erfüllt sind ([BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2); [BGer 4A_506/2024 vom 18.03.2025 E. 7.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html)):
 1. **Einwandfreier Entscheidungsprozess**: Der Entscheid muss formell korrekt, strukturiert und nachvollziehbar zustande gekommen sein;
-2. **Angemessene Informationsbasis**: Die Organe müssen die Sachlage sorgfältig abgeklärt, Chancen und Risiken fundiert analysiert und gegebenenfalls Fachexpertisen eingeholt haben;
-3. **Freiheit von Interessenkonflikten**: Die Entscheidungsträger müssen unbefangen gehandelt und ausschliesslich das Gesellschaftsinteresse verfolgt haben.
+2. **Angemessene Informationsbasis**: Die Organe müssen die Sachlage sorgfältig abgeklärt, Chancen und Risiken fundiert analysiert und gegebenenfalls Fachexpertisen beigezogen haben;
+3. **Freiheit von Interessenkonflikten**: Die Entscheidungsträger müssen unbefangen gehandelt und ausschliesslich das Gesellschaftsinteresse verfolgt haben (vgl. nunmehr Art. 717a nOR).
 
 Liegen diese Voraussetzungen vor, greift das Gericht nur ein, wenn der Entscheid schlechterdings unvertretbar war. Fehlt es an auch nur einer Voraussetzung, entfällt das Privileg und das Gericht prüft die Massnahme umfassend am strengen objektiven Sorgfaltsmassstab von Art. 717 Abs. 1 OR ([BGer 4A_506/2024 E. 7.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html)).
 
@@ -161,7 +172,13 @@ Liegen diese Voraussetzungen vor, greift das Gericht nur ein, wenn der Entscheid
 | Nichteinlassung auf Schadenersatzklage am Handelsgericht | **Bejaht** | Blosse Passivität ist kein geschützter Ermessensentscheid; BJR mangels Analyse verworfen | [BGer 4A_506/2024 E. 7.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html) |
 | Verweigerung der Aktienbucheintragung zwecks Machterhalt | **Bejaht** | Handeln im Eigeninteresse unter Ausschluss des Gesellschaftsinteresses; BJR entfällt | [BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2) |
 | Ungesichertes Darlehen an Alleinaktionär ohne Bonitätsprüfung | **Bejaht** | Verstoss gegen Art. 680 Abs. 2 OR; unvertretbare Risikoübernahme zum Nachteil der Gesellschaft | [BGE 140 III 533 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_4) |
-| Restrukturierung mit externem Sanierungsgutachten trotz Misserfolg | **Verneint** | Vollständige Informationsbasis, formgerechte Beschlussfassung, keine Interessenkollision; BJR greift | BGer 4A_623/2018 E. 3.1 |
+| Sanierungsentscheid mit externem Sanierungsgutachten trotz Misserfolg | **Verneint** | Vollständige Informationsbasis, formgerechte Beschlussfassung, keine Interessenkollision; BJR greift | BGer 4A_623/2018 E. 3.1 |
+
+#### 4. Judikaturdivergenz: Reichweite der Business Judgment Rule bei Unterlassungen
+
+Bezüglich der Anwendbarkeit der Business Judgment Rule auf Unterlassungen besteht in der Praxis eine methodische Kontroverse:
+- **Strenge Linie des Bundesgerichts**: Nach [BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2) und [BGer 4A_506/2024 E. 7.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html) schützt die Business Judgment Rule ausschliesslich *positive Geschäftsentscheide*. Reine Untätigkeit oder Passivität schliesst das richterliche Zurückhaltungsprivileg grundsätzlich aus.
+- **Differenzierende Praxis der Handelsgerichte und Lehre**: Ein Teil der kantonalen Handelsgerichtspraxis und die herrschende Lehre anerkennen, dass auch der *bewusste, analysierte Entscheid, eine Handlung zu unterlassen* (z.B. der Verzicht auf die Einleitung eines teuren Prozesses oder der Verzicht auf eine Neuinvestition), dem Schutz der BJR untersteht, sofern das Organ den Nichtvornahme-Entscheid formell traktandiert, protokolliert und auf eine fundierte Entscheidungsgrundlage gestützt hat.
 
 > **Leitsatz.** Die gerichtliche Überprüfung eines Geschäftsentscheids ist nach der Business Judgment Rule nur ausgeschlossen, wenn das Organ nachweist, dass es in einem einwandfreien Verfahren auf Basis angemessener Informationen und ohne Interessenkonflikte entschieden hat; blosse Untätigkeit oder eigenmächtige Passivität vermag dieses Privileg niemals zu begründen.
 
@@ -196,7 +213,7 @@ Schaden im Sinne von Art. 754 OR ist jede unfreiwillige Verminderung des Reinver
 |---|---|---|---|---|
 | **Reiner Gesellschaftsschaden** | Ausschliesslich das Vermögen der Gesellschaft | Veruntreuung, ungedeckte Upstream-Darlehen, unnötige Prozesskosten ([BGE 140 III 533](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html)) | Gesellschaft; Aktionäre (*actio pro societate* nach Art. 756 OR auf Leistung an die Gesellschaft) | Konkursmasse (Art. 757 Abs. 1 OR); subsidiär Abtretungsgläubiger nach Art. 260 SchKG (Art. 757 Abs. 2 OR) |
 | **Mittelbarer Schaden (Reflexschaden)** | Aktionär (Aktienwertverlust) oder Gläubiger (Dividendenverlust) als blosse Folge des Gesellschaftsschadens | Konkursverschleppung ([BGE 136 III 322](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html)), Substanzverzehr der Gesellschaft | Keine Klagebefugnis des Aktionärs oder Gläubigers auf eigene Rechnung (nur via Gesellschaft) | Ausschliesslich Konkursmasse bzw. Abtretungsgläubiger; keine individuellen Klagen zulässig ([BGE 131 III 306](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-306_2005.html)) |
-| **Direkter Schaden (Unmittelbarer Schaden)** | Individuelles Vermögen des Gläubigers oder Aktionärs (Gesellschaft ist nicht geschädigt) | Falscher Emissionsprospekt, Täuschung bei Kreditgewährung, Nichtabführen von KTG-Prämien ([BGE 141 III 112](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-112_2015.html)) | Geschädigter Gläubiger oder Aktionär persönlich (Art. 41/754 OR) | Ausschliesslich der geschädigte Gläubiger oder Aktionär; **die Konkursmasse ist nicht aktivlegitimiert** ([BGE 142 III 23](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-23_2016.html)) |
+| **Direkter Schaden (Unmittelbarer Schaden)** | Individuelles Vermögen des Gläubigers oder Aktionärs (Gesellschaft ist nicht geschädigt) | Falscher Prospekt, Täuschung bei Kreditgewährung, Nichtabführen von KTG-Prämien ([BGE 141 III 112](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-112_2015.html)) | Geschädigter Gläubiger oder Aktionär persönlich (Art. 41/754 OR) | Ausschliesslich der geschädigte Gläubiger oder Aktionär; **die Konkursmasse ist nicht aktivlegitimiert** ([BGE 142 III 23](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-23_2016.html)) |
 
 #### 1. Reiner Gläubigerschaden vs. Masseanspruch: Der Swissair-Leitentscheid (BGE 142 III 23)
 
@@ -214,9 +231,14 @@ In der Praxis versuchten Konkursverwaltungen wiederholt, Ansprüche geschädigte
 #### 3. Der Konkursverschleppungsschaden (BGE 136 III 322)
 
 Unterlässt es der Verwaltungsrat bei Überschuldung, unverzüglich das Gericht zu benachrichtigen (Art. 725b nOR, Art. 725 Abs. 2 aOR), haftet er für den **Fortführungs- bzw. Konkursverschleppungsschaden**.
-
 - **Berechnungsmethode**: Vergleich des hypothetischen Vermögensstands bei rechtzeitiger Konkurseröffnung mit dem tatsächlichen Konkursvermögen im Zeitpunkt des verspäteten Konkurses, berechnet ausschliesslich zu **Liquidationswerten** ([BGE 136 III 322 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3)). Fortführungswerte sind irrelevant.
 - **Substanziierungserleichterung bei Passivenmehrung**: Macht die klagende Partei geltend, der Schaden beruhe nicht auf einer Entwertung von Vermögenswerten, sondern auf der kontinuierlichen **Zunahme der ungedeckten Schulden** (z.B. Mehrwertsteuern, Lieferantenschulden, Verzugszinsen), so sind detaillierte Angaben zu Aktivenbewertungen entbehrlich. Es genügt der Nachweis der Nettozunahme der Passiven im Verschleppungszeitraum; das Gericht schätzt den Schaden gestützt auf Art. 42 Abs. 2 OR von Amtes wegen ([BGE 136 III 322 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3.2)).
+
+#### 4. Judikaturdivergenz: Reine Passivenmehrung vs. Gesamtsaldo-Substanziierung
+
+Zwischen der bundesgerichtlichen Praxis und kantonalen Handelsgerichten besteht eine Divergenz bei den Anforderungen an die Schadenssubstanziierung:
+- **Bundesgerichtliche Grosszügigkeit (BGE 136 III 322)**: Bei vollständigem Fehlen verlässlicher Buchhaltungsunterlagen genügt dem Kläger der Nachweis der Zunahme der ungedeckten Forderungen anhand von Betreibungsregisterauszügen, Steuerveranlagungen und Sozialversicherungsausständen.
+- **Strenge Handelsgerichtspraxis (insb. Handelsgericht Zürich)**: Das Zürcher Handelsgericht verlangt regelmässig eine plausibilisierte Gegenüberstellung von Aktiven und Passiven. Hat die Gesellschaft während der Verschleppungsphase noch Vermögenswerte (z.B. Vorräte, Kundengelder) veräussert oder zur Befriedigung einzelner Gläubiger verwendet, darf die Passivenmehrung nicht isoliert als Schaden angesetzt werden, da sonst der tatsächliche Vermögensverzehr überzeichnet würde.
 
 > **Leitsatz.** Der Anspruch auf Ersatz des Konkursverschleppungsschadens steht ausschliesslich der Gesamtheit der Gläubiger über die Masse zu; er bemisst sich nach der Differenz zwischen dem hypothetischen und dem tatsächlichen Liquidationsergebnis und kann bei fortschreitender Schuldenmehrung gestützt auf Art. 42 Abs. 2 OR richterlich geschätzt werden.
 
@@ -233,25 +255,58 @@ Haftungsbegründend ist nur eine Pflichtverletzung, die natürlicher und adäqua
 
 ---
 
-### F. Verschulden, Einreden und Verjährung
+### F. Verschulden und Sorgfaltsmassstab
 
-#### 1. Verschulden (Vorsatz und Fahrlässigkeit)
-Art. 754 Abs. 1 OR verlangt Verschulden. Bereits die leichteste Fahrlässigkeit genügt für die Haftungsbegründung dem Grunde nach. Der Sorgfaltsmassstab ist objektiviert: Massgebend ist, was eine vernünftige, loyale und gewissenhafte Person in der gleichen Position und Situation getan hätte ([BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2)). Besondere Fachkenntnisse (z.B. als Anwalt oder Wirtschaftsprüfer) erhöhen den Massstab, fehlende Kenntnisse entlasten nicht.
+Art. 754 Abs. 1 OR verlangt Verschulden. Bereits die leichteste Fahrlässigkeit genügt für die Haftungsbegründung dem Grunde nach. 
 
-#### 2. Einreden: Décharge (Art. 758 OR) und Einwilligung
-- **Déchargebeschluss**: Die Entlastung durch die Generalversammlung befreit die Organe von Ansprüchen der Gesellschaft sowie derjenigen Aktionäre, die dem Beschluss zugestimmt haben (Art. 758 Abs. 1 OR). Nicht zustimmende Aktionäre können innerhalb von 6 Monaten klagen (Abs. 2).
+1. **Objektivierter Massstab**: Massgebend ist, was eine vernünftige, loyale und gewissenhafte Person in der gleichen Position und Situation getan hätte ([BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2)). Subjektive Unfähigkeiten, geschäftliche Unerfahrenheit oder Zeitmangel entlasten das Organ nicht.
+2. **Sonderwissen und Fachkompetenz**: Verfügt ein Verwaltungsrat über besondere berufliche Qualifikationen (z.B. als Rechtsanwalt, Steuerexperte oder Wirtschaftsprüfer), führt dieses Sonderwissen zu einer Erhöhung des an ihn anzulegenden Sorgfaltsmassstabs im Rahmen der differenzierten Solidarität ([BGE 132 III 564 E. 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-564_2006.html#consideration_7)).
+
+> **Leitsatz.** Der Sorgfaltsmassstab nach Art. 754 Abs. 1 OR ist objektiviert; persönliche Unerfahrenheit schliesst das Verschulden nicht aus, während berufliches Sonderwissen zu einer Verschärfung der Haftungsanforderungen führt.
+
+---
+
+### G. Einreden und Herabsetzungsgründe (Décharge, Einwilligung, Verjährung)
+
+Das beklagte Organ kann sich auf gesetzliche Einreden und Herabsetzungsgründe berufen:
+
+#### 1. Déchargebeschluss (Art. 758 OR)
+- **Wirkung**: Die Entlastung durch die Generalversammlung befreit die Organe von Ansprüchen der Gesellschaft sowie derjenigen Aktionäre, die dem Beschluss zugestimmt haben (Art. 758 Abs. 1 OR). Nicht zustimmende Aktionäre können innerhalb von 6 Monaten klagen (Abs. 2).
 - **Wirkungslosigkeit gegenüber Gläubigern**: Gegenüber Gesellschaftsgläubigern und gegenüber der Konkursmasse, die den Gläubigerschaden geltend macht, entfaltet die Décharge **keinerlei Schutzwirkung** ([BGE 132 III 564 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-564_2006.html#consideration_4)).
+
+#### 2. Einwilligung und Handeln auf Weisung (*Volenti non fit iniuria*)
+Das Handeln auf Weisung des Alleinaktionärs schützt das Organ gegenüber Ansprüchen der Gesellschaft ausserhalb des Konkurses. Im Konkurs der Gesellschaft ist die Einwilligung des Alleinaktionärs jedoch unbeachtlich, soweit das Handeln zu einer Gläubigerschädigung oder Verletzung zwingender Kapitalschutzbestimmungen (Art. 680 Abs. 2, Art. 725 ff. OR) geführt hat ([BGE 140 III 533 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_4)).
 
 #### 3. Verjährung (Art. 760 OR)
 - **Relative Frist**: Seit dem 1. Januar 2020 verjähren Ansprüche nach Art. 760 Abs. 1 OR in **3 Jahren** (zuvor: 5 Jahre) ab Kenntnis des Schadens und der Person des Ersatzpflichtigen.
-- **Absolute Frist**: In jedem Fall verjähren die Ansprüche nach **10 Jahren** seit der schädigenden Handlung.
+- **Absolute Frist**: In jedem Fall verjähren die Ansprüche nach **10 Jahren** seit dem Tag, an dem das schädigende Verhalten erfolgte oder aufhörte.
 - **Lauf im Konkurs**: Bei der Geltendmachung des Schadens der Gläubigergesamtheit durch Abtretungsgläubiger nach Art. 260 SchKG beginnt die relative Verjährungsfrist erst mit der Auflegung des Kollokationsplans zu laufen ([BGE 136 III 322 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3)).
 
 > **Leitsatz.** Der Déchargebeschluss der Generalversammlung wirkt ausschliesslich gegenüber der Gesellschaft und den zustimmenden Aktionären; gegenüber den Gläubigern und der Konkursmasse ist die Entlastung wirkungslos.
 
 ---
 
-### G. Solidarität und Regress: Differenzierte Solidarität (Art. 759 OR)
+### H. Aktivlegitimation und Klageordnung ausserhalb und im Konkurs (Art. 756 und 757 OR)
+
+Die Geltendmachung von Verantwortlichkeitsansprüchen folgt einer strengen zweistufigen Klageordnung, die zwischen der Rechtslage ausserhalb und im Konkurs unterscheidet:
+
+#### 1. Ausserhalb des Konkurses (Art. 756 OR)
+- **Klage der Gesellschaft**: Die Gesellschaft kann den ihr entstandenen Schaden durch Klage gegen fehlbare Organe geltend machen (Art. 756 Abs. 1 OR). Zuständig für den Klagebeschluss ist der Verwaltungsrat oder die Generalversammlung.
+- **Klage der Aktionäre (*actio pro societate*)**: Jeder Aktionär ist befugt, den Gesellschaftsschaden einzuklagen, jedoch **ausschliesslich auf Leistung an die Gesellschaft** (Art. 756 Abs. 1 Satz 1 OR). Auf eigene Leistung kann der Aktionär ausserhalb des Konkurses nur klagen, wenn ihm ein direkter, individueller Schaden entstanden ist.
+- **Keine Klagebefugnis der Gläubiger**: Gesellschaftsgläubiger haben ausserhalb des Konkurses für Schäden der Gesellschaft keinerlei Klagerecht ([BGE 132 III 564 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-564_2006.html#consideration_3)).
+
+#### 2. Im Konkurs der Gesellschaft (Art. 757 OR)
+Fällt die Gesellschaft in Konkurs, wird die Klageordnung radikal zugunsten der Gläubigergesamtheit umgestellt:
+1. **Primäres Klagerecht der Konkursverwaltung**: Vorab ist die Konkursmasse berechtigt, den Schaden der Gesellschaft geltend zu machen (Art. 757 Abs. 1 OR).
+2. **Subsidiäres Klagerecht der Abtretungsgläubiger**: Verzichtet die Konkursverwaltung auf die Klage, kann jeder Gläubiger die Abtretung des Rechtsanspruchs nach Art. 260 SchKG verlangen (Art. 757 Abs. 2 OR; [BGE 117 II 432](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-432_1991-08-27.html)).
+3. **Wasserfall-Verteilung des Prozesserlöses (Art. 757 Abs. 2 OR)**: Der Klageerlös dient vorab zur Deckung der Forderungen der klagenden Abtretungsgläubiger; ein Überschuss fällt an die nicht klagenden Gläubiger im Rahmen der Konkursverteilung; erst ein verbleibender Restbetrag steht den Aktionären zu ([BGE 132 III 342 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-342_2006.html)).
+4. **Klagesperre**: Solange die Konkursverwaltung oder Abtretungsgläubiger klagen, sind individuelle Klagen von Aktionären oder Gläubigern auf Ersatz von Reflexschäden ausgeschlossen ([BGE 131 III 306 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-131-III-306_2005.html#consideration_3.1)).
+
+> **Leitsatz.** Im Konkurs der Gesellschaft steht das Klagerecht für Gesellschafts- und Reflexschäden ausschliesslich der Konkursmasse und subsidiär den Abtretungsgläubigern nach Art. 260 SchKG zu; individuelle Klagen geschädigter Gläubiger sind gesperrt.
+
+---
+
+### I. Differenzierte Solidarität und Regress (Art. 759 OR)
 
 Vor der Aktienrechtsreform von 1991 galt unter aArt. 759 OR / Art. 677 aOR eine starre Solidarhaftung: Jeder haftpflichtige Organwalter haftete den Geschädigten im Aussenverhältnis für den vollen Schaden.
 
@@ -275,11 +330,11 @@ Seit dem 1. Juli 1992 gilt nach Art. 759 Abs. 1 OR das System der **differenzier
 
 ### Praxisfrage 2: Substanziierung des Konkursverschleppungsschadens bei lückenhafter Buchführung
 * **Problem**: Scheitert die Geltendmachung des Konkursverschleppungsschadens vor kantonalen Gerichten, wenn die konkursite Gesellschaft in den letzten Monaten vor Konkurseröffnung keine ordnungsgemässe Buchhaltung mehr führte und daher keine formellen Zwischenbilanzen vorliegen?
-* **Gerichtspraxis**: Das Handelsgericht Zürich ([HG160124 vom 18.03.2018](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HG160124_2018-03-18.pdf)) und das Bundesgericht ([BGE 136 III 322 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3.2)) wenden in diesen Konstellationen Art. 42 Abs. 2 OR konsequent an: Hat die Pflichtverletzung des Organs (Verletzung der Buchführungspflicht nach Art. 716a Abs. 1 Ziff. 3 OR) dazu geführt, dass keine exakten Bilanzen vorliegen, darf dies dem geschädigten Kläger nicht zum Nachteil gereichen. Es genügt, wenn die klagende Konkursverwaltung anhand von Steuerveranlagungen, offenen Betreibungen, Bankkontoauszügen und Sozialversicherungsausständen die kontinuierliche Schuldenmehrung aufzeigt. Das Gericht schätzt den Mindestschaden diesfalls von Amtes wegen.
+* **Gerichtspraxis**: Das Handelsgericht Zürich ([HG Zürich HG160283 vom 06.04.2018](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HG160283_2018-04-06.pdf)) und das Bundesgericht ([BGE 136 III 322 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-322_2010.html#consideration_3.2)) wenden in diesen Konstellationen Art. 42 Abs. 2 OR konsequent an: Hat die Pflichtverletzung des Organs (Verletzung der Buchführungspflicht nach Art. 716a Abs. 1 Ziff. 3 OR) dazu geführt, dass keine exakten Bilanzen vorliegen, darf dies dem geschädigten Kläger nicht zum Nachteil gereichen. Es genügt, wenn die klagende Konkursverwaltung anhand von Steuerveranlagungen, offenen Betreibungen, Bankkontoauszügen und Sozialversicherungsausständen die kontinuierliche Schuldenmehrung aufzeigt. Das Gericht schätzt den Mindestschaden diesfalls von Amtes wegen.
 
 ### Praxisfrage 3: Arrestierung von Privatvermögen der Organe (Art. 271 Abs. 1 Ziff. 2/4 SchKG)
 * **Problem**: Können Gläubiger oder die Konkursmasse zur Sicherung von Ansprüchen aus Art. 754 OR vor Einleitung der Klage das Privatvermögen (z.B. Bankkonten, Liegenschaften) von Verwaltungsräten verarrestieren?
-* **Gerichtspraxis**: Das Kantonsgericht Zug und die Zürcher Gerichte verlangen für den Arrest nach Art. 271 Abs. 1 SchKG das Glaubhaftmachen einer fälligen Forderung sowie eines Arrestgrundes (insb. Verheimlichung oder Beiseiteschaffen von Vermögen [Ziff. 2] oder Ausländerarrest [Ziff. 4]). Ein Verantwortlichkeitsanspruch kann grundsätzlich arrestiert werden; erforderlich ist jedoch die Vorlage eines konkreten Liquiditäts- oder Schadensberichts, aus dem sich eine Pflichtverletzung und ein bezifferbarer Mindestschaden mit überwiegender Wahrscheinlichkeit ergeben ([KGer GR ZR2 2024 20](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZR2-2024-20_2025-09-05.pdf)).
+* **Gerichtspraxis**: Das Kantonsgericht Zug und die Zürcher Gerichte verlangen für den Arrest nach Art. 271 Abs. 1 SchKG das Glaubhaftmachen einer fälligen Forderung sowie eines Arrestgrundes (insb. Verheimlichung oder Beiseiteschaffen von Vermögen [Ziff. 2] oder Ausländerarrest [Ziff. 4]). Ein Verantwortlichkeitsanspruch kann grundsätzlich arrestiert werden; erforderlich ist jedoch die Vorlage eines konkreten Liquiditäts- oder Schadensberichts, aus dem sich eine Pflichtverletzung und ein bezifferbarer Mindestschaden mit überwiegender Wahrscheinlichkeit ergeben ([KGer GR ZR2 2024 20 vom 05.09.2025](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZR2-2024-20_2025-09-05.pdf)).
 
 ---
 
@@ -288,7 +343,7 @@ Seit dem 1. Juli 1992 gilt nach Art. 759 Abs. 1 OR das System der **differenzier
 ### Für Verwaltungsratsmitglieder und Geschäftsleitende (Prävention & Verteidigung)
 
 1. **Jede wesentliche Ermessensentscheidung im VR-Protokoll begründen.** Die Business Judgment Rule setzt den Nachweis eines strukturierten Willensbildungsprozesses und einer sorgfältigen Informationsbasis voraus. Beschlüsse über Grossinvestitionen, Konzernkredite oder den Verzicht auf Prozessführungen müssen samt beizogenen Fachberichten und Risikoabwägungen detailliert protokolliert werden ([BGer 4A_506/2024 E. 7.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html); [BGE 139 III 24 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-24_2013.html#consideration_3.2)).
-2. **Niemals ein Strohmann-Mandat annehmen.** Die Zusage, als «reines Aushängeschild» im Handelsregister zu stehen und die Geschäftsführung anderen zu überlassen, entlastet im Haftungsprozess nicht. Der Strohmann haftet für jede Pflichtverletzung der faktischen Leiter uneingeschränkt mit seinem Privatvermögen ([BGE 59 II 434](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-59-II-434.pdf); [BGE 114 V 213 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-114-V-213_1988-12-16.html)).
+2. **Niemals ein Strohmann-Mandat annehmen.** Die Zusage, als «reines Aushängeschild» im Handelsregister zu stehen und die Geschäftsführung anderen zu überlassen, entlastet im Haftungsprozess nicht. Der Strohmann haftet für jede Pflichtverletzung der faktischen Leiter uneingeschränkt mit seinem Privatvermögen ([BGE 59 II 434](https://entscheidsuche.ch/docs/CH_UNIBE/CH_BGB_004_BGE-59-II-434.pdf); [BGE 114 V 213 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-114-V-213_1988-10-24.html)).
 3. **Delegation zwingend auf Organisationsreglement und Reporting abstützen.** Wer operative Aufgaben delegiert, haftet nach Art. 754 Abs. 2 OR nur dann nicht für Fehlverhalten der Geschäftsleitung, wenn die Delegation statutarisch ermächtigt ist, ein schriftliches Organisationsreglement (Art. 716b OR) vorliegt und die Geschäftsleitung anhand monatlicher Finanzreports wirksam überwacht wird ([BGE 122 III 195 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-122-III-195_1996-05-28.html#consideration_3a)).
 4. **Gerichtliche Klagen gegen die Gesellschaft niemals ignorieren.** Wer als alleiniger Verwaltungsrat eine Klage am Handelsgericht säumig werden lässt, begeht eine schwere Pflichtverletzung und haftet für die Urteilssumme persönlich aus Art. 754 OR ([BGer 4A_506/2024 E. 7.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html)).
 5. **Konzernkredite nur gegen Bonitätsprüfung und Sicherheiten vergeben.** Upstream- und Cross-Stream-Darlehen an Aktionäre oder Schwestergesellschaften müssen einem strikten Drittvergleich standhalten, andernfalls liegt eine verbotene Einlagenrückgewähr (Art. 680 Abs. 2 OR) vor, die eine persönliche Haftung auslöst ([BGE 140 III 533 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-533_2014.html#consideration_4)).

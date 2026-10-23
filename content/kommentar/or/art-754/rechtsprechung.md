@@ -2,21 +2,26 @@
 title: "Rechtsprechung zu Art. 754 OR"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-09-11
+lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 754 OR – Aktienrechtliche Organverantwortlichkeit, historische Rechtsprechung (Art. 674 aOR), faktische Organschaft, Business Judgment Rule, Konkursverschleppung und Schadenstypen."
 tags: ["Rechtsprechung", "OR", "Verantwortlichkeit", "Organhaftung", "Verwaltungsrat", "Business Judgment Rule"]
 agent_verified: true
 revisions:
-  - date: 2026-08-29
+  - date: 2026-10-23
     by: "Antigravity Agent"
-    model: "gemini-3.7-flash"
+    model: "gemini-3.8-flash"
     mcp_verified: true
-    note: "Erstfassung der Rechtsprechungsübersicht zu Art. 754 OR."
+    note: "Erweiterung und Harmonisierung mit dem Praxiskommentar: Aufnahme von BGE 132 III 342 (Aktivlegitimation und Verrechnungseinrede des Abtretungsgläubigers), BGE 117 II 432 (Klageordnung im Konkurs) und HG Zürich HG160283 (Substanziierung des Konkursverschleppungsschadens vor kantonalem Gericht); Verifikation sämtlicher Fundstellen."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung: Aufnahme des historischen Grundlagenentscheids BGE 59 II 434 (Art. 674 aOR), der Leitentscheide zu faktischer Organschaft (BGE 128 III 92 vs. BGE 128 III 29), Delegation (BGE 122 III 195), Gläubigerschäden (BGE 141 III 112) und der neuesten BGer-Praxis zur Business Judgment Rule (BGer 4A_506/2024)."
+  - date: 2026-08-29
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    mcp_verified: true
+    note: "Erstfassung der Rechtsprechungsübersicht zu Art. 754 OR."
 ---
 
 ## I. Leitentscheide (BGE)
@@ -77,6 +82,13 @@ revisions:
 
 ---
 
+### [BGE 132 III 342 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-342_2006.html)
+- **Thema**: Aktivlegitimation des Abtretungsgläubigers / Verrechnungseinrede und Prozesserlös
+- **Kernaussage**: Der Gläubiger, der sich Verantwortlichkeitsansprüche der Konkursmasse nach Art. 260 SchKG abtreten lässt, klagt in eigenem Namen auf eigene Rechnung für den Gesellschaftsschaden. Die materielle Begründetheit der im Kollokationsplan zugelassenen Forderung des Abtretungsgläubigers darf im Verantwortlichkeitsprozess von den beklagten Organen nicht mehr bestritten werden.
+- **Einschlägig für**: Art. 754 Abs. 1 i.V.m. Art. 757 Abs. 2 OR (Klageordnung im Konkurs)
+
+---
+
 ## II. Weitere Bundesgerichts- und kantonale Entscheide
 
 ### [BGer 4A_506/2024 vom 18.03.2025 E. 7.2 und 8.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-506-2024_2025-03-18.html)
@@ -114,6 +126,13 @@ revisions:
 
 ---
 
+### [BGE 117 II 432](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-432_1991-08-27.html)
+- **Thema**: Klage der Konkursmasse und der Zessionare / Rechtsnatur der Verantwortlichkeitsklage
+- **Kernaussage**: Die Verantwortlichkeitsklage der Konkursmasse oder des Abtretungsgläubigers nach Art. 260 SchKG ist eine einheitliche Gesamtschadensklage aus abgetretenem Recht der Gesellschaft und der Gesamtheit der Gläubiger.
+- **Einschlägig für**: Art. 754 Abs. 1 i.V.m. Art. 757 OR (Aktivlegitimation der Masse)
+
+---
+
 ### [Obergericht Zürich, LB110042 vom 11.05.2012](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LB110042_2012-05-11.pdf)
 - **Kanton**: Zürich
 - **Thema**: Dokumentations- und Protokollierungspflicht bei der Business Judgment Rule
@@ -130,6 +149,14 @@ revisions:
 
 ---
 
+### [Handelsgericht Zürich, HG160283 vom 06.04.2018](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_HG_001_HG160283_2018-04-06.pdf)
+- **Kanton**: Zürich
+- **Thema**: Substanziierung des Konkursverschleppungsschadens vor kantonalem Handelsgericht
+- **Kernaussage**: Bei der Geltendmachung des Schadens aus verspäteter Konkurseröffnung muss die klagende Partei darlegen, ab welchem Zeitpunkt eine Überschuldung vorlag und inwiefern sich der Vermögensstatus bis zur tatsächlichen Konkurseröffnung verschlechtert hat. Ein blosser Hinweis auf die Zunahme der Gläubigerforderungen genügt nicht, wenn im selben Zeitraum Erlöse aus Aktivenverkäufen erzielt wurden.
+- **Einschlägig für**: Art. 754 Abs. 1 i.V.m. Art. 725b OR (Schadenssubstanziierung im Zivilprozess)
+
+---
+
 ### [Kantonsgericht Graubünden, ZR2 2024 20 vom 05.09.2025](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZR2-2024-20_2025-09-05.pdf)
 - **Kanton**: Graubünden
 - **Thema**: Arrestlegung und Glaubhaftmachen der Organhaftung im summarischen Verfahren
@@ -138,4 +165,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-11*
+*Letzte Aktualisierung: 2026-10-23*
