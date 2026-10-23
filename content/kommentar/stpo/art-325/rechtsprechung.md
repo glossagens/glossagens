@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 325 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-09-09"
+lastmod: "2026-10-24"
 description: "Übersicht der Rechtsprechung zu Art. 325 StPO – Inhalt der Anklageschrift: Akkusationsprinzip (Informations- und Umgrenzungsfunktion), Anforderungen an die Sachverhaltsschilderung, Eventualanklagen und kantonale Praxisfragen."
 tags: ["Rechtsprechung", "StPO", "Anklageschrift", "Anklageprinzip", "Informationsfunktion", "Umgrenzungsfunktion", "Eventualanklage", "Hauptverfahren"]
 agent_verified: true
 revisions:
+  - date: "2026-10-24"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 6B_962/2024 vom 14.09.2026 (Abgrenzung von Tatsachenumschreibung und rechtlicher Subsumtion; Umschreibung von Barbezügen vom Firmenkonto genügt den Anforderungen von Art. 325 Abs. 1 lit. f StPO; Antastung des Reinvermögens/der gebundenen Reserven bei einer Einpersonen-AG ist richterliche Rechtsanwendung)."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -20,6 +25,15 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### [BGer 6B_962/2024 vom 14.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.09.2026_6B_962/2024) (I. strafrechtliche Abteilung, von Felten, Heine, Wohlhauser, Gerichtsschreiber Grünenfelder)
+- **Thema**: Abgrenzung von Tatsachenumschreibung und rechtlicher Subsumtion; Bestimmtheitsgebot bei Vermögensdelikten (Art. 158 StGB) in einer Einpersonen-AG
+- **Sachverhalt**: Die alleinige Verwaltungsrätin und Alleinaktionärin einer AG hob den Restkaufpreis aus einem Verkauf einer Gesellschaftsliegenschaft in Höhe von Fr. 352'332 bar von einem Konto der Gesellschaft ab. Die Staatsanwaltschaft klagte ungetreue Geschäftsbesorgung (Art. 158 StGB) an und umschrieb die Barbezüge präzise nach Datum, Betrag und Konto. Das Kantonsgericht Schwyz sprach die Beschuldigte mit der Begründung frei, die Anklageschrift verletze Art. 325 Abs. 1 lit. f StPO, da darin nicht explizit behauptet worden sei, dass das Bankkonto der einzige Vermögenswert der Gesellschaft gewesen sei (Vermögenssituation).
+- **Kernaussage**:
+  - Die Anklageschrift hat die Tat in objektiver und subjektiver Hinsicht so präzise zu umschreiben, dass die Vorwürfe genügend konkretisiert sind (Umgrenzungs- und Informationsfunktion; Art. 325 Abs. 1 lit. f StPO). Diesen Anforderungen war mit der lückenlosen Schilderung der Barabhebungen Genüge getan.
+  - Die Frage, ob das Reinvermögen der Gesellschaft im Umfang des Aktienkapitals und der gebundenen Reserven herabgemindert wurde (was bei einer Einpersonen-AG zur Annahme einer tatbestandsmässigen Schädigung nach Art. 158 StGB erforderlich ist), ist Gegenstand der **rechtlichen Würdigung und richterlichen Subsumtion**, nicht der sachverhaltlichen Umschreibung der Anklageschrift.
+  - Das Sachgericht hat den dargelegten Lebenssachverhalt von Amtes wegen rechtlich zu würdigen und darf die Anklage nicht wegen Fehlens rechtlicher Subsumtionsschritte verwerfen.
+- **Einschlägig für**: Art. 325 Abs. 1 lit. f und lit. g
 
 ### [BGE 143 IV 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-63_2017.html) E. 2.2 und 2.3
 - **Thema**: Akkusationsprinzip, Doppelfunktion der Anklageschrift, herabgesetzte Anforderungen an den subjektiven Tatbestand, fehlende Ortsangaben bei feststehendem Verhaltensvorwurf

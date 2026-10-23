@@ -2,11 +2,16 @@
 title: "Art. 325 StPO — Inhalt der Anklageschrift"
 weight: 325
 date: "2026-08-30"
-lastmod: 2026-10-15
+lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 325 StPO: Inhalt der Anklageschrift, Akkusationsprinzip (Informations- und Umgrenzungsfunktion), Tatumschreibung («möglichst kurz, aber genau»), Kasuistik, Alternativ- und Eventualanklage sowie prozessuale Rügeobliegenheiten."
 tags: ["StPO", "Anklageschrift", "Anklageprinzip", "Informationsfunktion", "Umgrenzungsfunktion", "Immutabilität", "Eventualanklage", "Hauptverfahren", "Praxiskommentar"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Leitentscheids BGer 6B_962/2024 vom 14.09.2026: Abgrenzung von Tatsachenkern und richterlicher Subsumtion; Umschreibung von Barbezügen vom Firmenkonto genügt den Anforderungen von Art. 325 Abs. 1 lit. f StPO; Antastung des Reinvermögens/der gebundenen Reserven bei einer Einpersonen-AG (Art. 158 StGB) ist richterliche Rechtsanwendung."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -83,6 +88,10 @@ Der Gesetzeswortlaut fordert eine Schilderung, die «möglichst kurz, aber genau
 Die Anklage muss Lebenssachverhalte schildern, nicht Rechtsbegriffe wiederholen. Die blosse Verwendung von Gesetzeswörtern (z.B. «handelte arglistig», «in Bereicherungsabsicht», «verkaufte Drogen») ohne Darlegung des konkreten äusseren Geschehens verletzt das Akkusationsprinzip gravierend:
 
 > **Leitsatz.** Bei gewerbsmässigem Betäubungsmittelhandel genügt der Vorwurf, der Beschuldigte habe an unbestimmten Daten «in Pratteln und anderswo» ca. 330 kg getrocknete Hanfblüten an diverse Abnehmer verkauft, den bundesrechtlichen Anforderungen von Art. 325 Abs. 1 lit. f StPO nicht. Die blosse Nennung einer Gesamtmenge ohne Beschreibung einzelner Verkaufsvorgänge, annähernder Daten oder Abnehmer ist eine unzulässige Übernahme des Gesetzesbegriffs («Verkauf») und führt zu einer verfassungswidrigen Umkehr der Beweislast: Der Beschuldigte müsste beweisen, wo und wann er nicht gehandelt hat. Die Verurteilung wegen gewerbsmässigen Drogenhandels und die Ersatzforderung wurden aufgehoben ([BGer 6B_959/2013 vom 28. August 2014, E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-959-2013_2014-08-28.html)).
+
+Umgekehrt dürfen die kantonalen Gerichte keine überspannten formalen Anforderungen an die Anklageschrift stellen, indem sie richterliche Subsumtionsschritte als fehlende Sachverhaltselemente rügen:
+
+> **Leitsatz.** Die alleinige Verwaltungsrätin einer Einpersonen-AG hob nach dem Verkauf einer Gesellschaftsliegenschaft den Restkaufpreis von Fr. 352'332 bar vom Konto der Gesellschaft ab. Die Anklage wegen ungetreuer Geschäftsbesorgung (Art. 158 StGB) umschrieb die Barbezüge nach Datum, Betrag und Konto. Das Kantonsgericht Schwyz sprach die Beschuldigte frei, weil in der Anklage nicht explizit behauptet worden sei, dass das Bankkonto der einzige Vermögenswert der Gesellschaft gewesen sei. Das Bundesgericht hob den Freispruch auf: Die Anklage hatte den Sachverhalt unverwechselbar umgrenzt (Art. 325 Abs. 1 lit. f StPO). Ob das Reinvermögen der Gesellschaft unter das Aktienkapital und die gesetzlichen Reserven herabgemindert wurde (tatbestandsmässige Schädigung nach Art. 158 StGB bei einer Einpersonen-AG), ist Gegenstand der **rechtlichen Würdigung und Subsumtion vor Gericht**, nicht der sachverhaltlichen Umschreibung der Anklageschrift ([BGer 6B_962/2024 vom 14.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.09.2026_6B_962/2024)).
 
 #### 3. Kausalverlauf und Erfolgszurechnung
 

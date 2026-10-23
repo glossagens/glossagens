@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-09-04
+lastmod: 2026-10-24
 description: "Übersicht der Rechtsprechung zu Art. 221 StPO – Dringender Tatverdacht, Fluchtgefahr, Kollusionsgefahr, einfache und qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.), Ausführungsgefahr und Ersatzmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026 zu Art. 221 Abs. 1 lit. a und Art. 237 StPO (moderate Fluchtgefahr bei abgewiesenen Asylsuchenden, Nothilfe als Verankerungsfaktor, Verbot strafprozessualer Haft als Surrogat für Ausschaffungshaft, Vorrang von Ersatzmassnahmen)."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -20,6 +25,15 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026) (II. strafrechtliche Abteilung, Abrecht, Kölz, Hofmann, Gerichtsschreiberin Kern)
+- **Thema**: Fluchtgefahr bei abgewiesenen Asylbewerbern, existenzielle Abhängigkeit von Nothilfe als Verankerungsfaktor, Verbot der Untersuchungshaft als Surrogat für Ausschaffungshaft und zwingender Vorrang von Ersatzmassnahmen
+- **Sachverhalt**: Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche mit kurzer Straferwartung). Das Zwangsmassnahmengericht und das Obergericht des Kantons Zürich ordneten Untersuchungshaft wegen angeblich «ausgeprägter» Fluchtgefahr an, gestützt auf das abgewiesene Asylgesuch und das Fehlen familiärer Beziehungen in der Schweiz.
+- **Kernaussage**:
+  1. *Moderate Fluchtgefahr*: Das Fehlen familiärer Bindungen und ein abgewiesenes Asylgesuch begründen für sich allein keine ausgeprägte Fluchtgefahr, wenn keine konkreten Fluchtvorbereitungen vorliegen und die Straferwartung gering ist. Die existenzielle Angewiesenheit auf behördliche Unterstützung (Nothilfe / Betreuung im Asylwesen) wirkt in solchen Konstellationen als tauglicher Verankerungsfaktor; die Fluchtgefahr ist lediglich als moderat einzustufen.
+  2. *Strikte Trennung von Straf- und Migrationsverfahren (Surrogatverbot)*: Strafprozessuale Untersuchungshaft (Art. 221 StPO) dient ausschliesslich der Sicherung des hängigen Strafverfahrens. Sie darf niemals als Surrogat oder Vorwegnahme für ausländerrechtliche Ausschaffungs- oder Vorbereitungshaft (Art. 75 ff. AIG) zweckentfremdet werden. Die Befürchtung, der Betroffene könnte sich einer Wegweisung entziehen, begründet ein migrationsrechtliches Vollzugsproblem und rechtfertigt keine strafprozessuale Haft.
+  3. *Vorrang von Ersatzmassnahmen (Art. 237 StPO)*: Bei lediglich moderater Fluchtgefahr gebietet das Verhältnismässigkeitsprinzip zwingend die Prüfung und Anordnung milderer Ersatzmassnahmen (wie periodische polizeiliche Meldepflichten, Rayonverbote oder Schriftensperren). Die Aufrechterhaltung der Untersuchungshaft war bundesrechtswidrig.
+- **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
 
 ### [BGer 7B_1035/2024 vom 19.11.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html) E. 2.9–2.11 (zur Publikation als BGE bestimmt)
 - **Thema**: Gesetzgeberische Invalidierung der bisherigen Rechtsprechung zu den Vortaten bei einfacher Wiederholungsgefahr (Abs. 1 lit. c)

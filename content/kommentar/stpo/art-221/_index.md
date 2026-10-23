@@ -2,11 +2,16 @@
 title: "Art. 221 StPO — Voraussetzungen der Untersuchungshaft und Sicherheitshaft"
 weight: 221
 date: 2026-08-30
-lastmod: 2026-10-15
+lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher Zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft"]
 agent_verified: false
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026: Einstufung der Fluchtgefahr bei abgewiesenen Asylsuchenden als nur moderat bei geringer Straferwartung; existenzielle Abhängigkeit von Nothilfe als Verankerungsfaktor; strikte Trennung von Straf- und Migrationsverfahren (Verbot der strafprozessualen Haft als Surrogat für Ausschaffungshaft); zwingender Vorrang von Ersatzmassnahmen (Art. 237 StPO); Erweiterung der Grenzkasuistik-Tabelle."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -153,17 +158,28 @@ Das Bundesgericht hob den Entscheid auf und **ordnete die sofortige Haftentlassu
 - Weil er auf Nothilfe angewiesen war, bestand eine existenzielle ökonomische Bindung an die Schweiz.
 - Wer ein derart diszipliniertes Vollzugsverhalten an den Tag legt, begründet keine Fluchtgefahr, nur weil die neue Strafe mit 6 Monaten etwas höher ausfällt als die früheren ([BGer 1B_323/2023 vom 4. Juli 2023 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html)).
 
-#### 4. Gegenüberstellungstabelle: Grenzziehung Fluchtgefahr
+#### 4. Moderate Fluchtgefahr bei Asylsuchenden, Vorrang von Ersatzmassnahmen und Verbot der Scheinhaft (BGer 7B_1311/2026)
+In Fortführung und Präzisierung der Grundsätze aus BGer 1B_323/2023 definierte das Bundesgericht im Leitentscheid [BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026) (II. strafrechtliche Abteilung, Abrecht, Kölz, Hofmann, Gerichtsschreiberin Kern) die verfassungs- und konventionsrechtlichen Schranken strafprozessualer Haft bei mittellosen Asylsuchenden:
 
-| Kriterium | [BGE 145 IV 503](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html) — **Fluchtgefahr bejaht** | [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) — **Fluchtgefahr verneint (Haftentlassung)** |
-|---|---|---|
-| **Drohende Sanktion** | 18 Jahre Freiheitsstrafe wegen Mordes (faktisch lebenslang) | 6 Monate unbedingte Freiheitsstrafe (Diebstahl) |
-| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH |
-| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten |
-| **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt |
-| **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet |
+Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche), bei denen eine eher kurze Freiheitsstrafe zu erwarten war. Das Zwangsmassnahmengericht und das Obergericht des Kantons Zürich ordneten Untersuchungshaft an und begründeten dies mit einer angeblich «ausgeprägten» Fluchtgefahr infolge fehlender familiärer Verwurzelung und des abgewiesenen Asylstatus.
 
-> **Merksatz.** Ausländische Staatsangehörigkeit und das Fehlen von Familienbanden begründen für sich allein keine Fluchtgefahr. Wer als Beschuldigter belegen kann, dass er sich früheren Verfahren stets gestellt hat oder auf behördliche Unterstützung angewiesen ist, entkräftet den Haftgrund der Fluchtgefahr wirksam. Umgekehrt schützt ein hohes Alter nicht vor Haft, wenn die Straferwartung die Restlebenserwartung übersteigt.
+Das Bundesgericht hob den Haftentscheid auf und begründete dies mit drei Grundsatzüberlegungen:
+1. **Moderate statt ausgeprägte Fluchtgefahr**: Ausländische Staatsangehörigkeit, ein abgewiesenes Asylgesuch und fehlende familiäre Beziehungen begründen für sich allein keine akute oder ausgeprägte Fluchtgefahr. Liegen keine konkreten Fluchtvorbereitungen vor und ist die Straferwartung gering, ist die Fluchtgefahr lediglich als **moderat** einzustufen. Die existenzielle Angewiesenheit auf behördliche Unterstützung (Nothilfe / Betreuung im Asylwesen) wirkt in solchen Konstellationen als tauglicher Verankerungsfaktor, der dem Fluchtanreiz entgegensteht.
+2. **Strikte Trennung von Straf- und Migrationsverfahren (Surrogatverbot)**: Die strafprozessuale Untersuchungshaft (Art. 221 StPO) bezweckt ausschliesslich die Sicherung des Strafverfahrens. Sie darf von den Gerichten **unter keinen Umständen als Surrogat für migrationsrechtliche Festhaltungen** (Ausschaffungshaft nach Art. 75 ff. AIG) missbraucht werden. Die Gefahr, dass sich ein Ausländer dem Vollzug einer Wegweisung oder Ausschaffung entziehen könnte, berührt das Migrationsrecht und darf nicht in die strafprozessuale Fluchtgefahr eingemischt werden.
+3. **Zwingender Vorrang von Ersatzmassnahmen (Art. 237 StPO)**: Bei lediglich moderater Fluchtgefahr gebietet das Verhältnismässigkeitsprinzip (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c und Art. 237 StPO) zwingend den Vorrang milderer Massnahmen. Die Gerichte sind verpflichtet, Ersatzmassnahmen wie regelmässige polizeiliche Meldepflichten, Schriftensperren oder Rayonverbote positiv zu prüfen und anzuordnen, anstatt auf Freiheitsentzug zu erkennen.
+
+#### 5. Gegenüberstellungstabelle: Grenzziehung Fluchtgefahr
+
+| Kriterium | [BGE 145 IV 503](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html) — **Fluchtgefahr bejaht** | [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) — **Fluchtgefahr verneint (Haftentlassung)** | [BGer 7B_1311/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026) — **Fluchtgefahr moderat (Ersatzmassnahmen)** |
+|---|---|---|---|
+| **Drohende Sanktion** | 18 Jahre Freiheitsstrafe wegen Mordes (faktisch lebenslang) | 6 Monate unbedingte Freiheitsstrafe (Diebstahl) | Kurze Straferwartung (Diebstähle, Hausfriedensbrüche) |
+| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH | Abgewiesener Asylbewerber (Algerien), keine familiären Bindungen, Nothilfebezug |
+| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten | Keine konkreten Fluchtvorbereitungen; existenzielle Abhängigkeit von Nothilfe |
+| **Gefahrenqualifikation** | Akute Fluchtgefahr; massiver Fluchtanreiz überwiegt jede Verankerung | Fluchtgefahr verneint; bewiesene Vollzugstreue entkräftet Verdacht | Nur moderate Fluchtgefahr; Trennung von Straf- und Migrationshaft (Surrogatverbot) |
+| **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt | Zwingend anzuordnen (Meldepflicht, Schriftensperre, Rayonverbot); Vorrang vor Haft |
+| **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet | Haftentscheid aufgehoben; Entlassung unter Ersatzmassnahmen |
+
+> **Merksatz.** Ausländische Staatsangehörigkeit, ein abgewiesenes Asylgesuch und das Fehlen von Familienbanden begründen für sich allein keine ausgeprägte Fluchtgefahr. Wer auf staatliche Nothilfe angewiesen ist und wem nur eine kurze Freiheitsstrafe droht, weist regelmässig nur eine moderate Fluchtgefahr auf; Untersuchungshaft darf in solchen Konstellationen nicht als Surrogat für Ausschaffungshaft missbraucht werden, und Ersatzmassnahmen nach Art. 237 StPO sind zwingend vorrangig.
 
 ---
 
@@ -275,7 +291,7 @@ Haft nach Abs. 2 wird geschützt, wenn die Drohung sich auf Delikte wie Tötung 
 
 #### 1. Die Substanziierungslast: keine abstrakten Angebote
 
-Wer die Freilassung gegen Ersatzmassnahmen verlangt, darf dies nicht abstrakt tun. Das Bundesgericht verlangt, dass die Verteidigung dem Gericht **konkrete, realisierbare Massnahmen unterbreitet** ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Wer Kaution anbietet, muss deren Herkunft und die finanziellen Verhältnisse substanziieren; wer Therapie anbietet, muss eine Bestätigung der Institution über einen freien Therapieplatz vorlegen.
+Wer die Freilassung gegen Ersatzmassnahmen verlangt, darf dies nicht abstrakt tun. Das Bundesgericht verlangt, dass die Verteidigung dem Gericht **konkrete, realisierbare Massnahmen unterbreitet** ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Wer Kaution anbietet, muss deren Herkunft und die finanziellen Verhältnisse substanziieren; wer Therapie anbietet, muss eine Bestätigung der Institution über einen freien Therapieplatz vorlegen. Bei lediglich moderater Fluchtgefahr (insbesondere bei abgewiesenen Asylsuchenden mit geringer Straferwartung und ohne konkrete Fluchtpläne) gebietet das Verhältnismässigkeitsprinzip zudem von Amtes wegen, mildere Massnahmen wie periodische Meldepflichten oder Schriftensperren anzuordnen, anstatt auf Untersuchungshaft zu erkennen ([BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026)).
 
 **Rückbindung.** Das Merkmal scheitert in der Praxis fast nie an der Rechtslage, sondern an der Darlegung: Ein pauschaler Antrag «eventualiter sei der Beschwerdeführer unter Anordnung geeigneter Ersatzmassnahmen freizulassen» erfüllt die Anforderungen nicht und wird ohne materielle Prüfung abgewiesen.
 

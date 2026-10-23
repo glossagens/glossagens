@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 237 StPO"
 weight: 99
 date: "2026-07-04"
-lastmod: "2026-09-18"
+lastmod: "2026-10-24"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 237 StPO: Ersatzmassnahmen an Stelle der Untersuchungs- oder Sicherheitshaft, Electronic Monitoring, Antragsbindung und Widerruf."
 tags: ["Rechtsprechung", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Electronic Monitoring"]
 agent_verified: true
 revisions:
+  - date: "2026-10-24"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026 (zwingender Vorrang von Ersatzmassnahmen wie Meldepflicht, Rayonverbot und Schriftensperre bei moderater Fluchtgefahr abgewiesener Asylbewerber; Verbot von Untersuchungshaft als Surrogat für Ausschaffungshaft)."
   - date: "2026-09-18"
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -20,6 +25,15 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026) (II. strafrechtliche Abteilung, Abrecht, Kölz, Hofmann, Gerichtsschreiberin Kern)
+- **Thema**: Zwingender Vorrang von Ersatzmassnahmen bei moderater Fluchtgefahr abgewiesener Asylbewerber; Verbot der Untersuchungshaft als Surrogat für Ausschaffungshaft
+- **Sachverhalt**: Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche mit kurzer Straferwartung). Das Zwangsmassnahmengericht und das Obergericht des Kantons Zürich ordneten Untersuchungshaft an und verweigerten Ersatzmassnahmen mit der Begründung, es liege wegen des abgewiesenen Status und fehlender familiärer Verwurzelung eine «ausgeprägte» Fluchtgefahr vor.
+- **Kernaussage**: 
+  1. *Einstufung als moderate Fluchtgefahr*: Liegen keine konkreten Fluchtvorbereitungen vor und ist die Straferwartung gering, begründen die ausländische Staatsangehörigkeit und das abgewiesene Asylgesuch für sich allein keine ausgeprägte Fluchtgefahr. Die existenzielle Angewiesenheit auf staatliche Nothilfe und Betreuung im Asylwesen wirkt als relevanter ökonomischer Verankerungsfaktor; die Fluchtgefahr ist als lediglich moderat einzustufen.
+  2. *Surrogatverbot*: Strafprozessuale Untersuchungshaft (Art. 221 StPO) dient ausschliesslich der Sicherung des Strafverfahrens und darf niemals als Surrogat oder Vorwegnahme ausländerrechtlicher Ausschaffungshaft nach Art. 75 ff. AIG missbraucht werden. Ein allfälliges Risiko, dass sich der Betroffene der Ausschaffung entzieht, ist ausschliesslich nach dem Ausländer- und Integrationsgesetz zu handhaben.
+  3. *Zwingender Vorrang von Ersatzmassnahmen*: Bei moderater Fluchtgefahr gebietet das Verhältnismässigkeitsprinzip nach Art. 237 Abs. 1 StPO zwingend die Prüfung und Anordnung von Ersatzmassnahmen (wie regelmässige Meldepflichten bei der Polizei, Rayonverbote und Schriftensperren). Die Anordnung von Untersuchungshaft war bundesrechtswidrig.
+- **Einschlägig für**: Abs. 1, Abs. 2 lit. b, c und d; Art. 221 Abs. 1 lit. a StPO
 
 ### [BGE 142 IV 29](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_IV_29) (21.12.2015)
 - **Thema**: Dispositionsmaxime der Staatsanwaltschaft; keine Untersuchungshaft bei blossem Ersatzmassnahmenantrag

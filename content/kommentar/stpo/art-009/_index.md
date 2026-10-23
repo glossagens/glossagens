@@ -2,11 +2,16 @@
 title: "Art. 9 StPO — Anklagegrundsatz"
 weight: 9
 date: 2026-07-10
-lastmod: 2026-10-15
+lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 9 StPO (Anklagegrundsatz / Akkusationsprinzip): Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot bei Mittäterschaft und Dauerdelikten, Umschreibung des subjektiven Tatbestands, Bindung des Gerichts (Immutabilitätsprinzip), Unzulässigkeit von Sachverhaltserweiterungen im Berufungsverfahren, Strafbefehle und kantonale Praxisfragen."
 tags: ["StPO", "Anklagegrundsatz", "Akkusationsprinzip", "Bestimmtheitsgebot", "Umgrenzungsfunktion", "Informationsfunktion", "Immutabilitätsprinzip", "Mittäterschaft", "Strafbefehl", "Kasuistik"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Leitentscheids BGer 6B_962/2024 vom 14.09.2026: Abgrenzung von Tatsachenumschreibung und rechtlicher Subsumtion; Umschreibung von Barbezügen vom Firmenkonto genügt den Anforderungen von Art. 9 und Art. 325 StPO; Antastung des Reinvermögens/der gebundenen Reserven bei einer Einpersonen-AG (Art. 158 StGB) ist richterliche Subsumtionsaufgabe."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -153,6 +158,10 @@ Das Bundesgericht hielt fest, dass die Umschreibung der konkreten Schussabgaben 
 
 ([BGE 141 IV 132 E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-132_2015.html#consideration_3.4.2)). Ob ein nicht umfriedeter Vorplatz rechtlich als öffentlich zugänglich einzustufen ist, ist Gegenstand der gerichtlichen Rechtsanwendung und muss in der Anklageschrift nicht dogmatisch begründet werden.
 
+**Anwendungsfall (Anklagegrundsatz gewahrt — Vermögensschädigung bei Einpersonen-AG und Subsumtionsaufgabe des Gerichts):**  
+In [BGer 6B_962/2024 vom 14.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.09.2026_6B_962/2024) (I. strafrechtliche Abteilung, von Felten, Heine, Wohlhauser, Gerichtsschreiber Grünenfelder) hob die alleinige Verwaltungsrätin und Alleinaktionärin einer Einpersonen-AG nach dem Verkauf einer Gesellschaftsliegenschaft den Restkaufpreis von Fr. 352'332 bar vom Firmenkonto ab. Die Staatsanwaltschaft klagte ungetreue Geschäftsbesorgung (Art. 158 StGB) an und umschrieb die Barbezüge und die Kontobewegungen exakt nach Betrag, Datum und Konto. Das Kantonsgericht Schwyz sprach die Beschuldigte frei mit der Begründung, die Anklageschrift verletze den Anklagegrundsatz (Art. 9 Abs. 1, Art. 325 StPO), da darin nicht explizit erwähnt worden sei, dass das Bankkonto der einzige Vermögenswert der Gesellschaft gewesen sei (Vermögenssituation).  
+Das Bundesgericht hiess die Beschwerde der Staatsanwaltschaft gut und hob den Schwyzer Freispruch auf: Die Anklageschrift hatte die konkreten Barabhebungen detailliert geschildert; damit war der Vorwurf in sachverhaltlicher Hinsicht unverwechselbar umgrenzt und die Verteidigungsrechte gewahrt. Die Frage, ob das Reinvermögen der Gesellschaft im Umfang des Aktienkapitals und der gebundenen Reserven angetastet wurde (was bei einer Einpersonen-AG die Schädigung nach Art. 158 StGB begründet; vgl. BGE 117 IV 259), ist Gegenstand der **rechtlichen Würdigung und richterlichen Subsumtion**, nicht der sachverhaltlichen Umschreibung der Anklageschrift. Das Kantonsgericht Schwyz hatte überspannte formale Anforderungen an Art. 9 StPO gestellt.
+
 #### 3. Grenzziehungstabelle: Zulässige und unzulässige Sachverhaltsumschreibungen
 
 | Gegenstand | Konstellation | Anforderung nach Art. 9 StPO | Leitentscheid |
@@ -161,6 +170,7 @@ Das Bundesgericht hielt fest, dass die Umschreibung der konkreten Schussabgaben 
 | **Dauerdelikte / Beziehungstaten** | Sexuelle Handlungen über Jahre im Nahbereich | **Zulässig**: Approximative Zeitspannen genügen, wenn das Opfer keine Kalendertage nennen kann | [BGer 6B_1003/2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1003-2020_2021-04-21.html) |
 | **Auslandtaten bei Kontrollverordnungen** | ARV 1 / AETR-Verstösse bei Chauffeurfahrten | **Zulässig**: Exakte Zeit- und Minutendauern genügen; genaue ausländische Streckenorte entbehrlich | [BGE 143 IV 63](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-63_2017.html) |
 | **Rechtsbegriffe / Subsumtion** | «Öffentlich zugänglicher Ort» beim Waffentragen | **Zulässig**: Benennung des realen Orts (Stallvorplatz) reicht; Subsumtion ist Sache des Gerichts | [BGE 141 IV 132](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-132_2015.html) |
+| **Vermögensschaden bei Einpersonen-AG** | Barbezug von Fr. 352'332 vom Firmenkonto bei Art. 158 StGB | **Zulässig**: Umschreibung der Barabhebungen genügt; Antastung des Reinvermögens ist Sache der Subsumtion | [BGer 6B_962/2024](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.09.2026_6B_962/2024) |
 
 > **Leitsatz.** Die Anklageschrift muss die Vorwürfe aus sich selbst heraus verständlich umschreiben; ein pauschaler Verweis auf Einvernahmeprotokolle, Beilagen oder Aktennotizen vermag eine unzureichende Sachverhaltsdarstellung nicht zu heilen.
 

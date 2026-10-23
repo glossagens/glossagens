@@ -2,11 +2,16 @@
 title: "Art. 237 StPO — Ersatzmassnahmen"
 weight: 237
 date: "2026-07-04"
-lastmod: 2026-10-15
+lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 237 StPO: Ersatzmassnahmen an Stelle der Untersuchungs- oder Sicherheitshaft — Subsidiarität, Massnahmenkatalog, Electronic Monitoring, Antragsbindung des ZMG und Widerrufspraxis mit umfassender Grenzkasuistik."
 tags: ["StPO", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Sicherheitsleistung", "Kaution", "Rayonverbot", "Kontaktverbot", "Electronic Monitoring", "Widerruf", "Antragsbindung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026: Zwingender Vorrang von Ersatzmassnahmen (Meldepflicht, Schriftensperre, Rayonverbot) bei abgewiesenen Asylsuchenden mit moderater Fluchtgefahr und geringer Straferwartung; Verbot der Untersuchungshaft als Surrogat für Ausschaffungshaft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -62,7 +67,13 @@ Ein Beschuldigter ohne familiäre oder berufliche Bindungen in der Schweiz traf 
 **Anwendungsfall (Ersatzmassnahmen zwingend zu prüfen): Status F und Arbeitsplatz**  
 Gegen einen afghanischen Staatsangehörigen mit vorläufiger Aufnahme (Ausweis F) wurde wegen des Vorwurfs schwerer Delikte Untersuchungshaft wegen Fluchtgefahr angeordnet. Die Vorinstanz hatte Ersatzmassnahmen mit dem pauschalen Argument verworfen, Ausländer ohne Schweizer Bürgerrecht wiesen stets Fluchtgefahr auf. Das Bundesgericht hob den Entscheid auf: Der Beschuldigte war in der Schweiz seit Jahren berufstätig, verfügte über eine konkrete Aussicht auf Festanstellung und eine Rückkehr in sein krisengeschütteltes Heimatland war objektiv fernliegend. Die Eignung von kombinierten Massnahmen (Meldepflicht und Schriftensperre) musste individuell und vertieft geprüft werden ([BGer 7B_707/2026 vom 2. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_707_2026)).
 
-> **Leitsatz.** Das Zwangsmassnahmengericht verletzt Bundesrecht, wenn es Ersatzmassnahmen ohne individuelle Prüfung der persönlichen Lebensumstände pauschal mit dem Hinweis auf eine ausländische Staatsangehörigkeit verwirft.
+**Anwendungsfall (Vorrang von Ersatzmassnahmen bei Asylsuchenden und Verbot von Scheinhaft): Abgewiesener Asylbewerber mit moderater Fluchtgefahr (BGer 7B_1311/2026)**  
+Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche mit kurzer Straferwartung). Das ZMG und das Obergericht Zürich verweigerten Ersatzmassnahmen und ordneten Untersuchungshaft wegen angeblich «ausgeprägter» Fluchtgefahr an. Das Bundesgericht hob den Entscheid auf ([BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026)):
+- *Moderate Fluchtgefahr*: Da keine konkreten Fluchtvorbereitungen vorlagen und die Straferwartung gering war, lag lediglich eine moderate Fluchtgefahr vor; die existenzielle Angewiesenheit auf staatliche Nothilfe wirkt als ökonomischer Verankerungsfaktor.
+- *Verbot der Scheinhaft als Surrogat*: Die Befürchtung, der Beschuldigte könne sich der ausländerrechtlichen Ausschaffung entziehen, darf nicht über strafprozessuale Haft abgefangen werden; Art. 221 StPO ist kein Surrogat für Ausschaffungshaft nach Art. 75 ff. AIG.
+- *Zwingender Vorrang milderer Mittel*: Bei moderater Fluchtgefahr gebietet Art. 237 Abs. 1 StPO zwingend die Prüfung und Anordnung von Ersatzmassnahmen (regelmässige Meldepflicht bei der Polizei, Rayonverbot, Schriftensperre); die Anordnung von Untersuchungshaft war bundesrechtswidrig.
+
+> **Leitsatz.** Das Zwangsmassnahmengericht verletzt Bundesrecht, wenn es Ersatzmassnahmen ohne individuelle Prüfung der persönlichen Lebensumstände pauschal mit dem Hinweis auf eine ausländische Staatsangehörigkeit oder ein abgewiesenes Asylgesuch verwirft. Bei moderater Fluchtgefahr und geringer Straferwartung sind Ersatzmassnahmen (Meldepflichten, Schriftensperren) zwingend anzuordnen; Untersuchungshaft darf nicht als Surrogat für migrationsrechtliche Ausschaffungshaft missbraucht werden.
 
 ---
 

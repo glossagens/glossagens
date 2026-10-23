@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 9 StPO — Anklagegrundsatz"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-09-09
+lastmod: 2026-10-24
 description: "Umfassende Rechtsprechungsübersicht zu Art. 9 StPO (Anklagegrundsatz): Leitentscheide und Bundesgerichtsurteile zu Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot, Mittäterschaft, subjektivem Tatbestand, Sachverhaltsbindung, Strafbefehlsverfahren und kantonaler Praxis."
 tags: ["Rechtsprechung", "StPO", "Anklagegrundsatz", "Bestimmtheitsgebot", "Akkusationsprinzip", "Strafbefehl", "Mittäterschaft", "Immutabilität"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 6B_962/2024 vom 14.09.2026 zu Art. 9 Abs. 1 StPO (Abgrenzung Sachverhalt vs. rechtliche Würdigung/Subsumtion beim Anklagegrundsatz; Umschreibung von Barbezügen vom Gesellschaftskonto bei Art. 158 StGB genügt; Antastung von Reinvermögen/Reserven bei Einpersonen-AG ist richterliche Subsumtion)."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -25,6 +30,12 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### [BGer 6B_962/2024 vom 14.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=14.09.2026_6B_962/2024) (I. strafrechtliche Abteilung, von Felten, Heine, Wohlhauser, Gerichtsschreiber Grünenfelder)
+- **Thema**: Abgrenzung von Tatsachenumschreibung und rechtlicher Subsumtion; Bestimmtheitsgebot bei Vermögensdelikten (Art. 158 StGB) in einer Einpersonen-AG
+- **Sachverhalt**: Die alleinige Verwaltungsrätin und Alleinaktionärin einer AG hob den Restkaufpreis aus einem Grundstücksverkauf in Höhe von Fr. 352'332 bar von einem Konto der Gesellschaft ab. Die Staatsanwaltschaft klagte ungetreue Geschäftsbesorgung (Art. 158 StGB) an und umschrieb die Barbezüge lückenlos nach Datum, Betrag und Konto. Das Kantonsgericht Schwyz sprach die Beschuldigte mit der Begründung frei, die Anklageschrift verletze den Anklagegrundsatz (Art. 9 Abs. 1, Art. 325 StPO), da darin nicht explizit behauptet worden sei, dass das Bankkonto der einzige Vermögenswert der Gesellschaft gewesen sei.
+- **Kernaussage**: Die Anklage hat die Tatsachen, die den Vorwurf begründen, so präzise zu umschreiben, dass die Vorwürfe in objektiver und subjektiver Hinsicht genügend konkretisiert sind (Umgrenzungs- und Informationsfunktion). Die lückenlose Nennung der Barbezüge genügte diesen Anforderungen. Die Frage, ob das Reinvermögen der Gesellschaft im Umfang des Aktienkapitals und der gebundenen Reserven herabgemindert wurde (was bei einer Einpersonen-AG zur Annahme einer tatbestandsmässigen Schädigung nach Art. 158 StGB erforderlich ist), ist eine Frage der **materiellen Rechtsanwendung und richterlichen Subsumtion**, nicht der sachverhaltlichen Umschreibung der Anklageschrift. Das Urteil der Vorinstanz verletzte Art. 9 StPO durch überspannte formale Anforderungen.
+- **Einschlägig für**: Art. 9 Abs. 1 StPO (i.V.m. Art. 325 Abs. 1 lit. f StPO)
 
 ### [BGE 140 IV 188 E. 1.3–1.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-188_2014.html#consideration_1.3)
 - **Thema**: Anklagegrundsatz im Strafbefehlsverfahren, Mindestanforderungen an den Sachverhalt und Unzulässigkeit gerichtlicher Sachverhaltsergänzung aus den Akten
