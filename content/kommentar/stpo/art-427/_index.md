@@ -69,8 +69,8 @@ Die nachfolgende Tabelle definiert die dogmatische Prüfungsreihenfolge der Tatb
 
 | Prüfschritt | Tatbestandsmerkmal | Gesetzliche Fundstelle | Subsumtionskriterien & Beweislast |
 |---|---|---|---|
-| **A** | Kosten durch Anträge zum Zivilpunkt | Art. 427 Abs. 1 | Formelle Parteistellung als Zivilklägerin (Art. 119 Abs. 2 lit. b StPO); adäquate Kausalität zwischen Zivilantrag und Verfahrenskosten; Eintreten eines Beendigungsgrundes (lit. a–c). Die Behörde trägt die Beweislast für die zivilspezifische Mehrverursachung. |
-| **B** | Kostenauflage an antragstellende Person bei Antragsdelikten | Art. 427 Abs. 2 Ingress, 1. Teilsatz | Kein Parteistatus bzw. Verzicht auf Parteirechte (Art. 120 Abs. 1 StPO); **Mutwilligkeit oder grobe Fahrlässigkeit** bei Einleitung oder Durchführung. Beweislast für das qualifizierte Fehlverhalten liegt bei der Strafbehörde bzw. der beschuldigten Person. |
+| **A** | Kosten durch Anträge zum Zivilpunkt | Art. 427 Abs. 1 | Formelle Parteistellung als Zivilklägerin (Art. 119 Abs. 2 lit. b StPO); adäquate Kausalität zwischen Zivilantrag und Verfahrenskosten; Eintreten eines Beendigungsgrundes (lit. a–c). |
+| **B** | Kostenauflage an antragstellende Person bei Antragsdelikten | Art. 427 Abs. 2 Ingress, 1. Teilsatz | Kein Parteistatus bzw. Verzicht auf Parteirechte (Art. 120 Abs. 1 StPO); **Mutwilligkeit oder grobe Fahrlässigkeit** bei Einleitung oder Durchführung. |
 | **C** | Kostenauflage an die aktive Privatklägerschaft bei Antragsdelikten | Art. 427 Abs. 2 Ingress, 2. Teilsatz | Konstituierung als Straf- oder Zivilklägerin und **aktive Ausübung von Verfahrensrechten**; keine Voraussetzung von Mutwilligkeit; pflichtgemässes Ermessen nach Billigkeit (Art. 4 ZGB). |
 | **D** | Subsidiarität gegenüber der beschuldigten Person | Art. 427 Abs. 2 lit. b i.V.m. Art. 426 Abs. 2 | Vorrang der Kostenauflage an die beschuldigte Person bei rechtswidriger und schuldhafter Verfahrensveranlassung; Beschwerdelegitimation der Privatklägerschaft. |
 | **E** | Staatsanwaltlich vermittelter Vergleich | Art. 427 Abs. 3 | Rückzug des Strafantrags im Rahmen einer behördlichen Einigungsverhandlung (Art. 316 StPO); Kostenlosigkeit der Verfahrenskosten als Regel; kein automatischer Entschädigungsanspruch privater Kosten. |
@@ -84,11 +84,11 @@ Die nachfolgende Tabelle definiert die dogmatische Prüfungsreihenfolge der Tatb
 
 #### 1. Dogmatische Grundlinie: Das strenge Kausalitätserfordernis
 
-Abs. 1 knüpft an die Geltendmachung von Zivilansprüchen im Adhäsionsverfahren an (Art. 122 ff. StPO). Der Privatklägerschaft dürfen Verfahrenskosten nur insoweit auferlegt werden, als diese **adäquat kausal durch ihre Anträge zum Zivilpunkt verursacht** worden sind ([BGE 138 IV 248 E. 4.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-248_2012.html#consideration_4.4.1); [BGE 139 IV 102 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-102_2013.html#consideration_4.5)). 
+Abs. 1 knüpft an die Geltendmachung von Zivilansprüchen im Adhäsionsverfahren an (Art. 122 ff. StPO). Der Privatklägerschaft dürfen Verfahrenskosten nur insoweit auferlegt werden, als diese **adäquat kausal durch ihre Anträge zum Zivilpunkt verursacht** worden sind ([BGE 138 IV 248 E. 4.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-248_2012.html#consideration_4.4.1)); die Unterscheidung zwischen Straf- und Zivilpunkt ist gesetzlich vorgesehen (Art. 427 Abs. 1, Art. 432 Abs. 1 StPO), auch wenn sich die exakte Abgrenzung als schwierig erweisen kann ([BGE 139 IV 102 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-102_2013.html#consideration_4.5)). 
 
 Kosten für Untersuchungshandlungen, die von Amtes wegen vorgenommen wurden oder primär der Klärung des strafrechtlichen Schuld- und Sachverhalts dienten, dürfen der Zivilklägerin keinesfalls überwälzt werden ([KG GR PKG 2013 16 E. 4a](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_001_PKG-2013-16_0000-00-00.pdf)). Eine Kostenauflage setzt kumulativ voraus:
-1. die formelle Konstituierung als Zivilklägerin im Sinne von Art. 119 Abs. 2 lit. b StPO ([BGer 6B_154/2013 vom 19. März 2013, E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-154-2013_2013-03-19.html));
-2. das Eintreten eines der drei gesetzlichen Beendigungstatbestände (Einstellung/Freispruch nach lit. a, Rückzug vor Abschluss der erstinstanzlichen Parteivorträge nach lit. b, Abweisung oder Verweisung auf den Zivilweg nach lit. c);
+1. die formelle Konstituierung als Zivilklägerin im Sinne von Art. 119 Abs. 2 lit. b StPO (zur Kostenauflage an einen Privatkläger, dessen Einfluss auf das Verfahren faktisch dem eines Antragstellers entsprach, vgl. [BGer 6B_154/2013 vom 19. März 2013, E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-154-2013_2013-03-19.html));
+2. das Eintreten eines der drei gesetzlichen Beendigungstatbestände (Einstellung/Freispruch nach lit. a, Rückzug der Zivilklage vor Abschluss der erstinstanzlichen Hauptverhandlung nach lit. b, Abweisung oder Verweisung auf den Zivilweg nach lit. c);
 3. den Nachweis eines konkreten, zivilpunktspezifischen Mehraufwands der Strafbehörden (z.B. Erstellung eines Schadensgutachtens, Schätzungen, Einvernahme von Zeugen ausschliesslich zur Schadenshöhe).
 
 #### 2. Kasuistik: Verweisung der Zivilklage bei schwerer Körperverletzung
@@ -102,9 +102,9 @@ Das Kantonsgericht Graubünden schützte diese Kostenauflage ([KG GR PKG 2013 16
 | Sachverhalt und Verfahrenshandlung | Kausalität (Abs. 1) | Begründung des Gerichts | Entscheid |
 |---|---|---|---|
 | Vierseitige Begründung zur Schadensquantifizierung anhand neuropsychologischer Gutachten und SUVA-Berichte bei Verweisung auf den Zivilweg | **Bejaht** | Mehraufwand betraf ausschliesslich die Zivilklage und ging über die für den Schuldpunkt notwendigen Tatsachenfeststellungen hinaus. | [KG GR PKG 2013 16 E. 4b](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_001_PKG-2013-16_0000-00-00.pdf) |
-| Einholung eines interdisziplinären medizinischen Gutachtens zur Bestimmung des Invaliditätsgrades zwecks Bezifferung von Schadenersatz und Genugtuung | **Bejaht** | Begutachtung diente überwiegend der Feststellung zivilrechtlicher Ansprüche; Kostenvorschuss zulässig. | [KG SG AK.2023.377-AK E. 2](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-377-AK_2023-09-14.pdf) |
+| Gutachten zur Klärung des Unfallhergangs nach einem Arbeitsunfall mit Todesfolge (fahrlässige Tötung); Antrag der Privatklägerschaft | **Verneint** (kein Kostenvorschuss) | Das Gutachten dient nicht vornehmlich der Feststellung zivilrechtlicher Ansprüche, sondern der strafrechtlichen Verantwortlichkeit; ein Kostenvorschuss nach Art. 184 Abs. 7 StPO kommt nur in Betracht, wenn das Gutachten vor allem Zivilansprüchen dient. | [KG SG AK.2023.377-AK E. 2, 3](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-377-AK_2023-09-14.pdf) |
 | Verweisung der Zivilforderung auf den Zivilweg bei Freispruch mit je einem Satz in Erwägungen und Dispositiv; symbolische Genugtuungsforderung von CHF 1'000 | **Verneint** (als isolierter Zivilaufwand) | Kein messbarer behördlicher Mehraufwand; Kostenauflage lässt sich diesfalls nicht auf Abs. 1, sondern nur auf Abs. 2 (aktive Privatklägerschaft bei Antragsdelikten) stützen. | [BGer 6B_83/2025 E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-83-2025_2025-12-12.html) |
-| Abklärung des Unfallhergangs und der Verletzungen durch die Polizei bei Delikten gegen Leib und Leben | **Verneint** | Amtsermittlung zur Klärung des objektiven Straftatbestands; Kosten verbleiben auch bei Abweisung der Zivilklage beim Staat. | [BGE 139 IV 102 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-102_2013.html#consideration_4.5) |
+| Ermittlungen und Gutachten von Amtes wegen zur Klärung des Straftatbestands (Art. 182, 6 StPO) | **Verneint** | Verfahrenskosten können der Privatklägerschaft nur insoweit auferlegt werden, als sie durch ihre Anträge zum Zivilpunkt verursacht worden sind; Gutachten im Hinblick auf Sanktionen und strafrechtlich relevanten Sachverhalt sind von Amtes wegen einzuholen. | [KG SG AK.2023.377-AK E. 2](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-377-AK_2023-09-14.pdf) |
 
 > **Leitsatz.** Die Kostenauflage nach Art. 427 Abs. 1 StPO setzt den Nachweis eines konkreten, durch Anträge zum Zivilpunkt verursachten Mehraufwands voraus; allgemeine Ermittlungshandlungen, die von Amtes wegen zur Klärung des Straftatbestands erfolgen, verbleiben bei Freispruch oder Einstellung beim Staat.
 
@@ -123,9 +123,9 @@ Diese hohe Hürde schützt das verfassungs- und konventionsrechtlich verankerte 
 
 #### 2. Kasuistik: Der inszenierte Fahrzeugschaden (SG AK.2015.105)
 
-Ein Beschwerdeführer zeigte bei der Polizei den Ex-Freund seiner Lebenspartnerin an, weil dieser ihm nachstelle und mehrere Sachbeschädigungen begangen habe. Unter anderem erstattete er Strafantrag wegen einer massiven Beschädigung an der Karosserie seines Personenwagens. Im Zuge der staatsanwaltschaftlichen Einvernahmen und Spurensicherungen stellte sich zweifelsfrei heraus, dass die fragliche Beschädigung am Auto von einem selbstverschuldeten Parkschaden des Beschwerdeführers herrührte, den er wahrheitswidrig dem Beschuldigten angelastet hatte. Die Staatsanwaltschaft stellte das Verfahren bezüglich dieses Vorwurfs ein und auferlegte dem Anzeiger die darauf entfallenden Verfahrenskosten von CHF 80.
+Ein Beschwerdeführer zeigte bei der Polizei den Ex-Freund seiner Lebenspartnerin an, weil dieser ihm nachstelle und mehrere Sachbeschädigungen begangen habe. Unter anderem erstattete er Strafantrag wegen einer massiven Beschädigung an der Karosserie seines Personenwagens. Im Zuge der Ermittlungen zeigte sich, dass eine der angezeigten Sachbeschädigungen an seinem Auto auf einen von ihm selbst verursachten Selbstunfall zurückging. Die Staatsanwaltschaft stellte das Verfahren bezüglich dieses Vorwurfs ein und auferlegte dem Anzeiger die darauf entfallenden Verfahrenskosten von CHF 80.
 
-Die Anklagekammer des Kantonsgerichts St. Gallen wies die Beschwerde des Strafantragstellers ab ([SG KG AK.2015.105 vom 27. Mai 2015](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2015-105_2015-05-27.pdf)): Wer den Strafverfolgungsbehörden wider besseres Wissen Tatsachen vorspiegelt oder offensichtliche Selbstunfälle als Straftaten eines Dritten deklariert, handelt mutwillig im Sinne von Art. 427 Abs. 2 StPO. Die Kostenauflage für die nutzlos veranlassten Ermittlungsschritte war zwingend geboten.
+Der Präsident der Anklagekammer des Kantonsgerichts St. Gallen wies die Beschwerde des Strafantragstellers ab ([SG KG AK.2015.105 vom 27. Mai 2015](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2015-105_2015-05-27.pdf)): Nach der Anklagekammer liegt Mutwilligkeit vor, wenn eine Partei Tatsachen wider besseres Wissen als wahr behauptet, von denen sie bei zumutbarer Sorgfalt wissen müsste, dass sie unrichtig sind; die Haftung der nur antragstellenden Person beschränkt sich auf trölerisches Verhalten. Art. 427 Abs. 2 StPO ist dispositiver Natur und der Behörde steht ein grosses Ermessen zu.
 
 > **Leitsatz.** Der antragstellenden Person, die auf Parteirechte verzichtet, können Verfahrenskosten bei Freispruch oder Einstellung nur auferlegt werden, wenn sie die Strafbehörden durch bewusst wahrheitswidrige Angaben oder grob leichtfertige Anschuldigungen mutwillig zur Verfahrenseinleitung veranlasst hat.
 
@@ -217,7 +217,7 @@ Das Bundesgericht wies die Beschwerde von A. ab ([BGE 150 IV 196 E. 2.2](https:/
 
 Treffen die antragstellende und die beschuldigte Person anlässlich des Rückzugs des Strafantrags eine private Vereinbarung über die Kostentragung, bedarf diese gemäss Abs. 4 der formellen **Genehmigung der Einstellungsbehörde**. 
 
-Die Bestimmung konkretisiert den Grundsatz, dass Verträge nicht zulasten Dritter geschlossen werden dürfen: Die Parteien dürfen die Kosten nicht einer zahlungsunfähigen Partei zuweisen, um den Staat um seine Gebühren zu bringen, und sie dürfen sich die Verfahrenskosten keinesfalls gegenseitig erlassen und auf die Staatskasse abschieben ([BBl 2006 1327](https://www.amtsblatt.ch); [BGE 150 IV 196 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-196_2024.html#consideration_2.2)). Verweigert die Behörde die Genehmigung, gilt die gesetzliche Kostenordnung nach Abs. 2.
+Die Bestimmung konkretisiert den Grundsatz, dass Verträge nicht zulasten Dritter geschlossen werden dürfen: Die Parteien dürfen die Kosten nicht einer zahlungsunfähigen Partei zuweisen, um den Staat um seine Gebühren zu bringen, und sie dürfen sich die Verfahrenskosten keinesfalls gegenseitig erlassen und auf die Staatskasse abschieben ([BGE 150 IV 196 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-196_2024.html#consideration_2.2)). Verweigert die Behörde die Genehmigung, gilt die gesetzliche Kostenordnung nach Abs. 2.
 
 #### 2. Lückenfüllung im Beschwerdeverfahren (ZH OG UE140029)
 
@@ -247,9 +247,9 @@ Die Praxis der Zürcher Gerichte ([ZH OG UE140029 vom 16. April 2014](https://en
 
 ### 3. Verletzung des Beschleunigungsgebots durch die Staatsanwaltschaft (Art. 5 StPO)
 
-Verzögert die Staatsanwaltschaft ein Verfahren betreffend ein Antragsdelikt übermässig (z.B. Ruhenlassen des Verfahrens über 1,5 Jahre bis kurz vor Eintritt der Verjährung), stellt sich die Frage, ob der aktiven Privatklägerin bei Einstellung nach Art. 427 Abs. 2 StPO Kosten auferlegt werden dürfen.
+Verzögert die Staatsanwaltschaft ein Verfahren betreffend ein Antragsdelikt übermässig (im Fall: Verleumdung, keine Untersuchungshandlung seit März 2016 bis zur Einstellung wegen Verjährung im September 2017), stellt sich die Frage, ob dem aktiven Privatkläger bei Einstellung Kosten auferlegt werden dürfen.
 
-Das Kantonsgericht Luzern entschied in [LU KG 2N 17 140 vom 29. Dezember 2017](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-17-140_2017-12-29.html), dass eine Verletzung des Beschleunigungsgebots (Art. 5 Abs. 1 StPO, Art. 29 Abs. 1 BV) die Kostenauflage an die aktive Privatklägerin nicht per se unhaltbar macht. Massgebend bleibt primär der mutmassliche Ausgang des Verfahrens bei hypothetisch rechtzeitiger Erledigung. Der Privatklägerin dürfen jedoch keine Mehrkosten auferlegt werden, die ausschliesslich auf die behördliche Verfahrensverzögerung zurückzuführen sind ([E. 5.4](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-17-140_2017-12-29.html)).
+Das Kantonsgericht Luzern entschied in [LU KG 2N 17 140 vom 29. Dezember 2017](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-17-140_2017-12-29.html), dass eine Verletzung des Beschleunigungsgebots (Art. 5 Abs. 1 StPO, Art. 29 Abs. 1 BV) die Kostenauflage an den aktiv beteiligten Privatkläger (gestützt auf Art. 426 Abs. 2 StPO; ergänzend Art. 427 Abs. 2 StPO) nicht per se unhaltbar macht. Massgebend bleibt primär der mutmassliche Ausgang des Verfahrens bei hypothetisch rechtzeitiger Erledigung. Aus der Säumnis der Staatsanwaltschaft dürfen dem Privatkläger kostenmässig keine Nachteile erwachsen ([E. 5.4](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-17-140_2017-12-29.html)).
 
 ---
 
@@ -275,7 +275,7 @@ Das Kantonsgericht Luzern entschied in [LU KG 2N 17 140 vom 29. Dezember 2017](h
 ### Für die Strafverfolgungsbehörden und Gerichte:
 
 1. **Kostenkausalität im Urteil substanziieren:** Wird der Zivilklägerin bei Verweisung auf den Zivilweg ein Kostenanteil auferlegt, müssen die Aktenstücke und der Mehraufwand, die ausschliesslich den Zivilpunkt betrafen, in den Erwägungen konkret ausgewiesen werden ([KG GR PKG 2013 16 E. 4b](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_001_PKG-2013-16_0000-00-00.pdf)).
-2. **Genehmigungsvorbehalt strikt handhaben:** Private Vereinbarungen bei Strafantragsrückzug auf ihre Vollstreckbarkeit prüfen. Vereinbarungen, die Gebühren auf insolvente Parteien abwälzen oder den Staat benachteiligen, die Genehmigung versagen ([BBl 2006 1327](https://www.amtsblatt.ch); [ZH OG UE140029 E. 3.6](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE140029_2014-04-16.pdf)).
+2. **Genehmigungsvorbehalt strikt handhaben:** Private Vereinbarungen bei Strafantragsrückzug auf ihre Vollstreckbarkeit prüfen. Vereinbarungen, die Gebühren auf insolvente Parteien abwälzen oder den Staat benachteiligen, die Genehmigung versagen ([ZH OG UE140029 E. 3.6](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE140029_2014-04-16.pdf)).
 
 ---
 
@@ -295,8 +295,6 @@ Das Kantonsgericht Luzern entschied in [LU KG 2N 17 140 vom 29. Dezember 2017](h
 
 ## Literatur
 
-- Niklaus Schmid / Daniel Jositsch, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 427 N 1–12.
-- Thomas Domeisen, in: Niggli/Heer/Wiprächtiger (Hrsg.), Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl., Basel 2023, Art. 427 N 1–20.
-- Yvona Griesser, in: Donatsch/Lieber/Summers/Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Art. 427 N 1–15.
-- Markus Bähler / Christof Riedo, Kosten kosten – Geld und Nerven, Jusletter 13. Februar 2012.
-- Botschaft zur Vereinheitlichung des Strafprozessrechts vom 21. Dezember 2005, BBl 2006 1085, S. 1327 f.
+- Domeisen, Thomas, in: Basler Kommentar, Schweizerische Strafprozessordnung/Jugendstrafprozessordnung, 3. Aufl., Basel 2023, Art. 427.
+- Griesser, Yvona, in: Donatsch/Lieber/Summers/Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Art. 427.
+- Jositsch, Daniel/Schmid, Niklaus, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 427.

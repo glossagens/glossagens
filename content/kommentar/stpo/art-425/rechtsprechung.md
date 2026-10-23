@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 425 StPO"
 weight: 99
 date: 2026-10-05
-lastmod: 2026-10-05
+lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 425 StPO: Stundung, Herabsetzung und Erlass von Verfahrenskosten, Resozialisierungsgedanke, Schwellenwert der Mittellosigkeit, Begründungspflicht der Sachgerichte (BGer 6B_794/2024), Verbot der Gläubigerprivilegierung und kantonale Zuständigkeiten."
 tags: ["Rechtsprechung", "StPO", "Verfahrenskosten", "Kostenerlass", "Stundung", "Ratenzahlung", "Resozialisierung", "Mittellosigkeit"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 442). Korrigiert: BGE 145 IV 268 war fälschlich als Beleg für Zweck und Entstehung von Art. 425 zitiert (der Entscheid betrifft Art. 418/433 StPO) – ersetzt durch BGer 6B_794/2024 E. 2.1.6; nicht verifizierbare Botschaftsangabe («Art. 432 E-StPO, S. 1327 f.») entfernt; BGer 6B_794/2024 nur teilweise gutgeheissen (Dispositiv-Ziffern 7–9, Rückweisung); Zuständigkeitsabschnitt entdramatisiert («Judikaturdivergenz» → kantonale Unterschiede; Quelle: OGer SH 60/2022/48 E. 2) und Tabelle auf belegte Angaben beschränkt (u.a. ZH: Rekurs, nicht Verwaltungsgericht); BGer 6B_284/2021 betrifft den Kanton Freiburg; Aargauer Praxis nach BGer 6B_821/2022 (Nichteintreten) präzisiert; tote Links WBE.2022.417 und KD200005 berichtigt. Botschaft BBl 2006 1085 nicht direkt abrufbar."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
@@ -19,14 +24,14 @@ revisions:
 ### Begründungspflicht der Sachgerichte bei Erlassanträgen; Resozialisierungsprüfung bei Missverhältnis zwischen Sanktion und Kosten
 [BGer 6B_794/2024 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.6) (Urteil vom 8. Januar 2025, Fünferbesetzung)
 * **Sachverhalt**: Das Obergericht des Kantons Zürich verurteilte A. im Berufungsverfahren wegen mehrfacher einfacher Körperverletzung zu einer bedingten Freiheitsstrafe von 14 Monaten (verbunden mit einer ambulanten Massnahme). Gleichzeitig bestätigte es die erstinstanzliche Kostenauflage von Fr. 42'797.75 (darunter Fr. 28'637.75 für ein psychiatrisches Gutachten), auferlegte ihm zweitinstanzliche Kosten von Fr. 1'600.– und behielt die Rückforderung für amtliche Verteidigung und Opfervertretung im Umfang von Fr. 54'463.50 nach Art. 135 Abs. 4 StPO vor (Gesamtkostenbelastung von knapp Fr. 100'000.–). A. hatte bereits im erst- und zweitinstanzlichen Plädoyer beantragt, die Kosten seien gestützt auf Art. 425 StPO ganz oder teilweise (mindestens die Gutachterkosten) zu erlassen, da diese Last bei einer bedingten Strafe seine Resozialisierung verunmögliche. Die Vorinstanzen gingen in ihren Urteilsbegründungen mit keinem Wort auf den Erlassantrag ein.
-* **Kernaussage**: Das Bundesgericht hob den obergerichtlichen Kostenentscheid wegen Verletzung von Art. 112 Abs. 1 lit. b BGG auf. Zwar verfügen die Gerichte bei der Anwendung von Art. 425 StPO über ein weites Ermessen. Dies entbindet sie jedoch nicht von der verfassungsrechtlichen Pflicht, einen ausdrücklich gestellten Antrag auf Stundung oder Erlass materiell zu prüfen und nachvollziehbar zu begründen. Steht die massive Kostenlast in krassem Missverhältnis zu einer bedingten Sanktion, müssen die Gerichte darlegen, welche Überlegungen sie zu den Aspekten der Resozialisierung und Verhältnismässigkeit angestellt haben.
+* **Kernaussage**: Das Bundesgericht hiess die Beschwerde teilweise gut, hob die Dispositiv-Ziffern 7–9 des obergerichtlichen Urteils wegen Verletzung von Art. 112 Abs. 1 lit. b BGG auf und wies die Sache zur Prüfung einer allfälligen Herabsetzung oder eines Erlasses an die Vorinstanz zurück. Zwar verfügen die Gerichte bei der Anwendung von Art. 425 StPO über ein weites Ermessen. Dies entbindet sie jedoch nicht von der verfassungsrechtlichen Pflicht, einen ausdrücklich gestellten Antrag auf Stundung oder Erlass materiell zu prüfen und nachvollziehbar zu begründen. Steht die massive Kostenlast in krassem Missverhältnis zu einer bedingten Sanktion, müssen die Gerichte darlegen, welche Überlegungen sie zu den Aspekten der Resozialisierung und Verhältnismässigkeit angestellt haben.
 
 ---
 
 ### Resozialisierungszweck von Stundung und Erlass; Ausschluss bei vorhandenem Vermögenssubstrat und Verbot der Gläubigerprivilegierung
 [BGer 6B_610/2014 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html#consideration_3) (Urteil vom 28. August 2014)
 * **Sachverhalt**: Das Obergericht des Kantons Solothurn verurteilte X. wegen Gehilfenschaft zu gewerbsmässigem Betrug, Geldwäscherei und Urkundenfälschung und legte ihm Verfahrenskosten von Fr. 74'649.50 auf. X. ersuchte um vollständigen Erlass. Er machte geltend, sein Einkommen sei nach gesundheitlichen Problemen drastisch eingebrochen, er habe erhebliche Schulden (Alimente, Steuern, Privatkredite) und seine Liegenschaft sei renovationsbedürftig. Das Obergericht stellte fest, dass die Liegenschaft bei einem Verkehrswert von Fr. 565'000.– eine freie Belehnungsreserve von Fr. 113'000.– aufwies, und wies das Gesuch ab.
-* **Kernaussage**: Stundung und Erlass nach Art. 425 StPO dienen der Resozialisierung der verurteilten Person, um zu verhindern, dass erdrückende Verfahrenskosten eine Rückkehr in geordnete Verhältnisse vereiteln. Voraussetzung ist, dass die wirtschaftlichen Verhältnisse eine Kostenauflage als unbillig erscheinen lassen. Ein Erlass ist ausgeschlossen, wenn Vermögenssubstrat vorhanden ist (hier Grundeigentum mit Belehnungsreserve) oder eine Verbesserung der Einkommenslage möglich erscheint. Private Schulden rechtfertigen keinen staatlichen Kostenerlass; der Staat muss nicht einseitig auf Justizkosten verzichten, um private Gläubiger zu privilegieren.
+* **Kernaussage**: Stundung und Erlass nach Art. 425 StPO dienen der Resozialisierung der verurteilten Person, um zu verhindern, dass erdrückende Verfahrenskosten eine Rückkehr in geordnete Verhältnisse vereiteln. Voraussetzung ist, dass die wirtschaftlichen Verhältnisse eine Kostenauflage als unbillig erscheinen lassen. Ein Erlass ist ausgeschlossen, wenn Vermögenssubstrat vorhanden ist (hier Grundeigentum mit Belehnungsreserve) oder eine Verbesserung der Einkommenslage möglich erscheint. Die Vorinstanz hatte ausgeführt, der Erlass von Verfahrenskosten solle keine Gläubigerprivilegierung bewirken und der Staat müsse nicht einseitig auf seine Forderung verzichten; das Bundesgericht sah darin keine Willkür oder Ermessensverletzung (E. 4).
 
 ---
 
@@ -105,7 +110,7 @@ revisions:
 ### Zulässigkeit der StPO-Beschwerde gegen erstinstanzliche Erlassverfügungen; keine Pflicht zum Rücktritt hinter Drittgläubiger
 [LU KG 2N 14 65 E. 2.1, 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html) (LGVE 2014 I Nr. 7 vom 7. Juli 2014)
 * **Sachverhalt**: Ein Gesuchsteller verlangte die Reduktion von Monatsraten für Kriminalgerichtskosten (Fr. 6'995.50) von Fr. 840.– auf Fr. 50.–, weil sein Einkommensüberschuss durch das Betreibungsamt für Drittgläubiger gepfändet werde.
-* **Kernaussage**: Im Kanton Luzern entscheidet das Gerichtspräsidium nach Art. 425 StPO; Rechtsmittel ist die StPO-Beschwerde nach Art. 393 Abs. 1 lit. b StPO. Der Staat ist nicht verpflichtet, mit seinen Kostenforderungen gegenüber Privatgläubigern zurückzustehen und die Raten auf ein Minimum zu stunden; Justizkosten sind bis zum Verlustschein auf dem Betreibungsweg einzutreiben (Art. 442 Abs. 1 StPO).
+* **Kernaussage**: Im Kanton Luzern entscheidet nach § 317 SMVG die Verfahrensleitung der Strafbehörde, die als letzte Instanz die Kosten festgelegt hat; Rechtsmittel ist die StPO-Beschwerde nach Art. 393 Abs. 1 lit. b StPO (E. 2.1). Der Staat ist nicht verpflichtet, mit seinen Forderungen gegenüber anderen Gläubigern zurückzustehen und dem Schuldner eine Stundung bis auf einen minimalen Ratenbetrag zu bewilligen, solange der Einkommensüberschuss gepfändet wird; öffentlich-rechtliche Forderungen sind in der Regel mit den Mitteln des SchKG bis zur Ausstellung eines Verlustscheins zu vollstrecken (Art. 442 Abs. 1 StPO; E. 3.5). Die Beschwerde wurde abgewiesen.
 
 ---
 

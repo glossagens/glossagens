@@ -245,7 +245,7 @@ Im Rechtsmittelverfahren gehört die Entschädigung der amtlichen Verteidigung z
 
 ### Für die Privatklägerschaft:
 
-1. **Passivität im gegnerischen Berufungsverfahren prüfen:** Erhebt der Beschuldigte Berufung gegen seine Verurteilung, schützt der bewusste Verzicht auf eigene Anträge und Verhandlungsteilnahme vor jeglicher Kostenauflage im Falle eines überraschenden Freisprechens ([BGE 138 IV 248 E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_BGE-138-IV-248_2012.html#consideration_5.3)).
+1. **Passivität im gegnerischen Berufungsverfahren prüfen:** Erhebt der Beschuldigte Berufung gegen seine Verurteilung, schützt der bewusste Verzicht auf eigene Anträge und Verhandlungsteilnahme vor jeglicher Kostenauflage im Falle eines überraschenden Freisprechens ([BGE 138 IV 248 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-248_2012.html#consideration_5.3)).
 2. **Kostenrisiko bei Alleinberufung kalkulieren:** Zieht die Privatklägerschaft bei einem Offizialdelikt einen Freispruch als einzige Partei weiter, wird sie bei Unterliegen voll kosten- und parteientschädigungspflichtig ([BGE 147 IV 47 E. 4.2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.2.4)).
 3. **Strafantragsrückzug nur mit Kostenvereinbarung:** Zieht die Privatklägerin den Strafantrag im Rechtsmittelverfahren zurück, droht ihr nach dem Verursacherprinzip die Auferlegung der gesamten Kosten beider Instanzen ([BGer 6B_1118/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1118-2016_2017-07-10.html)). Ein Rückzug sollte nur vollzogen werden, wenn die Kostenaufhebung oder -übernahme im Vergleich verbindlich geregelt ist.
 

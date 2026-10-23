@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 426 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-10-05
+lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren."
 tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex. Die Sachverhalte der Kasuistik (BGer 6B_523/2013, 6B_151/2014, 6B_1306/2021, 6B_650/2024, 6B_563/2017, 6B_940/2023, SG KG AK.2023.396, OGer ZH UH150086, 6B_936/2015, 6B_1125/2016, 6B_123/2014, 6B_684/2020) und die Pinpoints wurden bestätigt. Korrigiert: BGE 144 IV 202 (Art.-53-StGB-Fall: die Grundsätze zu Art. 426 Abs. 2 finden dort nach E. 2.3 keine Anwendung; Sachverhalt Genf); BGE 143 IV 373 E. 1.4.2 (Akzessorietät der Kosten bei Verletzung des Beschleunigungsgebots, nicht allgemeine «Strafmilderung»); BGE 116 Ia 162 Pinpoint (E. 2c statt 2g); «Synkope» nicht belegt (nur «medizinisches Problem»); Formulierung zur Staatskasse bei der amtlichen Verteidigung; Literaturliste auf belegte Angaben reduziert; Prüfvermerk aktualisiert. Botschaft nicht zitiert."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -35,10 +40,10 @@ revisions:
 
 ---
 
-### BGE 144 IV 202, E. 2.2
+### BGE 144 IV 202, E. 2.2–2.3 (Urteil 6B_957/2017 vom 27. April 2018)
 
-- **Thema**: Kostenauflage bei Verfahrenseinstellung infolge Wiedergutmachung (Art. 53 StGB); Vereinbarkeit mit der Unschuldsvermutung
-- **Kernaussage**: Eine Verfahrenseinstellung nach Art. 53 StGB setzt tatbestandsmässig voraus, dass der Täter die Tat eingestanden oder den Sachverhalt anerkannt und den Schaden wiedergutgemacht hat. Da die Einstellung an eine festgestellte rechtswidrige Handlung anknüpft, ist die Kostenauflage nach Art. 426 Abs. 2 StPO sachlich gerechtfertigt und verstösst nicht gegen die Unschuldsvermutung gemäss Art. 32 Abs. 1 BV und Art. 6 Ziff. 2 EMRK. Bestätigt zugleich die Kriterien der zivilrechtlichen Vorwerfbarkeit analog Art. 41 OR.
+- **Thema**: Kostenauflage bei Verfahrenseinstellung nach Art. 53 StGB; Vereinbarkeit mit der Unschuldsvermutung
+- **Kernaussage**: Die Auferlegung von Kosten an die freigesprochene oder entlassene Person muss die Unschuldsvermutung (Art. 32 Abs. 1 BV; Art. 6 Ziff. 2 EMRK) wahren und ist nur zulässig, wenn die Person in zivilrechtlich vorwerfbarer Weise (analog Art. 41 OR) eine Verhaltensnorm klar verletzt und dadurch das Verfahren veranlasst oder erschwert hat; sie bleibt die Ausnahme (E. 2.2). Diese Grundsätze finden aber keine Anwendung bei einer Einstellung nach Art. 53 StGB: Art. 53 StGB setzt eine rechtswidrige Handlung des Täters voraus, die Einstellung enthält keinen Schuldspruch und verletzt die Unschuldsvermutung nicht, und eine Kostenauflage ist angesichts der notwendigerweise begangenen rechtswidrigen Handlung in jedem Fall gerechtfertigt (E. 2.3; Regeste). Das Bundesgericht hiess die Beschwerde der Genfer Staatsanwaltschaft gut.
 - **Einschlägig für**: Abs. 2 (Kostentragung bei Einstellung; Schranken der Unschuldsvermutung)
 - **URL**: [BGE 144 IV 202](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html)
 
@@ -175,7 +180,7 @@ revisions:
 ### SG KG AK.2023.396 vom 19. Oktober 2023, E. 3b
 
 - **Thema**: Ausschluss der SVG-Kausalhaftung bei Abs. 2; Erfordernis grober Fahrlässigkeit
-- **Kernaussage**: Bei einem Verkehrsunfall auf der Gegenfahrbahn mit schweren Folgen stellte die Staatsanwaltschaft das Verfahren wegen Art. 54 StGB ein. Die Auferlegung von Verfahrenskosten von Fr. 8'183.25 gestützt auf die Halterhaftung nach Art. 58 SVG wurde vom Kantonsgericht aufgehoben: Eine reine Kausalhaftung ohne Verschulden kann eine Kostenauflage nach Art. 426 Abs. 2 StPO nicht stützen. Da eine plötzliche medizinische Beeinträchtigung nicht ausgeschlossen werden konnte, fehlte es an unbestrittenen Tatsachen für eine schwere Sorgfaltspflichtverletzung (grobe Fahrlässigkeit).
+- **Kernaussage**: Bei einem Verkehrsunfall auf der Gegenfahrbahn mit schweren Folgen stellte die Staatsanwaltschaft das Verfahren wegen Art. 54 StGB ein. Die Auferlegung von Verfahrenskosten von Fr. 8'183.25 gestützt auf die Halterhaftung nach Art. 58 SVG wurde vom Kantonsgericht aufgehoben: Eine reine Kausalhaftung ohne Verschulden kann eine Kostenauflage nach Art. 426 Abs. 2 StPO nicht stützen. Da ein medizinisches Problem als Unfallursache nicht ausgeschlossen werden konnte, fehlte es an unbestrittenen Tatsachen für eine schwere Sorgfaltspflichtverletzung (grobe Fahrlässigkeit).
 - **Einschlägig für**: Abs. 2 (Kantonale Praxis; Ausschluss der Kausalhaftung; Verschuldensgrad)
 - **URL**: [SG KG AK.2023.396](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)
 
@@ -201,4 +206,4 @@ revisions:
 
 ## Prüfvermerk
 
-Sämtliche auf dieser Seite und im Kommentar zu Art. 426 StPO zitierten Urteile wurden am 05.10.2026 im Volltext über die Urteilsdatenbank `entscheidsuche.ch` verifiziert. Alle 19 Urteile existieren, sind direkt auf das jeweilige Originaldokument verlinkt und tragen die geprüften Erwägungsziffern. Die Erwägungsanker `#consideration_X.Y` wurden ausschliesslich bei HTML-Dokumenten (BGE) gesetzt, bei welchen die Anker im Quelltext nachgewiesen sind.
+Die auf dieser Seite zitierten Urteile wurden am 23.10.2026 im Volltext über die Urteilsdatenbank `entscheidsuche.ch` abgeglichen. Die Erwägungsanker `#consideration_X.Y` sind nur bei HTML-Dokumenten (BGE) gesetzt, bei denen sie im Quelltext nachgewiesen sind.

@@ -2,11 +2,16 @@
 title: "Art. 426 StPO — Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren"
 weight: 426
 date: 2026-07-11
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 426 StPO: Kostentragung bei Verurteilung, Teilfreispruch und Ausscheidungsmethode, Ausnahme für amtliche Verteidigung, Kostenauflage bei Freispruch oder Einstellung nach Abs. 2 (zivilrechtliche Vorwerfbarkeit, Unschuldsvermutung, Nemo-tenetur-Schranke), unnötige und fehlerhafte Verfahrenshandlungen nach Abs. 3 lit. a, Übersetzungskosten nach Abs. 3 lit. b, unentgeltliche Rechtsbeistandschaft der Privatklägerschaft nach Abs. 4 sowie selbstständiges Massnahmeverfahren nach Abs. 5."
 tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung", "Teilfreispruch", "Unschuldsvermutung", "Nemo tenetur", "Amtliche Verteidigung", "Übersetzungskosten"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex. Die Sachverhalte der Kasuistik (BGer 6B_523/2013, 6B_151/2014, 6B_1306/2021, 6B_650/2024, 6B_563/2017, 6B_940/2023, SG KG AK.2023.396, OGer ZH UH150086, 6B_936/2015, 6B_1125/2016, 6B_123/2014, 6B_684/2020) und die Pinpoints wurden bestätigt. Korrigiert: BGE 144 IV 202 (Art.-53-StGB-Fall: die Grundsätze zu Art. 426 Abs. 2 finden dort nach E. 2.3 keine Anwendung; Sachverhalt Genf); BGE 143 IV 373 E. 1.4.2 (Akzessorietät der Kosten bei Verletzung des Beschleunigungsgebots, nicht allgemeine «Strafmilderung»); BGE 116 Ia 162 Pinpoint (E. 2c statt 2g); «Synkope» nicht belegt (nur «medizinisches Problem»); Formulierung zur Staatskasse bei der amtlichen Verteidigung; Literaturliste auf belegte Angaben reduziert; Prüfvermerk aktualisiert. Botschaft nicht zitiert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -69,7 +74,7 @@ Wird die beschuldigte Person verurteilt, trägt sie nach Art. 426 Abs. 1 Satz 1 
 
 #### 1. Zwingende Rechtsfolge ohne Billigkeitsermessen
 
-Die Formulierung von Abs. 1 Satz 1 («trägt») ist zwingendes Recht. Das Sachgericht verfügt bei einer Verurteilung über keinerlei Ermessen, die Verfahrenskosten aus allgemeinen Billigkeitserwägungen, wegen sozialer Härte oder aufgrund einer reduzierten Strafe ganz oder teilweise zu erlassen ([BGer 6B_811/2014 vom 13. März 2015, E. 1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-811-2014_2015-03-13.html)). Die Milderung der Sanktion oder die Berücksichtigung von Strafminderungsgründen berührt die Kostentragungspflicht nicht ([BGE 143 IV 373 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html#consideration_1.4.2)). Eine wirtschaftliche Notlage kann ausschliesslich im Rahmen von Stundungs- oder Erlassgesuchen beim Vollzug (Art. 425 StPO) geltend gemacht werden, nicht aber bei der gerichtlichen Kostenfestsetzung.
+Die Formulierung von Abs. 1 Satz 1 («trägt») ist zwingendes Recht. Das Sachgericht verfügt bei einer Verurteilung über keinerlei Ermessen, die Verfahrenskosten aus allgemeinen Billigkeitserwägungen, wegen sozialer Härte oder aufgrund einer reduzierten Strafe ganz oder teilweise zu erlassen ([BGer 6B_811/2014 vom 13. März 2015, E. 1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-811-2014_2015-03-13.html)). Eine Strafreduktion wegen Verletzung des Beschleunigungsgebots berührt die Kostentragungspflicht nicht: Ein Verzicht auf Verfahrenskosten oder deren Reduktion kommt nur in Frage, wenn die Verletzung so schwer wiegt, dass das Verfahren einzustellen ist (Prinzip der Akzessorietät der Kosten; [BGE 143 IV 373 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html#consideration_1.4.2)). Eine wirtschaftliche Notlage kann ausschliesslich im Rahmen von Stundungs- oder Erlassgesuchen beim Vollzug (Art. 425 StPO) geltend gemacht werden, nicht aber bei der gerichtlichen Kostenfestsetzung.
 
 Das Sachgericht ist an den in der Anklage geschilderten Lebenssachverhalt gebunden, nicht jedoch an dessen rechtliche Würdigung (Art. 350 Abs. 1 StPO). Ergeht der Schuldspruch gestützt auf eine abweichende rechtliche Qualifikation, bleibt die Kostenpflicht nach Abs. 1 Satz 1 vollumfänglich bestehen, sofern der massgebliche Sachverhalt derselbe geblieben ist ([BGer 6B_803/2014 vom 15. Januar 2015, E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-803-2014_2015-01-15.html)).
 
@@ -103,7 +108,7 @@ Nach Art. 426 Abs. 1 Satz 2 StPO sind die Kosten für die amtliche Verteidigung 
 
 Verfahrenskosten setzen sich aus Gebühren und Auslagen zusammen (Art. 422 Abs. 1 StPO). Obwohl die Entschädigung der amtlichen Verteidigung zu den Auslagen im Sinne von Art. 422 Abs. 2 lit. a StPO gehört, ordnet Art. 426 Abs. 1 Satz 2 StPO eine gesetzliche Ausnahme an: Die amtlichen Verteidigungskosten dürfen im Urteilsdispositiv der beschuldigten Person **nicht direkt als zu bezahlende Verfahrenskosten überbunden werden** ([BGE 139 IV 199 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-199_2013.html#consideration_5.1); [BGer 6B_938/2025 vom 9. Juli 2026, E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-938-2025_2026-07-09.html)).
 
-Die Festsetzung des Honorars des amtlichen Verteidigers erfolgt im Sachurteil (Art. 135 Abs. 2 StPO). Der Staat trägt die Entschädigung einstweilen definitiv aus der Gerichtskasse.
+Die Festsetzung des Honorars des amtlichen Verteidigers erfolgt im Sachurteil (Art. 135 Abs. 2 StPO). Der Staat trägt die Entschädigung zunächst selbst; die verurteilte Person hat sie nur unter den Voraussetzungen von Art. 135 Abs. 4 StPO zurückzuzahlen.
 
 #### 2. Rückforderungsvorbehalt nach Art. 135 Abs. 4 StPO
 
@@ -129,7 +134,7 @@ Mit Verfassung und Konvention ist eine Kostenauflage nur dann vereinbar, wenn:
 
 #### 2. Das Tatbestandsmerkmal der Rechtswidrigkeit
 
-Widerrechtlich ist ein Verhalten, wenn es gegen Normen der Rechtsordnung verstösst, die direkt oder indirekt zu einem bestimmten Tun oder Unterlassen verpflichten (Art. 41 Abs. 1 OR). Ein rein ethisch oder moralisch anstössiges Verhalten genügt nicht ([BGE 116 Ia 162 E. 2g](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_002_BGE-116-IA-162_1990-06-27.html#consideration_2c)).
+Widerrechtlich ist ein Verhalten, wenn es gegen Normen der Rechtsordnung verstösst, die direkt oder indirekt zu einem bestimmten Tun oder Unterlassen verpflichten (Art. 41 Abs. 1 OR). Ein bloss moralisch oder ethisch vorwerfbares Verhalten genügt nicht; erforderlich ist die Verletzung einer Norm der Rechtsordnung ([BGE 116 Ia 162 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_002_BGE-116-IA-162_1990-06-27.html#consideration_2c); [BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html)).
 
 Als verletzte Verhaltensnormen kommen namentlich in Betracht:
 - Schutz der Persönlichkeit (Art. 28 ZGB): Falsche Tatsachenbehauptungen, Diffamierungen oder unbedachte Vorwürfe gegenüber Dritten ([BGer 6B_1306/2021 vom 8. August 2022, E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1306-2021_2022-08-08.html)).
@@ -161,7 +166,7 @@ Ein Unternehmer verdächtigte eine Angestellte, Fr. 2'700.– Bargeld aus seiner
 Der Betreiber eines Gastbetriebs verweigerte während der Pandemie vorsätzlich die behördlich angeordnete Kontrolle von Covid-Zertifikaten beim Restauranteingang. Er begründete sein Verhalten anlässlich der Einvernahmen damit, er habe bei einer Polizeikontrolle bewusst ein Verfahren auslösen wollen, um die Rechtsgrundlagen der Kontrollpflicht gerichtlich überprüfen zu lassen. Das Kantonsgericht Schwyz sprach ihn von der strafrechtlichen Anklage frei, da die Verordnung keine strafbewehrte Pflicht zur individuellen Einlasskontrolle statuierte, überband ihm jedoch die hälftigen erstinstanzlichen Gerichtskosten (Fr. 1'864.35). Das Bundesgericht schützte den Kostenspruch: Der Wirt hatte gegen eine rechtswirksame, vollstreckbare verwaltungsrechtliche Verfügung des kantonalen Departements des Innern absichtlich verstossen. Dass die Nichtvornahme der Kontrolle nicht strafbar war, schloss die zivil- und verwaltungsrechtliche Widerrechtlichkeit nach Art. 426 Abs. 2 StPO nicht aus ([BGer 6B_650/2024 vom 15. Juni 2026, E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-650-2024_2026-06-15.html)).
 
 **Verfahrenseinstellung infolge Wiedergutmachung (Art. 53 StGB)**  
-Wird ein Strafverfahren gestützt auf Art. 53 StGB eingestellt, setzt dies zwingend voraus, dass der Täter die Tat eingestanden oder den Sachverhalt anerkannt und den Schaden wiedergutgemacht hat. Da die Einstellung tatbestandsmässig an ein erwiesenes, rechtswidriges Handeln anknüpft, ist die Auferlegung der Verfahrenskosten nach Art. 426 Abs. 2 StPO verfassungsrechtlich zulässig und verletzt die Unschuldsvermutung nicht ([BGE 144 IV 202 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html)).
+Wird ein Strafverfahren gestützt auf Art. 53 StGB eingestellt, setzt Art. 53 StGB eine rechtswidrige Handlung des Täters voraus. Das Bundesgericht hält die Auferlegung der Verfahrenskosten in einem solchen Fall für in jedem Fall gerechtfertigt und mit der Unschuldsvermutung vereinbar; die Grundsätze zur Kostenauflage bei Freispruch (E. 2.2) finden hier keine Anwendung. Im Fall (Strafverfahren in Genf wegen Veruntreuung, Betrugs und unrechtmässiger Aneignung) hob es den kantonalen Entscheid auf, der die Kosten des nach Art. 53 StGB eingestellten Verfahrensteils dem Staat belassen hatte ([BGE 144 IV 202 E. 2.2–2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html), Urteil 6B_957/2017 vom 27. April 2018).
 
 ##### b) Verwerfungsfälle (Kostenauflage verneint)
 
@@ -172,7 +177,7 @@ Im ersten Rechtsgang des Schwyzer Gastwirt-Verfahrens hatte das Kantonsgericht d
 Ein Personenwagenlenker wurde morgens um 07.30 Uhr kontrolliert. Ein Drogenschnelltest der Polizei reagierte positiv auf Cannabis. Die von der Polizei in eigener Kompetenz angeordnete Blutprobe wies im IRM kein aktives THC, sondern lediglich das inaktive Abbauprodukt THC-COOH nach. Die Staatsanwaltschaft Brugg-Zurzach stellte das Strafverfahren wegen Fahrens in fahrunfähigem Zustand ein, auferlegte ihm aber Verfahrenskosten von Fr. 1'025.– mit der Begründung, der vormalige Cannabiskonsum sei widerrechtlich (Art. 19a BetmG) und habe die Untersuchung adäquat-kausal ausgelöst. Das Obergericht Aargau schützte dies. Das Bundesgericht hiess die Beschwerde gut: Der Beschuldigte hatte 32 Stunden vor der Fahrt einen Joint konsumiert; dieser Konsum war separat mit Busse geahndet worden. Das Fahren mit inaktiven Abbauprodukten im Blut verstiess gegen keine verkehrsrechtliche Verhaltensnorm. Ein bereits sanktionierter Betäubungsmittelkonsum durfte nicht als adäquat-kausale Ursache für eine unbegründete Fahrunfähigkeitsuntersuchung herangezogen werden ([BGer 6B_563/2017 vom 11. September 2017, E. 1.5–1.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-563-2017_2017-09-11.html)).
 
 **Frontalkollision bei unklarer medizinischer Ursache:**  
-Ein Autolenker geriet auf einer 80er-Strecke in einer Rechtskurve aus unbekannten Gründen auf die Gegenfahrbahn und kollidierte frontal mit einem entgegenkommenden Personenwagen; alle Insassen wurden verletzt, die schwangere Ehefrau des Lenkers verlor ihr ungeborenes Kind. Das Untersuchungsamt Altstätten stellte das Verfahren wegen schwerer eigener Betroffenheit (Art. 54 StGB) und Wiedergutmachung (Art. 53 StGB) ein, überband dem Lenker jedoch Verfahrenskosten von Fr. 8'183.25 mit Verweis auf Art. 58 SVG (Halterhaftung) und Art. 41 OR. Die Anklagekammer des Kantonsgerichts St. Gallen hob den Kostenspruch auf: Die Unfallursache war unaufgeklärt geblieben (eine Synkope oder ein medizinisches Problem liessen sich nicht ausschliessen); es fehlte an unbestrittenen Umständen für ein schuldhaftes Verhalten. Eine blosse Kausalhaftung nach SVG genügt für Art. 426 Abs. 2 StPO nicht ([SG KG AK.2023.396 vom 19. Oktober 2023, E. 3b](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)).
+Ein Autolenker geriet auf einer 80er-Strecke in einer Rechtskurve aus unbekannten Gründen auf die Gegenfahrbahn und kollidierte frontal mit einem entgegenkommenden Personenwagen; alle Insassen wurden verletzt, die schwangere Ehefrau des Lenkers verlor ihr ungeborenes Kind. Das Untersuchungsamt Altstätten stellte das Verfahren wegen schwerer eigener Betroffenheit (Art. 54 StGB) und Wiedergutmachung (Art. 53 StGB) ein, überband dem Lenker jedoch Verfahrenskosten von Fr. 8'183.25 mit Verweis auf Art. 58 SVG (Halterhaftung) und Art. 41 OR. Die Anklagekammer des Kantonsgerichts St. Gallen hob den Kostenspruch auf: Die Unfallursache war unaufgeklärt geblieben (ein medizinisches Problem liess sich nicht ausschliessen); es fehlte an unbestrittenen Umständen für ein schuldhaftes Verhalten. Eine blosse Kausalhaftung nach SVG genügt für Art. 426 Abs. 2 StPO nicht ([SG KG AK.2023.396 vom 19. Oktober 2023, E. 3b](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)).
 
 > **Leitsatz.** Einer freigesprochenen Person dürfen Verfahrenskosten nach Art. 426 Abs. 2 StPO nur auferlegt werden, wenn sie auf unbestrittener tatsächlicher Grundlage klar gegen eine zivilrechtliche Verhaltensnorm verstossen hat; reine Kausalhaftungen, mangelnde Kooperation im Rahmen des Schweigerechts oder unbewiesene Verdachtsmomente schliessen eine Kostenauflage aus.
 
@@ -235,7 +240,7 @@ Kosten für Gutachten oder Zwangsmassnahmen, die unter Verletzung von Gültigkei
 Nach Abs. 3 lit. b trägt die beschuldigte Person die Kosten für Übersetzungen nicht, die durch ihre Fremdsprachigkeit nötig wurden.
 
 ##### a) Tragweite der Garantie
-Die Norm setzt den konventionsrechtlichen Anspruch auf unentgeltliche Unterstützung durch einen Dolmetscher gemäss Art. 6 Ziff. 3 lit. e EMRK sowie Art. 68 StPO im innerstaatlichen Kostenrecht um ([BGE 127 I 141 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-I-141_2001.html#consideration_3)). Sie erfasst:
+Die Norm setzt den konventionsrechtlichen Anspruch auf unentgeltliche Unterstützung durch einen Dolmetscher gemäss Art. 6 Ziff. 3 lit. e EMRK sowie Art. 68 StPO im innerstaatlichen Kostenrecht um ([BGE 127 I 141 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-127-I-141_2001.html#consideration_3)). Sie erfasst:
 - die Entschädigung von Gerichtsdolmetschern bei polizeilichen, staatsanwaltlichen und gerichtlichen Einvernahmen;
 - die Übersetzung wesentlicher Verfahrensakten (Anklageschrift, Strafbefehl, verfahrensleitende Verfügungen, verurteilendes Urteil).
 
@@ -298,7 +303,7 @@ Die Beweislast für die Voraussetzungen einer Kostenauflage bei Freispruch oder 
 
 #### 2. Akzessorietät zwischen Kostenauflage und Parteientschädigung
 Der Kostenentscheid präjudiziert den Entschädigungsanspruch der beschuldigten Person (Art. 429 Abs. 1 lit. a i.V.m. Art. 430 Abs. 1 lit. a StPO):
-- Werden der beschuldigten Person Kosten nach Art. 426 Abs. 2 StPO auferlegt, entfällt ihr Anspruch auf Parteientschädigung und Genugtuung grundsätzlich vollständig ([BGE 147 IV 47 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.1); [BGE 137 IV 352 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-IV-352_2011.html)).
+- Werden der beschuldigten Person Kosten nach Art. 426 Abs. 2 StPO auferlegt, entfällt ihr Anspruch auf Parteientschädigung und Genugtuung grundsätzlich vollständig ([BGE 147 IV 47 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-47_2021.html#consideration_4.1); [BGE 137 IV 352 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-352_2011.html)).
 - Umgekehrt führt die Aufhebung einer rechtswidrigen Kostenauflage im Rechtsmittelverfahren regelmässig zwingend zur Zusprechung der Parteientschädigung für das Vor- und Hauptverfahren ([BGer 6B_563/2017 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-563-2017_2017-09-11.html); [SG KG AK.2023.396 E. 4](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf)).
 
 #### 3. Beschwerdelegitimation der Privatklägerschaft
@@ -317,9 +322,9 @@ Die nachfolgende Tabelle fasst die Rechtsprechung zu den Schwellenwerten und Gre
 |---|---|---|---|
 | Unternehmer bezichtigt Angestellte vor Kollegen des Diebstahls von Fr. 2'700.– ohne Beweis; Einstellung nach Strafantragsrückzug | Verletzung von Art. 28 Abs. 1 ZGB; keine Rechtfertigung aus Art. 328 OR | Kostenauflage an Beschuldigten **bejaht** (Abs. 2) | [BGer 6B_1306/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1306-2021_2022-08-08.html) |
 | Gastwirt missachtet rechtswirksame behördliche Verfügung zur Covid-Zertifikatskontrolle vorsätzlich zwecks Testprozess | Rechtswidriger Verstoss gegen vollstreckbare Verfügung; Freispruch von Strafnorm ändert nichts | Kostenauflage an Beschuldigten **bejaht** (Abs. 2) | [BGer 6B_650/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-650-2024_2026-06-15.html) |
-| Einstellung des Strafverfahrens infolge vollständiger Wiedergutmachung nach Art. 53 StGB | Geständnis oder Schadensdeckung belegt materielles Unrecht der Tat | Kostenauflage an Beschuldigten **bejaht** (Abs. 2) | [BGE 144 IV 202](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html) |
+| Einstellung des Strafverfahrens infolge vollständiger Wiedergutmachung nach Art. 53 StGB | Geständnis oder Schadensdeckung belegt materielles Unrecht der Tat | Kostenauflage an Beschuldigten **bejaht** (nach den Grundsätzen von BGE 144 IV 202 E. 2.3) | [BGE 144 IV 202](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html) |
 | Lenker rauchte 32h vor Kontrolle Cannabis; Blutprobe zeigt nur inaktives Abbauprodukt THC-COOH | Kein Verstoss gegen SVG-Fahrfähigkeitsregeln; BetmG-Konsum ist separate Übertretung | Kostenauflage **verneint**; Staatskasse trägt Kosten (Abs. 2) | [BGer 6B_563/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-563-2017_2017-09-11.html) |
-| Frontalkollision mit Schwerverletzten auf Gegenfahrbahn; medizinische Ursache (Synkope) nicht widerlegbar | Reine Kausalhaftung (Art. 58 SVG) genügt nicht; Schuld nicht klar nachgewiesen | Kostenauflage **verneint**; Staatskasse trägt Kosten (Abs. 2) | [SG KG AK.2023.396](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf) |
+| Frontalkollision mit Schwerverletzten auf Gegenfahrbahn; medizinische Ursache nicht auszuschliessen | Reine Kausalhaftung (Art. 58 SVG) genügt nicht; Schuld nicht klar nachgewiesen | Kostenauflage **verneint**; Staatskasse trägt Kosten (Abs. 2) | [SG KG AK.2023.396](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2023-396_2023-10-19.pdf) |
 | Verurteilung wegen Waffentragens im Kofferraum, Freispruch wegen unzulässigen Scheibenklebers | Trennbare Sachverhalte; unzulässige Pauschalierung als Gesamtkomplex | Vollauflage **aufgehoben**; Ausscheidung nach Aufwand (Abs. 1) | [BGer 6B_523/2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-523-2013_2013-09-10.html) |
 | Verurteilung wegen zu nahen Auffahrens im Tunnel, Freispruch von späterer Autobahnkollision | Kollision war keine adäquate Folge des früheren Abstandsdelikts | Vollauflage **aufgehoben**; Auslagen für Unfallabklärung entfallen (Abs. 1) | [BGer 6B_151/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-151-2014_2014-12-04.html) |
 | Strafbefehl enthält keinerlei Sachverhaltsbeschreibung und verletzt Anklagegrundsatz | Gesetzliche Mindestanforderungen an Urteil/Anklage missachtet; fehlerhafte Handlung | Gebühr für Strafbefehl (Fr. 140.–) **auf Staatskasse** (Abs. 3 lit. a) | [BGer 6B_936/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-936-2015_2016-05-25.html) |
@@ -415,10 +420,7 @@ Ausführliche Übersicht der ausgewerteten Entscheide: → [Rechtsprechung zu Ar
 
 ## Literatur
 
-- Borbély, Cornel, Die Kostentragung in Einstellungsverfügungen, in: ZStR 129/2011, S. 415–440.
-- Domeisen, Thomas, in: Basler Kommentar, Schweizerische Strafprozessordnung, 3. Aufl., Basel 2023, Art. 426 N. 1–45.
-- Griesser, Yvona, in: Donatsch / Lieber / Summers / Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Art. 426 N. 1–32.
-- Jositsch, Daniel / Schmid, Niklaus, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 426 N. 1–15.
-- Oberholzer, Niklaus, Grundzüge des Strafprozessrechts, 4. Aufl., Bern 2020, Rz. 2260–2285.
-- Rüegg, Severin / Baumgartner, Samuel, in: Donatsch / Lieber / Summers / Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Vor Art. 422–428 N. 1–18.
-- Thommen, Marc, Kosten und Entschädigungen in strafrechtlichen Beschwerdeverfahren vor Bundesgericht, in: forumpoenale 2009, S. 53–59.
+- Borbély, Cornel, Die Kostentragung in Einstellungsverfügungen, in: ZStR 129/2011, S. 415 ff. (zum Verschuldensgrad insb. S. 436 f.).
+- Domeisen, Thomas, in: Basler Kommentar, Schweizerische Strafprozessordnung/Jugendstrafprozessordnung, 3. Aufl., Basel 2023, Art. 426.
+- Griesser, Yvona, in: Donatsch/Lieber/Summers/Wohlers (Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl., Zürich 2020, Art. 426.
+- Jositsch, Daniel/Schmid, Niklaus, Schweizerische Strafprozessordnung, Praxiskommentar, 4. Aufl., Zürich 2023, Art. 426.

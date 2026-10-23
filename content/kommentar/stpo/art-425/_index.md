@@ -2,11 +2,16 @@
 title: "Art. 425 StPO — Stundung und Erlass"
 weight: 425
 date: 2026-10-05
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 425 StPO: Stundung, Herabsetzung und Erlass von Verfahrenskosten, Resozialisierungszweck, strenger Massstab an die Mittellosigkeit, Begründungspflicht der Sachgerichte (BGer 6B_794/2024), Verbot der Gläubigerprivilegierung und kantonale Zuständigkeitsdivergenzen."
 tags: ["StPO", "Verfahrenskosten", "Kostenerlass", "Stundung", "Ratenzahlung", "Resozialisierung", "Mittellosigkeit", "Existenzminimum", "Gläubigerprivilegierung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    mcp_verified: true
+    note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 442). Korrigiert: BGE 145 IV 268 war fälschlich als Beleg für Zweck und Entstehung von Art. 425 zitiert (der Entscheid betrifft Art. 418/433 StPO) – ersetzt durch BGer 6B_794/2024 E. 2.1.6; nicht verifizierbare Botschaftsangabe («Art. 432 E-StPO, S. 1327 f.») entfernt; BGer 6B_794/2024 nur teilweise gutgeheissen (Dispositiv-Ziffern 7–9, Rückweisung); Zuständigkeitsabschnitt entdramatisiert («Judikaturdivergenz» → kantonale Unterschiede; Quelle: OGer SH 60/2022/48 E. 2) und Tabelle auf belegte Angaben beschränkt (u.a. ZH: Rekurs, nicht Verwaltungsgericht); BGer 6B_284/2021 betrifft den Kanton Freiburg; Aargauer Praxis nach BGer 6B_821/2022 (Nichteintreten) präzisiert; tote Links WBE.2022.417 und KD200005 berichtigt. Botschaft BBl 2006 1085 nicht direkt abrufbar."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -33,10 +38,10 @@ Art. 425 StPO bildet das bundesrechtliche Korrektiv zur strikten Kostenauflage i
 ### 1. Gesetzessystematik und Entstehungsgeschichte
 Die Bestimmung beschliesst das 1. Kapitel («Verfahrenskosten») des 10. Titels der Schweizerischen Strafprozessordnung. Während Art. 426 Abs. 1 StPO die Grundregel aufstellt, dass die verurteilte beschuldigte Person sämtliche Verfahrenskosten trägt, und Art. 428 StPO dieselbe strenge Kostenfolge für das Rechtsmittelverfahren statuiert, ermächtigt Art. 425 StPO die Strafbehörden, die daraus resultierende staatliche Kostenforderung den tatsächlichen finanziellen Möglichkeiten der pflichtigen Person anzupassen.
 
-In der Botschaft zur Vereinheitlichung des Strafprozessrechts war die Norm ursprünglich als Art. 432 E-StPO konzipiert ([Botschaft BBl 2006 1085, S. 1327 f.](https://www.fedlex.admin.ch/eli/fga/2006/1085/de)). Der Bundesgesetzgeber bezweckte damit, ein einheitliches, flexibles Institut für Zahlungserleichterungen im Strafverfahren zu schaffen, ohne die Durchsetzung staatlicher Forderungen prinzipiell aufzugeben ([BGE 145 IV 268 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-268_2019.html#consideration_1.2)).
+Das Bundesrecht belässt die konkrete Ausgestaltung der Voraussetzungen von Stundung und Erlass weitgehend der kantonalen Ausführungsgesetzgebung ([BGer 6B_794/2024 vom 8. Januar 2025 E. 2.1.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.6); [BGer 6B_500/2016 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_2)).
 
 ### 2. Normzweck: Resozialisierung und Schutz vor Überschuldung
-Hauptzweck von Stundung, Herabsetzung und Erlass ist die Förderung der **Resozialisierung** der verurteilten Person ([BGE 145 IV 268 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-268_2019.html#consideration_1.2); [BGer 6B_794/2024 vom 8. Januar 2025 E. 2.1.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.6); [BGer 6B_610/2014 vom 28. August 2014 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html#consideration_3)). Ausgedehnte Strafuntersuchungen mit aufwendigen Sachverständigengutachten, toxikologischen Analysen und amtlichen Verteidigungen führen nicht selten zu Kostenforderungen von mehreren zehntausend Franken. Würde der Staat diese Kostenforderungen nach Haftentlassung oder Verurteilung rücksichtslos eintreiben, drohte die wirtschaftliche Existenz der betroffenen Person vernichtet zu werden, was deren Reintegration in den Arbeitsmarkt und die Gesellschaft massiv gefährden und den Rückfall in die Delinquenz begünstigen würde.
+Hauptzweck von Stundung, Herabsetzung und Erlass ist die Förderung der **Resozialisierung** der verurteilten Person ([BGer 6B_794/2024 vom 8. Januar 2025 E. 2.1.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.6); [BGer 6B_610/2014 vom 28. August 2014 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html#consideration_3)). Ausgedehnte Strafuntersuchungen mit aufwendigen Sachverständigengutachten, toxikologischen Analysen und amtlichen Verteidigungen führen nicht selten zu Kostenforderungen von mehreren zehntausend Franken. Würde der Staat diese Kostenforderungen nach Haftentlassung oder Verurteilung rücksichtslos eintreiben, drohte die wirtschaftliche Existenz der betroffenen Person vernichtet zu werden, was deren Reintegration in den Arbeitsmarkt und die Gesellschaft massiv gefährden und den Rückfall in die Delinquenz begünstigen würde.
 
 ### 3. Die Trias der Rechtsfolgen im Stufenverhältnis
 Art. 425 StPO stellt der Behörde drei gestufte Massnahmen zur Verfügung:
@@ -55,7 +60,7 @@ Das Ermessen ist jedoch pflichtgemäss auszuüben: Art. 425 StPO darf nicht zu e
 
 | Prüfungsstufe / Merkmal | Fragestellung / Prüfungspunkt | Massstab und rechtliche Vorgabe | Leitentscheide & Fundstellen |
 |---|---|---|---|
-| **1. Anwendungsbereich & Forderungsart** | Handelt es sich um eine Forderung aus Verfahrenskosten? | Erfasst sind ausschliesslich Gebühren und Auslagen nach Art. 422 StPO sowie die Rückerstattung der amtlichen Verteidigung (Art. 135 Abs. 4 StPO). Strafsanktionen (Bussen, Geldstrafen) und Zivilforderungen sind nicht erlassfähig nach Art. 425 StPO. | Art. 422, Art. 425 StPO; [BGer 6B_794/2024 E. 2.1.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.3); [BGE 145 IV 268 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-268_2019.html#consideration_1.2) |
+| **1. Anwendungsbereich & Forderungsart** | Handelt es sich um eine Forderung aus Verfahrenskosten? | Erfasst sind ausschliesslich Gebühren und Auslagen nach Art. 422 StPO sowie die Rückerstattung der amtlichen Verteidigung (Art. 135 Abs. 4 StPO). Strafsanktionen (Bussen, Geldstrafen) und Zivilforderungen sind nicht erlassfähig nach Art. 425 StPO. | Art. 422, Art. 425 StPO; [BGer 6B_794/2024 E. 2.1.3–2.1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.3) |
 | **2. Verfahrensstadium & Zuständigkeit** | Wird das Gesuch im Hauptverfahren oder nachträglich gestellt? | Im Sachurteil entscheidet das erkennende Sachgericht über den gestellten Erlassantrag (Art. 112 BGG). Nach Rechtskraft entscheidet entweder das Sachgericht als nachträglicher Richter (Art. 363 Abs. 1 StPO) oder die zuständige Justizverwaltungsbehörde (Art. 442 Abs. 3 StPO). | [BGer 6B_794/2024 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.6); [BStGer SK.2024.5 E. 3.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf); [SH OGer 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf) |
 | **3. Substanziierung & Mitwirkung** | Hat die gesuchstellende Person ihre Finanzen lückenlos belegt? | Die Pflichtige trägt die volle Behauptungs- und Beweislast (Art. 8 ZGB). Sie muss Einkommen, Vermögen, Lebenshaltungskosten und Schulden umfassend mittels Belegen (Steuerakten, Budget, Mietvertrag) darlegen. | Art. 8 ZGB; [BGer 6B_284/2021 E. 9](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-284-2021_2021-04-13.html#consideration_9); [BGer 6B_500/2016 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_1.2); [LU KG 2N 14 65 E. 3.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html) |
 | **4. Wirtschaftliche Verhältnisse & Härte** | Liegt Mittellosigkeit oder eine unzumutbare Härte vor? | Massstab ist das betreibungsrechtliche Existenzminimum. Liegt ein monatlicher Überschuss vor, ist ein Erlass ausgeschlossen und eine Ratenzahlung zumutbar. Strengerer Massstab als bei der unentgeltlichen Rechtspflege. | [BGer 6B_878/2017 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-878-2017_2017-09-21.html#consideration_5); [BGer 6B_500/2016 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_1.1); [KGer VS P2 26 26 E. 1](https://entscheidsuche.ch/docs/VS_Gerichte/VS_BZG_999_P2-26-26_2026-04-01.pdf) |
@@ -130,7 +135,7 @@ Ein Kostenerlass ist zwingend ausgeschlossen, wenn die gesuchstellende Person ü
 
 ### C. Der Resozialisierungsgedanke und das Verhältnis zur Sanktion (BGer 6B_794/2024)
 
-Der Kerngehalt von Art. 425 StPO liegt im verfassungs- und strafrechtlichen Grundsatz der **Resozialisierung** (Art. 75 Abs. 1 StGB; [BGE 145 IV 268 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-268_2019.html#consideration_1.2)).
+Der Kerngehalt von Art. 425 StPO liegt im verfassungs- und strafrechtlichen Grundsatz der **Resozialisierung** (vgl. [BGer 6B_794/2024 E. 2.1.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.1.6); [BGer 6B_239/2021 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-239-2021_2021-05-26.html#consideration_2)).
 
 #### 1. Gefährdung des wirtschaftlichen Fortkommens
 Eine Kostenauflage widerspricht dem Sinn des Strafrechts, wenn sie den Verurteilten wirtschaftlich erdrosselt. Kann eine Person nach verbüsster Strafe oder bei bedingter Straffreistellung keine legale wirtschaftliche Existenz aufbauen, weil jeder über das Existenzminimum hinausgehende Franken auf Jahrzehnte hinaus für Justizkosten gepfändet wird, verliert sie den Anreiz zur regulären Erwerbsarbeit.
@@ -140,11 +145,11 @@ Ein gravierendes Missverhältnis zwischen der verhängten Strafe und der auferle
 
 > **Der Sachverhalt zu BGer 6B_794/2024 (Fünferbesetzung)**:  
 > Das Bezirksgericht Zürich verurteilte A. wegen qualifizierten Raubs zu einer unbedingten Freiheitsstrafe von 3 Jahren. Auf Berufung hin sprach das Obergericht des Kantons Zürich A. nur noch der mehrfachen einfachen Körperverletzung schuldig und reduzierte die Strafe auf **14 Monate Freiheitsstrafe bedingt** bei einer Probezeit von 3 Jahren (verbunden mit einer ambulanten Massnahme).  
-> Trotz dieser drastischen Schuld- und Strafreduktion auferlegte das Obergericht A. erstinstanzliche Verfahrenskosten von **Fr. 42'797.75** (davon Fr. 28'637.75 für ein psychiatrisches Gutachten) sowie zweitinstanzliche Kosten von Fr. 1'600.– (2/5 von Fr. 4'000.–). Zudem behielt es die Rückforderung der Kosten der amtlichen Verteidigung und der Opfervertretung von insgesamt **Fr. 54'463.50** nach Art. 135 Abs. 4 StPO vor — eine Gesamtkostenbelastung von **knapp Fr. 100'000.–**.  
+> Trotz dieser drastischen Schuld- und Strafreduktion auferlegte das Obergericht A. erstinstanzliche Verfahrenskosten von **Fr. 42'797.75** (davon Fr. 28'637.75 für ein psychiatrisches Gutachten) sowie zweitinstanzliche Kosten von Fr. 1'600.– (2/5 von Fr. 4'000.–). Zudem behielt es die Nachforderung der Kosten der amtlichen Verteidigung und der unentgeltlichen Rechtsvertretung des Privatklägers von insgesamt **Fr. 54'463.50** nach Art. 135 Abs. 4 StPO vor — eine Gesamtkostenbelastung von **knapp Fr. 100'000.–** (E. 2.6.3).  
 > A. hatte bereits vor erster Instanz und erneut im Berufungsplädoyer ausdrücklich beantragt, die Kosten seien gestützt auf Art. 425 StPO ganz oder teilweise (mindestens die Gutachterkosten) zu erlassen, da eine Kostenlast von Fr. 100'000.– bei einer bedingten Strafe von 14 Monaten seine Resozialisierung vollkommen verunmögliche. Selbst die Staatsanwaltschaft hatte erstinstanzlich beantragt, die Kosten infolge offensichtlicher Unerhältlichkeit definitiv abzuschreiben. Weder das Bezirksgericht noch das Obergericht gingen in den Urteilsbegründungen mit einem einzigen Wort auf den Erlassantrag ein.  
 >
-> **Das Bundesgericht hiess die Beschwerde gut und hob das Urteil auf**:  
-> Das Bundesgericht rügte das kantonale Vorgehen als gravierende Gehörs- und Bundesrechtsverletzung:  
+> **Das Bundesgericht hiess die Beschwerde teilweise gut** (Dispositiv-Ziffern 7–9 des obergerichtlichen Urteils aufgehoben, Rückweisung zur Prüfung einer allfälligen Herabsetzung oder eines Erlasses der Verfahrenskosten; im Übrigen abgewiesen):  
+> Das Bundesgericht rügte das Übergehen des Erlassantrags als Verstoss gegen die Begründungspflicht:  
 > > «Der Beschwerdeführer rügt zu Recht, dass auf seine Anträge um Kostenerlass weder im erstinstanzlichen Urteil noch im angefochtenen Verfahren auch nur mit einem Wort eingegangen wurde. [...] Dies entbindet die Vorinstanz aber nicht von der Pflicht, ihren Entscheid zu begründen [...]. Indem die Vorinstanz wie schon die Erstinstanz mit keinem Wort auf den Antrag des Beschwerdeführers um Erlass der Verfahrenskosten eingeht, verstösst sie gegen Art. 112 Abs. 1 lit. b BGG. Das Bundesgericht kann nicht überprüfen, weshalb auf die Stundung oder den Erlass der Verfahrenskosten verzichtet wurde. Insbesondere ist nicht ersichtlich, welche Überlegungen die Vorinstanz zu den Aspekten der Resozialisierung und Verhältnismässigkeit angestellt hat» ([BGer 6B_794/2024 vom 8. Januar 2025 E. 2.6.2–2.6.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.6.2)).  
 > Das Bundesgericht wies die Sache an das Obergericht zurück, damit dieses die Herabsetzung oder den Erlass der Kosten unter Resozialisierungsgesichtspunkten materiell prüft und begründet.
 
@@ -200,9 +205,8 @@ Die Ausübung des behördlichen Ermessens stösst an materielle Schranken:
 #### 1. Verbot der Gläubigerprivilegierung zu Lasten des Gemeinwesens
 Befindet sich die kostenpflichtige Person in einer prekären finanziellen Lage, weil sie neben den Verfahrenskosten erhebliche **private Schulden** (Bankkredite, Leasing, Steuerschulden, Konsumschulden) bedienen muss, rechtfertigt dies keinen Kostenerlass:
 - Der Staat ist nicht verpflichtet, einseitig auf Justizkosten zu verzichten, um private Gläubiger zu privilegieren ([BGer 6B_610/2014 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html#consideration_2); [LU KG 2N 14 65 vom 7. Juli 2014 E. 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
-- Pfändet das Betreibungsamt den Einkommensüberschuss für Drittgläubiger, muss die Strafbehörde die staatliche Kostenforderung nicht bis auf Minimalraten stunden, sondern kann diese auf dem ordentlichen SchKG-Weg (Art. 442 Abs. 1 StPO) bis zum Verlustschein eintreiben ([LU KG 2N 14 65 E. 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
-- Bei allgemeiner Überschuldung ist die gesuchstellende Person auf den Weg der gerichtlichen Schuldenbereinigung oder des Privatkonkurses (Art. 191 SchKG) zu verweisen.
-
+- Verfahrenskosten werden nach den Bestimmungen des SchKG eingetrieben (Art. 442 Abs. 1 StPO); das Kantonsgericht Luzern lehnte es ab, die Monatsrate wegen der Lohnpfändung für Drittgläubiger auf Fr. 50.– herabzusetzen ([LU KG 2N 14 65 E. 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
+- 
 #### 2. Ausschluss bei mutwilliger oder aussichtsloser Prozessführung
 Wer Kosten durch mutwillige, querulatorische oder vornherein aussichtslose Verfahren verursacht hat, verwirkt den Anspruch auf Kostenprivilegierung:
 - **Keine Prozessfinanzierung ex post**: Art. 425 StPO darf nicht dazu missbraucht werden, die Schranken der unentgeltlichen Rechtspflege (Art. 29 Abs. 3 BV, Art. 136 StPO) zu unterlaufen. Wurde ein Verfahren als aussichtslos eingestuft oder hat die Partei die Einreichung eines rechtzeitigen UP-Gesuches versäumt, kann sie die Kosten nicht nachträglich über Art. 425 StPO auf die Allgemeinheit abwälzen ([BGer 6B_1026/2021 vom 5. Oktober 2022 E. 2.2–2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1026-2021_2022-10-05.html#consideration_2.2)).
@@ -228,48 +232,47 @@ Wird das Gesuch erst nach Eintritt der formellen Rechtskraft des Kostenentscheid
 
 ---
 
-### G. Judikaturdivergenz: Sachliche Zuständigkeit und Verfahrensart
+### G. Zuständigkeit für nachträgliche Erlassgesuche: kantonale Unterschiede
 
-In der schweizerischen Gerichtspraxis besteht ein **echter, unauflösbarer Widerspruch** hinsichtlich der Frage, welche Behörde für nachträgliche Erlassgesuche sachlich zuständig ist und nach welcher Verfahrensordnung zu verfahren ist:
+Die Zuständigkeit für nachträgliche Erlassgesuche und das anwendbare Verfahren sind kantonal unterschiedlich geregelt. Zwei Ansätze lassen sich unterscheiden:
 
 ```text
-       JUDIKATURDIVERGENZ BEI NACHTRÄGLICHEM KOSTENERLASS (Art. 425 StPO)
+       NACHTRÄGLICHER KOSTENERLASS (Art. 425 StPO): ZUSTÄNDIGKEIT
                                       │
              ┌────────────────────────┴────────────────────────┐
              ▼                                                 ▼
-      LINIE 1: MONISMUS                                 LINIE 2: DUALISMUS
-   DER STRAFGERICHTSBARKEIT                       DER JUSTIZVERWALTUNG
- (LU, BE, Bund / BStGer)                       (SH, AG, ZH, SG, BS)
+      LINIE 1: STRAFGERICHTSBARKEIT                    LINIE 2: JUSTIZVERWALTUNG
+ (LU, BE, Bund / BStGer)                       (SH, AG, ZH, SG)
              │                                                 │
  ├─ Urteilendes Gericht entscheidet            ├─ Departement / Gerichtskasse
     als Strafbehörde (Art. 363 Abs. 1 StPO)       entscheidet (Art. 442 Abs. 3 StPO)
  ├─ Verfahren nach StPO                        ├─ Verfahren nach kantonalem VRG
- └─ Rechtsmittel: StPO-Beschwerde (Art. 393)   └─ Rechtsmittel: Verwaltungsgericht
+ └─ Rechtsmittel: StPO-Beschwerde (Art. 393)   └─ Rechtsmittel: nach kantonalem Recht
 ```
 
-#### 1. Linie 1: Monismus der Strafgerichtsbarkeit (Luzern, Bern, Bundesstrafgericht)
-Nach dieser Rechtsprechung ist Art. 425 StPO eine originäre strafprozessuale Bestimmung, die dem 10. Titel («Verfahrenskosten») und nicht dem 11. Titel («Vollstreckung») zugeordnet ist:
-- **Zuständigkeit**: Zuständig ist zwingend eine «Strafbehörde» (Art. 12 f. StPO). Für nachträgliche Erlassentscheide ist das urteilende Gericht gemäss Art. 363 Abs. 1 StPO als selbstständiger nachträglicher Richter berufen ([LU KG 2N 14 65 E. 2.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html); [BStGer SK.2024.5 E. 3.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf); [TPF 2019 35 E. 1.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2018-133_2019-02-15.pdf)).
-- **Verfahren und Rechtsmittel**: Das Verfahren richtet sich nach Art. 364 f. StPO. Anfechtungsobjekt ist eine Verfügung nach Art. 393 Abs. 1 lit. b StPO, die mit Beschwerde an die kantonale Beschwerdeinstanz bzw. mit Beschwerde in Strafsachen an das Bundesgericht (Art. 78 BGG) weitergezogen wird.
+#### 1. Linie 1: Zuständigkeit der Strafgerichtsbarkeit (Luzern, Bern, Bundesstrafgericht)
+Das Kantonsgericht Luzern ging davon aus, der Bundesgesetzgeber habe diese Kompetenz in Art. 425 StPO («Strafbehörde») selbst geregelt und nicht den Kantonen überlassen (LGVE 2014 I Nr. 7 E. 2.1, referiert in OGer SH 60/2022/48 E. 2):
+- **Zuständigkeit**: Für nachträgliche Erlassentscheide ist das Gericht, das das erstinstanzliche Urteil gefällt hat, gemäss Art. 363 Abs. 1 StPO als selbstständiger nachträglicher Richter zuständig, sofern Bund oder Kantone nichts anderes bestimmen; dazu gehört der Entscheid über Erlass oder Stundung von Verfahrenskosten ([LU KG 2N 14 65 E. 2.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html); [BStGer SK.2024.5 E. 3.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf); [BStGer BB.2018.133 vom 15. Februar 2019](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2018-133_2019-02-15.pdf)).
+- **Verfahren und Rechtsmittel**: Das Verfahren richtet sich nach Art. 364 f. StPO (so auch [BStGer SK.2024.5 E. 3.2](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf)). Im Kanton Luzern ist gegen den erstinstanzlichen Entscheid über Stundung und Erlass die Beschwerde nach Art. 393 Abs. 1 lit. b StPO zulässig ([LU KG 2N 14 65 E. 2.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)); gegen letztinstanzliche Entscheide steht die Beschwerde in Strafsachen offen ([BGer 6B_500/2016 E. 1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_1)).
 
-#### 2. Linie 2: Dualismus und Justizverwaltungsmonopol (Schaffhausen, Aargau, Zürich, St. Gallen)
-Die Gegenmeinung liest Art. 425 StPO im Lichte von Art. 442 Abs. 3 StPO, wonach Bund und Kantone bestimmen, welche Behörden finanzielle Leistungen eintreiben:
-- **Zuständigkeit**: Weil Stundung und Erlass materiell den Vollzug von Geldforderungen betreffen, dürfen die Kantone gestützt auf ihre Organisationsautonomie reine Exekutiv- oder Justizverwaltungsbehörden einsetzen ([SH OGer 60/2022/48 vom 24. Oktober 2023 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf); [VGer AG WBE.2022.417 vom 1. Dezember 2022 E. I](https://entscheidsuche.ch/docs/AG_Gerichte/AG_VG_001_WBE-2022-417_2022-12-01.pdf); [OGer ZH KD200005 vom 15. April 2021 E. II.1](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_KD200005_2021-04-15.pdf); [SG SJD RDRM.2022.30](https://entscheidsuche.ch/docs/SG_Gerichte/SG_DEP_006_RDRM-2022-30_2023-01-04.pdf)):
-  - Im Kanton Schaffhausen entscheidet das **Finanzdepartement** (§ 122 JVV);
+#### 2. Linie 2: Zuweisung an Verwaltungsbehörden (Schaffhausen, Aargau, Zürich, St. Gallen)
+Das Obergericht Schaffhausen liest Art. 425 StPO im Zusammenhang mit Art. 442 Abs. 3 StPO, wonach Bund und Kantone bestimmen, welche Behörden die finanziellen Leistungen eintreiben:
+- **Zuständigkeit**: Weil es sowohl bei der Stundung als auch beim Erlass um den Vollzug von Forderungen geht, muss es Bund und Kantonen möglich bleiben, auch andere Behörden als Strafbehörden einzusetzen ([SH OGer 60/2022/48 vom 24. Oktober 2023 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf); [VGer AG WBE.2022.417 vom 1. Dezember 2022 E. I](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2022-417_2022-12-01.pdf); [OGer ZH KD200005 vom 15. April 2021 E. II.1](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_KD200005_2021-04-15.pdf); [SG SJD RDRM.2022.30](https://entscheidsuche.ch/docs/SG_Gerichte/SG_DEP_006_RDRM-2022-30_2023-01-04.pdf)):
+  - Im Kanton Schaffhausen entscheidet das **Finanzdepartement** (Art. 94 Abs. 3 JG; § 122 JVV);
   - Im Kanton Aargau entscheidet das **Generalsekretariat der Gerichte**;
   - Im Kanton Zürich entscheidet die **Verwaltungskommission des Obergerichts**;
   - Im Kanton St. Gallen entscheidet das **Sicherheits- und Justizdepartement**.
-- **Verfahren und Rechtsmittel**: Das Verfahren richtet sich nach dem kantonalen **Verwaltungsrechtspflegegesetz (VRG)**. Rechtsmittelzug führt an das kantonale Verwaltungsgericht und letztinstanzlich mit subsidiärer Verfassungsbeschwerde (Art. 113 BGG) bzw. öffentlich-rechtlicher Beschwerde (Art. 82 BGG) an das Bundesgericht ([BGer 1B_385/2022 vom 27. September 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-385-2022_2022-09-27.html); [BGer 2D_28/2021 vom 12. Juli 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2D-28-2021_2021-07-12.html)).
+- **Verfahren und Rechtsmittel**: Das Verfahren richtet sich nach dem jeweiligen kantonalen Verwaltungsrechtspflegegesetz (SH: OGer 60/2022/48 E. 2). Das Bundesgericht hat dies nicht beanstandet, so nach dem Obergericht Schaffhausen in Entscheiden betreffend den Kanton Zürich ([BGer 1B_385/2022 vom 27. September 2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-385-2022_2022-09-27.html); [BGer 2D_28/2021 vom 12. Juli 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2D-28-2021_2021-07-12.html)).
 
-| Kanton / Instanz | Zuständige Behörde | Rechtsgrundlage | Verfahrensordnung | Rechtsmittel |
-|---|---|---|---|---|
-| **Bund (BStGer)** | Strafkammer / Beschwerdekammer | Art. 363 Abs. 1 StPO; Art. 76 StBOG; TPF 2019 35 | StPO (Art. 364 f.) | Beschwerde an Beschwerdekammer / BGer (Art. 78 BGG) |
-| **Kanton Luzern** | Gerichtspräsidium des Sachgerichts | § 97 Abs. 2 lit. b JusG; § 317 SMVG | StPO (Art. 393 Abs. 1 lit. b) | Beschwerde an Kantonsgericht ([LU KG 2N 14 65](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)) |
-| **Kanton Bern** | Urteilende Kammer des Obergerichts | Art. 10 VKD/BE (BSG 161.12) | StPO | Beschwerde in Strafsachen an BGer ([BGer 6B_1026/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1026-2021_2022-10-05.html)) |
-| **Kanton Schaffhausen** | Finanzdepartement | Art. 94 Abs. 3 JG; § 122 JVV | Kantonales VRG | Rekurs an Obergericht ([SH OGer 60/2022/48](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf)) |
-| **Kanton Aargau** | Generalsekretariat der Gerichte | SAR 221.150 | Kantonales VRPG | Beschwerde an Verwaltungsgericht ([VGer AG WBE.2022.417](https://entscheidsuche.ch/docs/AG_Gerichte/AG_VG_001_WBE-2022-417_2022-12-01.pdf)) |
-| **Kanton Zürich** | Verwaltungskommission des Obergerichts | § 45 GVG ZH; § 8 GebV OG | Kantonales VRG | Beschwerde an Verwaltungsgericht ([OGer ZH KD200005](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_KD200005_2021-04-15.pdf)) |
-| **Kanton St. Gallen** | Sicherheits- und Justizdepartement | Art. 20 Abs. 1 lit. b EG-StPO | Kantonales VRP | Rekurs an Verwaltungsrekurskommission ([SG SJD RDRM.2022.30](https://entscheidsuche.ch/docs/SG_Gerichte/SG_DEP_006_RDRM-2022-30_2023-01-04.pdf)) |
+| Kanton / Instanz | Zuständige Behörde (nachträgliche Gesuche) | Rechtsgrundlage | Rechtsmittel / Verfahren |
+|---|---|---|---|
+| **Bund (BStGer)** | Strafkammer als nachträglicher Richter | Art. 363 Abs. 1, Art. 364 StPO | StPO ([BStGer SK.2024.5 E. 3.1–3.2](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf)); bei Gebührenerlass im Beschwerdeverfahren Einzelrichter der Beschwerdekammer ([BStGer BB.2026.80](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2026-80_2026-07-21.pdf)) |
+| **Kanton Luzern** | Kriminalgerichtspräsident (Sachgericht) | § 97 Abs. 2 lit. b JusG; § 317 SMVG (SRL 305) | Beschwerde an das Kantonsgericht (Art. 393 Abs. 1 lit. b StPO; [LU KG 2N 14 65](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)) |
+| **Kanton Bern** | Verfahrensleitung der Beschwerdekammer des Obergerichts (analog Art. 395 lit. b StPO) | Art. 10 VKD/BE (BSG 161.12) | Beschwerde in Strafsachen ([BGer 6B_1026/2021 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1026-2021_2022-10-05.html)) |
+| **Kanton Schaffhausen** | Finanzdepartement | Art. 94 Abs. 3 JG; § 122 JVV | Kantonales Verwaltungsverfahren ([OGer SH 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf)) |
+| **Kanton Aargau** | Generalsekretariat der Gerichte | – | Beschwerde an das Verwaltungsgericht ([VGer AG WBE.2022.417](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2022-417_2022-12-01.pdf)) |
+| **Kanton Zürich** | Verwaltungskommission des Obergerichts | – | Rekurs gegen deren Beschluss ([OGer ZH KD200005](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_999_KD200005_2021-04-15.pdf)) |
+| **Kanton St. Gallen** | Sicherheits- und Justizdepartement (Rekursentscheid) | Art. 20 Abs. 1 lit. b EG-StPO | Rekurs ([SG SJD RDRM.2022.30](https://entscheidsuche.ch/docs/SG_Gerichte/SG_DEP_006_RDRM-2022-30_2023-01-04.pdf)) |
 
 ---
 
@@ -292,7 +295,7 @@ Das Bundesgericht prüft die Handhabung von Art. 425 StPO und der kantonalen Erl
 
 | Entscheid | Instanz / Gericht | Verfahrensgegenstand / Ausgangslage | Begehrte Massnahme | Beurteilung | Ausschlaggebendes Kriterium |
 |---|---|---|---|---|---|
-| [BGer 6B_794/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html) | OGer ZH / BGer | Verurteilung zu 14 Mte. bedingt; Kostenberg von knapp **Fr. 100'000.–** (Gutachten Fr. 28'637.–) | Erlass / Herabsetzung im Urteil | **Gutgeheissen (Urteil aufgehoben)** | Gehörsverletzung (Art. 112 BGG); krasse Disproportionalität zur bedingten Sanktion gebot materielle Prüfung unter Resozialisierungsaspekten. |
+| [BGer 6B_794/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html) | OGer ZH / BGer | Verurteilung zu 14 Mte. bedingt; Kostenberg von knapp **Fr. 100'000.–** (Gutachten Fr. 28'637.–) | Erlass / Herabsetzung im Urteil | **Teilweise gutgeheissen (Rückweisung)** | Verstoss gegen Art. 112 Abs. 1 lit. b BGG (Erlassantrag nicht behandelt); Resozialisierung und Verhältnismässigkeit sind zu prüfen. |
 | [BGer 6B_610/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html) | OGer SO / BGer | Betrugsgehilfenschaft; Kosten **Fr. 74'649.50**; Einkommenseinbruch, Privatschulden | Erlass der gesamten Verfahrenskosten | **Abgewiesen** | Vorhandenes Vermögenssubstrat (Liegenschaft mit Belehnungsreserve Fr. 113'000.–) schliesst Erlass aus; Verbot der Gläubigerprivilegierung. |
 | [BGer 6B_878/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-878-2017_2017-09-21.html) | KGer LU / BGer | Beschwerdekosten Fr. 500.–; Heimbewohnerin mit IV/EL und Fr. 450.– Taschengeld | Vollständiger Erlass der Restkosten | **Abgewiesen (Teilerlass geschützt)** | Strengerer Massstab als bei UP; Ratenzahlung von Fr. 250.– aus Taschengeld zumutbar; Unpfändbarkeit nach Art. 92 SchKG hindert Kostentragung nicht. |
 | [BGer 6B_500/2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html) | OGer BE / BGer | Kosten **Fr. 22'304.–**; Monatslohn Fr. 5'000.– brutto; Überschuss Fr. 1'301.10 | Vollständiger Erlass | **Nichteintreten / Abgewiesen** | Überschuss über Existenzminimum schliesst Erlass aus; Ratenzahlung zumutbar; behauptete Kreditschulden nicht belegt (Art. 8 ZGB). |
@@ -307,15 +310,15 @@ Das Bundesgericht prüft die Handhabung von Art. 425 StPO und der kantonalen Erl
 
 ## Kantonale Praxisfragen
 
-### 1. Geltendmachung im Sachurteil vs. Verweisung auf das Nachverfahren (ZH/BE vs. AG)
-Die kantonalen Gerichte handhaben den Zeitpunkt, in dem ein Erlassantrag nach Art. 425 StPO geprüft werden kann, grundlegend verschieden:
-- **Zürich und Bern**: Das erkennende Gericht beurteilt den Antrag auf Kostenerlass oder Stundung auf Rüge hin **direkt im Sachurteil**. Wird der Antrag an der Hauptverhandlung oder im Berufungsverfahren gestellt, muss das Gericht die wirtschaftlichen Verhältnisse und den Resozialisierungszweck im Endentscheid würdigen und begründen ([BGer 6B_794/2024 vom 8. Januar 2025 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.6); [BGer 6B_284/2021 E. 7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-284-2021_2021-04-13.html#consideration_7)).
-- **Kanton Aargau**: Das Obergericht des Kantons Aargau tritt auf Erlassanträge im Strafurteil praxisgemäss **nicht ein**. Es vertritt die Auffassung, Art. 425 StPO finde im gerichtlichen Erkenntnisverfahren keine Anwendung; die beschuldigte Person müsse die Rechtskraft der Kostenauflage abwarten und danach ein separates Gesuch an die kantonale Gerichtskasse bzw. das Generalsekretariat der Gerichte stellen ([BGer 6B_821/2022 vom 29. August 2022 E. 1, 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-821-2022_2022-08-29.html)). Das Bundesgericht liess die Vereinbarkeit dieser Praxis mit Bundesrecht mangels substanziierter Rüge bislang offen.
+### 1. Geltendmachung im Sachurteil vs. Verweisung auf das Nachverfahren (BE/ZH vs. AG)
+Die kantonalen Gerichte handhaben den Zeitpunkt, in dem ein Erlassantrag nach Art. 425 StPO geprüft wird, unterschiedlich:
+- **Zürich**: Das Obergericht Zürich prüfte im Fall von BGer 6B_794/2024 die gestellten Erlassanträge im Sachurteil nicht; das Bundesgericht hielt fest, dass ein im Sachverfahren gestellter Antrag begründet zu behandeln ist ([BGer 6B_794/2024 vom 8. Januar 2025 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-794-2024_2025-01-08.html#consideration_2.6)). In der Praxis wird auch bereits im Urteil auf die wirtschaftliche Lage Rücksicht genommen oder der Kostenentscheid auf den Zeitpunkt des Kostenbezugs nach Art. 442 StPO verschoben ([BGer 6B_1026/2021 E. 2.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1026-2021_2022-10-05.html#consideration_2.3.4)).
+- **Kanton Aargau**: Das Obergericht Aargau trat auf ein Kostenerlassgesuch im Beschluss über den Rückzug der Berufung nicht ein, weil Art. 425 StPO nach seiner Praxis im gerichtlichen Verfahren keine Anwendung finde; der Beschwerdeführer habe die Möglichkeit, nach Rechtskraft ein Gesuch um Erlass oder Stundung zu stellen. Das Bundesgericht trat auf die Beschwerde nicht ein, da die Rügen nicht hinreichend begründet waren ([BGer 6B_821/2022 vom 29. August 2022 E. 1, 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-821-2022_2022-08-29.html)); die Vereinbarkeit dieser Praxis mit Bundesrecht blieb damit offen.
 
-### 2. Der Anfechtungsweg bei nachträglichen Erlassentscheiden (StPO-Beschwerde vs. Verwaltungsgericht)
-Trifft eine kantonale Behörde einen nachträglichen negativen Erlassentscheid, entscheidet das kantonale Recht über den Rechtsmittelweg:
-- **Kantone mit Zuweisung an die Strafgerichtsbarkeit (z.B. LU, BE)**: Gegen den Entscheid des Gerichtspräsidiums steht die **Beschwerde nach Art. 393 ff. StPO** an die Beschwerdekammer des Obergerichts bzw. Kantonsgerichts offen ([LU KG 2N 14 65 E. 2.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
-- **Kantone mit Justizverwaltungsmodell (z.B. SH, AG, ZH, SG)**: Gegen den ablehnenden Entscheid des Departements oder der Verwaltungskommission ist der verwaltungsrechtliche Rechtsmittelzug (Rekurs an den Regierungsrat/Obergericht, danach **Beschwerde an das kantonale Verwaltungsgericht**) zu beschreiten ([SH OGer 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf); [VGer AG WBE.2022.417](https://entscheidsuche.ch/docs/AG_Gerichte/AG_VG_001_WBE-2022-417_2022-12-01.pdf)). Eine StPO-Beschwerde ist in diesen Kantonen unzulässig und führt zum Nichteintreten.
+### 2. Der Anfechtungsweg bei nachträglichen Erlassentscheiden
+Der Rechtsmittelweg hängt von der kantonalen Zuständigkeitsordnung ab:
+- **Luzern**: Gegen erstinstanzliche Entscheide betreffend Stundung und Erlass von Verfahrenskosten ist die Beschwerde nach Art. 393 Abs. 1 lit. b StPO zulässig ([LU KG 2N 14 65 E. 2.1](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
+- **Schaffhausen und Aargau**: Entscheide der Verwaltungsbehörden werden nach dem kantonalen Verwaltungsrechtspflegegesetz angefochten; das Obergericht Schaffhausen prüfte den Rekurs gegen den Entscheid des Finanzdepartements und erachtete die Zuständigkeitsregelung als bundesrechtskonform ([OGer SH 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf)); im Aargau führte der Weg an das Verwaltungsgericht ([VGer AG WBE.2022.417](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2022-417_2022-12-01.pdf)).
 
 ---
 
@@ -327,7 +330,7 @@ Trifft eine kantonale Behörde einen nachträglichen negativen Erlassentscheid, 
 2. Ein Gesuch nach Art. 425 StPO minutiös mit Urkunden belegen: Steuererklärungen, Lohnausweise, Mietverträge, Krankenkassenpolicen und Betreibungsauszüge einreichen. Reine Parteibehauptungen zur Mittellosigkeit genügen der bundesgerichtlichen Substanziierungspflicht nicht und führen zur Abweisung ([BGer 6B_500/2016 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_1.2); [BGer 6B_284/2021 E. 9](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-284-2021_2021-04-13.html#consideration_9)).
 3. Primär eine **Stundung und Ratenzahlung** beantragen, wenn die betroffene Person erwerbsfähig ist oder sich noch im Strafvollzug befindet. Ein Gesuch um Vollerlass wird regelmässig abgewiesen, solange Aussicht auf künftige Arbeitsaufnahme besteht ([BGer 6B_239/2021 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-239-2021_2021-05-26.html#consideration_4); [BStGer SK.2024.5 E. 6.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2024-5_2024-03-28.pdf)).
 4. Bei nachträglichen Erlassgesuchen nach Rechtskraft zwingend darlegen und beweisen, inwiefern sich die finanzielle Situation **seit dem Urteil wesentlich verschlechtert** hat. Das Erlassverfahren kann nicht genutzt werden, um eine rechtskräftige Kostenauflage ohne veränderte Verhältnisse infrage zu stellen ([BStGer SK.2020.31 E. 7.1](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2020-31_2020-09-29.pdf)).
-5. Den kantonalen Instanzenzug beachten: Vor Einreichung eines Rechtsmittels prüfen, ob im Wohnkanton der StPO-Beschwerdeweg (an die Beschwerdekammer des Obergerichts) oder der verwaltungsrechtliche Weg (an das kantonale Verwaltungsgericht) gilt ([SH OGer 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf)).
+5. Den kantonalen Instanzenzug beachten: Vor Einreichung eines Rechtsmittels prüfen, ob im Kanton der StPO-Beschwerdeweg oder der verwaltungsrechtliche Weg gilt ([SH OGer 60/2022/48 E. 2](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_60-2022-48_2024-02-23.pdf)).
 
 **Für die Strafverfolgungsbehörden und Gerichte:**
 
@@ -337,6 +340,6 @@ Trifft eine kantonale Behörde einen nachträglichen negativen Erlassentscheid, 
 
 **Für die Vollzugs- und Gerichtskassen:**
 
-1. Bei Zahlungsunfähigkeit nach Rechtskraft primär Ratenzahlungsvereinbarungen treffen, die auf das tatsächliche betreibungsrechtliche Existenzminimum Rücksicht nehmen.
+1. Bei angespannten finanziellen Verhältnissen kommt nach der Praxis zunächst eine Stundung mit Ratenzahlung in Betracht ([BGer 6B_239/2021 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-239-2021_2021-05-26.html#consideration_4)).
 2. Keinen Kostenerlass bewilligen, solange der Schuldner über Vermögenswerte (Liegenschaften, Belehnungsreserven, Fahrzeuge) verfügt oder ein monatlicher Überschuss über dem Existenzminimum besteht ([BGer 6B_610/2014 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-610-2014_2014-08-28.html#consideration_2); [BGer 6B_500/2016 E. 1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-500-2016_2016-12-09.html#consideration_1.1)).
-3. Mit staatlichen Verfahrenskosten nicht zugunsten privater Gläubiger zurücktreten: Bei Lohnpfändungen Dritter ist die staatliche Kostenforderung grundsätzlich auf dem ordentlichen SchKG-Weg (Art. 442 Abs. 1 StPO) bis zum Verlustschein zu vollstrecken ([LU KG 2N 14 65 E. 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
+3. Der Staat muss mit seiner Kostenforderung nicht hinter Privatgläubiger zurücktreten; Verfahrenskosten werden nach SchKG eingetrieben (Art. 442 Abs. 1 StPO) ([LU KG 2N 14 65 E. 3.5](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-65_2014-07-07.html)).
