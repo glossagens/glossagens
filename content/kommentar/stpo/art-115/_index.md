@@ -2,11 +2,16 @@
 title: "Art. 115 StPO — Begriff der geschädigten Person"
 weight: 115
 date: 2026-07-10
-lastmod: 2026-10-15
+lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 115 StPO entlang der Tatbestandsmerkmale: Schutzzweck der verletzten Strafnorm (Rechtsgutstheorie), Trägerschaft des geschützten Rechtsguts, Unmittelbarkeit der Verletzung und Abgrenzung zum Reflexschaden, Zurechnung bei Rechtsnachfolge (Zession, Legalzession, Art. 260 SchKG), die Strafantragsfiktion von Abs. 2 sowie die Substanziierungslast. Mit merkmalsbezogener Grenzkasuistik, Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Geschädigte Person", "Rechtsgutstheorie", "Privatklägerschaft", "Reflexschaden", "Kollektivdelikte", "Urkundendelikte", "Konkursdelikte", "Strafantrag", "Abtretung", "Zession", "Legitimation", "Parteirechte"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_840/2025 vom 9. September 2026 (Schadloshaltung durch den Täter als Ausschlussgrund für die Geschädigtenstellung): Ergänzung des Abschnitts zu Vermögensdelikten im Bankgeschäftsbereich (Merkmal 2) um die Fallkonstellation der eigenmächtigen Schadloshaltung sowie Präzisierung der Massgeblichkeit des Anklagesachverhalts (Abschnitt C und Kasuistiktabelle). Volltext via opencaselaw (get_decision) verifiziert; entscheidsuche.ch führt den Entscheid noch nicht (Publikation 23.10.2026), daher OCL als Rückfall-Link gemäss Repo-Regel."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -187,16 +192,37 @@ Das Bundesgericht wies die Beschwerde ab:
 
 **Rückbindung.** Weil das Rechtsgut den Erben persönlich zugeordnet ist, sind bei Straftaten gegen das Gesamthandvermögen die **einzelnen Erben unmittelbar in ihren eigenen Rechten verletzt** ([BGE 141 IV 380 E. 2.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html)). Jeder Erbe kann für sich allein — ohne Zustimmung der Miterben — Strafantrag stellen, sich als Strafkläger konstituieren und Beschwerde führen ([E. 2.3.4 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html)). Dass Zivilansprüche nur gemeinsam geltend gemacht werden könnten, ändert an der strafprozessualen Parteistellung nichts.
 
-#### 3. Gegenüberstellungstabelle: juristische Person vs. Gesamthandschaft
+#### 3. Eigenmächtige Schadloshaltung durch den Täter: kein Schaden, keine Geschädigtenstellung
 
-| Kriterium | Aktiengesellschaft ([BGE 148 IV 170](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-170_2022.html); [BGE 140 IV 155](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-155_2014.html)) | Erbengemeinschaft ([BGE 141 IV 380](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html)) |
-|---|---|---|
-| **Rechtspersönlichkeit** | Selbständige juristische Person (Art. 620 OR) | Keine eigene Rechtspersönlichkeit (Art. 602 ZGB) |
-| **Rechtsgutsträger** | Die Gesellschaft als juristische Person | Die einzelnen Miterben als Gesamteigentümer |
-| **Stellung der Teilhaber** | Aktionäre haben blossen Reflexschaden | Jeder Erbe ist unmittelbar geschädigt |
-| **Strafantragsrecht (Art. 30 StGB)** | Steht nur den Organen der AG zu | Steht jedem Erben individuell und selbständig zu |
-| **Konstituierung als Privatkläger** | Nur durch die AG (bzw. Konkursverwaltung) | Durch jeden einzelnen Erben ohne Miterben |
-| **Beschwerdelegitimation (Art. 382 StPO)** | Gläubiger und Aktionäre: **Nichteintreten** | Einzelner Erbe: **voll legitimiert** |
+> **Der Sachverhalt aus den Akten ([BGer 6B_840/2025 vom 9. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025)):**
+> Eine Kundenberaterin der D.________ AG (später C.________ AG) hatte für mehrere Bankkunden unautorisierte Gold-Forward-Transaktionen getätigt und war deshalb im abgekürzten Verfahren (Art. 358 ff. StPO) der mehrfachen ungetreuen Geschäftsbesorgung (Art. 158 Ziff. 1 StGB) und der mehrfachen Urkundenfälschung (Art. 251 Ziff. 1 Abs. 2 StGB) angeklagt; sie und die Bank als einzige Privatklägerin hatten der Anklage zugestimmt, das erstinstanzliche Urteil erging unangefochten rechtskräftig. Ein von der Beraterin betreuter Bankkunde — der bei den für ihn abgesprochenen Gold-Forward-Geschäften im August 2019 einen Shortfall erlitten hatte — erfuhr aus der Presse vom Verfahren und konstituierte sich nachträglich als Privatkläger, um die Berufung zu ergreifen. Die Beraterin hatte jedoch am 8. und 12. August 2019 **ohne Wissen und ohne Einverständnis der involvierten Parteien insgesamt USD 1'249'000.00 von Konten zweier anderer Bankkunden** auf das Konto des Beschwerdeführers überwiesen, um dessen Unterdeckung eigenmächtig zu beseitigen. Das Obergericht Zürich trat auf die Berufung nicht ein; der Beschwerdeführer zog ans Bundesgericht.
+
+Das Bundesgericht wies die Beschwerde ab und bestätigte den Nichteintretensbeschluss. Die Tragweite des Urteils liegt in der Klarstellung, dass eine — auch eigenmächtige und unautorisierte — Schadloshaltung durch den Täter den für die ungetreue Geschäftsbesorgung (Art. 158 StGB) massgeblichen Vermögensschaden entfallen lässt und damit die unmittelbare Geschädigtenstellung nach Art. 115 Abs. 1 StPO begrifflich ausscheidet:
+
+> «Weshalb ein Transfer einer Summe auf sein Konto — auch wenn er unautorisiert erfolgt ist — einen bei ihm eingetretenen Schaden nicht auszugleichen vermag, wird aus seinen Ausführungen nicht klar. Mit welchem Ziel die Beschuldigte die Transfers vorgenommen hat, ist für die Frage, ob damit eine allfällige Vermögensverminderung des Beschwerdeführers ausgeglichen wird, nicht relevant.»
+>
+> — [BGer 6B_840/2025 E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025)
+
+**Rückbindung.** Der Fall entscheidet sich auf der Ebene der **Trägerschaft** (Merkmal 2): Wer nach dem massgeblichen Anklagesachverhalt keinen Vermögensschaden erlitten hat, ist nicht Träger des durch Art. 158 StGB geschützten Rechtsguts und damit nicht Geschädigter i.S.v. Art. 115 Abs. 1 StPO. Entscheidend ist der objektive Vermögensausgleich, nicht das Motiv der Beschuldigten — dass die Überweisung pflichtwidrig und zulasten Dritter erfolgte, ändert nichts daran, dass beim Beschwerdeführer objektiv eine Vermögensmehrung eintrat, die den Shortfall deckte. Der Einwand, die Schadloshaltung habe nur eine temporäre Unterdeckung ausgeglichen, nicht den gesamten über die Kundenbeziehung kumulierten Verlust, richtet sich gegen einen Sachverhalt ausserhalb der Anklage und ist für das konkrete Verfahren rechtlich irrelevant:
+
+> «Mit Blick auf eine allfällige Beteiligung des Beschwerdeführers am Verfahren ist einzig zu prüfen, ob er aus dem Anklagesachverhalt eine Parteistellung ableiten kann. Eine allfällige Schädigung des Beschwerdeführers gestützt auf einen Sachverhalt, welcher in der Anklageschrift nicht enthalten und damit nicht Gegenstand des Gerichtsverfahrens ist, vermag ihm mithin keine Parteistellung in diesem Verfahren zu verschaffen.»
+>
+> — [BGer 6B_840/2025 E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025)
+
+Damit bestätigt der Entscheid die Rechtsgutstheorie (BGE 147 IV 269) und die Massgeblichkeit des Anklagesachverhalts (Art. 9, Art. 325 StPO) in direkter Linie und präzisiert die Praxis in einem bislang wenig beleuchteten Bereich: **Nicht nur eine Rückerstattung durch die Bank, sondern auch eine eigenmächtige Schadloshaltung durch den Täter selbst** — sei es auch durch eine unerlaubte Handlung zulasten Dritter — kann den massgeblichen Schaden entfallen lassen. Für den vom Täter kompensierten Potenzialgeschädigten bedeutet dies, dass er sich mangels Geschädigtenstellung nicht als Privatkläger konstituieren kann (Art. 118 Abs. 1 StPO) und zur Berufung nicht legitimiert ist. Die nachträglich verneinte Parteistellung hat zudem zur Folge, dass eine einst gewährte Akteneinsicht rückabgewickelt werden kann (Vernichtungs- und Verwendungsverbot), ohne dass dies eine eigenständige Grundrechtseinschränkung darstellt — denn mangels Parteistellung bestand nie ein Recht auf Akteneinsicht und -besitz ([E. 3.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025)).
+
+> **Merksatz (ergänzend zu Merkmal 2).** Wer vom Täter kompensiert wurde — auch durch eine unerlaubte Handlung des Täters zulasten Dritter —, ist nach dem Anklagesachverhalt nicht geschädigt und bleibt als Privatkläger draussen. Das Motiv der Kompensation ist irrelevant; massgeblich ist der objektive Vermögensausgleich zum Zeitpunkt der Tat.
+
+#### 4. Gegenüberstellungstabelle: juristische Person vs. Gesamthandschaft
+
+| Kriterium | Aktiengesellschaft ([BGE 148 IV 170](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-170_2022.html); [BGE 140 IV 155](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-155_2014.html)) | Erbengemeinschaft ([BGE 141 IV 380](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html)) | Durch Täter schadlos gehaltener Kunde ([BGer 6B_840/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025)) |
+|---|---|---|---|
+| **Rechtspersönlichkeit** | Selbständige juristische Person (Art. 620 OR) | Keine eigene Rechtspersönlichkeit (Art. 602 ZGB) | Natürliche Person — Trägerschaft unbestritten |
+| **Rechtsgutsträger** | Die Gesellschaft als juristische Person | Die einzelnen Miterben als Gesamteigentümer | Grundsätzlich der Kunde — aber kein Schaden eingetreten |
+| **Stellung der Teilhaber** | Aktionäre haben blossen Reflexschaden | Jeder Erbe ist unmittelbar geschädigt | Keine Stellung: Schadloshaltung lässt Schaden entfallen |
+| **Strafantragsrecht (Art. 30 StGB)** | Steht nur den Organen der AG zu | Steht jedem Erben individuell und selbständig zu | Kein Antragsdelikt (Art. 158, 251 StGB) — Abs. 2 nicht anwendbar |
+| **Konstituierung als Privatkläger** | Nur durch die AG (bzw. Konkursverwaltung) | Durch jeden einzelnen Erben ohne Miterben | Mangels Geschädigtenstellung ausgeschlossen |
+| **Beschwerdelegitimation (Art. 382 StPO)** | Gläubiger und Aktionäre: **Nichteintreten** | Einzelner Erbe: **voll legitimiert** | Nichteintreten — objektiver Vermögensausgleich durch Täter |
 
 **Zur Einordnung — kein Judikaturbruch, sondern eine konsequent formale Linie.** Wirtschaftlich steht der Alleinaktionär einer Einpersonen-AG dem Erben näher als dem Publikumsaktionär; die Praxis macht für ihn dennoch keine Ausnahme. Das ist kritisiert worden, aber es ist keine Divergenz zwischen Gerichten oder Kammern: Die Abgrenzung folgt in allen zitierten Entscheiden derselben formalen Regel der Rechtspersönlichkeit. Wer dagegen argumentieren will, muss eine Praxisänderung anregen — nicht auf eine günstigere Linie verweisen, denn es gibt keine.
 
@@ -212,6 +238,7 @@ Das Merkmal greift dort, wo die Merkmale 1 und 2 bereits genommen sind, die Kaus
 
 - **Der Umweg über die geschädigte Gesellschaft.** In [BGE 148 IV 170 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-170_2022.html) waren Aktionärin und Darlehensgeberinnen bezüglich der Bilanzfälschung nur mittelbar betroffen: Die Urkunden dienten der Entmachtung der Gesellschaft; erst über deren Vermögensverlust wirkte sich die Tat auf sie aus.
 - **Die unklare Zuordnung des Schadens.** In [BGer 7B_411/2025 vom 3. August 2026 E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-411-2025_2026-08-03.html) blieb offen, ob der geltend gemachte Schaden beim anzeigenden Restaurantbesitzer persönlich oder bei der Betreibergesellschaft (D. AG) angefallen war — ein klassischer Reflexschadensmangel, der schon für sich zum Nichteintreten führte.
+- **Der Schaden ausserhalb der Anklage.** Selbst ein tatsächlich erlittener Schaden begründet keine Geschädigtenstellung, wenn er sich auf einen Sachverhalt stützt, der nicht Gegenstand der Anklage ist. In [BGer 6B_840/2025 vom 9. September 2026 E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025) hatte ein Bankkunde zwar über die gesamte Kundenbeziehung Millioneneinbussen erlitten, diese resultierten aber ausserhalb des im abgekürzten Verfahren angeklagten Sachverhalts. Die Prüfung der Parteistellung setzt zwingend am Anklagesachverhalt an; Schädigungsbehauptungen ausserhalb der Anklage sind für das konkrete Verfahren rechtlich irrelevant (vgl. auch Abschnitt B, Unterabschnitt 3 zur Schadloshaltung).
 
 > **Merksatz.** Die Unmittelbarkeit prüft man an einer einzigen Frage: Läuft die Kausalkette vom Delikt zum Anzeiger über das Vermögen oder die Rechtsgüter eines Dritten? Wenn ja, ist er Reflexgeschädigter. Deshalb muss die Strafanzeige zwingend im Namen desjenigen eingereicht werden, bei dem der Schaden **primär** eintritt — und die Zuordnung muss aus der Anzeige selbst hervorgehen.
 

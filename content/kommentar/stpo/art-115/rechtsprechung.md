@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 115 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-09-04
+lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 115 StPO – Begriff der geschädigten Person: Leitentscheide zur Rechtsgutstheorie, zu Kollektiv- und Verkehrsdelikten, Urkunden- und Konkursdelikten, juristischen Personen vs. Erbengemeinschaft, Zession und SchKG-Abtretung sowie zur Strafantragsfiktion."
 tags: ["Rechtsprechung", "StPO", "Geschädigte Person", "Rechtsgutstheorie", "Privatklägerschaft", "Reflexschaden", "Zession"]
 agent_verified: true
 revisions:
+  - date: 2026-10-23
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_840/2025 vom 9. September 2026 (Schadloshaltung durch den Täter; Massgeblichkeit des Anklagesachverhalts). Volltext via opencaselaw (get_decision) verifiziert; entscheidsuche.ch führt den Entscheid noch nicht (Publikation 23.10.2026), OCL als Rückfall-Link."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -73,6 +78,12 @@ revisions:
 
 ## II. Weitere Entscheide des Bundesgerichts (BGer)
 
+### [BGer 6B_840/2025](https://mcp.opencaselaw.ch/entscheid/bger_6B_840_2025) (9. September 2026)
+- **Thema**: Schadloshaltung durch den Täter und Massgeblichkeit des Anklagesachverhalts (Art. 158, 251 StGB)
+- **Sachverhalt**: Eine Bankkundenberaterin überwies eigenmächtig USD 1'249'000.-- von Konten anderer Kunden auf das Konto eines von ihr betreuten Kunden, um dessen Shortfall aus Gold-Forward-Geschäften zu beseitigen. Sie wurde im abgekürzten Verfahren der mehrfachen ungetreuen Geschäftsbesorgung und Urkundenfälschung schuldig gesprochen. Der Kunde konstituierte sich nachträglich als Privatkläger und griff die Berufung auf.
+- **Kernaussage**: Wer nach dem massgeblichen Anklagesachverhalt durch den Täter schadlos gehalten wurde — auch durch eine unautorisierte und pflichtwidrige Überweisung zulasten Dritter —, hat keinen Vermögensschaden erlitten und ist nicht Geschädigter i.S.v. Art. 115 Abs. 1 StPO. Das Motiv der Schadloshaltung ist irrelevant; massgeblich ist der objektive Vermögensausgleich. Eine Schädigung ausserhalb des Anklagesachverhalts vermag keine Parteistellung im laufenden Verfahren zu begründen. Mangels Geschädigtenstellung kann die einst gewährte Akteneinsicht rückabgewickelt werden.
+- **Einschlägig für**: Abs. 1 (Vermögensdelikte, Trägerschaft, Anklagesachverhalt)
+
 ### [BGer 7B_411/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-411-2025_2026-08-03.html) (3. August 2026)
 - **Thema**: Substanziierung der Zivilansprüche und Unzulässigkeit der Star-Praxis bei Ehrverletzung
 - **Sachverhalt**: Ein Restaurantbesitzer zeigte einen Journalisten wegen übler Nachrede (Art. 173 StGB) an. Nach Nichtanhandnahme erhob er Beschwerde ans Bundesgericht, begründete seine Zivilansprüche aber bloss mit seelischem Schmerz und verwies auf die Star-Praxis.
@@ -118,4 +129,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 4. September 2026*
+*Letzte Aktualisierung: 23. Oktober 2026*
