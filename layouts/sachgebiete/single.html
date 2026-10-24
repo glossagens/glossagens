@@ -1,0 +1,76 @@
+{{- /*
+  Seite eines Sachgebiets (/sachgebiete/{schluessel}/), erzeugt vom
+  Content-Adapter content/sachgebiete/_content.gotmpl.
+
+  Listet die zugeordneten Kommentarartikel (data/sachgebiete/zuordnung.yaml):
+  zuerst die dem Sachgebiet als Ganzem zugeordneten, dann je Untergebiet
+  unter einem Anker (#arbeit), darin nach Gesetz in SR-Reihenfolge.
+*/ -}}
+{{ define "main" }}
+  {{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+  {{- $index := partialCached "sachgebiete/index.html" . -}}
+  {{- $key := .Params.sachgebiet -}}
+  {{- $sg := index (where $katalog.reihenfolge "key" $key) 0 -}}
+  {{- $eintraege := sort ((index $index $key) | default slice) "sort" -}}
+  {{- $hg := index (where $katalog.hauptgebiete "key" $sg.hauptgebiet) 0 -}}
+
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" .) }}
+    {{ partial "toc.html" . }}
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main id="content" class="hx:w-full hx:min-w-0 hextra-max-content-width hx:px-6 hx:pt-4 hx:md:px-12">
+        {{ partial "breadcrumb.html" (dict "page" . "enable" true) }}
+        <div class="content">
+          <h1>{{ .Title }}</h1>
+          <p class="sg-herkunft">
+            {{ $hg.name }} ·
+            {{ if eq $sg.quelle "bger" -}}
+              Sachgebiet nach der Geschäftsverteilung des Bundesgerichts
+            {{- else -}}
+              Eigenes Sachgebiet von Glossagens, vom Bundesgericht nicht gesondert geführt
+            {{- end }}
+          </p>
+
+          {{- if not $eintraege }}
+            <p><em>Diesem Sachgebiet sind noch keine Kommentare zugeordnet.</em></p>
+          {{- else -}}
+            {{- /* Untergebiete mit Inhalt, für die Sprungleiste und die Abschnitte. */ -}}
+            {{- /* Abschnitte: dem Sachgebiet als Ganzem zugeordnet (ohne
+                   Überschrift, ausser es folgen Untergebiete), dann je
+                   Untergebiet mit Inhalt. Anker = Untergebiet-Schlüssel ohne
+                   Präfix, wie sachgebiete/link.html. */ -}}
+            {{- $allgemein := where $eintraege "key" $key -}}
+            {{- $unter := slice -}}
+            {{- range $ug := $sg.untergebiete -}}
+              {{- with where $eintraege "key" $ug.key -}}
+                {{- $unter = $unter | append (dict
+                  "anker" (replace (index (split $ug.key ".") 1) "_" "-")
+                  "name" $ug.name "liste" .
+                ) -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{- if $unter }}
+              <nav class="sg-sprung not-prose" aria-label="Untergebiete">
+                {{- range $unter -}}
+                  {{- $n := slice -}}{{- range .liste -}}{{- $n = $n | append .page.RelPermalink -}}{{- end -}}
+                  <a href="#{{ .anker }}">{{ .name }} <span>{{ len (uniq $n) }}</span></a>
+                {{- end -}}
+              </nav>
+            {{- end -}}
+
+            {{- with $allgemein -}}
+              {{- if $unter }}<h2 id="uebergreifend">Übergreifend</h2>{{ end -}}
+              {{ partial "sachgebiete/artikelliste.html" . }}
+            {{- end -}}
+            {{- range $unter -}}
+              <h2 id="{{ .anker }}">{{ .name }}</h2>
+              {{ partial "sachgebiete/artikelliste.html" .liste }}
+            {{- end -}}
+          {{- end }}
+        </div>
+        <div class="hx:mt-16"></div>
+      </main>
+    </article>
+  </div>
+{{ end }}

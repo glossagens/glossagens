@@ -1,0 +1,15 @@
+{{- /*
+  Ziel-URL eines Sach- oder Untergebiets.
+
+  Aufruf: partial "sachgebiete/link.html" "schuldrecht.arbeit"
+  Rückgabe: "/sachgebiete/schuldrecht/#arbeit" — eine Seite je Sachgebiet,
+  Untergebiete als Anker darauf. Unterstriche werden zu Bindestrichen
+  ("politische_rechte" → /sachgebiete/politische-rechte/), wie im
+  Content-Adapter content/sachgebiete/_content.gotmpl.
+*/ -}}
+{{- $teile := split . "." -}}
+{{- $url := printf "/sachgebiete/%s/" (replace (index $teile 0) "_" "-") -}}
+{{- if gt (len $teile) 1 -}}
+  {{- $url = printf "%s#%s" $url (replace (index $teile 1) "_" "-") -}}
+{{- end -}}
+{{- return $url -}}

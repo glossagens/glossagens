@@ -512,3 +512,73 @@ input[type="search"] {
   .wortlaut { padding: 0.9em 1em 0.8em; }
   .wortlaut dl { margin-left: 0.4em; }
 }
+
+/* =====================================================================
+   Sachgebiete — Übersicht /sachgebiete/, Sachgebiet-Seiten, Badges auf
+   den Artikelseiten (layouts/sachgebiete/, layouts/_partials/sachgebiete/)
+   ===================================================================== */
+.sg-badges {
+  display: flex; flex-wrap: wrap; gap: .35rem;
+  margin: -.25rem 0 1.25rem;
+}
+.sg-badge {
+  display: inline-block; padding: .1rem .55rem;
+  border: 1px solid var(--gg-rule); border-radius: 999px;
+  font-size: .78rem; line-height: 1.5; color: var(--gg-muted);
+  text-decoration: none; background: var(--gg-paper-2);
+}
+.sg-badge:hover { color: var(--gg-accent); border-color: var(--gg-accent); text-decoration: none; }
+
+.sg-herkunft { color: var(--gg-muted); font-size: .875rem; margin-top: -.25rem; }
+
+.sg-gruppe {
+  margin: 2.25rem 0 .25rem; padding-bottom: .4rem;
+  border-bottom: 1px solid var(--gg-rule);
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif !important;
+  font-size: .8125rem; font-weight: 600;
+  letter-spacing: .06em; text-transform: uppercase; color: var(--gg-muted);
+}
+.sg-hliste { list-style: none; margin: 0; padding: 0; }
+.sg-hliste > li { padding: .45rem 0; }
+.sg-hliste > li + li { border-top: 1px solid var(--gg-hair); }
+.sg-link {
+  display: flex; align-items: baseline; gap: .75rem;
+  text-decoration: none; color: inherit;
+}
+.sg-link:hover { text-decoration: none; }
+.sg-link:hover .sg-name { color: var(--gg-accent); }
+.sg-name { flex: 1 1 auto; min-width: 0; font-weight: 600; font-size: .9375rem; }
+.sg-anzahl, .sg-unter span, .sg-sprung span {
+  font-variant-numeric: tabular-nums; font-size: .8125rem; color: var(--gg-muted);
+}
+.sg-unter { display: flex; flex-wrap: wrap; gap: .1rem 1rem; margin-top: .2rem; font-size: .84rem; }
+.sg-unter a, .sg-sprung a { color: var(--gg-ink-2); text-decoration: none; }
+.sg-unter a:hover, .sg-sprung a:hover { color: var(--gg-accent); }
+
+.sg-sprung {
+  display: flex; flex-wrap: wrap; gap: .3rem 1.1rem;
+  margin: 1rem 0 .5rem; padding: .6rem 0;
+  border-top: 1px solid var(--gg-rule); border-bottom: 1px solid var(--gg-rule);
+  font-size: .875rem;
+}
+
+.sg-liste .sg-gesetz {
+  display: flex; align-items: baseline; gap: .6rem;
+  margin: 1.4rem 0 .3rem; font-size: 1rem;
+}
+.sg-liste .sg-gesetz a { text-decoration: none; color: inherit; }
+.sg-liste .sg-gesetz span {
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-weight: 400; font-size: .84rem; color: var(--gg-muted);
+}
+.sg-liste ul { list-style: none; margin: 0; padding: 0; }
+.sg-liste li { padding: .2rem 0; font-size: .9rem; }
+.sg-liste li + li { border-top: 1px solid var(--gg-hair); }
+.sg-liste li a { color: var(--gg-ink-2); text-decoration: none; }
+.sg-liste li a:hover { color: var(--gg-accent); }
+
+.dark .sg-badge { background: #22201d; border-color: #3a3631; color: #b5ad9f; }
+.dark .sg-gruppe, .dark .sg-sprung { border-color: #3a3631; }
+.dark .sg-hliste > li + li, .dark .sg-liste li + li { border-top-color: #2a2724; }
+.dark .sg-unter a, .dark .sg-sprung a, .dark .sg-liste li a { color: #d8d1c4; }
+.dark .sg-herkunft, .dark .sg-anzahl, .dark .sg-liste .sg-gesetz span { color: #9a9284; }

@@ -1,0 +1,24 @@
+{{- /*
+  Liste von Kommentarartikeln, gruppiert nach Gesetz.
+
+  Kontext: Einträge aus sachgebiete/index.html ({ page, gesetz, sort }),
+  bereits nach `sort` geordnet — die Gesetze erscheinen damit in
+  SR-Reihenfolge, die Artikel in der Reihenfolge ihrer Nummer.
+*/ -}}
+<div class="sg-liste not-prose">
+  {{- $vorher := "" -}}
+  {{- range . -}}
+    {{- if ne .gesetz $vorher -}}
+      {{- if $vorher }}</ul>{{ end -}}
+      {{- $g := .page.Parent -}}
+      <h3 class="sg-gesetz">
+        <a href="{{ $g.RelPermalink }}">{{ $g.Params.kuerzel | default $g.Title }}{{ with $g.Params.kanton }} {{ . }}{{ end }}</a>
+        <span>{{ $g.Params.gesetz_name }}</span>
+      </h3>
+      <ul>
+      {{- $vorher = .gesetz -}}
+    {{- end -}}
+    <li><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></li>
+  {{- end -}}
+  {{- if $vorher }}</ul>{{ end -}}
+</div>

@@ -1,0 +1,39 @@
+{{- /*
+  Eine Seite je Sachgebiet, erzeugt aus data/sachgebiete/ (bger.yaml + eigene.yaml).
+  Untergebiete sind Anker auf der Seite ihres Sachgebiets, keine eigenen Seiten.
+
+  Erzeugt werden alle Sachgebiete, auch solche ohne Inhalt: Die URLs sind
+  damit stabil, sobald bger-update oder Themen auf sie verweisen. Die
+  Übersicht /sachgebiete/ führt nur die mit Inhalt auf.
+
+  Pfad: Schlüssel mit Bindestrich statt Unterstrich — muss mit
+  layouts/_partials/sachgebiete/link.html übereinstimmen.
+*/ -}}
+{{- $katalog := partial "sachgebiete/katalog.html" . -}}
+
+{{- /* Sachgebiete, die in der Zuordnung vorkommen. Die übrigen bleiben
+       erreichbar, stehen aber nicht in der Sidebar — sonst listete sie
+       Dutzende leerer Seiten. Der Adapter sieht nur Daten, keine Seiten;
+       ein Bereich, der keinen vorhandenen Artikel trifft, zählt deshalb
+       als belegt (die Übersicht prüft genau und lässt ihn weg). */ -}}
+{{- $belegt := slice -}}
+{{- range $z := hugo.Data.sachgebiete.zuordnung -}}
+  {{- $keys := $z.standard | default slice -}}
+  {{- range $z.bereiche -}}{{- $keys = $keys | append .sachgebiete -}}{{- end -}}
+  {{- range $z.artikel -}}{{- $keys = $keys | append . -}}{{- end -}}
+  {{- range $keys -}}{{- $belegt = $belegt | append (index (split . ".") 0) -}}{{- end -}}
+{{- end -}}
+
+{{- range $i, $sg := $katalog.reihenfolge -}}
+  {{- $.AddPage (dict
+    "path" (replace $sg.key "_" "-")
+    "title" $sg.name
+    "kind" "page"
+    "weight" (add $i 1)
+    "params" (dict
+      "sachgebiet" $sg.key "hauptgebiet" $sg.hauptgebiet
+      "sidebar" (dict "exclude" (not (in $belegt $sg.key)))
+    )
+    "content" (dict "mediaType" "text/markdown" "value" "")
+  ) -}}
+{{- end -}}

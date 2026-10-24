@@ -7,6 +7,8 @@
     eintraege     Map Schlüssel → { name, label, hauptgebiet, sachgebiet, quelle }
                   für Sachgebiete und Untergebiete ("schuldrecht.arbeit");
                   label ist "Schuldrecht … › Arbeitsvertrag" bei Untergebieten
+    reihenfolge   Liste der Sachgebiete { key, name, hauptgebiet, quelle,
+                  untergebiete } in Anzeigereihenfolge
 
   Aufruf über partialCached, der Katalog ist für die ganze Site gleich.
   Ein doppelter Schlüssel bricht den Build ab: eigene.yaml darf keinen
@@ -49,4 +51,21 @@
   {{- end -}}
 {{- end -}}
 
-{{- return dict "hauptgebiete" $hauptgebiete "eintraege" $eintraege -}}
+{{- /* Reihenfolge für Seiten und Übersicht: nach Hauptgebiet, darin die
+       Sachgebiete des Bundesgerichts in dessen Folge, die eigenen am Schluss. */ -}}
+{{- $reihenfolge := slice -}}
+{{- range $hg := $hauptgebiete -}}
+  {{- range $d := slice $bger $eigene -}}
+    {{- range $d.sachgebiete -}}
+      {{- if eq .hauptgebiet $hg.key -}}
+        {{- $reihenfolge = $reihenfolge | append (dict
+          "key" .key "name" .name "hauptgebiet" .hauptgebiet
+          "quelle" (index $eintraege .key).quelle
+          "untergebiete" (.untergebiete | default slice)
+        ) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict "hauptgebiete" $hauptgebiete "eintraege" $eintraege "reihenfolge" $reihenfolge -}}

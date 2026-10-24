@@ -1,0 +1,22 @@
+{{- /*
+  Sachgebiet-Badges unter dem Titel eines Kommentarartikels, verlinkt auf die
+  Sachgebiet-Seite bzw. den Anker des Untergebiets.
+
+  Kontext: die Artikelseite (art-{nr}/_index.md). Gesetz und Slug kommen aus
+  dem Pfad, die Zuordnung aus data/sachgebiete/zuordnung.yaml.
+  Angezeigt wird "Sachgebiet › Untergebiet", der Sachgebietsname ohne
+  Klammerzusatz ("Schuldrecht (Vertrags-, …)" → "Schuldrecht"); die volle
+  Bezeichnung steht im title-Attribut.
+*/ -}}
+{{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+{{- $keys := partial "sachgebiete/artikel.html" (dict "gesetz" (path.Base .Parent.Path) "slug" (path.Base .Path)) -}}
+{{- with $keys -}}
+  <p class="sg-badges not-prose">
+    {{- range . -}}
+      {{- $e := index $katalog.eintraege . -}}
+      {{- $sgName := replaceRE ` \(.*\)$` "" (index $katalog.eintraege $e.sachgebiet).name -}}
+      {{- $text := cond (eq . $e.sachgebiet) $sgName (printf "%s › %s" $sgName $e.name) -}}
+      <a class="sg-badge" href="{{ partial "sachgebiete/link.html" . }}" title="Sachgebiet: {{ $e.label }}">{{ $text }}</a>
+    {{- end -}}
+  </p>
+{{- end -}}

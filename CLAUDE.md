@@ -178,8 +178,21 @@ Verzeichnisnamen — die Sachgebiete ordnen dort nichts um.
   (`WARN sachgebiete: … hat keinen Eintrag`).
 - Unbekannter Schlüssel, unbekanntes Gesetz, nicht vorhandener Artikel, doppelter Schlüssel
   zwischen `bger.yaml` und `eigene.yaml`: **Build bricht ab** (`layouts/_partials/sachgebiete/pruefen.html`).
-- Templates: `sachgebiete/katalog.html` (alle Schlüssel mit Bezeichnung, über `partialCached`),
-  `sachgebiete/artikel.html` (Sachgebiete eines Artikels: `dict "gesetz" "or" "slug" "art-336"`).
+- Templates: `sachgebiete/katalog.html` (alle Schlüssel mit Bezeichnung und Anzeigereihenfolge,
+  über `partialCached`), `sachgebiete/artikel.html` (Sachgebiete eines Artikels:
+  `dict "gesetz" "or" "slug" "art-336"`), `sachgebiete/index.html` (Sachgebiet → Artikel),
+  `sachgebiete/link.html` (URL eines Schlüssels).
+
+**Darstellung**:
+- `/sachgebiete/` — Übersicht nach Hauptgebiet (Grundlagen zuerst), nur Sachgebiete mit Inhalt
+  (`layouts/sachgebiete/list.html`). Menüeintrag «Sachgebiete».
+- `/sachgebiete/{schluessel}/` — eine Seite je Sachgebiet, erzeugt vom Content-Adapter
+  `content/sachgebiete/_content.gotmpl` (keine Markdown-Dateien anlegen). Untergebiete sind
+  Anker darauf: `schuldrecht.arbeit` → `/sachgebiete/schuldrecht/#arbeit`, Unterstrich wird
+  Bindestrich (`politische_rechte` → `/sachgebiete/politische-rechte/`). Seiten entstehen für
+  **alle** Sachgebiete (stabile URLs für bger-update und Themen); in der Sidebar stehen nur die,
+  die in `zuordnung.yaml` vorkommen.
+- Artikelseiten zeigen die Sachgebiete als Badges unter dem Titel (`sachgebiete/badges.html`).
 
 ### Reihenfolge der Artikel: nicht über `weight`
 

@@ -1,0 +1,45 @@
+{{- /*
+  Index Sachgebiet → kommentierte Artikel, einmal pro Build (partialCached).
+
+  Rückgabe: Map Sachgebiet-Schlüssel → Liste von
+    { page, key, gesetz, sort }
+  key ist der zugeordnete Schlüssel selbst ("schuldrecht" oder
+  "schuldrecht.arbeit"); ein Artikel mit zwei Untergebieten desselben
+  Sachgebiets steht zweimal in der Liste. sort ordnet nach SR-Nummer des
+  Gesetzes (kantonales Recht zuletzt), dann nach Artikelnummer — dieselbe
+  Ordnung wie /kommentar/ und die Artikelübersicht.
+*/ -}}
+
+{{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+{{- $index := dict -}}
+
+{{- with site.GetPage "/kommentar" -}}
+  {{- range .Sections -}}
+    {{- $gesetz := path.Base .Path -}}
+
+    {{- /* Wie kommentar/gesetze-grid.html: jedes Segment der SR-Nummer auf
+           6 Stellen genullt; kantonale Erlasse nach dem Bundesrecht. */ -}}
+    {{- $gsort := cond (eq .Params.ebene "kantonal") "1" "0" -}}
+    {{- range (split (string (or .Params.sr .Params.srl)) ".") -}}
+      {{- $gsort = printf "%s%s" $gsort (substr (printf "000000%s" .) -6) -}}
+    {{- end -}}
+
+    {{- range where .Sections "Kind" "section" -}}
+      {{- $slug := path.Base .Path -}}
+      {{- $rest := strings.TrimPrefix "art-" $slug -}}
+      {{- $ziffern := index (append (slice) (findRE "^[0-9]+" $rest 1)) 0 | default "0" -}}
+      {{- $sort := printf "%s-%s%s" $gsort (substr (printf "000000%s" $ziffern) -6) (replaceRE "^[0-9]+" "" $rest) -}}
+
+      {{- $p := . -}}
+      {{- range partial "sachgebiete/artikel.html" (dict "gesetz" $gesetz "slug" $slug) -}}
+        {{- $sg := (index $katalog.eintraege .).sachgebiet -}}
+        {{- $liste := (index $index $sg) | default slice -}}
+        {{- $index = merge $index (dict $sg ($liste | append (dict
+          "page" $p "key" . "gesetz" $gesetz "sort" $sort
+        ))) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $index -}}
