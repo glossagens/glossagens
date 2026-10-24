@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 36 BV"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-10-10
+lastmod: 2026-10-24
 description: "Rechtsprechungsübersicht zu Art. 36 BV: Systematische Sammlung von Leitentscheiden des Bundesgerichts und kantonalen Urteilen zu gesetzlicher Grundlage, polizeilicher Generalklausel, öffentlichem Interesse, Verhältnismässigkeit und Kerngehalt."
 tags: ["Rechtsprechung", "BV", "Grundrechte", "Verhältnismässigkeit", "Gesetzliche Grundlage", "Polizeiliche Generalklausel"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Ergänzung um BGer 6B_445/2025 vom 17. September 2026 (Mendicité genèvevoise, Art. 11A LPG/GE — Freispruch wegen fehlender administrativer Vorstufen). Entscheid via mcp__opencaselaw__cite, get_decision_structure und get_erwaegung verifiziert; auf entscheidsuche.ch noch nicht verfügbar, OCL-Link als Rückfall. Zudem Verweise auf BGE 152 I 38 und die fünf Parallelentscheide vom 19. März 2025 (6B_216/2024 etc.) mit auf entscheidsuche.ch verifizierten Links."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -100,6 +105,13 @@ Die nachfolgende Übersicht dokumentiert die massgebliche Rechtsprechung zu den 
 
 ---
 
+### Konkrete Einzelfallprüfung des Genfer Bettelverbots: Verhältnismässigkeit und administrative Vorstufen
+* [BGE 152 I 38 E. 7.4, 8.6 und 8.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-152-I-38_2026.html)
+* **Sachverhalt:** Das Bundesgericht prüfte erstmals in concreto die Anwendung des Genfer partiellen Bettelverbots (Art. 11A Abs. 1 lit. c LPG/GE) auf einzelne Contraventions-Procès-verbaux und Strafverfügungen, die gegen bettelnde Personen vor Geschäftseingängen ausgesprochen worden waren.
+* **Kernaussage:** Das Bundesgericht konkretisierte die prozessualen Anforderungen an die Verhältnismässigkeit: Der Begriff «unmittelbare Umgebung» («abords immédiats») umschreibt im Wesentlichen einen Radius von wenigen Metern rund um Ein- und Ausgänge von Geschäftsbetrieben, Märkten und Banken. Ausserhalb des aggressiven Bettelns kann eine in Freiheitsstrafe umwandelbare Busse nur als ultima ratio nach dem Scheitern administrativer Massnahmen verhängt werden (Wegweisung, formelle Warnung, erst beim dritten Vorfall Busse). Die Contraventions-Procès-verbaux und Strafverfügungen vermögen diese Vorgaben nicht zu belegen, wenn sie den gesetzlichen Tatbestand nicht präzise wiedergeben, die Informationssprache unbekannt ist und die Strafverfügungen erst nach den erneut bettelnden Taten eröffnet werden. Der Mangel ist in den konkreten Umständen nicht heilbar.
+
+---
+
 ## II. Weitere Entscheide
 
 ### Polizeiliche Generalklausel bei Anlässen im privaten Raum
@@ -134,6 +146,14 @@ Die nachfolgende Übersicht dokumentiert die massgebliche Rechtsprechung zu den 
 * [BGE 149 I 248 E. 4.6 und 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-248_2023.html#consideration_4.6)
 * **Sachverhalt:** Der Grosse Rat des Kantons Basel-Stadt erliess nach dem EGMR-Urteil *Lâchbiri* ein partielles Bettelverbot (§ 19 ÜStG/BS), das passives Betteln in Pärken untersagte und Bussen mit Umwandlung in Ersatzfreiheitsstrafen vorsah.
 * **Kernaussage:** Das Bundesgericht bestätigte, dass Bettelei den Schutz der persönlichen Freiheit (Art. 10 Abs. 2 BV) und des Privatlebens (Art. 8 EMRK) geniesst. Der Kerngehalt der persönlichen Freiheit wird durch ein Bettelverbot jedoch nicht angetastet (Abs. 4). Das Verbot in Pärken sowie automatische Ersatzfreiheitsstrafen bei Mittellosen erwiesen sich im Rahmen von Abs. 3 als unverhältnismässig und wurden aufgehoben; sektorale Verbote an Haltestellen und vor Bankomaten wurden geschützt.
+
+---
+
+### Genfer partielles Bettelverbot: Freispruch bei fehlenden administrativen Vorstufen
+* [BGer 6B_445/2025 vom 17. September 2026, E. 1.2, 2 und 4](https://mcp.opencaselaw.ch/entscheid/bger_6B_445_2025#e-4)
+* **Gericht/Kanton:** Bundesgericht, I. strafrechtliche Abteilung (Muschietti [Präsident], Kradolfer, Glassey; Gerichtsschreiber Vallat)
+* **Sachverhalt:** Ein 1993 geborener, albanischsprachiger und analphabetischer Staatsangehöriger mit Wohnsitz im Heimatland wurde am 24., 25. und 26. August 2022 in Genf beim Betteln vor Geschäftseingängen kontrolliert. Das Tribunal de police sprach ihn für den 24. August frei, verurteilte ihn aber für den 25. und 26. August nach Art. 11A Abs. 1 lit. c LPG/GE zu 140 Fr. Busse (Ersatzfreiheitsstrafe: 1 Tag). Die Cour de justice reduzierte die Busse auf 80 Fr. und bestätigte die Verurteilung, da der Beschwerdeführer am 24. August bereits eine Contravention erhalten habe und Ignoranz bei seinem Entschluss, weiterzubetteln, offensichtlich keine Rolle gespielt habe.
+* **Kernaussage:** Das Bundesgericht hob die Verurteilung auf und sprach den Beschwerdeführer frei. Es bestätigte die Rechtsprechungslinie BGE 149 I 248 und BGE 152 I 38: Ausserhalb des aggressiven Bettelns kann eine in Freiheitsstrafe umwandelbare Busse nur als ultima ratio nach administrativen Vorstufen verhängt werden. Im vorliegenden Fall war die strafrechtliche Sanktion von keiner administrativen Massnahme vorbereitet worden; die französischsprachigen Procès-verbaux gaben den gesetzlichen Tatbestand nicht präzise wieder, die Informationssprache des analphabetischen Beschwerdeführers war unbekannt, und die Strafverfügungen wurden erst im August 2023 — nach den zu beurteilenden Taten — eröffnet. Der Mangel ist in den konkreten Umständen nicht heilbar, weshalb der Freispruch auszusprechen war (E. 4). Der Entscheid reiht sich in die Parallelfälle 6B_216/2024, 6B_462/2024, 6B_714/2024, 6B_715/2024 und 6B_933/2024 (alle vom 19. März 2025) ein und belegt, dass der Kanton Genf die prozessualen Vorgaben auch nach BGE 152 I 38 im konkreten Fall weiterhin nicht umgesetzt hat.
 
 ---
 
