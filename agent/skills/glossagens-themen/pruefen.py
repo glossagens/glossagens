@@ -7,6 +7,8 @@
 Prüft:
   1. Jeder Link auf entscheidsuche.ch ist erreichbar (HTTP 200), und ein
      angehängter Anker (#consideration_7.1) kommt im Dokument tatsächlich vor.
+     PDF-Dokumente (BVGE, viele kantonale Entscheide) werden mit pdftotext
+     gelesen; sie haben keine Anker.
   2. Jedes «…»-Zitat steht wörtlich in einem der verlinkten Entscheide.
      Auslassungen […] teilen das Zitat in Stücke, die einzeln gesucht werden.
      Verglichen wird nach Vereinheitlichung von Leerraum und Strichen (– — -);
@@ -26,6 +28,8 @@ gehören kursiv gesetzt, sonst meldet das Skript sie als fehlendes Zitat.
 import hashlib
 import html
 import re
+import shutil
+import subprocess
 import sys
 import tempfile
 import urllib.parse
@@ -51,13 +55,28 @@ def laden(url):
         return 200, f.read_text(encoding="utf-8", errors="replace")
     try:
         with urllib.request.urlopen(url, timeout=40) as r:
-            roh = r.read().decode("utf-8", "replace")
+            daten = r.read()
             status = r.status
     except Exception as e:  # noqa: BLE001 — jeder Fehler ist ein Befund
         return str(e), ""
-    if status == 200:
+    roh = pdf_text(daten) if url.endswith(".pdf") else daten.decode("utf-8", "replace")
+    if status == 200 and roh:
         f.write_text(roh, encoding="utf-8")
     return status, roh
+
+
+def pdf_text(daten):
+    """BVGE und viele kantonale Entscheide liegen nur als PDF vor (ohne Anker)."""
+    if not shutil.which("pdftotext"):
+        sys.exit("pdftotext (poppler) fehlt — für PDF-Entscheide erforderlich")
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as tmp:
+        tmp.write(daten)
+        tmp.flush()
+        txt = subprocess.run(["pdftotext", "-enc", "UTF-8", tmp.name, "-"],
+                             capture_output=True, text=True).stdout
+    # Zweite Fassung mit zusammengefügten Trennungen am Zeilenende («Gegen-\nsatz»);
+    # die erste bleibt für echte Bindestriche («Asyl- und Wegweisung»).
+    return txt + "\n¦\n" + re.sub(r"(\w)-\n(\w)", r"\1\2", txt)
 
 
 def klartext(roh):

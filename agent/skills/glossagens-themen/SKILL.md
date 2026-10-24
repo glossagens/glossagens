@@ -121,6 +121,14 @@ curl -s -o $D/{ID}.html "https://entscheidsuche.ch/docs/CH_BGE/{ID}.html"     # 
 grep -o 'id="consideration_[^"]*"' $D/{ID}.html | head                       # vorhandene Anker
 ```
 
+**BVGE** (Asyl- und Ausländerrecht) liegen nur als PDF vor, ohne Erwägungsanker, unter
+`https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-{jahr}-{nr}_{datum}.pdf`
+(`content_url` im Feld `attachment` der Suchantwort). Volltext mit `pdftotext -enc UTF-8`;
+Zitate nicht über einen Seitenumbruch spannen (Kopfzeilen «BVGE / ATAF / DTAF» stehen im
+Text). Ist die entscheidsuche-MCP nicht erreichbar, sucht man direkt über
+`POST https://entscheidsuche.ch/_search.php` (Elasticsearch, `query_string`; nur publizierte
+BVGE mit `AND title.de:BVGE`, Filter `prefix: {hierarchy: "CH_BVGE"}`).
+
 Für jeden Beleg:
 
 1. Die Erwägung im Volltext lesen, nicht nur den Treffer-Satz. Prüfen, ob die Aussage dort
