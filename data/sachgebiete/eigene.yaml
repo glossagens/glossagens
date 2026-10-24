@@ -25,6 +25,7 @@ sachgebiete:
       - { key: "grundlagen.methodik", name: "Auslegung und Methodenlehre" }
       - { key: "grundlagen.rechtsquellen", name: "Rechtsquellen und Normenhierarchie" }
       - { key: "grundlagen.intertemporal", name: "Zeitlicher Geltungsbereich und Übergangsrecht" }
+      - { key: "grundlagen.prozessmaximen", name: "Prozessmaximen" }
   - key: "staatsorganisation"
     name: "Staatsorganisation"
     hauptgebiet: "oeff"

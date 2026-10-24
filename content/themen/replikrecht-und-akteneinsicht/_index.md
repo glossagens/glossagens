@@ -6,7 +6,7 @@ description: "Verfassungs- und konventionsrechtliche Verfahrensgarantien über a
 tags: ["Rechtliches Gehör", "Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Fair trial", "Verwaltungsverfahren", "Zivilprozess", "Strafprozess", "Bundesgericht"]
 typ: grundlage
 kurz: "Der verfassungs- und konventionsrechtliche Gehörsanspruch garantiert in allen Gerichts- und Verwaltungsverfahren zwei untrennbar verbundene Pfeiler: das Recht auf umfassende Akteneinsicht als Informationsbasis und das unbedingte Replikrecht zur Stellungnahme. Die Parteien dürfen sich zu jeder Eingabe der Gegenpartei, der Vorinstanz oder beigezogenen Amtsberichten äussern – unabhängig davon, ob diese neue Vorbringen enthalten oder nach Ansicht des Gerichts entscheiderheblich sind. Eine Verletzung ist formeller Natur und führt grundsätzlich zur Aufhebung des Urteils, ausser bei reinem formalistischem Leerlauf."
-sachgebiete: [grundrechte, bundesrechtspflege, verwaltungsverfahren, zivilprozess, strafprozess]
+sachgebiete: [grundlagen.prozessmaximen, grundrechte, bundesrechtspflege, verwaltungsverfahren, zivilprozess, strafprozess]
 normen:
   - { gesetz: bv, art: art-029 }
   - { gesetz: emrk, art: art-006 }
