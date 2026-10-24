@@ -72,6 +72,9 @@ Glossagens nutzt folgende Quellen (alle öffentlich):
 - Gesetzestexte: Fedlex (fedlex.admin.ch) via Fedlex MCP
 - Rechtsprechung: Bundesgericht (bger.ch), BGE-Sammlung, via entscheidsuche.ch / opencaselaw MCP
 - Lehrmeinungen: OnlineKommentar (onlinekommentar.ch), via opencaselaw MCP
+- Themen: Querschnittsthemen von Glossagens (glossagens.ch/themen/, Index unter /themen/index.json) —
+  Recherche-Einstieg für neue und erweiterte Kommentare, kein Beleg; übernommene Entscheide werden
+  am Entscheid selbst geprüft
 - Kantonale Entscheide: Kantonale Gerichte, via entscheidsuche.ch / opencaselaw MCP
 
 Verlinkt werden Entscheide auf entscheidsuche.ch; mcp.opencaselaw.ch dient als Rückfall,

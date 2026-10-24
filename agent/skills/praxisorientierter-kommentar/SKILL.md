@@ -319,6 +319,7 @@ content/kommentar/{gesetz}/art-{nr}/
 2. **Gesetzeswortlaut**:
    - Nur `{{< wortlaut >}}` — der Shortcode setzt den Text aus der amtlichen Quelle im Satzbild von Fedlex, mit Stand und Fassungsvermerken. Kein Blockquote, keine eigene Quellenzeile.
    - Bei komplexen Normen: Eine vorangestellte Übersichtstabelle («Die Tatbestände auf einen Blick»).
+   - **Quelle Themen**: Vor dem Schreiben die Themen lesen, die den Artikel in `normen` führen (`grep -l "gesetz: {gesetz}, art: art-{NNN} }" content/themen/*/_index.md` bzw. `https://glossagens.ch/themen/index.json` → `normen`). Sie liefern systematische Stellung, Abgrenzungen und Leitentscheide für Überblick und Kasuistik — aber keinen Beleg: Übernommenes wird gegen den Entscheid selbst geprüft und dorthin verlinkt (Regel 7). Den übergreifenden Zusammenhang nicht nacherzählen, sondern auf den Abschnittsanker des Themas verweisen.
 3. **Überblick und Bedeutung**:
    - 1–2 Absätze zu systematischer Stellung, Regelungsgegenstand und Zweck der Norm sowie zu den Interessen, die sie ausgleicht. Keine Hinführung über die praktische Brisanz, keine Metaphern (Abschnitt 4.1).
    - **Prüfschema / Schichten-Tabelle**: der Merkmalskatalog nach Abschnitt 3.1 — Prüfungsreihenfolge der Tatbestandsmerkmale und Beweislast je Merkmal. Diese Tabelle ist zugleich das Inhaltsverzeichnis der nachfolgenden Kommentierung.

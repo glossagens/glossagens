@@ -112,6 +112,8 @@ Continuously research which topics and decisions are still **missing** from the 
 │     - Konventionsrechtliche Aspekte (EMRK/EGMR)?      │
 │     - Gesetzesmaterialien eingearbeitet?              │
 │     - Neuere Entscheide (nach letzter Aktualisierung)?│
+│     - Was tragen verwandte Themen, das hier fehlt?    │
+│       (→ Teil B, Abs. 1 Ziff. 5)                      │
 │                                                       │
 │  3. PRIORISIERUNG                                     │
 │     (a) Fehlende BGer-Leitentscheide (höchste Prio)  │
@@ -197,6 +199,22 @@ Continuously research which topics and decisions are still **missing** from the 
      ...
    ]
    ```
+
+5. **Verwandte Themen** als zusätzliche Quelle (`content/themen/`, siehe `CLAUDE.md` «Themen»):
+   ```bash
+   grep -l "gesetz: {gesetz}, art: art-{NNN} }" content/themen/*/_index.md      # Themen, die den Artikel in normen führen
+   # live: https://glossagens.ch/themen/index.json → normen["{gesetz}/art-{NNN}"].themen
+   ```
+   Auch Themen desselben Sachgebiets (`data/sachgebiete/zuordnung.yaml`) durchsehen. Ein Thema
+   liefert systematische Stellung, Abgrenzungen zu Nachbarnormen, Leitformeln und Leitentscheide;
+   was es trägt, der Kommentar aber nicht, ist eine Lücke und gehört ins BEKANNTE_ENTSCHEIDE-Inventar.
+   - **Kein Beleg**: Das Thema ist Sekundärquelle der Plattform selbst. Übernommene Entscheide und
+     Pinpoints durchlaufen die Belegprüfung (Teil D.1) wie jeder andere und werden direkt auf den
+     Entscheid verlinkt. Ausgangspunkt nur bei `verifiziert: true` im Index, sonst blosser Hinweis.
+   - **Nicht doppeln**: Den übergreifenden Zusammenhang in einem Satz verdichten und auf den
+     Abschnittsanker verweisen (`/themen/{slug}/#{anker}`); «In Themen behandelt» setzt das Layout selbst.
+   - **Widerspruch**: Erweist sich ein Thema als falsch oder überholt, nicht stillschweigend
+     abweichen — das Thema mit eigenem Revisionseintrag korrigieren oder den Befund melden.
    Diese Liste jedem Subagenten mitgeben.
 
 ---

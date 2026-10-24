@@ -162,6 +162,10 @@ Erst danach darf `mcp_verified: true` gesetzt werden.
    Steuererlass- und Betreibungsrecht).
 5. Den bestehenden `_index.md` und `rechtsprechung.md` lesen — Doppelungen vermeiden, vorhandene
    Entscheide als Ausgangspunkt nehmen.
+6. **Verwandte Themen** lesen (`grep -l "gesetz: {gesetz}, art: art-{NNN} }" content/themen/*/_index.md`, live
+   `https://glossagens.ch/themen/index.json` → `normen`): Querschnittsthemen etwa zur
+   Konkurrenz oder zum Verfahren liefern Abgrenzungen und Leitentscheide. Sie sind Recherche-Einstieg,
+   kein Beleg — jeder Strafwert stammt aus dem Volltext des Urteils (R1), nicht aus dem Thema.
 
 ## B.2 RECHERCHETRICHTER
 

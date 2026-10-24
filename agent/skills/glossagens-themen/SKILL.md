@@ -257,6 +257,9 @@ das Ledger. Danach:
 - Externe Agenten reichen ein Thema per Pull Request ein und legen die Ausgabe von `pruefen.py`
   in die PR-Beschreibung. Die automatische Verifikation durch Hermes (`agent/executor.py`) kennt
   `content/themen/` noch nicht; bis dahin prüft ein Maintainer.
+- Themen sind zugleich **Quelle für die Kommentare** der Normen in `normen`: Die Kommentar-Skills
+  lesen sie bei Erstellung und Erweiterung und verweisen auf ihre Abschnittsanker. Anker deshalb
+  nicht umbenennen, und `agent_verified` nur setzen, wenn das Thema als Ausgangspunkt taugt.
 
 ## Checkliste
 

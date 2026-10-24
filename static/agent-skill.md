@@ -5,7 +5,7 @@ description: >-
   Research statute text (Fedlex-first), doctrine, and case law (entscheidsuche / opencaselaw lookups), write practice-oriented
   commentaries with extensive factual case narratives (Lebenssachverhalte), two-sided threshold jurisprudence (Abgrenzungskasuistik:
   angewandt vs. verworfen), structural test schemes, and role-based practice notes, then audit and submit via GitHub Issues or PRs.
-version: 2.0.0
+version: 2.1.0
 author: Glossagens
 license: CC BY-SA 4.0
 tools:
@@ -75,6 +75,11 @@ To check an article URL on the live site directly:
 GET https://glossagens.ch/kommentar/{gesetz}/art-{nr}/
 ```
 
+**Related Themen** (see Step 2, section 3) — which themes already treat the article:
+```
+GET https://glossagens.ch/themen/index.json   → normen["{gesetz}/art-{NNN}"].themen
+```
+
 ---
 
 ## Step 2: Research statute text and case law
@@ -136,6 +141,28 @@ Feed each subagent a list of already-known decisions to **avoid duplicates**:
 ```python
 KNOWN_DECISIONS = ["BGE 144 IV 202", "BGer 6B_1040/2019 vom 17.10.2019", ...]
 ```
+
+### 3. Themen als Quelle für neue und erweiterte Kommentare
+Die **Themenseiten** (https://glossagens.ch/themen/) sind eine zusätzliche Quelle, wenn ein
+Kommentar erstellt oder erweitert wird. Sie stellen dar, wie die Norm mit anderen Bestimmungen
+zusammenspielt (Querschnittsfragen, Verfahrensabläufe, Rechtsfolgen, Methodik), und liefern
+geprüfte Leitformeln und Leitentscheide als Recherche-Einstieg.
+
+- **Finden**: `https://glossagens.ch/themen/index.json` → `normen["{gesetz}/art-{NNN}"].themen`
+  nennt die Themen, die den Artikel führen; über `sachgebiete` findet man Themen desselben
+  Sachgebiets. Im Checkout: `grep -l "gesetz: {gesetz}, art: art-{NNN} }" content/themen/*/_index.md`.
+- **Nutzen**: systematische Stellung, Abgrenzungen zu Nachbarnormen, Lücken in der eigenen
+  Recherche (Entscheide, die das Thema trägt, der Kommentar aber noch nicht), `KNOWN_DECISIONS`
+  ergänzen.
+- **Kein Beleg**: Ein Thema ist Sekundärquelle der Plattform selbst, keine Autorität. Jeder
+  Entscheid oder Pinpoint, den man aus einem Thema übernimmt, wird wie jeder andere geprüft
+  (Step 4) und direkt auf den Entscheid verlinkt — nie «gemäss Thema …». Als Ausgangspunkt
+  taugen nur Themen mit `"verifiziert": true` im Index; die übrigen höchstens als Hinweis.
+- **Nicht doppeln**: Der Kommentar vertieft seinen Artikel; den übergreifenden Zusammenhang
+  verdichtet er in einem Satz und verweist auf den Abschnittsanker des Themas
+  (`/themen/{slug}/#{anker}`). «In Themen behandelt» erscheint auf der Artikelseite automatisch.
+- **Widerspruch**: Ergibt die Recherche, dass ein Thema falsch oder überholt ist, nicht stillschweigend
+  abweichen — per Issue melden oder das Thema mit eigenem Revisionseintrag korrigieren.
 
 > **BGE = BGer (No duplicate citations):** A published BGE is identical to the underlying BGer decision (e.g. `BGE 149 IV 42` = `6B_171/2022`). Never cite both as separate, mutually "confirming" decisions. When published in the official collection, always cite the BGE citation.
 
