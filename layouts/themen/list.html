@@ -54,6 +54,9 @@
                 {{- end -}}
               </div>
             {{- end }}
+            {{/* Wie auf /kommentar/: für Mobil und Tablet; ab 1280px zeigt
+                 die TOC-Spalte dieselbe Liste (toc.html). */}}
+            {{ partial "aktivitaet.html" (dict "context" . "variant" "inline" "bereich" "themen") }}
 
           {{- else }}
             {{/* ============ /themen/{slug}/ — Themenseite ============ */}}

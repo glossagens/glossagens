@@ -406,6 +406,10 @@ Darstellung (`layouts/themen/list.html`, Daten aus `layouts/_partials/themen/ind
   «Betroffene Bestimmungen» (aus `normen`) und «Verwandte Themen» (gemeinsame Norm oder Sachgebiet).
 - Kommentarartikel, die ein Thema in `normen` führt, zeigen unter dem Titel «In Themen behandelt».
 - Sachgebiet-Seiten listen die Themen vor den Artikeln.
+- `/themen/` zeigt wie `/kommentar/` «Kürzlich geändert» und «Neueste Themen»
+  (`layouts/_partials/aktivitaet.html`, Parameter `bereich`): ab 1280px in der
+  TOC-Spalte, darunter am Seitenende. Geändert heisst: letzte Git-Änderung im
+  Bundle an einem späteren Kalendertag als `date`.
 
 **Index für bger-update**: `/themen/index.json` (`layouts/themen/list.json.json`) mit
 `gesetze` (Kürzel, SR), `normen` (`"or/art-336c"` → Kommentar-URL, Themen), `sachgebiete`

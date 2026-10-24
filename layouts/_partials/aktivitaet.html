@@ -1,12 +1,19 @@
 {{- /*
-  Startseiten-Übersicht: kürzlich geänderte und neu erstellte Artikel über alle
-  Gesetze hinweg. Ein Artikel, der seit der Erstellung nicht revidiert wurde,
-  erscheint nur unter „Neueste Artikel", nicht zusätzlich unter „Kürzlich
-  geändert".
+  Übersicht auf /kommentar/ und /themen/: kürzlich geänderte und neu erstellte
+  Einträge. Ein Eintrag, der seit der Erstellung nicht revidiert wurde,
+  erscheint nur unter „Neueste …", nicht zusätzlich unter „Kürzlich geändert".
 
   Aufruf mit einem Dict:
 
-    {{ partial "kommentar/aktivitaet.html" (dict "context" . "variant" "sidebar") }}
+    {{ partial "aktivitaet.html" (dict "context" . "variant" "sidebar") }}
+    {{ partial "aktivitaet.html" (dict "context" . "variant" "inline" "bereich" "themen") }}
+
+  `bereich` bestimmt die Einträge:
+
+  - "kommentar" (Standard) — die Artikel aller Gesetze; Kontext ist /kommentar/,
+    die Metazeile nennt das Gesetzeskürzel.
+  - "themen" — die Themen; Kontext ist /themen/, die Metazeile nennt den Typ
+    (data/themen/typen.yaml).
 
   `variant` steuert nur die Platzierung, nicht den Inhalt:
 
@@ -26,7 +33,11 @@
     `rechtsprechung.md` oder `strafzumessung.md` nachträgt, hat am Artikel
     gearbeitet. bv/art-009 etwa stand auf 14.08.2026, während die
     Rechtsprechungsseite am 17.08. überarbeitet wurde.
-  - „Neueste Artikel" kommt weiterhin aus `date` im Frontmatter. Git kennt nur
+  - Als revidiert gilt ein Eintrag erst, wenn die letzte Änderung an einem
+    späteren Kalendertag liegt als `date`. Ein exakter Zeitvergleich machte jeden
+    neuen Eintrag sofort auch zu einem geänderten: `date` steht auf Mitternacht,
+    der erste Commit liegt Stunden später.
+  - „Neueste …" kommt weiterhin aus `date` im Frontmatter. Git kennt nur
     die erste Anlage der Datei; wo zuerst ein Stub lag, wäre das irreführend.
 
   Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
@@ -35,25 +46,43 @@
 
 {{- $ctx := .context -}}
 {{- $variant := .variant | default "sidebar" -}}
+{{- $bereich := .bereich | default "kommentar" -}}
+
+{{- /* Einträge sammeln: Page Bundles, deren Änderungsdatum das Maximum über das
+       Bundle ist (siehe oben), mit einem Etikett für die Metazeile. */ -}}
+{{- $bundles := slice -}}
+{{- if eq $bereich "themen" -}}
+  {{- $typen := dict -}}
+  {{- range hugo.Data.themen.typen.typen -}}{{- $typen = merge $typen (dict .key .name) -}}{{- end -}}
+  {{- range $ctx.Sections -}}
+    {{- $bundles = $bundles | append (dict "page" . "label" (index $typen .Params.typ | default "Thema")) -}}
+  {{- end -}}
+{{- else -}}
+  {{- range $ctx.Sections -}}
+    {{- $gesetz := . -}}
+    {{- range where $gesetz.Sections "Kind" "section" -}}
+      {{- $bundles = $bundles | append (dict "page" . "label" ($gesetz.Params.kuerzel | default $gesetz.Title)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 {{- $anzahl := 5 -}}
 {{- $artikel := slice -}}
-{{- range $ctx.Sections -}}
-  {{- $gesetz := . -}}
-  {{- range where $gesetz.Sections "Kind" "section" -}}
-    {{- $geaendert := .Lastmod -}}
-    {{- range .Pages -}}
-      {{- if .Lastmod.After $geaendert -}}{{- $geaendert = .Lastmod -}}{{- end -}}
-    {{- end -}}
-    {{- $artikel = $artikel | append (dict
-      "page" .
-      "gesetz" $gesetz
-      "datum" .Date
-      "geaendert" $geaendert
-      "revidiert" (not (.Date.Equal $geaendert))
-    ) -}}
+{{- range $bundles -}}
+  {{- $p := .page -}}
+  {{- $geaendert := $p.Lastmod -}}
+  {{- range $p.Pages -}}
+    {{- if .Lastmod.After $geaendert -}}{{- $geaendert = .Lastmod -}}{{- end -}}
   {{- end -}}
+  {{- $artikel = $artikel | append (dict
+    "page" $p
+    "label" .label
+    "datum" $p.Date
+    "geaendert" $geaendert
+    "revidiert" (gt ($geaendert.Format "2006-01-02") ($p.Date.Format "2006-01-02"))
+  ) -}}
 {{- end -}}
+{{- $neu := cond (eq $bereich "themen") "Neueste Themen" "Neueste Artikel" -}}
 
 {{- if $artikel -}}
 
@@ -133,7 +162,7 @@
   margin: 0;
 }
 
-/* Inline-Fassung am Ende der Gesetzesliste — siehe Kopfkommentar. */
+/* Inline-Fassung am Ende der Übersicht — siehe Kopfkommentar. */
 .gl-akt-mobil {
   margin-top: 2.75rem;
   padding-top: 1.5rem;
@@ -187,7 +216,7 @@
 {{- $spalten := slice
   (dict "titel" "Kürzlich geändert" "leer" "Noch keine Änderungen erfasst."
     "eintraege" (first $anzahl (sort (where $artikel "revidiert" true) "geaendert" "desc")) "feld" "geaendert")
-  (dict "titel" "Neueste Artikel" "leer" "Noch keine Artikel erfasst."
+  (dict "titel" $neu "leer" "Noch nichts erfasst."
     "eintraege" (first $anzahl (sort $artikel "datum" "desc")) "feld" "datum")
 -}}
 
@@ -215,13 +244,12 @@
         <ul class="gl-toc-aliste">
           {{- range . -}}
             {{- $p := .page -}}
-            {{- $g := .gesetz -}}
             {{- $wann := cond (eq $feld "datum") .datum .geaendert -}}
             <li>
               <a class="gl-toc-azeile" href="{{ $p.RelPermalink }}">
                 <span class="gl-toc-atitel">{{ $p.Title }}</span>
                 <span class="gl-toc-ameta">
-                  <span class="gl-toc-gesetz">{{ $g.Params.kuerzel | default $g.Title }}</span>
+                  <span class="gl-toc-gesetz">{{ .label }}</span>
                   <span class="gl-toc-datum">{{ $wann.Format "02.01.2006" }}</span>
                 </span>
               </a>
