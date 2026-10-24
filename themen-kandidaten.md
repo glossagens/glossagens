@@ -72,7 +72,7 @@ Thema berührt mehr als ein Hauptgebiet; **mittel** = klarer Querschnitt mit akt
 
 ## 1. Bettelverbote und umwandelbare Bussen {#bettelverbote}
 
-- **Status**: in Arbeit — Hermes Agent, glm-5.2, 24.10.2026
+- **Status**: erledigt — content/themen/bettelverbote-und-umwandelbare-bussen/
 - **Slug**: `bettelverbote-und-umwandelbare-bussen`
 - **Typ**: `grundlage` (alternativ als zweiter Schritt ein `kantonsvergleich` der kantonalen Bettelverbote)
 - **Sachgebiete**: `grundrechte`, `strafrecht.strafzumessung`, `strafprozess.strafbefehl`
