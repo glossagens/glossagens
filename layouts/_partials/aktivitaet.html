@@ -39,6 +39,11 @@
     der erste Commit liegt Stunden später.
   - „Neueste …" kommt weiterhin aus `date` im Frontmatter. Git kennt nur
     die erste Anlage der Datei; wo zuerst ein Stub lag, wäre das irreführend.
+    `date` trägt aber nur den Tag: am 24.10.2026 entstanden 13 Themen, die alle
+    auf Mitternacht standen und nach Titel sortiert erschienen. Innerhalb eines
+    Tages entscheidet deshalb die Uhrzeit des letzten Commits — bei einem
+    unrevidierten Eintrag ist das die Anlage. Revidierte reihen sich innerhalb
+    ihres Tages zuletzt ein (ihr letzter Commit sagt über die Anlage nichts).
 
   Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
   Theme heraus kompiliert, hier erfundene Varianten fehlen im Bundle.
@@ -74,12 +79,15 @@
   {{- range $p.Pages -}}
     {{- if .Lastmod.After $geaendert -}}{{- $geaendert = .Lastmod -}}{{- end -}}
   {{- end -}}
+  {{- $tag := $p.Date.Format "2006-01-02" -}}
+  {{- $revidiert := gt ($geaendert.Format "2006-01-02") $tag -}}
   {{- $artikel = $artikel | append (dict
     "page" $p
     "label" .label
     "datum" $p.Date
     "geaendert" $geaendert
-    "revidiert" (gt ($geaendert.Format "2006-01-02") ($p.Date.Format "2006-01-02"))
+    "revidiert" $revidiert
+    "neu" (printf "%s %s" $tag (cond $revidiert "00:00:00" ($geaendert.Format "15:04:05")))
   ) -}}
 {{- end -}}
 {{- $neu := cond (eq $bereich "themen") "Neueste Themen" "Neueste Artikel" -}}
@@ -217,7 +225,7 @@
   (dict "titel" "Kürzlich geändert" "leer" "Noch keine Änderungen erfasst."
     "eintraege" (first $anzahl (sort (where $artikel "revidiert" true) "geaendert" "desc")) "feld" "geaendert")
   (dict "titel" $neu "leer" "Noch nichts erfasst."
-    "eintraege" (first $anzahl (sort $artikel "datum" "desc")) "feld" "datum")
+    "eintraege" (first $anzahl (sort $artikel "neu" "desc")) "feld" "datum")
 -}}
 
 {{- if eq $variant "inline" -}}
