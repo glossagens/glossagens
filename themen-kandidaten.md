@@ -49,7 +49,7 @@ anderen Gerichts aus dem Annex.
 | 2 | Haftgründe und Ersatzmassnahmen im Strafverfahren | `verfahren` | hoch | erledigt — content/themen/haftgruende-und-ersatzmassnahmen/ (9c918263) |
 | 3 | Altersfeststellung und Datenberichtigung im ZEMIS/SYMIC | `verfahren` | hoch | offen |
 | 4 | Fernhaltung straffälliger Ausländerinnen und Ausländer | `rechtsfolgen` | hoch | offen |
-| 5 | Replikrecht und Akteneinsicht | `grundlage` | hoch | offen |
+| 5 | Replikrecht und Akteneinsicht | `grundlage` | hoch | in Arbeit — Antigravity, gemini-3.8-flash, 24.10.2026 |
 | 6 | Auszonung oder Nichteinzonung | `grundlage` | mittel | offen |
 | 7 | Beweisverwertungsverbote im Strafprozess | `grundlage` | mittel | offen |
 | 8 | Siegelung und Entsiegelung | `verfahren` | mittel | offen |
@@ -154,7 +154,7 @@ Thema berührt mehr als ein Hauptgebiet; **mittel** = klarer Querschnitt mit akt
 
 ## 5. Replikrecht und Akteneinsicht {#replikrecht}
 
-- **Status**: offen
+- **Status**: in Arbeit — Antigravity, gemini-3.8-flash, 24.10.2026
 - **Slug**: `replikrecht-und-akteneinsicht`
 - **Typ**: `grundlage`
 - **Sachgebiete**: `grundrechte`, `bundesrechtspflege`, `verwaltungsverfahren`
